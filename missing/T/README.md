@@ -3854,6 +3854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tender Root | 235213 | [235213-tender-root.json](./235213-tender-root.json) |
 | Tender: Creature Comforts | 146098 | [146098-tender-creature-comforts.json](./146098-tender-creature-comforts.json) |
 | Tenderfoot Tactics | 117395 | [117395-tenderfoot-tactics.json](./117395-tenderfoot-tactics.json) |
+| Tenderhearted | 314528 | [314528-tenderhearted.json](./314528-tenderhearted.json) |
 | Tenders Fight | 245818 | [245818-tenders-fight.json](./245818-tenders-fight.json) |
 | Tendo Blade | 202973 | [202973-tendo-blade.json](./202973-tendo-blade.json) |
 | Tendryll | 211232 | [211232-tendryll.json](./211232-tendryll.json) |
@@ -7329,6 +7330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cooking Game VR | 104045 | [104045-the-cooking-game-vr.json](./104045-the-cooking-game-vr.json) |
 | The Cooking Game: Deluxe Edition | 53704 | [53704-the-cooking-game-deluxe-edition.json](./53704-the-cooking-game-deluxe-edition.json) |
 | The Cool Guys Are Level 100 | 316409 | [316409-the-cool-guys-are-level-100.json](./316409-the-cool-guys-are-level-100.json) |
+| The Cope | 314548 | [314548-the-cope.json](./314548-the-cope.json) |
 | The Copper Age | 217913 | [217913-the-copper-age.json](./217913-the-copper-age.json) |
 | The Copper Canyon Dixie Dash | 144884 | [144884-the-copper-canyon-dixie-dash.json](./144884-the-copper-canyon-dixie-dash.json) |
 | The Copperfield Department | 326967 | [326967-the-copperfield-department.json](./326967-the-copperfield-department.json) |
@@ -8331,6 +8333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Duck Is In Danger | 368532 | [368532-the-duck-is-in-danger.json](./368532-the-duck-is-in-danger.json) |
 | The Duck Pond | 310220 | [310220-the-duck-pond.json](./310220-the-duck-pond.json) |
 | The Duck Song Game | 205616 | [205616-the-duck-song-game.json](./205616-the-duck-song-game.json) |
+| The Duck Song Game | 314544 | [314544-the-duck-song-game.json](./314544-the-duck-song-game.json) |
 | The Duckforce Rises | 59280 | [59280-the-duckforce-rises.json](./59280-the-duckforce-rises.json) |
 | The Ducksuckers | 195245 | [195245-the-ducksuckers.json](./195245-the-ducksuckers.json) |
 | The Duduk Master | 232433 | [232433-the-duduk-master.json](./232433-the-duduk-master.json) |
@@ -14780,6 +14783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pyramid Prison | 127236 | [127236-the-pyramid-prison.json](./127236-the-pyramid-prison.json) |
 | The Pyramids of Egypt | 62671 | [62671-the-pyramids-of-egypt.json](./62671-the-pyramids-of-egypt.json) |
 | The Pyraplex | 124082 | [124082-the-pyraplex.json](./124082-the-pyraplex.json) |
+| The Pyrite Talisman | 314535 | [314535-the-pyrite-talisman.json](./314535-the-pyrite-talisman.json) |
 | The Pyro Guy | 394352 | [394352-the-pyro-guy.json](./394352-the-pyro-guy.json) |
 | The Q - Live Trivia Network | 105863 | [105863-the-q-live-trivia-network.json](./105863-the-q-live-trivia-network.json) |
 | The Qaedon Wars - The Story Begins | 110829 | [110829-the-qaedon-wars-the-story-begins.json](./110829-the-qaedon-wars-the-story-begins.json) |
@@ -26093,6 +26097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Guns: Special Edition | 106230 | [106230-tower-of-guns-special-edition.json](./106230-tower-of-guns-special-edition.json) |
 | Tower of Hanoi | 188579 | [188579-tower-of-hanoi.json](./188579-tower-of-hanoi.json) |
 | Tower of Heresy | 127799 | [127799-tower-of-heresy.json](./127799-tower-of-heresy.json) |
+| Tower of Hero | 314204 | [314204-tower-of-hero.json](./314204-tower-of-hero.json) |
 | Tower of Hidden Waifus | 276142 | [276142-tower-of-hidden-waifus.json](./276142-tower-of-hidden-waifus.json) |
 | Tower of Jank | 373790 | [373790-tower-of-jank.json](./373790-tower-of-jank.json) |
 | Tower Of Lies | 291520 | [291520-tower-of-lies.json](./291520-tower-of-lies.json) |
@@ -30441,6 +30446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troy Online | 92516 | [92516-troy-online.json](./92516-troy-online.json) |
 | Troy-Bilt: Testing Grounds | 327791 | [327791-troy-bilt-testing-grounds.json](./327791-troy-bilt-testing-grounds.json) |
 | Troy: The Malware Fight | 156974 | [156974-troy-the-malware-fight.json](./156974-troy-the-malware-fight.json) |
+| Troy: The Red Winged Hero | 314525 | [314525-troy-the-red-winged-hero.json](./314525-troy-the-red-winged-hero.json) |
 | TRT Bil Bakalım | 380637 | [380637-trt-bil-bakal-m.json](./380637-trt-bil-bakal-m.json) |
 | Tru Or Die: Chiraq | 280850 | [280850-tru-or-die-chiraq.json](./280850-tru-or-die-chiraq.json) |
 | Truants | 155931 | [155931-truants.json](./155931-truants.json) |
