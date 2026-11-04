@@ -4899,6 +4899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WikiParty.org | 233584 | [233584-wikiparty-org.json](./233584-wikiparty-org.json) |
 | Wikipedia Gacha | 394176 | [394176-wikipedia-gacha.json](./394176-wikipedia-gacha.json) |
 | Wikipedia Quest | 402504 | [402504-wikipedia-quest.json](./402504-wikipedia-quest.json) |
+| Wikipedia Speedrun | 315397 | [315397-wikipedia-speedrun.json](./315397-wikipedia-speedrun.json) |
 | Wikitrivia | 212691 | [212691-wikitrivia.json](./212691-wikitrivia.json) |
 | Wiktor TD | 178426 | [178426-wiktor-td.json](./178426-wiktor-td.json) |
 | Wil | 96844 | [96844-wil.json](./96844-wil.json) |
@@ -5922,6 +5923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wintertwined | 189299 | [189299-wintertwined.json](./189299-wintertwined.json) |
 | Winthorp's Mansion | 213764 | [213764-winthorps-mansion.json](./213764-winthorps-mansion.json) |
 | WinTrek | 69859 | [69859-wintrek.json](./69859-wintrek.json) |
+| WinWar II | 315396 | [315396-winwar-ii.json](./315396-winwar-ii.json) |
 | WinWheel | 83439 | [83439-winwheel.json](./83439-winwheel.json) |
 | Winx Club | 200907 | [200907-winx-club.json](./200907-winx-club.json) |
 | Winx Club | 6680 | [6680-winx-club.json](./6680-winx-club.json) |
