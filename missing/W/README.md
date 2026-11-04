@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waking the Glares | 27923 | [27923-waking-the-glares.json](./27923-waking-the-glares.json) |
 | Waking the Glares - Chapter I and II | 56430 | [56430-waking-the-glares-chapter-i-and-ii.json](./56430-waking-the-glares-chapter-i-and-ii.json) |
 | Waking Tides | 258580 | [258580-waking-tides.json](./258580-waking-tides.json) |
+| Waking up in LS | 327558 | [327558-waking-up-in-ls.json](./327558-waking-up-in-ls.json) |
 | Waking Up To You | 395038 | [395038-waking-up-to-you.json](./395038-waking-up-to-you.json) |
 | Waking up while the sun sets | 178490 | [178490-waking-up-while-the-sun-sets.json](./178490-waking-up-while-the-sun-sets.json) |
 | Waking Up: Way Back Home | 264511 | [264511-waking-up-way-back-home.json](./264511-waking-up-way-back-home.json) |
@@ -3285,6 +3286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welehola | 378355 | [378355-welehola.json](./378355-welehola.json) |
 | Welkin Melody | 333439 | [333439-welkin-melody.json](./333439-welkin-melody.json) |
 | Welkin Road | 18684 | [18684-welkin-road.json](./18684-welkin-road.json) |
+| Well Dumb | 328187 | [328187-well-dumb.json](./328187-well-dumb.json) |
 | Well Dweller | 360075 | [360075-well-dweller.json](./360075-well-dweller.json) |
 | Well Keeper | 368649 | [368649-well-keeper.json](./368649-well-keeper.json) |
 | Well of Darkness | 346490 | [346490-well-of-darkness.json](./346490-well-of-darkness.json) |
@@ -3624,6 +3626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What If George Washington Was a Girl? | 212581 | [212581-what-if-george-washington-was-a-girl.json](./212581-what-if-george-washington-was-a-girl.json) |
 | What If Your Girl Was a Frog 2 | 292772 | [292772-what-if-your-girl-was-a-frog-2.json](./292772-what-if-your-girl-was-a-frog-2.json) |
 | What if Your Girl Was a Frog? | 202553 | [202553-what-if-your-girl-was-a-frog.json](./202553-what-if-your-girl-was-a-frog.json) |
+| What If...? An Immersive Story | 327694 | [327694-what-if-an-immersive-story.json](./327694-what-if-an-immersive-story.json) |
 | What in Carnation?! | 398810 | [398810-what-in-carnation.json](./398810-what-in-carnation.json) |
 | What in the World? | 106266 | [106266-what-in-the-world.json](./106266-what-in-the-world.json) |
 | What Is Death? | 390187 | [390187-what-is-death.json](./390187-what-is-death.json) |
