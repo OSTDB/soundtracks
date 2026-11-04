@@ -1386,9 +1386,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eFootball PES 2021 Season Update | 135881 | [135881-efootball-pes-2021-season-update.json](./135881-efootball-pes-2021-season-update.json) |
 | eFootball: Lamine Yamal Edition 2026 | 361246 | [361246-efootball-lamine-yamal-edition-2026.json](./361246-efootball-lamine-yamal-edition-2026.json) |
 | eFootball: Lamine Yamal Edition 2026 - Deluxe | 361247 | [361247-efootball-lamine-yamal-edition-2026-deluxe.json](./361247-efootball-lamine-yamal-edition-2026-deluxe.json) |
+| eFootball: Leo Messi Edition 2025 | 332185 | [332185-efootball-leo-messi-edition-2025.json](./332185-efootball-leo-messi-edition-2025.json) |
+| eFootball: Leo Messi Edition 2025 - Deluxe | 332184 | [332184-efootball-leo-messi-edition-2025-deluxe.json](./332184-efootball-leo-messi-edition-2025-deluxe.json) |
 | eFootball: Leo Messi Edition 2026 | 361244 | [361244-efootball-leo-messi-edition-2026.json](./361244-efootball-leo-messi-edition-2026.json) |
 | eFootball: Leo Messi Edition 2026 - Deluxe | 361245 | [361245-efootball-leo-messi-edition-2026-deluxe.json](./361245-efootball-leo-messi-edition-2026-deluxe.json) |
 | eFootball: Mourinho Edition 2026 | 361243 | [361243-efootball-mourinho-edition-2026.json](./361243-efootball-mourinho-edition-2026.json) |
+| eFootball: Neymar Jr Edition 2025 | 332187 | [332187-efootball-neymar-jr-edition-2025.json](./332187-efootball-neymar-jr-edition-2025.json) |
+| eFootball: Neymar Jr Edition 2025 - Deluxe | 332186 | [332186-efootball-neymar-jr-edition-2025-deluxe.json](./332186-efootball-neymar-jr-edition-2025-deluxe.json) |
 | EFourGames | 362884 | [362884-efourgames.json](./362884-efourgames.json) |
 | Efpiyes | 234045 | [234045-efpiyes.json](./234045-efpiyes.json) |
 | EFPSE/EFPSECE Games Practice | 400564 | [400564-efpse-efpsece-games-practice.json](./400564-efpse-efpsece-games-practice.json) |
