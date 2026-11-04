@@ -2942,7 +2942,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartel Simulator | 263208 | [263208-cartel-simulator.json](./263208-cartel-simulator.json) |
 | Cartel Simulator | 312414 | [312414-cartel-simulator.json](./312414-cartel-simulator.json) |
 | Cartel Smash | 114360 | [114360-cartel-smash.json](./114360-cartel-smash.json) |
-| Cartel Tycoon | 128991 | [128991-cartel-tycoon.json](./128991-cartel-tycoon.json) |
 | Cartel Tycoon: Anniversary Edition | 268321 | [268321-cartel-tycoon-anniversary-edition.json](./268321-cartel-tycoon-anniversary-edition.json) |
 | Cartel Tycoon: Lieutenants Pack - Guerilla | 226298 | [226298-cartel-tycoon-lieutenants-pack-guerilla.json](./226298-cartel-tycoon-lieutenants-pack-guerilla.json) |
 | Cartel Tycoon: Lieutenants Pack - La Familia | 243673 | [243673-cartel-tycoon-lieutenants-pack-la-familia.json](./243673-cartel-tycoon-lieutenants-pack-la-familia.json) |
