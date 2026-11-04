@@ -3872,6 +3872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nick Football Champions | 112133 | [112133-nick-football-champions.json](./112133-nick-football-champions.json) |
 | Nick Jr. Dora the Explorer | 245429 | [245429-nick-jr-dora-the-explorer.json](./245429-nick-jr-dora-the-explorer.json) |
 | Nick Jr. Go Diego Go! | 245428 | [245428-nick-jr-go-diego-go.json](./245428-nick-jr-go-diego-go.json) |
+| Nick Jr. Party Adventure | 306905 | [306905-nick-jr-party-adventure.json](./306905-nick-jr-party-adventure.json) |
 | Nick Jr. Play Math! | 210029 | [210029-nick-jr-play-math.json](./210029-nick-jr-play-math.json) |
 | Nick Logic for Kids | 387331 | [387331-nick-logic-for-kids.json](./387331-nick-logic-for-kids.json) |
 | Nick Naster's eXtinction | 71877 | [71877-nick-nasters-extinction.json](./71877-nick-nasters-extinction.json) |
@@ -5898,6 +5899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga Ibun | 49746 | [49746-nobunaga-ibun.json](./49746-nobunaga-ibun.json) |
 | Nobunaga Mahjong | 133794 | [133794-nobunaga-mahjong.json](./133794-nobunaga-mahjong.json) |
 | Nobunaga no Yabou | 131537 | [131537-nobunaga-no-yabou.json](./131537-nobunaga-no-yabou.json) |
+| Nobunaga no Yabou | 307163 | [307163-nobunaga-no-yabou.json](./307163-nobunaga-no-yabou.json) |
 | Nobunaga no Yabou 2 | 60088 | [60088-nobunaga-no-yabou-2.json](./60088-nobunaga-no-yabou-2.json) |
 | Nobunaga no Yabou 201X | 61101 | [61101-nobunaga-no-yabou-201x.json](./61101-nobunaga-no-yabou-201x.json) |
 | Nobunaga no Yabou DS 2 | 59379 | [59379-nobunaga-no-yabou-ds-2.json](./59379-nobunaga-no-yabou-ds-2.json) |
@@ -7030,6 +7032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nozoku Rush | 223600 | [223600-nozoku-rush.json](./223600-nozoku-rush.json) |
 | Nozomi-chan no Spiritual Card | 405493 | [405493-nozomi-chan-no-spiritual-card.json](./405493-nozomi-chan-no-spiritual-card.json) |
 | Nozomu School Daze | 411649 | [411649-nozomu-school-daze.json](./411649-nozomu-school-daze.json) |
+| NPC Adventure | 307161 | [307161-npc-adventure.json](./307161-npc-adventure.json) |
 | NPC Adventure: Post-Jam Edition | 308560 | [308560-npc-adventure-post-jam-edition.json](./308560-npc-adventure-post-jam-edition.json) |
 | NPC Adventure: The Arena Update | 316010 | [316010-npc-adventure-the-arena-update.json](./316010-npc-adventure-the-arena-update.json) |
 | NPC Blacksmith Simulator | 417475 | [417475-npc-blacksmith-simulator.json](./417475-npc-blacksmith-simulator.json) |
