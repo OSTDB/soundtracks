@@ -6873,6 +6873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goofy's Loco-Coconuts | 246510 | [246510-goofys-loco-coconuts.json](./246510-goofys-loco-coconuts.json) |
 | Goofy's Milk Mania | 246519 | [246519-goofys-milk-mania.json](./246519-goofys-milk-mania.json) |
 | Goofy's Railway Express | 12122 | [12122-goofys-railway-express.json](./12122-goofys-railway-express.json) |
+| Goofy's Silly Slide | 313384 | [313384-goofys-silly-slide.json](./313384-goofys-silly-slide.json) |
 | Goofy's Underwater Adventure | 243817 | [243817-goofys-underwater-adventure.json](./243817-goofys-underwater-adventure.json) |
 | GoofyPlatformer | 343009 | [343009-goofyplatformer.json](./343009-goofyplatformer.json) |
 | Goog | 201491 | [201491-goog.json](./201491-goog.json) |
