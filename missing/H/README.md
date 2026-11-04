@@ -9183,6 +9183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai: Star Rail - In Ravages Does the Whistle Sound | 408877 | [408877-honkai-star-rail-in-ravages-does-the-whistle-sound.json](./408877-honkai-star-rail-in-ravages-does-the-whistle-sound.json) |
 | Honkai: Star Rail - Into the Yawning Chasm | 290387 | [290387-honkai-star-rail-into-the-yawning-chasm.json](./290387-honkai-star-rail-into-the-yawning-chasm.json) |
 | Honkai: Star Rail - Jolted Awake From a Winter Dream | 268380 | [268380-honkai-star-rail-jolted-awake-from-a-winter-dream.json](./268380-honkai-star-rail-jolted-awake-from-a-winter-dream.json) |
+| Honkai: Star Rail - Light Slips the Gate, Shadow Greets the Throne | 331635 | [331635-honkai-star-rail-light-slips-the-gate-shadow-greets-the-throne.json](./331635-honkai-star-rail-light-slips-the-gate-shadow-greets-the-throne.json) |
 | Honkai: Star Rail - Memories are the Prelude to Dreams | 380531 | [380531-honkai-star-rail-memories-are-the-prelude-to-dreams.json](./380531-honkai-star-rail-memories-are-the-prelude-to-dreams.json) |
 | Honkai: Star Rail - Paean of Era Nova | 326609 | [326609-honkai-star-rail-paean-of-era-nova.json](./326609-honkai-star-rail-paean-of-era-nova.json) |
 | Honkai: Star Rail - So Laughed the Masses | 398432 | [398432-honkai-star-rail-so-laughed-the-masses.json](./398432-honkai-star-rail-so-laughed-the-masses.json) |
