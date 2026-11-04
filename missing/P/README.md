@@ -16873,6 +16873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punt: Rebirth | 401486 | [401486-punt-rebirth.json](./401486-punt-rebirth.json) |
 | Puntar: The Somtum of Rememories | 419959 | [419959-puntar-the-somtum-of-rememories.json](./419959-puntar-the-somtum-of-rememories.json) |
 | Puny BOB | 221131 | [221131-puny-bob.json](./221131-puny-bob.json) |
+| Punyan | 328738 | [328738-punyan.json](./328738-punyan.json) |
 | Punyan Connecty | 362351 | [362351-punyan-connecty.json](./362351-punyan-connecty.json) |
 | Punyan for Nintendo Switch 2 | 378954 | [378954-punyan-for-nintendo-switch-2.json](./378954-punyan-for-nintendo-switch-2.json) |
 | Punzel: Chapter I - Toujours la Meme Histoire | 221147 | [221147-punzel-chapter-i-toujours-la-meme-histoire.json](./221147-punzel-chapter-i-toujours-la-meme-histoire.json) |
