@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Just Want to Be Single!! | 180571 | [180571-i-just-want-to-be-single.json](./180571-i-just-want-to-be-single.json) |
 | I Just Wanted to Fish | 422700 | [422700-i-just-wanted-to-fish.json](./422700-i-just-wanted-to-fish.json) |
 | I Keep Dying in Another World | 279510 | [279510-i-keep-dying-in-another-world.json](./279510-i-keep-dying-in-another-world.json) |
+| I Klopi tou Krasiou | 314768 | [314768-i-klopi-tou-krasiou.json](./314768-i-klopi-tou-krasiou.json) |
 | I Knew You Would Find This | 177816 | [177816-i-knew-you-would-find-this.json](./177816-i-knew-you-would-find-this.json) |
 | I Know a Guy | 389006 | [389006-i-know-a-guy.json](./389006-i-know-a-guy.json) |
 | I Know a Spot | 408984 | [408984-i-know-a-spot.json](./408984-i-know-a-spot.json) |
