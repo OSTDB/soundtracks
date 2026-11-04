@@ -3133,6 +3133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Hero II: Jinsei wa Jabuun | 137620 | [137620-jump-hero-ii-jinsei-wa-jabuun.json](./137620-jump-hero-ii-jinsei-wa-jabuun.json) |
 | Jump Hero: Beginning | 166802 | [166802-jump-hero-beginning.json](./166802-jump-hero-beginning.json) |
 | Jump Heroes | 290726 | [290726-jump-heroes.json](./290726-jump-heroes.json) |
+| Jump Higher | 310883 | [310883-jump-higher.json](./310883-jump-higher.json) |
 | Jump If You Can! | 193227 | [193227-jump-if-you-can.json](./193227-jump-if-you-can.json) |
 | Jump into the New Year | 395645 | [395645-jump-into-the-new-year.json](./395645-jump-into-the-new-year.json) |
 | Jump into the Plane | 174703 | [174703-jump-into-the-plane.json](./174703-jump-into-the-plane.json) |
