@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caesars Palace Video Bonus Poker | 200505 | [200505-caesars-palace-video-bonus-poker.json](./200505-caesars-palace-video-bonus-poker.json) |
 | Caesars Palace: Black Jack | 218438 | [218438-caesars-palace-black-jack.json](./218438-caesars-palace-black-jack.json) |
 | Caesars Palace: Deluxe 5 in 1 | 198706 | [198706-caesars-palace-deluxe-5-in-1.json](./198706-caesars-palace-deluxe-5-in-1.json) |
+| Caesars Slots | 323094 | [323094-caesars-slots.json](./323094-caesars-slots.json) |
 | Café 0: The Sleeping Beast - Remastered | 226278 | [226278-cafe-0-the-sleeping-beast-remastered.json](./226278-cafe-0-the-sleeping-beast-remastered.json) |
 | Cafe Battle | 240844 | [240844-cafe-battle.json](./240844-cafe-battle.json) |
 | Café Bouvardie | 225269 | [225269-cafe-bouvardie.json](./225269-cafe-bouvardie.json) |
@@ -16100,6 +16101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Kong | 13833 | [13833-crazy-kong.json](./13833-crazy-kong.json) |
 | Crazy Kong Part II | 311035 | [311035-crazy-kong-part-ii.json](./311035-crazy-kong-part-ii.json) |
 | Crazy Kung Fu | 142161 | [142161-crazy-kung-fu.json](./142161-crazy-kung-fu.json) |
+| Crazy Lakitu | 322917 | [322917-crazy-lakitu.json](./322917-crazy-lakitu.json) |
 | Crazy Little Jumper | 270572 | [270572-crazy-little-jumper.json](./270572-crazy-little-jumper.json) |
 | Crazy Lizard: The Amazing Journey | 235142 | [235142-crazy-lizard-the-amazing-journey.json](./235142-crazy-lizard-the-amazing-journey.json) |
 | Crazy Localization | 403527 | [403527-crazy-localization.json](./403527-crazy-localization.json) |
