@@ -4143,6 +4143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search All: Worms | 231334 | [231334-search-all-worms.json](./231334-search-all-worms.json) |
 | Search and Rescue 3 | 206641 | [206641-search-and-rescue-3.json](./206641-search-and-rescue-3.json) |
 | Search and Rescue: Dogs | 294959 | [294959-search-and-rescue-dogs.json](./294959-search-and-rescue-dogs.json) |
+| Search and Rescue: Mount Rainier National Park USA | 309295 | [309295-search-and-rescue-mount-rainier-national-park-usa.json](./309295-search-and-rescue-mount-rainier-national-park-usa.json) |
 | Search and Rescue: Snowman From Outer Space | 301271 | [301271-search-and-rescue-snowman-from-outer-space.json](./301271-search-and-rescue-snowman-from-outer-space.json) |
 | Search and Rescue: Yosemite | 259063 | [259063-search-and-rescue-yosemite.json](./259063-search-and-rescue-yosemite.json) |
 | Search Dungeon Master | 313254 | [313254-search-dungeon-master.json](./313254-search-dungeon-master.json) |
@@ -9931,6 +9932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigillvm: Resonance | 346264 | [346264-sigillvm-resonance.json](./346264-sigillvm-resonance.json) |
 | Sigils of Elohim | 17808 | [17808-sigils-of-elohim.json](./17808-sigils-of-elohim.json) |
 | Sigils of Nightfall | 306921 | [306921-sigils-of-nightfall.json](./306921-sigils-of-nightfall.json) |
+| Sigils of Slaughter | 309313 | [309313-sigils-of-slaughter.json](./309313-sigils-of-slaughter.json) |
 | Sigma | 260791 | [260791-sigma.json](./260791-sigma.json) |
 | Sigma 7 | 36861 | [36861-sigma-7.json](./36861-sigma-7.json) |
 | Sigma Battle Royale Shooter | 231899 | [231899-sigma-battle-royale-shooter.json](./231899-sigma-battle-royale-shooter.json) |
@@ -16218,6 +16220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitary Echoes | 322821 | [322821-solitary-echoes.json](./322821-solitary-echoes.json) |
 | Solitary Fighter | 39802 | [39802-solitary-fighter.json](./39802-solitary-fighter.json) |
 | Solitary Grace | 389493 | [389493-solitary-grace.json](./389493-solitary-grace.json) |
+| Solitary Sentinel | 309307 | [309307-solitary-sentinel.json](./309307-solitary-sentinel.json) |
 | Solitary Singleplayer Offline MMORPG | 424020 | [424020-solitary-singleplayer-offline-mmorpg.json](./424020-solitary-singleplayer-offline-mmorpg.json) |
 | Soliterix | 149460 | [149460-soliterix.json](./149460-soliterix.json) |
 | Solitiare 95: The Classic Game | 108952 | [108952-solitiare-95-the-classic-game.json](./108952-solitiare-95-the-classic-game.json) |
@@ -19015,6 +19018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -25587,6 +25591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Interface + Sudoku Zenkai | 283224 | [283224-stellar-interface-sudoku-zenkai.json](./283224-stellar-interface-sudoku-zenkai.json) |
 | Stellar Interface: Lost Galaxy | 237846 | [237846-stellar-interface-lost-galaxy.json](./237846-stellar-interface-lost-galaxy.json) |
 | Stellar Interface: Stellar Spacecrafts | 243229 | [243229-stellar-interface-stellar-spacecrafts.json](./243229-stellar-interface-stellar-spacecrafts.json) |
+| Stellar Larceny | 309308 | [309308-stellar-larceny.json](./309308-stellar-larceny.json) |
 | Stellar Mercenaries | 62773 | [62773-stellar-mercenaries.json](./62773-stellar-mercenaries.json) |
 | Stellar Mess: Operation Kush | 380122 | [380122-stellar-mess-operation-kush.json](./380122-stellar-mess-operation-kush.json) |
 | Stellar Mess: The Princess Conundrum - Chapter 1 | 220504 | [220504-stellar-mess-the-princess-conundrum-chapter-1.json](./220504-stellar-mess-the-princess-conundrum-chapter-1.json) |
