@@ -12671,6 +12671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DOOMpad | 246907 | [246907-doompad.json](./246907-doompad.json) |
 | Doomriderz | 372451 | [372451-doomriderz.json](./372451-doomriderz.json) |
 | Dooms | 340999 | [340999-dooms.json](./340999-dooms.json) |
+| Dooms 2: Seas of Blood | 341788 | [341788-dooms-2-seas-of-blood.json](./341788-dooms-2-seas-of-blood.json) |
 | Dooms 4: Endgame | 387929 | [387929-dooms-4-endgame.json](./387929-dooms-4-endgame.json) |
 | Dooms Knight | 87914 | [87914-dooms-knight.json](./87914-dooms-knight.json) |
 | Doomsday | 219754 | [219754-doomsday.json](./219754-doomsday.json) |
@@ -17829,6 +17830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Online: The Sharn Syndicate | 338766 | [338766-dungeons-and-dragons-online-the-sharn-syndicate.json](./338766-dungeons-and-dragons-online-the-sharn-syndicate.json) |
 | Dungeons & Dragons Online: The Sinister Secret of Saltmarsh | 258928 | [258928-dungeons-and-dragons-online-the-sinister-secret-of-saltmarsh.json](./258928-dungeons-and-dragons-online-the-sinister-secret-of-saltmarsh.json) |
 | Dungeons & Dragons Online: The Soul Splitter | 353726 | [353726-dungeons-and-dragons-online-the-soul-splitter.json](./353726-dungeons-and-dragons-online-the-soul-splitter.json) |
+| Dungeons & Dragons Online: The Temple of Elemental Evil | 341951 | [341951-dungeons-and-dragons-online-the-temple-of-elemental-evil.json](./341951-dungeons-and-dragons-online-the-temple-of-elemental-evil.json) |
 | Dungeons & Dragons Online: The Vale of Twilight | 349723 | [349723-dungeons-and-dragons-online-the-vale-of-twilight.json](./349723-dungeons-and-dragons-online-the-vale-of-twilight.json) |
 | Dungeons & Dragons Online: Three-Barrel Cove | 349764 | [349764-dungeons-and-dragons-online-three-barrel-cove.json](./349764-dungeons-and-dragons-online-three-barrel-cove.json) |
 | Dungeons & Dragons Online: Trials of the Archons | 353733 | [353733-dungeons-and-dragons-online-trials-of-the-archons.json](./353733-dungeons-and-dragons-online-trials-of-the-archons.json) |
@@ -17839,6 +17841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Online: Universal Tree - Inquisitive | 349634 | [349634-dungeons-and-dragons-online-universal-tree-inquisitive.json](./349634-dungeons-and-dragons-online-universal-tree-inquisitive.json) |
 | Dungeons & Dragons Online: Universal Tree - Vistani Knife Fighter | 349642 | [349642-dungeons-and-dragons-online-universal-tree-vistani-knife-fighter.json](./349642-dungeons-and-dragons-online-universal-tree-vistani-knife-fighter.json) |
 | Dungeons & Dragons Online: Vault of Night | 339142 | [339142-dungeons-and-dragons-online-vault-of-night.json](./339142-dungeons-and-dragons-online-vault-of-night.json) |
+| Dungeons & Dragons Online: Vaults of the Artificers | 341949 | [341949-dungeons-and-dragons-online-vaults-of-the-artificers.json](./341949-dungeons-and-dragons-online-vaults-of-the-artificers.json) |
 | Dungeons & Dragons Online: Vecna Unleashed | 258958 | [258958-dungeons-and-dragons-online-vecna-unleashed.json](./258958-dungeons-and-dragons-online-vecna-unleashed.json) |
 | Dungeons & Dragons Online: White Plume Mountain and Other Tales | 349724 | [349724-dungeons-and-dragons-online-white-plume-mountain-and-other-tales.json](./349724-dungeons-and-dragons-online-white-plume-mountain-and-other-tales.json) |
 | Dungeons & Dragons: Dark Alliance | 127348 | [127348-dungeons-and-dragons-dark-alliance.json](./127348-dungeons-and-dragons-dark-alliance.json) |
