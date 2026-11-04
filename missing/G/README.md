@@ -2188,6 +2188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gatherers | 208179 | [208179-gatherers.json](./208179-gatherers.json) |
 | Gathering Our Childhoods | 249756 | [249756-gathering-our-childhoods.json](./249756-gathering-our-childhoods.json) |
 | Gathering Sky | 35590 | [35590-gathering-sky.json](./35590-gathering-sky.json) |
+| Gatherings | 301483 | [301483-gatherings.json](./301483-gatherings.json) |
 | Gatherlands | 391427 | [391427-gatherlands.json](./391427-gatherlands.json) |
 | GatherX | 362937 | [362937-gatherx.json](./362937-gatherx.json) |
 | Gatlin' | 122790 | [122790-gatlin.json](./122790-gatlin.json) |
@@ -7960,6 +7961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grapploteer | 253213 | [253213-grapploteer.json](./253213-grapploteer.json) |
 | Grapply | 31612 | [31612-grapply.json](./31612-grapply.json) |
 | Grashers | 124247 | [124247-grashers.json](./124247-grashers.json) |
+| Grasp of Dread | 303958 | [303958-grasp-of-dread.json](./303958-grasp-of-dread.json) |
 | Grass | 392682 | [392682-grass.json](./392682-grass.json) |
 | Grass Cut | 189917 | [189917-grass-cut.json](./189917-grass-cut.json) |
 | Grass Cutter 9000: Director's Cut | 414763 | [414763-grass-cutter-9000-directors-cut.json](./414763-grass-cutter-9000-directors-cut.json) |
@@ -10921,6 +10923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunvolt Chronicles: Luminous Avenger iX - Extra Song: "Raison d'être" | 296852 | [296852-gunvolt-chronicles-luminous-avenger-ix-extra-song-raison-detre.json](./296852-gunvolt-chronicles-luminous-avenger-ix-extra-song-raison-detre.json) |
 | Gunvolt Chronicles: Luminous Avenger iX 1+2 Dual Collection | 392770 | [392770-gunvolt-chronicles-luminous-avenger-ix-1-2-dual-collection.json](./392770-gunvolt-chronicles-luminous-avenger-ix-1-2-dual-collection.json) |
 | Gunvolt Chronicles: Luminous Avenger iX 2 - Jason Frudnick | 196153 | [196153-gunvolt-chronicles-luminous-avenger-ix-2-jason-frudnick.json](./196153-gunvolt-chronicles-luminous-avenger-ix-2-jason-frudnick.json) |
+| Gunvolt Chronicles: Luminous Avenger iX 2 - Special DLC boss "Kohaku Otori" from "COGEN: Sword of Rewind" | 301213 | [301213-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-kohaku-otori-from-cogen-sword-of-rewind.json](./301213-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-kohaku-otori-from-cogen-sword-of-rewind.json) |
 | Gunvolt Chronicles: Luminous Avenger iX 2 - Special DLC Boss: Kurona | 199876 | [199876-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-kurona.json](./199876-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-kurona.json) |
 | Gunvolt Chronicles: Luminous Avenger iX 2 - Special DLC Boss: Yang Yumo | 199869 | [199869-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-yang-yumo.json](./199869-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-yang-yumo.json) |
 | Gunvolt Chronicles: Luminous Avenger iX2 - Special DLC Boss: Kirin | 199931 | [199931-gunvolt-chronicles-luminous-avenger-ix2-special-dlc-boss-kirin.json](./199931-gunvolt-chronicles-luminous-avenger-ix2-special-dlc-boss-kirin.json) |
