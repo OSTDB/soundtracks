@@ -3361,6 +3361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpman Forever | 74840 | [74840-jumpman-forever.json](./74840-jumpman-forever.json) |
 | Jumpman Jr. | 79755 | [79755-jumpman-jr.json](./79755-jumpman-jr.json) |
 | Jumpman Lives! | 69868 | [69868-jumpman-lives.json](./69868-jumpman-lives.json) |
+| JumpMap | 309795 | [309795-jumpmap.json](./309795-jumpmap.json) |
 | Jumpmaster | 303747 | [303747-jumpmaster.json](./303747-jumpmaster.json) |
 | Jumpng Disable | 329193 | [329193-jumpng-disable.json](./329193-jumpng-disable.json) |
 | Jumpo Joe | 103423 | [103423-jumpo-joe.json](./103423-jumpo-joe.json) |
