@@ -7982,6 +7982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing repair | 120691 | [120691-amazing-repair.json](./120691-amazing-repair.json) |
 | Amazing Runner | 41510 | [41510-amazing-runner.json](./41510-amazing-runner.json) |
 | Amazing Soccer 2013 | 99146 | [99146-amazing-soccer-2013.json](./99146-amazing-soccer-2013.json) |
+| Amazing Sonic Scene Creator 2 | 320630 | [320630-amazing-sonic-scene-creator-2.json](./320630-amazing-sonic-scene-creator-2.json) |
 | Amazing Space | 258210 | [258210-amazing-space.json](./258210-amazing-space.json) |
 | Amazing Space Frog 2018 | 95289 | [95289-amazing-space-frog-2018.json](./95289-amazing-space-frog-2018.json) |
 | Amazing Studly Strikes | 235152 | [235152-amazing-studly-strikes.json](./235152-amazing-studly-strikes.json) |
@@ -11573,6 +11574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarium Land: Complete Edition | 273299 | [273299-aquarium-land-complete-edition.json](./273299-aquarium-land-complete-edition.json) |
 | Aquarium Land: Gold Edition | 343571 | [343571-aquarium-land-gold-edition.json](./343571-aquarium-land-gold-edition.json) |
 | Aquarium Land: Parrot | 303337 | [303337-aquarium-land-parrot.json](./303337-aquarium-land-parrot.json) |
+| Aquarium Land: Parrot Edition | 320681 | [320681-aquarium-land-parrot-edition.json](./320681-aquarium-land-parrot-edition.json) |
 | Aquarium Land: Platinum Edition | 385193 | [385193-aquarium-land-platinum-edition.json](./385193-aquarium-land-platinum-edition.json) |
 | Aquarium Land: Puppy | 303338 | [303338-aquarium-land-puppy.json](./303338-aquarium-land-puppy.json) |
 | Aquarium Pairs | 96578 | [96578-aquarium-pairs.json](./96578-aquarium-pairs.json) |
