@@ -366,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Câi & Darren: Code Calamity | 350385 | [350385-cai-and-darren-code-calamity.json](./350385-cai-and-darren-code-calamity.json) |
 | Cai Cai Balão | 147296 | [147296-cai-cai-balao.json](./147296-cai-cai-balao.json) |
 | Caiaque | 305264 | [305264-caiaque.json](./305264-caiaque.json) |
+| Caige: Cum Overflow | 338486 | [338486-caige-cum-overflow.json](./338486-caige-cum-overflow.json) |
 | Caila Raven And The Draco | 315570 | [315570-caila-raven-and-the-draco.json](./315570-caila-raven-and-the-draco.json) |
 | Caila Raven And The Ritual | 315569 | [315569-caila-raven-and-the-ritual.json](./315569-caila-raven-and-the-ritual.json) |
 | Caila Raven And The Temple of The Order | 315566 | [315566-caila-raven-and-the-temple-of-the-order.json](./315566-caila-raven-and-the-temple-of-the-order.json) |
@@ -398,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caïssa Board | 152893 | [152893-caissa-board.json](./152893-caissa-board.json) |
 | Caixa Mágica de Estórias | 296156 | [296156-caixa-magica-de-estorias.json](./296156-caixa-magica-de-estorias.json) |
 | Cajun Cop: The French Quarter Caper | 417496 | [417496-cajun-cop-the-french-quarter-caper.json](./417496-cajun-cop-the-french-quarter-caper.json) |
+| Cake | 338487 | [338487-cake.json](./338487-cake.json) |
 | Cake Bakery | 245204 | [245204-cake-bakery.json](./245204-cake-bakery.json) |
 | Cake Bash | 113826 | [113826-cake-bash.json](./113826-cake-bash.json) |
 | Cake Bites Make & Bake: Cooking Dessert Kids Game | 109012 | [109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json](./109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json) |
@@ -424,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cake Shop 2 | 328379 | [328379-cake-shop-2.json](./328379-cake-shop-2.json) |
 | Cake Shop 3 | 410232 | [410232-cake-shop-3.json](./410232-cake-shop-3.json) |
 | Cake Shop Simulator | 156876 | [156876-cake-shop-simulator.json](./156876-cake-shop-simulator.json) |
+| Cake Space Shooter | 338488 | [338488-cake-space-shooter.json](./338488-cake-space-shooter.json) |
 | Cake Studio | 402653 | [402653-cake-studio.json](./402653-cake-studio.json) |
 | Cake Up | 335273 | [335273-cake-up.json](./335273-cake-up.json) |
 | Cake Yasan Monogatari Oishii Sweet wo Tsukurou! | 136878 | [136878-cake-yasan-monogatari-oishii-sweet-wo-tsukurou.json](./136878-cake-yasan-monogatari-oishii-sweet-wo-tsukurou.json) |
@@ -932,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cam Master: Private Desires | 417205 | [417205-cam-master-private-desires.json](./417205-cam-master-private-desires.json) |
 | Cam Op Simulator | 326465 | [326465-cam-op-simulator.json](./326465-cam-op-simulator.json) |
 | Cam Quest | 380689 | [380689-cam-quest.json](./380689-cam-quest.json) |
+| Cam Star! | 338489 | [338489-cam-star.json](./338489-cam-star.json) |
 | Cam4Z: Bodycam Zombie Elevator Survivor | 373682 | [373682-cam4z-bodycam-zombie-elevator-survivor.json](./373682-cam4z-bodycam-zombie-elevator-survivor.json) |
 | Camae | 197015 | [197015-camae.json](./197015-camae.json) |
 | Camazotz no Nazo | 394696 | [394696-camazotz-no-nazo.json](./394696-camazotz-no-nazo.json) |
@@ -1354,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CandyZoo 2 Electric Boogaloo | 133976 | [133976-candyzoo-2-electric-boogaloo.json](./133976-candyzoo-2-electric-boogaloo.json) |
 | Canek: Quest for Corn | 88018 | [88018-canek-quest-for-corn.json](./88018-canek-quest-for-corn.json) |
 | Canfield | 83476 | [83476-canfield.json](./83476-canfield.json) |
+| Canfield Solitaire Classic Card Game | 338490 | [338490-canfield-solitaire-classic-card-game.json](./338490-canfield-solitaire-classic-card-game.json) |
 | Canfield Solitaire Collection | 211769 | [211769-canfield-solitaire-collection.json](./211769-canfield-solitaire-collection.json) |
 | Cang Loong City | 127572 | [127572-cang-loong-city.json](./127572-cang-loong-city.json) |
 | Cāng zhī Lù | 154897 | [154897-cang-zhi-lu.json](./154897-cang-zhi-lu.json) |
@@ -1931,6 +1936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captured Nightmare | 270517 | [270517-captured-nightmare.json](./270517-captured-nightmare.json) |
 | Captures | 165670 | [165670-captures.json](./165670-captures.json) |
 | Captures II | 170550 | [170550-captures-ii.json](./170550-captures-ii.json) |
+| Capuchin | 338491 | [338491-capuchin.json](./338491-capuchin.json) |
 | Caput Mortum | 341136 | [341136-caput-mortum.json](./341136-caput-mortum.json) |
 | Capy Cakes | 398293 | [398293-capy-cakes.json](./398293-capy-cakes.json) |
 | Capy Farm | 407389 | [407389-capy-farm.json](./407389-capy-farm.json) |
@@ -2507,6 +2513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards with Personalities Classic | 291620 | [291620-cards-with-personalities-classic.json](./291620-cards-with-personalities-classic.json) |
 | Cards, the Universe and Everything | 379187 | [379187-cards-the-universe-and-everything.json](./379187-cards-the-universe-and-everything.json) |
 | Cards, Universe & Everything | 248154 | [248154-cards-universe-and-everything.json](./248154-cards-universe-and-everything.json) |
+| Cards! | 338492 | [338492-cards.json](./338492-cards.json) |
 | Cards! MonkeyBox 2 | 174300 | [174300-cards-monkeybox-2.json](./174300-cards-monkeybox-2.json) |
 | CardScrawl | 311591 | [311591-cardscrawl.json](./311591-cardscrawl.json) |
 | Cardseer | 218852 | [218852-cardseer.json](./218852-cardseer.json) |
@@ -3101,6 +3108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cash Wash Simulator | 351092 | [351092-cash-wash-simulator.json](./351092-cash-wash-simulator.json) |
 | Cash_Out | 35167 | [35167-cash-out.json](./35167-cash-out.json) |
 | Cashand Case | 183822 | [183822-cashand-case.json](./183822-cashand-case.json) |
+| Cashew Clicker | 338493 | [338493-cashew-clicker.json](./338493-cashew-clicker.json) |
 | Cashgrab | 418216 | [418216-cashgrab.json](./418216-cashgrab.json) |
 | CashGrab | 368686 | [368686-cashgrab.json](./368686-cashgrab.json) |
 | CashGrab: Refunded | 350952 | [350952-cashgrab-refunded.json](./350952-cashgrab-refunded.json) |
@@ -3109,12 +3117,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cashier Simulator | 261723 | [261723-cashier-simulator.json](./261723-cashier-simulator.json) |
 | Cashier Simulator | 332312 | [332312-cashier-simulator.json](./332312-cashier-simulator.json) |
 | CashKnight | 100910 | [100910-cashknight.json](./100910-cashknight.json) |
+| Cashrooms | 338494 | [338494-cashrooms.json](./338494-cashrooms.json) |
 | Cashtronauts | 34834 | [34834-cashtronauts.json](./34834-cashtronauts.json) |
 | Casina: A Visual Novel set in Ancient Greece | 144016 | [144016-casina-a-visual-novel-set-in-ancient-greece.json](./144016-casina-a-visual-novel-set-in-ancient-greece.json) |
 | Casino | 54797 | [54797-casino.json](./54797-casino.json) |
 | Casino Black Jack | 336095 | [336095-casino-black-jack.json](./336095-casino-black-jack.json) |
 | Casino Blackjack | 86560 | [86560-casino-blackjack.json](./86560-casino-blackjack.json) |
 | Casino Boss Simulator | 278701 | [278701-casino-boss-simulator.json](./278701-casino-boss-simulator.json) |
+| Casino Box | 338495 | [338495-casino-box.json](./338495-casino-box.json) |
 | Casino by eGames | 165547 | [165547-casino-by-egames.json](./165547-casino-by-egames.json) |
 | Casino Casualty | 365099 | [365099-casino-casualty.json](./365099-casino-casualty.json) |
 | Casino Challenge | 44640 | [44640-casino-challenge.json](./44640-casino-challenge.json) |
@@ -3481,6 +3491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Woodwarf | 95952 | [95952-castle-woodwarf.json](./95952-castle-woodwarf.json) |
 | Castle Woodwarf 2 | 118612 | [118612-castle-woodwarf-2.json](./118612-castle-woodwarf-2.json) |
 | Castle Wreck | 373638 | [373638-castle-wreck.json](./373638-castle-wreck.json) |
+| Castle Xenon | 338496 | [338496-castle-xenon.json](./338496-castle-xenon.json) |
 | Castle: Daybreak | 166166 | [166166-castle-daybreak.json](./166166-castle-daybreak.json) |
 | Castle: Jigsaw Puzzles | 101394 | [101394-castle-jigsaw-puzzles.json](./101394-castle-jigsaw-puzzles.json) |
 | Castle: Never Judge a Book by its Cover | 17407 | [17407-castle-never-judge-a-book-by-its-cover.json](./17407-castle-never-judge-a-book-by-its-cover.json) |
@@ -4112,6 +4123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CatAway | 381293 | [381293-cataway.json](./381293-cataway.json) |
 | Catbo | 311477 | [311477-catbo.json](./311477-catbo.json) |
 | CatBox | 273761 | [273761-catbox.json](./273761-catbox.json) |
+| Catboy Aim Trainer | 338497 | [338497-catboy-aim-trainer.json](./338497-catboy-aim-trainer.json) |
 | CatboyZoom | 301078 | [301078-catboyzoom.json](./301078-catboyzoom.json) |
 | CatBun Idle | 405625 | [405625-catbun-idle.json](./405625-catbun-idle.json) |
 | Catburglar | 110894 | [110894-catburglar.json](./110894-catburglar.json) |
@@ -4147,6 +4159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch It | 380611 | [380611-catch-it.json](./380611-catch-it.json) |
 | Catch it! | 179310 | [179310-catch-it.json](./179310-catch-it.json) |
 | Catch Me | 286968 | [286968-catch-me.json](./286968-catch-me.json) |
+| Catch Me | 338498 | [338498-catch-me.json](./338498-catch-me.json) |
 | Catch Me If You Can | 143716 | [143716-catch-me-if-you-can.json](./143716-catch-me-if-you-can.json) |
 | Catch Me If You Can | 289386 | [289386-catch-me-if-you-can.json](./289386-catch-me-if-you-can.json) |
 | Catch Me If You Can | 351088 | [351088-catch-me-if-you-can.json](./351088-catch-me-if-you-can.json) |
@@ -4261,6 +4274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catgirl Aim Trainer | 310213 | [310213-catgirl-aim-trainer.json](./310213-catgirl-aim-trainer.json) |
 | Catgirl Bloodhunt | 380835 | [380835-catgirl-bloodhunt.json](./380835-catgirl-bloodhunt.json) |
 | Catgirl Chainsaw Massacre | 280736 | [280736-catgirl-chainsaw-massacre.json](./280736-catgirl-chainsaw-massacre.json) |
+| Catgirl Chess | 338500 | [338500-catgirl-chess.json](./338500-catgirl-chess.json) |
 | Catgirl Lover | 127927 | [127927-catgirl-lover.json](./127927-catgirl-lover.json) |
 | Catgirl Lover 2 | 122837 | [122837-catgirl-lover-2.json](./122837-catgirl-lover-2.json) |
 | Catgirl Magic: Fury Duel | 105653 | [105653-catgirl-magic-fury-duel.json](./105653-catgirl-magic-fury-duel.json) |
@@ -4345,6 +4359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catovania | 132629 | [132629-catovania.json](./132629-catovania.json) |
 | Catpillar | 343053 | [343053-catpillar.json](./343053-catpillar.json) |
 | CatPuncher | 365350 | [365350-catpuncher.json](./365350-catpuncher.json) |
+| CatPunk | 338501 | [338501-catpunk.json](./338501-catpunk.json) |
 | Catrap | 7820 | [7820-catrap.json](./7820-catrap.json) |
 | Catrina's Halloween Nightmare | 277152 | [277152-catrinas-halloween-nightmare.json](./277152-catrinas-halloween-nightmare.json) |
 | Catroid | 422772 | [422772-catroid.json](./422772-catroid.json) |
@@ -4359,6 +4374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats & Cakes: The Card Game | 372703 | [372703-cats-and-cakes-the-card-game.json](./372703-cats-and-cakes-the-card-game.json) |
 | Cats & Carnations | 398806 | [398806-cats-and-carnations.json](./398806-cats-and-carnations.json) |
 | Cats & Castles | 260182 | [260182-cats-and-castles.json](./260182-cats-and-castles.json) |
+| Cats & Critters: A Dungeon Claw-er | 338503 | [338503-cats-and-critters-a-dungeon-claw-er.json](./338503-cats-and-critters-a-dungeon-claw-er.json) |
 | Cats & Cups | 360002 | [360002-cats-and-cups.json](./360002-cats-and-cups.json) |
 | Cats & Dice | 319342 | [319342-cats-and-dice.json](./319342-cats-and-dice.json) |
 | Cats & Dogs: The Revenge of Kitty Galore | 152609 | [152609-cats-and-dogs-the-revenge-of-kitty-galore.json](./152609-cats-and-dogs-the-revenge-of-kitty-galore.json) |
@@ -4381,6 +4397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats and Seek: Zoo | 365394 | [365394-cats-and-seek-zoo.json](./365394-cats-and-seek-zoo.json) |
 | Cats and Sokoban: Mimi's Scratcher | 236436 | [236436-cats-and-sokoban-mimis-scratcher.json](./236436-cats-and-sokoban-mimis-scratcher.json) |
 | Cats and Tails | 416968 | [416968-cats-and-tails.json](./416968-cats-and-tails.json) |
+| Cats and the City: Shanghai | 338502 | [338502-cats-and-the-city-shanghai.json](./338502-cats-and-the-city-shanghai.json) |
 | Cats and the Other Lives | 143276 | [143276-cats-and-the-other-lives.json](./143276-cats-and-the-other-lives.json) |
 | Cats are Cute | 130604 | [130604-cats-are-cute.json](./130604-cats-are-cute.json) |
 | Cats are Cute: Pop Time! | 322124 | [322124-cats-are-cute-pop-time.json](./322124-cats-are-cute-pop-time.json) |
@@ -4400,6 +4417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Epic Puzzles | 334827 | [334827-cats-epic-puzzles.json](./334827-cats-epic-puzzles.json) |
 | Cats Everywhere | 284797 | [284797-cats-everywhere.json](./284797-cats-everywhere.json) |
 | Cats Fighters | 239621 | [239621-cats-fighters.json](./239621-cats-fighters.json) |
+| Cats Fishing for Cats | 338504 | [338504-cats-fishing-for-cats.json](./338504-cats-fishing-for-cats.json) |
 | Cats Fly Helicopters | 117104 | [117104-cats-fly-helicopters.json](./117104-cats-fly-helicopters.json) |
 | Cats Game | 258079 | [258079-cats-game.json](./258079-cats-game.json) |
 | Cats Games + Say Cheese! + Soko Games | 335105 | [335105-cats-games-say-cheese-soko-games.json](./335105-cats-games-say-cheese-soko-games.json) |
@@ -4969,6 +4987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestian Tales: Old North - Howl of the Ravager | 124779 | [124779-celestian-tales-old-north-howl-of-the-ravager.json](./124779-celestian-tales-old-north-howl-of-the-ravager.json) |
 | Celestian Tales: Realms Beyond | 55252 | [55252-celestian-tales-realms-beyond.json](./55252-celestian-tales-realms-beyond.json) |
 | Celestio 64 | 257399 | [257399-celestio-64.json](./257399-celestio-64.json) |
+| Celestis | 338505 | [338505-celestis.json](./338505-celestis.json) |
 | Celestium | 298611 | [298611-celestium.json](./298611-celestium.json) |
 | Celestrion | 33956 | [33956-celestrion.json](./33956-celestrion.json) |
 | Celestwald Adventure | 284812 | [284812-celestwald-adventure.json](./284812-celestwald-adventure.json) |
@@ -5065,6 +5084,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cemetery Warrior 2 | 82471 | [82471-cemetery-warrior-2.json](./82471-cemetery-warrior-2.json) |
 | Cemetery Warrior 3 | 29991 | [29991-cemetery-warrior-3.json](./29991-cemetery-warrior-3.json) |
 | Cemetery Warrior 4 | 122576 | [122576-cemetery-warrior-4.json](./122576-cemetery-warrior-4.json) |
+| Cemetery Warrior 6 | 338506 | [338506-cemetery-warrior-6.json](./338506-cemetery-warrior-6.json) |
+| Cemetery Warrior 7 Boss Rush | 338507 | [338507-cemetery-warrior-7-boss-rush.json](./338507-cemetery-warrior-7-boss-rush.json) |
 | Cendovia Uprising | 346664 | [346664-cendovia-uprising.json](./346664-cendovia-uprising.json) |
 | Cendric | 81045 | [81045-cendric.json](./81045-cendric.json) |
 | Cendric's Quest | 118212 | [118212-cendrics-quest.json](./118212-cendrics-quest.json) |
@@ -5436,6 +5457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champ Man 15 | 60223 | [60223-champ-man-15.json](./60223-champ-man-15.json) |
 | Champ Ms. Pac-em | 92896 | [92896-champ-ms-pac-em.json](./92896-champ-ms-pac-em.json) |
 | Champ's Nightmare | 238076 | [238076-champs-nightmare.json](./238076-champs-nightmare.json) |
+| Champi | 338508 | [338508-champi.json](./338508-champi.json) |
 | Champion | 67134 | [67134-champion.json](./67134-champion.json) |
 | Champion Base Ball Part-2 | 125958 | [125958-champion-base-ball-part-2.json](./125958-champion-base-ball-part-2.json) |
 | Champion Baseball | 388244 | [388244-champion-baseball.json](./388244-champion-baseball.json) |
@@ -5981,6 +6003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaser | 345950 | [345950-chaser.json](./345950-chaser.json) |
 | Chaser | 380072 | [380072-chaser.json](./380072-chaser.json) |
 | Chaser | 55680 | [55680-chaser.json](./55680-chaser.json) |
+| Chasers | 338509 | [338509-chasers.json](./338509-chasers.json) |
 | ChaseTag | 219996 | [219996-chasetag.json](./219996-chasetag.json) |
 | Chaseway | 179586 | [179586-chaseway.json](./179586-chaseway.json) |
 | Chasing Aurora | 20882 | [20882-chasing-aurora.json](./20882-chasing-aurora.json) |
@@ -11232,6 +11255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Brawl 2 | 233505 | [233505-college-brawl-2.json](./233505-college-brawl-2.json) |
 | College Craze | 210863 | [210863-college-craze.json](./210863-college-craze.json) |
 | College Diaries | 301626 | [301626-college-diaries.json](./301626-college-diaries.json) |
+| College Escape | 338465 | [338465-college-escape.json](./338465-college-escape.json) |
 | College Football Revamped | 150058 | [150058-college-football-revamped.json](./150058-college-football-revamped.json) |
 | College Football USA 96 | 46536 | [46536-college-football-usa-96.json](./46536-college-football-usa-96.json) |
 | College Football USA 97 | 46537 | [46537-college-football-usa-97.json](./46537-college-football-usa-97.json) |
