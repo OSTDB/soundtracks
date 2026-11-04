@@ -4997,6 +4997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Corp | 390993 | [390993-deep-corp.json](./390993-deep-corp.json) |
 | Deep Cut | 176264 | [176264-deep-cut.json](./176264-deep-cut.json) |
 | Deep Cuts | 306937 | [306937-deep-cuts.json](./306937-deep-cuts.json) |
+| Deep Dark | 343021 | [343021-deep-dark.json](./343021-deep-dark.json) |
 | Deep Dark Block | 334247 | [334247-deep-dark-block.json](./334247-deep-dark-block.json) |
 | Deep Dark Dungeon | 32229 | [32229-deep-dark-dungeon.json](./32229-deep-dark-dungeon.json) |
 | Deep Dark Dungeon of Anglaus | 243583 | [243583-deep-dark-dungeon-of-anglaus.json](./243583-deep-dark-dungeon-of-anglaus.json) |
@@ -11573,6 +11574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DollHouse: Survive or Death | 263026 | [263026-dollhouse-survive-or-death.json](./263026-dollhouse-survive-or-death.json) |
 | DollKart | 105591 | [105591-dollkart.json](./105591-dollkart.json) |
 | Dollmaker | 325919 | [325919-dollmaker.json](./325919-dollmaker.json) |
+| Dollmaker | 343150 | [343150-dollmaker.json](./343150-dollmaker.json) |
 | Dollmaker 2 | 391138 | [391138-dollmaker-2.json](./391138-dollmaker-2.json) |
 | Dolls | 244497 | [244497-dolls.json](./244497-dolls.json) |
 | Dolls Frontline | 175046 | [175046-dolls-frontline.json](./175046-dolls-frontline.json) |
@@ -16935,6 +16937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duendes in New Year | 315252 | [315252-duendes-in-new-year.json](./315252-duendes-in-new-year.json) |
 | Duendes in New Year 2 | 315254 | [315254-duendes-in-new-year-2.json](./315254-duendes-in-new-year-2.json) |
 | Duet | 142364 | [142364-duet.json](./142364-duet.json) |
+| Duet | 342987 | [342987-duet.json](./342987-duet.json) |
 | Duet Cats | 246309 | [246309-duet-cats.json](./246309-duet-cats.json) |
 | Duet Night Abyss: Paradise Prelude | 413601 | [413601-duet-night-abyss-paradise-prelude.json](./413601-duet-night-abyss-paradise-prelude.json) |
 | Duet Night Abyss: Silver Torrent, Rising Star | 413599 | [413599-duet-night-abyss-silver-torrent-rising-star.json](./413599-duet-night-abyss-silver-torrent-rising-star.json) |
