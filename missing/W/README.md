@@ -1610,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wario Destroys A Glass of Milk | 307407 | [307407-wario-destroys-a-glass-of-milk.json](./307407-wario-destroys-a-glass-of-milk.json) |
 | Wario Eats Everything | 318028 | [318028-wario-eats-everything.json](./318028-wario-eats-everything.json) |
 | Wario Land 3 | 1698 | [1698-wario-land-3.json](./1698-wario-land-3.json) |
+| Wario Land 3: The Master Quest | 308722 | [308722-wario-land-3-the-master-quest.json](./308722-wario-land-3-the-master-quest.json) |
 | Wario Land 4 | 1699 | [1699-wario-land-4.json](./1699-wario-land-4.json) |
 | Wario Land 4: Burning Nightmares | 339250 | [339250-wario-land-4-burning-nightmares.json](./339250-wario-land-4-burning-nightmares.json) |
 | Wario Land 4: Parallel World | 194826 | [194826-wario-land-4-parallel-world.json](./194826-wario-land-4-parallel-world.json) |
