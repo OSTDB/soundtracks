@@ -3451,6 +3451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrapshoot | 190840 | [190840-scrapshoot.json](./190840-scrapshoot.json) |
 | Scraptail: Down the Drain | 278514 | [278514-scraptail-down-the-drain.json](./278514-scraptail-down-the-drain.json) |
 | Scrapvival | 190150 | [190150-scrapvival.json](./190150-scrapvival.json) |
+| Scrapwings | 346352 | [346352-scrapwings.json](./346352-scrapwings.json) |
 | Scrapworks Simulator | 332951 | [332951-scrapworks-simulator.json](./332951-scrapworks-simulator.json) |
 | Scrapyard Dog | 12338 | [12338-scrapyard-dog.json](./12338-scrapyard-dog.json) |
 | Scrapyard Dog | 234652 | [234652-scrapyard-dog.json](./234652-scrapyard-dog.json) |
@@ -12889,6 +12890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slice It! | 21585 | [21585-slice-it.json](./21585-slice-it.json) |
 | Slice N' Hook | 67335 | [67335-slice-n-hook.json](./67335-slice-n-hook.json) |
 | Slice of Ages | 329055 | [329055-slice-of-ages.json](./329055-slice-of-ages.json) |
+| Slice of Life | 346357 | [346357-slice-of-life.json](./346357-slice-of-life.json) |
 | Slice of Life | 55276 | [55276-slice-of-life.json](./55276-slice-of-life.json) |
 | Slice of Life Fantasy | 191192 | [191192-slice-of-life-fantasy.json](./191192-slice-of-life-fantasy.json) |
 | Slice of Scythe | 179601 | [179601-slice-of-scythe.json](./179601-slice-of-scythe.json) |
@@ -18774,7 +18776,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -22792,6 +22793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stand 'em Up | 152153 | [152153-stand-em-up.json](./152153-stand-em-up.json) |
 | Stand and Fight | 259448 | [259448-stand-and-fight.json](./259448-stand-and-fight.json) |
 | Stand By Me | 145432 | [145432-stand-by-me.json](./145432-stand-by-me.json) |
+| Stand by Me: Otome Isekai Rpg | 346477 | [346477-stand-by-me-otome-isekai-rpg.json](./346477-stand-by-me-otome-isekai-rpg.json) |
 | Stand My Heroes | 197377 | [197377-stand-my-heroes.json](./197377-stand-my-heroes.json) |
 | Stand O'Food | 66976 | [66976-stand-ofood.json](./66976-stand-ofood.json) |
 | Stand O'Food 3 | 87189 | [87189-stand-ofood-3.json](./87189-stand-ofood-3.json) |
@@ -22800,6 +22802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stand Out: VR Battle Royale | 115729 | [115729-stand-out-vr-battle-royale.json](./115729-stand-out-vr-battle-royale.json) |
 | Stand Your Ground | 259098 | [259098-stand-your-ground.json](./259098-stand-your-ground.json) |
 | Stand Your Ground | 266971 | [266971-stand-your-ground.json](./266971-stand-your-ground.json) |
+| Stand-Alone: Ep.0 | 346338 | [346338-stand-alone-ep-0.json](./346338-stand-alone-ep-0.json) |
 | Stand: Sins of the Immortals | 388790 | [388790-stand-sins-of-the-immortals.json](./388790-stand-sins-of-the-immortals.json) |
 | Stand: Survive, Team-up, And Never Die | 322445 | [322445-stand-survive-team-up-and-never-die.json](./322445-stand-survive-team-up-and-never-die.json) |
 | Standalone: Synergy | 274324 | [274324-standalone-synergy.json](./274324-standalone-synergy.json) |
@@ -26102,6 +26105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storekeeper Revenge | 220507 | [220507-storekeeper-revenge.json](./220507-storekeeper-revenge.json) |
 | Storia Stories | 257115 | [257115-storia-stories.json](./257115-storia-stories.json) |
 | Stories | 292753 | [292753-stories.json](./292753-stories.json) |
+| Stories and More: Animal Friends | 346330 | [346330-stories-and-more-animal-friends.json](./346330-stories-and-more-animal-friends.json) |
 | Stories and Smoke | 153799 | [153799-stories-and-smoke.json](./153799-stories-and-smoke.json) |
 | Stories from Sol: The Gun-Dog | 212585 | [212585-stories-from-sol-the-gun-dog.json](./212585-stories-from-sol-the-gun-dog.json) |
 | Stories From the Cores | 231774 | [231774-stories-from-the-cores.json](./231774-stories-from-the-cores.json) |
