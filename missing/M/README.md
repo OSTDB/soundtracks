@@ -2119,6 +2119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid-Sama Cafe: Anime Girls Services in Cute Outfits | 396913 | [396913-maid-sama-cafe-anime-girls-services-in-cute-outfits.json](./396913-maid-sama-cafe-anime-girls-services-in-cute-outfits.json) |
 | Maid-san Crisis: The Elegant Region Power | 210562 | [210562-maid-san-crisis-the-elegant-region-power.json](./210562-maid-san-crisis-the-elegant-region-power.json) |
 | Maid-san no Iru Kurashi | 136738 | [136738-maid-san-no-iru-kurashi.json](./136738-maid-san-no-iru-kurashi.json) |
+| Maid-san no Iru Kurashi S | 304480 | [304480-maid-san-no-iru-kurashi-s.json](./304480-maid-san-no-iru-kurashi-s.json) |
 | Maid-san no Iru Kurashi: Premium Edition | 167026 | [167026-maid-san-no-iru-kurashi-premium-edition.json](./167026-maid-san-no-iru-kurashi-premium-edition.json) |
 | Maid-san Slayer: The Soul Of Elegant Skill | 210584 | [210584-maid-san-slayer-the-soul-of-elegant-skill.json](./210584-maid-san-slayer-the-soul-of-elegant-skill.json) |
 | Maid-san wo Migi ni Mi | 111051 | [111051-maid-san-wo-migi-ni-mi.json](./111051-maid-san-wo-migi-ni-mi.json) |
@@ -8394,6 +8395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memento Mori | 209527 | [209527-memento-mori.json](./209527-memento-mori.json) |
 | Memento Mori | 271182 | [271182-memento-mori.json](./271182-memento-mori.json) |
 | Memento Mori | 28231 | [28231-memento-mori.json](./28231-memento-mori.json) |
+| Memento Mori | 304491 | [304491-memento-mori.json](./304491-memento-mori.json) |
 | Memento Mori 2 | 16529 | [16529-memento-mori-2.json](./16529-memento-mori-2.json) |
 | Memento Mori II | 141064 | [141064-memento-mori-ii.json](./141064-memento-mori-ii.json) |
 | Memento of Spring | 80923 | [80923-memento-of-spring.json](./80923-memento-of-spring.json) |
