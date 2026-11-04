@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Saves Easter | 193479 | [193479-jack-saves-easter.json](./193479-jack-saves-easter.json) |
 | Jack Sprite vs. The Crimson Ghost | 45923 | [45923-jack-sprite-vs-the-crimson-ghost.json](./45923-jack-sprite-vs-the-crimson-ghost.json) |
 | Jack Sprout | 157485 | [157485-jack-sprout.json](./157485-jack-sprout.json) |
+| Jack Street | 333308 | [333308-jack-street.json](./333308-jack-street.json) |
 | Jack the Barbarian | 100713 | [100713-jack-the-barbarian.json](./100713-jack-the-barbarian.json) |
 | Jack The Giantkiller | 39372 | [39372-jack-the-giantkiller.json](./39372-jack-the-giantkiller.json) |
 | Jack the Knight Adventures 2 | 243733 | [243733-jack-the-knight-adventures-2.json](./243733-jack-the-knight-adventures-2.json) |
@@ -2891,6 +2892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judge Dredd vs. Zombies | 63637 | [63637-judge-dredd-vs-zombies.json](./63637-judge-dredd-vs-zombies.json) |
 | Judge Dredd: Countdown Sector 106 | 64766 | [64766-judge-dredd-countdown-sector-106.json](./64766-judge-dredd-countdown-sector-106.json) |
 | Judge Dredd: Dredd Vs. Death | 3961 | [3961-judge-dredd-dredd-vs-death.json](./3961-judge-dredd-dredd-vs-death.json) |
+| Judge Judy: Crossword Puzzles | 333295 | [333295-judge-judy-crossword-puzzles.json](./333295-judge-judy-crossword-puzzles.json) |
 | Judge of Hasoon | 296928 | [296928-judge-of-hasoon.json](./296928-judge-of-hasoon.json) |
 | Judge Sim | 397266 | [397266-judge-sim.json](./397266-judge-sim.json) |
 | Judged: A Court Simulator | 112365 | [112365-judged-a-court-simulator.json](./112365-judged-a-court-simulator.json) |
