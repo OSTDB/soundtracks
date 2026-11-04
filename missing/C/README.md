@@ -9203,6 +9203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civilization Simulator | 267069 | [267069-civilization-simulator.json](./267069-civilization-simulator.json) |
 | Civilization: Call to Power | 9930 | [9930-civilization-call-to-power.json](./9930-civilization-call-to-power.json) |
 | Civilization: Eras and Allies | 350730 | [350730-civilization-eras-and-allies.json](./350730-civilization-eras-and-allies.json) |
+| Civita | 310334 | [310334-civita.json](./310334-civita.json) |
 | Civitas | 187380 | [187380-civitas.json](./187380-civitas.json) |
 | Civizard: Majutsu no Keifu | 66211 | [66211-civizard-majutsu-no-keifu.json](./66211-civizard-majutsu-no-keifu.json) |
 | CivRise | 348459 | [348459-civrise.json](./348459-civrise.json) |
@@ -12502,6 +12503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commando 2 | 85900 | [85900-commando-2.json](./85900-commando-2.json) |
 | Commando 3 | 335477 | [335477-commando-3.json](./335477-commando-3.json) |
 | Commando Assault | 335476 | [335476-commando-assault.json](./335476-commando-assault.json) |
+| Commando Collection | 310337 | [310337-commando-collection.json](./310337-commando-collection.json) |
 | Commando Dog | 119550 | [119550-commando-dog.json](./119550-commando-dog.json) |
 | Commando Fodder: War Dogs | 114825 | [114825-commando-fodder-war-dogs.json](./114825-commando-fodder-war-dogs.json) |
 | Commando Gun | 216137 | [216137-commando-gun.json](./216137-commando-gun.json) |
@@ -16869,6 +16871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Theory | 339290 | [339290-crimson-theory.json](./339290-crimson-theory.json) |
 | Crimson Thread of Fate | 318769 | [318769-crimson-thread-of-fate.json](./318769-crimson-thread-of-fate.json) |
 | Crimson Tide: Operation Online | 55402 | [55402-crimson-tide-operation-online.json](./55402-crimson-tide-operation-online.json) |
+| Crimson Tides of Tethyr: Enhanced Edition | 310350 | [310350-crimson-tides-of-tethyr-enhanced-edition.json](./310350-crimson-tides-of-tethyr-enhanced-edition.json) |
 | Crimson Tower | 365176 | [365176-crimson-tower.json](./365176-crimson-tower.json) |
 | Crimson Trigger | 30174 | [30174-crimson-trigger.json](./30174-crimson-trigger.json) |
 | Crimson Twilight: Undead Lover | 298977 | [298977-crimson-twilight-undead-lover.json](./298977-crimson-twilight-undead-lover.json) |
