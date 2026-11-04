@@ -2418,6 +2418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlight | 59839 | [59839-unlight.json](./59839-unlight.json) |
 | Unlight: Revive | 324812 | [324812-unlight-revive.json](./324812-unlight-revive.json) |
 | Unlight:SchizoChronicle | 101274 | [101274-unlight-schizochronicle.json](./101274-unlight-schizochronicle.json) |
+| Unlighted | 306271 | [306271-unlighted.json](./306271-unlighted.json) |
 | Unlikely | 311437 | [311437-unlikely.json](./311437-unlikely.json) |
 | Unlikely Heroes | 80882 | [80882-unlikely-heroes.json](./80882-unlikely-heroes.json) |
 | Unlikely Stickman | 55560 | [55560-unlikely-stickman.json](./55560-unlikely-stickman.json) |
