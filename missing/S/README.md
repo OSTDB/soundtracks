@@ -1514,6 +1514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sand Land: Collector Edition | 283584 | [283584-sand-land-collector-edition.json](./283584-sand-land-collector-edition.json) |
 | Sand Land: Custom Vehicle Colors - 3 Types | 311735 | [311735-sand-land-custom-vehicle-colors-3-types.json](./311735-sand-land-custom-vehicle-colors-3-types.json) |
 | Sand Legends | 335078 | [335078-sand-legends.json](./335078-sand-legends.json) |
+| Sand Nomads | 298225 | [298225-sand-nomads.json](./298225-sand-nomads.json) |
 | Sand Painting Game | 140301 | [140301-sand-painting-game.json](./140301-sand-painting-game.json) |
 | Sand Pirates | 181129 | [181129-sand-pirates.json](./181129-sand-pirates.json) |
 | Sand Saga | 322648 | [322648-sand-saga.json](./322648-sand-saga.json) |
@@ -12659,6 +12660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slamslide | 183594 | [183594-slamslide.json](./183594-slamslide.json) |
 | Slamwall | 392410 | [392410-slamwall.json](./392410-slamwall.json) |
 | Slap 'em Up! | 348014 | [348014-slap-em-up.json](./348014-slap-em-up.json) |
+| Slap Cats | 298190 | [298190-slap-cats.json](./298190-slap-cats.json) |
 | Slap Circle | 237644 | [237644-slap-circle.json](./237644-slap-circle.json) |
 | Slap City | 87935 | [87935-slap-city.json](./87935-slap-city.json) |
 | Slap Dab | 72011 | [72011-slap-dab.json](./72011-slap-dab.json) |
@@ -18135,6 +18137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Street | 275511 | [275511-soul-street.json](./275511-soul-street.json) |
 | Soul Strike | 297712 | [297712-soul-strike.json](./297712-soul-strike.json) |
 | Soul Surfer | 66566 | [66566-soul-surfer.json](./66566-soul-surfer.json) |
+| Soul Surge | 298189 | [298189-soul-surge.json](./298189-soul-surge.json) |
 | Soul Survival | 76390 | [76390-soul-survival.json](./76390-soul-survival.json) |
 | Soul Survivor | 147413 | [147413-soul-survivor.json](./147413-soul-survivor.json) |
 | Soul Survivor | 329001 | [329001-soul-survivor.json](./329001-soul-survivor.json) |
@@ -27646,6 +27649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Force Harrier | 26480 | [26480-strike-force-harrier.json](./26480-strike-force-harrier.json) |
 | Strike Force Heroes | 213516 | [213516-strike-force-heroes.json](./213516-strike-force-heroes.json) |
 | Strike Force Heroes | 277203 | [277203-strike-force-heroes.json](./277203-strike-force-heroes.json) |
+| Strike Force Heroes: Ninja Class | 298191 | [298191-strike-force-heroes-ninja-class.json](./298191-strike-force-heroes-ninja-class.json) |
 | Strike Force Hydra | 49381 | [49381-strike-force-hydra.json](./49381-strike-force-hydra.json) |
 | Strike Force Kitty | 126486 | [126486-strike-force-kitty.json](./126486-strike-force-kitty.json) |
 | Strike Force Red Cell | 67093 | [67093-strike-force-red-cell.json](./67093-strike-force-red-cell.json) |
@@ -28554,6 +28558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku 4ever Plus | 71201 | [71201-sudoku-4ever-plus.json](./71201-sudoku-4ever-plus.json) |
 | Sudoku 4Pockets | 67011 | [67011-sudoku-4pockets.json](./67011-sudoku-4pockets.json) |
 | Sudoku 9X16X25 | 119771 | [119771-sudoku-9x16x25.json](./119771-sudoku-9x16x25.json) |
+| Sudoku Acres | 298196 | [298196-sudoku-acres.json](./298196-sudoku-acres.json) |
 | Sudoku Addicted 2 | 365454 | [365454-sudoku-addicted-2.json](./365454-sudoku-addicted-2.json) |
 | Sudoku and Permudoku | 84913 | [84913-sudoku-and-permudoku.json](./84913-sudoku-and-permudoku.json) |
 | Sudoku Baron | 86914 | [86914-sudoku-baron.json](./86914-sudoku-baron.json) |
@@ -30485,6 +30490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Ice Creams | 208816 | [208816-super-jigsaw-puzzle-generations-ice-creams.json](./208816-super-jigsaw-puzzle-generations-ice-creams.json) |
 | Super Jigsaw Puzzle: Generations - Iceland | 155614 | [155614-super-jigsaw-puzzle-generations-iceland.json](./155614-super-jigsaw-puzzle-generations-iceland.json) |
 | Super Jigsaw Puzzle: Generations - Illustrations | 238672 | [238672-super-jigsaw-puzzle-generations-illustrations.json](./238672-super-jigsaw-puzzle-generations-illustrations.json) |
+| Super Jigsaw Puzzle: Generations - Illustrations 2 | 298214 | [298214-super-jigsaw-puzzle-generations-illustrations-2.json](./298214-super-jigsaw-puzzle-generations-illustrations-2.json) |
 | Super Jigsaw Puzzle: Generations - Imagination | 193143 | [193143-super-jigsaw-puzzle-generations-imagination.json](./193143-super-jigsaw-puzzle-generations-imagination.json) |
 | Super Jigsaw Puzzle: Generations - India | 226512 | [226512-super-jigsaw-puzzle-generations-india.json](./226512-super-jigsaw-puzzle-generations-india.json) |
 | Super Jigsaw Puzzle: Generations - Italy Puzzles | 155594 | [155594-super-jigsaw-puzzle-generations-italy-puzzles.json](./155594-super-jigsaw-puzzle-generations-italy-puzzles.json) |
