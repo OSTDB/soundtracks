@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zapling Bygone | 150428 | [150428-zapling-bygone.json](./150428-zapling-bygone.json) |
 | Zapling Bygone: Deluxe Edition | 249261 | [249261-zapling-bygone-deluxe-edition.json](./249261-zapling-bygone-deluxe-edition.json) |
 | ZapM | 61471 | [61471-zapm.json](./61471-zapm.json) |
+| Zapnator | 304493 | [304493-zapnator.json](./304493-zapnator.json) |
 | Zapp: Escape From Hollowcell | 52100 | [52100-zapp-escape-from-hollowcell.json](./52100-zapp-escape-from-hollowcell.json) |
 | Zappa Roidz | 85940 | [85940-zappa-roidz.json](./85940-zappa-roidz.json) |
 | Zapper | 202182 | [202182-zapper.json](./202182-zapper.json) |
