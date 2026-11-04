@@ -1099,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Agaris: Children of Fate | 236929 | [236929-tales-of-agaris-children-of-fate.json](./236929-tales-of-agaris-children-of-fate.json) |
 | Tales of Agaris: The Legendary Rion | 225102 | [225102-tales-of-agaris-the-legendary-rion.json](./225102-tales-of-agaris-the-legendary-rion.json) |
 | Tales of Ancient Nights | 114334 | [114334-tales-of-ancient-nights.json](./114334-tales-of-ancient-nights.json) |
+| Tales of Ancients: Hollow Apartments | 331048 | [331048-tales-of-ancients-hollow-apartments.json](./331048-tales-of-ancients-hollow-apartments.json) |
 | Tales of Androgyny | 235248 | [235248-tales-of-androgyny.json](./235248-tales-of-androgyny.json) |
 | Tales of Another Galaxy | 25421 | [25421-tales-of-another-galaxy.json](./25421-tales-of-another-galaxy.json) |
 | Tales of Anturia: Hejstos | 270513 | [270513-tales-of-anturia-hejstos.json](./270513-tales-of-anturia-hejstos.json) |
@@ -7798,6 +7799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkness | 281559 | [281559-the-darkness.json](./281559-the-darkness.json) |
 | The Darkness | 331150 | [331150-the-darkness.json](./331150-the-darkness.json) |
 | The Darkness | 81718 | [81718-the-darkness.json](./81718-the-darkness.json) |
+| The Darkness 2 | 331057 | [331057-the-darkness-2.json](./331057-the-darkness-2.json) |
 | The Darkness Assault | 53725 | [53725-the-darkness-assault.json](./53725-the-darkness-assault.json) |
 | The Darkness Delivers | 370077 | [370077-the-darkness-delivers.json](./370077-the-darkness-delivers.json) |
 | The Darkness II: Limited Edition | 42970 | [42970-the-darkness-ii-limited-edition.json](./42970-the-darkness-ii-limited-edition.json) |
@@ -10432,6 +10434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House | 195921 | [195921-the-house.json](./195921-the-house.json) |
 | The House | 240315 | [240315-the-house.json](./240315-the-house.json) |
 | The House | 265280 | [265280-the-house.json](./265280-the-house.json) |
+| The House | 331052 | [331052-the-house.json](./331052-the-house.json) |
 | The House | 352303 | [352303-the-house.json](./352303-the-house.json) |
 | The House 2 | 249610 | [249610-the-house-2.json](./249610-the-house-2.json) |
 | The House Always Wins | 378526 | [378526-the-house-always-wins.json](./378526-the-house-always-wins.json) |
@@ -10653,6 +10656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Imaginary Circle | 215369 | [215369-the-imaginary-circle.json](./215369-the-imaginary-circle.json) |
 | The Immaculate Drag | 187194 | [187194-the-immaculate-drag.json](./187194-the-immaculate-drag.json) |
 | The Immemorial Order | 290005 | [290005-the-immemorial-order.json](./290005-the-immemorial-order.json) |
+| The Immemorial Order II Sisters of Darkness | 331051 | [331051-the-immemorial-order-ii-sisters-of-darkness.json](./331051-the-immemorial-order-ii-sisters-of-darkness.json) |
 | The Immolation Apartment | 412904 | [412904-the-immolation-apartment.json](./412904-the-immolation-apartment.json) |
 | The Immortal | 187982 | [187982-the-immortal.json](./187982-the-immortal.json) |
 | The Immortal | 4444 | [4444-the-immortal.json](./4444-the-immortal.json) |
@@ -27645,6 +27649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Valley 2: Workshop Gems - Ruby | 219540 | [219540-train-valley-2-workshop-gems-ruby.json](./219540-train-valley-2-workshop-gems-ruby.json) |
 | Train Valley Collection | 270317 | [270317-train-valley-collection.json](./270317-train-valley-collection.json) |
 | Train Valley Collection: Deluxe Edition | 270318 | [270318-train-valley-collection-deluxe-edition.json](./270318-train-valley-collection-deluxe-edition.json) |
+| Train Valley Origins | 331197 | [331197-train-valley-origins.json](./331197-train-valley-origins.json) |
 | Train Valley World | 257014 | [257014-train-valley-world.json](./257014-train-valley-world.json) |
 | Train Valley: Console Edition | 210746 | [210746-train-valley-console-edition.json](./210746-train-valley-console-edition.json) |
 | Train Valley: Deluxe Edition | 53857 | [53857-train-valley-deluxe-edition.json](./53857-train-valley-deluxe-edition.json) |
@@ -32145,6 +32150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type Ride | 374374 | [374374-type-ride.json](./374374-type-ride.json) |
 | Type the Entire of Ulysses. That's It. That's the Game. | 198526 | [198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json](./198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json) |
 | Type the Rhythm | 389582 | [389582-type-the-rhythm.json](./389582-type-the-rhythm.json) |
+| Type Them All | 331062 | [331062-type-them-all.json](./331062-type-them-all.json) |
 | Type to Continue | 177971 | [177971-type-to-continue.json](./177971-type-to-continue.json) |
 | Type To Kill | 396696 | [396696-type-to-kill.json](./396696-type-to-kill.json) |
 | Type to Learn 3 | 186073 | [186073-type-to-learn-3.json](./186073-type-to-learn-3.json) |
