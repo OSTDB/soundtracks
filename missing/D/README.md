@@ -9094,6 +9094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino | 100355 | [100355-dino.json](./100355-dino.json) |
 | Dino | 267359 | [267359-dino.json](./267359-dino.json) |
 | Dino | 272361 | [272361-dino.json](./272361-dino.json) |
+| Dino 'Splode | 346342 | [346342-dino-splode.json](./346342-dino-splode.json) |
 | Dino & Chill | 339938 | [339938-dino-and-chill.json](./339938-dino-and-chill.json) |
 | Dino Adventure Legend | 288130 | [288130-dino-adventure-legend.json](./288130-dino-adventure-legend.json) |
 | Dino and Aliens | 93434 | [93434-dino-and-aliens.json](./93434-dino-and-aliens.json) |
@@ -12619,6 +12620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom: The Way We Remember It | 252031 | [252031-doom-the-way-we-remember-it.json](./252031-doom-the-way-we-remember-it.json) |
 | Doom: Unto the Evil | 22431 | [22431-doom-unto-the-evil.json](./22431-doom-unto-the-evil.json) |
 | Doom3D | 196011 | [196011-doom3d.json](./196011-doom3d.json) |
+| Doom3Quest | 346324 | [346324-doom3quest.json](./346324-doom3quest.json) |
 | DOOM4: Death Foretold | 139120 | [139120-doom4-death-foretold.json](./139120-doom4-death-foretold.json) |
 | DoomAI | 118017 | [118017-doomai.json](./118017-doomai.json) |
 | Doombase | 348528 | [348528-doombase.json](./348528-doombase.json) |
@@ -15102,6 +15104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadline: Net Quota | 345686 | [345686-dreadline-net-quota.json](./345686-dreadline-net-quota.json) |
 | Dreadmiles | 425500 | [425500-dreadmiles.json](./425500-dreadmiles.json) |
 | Dreadmire | 114675 | [114675-dreadmire.json](./114675-dreadmire.json) |
+| DreadMist | 346365 | [346365-dreadmist.json](./346365-dreadmist.json) |
 | DreadMoon | 272379 | [272379-dreadmoon.json](./272379-dreadmoon.json) |
 | Dreadmoor | 340334 | [340334-dreadmoor.json](./340334-dreadmoor.json) |
 | Dreadmyst | 381656 | [381656-dreadmyst.json](./381656-dreadmyst.json) |
@@ -15555,6 +15558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamless Girl | 331925 | [331925-dreamless-girl.json](./331925-dreamless-girl.json) |
 | Dreamless Girl: Deluxe Edition | 332004 | [332004-dreamless-girl-deluxe-edition.json](./332004-dreamless-girl-deluxe-edition.json) |
 | Dreamless Girl: Deluxe Edtion Plus | 335097 | [335097-dreamless-girl-deluxe-edtion-plus.json](./335097-dreamless-girl-deluxe-edtion-plus.json) |
+| Dreamless Kingdom | 346367 | [346367-dreamless-kingdom.json](./346367-dreamless-kingdom.json) |
 | Dreamless: The Madness from the Sea | 146846 | [146846-dreamless-the-madness-from-the-sea.json](./146846-dreamless-the-madness-from-the-sea.json) |
 | Dreamlight | 151025 | [151025-dreamlight.json](./151025-dreamlight.json) |
 | Dreamlike Love with Seira | 314376 | [314376-dreamlike-love-with-seira.json](./314376-dreamlike-love-with-seira.json) |
