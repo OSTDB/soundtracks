@@ -940,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3447,6 +3448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Bands: Rock & Roll Deckbuilder | 155551 | [155551-battle-bands-rock-and-roll-deckbuilder.json](./155551-battle-bands-rock-and-roll-deckbuilder.json) |
 | Battle Barn: Tactics | 190054 | [190054-battle-barn-tactics.json](./190054-battle-barn-tactics.json) |
 | Battle Baseball | 143913 | [143913-battle-baseball.json](./143913-battle-baseball.json) |
+| Battle Beach | 323068 | [323068-battle-beach.json](./323068-battle-beach.json) |
 | Battle Bean | 291239 | [291239-battle-bean.json](./291239-battle-bean.json) |
 | Battle Bears 1 Mac | 88639 | [88639-battle-bears-1-mac.json](./88639-battle-bears-1-mac.json) |
 | Battle Bears 1: Zombies | 171453 | [171453-battle-bears-1-zombies.json](./171453-battle-bears-1-zombies.json) |
@@ -7794,6 +7796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Pinball Gameroom: United Starlet | 265081 | [265081-bingo-pinball-gameroom-united-starlet.json](./265081-bingo-pinball-gameroom-united-starlet.json) |
 | Bingo Pop | 101516 | [101516-bingo-pop.json](./101516-bingo-pop.json) |
 | Bingo Roulette | 404213 | [404213-bingo-roulette.json](./404213-bingo-roulette.json) |
+| Bingo Rush 2 | 323070 | [323070-bingo-rush-2.json](./323070-bingo-rush-2.json) |
 | Bingo Titan Adventure: Kingdom Crush | 102660 | [102660-bingo-titan-adventure-kingdom-crush.json](./102660-bingo-titan-adventure-kingdom-crush.json) |
 | Bingo Tropical Haven: Island Beach Fever | 101423 | [101423-bingo-tropical-haven-island-beach-fever.json](./101423-bingo-tropical-haven-island-beach-fever.json) |
 | Bingo TV | 276406 | [276406-bingo-tv.json](./276406-bingo-tv.json) |
@@ -12826,6 +12829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booty Calls: Miyu Pack | 226268 | [226268-booty-calls-miyu-pack.json](./226268-booty-calls-miyu-pack.json) |
 | Booty Diver | 68321 | [68321-booty-diver.json](./68321-booty-diver.json) |
 | Booty Hunt | 112289 | [112289-booty-hunt.json](./112289-booty-hunt.json) |
+| Booty Quest: Match 3 Jewels! | 323071 | [323071-booty-quest-match-3-jewels.json](./323071-booty-quest-match-3-jewels.json) |
 | BootyBuns & 21 | 91035 | [91035-bootybuns-and-21.json](./91035-bootybuns-and-21.json) |
 | Bootybuns 2 | 127925 | [127925-bootybuns-2.json](./127925-bootybuns-2.json) |
 | Boovie | 120655 | [120655-boovie.json](./120655-boovie.json) |
@@ -15846,6 +15850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Blast | 304262 | [304262-bubble-blast.json](./304262-bubble-blast.json) |
 | Bubble Blast Rescue | 89036 | [89036-bubble-blast-rescue.json](./89036-bubble-blast-rescue.json) |
 | Bubble Blaster DX | 314608 | [314608-bubble-blaster-dx.json](./314608-bubble-blaster-dx.json) |
+| Bubble Blaze | 323092 | [323092-bubble-blaze.json](./323092-bubble-blaze.json) |
 | Bubble Blobb | 386703 | [386703-bubble-blobb.json](./386703-bubble-blobb.json) |
 | Bubble Blow | 419835 | [419835-bubble-blow.json](./419835-bubble-blow.json) |
 | Bubble Blowout | 25704 | [25704-bubble-blowout.json](./25704-bubble-blowout.json) |
