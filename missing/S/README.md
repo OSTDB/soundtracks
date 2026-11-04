@@ -13593,6 +13593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slumberer's Universe | 226622 | [226622-slumberers-universe.json](./226622-slumberers-universe.json) |
 | Slumberfish! | 243954 | [243954-slumberfish.json](./243954-slumberfish.json) |
 | Slumberfish!: Catching Z's | 288677 | [288677-slumberfish-catching-zs.json](./288677-slumberfish-catching-zs.json) |
+| Slumbering Feline | 318336 | [318336-slumbering-feline.json](./318336-slumbering-feline.json) |
 | Slumbering Woods | 323688 | [323688-slumbering-woods.json](./323688-slumbering-woods.json) |
 | Slumlord Simulator | 75629 | [75629-slumlord-simulator.json](./75629-slumlord-simulator.json) |
 | Slumpunk | 382505 | [382505-slumpunk.json](./382505-slumpunk.json) |
@@ -18963,6 +18964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -26752,6 +26754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strata Scavenger | 65219 | [65219-strata-scavenger.json](./65219-strata-scavenger.json) |
 | Stratagem | 289311 | [289311-stratagem.json](./289311-stratagem.json) |
 | Stratagem in troubled times | 168434 | [168434-stratagem-in-troubled-times.json](./168434-stratagem-in-troubled-times.json) |
+| Stratagem Lost | 318351 | [318351-stratagem-lost.json](./318351-stratagem-lost.json) |
 | Stratajong | 57653 | [57653-stratajong.json](./57653-stratajong.json) |
 | Stratapath TD | 390662 | [390662-stratapath-td.json](./390662-stratapath-td.json) |
 | StratDots RTS | 381138 | [381138-stratdots-rts.json](./381138-stratdots-rts.json) |
@@ -28084,6 +28087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submarine Fury | 73802 | [73802-submarine-fury.json](./73802-submarine-fury.json) |
 | Submarine Samurai | 183556 | [183556-submarine-samurai.json](./183556-submarine-samurai.json) |
 | Submarine Strike | 413047 | [413047-submarine-strike.json](./413047-submarine-strike.json) |
+| Submarine Survivor | 318350 | [318350-submarine-survivor.json](./318350-submarine-survivor.json) |
 | Submarine Terror | 269205 | [269205-submarine-terror.json](./269205-submarine-terror.json) |
 | Submarine Titans | 93354 | [93354-submarine-titans.json](./93354-submarine-titans.json) |
 | Submarine War | 154007 | [154007-submarine-war.json](./154007-submarine-war.json) |
@@ -28158,6 +28162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SubterAlien Rescue | 157504 | [157504-subteralien-rescue.json](./157504-subteralien-rescue.json) |
 | Subterene | 163901 | [163901-subterene.json](./163901-subterene.json) |
 | Subterrain: Mines of Titan | 155497 | [155497-subterrain-mines-of-titan.json](./155497-subterrain-mines-of-titan.json) |
+| Subterranauts | 318348 | [318348-subterranauts.json](./318348-subterranauts.json) |
 | Subterranea | 55205 | [55205-subterranea.json](./55205-subterranea.json) |
 | Subterranean | 180637 | [180637-subterranean.json](./180637-subterranean.json) |
 | Subterranean Detectives Orin and Satori | 185591 | [185591-subterranean-detectives-orin-and-satori.json](./185591-subterranean-detectives-orin-and-satori.json) |
@@ -29435,6 +29440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Alicorn Sisters: Return of the Tantabus | 261187 | [261187-super-alicorn-sisters-return-of-the-tantabus.json](./261187-super-alicorn-sisters-return-of-the-tantabus.json) |
 | Super Alien | 146294 | [146294-super-alien.json](./146294-super-alien.json) |
 | Super Alien Sniper: Super Realisitic Simulator | 326334 | [326334-super-alien-sniper-super-realisitic-simulator.json](./326334-super-alien-sniper-super-realisitic-simulator.json) |
+| Super Alloy Crush | 318308 | [318308-super-alloy-crush.json](./318308-super-alloy-crush.json) |
 | Super Alloy Ranger | 200550 | [200550-super-alloy-ranger.json](./200550-super-alloy-ranger.json) |
 | Super Alpaca Bros. | 114336 | [114336-super-alpaca-bros.json](./114336-super-alpaca-bros.json) |
 | Super Alpine Racer | 124423 | [124423-super-alpine-racer.json](./124423-super-alpine-racer.json) |
