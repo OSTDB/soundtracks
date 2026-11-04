@@ -16855,6 +16855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Lost World | 21902 | [21902-sonic-lost-world.json](./21902-sonic-lost-world.json) |
 | Sonic Lost World | 2607 | [2607-sonic-lost-world.json](./2607-sonic-lost-world.json) |
 | Sonic Lost World: Deadly Six Edition | 386277 | [386277-sonic-lost-world-deadly-six-edition.json](./386277-sonic-lost-world-deadly-six-edition.json) |
+| Sonic Lost World: DLC Restoration | 338481 | [338481-sonic-lost-world-dlc-restoration.json](./338481-sonic-lost-world-dlc-restoration.json) |
 | Sonic Lost World: The Legend of Zelda Zone | 133935 | [133935-sonic-lost-world-the-legend-of-zelda-zone.json](./133935-sonic-lost-world-the-legend-of-zelda-zone.json) |
 | Sonic Lost World: Yoshi's Island Zone | 133933 | [133933-sonic-lost-world-yoshis-island-zone.json](./133933-sonic-lost-world-yoshis-island-zone.json) |
 | Sonic Madness | 331101 | [331101-sonic-madness.json](./331101-sonic-madness.json) |
@@ -18815,6 +18816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
