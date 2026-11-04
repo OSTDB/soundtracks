@@ -1488,6 +1488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Anne | 89763 | [89763-paper-anne.json](./89763-paper-anne.json) |
 | Paper Attack | 227738 | [227738-paper-attack.json](./227738-paper-attack.json) |
 | Paper Baseball | 420781 | [420781-paper-baseball.json](./420781-paper-baseball.json) |
+| Paper Battlefield | 326929 | [326929-paper-battlefield.json](./326929-paper-battlefield.json) |
 | Paper Beast | 117293 | [117293-paper-beast.json](./117293-paper-beast.json) |
 | Paper Beast: Enhanced Edition | 268370 | [268370-paper-beast-enhanced-edition.json](./268370-paper-beast-enhanced-edition.json) |
 | Paper Beast: Folded Edition | 140295 | [140295-paper-beast-folded-edition.json](./140295-paper-beast-folded-edition.json) |
@@ -16787,6 +16788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Club: Fights | 174764 | [174764-punch-club-fights.json](./174764-punch-club-fights.json) |
 | Punch Club: The Dark Fist | 18097 | [18097-punch-club-the-dark-fist.json](./18097-punch-club-the-dark-fist.json) |
 | Punch Fit | 215324 | [215324-punch-fit.json](./215324-punch-fit.json) |
+| Punch Guy | 326928 | [326928-punch-guy.json](./326928-punch-guy.json) |
 | Punch Hero | 38999 | [38999-punch-hero.json](./38999-punch-hero.json) |
 | Punch It Deluxe | 192158 | [192158-punch-it-deluxe.json](./192158-punch-it-deluxe.json) |
 | Punch Jump | 275555 | [275555-punch-jump.json](./275555-punch-jump.json) |
