@@ -3894,6 +3894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Festa!! Hyper Girls Party | 326637 | [326637-festa-hyper-girls-party.json](./326637-festa-hyper-girls-party.json) |
 | Fester Mudd: Curse of the Gold - Episode 1 | 7726 | [7726-fester-mudd-curse-of-the-gold-episode-1.json](./7726-fester-mudd-curse-of-the-gold-episode-1.json) |
 | Fester's Quest | 5343 | [5343-festers-quest.json](./5343-festers-quest.json) |
+| Festered | 331200 | [331200-festered.json](./331200-festered.json) |
 | Festival | 201493 | [201493-festival.json](./201493-festival.json) |
 | Festival Days Sim Date | 198243 | [198243-festival-days-sim-date.json](./198243-festival-days-sim-date.json) |
 | Festival Fever | 320032 | [320032-festival-fever.json](./320032-festival-fever.json) |
