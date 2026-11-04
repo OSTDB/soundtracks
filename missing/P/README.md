@@ -2021,6 +2021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parameters | 123277 | [123277-parameters.json](./123277-parameters.json) |
 | Parametric Creature: Lab | 189821 | [189821-parametric-creature-lab.json](./189821-parametric-creature-lab.json) |
 | Parametric Engine | 240698 | [240698-parametric-engine.json](./240698-parametric-engine.json) |
+| Parámetro Zero: Calígine | 340820 | [340820-parametro-zero-caligine.json](./340820-parametro-zero-caligine.json) |
 | Paramnesia | 212123 | [212123-paramnesia.json](./212123-paramnesia.json) |
 | Paramnesia: Escape Together | 244489 | [244489-paramnesia-escape-together.json](./244489-paramnesia-escape-together.json) |
 | Paramon Clash | 105819 | [105819-paramon-clash.json](./105819-paramon-clash.json) |
