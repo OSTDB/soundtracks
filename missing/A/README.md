@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dark Place 2 | 307002 | [307002-a-dark-place-2.json](./307002-a-dark-place-2.json) |
 | A Dark Room | 3245 | [3245-a-dark-room.json](./3245-a-dark-room.json) |
 | A Dark Sky Over Paradise | 228994 | [228994-a-dark-sky-over-paradise.json](./228994-a-dark-sky-over-paradise.json) |
+| A Dark Winter Wander | 316534 | [316534-a-dark-winter-wander.json](./316534-a-dark-winter-wander.json) |
 | A Dark World: The Glowing City | 126337 | [126337-a-dark-world-the-glowing-city.json](./126337-a-dark-world-the-glowing-city.json) |
 | A Date for the Ages | 260648 | [260648-a-date-for-the-ages.json](./260648-a-date-for-the-ages.json) |
 | A Date in the Park | 32670 | [32670-a-date-in-the-park.json](./32670-a-date-in-the-park.json) |
@@ -5751,6 +5752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akira | 248743 | [248743-akira.json](./248743-akira.json) |
 | Akira | 248744 | [248744-akira.json](./248744-akira.json) |
 | Akira | 26411 | [26411-akira.json](./26411-akira.json) |
+| Akira GBC | 316527 | [316527-akira-gbc.json](./316527-akira-gbc.json) |
 | Akira's Deep Sea Ventures | 414693 | [414693-akiras-deep-sea-ventures.json](./414693-akiras-deep-sea-ventures.json) |
 | Akira*Hero | 400567 | [400567-akira-hero.json](./400567-akira-hero.json) |
 | Akirao: A Researcher Awakens | 307134 | [307134-akirao-a-researcher-awakens.json](./307134-akirao-a-researcher-awakens.json) |
@@ -7329,6 +7331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone | 272639 | [272639-alone.json](./272639-alone.json) |
 | Alone | 97495 | [97495-alone.json](./97495-alone.json) |
 | Alone A Long | 324798 | [324798-alone-a-long.json](./324798-alone-a-long.json) |
+| Alone Among The Stars | 316529 | [316529-alone-among-the-stars.json](./316529-alone-among-the-stars.json) |
 | Alone and Dangerous | 274323 | [274323-alone-and-dangerous.json](./274323-alone-and-dangerous.json) |
 | Alone but Strong | 369625 | [369625-alone-but-strong.json](./369625-alone-but-strong.json) |
 | Alone Girl | 411281 | [411281-alone-girl.json](./411281-alone-girl.json) |
@@ -7447,6 +7450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Crisis | 390329 | [390329-alpha-crisis.json](./390329-alpha-crisis.json) |
 | Alpha Decay | 31707 | [31707-alpha-decay.json](./31707-alpha-decay.json) |
 | Alpha Dog | 120429 | [120429-alpha-dog.json](./120429-alpha-dog.json) |
+| Alpha Dog | 316557 | [316557-alpha-dog.json](./316557-alpha-dog.json) |
 | Alpha Guns | 137675 | [137675-alpha-guns.json](./137675-alpha-guns.json) |
 | Alpha Guns 2 | 137869 | [137869-alpha-guns-2.json](./137869-alpha-guns-2.json) |
 | Alpha Invasion | 135584 | [135584-alpha-invasion.json](./135584-alpha-invasion.json) |
@@ -16070,7 +16074,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
@@ -17414,6 +17417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Cat Puzzle | 200439 | [200439-awesome-cat-puzzle.json](./200439-awesome-cat-puzzle.json) |
 | Awesome Devil | 220207 | [220207-awesome-devil.json](./220207-awesome-devil.json) |
 | Awesome Earl in SkateRock | 52196 | [52196-awesome-earl-in-skaterock.json](./52196-awesome-earl-in-skaterock.json) |
+| Awesome Game | 316872 | [316872-awesome-game.json](./316872-awesome-game.json) |
 | Awesome Golf | 12363 | [12363-awesome-golf.json](./12363-awesome-golf.json) |
 | Awesome Land | 146029 | [146029-awesome-land.json](./146029-awesome-land.json) |
 | Awesome Memory | 87689 | [87689-awesome-memory.json](./87689-awesome-memory.json) |
