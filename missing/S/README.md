@@ -10331,6 +10331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silly Suspects | 309735 | [309735-silly-suspects.json](./309735-silly-suspects.json) |
 | Silly Sync | 379894 | [379894-silly-sync.json](./379894-silly-sync.json) |
 | Silly Tanks | 351504 | [351504-silly-tanks.json](./351504-silly-tanks.json) |
+| Silly Tower | 301446 | [301446-silly-tower.json](./301446-silly-tower.json) |
 | Silly Wisher | 358506 | [358506-silly-wisher.json](./358506-silly-wisher.json) |
 | Silly.tiff | 305395 | [305395-silly-tiff.json](./305395-silly-tiff.json) |
 | Silly's Gameshow | 347804 | [347804-sillys-gameshow.json](./347804-sillys-gameshow.json) |
@@ -14250,6 +14251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smurfs Save the Day: Handy Smurf | 65990 | [65990-smurfs-save-the-day-handy-smurf.json](./65990-smurfs-save-the-day-handy-smurf.json) |
 | Smurfs Save the Day: Harmony Smurf | 65989 | [65989-smurfs-save-the-day-harmony-smurf.json](./65989-smurfs-save-the-day-harmony-smurf.json) |
 | Smurfs' Village | 234053 | [234053-smurfs-village.json](./234053-smurfs-village.json) |
+| Smurftastic Collection | 301211 | [301211-smurftastic-collection.json](./301211-smurftastic-collection.json) |
 | Smush | 119028 | [119028-smush.json](./119028-smush.json) |
 | Smush.TV | 111707 | [111707-smush-tv.json](./111707-smush-tv.json) |
 | Smuta | 294643 | [294643-smuta.json](./294643-smuta.json) |
@@ -18451,6 +18453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Park: Save Kenny | 57934 | [57934-south-park-save-kenny.json](./57934-south-park-save-kenny.json) |
 | South Park: Snow Day! | 261145 | [261145-south-park-snow-day.json](./261145-south-park-snow-day.json) |
 | South Park: Snow Day! - 420 Pack | 298710 | [298710-south-park-snow-day-420-pack.json](./298710-south-park-snow-day-420-pack.json) |
+| South Park: Snow Day! - Asspen Pack | 301212 | [301212-south-park-snow-day-asspen-pack.json](./301212-south-park-snow-day-asspen-pack.json) |
 | South Park: Snow Day! - Bear-Serker Pack | 300919 | [300919-south-park-snow-day-bear-serker-pack.json](./300919-south-park-snow-day-bear-serker-pack.json) |
 | South Park: Snow Day! - Bigger, Longer & Uncut Anniversary Pack | 316256 | [316256-south-park-snow-day-bigger-longer-and-uncut-anniversary-pack.json](./316256-south-park-snow-day-bigger-longer-and-uncut-anniversary-pack.json) |
 | South Park: Snow Day! - Chaos Pack | 327315 | [327315-south-park-snow-day-chaos-pack.json](./327315-south-park-snow-day-chaos-pack.json) |
@@ -35188,6 +35191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syzygy | 123068 | [123068-syzygy.json](./123068-syzygy.json) |
 | Syzygy | 137299 | [137299-syzygy.json](./137299-syzygy.json) |
 | Syzygy | 150422 | [150422-syzygy.json](./150422-syzygy.json) |
+| Syzygy | 301556 | [301556-syzygy.json](./301556-syzygy.json) |
 | Syzygy: The Power of the Eclipse | 257535 | [257535-syzygy-the-power-of-the-eclipse.json](./257535-syzygy-the-power-of-the-eclipse.json) |
 | SZ2000 | 359684 | [359684-sz2000.json](./359684-sz2000.json) |
 | Szen | 114364 | [114364-szen.json](./114364-szen.json) |
