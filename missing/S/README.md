@@ -512,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sagaia | 145878 | [145878-sagaia.json](./145878-sagaia.json) |
 | Sagakure | 116430 | [116430-sagakure.json](./116430-sagakure.json) |
 | SaGaS | 272938 | [272938-sagas.json](./272938-sagas.json) |
+| Sagas of Lumin | 322461 | [322461-sagas-of-lumin.json](./322461-sagas-of-lumin.json) |
 | Sagashi ni Ikouyo | 85778 | [85778-sagashi-ni-ikouyo.json](./85778-sagashi-ni-ikouyo.json) |
 | Sagashimono ha, Natsu desuka. | 263237 | [263237-sagashimono-ha-natsu-desuka.json](./263237-sagashimono-ha-natsu-desuka.json) |
 | Sage 3D | 105259 | [105259-sage-3d.json](./105259-sage-3d.json) |
@@ -18942,6 +18943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -22004,6 +22006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Sports | 366371 | [366371-sports-sports.json](./366371-sports-sports.json) |
 | Sports Story | 127303 | [127303-sports-story.json](./127303-sports-story.json) |
 | Sports Superbike | 43789 | [43789-sports-superbike.json](./43789-sports-superbike.json) |
+| Sports Supermarket | 322503 | [322503-sports-supermarket.json](./322503-sports-supermarket.json) |
 | Sports Talk Baseball | 46261 | [46261-sports-talk-baseball.json](./46261-sports-talk-baseball.json) |
 | Sports Trivia | 78439 | [78439-sports-trivia.json](./78439-sports-trivia.json) |
 | Sports Trivia: Championship Edition | 46541 | [46541-sports-trivia-championship-edition.json](./46541-sports-trivia-championship-edition.json) |
@@ -32504,6 +32507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Anime Collector's Simulator | 345117 | [345117-supermarket-anime-collectors-simulator.json](./345117-supermarket-anime-collectors-simulator.json) |
 | Supermarket Bash | 296507 | [296507-supermarket-bash.json](./296507-supermarket-bash.json) |
 | Supermarket Billionaire | 359083 | [359083-supermarket-billionaire.json](./359083-supermarket-billionaire.json) |
+| Supermarket Business Simulator | 322505 | [322505-supermarket-business-simulator.json](./322505-supermarket-business-simulator.json) |
 | Supermarket Cashier | 232375 | [232375-supermarket-cashier.json](./232375-supermarket-cashier.json) |
 | Supermarket CEO Simulator | 335949 | [335949-supermarket-ceo-simulator.json](./335949-supermarket-ceo-simulator.json) |
 | Supermarket CEO Simulator VR | 335950 | [335950-supermarket-ceo-simulator-vr.json](./335950-supermarket-ceo-simulator-vr.json) |
@@ -34576,6 +34580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symphony of Seven Souls | 176082 | [176082-symphony-of-seven-souls.json](./176082-symphony-of-seven-souls.json) |
 | Symphony of Souls | 253573 | [253573-symphony-of-souls.json](./253573-symphony-of-souls.json) |
 | Symphony of Stars | 114255 | [114255-symphony-of-stars.json](./114255-symphony-of-stars.json) |
+| Symphony of Steel | 322492 | [322492-symphony-of-steel.json](./322492-symphony-of-steel.json) |
 | Symphony of the Machine | 28238 | [28238-symphony-of-the-machine.json](./28238-symphony-of-the-machine.json) |
 | Symphony of the Night | 181156 | [181156-symphony-of-the-night.json](./181156-symphony-of-the-night.json) |
 | Symphony of the Origin | 39783 | [39783-symphony-of-the-origin.json](./39783-symphony-of-the-origin.json) |
