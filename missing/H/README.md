@@ -6281,6 +6281,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexceed: Rubrum | 295865 | [295865-hexceed-rubrum.json](./295865-hexceed-rubrum.json) |
 | Hexceed: Sirius | 397878 | [397878-hexceed-sirius.json](./397878-hexceed-sirius.json) |
 | Hexceed: Stella | 155692 | [155692-hexceed-stella.json](./155692-hexceed-stella.json) |
+| Hexceed: Violaceum | 342361 | [342361-hexceed-violaceum.json](./342361-hexceed-violaceum.json) |
+| Hexceed: Virdis | 342360 | [342360-hexceed-virdis.json](./342360-hexceed-virdis.json) |
 | Hexceed: Viridis Pack | 323236 | [323236-hexceed-viridis-pack.json](./323236-hexceed-viridis-pack.json) |
 | Hexceed: Year 4 Pass | 295864 | [295864-hexceed-year-4-pass.json](./295864-hexceed-year-4-pass.json) |
 | Hexceed: Year 5 Season Pass! | 397888 | [397888-hexceed-year-5-season-pass.json](./397888-hexceed-year-5-season-pass.json) |
