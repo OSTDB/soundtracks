@@ -2727,6 +2727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to the Savage Planet | 113108 | [113108-journey-to-the-savage-planet.json](./113108-journey-to-the-savage-planet.json) |
 | Journey to the Savage Planet: Employee of the Month Edition | 143481 | [143481-journey-to-the-savage-planet-employee-of-the-month-edition.json](./143481-journey-to-the-savage-planet-employee-of-the-month-edition.json) |
 | Journey to the Savage Planet: Hot Garbage | 132870 | [132870-journey-to-the-savage-planet-hot-garbage.json](./132870-journey-to-the-savage-planet-hot-garbage.json) |
+| Journey to the Void | 322463 | [322463-journey-to-the-void.json](./322463-journey-to-the-void.json) |
 | Journey to the Wand | 279515 | [279515-journey-to-the-wand.json](./279515-journey-to-the-wand.json) |
 | Journey to the West | 195043 | [195043-journey-to-the-west.json](./195043-journey-to-the-west.json) |
 | Journey to the West | 274550 | [274550-journey-to-the-west.json](./274550-journey-to-the-west.json) |
