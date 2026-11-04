@@ -2250,6 +2250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neofold | 404070 | [404070-neofold.json](./404070-neofold.json) |
 | Neofold: The Feast | 424717 | [424717-neofold-the-feast.json](./424717-neofold-the-feast.json) |
 | Neogen BeatZ | 256539 | [256539-neogen-beatz.json](./256539-neogen-beatz.json) |
+| Neogen Fallout | 314208 | [314208-neogen-fallout.json](./314208-neogen-fallout.json) |
 | Neogen Space Monkeys | 221979 | [221979-neogen-space-monkeys.json](./221979-neogen-space-monkeys.json) |
 | Neogeo Arcade 1 | 337848 | [337848-neogeo-arcade-1.json](./337848-neogeo-arcade-1.json) |
 | Neogeo Arcade 2 | 346805 | [346805-neogeo-arcade-2.json](./346805-neogeo-arcade-2.json) |
@@ -5837,6 +5838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nob War: The Elves | 235243 | [235243-nob-war-the-elves.json](./235243-nob-war-the-elves.json) |
 | Nobby the Aardvark | 125181 | [125181-nobby-the-aardvark.json](./125181-nobby-the-aardvark.json) |
 | Nobelia | 224950 | [224950-nobelia.json](./224950-nobelia.json) |
+| Nobk Overlay | 314199 | [314199-nobk-overlay.json](./314199-nobk-overlay.json) |
 | Noble | 176975 | [176975-noble.json](./176975-noble.json) |
 | Noble Armada: Lost Worlds | 107897 | [107897-noble-armada-lost-worlds.json](./107897-noble-armada-lost-worlds.json) |
 | Noble Blood | 339684 | [339684-noble-blood.json](./339684-noble-blood.json) |
