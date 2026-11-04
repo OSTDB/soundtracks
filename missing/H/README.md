@@ -5754,6 +5754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero-U: Rogue to Redemption | 64359 | [64359-hero-u-rogue-to-redemption.json](./64359-hero-u-rogue-to-redemption.json) |
 | Hero: 108 Online | 209873 | [209873-hero-108-online.json](./209873-hero-108-online.json) |
 | Hero: Flood Rescue | 118428 | [118428-hero-flood-rescue.json](./118428-hero-flood-rescue.json) |
+| Hero: Vol. 2 | 314180 | [314180-hero-vol-2.json](./314180-hero-vol-2.json) |
 | Hero.EXE | 133074 | [133074-hero-exe.json](./133074-hero-exe.json) |
 | Hero's 2nd Memory | 201940 | [201940-heros-2nd-memory.json](./201940-heros-2nd-memory.json) |
 | Hero's Advent | 361242 | [361242-heros-advent.json](./361242-heros-advent.json) |
@@ -7341,6 +7342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Speed Bridge Racing | 104374 | [104374-high-speed-bridge-racing.json](./104374-high-speed-bridge-racing.json) |
 | High Speed Extreme Bike Race Game: Space Heroes | 102263 | [102263-high-speed-extreme-bike-race-game-space-heroes.json](./102263-high-speed-extreme-bike-race-game-space-heroes.json) |
 | High Speed Extreme Racing | 220822 | [220822-high-speed-extreme-racing.json](./220822-high-speed-extreme-racing.json) |
+| High Speed Race: Need for Asphalt Racing | 314541 | [314541-high-speed-race-need-for-asphalt-racing.json](./314541-high-speed-race-need-for-asphalt-racing.json) |
 | High Speed Trains 2 - England | 88742 | [88742-high-speed-trains-2-england.json](./88742-high-speed-trains-2-england.json) |
 | High Speed Trains 3D | 87501 | [87501-high-speed-trains-3d.json](./87501-high-speed-trains-3d.json) |
 | High Spirits | 317300 | [317300-high-spirits.json](./317300-high-spirits.json) |
