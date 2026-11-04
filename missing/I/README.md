@@ -1195,6 +1195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ide Yosuke no Mahjong Kyoushitsu | 354912 | [354912-ide-yosuke-no-mahjong-kyoushitsu.json](./354912-ide-yosuke-no-mahjong-kyoushitsu.json) |
 | Ide Yosuke no Mahjong Kyoushitsu GB | 65243 | [65243-ide-yosuke-no-mahjong-kyoushitsu-gb.json](./65243-ide-yosuke-no-mahjong-kyoushitsu-gb.json) |
 | Idea | 204951 | [204951-idea.json](./204951-idea.json) |
+| Idea Fix | 323640 | [323640-idea-fix.json](./323640-idea-fix.json) |
 | Idea: Drone camera calm puzzle | 241572 | [241572-idea-drone-camera-calm-puzzle.json](./241572-idea-drone-camera-calm-puzzle.json) |
 | Ideabookroom | 348443 | [348443-ideabookroom.json](./348443-ideabookroom.json) |
 | Ideabox | 125953 | [125953-ideabox.json](./125953-ideabox.json) |
@@ -4088,6 +4089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inkheart | 123332 | [123332-inkheart.json](./123332-inkheart.json) |
 | Inkighter | 244827 | [244827-inkighter.json](./244827-inkighter.json) |
 | Inkjet Apocalypse | 350036 | [350036-inkjet-apocalypse.json](./350036-inkjet-apocalypse.json) |
+| Inkling Cats: Beneath the dreams | 323635 | [323635-inkling-cats-beneath-the-dreams.json](./323635-inkling-cats-beneath-the-dreams.json) |
 | Inklings | 32800 | [32800-inklings.json](./32800-inklings.json) |
 | Inko Joshikosei | 97692 | [97692-inko-joshikosei.json](./97692-inko-joshikosei.json) |
 | Inkognito for iPad | 175081 | [175081-inkognito-for-ipad.json](./175081-inkognito-for-ipad.json) |
