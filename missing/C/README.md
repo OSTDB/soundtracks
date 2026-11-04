@@ -4387,6 +4387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Balance | 296405 | [296405-cats-balance.json](./296405-cats-balance.json) |
 | Cats Bounce Ball | 338189 | [338189-cats-bounce-ball.json](./338189-cats-bounce-ball.json) |
 | Cats Bundle | 273329 | [273329-cats-bundle.json](./273329-cats-bundle.json) |
+| Cats Catching Mice: The Black and White World | 347989 | [347989-cats-catching-mice-the-black-and-white-world.json](./347989-cats-catching-mice-the-black-and-white-world.json) |
 | Cats Contrast | 332970 | [332970-cats-contrast.json](./332970-cats-contrast.json) |
 | Cats Diner | 392948 | [392948-cats-diner.json](./392948-cats-diner.json) |
 | Cats Epic Puzzles | 334827 | [334827-cats-epic-puzzles.json](./334827-cats-epic-puzzles.json) |
@@ -9681,6 +9682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click Dungeon | 259503 | [259503-click-dungeon.json](./259503-click-dungeon.json) |
 | Click for Biscuits! | 133766 | [133766-click-for-biscuits.json](./133766-click-for-biscuits.json) |
 | Click For Cash: Cashed Out | 265944 | [265944-click-for-cash-cashed-out.json](./265944-click-for-cash-cashed-out.json) |
+| Click for Humanity | 348004 | [348004-click-for-humanity.json](./348004-click-for-humanity.json) |
 | Click For Points | 223315 | [223315-click-for-points.json](./223315-click-for-points.json) |
 | Click Here | 264761 | [264761-click-here.json](./264761-click-here.json) |
 | Click Legends | 118597 | [118597-click-legends.json](./118597-click-legends.json) |
@@ -13380,6 +13382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contract Killer: Zombies 2 - Origins | 18877 | [18877-contract-killer-zombies-2-origins.json](./18877-contract-killer-zombies-2-origins.json) |
 | Contract Killers | 132218 | [132218-contract-killers.json](./132218-contract-killers.json) |
 | Contract Marriage | 303264 | [303264-contract-marriage.json](./303264-contract-marriage.json) |
+| Contract of Zerg Hunter | 347983 | [347983-contract-of-zerg-hunter.json](./347983-contract-of-zerg-hunter.json) |
 | Contract Revoked | 196502 | [196502-contract-revoked.json](./196502-contract-revoked.json) |
 | Contract Revoked: The Lost Chapters | 271237 | [271237-contract-revoked-the-lost-chapters.json](./271237-contract-revoked-the-lost-chapters.json) |
 | Contract Rush | 359879 | [359879-contract-rush.json](./359879-contract-rush.json) |
