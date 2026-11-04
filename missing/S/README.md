@@ -16910,6 +16910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Hexacide | 136388 | [136388-sonic-hexacide.json](./136388-sonic-hexacide.json) |
 | Sonic Hopping | 261271 | [261271-sonic-hopping.json](./261271-sonic-hopping.json) |
 | Sonic Hopping 2 | 261272 | [261272-sonic-hopping-2.json](./261272-sonic-hopping-2.json) |
+| Sonic Hoshi | 321916 | [321916-sonic-hoshi.json](./321916-sonic-hoshi.json) |
 | Sonic Hunter VR | 30549 | [30549-sonic-hunter-vr.json](./30549-sonic-hunter-vr.json) |
 | Sonic Illusion | 334736 | [334736-sonic-illusion.json](./334736-sonic-illusion.json) |
 | Sonic in Crash Bandicoot 2 | 338802 | [338802-sonic-in-crash-bandicoot-2.json](./338802-sonic-in-crash-bandicoot-2.json) |
@@ -16943,6 +16944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Kaiser | 331377 | [331377-sonic-kaiser.json](./331377-sonic-kaiser.json) |
 | Sonic Kart 3DX | 261278 | [261278-sonic-kart-3dx.json](./261278-sonic-kart-3dx.json) |
 | Sonic Ki | 326148 | [326148-sonic-ki.json](./326148-sonic-ki.json) |
+| Sonic Kick | 321914 | [321914-sonic-kick.json](./321914-sonic-kick.json) |
 | Sonic Labyrinth | 19731 | [19731-sonic-labyrinth.json](./19731-sonic-labyrinth.json) |
 | Sonic Labyrinth | 332465 | [332465-sonic-labyrinth.json](./332465-sonic-labyrinth.json) |
 | Sonic Labyrinth | 387060 | [387060-sonic-labyrinth.json](./387060-sonic-labyrinth.json) |
@@ -17101,6 +17103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Reversi | 210304 | [210304-sonic-reversi.json](./210304-sonic-reversi.json) |
 | Sonic Reversi Hyper | 210305 | [210305-sonic-reversi-hyper.json](./210305-sonic-reversi-hyper.json) |
 | Sonic Revert | 177158 | [177158-sonic-revert.json](./177158-sonic-revert.json) |
+| Sonic Revisited | 321915 | [321915-sonic-revisited.json](./321915-sonic-revisited.json) |
 | Sonic Revitalized 3D | 330588 | [330588-sonic-revitalized-3d.json](./330588-sonic-revitalized-3d.json) |
 | Sonic Revolution | 331869 | [331869-sonic-revolution.json](./331869-sonic-revolution.json) |
 | Sonic Riders | 210302 | [210302-sonic-riders.json](./210302-sonic-riders.json) |
@@ -17115,6 +17118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Riders Tournament Edition 2.4.6 | 369155 | [369155-sonic-riders-tournament-edition-2-4-6.json](./369155-sonic-riders-tournament-edition-2-4-6.json) |
 | Sonic Riders: Tournament Edition | 396533 | [396533-sonic-riders-tournament-edition.json](./396533-sonic-riders-tournament-edition.json) |
 | Sonic Ring Thing | 299875 | [299875-sonic-ring-thing.json](./299875-sonic-ring-thing.json) |
+| Sonic Ringworlds | 321913 | [321913-sonic-ringworlds.json](./321913-sonic-ringworlds.json) |
 | Sonic Rivals | 19260 | [19260-sonic-rivals.json](./19260-sonic-rivals.json) |
 | Sonic Rivals 2 | 19262 | [19262-sonic-rivals-2.json](./19262-sonic-rivals-2.json) |
 | Sonic Rivals Dash | 269064 | [269064-sonic-rivals-dash.json](./269064-sonic-rivals-dash.json) |
@@ -18943,7 +18947,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -30757,6 +30760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Construct | 250039 | [250039-super-mario-construct.json](./250039-super-mario-construct.json) |
 | Super Mario Construct 2: Yoshi's Fabrication Station | 250040 | [250040-super-mario-construct-2-yoshis-fabrication-station.json](./250040-super-mario-construct-2-yoshis-fabrication-station.json) |
 | Super Mario Continuance | 266356 | [266356-super-mario-continuance.json](./266356-super-mario-continuance.json) |
+| Super Mario Country | 321888 | [321888-super-mario-country.json](./321888-super-mario-country.json) |
 | Super Mario Craft | 313112 | [313112-super-mario-craft.json](./313112-super-mario-craft.json) |
 | Super Mario Cyclone Fighter | 350754 | [350754-super-mario-cyclone-fighter.json](./350754-super-mario-cyclone-fighter.json) |
 | Super Mario Death Row 2: Shroomshank Redemption | 220042 | [220042-super-mario-death-row-2-shroomshank-redemption.json](./220042-super-mario-death-row-2-shroomshank-redemption.json) |
@@ -30988,6 +30992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Worldle | 408138 | [408138-super-mario-worldle.json](./408138-super-mario-worldle.json) |
 | Super Mario X | 318024 | [318024-super-mario-x.json](./318024-super-mario-x.json) |
 | Super Mario XP | 323052 | [323052-super-mario-xp.json](./323052-super-mario-xp.json) |
+| Super Mario XP: Remastered | 321910 | [321910-super-mario-xp-remastered.json](./321910-super-mario-xp-remastered.json) |
 | Super Mario XP: Super Mario Land | 324082 | [324082-super-mario-xp-super-mario-land.json](./324082-super-mario-xp-super-mario-land.json) |
 | Super Mario: Adventure Awaits | 336102 | [336102-super-mario-adventure-awaits.json](./336102-super-mario-adventure-awaits.json) |
 | Super Mario: Battle for the Mushroom Kingdom | 318457 | [318457-super-mario-battle-for-the-mushroom-kingdom.json](./318457-super-mario-battle-for-the-mushroom-kingdom.json) |
@@ -32708,6 +32713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supposedly Wonderful Future | 72491 | [72491-supposedly-wonderful-future.json](./72491-supposedly-wonderful-future.json) |
 | Suppress Academician | 309393 | [309393-suppress-academician.json](./309393-suppress-academician.json) |
 | Supra Binyot Lande 2: Melpert's Quest for Booti | 334637 | [334637-supra-binyot-lande-2-melperts-quest-for-booti.json](./334637-supra-binyot-lande-2-melperts-quest-for-booti.json) |
+| Supra Mayro Bross: Legend of the Lost Kingdom | 321902 | [321902-supra-mayro-bross-legend-of-the-lost-kingdom.json](./321902-supra-mayro-bross-legend-of-the-lost-kingdom.json) |
 | Supra Mayro Kratt | 300345 | [300345-supra-mayro-kratt.json](./300345-supra-mayro-kratt.json) |
 | Supra Smash Bross Devolution | 265074 | [265074-supra-smash-bross-devolution.json](./265074-supra-smash-bross-devolution.json) |
 | Supra Smash Bross Devolution 2.22: You Can (Not) Be Serious | 316599 | [316599-supra-smash-bross-devolution-2-22-you-can-not-be-serious.json](./316599-supra-smash-bross-devolution-2-22-you-can-not-be-serious.json) |
