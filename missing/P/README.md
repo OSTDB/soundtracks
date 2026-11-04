@@ -5960,6 +5960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picture Puzzle | 269636 | [269636-picture-puzzle.json](./269636-picture-puzzle.json) |
 | Picture Puzzle Collection: The Dutch Masters | 209964 | [209964-picture-puzzle-collection-the-dutch-masters.json](./209964-picture-puzzle-collection-the-dutch-masters.json) |
 | Picture Puzzle Girls: Slide & Match | 417313 | [417313-picture-puzzle-girls-slide-and-match.json](./417313-picture-puzzle-girls-slide-and-match.json) |
+| Picture Quiz: Logos | 334428 | [334428-picture-quiz-logos.json](./334428-picture-quiz-logos.json) |
 | Picture the Difference! 2 | 362207 | [362207-picture-the-difference-2.json](./362207-picture-the-difference-2.json) |
 | Picture the Link | 26828 | [26828-picture-the-link.json](./26828-picture-the-link.json) |
 | Picture Toys | 392894 | [392894-picture-toys.json](./392894-picture-toys.json) |
@@ -7583,6 +7584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Aquarium | 400536 | [400536-pixel-aquarium.json](./400536-pixel-aquarium.json) |
 | Pixel Arcade | 319281 | [319281-pixel-arcade.json](./319281-pixel-arcade.json) |
 | Pixel Ars of Perfect Frontier | 99353 | [99353-pixel-ars-of-perfect-frontier.json](./99353-pixel-ars-of-perfect-frontier.json) |
+| Pixel Art | 334426 | [334426-pixel-art.json](./334426-pixel-art.json) |
 | Pixel Art Academy: Learn Mode | 270752 | [270752-pixel-art-academy-learn-mode.json](./270752-pixel-art-academy-learn-mode.json) |
 | Pixel Art Bundle Vol. 1 | 132864 | [132864-pixel-art-bundle-vol-1.json](./132864-pixel-art-bundle-vol-1.json) |
 | Pixel Art Coloring Book 2 | 394280 | [394280-pixel-art-coloring-book-2.json](./394280-pixel-art-coloring-book-2.json) |
@@ -7633,21 +7635,31 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Coloring Paint | 283262 | [283262-pixel-coloring-paint.json](./283262-pixel-coloring-paint.json) |
 | Pixel Combat | 149088 | [149088-pixel-combat.json](./149088-pixel-combat.json) |
 | Pixel Combat: Zombie Shooter | 377270 | [377270-pixel-combat-zombie-shooter.json](./377270-pixel-combat-zombie-shooter.json) |
+| Pixel Cross Stitch Color by Number - Christmas Pack | 334573 | [334573-pixel-cross-stitch-color-by-number-christmas-pack.json](./334573-pixel-cross-stitch-color-by-number-christmas-pack.json) |
 | Pixel Cross Stitch Color by Number - Winter Pack | 334566 | [334566-pixel-cross-stitch-color-by-number-winter-pack.json](./334566-pixel-cross-stitch-color-by-number-winter-pack.json) |
 | Pixel Cross Stitch Color by Number: Cute Pack | 374094 | [374094-pixel-cross-stitch-color-by-number-cute-pack.json](./374094-pixel-cross-stitch-color-by-number-cute-pack.json) |
 | Pixel Cross Stitch Color by Number: Cute Pack 2 | 374096 | [374096-pixel-cross-stitch-color-by-number-cute-pack-2.json](./374096-pixel-cross-stitch-color-by-number-cute-pack-2.json) |
 | Pixel Cross Stitch Color by Number: Landscapes Pack 5 | 374095 | [374095-pixel-cross-stitch-color-by-number-landscapes-pack-5.json](./374095-pixel-cross-stitch-color-by-number-landscapes-pack-5.json) |
 | Pixel Cross Stitch Color by Number: Miniatures | 409552 | [409552-pixel-cross-stitch-color-by-number-miniatures.json](./409552-pixel-cross-stitch-color-by-number-miniatures.json) |
+| Pixel Cross Stitch: Autumn Pack 2 | 334570 | [334570-pixel-cross-stitch-autumn-pack-2.json](./334570-pixel-cross-stitch-autumn-pack-2.json) |
 | Pixel Cross Stitch: Color by Number | 317800 | [317800-pixel-cross-stitch-color-by-number.json](./317800-pixel-cross-stitch-color-by-number.json) |
+| Pixel Cross Stitch: Color by Number - Alien Worlds Pack 2 | 334569 | [334569-pixel-cross-stitch-color-by-number-alien-worlds-pack-2.json](./334569-pixel-cross-stitch-color-by-number-alien-worlds-pack-2.json) |
 | Pixel Cross Stitch: Color by Number - Alien Worlds Pack 3 | 337560 | [337560-pixel-cross-stitch-color-by-number-alien-worlds-pack-3.json](./337560-pixel-cross-stitch-color-by-number-alien-worlds-pack-3.json) |
 | Pixel Cross Stitch: Color by Number - Autumn Miniatures Pack | 377602 | [377602-pixel-cross-stitch-color-by-number-autumn-miniatures-pack.json](./377602-pixel-cross-stitch-color-by-number-autumn-miniatures-pack.json) |
 | Pixel Cross Stitch: Color by Number - Autumn Pack 3 | 377606 | [377606-pixel-cross-stitch-color-by-number-autumn-pack-3.json](./377606-pixel-cross-stitch-color-by-number-autumn-pack-3.json) |
 | Pixel Cross Stitch: Color by Number - Back To School Pack | 374125 | [374125-pixel-cross-stitch-color-by-number-back-to-school-pack.json](./374125-pixel-cross-stitch-color-by-number-back-to-school-pack.json) |
+| Pixel Cross Stitch: Color by Number - Christmas Baubles Pack | 334571 | [334571-pixel-cross-stitch-color-by-number-christmas-baubles-pack.json](./334571-pixel-cross-stitch-color-by-number-christmas-baubles-pack.json) |
+| Pixel Cross Stitch: Color by Number - Christmas Baubles Pack 2 | 334572 | [334572-pixel-cross-stitch-color-by-number-christmas-baubles-pack-2.json](./334572-pixel-cross-stitch-color-by-number-christmas-baubles-pack-2.json) |
 | Pixel Cross Stitch: Color by Number - Christmas Baubles Pack 3 | 377604 | [377604-pixel-cross-stitch-color-by-number-christmas-baubles-pack-3.json](./377604-pixel-cross-stitch-color-by-number-christmas-baubles-pack-3.json) |
+| Pixel Cross Stitch: Color by Number - Christmas Pack 2 | 334574 | [334574-pixel-cross-stitch-color-by-number-christmas-pack-2.json](./334574-pixel-cross-stitch-color-by-number-christmas-pack-2.json) |
 | Pixel Cross Stitch: Color by Number - Christmas Pack 3 | 377605 | [377605-pixel-cross-stitch-color-by-number-christmas-pack-3.json](./377605-pixel-cross-stitch-color-by-number-christmas-pack-3.json) |
+| Pixel Cross Stitch: Color by Number - Dogs Pack | 334576 | [334576-pixel-cross-stitch-color-by-number-dogs-pack.json](./334576-pixel-cross-stitch-color-by-number-dogs-pack.json) |
+| Pixel Cross Stitch: Color by Number - Easter Pack | 334575 | [334575-pixel-cross-stitch-color-by-number-easter-pack.json](./334575-pixel-cross-stitch-color-by-number-easter-pack.json) |
+| Pixel Cross Stitch: Color by Number - Easter Pack 2 | 334577 | [334577-pixel-cross-stitch-color-by-number-easter-pack-2.json](./334577-pixel-cross-stitch-color-by-number-easter-pack-2.json) |
 | Pixel Cross Stitch: Color by Number - Enchanted Worlds Pack | 355518 | [355518-pixel-cross-stitch-color-by-number-enchanted-worlds-pack.json](./355518-pixel-cross-stitch-color-by-number-enchanted-worlds-pack.json) |
 | Pixel Cross Stitch: Color by Number - Enchanted Worlds Pack 2 | 359877 | [359877-pixel-cross-stitch-color-by-number-enchanted-worlds-pack-2.json](./359877-pixel-cross-stitch-color-by-number-enchanted-worlds-pack-2.json) |
 | Pixel Cross Stitch: Color by Number - Enchanted Worlds Pack 3 | 377607 | [377607-pixel-cross-stitch-color-by-number-enchanted-worlds-pack-3.json](./377607-pixel-cross-stitch-color-by-number-enchanted-worlds-pack-3.json) |
+| Pixel Cross Stitch: Color by Number - Fantasy Medieval Pack 3 | 334578 | [334578-pixel-cross-stitch-color-by-number-fantasy-medieval-pack-3.json](./334578-pixel-cross-stitch-color-by-number-fantasy-medieval-pack-3.json) |
 | Pixel Cross Stitch: Color by Number - Flags Pack | 334580 | [334580-pixel-cross-stitch-color-by-number-flags-pack.json](./334580-pixel-cross-stitch-color-by-number-flags-pack.json) |
 | Pixel Cross Stitch: Color by Number - Flowers and Butterflies Pack 2 | 334581 | [334581-pixel-cross-stitch-color-by-number-flowers-and-butterflies-pack-2.json](./334581-pixel-cross-stitch-color-by-number-flowers-and-butterflies-pack-2.json) |
 | Pixel Cross Stitch: Color by Number - Flowers and Butterflies Pack 3 | 359878 | [359878-pixel-cross-stitch-color-by-number-flowers-and-butterflies-pack-3.json](./359878-pixel-cross-stitch-color-by-number-flowers-and-butterflies-pack-3.json) |
@@ -7676,6 +7688,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Cross Stitch: Color by Number - Vacations Pack | 361226 | [361226-pixel-cross-stitch-color-by-number-vacations-pack.json](./361226-pixel-cross-stitch-color-by-number-vacations-pack.json) |
 | Pixel Cross Stitch: Color by Number - Valentine's Day Pack | 334564 | [334564-pixel-cross-stitch-color-by-number-valentines-day-pack.json](./334564-pixel-cross-stitch-color-by-number-valentines-day-pack.json) |
 | Pixel Cross Stitch: Color by Number - Valentine's Day Pack 2 | 334565 | [334565-pixel-cross-stitch-color-by-number-valentines-day-pack-2.json](./334565-pixel-cross-stitch-color-by-number-valentines-day-pack-2.json) |
+| Pixel Cross Stitch: Color by Number - Winter Pack 2 | 334567 | [334567-pixel-cross-stitch-color-by-number-winter-pack-2.json](./334567-pixel-cross-stitch-color-by-number-winter-pack-2.json) |
+| Pixel Cross Stitch: Color by Number - Winter Pack 3 | 334568 | [334568-pixel-cross-stitch-color-by-number-winter-pack-3.json](./334568-pixel-cross-stitch-color-by-number-winter-pack-3.json) |
 | Pixel Cross Stitch: Color by Number - Women At Work Pack | 383178 | [383178-pixel-cross-stitch-color-by-number-women-at-work-pack.json](./383178-pixel-cross-stitch-color-by-number-women-at-work-pack.json) |
 | Pixel Cross Stitch: Fantasy Medieval Pack 2 | 334579 | [334579-pixel-cross-stitch-fantasy-medieval-pack-2.json](./334579-pixel-cross-stitch-fantasy-medieval-pack-2.json) |
 | Pixel Cross Stitch: Menacing Monsters Pack 2 | 334585 | [334585-pixel-cross-stitch-menacing-monsters-pack-2.json](./334585-pixel-cross-stitch-menacing-monsters-pack-2.json) |
@@ -12109,6 +12123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Pop Pop! | 201135 | [201135-pop-pop-pop.json](./201135-pop-pop-pop.json) |
 | Pop Pop Potato | 378572 | [378572-pop-pop-potato.json](./378572-pop-pop-potato.json) |
 | Pop Quiz logo | 108285 | [108285-pop-quiz-logo.json](./108285-pop-quiz-logo.json) |
+| Pop Rock 'N' Roll | 334445 | [334445-pop-rock-n-roll.json](./334445-pop-rock-n-roll.json) |
 | Pop Royale | 23334 | [23334-pop-royale.json](./23334-pop-royale.json) |
 | Pop Some Eyes | 240747 | [240747-pop-some-eyes.json](./240747-pop-some-eyes.json) |
 | Pop Star Academy | 344935 | [344935-pop-star-academy.json](./344935-pop-star-academy.json) |
