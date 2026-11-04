@@ -693,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radioactivity | 335502 | [335502-radioactivity.json](./335502-radioactivity.json) |
 | Radioapan: Banankalas! | 182330 | [182330-radioapan-banankalas.json](./182330-radioapan-banankalas.json) |
 | Radiohammer | 21565 | [21565-radiohammer.json](./21565-radiohammer.json) |
+| Radiolength | 335587 | [335587-radiolength.json](./335587-radiolength.json) |
 | Radiolight | 170912 | [170912-radiolight.json](./170912-radiolight.json) |
 | Radiometric Dating | 193461 | [193461-radiometric-dating.json](./193461-radiometric-dating.json) |
 | Radiophobia 3 | 375917 | [375917-radiophobia-3.json](./375917-radiophobia-3.json) |
@@ -3113,6 +3114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of Arkania: Blade of Destiny + Star Trail | 93214 | [93214-realms-of-arkania-blade-of-destiny-star-trail.json](./93214-realms-of-arkania-blade-of-destiny-star-trail.json) |
 | Realms of Arkania: Star Trail | 2512 | [2512-realms-of-arkania-star-trail.json](./2512-realms-of-arkania-star-trail.json) |
 | Realms of Arkania: Star Trail | 27346 | [27346-realms-of-arkania-star-trail.json](./27346-realms-of-arkania-star-trail.json) |
+| Realms of Arkania: Star Trail - Digital Deluxe Edition | 335620 | [335620-realms-of-arkania-star-trail-digital-deluxe-edition.json](./335620-realms-of-arkania-star-trail-digital-deluxe-edition.json) |
 | Realms of Chaos | 8496 | [8496-realms-of-chaos.json](./8496-realms-of-chaos.json) |
 | Realms of Conquest | 54835 | [54835-realms-of-conquest.json](./54835-realms-of-conquest.json) |
 | Realms of Cronos | 268916 | [268916-realms-of-cronos.json](./268916-realms-of-cronos.json) |
