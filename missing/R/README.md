@@ -1807,6 +1807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Randomizator | 44300 | [44300-randomizator.json](./44300-randomizator.json) |
 | Randomlands | 156602 | [156602-randomlands.json](./156602-randomlands.json) |
 | Randomlife Reborn | 347587 | [347587-randomlife-reborn.json](./347587-randomlife-reborn.json) |
+| Randomly Jerk Simulator | 326376 | [326376-randomly-jerk-simulator.json](./326376-randomly-jerk-simulator.json) |
 | Randompunk 2077 | 182773 | [182773-randompunk-2077.json](./182773-randompunk-2077.json) |
 | Randoseru Shougakkou 1-nensei | 289754 | [289754-randoseru-shougakkou-1-nensei.json](./289754-randoseru-shougakkou-1-nensei.json) |
 | Randotura | 325694 | [325694-randotura.json](./325694-randotura.json) |
@@ -2890,6 +2891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Moto | 252557 | [252557-real-moto.json](./252557-real-moto.json) |
 | Real Motocross Driving Simulator | 259814 | [259814-real-motocross-driving-simulator.json](./259814-real-motocross-driving-simulator.json) |
 | Real Nightmares | 247972 | [247972-real-nightmares.json](./247972-real-nightmares.json) |
+| Real Pharmacy Simulator | 326377 | [326377-real-pharmacy-simulator.json](./326377-real-pharmacy-simulator.json) |
 | Real Pinball | 4266 | [4266-real-pinball.json](./4266-real-pinball.json) |
 | Real Play | 22484 | [22484-real-play.json](./22484-real-play.json) |
 | Real Play Golf | 43215 | [43215-real-play-golf.json](./43215-real-play-golf.json) |
@@ -3587,6 +3589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recycle Bin Battle | 259103 | [259103-recycle-bin-battle.json](./259103-recycle-bin-battle.json) |
 | Recycle City | 228659 | [228659-recycle-city.json](./228659-recycle-city.json) |
 | Recycle Design | 195055 | [195055-recycle-design.json](./195055-recycle-design.json) |
+| Recycle Factory Simulator | 326378 | [326378-recycle-factory-simulator.json](./326378-recycle-factory-simulator.json) |
 | Recycle it! | 296273 | [296273-recycle-it.json](./296273-recycle-it.json) |
 | Recycle Master | 300851 | [300851-recycle-master.json](./300851-recycle-master.json) |
 | Recycle Rivals | 425610 | [425610-recycle-rivals.json](./425610-recycle-rivals.json) |
@@ -4074,6 +4077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redfir Hills | 304116 | [304116-redfir-hills.json](./304116-redfir-hills.json) |
 | Redfoot Bluefoot Dancing | 41965 | [41965-redfoot-bluefoot-dancing.json](./41965-redfoot-bluefoot-dancing.json) |
 | Redhawk | 28440 | [28440-redhawk.json](./28440-redhawk.json) |
+| Redhawk Simulator | 326360 | [326360-redhawk-simulator.json](./326360-redhawk-simulator.json) |
 | Redhill Manor | 185303 | [185303-redhill-manor.json](./185303-redhill-manor.json) |
 | Redhook's Revenge | 68885 | [68885-redhooks-revenge.json](./68885-redhooks-revenge.json) |
 | Redhowl | 382862 | [382862-redhowl.json](./382862-redhowl.json) |
@@ -5016,6 +5020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rental | 225523 | [225523-rental.json](./225523-rental.json) |
 | Rental Commander | 292955 | [292955-rental-commander.json](./292955-rental-commander.json) |
 | Rental House | 313336 | [313336-rental-house.json](./313336-rental-house.json) |
+| Rental Store Simulator | 326362 | [326362-rental-store-simulator.json](./326362-rental-store-simulator.json) |
 | Rental-ya: Stage-gata Nazotoki Story | 212445 | [212445-rental-ya-stage-gata-nazotoki-story.json](./212445-rental-ya-stage-gata-nazotoki-story.json) |
 | Rentcthulhu | 391453 | [391453-rentcthulhu.json](./391453-rentcthulhu.json) |
 | Rented Nightmare | 313039 | [313039-rented-nightmare.json](./313039-rented-nightmare.json) |
@@ -7043,6 +7048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride 5: Speed With Style Pack | 293411 | [293411-ride-5-speed-with-style-pack.json](./293411-ride-5-speed-with-style-pack.json) |
 | Ride 6 | 377690 | [377690-ride-6.json](./377690-ride-6.json) |
 | Ride Control Ultimate | 243403 | [243403-ride-control-ultimate.json](./243403-ride-control-ultimate.json) |
+| Ride Hailing Simulator | 326363 | [326363-ride-hailing-simulator.json](./326363-ride-hailing-simulator.json) |
 | Ride Kamens | 304186 | [304186-ride-kamens.json](./304186-ride-kamens.json) |
 | Ride or Die: A Bad Boy Romance - Book 1 | 313719 | [313719-ride-or-die-a-bad-boy-romance-book-1.json](./313719-ride-or-die-a-bad-boy-romance-book-1.json) |
 | Ride or Die! | 250997 | [250997-ride-or-die.json](./250997-ride-or-die.json) |
@@ -8079,6 +8085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rizzoli and Isles: The Masterpiece Murders | 57369 | [57369-rizzoli-and-isles-the-masterpiece-murders.json](./57369-rizzoli-and-isles-the-masterpiece-murders.json) |
 | RKGK | 296838 | [296838-rkgk.json](./296838-rkgk.json) |
 | RKN - Roskomnadzor banned the Internet | 100596 | [100596-rkn-roskomnadzor-banned-the-internet.json](./100596-rkn-roskomnadzor-banned-the-internet.json) |
+| RKN Simulator | 326364 | [326364-rkn-simulator.json](./326364-rkn-simulator.json) |
 | RKR: Rush Kill Repeat | 217495 | [217495-rkr-rush-kill-repeat.json](./217495-rkr-rush-kill-repeat.json) |
 | Rktcr | 35863 | [35863-rktcr.json](./35863-rktcr.json) |
 | RLChess | 333189 | [333189-rlchess.json](./333189-rlchess.json) |
@@ -8353,6 +8360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roam | 324521 | [324521-roam.json](./324521-roam.json) |
 | Roam | 63893 | [63893-roam.json](./63893-roam.json) |
 | Roam Survival | 215728 | [215728-roam-survival.json](./215728-roam-survival.json) |
+| ROAM: Wild Horse Simulator | 326365 | [326365-roam-wild-horse-simulator.json](./326365-roam-wild-horse-simulator.json) |
 | Roamaor | 249314 | [249314-roamaor.json](./249314-roamaor.json) |
 | Roaming Backrooms | 265156 | [265156-roaming-backrooms.json](./265156-roaming-backrooms.json) |
 | Roaming Fortress | 17841 | [17841-roaming-fortress.json](./17841-roaming-fortress.json) |
@@ -8712,6 +8720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Fighting | 86417 | [86417-robot-fighting.json](./86417-robot-fighting.json) |
 | Robot Fighting 2: Minibots | 104498 | [104498-robot-fighting-2-minibots.json](./104498-robot-fighting-2-minibots.json) |
 | Robot Fishing | 151991 | [151991-robot-fishing.json](./151991-robot-fishing.json) |
+| Robot Fury: Mech Combat Simulator | 326366 | [326366-robot-fury-mech-combat-simulator.json](./326366-robot-fury-mech-combat-simulator.json) |
 | Robot Girls Z Online | 61535 | [61535-robot-girls-z-online.json](./61535-robot-girls-z-online.json) |
 | Robot Hospice | 342219 | [342219-robot-hospice.json](./342219-robot-hospice.json) |
 | Robot Hunt | 324661 | [324661-robot-hunt.json](./324661-robot-hunt.json) |
@@ -9223,6 +9232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Shipment | 129615 | [129615-rocket-shipment.json](./129615-rocket-shipment.json) |
 | Rocket Shooter | 33297 | [33297-rocket-shooter.json](./33297-rocket-shooter.json) |
 | Rocket Shooting | 403001 | [403001-rocket-shooting.json](./403001-rocket-shooting.json) |
+| Rocket Simulator | 326367 | [326367-rocket-simulator.json](./326367-rocket-simulator.json) |
 | Rocket Skates VR | 148773 | [148773-rocket-skates-vr.json](./148773-rocket-skates-vr.json) |
 | Rocket Sky! | 119647 | [119647-rocket-sky.json](./119647-rocket-sky.json) |
 | Rocket Smash | 273642 | [273642-rocket-smash.json](./273642-rocket-smash.json) |
@@ -10688,6 +10698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rootown | 244626 | [244626-rootown.json](./244626-rootown.json) |
 | Roots | 249440 | [249440-roots.json](./249440-roots.json) |
 | Roots | 409376 | [409376-roots.json](./409376-roots.json) |
+| Roots and Recipes: Farm and Restaurant Simulator | 326368 | [326368-roots-and-recipes-farm-and-restaurant-simulator.json](./326368-roots-and-recipes-farm-and-restaurant-simulator.json) |
 | Roots And Sprouts | 401539 | [401539-roots-and-sprouts.json](./401539-roots-and-sprouts.json) |
 | Roots Devour | 331443 | [331443-roots-devour.json](./331443-roots-devour.json) |
 | Roots in the Sky: The Hand of Glory 2 | 208675 | [208675-roots-in-the-sky-the-hand-of-glory-2.json](./208675-roots-in-the-sky-the-hand-of-glory-2.json) |
