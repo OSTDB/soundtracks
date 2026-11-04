@@ -7612,6 +7612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Tencond | 225576 | [225576-the-curse-of-tencond.json](./225576-the-curse-of-tencond.json) |
 | The Curse of Tethria | 373596 | [373596-the-curse-of-tethria.json](./373596-the-curse-of-tethria.json) |
 | The Curse of the Dead | 129668 | [129668-the-curse-of-the-dead.json](./129668-the-curse-of-the-dead.json) |
+| The Curse of the Demon Tree | 318884 | [318884-the-curse-of-the-demon-tree.json](./318884-the-curse-of-the-demon-tree.json) |
 | The Curse of the Egyptian Pyramid: Remaster Edition | 278698 | [278698-the-curse-of-the-egyptian-pyramid-remaster-edition.json](./278698-the-curse-of-the-egyptian-pyramid-remaster-edition.json) |
 | The Curse of the Howling Woods | 332321 | [332321-the-curse-of-the-howling-woods.json](./332321-the-curse-of-the-howling-woods.json) |
 | The Curse of the Werewolves | 17705 | [17705-the-curse-of-the-werewolves.json](./17705-the-curse-of-the-werewolves.json) |
@@ -11688,6 +11689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Horseman | 397189 | [397189-the-last-horseman.json](./397189-the-last-horseman.json) |
 | The Last Hospital | 292997 | [292997-the-last-hospital.json](./292997-the-last-hospital.json) |
 | The Last Hour | 139050 | [139050-the-last-hour.json](./139050-the-last-hour.json) |
+| The Last Human In The Universe | 318881 | [318881-the-last-human-in-the-universe.json](./318881-the-last-human-in-the-universe.json) |
 | The Last Human Touch | 335032 | [335032-the-last-human-touch.json](./335032-the-last-human-touch.json) |
 | The Last Human: Go! | 278942 | [278942-the-last-human-go.json](./278942-the-last-human-go.json) |
 | The Last Hunt | 86613 | [86613-the-last-hunt.json](./86613-the-last-hunt.json) |
@@ -18284,6 +18286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Whispering Woods | 335361 | [335361-the-whispering-woods.json](./335361-the-whispering-woods.json) |
 | The Whistle | 270168 | [270168-the-whistle.json](./270168-the-whistle.json) |
 | The Whistle | 342837 | [342837-the-whistle.json](./342837-the-whistle.json) |
+| The Whitaker's Library | 318939 | [318939-the-whitakers-library.json](./318939-the-whitakers-library.json) |
 | The White Barrows | 262524 | [262524-the-white-barrows.json](./262524-the-white-barrows.json) |
 | The White Birch | 63761 | [63761-the-white-birch.json](./63761-the-white-birch.json) |
 | The White Box | 331760 | [331760-the-white-box.json](./331760-the-white-box.json) |
