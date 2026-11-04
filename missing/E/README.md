@@ -3616,6 +3616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless National | 188376 | [188376-endless-national.json](./188376-endless-national.json) |
 | Endless Nesla | 231176 | [231176-endless-nesla.json](./231176-endless-nesla.json) |
 | Endless Night: Alpha | 91055 | [91055-endless-night-alpha.json](./91055-endless-night-alpha.json) |
+| Endless Night: The Darkness Within | 344663 | [344663-endless-night-the-darkness-within.json](./344663-endless-night-the-darkness-within.json) |
 | Endless Nightmare | 193996 | [193996-endless-nightmare.json](./193996-endless-nightmare.json) |
 | Endless Nightmare: Shrine | 200737 | [200737-endless-nightmare-shrine.json](./200737-endless-nightmare-shrine.json) |
 | Endless Nightmare: Weird Hospital | 174767 | [174767-endless-nightmare-weird-hospital.json](./174767-endless-nightmare-weird-hospital.json) |
@@ -5399,6 +5400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape to the Ocean | 231061 | [231061-escape-to-the-ocean.json](./231061-escape-to-the-ocean.json) |
 | Escape Together | 151068 | [151068-escape-together.json](./151068-escape-together.json) |
 | Escape Together | 41898 | [41898-escape-together.json](./41898-escape-together.json) |
+| Escape Toon Kingdom | 344820 | [344820-escape-toon-kingdom.json](./344820-escape-toon-kingdom.json) |
 | Escape Treasure Island | 108874 | [108874-escape-treasure-island.json](./108874-escape-treasure-island.json) |
 | Escape Trick: Convenience Store | 85121 | [85121-escape-trick-convenience-store.json](./85121-escape-trick-convenience-store.json) |
 | Escape Trick: Ninja Castle | 85128 | [85128-escape-trick-ninja-castle.json](./85128-escape-trick-ninja-castle.json) |
@@ -5935,6 +5937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternity Lost: Mystery of Aurum - Collector's Edition | 416770 | [416770-eternity-lost-mystery-of-aurum-collectors-edition.json](./416770-eternity-lost-mystery-of-aurum-collectors-edition.json) |
 | Eternity Protectors | 157373 | [157373-eternity-protectors.json](./157373-eternity-protectors.json) |
 | Eternity Warriors | 38502 | [38502-eternity-warriors.json](./38502-eternity-warriors.json) |
+| Eternity Warriors 3 | 344807 | [344807-eternity-warriors-3.json](./344807-eternity-warriors-3.json) |
 | ﻿Eternity Warriors 4 | 348747 | [348747-eternity-warriors-4.json](./348747-eternity-warriors-4.json) |
 | Eternity Warriors II | 38501 | [38501-eternity-warriors-ii.json](./38501-eternity-warriors-ii.json) |
 | Eternity Warriors VR | 54652 | [54652-eternity-warriors-vr.json](./54652-eternity-warriors-vr.json) |
