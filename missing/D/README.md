@@ -4010,6 +4010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly step | 121910 | [121910-deadly-step.json](./121910-deadly-step.json) |
 | Deadly Stigma | 106532 | [106532-deadly-stigma.json](./106532-deadly-stigma.json) |
 | Deadly Survival | 277022 | [277022-deadly-survival.json](./277022-deadly-survival.json) |
+| Deadly Swag | 346871 | [346871-deadly-swag.json](./346871-deadly-swag.json) |
 | Deadly Tecknology | 188655 | [188655-deadly-tecknology.json](./188655-deadly-tecknology.json) |
 | Deadly Threat | 147244 | [147244-deadly-threat.json](./147244-deadly-threat.json) |
 | Deadly Tide | 3139 | [3139-deadly-tide.json](./3139-deadly-tide.json) |
@@ -6333,6 +6334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonic Kiss | 371388 | [371388-demonic-kiss.json](./371388-demonic-kiss.json) |
 | Demonic Labyrinth | 237074 | [237074-demonic-labyrinth.json](./237074-demonic-labyrinth.json) |
 | Demonic Libido | 262427 | [262427-demonic-libido.json](./262427-demonic-libido.json) |
+| Demonic Mahjong | 346872 | [346872-demonic-mahjong.json](./346872-demonic-mahjong.json) |
 | Demonic Pack | 237462 | [237462-demonic-pack.json](./237462-demonic-pack.json) |
 | Demonic Suitors | 298918 | [298918-demonic-suitors.json](./298918-demonic-suitors.json) |
 | Demonic Tales Bundle | 233016 | [233016-demonic-tales-bundle.json](./233016-demonic-tales-bundle.json) |
@@ -7302,6 +7304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy School Simulator | 222051 | [222051-destroy-school-simulator.json](./222051-destroy-school-simulator.json) |
 | Destroy Simulator | 188517 | [188517-destroy-simulator.json](./188517-destroy-simulator.json) |
 | Destroy Simulator VR | 235068 | [235068-destroy-simulator-vr.json](./235068-destroy-simulator-vr.json) |
+| Destroy Spongebob | 347021 | [347021-destroy-spongebob.json](./347021-destroy-spongebob.json) |
 | Destroy the Castle | 349843 | [349843-destroy-the-castle.json](./349843-destroy-the-castle.json) |
 | Destroy the Cubes | 156133 | [156133-destroy-the-cubes.json](./156133-destroy-the-cubes.json) |
 | Destroy the Cubes 2 | 190362 | [190362-destroy-the-cubes-2.json](./190362-destroy-the-cubes-2.json) |
@@ -9152,6 +9155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Genesis | 146924 | [146924-dino-genesis.json](./146924-dino-genesis.json) |
 | Dino Genesis | 336533 | [336533-dino-genesis.json](./336533-dino-genesis.json) |
 | Dino Get Out! | 279029 | [279029-dino-get-out.json](./279029-dino-get-out.json) |
+| Dino Girls | 346893 | [346893-dino-girls.json](./346893-dino-girls.json) |
 | Dino Gun | 335718 | [335718-dino-gun.json](./335718-dino-gun.json) |
 | Dino Hazard: Chronos Blackout | 138547 | [138547-dino-hazard-chronos-blackout.json](./138547-dino-hazard-chronos-blackout.json) |
 | Dino Hex Trap | 412565 | [412565-dino-hex-trap.json](./412565-dino-hex-trap.json) |
@@ -15358,6 +15362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Records | 229745 | [229745-dream-records.json](./229745-dream-records.json) |
 | Dream Riders | 406861 | [406861-dream-riders.json](./406861-dream-riders.json) |
 | Dream RPG | 229599 | [229599-dream-rpg.json](./229599-dream-rpg.json) |
+| Dream Runner | 346877 | [346877-dream-runner.json](./346877-dream-runner.json) |
 | Dream Salon | 51033 | [51033-dream-salon.json](./51033-dream-salon.json) |
 | Dream Savior | 385359 | [385359-dream-savior.json](./385359-dream-savior.json) |
 | Dream Seed | 257069 | [257069-dream-seed.json](./257069-dream-seed.json) |
@@ -15607,6 +15612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamscape Abyss | 258732 | [258732-dreamscape-abyss.json](./258732-dreamscape-abyss.json) |
 | Dreamscape Highschool | 337452 | [337452-dreamscape-highschool.json](./337452-dreamscape-highschool.json) |
 | Dreamscape Highschool: After Stories | 337451 | [337451-dreamscape-highschool-after-stories.json](./337451-dreamscape-highschool-after-stories.json) |
+| Dreamscape Island | 346857 | [346857-dreamscape-island.json](./346857-dreamscape-island.json) |
 | Dreamscape Journey | 180653 | [180653-dreamscape-journey.json](./180653-dreamscape-journey.json) |
 | Dreamscape Puzzles | 263870 | [263870-dreamscape-puzzles.json](./263870-dreamscape-puzzles.json) |
 | Dreamscape Return | 290920 | [290920-dreamscape-return.json](./290920-dreamscape-return.json) |
