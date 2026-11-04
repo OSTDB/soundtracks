@@ -2019,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satay Club mini | 95681 | [95681-satay-club-mini.json](./95681-satay-club-mini.json) |
 | Satay Shop Tycoon | 261110 | [261110-satay-shop-tycoon.json](./261110-satay-shop-tycoon.json) |
 | Satazius Next | 147678 | [147678-satazius-next.json](./147678-satazius-next.json) |
+| Satch's Quest | 326499 | [326499-satchs-quest.json](./326499-satchs-quest.json) |
 | Sate | 273432 | [273432-sate.json](./273432-sate.json) |
 | Satebo's Word Game | 265176 | [265176-satebos-word-game.json](./265176-satebos-word-game.json) |
 | Sated | 405122 | [405122-sated.json](./405122-sated.json) |
@@ -2412,7 +2413,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savvy | 410904 | [410904-savvy.json](./410904-savvy.json) |
 | Saw | 7176 | [7176-saw.json](./7176-saw.json) |
 | Saw Counter | 347112 | [347112-saw-counter.json](./347112-saw-counter.json) |
+| Saw Deluxe | 326503 | [326503-saw-deluxe.json](./326503-saw-deluxe.json) |
 | Saw Hell | 148960 | [148960-saw-hell.json](./148960-saw-hell.json) |
+| Saw II | 326508 | [326508-saw-ii.json](./326508-saw-ii.json) |
 | Saw II: Flesh & Blood | 7177 | [7177-saw-ii-flesh-and-blood.json](./7177-saw-ii-flesh-and-blood.json) |
 | Saw Lab | 290692 | [290692-saw-lab.json](./290692-saw-lab.json) |
 | Saw: Genesis | 404701 | [404701-saw-genesis.json](./404701-saw-genesis.json) |
@@ -2968,6 +2971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schoolmates from Present to Past | 54346 | [54346-schoolmates-from-present-to-past.json](./54346-schoolmates-from-present-to-past.json) |
 | Schoolmates: The Mystery of the Magical Bracelet | 165005 | [165005-schoolmates-the-mystery-of-the-magical-bracelet.json](./165005-schoolmates-the-mystery-of-the-magical-bracelet.json) |
 | Schoolnight, 3am | 299870 | [299870-schoolnight-3am.json](./299870-schoolnight-3am.json) |
+| Schoolteacher Simulator | 326369 | [326369-schoolteacher-simulator.json](./326369-schoolteacher-simulator.json) |
 | SchoolX | 197854 | [197854-schoolx.json](./197854-schoolx.json) |
 | Schoolyard Slaughter | 73666 | [73666-schoolyard-slaughter.json](./73666-schoolyard-slaughter.json) |
 | Schoolyard Sports | 206655 | [206655-schoolyard-sports.json](./206655-schoolyard-sports.json) |
@@ -3979,6 +3983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Stars | 59626 | [59626-sea-stars.json](./59626-sea-stars.json) |
 | Sea Strike | 69896 | [69896-sea-strike.json](./69896-sea-strike.json) |
 | Sea Town | 238093 | [238093-sea-town.json](./238093-sea-town.json) |
+| Sea Town: Fish Market Simulator | 326370 | [326370-sea-town-fish-market-simulator.json](./326370-sea-town-fish-market-simulator.json) |
 | Sea Trader: Rise of Taipan | 49386 | [49386-sea-trader-rise-of-taipan.json](./49386-sea-trader-rise-of-taipan.json) |
 | Sea under the sea under the sea | 280380 | [280380-sea-under-the-sea-under-the-sea.json](./280380-sea-under-the-sea-under-the-sea.json) |
 | Sea Walker Saga | 340281 | [340281-sea-walker-saga.json](./340281-sea-walker-saga.json) |
@@ -5976,6 +5981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Chess | 202535 | [202535-sex-chess.json](./202535-sex-chess.json) |
 | Sex City: 2069 | 259087 | [259087-sex-city-2069.json](./259087-sex-city-2069.json) |
 | Sex Clicker | 367030 | [367030-sex-clicker.json](./367030-sex-clicker.json) |
+| Sex Club Simulator | 326353 | [326353-sex-club-simulator.json](./326353-sex-club-simulator.json) |
 | Sex Coach: Hot Yoga | 254038 | [254038-sex-coach-hot-yoga.json](./254038-sex-coach-hot-yoga.json) |
 | Sex College | 297214 | [297214-sex-college.json](./297214-sex-college.json) |
 | Sex Counselor | 301650 | [301650-sex-counselor.json](./301650-sex-counselor.json) |
@@ -8834,6 +8840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting over it : to be a star | 103819 | [103819-shooting-over-it-to-be-a-star.json](./103819-shooting-over-it-to-be-a-star.json) |
 | Shooting Range | 325570 | [325570-shooting-range.json](./325570-shooting-range.json) |
 | Shooting Range by Thornbury Software | 84871 | [84871-shooting-range-by-thornbury-software.json](./84871-shooting-range-by-thornbury-software.json) |
+| Shooting Range Owner Simulator | 326354 | [326354-shooting-range-owner-simulator.json](./326354-shooting-range-owner-simulator.json) |
 | Shooting Range Simulator | 309532 | [309532-shooting-range-simulator.json](./309532-shooting-range-simulator.json) |
 | Shooting Saucer | 243504 | [243504-shooting-saucer.json](./243504-shooting-saucer.json) |
 | Shooting Sports Gun Club | 99989 | [99989-shooting-sports-gun-club.json](./99989-shooting-sports-gun-club.json) |
@@ -8892,9 +8899,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shop Legends | 297368 | [297368-shop-legends.json](./297368-shop-legends.json) |
 | Shop Life Simulator | 333697 | [333697-shop-life-simulator.json](./333697-shop-life-simulator.json) |
 | Shop Manager : Video Game Tycoon | 109341 | [109341-shop-manager-video-game-tycoon.json](./109341-shop-manager-video-game-tycoon.json) |
+| Shop Manager Simulator | 326355 | [326355-shop-manager-simulator.json](./326355-shop-manager-simulator.json) |
 | Shop Mistress NTR | 379891 | [379891-shop-mistress-ntr.json](./379891-shop-mistress-ntr.json) |
 | Shop of Forgotten Memories | 298883 | [298883-shop-of-forgotten-memories.json](./298883-shop-of-forgotten-memories.json) |
 | Shop of Tentacles | 135433 | [135433-shop-of-tentacles.json](./135433-shop-of-tentacles.json) |
+| Shop Simulator | 326357 | [326357-shop-simulator.json](./326357-shop-simulator.json) |
 | Shop Simulator: Pet Shop | 320842 | [320842-shop-simulator-pet-shop.json](./320842-shop-simulator-pet-shop.json) |
 | Shop Simulator: Supermarket | 320721 | [320721-shop-simulator-supermarket.json](./320721-shop-simulator-supermarket.json) |
 | Shop Simulator: Waifu Pillows | 333226 | [333226-shop-simulator-waifu-pillows.json](./333226-shop-simulator-waifu-pillows.json) |
@@ -8970,6 +8979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Street | 399460 | [399460-shopping-street.json](./399460-shopping-street.json) |
 | Shopping Talent | 237589 | [237589-shopping-talent.json](./237589-shopping-talent.json) |
 | Shopping Tycoon | 54514 | [54514-shopping-tycoon.json](./54514-shopping-tycoon.json) |
+| ShoppingMall: Manager Simulator | 326356 | [326356-shoppingmall-manager-simulator.json](./326356-shoppingmall-manager-simulator.json) |
 | Shoppy Mart | 60067 | [60067-shoppy-mart.json](./60067-shoppy-mart.json) |
 | Shoppy Mart: Steam Edition | 90633 | [90633-shoppy-mart-steam-edition.json](./90633-shoppy-mart-steam-edition.json) |
 | Shore Doodle | 340373 | [340373-shore-doodle.json](./340373-shore-doodle.json) |
@@ -10820,6 +10830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulation Zoo | 97987 | [97987-simulation-zoo.json](./97987-simulation-zoo.json) |
 | Simulation: Catalyst | 309385 | [309385-simulation-catalyst.json](./309385-simulation-catalyst.json) |
 | Simulator Bundle: Gas Station Simulator and Barn Finders | 265190 | [265190-simulator-bundle-gas-station-simulator-and-barn-finders.json](./265190-simulator-bundle-gas-station-simulator-and-barn-finders.json) |
+| Simulator Countries | 326359 | [326359-simulator-countries.json](./326359-simulator-countries.json) |
 | Simulator gas station | 51414 | [51414-simulator-gas-station.json](./51414-simulator-gas-station.json) |
 | Simulator hipstera 2k17 | 75057 | [75057-simulator-hipstera-2k17.json](./75057-simulator-hipstera-2k17.json) |
 | Simulator Mega Pack: Fishing, Soldier, Bear, Shark & Truck Mechanic | 401134 | [401134-simulator-mega-pack-fishing-soldier-bear-shark-and-truck-mechanic.json](./401134-simulator-mega-pack-fishing-soldier-bear-shark-and-truck-mechanic.json) |
@@ -11894,6 +11905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skollorn | 402502 | [402502-skollorn.json](./402502-skollorn.json) |
 | Skolly's Adventure | 272722 | [272722-skollys-adventure.json](./272722-skollys-adventure.json) |
 | Skoof Fishing | 356663 | [356663-skoof-fishing.json](./356663-skoof-fishing.json) |
+| Skoof Simulator | 326343 | [326343-skoof-simulator.json](./326343-skoof-simulator.json) |
 | Skooky | 131111 | [131111-skooky.json](./131111-skooky.json) |
 | Skool Days | 390734 | [390734-skool-days.json](./390734-skool-days.json) |
 | Skools Out | 338809 | [338809-skools-out.json](./338809-skools-out.json) |
@@ -12201,6 +12213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Rollball | 28844 | [28844-sky-rollball.json](./28844-sky-rollball.json) |
 | Sky Roller Coaster | 298045 | [298045-sky-roller-coaster.json](./298045-sky-roller-coaster.json) |
 | Sky Roller: Rainbow Skating | 256934 | [256934-sky-roller-rainbow-skating.json](./256934-sky-roller-rainbow-skating.json) |
+| Sky Runner | 326504 | [326504-sky-runner.json](./326504-sky-runner.json) |
 | Sky Runner | 36904 | [36904-sky-runner.json](./36904-sky-runner.json) |
 | Sky Rusher | 97263 | [97263-sky-rusher.json](./97263-sky-rusher.json) |
 | Sky Sanctuary | 31372 | [31372-sky-sanctuary.json](./31372-sky-sanctuary.json) |
@@ -12694,6 +12707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slavic Gods Rodnoverie | 298304 | [298304-slavic-gods-rodnoverie.json](./298304-slavic-gods-rodnoverie.json) |
 | Slavic Mythology Creatures | 297650 | [297650-slavic-mythology-creatures.json](./297650-slavic-mythology-creatures.json) |
 | Slavic Tales | 216687 | [216687-slavic-tales.json](./216687-slavic-tales.json) |
+| Slavic Winter Simulator | 326345 | [326345-slavic-winter-simulator.json](./326345-slavic-winter-simulator.json) |
 | SlavicPunk: Oldtimer | 239657 | [239657-slavicpunk-oldtimer.json](./239657-slavicpunk-oldtimer.json) |
 | Slavistan | 32152 | [32152-slavistan.json](./32152-slavistan.json) |
 | Slavistan 2 | 110828 | [110828-slavistan-2.json](./110828-slavistan-2.json) |
@@ -13683,6 +13697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Rage | 125789 | [125789-small-rage.json](./125789-small-rage.json) |
 | Small Rockets Mahjongg | 208956 | [208956-small-rockets-mahjongg.json](./208956-small-rockets-mahjongg.json) |
 | Small Saga | 119278 | [119278-small-saga.json](./119278-small-saga.json) |
+| Small Santa Simulator | 326344 | [326344-small-santa-simulator.json](./326344-small-santa-simulator.json) |
 | Small Sister | 105631 | [105631-small-sister.json](./105631-small-sister.json) |
 | Small Soldiers | 166528 | [166528-small-soldiers.json](./166528-small-soldiers.json) |
 | Small Soldiers | 200402 | [200402-small-soldiers.json](./200402-small-soldiers.json) |
@@ -14913,6 +14928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Queen Salon - Frosted Princess Makeover Game | 99347 | [99347-snow-queen-salon-frosted-princess-makeover-game.json](./99347-snow-queen-salon-frosted-princess-makeover-game.json) |
 | Snow Question | 268959 | [268959-snow-question.json](./268959-snow-question.json) |
 | Snow Racer 98 | 279215 | [279215-snow-racer-98.json](./279215-snow-racer-98.json) |
+| Snow Resort Simulator | 326346 | [326346-snow-resort-simulator.json](./326346-snow-resort-simulator.json) |
 | Snow Rider | 43336 | [43336-snow-rider.json](./43336-snow-rider.json) |
 | Snow Rider 3D | 353507 | [353507-snow-rider-3d.json](./353507-snow-rider-3d.json) |
 | Snow Steam Trail | 372132 | [372132-snow-steam-trail.json](./372132-snow-steam-trail.json) |
@@ -15321,6 +15337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Pinball | 80790 | [80790-soccer-pinball.json](./80790-soccer-pinball.json) |
 | Soccer Pinball Thrills | 35135 | [35135-soccer-pinball-thrills.json](./35135-soccer-pinball-thrills.json) |
 | Soccer Player Simulator | 116473 | [116473-soccer-player-simulator.json](./116473-soccer-player-simulator.json) |
+| Soccer Pro Simulator | 326342 | [326342-soccer-pro-simulator.json](./326342-soccer-pro-simulator.json) |
 | Soccer Puzzle | 391351 | [391351-soccer-puzzle.json](./391351-soccer-puzzle.json) |
 | Soccer Q | 141460 | [141460-soccer-q.json](./141460-soccer-q.json) |
 | Soccer Racing | 184175 | [184175-soccer-racing.json](./184175-soccer-racing.json) |
@@ -16529,6 +16546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic 1 Co-op | 361500 | [361500-sonic-1-co-op.json](./361500-sonic-1-co-op.json) |
 | Sonic 1 Delta | 333683 | [333683-sonic-1-delta.json](./333683-sonic-1-delta.json) |
 | Sonic 1 Easy Mode | 270220 | [270220-sonic-1-easy-mode.json](./270220-sonic-1-easy-mode.json) |
+| Sonic 1 Hayai | 326500 | [326500-sonic-1-hayai.json](./326500-sonic-1-hayai.json) |
 | Sonic 1 in Sonic 3 (S.C.E. Version) | 361662 | [361662-sonic-1-in-sonic-3-s-c-e-version.json](./361662-sonic-1-in-sonic-3-s-c-e-version.json) |
 | Sonic 1 on Bird Hill Island | 360500 | [360500-sonic-1-on-bird-hill-island.json](./360500-sonic-1-on-bird-hill-island.json) |
 | Sonic 1 Pilot | 337708 | [337708-sonic-1-pilot.json](./337708-sonic-1-pilot.json) |
@@ -16631,6 +16649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic and the Black Knight | 5166 | [5166-sonic-and-the-black-knight.json](./5166-sonic-and-the-black-knight.json) |
 | Sonic and the Black Knight HD | 336365 | [336365-sonic-and-the-black-knight-hd.json](./336365-sonic-and-the-black-knight-hd.json) |
 | Sonic and the Dragon's Path | 334684 | [334684-sonic-and-the-dragons-path.json](./334684-sonic-and-the-dragons-path.json) |
+| Sonic and the Elements of Harmony | 326501 | [326501-sonic-and-the-elements-of-harmony.json](./326501-sonic-and-the-elements-of-harmony.json) |
 | Sonic and the Fallen Star | 207176 | [207176-sonic-and-the-fallen-star.json](./207176-sonic-and-the-fallen-star.json) |
 | Sonic and the Mayhem Master | 321076 | [321076-sonic-and-the-mayhem-master.json](./321076-sonic-and-the-mayhem-master.json) |
 | Sonic and the Moon Facility | 313058 | [313058-sonic-and-the-moon-facility.json](./313058-sonic-and-the-moon-facility.json) |
@@ -19610,6 +19629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacefleet: Heat Death | 391522 | [391522-spacefleet-heat-death.json](./391522-spacefleet-heat-death.json) |
 | Spaceflight Simulator | 188384 | [188384-spaceflight-simulator.json](./188384-spaceflight-simulator.json) |
 | Spaceflight Simulator | 190824 | [190824-spaceflight-simulator.json](./190824-spaceflight-simulator.json) |
+| Spaceflight Simulator 2 | 326347 | [326347-spaceflight-simulator-2.json](./326347-spaceflight-simulator-2.json) |
 | Spaceflux | 137421 | [137421-spaceflux.json](./137421-spaceflux.json) |
 | Spacefolk City | 178285 | [178285-spacefolk-city.json](./178285-spacefolk-city.json) |
 | Spaceforce Constellations | 16846 | [16846-spaceforce-constellations.json](./16846-spaceforce-constellations.json) |
@@ -20291,6 +20311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedboat GP | 66931 | [66931-speedboat-gp.json](./66931-speedboat-gp.json) |
 | Speedboat League | 348411 | [348411-speedboat-league.json](./348411-speedboat-league.json) |
 | Speedboat Racing | 144387 | [144387-speedboat-racing.json](./144387-speedboat-racing.json) |
+| Speedboat Simulator | 326348 | [326348-speedboat-simulator.json](./326348-speedboat-simulator.json) |
 | Speedbreak Hyperdrive | 157334 | [157334-speedbreak-hyperdrive.json](./157334-speedbreak-hyperdrive.json) |
 | SpeedBreaker | 422514 | [422514-speedbreaker.json](./422514-speedbreaker.json) |
 | Speedcat | 198290 | [198290-speedcat.json](./198290-speedcat.json) |
@@ -26260,8 +26281,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Store Simulator | 285670 | [285670-store-simulator.json](./285670-store-simulator.json) |
 | Store Simulator 2018 | 405476 | [405476-store-simulator-2018.json](./405476-store-simulator-2018.json) |
 | Store Story | 250794 | [250794-store-story.json](./250794-store-story.json) |
+| Store Wars: Multiplayer Shop Simulator | 326350 | [326350-store-wars-multiplayer-shop-simulator.json](./326350-store-wars-multiplayer-shop-simulator.json) |
 | Storebound | 331151 | [331151-storebound.json](./331151-storebound.json) |
 | Storefront | 376481 | [376481-storefront.json](./376481-storefront.json) |
+| Storefront Simulator | 326349 | [326349-storefront-simulator.json](./326349-storefront-simulator.json) |
 | Storekeeper Revenge | 220507 | [220507-storekeeper-revenge.json](./220507-storekeeper-revenge.json) |
 | Storia Stories | 257115 | [257115-storia-stories.json](./257115-storia-stories.json) |
 | Stories | 292753 | [292753-stories.json](./292753-stories.json) |
@@ -26899,6 +26922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streamer Girl Simulator | 249080 | [249080-streamer-girl-simulator.json](./249080-streamer-girl-simulator.json) |
 | Streamer Life Simulator | 137529 | [137529-streamer-life-simulator.json](./137529-streamer-life-simulator.json) |
 | Streamer Life Simulator 2 | 293118 | [293118-streamer-life-simulator-2.json](./293118-streamer-life-simulator-2.json) |
+| Streamer Manager Simulator | 326351 | [326351-streamer-manager-simulator.json](./326351-streamer-manager-simulator.json) |
 | Streamer Mini Games Collection | 324508 | [324508-streamer-mini-games-collection.json](./324508-streamer-mini-games-collection.json) |
 | Streamer Party | 384105 | [384105-streamer-party.json](./384105-streamer-party.json) |
 | Streamer Screamer | 375937 | [375937-streamer-screamer.json](./375937-streamer-screamer.json) |
@@ -27176,6 +27200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighting Simulator | 293115 | [293115-street-fighting-simulator.json](./293115-street-fighting-simulator.json) |
 | Street Flicker | 311235 | [311235-street-flicker.json](./311235-street-flicker.json) |
 | Street Food Restaurant Owner | 327979 | [327979-street-food-restaurant-owner.json](./327979-street-food-restaurant-owner.json) |
+| Street Food Simulator | 326352 | [326352-street-food-simulator.json](./326352-street-food-simulator.json) |
 | Street Food South East Asia | 197699 | [197699-street-food-south-east-asia.json](./197699-street-food-south-east-asia.json) |
 | Street Football | 169301 | [169301-street-football.json](./169301-street-football.json) |
 | Street Football | 21476 | [21476-street-football.json](./21476-street-football.json) |
@@ -28291,6 +28316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku | 264458 | [264458-sudoku.json](./264458-sudoku.json) |
 | Sudoku | 267544 | [267544-sudoku.json](./267544-sudoku.json) |
 | Sudoku | 268048 | [268048-sudoku.json](./268048-sudoku.json) |
+| Sudoku | 326509 | [326509-sudoku.json](./326509-sudoku.json) |
 | Sudoku | 337482 | [337482-sudoku.json](./337482-sudoku.json) |
 | Sudoku | 386771 | [386771-sudoku.json](./386771-sudoku.json) |
 | Sudoku | 397667 | [397667-sudoku.json](./397667-sudoku.json) |
@@ -29346,6 +29372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Alice Dolls! | 294717 | [294717-super-alice-dolls.json](./294717-super-alice-dolls.json) |
 | Super Alicorn Sisters: Return of the Tantabus | 261187 | [261187-super-alicorn-sisters-return-of-the-tantabus.json](./261187-super-alicorn-sisters-return-of-the-tantabus.json) |
 | Super Alien | 146294 | [146294-super-alien.json](./146294-super-alien.json) |
+| Super Alien Sniper: Super Realisitic Simulator | 326334 | [326334-super-alien-sniper-super-realisitic-simulator.json](./326334-super-alien-sniper-super-realisitic-simulator.json) |
 | Super Alloy Ranger | 200550 | [200550-super-alloy-ranger.json](./200550-super-alloy-ranger.json) |
 | Super Alpaca Bros. | 114336 | [114336-super-alpaca-bros.json](./114336-super-alpaca-bros.json) |
 | Super Alpine Racer | 124423 | [124423-super-alpine-racer.json](./124423-super-alpine-racer.json) |
@@ -32472,10 +32499,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Simulator Deluxe | 345265 | [345265-supermarket-simulator-deluxe.json](./345265-supermarket-simulator-deluxe.json) |
 | Supermarket Simulator Manager | 307642 | [307642-supermarket-simulator-manager.json](./307642-supermarket-simulator-manager.json) |
 | Supermarket Simulator Pro | 315920 | [315920-supermarket-simulator-pro.json](./315920-supermarket-simulator-pro.json) |
+| Supermarket Simulator Pro | 326333 | [326333-supermarket-simulator-pro.json](./326333-supermarket-simulator-pro.json) |
 | Supermarket Simulator Store Game 3D | 376231 | [376231-supermarket-simulator-store-game-3d.json](./376231-supermarket-simulator-store-game-3d.json) |
 | Supermarket Simulator VR | 312423 | [312423-supermarket-simulator-vr.json](./312423-supermarket-simulator-vr.json) |
 | Supermarket Simulator: Idle Tycoon Clicker | 407490 | [407490-supermarket-simulator-idle-tycoon-clicker.json](./407490-supermarket-simulator-idle-tycoon-clicker.json) |
 | Supermarket Spree DX | 413405 | [413405-supermarket-spree-dx.json](./413405-supermarket-spree-dx.json) |
+| Supermarket Surviving Simulator | 326335 | [326335-supermarket-surviving-simulator.json](./326335-supermarket-surviving-simulator.json) |
 | Supermarket Together | 311540 | [311540-supermarket-together.json](./311540-supermarket-together.json) |
 | Supermarket Tycoon | 55128 | [55128-supermarket-tycoon.json](./55128-supermarket-tycoon.json) |
 | Supermarket VR | 354906 | [354906-supermarket-vr.json](./354906-supermarket-vr.json) |
