@@ -6354,6 +6354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoldenEye With Mario Characters | 283110 | [283110-goldeneye-with-mario-characters.json](./283110-goldeneye-with-mario-characters.json) |
 | GoldenEye: Rogue Agent | 146882 | [146882-goldeneye-rogue-agent.json](./146882-goldeneye-rogue-agent.json) |
 | GoldenEye: Rogue Agent | 1632 | [1632-goldeneye-rogue-agent.json](./1632-goldeneye-rogue-agent.json) |
+| Goldenheart | 324602 | [324602-goldenheart.json](./324602-goldenheart.json) |
 | Goldenjar Fall | 154028 | [154028-goldenjar-fall.json](./154028-goldenjar-fall.json) |
 | GoldenLand | 256693 | [256693-goldenland.json](./256693-goldenland.json) |
 | GoldenMiner | 253939 | [253939-goldenminer.json](./253939-goldenminer.json) |
