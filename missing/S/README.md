@@ -1198,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samoliotik | 33317 | [33317-samoliotik.json](./33317-samoliotik.json) |
 | Samoliotik: Deluxe Edition | 53575 | [53575-samoliotik-deluxe-edition.json](./53575-samoliotik-deluxe-edition.json) |
 | SamoQ - Quiz Hyoryu Kyoushitsu | 98063 | [98063-samoq-quiz-hyoryu-kyoushitsu.json](./98063-samoq-quiz-hyoryu-kyoushitsu.json) |
+| SamOrai | 314779 | [314779-samorai.json](./314779-samorai.json) |
 | Samorost | 15731 | [15731-samorost.json](./15731-samorost.json) |
 | Samorost 1 | 148352 | [148352-samorost-1.json](./148352-samorost-1.json) |
 | Samorost 3: Cosmic Edition | 53576 | [53576-samorost-3-cosmic-edition.json](./53576-samorost-3-cosmic-edition.json) |
@@ -3310,6 +3311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Containment Breach | 20193 | [20193-scp-containment-breach.json](./20193-scp-containment-breach.json) |
 | SCP: Containment Breach 2 | 400576 | [400576-scp-containment-breach-2.json](./400576-scp-containment-breach-2.json) |
 | SCP: Containment Breach Mobile | 174756 | [174756-scp-containment-breach-mobile.json](./174756-scp-containment-breach-mobile.json) |
+| SCP: Containment Breach Multiplayer | 314780 | [314780-scp-containment-breach-multiplayer.json](./314780-scp-containment-breach-multiplayer.json) |
 | SCP: Containment Breach Remastered | 210866 | [210866-scp-containment-breach-remastered.json](./210866-scp-containment-breach-remastered.json) |
 | SCP: Containment Breach Ultimate Edition | 367353 | [367353-scp-containment-breach-ultimate-edition.json](./367353-scp-containment-breach-ultimate-edition.json) |
 | SCP: Contamination | 261757 | [261757-scp-contamination.json](./261757-scp-contamination.json) |
@@ -18615,6 +18617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Borders: Alien Encounter | 175051 | [175051-space-borders-alien-encounter.json](./175051-space-borders-alien-encounter.json) |
 | Space Bots | 95774 | [95774-space-bots.json](./95774-space-bots.json) |
 | Space Bounce | 178984 | [178984-space-bounce.json](./178984-space-bounce.json) |
+| Space Bouncer | 314691 | [314691-space-bouncer.json](./314691-space-bouncer.json) |
 | Space Box Battle Arena | 164968 | [164968-space-box-battle-arena.json](./164968-space-box-battle-arena.json) |
 | Space Break | 106331 | [106331-space-break.json](./106331-space-break.json) |
 | Space Break | 142853 | [142853-space-break.json](./142853-space-break.json) |
@@ -18982,7 +18985,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -26419,6 +26421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Chasers: Tornado Islands | 128984 | [128984-storm-chasers-tornado-islands.json](./128984-storm-chasers-tornado-islands.json) |
 | Storm Chasing Sim 2025: Tornado Hunter | 374676 | [374676-storm-chasing-sim-2025-tornado-hunter.json](./374676-storm-chasing-sim-2025-tornado-hunter.json) |
 | Storm Clan | 406304 | [406304-storm-clan.json](./406304-storm-clan.json) |
+| Storm Cleaner | 314765 | [314765-storm-cleaner.json](./314765-storm-cleaner.json) |
 | Storm Generations | 99666 | [99666-storm-generations.json](./99666-storm-generations.json) |
 | Storm Horse Simulator | 357860 | [357860-storm-horse-simulator.json](./357860-storm-horse-simulator.json) |
 | Storm in a Teacup | 15136 | [15136-storm-in-a-teacup.json](./15136-storm-in-a-teacup.json) |
@@ -32895,6 +32898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surface | 395545 | [395545-surface.json](./395545-surface.json) |
 | Surface Breaker | 383954 | [383954-surface-breaker.json](./383954-surface-breaker.json) |
 | Surface Labyrinth Kurumabu | 369091 | [369091-surface-labyrinth-kurumabu.json](./369091-surface-labyrinth-kurumabu.json) |
+| Surface Level | 315134 | [315134-surface-level.json](./315134-surface-level.json) |
 | Surface Rush | 199311 | [199311-surface-rush.json](./199311-surface-rush.json) |
 | Surface Tension | 347360 | [347360-surface-tension.json](./347360-surface-tension.json) |
 | Surface Tension | 92822 | [92822-surface-tension.json](./92822-surface-tension.json) |
