@@ -4877,11 +4877,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Neko Pastry | 196785 | [196785-hentai-girls-neko-pastry.json](./196785-hentai-girls-neko-pastry.json) |
 | Hentai Girls: Obon Love | 313220 | [313220-hentai-girls-obon-love.json](./313220-hentai-girls-obon-love.json) |
 | Hentai Girls: Office Romance | 283267 | [283267-hentai-girls-office-romance.json](./283267-hentai-girls-office-romance.json) |
+| Hentai Girls: Otaku Love | 324217 | [324217-hentai-girls-otaku-love.json](./324217-hentai-girls-otaku-love.json) |
 | Hentai Girls: Paris Romance | 314871 | [314871-hentai-girls-paris-romance.json](./314871-hentai-girls-paris-romance.json) |
 | Hentai Girls: Pissy Pirate | 329442 | [329442-hentai-girls-pissy-pirate.json](./329442-hentai-girls-pissy-pirate.json) |
 | Hentai Girls: Platinum Edition | 283147 | [283147-hentai-girls-platinum-edition.json](./283147-hentai-girls-platinum-edition.json) |
 | Hentai Girls: Postal Passion | 343537 | [343537-hentai-girls-postal-passion.json](./343537-hentai-girls-postal-passion.json) |
 | Hentai Girls: Premium Edition | 268560 | [268560-hentai-girls-premium-edition.json](./268560-hentai-girls-premium-edition.json) |
+| Hentai Girls: Racy Rabbit | 324203 | [324203-hentai-girls-racy-rabbit.json](./324203-hentai-girls-racy-rabbit.json) |
 | Hentai Girls: Racy Racer | 304789 | [304789-hentai-girls-racy-racer.json](./304789-hentai-girls-racy-racer.json) |
 | Hentai Girls: Sakura Romance | 294843 | [294843-hentai-girls-sakura-romance.json](./294843-hentai-girls-sakura-romance.json) |
 | Hentai Girls: Sexy Feet Goddesses | 296907 | [296907-hentai-girls-sexy-feet-goddesses.json](./296907-hentai-girls-sexy-feet-goddesses.json) |
@@ -6686,6 +6688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Garden Word Pop | 96721 | [96721-hidden-garden-word-pop.json](./96721-hidden-garden-word-pop.json) |
 | Hidden Garden Word Scramble | 233748 | [233748-hidden-garden-word-scramble.json](./233748-hidden-garden-word-scramble.json) |
 | Hidden Gardens | 108262 | [108262-hidden-gardens.json](./108262-hidden-gardens.json) |
+| Hidden Gems Collection: 3 in 1 | 324200 | [324200-hidden-gems-collection-3-in-1.json](./324200-hidden-gems-collection-3-in-1.json) |
 | Hidden Gems of Bermuda 2 | 273034 | [273034-hidden-gems-of-bermuda-2.json](./273034-hidden-gems-of-bermuda-2.json) |
 | Hidden Gems, Hidden Secrets | 240499 | [240499-hidden-gems-hidden-secrets.json](./240499-hidden-gems-hidden-secrets.json) |
 | Hidden Ghost Town | 189902 | [189902-hidden-ghost-town.json](./189902-hidden-ghost-town.json) |
@@ -7062,6 +7065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Western Top-Down 3D | 277827 | [277827-hidden-western-top-down-3d.json](./277827-hidden-western-top-down-3d.json) |
 | Hidden Wings and Paws | 304620 | [304620-hidden-wings-and-paws.json](./304620-hidden-wings-and-paws.json) |
 | Hidden Winter Cats: Bonus Level | 291353 | [291353-hidden-winter-cats-bonus-level.json](./291353-hidden-winter-cats-bonus-level.json) |
+| Hidden Winter Things | 324242 | [324242-hidden-winter-things.json](./324242-hidden-winter-things.json) |
 | Hidden Words | 170534 | [170534-hidden-words.json](./170534-hidden-words.json) |
 | Hidden Words and Pictures Game | 108490 | [108490-hidden-words-and-pictures-game.json](./108490-hidden-words-and-pictures-game.json) |
 | Hidden Words! | 241336 | [241336-hidden-words.json](./241336-hidden-words.json) |
@@ -8303,6 +8307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hogs of War | 8877 | [8877-hogs-of-war.json](./8877-hogs-of-war.json) |
 | Hogtie | 348335 | [348335-hogtie.json](./348335-hogtie.json) |
 | Hogvalord: The Ranch | 236389 | [236389-hogvalord-the-ranch.json](./236389-hogvalord-the-ranch.json) |
+| Hogwarts Legacy + Harry Potter: Quidditch Champions Deluxe Editions Bundle | 324208 | [324208-hogwarts-legacy-harry-potter-quidditch-champions-deluxe-editions-bundle.json](./324208-hogwarts-legacy-harry-potter-quidditch-champions-deluxe-editions-bundle.json) |
 | Hogwarts Legacy: Collector's Edition | 214875 | [214875-hogwarts-legacy-collectors-edition.json](./214875-hogwarts-legacy-collectors-edition.json) |
 | Hogwarts Legacy: Dark Arts Pack | 237565 | [237565-hogwarts-legacy-dark-arts-pack.json](./237565-hogwarts-legacy-dark-arts-pack.json) |
 | Hogwarts Legacy: Deluxe Edition | 214873 | [214873-hogwarts-legacy-deluxe-edition.json](./214873-hogwarts-legacy-deluxe-edition.json) |
