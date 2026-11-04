@@ -2549,6 +2549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Mix | 40660 | [40660-party-mix.json](./40660-party-mix.json) |
 | Party of Heroes | 101997 | [101997-party-of-heroes.json](./101997-party-of-heroes.json) |
 | Party of Sin | 10657 | [10657-party-of-sin.json](./10657-party-of-sin.json) |
+| Party on Hallow Grove | 318882 | [318882-party-on-hallow-grove.json](./318882-party-on-hallow-grove.json) |
 | Party Panic | 31936 | [31936-party-panic.json](./31936-party-panic.json) |
 | Party Paradise | 186749 | [186749-party-paradise.json](./186749-party-paradise.json) |
 | Party Park | 226155 | [226155-party-park.json](./226155-party-park.json) |
@@ -15980,6 +15981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PropHunter | 165107 | [165107-prophunter.json](./165107-prophunter.json) |
 | Propis | 194290 | [194290-propis.json](./194290-propis.json) |
 | Proportionator | 316765 | [316765-proportionator.json](./316765-proportionator.json) |
+| Proportions | 318902 | [318902-proportions.json](./318902-proportions.json) |
 | Proppi | 381522 | [381522-proppi.json](./381522-proppi.json) |
 | Propulsion | 152701 | [152701-propulsion.json](./152701-propulsion.json) |
 | Prose & Codes | 191577 | [191577-prose-and-codes.json](./191577-prose-and-codes.json) |
@@ -17475,6 +17477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzlkind: Jigsaw Puzzles | 162205 | [162205-puzlkind-jigsaw-puzzles.json](./162205-puzlkind-jigsaw-puzzles.json) |
 | Puzlogic | 101698 | [101698-puzlogic.json](./101698-puzlogic.json) |
 | Puztrix | 315769 | [315769-puztrix.json](./315769-puztrix.json) |
+| Puztrix | 318886 | [318886-puztrix.json](./318886-puztrix.json) |
 | Puzz 3D: The Orient Express | 70932 | [70932-puzz-3d-the-orient-express.json](./70932-puzz-3d-the-orient-express.json) |
 | Puzz Loop 2 | 39669 | [39669-puzz-loop-2.json](./39669-puzz-loop-2.json) |
 | Puzz LR | 150632 | [150632-puzz-lr.json](./150632-puzz-lr.json) |
