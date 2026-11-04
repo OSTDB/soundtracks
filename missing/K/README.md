@@ -607,7 +607,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamisama: Spirit of the Shrine | 218737 | [218737-kamisama-spirit-of-the-shrine.json](./218737-kamisama-spirit-of-the-shrine.json) |
 | Kamitsubaki Academy Newspaper Club | 339807 | [339807-kamitsubaki-academy-newspaper-club.json](./339807-kamitsubaki-academy-newspaper-club.json) |
 | Kamitsubaki City Ensemble | 273635 | [273635-kamitsubaki-city-ensemble.json](./273635-kamitsubaki-city-ensemble.json) |
+| Kamitsubaki City Ensemble: Extension Pack No.10 feat. V.I.P | 330448 | [330448-kamitsubaki-city-ensemble-extension-pack-no-10-feat-v-i-p.json](./330448-kamitsubaki-city-ensemble-extension-pack-no-10-feat-v-i-p.json) |
+| Kamitsubaki City Ensemble: Extension Pack No.11 feat. V.W.P | 330449 | [330449-kamitsubaki-city-ensemble-extension-pack-no-11-feat-v-w-p.json](./330449-kamitsubaki-city-ensemble-extension-pack-no-11-feat-v-w-p.json) |
+| Kamitsubaki City Ensemble: Extension Pack No.12 feat. V.I.P | 330450 | [330450-kamitsubaki-city-ensemble-extension-pack-no-12-feat-v-i-p.json](./330450-kamitsubaki-city-ensemble-extension-pack-no-12-feat-v-i-p.json) |
+| Kamitsubaki City Ensemble: Extension Pack No.13 feat. V.W.P | 330454 | [330454-kamitsubaki-city-ensemble-extension-pack-no-13-feat-v-w-p.json](./330454-kamitsubaki-city-ensemble-extension-pack-no-13-feat-v-w-p.json) |
 | Kamitsubaki City Ensemble: Extension Pack No.5 feat. V.W.P | 324417 | [324417-kamitsubaki-city-ensemble-extension-pack-no-5-feat-v-w-p.json](./324417-kamitsubaki-city-ensemble-extension-pack-no-5-feat-v-w-p.json) |
+| Kamitsubaki City Ensemble: Extension Pack No.9 feat. V.W.P | 330451 | [330451-kamitsubaki-city-ensemble-extension-pack-no-9-feat-v-w-p.json](./330451-kamitsubaki-city-ensemble-extension-pack-no-9-feat-v-w-p.json) |
+| Kamitsubaki City Ensemble: Extra Pack feat. ARU | 330452 | [330452-kamitsubaki-city-ensemble-extra-pack-feat-aru.json](./330452-kamitsubaki-city-ensemble-extra-pack-feat-aru.json) |
+| Kamitsubaki City Ensemble: Extra Pack feat. ASU | 330453 | [330453-kamitsubaki-city-ensemble-extra-pack-feat-asu.json](./330453-kamitsubaki-city-ensemble-extra-pack-feat-asu.json) |
 | Kamitsubaki City Ensemble: Extra Pack feat. V.I.P with V.W.P | 324418 | [324418-kamitsubaki-city-ensemble-extra-pack-feat-v-i-p-with-v-w-p.json](./324418-kamitsubaki-city-ensemble-extra-pack-feat-v-i-p-with-v-w-p.json) |
 | Kamitsubaki City Ensemble: Season Pass 2024 | 317292 | [317292-kamitsubaki-city-ensemble-season-pass-2024.json](./317292-kamitsubaki-city-ensemble-season-pass-2024.json) |
 | Kamitsubaki City Virtual Reality | 328261 | [328261-kamitsubaki-city-virtual-reality.json](./328261-kamitsubaki-city-virtual-reality.json) |
@@ -2717,6 +2724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
