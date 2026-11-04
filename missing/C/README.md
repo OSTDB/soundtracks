@@ -2389,6 +2389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carderia | 323309 | [323309-carderia.json](./323309-carderia.json) |
 | Cardfight Area | 321423 | [321423-cardfight-area.json](./321423-cardfight-area.json) |
 | Cardfight!! Online | 59013 | [59013-cardfight-online.json](./59013-cardfight-online.json) |
+| Cardfight!! Vanguard DD 2: Additional Card Unlock Pass | 330418 | [330418-cardfight-vanguard-dd-2-additional-card-unlock-pass.json](./330418-cardfight-vanguard-dd-2-additional-card-unlock-pass.json) |
 | Cardfight!! Vanguard Dear Days - Character Set 09: Sophie Belle | 270201 | [270201-cardfight-vanguard-dear-days-character-set-09-sophie-belle.json](./270201-cardfight-vanguard-dear-days-character-set-09-sophie-belle.json) |
 | Cardfight!! Vanguard Dear Days: Character Set 08 - Jinki Mukae | 270192 | [270192-cardfight-vanguard-dear-days-character-set-08-jinki-mukae.json](./270192-cardfight-vanguard-dear-days-character-set-08-jinki-mukae.json) |
 | Cardfight!! Vanguard Dear Days: Character Set 10 - Samuel Fredson | 270191 | [270191-cardfight-vanguard-dear-days-character-set-10-samuel-fredson.json](./270191-cardfight-vanguard-dear-days-character-set-10-samuel-fredson.json) |
@@ -2418,8 +2419,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardfight!! Vanguard: Dear Days 2 - Card Unlock Vol.6 | 375180 | [375180-cardfight-vanguard-dear-days-2-card-unlock-vol-6.json](./375180-cardfight-vanguard-dear-days-2-card-unlock-vol-6.json) |
 | Cardfight!! Vanguard: Dear Days 2 - Card Unlock Vol.7 | 375179 | [375179-cardfight-vanguard-dear-days-2-card-unlock-vol-7.json](./375179-cardfight-vanguard-dear-days-2-card-unlock-vol-7.json) |
 | Cardfight!! Vanguard: Dear Days 2 - Card Unlock Vol.8 | 375178 | [375178-cardfight-vanguard-dear-days-2-card-unlock-vol-8.json](./375178-cardfight-vanguard-dear-days-2-card-unlock-vol-8.json) |
+| Cardfight!! Vanguard: Dear Days 2 - Character Sleeve Set 01 | 330419 | [330419-cardfight-vanguard-dear-days-2-character-sleeve-set-01.json](./330419-cardfight-vanguard-dear-days-2-character-sleeve-set-01.json) |
+| Cardfight!! Vanguard: Dear Days 2 - Character Sleeve Set 02 | 330420 | [330420-cardfight-vanguard-dear-days-2-character-sleeve-set-02.json](./330420-cardfight-vanguard-dear-days-2-character-sleeve-set-02.json) |
+| Cardfight!! Vanguard: Dear Days 2 - Complete Playset 01 "D-BT 1" | 330422 | [330422-cardfight-vanguard-dear-days-2-complete-playset-01-d-bt-1.json](./330422-cardfight-vanguard-dear-days-2-complete-playset-01-d-bt-1.json) |
+| Cardfight!! Vanguard: Dear Days 2 - Complete Playset 01- 08 | 330421 | [330421-cardfight-vanguard-dear-days-2-complete-playset-01-08.json](./330421-cardfight-vanguard-dear-days-2-complete-playset-01-08.json) |
+| Cardfight!! Vanguard: Dear Days 2 - Complete Playset 03 "D-BT 3" | 330424 | [330424-cardfight-vanguard-dear-days-2-complete-playset-03-d-bt-3.json](./330424-cardfight-vanguard-dear-days-2-complete-playset-03-d-bt-3.json) |
+| Cardfight!! Vanguard: Dear Days 2 - Complete Playset 04 "D-BT 4" | 330425 | [330425-cardfight-vanguard-dear-days-2-complete-playset-04-d-bt-4.json](./330425-cardfight-vanguard-dear-days-2-complete-playset-04-d-bt-4.json) |
+| Cardfight!! Vanguard: Dear Days 2 - Complete Playset 05 "D-BT 5" | 330426 | [330426-cardfight-vanguard-dear-days-2-complete-playset-05-d-bt-5.json](./330426-cardfight-vanguard-dear-days-2-complete-playset-05-d-bt-5.json) |
 | Cardfight!! Vanguard: Dear Days 2 - Complete Playset 05 "D-BT⑤" | 365212 | [365212-cardfight-vanguard-dear-days-2-complete-playset-05-d-bt5.json](./365212-cardfight-vanguard-dear-days-2-complete-playset-05-d-bt5.json) |
+| Cardfight!! Vanguard: Dear Days 2 - Complete Playset 06 "DZ-BT 1" | 330427 | [330427-cardfight-vanguard-dear-days-2-complete-playset-06-dz-bt-1.json](./330427-cardfight-vanguard-dear-days-2-complete-playset-06-dz-bt-1.json) |
+| Cardfight!! Vanguard: Dear Days 2 - Complete Playset 07 "DZ-BT 2" | 330428 | [330428-cardfight-vanguard-dear-days-2-complete-playset-07-dz-bt-2.json](./330428-cardfight-vanguard-dear-days-2-complete-playset-07-dz-bt-2.json) |
 | Cardfight!! Vanguard: Dear Days 2 - Digital Deluxe Edition | 330196 | [330196-cardfight-vanguard-dear-days-2-digital-deluxe-edition.json](./330196-cardfight-vanguard-dear-days-2-digital-deluxe-edition.json) |
+| Cardfight!! Vanguard: Dear Days 2: Complete Playset 02 "D-BT 2" | 330423 | [330423-cardfight-vanguard-dear-days-2-complete-playset-02-d-bt-2.json](./330423-cardfight-vanguard-dear-days-2-complete-playset-02-d-bt-2.json) |
+| Cardfight!! Vanguard: Dear Days 2: Complete Playset 08 "VG-BT" | 330429 | [330429-cardfight-vanguard-dear-days-2-complete-playset-08-vg-bt.json](./330429-cardfight-vanguard-dear-days-2-complete-playset-08-vg-bt.json) |
 | Cardfight!! Vanguard: Lock on Victory!! | 56852 | [56852-cardfight-vanguard-lock-on-victory.json](./56852-cardfight-vanguard-lock-on-victory.json) |
 | Cardfight!! Vanguard: Ride to Victory!! | 81457 | [81457-cardfight-vanguard-ride-to-victory.json](./81457-cardfight-vanguard-ride-to-victory.json) |
 | Cardfight!!: Additional Card Set Vol.6 [D-BT09] - Dragontree Invasion | 267666 | [267666-cardfight-additional-card-set-vol-6-d-bt09-dragontree-invasion.json](./267666-cardfight-additional-card-set-vol-6-d-bt09-dragontree-invasion.json) |
@@ -2668,6 +2680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carmen Sandiego Word Detective | 73312 | [73312-carmen-sandiego-word-detective.json](./73312-carmen-sandiego-word-detective.json) |
 | Carmen Sandiego: 40th Anniversary Edition | 400999 | [400999-carmen-sandiego-40th-anniversary-edition.json](./400999-carmen-sandiego-40th-anniversary-edition.json) |
 | Carmen Sandiego: Deluxe Edition | 330197 | [330197-carmen-sandiego-deluxe-edition.json](./330197-carmen-sandiego-deluxe-edition.json) |
+| Carmen Sandiego: Deluxe Edition DLC | 330430 | [330430-carmen-sandiego-deluxe-edition-dlc.json](./330430-carmen-sandiego-deluxe-edition-dlc.json) |
 | Carmen Sandiego: Junior Detective Edition | 73783 | [73783-carmen-sandiego-junior-detective-edition.json](./73783-carmen-sandiego-junior-detective-edition.json) |
 | Carmen Sandiego: The Secret of the Stolen Drums | 3848 | [3848-carmen-sandiego-the-secret-of-the-stolen-drums.json](./3848-carmen-sandiego-the-secret-of-the-stolen-drums.json) |
 | Carmen Sandiego: To Steal or Not to Steal | 256843 | [256843-carmen-sandiego-to-steal-or-not-to-steal.json](./256843-carmen-sandiego-to-steal-or-not-to-steal.json) |
@@ -8775,6 +8788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citizen Sleeper: Deluxe Edition | 200501 | [200501-citizen-sleeper-deluxe-edition.json](./200501-citizen-sleeper-deluxe-edition.json) |
 | Citizen Sleeper: Episode - Flux | 210738 | [210738-citizen-sleeper-episode-flux.json](./210738-citizen-sleeper-episode-flux.json) |
 | Citizen Sleeper: Episode - Refuge | 223060 | [223060-citizen-sleeper-episode-refuge.json](./223060-citizen-sleeper-episode-refuge.json) |
+| Citizen Sleeper: Helion Collection | 330406 | [330406-citizen-sleeper-helion-collection.json](./330406-citizen-sleeper-helion-collection.json) |
 | Citizen Vigilante | 410862 | [410862-citizen-vigilante.json](./410862-citizen-vigilante.json) |
 | Citizen Witch | 184650 | [184650-citizen-witch.json](./184650-citizen-witch.json) |
 | Citizen Zein | 278738 | [278738-citizen-zein.json](./278738-citizen-zein.json) |
