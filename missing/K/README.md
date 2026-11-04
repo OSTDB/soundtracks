@@ -6262,6 +6262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyubu Kyubu Dice | 215336 | [215336-kyubu-kyubu-dice.json](./215336-kyubu-kyubu-dice.json) |
 | Kyuiin | 78524 | [78524-kyuiin.json](./78524-kyuiin.json) |
 | Kyukkyu-kun Game | 225347 | [225347-kyukkyu-kun-game.json](./225347-kyukkyu-kun-game.json) |
+| Kyukyoku TigerHeli: Console Ports + Get Star Pack | 301208 | [301208-kyukyoku-tigerheli-console-ports-get-star-pack.json](./301208-kyukyoku-tigerheli-console-ports-get-star-pack.json) |
 | Kyukyoku TigerHeli: Toaplan Arcade Garage | 399782 | [399782-kyukyoku-tigerheli-toaplan-arcade-garage.json](./399782-kyukyoku-tigerheli-toaplan-arcade-garage.json) |
 | Kyumori Episode1 | 175985 | [175985-kyumori-episode1.json](./175985-kyumori-episode1.json) |
 | Kyun! | 184268 | [184268-kyun.json](./184268-kyun.json) |
