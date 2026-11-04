@@ -9041,6 +9041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacksmith Shop Simulator | 344980 | [344980-blacksmith-shop-simulator.json](./344980-blacksmith-shop-simulator.json) |
 | Blacksmith Simulator | 102589 | [102589-blacksmith-simulator.json](./102589-blacksmith-simulator.json) |
 | Blacksmith Simulator | 326469 | [326469-blacksmith-simulator.json](./326469-blacksmith-simulator.json) |
+| Blacksmith Simulator | 345749 | [345749-blacksmith-simulator.json](./345749-blacksmith-simulator.json) |
 | Blacksmith Simulator | 353951 | [353951-blacksmith-simulator.json](./353951-blacksmith-simulator.json) |
 | Blacksmith Tales | 391990 | [391990-blacksmith-tales.json](./391990-blacksmith-tales.json) |
 | Blacksmith Together | 396641 | [396641-blacksmith-together.json](./396641-blacksmith-together.json) |
