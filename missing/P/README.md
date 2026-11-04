@@ -11823,6 +11823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polynya | 306767 | [306767-polynya.json](./306767-polynya.json) |
 | Polyology | 33313 | [33313-polyology.json](./33313-polyology.json) |
 | Polyoshapes | 291828 | [291828-polyoshapes.json](./291828-polyoshapes.json) |
+| Polyphony | 312808 | [312808-polyphony.json](./312808-polyphony.json) |
 | PolyPine | 278973 | [278973-polypine.json](./278973-polypine.json) |
 | Polyrhythm Mania | 182445 | [182445-polyrhythm-mania.json](./182445-polyrhythm-mania.json) |
 | Polyrhythm Master | 235175 | [235175-polyrhythm-master.json](./235175-polyrhythm-master.json) |
