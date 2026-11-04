@@ -2422,6 +2422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Invaders | 285555 | [285555-farm-invaders.json](./285555-farm-invaders.json) |
 | Farm Invaders | 324319 | [324319-farm-invaders.json](./324319-farm-invaders.json) |
 | Farm Invasion USA | 61125 | [61125-farm-invasion-usa.json](./61125-farm-invasion-usa.json) |
+| Farm It: Complete Edition | 320689 | [320689-farm-it-complete-edition.json](./320689-farm-it-complete-edition.json) |
 | Farm It: Cute Edition | 349594 | [349594-farm-it-cute-edition.json](./349594-farm-it-cute-edition.json) |
 | Farm It: Fluffy DLC | 316209 | [316209-farm-it-fluffy-dlc.json](./316209-farm-it-fluffy-dlc.json) |
 | Farm It: Funky DLC | 316210 | [316210-farm-it-funky-dlc.json](./316210-farm-it-funky-dlc.json) |
@@ -2776,6 +2777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Model Story | 133713 | [133713-fashion-model-story.json](./133713-fashion-model-story.json) |
 | Fashion Police Squad | 140801 | [140801-fashion-police-squad.json](./140801-fashion-police-squad.json) |
 | Fashion Princess | 215118 | [215118-fashion-princess.json](./215118-fashion-princess.json) |
+| Fashion Princess: Gold Edition | 320688 | [320688-fashion-princess-gold-edition.json](./320688-fashion-princess-gold-edition.json) |
 | Fashion Princess: Silver Edition | 317256 | [317256-fashion-princess-silver-edition.json](./317256-fashion-princess-silver-edition.json) |
 | Fashion Princess: Super Edition | 273324 | [273324-fashion-princess-super-edition.json](./273324-fashion-princess-super-edition.json) |
 | Fashion Princess: Super Version | 328819 | [328819-fashion-princess-super-version.json](./328819-fashion-princess-super-version.json) |
