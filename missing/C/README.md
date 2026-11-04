@@ -2909,6 +2909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carta Bellum | 416346 | [416346-carta-bellum.json](./416346-carta-bellum.json) |
 | Carta Marina | 215500 | [215500-carta-marina.json](./215500-carta-marina.json) |
 | Cartacombs | 114858 | [114858-cartacombs.json](./114858-cartacombs.json) |
+| Cartagra | 337383 | [337383-cartagra.json](./337383-cartagra.json) |
 | Cartagra: First Press Limited Edition | 388046 | [388046-cartagra-first-press-limited-edition.json](./388046-cartagra-first-press-limited-edition.json) |
 | Cartagra: Tamashii no Kunou | 166451 | [166451-cartagra-tamashii-no-kunou.json](./166451-cartagra-tamashii-no-kunou.json) |
 | Cartagra: Tsuki Kurui no Yamai - Rebirth FHD Size Edition | 150033 | [150033-cartagra-tsuki-kurui-no-yamai-rebirth-fhd-size-edition.json](./150033-cartagra-tsuki-kurui-no-yamai-rebirth-fhd-size-edition.json) |
@@ -16661,6 +16662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminalist | 320120 | [320120-criminalist.json](./320120-criminalist.json) |
 | Criminally Overdue | 179055 | [179055-criminally-overdue.json](./179055-criminally-overdue.json) |
 | Criminally Yours | 347085 | [347085-criminally-yours.json](./347085-criminally-yours.json) |
+| CrimSaw | 337402 | [337402-crimsaw.json](./337402-crimsaw.json) |
 | Crimson | 343262 | [343262-crimson.json](./343262-crimson.json) |
 | Crimson Alliance | 21147 | [21147-crimson-alliance.json](./21147-crimson-alliance.json) |
 | Crimson Angel | 339339 | [339339-crimson-angel.json](./339339-crimson-angel.json) |
