@@ -7705,6 +7705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explorer of Yggdrasil | 144648 | [144648-explorer-of-yggdrasil.json](./144648-explorer-of-yggdrasil.json) |
 | Explorer: Adventure Awaits | 297925 | [297925-explorer-adventure-awaits.json](./297925-explorer-adventure-awaits.json) |
 | Explorer: Golden Empire | 247985 | [247985-explorer-golden-empire.json](./247985-explorer-golden-empire.json) |
+| Explorers | 322479 | [322479-explorers.json](./322479-explorers.json) |
 | Explorers Collection: The Oregon Trail & Carmen Sandiego Bundle | 353982 | [353982-explorers-collection-the-oregon-trail-and-carmen-sandiego-bundle.json](./353982-explorers-collection-the-oregon-trail-and-carmen-sandiego-bundle.json) |
 | Explorers of Esmar | 323178 | [323178-explorers-of-esmar.json](./323178-explorers-of-esmar.json) |
 | Explorers of Palan | 416843 | [416843-explorers-of-palan.json](./416843-explorers-of-palan.json) |
