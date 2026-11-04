@@ -933,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsume Championship Wrestling | 42483 | [42483-natsume-championship-wrestling.json](./42483-natsume-championship-wrestling.json) |
 | Natsume Ryoran: Romance of Hi-Spec Yoko | 344798 | [344798-natsume-ryoran-romance-of-hi-spec-yoko.json](./344798-natsume-ryoran-romance-of-hi-spec-yoko.json) |
 | Natsume's Book of Friends: Hazuki no Shirushi | 343552 | [343552-natsumes-book-of-friends-hazuki-no-shirushi.json](./343552-natsumes-book-of-friends-hazuki-no-shirushi.json) |
+| Natsume’s Book of Friends: Hazuki's Chronicle | 328130 | [328130-natsume-s-book-of-friends-hazukis-chronicle.json](./328130-natsume-s-book-of-friends-hazukis-chronicle.json) |
 | Natsumegu | 59960 | [59960-natsumegu.json](./59960-natsumegu.json) |
 | Natsumi & Fuyuko: All That's Inbetween | 212802 | [212802-natsumi-and-fuyuko-all-thats-inbetween.json](./212802-natsumi-and-fuyuko-all-thats-inbetween.json) |
 | Natsumi and the Absurd Academy | 385841 | [385841-natsumi-and-the-absurd-academy.json](./385841-natsumi-and-the-absurd-academy.json) |
