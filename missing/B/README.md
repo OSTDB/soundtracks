@@ -1556,6 +1556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballance | 20895 | [20895-ballance.json](./20895-ballance.json) |
 | Ballance: The Return | 127371 | [127371-ballance-the-return.json](./127371-ballance-the-return.json) |
 | Ballapalooza | 275110 | [275110-ballapalooza.json](./275110-ballapalooza.json) |
+| Ballardo | 332896 | [332896-ballardo.json](./332896-ballardo.json) |
 | Ballastic | 336912 | [336912-ballastic.json](./336912-ballastic.json) |
 | Ballatory | 391308 | [391308-ballatory.json](./391308-ballatory.json) |
 | Ballavita | 131826 | [131826-ballavita.json](./131826-ballavita.json) |
@@ -11927,6 +11928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolero | 331797 | [331797-bolero.json](./331797-bolero.json) |
 | Bolf | 125066 | [125066-bolf.json](./125066-bolf.json) |
 | Bolf: A Golfoxing Game | 341825 | [341825-bolf-a-golfoxing-game.json](./341825-bolf-a-golfoxing-game.json) |
+| Bolide | 332757 | [332757-bolide.json](./332757-bolide.json) |
 | BoliKa | 328072 | [328072-bolika.json](./328072-bolika.json) |
 | Bolix | 300382 | [300382-bolix.json](./300382-bolix.json) |
 | Boll Deluxe | 134084 | [134084-boll-deluxe.json](./134084-boll-deluxe.json) |
