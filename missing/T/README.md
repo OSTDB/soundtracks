@@ -3319,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Mutants Unleashed - 1984 Comic Book Pack | 324362 | [324362-teenage-mutant-ninja-turtles-mutants-unleashed-1984-comic-book-pack.json](./324362-teenage-mutant-ninja-turtles-mutants-unleashed-1984-comic-book-pack.json) |
 | Teenage Mutant Ninja Turtles: Mutants Unleashed - 1987 Animated Series Pack | 324363 | [324363-teenage-mutant-ninja-turtles-mutants-unleashed-1987-animated-series-pack.json](./324363-teenage-mutant-ninja-turtles-mutants-unleashed-1987-animated-series-pack.json) |
 | Teenage Mutant Ninja Turtles: Mutants Unleashed - Deluxe Edition | 323945 | [323945-teenage-mutant-ninja-turtles-mutants-unleashed-deluxe-edition.json](./323945-teenage-mutant-ninja-turtles-mutants-unleashed-deluxe-edition.json) |
+| Teenage Mutant Ninja Turtles: Mutants Unleashed - Digital Deluxe Edition | 320674 | [320674-teenage-mutant-ninja-turtles-mutants-unleashed-digital-deluxe-edition.json](./320674-teenage-mutant-ninja-turtles-mutants-unleashed-digital-deluxe-edition.json) |
 | Teenage Mutant Ninja Turtles: Mutants Unleashed - Metalheads Pack | 356480 | [356480-teenage-mutant-ninja-turtles-mutants-unleashed-metalheads-pack.json](./356480-teenage-mutant-ninja-turtles-mutants-unleashed-metalheads-pack.json) |
 | Teenage Mutant Ninja Turtles: Mutants Unleashed - Season Pass | 324361 | [324361-teenage-mutant-ninja-turtles-mutants-unleashed-season-pass.json](./324361-teenage-mutant-ninja-turtles-mutants-unleashed-season-pass.json) |
 | Teenage Mutant Ninja Turtles: Portal Power | 59086 | [59086-teenage-mutant-ninja-turtles-portal-power.json](./59086-teenage-mutant-ninja-turtles-portal-power.json) |
@@ -8262,6 +8263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dream of Shadowlands: Episode 2 | 174071 | [174071-the-dream-of-shadowlands-episode-2.json](./174071-the-dream-of-shadowlands-episode-2.json) |
 | The Dream of the Limbo | 298601 | [298601-the-dream-of-the-limbo.json](./298601-the-dream-of-the-limbo.json) |
 | The Dream Of Winning The Lottery | 415826 | [415826-the-dream-of-winning-the-lottery.json](./415826-the-dream-of-winning-the-lottery.json) |
+| The Dream Of Yourself | 320633 | [320633-the-dream-of-yourself.json](./320633-the-dream-of-yourself.json) |
 | The Dream Office | 258299 | [258299-the-dream-office.json](./258299-the-dream-office.json) |
 | The Dream Sequences | 221586 | [221586-the-dream-sequences.json](./221586-the-dream-sequences.json) |
 | The Dream Team | 196872 | [196872-the-dream-team.json](./196872-the-dream-team.json) |
@@ -19189,6 +19191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief Puzzle: Complete Edition | 315849 | [315849-thief-puzzle-complete-edition.json](./315849-thief-puzzle-complete-edition.json) |
 | Thief Puzzle: Pranks | 313515 | [313515-thief-puzzle-pranks.json](./313515-thief-puzzle-pranks.json) |
 | Thief Puzzle: Tricks | 313514 | [313514-thief-puzzle-tricks.json](./313514-thief-puzzle-tricks.json) |
+| Thief Puzzle: Tricky Edition | 320668 | [320668-thief-puzzle-tricky-edition.json](./320668-thief-puzzle-tricky-edition.json) |
 | Thief Shop | 163202 | [163202-thief-shop.json](./163202-thief-shop.json) |
 | Thief Simulator | 61616 | [61616-thief-simulator.json](./61616-thief-simulator.json) |
 | Thief Simulator 2 | 157445 | [157445-thief-simulator-2.json](./157445-thief-simulator-2.json) |
@@ -25375,6 +25378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Solitaire | 78757 | [78757-touch-solitaire.json](./78757-touch-solitaire.json) |
 | Touch Some Grass | 195146 | [195146-touch-some-grass.json](./195146-touch-some-grass.json) |
 | Touch Sudoku | 259416 | [259416-touch-sudoku.json](./259416-touch-sudoku.json) |
+| Touch The Bubbles 4 | 320631 | [320631-touch-the-bubbles-4.json](./320631-touch-the-bubbles-4.json) |
 | Touch the Color | 230887 | [230887-touch-the-color.json](./230887-touch-the-color.json) |
 | Touch the Dead | 20702 | [20702-touch-the-dead.json](./20702-touch-the-dead.json) |
 | Touch the Devil VR | 93720 | [93720-touch-the-devil-vr.json](./93720-touch-the-devil-vr.json) |
@@ -25729,6 +25733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Spell Bubble: Touhou Eurobeat Pack Vol.2 | 209327 | [209327-touhou-spell-bubble-touhou-eurobeat-pack-vol-2.json](./209327-touhou-spell-bubble-touhou-eurobeat-pack-vol-2.json) |
 | Touhou Spell Bubble: Touhou Fujinroku Arrangements Pack | 209138 | [209138-touhou-spell-bubble-touhou-fujinroku-arrangements-pack.json](./209138-touhou-spell-bubble-touhou-fujinroku-arrangements-pack.json) |
 | Touhou Spell Bubble: Touhou Seirensen Arrangements Pack | 209524 | [209524-touhou-spell-bubble-touhou-seirensen-arrangements-pack.json](./209524-touhou-spell-bubble-touhou-seirensen-arrangements-pack.json) |
+| Touhou Spell Carnival: Digital Deluxe Edition | 320673 | [320673-touhou-spell-carnival-digital-deluxe-edition.json](./320673-touhou-spell-carnival-digital-deluxe-edition.json) |
 | Touhou Spell Carnival: Limited Edition | 322383 | [322383-touhou-spell-carnival-limited-edition.json](./322383-touhou-spell-carnival-limited-edition.json) |
 | Touhou Spirits | 306041 | [306041-touhou-spirits.json](./306041-touhou-spirits.json) |
 | Touhou Suijin Kairou: Faith in the Goddess of Suwa. | 114095 | [114095-touhou-suijin-kairou-faith-in-the-goddess-of-suwa.json](./114095-touhou-suijin-kairou-faith-in-the-goddess-of-suwa.json) |
@@ -27711,6 +27716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Traffic Manager: Platinum Edition | 312064 | [312064-train-traffic-manager-platinum-edition.json](./312064-train-traffic-manager-platinum-edition.json) |
 | Train Traffic Manager: Prime Edition | 328805 | [328805-train-traffic-manager-prime-edition.json](./328805-train-traffic-manager-prime-edition.json) |
 | Train Traffic Manager: Super Edition | 324360 | [324360-train-traffic-manager-super-edition.json](./324360-train-traffic-manager-super-edition.json) |
+| Train Traffic Manager: Upgrade Edition | 320669 | [320669-train-traffic-manager-upgrade-edition.json](./320669-train-traffic-manager-upgrade-edition.json) |
 | Train Train Train | 158548 | [158548-train-train-train.json](./158548-train-train-train.json) |
 | Train Trip | 179462 | [179462-train-trip.json](./179462-train-trip.json) |
 | Train Tycoon | 152866 | [152866-train-tycoon.json](./152866-train-tycoon.json) |
