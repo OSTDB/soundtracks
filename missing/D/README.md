@@ -3096,6 +3096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: F/A-18C Rise of the Persian Lion II Campaign by Badger 633 | 325538 | [325538-dcs-world-f-a-18c-rise-of-the-persian-lion-ii-campaign-by-badger-633.json](./325538-dcs-world-f-a-18c-rise-of-the-persian-lion-ii-campaign-by-badger-633.json) |
 | DCS World: F/A-18C: The Rampagers Campaign by Baltic Dragon | 408215 | [408215-dcs-world-f-a-18c-the-rampagers-campaign-by-baltic-dragon.json](./408215-dcs-world-f-a-18c-the-rampagers-campaign-by-baltic-dragon.json) |
 | DCS World: F4U-1D Corsair | 381269 | [381269-dcs-world-f4u-1d-corsair.json](./381269-dcs-world-f4u-1d-corsair.json) |
+| DCS World: Flaming Cliffs 2024 | 323644 | [323644-dcs-world-flaming-cliffs-2024.json](./323644-dcs-world-flaming-cliffs-2024.json) |
 | DCS World: Hawk | 162864 | [162864-dcs-world-hawk.json](./162864-dcs-world-hawk.json) |
 | DCS World: Iraq Map | 325571 | [325571-dcs-world-iraq-map.json](./325571-dcs-world-iraq-map.json) |
 | DCS World: Iraq North Map | 325572 | [325572-dcs-world-iraq-north-map.json](./325572-dcs-world-iraq-north-map.json) |
@@ -3112,6 +3113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: Mi-8MTV2 - Oilfield Campaign | 170156 | [170156-dcs-world-mi-8mtv2-oilfield-campaign.json](./170156-dcs-world-mi-8mtv2-oilfield-campaign.json) |
 | DCS World: Mi-8MTV2 - The Border Campaign | 170145 | [170145-dcs-world-mi-8mtv2-the-border-campaign.json](./170145-dcs-world-mi-8mtv2-the-border-campaign.json) |
 | DCS World: Mi-8MTV2 and Ka-50: Memory of a Hero Campaign by Stone Sky | 325910 | [325910-dcs-world-mi-8mtv2-and-ka-50-memory-of-a-hero-campaign-by-stone-sky.json](./325910-dcs-world-mi-8mtv2-and-ka-50-memory-of-a-hero-campaign-by-stone-sky.json) |
+| DCS World: MiG-15bis Flaming Cliffs | 323643 | [323643-dcs-world-mig-15bis-flaming-cliffs.json](./323643-dcs-world-mig-15bis-flaming-cliffs.json) |
 | DCS World: MiG-21bis Battle of Krasnodar Campaign | 195404 | [195404-dcs-world-mig-21bis-battle-of-krasnodar-campaign.json](./195404-dcs-world-mig-21bis-battle-of-krasnodar-campaign.json) |
 | DCS World: MiG-21bis Constant Peg Campaign by Bunyap Campaigns | 325721 | [325721-dcs-world-mig-21bis-constant-peg-campaign-by-bunyap-campaigns.json](./325721-dcs-world-mig-21bis-constant-peg-campaign-by-bunyap-campaigns.json) |
 | DCS World: MiG-29 | 162861 | [162861-dcs-world-mig-29.json](./162861-dcs-world-mig-29.json) |
@@ -15158,6 +15160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread Fields | 383923 | [383923-dread-fields.json](./383923-dread-fields.json) |
 | Dread Flats | 351690 | [351690-dread-flats.json](./351690-dread-flats.json) |
 | Dread Hunger | 141365 | [141365-dread-hunger.json](./141365-dread-hunger.json) |
+| Dread in Deep Voyage | 323625 | [323625-dread-in-deep-voyage.json](./323625-dread-in-deep-voyage.json) |
 | Dread It | 339566 | [339566-dread-it.json](./339566-dread-it.json) |
 | Dread Keep | 181170 | [181170-dread-keep.json](./181170-dread-keep.json) |
 | Dread Lock | 59744 | [59744-dread-lock.json](./59744-dread-lock.json) |
