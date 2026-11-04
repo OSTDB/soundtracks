@@ -8545,6 +8545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory I | 68610 | [68610-memory-i.json](./68610-memory-i.json) |
 | Memory II / Melodie | 72371 | [72371-memory-ii-melodie.json](./72371-memory-ii-melodie.json) |
 | Memory Illusions | 157199 | [157199-memory-illusions.json](./157199-memory-illusions.json) |
+| Memory Island | 332764 | [332764-memory-island.json](./332764-memory-island.json) |
 | Memory Kara | 112802 | [112802-memory-kara.json](./112802-memory-kara.json) |
 | Memory Kong | 328596 | [328596-memory-kong.json](./328596-memory-kong.json) |
 | Memory Land Extreme | 243547 | [243547-memory-land-extreme.json](./243547-memory-land-extreme.json) |
@@ -10573,6 +10574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroTown | 120024 | [120024-microtown.json](./120024-microtown.json) |
 | Microtransaction Simulator Game of the Decade: Deluxe Edition | 89399 | [89399-microtransaction-simulator-game-of-the-decade-deluxe-edition.json](./89399-microtransaction-simulator-game-of-the-decade-deluxe-edition.json) |
 | Microtrip | 344909 | [344909-microtrip.json](./344909-microtrip.json) |
+| Microvania | 332744 | [332744-microvania.json](./332744-microvania.json) |
 | MicroVolts Surge | 16263 | [16263-microvolts-surge.json](./16263-microvolts-surge.json) |
 | Microwasp Seekers | 189899 | [189899-microwasp-seekers.json](./189899-microwasp-seekers.json) |
 | Microwave Simulator | 390366 | [390366-microwave-simulator.json](./390366-microwave-simulator.json) |
@@ -19481,6 +19483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Devil's Voice | 378558 | [378558-my-devils-voice.json](./378558-my-devils-voice.json) |
 | My Devilish Contract | 279670 | [279670-my-devilish-contract.json](./279670-my-devilish-contract.json) |
 | My Diamond Baby | 301416 | [301416-my-diamond-baby.json](./301416-my-diamond-baby.json) |
+| My Dictator Stalin Can't Be This Cute?! | 332785 | [332785-my-dictator-stalin-cant-be-this-cute.json](./332785-my-dictator-stalin-cant-be-this-cute.json) |
 | My Diggy Dog 2 | 139076 | [139076-my-diggy-dog-2.json](./139076-my-diggy-dog-2.json) |
 | My Dinner with André | 227785 | [227785-my-dinner-with-andre.json](./227785-my-dinner-with-andre.json) |
 | My Dino | 111888 | [111888-my-dino.json](./111888-my-dino.json) |
