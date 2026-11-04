@@ -1923,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapid Fire | 112751 | [112751-rapid-fire.json](./112751-rapid-fire.json) |
 | Rapid Fire | 54668 | [54668-rapid-fire.json](./54668-rapid-fire.json) |
 | Rapid Fire Brigade | 248178 | [248178-rapid-fire-brigade.json](./248178-rapid-fire-brigade.json) |
+| Rapid Fury | 298226 | [298226-rapid-fury.json](./298226-rapid-fury.json) |
 | Rapid Hero | 39881 | [39881-rapid-hero.json](./39881-rapid-hero.json) |
 | Rapid Jump | 87290 | [87290-rapid-jump.json](./87290-rapid-jump.json) |
 | Rapid Magic Arcane Crystals | 174210 | [174210-rapid-magic-arcane-crystals.json](./174210-rapid-magic-arcane-crystals.json) |
@@ -6494,6 +6495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reviver: The Real-Time Adventure | 63884 | [63884-reviver-the-real-time-adventure.json](./63884-reviver-the-real-time-adventure.json) |
 | Revizor | 154593 | [154593-revizor.json](./154593-revizor.json) |
 | Revline Online | 411689 | [411689-revline-online.json](./411689-revline-online.json) |
+| Revload | 298188 | [298188-revload.json](./298188-revload.json) |
 | Revn | 131342 | [131342-revn.json](./131342-revn.json) |
 | Revoke | 93726 | [93726-revoke.json](./93726-revoke.json) |
 | Revoland | 210661 | [210661-revoland.json](./210661-revoland.json) |
@@ -10543,6 +10545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ronin 2072 | 133062 | [133062-ronin-2072.json](./133062-ronin-2072.json) |
 | Ronin Awakening | 374933 | [374933-ronin-awakening.json](./374933-ronin-awakening.json) |
 | Ronin Heart | 366393 | [366393-ronin-heart.json](./366393-ronin-heart.json) |
+| Ronin Rush | 298211 | [298211-ronin-rush.json](./298211-ronin-rush.json) |
 | Ronin Rush | 304713 | [304713-ronin-rush.json](./304713-ronin-rush.json) |
 | Ronin Trail | 206588 | [206588-ronin-trail.json](./206588-ronin-trail.json) |
 | Ronin: Samurai Redemption | 216936 | [216936-ronin-samurai-redemption.json](./216936-ronin-samurai-redemption.json) |
@@ -11195,6 +11198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxy Raccoon's Pinball Panic | 188874 | [188874-roxy-raccoons-pinball-panic.json](./188874-roxy-raccoons-pinball-panic.json) |
 | Roxy Raccoon's Pinball Panic - Movie Magic | 354200 | [354200-roxy-raccoons-pinball-panic-movie-magic.json](./354200-roxy-raccoons-pinball-panic-movie-magic.json) |
 | Roxy Raccoon's Pinball Panic: American Anniversary | 311788 | [311788-roxy-raccoons-pinball-panic-american-anniversary.json](./311788-roxy-raccoons-pinball-panic-american-anniversary.json) |
+| Roxy Raccoon's Pinball Panic: Aquatic Adventures | 298200 | [298200-roxy-raccoons-pinball-panic-aquatic-adventures.json](./298200-roxy-raccoons-pinball-panic-aquatic-adventures.json) |
 | Roxy Raccoon's Pinball Panic: Baker's Best | 285461 | [285461-roxy-raccoons-pinball-panic-bakers-best.json](./285461-roxy-raccoons-pinball-panic-bakers-best.json) |
 | Roxy Raccoon's Pinball Panic: Candycopia | 354201 | [354201-roxy-raccoons-pinball-panic-candycopia.json](./354201-roxy-raccoons-pinball-panic-candycopia.json) |
 | Roxy Raccoon's Pinball Panic: Christmas Carnage | 235360 | [235360-roxy-raccoons-pinball-panic-christmas-carnage.json](./235360-roxy-raccoons-pinball-panic-christmas-carnage.json) |
@@ -11642,6 +11646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruffnauts: Planet Pals | 363151 | [363151-ruffnauts-planet-pals.json](./363151-ruffnauts-planet-pals.json) |
 | Rufus Snackdown | 338401 | [338401-rufus-snackdown.json](./338401-rufus-snackdown.json) |
 | Rufus Snow Ride | 338404 | [338404-rufus-snow-ride.json](./338404-rufus-snow-ride.json) |
+| Rug Cleaning Simulator | 298219 | [298219-rug-cleaning-simulator.json](./298219-rug-cleaning-simulator.json) |
 | Rug Rats | 292037 | [292037-rug-rats.json](./292037-rug-rats.json) |
 | Rugby | 77083 | [77083-rugby.json](./77083-rugby.json) |
 | Rugby | 94199 | [94199-rugby.json](./94199-rugby.json) |
