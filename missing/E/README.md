@@ -5921,6 +5921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Quest | 154266 | [154266-eternal-quest.json](./154266-eternal-quest.json) |
 | Eternal Quest | 43353 | [43353-eternal-quest.json](./43353-eternal-quest.json) |
 | Eternal Radiance | 128856 | [128856-eternal-radiance.json](./128856-eternal-radiance.json) |
+| Eternal Rain | 306273 | [306273-eternal-rain.json](./306273-eternal-rain.json) |
 | Eternal Realm | 280723 | [280723-eternal-realm.json](./280723-eternal-realm.json) |
 | Eternal Realm | 35156 | [35156-eternal-realm.json](./35156-eternal-realm.json) |
 | Eternal Reckoning | 287733 | [287733-eternal-reckoning.json](./287733-eternal-reckoning.json) |
