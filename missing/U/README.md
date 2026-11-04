@@ -767,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Theater Simulator | 367400 | [367400-ultimate-theater-simulator.json](./367400-ultimate-theater-simulator.json) |
 | Ultimate Tic-Tac-Toe | 35501 | [35501-ultimate-tic-tac-toe.json](./35501-ultimate-tic-tac-toe.json) |
 | Ultimate Tower Defense | 272570 | [272570-ultimate-tower-defense.json](./272570-ultimate-tower-defense.json) |
+| Ultimate Traffic Sign Quiz | 300913 | [300913-ultimate-traffic-sign-quiz.json](./300913-ultimate-traffic-sign-quiz.json) |
 | Ultimate Trainz Collection | 206168 | [206168-ultimate-trainz-collection.json](./206168-ultimate-trainz-collection.json) |
 | Ultimate Trial | 304358 | [304358-ultimate-trial.json](./304358-ultimate-trial.json) |
 | Ultimate Truck Simulator | 220172 | [220172-ultimate-truck-simulator.json](./220172-ultimate-truck-simulator.json) |
