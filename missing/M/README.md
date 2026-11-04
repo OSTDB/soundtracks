@@ -4546,6 +4546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Ultimate Alliance 3: The Black Order - Rise of the Phoenix | 122701 | [122701-marvel-ultimate-alliance-3-the-black-order-rise-of-the-phoenix.json](./122701-marvel-ultimate-alliance-3-the-black-order-rise-of-the-phoenix.json) |
 | Marvel Ultimate Alliance 3: The Black Order - Shadow of Doom | 122702 | [122702-marvel-ultimate-alliance-3-the-black-order-shadow-of-doom.json](./122702-marvel-ultimate-alliance-3-the-black-order-shadow-of-doom.json) |
 | Marvel Ultimate Alliance 3: The Black Order Expansion Pass | 122703 | [122703-marvel-ultimate-alliance-3-the-black-order-expansion-pass.json](./122703-marvel-ultimate-alliance-3-the-black-order-expansion-pass.json) |
+| Marvel Vs Capcom 2 X-Men '97 Edition Deluxe Arcade | 314757 | [314757-marvel-vs-capcom-2-x-men-97-edition-deluxe-arcade.json](./314757-marvel-vs-capcom-2-x-men-97-edition-deluxe-arcade.json) |
 | Marvel vs. Capcom 2: New Age of Heroes | 305168 | [305168-marvel-vs-capcom-2-new-age-of-heroes.json](./305168-marvel-vs-capcom-2-new-age-of-heroes.json) |
 | Marvel vs. Capcom 2: New Age of Heroes | 305169 | [305169-marvel-vs-capcom-2-new-age-of-heroes.json](./305169-marvel-vs-capcom-2-new-age-of-heroes.json) |
 | Marvel vs. Capcom 3: Fate of Two Worlds | 8248 | [8248-marvel-vs-capcom-3-fate-of-two-worlds.json](./8248-marvel-vs-capcom-3-fate-of-two-worlds.json) |
@@ -5719,7 +5720,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -7471,6 +7471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Christmas Carol 2 | 209265 | [209265-mega-man-christmas-carol-2.json](./209265-mega-man-christmas-carol-2.json) |
 | Mega Man Christmas Carol 3 | 209266 | [209266-mega-man-christmas-carol-3.json](./209266-mega-man-christmas-carol-3.json) |
 | Mega Man Christmas Carol Remix | 209264 | [209264-mega-man-christmas-carol-remix.json](./209264-mega-man-christmas-carol-remix.json) |
+| Mega Man Collection | 314758 | [314758-mega-man-collection.json](./314758-mega-man-collection.json) |
 | Mega Man CX | 45187 | [45187-mega-man-cx.json](./45187-mega-man-cx.json) |
 | Mega Man Cyber Wave Pack | 409541 | [409541-mega-man-cyber-wave-pack.json](./409541-mega-man-cyber-wave-pack.json) |
 | Mega Man Dongs | 282810 | [282810-mega-man-dongs.json](./282810-mega-man-dongs.json) |
@@ -12234,6 +12235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Airways | 288116 | [288116-mini-airways.json](./288116-mini-airways.json) |
 | Mini Airways: Map - Busy Skies | 416593 | [416593-mini-airways-map-busy-skies.json](./416593-mini-airways-map-busy-skies.json) |
 | Mini Arcade Monster Maze | 200338 | [200338-mini-arcade-monster-maze.json](./200338-mini-arcade-monster-maze.json) |
+| Mini Arcade Oreo Pac-Man | 314774 | [314774-mini-arcade-oreo-pac-man.json](./314774-mini-arcade-oreo-pac-man.json) |
 | Mini Arenas | 215596 | [215596-mini-arenas.json](./215596-mini-arenas.json) |
 | Mini Army | 399402 | [399402-mini-army.json](./399402-mini-army.json) |
 | Mini Army Tactics Medieval | 190343 | [190343-mini-army-tactics-medieval.json](./190343-mini-army-tactics-medieval.json) |
