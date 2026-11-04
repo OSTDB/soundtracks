@@ -5357,6 +5357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GO Series: Portable Shrine Wars | 65750 | [65750-go-series-portable-shrine-wars.json](./65750-go-series-portable-shrine-wars.json) |
 | GO Series: Tower of Deus | 84499 | [84499-go-series-tower-of-deus.json](./84499-go-series-tower-of-deus.json) |
 | GO Series: Undead Storm | 84498 | [84498-go-series-undead-storm.json](./84498-go-series-undead-storm.json) |
+| Go Slimey Go! | 325219 | [325219-go-slimey-go.json](./325219-go-slimey-go.json) |
 | Go Soccer | 246445 | [246445-go-soccer.json](./246445-go-soccer.json) |
 | Go Some Balls: Only Up and Getting Over It | 276668 | [276668-go-some-balls-only-up-and-getting-over-it.json](./276668-go-some-balls-only-up-and-getting-over-it.json) |
 | Go Team Yeah | 185463 | [185463-go-team-yeah.json](./185463-go-team-yeah.json) |
@@ -7729,6 +7730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto: London Special Edition | 43687 | [43687-grand-theft-auto-london-special-edition.json](./43687-grand-theft-auto-london-special-edition.json) |
 | Grand Theft Auto: Misterix | 253324 | [253324-grand-theft-auto-misterix.json](./253324-grand-theft-auto-misterix.json) |
 | Grand Theft Auto: Montevideo City | 191486 | [191486-grand-theft-auto-montevideo-city.json](./191486-grand-theft-auto-montevideo-city.json) |
+| Grand Theft Auto: New York | 325228 | [325228-grand-theft-auto-new-york.json](./325228-grand-theft-auto-new-york.json) |
 | Grand Theft Auto: Rio de Janeiro | 163113 | [163113-grand-theft-auto-rio-de-janeiro.json](./163113-grand-theft-auto-rio-de-janeiro.json) |
 | Grand Theft Auto: San Andreas - Flame's Story | 320920 | [320920-grand-theft-auto-san-andreas-flames-story.json](./320920-grand-theft-auto-san-andreas-flames-story.json) |
 | Grand Theft Auto: San Andreas - The Definitive Edition | 178126 | [178126-grand-theft-auto-san-andreas-the-definitive-edition.json](./178126-grand-theft-auto-san-andreas-the-definitive-edition.json) |
