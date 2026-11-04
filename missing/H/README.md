@@ -223,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HackSlash | 361894 | [361894-hackslash.json](./361894-hackslash.json) |
 | HackStack | 200442 | [200442-hackstack.json](./200442-hackstack.json) |
 | Hacktag | 28241 | [28241-hacktag.json](./28241-hacktag.json) |
+| Hacky | 320659 | [320659-hacky.json](./320659-hacky.json) |
 | HackyZack | 28076 | [28076-hackyzack.json](./28076-hackyzack.json) |
 | HacX: Twitch 'n Kill | 78912 | [78912-hacx-twitch-n-kill.json](./78912-hacx-twitch-n-kill.json) |
 | Had | 239085 | [239085-had.json](./239085-had.json) |
@@ -2471,6 +2472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku: Project Diva 2nd | 11755 | [11755-hatsune-miku-project-diva-2nd.json](./11755-hatsune-miku-project-diva-2nd.json) |
 | Hatsune Miku: Project Diva 2nd - The Idolm@ster Collaboration Pack #1 | 294733 | [294733-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-1.json](./294733-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-1.json) |
 | Hatsune Miku: Project Diva 2nd - The Idolm@ster Collaboration Pack #2 | 294734 | [294734-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-2.json](./294734-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-2.json) |
+| Hatsune Miku: Project Diva 2nd# | 320649 | [320649-hatsune-miku-project-diva-2nd.json](./320649-hatsune-miku-project-diva-2nd.json) |
 | Hatsune Miku: Project Diva Arcade | 11771 | [11771-hatsune-miku-project-diva-arcade.json](./11771-hatsune-miku-project-diva-arcade.json) |
 | Hatsune Miku: Project Diva Dreamy Theater | 65422 | [65422-hatsune-miku-project-diva-dreamy-theater.json](./65422-hatsune-miku-project-diva-dreamy-theater.json) |
 | Hatsune Miku: Project Diva Dreamy Theater 2nd | 65408 | [65408-hatsune-miku-project-diva-dreamy-theater-2nd.json](./65408-hatsune-miku-project-diva-dreamy-theater-2nd.json) |
@@ -5293,6 +5295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai vs. Evil | 146095 | [146095-hentai-vs-evil.json](./146095-hentai-vs-evil.json) |
 | Hentai vs. Furries | 164376 | [164376-hentai-vs-furries.json](./164376-hentai-vs-furries.json) |
 | Hentai vs. Orcs | 161388 | [161388-hentai-vs-orcs.json](./161388-hentai-vs-orcs.json) |
+| Hentai Waifu | 320666 | [320666-hentai-waifu.json](./320666-hentai-waifu.json) |
 | Hentai Waifu | 366525 | [366525-hentai-waifu.json](./366525-hentai-waifu.json) |
 | Hentai Waifu 101 | 156098 | [156098-hentai-waifu-101.json](./156098-hentai-waifu-101.json) |
 | Hentai Waifu 2 | 324451 | [324451-hentai-waifu-2.json](./324451-hentai-waifu-2.json) |
@@ -9997,6 +10000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hostyle | 397700 | [397700-hostyle.json](./397700-hostyle.json) |
 | Hot & Hentai | 317548 | [317548-hot-and-hentai.json](./317548-hot-and-hentai.json) |
 | Hot & Hentai: Beach Yui | 324490 | [324490-hot-and-hentai-beach-yui.json](./324490-hot-and-hentai-beach-yui.json) |
+| Hot & Hentai: Deluxe Edition | 320687 | [320687-hot-and-hentai-deluxe-edition.json](./320687-hot-and-hentai-deluxe-edition.json) |
 | Hot & Hentai: Gamer Etsuko | 324491 | [324491-hot-and-hentai-gamer-etsuko.json](./324491-hot-and-hentai-gamer-etsuko.json) |
 | Hot & Hentai: Garden Queen Shirayuki | 324492 | [324492-hot-and-hentai-garden-queen-shirayuki.json](./324492-hot-and-hentai-garden-queen-shirayuki.json) |
 | Hot & Lewd: Miami | 303568 | [303568-hot-and-lewd-miami.json](./303568-hot-and-lewd-miami.json) |
