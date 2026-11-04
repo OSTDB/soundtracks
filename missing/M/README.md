@@ -9189,7 +9189,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Message Quest | 13665 | [13665-message-quest.json](./13665-message-quest.json) |
 | Message Quest - adventures of Feste | 102526 | [102526-message-quest-adventures-of-feste.json](./102526-message-quest-adventures-of-feste.json) |
 | Messages From The Universe Graveyard | 304986 | [304986-messages-from-the-universe-graveyard.json](./304986-messages-from-the-universe-graveyard.json) |
-| Messenger | 370380 | [370380-messenger.json](./370380-messenger.json) |
 | Messiah | 9282 | [9282-messiah.json](./9282-messiah.json) |
 | Messiah: The Road of Conviction | 145602 | [145602-messiah-the-road-of-conviction.json](./145602-messiah-the-road-of-conviction.json) |
 | Messier111 | 169363 | [169363-messier111.json](./169363-messier111.json) |
