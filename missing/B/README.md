@@ -936,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -16803,6 +16804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bundle: Journey of the Broken Circle + Cosmic Top Secret | 218468 | [218468-bundle-journey-of-the-broken-circle-cosmic-top-secret.json](./218468-bundle-journey-of-the-broken-circle-cosmic-top-secret.json) |
 | Bunflower | 205014 | [205014-bunflower.json](./205014-bunflower.json) |
 | Bung Ball | 252808 | [252808-bung-ball.json](./252808-bung-ball.json) |
+| Bungee Ferret Tossing | 334421 | [334421-bungee-ferret-tossing.json](./334421-bungee-ferret-tossing.json) |
 | Bungee Run | 295472 | [295472-bungee-run.json](./295472-bungee-run.json) |
 | Bungee Stickmen+ | 212612 | [212612-bungee-stickmen.json](./212612-bungee-stickmen.json) |
 | Bungie Mac Action Sack | 172660 | [172660-bungie-mac-action-sack.json](./172660-bungie-mac-action-sack.json) |
@@ -17089,6 +17091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burgle Bros | 75825 | [75825-burgle-bros.json](./75825-burgle-bros.json) |
 | Burgle Supply Company | 372804 | [372804-burgle-supply-company.json](./372804-burgle-supply-company.json) |
 | Burgleville | 336299 | [336299-burgleville.json](./336299-burgleville.json) |
+| Burial | 334404 | [334404-burial.json](./334404-burial.json) |
 | Burial Ground | 268602 | [268602-burial-ground.json](./268602-burial-ground.json) |
 | Burial Ground | 375554 | [375554-burial-ground.json](./375554-burial-ground.json) |
 | Burial of Shortcake | 348131 | [348131-burial-of-shortcake.json](./348131-burial-of-shortcake.json) |
