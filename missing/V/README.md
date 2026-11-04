@@ -1821,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victoria II: Interwar Cavalry Unit Pack | 226893 | [226893-victoria-ii-interwar-cavalry-unit-pack.json](./226893-victoria-ii-interwar-cavalry-unit-pack.json) |
 | Victoria Kopernik: Mother | 371853 | [371853-victoria-kopernik-mother.json](./371853-victoria-kopernik-mother.json) |
 | Victoria: An Empire Under the Sun | 11036 | [11036-victoria-an-empire-under-the-sun.json](./11036-victoria-an-empire-under-the-sun.json) |
+| Victoria: La Primera | 325978 | [325978-victoria-la-primera.json](./325978-victoria-la-primera.json) |
 | Victoria: Revolutions | 11035 | [11035-victoria-revolutions.json](./11035-victoria-revolutions.json) |
 | Victoria's Body | 158655 | [158655-victorias-body.json](./158655-victorias-body.json) |
 | Victoriam | 374917 | [374917-victoriam.json](./374917-victoriam.json) |
