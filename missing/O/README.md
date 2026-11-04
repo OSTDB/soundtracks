@@ -5684,6 +5684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OWRC: Open World Racing | 214316 | [214316-owrc-open-world-racing.json](./214316-owrc-open-world-racing.json) |
 | Owyn's Adventure | 116482 | [116482-owyns-adventure.json](./116482-owyns-adventure.json) |
 | Owys | 34642 | [34642-owys.json](./34642-owys.json) |
+| Ox & Horse Work in Hell | 345784 | [345784-ox-and-horse-work-in-hell.json](./345784-ox-and-horse-work-in-hell.json) |
 | Oxenfree: Collector's Edition | 51536 | [51536-oxenfree-collectors-edition.json](./51536-oxenfree-collectors-edition.json) |
 | Oxenfree: Director's Cut | 22446 | [22446-oxenfree-directors-cut.json](./22446-oxenfree-directors-cut.json) |
 | Oxide Room 208 | 240258 | [240258-oxide-room-208.json](./240258-oxide-room-208.json) |
