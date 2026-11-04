@@ -6234,6 +6234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin | 2239 | [2239-pikmin.json](./2239-pikmin.json) |
 | Pikmin 1 Randomizer | 263441 | [263441-pikmin-1-randomizer.json](./263441-pikmin-1-randomizer.json) |
 | Pikmin 100 | 342715 | [342715-pikmin-100.json](./342715-pikmin-100.json) |
+| Pikmin 1x3 | 313368 | [313368-pikmin-1x3.json](./313368-pikmin-1x3.json) |
 | Pikmin 2 | 2240 | [2240-pikmin-2.json](./2240-pikmin-2.json) |
 | Pikmin 2 | 254335 | [254335-pikmin-2.json](./254335-pikmin-2.json) |
 | Pikmin 2 | 84697 | [84697-pikmin-2.json](./84697-pikmin-2.json) |
@@ -6267,9 +6268,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin 3 | 2241 | [2241-pikmin-3.json](./2241-pikmin-3.json) |
 | Pikmin 3 Deluxe | 136498 | [136498-pikmin-3-deluxe.json](./136498-pikmin-3-deluxe.json) |
 | Pikmin 3 DX: Caves Reborn | 313484 | [313484-pikmin-3-dx-caves-reborn.json](./313484-pikmin-3-dx-caves-reborn.json) |
+| Pikmin 3 Refreshed | 313366 | [313366-pikmin-3-refreshed.json](./313366-pikmin-3-refreshed.json) |
 | Pikmin 3: Extra Side of Stories | 314133 | [314133-pikmin-3-extra-side-of-stories.json](./314133-pikmin-3-extra-side-of-stories.json) |
+| Pikmin 3.5 | 313365 | [313365-pikmin-3-5.json](./313365-pikmin-3-5.json) |
 | Pikmin 4 | 59843 | [59843-pikmin-4.json](./59843-pikmin-4.json) |
 | Pikmin 4: Nintendo Switch 2 Edition + Dandori Academy | 417169 | [417169-pikmin-4-nintendo-switch-2-edition-dandori-academy.json](./417169-pikmin-4-nintendo-switch-2-edition-dandori-academy.json) |
+| Pikmin 4: Planet Remix | 313370 | [313370-pikmin-4-planet-remix.json](./313370-pikmin-4-planet-remix.json) |
 | Pikmin Bloom | 178290 | [178290-pikmin-bloom.json](./178290-pikmin-bloom.json) |
 | Pikmin Finder | 264892 | [264892-pikmin-finder.json](./264892-pikmin-finder.json) |
 | Pikmin Lost Hope | 281012 | [281012-pikmin-lost-hope.json](./281012-pikmin-lost-hope.json) |
@@ -6340,6 +6344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin: Olimar's Descent | 307373 | [307373-pikmin-olimars-descent.json](./307373-pikmin-olimars-descent.json) |
 | Pikmin: Return to PNF-404 | 313353 | [313353-pikmin-return-to-pnf-404.json](./313353-pikmin-return-to-pnf-404.json) |
 | Pikmin.com SpaceForce | 312310 | [312310-pikmin-com-spaceforce.json](./312310-pikmin-com-spaceforce.json) |
+| Pikmin² | 313360 | [313360-pikmin2.json](./313360-pikmin2.json) |
 | Piko Fox! | 336610 | [336610-piko-fox.json](./336610-piko-fox.json) |
 | Piko Interactive Arcade 1 | 251707 | [251707-piko-interactive-arcade-1.json](./251707-piko-interactive-arcade-1.json) |
 | Piko Interactive Collection 1 | 130691 | [130691-piko-interactive-collection-1.json](./130691-piko-interactive-collection-1.json) |
