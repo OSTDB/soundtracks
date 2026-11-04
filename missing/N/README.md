@@ -6521,6 +6521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norukasoruka | 398984 | [398984-norukasoruka.json](./398984-norukasoruka.json) |
 | Norukasoruka: Tanpenshuu | 398985 | [398985-norukasoruka-tanpenshuu.json](./398985-norukasoruka-tanpenshuu.json) |
 | NoRush! | 410293 | [410293-norush.json](./410293-norush.json) |
+| Norvezskaya Semga | 342506 | [342506-norvezskaya-semga.json](./342506-norvezskaya-semga.json) |
 | Norwegian Jigsaw Puzzles: Expansion Pack 2 | 274609 | [274609-norwegian-jigsaw-puzzles-expansion-pack-2.json](./274609-norwegian-jigsaw-puzzles-expansion-pack-2.json) |
 | Norwegian Jigsaw Puzzles: Expansion Pack 3 | 274608 | [274608-norwegian-jigsaw-puzzles-expansion-pack-3.json](./274608-norwegian-jigsaw-puzzles-expansion-pack-3.json) |
 | Norwegian Jigsaw Puzzles: Expansion Pack 4 | 274607 | [274607-norwegian-jigsaw-puzzles-expansion-pack-4.json](./274607-norwegian-jigsaw-puzzles-expansion-pack-4.json) |
