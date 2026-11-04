@@ -6768,6 +6768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logistics Inc | 183877 | [183877-logistics-inc.json](./183877-logistics-inc.json) |
 | Logistics Simulator | 161346 | [161346-logistics-simulator.json](./161346-logistics-simulator.json) |
 | Logistics Simulator: America | 390867 | [390867-logistics-simulator-america.json](./390867-logistics-simulator-america.json) |
+| Logistics Tycoon Simulator | 309828 | [309828-logistics-tycoon-simulator.json](./309828-logistics-tycoon-simulator.json) |
 | Logistik | 370728 | [370728-logistik.json](./370728-logistik.json) |
 | Logistique | 157572 | [157572-logistique.json](./157572-logistique.json) |
 | Logix: The Missing Part | 301884 | [301884-logix-the-missing-part.json](./301884-logix-the-missing-part.json) |
