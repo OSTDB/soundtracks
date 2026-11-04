@@ -4898,6 +4898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deco Deck | 247929 | [247929-deco-deck.json](./247929-deco-deck.json) |
 | Deco Tendances | 269689 | [269689-deco-tendances.json](./269689-deco-tendances.json) |
 | Deco: Block Simulator | 151661 | [151661-deco-block-simulator.json](./151661-deco-block-simulator.json) |
+| Decocraft | 328128 | [328128-decocraft.json](./328128-decocraft.json) |
 | Decode | 390016 | [390016-decode.json](./390016-decode.json) |
 | Decodence | 351568 | [351568-decodence.json](./351568-decodence.json) |
 | Decoherence | 97966 | [97966-decoherence.json](./97966-decoherence.json) |
@@ -8552,6 +8553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diemi | 375352 | [375352-diemi.json](./375352-diemi.json) |
 | Dien Bien Phu | 78921 | [78921-dien-bien-phu.json](./78921-dien-bien-phu.json) |
 | Diener Dates | 252653 | [252653-diener-dates.json](./252653-diener-dates.json) |
+| DienWorlds | 328126 | [328126-dienworlds.json](./328126-dienworlds.json) |
 | Diep.io | 19341 | [19341-diep-io.json](./19341-diep-io.json) |
 | Diercke Das Geographie-Quiz | 269743 | [269743-diercke-das-geographie-quiz.json](./269743-diercke-das-geographie-quiz.json) |
 | Diercke: Junior-Quiz Geographie | 269744 | [269744-diercke-junior-quiz-geographie.json](./269744-diercke-junior-quiz-geographie.json) |
