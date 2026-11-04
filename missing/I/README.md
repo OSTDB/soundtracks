@@ -312,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Hate Colors | 256128 | [256128-i-hate-colors.json](./256128-i-hate-colors.json) |
 | I Hate Heroes | 98988 | [98988-i-hate-heroes.json](./98988-i-hate-heroes.json) |
 | I hate it here | 184864 | [184864-i-hate-it-here.json](./184864-i-hate-it-here.json) |
+| I Hate My Fingers | 319523 | [319523-i-hate-my-fingers.json](./319523-i-hate-my-fingers.json) |
 | I Hate My Legs | 315212 | [315212-i-hate-my-legs.json](./315212-i-hate-my-legs.json) |
 | I Hate Robots | 347596 | [347596-i-hate-robots.json](./347596-i-hate-robots.json) |
 | I Hate Running Backwards | 68843 | [68843-i-hate-running-backwards.json](./68843-i-hate-running-backwards.json) |
@@ -3768,6 +3769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinitum: The Backrooms Story | 258179 | [258179-infinitum-the-backrooms-story.json](./258179-infinitum-the-backrooms-story.json) |
 | Infinity | 13729 | [13729-infinity.json](./13729-infinity.json) |
 | Infinity | 313865 | [313865-infinity.json](./313865-infinity.json) |
+| Infinity | 319919 | [319919-infinity.json](./319919-infinity.json) |
 | Infinity | 382380 | [382380-infinity.json](./382380-infinity.json) |
 | Infinity Angel | 224035 | [224035-infinity-angel.json](./224035-infinity-angel.json) |
 | Infinity Attackers | 120415 | [120415-infinity-attackers.json](./120415-infinity-attackers.json) |
@@ -4599,7 +4601,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intelligent Design: An Evolutionary Sandbox | 36478 | [36478-intelligent-design-an-evolutionary-sandbox.json](./36478-intelligent-design-an-evolutionary-sandbox.json) |
 | Intelligent Destruction | 384165 | [384165-intelligent-destruction.json](./384165-intelligent-destruction.json) |
 | Intelligent Qube | 4126 | [4126-intelligent-qube.json](./4126-intelligent-qube.json) |
+| Intelligent Strategy Games 10 | 319931 | [319931-intelligent-strategy-games-10.json](./319931-intelligent-strategy-games-10.json) |
 | Intelligent Strategy Games 10 | 70246 | [70246-intelligent-strategy-games-10.json](./70246-intelligent-strategy-games-10.json) |
+| Intelligent Strategy Games Volume 1 | 319904 | [319904-intelligent-strategy-games-volume-1.json](./319904-intelligent-strategy-games-volume-1.json) |
+| Intelligent Strategy Games Volume 2 | 319905 | [319905-intelligent-strategy-games-volume-2.json](./319905-intelligent-strategy-games-volume-2.json) |
 | Intellivania | 270284 | [270284-intellivania.json](./270284-intellivania.json) |
 | Intellivision Collection 2 | 147179 | [147179-intellivision-collection-2.json](./147179-intellivision-collection-2.json) |
 | Intellivision Flashback | 245652 | [245652-intellivision-flashback.json](./245652-intellivision-flashback.json) |
