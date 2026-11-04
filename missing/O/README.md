@@ -1928,6 +1928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Constant Delay | 400296 | [400296-on-constant-delay.json](./400296-on-constant-delay.json) |
 | On Cue | 83375 | [83375-on-cue.json](./83375-on-cue.json) |
 | On Dark Terms | 221134 | [221134-on-dark-terms.json](./221134-on-dark-terms.json) |
+| On Donuts and Holes | 347432 | [347432-on-donuts-and-holes.json](./347432-on-donuts-and-holes.json) |
 | On Duty | 130378 | [130378-on-duty.json](./130378-on-duty.json) |
 | On Earth as in Hell: Woytons Plague | 218739 | [218739-on-earth-as-in-hell-woytons-plague.json](./218739-on-earth-as-in-hell-woytons-plague.json) |
 | On Earth As It Is In Heaven | 75427 | [75427-on-earth-as-it-is-in-heaven.json](./75427-on-earth-as-it-is-in-heaven.json) |
@@ -2910,6 +2911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Down: Not Up! | 383782 | [383782-only-down-not-up.json](./383782-only-down-not-up.json) |
 | Only Down! | 257379 | [257379-only-down.json](./257379-only-down.json) |
 | Only Drive | 279105 | [279105-only-drive.json](./279105-only-drive.json) |
+| Only Dwarves Dig Proper Holes | 347425 | [347425-only-dwarves-dig-proper-holes.json](./347425-only-dwarves-dig-proper-holes.json) |
 | Only Faces Remain | 382917 | [382917-only-faces-remain.json](./382917-only-faces-remain.json) |
 | Only False | 330674 | [330674-only-false.json](./330674-only-false.json) |
 | Only Fans | 377029 | [377029-only-fans.json](./377029-only-fans.json) |
