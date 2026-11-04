@@ -3074,6 +3074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headshot! | 365725 | [365725-headshot.json](./365725-headshot.json) |
 | Headsnatchers | 95026 | [95026-headsnatchers.json](./95026-headsnatchers.json) |
 | Headspace | 385699 | [385699-headspace.json](./385699-headspace.json) |
+| Headspace XR | 317732 | [317732-headspace-xr.json](./317732-headspace-xr.json) |
 | Headspace: Unwind Your Mind | 322497 | [322497-headspace-unwind-your-mind.json](./322497-headspace-unwind-your-mind.json) |
 | Headspun: Dazed Edition | 134664 | [134664-headspun-dazed-edition.json](./134664-headspun-dazed-edition.json) |
 | HeadSquare | 75925 | [75925-headsquare.json](./75925-headsquare.json) |
@@ -3799,6 +3800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helichopper | 80156 | [80156-helichopper.json](./80156-helichopper.json) |
 | Helichoppy | 383698 | [383698-helichoppy.json](./383698-helichoppy.json) |
 | Heliconian: Starship Crew Control | 133403 | [133403-heliconian-starship-crew-control.json](./133403-heliconian-starship-crew-control.json) |
+| Helicop Investigates Words and Numbers | 317766 | [317766-helicop-investigates-words-and-numbers.json](./317766-helicop-investigates-words-and-numbers.json) |
 | Helicops | 78924 | [78924-helicops.json](./78924-helicops.json) |
 | Helicopter | 312256 | [312256-helicopter.json](./312256-helicopter.json) |
 | Helicopter 2.0 | 325871 | [325871-helicopter-2-0.json](./325871-helicopter-2-0.json) |
@@ -11921,6 +11923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Cars Ramp Crash | 398271 | [398271-hyper-cars-ramp-crash.json](./398271-hyper-cars-ramp-crash.json) |
 | Hyper Catch | 189361 | [189361-hyper-catch.json](./189361-hyper-catch.json) |
 | Hyper Chess | 353916 | [353916-hyper-chess.json](./353916-hyper-chess.json) |
+| Hyper Circuit | 317765 | [317765-hyper-circuit.json](./317765-hyper-circuit.json) |
 | Hyper City Parkour | 371545 | [371545-hyper-city-parkour.json](./371545-hyper-city-parkour.json) |
 | Hyper Contender | 318714 | [318714-hyper-contender.json](./318714-hyper-contender.json) |
 | Hyper Crash | 39290 | [39290-hyper-crash.json](./39290-hyper-crash.json) |
