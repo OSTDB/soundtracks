@@ -9366,9 +9366,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Fury 3000 | 124179 | [124179-metal-fury-3000.json](./124179-metal-fury-3000.json) |
 | Metal Garden | 333894 | [333894-metal-garden.json](./333894-metal-garden.json) |
 | Metal Gear | 133917 | [133917-metal-gear.json](./133917-metal-gear.json) |
+| Metal Gear | 307493 | [307493-metal-gear.json](./307493-metal-gear.json) |
 | Metal Gear | 344546 | [344546-metal-gear.json](./344546-metal-gear.json) |
 | Metal Gear | 374 | [374-metal-gear.json](./374-metal-gear.json) |
 | Metal Gear & Metal Gear 2: Solid Snake | 254684 | [254684-metal-gear-and-metal-gear-2-solid-snake.json](./254684-metal-gear-and-metal-gear-2-solid-snake.json) |
+| Metal Gear 2: Solid Snake | 307496 | [307496-metal-gear-2-solid-snake.json](./307496-metal-gear-2-solid-snake.json) |
 | Metal Gear 2: Solid Snake | 377 | [377-metal-gear-2-solid-snake.json](./377-metal-gear-2-solid-snake.json) |
 | Metal Gear Acid | 12211 | [12211-metal-gear-acid.json](./12211-metal-gear-acid.json) |
 | Metal Gear Acid 2 | 9886 | [9886-metal-gear-acid-2.json](./9886-metal-gear-acid-2.json) |
@@ -9429,6 +9431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid: The Essential Collection | 43613 | [43613-metal-gear-solid-the-essential-collection.json](./43613-metal-gear-solid-the-essential-collection.json) |
 | Metal Gear Solid: The Legacy Collection | 20196 | [20196-metal-gear-solid-the-legacy-collection.json](./20196-metal-gear-solid-the-legacy-collection.json) |
 | Metal Gear Solid: The Twin Snakes | 4006 | [4006-metal-gear-solid-the-twin-snakes.json](./4006-metal-gear-solid-the-twin-snakes.json) |
+| Metal Gear Solid: The Twin Snakes - Premium Package | 307490 | [307490-metal-gear-solid-the-twin-snakes-premium-package.json](./307490-metal-gear-solid-the-twin-snakes-premium-package.json) |
 | Metal Gear Solid: VR Missions | 18683 | [18683-metal-gear-solid-vr-missions.json](./18683-metal-gear-solid-vr-missions.json) |
 | Metal Gear Survive: Digital Deluxe Edition | 119085 | [119085-metal-gear-survive-digital-deluxe-edition.json](./119085-metal-gear-survive-digital-deluxe-edition.json) |
 | Metal Gear: Ghost Babel | 5600 | [5600-metal-gear-ghost-babel.json](./5600-metal-gear-ghost-babel.json) |
@@ -11247,6 +11250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miku Miku Hockey | 62780 | [62780-miku-miku-hockey.json](./62780-miku-miku-hockey.json) |
 | Miku Miku Hockey 2.0 | 365125 | [365125-miku-miku-hockey-2-0.json](./365125-miku-miku-hockey-2-0.json) |
 | Miku Runner | 289890 | [289890-miku-runner.json](./289890-miku-runner.json) |
+| Miku-15 | 307502 | [307502-miku-15.json](./307502-miku-15.json) |
 | Miku: May I Keep Up? | 332873 | [332873-miku-may-i-keep-up.json](./332873-miku-may-i-keep-up.json) |
 | Miku'n Pop | 314226 | [314226-mikun-pop.json](./314226-mikun-pop.json) |
 | Mikuni Field Combat | 299482 | [299482-mikuni-field-combat.json](./299482-mikuni-field-combat.json) |
@@ -12208,6 +12212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper Infinite | 291454 | [291454-minesweeper-infinite.json](./291454-minesweeper-infinite.json) |
 | Minesweeper Materialized | 37058 | [37058-minesweeper-materialized.json](./37058-minesweeper-materialized.json) |
 | Minesweeper Mobile | 372812 | [372812-minesweeper-mobile.json](./372812-minesweeper-mobile.json) |
+| Minesweeper Netflix | 307508 | [307508-minesweeper-netflix.json](./307508-minesweeper-netflix.json) |
 | Minesweeper NG | 188969 | [188969-minesweeper-ng.json](./188969-minesweeper-ng.json) |
 | Minesweeper Online | 271398 | [271398-minesweeper-online.json](./271398-minesweeper-online.json) |
 | Minesweeper Peak VR | 286784 | [286784-minesweeper-peak-vr.json](./286784-minesweeper-peak-vr.json) |
@@ -20389,6 +20394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sadistic Girlfriends 2 | 384842 | [384842-my-sadistic-girlfriends-2.json](./384842-my-sadistic-girlfriends-2.json) |
 | My Sail and My Sea | 133465 | [133465-my-sail-and-my-sea.json](./133465-my-sail-and-my-sea.json) |
 | My SameGame | 64433 | [64433-my-samegame.json](./64433-my-samegame.json) |
+| My Saturday Grounded | 307515 | [307515-my-saturday-grounded.json](./307515-my-saturday-grounded.json) |
 | My Secret Bistro: Cooking Game | 246661 | [246661-my-secret-bistro-cooking-game.json](./246661-my-secret-bistro-cooking-game.json) |
 | My Secret Diary | 47799 | [47799-my-secret-diary.json](./47799-my-secret-diary.json) |
 | My Secret Idol Girlfriend | 222649 | [222649-my-secret-idol-girlfriend.json](./222649-my-secret-idol-girlfriend.json) |
