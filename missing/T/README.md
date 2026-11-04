@@ -840,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take A Leak | 267424 | [267424-take-a-leak.json](./267424-take-a-leak.json) |
 | Take a Little | 238737 | [238737-take-a-little.json](./238737-take-a-little.json) |
 | Take a Look | 292502 | [292502-take-a-look.json](./292502-take-a-look.json) |
+| Take A Look Around | 313621 | [313621-take-a-look-around.json](./313621-take-a-look-around.json) |
 | Take a piss like a woman | 330160 | [330160-take-a-piss-like-a-woman.json](./330160-take-a-piss-like-a-woman.json) |
 | Take a Seat! | 202961 | [202961-take-a-seat.json](./202961-take-a-seat.json) |
 | Take a Smile | 246484 | [246484-take-a-smile.json](./246484-take-a-smile.json) |
@@ -6368,6 +6369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bird's Realm 3 | 201805 | [201805-the-birds-realm-3.json](./201805-the-birds-realm-3.json) |
 | The Birdcage | 105800 | [105800-the-birdcage.json](./105800-the-birdcage.json) |
 | The Birdcage 2 | 117499 | [117499-the-birdcage-2.json](./117499-the-birdcage-2.json) |
+| The Birdcage 3 | 313924 | [313924-the-birdcage-3.json](./313924-the-birdcage-3.json) |
 | The Birds and the Bees II: Antics | 73610 | [73610-the-birds-and-the-bees-ii-antics.json](./73610-the-birds-and-the-bees-ii-antics.json) |
 | The Birdsong Tree | 404435 | [404435-the-birdsong-tree.json](./404435-the-birdsong-tree.json) |
 | The Birdwatcher | 198101 | [198101-the-birdwatcher.json](./198101-the-birdwatcher.json) |
@@ -9495,6 +9497,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The French and Indian War | 182258 | [182258-the-french-and-indian-war.json](./182258-the-french-and-indian-war.json) |
 | The French Open 1998 | 70302 | [70302-the-french-open-1998.json](./70302-the-french-open-1998.json) |
 | The Frenetic Five vs. Sturm und Drang | 217771 | [217771-the-frenetic-five-vs-sturm-und-drang.json](./217771-the-frenetic-five-vs-sturm-und-drang.json) |
+| The Freshman: Game of Love | 313617 | [313617-the-freshman-game-of-love.json](./313617-the-freshman-game-of-love.json) |
+| The Freshman: Snowed In | 313616 | [313616-the-freshman-snowed-in.json](./313616-the-freshman-snowed-in.json) |
 | The Fridge is Red | 141660 | [141660-the-fridge-is-red.json](./141660-the-fridge-is-red.json) |
 | The Friendly Droppets | 339201 | [339201-the-friendly-droppets.json](./339201-the-friendly-droppets.json) |
 | The friends of Ringo Ishikawa | 98898 | [98898-the-friends-of-ringo-ishikawa.json](./98898-the-friends-of-ringo-ishikawa.json) |
@@ -16403,6 +16407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Song of the Stars II | 284328 | [284328-the-song-of-the-stars-ii.json](./284328-the-song-of-the-stars-ii.json) |
 | The Song Of Will | 400543 | [400543-the-song-of-will.json](./400543-the-song-of-will.json) |
 | The Songbird Guild | 215721 | [215721-the-songbird-guild.json](./215721-the-songbird-guild.json) |
+| The Sophomore: Hartfeld Horror Story | 313618 | [313618-the-sophomore-hartfeld-horror-story.json](./313618-the-sophomore-hartfeld-horror-story.json) |
 | The Sopranos Poker | 57931 | [57931-the-sopranos-poker.json](./57931-the-sopranos-poker.json) |
 | The Sopranos: Road to Respect | 17248 | [17248-the-sopranos-road-to-respect.json](./17248-the-sopranos-road-to-respect.json) |
 | The Sorcerer of Claymorgue Castle | 18526 | [18526-the-sorcerer-of-claymorgue-castle.json](./18526-the-sorcerer-of-claymorgue-castle.json) |
