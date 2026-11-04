@@ -6794,6 +6794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riba | 176710 | [176710-riba.json](./176710-riba.json) |
 | Ribbeat | 382771 | [382771-ribbeat.json](./382771-ribbeat.json) |
 | Ribbert's Adventure | 54784 | [54784-ribberts-adventure.json](./54784-ribberts-adventure.json) |
+| Ribbet | 317153 | [317153-ribbet.json](./317153-ribbet.json) |
 | Ribbit | 213366 | [213366-ribbit.json](./213366-ribbit.json) |
 | Ribbit Channel | 301895 | [301895-ribbit-channel.json](./301895-ribbit-channel.json) |
 | Ribbit Jump | 400368 | [400368-ribbit-jump.json](./400368-ribbit-jump.json) |
@@ -10430,6 +10431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rome Circus Maximus: Chariot Race VR | 68585 | [68585-rome-circus-maximus-chariot-race-vr.json](./68585-rome-circus-maximus-chariot-race-vr.json) |
 | Rome Empire War: Strategy Games | 175702 | [175702-rome-empire-war-strategy-games.json](./175702-rome-empire-war-strategy-games.json) |
 | Rome Frontiers | 261727 | [261727-rome-frontiers.json](./261727-rome-frontiers.json) |
+| Rome Goes Rogue | 317154 | [317154-rome-goes-rogue.json](./317154-rome-goes-rogue.json) |
 | Rome Pathway to Power | 171554 | [171554-rome-pathway-to-power.json](./171554-rome-pathway-to-power.json) |
 | Rome Reborn: The Colosseum District | 149242 | [149242-rome-reborn-the-colosseum-district.json](./149242-rome-reborn-the-colosseum-district.json) |
 | Rome: AD 92 | 2525 | [2525-rome-ad-92.json](./2525-rome-ad-92.json) |
