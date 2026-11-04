@@ -14371,7 +14371,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Notes | 328192 | [328192-prison-notes.json](./328192-prison-notes.json) |
 | Prison of Hope | 271855 | [271855-prison-of-hope.json](./271855-prison-of-hope.json) |
 | Prison of Husks | 269682 | [269682-prison-of-husks.json](./269682-prison-of-husks.json) |
+| Prison of Illusion | 301770 | [301770-prison-of-illusion.json](./301770-prison-of-illusion.json) |
 | Prison of Illusion: Gold Edition | 301780 | [301780-prison-of-illusion-gold-edition.json](./301780-prison-of-illusion-gold-edition.json) |
+| Prison of Illusion: Ultimate Edition | 301768 | [301768-prison-of-illusion-ultimate-edition.json](./301768-prison-of-illusion-ultimate-edition.json) |
 | Prison of Lies | 183422 | [183422-prison-of-lies.json](./183422-prison-of-lies.json) |
 | Prison of Nightmare | 311245 | [311245-prison-of-nightmare.json](./311245-prison-of-nightmare.json) |
 | Prison of Son | 128999 | [128999-prison-of-son.json](./128999-prison-of-son.json) |
