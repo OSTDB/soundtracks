@@ -11526,6 +11526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friends: Seishun no Kagayaki | 258854 | [258854-friends-seishun-no-kagayaki.json](./258854-friends-seishun-no-kagayaki.json) |
 | Friends: Seishun no Kagayaki - Best Version | 258859 | [258859-friends-seishun-no-kagayaki-best-version.json](./258859-friends-seishun-no-kagayaki-best-version.json) |
 | Friends: The One With All The Trivia | 43623 | [43623-friends-the-one-with-all-the-trivia.json](./43623-friends-the-one-with-all-the-trivia.json) |
+| Friends' Kitchen | 347970 | [347970-friends-kitchen.json](./347970-friends-kitchen.json) |
 | FriendShapes | 330246 | [330246-friendshapes.json](./330246-friendshapes.json) |
 | Friendsheep | 114646 | [114646-friendsheep.json](./114646-friendsheep.json) |
 | FriendShip | 30936 | [30936-friendship.json](./30936-friendship.json) |
