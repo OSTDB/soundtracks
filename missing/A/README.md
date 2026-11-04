@@ -7488,6 +7488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphabet Solitaire Z | 89859 | [89859-alphabet-solitaire-z.json](./89859-alphabet-solitaire-z.json) |
 | Alphabet Solitaire Z: Japanese | 89854 | [89854-alphabet-solitaire-z-japanese.json](./89854-alphabet-solitaire-z-japanese.json) |
 | Alphabet Solitaire Z: Russian | 101576 | [101576-alphabet-solitaire-z-russian.json](./101576-alphabet-solitaire-z-russian.json) |
+| Alphabet Soup for Picky Eaters | 324660 | [324660-alphabet-soup-for-picky-eaters.json](./324660-alphabet-soup-for-picky-eaters.json) |
 | Alphabet Zoo | 12291 | [12291-alphabet-zoo.json](./12291-alphabet-zoo.json) |
 | Alphabet: Play with the ABCs | 206109 | [206109-alphabet-play-with-the-abcs.json](./206109-alphabet-play-with-the-abcs.json) |
 | Alphabetic | 80269 | [80269-alphabetic.json](./80269-alphabetic.json) |
@@ -10163,6 +10164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1800: Efficiency Masters Bundle | 317368 | [317368-anno-1800-efficiency-masters-bundle.json](./317368-anno-1800-efficiency-masters-bundle.json) |
 | Anno 1800: Eldritch Pack | 274724 | [274724-anno-1800-eldritch-pack.json](./274724-anno-1800-eldritch-pack.json) |
 | Anno 1800: Empire of the Skies | 197350 | [197350-anno-1800-empire-of-the-skies.json](./197350-anno-1800-empire-of-the-skies.json) |
+| Anno 1800: End of an Era Pack | 324604 | [324604-anno-1800-end-of-an-era-pack.json](./324604-anno-1800-end-of-an-era-pack.json) |
 | Anno 1800: Fiesta Pack | 250542 | [250542-anno-1800-fiesta-pack.json](./250542-anno-1800-fiesta-pack.json) |
 | Anno 1800: Gold Edition | 273340 | [273340-anno-1800-gold-edition.json](./273340-anno-1800-gold-edition.json) |
 | Anno 1800: Gold Edition Year 3 | 146136 | [146136-anno-1800-gold-edition-year-3.json](./146136-anno-1800-gold-edition-year-3.json) |
