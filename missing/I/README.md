@@ -542,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wanna Go for a Walk | 381767 | [381767-i-wanna-go-for-a-walk.json](./381767-i-wanna-go-for-a-walk.json) |
 | I Wanna Go Home | 220043 | [220043-i-wanna-go-home.json](./220043-i-wanna-go-home.json) |
 | I Wanna How Many Bottles of Coke Zero Can Badlands Chug in 3 Minutes? Watch & See! | 210657 | [210657-i-wanna-how-many-bottles-of-coke-zero-can-badlands-chug-in-3-minutes-watch-and-see.json](./210657-i-wanna-how-many-bottles-of-coke-zero-can-badlands-chug-in-3-minutes-watch-and-see.json) |
+| I Wanna Kill Stink Terios | 325193 | [325193-i-wanna-kill-stink-terios.json](./325193-i-wanna-kill-stink-terios.json) |
 | I Wanna Kill the Guy | 80532 | [80532-i-wanna-kill-the-guy.json](./80532-i-wanna-kill-the-guy.json) |
 | I Wanna Kill The Kamilia 2 | 359703 | [359703-i-wanna-kill-the-kamilia-2.json](./359703-i-wanna-kill-the-kamilia-2.json) |
 | I Wanna Kill the Kamilia 3 | 113466 | [113466-i-wanna-kill-the-kamilia-3.json](./113466-i-wanna-kill-the-kamilia-3.json) |
