@@ -1367,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canine Derby Manager | 402491 | [402491-canine-derby-manager.json](./402491-canine-derby-manager.json) |
 | Canis Major | 208659 | [208659-canis-major.json](./208659-canis-major.json) |
 | Canis Major Alpha | 316660 | [316660-canis-major-alpha.json](./316660-canis-major-alpha.json) |
+| Canjin | 345194 | [345194-canjin.json](./345194-canjin.json) |
 | Cannabis Farmer Strain Master | 159481 | [159481-cannabis-farmer-strain-master.json](./159481-cannabis-farmer-strain-master.json) |
 | Cannabis Store Simulator | 359338 | [359338-cannabis-store-simulator.json](./359338-cannabis-store-simulator.json) |
 | Cannabiz: Weed Shop Owner | 391640 | [391640-cannabiz-weed-shop-owner.json](./391640-cannabiz-weed-shop-owner.json) |
