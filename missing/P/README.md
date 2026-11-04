@@ -2322,7 +2322,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Escape | 86947 | [86947-parking-escape.json](./86947-parking-escape.json) |
 | Parking Expert! | 307762 | [307762-parking-expert.json](./307762-parking-expert.json) |
 | Parking Frenzy | 343786 | [343786-parking-frenzy.json](./343786-parking-frenzy.json) |
-| Parking Garage Rally Circuit | 287431 | [287431-parking-garage-rally-circuit.json](./287431-parking-garage-rally-circuit.json) |
 | Parking Garage Rally Circuit DX | 381673 | [381673-parking-garage-rally-circuit-dx.json](./381673-parking-garage-rally-circuit-dx.json) |
 | Parking Garage Rally Circuit: European Tour | 377852 | [377852-parking-garage-rally-circuit-european-tour.json](./377852-parking-garage-rally-circuit-european-tour.json) |
 | Parking Garage Simulator | 374602 | [374602-parking-garage-simulator.json](./374602-parking-garage-simulator.json) |
@@ -5792,6 +5791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pickle Wars | 93466 | [93466-pickle-wars.json](./93466-pickle-wars.json) |
 | Pickle-Pocalypse | 256962 | [256962-pickle-pocalypse.json](./256962-pickle-pocalypse.json) |
 | Pickle's Book | 137999 | [137999-pickles-book.json](./137999-pickles-book.json) |
+| Pickleball | 328176 | [328176-pickleball.json](./328176-pickleball.json) |
 | Pickleball One | 272337 | [272337-pickleball-one.json](./272337-pickleball-one.json) |
 | Pickleball Smash | 270160 | [270160-pickleball-smash.json](./270160-pickleball-smash.json) |
 | Picklock | 133098 | [133098-picklock.json](./133098-picklock.json) |
