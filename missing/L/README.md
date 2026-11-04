@@ -7090,6 +7090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looming Darkness | 177763 | [177763-looming-darkness.json](./177763-looming-darkness.json) |
 | Loona Landa | 271127 | [271127-loona-landa.json](./271127-loona-landa.json) |
 | Loondon | 91834 | [91834-loondon.json](./91834-loondon.json) |
+| Looney Landers | 325936 | [325936-looney-landers.json](./325936-looney-landers.json) |
 | Looney Rally | 86489 | [86489-looney-rally.json](./86489-looney-rally.json) |
 | Looney Toons Dash revived | 100803 | [100803-looney-toons-dash-revived.json](./100803-looney-toons-dash-revived.json) |
 | Looney Tune Dash | 101947 | [101947-looney-tune-dash.json](./101947-looney-tune-dash.json) |
@@ -8764,6 +8765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Low Poly Flight Simulator | 411572 | [411572-low-poly-flight-simulator.json](./411572-low-poly-flight-simulator.json) |
 | Low Poly Forces | 137241 | [137241-low-poly-forces.json](./137241-low-poly-forces.json) |
 | Low Poly Mouse Game | 381961 | [381961-low-poly-mouse-game.json](./381961-low-poly-mouse-game.json) |
+| Low Poly Stories: Mist | 325972 | [325972-low-poly-stories-mist.json](./325972-low-poly-stories-mist.json) |
 | Low Story | 156916 | [156916-low-story.json](./156916-low-story.json) |
 | Low Taper Fade 3D | 382534 | [382534-low-taper-fade-3d.json](./382534-low-taper-fade-3d.json) |
 | Low Tide | 377252 | [377252-low-tide.json](./377252-low-tide.json) |
