@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-04T08:52:18.699Z",
-  "total_soundtracks": 2928,
+  "generated_at": "2026-11-04T08:56:03.254Z",
+  "total_soundtracks": 2931,
   "games": [
     {
       "igdb_id": 7522,
@@ -19061,6 +19061,20 @@
       ]
     },
     {
+      "igdb_id": 370380,
+      "game_name": "Messenger",
+      "game_url": "https://ostdb.net/games/messenger",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273150a896fb936912bc541a0a7",
+      "albums": [
+        {
+          "album_name": "Messenger (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2MhgqU95EucBxz36Re98li",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 331214,
       "game_name": "Metal Eden",
       "game_url": "https://ostdb.net/games/metal-eden",
@@ -22339,6 +22353,20 @@
         {
           "album_name": "PARANORMASIGHT: The Seven Mysteries of Honjo Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/4HLKsb4uWmqpvAtnedvDcC",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 287431,
+      "game_name": "Parking Garage Rally Circuit",
+      "game_url": "https://ostdb.net/games/parking-garage-rally-circuit",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ead44368669f06e0e454794d",
+      "albums": [
+        {
+          "album_name": "Parking Garage Rally Circuit (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/75qMsbjwP13LcNgBPz4Qv9",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -29467,6 +29495,20 @@
         {
           "album_name": "SULFUR (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4tDzkF2b2hFvXsxA9SPgSf",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 106435,
+      "game_name": "Summer Catchers",
+      "game_url": "https://ostdb.net/games/summer-catchers",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735bf6eafd0e70d3035ebdf6be",
+      "albums": [
+        {
+          "album_name": "Summer Catchers (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0fAEbEZL8IeJ6vhP43u8qC",
           "apple_music_url": "",
           "album_link_url": ""
         }
