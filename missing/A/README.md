@@ -1650,6 +1650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A2 Racer II | 80309 | [80309-a2-racer-ii.json](./80309-a2-racer-ii.json) |
 | A2 Racer III: Europa Tour | 44841 | [44841-a2-racer-iii-europa-tour.json](./44841-a2-racer-iii-europa-tour.json) |
 | A2 Zygon | 193596 | [193596-a2-zygon.json](./193596-a2-zygon.json) |
+| A2: The Ultimate Sequel To AUTS | 304482 | [304482-a2-the-ultimate-sequel-to-auts.json](./304482-a2-the-ultimate-sequel-to-auts.json) |
 | A2Be: A Science Fiction Narrative | 87810 | [87810-a2be-a-science-fiction-narrative.json](./87810-a2be-a-science-fiction-narrative.json) |
 | A2C: Ayry Seems to be Playtesting a 2D Runner Shooter from Cci | 307165 | [307165-a2c-ayry-seems-to-be-playtesting-a-2d-runner-shooter-from-cci.json](./307165-a2c-ayry-seems-to-be-playtesting-a-2d-runner-shooter-from-cci.json) |
 | A3: Still Alive | 130673 | [130673-a3-still-alive.json](./130673-a3-still-alive.json) |
@@ -1684,6 +1685,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AAA Clock 2: Ultimate Edition | 314594 | [314594-aaa-clock-2-ultimate-edition.json](./314594-aaa-clock-2-ultimate-edition.json) |
 | AAA Clock 2: Vulca Clock | 314590 | [314590-aaa-clock-2-vulca-clock.json](./314590-aaa-clock-2-vulca-clock.json) |
 | AAA Clock: Extreme Amazing Edition | 328743 | [328743-aaa-clock-extreme-amazing-edition.json](./328743-aaa-clock-extreme-amazing-edition.json) |
+| AAA Clock: Extreme Complete | 304765 | [304765-aaa-clock-extreme-complete.json](./304765-aaa-clock-extreme-complete.json) |
+| AAA Clock: Extreme Definitive | 304764 | [304764-aaa-clock-extreme-definitive.json](./304764-aaa-clock-extreme-definitive.json) |
+| AAA Clock: Extreme Legendary | 304763 | [304763-aaa-clock-extreme-legendary.json](./304763-aaa-clock-extreme-legendary.json) |
 | AAA Clock: Extreme Magnificent Edition | 328744 | [328744-aaa-clock-extreme-magnificent-edition.json](./328744-aaa-clock-extreme-magnificent-edition.json) |
 | AAA Clock: Extreme Premium | 304762 | [304762-aaa-clock-extreme-premium.json](./304762-aaa-clock-extreme-premium.json) |
 | AAA Dynamic Scenes | 326907 | [326907-aaa-dynamic-scenes.json](./326907-aaa-dynamic-scenes.json) |
@@ -1844,6 +1848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abducted Toad | 135096 | [135096-abducted-toad.json](./135096-abducted-toad.json) |
 | Abducted Toad 2 | 321866 | [321866-abducted-toad-2.json](./321866-abducted-toad-2.json) |
 | Abducted Toad: 10th Anniversary Edition! | 321315 | [321315-abducted-toad-10th-anniversary-edition.json](./321315-abducted-toad-10th-anniversary-edition.json) |
+| Abducted: 10 Minutes!!! | 304484 | [304484-abducted-10-minutes.json](./304484-abducted-10-minutes.json) |
 | Abducted: The Night Hunters | 145578 | [145578-abducted-the-night-hunters.json](./145578-abducted-the-night-hunters.json) |
 | Abducting Mjolnir | 180759 | [180759-abducting-mjolnir.json](./180759-abducting-mjolnir.json) |
 | Abduction | 14202 | [14202-abduction.json](./14202-abduction.json) |
@@ -1904,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ablepsia | 67912 | [67912-ablepsia.json](./67912-ablepsia.json) |
 | Ablight | 278267 | [278267-ablight.json](./278267-ablight.json) |
 | Ablockalypse | 164190 | [164190-ablockalypse.json](./164190-ablockalypse.json) |
+| ABM Command | 304486 | [304486-abm-command.json](./304486-abm-command.json) |
 | Abmis the Lion | 70305 | [70305-abmis-the-lion.json](./70305-abmis-the-lion.json) |
 | Abnimality | 283872 | [283872-abnimality.json](./283872-abnimality.json) |
 | Abnormal Stairs | 316639 | [316639-abnormal-stairs.json](./316639-abnormal-stairs.json) |
@@ -4700,6 +4706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agents 4 Hire | 379514 | [379514-agents-4-hire.json](./379514-agents-4-hire.json) |
 | Agents 404 | 408224 | [408224-agents-404.json](./408224-agents-404.json) |
 | Agents of Aggro City Online | 83372 | [83372-agents-of-aggro-city-online.json](./83372-agents-of-aggro-city-online.json) |
+| Agents of Argus | 304415 | [304415-agents-of-argus.json](./304415-agents-of-argus.json) |
 | Agents of Groove | 325644 | [325644-agents-of-groove.json](./325644-agents-of-groove.json) |
 | Agents of Mayhem | 19440 | [19440-agents-of-mayhem.json](./19440-agents-of-mayhem.json) |
 | Agents of Mayhem: Johnny Gat | 118271 | [118271-agents-of-mayhem-johnny-gat.json](./118271-agents-of-mayhem-johnny-gat.json) |
@@ -11784,6 +11791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arbo: Arena Tactics | 303341 | [303341-arbo-arena-tactics.json](./303341-arbo-arena-tactics.json) |
 | Arboneer | 315257 | [315257-arboneer.json](./315257-arboneer.json) |
 | Arbor | 159038 | [159038-arbor.json](./159038-arbor.json) |
+| Arbor | 304498 | [304498-arbor.json](./304498-arbor.json) |
 | Arborea: Magnicidio en la Corte | 316835 | [316835-arborea-magnicidio-en-la-corte.json](./316835-arborea-magnicidio-en-la-corte.json) |
 | Arboreal | 190052 | [190052-arboreal.json](./190052-arboreal.json) |
 | Arboreal | 195879 | [195879-arboreal.json](./195879-arboreal.json) |
@@ -16988,6 +16996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autotag | 296717 | [296717-autotag.json](./296717-autotag.json) |
 | Autotelic | 404021 | [404021-autotelic.json](./404021-autotelic.json) |
 | Autothysis | 350161 | [350161-autothysis.json](./350161-autothysis.json) |
+| AUTS: The Ultimate Stress Relief Game | 304481 | [304481-auts-the-ultimate-stress-relief-game.json](./304481-auts-the-ultimate-stress-relief-game.json) |
 | Autumn | 22025 | [22025-autumn.json](./22025-autumn.json) |
 | Autumn and Girls | 149393 | [149393-autumn-and-girls.json](./149393-autumn-and-girls.json) |
 | Autumn Aurora 2 | 376213 | [376213-autumn-aurora-2.json](./376213-autumn-aurora-2.json) |
