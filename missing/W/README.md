@@ -3083,6 +3083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wega & The Lost Media | 358293 | [358293-wega-and-the-lost-media.json](./358293-wega-and-the-lost-media.json) |
 | Wega: Lost in the Outer Reaches | 213406 | [213406-wega-lost-in-the-outer-reaches.json](./213406-wega-lost-in-the-outer-reaches.json) |
 | Weggye's Adventures | 240785 | [240785-weggyes-adventures.json](./240785-weggyes-adventures.json) |
+| Wegi | 324638 | [324638-wegi.json](./324638-wegi.json) |
 | WEGO World War II: Overlord | 412244 | [412244-wego-world-war-ii-overlord.json](./412244-wego-world-war-ii-overlord.json) |
 | WEGO World War II: Stalingrad | 357819 | [357819-wego-world-war-ii-stalingrad.json](./357819-wego-world-war-ii-stalingrad.json) |
 | Wehrschach | 139335 | [139335-wehrschach.json](./139335-wehrschach.json) |
@@ -7228,6 +7229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Games with the Mr. Men | 97796 | [97796-word-games-with-the-mr-men.json](./97796-word-games-with-the-mr-men.json) |
 | Word Gems | 90420 | [90420-word-gems.json](./90420-word-gems.json) |
 | Word Genius by curious.com | 104507 | [104507-word-genius-by-curious-com.json](./104507-word-genius-by-curious-com.json) |
+| Word Grid | 324645 | [324645-word-grid.json](./324645-word-grid.json) |
 | Word Guru - Puzzle Word Game | 89233 | [89233-word-guru-puzzle-word-game.json](./89233-word-guru-puzzle-word-game.json) |
 | Word Harmony | 52130 | [52130-word-harmony.json](./52130-word-harmony.json) |
 | Word Home - Cat Puzzle Game | 108689 | [108689-word-home-cat-puzzle-game.json](./108689-word-home-cat-puzzle-game.json) |
