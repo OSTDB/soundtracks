@@ -1761,6 +1761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Crisis | 346019 | [346019-hard-crisis.json](./346019-hard-crisis.json) |
 | Hard Days | 267087 | [267087-hard-days.json](./267087-hard-days.json) |
 | Hard Drive | 381627 | [381627-hard-drive.json](./381627-hard-drive.json) |
+| Hard Driven | 309276 | [309276-hard-driven.json](./309276-hard-driven.json) |
 | Hard Driver | 151033 | [151033-hard-driver.json](./151033-hard-driver.json) |
 | Hard Driver 2 | 148858 | [148858-hard-driver-2.json](./148858-hard-driver-2.json) |
 | Hard Drivin' | 12134 | [12134-hard-drivin.json](./12134-hard-drivin.json) |
@@ -2932,6 +2933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HBO Boxing | 44935 | [44935-hbo-boxing.json](./44935-hbo-boxing.json) |
 | HC-Hexagon | 115505 | [115505-hc-hexagon.json](./115505-hc-hexagon.json) |
 | HD | 301859 | [301859-hd.json](./301859-hd.json) |
+| HDMI | 309310 | [309310-hdmi.json](./309310-hdmi.json) |
 | HDoom | 136850 | [136850-hdoom.json](./136850-hdoom.json) |
 | HDOS | 373557 | [373557-hdos.json](./373557-hdos.json) |
 | He | 286066 | [286066-he.json](./286066-he.json) |
@@ -3385,6 +3387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts++ | 88040 | [88040-hearts.json](./88040-hearts.json) |
 | Heartseers Grove | 389746 | [389746-heartseers-grove.json](./389746-heartseers-grove.json) |
 | Heartshot | 278683 | [278683-heartshot.json](./278683-heartshot.json) |
+| Heartspell: Horizon Academy | 309311 | [309311-heartspell-horizon-academy.json](./309311-heartspell-horizon-academy.json) |
 | Heartstop | 199510 | [199510-heartstop.json](./199510-heartstop.json) |
 | Heartstrings | 202371 | [202371-heartstrings.json](./202371-heartstrings.json) |
 | HeartWare | 309806 | [309806-heartware.json](./309806-heartware.json) |
@@ -4904,6 +4907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Sexy Maid Party | 369826 | [369826-hentai-girls-sexy-maid-party.json](./369826-hentai-girls-sexy-maid-party.json) |
 | Hentai Girls: Sexy Sakura | 336419 | [336419-hentai-girls-sexy-sakura.json](./336419-hentai-girls-sexy-sakura.json) |
 | Hentai Girls: Steamy Maid | 300864 | [300864-hentai-girls-steamy-maid.json](./300864-hentai-girls-steamy-maid.json) |
+| Hentai Girls: Summer Sweetie | 309294 | [309294-hentai-girls-summer-sweetie.json](./309294-hentai-girls-summer-sweetie.json) |
 | Hentai Girls: Sweet Doctor | 288164 | [288164-hentai-girls-sweet-doctor.json](./288164-hentai-girls-sweet-doctor.json) |
 | Hentai Girls: Sweet Skier | 328521 | [328521-hentai-girls-sweet-skier.json](./328521-hentai-girls-sweet-skier.json) |
 | Hentai Girls: The Princesses | 301676 | [301676-hentai-girls-the-princesses.json](./301676-hentai-girls-the-princesses.json) |
