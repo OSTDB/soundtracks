@@ -3335,6 +3335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Shadows of Gotham | 45200 | [45200-batman-shadows-of-gotham.json](./45200-batman-shadows-of-gotham.json) |
 | Batman: The Animated Series | 198677 | [198677-batman-the-animated-series.json](./198677-batman-the-animated-series.json) |
 | Batman: The Brave and the Bold | 245552 | [245552-batman-the-brave-and-the-bold.json](./245552-batman-the-brave-and-the-bold.json) |
+| Batman: The Brave and the Bold - Streets of Gotham: Full Throttle | 299322 | [299322-batman-the-brave-and-the-bold-streets-of-gotham-full-throttle.json](./299322-batman-the-brave-and-the-bold-streets-of-gotham-full-throttle.json) |
 | Batman: The Brave and the Bold - The Videogame | 343034 | [343034-batman-the-brave-and-the-bold-the-videogame.json](./343034-batman-the-brave-and-the-bold-the-videogame.json) |
 | Batman: The Brave and the Bold - The Videogame | 4707 | [4707-batman-the-brave-and-the-bold-the-videogame.json](./4707-batman-the-brave-and-the-bold-the-videogame.json) |
 | Batman: The Caped Crusader | 12401 | [12401-batman-the-caped-crusader.json](./12401-batman-the-caped-crusader.json) |
@@ -3535,6 +3536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Chopper | 38542 | [38542-battle-chopper.json](./38542-battle-chopper.json) |
 | Battle Circuit | 38545 | [38545-battle-circuit.json](./38545-battle-circuit.json) |
 | Battle City | 4596 | [4596-battle-city.json](./4596-battle-city.json) |
+| Battle City Remake | 299365 | [299365-battle-city-remake.json](./299365-battle-city-remake.json) |
 | Battle Clash | 283977 | [283977-battle-clash.json](./283977-battle-clash.json) |
 | Battle Clash | 42735 | [42735-battle-clash.json](./42735-battle-clash.json) |
 | Battle Commander: Hachibushu Shura no Heihou | 44426 | [44426-battle-commander-hachibushu-shura-no-heihou.json](./44426-battle-commander-hachibushu-shura-no-heihou.json) |
