@@ -7215,6 +7215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piper | 315318 | [315318-piper.json](./315318-piper.json) |
 | Piper | 356068 | [356068-piper.json](./356068-piper.json) |
 | PipeRoll Oil | 233920 | [233920-piperoll-oil.json](./233920-piperoll-oil.json) |
+| Pipes | 311408 | [311408-pipes.json](./311408-pipes.json) |
 | Pipes | 78884 | [78884-pipes.json](./78884-pipes.json) |
 | Pipes 3D | 21985 | [21985-pipes-3d.json](./21985-pipes-3d.json) |
 | Pipes Master | 194257 | [194257-pipes-master.json](./194257-pipes-master.json) |
