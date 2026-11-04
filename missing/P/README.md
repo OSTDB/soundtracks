@@ -14000,6 +14000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Connect! | 22792 | [22792-princess-connect.json](./22792-princess-connect.json) |
 | Princess Covenant | 367632 | [367632-princess-covenant.json](./367632-princess-covenant.json) |
 | Princess Crown | 45463 | [45463-princess-crown.json](./45463-princess-crown.json) |
+| Princess Daisy Forever: Revival | 324075 | [324075-princess-daisy-forever-revival.json](./324075-princess-daisy-forever-revival.json) |
 | Princess Date Diaries: A Fairy Tale Love | 397870 | [397870-princess-date-diaries-a-fairy-tale-love.json](./397870-princess-date-diaries-a-fairy-tale-love.json) |
 | Princess Dating Sim | 225216 | [225216-princess-dating-sim.json](./225216-princess-dating-sim.json) |
 | Princess Debut | 21225 | [21225-princess-debut.json](./21225-princess-debut.json) |
