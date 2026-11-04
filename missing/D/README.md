@@ -2418,6 +2418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dashing Nineties: R.M.D. | 43143 | [43143-dashing-nineties-r-m-d.json](./43143-dashing-nineties-r-m-d.json) |
 | Dashing Pixels | 136484 | [136484-dashing-pixels.json](./136484-dashing-pixels.json) |
 | Dashkin | 83187 | [83187-dashkin.json](./83187-dashkin.json) |
+| Dashlab | 302023 | [302023-dashlab.json](./302023-dashlab.json) |
 | Dashosaur DX | 341922 | [341922-dashosaur-dx.json](./341922-dashosaur-dx.json) |
 | DashPoint | 420472 | [420472-dashpoint.json](./420472-dashpoint.json) |
 | Dashpunch | 319805 | [319805-dashpunch.json](./319805-dashpunch.json) |
@@ -3107,6 +3108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: F/A-18C Arctic Thunder Campaign | 324732 | [324732-dcs-world-f-a-18c-arctic-thunder-campaign.json](./324732-dcs-world-f-a-18c-arctic-thunder-campaign.json) |
 | DCS World: F/A-18C Inherent Resolve Campaign by Looking Glass | 325248 | [325248-dcs-world-f-a-18c-inherent-resolve-campaign-by-looking-glass.json](./325248-dcs-world-f-a-18c-inherent-resolve-campaign-by-looking-glass.json) |
 | DCS World: F/A-18C Operation Cerberus North by Ground Pounder Sims | 195399 | [195399-dcs-world-f-a-18c-operation-cerberus-north-by-ground-pounder-sims.json](./195399-dcs-world-f-a-18c-operation-cerberus-north-by-ground-pounder-sims.json) |
+| DCS World: F/A-18C Operation Green Line by BADGER633 | 302026 | [302026-dcs-world-f-a-18c-operation-green-line-by-badger633.json](./302026-dcs-world-f-a-18c-operation-green-line-by-badger633.json) |
 | DCS World: F/A-18C Operation Mountain Breeze by Sandman Simulations | 316379 | [316379-dcs-world-f-a-18c-operation-mountain-breeze-by-sandman-simulations.json](./316379-dcs-world-f-a-18c-operation-mountain-breeze-by-sandman-simulations.json) |
 | DCS World: F/A-18C Rise of the Persian Lion Campaign | 162862 | [162862-dcs-world-f-a-18c-rise-of-the-persian-lion-campaign.json](./162862-dcs-world-f-a-18c-rise-of-the-persian-lion-campaign.json) |
 | DCS World: F/A-18C Rise of the Persian Lion II Campaign by Badger 633 | 325538 | [325538-dcs-world-f-a-18c-rise-of-the-persian-lion-ii-campaign-by-badger-633.json](./325538-dcs-world-f-a-18c-rise-of-the-persian-lion-ii-campaign-by-badger-633.json) |
@@ -8340,6 +8342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice or Die | 184452 | [184452-dice-or-die.json](./184452-dice-or-die.json) |
 | Dice Paradise | 175416 | [175416-dice-paradise.json](./175416-dice-paradise.json) |
 | Dice People | 332281 | [332281-dice-people.json](./332281-dice-people.json) |
+| Dice Player One | 302014 | [302014-dice-player-one.json](./302014-dice-player-one.json) |
 | Dice Player One: Trailer | 305916 | [305916-dice-player-one-trailer.json](./305916-dice-player-one-trailer.json) |
 | Dice Poker Chicken Battle | 184422 | [184422-dice-poker-chicken-battle.json](./184422-dice-poker-chicken-battle.json) |
 | Dice Puzzle | 220175 | [220175-dice-puzzle.json](./220175-dice-puzzle.json) |
@@ -17774,6 +17777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Renovators | 224654 | [224654-dungeon-renovators.json](./224654-dungeon-renovators.json) |
 | Dungeon Repeater | 410062 | [410062-dungeon-repeater.json](./410062-dungeon-repeater.json) |
 | Dungeon Restaurant | 253281 | [253281-dungeon-restaurant.json](./253281-dungeon-restaurant.json) |
+| Dungeon Riddle | 302017 | [302017-dungeon-riddle.json](./302017-dungeon-riddle.json) |
 | Dungeon Rise | 396305 | [396305-dungeon-rise.json](./396305-dungeon-rise.json) |
 | Dungeon Robber | 62269 | [62269-dungeon-robber.json](./62269-dungeon-robber.json) |
 | Dungeon Rollers | 151449 | [151449-dungeon-rollers.json](./151449-dungeon-rollers.json) |
