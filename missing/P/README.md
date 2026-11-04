@@ -6486,6 +6486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pimbolas | 338806 | [338806-pimbolas.json](./338806-pimbolas.json) |
 | Pimby's Workaround | 364654 | [364654-pimbys-workaround.json](./364654-pimbys-workaround.json) |
 | Pimeval Man | 354593 | [354593-pimeval-man.json](./354593-pimeval-man.json) |
+| Pimic of Sorrow | 302890 | [302890-pimic-of-sorrow.json](./302890-pimic-of-sorrow.json) |
 | Pimiko Plus | 75625 | [75625-pimiko-plus.json](./75625-pimiko-plus.json) |
 | PiMon | 321640 | [321640-pimon.json](./321640-pimon.json) |
 | Pimp Hand Strong! | 234712 | [234712-pimp-hand-strong.json](./234712-pimp-hand-strong.json) |
@@ -16272,6 +16273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proxy Comics HD | 62252 | [62252-proxy-comics-hd.json](./62252-proxy-comics-hd.json) |
 | Proxyma | 362021 | [362021-proxyma.json](./362021-proxyma.json) |
 | Proyecto Huemul | 415746 | [415746-proyecto-huemul.json](./415746-proyecto-huemul.json) |
+| Proyecto infernal | 302892 | [302892-proyecto-infernal.json](./302892-proyecto-infernal.json) |
 | Proze: Enlightenment | 116132 | [116132-proze-enlightenment.json](./116132-proze-enlightenment.json) |
 | Prsi | 372958 | [372958-prsi.json](./372958-prsi.json) |
 | Prší | 99579 | [99579-prsi.json](./99579-prsi.json) |
