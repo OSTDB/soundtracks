@@ -10100,6 +10100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Music Parade | 142916 | [142916-disney-music-parade.json](./142916-disney-music-parade.json) |
 | Disney Music Parade Encore | 314949 | [314949-disney-music-parade-encore.json](./314949-disney-music-parade-encore.json) |
 | Disney Piglet's Special Day | 220130 | [220130-disney-piglets-special-day.json](./220130-disney-piglets-special-day.json) |
+| Disney Pixel RPG | 313027 | [313027-disney-pixel-rpg.json](./313027-disney-pixel-rpg.json) |
 | Disney Pop Town | 386962 | [386962-disney-pop-town.json](./386962-disney-pop-town.json) |
 | Disney Princess | 220084 | [220084-disney-princess.json](./220084-disney-princess.json) |
 | Disney Princess | 230337 | [230337-disney-princess.json](./230337-disney-princess.json) |
@@ -12217,6 +12218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donald Dowell and the Ghost of Barker Manor | 168386 | [168386-donald-dowell-and-the-ghost-of-barker-manor.json](./168386-donald-dowell-and-the-ghost-of-barker-manor.json) |
 | Donald Duck | 215079 | [215079-donald-duck.json](./215079-donald-duck.json) |
 | Donald Duck no Mahou no Boushi | 79059 | [79059-donald-duck-no-mahou-no-boushi.json](./79059-donald-duck-no-mahou-no-boushi.json) |
+| Donald Duck's Basics in Education and Learning | 313390 | [313390-donald-ducks-basics-in-education-and-learning.json](./313390-donald-ducks-basics-in-education-and-learning.json) |
 | Donald Duck's Playground | 12052 | [12052-donald-ducks-playground.json](./12052-donald-ducks-playground.json) |
 | Donald Duck's Speedboat | 40638 | [40638-donald-ducks-speedboat.json](./40638-donald-ducks-speedboat.json) |
 | Donald Fuck | 251389 | [251389-donald-fuck.json](./251389-donald-fuck.json) |
@@ -12229,6 +12231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donald Trump's Real Estate Tycoon | 25706 | [25706-donald-trumps-real-estate-tycoon.json](./25706-donald-trumps-real-estate-tycoon.json) |
 | Donald VS Martians | 113504 | [113504-donald-vs-martians.json](./113504-donald-vs-martians.json) |
 | Donald's Alphabet Chase | 57631 | [57631-donalds-alphabet-chase.json](./57631-donalds-alphabet-chase.json) |
+| Donald's Basics in Hamburguers and Learning | 313396 | [313396-donalds-basics-in-hamburguers-and-learning.json](./313396-donalds-basics-in-hamburguers-and-learning.json) |
 | Donald's Gem-boree | 246517 | [246517-donalds-gem-boree.json](./246517-donalds-gem-boree.json) |
 | Donald's Hectic Hay Bales | 246508 | [246508-donalds-hectic-hay-bales.json](./246508-donalds-hectic-hay-bales.json) |
 | Donald's Tugboat Adventures | 246509 | [246509-donalds-tugboat-adventures.json](./246509-donalds-tugboat-adventures.json) |
@@ -15429,6 +15432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Island: A Skyward Journey | 281380 | [281380-dream-island-a-skyward-journey.json](./281380-dream-island-a-skyward-journey.json) |
 | Dream Job: Delivery Simulator | 249713 | [249713-dream-job-delivery-simulator.json](./249713-dream-job-delivery-simulator.json) |
 | Dream Journey | 201623 | [201623-dream-journey.json](./201623-dream-journey.json) |
+| Dream Kingdom | 313395 | [313395-dream-kingdom.json](./313395-dream-kingdom.json) |
 | Dream Kitchen | 190421 | [190421-dream-kitchen.json](./190421-dream-kitchen.json) |
 | Dream Knights | 151481 | [151481-dream-knights.json](./151481-dream-knights.json) |
 | Dream Knights: The Little Hero | 181372 | [181372-dream-knights-the-little-hero.json](./181372-dream-knights-the-little-hero.json) |
