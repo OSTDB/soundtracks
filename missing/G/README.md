@@ -10780,6 +10780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns Undarkness | 211618 | [211618-guns-undarkness.json](./211618-guns-undarkness.json) |
 | Guns Up! | 11200 | [11200-guns-up.json](./11200-guns-up.json) |
 | Guns Up! Mobile | 175705 | [175705-guns-up-mobile.json](./175705-guns-up-mobile.json) |
+| Guns, Beats n' Dragons | 315402 | [315402-guns-beats-n-dragons.json](./315402-guns-beats-n-dragons.json) |
 | Guns, Blocks, and Steel | 326239 | [326239-guns-blocks-and-steel.json](./326239-guns-blocks-and-steel.json) |
 | Guns, Camera, Action! | 185481 | [185481-guns-camera-action.json](./185481-guns-camera-action.json) |
 | Guns, Gore & Cannoli | 13187 | [13187-guns-gore-and-cannoli.json](./13187-guns-gore-and-cannoli.json) |
@@ -11107,6 +11108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyroscope | 13866 | [13866-gyroscope.json](./13866-gyroscope.json) |
 | GyroSphere Trials | 52264 | [52264-gyrosphere-trials.json](./52264-gyrosphere-trials.json) |
 | Gyrostarr | 21791 | [21791-gyrostarr.json](./21791-gyrostarr.json) |
+| Gyrotechnics | 315404 | [315404-gyrotechnics.json](./315404-gyrotechnics.json) |
 | Gyruss | 12308 | [12308-gyruss.json](./12308-gyruss.json) |
 | Gyruss | 281033 | [281033-gyruss.json](./281033-gyruss.json) |
 | Gyruss | 281034 | [281034-gyruss.json](./281034-gyruss.json) |
