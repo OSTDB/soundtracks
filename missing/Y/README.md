@@ -312,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yarimono: DLC 1 | 315190 | [315190-yarimono-dlc-1.json](./315190-yarimono-dlc-1.json) |
 | Yaris | 21883 | [21883-yaris.json](./21883-yaris.json) |
 | Yarışçı Arazi | 326655 | [326655-yar-sc-arazi.json](./326655-yar-sc-arazi.json) |
+| Yark Survivors | 337923 | [337923-yark-survivors.json](./337923-yark-survivors.json) |
 | Yark!: A Kobold Adventure | 246587 | [246587-yark-a-kobold-adventure.json](./246587-yark-a-kobold-adventure.json) |
 | Yarn | 166614 | [166614-yarn.json](./166614-yarn.json) |
 | Yarn | 294504 | [294504-yarn.json](./294504-yarn.json) |
@@ -669,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo-kai Watch Busters 2: Hihou Densetsu Banbaraya Magnum | 136935 | [136935-yo-kai-watch-busters-2-hihou-densetsu-banbaraya-magnum.json](./136935-yo-kai-watch-busters-2-hihou-densetsu-banbaraya-magnum.json) |
 | Yo-kai Watch Busters: Shiroinutai | 136913 | [136913-yo-kai-watch-busters-shiroinutai.json](./136913-yo-kai-watch-busters-shiroinutai.json) |
 | Yo-kai Watch Dance: Just Dance Special Edition | 59946 | [59946-yo-kai-watch-dance-just-dance-special-edition.json](./59946-yo-kai-watch-dance-just-dance-special-edition.json) |
+| Yo-Kai Watch Gerapo Rhythm | 337940 | [337940-yo-kai-watch-gerapo-rhythm.json](./337940-yo-kai-watch-gerapo-rhythm.json) |
 | Yo-kai Watch Land | 137418 | [137418-yo-kai-watch-land.json](./137418-yo-kai-watch-land.json) |
 | Yo-Kai Watch Wibble Wobble | 79191 | [79191-yo-kai-watch-wibble-wobble.json](./79191-yo-kai-watch-wibble-wobble.json) |
 | Yo-Kai Watch Wibble Wobble: The Great Detective Nekomata | 397922 | [397922-yo-kai-watch-wibble-wobble-the-great-detective-nekomata.json](./397922-yo-kai-watch-wibble-wobble-the-great-detective-nekomata.json) |
