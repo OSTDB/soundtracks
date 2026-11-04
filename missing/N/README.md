@@ -1827,6 +1827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Negaia | 57069 | [57069-negaia.json](./57069-negaia.json) |
 | Negative | 183781 | [183781-negative.json](./183781-negative.json) |
 | Negative Atmosphere: Emergency Room | 232667 | [232667-negative-atmosphere-emergency-room.json](./232667-negative-atmosphere-emergency-room.json) |
+| Negative Energy | 333320 | [333320-negative-energy.json](./333320-negative-energy.json) |
 | Negative Nancy | 125474 | [125474-negative-nancy.json](./125474-negative-nancy.json) |
 | Negative One | 229779 | [229779-negative-one.json](./229779-negative-one.json) |
 | Negative Reverie | 321744 | [321744-negative-reverie.json](./321744-negative-reverie.json) |
@@ -4051,6 +4052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Class: A Vampire Story | 184763 | [184763-night-class-a-vampire-story.json](./184763-night-class-a-vampire-story.json) |
 | Night Clerk | 376476 | [376476-night-clerk.json](./376476-night-clerk.json) |
 | Night Clerk | 389597 | [389597-night-clerk.json](./389597-night-clerk.json) |
+| Night Club Simulator | 333310 | [333310-night-club-simulator.json](./333310-night-club-simulator.json) |
 | Night Club Simulator: Party King | 360470 | [360470-night-club-simulator-party-king.json](./360470-night-club-simulator-party-king.json) |
 | Night Confessional | 293343 | [293343-night-confessional.json](./293343-night-confessional.json) |
 | Night Creed | 412619 | [412619-night-creed.json](./412619-night-creed.json) |
@@ -6958,6 +6960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nowotnik Puzzle | 138660 | [138660-nowotnik-puzzle.json](./138660-nowotnik-puzzle.json) |
 | Nowv | 320541 | [320541-nowv.json](./320541-nowv.json) |
 | Nox | 5620 | [5620-nox.json](./5620-nox.json) |
+| Nox Aeterna: Veil of Darkness | 333290 | [333290-nox-aeterna-veil-of-darkness.json](./333290-nox-aeterna-veil-of-darkness.json) |
 | Nox Archaist | 141465 | [141465-nox-archaist.json](./141465-nox-archaist.json) |
 | Nox Archaist: Lord of Storms | 247430 | [247430-nox-archaist-lord-of-storms.json](./247430-nox-archaist-lord-of-storms.json) |
 | Nox Dash | 331480 | [331480-nox-dash.json](./331480-nox-dash.json) |
