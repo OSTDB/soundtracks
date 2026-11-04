@@ -2284,6 +2284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GB Dash | 393094 | [393094-gb-dash.json](./393094-gb-dash.json) |
 | GB Genjin Land: Viva! Chikkun Oukoku | 64344 | [64344-gb-genjin-land-viva-chikkun-oukoku.json](./64344-gb-genjin-land-viva-chikkun-oukoku.json) |
 | GB Harobots | 281454 | [281454-gb-harobots.json](./281454-gb-harobots.json) |
+| GB Pachi-Slot Hisshouhou! Jr. | 307997 | [307997-gb-pachi-slot-hisshouhou-jr.json](./307997-gb-pachi-slot-hisshouhou-jr.json) |
 | GB Pachio-kun | 59520 | [59520-gb-pachio-kun.json](./59520-gb-pachio-kun.json) |
 | GB Pachio-kun 2 | 59512 | [59512-gb-pachio-kun-2.json](./59512-gb-pachio-kun-2.json) |
 | GB Pachio-kun 3 | 59513 | [59513-gb-pachio-kun-3.json](./59513-gb-pachio-kun-3.json) |
@@ -2998,6 +2999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genshin Impact: Moonlight Amidst Dreams | 328924 | [328924-genshin-impact-moonlight-amidst-dreams.json](./328924-genshin-impact-moonlight-amidst-dreams.json) |
 | Genshin Impact: Paralogism | 341808 | [341808-genshin-impact-paralogism.json](./341808-genshin-impact-paralogism.json) |
 | Genshin Impact: Secret Summer Paradise | 257481 | [257481-genshin-impact-secret-summer-paradise.json](./257481-genshin-impact-secret-summer-paradise.json) |
+| Genshin Impact: Summertide Scales and Tales | 308003 | [308003-genshin-impact-summertide-scales-and-tales.json](./308003-genshin-impact-summertide-scales-and-tales.json) |
 | Genshin Impact: Sunny Summer Fontinalia | 407188 | [407188-genshin-impact-sunny-summer-fontinalia.json](./407188-genshin-impact-sunny-summer-fontinalia.json) |
 | Genshin Impact: Tapestry of Spirit and Flame | 321597 | [321597-genshin-impact-tapestry-of-spirit-and-flame.json](./321597-genshin-impact-tapestry-of-spirit-and-flame.json) |
 | Genshin Impact: The Chalk Prince and the Dragon | 256965 | [256965-genshin-impact-the-chalk-prince-and-the-dragon.json](./256965-genshin-impact-the-chalk-prince-and-the-dragon.json) |
