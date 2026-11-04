@@ -4112,6 +4112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gift-Exchange-Machine | 176240 | [176240-gift-exchange-machine.json](./176240-gift-exchange-machine.json) |
 | Gifted | 128187 | [128187-gifted.json](./128187-gifted.json) |
 | Gifted Island | 244727 | [244727-gifted-island.json](./244727-gifted-island.json) |
+| Gifted: The Tombs | 306270 | [306270-gifted-the-tombs.json](./306270-gifted-the-tombs.json) |
 | Giften | 77139 | [77139-giften.json](./77139-giften.json) |
 | Gifter | 183786 | [183786-gifter.json](./183786-gifter.json) |
 | Giftpia | 3931 | [3931-giftpia.json](./3931-giftpia.json) |
@@ -5063,6 +5064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glow Stairs | 174358 | [174358-glow-stairs.json](./174358-glow-stairs.json) |
 | Glow Storm | 322085 | [322085-glow-storm.json](./322085-glow-storm.json) |
 | Glow Unblock | 232287 | [232287-glow-unblock.json](./232287-glow-unblock.json) |
+| Glow Up 1 | 306278 | [306278-glow-up-1.json](./306278-glow-up-1.json) |
 | Glow Up 2 | 320023 | [320023-glow-up-2.json](./320023-glow-up-2.json) |
 | Glow Worm | 209755 | [209755-glow-worm.json](./209755-glow-worm.json) |
 | GlowBoard: WinterFest | 251449 | [251449-glowboard-winterfest.json](./251449-glowboard-winterfest.json) |
@@ -7950,6 +7952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grappling Dash | 215584 | [215584-grappling-dash.json](./215584-grappling-dash.json) |
 | Grappling Gunners: Arena FPS | 273772 | [273772-grappling-gunners-arena-fps.json](./273772-grappling-gunners-arena-fps.json) |
 | Grappling Hook | 21106 | [21106-grappling-hook.json](./21106-grappling-hook.json) |
+| Grappling Hook and Grappling Hook | 306267 | [306267-grappling-hook-and-grappling-hook.json](./306267-grappling-hook-and-grappling-hook.json) |
 | Grappling Hook Ball Tournament | 190404 | [190404-grappling-hook-ball-tournament.json](./190404-grappling-hook-ball-tournament.json) |
 | GrapplingHook | 125650 | [125650-grapplinghook.json](./125650-grapplinghook.json) |
 | Grapploteer | 253213 | [253213-grapploteer.json](./253213-grapploteer.json) |
