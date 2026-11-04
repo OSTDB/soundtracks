@@ -5755,6 +5755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resync | 241489 | [241489-resync.json](./241489-resync.json) |
 | Resynth | 107388 | [107388-resynth.json](./107388-resynth.json) |
 | Reta Tus Habilidades | 368207 | [368207-reta-tus-habilidades.json](./368207-reta-tus-habilidades.json) |
+| Retail Company Simulator | 308093 | [308093-retail-company-simulator.json](./308093-retail-company-simulator.json) |
 | Retail Hell | 380983 | [380983-retail-hell.json](./380983-retail-hell.json) |
 | Retail Mage | 319885 | [319885-retail-mage.json](./319885-retail-mage.json) |
 | Retail Rivals | 402476 | [402476-retail-rivals.json](./402476-retail-rivals.json) |
@@ -11545,6 +11546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubik's Cube Challenge | 209026 | [209026-rubiks-cube-challenge.json](./209026-rubiks-cube-challenge.json) |
 | Rubik's Cube VR | 112126 | [112126-rubiks-cube-vr.json](./112126-rubiks-cube-vr.json) |
 | Rubik's Games | 78886 | [78886-rubiks-games.json](./78886-rubiks-games.json) |
+| Rubik's Match | 308090 | [308090-rubiks-match.json](./308090-rubiks-match.json) |
 | Rubik's Puzzle World | 5131 | [5131-rubiks-puzzle-world.json](./5131-rubiks-puzzle-world.json) |
 | Rubikingdom | 150860 | [150860-rubikingdom.json](./150860-rubikingdom.json) |
 | Rubinite | 265796 | [265796-rubinite.json](./265796-rubinite.json) |
