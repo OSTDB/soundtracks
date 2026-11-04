@@ -3342,6 +3342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebirth-Land of Zombies | 189122 | [189122-rebirth-land-of-zombies.json](./189122-rebirth-land-of-zombies.json) |
 | Rebirth: Beware of Mr.Wang | 174114 | [174114-rebirth-beware-of-mr-wang.json](./174114-rebirth-beware-of-mr-wang.json) |
 | Rebirth: Mr Wang | 169105 | [169105-rebirth-mr-wang.json](./169105-rebirth-mr-wang.json) |
+| Rebirth! New Lover | 309841 | [309841-rebirth-new-lover.json](./309841-rebirth-new-lover.json) |
 | Rebirthday | 176939 | [176939-rebirthday.json](./176939-rebirthday.json) |
 | Rebirthing | 239771 | [239771-rebirthing.json](./239771-rebirthing.json) |
 | RebirthM | 174879 | [174879-rebirthm.json](./174879-rebirthm.json) |
@@ -8430,6 +8431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rob Blanc III: The Temporal Terrorists | 171553 | [171553-rob-blanc-iii-the-temporal-terrorists.json](./171553-rob-blanc-iii-the-temporal-terrorists.json) |
 | Rob for Two | 179920 | [179920-rob-for-two.json](./179920-rob-for-two.json) |
 | Rob'n Run | 183029 | [183029-robn-run.json](./183029-robn-run.json) |
+| Robabekya | 309817 | [309817-robabekya.json](./309817-robabekya.json) |
 | Robbbot | 73877 | [73877-robbbot.json](./73877-robbbot.json) |
 | Robbeary | 266675 | [266675-robbeary.json](./266675-robbeary.json) |
 | Robbed Money | 147384 | [147384-robbed-money.json](./147384-robbed-money.json) |
@@ -11275,6 +11277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Rampage | 370127 | [370127-royal-rampage.json](./370127-royal-rampage.json) |
 | Royal Randomizer | 342162 | [342162-royal-randomizer.json](./342162-royal-randomizer.json) |
 | Royal Rescue | 133201 | [133201-royal-rescue.json](./133201-royal-rescue.json) |
+| Royal Revolt Survivors | 309810 | [309810-royal-revolt-survivors.json](./309810-royal-revolt-survivors.json) |
 | Royal Revolt! | 336181 | [336181-royal-revolt.json](./336181-royal-revolt.json) |
 | Royal Riders | 190943 | [190943-royal-riders.json](./190943-royal-riders.json) |
 | Royal Roads | 111971 | [111971-royal-roads.json](./111971-royal-roads.json) |
