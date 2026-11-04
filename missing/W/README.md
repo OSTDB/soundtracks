@@ -5663,6 +5663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WingWhiz | 350454 | [350454-wingwhiz.json](./350454-wingwhiz.json) |
 | Wingy Pop | 55070 | [55070-wingy-pop.json](./55070-wingy-pop.json) |
 | Winhack 95 | 400710 | [400710-winhack-95.json](./400710-winhack-95.json) |
+| Winion Virus | 326930 | [326930-winion-virus.json](./326930-winion-virus.json) |
 | Wink and the Broken Robot | 179667 | [179667-wink-and-the-broken-robot.json](./179667-wink-and-the-broken-robot.json) |
 | Wink Mafia | 423236 | [423236-wink-mafia.json](./423236-wink-mafia.json) |
 | Wink Out | 404410 | [404410-wink-out.json](./404410-wink-out.json) |
