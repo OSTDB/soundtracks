@@ -5632,6 +5632,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deflector: Specimen Zero | 189925 | [189925-deflector-specimen-zero.json](./189925-deflector-specimen-zero.json) |
 | Deflectorium | 293860 | [293860-deflectorium.json](./293860-deflectorium.json) |
 | Deflektor | 12042 | [12042-deflektor.json](./12042-deflektor.json) |
+| Deflex | 315721 | [315721-deflex.json](./315721-deflex.json) |
+| Deflex | 315723 | [315723-deflex.json](./315723-deflex.json) |
 | Deflex | 92476 | [92476-deflex.json](./92476-deflex.json) |
 | Deflex / ROX | 315624 | [315624-deflex-rox.json](./315624-deflex-rox.json) |
 | Deflex V | 315510 | [315510-deflex-v.json](./315510-deflex-v.json) |
@@ -8957,6 +8959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Shift | 398380 | [398380-digital-shift.json](./398380-digital-shift.json) |
 | Digital Spacecade | 28181 | [28181-digital-spacecade.json](./28181-digital-spacecade.json) |
 | Digital Survivor | 411728 | [411728-digital-survivor.json](./411728-digital-survivor.json) |
+| Digital Tamers 2 | 315728 | [315728-digital-tamers-2.json](./315728-digital-tamers-2.json) |
 | Digital Tamers: ReBorn | 177283 | [177283-digital-tamers-reborn.json](./177283-digital-tamers-reborn.json) |
 | Digital Terrarium: Pogona Virtual Pet | 175846 | [175846-digital-terrarium-pogona-virtual-pet.json](./175846-digital-terrarium-pogona-virtual-pet.json) |
 | Digital Virus | 236008 | [236008-digital-virus.json](./236008-digital-virus.json) |
@@ -11582,6 +11585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki! Doki! Yuuenchi: Crazy Land Daisakusen | 48663 | [48663-doki-doki-yuuenchi-crazy-land-daisakusen.json](./48663-doki-doki-yuuenchi-crazy-land-daisakusen.json) |
 | DokiDoki Academy | 252894 | [252894-dokidoki-academy.json](./252894-dokidoki-academy.json) |
 | DokiDoki LoveUnholyc Class | 200012 | [200012-dokidoki-loveunholyc-class.json](./200012-dokidoki-loveunholyc-class.json) |
+| Dokimon | 315726 | [315726-dokimon.json](./315726-dokimon.json) |
 | Dokimon Quest: II | 414852 | [414852-dokimon-quest-ii.json](./414852-dokimon-quest-ii.json) |
 | Dokis & Dragons | 334008 | [334008-dokis-and-dragons.json](./334008-dokis-and-dragons.json) |
 | Dokis World | 269030 | [269030-dokis-world.json](./269030-dokis-world.json) |
