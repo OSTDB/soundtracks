@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quack my Duck | 258392 | [258392-quack-my-duck.json](./258392-quack-my-duck.json) |
 | Quack Quack Up | 402884 | [402884-quack-quack-up.json](./402884-quack-quack-up.json) |
 | Quacker Blaster | 63286 | [63286-quacker-blaster.json](./63286-quacker-blaster.json) |
+| Quacker Bros: First Heist | 310346 | [310346-quacker-bros-first-heist.json](./310346-quacker-bros-first-heist.json) |
 | QuackShot Starring Donald Duck | 8446 | [8446-quackshot-starring-donald-duck.json](./8446-quackshot-starring-donald-duck.json) |
 | Quacktangled | 185525 | [185525-quacktangled.json](./185525-quacktangled.json) |
 | Quacktown Smackdown | 239062 | [239062-quacktown-smackdown.json](./239062-quacktown-smackdown.json) |
