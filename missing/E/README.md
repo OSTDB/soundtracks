@@ -7324,6 +7324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exfiltrator: Cyber Stealth Missions | 204464 | [204464-exfiltrator-cyber-stealth-missions.json](./204464-exfiltrator-cyber-stealth-missions.json) |
 | Exhaust | 80168 | [80168-exhaust.json](./80168-exhaust.json) |
 | Exhausted Man | 119319 | [119319-exhausted-man.json](./119319-exhausted-man.json) |
+| Exhausted Man and Candleman Bundle | 310360 | [310360-exhausted-man-and-candleman-bundle.json](./310360-exhausted-man-and-candleman-bundle.json) |
 | Exhibit of Sorrows | 321126 | [321126-exhibit-of-sorrows.json](./321126-exhibit-of-sorrows.json) |
 | Exhibition | 60014 | [60014-exhibition.json](./60014-exhibition.json) |
 | Exhibition of Speed | 46365 | [46365-exhibition-of-speed.json](./46365-exhibition-of-speed.json) |
