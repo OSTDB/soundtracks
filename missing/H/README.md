@@ -7427,6 +7427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Legends: Complete DLC Bundle | 317678 | [317678-highway-legends-complete-dlc-bundle.json](./317678-highway-legends-complete-dlc-bundle.json) |
 | Highway Legends: Gold Edition | 413573 | [413573-highway-legends-gold-edition.json](./413573-highway-legends-gold-edition.json) |
 | Highway Legends: Traffic Speed Racer | 317286 | [317286-highway-legends-traffic-speed-racer.json](./317286-highway-legends-traffic-speed-racer.json) |
+| Highway Legends: Traffic Speed Racer - Deluxe Edition | 328763 | [328763-highway-legends-traffic-speed-racer-deluxe-edition.json](./328763-highway-legends-traffic-speed-racer-deluxe-edition.json) |
 | Highway Madness | 80943 | [80943-highway-madness.json](./80943-highway-madness.json) |
 | Highway Moto Racing Rush 2023 Simulator: Premium Edition | 305597 | [305597-highway-moto-racing-rush-2023-simulator-premium-edition.json](./305597-highway-moto-racing-rush-2023-simulator-premium-edition.json) |
 | Highway Moto Rider - Traffic Race | 105850 | [105850-highway-moto-rider-traffic-race.json](./105850-highway-moto-rider-traffic-race.json) |
@@ -10318,6 +10319,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Hideaway | 380123 | [380123-hotel-hideaway.json](./380123-hotel-hideaway.json) |
 | Hotel Hima | 260865 | [260865-hotel-hima.json](./260865-hotel-hima.json) |
 | Hotel Hustle | 300659 | [300659-hotel-hustle.json](./300659-hotel-hustle.json) |
+| Hotel Hustle: Complete Edition | 328764 | [328764-hotel-hustle-complete-edition.json](./328764-hotel-hustle-complete-edition.json) |
+| Hotel Hustle: Definitive Edition | 328765 | [328765-hotel-hustle-definitive-edition.json](./328765-hotel-hustle-definitive-edition.json) |
+| Hotel Hustle: Legendary Edition | 328766 | [328766-hotel-hustle-legendary-edition.json](./328766-hotel-hustle-legendary-edition.json) |
+| Hotel Hustle: Premium Edition | 328767 | [328767-hotel-hustle-premium-edition.json](./328767-hotel-hustle-premium-edition.json) |
+| Hotel Hustle: Special Edition | 328768 | [328768-hotel-hustle-special-edition.json](./328768-hotel-hustle-special-edition.json) |
 | Hotel Hysteria! | 316261 | [316261-hotel-hysteria.json](./316261-hotel-hysteria.json) |
 | Hotel in the Dark | 277129 | [277129-hotel-in-the-dark.json](./277129-hotel-in-the-dark.json) |
 | Hotel Infinity | 297430 | [297430-hotel-infinity.json](./297430-hotel-infinity.json) |
