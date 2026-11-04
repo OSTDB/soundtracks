@@ -1493,6 +1493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewelpet: Mahou no Oheya de Issho ni Asobou! | 269788 | [269788-jewelpet-mahou-no-oheya-de-issho-ni-asobou.json](./269788-jewelpet-mahou-no-oheya-de-issho-ni-asobou.json) |
 | Jewelrift | 419879 | [419879-jewelrift.json](./419879-jewelrift.json) |
 | Jewelry Hearts Academia: We Will Wing Wonder World | 210504 | [210504-jewelry-hearts-academia-we-will-wing-wonder-world.json](./210504-jewelry-hearts-academia-we-will-wing-wonder-world.json) |
+| Jewelry Nights Arcadia: The Ends of the World | 337943 | [337943-jewelry-nights-arcadia-the-ends-of-the-world.json](./337943-jewelry-nights-arcadia-the-ends-of-the-world.json) |
 | Jewels 20 | 73583 | [73583-jewels-20.json](./73583-jewels-20.json) |
 | Jewels Collection | 246553 | [246553-jewels-collection.json](./246553-jewels-collection.json) |
 | Jewels Deluxe | 108478 | [108478-jewels-deluxe.json](./108478-jewels-deluxe.json) |
