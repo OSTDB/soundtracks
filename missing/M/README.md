@@ -5701,6 +5701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -8540,6 +8541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Holder: Animal Kingdom | 325397 | [325397-memory-holder-animal-kingdom.json](./325397-memory-holder-animal-kingdom.json) |
 | Memory Holder: Scent of Life | 368180 | [368180-memory-holder-scent-of-life.json](./368180-memory-holder-scent-of-life.json) |
 | Memory Holder: The Alphabet | 347037 | [347037-memory-holder-the-alphabet.json](./347037-memory-holder-the-alphabet.json) |
+| Memory Holder: The Colors | 332162 | [332162-memory-holder-the-colors.json](./332162-memory-holder-the-colors.json) |
 | Memory Holder: Winds of Freedom | 339549 | [339549-memory-holder-winds-of-freedom.json](./339549-memory-holder-winds-of-freedom.json) |
 | Memory Holders: The Colors II | 392171 | [392171-memory-holders-the-colors-ii.json](./392171-memory-holders-the-colors-ii.json) |
 | Memory I | 68610 | [68610-memory-i.json](./68610-memory-i.json) |
