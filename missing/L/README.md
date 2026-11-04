@@ -660,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lancer Tactics | 375255 | [375255-lancer-tactics.json](./375255-lancer-tactics.json) |
 | Land Air Sea Warfare HD | 109017 | [109017-land-air-sea-warfare-hd.json](./109017-land-air-sea-warfare-hd.json) |
 | Land Before Time: Adventure Valley | 318945 | [318945-land-before-time-adventure-valley.json](./318945-land-before-time-adventure-valley.json) |
+| Land Builder | 341810 | [341810-land-builder.json](./341810-land-builder.json) |
 | Land Crashers | 114711 | [114711-land-crashers.json](./114711-land-crashers.json) |
 | Land der Hoffnung | 70747 | [70747-land-der-hoffnung.json](./70747-land-der-hoffnung.json) |
 | Land Develop | 387330 | [387330-land-develop.json](./387330-land-develop.json) |
