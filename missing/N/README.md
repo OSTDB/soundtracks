@@ -932,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsumatsuri | 366182 | [366182-natsumatsuri.json](./366182-natsumatsuri.json) |
 | Natsume Championship Wrestling | 42483 | [42483-natsume-championship-wrestling.json](./42483-natsume-championship-wrestling.json) |
 | Natsume Ryoran: Romance of Hi-Spec Yoko | 344798 | [344798-natsume-ryoran-romance-of-hi-spec-yoko.json](./344798-natsume-ryoran-romance-of-hi-spec-yoko.json) |
+| Natsume's Book of Friends: Hazuki no Shirushi | 343552 | [343552-natsumes-book-of-friends-hazuki-no-shirushi.json](./343552-natsumes-book-of-friends-hazuki-no-shirushi.json) |
 | Natsumegu | 59960 | [59960-natsumegu.json](./59960-natsumegu.json) |
 | Natsumi & Fuyuko: All That's Inbetween | 212802 | [212802-natsumi-and-fuyuko-all-thats-inbetween.json](./212802-natsumi-and-fuyuko-all-thats-inbetween.json) |
 | Natsumi and the Absurd Academy | 385841 | [385841-natsumi-and-the-absurd-academy.json](./385841-natsumi-and-the-absurd-academy.json) |
@@ -2460,6 +2461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Rider Drives Sports Car | 106832 | [106832-neon-rider-drives-sports-car.json](./106832-neon-rider-drives-sports-car.json) |
 | Neon River | 277814 | [277814-neon-river.json](./277814-neon-river.json) |
 | Neon Road | 221368 | [221368-neon-road.json](./221368-neon-road.json) |
+| Neon Roller | 343551 | [343551-neon-roller.json](./343551-neon-roller.json) |
 | Neon Ronin | 197507 | [197507-neon-ronin.json](./197507-neon-ronin.json) |
 | Neon Rumble | 292829 | [292829-neon-rumble.json](./292829-neon-rumble.json) |
 | Neon Run! | 249653 | [249653-neon-run.json](./249653-neon-run.json) |
@@ -3802,6 +3804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nice Bowling | 129953 | [129953-nice-bowling.json](./129953-nice-bowling.json) |
 | Nice City | 373490 | [373490-nice-city.json](./373490-nice-city.json) |
 | Nice Day for Fishing | 324939 | [324939-nice-day-for-fishing.json](./324939-nice-day-for-fishing.json) |
+| Nice Day for Fishing: Legendary DLC | 343550 | [343550-nice-day-for-fishing-legendary-dlc.json](./343550-nice-day-for-fishing-legendary-dlc.json) |
 | Nice de Shot: World Course Selections | 37907 | [37907-nice-de-shot-world-course-selections.json](./37907-nice-de-shot-world-course-selections.json) |
 | Nice Dice - 3D dice roller | 102724 | [102724-nice-dice-3d-dice-roller.json](./102724-nice-dice-3d-dice-roller.json) |
 | Nice Jumper | 121280 | [121280-nice-jumper.json](./121280-nice-jumper.json) |
@@ -6136,6 +6139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nom Nom Nom | 209650 | [209650-nom-nom-nom.json](./209650-nom-nom-nom.json) |
 | Nom Nom: Cozy Forest Café | 258535 | [258535-nom-nom-cozy-forest-cafe.json](./258535-nom-nom-cozy-forest-cafe.json) |
 | Nom Plant | 328943 | [328943-nom-plant.json](./328943-nom-plant.json) |
+| Nom: Billion Year Timequest | 343566 | [343566-nom-billion-year-timequest.json](./343566-nom-billion-year-timequest.json) |
 | Nomad | 403796 | [403796-nomad.json](./403796-nomad.json) |
 | Nomad Defender | 278951 | [278951-nomad-defender.json](./278951-nomad-defender.json) |
 | Nomad Drive | 340570 | [340570-nomad-drive.json](./340570-nomad-drive.json) |
