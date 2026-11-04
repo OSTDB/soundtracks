@@ -5173,6 +5173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Soldier: Special Version | 42026 | [42026-final-soldier-special-version.json](./42026-final-soldier-special-version.json) |
 | Final Soul | 57634 | [57634-final-soul.json](./57634-final-soul.json) |
 | Final Space: The Rescue | 187062 | [187062-final-space-the-rescue.json](./187062-final-space-the-rescue.json) |
+| Final Spin | 304413 | [304413-final-spin.json](./304413-final-spin.json) |
 | Final Splash | 386851 | [386851-final-splash.json](./386851-final-splash.json) |
 | Final Stand Waves | 394672 | [394672-final-stand-waves.json](./394672-final-stand-waves.json) |
 | Final Stand: Ragnarok | 133589 | [133589-final-stand-ragnarok.json](./133589-final-stand-ragnarok.json) |
@@ -6445,6 +6446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Planet: Krampus Catcher Pack | 366002 | [366002-fishing-planet-krampus-catcher-pack.json](./366002-fishing-planet-krampus-catcher-pack.json) |
 | Fishing Planet: Live Bait Fiesta Pack | 366013 | [366013-fishing-planet-live-bait-fiesta-pack.json](./366013-fishing-planet-live-bait-fiesta-pack.json) |
 | Fishing Planet: Lucky Start Bundle | 118865 | [118865-fishing-planet-lucky-start-bundle.json](./118865-fishing-planet-lucky-start-bundle.json) |
+| Fishing Planet: Ocean Voyager Pack | 304419 | [304419-fishing-planet-ocean-voyager-pack.json](./304419-fishing-planet-ocean-voyager-pack.json) |
 | Fishing Planet: Rainforest Journey Pack | 366007 | [366007-fishing-planet-rainforest-journey-pack.json](./366007-fishing-planet-rainforest-journey-pack.json) |
 | Fishing Planet: Sailor Collection Pack | 365990 | [365990-fishing-planet-sailor-collection-pack.json](./365990-fishing-planet-sailor-collection-pack.json) |
 | Fishing Planet: Saltwater Match Pack | 366012 | [366012-fishing-planet-saltwater-match-pack.json](./366012-fishing-planet-saltwater-match-pack.json) |
@@ -8588,6 +8590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fog | 204841 | [204841-fog.json](./204841-fog.json) |
 | FOG ...Seek the hidden truth | 126323 | [126323-fog-seek-the-hidden-truth.json](./126323-fog-seek-the-hidden-truth.json) |
 | Fog & Silver | 214144 | [214144-fog-and-silver.json](./214144-fog-and-silver.json) |
+| Fog and Sea | 304478 | [304478-fog-and-sea.json](./304478-fog-and-sea.json) |
 | Fog Horror | 235892 | [235892-fog-horror.json](./235892-fog-horror.json) |
 | Fog of Life | 176403 | [176403-fog-of-life.json](./176403-fog-of-life.json) |
 | Fog of War | 29953 | [29953-fog-of-war.json](./29953-fog-of-war.json) |
