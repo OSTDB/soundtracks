@@ -8150,6 +8150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dispatcher | 329003 | [329003-the-dispatcher.json](./329003-the-dispatcher.json) |
 | The Displacement | 316712 | [316712-the-displacement.json](./316712-the-displacement.json) |
 | The Distant Circular World | 395381 | [395381-the-distant-circular-world.json](./395381-the-distant-circular-world.json) |
+| The Distant Planet | 313369 | [313369-the-distant-planet.json](./313369-the-distant-planet.json) |
 | The Distortion Beast | 299141 | [299141-the-distortion-beast.json](./299141-the-distortion-beast.json) |
 | The District | 35538 | [35538-the-district.json](./35538-the-district.json) |
 | The Ditty of Carmeana | 58592 | [58592-the-ditty-of-carmeana.json](./58592-the-ditty-of-carmeana.json) |
@@ -12577,6 +12578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Limb | 319694 | [319694-the-limb.json](./319694-the-limb.json) |
 | The Limbo of Loss | 183345 | [183345-the-limbo-of-loss.json](./183345-the-limbo-of-loss.json) |
 | The Liminal | 372130 | [372130-the-liminal.json](./372130-the-liminal.json) |
+| The Liminal Dimension | 313378 | [313378-the-liminal-dimension.json](./313378-the-liminal-dimension.json) |
 | The Liminal Space | 289988 | [289988-the-liminal-space.json](./289988-the-liminal-space.json) |
 | The Liminal Theory | 312130 | [312130-the-liminal-theory.json](./312130-the-liminal-theory.json) |
 | The Line | 149233 | [149233-the-line.json](./149233-the-line.json) |
@@ -24514,6 +24516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's Underground | 2698 | [2698-tony-hawks-underground.json](./2698-tony-hawks-underground.json) |
 | Tony Hawk's Underground 2 | 2699 | [2699-tony-hawks-underground-2.json](./2699-tony-hawks-underground-2.json) |
 | Tony Hawk's Underground 2: Ricco Harbor | 314451 | [314451-tony-hawks-underground-2-ricco-harbor.json](./314451-tony-hawks-underground-2-ricco-harbor.json) |
+| Tony Hawk's Underground 2: SideScroll | 313404 | [313404-tony-hawks-underground-2-sidescroll.json](./313404-tony-hawks-underground-2-sidescroll.json) |
 | Tony Hawk's Underground 2: The Shell Secret | 314453 | [314453-tony-hawks-underground-2-the-shell-secret.json](./314453-tony-hawks-underground-2-the-shell-secret.json) |
 | Tony Hawk's Underground 2: Wuhu Island from Mario Kart 7 | 314454 | [314454-tony-hawks-underground-2-wuhu-island-from-mario-kart-7.json](./314454-tony-hawks-underground-2-wuhu-island-from-mario-kart-7.json) |
 | Tony Hawk's Vert | 199792 | [199792-tony-hawks-vert.json](./199792-tony-hawks-vert.json) |
