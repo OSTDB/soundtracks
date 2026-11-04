@@ -8390,6 +8390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship v Maze | 376281 | [376281-ship-v-maze.json](./376281-ship-v-maze.json) |
 | Ship War | 179339 | [179339-ship-war.json](./179339-ship-war.json) |
 | Ship Wreck | 268334 | [268334-ship-wreck.json](./268334-ship-wreck.json) |
+| Ship, Inc. | 335588 | [335588-ship-inc.json](./335588-ship-inc.json) |
 | Ship's Cat | 292392 | [292392-ships-cat.json](./292392-ships-cat.json) |
 | Shipbreakers | 107366 | [107366-shipbreakers.json](./107366-shipbreakers.json) |
 | ShipCrafter | 371975 | [371975-shipcrafter.json](./371975-shipcrafter.json) |
@@ -16739,6 +16740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Escape | 370218 | [370218-sonic-escape.json](./370218-sonic-escape.json) |
 | Sonic Essence | 337174 | [337174-sonic-essence.json](./337174-sonic-essence.json) |
 | Sonic Eternal Rings | 330322 | [330322-sonic-eternal-rings.json](./330322-sonic-eternal-rings.json) |
+| Sonic Eurospinball | 335599 | [335599-sonic-eurospinball.json](./335599-sonic-eurospinball.json) |
 | Sonic EVO | 331724 | [331724-sonic-evo.json](./331724-sonic-evo.json) |
 | Sonic Exe One More Round | 307225 | [307225-sonic-exe-one-more-round.json](./307225-sonic-exe-one-more-round.json) |
 | Sonic Exe One More Time | 307224 | [307224-sonic-exe-one-more-time.json](./307224-sonic-exe-one-more-time.json) |
@@ -17428,6 +17430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sono Hanabira ni Kuchizuke wo: Tenshi no Hanabira Zome | 12219 | [12219-sono-hanabira-ni-kuchizuke-wo-tenshi-no-hanabira-zome.json](./12219-sono-hanabira-ni-kuchizuke-wo-tenshi-no-hanabira-zome.json) |
 | Sono Hanabira ni Kuchizuke wo: Tenshi-tachi no Harukoi | 12272 | [12272-sono-hanabira-ni-kuchizuke-wo-tenshi-tachi-no-harukoi.json](./12272-sono-hanabira-ni-kuchizuke-wo-tenshi-tachi-no-harukoi.json) |
 | Sono Hanabira: YuriCycle | 251697 | [251697-sono-hanabira-yuricycle.json](./251697-sono-hanabira-yuricycle.json) |
+| Sono Hi no Kemono ni ha | 335579 | [335579-sono-hi-no-kemono-ni-ha.json](./335579-sono-hi-no-kemono-ni-ha.json) |
 | Sono Higurashi vs. Touhou Universe | 195851 | [195851-sono-higurashi-vs-touhou-universe.json](./195851-sono-higurashi-vs-touhou-universe.json) |
 | Sono Higurashi vs. Touhou Universe 2 | 213210 | [213210-sono-higurashi-vs-touhou-universe-2.json](./213210-sono-higurashi-vs-touhou-universe-2.json) |
 | Sono Kaori de Mitasaretai: #7b5544 no Koi wo Shita Watashi no Hajimete wo Master ni Agetai | 412315 | [412315-sono-kaori-de-mitasaretai-7b5544-no-koi-wo-shita-watashi-no-hajimete-wo-master-ni-agetai.json](./412315-sono-kaori-de-mitasaretai-7b5544-no-koi-wo-shita-watashi-no-hajimete-wo-master-ni-agetai.json) |
@@ -19775,6 +19778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark Spark | 284255 | [284255-spark-spark.json](./284255-spark-spark.json) |
 | Spark the Electric Jester 2 | 118119 | [118119-spark-the-electric-jester-2.json](./118119-spark-the-electric-jester-2.json) |
 | Spark the Electric Jester: Recharged | 337175 | [337175-spark-the-electric-jester-recharged.json](./337175-spark-the-electric-jester-recharged.json) |
+| Spark: Hero Tactics | 335596 | [335596-spark-hero-tactics.json](./335596-spark-hero-tactics.json) |
 | Spark! Photon Blast | 369082 | [369082-spark-photon-blast.json](./369082-spark-photon-blast.json) |
 | SparkBlast | 301507 | [301507-sparkblast.json](./301507-sparkblast.json) |
 | SparkChess | 110728 | [110728-sparkchess.json](./110728-sparkchess.json) |
@@ -22616,6 +22620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SSB Scene Creator | 328342 | [328342-ssb-scene-creator.json](./328342-ssb-scene-creator.json) |
 | SSGN Covert Cruise Special Attack Strategy | 112159 | [112159-ssgn-covert-cruise-special-attack-strategy.json](./112159-ssgn-covert-cruise-special-attack-strategy.json) |
 | SShield Reborn | 90176 | [90176-sshield-reborn.json](./90176-sshield-reborn.json) |
+| SSI Classics | 335614 | [335614-ssi-classics.json](./335614-ssi-classics.json) |
 | SSN-21 Seawolf | 92778 | [92778-ssn-21-seawolf.json](./92778-ssn-21-seawolf.json) |
 | sspp03's Super Mario Bros. Hack | 322818 | [322818-sspp03s-super-mario-bros-hack.json](./322818-sspp03s-super-mario-bros-hack.json) |
 | SSR Wives: The Murder Of My Winter Crush | 296468 | [296468-ssr-wives-the-murder-of-my-winter-crush.json](./296468-ssr-wives-the-murder-of-my-winter-crush.json) |
@@ -22872,6 +22877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stand: Survive, Team-up, And Never Die | 322445 | [322445-stand-survive-team-up-and-never-die.json](./322445-stand-survive-team-up-and-never-die.json) |
 | Standalone: Synergy | 274324 | [274324-standalone-synergy.json](./274324-standalone-synergy.json) |
 | Standard Bits | 108835 | [108835-standard-bits.json](./108835-standard-bits.json) |
+| Standard Dev1ations GGB: Grim Gauntlet Beneath | 335595 | [335595-standard-dev1ations-ggb-grim-gauntlet-beneath.json](./335595-standard-dev1ations-ggb-grim-gauntlet-beneath.json) |
 | Standard Human Pizza | 398769 | [398769-standard-human-pizza.json](./398769-standard-human-pizza.json) |
 | Standard Legend | 116365 | [116365-standard-legend.json](./116365-standard-legend.json) |
 | Standard Snake | 87156 | [87156-standard-snake.json](./87156-standard-snake.json) |
