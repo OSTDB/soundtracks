@@ -4131,6 +4131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GigaBash: Godzilla - Nemesis DLC | 301437 | [301437-gigabash-godzilla-nemesis-dlc.json](./301437-gigabash-godzilla-nemesis-dlc.json) |
 | GigaBash: Godzilla 4 Kaiju Pack | 246891 | [246891-gigabash-godzilla-4-kaiju-pack.json](./246891-gigabash-godzilla-4-kaiju-pack.json) |
 | GigaBash: MechaJuras | 347860 | [347860-gigabash-mechajuras.json](./347860-gigabash-mechajuras.json) |
+| GigaBash: Mighty DLC - R.O.J.A.K & Balzarr | 315986 | [315986-gigabash-mighty-dlc-r-o-j-a-k-and-balzarr.json](./315986-gigabash-mighty-dlc-r-o-j-a-k-and-balzarr.json) |
 | GigaBash: Ultraman - Rising DLC | 404829 | [404829-gigabash-ultraman-rising-dlc.json](./404829-gigabash-ultraman-rising-dlc.json) |
 | GigaBash: Ultraman Zero | 404820 | [404820-gigabash-ultraman-zero.json](./404820-gigabash-ultraman-zero.json) |
 | Gigabit | 194346 | [194346-gigabit.json](./194346-gigabit.json) |
@@ -8713,6 +8714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greenland | 291877 | [291877-greenland.json](./291877-greenland.json) |
 | Greenlander | 236838 | [236838-greenlander.json](./236838-greenlander.json) |
 | Greenman | 276804 | [276804-greenman.json](./276804-greenman.json) |
+| Greenmario In Bobbing My Burger | 316306 | [316306-greenmario-in-bobbing-my-burger.json](./316306-greenmario-in-bobbing-my-burger.json) |
 | GreenQuest: Monsters & Threats | 345217 | [345217-greenquest-monsters-and-threats.json](./345217-greenquest-monsters-and-threats.json) |
 | Greenrise | 416836 | [416836-greenrise.json](./416836-greenrise.json) |
 | greenTech+ | 54058 | [54058-greentech.json](./54058-greentech.json) |
