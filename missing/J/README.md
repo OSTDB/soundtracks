@@ -2267,6 +2267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joe Montana II: Sports Talk Football | 19491 | [19491-joe-montana-ii-sports-talk-football.json](./19491-joe-montana-ii-sports-talk-football.json) |
 | Joe Montana's NFL Football | 46419 | [46419-joe-montanas-nfl-football.json](./46419-joe-montanas-nfl-football.json) |
 | Joe Quake | 381655 | [381655-joe-quake.json](./381655-joe-quake.json) |
+| Joe Rules: Reloaded | 341950 | [341950-joe-rules-reloaded.json](./341950-joe-rules-reloaded.json) |
 | Joe vs. The Joneses | 175170 | [175170-joe-vs-the-joneses.json](./175170-joe-vs-the-joneses.json) |
 | Joe vs. The Wall | 264308 | [264308-joe-vs-the-wall.json](./264308-joe-vs-the-wall.json) |
 | Joe Wander and the Enigmatic Adventures | 222929 | [222929-joe-wander-and-the-enigmatic-adventures.json](./222929-joe-wander-and-the-enigmatic-adventures.json) |
@@ -3547,6 +3548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junkfood | 261958 | [261958-junkfood.json](./261958-junkfood.json) |
 | Junkfood 2: Summertime Slotter | 296185 | [296185-junkfood-2-summertime-slotter.json](./296185-junkfood-2-summertime-slotter.json) |
 | Junkfood 3: Wow Wow West | 307812 | [307812-junkfood-3-wow-wow-west.json](./307812-junkfood-3-wow-wow-west.json) |
+| Junkfood 4: Slotterween | 341804 | [341804-junkfood-4-slotterween.json](./341804-junkfood-4-slotterween.json) |
 | Junkienator | 211007 | [211007-junkienator.json](./211007-junkienator.json) |
 | Junkineering | 320866 | [320866-junkineering.json](./320866-junkineering.json) |
 | Junkland Jam | 92097 | [92097-junkland-jam.json](./92097-junkland-jam.json) |
