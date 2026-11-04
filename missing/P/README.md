@@ -1463,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Pastaria | 210501 | [210501-papas-pastaria.json](./210501-papas-pastaria.json) |
 | Papa's Pastaria To Go! | 420003 | [420003-papas-pastaria-to-go.json](./420003-papas-pastaria-to-go.json) |
 | Papa's Pizzeria | 206853 | [206853-papas-pizzeria.json](./206853-papas-pizzeria.json) |
+| Papa's Pizzeria Deluxe | 322500 | [322500-papas-pizzeria-deluxe.json](./322500-papas-pizzeria-deluxe.json) |
 | Papa's Pizzeria HD | 86919 | [86919-papas-pizzeria-hd.json](./86919-papas-pizzeria-hd.json) |
 | Papa's Pizzeria to Go! | 96296 | [96296-papas-pizzeria-to-go.json](./96296-papas-pizzeria-to-go.json) |
 | Papa's Quiz | 142177 | [142177-papas-quiz.json](./142177-papas-quiz.json) |
@@ -5727,6 +5728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pic-a-Pix Pieces: 20x20 Pieces Pack 8 | 404328 | [404328-pic-a-pix-pieces-20x20-pieces-pack-8.json](./404328-pic-a-pix-pieces-20x20-pieces-pack-8.json) |
 | Pic-a-Pix Pieces: 20x20 Pieces Pack 9 | 404329 | [404329-pic-a-pix-pieces-20x20-pieces-pack-9.json](./404329-pic-a-pix-pieces-20x20-pieces-pack-9.json) |
 | Pic-Man | 279611 | [279611-pic-man.json](./279611-pic-man.json) |
+| Pic-Me! | 322476 | [322476-pic-me.json](./322476-pic-me.json) |
 | Pica | 363578 | [363578-pica.json](./363578-pica.json) |
 | Picaboo Star | 175330 | [175330-picaboo-star.json](./175330-picaboo-star.json) |
 | Picamor | 181215 | [181215-picamor.json](./181215-picamor.json) |
