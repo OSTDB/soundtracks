@@ -2045,6 +2045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IL-2 Sturmovik: Ten Days of Autumn Campaign | 267663 | [267663-il-2-sturmovik-ten-days-of-autumn-campaign.json](./267663-il-2-sturmovik-ten-days-of-autumn-campaign.json) |
 | Il-2 Sturmovik: Ultimate Edition | 146130 | [146130-il-2-sturmovik-ultimate-edition.json](./146130-il-2-sturmovik-ultimate-edition.json) |
 | IL13-Sonya E-Links | 331235 | [331235-il13-sonya-e-links.json](./331235-il13-sonya-e-links.json) |
+| Ila: A Frosty Glide | 305076 | [305076-ila-a-frosty-glide.json](./305076-ila-a-frosty-glide.json) |
 | Ilamentia | 36133 | [36133-ilamentia.json](./36133-ilamentia.json) |
 | Ilavath: Battle Arenas | 291723 | [291723-ilavath-battle-arenas.json](./291723-ilavath-battle-arenas.json) |
 | Ilbis: The Ocean of Death | 83873 | [83873-ilbis-the-ocean-of-death.json](./83873-ilbis-the-ocean-of-death.json) |
@@ -6558,6 +6559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iveri: The 1.000 Story | 368264 | [368264-iveri-the-1-000-story.json](./368264-iveri-the-1-000-story.json) |
 | Iverian Wars: Craxion vs Defugel | 131225 | [131225-iverian-wars-craxion-vs-defugel.json](./131225-iverian-wars-craxion-vs-defugel.json) |
 | Ivilyn Kingdoms | 391142 | [391142-ivilyn-kingdoms.json](./391142-ivilyn-kingdoms.json) |
+| Ivor | 305112 | [305112-ivor.json](./305112-ivor.json) |
 | Ivory Springs | 87804 | [87804-ivory-springs.json](./87804-ivory-springs.json) |
 | Ivri | 291511 | [291511-ivri.json](./291511-ivri.json) |
 | Ivy the Kiwi? Mini | 85204 | [85204-ivy-the-kiwi-mini.json](./85204-ivy-the-kiwi-mini.json) |
