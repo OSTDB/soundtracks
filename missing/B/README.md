@@ -2074,10 +2074,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo-Kazooie Santa's Village | 300252 | [300252-banjo-kazooie-santas-village.json](./300252-banjo-kazooie-santas-village.json) |
 | Banjo-Kazooie Worlds Collide | 135259 | [135259-banjo-kazooie-worlds-collide.json](./135259-banjo-kazooie-worlds-collide.json) |
 | Banjo-Kazooie: Bob-omb Battlefield | 201770 | [201770-banjo-kazooie-bob-omb-battlefield.json](./201770-banjo-kazooie-bob-omb-battlefield.json) |
+| Banjo-Kazooie: Bubbling Bog Brewery Redone | 339027 | [339027-banjo-kazooie-bubbling-bog-brewery-redone.json](./339027-banjo-kazooie-bubbling-bog-brewery-redone.json) |
 | Banjo-Kazooie: Cut-Throat Coast | 271942 | [271942-banjo-kazooie-cut-throat-coast.json](./271942-banjo-kazooie-cut-throat-coast.json) |
 | Banjo-Kazooie: Donkey Kong Country | 201772 | [201772-banjo-kazooie-donkey-kong-country.json](./201772-banjo-kazooie-donkey-kong-country.json) |
 | Banjo-Kazooie: Fort Fun | 338821 | [338821-banjo-kazooie-fort-fun.json](./338821-banjo-kazooie-fort-fun.json) |
 | Banjo-Kazooie: Legend of the Crystal Jiggy | 172671 | [172671-banjo-kazooie-legend-of-the-crystal-jiggy.json](./172671-banjo-kazooie-legend-of-the-crystal-jiggy.json) |
+| Banjo-Kazooie: New Snow Glow Village | 339026 | [339026-banjo-kazooie-new-snow-glow-village.json](./339026-banjo-kazooie-new-snow-glow-village.json) |
 | Banjo-Kazooie: Nostalgia 64 | 154990 | [154990-banjo-kazooie-nostalgia-64.json](./154990-banjo-kazooie-nostalgia-64.json) |
 | Banjo-Kazooie: Nuts & Bolts | 3008 | [3008-banjo-kazooie-nuts-and-bolts.json](./3008-banjo-kazooie-nuts-and-bolts.json) |
 | Banjo-Kazooie: Nuts & Bolts - L.O.G.'s Lost Challenges | 229855 | [229855-banjo-kazooie-nuts-and-bolts-l-o-g-s-lost-challenges.json](./229855-banjo-kazooie-nuts-and-bolts-l-o-g-s-lost-challenges.json) |
@@ -16754,6 +16756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumpkin & Sprout | 369531 | [369531-bumpkin-and-sprout.json](./369531-bumpkin-and-sprout.json) |
 | Bumpkin and Sprout | 270025 | [270025-bumpkin-and-sprout.json](./270025-bumpkin-and-sprout.json) |
 | Bumps | 21265 | [21265-bumps.json](./21265-bumps.json) |
+| Bumptz Science Carnival | 339040 | [339040-bumptz-science-carnival.json](./339040-bumptz-science-carnival.json) |
 | BumpUpGhostBuster | 234717 | [234717-bumpupghostbuster.json](./234717-bumpupghostbuster.json) |
 | Bumpy | 13454 | [13454-bumpy.json](./13454-bumpy.json) |
 | Bumpy Jumpy | 305374 | [305374-bumpy-jumpy.json](./305374-bumpy-jumpy.json) |
