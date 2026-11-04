@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafe Venus Flytrap | 247458 | [247458-cafe-venus-flytrap.json](./247458-cafe-venus-flytrap.json) |
 | Cafeland: Restaurant Cooking | 233478 | [233478-cafeland-restaurant-cooking.json](./233478-cafeland-restaurant-cooking.json) |
 | Cafeland: World Kitchen | 120253 | [120253-cafeland-world-kitchen.json](./120253-cafeland-world-kitchen.json) |
+| Cafemart Simulator | 331049 | [331049-cafemart-simulator.json](./331049-cafemart-simulator.json) |
 | Cafeteria Nipponica | 22323 | [22323-cafeteria-nipponica.json](./22323-cafeteria-nipponica.json) |
 | Cafeworld | 177027 | [177027-cafeworld.json](./177027-cafeworld.json) |
 | Caff Roulette | 201978 | [201978-caff-roulette.json](./201978-caff-roulette.json) |
@@ -10928,6 +10929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffie Simulator | 345613 | [345613-coffie-simulator.json](./345613-coffie-simulator.json) |
 | Coffin | 94136 | [94136-coffin.json](./94136-coffin.json) |
 | Coffin Counseling | 179704 | [179704-coffin-counseling.json](./179704-coffin-counseling.json) |
+| Coffin Delivery | 331054 | [331054-coffin-delivery.json](./331054-coffin-delivery.json) |
 | Coffin Mall | 175615 | [175615-coffin-mall.json](./175615-coffin-mall.json) |
 | Coffin of Ashes | 30864 | [30864-coffin-of-ashes.json](./30864-coffin-of-ashes.json) |
 | Coffin Rot Brewing Co. | 121291 | [121291-coffin-rot-brewing-co.json](./121291-coffin-rot-brewing-co.json) |
