@@ -4250,6 +4250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whimpact! | 378538 | [378538-whimpact.json](./378538-whimpact.json) |
 | Whimre | 252228 | [252228-whimre.json](./252228-whimre.json) |
 | Whimsical Quest | 111421 | [111421-whimsical-quest.json](./111421-whimsical-quest.json) |
+| Whimsical Wizardry | 303964 | [303964-whimsical-wizardry.json](./303964-whimsical-wizardry.json) |
 | Whimsy | 126214 | [126214-whimsy.json](./126214-whimsy.json) |
 | Whimsy Bake ＆ Craft | 349469 | [349469-whimsy-bake-and-craft.json](./349469-whimsy-bake-and-craft.json) |
 | Whimsy Koi | 384307 | [384307-whimsy-koi.json](./384307-whimsy-koi.json) |
@@ -4282,6 +4283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whirlygig | 105178 | [105178-whirlygig.json](./105178-whirlygig.json) |
 | Whiskara | 324954 | [324954-whiskara.json](./324954-whiskara.json) |
 | Whisker Cowboy | 385625 | [385625-whisker-cowboy.json](./385625-whisker-cowboy.json) |
+| Whisker President | 302880 | [302880-whisker-president.json](./302880-whisker-president.json) |
 | Whisker Squadron | 145504 | [145504-whisker-squadron.json](./145504-whisker-squadron.json) |
 | Whisker Squadron: Survivor | 229193 | [229193-whisker-squadron-survivor.json](./229193-whisker-squadron-survivor.json) |
 | Whisker Wanderlust: The Wondrous Journey | 349100 | [349100-whisker-wanderlust-the-wondrous-journey.json](./349100-whisker-wanderlust-the-wondrous-journey.json) |
@@ -8832,6 +8834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestling Revolution Pro | 91987 | [91987-wrestling-revolution-pro.json](./91987-wrestling-revolution-pro.json) |
 | Wrestling Spirit 3 | 24755 | [24755-wrestling-spirit-3.json](./24755-wrestling-spirit-3.json) |
 | Wrestling Superstars | 125616 | [125616-wrestling-superstars.json](./125616-wrestling-superstars.json) |
+| Wrestling Trivia | 303201 | [303201-wrestling-trivia.json](./303201-wrestling-trivia.json) |
 | Wrestling Universe: Fire Pro Women - Dome Super Female Big Battle: All Japan Women VS J.W.P. | 37627 | [37627-wrestling-universe-fire-pro-women-dome-super-female-big-battle-all-japan-women-vs-j-w-p.json](./37627-wrestling-universe-fire-pro-women-dome-super-female-big-battle-all-japan-women-vs-j-w-p.json) |
 | Wrestling With Emotions | 138546 | [138546-wrestling-with-emotions.json](./138546-wrestling-with-emotions.json) |
 | Wret | 352871 | [352871-wret.json](./352871-wret.json) |
