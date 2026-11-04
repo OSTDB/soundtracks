@@ -2037,6 +2037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekomancer of Nowhere | 325512 | [325512-nekomancer-of-nowhere.json](./325512-nekomancer-of-nowhere.json) |
 | Nekomancer: Seeded by Darkness | 211554 | [211554-nekomancer-seeded-by-darkness.json](./211554-nekomancer-seeded-by-darkness.json) |
 | Nekomancy | 213440 | [213440-nekomancy.json](./213440-nekomancy.json) |
+| Nekomata Tantei-sha | 308729 | [308729-nekomata-tantei-sha.json](./308729-nekomata-tantei-sha.json) |
 | Nekome: Nazi Hunter | 388249 | [388249-nekome-nazi-hunter.json](./388249-nekome-nazi-hunter.json) |
 | Nekomew's Nightmares | 212701 | [212701-nekomews-nightmares.json](./212701-nekomews-nightmares.json) |
 | Nekomew's Potty Trouble | 81921 | [81921-nekomews-potty-trouble.json](./81921-nekomews-potty-trouble.json) |
@@ -6709,6 +6710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Involved: Vermillion | 236320 | [236320-not-involved-vermillion.json](./236320-not-involved-vermillion.json) |
 | Not Just a Hat Rack | 228396 | [228396-not-just-a-hat-rack.json](./228396-not-just-a-hat-rack.json) |
 | Not Just An Ordinary Ballerina | 60018 | [60018-not-just-an-ordinary-ballerina.json](./60018-not-just-an-ordinary-ballerina.json) |
+| Not Like Us: The Game | 308755 | [308755-not-like-us-the-game.json](./308755-not-like-us-the-game.json) |
 | Not Lonely Up! | 386338 | [386338-not-lonely-up.json](./386338-not-lonely-up.json) |
 | Not Match | 232147 | [232147-not-match.json](./232147-not-match.json) |
 | Not Me! | 235663 | [235663-not-me.json](./235663-not-me.json) |
