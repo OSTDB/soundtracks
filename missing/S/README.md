@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saga of Weil | 265094 | [265094-saga-of-weil.json](./265094-saga-of-weil.json) |
 | Saga of Yurina | 373196 | [373196-saga-of-yurina.json](./373196-saga-of-yurina.json) |
 | Saga Star | 413203 | [413203-saga-star.json](./413203-saga-star.json) |
+| Saga the Mouse | 325188 | [325188-saga-the-mouse.json](./325188-saga-the-mouse.json) |
 | SaGa: Emerald Beyond | 266681 | [266681-saga-emerald-beyond.json](./266681-saga-emerald-beyond.json) |
 | Saga: Rage of the Vikings | 46968 | [46968-saga-rage-of-the-vikings.json](./46968-saga-rage-of-the-vikings.json) |
 | SaGa: Scarlet Grace - Ambitions | 119373 | [119373-saga-scarlet-grace-ambitions.json](./119373-saga-scarlet-grace-ambitions.json) |
@@ -8427,6 +8428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShipLord | 19326 | [19326-shiplord.json](./19326-shiplord.json) |
 | Shipmatch | 256232 | [256232-shipmatch.json](./256232-shipmatch.json) |
 | ShipOS 1994 | 312191 | [312191-shipos-1994.json](./312191-shipos-1994.json) |
+| Shippin | 325204 | [325204-shippin.json](./325204-shippin.json) |
 | Shipping Nightmares | 335220 | [335220-shipping-nightmares.json](./335220-shipping-nightmares.json) |
 | Shipping Out! | 185383 | [185383-shipping-out.json](./185383-shipping-out.json) |
 | Shippuu! Iron Leaguer | 61391 | [61391-shippuu-iron-leaguer.json](./61391-shippuu-iron-leaguer.json) |
@@ -10890,6 +10892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sin Slayers: Meat & Greed | 370373 | [370373-sin-slayers-meat-and-greed.json](./370373-sin-slayers-meat-and-greed.json) |
 | Sin Slayers: Pharmacist | 155061 | [155061-sin-slayers-pharmacist.json](./155061-sin-slayers-pharmacist.json) |
 | Sin Slayers: Reign of The 8th | 291758 | [291758-sin-slayers-reign-of-the-8th.json](./291758-sin-slayers-reign-of-the-8th.json) |
+| Sin Squad: Stealth Assassins | 325206 | [325206-sin-squad-stealth-assassins.json](./325206-sin-squad-stealth-assassins.json) |
 | Sin Survivor | 151138 | [151138-sin-survivor.json](./151138-sin-survivor.json) |
 | Sin VR | 127834 | [127834-sin-vr.json](./127834-sin-vr.json) |
 | Sin Zero | 361054 | [361054-sin-zero.json](./361054-sin-zero.json) |
@@ -15273,6 +15276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Battles | 170251 | [170251-soccer-battles.json](./170251-soccer-battles.json) |
 | Soccer Boss | 190209 | [190209-soccer-boss.json](./190209-soccer-boss.json) |
 | Soccer Brawl | 39843 | [39843-soccer-brawl.json](./39843-soccer-brawl.json) |
+| Soccer Bros | 325227 | [325227-soccer-bros.json](./325227-soccer-bros.json) |
 | Soccer But Different | 209666 | [209666-soccer-but-different.json](./209666-soccer-but-different.json) |
 | Soccer Challenge | 361111 | [361111-soccer-challenge.json](./361111-soccer-challenge.json) |
 | Soccer Championship | 108468 | [108468-soccer-championship.json](./108468-soccer-championship.json) |
@@ -16651,6 +16655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic and the Black Knight | 5166 | [5166-sonic-and-the-black-knight.json](./5166-sonic-and-the-black-knight.json) |
 | Sonic and the Black Knight HD | 336365 | [336365-sonic-and-the-black-knight-hd.json](./336365-sonic-and-the-black-knight-hd.json) |
 | Sonic and the Dragon's Path | 334684 | [334684-sonic-and-the-dragons-path.json](./334684-sonic-and-the-dragons-path.json) |
+| Sonic and the Dreamcatcher | 325194 | [325194-sonic-and-the-dreamcatcher.json](./325194-sonic-and-the-dreamcatcher.json) |
 | Sonic and the Elements of Harmony | 326501 | [326501-sonic-and-the-elements-of-harmony.json](./326501-sonic-and-the-elements-of-harmony.json) |
 | Sonic and the Fallen Star | 207176 | [207176-sonic-and-the-fallen-star.json](./207176-sonic-and-the-fallen-star.json) |
 | Sonic and the Mayhem Master | 321076 | [321076-sonic-and-the-mayhem-master.json](./321076-sonic-and-the-mayhem-master.json) |
@@ -16850,6 +16855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Gaiden | 305282 | [305282-sonic-gaiden.json](./305282-sonic-gaiden.json) |
 | Sonic Galactic | 185938 | [185938-sonic-galactic.json](./185938-sonic-galactic.json) |
 | Sonic Gallery | 330528 | [330528-sonic-gallery.json](./330528-sonic-gallery.json) |
+| Sonic Game Land | 325192 | [325192-sonic-game-land.json](./325192-sonic-game-land.json) |
 | Sonic Gamebook Origins | 316346 | [316346-sonic-gamebook-origins.json](./316346-sonic-gamebook-origins.json) |
 | Sonic Gamma | 326135 | [326135-sonic-gamma.json](./326135-sonic-gamma.json) |
 | Sonic Gammon | 261275 | [261275-sonic-gammon.json](./261275-sonic-gammon.json) |
@@ -17006,6 +17012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Overdrive | 331388 | [331388-sonic-overdrive.json](./331388-sonic-overdrive.json) |
 | Sonic Overture | 332645 | [332645-sonic-overture.json](./332645-sonic-overture.json) |
 | Sonic Overture '95 | 296026 | [296026-sonic-overture-95.json](./296026-sonic-overture-95.json) |
+| Sonic Oxilary | 325190 | [325190-sonic-oxilary.json](./325190-sonic-oxilary.json) |
 | Sonic P-06 | 148406 | [148406-sonic-p-06.json](./148406-sonic-p-06.json) |
 | Sonic Panel Puzzle | 261274 | [261274-sonic-panel-puzzle.json](./261274-sonic-panel-puzzle.json) |
 | Sonic Paradigm | 333935 | [333935-sonic-paradigm.json](./333935-sonic-paradigm.json) |
@@ -17345,6 +17352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Unleashed | 133943 | [133943-sonic-unleashed.json](./133943-sonic-unleashed.json) |
 | Sonic Unleashed | 5169 | [5169-sonic-unleashed.json](./5169-sonic-unleashed.json) |
 | Sonic Unleashed + | 316502 | [316502-sonic-unleashed.json](./316502-sonic-unleashed.json) |
+| Sonic Unleashed 2D | 325191 | [325191-sonic-unleashed-2d.json](./325191-sonic-unleashed-2d.json) |
 | Sonic Unleashed 3DS | 370488 | [370488-sonic-unleashed-3ds.json](./370488-sonic-unleashed-3ds.json) |
 | Sonic Unleashed: Apotos & Shamar Adventure Pack | 334240 | [334240-sonic-unleashed-apotos-and-shamar-adventure-pack.json](./334240-sonic-unleashed-apotos-and-shamar-adventure-pack.json) |
 | Sonic Unleashed: Chun-nan Adventure Pack | 337214 | [337214-sonic-unleashed-chun-nan-adventure-pack.json](./337214-sonic-unleashed-chun-nan-adventure-pack.json) |
@@ -17690,6 +17698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soreyuke Ebisumaru: Karakuri Meiro - Kieta Goemon no Nazo | 44446 | [44446-soreyuke-ebisumaru-karakuri-meiro-kieta-goemon-no-nazo.json](./44446-soreyuke-ebisumaru-karakuri-meiro-kieta-goemon-no-nazo.json) |
 | Soreyuke!! Kid: Go! Go! Kid | 64507 | [64507-soreyuke-kid-go-go-kid.json](./64507-soreyuke-kid-go-go-kid.json) |
 | Sorgina: A Tale of Witches | 36460 | [36460-sorgina-a-tale-of-witches.json](./36460-sorgina-a-tale-of-witches.json) |
+| Soro: The Stolen Crystals | 325198 | [325198-soro-the-stolen-crystals.json](./325198-soro-the-stolen-crystals.json) |
 | Soroban Anzan Flash Anzan Kanzenban | 222472 | [222472-soroban-anzan-flash-anzan-kanzenban.json](./222472-soroban-anzan-flash-anzan-kanzenban.json) |
 | Soroban Gu | 37318 | [37318-soroban-gu.json](./37318-soroban-gu.json) |
 | Soroekes Addictive Puzzle | 206560 | [206560-soroekes-addictive-puzzle.json](./206560-soroekes-addictive-puzzle.json) |
@@ -18923,6 +18932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
 | Space Hunter | 271175 | [271175-space-hunter.json](./271175-space-hunter.json) |
 | Space Hunter 3 | 208129 | [208129-space-hunter-3.json](./208129-space-hunter-3.json) |
+| Space Hunters | 325217 | [325217-space-hunters.json](./325217-space-hunters.json) |
 | Space Hurricane | 385796 | [385796-space-hurricane.json](./385796-space-hurricane.json) |
 | Space Hurricane Storm | 102388 | [102388-space-hurricane-storm.json](./102388-space-hurricane-storm.json) |
 | Space Hurricane Storm: 2 Edition | 105659 | [105659-space-hurricane-storm-2-edition.json](./105659-space-hurricane-storm-2-edition.json) |
@@ -25194,6 +25204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Bounty | 381966 | [381966-steel-bounty.json](./381966-steel-bounty.json) |
 | Steel Bridge Hidden Deep In The Mountains | 398136 | [398136-steel-bridge-hidden-deep-in-the-mountains.json](./398136-steel-bridge-hidden-deep-in-the-mountains.json) |
 | Steel Carnelian | 344031 | [344031-steel-carnelian.json](./344031-steel-carnelian.json) |
+| Steel Century Groove | 325353 | [325353-steel-century-groove.json](./325353-steel-century-groove.json) |
 | Steel Century Groove: Midnight | 334462 | [334462-steel-century-groove-midnight.json](./334462-steel-century-groove-midnight.json) |
 | Steel Champions | 47444 | [47444-steel-champions.json](./47444-steel-champions.json) |
 | Steel Chronicle | 340809 | [340809-steel-chronicle.json](./340809-steel-chronicle.json) |
@@ -32757,6 +32768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surf's Up | 248517 | [248517-surfs-up.json](./248517-surfs-up.json) |
 | Surf's Up | 248518 | [248518-surfs-up.json](./248518-surfs-up.json) |
 | Surf's Up | 283113 | [283113-surfs-up.json](./283113-surfs-up.json) |
+| Surf's Up | 325354 | [325354-surfs-up.json](./325354-surfs-up.json) |
 | Surf's Up | 381757 | [381757-surfs-up.json](./381757-surfs-up.json) |
 | Surf's Up | 4191 | [4191-surfs-up.json](./4191-surfs-up.json) |
 | Surface | 395545 | [395545-surface.json](./395545-surface.json) |
