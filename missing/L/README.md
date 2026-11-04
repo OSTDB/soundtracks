@@ -869,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lannath | 121208 | [121208-lannath.json](./121208-lannath.json) |
 | Lǎnrén Xiūxiān Zhuàn | 111583 | [111583-lanren-xiuxian-zhuan.json](./111583-lanren-xiuxian-zhuan.json) |
 | Lǎnrén Xiūxiān Zhuàn 2 | 415510 | [415510-lanren-xiuxian-zhuan-2.json](./415510-lanren-xiuxian-zhuan-2.json) |
+| Lansbury's SneakOut | 335606 | [335606-lansburys-sneakout.json](./335606-lansburys-sneakout.json) |
 | Lansquenet | 109443 | [109443-lansquenet.json](./109443-lansquenet.json) |
 | Lantern | 25952 | [25952-lantern.json](./25952-lantern.json) |
 | Lantern Fish | 385561 | [385561-lantern-fish.json](./385561-lantern-fish.json) |
@@ -4884,6 +4885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lili | 63277 | [63277-lili.json](./63277-lili.json) |
 | Lili:Miesta | 77682 | [77682-lili-miesta.json](./77682-lili-miesta.json) |
 | Lilia | 362325 | [362325-lilia.json](./362325-lilia.json) |
+| Lilia: The Fallen Flower in the Prison City | 335603 | [335603-lilia-the-fallen-flower-in-the-prison-city.json](./335603-lilia-the-fallen-flower-in-the-prison-city.json) |
 | Lilia's Livelihood: Girl, Tentacle and the Wonder Island | 82653 | [82653-lilias-livelihood-girl-tentacle-and-the-wonder-island.json](./82653-lilias-livelihood-girl-tentacle-and-the-wonder-island.json) |
 | Lilialette's Hustle: Getting My Hands Dirty to Save My Guild | 371445 | [371445-lilialettes-hustle-getting-my-hands-dirty-to-save-my-guild.json](./371445-lilialettes-hustle-getting-my-hands-dirty-to-save-my-guild.json) |
 | Lilian: The beginning of the end | 183038 | [183038-lilian-the-beginning-of-the-end.json](./183038-lilian-the-beginning-of-the-end.json) |
@@ -9406,6 +9408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna's Twilight | 319211 | [319211-lunas-twilight.json](./319211-lunas-twilight.json) |
 | Luna's Wandering Stars | 17983 | [17983-lunas-wandering-stars.json](./17983-lunas-wandering-stars.json) |
 | Luna's World Packages | 343382 | [343382-lunas-world-packages.json](./343382-lunas-world-packages.json) |
+| Lunacid: Tears of the Moon | 335567 | [335567-lunacid-tears-of-the-moon.json](./335567-lunacid-tears-of-the-moon.json) |
 | Lunacraft | 383539 | [383539-lunacraft.json](./383539-lunacraft.json) |
 | Lunacy | 262993 | [262993-lunacy.json](./262993-lunacy.json) |
 | Lunacy | 71493 | [71493-lunacy.json](./71493-lunacy.json) |
