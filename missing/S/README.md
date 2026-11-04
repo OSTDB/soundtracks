@@ -3958,6 +3958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Rovers: MetaPlunder | 187071 | [187071-sea-rovers-metaplunder.json](./187071-sea-rovers-metaplunder.json) |
 | Sea Salt City | 404240 | [404240-sea-salt-city.json](./404240-sea-salt-city.json) |
 | Sea Scenes | 219616 | [219616-sea-scenes.json](./219616-sea-scenes.json) |
+| Sea Scraps | 337360 | [337360-sea-scraps.json](./337360-sea-scraps.json) |
 | Sea Search | 36688 | [36688-sea-search.json](./36688-sea-search.json) |
 | Sea Stars | 59626 | [59626-sea-stars.json](./59626-sea-stars.json) |
 | Sea Strike | 69896 | [69896-sea-strike.json](./69896-sea-strike.json) |
@@ -10637,6 +10638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Characters 2000 Series Vol.8: Kagaru Ninja Tai Gatchaman - The Shooting | 43757 | [43757-simple-characters-2000-series-vol-8-kagaru-ninja-tai-gatchaman-the-shooting.json](./43757-simple-characters-2000-series-vol-8-kagaru-ninja-tai-gatchaman-the-shooting.json) |
 | Simple Chat Games | 419337 | [419337-simple-chat-games.json](./419337-simple-chat-games.json) |
 | Simple Chess | 115124 | [115124-simple-chess.json](./115124-simple-chess.json) |
+| Simple Clicker | 337397 | [337397-simple-clicker.json](./337397-simple-clicker.json) |
 | Simple Complex Puzzle | 186179 | [186179-simple-complex-puzzle.json](./186179-simple-complex-puzzle.json) |
 | Simple Dot | 117707 | [117707-simple-dot.json](./117707-simple-dot.json) |
 | Simple DS Series Vol. 1: The Mahjong | 82134 | [82134-simple-ds-series-vol-1-the-mahjong.json](./82134-simple-ds-series-vol-1-the-mahjong.json) |
@@ -12394,6 +12396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyRider | 191582 | [191582-skyrider.json](./191582-skyrider.json) |
 | SkyRider ADV | 90696 | [90696-skyrider-adv.json](./90696-skyrider-adv.json) |
 | Skyrift | 122107 | [122107-skyrift.json](./122107-skyrift.json) |
+| Skyrift: Aratirí | 337407 | [337407-skyrift-aratiri.json](./337407-skyrift-aratiri.json) |
 | SkyRig | 348286 | [348286-skyrig.json](./348286-skyrig.json) |
 | Skyrim Anniversary Edition + Fallout 4 G.O.T.Y. Bundle | 342531 | [342531-skyrim-anniversary-edition-fallout-4-g-o-t-y-bundle.json](./342531-skyrim-anniversary-edition-fallout-4-g-o-t-y-bundle.json) |
 | SkyRoads X-mas Special | 19236 | [19236-skyroads-x-mas-special.json](./19236-skyroads-x-mas-special.json) |
@@ -14357,6 +14360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakenpon | 164065 | [164065-snakenpon.json](./164065-snakenpon.json) |
 | Snakeout | 138725 | [138725-snakeout.json](./138725-snakeout.json) |
 | SnakeQR | 146844 | [146844-snakeqr.json](./146844-snakeqr.json) |
+| Snaker 3000 | 337367 | [337367-snaker-3000.json](./337367-snaker-3000.json) |
 | Snaker 64 | 244757 | [244757-snaker-64.json](./244757-snaker-64.json) |
 | Snakeroot. | 176131 | [176131-snakeroot.json](./176131-snakeroot.json) |
 | Snakes | 195497 | [195497-snakes.json](./195497-snakes.json) |
@@ -23040,6 +23044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Diffusion | 106969 | [106969-star-diffusion.json](./106969-star-diffusion.json) |
 | Star Discord | 196621 | [196621-star-discord.json](./196621-star-discord.json) |
 | Star Diver Jelly | 340160 | [340160-star-diver-jelly.json](./340160-star-diver-jelly.json) |
+| Star Dream Journey | 337396 | [337396-star-dream-journey.json](./337396-star-dream-journey.json) |
 | Star Drifter | 13761 | [13761-star-drifter.json](./13761-star-drifter.json) |
 | Star Drifter | 32473 | [32473-star-drifter.json](./32473-star-drifter.json) |
 | Star Driver: Kagayaki no Takuto - Ginga Bishounen Densetsu | 269504 | [269504-star-driver-kagayaki-no-takuto-ginga-bishounen-densetsu.json](./269504-star-driver-kagayaki-no-takuto-ginga-bishounen-densetsu.json) |
@@ -24479,6 +24484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars of Reincarnation | 339025 | [339025-stars-of-reincarnation.json](./339025-stars-of-reincarnation.json) |
 | Stars of the Beast 2 | 300259 | [300259-stars-of-the-beast-2.json](./300259-stars-of-the-beast-2.json) |
 | Stars of the Screen | 232677 | [232677-stars-of-the-screen.json](./232677-stars-of-the-screen.json) |
+| Stars of the Valkyrie | 337392 | [337392-stars-of-the-valkyrie.json](./337392-stars-of-the-valkyrie.json) |
 | Stars Shooter | 245301 | [245301-stars-shooter.json](./245301-stars-shooter.json) |
 | Stars Simulation | 31618 | [31618-stars-simulation.json](./31618-stars-simulation.json) |
 | Stars Slide | 153160 | [153160-stars-slide.json](./153160-stars-slide.json) |
