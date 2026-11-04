@@ -1570,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Holes | 340412 | [340412-happy-holes.json](./340412-happy-holes.json) |
 | Happy Holidays: Christmas Miracle | 337270 | [337270-happy-holidays-christmas-miracle.json](./337270-happy-holidays-christmas-miracle.json) |
 | Happy Homes | 178932 | [178932-happy-homes.json](./178932-happy-homes.json) |
+| Happy Hoop Endless Journey | 339052 | [339052-happy-hoop-endless-journey.json](./339052-happy-hoop-endless-journey.json) |
 | Happy Hop | 413913 | [413913-happy-hop.json](./413913-happy-hop.json) |
 | Happy Horny Hell | 294070 | [294070-happy-horny-hell.json](./294070-happy-horny-hell.json) |
 | Happy Hospital | 305846 | [305846-happy-hospital.json](./305846-happy-hospital.json) |
@@ -5551,6 +5552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermit | 291025 | [291025-hermit.json](./291025-hermit.json) |
 | Hermit and Pig | 252738 | [252738-hermit-and-pig.json](./252738-hermit-and-pig.json) |
 | Hermit Computer | 402440 | [402440-hermit-computer.json](./402440-hermit-computer.json) |
+| Hermit Night | 339033 | [339033-hermit-night.json](./339033-hermit-night.json) |
 | Hermit: an Underwater Tale | 211955 | [211955-hermit-an-underwater-tale.json](./211955-hermit-an-underwater-tale.json) |
 | Hermit's Tic-Tac-Toe | 243608 | [243608-hermits-tic-tac-toe.json](./243608-hermits-tic-tac-toe.json) |
 | Hermitage Strange Case Files | 99435 | [99435-hermitage-strange-case-files.json](./99435-hermitage-strange-case-files.json) |
