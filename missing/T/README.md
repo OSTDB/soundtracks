@@ -12818,6 +12818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings: The Fellowship of the Ring | 201347 | [201347-the-lord-of-the-rings-the-fellowship-of-the-ring.json](./201347-the-lord-of-the-rings-the-fellowship-of-the-ring.json) |
 | The Lord of the Rings: The Fellowship of the Ring | 78501 | [78501-the-lord-of-the-rings-the-fellowship-of-the-ring.json](./78501-the-lord-of-the-rings-the-fellowship-of-the-ring.json) |
 | The Lord of the Rings: The Return of the King | 135708 | [135708-the-lord-of-the-rings-the-return-of-the-king.json](./135708-the-lord-of-the-rings-the-return-of-the-king.json) |
+| The Lord of the Rings: The Return of the King | 308133 | [308133-the-lord-of-the-rings-the-return-of-the-king.json](./308133-the-lord-of-the-rings-the-return-of-the-king.json) |
 | The Lord of the Rings: The Third Age | 127953 | [127953-the-lord-of-the-rings-the-third-age.json](./127953-the-lord-of-the-rings-the-third-age.json) |
 | The Lord of the Rings: The Third Age | 6500 | [6500-the-lord-of-the-rings-the-third-age.json](./6500-the-lord-of-the-rings-the-third-age.json) |
 | The Lord of the Rings: The Two Towers | 135736 | [135736-the-lord-of-the-rings-the-two-towers.json](./135736-the-lord-of-the-rings-the-two-towers.json) |
@@ -12978,6 +12979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Treasure of RON | 71244 | [71244-the-lost-treasure-of-ron.json](./71244-the-lost-treasure-of-ron.json) |
 | The Lost Treasures of Alexandria | 85260 | [85260-the-lost-treasures-of-alexandria.json](./85260-the-lost-treasures-of-alexandria.json) |
 | The Lost Treasures of Infocom | 47077 | [47077-the-lost-treasures-of-infocom.json](./47077-the-lost-treasures-of-infocom.json) |
+| The Lost Treasures of Infocom II | 308107 | [308107-the-lost-treasures-of-infocom-ii.json](./308107-the-lost-treasures-of-infocom-ii.json) |
 | The Lost Tribe | 171846 | [171846-the-lost-tribe.json](./171846-the-lost-tribe.json) |
 | The Lost Uncle | 236334 | [236334-the-lost-uncle.json](./236334-the-lost-uncle.json) |
 | The Lost Valley | 171490 | [171490-the-lost-valley.json](./171490-the-lost-valley.json) |
@@ -26919,14 +26921,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trailer Tales | 211609 | [211609-trailer-tales.json](./211609-trailer-tales.json) |
 | Trailer Trashers | 130157 | [130157-trailer-trashers.json](./130157-trailer-trashers.json) |
 | Trailmakers | 29667 | [29667-trailmakers.json](./29667-trailmakers.json) |
+| Trailmakers Hat Pack | 308431 | [308431-trailmakers-hat-pack.json](./308431-trailmakers-hat-pack.json) |
 | Trailmakers: Airborne Expansion | 236449 | [236449-trailmakers-airborne-expansion.json](./236449-trailmakers-airborne-expansion.json) |
+| Trailmakers: Decals - Action Pack | 308432 | [308432-trailmakers-decals-action-pack.json](./308432-trailmakers-decals-action-pack.json) |
 | Trailmakers: Decals - Expression Pack | 308437 | [308437-trailmakers-decals-expression-pack.json](./308437-trailmakers-decals-expression-pack.json) |
 | Trailmakers: Deluxe Edition | 187896 | [187896-trailmakers-deluxe-edition.json](./187896-trailmakers-deluxe-edition.json) |
 | Trailmakers: Frozen Tracks | 378217 | [378217-trailmakers-frozen-tracks.json](./378217-trailmakers-frozen-tracks.json) |
 | Trailmakers: High Seas Expansion | 193221 | [193221-trailmakers-high-seas-expansion.json](./193221-trailmakers-high-seas-expansion.json) |
 | Trailmakers: Motorhead Pack | 317323 | [317323-trailmakers-motorhead-pack.json](./317323-trailmakers-motorhead-pack.json) |
 | Trailmakers: Rescue Pack | 293396 | [293396-trailmakers-rescue-pack.json](./293396-trailmakers-rescue-pack.json) |
+| Trailmakers: Skin Pack | 308435 | [308435-trailmakers-skin-pack.json](./308435-trailmakers-skin-pack.json) |
 | Trailmakers: Skin Pack 2 | 308436 | [308436-trailmakers-skin-pack-2.json](./308436-trailmakers-skin-pack-2.json) |
+| Trailmakers: Space Voyager Pack | 308433 | [308433-trailmakers-space-voyager-pack.json](./308433-trailmakers-space-voyager-pack.json) |
 | Trailmappers | 211233 | [211233-trailmappers.json](./211233-trailmappers.json) |
 | Trailmarks | 391079 | [391079-trailmarks.json](./391079-trailmarks.json) |
 | Trailmarks | 414815 | [414815-trailmarks.json](./414815-trailmarks.json) |
