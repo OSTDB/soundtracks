@@ -1302,6 +1302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Pet to Kurasou! Wan Nyan & Idol Animal | 136915 | [136915-kawaii-pet-to-kurasou-wan-nyan-and-idol-animal.json](./136915-kawaii-pet-to-kurasou-wan-nyan-and-idol-animal.json) |
 | Kawaii Pet to Kurasou! Wan Nyan & Mini Mini Animal | 222402 | [222402-kawaii-pet-to-kurasou-wan-nyan-and-mini-mini-animal.json](./222402-kawaii-pet-to-kurasou-wan-nyan-and-mini-mini-animal.json) |
 | Kawaii Push | 421318 | [421318-kawaii-push.json](./421318-kawaii-push.json) |
+| Kawaii Puzzle Quest | 332166 | [332166-kawaii-puzzle-quest.json](./332166-kawaii-puzzle-quest.json) |
 | Kawaii Puzzle Quest 2 | 360545 | [360545-kawaii-puzzle-quest-2.json](./360545-kawaii-puzzle-quest-2.json) |
 | Kawaii Puzzle: Girl Adventure | 290823 | [290823-kawaii-puzzle-girl-adventure.json](./290823-kawaii-puzzle-girl-adventure.json) |
 | Kawaii Rainbow Portal | 93789 | [93789-kawaii-rainbow-portal.json](./93789-kawaii-rainbow-portal.json) |
@@ -2715,7 +2716,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -2984,6 +2984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Dirt: BMX | 175007 | [175007-king-of-dirt-bmx.json](./175007-king-of-dirt-bmx.json) |
 | King of Dragon Balls | 120735 | [120735-king-of-dragon-balls.json](./120735-king-of-dragon-balls.json) |
 | King of Dragon Pass | 7636 | [7636-king-of-dragon-pass.json](./7636-king-of-dragon-pass.json) |
+| King of Drift 2 | 332183 | [332183-king-of-drift-2.json](./332183-king-of-drift-2.json) |
 | King of Drop | 245052 | [245052-king-of-drop.json](./245052-king-of-drop.json) |
 | King of Egypt GX | 117428 | [117428-king-of-egypt-gx.json](./117428-king-of-egypt-gx.json) |
 | King of Fighters '95, The: Special Item Box | 75461 | [75461-king-of-fighters-95-the-special-item-box.json](./75461-king-of-fighters-95-the-special-item-box.json) |
