@@ -810,6 +810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanishing Starlight | 395337 | [395337-vanishing-starlight.json](./395337-vanishing-starlight.json) |
 | Vanitas | 137923 | [137923-vanitas.json](./137923-vanitas.json) |
 | Vanity | 273650 | [273650-vanity.json](./273650-vanity.json) |
+| Vanity Fair: The Pursuit | 308113 | [308113-vanity-fair-the-pursuit.json](./308113-vanity-fair-the-pursuit.json) |
 | Vanity: Fighter Skin | 380206 | [380206-vanity-fighter-skin.json](./380206-vanity-fighter-skin.json) |
 | Vanity: Military Skin | 380208 | [380208-vanity-military-skin.json](./380208-vanity-military-skin.json) |
 | Vanity: Suit Skin | 380205 | [380205-vanity-suit-skin.json](./380205-vanity-suit-skin.json) |
@@ -3665,6 +3666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voyager | 284566 | [284566-voyager.json](./284566-voyager.json) |
 | Voyager | 346075 | [346075-voyager.json](./346075-voyager.json) |
 | Voyager Battles | 309314 | [309314-voyager-battles.json](./309314-voyager-battles.json) |
+| Voyager EP | 308074 | [308074-voyager-ep.json](./308074-voyager-ep.json) |
 | Voyager I: Sabotage of the Robot Ship | 24848 | [24848-voyager-i-sabotage-of-the-robot-ship.json](./24848-voyager-i-sabotage-of-the-robot-ship.json) |
 | Voyager-19 | 301505 | [301505-voyager-19.json](./301505-voyager-19.json) |
 | Voyagers | 130215 | [130215-voyagers.json](./130215-voyagers.json) |
