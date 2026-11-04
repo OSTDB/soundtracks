@@ -2319,6 +2319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvey Birdman: Attorney at Law | 4907 | [4907-harvey-birdman-attorney-at-law.json](./4907-harvey-birdman-attorney-at-law.json) |
 | Harvey Birdman: File Frenzy | 396381 | [396381-harvey-birdman-file-frenzy.json](./396381-harvey-birdman-file-frenzy.json) |
 | Harvey Headbanger | 14106 | [14106-harvey-headbanger.json](./14106-harvey-headbanger.json) |
+| Harvey Norman: Windsor Queensland - Super Shareware: Games Volume 1 | 333858 | [333858-harvey-norman-windsor-queensland-super-shareware-games-volume-1.json](./333858-harvey-norman-windsor-queensland-super-shareware-games-volume-1.json) |
 | Has traicionado la Luna | 391656 | [391656-has-traicionado-la-luna.json](./391656-has-traicionado-la-luna.json) |
 | Has Your Dream of Dating a Cute Bunny Girl Finally Come True?! | 237442 | [237442-has-your-dream-of-dating-a-cute-bunny-girl-finally-come-true.json](./237442-has-your-dream-of-dating-a-cute-bunny-girl-finally-come-true.json) |
 | Hasamu | 40176 | [40176-hasamu.json](./40176-hasamu.json) |
@@ -6964,6 +6965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Photo | 84520 | [84520-hidden-photo.json](./84520-hidden-photo.json) |
 | Hidden Photo Mysteries: The Truth Gets Scary | 415060 | [415060-hidden-photo-mysteries-the-truth-gets-scary.json](./415060-hidden-photo-mysteries-the-truth-gets-scary.json) |
 | Hidden Pictures Puzzle Play | 106751 | [106751-hidden-pictures-puzzle-play.json](./106751-hidden-pictures-puzzle-play.json) |
+| Hidden Pictures: Agent Q | 333834 | [333834-hidden-pictures-agent-q.json](./333834-hidden-pictures-agent-q.json) |
 | Hidden Pirates Top-Down 3D | 291415 | [291415-hidden-pirates-top-down-3d.json](./291415-hidden-pirates-top-down-3d.json) |
 | Hidden Pleasure: Closer and Closer | 409531 | [409531-hidden-pleasure-closer-and-closer.json](./409531-hidden-pleasure-closer-and-closer.json) |
 | Hidden Pleasure: Deeper and Deeper | 410385 | [410385-hidden-pleasure-deeper-and-deeper.json](./410385-hidden-pleasure-deeper-and-deeper.json) |
