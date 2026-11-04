@@ -9811,6 +9811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Beauty Girl Puzzle: Love Game History Adventure | 252699 | [252699-anime-beauty-girl-puzzle-love-game-history-adventure.json](./252699-anime-beauty-girl-puzzle-love-game-history-adventure.json) |
 | Anime Bowling Babes | 24997 | [24997-anime-bowling-babes.json](./24997-anime-bowling-babes.json) |
 | Anime Boys Dating: Sexy Halloween Costumes | 320790 | [320790-anime-boys-dating-sexy-halloween-costumes.json](./320790-anime-boys-dating-sexy-halloween-costumes.json) |
+| Anime Boys Dating: The night before Christmas and the tree | 330433 | [330433-anime-boys-dating-the-night-before-christmas-and-the-tree.json](./330433-anime-boys-dating-the-night-before-christmas-and-the-tree.json) |
 | Anime Boys Mirror Quest | 371188 | [371188-anime-boys-mirror-quest.json](./371188-anime-boys-mirror-quest.json) |
 | Anime Bubble Pop | 75812 | [75812-anime-bubble-pop.json](./75812-anime-bubble-pop.json) |
 | Anime Cards | 154279 | [154279-anime-cards.json](./154279-anime-cards.json) |
@@ -9875,6 +9876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girls | 261367 | [261367-anime-girls.json](./261367-anime-girls.json) |
 | Anime Girls | 337950 | [337950-anime-girls.json](./337950-anime-girls.json) |
 | Anime Girls Basketball League | 309004 | [309004-anime-girls-basketball-league.json](./309004-anime-girls-basketball-league.json) |
+| Anime Girls Dating: The Night Before Christmas and the Tree | 330434 | [330434-anime-girls-dating-the-night-before-christmas-and-the-tree.json](./330434-anime-girls-dating-the-night-before-christmas-and-the-tree.json) |
 | Anime Girls Jigsaw Puzzles | 384007 | [384007-anime-girls-jigsaw-puzzles.json](./384007-anime-girls-jigsaw-puzzles.json) |
 | Anime Girls Military Strike | 317263 | [317263-anime-girls-military-strike.json](./317263-anime-girls-military-strike.json) |
 | Anime Girls Mirror Quest | 337951 | [337951-anime-girls-mirror-quest.json](./337951-anime-girls-mirror-quest.json) |
