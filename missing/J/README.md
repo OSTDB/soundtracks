@@ -937,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jekyll & Hyde | 10471 | [10471-jekyll-and-hyde.json](./10471-jekyll-and-hyde.json) |
 | Jekyll Hakase no Houma ga Toki | 275067 | [275067-jekyll-hakase-no-houma-ga-toki.json](./275067-jekyll-hakase-no-houma-ga-toki.json) |
 | Jelda II | 78705 | [78705-jelda-ii.json](./78705-jelda-ii.json) |
+| JeliWave | 316862 | [316862-jeliwave.json](./316862-jeliwave.json) |
 | Jeller Fellers | 337654 | [337654-jeller-fellers.json](./337654-jeller-fellers.json) |
 | Jelli Nook | 349097 | [349097-jelli-nook.json](./349097-jelli-nook.json) |
 | Jellies of the Deep | 309895 | [309895-jellies-of-the-deep.json](./309895-jellies-of-the-deep.json) |
@@ -1587,6 +1588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jìgěi Míngrì de Xīwàng | 115581 | [115581-jigei-mingri-de-xiwang.json](./115581-jigei-mingri-de-xiwang.json) |
 | Jigen Bakudan Kaijo | 349942 | [349942-jigen-bakudan-kaijo.json](./349942-jigen-bakudan-kaijo.json) |
 | Jigenro | 402443 | [402443-jigenro.json](./402443-jigenro.json) |
+| Jiggie. For Fun. | 316883 | [316883-jiggie-for-fun.json](./316883-jiggie-for-fun.json) |
 | Jiggly Strike | 373798 | [373798-jiggly-strike.json](./373798-jiggly-strike.json) |
 | Jiggly Zone | 250524 | [250524-jiggly-zone.json](./250524-jiggly-zone.json) |
 | Jiggraph | 311068 | [311068-jiggraph.json](./311068-jiggraph.json) |
@@ -2779,6 +2781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoustPong | 95353 | [95353-joustpong.json](./95353-joustpong.json) |
 | Jousty Dragons | 176190 | [176190-jousty-dragons.json](./176190-jousty-dragons.json) |
 | Jovian Drive | 343463 | [343463-jovian-drive.json](./343463-jovian-drive.json) |
+| Joy | 316859 | [316859-joy.json](./316859-joy.json) |
 | Joy Climb | 88020 | [88020-joy-climb.json](./88020-joy-climb.json) |
 | Joy e Toy | 248795 | [248795-joy-e-toy.json](./248795-joy-e-toy.json) |
 | Joy Exhibition | 56177 | [56177-joy-exhibition.json](./56177-joy-exhibition.json) |
