@@ -4476,6 +4476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Territorial Duck | 210979 | [210979-territorial-duck.json](./210979-territorial-duck.json) |
 | Territorial Hissing | 261686 | [261686-territorial-hissing.json](./261686-territorial-hissing.json) |
 | Territorial.io | 152149 | [152149-territorial-io.json](./152149-territorial-io.json) |
+| Territors | 333302 | [333302-territors.json](./333302-territors.json) |
 | Territory | 171036 | [171036-territory.json](./171036-territory.json) |
 | Territory | 190998 | [190998-territory.json](./190998-territory.json) |
 | Territory | 377624 | [377624-territory.json](./377624-territory.json) |
@@ -25528,6 +25529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Kobuto V: Burst Battle - Koishi Komeiji | 238037 | [238037-touhou-kobuto-v-burst-battle-koishi-komeiji.json](./238037-touhou-kobuto-v-burst-battle-koishi-komeiji.json) |
 | Touhou Kobuto V: Burst Battle - Youmu Konpaku | 238035 | [238035-touhou-kobuto-v-burst-battle-youmu-konpaku.json](./238035-touhou-kobuto-v-burst-battle-youmu-konpaku.json) |
 | Touhou Koi-Mystery: Legend and Fantasy of Monsters | 154294 | [154294-touhou-koi-mystery-legend-and-fantasy-of-monsters.json](./154294-touhou-koi-mystery-legend-and-fantasy-of-monsters.json) |
+| TouHou Koishi's Enchanted Woods | 333279 | [333279-touhou-koishis-enchanted-woods.json](./333279-touhou-koishis-enchanted-woods.json) |
 | Touhou Komakyou | 262184 | [262184-touhou-komakyou.json](./262184-touhou-komakyou.json) |
 | Touhou Kosuzu no Butsuri Game! | 256898 | [256898-touhou-kosuzu-no-butsuri-game.json](./256898-touhou-kosuzu-no-butsuri-game.json) |
 | Touhou Kouhentan | 214371 | [214371-touhou-kouhentan.json](./214371-touhou-kouhentan.json) |
@@ -30511,6 +30513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Thief | 340278 | [340278-true-thief.json](./340278-true-thief.json) |
 | True Three Kingdoms | 331157 | [331157-true-three-kingdoms.json](./331157-true-three-kingdoms.json) |
 | True Tree | 357414 | [357414-true-tree.json](./357414-true-tree.json) |
+| True Vikings | 333317 | [333317-true-vikings.json](./333317-true-vikings.json) |
 | True Virus | 250763 | [250763-true-virus.json](./250763-true-virus.json) |
 | True Visions | 162413 | [162413-true-visions.json](./162413-true-visions.json) |
 | True Wishes | 102622 | [102622-true-wishes.json](./102622-true-wishes.json) |
