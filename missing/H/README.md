@@ -3471,6 +3471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven Snakes | 202505 | [202505-heaven-snakes.json](./202505-heaven-snakes.json) |
 | Heaven Stroll | 262557 | [262557-heaven-stroll.json](./262557-heaven-stroll.json) |
 | Heaven Will Be Mine | 69482 | [69482-heaven-will-be-mine.json](./69482-heaven-will-be-mine.json) |
+| Heaven: Dare mo Kimi wo Shiranai | 318932 | [318932-heaven-dare-mo-kimi-wo-shiranai.json](./318932-heaven-dare-mo-kimi-wo-shiranai.json) |
 | Heaven's Bazar: Online | 154997 | [154997-heavens-bazar-online.json](./154997-heavens-bazar-online.json) |
 | Heaven's Dawn | 50418 | [50418-heavens-dawn.json](./50418-heavens-dawn.json) |
 | Heaven's Door | 231057 | [231057-heavens-door.json](./231057-heavens-door.json) |
@@ -8444,6 +8445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole Your Horses: Champion Edition | 394098 | [394098-hole-your-horses-champion-edition.json](./394098-hole-your-horses-champion-edition.json) |
 | Hole-In-One Miniature Golf | 70979 | [70979-hole-in-one-miniature-golf.json](./70979-hole-in-one-miniature-golf.json) |
 | Hole-In-One Miniature Golf Deluxe | 78997 | [78997-hole-in-one-miniature-golf-deluxe.json](./78997-hole-in-one-miniature-golf-deluxe.json) |
+| Hole-y Golf | 318917 | [318917-hole-y-golf.json](./318917-hole-y-golf.json) |
 | Hole: Bottomless | 334927 | [334927-hole-bottomless.json](./334927-hole-bottomless.json) |
 | Hole.io | 104100 | [104100-hole-io.json](./104100-hole-io.json) |
 | Hole* | 408173 | [408173-hole.json](./408173-hole.json) |
