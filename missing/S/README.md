@@ -1310,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai of Hyuga Book 5: Side Stories 11-20 | 213461 | [213461-samurai-of-hyuga-book-5-side-stories-11-20.json](./213461-samurai-of-hyuga-book-5-side-stories-11-20.json) |
 | Samurai of Hyuga Book 6 | 402539 | [402539-samurai-of-hyuga-book-6.json](./402539-samurai-of-hyuga-book-6.json) |
 | Samurai of the Lanterns | 235948 | [235948-samurai-of-the-lanterns.json](./235948-samurai-of-the-lanterns.json) |
+| Samurai of the Samurais | 304402 | [304402-samurai-of-the-samurais.json](./304402-samurai-of-the-samurais.json) |
 | Samurai Pig : The Way of the Rooster | 216925 | [216925-samurai-pig-the-way-of-the-rooster.json](./216925-samurai-pig-the-way-of-the-rooster.json) |
 | Samurai Pizza Cats: Blast from the Past! | 332394 | [332394-samurai-pizza-cats-blast-from-the-past.json](./332394-samurai-pizza-cats-blast-from-the-past.json) |
 | Samurai Plat | 56249 | [56249-samurai-plat.json](./56249-samurai-plat.json) |
@@ -10300,6 +10301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silkroad Online | 72944 | [72944-silkroad-online.json](./72944-silkroad-online.json) |
 | Silkroad Origin Mobile | 361403 | [361403-silkroad-origin-mobile.json](./361403-silkroad-origin-mobile.json) |
 | Silkroad Project | 398494 | [398494-silkroad-project.json](./398494-silkroad-project.json) |
+| Silks of Mind | 304502 | [304502-silks-of-mind.json](./304502-silks-of-mind.json) |
 | Silktrails: Cats in the Grove | 351059 | [351059-silktrails-cats-in-the-grove.json](./351059-silktrails-cats-in-the-grove.json) |
 | Silktrails: Cats in the Grove 2 | 373271 | [373271-silktrails-cats-in-the-grove-2.json](./373271-silktrails-cats-in-the-grove-2.json) |
 | Silky Road | 355565 | [355565-silky-road.json](./355565-silky-road.json) |
@@ -21232,6 +21234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Spell | 63556 | [63556-spin-spell.json](./63556-spin-spell.json) |
 | Spin Squared | 174281 | [174281-spin-squared.json](./174281-spin-squared.json) |
 | Spin the Beat | 43500 | [43500-spin-the-beat.json](./43500-spin-the-beat.json) |
+| Spin the Book | 304488 | [304488-spin-the-book.json](./304488-spin-the-book.json) |
 | Spin the Bottle: Bumpie's Party | 79172 | [79172-spin-the-bottle-bumpies-party.json](./79172-spin-the-bottle-bumpies-party.json) |
 | Spin the Lighthouse | 290285 | [290285-spin-the-lighthouse.json](./290285-spin-the-lighthouse.json) |
 | Spin the World | 148208 | [148208-spin-the-world.json](./148208-spin-the-world.json) |
