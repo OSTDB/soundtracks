@@ -1017,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Hearts | 128262 | [128262-fallen-hearts.json](./128262-fallen-hearts.json) |
 | Fallen Hero: Rebirth | 88044 | [88044-fallen-hero-rebirth.json](./88044-fallen-hero-rebirth.json) |
 | Fallen Heroes: Uro's Tale | 22129 | [22129-fallen-heroes-uros-tale.json](./22129-fallen-heroes-uros-tale.json) |
+| Fallen Hunter | 346362 | [346362-fallen-hunter.json](./346362-fallen-hunter.json) |
 | Fallen King | 294038 | [294038-fallen-king.json](./294038-fallen-king.json) |
 | Fallen Kingdom | 229573 | [229573-fallen-kingdom.json](./229573-fallen-kingdom.json) |
 | Fallen Kingdom | 75023 | [75023-fallen-kingdom.json](./75023-fallen-kingdom.json) |
