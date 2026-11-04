@@ -5000,6 +5000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cellchemist | 389731 | [389731-cellchemist.json](./389731-cellchemist.json) |
 | CellCraft | 132122 | [132122-cellcraft.json](./132122-cellcraft.json) |
 | Celldom Classic | 404823 | [404823-celldom-classic.json](./404823-celldom-classic.json) |
+| Celler | 348549 | [348549-celler.json](./348549-celler.json) |
 | CellFactor: Combat Training | 63689 | [63689-cellfactor-combat-training.json](./63689-cellfactor-combat-training.json) |
 | CellFactor: Psychokinetic Wars | 21673 | [21673-cellfactor-psychokinetic-wars.json](./21673-cellfactor-psychokinetic-wars.json) |
 | CellFactor: Revolution | 21420 | [21420-cellfactor-revolution.json](./21420-cellfactor-revolution.json) |
@@ -5393,6 +5394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chamberlore | 378435 | [378435-chamberlore.json](./378435-chamberlore.json) |
 | Chambers | 281980 | [281980-chambers.json](./281980-chambers.json) |
 | Chambers & Crops | 346255 | [346255-chambers-and-crops.json](./346255-chambers-and-crops.json) |
+| Chambers of Death | 348526 | [348526-chambers-of-death.json](./348526-chambers-of-death.json) |
 | Chambers of Devious Design | 153886 | [153886-chambers-of-devious-design.json](./153886-chambers-of-devious-design.json) |
 | Chambers of Shaolin | 11997 | [11997-chambers-of-shaolin.json](./11997-chambers-of-shaolin.json) |
 | Chameleon | 120875 | [120875-chameleon.json](./120875-chameleon.json) |
@@ -11306,6 +11308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colony | 327447 | [327447-colony.json](./327447-colony.json) |
 | Colony | 387083 | [387083-colony.json](./387083-colony.json) |
 | Colony | 76645 | [76645-colony.json](./76645-colony.json) |
+| Colony 13: Into the Void | 348509 | [348509-colony-13-into-the-void.json](./348509-colony-13-into-the-void.json) |
 | Colony 28 | 388929 | [388929-colony-28.json](./388929-colony-28.json) |
 | Colony 28 | 93315 | [93315-colony-28.json](./93315-colony-28.json) |
 | Colony 37 | 355554 | [355554-colony-37.json](./355554-colony-37.json) |
@@ -15709,6 +15712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayon Dino | 350861 | [350861-crayon-dino.json](./350861-crayon-dino.json) |
 | Crayon Farm Animals | 400176 | [400176-crayon-farm-animals.json](./400176-crayon-farm-animals.json) |
 | Crayon Food | 378793 | [378793-crayon-food.json](./378793-crayon-food.json) |
+| Crayon Legend | 348542 | [348542-crayon-legend.json](./348542-crayon-legend.json) |
 | Crayon Little Dino | 393416 | [393416-crayon-little-dino.json](./393416-crayon-little-dino.json) |
 | Crayon Magic World | 402566 | [402566-crayon-magic-world.json](./402566-crayon-magic-world.json) |
 | Crayon Mandala | 411814 | [411814-crayon-mandala.json](./411814-crayon-mandala.json) |
@@ -15803,6 +15807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Cart: Ultimate Drift | 120289 | [120289-crazy-cart-ultimate-drift.json](./120289-crazy-cart-ultimate-drift.json) |
 | Crazy Castle | 23564 | [23564-crazy-castle.json](./23564-crazy-castle.json) |
 | Crazy Castle | 280145 | [280145-crazy-castle.json](./280145-crazy-castle.json) |
+| Crazy Castles | 348527 | [348527-crazy-castles.json](./348527-crazy-castles.json) |
 | Crazy Catman | 37043 | [37043-crazy-catman.json](./37043-crazy-catman.json) |
 | Crazy Cats vs. Crazy Cyborgs | 340836 | [340836-crazy-cats-vs-crazy-cyborgs.json](./340836-crazy-cats-vs-crazy-cyborgs.json) |
 | Crazy Cauldron | 176968 | [176968-crazy-cauldron.json](./176968-crazy-cauldron.json) |
