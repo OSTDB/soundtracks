@@ -934,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4272,6 +4273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleship | 282239 | [282239-battleship.json](./282239-battleship.json) |
 | Battleship | 285030 | [285030-battleship.json](./285030-battleship.json) |
 | Battleship | 317631 | [317631-battleship.json](./317631-battleship.json) |
+| Battleship | 346341 | [346341-battleship.json](./346341-battleship.json) |
 | Battleship | 77147 | [77147-battleship.json](./77147-battleship.json) |
 | Battleship | 95434 | [95434-battleship.json](./95434-battleship.json) |
 | Battleship Apollo | 143669 | [143669-battleship-apollo.json](./143669-battleship-apollo.json) |
@@ -5262,6 +5264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatcore Zero | 405143 | [405143-beatcore-zero.json](./405143-beatcore-zero.json) |
 | Beatcraft Cyclon | 232683 | [232683-beatcraft-cyclon.json](./232683-beatcraft-cyclon.json) |
 | Beatdown Brawler | 130103 | [130103-beatdown-brawler.json](./130103-beatdown-brawler.json) |
+| Beatdown City Survivors | 346350 | [346350-beatdown-city-survivors.json](./346350-beatdown-city-survivors.json) |
 | Beatdown Dungeon | 116959 | [116959-beatdown-dungeon.json](./116959-beatdown-dungeon.json) |
 | Beatdown! | 89815 | [89815-beatdown.json](./89815-beatdown.json) |
 | Beatem Tom and Jerry | 100822 | [100822-beatem-tom-and-jerry.json](./100822-beatem-tom-and-jerry.json) |
@@ -11111,6 +11114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BLT Blast | 274862 | [274862-blt-blast.json](./274862-blt-blast.json) |
 | Blu Bandana | 44198 | [44198-blu-bandana.json](./44198-blu-bandana.json) |
 | Blu-Dude In The Quest for Chocolate Milk | 312164 | [312164-blu-dude-in-the-quest-for-chocolate-milk.json](./312164-blu-dude-in-the-quest-for-chocolate-milk.json) |
+| Blu-dude in the Quest of Reality in Time | 346480 | [346480-blu-dude-in-the-quest-of-reality-in-time.json](./346480-blu-dude-in-the-quest-of-reality-in-time.json) |
 | Blub | 274497 | [274497-blub.json](./274497-blub.json) |
 | Blub Emporium | 158418 | [158418-blub-emporium.json](./158418-blub-emporium.json) |
 | Blubber | 312582 | [312582-blubber.json](./312582-blubber.json) |
