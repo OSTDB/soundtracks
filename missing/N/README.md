@@ -1609,6 +1609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromancer | 76450 | [76450-necromancer.json](./76450-necromancer.json) |
 | NecRomancer | 176838 | [176838-necromancer.json](./176838-necromancer.json) |
 | Necromancer Delivery Service | 406309 | [406309-necromancer-delivery-service.json](./406309-necromancer-delivery-service.json) |
+| Necromancer for a Week | 303930 | [303930-necromancer-for-a-week.json](./303930-necromancer-for-a-week.json) |
 | Necromancer Nonsense | 347151 | [347151-necromancer-nonsense.json](./347151-necromancer-nonsense.json) |
 | Necromancer Park | 420312 | [420312-necromancer-park.json](./420312-necromancer-park.json) |
 | Necromancer Rising | 66572 | [66572-necromancer-rising.json](./66572-necromancer-rising.json) |
@@ -4219,6 +4220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Patrol Rules | 368271 | [368271-night-patrol-rules.json](./368271-night-patrol-rules.json) |
 | Night Plane | 378426 | [378426-night-plane.json](./378426-night-plane.json) |
 | Night Poetry | 264669 | [264669-night-poetry.json](./264669-night-poetry.json) |
+| Night Project | 303974 | [303974-night-project.json](./303974-night-project.json) |
 | Night Pump | 399005 | [399005-night-pump.json](./399005-night-pump.json) |
 | Night Pump: A Horror Game Remake | 402239 | [402239-night-pump-a-horror-game-remake.json](./402239-night-pump-a-horror-game-remake.json) |
 | Night Racer: Street Racing 3D | 241827 | [241827-night-racer-street-racing-3d.json](./241827-night-racer-street-racing-3d.json) |
@@ -4615,6 +4617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightslink | 165643 | [165643-nightslink.json](./165643-nightslink.json) |
 | Nightsoil | 391672 | [391672-nightsoil.json](./391672-nightsoil.json) |
 | Nightsong | 257202 | [257202-nightsong.json](./257202-nightsong.json) |
+| NightSong | 303935 | [303935-nightsong.json](./303935-nightsong.json) |
 | Nightstar: Alliance | 103233 | [103233-nightstar-alliance.json](./103233-nightstar-alliance.json) |
 | Nightstar: Rogue Wings | 29419 | [29419-nightstar-rogue-wings.json](./29419-nightstar-rogue-wings.json) |
 | Nightstar: Starfighter | 31815 | [31815-nightstar-starfighter.json](./31815-nightstar-starfighter.json) |
@@ -6240,6 +6243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nomolos: Storming the Catsle | 48699 | [48699-nomolos-storming-the-catsle.json](./48699-nomolos-storming-the-catsle.json) |
 | Nomori | 213574 | [213574-nomori.json](./213574-nomori.json) |
 | Noms the Fish | 112367 | [112367-noms-the-fish.json](./112367-noms-the-fish.json) |
+| Nomu | 302314 | [302314-nomu.json](./302314-nomu.json) |
 | Non Eternals | 397496 | [397496-non-eternals.json](./397496-non-eternals.json) |
 | Non Euclidean Room | 356877 | [356877-non-euclidean-room.json](./356877-non-euclidean-room.json) |
 | Non Flying Soldiers | 54252 | [54252-non-flying-soldiers.json](./54252-non-flying-soldiers.json) |
