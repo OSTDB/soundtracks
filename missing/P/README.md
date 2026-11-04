@@ -7744,6 +7744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Game Maker Series: Cat and Castle | 288314 | [288314-pixel-game-maker-series-cat-and-castle.json](./288314-pixel-game-maker-series-cat-and-castle.json) |
 | Pixel Game Maker Series: Chrotopia | 320460 | [320460-pixel-game-maker-series-chrotopia.json](./320460-pixel-game-maker-series-chrotopia.json) |
 | Pixel Game Maker Series: Clam Knight | 214686 | [214686-pixel-game-maker-series-clam-knight.json](./214686-pixel-game-maker-series-clam-knight.json) |
+| Pixel Game Maker Series: Giri Jump Extreme | 343554 | [343554-pixel-game-maker-series-giri-jump-extreme.json](./343554-pixel-game-maker-series-giri-jump-extreme.json) |
 | Pixel Game Maker Series: HacoPiyo | 356533 | [356533-pixel-game-maker-series-hacopiyo.json](./356533-pixel-game-maker-series-hacopiyo.json) |
 | Pixel Game Maker Series: Hunter of Devil | 284954 | [284954-pixel-game-maker-series-hunter-of-devil.json](./284954-pixel-game-maker-series-hunter-of-devil.json) |
 | Pixel Game Maker Series: Isekai Quartet Adventure - Action Game | 152891 | [152891-pixel-game-maker-series-isekai-quartet-adventure-action-game.json](./152891-pixel-game-maker-series-isekai-quartet-adventure-action-game.json) |
