@@ -4848,6 +4848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil Dungeon Wizard | 181166 | [181166-lil-dungeon-wizard.json](./181166-lil-dungeon-wizard.json) |
 | Lil Gator Game | 145796 | [145796-lil-gator-game.json](./145796-lil-gator-game.json) |
 | Lil Gator Game: Gator of the Year Edition | 385125 | [385125-lil-gator-game-gator-of-the-year-edition.json](./385125-lil-gator-game-gator-of-the-year-edition.json) |
+| Lil Gator Game: In the Dark | 328135 | [328135-lil-gator-game-in-the-dark.json](./328135-lil-gator-game-in-the-dark.json) |
 | Lil Ghost Garden | 128426 | [128426-lil-ghost-garden.json](./128426-lil-ghost-garden.json) |
 | Lil Guy Resort | 380405 | [380405-lil-guy-resort.json](./380405-lil-guy-resort.json) |
 | Lil Guys | 322992 | [322992-lil-guys.json](./322992-lil-guys.json) |
@@ -4860,6 +4861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil Spoops | 236021 | [236021-lil-spoops.json](./236021-lil-spoops.json) |
 | Lil Tanks | 28046 | [28046-lil-tanks.json](./28046-lil-tanks.json) |
 | Lil Wayne Slots: Slot Machines | 323154 | [323154-lil-wayne-slots-slot-machines.json](./323154-lil-wayne-slots-slot-machines.json) |
+| Lil Ye Land | 328123 | [328123-lil-ye-land.json](./328123-lil-ye-land.json) |
 | Lil' Airport | 301267 | [301267-lil-airport.json](./301267-lil-airport.json) |
 | Lil' Drone | 186149 | [186149-lil-drone.json](./186149-lil-drone.json) |
 | Lil' Guardsman | 243914 | [243914-lil-guardsman.json](./243914-lil-guardsman.json) |
