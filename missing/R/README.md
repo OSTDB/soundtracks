@@ -3089,6 +3089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm Runner | 357701 | [357701-realm-runner.json](./357701-realm-runner.json) |
 | Realm Runners | 95067 | [95067-realm-runners.json](./95067-realm-runners.json) |
 | Realm Survivors | 337163 | [337163-realm-survivors.json](./337163-realm-survivors.json) |
+| Realm Traveler | 333860 | [333860-realm-traveler.json](./333860-realm-traveler.json) |
 | Realm Watch | 347371 | [347371-realm-watch.json](./347371-realm-watch.json) |
 | REalM: Walk of Soul | 34104 | [34104-realm-walk-of-soul.json](./34104-realm-walk-of-soul.json) |
 | Realmbound | 297926 | [297926-realmbound.json](./297926-realmbound.json) |
