@@ -714,6 +714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Lively Haunt | 265099 | [265099-a-lively-haunt.json](./265099-a-lively-haunt.json) |
 | A Living Room | 293082 | [293082-a-living-room.json](./293082-a-living-room.json) |
 | A Loddle to the Left | 324193 | [324193-a-loddle-to-the-left.json](./324193-a-loddle-to-the-left.json) |
+| A Logical Dive | 316001 | [316001-a-logical-dive.json](./316001-a-logical-dive.json) |
 | A Lonely Cabin Trip | 237065 | [237065-a-lonely-cabin-trip.json](./237065-a-lonely-cabin-trip.json) |
 | A Loney | 207765 | [207765-a-loney.json](./207765-a-loney.json) |
 | A Long Climb Ago | 349207 | [349207-a-long-climb-ago.json](./349207-a-long-climb-ago.json) |
@@ -10118,6 +10119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anna: The Series Test | 156645 | [156645-anna-the-series-test.json](./156645-anna-the-series-test.json) |
 | Anna's Bakery Shop | 422138 | [422138-annas-bakery-shop.json](./422138-annas-bakery-shop.json) |
 | Anna's Gram | 94252 | [94252-annas-gram.json](./94252-annas-gram.json) |
+| Anna's Monster Farm: Begins | 316293 | [316293-annas-monster-farm-begins.json](./316293-annas-monster-farm-begins.json) |
 | Anna's Quest | 11367 | [11367-annas-quest.json](./11367-annas-quest.json) |
 | Annabel | 92055 | [92055-annabel.json](./92055-annabel.json) |
 | Annabel Gray | 15596 | [15596-annabel-gray.json](./15596-annabel-gray.json) |
@@ -14533,6 +14535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashton's Family Resort | 52420 | [52420-ashtons-family-resort.json](./52420-ashtons-family-resort.json) |
 | Ashton's Family Resort | 52604 | [52604-ashtons-family-resort.json](./52604-ashtons-family-resort.json) |
 | Ashura Blaster | 38516 | [38516-ashura-blaster.json](./38516-ashura-blaster.json) |
+| Ashura The Glitch | 316301 | [316301-ashura-the-glitch.json](./316301-ashura-the-glitch.json) |
 | Ashura: Dark Reign | 326818 | [326818-ashura-dark-reign.json](./326818-ashura-dark-reign.json) |
 | Ashwake | 346481 | [346481-ashwake.json](./346481-ashwake.json) |
 | Ashwalkers: A Survival Journey | 138669 | [138669-ashwalkers-a-survival-journey.json](./138669-ashwalkers-a-survival-journey.json) |
@@ -14652,6 +14655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ASRECorp | 32176 | [32176-asrecorp.json](./32176-asrecorp.json) |
 | Ass Sniffing Simulator | 398496 | [398496-ass-sniffing-simulator.json](./398496-ass-sniffing-simulator.json) |
 | Ass: Press F! | 379705 | [379705-ass-press-f.json](./379705-ass-press-f.json) |
+| Assasseed's Crin | 315999 | [315999-assasseeds-crin.json](./315999-assasseeds-crin.json) |
 | Assassin | 11920 | [11920-assassin.json](./11920-assassin.json) |
 | Assassin 2015 | 69944 | [69944-assassin-2015.json](./69944-assassin-2015.json) |
 | Assassin at Crimson Keep | 186473 | [186473-assassin-at-crimson-keep.json](./186473-assassin-at-crimson-keep.json) |
@@ -16074,6 +16078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
@@ -17772,6 +17777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azure Influx | 322397 | [322397-azure-influx.json](./322397-azure-influx.json) |
 | Azure Moon | 271856 | [271856-azure-moon.json](./271856-azure-moon.json) |
 | Azure Orphanage | 249212 | [249212-azure-orphanage.json](./249212-azure-orphanage.json) |
+| Azure Plays The Game | 316302 | [316302-azure-plays-the-game.json](./316302-azure-plays-the-game.json) |
 | Azure Reflections | 60315 | [60315-azure-reflections.json](./60315-azure-reflections.json) |
 | Azure Saga: Pathfinder - Deluxe Edition | 116009 | [116009-azure-saga-pathfinder-deluxe-edition.json](./116009-azure-saga-pathfinder-deluxe-edition.json) |
 | Azure Sheep | 150595 | [150595-azure-sheep.json](./150595-azure-sheep.json) |
