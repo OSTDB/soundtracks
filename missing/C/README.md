@@ -11655,6 +11655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Rings Pro | 118572 | [118572-color-rings-pro.json](./118572-color-rings-pro.json) |
 | Color Rings Puzzle | 104652 | [104652-color-rings-puzzle.json](./104652-color-rings-puzzle.json) |
 | Color Road | 100877 | [100877-color-road.json](./100877-color-road.json) |
+| Color Road: Complete Edition | 300901 | [300901-color-road-complete-edition.json](./300901-color-road-complete-edition.json) |
 | Color Road: Sweet & Shiny | 295699 | [295699-color-road-sweet-and-shiny.json](./295699-color-road-sweet-and-shiny.json) |
 | Color Road! | 90364 | [90364-color-road.json](./90364-color-road.json) |
 | Color Roll 3D | 215242 | [215242-color-roll-3d.json](./215242-color-roll-3d.json) |
@@ -20219,6 +20220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cynthia: Hidden in the Moonshadow - Silver Edition | 333681 | [333681-cynthia-hidden-in-the-moonshadow-silver-edition.json](./333681-cynthia-hidden-in-the-moonshadow-silver-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Special Edition | 306491 | [306491-cynthia-hidden-in-the-moonshadow-special-edition.json](./306491-cynthia-hidden-in-the-moonshadow-special-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Summer Edition | 317261 | [317261-cynthia-hidden-in-the-moonshadow-summer-edition.json](./317261-cynthia-hidden-in-the-moonshadow-summer-edition.json) |
+| Cynthia: Hidden in the Moonshadow - Ultimate Edition | 300900 | [300900-cynthia-hidden-in-the-moonshadow-ultimate-edition.json](./300900-cynthia-hidden-in-the-moonshadow-ultimate-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Winter Edition | 331268 | [331268-cynthia-hidden-in-the-moonshadow-winter-edition.json](./331268-cynthia-hidden-in-the-moonshadow-winter-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Xmas Edition | 331269 | [331269-cynthia-hidden-in-the-moonshadow-xmas-edition.json](./331269-cynthia-hidden-in-the-moonshadow-xmas-edition.json) |
 | CYOM | 341643 | [341643-cyom.json](./341643-cyom.json) |
