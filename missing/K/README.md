@@ -4590,6 +4590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knock on the Coffin Lid: Complete Edition | 402712 | [402712-knock-on-the-coffin-lid-complete-edition.json](./402712-knock-on-the-coffin-lid-complete-edition.json) |
 | Knock on the Coffin Lid: Nightmares of Millenis | 381880 | [381880-knock-on-the-coffin-lid-nightmares-of-millenis.json](./381880-knock-on-the-coffin-lid-nightmares-of-millenis.json) |
 | Knock on the Occult Door | 374817 | [374817-knock-on-the-occult-door.json](./374817-knock-on-the-occult-door.json) |
+| Knock on the Window | 333306 | [333306-knock-on-the-window.json](./333306-knock-on-the-window.json) |
 | Knock Out!! | 40231 | [40231-knock-out.json](./40231-knock-out.json) |
 | Knock-a-Block | 58171 | [58171-knock-a-block.json](./58171-knock-a-block.json) |
 | Knock-knock | 13153 | [13153-knock-knock.json](./13153-knock-knock.json) |
@@ -4604,6 +4605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knockin | 77015 | [77015-knockin.json](./77015-knockin.json) |
 | Knocking on her door | 108068 | [108068-knocking-on-her-door.json](./108068-knocking-on-her-door.json) |
 | Knocking Up My Nympho Neighbors | 235828 | [235828-knocking-up-my-nympho-neighbors.json](./235828-knocking-up-my-nympho-neighbors.json) |
+| Knockoff | 333289 | [333289-knockoff.json](./333289-knockoff.json) |
 | Knockout | 245133 | [245133-knockout.json](./245133-knockout.json) |
 | Knockout 2: Wrath of the Karen | 244756 | [244756-knockout-2-wrath-of-the-karen.json](./244756-knockout-2-wrath-of-the-karen.json) |
 | Knockout Bowling VR | 129695 | [129695-knockout-bowling-vr.json](./129695-knockout-bowling-vr.json) |
@@ -6176,6 +6178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyoufu Shinbun | 77394 | [77394-kyoufu-shinbun.json](./77394-kyoufu-shinbun.json) |
 | Kyoufu Shinbun Heisei-ban: Kaiki! Shinrei File | 336005 | [336005-kyoufu-shinbun-heisei-ban-kaiki-shinrei-file.json](./336005-kyoufu-shinbun-heisei-ban-kaiki-shinrei-file.json) |
 | Kyoufu Yawa | 397907 | [397907-kyoufu-yawa.json](./397907-kyoufu-yawa.json) |
+| Kyoukai | 333311 | [333311-kyoukai.json](./333311-kyoukai.json) |
 | Kyoukai no Shirayuki | 12635 | [12635-kyoukai-no-shirayuki.json](./12635-kyoukai-no-shirayuki.json) |
 | Kyoukaisen no Horizon Portable | 64999 | [64999-kyoukaisen-no-horizon-portable.json](./64999-kyoukaisen-no-horizon-portable.json) |
 | Kyouki Drip | 281252 | [281252-kyouki-drip.json](./281252-kyouki-drip.json) |
