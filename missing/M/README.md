@@ -5595,6 +5595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max and Maya: Cat simulator | 81891 | [81891-max-and-maya-cat-simulator.json](./81891-max-and-maya-cat-simulator.json) |
 | Max and Sparky | 66887 | [66887-max-and-sparky.json](./66887-max-and-sparky.json) |
 | Max and the Haunted Castle | 127150 | [127150-max-and-the-haunted-castle.json](./127150-max-and-the-haunted-castle.json) |
+| Max and the Magic Hammer | 335747 | [335747-max-and-the-magic-hammer.json](./335747-max-and-the-magic-hammer.json) |
 | Max and the Magic Marker: Gold Edition | 52571 | [52571-max-and-the-magic-marker-gold-edition.json](./52571-max-and-the-magic-marker-gold-edition.json) |
 | Max and the Magician | 69704 | [69704-max-and-the-magician.json](./69704-max-and-the-magician.json) |
 | Max and the Pirates | 209540 | [209540-max-and-the-pirates.json](./209540-max-and-the-pirates.json) |
@@ -16124,6 +16125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonstone Island: Arcane Artifacts | 301852 | [301852-moonstone-island-arcane-artifacts.json](./301852-moonstone-island-arcane-artifacts.json) |
 | Moonstone Island: Autumnal Accessories DLC Pack | 317958 | [317958-moonstone-island-autumnal-accessories-dlc-pack.json](./317958-moonstone-island-autumnal-accessories-dlc-pack.json) |
 | Moonstone Island: Chef's Kiss DLC Pack | 310468 | [310468-moonstone-island-chefs-kiss-dlc-pack.json](./310468-moonstone-island-chefs-kiss-dlc-pack.json) |
+| Moonstone Island: Collector's Edition | 335612 | [335612-moonstone-island-collectors-edition.json](./335612-moonstone-island-collectors-edition.json) |
 | Moonstone Island: Cozy Comforts DLC | 306555 | [306555-moonstone-island-cozy-comforts-dlc.json](./306555-moonstone-island-cozy-comforts-dlc.json) |
 | Moonstone Island: Decor Galor DLC Pack | 306556 | [306556-moonstone-island-decor-galor-dlc-pack.json](./306556-moonstone-island-decor-galor-dlc-pack.json) |
 | Moonstone Island: Decorator's Pass | 306557 | [306557-moonstone-island-decorators-pass.json](./306557-moonstone-island-decorators-pass.json) |
@@ -20676,6 +20678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myst | 340011 | [340011-myst.json](./340011-myst.json) |
 | Myst | 347130 | [347130-myst.json](./347130-myst.json) |
 | Myst 25th Anniversary Collection | 101035 | [101035-myst-25th-anniversary-collection.json](./101035-myst-25th-anniversary-collection.json) |
+| Myst 30th Anniversary Collection | 335607 | [335607-myst-30th-anniversary-collection.json](./335607-myst-30th-anniversary-collection.json) |
 | Myst Demake | 334868 | [334868-myst-demake.json](./334868-myst-demake.json) |
 | Myst House | 353591 | [353591-myst-house.json](./353591-myst-house.json) |
 | Myst Mobile | 237366 | [237366-myst-mobile.json](./237366-myst-mobile.json) |
