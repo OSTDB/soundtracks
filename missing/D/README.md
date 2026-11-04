@@ -11926,6 +11926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Forget Me: Deluxe Edition | 154519 | [154519-dont-forget-me-deluxe-edition.json](./154519-dont-forget-me-deluxe-edition.json) |
 | Don't Forget Our Esports Dream | 110682 | [110682-dont-forget-our-esports-dream.json](./110682-dont-forget-our-esports-dream.json) |
 | Don't Forget the Phone | 398485 | [398485-dont-forget-the-phone.json](./398485-dont-forget-the-phone.json) |
+| Don't Forget to Smile | 335025 | [335025-dont-forget-to-smile.json](./335025-dont-forget-to-smile.json) |
 | Don't Fraud My Heart! | 213306 | [213306-dont-fraud-my-heart.json](./213306-dont-fraud-my-heart.json) |
 | Don't freak out | 191069 | [191069-dont-freak-out.json](./191069-dont-freak-out.json) |
 | Don't Freak Part 1 | 334875 | [334875-dont-freak-part-1.json](./334875-dont-freak-part-1.json) |
@@ -12946,6 +12947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon: Dorayaki House | 310670 | [310670-doraemon-dorayaki-house.json](./310670-doraemon-dorayaki-house.json) |
 | Doraemon: Giga Zombie no Gyakushuu | 48523 | [48523-doraemon-giga-zombie-no-gyakushuu.json](./48523-doraemon-giga-zombie-no-gyakushuu.json) |
 | Doraemon: Kimi to Pet no Monogatari | 91775 | [91775-doraemon-kimi-to-pet-no-monogatari.json](./91775-doraemon-kimi-to-pet-no-monogatari.json) |
+| Doraemon: Koe de dokan! Waku-waku Kuuki Hou!! | 335040 | [335040-doraemon-koe-de-dokan-waku-waku-kuuki-hou.json](./335040-doraemon-koe-de-dokan-waku-waku-kuuki-hou.json) |
 | Doraemon: Meikyuu Daisakusen | 43194 | [43194-doraemon-meikyuu-daisakusen.json](./43194-doraemon-meikyuu-daisakusen.json) |
 | Doraemon: Midori no Wakusei Doki-doki Daikyuushutsu! | 49265 | [49265-doraemon-midori-no-wakusei-doki-doki-daikyuushutsu.json](./49265-doraemon-midori-no-wakusei-doki-doki-daikyuushutsu.json) |
 | Doraemon: Minna de Asobou! Mini Doland | 50587 | [50587-doraemon-minna-de-asobou-mini-doland.json](./50587-doraemon-minna-de-asobou-mini-doland.json) |
