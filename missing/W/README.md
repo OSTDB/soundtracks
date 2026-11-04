@@ -3414,6 +3414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Westboro | 28296 | [28296-westboro.json](./28296-westboro.json) |
 | Westbound: Perils Ranch | 323325 | [323325-westbound-perils-ranch.json](./323325-westbound-perils-ranch.json) |
 | Westbound: Pioneer Adventure | 39170 | [39170-westbound-pioneer-adventure.json](./39170-westbound-pioneer-adventure.json) |
+| Westen House | 311945 | [311945-westen-house.json](./311945-westen-house.json) |
 | Westerado | 8903 | [8903-westerado.json](./8903-westerado.json) |
 | Westerado Poker | 397140 | [397140-westerado-poker.json](./397140-westerado-poker.json) |
 | Westerlands: Girly runaways story | 147247 | [147247-westerlands-girly-runaways-story.json](./147247-westerlands-girly-runaways-story.json) |
@@ -6167,6 +6168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Trainer | 251384 | [251384-witch-trainer.json](./251384-witch-trainer.json) |
 | Witch Trials | 76874 | [76874-witch-trials.json](./76874-witch-trials.json) |
 | Witch War 1 | 352384 | [352384-witch-war-1.json](./352384-witch-war-1.json) |
+| Witch Way | 311935 | [311935-witch-way.json](./311935-witch-way.json) |
 | Witch Weapon | 113628 | [113628-witch-weapon.json](./113628-witch-weapon.json) |
 | Witch World | 244226 | [244226-witch-world.json](./244226-witch-world.json) |
 | Witch Wrath | 299861 | [299861-witch-wrath.json](./299861-witch-wrath.json) |
