@@ -3462,6 +3462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next of Kin: Epiphany | 420665 | [420665-next-of-kin-epiphany.json](./420665-next-of-kin-epiphany.json) |
 | Next of Kin: Fidelity | 370811 | [370811-next-of-kin-fidelity.json](./370811-next-of-kin-fidelity.json) |
 | Next Patient | 386899 | [386899-next-patient.json](./386899-next-patient.json) |
+| Next Player | 337363 | [337363-next-player.json](./337363-next-player.json) |
 | Next Player Please | 204346 | [204346-next-player-please.json](./204346-next-player-please.json) |
 | Next Power | 242772 | [242772-next-power.json](./242772-next-power.json) |
 | Next Quintillionaire | 391611 | [391611-next-quintillionaire.json](./391611-next-quintillionaire.json) |
@@ -6552,6 +6553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nosferatu no Otome-tachi | 403637 | [403637-nosferatu-no-otome-tachi.json](./403637-nosferatu-no-otome-tachi.json) |
 | Nosferatu: The Wrath of Malachi | 8960 | [8960-nosferatu-the-wrath-of-malachi.json](./8960-nosferatu-the-wrath-of-malachi.json) |
 | Nosferatu's Butler | 149808 | [149808-nosferatus-butler.json](./149808-nosferatus-butler.json) |
+| Nosferatu's Dominion | 337370 | [337370-nosferatus-dominion.json](./337370-nosferatus-dominion.json) |
 | Nosfereatyou | 179579 | [179579-nosfereatyou.json](./179579-nosfereatyou.json) |
 | Nosher | 200820 | [200820-nosher.json](./200820-nosher.json) |
 | Noskovrazdor | 402543 | [402543-noskovrazdor.json](./402543-noskovrazdor.json) |
