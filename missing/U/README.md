@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima Ratio Regum | 142341 | [142341-ultima-ratio-regum.json](./142341-ultima-ratio-regum.json) |
 | Ultima TD | 236261 | [236261-ultima-td.json](./236261-ultima-td.json) |
 | Ultima Underworld II: Labyrinth of Worlds | 2530 | [2530-ultima-underworld-ii-labyrinth-of-worlds.json](./2530-ultima-underworld-ii-labyrinth-of-worlds.json) |
+| Ultima Underworld: The Stygian Abyss | 321879 | [321879-ultima-underworld-the-stygian-abyss.json](./321879-ultima-underworld-the-stygian-abyss.json) |
 | Ultima V: Warriors of Destiny | 12229 | [12229-ultima-v-warriors-of-destiny.json](./12229-ultima-v-warriors-of-destiny.json) |
 | Ultima VI: The False Prophet | 12230 | [12230-ultima-vi-the-false-prophet.json](./12230-ultima-vi-the-false-prophet.json) |
 | Ultima VII: Part Two - Serpent Isle | 9574 | [9574-ultima-vii-part-two-serpent-isle.json](./9574-ultima-vii-part-two-serpent-isle.json) |
@@ -697,6 +698,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Solitaire Collection | 270091 | [270091-ultimate-solitaire-collection.json](./270091-ultimate-solitaire-collection.json) |
 | Ultimate Sonic Fighter | 316593 | [316593-ultimate-sonic-fighter.json](./316593-ultimate-sonic-fighter.json) |
 | Ultimate Sonic Fighter Remaster | 316594 | [316594-ultimate-sonic-fighter-remaster.json](./316594-ultimate-sonic-fighter-remaster.json) |
+| Ultimate Sonic Heroes Fighters | 321917 | [321917-ultimate-sonic-heroes-fighters.json](./321917-ultimate-sonic-heroes-fighters.json) |
+| Ultimate Sonic Heroes Fighters: Definitive Edition | 321918 | [321918-ultimate-sonic-heroes-fighters-definitive-edition.json](./321918-ultimate-sonic-heroes-fighters-definitive-edition.json) |
 | Ultimate Sonic Quiz V.2 | 328357 | [328357-ultimate-sonic-quiz-v-2.json](./328357-ultimate-sonic-quiz-v-2.json) |
 | Ultimate Sonic Smackdown | 350894 | [350894-ultimate-sonic-smackdown.json](./350894-ultimate-sonic-smackdown.json) |
 | Ultimate Space Battleship | 337525 | [337525-ultimate-space-battleship.json](./337525-ultimate-space-battleship.json) |
