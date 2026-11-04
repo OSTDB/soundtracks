@@ -5667,6 +5667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -10949,6 +10950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Math: Calculating Crew | 313278 | [313278-mighty-math-calculating-crew.json](./313278-mighty-math-calculating-crew.json) |
 | Mighty Max | 217719 | [217719-mighty-max.json](./217719-mighty-max.json) |
 | Mighty Max | 218349 | [218349-mighty-max.json](./218349-mighty-max.json) |
+| Mighty Meow | 347982 | [347982-mighty-meow.json](./347982-mighty-meow.json) |
 | Mighty Metas | 316467 | [316467-mighty-metas.json](./316467-mighty-metas.json) |
 | Mighty Mighty Missile! | 128890 | [128890-mighty-mighty-missile.json](./128890-mighty-mighty-missile.json) |
 | Mighty Mike (Power Pete) | 72658 | [72658-mighty-mike-power-pete.json](./72658-mighty-mike-power-pete.json) |
@@ -12907,6 +12909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Mirror | 230701 | [230701-mirror-mirror.json](./230701-mirror-mirror.json) |
 | Mirror Mirror | 340938 | [340938-mirror-mirror.json](./340938-mirror-mirror.json) |
 | Mirror Movement | 156825 | [156825-mirror-movement.json](./156825-mirror-movement.json) |
+| Mirror Museum | 348003 | [348003-mirror-museum.json](./348003-mirror-museum.json) |
 | Mirror Mysteries | 17204 | [17204-mirror-mysteries.json](./17204-mirror-mysteries.json) |
 | Mirror Mysteries 2: Forgotten Kingdoms | 36333 | [36333-mirror-mysteries-2-forgotten-kingdoms.json](./36333-mirror-mysteries-2-forgotten-kingdoms.json) |
 | Mirror of Heaven | 380979 | [380979-mirror-of-heaven.json](./380979-mirror-of-heaven.json) |
@@ -17655,6 +17658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Chin | 409760 | [409760-mr-chin.json](./409760-mr-chin.json) |
 | Mr Constructor | 54226 | [54226-mr-constructor.json](./54226-mr-constructor.json) |
 | Mr Crab | 57146 | [57146-mr-crab.json](./57146-mr-crab.json) |
+| Mr Donald | 348006 | [348006-mr-donald.json](./348006-mr-donald.json) |
 | Mr Fish's Awful Adventure | 181174 | [181174-mr-fishs-awful-adventure.json](./181174-mr-fishs-awful-adventure.json) |
 | Mr Flippers Out For Vengeance | 278668 | [278668-mr-flippers-out-for-vengeance.json](./278668-mr-flippers-out-for-vengeance.json) |
 | Mr Future Ninja! | 110213 | [110213-mr-future-ninja.json](./110213-mr-future-ninja.json) |
@@ -18601,6 +18605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muscle World | 152096 | [152096-muscle-world.json](./152096-muscle-world.json) |
 | Muscles and Bullets | 124413 | [124413-muscles-and-bullets.json](./124413-muscles-and-bullets.json) |
 | Muse | 333096 | [333096-muse.json](./333096-muse.json) |
+| Muse | 347996 | [347996-muse.json](./347996-muse.json) |
 | Muse & Barbarian | 219667 | [219667-muse-and-barbarian.json](./219667-muse-and-barbarian.json) |
 | Muse Dash | 86316 | [86316-muse-dash.json](./86316-muse-dash.json) |
 | Muse Dash 2 | 400225 | [400225-muse-dash-2.json](./400225-muse-dash-2.json) |
