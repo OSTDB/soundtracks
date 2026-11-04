@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac 16 | 313499 | [313499-pac-16.json](./313499-pac-16.json) |
 | Pac Adventures 3D | 105307 | [105307-pac-adventures-3d.json](./105307-pac-adventures-3d.json) |
 | Pac Brothers | 47025 | [47025-pac-brothers.json](./47025-pac-brothers.json) |
+| Pac Cat | 313948 | [313948-pac-cat.json](./313948-pac-cat.json) |
 | Pac Droids | 94590 | [94590-pac-droids.json](./94590-pac-droids.json) |
 | Pac Girl | 25146 | [25146-pac-girl.json](./25146-pac-girl.json) |
 | Pac Maze | 312907 | [312907-pac-maze.json](./312907-pac-maze.json) |
@@ -1661,6 +1662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper World Escape 4 | 315691 | [315691-paper-world-escape-4.json](./315691-paper-world-escape-4.json) |
 | Paper Xian | 374906 | [374906-paper-xian.json](./374906-paper-xian.json) |
 | Paper Zelda RPG | 142889 | [142889-paper-zelda-rpg.json](./142889-paper-zelda-rpg.json) |
+| Paper-Girl-Chain | 313954 | [313954-paper-girl-chain.json](./313954-paper-girl-chain.json) |
 | Paper-io | 79219 | [79219-paper-io.json](./79219-paper-io.json) |
 | Paper.io | 113940 | [113940-paper-io.json](./113940-paper-io.json) |
 | Paper.io 2 | 108159 | [108159-paper-io-2.json](./108159-paper-io-2.json) |
@@ -4667,6 +4669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Island: Build a cute pet shop! | 87391 | [87391-pet-island-build-a-cute-pet-shop.json](./87391-pet-island-build-a-cute-pet-shop.json) |
 | Pet Kawaii Shop | 317211 | [317211-pet-kawaii-shop.json](./317211-pet-kawaii-shop.json) |
 | Pet Knight into cave | 161262 | [161262-pet-knight-into-cave.json](./161262-pet-knight-into-cave.json) |
+| Pet Lands | 313919 | [313919-pet-lands.json](./313919-pet-lands.json) |
 | Pet Luv Spa and Resort Tycoon | 254594 | [254594-pet-luv-spa-and-resort-tycoon.json](./254594-pet-luv-spa-and-resort-tycoon.json) |
 | Pet Mania | 262214 | [262214-pet-mania.json](./262214-pet-mania.json) |
 | Pet Monsters | 55936 | [55936-pet-monsters.json](./55936-pet-monsters.json) |
@@ -7772,6 +7775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Duel | 327928 | [327928-pixel-duel.json](./327928-pixel-duel.json) |
 | Pixel Dungeon | 9795 | [9795-pixel-dungeon.json](./9795-pixel-dungeon.json) |
 | Pixel Dungeon Easy | 312606 | [312606-pixel-dungeon-easy.json](./312606-pixel-dungeon-easy.json) |
+| Pixel Dungeon Prayers | 313942 | [313942-pixel-dungeon-prayers.json](./313942-pixel-dungeon-prayers.json) |
 | Pixel Dungeon RPG | 326616 | [326616-pixel-dungeon-rpg.json](./326616-pixel-dungeon-rpg.json) |
 | Pixel Dungeon VR | 348951 | [348951-pixel-dungeon-vr.json](./348951-pixel-dungeon-vr.json) |
 | Pixel Dungeons | 364025 | [364025-pixel-dungeons.json](./364025-pixel-dungeons.json) |
