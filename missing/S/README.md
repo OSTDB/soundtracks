@@ -14941,6 +14941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow | 6749 | [6749-snow.json](./6749-snow.json) |
 | Snow Aces League | 371428 | [371428-snow-aces-league.json](./371428-snow-aces-league.json) |
 | Snow Angel | 264127 | [264127-snow-angel.json](./264127-snow-angel.json) |
+| Snow Angel and Silver Devil | 302022 | [302022-snow-angel-and-silver-devil.json](./302022-snow-angel-and-silver-devil.json) |
 | Snow Apocalypse | 155686 | [155686-snow-apocalypse.json](./155686-snow-apocalypse.json) |
 | Snow Arena | 119497 | [119497-snow-arena.json](./119497-snow-arena.json) |
 | Snow Ash | 325064 | [325064-snow-ash.json](./325064-snow-ash.json) |
@@ -19048,7 +19049,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -22219,6 +22219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpreadCheat | 322905 | [322905-spreadcheat.json](./322905-spreadcheat.json) |
 | Spreadsheets & Dungeons | 400388 | [400388-spreadsheets-and-dungeons.json](./400388-spreadsheets-and-dungeons.json) |
 | Spreadstorm | 76542 | [76542-spreadstorm.json](./76542-spreadstorm.json) |
+| Spready | 302009 | [302009-spready.json](./302009-spready.json) |
 | Spriggan | 280118 | [280118-spriggan.json](./280118-spriggan.json) |
 | Spriggan Mark 2: Re-Terraform Project | 37616 | [37616-spriggan-mark-2-re-terraform-project.json](./37616-spriggan-mark-2-re-terraform-project.json) |
 | Spriggan Powered | 38358 | [38358-spriggan-powered.json](./38358-spriggan-powered.json) |
@@ -32565,6 +32566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superfluous Returnz | 173055 | [173055-superfluous-returnz.json](./173055-superfluous-returnz.json) |
 | Superfly | 171966 | [171966-superfly.json](./171966-superfly.json) |
 | Superfly | 44367 | [44367-superfly.json](./44367-superfly.json) |
+| SuperFly DX | 301775 | [301775-superfly-dx.json](./301775-superfly-dx.json) |
 | Superfly Santa Claus | 62212 | [62212-superfly-santa-claus.json](./62212-superfly-santa-claus.json) |
 | Superfrog HD | 8873 | [8873-superfrog-hd.json](./8873-superfrog-hd.json) |
 | Superfrog/Arcade Pool | 79510 | [79510-superfrog-arcade-pool.json](./79510-superfrog-arcade-pool.json) |
@@ -33517,6 +33519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi on Wheels | 386292 | [386292-sushi-on-wheels.json](./386292-sushi-on-wheels.json) |
 | Sushi Ou | 308894 | [308894-sushi-ou.json](./308894-sushi-ou.json) |
 | Sushi Plus | 302236 | [302236-sushi-plus.json](./302236-sushi-plus.json) |
+| Sushi Race | 302005 | [302005-sushi-race.json](./302005-sushi-race.json) |
 | Sushi Race: More Toppings Race Pack | 332600 | [332600-sushi-race-more-toppings-race-pack.json](./332600-sushi-race-more-toppings-race-pack.json) |
 | Sushi Rush | 200844 | [200844-sushi-rush.json](./200844-sushi-rush.json) |
 | Sushi Shot | 283228 | [283228-sushi-shot.json](./283228-sushi-shot.json) |
@@ -34283,6 +34286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switch or Not? | 95951 | [95951-switch-or-not.json](./95951-switch-or-not.json) |
 | Switch Poker | 339427 | [339427-switch-poker.json](./339427-switch-poker.json) |
 | Switch Race | 306517 | [306517-switch-race.json](./306517-switch-race.json) |
+| Switch Range | 302004 | [302004-switch-range.json](./302004-switch-range.json) |
 | Switch Shapes | 406772 | [406772-switch-shapes.json](./406772-switch-shapes.json) |
 | Switch Sides 2: Sea Sandwich | 255037 | [255037-switch-sides-2-sea-sandwich.json](./255037-switch-sides-2-sea-sandwich.json) |
 | Switch the Darkness | 390449 | [390449-switch-the-darkness.json](./390449-switch-the-darkness.json) |
