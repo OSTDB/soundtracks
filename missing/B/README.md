@@ -946,7 +946,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5877,6 +5876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before Your Eyes | 305472 | [305472-before-your-eyes.json](./305472-before-your-eyes.json) |
 | BeforeDisaster | 368224 | [368224-beforedisaster.json](./368224-beforedisaster.json) |
 | Befriended Curse | 314321 | [314321-befriended-curse.json](./314321-befriended-curse.json) |
+| Befriending the Scarily Cute Fisherman | 298773 | [298773-befriending-the-scarily-cute-fisherman.json](./298773-befriending-the-scarily-cute-fisherman.json) |
 | Befriendus | 179700 | [179700-befriendus.json](./179700-befriendus.json) |
 | Befuddle | 232875 | [232875-befuddle.json](./232875-befuddle.json) |
 | Bega's Battle | 23938 | [23938-begas-battle.json](./23938-begas-battle.json) |
@@ -6125,6 +6125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10 Bundle | 146329 | [146329-ben-10-bundle.json](./146329-ben-10-bundle.json) |
 | Ben 10 Game Generator | 130941 | [130941-ben-10-game-generator.json](./130941-ben-10-game-generator.json) |
 | Ben 10 Game Generator 4D | 131350 | [131350-ben-10-game-generator-4d.json](./131350-ben-10-game-generator-4d.json) |
+| Ben 10 Omniverse: Rise of Heroes | 298766 | [298766-ben-10-omniverse-rise-of-heroes.json](./298766-ben-10-omniverse-rise-of-heroes.json) |
 | Ben 10 Omniverse: The Return of Psyphon | 344520 | [344520-ben-10-omniverse-the-return-of-psyphon.json](./344520-ben-10-omniverse-the-return-of-psyphon.json) |
 | Ben 10 Slammers | 88305 | [88305-ben-10-slammers.json](./88305-ben-10-slammers.json) |
 | Ben 10 Triple Pack | 86074 | [86074-ben-10-triple-pack.json](./86074-ben-10-triple-pack.json) |
@@ -6304,6 +6305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath Her Gaze | 335207 | [335207-beneath-her-gaze.json](./335207-beneath-her-gaze.json) |
 | Beneath Her Starry Sky | 236473 | [236473-beneath-her-starry-sky.json](./236473-beneath-her-starry-sky.json) |
 | Beneath Oresa | 182191 | [182191-beneath-oresa.json](./182191-beneath-oresa.json) |
+| Beneath our Scars | 298769 | [298769-beneath-our-scars.json](./298769-beneath-our-scars.json) |
 | Beneath Paris | 406793 | [406793-beneath-paris.json](./406793-beneath-paris.json) |
 | Beneath the Backrooms | 273368 | [273368-beneath-the-backrooms.json](./273368-beneath-the-backrooms.json) |
 | Beneath the Basement | 187798 | [187798-beneath-the-basement.json](./187798-beneath-the-basement.json) |
