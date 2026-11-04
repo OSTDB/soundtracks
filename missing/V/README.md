@@ -1752,6 +1752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vibes | 354901 | [354901-vibes.json](./354901-vibes.json) |
 | Vibes | 94126 | [94126-vibes.json](./94126-vibes.json) |
 | Vibin'Vendetta | 302671 | [302671-vibinvendetta.json](./302671-vibinvendetta.json) |
+| Vibora | 310901 | [310901-vibora.json](./310901-vibora.json) |
 | Vibrant | 74188 | [74188-vibrant.json](./74188-vibrant.json) |
 | Vibrant Color Simple Answers | 397136 | [397136-vibrant-color-simple-answers.json](./397136-vibrant-color-simple-answers.json) |
 | Vibrant Dash | 368368 | [368368-vibrant-dash.json](./368368-vibrant-dash.json) |
