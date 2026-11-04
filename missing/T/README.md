@@ -2404,6 +2404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taquero Simulator | 301806 | [301806-taquero-simulator.json](./301806-taquero-simulator.json) |
 | Tar Alterra Adventure Game | 165640 | [165640-tar-alterra-adventure-game.json](./165640-tar-alterra-adventure-game.json) |
 | Tarah | 397090 | [397090-tarah.json](./397090-tarah.json) |
+| Taram Baba | 333821 | [333821-taram-baba.json](./333821-taram-baba.json) |
 | Tarantula Virus | 258620 | [258620-tarantula-virus.json](./258620-tarantula-virus.json) |
 | Tarareba | 194555 | [194555-tarareba.json](./194555-tarareba.json) |
 | Taravana | 132251 | [132251-taravana.json](./132251-taravana.json) |
@@ -9765,6 +9766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Golden Mare | 364663 | [364663-the-golden-mare.json](./364663-the-golden-mare.json) |
 | The Golden Path of Plumeboom | 24736 | [24736-the-golden-path-of-plumeboom.json](./24736-the-golden-path-of-plumeboom.json) |
 | The Golden Pearl | 179142 | [179142-the-golden-pearl.json](./179142-the-golden-pearl.json) |
+| The Golden Tile | 333811 | [333811-the-golden-tile.json](./333811-the-golden-tile.json) |
 | The Golden Tower | 362911 | [362911-the-golden-tower.json](./362911-the-golden-tower.json) |
 | The Golden Tulip | 184460 | [184460-the-golden-tulip.json](./184460-the-golden-tulip.json) |
 | The Golden Years: Way Out West | 53740 | [53740-the-golden-years-way-out-west.json](./53740-the-golden-years-way-out-west.json) |
@@ -9997,6 +9999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Griffin and the Minor Canon | 191392 | [191392-the-griffin-and-the-minor-canon.json](./191392-the-griffin-and-the-minor-canon.json) |
 | The Griffon Legend | 202975 | [202975-the-griffon-legend.json](./202975-the-griffon-legend.json) |
 | The Grim Adventures of Billy & Mandy | 248521 | [248521-the-grim-adventures-of-billy-and-mandy.json](./248521-the-grim-adventures-of-billy-and-mandy.json) |
+| The Grim Adventures of Billy & Mandy: Billy the Kid | 333844 | [333844-the-grim-adventures-of-billy-and-mandy-billy-the-kid.json](./333844-the-grim-adventures-of-billy-and-mandy-billy-the-kid.json) |
 | The Grim and I | 120837 | [120837-the-grim-and-i.json](./120837-the-grim-and-i.json) |
 | The Grim Ending | 148919 | [148919-the-grim-ending.json](./148919-the-grim-ending.json) |
 | The Grim Nightmare of Nibras | 207792 | [207792-the-grim-nightmare-of-nibras.json](./207792-the-grim-nightmare-of-nibras.json) |
@@ -19621,6 +19624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Kingdoms Front | 339098 | [339098-three-kingdoms-front.json](./339098-three-kingdoms-front.json) |
 | Three Kingdoms Heroes | 324871 | [324871-three-kingdoms-heroes.json](./324871-three-kingdoms-heroes.json) |
 | Three Kingdoms Heroes | 382485 | [382485-three-kingdoms-heroes.json](./382485-three-kingdoms-heroes.json) |
+| Three Kingdoms Mushouden | 333827 | [333827-three-kingdoms-mushouden.json](./333827-three-kingdoms-mushouden.json) |
 | Three Kingdoms Origin | 245821 | [245821-three-kingdoms-origin.json](./245821-three-kingdoms-origin.json) |
 | Three Kingdoms VR - Jade Knight | 75820 | [75820-three-kingdoms-vr-jade-knight.json](./75820-three-kingdoms-vr-jade-knight.json) |
 | Three Kingdoms Written Words | 157538 | [157538-three-kingdoms-written-words.json](./157538-three-kingdoms-written-words.json) |
