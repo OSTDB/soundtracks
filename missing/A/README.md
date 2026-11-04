@@ -7814,6 +7814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amamane 2: Limited Edition | 167038 | [167038-amamane-2-limited-edition.json](./167038-amamane-2-limited-edition.json) |
 | Amamane 2: Premium Edition | 146805 | [146805-amamane-2-premium-edition.json](./146805-amamane-2-premium-edition.json) |
 | Amamane: Premium Edition | 136684 | [136684-amamane-premium-edition.json](./136684-amamane-premium-edition.json) |
+| Amanagi | 310907 | [310907-amanagi.json](./310907-amanagi.json) |
 | Amanaha hockey | 329164 | [329164-amanaha-hockey.json](./329164-amanaha-hockey.json) |
 | Amanatsu | 210505 | [210505-amanatsu.json](./210505-amanatsu.json) |
 | Amanatsu Adolescence | 402451 | [402451-amanatsu-adolescence.json](./402451-amanatsu-adolescence.json) |
@@ -16720,6 +16721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AuroraBound | 263585 | [263585-aurorabound.json](./263585-aurorabound.json) |
 | AuroraBound Deluxe | 74370 | [74370-aurorabound-deluxe.json](./74370-aurorabound-deluxe.json) |
 | Aurorae | 287796 | [287796-aurorae.json](./287796-aurorae.json) |
+| Aurorae Equitas | 310915 | [310915-aurorae-equitas.json](./310915-aurorae-equitas.json) |
 | AuroraRL | 33607 | [33607-aurorarl.json](./33607-aurorarl.json) |
 | AuroraRL: Special Edition | 52622 | [52622-aurorarl-special-edition.json](./52622-aurorarl-special-edition.json) |
 | Aurore: Five Princes | 115316 | [115316-aurore-five-princes.json](./115316-aurore-five-princes.json) |
