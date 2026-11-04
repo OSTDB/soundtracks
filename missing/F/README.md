@@ -9755,6 +9755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula 1 Masters | 77141 | [77141-formula-1-masters.json](./77141-formula-1-masters.json) |
 | Formula 1 Simulator | 12998 | [12998-formula-1-simulator.json](./12998-formula-1-simulator.json) |
 | Formula 1: Championship Edition | 8295 | [8295-formula-1-championship-edition.json](./8295-formula-1-championship-edition.json) |
+| Formula 1: Vircon32 Version | 318889 | [318889-formula-1-vircon32-version.json](./318889-formula-1-vircon32-version.json) |
 | Formula 11 Mini Racing | 411563 | [411563-formula-11-mini-racing.json](./411563-formula-11-mini-racing.json) |
 | Formula 2.5 | 377030 | [377030-formula-2-5.json](./377030-formula-2-5.json) |
 | Formula 2025: Grand Prix Heroes | 371815 | [371815-formula-2025-grand-prix-heroes.json](./371815-formula-2025-grand-prix-heroes.json) |
