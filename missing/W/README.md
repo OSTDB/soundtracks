@@ -2884,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weakless | 119658 | [119658-weakless.json](./119658-weakless.json) |
 | Weakness Hero Torauman DC | 77564 | [77564-weakness-hero-torauman-dc.json](./77564-weakness-hero-torauman-dc.json) |
 | WeakWood Throne | 82469 | [82469-weakwood-throne.json](./82469-weakwood-throne.json) |
+| Wealth Project | 298207 | [298207-wealth-project.json](./298207-wealth-project.json) |
 | Weaphones Firearms Sim Mini | 343967 | [343967-weaphones-firearms-sim-mini.json](./343967-weaphones-firearms-sim-mini.json) |
 | Weaphones WW2: Firearms Simulator | 91227 | [91227-weaphones-ww2-firearms-simulator.json](./91227-weaphones-ww2-firearms-simulator.json) |
 | Weaphones: Firearms Simulator | 88039 | [88039-weaphones-firearms-simulator.json](./88039-weaphones-firearms-simulator.json) |
@@ -3374,6 +3375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werewolf: The Apocalypse - Earthblood: The Exiled One | 146174 | [146174-werewolf-the-apocalypse-earthblood-the-exiled-one.json](./146174-werewolf-the-apocalypse-earthblood-the-exiled-one.json) |
 | Werewolf: The Apocalypse - Heart of the Forest | 134821 | [134821-werewolf-the-apocalypse-heart-of-the-forest.json](./134821-werewolf-the-apocalypse-heart-of-the-forest.json) |
 | Werewolf: The Apocalypse - Purgatory | 302808 | [302808-werewolf-the-apocalypse-purgatory.json](./302808-werewolf-the-apocalypse-purgatory.json) |
+| Werewolf: The Apocalypse - The Book of Hungry Names: Wardens and Furies | 298199 | [298199-werewolf-the-apocalypse-the-book-of-hungry-names-wardens-and-furies.json](./298199-werewolf-the-apocalypse-the-book-of-hungry-names-wardens-and-furies.json) |
 | Werewolf: The Gloaming Malice | 408095 | [408095-werewolf-the-gloaming-malice.json](./408095-werewolf-the-gloaming-malice.json) |
 | Werewolf: The Inner Beast | 390099 | [390099-werewolf-the-inner-beast.json](./390099-werewolf-the-inner-beast.json) |
 | Werewolves | 91266 | [91266-werewolves.json](./91266-werewolves.json) |
