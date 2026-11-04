@@ -6596,6 +6596,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fit My Dog: Dog's Puzzle Pack 3 | 316228 | [316228-fit-my-dog-dogs-puzzle-pack-3.json](./316228-fit-my-dog-dogs-puzzle-pack-3.json) |
 | Fit My Zoo | 304799 | [304799-fit-my-zoo.json](./304799-fit-my-zoo.json) |
 | Fit My Zoo: Complete + | 328820 | [328820-fit-my-zoo-complete.json](./328820-fit-my-zoo-complete.json) |
+| Fit My Zoo: Extended Edition | 328756 | [328756-fit-my-zoo-extended-edition.json](./328756-fit-my-zoo-extended-edition.json) |
+| Fit My Zoo: Premium Edition | 328757 | [328757-fit-my-zoo-premium-edition.json](./328757-fit-my-zoo-premium-edition.json) |
+| Fit My Zoo: Special Edition | 328758 | [328758-fit-my-zoo-special-edition.json](./328758-fit-my-zoo-special-edition.json) |
+| Fit My Zoo: Ultimate Edition | 328759 | [328759-fit-my-zoo-ultimate-edition.json](./328759-fit-my-zoo-ultimate-edition.json) |
 | Fit My Zoo: Zoo's Puzzle Pack 1 | 308811 | [308811-fit-my-zoo-zoos-puzzle-pack-1.json](./308811-fit-my-zoo-zoos-puzzle-pack-1.json) |
 | Fit My Zoo: Zoo's Puzzle Pack 2 | 308812 | [308812-fit-my-zoo-zoos-puzzle-pack-2.json](./308812-fit-my-zoo-zoos-puzzle-pack-2.json) |
 | Fit My Zoo: Zoo's Puzzle Pack 3 | 308813 | [308813-fit-my-zoo-zoos-puzzle-pack-3.json](./308813-fit-my-zoo-zoos-puzzle-pack-3.json) |
