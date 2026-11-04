@@ -629,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tailor Tales: James Plus | 257551 | [257551-tailor-tales-james-plus.json](./257551-tailor-tales-james-plus.json) |
 | Tailor Tales: Neil Plus | 257536 | [257536-tailor-tales-neil-plus.json](./257536-tailor-tales-neil-plus.json) |
 | TailQuest: Defense | 140798 | [140798-tailquest-defense.json](./140798-tailquest-defense.json) |
+| Tailraise | 348522 | [348522-tailraise.json](./348522-tailraise.json) |
 | Tails | 22500 | [22500-tails.json](./22500-tails.json) |
 | Tails & Titties: Hot Spring | 192696 | [192696-tails-and-titties-hot-spring.json](./192696-tails-and-titties-hot-spring.json) |
 | Tails & Trails | 415775 | [415775-tails-and-trails.json](./415775-tails-and-trails.json) |
@@ -4288,6 +4289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Flame | 197265 | [197265-terra-flame.json](./197265-terra-flame.json) |
 | Terra Foliata | 296631 | [296631-terra-foliata.json](./296631-terra-foliata.json) |
 | Terra Force | 40004 | [40004-terra-force.json](./40004-terra-force.json) |
+| Terra Forma: Tower Combat | 348539 | [348539-terra-forma-tower-combat.json](./348539-terra-forma-tower-combat.json) |
 | Terra Formars: Akaki Hoshi no Gekito | 80339 | [80339-terra-formars-akaki-hoshi-no-gekito.json](./80339-terra-formars-akaki-hoshi-no-gekito.json) |
 | Terra Incognita | 129119 | [129119-terra-incognita.json](./129119-terra-incognita.json) |
 | Terra Incognito - Antarctica 1911 | 112666 | [112666-terra-incognito-antarctica-1911.json](./112666-terra-incognito-antarctica-1911.json) |
@@ -5725,6 +5727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Archetype | 34765 | [34765-the-archetype.json](./34765-the-archetype.json) |
 | The Archipelago | 180765 | [180765-the-archipelago.json](./180765-the-archipelago.json) |
 | The Architect | 35128 | [35128-the-architect.json](./35128-the-architect.json) |
+| The Architect Pack | 348520 | [348520-the-architect-pack.json](./348520-the-architect-pack.json) |
 | The Architect: Paris | 74414 | [74414-the-architect-paris.json](./74414-the-architect-paris.json) |
 | The Architects of the Universe: The Orbital Wars | 402294 | [402294-the-architects-of-the-universe-the-orbital-wars.json](./402294-the-architects-of-the-universe-the-orbital-wars.json) |
 | The Architects of the Universe: The Orphans | 294022 | [294022-the-architects-of-the-universe-the-orphans.json](./294022-the-architects-of-the-universe-the-orphans.json) |
@@ -10115,6 +10118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Harvest 3D | 233095 | [233095-the-harvest-3d.json](./233095-the-harvest-3d.json) |
 | The Hat Man: Shadow Ward | 36355 | [36355-the-hat-man-shadow-ward.json](./36355-the-hat-man-shadow-ward.json) |
 | The Hatchings | 397859 | [397859-the-hatchings.json](./397859-the-hatchings.json) |
+| The Hatchling | 348508 | [348508-the-hatchling.json](./348508-the-hatchling.json) |
 | The Hate Flow | 261454 | [261454-the-hate-flow.json](./261454-the-hate-flow.json) |
 | The Hateful Dead | 31367 | [31367-the-hateful-dead.json](./31367-the-hateful-dead.json) |
 | The Haunted Dolls | 157181 | [157181-the-haunted-dolls.json](./157181-the-haunted-dolls.json) |
