@@ -3537,6 +3537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Boss Fight | 163762 | [163762-endless-boss-fight.json](./163762-endless-boss-fight.json) |
 | Endless Bounce | 414571 | [414571-endless-bounce.json](./414571-endless-bounce.json) |
 | Endless Bounty | 135645 | [135645-endless-bounty.json](./135645-endless-bounty.json) |
+| Endless Bundle | 335610 | [335610-endless-bundle.json](./335610-endless-bundle.json) |
 | Endless Car Chase | 116773 | [116773-endless-car-chase.json](./116773-endless-car-chase.json) |
 | Endless Casual Drive | 301276 | [301276-endless-casual-drive.json](./301276-endless-casual-drive.json) |
 | Endless Champion | 193931 | [193931-endless-champion.json](./193931-endless-champion.json) |
