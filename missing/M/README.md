@@ -5069,6 +5069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MasterQuest Fantasy | 378977 | [378977-masterquest-fantasy.json](./378977-masterquest-fantasy.json) |
 | Masters '98: Harukanaru Augusta | 47744 | [47744-masters-98-harukanaru-augusta.json](./47744-masters-98-harukanaru-augusta.json) |
 | Masters & Heroes | 225586 | [225586-masters-and-heroes.json](./225586-masters-and-heroes.json) |
+| Masters Bowling HD | 339053 | [339053-masters-bowling-hd.json](./339053-masters-bowling-hd.json) |
 | Masters of Albion | 314272 | [314272-masters-of-albion.json](./314272-masters-of-albion.json) |
 | Masters of Anima | 28286 | [28286-masters-of-anima.json](./28286-masters-of-anima.json) |
 | Masters of Cards | 322585 | [322585-masters-of-cards.json](./322585-masters-of-cards.json) |
@@ -12841,6 +12842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miracle Warrior of Mountains and Seas | 153345 | [153345-miracle-warrior-of-mountains-and-seas.json](./153345-miracle-warrior-of-mountains-and-seas.json) |
 | Miracle Warriors: Seal of the Dark Lord | 47526 | [47526-miracle-warriors-seal-of-the-dark-lord.json](./47526-miracle-warriors-seal-of-the-dark-lord.json) |
 | Miracle World: Fushigi no Kuni no IQ Meiro | 256638 | [256638-miracle-world-fushigi-no-kuni-no-iq-meiro.json](./256638-miracle-world-fushigi-no-kuni-no-iq-meiro.json) |
+| Miracle! Panzou Uchu Daisakusen | 339044 | [339044-miracle-panzou-uchu-daisakusen.json](./339044-miracle-panzou-uchu-daisakusen.json) |
 | Miracle! Panzou: 7-tsu no Hoshi no Uchuu Kaizoku | 49723 | [49723-miracle-panzou-7-tsu-no-hoshi-no-uchuu-kaizoku.json](./49723-miracle-panzou-7-tsu-no-hoshi-no-uchuu-kaizoku.json) |
 | Miraclr: Divine Dating Sim | 84047 | [84047-miraclr-divine-dating-sim.json](./84047-miraclr-divine-dating-sim.json) |
 | Miraculo Island | 192612 | [192612-miraculo-island.json](./192612-miraculo-island.json) |
@@ -17635,6 +17637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MP1: vila do Chaves | 283423 | [283423-mp1-vila-do-chaves.json](./283423-mp1-vila-do-chaves.json) |
 | MP1: Watch Out! | 283637 | [283637-mp1-watch-out.json](./283637-mp1-watch-out.json) |
 | MP1: Wii Menu | 283425 | [283425-mp1-wii-menu.json](./283425-mp1-wii-menu.json) |
+| MP2: 8-bit Forest | 339037 | [339037-mp2-8-bit-forest.json](./339037-mp2-8-bit-forest.json) |
 | MP2: A Bad Time | 283785 | [283785-mp2-a-bad-time.json](./283785-mp2-a-bad-time.json) |
 | MP2: Adventure Land | 283662 | [283662-mp2-adventure-land.json](./283662-mp2-adventure-land.json) |
 | MP2: Aqua Land | 283792 | [283792-mp2-aqua-land.json](./283792-mp2-aqua-land.json) |
@@ -17657,10 +17660,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MP2: Hope Land | 283780 | [283780-mp2-hope-land.json](./283780-mp2-hope-land.json) |
 | MP2: Ice Land | 283676 | [283676-mp2-ice-land.json](./283676-mp2-ice-land.json) |
 | MP2: JMGO Sands | 283781 | [283781-mp2-jmgo-sands.json](./283781-mp2-jmgo-sands.json) |
+| MP2: JMGO Stadium | 339032 | [339032-mp2-jmgo-stadium.json](./339032-mp2-jmgo-stadium.json) |
+| MP2: JMGO Ways | 339034 | [339034-mp2-jmgo-ways.json](./339034-mp2-jmgo-ways.json) |
+| MP2: JMGO Ways 2 | 339035 | [339035-mp2-jmgo-ways-2.json](./339035-mp2-jmgo-ways-2.json) |
 | MP2: Koopa Kid Land | 283773 | [283773-mp2-koopa-kid-land.json](./283773-mp2-koopa-kid-land.json) |
 | MP2: Lava Land | 283787 | [283787-mp2-lava-land.json](./283787-mp2-lava-land.json) |
 | MP2: Music Park | 283654 | [283654-mp2-music-park.json](./283654-mp2-music-park.json) |
 | MP2: Neon Heights | 283656 | [283656-mp2-neon-heights.json](./283656-mp2-neon-heights.json) |
+| MP2: Night Cavern | 339038 | [339038-mp2-night-cavern.json](./339038-mp2-night-cavern.json) |
 | MP2: Open RCT2 | 283782 | [283782-mp2-open-rct2.json](./283782-mp2-open-rct2.json) |
 | MP2: Petropolis (Block Party) | 283775 | [283775-mp2-petropolis-block-party.json](./283775-mp2-petropolis-block-party.json) |
 | MP2: Pikmin | 283653 | [283653-mp2-pikmin.json](./283653-mp2-pikmin.json) |
@@ -17669,8 +17676,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MP2: Shy Guy Jungle | 283674 | [283674-mp2-shy-guy-jungle.json](./283674-mp2-shy-guy-jungle.json) |
 | MP2: Spooky Town | 283668 | [283668-mp2-spooky-town.json](./283668-mp2-spooky-town.json) |
 | MP2: Summer's Lake | 283659 | [283659-mp2-summers-lake.json](./283659-mp2-summers-lake.json) |
+| MP2: Sweet Banquet | 339030 | [339030-mp2-sweet-banquet.json](./339030-mp2-sweet-banquet.json) |
 | MP2: Time Land | 283788 | [283788-mp2-time-land.json](./283788-mp2-time-land.json) |
 | MP2: Toy Dream | 283655 | [283655-mp2-toy-dream.json](./283655-mp2-toy-dream.json) |
+| MP2: Twin Islands | 339036 | [339036-mp2-twin-islands.json](./339036-mp2-twin-islands.json) |
 | MP2: UwU Land | 283790 | [283790-mp2-uwu-land.json](./283790-mp2-uwu-land.json) |
 | MP2: Virtual Land | 283660 | [283660-mp2-virtual-land.json](./283660-mp2-virtual-land.json) |
 | MP2: Warriors | 283658 | [283658-mp2-warriors.json](./283658-mp2-warriors.json) |
