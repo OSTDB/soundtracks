@@ -2752,6 +2752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pastry Wars | 91730 | [91730-pastry-wars.json](./91730-pastry-wars.json) |
 | Pasture Palette | 374251 | [374251-pasture-palette.json](./374251-pasture-palette.json) |
 | Pasture: The Livestock Simulator | 264740 | [264740-pasture-the-livestock-simulator.json](./264740-pasture-the-livestock-simulator.json) |
+| Pastures New | 309312 | [309312-pastures-new.json](./309312-pastures-new.json) |
 | Pat & Mat | 16210 | [16210-pat-and-mat.json](./16210-pat-and-mat.json) |
 | Pat Pat Cat | 387590 | [387590-pat-pat-cat.json](./387590-pat-pat-cat.json) |
 | Pat Riley Basketball | 28020 | [28020-pat-riley-basketball.json](./28020-pat-riley-basketball.json) |
