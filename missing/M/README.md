@@ -10477,6 +10477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator: World Update 18 | 314484 | [314484-microsoft-flight-simulator-world-update-18.json](./314484-microsoft-flight-simulator-world-update-18.json) |
 | Microsoft FreeCell | 51354 | [51354-microsoft-freecell.json](./51354-microsoft-freecell.json) |
 | Microsoft Garden Pond | 209516 | [209516-microsoft-garden-pond.json](./209516-microsoft-garden-pond.json) |
+| Microsoft Gem Drop | 347438 | [347438-microsoft-gem-drop.json](./347438-microsoft-gem-drop.json) |
 | Microsoft Golf 1998 Edition | 77008 | [77008-microsoft-golf-1998-edition.json](./77008-microsoft-golf-1998-edition.json) |
 | Microsoft Golf 1999 Edition | 62240 | [62240-microsoft-golf-1999-edition.json](./62240-microsoft-golf-1999-edition.json) |
 | Microsoft Golf 2.0 | 21860 | [21860-microsoft-golf-2-0.json](./21860-microsoft-golf-2-0.json) |
