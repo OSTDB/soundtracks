@@ -9987,6 +9987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Season 4 | 305602 | [305602-fortnite-festival-season-4.json](./305602-fortnite-festival-season-4.json) |
 | Fortnite Festival: Season 5 | 313434 | [313434-fortnite-festival-season-5.json](./313434-fortnite-festival-season-5.json) |
 | Fortnite Festival: Season 6 | 322820 | [322820-fortnite-festival-season-6.json](./322820-fortnite-festival-season-6.json) |
+| Fortnite Festival: Season 7 | 327700 | [327700-fortnite-festival-season-7.json](./327700-fortnite-festival-season-7.json) |
 | Fortnite Festival: Season 8 | 339230 | [339230-fortnite-festival-season-8.json](./339230-fortnite-festival-season-8.json) |
 | Fortnite Festival: Season 9 | 360293 | [360293-fortnite-festival-season-9.json](./360293-fortnite-festival-season-9.json) |
 | Fortnite Festival: Shelter | 375401 | [375401-fortnite-festival-shelter.json](./375401-fortnite-festival-shelter.json) |
@@ -12459,6 +12460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruity Freddy | 347833 | [347833-fruity-freddy.json](./347833-fruity-freddy.json) |
 | Fruity Friendz Adventurez | 340266 | [340266-fruity-friendz-adventurez.json](./340266-fruity-friendz-adventurez.json) |
 | Fruity Game | 400565 | [400565-fruity-game.json](./400565-fruity-game.json) |
+| Fruity Rogue | 327702 | [327702-fruity-rogue.json](./327702-fruity-rogue.json) |
 | Frukt | 391456 | [391456-frukt.json](./391456-frukt.json) |
 | Frustrate-a-ball | 367150 | [367150-frustrate-a-ball.json](./367150-frustrate-a-ball.json) |
 | Frustration Golf | 181713 | [181713-frustration-golf.json](./181713-frustration-golf.json) |
