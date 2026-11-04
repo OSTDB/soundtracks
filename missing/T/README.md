@@ -19722,6 +19722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throne of Gods | 124692 | [124692-throne-of-gods.json](./124692-throne-of-gods.json) |
 | Throne of Magic | 108502 | [108502-throne-of-magic.json](./108502-throne-of-magic.json) |
 | Throne of Maiden | 223875 | [223875-throne-of-maiden.json](./223875-throne-of-maiden.json) |
+| Throne of Marrow | 337930 | [337930-throne-of-marrow.json](./337930-throne-of-marrow.json) |
 | Throne of Shadows | 384271 | [384271-throne-of-shadows.json](./384271-throne-of-shadows.json) |
 | Throne of Shards | 397738 | [397738-throne-of-shards.json](./397738-throne-of-shards.json) |
 | Throne of the Dead VR: Halloween | 161726 | [161726-throne-of-the-dead-vr-halloween.json](./161726-throne-of-the-dead-vr-halloween.json) |
