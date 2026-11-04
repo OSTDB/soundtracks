@@ -990,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quick, Draw! | 205795 | [205795-quick-draw.json](./205795-quick-draw.json) |
 | Quick! Mom's Home! | 107013 | [107013-quick-moms-home.json](./107013-quick-moms-home.json) |
 | Quick! Save the world | 381623 | [381623-quick-save-the-world.json](./381623-quick-save-the-world.json) |
+| QuickBite Express | 314200 | [314200-quickbite-express.json](./314200-quickbite-express.json) |
 | Quickboy | 348759 | [348759-quickboy.json](./348759-quickboy.json) |
 | QuickCalculation | 387520 | [387520-quickcalculation.json](./387520-quickcalculation.json) |
 | Quickclaw | 257848 | [257848-quickclaw.json](./257848-quickclaw.json) |
