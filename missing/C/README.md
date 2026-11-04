@@ -3189,6 +3189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cassette Beasts 2002 | 404378 | [404378-cassette-beasts-2002.json](./404378-cassette-beasts-2002.json) |
 | Cassette Beasts: Deluxe Edition | 251108 | [251108-cassette-beasts-deluxe-edition.json](./251108-cassette-beasts-deluxe-edition.json) |
 | Cassette Beasts: Fashion Pack | 365834 | [365834-cassette-beasts-fashion-pack.json](./365834-cassette-beasts-fashion-pack.json) |
+| Cassette Beasts: New Wirral Edition | 339553 | [339553-cassette-beasts-new-wirral-edition.json](./339553-cassette-beasts-new-wirral-edition.json) |
 | Cassette Beasts: Wing Pack | 365833 | [365833-cassette-beasts-wing-pack.json](./365833-cassette-beasts-wing-pack.json) |
 | Cassette Boy | 248898 | [248898-cassette-boy.json](./248898-cassette-boy.json) |
 | Cassette Five | 153853 | [153853-cassette-five.json](./153853-cassette-five.json) |
@@ -12406,6 +12407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commandos: Behind Enemy Lines | 879 | [879-commandos-behind-enemy-lines.json](./879-commandos-behind-enemy-lines.json) |
 | Commandos: Beyond the Call of Duty | 961 | [961-commandos-beyond-the-call-of-duty.json](./961-commandos-beyond-the-call-of-duty.json) |
 | Commandos: Origins | 255936 | [255936-commandos-origins.json](./255936-commandos-origins.json) |
+| Commandos: Origins - Deluxe Edition | 339554 | [339554-commandos-origins-deluxe-edition.json](./339554-commandos-origins-deluxe-edition.json) |
 | Commandos: Origins - No Man Left Behind | 399159 | [399159-commandos-origins-no-man-left-behind.json](./399159-commandos-origins-no-man-left-behind.json) |
 | Commandos: Origins - Shadows over Crete | 377670 | [377670-commandos-origins-shadows-over-crete.json](./377670-commandos-origins-shadows-over-crete.json) |
 | Commandos: Strike Force | 275 | [275-commandos-strike-force.json](./275-commandos-strike-force.json) |
