@@ -796,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Meeting of Dreams | 223486 | [223486-a-meeting-of-dreams.json](./223486-a-meeting-of-dreams.json) |
 | A Megawad in Two Weeks | 274142 | [274142-a-megawad-in-two-weeks.json](./274142-a-megawad-in-two-weeks.json) |
 | A Melon's Tale | 180671 | [180671-a-melons-tale.json](./180671-a-melons-tale.json) |
+| A Merchant's Promise | 327692 | [327692-a-merchants-promise.json](./327692-a-merchants-promise.json) |
 | A Message and an Advice | 159003 | [159003-a-message-and-an-advice.json](./159003-a-message-and-an-advice.json) |
 | A Message For The Stone King | 260077 | [260077-a-message-for-the-stone-king.json](./260077-a-message-for-the-stone-king.json) |
 | A Messenger | 282711 | [282711-a-messenger.json](./282711-a-messenger.json) |
@@ -10492,6 +10493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anpanman to Asobu: AIUEO Kyoushitsu | 67284 | [67284-anpanman-to-asobu-aiueo-kyoushitsu.json](./67284-anpanman-to-asobu-aiueo-kyoushitsu.json) |
 | Anpanman to Touch de Waku-waku Training | 71032 | [71032-anpanman-to-touch-de-waku-waku-training.json](./71032-anpanman-to-touch-de-waku-waku-training.json) |
 | Anpanman Touch de Enjoy! AIUEO Kyoushitsu for Nintendo Switch | 381265 | [381265-anpanman-touch-de-enjoy-aiueo-kyoushitsu-for-nintendo-switch.json](./381265-anpanman-touch-de-enjoy-aiueo-kyoushitsu-for-nintendo-switch.json) |
+| Anpanman wo Sagase! | 327564 | [327564-anpanman-wo-sagase.json](./327564-anpanman-wo-sagase.json) |
 | Anpfiff: Der RTL Fussball-Manager | 81449 | [81449-anpfiff-der-rtl-fussball-manager.json](./81449-anpfiff-der-rtl-fussball-manager.json) |
 | Anrufen Online | 67058 | [67058-anrufen-online.json](./67058-anrufen-online.json) |
 | Ansatsu Kyoshitsu: Assassin Ikusei Keikaku!! | 59326 | [59326-ansatsu-kyoshitsu-assassin-ikusei-keikaku.json](./59326-ansatsu-kyoshitsu-assassin-ikusei-keikaku.json) |
@@ -12083,6 +12085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Super Basketball | 356501 | [356501-arcade-archives-super-basketball.json](./356501-arcade-archives-super-basketball.json) |
 | Arcade Archives: Super Cobra | 147119 | [147119-arcade-archives-super-cobra.json](./147119-arcade-archives-super-cobra.json) |
 | Arcade Archives: Super Contra | 283022 | [283022-arcade-archives-super-contra.json](./283022-arcade-archives-super-contra.json) |
+| Arcade Archives: Super Dimension Fortress Macross | 327537 | [327537-arcade-archives-super-dimension-fortress-macross.json](./327537-arcade-archives-super-dimension-fortress-macross.json) |
 | Arcade Archives: Super Dimension Fortress Macross II | 354181 | [354181-arcade-archives-super-dimension-fortress-macross-ii.json](./354181-arcade-archives-super-dimension-fortress-macross-ii.json) |
 | Arcade Archives: Super Dodge Ball | 99568 | [99568-arcade-archives-super-dodge-ball.json](./99568-arcade-archives-super-dodge-ball.json) |
 | Arcade Archives: Super Pac-Man | 187461 | [187461-arcade-archives-super-pac-man.json](./187461-arcade-archives-super-pac-man.json) |
@@ -12157,6 +12160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Vs. Wrecking Crew | 68313 | [68313-arcade-archives-vs-wrecking-crew.json](./68313-arcade-archives-vs-wrecking-crew.json) |
 | Arcade Archives: War of Aero | 289185 | [289185-arcade-archives-war-of-aero.json](./289185-arcade-archives-war-of-aero.json) |
 | Arcade Archives: Warp & Warp | 277578 | [277578-arcade-archives-warp-and-warp.json](./277578-arcade-archives-warp-and-warp.json) |
+| Arcade Archives: Warrior Blade | 327538 | [327538-arcade-archives-warrior-blade.json](./327538-arcade-archives-warrior-blade.json) |
 | Arcade Archives: Wild Western | 118579 | [118579-arcade-archives-wild-western.json](./118579-arcade-archives-wild-western.json) |
 | Arcade Archives: Wiz | 135582 | [135582-arcade-archives-wiz.json](./135582-arcade-archives-wiz.json) |
 | Arcade Archives: Wonder Boy | 141885 | [141885-arcade-archives-wonder-boy.json](./141885-arcade-archives-wonder-boy.json) |
@@ -12909,6 +12913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Breakout: Season 4 - Into the Fog of War | 318417 | [318417-arena-breakout-season-4-into-the-fog-of-war.json](./318417-arena-breakout-season-4-into-the-fog-of-war.json) |
 | Arena Breakout: Season 5 - Road to Gold | 318419 | [318419-arena-breakout-season-5-road-to-gold.json](./318419-arena-breakout-season-5-road-to-gold.json) |
 | Arena Breakout: Season 6 - Operation Blackout | 320181 | [320181-arena-breakout-season-6-operation-blackout.json](./320181-arena-breakout-season-6-operation-blackout.json) |
+| Arena Breakout: Season 7 – Secured Gear No Fear | 327565 | [327565-arena-breakout-season-7-secured-gear-no-fear.json](./327565-arena-breakout-season-7-secured-gear-no-fear.json) |
 | Arena Breakout: Season 8 – Frozen Frontline | 336319 | [336319-arena-breakout-season-8-frozen-frontline.json](./336319-arena-breakout-season-8-frozen-frontline.json) |
 | Arena Brutal | 197913 | [197913-arena-brutal.json](./197913-arena-brutal.json) |
 | Arena Car Racing | 231978 | [231978-arena-car-racing.json](./231978-arena-car-racing.json) |
