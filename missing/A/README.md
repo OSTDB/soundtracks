@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hoy Pirates Adventure | 86656 | [86656-a-hoy-pirates-adventure.json](./86656-a-hoy-pirates-adventure.json) |
 | A Human Haunting! | 306724 | [306724-a-human-haunting.json](./306724-a-human-haunting.json) |
 | A Hundred Kinds of Your Smile | 224846 | [224846-a-hundred-kinds-of-your-smile.json](./224846-a-hundred-kinds-of-your-smile.json) |
+| A Hunt for the Fae Folk | 323628 | [323628-a-hunt-for-the-fae-folk.json](./323628-a-hunt-for-the-fae-folk.json) |
 | A Hunter's Day | 181198 | [181198-a-hunters-day.json](./181198-a-hunters-day.json) |
 | A Ilha Perdida da Babitonga | 352367 | [352367-a-ilha-perdida-da-babitonga.json](./352367-a-ilha-perdida-da-babitonga.json) |
 | A is for Aardvark | 334281 | [334281-a-is-for-aardvark.json](./334281-a-is-for-aardvark.json) |
@@ -2569,6 +2570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AceForce 2 | 311282 | [311282-aceforce-2.json](./311282-aceforce-2.json) |
 | Acention | 357717 | [357717-acention.json](./357717-acention.json) |
 | Aceonline: DuelX | 95871 | [95871-aceonline-duelx.json](./95871-aceonline-duelx.json) |
+| Acephalic | 323622 | [323622-acephalic.json](./323622-acephalic.json) |
 | Acephalus | 139167 | [139167-acephalus.json](./139167-acephalus.json) |
 | Aces & Adventures | 203609 | [203609-aces-and-adventures.json](./203609-aces-and-adventures.json) |
 | Aces Gin Rummy | 70896 | [70896-aces-gin-rummy.json](./70896-aces-gin-rummy.json) |
@@ -6135,6 +6137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alette If | 184811 | [184811-alette-if.json](./184811-alette-if.json) |
 | Alex & Arty | 392201 | [392201-alex-and-arty.json](./392201-alex-and-arty.json) |
 | Alex and Der Murder | 396378 | [396378-alex-and-der-murder.json](./396378-alex-and-der-murder.json) |
+| Alex and the Aliens | 323478 | [323478-alex-and-the-aliens.json](./323478-alex-and-the-aliens.json) |
 | Alex and the Jets | 368610 | [368610-alex-and-the-jets.json](./368610-alex-and-the-jets.json) |
 | Alex Basics in Biology and Zoology | 179853 | [179853-alex-basics-in-biology-and-zoology.json](./179853-alex-basics-in-biology-and-zoology.json) |
 | Alex Builds His Farm | 64157 | [64157-alex-builds-his-farm.json](./64157-alex-builds-his-farm.json) |
@@ -15531,6 +15534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AstroN | 91912 | [91912-astron.json](./91912-astron.json) |
 | Astron Belt | 22732 | [22732-astron-belt.json](./22732-astron-belt.json) |
 | Astronarch | 132353 | [132353-astronarch.json](./132353-astronarch.json) |
+| Astronaut Adventure | 323489 | [323489-astronaut-adventure.json](./323489-astronaut-adventure.json) |
 | Astronaut Simulator | 35580 | [35580-astronaut-simulator.json](./35580-astronaut-simulator.json) |
 | Astronaut Simulator | 396223 | [396223-astronaut-simulator.json](./396223-astronaut-simulator.json) |
 | Astronaut Spacewalk | 174354 | [174354-astronaut-spacewalk.json](./174354-astronaut-spacewalk.json) |
