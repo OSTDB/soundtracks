@@ -2039,6 +2039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy RPG: Raid Legends | 342396 | [342396-fantasy-rpg-raid-legends.json](./342396-fantasy-rpg-raid-legends.json) |
 | Fantasy Saga Frenzy | 308642 | [308642-fantasy-saga-frenzy.json](./308642-fantasy-saga-frenzy.json) |
 | Fantasy Secret | 126361 | [126361-fantasy-secret.json](./126361-fantasy-secret.json) |
+| Fantasy Shootoff | 305689 | [305689-fantasy-shootoff.json](./305689-fantasy-shootoff.json) |
 | Fantasy Shop | 238492 | [238492-fantasy-shop.json](./238492-fantasy-shop.json) |
 | Fantasy Simulator KnightX | 297629 | [297629-fantasy-simulator-knightx.json](./297629-fantasy-simulator-knightx.json) |
 | Fantasy Sino-Japanese War | 114268 | [114268-fantasy-sino-japanese-war.json](./114268-fantasy-sino-japanese-war.json) |
@@ -7142,6 +7143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Bird: The Bird Game | 108615 | [108615-flappy-bird-the-bird-game.json](./108615-flappy-bird-the-bird-game.json) |
 | Flappy Birds 2 | 268501 | [268501-flappy-birds-2.json](./268501-flappy-birds-2.json) |
 | Flappy Box | 285478 | [285478-flappy-box.json](./285478-flappy-box.json) |
+| Flappy Boy | 305720 | [305720-flappy-boy.json](./305720-flappy-boy.json) |
 | Flappy Brolly | 255008 | [255008-flappy-brolly.json](./255008-flappy-brolly.json) |
 | Flappy Butt | 207568 | [207568-flappy-butt.json](./207568-flappy-butt.json) |
 | Flappy Camel | 283767 | [283767-flappy-camel.json](./283767-flappy-camel.json) |
@@ -10939,6 +10941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frameland: A Binary Tale | 182034 | [182034-frameland-a-binary-tale.json](./182034-frameland-a-binary-tale.json) |
 | FramePerfect | 394532 | [394532-frameperfect.json](./394532-frameperfect.json) |
 | Framework Zero: Terminal Panic | 405750 | [405750-framework-zero-terminal-panic.json](./405750-framework-zero-terminal-panic.json) |
+| Framework: Found Footage | 305678 | [305678-framework-found-footage.json](./305678-framework-found-footage.json) |
 | Framing Dawes | 126916 | [126916-framing-dawes.json](./126916-framing-dawes.json) |
 | Framing Summer | 130513 | [130513-framing-summer.json](./130513-framing-summer.json) |
 | Fran Bow | 11821 | [11821-fran-bow.json](./11821-fran-bow.json) |
@@ -11407,6 +11410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeze64 Christmas Game | 281530 | [281530-freeze64-christmas-game.json](./281530-freeze64-christmas-game.json) |
 | Freezeer | 103630 | [103630-freezeer.json](./103630-freezeer.json) |
 | Freezeframe | 193246 | [193246-freezeframe.json](./193246-freezeframe.json) |
+| Freezer Frenzy | 305698 | [305698-freezer-frenzy.json](./305698-freezer-frenzy.json) |
 | Freezer Jams | 245196 | [245196-freezer-jams.json](./245196-freezer-jams.json) |
 | Freezer Pops 2: Little Blo's Party | 346540 | [346540-freezer-pops-2-little-blos-party.json](./346540-freezer-pops-2-little-blos-party.json) |
 | Freezia | 333315 | [333315-freezia.json](./333315-freezia.json) |
@@ -12309,6 +12313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frosten: Two Realms | 366122 | [366122-frosten-two-realms.json](./366122-frosten-two-realms.json) |
 | Frostfire Planet | 139904 | [139904-frostfire-planet.json](./139904-frostfire-planet.json) |
 | FrostFire: Battle Frenzy | 269023 | [269023-frostfire-battle-frenzy.json](./269023-frostfire-battle-frenzy.json) |
+| Frostflame | 305675 | [305675-frostflame.json](./305675-frostflame.json) |
 | Frosthaven | 336152 | [336152-frosthaven.json](./336152-frosthaven.json) |
 | Frostholm Isle | 388066 | [388066-frostholm-isle.json](./388066-frostholm-isle.json) |
 | Frostland | 401270 | [401270-frostland.json](./401270-frostland.json) |
