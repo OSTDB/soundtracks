@@ -2817,6 +2817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schizoid | 21809 | [21809-schizoid.json](./21809-schizoid.json) |
 | Schizoids | 201453 | [201453-schizoids.json](./201453-schizoids.json) |
 | Schizophrenia | 133203 | [133203-schizophrenia.json](./133203-schizophrenia.json) |
+| Schizophrenia | 340137 | [340137-schizophrenia.json](./340137-schizophrenia.json) |
 | Schizophrenia: R.E.M. Protocol | 357741 | [357741-schizophrenia-r-e-m-protocol.json](./357741-schizophrenia-r-e-m-protocol.json) |
 | Schizophrenia: The Last Shift | 318446 | [318446-schizophrenia-the-last-shift.json](./318446-schizophrenia-the-last-shift.json) |
 | Schizophrenic Rooms | 230857 | [230857-schizophrenic-rooms.json](./230857-schizophrenic-rooms.json) |
@@ -3963,6 +3964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Town | 238093 | [238093-sea-town.json](./238093-sea-town.json) |
 | Sea Trader: Rise of Taipan | 49386 | [49386-sea-trader-rise-of-taipan.json](./49386-sea-trader-rise-of-taipan.json) |
 | Sea under the sea under the sea | 280380 | [280380-sea-under-the-sea-under-the-sea.json](./280380-sea-under-the-sea-under-the-sea.json) |
+| Sea Walker Saga | 340281 | [340281-sea-walker-saga.json](./340281-sea-walker-saga.json) |
 | Sea War | 168633 | [168633-sea-war.json](./168633-sea-war.json) |
 | Sea War Naval Supremacy | 391539 | [391539-sea-war-naval-supremacy.json](./391539-sea-war-naval-supremacy.json) |
 | Sea Warfare: Glorious | 188024 | [188024-sea-warfare-glorious.json](./188024-sea-warfare-glorious.json) |
@@ -8313,6 +8315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinzo Count | 370395 | [370395-shinzo-count.json](./370395-shinzo-count.json) |
 | Shinzui Taikyoku Igo: Go Sennin | 42318 | [42318-shinzui-taikyoku-igo-go-sennin.json](./42318-shinzui-taikyoku-igo-go-sennin.json) |
 | Shio | 31393 | [31393-shio.json](./31393-shio.json) |
+| Shio | 340121 | [340121-shio.json](./340121-shio.json) |
 | Shio: Deluxe Edition | 53597 | [53597-shio-deluxe-edition.json](./53597-shio-deluxe-edition.json) |
 | Shiodome Train Simulator | 234242 | [234242-shiodome-train-simulator.json](./234242-shiodome-train-simulator.json) |
 | Shiokaze no Kieru Umi ni | 394418 | [394418-shiokaze-no-kieru-umi-ni.json](./394418-shiokaze-no-kieru-umi-ni.json) |
@@ -20692,6 +20695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Jet | 359465 | [359465-spider-jet.json](./359465-spider-jet.json) |
 | Spider Jump | 407887 | [407887-spider-jump.json](./407887-spider-jump.json) |
 | Spider Kong | 40737 | [40737-spider-kong.json](./40737-spider-kong.json) |
+| Spider Land | 340139 | [340139-spider-land.json](./340139-spider-land.json) |
 | Spider Lander | 111723 | [111723-spider-lander.json](./111723-spider-lander.json) |
 | Spider Lily | 403806 | [403806-spider-lily.json](./403806-spider-lily.json) |
 | Spider Mall! | 267820 | [267820-spider-mall.json](./267820-spider-mall.json) |
@@ -22424,6 +22428,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squarez: Escape The Squares | 262357 | [262357-squarez-escape-the-squares.json](./262357-squarez-escape-the-squares.json) |
 | Squarism | 75636 | [75636-squarism.json](./75636-squarism.json) |
 | Squaser | 340174 | [340174-squaser.json](./340174-squaser.json) |
+| Squaser 2 | 340173 | [340173-squaser-2.json](./340173-squaser-2.json) |
+| Squaser 4 | 340172 | [340172-squaser-4.json](./340172-squaser-4.json) |
 | Squaser 5 | 368210 | [368210-squaser-5.json](./368210-squaser-5.json) |
 | Squaser 6 | 368490 | [368490-squaser-6.json](./368490-squaser-6.json) |
 | Squaser 7 | 367047 | [367047-squaser-7.json](./367047-squaser-7.json) |
@@ -22486,6 +22492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squid Yes! Not So Octopus! Squid Harder! | 77067 | [77067-squid-yes-not-so-octopus-squid-harder.json](./77067-squid-yes-not-so-octopus-squid-harder.json) |
 | Squid: Sponge Neighbor Expose | 326703 | [326703-squid-sponge-neighbor-expose.json](./326703-squid-sponge-neighbor-expose.json) |
 | Squid! Escape! Fight! | 229254 | [229254-squid-escape-fight.json](./229254-squid-escape-fight.json) |
+| Squid's Manslaughter | 340171 | [340171-squids-manslaughter.json](./340171-squids-manslaughter.json) |
 | Squidding Over It | 258880 | [258880-squidding-over-it.json](./258880-squidding-over-it.json) |
 | Squidgies Takeover | 125122 | [125122-squidgies-takeover.json](./125122-squidgies-takeover.json) |
 | Squidlit | 86574 | [86574-squidlit.json](./86574-squidlit.json) |
@@ -22681,6 +22688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack! | 191216 | [191216-stack.json](./191216-stack.json) |
 | Stack'em | 206976 | [206976-stackem.json](./206976-stackem.json) |
 | Stack'em HD | 355001 | [355001-stackem-hd.json](./355001-stackem-hd.json) |
+| Stackables | 340170 | [340170-stackables.json](./340170-stackables.json) |
 | Stackbound | 351255 | [351255-stackbound.json](./351255-stackbound.json) |
 | Stacked with Daniel Negreanu | 6157 | [6157-stacked-with-daniel-negreanu.json](./6157-stacked-with-daniel-negreanu.json) |
 | Stacked! | 374938 | [374938-stacked.json](./374938-stacked.json) |
@@ -22737,6 +22745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stage Tour | 393269 | [393269-stage-tour.json](./393269-stage-tour.json) |
 | Staged | 391979 | [391979-staged.json](./391979-staged.json) |
 | Staged: Open House | 397249 | [397249-staged-open-house.json](./397249-staged-open-house.json) |
+| Stagees: Just Play! | 340169 | [340169-stagees-just-play.json](./340169-stagees-just-play.json) |
 | Stagehand Survival Simulator | 239733 | [239733-stagehand-survival-simulator.json](./239733-stagehand-survival-simulator.json) |
 | Stagehand: A Reverse Platformer | 97306 | [97306-stagehand-a-reverse-platformer.json](./97306-stagehand-a-reverse-platformer.json) |
 | Stagehands! | 134820 | [134820-stagehands.json](./134820-stagehands.json) |
@@ -23021,6 +23030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Devil | 226485 | [226485-star-devil.json](./226485-star-devil.json) |
 | Star Diffusion | 106969 | [106969-star-diffusion.json](./106969-star-diffusion.json) |
 | Star Discord | 196621 | [196621-star-discord.json](./196621-star-discord.json) |
+| Star Diver Jelly | 340160 | [340160-star-diver-jelly.json](./340160-star-diver-jelly.json) |
 | Star Drifter | 13761 | [13761-star-drifter.json](./13761-star-drifter.json) |
 | Star Drifter | 32473 | [32473-star-drifter.json](./32473-star-drifter.json) |
 | Star Driver: Kagayaki no Takuto - Ginga Bishounen Densetsu | 269504 | [269504-star-driver-kagayaki-no-takuto-ginga-bishounen-densetsu.json](./269504-star-driver-kagayaki-no-takuto-ginga-bishounen-densetsu.json) |
@@ -23970,6 +23980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardust | 12774 | [12774-stardust.json](./12774-stardust.json) |
 | Stardust | 318797 | [318797-stardust.json](./318797-stardust.json) |
 | Stardust | 372069 | [372069-stardust.json](./372069-stardust.json) |
+| StarDust | 340168 | [340168-stardust.json](./340168-stardust.json) |
 | Stardust Amazoness | 60318 | [60318-stardust-amazoness.json](./60318-stardust-amazoness.json) |
 | Stardust Arena | 202582 | [202582-stardust-arena.json](./202582-stardust-arena.json) |
 | Stardust Defenders | 251970 | [251970-stardust-defenders.json](./251970-stardust-defenders.json) |
