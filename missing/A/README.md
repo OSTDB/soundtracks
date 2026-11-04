@@ -9171,6 +9171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Legion: Charming Mystery - Purple | 290786 | [290786-angel-legion-charming-mystery-purple.json](./290786-angel-legion-charming-mystery-purple.json) |
 | Angel Legion: Charming Mystery - Red | 302576 | [302576-angel-legion-charming-mystery-red.json](./302576-angel-legion-charming-mystery-red.json) |
 | Angel Legion: Future Dream - Green | 323231 | [323231-angel-legion-future-dream-green.json](./323231-angel-legion-future-dream-green.json) |
+| Angel Legion: Future Dream - White | 317737 | [317737-angel-legion-future-dream-white.json](./317737-angel-legion-future-dream-white.json) |
 | Angel Legion: Lil Lily - Green | 253541 | [253541-angel-legion-lil-lily-green.json](./253541-angel-legion-lil-lily-green.json) |
 | Angel Legion: Oriental - Purple | 254160 | [254160-angel-legion-oriental-purple.json](./254160-angel-legion-oriental-purple.json) |
 | Angel Legion: Secret Gift - Cyan | 331633 | [331633-angel-legion-secret-gift-cyan.json](./331633-angel-legion-secret-gift-cyan.json) |
@@ -9178,6 +9179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Legion: Secret Gift - Purple | 312052 | [312052-angel-legion-secret-gift-purple.json](./312052-angel-legion-secret-gift-purple.json) |
 | Angel Legion: Seeker of Hearts - Blue | 302573 | [302573-angel-legion-seeker-of-hearts-blue.json](./302573-angel-legion-seeker-of-hearts-blue.json) |
 | Angel Legion: Shadow Woven - Blue | 323253 | [323253-angel-legion-shadow-woven-blue.json](./323253-angel-legion-shadow-woven-blue.json) |
+| Angel Legion: Shadow Woven - Cyan | 317750 | [317750-angel-legion-shadow-woven-cyan.json](./317750-angel-legion-shadow-woven-cyan.json) |
 | Angel Legion: Shadow Woven - Green | 302575 | [302575-angel-legion-shadow-woven-green.json](./302575-angel-legion-shadow-woven-green.json) |
 | Angel Made | 156077 | [156077-angel-made.json](./156077-angel-made.json) |
 | Angel Maker | 177758 | [177758-angel-maker.json](./177758-angel-maker.json) |
@@ -16068,6 +16070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
@@ -17118,6 +17121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar: Frontiers of Pandora - Complete Edition | 392391 | [392391-avatar-frontiers-of-pandora-complete-edition.json](./392391-avatar-frontiers-of-pandora-complete-edition.json) |
 | Avatar: Frontiers of Pandora - Deluxe Edition | 283590 | [283590-avatar-frontiers-of-pandora-deluxe-edition.json](./283590-avatar-frontiers-of-pandora-deluxe-edition.json) |
 | Avatar: Frontiers of Pandora - From the Ashes | 371949 | [371949-avatar-frontiers-of-pandora-from-the-ashes.json](./371949-avatar-frontiers-of-pandora-from-the-ashes.json) |
+| Avatar: Frontiers of Pandora - Season Pass | 317754 | [317754-avatar-frontiers-of-pandora-season-pass.json](./317754-avatar-frontiers-of-pandora-season-pass.json) |
 | Avatar: Frontiers of Pandora - Secrets of the Spire | 319229 | [319229-avatar-frontiers-of-pandora-secrets-of-the-spire.json](./319229-avatar-frontiers-of-pandora-secrets-of-the-spire.json) |
 | Avatar: Frontiers of Pandora - Sky Rider Starter Pack | 332042 | [332042-avatar-frontiers-of-pandora-sky-rider-starter-pack.json](./332042-avatar-frontiers-of-pandora-sky-rider-starter-pack.json) |
 | Avatar: Frontiers of Pandora - Special Edition | 281300 | [281300-avatar-frontiers-of-pandora-special-edition.json](./281300-avatar-frontiers-of-pandora-special-edition.json) |
