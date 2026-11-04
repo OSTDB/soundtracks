@@ -942,7 +942,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4950,6 +4949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beasties of Greenhollow | 299465 | [299465-beasties-of-greenhollow.json](./299465-beasties-of-greenhollow.json) |
 | Beasties' Shelter | 346611 | [346611-beasties-shelter.json](./346611-beasties-shelter.json) |
 | Beastkeepers | 341671 | [341671-beastkeepers.json](./341671-beastkeepers.json) |
+| Beastkin Training: The Trials of a Beastkin Noblewoman | 315734 | [315734-beastkin-training-the-trials-of-a-beastkin-noblewoman.json](./315734-beastkin-training-the-trials-of-a-beastkin-noblewoman.json) |
 | BeastLink | 400902 | [400902-beastlink.json](./400902-beastlink.json) |
 | Beastly | 94119 | [94119-beastly.json](./94119-beastly.json) |
 | Beastly Bites | 338201 | [338201-beastly-bites.json](./338201-beastly-bites.json) |
