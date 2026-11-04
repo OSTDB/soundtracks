@@ -1739,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground: Chapter 1 | 367555 | [367555-underground-chapter-1.json](./367555-underground-chapter-1.json) |
 | Underground: World War | 302319 | [302319-underground-world-war.json](./302319-underground-world-war.json) |
 | Underground22 | 249085 | [249085-underground22.json](./249085-underground22.json) |
+| Undergrounded | 315393 | [315393-undergrounded.json](./315393-undergrounded.json) |
 | Undergrown | 244488 | [244488-undergrown.json](./244488-undergrown.json) |
 | Undergrowth: VR Maze | 149266 | [149266-undergrowth-vr-maze.json](./149266-undergrowth-vr-maze.json) |
 | Underhaul | 298827 | [298827-underhaul.json](./298827-underhaul.json) |
