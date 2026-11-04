@@ -663,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dan Vs. This Game | 63879 | [63879-dan-vs-this-game.json](./63879-dan-vs-this-game.json) |
 | Dan-Ku-Ga | 144635 | [144635-dan-ku-ga.json](./144635-dan-ku-ga.json) |
 | Dan's Odyssey | 223329 | [223329-dans-odyssey.json](./223329-dans-odyssey.json) |
+| Dana Cipher: Dead Man's Hand | 333293 | [333293-dana-cipher-dead-mans-hand.json](./333293-dana-cipher-dead-mans-hand.json) |
 | Dana Cipher: Dead Man's Hand - Collector's Edition | 417784 | [417784-dana-cipher-dead-mans-hand-collectors-edition.json](./417784-dana-cipher-dead-mans-hand-collectors-edition.json) |
 | Dana The Cyber Relic | 417952 | [417952-dana-the-cyber-relic.json](./417952-dana-the-cyber-relic.json) |
 | Danan: The Jungle Fighter | 45664 | [45664-danan-the-jungle-fighter.json](./45664-danan-the-jungle-fighter.json) |
@@ -4217,6 +4218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Again | 185123 | [185123-death-again.json](./185123-death-again.json) |
 | Death Alley | 179681 | [179681-death-alley.json](./179681-death-alley.json) |
 | Death and Betrayal in Romania: A Dana Knightstone Novel - Collector's Edition | 107838 | [107838-death-and-betrayal-in-romania-a-dana-knightstone-novel-collectors-edition.json](./107838-death-and-betrayal-in-romania-a-dana-knightstone-novel-collectors-edition.json) |
+| Death and Ladders | 333301 | [333301-death-and-ladders.json](./333301-death-and-ladders.json) |
 | Death and Tactics | 353364 | [353364-death-and-tactics.json](./353364-death-and-tactics.json) |
 | Death and the Fly | 15011 | [15011-death-and-the-fly.json](./15011-death-and-the-fly.json) |
 | Death Angel | 121287 | [121287-death-angel.json](./121287-death-angel.json) |
@@ -7554,6 +7556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Zhuge | 267422 | [267422-detective-zhuge.json](./267422-detective-zhuge.json) |
 | Detective_Psychic | 103182 | [103182-detective-psychic.json](./103182-detective-psychic.json) |
 | Detective: Minerva Case | 275334 | [275334-detective-minerva-case.json](./275334-detective-minerva-case.json) |
+| Detective: Rainy Night | 333297 | [333297-detective-rainy-night.json](./333297-detective-rainy-night.json) |
 | Detective: Scene Crime | 358219 | [358219-detective-scene-crime.json](./358219-detective-scene-crime.json) |
 | Detective: Stella Porta case | 249072 | [249072-detective-stella-porta-case.json](./249072-detective-stella-porta-case.json) |
 | Detective: The Motel | 292988 | [292988-detective-the-motel.json](./292988-detective-the-motel.json) |
@@ -8243,6 +8246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Legacy | 132928 | [132928-dice-legacy.json](./132928-dice-legacy.json) |
 | Dice Legacy: Corrupted Fates | 196296 | [196296-dice-legacy-corrupted-fates.json](./196296-dice-legacy-corrupted-fates.json) |
 | Dice Legacy: Deluxe Edition | 173102 | [173102-dice-legacy-deluxe-edition.json](./173102-dice-legacy-deluxe-edition.json) |
+| Dice Legends | 333288 | [333288-dice-legends.json](./333288-dice-legends.json) |
 | Dice Life: Dice Game | 291618 | [291618-dice-life-dice-game.json](./291618-dice-life-dice-game.json) |
 | Dice Looter | 414145 | [414145-dice-looter.json](./414145-dice-looter.json) |
 | Dice Mage | 291958 | [291958-dice-mage.json](./291958-dice-mage.json) |
@@ -8900,6 +8904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Pinball: Necronomicon | 45453 | [45453-digital-pinball-necronomicon.json](./45453-digital-pinball-necronomicon.json) |
 | Digital Processing | 400284 | [400284-digital-processing.json](./400284-digital-processing.json) |
 | Digital Resistance | 105189 | [105189-digital-resistance.json](./105189-digital-resistance.json) |
+| Digital Revolution | 333283 | [333283-digital-revolution.json](./333283-digital-revolution.json) |
 | Digital Road | 70057 | [70057-digital-road.json](./70057-digital-road.json) |
 | Digital Rose | 122014 | [122014-digital-rose.json](./122014-digital-rose.json) |
 | Digital Runner | 93725 | [93725-digital-runner.json](./93725-digital-runner.json) |
@@ -14375,6 +14380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Knife | 48587 | [48587-dragon-knife.json](./48587-dragon-knife.json) |
 | Dragon Knight | 187132 | [187132-dragon-knight.json](./187132-dragon-knight.json) |
 | Dragon Knight | 31918 | [31918-dragon-knight.json](./31918-dragon-knight.json) |
+| Dragon Knight | 333314 | [333314-dragon-knight.json](./333314-dragon-knight.json) |
 | Dragon Knight | 39628 | [39628-dragon-knight.json](./39628-dragon-knight.json) |
 | Dragon Knight | 416720 | [416720-dragon-knight.json](./416720-dragon-knight.json) |
 | Dragon Knight & Graffiti | 70822 | [70822-dragon-knight-and-graffiti.json](./70822-dragon-knight-and-graffiti.json) |
