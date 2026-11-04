@@ -7011,6 +7011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Design Your Own Railroad | 79963 | [79963-design-your-own-railroad.json](./79963-design-your-own-railroad.json) |
 | Designasaurus | 147228 | [147228-designasaurus.json](./147228-designasaurus.json) |
 | Designed for Danger | 321771 | [321771-designed-for-danger.json](./321771-designed-for-danger.json) |
+| Designed to Climb | 316861 | [316861-designed-to-climb.json](./316861-designed-to-climb.json) |
 | Desiigner's Panda Rush | 99354 | [99354-desiigners-panda-rush.json](./99354-desiigners-panda-rush.json) |
 | Desinformator | 365803 | [365803-desinformator.json](./365803-desinformator.json) |
 | Desirable Deals | 279671 | [279671-desirable-deals.json](./279671-desirable-deals.json) |
