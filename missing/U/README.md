@@ -1910,6 +1910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undisputed | 146957 | [146957-undisputed.json](./146957-undisputed.json) |
 | Undisputed Champ | 112735 | [112735-undisputed-champ.json](./112735-undisputed-champ.json) |
 | Undisputed: Deluxe WBC Edition | 325656 | [325656-undisputed-deluxe-wbc-edition.json](./325656-undisputed-deluxe-wbc-edition.json) |
+| Undisputed: The Iron and Steel Pack | 343576 | [343576-undisputed-the-iron-and-steel-pack.json](./343576-undisputed-the-iron-and-steel-pack.json) |
 | Undivine | 311563 | [311563-undivine.json](./311563-undivine.json) |
 | Undivine Comedy: Hank's Inferno | 251750 | [251750-undivine-comedy-hanks-inferno.json](./251750-undivine-comedy-hanks-inferno.json) |
 | Undockable | 361782 | [361782-undockable.json](./361782-undockable.json) |
