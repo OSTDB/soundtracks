@@ -2636,6 +2636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caribbean Sea Fishes | 25503 | [25503-caribbean-sea-fishes.json](./25503-caribbean-sea-fishes.json) |
 | Caribbean Stud | 246378 | [246378-caribbean-stud.json](./246378-caribbean-stud.json) |
 | Carimara: Beneath the Forlorn Limbs | 339618 | [339618-carimara-beneath-the-forlorn-limbs.json](./339618-carimara-beneath-the-forlorn-limbs.json) |
+| Caring & Chilling | 315409 | [315409-caring-and-chilling.json](./315409-caring-and-chilling.json) |
 | Caring Critter Bundle | 328565 | [328565-caring-critter-bundle.json](./328565-caring-critter-bundle.json) |
 | Cario | 220341 | [220341-cario.json](./220341-cario.json) |
 | Cario 2 | 225956 | [225956-cario-2.json](./225956-cario-2.json) |
@@ -11687,6 +11688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorelli | 80125 | [80125-colorelli.json](./80125-colorelli.json) |
 | Colorfall | 404788 | [404788-colorfall.json](./404788-colorfall.json) |
 | Colorfill | 278884 | [278884-colorfill.json](./278884-colorfill.json) |
+| Colorfire Redux | 315416 | [315416-colorfire-redux.json](./315416-colorfire-redux.json) |
 | Colorfle | 265042 | [265042-colorfle.json](./265042-colorfle.json) |
 | Colorfle Unlimited | 324821 | [324821-colorfle-unlimited.json](./324821-colorfle-unlimited.json) |
 | ColorFold | 108273 | [108273-colorfold.json](./108273-colorfold.json) |
