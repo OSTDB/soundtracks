@@ -1936,6 +1936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undisputed: The Iron and Steel Pack | 343576 | [343576-undisputed-the-iron-and-steel-pack.json](./343576-undisputed-the-iron-and-steel-pack.json) |
 | Undivine | 311563 | [311563-undivine.json](./311563-undivine.json) |
 | Undivine Comedy: Hank's Inferno | 251750 | [251750-undivine-comedy-hanks-inferno.json](./251750-undivine-comedy-hanks-inferno.json) |
+| Undo The Jam Damage | 305684 | [305684-undo-the-jam-damage.json](./305684-undo-the-jam-damage.json) |
 | Undockable | 361782 | [361782-undockable.json](./361782-undockable.json) |
 | Undoing | 114157 | [114157-undoing.json](./114157-undoing.json) |
 | Undoing Evil | 195271 | [195271-undoing-evil.json](./195271-undoing-evil.json) |
