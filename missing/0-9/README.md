@@ -1563,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20 Minute Metropolis | 124263 | [124263-20-minute-metropolis.json](./124263-20-minute-metropolis.json) |
 | 20 Minutes Till Dawn | 199748 | [199748-20-minutes-till-dawn.json](./199748-20-minutes-till-dawn.json) |
 | 20 More, Somehow Even Smaller, Mazes | 393460 | [393460-20-more-somehow-even-smaller-mazes.json](./393460-20-more-somehow-even-smaller-mazes.json) |
+| 20 Sector Challenge CBP | 316554 | [316554-20-sector-challenge-cbp.json](./316554-20-sector-challenge-cbp.json) |
 | 20 Small Mazes | 272249 | [272249-20-small-mazes.json](./272249-20-small-mazes.json) |
 | 20 Squares | 92974 | [92974-20-squares.json](./92974-20-squares.json) |
 | 20 Stone sling | 27226 | [27226-20-stone-sling.json](./27226-20-stone-sling.json) |
@@ -1666,7 +1667,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 | 400357 | [400357-2048.json](./400357-2048.json) |
 | 2048 | 9105 | [9105-2048.json](./9105-2048.json) |
 | 2048 10x10 | 281417 | [281417-2048-10x10.json](./281417-2048-10x10.json) |
+| 2048 11x11 | 316548 | [316548-2048-11x11.json](./316548-2048-11x11.json) |
+| 2048 12x12 | 316550 | [316550-2048-12x12.json](./316550-2048-12x12.json) |
 | 2048 3D | 268679 | [268679-2048-3d.json](./268679-2048-3d.json) |
+| 2048 3x3 4x4 5x5 6x6 7x7 8x8 9x9 10x10 | 316547 | [316547-2048-3x3-4x4-5x5-6x6-7x7-8x8-9x9-10x10.json](./316547-2048-3x3-4x4-5x5-6x6-7x7-8x8-9x9-10x10.json) |
 | 2048 5x5 | 87383 | [87383-2048-5x5.json](./87383-2048-5x5.json) |
 | 2048 7x7 | 231839 | [231839-2048-7x7.json](./231839-2048-7x7.json) |
 | 2048 8x8 | 250216 | [250216-2048-8x8.json](./250216-2048-8x8.json) |
@@ -1674,6 +1678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Advance | 313462 | [313462-2048-advance.json](./313462-2048-advance.json) |
 | 2048 Animation Puzzle Edition | 181324 | [181324-2048-animation-puzzle-edition.json](./181324-2048-animation-puzzle-edition.json) |
 | 2048 Arms | 382186 | [382186-2048-arms.json](./382186-2048-arms.json) |
+| 2048 Attack on Titan | 316546 | [316546-2048-attack-on-titan.json](./316546-2048-attack-on-titan.json) |
 | 2048 Battles | 124274 | [124274-2048-battles.json](./124274-2048-battles.json) |
 | 2048 Bosses | 358069 | [358069-2048-bosses.json](./358069-2048-bosses.json) |
 | 2048 Boys | 305904 | [305904-2048-boys.json](./305904-2048-boys.json) |
