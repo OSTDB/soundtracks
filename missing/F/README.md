@@ -1020,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Hunter | 346362 | [346362-fallen-hunter.json](./346362-fallen-hunter.json) |
 | Fallen King | 294038 | [294038-fallen-king.json](./294038-fallen-king.json) |
 | Fallen Kingdom | 229573 | [229573-fallen-kingdom.json](./229573-fallen-kingdom.json) |
+| Fallen Kingdom | 345776 | [345776-fallen-kingdom.json](./345776-fallen-kingdom.json) |
 | Fallen Kingdom | 75023 | [75023-fallen-kingdom.json](./75023-fallen-kingdom.json) |
 | Fallen Kingdom: A Mario PC Port Retake | 298277 | [298277-fallen-kingdom-a-mario-pc-port-retake.json](./298277-fallen-kingdom-a-mario-pc-port-retake.json) |
 | Fallen Knight | 133698 | [133698-fallen-knight.json](./133698-fallen-knight.json) |
@@ -8601,6 +8602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Delivery Battle | 166634 | [166634-food-delivery-battle.json](./166634-food-delivery-battle.json) |
 | Food Delivery Service | 156896 | [156896-food-delivery-service.json](./156896-food-delivery-service.json) |
 | Food Delivery Simulator | 316420 | [316420-food-delivery-simulator.json](./316420-food-delivery-simulator.json) |
+| Food Delivery Simulator 2025 | 345768 | [345768-food-delivery-simulator-2025.json](./345768-food-delivery-simulator-2025.json) |
 | Food Devils | 301330 | [301330-food-devils.json](./301330-food-devils.json) |
 | Food Diary | 201625 | [201625-food-diary.json](./201625-food-diary.json) |
 | Food Dream Factory | 98752 | [98752-food-dream-factory.json](./98752-food-dream-factory.json) |
@@ -9047,6 +9049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Violet King & Crucible Lord - Hero Skin Bundle | 367111 | [367111-for-honor-violet-king-and-crucible-lord-hero-skin-bundle.json](./367111-for-honor-violet-king-and-crucible-lord-hero-skin-bundle.json) |
 | For Honor: Virtuosa - Hero | 367117 | [367117-for-honor-virtuosa-hero.json](./367117-for-honor-virtuosa-hero.json) |
 | For Honor: Warmonger Hero | 170436 | [170436-for-honor-warmonger-hero.json](./170436-for-honor-warmonger-hero.json) |
+| For Honor: Warmonger Hero Skin | 345779 | [345779-for-honor-warmonger-hero-skin.json](./345779-for-honor-warmonger-hero-skin.json) |
 | For Honor: Yasuke the Brave – Shugoki Hero Skin | 408963 | [408963-for-honor-yasuke-the-brave-shugoki-hero-skin.json](./408963-for-honor-yasuke-the-brave-shugoki-hero-skin.json) |
 | For Honor: Year 1 - Heroes Bundle | 256746 | [256746-for-honor-year-1-heroes-bundle.json](./256746-for-honor-year-1-heroes-bundle.json) |
 | For Honor: Yokai Banishers - Hero Skin Bundle | 375240 | [375240-for-honor-yokai-banishers-hero-skin-bundle.json](./375240-for-honor-yokai-banishers-hero-skin-bundle.json) |
@@ -11641,6 +11644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog 'n Friends | 229097 | [229097-frog-n-friends.json](./229097-frog-n-friends.json) |
 | Frog 'N Roll | 229276 | [229276-frog-n-roll.json](./229276-frog-n-roll.json) |
 | Frog 'n' Roll | 301816 | [301816-frog-n-roll.json](./301816-frog-n-roll.json) |
+| Frog & Insects | 345763 | [345763-frog-and-insects.json](./345763-frog-and-insects.json) |
 | Frog & Spiders | 39293 | [39293-frog-and-spiders.json](./39293-frog-and-spiders.json) |
 | Frog 64 | 394308 | [394308-frog-64.json](./394308-frog-64.json) |
 | Frog Adventure | 386430 | [386430-frog-adventure.json](./386430-frog-adventure.json) |
