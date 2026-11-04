@@ -7298,7 +7298,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RigorZ | 350565 | [350565-rigorz.json](./350565-rigorz.json) |
 | Rigs: Mechanized Combat League | 11253 | [11253-rigs-mechanized-combat-league.json](./11253-rigs-mechanized-combat-league.json) |
 | Riichi Advanced | 335766 | [335766-riichi-advanced.json](./335766-riichi-advanced.json) |
-| Riichi City | 187355 | [187355-riichi-city.json](./187355-riichi-city.json) |
 | Riichi Mahjong | 403729 | [403729-riichi-mahjong.json](./403729-riichi-mahjong.json) |
 | RiiMajor | 294771 | [294771-riimajor.json](./294771-riimajor.json) |
 | RIIP | 394445 | [394445-riip.json](./394445-riip.json) |
