@@ -2032,6 +2032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gas Station Simulator and Party Time DLC Bundle | 331539 | [331539-gas-station-simulator-and-party-time-dlc-bundle.json](./331539-gas-station-simulator-and-party-time-dlc-bundle.json) |
 | Gas Station Simulator, Airstrip DLC and Can Touch This DLC Bundle | 297455 | [297455-gas-station-simulator-airstrip-dlc-and-can-touch-this-dlc-bundle.json](./297455-gas-station-simulator-airstrip-dlc-and-can-touch-this-dlc-bundle.json) |
 | Gas Station Simulator, Airstrip DLC and Party Time DLC Bundle | 336439 | [336439-gas-station-simulator-airstrip-dlc-and-party-time-dlc-bundle.json](./336439-gas-station-simulator-airstrip-dlc-and-party-time-dlc-bundle.json) |
+| Gas Station Simulator, Can Touch This DLC and Party Time DLC Bundle | 343570 | [343570-gas-station-simulator-can-touch-this-dlc-and-party-time-dlc-bundle.json](./343570-gas-station-simulator-can-touch-this-dlc-and-party-time-dlc-bundle.json) |
 | Gas Station Simulator: Can Touch This | 200839 | [200839-gas-station-simulator-can-touch-this.json](./200839-gas-station-simulator-can-touch-this.json) |
 | Gas Station Simulator: Can Touch This DLC | 298596 | [298596-gas-station-simulator-can-touch-this-dlc.json](./298596-gas-station-simulator-can-touch-this-dlc.json) |
 | Gas Station Simulator: Car Junkyard | 286557 | [286557-gas-station-simulator-car-junkyard.json](./286557-gas-station-simulator-car-junkyard.json) |
@@ -3664,6 +3665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Observation | 395047 | [395047-ghost-observation.json](./395047-ghost-observation.json) |
 | Ghost of a Tale | 7684 | [7684-ghost-of-a-tale.json](./7684-ghost-of-a-tale.json) |
 | Ghost of a Tale: Collector's Edition | 140166 | [140166-ghost-of-a-tale-collectors-edition.json](./140166-ghost-of-a-tale-collectors-edition.json) |
+| Ghost of Boarding School | 343535 | [343535-ghost-of-boarding-school.json](./343535-ghost-of-boarding-school.json) |
 | Ghost of Dragon | 133143 | [133143-ghost-of-dragon.json](./133143-ghost-of-dragon.json) |
 | Ghost of the Diced Steak | 364776 | [364776-ghost-of-the-diced-steak.json](./364776-ghost-of-the-diced-steak.json) |
 | Ghost of the Fireflies | 68729 | [68729-ghost-of-the-fireflies.json](./68729-ghost-of-the-fireflies.json) |
@@ -4415,6 +4417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Power: The Fantastic World Of Dreams | 335731 | [335731-girls-power-the-fantastic-world-of-dreams.json](./335731-girls-power-the-fantastic-world-of-dreams.json) |
 | Girls Puzzle | 112979 | [112979-girls-puzzle.json](./112979-girls-puzzle.json) |
 | Girls Rest | 257954 | [257954-girls-rest.json](./257954-girls-rest.json) |
+| Girls Squad: Style Wars | 343536 | [343536-girls-squad-style-wars.json](./343536-girls-squad-style-wars.json) |
 | Girls Tank Battle | 165605 | [165605-girls-tank-battle.json](./165605-girls-tank-battle.json) |
 | Girls Tennis League | 240782 | [240782-girls-tennis-league.json](./240782-girls-tennis-league.json) |
 | Girls und Panzer: Atsumare! Minna no Sensha-dou | 208242 | [208242-girls-und-panzer-atsumare-minna-no-sensha-dou.json](./208242-girls-und-panzer-atsumare-minna-no-sensha-dou.json) |
@@ -4550,6 +4553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiator Heroes: Roman Empire | 228147 | [228147-gladiator-heroes-roman-empire.json](./228147-gladiator-heroes-roman-empire.json) |
 | Gladiator Immortal | 258807 | [258807-gladiator-immortal.json](./258807-gladiator-immortal.json) |
 | Gladiator Manager | 278095 | [278095-gladiator-manager.json](./278095-gladiator-manager.json) |
+| Gladiator Manager | 343580 | [343580-gladiator-manager.json](./343580-gladiator-manager.json) |
 | Gladiator of sparta | 173275 | [173275-gladiator-of-sparta.json](./173275-gladiator-of-sparta.json) |
 | Gladiator Of Valor | 313656 | [313656-gladiator-of-valor.json](./313656-gladiator-of-valor.json) |
 | Gladiator Rising | 221218 | [221218-gladiator-rising.json](./221218-gladiator-rising.json) |
@@ -5458,9 +5462,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Simulator 3: Baadlands: Furry Road | 374977 | [374977-goat-simulator-3-baadlands-furry-road.json](./374977-goat-simulator-3-baadlands-furry-road.json) |
 | Goat Simulator 3: Buck to the Future Pack | 397296 | [397296-goat-simulator-3-buck-to-the-future-pack.json](./397296-goat-simulator-3-buck-to-the-future-pack.json) |
 | Goat Simulator 3: Goat in a Box Edition | 212874 | [212874-goat-simulator-3-goat-in-a-box-edition.json](./212874-goat-simulator-3-goat-in-a-box-edition.json) |
+| Goat Simulator 3: Hocus Pocus Pack | 343568 | [343568-goat-simulator-3-hocus-pocus-pack.json](./343568-goat-simulator-3-hocus-pocus-pack.json) |
 | Goat Simulator 3: Multiversal Traveler's Edition | 306488 | [306488-goat-simulator-3-multiversal-travelers-edition.json](./306488-goat-simulator-3-multiversal-travelers-edition.json) |
 | Goat Simulator 3: Multiverse of Nonsense | 305106 | [305106-goat-simulator-3-multiverse-of-nonsense.json](./305106-goat-simulator-3-multiverse-of-nonsense.json) |
 | Goat Simulator 3: Pre-Udder Edition | 204913 | [204913-goat-simulator-3-pre-udder-edition.json](./204913-goat-simulator-3-pre-udder-edition.json) |
+| Goat Simulator 3: Super Duper Pack | 343569 | [343569-goat-simulator-3-super-duper-pack.json](./343569-goat-simulator-3-super-duper-pack.json) |
 | Goat Simulator 3: Ticket to Dizzyworld | 420793 | [420793-goat-simulator-3-ticket-to-dizzyworld.json](./420793-goat-simulator-3-ticket-to-dizzyworld.json) |
 | Goat Simulator GoatZ | 23190 | [23190-goat-simulator-goatz.json](./23190-goat-simulator-goatz.json) |
 | Goat Simulator MMO Simulator | 88922 | [88922-goat-simulator-mmo-simulator.json](./88922-goat-simulator-mmo-simulator.json) |
