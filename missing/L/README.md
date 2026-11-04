@@ -5710,6 +5710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Grimm | 390706 | [390706-little-grimm.json](./390706-little-grimm.json) |
 | Little Groves | 422494 | [422494-little-groves.json](./422494-little-groves.json) |
 | Little Guardians: The Last Hope | 418878 | [418878-little-guardians-the-last-hope.json](./418878-little-guardians-the-last-hope.json) |
+| Little Guy in Hell Fighting Demons | 337374 | [337374-little-guy-in-hell-fighting-demons.json](./337374-little-guy-in-hell-fighting-demons.json) |
 | Little Harvest | 254783 | [254783-little-harvest.json](./254783-little-harvest.json) |
 | Little Hats | 155880 | [155880-little-hats.json](./155880-little-hats.json) |
 | Little Hawk | 36772 | [36772-little-hawk.json](./36772-little-hawk.json) |
@@ -9758,6 +9759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luxury Hotel Emporium | 34787 | [34787-luxury-hotel-emporium.json](./34787-luxury-hotel-emporium.json) |
 | Luxury House Renovation | 114960 | [114960-luxury-house-renovation.json](./114960-luxury-house-renovation.json) |
 | Luxury Simulator | 283123 | [283123-luxury-simulator.json](./283123-luxury-simulator.json) |
+| Luxury Supermarket Simulator | 337356 | [337356-luxury-supermarket-simulator.json](./337356-luxury-supermarket-simulator.json) |
 | Luxworks | 211976 | [211976-luxworks.json](./211976-luxworks.json) |
 | Luyen Nguc | 255237 | [255237-luyen-nguc.json](./255237-luyen-nguc.json) |
 | Lǜyěxiānzōng | 320152 | [320152-luyexianzong.json](./320152-luyexianzong.json) |
