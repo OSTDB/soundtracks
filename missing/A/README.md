@@ -6134,6 +6134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex the Ball | 304385 | [304385-alex-the-ball.json](./304385-alex-the-ball.json) |
 | Alex the Rabbit | 392877 | [392877-alex-the-rabbit.json](./392877-alex-the-rabbit.json) |
 | AleX-World | 125285 | [125285-alex-world.json](./125285-alex-world.json) |
+| Alex: An Adventure Between the Ages | 348544 | [348544-alex-an-adventure-between-the-ages.json](./348544-alex-an-adventure-between-the-ages.json) |
 | Alex: Virus Composer | 364154 | [364154-alex-virus-composer.json](./364154-alex-virus-composer.json) |
 | Alex's Caves | 316145 | [316145-alexs-caves.json](./316145-alexs-caves.json) |
 | Alex's Journey to the Grave | 319226 | [319226-alexs-journey-to-the-grave.json](./319226-alexs-journey-to-the-grave.json) |
@@ -8790,6 +8791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Aliens: Chapter 1 - The Roots of Sound | 58017 | [58017-ancient-aliens-chapter-1-the-roots-of-sound.json](./58017-ancient-aliens-chapter-1-the-roots-of-sound.json) |
 | Ancient Aliens: The Game | 211402 | [211402-ancient-aliens-the-game.json](./211402-ancient-aliens-the-game.json) |
 | Ancient Allies Tower Defense | 233452 | [233452-ancient-allies-tower-defense.json](./233452-ancient-allies-tower-defense.json) |
+| Ancient Altar | 348516 | [348516-ancient-altar.json](./348516-ancient-altar.json) |
 | Ancient Anathema | 114098 | [114098-ancient-anathema.json](./114098-ancient-anathema.json) |
 | Ancient and Arcane: Escape Room Bundle | 410840 | [410840-ancient-and-arcane-escape-room-bundle.json](./410840-ancient-and-arcane-escape-room-bundle.json) |
 | Ancient Anguish MUD | 138502 | [138502-ancient-anguish-mud.json](./138502-ancient-anguish-mud.json) |
@@ -15924,6 +15926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
@@ -16232,6 +16235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of Undo Zai | 191242 | [191242-attack-of-undo-zai.json](./191242-attack-of-undo-zai.json) |
 | Attack on Alpha Centauri | 15608 | [15608-attack-on-alpha-centauri.json](./15608-attack-on-alpha-centauri.json) |
 | Attack on Altair | 69848 | [69848-attack-on-altair.json](./69848-attack-on-altair.json) |
+| Attack on Atlantis | 348531 | [348531-attack-on-atlantis.json](./348531-attack-on-atlantis.json) |
 | Attack on Beetle | 187467 | [187467-attack-on-beetle.json](./187467-attack-on-beetle.json) |
 | Attack on Giantess: World Defense Force | 82636 | [82636-attack-on-giantess-world-defense-force.json](./82636-attack-on-giantess-world-defense-force.json) |
 | Attack on Hex Island | 239665 | [239665-attack-on-hex-island.json](./239665-attack-on-hex-island.json) |
