@@ -5917,6 +5917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godscale | 378349 | [378349-godscale.json](./378349-godscale.json) |
 | Godscyld | 197177 | [197177-godscyld.json](./197177-godscyld.json) |
 | Godsend | 112757 | [112757-godsend.json](./112757-godsend.json) |
+| Godsend | 345772 | [345772-godsend.json](./345772-godsend.json) |
 | GodSend | 381055 | [381055-godsend.json](./381055-godsend.json) |
 | Godsend Arena | 235853 | [235853-godsend-arena.json](./235853-godsend-arena.json) |
 | Godshard Chronicles | 189844 | [189844-godshard-chronicles.json](./189844-godshard-chronicles.json) |
