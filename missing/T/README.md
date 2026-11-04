@@ -793,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiwan Monster Fruit: Prologue | 146216 | [146216-taiwan-monster-fruit-prologue.json](./146216-taiwan-monster-fruit-prologue.json) |
 | Taiwanese Dominatrixes Are the Best | 385703 | [385703-taiwanese-dominatrixes-are-the-best.json](./385703-taiwanese-dominatrixes-are-the-best.json) |
 | TaiWord: A Daily Word Game | 232039 | [232039-taiword-a-daily-word-game.json](./232039-taiword-a-daily-word-game.json) |
+| Taiyaki Fabulous Museum of Fish | 321266 | [321266-taiyaki-fabulous-museum-of-fish.json](./321266-taiyaki-fabulous-museum-of-fish.json) |
 | Taiyo No Miyako | 221422 | [221422-taiyo-no-miyako.json](./221422-taiyo-no-miyako.json) |
 | Taiyou no Otsuge | 209949 | [209949-taiyou-no-otsuge.json](./209949-taiyou-no-otsuge.json) |
 | Taiyou no Tenshi Marlowe: Ohanabatake ha Dai-Panic! | 331117 | [331117-taiyou-no-tenshi-marlowe-ohanabatake-ha-dai-panic.json](./331117-taiyou-no-tenshi-marlowe-ohanabatake-ha-dai-panic.json) |
@@ -1346,6 +1347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Tempest | 19096 | [19096-tales-of-the-tempest.json](./19096-tales-of-the-tempest.json) |
 | Tales of the Tiny Planet | 43123 | [43123-tales-of-the-tiny-planet.json](./43123-tales-of-the-tiny-planet.json) |
 | Tales of the Traveling Swordsman | 60026 | [60026-tales-of-the-traveling-swordsman.json](./60026-tales-of-the-traveling-swordsman.json) |
+| Tales of the Uncanny | 321248 | [321248-tales-of-the-uncanny.json](./321248-tales-of-the-uncanny.json) |
 | Tales of the Underworld: Legends of Primordial Sea | 186337 | [186337-tales-of-the-underworld-legends-of-primordial-sea.json](./186337-tales-of-the-underworld-legends-of-primordial-sea.json) |
 | Tales of the Unknown: Volume I - The Bard's Tale | 394228 | [394228-tales-of-the-unknown-volume-i-the-bards-tale.json](./394228-tales-of-the-unknown-volume-i-the-bards-tale.json) |
 | Tales of the Unknown: Volume I - The Bard's Tale | 394230 | [394230-tales-of-the-unknown-volume-i-the-bards-tale.json](./394230-tales-of-the-unknown-volume-i-the-bards-tale.json) |
@@ -4226,6 +4228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Lucidity | 387447 | [387447-terminal-lucidity.json](./387447-terminal-lucidity.json) |
 | Terminal Machine | 54427 | [54427-terminal-machine.json](./54427-terminal-machine.json) |
 | Terminal Madness: The Awakening | 204187 | [204187-terminal-madness-the-awakening.json](./204187-terminal-madness-the-awakening.json) |
+| Terminal North | 321099 | [321099-terminal-north.json](./321099-terminal-north.json) |
 | Terminal One | 328194 | [328194-terminal-one.json](./328194-terminal-one.json) |
 | Terminal Outbreak | 346503 | [346503-terminal-outbreak.json](./346503-terminal-outbreak.json) |
 | Terminal Protocol | 126949 | [126949-terminal-protocol.json](./126949-terminal-protocol.json) |
@@ -8807,6 +8810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Experiment | 21489 | [21489-the-experiment.json](./21489-the-experiment.json) |
 | The Experiment | 255699 | [255699-the-experiment.json](./255699-the-experiment.json) |
 | The Experiment | 255864 | [255864-the-experiment.json](./255864-the-experiment.json) |
+| The Experiment | 321105 | [321105-the-experiment.json](./321105-the-experiment.json) |
 | The Experiment | 367302 | [367302-the-experiment.json](./367302-the-experiment.json) |
 | The Experiment: 49 | 394425 | [394425-the-experiment-49.json](./394425-the-experiment-49.json) |
 | The Experiment: Escape Room | 111875 | [111875-the-experiment-escape-room.json](./111875-the-experiment-escape-room.json) |
@@ -10549,6 +10553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hundred Year Kingdom | 151737 | [151737-the-hundred-year-kingdom.json](./151737-the-hundred-year-kingdom.json) |
 | The Hundred Youkai Master | 346674 | [346674-the-hundred-youkai-master.json](./346674-the-hundred-youkai-master.json) |
 | The Hundredth Floor: Extraction | 425174 | [425174-the-hundredth-floor-extraction.json](./425174-the-hundredth-floor-extraction.json) |
+| The Hundredth Hike | 321180 | [321180-the-hundredth-hike.json](./321180-the-hundredth-hike.json) |
 | The Hunger Games Adventures | 57708 | [57708-the-hunger-games-adventures.json](./57708-the-hunger-games-adventures.json) |
 | The Hunger Games: Catching Fire - Panem Run | 62600 | [62600-the-hunger-games-catching-fire-panem-run.json](./62600-the-hunger-games-catching-fire-panem-run.json) |
 | The Hunger Games: Panem Rising | 344829 | [344829-the-hunger-games-panem-rising.json](./344829-the-hunger-games-panem-rising.json) |
