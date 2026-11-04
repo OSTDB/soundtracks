@@ -938,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Strike | 135896 | [135896-galaxy-strike.json](./135896-galaxy-strike.json) |
 | Galaxy Survivors | 212839 | [212839-galaxy-survivors.json](./212839-galaxy-survivors.json) |
 | Galaxy Swirl | 297529 | [297529-galaxy-swirl.json](./297529-galaxy-swirl.json) |
+| Galaxy Tactics | 336309 | [336309-galaxy-tactics.json](./336309-galaxy-tactics.json) |
 | Galaxy Too Far | 285947 | [285947-galaxy-too-far.json](./285947-galaxy-too-far.json) |
 | Galaxy Trader | 175402 | [175402-galaxy-trader.json](./175402-galaxy-trader.json) |
 | Galaxy Trader | 207849 | [207849-galaxy-trader.json](./207849-galaxy-trader.json) |
@@ -5294,6 +5295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Home - Rage incoming | 35400 | [35400-go-home-rage-incoming.json](./35400-go-home-rage-incoming.json) |
 | Go Home 1986 | 392928 | [392928-go-home-1986.json](./392928-go-home-1986.json) |
 | Go Home Annie: An SCP Game | 211029 | [211029-go-home-annie-an-scp-game.json](./211029-go-home-annie-an-scp-game.json) |
+| Go Home Club | 336274 | [336274-go-home-club.json](./336274-go-home-club.json) |
 | Go Home Dinosaurs! | 16396 | [16396-go-home-dinosaurs.json](./16396-go-home-dinosaurs.json) |
 | Go Home, Mr. Fisk! | 173215 | [173215-go-home-mr-fisk.json](./173215-go-home-mr-fisk.json) |
 | Go home, you're drunk! | 134345 | [134345-go-home-youre-drunk.json](./134345-go-home-youre-drunk.json) |
