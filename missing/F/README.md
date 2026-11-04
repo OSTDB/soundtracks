@@ -4049,6 +4049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fickle Card Legend | 384259 | [384259-fickle-card-legend.json](./384259-fickle-card-legend.json) |
 | FickleFlame | 367472 | [367472-fickleflame.json](./367472-fickleflame.json) |
 | Ficterra | 111615 | [111615-ficterra.json](./111615-ficterra.json) |
+| FictIf | 299340 | [299340-fictif.json](./299340-fictif.json) |
 | Fiction Fixers: Adventures in Wonderland | 277237 | [277237-fiction-fixers-adventures-in-wonderland.json](./277237-fiction-fixers-adventures-in-wonderland.json) |
 | Fiction Fixers: Curse of OZ | 277236 | [277236-fiction-fixers-curse-of-oz.json](./277236-fiction-fixers-curse-of-oz.json) |
 | Fiction Fixers: The Curse of Oz & Adventures in Wonderland | 209421 | [209421-fiction-fixers-the-curse-of-oz-and-adventures-in-wonderland.json](./209421-fiction-fixers-the-curse-of-oz-and-adventures-in-wonderland.json) |
@@ -9968,6 +9969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forte Craft: Pixel Builder | 100805 | [100805-forte-craft-pixel-builder.json](./100805-forte-craft-pixel-builder.json) |
 | Forteresse | 256408 | [256408-forteresse.json](./256408-forteresse.json) |
 | Forthold | 390215 | [390215-forthold.json](./390215-forthold.json) |
+| Fortias Saga | 299356 | [299356-fortias-saga.json](./299356-fortias-saga.json) |
 | Fortifend | 406873 | [406873-fortifend.json](./406873-fortifend.json) |
 | Fortification: tower defence | 141675 | [141675-fortification-tower-defence.json](./141675-fortification-tower-defence.json) |
 | Fortified | 18009 | [18009-fortified.json](./18009-fortified.json) |
