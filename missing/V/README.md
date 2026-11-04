@@ -2021,6 +2021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vigilance 2099 | 168541 | [168541-vigilance-2099.json](./168541-vigilance-2099.json) |
 | Vigilance on Talos V | 70820 | [70820-vigilance-on-talos-v.json](./70820-vigilance-on-talos-v.json) |
 | Vigilancer 2099 | 228480 | [228480-vigilancer-2099.json](./228480-vigilancer-2099.json) |
+| Vigilant | 322466 | [322466-vigilant.json](./322466-vigilant.json) |
 | Vigilant Inquest | 309659 | [309659-vigilant-inquest.json](./309659-vigilant-inquest.json) |
 | Vigilante | 10444 | [10444-vigilante.json](./10444-vigilante.json) |
 | Vigilante | 398283 | [398283-vigilante.json](./398283-vigilante.json) |
