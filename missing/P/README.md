@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P-38 Lightning | 208986 | [208986-p-38-lightning.json](./208986-p-38-lightning.json) |
 | P-38 Lightning Tour of Duty | 197 | [197-p-38-lightning-tour-of-duty.json](./197-p-38-lightning-tour-of-duty.json) |
 | P-47 Aces | 39282 | [39282-p-47-aces.json](./39282-p-47-aces.json) |
+| P-47 II MD: The Freedom Star | 344683 | [344683-p-47-ii-md-the-freedom-star.json](./344683-p-47-ii-md-the-freedom-star.json) |
 | P-47: The Phantom Fighter | 39281 | [39281-p-47-the-phantom-fighter.json](./39281-p-47-the-phantom-fighter.json) |
 | P-52 Sea Battle | 195050 | [195050-p-52-sea-battle.json](./195050-p-52-sea-battle.json) |
 | P-80 Shooting Star Tour of Duty | 198 | [198-p-80-shooting-star-tour-of-duty.json](./198-p-80-shooting-star-tour-of-duty.json) |
@@ -11004,6 +11005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Trading Card Game Pocket: Crimson Blaze | 381911 | [381911-pokemon-trading-card-game-pocket-crimson-blaze.json](./381911-pokemon-trading-card-game-pocket-crimson-blaze.json) |
 | Pokémon Trading Card Game Pocket: Deluxe pack ex | 370869 | [370869-pokemon-trading-card-game-pocket-deluxe-pack-ex.json](./370869-pokemon-trading-card-game-pocket-deluxe-pack-ex.json) |
 | Pokémon Trading Card Game Pocket: Eevee Grove | 350768 | [350768-pokemon-trading-card-game-pocket-eevee-grove.json](./350768-pokemon-trading-card-game-pocket-eevee-grove.json) |
+| Pokémon Trading Card Game Pocket: Extradimensional Crisis | 344654 | [344654-pokemon-trading-card-game-pocket-extradimensional-crisis.json](./344654-pokemon-trading-card-game-pocket-extradimensional-crisis.json) |
 | Pokémon Trading Card Game Pocket: Fantastical Parade | 387537 | [387537-pokemon-trading-card-game-pocket-fantastical-parade.json](./387537-pokemon-trading-card-game-pocket-fantastical-parade.json) |
 | Pokémon Trading Card Game Pocket: Mega Shine | 395990 | [395990-pokemon-trading-card-game-pocket-mega-shine.json](./395990-pokemon-trading-card-game-pocket-mega-shine.json) |
 | Pokémon Trading Card Game Pocket: Mythical Island | 328294 | [328294-pokemon-trading-card-game-pocket-mythical-island.json](./328294-pokemon-trading-card-game-pocket-mythical-island.json) |
@@ -17850,6 +17852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzled Love | 180813 | [180813-puzzled-love.json](./180813-puzzled-love.json) |
 | Puzzled Runner | 247865 | [247865-puzzled-runner.json](./247865-puzzled-runner.json) |
 | Puzzled Towers | 253209 | [253209-puzzled-towers.json](./253209-puzzled-towers.json) |
+| Puzzledom | 344650 | [344650-puzzledom.json](./344650-puzzledom.json) |
 | Puzzledom | 74529 | [74529-puzzledom.json](./74529-puzzledom.json) |
 | Puzzledom - classic puzzles all in one | 99221 | [99221-puzzledom-classic-puzzles-all-in-one.json](./99221-puzzledom-classic-puzzles-all-in-one.json) |
 | Puzzledorf | 160209 | [160209-puzzledorf.json](./160209-puzzledorf.json) |
