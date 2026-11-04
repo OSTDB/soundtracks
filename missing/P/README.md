@@ -6880,6 +6880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinchcliffe Grand Prix | 54663 | [54663-pinchcliffe-grand-prix.json](./54663-pinchcliffe-grand-prix.json) |
 | Pinchcliffe Grand Prix: Anniversary Edition | 345121 | [345121-pinchcliffe-grand-prix-anniversary-edition.json](./345121-pinchcliffe-grand-prix-anniversary-edition.json) |
 | Pinched | 412786 | [412786-pinched.json](./412786-pinched.json) |
+| Pinchimono: The Videogame | 321898 | [321898-pinchimono-the-videogame.json](./321898-pinchimono-the-videogame.json) |
 | Pincremental | 138720 | [138720-pincremental.json](./138720-pincremental.json) |
 | Pincushion | 169371 | [169371-pincushion.json](./169371-pincushion.json) |
 | Pindeavor | 208602 | [208602-pindeavor.json](./208602-pindeavor.json) |
@@ -9743,6 +9744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumber World | 403752 | [403752-plumber-world.json](./403752-plumber-world.json) |
 | Plumber: the Pipe Rush | 103822 | [103822-plumber-the-pipe-rush.json](./103822-plumber-the-pipe-rush.json) |
 | Plumber’s Legacy | 351772 | [351772-plumber-s-legacy.json](./351772-plumber-s-legacy.json) |
+| Plumber's Parasitic Plant Problem | 321889 | [321889-plumbers-parasitic-plant-problem.json](./321889-plumbers-parasitic-plant-problem.json) |
 | Plumbers Creed | 178667 | [178667-plumbers-creed.json](./178667-plumbers-creed.json) |
 | Plumbers Don't Wear Ties | 4251 | [4251-plumbers-dont-wear-ties.json](./4251-plumbers-dont-wear-ties.json) |
 | Plumbers Don't Wear Ties: But They Do Carry Shotguns | 271316 | [271316-plumbers-dont-wear-ties-but-they-do-carry-shotguns.json](./271316-plumbers-dont-wear-ties-but-they-do-carry-shotguns.json) |
