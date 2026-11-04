@@ -12357,6 +12357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Merge | 322806 | [322806-fruit-merge.json](./322806-fruit-merge.json) |
 | Fruit Mountain Party | 334302 | [334302-fruit-mountain-party.json](./334302-fruit-mountain-party.json) |
 | Fruit Ninja | 290243 | [290243-fruit-ninja.json](./290243-fruit-ninja.json) |
+| Fruit Ninja 2 | 336284 | [336284-fruit-ninja-2.json](./336284-fruit-ninja-2.json) |
 | Fruit Ninja Academy: Math Master | 193723 | [193723-fruit-ninja-academy-math-master.json](./193723-fruit-ninja-academy-math-master.json) |
 | Fruit Ninja Classic+ | 341823 | [341823-fruit-ninja-classic.json](./341823-fruit-ninja-classic.json) |
 | Fruit Ninja Frenzy | 64750 | [64750-fruit-ninja-frenzy.json](./64750-fruit-ninja-frenzy.json) |
