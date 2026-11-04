@@ -9041,6 +9041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetarian: Snow Globe | 155835 | [155835-planetarian-snow-globe.json](./155835-planetarian-snow-globe.json) |
 | Planetarian: The Reverie of a Little Planet & Snow Globe | 303870 | [303870-planetarian-the-reverie-of-a-little-planet-and-snow-globe.json](./303870-planetarian-the-reverie-of-a-little-planet-and-snow-globe.json) |
 | Planetarian: Ultimate Edition | 156191 | [156191-planetarian-ultimate-edition.json](./156191-planetarian-ultimate-edition.json) |
+| Planetaries | 300046 | [300046-planetaries.json](./300046-planetaries.json) |
 | Planetarion | 93956 | [93956-planetarion.json](./93956-planetarion.json) |
 | Planetarium 2 - Zen Odyssey | 81715 | [81715-planetarium-2-zen-odyssey.json](./81715-planetarium-2-zen-odyssey.json) |
 | PlanetariumVR | 372220 | [372220-planetariumvr.json](./372220-planetariumvr.json) |
@@ -17441,6 +17442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Put Pud Nudli's Adventure | 202512 | [202512-put-pud-nudlis-adventure.json](./202512-put-pud-nudlis-adventure.json) |
 | Put the Fries in the Bag | 335692 | [335692-put-the-fries-in-the-bag.json](./335692-put-the-fries-in-the-bag.json) |
 | Put the Sausage in the Bun | 322281 | [322281-put-the-sausage-in-the-bun.json](./322281-put-the-sausage-in-the-bun.json) |
+| Put Up | 300136 | [300136-put-up.json](./300136-put-up.json) |
 | Put Up Your Dukes! | 262562 | [262562-put-up-your-dukes.json](./262562-put-up-your-dukes.json) |
 | Put Your Brain On | 199728 | [199728-put-your-brain-on.json](./199728-put-your-brain-on.json) |
 | Put Your Brain on 2 | 234150 | [234150-put-your-brain-on-2.json](./234150-put-your-brain-on-2.json) |
