@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-04T08:30:52.309Z",
-  "total_soundtracks": 2907,
+  "generated_at": "2026-11-04T08:52:18.699Z",
+  "total_soundtracks": 2928,
   "games": [
     {
       "igdb_id": 7522,
@@ -1830,6 +1830,20 @@
           "album_name": "Welcome to Endfield Industries (ARKNIGHTS:ENDFIELD)",
           "spotify_url": "https://open.spotify.com/album/1zrHuNbd6pF2x9GMfwIvFR",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 219057,
+      "game_name": "Army of Ruin",
+      "game_url": "https://ostdb.net/games/army-of-ruin",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736aca08dbd1f7839e9bce2f91",
+      "albums": [
+        {
+          "album_name": "Army of Ruin (Original Videogame Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3P2JCagVRtRLhKErxgR9dk",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -5039,6 +5053,20 @@
         {
           "album_name": "Capcom Fighting Collection ［Original Soundtrack］",
           "spotify_url": "https://open.spotify.com/album/2uEpXTPO8GofATQK4zGRUv",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 314942,
+      "game_name": "Capcom Fighting Collection 2",
+      "game_url": "https://ostdb.net/games/capcom-fighting-collection-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737dc9a109b90f2514a165cad8",
+      "albums": [
+        {
+          "album_name": "Capcom Fighting Collection 2 - Vol.1［Original Soundtrack］",
+          "spotify_url": "https://open.spotify.com/album/0f9Iq3BZcDjEBYsRctF7tg",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -9127,6 +9155,20 @@
       ]
     },
     {
+      "igdb_id": 365465,
+      "game_name": "Dressmaker",
+      "game_url": "https://ostdb.net/games/dressmaker",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27393dba75fd97f37beaf783f01",
+      "albums": [
+        {
+          "album_name": "Dressmaker (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6fnw6HIwQtMUSDmRN3ci9B",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 1940,
       "game_name": "Driveclub",
       "game_url": "https://ostdb.net/games/driveclub",
@@ -9137,6 +9179,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/driveclub-original-game-soundtrack-remixes/1678587227?uo=4",
           "album_link_url": "https://album.link/i/1678587227"
+        }
+      ]
+    },
+    {
+      "igdb_id": 224619,
+      "game_name": "Drug Dealer Simulator 2",
+      "game_url": "https://ostdb.net/games/drug-dealer-simulator-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fc8fd53566668c5dd6f03021",
+      "albums": [
+        {
+          "album_name": "Drug Dealer Simulator 2 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1cTSOnRHhfyaV883cf29mj",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -9957,6 +10013,20 @@
       ]
     },
     {
+      "igdb_id": 325646,
+      "game_name": "Escape Simulator 2",
+      "game_url": "https://ostdb.net/games/escape-simulator-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273da149b04d7d7d18799170b73",
+      "albums": [
+        {
+          "album_name": "Escape Simulator 2 (Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3oq99JCVtCKWlS5vroqFvb",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 197202,
       "game_name": "Escape the Backrooms",
       "game_url": "https://ostdb.net/games/escape-the-backrooms",
@@ -10661,6 +10731,20 @@
         {
           "album_name": "Fate/Samurai Remnant Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/3OhWJjVLvW6yhzanYZIY86",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 213858,
+      "game_name": "Father's Day",
+      "game_url": "https://ostdb.net/games/fathers-day",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bf49f8de124afccb74d75b9a",
+      "albums": [
+        {
+          "album_name": "Father's Day (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6cIAEeG3kyYWZLc33PG2NX",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -11583,6 +11667,20 @@
         {
           "album_name": "Fobia: St. Dinfna Hotel (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7unn9tQF5ONLCgVc1GvGx3",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 286094,
+      "game_name": "Follow the Meaning",
+      "game_url": "https://ostdb.net/games/follow-the-meaning",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27379d12886524aa18747f8dd46",
+      "albums": [
+        {
+          "album_name": "Follow The Meaning (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5eZJjGjjTiM01ZPdgOvSn8",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -13525,6 +13623,20 @@
         {
           "album_name": "Guild Wars 2: Secrets of the Obscure (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2VwkMkRHsIbxBZhV9Of0cx",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 330016,
+      "game_name": "Guilty as Sock!",
+      "game_url": "https://ostdb.net/games/guilty-as-sock",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27333b6165a3909fefb16c1ea49",
+      "albums": [
+        {
+          "album_name": "Guilty as Sock! (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0GuHZgkjxMHzsAKB02wbIr",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -15509,6 +15621,20 @@
       ]
     },
     {
+      "igdb_id": 294592,
+      "game_name": "Inkonbini: One Store. Many Stories",
+      "game_url": "https://ostdb.net/games/inkonbini-one-store-many-stories",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273133418d1e743e9aa0908c593",
+      "albums": [
+        {
+          "album_name": "inKONBINI: One Store. Many Stories (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/72tFHWOIMerBJNx56Iuf7n",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 139090,
       "game_name": "Inscryption",
       "game_url": "https://ostdb.net/games/inscryption",
@@ -17025,6 +17151,20 @@
       ]
     },
     {
+      "igdb_id": 101245,
+      "game_name": "Levelhead",
+      "game_url": "https://ostdb.net/games/levelhead",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a9faccc357cabcedb76ed683",
+      "albums": [
+        {
+          "album_name": "Levelhead (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/13Z4a855TiqXvCMUiFJKRU",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 35132,
       "game_name": "LiEat",
       "game_url": "https://ostdb.net/games/lieat",
@@ -17575,6 +17715,20 @@
       ]
     },
     {
+      "igdb_id": 319745,
+      "game_name": "Lost But Found",
+      "game_url": "https://ostdb.net/games/lost-but-found",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ef8c608bc831d486cd53df3f",
+      "albums": [
+        {
+          "album_name": "Lost But Found (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/31zYfxxayCoJu3RNJ38V6s",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 39007,
       "game_name": "Lost Echo",
       "game_url": "https://ostdb.net/games/lost-echo",
@@ -18013,6 +18167,20 @@
       ]
     },
     {
+      "igdb_id": 313809,
+      "game_name": "MainFrames",
+      "game_url": "https://ostdb.net/games/mainframes",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27307a562206cf801b00d5c190f",
+      "albums": [
+        {
+          "album_name": "MainFrames (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2WSDHe3JUuHbJUB8oN4WKe",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 19518,
       "game_name": "Maize",
       "game_url": "https://ostdb.net/games/maize",
@@ -18132,6 +18300,20 @@
           "album_name": "Mario Kart, Double Dash!!, The Themes",
           "spotify_url": "https://open.spotify.com/album/11In6zPxqYiRceJlWP8UbC",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 307253,
+      "game_name": "Married in Red",
+      "game_url": "https://ostdb.net/games/married-in-red",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273eea5f1d634ccae92a2019ae2",
+      "albums": [
+        {
+          "album_name": "Married in Red (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7aexsf83r1g61i4HuUwBlQ",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -20693,6 +20875,20 @@
         {
           "album_name": "NEO: The World Ends with You - Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/1TEsX50DWbhcBbWm0hnJVI",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 223443,
+      "game_name": "Neon Blood",
+      "game_url": "https://ostdb.net/games/neon-blood",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fb1b59b97fdfabd907013c62",
+      "albums": [
+        {
+          "album_name": "Neon Blood (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5cx4bjS28J8tyyEIBHMPqI",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -25869,6 +26065,20 @@
       ]
     },
     {
+      "igdb_id": 301111,
+      "game_name": "Seekl",
+      "game_url": "https://ostdb.net/games/seekl",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273640413f5e2fd50b466f4886c",
+      "albums": [
+        {
+          "album_name": "seekL: Original Game Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2i8tY2msrw4bge4uyyULiH",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 55173,
       "game_name": "Semblance",
       "game_url": "https://ostdb.net/games/semblance",
@@ -26115,6 +26325,20 @@
         {
           "album_name": "Shadowrun: Hong Kong (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2cPhBpK0IFYL75OP2mDT3e",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 225615,
+      "game_name": "Shadows Over Loathing",
+      "game_url": "https://ostdb.net/games/shadows-over-loathing",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738f1199d2156e886b461423af",
+      "albums": [
+        {
+          "album_name": "Shadows Over Loathing (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6SZ3QnLKTtLxKObep31TF8",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -28857,6 +29081,20 @@
       ]
     },
     {
+      "igdb_id": 343673,
+      "game_name": "Street Fighter 6",
+      "game_url": "https://ostdb.net/games/street-fighter-6",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f8cf33c9e5666d8d012187f1",
+      "albums": [
+        {
+          "album_name": "Street Fighter 6 Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2sroU5VoZgKOkcDiQfP4hK",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 6704,
       "game_name": "Street Fighter Alpha 3",
       "game_url": "https://ostdb.net/games/street-fighter-alpha-3",
@@ -29217,6 +29455,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/suicide-squad-kill-the-justice-league-original-video/1725044347?uo=4",
           "album_link_url": "https://album.link/i/1725044347"
+        }
+      ]
+    },
+    {
+      "igdb_id": 233970,
+      "game_name": "Sulfur",
+      "game_url": "https://ostdb.net/games/sulfur",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27317b87fc6da07d919ab6178e1",
+      "albums": [
+        {
+          "album_name": "SULFUR (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4tDzkF2b2hFvXsxA9SPgSf",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -30449,6 +30701,20 @@
         {
           "album_name": "The Binding of Isaac: Repentance (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7mWeSocrNQ0OvsWauMDSHq",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 112783,
+      "game_name": "The Blind Prophet",
+      "game_url": "https://ostdb.net/games/the-blind-prophet",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ce01cc307c07b967e651d6cc",
+      "albums": [
+        {
+          "album_name": "The Blind Prophet (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2I6IPlya8UaxZbVw87Ir8i",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -33039,6 +33305,20 @@
         {
           "album_name": "Tony Hawk's American Wasteland Soundtrack",
           "spotify_url": "https://open.spotify.com/album/67tv7opgqW8VDYdLc6shX5",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 101690,
+      "game_name": "Toodee and Topdee",
+      "game_url": "https://ostdb.net/games/toodee-and-topdee",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f001ea451100b8a21e6a2c83",
+      "albums": [
+        {
+          "album_name": "Toodee and Topdee (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1Y0VHgALLEv08sqMrUxwmQ",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -36584,6 +36864,20 @@
           "album_name": "Yandere Simulator Original Soundtrack 2022",
           "spotify_url": "https://open.spotify.com/album/37jeKu6MdvCIUD5iviRW7l",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 216805,
+      "game_name": "Yellow Taxi Goes Vroom",
+      "game_url": "https://ostdb.net/games/yellow-taxi-goes-vroom",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27316360b5e2307ae62a01db691",
+      "albums": [
+        {
+          "album_name": "Yellow Taxi Goes Vroom (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2Hf2TjCvRPhBAu9uTeSews",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
