@@ -3802,6 +3802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Pirates of the Caribbean Life Experience | 169727 | [169727-vr-pirates-of-the-caribbean-life-experience.json](./169727-vr-pirates-of-the-caribbean-life-experience.json) |
 | VR Plane Crash | 156676 | [156676-vr-plane-crash.json](./156676-vr-plane-crash.json) |
 | VR Plant Journey | 152579 | [152579-vr-plant-journey.json](./152579-vr-plant-journey.json) |
+| VR Police Pursuit Alien Zombies | 338469 | [338469-vr-police-pursuit-alien-zombies.json](./338469-vr-police-pursuit-alien-zombies.json) |
 | VR Pong | 196035 | [196035-vr-pong.json](./196035-vr-pong.json) |
 | VR Porn Hentai Teachers | 368059 | [368059-vr-porn-hentai-teachers.json](./368059-vr-porn-hentai-teachers.json) |
 | VR Prison Escape | 148251 | [148251-vr-prison-escape.json](./148251-vr-prison-escape.json) |
