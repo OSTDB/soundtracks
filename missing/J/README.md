@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JAM Live Music Arcade | 98873 | [98873-jam-live-music-arcade.json](./98873-jam-live-music-arcade.json) |
 | Jam Scrapz Collection | 226853 | [226853-jam-scrapz-collection.json](./226853-jam-scrapz-collection.json) |
 | Jam Scrapz Collection: Gene-Soldier | 237802 | [237802-jam-scrapz-collection-gene-soldier.json](./237802-jam-scrapz-collection-gene-soldier.json) |
+| Jam Scrapz Collection: The Minesweeper | 298192 | [298192-jam-scrapz-collection-the-minesweeper.json](./298192-jam-scrapz-collection-the-minesweeper.json) |
 | Jam Scrapz Collection: Valentide! II | 289920 | [289920-jam-scrapz-collection-valentide-ii.json](./289920-jam-scrapz-collection-valentide-ii.json) |
 | Jam Session VR | 75822 | [75822-jam-session-vr.json](./75822-jam-session-vr.json) |
 | JAM sessions | 47925 | [47925-jam-sessions.json](./47925-jam-sessions.json) |
@@ -2933,6 +2934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judgement Silversword | 140313 | [140313-judgement-silversword.json](./140313-judgement-silversword.json) |
 | Judgement Silversword: Rebirth Edition | 37699 | [37699-judgement-silversword-rebirth-edition.json](./37699-judgement-silversword-rebirth-edition.json) |
 | Judgement Silversword: Resurrection | 36405 | [36405-judgement-silversword-resurrection.json](./36405-judgement-silversword-resurrection.json) |
+| JudgeSim | 298230 | [298230-judgesim.json](./298230-judgesim.json) |
 | Judgment | 109274 | [109274-judgment.json](./109274-judgment.json) |
 | Judgment | 281562 | [281562-judgment.json](./281562-judgment.json) |
 | Judgment Day: Angel of God | 245686 | [245686-judgment-day-angel-of-god.json](./245686-judgment-day-angel-of-god.json) |
