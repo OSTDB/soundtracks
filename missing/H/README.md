@@ -1175,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanagane Kanade Gram: Chapter 4 - Ayase Kanade: Saishuushou | 396462 | [396462-hanagane-kanade-gram-chapter-4-ayase-kanade-saishuushou.json](./396462-hanagane-kanade-gram-chapter-4-ayase-kanade-saishuushou.json) |
 | Hanage Nuki! Nuki! - Nose Hair Master | 342652 | [342652-hanage-nuki-nuki-nose-hair-master.json](./342652-hanage-nuki-nuki-nose-hair-master.json) |
 | Hanagumi Taisen Columns | 69307 | [69307-hanagumi-taisen-columns.json](./69307-hanagumi-taisen-columns.json) |
+| Hanahime no Kuni | 321900 | [321900-hanahime-no-kuni.json](./321900-hanahime-no-kuni.json) |
 | Hanahira | 59286 | [59286-hanahira.json](./59286-hanahira.json) |
 | Hanakisou | 234529 | [234529-hanakisou.json](./234529-hanakisou.json) |
 | Hanako | 143388 | [143388-hanako.json](./143388-hanako.json) |
@@ -3202,6 +3203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Snatcher | 366392 | [366392-heart-snatcher.json](./366392-heart-snatcher.json) |
 | Heart to Heart | 114832 | [114832-heart-to-heart.json](./114832-heart-to-heart.json) |
 | Heart World | 157329 | [157329-heart-world.json](./157329-heart-world.json) |
+| Heart-Lung Machine | 321733 | [321733-heart-lung-machine.json](./321733-heart-lung-machine.json) |
 | Heart-Pounding Dating Prep | 81870 | [81870-heart-pounding-dating-prep.json](./81870-heart-pounding-dating-prep.json) |
 | Heart-Pounding Office Puzzle with My Boss | 418326 | [418326-heart-pounding-office-puzzle-with-my-boss.json](./418326-heart-pounding-office-puzzle-with-my-boss.json) |
 | Heart-S-Truck | 278136 | [278136-heart-s-truck.json](./278136-heart-s-truck.json) |
@@ -5892,6 +5894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Hellas 4: Birth of Legend | 86449 | [86449-heroes-of-hellas-4-birth-of-legend.json](./86449-heroes-of-hellas-4-birth-of-legend.json) |
 | Heroes of Hellas Origins: Part Two | 218662 | [218662-heroes-of-hellas-origins-part-two.json](./218662-heroes-of-hellas-origins-part-two.json) |
 | Heroes of Higher Realms | 305634 | [305634-heroes-of-higher-realms.json](./305634-heroes-of-higher-realms.json) |
+| Heroes of History | 321894 | [321894-heroes-of-history.json](./321894-heroes-of-history.json) |
 | Heroes of Holdem | 240175 | [240175-heroes-of-holdem.json](./240175-heroes-of-holdem.json) |
 | Heroes of Hyrule | 215237 | [215237-heroes-of-hyrule.json](./215237-heroes-of-hyrule.json) |
 | Heroes of Infinity | 60925 | [60925-heroes-of-infinity.json](./60925-heroes-of-infinity.json) |
@@ -6972,6 +6975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Paradise: Aloha with Love - Collector's Edition | 362831 | [362831-hidden-paradise-aloha-with-love-collectors-edition.json](./362831-hidden-paradise-aloha-with-love-collectors-edition.json) |
 | Hidden Paradise: Kiwi Christmas - Collector's Edition | 399130 | [399130-hidden-paradise-kiwi-christmas-collectors-edition.json](./399130-hidden-paradise-kiwi-christmas-collectors-edition.json) |
 | Hidden Pass | 253352 | [253352-hidden-pass.json](./253352-hidden-pass.json) |
+| Hidden Pass Skirmishes | 321878 | [321878-hidden-pass-skirmishes.json](./321878-hidden-pass-skirmishes.json) |
 | Hidden Path of Faery | 356135 | [356135-hidden-path-of-faery.json](./356135-hidden-path-of-faery.json) |
 | Hidden Paws Bundle | 262324 | [262324-hidden-paws-bundle.json](./262324-hidden-paws-bundle.json) |
 | Hidden Paws Mystery | 109412 | [109412-hidden-paws-mystery.json](./109412-hidden-paws-mystery.json) |
