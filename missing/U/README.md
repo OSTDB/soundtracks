@@ -1818,6 +1818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertale: Chara Boss Fight | 283766 | [283766-undertale-chara-boss-fight.json](./283766-undertale-chara-boss-fight.json) |
 | Undertale: Collector's Edition | 136341 | [136341-undertale-collectors-edition.json](./136341-undertale-collectors-edition.json) |
 | Undertale: Disbelief | 136869 | [136869-undertale-disbelief.json](./136869-undertale-disbelief.json) |
+| UnderTale: DoctorTale | 330046 | [330046-undertale-doctortale.json](./330046-undertale-doctortale.json) |
 | Undertale: Gameboy Edition | 351529 | [351529-undertale-gameboy-edition.json](./351529-undertale-gameboy-edition.json) |
 | Undertale: Hard Mode - Wonderful Idea [Genocide Ending] | 331800 | [331800-undertale-hard-mode-wonderful-idea-genocide-ending.json](./331800-undertale-hard-mode-wonderful-idea-genocide-ending.json) |
 | Undertale: Icebound | 329944 | [329944-undertale-icebound.json](./329944-undertale-icebound.json) |
