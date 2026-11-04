@@ -2193,6 +2193,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gatos contra el mundo | 299092 | [299092-gatos-contra-el-mundo.json](./299092-gatos-contra-el-mundo.json) |
 | Gatotag | 403924 | [403924-gatotag.json](./403924-gatotag.json) |
 | Gats.io | 327907 | [327907-gats-io.json](./327907-gats-io.json) |
+| Gatuno in Christmas | 315152 | [315152-gatuno-in-christmas.json](./315152-gatuno-in-christmas.json) |
+| Gatuno in Halloween | 315150 | [315150-gatuno-in-halloween.json](./315150-gatuno-in-halloween.json) |
 | Gaucho and the Grassland | 192368 | [192368-gaucho-and-the-grassland.json](./192368-gaucho-and-the-grassland.json) |
 | Gaudi: Barcelona no Kaze | 118312 | [118312-gaudi-barcelona-no-kaze.json](./118312-gaudi-barcelona-no-kaze.json) |
 | Gauge | 9837 | [9837-gauge.json](./9837-gauge.json) |
