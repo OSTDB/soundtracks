@@ -4895,9 +4895,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReMove | 287773 | [287773-remove.json](./287773-remove.json) |
 | Removed | 128631 | [128631-removed.json](./128631-removed.json) |
 | Remuage - MeltySensation | 127012 | [127012-remuage-meltysensation.json](./127012-remuage-meltysensation.json) |
+| Remute: Decoder | 321799 | [321799-remute-decoder.json](./321799-remute-decoder.json) |
 | Remute: Dreammachine | 321802 | [321802-remute-dreammachine.json](./321802-remute-dreammachine.json) |
 | Remute: Electronic Deathstyle | 321794 | [321794-remute-electronic-deathstyle.json](./321794-remute-electronic-deathstyle.json) |
 | Remute: Electronic Lifestyle | 321790 | [321790-remute-electronic-lifestyle.json](./321790-remute-electronic-lifestyle.json) |
+| Remute: Generations | 321798 | [321798-remute-generations.json](./321798-remute-generations.json) |
 | Remute: Living Electronics | 321793 | [321793-remute-living-electronics.json](./321793-remute-living-electronics.json) |
 | Remute: R64 | 321795 | [321795-remute-r64.json](./321795-remute-r64.json) |
 | Remute: Remute 3D | 321801 | [321801-remute-remute-3d.json](./321801-remute-remute-3d.json) |
@@ -4905,6 +4907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remute: The Cult Of Remute | 321789 | [321789-remute-the-cult-of-remute.json](./321789-remute-the-cult-of-remute.json) |
 | Remute: The Cult of Remute Portable | 321791 | [321791-remute-the-cult-of-remute-portable.json](./321791-remute-the-cult-of-remute-portable.json) |
 | Remute: There Is Hope | 321800 | [321800-remute-there-is-hope.json](./321800-remute-there-is-hope.json) |
+| Remute: Unity | 321797 | [321797-remute-unity.json](./321797-remute-unity.json) |
 | Remy Raccoon and the Lost Temple | 172904 | [172904-remy-raccoon-and-the-lost-temple.json](./172904-remy-raccoon-and-the-lost-temple.json) |
 | Remy Raccoon and the Lost Temple: Festive Frolics - Volume 1 | 393591 | [393591-remy-raccoon-and-the-lost-temple-festive-frolics-volume-1.json](./393591-remy-raccoon-and-the-lost-temple-festive-frolics-volume-1.json) |
 | Remy Raccoon and the Lost Temple: Festive Frolics - Volume 2 | 393592 | [393592-remy-raccoon-and-the-lost-temple-festive-frolics-volume-2.json](./393592-remy-raccoon-and-the-lost-temple-festive-frolics-volume-2.json) |
