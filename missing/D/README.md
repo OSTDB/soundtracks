@@ -1285,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Adelita | 350419 | [350419-dark-adelita.json](./350419-dark-adelita.json) |
 | Dark Adventure | 38529 | [38529-dark-adventure.json](./38529-dark-adventure.json) |
 | Dark Aegis | 416790 | [416790-dark-aegis.json](./416790-dark-aegis.json) |
+| Dark Age Asunder | 331640 | [331640-dark-age-asunder.json](./331640-dark-age-asunder.json) |
 | Dark Age Dinos | 244648 | [244648-dark-age-dinos.json](./244648-dark-age-dinos.json) |
 | Dark Age Empires | 239691 | [239691-dark-age-empires.json](./239691-dark-age-empires.json) |
 | Dark Age Gladiator | 274906 | [274906-dark-age-gladiator.json](./274906-dark-age-gladiator.json) |
@@ -3799,6 +3800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead TrailZ | 35753 | [35753-dead-trailz.json](./35753-dead-trailz.json) |
 | Dead Train | 208435 | [208435-dead-train.json](./208435-dead-train.json) |
 | Dead Transmission | 190033 | [190033-dead-transmission.json](./190033-dead-transmission.json) |
+| Dead Trash | 331606 | [331606-dead-trash.json](./331606-dead-trash.json) |
 | Dead Trash: Operation - Yellow Snow | 380557 | [380557-dead-trash-operation-yellow-snow.json](./380557-dead-trash-operation-yellow-snow.json) |
 | Dead Tree Defender | 382170 | [382170-dead-tree-defender.json](./382170-dead-tree-defender.json) |
 | Dead Trigger | 36747 | [36747-dead-trigger.json](./36747-dead-trigger.json) |
@@ -4758,6 +4760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deceit | 24515 | [24515-deceit.json](./24515-deceit.json) |
 | Deceit 2 | 239561 | [239561-deceit-2.json](./239561-deceit-2.json) |
 | Deceit 2: Master Edition | 331267 | [331267-deceit-2-master-edition.json](./331267-deceit-2-master-edition.json) |
+| Deceit 2: Vampire Pack | 331632 | [331632-deceit-2-vampire-pack.json](./331632-deceit-2-vampire-pack.json) |
 | Deceitful Devotions | 227945 | [227945-deceitful-devotions.json](./227945-deceitful-devotions.json) |
 | Deceive Inc.: Black Tie Edition | 234244 | [234244-deceive-inc-black-tie-edition.json](./234244-deceive-inc-black-tie-edition.json) |
 | Deceive Inc.: Misery Empire | 246571 | [246571-deceive-inc-misery-empire.json](./246571-deceive-inc-misery-empire.json) |
