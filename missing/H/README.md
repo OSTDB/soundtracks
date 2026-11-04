@@ -1336,6 +1336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangcliff | 252598 | [252598-hangcliff.json](./252598-hangcliff.json) |
 | Hangeki | 17697 | [17697-hangeki.json](./17697-hangeki.json) |
 | Hanger | 238858 | [238858-hanger.json](./238858-hanger.json) |
+| Hanger 2 | 340158 | [340158-hanger-2.json](./340158-hanger-2.json) |
 | Hanger World | 32504 | [32504-hanger-world.json](./32504-hanger-world.json) |
 | Hangin' Off! | 409331 | [409331-hangin-off.json](./409331-hangin-off.json) |
 | Hanging Crosswords | 383338 | [383338-hanging-crosswords.json](./383338-hanging-crosswords.json) |
