@@ -4894,6 +4894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decker | 78254 | [78254-decker.json](./78254-decker.json) |
 | Deckfort Alchemist | 304312 | [304312-deckfort-alchemist.json](./304312-deckfort-alchemist.json) |
 | Deckgammon | 395946 | [395946-deckgammon.json](./395946-deckgammon.json) |
+| DeckHex | 308137 | [308137-deckhex.json](./308137-deckhex.json) |
 | DeckLand | 388136 | [388136-deckland.json](./388136-deckland.json) |
 | Deckline | 342637 | [342637-deckline.json](./342637-deckline.json) |
 | Decklings | 350476 | [350476-decklings.json](./350476-decklings.json) |
@@ -9367,6 +9368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinomaster Party | 64224 | [64224-dinomaster-party.json](./64224-dinomaster-party.json) |
 | DinoMight Baseball | 209019 | [209019-dinomight-baseball.json](./209019-dinomight-baseball.json) |
 | Dinomod | 160287 | [160287-dinomod.json](./160287-dinomod.json) |
+| Dinomod Enhanced | 308102 | [308102-dinomod-enhanced.json](./308102-dinomod-enhanced.json) |
 | DinoOps | 33334 | [33334-dinoops.json](./33334-dinoops.json) |
 | Dinopatch | 160286 | [160286-dinopatch.json](./160286-dinopatch.json) |
 | Dinopirates from Inner Space: Brocolation | 364430 | [364430-dinopirates-from-inner-space-brocolation.json](./364430-dinopirates-from-inner-space-brocolation.json) |
@@ -13032,6 +13034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon no Eawase Montage | 376530 | [376530-doraemon-no-eawase-montage.json](./376530-doraemon-no-eawase-montage.json) |
 | Doraemon no Game Boy de Asobou yo Deluxe 10 | 91778 | [91778-doraemon-no-game-boy-de-asobou-yo-deluxe-10.json](./91778-doraemon-no-game-boy-de-asobou-yo-deluxe-10.json) |
 | Doraemon no Quiz Boy 2 | 85933 | [85933-doraemon-no-quiz-boy-2.json](./85933-doraemon-no-quiz-boy-2.json) |
+| Doraemon no Study Boy 3: Ku Ku Master | 308106 | [308106-doraemon-no-study-boy-3-ku-ku-master.json](./308106-doraemon-no-study-boy-3-ku-ku-master.json) |
 | Doraemon no Study Boy: Kuku Game | 65537 | [65537-doraemon-no-study-boy-kuku-game.json](./65537-doraemon-no-study-boy-kuku-game.json) |
 | Doraemon Pocket Drill Moji Quiz | 310524 | [310524-doraemon-pocket-drill-moji-quiz.json](./310524-doraemon-pocket-drill-moji-quiz.json) |
 | Doraemon Step-Up PC | 314372 | [314372-doraemon-step-up-pc.json](./314372-doraemon-step-up-pc.json) |
