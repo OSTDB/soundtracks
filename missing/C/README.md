@@ -8425,6 +8425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cigo | 319906 | [319906-cigo.json](./319906-cigo.json) |
 | Ciikos Bridge | 183815 | [183815-ciikos-bridge.json](./183815-ciikos-bridge.json) |
 | Cǐkè Tànsuǒ Zhōng | 156705 | [156705-cike-tansuo-zhong.json](./156705-cike-tansuo-zhong.json) |
+| Cilla | 308115 | [308115-cilla.json](./308115-cilla.json) |
 | CIMA: The Enemy | 6348 | [6348-cima-the-enemy.json](./6348-cima-the-enemy.json) |
 | Cimmerian Night | 272164 | [272164-cimmerian-night.json](./272164-cimmerian-night.json) |
 | Cinco Noches Con Mi Tío Raúl | 386307 | [386307-cinco-noches-con-mi-tio-raul.json](./386307-cinco-noches-con-mi-tio-raul.json) |
@@ -9421,6 +9422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Class Notes | 319918 | [319918-class-notes.json](./319918-class-notes.json) |
 | Class of '09 | 152962 | [152962-class-of-09.json](./152962-class-of-09.json) |
 | Class of '09: Puzzle Showdown | 406251 | [406251-class-of-09-puzzle-showdown.json](./406251-class-of-09-puzzle-showdown.json) |
+| Class of '09: The Flip Side | 308138 | [308138-class-of-09-the-flip-side.json](./308138-class-of-09-the-flip-side.json) |
 | Class of Heroes | 283592 | [283592-class-of-heroes.json](./283592-class-of-heroes.json) |
 | Class of Heroes 1 & 2 Complete Edition | 283594 | [283594-class-of-heroes-1-and-2-complete-edition.json](./283594-class-of-heroes-1-and-2-complete-edition.json) |
 | Class of Heroes 2 | 20999 | [20999-class-of-heroes-2.json](./20999-class-of-heroes-2.json) |
@@ -10862,6 +10864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coded Arms Contagion | 21939 | [21939-coded-arms-contagion.json](./21939-coded-arms-contagion.json) |
 | Coded Arms: Assault | 137876 | [137876-coded-arms-assault.json](./137876-coded-arms-assault.json) |
 | Coded Black | 347784 | [347784-coded-black.json](./347784-coded-black.json) |
+| Coded Soul: Uketsugareshi Idea | 308125 | [308125-coded-soul-uketsugareshi-idea.json](./308125-coded-soul-uketsugareshi-idea.json) |
 | Coded Soul: Uketsugareshi Idea | 67801 | [67801-coded-soul-uketsugareshi-idea.json](./67801-coded-soul-uketsugareshi-idea.json) |
 | Coded Soul: Uketsunagareshi Idea | 254635 | [254635-coded-soul-uketsunagareshi-idea.json](./254635-coded-soul-uketsunagareshi-idea.json) |
 | Coded X-Word | 71375 | [71375-coded-x-word.json](./71375-coded-x-word.json) |
