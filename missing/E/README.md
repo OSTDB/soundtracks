@@ -5985,6 +5985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ether Versus | 262831 | [262831-ether-versus.json](./262831-ether-versus.json) |
 | Ether Void | 384030 | [384030-ether-void.json](./384030-ether-void.json) |
 | Etheral | 292971 | [292971-etheral.json](./292971-etheral.json) |
+| Etherburn | 337391 | [337391-etherburn.json](./337391-etherburn.json) |
 | Ethereal | 183955 | [183955-ethereal.json](./183955-ethereal.json) |
 | Ethereal Abyss | 294357 | [294357-ethereal-abyss.json](./294357-ethereal-abyss.json) |
 | Ethereal Enigma | 120480 | [120480-ethereal-enigma.json](./120480-ethereal-enigma.json) |
