@@ -2135,6 +2135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 30th Anniversary of Pac-Man | 133878 | [133878-30th-anniversary-of-pac-man.json](./133878-30th-anniversary-of-pac-man.json) |
 | 30XX: Feline Fury | 318700 | [318700-30xx-feline-fury.json](./318700-30xx-feline-fury.json) |
 | 31 Full Games for Everyone | 415384 | [415384-31-full-games-for-everyone.json](./415384-31-full-games-for-everyone.json) |
+| 31 Minutos The Game | 298745 | [298745-31-minutos-the-game.json](./298745-31-minutos-the-game.json) |
 | 31 Pixels Later | 315648 | [315648-31-pixels-later.json](./315648-31-pixels-later.json) |
 | 31 Room | 358087 | [358087-31-room.json](./358087-31-room.json) |
 | 31 Unmarked Games | 179524 | [179524-31-unmarked-games.json](./179524-31-unmarked-games.json) |
