@@ -590,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oda's Ordinary Lives | 420506 | [420506-odas-ordinary-lives.json](./420506-odas-ordinary-lives.json) |
 | Odallus: The Dark Call | 11417 | [11417-odallus-the-dark-call.json](./11417-odallus-the-dark-call.json) |
 | Odama | 4050 | [4050-odama.json](./4050-odama.json) |
+| Odama: Crush & Conquer | 341795 | [341795-odama-crush-and-conquer.json](./341795-odama-crush-and-conquer.json) |
 | Odania Sports Arena | 226130 | [226130-odania-sports-arena.json](./226130-odania-sports-arena.json) |
 | Odd Adventure of Chub, Color, 23 and You | 169973 | [169973-odd-adventure-of-chub-color-23-and-you.json](./169973-odd-adventure-of-chub-color-23-and-you.json) |
 | Odd Ball | 60588 | [60588-odd-ball.json](./60588-odd-ball.json) |
@@ -3644,6 +3645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbeats | 290995 | [290995-orbeats.json](./290995-orbeats.json) |
 | Orbem Explore | 307874 | [307874-orbem-explore.json](./307874-orbem-explore.json) |
 | Orbfall | 403097 | [403097-orbfall.json](./403097-orbfall.json) |
+| OrbGuard | 341946 | [341946-orbguard.json](./341946-orbguard.json) |
 | Orbi Universo | 120847 | [120847-orbi-universo.json](./120847-orbi-universo.json) |
 | Orbi Universo II | 334043 | [334043-orbi-universo-ii.json](./334043-orbi-universo-ii.json) |
 | Orbi's Chronicles | 149342 | [149342-orbis-chronicles.json](./149342-orbis-chronicles.json) |
@@ -5534,6 +5536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oversaturation | 415012 | [415012-oversaturation.json](./415012-oversaturation.json) |
 | Overscan Sniper HD | 67113 | [67113-overscan-sniper-hd.json](./67113-overscan-sniper-hd.json) |
 | Overseer | 150454 | [150454-overseer.json](./150454-overseer.json) |
+| Overseer | 341806 | [341806-overseer.json](./341806-overseer.json) |
 | Overseer: Field Trials | 315127 | [315127-overseer-field-trials.json](./315127-overseer-field-trials.json) |
 | Overserved: Food Fighters! | 398995 | [398995-overserved-food-fighters.json](./398995-overserved-food-fighters.json) |
 | Oversexed Landlady | 389763 | [389763-oversexed-landlady.json](./389763-oversexed-landlady.json) |
