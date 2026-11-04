@@ -10376,6 +10376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Corners for Playdate | 230728 | [230728-four-corners-for-playdate.json](./230728-four-corners-for-playdate.json) |
 | Four Course Combat | 149535 | [149535-four-course-combat.json](./149535-four-course-combat.json) |
 | Four Course Dungeon | 200843 | [200843-four-course-dungeon.json](./200843-four-course-dungeon.json) |
+| Four Directions | 347440 | [347440-four-directions.json](./347440-four-directions.json) |
 | Four Divine Abidings | 352265 | [352265-four-divine-abidings.json](./352265-four-divine-abidings.json) |
 | Four Elements Trainer | 141562 | [141562-four-elements-trainer.json](./141562-four-elements-trainer.json) |
 | Four Eyes | 179600 | [179600-four-eyes.json](./179600-four-eyes.json) |
