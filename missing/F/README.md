@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F Class Adventurer | 231955 | [231955-f-class-adventurer.json](./231955-f-class-adventurer.json) |
 | F Fanatic | 402468 | [402468-f-fanatic.json](./402468-f-fanatic.json) |
 | F of X | 423208 | [423208-f-of-x.json](./423208-f-of-x.json) |
+| F_Episode 2 | 312242 | [312242-f-episode-2.json](./312242-f-episode-2.json) |
 | F-1 | 398651 | [398651-f-1.json](./398651-f-1.json) |
 | F-1 Chequered Flag | 59977 | [59977-f-1-chequered-flag.json](./59977-f-1-chequered-flag.json) |
 | F-1 Dream | 39482 | [39482-f-1-dream.json](./39482-f-1-dream.json) |
@@ -8530,6 +8531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNF: From the Top! | 365191 | [365191-fnf-from-the-top.json](./365191-fnf-from-the-top.json) |
 | FNF: Spooky Mix | 365105 | [365105-fnf-spooky-mix.json](./365105-fnf-spooky-mix.json) |
 | FNF: V.S. Tabi Ex Boyfriend | 314513 | [314513-fnf-v-s-tabi-ex-boyfriend.json](./314513-fnf-v-s-tabi-ex-boyfriend.json) |
+| Fnvader | 311969 | [311969-fnvader.json](./311969-fnvader.json) |
 | Foam | 138267 | [138267-foam.json](./138267-foam.json) |
 | FoamFix | 233698 | [233698-foamfix.json](./233698-foamfix.json) |
 | Fobia ...Worse Than Fear. | 242593 | [242593-fobia-worse-than-fear.json](./242593-fobia-worse-than-fear.json) |
