@@ -1110,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kasparov Chessmate | 23528 | [23528-kasparov-chessmate.json](./23528-kasparov-chessmate.json) |
 | Kasparov's Gambit | 47114 | [47114-kasparovs-gambit.json](./47114-kasparovs-gambit.json) |
 | Kasplat | 258712 | [258712-kasplat.json](./258712-kasplat.json) |
+| Kassei: Road Cycling | 320651 | [320651-kassei-road-cycling.json](./320651-kassei-road-cycling.json) |
 | Kassei: Road Cycling - Next Season | 410020 | [410020-kassei-road-cycling-next-season.json](./410020-kassei-road-cycling-next-season.json) |
 | Kassei: Road Cycling 2025 | 357207 | [357207-kassei-road-cycling-2025.json](./357207-kassei-road-cycling-2025.json) |
 | Kasshoku no Sei Senshi Aisha | 108119 | [108119-kasshoku-no-sei-senshi-aisha.json](./108119-kasshoku-no-sei-senshi-aisha.json) |
@@ -2735,7 +2736,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3417,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Two Crowns: Jarl Edition | 186896 | [186896-kingdom-two-crowns-jarl-edition.json](./186896-kingdom-two-crowns-jarl-edition.json) |
 | Kingdom Two Crowns: Norse Lands | 175663 | [175663-kingdom-two-crowns-norse-lands.json](./175663-kingdom-two-crowns-norse-lands.json) |
 | Kingdom Two Crowns: Norse Lands Edition | 186529 | [186529-kingdom-two-crowns-norse-lands-edition.json](./186529-kingdom-two-crowns-norse-lands-edition.json) |
+| Kingdom Two Crowns: Olympus Edition | 320684 | [320684-kingdom-two-crowns-olympus-edition.json](./320684-kingdom-two-crowns-olympus-edition.json) |
 | Kingdom Under Fire II | 6414 | [6414-kingdom-under-fire-ii.json](./6414-kingdom-under-fire-ii.json) |
 | Kingdom Under Fire: A War of Heroes | 18112 | [18112-kingdom-under-fire-a-war-of-heroes.json](./18112-kingdom-under-fire-a-war-of-heroes.json) |
 | Kingdom Under Fire: Circle of Doom | 18108 | [18108-kingdom-under-fire-circle-of-doom.json](./18108-kingdom-under-fire-circle-of-doom.json) |
@@ -4475,6 +4476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights & Guns: Gold Edition | 270794 | [270794-knights-and-guns-gold-edition.json](./270794-knights-and-guns-gold-edition.json) |
 | Knights & Guns: GOTY Edition | 287127 | [287127-knights-and-guns-goty-edition.json](./287127-knights-and-guns-goty-edition.json) |
 | Knights & Guns: Grand Edition | 315860 | [315860-knights-and-guns-grand-edition.json](./315860-knights-and-guns-grand-edition.json) |
+| Knights & Guns: Infinite Edition | 320683 | [320683-knights-and-guns-infinite-edition.json](./320683-knights-and-guns-infinite-edition.json) |
 | Knights & Guns: Luxury Edition | 409971 | [409971-knights-and-guns-luxury-edition.json](./409971-knights-and-guns-luxury-edition.json) |
 | Knights & Guns: NY Edition | 277893 | [277893-knights-and-guns-ny-edition.json](./277893-knights-and-guns-ny-edition.json) |
 | Knights & Guns: Platinum Edition | 274494 | [274494-knights-and-guns-platinum-edition.json](./274494-knights-and-guns-platinum-edition.json) |
