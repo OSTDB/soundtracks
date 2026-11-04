@@ -1233,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Beat Demon | 365971 | [365971-samurai-beat-demon.json](./365971-samurai-beat-demon.json) |
 | Samurai Blade | 237671 | [237671-samurai-blade.json](./237671-samurai-blade.json) |
 | Samurai Blitz | 130573 | [130573-samurai-blitz.json](./130573-samurai-blitz.json) |
+| Samurai Blitz EX | 345798 | [345798-samurai-blitz-ex.json](./345798-samurai-blitz-ex.json) |
 | Samurai Bloodshow | 92500 | [92500-samurai-bloodshow.json](./92500-samurai-bloodshow.json) |
 | Samurai Bringer | 192434 | [192434-samurai-bringer.json](./192434-samurai-bringer.json) |
 | Samurai Bringer: Rampage | 401044 | [401044-samurai-bringer-rampage.json](./401044-samurai-bringer-rampage.json) |
@@ -15154,6 +15155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer | 261792 | [261792-soccer.json](./261792-soccer.json) |
 | Soccer | 281226 | [281226-soccer.json](./281226-soccer.json) |
 | Soccer | 300003 | [300003-soccer.json](./300003-soccer.json) |
+| Soccer | 345758 | [345758-soccer.json](./345758-soccer.json) |
 | Soccer | 346058 | [346058-soccer.json](./346058-soccer.json) |
 | Soccer | 346074 | [346074-soccer.json](./346074-soccer.json) |
 | Soccer | 346099 | [346099-soccer.json](./346099-soccer.json) |
@@ -27815,6 +27817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submachine: Future Loop Foundation | 19296 | [19296-submachine-future-loop-foundation.json](./19296-submachine-future-loop-foundation.json) |
 | Submansion | 334264 | [334264-submansion.json](./334264-submansion.json) |
 | Submarine | 274867 | [274867-submarine.json](./274867-submarine.json) |
+| Submarine | 345761 | [345761-submarine.json](./345761-submarine.json) |
 | Submarine | 346083 | [346083-submarine.json](./346083-submarine.json) |
 | Submarine | 68458 | [68458-submarine.json](./68458-submarine.json) |
 | Submarine / Racing | 381160 | [381160-submarine-racing.json](./381160-submarine-racing.json) |
@@ -32555,6 +32558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surface: Game of Gods - Collector's Edition | 55661 | [55661-surface-game-of-gods-collectors-edition.json](./55661-surface-game-of-gods-collectors-edition.json) |
 | Surface: Lost Tales - Collector's Edition | 170122 | [170122-surface-lost-tales-collectors-edition.json](./170122-surface-lost-tales-collectors-edition.json) |
 | Surface: Project Dawn | 102812 | [102812-surface-project-dawn.json](./102812-surface-project-dawn.json) |
+| Surface: Project Dawn - Collector's Edition | 345775 | [345775-surface-project-dawn-collectors-edition.json](./345775-surface-project-dawn-collectors-edition.json) |
 | Surface: Reel Life | 139747 | [139747-surface-reel-life.json](./139747-surface-reel-life.json) |
 | Surface: Reel Life - Collector's Edition | 29619 | [29619-surface-reel-life-collectors-edition.json](./29619-surface-reel-life-collectors-edition.json) |
 | Surface: Return to Another World | 91346 | [91346-surface-return-to-another-world.json](./91346-surface-return-to-another-world.json) |
