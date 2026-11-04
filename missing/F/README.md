@@ -3567,6 +3567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed and Battle: Grow Fish | 88930 | [88930-feed-and-battle-grow-fish.json](./88930-feed-and-battle-grow-fish.json) |
 | Feed and Grow: Crazy Fish | 193799 | [193799-feed-and-grow-crazy-fish.json](./193799-feed-and-grow-crazy-fish.json) |
 | Feed and Grow: Fish | 19876 | [19876-feed-and-grow-fish.json](./19876-feed-and-grow-fish.json) |
+| Feed Da King | 308139 | [308139-feed-da-king.json](./308139-feed-da-king.json) |
 | Feed Eggs | 252193 | [252193-feed-eggs.json](./252193-feed-eggs.json) |
 | Feed Garfield | 63865 | [63865-feed-garfield.json](./63865-feed-garfield.json) |
 | Feed Him | 236176 | [236176-feed-him.json](./236176-feed-him.json) |
@@ -5716,6 +5717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Path of a New World | 323033 | [323033-fire-emblem-path-of-a-new-world.json](./323033-fire-emblem-path-of-a-new-world.json) |
 | Fire Emblem: Path of Radiance | 1441 | [1441-fire-emblem-path-of-radiance.json](./1441-fire-emblem-path-of-radiance.json) |
 | Fire Emblem: Radiant Dawn | 1442 | [1442-fire-emblem-radiant-dawn.json](./1442-fire-emblem-radiant-dawn.json) |
+| Fire Emblem: Reincarnation of Light and Darkness | 308118 | [308118-fire-emblem-reincarnation-of-light-and-darkness.json](./308118-fire-emblem-reincarnation-of-light-and-darkness.json) |
 | Fire Emblem: Requiem | 139070 | [139070-fire-emblem-requiem.json](./139070-fire-emblem-requiem.json) |
 | Fire Emblem: Sacred Stones Plus | 229002 | [229002-fire-emblem-sacred-stones-plus.json](./229002-fire-emblem-sacred-stones-plus.json) |
 | Fire Emblem: Sacred Stones Reforged | 344571 | [344571-fire-emblem-sacred-stones-reforged.json](./344571-fire-emblem-sacred-stones-reforged.json) |
@@ -6628,6 +6630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fit it | 110659 | [110659-fit-it.json](./110659-fit-it.json) |
 | Fit Kit | 181175 | [181175-fit-kit.json](./181175-fit-kit.json) |
 | Fit Life | 359291 | [359291-fit-life.json](./359291-fit-life.json) |
+| Fit Music | 308124 | [308124-fit-music.json](./308124-fit-music.json) |
 | Fit Music for Wii U | 61696 | [61696-fit-music-for-wii-u.json](./61696-fit-music-for-wii-u.json) |
 | Fit My Cat | 284930 | [284930-fit-my-cat.json](./284930-fit-my-cat.json) |
 | Fit My Cat: New Floor Pack | 313212 | [313212-fit-my-cat-new-floor-pack.json](./313212-fit-my-cat-new-floor-pack.json) |
@@ -8680,6 +8683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fono | 161336 | [161336-fono.json](./161336-fono.json) |
 | Fonsermónique’s Culinary Diary | 403314 | [403314-fonsermonique-s-culinary-diary.json](./403314-fonsermonique-s-culinary-diary.json) |
 | Font Quiz | 232059 | [232059-font-quiz.json](./232059-font-quiz.json) |
+| Fontemon | 308101 | [308101-fontemon.json](./308101-fontemon.json) |
 | Fonzi Fuddy: Ace Defective | 322050 | [322050-fonzi-fuddy-ace-defective.json](./322050-fonzi-fuddy-ace-defective.json) |
 | Foo Foo | 138148 | [138148-foo-foo.json](./138148-foo-foo.json) |
 | Foo Is Missing | 409314 | [409314-foo-is-missing.json](./409314-foo-is-missing.json) |
