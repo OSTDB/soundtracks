@@ -2167,6 +2167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harsh | 81994 | [81994-harsh.json](./81994-harsh.json) |
 | Harsh. | 294363 | [294363-harsh.json](./294363-harsh.json) |
 | Harshlands | 228879 | [228879-harshlands.json](./228879-harshlands.json) |
+| Hart's Toil | 300213 | [300213-harts-toil.json](./300213-harts-toil.json) |
 | Hartacon Tactics | 21983 | [21983-hartacon-tactics.json](./21983-hartacon-tactics.json) |
 | Harthorn | 148203 | [148203-harthorn.json](./148203-harthorn.json) |
 | Harts | 80920 | [80920-harts.json](./80920-harts.json) |
