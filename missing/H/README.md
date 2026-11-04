@@ -1238,6 +1238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand Simulator: Survival | 127156 | [127156-hand-simulator-survival.json](./127156-hand-simulator-survival.json) |
 | Hand to Hand Combat | 118004 | [118004-hand-to-hand-combat.json](./118004-hand-to-hand-combat.json) |
 | Hand to Hand Combat VR | 122984 | [122984-hand-to-hand-combat-vr.json](./122984-hand-to-hand-combat-vr.json) |
+| Hand-Drawn Epic Adventures | 330437 | [330437-hand-drawn-epic-adventures.json](./330437-hand-drawn-epic-adventures.json) |
 | Hand-Holding Simulator | 326404 | [326404-hand-holding-simulator.json](./326404-hand-holding-simulator.json) |
 | Hand-me-downs | 373139 | [373139-hand-me-downs.json](./373139-hand-me-downs.json) |
 | Handball | 18391 | [18391-handball.json](./18391-handball.json) |
@@ -3181,6 +3182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Of The Abyss | 337055 | [337055-heart-of-the-abyss.json](./337055-heart-of-the-abyss.json) |
 | Heart of the Alien | 343417 | [343417-heart-of-the-alien.json](./343417-heart-of-the-alien.json) |
 | Heart of the Alien: Out of this World Parts I and II | 46420 | [46420-heart-of-the-alien-out-of-this-world-parts-i-and-ii.json](./46420-heart-of-the-alien-out-of-this-world-parts-i-and-ii.json) |
+| Heart of the Dice Bundle | 330438 | [330438-heart-of-the-dice-bundle.json](./330438-heart-of-the-dice-bundle.json) |
 | Heart of the Dragon | 74048 | [74048-heart-of-the-dragon.json](./74048-heart-of-the-dragon.json) |
 | Heart of the Emberstone: Coliseum | 81767 | [81767-heart-of-the-emberstone-coliseum.json](./81767-heart-of-the-emberstone-coliseum.json) |
 | Heart of the Hedgehog | 330288 | [330288-heart-of-the-hedgehog.json](./330288-heart-of-the-hedgehog.json) |
@@ -11423,6 +11425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt in Town | 137840 | [137840-hunt-in-town.json](./137840-hunt-in-town.json) |
 | Hunt Me | 305972 | [305972-hunt-me.json](./305972-hunt-me.json) |
 | Hunt or Die! | 389506 | [389506-hunt-or-die.json](./389506-hunt-or-die.json) |
+| Hunt or Hunted Bundle | 330439 | [330439-hunt-or-hunted-bundle.json](./330439-hunt-or-hunted-bundle.json) |
 | Hunt Planet Bug | 133351 | [133351-hunt-planet-bug.json](./133351-hunt-planet-bug.json) |
 | Hunt Royale | 159347 | [159347-hunt-royale.json](./159347-hunt-royale.json) |
 | Hunt Souleater | 189024 | [189024-hunt-souleater.json](./189024-hunt-souleater.json) |
