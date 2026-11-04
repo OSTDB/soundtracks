@@ -3404,6 +3404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Engine | 345065 | [345065-dead-engine.json](./345065-dead-engine.json) |
 | Dead Epidemic | 359858 | [359858-dead-epidemic.json](./359858-dead-epidemic.json) |
 | Dead Estate | 141453 | [141453-dead-estate.json](./141453-dead-estate.json) |
+| Dead Estate Classic | 327548 | [327548-dead-estate-classic.json](./327548-dead-estate-classic.json) |
 | Dead Estate: Assignment Anya | 282415 | [282415-dead-estate-assignment-anya.json](./282415-dead-estate-assignment-anya.json) |
 | Dead Estate: Axe to Grind | 367002 | [367002-dead-estate-axe-to-grind.json](./367002-dead-estate-axe-to-grind.json) |
 | Dead Estate: Bombs Away | 366970 | [366970-dead-estate-bombs-away.json](./366970-dead-estate-bombs-away.json) |
@@ -6512,6 +6513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Densetsu no Starfy 3 | 6372 | [6372-densetsu-no-starfy-3.json](./6372-densetsu-no-starfy-3.json) |
 | Densha | 109162 | [109162-densha.json](./109162-densha.json) |
 | Densha Daishuugou: Driving Train | 289740 | [289740-densha-daishuugou-driving-train.json](./289740-densha-daishuugou-driving-train.json) |
+| Densha Daishuugou! Card de Asobou | 327570 | [327570-densha-daishuugou-card-de-asobou.json](./327570-densha-daishuugou-card-de-asobou.json) |
 | Densha de D: Burning Stage | 55923 | [55923-densha-de-d-burning-stage.json](./55923-densha-de-d-burning-stage.json) |
 | Densha de D: Climax Stage | 55920 | [55920-densha-de-d-climax-stage.json](./55920-densha-de-d-climax-stage.json) |
 | Densha de D: Lightning Stage | 137014 | [137014-densha-de-d-lightning-stage.json](./137014-densha-de-d-lightning-stage.json) |
@@ -10119,6 +10121,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Stitch Jam | 47822 | [47822-disney-stitch-jam.json](./47822-disney-stitch-jam.json) |
 | Disney Story Book | 290322 | [290322-disney-story-book.json](./290322-disney-story-book.json) |
 | Disney Superbia | 243801 | [243801-disney-superbia.json](./243801-disney-superbia.json) |
+| Disney Tanoshii o-Benkyou Series: Mic de Kantan ABC | 327571 | [327571-disney-tanoshii-o-benkyou-series-mic-de-kantan-abc.json](./327571-disney-tanoshii-o-benkyou-series-mic-de-kantan-abc.json) |
+| Disney Tanoshii Oekaki: o-Mise-ya-san o Tsukucchaou! | 327572 | [327572-disney-tanoshii-oekaki-o-mise-ya-san-o-tsukucchaou.json](./327572-disney-tanoshii-oekaki-o-mise-ya-san-o-tsukucchaou.json) |
 | Disney The Little Mermaid: Undersea Treasures! | 328255 | [328255-disney-the-little-mermaid-undersea-treasures.json](./328255-disney-the-little-mermaid-undersea-treasures.json) |
 | Disney Think Fast: The Ultimate Trivia Showdown | 5218 | [5218-disney-think-fast-the-ultimate-trivia-showdown.json](./5218-disney-think-fast-the-ultimate-trivia-showdown.json) |
 | Disney Toy Box | 342649 | [342649-disney-toy-box.json](./342649-disney-toy-box.json) |
@@ -10802,6 +10806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Djoof's UCN 2 | 379951 | [379951-djoofs-ucn-2.json](./379951-djoofs-ucn-2.json) |
 | DK Bongo Blast | 231476 | [231476-dk-bongo-blast.json](./231476-dk-bongo-blast.json) |
 | DK Challenge | 405439 | [405439-dk-challenge.json](./405439-dk-challenge.json) |
+| DK Interactive Storybook: The 3 Little Pigs | 327560 | [327560-dk-interactive-storybook-the-3-little-pigs.json](./327560-dk-interactive-storybook-the-3-little-pigs.json) |
 | DK Jungle Climber 64 DS | 315006 | [315006-dk-jungle-climber-64-ds.json](./315006-dk-jungle-climber-64-ds.json) |
 | DK Online | 114508 | [114508-dk-online.json](./114508-dk-online.json) |
 | DK: Jungle Climber | 1099 | [1099-dk-jungle-climber.json](./1099-dk-jungle-climber.json) |
@@ -12942,6 +12947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon 3: Nobita no Machi SOS! | 3474 | [3474-doraemon-3-nobita-no-machi-sos.json](./3474-doraemon-3-nobita-no-machi-sos.json) |
 | Doraemon 3: Nobita to Toki no Hougyoku | 38127 | [38127-doraemon-3-nobita-to-toki-no-hougyoku.json](./38127-doraemon-3-nobita-to-toki-no-hougyoku.json) |
 | Doraemon 4: Nobita to Tsuki no Oukoku | 78578 | [78578-doraemon-4-nobita-to-tsuki-no-oukoku.json](./78578-doraemon-4-nobita-to-tsuki-no-oukoku.json) |
+| Doraemon Chinou Daikaihatsu! Waku-waku Game Land | 327573 | [327573-doraemon-chinou-daikaihatsu-waku-waku-game-land.json](./327573-doraemon-chinou-daikaihatsu-waku-waku-game-land.json) |
 | Doraemon Comic Traveler | 405668 | [405668-doraemon-comic-traveler.json](./405668-doraemon-comic-traveler.json) |
 | Doraemon Dokodemo Walker | 49228 | [49228-doraemon-dokodemo-walker.json](./49228-doraemon-dokodemo-walker.json) |
 | Doraemon Dorayaki Shop Story | 314958 | [314958-doraemon-dorayaki-shop-story.json](./314958-doraemon-dorayaki-shop-story.json) |
@@ -14853,6 +14859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragons Reef | 344711 | [344711-dragons-reef.json](./344711-dragons-reef.json) |
 | Dragons Reef VR | 360877 | [360877-dragons-reef-vr.json](./360877-dragons-reef-vr.json) |
 | Dragons Vs Aircrafts | 101500 | [101500-dragons-vs-aircrafts.json](./101500-dragons-vs-aircrafts.json) |
+| Dragons vs. Balloons TD | 327539 | [327539-dragons-vs-balloons-td.json](./327539-dragons-vs-balloons-td.json) |
 | Dragons War | 69335 | [69335-dragons-war.json](./69335-dragons-war.json) |
 | Dragons: Rise of Berk | 57751 | [57751-dragons-rise-of-berk.json](./57751-dragons-rise-of-berk.json) |
 | Dragons: The Helmet of the Forkai | 309756 | [309756-dragons-the-helmet-of-the-forkai.json](./309756-dragons-the-helmet-of-the-forkai.json) |
