@@ -1525,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sand: A Superfluous Game | 177946 | [177946-sand-a-superfluous-game.json](./177946-sand-a-superfluous-game.json) |
 | Sand: An Adventure Story | 232323 | [232323-sand-an-adventure-story.json](./232323-sand-an-adventure-story.json) |
 | Sand:box | 223924 | [223924-sand-box.json](./223924-sand-box.json) |
+| Sandara: City of a Thousand Eclipses | 305070 | [305070-sandara-city-of-a-thousand-eclipses.json](./305070-sandara-city-of-a-thousand-eclipses.json) |
 | Sandbox | 251826 | [251826-sandbox.json](./251826-sandbox.json) |
 | Sandbox | 368087 | [368087-sandbox.json](./368087-sandbox.json) |
 | Sandbox Anything | 118590 | [118590-sandbox-anything.json](./118590-sandbox-anything.json) |
@@ -6082,6 +6083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Inspector | 311144 | [311144-sex-inspector.json](./311144-sex-inspector.json) |
 | Sex Instructor Yoga | 173830 | [173830-sex-instructor-yoga.json](./173830-sex-instructor-yoga.json) |
 | Sex Kitten Sim-Date 2 | 305119 | [305119-sex-kitten-sim-date-2.json](./305119-sex-kitten-sim-date-2.json) |
+| Sex Kitten Sim-Date 3 | 305117 | [305117-sex-kitten-sim-date-3.json](./305117-sex-kitten-sim-date-3.json) |
 | Sex Kitten Sim-Date 4 | 305118 | [305118-sex-kitten-sim-date-4.json](./305118-sex-kitten-sim-date-4.json) |
 | Sex Kitten Sim-Date 5 | 305120 | [305120-sex-kitten-sim-date-5.json](./305120-sex-kitten-sim-date-5.json) |
 | Sex Latex | 272933 | [272933-sex-latex.json](./272933-sex-latex.json) |
@@ -10325,6 +10327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silly Sync | 379894 | [379894-silly-sync.json](./379894-silly-sync.json) |
 | Silly Tanks | 351504 | [351504-silly-tanks.json](./351504-silly-tanks.json) |
 | Silly Wisher | 358506 | [358506-silly-wisher.json](./358506-silly-wisher.json) |
+| Silly.tiff | 305395 | [305395-silly-tiff.json](./305395-silly-tiff.json) |
 | Silly's Gameshow | 347804 | [347804-sillys-gameshow.json](./347804-sillys-gameshow.json) |
 | Sillyfun Valley | 158577 | [158577-sillyfun-valley.json](./158577-sillyfun-valley.json) |
 | Silmar | 230258 | [230258-silmar.json](./230258-silmar.json) |
@@ -11165,6 +11168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinless Night | 172943 | [172943-sinless-night.json](./172943-sinless-night.json) |
 | Sinless: Remastered | 197237 | [197237-sinless-remastered.json](./197237-sinless-remastered.json) |
 | Sinned | 217411 | [217411-sinned.json](./217411-sinned.json) |
+| Sinned Arena | 305111 | [305111-sinned-arena.json](./305111-sinned-arena.json) |
 | Sinner | 118817 | [118817-sinner.json](./118817-sinner.json) |
 | Sinner | 291249 | [291249-sinner.json](./291249-sinner.json) |
 | Sinner 97 | 203755 | [203755-sinner-97.json](./203755-sinner-97.json) |
@@ -16296,6 +16300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solomon's Key | 286608 | [286608-solomons-key.json](./286608-solomons-key.json) |
 | Solomon's Ring: Hi no Shou | 64162 | [64162-solomons-ring-hi-no-shou.json](./64162-solomons-ring-hi-no-shou.json) |
 | Solomonaris | 298540 | [298540-solomonaris.json](./298540-solomonaris.json) |
+| Solomonic | 305114 | [305114-solomonic.json](./305114-solomonic.json) |
 | Solos | 197318 | [197318-solos.json](./197318-solos.json) |
 | Solous | 133466 | [133466-solous.json](./133466-solous.json) |
 | Solraid | 200633 | [200633-solraid.json](./200633-solraid.json) |
@@ -17118,6 +17123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Party | 330591 | [330591-sonic-party.json](./330591-sonic-party.json) |
 | Sonic PC | 300013 | [300013-sonic-pc.json](./300013-sonic-pc.json) |
 | Sonic PC Collection | 64327 | [64327-sonic-pc-collection.json](./64327-sonic-pc-collection.json) |
+| Sonic PC Port Remake | 305116 | [305116-sonic-pc-port-remake.json](./305116-sonic-pc-port-remake.json) |
 | Sonic Phoenix | 326132 | [326132-sonic-phoenix.json](./326132-sonic-phoenix.json) |
 | Sonic Pinball Party | 6601 | [6601-sonic-pinball-party.json](./6601-sonic-pinball-party.json) |
 | Sonic Pocket Advance | 330589 | [330589-sonic-pocket-advance.json](./330589-sonic-pocket-advance.json) |
@@ -22672,6 +22678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squares Rage | 151508 | [151508-squares-rage.json](./151508-squares-rage.json) |
 | Squares Rage: Character - Crying Chris | 170120 | [170120-squares-rage-character-crying-chris.json](./170120-squares-rage-character-crying-chris.json) |
 | Squares Story | 143944 | [143944-squares-story.json](./143944-squares-story.json) |
+| Squaretrail: Lines of The Frame | 305393 | [305393-squaretrail-lines-of-the-frame.json](./305393-squaretrail-lines-of-the-frame.json) |
 | Squareverse | 390664 | [390664-squareverse.json](./390664-squareverse.json) |
 | Squarewave Maker | 90139 | [90139-squarewave-maker.json](./90139-squarewave-maker.json) |
 | SquareWorld | 102964 | [102964-squareworld.json](./102964-squareworld.json) |
@@ -29915,6 +29922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Craft: Building Game | 100851 | [100851-super-craft-building-game.json](./100851-super-craft-building-game.json) |
 | Super Craft: Exploration Survival | 100961 | [100961-super-craft-exploration-survival.json](./100961-super-craft-exploration-survival.json) |
 | Super Crane Bug | 239706 | [239706-super-crane-bug.json](./239706-super-crane-bug.json) |
+| Super Crane HD | 305093 | [305093-super-crane-hd.json](./305093-super-crane-hd.json) |
 | Super Crate Box | 9945 | [9945-super-crate-box.json](./9945-super-crate-box.json) |
 | Super Crate Box Together | 304150 | [304150-super-crate-box-together.json](./304150-super-crate-box-together.json) |
 | Super Crayon | 337232 | [337232-super-crayon.json](./337232-super-crayon.json) |
