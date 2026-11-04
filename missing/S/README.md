@@ -3793,6 +3793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Bass Fishing 2 | 299829 | [299829-sea-bass-fishing-2.json](./299829-sea-bass-fishing-2.json) |
 | Sea Battle | 134381 | [134381-sea-battle.json](./134381-sea-battle.json) |
 | Sea Battle | 171261 | [171261-sea-battle.json](./171261-sea-battle.json) |
+| Sea Battle | 343563 | [343563-sea-battle.json](./343563-sea-battle.json) |
 | Sea Battle | 413060 | [413060-sea-battle.json](./413060-sea-battle.json) |
 | Sea Battle | 5694 | [5694-sea-battle.json](./5694-sea-battle.json) |
 | Sea Battle | 86250 | [86250-sea-battle.json](./86250-sea-battle.json) |
@@ -12238,6 +12239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkydiVeR | 114837 | [114837-skydiver.json](./114837-skydiver.json) |
 | Skydivers Paradise | 319941 | [319941-skydivers-paradise.json](./319941-skydivers-paradise.json) |
 | Skydiving Simulator VR | 83978 | [83978-skydiving-simulator-vr.json](./83978-skydiving-simulator-vr.json) |
+| Skydiving Simulator: Wingsuit Flight | 343555 | [343555-skydiving-simulator-wingsuit-flight.json](./343555-skydiving-simulator-wingsuit-flight.json) |
 | SkydiVR | 138432 | [138432-skydivr.json](./138432-skydivr.json) |
 | Skydome | 112175 | [112175-skydome.json](./112175-skydome.json) |
 | SkyDribble | 253429 | [253429-skydribble.json](./253429-skydribble.json) |
@@ -13582,6 +13584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smack Some Smackers 2 | 85906 | [85906-smack-some-smackers-2.json](./85906-smack-some-smackers-2.json) |
 | Smack Studio | 169880 | [169880-smack-studio.json](./169880-smack-studio.json) |
 | Smack Talk | 377698 | [377698-smack-talk.json](./377698-smack-talk.json) |
+| Smack That Gugl! | 343562 | [343562-smack-that-gugl.json](./343562-smack-that-gugl.json) |
 | Smack Wacker | 68668 | [68668-smack-wacker.json](./68668-smack-wacker.json) |
 | Smackball | 169616 | [169616-smackball.json](./169616-smackball.json) |
 | Smackhead | 76529 | [76529-smackhead.json](./76529-smackhead.json) |
@@ -14594,6 +14597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite: Resistance | 314238 | [314238-sniper-elite-resistance.json](./314238-sniper-elite-resistance.json) |
 | Sniper Elite: Resistance - Commando Weapon Pack | 375751 | [375751-sniper-elite-resistance-commando-weapon-pack.json](./375751-sniper-elite-resistance-commando-weapon-pack.json) |
 | Sniper Elite: Resistance - Mud and Thunder Mission, Weapons and Skin Pack | 351494 | [351494-sniper-elite-resistance-mud-and-thunder-mission-weapons-and-skin-pack.json](./351494-sniper-elite-resistance-mud-and-thunder-mission-weapons-and-skin-pack.json) |
+| Sniper Elite: Resistance - Target Führer: Lights, Camera, Achtung | 343572 | [343572-sniper-elite-resistance-target-fuhrer-lights-camera-achtung.json](./343572-sniper-elite-resistance-target-fuhrer-lights-camera-achtung.json) |
 | Sniper Elite: Resistance - Wrath of the Resistance Weapon and Skins Pack | 351493 | [351493-sniper-elite-resistance-wrath-of-the-resistance-weapon-and-skins-pack.json](./351493-sniper-elite-resistance-wrath-of-the-resistance-weapon-and-skins-pack.json) |
 | Sniper Fodder | 103815 | [103815-sniper-fodder.json](./103815-sniper-fodder.json) |
 | Sniper Fury | 20356 | [20356-sniper-fury.json](./20356-sniper-fury.json) |
@@ -18358,6 +18362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Assault | 42134 | [42134-space-assault.json](./42134-space-assault.json) |
 | Space Assistance | 207573 | [207573-space-assistance.json](./207573-space-assistance.json) |
 | Space Asteroid Shooter | 55649 | [55649-space-asteroid-shooter.json](./55649-space-asteroid-shooter.json) |
+| Space Attack | 343565 | [343565-space-attack.json](./343565-space-attack.json) |
 | Space Attack | 38573 | [38573-space-attack.json](./38573-space-attack.json) |
 | Space Attack | 66909 | [66909-space-attack.json](./66909-space-attack.json) |
 | Space Avenger: Empire of Nexx | 133185 | [133185-space-avenger-empire-of-nexx.json](./133185-space-avenger-empire-of-nexx.json) |
@@ -21856,6 +21861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot Challenge 3D | 379310 | [379310-spot-challenge-3d.json](./379310-spot-challenge-3d.json) |
 | Spot Challenge Vol. 1 | 331912 | [331912-spot-challenge-vol-1.json](./331912-spot-challenge-vol-1.json) |
 | Spot Challenge Vol. 2 | 331921 | [331921-spot-challenge-vol-2.json](./331921-spot-challenge-vol-2.json) |
+| Spot Challenge Vol. 4 | 343567 | [343567-spot-challenge-vol-4.json](./343567-spot-challenge-vol-4.json) |
 | Spot Girls Difference | 114330 | [114330-spot-girls-difference.json](./114330-spot-girls-difference.json) |
 | Spot Goes to Hollywood | 4454 | [4454-spot-goes-to-hollywood.json](./4454-spot-goes-to-hollywood.json) |
 | Spot H9 | 301309 | [301309-spot-h9.json](./301309-spot-h9.json) |
@@ -23637,6 +23643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Galactic Defense | 75565 | [75565-star-wars-galactic-defense.json](./75565-star-wars-galactic-defense.json) |
 | Star Wars: Galaxies - Starter Kit | 77212 | [77212-star-wars-galaxies-starter-kit.json](./77212-star-wars-galaxies-starter-kit.json) |
 | Star Wars: Galaxy of Heroes | 19577 | [19577-star-wars-galaxy-of-heroes.json](./19577-star-wars-galaxy-of-heroes.json) |
+| Star Wars: Grand Collection | 343557 | [343557-star-wars-grand-collection.json](./343557-star-wars-grand-collection.json) |
 | Star Wars: Grievous Getaway | 75559 | [75559-star-wars-grievous-getaway.json](./75559-star-wars-grievous-getaway.json) |
 | Star Wars: Heritage Pack | 200175 | [200175-star-wars-heritage-pack.json](./200175-star-wars-heritage-pack.json) |
 | Star Wars: Heritage Pack | 247756 | [247756-star-wars-heritage-pack.json](./247756-star-wars-heritage-pack.json) |
@@ -24910,6 +24917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam Veins | 319062 | [319062-steam-veins.json](./319062-steam-veins.json) |
 | Steam-Heart's | 44309 | [44309-steam-hearts.json](./44309-steam-hearts.json) |
 | Steam-Heart's | 45973 | [45973-steam-hearts.json](./45973-steam-hearts.json) |
+| Steam-Heart's: Saturn Tribute | 343558 | [343558-steam-hearts-saturn-tribute.json](./343558-steam-hearts-saturn-tribute.json) |
 | Steam: Rails to Riches | 29429 | [29429-steam-rails-to-riches.json](./29429-steam-rails-to-riches.json) |
 | Steam: Rails to Riches - Belgium & Luxembourg Map | 162706 | [162706-steam-rails-to-riches-belgium-and-luxembourg-map.json](./162706-steam-rails-to-riches-belgium-and-luxembourg-map.json) |
 | Steam: Rails to Riches - Carcassonne Map | 162705 | [162705-steam-rails-to-riches-carcassonne-map.json](./162705-steam-rails-to-riches-carcassonne-map.json) |
@@ -27971,6 +27979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subway Simulator | 87982 | [87982-subway-simulator.json](./87982-subway-simulator.json) |
 | Subway Simulator 10: New York Edition | 91348 | [91348-subway-simulator-10-new-york-edition.json](./91348-subway-simulator-10-new-york-edition.json) |
 | Subway Simulator 2 - London Underground | 99364 | [99364-subway-simulator-2-london-underground.json](./99364-subway-simulator-2-london-underground.json) |
+| Subway Simulator 2025: City Train | 343559 | [343559-subway-simulator-2025-city-train.json](./343559-subway-simulator-2025-city-train.json) |
 | Subway Simulator: Moscow Train | 171903 | [171903-subway-simulator-moscow-train.json](./171903-subway-simulator-moscow-train.json) |
 | Subway Simulator: Underground Train Ride | 253844 | [253844-subway-simulator-underground-train-ride.json](./253844-subway-simulator-underground-train-ride.json) |
 | Subway Surfers | 251589 | [251589-subway-surfers.json](./251589-subway-surfers.json) |
