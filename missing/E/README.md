@@ -1677,6 +1677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egypt: Old Kingdom | 75230 | [75230-egypt-old-kingdom.json](./75230-egypt-old-kingdom.json) |
 | Egypt: Old Kingdom - Master of History | 124796 | [124796-egypt-old-kingdom-master-of-history.json](./124796-egypt-old-kingdom-master-of-history.json) |
 | Egypt: Secret of Five Gods | 294206 | [294206-egypt-secret-of-five-gods.json](./294206-egypt-secret-of-five-gods.json) |
+| Egyptgington | 306870 | [306870-egyptgington.json](./306870-egyptgington.json) |
 | Egyptian Ball | 71335 | [71335-egyptian-ball.json](./71335-egyptian-ball.json) |
 | Egyptian Challenge | 91543 | [91543-egyptian-challenge.json](./91543-egyptian-challenge.json) |
 | Egyptian Ratslap | 264796 | [264796-egyptian-ratslap.json](./264796-egyptian-ratslap.json) |
