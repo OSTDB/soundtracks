@@ -8115,6 +8115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluffy Showdown | 360679 | [360679-fluffy-showdown.json](./360679-fluffy-showdown.json) |
 | Fluffy Slime Maker | 106769 | [106769-fluffy-slime-maker.json](./106769-fluffy-slime-maker.json) |
 | Fluffy Smash | 219791 | [219791-fluffy-smash.json](./219791-fluffy-smash.json) |
+| Fluffy Snakes | 343530 | [343530-fluffy-snakes.json](./343530-fluffy-snakes.json) |
 | Fluffy Store | 120606 | [120606-fluffy-store.json](./120606-fluffy-store.json) |
 | Fluffy Story | 423410 | [423410-fluffy-story.json](./423410-fluffy-story.json) |
 | Fluffy's Adventure | 380419 | [380419-fluffys-adventure.json](./380419-fluffys-adventure.json) |
@@ -8652,6 +8653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Stranding | 150448 | [150448-food-stranding.json](./150448-food-stranding.json) |
 | Food Street: Restaurant Game | 249666 | [249666-food-street-restaurant-game.json](./249666-food-street-restaurant-game.json) |
 | Food Stylist: Design Game | 214672 | [214672-food-stylist-design-game.json](./214672-food-stylist-design-game.json) |
+| Food Truck Business Simulator | 343531 | [343531-food-truck-business-simulator.json](./343531-food-truck-business-simulator.json) |
 | Food Truck Chef | 105841 | [105841-food-truck-chef.json](./105841-food-truck-chef.json) |
 | Food Truck Monopoly | 348875 | [348875-food-truck-monopoly.json](./348875-food-truck-monopoly.json) |
 | Food Truck Rush | 109237 | [109237-food-truck-rush.json](./109237-food-truck-rush.json) |
@@ -12497,7 +12499,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuga: Melodies of Steel 2 - Tail Concerto Costume Pack | 259584 | [259584-fuga-melodies-of-steel-2-tail-concerto-costume-pack.json](./259584-fuga-melodies-of-steel-2-tail-concerto-costume-pack.json) |
 | Fuga: Melodies of Steel 2 - Ultimate Edition | 283150 | [283150-fuga-melodies-of-steel-2-ultimate-edition.json](./283150-fuga-melodies-of-steel-2-ultimate-edition.json) |
 | Fuga: Melodies of Steel 3 | 307648 | [307648-fuga-melodies-of-steel-3.json](./307648-fuga-melodies-of-steel-3.json) |
+| Fuga: Melodies of Steel 3 - Cyberpunk Costume Pack | 343532 | [343532-fuga-melodies-of-steel-3-cyberpunk-costume-pack.json](./343532-fuga-melodies-of-steel-3-cyberpunk-costume-pack.json) |
+| Fuga: Melodies of Steel 3 - Halloween Costume Pack | 343533 | [343533-fuga-melodies-of-steel-3-halloween-costume-pack.json](./343533-fuga-melodies-of-steel-3-halloween-costume-pack.json) |
 | Fuga: Melodies of Steel 3 - Season Pass | 371315 | [371315-fuga-melodies-of-steel-3-season-pass.json](./371315-fuga-melodies-of-steel-3-season-pass.json) |
+| Fuga: Melodies of Steel 3 - Solatorobo: Red the Hunter Costume Pack | 343534 | [343534-fuga-melodies-of-steel-3-solatorobo-red-the-hunter-costume-pack.json](./343534-fuga-melodies-of-steel-3-solatorobo-red-the-hunter-costume-pack.json) |
 | Fuga: Melodies of Steel Trilogy Box | 347087 | [347087-fuga-melodies-of-steel-trilogy-box.json](./347087-fuga-melodies-of-steel-trilogy-box.json) |
 | Fugaz | 405056 | [405056-fugaz.json](./405056-fugaz.json) |
 | Fuggedaboutit Farm | 372996 | [372996-fuggedaboutit-farm.json](./372996-fuggedaboutit-farm.json) |
