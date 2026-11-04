@@ -3542,6 +3542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ScreenPlay | 188603 | [188603-screenplay.json](./188603-screenplay.json) |
 | Screenplay in Autumn | 392757 | [392757-screenplay-in-autumn.json](./392757-screenplay-in-autumn.json) |
 | Screens Up by Nickelodeon | 105974 | [105974-screens-up-by-nickelodeon.json](./105974-screens-up-by-nickelodeon.json) |
+| Screensaver Battle | 328739 | [328739-screensaver-battle.json](./328739-screensaver-battle.json) |
 | Screensavers VR | 400373 | [400373-screensavers-vr.json](./400373-screensavers-vr.json) |
 | Screenside Station | 349089 | [349089-screenside-station.json](./349089-screenside-station.json) |
 | Screeps: Arena | 121571 | [121571-screeps-arena.json](./121571-screeps-arena.json) |
@@ -3661,6 +3662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scuffle Buddies | 59861 | [59861-scuffle-buddies.json](./59861-scuffle-buddies.json) |
 | Scuffle Scoundrels | 55734 | [55734-scuffle-scoundrels.json](./55734-scuffle-scoundrels.json) |
 | Scufflers | 189860 | [189860-scufflers.json](./189860-scufflers.json) |
+| Scuffy Game | 328742 | [328742-scuffy-game.json](./328742-scuffy-game.json) |
 | Sculplings | 349407 | [349407-sculplings.json](./349407-sculplings.json) |
 | Sculpt | 263763 | [263763-sculpt.json](./263763-sculpt.json) |
 | Sculpt People | 289187 | [289187-sculpt-people.json](./289187-sculpt-people.json) |
@@ -7398,6 +7400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shawarma or Shaverma | 165914 | [165914-shawarma-or-shaverma.json](./165914-shawarma-or-shaverma.json) |
 | Shawarma Wars | 385562 | [385562-shawarma-wars.json](./385562-shawarma-wars.json) |
 | Shawl | 56527 | [56527-shawl.json](./56527-shawl.json) |
+| Shawley: Zoo of Wonders | 328725 | [328725-shawley-zoo-of-wonders.json](./328725-shawley-zoo-of-wonders.json) |
 | Shawn Johnson Gymnastics | 365614 | [365614-shawn-johnson-gymnastics.json](./365614-shawn-johnson-gymnastics.json) |
 | Shawn Johnson Gymnastics | 50979 | [50979-shawn-johnson-gymnastics.json](./50979-shawn-johnson-gymnastics.json) |
 | ShawnCena121 | 286417 | [286417-shawncena121.json](./286417-shawncena121.json) |
@@ -13037,6 +13040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slidezzle | 311519 | [311519-slidezzle.json](./311519-slidezzle.json) |
 | Sliding | 270564 | [270564-sliding.json](./270564-sliding.json) |
 | Sliding Bears | 337049 | [337049-sliding-bears.json](./337049-sliding-bears.json) |
+| Sliding Cubes 2048 Mania | 328724 | [328724-sliding-cubes-2048-mania.json](./328724-sliding-cubes-2048-mania.json) |
 | Sliding ground | 184373 | [184373-sliding-ground.json](./184373-sliding-ground.json) |
 | Sliding Hero | 309545 | [309545-sliding-hero.json](./309545-sliding-hero.json) |
 | Sliding Puzzle | 202007 | [202007-sliding-puzzle.json](./202007-sliding-puzzle.json) |
@@ -27281,7 +27285,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of Handbags | 317835 | [317835-streets-of-handbags.json](./317835-streets-of-handbags.json) |
 | Streets of Kamurocho | 140046 | [140046-streets-of-kamurocho.json](./140046-streets-of-kamurocho.json) |
 | Streets of London | 61168 | [61168-streets-of-london.json](./61168-streets-of-london.json) |
-| Streets of Rage | 203317 | [203317-streets-of-rage.json](./203317-streets-of-rage.json) |
 | Streets of Rage 2: Puyo Wars | 315122 | [315122-streets-of-rage-2-puyo-wars.json](./315122-streets-of-rage-2-puyo-wars.json) |
 | Streets of Rage 2: Robotnik Wars | 333891 | [333891-streets-of-rage-2-robotnik-wars.json](./333891-streets-of-rage-2-robotnik-wars.json) |
 | Streets of Rage 2: Syndicate Wars | 256300 | [256300-streets-of-rage-2-syndicate-wars.json](./256300-streets-of-rage-2-syndicate-wars.json) |
@@ -28104,6 +28107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subway Simulator 2025: City Train | 343559 | [343559-subway-simulator-2025-city-train.json](./343559-subway-simulator-2025-city-train.json) |
 | Subway Simulator: Moscow Train | 171903 | [171903-subway-simulator-moscow-train.json](./171903-subway-simulator-moscow-train.json) |
 | Subway Simulator: Underground Train Ride | 253844 | [253844-subway-simulator-underground-train-ride.json](./253844-subway-simulator-underground-train-ride.json) |
+| Subway Sprint Girl | 328723 | [328723-subway-sprint-girl.json](./328723-subway-sprint-girl.json) |
 | Subway Surfers | 251589 | [251589-subway-surfers.json](./251589-subway-surfers.json) |
 | Subway Surfers 2018 - Pet vs Police | 103450 | [103450-subway-surfers-2018-pet-vs-police.json](./103450-subway-surfers-2018-pet-vs-police.json) |
 | Subway Surfers Blast | 247170 | [247170-subway-surfers-blast.json](./247170-subway-surfers-blast.json) |
@@ -34516,6 +34520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synaxarion: Great Martyr Theodore the Tyro | 306536 | [306536-synaxarion-great-martyr-theodore-the-tyro.json](./306536-synaxarion-great-martyr-theodore-the-tyro.json) |
 | Sync | 296802 | [296802-sync.json](./296802-sync.json) |
 | Sync | 61978 | [61978-sync.json](./61978-sync.json) |
+| Sync Sprint | 328741 | [328741-sync-sprint.json](./328741-sync-sprint.json) |
 | Sync Together | 390109 | [390109-sync-together.json](./390109-sync-together.json) |
 | Sync Your Mind | 287748 | [287748-sync-your-mind.json](./287748-sync-your-mind.json) |
 | Sync: Party Hard | 146845 | [146845-sync-party-hard.json](./146845-sync-party-hard.json) |
