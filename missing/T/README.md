@@ -2156,6 +2156,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Kibukawa Ryousuke Jiken-tan Kamen Genei Satsujin Jiken Introduction | 298797 | [298797-tantei-kibukawa-ryousuke-jiken-tan-kamen-genei-satsujin-jiken-introduction.json](./298797-tantei-kibukawa-ryousuke-jiken-tan-kamen-genei-satsujin-jiken-introduction.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan Vol. 7: Otonari Keiji no Sousa Memo | 297585 | [297585-tantei-kibukawa-ryousuke-jiken-tan-vol-7-otonari-keiji-no-sousa-memo.json](./297585-tantei-kibukawa-ryousuke-jiken-tan-vol-7-otonari-keiji-no-sousa-memo.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Eigou-kai Jiken | 299763 | [299763-tantei-kibukawa-ryousuke-jiken-tan-eigou-kai-jiken.json](./299763-tantei-kibukawa-ryousuke-jiken-tan-eigou-kai-jiken.json) |
+| Tantei Kibukawa Ryousuke Jiken-tan: Kamen Genei Satsujin Jiken | 298837 | [298837-tantei-kibukawa-ryousuke-jiken-tan-kamen-genei-satsujin-jiken.json](./298837-tantei-kibukawa-ryousuke-jiken-tan-kamen-genei-satsujin-jiken.json) |
+| Tantei Kibukawa Ryousuke Jiken-tan: Kamen Genei Satsujin Jiken | 298839 | [298839-tantei-kibukawa-ryousuke-jiken-tan-kamen-genei-satsujin-jiken.json](./298839-tantei-kibukawa-ryousuke-jiken-tan-kamen-genei-satsujin-jiken.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Samidare ha Nibiiro no Shirabe | 299362 | [299362-tantei-kibukawa-ryousuke-jiken-tan-samidare-ha-nibiiro-no-shirabe.json](./299362-tantei-kibukawa-ryousuke-jiken-tan-samidare-ha-nibiiro-no-shirabe.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 1 - Kamen Gensou Satsujin Jiken | 293239 | [293239-tantei-kibukawa-ryousuke-jiken-tan-vol-1-kamen-gensou-satsujin-jiken.json](./293239-tantei-kibukawa-ryousuke-jiken-tan-vol-1-kamen-gensou-satsujin-jiken.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 3 - Shisha no Rakuen | 293903 | [293903-tantei-kibukawa-ryousuke-jiken-tan-vol-3-shisha-no-rakuen.json](./293903-tantei-kibukawa-ryousuke-jiken-tan-vol-3-shisha-no-rakuen.json) |
@@ -4874,6 +4876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Plus | 20712 | [20712-tetris-plus.json](./20712-tetris-plus.json) |
 | Tetris Plus | 254518 | [254518-tetris-plus.json](./254518-tetris-plus.json) |
 | Tetris Plus 2 | 39403 | [39403-tetris-plus-2.json](./39403-tetris-plus-2.json) |
+| Tetris Pop | 298771 | [298771-tetris-pop.json](./298771-tetris-pop.json) |
 | Tetris Pro | 95421 | [95421-tetris-pro.json](./95421-tetris-pro.json) |
 | Tetris Rosy Retrospection DX | 359081 | [359081-tetris-rosy-retrospection-dx.json](./359081-tetris-rosy-retrospection-dx.json) |
 | Tetris Royale | 120266 | [120266-tetris-royale.json](./120266-tetris-royale.json) |
@@ -4939,6 +4942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetsudou-ou | 48880 | [48880-tetsudou-ou.json](./48880-tetsudou-ou.json) |
 | Tetsudou-ou '96: Ikuze Okuban Chouja | 62953 | [62953-tetsudou-ou-96-ikuze-okuban-chouja.json](./62953-tetsudou-ou-96-ikuze-okuban-chouja.json) |
 | Tetsudou-ou 2: Sekai Seifuku no Yabou | 62952 | [62952-tetsudou-ou-2-sekai-seifuku-no-yabou.json](./62952-tetsudou-ou-2-sekai-seifuku-no-yabou.json) |
+| Tetsudou-ou Neo | 298759 | [298759-tetsudou-ou-neo.json](./298759-tetsudou-ou-neo.json) |
 | Tetsujin 28-gou | 37474 | [37474-tetsujin-28-gou.json](./37474-tetsujin-28-gou.json) |
 | Tetsujin 28-Gou | 227116 | [227116-tetsujin-28-gou.json](./227116-tetsujin-28-gou.json) |
 | Tetsujou no Reigyo | 395110 | [395110-tetsujou-no-reigyo.json](./395110-tetsujou-no-reigyo.json) |
@@ -14496,6 +14500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pharody | 334222 | [334222-the-pharody.json](./334222-the-pharody.json) |
 | The Phenomenon | 269391 | [269391-the-phenomenon.json](./269391-the-phenomenon.json) |
 | The Phenomenon of Edgar Allan Poe 1/2 | 155465 | [155465-the-phenomenon-of-edgar-allan-poe-1-2.json](./155465-the-phenomenon-of-edgar-allan-poe-1-2.json) |
+| The Phenomenon+ | 298836 | [298836-the-phenomenon.json](./298836-the-phenomenon.json) |
 | The Philistine Ploy | 293705 | [293705-the-philistine-ploy.json](./293705-the-philistine-ploy.json) |
 | The Phoenix | 188414 | [188414-the-phoenix.json](./188414-the-phoenix.json) |
 | The Phoenix Gene | 348033 | [348033-the-phoenix-gene.json](./348033-the-phoenix-gene.json) |
@@ -25126,6 +25131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tortuga | 170232 | [170232-tortuga.json](./170232-tortuga.json) |
 | Tortuga 3 | 392731 | [392731-tortuga-3.json](./392731-tortuga-3.json) |
 | Tortuga Bay | 92987 | [92987-tortuga-bay.json](./92987-tortuga-bay.json) |
+| Tortuga City | 298778 | [298778-tortuga-city.json](./298778-tortuga-city.json) |
 | Tortuga Escape | 383371 | [383371-tortuga-escape.json](./383371-tortuga-escape.json) |
 | Tortuga: A Pirate's Tale | 214399 | [214399-tortuga-a-pirates-tale.json](./214399-tortuga-a-pirates-tale.json) |
 | Tortuga: Pirates of the New World | 24759 | [24759-tortuga-pirates-of-the-new-world.json](./24759-tortuga-pirates-of-the-new-world.json) |
@@ -26207,6 +26213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Hanoi | 188579 | [188579-tower-of-hanoi.json](./188579-tower-of-hanoi.json) |
 | Tower of Hanoi | 306294 | [306294-tower-of-hanoi.json](./306294-tower-of-hanoi.json) |
 | Tower of Heresy | 127799 | [127799-tower-of-heresy.json](./127799-tower-of-heresy.json) |
+| Tower of Hermes | 298776 | [298776-tower-of-hermes.json](./298776-tower-of-hermes.json) |
 | Tower of Hero | 314204 | [314204-tower-of-hero.json](./314204-tower-of-hero.json) |
 | Tower of Hidden Waifus | 276142 | [276142-tower-of-hidden-waifus.json](./276142-tower-of-hidden-waifus.json) |
 | Tower of Jank | 373790 | [373790-tower-of-jank.json](./373790-tower-of-jank.json) |
