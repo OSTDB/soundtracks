@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V696 | 186819 | [186819-v696.json](./186819-v696.json) |
 | V8 Challenge | 69886 | [69886-v8-challenge.json](./69886-v8-challenge.json) |
 | V8 Supercars 2 | 79836 | [79836-v8-supercars-2.json](./79836-v8-supercars-2.json) |
+| VA Action collection | 330413 | [330413-va-action-collection.json](./330413-va-action-collection.json) |
 | Va Pi Nu Pi Tu Ru | 395242 | [395242-va-pi-nu-pi-tu-ru.json](./395242-va-pi-nu-pi-tu-ru.json) |
 | VA-11 Hall-A Kids | 130622 | [130622-va-11-hall-a-kids.json](./130622-va-11-hall-a-kids.json) |
 | VA-11 HALL-A Prototype | 380827 | [380827-va-11-hall-a-prototype.json](./380827-va-11-hall-a-prototype.json) |
@@ -1541,6 +1542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verti-Go Home! | 118690 | [118690-verti-go-home.json](./118690-verti-go-home.json) |
 | Vertiball | 86123 | [86123-vertiball.json](./86123-vertiball.json) |
 | Vertical Adventure: Jump, Die, Retry | 207857 | [207857-vertical-adventure-jump-die-retry.json](./207857-vertical-adventure-jump-die-retry.json) |
+| Vertical Blast Vol. 1 | 330414 | [330414-vertical-blast-vol-1.json](./330414-vertical-blast-vol-1.json) |
 | Vertical Collapse: Ghost in the Machine | 326544 | [326544-vertical-collapse-ghost-in-the-machine.json](./326544-vertical-collapse-ghost-in-the-machine.json) |
 | Vertical Dash | 59438 | [59438-vertical-dash.json](./59438-vertical-dash.json) |
 | Vertical Drop Heroes | 388103 | [388103-vertical-drop-heroes.json](./388103-vertical-drop-heroes.json) |
