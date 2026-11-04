@@ -1611,6 +1611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wario Land: Super Mario Land 3 Color Edition | 263620 | [263620-wario-land-super-mario-land-3-color-edition.json](./263620-wario-land-super-mario-land-3-color-edition.json) |
 | Wario Land: The Shake Dimension | 328671 | [328671-wario-land-the-shake-dimension.json](./328671-wario-land-the-shake-dimension.json) |
 | Wario no Mori: Event Ban Ver. 1 | 401088 | [401088-wario-no-mori-event-ban-ver-1.json](./401088-wario-no-mori-event-ban-ver-1.json) |
+| Wario Pill's Pill-Based Journey! | 325808 | [325808-wario-pills-pill-based-journey.json](./325808-wario-pills-pill-based-journey.json) |
 | Wario Pool | 230170 | [230170-wario-pool.json](./230170-wario-pool.json) |
 | Wario Time! | 314119 | [314119-wario-time.json](./314119-wario-time.json) |
 | Wario vs. Windows | 256411 | [256411-wario-vs-windows.json](./256411-wario-vs-windows.json) |
