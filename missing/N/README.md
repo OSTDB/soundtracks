@@ -5130,6 +5130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja: ShadowBlade | 339903 | [339903-ninja-shadowblade.json](./339903-ninja-shadowblade.json) |
 | Ninja: The Lost Legacy | 279851 | [279851-ninja-the-lost-legacy.json](./279851-ninja-the-lost-legacy.json) |
 | Ninja: Waltz of night | 289274 | [289274-ninja-waltz-of-night.json](./289274-ninja-waltz-of-night.json) |
+| Ninja! Beatdown | 311405 | [311405-ninja-beatdown.json](./311405-ninja-beatdown.json) |
 | Ninja? | 113900 | [113900-ninja.json](./113900-ninja.json) |
 | Ninja's Creed | 227473 | [227473-ninjas-creed.json](./227473-ninjas-creed.json) |
 | Ninjabread Man | 5077 | [5077-ninjabread-man.json](./5077-ninjabread-man.json) |
@@ -6244,6 +6245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | None | 229652 | [229652-none.json](./229652-none.json) |
 | None Left | 210543 | [210543-none-left.json](./210543-none-left.json) |
 | None Like It Hot! | 287306 | [287306-none-like-it-hot.json](./287306-none-like-it-hot.json) |
+| None Shall Intrude | 311508 | [311508-none-shall-intrude.json](./311508-none-shall-intrude.json) |
 | None Tank Age | 239616 | [239616-none-tank-age.json](./239616-none-tank-age.json) |
 | Noneday | 387549 | [387549-noneday.json](./387549-noneday.json) |
 | Nonentity Galaxy | 311490 | [311490-nonentity-galaxy.json](./311490-nonentity-galaxy.json) |
