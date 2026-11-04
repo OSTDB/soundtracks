@@ -3714,7 +3714,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5403,6 +5402,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iO Inner Self: The Lava Planet VR | 225614 | [225614-io-inner-self-the-lava-planet-vr.json](./225614-io-inner-self-the-lava-planet-vr.json) |
 | IO Interloper | 105729 | [105729-io-interloper.json](./105729-io-interloper.json) |
 | Io Vuole Zen | 266940 | [266940-io-vuole-zen.json](./266940-io-vuole-zen.json) |
+| Io. Brimstoneburg. | 309281 | [309281-io-brimstoneburg.json](./309281-io-brimstoneburg.json) |
+| Io. Lava Cleaning Base | 309282 | [309282-io-lava-cleaning-base.json](./309282-io-lava-cleaning-base.json) |
+| Io. Loki Patera. | 309280 | [309280-io-loki-patera.json](./309280-io-loki-patera.json) |
 | IOI Collection | 154503 | [154503-ioi-collection.json](./154503-ioi-collection.json) |
 | Ion | 11136 | [11136-ion.json](./11136-ion.json) |
 | Ion Assault HD | 52244 | [52244-ion-assault-hd.json](./52244-ion-assault-hd.json) |
@@ -6263,6 +6265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Comes in Waves | 242433 | [242433-it-comes-in-waves.json](./242433-it-comes-in-waves.json) |
 | It Commands | 379627 | [379627-it-commands.json](./379627-it-commands.json) |
 | It Consumes | 245778 | [245778-it-consumes.json](./245778-it-consumes.json) |
+| It Could Happen to You | 309300 | [309300-it-could-happen-to-you.json](./309300-it-could-happen-to-you.json) |
 | It Could Have Been Me | 118066 | [118066-it-could-have-been-me.json](./118066-it-could-have-been-me.json) |
 | It Depends | 58669 | [58669-it-depends.json](./58669-it-depends.json) |
 | It Devours Our Souls | 184956 | [184956-it-devours-our-souls.json](./184956-it-devours-our-souls.json) |
