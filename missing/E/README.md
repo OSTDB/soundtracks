@@ -4188,6 +4188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entry | 207567 | [207567-entry.json](./207567-entry.json) |
 | Entry Denied | 347499 | [347499-entry-denied.json](./347499-entry-denied.json) |
 | Entschuldigung | 30087 | [30087-entschuldigung.json](./30087-entschuldigung.json) |
+| Entwine | 318349 | [318349-entwine.json](./318349-entwine.json) |
 | Entwined | 7380 | [7380-entwined.json](./7380-entwined.json) |
 | Entwined Challenge | 174226 | [174226-entwined-challenge.json](./174226-entwined-challenge.json) |
 | Entwined Time | 312855 | [312855-entwined-time.json](./312855-entwined-time.json) |
