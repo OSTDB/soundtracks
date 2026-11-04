@@ -7563,6 +7563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X8 | 1748 | [1748-mega-man-x8.json](./1748-mega-man-x8.json) |
 | Mega Man X8 Demake: Axl Mod | 329292 | [329292-mega-man-x8-demake-axl-mod.json](./329292-mega-man-x8-demake-axl-mod.json) |
 | Mega Man Xtreme 2 | 1750 | [1750-mega-man-xtreme-2.json](./1750-mega-man-xtreme-2.json) |
+| Mega Man Y+1 | 325187 | [325187-mega-man-y-1.json](./325187-mega-man-y-1.json) |
 | Mega Man Y+1: Operation X.M.A.S. | 279729 | [279729-mega-man-y-1-operation-x-m-a-s.json](./279729-mega-man-y-1-operation-x-m-a-s.json) |
 | Mega Man Zero | 1775 | [1775-mega-man-zero.json](./1775-mega-man-zero.json) |
 | Mega Man Zero 1.5 | 185844 | [185844-mega-man-zero-1-5.json](./185844-mega-man-zero-1-5.json) |
@@ -7916,6 +7917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaMan NT Warrior Advanced PET: Battle Chip - ThunderBall | 352963 | [352963-megaman-nt-warrior-advanced-pet-battle-chip-thunderball.json](./352963-megaman-nt-warrior-advanced-pet-battle-chip-thunderball.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - WideSword | 352939 | [352939-megaman-nt-warrior-advanced-pet-battle-chip-widesword.json](./352939-megaman-nt-warrior-advanced-pet-battle-chip-widesword.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - Wind | 352947 | [352947-megaman-nt-warrior-advanced-pet-battle-chip-wind.json](./352947-megaman-nt-warrior-advanced-pet-battle-chip-wind.json) |
+| MegaMan Power Adventure | 325203 | [325203-megaman-power-adventure.json](./325203-megaman-power-adventure.json) |
 | Megaman RPG | 263421 | [263421-megaman-rpg.json](./263421-megaman-rpg.json) |
 | Megaman Sprite Christmas | 172595 | [172595-megaman-sprite-christmas.json](./172595-megaman-sprite-christmas.json) |
 | Megaman Sprite Game | 119383 | [119383-megaman-sprite-game.json](./119383-megaman-sprite-game.json) |
@@ -12031,6 +12033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minefield Combat | 315660 | [315660-minefield-combat.json](./315660-minefield-combat.json) |
 | Minefields | 299512 | [299512-minefields.json](./299512-minefields.json) |
 | MineFinitum | 186276 | [186276-minefinitum.json](./186276-minefinitum.json) |
+| MineGeon: Renegades | 325205 | [325205-minegeon-renegades.json](./325205-minegeon-renegades.json) |
 | MineGeon: Space Mining Dungeon | 227369 | [227369-minegeon-space-mining-dungeon.json](./227369-minegeon-space-mining-dungeon.json) |
 | Mineirinho Director's Cut | 127099 | [127099-mineirinho-directors-cut.json](./127099-mineirinho-directors-cut.json) |
 | Mineirinho Director's Cut: Mineirinho Hoversurf DC | 171927 | [171927-mineirinho-directors-cut-mineirinho-hoversurf-dc.json](./171927-mineirinho-directors-cut-mineirinho-hoversurf-dc.json) |
