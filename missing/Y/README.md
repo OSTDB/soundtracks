@@ -1411,6 +1411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Path of Destruction | 195863 | [195863-your-path-of-destruction.json](./195863-your-path-of-destruction.json) |
 | Your Personal Chill Apartment | 199365 | [199365-your-personal-chill-apartment.json](./199365-your-personal-chill-apartment.json) |
 | Your Personality Test | 371549 | [371549-your-personality-test.json](./371549-your-personality-test.json) |
+| Your Pixel Dungeon | 313947 | [313947-your-pixel-dungeon.json](./313947-your-pixel-dungeon.json) |
 | Your planet in 60 seconds | 157965 | [157965-your-planet-in-60-seconds.json](./157965-your-planet-in-60-seconds.json) |
 | Your Principal | 126596 | [126596-your-principal.json](./126596-your-principal.json) |
 | Your Quest | 34232 | [34232-your-quest.json](./34232-your-quest.json) |
