@@ -5895,6 +5895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind the Screen | 106892 | [106892-behind-the-screen.json](./106892-behind-the-screen.json) |
 | Behind the Screen & Defoliation | 194974 | [194974-behind-the-screen-and-defoliation.json](./194974-behind-the-screen-and-defoliation.json) |
 | Behind the Smile | 374800 | [374800-behind-the-smile.json](./374800-behind-the-smile.json) |
+| Behind the Sword | 333825 | [333825-behind-the-sword.json](./333825-behind-the-sword.json) |
 | Behind The Truth | 83954 | [83954-behind-the-truth.json](./83954-behind-the-truth.json) |
 | Behind You | 34572 | [34572-behind-you.json](./34572-behind-you.json) |
 | Behind You | 359079 | [359079-behind-you.json](./359079-behind-you.json) |
@@ -6078,6 +6079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10 Omniverse: The Return of Psyphon | 344520 | [344520-ben-10-omniverse-the-return-of-psyphon.json](./344520-ben-10-omniverse-the-return-of-psyphon.json) |
 | Ben 10 Slammers | 88305 | [88305-ben-10-slammers.json](./88305-ben-10-slammers.json) |
 | Ben 10 Triple Pack | 86074 | [86074-ben-10-triple-pack.json](./86074-ben-10-triple-pack.json) |
+| Ben 10 Ultimate Alien Galactic Challenge | 333846 | [333846-ben-10-ultimate-alien-galactic-challenge.json](./333846-ben-10-ultimate-alien-galactic-challenge.json) |
 | Ben 10 Ultimate Alien: Mind Mine | 231387 | [231387-ben-10-ultimate-alien-mind-mine.json](./231387-ben-10-ultimate-alien-mind-mine.json) |
 | Ben 10 Ultimate Alien: Ultimate Crisis | 302729 | [302729-ben-10-ultimate-alien-ultimate-crisis.json](./302729-ben-10-ultimate-alien-ultimate-crisis.json) |
 | Ben 10 Ultimate Alien: Ultimate Defense | 353641 | [353641-ben-10-ultimate-alien-ultimate-defense.json](./353641-ben-10-ultimate-alien-ultimate-defense.json) |
@@ -6172,6 +6174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10: Galactic Racing | 210259 | [210259-ben-10-galactic-racing.json](./210259-ben-10-galactic-racing.json) |
 | Ben 10: Galactic Racing | 210260 | [210260-ben-10-galactic-racing.json](./210260-ben-10-galactic-racing.json) |
 | Ben 10: Galactic Racing | 2806 | [2806-ben-10-galactic-racing.json](./2806-ben-10-galactic-racing.json) |
+| Ben 10: Krakken Attack | 333848 | [333848-ben-10-krakken-attack.json](./333848-ben-10-krakken-attack.json) |
 | Ben 10: Omni-Charge | 363892 | [363892-ben-10-omni-charge.json](./363892-ben-10-omni-charge.json) |
 | Ben 10: Omnitrix Power | 405293 | [405293-ben-10-omnitrix-power.json](./405293-ben-10-omnitrix-power.json) |
 | Ben 10: Omniverse | 2800 | [2800-ben-10-omniverse.json](./2800-ben-10-omniverse.json) |
@@ -7825,6 +7828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioCrisis | 146626 | [146626-biocrisis.json](./146626-biocrisis.json) |
 | BioCrisis | 256958 | [256958-biocrisis.json](./256958-biocrisis.json) |
 | BioCrisis: Return 2 the Lab | 203905 | [203905-biocrisis-return-2-the-lab.json](./203905-biocrisis-return-2-the-lab.json) |
+| Biodacity The Mansion | 333815 | [333815-biodacity-the-mansion.json](./333815-biodacity-the-mansion.json) |
 | Biodigital | 107807 | [107807-biodigital.json](./107807-biodigital.json) |
 | BioDive | 292457 | [292457-biodive.json](./292457-biodive.json) |
 | Biodrone Battle | 35072 | [35072-biodrone-battle.json](./35072-biodrone-battle.json) |
@@ -12994,6 +12998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borstal | 33241 | [33241-borstal.json](./33241-borstal.json) |
 | Borussia Dortmund Club Football | 267884 | [267884-borussia-dortmund-club-football.json](./267884-borussia-dortmund-club-football.json) |
 | Borussia Dortmund Club Football 2005 | 267893 | [267893-borussia-dortmund-club-football-2005.json](./267893-borussia-dortmund-club-football-2005.json) |
+| Borzoi | 333839 | [333839-borzoi.json](./333839-borzoi.json) |
 | Borzoi Adventure | 284783 | [284783-borzoi-adventure.json](./284783-borzoi-adventure.json) |
 | Bos Wars | 153760 | [153760-bos-wars.json](./153760-bos-wars.json) |
 | Bosconian '87 | 13425 | [13425-bosconian-87.json](./13425-bosconian-87.json) |
