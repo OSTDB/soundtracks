@@ -7086,6 +7086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Explorer | 275251 | [275251-desktop-explorer.json](./275251-desktop-explorer.json) |
 | Desktop Farm | 150447 | [150447-desktop-farm.json](./150447-desktop-farm.json) |
 | Desktop Farm Remastered | 367664 | [367664-desktop-farm-remastered.json](./367664-desktop-farm-remastered.json) |
+| Desktop Farm: Expansion Pack | 309297 | [309297-desktop-farm-expansion-pack.json](./309297-desktop-farm-expansion-pack.json) |
 | Desktop Fidget | 392831 | [392831-desktop-fidget.json](./392831-desktop-fidget.json) |
 | Desktop Fisher | 348752 | [348752-desktop-fisher.json](./348752-desktop-fisher.json) |
 | Desktop Fishes | 364006 | [364006-desktop-fishes.json](./364006-desktop-fishes.json) |
