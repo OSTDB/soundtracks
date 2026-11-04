@@ -9560,6 +9560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VI Anthology | 153047 | [153047-sid-meiers-civilization-vi-anthology.json](./153047-sid-meiers-civilization-vi-anthology.json) |
 | Sid Meier's Civilization VI: Akbar Pack | 277529 | [277529-sid-meiers-civilization-vi-akbar-pack.json](./277529-sid-meiers-civilization-vi-akbar-pack.json) |
 | Sid Meier's Civilization VI: Australia Civilization & Scenario Pack | 164401 | [164401-sid-meiers-civilization-vi-australia-civilization-and-scenario-pack.json](./164401-sid-meiers-civilization-vi-australia-civilization-and-scenario-pack.json) |
+| Sid Meier's Civilization VI: Aztec Civilization Pack | 341802 | [341802-sid-meiers-civilization-vi-aztec-civilization-pack.json](./341802-sid-meiers-civilization-vi-aztec-civilization-pack.json) |
 | Sid Meier's Civilization VI: Babylon Pack | 141185 | [141185-sid-meiers-civilization-vi-babylon-pack.json](./141185-sid-meiers-civilization-vi-babylon-pack.json) |
 | Sid Meier's Civilization VI: Byzantium & Gaul Pack | 139967 | [139967-sid-meiers-civilization-vi-byzantium-and-gaul-pack.json](./139967-sid-meiers-civilization-vi-byzantium-and-gaul-pack.json) |
 | Sid Meier's Civilization VI: Digital Deluxe Edition | 53611 | [53611-sid-meiers-civilization-vi-digital-deluxe-edition.json](./53611-sid-meiers-civilization-vi-digital-deluxe-edition.json) |
@@ -10646,6 +10647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple FPS Platformer | 347268 | [347268-simple-fps-platformer.json](./347268-simple-fps-platformer.json) |
 | Simple Game | 121602 | [121602-simple-game.json](./121602-simple-game.json) |
 | Simple Golfing | 99434 | [99434-simple-golfing.json](./99434-simple-golfing.json) |
+| Simple Hats | 341945 | [341945-simple-hats.json](./341945-simple-hats.json) |
 | Simple Idel | 194370 | [194370-simple-idel.json](./194370-simple-idel.json) |
 | Simple Increment | 239458 | [239458-simple-increment.json](./239458-simple-increment.json) |
 | Simple Killer | 405972 | [405972-simple-killer.json](./405972-simple-killer.json) |
@@ -23519,6 +23521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars | 212479 | [212479-star-wars.json](./212479-star-wars.json) |
 | Star Wars | 245394 | [245394-star-wars.json](./245394-star-wars.json) |
 | Star Wars | 307080 | [307080-star-wars.json](./307080-star-wars.json) |
+| Star Wars | 341792 | [341792-star-wars.json](./341792-star-wars.json) |
 | Star Wars | 345947 | [345947-star-wars.json](./345947-star-wars.json) |
 | Star Wars | 54649 | [54649-star-wars.json](./54649-star-wars.json) |
 | Star Wars | 72396 | [72396-star-wars.json](./72396-star-wars.json) |
@@ -23901,6 +23904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarCraft II: Nova Covert Ops | 14524 | [14524-starcraft-ii-nova-covert-ops.json](./14524-starcraft-ii-nova-covert-ops.json) |
 | StarCraft II: Trilogy | 46986 | [46986-starcraft-ii-trilogy.json](./46986-starcraft-ii-trilogy.json) |
 | StarCraft II: Wings of Liberty - Collector's Edition | 282514 | [282514-starcraft-ii-wings-of-liberty-collectors-edition.json](./282514-starcraft-ii-wings-of-liberty-collectors-edition.json) |
+| Starcraft Mass Recall | 341787 | [341787-starcraft-mass-recall.json](./341787-starcraft-mass-recall.json) |
 | StarCraft Universe | 19177 | [19177-starcraft-universe.json](./19177-starcraft-universe.json) |
 | StarCraft: Evolution Complete | 305329 | [305329-starcraft-evolution-complete.json](./305329-starcraft-evolution-complete.json) |
 | Starcraft: Ghost | 11355 | [11355-starcraft-ghost.json](./11355-starcraft-ghost.json) |
@@ -26202,6 +26206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Tale 2 & Ancient Relics: Adventure Bundle | 387681 | [387681-storm-tale-2-and-ancient-relics-adventure-bundle.json](./387681-storm-tale-2-and-ancient-relics-adventure-bundle.json) |
 | Storm The Court | 296470 | [296470-storm-the-court.json](./296470-storm-the-court.json) |
 | Storm the Field | 401067 | [401067-storm-the-field.json](./401067-storm-the-field.json) |
+| Storm the House | 341954 | [341954-storm-the-house.json](./341954-storm-the-house.json) |
 | Storm the Swan | 327288 | [327288-storm-the-swan.json](./327288-storm-the-swan.json) |
 | Storm United | 36153 | [36153-storm-united.json](./36153-storm-united.json) |
 | Storm VR | 33175 | [33175-storm-vr.json](./33175-storm-vr.json) |
