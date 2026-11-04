@@ -8943,6 +8943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Eclipse: Cyberpunk Survivor | 362924 | [362924-digital-eclipse-cyberpunk-survivor.json](./362924-digital-eclipse-cyberpunk-survivor.json) |
 | Digital Exorcist | 231856 | [231856-digital-exorcist.json](./231856-digital-exorcist.json) |
 | Digital Exorcist Case_(0); | 247429 | [247429-digital-exorcist-case-0.json](./247429-digital-exorcist-case-0.json) |
+| Digital Exorcist: CF1_Defrag | 303112 | [303112-digital-exorcist-cf1-defrag.json](./303112-digital-exorcist-cf1-defrag.json) |
 | Digital Expo Center | 154899 | [154899-digital-expo-center.json](./154899-digital-expo-center.json) |
 | Digital Extreme Sport Games | 98800 | [98800-digital-extreme-sport-games.json](./98800-digital-extreme-sport-games.json) |
 | Digital ez LG | 238912 | [238912-digital-ez-lg.json](./238912-digital-ez-lg.json) |
@@ -12943,6 +12944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doorways: The Entire Collection of Nightmares | 52916 | [52916-doorways-the-entire-collection-of-nightmares.json](./52916-doorways-the-entire-collection-of-nightmares.json) |
 | Doorways: The Underworld | 7677 | [7677-doorways-the-underworld.json](./7677-doorways-the-underworld.json) |
 | Doorz | 339939 | [339939-doorz.json](./339939-doorz.json) |
+| Doot-Type | 302882 | [302882-doot-type.json](./302882-doot-type.json) |
 | Doozie the Unicorn | 253307 | [253307-doozie-the-unicorn.json](./253307-doozie-the-unicorn.json) |
 | DOP 4: Draw One Part | 220217 | [220217-dop-4-draw-one-part.json](./220217-dop-4-draw-one-part.json) |
 | Dop Story: Displace It | 220220 | [220220-dop-story-displace-it.json](./220220-dop-story-displace-it.json) |
@@ -17519,6 +17521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Defenders: Warping Core Challenge Mission Pack | 164346 | [164346-dungeon-defenders-warping-core-challenge-mission-pack.json](./164346-dungeon-defenders-warping-core-challenge-mission-pack.json) |
 | Dungeon Defense | 101216 | [101216-dungeon-defense.json](./101216-dungeon-defense.json) |
 | Dungeon Delights | 422160 | [422160-dungeon-delights.json](./422160-dungeon-delights.json) |
+| Dungeon Delivery | 303132 | [303132-dungeon-delivery.json](./303132-dungeon-delivery.json) |
 | Dungeon Delver | 151135 | [151135-dungeon-delver.json](./151135-dungeon-delver.json) |
 | Dungeon Delvers | 201671 | [201671-dungeon-delvers.json](./201671-dungeon-delvers.json) |
 | Dungeon Descent | 258357 | [258357-dungeon-descent.json](./258357-dungeon-descent.json) |
