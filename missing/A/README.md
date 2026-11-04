@@ -1833,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abduct and Destroy! | 182543 | [182543-abduct-and-destroy.json](./182543-abduct-and-destroy.json) |
 | Abducted | 350206 | [350206-abducted.json](./350206-abducted.json) |
 | Abducted Toad | 135096 | [135096-abducted-toad.json](./135096-abducted-toad.json) |
+| Abducted Toad 2 | 321866 | [321866-abducted-toad-2.json](./321866-abducted-toad-2.json) |
 | Abducted Toad: 10th Anniversary Edition! | 321315 | [321315-abducted-toad-10th-anniversary-edition.json](./321315-abducted-toad-10th-anniversary-edition.json) |
 | Abducted: The Night Hunters | 145578 | [145578-abducted-the-night-hunters.json](./145578-abducted-the-night-hunters.json) |
 | Abducting Mjolnir | 180759 | [180759-abducting-mjolnir.json](./180759-abducting-mjolnir.json) |
@@ -8610,6 +8611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amy's Fun-2-3 Adventure | 14255 | [14255-amys-fun-2-3-adventure.json](./14255-amys-fun-2-3-adventure.json) |
 | Amy's Greenmart | 133183 | [133183-amys-greenmart.json](./133183-amys-greenmart.json) |
 | Amy's Greenmart: Collector's Edition | 357127 | [357127-amys-greenmart-collectors-edition.json](./357127-amys-greenmart-collectors-edition.json) |
+| Amy's Rascal Race | 321912 | [321912-amys-rascal-race.json](./321912-amys-rascal-race.json) |
 | Amygdala | 268142 | [268142-amygdala.json](./268142-amygdala.json) |
 | Amygdala | 35301 | [35301-amygdala.json](./35301-amygdala.json) |
 | Amygdala: Prelude | 269284 | [269284-amygdala-prelude.json](./269284-amygdala-prelude.json) |
@@ -16049,6 +16051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
@@ -16326,6 +16329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Giant Crab | 188506 | [188506-attack-of-the-giant-crab.json](./188506-attack-of-the-giant-crab.json) |
 | Attack of the Giant Mutant Lizard | 113711 | [113711-attack-of-the-giant-mutant-lizard.json](./113711-attack-of-the-giant-mutant-lizard.json) |
 | Attack of the Gigant Zombie vs Unity chan | 87996 | [87996-attack-of-the-gigant-zombie-vs-unity-chan.json](./87996-attack-of-the-gigant-zombie-vs-unity-chan.json) |
+| Attack of the Goofy Ahh Bandicoots! | 321919 | [321919-attack-of-the-goofy-ahh-bandicoots.json](./321919-attack-of-the-goofy-ahh-bandicoots.json) |
 | Attack of the Gooobers | 50545 | [50545-attack-of-the-gooobers.json](./50545-attack-of-the-gooobers.json) |
 | Attack of the Karens | 150376 | [150376-attack-of-the-karens.json](./150376-attack-of-the-karens.json) |
 | Attack of the Killer Beast | 234710 | [234710-attack-of-the-killer-beast.json](./234710-attack-of-the-killer-beast.json) |
