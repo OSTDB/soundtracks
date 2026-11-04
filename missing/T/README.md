@@ -3041,6 +3041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tears of Magic | 224574 | [224574-tears-of-magic.json](./224574-tears-of-magic.json) |
 | Tears of the Maker | 349443 | [349443-tears-of-the-maker.json](./349443-tears-of-the-maker.json) |
 | Tears of Themis | 146245 | [146245-tears-of-themis.json](./146245-tears-of-themis.json) |
+| Tears of Vanfell | 316867 | [316867-tears-of-vanfell.json](./316867-tears-of-vanfell.json) |
 | Tears of Viceroy | 363125 | [363125-tears-of-viceroy.json](./363125-tears-of-viceroy.json) |
 | Tears Rain: Tears of Goddess | 236887 | [236887-tears-rain-tears-of-goddess.json](./236887-tears-rain-tears-of-goddess.json) |
 | Tears Revolude | 32148 | [32148-tears-revolude.json](./32148-tears-revolude.json) |
@@ -26340,6 +26341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town Diner | 214122 | [214122-town-diner.json](./214122-town-diner.json) |
 | Town Doubt | 55470 | [55470-town-doubt.json](./55470-town-doubt.json) |
 | Town Hall Toaster | 71463 | [71463-town-hall-toaster.json](./71463-town-hall-toaster.json) |
+| Town Keeper | 316863 | [316863-town-keeper.json](./316863-town-keeper.json) |
 | Town Market Simulator 2025 | 384276 | [384276-town-market-simulator-2025.json](./384276-town-market-simulator-2025.json) |
 | Town of Ancient Tea | 247896 | [247896-town-of-ancient-tea.json](./247896-town-of-ancient-tea.json) |
 | Town of Cinders | 398307 | [398307-town-of-cinders.json](./398307-town-of-cinders.json) |
