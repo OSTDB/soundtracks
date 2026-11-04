@@ -3554,6 +3554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania | 322127 | [322127-castlevania.json](./322127-castlevania.json) |
 | Castlevania | 322129 | [322129-castlevania.json](./322129-castlevania.json) |
 | Castlevania | 322139 | [322139-castlevania.json](./322139-castlevania.json) |
+| Castlevania | 323636 | [323636-castlevania.json](./323636-castlevania.json) |
 | Castlevania | 398838 | [398838-castlevania.json](./398838-castlevania.json) |
 | Castlevania 2 | 276459 | [276459-castlevania-2.json](./276459-castlevania-2.json) |
 | Castlevania 2 Remake | 323883 | [323883-castlevania-2-remake.json](./323883-castlevania-2-remake.json) |
@@ -3954,6 +3955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Simulator: Animals on Farm | 168135 | [168135-cat-simulator-animals-on-farm.json](./168135-cat-simulator-animals-on-farm.json) |
 | Cat Simulator: Kitty Conundrums | 289275 | [289275-cat-simulator-kitty-conundrums.json](./289275-cat-simulator-kitty-conundrums.json) |
 | Cat Simulator: Meow | 152473 | [152473-cat-simulator-meow.json](./152473-cat-simulator-meow.json) |
+| Cat Simulator: Neighbor's Nightmare | 323642 | [323642-cat-simulator-neighbors-nightmare.json](./323642-cat-simulator-neighbors-nightmare.json) |
 | Cat Slaps | 332976 | [332976-cat-slaps.json](./332976-cat-slaps.json) |
 | Cat Slide Tiles | 152774 | [152774-cat-slide-tiles.json](./152774-cat-slide-tiles.json) |
 | Cat Snack Bar | 231781 | [231781-cat-snack-bar.json](./231781-cat-snack-bar.json) |
@@ -12246,6 +12248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comet Force | 324877 | [324877-comet-force.json](./324877-comet-force.json) |
 | Comet Golf | 129738 | [129738-comet-golf.json](./129738-comet-golf.json) |
 | Comet Moon: The Journey Begins | 339845 | [339845-comet-moon-the-journey-begins.json](./339845-comet-moon-the-journey-begins.json) |
+| Comet Rogue | 323487 | [323487-comet-rogue.json](./323487-comet-rogue.json) |
 | Comet Summoner | 131942 | [131942-comet-summoner.json](./131942-comet-summoner.json) |
 | Comet Summoner Time Trial Version | 253759 | [253759-comet-summoner-time-trial-version.json](./253759-comet-summoner-time-trial-version.json) |
 | Comet Tail: Polygon Panic | 369010 | [369010-comet-tail-polygon-panic.json](./369010-comet-tail-polygon-panic.json) |
@@ -16928,6 +16931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critter Crunch | 13188 | [13188-critter-crunch.json](./13188-critter-crunch.json) |
 | Critter Crush - Hunting Game | 89282 | [89282-critter-crush-hunting-game.json](./89282-critter-crush-hunting-game.json) |
 | Critter Escape | 373229 | [373229-critter-escape.json](./373229-critter-escape.json) |
+| Critter Gang | 323496 | [323496-critter-gang.json](./323496-critter-gang.json) |
 | Critter Isle | 334301 | [334301-critter-isle.json](./334301-critter-isle.json) |
 | Critter Kart | 122216 | [122216-critter-kart.json](./122216-critter-kart.json) |
 | Critter Loop | 412267 | [412267-critter-loop.json](./412267-critter-loop.json) |
@@ -20098,4 +20102,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Czech Soccer Manager 2020 | 145425 | [145425-czech-soccer-manager-2020.json](./145425-czech-soccer-manager-2020.json) |
 | Czech Soccer Manager 2025 | 326940 | [326940-czech-soccer-manager-2025.json](./326940-czech-soccer-manager-2025.json) |
 | CzechBox | 262160 | [262160-czechbox.json](./262160-czechbox.json) |
+| CZO Online | 323498 | [323498-czo-online.json](./323498-czo-online.json) |
 | Czorian Siege | 69648 | [69648-czorian-siege.json](./69648-czorian-siege.json) |
