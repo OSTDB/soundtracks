@@ -19018,7 +19018,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -24420,6 +24419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlines | 305956 | [305956-starlines.json](./305956-starlines.json) |
 | StarLines Inc. | 71281 | [71281-starlines-inc.json](./71281-starlines-inc.json) |
 | Starlink Battle For Atlas: Lance Starship Pack | 305232 | [305232-starlink-battle-for-atlas-lance-starship-pack.json](./305232-starlink-battle-for-atlas-lance-starship-pack.json) |
+| Starlink Battle For Atlas: Neptune Starship Pack | 308752 | [308752-starlink-battle-for-atlas-neptune-starship-pack.json](./308752-starlink-battle-for-atlas-neptune-starship-pack.json) |
 | Starlink: Battle for Atlas | 317065 | [317065-starlink-battle-for-atlas.json](./317065-starlink-battle-for-atlas.json) |
 | Starlink: Battle for Atlas - Collection Pack 2 | 168441 | [168441-starlink-battle-for-atlas-collection-pack-2.json](./168441-starlink-battle-for-atlas-collection-pack-2.json) |
 | Starlink: Battle for Atlas - Deluxe Edition | 121507 | [121507-starlink-battle-for-atlas-deluxe-edition.json](./121507-starlink-battle-for-atlas-deluxe-edition.json) |
@@ -30982,6 +30982,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Land Remix | 294579 | [294579-super-mario-land-remix.json](./294579-super-mario-land-remix.json) |
 | Super Mario Land World | 314713 | [314713-super-mario-land-world.json](./314713-super-mario-land-world.json) |
 | Super Mario Land X | 223030 | [223030-super-mario-land-x.json](./223030-super-mario-land-x.json) |
+| Super Mario Land: Pier Edition | 308709 | [308709-super-mario-land-pier-edition.json](./308709-super-mario-land-pier-edition.json) |
+| Super Mario Land: Timelines | 308724 | [308724-super-mario-land-timelines.json](./308724-super-mario-land-timelines.json) |
 | Super Mario Legacy | 260809 | [260809-super-mario-legacy.json](./260809-super-mario-legacy.json) |
 | Super Mario Legend | 323751 | [323751-super-mario-legend.json](./323751-super-mario-legend.json) |
 | Super Mario Logic | 145428 | [145428-super-mario-logic.json](./145428-super-mario-logic.json) |
@@ -32669,8 +32671,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Management 2 | 87115 | [87115-supermarket-management-2.json](./87115-supermarket-management-2.json) |
 | Supermarket Management 2 HD | 106921 | [106921-supermarket-management-2-hd.json](./106921-supermarket-management-2-hd.json) |
 | Supermarket Manager | 218686 | [218686-supermarket-manager.json](./218686-supermarket-manager.json) |
+| Supermarket Manager 2024 | 308735 | [308735-supermarket-manager-2024.json](./308735-supermarket-manager-2024.json) |
 | Supermarket Manager Empire 2024 | 316240 | [316240-supermarket-manager-empire-2024.json](./316240-supermarket-manager-empire-2024.json) |
 | Supermarket Manager Simulator | 314863 | [314863-supermarket-manager-simulator.json](./314863-supermarket-manager-simulator.json) |
+| Supermarket Manager Simulator Empire 2024 | 308738 | [308738-supermarket-manager-simulator-empire-2024.json](./308738-supermarket-manager-simulator-empire-2024.json) |
 | Supermarket Mania | 206995 | [206995-supermarket-mania.json](./206995-supermarket-mania.json) |
 | Supermarket Mania | 23664 | [23664-supermarket-mania.json](./23664-supermarket-mania.json) |
 | Supermarket Mania HD | 24271 | [24271-supermarket-mania-hd.json](./24271-supermarket-mania-hd.json) |
