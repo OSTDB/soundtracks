@@ -1052,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galpa the no limbs guy | 195367 | [195367-galpa-the-no-limbs-guy.json](./195367-galpa-the-no-limbs-guy.json) |
 | Galppo Club | 92132 | [92132-galppo-club.json](./92132-galppo-club.json) |
 | GalRock Girls | 258440 | [258440-galrock-girls.json](./258440-galrock-girls.json) |
+| Gals Fiction | 341263 | [341263-gals-fiction.json](./341263-gals-fiction.json) |
 | Gals Fighters | 75468 | [75468-gals-fighters.json](./75468-gals-fighters.json) |
 | Gals Fighters (Best Collection) | 75466 | [75466-gals-fighters-best-collection.json](./75466-gals-fighters-best-collection.json) |
 | Gals Hustler | 40146 | [40146-gals-hustler.json](./40146-gals-hustler.json) |
@@ -3421,6 +3422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Up North | 106998 | [106998-get-up-north.json](./106998-get-up-north.json) |
 | Get Witchy | 184696 | [184696-get-witchy.json](./184696-get-witchy.json) |
 | Get X, Avoid Y | 128604 | [128604-get-x-avoid-y.json](./128604-get-x-avoid-y.json) |
+| Get Yoked: Extreme Bodybuilding | 341385 | [341385-get-yoked-extreme-bodybuilding.json](./341385-get-yoked-extreme-bodybuilding.json) |
 | Get Your Free Christmas Tree | 374011 | [374011-get-your-free-christmas-tree.json](./374011-get-your-free-christmas-tree.json) |
 | Get Your Gun, Dragonfly | 375330 | [375330-get-your-gun-dragonfly.json](./375330-get-your-gun-dragonfly.json) |
 | Get Your Sheep Together | 195160 | [195160-get-your-sheep-together.json](./195160-get-your-sheep-together.json) |
