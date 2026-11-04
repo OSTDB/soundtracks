@@ -1363,6 +1363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Man Standing Coop: A Doom 3 Coop Mod | 301959 | [301959-last-man-standing-coop-a-doom-3-coop-mod.json](./301959-last-man-standing-coop-a-doom-3-coop-mod.json) |
 | Last Meadow Online | 396989 | [396989-last-meadow-online.json](./396989-last-meadow-online.json) |
 | Last Meal | 125999 | [125999-last-meal.json](./125999-last-meal.json) |
+| Last Mech Standing | 310880 | [310880-last-mech-standing.json](./310880-last-mech-standing.json) |
 | Last Memories | 236385 | [236385-last-memories.json](./236385-last-memories.json) |
 | Last Memory | 155693 | [155693-last-memory.json](./155693-last-memory.json) |
 | Last Meow Standing | 202490 | [202490-last-meow-standing.json](./202490-last-meow-standing.json) |
@@ -5384,6 +5385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Links: Fantasy Course - Devils Island | 73115 | [73115-links-fantasy-course-devils-island.json](./73115-links-fantasy-course-devils-island.json) |
 | Links: The Challenge of Golf | 12666 | [12666-links-the-challenge-of-golf.json](./12666-links-the-challenge-of-golf.json) |
 | LinkShift | 357168 | [357168-linkshift.json](./357168-linkshift.json) |
+| Linksider | 310874 | [310874-linksider.json](./310874-linksider.json) |
 | Linkz | 92995 | [92995-linkz.json](./92995-linkz.json) |
 | Linley Henzell's Dungeon Crawl | 84198 | [84198-linley-henzells-dungeon-crawl.json](./84198-linley-henzells-dungeon-crawl.json) |
 | Linn the Protector and the Seven Daughters of Ran | 170270 | [170270-linn-the-protector-and-the-seven-daughters-of-ran.json](./170270-linn-the-protector-and-the-seven-daughters-of-ran.json) |
