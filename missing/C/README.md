@@ -2387,6 +2387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardburners | 346229 | [346229-cardburners.json](./346229-cardburners.json) |
 | Cardcaptor Sakura: Clow Card Magic | 69577 | [69577-cardcaptor-sakura-clow-card-magic.json](./69577-cardcaptor-sakura-clow-card-magic.json) |
 | Cardcaptor Sakura: Happiness Memories | 107654 | [107654-cardcaptor-sakura-happiness-memories.json](./107654-cardcaptor-sakura-happiness-memories.json) |
+| Cardcaptor Sakura: Memory Key | 316006 | [316006-cardcaptor-sakura-memory-key.json](./316006-cardcaptor-sakura-memory-key.json) |
 | Cardcaptor Sakura: Repaint Record | 137637 | [137637-cardcaptor-sakura-repaint-record.json](./137637-cardcaptor-sakura-repaint-record.json) |
 | Cardcaptor Sakura: Sakura Card de Mini-Game | 49519 | [49519-cardcaptor-sakura-sakura-card-de-mini-game.json](./49519-cardcaptor-sakura-sakura-card-de-mini-game.json) |
 | Cardcaptor Sakura: Sakura-Chan to Asobo! | 80800 | [80800-cardcaptor-sakura-sakura-chan-to-asobo.json](./80800-cardcaptor-sakura-sakura-chan-to-asobo.json) |
@@ -19820,6 +19821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberlords Arcology | 374290 | [374290-cyberlords-arcology.json](./374290-cyberlords-arcology.json) |
 | Cybermage: Darklight Awakening | 18998 | [18998-cybermage-darklight-awakening.json](./18998-cybermage-darklight-awakening.json) |
 | Cyberman | 369239 | [369239-cyberman.json](./369239-cyberman.json) |
+| Cybermatrix | 315990 | [315990-cybermatrix.json](./315990-cybermatrix.json) |
 | CyberMedic Simulator | 118365 | [118365-cybermedic-simulator.json](./118365-cybermedic-simulator.json) |
 | Cybermercs: The Soldiers of the 22nd Century | 70386 | [70386-cybermercs-the-soldiers-of-the-22nd-century.json](./70386-cybermercs-the-soldiers-of-the-22nd-century.json) |
 | Cybermere | 169811 | [169811-cybermere.json](./169811-cybermere.json) |
