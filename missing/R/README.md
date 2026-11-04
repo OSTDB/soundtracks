@@ -5358,6 +5358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil | 396732 | [396732-resident-evil.json](./396732-resident-evil.json) |
 | Resident Evil 0 | 15108 | [15108-resident-evil-0.json](./15108-resident-evil-0.json) |
 | Resident Evil 0: Demake | 407906 | [407906-resident-evil-0-demake.json](./407906-resident-evil-0-demake.json) |
+| Resident Evil 1: Roku's cut | 325945 | [325945-resident-evil-1-rokus-cut.json](./325945-resident-evil-1-rokus-cut.json) |
 | Resident Evil 1.5: Battle Coliseum | 400424 | [400424-resident-evil-1-5-battle-coliseum.json](./400424-resident-evil-1-5-battle-coliseum.json) |
 | Resident Evil 2 | 186400 | [186400-resident-evil-2.json](./186400-resident-evil-2.json) |
 | Resident Evil 2 | 210710 | [210710-resident-evil-2.json](./210710-resident-evil-2.json) |
@@ -6258,6 +6259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge of the Kid | 101709 | [101709-revenge-of-the-kid.json](./101709-revenge-of-the-kid.json) |
 | Revenge of the Killer Octopus | 197100 | [197100-revenge-of-the-killer-octopus.json](./197100-revenge-of-the-killer-octopus.json) |
 | Revenge of the King | 271409 | [271409-revenge-of-the-king.json](./271409-revenge-of-the-king.json) |
+| Revenge of the Mage | 325931 | [325931-revenge-of-the-mage.json](./325931-revenge-of-the-mage.json) |
 | Revenge of the Mutant Camels | 40918 | [40918-revenge-of-the-mutant-camels.json](./40918-revenge-of-the-mutant-camels.json) |
 | Revenge of the Ninja HD Remaster | 255873 | [255873-revenge-of-the-ninja-hd-remaster.json](./255873-revenge-of-the-ninja-hd-remaster.json) |
 | Revenge of the Ronin | 277302 | [277302-revenge-of-the-ronin.json](./277302-revenge-of-the-ronin.json) |
