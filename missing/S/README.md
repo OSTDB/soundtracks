@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacrifights | 120907 | [120907-sacrifights.json](./120907-sacrifights.json) |
 | SacriFire | 152268 | [152268-sacrifire.json](./152268-sacrifire.json) |
 | SacriFrogos | 390009 | [390009-sacrifrogos.json](./390009-sacrifrogos.json) |
+| Sacrilege | 332175 | [332175-sacrilege.json](./332175-sacrilege.json) |
 | Sacrilege | 61634 | [61634-sacrilege.json](./61634-sacrilege.json) |
 | Sacrilegious | 319692 | [319692-sacrilegious.json](./319692-sacrilegious.json) |
 | Sacristan | 425868 | [425868-sacristan.json](./425868-sacristan.json) |
@@ -18857,6 +18858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21004,6 +21006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin & Win | 73636 | [73636-spin-and-win.json](./73636-spin-and-win.json) |
 | Spin 2 Win | 410420 | [410420-spin-2-win.json](./410420-spin-2-win.json) |
 | Spin a Stick | 257795 | [257795-spin-a-stick.json](./257795-spin-a-stick.json) |
+| Spin Around | 332163 | [332163-spin-around.json](./332163-spin-around.json) |
 | Spin Ball | 23576 | [23576-spin-ball.json](./23576-spin-ball.json) |
 | Spin Blade Shop Simulator | 391728 | [391728-spin-blade-shop-simulator.json](./391728-spin-blade-shop-simulator.json) |
 | Spin City | 189199 | [189199-spin-city.json](./189199-spin-city.json) |
@@ -22051,6 +22054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring of Life | 131751 | [131751-spring-of-life.json](./131751-spring-of-life.json) |
 | Spring Puzzle | 235614 | [235614-spring-puzzle.json](./235614-spring-puzzle.json) |
 | Spring String | 313121 | [313121-spring-string.json](./313121-spring-string.json) |
+| Spring Tales | 332190 | [332190-spring-tales.json](./332190-spring-tales.json) |
 | Spring Time Excellent Cherry Blossom Fun | 179507 | [179507-spring-time-excellent-cherry-blossom-fun.json](./179507-spring-time-excellent-cherry-blossom-fun.json) |
 | Spring Vacations 2018 | 101084 | [101084-spring-vacations-2018.json](./101084-spring-vacations-2018.json) |
 | Spring: 1944 | 142500 | [142500-spring-1944.json](./142500-spring-1944.json) |
