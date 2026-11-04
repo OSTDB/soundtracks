@@ -1740,6 +1740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasketch | 355981 | [355981-fantasketch.json](./355981-fantasketch.json) |
 | Fantasma | 153915 | [153915-fantasma.json](./153915-fantasma.json) |
 | Fantasma Ville | 166826 | [166826-fantasma-ville.json](./166826-fantasma-ville.json) |
+| Fantasmigon | 302891 | [302891-fantasmigon.json](./302891-fantasmigon.json) |
 | FantaStep | 97526 | [97526-fantastep.json](./97526-fantastep.json) |
 | Fantasteroids | 218588 | [218588-fantasteroids.json](./218588-fantasteroids.json) |
 | Fantastic 4 | 209250 | [209250-fantastic-4.json](./209250-fantastic-4.json) |
@@ -5285,6 +5286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Kittens 8: Happy New Year | 379381 | [379381-find-kittens-8-happy-new-year.json](./379381-find-kittens-8-happy-new-year.json) |
 | Find Kittens 9: Aliens | 386690 | [386690-find-kittens-9-aliens.json](./386690-find-kittens-9-aliens.json) |
 | Find Kittens: The Last of Cats | 295868 | [295868-find-kittens-the-last-of-cats.json](./295868-find-kittens-the-last-of-cats.json) |
+| Find Kittens: The Last of Cats - Extra Level | 303113 | [303113-find-kittens-the-last-of-cats-extra-level.json](./303113-find-kittens-the-last-of-cats-extra-level.json) |
 | Find Love or Die Trying | 165243 | [165243-find-love-or-die-trying.json](./165243-find-love-or-die-trying.json) |
 | Find Love or Die Trying | 324734 | [324734-find-love-or-die-trying.json](./324734-find-love-or-die-trying.json) |
 | Find Love or Die Trying: Til Death Do Us Part | 336039 | [336039-find-love-or-die-trying-til-death-do-us-part.json](./336039-find-love-or-die-trying-til-death-do-us-part.json) |
@@ -6105,6 +6107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Kiss Stories | 384644 | [384644-first-kiss-stories.json](./384644-first-kiss-stories.json) |
 | First Kiss Story II | 125206 | [125206-first-kiss-story-ii.json](./125206-first-kiss-story-ii.json) |
 | First Land | 166515 | [166515-first-land.json](./166515-first-land.json) |
+| First Law | 303931 | [303931-first-law.json](./303931-first-law.json) |
 | First Letter | 232509 | [232509-first-letter.json](./232509-first-letter.json) |
 | First Light | 191155 | [191155-first-light.json](./191155-first-light.json) |
 | First Light | 336721 | [336721-first-light.json](./336721-first-light.json) |
@@ -13055,6 +13058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funky Punch XL | 70627 | [70627-funky-punch-xl.json](./70627-funky-punch-xl.json) |
 | Funky Python | 117318 | [117318-funky-python.json](./117318-funky-python.json) |
 | Funky Restaurant | 291965 | [291965-funky-restaurant.json](./291965-funky-restaurant.json) |
+| Funky Rock Hoppers | 303949 | [303949-funky-rock-hoppers.json](./303949-funky-rock-hoppers.json) |
 | Funky Smugglers | 64278 | [64278-funky-smugglers.json](./64278-funky-smugglers.json) |
 | Funkyheart | 369894 | [369894-funkyheart.json](./369894-funkyheart.json) |
 | FunkyMouse's ISO | 340271 | [340271-funkymouses-iso.json](./340271-funkymouses-iso.json) |
