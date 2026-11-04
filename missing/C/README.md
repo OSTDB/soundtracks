@@ -739,6 +739,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare III - Season 5 | 308961 | [308961-call-of-duty-modern-warfare-iii-season-5.json](./308961-call-of-duty-modern-warfare-iii-season-5.json) |
 | Call of Duty: Modern Warfare III - Season 6 | 318510 | [318510-call-of-duty-modern-warfare-iii-season-6.json](./318510-call-of-duty-modern-warfare-iii-season-6.json) |
 | Call of Duty: Modern Warfare III - Tech Luxe Pro Pack | 291077 | [291077-call-of-duty-modern-warfare-iii-tech-luxe-pro-pack.json](./291077-call-of-duty-modern-warfare-iii-tech-luxe-pro-pack.json) |
+| Call of Duty: Modern Warfare III - Tracer Pack: Custom Molded Ultra Skin Pro Pack | 317751 | [317751-call-of-duty-modern-warfare-iii-tracer-pack-custom-molded-ultra-skin-pro-pack.json](./317751-call-of-duty-modern-warfare-iii-tracer-pack-custom-molded-ultra-skin-pro-pack.json) |
+| Call of Duty: Modern Warfare III - Tracer Pack: Nuptial Nightmare Ultra Skin Pro Pack | 317728 | [317728-call-of-duty-modern-warfare-iii-tracer-pack-nuptial-nightmare-ultra-skin-pro-pack.json](./317728-call-of-duty-modern-warfare-iii-tracer-pack-nuptial-nightmare-ultra-skin-pro-pack.json) |
 | Call of Duty: Modern Warfare III - Tracer Pack: Zodiac - Cancer Pro Pack | 324278 | [324278-call-of-duty-modern-warfare-iii-tracer-pack-zodiac-cancer-pro-pack.json](./324278-call-of-duty-modern-warfare-iii-tracer-pack-zodiac-cancer-pro-pack.json) |
 | Call of Duty: Modern Warfare III - Vault Edition | 276133 | [276133-call-of-duty-modern-warfare-iii-vault-edition.json](./276133-call-of-duty-modern-warfare-iii-vault-edition.json) |
 | Call of Duty: Modern Warfare III - Warhammer 40K Crossover Pack | 302211 | [302211-call-of-duty-modern-warfare-iii-warhammer-40k-crossover-pack.json](./302211-call-of-duty-modern-warfare-iii-warhammer-40k-crossover-pack.json) |
@@ -4422,6 +4424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats and Seek: Dino Park | 284413 | [284413-cats-and-seek-dino-park.json](./284413-cats-and-seek-dino-park.json) |
 | Cats and Seek: Extra Level | 275758 | [275758-cats-and-seek-extra-level.json](./275758-cats-and-seek-extra-level.json) |
 | Cats and Seek: Kyoto | 291419 | [291419-cats-and-seek-kyoto.json](./291419-cats-and-seek-kyoto.json) |
+| Cats and Seek: Kyoto - Extra Level & Jigsaw | 317749 | [317749-cats-and-seek-kyoto-extra-level-and-jigsaw.json](./317749-cats-and-seek-kyoto-extra-level-and-jigsaw.json) |
 | Cats and Seek: Osaka | 275525 | [275525-cats-and-seek-osaka.json](./275525-cats-and-seek-osaka.json) |
 | Cats and Seek: Toge Land | 328415 | [328415-cats-and-seek-toge-land.json](./328415-cats-and-seek-toge-land.json) |
 | Cats and Seek: Tokyo | 315298 | [315298-cats-and-seek-tokyo.json](./315298-cats-and-seek-tokyo.json) |
@@ -19789,6 +19792,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberHive | 145967 | [145967-cyberhive.json](./145967-cyberhive.json) |
 | Cyberhold | 186156 | [186156-cyberhold.json](./186156-cyberhold.json) |
 | CyberHoney | 310171 | [310171-cyberhoney.json](./310171-cyberhoney.json) |
+| CyberHoney: Fashion - Celebration Clothing | 317745 | [317745-cyberhoney-fashion-celebration-clothing.json](./317745-cyberhoney-fashion-celebration-clothing.json) |
+| CyberHoney: Fashion - Summer Swimwear | 317744 | [317744-cyberhoney-fashion-summer-swimwear.json](./317744-cyberhoney-fashion-summer-swimwear.json) |
+| CyberHoney: Fashion - Super Soldier | 317743 | [317743-cyberhoney-fashion-super-soldier.json](./317743-cyberhoney-fashion-super-soldier.json) |
+| CyberHoney: Hero - Fran | 317740 | [317740-cyberhoney-hero-fran.json](./317740-cyberhoney-hero-fran.json) |
+| CyberHoney: Hero - Helen | 317741 | [317741-cyberhoney-hero-helen.json](./317741-cyberhoney-hero-helen.json) |
+| CyberHoney: Hero - Monica | 317742 | [317742-cyberhoney-hero-monica.json](./317742-cyberhoney-hero-monica.json) |
+| CyberHoney: Hero Pack - Li Xiao'er | 317739 | [317739-cyberhoney-hero-pack-li-xiaoer.json](./317739-cyberhoney-hero-pack-li-xiaoer.json) |
 | Cyberhunk | 211191 | [211191-cyberhunk.json](./211191-cyberhunk.json) |
 | Cyberia | 4331 | [4331-cyberia.json](./4331-cyberia.json) |
 | Cyberia 2: Resurrection | 11192 | [11192-cyberia-2-resurrection.json](./11192-cyberia-2-resurrection.json) |
