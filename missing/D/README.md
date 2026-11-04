@@ -1919,6 +1919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Sun Pictures' Dark Sun - The Space Shooter | 114262 | [114262-dark-sun-pictures-dark-sun-the-space-shooter.json](./114262-dark-sun-pictures-dark-sun-the-space-shooter.json) |
 | Dark Sun: Shattered Lands | 2466 | [2466-dark-sun-shattered-lands.json](./2466-dark-sun-shattered-lands.json) |
 | Dark Survival | 152728 | [152728-dark-survival.json](./152728-dark-survival.json) |
+| Dark Survival | 313949 | [313949-dark-survival.json](./313949-dark-survival.json) |
 | Dark Sweeper | 225222 | [225222-dark-sweeper.json](./225222-dark-sweeper.json) |
 | Dark Sword | 58657 | [58657-dark-sword.json](./58657-dark-sword.json) |
 | Dark Sword: The Light of Ainn | 295409 | [295409-dark-sword-the-light-of-ainn.json](./295409-dark-sword-the-light-of-ainn.json) |
@@ -2936,6 +2937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days of Memories: Kaze Mau Miyako de Tsukamaete! | 221319 | [221319-days-of-memories-kaze-mau-miyako-de-tsukamaete.json](./221319-days-of-memories-kaze-mau-miyako-de-tsukamaete.json) |
 | Days of Memories: Sekai de Ichiban Atsui Fuyu | 221320 | [221320-days-of-memories-sekai-de-ichiban-atsui-fuyu.json](./221320-days-of-memories-sekai-de-ichiban-atsui-fuyu.json) |
 | Days Of My Life | 270190 | [270190-days-of-my-life.json](./270190-days-of-my-life.json) |
+| Days of Night: Episode 1 | 313925 | [313925-days-of-night-episode-1.json](./313925-days-of-night-episode-1.json) |
 | Days of Oblivion | 69805 | [69805-days-of-oblivion.json](./69805-days-of-oblivion.json) |
 | Days of Oblivion 2: Frozen Eternity | 67087 | [67087-days-of-oblivion-2-frozen-eternity.json](./67087-days-of-oblivion-2-frozen-eternity.json) |
 | Days of Prophecy | 117986 | [117986-days-of-prophecy.json](./117986-days-of-prophecy.json) |
@@ -6806,6 +6808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deriva | 348329 | [348329-deriva.json](./348329-deriva.json) |
 | Dérive | 183412 | [183412-derive.json](./183412-derive.json) |
 | Deriver | 401714 | [401714-deriver.json](./401714-deriver.json) |
+| Derma | 313934 | [313934-derma.json](./313934-derma.json) |
 | Dermapis | 359056 | [359056-dermapis.json](./359056-dermapis.json) |
 | Dermimi's! | 327898 | [327898-dermimis.json](./327898-dermimis.json) |
 | Deroon DeroDero | 38632 | [38632-deroon-derodero.json](./38632-deroon-derodero.json) |
