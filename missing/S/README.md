@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S na Kanojo | 97425 | [97425-s-na-kanojo.json](./97425-s-na-kanojo.json) |
 | S-Copter | 76653 | [76653-s-copter.json](./76653-s-copter.json) |
 | S-Mail | 388783 | [388783-s-mail.json](./388783-s-mail.json) |
+| S-Project 66 | 305703 | [305703-s-project-66.json](./305703-s-project-66.json) |
 | S-Race | 59799 | [59799-s-race.json](./59799-s-race.json) |
 | S-Tetris | 70465 | [70465-s-tetris.json](./70465-s-tetris.json) |
 | S: Lost Chapters | 260288 | [260288-s-lost-chapters.json](./260288-s-lost-chapters.json) |
@@ -3365,6 +3366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Secret Files | 204886 | [204886-scp-secret-files.json](./204886-scp-secret-files.json) |
 | SCP: Secret Laboratory | 70385 | [70385-scp-secret-laboratory.json](./70385-scp-secret-laboratory.json) |
 | SCP: Short Story | 409333 | [409333-scp-short-story.json](./409333-scp-short-story.json) |
+| SCP: Site Director | 305674 | [305674-scp-site-director.json](./305674-scp-site-director.json) |
 | SCP: Site-19 | 242246 | [242246-scp-site-19.json](./242246-scp-site-19.json) |
 | SCP: Submerged | 223253 | [223253-scp-submerged.json](./223253-scp-submerged.json) |
 | SCP: The Beginning | 390659 | [390659-scp-the-beginning.json](./390659-scp-the-beginning.json) |
@@ -13316,6 +13318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimeboo | 279023 | [279023-slimeboo.json](./279023-slimeboo.json) |
 | Slimebrawl | 75061 | [75061-slimebrawl.json](./75061-slimebrawl.json) |
 | SlimeCatcher | 235615 | [235615-slimecatcher.json](./235615-slimecatcher.json) |
+| Slimecore | 305705 | [305705-slimecore.json](./305705-slimecore.json) |
 | Slimed | 186273 | [186273-slimed.json](./186273-slimed.json) |
 | Slimefall | 420216 | [420216-slimefall.json](./420216-slimefall.json) |
 | Slimefrog | 167821 | [167821-slimefrog.json](./167821-slimefrog.json) |
