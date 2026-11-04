@@ -2877,6 +2877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carry The Glass | 319399 | [319399-carry-the-glass.json](./319399-carry-the-glass.json) |
 | Carry the Pack Rack | 389711 | [389711-carry-the-pack-rack.json](./389711-carry-the-pack-rack.json) |
 | Carry the Patient Together | 391565 | [391565-carry-the-patient-together.json](./391565-carry-the-patient-together.json) |
+| Carrying Carrots | 320089 | [320089-carrying-carrots.json](./320089-carrying-carrots.json) |
 | Cars | 230423 | [230423-cars.json](./230423-cars.json) |
 | Cars | 243201 | [243201-cars.json](./243201-cars.json) |
 | Cars | 243202 | [243202-cars.json](./243202-cars.json) |
@@ -6699,6 +6700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chi Chi's Pro Challenge Golf | 4442 | [4442-chi-chis-pro-challenge-golf.json](./4442-chi-chis-pro-challenge-golf.json) |
 | Chi Ninja | 242036 | [242036-chi-ninja.json](./242036-chi-ninja.json) |
 | Chi Project | 324315 | [324315-chi-project.json](./324315-chi-project.json) |
+| Chi Vuol Essere Milionario? | 319930 | [319930-chi-vuol-essere-milionario.json](./319930-chi-vuol-essere-milionario.json) |
 | Chiaroscuro | 138739 | [138739-chiaroscuro.json](./138739-chiaroscuro.json) |
 | Chiaroscuro Imago | 377300 | [377300-chiaroscuro-imago.json](./377300-chiaroscuro-imago.json) |
 | Chiaroscuro Lovers | 411772 | [411772-chiaroscuro-lovers.json](./411772-chiaroscuro-lovers.json) |
@@ -6986,6 +6988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chikoku no Mokushiroku | 150555 | [150555-chikoku-no-mokushiroku.json](./150555-chikoku-no-mokushiroku.json) |
 | Chikoku no Mokushiroku: Ver.2.00 | 302957 | [302957-chikoku-no-mokushiroku-ver-2-00.json](./302957-chikoku-no-mokushiroku-ver-2-00.json) |
 | Chiku Chiku Beach | 22462 | [22462-chiku-chiku-beach.json](./22462-chiku-chiku-beach.json) |
+| Chiku1GP | 319522 | [319522-chiku1gp.json](./319522-chiku1gp.json) |
 | Chikudenya Toubee | 42039 | [42039-chikudenya-toubee.json](./42039-chikudenya-toubee.json) |
 | Chikudenya Toubei | 59354 | [59354-chikudenya-toubei.json](./59354-chikudenya-toubei.json) |
 | ChikuTaku | 233035 | [233035-chikutaku.json](./233035-chikutaku.json) |
@@ -8396,6 +8399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cigar Break | 323813 | [323813-cigar-break.json](./323813-cigar-break.json) |
 | Cigarette Quest | 229829 | [229829-cigarette-quest.json](./229829-cigarette-quest.json) |
 | Ciggy World | 314299 | [314299-ciggy-world.json](./314299-ciggy-world.json) |
+| Cigo | 319906 | [319906-cigo.json](./319906-cigo.json) |
 | Ciikos Bridge | 183815 | [183815-ciikos-bridge.json](./183815-ciikos-bridge.json) |
 | Cǐkè Tànsuǒ Zhōng | 156705 | [156705-cike-tansuo-zhong.json](./156705-cike-tansuo-zhong.json) |
 | CIMA: The Enemy | 6348 | [6348-cima-the-enemy.json](./6348-cima-the-enemy.json) |
@@ -9388,6 +9392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Class 3, Third Grade | 330792 | [330792-class-3-third-grade.json](./330792-class-3-third-grade.json) |
 | Class B-Horror: Subway | 236308 | [236308-class-b-horror-subway.json](./236308-class-b-horror-subway.json) |
 | Class Maid | 97774 | [97774-class-maid.json](./97774-class-maid.json) |
+| Class Notes | 319918 | [319918-class-notes.json](./319918-class-notes.json) |
 | Class of '09 | 152962 | [152962-class-of-09.json](./152962-class-of-09.json) |
 | Class of '09: Puzzle Showdown | 406251 | [406251-class-of-09-puzzle-showdown.json](./406251-class-of-09-puzzle-showdown.json) |
 | Class of Heroes | 283592 | [283592-class-of-heroes.json](./283592-class-of-heroes.json) |
@@ -13216,6 +13221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conspiration: Le défi des derniers rois | 386328 | [386328-conspiration-le-defi-des-derniers-rois.json](./386328-conspiration-le-defi-des-derniers-rois.json) |
 | Conspirocracy | 90230 | [90230-conspirocracy.json](./90230-conspirocracy.json) |
 | ConsTance | 323524 | [323524-constance.json](./323524-constance.json) |
+| Constance the Barbarian | 320050 | [320050-constance-the-barbarian.json](./320050-constance-the-barbarian.json) |
 | Constancia | 177326 | [177326-constancia.json](./177326-constancia.json) |
 | Constantine | 236004 | [236004-constantine.json](./236004-constantine.json) |
 | Constantine | 5787 | [5787-constantine.json](./5787-constantine.json) |
@@ -13773,6 +13779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Joy - Fun Cooking Game | 103872 | [103872-cooking-joy-fun-cooking-game.json](./103872-cooking-joy-fun-cooking-game.json) |
 | Cooking Live | 226690 | [226690-cooking-live.json](./226690-cooking-live.json) |
 | Cooking Madness | 101513 | [101513-cooking-madness.json](./101513-cooking-madness.json) |
+| Cooking Madness | 319825 | [319825-cooking-madness.json](./319825-cooking-madness.json) |
 | Cooking Mama | 3060 | [3060-cooking-mama.json](./3060-cooking-mama.json) |
 | Cooking Mama 2: Dinner With Friends | 3062 | [3062-cooking-mama-2-dinner-with-friends.json](./3062-cooking-mama-2-dinner-with-friends.json) |
 | Cooking Mama 3: Shop & Chop | 3065 | [3065-cooking-mama-3-shop-and-chop.json](./3065-cooking-mama-3-shop-and-chop.json) |
@@ -14135,6 +14142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corncob Deluxe | 94704 | [94704-corncob-deluxe.json](./94704-corncob-deluxe.json) |
 | Corndog | 215520 | [215520-corndog.json](./215520-corndog.json) |
 | Cornelius Cat in: How the Cat Saved Christmas | 421423 | [421423-cornelius-cat-in-how-the-cat-saved-christmas.json](./421423-cornelius-cat-in-how-the-cat-saved-christmas.json) |
+| Cornelius Cat in: The Uncontrollable Pest | 320099 | [320099-cornelius-cat-in-the-uncontrollable-pest.json](./320099-cornelius-cat-in-the-uncontrollable-pest.json) |
 | Corner BookShop | 359700 | [359700-corner-bookshop.json](./359700-corner-bookshop.json) |
 | Corner Cards | 374557 | [374557-corner-cards.json](./374557-corner-cards.json) |
 | Corner Clash | 390520 | [390520-corner-clash.json](./390520-corner-clash.json) |
@@ -14246,6 +14254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse-Party | 148220 | [148220-corpse-party.json](./148220-corpse-party.json) |
 | Corpse-Party: if | 413925 | [413925-corpse-party-if.json](./413925-corpse-party-if.json) |
 | Corpse-Party: if - Past End | 135890 | [135890-corpse-party-if-past-end.json](./135890-corpse-party-if-past-end.json) |
+| Corpse58 | 320090 | [320090-corpse58.json](./320090-corpse58.json) |
 | Corpsefall | 167547 | [167547-corpsefall.json](./167547-corpsefall.json) |
 | Corpsênia | 190745 | [190745-corpsenia.json](./190745-corpsenia.json) |
 | Corpses 'N Souls | 11066 | [11066-corpses-n-souls.json](./11066-corpses-n-souls.json) |
@@ -14942,6 +14951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | County Hospital 2 | 211697 | [211697-county-hospital-2.json](./211697-county-hospital-2.json) |
 | County Hospital Outbreak | 405700 | [405700-county-hospital-outbreak.json](./405700-county-hospital-outbreak.json) |
 | County of Fortune | 327218 | [327218-county-of-fortune.json](./327218-county-of-fortune.json) |
+| Coup de Cup | 320101 | [320101-coup-de-cup.json](./320101-coup-de-cup.json) |
 | Coup de Koala | 357030 | [357030-coup-de-koala.json](./357030-coup-de-koala.json) |
 | CoupButat | 242568 | [242568-coupbutat.json](./242568-coupbutat.json) |
 | Couple Breaker | 357125 | [357125-couple-breaker.json](./357125-couple-breaker.json) |
