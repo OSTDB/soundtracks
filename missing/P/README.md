@@ -5661,6 +5661,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piano Wizard | 129960 | [129960-piano-wizard.json](./129960-piano-wizard.json) |
 | Piano: Learn and Play - Complete + | 328827 | [328827-piano-learn-and-play-complete.json](./328827-piano-learn-and-play-complete.json) |
 | Piano: Learn and Play - Ultra Director's Cut | 328828 | [328828-piano-learn-and-play-ultra-directors-cut.json](./328828-piano-learn-and-play-ultra-directors-cut.json) |
+| Piano: Learn and Play - Ultra GOTY Edition | 328773 | [328773-piano-learn-and-play-ultra-goty-edition.json](./328773-piano-learn-and-play-ultra-goty-edition.json) |
+| Piano: Learn and Play - Ultra Happy Edition | 328774 | [328774-piano-learn-and-play-ultra-happy-edition.json](./328774-piano-learn-and-play-ultra-happy-edition.json) |
 | Piano: Learn and Play - Ultra Premium | 304792 | [304792-piano-learn-and-play-ultra-premium.json](./304792-piano-learn-and-play-ultra-premium.json) |
 | Piano: Learn and Play - Ultra Special | 304791 | [304791-piano-learn-and-play-ultra-special.json](./304791-piano-learn-and-play-ultra-special.json) |
 | Pianoforte | 251476 | [251476-pianoforte.json](./251476-pianoforte.json) |
@@ -10219,7 +10221,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poing | 94331 | [94331-poing.json](./94331-poing.json) |
 | Poing 6 | 80385 | [80385-poing-6.json](./80385-poing-6.json) |
 | Poinie's Poin | 56153 | [56153-poinies-poin.json](./56153-poinies-poin.json) |
-| Poinpy | 204454 | [204454-poinpy.json](./204454-poinpy.json) |
 | Point | 290375 | [290375-point.json](./290375-point.json) |
 | Point | 97929 | [97929-point.json](./97929-point.json) |
 | Point & Sin | 184843 | [184843-point-and-sin.json](./184843-point-and-sin.json) |
