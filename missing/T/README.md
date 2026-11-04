@@ -6379,6 +6379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Knight: Halloween | 274639 | [274639-the-black-knight-halloween.json](./274639-the-black-knight-halloween.json) |
 | The Black Lamb | 329937 | [329937-the-black-lamb.json](./329937-the-black-lamb.json) |
 | The Black Lily Blooms in Her Eyes | 415735 | [415735-the-black-lily-blooms-in-her-eyes.json](./415735-the-black-lily-blooms-in-her-eyes.json) |
+| The Black Maple Anomaly | 323065 | [323065-the-black-maple-anomaly.json](./323065-the-black-maple-anomaly.json) |
 | The Black Masses | 113833 | [113833-the-black-masses.json](./113833-the-black-masses.json) |
 | The Black Mirror | 11261 | [11261-the-black-mirror.json](./11261-the-black-mirror.json) |
 | The Black Onyx | 6099 | [6099-the-black-onyx.json](./6099-the-black-onyx.json) |
@@ -12379,6 +12380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: The Wind Waker Randomizer | 166474 | [166474-the-legend-of-zelda-the-wind-waker-randomizer.json](./166474-the-legend-of-zelda-the-wind-waker-randomizer.json) |
 | The Legend of Zelda: Third Quest | 150078 | [150078-the-legend-of-zelda-third-quest.json](./150078-the-legend-of-zelda-third-quest.json) |
 | The Legend of Zelda: Threads of Despair | 323274 | [323274-the-legend-of-zelda-threads-of-despair.json](./323274-the-legend-of-zelda-threads-of-despair.json) |
+| The Legend of Zelda: Time Crystal | 323062 | [323062-the-legend-of-zelda-time-crystal.json](./323062-the-legend-of-zelda-time-crystal.json) |
 | The Legend of Zelda: Time Lost | 314132 | [314132-the-legend-of-zelda-time-lost.json](./314132-the-legend-of-zelda-time-lost.json) |
 | The Legend of Zelda: Time Walker | 323277 | [323277-the-legend-of-zelda-time-walker.json](./323277-the-legend-of-zelda-time-walker.json) |
 | The Legend of Zelda: Tri Force Heroes | 11194 | [11194-the-legend-of-zelda-tri-force-heroes.json](./11194-the-legend-of-zelda-tri-force-heroes.json) |
@@ -22655,6 +22657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Number Hunt! | 289194 | [289194-tiny-number-hunt.json](./289194-tiny-number-hunt.json) |
 | Tiny Onion Knight | 226157 | [226157-tiny-onion-knight.json](./226157-tiny-onion-knight.json) |
 | Tiny Passengers | 175247 | [175247-tiny-passengers.json](./175247-tiny-passengers.json) |
+| Tiny Pasture | 322923 | [322923-tiny-pasture.json](./322923-tiny-pasture.json) |
 | Tiny Pasture: Baabaa and Moomoo | 383623 | [383623-tiny-pasture-baabaa-and-moomoo.json](./383623-tiny-pasture-baabaa-and-moomoo.json) |
 | Tiny Pasture: Ribbitribbit and Quackquack | 383625 | [383625-tiny-pasture-ribbitribbit-and-quackquack.json](./383625-tiny-pasture-ribbitribbit-and-quackquack.json) |
 | Tiny Paw Academy: Numbers + Fun | 413372 | [413372-tiny-paw-academy-numbers-fun.json](./413372-tiny-paw-academy-numbers-fun.json) |
@@ -32246,6 +32249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typhoon Thompson in Search for the Sea Child | 74886 | [74886-typhoon-thompson-in-search-for-the-sea-child.json](./74886-typhoon-thompson-in-search-for-the-sea-child.json) |
 | Typhoon Unit: Butterfly Requiem | 127699 | [127699-typhoon-unit-butterfly-requiem.json](./127699-typhoon-unit-butterfly-requiem.json) |
 | Typical | 108664 | [108664-typical.json](./108664-typical.json) |
+| Typical Mario Game | 322915 | [322915-typical-mario-game.json](./322915-typical-mario-game.json) |
 | Typical nightmare | 99603 | [99603-typical-nightmare.json](./99603-typical-nightmare.json) |
 | Typical NPC | 412263 | [412263-typical-npc.json](./412263-typical-npc.json) |
 | TypInc. | 334037 | [334037-typinc.json](./334037-typinc.json) |
