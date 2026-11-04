@@ -703,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Little to the Left: Packed | 351395 | [351395-a-little-to-the-left-packed.json](./351395-a-little-to-the-left-packed.json) |
 | A Little to the Left: Seeing Stars | 305034 | [305034-a-little-to-the-left-seeing-stars.json](./305034-a-little-to-the-left-seeing-stars.json) |
 | A Little to the Left: Something Eggstra | 319541 | [319541-a-little-to-the-left-something-eggstra.json](./319541-a-little-to-the-left-something-eggstra.json) |
+| A Little to the Left: Trick or Tidy | 321177 | [321177-a-little-to-the-left-trick-or-tidy.json](./321177-a-little-to-the-left-trick-or-tidy.json) |
 | A Little Turtle Has Just Hatched on a Beach in Texas. | 180491 | [180491-a-little-turtle-has-just-hatched-on-a-beach-in-texas.json](./180491-a-little-turtle-has-just-hatched-on-a-beach-in-texas.json) |
 | A Little Turtle's Big Adventure | 383665 | [383665-a-little-turtles-big-adventure.json](./383665-a-little-turtles-big-adventure.json) |
 | A Little Walk in the Woods | 274734 | [274734-a-little-walk-in-the-woods.json](./274734-a-little-walk-in-the-woods.json) |
@@ -2396,6 +2397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acción Rescate: América | 259665 | [259665-accion-rescate-america.json](./259665-accion-rescate-america.json) |
 | Acclimate | 203313 | [203313-acclimate.json](./203313-acclimate.json) |
 | Accolade In Action | 93339 | [93339-accolade-in-action.json](./93339-accolade-in-action.json) |
+| Accolade Sports Collection | 321241 | [321241-accolade-sports-collection.json](./321241-accolade-sports-collection.json) |
 | Accolade's Comics featuring Steve Keene Thrillseeker | 278299 | [278299-accolades-comics-featuring-steve-keene-thrillseeker.json](./278299-accolades-comics-featuring-steve-keene-thrillseeker.json) |
 | Accolade's Comics featuring Steve Keene Thrillseeker | 37156 | [37156-accolades-comics-featuring-steve-keene-thrillseeker.json](./37156-accolades-comics-featuring-steve-keene-thrillseeker.json) |
 | According to Cain | 261400 | [261400-according-to-cain.json](./261400-according-to-cain.json) |
@@ -16051,7 +16053,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
