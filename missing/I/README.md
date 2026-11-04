@@ -5254,6 +5254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Investigate | 229017 | [229017-investigate.json](./229017-investigate.json) |
 | Investigate | 384334 | [384334-investigate.json](./384334-investigate.json) |
 | Investigating Alien Cats | 368591 | [368591-investigating-alien-cats.json](./368591-investigating-alien-cats.json) |
+| Investigating Plant Growth | 339705 | [339705-investigating-plant-growth.json](./339705-investigating-plant-growth.json) |
 | Investigation | 316564 | [316564-investigation.json](./316564-investigation.json) |
 | Investigation Forces: Operation Zero | 125695 | [125695-investigation-forces-operation-zero.json](./125695-investigation-forces-operation-zero.json) |
 | Investigation Stories: Gunsound | 369552 | [369552-investigation-stories-gunsound.json](./369552-investigation-stories-gunsound.json) |
