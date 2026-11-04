@@ -2217,6 +2217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jo Jo Wo | 239824 | [239824-jo-jo-wo.json](./239824-jo-jo-wo.json) |
 | Jo-Jo Fighter | 182366 | [182366-jo-jo-fighter.json](./182366-jo-jo-fighter.json) |
 | JO-Rush | 325199 | [325199-jo-rush.json](./325199-jo-rush.json) |
+| Jo-Zeas Gravity Adventure | 301487 | [301487-jo-zeas-gravity-adventure.json](./301487-jo-zeas-gravity-adventure.json) |
 | Jo's Dream: Organic Coffee | 123638 | [123638-jos-dream-organic-coffee.json](./123638-jos-dream-organic-coffee.json) |
 | Jo's House | 177391 | [177391-jos-house.json](./177391-jos-house.json) |
 | Joan Jade and the Gates of Xibalba | 53248 | [53248-joan-jade-and-the-gates-of-xibalba.json](./53248-joan-jade-and-the-gates-of-xibalba.json) |
