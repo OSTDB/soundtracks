@@ -2911,6 +2911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cars Mater-National Championship | 281855 | [281855-cars-mater-national-championship.json](./281855-cars-mater-national-championship.json) |
 | Cars Mater-National Championship | 4748 | [4748-cars-mater-national-championship.json](./4748-cars-mater-national-championship.json) |
 | Cars Puzzles Game | 222052 | [222052-cars-puzzles-game.json](./222052-cars-puzzles-game.json) |
+| Cars Race-O-Rama | 307494 | [307494-cars-race-o-rama.json](./307494-cars-race-o-rama.json) |
 | Cars Supercharged | 76453 | [76453-cars-supercharged.json](./76453-cars-supercharged.json) |
 | Cars Toon | 36249 | [36249-cars-toon.json](./36249-cars-toon.json) |
 | Cars Toon: Tokyo Mater | 230550 | [230550-cars-toon-tokyo-mater.json](./230550-cars-toon-tokyo-mater.json) |
@@ -3584,6 +3585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania II: Simon's Quest | 198663 | [198663-castlevania-ii-simons-quest.json](./198663-castlevania-ii-simons-quest.json) |
 | Castlevania II: Simon's Quest - Rebitten | 217540 | [217540-castlevania-ii-simons-quest-rebitten.json](./217540-castlevania-ii-simons-quest-rebitten.json) |
 | Castlevania II: Simon's Quest Revamped | 317859 | [317859-castlevania-ii-simons-quest-revamped.json](./317859-castlevania-ii-simons-quest-revamped.json) |
+| Castlevania II: Subotai's Hunt | 307506 | [307506-castlevania-ii-subotais-hunt.json](./307506-castlevania-ii-subotais-hunt.json) |
 | Castlevania III: Dracula's Curse | 1119 | [1119-castlevania-iii-draculas-curse.json](./1119-castlevania-iii-draculas-curse.json) |
 | Castlevania III: Dracula's Curse 2020 | 342089 | [342089-castlevania-iii-draculas-curse-2020.json](./342089-castlevania-iii-draculas-curse-2020.json) |
 | Castlevania Judgment | 1142 | [1142-castlevania-judgment.json](./1142-castlevania-judgment.json) |
