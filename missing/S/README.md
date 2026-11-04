@@ -8357,6 +8357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinsengumi: Bakumatsu Genshikou | 163346 | [163346-shinsengumi-bakumatsu-genshikou.json](./163346-shinsengumi-bakumatsu-genshikou.json) |
 | Shinsengumi: Bakumatsu Gensou Renai Kitan | 163347 | [163347-shinsengumi-bakumatsu-gensou-renai-kitan.json](./163347-shinsengumi-bakumatsu-gensou-renai-kitan.json) |
 | Shinsetsu Mahou Shoujo | 131589 | [131589-shinsetsu-mahou-shoujo.json](./131589-shinsetsu-mahou-shoujo.json) |
+| Shinsetsu Shiawase Usagi 2 | 306917 | [306917-shinsetsu-shiawase-usagi-2.json](./306917-shinsetsu-shiawase-usagi-2.json) |
 | Shinsetsu Shiawase Usagi F: Yuujou Yori mo Aiyoku | 277859 | [277859-shinsetsu-shiawase-usagi-f-yuujou-yori-mo-aiyoku.json](./277859-shinsetsu-shiawase-usagi-f-yuujou-yori-mo-aiyoku.json) |
 | Shinshou Ikemen Ooku | 239014 | [239014-shinshou-ikemen-ooku.json](./239014-shinshou-ikemen-ooku.json) |
 | Shinshou Sange: Chiru Hana | 384248 | [384248-shinshou-sange-chiru-hana.json](./384248-shinshou-sange-chiru-hana.json) |
@@ -9035,6 +9036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoresy: Legends of the North | 156832 | [156832-shoresy-legends-of-the-north.json](./156832-shoresy-legends-of-the-north.json) |
 | Short 'n Quick | 274203 | [274203-short-n-quick.json](./274203-short-n-quick.json) |
 | Short 'n Quick 2 | 274204 | [274204-short-n-quick-2.json](./274204-short-n-quick-2.json) |
+| Short Adventure | 306884 | [306884-short-adventure.json](./306884-short-adventure.json) |
 | Short Circuit | 193440 | [193440-short-circuit.json](./193440-short-circuit.json) |
 | Short Circuit | 29035 | [29035-short-circuit.json](./29035-short-circuit.json) |
 | Short Circuit | 29036 | [29036-short-circuit.json](./29036-short-circuit.json) |
@@ -19029,7 +19031,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -27864,6 +27865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuck at Home | 71004 | [71004-stuck-at-home.json](./71004-stuck-at-home.json) |
 | Stuck At Lv. 1 | 305126 | [305126-stuck-at-lv-1.json](./305126-stuck-at-lv-1.json) |
 | Stuck in a Well with a Frog | 386083 | [386083-stuck-in-a-well-with-a-frog.json](./386083-stuck-in-a-well-with-a-frog.json) |
+| Stuck in a Yandere Visual Novel... HELP!! | 306888 | [306888-stuck-in-a-yandere-visual-novel-help.json](./306888-stuck-in-a-yandere-visual-novel-help.json) |
 | Stuck in Fears: North-east | 383471 | [383471-stuck-in-fears-north-east.json](./383471-stuck-in-fears-north-east.json) |
 | Stuck In Paris | 182132 | [182132-stuck-in-paris.json](./182132-stuck-in-paris.json) |
 | Stuck in the Airport | 357186 | [357186-stuck-in-the-airport.json](./357186-stuck-in-the-airport.json) |
@@ -29238,6 +29240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sun-Rise.exe | 264612 | [264612-sun-rise-exe.json](./264612-sun-rise-exe.json) |
 | Sun-shot Legend | 283065 | [283065-sun-shot-legend.json](./283065-sun-shot-legend.json) |
 | Sun, Sand & Monster Slayers | 391831 | [391831-sun-sand-and-monster-slayers.json](./391831-sun-sand-and-monster-slayers.json) |
+| Sun's Edge | 306880 | [306880-suns-edge.json](./306880-suns-edge.json) |
 | Suna | 87948 | [87948-suna.json](./87948-suna.json) |
 | Sunaba | 274339 | [274339-sunaba.json](./274339-sunaba.json) |
 | SunAge | 21496 | [21496-sunage.json](./21496-sunage.json) |
