@@ -1060,6 +1060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quijote: Quest for Glory | 195364 | [195364-quijote-quest-for-glory.json](./195364-quijote-quest-for-glory.json) |
 | Quill | 273779 | [273779-quill.json](./273779-quill.json) |
 | Quill > Pistol | 366240 | [366240-quill-pistol.json](./366240-quill-pistol.json) |
+| Quiller's Code | 301473 | [301473-quillers-code.json](./301473-quillers-code.json) |
 | Quilly | 123495 | [123495-quilly.json](./123495-quilly.json) |
 | quilt | 366801 | [366801-quilt.json](./366801-quilt.json) |
 | Quilt | 425845 | [425845-quilt.json](./425845-quilt.json) |
