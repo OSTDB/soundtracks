@@ -1892,6 +1892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rap Pop Jump Core | 303999 | [303999-rap-pop-jump-core.json](./303999-rap-pop-jump-core.json) |
 | Rap Quest | 295037 | [295037-rap-quest.json](./295037-rap-quest.json) |
 | Rap Simulator | 250303 | [250303-rap-simulator.json](./250303-rap-simulator.json) |
+| Rap Uncle | 317769 | [317769-rap-uncle.json](./317769-rap-uncle.json) |
 | Rapala Fishing Frenzy 2009 | 7155 | [7155-rapala-fishing-frenzy-2009.json](./7155-rapala-fishing-frenzy-2009.json) |
 | Rapala Fishing: Pro Series | 68457 | [68457-rapala-fishing-pro-series.json](./68457-rapala-fishing-pro-series.json) |
 | Rapala for Kinect | 20242 | [20242-rapala-for-kinect.json](./20242-rapala-for-kinect.json) |
@@ -3899,6 +3900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red River | 360727 | [360727-red-river.json](./360727-red-river.json) |
 | Red Road Rage | 394355 | [394355-red-road-rage.json](./394355-red-road-rage.json) |
 | Red Robin | 171823 | [171823-red-robin.json](./171823-red-robin.json) |
+| Red Rocket Defencism | 317759 | [317759-red-rocket-defencism.json](./317759-red-rocket-defencism.json) |
 | Red Rogue Sea | 338332 | [338332-red-rogue-sea.json](./338332-red-rogue-sea.json) |
 | Red Ronin | 133967 | [133967-red-ronin.json](./133967-red-ronin.json) |
 | Red Room | 178998 | [178998-red-room.json](./178998-red-room.json) |
@@ -6523,6 +6525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revvolvver | 250460 | [250460-revvolvver.json](./250460-revvolvver.json) |
 | Revvver | 285450 | [285450-revvver.json](./285450-revvver.json) |
 | Rewarding Community Bundle | 212579 | [212579-rewarding-community-bundle.json](./212579-rewarding-community-bundle.json) |
+| Rewild | 317762 | [317762-rewild.json](./317762-rewild.json) |
 | Rewilder | 303782 | [303782-rewilder.json](./303782-rewilder.json) |
 | Rewind | 33621 | [33621-rewind.json](./33621-rewind.json) |
 | Rewind | 409829 | [409829-rewind.json](./409829-rewind.json) |
