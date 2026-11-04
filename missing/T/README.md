@@ -1658,6 +1658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamale Loco: Rumble in the Desert 2 | 174563 | [174563-tamale-loco-rumble-in-the-desert-2.json](./174563-tamale-loco-rumble-in-the-desert-2.json) |
 | Tamamon | 380687 | [380687-tamamon.json](./380687-tamamon.json) |
 | Tamane with Happa and Friends | 82565 | [82565-tamane-with-happa-and-friends.json](./82565-tamane-with-happa-and-friends.json) |
+| Tamaniwatori's Puzzle | 303660 | [303660-tamaniwatoris-puzzle.json](./303660-tamaniwatoris-puzzle.json) |
 | TamaOtchi | 229850 | [229850-tamaotchi.json](./229850-tamaotchi.json) |
 | Tamara | 339483 | [339483-tamara.json](./339483-tamara.json) |
 | Tamara In The Forsaken Dungeon | 276284 | [276284-tamara-in-the-forsaken-dungeon.json](./276284-tamara-in-the-forsaken-dungeon.json) |
@@ -6253,6 +6254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beginning of the End: Part 2 | 263390 | [263390-the-beginning-of-the-end-part-2.json](./263390-the-beginning-of-the-end-part-2.json) |
 | The Bell | 120254 | [120254-the-bell.json](./120254-the-bell.json) |
 | The Bell Echoes | 304655 | [304655-the-bell-echoes.json](./304655-the-bell-echoes.json) |
+| The Bell of Time | 303940 | [303940-the-bell-of-time.json](./303940-the-bell-of-time.json) |
 | The Bells | 13392 | [13392-the-bells.json](./13392-the-bells.json) |
 | The Bells' Arietta | 313334 | [313334-the-bells-arietta.json](./313334-the-bells-arietta.json) |
 | The Bend | 172719 | [172719-the-bend.json](./172719-the-bend.json) |
@@ -7550,6 +7552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cruel Dreamer Marchosias | 187393 | [187393-the-cruel-dreamer-marchosias.json](./187393-the-cruel-dreamer-marchosias.json) |
 | The Cruel King and the Great Hero: Storybook Edition | 146031 | [146031-the-cruel-king-and-the-great-hero-storybook-edition.json](./146031-the-cruel-king-and-the-great-hero-storybook-edition.json) |
 | The Cruel kings | 166629 | [166629-the-cruel-kings.json](./166629-the-cruel-kings.json) |
+| The Crusade Is Nigh | 303943 | [303943-the-crusade-is-nigh.json](./303943-the-crusade-is-nigh.json) |
 | The Crush House | 295636 | [295636-the-crush-house.json](./295636-the-crush-house.json) |
 | The Crust | 176109 | [176109-the-crust.json](./176109-the-crust.json) |
 | The Crust: Supporter Pack | 400874 | [400874-the-crust-supporter-pack.json](./400874-the-crust-supporter-pack.json) |
@@ -8128,6 +8131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Diary | 208755 | [208755-the-diary.json](./208755-the-diary.json) |
 | The Diary | 250356 | [250356-the-diary.json](./250356-the-diary.json) |
 | The Die Is Cast | 240474 | [240474-the-die-is-cast.json](./240474-the-die-is-cast.json) |
+| The Die Is Cast | 303947 | [303947-the-die-is-cast.json](./303947-the-die-is-cast.json) |
 | The Difference Between Us | 184309 | [184309-the-difference-between-us.json](./184309-the-difference-between-us.json) |
 | The Dig | 207 | [207-the-dig.json](./207-the-dig.json) |
 | The Digital Asset Inquisition | 311007 | [311007-the-digital-asset-inquisition.json](./311007-the-digital-asset-inquisition.json) |
@@ -8668,6 +8672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End of Us | 115033 | [115033-the-end-of-us.json](./115033-the-end-of-us.json) |
 | The End of Warren's House | 185274 | [185274-the-end-of-warrens-house.json](./185274-the-end-of-warrens-house.json) |
 | The End of Warriors | 400503 | [400503-the-end-of-warriors.json](./400503-the-end-of-warriors.json) |
+| The End of You | 303950 | [303950-the-end-of-you.json](./303950-the-end-of-you.json) |
 | The End Protocol | 374748 | [374748-the-end-protocol.json](./374748-the-end-protocol.json) |
 | The End Was Nigh | 135777 | [135777-the-end-was-nigh.json](./135777-the-end-was-nigh.json) |
 | The End: Inari's Quest | 77737 | [77737-the-end-inaris-quest.json](./77737-the-end-inaris-quest.json) |
@@ -15540,6 +15545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scuttle | 116216 | [116216-the-scuttle.json](./116216-the-scuttle.json) |
 | The Sea and You | 284249 | [284249-the-sea-and-you.json](./284249-the-sea-and-you.json) |
 | The Sea Between | 110724 | [110724-the-sea-between.json](./110724-the-sea-between.json) |
+| The Sea God | 304229 | [304229-the-sea-god.json](./304229-the-sea-god.json) |
 | The Sea Has No Claim | 185646 | [185646-the-sea-has-no-claim.json](./185646-the-sea-has-no-claim.json) |
 | The Sea Hotel: Umineko Tei | 169416 | [169416-the-sea-hotel-umineko-tei.json](./169416-the-sea-hotel-umineko-tei.json) |
 | The Sea Is Our Stage | 415994 | [415994-the-sea-is-our-stage.json](./415994-the-sea-is-our-stage.json) |
@@ -26094,6 +26100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Defense: Goblin Wars | 384204 | [384204-tower-defense-goblin-wars.json](./384204-tower-defense-goblin-wars.json) |
 | Tower Defense: Infinite War | 214330 | [214330-tower-defense-infinite-war.json](./214330-tower-defense-infinite-war.json) |
 | Tower Defense: Infinite War - Infinite Starter Package | 296247 | [296247-tower-defense-infinite-war-infinite-starter-package.json](./296247-tower-defense-infinite-war-infinite-starter-package.json) |
+| Tower Defense: Last Castle | 303978 | [303978-tower-defense-last-castle.json](./303978-tower-defense-last-castle.json) |
 | Tower Defense: Lost Earth | 65878 | [65878-tower-defense-lost-earth.json](./65878-tower-defense-lost-earth.json) |
 | Tower Dominion | 328027 | [328027-tower-dominion.json](./328027-tower-dominion.json) |
 | Tower Doomer | 289934 | [289934-tower-doomer.json](./289934-tower-doomer.json) |
@@ -32174,6 +32181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twizzle Puzzle: Dogs | 275418 | [275418-twizzle-puzzle-dogs.json](./275418-twizzle-puzzle-dogs.json) |
 | Twizzle Puzzle: Dragons | 313653 | [313653-twizzle-puzzle-dragons.json](./313653-twizzle-puzzle-dragons.json) |
 | Twizzle Puzzle: Flowers | 358011 | [358011-twizzle-puzzle-flowers.json](./358011-twizzle-puzzle-flowers.json) |
+| Twizzle Puzzle: Horses | 303661 | [303661-twizzle-puzzle-horses.json](./303661-twizzle-puzzle-horses.json) |
 | Twizzle Puzzle: Monkeys | 290690 | [290690-twizzle-puzzle-monkeys.json](./290690-twizzle-puzzle-monkeys.json) |
 | Twizzle Puzzle: Mushrooms | 310260 | [310260-twizzle-puzzle-mushrooms.json](./310260-twizzle-puzzle-mushrooms.json) |
 | Twizzle Puzzle: Rodents | 295379 | [295379-twizzle-puzzle-rodents.json](./295379-twizzle-puzzle-rodents.json) |
