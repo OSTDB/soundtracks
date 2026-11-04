@@ -3495,6 +3495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | February 2003 | 252076 | [252076-february-2003.json](./252076-february-2003.json) |
 | February of Cards | 258370 | [258370-february-of-cards.json](./258370-february-of-cards.json) |
 | Februus Depth | 271185 | [271185-februus-depth.json](./271185-februus-depth.json) |
+| Fecal Freighter | 346888 | [346888-fecal-freighter.json](./346888-fecal-freighter.json) |
 | Fech the Ferret | 156607 | [156607-fech-the-ferret.json](./156607-fech-the-ferret.json) |
 | FED Chairman | 391733 | [391733-fed-chairman.json](./391733-fed-chairman.json) |
 | Feda 2: White Surge the Platoon | 43840 | [43840-feda-2-white-surge-the-platoon.json](./43840-feda-2-white-surge-the-platoon.json) |
@@ -8561,6 +8562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Follower | 383354 | [383354-follower.json](./383354-follower.json) |
 | Follower A | 178510 | [178510-follower-a.json](./178510-follower-a.json) |
 | Follower:Sacrifice | 99006 | [99006-follower-sacrifice.json](./99006-follower-sacrifice.json) |
+| Followers of Krow | 346866 | [346866-followers-of-krow.json](./346866-followers-of-krow.json) |
 | Following Seas | 293686 | [293686-following-seas.json](./293686-following-seas.json) |
 | Following Spandaramet | 330468 | [330468-following-spandaramet.json](./330468-following-spandaramet.json) |
 | Folly Of The Wizards | 253946 | [253946-folly-of-the-wizards.json](./253946-folly-of-the-wizards.json) |
@@ -9232,6 +9234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Battle | 166732 | [166732-forest-battle.json](./166732-forest-battle.json) |
 | Forest Cafe | 315814 | [315814-forest-cafe.json](./315814-forest-cafe.json) |
 | Forest Camp Story | 174297 | [174297-forest-camp-story.json](./174297-forest-camp-story.json) |
+| Forest Construction VR | 346884 | [346884-forest-construction-vr.json](./346884-forest-construction-vr.json) |
 | Forest Crash Party | 265839 | [265839-forest-crash-party.json](./265839-forest-crash-party.json) |
 | Forest Crossroads | 278151 | [278151-forest-crossroads.json](./278151-forest-crossroads.json) |
 | Forest Curse | 413126 | [413126-forest-curse.json](./413126-forest-curse.json) |
@@ -9777,6 +9780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken Valley | 348860 | [348860-forsaken-valley.json](./348860-forsaken-valley.json) |
 | Forsaken Woods | 26386 | [26386-forsaken-woods.json](./26386-forsaken-woods.json) |
 | Forsaken World Mobile | 27046 | [27046-forsaken-world-mobile.json](./27046-forsaken-world-mobile.json) |
+| Forsaker: DingDing&Blade | 347020 | [347020-forsaker-dingding-and-blade.json](./347020-forsaker-dingding-and-blade.json) |
 | Forsaker: ​Innocent Paws | 392311 | [392311-forsaker-innocent-paws.json](./392311-forsaker-innocent-paws.json) |
 | Forsan El Majd | 316820 | [316820-forsan-el-majd.json](./316820-forsan-el-majd.json) |
 | Forsen's Vacation | 371842 | [371842-forsens-vacation.json](./371842-forsens-vacation.json) |
