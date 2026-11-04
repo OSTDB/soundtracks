@@ -3689,6 +3689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Ruins | 394091 | [394091-infinite-ruins.json](./394091-infinite-ruins.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -3801,6 +3802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Nikki: Bubble Season | 341797 | [341797-infinity-nikki-bubble-season.json](./341797-infinity-nikki-bubble-season.json) |
 | Infinity Nikki: Danqing Season | 357174 | [357174-infinity-nikki-danqing-season.json](./357174-infinity-nikki-danqing-season.json) |
 | Infinity Nikki: Encore Season | 375611 | [375611-infinity-nikki-encore-season.json](./375611-infinity-nikki-encore-season.json) |
+| Infinity Nikki: Exploration Season | 334414 | [334414-infinity-nikki-exploration-season.json](./334414-infinity-nikki-exploration-season.json) |
 | Infinity Nikki: Firework Season | 328586 | [328586-infinity-nikki-firework-season.json](./328586-infinity-nikki-firework-season.json) |
 | Infinity Nikki: Golden Dust | 410212 | [410212-infinity-nikki-golden-dust.json](./410212-infinity-nikki-golden-dust.json) |
 | Infinity Nikki: Golden Season | 370959 | [370959-infinity-nikki-golden-season.json](./370959-infinity-nikki-golden-season.json) |
