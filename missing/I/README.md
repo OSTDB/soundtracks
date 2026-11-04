@@ -728,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm going to die if I don't eat sushi! | 187212 | [187212-im-going-to-die-if-i-dont-eat-sushi.json](./187212-im-going-to-die-if-i-dont-eat-sushi.json) |
 | I'm Gonna Be God of The Forest | 64146 | [64146-im-gonna-be-god-of-the-forest.json](./64146-im-gonna-be-god-of-the-forest.json) |
 | I'm Gonna Serve You 4 | 139036 | [139036-im-gonna-serve-you-4.json](./139036-im-gonna-serve-you-4.json) |
+| I'm Here to Shit Ass | 336306 | [336306-im-here-to-shit-ass.json](./336306-im-here-to-shit-ass.json) |
 | I'm Home Already | 350461 | [350461-im-home-already.json](./350461-im-home-already.json) |
 | I'm In Charge | 249216 | [249216-im-in-charge.json](./249216-im-in-charge.json) |
 | I'm in Love With Your Dead Grandmother | 213585 | [213585-im-in-love-with-your-dead-grandmother.json](./213585-im-in-love-with-your-dead-grandmother.json) |
@@ -3994,6 +3995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Injustice 2: Fighter Pack 3 | 75691 | [75691-injustice-2-fighter-pack-3.json](./75691-injustice-2-fighter-pack-3.json) |
 | Injustice 2: Gods Shader Pack | 323384 | [323384-injustice-2-gods-shader-pack.json](./323384-injustice-2-gods-shader-pack.json) |
 | Injustice 2: Hellboy | 164829 | [164829-injustice-2-hellboy.json](./164829-injustice-2-hellboy.json) |
+| Injustice 2: Infinite Transforms | 336259 | [336259-injustice-2-infinite-transforms.json](./336259-injustice-2-infinite-transforms.json) |
 | Injustice 2: John Stewart | 323388 | [323388-injustice-2-john-stewart.json](./323388-injustice-2-john-stewart.json) |
 | Injustice 2: Legendary Edition | 95063 | [95063-injustice-2-legendary-edition.json](./95063-injustice-2-legendary-edition.json) |
 | Injustice 2: Power Girl | 323386 | [323386-injustice-2-power-girl.json](./323386-injustice-2-power-girl.json) |
@@ -4116,6 +4118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inn Need | 225766 | [225766-inn-need.json](./225766-inn-need.json) |
 | Inn Over Your Head | 408494 | [408494-inn-over-your-head.json](./408494-inn-over-your-head.json) |
 | Inn The Dark | 255985 | [255985-inn-the-dark.json](./255985-inn-the-dark.json) |
+| Inn Trouble | 336298 | [336298-inn-trouble.json](./336298-inn-trouble.json) |
 | Inn: the Countryside | 106460 | [106460-inn-the-countryside.json](./106460-inn-the-countryside.json) |
 | Innadreem | 383938 | [383938-innadreem.json](./383938-innadreem.json) |
 | Innawoods | 227126 | [227126-innawoods.json](./227126-innawoods.json) |
