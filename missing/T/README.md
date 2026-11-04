@@ -22373,7 +22373,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tin Can | 139282 | [139282-tin-can.json](./139282-tin-can.json) |
 | Tin Can: Original Tracks | 293774 | [293774-tin-can-original-tracks.json](./293774-tin-can-original-tracks.json) |
 | Tin Coffins | 422683 | [422683-tin-coffins.json](./422683-tin-coffins.json) |
-| Tin Hearts | 111090 | [111090-tin-hearts.json](./111090-tin-hearts.json) |
 | Tin Knight | 240093 | [240093-tin-knight.json](./240093-tin-knight.json) |
 | Tin Soldiers: Alexander the Great | 72757 | [72757-tin-soldiers-alexander-the-great.json](./72757-tin-soldiers-alexander-the-great.json) |
 | Tin Soldiers: Julius Caesar | 72758 | [72758-tin-soldiers-julius-caesar.json](./72758-tin-soldiers-julius-caesar.json) |
