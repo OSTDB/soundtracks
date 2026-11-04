@@ -5094,8 +5094,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Brave: The Lost Hero | 306146 | [306146-phantom-brave-the-lost-hero.json](./306146-phantom-brave-the-lost-hero.json) |
 | Phantom Brave: The Lost Hero - Deluxe Edition | 324771 | [324771-phantom-brave-the-lost-hero-deluxe-edition.json](./324771-phantom-brave-the-lost-hero-deluxe-edition.json) |
 | Phantom Brave: The Lost Hero - Digital Deluxe Edition | 330204 | [330204-phantom-brave-the-lost-hero-digital-deluxe-edition.json](./330204-phantom-brave-the-lost-hero-digital-deluxe-edition.json) |
+| Phantom Brave: The Lost Hero - Exclusive Putty Outfit: Minty | 330442 | [330442-phantom-brave-the-lost-hero-exclusive-putty-outfit-minty.json](./330442-phantom-brave-the-lost-hero-exclusive-putty-outfit-minty.json) |
 | Phantom Brave: The Lost Hero - Heroes of the Past | 332520 | [332520-phantom-brave-the-lost-hero-heroes-of-the-past.json](./332520-phantom-brave-the-lost-hero-heroes-of-the-past.json) |
+| Phantom Brave: The Lost Hero - Marona & Ash Phantom Isle Outfits | 330443 | [330443-phantom-brave-the-lost-hero-marona-and-ash-phantom-isle-outfits.json](./330443-phantom-brave-the-lost-hero-marona-and-ash-phantom-isle-outfits.json) |
 | Phantom Brave: The Lost Hero - Parallel Siblings | 332521 | [332521-phantom-brave-the-lost-hero-parallel-siblings.json](./332521-phantom-brave-the-lost-hero-parallel-siblings.json) |
+| Phantom Brave: The Lost Hero - Season Pass | 330444 | [330444-phantom-brave-the-lost-hero-season-pass.json](./330444-phantom-brave-the-lost-hero-season-pass.json) |
 | Phantom Brave: The Lost Hero - The Girl Who Cried Ghost | 332522 | [332522-phantom-brave-the-lost-hero-the-girl-who-cried-ghost.json](./332522-phantom-brave-the-lost-hero-the-girl-who-cried-ghost.json) |
 | Phantom Brave: The Lost Hero - The Liar and the Lost | 332525 | [332525-phantom-brave-the-lost-hero-the-liar-and-the-lost.json](./332525-phantom-brave-the-lost-hero-the-liar-and-the-lost.json) |
 | Phantom Brave: The Lost Hero - The Rat Who Demons Fear | 332523 | [332523-phantom-brave-the-lost-hero-the-rat-who-demons-fear.json](./332523-phantom-brave-the-lost-hero-the-rat-who-demons-fear.json) |
@@ -17140,6 +17143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purrfect Apawcalypse! Incredible Furture! | 304121 | [304121-purrfect-apawcalypse-incredible-furture.json](./304121-purrfect-apawcalypse-incredible-furture.json) |
 | Purrfect Catch | 255041 | [255041-purrfect-catch.json](./255041-purrfect-catch.json) |
 | Purrfect Catch | 377190 | [377190-purrfect-catch.json](./377190-purrfect-catch.json) |
+| Purrfect Collection | 330409 | [330409-purrfect-collection.json](./330409-purrfect-collection.json) |
 | Purrfect Date | 54634 | [54634-purrfect-date.json](./54634-purrfect-date.json) |
 | Purrfect Pet Shop | 209376 | [209376-purrfect-pet-shop.json](./209376-purrfect-pet-shop.json) |
 | Purrfect Rescue | 279259 | [279259-purrfect-rescue.json](./279259-purrfect-rescue.json) |
