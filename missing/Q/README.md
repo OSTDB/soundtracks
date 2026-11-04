@@ -802,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest Braintainment | 334625 | [334625-quest-braintainment.json](./334625-quest-braintainment.json) |
 | Quest Eternal | 290954 | [290954-quest-eternal.json](./290954-quest-eternal.json) |
 | Quest for 2Moo | 273252 | [273252-quest-for-2moo.json](./273252-quest-for-2moo.json) |
+| Quest for a Punchline: The Collection | 333866 | [333866-quest-for-a-punchline-the-collection.json](./333866-quest-for-a-punchline-the-collection.json) |
 | Quest for Camelot | 307793 | [307793-quest-for-camelot.json](./307793-quest-for-camelot.json) |
 | Quest for Camelot: Dragon Games | 320992 | [320992-quest-for-camelot-dragon-games.json](./320992-quest-for-camelot-dragon-games.json) |
 | Quest for Cathay Kingdom Mah Jong | 367446 | [367446-quest-for-cathay-kingdom-mah-jong.json](./367446-quest-for-cathay-kingdom-mah-jong.json) |
