@@ -1115,6 +1115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Simple Door | 311647 | [311647-a-simple-door.json](./311647-a-simple-door.json) |
 | A Simple Expurriment | 254020 | [254020-a-simple-expurriment.json](./254020-a-simple-expurriment.json) |
 | A Simple Garbage Sorting Game | 329705 | [329705-a-simple-garbage-sorting-game.json](./329705-a-simple-garbage-sorting-game.json) |
+| A Simple Life | 300879 | [300879-a-simple-life.json](./300879-a-simple-life.json) |
 | A Simple Life with My Unobtrusive Sister | 373573 | [373573-a-simple-life-with-my-unobtrusive-sister.json](./373573-a-simple-life-with-my-unobtrusive-sister.json) |
 | A Simple Love Story | 25072 | [25072-a-simple-love-story.json](./25072-a-simple-love-story.json) |
 | A Simple Platformer | 339915 | [339915-a-simple-platformer.json](./339915-a-simple-platformer.json) |
@@ -4023,6 +4024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AEW: Fight Forever - All Season Pass Bundle | 312091 | [312091-aew-fight-forever-all-season-pass-bundle.json](./312091-aew-fight-forever-all-season-pass-bundle.json) |
 | AEW: Fight Forever - Bring the Boom Edition | 279885 | [279885-aew-fight-forever-bring-the-boom-edition.json](./279885-aew-fight-forever-bring-the-boom-edition.json) |
 | AEW: Fight Forever - Elite Edition | 251670 | [251670-aew-fight-forever-elite-edition.json](./251670-aew-fight-forever-elite-edition.json) |
+| AEW: Fight Forever - Ultimate Edition | 300905 | [300905-aew-fight-forever-ultimate-edition.json](./300905-aew-fight-forever-ultimate-edition.json) |
 | AEW: Rise to the Top | 283001 | [283001-aew-rise-to-the-top.json](./283001-aew-rise-to-the-top.json) |
 | Aexia | 258924 | [258924-aexia.json](./258924-aexia.json) |
 | Aexxos | 373488 | [373488-aexxos.json](./373488-aexxos.json) |
@@ -5616,6 +5618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aiyra | 255772 | [255772-aiyra.json](./255772-aiyra.json) |
 | Aiza: New Generation | 228339 | [228339-aiza-new-generation.json](./228339-aiza-new-generation.json) |
 | Aizasia | 389015 | [389015-aizasia.json](./389015-aizasia.json) |
+| AJ 11: Cosmic Climb | 300978 | [300978-aj-11-cosmic-climb.json](./300978-aj-11-cosmic-climb.json) |
 | AJ Jump: Animal Jam Kangaroos! | 88986 | [88986-aj-jump-animal-jam-kangaroos.json](./88986-aj-jump-animal-jam-kangaroos.json) |
 | Ajax | 39324 | [39324-ajax.json](./39324-ajax.json) |
 | AJAX Club Football | 267877 | [267877-ajax-club-football.json](./267877-ajax-club-football.json) |
@@ -11647,6 +11650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarium Designer: Sea Life | 199595 | [199595-aquarium-designer-sea-life.json](./199595-aquarium-designer-sea-life.json) |
 | Aquarium Land | 208728 | [208728-aquarium-land.json](./208728-aquarium-land.json) |
 | Aquarium Land: Armadillo | 303335 | [303335-aquarium-land-armadillo.json](./303335-aquarium-land-armadillo.json) |
+| Aquarium Land: Armadillo Edition | 300903 | [300903-aquarium-land-armadillo-edition.json](./300903-aquarium-land-armadillo-edition.json) |
 | Aquarium Land: Baby Seal | 303336 | [303336-aquarium-land-baby-seal.json](./303336-aquarium-land-baby-seal.json) |
 | Aquarium Land: Baby Seal Edition | 278650 | [278650-aquarium-land-baby-seal-edition.json](./278650-aquarium-land-baby-seal-edition.json) |
 | Aquarium Land: Complete Edition | 273299 | [273299-aquarium-land-complete-edition.json](./273299-aquarium-land-complete-edition.json) |
@@ -16153,7 +16157,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
