@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yappie! Knockout | 256115 | [256115-yappie-knockout.json](./256115-yappie-knockout.json) |
 | Yappy Bird | 412508 | [412508-yappy-bird.json](./412508-yappy-bird.json) |
 | Yapyap | 363307 | [363307-yapyap.json](./363307-yapyap.json) |
+| YAR | 311939 | [311939-yar.json](./311939-yar.json) |
 | Yar's Revenge | 28721 | [28721-yars-revenge.json](./28721-yars-revenge.json) |
 | Yarasete! Teacher Sotsugyou | 59191 | [59191-yarasete-teacher-sotsugyou.json](./59191-yarasete-teacher-sotsugyou.json) |
 | Yarbay | 121963 | [121963-yarbay.json](./121963-yarbay.json) |
