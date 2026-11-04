@@ -7848,6 +7848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in the Rift - Reborn | 30952 | [30952-lost-in-the-rift-reborn.json](./30952-lost-in-the-rift-reborn.json) |
 | Lost in the Roots | 298235 | [298235-lost-in-the-roots.json](./298235-lost-in-the-roots.json) |
 | Lost in the Sand | 215641 | [215641-lost-in-the-sand.json](./215641-lost-in-the-sand.json) |
+| Lost in the Secret! | 340126 | [340126-lost-in-the-secret.json](./340126-lost-in-the-secret.json) |
 | Lost In The Shadows | 250816 | [250816-lost-in-the-shadows.json](./250816-lost-in-the-shadows.json) |
 | Lost in the Static | 71848 | [71848-lost-in-the-static.json](./71848-lost-in-the-static.json) |
 | Lost In The Store | 408064 | [408064-lost-in-the-store.json](./408064-lost-in-the-store.json) |
@@ -8793,6 +8794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LOZT: Legion of Zombie Terrors | 393048 | [393048-lozt-legion-of-zombie-terrors.json](./393048-lozt-legion-of-zombie-terrors.json) |
 | LP | 150451 | [150451-lp.json](./150451-lp.json) |
 | LP Recharge | 227970 | [227970-lp-recharge.json](./227970-lp-recharge.json) |
+| LR2oraja | 340284 | [340284-lr2oraja.json](./340284-lr2oraja.json) |
 | Lrrl or Rllr | 169441 | [169441-lrrl-or-rllr.json](./169441-lrrl-or-rllr.json) |
 | Ls | 229389 | [229389-ls.json](./229389-ls.json) |
 | LSD Battlefield Simulator | 340927 | [340927-lsd-battlefield-simulator.json](./340927-lsd-battlefield-simulator.json) |
