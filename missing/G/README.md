@@ -7772,6 +7772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandia: Digital Museum | 21658 | [21658-grandia-digital-museum.json](./21658-grandia-digital-museum.json) |
 | Grandia: Parallel Trippers | 21659 | [21659-grandia-parallel-trippers.json](./21659-grandia-parallel-trippers.json) |
 | Grandiose | 154581 | [154581-grandiose.json](./154581-grandiose.json) |
+| Grandis Adventures | 333313 | [333313-grandis-adventures.json](./333313-grandis-adventures.json) |
 | Grandma | 193676 | [193676-grandma.json](./193676-grandma.json) |
 | GrandMa Badass | 150914 | [150914-grandma-badass.json](./150914-grandma-badass.json) |
 | Grandma Cleaning Simulator: Family Business Tycoon | 308510 | [308510-grandma-cleaning-simulator-family-business-tycoon.json](./308510-grandma-cleaning-simulator-family-business-tycoon.json) |
@@ -9995,6 +9996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Receptionist 2: Stardust Liberate | 329239 | [329239-guild-receptionist-2-stardust-liberate.json](./329239-guild-receptionist-2-stardust-liberate.json) |
 | Guild Receptionist: Good Luck | 339103 | [339103-guild-receptionist-good-luck.json](./339103-guild-receptionist-good-luck.json) |
 | Guild Saga: Vanished Worlds | 244758 | [244758-guild-saga-vanished-worlds.json](./244758-guild-saga-vanished-worlds.json) |
+| Guild Shop Simulator | 333325 | [333325-guild-shop-simulator.json](./333325-guild-shop-simulator.json) |
 | Guild Soup | 408907 | [408907-guild-soup.json](./408907-guild-soup.json) |
 | Guild Wars | 234 | [234-guild-wars.json](./234-guild-wars.json) |
 | Guild Wars 2: Elder Dragon Saga - Complete Collection | 293924 | [293924-guild-wars-2-elder-dragon-saga-complete-collection.json](./293924-guild-wars-2-elder-dragon-saga-complete-collection.json) |
