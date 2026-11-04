@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Heart of Butterblue | 225238 | [225238-a-heart-of-butterblue.json](./225238-a-heart-of-butterblue.json) |
 | A Heart Of Iron | 397692 | [397692-a-heart-of-iron.json](./397692-a-heart-of-iron.json) |
 | A Heavy Morning | 347840 | [347840-a-heavy-morning.json](./347840-a-heavy-morning.json) |
+| A Hell of a Bloody Dragon | 318325 | [318325-a-hell-of-a-bloody-dragon.json](./318325-a-hell-of-a-bloody-dragon.json) |
 | A Hell of a Journey | 200541 | [200541-a-hell-of-a-journey.json](./200541-a-hell-of-a-journey.json) |
 | A Hell of a Soup | 260834 | [260834-a-hell-of-a-soup.json](./260834-a-hell-of-a-soup.json) |
 | A Helping Hand | 316014 | [316014-a-helping-hand.json](./316014-a-helping-hand.json) |
@@ -5610,6 +5611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akahane: After Class | 278617 | [278617-akahane-after-class.json](./278617-akahane-after-class.json) |
 | Akai Corridor | 316282 | [316282-akai-corridor.json](./316282-akai-corridor.json) |
 | Akai Hana | 386935 | [386935-akai-hana.json](./386935-akai-hana.json) |
+| Akai Heya | 318343 | [318343-akai-heya.json](./318343-akai-heya.json) |
 | Akai Hitomi no Serafu | 77915 | [77915-akai-hitomi-no-serafu.json](./77915-akai-hitomi-no-serafu.json) |
 | Akai Ito | 73494 | [73494-akai-ito.json](./73494-akai-ito.json) |
 | Akai Ito & Aoi Shiro HD Remaster | 227974 | [227974-akai-ito-and-aoi-shiro-hd-remaster.json](./227974-akai-ito-and-aoi-shiro-hd-remaster.json) |
@@ -7128,6 +7130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Valentine Pairs Memory Game | 180101 | [180101-all-valentine-pairs-memory-game.json](./180101-all-valentine-pairs-memory-game.json) |
 | All Walls Must Fall | 27793 | [27793-all-walls-must-fall.json](./27793-all-walls-must-fall.json) |
 | All We Need | 263212 | [263212-all-we-need.json](./263212-all-we-need.json) |
+| All Whispering Tome | 318326 | [318326-all-whispering-tome.json](./318326-all-whispering-tome.json) |
 | All Who Wander | 358726 | [358726-all-who-wander.json](./358726-all-who-wander.json) |
 | All Will Fall | 328273 | [328273-all-will-fall.json](./328273-all-will-fall.json) |
 | All will Rise | 347823 | [347823-all-will-rise.json](./347823-all-will-rise.json) |
@@ -8717,6 +8720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Super Mario World Central Production | 323063 | [323063-an-super-mario-world-central-production.json](./323063-an-super-mario-world-central-production.json) |
 | An Un-epic story: The adventure of Enki and Tiny Freddie | 174093 | [174093-an-un-epic-story-the-adventure-of-enki-and-tiny-freddie.json](./174093-an-un-epic-story-the-adventure-of-enki-and-tiny-freddie.json) |
 | An Unexpected Arrival | 376160 | [376160-an-unexpected-arrival.json](./376160-an-unexpected-arrival.json) |
+| An Unexpectedly Green Journey | 318317 | [318317-an-unexpectedly-green-journey.json](./318317-an-unexpectedly-green-journey.json) |
 | An Unfinished Game | 318451 | [318451-an-unfinished-game.json](./318451-an-unfinished-game.json) |
 | An unfolding Adventure | 184795 | [184795-an-unfolding-adventure.json](./184795-an-unfolding-adventure.json) |
 | An Uninvited Guest | 195546 | [195546-an-uninvited-guest.json](./195546-an-uninvited-guest.json) |
@@ -16064,7 +16068,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
@@ -16432,6 +16435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack!! Hiroko-Chan | 67372 | [67372-attack-hiroko-chan.json](./67372-attack-hiroko-chan.json) |
 | Attacker-chan! | 211082 | [211082-attacker-chan.json](./211082-attacker-chan.json) |
 | Attacking Zegeta 2 | 56543 | [56543-attacking-zegeta-2.json](./56543-attacking-zegeta-2.json) |
+| Attactics | 318310 | [318310-attactics.json](./318310-attactics.json) |
 | Attank! | 90902 | [90902-attank.json](./90902-attank.json) |
 | Attenborough's Antarctic: An Exploration of Life in the Freezer | 262253 | [262253-attenboroughs-antarctic-an-exploration-of-life-in-the-freezer.json](./262253-attenboroughs-antarctic-an-exploration-of-life-in-the-freezer.json) |
 | Attention Deficit: A story about ADHD | 364007 | [364007-attention-deficit-a-story-about-adhd.json](./364007-attention-deficit-a-story-about-adhd.json) |
@@ -17228,6 +17232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avian | 186476 | [186476-avian.json](./186476-avian.json) |
 | Avian Enigma | 309902 | [309902-avian-enigma.json](./309902-avian-enigma.json) |
 | Aviano | 151626 | [151626-aviano.json](./151626-aviano.json) |
+| Avianos | 318314 | [318314-avianos.json](./318314-avianos.json) |
 | Avians Against Aviation | 298264 | [298264-avians-against-aviation.json](./298264-avians-against-aviation.json) |
 | Aviãozinho do tráfico 1: despacito 5 quem ler é arrombado 2 | 341879 | [341879-aviaozinho-do-trafico-1-despacito-5-quem-ler-e-arrombado-2.json](./341879-aviaozinho-do-trafico-1-despacito-5-quem-ler-e-arrombado-2.json) |
 | Aviãozinho do tráfico 2: 3D resenha de pasta base de cocaína com Sorrizo Ronaldo | 341880 | [341880-aviaozinho-do-trafico-2-3d-resenha-de-pasta-base-de-cocaina-com-sorrizo-ronaldo.json](./341880-aviaozinho-do-trafico-2-3d-resenha-de-pasta-base-de-cocaina-com-sorrizo-ronaldo.json) |
@@ -17740,6 +17745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azur Lane: Crosswave - Commanders Calendar Edition | 139918 | [139918-azur-lane-crosswave-commanders-calendar-edition.json](./139918-azur-lane-crosswave-commanders-calendar-edition.json) |
 | Azur Lane: Crosswave - Limited Edition | 166972 | [166972-azur-lane-crosswave-limited-edition.json](./166972-azur-lane-crosswave-limited-edition.json) |
 | Azura | 74218 | [74218-azura.json](./74218-azura.json) |
+| Azura's Crystals | 318352 | [318352-azuras-crystals.json](./318352-azuras-crystals.json) |
 | Azurael's Circle: Chapter 1 | 107764 | [107764-azuraels-circle-chapter-1.json](./107764-azuraels-circle-chapter-1.json) |
 | Azurael's Circle: Chapter 2 | 107732 | [107732-azuraels-circle-chapter-2.json](./107732-azuraels-circle-chapter-2.json) |
 | Azurael's Circle: Chapter 3 | 112368 | [112368-azuraels-circle-chapter-3.json](./112368-azuraels-circle-chapter-3.json) |
