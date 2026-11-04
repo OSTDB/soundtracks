@@ -2752,6 +2752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scauage | 324621 | [324621-scauage.json](./324621-scauage.json) |
 | Scav | 361079 | [361079-scav.json](./361079-scav.json) |
 | Scav | 376816 | [376816-scav.json](./376816-scav.json) |
+| Scavenged By Sunset | 311447 | [311447-scavenged-by-sunset.json](./311447-scavenged-by-sunset.json) |
 | Scavenger | 237648 | [237648-scavenger.json](./237648-scavenger.json) |
 | Scavenger | 241503 | [241503-scavenger.json](./241503-scavenger.json) |
 | Scavenger | 74443 | [74443-scavenger.json](./74443-scavenger.json) |
@@ -9043,6 +9044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short Piece | 263335 | [263335-short-piece.json](./263335-short-piece.json) |
 | Short Rest | 177255 | [177255-short-rest.json](./177255-short-rest.json) |
 | Short Sad Stories | 278364 | [278364-short-sad-stories.json](./278364-short-sad-stories.json) |
+| Short Sad Stories: A Night Out | 311406 | [311406-short-sad-stories-a-night-out.json](./311406-short-sad-stories-a-night-out.json) |
 | Short Scary Stories | 126892 | [126892-short-scary-stories.json](./126892-short-scary-stories.json) |
 | Short Short Fictions | 369103 | [369103-short-short-fictions.json](./369103-short-short-fictions.json) |
 | Short Snow | 309867 | [309867-short-snow.json](./309867-short-snow.json) |
@@ -9366,6 +9368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrot | 291382 | [291382-shrot.json](./291382-shrot.json) |
 | Shrot | 377185 | [377185-shrot.json](./377185-shrot.json) |
 | Shroud | 295999 | [295999-shroud.json](./295999-shroud.json) |
+| Shroud | 311454 | [311454-shroud.json](./311454-shroud.json) |
 | Shroud of Gloom | 322028 | [322028-shroud-of-gloom.json](./322028-shroud-of-gloom.json) |
 | Shroud of the Avatar - The Path of Virtue | 95995 | [95995-shroud-of-the-avatar-the-path-of-virtue.json](./95995-shroud-of-the-avatar-the-path-of-virtue.json) |
 | Shroud of the Avatar: Forsaken Virtues | 3187 | [3187-shroud-of-the-avatar-forsaken-virtues.json](./3187-shroud-of-the-avatar-forsaken-virtues.json) |
@@ -19002,6 +19005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
