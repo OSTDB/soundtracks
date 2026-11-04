@@ -1753,6 +1753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 21 Days | 40869 | [40869-21-days.json](./40869-21-days.json) |
 | 21 Emon: Mezase! Hotel-Ou | 57442 | [57442-21-emon-mezase-hotel-ou.json](./57442-21-emon-mezase-hotel-ou.json) |
 | 21 Gewinnt | 98932 | [98932-21-gewinnt.json](./98932-21-gewinnt.json) |
+| 21 Mayble Drive | 298202 | [298202-21-mayble-drive.json](./298202-21-mayble-drive.json) |
 | 21 Steps to Soul | 27115 | [27115-21-steps-to-soul.json](./27115-21-steps-to-soul.json) |
 | 21-Emon | 38070 | [38070-21-emon.json](./38070-21-emon.json) |
 | 21-en | 85744 | [85744-21-en.json](./85744-21-en.json) |
