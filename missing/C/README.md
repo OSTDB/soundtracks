@@ -1941,6 +1941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capy Spa | 388541 | [388541-capy-spa.json](./388541-capy-spa.json) |
 | Capy Stream: Rise to Fame | 349066 | [349066-capy-stream-rise-to-fame.json](./349066-capy-stream-rise-to-fame.json) |
 | Capy's Hot Springs Haven | 389706 | [389706-capys-hot-springs-haven.json](./389706-capys-hot-springs-haven.json) |
+| Capy's Quest | 339047 | [339047-capys-quest.json](./339047-capys-quest.json) |
 | Capybara | 229820 | [229820-capybara.json](./229820-capybara.json) |
 | Capybara | 312611 | [312611-capybara.json](./312611-capybara.json) |
 | Capybara | 312612 | [312612-capybara.json](./312612-capybara.json) |
@@ -4643,6 +4644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Runner | 278638 | [278638-cave-runner.json](./278638-cave-runner.json) |
 | Cave Shooter | 167275 | [167275-cave-shooter.json](./167275-cave-shooter.json) |
 | Cave Shooting Collection | 159258 | [159258-cave-shooting-collection.json](./159258-cave-shooting-collection.json) |
+| Cave Story | 339021 | [339021-cave-story.json](./339021-cave-story.json) |
 | Cave Story | 366623 | [366623-cave-story.json](./366623-cave-story.json) |
 | Cave Story 3D | 11783 | [11783-cave-story-3d.json](./11783-cave-story-3d.json) |
 | Cave Story Sex RPG 2007 | 145470 | [145470-cave-story-sex-rpg-2007.json](./145470-cave-story-sex-rpg-2007.json) |
@@ -15693,6 +15695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crater Maker | 62079 | [62079-crater-maker.json](./62079-crater-maker.json) |
 | Crater Raider | 25356 | [25356-crater-raider.json](./25356-crater-raider.json) |
 | Craterbound | 186123 | [186123-craterbound.json](./186123-craterbound.json) |
+| Crates 3D | 339020 | [339020-crates-3d.json](./339020-crates-3d.json) |
 | Crates n' Mohawks | 186339 | [186339-crates-n-mohawks.json](./186339-crates-n-mohawks.json) |
 | CrateTastrophe | 164271 | [164271-cratetastrophe.json](./164271-cratetastrophe.json) |
 | Crave | 170250 | [170250-crave.json](./170250-crave.json) |
