@@ -15869,6 +15869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Property Tycoon | 126184 | [126184-property-tycoon.json](./126184-property-tycoon.json) |
 | PropFight | 331438 | [331438-propfight.json](./331438-propfight.json) |
 | Prophan Escape | 274534 | [274534-prophan-escape.json](./274534-prophan-escape.json) |
+| Prophecrawl | 341260 | [341260-prophecrawl.json](./341260-prophecrawl.json) |
 | Prophecy | 133435 | [133435-prophecy.json](./133435-prophecy.json) |
 | Prophecy | 277333 | [277333-prophecy.json](./277333-prophecy.json) |
 | Prophecy I: The Viking Child | 12925 | [12925-prophecy-i-the-viking-child.json](./12925-prophecy-i-the-viking-child.json) |
