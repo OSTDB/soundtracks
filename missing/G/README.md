@@ -1592,6 +1592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gang Blast | 283265 | [283265-gang-blast.json](./283265-gang-blast.json) |
 | Gang District | 126776 | [126776-gang-district.json](./126776-gang-district.json) |
 | Gang Human Wrestling | 193816 | [193816-gang-human-wrestling.json](./193816-gang-human-wrestling.json) |
+| Gang Lords | 344818 | [344818-gang-lords.json](./344818-gang-lords.json) |
 | Gang Man | 279066 | [279066-gang-man.json](./279066-gang-man.json) |
 | Gang Man Shooter | 351691 | [351691-gang-man-shooter.json](./351691-gang-man-shooter.json) |
 | Gang Nations | 60592 | [60592-gang-nations.json](./60592-gang-nations.json) |
