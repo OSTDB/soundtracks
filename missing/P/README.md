@@ -239,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man S | 64683 | [64683-pac-man-s.json](./64683-pac-man-s.json) |
 | Pac-Man SDL | 334737 | [334737-pac-man-sdl.json](./334737-pac-man-sdl.json) |
 | Pac-Man Social | 64682 | [64682-pac-man-social.json](./64682-pac-man-social.json) |
+| Pac-Man SuperFast! | 321097 | [321097-pac-man-superfast.json](./321097-pac-man-superfast.json) |
 | Pac-Man Tilt | 219389 | [219389-pac-man-tilt.json](./219389-pac-man-tilt.json) |
 | Pac-Man VR | 65001 | [65001-pac-man-vr.json](./65001-pac-man-vr.json) |
 | Pac-Man Vs. | 4062 | [4062-pac-man-vs.json](./4062-pac-man-vs.json) |
@@ -2882,6 +2883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path to Nowhere | 219839 | [219839-path-to-nowhere.json](./219839-path-to-nowhere.json) |
 | Path to Nowhere: Ditty Nightsong | 329175 | [329175-path-to-nowhere-ditty-nightsong.json](./329175-path-to-nowhere-ditty-nightsong.json) |
 | Path to Nowhere: Dreamy Bubble | 377968 | [377968-path-to-nowhere-dreamy-bubble.json](./377968-path-to-nowhere-dreamy-bubble.json) |
+| Path to Nowhere: Glitchwave Nihil | 321253 | [321253-path-to-nowhere-glitchwave-nihil.json](./321253-path-to-nowhere-glitchwave-nihil.json) |
 | Path to Nowhere: Raging Sands | 377967 | [377967-path-to-nowhere-raging-sands.json](./377967-path-to-nowhere-raging-sands.json) |
 | Path to Octavius | 243815 | [243815-path-to-octavius.json](./243815-path-to-octavius.json) |
 | Path to Prosperity | 150738 | [150738-path-to-prosperity.json](./150738-path-to-prosperity.json) |
@@ -16621,6 +16623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pui Pui Molcar Let's! Molcar Party! | 175849 | [175849-pui-pui-molcar-lets-molcar-party.json](./175849-pui-pui-molcar-lets-molcar-party.json) |
 | Pui Pui Molcar Let's! Molcar Party!: Digital Deluxe Edition | 221499 | [221499-pui-pui-molcar-lets-molcar-party-digital-deluxe-edition.json](./221499-pui-pui-molcar-lets-molcar-party-digital-deluxe-edition.json) |
 | Pui Pui Molcartchi Driving School ver. | 230159 | [230159-pui-pui-molcartchi-driving-school-ver.json](./230159-pui-pui-molcartchi-driving-school-ver.json) |
+| Puio Puio | 321271 | [321271-puio-puio.json](./321271-puio-puio.json) |
 | PUIQ: Demons | 298053 | [298053-puiq-demons.json](./298053-puiq-demons.json) |
 | Puk | 195985 | [195985-puk.json](./195985-puk.json) |
 | Puke | 277256 | [277256-puke.json](./277256-puke.json) |
