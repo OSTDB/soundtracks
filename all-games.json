@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-04T08:11:47.556Z",
-  "total_soundtracks": 2887,
+  "generated_at": "2026-11-04T08:22:03.960Z",
+  "total_soundtracks": 2903,
   "games": [
     {
       "igdb_id": 7522,
@@ -5399,6 +5399,34 @@
       ]
     },
     {
+      "igdb_id": 196918,
+      "game_name": "Check it Out!",
+      "game_url": "https://ostdb.net/games/check-it-out",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e328fa892d22573faec6e415",
+      "albums": [
+        {
+          "album_name": "Check It Out! (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1aRimltBummM9msaNlzPBB",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 191698,
+      "game_name": "Chef Life: A Restaurant Simulator",
+      "game_url": "https://ostdb.net/games/chef-life-a-restaurant-simulator",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273df64baf22868704c82edb38a",
+      "albums": [
+        {
+          "album_name": "Chef Life: A Restaurant Simulator (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2x9qWZeG3IIiXLVQuadmGh",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 115054,
       "game_name": "Chernobylite",
       "game_url": "https://ostdb.net/games/chernobylite",
@@ -5681,6 +5709,20 @@
       ]
     },
     {
+      "igdb_id": 154769,
+      "game_name": "Clash: Artifacts of Chaos",
+      "game_url": "https://ostdb.net/games/clash-artifacts-of-chaos",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c9077bf3a9b251c70de6998b",
+      "albums": [
+        {
+          "album_name": "Clash: Artifacts of Chaos (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7yIOZDictTDGwtx64oUBUy",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 189246,
       "game_name": "Cleared Hot",
       "game_url": "https://ostdb.net/games/cleared-hot",
@@ -5733,6 +5775,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/cloverpit-original-soundtrack-single/1842729435?uo=4",
           "album_link_url": "https://album.link/i/1842729435"
+        }
+      ]
+    },
+    {
+      "igdb_id": 163820,
+      "game_name": "Clunky Hero",
+      "game_url": "https://ostdb.net/games/clunky-hero",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273558a544b5cb31917ecd9cde2",
+      "albums": [
+        {
+          "album_name": "Clunky Hero (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4IZDOjL6sPqHLBYHVQxzQo",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -9629,6 +9685,20 @@
       ]
     },
     {
+      "igdb_id": 164654,
+      "game_name": "Elroy and the Aliens",
+      "game_url": "https://ostdb.net/games/elroy-and-the-aliens",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730de314a66af10872b3675854",
+      "albums": [
+        {
+          "album_name": "Elroy and the Aliens (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5B6I1aCOopaBywImX5ZglS",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 7512,
       "game_name": "Emperor: Rise of the Middle Kingdom",
       "game_url": "https://ostdb.net/games/emperor-rise-of-the-middle-kingdom",
@@ -11253,6 +11323,20 @@
       ]
     },
     {
+      "igdb_id": 191756,
+      "game_name": "Final Vendetta",
+      "game_url": "https://ostdb.net/games/final-vendetta",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a59d9178555c81f5b289362e",
+      "albums": [
+        {
+          "album_name": "Final Vendetta (Original Score)",
+          "spotify_url": "https://open.spotify.com/album/5rKw200w3JMHbgKF1R2NDA",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 266421,
       "game_name": "Finding Frankie",
       "game_url": "https://ostdb.net/games/finding-frankie",
@@ -11885,6 +11969,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/friday-the-13th-the-game-official-game-soundtrack/1440201796?uo=4",
           "album_link_url": "https://album.link/i/1440201796"
+        }
+      ]
+    },
+    {
+      "igdb_id": 157916,
+      "game_name": "From Space",
+      "game_url": "https://ostdb.net/games/from-space",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733521b6690ddda82154c79aef",
+      "albums": [
+        {
+          "album_name": "From Space (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5crRoFhJTCuhZbyLetqoPx",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -14927,6 +15025,20 @@
       ]
     },
     {
+      "igdb_id": 161510,
+      "game_name": "Hyperbolica",
+      "game_url": "https://ostdb.net/games/hyperbolica",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ee2ed610bbe42dc375b0b331",
+      "albums": [
+        {
+          "album_name": "Hyperbolica (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0SdfGXX6fbx9K71qvgVNQe",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 113360,
       "game_name": "Hytale",
       "game_url": "https://ostdb.net/games/hytale",
@@ -15445,6 +15557,20 @@
       ]
     },
     {
+      "igdb_id": 165318,
+      "game_name": "Into the Pit",
+      "game_url": "https://ostdb.net/games/into-the-pit",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fbde88c8e1b9da2d4d2735ef",
+      "albums": [
+        {
+          "album_name": "Into The Pit (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/49Ll5JcIr2QP8byxOY72Ob",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 115062,
       "game_name": "Into the Radius",
       "game_url": "https://ostdb.net/games/into-the-radius",
@@ -15629,6 +15755,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/is-this-seat-taken-original-game-soundtrack-ep/1830248552?uo=4",
           "album_link_url": "https://album.link/i/1830248552"
+        }
+      ]
+    },
+    {
+      "igdb_id": 167395,
+      "game_name": "Isle of Jura",
+      "game_url": "https://ostdb.net/games/isle-of-jura",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f94b1c947a4b1d407d189626",
+      "albums": [
+        {
+          "album_name": "Isle of Jura (Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5KLqXnQNwx5bEEsBLjPibQ",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -16447,6 +16587,20 @@
         {
           "album_name": "LAIKA: Aged Through Blood (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3dQQAi7HumuMD2TL3Ky7t4",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 152260,
+      "game_name": "Lakeburg Legacies",
+      "game_url": "https://ostdb.net/games/lakeburg-legacies",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735a236a292cb1d5488bcae99b",
+      "albums": [
+        {
+          "album_name": "Lakeburg Legacies (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/49tloLbb7MW0y3bNV3IPHH",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -17465,6 +17619,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/lost-in-random-the-eternal-die-official-soundtrack/1820923645?uo=4",
           "album_link_url": "https://album.link/i/1820923645"
+        }
+      ]
+    },
+    {
+      "igdb_id": 153416,
+      "game_name": "Lost Nova",
+      "game_url": "https://ostdb.net/games/lost-nova",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732ba7938ac5c11f6c8c32b9de",
+      "albums": [
+        {
+          "album_name": "Lost Nova (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0KFI3St1IESkJG8Jfuahji",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -24511,6 +24679,20 @@
       ]
     },
     {
+      "igdb_id": 187355,
+      "game_name": "Riichi City",
+      "game_url": "https://ostdb.net/games/riichi-city",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27325f38e5b549cbfb699fa34bf",
+      "albums": [
+        {
+          "album_name": "Riichi City (Original Game Soundtrack) [Vol.1 ~ Default]",
+          "spotify_url": "https://open.spotify.com/album/4Xl65ju48qZoAolgjThbB1",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 7621,
       "game_name": "RiME",
       "game_url": "https://ostdb.net/games/rime",
@@ -26959,6 +27141,20 @@
       ]
     },
     {
+      "igdb_id": 194950,
+      "game_name": "Solarpunk",
+      "game_url": "https://ostdb.net/games/solarpunk",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f97dbdc97e7474a98ebb02e9",
+      "albums": [
+        {
+          "album_name": "Solarpunk (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/38OlMc72UZJpi8TX4vl7i2",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 120170,
       "game_name": "Solasta: Crown of the Magister",
       "game_url": "https://ostdb.net/games/solasta-crown-of-the-magister",
@@ -28699,6 +28895,20 @@
           "spotify_url": "https://open.spotify.com/album/3qjsSdcrvlSS0HwJzjLQJE",
           "apple_music_url": "https://music.apple.com/us/album/streets-of-rage-official-game-soundtrack/1513110952",
           "album_link_url": "https://album.link/i/1513110952"
+        }
+      ]
+    },
+    {
+      "igdb_id": 198650,
+      "game_name": "Streets of Rage",
+      "game_url": "https://ostdb.net/games/streets-of-rage",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d62bbeeca24c14fd135dd49d",
+      "albums": [
+        {
+          "album_name": "Streets of Rage (Official Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3qjsSdcrvlSS0HwJzjLQJE",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -33859,6 +34069,20 @@
         {
           "album_name": "Unit 13 (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2KqWf43wfVkMZcOGCWgDhu",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 151593,
+      "game_name": "Universe for Sale",
+      "game_url": "https://ostdb.net/games/universe-for-sale",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273000ad3bb9d996f0e1457e358",
+      "albums": [
+        {
+          "album_name": "Universe for Sale (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7JnwPSaacTegGlGadwkwIv",
           "apple_music_url": "",
           "album_link_url": ""
         }
