@@ -3534,6 +3534,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Federation Booker | 62517 | [62517-federation-booker.json](./62517-federation-booker.json) |
 | Federation Quest 1: BSS Jane Seymour | 65210 | [65210-federation-quest-1-bss-jane-seymour.json](./65210-federation-quest-1-bss-jane-seymour.json) |
 | Federation77 | 149231 | [149231-federation77.json](./149231-federation77.json) |
+| Federico | 322465 | [322465-federico.json](./322465-federico.json) |
+| Federico Returns | 322468 | [322468-federico-returns.json](./322468-federico-returns.json) |
+| Federico y la Herencia | 322470 | [322470-federico-y-la-herencia.json](./322470-federico-y-la-herencia.json) |
 | Feditor | 390550 | [390550-feditor.json](./390550-feditor.json) |
 | Fedora Spade: Death Wears a Fedora | 72296 | [72296-fedora-spade-death-wears-a-fedora.json](./72296-fedora-spade-death-wears-a-fedora.json) |
 | Fedora Spade: Prologue | 57678 | [57678-fedora-spade-prologue.json](./57678-fedora-spade-prologue.json) |
@@ -4945,6 +4948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XIII-2: Requiem of the Goddess | 294213 | [294213-final-fantasy-xiii-2-requiem-of-the-goddess.json](./294213-final-fantasy-xiii-2-requiem-of-the-goddess.json) |
 | Final Fantasy XIII-2: Steelbook Edition | 41843 | [41843-final-fantasy-xiii-2-steelbook-edition.json](./41843-final-fantasy-xiii-2-steelbook-edition.json) |
 | Final Fantasy XIII: Limited Collector's Edition | 41840 | [41840-final-fantasy-xiii-limited-collectors-edition.json](./41840-final-fantasy-xiii-limited-collectors-edition.json) |
+| Final Fantasy XIV Mobile | 322502 | [322502-final-fantasy-xiv-mobile.json](./322502-final-fantasy-xiv-mobile.json) |
 | Final Fantasy XIV Online | 14729 | [14729-final-fantasy-xiv-online.json](./14729-final-fantasy-xiv-online.json) |
 | Final Fantasy XIV Online | 386 | [386-final-fantasy-xiv-online.json](./386-final-fantasy-xiv-online.json) |
 | Final Fantasy XIV Online: Complete Collector's Edition | 307776 | [307776-final-fantasy-xiv-online-complete-collectors-edition.json](./307776-final-fantasy-xiv-online-complete-collectors-edition.json) |
@@ -7240,6 +7244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flat Earth Simulator | 140965 | [140965-flat-earth-simulator.json](./140965-flat-earth-simulator.json) |
 | Flat Earths! | 121414 | [121414-flat-earths.json](./121414-flat-earths.json) |
 | Flat Fat Cat Bounce | 233537 | [233537-flat-fat-cat-bounce.json](./233537-flat-fat-cat-bounce.json) |
+| Flat Fat Fartfest | 322488 | [322488-flat-fat-fartfest.json](./322488-flat-fat-fartfest.json) |
 | Flat Form Fighter | 126939 | [126939-flat-form-fighter.json](./126939-flat-form-fighter.json) |
 | Flat Galaxy: An Idlemare | 387623 | [387623-flat-galaxy-an-idlemare.json](./387623-flat-galaxy-an-idlemare.json) |
 | Flat Heroes | 31898 | [31898-flat-heroes.json](./31898-flat-heroes.json) |
@@ -7825,6 +7830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flock Party | 250869 | [250869-flock-party.json](./250869-flock-party.json) |
 | Flock VR | 30108 | [30108-flock-vr.json](./30108-flock-vr.json) |
 | Flockers | 10324 | [10324-flockers.json](./10324-flockers.json) |
+| Flocking Hell | 322494 | [322494-flocking-hell.json](./322494-flocking-hell.json) |
 | Flockland Island Crisis | 286594 | [286594-flockland-island-crisis.json](./286594-flockland-island-crisis.json) |
 | Flockoban | 183399 | [183399-flockoban.json](./183399-flockoban.json) |
 | Flocks | 174193 | [174193-flocks.json](./174193-flocks.json) |
@@ -12180,6 +12186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline Grunt | 211516 | [211516-frontline-grunt.json](./211516-frontline-grunt.json) |
 | Frontline Heroes VR | 41914 | [41914-frontline-heroes-vr.json](./41914-frontline-heroes-vr.json) |
 | Frontline Heroes VR: 2017 Edition | 170878 | [170878-frontline-heroes-vr-2017-edition.json](./170878-frontline-heroes-vr-2017-edition.json) |
+| Frontline Inferno | 322501 | [322501-frontline-inferno.json](./322501-frontline-inferno.json) |
 | Frontline Logistics: Isarian Warfare | 362762 | [362762-frontline-logistics-isarian-warfare.json](./362762-frontline-logistics-isarian-warfare.json) |
 | Frontline Protocol | 352361 | [352361-frontline-protocol.json](./352361-frontline-protocol.json) |
 | Frontline Steel | 363921 | [363921-frontline-steel.json](./363921-frontline-steel.json) |
