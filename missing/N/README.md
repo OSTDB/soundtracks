@@ -1192,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazono-Jikenbo: Shinjuku Renzoku Quiz Jiken | 349506 | [349506-nazono-jikenbo-shinjuku-renzoku-quiz-jiken.json](./349506-nazono-jikenbo-shinjuku-renzoku-quiz-jiken.json) |
 | Nazono-Jikenbo: The Composer Murder Case. | 349510 | [349510-nazono-jikenbo-the-composer-murder-case.json](./349510-nazono-jikenbo-the-composer-murder-case.json) |
 | Nazoritas Addictive Puzzle | 206558 | [206558-nazoritas-addictive-puzzle.json](./206558-nazoritas-addictive-puzzle.json) |
+| Nazoritas Addictive Puzzle | 321245 | [321245-nazoritas-addictive-puzzle.json](./321245-nazoritas-addictive-puzzle.json) |
 | Nazotoki Battle Tore! Densetsu no Mamiya wo Fukkatsu Saseyo! | 221494 | [221494-nazotoki-battle-tore-densetsu-no-mamiya-wo-fukkatsu-saseyo.json](./221494-nazotoki-battle-tore-densetsu-no-mamiya-wo-fukkatsu-saseyo.json) |
 | Nazotoki IQ Quiz | 261372 | [261372-nazotoki-iq-quiz.json](./261372-nazotoki-iq-quiz.json) |
 | Nazotoki Mail | 218986 | [218986-nazotoki-mail.json](./218986-nazotoki-mail.json) |
