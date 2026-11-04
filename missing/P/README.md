@@ -4803,6 +4803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PetriDish.pw | 55793 | [55793-petridish-pw.json](./55793-petridish-pw.json) |
 | Petrifaction | 97825 | [97825-petrifaction.json](./97825-petrifaction.json) |
 | PetrifactionUnderRuin | 173993 | [173993-petrifactionunderruin.json](./173993-petrifactionunderruin.json) |
+| Petrifica | 336975 | [336975-petrifica.json](./336975-petrifica.json) |
 | Petrified Pawns | 318287 | [318287-petrified-pawns.json](./318287-petrified-pawns.json) |
 | Petrin | 273194 | [273194-petrin.json](./273194-petrin.json) |
 | Petris | 141595 | [141595-petris.json](./141595-petris.json) |
@@ -7718,6 +7719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Fish | 114342 | [114342-pixel-fish.json](./114342-pixel-fish.json) |
 | Pixel Fish | 310755 | [310755-pixel-fish.json](./310755-pixel-fish.json) |
 | Pixel Fixel | 289020 | [289020-pixel-fixel.json](./289020-pixel-fixel.json) |
+| Pixel Fixel: Remixel Edition | 336822 | [336822-pixel-fixel-remixel-edition.json](./336822-pixel-fixel-remixel-edition.json) |
 | Pixel Fixer | 161556 | [161556-pixel-fixer.json](./161556-pixel-fixer.json) |
 | Pixel Flip | 336703 | [336703-pixel-flip.json](./336703-pixel-flip.json) |
 | Pixel Flow! | 418252 | [418252-pixel-flow.json](./418252-pixel-flow.json) |
@@ -8482,6 +8484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Boy | 94182 | [94182-pizza-boy.json](./94182-pizza-boy.json) |
 | Pizza Break | 164307 | [164307-pizza-break.json](./164307-pizza-break.json) |
 | Pizza Break Head to Head | 164306 | [164306-pizza-break-head-to-head.json](./164306-pizza-break-head-to-head.json) |
+| Pizza Busters: The Final Task | 336981 | [336981-pizza-busters-the-final-task.json](./336981-pizza-busters-the-final-task.json) |
 | Pizza Chef | 40758 | [40758-pizza-chef.json](./40758-pizza-chef.json) |
 | Pizza City | 225591 | [225591-pizza-city.json](./225591-pizza-city.json) |
 | Pizza Clicker | 314244 | [314244-pizza-clicker.json](./314244-pizza-clicker.json) |
@@ -9421,6 +9424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playground Ball | 419063 | [419063-playground-ball.json](./419063-playground-ball.json) |
 | Playground Battle World | 83483 | [83483-playground-battle-world.json](./83483-playground-battle-world.json) |
 | Playground Heroes | 127586 | [127586-playground-heroes.json](./127586-playground-heroes.json) |
+| Playground Mayhem | 336838 | [336838-playground-mayhem.json](./336838-playground-mayhem.json) |
 | Playground VR | 143690 | [143690-playground-vr.json](./143690-playground-vr.json) |
 | PlayGuys | 320538 | [320538-playguys.json](./320538-playguys.json) |
 | Playhead | 195719 | [195719-playhead.json](./195719-playhead.json) |
@@ -15309,6 +15313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Lambda | 117291 | [117291-project-lambda.json](./117291-project-lambda.json) |
 | Project Landsword | 331140 | [331140-project-landsword.json](./331140-project-landsword.json) |
 | Project Lazarus | 205275 | [205275-project-lazarus.json](./205275-project-lazarus.json) |
+| Project Lazarus 2 | 336850 | [336850-project-lazarus-2.json](./336850-project-lazarus-2.json) |
 | Project Legion | 297189 | [297189-project-legion.json](./297189-project-legion.json) |
 | Project Legion | 61731 | [61731-project-legion.json](./61731-project-legion.json) |
 | Project Life is RPG | 250919 | [250919-project-life-is-rpg.json](./250919-project-life-is-rpg.json) |
@@ -16211,6 +16216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycard | 57554 | [57554-psycard.json](./57554-psycard.json) |
 | Psycastria | 13748 | [13748-psycastria.json](./13748-psycastria.json) |
 | Psych | 150012 | [150012-psych.json](./150012-psych.json) |
+| Psych | 336823 | [336823-psych.json](./336823-psych.json) |
 | Psych: The Game | 19312 | [19312-psych-the-game.json](./19312-psych-the-game.json) |
 | Psych! Outwit Your Friends | 88059 | [88059-psych-outwit-your-friends.json](./88059-psych-outwit-your-friends.json) |
 | Psychdive. | 366334 | [366334-psychdive.json](./366334-psychdive.json) |
