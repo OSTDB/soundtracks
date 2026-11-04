@@ -10923,6 +10923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokèmon Saffron Version | 401292 | [401292-pokemon-saffron-version.json](./401292-pokemon-saffron-version.json) |
 | Pokémon Sage | 250200 | [250200-pokemon-sage.json](./250200-pokemon-sage.json) |
 | Pokemon Saiph 2 | 272886 | [272886-pokemon-saiph-2.json](./272886-pokemon-saiph-2.json) |
+| Pokémon Sapphire Version | 342998 | [342998-pokemon-sapphire-version.json](./342998-pokemon-sapphire-version.json) |
 | Pokémon Sapphire Version | 355533 | [355533-pokemon-sapphire-version.json](./355533-pokemon-sapphire-version.json) |
 | Pokémon Scarlet | 191931 | [191931-pokemon-scarlet.json](./191931-pokemon-scarlet.json) |
 | Pokémon Scarlet + The Hidden Treasure of Area Zero | 240083 | [240083-pokemon-scarlet-the-hidden-treasure-of-area-zero.json](./240083-pokemon-scarlet-the-hidden-treasure-of-area-zero.json) |
