@@ -6453,6 +6453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revive | 186634 | [186634-revive.json](./186634-revive.json) |
 | Revive | 334183 | [334183-revive.json](./334183-revive.json) |
 | Revive & Repeat | 391731 | [391731-revive-and-repeat.json](./391731-revive-and-repeat.json) |
+| Revive of The Moon | 316003 | [316003-revive-of-the-moon.json](./316003-revive-of-the-moon.json) |
 | Revive The Town! | 353372 | [353372-revive-the-town.json](./353372-revive-the-town.json) |
 | Revive: C64 Classics | 84199 | [84199-revive-c64-classics.json](./84199-revive-c64-classics.json) |
 | Revive... Sosei | 94374 | [94374-revive-sosei.json](./94374-revive-sosei.json) |
