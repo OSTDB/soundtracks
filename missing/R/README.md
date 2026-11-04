@@ -3533,6 +3533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recore: Eye of Obsidian | 139396 | [139396-recore-eye-of-obsidian.json](./139396-recore-eye-of-obsidian.json) |
 | Recoup | 373182 | [373182-recoup.json](./373182-recoup.json) |
 | Recovering Stolen | 336683 | [336683-recovering-stolen.json](./336683-recovering-stolen.json) |
+| Recovery Dog | 345211 | [345211-recovery-dog.json](./345211-recovery-dog.json) |
 | Recovery Phrase | 320580 | [320580-recovery-phrase.json](./320580-recovery-phrase.json) |
 | Recovery Search and Rescue Simulation | 9412 | [9412-recovery-search-and-rescue-simulation.json](./9412-recovery-search-and-rescue-simulation.json) |
 | Recovery Syndicate | 235868 | [235868-recovery-syndicate.json](./235868-recovery-syndicate.json) |
@@ -7552,6 +7553,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Enigmas | 286780 | [286780-rise-of-enigmas.json](./286780-rise-of-enigmas.json) |
 | Rise of Erebus | 384472 | [384472-rise-of-erebus.json](./384472-rise-of-erebus.json) |
 | Rise of Eros | 218247 | [218247-rise-of-eros.json](./218247-rise-of-eros.json) |
+| Rise of Fati | 345213 | [345213-rise-of-fati.json](./345213-rise-of-fati.json) |
+| Rise of Fearless | 345218 | [345218-rise-of-fearless.json](./345218-rise-of-fearless.json) |
 | Rise of Flight United | 16573 | [16573-rise-of-flight-united.json](./16573-rise-of-flight-united.json) |
 | Rise of Flight United: Battle of Saint-Mihiel | 162751 | [162751-rise-of-flight-united-battle-of-saint-mihiel.json](./162751-rise-of-flight-united-battle-of-saint-mihiel.json) |
 | Rise of Flight United: Birth of Warbirds | 162750 | [162750-rise-of-flight-united-birth-of-warbirds.json](./162750-rise-of-flight-united-birth-of-warbirds.json) |
