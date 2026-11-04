@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yami no Ryuuou Hadesu no Monshou | 202322 | [202322-yami-no-ryuuou-hadesu-no-monshou.json](./202322-yami-no-ryuuou-hadesu-no-monshou.json) |
 | Yami-iro no Maju | 242070 | [242070-yami-iro-no-maju.json](./242070-yami-iro-no-maju.json) |
 | Yamigatari: For3st | 391021 | [391021-yamigatari-for3st.json](./391021-yamigatari-for3st.json) |
+| Yamikko Troublemaker | 332752 | [332752-yamikko-troublemaker.json](./332752-yamikko-troublemaker.json) |
 | Yamikore Ryousangata Yamika no Collection: Dokitto Mune Kyun Jiraikei Yandere Joshi Rennai Galge | 233930 | [233930-yamikore-ryousangata-yamika-no-collection-dokitto-mune-kyun-jiraikei-yandere-joshi-rennai-galge.json](./233930-yamikore-ryousangata-yamika-no-collection-dokitto-mune-kyun-jiraikei-yandere-joshi-rennai-galge.json) |
 | Yaminabe Aries: Asu e no Chousenjou | 57913 | [57913-yaminabe-aries-asu-e-no-chousenjou.json](./57913-yaminabe-aries-asu-e-no-chousenjou.json) |
 | Yamiyo ni Sasayaku: Tantei Sagara Kyouichirou | 215192 | [215192-yamiyo-ni-sasayaku-tantei-sagara-kyouichirou.json](./215192-yamiyo-ni-sasayaku-tantei-sagara-kyouichirou.json) |
