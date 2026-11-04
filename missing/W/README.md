@@ -7265,6 +7265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Gems | 90420 | [90420-word-gems.json](./90420-word-gems.json) |
 | Word Genius by curious.com | 104507 | [104507-word-genius-by-curious-com.json](./104507-word-genius-by-curious-com.json) |
 | Word Grid | 324645 | [324645-word-grid.json](./324645-word-grid.json) |
+| Word Guess | 300908 | [300908-word-guess.json](./300908-word-guess.json) |
 | Word Guru - Puzzle Word Game | 89233 | [89233-word-guru-puzzle-word-game.json](./89233-word-guru-puzzle-word-game.json) |
 | Word Harmony | 52130 | [52130-word-harmony.json](./52130-word-harmony.json) |
 | Word Home - Cat Puzzle Game | 108689 | [108689-word-home-cat-puzzle-game.json](./108689-word-home-cat-puzzle-game.json) |
