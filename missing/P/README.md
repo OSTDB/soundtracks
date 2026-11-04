@@ -11746,6 +11746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pombo Piorado 2 | 278869 | [278869-pombo-piorado-2.json](./278869-pombo-piorado-2.json) |
 | Pome Rumble | 299415 | [299415-pome-rumble.json](./299415-pome-rumble.json) |
 | Pome Rumble M | 299416 | [299416-pome-rumble-m.json](./299416-pome-rumble-m.json) |
+| Pomegranate Housing Complex | 346854 | [346854-pomegranate-housing-complex.json](./346854-pomegranate-housing-complex.json) |
 | Pomegranate Tea | 235667 | [235667-pomegranate-tea.json](./235667-pomegranate-tea.json) |
 | Pomelo & Friends: Sevilla | 373137 | [373137-pomelo-and-friends-sevilla.json](./373137-pomelo-and-friends-sevilla.json) |
 | Pomeraider | 316381 | [316381-pomeraider.json](./316381-pomeraider.json) |
@@ -12418,6 +12419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Fantasy | 257931 | [257931-portal-fantasy.json](./257931-portal-fantasy.json) |
 | Portal for the C64 | 203152 | [203152-portal-for-the-c64.json](./203152-portal-for-the-c64.json) |
 | Portal for TIC-80 | 349495 | [349495-portal-for-tic-80.json](./349495-portal-for-tic-80.json) |
+| Portal Foxes TD | 346894 | [346894-portal-foxes-td.json](./346894-portal-foxes-td.json) |
 | Portal Golf | 287361 | [287361-portal-golf.json](./287361-portal-golf.json) |
 | Portal Guardian | 389991 | [389991-portal-guardian.json](./389991-portal-guardian.json) |
 | Portal Guardians | 244622 | [244622-portal-guardians.json](./244622-portal-guardians.json) |
