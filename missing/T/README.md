@@ -4311,6 +4311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Memoria | 252345 | [252345-terra-memoria.json](./252345-terra-memoria.json) |
 | Terra Memoria: Deluxe Edition | 292926 | [292926-terra-memoria-deluxe-edition.json](./292926-terra-memoria-deluxe-edition.json) |
 | Terra Militaris | 66367 | [66367-terra-militaris.json](./66367-terra-militaris.json) |
+| Terra MineDiver | 340149 | [340149-terra-minediver.json](./340149-terra-minediver.json) |
 | Terra Monsters | 62951 | [62951-terra-monsters.json](./62951-terra-monsters.json) |
 | Terra Monsters 2: Land of Afer | 98190 | [98190-terra-monsters-2-land-of-afer.json](./98190-terra-monsters-2-land-of-afer.json) |
 | Terra Monsters 3 | 98189 | [98189-terra-monsters-3.json](./98189-terra-monsters-3.json) |
@@ -16301,6 +16302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sorrowvirus: A Faceless Short Story | 115716 | [115716-the-sorrowvirus-a-faceless-short-story.json](./115716-the-sorrowvirus-a-faceless-short-story.json) |
 | The Sorting Bureau | 397378 | [397378-the-sorting-bureau.json](./397378-the-sorting-bureau.json) |
 | The Soukou Kihei Gun Ground | 47837 | [47837-the-soukou-kihei-gun-ground.json](./47837-the-soukou-kihei-gun-ground.json) |
+| The Soul | 340283 | [340283-the-soul.json](./340283-the-soul.json) |
 | The Soul Box | 190135 | [190135-the-soul-box.json](./190135-the-soul-box.json) |
 | The Soul Box: Don Quixotes of Tomorrow | 250804 | [250804-the-soul-box-don-quixotes-of-tomorrow.json](./250804-the-soul-box-don-quixotes-of-tomorrow.json) |
 | The Soul Collector: Idle Game | 183887 | [183887-the-soul-collector-idle-game.json](./183887-the-soul-collector-idle-game.json) |
