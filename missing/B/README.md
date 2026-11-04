@@ -2745,6 +2745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barrimean Jungle | 75644 | [75644-barrimean-jungle.json](./75644-barrimean-jungle.json) |
 | Barro | 95668 | [95668-barro.json](./95668-barro.json) |
 | Barro 2020 | 123866 | [123866-barro-2020.json](./123866-barro-2020.json) |
+| Barro 2024 | 312800 | [312800-barro-2024.json](./312800-barro-2024.json) |
 | Barro 2026 | 411266 | [411266-barro-2026.json](./411266-barro-2026.json) |
 | Barro 22 | 181008 | [181008-barro-22.json](./181008-barro-22.json) |
 | Barro F | 130225 | [130225-barro-f.json](./130225-barro-f.json) |
@@ -15542,6 +15543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brothel Secrets | 280329 | [280329-brothel-secrets.json](./280329-brothel-secrets.json) |
 | Brothel Simulator | 237452 | [237452-brothel-simulator.json](./237452-brothel-simulator.json) |
 | Brothel Simulator II | 244605 | [244605-brothel-simulator-ii.json](./244605-brothel-simulator-ii.json) |
+| Brothel Tycoon | 312787 | [312787-brothel-tycoon.json](./312787-brothel-tycoon.json) |
 | BrothelManager | 18109 | [18109-brothelmanager.json](./18109-brothelmanager.json) |
 | Brother | 340545 | [340545-brother.json](./340545-brother.json) |
 | Brother & Sister | 116080 | [116080-brother-and-sister.json](./116080-brother-and-sister.json) |
