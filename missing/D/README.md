@@ -488,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daishougai Keiba: Exciting Jockey | 83139 | [83139-daishougai-keiba-exciting-jockey.json](./83139-daishougai-keiba-exciting-jockey.json) |
 | Daisia | 74739 | [74739-daisia.json](./74739-daisia.json) |
 | Daisu-Kiss | 65886 | [65886-daisu-kiss.json](./65886-daisu-kiss.json) |
+| Daisuki: The Her Adonis | 317466 | [317466-daisuki-the-her-adonis.json](./317466-daisuki-the-her-adonis.json) |
 | Daisy Chain | 104137 | [104137-daisy-chain.json](./104137-daisy-chain.json) |
 | Daisy Chain | 298311 | [298311-daisy-chain.json](./298311-daisy-chain.json) |
 | Daisy Flies to the Moon | 160237 | [160237-daisy-flies-to-the-moon.json](./160237-daisy-flies-to-the-moon.json) |
