@@ -4455,6 +4455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellsquad Rrrush! | 412078 | [412078-hellsquad-rrrush.json](./412078-hellsquad-rrrush.json) |
 | Hellstar | 182647 | [182647-hellstar.json](./182647-hellstar.json) |
 | HellStar Squadron | 97112 | [97112-hellstar-squadron.json](./97112-hellstar-squadron.json) |
+| Hellstrom: Reign | 323493 | [323493-hellstrom-reign.json](./323493-hellstrom-reign.json) |
 | Hellstuck: Rage With Your Friends | 200712 | [200712-hellstuck-rage-with-your-friends.json](./200712-hellstuck-rage-with-your-friends.json) |
 | Helltaker | 133152 | [133152-helltaker.json](./133152-helltaker.json) |
 | Helltaker: Examtaker | 174192 | [174192-helltaker-examtaker.json](./174192-helltaker-examtaker.json) |
@@ -12032,6 +12033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Train Corporation | 102194 | [102194-hyper-train-corporation.json](./102194-hyper-train-corporation.json) |
 | Hyper Treasure: Macaronic Labyrinth | 174106 | [174106-hyper-treasure-macaronic-labyrinth.json](./174106-hyper-treasure-macaronic-labyrinth.json) |
 | Hyper Treasure: The Legend of Macaron | 151653 | [151653-hyper-treasure-the-legend-of-macaron.json](./151653-hyper-treasure-the-legend-of-macaron.json) |
+| Hyper Tunnel | 323486 | [323486-hyper-tunnel.json](./323486-hyper-tunnel.json) |
 | Hyper Turbo Boost | 292153 | [292153-hyper-turbo-boost.json](./292153-hyper-turbo-boost.json) |
 | Hyper Ultra Astronautics | 116664 | [116664-hyper-ultra-astronautics.json](./116664-hyper-ultra-astronautics.json) |
 | Hyper Universe | 54817 | [54817-hyper-universe.json](./54817-hyper-universe.json) |
