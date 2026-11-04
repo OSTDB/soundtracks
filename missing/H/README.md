@@ -4547,6 +4547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helter Skelter | 69490 | [69490-helter-skelter.json](./69490-helter-skelter.json) |
 | Heltons Haunted Hotel | 148371 | [148371-heltons-haunted-hotel.json](./148371-heltons-haunted-hotel.json) |
 | Helvetii | 119673 | [119673-helvetii.json](./119673-helvetii.json) |
+| Helward: A Tanuki Story | 313927 | [313927-helward-a-tanuki-story.json](./313927-helward-a-tanuki-story.json) |
 | Helwyr | 148551 | [148551-helwyr.json](./148551-helwyr.json) |
 | Helyana | 387385 | [387385-helyana.json](./387385-helyana.json) |
 | Hemera | 345658 | [345658-hemera.json](./345658-hemera.json) |
