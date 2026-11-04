@@ -2694,6 +2694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Dreams | 229716 | [229716-dawn-of-dreams.json](./229716-dawn-of-dreams.json) |
 | Dawn of Dynasty | 163439 | [163439-dawn-of-dynasty.json](./163439-dawn-of-dynasty.json) |
 | Dawn of Eternity | 271064 | [271064-dawn-of-eternity.json](./271064-dawn-of-eternity.json) |
+| Dawn of Fear | 321242 | [321242-dawn-of-fear.json](./321242-dawn-of-fear.json) |
 | Dawn of Gray | 288791 | [288791-dawn-of-gray.json](./288791-dawn-of-gray.json) |
 | Dawn of Griseo | 236336 | [236336-dawn-of-griseo.json](./236336-dawn-of-griseo.json) |
 | Dawn of H'btakh | 46476 | [46476-dawn-of-hbtakh.json](./46476-dawn-of-hbtakh.json) |
@@ -6024,6 +6025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delve Survivors | 351789 | [351789-delve-survivors.json](./351789-delve-survivors.json) |
 | Delve! Die! Repeat! | 423301 | [423301-delve-die-repeat.json](./423301-delve-die-repeat.json) |
 | Delveborn | 364046 | [364046-delveborn.json](./364046-delveborn.json) |
+| Delved | 321108 | [321108-delved.json](./321108-delved.json) |
 | Delvedown | 184223 | [184223-delvedown.json](./184223-delvedown.json) |
 | Delven | 250357 | [250357-delven.json](./250357-delven.json) |
 | Delver | 3236 | [3236-delver.json](./3236-delver.json) |
