@@ -6282,6 +6282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice in CyberCity | 118594 | [118594-alice-in-cybercity.json](./118594-alice-in-cybercity.json) |
 | Alice in Cyberland | 69003 | [69003-alice-in-cyberland.json](./69003-alice-in-cyberland.json) |
 | Alice in Dinerland | 257962 | [257962-alice-in-dinerland.json](./257962-alice-in-dinerland.json) |
+| Alice in Disguise | 347463 | [347463-alice-in-disguise.json](./347463-alice-in-disguise.json) |
 | Alice in Dreamland | 240733 | [240733-alice-in-dreamland.json](./240733-alice-in-dreamland.json) |
 | Alice in Maniacland | 316479 | [316479-alice-in-maniacland.json](./316479-alice-in-maniacland.json) |
 | Alice in Maze | 82573 | [82573-alice-in-maze.json](./82573-alice-in-maze.json) |
@@ -6507,6 +6508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Epidemic | 351744 | [351744-alien-epidemic.json](./351744-alien-epidemic.json) |
 | Alien Escape RPG: Idle Spider | 221336 | [221336-alien-escape-rpg-idle-spider.json](./221336-alien-escape-rpg-idle-spider.json) |
 | Alien Evaders | 94052 | [94052-alien-evaders.json](./94052-alien-evaders.json) |
+| Alien Evolution | 347457 | [347457-alien-evolution.json](./347457-alien-evolution.json) |
 | Alien Express | 416573 | [416573-alien-express.json](./416573-alien-express.json) |
 | Alien Extraction | 195691 | [195691-alien-extraction.json](./195691-alien-extraction.json) |
 | Alien Field | 113179 | [113179-alien-field.json](./113179-alien-field.json) |
@@ -6877,6 +6879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All @ Once | 201651 | [201651-all-once.json](./201651-all-once.json) |
 | All 9 Lives | 408271 | [408271-all-9-lives.json](./408271-all-9-lives.json) |
 | All Aboard! The Train Defense Express | 337454 | [337454-all-aboard-the-train-defense-express.json](./337454-all-aboard-the-train-defense-express.json) |
+| All Aboard! The Twilight Train | 347434 | [347434-all-aboard-the-twilight-train.json](./347434-all-aboard-the-twilight-train.json) |
 | All Aboard!: The Microgauge Train Set | 15202 | [15202-all-aboard-the-microgauge-train-set.json](./15202-all-aboard-the-microgauge-train-set.json) |
 | All About America | 14245 | [14245-all-about-america.json](./14245-all-about-america.json) |
 | All About Maze | 326237 | [326237-all-about-maze.json](./326237-all-about-maze.json) |
@@ -12324,6 +12327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane | 31163 | [31163-arcane.json](./31163-arcane.json) |
 | Arcane Afterfall | 328902 | [328902-arcane-afterfall.json](./328902-arcane-afterfall.json) |
 | Arcane Angler | 400238 | [400238-arcane-angler.json](./400238-arcane-angler.json) |
+| Arcane Archer | 347429 | [347429-arcane-archer.json](./347429-arcane-archer.json) |
 | Arcane Arena | 263102 | [263102-arcane-arena.json](./263102-arcane-arena.json) |
 | Arcane Array Arena | 296524 | [296524-arcane-array-arena.json](./296524-arcane-array-arena.json) |
 | Arcane Arts Academy | 150269 | [150269-arcane-arts-academy.json](./150269-arcane-arts-academy.json) |
@@ -15170,6 +15174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Guardians | 303188 | [303188-astral-guardians.json](./303188-astral-guardians.json) |
 | Astral Heroes | 32858 | [32858-astral-heroes.json](./32858-astral-heroes.json) |
 | Astral Hound VR | 338168 | [338168-astral-hound-vr.json](./338168-astral-hound-vr.json) |
+| Astral Lodge | 347459 | [347459-astral-lodge.json](./347459-astral-lodge.json) |
 | Astral Lords | 392083 | [392083-astral-lords.json](./392083-astral-lords.json) |
 | Astral Masters | 140983 | [140983-astral-masters.json](./140983-astral-masters.json) |
 | Astral Maze: Escape the Horror | 304677 | [304677-astral-maze-escape-the-horror.json](./304677-astral-maze-escape-the-horror.json) |
