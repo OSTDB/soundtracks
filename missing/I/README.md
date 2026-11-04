@@ -3715,6 +3715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5789,6 +5790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Is It Wrong to Try to Pick Up Girls in a Dungeon?: Battle Chronicle | 287107 | [287107-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-battle-chronicle.json](./287107-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-battle-chronicle.json) |
 | Is It Wrong To Try To Rescue Monster Girls From The Inquisition? | 247774 | [247774-is-it-wrong-to-try-to-rescue-monster-girls-from-the-inquisition.json](./247774-is-it-wrong-to-try-to-rescue-monster-girls-from-the-inquisition.json) |
 | Is It Wrong to Try to Shoot 'em Up Girls in a Dungeon? | 163130 | [163130-is-it-wrong-to-try-to-shoot-em-up-girls-in-a-dungeon.json](./163130-is-it-wrong-to-try-to-shoot-em-up-girls-in-a-dungeon.json) |
+| Is it Wrong to Want to be Locked up, Toyed with and Tortured by a Hot Guy? | 306898 | [306898-is-it-wrong-to-want-to-be-locked-up-toyed-with-and-tortured-by-a-hot-guy.json](./306898-is-it-wrong-to-want-to-be-locked-up-toyed-with-and-tortured-by-a-hot-guy.json) |
 | Is it you? | 188869 | [188869-is-it-you.json](./188869-is-it-you.json) |
 | Is It You? | 212569 | [212569-is-it-you.json](./212569-is-it-you.json) |
 | Is Land of Mysterious | 211973 | [211973-is-land-of-mysterious.json](./211973-is-land-of-mysterious.json) |
