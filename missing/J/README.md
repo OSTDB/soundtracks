@@ -1165,6 +1165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jesus Saves | 408017 | [408017-jesus-saves.json](./408017-jesus-saves.json) |
 | Jesus Simulator | 387742 | [387742-jesus-simulator.json](./387742-jesus-simulator.json) |
 | Jesus vs. Muhammad | 100530 | [100530-jesus-vs-muhammad.json](./100530-jesus-vs-muhammad.json) |
+| Jesús y Compañía | 323069 | [323069-jesus-y-compania.json](./323069-jesus-y-compania.json) |
 | JESUS: Kyoufu no Bio Monster | 48452 | [48452-jesus-kyoufu-no-bio-monster.json](./48452-jesus-kyoufu-no-bio-monster.json) |
 | Jet | 15087 | [15087-jet.json](./15087-jet.json) |
 | Jet & Sky | 215588 | [215588-jet-and-sky.json](./215588-jet-and-sky.json) |
@@ -2563,6 +2564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jongbou | 92298 | [92298-jongbou.json](./92298-jongbou.json) |
 | JongRo 3_Street | 283411 | [283411-jongro-3-street.json](./283411-jongro-3-street.json) |
 | Joninės | 273667 | [273667-jonines.json](./273667-jonines.json) |
+| Jonny and the Sweet Fragrance of Feces | 323073 | [323073-jonny-and-the-sweet-fragrance-of-feces.json](./323073-jonny-and-the-sweet-fragrance-of-feces.json) |
 | Jonny Jump | 116458 | [116458-jonny-jump.json](./116458-jonny-jump.json) |
 | Jonny Moseley: Mad Trix | 210006 | [210006-jonny-moseley-mad-trix.json](./210006-jonny-moseley-mad-trix.json) |
 | Jonny Moseley: Mad Trix | 49336 | [49336-jonny-moseley-mad-trix.json](./49336-jonny-moseley-mad-trix.json) |
