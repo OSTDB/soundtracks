@@ -604,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damion Shard: Ace Attorney | 302643 | [302643-damion-shard-ace-attorney.json](./302643-damion-shard-ace-attorney.json) |
 | Dämmerlicht | 29547 | [29547-dammerlicht.json](./29547-dammerlicht.json) |
 | Damn | 55616 | [55616-damn.json](./55616-damn.json) |
+| Damn Daniel Challenge | 332768 | [332768-damn-daniel-challenge.json](./332768-damn-daniel-challenge.json) |
 | Damn Daniel: Basket Game | 252818 | [252818-damn-daniel-basket-game.json](./252818-damn-daniel-basket-game.json) |
 | Damn Daniel: White Vans Adventure | 201236 | [201236-damn-daniel-white-vans-adventure.json](./201236-damn-daniel-white-vans-adventure.json) |
 | Damn Dog | 313198 | [313198-damn-dog.json](./313198-damn-dog.json) |
@@ -3056,6 +3057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: CH-47F | 324665 | [324665-dcs-world-ch-47f.json](./324665-dcs-world-ch-47f.json) |
 | DCS World: Cold War Germany by Ugra Media | 408114 | [408114-dcs-world-cold-war-germany-by-ugra-media.json](./408114-dcs-world-cold-war-germany-by-ugra-media.json) |
 | DCS World: Combined Arms | 156308 | [156308-dcs-world-combined-arms.json](./156308-dcs-world-combined-arms.json) |
+| DCS World: East Afghanistan | 332787 | [332787-dcs-world-east-afghanistan.json](./332787-dcs-world-east-afghanistan.json) |
 | DCS World: F-100D Super Sabre by Grinnelli Designs | 408113 | [408113-dcs-world-f-100d-super-sabre-by-grinnelli-designs.json](./408113-dcs-world-f-100d-super-sabre-by-grinnelli-designs.json) |
 | DCS World: F-14 Speed & Angels Campaign by Reflected Simulations | 325253 | [325253-dcs-world-f-14-speed-and-angels-campaign-by-reflected-simulations.json](./325253-dcs-world-f-14-speed-and-angels-campaign-by-reflected-simulations.json) |
 | DCS World: F-14A Fear the Bones Campaign | 162863 | [162863-dcs-world-f-14a-fear-the-bones-campaign.json](./162863-dcs-world-f-14a-fear-the-bones-campaign.json) |
@@ -5787,6 +5789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delila's Gift | 28740 | [28740-delilas-gift.json](./28740-delilas-gift.json) |
 | Delilah | 217340 | [217340-delilah.json](./217340-delilah.json) |
 | Delineation | 264724 | [264724-delineation.json](./264724-delineation.json) |
+| Delinquent Community | 332770 | [332770-delinquent-community.json](./332770-delinquent-community.json) |
 | Delinquent Girlfriend Is Made Into a Masochist Femswine by Disgusting Bad Friend | 98544 | [98544-delinquent-girlfriend-is-made-into-a-masochist-femswine-by-disgusting-bad-friend.json](./98544-delinquent-girlfriend-is-made-into-a-masochist-femswine-by-disgusting-bad-friend.json) |
 | Deliria | 202748 | [202748-deliria.json](./202748-deliria.json) |
 | Deliriant | 28731 | [28731-deliriant.json](./28731-deliriant.json) |
@@ -6189,6 +6192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Hunters | 332447 | [332447-demon-hunters.json](./332447-demon-hunters.json) |
 | Demon Hunting Diary | 296889 | [296889-demon-hunting-diary.json](./296889-demon-hunting-diary.json) |
 | Demon Huntress | 399625 | [399625-demon-huntress.json](./399625-demon-huntress.json) |
+| Demon Inc. | 332895 | [332895-demon-inc.json](./332895-demon-inc.json) |
 | Demon Invasion: Endless | 231588 | [231588-demon-invasion-endless.json](./231588-demon-invasion-endless.json) |
 | Demon Island | 298519 | [298519-demon-island.json](./298519-demon-island.json) |
 | Demon Island Massacre | 270178 | [270178-demon-island-massacre.json](./270178-demon-island-massacre.json) |
