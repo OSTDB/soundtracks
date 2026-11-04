@@ -4145,6 +4145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Winds Meet: Spring's Bliss | 388906 | [388906-where-winds-meet-springs-bliss.json](./388906-where-winds-meet-springs-bliss.json) |
 | Where Winds Meet: The Imperial Palace | 381243 | [381243-where-winds-meet-the-imperial-palace.json](./381243-where-winds-meet-the-imperial-palace.json) |
 | Where Winds Meet: Timeless Bonds | 382127 | [382127-where-winds-meet-timeless-bonds.json](./382127-where-winds-meet-timeless-bonds.json) |
+| Where Winter Crows Go | 300036 | [300036-where-winter-crows-go.json](./300036-where-winter-crows-go.json) |
 | Where's Ami Do | 362741 | [362741-wheres-ami-do.json](./362741-wheres-ami-do.json) |
 | Where's an Egg? | 135870 | [135870-wheres-an-egg.json](./135870-wheres-an-egg.json) |
 | Where's Baby | 107932 | [107932-wheres-baby.json](./107932-wheres-baby.json) |
@@ -8932,6 +8933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wubble Bubbles | 94975 | [94975-wubble-bubbles.json](./94975-wubble-bubbles.json) |
 | Wubbo: PuterPal | 390687 | [390687-wubbo-puterpal.json](./390687-wubbo-puterpal.json) |
 | Wubbzy's Amazing Adventure | 154780 | [154780-wubbzys-amazing-adventure.json](./154780-wubbzys-amazing-adventure.json) |
+| Wubbzy's Bilingual Treehouse Laptop | 299665 | [299665-wubbzys-bilingual-treehouse-laptop.json](./299665-wubbzys-bilingual-treehouse-laptop.json) |
 | Wudao | 284604 | [284604-wudao.json](./284604-wudao.json) |
 | Wufo | 228074 | [228074-wufo.json](./228074-wufo.json) |
 | Wúgòu zhī Liàn: Zhànfàng Yú Chūn zhī Huāhǎi | 403636 | [403636-wugou-zhi-lian-zhanfang-yu-chun-zhi-huahai.json](./403636-wugou-zhi-lian-zhanfang-yu-chun-zhi-huahai.json) |
