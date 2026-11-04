@@ -4285,6 +4285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Beyond | 90221 | [90221-life-beyond.json](./90221-life-beyond.json) |
 | Life Blood | 285538 | [285538-life-blood.json](./285538-life-blood.json) |
 | Life Bubble | 300870 | [300870-life-bubble.json](./300870-life-bubble.json) |
+| Life Bubble: Complete Edition | 300889 | [300889-life-bubble-complete-edition.json](./300889-life-bubble-complete-edition.json) |
 | Life Bubble: Gear Up Edition | 308806 | [308806-life-bubble-gear-up-edition.json](./308806-life-bubble-gear-up-edition.json) |
 | Life Bubble: Light Speed | 300936 | [300936-life-bubble-light-speed.json](./300936-life-bubble-light-speed.json) |
 | Life Bubble: Speed Up Edition | 320680 | [320680-life-bubble-speed-up-edition.json](./320680-life-bubble-speed-up-edition.json) |
