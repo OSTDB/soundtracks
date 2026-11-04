@@ -1541,6 +1541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Fire! | 25971 | [25971-under-fire.json](./25971-under-fire.json) |
 | Under Heaven or Hell | 375586 | [375586-under-heaven-or-hell.json](./375586-under-heaven-or-hell.json) |
 | Under His Eyes | 378428 | [378428-under-his-eyes.json](./378428-under-his-eyes.json) |
+| Under Ichigo Love me baby!!! in Tokyo Super Arena 2025 | 336314 | [336314-under-ichigo-love-me-baby-in-tokyo-super-arena-2025.json](./336314-under-ichigo-love-me-baby-in-tokyo-super-arena-2025.json) |
 | Under Iron Water | 192219 | [192219-under-iron-water.json](./192219-under-iron-water.json) |
 | Under Kingdom: Scam Centre Simulator | 346251 | [346251-under-kingdom-scam-centre-simulator.json](./346251-under-kingdom-scam-centre-simulator.json) |
 | Under Leaves | 28236 | [28236-under-leaves.json](./28236-under-leaves.json) |
