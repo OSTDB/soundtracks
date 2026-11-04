@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H-Isekai Loves | 164091 | [164091-h-isekai-loves.json](./164091-h-isekai-loves.json) |
 | H-Rescue | 227667 | [227667-h-rescue.json](./227667-h-rescue.json) |
 | H-Sniper: World War II | 173992 | [173992-h-sniper-world-war-ii.json](./173992-h-sniper-world-war-ii.json) |
+| H.A.D.E.S Zero | 346885 | [346885-h-a-d-e-s-zero.json](./346885-h-a-d-e-s-zero.json) |
 | H.A.R.V.E.S.T.E.R | 397586 | [397586-h-a-r-v-e-s-t-e-r.json](./397586-h-a-r-v-e-s-t-e-r.json) |
 | H.A.T.E.: Hostile All Terrain Encounter. | 72444 | [72444-h-a-t-e-hostile-all-terrain-encounter.json](./72444-h-a-t-e-hostile-all-terrain-encounter.json) |
 | H.A.V.E. Online | 137476 | [137476-h-a-v-e-online.json](./137476-h-a-v-e-online.json) |
@@ -787,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hallway Gunners | 363057 | [363057-hallway-gunners.json](./363057-hallway-gunners.json) |
 | Hallway of Adventures | 71713 | [71713-hallway-of-adventures.json](./71713-hallway-of-adventures.json) |
 | Hallway of Horrors | 319804 | [319804-hallway-of-horrors.json](./319804-hallway-of-horrors.json) |
+| Hallway Shot | 346895 | [346895-hallway-shot.json](./346895-hallway-shot.json) |
 | Hallways | 280421 | [280421-hallways.json](./280421-hallways.json) |
 | Hallways of Fear | 178812 | [178812-hallways-of-fear.json](./178812-hallways-of-fear.json) |
 | Halma | 102289 | [102289-halma.json](./102289-halma.json) |
@@ -8474,6 +8476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Cries | 125198 | [125198-hollow-cries.json](./125198-hollow-cries.json) |
 | Hollow Destiny | 151430 | [151430-hollow-destiny.json](./151430-hollow-destiny.json) |
 | Hollow Doll | 322060 | [322060-hollow-doll.json](./322060-hollow-doll.json) |
+| Hollow Drive | 346886 | [346886-hollow-drive.json](./346886-hollow-drive.json) |
 | Hollow Earth | 291689 | [291689-hollow-earth.json](./291689-hollow-earth.json) |
 | Hollow Faces | 388186 | [388186-hollow-faces.json](./388186-hollow-faces.json) |
 | Hollow Floor | 296617 | [296617-hollow-floor.json](./296617-hollow-floor.json) |
