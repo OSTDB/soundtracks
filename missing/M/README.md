@@ -11850,6 +11850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Caves & Cliffs - Part II | 222606 | [222606-minecraft-caves-and-cliffs-part-ii.json](./222606-minecraft-caves-and-cliffs-part-ii.json) |
 | Minecraft: Caves & Cliffs - Part II | 223159 | [223159-minecraft-caves-and-cliffs-part-ii.json](./223159-minecraft-caves-and-cliffs-part-ii.json) |
 | Minecraft: Chaos Cubed | 406874 | [406874-minecraft-chaos-cubed.json](./406874-minecraft-chaos-cubed.json) |
+| Minecraft: Chase the Skies | 336257 | [336257-minecraft-chase-the-skies.json](./336257-minecraft-chase-the-skies.json) |
 | Minecraft: China Edition | 129496 | [129496-minecraft-china-edition.json](./129496-minecraft-china-edition.json) |
 | Minecraft: Chinese Mythology Mash-up | 234679 | [234679-minecraft-chinese-mythology-mash-up.json](./234679-minecraft-chinese-mythology-mash-up.json) |
 | Minecraft: Classic Skin Pack 5 | 257344 | [257344-minecraft-classic-skin-pack-5.json](./257344-minecraft-classic-skin-pack-5.json) |
@@ -11874,6 +11875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Frostburn Update | 262158 | [262158-minecraft-frostburn-update.json](./262158-minecraft-frostburn-update.json) |
 | Minecraft: Frozen | 254125 | [254125-minecraft-frozen.json](./254125-minecraft-frozen.json) |
 | Minecraft: Godzilla | 285051 | [285051-minecraft-godzilla.json](./285051-minecraft-godzilla.json) |
+| Minecraft: Golem World | 336258 | [336258-minecraft-golem-world.json](./336258-minecraft-golem-world.json) |
 | Minecraft: Good Night's Sleep | 326994 | [326994-minecraft-good-nights-sleep.json](./326994-minecraft-good-nights-sleep.json) |
 | Minecraft: Halloween Mash-up | 234676 | [234676-minecraft-halloween-mash-up.json](./234676-minecraft-halloween-mash-up.json) |
 | Minecraft: Heat Wave Survival | 324712 | [324712-minecraft-heat-wave-survival.json](./324712-minecraft-heat-wave-survival.json) |
@@ -14885,6 +14887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly | 308609 | [308609-monopoly.json](./308609-monopoly.json) |
 | Monopoly | 335112 | [335112-monopoly.json](./335112-monopoly.json) |
 | Monopoly | 335884 | [335884-monopoly.json](./335884-monopoly.json) |
+| Monopoly | 336268 | [336268-monopoly.json](./336268-monopoly.json) |
 | Monopoly | 37740 | [37740-monopoly.json](./37740-monopoly.json) |
 | Monopoly | 71296 | [71296-monopoly.json](./71296-monopoly.json) |
 | Monopoly / Boggle / Yahtzee / Battleship | 82281 | [82281-monopoly-boggle-yahtzee-battleship.json](./82281-monopoly-boggle-yahtzee-battleship.json) |
