@@ -10513,6 +10513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clutch Hitter | 369246 | [369246-clutch-hitter.json](./369246-clutch-hitter.json) |
 | Clutch: The Drift Simulation | 338531 | [338531-clutch-the-drift-simulation.json](./338531-clutch-the-drift-simulation.json) |
 | Clutchball | 129409 | [129409-clutchball.json](./129409-clutchball.json) |
+| Clutter | 314534 | [314534-clutter.json](./314534-clutter.json) |
 | Clutter 1000 | 149844 | [149844-clutter-1000.json](./149844-clutter-1000.json) |
 | Clutter 12: It's About Time - Collector's Edition | 195433 | [195433-clutter-12-its-about-time-collectors-edition.json](./195433-clutter-12-its-about-time-collectors-edition.json) |
 | Clutter 14 | 322436 | [322436-clutter-14.json](./322436-clutter-14.json) |
@@ -13678,6 +13679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie & Bibi 3 | 39643 | [39643-cookie-and-bibi-3.json](./39643-cookie-and-bibi-3.json) |
 | Cookie Baker | 106361 | [106361-cookie-baker.json](./106361-cookie-baker.json) |
 | Cookie Bakery | 192049 | [192049-cookie-bakery.json](./192049-cookie-bakery.json) |
+| Cookie Breaker | 314205 | [314205-cookie-breaker.json](./314205-cookie-breaker.json) |
 | Cookie Cats | 103976 | [103976-cookie-cats.json](./103976-cookie-cats.json) |
 | Cookie Cats Blast | 103945 | [103945-cookie-cats-blast.json](./103945-cookie-cats-blast.json) |
 | Cookie Cats Pop | 95331 | [95331-cookie-cats-pop.json](./95331-cookie-cats-pop.json) |
@@ -16724,6 +16726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimes of Passion | 313795 | [313795-crimes-of-passion.json](./313795-crimes-of-passion.json) |
 | Crimes of Passion 3 | 323994 | [323994-crimes-of-passion-3.json](./323994-crimes-of-passion-3.json) |
 | Crimes of Passion II | 313796 | [313796-crimes-of-passion-ii.json](./313796-crimes-of-passion-ii.json) |
+| Crimes of Passion III | 314187 | [314187-crimes-of-passion-iii.json](./314187-crimes-of-passion-iii.json) |
 | Crimes of Passion: The Proposal | 313797 | [313797-crimes-of-passion-the-proposal.json](./313797-crimes-of-passion-the-proposal.json) |
 | Crimes of War | 21369 | [21369-crimes-of-war.json](./21369-crimes-of-war.json) |
 | Crimes: Open Cases | 299858 | [299858-crimes-open-cases.json](./299858-crimes-open-cases.json) |
@@ -19034,6 +19037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse: The Eye of Isis | 5796 | [5796-curse-the-eye-of-isis.json](./5796-curse-the-eye-of-isis.json) |
 | Curse: The First Knot | 400932 | [400932-curse-the-first-knot.json](./400932-curse-the-first-knot.json) |
 | Curseball | 205648 | [205648-curseball.json](./205648-curseball.json) |
+| Cursebane | 314533 | [314533-cursebane.json](./314533-cursebane.json) |
 | Cursebound | 187881 | [187881-cursebound.json](./187881-cursebound.json) |
 | Cursebound | 344411 | [344411-cursebound.json](./344411-cursebound.json) |
 | Cursebound | 380101 | [380101-cursebound.json](./380101-cursebound.json) |
