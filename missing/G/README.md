@@ -1417,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamecraft | 118424 | [118424-gamecraft.json](./118424-gamecraft.json) |
 | Gamecraft | 183202 | [183202-gamecraft.json](./183202-gamecraft.json) |
 | Gameday Live | 82066 | [82066-gameday-live.json](./82066-gameday-live.json) |
+| Gameday Mayhem!! | 332903 | [332903-gameday-mayhem.json](./332903-gameday-mayhem.json) |
 | Gamedec | 121531 | [121531-gamedec.json](./121531-gamedec.json) |
 | Gamedec: Dafne Bennet | 196148 | [196148-gamedec-dafne-bennet.json](./196148-gamedec-dafne-bennet.json) |
 | Gamedec: Definitive Edition | 219788 | [219788-gamedec-definitive-edition.json](./219788-gamedec-definitive-edition.json) |
@@ -7252,6 +7253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Governor of Poker | 10374 | [10374-governor-of-poker.json](./10374-governor-of-poker.json) |
 | Governor of Poker 3 | 33663 | [33663-governor-of-poker-3.json](./33663-governor-of-poker-3.json) |
 | Governor of the West | 292632 | [292632-governor-of-the-west.json](./292632-governor-of-the-west.json) |
+| Govnovoz | 332894 | [332894-govnovoz.json](./332894-govnovoz.json) |
 | Gowf: A Golf Adventure | 168601 | [168601-gowf-a-golf-adventure.json](./168601-gowf-a-golf-adventure.json) |
 | GoWings Safari | 30088 | [30088-gowings-safari.json](./30088-gowings-safari.json) |
 | Goya's Inferno | 345601 | [345601-goyas-inferno.json](./345601-goyas-inferno.json) |
@@ -7453,6 +7455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy Versus: Rising - Additional Character: Versusia | 332230 | [332230-granblue-fantasy-versus-rising-additional-character-versusia.json](./332230-granblue-fantasy-versus-rising-additional-character-versusia.json) |
 | Granblue Fantasy Versus: Rising - Additional Character: Vikala | 332231 | [332231-granblue-fantasy-versus-rising-additional-character-vikala.json](./332231-granblue-fantasy-versus-rising-additional-character-vikala.json) |
 | Granblue Fantasy Versus: Rising - Additional Character: Wilnas | 373630 | [373630-granblue-fantasy-versus-rising-additional-character-wilnas.json](./373630-granblue-fantasy-versus-rising-additional-character-wilnas.json) |
+| Granblue Fantasy Versus: Rising - Character Costume Knight's Finery (Lancelot) | 332771 | [332771-granblue-fantasy-versus-rising-character-costume-knights-finery-lancelot.json](./332771-granblue-fantasy-versus-rising-character-costume-knights-finery-lancelot.json) |
 | Granblue Fantasy Versus: Rising - Character Costume Lady Serenity (Katalina) | 332666 | [332666-granblue-fantasy-versus-rising-character-costume-lady-serenity-katalina.json](./332666-granblue-fantasy-versus-rising-character-costume-lady-serenity-katalina.json) |
 | Granblue Fantasy Versus: Rising - Character Costume Unadulterated Amour Belial | 373628 | [373628-granblue-fantasy-versus-rising-character-costume-unadulterated-amour-belial.json](./373628-granblue-fantasy-versus-rising-character-costume-unadulterated-amour-belial.json) |
 | Granblue Fantasy Versus: Rising - Character Costume: Sinborne Redeemer (Seox) | 379678 | [379678-granblue-fantasy-versus-rising-character-costume-sinborne-redeemer-seox.json](./379678-granblue-fantasy-versus-rising-character-costume-sinborne-redeemer-seox.json) |
