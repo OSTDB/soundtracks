@@ -222,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sable Maze: Twelve Fears - Collector's Edition | 110347 | [110347-sable-maze-twelve-fears-collectors-edition.json](./110347-sable-maze-twelve-fears-collectors-edition.json) |
 | Sable Maze: Twelve Fears HD - A Mystery Hidden Object Game | 88598 | [88598-sable-maze-twelve-fears-hd-a-mystery-hidden-object-game.json](./88598-sable-maze-twelve-fears-hd-a-mystery-hidden-object-game.json) |
 | Sable's Grimoire | 87770 | [87770-sables-grimoire.json](./87770-sables-grimoire.json) |
+| Sable's Grimoire 2 | 347443 | [347443-sables-grimoire-2.json](./347443-sables-grimoire-2.json) |
 | Sable's Grimoire: A Dragon's Treasure | 129724 | [129724-sables-grimoire-a-dragons-treasure.json](./129724-sables-grimoire-a-dragons-treasure.json) |
 | Sable's Grimoire: Man and Elf | 129725 | [129725-sables-grimoire-man-and-elf.json](./129725-sables-grimoire-man-and-elf.json) |
 | Saborus | 273995 | [273995-saborus.json](./273995-saborus.json) |
@@ -2553,6 +2554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarecrow vs. Big Butt Birds | 296389 | [296389-scarecrow-vs-big-butt-birds.json](./296389-scarecrow-vs-big-butt-birds.json) |
 | Scarecrow: Heart of Straw | 408146 | [408146-scarecrow-heart-of-straw.json](./408146-scarecrow-heart-of-straw.json) |
 | Scarecrows of Illyria | 211758 | [211758-scarecrows-of-illyria.json](./211758-scarecrows-of-illyria.json) |
+| Scared by Squares | 347460 | [347460-scared-by-squares.json](./347460-scared-by-squares.json) |
 | Scared Little Ghost | 253869 | [253869-scared-little-ghost.json](./253869-scared-little-ghost.json) |
 | Scared of Zombies | 371860 | [371860-scared-of-zombies.json](./371860-scared-of-zombies.json) |
 | Scared Puppies | 423909 | [423909-scared-puppies.json](./423909-scared-puppies.json) |
@@ -9102,6 +9104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Show Me the Way | 113517 | [113517-show-me-the-way.json](./113517-show-me-the-way.json) |
 | Show Me What You Got | 97178 | [97178-show-me-what-you-got.json](./97178-show-me-what-you-got.json) |
 | Show Must Go On | 29241 | [29241-show-must-go-on.json](./29241-show-must-go-on.json) |
+| Show Quiz | 347573 | [347573-show-quiz.json](./347573-show-quiz.json) |
 | Show Yourself | 350372 | [350372-show-yourself.json](./350372-show-yourself.json) |
 | Showa American Story | 186613 | [186613-showa-american-story.json](./186613-showa-american-story.json) |
 | Showa Candy Shop | 153669 | [153669-showa-candy-shop.json](./153669-showa-candy-shop.json) |
@@ -14339,11 +14342,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakes with Fists! | 343271 | [343271-snakes-with-fists.json](./343271-snakes-with-fists.json) |
 | SnakEscape | 34278 | [34278-snakescape.json](./34278-snakescape.json) |
 | SnakeScout | 102675 | [102675-snakescout.json](./102675-snakescout.json) |
+| Snakespell | 347445 | [347445-snakespell.json](./347445-snakespell.json) |
 | Snakest | 109773 | [109773-snakest.json](./109773-snakest.json) |
 | SnakeTris | 291164 | [291164-snaketris.json](./291164-snaketris.json) |
 | Snaketris: Rescue 'em all | 276614 | [276614-snaketris-rescue-em-all.json](./276614-snaketris-rescue-em-all.json) |
 | Snaketroidvania | 182128 | [182128-snaketroidvania.json](./182128-snaketroidvania.json) |
 | SnakeVib | 340804 | [340804-snakevib.json](./340804-snakevib.json) |
+| Snakewitch | 347441 | [347441-snakewitch.json](./347441-snakewitch.json) |
 | Snakey | 92901 | [92901-snakey.json](./92901-snakey.json) |
 | Snakky | 372423 | [372423-snakky.json](./372423-snakky.json) |
 | Snaky Cat | 337093 | [337093-snaky-cat.json](./337093-snaky-cat.json) |
@@ -14498,6 +14503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snezhinka: Sentinel Girls 2 | 284892 | [284892-snezhinka-sentinel-girls-2.json](./284892-snezhinka-sentinel-girls-2.json) |
 | Snezhnaja Koroleva | 197956 | [197956-snezhnaja-koroleva.json](./197956-snezhnaja-koroleva.json) |
 | Sniffers | 114709 | [114709-sniffers.json](./114709-sniffers.json) |
+| Sniffin for Bones | 347469 | [347469-sniffin-for-bones.json](./347469-sniffin-for-bones.json) |
 | Snik | 34795 | [34795-snik.json](./34795-snik.json) |
 | Sniks | 121518 | [121518-sniks.json](./121518-sniks.json) |
 | Snip It! | 292247 | [292247-snip-it.json](./292247-snip-it.json) |
@@ -15401,6 +15407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Softporn II | 119281 | [119281-softporn-ii.json](./119281-softporn-ii.json) |
 | Softris | 221360 | [221360-softris.json](./221360-softris.json) |
 | Softstar Games Bundle | 231783 | [231783-softstar-games-bundle.json](./231783-softstar-games-bundle.json) |
+| Software CEO | 347464 | [347464-software-ceo.json](./347464-software-ceo.json) |
 | Software Company | 190355 | [190355-software-company.json](./190355-software-company.json) |
 | Software House Simulator | 149728 | [149728-software-house-simulator.json](./149728-software-house-simulator.json) |
 | Software Inc. | 35463 | [35463-software-inc.json](./35463-software-inc.json) |
@@ -23757,6 +23764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Zone | 107033 | [107033-star-zone.json](./107033-star-zone.json) |
 | Star-blaze | 15377 | [15377-star-blaze.json](./15377-star-blaze.json) |
 | Star-Box: RPG Adventures in Space! | 35555 | [35555-star-box-rpg-adventures-in-space.json](./35555-star-box-rpg-adventures-in-space.json) |
+| Star-Coat | 347468 | [347468-star-coat.json](./347468-star-coat.json) |
 | Star-Crossed Myth | 238897 | [238897-star-crossed-myth.json](./238897-star-crossed-myth.json) |
 | Star-Crossed Myth: The Department of Punishments | 123451 | [123451-star-crossed-myth-the-department-of-punishments.json](./123451-star-crossed-myth-the-department-of-punishments.json) |
 | Star-Crossed Myth: The Department of Punishments - Constellations of Love: Dui | 238070 | [238070-star-crossed-myth-the-department-of-punishments-constellations-of-love-dui.json](./238070-star-crossed-myth-the-department-of-punishments-constellations-of-love-dui.json) |
