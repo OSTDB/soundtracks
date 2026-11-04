@@ -4889,6 +4889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wil | 96844 | [96844-wil.json](./96844-wil.json) |
 | Wilberforce: The Sorcerer's Apprentice | 73201 | [73201-wilberforce-the-sorcerers-apprentice.json](./73201-wilberforce-the-sorcerers-apprentice.json) |
 | Wilbur Scoville’s 151st Birthday | 375817 | [375817-wilbur-scoville-s-151st-birthday.json](./375817-wilbur-scoville-s-151st-birthday.json) |
+| Wilbur Soot's Incelbur | 329306 | [329306-wilbur-soots-incelbur.json](./329306-wilbur-soots-incelbur.json) |
 | Wilbur's Quest | 152659 | [152659-wilburs-quest.json](./152659-wilburs-quest.json) |
 | Wilco Quiz | 414279 | [414279-wilco-quiz.json](./414279-wilco-quiz.json) |
 | Wild | 242115 | [242115-wild.json](./242115-wild.json) |
