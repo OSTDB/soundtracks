@@ -6545,6 +6545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry: The Five Ordeals | 151699 | [151699-wizardry-the-five-ordeals.json](./151699-wizardry-the-five-ordeals.json) |
 | Wizardry: The Five Ordeals - Scenario "Prisoners of the Battles" | 242525 | [242525-wizardry-the-five-ordeals-scenario-prisoners-of-the-battles.json](./242525-wizardry-the-five-ordeals-scenario-prisoners-of-the-battles.json) |
 | Wizardry: The Five Ordeals - The Absence of Misericordia | 250240 | [250240-wizardry-the-five-ordeals-the-absence-of-misericordia.json](./250240-wizardry-the-five-ordeals-the-absence-of-misericordia.json) |
+| Wizardry: The Five Ordeals Triple Pack | 330445 | [330445-wizardry-the-five-ordeals-triple-pack.json](./330445-wizardry-the-five-ordeals-triple-pack.json) |
 | Wizardry: The Return of Werdna - The Fourth Scenario | 2885 | [2885-wizardry-the-return-of-werdna-the-fourth-scenario.json](./2885-wizardry-the-return-of-werdna-the-fourth-scenario.json) |
 | Wizards | 129046 | [129046-wizards.json](./129046-wizards.json) |
 | Wizards | 131444 | [131444-wizards.json](./131444-wizards.json) |
