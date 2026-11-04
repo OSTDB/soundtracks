@@ -1353,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Store Chronicle | 359047 | [359047-game-store-chronicle.json](./359047-game-store-chronicle.json) |
 | Game Store Simulator | 266999 | [266999-game-store-simulator.json](./266999-game-store-simulator.json) |
 | Game Store Simulator | 346695 | [346695-game-store-simulator.json](./346695-game-store-simulator.json) |
+| Game Studies | 311959 | [311959-game-studies.json](./311959-game-studies.json) |
 | Game Studio Simulator | 115594 | [115594-game-studio-simulator.json](./115594-game-studio-simulator.json) |
 | Game Studio Tycoon 3 | 102628 | [102628-game-studio-tycoon-3.json](./102628-game-studio-tycoon-3.json) |
 | Game Tech Simulator | 359153 | [359153-game-tech-simulator.json](./359153-game-tech-simulator.json) |
@@ -3228,6 +3229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Georgie-Yolkie | 323693 | [323693-georgie-yolkie.json](./323693-georgie-yolkie.json) |
 | Georgie-Yolkie 64: The Furry Tale | 343932 | [343932-georgie-yolkie-64-the-furry-tale.json](./343932-georgie-yolkie-64-the-furry-tale.json) |
 | Georifters | 114539 | [114539-georifters.json](./114539-georifters.json) |
+| GeoRunner | 311962 | [311962-georunner.json](./311962-georunner.json) |
 | GeoSafari | 85945 | [85945-geosafari.json](./85945-geosafari.json) |
 | GeoSafari: Animals | 79629 | [79629-geosafari-animals.json](./79629-geosafari-animals.json) |
 | GeoSpark | 67234 | [67234-geospark.json](./67234-geospark.json) |
