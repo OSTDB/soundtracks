@@ -5222,12 +5222,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Drone Flying Tour Geomdansan | 336426 | [336426-korean-drone-flying-tour-geomdansan.json](./336426-korean-drone-flying-tour-geomdansan.json) |
 | Korean Drone Flying Tour Geumsan-gun | 376222 | [376222-korean-drone-flying-tour-geumsan-gun.json](./376222-korean-drone-flying-tour-geumsan-gun.json) |
 | Korean Drone Flying Tour Gwangju-si | 349588 | [349588-korean-drone-flying-tour-gwangju-si.json](./349588-korean-drone-flying-tour-gwangju-si.json) |
+| Korean Drone Flying Tour Han River | 343539 | [343539-korean-drone-flying-tour-han-river.json](./343539-korean-drone-flying-tour-han-river.json) |
 | Korean Drone Flying Tour Hanam-City | 336427 | [336427-korean-drone-flying-tour-hanam-city.json](./336427-korean-drone-flying-tour-hanam-city.json) |
 | Korean Drone Flying Tour Hangang Park | 351220 | [351220-korean-drone-flying-tour-hangang-park.json](./351220-korean-drone-flying-tour-hangang-park.json) |
+| Korean Drone Flying Tour Hwado-myeon | 343540 | [343540-korean-drone-flying-tour-hwado-myeon.json](./343540-korean-drone-flying-tour-hwado-myeon.json) |
 | Korean Drone Flying Tour Icheon-si | 349587 | [349587-korean-drone-flying-tour-icheon-si.json](./349587-korean-drone-flying-tour-icheon-si.json) |
 | Korean Drone Flying Tour Ilsan Lake Park | 342420 | [342420-korean-drone-flying-tour-ilsan-lake-park.json](./342420-korean-drone-flying-tour-ilsan-lake-park.json) |
+| Korean Drone Flying Tour Jangbong-do | 343541 | [343541-korean-drone-flying-tour-jangbong-do.json](./343541-korean-drone-flying-tour-jangbong-do.json) |
 | Korean Drone Flying Tour Jeju Island-1 | 314872 | [314872-korean-drone-flying-tour-jeju-island-1.json](./314872-korean-drone-flying-tour-jeju-island-1.json) |
 | Korean Drone Flying Tour Jeju Island-2 | 317226 | [317226-korean-drone-flying-tour-jeju-island-2.json](./317226-korean-drone-flying-tour-jeju-island-2.json) |
+| Korean Drone Flying Tour Jinchon Beach | 343542 | [343542-korean-drone-flying-tour-jinchon-beach.json](./343542-korean-drone-flying-tour-jinchon-beach.json) |
 | Korean Drone Flying Tour Nakhwaam | 362180 | [362180-korean-drone-flying-tour-nakhwaam.json](./362180-korean-drone-flying-tour-nakhwaam.json) |
 | Korean Drone Flying Tour Namhan River | 342419 | [342419-korean-drone-flying-tour-namhan-river.json](./342419-korean-drone-flying-tour-namhan-river.json) |
 | Korean Drone Flying Tour Odong-do Dragon Cave | 358360 | [358360-korean-drone-flying-tour-odong-do-dragon-cave.json](./358360-korean-drone-flying-tour-odong-do-dragon-cave.json) |
@@ -5244,6 +5248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Drone Flying Tour Wanju-gun | 386193 | [386193-korean-drone-flying-tour-wanju-gun.json](./386193-korean-drone-flying-tour-wanju-gun.json) |
 | Korean Drone Flying Tour Wonsan-do | 362179 | [362179-korean-drone-flying-tour-wonsan-do.json](./362179-korean-drone-flying-tour-wonsan-do.json) |
 | Korean Drone Flying Tour Woryeongsan | 376223 | [376223-korean-drone-flying-tour-woryeongsan.json](./376223-korean-drone-flying-tour-woryeongsan.json) |
+| Korean Drone Flying Tour Yadal Dock | 343543 | [343543-korean-drone-flying-tour-yadal-dock.json](./343543-korean-drone-flying-tour-yadal-dock.json) |
 | Korean Drone Flying Tour Yangpyeong-gun | 349586 | [349586-korean-drone-flying-tour-yangpyeong-gun.json](./349586-korean-drone-flying-tour-yangpyeong-gun.json) |
 | Korean Drone Flying Tour Yumyeongsan | 342418 | [342418-korean-drone-flying-tour-yumyeongsan.json](./342418-korean-drone-flying-tour-yumyeongsan.json) |
 | Korean Flower Name Game | 231988 | [231988-korean-flower-name-game.json](./231988-korean-flower-name-game.json) |
