@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.O.V.E.R. | 401624 | [401624-r-o-v-e-r.json](./401624-r-o-v-e-r.json) |
 | R.override | 403832 | [403832-r-override.json](./403832-r-override.json) |
 | R.P.G | 234326 | [234326-r-p-g.json](./234326-r-p-g.json) |
+| R.R.S Cape | 301480 | [301480-r-r-s-cape.json](./301480-r-r-s-cape.json) |
 | R.T.O. Tales of the Dark Lands: Deluxe Edition | 157560 | [157560-r-t-o-tales-of-the-dark-lands-deluxe-edition.json](./157560-r-t-o-tales-of-the-dark-lands-deluxe-edition.json) |
 | R.U.B.Y. | 123878 | [123878-r-u-b-y.json](./123878-r-u-b-y.json) |
 | R.U.M.A | 30619 | [30619-r-u-m-a.json](./30619-r-u-m-a.json) |
