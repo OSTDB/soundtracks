@@ -5728,7 +5728,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -7727,6 +7726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Sudoku Plus | 59066 | [59066-mega-sudoku-plus.json](./59066-mega-sudoku-plus.json) |
 | Mega Sudoku: Binary & Suguru | 235258 | [235258-mega-sudoku-binary-and-suguru.json](./235258-mega-sudoku-binary-and-suguru.json) |
 | Mega Tetris 2000 | 125272 | [125272-mega-tetris-2000.json](./125272-mega-tetris-2000.json) |
+| Mega Tower Assault | 306908 | [306908-mega-tower-assault.json](./306908-mega-tower-assault.json) |
 | Mega Trons Survivors | 390051 | [390051-mega-trons-survivors.json](./390051-mega-trons-survivors.json) |
 | Mega Turrican | 85286 | [85286-mega-turrican.json](./85286-mega-turrican.json) |
 | Mega Twins | 12184 | [12184-mega-twins.json](./12184-mega-twins.json) |
@@ -16104,6 +16104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonchrome. | 382931 | [382931-moonchrome.json](./382931-moonchrome.json) |
 | MoonDigger | 83830 | [83830-moondigger.json](./83830-moondigger.json) |
 | Moondrop | 185019 | [185019-moondrop.json](./185019-moondrop.json) |
+| Moondrop Isle | 306861 | [306861-moondrop-isle.json](./306861-moondrop-isle.json) |
 | Moondusk Masquerade | 334499 | [334499-moondusk-masquerade.json](./334499-moondusk-masquerade.json) |
 | Moondust | 23208 | [23208-moondust.json](./23208-moondust.json) |
 | Moondust: Knuckles Tech Demos | 127835 | [127835-moondust-knuckles-tech-demos.json](./127835-moondust-knuckles-tech-demos.json) |
