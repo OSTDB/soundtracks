@@ -2652,6 +2652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend Sang 1 | 374264 | [374264-legend-sang-1.json](./374264-legend-sang-1.json) |
 | Legend Sang 5 | 339870 | [339870-legend-sang-5.json](./339870-legend-sang-5.json) |
 | Legend Square | 304513 | [304513-legend-square.json](./304513-legend-square.json) |
+| Legend vs. Legion | 348536 | [348536-legend-vs-legion.json](./348536-legend-vs-legion.json) |
 | Legend: Ashita he no Tsubasa | 334883 | [334883-legend-ashita-he-no-tsubasa.json](./334883-legend-ashita-he-no-tsubasa.json) |
 | Legend: Hand of God | 15793 | [15793-legend-hand-of-god.json](./15793-legend-hand-of-god.json) |
 | Legend: Legacy of the Dragons | 71187 | [71187-legend-legacy-of-the-dragons.json](./71187-legend-legacy-of-the-dragons.json) |
@@ -2847,6 +2848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legio | 91523 | [91523-legio.json](./91523-legio.json) |
 | Legion | 18839 | [18839-legion.json](./18839-legion.json) |
 | Legion | 319203 | [319203-legion.json](./319203-legion.json) |
+| Legion | 348510 | [348510-legion.json](./348510-legion.json) |
 | Legion Arena | 125179 | [125179-legion-arena.json](./125179-legion-arena.json) |
 | Legion Breaker | 404002 | [404002-legion-breaker.json](./404002-legion-breaker.json) |
 | Legion Defense | 327633 | [327633-legion-defense.json](./327633-legion-defense.json) |
@@ -7404,6 +7406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords & Knights | 323155 | [323155-lords-and-knights.json](./323155-lords-and-knights.json) |
 | Lords & Peasants | 20057 | [20057-lords-and-peasants.json](./20057-lords-and-peasants.json) |
 | Lords & Villeins: The Great Houses | 322627 | [322627-lords-and-villeins-the-great-houses.json](./322627-lords-and-villeins-the-great-houses.json) |
+| Lords and Legions | 348552 | [348552-lords-and-legions.json](./348552-lords-and-legions.json) |
 | Lords and Peasents | 220783 | [220783-lords-and-peasents.json](./220783-lords-and-peasents.json) |
 | Lords and Tactics | 247759 | [247759-lords-and-tactics.json](./247759-lords-and-tactics.json) |
 | Lords Mobile | 29009 | [29009-lords-mobile.json](./29009-lords-mobile.json) |
