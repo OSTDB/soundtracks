@@ -6539,6 +6539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Botanist | 130113 | [130113-the-botanist.json](./130113-the-botanist.json) |
 | The Botanist | 240970 | [240970-the-botanist.json](./240970-the-botanist.json) |
 | The Botanist | 26425 | [26425-the-botanist.json](./26425-the-botanist.json) |
+| The Bottle Boy | 332755 | [332755-the-bottle-boy.json](./332755-the-bottle-boy.json) |
 | The Bottle of the Heart | 371035 | [371035-the-bottle-of-the-heart.json](./371035-the-bottle-of-the-heart.json) |
 | The Bottom of the Sea | 397524 | [397524-the-bottom-of-the-sea.json](./397524-the-bottom-of-the-sea.json) |
 | The Bottom of the Well | 33370 | [33370-the-bottom-of-the-well.json](./33370-the-bottom-of-the-well.json) |
