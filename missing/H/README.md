@@ -1964,6 +1964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hareraiser II | 238889 | [238889-hareraiser-ii.json](./238889-hareraiser-ii.json) |
 | Hareraiser: Finale | 276008 | [276008-hareraiser-finale.json](./276008-hareraiser-finale.json) |
 | Hareshi Moyakana | 274989 | [274989-hareshi-moyakana.json](./274989-hareshi-moyakana.json) |
+| Harezora Monogatari Again! | 332781 | [332781-harezora-monogatari-again.json](./332781-harezora-monogatari-again.json) |
 | Hargrave | 132429 | [132429-hargrave.json](./132429-hargrave.json) |
 | Hariti | 406882 | [406882-hariti.json](./406882-hariti.json) |
 | Harker | 79127 | [79127-harker.json](./79127-harker.json) |
@@ -9629,6 +9630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Hotel Maids | 242437 | [242437-horny-hotel-maids.json](./242437-horny-hotel-maids.json) |
 | Horny Housewives | 276645 | [276645-horny-housewives.json](./276645-horny-housewives.json) |
 | Horny Housewives 2 | 340484 | [340484-horny-housewives-2.json](./340484-horny-housewives-2.json) |
+| Horny Kingdom: Cum Delivery | 332782 | [332782-horny-kingdom-cum-delivery.json](./332782-horny-kingdom-cum-delivery.json) |
 | Horny Massage Clinic | 411063 | [411063-horny-massage-clinic.json](./411063-horny-massage-clinic.json) |
 | Horny Pixels | 192541 | [192541-horny-pixels.json](./192541-horny-pixels.json) |
 | Horny Punishment | 212182 | [212182-horny-punishment.json](./212182-horny-punishment.json) |
