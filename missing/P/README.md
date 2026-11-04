@@ -5783,6 +5783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pickle Clicker | 212592 | [212592-pickle-clicker.json](./212592-pickle-clicker.json) |
 | Pickle Frickle | 211717 | [211717-pickle-frickle.json](./211717-pickle-frickle.json) |
 | Pickle Fun | 219110 | [219110-pickle-fun.json](./219110-pickle-fun.json) |
+| Pickle Invasion | 327542 | [327542-pickle-invasion.json](./327542-pickle-invasion.json) |
 | Pickle Panic | 371460 | [371460-pickle-panic.json](./371460-pickle-panic.json) |
 | Pickle Pete | 233719 | [233719-pickle-pete.json](./233719-pickle-pete.json) |
 | Pickle Pete: Survival RPG | 245378 | [245378-pickle-pete-survival-rpg.json](./245378-pickle-pete-survival-rpg.json) |
@@ -9586,6 +9587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Ignore The Anomalies | 412277 | [412277-please-ignore-the-anomalies.json](./412277-please-ignore-the-anomalies.json) |
 | Please Insert Disc | 298080 | [298080-please-insert-disc.json](./298080-please-insert-disc.json) |
 | Please Knock on My Door | 29064 | [29064-please-knock-on-my-door.json](./29064-please-knock-on-my-door.json) |
+| Please Knock: Before Entering My Room | 327552 | [327552-please-knock-before-entering-my-room.json](./327552-please-knock-before-entering-my-room.json) |
 | Please Leave a Message | 259577 | [259577-please-leave-a-message.json](./259577-please-leave-a-message.json) |
 | Please Leave Me Alone | 301948 | [301948-please-leave-me-alone.json](./301948-please-leave-me-alone.json) |
 | Please Leave Me Alone, I Need to Poop | 291187 | [291187-please-leave-me-alone-i-need-to-poop.json](./291187-please-leave-me-alone-i-need-to-poop.json) |
@@ -10589,6 +10591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Channel-e: Line Art Card - The Pikachu Star | 354532 | [354532-pokemon-channel-e-line-art-card-the-pikachu-star.json](./354532-pokemon-channel-e-line-art-card-the-pikachu-star.json) |
 | Pokémon Channel-e: Paint Pattern Card - Poké A La Card | 351674 | [351674-pokemon-channel-e-paint-pattern-card-poke-a-la-card.json](./351674-pokemon-channel-e-paint-pattern-card-poke-a-la-card.json) |
 | Pokémon Chaos Black | 222610 | [222610-pokemon-chaos-black.json](./222610-pokemon-chaos-black.json) |
+| Pokémon Chaos in Vesita | 327701 | [327701-pokemon-chaos-in-vesita.json](./327701-pokemon-chaos-in-vesita.json) |
 | Pokémon Chasm Crosser | 55011 | [55011-pokemon-chasm-crosser.json](./55011-pokemon-chasm-crosser.json) |
 | Pokémon Chess | 249112 | [249112-pokemon-chess.json](./249112-pokemon-chess.json) |
 | Pokemon Classic | 409748 | [409748-pokemon-classic.json](./409748-pokemon-classic.json) |
