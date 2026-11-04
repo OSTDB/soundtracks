@@ -839,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of the Wild: The Angler - Launch Edition | 264161 | [264161-call-of-the-wild-the-angler-launch-edition.json](./264161-call-of-the-wild-the-angler-launch-edition.json) |
 | Call of the Wild: The Angler - Norway Reserve | 231009 | [231009-call-of-the-wild-the-angler-norway-reserve.json](./231009-call-of-the-wild-the-angler-norway-reserve.json) |
 | Call of the Wild: The Angler - Reserve Pass | 276300 | [276300-call-of-the-wild-the-angler-reserve-pass.json](./276300-call-of-the-wild-the-angler-reserve-pass.json) |
+| Call of the Wild: The Angler - Silver Fishing Bundle | 301764 | [301764-call-of-the-wild-the-angler-silver-fishing-bundle.json](./301764-call-of-the-wild-the-angler-silver-fishing-bundle.json) |
 | Call of the Wild: The Angler - Ultimate Fishing Bundle | 301333 | [301333-call-of-the-wild-the-angler-ultimate-fishing-bundle.json](./301333-call-of-the-wild-the-angler-ultimate-fishing-bundle.json) |
 | Call of the Wild: The Angler - Winter Vehicle Cosmetics Pack | 366229 | [366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json](./366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json) |
 | Call of the Wild: The Angler – Spain Reserve | 272651 | [272651-call-of-the-wild-the-angler-spain-reserve.json](./272651-call-of-the-wild-the-angler-spain-reserve.json) |
@@ -2457,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardiac | 125765 | [125765-cardiac.json](./125765-cardiac.json) |
 | Cardiac Powder | 226294 | [226294-cardiac-powder.json](./226294-cardiac-powder.json) |
 | Cardiac Unrest | 157427 | [157427-cardiac-unrest.json](./157427-cardiac-unrest.json) |
+| Cardian | 302024 | [302024-cardian.json](./302024-cardian.json) |
 | Cardiff_Insane Letters | 125645 | [125645-cardiff-insane-letters.json](./125645-cardiff-insane-letters.json) |
 | Cardiganical | 107777 | [107777-cardiganical.json](./107777-cardiganical.json) |
 | Cardinal Arc: Konton no Fuusatsu | 43284 | [43284-cardinal-arc-konton-no-fuusatsu.json](./43284-cardinal-arc-konton-no-fuusatsu.json) |
@@ -4379,6 +4381,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catlateral Damage: VR | 170315 | [170315-catlateral-damage-vr.json](./170315-catlateral-damage-vr.json) |
 | Catlike Magic | 214116 | [214116-catlike-magic.json](./214116-catlike-magic.json) |
 | Catlists | 295614 | [295614-catlists.json](./295614-catlists.json) |
+| Catlists: Bright Accent Colors Pack | 302028 | [302028-catlists-bright-accent-colors-pack.json](./302028-catlists-bright-accent-colors-pack.json) |
+| Catlists: Dark Accent Colors Pack | 302027 | [302027-catlists-dark-accent-colors-pack.json](./302027-catlists-dark-accent-colors-pack.json) |
 | Catloaf 2600 | 93154 | [93154-catloaf-2600.json](./93154-catloaf-2600.json) |
 | Catloaf Kart Racing | 382564 | [382564-catloaf-kart-racing.json](./382564-catloaf-kart-racing.json) |
 | Catloons | 240204 | [240204-catloons.json](./240204-catloons.json) |
@@ -13722,6 +13726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cook OL | 288908 | [288908-cook-ol.json](./288908-cook-ol.json) |
 | Cook or Be Cooked | 361825 | [361825-cook-or-be-cooked.json](./361825-cook-or-be-cooked.json) |
 | Cook Out! | 250045 | [250045-cook-out.json](./250045-cook-out.json) |
+| Cook Saga | 302016 | [302016-cook-saga.json](./302016-cook-saga.json) |
 | Cook Serve Forever | 198021 | [198021-cook-serve-forever.json](./198021-cook-serve-forever.json) |
 | Cook to Zero | 415341 | [415341-cook-to-zero.json](./415341-cook-to-zero.json) |
 | Cook Wars | 50941 | [50941-cook-wars.json](./50941-cook-wars.json) |
