@@ -3962,6 +3962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Tennis: Wario | 247106 | [247106-mario-tennis-wario.json](./247106-mario-tennis-wario.json) |
 | Mario Tennis: Yoshi | 247105 | [247105-mario-tennis-yoshi.json](./247105-mario-tennis-yoshi.json) |
 | Mario the Juggler | 131952 | [131952-mario-the-juggler.json](./131952-mario-the-juggler.json) |
+| Mario the Mathematician | 318941 | [318941-mario-the-mathematician.json](./318941-mario-the-mathematician.json) |
 | Mario Trivia | 231601 | [231601-mario-trivia.json](./231601-mario-trivia.json) |
 | Mario Undoukai | 132029 | [132029-mario-undoukai.json](./132029-mario-undoukai.json) |
 | Mario vs. Airman | 219121 | [219121-mario-vs-airman.json](./219121-mario-vs-airman.json) |
@@ -4037,6 +4038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Point and Click 64 | 300267 | [300267-marios-point-and-click-64.json](./300267-marios-point-and-click-64.json) |
 | Mario's Pride: Mini Quest | 254516 | [254516-marios-pride-mini-quest.json](./254516-marios-pride-mini-quest.json) |
 | Mario's Rules: Variety on 3 | 323748 | [323748-marios-rules-variety-on-3.json](./323748-marios-rules-variety-on-3.json) |
+| Mario's Run | 318937 | [318937-marios-run.json](./318937-marios-run.json) |
 | Mario's Run | 320221 | [320221-marios-run.json](./320221-marios-run.json) |
 | Mario's Slightly Unusual Boss Rush | 318497 | [318497-marios-slightly-unusual-boss-rush.json](./318497-marios-slightly-unusual-boss-rush.json) |
 | Mario's Slightly Unusual Boss Rush: v2.0 Release | 381850 | [381850-marios-slightly-unusual-boss-rush-v2-0-release.json](./381850-marios-slightly-unusual-boss-rush-v2-0-release.json) |
@@ -5715,7 +5717,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -6110,6 +6111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazeskalation | 183767 | [183767-mazeskalation.json](./183767-mazeskalation.json) |
 | MazeSlug | 342788 | [342788-mazeslug.json](./342788-mazeslug.json) |
 | MazeTD | 384330 | [384330-mazetd.json](./384330-mazetd.json) |
+| Mazethingie | 318890 | [318890-mazethingie.json](./318890-mazethingie.json) |
 | Mazewar | 381593 | [381593-mazewar.json](./381593-mazewar.json) |
 | Mazey Village | 191032 | [191032-mazey-village.json](./191032-mazey-village.json) |
 | MazezaM Challenge | 134284 | [134284-mazezam-challenge.json](./134284-mazezam-challenge.json) |
@@ -6450,6 +6452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanic Heroes | 207565 | [207565-mechanic-heroes.json](./207565-mechanic-heroes.json) |
 | Mechanic Infantry | 61986 | [61986-mechanic-infantry.json](./61986-mechanic-infantry.json) |
 | Mechanic Legends | 314472 | [314472-mechanic-legends.json](./314472-mechanic-legends.json) |
+| Mechanic Man | 318900 | [318900-mechanic-man.json](./318900-mechanic-man.json) |
 | Mechanic Master | 23822 | [23822-mechanic-master.json](./23822-mechanic-master.json) |
 | Mechanic Master 2 | 47802 | [47802-mechanic-master-2.json](./47802-mechanic-master-2.json) |
 | Mechanic Mechanica | 210838 | [210838-mechanic-mechanica.json](./210838-mechanic-mechanica.json) |
@@ -8751,6 +8754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mental | 130347 | [130347-mental.json](./130347-mental.json) |
 | Mental Drift | 64643 | [64643-mental-drift.json](./64643-mental-drift.json) |
 | Mental Harm | 235751 | [235751-mental-harm.json](./235751-mental-harm.json) |
+| Mental Hellacious | 318895 | [318895-mental-hellacious.json](./318895-mental-hellacious.json) |
 | Mental Hero: Bipolar | 233392 | [233392-mental-hero-bipolar.json](./233392-mental-hero-bipolar.json) |
 | Mental Hospital II HD | 175302 | [175302-mental-hospital-ii-hd.json](./175302-mental-hospital-ii-hd.json) |
 | Mental Hospital III HD | 212783 | [212783-mental-hospital-iii-hd.json](./212783-mental-hospital-iii-hd.json) |
@@ -19341,6 +19345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Arcade | 371305 | [371305-my-arcade.json](./371305-my-arcade.json) |
 | My Arctic Farm | 85297 | [85297-my-arctic-farm.json](./85297-my-arctic-farm.json) |
 | My Arctic Farm 2018 | 114523 | [114523-my-arctic-farm-2018.json](./114523-my-arctic-farm-2018.json) |
+| My Arms Are Longer Now | 318887 | [318887-my-arms-are-longer-now.json](./318887-my-arms-are-longer-now.json) |
 | My Array is Too Sacred to Be Useful!? | 194595 | [194595-my-array-is-too-sacred-to-be-useful.json](./194595-my-array-is-too-sacred-to-be-useful.json) |
 | My Asian Farm | 85296 | [85296-my-asian-farm.json](./85296-my-asian-farm.json) |
 | My Assassin High School | 208284 | [208284-my-assassin-high-school.json](./208284-my-assassin-high-school.json) |
