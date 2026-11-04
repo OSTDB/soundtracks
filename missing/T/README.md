@@ -3081,6 +3081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tech Romancer | 227751 | [227751-tech-romancer.json](./227751-tech-romancer.json) |
 | Tech Romancer | 39313 | [39313-tech-romancer.json](./39313-tech-romancer.json) |
 | Tech Shop Simulator | 295762 | [295762-tech-shop-simulator.json](./295762-tech-shop-simulator.json) |
+| Tech Store Simulator | 310356 | [310356-tech-store-simulator.json](./310356-tech-store-simulator.json) |
 | Tech Support 2077 | 123957 | [123957-tech-support-2077.json](./123957-tech-support-2077.json) |
 | Tech Support: Error Unknown | 87975 | [87975-tech-support-error-unknown.json](./87975-tech-support-error-unknown.json) |
 | Tech vs Magic | 126480 | [126480-tech-vs-magic.json](./126480-tech-vs-magic.json) |
@@ -20252,6 +20253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ticket to Heart | 400185 | [400185-ticket-to-heart.json](./400185-ticket-to-heart.json) |
 | Ticket to Nowhere | 412807 | [412807-ticket-to-nowhere.json](./412807-ticket-to-nowhere.json) |
 | Ticket to Ride | 267278 | [267278-ticket-to-ride.json](./267278-ticket-to-ride.json) |
+| Ticket to Ride Deluxe Edition | 310363 | [310363-ticket-to-ride-deluxe-edition.json](./310363-ticket-to-ride-deluxe-edition.json) |
 | Ticket to Ride: Europe Expansion | 276595 | [276595-ticket-to-ride-europe-expansion.json](./276595-ticket-to-ride-europe-expansion.json) |
 | Ticket To Ride: First Class Pack | 292038 | [292038-ticket-to-ride-first-class-pack.json](./292038-ticket-to-ride-first-class-pack.json) |
 | Ticket to Ride: First Journey | 69654 | [69654-ticket-to-ride-first-journey.json](./69654-ticket-to-ride-first-journey.json) |
@@ -27126,6 +27128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 4: Berninalinie - Tirano: Ospizio Bernina Route | 286525 | [286525-train-sim-world-4-berninalinie-tirano-ospizio-bernina-route.json](./286525-train-sim-world-4-berninalinie-tirano-ospizio-bernina-route.json) |
 | Train Sim World 4: Blackpool Branches: Preston - Blackpool & Ormskirk Route Add-On | 279149 | [279149-train-sim-world-4-blackpool-branches-preston-blackpool-and-ormskirk-route-add-on.json](./279149-train-sim-world-4-blackpool-branches-preston-blackpool-and-ormskirk-route-add-on.json) |
 | Train Sim World 4: Cargo Line Vol. 1 - Petroleum | 280244 | [280244-train-sim-world-4-cargo-line-vol-1-petroleum.json](./280244-train-sim-world-4-cargo-line-vol-1-petroleum.json) |
+| Train Sim World 4: Cargo Line Vol. 2 - Aggregates | 310370 | [310370-train-sim-world-4-cargo-line-vol-2-aggregates.json](./310370-train-sim-world-4-cargo-line-vol-2-aggregates.json) |
 | Train Sim World 4: Edinburgh - Glasgow: Engineering Express Pack | 288920 | [288920-train-sim-world-4-edinburgh-glasgow-engineering-express-pack.json](./288920-train-sim-world-4-edinburgh-glasgow-engineering-express-pack.json) |
 | Train Sim World 4: Fife Circle Line - Edinburgh: Markinch via Dunfermline & Kirkcaldy Route | 290905 | [290905-train-sim-world-4-fife-circle-line-edinburgh-markinch-via-dunfermline-and-kirkcaldy-route.json](./290905-train-sim-world-4-fife-circle-line-edinburgh-markinch-via-dunfermline-and-kirkcaldy-route.json) |
 | Train Sim World 4: Flying Scotsman Centenary Edition | 274417 | [274417-train-sim-world-4-flying-scotsman-centenary-edition.json](./274417-train-sim-world-4-flying-scotsman-centenary-edition.json) |
@@ -27836,6 +27839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainee Death Simulator | 319810 | [319810-trainee-death-simulator.json](./319810-trainee-death-simulator.json) |
 | Trainer Canyon | 196526 | [196526-trainer-canyon.json](./196526-trainer-canyon.json) |
 | Trainer Eyes | 338952 | [338952-trainer-eyes.json](./338952-trainer-eyes.json) |
+| Trainer Eyes VR | 310330 | [310330-trainer-eyes-vr.json](./310330-trainer-eyes-vr.json) |
 | TrainFormation | 213204 | [213204-trainformation.json](./213204-trainformation.json) |
 | Trainfort | 345442 | [345442-trainfort.json](./345442-trainfort.json) |
 | Trainiac | 100634 | [100634-trainiac.json](./100634-trainiac.json) |
@@ -30617,6 +30621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TruckSimulation 16 | 99937 | [99937-trucksimulation-16.json](./99937-trucksimulation-16.json) |
 | Trucky McTruckface | 399132 | [399132-trucky-mctruckface.json](./399132-trucky-mctruckface.json) |
 | Truckz Racing | 301515 | [301515-truckz-racing.json](./301515-truckz-racing.json) |
+| Truckzilla: Monster Truck Mega Ramp - Premium Edition | 310428 | [310428-truckzilla-monster-truck-mega-ramp-premium-edition.json](./310428-truckzilla-monster-truck-mega-ramp-premium-edition.json) |
 | Truckzilla: Monster Truck Mega Ramp Mania | 269051 | [269051-truckzilla-monster-truck-mega-ramp-mania.json](./269051-truckzilla-monster-truck-mega-ramp-mania.json) |
 | Truco | 193408 | [193408-truco.json](./193408-truco.json) |
 | Truco | 212888 | [212888-truco.json](./212888-truco.json) |
