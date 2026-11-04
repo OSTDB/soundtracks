@@ -1285,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tiny Flicker | 201110 | [201110-a-tiny-flicker.json](./201110-a-tiny-flicker.json) |
 | A Tiny Ghost Game | 418608 | [418608-a-tiny-ghost-game.json](./418608-a-tiny-ghost-game.json) |
 | A Tiny Life | 409219 | [409219-a-tiny-life.json](./409219-a-tiny-life.json) |
+| A Tiny Space Adventure | 335580 | [335580-a-tiny-space-adventure.json](./335580-a-tiny-space-adventure.json) |
 | A Tiny Sticker Tale: Magic Book Edition | 350791 | [350791-a-tiny-sticker-tale-magic-book-edition.json](./350791-a-tiny-sticker-tale-magic-book-edition.json) |
 | A Tiny Wander | 324887 | [324887-a-tiny-wander.json](./324887-a-tiny-wander.json) |
 | A Tithe in Blood | 304683 | [304683-a-tithe-in-blood.json](./304683-a-tithe-in-blood.json) |
@@ -2074,6 +2075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absurdistan | 166671 | [166671-absurdistan.json](./166671-absurdistan.json) |
 | Absurdle | 280697 | [280697-absurdle.json](./280697-absurdle.json) |
 | Absylon 7 | 165403 | [165403-absylon-7.json](./165403-absylon-7.json) |
+| Absym | 335602 | [335602-absym.json](./335602-absym.json) |
 | Abtos Covert | 167396 | [167396-abtos-covert.json](./167396-abtos-covert.json) |
 | Abu Batata | 411555 | [411555-abu-batata.json](./411555-abu-batata.json) |
 | Abu's Adventures | 198016 | [198016-abus-adventures.json](./198016-abus-adventures.json) |
