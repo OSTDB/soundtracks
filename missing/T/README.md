@@ -463,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TagPro | 9604 | [9604-tagpro.json](./9604-tagpro.json) |
 | TagTime | 274962 | [274962-tagtime.json](./274962-tagtime.json) |
 | Taguan | 377978 | [377978-taguan.json](./377978-taguan.json) |
+| Tahdani | 345232 | [345232-tahdani.json](./345232-tahdani.json) |
 | Tahira: Echoes of the Astral Empire | 20753 | [20753-tahira-echoes-of-the-astral-empire.json](./20753-tahira-echoes-of-the-astral-empire.json) |
 | Tahitian Driftin' | 334311 | [334311-tahitian-driftin.json](./334311-tahitian-driftin.json) |
 | Tahl: Uncover the Evil Within | 145617 | [145617-tahl-uncover-the-evil-within.json](./145617-tahl-uncover-the-evil-within.json) |
@@ -14366,6 +14367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pit Is Hungry | 418320 | [418320-the-pit-is-hungry.json](./418320-the-pit-is-hungry.json) |
 | The Pit: Infinity - Healer | 168187 | [168187-the-pit-infinity-healer.json](./168187-the-pit-infinity-healer.json) |
 | The Pit: Infinity - Juggernaut | 168186 | [168186-the-pit-infinity-juggernaut.json](./168186-the-pit-infinity-juggernaut.json) |
+| The Pitch | 345242 | [345242-the-pitch.json](./345242-the-pitch.json) |
 | The Pix | 101994 | [101994-the-pix.json](./101994-the-pix.json) |
 | The Pixel Boy's Adventures | 129946 | [129946-the-pixel-boys-adventures.json](./129946-the-pixel-boys-adventures.json) |
 | The Pixel has You | 327198 | [327198-the-pixel-has-you.json](./327198-the-pixel-has-you.json) |
@@ -23704,6 +23706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tolem | 409506 | [409506-tolem.json](./409506-tolem.json) |
 | Toleo | 239825 | [239825-toleo.json](./239825-toleo.json) |
 | Toll Booth Simulator | 357260 | [357260-toll-booth-simulator.json](./357260-toll-booth-simulator.json) |
+| Tollan Survivors | 345205 | [345205-tollan-survivors.json](./345205-tollan-survivors.json) |
 | Tollan Worlds | 252805 | [252805-tollan-worlds.json](./252805-tollan-worlds.json) |
 | Tollway Tycoon | 400258 | [400258-tollway-tycoon.json](./400258-tollway-tycoon.json) |
 | Tolom | 346361 | [346361-tolom.json](./346361-tolom.json) |
