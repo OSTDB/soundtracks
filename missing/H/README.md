@@ -930,6 +930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamburger | 346059 | [346059-hamburger.json](./346059-hamburger.json) |
 | Hamburger Shop | 385514 | [385514-hamburger-shop.json](./385514-hamburger-shop.json) |
 | Hamburger Shop | 386974 | [386974-hamburger-shop.json](./386974-hamburger-shop.json) |
+| Hamburgers En Route to Switzerland | 307522 | [307522-hamburgers-en-route-to-switzerland.json](./307522-hamburgers-en-route-to-switzerland.json) |
 | Hamburgers VS Eggs | 118684 | [118684-hamburgers-vs-eggs.json](./118684-hamburgers-vs-eggs.json) |
 | Hamcorollin’ | 263330 | [263330-hamcorollin.json](./263330-hamcorollin.json) |
 | Hame Houdai! All You Can F*ck! 3 Female Teachers Endless Creampie! | 280694 | [280694-hame-houdai-all-you-can-f-ck-3-female-teachers-endless-creampie.json](./280694-hame-houdai-all-you-can-f-ck-3-female-teachers-endless-creampie.json) |
