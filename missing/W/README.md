@@ -6673,6 +6673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf in the City | 250981 | [250981-wolf-in-the-city.json](./250981-wolf-in-the-city.json) |
 | Wolf Knight Memoir | 278982 | [278982-wolf-knight-memoir.json](./278982-wolf-knight-memoir.json) |
 | Wolf Night Evening | 228512 | [228512-wolf-night-evening.json](./228512-wolf-night-evening.json) |
+| Wolf of Stock Street | 347018 | [347018-wolf-of-stock-street.json](./347018-wolf-of-stock-street.json) |
 | Wolf of the Battlefield: Commando 3 | 21342 | [21342-wolf-of-the-battlefield-commando-3.json](./21342-wolf-of-the-battlefield-commando-3.json) |
 | Wolf of the Mountain | 196571 | [196571-wolf-of-the-mountain.json](./196571-wolf-of-the-mountain.json) |
 | Wolf or Boy | 117709 | [117709-wolf-or-boy.json](./117709-wolf-or-boy.json) |
