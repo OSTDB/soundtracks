@@ -3049,6 +3049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weekly Jump Heroes Battle! My Collection 2 | 188366 | [188366-weekly-jump-heroes-battle-my-collection-2.json](./188366-weekly-jump-heroes-battle-my-collection-2.json) |
 | Weekly Shonen Jump Jikkyou Jan-jan Stadium | 109051 | [109051-weekly-shonen-jump-jikkyou-jan-jan-stadium.json](./109051-weekly-shonen-jump-jikkyou-jan-jan-stadium.json) |
 | Weekly Shonen Jump Ore Collection | 81415 | [81415-weekly-shonen-jump-ore-collection.json](./81415-weekly-shonen-jump-ore-collection.json) |
+| Weekly Shonen Jump Special | 345778 | [345778-weekly-shonen-jump-special.json](./345778-weekly-shonen-jump-special.json) |
 | Weeks Till Winter | 372466 | [372466-weeks-till-winter.json](./372466-weeks-till-winter.json) |
 | WeeMee Superhero Maker | 109201 | [109201-weemee-superhero-maker.json](./109201-weemee-superhero-maker.json) |
 | Weeny Adventure | 233513 | [233513-weeny-adventure.json](./233513-weeny-adventure.json) |
@@ -3219,6 +3220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to the Adamant Maintenance Monitoring Terminal | 186599 | [186599-welcome-to-the-adamant-maintenance-monitoring-terminal.json](./186599-welcome-to-the-adamant-maintenance-monitoring-terminal.json) |
 | Welcome to the Adventurer Inn! | 169460 | [169460-welcome-to-the-adventurer-inn.json](./169460-welcome-to-the-adventurer-inn.json) |
 | Welcome to the Backrooms | 197191 | [197191-welcome-to-the-backrooms.json](./197191-welcome-to-the-backrooms.json) |
+| Welcome To The Backrooms | 345766 | [345766-welcome-to-the-backrooms.json](./345766-welcome-to-the-backrooms.json) |
 | Welcome to the Ballroom | 137577 | [137577-welcome-to-the-ballroom.json](./137577-welcome-to-the-ballroom.json) |
 | Welcome to the Chop House | 337087 | [337087-welcome-to-the-chop-house.json](./337087-welcome-to-the-chop-house.json) |
 | Welcome to the Colony | 184033 | [184033-welcome-to-the-colony.json](./184033-welcome-to-the-colony.json) |
@@ -5245,6 +5247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will O Wisp | 347567 | [347567-will-o-wisp.json](./347567-will-o-wisp.json) |
 | Will of Destiny | 372811 | [372811-will-of-destiny.json](./372811-will-of-destiny.json) |
 | Will of Steel | 23810 | [23810-will-of-steel.json](./23810-will-of-steel.json) |
+| Will the King Escape? | 345792 | [345792-will-the-king-escape.json](./345792-will-the-king-escape.json) |
 | Will The Man Get Frog | 284835 | [284835-will-the-man-get-frog.json](./284835-will-the-man-get-frog.json) |
 | Will There Bee Another? | 225740 | [225740-will-there-bee-another.json](./225740-will-there-bee-another.json) |
 | Will This Bitter Night Bring Change? | 204466 | [204466-will-this-bitter-night-bring-change.json](./204466-will-this-bitter-night-bring-change.json) |
@@ -8505,6 +8508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wormwood: Expanded Universe | 274871 | [274871-wormwood-expanded-universe.json](./274871-wormwood-expanded-universe.json) |
 | wormzilla.io | 397845 | [397845-wormzilla-io.json](./397845-wormzilla-io.json) |
 | Worn by the Forgotten | 407866 | [407866-worn-by-the-forgotten.json](./407866-worn-by-the-forgotten.json) |
+| Worn Out | 345799 | [345799-worn-out.json](./345799-worn-out.json) |
 | Worn Thin | 164218 | [164218-worn-thin.json](./164218-worn-thin.json) |
 | Worrrm Rebirth | 253253 | [253253-worrrm-rebirth.json](./253253-worrrm-rebirth.json) |
 | Worry | 91960 | [91960-worry.json](./91960-worry.json) |
