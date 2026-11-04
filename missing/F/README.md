@@ -3437,6 +3437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear the Moon | 294261 | [294261-fear-the-moon.json](./294261-fear-the-moon.json) |
 | Fear the Night | 112973 | [112973-fear-the-night.json](./112973-fear-the-night.json) |
 | Fear the Phantom | 236121 | [236121-fear-the-phantom.json](./236121-fear-the-phantom.json) |
+| Fear The Reaper | 329294 | [329294-fear-the-reaper.json](./329294-fear-the-reaper.json) |
 | Fear the Ring Place 0 | 398677 | [398677-fear-the-ring-place-0.json](./398677-fear-the-ring-place-0.json) |
 | Fear the Timeloop | 318266 | [318266-fear-the-timeloop.json](./318266-fear-the-timeloop.json) |
 | Fear the Unknown: Dave Story | 327096 | [327096-fear-the-unknown-dave-story.json](./327096-fear-the-unknown-dave-story.json) |
