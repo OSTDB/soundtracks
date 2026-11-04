@@ -1090,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Level | 82348 | [82348-dangerous-level.json](./82348-dangerous-level.json) |
 | Dangerous Line | 327827 | [327827-dangerous-line.json](./327827-dangerous-line.json) |
 | Dangerous Orbit | 114844 | [114844-dangerous-orbit.json](./114844-dangerous-orbit.json) |
+| Dangerous Pacche-san Moriya's Journey 4 | 298758 | [298758-dangerous-pacche-san-moriyas-journey-4.json](./298758-dangerous-pacche-san-moriyas-journey-4.json) |
 | Dangerous Plane | 149682 | [149682-dangerous-plane.json](./149682-dangerous-plane.json) |
 | Dangerous Planet | 152671 | [152671-dangerous-planet.json](./152671-dangerous-planet.json) |
 | Dangerous platform | 178197 | [178197-dangerous-platform.json](./178197-dangerous-platform.json) |
