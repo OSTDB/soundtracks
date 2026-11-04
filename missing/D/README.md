@@ -2232,6 +2232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkTide | 204955 | [204955-darktide.json](./204955-darktide.json) |
 | Darkula | 119481 | [119481-darkula.json](./119481-darkula.json) |
 | Darkwaronline | 191658 | [191658-darkwaronline.json](./191658-darkwaronline.json) |
+| Darkwatch | 304490 | [304490-darkwatch.json](./304490-darkwatch.json) |
 | Darkwater | 311201 | [311201-darkwater.json](./311201-darkwater.json) |
 | Darkway: Murder of King Mere | 355984 | [355984-darkway-murder-of-king-mere.json](./355984-darkway-murder-of-king-mere.json) |
 | DarkwebStreamer | 278604 | [278604-darkwebstreamer.json](./278604-darkwebstreamer.json) |
@@ -7268,6 +7269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Black Armory | 112408 | [112408-destiny-2-black-armory.json](./112408-destiny-2-black-armory.json) |
 | Destiny 2: Digital Deluxe Edition | 52887 | [52887-destiny-2-digital-deluxe-edition.json](./52887-destiny-2-digital-deluxe-edition.json) |
 | Destiny 2: Echoes | 305328 | [305328-destiny-2-echoes.json](./305328-destiny-2-echoes.json) |
+| Destiny 2: Echoes Silver Bundle | 304414 | [304414-destiny-2-echoes-silver-bundle.json](./304414-destiny-2-echoes-silver-bundle.json) |
 | Destiny 2: Forsaken | 103204 | [103204-destiny-2-forsaken.json](./103204-destiny-2-forsaken.json) |
 | Destiny 2: Forsaken - Digital Deluxe Edition | 132150 | [132150-destiny-2-forsaken-digital-deluxe-edition.json](./132150-destiny-2-forsaken-digital-deluxe-edition.json) |
 | Destiny 2: Forsaken - Legendary Collection | 118692 | [118692-destiny-2-forsaken-legendary-collection.json](./118692-destiny-2-forsaken-legendary-collection.json) |
@@ -7957,6 +7959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devils Due | 359520 | [359520-devils-due.json](./359520-devils-due.json) |
 | Devils of the Deep | 294738 | [294738-devils-of-the-deep.json](./294738-devils-of-the-deep.json) |
 | Devils on the Moon Pinball | 321222 | [321222-devils-on-the-moon-pinball.json](./321222-devils-on-the-moon-pinball.json) |
+| Devils Run | 304504 | [304504-devils-run.json](./304504-devils-run.json) |
 | Devils Share | 26513 | [26513-devils-share.json](./26513-devils-share.json) |
 | Devils Wind Mine | 294156 | [294156-devils-wind-mine.json](./294156-devils-wind-mine.json) |
 | DevilShaft: TheTower | 116843 | [116843-devilshaft-thetower.json](./116843-devilshaft-thetower.json) |
