@@ -2956,6 +2956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unyielding | 156527 | [156527-unyielding.json](./156527-unyielding.json) |
 | Unyverse | 289919 | [289919-unyverse.json](./289919-unyverse.json) |
 | Unzipping a Mirror | 206538 | [206538-unzipping-a-mirror.json](./206538-unzipping-a-mirror.json) |
+| UOGamers | 324066 | [324066-uogamers.json](./324066-uogamers.json) |
 | Uootoy | 231790 | [231790-uootoy.json](./231790-uootoy.json) |
 | Uootoy 3671 | 240764 | [240764-uootoy-3671.json](./240764-uootoy-3671.json) |
 | Uoris DX | 147475 | [147475-uoris-dx.json](./147475-uoris-dx.json) |
@@ -3280,6 +3281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urbek City Builder: Defend the City | 236234 | [236234-urbek-city-builder-defend-the-city.json](./236234-urbek-city-builder-defend-the-city.json) |
 | Urbex | 399156 | [399156-urbex.json](./399156-urbex.json) |
 | Urbex Alone | 285406 | [285406-urbex-alone.json](./285406-urbex-alone.json) |
+| Urbex Murder | 324060 | [324060-urbex-murder.json](./324060-urbex-murder.json) |
 | Urbex Night Security | 235953 | [235953-urbex-night-security.json](./235953-urbex-night-security.json) |
 | UrbexCam | 372734 | [372734-urbexcam.json](./372734-urbexcam.json) |
 | URBO | 271173 | [271173-urbo.json](./271173-urbo.json) |
