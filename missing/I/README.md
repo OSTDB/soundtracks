@@ -3723,6 +3723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5946,6 +5947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island 359 | 32585 | [32585-island-359.json](./32585-island-359.json) |
 | Island 404 | 113564 | [113564-island-404.json](./113564-island-404.json) |
 | Island Adventure | 175769 | [175769-island-adventure.json](./175769-island-adventure.json) |
+| Island Adventure 3: Penultimate Climax | 302637 | [302637-island-adventure-3-penultimate-climax.json](./302637-island-adventure-3-penultimate-climax.json) |
 | Island and Factories | 148821 | [148821-island-and-factories.json](./148821-island-and-factories.json) |
 | Island Assault | 195609 | [195609-island-assault.json](./195609-island-assault.json) |
 | Island Bender | 234346 | [234346-island-bender.json](./234346-island-bender.json) |
