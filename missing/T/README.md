@@ -3907,6 +3907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis | 234091 | [234091-tennis.json](./234091-tennis.json) |
 | Tennis | 247000 | [247000-tennis.json](./247000-tennis.json) |
 | Tennis | 295670 | [295670-tennis.json](./295670-tennis.json) |
+| Tennis | 345759 | [345759-tennis.json](./345759-tennis.json) |
 | Tennis | 358838 | [358838-tennis.json](./358838-tennis.json) |
 | Tennis | 359292 | [359292-tennis.json](./359292-tennis.json) |
 | Tennis | 64208 | [64208-tennis.json](./64208-tennis.json) |
@@ -10218,6 +10219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hepatica Spring | 190222 | [190222-the-hepatica-spring.json](./190222-the-hepatica-spring.json) |
 | The Herbalist | 231526 | [231526-the-herbalist.json](./231526-the-herbalist.json) |
 | The Herbalist | 30942 | [30942-the-herbalist.json](./30942-the-herbalist.json) |
+| The Herd | 345785 | [345785-the-herd.json](./345785-the-herd.json) |
 | The Heritage | 377563 | [377563-the-heritage.json](./377563-the-heritage.json) |
 | The Heritage | 54303 | [54303-the-heritage.json](./54303-the-heritage.json) |
 | The Hermetic Tower | 421560 | [421560-the-hermetic-tower.json](./421560-the-hermetic-tower.json) |
@@ -12823,6 +12825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Skywhales | 182976 | [182976-the-lost-skywhales.json](./182976-the-lost-skywhales.json) |
 | The Lost Son | 261886 | [261886-the-lost-son.json](./261886-the-lost-son.json) |
 | The Lost Song | 365931 | [365931-the-lost-song.json](./365931-the-lost-song.json) |
+| The Lost Soul | 345781 | [345781-the-lost-soul.json](./345781-the-lost-soul.json) |
 | The Lost Souls | 33236 | [33236-the-lost-souls.json](./33236-the-lost-souls.json) |
 | The Lost Streamer | 413791 | [413791-the-lost-streamer.json](./413791-the-lost-streamer.json) |
 | The Lost Strings | 121449 | [121449-the-lost-strings.json](./121449-the-lost-strings.json) |
@@ -29553,6 +29556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trifide | 94381 | [94381-trifide.json](./94381-trifide.json) |
 | Trifling | 315531 | [315531-trifling.json](./315531-trifling.json) |
 | Trifoil | 312574 | [312574-trifoil.json](./312574-trifoil.json) |
+| Trifolium: The Adventures of Gary Pretzelneck | 345793 | [345793-trifolium-the-adventures-of-gary-pretzelneck.json](./345793-trifolium-the-adventures-of-gary-pretzelneck.json) |
 | TriFute | 260278 | [260278-trifute.json](./260278-trifute.json) |
 | Triga | 199652 | [199652-triga.json](./199652-triga.json) |
 | Trigaea | 227914 | [227914-trigaea.json](./227914-trigaea.json) |
