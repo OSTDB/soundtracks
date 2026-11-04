@@ -1216,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velaya: Tale of a Warrior | 383436 | [383436-velaya-tale-of-a-warrior.json](./383436-velaya-tale-of-a-warrior.json) |
 | Velen | 398785 | [398785-velen.json](./398785-velen.json) |
 | Velev | 299556 | [299556-velev.json](./299556-velev.json) |
+| Velgress | 318313 | [318313-velgress.json](./318313-velgress.json) |
 | Velgrym | 363762 | [363762-velgrym.json](./363762-velgrym.json) |
 | Velhodium Isle | 332391 | [332391-velhodium-isle.json](./332391-velhodium-isle.json) |
 | Velhokissa Kloridi Klaviatuuri ja Kadonneet Aakkoset | 7639 | [7639-velhokissa-kloridi-klaviatuuri-ja-kadonneet-aakkoset.json](./7639-velhokissa-kloridi-klaviatuuri-ja-kadonneet-aakkoset.json) |
@@ -3383,6 +3384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volguard II | 48551 | [48551-volguard-ii.json](./48551-volguard-ii.json) |
 | Volkstein | 90150 | [90150-volkstein.json](./90150-volkstein.json) |
 | Vollema | 289911 | [289911-vollema.json](./289911-vollema.json) |
+| Vollemental | 318332 | [318332-vollemental.json](./318332-vollemental.json) |
 | Volley & Tennis Bundle Blast | 196812 | [196812-volley-and-tennis-bundle-blast.json](./196812-volley-and-tennis-bundle-blast.json) |
 | Volley Balley | 90895 | [90895-volley-balley.json](./90895-volley-balley.json) |
 | Volley Bomb | 239092 | [239092-volley-bomb.json](./239092-volley-bomb.json) |
