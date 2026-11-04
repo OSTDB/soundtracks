@@ -9104,6 +9104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fear 2: Creepy Scream House | 96745 | [96745-the-fear-2-creepy-scream-house.json](./96745-the-fear-2-creepy-scream-house.json) |
 | The Fear Business | 293553 | [293553-the-fear-business.json](./293553-the-fear-business.json) |
 | The Fear Island | 153866 | [153866-the-fear-island.json](./153866-the-fear-island.json) |
+| The Fear of The Past | 302015 | [302015-the-fear-of-the-past.json](./302015-the-fear-of-the-past.json) |
 | The Feast | 228727 | [228727-the-feast.json](./228727-the-feast.json) |
 | The Feast of Madness: A Night of Drowning in Forbidden Temptation | 308876 | [308876-the-feast-of-madness-a-night-of-drowning-in-forbidden-temptation.json](./308876-the-feast-of-madness-a-night-of-drowning-in-forbidden-temptation.json) |
 | The Feathered Serpent | 238658 | [238658-the-feathered-serpent.json](./238658-the-feathered-serpent.json) |
@@ -13371,6 +13372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Meteor, the Stone, and a Long Glass of Sherbet | 66450 | [66450-the-meteor-the-stone-and-a-long-glass-of-sherbet.json](./66450-the-meteor-the-stone-and-a-long-glass-of-sherbet.json) |
 | The Meteorite | 191806 | [191806-the-meteorite.json](./191806-the-meteorite.json) |
 | The Meter is Running | 400816 | [400816-the-meter-is-running.json](./400816-the-meter-is-running.json) |
+| The Method of Hiding a Body | 302029 | [302029-the-method-of-hiding-a-body.json](./302029-the-method-of-hiding-a-body.json) |
 | The Metronomicon: Deluxe Edition | 53761 | [53761-the-metronomicon-deluxe-edition.json](./53761-the-metronomicon-deluxe-edition.json) |
 | The Metronomicon: Slay the Dance Floor | 19880 | [19880-the-metronomicon-slay-the-dance-floor.json](./19880-the-metronomicon-slay-the-dance-floor.json) |
 | The Metronomicon: Slay the Dance Floor - Chiptune Challenge Pack 1 | 225230 | [225230-the-metronomicon-slay-the-dance-floor-chiptune-challenge-pack-1.json](./225230-the-metronomicon-slay-the-dance-floor-chiptune-challenge-pack-1.json) |
@@ -14787,6 +14789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Psychiatrist: Major Depression | 115530 | [115530-the-psychiatrist-major-depression.json](./115530-the-psychiatrist-major-depression.json) |
 | The Psychic | 106491 | [106491-the-psychic.json](./106491-the-psychic.json) |
 | The Psychoduck | 195913 | [195913-the-psychoduck.json](./195913-the-psychoduck.json) |
+| The Psychological Horror Bundle | 301766 | [301766-the-psychological-horror-bundle.json](./301766-the-psychological-horror-bundle.json) |
 | The Psychologist | 319934 | [319934-the-psychologist.json](./319934-the-psychologist.json) |
 | The Psychotron | 72061 | [72061-the-psychotron.json](./72061-the-psychotron.json) |
 | The PTSD Mod | 312622 | [312622-the-ptsd-mod.json](./312622-the-ptsd-mod.json) |
@@ -16869,6 +16872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Surprising Adventures of Munchausen | 55659 | [55659-the-surprising-adventures-of-munchausen.json](./55659-the-surprising-adventures-of-munchausen.json) |
 | The Surprisingly Short Adventure of Leopold Kettle | 232556 | [232556-the-surprisingly-short-adventure-of-leopold-kettle.json](./232556-the-surprisingly-short-adventure-of-leopold-kettle.json) |
 | The Surreal Imaginarium | 135765 | [135765-the-surreal-imaginarium.json](./135765-the-surreal-imaginarium.json) |
+| The Survival Horror Bundle | 301767 | [301767-the-survival-horror-bundle.json](./301767-the-survival-horror-bundle.json) |
 | The Survivalists | 127305 | [127305-the-survivalists.json](./127305-the-survivalists.json) |
 | The Survivalists: Deluxe Edition | 173159 | [173159-the-survivalists-deluxe-edition.json](./173159-the-survivalists-deluxe-edition.json) |
 | The Survivor | 123491 | [123491-the-survivor.json](./123491-the-survivor.json) |
@@ -22792,6 +22796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Little Farm | 304332 | [304332-tiny-little-farm.json](./304332-tiny-little-farm.json) |
 | TIny Little Farm Plus Milk Seller | 328473 | [328473-tiny-little-farm-plus-milk-seller.json](./328473-tiny-little-farm-plus-milk-seller.json) |
 | Tiny Love | 114880 | [114880-tiny-love.json](./114880-tiny-love.json) |
+| Tiny Machinery: Lost Reality | 302019 | [302019-tiny-machinery-lost-reality.json](./302019-tiny-machinery-lost-reality.json) |
 | Tiny Mafia: War of Syndicates | 188355 | [188355-tiny-mafia-war-of-syndicates.json](./188355-tiny-mafia-war-of-syndicates.json) |
 | Tiny Mage | 90859 | [90859-tiny-mage.json](./90859-tiny-mage.json) |
 | Tiny Mage in Puzzle Land | 402928 | [402928-tiny-mage-in-puzzle-land.json](./402928-tiny-mage-in-puzzle-land.json) |
@@ -25498,6 +25503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Grass VR Simulator | 326331 | [326331-touch-grass-vr-simulator.json](./326331-touch-grass-vr-simulator.json) |
 | Touch Hockey: FS5 | 63196 | [63196-touch-hockey-fs5.json](./63196-touch-hockey-fs5.json) |
 | Touch Love | 219542 | [219542-touch-love.json](./219542-touch-love.json) |
+| Touch Maze | 302000 | [302000-touch-maze.json](./302000-touch-maze.json) |
 | Touch Me | 225597 | [225597-touch-me.json](./225597-touch-me.json) |
 | Touch Me | 230880 | [230880-touch-me.json](./230880-touch-me.json) |
 | Touch Me | 400211 | [400211-touch-me.json](./400211-touch-me.json) |
@@ -26984,6 +26990,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trailmakers: Frozen Tracks | 378217 | [378217-trailmakers-frozen-tracks.json](./378217-trailmakers-frozen-tracks.json) |
 | Trailmakers: High Seas Expansion | 193221 | [193221-trailmakers-high-seas-expansion.json](./193221-trailmakers-high-seas-expansion.json) |
 | Trailmakers: Motorhead Pack | 317323 | [317323-trailmakers-motorhead-pack.json](./317323-trailmakers-motorhead-pack.json) |
+| Trailmakers: Rescue Bundle | 301763 | [301763-trailmakers-rescue-bundle.json](./301763-trailmakers-rescue-bundle.json) |
+| Trailmakers: Rescue Deluxe Bundle | 301771 | [301771-trailmakers-rescue-deluxe-bundle.json](./301771-trailmakers-rescue-deluxe-bundle.json) |
 | Trailmakers: Rescue Pack | 293396 | [293396-trailmakers-rescue-pack.json](./293396-trailmakers-rescue-pack.json) |
 | Trailmakers: Skin Pack | 308435 | [308435-trailmakers-skin-pack.json](./308435-trailmakers-skin-pack.json) |
 | Trailmakers: Skin Pack 2 | 308436 | [308436-trailmakers-skin-pack-2.json](./308436-trailmakers-skin-pack-2.json) |
