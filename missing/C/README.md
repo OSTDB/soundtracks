@@ -7294,6 +7294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiptune Champion | 15905 | [15905-chiptune-champion.json](./15905-chiptune-champion.json) |
 | Chiptune DJ | 106409 | [106409-chiptune-dj.json](./106409-chiptune-dj.json) |
 | Chiptune Runner | 52741 | [52741-chiptune-runner.json](./52741-chiptune-runner.json) |
+| Chipwits | 318923 | [318923-chipwits.json](./318923-chipwits.json) |
 | ChipWits | 292223 | [292223-chipwits.json](./292223-chipwits.json) |
 | Chiqing Meimei Shaxue de Xiongkong Riji | 411775 | [411775-chiqing-meimei-shaxue-de-xiongkong-riji.json](./411775-chiqing-meimei-shaxue-de-xiongkong-riji.json) |
 | Chiral | 146176 | [146176-chiral.json](./146176-chiral.json) |
@@ -10740,6 +10741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Lyoko: Carthage Explorer | 128207 | [128207-code-lyoko-carthage-explorer.json](./128207-code-lyoko-carthage-explorer.json) |
 | Code Lyoko: Fall of X.A.N.A. | 8454 | [8454-code-lyoko-fall-of-x-a-n-a.json](./8454-code-lyoko-fall-of-x-a-n-a.json) |
 | Code Lyoko: Get Ready to Virtualize | 8453 | [8453-code-lyoko-get-ready-to-virtualize.json](./8453-code-lyoko-get-ready-to-virtualize.json) |
+| Code Moo | 318929 | [318929-code-moo.json](./318929-code-moo.json) |
 | Code My Robot Vacuum | 396524 | [396524-code-my-robot-vacuum.json](./396524-code-my-robot-vacuum.json) |
 | Code name Hell Squad | 78403 | [78403-code-name-hell-squad.json](./78403-code-name-hell-squad.json) |
 | Code Name Teacher | 292307 | [292307-code-name-teacher.json](./292307-code-name-teacher.json) |
@@ -19944,6 +19946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberway | 182798 | [182798-cyberway.json](./182798-cyberway.json) |
 | CyberWhiskey: Guy's Room | 174637 | [174637-cyberwhiskey-guys-room.json](./174637-cyberwhiskey-guys-room.json) |
 | Cyberwinter | 158194 | [158194-cyberwinter.json](./158194-cyberwinter.json) |
+| Cyberworld | 318913 | [318913-cyberworld.json](./318913-cyberworld.json) |
 | Cyberworld Online | 221376 | [221376-cyberworld-online.json](./221376-cyberworld-online.json) |
 | Cyberworm | 73606 | [73606-cyberworm.json](./73606-cyberworm.json) |
 | Cybex | 14022 | [14022-cybex.json](./14022-cybex.json) |
