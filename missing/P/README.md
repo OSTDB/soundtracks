@@ -1600,6 +1600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Planes Plus | 261765 | [261765-paper-planes-plus.json](./261765-paper-planes-plus.json) |
 | Paper Play VR | 298117 | [298117-paper-play-vr.json](./298117-paper-play-vr.json) |
 | Paper Protocol | 311851 | [311851-paper-protocol.json](./311851-paper-protocol.json) |
+| Paper Pusher | 347452 | [347452-paper-pusher.json](./347452-paper-pusher.json) |
 | Paper Puzzle | 319131 | [319131-paper-puzzle.json](./319131-paper-puzzle.json) |
 | Paper Puzzle Ⅱ | 320787 | [320787-paper-puzzle-ii.json](./320787-paper-puzzle-ii.json) |
 | Paper Quest | 29519 | [29519-paper-quest.json](./29519-paper-quest.json) |
@@ -7676,6 +7677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Cup Soccer 17 | 32354 | [32354-pixel-cup-soccer-17.json](./32354-pixel-cup-soccer-17.json) |
 | Pixel Cup Soccer: Ultimate Edition | 158544 | [158544-pixel-cup-soccer-ultimate-edition.json](./158544-pixel-cup-soccer-ultimate-edition.json) |
 | Pixel Dash | 265778 | [265778-pixel-dash.json](./265778-pixel-dash.json) |
+| Pixel Dash: Toast of Destiny | 347444 | [347444-pixel-dash-toast-of-destiny.json](./347444-pixel-dash-toast-of-destiny.json) |
 | Pixel Defender | 298078 | [298078-pixel-defender.json](./298078-pixel-defender.json) |
 | Pixel Defenders Puzzle | 22154 | [22154-pixel-defenders-puzzle.json](./22154-pixel-defenders-puzzle.json) |
 | Pixel Demolish | 220066 | [220066-pixel-demolish.json](./220066-pixel-demolish.json) |
