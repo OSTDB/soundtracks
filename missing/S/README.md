@@ -686,6 +686,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Seiya: Awakening | 122667 | [122667-saint-seiya-awakening.json](./122667-saint-seiya-awakening.json) |
 | Saint Seiya: Brave Soldiers | 25202 | [25202-saint-seiya-brave-soldiers.json](./25202-saint-seiya-brave-soldiers.json) |
 | Saint Seiya: Brave Soldiers + Aries Shion | 99553 | [99553-saint-seiya-brave-soldiers-aries-shion.json](./99553-saint-seiya-brave-soldiers-aries-shion.json) |
+| Saint Seiya: Caos Chapter | 299330 | [299330-saint-seiya-caos-chapter.json](./299330-saint-seiya-caos-chapter.json) |
+| Saint Seiya: Exclamation | 299329 | [299329-saint-seiya-exclamation.json](./299329-saint-seiya-exclamation.json) |
 | Saint Seiya: Galaxy Spirits | 139406 | [139406-saint-seiya-galaxy-spirits.json](./139406-saint-seiya-galaxy-spirits.json) |
 | Saint Seiya: Legends of Justice | 209634 | [209634-saint-seiya-legends-of-justice.json](./209634-saint-seiya-legends-of-justice.json) |
 | Saint Seiya: Ougon Densetsu | 48655 | [48655-saint-seiya-ougon-densetsu.json](./48655-saint-seiya-ougon-densetsu.json) |
@@ -6484,6 +6486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow King | 267329 | [267329-shadow-king.json](./267329-shadow-king.json) |
 | Shadow Kings | 344450 | [344450-shadow-kings.json](./344450-shadow-kings.json) |
 | Shadow Knight | 227519 | [227519-shadow-knight.json](./227519-shadow-knight.json) |
+| Shadow Knight: Ninja Game RPG | 299346 | [299346-shadow-knight-ninja-game-rpg.json](./299346-shadow-knight-ninja-game-rpg.json) |
 | Shadow Labyrinth | 269093 | [269093-shadow-labyrinth.json](./269093-shadow-labyrinth.json) |
 | Shadow Labyrinth | 325583 | [325583-shadow-labyrinth.json](./325583-shadow-labyrinth.json) |
 | Shadow Land | 242558 | [242558-shadow-land.json](./242558-shadow-land.json) |
@@ -6623,6 +6626,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Shoot | 261279 | [261279-shadow-shoot.json](./261279-shadow-shoot.json) |
 | Shadow Siege | 326229 | [326229-shadow-siege.json](./326229-shadow-siege.json) |
 | Shadow Skimmer | 37186 | [37186-shadow-skimmer.json](./37186-shadow-skimmer.json) |
+| Shadow Slayer | 299345 | [299345-shadow-slayer.json](./299345-shadow-slayer.json) |
+| Shadow Slayer: Demon Hunter | 299349 | [299349-shadow-slayer-demon-hunter.json](./299349-shadow-slayer-demon-hunter.json) |
 | Shadow Sorcerer | 12764 | [12764-shadow-sorcerer.json](./12764-shadow-sorcerer.json) |
 | Shadow Spell Saga: The Winds of Fate | 369320 | [369320-shadow-spell-saga-the-winds-of-fate.json](./369320-shadow-spell-saga-the-winds-of-fate.json) |
 | Shadow Spotter | 231653 | [231653-shadow-spotter.json](./231653-shadow-spotter.json) |
@@ -6658,6 +6663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Walker | 291684 | [291684-shadow-walker.json](./291684-shadow-walker.json) |
 | Shadow Walls | 149933 | [149933-shadow-walls.json](./149933-shadow-walls.json) |
 | Shadow War | 191480 | [191480-shadow-war.json](./191480-shadow-war.json) |
+| Shadow War: Idle RPG Survival | 299351 | [299351-shadow-war-idle-rpg-survival.json](./299351-shadow-war-idle-rpg-survival.json) |
 | Shadow Warren | 356631 | [356631-shadow-warren.json](./356631-shadow-warren.json) |
 | Shadow Warrior | 2947 | [2947-shadow-warrior.json](./2947-shadow-warrior.json) |
 | Shadow Warrior | 6057 | [6057-shadow-warrior.json](./6057-shadow-warrior.json) |
@@ -13624,6 +13630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slug Races | 180482 | [180482-slug-races.json](./180482-slug-races.json) |
 | Slug Slasher | 93786 | [93786-slug-slasher.json](./93786-slug-slasher.json) |
 | Slug Survival | 393817 | [393817-slug-survival.json](./393817-slug-survival.json) |
+| Slugger | 299426 | [299426-slugger.json](./299426-slugger.json) |
 | Slugger 2 | 326802 | [326802-slugger-2.json](./326802-slugger-2.json) |
 | Sluggernauts | 418194 | [418194-sluggernauts.json](./418194-sluggernauts.json) |
 | Sluggerpunk | 298141 | [298141-sluggerpunk.json](./298141-sluggerpunk.json) |
@@ -15689,6 +15696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokobear: Spring | 219592 | [219592-sokobear-spring.json](./219592-sokobear-spring.json) |
 | Sokobear: Summer | 220796 | [220796-sokobear-summer.json](./220796-sokobear-summer.json) |
 | Sokobear: Winter | 171878 | [171878-sokobear-winter.json](./171878-sokobear-winter.json) |
+| Sokoblox | 299363 | [299363-sokoblox.json](./299363-sokoblox.json) |
 | Sokobomb | 381513 | [381513-sokobomb.json](./381513-sokobomb.json) |
 | Sokobond Express | 164896 | [164896-sokobond-express.json](./164896-sokobond-express.json) |
 | Sokobos | 189863 | [189863-sokobos.json](./189863-sokobos.json) |
@@ -16816,6 +16824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Boom Cannon | 297603 | [297603-sonic-boom-cannon.json](./297603-sonic-boom-cannon.json) |
 | Sonic Boom Cannon 2 | 297604 | [297604-sonic-boom-cannon-2.json](./297604-sonic-boom-cannon-2.json) |
 | Sonic Boom Racing | 330592 | [330592-sonic-boom-racing.json](./330592-sonic-boom-racing.json) |
+| Sonic Boom: A Dating Sonamy Sim?! | 299334 | [299334-sonic-boom-a-dating-sonamy-sim.json](./299334-sonic-boom-a-dating-sonamy-sim.json) |
 | Sonic Boom: Rise of Lyric | 5322 | [5322-sonic-boom-rise-of-lyric.json](./5322-sonic-boom-rise-of-lyric.json) |
 | Sonic Boom: Shattered Crystal | 7855 | [7855-sonic-boom-shattered-crystal.json](./7855-sonic-boom-shattered-crystal.json) |
 | Sonic Bowling | 261248 | [261248-sonic-bowling.json](./261248-sonic-bowling.json) |
@@ -25957,6 +25966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Squad Battlegrounds | 388093 | [388093-stick-squad-battlegrounds.json](./388093-stick-squad-battlegrounds.json) |
 | Stick Stunt Biker | 289564 | [289564-stick-stunt-biker.json](./289564-stick-stunt-biker.json) |
 | Stick Stunt Biker 2 | 87927 | [87927-stick-stunt-biker-2.json](./87927-stick-stunt-biker-2.json) |
+| Stick Survivor | 299355 | [299355-stick-survivor.json](./299355-stick-survivor.json) |
 | Stick Tennis | 277566 | [277566-stick-tennis.json](./277566-stick-tennis.json) |
 | Stick Tennis Tour | 261513 | [261513-stick-tennis-tour.json](./261513-stick-tennis-tour.json) |
 | Stick to the end | 111522 | [111522-stick-to-the-end.json](./111522-stick-to-the-end.json) |
@@ -28494,6 +28504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suddenly Meow | 166810 | [166810-suddenly-meow.json](./166810-suddenly-meow.json) |
 | Suddenly Meow 2 | 197932 | [197932-suddenly-meow-2.json](./197932-suddenly-meow-2.json) |
 | Suddenly Meow Christmas | 362317 | [362317-suddenly-meow-christmas.json](./362317-suddenly-meow-christmas.json) |
+| Suddenly My Stepsister!? | 299076 | [299076-suddenly-my-stepsister.json](./299076-suddenly-my-stepsister.json) |
 | Suddenly She's Here | 179363 | [179363-suddenly-shes-here.json](./179363-suddenly-shes-here.json) |
 | Sudeki | 6179 | [6179-sudeki.json](./6179-sudeki.json) |
 | Sudo Cats | 221263 | [221263-sudo-cats.json](./221263-sudo-cats.json) |
