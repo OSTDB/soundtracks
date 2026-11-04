@@ -729,6 +729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galak-Z: Varient Mobile | 103085 | [103085-galak-z-varient-mobile.json](./103085-galak-z-varient-mobile.json) |
 | Galaksia Online | 407593 | [407593-galaksia-online.json](./407593-galaksia-online.json) |
 | Galakzions | 14087 | [14087-galakzions.json](./14087-galakzions.json) |
+| Galandrix | 298220 | [298220-galandrix.json](./298220-galandrix.json) |
 | GalanWarSong | 345966 | [345966-galanwarsong.json](./345966-galanwarsong.json) |
 | Galatea | 365132 | [365132-galatea.json](./365132-galatea.json) |
 | Galatea | 85923 | [85923-galatea.json](./85923-galatea.json) |
@@ -9811,6 +9812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guard the Tower! | 301874 | [301874-guard-the-tower.json](./301874-guard-the-tower.json) |
 | Guarded | 313893 | [313893-guarded.json](./313893-guarded.json) |
 | Guardener | 203592 | [203592-guardener.json](./203592-guardener.json) |
+| GuardFortressVR | 298209 | [298209-guardfortressvr.json](./298209-guardfortressvr.json) |
 | GuardGrave | 275536 | [275536-guardgrave.json](./275536-guardgrave.json) |
 | Guardian | 15542 | [15542-guardian.json](./15542-guardian.json) |
 | Guardian | 360038 | [360038-guardian.json](./360038-guardian.json) |
