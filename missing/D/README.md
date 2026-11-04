@@ -3978,6 +3978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Delivery | 344162 | [344162-deadly-delivery.json](./344162-deadly-delivery.json) |
 | Deadly Delivery | 99499 | [99499-deadly-delivery.json](./99499-deadly-delivery.json) |
 | Deadly Delivery: Goldmoon Update | 400668 | [400668-deadly-delivery-goldmoon-update.json](./400668-deadly-delivery-goldmoon-update.json) |
+| Deadly Descent | 310905 | [310905-deadly-descent.json](./310905-deadly-descent.json) |
 | Deadly Desert | 220009 | [220009-deadly-desert.json](./220009-deadly-desert.json) |
 | Deadly Desire | 232915 | [232915-deadly-desire.json](./232915-deadly-desire.json) |
 | Deadly Dog-Dating Dungeon | 185261 | [185261-deadly-dog-dating-dungeon.json](./185261-deadly-dog-dating-dungeon.json) |
@@ -5951,6 +5952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Squad | 115352 | [115352-delta-squad.json](./115352-delta-squad.json) |
 | Delta Squadron | 23947 | [23947-delta-squadron.json](./23947-delta-squadron.json) |
 | Delta Squared | 369240 | [369240-delta-squared.json](./369240-delta-squared.json) |
+| Delta Strike | 310917 | [310917-delta-strike.json](./310917-delta-strike.json) |
 | Delta Strike: First Assault | 99547 | [99547-delta-strike-first-assault.json](./99547-delta-strike-first-assault.json) |
 | Delta T | 109169 | [109169-delta-t.json](./109169-delta-t.json) |
 | Delta Time | 171622 | [171622-delta-time.json](./171622-delta-time.json) |
@@ -9252,6 +9254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Island Adventure | 188795 | [188795-dino-island-adventure.json](./188795-dino-island-adventure.json) |
 | Dino Island: The Four Crystals | 194859 | [194859-dino-island-the-four-crystals.json](./194859-dino-island-the-four-crystals.json) |
 | Dino Jnr. in Canyon Capers | 57167 | [57167-dino-jnr-in-canyon-capers.json](./57167-dino-jnr-in-canyon-capers.json) |
+| Dino Jump | 310886 | [310886-dino-jump.json](./310886-dino-jump.json) |
 | Dino King Battle: Taiko Kara no Hyouryuusha | 269741 | [269741-dino-king-battle-taiko-kara-no-hyouryuusha.json](./269741-dino-king-battle-taiko-kara-no-hyouryuusha.json) |
 | Dino Kingdom | 115545 | [115545-dino-kingdom.json](./115545-dino-kingdom.json) |
 | Dino Land | 386929 | [386929-dino-land.json](./386929-dino-land.json) |
@@ -12211,6 +12214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't wake up | 381009 | [381009-dont-wake-up.json](./381009-dont-wake-up.json) |
 | Don't Wake Up | 183915 | [183915-dont-wake-up.json](./183915-dont-wake-up.json) |
 | Don't Wake Up My Dream | 369588 | [369588-dont-wake-up-my-dream.json](./369588-dont-wake-up-my-dream.json) |
+| Don't Win | 310898 | [310898-dont-win.json](./310898-dont-win.json) |
 | Don't Worry, I'll Bring the Beer | 307788 | [307788-dont-worry-ill-bring-the-beer.json](./307788-dont-worry-ill-bring-the-beer.json) |
 | Don't! Heroes | 181932 | [181932-dont-heroes.json](./181932-dont-heroes.json) |
 | Don't! Heroes: Encore! | 181929 | [181929-dont-heroes-encore.json](./181929-dont-heroes-encore.json) |
