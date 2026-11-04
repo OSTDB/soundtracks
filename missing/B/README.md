@@ -940,7 +940,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -9346,6 +9345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blandia Plus | 41409 | [41409-blandia-plus.json](./41409-blandia-plus.json) |
 | Blandville | 177393 | [177393-blandville.json](./177393-blandville.json) |
 | Blank | 127800 | [127800-blank.json](./127800-blank.json) |
+| Blank | 322486 | [322486-blank.json](./322486-blank.json) |
 | Blank | 393222 | [393222-blank.json](./393222-blank.json) |
 | Blank Blood | 266670 | [266670-blank-blood.json](./266670-blank-blood.json) |
 | Blank Dream | 47005 | [47005-blank-dream.json](./47005-blank-dream.json) |
@@ -9972,6 +9972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blo-Ball Soccer | 91194 | [91194-blo-ball-soccer.json](./91194-blo-ball-soccer.json) |
 | Bloat | 138620 | [138620-bloat.json](./138620-bloat.json) |
 | Blob | 14319 | [14319-blob.json](./14319-blob.json) |
+| Blob | 322498 | [322498-blob.json](./322498-blob.json) |
 | Blob | 348045 | [348045-blob.json](./348045-blob.json) |
 | Blob Attack | 338812 | [338812-blob-attack.json](./338812-blob-attack.json) |
 | Blob Boy | 191518 | [191518-blob-boy.json](./191518-blob-boy.json) |
