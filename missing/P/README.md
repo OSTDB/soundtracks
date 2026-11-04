@@ -11706,6 +11706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polymega Collection Vol. 6: Heavy Barrel | 337542 | [337542-polymega-collection-vol-6-heavy-barrel.json](./337542-polymega-collection-vol-6-heavy-barrel.json) |
 | Polymega Collection Vol. 7: Breaker's | 339810 | [339810-polymega-collection-vol-7-breakers.json](./339810-polymega-collection-vol-7-breakers.json) |
 | Polymega Collection Vol. 8: Captain Tomaday | 339811 | [339811-polymega-collection-vol-8-captain-tomaday.json](./339811-polymega-collection-vol-8-captain-tomaday.json) |
+| Polymega Collection Vol. 9: Strikers 1945 | 342514 | [342514-polymega-collection-vol-9-strikers-1945.json](./342514-polymega-collection-vol-9-strikers-1945.json) |
 | Polymega Collection Vol.1: Asteroids | 324511 | [324511-polymega-collection-vol-1-asteroids.json](./324511-polymega-collection-vol-1-asteroids.json) |
 | Polymega Collection Vol.17: Gunbird | 387511 | [387511-polymega-collection-vol-17-gunbird.json](./387511-polymega-collection-vol-17-gunbird.json) |
 | Polymega Collection Vol.18: Rival Turf! | 387512 | [387512-polymega-collection-vol-18-rival-turf.json](./387512-polymega-collection-vol-18-rival-turf.json) |
@@ -11996,6 +11997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poolrooms | 303990 | [303990-poolrooms.json](./303990-poolrooms.json) |
 | Pools | 274791 | [274791-pools.json](./274791-pools.json) |
 | Pools of Darkness | 12761 | [12761-pools-of-darkness.json](./12761-pools-of-darkness.json) |
+| Pools: Chapter 0 | 342507 | [342507-pools-chapter-0.json](./342507-pools-chapter-0.json) |
 | Poolscape | 379400 | [379400-poolscape.json](./379400-poolscape.json) |
 | Poolside Boys Kiss: Passion Fruits Hotel Dating Sim | 362196 | [362196-poolside-boys-kiss-passion-fruits-hotel-dating-sim.json](./362196-poolside-boys-kiss-passion-fruits-hotel-dating-sim.json) |
 | Poolside Girls Kiss: Passion Fruits Hotel Dating Sim | 362364 | [362364-poolside-girls-kiss-passion-fruits-hotel-dating-sim.json](./362364-poolside-girls-kiss-passion-fruits-hotel-dating-sim.json) |
