@@ -7577,6 +7577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Abroad Café | 235450 | [235450-lost-abroad-cafe.json](./235450-lost-abroad-cafe.json) |
 | Lost Action Hero | 123762 | [123762-lost-action-hero.json](./123762-lost-action-hero.json) |
 | Lost Adventures of Kroz | 69575 | [69575-lost-adventures-of-kroz.json](./69575-lost-adventures-of-kroz.json) |
+| Lost Age | 333861 | [333861-lost-age.json](./333861-lost-age.json) |
 | Lost Ages Hunting | 409870 | [409870-lost-ages-hunting.json](./409870-lost-ages-hunting.json) |
 | Lost Alice: Destined Lovers in Wonderland | 75422 | [75422-lost-alice-destined-lovers-in-wonderland.json](./75422-lost-alice-destined-lovers-in-wonderland.json) |
 | Lost Alien | 263078 | [263078-lost-alien.json](./263078-lost-alien.json) |
