@@ -7221,6 +7221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Colony | 12411 | [12411-the-colony.json](./12411-the-colony.json) |
 | The Colony | 178020 | [178020-the-colony.json](./178020-the-colony.json) |
 | The Colony 2044 | 271081 | [271081-the-colony-2044.json](./271081-the-colony-2044.json) |
+| The Colony: New Haven Chronicles | 309805 | [309805-the-colony-new-haven-chronicles.json](./309805-the-colony-new-haven-chronicles.json) |
 | The Colorado Cactus Curcuit | 364680 | [364680-the-colorado-cactus-curcuit.json](./364680-the-colorado-cactus-curcuit.json) |
 | The Colorado Cannibal - A Custom Campaign | 420336 | [420336-the-colorado-cannibal-a-custom-campaign.json](./420336-the-colorado-cannibal-a-custom-campaign.json) |
 | The Colored Moth | 184070 | [184070-the-colored-moth.json](./184070-the-colored-moth.json) |
@@ -7615,6 +7616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Dwight Periwinkle | 112599 | [112599-the-curse-of-dwight-periwinkle.json](./112599-the-curse-of-dwight-periwinkle.json) |
 | The Curse of Eclipse | 235807 | [235807-the-curse-of-eclipse.json](./235807-the-curse-of-eclipse.json) |
 | The Curse of Eira | 395078 | [395078-the-curse-of-eira.json](./395078-the-curse-of-eira.json) |
+| The Curse of Elmwood | 309808 | [309808-the-curse-of-elmwood.json](./309808-the-curse-of-elmwood.json) |
 | The Curse of Esrevni | 169868 | [169868-the-curse-of-esrevni.json](./169868-the-curse-of-esrevni.json) |
 | The Curse of Fafnir | 158871 | [158871-the-curse-of-fafnir.json](./158871-the-curse-of-fafnir.json) |
 | The Curse of Feldar Vale | 161558 | [161558-the-curse-of-feldar-vale.json](./161558-the-curse-of-feldar-vale.json) |
@@ -12889,6 +12891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Fountain | 96060 | [96060-the-lost-fountain.json](./96060-the-lost-fountain.json) |
 | The Lost Frames | 309134 | [309134-the-lost-frames.json](./309134-the-lost-frames.json) |
 | The Lost Froglins | 401070 | [401070-the-lost-froglins.json](./401070-the-lost-froglins.json) |
+| The Lost Gallery | 309807 | [309807-the-lost-gallery.json](./309807-the-lost-gallery.json) |
 | The Lost Game | 119734 | [119734-the-lost-game.json](./119734-the-lost-game.json) |
 | The Lost Game: Royal Game of Ur | 157937 | [157937-the-lost-game-royal-game-of-ur.json](./157937-the-lost-game-royal-game-of-ur.json) |
 | The Lost Garden | 345981 | [345981-the-lost-garden.json](./345981-the-lost-garden.json) |
@@ -16579,6 +16582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stairwell | 347177 | [347177-the-stairwell.json](./347177-the-stairwell.json) |
 | The Stalin Subway: Red Veil | 17579 | [17579-the-stalin-subway-red-veil.json](./17579-the-stalin-subway-red-veil.json) |
 | The Stalked | 273803 | [273803-the-stalked.json](./273803-the-stalked.json) |
+| The Stalked 2 | 309798 | [309798-the-stalked-2.json](./309798-the-stalked-2.json) |
 | The Stalked 3 | 372947 | [372947-the-stalked-3.json](./372947-the-stalked-3.json) |
 | The Stalked 4 | 416802 | [416802-the-stalked-4.json](./416802-the-stalked-4.json) |
 | The Stamp | 332591 | [332591-the-stamp.json](./332591-the-stamp.json) |
@@ -16802,6 +16806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Supermarket Hunter | 199338 | [199338-the-supermarket-hunter.json](./199338-the-supermarket-hunter.json) |
 | The Supernatural Power Troll | 322844 | [322844-the-supernatural-power-troll.json](./322844-the-supernatural-power-troll.json) |
 | The Supper | 128289 | [128289-the-supper.json](./128289-the-supper.json) |
+| The Supper: New Blood | 309822 | [309822-the-supper-new-blood.json](./309822-the-supper-new-blood.json) |
 | The Supplier's Complex | 343201 | [343201-the-suppliers-complex.json](./343201-the-suppliers-complex.json) |
 | The Surfeit: Episode 1 | 170497 | [170497-the-surfeit-episode-1.json](./170497-the-surfeit-episode-1.json) |
 | The Surfer | 99471 | [99471-the-surfer.json](./99471-the-surfer.json) |
@@ -30607,6 +30612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trucker's Dynasty - Cuba Libre | 122002 | [122002-truckers-dynasty-cuba-libre.json](./122002-truckers-dynasty-cuba-libre.json) |
 | Truckers Delight Episode 1 | 79034 | [79034-truckers-delight-episode-1.json](./79034-truckers-delight-episode-1.json) |
 | Truckers Double Pack | 142764 | [142764-truckers-double-pack.json](./142764-truckers-double-pack.json) |
+| Truckful | 309799 | [309799-truckful.json](./309799-truckful.json) |
 | Truckin' It! | 382338 | [382338-truckin-it.json](./382338-truckin-it.json) |
 | Trucking | 114961 | [114961-trucking.json](./114961-trucking.json) |
 | Trucking 3D | 58156 | [58156-trucking-3d.json](./58156-trucking-3d.json) |
@@ -30837,6 +30843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try to Remember | 150409 | [150409-try-to-remember.json](./150409-try-to-remember.json) |
 | Try to seize me | 97075 | [97075-try-to-seize-me.json](./97075-try-to-seize-me.json) |
 | Try to Survive | 116552 | [116552-try-to-survive.json](./116552-try-to-survive.json) |
+| Try to Survive Today | 309838 | [309838-try-to-survive-today.json](./309838-try-to-survive-today.json) |
 | Try to Survive! | 172379 | [172379-try-to-survive.json](./172379-try-to-survive.json) |
 | Try to Wake Up : The Legend of Trevis | 296337 | [296337-try-to-wake-up-the-legend-of-trevis.json](./296337-try-to-wake-up-the-legend-of-trevis.json) |
 | Try to Win 2 | 196055 | [196055-try-to-win-2.json](./196055-try-to-win-2.json) |
@@ -31828,6 +31835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Syndrome Tansaku-hen | 65452 | [65452-twilight-syndrome-tansaku-hen.json](./65452-twilight-syndrome-tansaku-hen.json) |
 | Twilight Syndrome: Kinjirareta Toshi Densetsu | 128360 | [128360-twilight-syndrome-kinjirareta-toshi-densetsu.json](./128360-twilight-syndrome-kinjirareta-toshi-densetsu.json) |
 | Twilight Tales: Hollow's Store | 337195 | [337195-twilight-tales-hollows-store.json](./337195-twilight-tales-hollows-store.json) |
+| Twilight Tonics | 309832 | [309832-twilight-tonics.json](./309832-twilight-tonics.json) |
 | Twilight Tower | 182867 | [182867-twilight-tower.json](./182867-twilight-tower.json) |
 | Twilight Towers | 370336 | [370336-twilight-towers.json](./370336-twilight-towers.json) |
 | Twilight Town | 299856 | [299856-twilight-town.json](./299856-twilight-town.json) |
