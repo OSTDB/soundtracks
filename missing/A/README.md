@@ -5738,6 +5738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akogare Girls Collection: Pika Pika Nurse Monogatari | 78477 | [78477-akogare-girls-collection-pika-pika-nurse-monogatari.json](./78477-akogare-girls-collection-pika-pika-nurse-monogatari.json) |
 | Akogare Girls Collection: Suteki ni Nurse Days | 78473 | [78473-akogare-girls-collection-suteki-ni-nurse-days.json](./78473-akogare-girls-collection-suteki-ni-nurse-days.json) |
 | Akogare Mario World | 284225 | [284225-akogare-mario-world.json](./284225-akogare-mario-world.json) |
+| Akogare Mario World Deluxe | 339029 | [339029-akogare-mario-world-deluxe.json](./339029-akogare-mario-world-deluxe.json) |
 | Akogare no Onna Joushi ga Shin'ya no Office de Onatteru Tokoro o Mite kara Hajimaru Himitsu no Kankei. | 230237 | [230237-akogare-no-onna-joushi-ga-shinya-no-office-de-onatteru-tokoro-o-mite-kara-hajimaru-himitsu-no-kankei.json](./230237-akogare-no-onna-joushi-ga-shinya-no-office-de-onatteru-tokoro-o-mite-kara-hajimaru-himitsu-no-kankei.json) |
 | Akolyta | 116211 | [116211-akolyta.json](./116211-akolyta.json) |
 | Akolyte | 364152 | [364152-akolyte.json](./364152-akolyte.json) |
@@ -6481,6 +6482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Cat 6 | 157475 | [157475-alien-cat-6.json](./157475-alien-cat-6.json) |
 | Alien Cat 7 | 151391 | [151391-alien-cat-7.json](./151391-alien-cat-7.json) |
 | Alien Cat 8 | 149854 | [149854-alien-cat-8.json](./149854-alien-cat-8.json) |
+| Alien Cat Story | 339059 | [339059-alien-cat-story.json](./339059-alien-cat-story.json) |
 | Alien Challenge | 39524 | [39524-alien-challenge.json](./39524-alien-challenge.json) |
 | Alien Chaos 3D | 47632 | [47632-alien-chaos-3d.json](./47632-alien-chaos-3d.json) |
 | Alien Cleaner | 299527 | [299527-alien-cleaner.json](./299527-alien-cleaner.json) |
@@ -11787,6 +11789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Armadillo Racing | 411152 | [411152-arcade-archives-armadillo-racing.json](./411152-arcade-archives-armadillo-racing.json) |
 | Arcade Archives: Armed F | 99546 | [99546-arcade-archives-armed-f.json](./99546-arcade-archives-armed-f.json) |
 | Arcade Archives: Assault | 218969 | [218969-arcade-archives-assault.json](./218969-arcade-archives-assault.json) |
+| Arcade Archives: Assault Plus | 339045 | [339045-arcade-archives-assault-plus.json](./339045-arcade-archives-assault-plus.json) |
 | Arcade Archives: Athena | 113437 | [113437-arcade-archives-athena.json](./113437-arcade-archives-athena.json) |
 | Arcade Archives: Atomic Robo-Kid | 121428 | [121428-arcade-archives-atomic-robo-kid.json](./121428-arcade-archives-atomic-robo-kid.json) |
 | Arcade Archives: Baraduke | 225509 | [225509-arcade-archives-baraduke.json](./225509-arcade-archives-baraduke.json) |
