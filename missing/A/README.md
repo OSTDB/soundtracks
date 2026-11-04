@@ -11490,6 +11490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarium Land: Baby Seal | 303336 | [303336-aquarium-land-baby-seal.json](./303336-aquarium-land-baby-seal.json) |
 | Aquarium Land: Baby Seal Edition | 278650 | [278650-aquarium-land-baby-seal-edition.json](./278650-aquarium-land-baby-seal-edition.json) |
 | Aquarium Land: Complete Edition | 273299 | [273299-aquarium-land-complete-edition.json](./273299-aquarium-land-complete-edition.json) |
+| Aquarium Land: Gold Edition | 343571 | [343571-aquarium-land-gold-edition.json](./343571-aquarium-land-gold-edition.json) |
 | Aquarium Land: Parrot | 303337 | [303337-aquarium-land-parrot.json](./303337-aquarium-land-parrot.json) |
 | Aquarium Land: Platinum Edition | 385193 | [385193-aquarium-land-platinum-edition.json](./385193-aquarium-land-platinum-edition.json) |
 | Aquarium Land: Puppy | 303338 | [303338-aquarium-land-puppy.json](./303338-aquarium-land-puppy.json) |
