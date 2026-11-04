@@ -16138,6 +16138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proteus Zone | 355111 | [355111-proteus-zone.json](./355111-proteus-zone.json) |
 | Protium | 68351 | [68351-protium.json](./68351-protium.json) |
 | Proto Akane | 197088 | [197088-proto-akane.json](./197088-proto-akane.json) |
+| Proto Bat-Bot: Battle for Gotham City | 299323 | [299323-proto-bat-bot-battle-for-gotham-city.json](./299323-proto-bat-bot-battle-for-gotham-city.json) |
 | Proto Cuckoo 64 | 150982 | [150982-proto-cuckoo-64.json](./150982-proto-cuckoo-64.json) |
 | Proto Garden | 304525 | [304525-proto-garden.json](./304525-proto-garden.json) |
 | Proto Mecha Game | 363906 | [363906-proto-mecha-game.json](./363906-proto-mecha-game.json) |
@@ -16620,6 +16621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pucca's Restaurant | 65476 | [65476-puccas-restaurant.json](./65476-puccas-restaurant.json) |
 | Pucchin Puzzle | 288173 | [288173-pucchin-puzzle.json](./288173-pucchin-puzzle.json) |
 | Puchaina | 360299 | [360299-puchaina.json](./360299-puchaina.json) |
+| Puchi Carat | 299316 | [299316-puchi-carat.json](./299316-puchi-carat.json) |
 | Puchi Carat | 37322 | [37322-puchi-carat.json](./37322-puchi-carat.json) |
 | Puchi Eva: Evangelion@Game | 59826 | [59826-puchi-eva-evangelion-game.json](./59826-puchi-eva-evangelion-game.json) |
 | Puchi Nikki | 201840 | [201840-puchi-nikki.json](./201840-puchi-nikki.json) |
