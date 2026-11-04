@@ -2657,6 +2657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In a Bit of Tales | 344525 | [344525-in-a-bit-of-tales.json](./344525-in-a-bit-of-tales.json) |
 | In A Dark Cave | 179175 | [179175-in-a-dark-cave.json](./179175-in-a-dark-cave.json) |
 | In a Detective's Mind | 289011 | [289011-in-a-detectives-mind.json](./289011-in-a-detectives-mind.json) |
+| In a Keybind | 326493 | [326493-in-a-keybind.json](./326493-in-a-keybind.json) |
 | In a search of a new home | 133407 | [133407-in-a-search-of-a-new-home.json](./133407-in-a-search-of-a-new-home.json) |
 | In a World After People | 339956 | [339956-in-a-world-after-people.json](./339956-in-a-world-after-people.json) |
 | In Another World with My Smartphone: Fantasia Connect | 403148 | [403148-in-another-world-with-my-smartphone-fantasia-connect.json](./403148-in-another-world-with-my-smartphone-fantasia-connect.json) |
@@ -2712,6 +2713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Loving, Oblivion | 372761 | [372761-in-loving-oblivion.json](./372761-in-loving-oblivion.json) |
 | In Marte: The First Moon | 172312 | [172312-in-marte-the-first-moon.json](./172312-in-marte-the-first-moon.json) |
 | In Memoriam | 303586 | [303586-in-memoriam.json](./303586-in-memoriam.json) |
+| In Memoriam | 326372 | [326372-in-memoriam.json](./326372-in-memoriam.json) |
 | In Memory of Mrs Frog | 416595 | [416595-in-memory-of-mrs-frog.json](./416595-in-memory-of-mrs-frog.json) |
 | In Memory of the Eternity | 183370 | [183370-in-memory-of-the-eternity.json](./183370-in-memory-of-the-eternity.json) |
 | In Memory of Titan | 69314 | [69314-in-memory-of-titan.json](./69314-in-memory-of-titan.json) |
