@@ -6789,6 +6789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Flesh and Blood | 18350 | [18350-beyond-flesh-and-blood.json](./18350-beyond-flesh-and-blood.json) |
 | Beyond Flesh and Blood Episode 1 | 34740 | [34740-beyond-flesh-and-blood-episode-1.json](./34740-beyond-flesh-and-blood-episode-1.json) |
 | Beyond Galaxyland | 296381 | [296381-beyond-galaxyland.json](./296381-beyond-galaxyland.json) |
+| Beyond Golden Coins: Wario's Conquest + SML2 Reclaimed | 316536 | [316536-beyond-golden-coins-warios-conquest-sml2-reclaimed.json](./316536-beyond-golden-coins-warios-conquest-sml2-reclaimed.json) |
 | Beyond Good & Evil 2 | 1936 | [1936-beyond-good-and-evil-2.json](./1936-beyond-good-and-evil-2.json) |
 | Beyond Good & Evil HD | 20437 | [20437-beyond-good-and-evil-hd.json](./20437-beyond-good-and-evil-hd.json) |
 | Beyond Hanwell | 265409 | [265409-beyond-hanwell.json](./265409-beyond-hanwell.json) |
@@ -15857,6 +15858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble | 153746 | [153746-bubble.json](./153746-bubble.json) |
 | Bubble | 287650 | [287650-bubble.json](./287650-bubble.json) |
 | Bubble | 88295 | [88295-bubble.json](./88295-bubble.json) |
+| Bubble Aim | 316555 | [316555-bubble-aim.json](./316555-bubble-aim.json) |
 | Bubble Attack | 193993 | [193993-bubble-attack.json](./193993-bubble-attack.json) |
 | Bubble Ball! | 276240 | [276240-bubble-ball.json](./276240-bubble-ball.json) |
 | Bubble Bash | 73570 | [73570-bubble-bash.json](./73570-bubble-bash.json) |
