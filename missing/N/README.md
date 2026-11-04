@@ -1038,6 +1038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naughty College 18+ | 258984 | [258984-naughty-college-18.json](./258984-naughty-college-18.json) |
 | Naughty Doughy | 367099 | [367099-naughty-doughy.json](./367099-naughty-doughy.json) |
 | Naughty Elves | 76319 | [76319-naughty-elves.json](./76319-naughty-elves.json) |
+| Naughty Geese | 305087 | [305087-naughty-geese.json](./305087-naughty-geese.json) |
 | Naughty Girl | 382486 | [382486-naughty-girl.json](./382486-naughty-girl.json) |
 | Naughty Girl 2 | 367915 | [367915-naughty-girl-2.json](./367915-naughty-girl-2.json) |
 | Naughty Kittens | 368765 | [368765-naughty-kittens.json](./368765-naughty-kittens.json) |
@@ -2755,8 +2756,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netflix Infinite Runner | 76873 | [76873-netflix-infinite-runner.json](./76873-netflix-infinite-runner.json) |
 | Netflix Puzzled | 364819 | [364819-netflix-puzzled.json](./364819-netflix-puzzled.json) |
 | Netflix Stories | 358569 | [358569-netflix-stories.json](./358569-netflix-stories.json) |
+| Netflix Stories: Emily in Paris | 305101 | [305101-netflix-stories-emily-in-paris.json](./305101-netflix-stories-emily-in-paris.json) |
 | Netflix Stories: Love Is Blind | 268848 | [268848-netflix-stories-love-is-blind.json](./268848-netflix-stories-love-is-blind.json) |
 | Netflix Stories: Money Heist | 276333 | [276333-netflix-stories-money-heist.json](./276333-netflix-stories-money-heist.json) |
+| Netflix Stories: Perfect Match | 305100 | [305100-netflix-stories-perfect-match.json](./305100-netflix-stories-perfect-match.json) |
+| Netflix Stories: Selling Sunset | 305102 | [305102-netflix-stories-selling-sunset.json](./305102-netflix-stories-selling-sunset.json) |
 | Netflix Stories: Sex Education | 358223 | [358223-netflix-stories-sex-education.json](./358223-netflix-stories-sex-education.json) |
 | NetGame Adventure | 252298 | [252298-netgame-adventure.json](./252298-netgame-adventure.json) |
 | Netghost | 293838 | [293838-netghost.json](./293838-netghost.json) |
