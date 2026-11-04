@@ -968,6 +968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salary Man Champ Tatakau Salary man | 383718 | [383718-salary-man-champ-tatakau-salary-man.json](./383718-salary-man-champ-tatakau-salary-man.json) |
 | Salary Man Escape | 104678 | [104678-salary-man-escape.json](./104678-salary-man-escape.json) |
 | Salary Man Mario | 249751 | [249751-salary-man-mario.json](./249751-salary-man-mario.json) |
+| Salary-Mon: Hiro Versus His Demons | 334408 | [334408-salary-mon-hiro-versus-his-demons.json](./334408-salary-mon-hiro-versus-his-demons.json) |
 | Salaryman Rescue! | 268953 | [268953-salaryman-rescue.json](./268953-salaryman-rescue.json) |
 | Saleblazers | 198241 | [198241-saleblazers.json](./198241-saleblazers.json) |
 | Salem | 23613 | [23613-salem.json](./23613-salem.json) |
@@ -1456,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanctuarium Online | 191858 | [191858-sanctuarium-online.json](./191858-sanctuarium-online.json) |
 | Sanctuary | 176640 | [176640-sanctuary.json](./176640-sanctuary.json) |
 | Sanctuary | 178333 | [178333-sanctuary.json](./178333-sanctuary.json) |
+| Sanctuary | 334442 | [334442-sanctuary.json](./334442-sanctuary.json) |
 | Sanctuary Island | 150772 | [150772-sanctuary-island.json](./150772-sanctuary-island.json) |
 | Sanctuary Saga | 233575 | [233575-sanctuary-saga.json](./233575-sanctuary-saga.json) |
 | Sanctuary VR | 30182 | [30182-sanctuary-vr.json](./30182-sanctuary-vr.json) |
@@ -5071,6 +5073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selenon Rising: Episode 2 | 171367 | [171367-selenon-rising-episode-2.json](./171367-selenon-rising-episode-2.json) |
 | Selenon Rising: Episode 3 | 171368 | [171368-selenon-rising-episode-3.json](./171368-selenon-rising-episode-3.json) |
 | Selenwald | 190988 | [190988-selenwald.json](./190988-selenwald.json) |
+| Seleos | 334443 | [334443-seleos.json](./334443-seleos.json) |
 | Self | 118430 | [118430-self.json](./118430-self.json) |
 | Self Defense Kinda... | 258468 | [258468-self-defense-kinda.json](./258468-self-defense-kinda.json) |
 | Self Deleted | 412985 | [412985-self-deleted.json](./412985-self-deleted.json) |
@@ -9997,6 +10000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Escape: Induction | 127945 | [127945-silent-escape-induction.json](./127945-silent-escape-induction.json) |
 | Silent Evil Dead Horror Syndrome | 401441 | [401441-silent-evil-dead-horror-syndrome.json](./401441-silent-evil-dead-horror-syndrome.json) |
 | Silent Express | 348161 | [348161-silent-express.json](./348161-silent-express.json) |
+| Silent Exterminator | 334431 | [334431-silent-exterminator.json](./334431-silent-exterminator.json) |
 | Silent Fangs: Stealthy Vampire's Tale | 371264 | [371264-silent-fangs-stealthy-vampires-tale.json](./371264-silent-fangs-stealthy-vampires-tale.json) |
 | Silent Footsteps | 105072 | [105072-silent-footsteps.json](./105072-silent-footsteps.json) |
 | Silent Forest: Deadly Night Horror | 330404 | [330404-silent-forest-deadly-night-horror.json](./330404-silent-forest-deadly-night-horror.json) |
@@ -15499,6 +15503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soko | 415200 | [415200-soko.json](./415200-soko.json) |
 | SOKO 1977: Anti-Terror Task Force | 411267 | [411267-soko-1977-anti-terror-task-force.json](./411267-soko-1977-anti-terror-task-force.json) |
 | Soko Banana | 333712 | [333712-soko-banana.json](./333712-soko-banana.json) |
+| Soko Banish | 334436 | [334436-soko-banish.json](./334436-soko-banish.json) |
 | Soko Loco | 129576 | [129576-soko-loco.json](./129576-soko-loco.json) |
 | Soko Loco Deluxe | 115328 | [115328-soko-loco-deluxe.json](./115328-soko-loco-deluxe.json) |
 | Soko Match | 31570 | [31570-soko-match.json](./31570-soko-match.json) |
@@ -18843,7 +18848,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
