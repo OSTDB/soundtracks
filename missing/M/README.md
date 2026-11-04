@@ -5718,6 +5718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -7749,6 +7750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megacraft Hentai Survival | 149428 | [149428-megacraft-hentai-survival.json](./149428-megacraft-hentai-survival.json) |
 | MegaCryptoPolis | 182339 | [182339-megacryptopolis.json](./182339-megacryptopolis.json) |
 | Megadeka | 344474 | [344474-megadeka.json](./344474-megadeka.json) |
+| MegaDestroyer Frantis | 317472 | [317472-megadestroyer-frantis.json](./317472-megadestroyer-frantis.json) |
 | Megadimension Neptunia VII | 9620 | [9620-megadimension-neptunia-vii.json](./9620-megadimension-neptunia-vii.json) |
 | Megadimension Neptunia VII: Dream Edition | 212333 | [212333-megadimension-neptunia-vii-dream-edition.json](./212333-megadimension-neptunia-vii-dream-edition.json) |
 | Megadimension Neptunia VII: Party Character - God Eater | 238177 | [238177-megadimension-neptunia-vii-party-character-god-eater.json](./238177-megadimension-neptunia-vii-party-character-god-eater.json) |
@@ -13475,6 +13477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mister Gas | 272457 | [272457-mister-gas.json](./272457-mister-gas.json) |
 | Mister Gato Idle: The Meowsiah | 348250 | [348250-mister-gato-idle-the-meowsiah.json](./348250-mister-gato-idle-the-meowsiah.json) |
 | Mister Jump | 106872 | [106872-mister-jump.json](./106872-mister-jump.json) |
+| Mister Mosquito | 317461 | [317461-mister-mosquito.json](./317461-mister-mosquito.json) |
 | Mister Mosquito | 8966 | [8966-mister-mosquito.json](./8966-mister-mosquito.json) |
 | Mister Quizz Et La Malédiction Du Manoir | 85762 | [85762-mister-quizz-et-la-malediction-du-manoir.json](./85762-mister-quizz-et-la-malediction-du-manoir.json) |
 | Mister Rogers' Neighborhood | 138092 | [138092-mister-rogers-neighborhood.json](./138092-mister-rogers-neighborhood.json) |
@@ -17950,6 +17953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Gold: Tooyama no Kinsan Space Chou | 41317 | [41317-mr-gold-tooyama-no-kinsan-space-chou.json](./41317-mr-gold-tooyama-no-kinsan-space-chou.json) |
 | Mr. Golden Revenge Machine | 369327 | [369327-mr-golden-revenge-machine.json](./369327-mr-golden-revenge-machine.json) |
 | Mr. Golf | 57050 | [57050-mr-golf.json](./57050-mr-golf.json) |
+| Mr. Goofer’s Mini Game Arcade Party! | 317151 | [317151-mr-goofer-s-mini-game-arcade-party.json](./317151-mr-goofer-s-mini-game-arcade-party.json) |
 | Mr. Gray and the Island Invasion | 177729 | [177729-mr-gray-and-the-island-invasion.json](./177729-mr-gray-and-the-island-invasion.json) |
 | Mr. Grin's Final Act | 382591 | [382591-mr-grins-final-act.json](./382591-mr-grins-final-act.json) |
 | Mr. Grumpy | 125622 | [125622-mr-grumpy.json](./125622-mr-grumpy.json) |
@@ -18334,6 +18338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mugsy & Mugsy's Revenge | 204166 | [204166-mugsy-and-mugsys-revenge.json](./204166-mugsy-and-mugsys-revenge.json) |
 | Mugsy's Revenge | 26216 | [26216-mugsys-revenge.json](./26216-mugsys-revenge.json) |
 | Muh Quest | 353607 | [353607-muh-quest.json](./353607-muh-quest.json) |
+| Muhaboy | 317160 | [317160-muhaboy.json](./317160-muhaboy.json) |
 | Muhammad Ali | 228360 | [228360-muhammad-ali.json](./228360-muhammad-ali.json) |
 | Muhammad Ali Heavyweight Boxing | 288070 | [288070-muhammad-ali-heavyweight-boxing.json](./288070-muhammad-ali-heavyweight-boxing.json) |
 | Muhammad Ali Heavyweight Boxing | 46269 | [46269-muhammad-ali-heavyweight-boxing.json](./46269-muhammad-ali-heavyweight-boxing.json) |
