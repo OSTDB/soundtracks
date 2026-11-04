@@ -355,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zavas II: The Prophecy of Mehitae | 232826 | [232826-zavas-ii-the-prophecy-of-mehitae.json](./232826-zavas-ii-the-prophecy-of-mehitae.json) |
 | Zaviga | 40567 | [40567-zaviga.json](./40567-zaviga.json) |
 | Zavix Tower | 25104 | [25104-zavix-tower.json](./25104-zavix-tower.json) |
+| Zavod | 331602 | [331602-zavod.json](./331602-zavod.json) |
 | Zavod | 367584 | [367584-zavod.json](./367584-zavod.json) |
 | Zavod: Conveyor Logic | 298623 | [298623-zavod-conveyor-logic.json](./298623-zavod-conveyor-logic.json) |
 | Závody o jahody | 397107 | [397107-zavody-o-jahody.json](./397107-zavody-o-jahody.json) |
