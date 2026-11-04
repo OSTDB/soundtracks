@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kai-ri-Sei Million Arthur VR | 26642 | [26642-kai-ri-sei-million-arthur-vr.json](./26642-kai-ri-sei-million-arthur-vr.json) |
 | Kai-Ri-Sei Million Arthur: Ring | 318432 | [318432-kai-ri-sei-million-arthur-ring.json](./318432-kai-ri-sei-million-arthur-ring.json) |
 | Kai.Ren | 174877 | [174877-kai-ren.json](./174877-kai-ren.json) |
+| Kai's Bird Game, by Kai | 329303 | [329303-kais-bird-game-by-kai.json](./329303-kais-bird-game-by-kai.json) |
 | Kaia's Ascent | 337995 | [337995-kaias-ascent.json](./337995-kaias-ascent.json) |
 | Kaibil | 390732 | [390732-kaibil.json](./390732-kaibil.json) |
 | Kaibutsu Para-Dice | 263672 | [263672-kaibutsu-para-dice.json](./263672-kaibutsu-para-dice.json) |
