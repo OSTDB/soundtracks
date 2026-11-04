@@ -2623,6 +2623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemstone Tree | 399567 | [399567-gemstone-tree.json](./399567-gemstone-tree.json) |
 | Gemstone Warrior | 25693 | [25693-gemstone-warrior.json](./25693-gemstone-warrior.json) |
 | Gemstones | 231616 | [231616-gemstones.json](./231616-gemstones.json) |
+| Gemstones Rush Mania | 344130 | [344130-gemstones-rush-mania.json](./344130-gemstones-rush-mania.json) |
 | Gemsweeper | 135284 | [135284-gemsweeper.json](./135284-gemsweeper.json) |
 | Gemtactix | 99386 | [99386-gemtactix.json](./99386-gemtactix.json) |
 | Gemtrader Story 2: Blood Relationship | 227377 | [227377-gemtrader-story-2-blood-relationship.json](./227377-gemtrader-story-2-blood-relationship.json) |
@@ -5616,6 +5617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblins Please | 260405 | [260405-goblins-please.json](./260405-goblins-please.json) |
 | Goblins Quest 3 | 1932 | [1932-goblins-quest-3.json](./1932-goblins-quest-3.json) |
 | Goblins With Guns | 364039 | [364039-goblins-with-guns.json](./364039-goblins-with-guns.json) |
+| Goblins Wood | 344117 | [344117-goblins-wood.json](./344117-goblins-wood.json) |
 | Goblintown: Really Hard Driving Game | 341290 | [341290-goblintown-really-hard-driving-game.json](./341290-goblintown-really-hard-driving-game.json) |
 | Goblita’s Delivery Service | 349264 | [349264-goblita-s-delivery-service.json](./349264-goblita-s-delivery-service.json) |
 | GoBlock's Impossible Medley | 28884 | [28884-goblocks-impossible-medley.json](./28884-goblocks-impossible-medley.json) |
