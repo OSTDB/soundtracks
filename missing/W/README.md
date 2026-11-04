@@ -950,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the Vikings | 5678 | [5678-war-of-the-vikings.json](./5678-war-of-the-vikings.json) |
 | War of the Visions: Final Fantasy Brave Exvius | 112885 | [112885-war-of-the-visions-final-fantasy-brave-exvius.json](./112885-war-of-the-visions-final-fantasy-brave-exvius.json) |
 | War of the Wasteland | 129456 | [129456-war-of-the-wasteland.json](./129456-war-of-the-wasteland.json) |
+| War of the Web | 312807 | [312807-war-of-the-web.json](./312807-war-of-the-web.json) |
 | War of the Western Deep | 310069 | [310069-war-of-the-western-deep.json](./310069-war-of-the-western-deep.json) |
 | War of the Worlds | 175633 | [175633-war-of-the-worlds.json](./175633-war-of-the-worlds.json) |
 | War of the Worlds | 232866 | [232866-war-of-the-worlds.json](./232866-war-of-the-worlds.json) |
@@ -5547,6 +5548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing Arms | 19720 | [19720-wing-arms.json](./19720-wing-arms.json) |
 | Wing Breakers | 180305 | [180305-wing-breakers.json](./180305-wing-breakers.json) |
 | Wing Chun: Pak Sung Bo Legends | 165702 | [165702-wing-chun-pak-sung-bo-legends.json](./165702-wing-chun-pak-sung-bo-legends.json) |
+| Wing Commander | 312503 | [312503-wing-commander.json](./312503-wing-commander.json) |
 | Wing Commander 1+2 | 154172 | [154172-wing-commander-1-2.json](./154172-wing-commander-1-2.json) |
 | Wing Commander 5: Prophecy - Gold Edition | 51779 | [51779-wing-commander-5-prophecy-gold-edition.json](./51779-wing-commander-5-prophecy-gold-edition.json) |
 | Wing Commander Academy | 14484 | [14484-wing-commander-academy.json](./14484-wing-commander-academy.json) |
