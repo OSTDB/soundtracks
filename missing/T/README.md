@@ -1588,6 +1588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talparun | 268905 | [268905-talparun.json](./268905-talparun.json) |
 | Talsaluq: Tower of Infinity | 76301 | [76301-talsaluq-tower-of-infinity.json](./76301-talsaluq-tower-of-infinity.json) |
 | Talshard | 127821 | [127821-talshard.json](./127821-talshard.json) |
+| Talus | 310875 | [310875-talus.json](./310875-talus.json) |
 | Talvisota: Icy Hell | 9095 | [9095-talvisota-icy-hell.json](./9095-talvisota-icy-hell.json) |
 | Talvisota: Winter War | 286414 | [286414-talvisota-winter-war.json](./286414-talvisota-winter-war.json) |
 | Talystro | 334352 | [334352-talystro.json](./334352-talystro.json) |
@@ -6831,6 +6832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Captives: Plot of the Demiurge | 90137 | [90137-the-captives-plot-of-the-demiurge.json](./90137-the-captives-plot-of-the-demiurge.json) |
 | The Capture Worlds | 96635 | [96635-the-capture-worlds.json](./96635-the-capture-worlds.json) |
 | The Capybara P | 219049 | [219049-the-capybara-p.json](./219049-the-capybara-p.json) |
+| The Capybarrier | 310908 | [310908-the-capybarrier.json](./310908-the-capybarrier.json) |
 | The Carcass | 386476 | [386476-the-carcass.json](./386476-the-carcass.json) |
 | The Card Battle: Eternal Destiny | 173121 | [173121-the-card-battle-eternal-destiny.json](./173121-the-card-battle-eternal-destiny.json) |
 | The Card Perfect Collection Plus: Texas Hold 'em, Solitaire and Others | 255213 | [255213-the-card-perfect-collection-plus-texas-hold-em-solitaire-and-others.json](./255213-the-card-perfect-collection-plus-texas-hold-em-solitaire-and-others.json) |
@@ -8388,6 +8390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dust Below | 183542 | [183542-the-dust-below.json](./183542-the-dust-below.json) |
 | The DvD Idle Game | 373325 | [373325-the-dvd-idle-game.json](./373325-the-dvd-idle-game.json) |
 | The Dwarf | 257879 | [257879-the-dwarf.json](./257879-the-dwarf.json) |
+| The Dwarf Kingdom | 310903 | [310903-the-dwarf-kingdom.json](./310903-the-dwarf-kingdom.json) |
 | The Dwarf Run | 34654 | [34654-the-dwarf-run.json](./34654-the-dwarf-run.json) |
 | The Dwarves | 13164 | [13164-the-dwarves.json](./13164-the-dwarves.json) |
 | The Dwarves of Glistenveld | 117359 | [117359-the-dwarves-of-glistenveld.json](./117359-the-dwarves-of-glistenveld.json) |
@@ -9869,6 +9872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Good Overlord | 272582 | [272582-the-good-overlord.json](./272582-the-good-overlord.json) |
 | The Good People | 312872 | [312872-the-good-people.json](./312872-the-good-people.json) |
 | The Good People: Na Daoine Maithe | 212138 | [212138-the-good-people-na-daoine-maithe.json](./212138-the-good-people-na-daoine-maithe.json) |
+| The Good Plague | 310888 | [310888-the-good-plague.json](./310888-the-good-plague.json) |
 | The Good Time Garden | 127409 | [127409-the-good-time-garden.json](./127409-the-good-time-garden.json) |
 | The Good Weapon | 286960 | [286960-the-good-weapon.json](./286960-the-good-weapon.json) |
 | The Good, the Bad & the Monkey | 348900 | [348900-the-good-the-bad-and-the-monkey.json](./348900-the-good-the-bad-and-the-monkey.json) |
@@ -10262,6 +10266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hauntings | 164988 | [164988-the-hauntings.json](./164988-the-hauntings.json) |
 | The Hauntings: Dark Passenger | 269986 | [269986-the-hauntings-dark-passenger.json](./269986-the-hauntings-dark-passenger.json) |
 | The Hauntings: Surveillance | 202367 | [202367-the-hauntings-surveillance.json](./202367-the-hauntings-surveillance.json) |
+| The Hauntings: Surveillance | 310872 | [310872-the-hauntings-surveillance.json](./310872-the-hauntings-surveillance.json) |
 | The HD Adventures of Rotating Octopus Character | 52912 | [52912-the-hd-adventures-of-rotating-octopus-character.json](./52912-the-hd-adventures-of-rotating-octopus-character.json) |
 | The Headlands | 389687 | [389687-the-headlands.json](./389687-the-headlands.json) |
 | The Headmaster | 321293 | [321293-the-headmaster.json](./321293-the-headmaster.json) |
@@ -14521,6 +14526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Placebos | 82478 | [82478-the-placebos.json](./82478-the-placebos.json) |
 | The Places Where Snow Lingers | 327002 | [327002-the-places-where-snow-lingers.json](./327002-the-places-where-snow-lingers.json) |
 | The Plague | 26707 | [26707-the-plague.json](./26707-the-plague.json) |
+| The Plague | 310978 | [310978-the-plague.json](./310978-the-plague.json) |
 | The Plague: Kingdom Wars - Dead Rising | 171356 | [171356-the-plague-kingdom-wars-dead-rising.json](./171356-the-plague-kingdom-wars-dead-rising.json) |
 | The Plan | 11764 | [11764-the-plan.json](./11764-the-plan.json) |
 | The Plane Game | 185483 | [185483-the-plane-game.json](./185483-the-plane-game.json) |
@@ -14597,6 +14603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Power Latch Kid | 152493 | [152493-the-power-latch-kid.json](./152493-the-power-latch-kid.json) |
 | The Power of Blood | 184775 | [184775-the-power-of-blood.json](./184775-the-power-of-blood.json) |
 | The power of chaos | 118369 | [118369-the-power-of-chaos.json](./118369-the-power-of-chaos.json) |
+| The Power of Doznath | 310902 | [310902-the-power-of-doznath.json](./310902-the-power-of-doznath.json) |
 | The Power of Fish | 382321 | [382321-the-power-of-fish.json](./382321-the-power-of-fish.json) |
 | The Power of Love | 101934 | [101934-the-power-of-love.json](./101934-the-power-of-love.json) |
 | The Power Pack | 70780 | [70780-the-power-pack.json](./70780-the-power-pack.json) |
@@ -15148,6 +15155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rewind Factory | 199234 | [199234-the-rewind-factory.json](./199234-the-rewind-factory.json) |
 | The Rewind Hero Returns | 404992 | [404992-the-rewind-hero-returns.json](./404992-the-rewind-hero-returns.json) |
 | The Rewinder | 127031 | [127031-the-rewinder.json](./127031-the-rewinder.json) |
+| The Rewinder 2 | 310894 | [310894-the-rewinder-2.json](./310894-the-rewinder-2.json) |
 | The Rewinder: Definitive Edition | 294824 | [294824-the-rewinder-definitive-edition.json](./294824-the-rewinder-definitive-edition.json) |
 | The Rewinder: Root of Evil | 267364 | [267364-the-rewinder-root-of-evil.json](./267364-the-rewinder-root-of-evil.json) |
 | The Rewrite Journal | 297573 | [297573-the-rewrite-journal.json](./297573-the-rewrite-journal.json) |
@@ -20264,6 +20272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tickets 4Love | 310588 | [310588-tickets-4love.json](./310588-tickets-4love.json) |
 | Tickets, Please! | 364668 | [364668-tickets-please.json](./364668-tickets-please.json) |
 | Tickets, Please! | 406202 | [406202-tickets-please.json](./406202-tickets-please.json) |
+| Tickety Boom | 310900 | [310900-tickety-boom.json](./310900-tickety-boom.json) |
 | Ticking Tea Time | 327184 | [327184-ticking-tea-time.json](./327184-ticking-tea-time.json) |
 | Tickle Dice | 184436 | [184436-tickle-dice.json](./184436-tickle-dice.json) |
 | Tickle Girl | 275438 | [275438-tickle-girl.json](./275438-tickle-girl.json) |
