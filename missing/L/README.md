@@ -7297,6 +7297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lootborn Warriors | 373270 | [373270-lootborn-warriors.json](./373270-lootborn-warriors.json) |
 | Lootborne | 406315 | [406315-lootborne.json](./406315-lootborne.json) |
 | Lootbox Gungeon | 179162 | [179162-lootbox-gungeon.json](./179162-lootbox-gungeon.json) |
+| Lootbox Incremental | 341261 | [341261-lootbox-incremental.json](./341261-lootbox-incremental.json) |
 | Lootbox Lyfe | 118586 | [118586-lootbox-lyfe.json](./118586-lootbox-lyfe.json) |
 | Lootbox Lyfe+ | 238185 | [238185-lootbox-lyfe.json](./238185-lootbox-lyfe.json) |
 | Lootcraft | 126418 | [126418-lootcraft.json](./126418-lootcraft.json) |
