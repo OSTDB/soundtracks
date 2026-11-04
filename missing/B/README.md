@@ -946,7 +946,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5756,6 +5755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beer Pong VR | 88194 | [88194-beer-pong-vr.json](./88194-beer-pong-vr.json) |
 | Beer Run | 18778 | [18778-beer-run.json](./18778-beer-run.json) |
 | Beer Run | 281957 | [281957-beer-run.json](./281957-beer-run.json) |
+| Beer Runner | 303945 | [303945-beer-runner.json](./303945-beer-runner.json) |
 | Beer Runner | 338227 | [338227-beer-runner.json](./338227-beer-runner.json) |
 | Beer Runner: Yasuke A Samurai | 338228 | [338228-beer-runner-yasuke-a-samurai.json](./338228-beer-runner-yasuke-a-samurai.json) |
 | Beer Shooter | 101526 | [101526-beer-shooter.json](./101526-beer-shooter.json) |
@@ -11623,6 +11623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob and Prickle | 122054 | [122054-bob-and-prickle.json](./122054-bob-and-prickle.json) |
 | Bob and Rob | 177748 | [177748-bob-and-rob.json](./177748-bob-and-rob.json) |
 | Bob and the Alien Fire Flies | 304224 | [304224-bob-and-the-alien-fire-flies.json](./304224-bob-and-the-alien-fire-flies.json) |
+| Bob and the Alien Fireflies | 304225 | [304225-bob-and-the-alien-fireflies.json](./304225-bob-and-the-alien-fireflies.json) |
 | Bob Came in Pieces | 2356 | [2356-bob-came-in-pieces.json](./2356-bob-came-in-pieces.json) |
 | Bob Does Not Care | 181903 | [181903-bob-does-not-care.json](./181903-bob-does-not-care.json) |
 | Bob Don't Sleep! | 369201 | [369201-bob-dont-sleep.json](./369201-bob-dont-sleep.json) |
@@ -13500,6 +13501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boundland | 329511 | [329511-boundland.json](./329511-boundland.json) |
 | Boundless | 14365 | [14365-boundless.json](./14365-boundless.json) |
 | Boundless | 369560 | [369560-boundless.json](./369560-boundless.json) |
+| Boundless Lust | 303933 | [303933-boundless-lust.json](./303933-boundless-lust.json) |
 | Boundless Paths | 267023 | [267023-boundless-paths.json](./267023-boundless-paths.json) |
 | Boundless Skies | 278969 | [278969-boundless-skies.json](./278969-boundless-skies.json) |
 | Boundless: Digital Deluxe Edition | 118551 | [118551-boundless-digital-deluxe-edition.json](./118551-boundless-digital-deluxe-edition.json) |
@@ -15242,6 +15244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brightstone Mysteries: The Others | 234630 | [234630-brightstone-mysteries-the-others.json](./234630-brightstone-mysteries-the-others.json) |
 | Brigitte: Ernaehrungs Coach | 269678 | [269678-brigitte-ernaehrungs-coach.json](./269678-brigitte-ernaehrungs-coach.json) |
 | BrikGames | 400690 | [400690-brikgames.json](./400690-brikgames.json) |
+| Briko | 303125 | [303125-briko.json](./303125-briko.json) |
 | Briks | 99505 | [99505-briks.json](./99505-briks.json) |
 | Briks 2 | 89668 | [89668-briks-2.json](./89668-briks-2.json) |
 | Briks Boss Battle | 374669 | [374669-briks-boss-battle.json](./374669-briks-boss-battle.json) |
