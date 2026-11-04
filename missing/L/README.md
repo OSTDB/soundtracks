@@ -6294,6 +6294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living with My Bratty Neighbor | 408970 | [408970-living-with-my-bratty-neighbor.json](./408970-living-with-my-bratty-neighbor.json) |
 | Living with My Little Sister | 344529 | [344529-living-with-my-little-sister.json](./344529-living-with-my-little-sister.json) |
 | Living With Sister: Monochrome Fantasy | 292385 | [292385-living-with-sister-monochrome-fantasy.json](./292385-living-with-sister-monochrome-fantasy.json) |
+| Living With Sister: Monochrome Fantasy - Expansion DLC | 311423 | [311423-living-with-sister-monochrome-fantasy-expansion-dlc.json](./311423-living-with-sister-monochrome-fantasy-expansion-dlc.json) |
 | Living with Temptation 1: Wild Weekends & Wife Gone Wilder | 234112 | [234112-living-with-temptation-1-wild-weekends-and-wife-gone-wilder.json](./234112-living-with-temptation-1-wild-weekends-and-wife-gone-wilder.json) |
 | Living with Temptation 2: French Confessions | 384894 | [384894-living-with-temptation-2-french-confessions.json](./384894-living-with-temptation-2-french-confessions.json) |
 | Living with Temptation: American Sunset | 293877 | [293877-living-with-temptation-american-sunset.json](./293877-living-with-temptation-american-sunset.json) |
