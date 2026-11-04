@@ -12881,6 +12881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are U OK? | 179065 | [179065-are-u-ok.json](./179065-are-u-ok.json) |
 | Are We Sinking Yet? | 400961 | [400961-are-we-sinking-yet.json](./400961-are-we-sinking-yet.json) |
 | Are We Thawing | 241984 | [241984-are-we-thawing.json](./241984-are-we-thawing.json) |
+| Are We There Yet? | 313933 | [313933-are-we-there-yet.json](./313933-are-we-there-yet.json) |
 | Are We There Yet? | 73794 | [73794-are-we-there-yet.json](./73794-are-we-there-yet.json) |
 | Are You a Pilot | 404514 | [404514-are-you-a-pilot.json](./404514-are-you-a-pilot.json) |
 | Are You A Wizard | 132566 | [132566-are-you-a-wizard.json](./132566-are-you-a-wizard.json) |
@@ -14331,6 +14332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ASCII Achievement Mania: Space Shooter | 379323 | [379323-ascii-achievement-mania-space-shooter.json](./379323-ascii-achievement-mania-space-shooter.json) |
 | ASCII and the Argonauts | 217764 | [217764-ascii-and-the-argonauts.json](./217764-ascii-and-the-argonauts.json) |
 | ASCII Attack | 35239 | [35239-ascii-attack.json](./35239-ascii-attack.json) |
+| ASCII Dungeon | 313936 | [313936-ascii-dungeon.json](./313936-ascii-dungeon.json) |
 | ASCII Game Series: Beginning | 334774 | [334774-ascii-game-series-beginning.json](./334774-ascii-game-series-beginning.json) |
 | ASCII Game Series: Blocks | 334775 | [334775-ascii-game-series-blocks.json](./334775-ascii-game-series-blocks.json) |
 | ASCII Game Series: Pinball | 379539 | [379539-ascii-game-series-pinball.json](./379539-ascii-game-series-pinball.json) |
@@ -16084,6 +16086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
