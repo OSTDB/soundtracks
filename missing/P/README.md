@@ -12192,6 +12192,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popeye | 232703 | [232703-popeye.json](./232703-popeye.json) |
 | Popeye | 266839 | [266839-popeye.json](./266839-popeye.json) |
 | Popeye | 283579 | [283579-popeye.json](./283579-popeye.json) |
+| Popeye | 345220 | [345220-popeye.json](./345220-popeye.json) |
+| Popeye | 345221 | [345221-popeye.json](./345221-popeye.json) |
+| Popeye | 345222 | [345222-popeye.json](./345222-popeye.json) |
+| Popeye | 345223 | [345223-popeye.json](./345223-popeye.json) |
+| Popeye | 345224 | [345224-popeye.json](./345224-popeye.json) |
+| Popeye | 345225 | [345225-popeye.json](./345225-popeye.json) |
+| Popeye | 345226 | [345226-popeye.json](./345226-popeye.json) |
+| Popeye | 345228 | [345228-popeye.json](./345228-popeye.json) |
 | Popeye | 363621 | [363621-popeye.json](./363621-popeye.json) |
 | Popeye | 38310 | [38310-popeye.json](./38310-popeye.json) |
 | Popeye | 4619 | [4619-popeye.json](./4619-popeye.json) |
@@ -15862,6 +15870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prophet | 156898 | [156898-prophet.json](./156898-prophet.json) |
 | Prophet | 357677 | [357677-prophet.json](./357677-prophet.json) |
 | Prophet Margin | 376537 | [376537-prophet-margin.json](./376537-prophet-margin.json) |
+| Prophétie | 345202 | [345202-prophetie.json](./345202-prophetie.json) |
 | Prophour23 | 17731 | [17731-prophour23.json](./17731-prophour23.json) |
 | PropHunter | 165107 | [165107-prophunter.json](./165107-prophunter.json) |
 | Propis | 194290 | [194290-propis.json](./194290-propis.json) |
