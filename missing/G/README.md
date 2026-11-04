@@ -6994,6 +6994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goreagulation | 223461 | [223461-goreagulation.json](./223461-goreagulation.json) |
 | Goreball | 122348 | [122348-goreball.json](./122348-goreball.json) |
 | GoreBall: Remastered Edition | 179420 | [179420-goreball-remastered-edition.json](./179420-goreball-remastered-edition.json) |
+| Gorecore | 345199 | [345199-gorecore.json](./345199-gorecore.json) |
 | Gorehounds of Doom | 261440 | [261440-gorehounds-of-doom.json](./261440-gorehounds-of-doom.json) |
 | Goremon | 249224 | [249224-goremon.json](./249224-goremon.json) |
 | Gorepunk | 337747 | [337747-gorepunk.json](./337747-gorepunk.json) |
@@ -7672,6 +7673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto: Episodes from Liberty City | 7003 | [7003-grand-theft-auto-episodes-from-liberty-city.json](./7003-grand-theft-auto-episodes-from-liberty-city.json) |
 | Grand Theft Auto: Forelli Redemption | 268042 | [268042-grand-theft-auto-forelli-redemption.json](./268042-grand-theft-auto-forelli-redemption.json) |
 | Grand Theft Auto: Frosted Winter | 410239 | [410239-grand-theft-auto-frosted-winter.json](./410239-grand-theft-auto-frosted-winter.json) |
+| Grand Theft Auto: Generations | 345237 | [345237-grand-theft-auto-generations.json](./345237-grand-theft-auto-generations.json) |
 | Grand Theft Auto: iFruit | 62701 | [62701-grand-theft-auto-ifruit.json](./62701-grand-theft-auto-ifruit.json) |
 | Grand Theft Auto: Kurdi | 281239 | [281239-grand-theft-auto-kurdi.json](./281239-grand-theft-auto-kurdi.json) |
 | Grand Theft Auto: Liberty City 2001 | 327430 | [327430-grand-theft-auto-liberty-city-2001.json](./327430-grand-theft-auto-liberty-city-2001.json) |
@@ -7972,6 +7974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave-Queen | 219806 | [219806-grave-queen.json](./219806-grave-queen.json) |
 | Graveball | 26169 | [26169-graveball.json](./26169-graveball.json) |
 | GraveBond | 272390 | [272390-gravebond.json](./272390-gravebond.json) |
+| Gravebound | 345195 | [345195-gravebound.json](./345195-gravebound.json) |
 | Gravebound | 347427 | [347427-gravebound.json](./347427-gravebound.json) |
 | Gravebound Dash | 402903 | [402903-gravebound-dash.json](./402903-gravebound-dash.json) |
 | GraveBoy CrowFeet: A Quest for Skulls | 405030 | [405030-graveboy-crowfeet-a-quest-for-skulls.json](./405030-graveboy-crowfeet-a-quest-for-skulls.json) |
@@ -8645,6 +8648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greenland | 291877 | [291877-greenland.json](./291877-greenland.json) |
 | Greenlander | 236838 | [236838-greenlander.json](./236838-greenlander.json) |
 | Greenman | 276804 | [276804-greenman.json](./276804-greenman.json) |
+| GreenQuest: Monsters & Threats | 345217 | [345217-greenquest-monsters-and-threats.json](./345217-greenquest-monsters-and-threats.json) |
 | Greenrise | 416836 | [416836-greenrise.json](./416836-greenrise.json) |
 | greenTech+ | 54058 | [54058-greentech.json](./54058-greentech.json) |
 | Greenveil Hike | 363655 | [363655-greenveil-hike.json](./363655-greenveil-hike.json) |
