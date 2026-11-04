@@ -4060,6 +4060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tensei Shitara Slime Datta Ken: Lord of Tempest | 90112 | [90112-tensei-shitara-slime-datta-ken-lord-of-tempest.json](./90112-tensei-shitara-slime-datta-ken-lord-of-tempest.json) |
 | Tensei Shitara Slime Datta Ken: Tempest Stories | 306195 | [306195-tensei-shitara-slime-datta-ken-tempest-stories.json](./306195-tensei-shitara-slime-datta-ken-tempest-stories.json) |
 | Tensen Nyannyan: Gekigyouban | 166149 | [166149-tensen-nyannyan-gekigyouban.json](./166149-tensen-nyannyan-gekigyouban.json) |
+| Tenshi | 328184 | [328184-tenshi.json](./328184-tenshi.json) |
 | Tenshi Doumei | 63390 | [63390-tenshi-doumei.json](./63390-tenshi-doumei.json) |
 | Tenshi Na Konamaiki | 167121 | [167121-tenshi-na-konamaiki.json](./167121-tenshi-na-konamaiki.json) |
 | Tenshi no Inai 12-gatsu | 148442 | [148442-tenshi-no-inai-12-gatsu.json](./148442-tenshi-no-inai-12-gatsu.json) |
@@ -6410,7 +6411,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blighted Core | 385945 | [385945-the-blighted-core.json](./385945-the-blighted-core.json) |
 | The Blind Griffin | 57899 | [57899-the-blind-griffin.json](./57899-the-blind-griffin.json) |
 | The Blind of the New World | 150049 | [150049-the-blind-of-the-new-world.json](./150049-the-blind-of-the-new-world.json) |
-| The Blind Prophet | 112783 | [112783-the-blind-prophet.json](./112783-the-blind-prophet.json) |
 | The Blinking Room | 405767 | [405767-the-blinking-room.json](./405767-the-blinking-room.json) |
 | The Blizzard 30-Year Celebration Collection | 147715 | [147715-the-blizzard-30-year-celebration-collection.json](./147715-the-blizzard-30-year-celebration-collection.json) |
 | The Blob | 94341 | [94341-the-blob.json](./94341-the-blob.json) |
@@ -24482,7 +24482,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too White Basketball | 119636 | [119636-too-white-basketball.json](./119636-too-white-basketball.json) |
 | TooBold 3 | 97102 | [97102-toobold-3.json](./97102-toobold-3.json) |
 | Toobtrix | 96548 | [96548-toobtrix.json](./96548-toobtrix.json) |
-| Toodee and Topdee | 101690 | [101690-toodee-and-topdee.json](./101690-toodee-and-topdee.json) |
 | Toodee and Topdee | 366489 | [366489-toodee-and-topdee.json](./366489-toodee-and-topdee.json) |
 | Toodle's Toboggan: Wintery Slopes | 109517 | [109517-toodles-toboggan-wintery-slopes.json](./109517-toodles-toboggan-wintery-slopes.json) |
 | Toodles & Toddlers | 144570 | [144570-toodles-and-toddlers.json](./144570-toodles-and-toddlers.json) |
