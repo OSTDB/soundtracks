@@ -8373,6 +8373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold Down Hoppip | 94457 | [94457-hold-down-hoppip.json](./94457-hold-down-hoppip.json) |
 | Hold Fast | 13006 | [13006-hold-fast.json](./13006-hold-fast.json) |
 | Hold Me Still | 366353 | [366353-hold-me-still.json](./366353-hold-me-still.json) |
+| Hold Me Tight All Night, Onii-chan! | 315733 | [315733-hold-me-tight-all-night-onii-chan.json](./315733-hold-me-tight-all-night-onii-chan.json) |
 | Hold My Beer | 51581 | [51581-hold-my-beer.json](./51581-hold-my-beer.json) |
 | Hold My Hand (Or Let Go) | 412537 | [412537-hold-my-hand-or-let-go.json](./412537-hold-my-hand-or-let-go.json) |
 | Hold My Thing | 418627 | [418627-hold-my-thing.json](./418627-hold-my-thing.json) |
