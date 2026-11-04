@@ -9838,6 +9838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Robots | 135653 | [135653-rogue-robots.json](./135653-rogue-robots.json) |
 | Rogue Rocks | 121265 | [121265-rogue-rocks.json](./121265-rogue-rocks.json) |
 | Rogue Rollers | 347097 | [347097-rogue-rollers.json](./347097-rogue-rollers.json) |
+| Rogue Rollout | 305708 | [305708-rogue-rollout.json](./305708-rogue-rollout.json) |
 | Rogue Rubber | 340689 | [340689-rogue-rubber.json](./340689-rogue-rubber.json) |
 | Rogue Run | 407304 | [407304-rogue-run.json](./407304-rogue-run.json) |
 | Rogue Samurai | 266278 | [266278-rogue-samurai.json](./266278-rogue-samurai.json) |
