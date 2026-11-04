@@ -12247,6 +12247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runpuzzle | 132539 | [132539-runpuzzle.json](./132539-runpuzzle.json) |
 | Runr End | 197538 | [197538-runr-end.json](./197538-runr-end.json) |
 | Runren Simulator | 390721 | [390721-runren-simulator.json](./390721-runren-simulator.json) |
+| RunStickRun! | 343564 | [343564-runstickrun.json](./343564-runstickrun.json) |
 | Runt | 392177 | [392177-runt.json](./392177-runt.json) |
 | Runt of the Litter | 27586 | [27586-runt-of-the-litter.json](./27586-runt-of-the-litter.json) |
 | Runtalis | 384117 | [384117-runtalis.json](./384117-runtalis.json) |
