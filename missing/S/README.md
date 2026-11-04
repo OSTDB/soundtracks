@@ -1657,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanguine Oblation | 362793 | [362793-sanguine-oblation.json](./362793-sanguine-oblation.json) |
 | Sanguine Rose | 213261 | [213261-sanguine-rose.json](./213261-sanguine-rose.json) |
 | Sanguine Soul | 128168 | [128168-sanguine-soul.json](./128168-sanguine-soul.json) |
+| Sanguis Luna | 327535 | [327535-sanguis-luna.json](./327535-sanguis-luna.json) |
 | Sanguivore: Twenty Below | 266271 | [266271-sanguivore-twenty-below.json](./266271-sanguivore-twenty-below.json) |
 | Sanguo | 113003 | [113003-sanguo.json](./113003-sanguo.json) |
 | Sanguo Doki | 208092 | [208092-sanguo-doki.json](./208092-sanguo-doki.json) |
@@ -3182,6 +3183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorn | 19817 | [19817-scorn.json](./19817-scorn.json) |
 | Scorn | 262084 | [262084-scorn.json](./262084-scorn.json) |
 | Scorn: Deluxe Edition | 205002 | [205002-scorn-deluxe-edition.json](./205002-scorn-deluxe-edition.json) |
+| Scornhorn, Act One | 327529 | [327529-scornhorn-act-one.json](./327529-scornhorn-act-one.json) |
 | Scorphius | 213782 | [213782-scorphius.json](./213782-scorphius.json) |
 | Scorpio | 68453 | [68453-scorpio.json](./68453-scorpio.json) |
 | Scorpion | 22729 | [22729-scorpion.json](./22729-scorpion.json) |
@@ -3390,6 +3392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scramble | 246400 | [246400-scramble.json](./246400-scramble.json) |
 | Scramble | 297494 | [297494-scramble.json](./297494-scramble.json) |
 | Scramble All Fighters | 249888 | [249888-scramble-all-fighters.json](./249888-scramble-all-fighters.json) |
+| Scramble Animal Words | 327536 | [327536-scramble-animal-words.json](./327536-scramble-animal-words.json) |
 | Scramble Cobra | 4315 | [4315-scramble-cobra.json](./4315-scramble-cobra.json) |
 | Scramble Heart City | 319148 | [319148-scramble-heart-city.json](./319148-scramble-heart-city.json) |
 | Scramble Knights Online | 380980 | [380980-scramble-knights-online.json](./380980-scramble-knights-online.json) |
@@ -6244,6 +6247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seybul Tech | 264634 | [264634-seybul-tech.json](./264634-seybul-tech.json) |
 | Seymour - Take One! | 142435 | [142435-seymour-take-one.json](./142435-seymour-take-one.json) |
 | Seymour Goes to Hollywood | 18572 | [18572-seymour-goes-to-hollywood.json](./18572-seymour-goes-to-hollywood.json) |
+| Sezhar's Shell Cells | 327697 | [327697-sezhars-shell-cells.json](./327697-sezhars-shell-cells.json) |
 | Sezza vs. Quackmas | 421595 | [421595-sezza-vs-quackmas.json](./421595-sezza-vs-quackmas.json) |
 | SF-HiSplitter | 131143 | [131143-sf-hisplitter.json](./131143-sf-hisplitter.json) |
 | SF: Onee-san Teacher | 83371 | [83371-sf-onee-san-teacher.json](./83371-sf-onee-san-teacher.json) |
@@ -12709,6 +12713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay the Minotaur | 271380 | [271380-slay-the-minotaur.json](./271380-slay-the-minotaur.json) |
 | Slay the Nereis | 44335 | [44335-slay-the-nereis.json](./44335-slay-the-nereis.json) |
 | Slay the Princess | 210395 | [210395-slay-the-princess.json](./210395-slay-the-princess.json) |
+| Slay the Princess: The Pristine Cut - Special Edition | 327556 | [327556-slay-the-princess-the-pristine-cut-special-edition.json](./327556-slay-the-princess-the-pristine-cut-special-edition.json) |
 | Slay the Space | 187231 | [187231-slay-the-space.json](./187231-slay-the-space.json) |
 | Slay the Spire II | 296831 | [296831-slay-the-spire-ii.json](./296831-slay-the-spire-ii.json) |
 | Slay the Wak | 231097 | [231097-slay-the-wak.json](./231097-slay-the-wak.json) |
@@ -17208,6 +17213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog 3 | 375301 | [375301-sonic-the-hedgehog-3.json](./375301-sonic-the-hedgehog-3.json) |
 | Sonic the Hedgehog 3 & Knuckles | 11219 | [11219-sonic-the-hedgehog-3-and-knuckles.json](./11219-sonic-the-hedgehog-3-and-knuckles.json) |
 | Sonic the Hedgehog 3 & Knuckles | 206597 | [206597-sonic-the-hedgehog-3-and-knuckles.json](./206597-sonic-the-hedgehog-3-and-knuckles.json) |
+| Sonic the Hedgehog 3: Race with Team Sonic | 327693 | [327693-sonic-the-hedgehog-3-race-with-team-sonic.json](./327693-sonic-the-hedgehog-3-race-with-team-sonic.json) |
 | Sonic the Hedgehog 3D | 144907 | [144907-sonic-the-hedgehog-3d.json](./144907-sonic-the-hedgehog-3d.json) |
 | Sonic the Hedgehog 4 Remastered | 332614 | [332614-sonic-the-hedgehog-4-remastered.json](./332614-sonic-the-hedgehog-4-remastered.json) |
 | Sonic the Hedgehog 4: Episode I | 307555 | [307555-sonic-the-hedgehog-4-episode-i.json](./307555-sonic-the-hedgehog-4-episode-i.json) |
@@ -20137,6 +20143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectrum Break | 77712 | [77712-spectrum-break.json](./77712-spectrum-break.json) |
 | Spectrum Descent | 304082 | [304082-spectrum-descent.json](./304082-spectrum-descent.json) |
 | Spectrum Forces | 178252 | [178252-spectrum-forces.json](./178252-spectrum-forces.json) |
+| Spectrum of the Puddle | 327553 | [327553-spectrum-of-the-puddle.json](./327553-spectrum-of-the-puddle.json) |
 | Spectrum Siege | 333303 | [333303-spectrum-siege.json](./333303-spectrum-siege.json) |
 | Spectrum Stampede | 414050 | [414050-spectrum-stampede.json](./414050-spectrum-stampede.json) |
 | Spectrum Valley | 184132 | [184132-spectrum-valley.json](./184132-spectrum-valley.json) |
@@ -26625,6 +26632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranger Things: Puzzle Tales | 197248 | [197248-stranger-things-puzzle-tales.json](./197248-stranger-things-puzzle-tales.json) |
 | Stranger Things: Tales from '85 | 400515 | [400515-stranger-things-tales-from-85.json](./400515-stranger-things-tales-from-85.json) |
 | Stranger Things: Will's Side Quest | 120708 | [120708-stranger-things-wills-side-quest.json](./120708-stranger-things-wills-side-quest.json) |
+| Stranger Watch | 327551 | [327551-stranger-watch.json](./327551-stranger-watch.json) |
 | Stranger's Mark | 378140 | [378140-strangers-mark.json](./378140-strangers-mark.json) |
 | Strangers at Night | 178511 | [178511-strangers-at-night.json](./178511-strangers-at-night.json) |
 | Strangers Awaken | 262377 | [262377-strangers-awaken.json](./262377-strangers-awaken.json) |
