@@ -434,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyrie Champions | 215675 | [215675-valkyrie-champions.json](./215675-valkyrie-champions.json) |
 | Valkyrie Complex | 69035 | [69035-valkyrie-complex.json](./69035-valkyrie-complex.json) |
 | Valkyrie Crusade | 62574 | [62574-valkyrie-crusade.json](./62574-valkyrie-crusade.json) |
+| Valkyrie Destruction | 321263 | [321263-valkyrie-destruction.json](./321263-valkyrie-destruction.json) |
 | Valkyrie Drive: Bhikkhuni | 11527 | [11527-valkyrie-drive-bhikkhuni.json](./11527-valkyrie-drive-bhikkhuni.json) |
 | Valkyrie Drive: Bhikkhuni - Bikini Party Edition | 379957 | [379957-valkyrie-drive-bhikkhuni-bikini-party-edition.json](./379957-valkyrie-drive-bhikkhuni-bikini-party-edition.json) |
 | Valkyrie Drive: Bhikkhuni - Complete DLC Pack | 226892 | [226892-valkyrie-drive-bhikkhuni-complete-dlc-pack.json](./226892-valkyrie-drive-bhikkhuni-complete-dlc-pack.json) |
@@ -1323,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venetica | 7233 | [7233-venetica.json](./7233-venetica.json) |
 | Venetica: Gold Edition | 53932 | [53932-venetica-gold-edition.json](./53932-venetica-gold-edition.json) |
 | Venge | 143958 | [143958-venge.json](./143958-venge.json) |
+| Venge 2.0 | 321257 | [321257-venge-2-0.json](./321257-venge-2-0.json) |
 | Venge.io | 137531 | [137531-venge-io.json](./137531-venge-io.json) |
 | Vengeance | 34876 | [34876-vengeance.json](./34876-vengeance.json) |
 | Vengeance | 368470 | [368470-vengeance.json](./368470-vengeance.json) |
