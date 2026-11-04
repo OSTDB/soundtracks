@@ -1559,6 +1559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Forest: Lost Story VR | 164923 | [164923-dark-forest-lost-story-vr.json](./164923-dark-forest-lost-story-vr.json) |
 | Dark Forest: The Horror | 181038 | [181038-dark-forest-the-horror.json](./181038-dark-forest-the-horror.json) |
 | Dark Forester | 35760 | [35760-dark-forester.json](./35760-dark-forester.json) |
+| Dark Fox Infinity Runner | 332178 | [332178-dark-fox-infinity-runner.json](./332178-dark-fox-infinity-runner.json) |
 | Dark Fracture | 135732 | [135732-dark-fracture.json](./135732-dark-fracture.json) |
 | Dark Frame | 159561 | [159561-dark-frame.json](./159561-dark-frame.json) |
 | Dark Front | 378597 | [378597-dark-front.json](./378597-dark-front.json) |
@@ -2573,6 +2574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dating Sim! Re:Mastered | 329170 | [329170-dating-sim-re-mastered.json](./329170-dating-sim-re-mastered.json) |
 | Dating Simulator | 162431 | [162431-dating-simulator.json](./162431-dating-simulator.json) |
 | Dating Simulator 2025 | 288921 | [288921-dating-simulator-2025.json](./288921-dating-simulator-2025.json) |
+| Dating Stories | 332167 | [332167-dating-stories.json](./332167-dating-stories.json) |
 | Dating Stories 2 | 412108 | [412108-dating-stories-2.json](./412108-dating-stories-2.json) |
 | Dating Under the Comet | 345595 | [345595-dating-under-the-comet.json](./345595-dating-under-the-comet.json) |
 | Dato of Srivijaya | 156679 | [156679-dato-of-srivijaya.json](./156679-dato-of-srivijaya.json) |
@@ -13410,6 +13412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Douga de Puzzle da! Puppukupuu | 227681 | [227681-douga-de-puzzle-da-puppukupuu.json](./227681-douga-de-puzzle-da-puppukupuu.json) |
 | DougDoug's Basement: How I Got a Sea Otter A Promotion! | 326757 | [326757-dougdougs-basement-how-i-got-a-sea-otter-a-promotion.json](./326757-dougdougs-basement-how-i-got-a-sea-otter-a-promotion.json) |
 | Dough Boy | 40956 | [40956-dough-boy.json](./40956-dough-boy.json) |
+| Dough or Die | 332320 | [332320-dough-or-die.json](./332320-dough-or-die.json) |
 | Dough Slapping: A Touch to Desire | 341165 | [341165-dough-slapping-a-touch-to-desire.json](./341165-dough-slapping-a-touch-to-desire.json) |
 | Dough: A Crime Strategy RPG | 264645 | [264645-dough-a-crime-strategy-rpg.json](./264645-dough-a-crime-strategy-rpg.json) |
 | Doughball Descent | 226817 | [226817-doughball-descent.json](./226817-doughball-descent.json) |
@@ -16318,6 +16321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop | 86201 | [86201-drop.json](./86201-drop.json) |
 | Drop 'n' Fill! | 330791 | [330791-drop-n-fill.json](./330791-drop-n-fill.json) |
 | Drop & Smash | 227483 | [227483-drop-and-smash.json](./227483-drop-and-smash.json) |
+| Drop 4 | 332196 | [332196-drop-4.json](./332196-drop-4.json) |
 | Drop Alive | 26494 | [26494-drop-alive.json](./26494-drop-alive.json) |
 | Drop and Grow | 383105 | [383105-drop-and-grow.json](./383105-drop-and-grow.json) |
 | Drop Blox | 155392 | [155392-drop-blox.json](./155392-drop-blox.json) |
@@ -16394,6 +16398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dropper | 135551 | [135551-dropper.json](./135551-dropper.json) |
 | Drops of God: Creating your Ambrosia | 291378 | [291378-drops-of-god-creating-your-ambrosia.json](./291378-drops-of-god-creating-your-ambrosia.json) |
 | DROPSHIP | 93925 | [93925-dropship.json](./93925-dropship.json) |
+| Dropship: United Peace Force | 332159 | [332159-dropship-united-peace-force.json](./332159-dropship-united-peace-force.json) |
 | Dropship: United Peace Force | 44723 | [44723-dropship-united-peace-force.json](./44723-dropship-united-peace-force.json) |
 | Dropshipping Simulator | 155993 | [155993-dropshipping-simulator.json](./155993-dropshipping-simulator.json) |
 | DropShock | 137959 | [137959-dropshock.json](./137959-dropshock.json) |
@@ -18489,6 +18494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying Night Sex with Zombi | 375952 | [375952-dying-night-sex-with-zombi.json](./375952-dying-night-sex-with-zombi.json) |
 | Dying of Thirst | 177298 | [177298-dying-of-thirst.json](./177298-dying-of-thirst.json) |
 | Dying Reign | 355560 | [355560-dying-reign.json](./355560-dying-reign.json) |
+| Dying Sun | 332197 | [332197-dying-sun.json](./332197-dying-sun.json) |
 | Dying Under Nightfall | 296871 | [296871-dying-under-nightfall.json](./296871-dying-under-nightfall.json) |
 | Dying: 1983 | 160267 | [160267-dying-1983.json](./160267-dying-1983.json) |
 | Dying: Reborn | 27569 | [27569-dying-reborn.json](./27569-dying-reborn.json) |
