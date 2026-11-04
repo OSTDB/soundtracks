@@ -13881,6 +13881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Odd Neon Void | 132246 | [132246-the-odd-neon-void.json](./132246-the-odd-neon-void.json) |
 | The Odd Squad Adventure in Oddbodia | 354011 | [354011-the-odd-squad-adventure-in-oddbodia.json](./354011-the-odd-squad-adventure-in-oddbodia.json) |
 | The Odyssey | 31602 | [31602-the-odyssey.json](./31602-the-odyssey.json) |
+| The Odyssey | 338622 | [338622-the-odyssey.json](./338622-the-odyssey.json) |
 | The Odyssey of Commander Cookie | 350034 | [350034-the-odyssey-of-commander-cookie.json](./350034-the-odyssey-of-commander-cookie.json) |
 | The Odyssey of the Mammoth | 191831 | [191831-the-odyssey-of-the-mammoth.json](./191831-the-odyssey-of-the-mammoth.json) |
 | The Odyssey: Winds of Athena | 69579 | [69579-the-odyssey-winds-of-athena.json](./69579-the-odyssey-winds-of-athena.json) |
@@ -23456,6 +23457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toil & Trubble | 404933 | [404933-toil-and-trubble.json](./404933-toil-and-trubble.json) |
 | Toilet | 309387 | [309387-toilet.json](./309387-toilet.json) |
 | Toilet 8 | 378306 | [378306-toilet-8.json](./378306-toilet-8.json) |
+| Toilet Battle | 338467 | [338467-toilet-battle.json](./338467-toilet-battle.json) |
 | Toilet Boom | 373805 | [373805-toilet-boom.json](./373805-toilet-boom.json) |
 | Toilet Chronicles | 199576 | [199576-toilet-chronicles.json](./199576-toilet-chronicles.json) |
 | Toilet Farm | 185005 | [185005-toilet-farm.json](./185005-toilet-farm.json) |
@@ -30350,6 +30352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Toss | 409110 | [409110-truck-toss.json](./409110-truck-toss.json) |
 | Truck Trials 2 | 175379 | [175379-truck-trials-2.json](./175379-truck-trials-2.json) |
 | Truck Truck | 157197 | [157197-truck-truck.json](./157197-truck-truck.json) |
+| Truck Up: Catch Me If You Can | 338499 | [338499-truck-up-catch-me-if-you-can.json](./338499-truck-up-catch-me-if-you-can.json) |
 | Truck World: Australia | 227320 | [227320-truck-world-australia.json](./227320-truck-world-australia.json) |
 | Truck World: Driving School | 211709 | [211709-truck-world-driving-school.json](./211709-truck-world-driving-school.json) |
 | Truck Zombie | 109920 | [109920-truck-zombie.json](./109920-truck-zombie.json) |
