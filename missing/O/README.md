@@ -3473,6 +3473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation: Overkill II | 73713 | [73713-operation-overkill-ii.json](./73713-operation-overkill-ii.json) |
 | Operation: Polarity Hook | 75592 | [75592-operation-polarity-hook.json](./75592-operation-polarity-hook.json) |
 | Operation: Polygon Storm | 239775 | [239775-operation-polygon-storm.json](./239775-operation-polygon-storm.json) |
+| Operation: Polygon Storm - The Train | 317163 | [317163-operation-polygon-storm-the-train.json](./317163-operation-polygon-storm-the-train.json) |
 | Operation: Strike & Secure | 341515 | [341515-operation-strike-and-secure.json](./341515-operation-strike-and-secure.json) |
 | Operation: Surface Takeover | 344365 | [344365-operation-surface-takeover.json](./344365-operation-surface-takeover.json) |
 | Operation: Tango - Challenge Mode | 182256 | [182256-operation-tango-challenge-mode.json](./182256-operation-tango-challenge-mode.json) |
@@ -4751,6 +4752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ourea | 132681 | [132681-ourea.json](./132681-ourea.json) |
 | Ouritsu Anapoko Gakuen | 112888 | [112888-ouritsu-anapoko-gakuen.json](./112888-ouritsu-anapoko-gakuen.json) |
 | Ourkade | 341521 | [341521-ourkade.json](./341521-ourkade.json) |
+| Ourlands | 317152 | [317152-ourlands.json](./317152-ourlands.json) |
 | Ourmaze | 26367 | [26367-ourmaze.json](./26367-ourmaze.json) |
 | Ourobolos | 378376 | [378376-ourobolos.json](./378376-ourobolos.json) |
 | Ouroboros | 230408 | [230408-ouroboros.json](./230408-ouroboros.json) |
