@@ -2594,6 +2594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Ventura | 4586 | [4586-ace-ventura.json](./4586-ace-ventura.json) |
 | Ace Ventura: Pet Detective | 218423 | [218423-ace-ventura-pet-detective.json](./218423-ace-ventura-pet-detective.json) |
 | Ace Ventura: Pet Detective - The Case of the Serial Shaver | 61643 | [61643-ace-ventura-pet-detective-the-case-of-the-serial-shaver.json](./61643-ace-ventura-pet-detective-the-case-of-the-serial-shaver.json) |
+| Ace VR Shooting | 298744 | [298744-ace-vr-shooting.json](./298744-ace-vr-shooting.json) |
 | ACE: Air Cruiser Elite | 234487 | [234487-ace-air-cruiser-elite.json](./234487-ace-air-cruiser-elite.json) |
 | ACE: Alice Card Episode | 385869 | [385869-ace-alice-card-episode.json](./385869-ace-alice-card-episode.json) |
 | ACE: Alien Cleanup Elite | 84732 | [84732-ace-alien-cleanup-elite.json](./84732-ace-alien-cleanup-elite.json) |
@@ -2988,6 +2989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ad Infinitum | 47222 | [47222-ad-infinitum.json](./47222-ad-infinitum.json) |
 | Ad Infinitum: Supporter Edition | 336136 | [336136-ad-infinitum-supporter-edition.json](./336136-ad-infinitum-supporter-edition.json) |
 | Ad Iterum | 380377 | [380377-ad-iterum.json](./380377-ad-iterum.json) |
+| Ad Lib Ouji ...to Fuyukai na Nakama-tachi!? | 298762 | [298762-ad-lib-ouji-to-fuyukai-na-nakama-tachi.json](./298762-ad-lib-ouji-to-fuyukai-na-nakama-tachi.json) |
 | Ad Memoriam | 309575 | [309575-ad-memoriam.json](./309575-ad-memoriam.json) |
 | Ad Mortem | 262441 | [262441-ad-mortem.json](./262441-ad-mortem.json) |
 | Ad Mortem | 340280 | [340280-ad-mortem.json](./340280-ad-mortem.json) |
@@ -8895,6 +8897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anaza Aku Yatsu: Another World | 67353 | [67353-anaza-aku-yatsu-another-world.json](./67353-anaza-aku-yatsu-another-world.json) |
 | Anaza: Kaleidoscope Special | 47537 | [47537-anaza-kaleidoscope-special.json](./47537-anaza-kaleidoscope-special.json) |
 | Anbar | 387545 | [387545-anbar.json](./387545-anbar.json) |
+| Anbennar | 298727 | [298727-anbennar.json](./298727-anbennar.json) |
 | Anbennar: A Fantasy Total Conversion | 397813 | [397813-anbennar-a-fantasy-total-conversion.json](./397813-anbennar-a-fantasy-total-conversion.json) |
 | Anbot | 419099 | [419099-anbot.json](./419099-anbot.json) |
 | Anceder | 105204 | [105204-anceder.json](./105204-anceder.json) |
@@ -10403,6 +10406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Evolution | 377943 | [377943-anomaly-evolution.json](./377943-anomaly-evolution.json) |
 | Anomaly Exit | 290720 | [290720-anomaly-exit.json](./290720-anomaly-exit.json) |
 | Anomaly Hotel | 298446 | [298446-anomaly-hotel.json](./298446-anomaly-hotel.json) |
+| Anomaly Investigations | 298740 | [298740-anomaly-investigations.json](./298740-anomaly-investigations.json) |
 | Anomaly Jobs: Data Center | 402105 | [402105-anomaly-jobs-data-center.json](./402105-anomaly-jobs-data-center.json) |
 | Anomaly Living | 334922 | [334922-anomaly-living.json](./334922-anomaly-living.json) |
 | Anomaly Loop | 293091 | [293091-anomaly-loop.json](./293091-anomaly-loop.json) |
@@ -16168,7 +16172,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
@@ -17318,6 +17321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avert Fate | 63245 | [63245-avert-fate.json](./63245-avert-fate.json) |
 | Avert Your Eyes | 263004 | [263004-avert-your-eyes.json](./263004-avert-your-eyes.json) |
 | Avery Cardoza's Casino 2000 | 78694 | [78694-avery-cardozas-casino-2000.json](./78694-avery-cardozas-casino-2000.json) |
+| Avetinja | 298501 | [298501-avetinja.json](./298501-avetinja.json) |
 | Aveyond 3-1: Lord of Twilight | 36389 | [36389-aveyond-3-1-lord-of-twilight.json](./36389-aveyond-3-1-lord-of-twilight.json) |
 | Aveyond 3-2: Gates of Night | 36404 | [36404-aveyond-3-2-gates-of-night.json](./36404-aveyond-3-2-gates-of-night.json) |
 | Aveyond 3-3: The Lost Orb | 36241 | [36241-aveyond-3-3-the-lost-orb.json](./36241-aveyond-3-3-the-lost-orb.json) |
