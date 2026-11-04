@@ -2454,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACE Arena: Cyber Evolution | 17155 | [17155-ace-arena-cyber-evolution.json](./17155-ace-arena-cyber-evolution.json) |
 | Ace Armstrong vs. The Alien Scumbags! | 42784 | [42784-ace-armstrong-vs-the-alien-scumbags.json](./42784-ace-armstrong-vs-the-alien-scumbags.json) |
 | Ace Arrow | 233121 | [233121-ace-arrow.json](./233121-ace-arrow.json) |
+| Ace Attorney - The First Turnabout Redux | 302634 | [302634-ace-attorney-the-first-turnabout-redux.json](./302634-ace-attorney-the-first-turnabout-redux.json) |
 | Ace Attorney Anthology | 304805 | [304805-ace-attorney-anthology.json](./304805-ace-attorney-anthology.json) |
 | Ace Attorney But Plotagon | 303755 | [303755-ace-attorney-but-plotagon.json](./303755-ace-attorney-but-plotagon.json) |
 | Ace Attorney Investigations 0: Quercus Alba Dating Simulator | 237350 | [237350-ace-attorney-investigations-0-quercus-alba-dating-simulator.json](./237350-ace-attorney-investigations-0-quercus-alba-dating-simulator.json) |
@@ -3925,6 +3926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aery: Midnight Hour | 288376 | [288376-aery-midnight-hour.json](./288376-aery-midnight-hour.json) |
 | Aery: Path of Corruption | 213427 | [213427-aery-path-of-corruption.json](./213427-aery-path-of-corruption.json) |
 | Aery: Peace of Mind | 296628 | [296628-aery-peace-of-mind.json](./296628-aery-peace-of-mind.json) |
+| Aery: Peace of Mind 2 | 302305 | [302305-aery-peace-of-mind-2.json](./302305-aery-peace-of-mind-2.json) |
 | Aery: Peace of Mind 4 | 377272 | [377272-aery-peace-of-mind-4.json](./377272-aery-peace-of-mind-4.json) |
 | Aery: Stone Age | 283895 | [283895-aery-stone-age.json](./283895-aery-stone-age.json) |
 | Aery: Surreal World | 411807 | [411807-aery-surreal-world.json](./411807-aery-surreal-world.json) |
@@ -9218,16 +9220,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Legion: Chain Trace - Red | 332605 | [332605-angel-legion-chain-trace-red.json](./332605-angel-legion-chain-trace-red.json) |
 | Angel Legion: Charming Mystery - Purple | 290786 | [290786-angel-legion-charming-mystery-purple.json](./290786-angel-legion-charming-mystery-purple.json) |
 | Angel Legion: Charming Mystery - Red | 302576 | [302576-angel-legion-charming-mystery-red.json](./302576-angel-legion-charming-mystery-red.json) |
+| Angel Legion: Future Dream - Blue | 302566 | [302566-angel-legion-future-dream-blue.json](./302566-angel-legion-future-dream-blue.json) |
 | Angel Legion: Future Dream - Green | 323231 | [323231-angel-legion-future-dream-green.json](./323231-angel-legion-future-dream-green.json) |
+| Angel Legion: Future Dream - Grey | 302569 | [302569-angel-legion-future-dream-grey.json](./302569-angel-legion-future-dream-grey.json) |
 | Angel Legion: Future Dream - White | 317737 | [317737-angel-legion-future-dream-white.json](./317737-angel-legion-future-dream-white.json) |
 | Angel Legion: Lil Lily - Green | 253541 | [253541-angel-legion-lil-lily-green.json](./253541-angel-legion-lil-lily-green.json) |
 | Angel Legion: Oriental - Purple | 254160 | [254160-angel-legion-oriental-purple.json](./254160-angel-legion-oriental-purple.json) |
 | Angel Legion: Secret Gift - Cyan | 331633 | [331633-angel-legion-secret-gift-cyan.json](./331633-angel-legion-secret-gift-cyan.json) |
+| Angel Legion: Secret Gift - Green | 302567 | [302567-angel-legion-secret-gift-green.json](./302567-angel-legion-secret-gift-green.json) |
+| Angel Legion: Secret Gift - Orange | 302570 | [302570-angel-legion-secret-gift-orange.json](./302570-angel-legion-secret-gift-orange.json) |
 | Angel Legion: Secret Gift - Pink | 302574 | [302574-angel-legion-secret-gift-pink.json](./302574-angel-legion-secret-gift-pink.json) |
 | Angel Legion: Secret Gift - Purple | 312052 | [312052-angel-legion-secret-gift-purple.json](./312052-angel-legion-secret-gift-purple.json) |
 | Angel Legion: Seeker of Hearts - Blue | 302573 | [302573-angel-legion-seeker-of-hearts-blue.json](./302573-angel-legion-seeker-of-hearts-blue.json) |
+| Angel Legion: Shadow Woven - Black | 302571 | [302571-angel-legion-shadow-woven-black.json](./302571-angel-legion-shadow-woven-black.json) |
 | Angel Legion: Shadow Woven - Blue | 323253 | [323253-angel-legion-shadow-woven-blue.json](./323253-angel-legion-shadow-woven-blue.json) |
 | Angel Legion: Shadow Woven - Cyan | 317750 | [317750-angel-legion-shadow-woven-cyan.json](./317750-angel-legion-shadow-woven-cyan.json) |
+| Angel Legion: Shadow Woven - Golden | 302568 | [302568-angel-legion-shadow-woven-golden.json](./302568-angel-legion-shadow-woven-golden.json) |
 | Angel Legion: Shadow Woven - Green | 302575 | [302575-angel-legion-shadow-woven-green.json](./302575-angel-legion-shadow-woven-green.json) |
 | Angel Made | 156077 | [156077-angel-made.json](./156077-angel-made.json) |
 | Angel Maker | 177758 | [177758-angel-maker.json](./177758-angel-maker.json) |
@@ -13191,6 +13199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aria of Destiny | 326828 | [326828-aria-of-destiny.json](./326828-aria-of-destiny.json) |
 | Aria of God Killing | 193977 | [193977-aria-of-god-killing.json](./193977-aria-of-god-killing.json) |
 | Aria of Song | 320786 | [320786-aria-of-song.json](./320786-aria-of-song.json) |
+| Aria Skies | 302312 | [302312-aria-skies.json](./302312-aria-skies.json) |
 | Aria The Origination: Aoi Hoshi no Il Cielo - Motto Dekkai Tsumeawase | 394584 | [394584-aria-the-origination-aoi-hoshi-no-il-cielo-motto-dekkai-tsumeawase.json](./394584-aria-the-origination-aoi-hoshi-no-il-cielo-motto-dekkai-tsumeawase.json) |
 | ARIA: Angelic Realms In Arborea | 255552 | [255552-aria-angelic-realms-in-arborea.json](./255552-aria-angelic-realms-in-arborea.json) |
 | Aria: Aqua Ritmo | 56291 | [56291-aria-aqua-ritmo.json](./56291-aria-aqua-ritmo.json) |
@@ -16137,6 +16146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
