@@ -3837,6 +3837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AeroGauge | 3329 | [3329-aerogauge.json](./3329-aerogauge.json) |
 | Aerolicious | 416623 | [416623-aerolicious.json](./416623-aerolicious.json) |
 | Aerolitos | 40160 | [40160-aerolitos.json](./40160-aerolitos.json) |
+| Aeromachina | 331613 | [331613-aeromachina.json](./331613-aeromachina.json) |
 | AéroMultiverse | 379493 | [379493-aeromultiverse.json](./379493-aeromultiverse.json) |
 | Aeron's Golden Cookie Quest | 204252 | [204252-aerons-golden-cookie-quest.json](./204252-aerons-golden-cookie-quest.json) |
 | Aeronaut | 124175 | [124175-aeronaut.json](./124175-aeronaut.json) |
@@ -7783,6 +7784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amanda's Magic Book 5: Hansel and Gretel | 237070 | [237070-amandas-magic-book-5-hansel-and-gretel.json](./237070-amandas-magic-book-5-hansel-and-gretel.json) |
 | Amanda's Magic Book 6: Aladdin's Magic Lamp | 230885 | [230885-amandas-magic-book-6-aladdins-magic-lamp.json](./230885-amandas-magic-book-6-aladdins-magic-lamp.json) |
 | Amanda's Magic Book 9: The Riftwalkers | 335786 | [335786-amandas-magic-book-9-the-riftwalkers.json](./335786-amandas-magic-book-9-the-riftwalkers.json) |
+| Amanda's Movie Night | 331605 | [331605-amandas-movie-night.json](./331605-amandas-movie-night.json) |
 | Amanda's Sticker Book 2: Amazing Wldlife | 115704 | [115704-amandas-sticker-book-2-amazing-wldlife.json](./115704-amandas-sticker-book-2-amazing-wldlife.json) |
 | Amane Switch | 166081 | [166081-amane-switch.json](./166081-amane-switch.json) |
 | Amaneku Tenshi ni Yakusoku wo | 381633 | [381633-amaneku-tenshi-ni-yakusoku-wo.json](./381633-amaneku-tenshi-ni-yakusoku-wo.json) |
@@ -9127,6 +9129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Legion: Future Dream - Green | 323231 | [323231-angel-legion-future-dream-green.json](./323231-angel-legion-future-dream-green.json) |
 | Angel Legion: Lil Lily - Green | 253541 | [253541-angel-legion-lil-lily-green.json](./253541-angel-legion-lil-lily-green.json) |
 | Angel Legion: Oriental - Purple | 254160 | [254160-angel-legion-oriental-purple.json](./254160-angel-legion-oriental-purple.json) |
+| Angel Legion: Secret Gift - Cyan | 331633 | [331633-angel-legion-secret-gift-cyan.json](./331633-angel-legion-secret-gift-cyan.json) |
 | Angel Legion: Secret Gift - Pink | 302574 | [302574-angel-legion-secret-gift-pink.json](./302574-angel-legion-secret-gift-pink.json) |
 | Angel Legion: Secret Gift - Purple | 312052 | [312052-angel-legion-secret-gift-purple.json](./312052-angel-legion-secret-gift-purple.json) |
 | Angel Legion: Seeker of Hearts - Blue | 302573 | [302573-angel-legion-seeker-of-hearts-blue.json](./302573-angel-legion-seeker-of-hearts-blue.json) |
@@ -11941,6 +11944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Kid's Horehore Daisakusen | 99544 | [99544-arcade-archives-kids-horehore-daisakusen.json](./99544-arcade-archives-kids-horehore-daisakusen.json) |
 | Arcade Archives: KiKi KaiKai | 99536 | [99536-arcade-archives-kiki-kaikai.json](./99536-arcade-archives-kiki-kaikai.json) |
 | Arcade Archives: King & Balloon | 257326 | [257326-arcade-archives-king-and-balloon.json](./257326-arcade-archives-king-and-balloon.json) |
+| Arcade Archives: Kitten Kaboodle | 331600 | [331600-arcade-archives-kitten-kaboodle.json](./331600-arcade-archives-kitten-kaboodle.json) |
 | Arcade Archives: Knuckle Heads | 314877 | [314877-arcade-archives-knuckle-heads.json](./314877-arcade-archives-knuckle-heads.json) |
 | Arcade Archives: Konami GT | 398767 | [398767-arcade-archives-konami-gt.json](./398767-arcade-archives-konami-gt.json) |
 | Arcade Archives: Konami's Table Tennis | 322440 | [322440-arcade-archives-konamis-table-tennis.json](./322440-arcade-archives-konamis-table-tennis.json) |
