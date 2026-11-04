@@ -2295,6 +2295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Late Night: Mobile | 102625 | [102625-one-late-night-mobile.json](./102625-one-late-night-mobile.json) |
 | One Leaves | 123264 | [123264-one-leaves.json](./123264-one-leaves.json) |
 | One Left | 184458 | [184458-one-left.json](./184458-one-left.json) |
+| One Lie | 297972 | [297972-one-lie.json](./297972-one-lie.json) |
 | One Life | 197239 | [197239-one-life.json](./197239-one-life.json) |
 | One Life | 426413 | [426413-one-life.json](./426413-one-life.json) |
 | One Life Clicker | 261153 | [261153-one-life-clicker.json](./261153-one-life-clicker.json) |
@@ -3643,6 +3644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oranges | 270716 | [270716-oranges.json](./270716-oranges.json) |
 | Orangia | 366934 | [366934-orangia.json](./366934-orangia.json) |
 | Orangia DLC | 366935 | [366935-orangia-dlc.json](./366935-orangia-dlc.json) |
+| OranguTangle | 297973 | [297973-orangutangle.json](./297973-orangutangle.json) |
 | Orava | 377071 | [377071-orava.json](./377071-orava.json) |
 | Oraxum Trials | 192331 | [192331-oraxum-trials.json](./192331-oraxum-trials.json) |
 | Orb | 17119 | [17119-orb.json](./17119-orb.json) |
@@ -5078,6 +5080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outer Zone | 350505 | [350505-outer-zone.json](./350505-outer-zone.json) |
 | Outer-Rim Pod Digger | 66058 | [66058-outer-rim-pod-digger.json](./66058-outer-rim-pod-digger.json) |
 | Outergalactic Aliens Pinball | 173237 | [173237-outergalactic-aliens-pinball.json](./173237-outergalactic-aliens-pinball.json) |
+| Outergleam | 297974 | [297974-outergleam.json](./297974-outergleam.json) |
 | Outerland | 208156 | [208156-outerland.json](./208156-outerland.json) |
 | Outerlands Guilds | 236140 | [236140-outerlands-guilds.json](./236140-outerlands-guilds.json) |
 | Outernauts | 22273 | [22273-outernauts.json](./22273-outernauts.json) |
