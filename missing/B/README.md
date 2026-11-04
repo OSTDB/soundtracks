@@ -927,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad North: Jotunn Edition | 302647 | [302647-bad-north-jotunn-edition.json](./302647-bad-north-jotunn-edition.json) |
 | Bad North: Jotunn Edition - Deluxe Edition | 124968 | [124968-bad-north-jotunn-edition-deluxe-edition.json](./124968-bad-north-jotunn-edition-deluxe-edition.json) |
 | Bad Note | 111865 | [111865-bad-note.json](./111865-bad-note.json) |
+| Bad NPCs | 347466 | [347466-bad-npcs.json](./347466-bad-npcs.json) |
 | Bad Omens: 8th Apartment | 308007 | [308007-bad-omens-8th-apartment.json](./308007-bad-omens-8th-apartment.json) |
 | Bad Pad | 31579 | [31579-bad-pad.json](./31579-bad-pad.json) |
 | Bad Parenthood | 330397 | [330397-bad-parenthood.json](./330397-bad-parenthood.json) |
@@ -14056,6 +14057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brambles in the Mist | 168338 | [168338-brambles-in-the-mist.json](./168338-brambles-in-the-mist.json) |
 | Bramblewood | 196968 | [196968-bramblewood.json](./196968-bramblewood.json) |
 | Braminar | 80614 | [80614-braminar.json](./80614-braminar.json) |
+| Branch Collector | 347453 | [347453-branch-collector.json](./347453-branch-collector.json) |
 | Branchbound: Launch of the Logs | 377064 | [377064-branchbound-launch-of-the-logs.json](./377064-branchbound-launch-of-the-logs.json) |
 | Branches | 165725 | [165725-branches.json](./165725-branches.json) |
 | Brand | 63553 | [63553-brand.json](./63553-brand.json) |
