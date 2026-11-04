@@ -8045,6 +8045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye of the Beholder | 348172 | [348172-eye-of-the-beholder.json](./348172-eye-of-the-beholder.json) |
 | Eye of the Beholder | 5384 | [5384-eye-of-the-beholder.json](./5384-eye-of-the-beholder.json) |
 | Eye of the Beholder II: The Legend of Darkmoon | 12071 | [12071-eye-of-the-beholder-ii-the-legend-of-darkmoon.json](./12071-eye-of-the-beholder-ii-the-legend-of-darkmoon.json) |
+| Eye of the Commando | 314202 | [314202-eye-of-the-commando.json](./314202-eye-of-the-commando.json) |
 | Eye of the Erime | 365292 | [365292-eye-of-the-erime.json](./365292-eye-of-the-erime.json) |
 | Eye of the Gods | 41172 | [41172-eye-of-the-gods.json](./41172-eye-of-the-gods.json) |
 | Eye of the Incubus | 412720 | [412720-eye-of-the-incubus.json](./412720-eye-of-the-incubus.json) |
