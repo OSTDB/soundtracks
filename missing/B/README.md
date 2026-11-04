@@ -13560,14 +13560,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling Fever Road to 300 | 385164 | [385164-bowling-fever-road-to-300.json](./385164-bowling-fever-road-to-300.json) |
 | Bowling Fever Strike Masters | 378961 | [378961-bowling-fever-strike-masters.json](./378961-bowling-fever-strike-masters.json) |
 | Bowling Fever: Deluxe Edition | 288285 | [288285-bowling-fever-deluxe-edition.json](./288285-bowling-fever-deluxe-edition.json) |
+| Bowling Fever: Diamond Edition | 328745 | [328745-bowling-fever-diamond-edition.json](./328745-bowling-fever-diamond-edition.json) |
 | Bowling Fever: Discovery Edition | 333718 | [333718-bowling-fever-discovery-edition.json](./333718-bowling-fever-discovery-edition.json) |
 | Bowling Fever: Epic Edition | 409958 | [409958-bowling-fever-epic-edition.json](./409958-bowling-fever-epic-edition.json) |
+| Bowling Fever: Extended Edition | 328746 | [328746-bowling-fever-extended-edition.json](./328746-bowling-fever-extended-edition.json) |
 | Bowling Fever: Grand Edition | 396914 | [396914-bowling-fever-grand-edition.json](./396914-bowling-fever-grand-edition.json) |
 | Bowling Fever: Hyper Edition | 410853 | [410853-bowling-fever-hyper-edition.json](./410853-bowling-fever-hyper-edition.json) |
 | Bowling Fever: Master Edition | 404274 | [404274-bowling-fever-master-edition.json](./404274-bowling-fever-master-edition.json) |
 | Bowling Fever: Max Edition | 412588 | [412588-bowling-fever-max-edition.json](./412588-bowling-fever-max-edition.json) |
+| Bowling Fever: Platinum Edition | 328747 | [328747-bowling-fever-platinum-edition.json](./328747-bowling-fever-platinum-edition.json) |
 | Bowling Fever: Power Edition | 399811 | [399811-bowling-fever-power-edition.json](./399811-bowling-fever-power-edition.json) |
+| Bowling Fever: Prime Edition | 328748 | [328748-bowling-fever-prime-edition.json](./328748-bowling-fever-prime-edition.json) |
 | Bowling Fever: Superior Edition | 317915 | [317915-bowling-fever-superior-edition.json](./317915-bowling-fever-superior-edition.json) |
+| Bowling Fever: Upgrade Edition | 328749 | [328749-bowling-fever-upgrade-edition.json](./328749-bowling-fever-upgrade-edition.json) |
 | Bowling Fever: Value Edition | 336438 | [336438-bowling-fever-value-edition.json](./336438-bowling-fever-value-edition.json) |
 | Bowling Game 3D | 88584 | [88584-bowling-game-3d.json](./88584-bowling-game-3d.json) |
 | Bowling Game 3D HD | 103131 | [103131-bowling-game-3d-hd.json](./103131-bowling-game-3d-hd.json) |
@@ -15936,6 +15941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Seahorse Adventure | 304756 | [304756-bubble-seahorse-adventure.json](./304756-bubble-seahorse-adventure.json) |
 | Bubble Shock! Bane Blaster Game | 306203 | [306203-bubble-shock-bane-blaster-game.json](./306203-bubble-shock-bane-blaster-game.json) |
 | Bubble Shoot Farm | 272182 | [272182-bubble-shoot-farm.json](./272182-bubble-shoot-farm.json) |
+| Bubble Shoot Farm: Extended Edition | 328750 | [328750-bubble-shoot-farm-extended-edition.json](./328750-bubble-shoot-farm-extended-edition.json) |
 | Bubble Shooter | 224076 | [224076-bubble-shooter.json](./224076-bubble-shooter.json) |
 | Bubble Shooter | 227537 | [227537-bubble-shooter.json](./227537-bubble-shooter.json) |
 | Bubble Shooter | 335469 | [335469-bubble-shooter.json](./335469-bubble-shooter.json) |
@@ -15949,6 +15955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Shooter Piratey | 402060 | [402060-bubble-shooter-piratey.json](./402060-bubble-shooter-piratey.json) |
 | Bubble Shooter Pop! | 370357 | [370357-bubble-shooter-pop.json](./370357-bubble-shooter-pop.json) |
 | Bubble Shooter Star | 214288 | [214288-bubble-shooter-star.json](./214288-bubble-shooter-star.json) |
+| Bubble Shooter World | 328729 | [328729-bubble-shooter-world.json](./328729-bubble-shooter-world.json) |
 | Bubble Shooter: Color Splash | 413361 | [413361-bubble-shooter-color-splash.json](./413361-bubble-shooter-color-splash.json) |
 | Bubble Shooter: Fashion Bird | 108444 | [108444-bubble-shooter-fashion-bird.json](./108444-bubble-shooter-fashion-bird.json) |
 | Bubble Shooter: HD | 175505 | [175505-bubble-shooter-hd.json](./175505-bubble-shooter-hd.json) |
