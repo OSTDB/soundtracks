@@ -2418,6 +2418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkur 44 | 152843 | [152843-parkur-44.json](./152843-parkur-44.json) |
 | Parliament | 350474 | [350474-parliament.json](./350474-parliament.json) |
 | Parliament of Hell 1796 | 344487 | [344487-parliament-of-hell-1796.json](./344487-parliament-of-hell-1796.json) |
+| Parlor Board 3D | 302317 | [302317-parlor-board-3d.json](./302317-parlor-board-3d.json) |
 | Parlor Mall | 353630 | [353630-parlor-mall.json](./353630-parlor-mall.json) |
 | Parlor! Mini | 37895 | [37895-parlor-mini.json](./37895-parlor-mini.json) |
 | Parlor! Mini 2 | 37894 | [37894-parlor-mini-2.json](./37894-parlor-mini-2.json) |
