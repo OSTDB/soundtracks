@@ -933,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -9406,6 +9407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasten!! | 161408 | [161408-blasten.json](./161408-blasten.json) |
 | Blaster | 345949 | [345949-blaster.json](./345949-blaster.json) |
 | Blaster | 38540 | [38540-blaster.json](./38540-blaster.json) |
+| Blaster Boy | 348547 | [348547-blaster-boy.json](./348547-blaster-boy.json) |
 | Blaster Bunny + | 135014 | [135014-blaster-bunny.json](./135014-blaster-bunny.json) |
 | Blaster Bunny Chronicles | 363661 | [363661-blaster-bunny-chronicles.json](./363661-blaster-bunny-chronicles.json) |
 | Blaster Cop | 68759 | [68759-blaster-cop.json](./68759-blaster-cop.json) |
@@ -10508,6 +10510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Code | 34853 | [34853-blood-code.json](./34853-blood-code.json) |
 | Blood Code: Complete Edition | 52647 | [52647-blood-code-complete-edition.json](./52647-blood-code-complete-edition.json) |
 | Blood Code: Costume Pack | 155374 | [155374-blood-code-costume-pack.json](./155374-blood-code-costume-pack.json) |
+| Blood Country | 348554 | [348554-blood-country.json](./348554-blood-country.json) |
 | Blood Crossroad | 291189 | [291189-blood-crossroad.json](./291189-blood-crossroad.json) |
 | Blood Cube | 185549 | [185549-blood-cube.json](./185549-blood-cube.json) |
 | Blood Curse Legions | 334552 | [334552-blood-curse-legions.json](./334552-blood-curse-legions.json) |
@@ -14010,6 +14013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainrot: Animal Quizzes | 343259 | [343259-brainrot-animal-quizzes.json](./343259-brainrot-animal-quizzes.json) |
 | Brainrot: Story of Glorbo Frutodrillo & Ballerino Cappuccino | 351591 | [351591-brainrot-story-of-glorbo-frutodrillo-and-ballerino-cappuccino.json](./351591-brainrot-story-of-glorbo-frutodrillo-and-ballerino-cappuccino.json) |
 | Brainrot: Tralalero and The Lost Soul of AI | 368760 | [368760-brainrot-tralalero-and-the-lost-soul-of-ai.json](./368760-brainrot-tralalero-and-the-lost-soul-of-ai.json) |
+| Brainrot's Hamster Game | 348519 | [348519-brainrots-hamster-game.json](./348519-brainrots-hamster-game.json) |
 | Brainrots Evolution | 401376 | [401376-brainrots-evolution.json](./401376-brainrots-evolution.json) |
 | Brainrotting | 425550 | [425550-brainrotting.json](./425550-brainrotting.json) |
 | Brains & Hearts | 330163 | [330163-brains-and-hearts.json](./330163-brains-and-hearts.json) |
@@ -15716,6 +15720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS Zelda Restoration Map 2 | 322561 | [322561-bs-zelda-restoration-map-2.json](./322561-bs-zelda-restoration-map-2.json) |
 | BS-X: Sore ha Namae wo Nusumareta Machi no Monogatari | 38156 | [38156-bs-x-sore-ha-namae-wo-nusumareta-machi-no-monogatari.json](./38156-bs-x-sore-ha-namae-wo-nusumareta-machi-no-monogatari.json) |
 | BS2 | 329932 | [329932-bs2.json](./329932-bs2.json) |
+| Bside | 348558 | [348558-bside.json](./348558-bside.json) |
 | BSL Winter Game Challenge | 88048 | [88048-bsl-winter-game-challenge.json](./88048-bsl-winter-game-challenge.json) |
 | BSL Winter Games Challenge | 87331 | [87331-bsl-winter-games-challenge.json](./87331-bsl-winter-games-challenge.json) |
 | BSL Winter Games Challenge | 88283 | [88283-bsl-winter-games-challenge.json](./88283-bsl-winter-games-challenge.json) |
@@ -16177,6 +16182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Killers | 51958 | [51958-bug-killers.json](./51958-bug-killers.json) |
 | Bug Mania | 140985 | [140985-bug-mania.json](./140985-bug-mania.json) |
 | Bug N Out | 32962 | [32962-bug-n-out.json](./32962-bug-n-out.json) |
+| Bug Off | 348557 | [348557-bug-off.json](./348557-bug-off.json) |
 | Bug Off! | 55884 | [55884-bug-off.json](./55884-bug-off.json) |
 | Bug on a Wire | 273577 | [273577-bug-on-a-wire.json](./273577-bug-on-a-wire.json) |
 | Bug Out! | 206692 | [206692-bug-out.json](./206692-bug-out.json) |
@@ -16659,6 +16665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulwark: Falconeer Chronicles - Trade, Dispute and Splinters update | 299607 | [299607-bulwark-falconeer-chronicles-trade-dispute-and-splinters-update.json](./299607-bulwark-falconeer-chronicles-trade-dispute-and-splinters-update.json) |
 | Bum Bum Monsterz | 258511 | [258511-bum-bum-monsterz.json](./258511-bum-bum-monsterz.json) |
 | Bum Simulator VR | 201513 | [201513-bum-simulator-vr.json](./201513-bum-simulator-vr.json) |
+| Bum: Revenge | 348507 | [348507-bum-revenge.json](./348507-bum-revenge.json) |
 | Bumaga | 197122 | [197122-bumaga.json](./197122-bumaga.json) |
 | Bumballon | 190027 | [190027-bumballon.json](./190027-bumballon.json) |
 | Bumbi | 289426 | [289426-bumbi.json](./289426-bumbi.json) |
