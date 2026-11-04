@@ -3538,6 +3538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Federation | 257004 | [257004-federation.json](./257004-federation.json) |
 | Federation 2: Community Edition | 229756 | [229756-federation-2-community-edition.json](./229756-federation-2-community-edition.json) |
 | Federation Booker | 62517 | [62517-federation-booker.json](./62517-federation-booker.json) |
+| Federation Mycha | 315425 | [315425-federation-mycha.json](./315425-federation-mycha.json) |
 | Federation Quest 1: BSS Jane Seymour | 65210 | [65210-federation-quest-1-bss-jane-seymour.json](./65210-federation-quest-1-bss-jane-seymour.json) |
 | Federation77 | 149231 | [149231-federation77.json](./149231-federation77.json) |
 | Federico | 322465 | [322465-federico.json](./322465-federico.json) |
@@ -11603,6 +11604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friendly Facade | 232528 | [232528-friendly-facade.json](./232528-friendly-facade.json) |
 | Friendly Find | 149373 | [149373-friendly-find.json](./149373-friendly-find.json) |
 | Friendly Fire | 157099 | [157099-friendly-fire.json](./157099-friendly-fire.json) |
+| Friendly Fire | 315722 | [315722-friendly-fire.json](./315722-friendly-fire.json) |
 | Friendly Fire: Arena | 158653 | [158653-friendly-fire-arena.json](./158653-friendly-fire-arena.json) |
 | Friendly Premonition | 242811 | [242811-friendly-premonition.json](./242811-friendly-premonition.json) |
 | Friendly Sheeps: A Cozy Simulator | 326430 | [326430-friendly-sheeps-a-cozy-simulator.json](./326430-friendly-sheeps-a-cozy-simulator.json) |
