@@ -946,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6673,6 +6674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Betty Bat's Treasure Hunt | 124435 | [124435-betty-bats-treasure-hunt.json](./124435-betty-bats-treasure-hunt.json) |
 | Betty Boop's Double Shift | 8455 | [8455-betty-boops-double-shift.json](./8455-betty-boops-double-shift.json) |
 | Betty's Beer Bar | 70365 | [70365-bettys-beer-bar.json](./70365-bettys-beer-bar.json) |
+| Betty's Brawl | 306890 | [306890-bettys-brawl.json](./306890-bettys-brawl.json) |
 | Betű Kereső | 137966 | [137966-betu-kereso.json](./137966-betu-kereso.json) |
 | Between | 236177 | [236177-between.json](./236177-between.json) |
 | Between | 398980 | [398980-between.json](./398980-between.json) |
@@ -7659,6 +7661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billy | 126539 | [126539-billy.json](./126539-billy.json) |
 | Billy 101 | 192964 | [192964-billy-101.json](./192964-billy-101.json) |
 | Billy 2 | 79120 | [79120-billy-2.json](./79120-billy-2.json) |
+| Billy Bear Visits Luey | 306853 | [306853-billy-bear-visits-luey.json](./306853-billy-bear-visits-luey.json) |
 | Billy Blade and the Temple of Time | 71421 | [71421-billy-blade-and-the-temple-of-time.json](./71421-billy-blade-and-the-temple-of-time.json) |
 | Billy Bob | 245131 | [245131-billy-bob.json](./245131-billy-bob.json) |
 | Billy Bob's Huntin'-n-Fishin' | 49913 | [49913-billy-bobs-huntin-n-fishin.json](./49913-billy-bobs-huntin-n-fishin.json) |
@@ -9435,6 +9438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Breaker Online | 79363 | [79363-blast-breaker-online.json](./79363-blast-breaker-online.json) |
 | Blast Brigade vs. the Evil Legion of Dr. Cread | 146722 | [146722-blast-brigade-vs-the-evil-legion-of-dr-cread.json](./146722-blast-brigade-vs-the-evil-legion-of-dr-cread.json) |
 | Blast Chamber | 47014 | [47014-blast-chamber.json](./47014-blast-chamber.json) |
+| Blast Circus | 306899 | [306899-blast-circus.json](./306899-blast-circus.json) |
 | Blast Corps | 3424 | [3424-blast-corps.json](./3424-blast-corps.json) |
 | Blast Damage Days | 330416 | [330416-blast-damage-days.json](./330416-blast-damage-days.json) |
 | Blast Dash | 411571 | [411571-blast-dash.json](./411571-blast-dash.json) |
