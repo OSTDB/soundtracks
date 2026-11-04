@@ -8689,6 +8689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planes Attack | 116759 | [116759-planes-attack.json](./116759-planes-attack.json) |
 | Planes Combat | 278150 | [278150-planes-combat.json](./278150-planes-combat.json) |
 | Planes Journey | 150256 | [150256-planes-journey.json](./150256-planes-journey.json) |
+| Planes of Fear | 347993 | [347993-planes-of-fear.json](./347993-planes-of-fear.json) |
 | Planes: Fire & Rescue | 249103 | [249103-planes-fire-and-rescue.json](./249103-planes-fire-and-rescue.json) |
 | Planes: Fire & Rescue | 249104 | [249104-planes-fire-and-rescue.json](./249104-planes-fire-and-rescue.json) |
 | Planes: Fire & Rescue | 50966 | [50966-planes-fire-and-rescue.json](./50966-planes-fire-and-rescue.json) |
@@ -14073,6 +14074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Priscillas Dream | 264681 | [264681-priscillas-dream.json](./264681-priscillas-dream.json) |
 | Prism | 290392 | [290392-prism.json](./290392-prism.json) |
 | Prism | 33514 | [33514-prism.json](./33514-prism.json) |
+| Prism | 347974 | [347974-prism.json](./347974-prism.json) |
 | Prism | 363035 | [363035-prism.json](./363035-prism.json) |
 | Prism | 391823 | [391823-prism.json](./391823-prism.json) |
 | Prism | 86655 | [86655-prism.json](./86655-prism.json) |
