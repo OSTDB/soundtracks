@@ -2667,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Armory | 347475 | [347475-legendary-armory.json](./347475-legendary-armory.json) |
 | Legendary Blacksmith | 249311 | [249311-legendary-blacksmith.json](./249311-legendary-blacksmith.json) |
 | Legendary Boxing Belt | 181040 | [181040-legendary-boxing-belt.json](./181040-legendary-boxing-belt.json) |
+| Legendary Class Blind Date | 344103 | [344103-legendary-class-blind-date.json](./344103-legendary-class-blind-date.json) |
 | Legendary Creatures | 347476 | [347476-legendary-creatures.json](./347476-legendary-creatures.json) |
 | Legendary Creatures 2 | 271374 | [271374-legendary-creatures-2.json](./271374-legendary-creatures-2.json) |
 | Legendary Dwarves: Retribution | 187893 | [187893-legendary-dwarves-retribution.json](./187893-legendary-dwarves-retribution.json) |
@@ -7121,6 +7122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop | 279011 | [279011-loop.json](./279011-loop.json) |
 | Loop | 306402 | [306402-loop.json](./306402-loop.json) |
 | Loop | 327298 | [327298-loop.json](./327298-loop.json) |
+| Loop | 344257 | [344257-loop.json](./344257-loop.json) |
 | Loop | 405702 | [405702-loop.json](./405702-loop.json) |
 | Loop Archer | 364648 | [364648-loop-archer.json](./364648-loop-archer.json) |
 | Loop Chain | 234494 | [234494-loop-chain.json](./234494-loop-chain.json) |
