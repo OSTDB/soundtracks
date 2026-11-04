@@ -12640,6 +12640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal: System Failure | 322169 | [322169-portal-system-failure.json](./322169-portal-system-failure.json) |
 | Portal: The Flash Version | 11280 | [11280-portal-the-flash-version.json](./11280-portal-the-flash-version.json) |
 | Portal: The Flash Version MapPack | 306812 | [306812-portal-the-flash-version-mappack.json](./306812-portal-the-flash-version-mappack.json) |
+| PortalBox | 298216 | [298216-portalbox.json](./298216-portalbox.json) |
 | Portalnauts | 60589 | [60589-portalnauts.json](./60589-portalnauts.json) |
 | PortalOne Arcade | 181305 | [181305-portalone-arcade.json](./181305-portalone-arcade.json) |
 | Portals of P'Thaal | 142459 | [142459-portals-of-pthaal.json](./142459-portals-of-pthaal.json) |
@@ -16163,6 +16164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protocol Bound | 410964 | [410964-protocol-bound.json](./410964-protocol-bound.json) |
 | Protocol Delta | 258648 | [258648-protocol-delta.json](./258648-protocol-delta.json) |
 | Protocol Endfall | 159834 | [159834-protocol-endfall.json](./159834-protocol-endfall.json) |
+| Protocol Five | 298206 | [298206-protocol-five.json](./298206-protocol-five.json) |
 | Protocol Last Life | 112369 | [112369-protocol-last-life.json](./112369-protocol-last-life.json) |
 | Protocol Nadir | 367940 | [367940-protocol-nadir.json](./367940-protocol-nadir.json) |
 | Protocol Nightmare | 385659 | [385659-protocol-nightmare.json](./385659-protocol-nightmare.json) |
