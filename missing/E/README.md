@@ -1725,6 +1725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eightrun | 242523 | [242523-eightrun.json](./242523-eightrun.json) |
 | Eights | 354652 | [354652-eights.json](./354652-eights.json) |
 | Eigo de Tabi Suru: Little Charo | 136804 | [136804-eigo-de-tabi-suru-little-charo.json](./136804-eigo-de-tabi-suru-little-charo.json) |
+| Eigo Monogatari | 324642 | [324642-eigo-monogatari.json](./324642-eigo-monogatari.json) |
 | Eigo wo Taberu Fushigi na Ikimono | 338715 | [338715-eigo-wo-taberu-fushigi-na-ikimono.json](./338715-eigo-wo-taberu-fushigi-na-ikimono.json) |
 | Eijukugo Target 1000 DS | 317397 | [317397-eijukugo-target-1000-ds.json](./317397-eijukugo-target-1000-ds.json) |
 | Eikan ha Kimi ni: Koukou Yakyuu Zenkoku Taikai | 210578 | [210578-eikan-ha-kimi-ni-koukou-yakyuu-zenkoku-taikai.json](./210578-eikan-ha-kimi-ni-koukou-yakyuu-zenkoku-taikai.json) |
