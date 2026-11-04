@@ -853,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaywalk: An Endless Arcade Hopper Game | 406233 | [406233-jaywalk-an-endless-arcade-hopper-game.json](./406233-jaywalk-an-endless-arcade-hopper-game.json) |
 | Jazz Age | 126954 | [126954-jazz-age.json](./126954-jazz-age.json) |
 | Jazz and Faust | 127331 | [127331-jazz-and-faust.json](./127331-jazz-and-faust.json) |
+| Jazz Dungeon | 313940 | [313940-jazz-dungeon.json](./313940-jazz-dungeon.json) |
 | Jazz It Up | 177994 | [177994-jazz-it-up.json](./177994-jazz-it-up.json) |
 | Jazz Jackrabbit 2 | 764 | [764-jazz-jackrabbit-2.json](./764-jazz-jackrabbit-2.json) |
 | Jazz Jackrabbit 2 Collection | 124976 | [124976-jazz-jackrabbit-2-collection.json](./124976-jazz-jackrabbit-2-collection.json) |
