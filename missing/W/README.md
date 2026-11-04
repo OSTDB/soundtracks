@@ -4023,6 +4023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where in the USA is Carmen Sandiego? (Enhanced) | 66348 | [66348-where-in-the-usa-is-carmen-sandiego-enhanced.json](./66348-where-in-the-usa-is-carmen-sandiego-enhanced.json) |
 | Where in the World is Carmen Sandiego? | 172318 | [172318-where-in-the-world-is-carmen-sandiego.json](./172318-where-in-the-world-is-carmen-sandiego.json) |
 | Where in the World Is Carmen Sandiego? | 251 | [251-where-in-the-world-is-carmen-sandiego.json](./251-where-in-the-world-is-carmen-sandiego.json) |
+| Where in the World Is Carmen Sandiego? | 299326 | [299326-where-in-the-world-is-carmen-sandiego.json](./299326-where-in-the-world-is-carmen-sandiego.json) |
 | Where in the World Is Carmen Sandiego? | 367753 | [367753-where-in-the-world-is-carmen-sandiego.json](./367753-where-in-the-world-is-carmen-sandiego.json) |
 | Where in the World Is Carmen Sandiego? | 367754 | [367754-where-in-the-world-is-carmen-sandiego.json](./367754-where-in-the-world-is-carmen-sandiego.json) |
 | Where in the World is Carmen Sandiego? 3: New Carmen Adventure | 327059 | [327059-where-in-the-world-is-carmen-sandiego-3-new-carmen-adventure.json](./327059-where-in-the-world-is-carmen-sandiego-3-new-carmen-adventure.json) |
