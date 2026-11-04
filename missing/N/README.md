@@ -1602,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrolepsy | 114384 | [114384-necrolepsy.json](./114384-necrolepsy.json) |
 | Necrologium | 372404 | [372404-necrologium.json](./372404-necrologium.json) |
 | Necrology | 381660 | [381660-necrology.json](./381660-necrology.json) |
+| Necromage | 305706 | [305706-necromage.json](./305706-necromage.json) |
 | Necromancer | 313953 | [313953-necromancer.json](./313953-necromancer.json) |
 | Necromancer | 377196 | [377196-necromancer.json](./377196-necromancer.json) |
 | Necromancer | 76450 | [76450-necromancer.json](./76450-necromancer.json) |
@@ -2522,6 +2523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Wars | 312925 | [312925-neon-wars.json](./312925-neon-wars.json) |
 | Neon Wasteland | 331768 | [331768-neon-wasteland.json](./331768-neon-wasteland.json) |
 | Neon Wings: Air Race | 147090 | [147090-neon-wings-air-race.json](./147090-neon-wings-air-race.json) |
+| Neon World Maker | 305717 | [305717-neon-world-maker.json](./305717-neon-world-maker.json) |
 | Neon: Eternal | 169735 | [169735-neon-eternal.json](./169735-neon-eternal.json) |
 | NeonArcade: Adventure Puzzle Muse | 111378 | [111378-neonarcade-adventure-puzzle-muse.json](./111378-neonarcade-adventure-puzzle-muse.json) |
 | NeonBall | 52345 | [52345-neonball.json](./52345-neonball.json) |
