@@ -1185,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh! Robot: Legendary Mechanic | 356300 | [356300-oh-robot-legendary-mechanic.json](./356300-oh-robot-legendary-mechanic.json) |
 | Oh! RPG! | 33983 | [33983-oh-rpg.json](./33983-oh-rpg.json) |
 | Oh! Sheep | 233733 | [233733-oh-sheep.json](./233733-oh-sheep.json) |
+| Oh? Me | 348513 | [348513-oh-me.json](./348513-oh-me.json) |
 | Oh...Sir! Prototype | 90604 | [90604-oh-sir-prototype.json](./90604-oh-sir-prototype.json) |
 | Oh...Sir! The Hollywood Roast | 29994 | [29994-oh-sir-the-hollywood-roast.json](./29994-oh-sir-the-hollywood-roast.json) |
 | Oh...Sir!! The Insult Simulator | 25577 | [25577-oh-sir-the-insult-simulator.json](./25577-oh-sir-the-insult-simulator.json) |
@@ -1470,6 +1471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oldfartenstein 3D | 255375 | [255375-oldfartenstein-3d.json](./255375-oldfartenstein-3d.json) |
 | OldGrad | 88141 | [88141-oldgrad.json](./88141-oldgrad.json) |
 | OldHeart Online | 397170 | [397170-oldheart-online.json](./397170-oldheart-online.json) |
+| Oldish Stuff | 348521 | [348521-oldish-stuff.json](./348521-oldish-stuff.json) |
 | Oldorf's Revenge | 24847 | [24847-oldorfs-revenge.json](./24847-oldorfs-revenge.json) |
 | Oldowan | 211222 | [211222-oldowan.json](./211222-oldowan.json) |
 | Oldschool Tennis | 367591 | [367591-oldschool-tennis.json](./367591-oldschool-tennis.json) |
