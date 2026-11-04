@@ -5367,6 +5367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chalet | 350943 | [350943-chalet.json](./350943-chalet.json) |
 | Chalga Killer | 327691 | [327691-chalga-killer.json](./327691-chalga-killer.json) |
 | Chalice | 151274 | [151274-chalice.json](./151274-chalice.json) |
+| Chalice of Highland | 332761 | [332761-chalice-of-highland.json](./332761-chalice-of-highland.json) |
 | Chalice of Souls: Grahan | 268307 | [268307-chalice-of-souls-grahan.json](./268307-chalice-of-souls-grahan.json) |
 | Chalicebound | 300985 | [300985-chalicebound.json](./300985-chalicebound.json) |
 | Chalk | 8625 | [8625-chalk.json](./8625-chalk.json) |
@@ -13029,6 +13030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquering Percents | 152026 | [152026-conquering-percents.json](./152026-conquering-percents.json) |
 | Conquering the Queen | 127965 | [127965-conquering-the-queen.json](./127965-conquering-the-queen.json) |
 | Conquering Worlds | 59903 | [59903-conquering-worlds.json](./59903-conquering-worlds.json) |
+| Conquero | 332774 | [332774-conquero.json](./332774-conquero.json) |
 | Conqueror | 15213 | [15213-conqueror.json](./15213-conqueror.json) |
 | Conqueror 940 AD | 144985 | [144985-conqueror-940-ad.json](./144985-conqueror-940-ad.json) |
 | Conqueror Of The Galaxy | 327046 | [327046-conqueror-of-the-galaxy.json](./327046-conqueror-of-the-galaxy.json) |
@@ -17022,6 +17024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Country Express - An Oddfellows Mini | 121335 | [121335-cross-country-express-an-oddfellows-mini.json](./121335-cross-country-express-an-oddfellows-mini.json) |
 | Cross Country Skiing VR | 99035 | [99035-cross-country-skiing-vr.json](./99035-cross-country-skiing-vr.json) |
 | Cross Court Tennis 2 | 332906 | [332906-cross-court-tennis-2.json](./332906-cross-court-tennis-2.json) |
+| Cross Court Tennis 3 | 332904 | [332904-cross-court-tennis-3.json](./332904-cross-court-tennis-3.json) |
 | Cross Crush | 222067 | [222067-cross-crush.json](./222067-cross-crush.json) |
 | Cross Dating Adventure: Kasanari | 97732 | [97732-cross-dating-adventure-kasanari.json](./97732-cross-dating-adventure-kasanari.json) |
 | Cross Days | 92409 | [92409-cross-days.json](./92409-cross-days.json) |
