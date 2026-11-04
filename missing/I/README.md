@@ -3812,6 +3812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Nikki: Golden Season | 370959 | [370959-infinity-nikki-golden-season.json](./370959-infinity-nikki-golden-season.json) |
 | Infinity Nikki: Life as a Poem | 383945 | [383945-infinity-nikki-life-as-a-poem.json](./383945-infinity-nikki-life-as-a-poem.json) |
 | Infinity Nikki: Revelry Season | 336160 | [336160-infinity-nikki-revelry-season.json](./336160-infinity-nikki-revelry-season.json) |
+| Infinity Nikki: Shooting Star Season | 327087 | [327087-infinity-nikki-shooting-star-season.json](./327087-infinity-nikki-shooting-star-season.json) |
 | Infinity Nikki: Uncrowned Heart | 393593 | [393593-infinity-nikki-uncrowned-heart.json](./393593-infinity-nikki-uncrowned-heart.json) |
 | Infinity Nikki: Where All Souls Return | 399186 | [399186-infinity-nikki-where-all-souls-return.json](./399186-infinity-nikki-where-all-souls-return.json) |
 | Infinity Nikki: Where Stars Yearn | 407838 | [407838-infinity-nikki-where-stars-yearn.json](./407838-infinity-nikki-where-stars-yearn.json) |
