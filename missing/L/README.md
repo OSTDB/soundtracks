@@ -4619,6 +4619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Rider | 108427 | [108427-light-rider.json](./108427-light-rider.json) |
 | Light Runner | 107083 | [107083-light-runner.json](./107083-light-runner.json) |
 | Light Shinobi | 185479 | [185479-light-shinobi.json](./185479-light-shinobi.json) |
+| Light Snake | 304487 | [304487-light-snake.json](./304487-light-snake.json) |
 | Light Source | 416108 | [416108-light-source.json](./416108-light-source.json) |
 | Light Speed Adventures | 330518 | [330518-light-speed-adventures.json](./330518-light-speed-adventures.json) |
 | Light Speed Bike: Motor Cycle Rider Game Pro | 174201 | [174201-light-speed-bike-motor-cycle-rider-game-pro.json](./174201-light-speed-bike-motor-cycle-rider-game-pro.json) |
