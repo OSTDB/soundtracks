@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Boîte à Bidules de l'Oncle Ernest | 285881 | [285881-la-boite-a-bidules-de-loncle-ernest.json](./285881-la-boite-a-bidules-de-loncle-ernest.json) |
 | La Bola Negra | 379309 | [379309-la-bola-negra.json](./379309-la-bola-negra.json) |
 | La Búsqueda del Dilmun: La Tabla de Rawls | 280058 | [280058-la-busqueda-del-dilmun-la-tabla-de-rawls.json](./280058-la-busqueda-del-dilmun-la-tabla-de-rawls.json) |
+| La Caja de los Sueños | 298741 | [298741-la-caja-de-los-suenos.json](./298741-la-caja-de-los-suenos.json) |
 | La Carbonara | 323172 | [323172-la-carbonara.json](./323172-la-carbonara.json) |
 | La Casa del Taquero | 379725 | [379725-la-casa-del-taquero.json](./379725-la-casa-del-taquero.json) |
 | La Caza | 288121 | [288121-la-caza.json](./288121-la-caza.json) |
@@ -4612,6 +4613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light of the Locked World | 119762 | [119762-light-of-the-locked-world.json](./119762-light-of-the-locked-world.json) |
 | Light of the Mountain | 44213 | [44213-light-of-the-mountain.json](./44213-light-of-the-mountain.json) |
 | Light of the Past | 199480 | [199480-light-of-the-past.json](./199480-light-of-the-past.json) |
+| Light of the Stars | 298753 | [298753-light-of-the-stars.json](./298753-light-of-the-stars.json) |
 | Light of Tomorrow | 167667 | [167667-light-of-tomorrow.json](./167667-light-of-tomorrow.json) |
 | Light of Veilendor | 261779 | [261779-light-of-veilendor.json](./261779-light-of-veilendor.json) |
 | Light On | 244660 | [244660-light-on.json](./244660-light-on.json) |
@@ -8117,6 +8119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Space: Ascend | 103100 | [103100-lost-space-ascend.json](./103100-lost-space-ascend.json) |
 | Lost Sphear | 36534 | [36534-lost-sphear.json](./36534-lost-sphear.json) |
 | Lost Squad | 17129 | [17129-lost-squad.json](./17129-lost-squad.json) |
+| Lost Star | 298761 | [298761-lost-star.json](./298761-lost-star.json) |
 | Lost Station | 250866 | [250866-lost-station.json](./250866-lost-station.json) |
 | Lost Summoner Kitty | 80900 | [80900-lost-summoner-kitty.json](./80900-lost-summoner-kitty.json) |
 | Lost Sunday Comics | 192797 | [192797-lost-sunday-comics.json](./192797-lost-sunday-comics.json) |
@@ -8175,6 +8178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lostgamer | 231504 | [231504-lostgamer.json](./231504-lostgamer.json) |
 | LostHero | 138248 | [138248-losthero.json](./138248-losthero.json) |
 | LostMagic | 20522 | [20522-lostmagic.json](./20522-lostmagic.json) |
+| LostMiner: Build & Craft Game | 298747 | [298747-lostminer-build-and-craft-game.json](./298747-lostminer-build-and-craft-game.json) |
 | LostTicket | 342910 | [342910-lostticket.json](./342910-lostticket.json) |
 | LostX Dungeon | 112213 | [112213-lostx-dungeon.json](./112213-lostx-dungeon.json) |
 | Lostx Dungeon II | 116654 | [116654-lostx-dungeon-ii.json](./116654-lostx-dungeon-ii.json) |
