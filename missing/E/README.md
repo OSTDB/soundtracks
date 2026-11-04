@@ -984,6 +984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipse of Elysium | 295815 | [295815-eclipse-of-elysium.json](./295815-eclipse-of-elysium.json) |
 | Eclipse of Fate | 366720 | [366720-eclipse-of-fate.json](./366720-eclipse-of-fate.json) |
 | Eclipse of Illusion | 68983 | [68983-eclipse-of-illusion.json](./68983-eclipse-of-illusion.json) |
+| Eclipse of the Lost | 341827 | [341827-eclipse-of-the-lost.json](./341827-eclipse-of-the-lost.json) |
 | Eclipse Saga | 188389 | [188389-eclipse-saga.json](./188389-eclipse-saga.json) |
 | Eclipse Survivors | 249757 | [249757-eclipse-survivors.json](./249757-eclipse-survivors.json) |
 | Eclipse: 2nd Dawn for the Galaxy | 368711 | [368711-eclipse-2nd-dawn-for-the-galaxy.json](./368711-eclipse-2nd-dawn-for-the-galaxy.json) |
@@ -2311,6 +2312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elements and Build | 321564 | [321564-elements-and-build.json](./321564-elements-and-build.json) |
 | Elements Cubed | 231411 | [231411-elements-cubed.json](./231411-elements-cubed.json) |
 | Elements Destiny | 143432 | [143432-elements-destiny.json](./143432-elements-destiny.json) |
+| Elements Divided | 341790 | [341790-elements-divided.json](./341790-elements-divided.json) |
 | Elements For Money | 287243 | [287243-elements-for-money.json](./287243-elements-for-money.json) |
 | Elements II: Hearts of Light | 33352 | [33352-elements-ii-hearts-of-light.json](./33352-elements-ii-hearts-of-light.json) |
 | Elements of Destruction | 210292 | [210292-elements-of-destruction.json](./210292-elements-of-destruction.json) |
