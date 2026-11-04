@@ -11777,6 +11777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skibidi Mahr Simulator 64 | 339822 | [339822-skibidi-mahr-simulator-64.json](./339822-skibidi-mahr-simulator-64.json) |
 | Skibidi Mahrt Kart: TrackMahrnia | 376088 | [376088-skibidi-mahrt-kart-trackmahrnia.json](./376088-skibidi-mahrt-kart-trackmahrnia.json) |
 | Skibidi Revenge | 336601 | [336601-skibidi-revenge.json](./336601-skibidi-revenge.json) |
+| Skibidi Sandbox | 321238 | [321238-skibidi-sandbox.json](./321238-skibidi-sandbox.json) |
 | Skibidi Shooter: Survival FPS | 275646 | [275646-skibidi-shooter-survival-fps.json](./275646-skibidi-shooter-survival-fps.json) |
 | Skibidi Toilet | 278399 | [278399-skibidi-toilet.json](./278399-skibidi-toilet.json) |
 | Skibidi Toilet Attack | 264461 | [264461-skibidi-toilet-attack.json](./264461-skibidi-toilet-attack.json) |
@@ -12945,6 +12946,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slenderman Must Die: Chapter 4 | 321039 | [321039-slenderman-must-die-chapter-4.json](./321039-slenderman-must-die-chapter-4.json) |
 | Slenderman Must Die: Chapter 5 | 321049 | [321049-slenderman-must-die-chapter-5.json](./321049-slenderman-must-die-chapter-5.json) |
 | Slenderman Must Die: Chapter 6 | 321072 | [321072-slenderman-must-die-chapter-6.json](./321072-slenderman-must-die-chapter-6.json) |
+| Slenderman Must Die: Chapter 7 | 321098 | [321098-slenderman-must-die-chapter-7.json](./321098-slenderman-must-die-chapter-7.json) |
+| Slenderman Must Die: Chapter 8 | 321110 | [321110-slenderman-must-die-chapter-8.json](./321110-slenderman-must-die-chapter-8.json) |
 | Slenderman Must Die: Survivors | 321122 | [321122-slenderman-must-die-survivors.json](./321122-slenderman-must-die-survivors.json) |
 | Slenderman Saw Game | 385596 | [385596-slenderman-saw-game.json](./385596-slenderman-saw-game.json) |
 | Slenderman: Shadow of the Forest | 340551 | [340551-slenderman-shadow-of-the-forest.json](./340551-slenderman-shadow-of-the-forest.json) |
@@ -17192,6 +17195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Spectre | 266352 | [266352-sonic-spectre.json](./266352-sonic-spectre.json) |
 | Sonic Speed | 336356 | [336356-sonic-speed.json](./336356-sonic-speed.json) |
 | Sonic Speed Blast | 330708 | [330708-sonic-speed-blast.json](./330708-sonic-speed-blast.json) |
+| Sonic Speed Course | 321114 | [321114-sonic-speed-course.json](./321114-sonic-speed-course.json) |
 | Sonic Speed DX | 261281 | [261281-sonic-speed-dx.json](./261281-sonic-speed-dx.json) |
 | Sonic Speedfighters 2 | 332609 | [332609-sonic-speedfighters-2.json](./332609-sonic-speedfighters-2.json) |
 | Sonic Speedfreshed | 351190 | [351190-sonic-speedfreshed.json](./351190-sonic-speedfreshed.json) |
@@ -17208,6 +17212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Sundown | 321395 | [321395-sonic-sundown.json](./321395-sonic-sundown.json) |
 | Sonic Sunsation | 316498 | [316498-sonic-sunsation.json](./316498-sonic-sunsation.json) |
 | Sonic Sunventure | 270221 | [270221-sonic-sunventure.json](./270221-sonic-sunventure.json) |
+| Sonic Super Jam | 321107 | [321107-sonic-super-jam.json](./321107-sonic-super-jam.json) |
 | Sonic Superstars: Digital Deluxe Edition featuring LEGO | 263550 | [263550-sonic-superstars-digital-deluxe-edition-featuring-lego.json](./263550-sonic-superstars-digital-deluxe-edition-featuring-lego.json) |
 | Sonic Superstars: Lego Dr. Eggman | 279744 | [279744-sonic-superstars-lego-dr-eggman.json](./279744-sonic-superstars-lego-dr-eggman.json) |
 | Sonic Superstars: Lego Fun Pack | 279743 | [279743-sonic-superstars-lego-fun-pack.json](./279743-sonic-superstars-lego-fun-pack.json) |
@@ -17473,6 +17478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic: Rewind | 326804 | [326804-sonic-rewind.json](./326804-sonic-rewind.json) |
 | Sonic: RTFI | 330513 | [330513-sonic-rtfi.json](./330513-sonic-rtfi.json) |
 | Sonic: Scorched Quest | 198565 | [198565-sonic-scorched-quest.json](./198565-sonic-scorched-quest.json) |
+| Sonic: Scrambled Eggs | 321111 | [321111-sonic-scrambled-eggs.json](./321111-sonic-scrambled-eggs.json) |
 | Sonic: Skyline | 333673 | [333673-sonic-skyline.json](./333673-sonic-skyline.json) |
 | Sonic: StarLight | 333677 | [333677-sonic-starlight.json](./333677-sonic-starlight.json) |
 | Sonic: The Blue Blur | 332611 | [332611-sonic-the-blue-blur.json](./332611-sonic-the-blue-blur.json) |
@@ -18947,6 +18953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21265,6 +21272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Cleansers | 410635 | [410635-spirit-cleansers.json](./410635-spirit-cleansers.json) |
 | Spirit Crossing | 336502 | [336502-spirit-crossing.json](./336502-spirit-crossing.json) |
 | Spirit Detective | 191490 | [191490-spirit-detective.json](./191490-spirit-detective.json) |
+| Spirit Driver | 321272 | [321272-spirit-driver.json](./321272-spirit-driver.json) |
 | Spirit Drop | 334746 | [334746-spirit-drop.json](./334746-spirit-drop.json) |
 | Spirit Eyes | 211188 | [211188-spirit-eyes.json](./211188-spirit-eyes.json) |
 | Spirit Glaive | 365395 | [365395-spirit-glaive.json](./365395-spirit-glaive.json) |
@@ -29292,6 +29300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Humanity | 273898 | [273898-sunset-humanity.json](./273898-sunset-humanity.json) |
 | Sunset Irreligion | 325252 | [325252-sunset-irreligion.json](./325252-sunset-irreligion.json) |
 | Sunset Kingdom | 129027 | [129027-sunset-kingdom.json](./129027-sunset-kingdom.json) |
+| Sunset Land | 321255 | [321255-sunset-land.json](./321255-sunset-land.json) |
 | Sunset Mall | 138549 | [138549-sunset-mall.json](./138549-sunset-mall.json) |
 | Sunset Mall: Classic | 201244 | [201244-sunset-mall-classic.json](./201244-sunset-mall-classic.json) |
 | Sunset Moon | 375207 | [375207-sunset-moon.json](./375207-sunset-moon.json) |
