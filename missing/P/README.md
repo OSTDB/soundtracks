@@ -2760,6 +2760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patapon 2 Replay | 352489 | [352489-patapon-2-replay.json](./352489-patapon-2-replay.json) |
 | Patapon 2: Art of War | 61093 | [61093-patapon-2-art-of-war.json](./61093-patapon-2-art-of-war.json) |
 | Patapon 3 | 18373 | [18373-patapon-3.json](./18373-patapon-3.json) |
+| Patapon 3 | 331211 | [331211-patapon-3.json](./331211-patapon-3.json) |
 | Patapon Remastered | 26233 | [26233-patapon-remastered.json](./26233-patapon-remastered.json) |
 | Patapon Replay | 352488 | [352488-patapon-replay.json](./352488-patapon-replay.json) |
 | Patapon: Band Camp | 61092 | [61092-patapon-band-camp.json](./61092-patapon-band-camp.json) |
@@ -15053,6 +15054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Aura: Super Engineer Colonist | 168205 | [168205-project-aura-super-engineer-colonist.json](./168205-project-aura-super-engineer-colonist.json) |
 | Project Aurora | 208106 | [208106-project-aurora.json](./208106-project-aurora.json) |
 | Project Awakening | 22790 | [22790-project-awakening.json](./22790-project-awakening.json) |
+| Project AXSX | 331058 | [331058-project-axsx.json](./331058-project-axsx.json) |
 | Project Azriel | 74193 | [74193-project-azriel.json](./74193-project-azriel.json) |
 | Project B | 240081 | [240081-project-b.json](./240081-project-b.json) |
 | Project B-Fer | 257651 | [257651-project-b-fer.json](./257651-project-b-fer.json) |
