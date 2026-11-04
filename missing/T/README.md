@@ -2973,6 +2973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teamcrafter | 352471 | [352471-teamcrafter.json](./352471-teamcrafter.json) |
 | Teamfight Manager | 144006 | [144006-teamfight-manager.json](./144006-teamfight-manager.json) |
 | Teamfight Manager 2 | 369638 | [369638-teamfight-manager-2.json](./369638-teamfight-manager-2.json) |
+| Teamfight Tactics: Cyber City | 336307 | [336307-teamfight-tactics-cyber-city.json](./336307-teamfight-tactics-cyber-city.json) |
 | TeamJumpers 2: New Reality | 152032 | [152032-teamjumpers-2-new-reality.json](./152032-teamjumpers-2-new-reality.json) |
 | Teamkill | 191560 | [191560-teamkill.json](./191560-teamkill.json) |
 | TeamPlay | 163976 | [163976-teamplay.json](./163976-teamplay.json) |
@@ -6037,6 +6038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Barker & Mustard Files | 224074 | [224074-the-barker-and-mustard-files.json](./224074-the-barker-and-mustard-files.json) |
 | The Barnacle Squad | 265284 | [265284-the-barnacle-squad.json](./265284-the-barnacle-squad.json) |
 | The Barney Fun Page! | 338038 | [338038-the-barney-fun-page.json](./338038-the-barney-fun-page.json) |
+| The Barnhouse Killer | 336277 | [336277-the-barnhouse-killer.json](./336277-the-barnhouse-killer.json) |
 | The Baron Got You Again | 54523 | [54523-the-baron-got-you-again.json](./54523-the-baron-got-you-again.json) |
 | The Barren Babel | 151800 | [151800-the-barren-babel.json](./151800-the-barren-babel.json) |
 | The Barren Kingdoms | 182096 | [182096-the-barren-kingdoms.json](./182096-the-barren-kingdoms.json) |
@@ -10333,6 +10335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hole in the Cabin | 231527 | [231527-the-hole-in-the-cabin.json](./231527-the-hole-in-the-cabin.json) |
 | The Hole Keeper | 370270 | [370270-the-hole-keeper.json](./370270-the-hole-keeper.json) |
 | The Hole Story | 35579 | [35579-the-hole-story.json](./35579-the-hole-story.json) |
+| The Hole to Hyrule | 336263 | [336263-the-hole-to-hyrule.json](./336263-the-hole-to-hyrule.json) |
 | The Hole Town | 304912 | [304912-the-hole-town.json](./304912-the-hole-town.json) |
 | The Holiday Bakeoff | 325348 | [325348-the-holiday-bakeoff.json](./325348-the-holiday-bakeoff.json) |
 | The Holiday Express: Runaway Elf | 231000 | [231000-the-holiday-express-runaway-elf.json](./231000-the-holiday-express-runaway-elf.json) |
@@ -23440,6 +23443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Together VR | 90151 | [90151-together-vr.json](./90151-together-vr.json) |
 | Together We Fall | 184862 | [184862-together-we-fall.json](./184862-together-we-fall.json) |
 | Together We Live | 221212 | [221212-together-we-live.json](./221212-together-we-live.json) |
+| Together We Play: Help Me Help You! | 336302 | [336302-together-we-play-help-me-help-you.json](./336302-together-we-play-help-me-help-you.json) |
 | Together With Me | 221181 | [221181-together-with-me.json](./221181-together-with-me.json) |
 | Together: A Wish No One Remembers | 130967 | [130967-together-a-wish-no-one-remembers.json](./130967-together-a-wish-no-one-remembers.json) |
 | Together: Amna & Saif | 51678 | [51678-together-amna-and-saif.json](./51678-together-amna-and-saif.json) |
@@ -26533,6 +26537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrackMania United Forever | 2451 | [2451-trackmania-united-forever.json](./2451-trackmania-united-forever.json) |
 | TrackMania: Power Up! | 69906 | [69906-trackmania-power-up.json](./69906-trackmania-power-up.json) |
 | TrackMaster: Free For All Motorsport | 155376 | [155376-trackmaster-free-for-all-motorsport.json](./155376-trackmaster-free-for-all-motorsport.json) |
+| Trackminia | 336260 | [336260-trackminia.json](./336260-trackminia.json) |
 | TrackRace | 208230 | [208230-trackrace.json](./208230-trackrace.json) |
 | TrackRacing Online | 98396 | [98396-trackracing-online.json](./98396-trackracing-online.json) |
 | Tracks and Turrets | 110247 | [110247-tracks-and-turrets.json](./110247-tracks-and-turrets.json) |
