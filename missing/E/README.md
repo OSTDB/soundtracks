@@ -1549,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Ys II PC-8801mkIISR | 290446 | [290446-eggconsole-ys-ii-pc-8801mkiisr.json](./290446-eggconsole-ys-ii-pc-8801mkiisr.json) |
 | Eggconsole Ys PC-8801mkIISR | 286210 | [286210-eggconsole-ys-pc-8801mkiisr.json](./286210-eggconsole-ys-pc-8801mkiisr.json) |
 | Eggconsole Yuureikun MSX2 | 381705 | [381705-eggconsole-yuureikun-msx2.json](./381705-eggconsole-yuureikun-msx2.json) |
+| Eggconsole Zanac MSX | 328734 | [328734-eggconsole-zanac-msx.json](./328734-eggconsole-zanac-msx.json) |
 | Eggconsole Zodiac PC-8801 | 406070 | [406070-eggconsole-zodiac-pc-8801.json](./406070-eggconsole-zodiac-pc-8801.json) |
 | Eggconsole: Arugisu no Tsubasa | 385060 | [385060-eggconsole-arugisu-no-tsubasa.json](./385060-eggconsole-arugisu-no-tsubasa.json) |
 | Eggconsole: Hydlide 3 - PC-8801mkIISR | 287588 | [287588-eggconsole-hydlide-3-pc-8801mkiisr.json](./287588-eggconsole-hydlide-3-pc-8801mkiisr.json) |
@@ -5024,6 +5025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Mutation Station | 320729 | [320729-escape-from-mutation-station.json](./320729-escape-from-mutation-station.json) |
 | Escape from Nalaxion | 260158 | [260158-escape-from-nalaxion.json](./260158-escape-from-nalaxion.json) |
 | Escape from Naraka | 149961 | [149961-escape-from-naraka.json](./149961-escape-from-naraka.json) |
+| Escape from Nightmare: Horror Tales | 328735 | [328735-escape-from-nightmare-horror-tales.json](./328735-escape-from-nightmare-horror-tales.json) |
 | Escape from NOM | 65225 | [65225-escape-from-nom.json](./65225-escape-from-nom.json) |
 | Escape from Norwood | 246016 | [246016-escape-from-norwood.json](./246016-escape-from-norwood.json) |
 | Escape from Nowhere | 158499 | [158499-escape-from-nowhere.json](./158499-escape-from-nowhere.json) |
@@ -5195,6 +5197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Game The Museum of Memories | 387105 | [387105-escape-game-the-museum-of-memories.json](./387105-escape-game-the-museum-of-memories.json) |
 | Escape Game The Nostalgic Cafe | 342394 | [342394-escape-game-the-nostalgic-cafe.json](./342394-escape-game-the-nostalgic-cafe.json) |
 | Escape Game The Painting Mansion | 332492 | [332492-escape-game-the-painting-mansion.json](./332492-escape-game-the-painting-mansion.json) |
+| Escape Game The Resort Facility | 328736 | [328736-escape-game-the-resort-facility.json](./328736-escape-game-the-resort-facility.json) |
 | Escape Game: Aloha | 102623 | [102623-escape-game-aloha.json](./102623-escape-game-aloha.json) |
 | Escape Game: Cinderella | 228007 | [228007-escape-game-cinderella.json](./228007-escape-game-cinderella.json) |
 | Escape Game: Enchanting Tales | 174263 | [174263-escape-game-enchanting-tales.json](./174263-escape-game-enchanting-tales.json) |
