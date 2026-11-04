@@ -2090,6 +2090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unholy Trinity | 368808 | [368808-unholy-trinity.json](./368808-unholy-trinity.json) |
 | Unhomely | 389822 | [389822-unhomely.json](./389822-unhomely.json) |
 | Unhost | 400251 | [400251-unhost.json](./400251-unhost.json) |
+| Unhuman Nightmare | 336826 | [336826-unhuman-nightmare.json](./336826-unhuman-nightmare.json) |
 | UnHumanize | 319011 | [319011-unhumanize.json](./319011-unhumanize.json) |
 | Uni | 115402 | [115402-uni.json](./115402-uni.json) |
 | Uni | 145684 | [145684-uni.json](./145684-uni.json) |
