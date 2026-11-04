@@ -10950,6 +10950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sine Wave City | 129393 | [129393-sine-wave-city.json](./129393-sine-wave-city.json) |
 | Sinemareul Butakae | 215846 | [215846-sinemareul-butakae.json](./215846-sinemareul-butakae.json) |
 | Sinergy | 268964 | [268964-sinergy.json](./268964-sinergy.json) |
+| Sinesperia | 317471 | [317471-sinesperia.json](./317471-sinesperia.json) |
 | Sineus Arena Survivors | 384856 | [384856-sineus-arena-survivors.json](./384856-sineus-arena-survivors.json) |
 | Sinew | 369587 | [369587-sinew.json](./369587-sinew.json) |
 | Sinewave | 115172 | [115172-sinewave.json](./115172-sinewave.json) |
@@ -12263,6 +12264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Sports Football Quiz | 70026 | [70026-sky-sports-football-quiz.json](./70026-sky-sports-football-quiz.json) |
 | Sky Sports Football Quiz: Season 02 | 60303 | [60303-sky-sports-football-quiz-season-02.json](./60303-sky-sports-football-quiz-season-02.json) |
 | Sky Squadron | 139477 | [139477-sky-squadron.json](./139477-sky-squadron.json) |
+| Sky Streaker | 317137 | [317137-sky-streaker.json](./317137-sky-streaker.json) |
 | Sky Strikers VR | 240645 | [240645-sky-strikers-vr.json](./240645-sky-strikers-vr.json) |
 | Sky Surfing | 233427 | [233427-sky-surfing.json](./233427-sky-surfing.json) |
 | Sky Survivors | 240664 | [240664-sky-survivors.json](./240664-sky-survivors.json) |
@@ -12389,6 +12391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skygrid Courier | 425221 | [425221-skygrid-courier.json](./425221-skygrid-courier.json) |
 | Skyguard | 367385 | [367385-skyguard.json](./367385-skyguard.json) |
 | Skyguard 0: Air Arcade | 259097 | [259097-skyguard-0-air-arcade.json](./259097-skyguard-0-air-arcade.json) |
+| SkyGunner | 317458 | [317458-skygunner.json](./317458-skygunner.json) |
 | SkyGunner | 43615 | [43615-skygunner.json](./43615-skygunner.json) |
 | Skyhammer | 40807 | [40807-skyhammer.json](./40807-skyhammer.json) |
 | Skyhigh Chronos Endless | 408564 | [408564-skyhigh-chronos-endless.json](./408564-skyhigh-chronos-endless.json) |
@@ -16568,6 +16571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic & Knuckles | 239072 | [239072-sonic-and-knuckles.json](./239072-sonic-and-knuckles.json) |
 | Sonic & Knuckles | 9475 | [9475-sonic-and-knuckles.json](./9475-sonic-and-knuckles.json) |
 | Sonic & Knuckles Collection | 50924 | [50924-sonic-and-knuckles-collection.json](./50924-sonic-and-knuckles-collection.json) |
+| Sonic & Knuckles: Key Hunters | 317130 | [317130-sonic-and-knuckles-key-hunters.json](./317130-sonic-and-knuckles-key-hunters.json) |
 | Sonic & Knuckles: Newtrogic Panic | 326151 | [326151-sonic-and-knuckles-newtrogic-panic.json](./326151-sonic-and-knuckles-newtrogic-panic.json) |
 | Sonic & Sega All-Stars Racing | 197615 | [197615-sonic-and-sega-all-stars-racing.json](./197615-sonic-and-sega-all-stars-racing.json) |
 | Sonic & Sega All-Stars Racing | 200966 | [200966-sonic-and-sega-all-stars-racing.json](./200966-sonic-and-sega-all-stars-racing.json) |
@@ -16660,6 +16664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Adventure 3 | 324955 | [324955-sonic-adventure-3.json](./324955-sonic-adventure-3.json) |
 | Sonic Adventure 7 | 275488 | [275488-sonic-adventure-7.json](./275488-sonic-adventure-7.json) |
 | Sonic Adventure Advanced | 370068 | [370068-sonic-adventure-advanced.json](./370068-sonic-adventure-advanced.json) |
+| Sonic Adventure Blast | 317128 | [317128-sonic-adventure-blast.json](./317128-sonic-adventure-blast.json) |
 | Sonic Adventure DS | 336362 | [336362-sonic-adventure-ds.json](./336362-sonic-adventure-ds.json) |
 | Sonic Adventure DX: Director's Cut | 23695 | [23695-sonic-adventure-dx-directors-cut.json](./23695-sonic-adventure-dx-directors-cut.json) |
 | Sonic Adventure Emerald | 330304 | [330304-sonic-adventure-emerald.json](./330304-sonic-adventure-emerald.json) |
@@ -16717,6 +16722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Battle 2 | 326806 | [326806-sonic-battle-2.json](./326806-sonic-battle-2.json) |
 | Sonic Battle 4: The Call to Chaos | 330280 | [330280-sonic-battle-4-the-call-to-chaos.json](./330280-sonic-battle-4-the-call-to-chaos.json) |
 | Sonic Battle Cards | 338941 | [338941-sonic-battle-cards.json](./338941-sonic-battle-cards.json) |
+| Sonic Battle for Station Square | 317127 | [317127-sonic-battle-for-station-square.json](./317127-sonic-battle-for-station-square.json) |
 | Sonic Battle Force | 332649 | [332649-sonic-battle-force.json](./332649-sonic-battle-force.json) |
 | Sonic Battle R | 169233 | [169233-sonic-battle-r.json](./169233-sonic-battle-r.json) |
 | Sonic Battle Rush | 266507 | [266507-sonic-battle-rush.json](./266507-sonic-battle-rush.json) |
@@ -16970,6 +16976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Legends | 301520 | [301520-sonic-legends.json](./301520-sonic-legends.json) |
 | Sonic Legends | 332594 | [332594-sonic-legends.json](./332594-sonic-legends.json) |
 | Sonic Legends: True Sunset Shore | 333423 | [333423-sonic-legends-true-sunset-shore.json](./333423-sonic-legends-true-sunset-shore.json) |
+| Sonic Limitless | 317133 | [317133-sonic-limitless.json](./317133-sonic-limitless.json) |
 | Sonic Liola: Begins | 330704 | [330704-sonic-liola-begins.json](./330704-sonic-liola-begins.json) |
 | Sonic Logic | 237488 | [237488-sonic-logic.json](./237488-sonic-logic.json) |
 | Sonic Lost Adventure | 330302 | [330302-sonic-lost-adventure.json](./330302-sonic-lost-adventure.json) |
@@ -16994,6 +17001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Mania Randomizer | 386230 | [386230-sonic-mania-randomizer.json](./386230-sonic-mania-randomizer.json) |
 | Sonic Mania: Boss Rush+ | 333678 | [333678-sonic-mania-boss-rush.json](./333678-sonic-mania-boss-rush.json) |
 | Sonic Mania: Collector's Edition | 25684 | [25684-sonic-mania-collectors-edition.json](./25684-sonic-mania-collectors-edition.json) |
+| Sonic Mania: Colorful Encore | 317132 | [317132-sonic-mania-colorful-encore.json](./317132-sonic-mania-colorful-encore.json) |
 | Sonic Mania: Encore | 164855 | [164855-sonic-mania-encore.json](./164855-sonic-mania-encore.json) |
 | Sonic Mania: The Misfits Pack | 317201 | [317201-sonic-mania-the-misfits-pack.json](./317201-sonic-mania-the-misfits-pack.json) |
 | Sonic Mars | 229527 | [229527-sonic-mars.json](./229527-sonic-mars.json) |
@@ -17006,6 +17014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Mega Collection | 4157 | [4157-sonic-mega-collection.json](./4157-sonic-mega-collection.json) |
 | Sonic Mega Collection Plus Mini | 218656 | [218656-sonic-mega-collection-plus-mini.json](./218656-sonic-mega-collection-plus-mini.json) |
 | Sonic Melee 2: The Forbidden Fate | 330301 | [330301-sonic-melee-2-the-forbidden-fate.json](./330301-sonic-melee-2-the-forbidden-fate.json) |
+| Sonic Metal Adventure | 317126 | [317126-sonic-metal-adventure.json](./317126-sonic-metal-adventure.json) |
 | Sonic Metal Memories | 333799 | [333799-sonic-metal-memories.json](./333799-sonic-metal-memories.json) |
 | Sonic Metallix | 321828 | [321828-sonic-metallix.json](./321828-sonic-metallix.json) |
 | Sonic Meteor | 331718 | [331718-sonic-meteor.json](./331718-sonic-meteor.json) |
@@ -17171,6 +17180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Run 3 | 331983 | [331983-sonic-run-3.json](./331983-sonic-run-3.json) |
 | Sonic Runners | 20023 | [20023-sonic-runners.json](./20023-sonic-runners.json) |
 | Sonic Runners Adventure | 76844 | [76844-sonic-runners-adventure.json](./76844-sonic-runners-adventure.json) |
+| Sonic Runners Reloaded | 317123 | [317123-sonic-runners-reloaded.json](./317123-sonic-runners-reloaded.json) |
 | Sonic Runners Revival | 205607 | [205607-sonic-runners-revival.json](./205607-sonic-runners-revival.json) |
 | Sonic Rush | 19258 | [19258-sonic-rush.json](./19258-sonic-rush.json) |
 | Sonic Rush 3D | 214972 | [214972-sonic-rush-3d.json](./214972-sonic-rush-3d.json) |
@@ -17218,6 +17228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Stars | 331865 | [331865-sonic-stars.json](./331865-sonic-stars.json) |
 | Sonic Stash | 330093 | [330093-sonic-stash.json](./330093-sonic-stash.json) |
 | Sonic Storm | 242911 | [242911-sonic-storm.json](./242911-sonic-storm.json) |
+| Sonic Stranded | 317129 | [317129-sonic-stranded.json](./317129-sonic-stranded.json) |
 | Sonic Streak 2 | 330867 | [330867-sonic-streak-2.json](./330867-sonic-streak-2.json) |
 | Sonic StrikerZ | 316424 | [316424-sonic-strikerz.json](./316424-sonic-strikerz.json) |
 | Sonic Suggests | 136822 | [136822-sonic-suggests.json](./136822-sonic-suggests.json) |
@@ -18965,6 +18976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -23031,6 +23043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Standard Legend | 116365 | [116365-standard-legend.json](./116365-standard-legend.json) |
 | Standard Snake | 87156 | [87156-standard-snake.json](./87156-standard-snake.json) |
 | Standball | 367154 | [367154-standball.json](./367154-standball.json) |
+| Standbox | 317134 | [317134-standbox.json](./317134-standbox.json) |
 | Standby | 119364 | [119364-standby.json](./119364-standby.json) |
 | Standby | 248069 | [248069-standby.json](./248069-standby.json) |
 | Standby | 26715 | [26715-standby.json](./26715-standby.json) |
@@ -28333,6 +28346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudama Relation | 252814 | [252814-sudama-relation.json](./252814-sudama-relation.json) |
 | Sudd City Adventures | 134030 | [134030-sudd-city-adventures.json](./134030-sudd-city-adventures.json) |
 | Sudden Attack | 66463 | [66463-sudden-attack.json](./66463-sudden-attack.json) |
+| Sudden Attack 2 | 317135 | [317135-sudden-attack-2.json](./317135-sudden-attack-2.json) |
 | Sudden Attack Zero Point | 366242 | [366242-sudden-attack-zero-point.json](./366242-sudden-attack-zero-point.json) |
 | Sudden Death | 299079 | [299079-sudden-death.json](./299079-sudden-death.json) |
 | Sudden Death Air Hockey | 197633 | [197633-sudden-death-air-hockey.json](./197633-sudden-death-air-hockey.json) |
@@ -31762,6 +31776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Slide 64 | 135179 | [135179-super-slide-64.json](./135179-super-slide-64.json) |
 | Super Slime Adventure | 184367 | [184367-super-slime-adventure.json](./184367-super-slime-adventure.json) |
 | Super Slime Arena | 69486 | [69486-super-slime-arena.json](./69486-super-slime-arena.json) |
+| Super Slime Blitz | 317138 | [317138-super-slime-blitz.json](./317138-super-slime-blitz.json) |
 | Super Slime Blitz: Gumball | 102603 | [102603-super-slime-blitz-gumball.json](./102603-super-slime-blitz-gumball.json) |
 | Super Slime Boy | 335956 | [335956-super-slime-boy.json](./335956-super-slime-boy.json) |
 | Super Slime Fun | 106355 | [106355-super-slime-fun.json](./106355-super-slime-fun.json) |
@@ -33682,6 +33697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SweatShop | 32204 | [32204-sweatshop.json](./32204-sweatshop.json) |
 | Sweatshop HD | 15448 | [15448-sweatshop-hd.json](./15448-sweatshop-hd.json) |
 | Sweaty Palms | 63739 | [63739-sweaty-palms.json](./63739-sweaty-palms.json) |
+| Sweave | 317144 | [317144-sweave.json](./317144-sweave.json) |
 | Swedish Classics GP | 139868 | [139868-swedish-classics-gp.json](./139868-swedish-classics-gp.json) |
 | Swedish Touring Car Championship | 73422 | [73422-swedish-touring-car-championship.json](./73422-swedish-touring-car-championship.json) |
 | Swedish Touring Car Championship 2 | 71774 | [71774-swedish-touring-car-championship-2.json](./71774-swedish-touring-car-championship-2.json) |
