@@ -1648,6 +1648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egoboo | 47298 | [47298-egoboo.json](./47298-egoboo.json) |
 | Egogia | 394794 | [394794-egogia.json](./394794-egogia.json) |
 | Egony | 103824 | [103824-egony.json](./103824-egony.json) |
+| EgoVersus: The First Strike | 309801 | [309801-egoversus-the-first-strike.json](./309801-egoversus-the-first-strike.json) |
 | Egregore | 139230 | [139230-egregore.json](./139230-egregore.json) |
 | Egregore | 310046 | [310046-egregore.json](./310046-egregore.json) |
 | Egress - The Test of STS-417 | 168393 | [168393-egress-the-test-of-sts-417.json](./168393-egress-the-test-of-sts-417.json) |
@@ -7774,6 +7775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exposure | 362267 | [362267-exposure.json](./362267-exposure.json) |
 | Exposure Office Simulator | 309892 | [309892-exposure-office-simulator.json](./309892-exposure-office-simulator.json) |
 | Express 404 | 415326 | [415326-express-404.json](./415326-express-404.json) |
+| Express Car Wash Simulator | 309830 | [309830-express-car-wash-simulator.json](./309830-express-car-wash-simulator.json) |
 | Express Courier Pro: Urban Bike Delivery Simulator 2024! | 300862 | [300862-express-courier-pro-urban-bike-delivery-simulator-2024.json](./300862-express-courier-pro-urban-bike-delivery-simulator-2024.json) |
 | Express Hero | 270045 | [270045-express-hero.json](./270045-express-hero.json) |
 | Express No. 6 | 381091 | [381091-express-no-6.json](./381091-express-no-6.json) |
