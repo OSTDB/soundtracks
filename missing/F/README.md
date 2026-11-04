@@ -3336,6 +3336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faz-Karts | 382962 | [382962-faz-karts.json](./382962-faz-karts.json) |
 | Fazbear Entertainment: Storage | 233963 | [233963-fazbear-entertainment-storage.json](./233963-fazbear-entertainment-storage.json) |
 | Fazbear Fright Attraction | 271054 | [271054-fazbear-fright-attraction.json](./271054-fazbear-fright-attraction.json) |
+| Fazbear in After | 321103 | [321103-fazbear-in-after.json](./321103-fazbear-in-after.json) |
 | Fazbear Nightmare | 35335 | [35335-fazbear-nightmare.json](./35335-fazbear-nightmare.json) |
 | Fazbear Nights | 315372 | [315372-fazbear-nights.json](./315372-fazbear-nights.json) |
 | Fazbear's Shootout | 241837 | [241837-fazbears-shootout.json](./241837-fazbears-shootout.json) |
