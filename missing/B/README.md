@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Skateboarding | 72939 | [72939-backyard-skateboarding.json](./72939-backyard-skateboarding.json) |
 | Backyard Soccer | 44993 | [44993-backyard-soccer.json](./44993-backyard-soccer.json) |
 | Backyard Soccer | 50300 | [50300-backyard-soccer.json](./50300-backyard-soccer.json) |
+| Backyard Soccer '98 | 323620 | [323620-backyard-soccer-98.json](./323620-backyard-soccer-98.json) |
 | Backyard Soccer 2004 | 72711 | [72711-backyard-soccer-2004.json](./72711-backyard-soccer-2004.json) |
 | Backyard Soccer: MLS Edition | 69634 | [69634-backyard-soccer-mls-edition.json](./69634-backyard-soccer-mls-edition.json) |
 | Backyard Sports Football: Rookie Rush | 47408 | [47408-backyard-sports-football-rookie-rush.json](./47408-backyard-sports-football-rookie-rush.json) |
@@ -5581,6 +5582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Become Deity | 359544 | [359544-become-deity.json](./359544-become-deity.json) |
 | Become Dirt | 276746 | [276746-become-dirt.json](./276746-become-dirt.json) |
 | Become Prey 2: Of Everlasting Sin | 181298 | [181298-become-prey-2-of-everlasting-sin.json](./181298-become-prey-2-of-everlasting-sin.json) |
+| Become The Devil | 323484 | [323484-become-the-devil.json](./323484-become-the-devil.json) |
 | Become The Moon | 290104 | [290104-become-the-moon.json](./290104-become-the-moon.json) |
 | Become The Wild | 289207 | [289207-become-the-wild.json](./289207-become-the-wild.json) |
 | Becoming | 163804 | [163804-becoming.json](./163804-becoming.json) |
@@ -11759,6 +11761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bodycam Shooter 2025 | 330807 | [330807-bodycam-shooter-2025.json](./330807-bodycam-shooter-2025.json) |
 | Bodycam Stray Kitty | 349576 | [349576-bodycam-stray-kitty.json](./349576-bodycam-stray-kitty.json) |
 | Bodycam Unrecord Shooter | 323681 | [323681-bodycam-unrecord-shooter.json](./323681-bodycam-unrecord-shooter.json) |
+| Bodycam Zombie Shooter | 323632 | [323632-bodycam-zombie-shooter.json](./323632-bodycam-zombie-shooter.json) |
 | BodyCam Zombie Waves | 343495 | [343495-bodycam-zombie-waves.json](./343495-bodycam-zombie-waves.json) |
 | Bodycamera FPS | 400174 | [400174-bodycamera-fps.json](./400174-bodycamera-fps.json) |
 | Bodycheck | 10666 | [10666-bodycheck.json](./10666-bodycheck.json) |
