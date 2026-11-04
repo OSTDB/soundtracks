@@ -6792,6 +6792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LOLCat Escape | 338932 | [338932-lolcat-escape.json](./338932-lolcat-escape.json) |
 | LoLdle | 327637 | [327637-loldle.json](./327637-loldle.json) |
 | Loli Racing | 292291 | [292291-loli-racing.json](./292291-loli-racing.json) |
+| Lolife | 335015 | [335015-lolife.json](./335015-lolife.json) |
 | Lolita 2 | 66128 | [66128-lolita-2.json](./66128-lolita-2.json) |
 | Lolita Errand 2 | 83331 | [83331-lolita-errand-2.json](./83331-lolita-errand-2.json) |
 | Lolita Expedition | 370885 | [370885-lolita-expedition.json](./370885-lolita-expedition.json) |
