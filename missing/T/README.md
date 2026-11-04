@@ -4269,6 +4269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminator: Resistance Enhanced - Collector's Edition | 146147 | [146147-terminator-resistance-enhanced-collectors-edition.json](./146147-terminator-resistance-enhanced-collectors-edition.json) |
 | Terminators: The Video Game | 62965 | [62965-terminators-the-video-game.json](./62965-terminators-the-video-game.json) |
 | Terminull | 185151 | [185151-terminull.json](./185151-terminull.json) |
+| Terminull Brigade | 325934 | [325934-terminull-brigade.json](./325934-terminull-brigade.json) |
 | Terminus | 171327 | [171327-terminus.json](./171327-terminus.json) |
 | Terminus | 352261 | [352261-terminus.json](./352261-terminus.json) |
 | Terminus Machina | 230287 | [230287-terminus-machina.json](./230287-terminus-machina.json) |
@@ -16639,6 +16640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Subterranean River | 268609 | [268609-the-subterranean-river.json](./268609-the-subterranean-river.json) |
 | The Subterrestrial Hangar | 309199 | [309199-the-subterrestrial-hangar.json](./309199-the-subterrestrial-hangar.json) |
 | The Suburb: Not Just Dinner | 176766 | [176766-the-suburb-not-just-dinner.json](./176766-the-suburb-not-just-dinner.json) |
+| The Succession of Changing Kings | 325807 | [325807-the-succession-of-changing-kings.json](./325807-the-succession-of-changing-kings.json) |
 | The Succubi Trap | 74354 | [74354-the-succubi-trap.json](./74354-the-succubi-trap.json) |
 | The Succubus Trap Island | 398129 | [398129-the-succubus-trap-island.json](./398129-the-succubus-trap-island.json) |
 | The Sudoku Challenge! | 257311 | [257311-the-sudoku-challenge.json](./257311-the-sudoku-challenge.json) |
@@ -20223,6 +20225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tides of Despair | 255013 | [255013-tides-of-despair.json](./255013-tides-of-despair.json) |
 | Tides of Dominion | 256419 | [256419-tides-of-dominion.json](./256419-tides-of-dominion.json) |
 | Tides of Existence | 126504 | [126504-tides-of-existence.json](./126504-tides-of-existence.json) |
+| Tides of Lava | 325974 | [325974-tides-of-lava.json](./325974-tides-of-lava.json) |
 | Tides of Tethys | 307832 | [307832-tides-of-tethys.json](./307832-tides-of-tethys.json) |
 | Tides of the Endless | 345037 | [345037-tides-of-the-endless.json](./345037-tides-of-the-endless.json) |
 | Tides of Time | 215096 | [215096-tides-of-time.json](./215096-tides-of-time.json) |
@@ -23460,6 +23463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toey Weedz Smoke One | 338959 | [338959-toey-weedz-smoke-one.json](./338959-toey-weedz-smoke-one.json) |
 | Toffee Cats | 369681 | [369681-toffee-cats.json](./369681-toffee-cats.json) |
 | Toffee Trouble in Creamville | 232841 | [232841-toffee-trouble-in-creamville.json](./232841-toffee-trouble-in-creamville.json) |
+| Toffifee: Fantasy Forest | 325938 | [325938-toffifee-fantasy-forest.json](./325938-toffifee-fantasy-forest.json) |
 | Tofu Dream | 358734 | [358734-tofu-dream.json](./358734-tofu-dream.json) |
 | Tofu Drifter | 234600 | [234600-tofu-drifter.json](./234600-tofu-drifter.json) |
 | Tofu Escape | 192575 | [192575-tofu-escape.json](./192575-tofu-escape.json) |
