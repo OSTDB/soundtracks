@@ -3992,6 +3992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redacted: Genome | 287196 | [287196-redacted-genome.json](./287196-redacted-genome.json) |
 | Redactem | 27470 | [27470-redactem.json](./27470-redactem.json) |
 | Redaction | 223399 | [223399-redaction.json](./223399-redaction.json) |
+| Redactionary | 336303 | [336303-redactionary.json](./336303-redactionary.json) |
 | Redactle | 197384 | [197384-redactle.json](./197384-redactle.json) |
 | Redaxium | 163664 | [163664-redaxium.json](./163664-redaxium.json) |
 | Redaxium 2 | 207294 | [207294-redaxium-2.json](./207294-redaxium-2.json) |
@@ -9814,6 +9815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue with the Dead | 248144 | [248144-rogue-with-the-dead.json](./248144-rogue-with-the-dead.json) |
 | Rogue Words | 353409 | [353409-rogue-words.json](./353409-rogue-words.json) |
 | Rogue Zillion | 75766 | [75766-rogue-zillion.json](./75766-rogue-zillion.json) |
+| Rogue Zodiacs | 336264 | [336264-rogue-zodiacs.json](./336264-rogue-zodiacs.json) |
 | Rogue-Fp | 242970 | [242970-rogue-fp.json](./242970-rogue-fp.json) |
 | Rogue-Like: Evolution | 282677 | [282677-rogue-like-evolution.json](./282677-rogue-like-evolution.json) |
 | Rogue, Rogue, Baby! | 238694 | [238694-rogue-rogue-baby.json](./238694-rogue-rogue-baby.json) |
@@ -9844,6 +9846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguefall | 392014 | [392014-roguefall.json](./392014-roguefall.json) |
 | RogueFlip | 385679 | [385679-rogueflip.json](./385679-rogueflip.json) |
 | Rogueflite Extraction | 418314 | [418314-rogueflite-extraction.json](./418314-rogueflite-extraction.json) |
+| Rogueformer | 336300 | [336300-rogueformer.json](./336300-rogueformer.json) |
 | Roguefort | 396405 | [396405-roguefort.json](./396405-roguefort.json) |
 | Roguegg: Hardboiled Survivors | 390798 | [390798-roguegg-hardboiled-survivors.json](./390798-roguegg-hardboiled-survivors.json) |
 | RogueJack: Roguelike Blackjack | 133370 | [133370-roguejack-roguelike-blackjack.json](./133370-roguejack-roguelike-blackjack.json) |
