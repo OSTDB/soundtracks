@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacman Club | 289882 | [289882-pacman-club.json](./289882-pacman-club.json) |
 | Pacman Cube | 230500 | [230500-pacman-cube.json](./230500-pacman-cube.json) |
 | Pacman for GEM | 70052 | [70052-pacman-for-gem.json](./70052-pacman-for-gem.json) |
+| PacMan Platform 2 | 338064 | [338064-pacman-platform-2.json](./338064-pacman-platform-2.json) |
 | Pacman Worlds | 321645 | [321645-pacman-worlds.json](./321645-pacman-worlds.json) |
 | Pacman: Google Maps | 364410 | [364410-pacman-google-maps.json](./364410-pacman-google-maps.json) |
 | Pacman2 | 62686 | [62686-pacman2.json](./62686-pacman2.json) |
@@ -15159,6 +15160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Earth: Starmageddon | 71055 | [71055-project-earth-starmageddon.json](./71055-project-earth-starmageddon.json) |
 | Project EBHack | 331360 | [331360-project-ebhack.json](./331360-project-ebhack.json) |
 | Project Eclipse | 403580 | [403580-project-eclipse.json](./403580-project-eclipse.json) |
+| Project Eddie | 338066 | [338066-project-eddie.json](./338066-project-eddie.json) |
 | Project Eden | 109209 | [109209-project-eden.json](./109209-project-eden.json) |
 | Project Eden | 8941 | [8941-project-eden.json](./8941-project-eden.json) |
 | Project Eel | 408231 | [408231-project-eel.json](./408231-project-eel.json) |
@@ -17032,6 +17034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purgatory: Echoes From the Void | 58246 | [58246-purgatory-echoes-from-the-void.json](./58246-purgatory-echoes-from-the-void.json) |
 | Purgatory: Mark's Creepy Story | 235291 | [235291-purgatory-marks-creepy-story.json](./235291-purgatory-marks-creepy-story.json) |
 | Purgatory: War of the Damned | 10729 | [10729-purgatory-war-of-the-damned.json](./10729-purgatory-war-of-the-damned.json) |
+| Purgatory’s Flower | 337929 | [337929-purgatory-s-flower.json](./337929-purgatory-s-flower.json) |
 | Purge Party | 303996 | [303996-purge-party.json](./303996-purge-party.json) |
 | Purge Persist and Profit | 184233 | [184233-purge-persist-and-profit.json](./184233-purge-persist-and-profit.json) |
 | Purge: Three vs Blood | 190975 | [190975-purge-three-vs-blood.json](./190975-purge-three-vs-blood.json) |
