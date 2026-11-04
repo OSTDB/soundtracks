@@ -3708,6 +3708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fellowship | 258627 | [258627-fellowship.json](./258627-fellowship.json) |
 | Fellowship | 330379 | [330379-fellowship.json](./330379-fellowship.json) |
 | Fellowship Manager | 182165 | [182165-fellowship-manager.json](./182165-fellowship-manager.json) |
+| Felltarune: Deal or Not Deal | 326510 | [326510-felltarune-deal-or-not-deal.json](./326510-felltarune-deal-or-not-deal.json) |
 | Fellwood | 399582 | [399582-fellwood.json](./399582-fellwood.json) |
 | Felon-E | 302356 | [302356-felon-e.json](./302356-felon-e.json) |
 | Felonian Special Forces | 255161 | [255161-felonian-special-forces.json](./255161-felonian-special-forces.json) |
@@ -4761,6 +4762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy ++ World of Chaos | 298415 | [298415-final-fantasy-world-of-chaos.json](./298415-final-fantasy-world-of-chaos.json) |
 | Final Fantasy 2.0 | 269470 | [269470-final-fantasy-2-0.json](./269470-final-fantasy-2-0.json) |
 | Final Fantasy 25th Anniversary Ultimate Box | 282727 | [282727-final-fantasy-25th-anniversary-ultimate-box.json](./282727-final-fantasy-25th-anniversary-ultimate-box.json) |
+| Final Fantasy 5: Void Divergence | 325969 | [325969-final-fantasy-5-void-divergence.json](./325969-final-fantasy-5-void-divergence.json) |
 | Final Fantasy 6: A Complete Hack | 353924 | [353924-final-fantasy-6-a-complete-hack.json](./353924-final-fantasy-6-a-complete-hack.json) |
 | Final Fantasy Adventure DX | 306591 | [306591-final-fantasy-adventure-dx.json](./306591-final-fantasy-adventure-dx.json) |
 | Final Fantasy Agito | 7400 | [7400-final-fantasy-agito.json](./7400-final-fantasy-agito.json) |
@@ -11115,6 +11117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Chess: Nuts n Bolts Set | 354205 | [354205-free-chess-nuts-n-bolts-set.json](./354205-free-chess-nuts-n-bolts-set.json) |
 | Free Chess: Primitives Set | 310390 | [310390-free-chess-primitives-set.json](./310390-free-chess-primitives-set.json) |
 | Free Chess: Standard II Set | 354206 | [354206-free-chess-standard-ii-set.json](./354206-free-chess-standard-ii-set.json) |
+| Free City | 326489 | [326489-free-city.json](./326489-free-city.json) |
 | Free Climbing | 14077 | [14077-free-climbing.json](./14077-free-climbing.json) |
 | Free Company VR | 119978 | [119978-free-company-vr.json](./119978-free-company-vr.json) |
 | Free Craps | 246379 | [246379-free-craps.json](./246379-free-craps.json) |
