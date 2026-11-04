@@ -896,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Them Down | 344041 | [344041-take-them-down.json](./344041-take-them-down.json) |
 | Take Thy Throne | 32819 | [32819-take-thy-throne.json](./32819-take-thy-throne.json) |
 | Take town | 163402 | [163402-take-town.json](./163402-take-town.json) |
+| Take Us North | 325216 | [325216-take-us-north.json](./325216-take-us-north.json) |
 | Take You Home | 391991 | [391991-take-you-home.json](./391991-take-you-home.json) |
 | Take Your Altushka | 310106 | [310106-take-your-altushka.json](./310106-take-your-altushka.json) |
 | Take Your Best Shot | 69794 | [69794-take-your-best-shot.json](./69794-take-your-best-shot.json) |
@@ -5407,6 +5408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Jonny Quest | 73650 | [73650-the-adventures-of-jonny-quest.json](./73650-the-adventures-of-jonny-quest.json) |
 | The Adventures of JP and Cosmo: A Friend Indeed... | 58050 | [58050-the-adventures-of-jp-and-cosmo-a-friend-indeed.json](./58050-the-adventures-of-jp-and-cosmo-a-friend-indeed.json) |
 | The Adventures of King Dengotti | 206208 | [206208-the-adventures-of-king-dengotti.json](./206208-the-adventures-of-king-dengotti.json) |
+| The Adventures of Kitty Jones | 325197 | [325197-the-adventures-of-kitty-jones.json](./325197-the-adventures-of-kitty-jones.json) |
 | The Adventures of Kroma | 392993 | [392993-the-adventures-of-kroma.json](./392993-the-adventures-of-kroma.json) |
 | The Adventures of Kusoge | 83529 | [83529-the-adventures-of-kusoge.json](./83529-the-adventures-of-kusoge.json) |
 | The Adventures of Lia and the Celestial Compass | 345978 | [345978-the-adventures-of-lia-and-the-celestial-compass.json](./345978-the-adventures-of-lia-and-the-celestial-compass.json) |
@@ -13013,6 +13015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magic Storm | 143896 | [143896-the-magic-storm.json](./143896-the-magic-storm.json) |
 | The Magic World | 367609 | [367609-the-magic-world.json](./367609-the-magic-world.json) |
 | The Magic World 2: Curse of the Ancients | 289985 | [289985-the-magic-world-2-curse-of-the-ancients.json](./289985-the-magic-world-2-curse-of-the-ancients.json) |
+| The Magical Advenenture of Soggy Hoggy | 325195 | [325195-the-magical-advenenture-of-soggy-hoggy.json](./325195-the-magical-advenenture-of-soggy-hoggy.json) |
 | The Magical Forest | 311317 | [311317-the-magical-forest.json](./311317-the-magical-forest.json) |
 | The Magical Girl Childhood Friend Lives Next Door | 411779 | [411779-the-magical-girl-childhood-friend-lives-next-door.json](./411779-the-magical-girl-childhood-friend-lives-next-door.json) |
 | The Magical Girl Childhood Friend Lives Next Door: After Story | 418410 | [418410-the-magical-girl-childhood-friend-lives-next-door-after-story.json](./418410-the-magical-girl-childhood-friend-lives-next-door-after-story.json) |
@@ -16660,6 +16663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Suits Have Gone Mad! | 215722 | [215722-the-suits-have-gone-mad.json](./215722-the-suits-have-gone-mad.json) |
 | The Suits Have Gone Mad!: The Upper Class | 258835 | [258835-the-suits-have-gone-mad-the-upper-class.json](./258835-the-suits-have-gone-mad-the-upper-class.json) |
 | The Sullen Boku Girls Alliance | 225634 | [225634-the-sullen-boku-girls-alliance.json](./225634-the-sullen-boku-girls-alliance.json) |
+| The Sully Chronicles | 325189 | [325189-the-sully-chronicles.json](./325189-the-sully-chronicles.json) |
 | The Sultan's Labyrinth | 64720 | [64720-the-sultans-labyrinth.json](./64720-the-sultans-labyrinth.json) |
 | The Sum of All Fears | 1863 | [1863-the-sum-of-all-fears.json](./1863-the-sum-of-all-fears.json) |
 | The Sum of All Fears | 248466 | [248466-the-sum-of-all-fears.json](./248466-the-sum-of-all-fears.json) |
