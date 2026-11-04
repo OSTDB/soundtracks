@@ -285,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacrament iv. | 181248 | [181248-sacrament-iv.json](./181248-sacrament-iv.json) |
 | Sacrament of the Zodiac: The Confused Sheep and The Tamed Wolf | 141832 | [141832-sacrament-of-the-zodiac-the-confused-sheep-and-the-tamed-wolf.json](./141832-sacrament-of-the-zodiac-the-confused-sheep-and-the-tamed-wolf.json) |
 | Sacramento | 126448 | [126448-sacramento.json](./126448-sacramento.json) |
+| Sacrarium Gelus | 327076 | [327076-sacrarium-gelus.json](./327076-sacrarium-gelus.json) |
 | Sacrata | 339600 | [339600-sacrata.json](./339600-sacrata.json) |
 | Sacre Bleu | 120613 | [120613-sacre-bleu.json](./120613-sacre-bleu.json) |
 | Sacred | 328 | [328-sacred.json](./328-sacred.json) |
@@ -462,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safecracker | 24002 | [24002-safecracker.json](./24002-safecracker.json) |
 | Safecracker | 326988 | [326988-safecracker.json](./326988-safecracker.json) |
 | Safecracker: The Ultimate Puzzle Adventure | 5135 | [5135-safecracker-the-ultimate-puzzle-adventure.json](./5135-safecracker-the-ultimate-puzzle-adventure.json) |
+| Safecracker: The Ultimate Puzzle Challenge! | 326917 | [326917-safecracker-the-ultimate-puzzle-challenge.json](./326917-safecracker-the-ultimate-puzzle-challenge.json) |
 | Safeguard | 383034 | [383034-safeguard.json](./383034-safeguard.json) |
 | SafeGuard | 195542 | [195542-safeguard.json](./195542-safeguard.json) |
 | Safeguard Saga | 368750 | [368750-safeguard-saga.json](./368750-safeguard-saga.json) |
@@ -5405,6 +5407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentinel | 153840 | [153840-sentinel.json](./153840-sentinel.json) |
 | Sentinel | 231768 | [231768-sentinel.json](./231768-sentinel.json) |
 | Sentinel 4: Dark Star | 34835 | [34835-sentinel-4-dark-star.json](./34835-sentinel-4-dark-star.json) |
+| Sentinel Agency | 326927 | [326927-sentinel-agency.json](./326927-sentinel-agency.json) |
 | Sentinel Attack | 203855 | [203855-sentinel-attack.json](./203855-sentinel-attack.json) |
 | Sentinel Heroes | 23641 | [23641-sentinel-heroes.json](./23641-sentinel-heroes.json) |
 | Sentinel of Innocence | 301827 | [301827-sentinel-of-innocence.json](./301827-sentinel-of-innocence.json) |
@@ -15488,6 +15491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Softporn II | 119281 | [119281-softporn-ii.json](./119281-softporn-ii.json) |
 | Softris | 221360 | [221360-softris.json](./221360-softris.json) |
 | Softstar Games Bundle | 231783 | [231783-softstar-games-bundle.json](./231783-softstar-games-bundle.json) |
+| SoftWar Cyber Fight | 327085 | [327085-softwar-cyber-fight.json](./327085-softwar-cyber-fight.json) |
 | Software CEO | 347464 | [347464-software-ceo.json](./347464-software-ceo.json) |
 | Software Company | 190355 | [190355-software-company.json](./190355-software-company.json) |
 | Software House Simulator | 149728 | [149728-software-house-simulator.json](./149728-software-house-simulator.json) |
@@ -17193,6 +17197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog | 299777 | [299777-sonic-the-hedgehog.json](./299777-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 6231 | [6231-sonic-the-hedgehog.json](./6231-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 80436 | [80436-sonic-the-hedgehog.json](./80436-sonic-the-hedgehog.json) |
+| Sonic the Hedgehog 1 @ Sage 2010 | 326936 | [326936-sonic-the-hedgehog-1-sage-2010.json](./326936-sonic-the-hedgehog-1-sage-2010.json) |
 | Sonic the Hedgehog 1996 | 400967 | [400967-sonic-the-hedgehog-1996.json](./400967-sonic-the-hedgehog-1996.json) |
 | Sonic the Hedgehog 2 | 112884 | [112884-sonic-the-hedgehog-2.json](./112884-sonic-the-hedgehog-2.json) |
 | Sonic the Hedgehog 2 | 112897 | [112897-sonic-the-hedgehog-2.json](./112897-sonic-the-hedgehog-2.json) |
@@ -17618,6 +17623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcerian Additional Scenario Vol. 3: Pyramid Sorcerian | 137360 | [137360-sorcerian-additional-scenario-vol-3-pyramid-sorcerian.json](./137360-sorcerian-additional-scenario-vol-3-pyramid-sorcerian.json) |
 | Sorcerian Online | 230853 | [230853-sorcerian-online.json](./230853-sorcerian-online.json) |
 | Sorcerian Original | 70777 | [70777-sorcerian-original.json](./70777-sorcerian-original.json) |
+| Sorcerian System New Scenario Vol.1: Uchuu kara no Houmonsa (1989) | 326937 | [326937-sorcerian-system-new-scenario-vol-1-uchuu-kara-no-houmonsa-1989.json](./326937-sorcerian-system-new-scenario-vol-1-uchuu-kara-no-houmonsa-1989.json) |
 | Sorcerian Utility Vol. 1 | 137880 | [137880-sorcerian-utility-vol-1.json](./137880-sorcerian-utility-vol-1.json) |
 | SorcerLand | 212267 | [212267-sorcerland.json](./212267-sorcerland.json) |
 | Sorcero | 308035 | [308035-sorcero.json](./308035-sorcero.json) |
@@ -17786,6 +17792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul | 76174 | [76174-soul.json](./76174-soul.json) |
 | Soul & Sword | 42533 | [42533-soul-and-sword.json](./42533-soul-and-sword.json) |
 | Soul #531 | 292497 | [292497-soul-531.json](./292497-soul-531.json) |
+| Soul Ampz | 326911 | [326911-soul-ampz.json](./326911-soul-ampz.json) |
 | Soul Apocalypto | 358927 | [358927-soul-apocalypto.json](./358927-soul-apocalypto.json) |
 | Soul Ark: Brave and Fate | 199948 | [199948-soul-ark-brave-and-fate.json](./199948-soul-ark-brave-and-fate.json) |
 | Soul Armors Recollect | 322711 | [322711-soul-armors-recollect.json](./322711-soul-armors-recollect.json) |
