@@ -1785,6 +1785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Journey | 38391 | [38391-fantastic-journey.json](./38391-fantastic-journey.json) |
 | Fantastic Keyboard Party | 185348 | [185348-fantastic-keyboard-party.json](./185348-fantastic-keyboard-party.json) |
 | Fantastic Kingdom | 120421 | [120421-fantastic-kingdom.json](./120421-fantastic-kingdom.json) |
+| Fantastic Marchen: Cake-ya-san Monogatari | 300215 | [300215-fantastic-marchen-cake-ya-san-monogatari.json](./300215-fantastic-marchen-cake-ya-san-monogatari.json) |
 | Fantastic Marchen: Cake-ya-san Monogatari + Doubutsu Chara Navi Uranai Kosei Shinri Gaku | 49577 | [49577-fantastic-marchen-cake-ya-san-monogatari-doubutsu-chara-navi-uranai-kosei-shinri-gaku.json](./49577-fantastic-marchen-cake-ya-san-monogatari-doubutsu-chara-navi-uranai-kosei-shinri-gaku.json) |
 | Fantastic Pets | 20165 | [20165-fantastic-pets.json](./20165-fantastic-pets.json) |
 | Fantastic Petty | 341153 | [341153-fantastic-petty.json](./341153-fantastic-petty.json) |
@@ -12955,6 +12956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Functional | 154877 | [154877-functional.json](./154877-functional.json) |
 | Functional: Trees | 296599 | [296599-functional-trees.json](./296599-functional-trees.json) |
 | Fundación 3M España: The Recycling Heroes | 377228 | [377228-fundacion-3m-espana-the-recycling-heroes.json](./377228-fundacion-3m-espana-the-recycling-heroes.json) |
+| Fundamental Paper Education | 299666 | [299666-fundamental-paper-education.json](./299666-fundamental-paper-education.json) |
 | Fune Tarou | 42241 | [42241-fune-tarou.json](./42241-fune-tarou.json) |
 | Funeral | 229326 | [229326-funeral.json](./229326-funeral.json) |
 | Funeral for the Sun | 385063 | [385063-funeral-for-the-sun.json](./385063-funeral-for-the-sun.json) |
