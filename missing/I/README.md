@@ -1714,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Manager | 95215 | [95215-idol-manager.json](./95215-idol-manager.json) |
 | Idol Manager: Virtual Venture | 401008 | [401008-idol-manager-virtual-venture.json](./401008-idol-manager-virtual-venture.json) |
 | Idol Masters | 110012 | [110012-idol-masters.json](./110012-idol-masters.json) |
+| Idol Party | 309834 | [309834-idol-party.json](./309834-idol-party.json) |
 | Idol Party II | 372253 | [372253-idol-party-ii.json](./372253-idol-party-ii.json) |
 | Idol Planet | 297013 | [297013-idol-planet.json](./297013-idol-planet.json) |
 | Idol Project | 283713 | [283713-idol-project.json](./283713-idol-project.json) |
@@ -3713,6 +3714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5261,6 +5263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inventory Full | 338833 | [338833-inventory-full.json](./338833-inventory-full.json) |
 | Inventory Hero | 198160 | [198160-inventory-hero.json](./198160-inventory-hero.json) |
 | Inventory Manager | 173974 | [173974-inventory-manager.json](./173974-inventory-manager.json) |
+| Inventory Quest: Hero's Hoard | 309820 | [309820-inventory-quest-heros-hoard.json](./309820-inventory-quest-heros-hoard.json) |
 | Inventris TD | 319009 | [319009-inventris-td.json](./319009-inventris-td.json) |
 | Invercity | 199467 | [199467-invercity.json](./199467-invercity.json) |
 | Inverness Nights | 134676 | [134676-inverness-nights.json](./134676-inverness-nights.json) |
