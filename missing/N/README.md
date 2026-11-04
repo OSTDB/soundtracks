@@ -5731,6 +5731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Sleep for Sole | 267362 | [267362-no-sleep-for-sole.json](./267362-no-sleep-for-sole.json) |
 | No Sleep for the Dead | 257499 | [257499-no-sleep-for-the-dead.json](./257499-no-sleep-for-the-dead.json) |
 | No Son of Mine | 201314 | [201314-no-son-of-mine.json](./201314-no-son-of-mine.json) |
+| No spikes, please! | 309317 | [309317-no-spikes-please.json](./309317-no-spikes-please.json) |
 | No Stars Football | 419059 | [419059-no-stars-football.json](./419059-no-stars-football.json) |
 | No Stars No Problem | 323279 | [323279-no-stars-no-problem.json](./323279-no-stars-no-problem.json) |
 | No Stars, Only Constellations | 176935 | [176935-no-stars-only-constellations.json](./176935-no-stars-only-constellations.json) |
@@ -7032,6 +7033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NPC Simulator | 390595 | [390595-npc-simulator.json](./390595-npc-simulator.json) |
 | NPC Ville: The Story of the Blacksmith | 263031 | [263031-npc-ville-the-story-of-the-blacksmith.json](./263031-npc-ville-the-story-of-the-blacksmith.json) |
 | NPCs | 113054 | [113054-npcs.json](./113054-npcs.json) |
+| Npool | 309292 | [309292-npool.json](./309292-npool.json) |
 | Npool: Complete + | 328826 | [328826-npool-complete.json](./328826-npool-complete.json) |
 | Npool: Deluxe Edition | 328770 | [328770-npool-deluxe-edition.json](./328770-npool-deluxe-edition.json) |
 | Npool: Extended Edition | 328771 | [328771-npool-extended-edition.json](./328771-npool-extended-edition.json) |
@@ -7212,6 +7214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Null | 279802 | [279802-null.json](./279802-null.json) |
 | Null | 401139 | [401139-null.json](./401139-null.json) |
 | Null & Peta -Invasion of the Queen Bug- | 127372 | [127372-null-and-peta-invasion-of-the-queen-bug.json](./127372-null-and-peta-invasion-of-the-queen-bug.json) |
+| Null Bearing Redux | 309273 | [309273-null-bearing-redux.json](./309273-null-bearing-redux.json) |
 | Null Breach | 239151 | [239151-null-breach.json](./239151-null-breach.json) |
 | Null Divide | 94034 | [94034-null-divide.json](./94034-null-divide.json) |
 | Null Drifter | 126989 | [126989-null-drifter.json](./126989-null-drifter.json) |
