@@ -2638,6 +2638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One way to exit | 33284 | [33284-one-way-to-exit.json](./33284-one-way-to-exit.json) |
 | One Way to Exit 2 | 172986 | [172986-one-way-to-exit-2.json](./172986-one-way-to-exit-2.json) |
 | One Way Trip | 23280 | [23280-one-way-trip.json](./23280-one-way-trip.json) |
+| One Way Trip | 315730 | [315730-one-way-trip.json](./315730-one-way-trip.json) |
 | One Way: The Elevator | 149458 | [149458-one-way-the-elevator.json](./149458-one-way-the-elevator.json) |
 | One Wee Robot | 392277 | [392277-one-wee-robot.json](./392277-one-wee-robot.json) |
 | One Week at Flumpty's | 259404 | [259404-one-week-at-flumptys.json](./259404-one-week-at-flumptys.json) |
