@@ -2378,6 +2378,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zui's Witch Academy | 338311 | [338311-zuis-witch-academy.json](./338311-zuis-witch-academy.json) |
 | Zuìhòu de Xiūxiānzhě | 375416 | [375416-zuihou-de-xiuxianzhe.json](./375416-zuihou-de-xiuxianzhe.json) |
 | Zuìzhōng Huànxiǎng | 340183 | [340183-zuizhong-huanxiang.json](./340183-zuizhong-huanxiang.json) |
+| Zuìzhōng Huànxiǎng: Guāngmíng Piān | 340165 | [340165-zuizhong-huanxiang-guangming-pian.json](./340165-zuizhong-huanxiang-guangming-pian.json) |
+| Zuìzhōng Huànxiǎng: Hēi'àn Piān | 340164 | [340164-zuizhong-huanxiang-heian-pian.json](./340164-zuizhong-huanxiang-heian-pian.json) |
+| Zuìzhōng Huànxiǎng: Zhōngjié Piān | 340166 | [340166-zuizhong-huanxiang-zhongjie-pian.json](./340166-zuizhong-huanxiang-zhongjie-pian.json) |
 | Zukarii | 397749 | [397749-zukarii.json](./397749-zukarii.json) |
 | Zukkoke Threesome: Drama Murder Case | 289762 | [289762-zukkoke-threesome-drama-murder-case.json](./289762-zukkoke-threesome-drama-murder-case.json) |
 | ZukuRace | 308920 | [308920-zukurace.json](./308920-zukurace.json) |
