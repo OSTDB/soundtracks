@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back in 1995 | 19883 | [19883-back-in-1995.json](./19883-back-in-1995.json) |
 | Back In 1995 64 | 85503 | [85503-back-in-1995-64.json](./85503-back-in-1995-64.json) |
 | Back in Business | 272108 | [272108-back-in-business.json](./272108-back-in-business.json) |
+| Back in Service: A Metro Driver | 329452 | [329452-back-in-service-a-metro-driver.json](./329452-back-in-service-a-metro-driver.json) |
 | Back in Time | 367896 | [367896-back-in-time.json](./367896-back-in-time.json) |
 | Back in Time | 57995 | [57995-back-in-time.json](./57995-back-in-time.json) |
 | Back in Time Part II: Back to the Nineties | 57996 | [57996-back-in-time-part-ii-back-to-the-nineties.json](./57996-back-in-time-part-ii-back-to-the-nineties.json) |
@@ -568,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Interception | 378603 | [378603-backrooms-interception.json](./378603-backrooms-interception.json) |
 | Backrooms Invasion | 298365 | [298365-backrooms-invasion.json](./298365-backrooms-invasion.json) |
 | Backrooms Journey: Into the unknown | 329167 | [329167-backrooms-journey-into-the-unknown.json](./329167-backrooms-journey-into-the-unknown.json) |
+| Backrooms Level X | 329317 | [329317-backrooms-level-x.json](./329317-backrooms-level-x.json) |
 | Backrooms Levels | 407821 | [407821-backrooms-levels.json](./407821-backrooms-levels.json) |
 | Backrooms Liminal Escape | 343301 | [343301-backrooms-liminal-escape.json](./343301-backrooms-liminal-escape.json) |
 | Backrooms Lost Dimension | 389353 | [389353-backrooms-lost-dimension.json](./389353-backrooms-lost-dimension.json) |
@@ -1076,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bahamut and the Waqwaq Tree | 264652 | [264652-bahamut-and-the-waqwaq-tree.json](./264652-bahamut-and-the-waqwaq-tree.json) |
 | Bahamut Disco | 295932 | [295932-bahamut-disco.json](./295932-bahamut-disco.json) |
 | Bahamut Lagoon | 15843 | [15843-bahamut-lagoon.json](./15843-bahamut-lagoon.json) |
+| Bahamut: Remake | 329332 | [329332-bahamut-remake.json](./329332-bahamut-remake.json) |
 | Bahamut2-Come on, Fight | 261847 | [261847-bahamut2-come-on-fight.json](./261847-bahamut2-come-on-fight.json) |
 | Bahari | 201306 | [201306-bahari.json](./201306-bahari.json) |
 | Bahnfrei | 398409 | [398409-bahnfrei.json](./398409-bahnfrei.json) |
