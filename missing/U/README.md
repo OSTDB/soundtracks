@@ -640,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Pirates | 176809 | [176809-ultimate-pirates.json](./176809-ultimate-pirates.json) |
 | Ultimate Play The Game: The Collected Works | 298434 | [298434-ultimate-play-the-game-the-collected-works.json](./298434-ultimate-play-the-game-the-collected-works.json) |
 | Ultimate Poker | 370424 | [370424-ultimate-poker.json](./370424-ultimate-poker.json) |
+| Ultimate Pong | 311971 | [311971-ultimate-pong.json](./311971-ultimate-pong.json) |
 | Ultimate Pro Basketball GM | 228122 | [228122-ultimate-pro-basketball-gm.json](./228122-ultimate-pro-basketball-gm.json) |
 | Ultimate Pro Football Coach | 352146 | [352146-ultimate-pro-football-coach.json](./352146-ultimate-pro-football-coach.json) |
 | Ultimate Protector | 215679 | [215679-ultimate-protector.json](./215679-ultimate-protector.json) |
