@@ -3562,6 +3562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infidhells | 158970 | [158970-infidhells.json](./158970-infidhells.json) |
 | Infierno Rubí | 294232 | [294232-infierno-rubi.json](./294232-infierno-rubi.json) |
 | Infiltrate | 22413 | [22413-infiltrate.json](./22413-infiltrate.json) |
+| Infiltrate & Extract | 312781 | [312781-infiltrate-and-extract.json](./312781-infiltrate-and-extract.json) |
 | Infiltrating Roudille | 403065 | [403065-infiltrating-roudille.json](./403065-infiltrating-roudille.json) |
 | Infiltrating Sam's Club | 278442 | [278442-infiltrating-sams-club.json](./278442-infiltrating-sams-club.json) |
 | Infiltration | 38766 | [38766-infiltration.json](./38766-infiltration.json) |
