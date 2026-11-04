@@ -3963,6 +3963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Maze | 184295 | [184295-just-maze.json](./184295-just-maze.json) |
 | Just Me and my Mom | 209851 | [209851-just-me-and-my-mom.json](./209851-just-me-and-my-mom.json) |
 | Just Me and Only Me Against the World | 176437 | [176437-just-me-and-only-me-against-the-world.json](./176437-just-me-and-only-me-against-the-world.json) |
+| Just Monika: A Doki Doki Literature Club Song | 336269 | [336269-just-monika-a-doki-doki-literature-club-song.json](./336269-just-monika-a-doki-doki-literature-club-song.json) |
 | Just Move Fall Dungeon Endless Abyss | 360661 | [360661-just-move-fall-dungeon-endless-abyss.json](./360661-just-move-fall-dungeon-endless-abyss.json) |
 | Just Move On! | 329005 | [329005-just-move-on.json](./329005-just-move-on.json) |
 | Just Move: Clean City Messy Battle | 366961 | [366961-just-move-clean-city-messy-battle.json](./366961-just-move-clean-city-messy-battle.json) |
