@@ -2141,6 +2141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Bit | 48007 | [48007-one-bit.json](./48007-one-bit.json) |
 | One Bit Arena | 86762 | [86762-one-bit-arena.json](./86762-one-bit-arena.json) |
 | One Boss One Fight | 323646 | [323646-one-boss-one-fight.json](./323646-one-boss-one-fight.json) |
+| One Box One Goal | 302879 | [302879-one-box-one-goal.json](./302879-one-box-one-goal.json) |
 | One Box, Blue Box | 364278 | [364278-one-box-blue-box.json](./364278-one-box-blue-box.json) |
 | One Bullet - Flip the gun | 103553 | [103553-one-bullet-flip-the-gun.json](./103553-one-bullet-flip-the-gun.json) |
 | One Bullet left | 28888 | [28888-one-bullet-left.json](./28888-one-bullet-left.json) |
