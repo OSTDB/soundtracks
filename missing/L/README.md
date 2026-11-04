@@ -8795,6 +8795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LSDriver 1+2: Remastered Collection | 174542 | [174542-lsdriver-1-2-remastered-collection.json](./174542-lsdriver-1-2-remastered-collection.json) |
 | LSI Puzzle: Last One | 385752 | [385752-lsi-puzzle-last-one.json](./385752-lsi-puzzle-last-one.json) |
 | LSI Table Stadium Baseball | 198639 | [198639-lsi-table-stadium-baseball.json](./198639-lsi-table-stadium-baseball.json) |
+| Lt. Ahmed | 345209 | [345209-lt-ahmed.json](./345209-lt-ahmed.json) |
 | Lt. Typhon | 144161 | [144161-lt-typhon.json](./144161-lt-typhon.json) |
 | LTA: Light-years! Thrusters! Action! | 295166 | [295166-lta-light-years-thrusters-action.json](./295166-lta-light-years-thrusters-action.json) |
 | Lu Bu Maker | 104902 | [104902-lu-bu-maker.json](./104902-lu-bu-maker.json) |
