@@ -6069,6 +6069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Class Solitaire | 366426 | [366426-first-class-solitaire.json](./366426-first-class-solitaire.json) |
 | First Class Solitaire HD | 354973 | [354973-first-class-solitaire-hd.json](./354973-first-class-solitaire-hd.json) |
 | First Comes Love | 313885 | [313885-first-comes-love.json](./313885-first-comes-love.json) |
+| First Contact | 308727 | [308727-first-contact.json](./308727-first-contact.json) |
 | First Contact | 55986 | [55986-first-contact.json](./55986-first-contact.json) |
 | First Contact Protocol | 355500 | [355500-first-contact-protocol.json](./355500-first-contact-protocol.json) |
 | First Crusader | 274044 | [274044-first-crusader.json](./274044-first-crusader.json) |
