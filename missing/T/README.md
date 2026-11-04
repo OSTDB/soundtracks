@@ -2156,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Kibukawa Ryousuke Jiken-tan Kamen Genei Satsujin Jiken Introduction | 298797 | [298797-tantei-kibukawa-ryousuke-jiken-tan-kamen-genei-satsujin-jiken-introduction.json](./298797-tantei-kibukawa-ryousuke-jiken-tan-kamen-genei-satsujin-jiken-introduction.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan Vol. 7: Otonari Keiji no Sousa Memo | 297585 | [297585-tantei-kibukawa-ryousuke-jiken-tan-vol-7-otonari-keiji-no-sousa-memo.json](./297585-tantei-kibukawa-ryousuke-jiken-tan-vol-7-otonari-keiji-no-sousa-memo.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Eigou-kai Jiken | 299763 | [299763-tantei-kibukawa-ryousuke-jiken-tan-eigou-kai-jiken.json](./299763-tantei-kibukawa-ryousuke-jiken-tan-eigou-kai-jiken.json) |
+| Tantei Kibukawa Ryousuke Jiken-tan: Samidare ha Nibiiro no Shirabe | 299362 | [299362-tantei-kibukawa-ryousuke-jiken-tan-samidare-ha-nibiiro-no-shirabe.json](./299362-tantei-kibukawa-ryousuke-jiken-tan-samidare-ha-nibiiro-no-shirabe.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 1 - Kamen Gensou Satsujin Jiken | 293239 | [293239-tantei-kibukawa-ryousuke-jiken-tan-vol-1-kamen-gensou-satsujin-jiken.json](./293239-tantei-kibukawa-ryousuke-jiken-tan-vol-1-kamen-gensou-satsujin-jiken.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 3 - Shisha no Rakuen | 293903 | [293903-tantei-kibukawa-ryousuke-jiken-tan-vol-3-shisha-no-rakuen.json](./293903-tantei-kibukawa-ryousuke-jiken-tan-vol-3-shisha-no-rakuen.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 4 - Shirasagi ni Aka no Hane | 296110 | [296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json](./296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json) |
@@ -8113,6 +8114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devil's in the Details | 423982 | [423982-the-devils-in-the-details.json](./423982-the-devils-in-the-details.json) |
 | The Devil's Men | 7613 | [7613-the-devils-men.json](./7613-the-devils-men.json) |
 | The Devil's Route | 288698 | [288698-the-devils-route.json](./288698-the-devils-route.json) |
+| The Devil's Soul Inside Me | 299078 | [299078-the-devils-soul-inside-me.json](./299078-the-devils-soul-inside-me.json) |
 | The Devil's Teeth | 234806 | [234806-the-devils-teeth.json](./234806-the-devils-teeth.json) |
 | The Devil's Womb | 122006 | [122006-the-devils-womb.json](./122006-the-devils-womb.json) |
 | The Devilry Reservation | 239673 | [239673-the-devilry-reservation.json](./239673-the-devilry-reservation.json) |
@@ -32401,6 +32403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tycoon Legends | 245855 | [245855-tycoon-legends.json](./245855-tycoon-legends.json) |
 | Tycoon of the HighSeas | 181124 | [181124-tycoon-of-the-highseas.json](./181124-tycoon-of-the-highseas.json) |
 | Tycoon Tex | 133669 | [133669-tycoon-tex.json](./133669-tycoon-tex.json) |
+| Tycoon's Choice: My Secretary | 299343 | [299343-tycoons-choice-my-secretary.json](./299343-tycoons-choice-my-secretary.json) |
 | Tyd wag vir Niemand | 52012 | [52012-tyd-wag-vir-niemand.json](./52012-tyd-wag-vir-niemand.json) |
 | Tyde Pod Challenge | 86277 | [86277-tyde-pod-challenge.json](./86277-tyde-pod-challenge.json) |
 | Tyfortress: Tactical Typing | 161154 | [161154-tyfortress-tactical-typing.json](./161154-tyfortress-tactical-typing.json) |
