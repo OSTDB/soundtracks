@@ -5718,7 +5718,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -10859,6 +10858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Special | 319815 | [319815-midnight-special.json](./319815-midnight-special.json) |
 | Midnight Spooks 2: The Photo | 95930 | [95930-midnight-spooks-2-the-photo.json](./95930-midnight-spooks-2-the-photo.json) |
 | Midnight Spooks: The Thing in the Basement | 311482 | [311482-midnight-spooks-the-thing-in-the-basement.json](./311482-midnight-spooks-the-thing-in-the-basement.json) |
+| Midnight Squadron | 315980 | [315980-midnight-squadron.json](./315980-midnight-squadron.json) |
 | Midnight Star | 61713 | [61713-midnight-star.json](./61713-midnight-star.json) |
 | Midnight Star: Renegade | 58159 | [58159-midnight-star-renegade.json](./58159-midnight-star-renegade.json) |
 | Midnight Stories 2 | 158067 | [158067-midnight-stories-2.json](./158067-midnight-stories-2.json) |
@@ -13256,6 +13256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missile Command | 239512 | [239512-missile-command.json](./239512-missile-command.json) |
 | Missile Command | 245436 | [245436-missile-command.json](./245436-missile-command.json) |
 | Missile Command | 280782 | [280782-missile-command.json](./280782-missile-command.json) |
+| Missile Command | 315989 | [315989-missile-command.json](./315989-missile-command.json) |
 | Missile Command | 69142 | [69142-missile-command.json](./69142-missile-command.json) |
 | Missile Command 3D | 40810 | [40810-missile-command-3d.json](./40810-missile-command-3d.json) |
 | Missile Command: Delta | 335829 | [335829-missile-command-delta.json](./335829-missile-command-delta.json) |
@@ -13293,6 +13294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing | 321584 | [321584-missing.json](./321584-missing.json) |
 | Missing | 357730 | [357730-missing.json](./357730-missing.json) |
 | Missing | 374163 | [374163-missing.json](./374163-missing.json) |
+| Missing Banban | 315973 | [315973-missing-banban.json](./315973-missing-banban.json) |
 | Missing Blue | 125405 | [125405-missing-blue.json](./125405-missing-blue.json) |
 | Missing Cat | 208377 | [208377-missing-cat.json](./208377-missing-cat.json) |
 | Missing Children | 137590 | [137590-missing-children.json](./137590-missing-children.json) |
@@ -19529,6 +19531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dad Left Me | 211054 | [211054-my-dad-left-me.json](./211054-my-dad-left-me.json) |
 | My Daddy, My Christmas | 266140 | [266140-my-daddy-my-christmas.json](./266140-my-daddy-my-christmas.json) |
 | My Daily Pets | 270976 | [270976-my-daily-pets.json](./270976-my-daily-pets.json) |
+| My Dancin' Computer | 316002 | [316002-my-dancin-computer.json](./316002-my-dancin-computer.json) |
 | My Dangerous Life | 156700 | [156700-my-dangerous-life.json](./156700-my-dangerous-life.json) |
 | My Dark Eden | 325372 | [325372-my-dark-eden.json](./325372-my-dark-eden.json) |
 | My Darkest Moment | 188312 | [188312-my-darkest-moment.json](./188312-my-darkest-moment.json) |
