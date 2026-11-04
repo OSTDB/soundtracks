@@ -8758,6 +8758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gremlin Collection 2 | 337912 | [337912-gremlin-collection-2.json](./337912-gremlin-collection-2.json) |
 | Gremlin Invasion: Survivor | 35724 | [35724-gremlin-invasion-survivor.json](./35724-gremlin-invasion-survivor.json) |
 | Gremlins | 25673 | [25673-gremlins.json](./25673-gremlins.json) |
+| Gremlins | 314530 | [314530-gremlins.json](./314530-gremlins.json) |
 | Gremlins 2: The New Batch | 119197 | [119197-gremlins-2-the-new-batch.json](./119197-gremlins-2-the-new-batch.json) |
 | Gremlins 2: The New Batch | 12605 | [12605-gremlins-2-the-new-batch.json](./12605-gremlins-2-the-new-batch.json) |
 | Gremlins 2: The New Batch | 264994 | [264994-gremlins-2-the-new-batch.json](./264994-gremlins-2-the-new-batch.json) |
@@ -10178,6 +10179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Party | 66982 | [66982-guilty-party.json](./66982-guilty-party.json) |
 | Guilty Pleasures | 377913 | [377913-guilty-pleasures.json](./377913-guilty-pleasures.json) |
 | Guilty Summer Kiss 2: Bloody Secret | 102948 | [102948-guilty-summer-kiss-2-bloody-secret.json](./102948-guilty-summer-kiss-2-bloody-secret.json) |
+| Guilty: Takiko's Nightmare | 314549 | [314549-guilty-takikos-nightmare.json](./314549-guilty-takikos-nightmare.json) |
 | Guimo | 78942 | [78942-guimo.json](./78942-guimo.json) |
 | Guinea Isles | 382304 | [382304-guinea-isles.json](./382304-guinea-isles.json) |
 | Guinea Pig | 285427 | [285427-guinea-pig.json](./285427-guinea-pig.json) |
