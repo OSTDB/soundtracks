@@ -3371,6 +3371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Bank | 26438 | [26438-west-bank.json](./26438-west-bank.json) |
 | West Country Mayhem | 248223 | [248223-west-country-mayhem.json](./248223-west-country-mayhem.json) |
 | West Escape | 332361 | [332361-west-escape.json](./332361-west-escape.json) |
+| West Escape: Complete Edition | 335013 | [335013-west-escape-complete-edition.json](./335013-west-escape-complete-edition.json) |
 | West Escape: Gambler Edition | 357019 | [357019-west-escape-gambler-edition.json](./357019-west-escape-gambler-edition.json) |
 | West Escape: Gold Edition | 394757 | [394757-west-escape-gold-edition.json](./394757-west-escape-gold-edition.json) |
 | West Falls | 131562 | [131562-west-falls.json](./131562-west-falls.json) |
