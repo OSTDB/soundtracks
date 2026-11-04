@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1% Survival Escape | 210836 | [210836-1-survival-escape.json](./210836-1-survival-escape.json) |
 | 1+1=？ | 333480 | [333480-1-1.json](./333480-1-1.json) |
 | 10 | 294440 | [294440-10.json](./294440-10.json) |
+| 10 | 305721 | [305721-10.json](./305721-10.json) |
 | 10 Advices | 296183 | [296183-10-advices.json](./296183-10-advices.json) |
 | 10 am Break | 259431 | [259431-10-am-break.json](./259431-10-am-break.json) |
 | 10 AM Funkin' | 202586 | [202586-10-am-funkin.json](./202586-10-am-funkin.json) |
@@ -3134,6 +3135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7th Dragon 2020 | 11823 | [11823-7th-dragon-2020.json](./11823-7th-dragon-2020.json) |
 | 7th Dragon 2020-II | 11826 | [11826-7th-dragon-2020-ii.json](./11826-7th-dragon-2020-ii.json) |
 | 7th Dragon III Code: VFD | 11828 | [11828-7th-dragon-iii-code-vfd.json](./11828-7th-dragon-iii-code-vfd.json) |
+| 7th Floor | 305696 | [305696-7th-floor.json](./305696-7th-floor.json) |
 | 7th Sea: A Pirate's Pact | 113865 | [113865-7th-sea-a-pirates-pact.json](./113865-7th-sea-a-pirates-pact.json) |
 | 7th Sector: Museum | 172115 | [172115-7th-sector-museum.json](./172115-7th-sector-museum.json) |
 | 7th Serpent: Crossfire | 214930 | [214930-7th-serpent-crossfire.json](./214930-7th-serpent-crossfire.json) |
