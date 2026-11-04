@@ -2803,6 +2803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TCG Card Market Simulator | 323641 | [323641-tcg-card-market-simulator.json](./323641-tcg-card-market-simulator.json) |
 | TCG Card Shop Empire | 323680 | [323680-tcg-card-shop-empire.json](./323680-tcg-card-shop-empire.json) |
 | TCG Card Shop Manager | 328084 | [328084-tcg-card-shop-manager.json](./328084-tcg-card-shop-manager.json) |
+| TCG Card Shop Master | 322506 | [322506-tcg-card-shop-master.json](./322506-tcg-card-shop-master.json) |
 | TCG Card Shop Simulator | 309862 | [309862-tcg-card-shop-simulator.json](./309862-tcg-card-shop-simulator.json) |
 | TCG Empire: Card Shop Simulator | 322508 | [322508-tcg-empire-card-shop-simulator.json](./322508-tcg-empire-card-shop-simulator.json) |
 | TCG Master Trader | 368362 | [368362-tcg-master-trader.json](./368362-tcg-master-trader.json) |
@@ -7276,6 +7277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Consumist Journey | 270099 | [270099-the-consumist-journey.json](./270099-the-consumist-journey.json) |
 | The Contact | 288981 | [288981-the-contact.json](./288981-the-contact.json) |
 | The Contact | 34717 | [34717-the-contact.json](./34717-the-contact.json) |
+| The Containment Centre | 322491 | [322491-the-containment-centre.json](./322491-the-containment-centre.json) |
 | The Contender: Fight of the Century | 108519 | [108519-the-contender-fight-of-the-century.json](./108519-the-contender-fight-of-the-century.json) |
 | The Continuum | 258520 | [258520-the-continuum.json](./258520-the-continuum.json) |
 | The Contract | 177530 | [177530-the-contract.json](./177530-the-contract.json) |
@@ -10323,6 +10325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hidden Object Show | 53744 | [53744-the-hidden-object-show.json](./53744-the-hidden-object-show.json) |
 | The Hidden Object Show Seasons 1 & 2 | 207010 | [207010-the-hidden-object-show-seasons-1-and-2.json](./207010-the-hidden-object-show-seasons-1-and-2.json) |
 | The Hidden Object Show: Season 2 | 207009 | [207009-the-hidden-object-show-season-2.json](./207009-the-hidden-object-show-season-2.json) |
+| The Hidden Ones | 322459 | [322459-the-hidden-ones.json](./322459-the-hidden-ones.json) |
 | The Hidden Prophecies of Nostradamus | 210208 | [210208-the-hidden-prophecies-of-nostradamus.json](./210208-the-hidden-prophecies-of-nostradamus.json) |
 | The Hidden Room | 176678 | [176678-the-hidden-room.json](./176678-the-hidden-room.json) |
 | The Hidden Room: Pyramid | 244383 | [244383-the-hidden-room-pyramid.json](./244383-the-hidden-room-pyramid.json) |
@@ -10397,6 +10400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Holy Silence | 169746 | [169746-the-holy-silence.json](./169746-the-holy-silence.json) |
 | The Holyburn Witches | 273783 | [273783-the-holyburn-witches.json](./273783-the-holyburn-witches.json) |
 | The Home County | 359924 | [359924-the-home-county.json](./359924-the-home-county.json) |
+| The Home Into The Woods | 322462 | [322462-the-home-into-the-woods.json](./322462-the-home-into-the-woods.json) |
 | The Homecoming Exhibition | 393019 | [393019-the-homecoming-exhibition.json](./393019-the-homecoming-exhibition.json) |
 | The Homestead | 119567 | [119567-the-homestead.json](./119567-the-homestead.json) |
 | The Homestead Invasion | 81667 | [81667-the-homestead-invasion.json](./81667-the-homestead-invasion.json) |
@@ -18242,6 +18246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wheel | 280054 | [280054-the-wheel.json](./280054-the-wheel.json) |
 | The Wheel of Fortune | 182396 | [182396-the-wheel-of-fortune.json](./182396-the-wheel-of-fortune.json) |
 | The Wheelchair Man | 405965 | [405965-the-wheelchair-man.json](./405965-the-wheelchair-man.json) |
+| The Wheels of Lull | 322469 | [322469-the-wheels-of-lull.json](./322469-the-wheels-of-lull.json) |
 | The Whims of the Gods | 300785 | [300785-the-whims-of-the-gods.json](./300785-the-whims-of-the-gods.json) |
 | The Whisker Watch | 368049 | [368049-the-whisker-watch.json](./368049-the-whisker-watch.json) |
 | The Whiskey Story | 208383 | [208383-the-whiskey-story.json](./208383-the-whiskey-story.json) |
@@ -18623,6 +18628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Yakyuu Ken Special: Konya wa 8-kaisen | 74777 | [74777-the-yakyuu-ken-special-konya-wa-8-kaisen.json](./74777-the-yakyuu-ken-special-konya-wa-8-kaisen.json) |
 | The Yakyuuken Special: Konya ha 12-kaisen | 74778 | [74778-the-yakyuuken-special-konya-ha-12-kaisen.json](./74778-the-yakyuuken-special-konya-ha-12-kaisen.json) |
 | The Yamamura Estate | 376857 | [376857-the-yamamura-estate.json](./376857-the-yamamura-estate.json) |
+| The Yandere CEO | 322487 | [322487-the-yandere-ceo.json](./322487-the-yandere-ceo.json) |
 | The Yanus Plan for Escape from the Void | 283057 | [283057-the-yanus-plan-for-escape-from-the-void.json](./283057-the-yanus-plan-for-escape-from-the-void.json) |
 | The Yard of Solace | 346859 | [346859-the-yard-of-solace.json](./346859-the-yard-of-solace.json) |
 | The Yard: Escape from Prison | 414610 | [414610-the-yard-escape-from-prison.json](./414610-the-yard-escape-from-prison.json) |
@@ -19763,6 +19769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrill Kill | 2387 | [2387-thrill-kill.json](./2387-thrill-kill.json) |
 | Thrill Penguin | 204332 | [204332-thrill-penguin.json](./204332-thrill-penguin.json) |
 | Thrill Rush | 103400 | [103400-thrill-rush.json](./103400-thrill-rush.json) |
+| Thriller Escape: Mansion of Terror | 322404 | [322404-thriller-escape-mansion-of-terror.json](./322404-thriller-escape-mansion-of-terror.json) |
 | Thriller Garden | 256724 | [256724-thriller-garden.json](./256724-thriller-garden.json) |
 | Thrillgate | 130160 | [130160-thrillgate.json](./130160-thrillgate.json) |
 | Thrilling Racing | 367090 | [367090-thrilling-racing.json](./367090-thrilling-racing.json) |
@@ -26690,6 +26697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tradewinds Odyssey | 59456 | [59456-tradewinds-odyssey.json](./59456-tradewinds-odyssey.json) |
 | Tradie Tapper | 351569 | [351569-tradie-tapper.json](./351569-tradie-tapper.json) |
 | Trading Card Inspector | 360751 | [360751-trading-card-inspector.json](./360751-trading-card-inspector.json) |
+| Trading Card Shop Simulator | 322504 | [322504-trading-card-shop-simulator.json](./322504-trading-card-shop-simulator.json) |
 | Trading Kingdom | 319433 | [319433-trading-kingdom.json](./319433-trading-kingdom.json) |
 | Trading Legend | 227165 | [227165-trading-legend.json](./227165-trading-legend.json) |
 | Trading Simulator | 274563 | [274563-trading-simulator.json](./274563-trading-simulator.json) |
@@ -29716,6 +29724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tridle | 228715 | [228715-tridle.json](./228715-tridle.json) |
 | Tridonis | 62749 | [62749-tridonis.json](./62749-tridonis.json) |
 | Triennale Game Collection Vol. 2 | 207027 | [207027-triennale-game-collection-vol-2.json](./207027-triennale-game-collection-vol-2.json) |
+| Trientank | 322403 | [322403-trientank.json](./322403-trientank.json) |
 | Trifecta | 309556 | [309556-trifecta.json](./309556-trifecta.json) |
 | Trifide | 94381 | [94381-trifide.json](./94381-trifide.json) |
 | Trifling | 315531 | [315531-trifling.json](./315531-trifling.json) |
@@ -30491,6 +30500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truckin' It! | 382338 | [382338-truckin-it.json](./382338-truckin-it.json) |
 | Trucking | 114961 | [114961-trucking.json](./114961-trucking.json) |
 | Trucking 3D | 58156 | [58156-trucking-3d.json](./58156-trucking-3d.json) |
+| Trucking School: Truck Simulator Driving 2024 | 322402 | [322402-trucking-school-truck-simulator-driving-2024.json](./322402-trucking-school-truck-simulator-driving-2024.json) |
 | Trucking School: Truck Simulator Driving 2025 | 376239 | [376239-trucking-school-truck-simulator-driving-2025.json](./376239-trucking-school-truck-simulator-driving-2025.json) |
 | Trucking Simulator | 292984 | [292984-trucking-simulator.json](./292984-trucking-simulator.json) |
 | Trucking Star | 188317 | [188317-trucking-star.json](./188317-trucking-star.json) |
