@@ -943,6 +943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5329,6 +5330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania 7thMix: Keepin' Evolution | 94743 | [94743-beatmania-7thmix-keepin-evolution.json](./94743-beatmania-7thmix-keepin-evolution.json) |
 | Beatmania Append 3rdMix | 79505 | [79505-beatmania-append-3rdmix.json](./79505-beatmania-append-3rdmix.json) |
 | Beatmania Append 3rdMix Mini | 135555 | [135555-beatmania-append-3rdmix-mini.json](./135555-beatmania-append-3rdmix-mini.json) |
+| Beatmania Append 4thMix: The Beat Goes On | 313913 | [313913-beatmania-append-4thmix-the-beat-goes-on.json](./313913-beatmania-append-4thmix-the-beat-goes-on.json) |
 | Beatmania Append 5thMix: Time to Get Down | 70994 | [70994-beatmania-append-5thmix-time-to-get-down.json](./70994-beatmania-append-5thmix-time-to-get-down.json) |
 | Beatmania Append ClubMix | 54706 | [54706-beatmania-append-clubmix.json](./54706-beatmania-append-clubmix.json) |
 | Beatmania Append Gottamix 2: Going Global | 292855 | [292855-beatmania-append-gottamix-2-going-global.json](./292855-beatmania-append-gottamix-2-going-global.json) |
