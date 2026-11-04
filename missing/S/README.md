@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.N.I.P.E.R.: Hunter Scope - Aniversary Edition | 270812 | [270812-s-n-i-p-e-r-hunter-scope-aniversary-edition.json](./270812-s-n-i-p-e-r-hunter-scope-aniversary-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Back To School Edition | 263549 | [263549-s-n-i-p-e-r-hunter-scope-back-to-school-edition.json](./263549-s-n-i-p-e-r-hunter-scope-back-to-school-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Collectors Edition | 277894 | [277894-s-n-i-p-e-r-hunter-scope-collectors-edition.json](./277894-s-n-i-p-e-r-hunter-scope-collectors-edition.json) |
+| S.N.I.P.E.R.: Hunter Scope - Combo Edition | 320676 | [320676-s-n-i-p-e-r-hunter-scope-combo-edition.json](./320676-s-n-i-p-e-r-hunter-scope-combo-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Comprehensive Edition | 396929 | [396929-s-n-i-p-e-r-hunter-scope-comprehensive-edition.json](./396929-s-n-i-p-e-r-hunter-scope-comprehensive-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Deluxe Edition | 221504 | [221504-s-n-i-p-e-r-hunter-scope-deluxe-edition.json](./221504-s-n-i-p-e-r-hunter-scope-deluxe-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Diamond Edition | 271837 | [271837-s-n-i-p-e-r-hunter-scope-diamond-edition.json](./271837-s-n-i-p-e-r-hunter-scope-diamond-edition.json) |
@@ -25083,6 +25084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth Raider | 399006 | [399006-stealth-raider.json](./399006-stealth-raider.json) |
 | Stealth Runner | 392836 | [392836-stealth-runner.json](./392836-stealth-runner.json) |
 | Stealth Strike | 333577 | [333577-stealth-strike.json](./333577-stealth-strike.json) |
+| Stealth Syndicate | 320643 | [320643-stealth-syndicate.json](./320643-stealth-syndicate.json) |
 | Stealthscape | 96732 | [96732-stealthscape.json](./96732-stealthscape.json) |
 | Stealthy Guy | 102573 | [102573-stealthy-guy.json](./102573-stealthy-guy.json) |
 | Stealthy Ninja | 149384 | [149384-stealthy-ninja.json](./149384-stealthy-ninja.json) |
@@ -33691,6 +33693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Bakery Tycoon: Complete Edition | 284931 | [284931-sweet-bakery-tycoon-complete-edition.json](./284931-sweet-bakery-tycoon-complete-edition.json) |
 | Sweet Bakery Tycoon: Couch Co-op Edition | 262236 | [262236-sweet-bakery-tycoon-couch-co-op-edition.json](./262236-sweet-bakery-tycoon-couch-co-op-edition.json) |
 | Sweet Bakery Tycoon: Deluxe Edition | 221501 | [221501-sweet-bakery-tycoon-deluxe-edition.json](./221501-sweet-bakery-tycoon-deluxe-edition.json) |
+| Sweet Bakery Tycoon: Discovery Edition | 320675 | [320675-sweet-bakery-tycoon-discovery-edition.json](./320675-sweet-bakery-tycoon-discovery-edition.json) |
 | Sweet Bakery Tycoon: Expansion Pack 1 | 237913 | [237913-sweet-bakery-tycoon-expansion-pack-1.json](./237913-sweet-bakery-tycoon-expansion-pack-1.json) |
 | Sweet Bakery Tycoon: Expansion Pack 2 | 237914 | [237914-sweet-bakery-tycoon-expansion-pack-2.json](./237914-sweet-bakery-tycoon-expansion-pack-2.json) |
 | Sweet Bakery Tycoon: Extended Edition | 213345 | [213345-sweet-bakery-tycoon-extended-edition.json](./213345-sweet-bakery-tycoon-extended-edition.json) |
