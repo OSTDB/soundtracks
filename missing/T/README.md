@@ -6165,6 +6165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beast and the Princess | 341816 | [341816-the-beast-and-the-princess.json](./341816-the-beast-and-the-princess.json) |
 | The Beast Awoke to Eat Your Darlings | 169585 | [169585-the-beast-awoke-to-eat-your-darlings.json](./169585-the-beast-awoke-to-eat-your-darlings.json) |
 | The Beast in the Maze | 178824 | [178824-the-beast-in-the-maze.json](./178824-the-beast-in-the-maze.json) |
+| The Beast in the Silent Valley | 328740 | [328740-the-beast-in-the-silent-valley.json](./328740-the-beast-in-the-silent-valley.json) |
 | The Beast Inside | 88116 | [88116-the-beast-inside.json](./88116-the-beast-inside.json) |
 | The Beast Is yet to Come | 373685 | [373685-the-beast-is-yet-to-come.json](./373685-the-beast-is-yet-to-come.json) |
 | The Beast of Gevaudan | 120103 | [120103-the-beast-of-gevaudan.json](./120103-the-beast-of-gevaudan.json) |
