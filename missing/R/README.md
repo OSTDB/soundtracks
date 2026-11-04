@@ -3954,6 +3954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Sun Raiders | 130272 | [130272-red-sun-raiders.json](./130272-red-sun-raiders.json) |
 | Red Sunrise | 247963 | [247963-red-sunrise.json](./247963-red-sunrise.json) |
 | Red Supreme | 337733 | [337733-red-supreme.json](./337733-red-supreme.json) |
+| Red Sword | 314203 | [314203-red-sword.json](./314203-red-sword.json) |
 | Red Tag Rendezvous | 180769 | [180769-red-tag-rendezvous.json](./180769-red-tag-rendezvous.json) |
 | Red Tanks vs Lizard | 418250 | [418250-red-tanks-vs-lizard.json](./418250-red-tanks-vs-lizard.json) |
 | Red Tape | 226968 | [226968-red-tape.json](./226968-red-tape.json) |
@@ -5356,6 +5357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reset Day | 396552 | [396552-reset-day.json](./396552-reset-day.json) |
 | Reset Memory | 195545 | [195545-reset-memory.json](./195545-reset-memory.json) |
 | Resetail | 284753 | [284753-resetail.json](./284753-resetail.json) |
+| ReSetna | 314195 | [314195-resetna.json](./314195-resetna.json) |
 | Resettle | 417573 | [417573-resettle.json](./417573-resettle.json) |
 | Resfort | 31687 | [31687-resfort.json](./31687-resfort.json) |
 | Reshape | 255729 | [255729-reshape.json](./255729-reshape.json) |
@@ -11474,6 +11476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubber Duck Race Simulator | 356535 | [356535-rubber-duck-race-simulator.json](./356535-rubber-duck-race-simulator.json) |
 | Rubber Duck Survival | 411556 | [411556-rubber-duck-survival.json](./411556-rubber-duck-survival.json) |
 | Rubber Ducky Massacre | 145876 | [145876-rubber-ducky-massacre.json](./145876-rubber-ducky-massacre.json) |
+| Rubber Head Bob | 314537 | [314537-rubber-head-bob.json](./314537-rubber-head-bob.json) |
 | Rubber Man | 185131 | [185131-rubber-man.json](./185131-rubber-man.json) |
 | Rubber Ninjas | 75143 | [75143-rubber-ninjas.json](./75143-rubber-ninjas.json) |
 | Rubber Royale | 244269 | [244269-rubber-royale.json](./244269-rubber-royale.json) |
