@@ -1305,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1941 Frozen Front | 112064 | [112064-1941-frozen-front.json](./112064-1941-frozen-front.json) |
 | 1941: Operation Barbarossa | 235717 | [235717-1941-operation-barbarossa.json](./235717-1941-operation-barbarossa.json) |
 | 1942 | 272544 | [272544-1942.json](./272544-1942.json) |
+| 1942 | 300045 | [300045-1942.json](./300045-1942.json) |
 | 1942 | 6075 | [6075-1942.json](./6075-1942.json) |
 | 1942 Mobile | 220562 | [220562-1942-mobile.json](./220562-1942-mobile.json) |
 | 1942 Pacific Front | 109016 | [109016-1942-pacific-front.json](./109016-1942-pacific-front.json) |
@@ -1835,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 256 vs. 256 | 284786 | [284786-256-vs-256.json](./284786-256-vs-256.json) |
 | 25920 | 337614 | [337614-25920.json](./337614-25920.json) |
 | 25th Century Duke | 273131 | [273131-25th-century-duke.json](./273131-25th-century-duke.json) |
+| 26AZ: The Enigma of Shadows | 299676 | [299676-26az-the-enigma-of-shadows.json](./299676-26az-the-enigma-of-shadows.json) |
 | 27 Electronic table football | 27219 | [27219-27-electronic-table-football.json](./27219-27-electronic-table-football.json) |
 | 27 Survivors | 410329 | [410329-27-survivors.json](./410329-27-survivors.json) |
 | 27 Tele-games | 98803 | [98803-27-tele-games.json](./98803-27-tele-games.json) |
