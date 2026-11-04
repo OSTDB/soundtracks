@@ -1386,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Fever | 90740 | [90740-jewel-fever.json](./90740-jewel-fever.json) |
 | Jewel Fever 2 | 89082 | [89082-jewel-fever-2.json](./89082-jewel-fever-2.json) |
 | Jewel Fever 3 | 328391 | [328391-jewel-fever-3.json](./328391-jewel-fever-3.json) |
+| Jewel Fight: Heroes of Legend | 309288 | [309288-jewel-fight-heroes-of-legend.json](./309288-jewel-fight-heroes-of-legend.json) |
 | Jewel Hunter : Lost Temple | 105853 | [105853-jewel-hunter-lost-temple.json](./105853-jewel-hunter-lost-temple.json) |
 | Jewel Jungle Temple | 104579 | [104579-jewel-jungle-temple.json](./104579-jewel-jungle-temple.json) |
 | Jewel Legends: Atlantis | 87522 | [87522-jewel-legends-atlantis.json](./87522-jewel-legends-atlantis.json) |
