@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Fear | 384155 | [384155-echoes-of-fear.json](./384155-echoes-of-fear.json) |
 | Echoes of Forgotten Dreams | 340234 | [340234-echoes-of-forgotten-dreams.json](./340234-echoes-of-forgotten-dreams.json) |
 | Echoes of Formosa: Agent Reborn | 325059 | [325059-echoes-of-formosa-agent-reborn.json](./325059-echoes-of-formosa-agent-reborn.json) |
+| Echoes of Heroes: Legends Never Die | 325929 | [325929-echoes-of-heroes-legends-never-die.json](./325929-echoes-of-heroes-legends-never-die.json) |
 | Echoes of Humanity | 265520 | [265520-echoes-of-humanity.json](./265520-echoes-of-humanity.json) |
 | Echoes of Karma | 259622 | [259622-echoes-of-karma.json](./259622-echoes-of-karma.json) |
 | Echoes of Kyria | 414564 | [414564-echoes-of-kyria.json](./414564-echoes-of-kyria.json) |
@@ -5436,6 +5437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape to the Ocean | 231061 | [231061-escape-to-the-ocean.json](./231061-escape-to-the-ocean.json) |
 | Escape Together | 151068 | [151068-escape-together.json](./151068-escape-together.json) |
 | Escape Together | 41898 | [41898-escape-together.json](./41898-escape-together.json) |
+| Escape Together: Secrets of the Professor | 325973 | [325973-escape-together-secrets-of-the-professor.json](./325973-escape-together-secrets-of-the-professor.json) |
 | Escape Toon Kingdom | 344820 | [344820-escape-toon-kingdom.json](./344820-escape-toon-kingdom.json) |
 | Escape Treasure Island | 108874 | [108874-escape-treasure-island.json](./108874-escape-treasure-island.json) |
 | Escape Trick: Convenience Store | 85121 | [85121-escape-trick-convenience-store.json](./85121-escape-trick-convenience-store.json) |
