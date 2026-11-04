@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z Dawn | 103186 | [103186-z-dawn.json](./103186-z-dawn.json) |
 | Z Day: Hearts of Heroes | 105797 | [105797-z-day-hearts-of-heroes.json](./105797-z-day-hearts-of-heroes.json) |
 | Z Escape: Complete Edition | 277911 | [277911-z-escape-complete-edition.json](./277911-z-escape-complete-edition.json) |
+| Z Escape: Floaty Edition | 300881 | [300881-z-escape-floaty-edition.json](./300881-z-escape-floaty-edition.json) |
 | Z Escape: Laser Edition | 362218 | [362218-z-escape-laser-edition.json](./362218-z-escape-laser-edition.json) |
 | Z Evil Road | 374886 | [374886-z-evil-road.json](./374886-z-evil-road.json) |
 | Z is for Zombie | 223623 | [223623-z-is-for-zombie.json](./223623-z-is-for-zombie.json) |
@@ -1539,6 +1540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Defense: Commando Edition | 277914 | [277914-zombie-defense-commando-edition.json](./277914-zombie-defense-commando-edition.json) |
 | Zombie Defense: Definitive Edition | 275047 | [275047-zombie-defense-definitive-edition.json](./275047-zombie-defense-definitive-edition.json) |
 | Zombie Defense: Emerald Edition | 400206 | [400206-zombie-defense-emerald-edition.json](./400206-zombie-defense-emerald-edition.json) |
+| Zombie Defense: Flaming Edition | 300880 | [300880-zombie-defense-flaming-edition.json](./300880-zombie-defense-flaming-edition.json) |
 | Zombie Defense: Fruity Edition | 320672 | [320672-zombie-defense-fruity-edition.json](./320672-zombie-defense-fruity-edition.json) |
 | Zombie Defense: Jungle Edition | 371432 | [371432-zombie-defense-jungle-edition.json](./371432-zombie-defense-jungle-edition.json) |
 | Zombie Defense: Perfect Cut Edition | 284932 | [284932-zombie-defense-perfect-cut-edition.json](./284932-zombie-defense-perfect-cut-edition.json) |
