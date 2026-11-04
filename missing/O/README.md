@@ -1074,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ogami Ichiro Funtouki: Sakura Taisen Kayou Show - Benitokage Yori | 62127 | [62127-ogami-ichiro-funtouki-sakura-taisen-kayou-show-benitokage-yori.json](./62127-ogami-ichiro-funtouki-sakura-taisen-kayou-show-benitokage-yori.json) |
 | Ogantto | 349332 | [349332-ogantto.json](./349332-ogantto.json) |
 | OGgolf | 150893 | [150893-oggolf.json](./150893-oggolf.json) |
+| Oggy and the Cockroaches | 314197 | [314197-oggy-and-the-cockroaches.json](./314197-oggy-and-the-cockroaches.json) |
 | Ogiri Adventure Game | 330668 | [330668-ogiri-adventure-game.json](./330668-ogiri-adventure-game.json) |
 | Ognisco | 324281 | [324281-ognisco.json](./324281-ognisco.json) |
 | Ogo | 259953 | [259953-ogo.json](./259953-ogo.json) |
