@@ -2102,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abtos Covert | 167396 | [167396-abtos-covert.json](./167396-abtos-covert.json) |
 | Abu Batata | 411555 | [411555-abu-batata.json](./411555-abu-batata.json) |
 | Abu's Adventures | 198016 | [198016-abus-adventures.json](./198016-abus-adventures.json) |
+| Abuga Warp Zone | 306300 | [306300-abuga-warp-zone.json](./306300-abuga-warp-zone.json) |
 | Abulia | 372445 | [372445-abulia.json](./372445-abulia.json) |
 | Abunai Josei Shinrigaku Nyuumon | 269683 | [269683-abunai-josei-shinrigaku-nyuumon.json](./269683-abunai-josei-shinrigaku-nyuumon.json) |
 | Abunai Koi no Sousashitsu | 197859 | [197859-abunai-koi-no-sousashitsu.json](./197859-abunai-koi-no-sousashitsu.json) |
