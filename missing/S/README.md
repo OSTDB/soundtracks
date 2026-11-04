@@ -4324,6 +4324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Bottle | 246479 | [246479-secret-bottle.json](./246479-secret-bottle.json) |
 | Secret Bureau | 321665 | [321665-secret-bureau.json](./321665-secret-bureau.json) |
 | Secret Cat Forest | 206930 | [206930-secret-cat-forest.json](./206930-secret-cat-forest.json) |
+| Secret Cats: Christmas | 324244 | [324244-secret-cats-christmas.json](./324244-secret-cats-christmas.json) |
 | Secret Cats: Easter | 368538 | [368538-secret-cats-easter.json](./368538-secret-cats-easter.json) |
 | Secret Cats: Halloween | 320315 | [320315-secret-cats-halloween.json](./320315-secret-cats-halloween.json) |
 | Secret Cats: Haunted Mansion | 320317 | [320317-secret-cats-haunted-mansion.json](./320317-secret-cats-haunted-mansion.json) |
@@ -4331,6 +4332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Cats: Ice Cream Day | 360648 | [360648-secret-cats-ice-cream-day.json](./360648-secret-cats-ice-cream-day.json) |
 | Secret Cats: Independence Day | 416133 | [416133-secret-cats-independence-day.json](./416133-secret-cats-independence-day.json) |
 | Secret Cats: Pirates | 306611 | [306611-secret-cats-pirates.json](./306611-secret-cats-pirates.json) |
+| Secret Cats: Snow | 324243 | [324243-secret-cats-snow.json](./324243-secret-cats-snow.json) |
 | Secret Cats: Spooky | 320316 | [320316-secret-cats-spooky.json](./320316-secret-cats-spooky.json) |
 | Secret Cats: Spooky | 393712 | [393712-secret-cats-spooky.json](./393712-secret-cats-spooky.json) |
 | Secret Cats: Spring Festival | 329765 | [329765-secret-cats-spring-festival.json](./329765-secret-cats-spring-festival.json) |
@@ -8989,6 +8991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoppy Mart: Steam Edition | 90633 | [90633-shoppy-mart-steam-edition.json](./90633-shoppy-mart-steam-edition.json) |
 | Shore Doodle | 340373 | [340373-shore-doodle.json](./340373-shore-doodle.json) |
 | Shore of Jord | 326861 | [326861-shore-of-jord.json](./326861-shore-of-jord.json) |
+| Shorebound | 324230 | [324230-shorebound.json](./324230-shorebound.json) |
 | Shorekeeper | 385694 | [385694-shorekeeper.json](./385694-shorekeeper.json) |
 | Shores of Hazeron | 66413 | [66413-shores-of-hazeron.json](./66413-shores-of-hazeron.json) |
 | Shores of Vaelithar | 380353 | [380353-shores-of-vaelithar.json](./380353-shores-of-vaelithar.json) |
@@ -10982,6 +10985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar Junior | 65564 | [65564-singstar-junior.json](./65564-singstar-junior.json) |
 | SingStar MegaHits | 268748 | [268748-singstar-megahits.json](./268748-singstar-megahits.json) |
 | SingStar Patito Feo | 268749 | [268749-singstar-patito-feo.json](./268749-singstar-patito-feo.json) |
+| SingStar Russian Hit | 324235 | [324235-singstar-russian-hit.json](./324235-singstar-russian-hit.json) |
 | SingStar Starter Pack | 268746 | [268746-singstar-starter-pack.json](./268746-singstar-starter-pack.json) |
 | SingStar Vol. 3: Party Edition | 52829 | [52829-singstar-vol-3-party-edition.json](./52829-singstar-vol-3-party-edition.json) |
 | Singstar: '80s | 15094 | [15094-singstar-80s.json](./15094-singstar-80s.json) |
@@ -18931,6 +18935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21220,6 +21225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spire of Glory | 227985 | [227985-spire-of-glory.json](./227985-spire-of-glory.json) |
 | Spire of Lust & Fetish | 257953 | [257953-spire-of-lust-and-fetish.json](./257953-spire-of-lust-and-fetish.json) |
 | Spires of Morosith: Gossamer Sundered | 345458 | [345458-spires-of-morosith-gossamer-sundered.json](./345458-spires-of-morosith-gossamer-sundered.json) |
+| Spires, The Wailing City | 324233 | [324233-spires-the-wailing-city.json](./324233-spires-the-wailing-city.json) |
 | Spiriat | 197118 | [197118-spiriat.json](./197118-spiriat.json) |
 | Spiriki: Tiny Island | 404860 | [404860-spiriki-tiny-island.json](./404860-spiriki-tiny-island.json) |
 | Spirimonz | 408379 | [408379-spirimonz.json](./408379-spirimonz.json) |
@@ -23002,6 +23008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Standpoint | 10885 | [10885-standpoint.json](./10885-standpoint.json) |
 | Stanga | 133210 | [133210-stanga.json](./133210-stanga.json) |
 | Stanislav | 214114 | [214114-stanislav.json](./214114-stanislav.json) |
+| Stanley Saga | 324073 | [324073-stanley-saga.json](./324073-stanley-saga.json) |
 | Stanley Says | 367654 | [367654-stanley-says.json](./367654-stanley-says.json) |
 | Stanley Tiger Tales | 73453 | [73453-stanley-tiger-tales.json](./73453-stanley-tiger-tales.json) |
 | Stanley: Wild for Sharks! | 70964 | [70964-stanley-wild-for-sharks.json](./70964-stanley-wild-for-sharks.json) |
@@ -30727,6 +30734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros.: The New Worlds | 255601 | [255601-super-mario-bros-the-new-worlds.json](./255601-super-mario-bros-the-new-worlds.json) |
 | Super Mario Bros.: Two Players Hack | 162716 | [162716-super-mario-bros-two-players-hack.json](./162716-super-mario-bros-two-players-hack.json) |
 | Super Mario Bros.: Wart's Wonderland | 228889 | [228889-super-mario-bros-warts-wonderland.json](./228889-super-mario-bros-warts-wonderland.json) |
+| Super Mario Brothers: For Real | 324072 | [324072-super-mario-brothers-for-real.json](./324072-super-mario-brothers-for-real.json) |
 | Super Mario Buys Bread | 370294 | [370294-super-mario-buys-bread.json](./370294-super-mario-buys-bread.json) |
 | Super Mario Castle 2 | 255603 | [255603-super-mario-castle-2.json](./255603-super-mario-castle-2.json) |
 | Super Mario Castle 3 | 314125 | [314125-super-mario-castle-3.json](./314125-super-mario-castle-3.json) |
@@ -30895,6 +30903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Starlight | 273867 | [273867-super-mario-starlight.json](./273867-super-mario-starlight.json) |
 | Super Mario Starshine | 223050 | [223050-super-mario-starshine.json](./223050-super-mario-starshine.json) |
 | Super Mario Stellato | 260841 | [260841-super-mario-stellato.json](./260841-super-mario-stellato.json) |
+| Super Mario Storm 2 | 324074 | [324074-super-mario-storm-2.json](./324074-super-mario-storm-2.json) |
 | Super Mario Storm I | 324681 | [324681-super-mario-storm-i.json](./324681-super-mario-storm-i.json) |
 | Super Mario Story | 313110 | [313110-super-mario-story.json](./313110-super-mario-story.json) |
 | Super Mario Strikers | 2256 | [2256-super-mario-strikers.json](./2256-super-mario-strikers.json) |
@@ -31302,6 +31311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Paper Mario | 231489 | [231489-super-paper-mario.json](./231489-super-paper-mario.json) |
 | Super Paper Mario Memory Match | 231568 | [231568-super-paper-mario-memory-match.json](./231568-super-paper-mario-memory-match.json) |
 | Super Paper Mario: Hard Mode - Rubies & Magic | 344918 | [344918-super-paper-mario-hard-mode-rubies-and-magic.json](./344918-super-paper-mario-hard-mode-rubies-and-magic.json) |
+| Super Paper Mario: The Cubeland Story | 324071 | [324071-super-paper-mario-the-cubeland-story.json](./324071-super-paper-mario-the-cubeland-story.json) |
 | Super Party Games Online | 306098 | [306098-super-party-games-online.json](./306098-super-party-games-online.json) |
 | Super Party Sports: Football | 21315 | [21315-super-party-sports-football.json](./21315-super-party-sports-football.json) |
 | Super Password | 217982 | [217982-super-password.json](./217982-super-password.json) |
