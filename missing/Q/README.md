@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Rush Champions: Jump Start Tournament | 172121 | [172121-quantum-rush-champions-jump-start-tournament.json](./172121-quantum-rush-champions-jump-start-tournament.json) |
 | Quantum Rush Online | 212717 | [212717-quantum-rush-online.json](./212717-quantum-rush-online.json) |
 | Quantum Siege | 54725 | [54725-quantum-siege.json](./54725-quantum-siege.json) |
+| Quantum Sleeper | 318358 | [318358-quantum-sleeper.json](./318358-quantum-sleeper.json) |
 | Quantum Soteriology | 333900 | [333900-quantum-soteriology.json](./333900-quantum-soteriology.json) |
 | Quantum Storm | 226318 | [226318-quantum-storm.json](./226318-quantum-storm.json) |
 | Quantum Theory | 7149 | [7149-quantum-theory.json](./7149-quantum-theory.json) |
