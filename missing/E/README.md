@@ -1269,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edges 2 | 53095 | [53095-edges-2.json](./53095-edges-2.json) |
 | Edgy Fantasy Battle Deluxe | 184632 | [184632-edgy-fantasy-battle-deluxe.json](./184632-edgy-fantasy-battle-deluxe.json) |
 | Edibles | 159815 | [159815-edibles.json](./159815-edibles.json) |
+| Edict | 331043 | [331043-edict.json](./331043-edict.json) |
 | Ediction | 333545 | [333545-ediction.json](./333545-ediction.json) |
 | Edifice | 406145 | [406145-edifice.json](./406145-edifice.json) |
 | Edifice of Fiends | 167499 | [167499-edifice-of-fiends.json](./167499-edifice-of-fiends.json) |
