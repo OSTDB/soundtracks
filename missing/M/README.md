@@ -2209,7 +2209,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mainframe Escape | 417386 | [417386-mainframe-escape.json](./417386-mainframe-escape.json) |
 | Mainframe Mayhem | 271328 | [271328-mainframe-mayhem.json](./271328-mainframe-mayhem.json) |
 | Mainframe Men | 384147 | [384147-mainframe-men.json](./384147-mainframe-men.json) |
-| MainFrames | 313809 | [313809-mainframes.json](./313809-mainframes.json) |
 | MainGuns | 56478 | [56478-mainguns.json](./56478-mainguns.json) |
 | Mainichi | 144226 | [144226-mainichi.json](./144226-mainichi.json) |
 | Mainichi ga Ecchi | 356055 | [356055-mainichi-ga-ecchi.json](./356055-mainichi-ga-ecchi.json) |
@@ -3593,6 +3592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Artist: Talent Studio | 44059 | [44059-mario-artist-talent-studio.json](./44059-mario-artist-talent-studio.json) |
 | Mario Artist: Video Jockey Maker | 175954 | [175954-mario-artist-video-jockey-maker.json](./175954-mario-artist-video-jockey-maker.json) |
 | Mario Bobble | 41363 | [41363-mario-bobble.json](./41363-mario-bobble.json) |
+| Mario Brawl Online | 324065 | [324065-mario-brawl-online.json](./324065-mario-brawl-online.json) |
 | Mario Bros: Just For Fun (Super Battle Bros) | 135071 | [135071-mario-bros-just-for-fun-super-battle-bros.json](./135071-mario-bros-just-for-fun-super-battle-bros.json) |
 | Mario Bros. | 131939 | [131939-mario-bros.json](./131939-mario-bros.json) |
 | Mario Bros. | 172201 | [172201-mario-bros.json](./172201-mario-bros.json) |
@@ -3638,6 +3638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Forever Block Party | 127881 | [127881-mario-forever-block-party.json](./127881-mario-forever-block-party.json) |
 | Mario Forever Galaxy | 139452 | [139452-mario-forever-galaxy.json](./139452-mario-forever-galaxy.json) |
 | Mario Forever Remake | 307667 | [307667-mario-forever-remake.json](./307667-mario-forever-remake.json) |
+| Mario Forever: Community Edition | 324070 | [324070-mario-forever-community-edition.json](./324070-mario-forever-community-edition.json) |
 | Mario Forever: SMW Edition | 198464 | [198464-mario-forever-smw-edition.json](./198464-mario-forever-smw-edition.json) |
 | Mario Game | 276419 | [276419-mario-game.json](./276419-mario-game.json) |
 | Mario Gives Up | 272818 | [272818-mario-gives-up.json](./272818-mario-gives-up.json) |
@@ -4250,6 +4251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Rising | 77029 | [77029-mars-rising.json](./77029-mars-rising.json) |
 | Mars Saga | 70980 | [70980-mars-saga.json](./70980-mars-saga.json) |
 | Mars Simulator: Red Planet | 29591 | [29591-mars-simulator-red-planet.json](./29591-mars-simulator-red-planet.json) |
+| Mars Survivor | 324204 | [324204-mars-survivor.json](./324204-mars-survivor.json) |
 | Mars Survivor: Action Edition | 366785 | [366785-mars-survivor-action-edition.json](./366785-mars-survivor-action-edition.json) |
 | Mars Survivor: Blue Blaster | 324456 | [324456-mars-survivor-blue-blaster.json](./324456-mars-survivor-blue-blaster.json) |
 | Mars Survivor: Complete Edition | 324372 | [324372-mars-survivor-complete-edition.json](./324372-mars-survivor-complete-edition.json) |
@@ -5417,6 +5419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math RTS | 81777 | [81777-math-rts.json](./81777-math-rts.json) |
 | Math Seeker | 316572 | [316572-math-seeker.json](./316572-math-seeker.json) |
 | Math Speed Challenge | 101617 | [101617-math-speed-challenge.json](./101617-math-speed-challenge.json) |
+| Math Sudoku | 324062 | [324062-math-sudoku.json](./324062-math-sudoku.json) |
 | Math Tables Mania: Learn Multiplications and Divisions | 87638 | [87638-math-tables-mania-learn-multiplications-and-divisions.json](./87638-math-tables-mania-learn-multiplications-and-divisions.json) |
 | Math the Question | 130840 | [130840-math-the-question.json](./130840-math-the-question.json) |
 | Math Tile | 82352 | [82352-math-tile.json](./82352-math-tile.json) |
@@ -5704,6 +5707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -14740,6 +14744,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Island 2 Special Edition: LeChuck's Revenge | 66 | [66-monkey-island-2-special-edition-lechucks-revenge.json](./66-monkey-island-2-special-edition-lechucks-revenge.json) |
 | Monkey Island 2.5: El Parque de las Pesadillas | 324164 | [324164-monkey-island-2-5-el-parque-de-las-pesadillas.json](./324164-monkey-island-2-5-el-parque-de-las-pesadillas.json) |
 | Monkey Island Special Edition Collection | 43036 | [43036-monkey-island-special-edition-collection.json](./43036-monkey-island-special-edition-collection.json) |
+| Monkey Island Zero | 324221 | [324221-monkey-island-zero.json](./324221-monkey-island-zero.json) |
+| Monkey Island: Carnaval Vudu | 324224 | [324224-monkey-island-carnaval-vudu.json](./324224-monkey-island-carnaval-vudu.json) |
+| Monkey Island: Carnival of the Damned | 324226 | [324226-monkey-island-carnival-of-the-damned.json](./324226-monkey-island-carnival-of-the-damned.json) |
 | Monkey Jump | 373884 | [373884-monkey-jump.json](./373884-monkey-jump.json) |
 | Monkey Kick Off | 253792 | [253792-monkey-kick-off.json](./253792-monkey-kick-off.json) |
 | Monkey King | 287535 | [287535-monkey-king.json](./287535-monkey-king.json) |
@@ -17126,6 +17133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto X | 279698 | [279698-moto-x.json](./279698-moto-x.json) |
 | Moto X | 423989 | [423989-moto-x.json](./423989-moto-x.json) |
 | Moto X Challenge | 238393 | [238393-moto-x-challenge.json](./238393-moto-x-challenge.json) |
+| Moto X Madness 2025: Ultimate Dirt Bike Championship | 324137 | [324137-moto-x-madness-2025-ultimate-dirt-bike-championship.json](./324137-moto-x-madness-2025-ultimate-dirt-bike-championship.json) |
 | Moto X Maniac | 66936 | [66936-moto-x-maniac.json](./66936-moto-x-maniac.json) |
 | Moto X Simulator | 41114 | [41114-moto-x-simulator.json](./41114-moto-x-simulator.json) |
 | Moto X3M 2 | 95990 | [95990-moto-x3m-2.json](./95990-moto-x3m-2.json) |
