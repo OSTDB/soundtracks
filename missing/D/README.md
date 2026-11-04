@@ -1123,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daniel X: The Ultimate Power | 67188 | [67188-daniel-x-the-ultimate-power.json](./67188-daniel-x-the-ultimate-power.json) |
 | Daniel's Jetpack Flight | 331755 | [331755-daniels-jetpack-flight.json](./331755-daniels-jetpack-flight.json) |
 | Daniel's Violent Doom | 355049 | [355049-daniels-violent-doom.json](./355049-daniels-violent-doom.json) |
+| Danielle's Plant Game | 337380 | [337380-danielles-plant-game.json](./337380-danielles-plant-game.json) |
 | Danjigoku | 276122 | [276122-danjigoku.json](./276122-danjigoku.json) |
 | Danjon ni Deai o Motomeru no wa Machigatteiru Darou ka? Orario Rhapsodia | 77627 | [77627-danjon-ni-deai-o-motomeru-no-wa-machigatteiru-darou-ka-orario-rhapsodia.json](./77627-danjon-ni-deai-o-motomeru-no-wa-machigatteiru-darou-ka-orario-rhapsodia.json) |
 | Danju | 410238 | [410238-danju.json](./410238-danju.json) |
@@ -1353,6 +1354,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Castle | 12034 | [12034-dark-castle.json](./12034-dark-castle.json) |
 | Dark Castle | 287498 | [287498-dark-castle.json](./287498-dark-castle.json) |
 | Dark Castle | 334682 | [334682-dark-castle.json](./334682-dark-castle.json) |
+| Dark Castle | 337401 | [337401-dark-castle.json](./337401-dark-castle.json) |
+| Dark Castle | 337403 | [337403-dark-castle.json](./337403-dark-castle.json) |
 | Dark Castle | 337409 | [337409-dark-castle.json](./337409-dark-castle.json) |
 | Dark Castle | 337427 | [337427-dark-castle.json](./337427-dark-castle.json) |
 | Dark Castle | 337429 | [337429-dark-castle.json](./337429-dark-castle.json) |
@@ -11983,6 +11986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Look Down | 186244 | [186244-dont-look-down.json](./186244-dont-look-down.json) |
 | Don't Look! | 168387 | [168387-dont-look.json](./168387-dont-look.json) |
 | Don't Look! | 372019 | [372019-dont-look.json](./372019-dont-look.json) |
+| Don’t Lose Your Ship | 337357 | [337357-don-t-lose-your-ship.json](./337357-don-t-lose-your-ship.json) |
 | Don't Make Love | 74587 | [74587-dont-make-love.json](./74587-dont-make-love.json) |
 | Don't Melt the Snowman | 280134 | [280134-dont-melt-the-snowman.json](./280134-dont-melt-the-snowman.json) |
 | Don't Mess With Bober | 350603 | [350603-dont-mess-with-bober.json](./350603-dont-mess-with-bober.json) |
@@ -15192,6 +15196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Audition: Super Hit Disc 2 | 269407 | [269407-dream-audition-super-hit-disc-2.json](./269407-dream-audition-super-hit-disc-2.json) |
 | Dream Back | 155891 | [155891-dream-back.json](./155891-dream-back.json) |
 | Dream Bakery | 285348 | [285348-dream-bakery.json](./285348-dream-bakery.json) |
+| Dream Ball | 337385 | [337385-dream-ball.json](./337385-dream-ball.json) |
 | Dream Bar Simulator | 326438 | [326438-dream-bar-simulator.json](./326438-dream-bar-simulator.json) |
 | Dream Big 2 | 156992 | [156992-dream-big-2.json](./156992-dream-big-2.json) |
 | Dream Blast: Jewel Pops | 224073 | [224073-dream-blast-jewel-pops.json](./224073-dream-blast-jewel-pops.json) |
