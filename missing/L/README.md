@@ -3058,6 +3058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Hidden Side | 122323 | [122323-lego-hidden-side.json](./122323-lego-hidden-side.json) |
 | LEGO Hill Climb Adventures | 242226 | [242226-lego-hill-climb-adventures.json](./242226-lego-hill-climb-adventures.json) |
 | LEGO Horizon Adventure: Shield Weaver Outfit | 321589 | [321589-lego-horizon-adventure-shield-weaver-outfit.json](./321589-lego-horizon-adventure-shield-weaver-outfit.json) |
+| LEGO Horizon Adventures: Digital Deluxe Edition | 320682 | [320682-lego-horizon-adventures-digital-deluxe-edition.json](./320682-lego-horizon-adventures-digital-deluxe-edition.json) |
 | LEGO Horizon Adventures: Digital Deluxe Edition Content | 322256 | [322256-lego-horizon-adventures-digital-deluxe-edition-content.json](./322256-lego-horizon-adventures-digital-deluxe-edition-content.json) |
 | LEGO Indiana Jones 2: The Adventure Continues | 138 | [138-lego-indiana-jones-2-the-adventure-continues.json](./138-lego-indiana-jones-2-the-adventure-continues.json) |
 | LEGO Indiana Jones 2: The Adventure Continues | 194933 | [194933-lego-indiana-jones-2-the-adventure-continues.json](./194933-lego-indiana-jones-2-the-adventure-continues.json) |
@@ -4271,6 +4272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Bubble | 300870 | [300870-life-bubble.json](./300870-life-bubble.json) |
 | Life Bubble: Gear Up Edition | 308806 | [308806-life-bubble-gear-up-edition.json](./308806-life-bubble-gear-up-edition.json) |
 | Life Bubble: Light Speed | 300936 | [300936-life-bubble-light-speed.json](./300936-life-bubble-light-speed.json) |
+| Life Bubble: Speed Up Edition | 320680 | [320680-life-bubble-speed-up-edition.json](./320680-life-bubble-speed-up-edition.json) |
 | Life Bug | 359549 | [359549-life-bug.json](./359549-life-bug.json) |
 | Life by You | 240899 | [240899-life-by-you.json](./240899-life-by-you.json) |
 | Life Can Be Amazing | 163183 | [163183-life-can-be-amazing.json](./163183-life-can-be-amazing.json) |
