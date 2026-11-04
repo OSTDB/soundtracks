@@ -752,6 +752,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm Not Alone | 346713 | [346713-im-not-alone.json](./346713-im-not-alone.json) |
 | I'm Not Alone | 66893 | [66893-im-not-alone.json](./66893-im-not-alone.json) |
 | I'm Not Crazy | 309866 | [309866-im-not-crazy.json](./309866-im-not-crazy.json) |
+| I'm Not Crazy, Right?: The Cell | 322912 | [322912-im-not-crazy-right-the-cell.json](./322912-im-not-crazy-right-the-cell.json) |
+| I'm Not Crazy, Right?: The Well | 322914 | [322914-im-not-crazy-right-the-well.json](./322914-im-not-crazy-right-the-well.json) |
 | I'm Not Happy | 223803 | [223803-im-not-happy.json](./223803-im-not-happy.json) |
 | I'm Not Jelly | 186263 | [186263-im-not-jelly.json](./186263-im-not-jelly.json) |
 | I'm Not Sleepy | 295002 | [295002-im-not-sleepy.json](./295002-im-not-sleepy.json) |
@@ -3148,6 +3150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiana Jones | 284213 | [284213-indiana-jones.json](./284213-indiana-jones.json) |
 | Indiana Jones | 80377 | [80377-indiana-jones.json](./80377-indiana-jones.json) |
 | Indiana Jones and Fountain of Youth | 18934 | [18934-indiana-jones-and-fountain-of-youth.json](./18934-indiana-jones-and-fountain-of-youth.json) |
+| Indiana Jones and the Crown of Solomon | 322927 | [322927-indiana-jones-and-the-crown-of-solomon.json](./322927-indiana-jones-and-the-crown-of-solomon.json) |
 | Indiana Jones and the Emperor's Tomb | 187 | [187-indiana-jones-and-the-emperors-tomb.json](./187-indiana-jones-and-the-emperors-tomb.json) |
 | Indiana Jones and the Fate of Atlantis | 389762 | [389762-indiana-jones-and-the-fate-of-atlantis.json](./389762-indiana-jones-and-the-fate-of-atlantis.json) |
 | Indiana Jones and the Fate of Atlantis: Special Edition | 22037 | [22037-indiana-jones-and-the-fate-of-atlantis-special-edition.json](./22037-indiana-jones-and-the-fate-of-atlantis-special-edition.json) |
@@ -3697,6 +3700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Ruins | 394091 | [394091-infinite-ruins.json](./394091-infinite-ruins.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
