@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M3nticid3: Control Group | 393018 | [393018-m3nticid3-control-group.json](./393018-m3nticid3-control-group.json) |
 | M6 | 78443 | [78443-m6.json](./78443-m6.json) |
 | M87 | 200511 | [200511-m87.json](./200511-m87.json) |
+| MA 2: President Simulator | 345231 | [345231-ma-2-president-simulator.json](./345231-ma-2-president-simulator.json) |
 | Ma Cheon Ru | 269161 | [269161-ma-cheon-ru.json](./269161-ma-cheon-ru.json) |
 | Ma Pension d'Animaux: Bébés Câlins | 144681 | [144681-ma-pension-danimaux-bebes-calins.json](./144681-ma-pension-danimaux-bebes-calins.json) |
 | Ma première visite à la tour du sens | 345578 | [345578-ma-premiere-visite-a-la-tour-du-sens.json](./345578-ma-premiere-visite-a-la-tour-du-sens.json) |
@@ -2155,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mailfrog | 178040 | [178040-mailfrog.json](./178040-mailfrog.json) |
 | MailPop | 249070 | [249070-mailpop.json](./249070-mailpop.json) |
 | MailRabit | 289260 | [289260-mailrabit.json](./289260-mailrabit.json) |
+| Mailstrom | 345239 | [345239-mailstrom.json](./345239-mailstrom.json) |
 | Mailstrom | 36862 | [36862-mailstrom.json](./36862-mailstrom.json) |
 | Maimai | 60813 | [60813-maimai.json](./60813-maimai.json) |
 | Maimai DX | 130331 | [130331-maimai-dx.json](./130331-maimai-dx.json) |
@@ -5325,6 +5327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math City HD | 232178 | [232178-math-city-hd.json](./232178-math-city-hd.json) |
 | Math Classroom Challenge | 102355 | [102355-math-classroom-challenge.json](./102355-math-classroom-challenge.json) |
 | Math Classroom Challenge | 173144 | [173144-math-classroom-challenge.json](./173144-math-classroom-challenge.json) |
+| Math Climber | 345236 | [345236-math-climber.json](./345236-math-climber.json) |
 | Math Combat Challenge | 55124 | [55124-math-combat-challenge.json](./55124-math-combat-challenge.json) |
 | Math Duel | 251043 | [251043-math-duel.json](./251043-math-duel.json) |
 | Math Evolve: A Fun Math Game | 175372 | [175372-math-evolve-a-fun-math-game.json](./175372-math-evolve-a-fun-math-game.json) |
