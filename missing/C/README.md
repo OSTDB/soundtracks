@@ -1749,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Beeble | 294722 | [294722-captain-beeble.json](./294722-captain-beeble.json) |
 | Captain Bible in Dome of Darkness | 64089 | [64089-captain-bible-in-dome-of-darkness.json](./64089-captain-bible-in-dome-of-darkness.json) |
 | Captain Blacksword | 235729 | [235729-captain-blacksword.json](./235729-captain-blacksword.json) |
+| Captain Blind | 301445 | [301445-captain-blind.json](./301445-captain-blind.json) |
 | Captain Blood | 11989 | [11989-captain-blood.json](./11989-captain-blood.json) |
 | Captain Blood | 73030 | [73030-captain-blood.json](./73030-captain-blood.json) |
 | Captain Bones | 123464 | [123464-captain-bones.json](./123464-captain-bones.json) |
@@ -3106,6 +3107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Case Kovacs: Agent 228 | 171467 | [171467-case-kovacs-agent-228.json](./171467-case-kovacs-agent-228.json) |
 | Case No.1: Rose Academy | 370266 | [370266-case-no-1-rose-academy.json](./370266-case-no-1-rose-academy.json) |
 | Case of 1980 | 413016 | [413016-case-of-1980.json](./413016-case-of-1980.json) |
+| Case of the Canvas | 301475 | [301475-case-of-the-canvas.json](./301475-case-of-the-canvas.json) |
 | Case of the Mysterious Death of Keiko Haraeda | 267862 | [267862-case-of-the-mysterious-death-of-keiko-haraeda.json](./267862-case-of-the-mysterious-death-of-keiko-haraeda.json) |
 | Case Records: Fear of Abduction | 294017 | [294017-case-records-fear-of-abduction.json](./294017-case-records-fear-of-abduction.json) |
 | Case Records: Lost Night | 334350 | [334350-case-records-lost-night.json](./334350-case-records-lost-night.json) |
@@ -14485,6 +14487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Adventure | 312253 | [312253-cosmic-adventure.json](./312253-cosmic-adventure.json) |
 | Cosmic Alien | 40021 | [40021-cosmic-alien.json](./40021-cosmic-alien.json) |
 | Cosmic Arcade Tycoon | 333497 | [333497-cosmic-arcade-tycoon.json](./333497-cosmic-arcade-tycoon.json) |
+| Cosmic Ark | 301443 | [301443-cosmic-ark.json](./301443-cosmic-ark.json) |
 | Cosmic Ark | 8466 | [8466-cosmic-ark.json](./8466-cosmic-ark.json) |
 | Cosmic Armada | 269983 | [269983-cosmic-armada.json](./269983-cosmic-armada.json) |
 | Cosmic Avenger | 18504 | [18504-cosmic-avenger.json](./18504-cosmic-avenger.json) |
