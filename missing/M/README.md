@@ -9502,6 +9502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Tales: Overkill | 149692 | [149692-metal-tales-overkill.json](./149692-metal-tales-overkill.json) |
 | Metal Thunder | 320475 | [320475-metal-thunder.json](./320475-metal-thunder.json) |
 | Metal Torrent | 67703 | [67703-metal-torrent.json](./67703-metal-torrent.json) |
+| Metal Toy Excavator | 336842 | [336842-metal-toy-excavator.json](./336842-metal-toy-excavator.json) |
 | Metal Undergrowth | 372428 | [372428-metal-undergrowth.json](./372428-metal-undergrowth.json) |
 | Metal Unit | 125038 | [125038-metal-unit.json](./125038-metal-unit.json) |
 | Metal Walker | 49872 | [49872-metal-walker.json](./49872-metal-walker.json) |
@@ -12113,6 +12114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper 3D | 391924 | [391924-minesweeper-3d.json](./391924-minesweeper-3d.json) |
 | Minesweeper 3D | 412739 | [412739-minesweeper-3d.json](./412739-minesweeper-3d.json) |
 | MineSweeper 3D | 368071 | [368071-minesweeper-3d.json](./368071-minesweeper-3d.json) |
+| Minesweeper 99 | 336853 | [336853-minesweeper-99.json](./336853-minesweeper-99.json) |
 | Minesweeper Arena | 395161 | [395161-minesweeper-arena.json](./395161-minesweeper-arena.json) |
 | Minesweeper But the First Tile is Always a Mine | 327378 | [327378-minesweeper-but-the-first-tile-is-always-a-mine.json](./327378-minesweeper-but-the-first-tile-is-always-a-mine.json) |
 | Minesweeper Challenge | 96705 | [96705-minesweeper-challenge.json](./96705-minesweeper-challenge.json) |
@@ -16706,6 +16708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortality Decomp. Killers | 337999 | [337999-mortality-decomp-killers.json](./337999-mortality-decomp-killers.json) |
 | Mortality Decomp. Killers: Shadow of Abaddon | 369823 | [369823-mortality-decomp-killers-shadow-of-abaddon.json](./369823-mortality-decomp-killers-shadow-of-abaddon.json) |
 | Mortality... Please | 417597 | [417597-mortality-please.json](./417597-mortality-please.json) |
+| Mortalls | 336818 | [336818-mortalls.json](./336818-mortalls.json) |
 | Mortals and Monsters: Blood Orc | 191049 | [191049-mortals-and-monsters-blood-orc.json](./191049-mortals-and-monsters-blood-orc.json) |
 | Mortalus: The Quest for Immortality | 145423 | [145423-mortalus-the-quest-for-immortality.json](./145423-mortalus-the-quest-for-immortality.json) |
 | Mortan | 419784 | [419784-mortan.json](./419784-mortan.json) |
