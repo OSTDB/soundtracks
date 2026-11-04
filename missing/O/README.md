@@ -4885,6 +4885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Tune | 107054 | [107054-out-of-tune.json](./107054-out-of-tune.json) |
 | Out Of Water | 359925 | [359925-out-of-water.json](./359925-out-of-water.json) |
 | Out of Words | 347645 | [347645-out-of-words.json](./347645-out-of-words.json) |
+| Out of Your Mind | 318319 | [318319-out-of-your-mind.json](./318319-out-of-your-mind.json) |
 | Out on a Liminal | 178940 | [178940-out-on-a-liminal.json](./178940-out-on-a-liminal.json) |
 | Out on the Water | 372975 | [372975-out-on-the-water.json](./372975-out-on-the-water.json) |
 | Out Racing: Arcade Memory | 294835 | [294835-out-racing-arcade-memory.json](./294835-out-racing-arcade-memory.json) |
