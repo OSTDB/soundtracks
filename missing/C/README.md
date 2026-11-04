@@ -17281,6 +17281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrowHallow | 346323 | [346323-crowhallow.json](./346323-crowhallow.json) |
 | Crowhille: Detective Case Files VR | 151064 | [151064-crowhille-detective-case-files-vr.json](./151064-crowhille-detective-case-files-vr.json) |
 | CrowKart | 165443 | [165443-crowkart.json](./165443-crowkart.json) |
+| Crowley Hotel: The JH Chronicles | 343020 | [343020-crowley-hotel-the-jh-chronicles.json](./343020-crowley-hotel-the-jh-chronicles.json) |
 | Crowman & Wolfboy | 28575 | [28575-crowman-and-wolfboy.json](./28575-crowman-and-wolfboy.json) |
 | Crown | 12415 | [12415-crown.json](./12415-crown.json) |
 | Crown | 146111 | [146111-crown.json](./146111-crown.json) |
@@ -18475,6 +18476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubyrinth | 171867 | [171867-cubyrinth.json](./171867-cubyrinth.json) |
 | Cubyte | 279133 | [279133-cubyte.json](./279133-cubyte.json) |
 | Cubytet | 191188 | [191188-cubytet.json](./191188-cubytet.json) |
+| Cubyz | 343013 | [343013-cubyz.json](./343013-cubyz.json) |
 | Cubzh | 250020 | [250020-cubzh.json](./250020-cubzh.json) |
 | Cuccchi | 159156 | [159156-cuccchi.json](./159156-cuccchi.json) |
 | Cuccioli Cerca Amici | 137796 | [137796-cuccioli-cerca-amici.json](./137796-cuccioli-cerca-amici.json) |
