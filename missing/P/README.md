@@ -13367,6 +13367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Praise To The Moon | 396270 | [396270-praise-to-the-moon.json](./396270-praise-to-the-moon.json) |
 | Prajator: Image Ranger | 273281 | [273281-prajator-image-ranger.json](./273281-prajator-image-ranger.json) |
 | Prakasha | 413026 | [413026-prakasha.json](./413026-prakasha.json) |
+| Pralai Song of The Last Empire | 306266 | [306266-pralai-song-of-the-last-empire.json](./306266-pralai-song-of-the-last-empire.json) |
 | Prana | 75113 | [75113-prana.json](./75113-prana.json) |
 | Prank | 337394 | [337394-prank.json](./337394-prank.json) |
 | Prank Bros | 108891 | [108891-prank-bros.json](./108891-prank-bros.json) |
@@ -16471,6 +16472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychonauts in the Rhombus of Ruin | 15572 | [15572-psychonauts-in-the-rhombus-of-ruin.json](./15572-psychonauts-in-the-rhombus-of-ruin.json) |
 | Psychopath Hunt | 356201 | [356201-psychopath-hunt.json](./356201-psychopath-hunt.json) |
 | Psychopath Hunt Two | 290796 | [290796-psychopath-hunt-two.json](./290796-psychopath-hunt-two.json) |
+| Psychopath Massacre | 306265 | [306265-psychopath-massacre.json](./306265-psychopath-massacre.json) |
 | Psychopath Mind Quiz: Unmask Their Dark Nature | 420663 | [420663-psychopath-mind-quiz-unmask-their-dark-nature.json](./420663-psychopath-mind-quiz-unmask-their-dark-nature.json) |
 | Psychopathy Assessment | 341438 | [341438-psychopathy-assessment.json](./341438-psychopathy-assessment.json) |
 | PsychoPhobia | 196025 | [196025-psychophobia.json](./196025-psychophobia.json) |
