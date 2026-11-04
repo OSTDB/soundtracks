@@ -1969,6 +1969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandana City | 93067 | [93067-bandana-city.json](./93067-bandana-city.json) |
 | Bandapes | 129443 | [129443-bandapes.json](./129443-bandapes.json) |
 | Bandeirantes: The Game. | 347348 | [347348-bandeirantes-the-game.json](./347348-bandeirantes-the-game.json) |
+| Banderas del mundo | 305062 | [305062-banderas-del-mundo.json](./305062-banderas-del-mundo.json) |
 | BandFuse: Rock Legends | 5498 | [5498-bandfuse-rock-legends.json](./5498-bandfuse-rock-legends.json) |
 | Bandido | 264322 | [264322-bandido.json](./264322-bandido.json) |
 | Bandido Rush | 348584 | [348584-bandido-rush.json](./348584-bandido-rush.json) |
@@ -8357,6 +8358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bistro Recipe | 66674 | [66674-bistro-recipe.json](./66674-bistro-recipe.json) |
 | Bisyntho | 284003 | [284003-bisyntho.json](./284003-bisyntho.json) |
 | Bit | 413076 | [413076-bit.json](./413076-bit.json) |
+| Bit & Quantum: Save the Earth! | 305085 | [305085-bit-and-quantum-save-the-earth.json](./305085-bit-and-quantum-save-the-earth.json) |
 | Bit Addiction | 277573 | [277573-bit-addiction.json](./277573-bit-addiction.json) |
 | Bit Ballers | 175557 | [175557-bit-ballers.json](./175557-bit-ballers.json) |
 | Bit Battles | 386068 | [386068-bit-battles.json](./386068-bit-battles.json) |
