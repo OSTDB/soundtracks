@@ -1595,6 +1595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Girl | 270094 | [270094-zombie-girl.json](./270094-zombie-girl.json) |
 | Zombie Girl | 417984 | [417984-zombie-girl.json](./417984-zombie-girl.json) |
 | Zombie Go | 117031 | [117031-zombie-go.json](./117031-zombie-go.json) |
+| Zombie Go Remastered | 311449 | [311449-zombie-go-remastered.json](./311449-zombie-go-remastered.json) |
 | Zombie God | 386994 | [386994-zombie-god.json](./386994-zombie-god.json) |
 | Zombie Golf | 121983 | [121983-zombie-golf.json](./121983-zombie-golf.json) |
 | Zombie Good Guy | 188788 | [188788-zombie-good-guy.json](./188788-zombie-good-guy.json) |
@@ -2026,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombified: The Text Adventure Game of the Zombie Plague Apocalypse! | 87259 | [87259-zombified-the-text-adventure-game-of-the-zombie-plague-apocalypse.json](./87259-zombified-the-text-adventure-game-of-the-zombie-plague-apocalypse.json) |
 | Zombiflux: Sleepless War | 260177 | [260177-zombiflux-sleepless-war.json](./260177-zombiflux-sleepless-war.json) |
 | Zombify Me Run | 221267 | [221267-zombify-me-run.json](./221267-zombify-me-run.json) |
+| ZombiGon | 311440 | [311440-zombigon.json](./311440-zombigon.json) |
 | Zombii Attack | 84966 | [84966-zombii-attack.json](./84966-zombii-attack.json) |
 | Zombikini PinballZ | 258886 | [258886-zombikini-pinballz.json](./258886-zombikini-pinballz.json) |
 | Zombillie | 33167 | [33167-zombillie.json](./33167-zombillie.json) |
