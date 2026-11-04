@@ -3475,6 +3475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reclaim | 405688 | [405688-reclaim.json](./405688-reclaim.json) |
 | Reclaim ! Azhe-giiwewining | 395950 | [395950-reclaim-azhe-giiwewining.json](./395950-reclaim-azhe-giiwewining.json) |
 | Reclaim Earth | 177730 | [177730-reclaim-earth.json](./177730-reclaim-earth.json) |
+| Reclaim Earth | 303934 | [303934-reclaim-earth.json](./303934-reclaim-earth.json) |
 | Reclaim the Sea | 216954 | [216954-reclaim-the-sea.json](./216954-reclaim-the-sea.json) |
 | Reclaimer | 404308 | [404308-reclaimer.json](./404308-reclaimer.json) |
 | Reclaimers | 339706 | [339706-reclaimers.json](./339706-reclaimers.json) |
@@ -4009,6 +4010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red: Flame & Fable | 402221 | [402221-red-flame-and-fable.json](./402221-red-flame-and-fable.json) |
 | Red: Pride of Eden | 193951 | [193951-red-pride-of-eden.json](./193951-red-pride-of-eden.json) |
 | RED: The Lucid Nightmare | 109677 | [109677-red-the-lucid-nightmare.json](./109677-red-the-lucid-nightmare.json) |
+| Red's Kingdom & Storm in a Teacup | 303976 | [303976-reds-kingdom-and-storm-in-a-teacup.json](./303976-reds-kingdom-and-storm-in-a-teacup.json) |
 | Red's Revenge | 273980 | [273980-reds-revenge.json](./273980-reds-revenge.json) |
 | Redact | 353761 | [353761-redact.json](./353761-redact.json) |
 | Redacted | 212214 | [212214-redacted.json](./212214-redacted.json) |
@@ -4296,6 +4298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflec Beat Plus | 60818 | [60818-reflec-beat-plus.json](./60818-reflec-beat-plus.json) |
 | Reflec Beat Volzza | 369138 | [369138-reflec-beat-volzza.json](./369138-reflec-beat-volzza.json) |
 | Reflec Beat: The Reflesia of Eternity | 140455 | [140455-reflec-beat-the-reflesia-of-eternity.json](./140455-reflec-beat-the-reflesia-of-eternity.json) |
+| Reflect | 303952 | [303952-reflect.json](./303952-reflect.json) |
 | Reflect Laser | 399670 | [399670-reflect-laser.json](./399670-reflect-laser.json) |
 | Reflect World | 41391 | [41391-reflect-world.json](./41391-reflect-world.json) |
 | Reflect-on | 157569 | [157569-reflect-on.json](./157569-reflect-on.json) |
@@ -8151,6 +8154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RNG Quest | 338865 | [338865-rng-quest.json](./338865-rng-quest.json) |
 | RNG Quest | 338866 | [338866-rng-quest.json](./338866-rng-quest.json) |
 | RNG Royale | 191532 | [191532-rng-royale.json](./191532-rng-royale.json) |
+| RnGesus Slayer | 303932 | [303932-rngesus-slayer.json](./303932-rngesus-slayer.json) |
 | RNLI Storm Force Rescue | 370398 | [370398-rnli-storm-force-rescue.json](./370398-rnli-storm-force-rescue.json) |
 | Ro | 238286 | [238286-ro.json](./238286-ro.json) |
 | Rô + Fire Race + Scrap Bolts + Milk Seller + Home Sweet Home + Rafa's World | 306552 | [306552-ro-fire-race-scrap-bolts-milk-seller-home-sweet-home-rafas-world.json](./306552-ro-fire-race-scrap-bolts-milk-seller-home-sweet-home-rafas-world.json) |
@@ -10045,6 +10049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll | 147455 | [147455-roll.json](./147455-roll.json) |
 | Roll | 312812 | [312812-roll.json](./312812-roll.json) |
 | Roll 'n Bounce | 389482 | [389482-roll-n-bounce.json](./389482-roll-n-bounce.json) |
+| Roll 'n' Watch | 303957 | [303957-roll-n-watch.json](./303957-roll-n-watch.json) |
 | Roll & Ball | 260523 | [260523-roll-and-ball.json](./260523-roll-and-ball.json) |
 | Roll & Risk | 392193 | [392193-roll-and-risk.json](./392193-roll-and-risk.json) |
 | Roll a Ball With Your Friends | 150520 | [150520-roll-a-ball-with-your-friends.json](./150520-roll-a-ball-with-your-friends.json) |
@@ -12669,6 +12674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RustNaut | 348308 | [348308-rustnaut.json](./348308-rustnaut.json) |
 | Rusts of Corruption | 307218 | [307218-rusts-of-corruption.json](./307218-rusts-of-corruption.json) |
 | Rustwalker Legends | 216935 | [216935-rustwalker-legends.json](./216935-rustwalker-legends.json) |
+| Rustwing | 302876 | [302876-rustwing.json](./302876-rustwing.json) |
 | RustX | 402753 | [402753-rustx.json](./402753-rustx.json) |
 | Rusty | 239074 | [239074-rusty.json](./239074-rusty.json) |
 | Rusty | 45975 | [45975-rusty.json](./45975-rusty.json) |
