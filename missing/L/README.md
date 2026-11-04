@@ -939,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Larcenauts | 149018 | [149018-larcenauts.json](./149018-larcenauts.json) |
 | Larcin Lazer | 169792 | [169792-larcin-lazer.json](./169792-larcin-lazer.json) |
 | Larentia | 330748 | [330748-larentia.json](./330748-larentia.json) |
+| Large PonPon | 305064 | [305064-large-ponpon.json](./305064-large-ponpon.json) |
 | Largely Legal Monstrosity | 422128 | [422128-largely-legal-monstrosity.json](./422128-largely-legal-monstrosity.json) |
 | Larger Than Light | 157017 | [157017-larger-than-light.json](./157017-larger-than-light.json) |
 | Largo | 292285 | [292285-largo.json](./292285-largo.json) |
