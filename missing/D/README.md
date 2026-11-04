@@ -8291,6 +8291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Mice | 409217 | [409217-dice-mice.json](./409217-dice-mice.json) |
 | Dice Nights | 414435 | [414435-dice-nights.json](./414435-dice-nights.json) |
 | Dice Odyssey | 390736 | [390736-dice-odyssey.json](./390736-dice-odyssey.json) |
+| Dice of Arcana | 320065 | [320065-dice-of-arcana.json](./320065-dice-of-arcana.json) |
 | Dice of Dusk | 417299 | [417299-dice-of-dusk.json](./417299-dice-of-dusk.json) |
 | Dice of Fate | 136867 | [136867-dice-of-fate.json](./136867-dice-of-fate.json) |
 | Dice of Fate | 413452 | [413452-dice-of-fate.json](./413452-dice-of-fate.json) |
@@ -17504,6 +17505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Girl Scouts | 210693 | [210693-dungeon-girl-scouts.json](./210693-dungeon-girl-scouts.json) |
 | Dungeon Glitchers VR | 182660 | [182660-dungeon-glitchers-vr.json](./182660-dungeon-glitchers-vr.json) |
 | Dungeon Golf | 244507 | [244507-dungeon-golf.json](./244507-dungeon-golf.json) |
+| Dungeon Gore: Lost Treasury | 319908 | [319908-dungeon-gore-lost-treasury.json](./319908-dungeon-gore-lost-treasury.json) |
 | Dungeon Gunner | 233391 | [233391-dungeon-gunner.json](./233391-dungeon-gunner.json) |
 | Dungeon Hack | 2529 | [2529-dungeon-hack.json](./2529-dungeon-hack.json) |
 | Dungeon Hearts DX | 85103 | [85103-dungeon-hearts-dx.json](./85103-dungeon-hearts-dx.json) |
