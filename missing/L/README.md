@@ -3295,6 +3295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemon Cake | 137111 | [137111-lemon-cake.json](./137111-lemon-cake.json) |
 | Lemon Pending | 179362 | [179362-lemon-pending.json](./179362-lemon-pending.json) |
 | Lemon Run | 192576 | [192576-lemon-run.json](./192576-lemon-run.json) |
+| Lemon Sans: The Sensational Experiance | 331770 | [331770-lemon-sans-the-sensational-experiance.json](./331770-lemon-sans-the-sensational-experiance.json) |
 | Lemon Street | 180937 | [180937-lemon-street.json](./180937-lemon-street.json) |
 | Lemonade | 366258 | [366258-lemonade.json](./366258-lemonade.json) |
 | Lemonade Apocalypse | 290965 | [290965-lemonade-apocalypse.json](./290965-lemonade-apocalypse.json) |
@@ -8499,6 +8500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love ritual | 105352 | [105352-love-ritual.json](./105352-love-ritual.json) |
 | Love Room VR | 111809 | [111809-love-room-vr.json](./111809-love-room-vr.json) |
 | Love Root Zero Kiss Kiss Labyrinth | 221733 | [221733-love-root-zero-kiss-kiss-labyrinth.json](./221733-love-root-zero-kiss-kiss-labyrinth.json) |
+| Love Season: Sharing Fantasy | 331636 | [331636-love-season-sharing-fantasy.json](./331636-love-season-sharing-fantasy.json) |
 | Love Sex & Fitness | 389649 | [389649-love-sex-and-fitness.json](./389649-love-sex-and-fitness.json) |
 | Love Sexlife | 97785 | [97785-love-sexlife.json](./97785-love-sexlife.json) |
 | Love Shore | 131561 | [131561-love-shore.json](./131561-love-shore.json) |
