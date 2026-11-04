@@ -9799,6 +9799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Catgirl Runner | 224759 | [224759-anime-catgirl-runner.json](./224759-anime-catgirl-runner.json) |
 | Anime Christmas Uni | 380395 | [380395-anime-christmas-uni.json](./380395-anime-christmas-uni.json) |
 | Anime City | 237201 | [237201-anime-city.json](./237201-anime-city.json) |
+| Anime Clicker | 337949 | [337949-anime-clicker.json](./337949-anime-clicker.json) |
 | Anime Codex: Final Pose | 405911 | [405911-anime-codex-final-pose.json](./405911-anime-codex-final-pose.json) |
 | Anime Codex: Shy Girls | 411808 | [411808-anime-codex-shy-girls.json](./411808-anime-codex-shy-girls.json) |
 | Anime Codex: Triple Pleasure | 412566 | [412566-anime-codex-triple-pleasure.json](./412566-anime-codex-triple-pleasure.json) |
@@ -9853,9 +9854,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girl Puzzles: Wakana | 297773 | [297773-anime-girl-puzzles-wakana.json](./297773-anime-girl-puzzles-wakana.json) |
 | Anime Girl Puzzles: Yui | 297772 | [297772-anime-girl-puzzles-yui.json](./297772-anime-girl-puzzles-yui.json) |
 | Anime Girls | 261367 | [261367-anime-girls.json](./261367-anime-girls.json) |
+| Anime Girls | 337950 | [337950-anime-girls.json](./337950-anime-girls.json) |
 | Anime Girls Basketball League | 309004 | [309004-anime-girls-basketball-league.json](./309004-anime-girls-basketball-league.json) |
 | Anime Girls Jigsaw Puzzles | 384007 | [384007-anime-girls-jigsaw-puzzles.json](./384007-anime-girls-jigsaw-puzzles.json) |
 | Anime Girls Military Strike | 317263 | [317263-anime-girls-military-strike.json](./317263-anime-girls-military-strike.json) |
+| Anime Girls Mirror Quest | 337951 | [337951-anime-girls-mirror-quest.json](./337951-anime-girls-mirror-quest.json) |
+| Anime Girls Mirror Quest 2 | 337952 | [337952-anime-girls-mirror-quest-2.json](./337952-anime-girls-mirror-quest-2.json) |
 | Anime Girls Trample | 379535 | [379535-anime-girls-trample.json](./379535-anime-girls-trample.json) |
 | Anime Girls vs. Soldiers | 191043 | [191043-anime-girls-vs-soldiers.json](./191043-anime-girls-vs-soldiers.json) |
 | Anime Girls: Beautiful Bride | 317881 | [317881-anime-girls-beautiful-bride.json](./317881-anime-girls-beautiful-bride.json) |
@@ -10576,6 +10580,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anthology of Fear | 120686 | [120686-anthology-of-fear.json](./120686-anthology-of-fear.json) |
 | Anthology of the Killer | 268731 | [268731-anthology-of-the-killer.json](./268731-anthology-of-the-killer.json) |
 | Antholojam 1: Golden Era of Sci-Fi | 141781 | [141781-antholojam-1-golden-era-of-sci-fi.json](./141781-antholojam-1-golden-era-of-sci-fi.json) |
+| Anthony | 337953 | [337953-anthony.json](./337953-anthony.json) |
+| Anthony the Monk | 337954 | [337954-anthony-the-monk.json](./337954-anthony-the-monk.json) |
 | Anthony's Essay | 58009 | [58009-anthonys-essay.json](./58009-anthonys-essay.json) |
 | Anthro Heat | 236405 | [236405-anthro-heat.json](./236405-anthro-heat.json) |
 | Anthropocene Epoch | 186806 | [186806-anthropocene-epoch.json](./186806-anthropocene-epoch.json) |
@@ -10735,6 +10741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antuel's Lament | 315621 | [315621-antuels-lament.json](./315621-antuels-lament.json) |
 | Antumbra | 101989 | [101989-antumbra.json](./101989-antumbra.json) |
 | Antumbra: Vile Shards | 149514 | [149514-antumbra-vile-shards.json](./149514-antumbra-vile-shards.json) |
+| Anturi | 337955 | [337955-anturi.json](./337955-anturi.json) |
 | AntVentor | 75809 | [75809-antventor.json](./75809-antventor.json) |
 | AntWar.io | 185442 | [185442-antwar-io.json](./185442-antwar-io.json) |
 | Anty | 47546 | [47546-anty.json](./47546-anty.json) |
@@ -10905,6 +10912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apartment 666 | 35083 | [35083-apartment-666.json](./35083-apartment-666.json) |
 | Apartment Complex | 362869 | [362869-apartment-complex.json](./362869-apartment-complex.json) |
 | Apartment Dream | 332462 | [332462-apartment-dream.json](./332462-apartment-dream.json) |
+| Apartment Escape | 337956 | [337956-apartment-escape.json](./337956-apartment-escape.json) |
 | Apartment Filled With Cats | 333868 | [333868-apartment-filled-with-cats.json](./333868-apartment-filled-with-cats.json) |
 | Apartment Life to Cuck and Impregnate Neighboring Busty Married Women | 98450 | [98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json](./98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json) |
 | Apartment No 129 | 294293 | [294293-apartment-no-129.json](./294293-apartment-no-129.json) |
@@ -11079,6 +11087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse | 340731 | [340731-apocalypse.json](./340731-apocalypse.json) |
 | Apocalypse Age: Destruction | 132684 | [132684-apocalypse-age-destruction.json](./132684-apocalypse-age-destruction.json) |
 | Apocalypse Approaches | 335379 | [335379-apocalypse-approaches.json](./335379-apocalypse-approaches.json) |
+| Apocalypse Carnival | 337957 | [337957-apocalypse-carnival.json](./337957-apocalypse-carnival.json) |
 | Apocalypse Clash City Free: A Cyberpunk Clan War Death Race game | 351032 | [351032-apocalypse-clash-city-free-a-cyberpunk-clan-war-death-race-game.json](./351032-apocalypse-clash-city-free-a-cyberpunk-clan-war-death-race-game.json) |
 | Apocalypse Cow | 51677 | [51677-apocalypse-cow.json](./51677-apocalypse-cow.json) |
 | Apocalypse Day: Survival Z - Craft & Build | 395648 | [395648-apocalypse-day-survival-z-craft-and-build.json](./395648-apocalypse-day-survival-z-craft-and-build.json) |
@@ -14042,6 +14051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artists of Fortune: Paint by Numbers! - Spooky Rush Ep. 5 | 191232 | [191232-artists-of-fortune-paint-by-numbers-spooky-rush-ep-5.json](./191232-artists-of-fortune-paint-by-numbers-spooky-rush-ep-5.json) |
 | Artists of Fortune: Paint by Numbers! - Spooky Rush Ep. 6 | 191238 | [191238-artists-of-fortune-paint-by-numbers-spooky-rush-ep-6.json](./191238-artists-of-fortune-paint-by-numbers-spooky-rush-ep-6.json) |
 | Artists of the World Bundle | 164792 | [164792-artists-of-the-world-bundle.json](./164792-artists-of-the-world-bundle.json) |
+| Artius: Pure Imagination | 337917 | [337917-artius-pure-imagination.json](./337917-artius-pure-imagination.json) |
 | Artizens | 36032 | [36032-artizens.json](./36032-artizens.json) |
 | Arto | 199454 | [199454-arto.json](./199454-arto.json) |
 | Artoon | 79646 | [79646-artoon.json](./79646-artoon.json) |
