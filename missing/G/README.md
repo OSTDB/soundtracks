@@ -710,6 +710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galagan's Island: Reprymian Rising | 21297 | [21297-galagans-island-reprymian-rising.json](./21297-galagans-island-reprymian-rising.json) |
 | Galagan's Island: Reprymian Rising - Metagalactic Monstrosities | 171934 | [171934-galagans-island-reprymian-rising-metagalactic-monstrosities.json](./171934-galagans-island-reprymian-rising-metagalactic-monstrosities.json) |
 | Galagi Shooter | 197342 | [197342-galagi-shooter.json](./197342-galagi-shooter.json) |
+| Galagi Shooter Ultimate Blast | 332164 | [332164-galagi-shooter-ultimate-blast.json](./332164-galagi-shooter-ultimate-blast.json) |
 | Galago | 338052 | [338052-galago.json](./338052-galago.json) |
 | Galah Galah | 228958 | [228958-galah-galah.json](./228958-galah-galah.json) |
 | Galahad | 46595 | [46595-galahad.json](./46595-galahad.json) |
