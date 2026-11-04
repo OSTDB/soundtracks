@@ -5307,6 +5307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deephome | 66693 | [66693-deephome.json](./66693-deephome.json) |
 | DeepHook | 181350 | [181350-deephook.json](./181350-deephook.json) |
 | Deeplanders | 319344 | [319344-deeplanders.json](./319344-deeplanders.json) |
+| Deeplands | 309823 | [309823-deeplands.json](./309823-deeplands.json) |
 | DeepLands | 103225 | [103225-deeplands.json](./103225-deeplands.json) |
 | DeepLight | 413729 | [413729-deeplight.json](./413729-deeplight.json) |
 | Deeply | 390113 | [390113-deeply.json](./390113-deeply.json) |
