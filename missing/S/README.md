@@ -1336,6 +1336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Shodown Enhanced | 142821 | [142821-samurai-shodown-enhanced.json](./142821-samurai-shodown-enhanced.json) |
 | Samurai Shodown II | 19986 | [19986-samurai-shodown-ii.json](./19986-samurai-shodown-ii.json) |
 | Samurai Shodown III | 19987 | [19987-samurai-shodown-iii.json](./19987-samurai-shodown-iii.json) |
+| Samurai Shodown III | 300043 | [300043-samurai-shodown-iii.json](./300043-samurai-shodown-iii.json) |
 | Samurai Shodown IV: Amakusa's Revenge | 19988 | [19988-samurai-shodown-iv-amakusas-revenge.json](./19988-samurai-shodown-iv-amakusas-revenge.json) |
 | Samurai Shodown NeoGeo Collection | 116809 | [116809-samurai-shodown-neogeo-collection.json](./116809-samurai-shodown-neogeo-collection.json) |
 | Samurai Shodown NeoGeo Collection: Limited Edition Pack | 167069 | [167069-samurai-shodown-neogeo-collection-limited-edition-pack.json](./167069-samurai-shodown-neogeo-collection-limited-edition-pack.json) |
@@ -14120,6 +14121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smite Rivals | 26693 | [26693-smite-rivals.json](./26693-smite-rivals.json) |
 | Smite Tactics | 25085 | [25085-smite-tactics.json](./25085-smite-tactics.json) |
 | Smite: Digital Deluxe Edition 2021 | 164843 | [164843-smite-digital-deluxe-edition-2021.json](./164843-smite-digital-deluxe-edition-2021.json) |
+| Smiterino | 300050 | [300050-smiterino.json](./300050-smiterino.json) |
 | Smith & Dungeon | 361801 | [361801-smith-and-dungeon.json](./361801-smith-and-dungeon.json) |
 | Smith and Winston | 111093 | [111093-smith-and-winston.json](./111093-smith-and-winston.json) |
 | Smith's Chronicles | 358868 | [358868-smiths-chronicles.json](./358868-smiths-chronicles.json) |
@@ -19054,7 +19056,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -22845,6 +22846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squishmallows FIFA World Cup Happy Meal | 406244 | [406244-squishmallows-fifa-world-cup-happy-meal.json](./406244-squishmallows-fifa-world-cup-happy-meal.json) |
 | Squishy Bird | 373241 | [373241-squishy-bird.json](./373241-squishy-bird.json) |
 | Squishy League | 407883 | [407883-squishy-league.json](./407883-squishy-league.json) |
+| Squishy Pastries | 300052 | [300052-squishy-pastries.json](./300052-squishy-pastries.json) |
 | Squishy Tank | 68088 | [68088-squishy-tank.json](./68088-squishy-tank.json) |
 | Squishy the Suicidal Pig | 9874 | [9874-squishy-the-suicidal-pig.json](./9874-squishy-the-suicidal-pig.json) |
 | Squishys Revenge | 256197 | [256197-squishys-revenge.json](./256197-squishys-revenge.json) |
@@ -26812,6 +26814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Therapy | 181620 | [181620-strange-therapy.json](./181620-strange-therapy.json) |
 | Strange Things | 75775 | [75775-strange-things.json](./75775-strange-things.json) |
 | Strange Toilet | 294975 | [294975-strange-toilet.json](./294975-strange-toilet.json) |
+| Strange Toilet: The Forgotten Shit | 300051 | [300051-strange-toilet-the-forgotten-shit.json](./300051-strange-toilet-the-forgotten-shit.json) |
 | Strange Winds | 383637 | [383637-strange-winds.json](./383637-strange-winds.json) |
 | Strange World | 274966 | [274966-strange-world.json](./274966-strange-world.json) |
 | Strange World | 311937 | [311937-strange-world.json](./311937-strange-world.json) |
@@ -29038,6 +29041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Games II | 22524 | [22524-summer-games-ii.json](./22524-summer-games-ii.json) |
 | Summer Games II | 297508 | [297508-summer-games-ii.json](./297508-summer-games-ii.json) |
 | Summer Games II | 298834 | [298834-summer-games-ii.json](./298834-summer-games-ii.json) |
+| Summer Games II | 300243 | [300243-summer-games-ii.json](./300243-summer-games-ii.json) |
 | Summer Garden | 82183 | [82183-summer-garden.json](./82183-summer-garden.json) |
 | Summer Haze/Glory Days | 309718 | [309718-summer-haze-glory-days.json](./309718-summer-haze-glory-days.json) |
 | Summer Heat | 278092 | [278092-summer-heat.json](./278092-summer-heat.json) |
