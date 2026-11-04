@@ -5377,6 +5377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sense: A Cyberpunk Ghost Story - Limited Edition | 166263 | [166263-sense-a-cyberpunk-ghost-story-limited-edition.json](./166263-sense-a-cyberpunk-ghost-story-limited-edition.json) |
 | Sense: The Game | 358430 | [358430-sense-the-game.json](./358430-sense-the-game.json) |
 | Sensei, Issho ni Kitekuremasu ka? | 285876 | [285876-sensei-issho-ni-kitekuremasu-ka.json](./285876-sensei-issho-ni-kitekuremasu-ka.json) |
+| Sensei! I Like You So Much! | 303953 | [303953-sensei-i-like-you-so-much.json](./303953-sensei-i-like-you-so-much.json) |
 | Senseless | 312725 | [312725-senseless.json](./312725-senseless.json) |
 | Senses in Decay | 259432 | [259432-senses-in-decay.json](./259432-senses-in-decay.json) |
 | Senses: Midnight | 153980 | [153980-senses-midnight.json](./153980-senses-midnight.json) |
@@ -5488,6 +5489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentry Knight 2 | 102032 | [102032-sentry-knight-2.json](./102032-sentry-knight-2.json) |
 | Sentry Knight Tactics | 24824 | [24824-sentry-knight-tactics.json](./24824-sentry-knight-tactics.json) |
 | Sentry Paragon | 238921 | [238921-sentry-paragon.json](./238921-sentry-paragon.json) |
+| Sentry System | 303956 | [303956-sentry-system.json](./303956-sentry-system.json) |
 | Sentry: Obelisk of Dawn | 152898 | [152898-sentry-obelisk-of-dawn.json](./152898-sentry-obelisk-of-dawn.json) |
 | Senua | 405072 | [405072-senua.json](./405072-senua.json) |
 | Senya and Oscar 2 | 281276 | [281276-senya-and-oscar-2.json](./281276-senya-and-oscar-2.json) |
@@ -16347,6 +16349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somber Echoes | 293058 | [293058-somber-echoes.json](./293058-somber-echoes.json) |
 | Somber: Card Game | 185431 | [185431-somber-card-game.json](./185431-somber-card-game.json) |
 | Sombie | 372399 | [372399-sombie.json](./372399-sombie.json) |
+| Sombionic | 303941 | [303941-sombionic.json](./303941-sombionic.json) |
 | Sombra | 311212 | [311212-sombra.json](./311212-sombra.json) |
 | Sombras | 261304 | [261304-sombras.json](./261304-sombras.json) |
 | Sombras: Negative Frames | 406115 | [406115-sombras-negative-frames.json](./406115-sombras-negative-frames.json) |
@@ -23826,6 +23829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Battlefront II: The Last Jedi Season | 76886 | [76886-star-wars-battlefront-ii-the-last-jedi-season.json](./76886-star-wars-battlefront-ii-the-last-jedi-season.json) |
 | Star Wars Battlefront: Battle of Jakku | 23293 | [23293-star-wars-battlefront-battle-of-jakku.json](./23293-star-wars-battlefront-battle-of-jakku.json) |
 | Star Wars Battlefront: Bespin | 19869 | [19869-star-wars-battlefront-bespin.json](./19869-star-wars-battlefront-bespin.json) |
+| Star Wars Battlefront: Companion | 303966 | [303966-star-wars-battlefront-companion.json](./303966-star-wars-battlefront-companion.json) |
 | Star Wars Battlefront: Death Star | 20470 | [20470-star-wars-battlefront-death-star.json](./20470-star-wars-battlefront-death-star.json) |
 | Star Wars Battlefront: Hoth Bundle | 115714 | [115714-star-wars-battlefront-hoth-bundle.json](./115714-star-wars-battlefront-hoth-bundle.json) |
 | Star Wars Battlefront: Outer Rim | 18161 | [18161-star-wars-battlefront-outer-rim.json](./18161-star-wars-battlefront-outer-rim.json) |
@@ -30410,6 +30414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Big Cats 2 | 199744 | [199744-super-jigsaw-puzzle-generations-big-cats-2.json](./199744-super-jigsaw-puzzle-generations-big-cats-2.json) |
 | Super Jigsaw Puzzle: Generations - Big Cats Puzzles | 155620 | [155620-super-jigsaw-puzzle-generations-big-cats-puzzles.json](./155620-super-jigsaw-puzzle-generations-big-cats-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Bikes Puzzles | 155631 | [155631-super-jigsaw-puzzle-generations-bikes-puzzles.json](./155631-super-jigsaw-puzzle-generations-bikes-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Birds 2 | 303657 | [303657-super-jigsaw-puzzle-generations-birds-2.json](./303657-super-jigsaw-puzzle-generations-birds-2.json) |
 | Super Jigsaw Puzzle: Generations - Birds Puzzles | 155628 | [155628-super-jigsaw-puzzle-generations-birds-puzzles.json](./155628-super-jigsaw-puzzle-generations-birds-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Boats Puzzles | 155607 | [155607-super-jigsaw-puzzle-generations-boats-puzzles.json](./155607-super-jigsaw-puzzle-generations-boats-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Brazil Puzzles | 155596 | [155596-super-jigsaw-puzzle-generations-brazil-puzzles.json](./155596-super-jigsaw-puzzle-generations-brazil-puzzles.json) |
@@ -30465,6 +30470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Monkeys & Apes Puzzles | 353462 | [353462-super-jigsaw-puzzle-generations-monkeys-and-apes-puzzles.json](./353462-super-jigsaw-puzzle-generations-monkeys-and-apes-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Motorbikes Puzzles | 155622 | [155622-super-jigsaw-puzzle-generations-motorbikes-puzzles.json](./155622-super-jigsaw-puzzle-generations-motorbikes-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Mushrooms | 162229 | [162229-super-jigsaw-puzzle-generations-mushrooms.json](./162229-super-jigsaw-puzzle-generations-mushrooms.json) |
+| Super Jigsaw Puzzle: Generations - Music | 303658 | [303658-super-jigsaw-puzzle-generations-music.json](./303658-super-jigsaw-puzzle-generations-music.json) |
 | Super Jigsaw Puzzle: Generations - New York Puzzles | 155602 | [155602-super-jigsaw-puzzle-generations-new-york-puzzles.json](./155602-super-jigsaw-puzzle-generations-new-york-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - New Zealand | 155578 | [155578-super-jigsaw-puzzle-generations-new-zealand.json](./155578-super-jigsaw-puzzle-generations-new-zealand.json) |
 | Super Jigsaw Puzzle: Generations - Norway | 186491 | [186491-super-jigsaw-puzzle-generations-norway.json](./186491-super-jigsaw-puzzle-generations-norway.json) |
@@ -30484,6 +30490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Random Puzzles 2 | 155636 | [155636-super-jigsaw-puzzle-generations-random-puzzles-2.json](./155636-super-jigsaw-puzzle-generations-random-puzzles-2.json) |
 | Super Jigsaw Puzzle: Generations - Random Puzzles 3 | 155645 | [155645-super-jigsaw-puzzle-generations-random-puzzles-3.json](./155645-super-jigsaw-puzzle-generations-random-puzzles-3.json) |
 | Super Jigsaw Puzzle: Generations - Random Puzzles 4 | 195276 | [195276-super-jigsaw-puzzle-generations-random-puzzles-4.json](./195276-super-jigsaw-puzzle-generations-random-puzzles-4.json) |
+| Super Jigsaw Puzzle: Generations - Red Things | 303659 | [303659-super-jigsaw-puzzle-generations-red-things.json](./303659-super-jigsaw-puzzle-generations-red-things.json) |
 | Super Jigsaw Puzzle: Generations - Reptiles | 155638 | [155638-super-jigsaw-puzzle-generations-reptiles.json](./155638-super-jigsaw-puzzle-generations-reptiles.json) |
 | Super Jigsaw Puzzle: Generations - Rodents | 155639 | [155639-super-jigsaw-puzzle-generations-rodents.json](./155639-super-jigsaw-puzzle-generations-rodents.json) |
 | Super Jigsaw Puzzle: Generations - Rome | 354162 | [354162-super-jigsaw-puzzle-generations-rome.json](./354162-super-jigsaw-puzzle-generations-rome.json) |
@@ -33280,6 +33287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive in a little bit | 117698 | [117698-survive-in-a-little-bit.json](./117698-survive-in-a-little-bit.json) |
 | Survive in Angaria | 90125 | [90125-survive-in-angaria.json](./90125-survive-in-angaria.json) |
 | Survive in Angaria TWO | 108337 | [108337-survive-in-angaria-two.json](./108337-survive-in-angaria-two.json) |
+| Survive In Ankara | 303938 | [303938-survive-in-ankara.json](./303938-survive-in-ankara.json) |
 | Survive In Russia | 129631 | [129631-survive-in-russia.json](./129631-survive-in-russia.json) |
 | Survive in Space | 32707 | [32707-survive-in-space.json](./32707-survive-in-space.json) |
 | Survive In Strange World | 288810 | [288810-survive-in-strange-world.json](./288810-survive-in-strange-world.json) |
