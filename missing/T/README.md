@@ -10681,6 +10681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredible Adventures of Super Panda | 118783 | [118783-the-incredible-adventures-of-super-panda.json](./118783-the-incredible-adventures-of-super-panda.json) |
 | The Incredible Adventures of Van Helsing II | 6074 | [6074-the-incredible-adventures-of-van-helsing-ii.json](./6074-the-incredible-adventures-of-van-helsing-ii.json) |
 | The Incredible Adventures of Van Helsing II: Complete Pack | 223550 | [223550-the-incredible-adventures-of-van-helsing-ii-complete-pack.json](./223550-the-incredible-adventures-of-van-helsing-ii-complete-pack.json) |
+| The Incredible Adventures of Van Helsing II: Extended Edition | 339060 | [339060-the-incredible-adventures-of-van-helsing-ii-extended-edition.json](./339060-the-incredible-adventures-of-van-helsing-ii-extended-edition.json) |
 | The Incredible Adventures of Van Helsing II: Ink Hunt | 10969 | [10969-the-incredible-adventures-of-van-helsing-ii-ink-hunt.json](./10969-the-incredible-adventures-of-van-helsing-ii-ink-hunt.json) |
 | The Incredible Adventures of Van Helsing II: Pigasus | 10970 | [10970-the-incredible-adventures-of-van-helsing-ii-pigasus.json](./10970-the-incredible-adventures-of-van-helsing-ii-pigasus.json) |
 | The Incredible Adventures of Van Helsing III | 11703 | [11703-the-incredible-adventures-of-van-helsing-iii.json](./11703-the-incredible-adventures-of-van-helsing-iii.json) |
@@ -28823,6 +28824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traumatarium | 268457 | [268457-traumatarium.json](./268457-traumatarium.json) |
 | Traumatarium: Penitent | 307745 | [307745-traumatarium-penitent.json](./307745-traumatarium-penitent.json) |
 | Traumatic Syndrome | 132547 | [132547-traumatic-syndrome.json](./132547-traumatic-syndrome.json) |
+| Traumatic Tick Tock Tower | 339024 | [339024-traumatic-tick-tock-tower.json](./339024-traumatic-tick-tock-tower.json) |
 | Träumerei: Chapter 0 | 280929 | [280929-traumerei-chapter-0.json](./280929-traumerei-chapter-0.json) |
 | Träumerei: Chapter 1 | 137355 | [137355-traumerei-chapter-1.json](./137355-traumerei-chapter-1.json) |
 | Träumerei: Chapter 2 | 137465 | [137465-traumerei-chapter-2.json](./137465-traumerei-chapter-2.json) |
@@ -31601,6 +31603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Cobra | 384136 | [384136-twin-cobra.json](./384136-twin-cobra.json) |
 | Twin Cobra | 8189 | [8189-twin-cobra.json](./8189-twin-cobra.json) |
 | Twin Cobra II | 39297 | [39297-twin-cobra-ii.json](./39297-twin-cobra-ii.json) |
+| Twin Colliders | 339058 | [339058-twin-colliders.json](./339058-twin-colliders.json) |
 | Twin Copters | 287567 | [287567-twin-copters.json](./287567-twin-copters.json) |
 | Twin Coves | 169315 | [169315-twin-coves.json](./169315-twin-coves.json) |
 | Twin Dragon | 2536 | [2536-twin-dragon.json](./2536-twin-dragon.json) |
