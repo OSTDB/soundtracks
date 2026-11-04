@@ -629,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yīxiàxià Míngyóu Dàquán: Jīngdiǎn Chóngwēn | 408609 | [408609-yixiaxia-mingyou-daquan-jingdian-chongwen.json](./408609-yixiaxia-mingyou-daquan-jingdian-chongwen.json) |
 | Yīxiàxià Míngyóu Dàquán: Qīngsōng Xiūxián | 408615 | [408615-yixiaxia-mingyou-daquan-qingsong-xiuxian.json](./408615-yixiaxia-mingyou-daquan-qingsong-xiuxian.json) |
 | Yīxiàxià Míngyóu Dàquán: Zhìyǒng Shuāngquán | 408617 | [408617-yixiaxia-mingyou-daquan-zhiyong-shuangquan.json](./408617-yixiaxia-mingyou-daquan-zhiyong-shuangquan.json) |
+| Yixin | 312504 | [312504-yixin.json](./312504-yixin.json) |
 | YiYi | 368018 | [368018-yiyi.json](./368018-yiyi.json) |
 | Yīzìqiānjīn | 386966 | [386966-yiziqianjin.json](./386966-yiziqianjin.json) |
 | YKnytt | 408144 | [408144-yknytt.json](./408144-yknytt.json) |
@@ -750,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yohane the Parhelion: Additional Character Pack Vol.2 "Chika & Ruby & You" | 306547 | [306547-yohane-the-parhelion-additional-character-pack-vol-2-chika-and-ruby-and-you.json](./306547-yohane-the-parhelion-additional-character-pack-vol-2-chika-and-ruby-and-you.json) |
 | Yohane the Parhelion: Additional character pack vol.3 "Riko & Mari + Yohane" | 315494 | [315494-yohane-the-parhelion-additional-character-pack-vol-3-riko-and-mari-yohane.json](./315494-yohane-the-parhelion-additional-character-pack-vol-3-riko-and-mari-yohane.json) |
 | Yohane the Parhelion: Change set "Beach! in Numazu!!" | 310471 | [310471-yohane-the-parhelion-change-set-beach-in-numazu.json](./310471-yohane-the-parhelion-change-set-beach-in-numazu.json) |
+| Yohane the Parhelion: Costume "Delta Replica" | 312505 | [312505-yohane-the-parhelion-costume-delta-replica.json](./312505-yohane-the-parhelion-costume-delta-replica.json) |
 | Yohane the Parhelion: Costume "Fluffy Lailaps" | 324495 | [324495-yohane-the-parhelion-costume-fluffy-lailaps.json](./324495-yohane-the-parhelion-costume-fluffy-lailaps.json) |
 | Yohane the Parhelion: Costume "Forever U & I" | 306197 | [306197-yohane-the-parhelion-costume-forever-u-and-i.json](./306197-yohane-the-parhelion-costume-forever-u-and-i.json) |
 | Yohane the Parhelion: Costume "Holy Knight" | 316223 | [316223-yohane-the-parhelion-costume-holy-knight.json](./316223-yohane-the-parhelion-costume-holy-knight.json) |
