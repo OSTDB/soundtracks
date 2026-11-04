@@ -3641,6 +3641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Keeper | 312187 | [312187-ghost-keeper.json](./312187-ghost-keeper.json) |
 | Ghost Killer | 101398 | [101398-ghost-killer.json](./101398-ghost-killer.json) |
 | Ghost Killers: The Revenge of the Sucker-Fun | 235605 | [235605-ghost-killers-the-revenge-of-the-sucker-fun.json](./235605-ghost-killers-the-revenge-of-the-sucker-fun.json) |
+| Ghost Kitchen | 337920 | [337920-ghost-kitchen.json](./337920-ghost-kitchen.json) |
 | Ghost Land | 120586 | [120586-ghost-land.json](./120586-ghost-land.json) |
 | Ghost legend | 289251 | [289251-ghost-legend.json](./289251-ghost-legend.json) |
 | Ghost Light | 310020 | [310020-ghost-light.json](./310020-ghost-light.json) |
@@ -4089,6 +4090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giften | 77139 | [77139-giften.json](./77139-giften.json) |
 | Gifter | 183786 | [183786-gifter.json](./183786-gifter.json) |
 | Giftpia | 3931 | [3931-giftpia.json](./3931-giftpia.json) |
+| Giftquest | 337947 | [337947-giftquest.json](./337947-giftquest.json) |
 | Gifts from Arthur | 202365 | [202365-gifts-from-arthur.json](./202365-gifts-from-arthur.json) |
 | Gifts, Please | 394430 | [394430-gifts-please.json](./394430-gifts-please.json) |
 | Giftscop | 209782 | [209782-giftscop.json](./209782-giftscop.json) |
@@ -8708,6 +8710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grejsimojs | 287305 | [287305-grejsimojs.json](./287305-grejsimojs.json) |
 | Grell and Fella | 108113 | [108113-grell-and-fella.json](./108113-grell-and-fella.json) |
 | Gremlin Collection 1 | 185977 | [185977-gremlin-collection-1.json](./185977-gremlin-collection-1.json) |
+| Gremlin Collection 2 | 337912 | [337912-gremlin-collection-2.json](./337912-gremlin-collection-2.json) |
 | Gremlin Invasion: Survivor | 35724 | [35724-gremlin-invasion-survivor.json](./35724-gremlin-invasion-survivor.json) |
 | Gremlins | 25673 | [25673-gremlins.json](./25673-gremlins.json) |
 | Gremlins 2: The New Batch | 119197 | [119197-gremlins-2-the-new-batch.json](./119197-gremlins-2-the-new-batch.json) |
