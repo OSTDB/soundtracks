@@ -2415,6 +2415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Harvest | 233380 | [233380-farm-harvest.json](./233380-farm-harvest.json) |
 | Farm Heroes Saga | 86962 | [86962-farm-heroes-saga.json](./86962-farm-heroes-saga.json) |
 | Farm Heroes Super Saga | 101079 | [101079-farm-heroes-super-saga.json](./101079-farm-heroes-super-saga.json) |
+| Farm House Night | 323630 | [323630-farm-house-night.json](./323630-farm-house-night.json) |
 | Farm Idle Game | 371738 | [371738-farm-idle-game.json](./371738-farm-idle-game.json) |
 | Farm in Another World | 236357 | [236357-farm-in-another-world.json](./236357-farm-in-another-world.json) |
 | Farm Invader | 360883 | [360883-farm-invader.json](./360883-farm-invader.json) |
