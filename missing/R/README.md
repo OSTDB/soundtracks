@@ -8767,6 +8767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Master | 28788 | [28788-robot-master.json](./28788-robot-master.json) |
 | Robot Mil | 387341 | [387341-robot-mil.json](./387341-robot-mil.json) |
 | Robot Multitool | 293868 | [293868-robot-multitool.json](./293868-robot-multitool.json) |
+| Robot Nest Escape | 315737 | [315737-robot-nest-escape.json](./315737-robot-nest-escape.json) |
 | Robot Odyssey | 73313 | [73313-robot-odyssey.json](./73313-robot-odyssey.json) |
 | Robot Paradise VR | 133453 | [133453-robot-paradise-vr.json](./133453-robot-paradise-vr.json) |
 | Robot Pirates | 28042 | [28042-robot-pirates.json](./28042-robot-pirates.json) |
@@ -9891,6 +9892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguebound Pirates | 365092 | [365092-roguebound-pirates.json](./365092-roguebound-pirates.json) |
 | Roguebreaker | 103413 | [103413-roguebreaker.json](./103413-roguebreaker.json) |
 | RogueCards | 311620 | [311620-roguecards.json](./311620-roguecards.json) |
+| Roguecraft | 315735 | [315735-roguecraft.json](./315735-roguecraft.json) |
 | RogueCraft | 345812 | [345812-roguecraft.json](./345812-roguecraft.json) |
 | Roguecraft GB | 391265 | [391265-roguecraft-gb.json](./391265-roguecraft-gb.json) |
 | RogueCraft Squadron | 56507 | [56507-roguecraft-squadron.json](./56507-roguecraft-squadron.json) |
