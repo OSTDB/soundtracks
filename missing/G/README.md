@@ -10059,7 +10059,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty | 215389 | [215389-guilty.json](./215389-guilty.json) |
 | Guilty | 7839 | [7839-guilty.json](./7839-guilty.json) |
 | Guilty as Charged! | 394468 | [394468-guilty-as-charged.json](./394468-guilty-as-charged.json) |
-| Guilty as Sock! | 330016 | [330016-guilty-as-sock.json](./330016-guilty-as-sock.json) |
 | Guilty Bastards | 84299 | [84299-guilty-bastards.json](./84299-guilty-bastards.json) |
 | Guilty Cradle | 395239 | [395239-guilty-cradle.json](./395239-guilty-cradle.json) |
 | Guilty Crown | 208919 | [208919-guilty-crown.json](./208919-guilty-crown.json) |
