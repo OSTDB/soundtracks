@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .If All The Lonely Nights. | 305724 | [305724-if-all-the-lonely-nights.json](./305724-if-all-the-lonely-nights.json) |
 | .kkrieger: Chapter 1 | 94683 | [94683-kkrieger-chapter-1.json](./94683-kkrieger-chapter-1.json) |
 | .Noon. | 58144 | [58144-noon.json](./58144-noon.json) |
+| .Redrum | 319902 | [319902-redrum.json](./319902-redrum.json) |
 | .Script | 180795 | [180795-script.json](./180795-script.json) |
 | '83 | 116194 | [116194-83.json](./116194-83.json) |
 | '88 Games | 39329 | [39329-88-games.json](./39329-88-games.json) |
@@ -3296,6 +3297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 Classic Card & Board Games: No. 2 | 15585 | [15585-9-classic-card-and-board-games-no-2.json](./15585-9-classic-card-and-board-games-no-2.json) |
 | 9 Clues 2: The Ward | 35265 | [35265-9-clues-2-the-ward.json](./35265-9-clues-2-the-ward.json) |
 | 9 Clues: The Secret of Serpent Creek | 17143 | [17143-9-clues-the-secret-of-serpent-creek.json](./17143-9-clues-the-secret-of-serpent-creek.json) |
+| 9 Days | 319921 | [319921-9-days.json](./319921-9-days.json) |
 | 9 Dystricts | 301036 | [301036-9-dystricts.json](./301036-9-dystricts.json) |
 | 9 Elements | 257474 | [257474-9-elements.json](./257474-9-elements.json) |
 | 9 Empires | 27735 | [27735-9-empires.json](./27735-9-empires.json) |
