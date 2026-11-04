@@ -5212,6 +5212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space 7 | 308881 | [308881-deep-space-7.json](./308881-deep-space-7.json) |
 | Deep Space Airships | 176322 | [176322-deep-space-airships.json](./176322-deep-space-airships.json) |
 | Deep Space Anomaly | 113847 | [113847-deep-space-anomaly.json](./113847-deep-space-anomaly.json) |
+| Deep Space Armada | 317763 | [317763-deep-space-armada.json](./317763-deep-space-armada.json) |
 | Deep Space Banana | 130217 | [130217-deep-space-banana.json](./130217-deep-space-banana.json) |
 | Deep Space Battle Simulator | 119616 | [119616-deep-space-battle-simulator.json](./119616-deep-space-battle-simulator.json) |
 | Deep Space Bellhop | 339652 | [339652-deep-space-bellhop.json](./339652-deep-space-bellhop.json) |
@@ -7540,6 +7541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Mind Training: Mystery Choices | 409666 | [409666-detective-mind-training-mystery-choices.json](./409666-detective-mind-training-mystery-choices.json) |
 | Detective Mio | 174801 | [174801-detective-mio.json](./174801-detective-mio.json) |
 | Detective Mouse | 278865 | [278865-detective-mouse.json](./278865-detective-mouse.json) |
+| Detective Nekko | 317760 | [317760-detective-nekko.json](./317760-detective-nekko.json) |
 | Detective Noir | 29608 | [29608-detective-noir.json](./29608-detective-noir.json) |
 | Detective Notes: Lighthouse Mystery Solitaire | 172384 | [172384-detective-notes-lighthouse-mystery-solitaire.json](./172384-detective-notes-lighthouse-mystery-solitaire.json) |
 | Detective Novels Bundle | 125129 | [125129-detective-novels-bundle.json](./125129-detective-novels-bundle.json) |
@@ -11475,6 +11477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Anomaly | 166457 | [166457-doki-doki-anomaly.json](./166457-doki-doki-anomaly.json) |
 | Doki Doki Another Moment With You | 333604 | [333604-doki-doki-another-moment-with-you.json](./333604-doki-doki-another-moment-with-you.json) |
 | Doki Doki Another Round | 334267 | [334267-doki-doki-another-round.json](./334267-doki-doki-another-round.json) |
+| Doki Doki Blue Skies | 317770 | [317770-doki-doki-blue-skies.json](./317770-doki-doki-blue-skies.json) |
 | Doki Doki Brazilian Club | 327644 | [327644-doki-doki-brazilian-club.json](./327644-doki-doki-brazilian-club.json) |
 | Doki Doki Brazilian Club Puts! | 332837 | [332837-doki-doki-brazilian-club-puts.json](./332837-doki-doki-brazilian-club-puts.json) |
 | Doki Doki But an Old Dog Tries To Learn New Tricks and The Literature Club Tries to Help It: A Dog Story | 334280 | [334280-doki-doki-but-an-old-dog-tries-to-learn-new-tricks-and-the-literature-club-tries-to-help-it-a-dog-story.json](./334280-doki-doki-but-an-old-dog-tries-to-learn-new-tricks-and-the-literature-club-tries-to-help-it-a-dog-story.json) |
