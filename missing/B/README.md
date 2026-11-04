@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Surreality | 226241 | [226241-backrooms-surreality.json](./226241-backrooms-surreality.json) |
 | Backrooms: The Deep Dark | 407814 | [407814-backrooms-the-deep-dark.json](./407814-backrooms-the-deep-dark.json) |
 | Backrooms: The Game | 231587 | [231587-backrooms-the-game.json](./231587-backrooms-the-game.json) |
+| Backrooms: The Labyrinth | 309802 | [309802-backrooms-the-labyrinth.json](./309802-backrooms-the-labyrinth.json) |
 | Backrooms: The Lost Circus | 335054 | [335054-backrooms-the-lost-circus.json](./335054-backrooms-the-lost-circus.json) |
 | Backrooms: The Next Level | 353784 | [353784-backrooms-the-next-level.json](./353784-backrooms-the-next-level.json) |
 | Backrooms: The Old Watcher | 407412 | [407412-backrooms-the-old-watcher.json](./407412-backrooms-the-old-watcher.json) |
@@ -945,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5819,6 +5821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before Exit: Gas Station | 349038 | [349038-before-exit-gas-station.json](./349038-before-exit-gas-station.json) |
 | Before Exit: Gas Station - Daylight DLC | 378305 | [378305-before-exit-gas-station-daylight-dlc.json](./378305-before-exit-gas-station-daylight-dlc.json) |
 | Before Exit: Gas Station - Midnight DLC | 378304 | [378304-before-exit-gas-station-midnight-dlc.json](./378304-before-exit-gas-station-midnight-dlc.json) |
+| Before Exit: Supermarket | 309836 | [309836-before-exit-supermarket.json](./309836-before-exit-supermarket.json) |
 | Before Exit: Supermarket + Fig. bundle | 339067 | [339067-before-exit-supermarket-fig-bundle.json](./339067-before-exit-supermarket-fig-bundle.json) |
 | Before Exit: Supermarket + There's a Gun in the Office bundle | 339068 | [339068-before-exit-supermarket-theres-a-gun-in-the-office-bundle.json](./339068-before-exit-supermarket-theres-a-gun-in-the-office-bundle.json) |
 | Before Fate | 205248 | [205248-before-fate.json](./205248-before-fate.json) |
