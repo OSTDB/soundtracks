@@ -1978,6 +1978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garry's worst fear | 220788 | [220788-garrys-worst-fear.json](./220788-garrys-worst-fear.json) |
 | Garshasp: Temple of the Dragon | 16247 | [16247-garshasp-temple-of-the-dragon.json](./16247-garshasp-temple-of-the-dragon.json) |
 | Garshasp: The Monster Slayer | 3279 | [3279-garshasp-the-monster-slayer.json](./3279-garshasp-the-monster-slayer.json) |
+| Garten of Banban 1 + 2 + 3 + 4 + 6 + 7 | 328730 | [328730-garten-of-banban-1-2-3-4-6-7.json](./328730-garten-of-banban-1-2-3-4-6-7.json) |
 | Garten of Banban 4 | 248696 | [248696-garten-of-banban-4.json](./248696-garten-of-banban-4.json) |
 | Garten of Banban 5 | 261134 | [261134-garten-of-banban-5.json](./261134-garten-of-banban-5.json) |
 | Garten of Banban 6 | 261135 | [261135-garten-of-banban-6.json](./261135-garten-of-banban-6.json) |
@@ -5309,8 +5310,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Kart Challenge | 140986 | [140986-go-kart-challenge.json](./140986-go-kart-challenge.json) |
 | Go Kart Go! Ultra! | 176208 | [176208-go-kart-go-ultra.json](./176208-go-kart-go-ultra.json) |
 | Go Kart Island | 369864 | [369864-go-kart-island.json](./369864-go-kart-island.json) |
+| Go Kart Mania: Deluxe Edition | 328760 | [328760-go-kart-mania-deluxe-edition.json](./328760-go-kart-mania-deluxe-edition.json) |
 | Go Kart Mania: Discovery Edition | 332509 | [332509-go-kart-mania-discovery-edition.json](./332509-go-kart-mania-discovery-edition.json) |
+| Go Kart Mania: Extended Edition | 328761 | [328761-go-kart-mania-extended-edition.json](./328761-go-kart-mania-extended-edition.json) |
 | Go Kart Mania: Premium Edition | 317255 | [317255-go-kart-mania-premium-edition.json](./317255-go-kart-mania-premium-edition.json) |
+| Go Kart Mania: Prime Edition | 328762 | [328762-go-kart-mania-prime-edition.json](./328762-go-kart-mania-prime-edition.json) |
 | Go Kart Rally | 66944 | [66944-go-kart-rally.json](./66944-go-kart-rally.json) |
 | Go Kart Safari | 175190 | [175190-go-kart-safari.json](./175190-go-kart-safari.json) |
 | Go Karting Outdoor | 193719 | [193719-go-karting-outdoor.json](./193719-go-karting-outdoor.json) |
