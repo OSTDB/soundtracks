@@ -4760,6 +4760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caverns of Mars: Recharged | 233624 | [233624-caverns-of-mars-recharged.json](./233624-caverns-of-mars-recharged.json) |
 | Caverns of Minos | 22681 | [22681-caverns-of-minos.json](./22681-caverns-of-minos.json) |
 | Caverns of the Lost Miner | 391799 | [391799-caverns-of-the-lost-miner.json](./391799-caverns-of-the-lost-miner.json) |
+| Caverns of the Molten God | 335020 | [335020-caverns-of-the-molten-god.json](./335020-caverns-of-the-molten-god.json) |
 | Caverns of the Snow Witch | 17871 | [17871-caverns-of-the-snow-witch.json](./17871-caverns-of-the-snow-witch.json) |
 | Caverns of Titan | 47550 | [47550-caverns-of-titan.json](./47550-caverns-of-titan.json) |
 | Caverns of Toros | 226750 | [226750-caverns-of-toros.json](./226750-caverns-of-toros.json) |
@@ -13165,6 +13166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Constantine | 236004 | [236004-constantine.json](./236004-constantine.json) |
 | Constantine | 5787 | [5787-constantine.json](./5787-constantine.json) |
 | Constantine Scores | 328420 | [328420-constantine-scores.json](./328420-constantine-scores.json) |
+| Constella | 335038 | [335038-constella.json](./335038-constella.json) |
 | Constellar | 175062 | [175062-constellar.json](./175062-constellar.json) |
 | Constellar | 380082 | [380082-constellar.json](./380082-constellar.json) |
 | Constellation Courier | 309127 | [309127-constellation-courier.json](./309127-constellation-courier.json) |
@@ -14002,6 +14004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core Fault | 240952 | [240952-core-fault.json](./240952-core-fault.json) |
 | Core Hustlers | 369034 | [369034-core-hustlers.json](./369034-core-hustlers.json) |
 | Core Keeper | 152127 | [152127-core-keeper.json](./152127-core-keeper.json) |
+| Core Keeper: Bags & Blasts | 335161 | [335161-core-keeper-bags-and-blasts.json](./335161-core-keeper-bags-and-blasts.json) |
 | Core Keeper: Shimmering Frontier | 270197 | [270197-core-keeper-shimmering-frontier.json](./270197-core-keeper-shimmering-frontier.json) |
 | Core Lords | 245889 | [245889-core-lords.json](./245889-core-lords.json) |
 | Core Masters | 62771 | [62771-core-masters.json](./62771-core-masters.json) |
@@ -18139,6 +18142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuban Missile Crisis: Ice Crusade | 24721 | [24721-cuban-missile-crisis-ice-crusade.json](./24721-cuban-missile-crisis-ice-crusade.json) |
 | Cubanoids | 110923 | [110923-cubanoids.json](./110923-cubanoids.json) |
 | CuBB | 122142 | [122142-cubb.json](./122142-cubb.json) |
+| CubbettyCube | 335008 | [335008-cubbettycube.json](./335008-cubbettycube.json) |
 | CubbetyCuby | 388735 | [388735-cubbetycuby.json](./388735-cubbetycuby.json) |
 | Cube | 154271 | [154271-cube.json](./154271-cube.json) |
 | Cube | 193595 | [193595-cube.json](./193595-cube.json) |
