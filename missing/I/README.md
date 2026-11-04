@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Can't Trust My Eyes | 323343 | [323343-i-cant-trust-my-eyes.json](./323343-i-cant-trust-my-eyes.json) |
 | I Cannot Drown | 201154 | [201154-i-cannot-drown.json](./201154-i-cannot-drown.json) |
 | I Cheated on You | 179049 | [179049-i-cheated-on-you.json](./179049-i-cheated-on-you.json) |
+| I Checkmate Thee | 344666 | [344666-i-checkmate-thee.json](./344666-i-checkmate-thee.json) |
 | I Chew, Therefore I Am | 400742 | [400742-i-chew-therefore-i-am.json](./400742-i-chew-therefore-i-am.json) |
 | I Ching | 308885 | [308885-i-ching.json](./308885-i-ching.json) |
 | I Come In Peace | 325386 | [325386-i-come-in-peace.json](./325386-i-come-in-peace.json) |
@@ -3102,6 +3103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Independent Days | 26799 | [26799-independent-days.json](./26799-independent-days.json) |
 | Independent Games | 210063 | [210063-independent-games.json](./210063-independent-games.json) |
 | Independent Games Volume 2 | 23814 | [23814-independent-games-volume-2.json](./23814-independent-games-volume-2.json) |
+| Indestructible | 344819 | [344819-indestructible.json](./344819-indestructible.json) |
 | Indestructotank | 9682 | [9682-indestructotank.json](./9682-indestructotank.json) |
 | Indestructotank Anniversary Edition | 279748 | [279748-indestructotank-anniversary-edition.json](./279748-indestructotank-anniversary-edition.json) |
 | IndestructoTank! | 144588 | [144588-indestructotank.json](./144588-indestructotank.json) |
@@ -3675,7 +3677,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Ruins | 394091 | [394091-infinite-ruins.json](./394091-infinite-ruins.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
