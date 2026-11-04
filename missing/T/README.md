@@ -22048,6 +22048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Flight | 60550 | [60550-time-flight.json](./60550-time-flight.json) |
 | Time Flipper | 188884 | [188884-time-flipper.json](./188884-time-flipper.json) |
 | Time Flows But Does Not Return | 68421 | [68421-time-flows-but-does-not-return.json](./68421-time-flows-but-does-not-return.json) |
+| Time For Bed | 317738 | [317738-time-for-bed.json](./317738-time-for-bed.json) |
 | Time For Changes | 418203 | [418203-time-for-changes.json](./418203-time-for-changes.json) |
 | Time For Kill | 353633 | [353633-time-for-kill.json](./353633-time-for-kill.json) |
 | Time For Revenge | 265293 | [265293-time-for-revenge.json](./265293-time-for-revenge.json) |
