@@ -6045,6 +6045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes: The Official Mobile Game | 264132 | [264132-heroes-the-official-mobile-game.json](./264132-heroes-the-official-mobile-game.json) |
 | Heroes: The Tantalizing Trio | 73457 | [73457-heroes-the-tantalizing-trio.json](./73457-heroes-the-tantalizing-trio.json) |
 | Heroes' Call: A Casual Mmo Guild Sim | 343297 | [343297-heroes-call-a-casual-mmo-guild-sim.json](./343297-heroes-call-a-casual-mmo-guild-sim.json) |
+| Heroes' Tales | 312245 | [312245-heroes-tales.json](./312245-heroes-tales.json) |
 | HeroField: Game Craft | 368514 | [368514-herofield-game-craft.json](./368514-herofield-game-craft.json) |
 | Herogest | 87801 | [87801-herogest.json](./87801-herogest.json) |
 | Heroglobin: Monster Hospital | 311122 | [311122-heroglobin-monster-hospital.json](./311122-heroglobin-monster-hospital.json) |
@@ -10593,6 +10594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Fate | 184441 | [184441-house-of-fate.json](./184441-house-of-fate.json) |
 | House of Fear | 133178 | [133178-house-of-fear.json](./133178-house-of-fear.json) |
 | House of Fear: Cursed Souls | 228686 | [228686-house-of-fear-cursed-souls.json](./228686-house-of-fear-cursed-souls.json) |
+| House of Fun | 311943 | [311943-house-of-fun.json](./311943-house-of-fun.json) |
 | House of Ghosts and Cats | 329232 | [329232-house-of-ghosts-and-cats.json](./329232-house-of-ghosts-and-cats.json) |
 | House of God | 168713 | [168713-house-of-god.json](./168713-house-of-god.json) |
 | House of Golf | 125252 | [125252-house-of-golf.json](./125252-house-of-golf.json) |
@@ -10658,6 +10660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Wonders: Kitty Kat Wedding | 53195 | [53195-house-of-wonders-kitty-kat-wedding.json](./53195-house-of-wonders-kitty-kat-wedding.json) |
 | House on [Redacted] Street | 352197 | [352197-house-on-redacted-street.json](./352197-house-on-redacted-street.json) |
 | House Painting: Simulator | 328513 | [328513-house-painting-simulator.json](./328513-house-painting-simulator.json) |
+| House Party: Business and Pleasure Style Pack | 312251 | [312251-house-party-business-and-pleasure-style-pack.json](./312251-house-party-business-and-pleasure-style-pack.json) |
 | House Party: Detective Liz Katz in a Gritty Kitty Murder Mystery | 249114 | [249114-house-party-detective-liz-katz-in-a-gritty-kitty-murder-mystery.json](./249114-house-party-detective-liz-katz-in-a-gritty-kitty-murder-mystery.json) |
 | House Party: Halloween Holiday Pack | 230995 | [230995-house-party-halloween-holiday-pack.json](./230995-house-party-halloween-holiday-pack.json) |
 | House Party: New Content Pack | 263127 | [263127-house-party-new-content-pack.json](./263127-house-party-new-content-pack.json) |
