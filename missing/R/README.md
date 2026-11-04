@@ -3860,6 +3860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Panda: The Quiet Path | 373327 | [373327-red-panda-the-quiet-path.json](./373327-red-panda-the-quiet-path.json) |
 | Red Passport: Ticket to Russia | 373669 | [373669-red-passport-ticket-to-russia.json](./373669-red-passport-ticket-to-russia.json) |
 | Red Pippy | 338628 | [338628-red-pippy.json](./338628-red-pippy.json) |
+| Red Pistol | 341829 | [341829-red-pistol.json](./341829-red-pistol.json) |
 | Red Pixel | 59925 | [59925-red-pixel.json](./59925-red-pixel.json) |
 | Red Planet Farming | 132428 | [132428-red-planet-farming.json](./132428-red-planet-farming.json) |
 | Red Planet Rampage | 291178 | [291178-red-planet-rampage.json](./291178-red-planet-rampage.json) |
@@ -4140,6 +4141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReDrop | 347773 | [347773-redrop.json](./347773-redrop.json) |
 | Redrum | 209255 | [209255-redrum.json](./209255-redrum.json) |
 | Redrum | 237269 | [237269-redrum.json](./237269-redrum.json) |
+| Redrum: The Shining 2 | 341820 | [341820-redrum-the-shining-2.json](./341820-redrum-the-shining-2.json) |
 | Reds Adventure A Seasons New Beginning | 188767 | [188767-reds-adventure-a-seasons-new-beginning.json](./188767-reds-adventure-a-seasons-new-beginning.json) |
 | RedShift | 328963 | [328963-redshift.json](./328963-redshift.json) |
 | Redshift 7 | 27253 | [27253-redshift-7.json](./27253-redshift-7.json) |
