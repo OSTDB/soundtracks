@@ -576,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Manager: Together | 410982 | [410982-backrooms-manager-together.json](./410982-backrooms-manager-together.json) |
 | Backrooms Maze 2D | 365929 | [365929-backrooms-maze-2d.json](./365929-backrooms-maze-2d.json) |
 | Backrooms Media | 315613 | [315613-backrooms-media.json](./315613-backrooms-media.json) |
+| Backrooms Multi-Verses | 340134 | [340134-backrooms-multi-verses.json](./340134-backrooms-multi-verses.json) |
 | BackRooms New | 213437 | [213437-backrooms-new.json](./213437-backrooms-new.json) |
 | Backrooms Not Escape | 392920 | [392920-backrooms-not-escape.json](./392920-backrooms-not-escape.json) |
 | Backrooms of Reality | 207298 | [207298-backrooms-of-reality.json](./207298-backrooms-of-reality.json) |
@@ -12426,6 +12427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonkies | 105344 | [105344-bonkies.json](./105344-bonkies.json) |
 | Bonnie Blob in Shapeville | 323368 | [323368-bonnie-blob-in-shapeville.json](./323368-bonnie-blob-in-shapeville.json) |
 | Bonnie Fell | 329113 | [329113-bonnie-fell.json](./329113-bonnie-fell.json) |
+| Bonnie Simulator | 340123 | [340123-bonnie-simulator.json](./340123-bonnie-simulator.json) |
 | Bonnie's Bakery | 219034 | [219034-bonnies-bakery.json](./219034-bonnies-bakery.json) |
 | Bonnie's Bookstore | 248604 | [248604-bonnies-bookstore.json](./248604-bonnies-bookstore.json) |
 | Bonnie's Bookstore | 3757 | [3757-bonnies-bookstore.json](./3757-bonnies-bookstore.json) |
@@ -14803,6 +14805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brewmastery: Tavern Simulator | 216697 | [216697-brewmastery-tavern-simulator.json](./216697-brewmastery-tavern-simulator.json) |
 | Brewpub Simulator | 213483 | [213483-brewpub-simulator.json](./213483-brewpub-simulator.json) |
 | Brews & Bastards | 265392 | [265392-brews-and-bastards.json](./265392-brews-and-bastards.json) |
+| Brews & Blood: Origin | 340133 | [340133-brews-and-blood-origin.json](./340133-brews-and-blood-origin.json) |
 | Brewtopia | 319384 | [319384-brewtopia.json](./319384-brewtopia.json) |
 | BRG's Alice in Wonderland Visual Novel | 118772 | [118772-brgs-alice-in-wonderland-visual-novel.json](./118772-brgs-alice-in-wonderland-visual-novel.json) |
 | BRG's Red Riding Hood | 179415 | [179415-brgs-red-riding-hood.json](./179415-brgs-red-riding-hood.json) |
