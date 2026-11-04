@@ -14848,6 +14848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Profanation | 304127 | [304127-profanation.json](./304127-profanation.json) |
 | Profane | 57196 | [57196-profane.json](./57196-profane.json) |
 | Profaned | 412101 | [412101-profaned.json](./412101-profaned.json) |
+| Profanity Police | 310338 | [310338-profanity-police.json](./310338-profanity-police.json) |
 | Profectus | 155308 | [155308-profectus.json](./155308-profectus.json) |
 | Profession investigator | 190967 | [190967-profession-investigator.json](./190967-profession-investigator.json) |
 | Professional Baseball Tactics | 57753 | [57753-professional-baseball-tactics.json](./57753-professional-baseball-tactics.json) |
