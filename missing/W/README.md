@@ -1349,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Battlesector - Orks | 250908 | [250908-warhammer-40-000-battlesector-orks.json](./250908-warhammer-40-000-battlesector-orks.json) |
 | Warhammer 40,000: Battlesector - Sisters of Battle | 203271 | [203271-warhammer-40-000-battlesector-sisters-of-battle.json](./203271-warhammer-40-000-battlesector-sisters-of-battle.json) |
 | Warhammer 40,000: Battlesector - T'au | 289900 | [289900-warhammer-40-000-battlesector-tau.json](./289900-warhammer-40-000-battlesector-tau.json) |
+| Warhammer 40,000: Battlesector - Tyranid Elites | 314775 | [314775-warhammer-40-000-battlesector-tyranid-elites.json](./314775-warhammer-40-000-battlesector-tyranid-elites.json) |
 | Warhammer 40,000: Battlesector - Ultramarines | 402508 | [402508-warhammer-40-000-battlesector-ultramarines.json](./402508-warhammer-40-000-battlesector-ultramarines.json) |
 | Warhammer 40,000: Battlesector – Deeds of the Fallen | 344677 | [344677-warhammer-40-000-battlesector-deeds-of-the-fallen.json](./344677-warhammer-40-000-battlesector-deeds-of-the-fallen.json) |
 | Warhammer 40,000: Boltgun | 203258 | [203258-warhammer-40-000-boltgun.json](./203258-warhammer-40-000-boltgun.json) |
