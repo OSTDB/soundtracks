@@ -3806,6 +3806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ferazel's Wand | 146178 | [146178-ferazels-wand.json](./146178-ferazels-wand.json) |
 | Ferb | 357706 | [357706-ferb.json](./357706-ferb.json) |
 | Ferd | 226144 | [226144-ferd.json](./226144-ferd.json) |
+| Ferdinand Fox tries Ecoterrorism | 344675 | [344675-ferdinand-fox-tries-ecoterrorism.json](./344675-ferdinand-fox-tries-ecoterrorism.json) |
 | Ferdinand: Unstoppabull | 114680 | [114680-ferdinand-unstoppabull.json](./114680-ferdinand-unstoppabull.json) |
 | Fergus the Fly | 29641 | [29641-fergus-the-fly.json](./29641-fergus-the-fly.json) |
 | Feria 3000 | 391057 | [391057-feria-3000.json](./391057-feria-3000.json) |
@@ -5175,6 +5176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find All 10: Greece | 416977 | [416977-find-all-10-greece.json](./416977-find-all-10-greece.json) |
 | Find All 4: Magic | 226805 | [226805-find-all-4-magic.json](./226805-find-all-4-magic.json) |
 | Find All 5: Vikings | 317026 | [317026-find-all-5-vikings.json](./317026-find-all-5-vikings.json) |
+| Find All 7: Japan | 344688 | [344688-find-all-7-japan.json](./344688-find-all-7-japan.json) |
 | Find All 7: Japan - Extra Level | 345247 | [345247-find-all-7-japan-extra-level.json](./345247-find-all-7-japan-extra-level.json) |
 | Find All 8: The Road to the Maya | 344979 | [344979-find-all-8-the-road-to-the-maya.json](./344979-find-all-8-the-road-to-the-maya.json) |
 | Find All 9: Fantasy | 345248 | [345248-find-all-9-fantasy.json](./345248-find-all-9-fantasy.json) |
