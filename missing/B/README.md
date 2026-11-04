@@ -12443,6 +12443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonk 'N Bash | 379122 | [379122-bonk-n-bash.json](./379122-bonk-n-bash.json) |
 | Bonk 3: Bonk's Big Adventure | 37615 | [37615-bonk-3-bonks-big-adventure.json](./37615-bonk-3-bonks-big-adventure.json) |
 | Bonk the Ball! | 181602 | [181602-bonk-the-ball.json](./181602-bonk-the-ball.json) |
+| Bonk The Goblins! | 325232 | [325232-bonk-the-goblins.json](./325232-bonk-the-goblins.json) |
 | Bonk Voyage | 415112 | [415112-bonk-voyage.json](./415112-bonk-voyage.json) |
 | Bonk: Brink of Extinction | 51632 | [51632-bonk-brink-of-extinction.json](./51632-bonk-brink-of-extinction.json) |
 | Bonk! | 328554 | [328554-bonk.json](./328554-bonk.json) |
@@ -15437,6 +15438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrokenEarth | 62973 | [62973-brokenearth.json](./62973-brokenearth.json) |
 | BrokenFolx | 176642 | [176642-brokenfolx.json](./176642-brokenfolx.json) |
 | BrokenLore: Ascend | 377235 | [377235-brokenlore-ascend.json](./377235-brokenlore-ascend.json) |
+| BrokenLore: Dark Dawn | 325207 | [325207-brokenlore-dark-dawn.json](./325207-brokenlore-dark-dawn.json) |
 | BrokenLore: Don't Lie | 370708 | [370708-brokenlore-dont-lie.json](./370708-brokenlore-dont-lie.json) |
 | BrokenLore: Don't Play | 399376 | [399376-brokenlore-dont-play.json](./399376-brokenlore-dont-play.json) |
 | BrokenLore: Low | 304308 | [304308-brokenlore-low.json](./304308-brokenlore-low.json) |
