@@ -10768,6 +10768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anuto TD | 207846 | [207846-anuto-td.json](./207846-anuto-td.json) |
 | Anvil | 142861 | [142861-anvil.json](./142861-anvil.json) |
 | Anvil | 226234 | [226234-anvil.json](./226234-anvil.json) |
+| Anvil & Ember | 336279 | [336279-anvil-and-ember.json](./336279-anvil-and-ember.json) |
 | Anvil Awareness | 73875 | [73875-anvil-awareness.json](./73875-anvil-awareness.json) |
 | Anvil Empires | 243273 | [243273-anvil-empires.json](./243273-anvil-empires.json) |
 | Anvil Life | 212235 | [212235-anvil-life.json](./212235-anvil-life.json) |
@@ -12880,6 +12881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Breakout: Season 4 - Into the Fog of War | 318417 | [318417-arena-breakout-season-4-into-the-fog-of-war.json](./318417-arena-breakout-season-4-into-the-fog-of-war.json) |
 | Arena Breakout: Season 5 - Road to Gold | 318419 | [318419-arena-breakout-season-5-road-to-gold.json](./318419-arena-breakout-season-5-road-to-gold.json) |
 | Arena Breakout: Season 6 - Operation Blackout | 320181 | [320181-arena-breakout-season-6-operation-blackout.json](./320181-arena-breakout-season-6-operation-blackout.json) |
+| Arena Breakout: Season 8 – Frozen Frontline | 336319 | [336319-arena-breakout-season-8-frozen-frontline.json](./336319-arena-breakout-season-8-frozen-frontline.json) |
 | Arena Brutal | 197913 | [197913-arena-brutal.json](./197913-arena-brutal.json) |
 | Arena Car Racing | 231978 | [231978-arena-car-racing.json](./231978-arena-car-racing.json) |
 | Arena Champion | 224588 | [224588-arena-champion.json](./224588-arena-champion.json) |
