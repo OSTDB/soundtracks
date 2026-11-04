@@ -5728,6 +5728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -18358,6 +18359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mugen no Shinzou II | 246656 | [246656-mugen-no-shinzou-ii.json](./246656-mugen-no-shinzou-ii.json) |
 | Mugen no Shinzou III | 281031 | [281031-mugen-no-shinzou-iii.json](./281031-mugen-no-shinzou-iii.json) |
 | Mugen no Yoru | 284608 | [284608-mugen-no-yoru.json](./284608-mugen-no-yoru.json) |
+| Mugen Rinne no Irregular | 308094 | [308094-mugen-rinne-no-irregular.json](./308094-mugen-rinne-no-irregular.json) |
 | Mugen RPG | 301613 | [301613-mugen-rpg.json](./301613-mugen-rpg.json) |
 | Mugen Senshi Valis II | 41701 | [41701-mugen-senshi-valis-ii.json](./41701-mugen-senshi-valis-ii.json) |
 | Mugen Senshi Valis: The Fantasm Soldier | 36789 | [36789-mugen-senshi-valis-the-fantasm-soldier.json](./36789-mugen-senshi-valis-the-fantasm-soldier.json) |
