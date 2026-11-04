@@ -4137,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch Hina | 185590 | [185590-catch-hina.json](./185590-catch-hina.json) |
 | Catch Idle: Dimension Warp Story | 208038 | [208038-catch-idle-dimension-warp-story.json](./208038-catch-idle-dimension-warp-story.json) |
 | Catch It | 100487 | [100487-catch-it.json](./100487-catch-it.json) |
+| Catch It | 345755 | [345755-catch-it.json](./345755-catch-it.json) |
 | Catch It | 380611 | [380611-catch-it.json](./380611-catch-it.json) |
 | Catch it! | 179310 | [179310-catch-it.json](./179310-catch-it.json) |
 | Catch Me | 286968 | [286968-catch-me.json](./286968-catch-me.json) |
@@ -7988,6 +7989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Tsufanubra | 123252 | [123252-chronicles-of-tsufanubra.json](./123252-chronicles-of-tsufanubra.json) |
 | Chronicles of Ultiria | 338526 | [338526-chronicles-of-ultiria.json](./338526-chronicles-of-ultiria.json) |
 | Chronicles of Vaeltaja: In Search of the Great Wanderer | 250786 | [250786-chronicles-of-vaeltaja-in-search-of-the-great-wanderer.json](./250786-chronicles-of-vaeltaja-in-search-of-the-great-wanderer.json) |
+| Chronicles of Veldoria | 345786 | [345786-chronicles-of-veldoria.json](./345786-chronicles-of-veldoria.json) |
 | Chronicles of Vinland | 81008 | [81008-chronicles-of-vinland.json](./81008-chronicles-of-vinland.json) |
 | Chronicles of Vipers | 253321 | [253321-chronicles-of-vipers.json](./253321-chronicles-of-vipers.json) |
 | Chronicles of Witches & Warlocks | 52738 | [52738-chronicles-of-witches-and-warlocks.json](./52738-chronicles-of-witches-and-warlocks.json) |
@@ -14185,6 +14187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrupted | 251063 | [251063-corrupted.json](./251063-corrupted.json) |
 | Corrupted | 288804 | [288804-corrupted.json](./288804-corrupted.json) |
 | Corrupted | 296806 | [296806-corrupted.json](./296806-corrupted.json) |
+| Corrupted | 345750 | [345750-corrupted.json](./345750-corrupted.json) |
 | Corrupted | 51641 | [51641-corrupted.json](./51641-corrupted.json) |
 | Corrupted | 96626 | [96626-corrupted.json](./96626-corrupted.json) |
 | Corrupted Archives | 407698 | [407698-corrupted-archives.json](./407698-corrupted-archives.json) |
@@ -14886,6 +14889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covemachine | 327296 | [327296-covemachine.json](./327296-covemachine.json) |
 | Covemouth | 341632 | [341632-covemouth.json](./341632-covemouth.json) |
 | Coven | 146649 | [146649-coven.json](./146649-coven.json) |
+| Coven | 345751 | [345751-coven.json](./345751-coven.json) |
 | Coven Escape | 315596 | [315596-coven-escape.json](./315596-coven-escape.json) |
 | Coven Escape 2 | 315597 | [315597-coven-escape-2.json](./315597-coven-escape-2.json) |
 | Coven of Crones | 373590 | [373590-coven-of-crones.json](./373590-coven-of-crones.json) |
