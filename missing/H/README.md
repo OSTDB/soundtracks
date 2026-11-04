@@ -5889,6 +5889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Fantasia | 168656 | [168656-heroes-of-fantasia.json](./168656-heroes-of-fantasia.json) |
 | Heroes of Flatlandia | 174597 | [174597-heroes-of-flatlandia.json](./174597-heroes-of-flatlandia.json) |
 | Heroes of Gaia | 63867 | [63867-heroes-of-gaia.json](./63867-heroes-of-gaia.json) |
+| Heroes of Hammerwatch II | 319818 | [319818-heroes-of-hammerwatch-ii.json](./319818-heroes-of-hammerwatch-ii.json) |
 | Heroes of Hammerwatch II: Celestial Ruins | 411671 | [411671-heroes-of-hammerwatch-ii-celestial-ruins.json](./411671-heroes-of-hammerwatch-ii-celestial-ruins.json) |
 | Heroes of Hammerwatch: Pyramid of Prophecy | 125001 | [125001-heroes-of-hammerwatch-pyramid-of-prophecy.json](./125001-heroes-of-hammerwatch-pyramid-of-prophecy.json) |
 | Heroes of Havoc: Idle Adventures | 26171 | [26171-heroes-of-havoc-idle-adventures.json](./26171-heroes-of-havoc-idle-adventures.json) |
