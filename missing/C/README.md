@@ -11251,6 +11251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Lacrosse 2011 | 61039 | [61039-college-lacrosse-2011.json](./61039-college-lacrosse-2011.json) |
 | College Lacrosse 2012 | 61036 | [61036-college-lacrosse-2012.json](./61036-college-lacrosse-2012.json) |
 | College Lacrosse 2014 | 87888 | [87888-college-lacrosse-2014.json](./87888-college-lacrosse-2014.json) |
+| College Love: Secrets From the Past | 342362 | [342362-college-love-secrets-from-the-past.json](./342362-college-love-secrets-from-the-past.json) |
 | College Quest | 404401 | [404401-college-quest.json](./404401-college-quest.json) |
 | College Seduction | 379536 | [379536-college-seduction.json](./379536-college-seduction.json) |
 | College Sex Fest 2024 | 297095 | [297095-college-sex-fest-2024.json](./297095-college-sex-fest-2024.json) |
@@ -15079,6 +15080,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Dive | 385635 | [385635-cozy-dive.json](./385635-cozy-dive.json) |
 | Cozy Dream | 280629 | [280629-cozy-dream.json](./280629-cozy-dream.json) |
 | Cozy Dungeons | 304307 | [304307-cozy-dungeons.json](./304307-cozy-dungeons.json) |
+| Cozy Earth: Hawaii Island Love Anime Boys | 342363 | [342363-cozy-earth-hawaii-island-love-anime-boys.json](./342363-cozy-earth-hawaii-island-love-anime-boys.json) |
+| Cozy Earth: Hawaii Island Love Anime Girls | 342364 | [342364-cozy-earth-hawaii-island-love-anime-girls.json](./342364-cozy-earth-hawaii-island-love-anime-girls.json) |
 | Cozy Escapes | 279006 | [279006-cozy-escapes.json](./279006-cozy-escapes.json) |
 | Cozy Farm Defense | 415386 | [415386-cozy-farm-defense.json](./415386-cozy-farm-defense.json) |
 | Cozy Farm Life Simulator | 412458 | [412458-cozy-farm-life-simulator.json](./412458-cozy-farm-life-simulator.json) |
@@ -15102,6 +15105,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Home | 386876 | [386876-cozy-home.json](./386876-cozy-home.json) |
 | Cozy Home Unpacking | 403736 | [403736-cozy-home-unpacking.json](./403736-cozy-home-unpacking.json) |
 | Cozy Hunt | 338004 | [338004-cozy-hunt.json](./338004-cozy-hunt.json) |
+| Cozy Hunt: Complete Edition | 342369 | [342369-cozy-hunt-complete-edition.json](./342369-cozy-hunt-complete-edition.json) |
+| Cozy Hunt: More to Find | 342368 | [342368-cozy-hunt-more-to-find.json](./342368-cozy-hunt-more-to-find.json) |
 | Cozy Interiors | 407204 | [407204-cozy-interiors.json](./407204-cozy-interiors.json) |
 | Cozy Island | 334286 | [334286-cozy-island.json](./334286-cozy-island.json) |
 | Cozy Island Idle | 272775 | [272775-cozy-island-idle.json](./272775-cozy-island-idle.json) |
@@ -15132,8 +15137,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Solitaire | 339330 | [339330-cozy-solitaire.json](./339330-cozy-solitaire.json) |
 | Cozy Space | 260426 | [260426-cozy-space.json](./260426-cozy-space.json) |
 | Cozy Space Survivors | 275087 | [275087-cozy-space-survivors.json](./275087-cozy-space-survivors.json) |
+| Cozy Stitch Puzzle | 342365 | [342365-cozy-stitch-puzzle.json](./342365-cozy-stitch-puzzle.json) |
 | Cozy Sudoku | 339331 | [339331-cozy-sudoku.json](./339331-cozy-sudoku.json) |
 | Cozy Tide | 406852 | [406852-cozy-tide.json](./406852-cozy-tide.json) |
+| Cozy Tides | 342366 | [342366-cozy-tides.json](./342366-cozy-tides.json) |
 | Cozy Together | 320701 | [320701-cozy-together.json](./320701-cozy-together.json) |
 | Cozy Town | 380093 | [380093-cozy-town.json](./380093-cozy-town.json) |
 | Cozy Toy Shop | 378283 | [378283-cozy-toy-shop.json](./378283-cozy-toy-shop.json) |
@@ -15144,6 +15151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Village | 271653 | [271653-cozy-village.json](./271653-cozy-village.json) |
 | Cozy Wandering in Scarlet and Amber | 145276 | [145276-cozy-wandering-in-scarlet-and-amber.json](./145276-cozy-wandering-in-scarlet-and-amber.json) |
 | Cozy Winter | 343724 | [343724-cozy-winter.json](./343724-cozy-winter.json) |
+| Cozy Woods | 342367 | [342367-cozy-woods.json](./342367-cozy-woods.json) |
 | CozyCat Simulator | 293133 | [293133-cozycat-simulator.json](./293133-cozycat-simulator.json) |
 | Cozycult | 364057 | [364057-cozycult.json](./364057-cozycult.json) |
 | Cozynauts | 266617 | [266617-cozynauts.json](./266617-cozynauts.json) |
@@ -17611,6 +17619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crying is not Enough | 99085 | [99085-crying-is-not-enough.json](./99085-crying-is-not-enough.json) |
 | Crying Pony | 245950 | [245950-crying-pony.json](./245950-crying-pony.json) |
 | Crying Suns: Deluxe Edition | 186520 | [186520-crying-suns-deluxe-edition.json](./186520-crying-suns-deluxe-edition.json) |
+| Cryken Part2 | 342370 | [342370-cryken-part2.json](./342370-cryken-part2.json) |
 | Cryken Part3 | 345996 | [345996-cryken-part3.json](./345996-cryken-part3.json) |
 | Cryken Part4 | 351226 | [351226-cryken-part4.json](./351226-cryken-part4.json) |
 | Cryline | 55271 | [55271-cryline.json](./55271-cryline.json) |
@@ -19557,6 +19566,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber.one: Trans Car Racing | 126985 | [126985-cyber-one-trans-car-racing.json](./126985-cyber-one-trans-car-racing.json) |
 | Cyber92 Datawar | 398491 | [398491-cyber92-datawar.json](./398491-cyber92-datawar.json) |
 | CyberAge | 200993 | [200993-cyberage.json](./200993-cyberage.json) |
+| CybeRage | 342371 | [342371-cyberage.json](./342371-cyberage.json) |
+| CybeRage: Definitive Edition | 342375 | [342375-cyberage-definitive-edition.json](./342375-cyberage-definitive-edition.json) |
+| CybeRage: Green Line | 342374 | [342374-cyberage-green-line.json](./342374-cyberage-green-line.json) |
+| CybeRage: Orange Line | 342373 | [342373-cyberage-orange-line.json](./342373-cyberage-orange-line.json) |
+| CybeRage: Red Line | 342372 | [342372-cyberage-red-line.json](./342372-cyberage-red-line.json) |
 | CyberArena | 338211 | [338211-cyberarena.json](./338211-cyberarena.json) |
 | CyberArena | 369546 | [369546-cyberarena.json](./369546-cyberarena.json) |
 | Cyberball | 12022 | [12022-cyberball.json](./12022-cyberball.json) |
@@ -19580,6 +19594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybercon | 15923 | [15923-cybercon.json](./15923-cybercon.json) |
 | Cybercon II | 15922 | [15922-cybercon-ii.json](./15922-cybercon-ii.json) |
 | Cybercon III | 12023 | [12023-cybercon-iii.json](./12023-cybercon-iii.json) |
+| CyberControl: Another Life | 342503 | [342503-cybercontrol-another-life.json](./342503-cybercontrol-another-life.json) |
 | CyberCook | 369347 | [369347-cybercook.json](./369347-cybercook.json) |
 | Cybercop | 287115 | [287115-cybercop.json](./287115-cybercop.json) |
 | Cybercore Leap | 279893 | [279893-cybercore-leap.json](./279893-cybercore-leap.json) |
@@ -19734,6 +19749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberside Picnic | 252249 | [252249-cyberside-picnic.json](./252249-cyberside-picnic.json) |
 | CyberSkyscrUpper | 265770 | [265770-cyberskyscrupper.json](./265770-cyberskyscrupper.json) |
 | Cyberslav: Eclipse | 383127 | [383127-cyberslav-eclipse.json](./383127-cyberslav-eclipse.json) |
+| Cyberslayer: No Time to Regret | 342376 | [342376-cyberslayer-no-time-to-regret.json](./342376-cyberslayer-no-time-to-regret.json) |
 | Cybersonic Strike | 258538 | [258538-cybersonic-strike.json](./258538-cybersonic-strike.json) |
 | Cybersoul | 382405 | [382405-cybersoul.json](./382405-cybersoul.json) |
 | Cybersoul: Cosmic Resonance | 385864 | [385864-cybersoul-cosmic-resonance.json](./385864-cybersoul-cosmic-resonance.json) |
