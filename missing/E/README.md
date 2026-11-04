@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earl Bobby is looking for his Shoes | 93317 | [93317-earl-bobby-is-looking-for-his-shoes.json](./93317-earl-bobby-is-looking-for-his-shoes.json) |
 | Earl Grey | 181711 | [181711-earl-grey.json](./181711-earl-grey.json) |
 | Earl Mansin: The Breakout | 70021 | [70021-earl-mansin-the-breakout.json](./70021-earl-mansin-the-breakout.json) |
+| Earl the Tomb Robber | 301451 | [301451-earl-the-tomb-robber.json](./301451-earl-the-tomb-robber.json) |
 | Earl vs. the Mutants | 267803 | [267803-earl-vs-the-mutants.json](./267803-earl-vs-the-mutants.json) |
 | Earl Weaver Baseball | 21554 | [21554-earl-weaver-baseball.json](./21554-earl-weaver-baseball.json) |
 | Earl Weaver Baseball II | 66097 | [66097-earl-weaver-baseball-ii.json](./66097-earl-weaver-baseball-ii.json) |
@@ -4109,6 +4110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enter Digiton | 133084 | [133084-enter-digiton.json](./133084-enter-digiton.json) |
 | Enter Falconry | 295515 | [295515-enter-falconry.json](./295515-enter-falconry.json) |
 | Enter HorrorLand | 344561 | [344561-enter-horrorland.json](./344561-enter-horrorland.json) |
+| Enter Passcode | 301453 | [301453-enter-passcode.json](./301453-enter-passcode.json) |
 | Enter Synapse | 116093 | [116093-enter-synapse.json](./116093-enter-synapse.json) |
 | Enter the Backrooms | 157710 | [157710-enter-the-backrooms.json](./157710-enter-the-backrooms.json) |
 | Enter the Chronosphere | 177862 | [177862-enter-the-chronosphere.json](./177862-enter-the-chronosphere.json) |
@@ -4153,6 +4155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entity | 171620 | [171620-entity.json](./171620-entity.json) |
 | Entity | 177408 | [177408-entity.json](./177408-entity.json) |
 | Entity | 282713 | [282713-entity.json](./282713-entity.json) |
+| Entity | 301552 | [301552-entity.json](./301552-entity.json) |
 | Entity | 88722 | [88722-entity.json](./88722-entity.json) |
 | Entity Onboard | 339754 | [339754-entity-onboard.json](./339754-entity-onboard.json) |
 | Entity Research Group | 388947 | [388947-entity-research-group.json](./388947-entity-research-group.json) |
@@ -4830,6 +4833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ERTX 2080TI Mining clicker | 107518 | [107518-ertx-2080ti-mining-clicker.json](./107518-ertx-2080ti-mining-clicker.json) |
 | Erudite with friends | 387456 | [387456-erudite-with-friends.json](./387456-erudite-with-friends.json) |
 | Erulean Angel: Fantasy Commander | 351136 | [351136-erulean-angel-fantasy-commander.json](./351136-erulean-angel-fantasy-commander.json) |
+| Erumani | 301550 | [301550-erumani.json](./301550-erumani.json) |
 | Eruption | 54341 | [54341-eruption.json](./54341-eruption.json) |
 | Eruptle | 320769 | [320769-eruptle.json](./320769-eruptle.json) |
 | EruruAdventure | 97281 | [97281-eruruadventure.json](./97281-eruruadventure.json) |
