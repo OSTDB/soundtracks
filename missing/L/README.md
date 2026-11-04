@@ -1176,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Case | 377058 | [377058-last-case.json](./377058-last-case.json) |
 | Last Case: The Disappearance of Amanda Kane | 122980 | [122980-last-case-the-disappearance-of-amanda-kane.json](./122980-last-case-the-disappearance-of-amanda-kane.json) |
 | Last Castle Guardians | 278912 | [278912-last-castle-guardians.json](./278912-last-castle-guardians.json) |
+| Last Cat | 300233 | [300233-last-cat.json](./300233-last-cat.json) |
 | Last Caveman | 278972 | [278972-last-caveman.json](./278972-last-caveman.json) |
 | Last Chance for Turnabout | 309994 | [309994-last-chance-for-turnabout.json](./309994-last-chance-for-turnabout.json) |
 | Last Chance in Xollywood | 210986 | [210986-last-chance-in-xollywood.json](./210986-last-chance-in-xollywood.json) |
@@ -2296,6 +2297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lee Inside TV | 126852 | [126852-lee-inside-tv.json](./126852-lee-inside-tv.json) |
 | Lee Trevino's Fighting Golf | 217735 | [217735-lee-trevinos-fighting-golf.json](./217735-lee-trevinos-fighting-golf.json) |
 | Lee-Lee's Quest 2 | 165370 | [165370-lee-lees-quest-2.json](./165370-lee-lees-quest-2.json) |
+| Leechcraft | 299674 | [299674-leechcraft.json](./299674-leechcraft.json) |
 | Leedmees | 20158 | [20158-leedmees.json](./20158-leedmees.json) |
 | Leeds United Club Football | 267889 | [267889-leeds-united-club-football.json](./267889-leeds-united-club-football.json) |
 | Leek Factory Tycoon | 297613 | [297613-leek-factory-tycoon.json](./297613-leek-factory-tycoon.json) |
