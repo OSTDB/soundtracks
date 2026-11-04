@@ -8234,6 +8234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Dice Dice: A Roll Playing Game | 291300 | [291300-dice-dice-dice-a-roll-playing-game.json](./291300-dice-dice-dice-a-roll-playing-game.json) |
 | Dice Dice Fantasia | 278826 | [278826-dice-dice-fantasia.json](./278826-dice-dice-fantasia.json) |
 | Dice Dreams | 233897 | [233897-dice-dreams.json](./233897-dice-dreams.json) |
+| Dice Eater | 329454 | [329454-dice-eater.json](./329454-dice-eater.json) |
 | Dice Fantasy | 242705 | [242705-dice-fantasy.json](./242705-dice-fantasy.json) |
 | Dice Fight | 232368 | [232368-dice-fight.json](./232368-dice-fight.json) |
 | Dice Game | 226179 | [226179-dice-game.json](./226179-dice-game.json) |
@@ -10997,6 +10998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Life Simulator | 344001 | [344001-doctor-life-simulator.json](./344001-doctor-life-simulator.json) |
 | Doctor Lind | 408501 | [408501-doctor-lind.json](./408501-doctor-lind.json) |
 | Doctor Nanobot | 207530 | [207530-doctor-nanobot.json](./207530-doctor-nanobot.json) |
+| Doctor Pain | 329293 | [329293-doctor-pain.json](./329293-doctor-pain.json) |
 | Doctor Pigeon Simulator | 407360 | [407360-doctor-pigeon-simulator.json](./407360-doctor-pigeon-simulator.json) |
 | Doctor Plague | 416823 | [416823-doctor-plague.json](./416823-doctor-plague.json) |
 | Doctor Robotnik's Creature Capture | 45700 | [45700-doctor-robotniks-creature-capture.json](./45700-doctor-robotniks-creature-capture.json) |
@@ -12669,6 +12671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DooM: Infernal Attack | 198352 | [198352-doom-infernal-attack.json](./198352-doom-infernal-attack.json) |
 | Doom: Slayer's Testament | 146666 | [146666-doom-slayers-testament.json](./146666-doom-slayers-testament.json) |
 | Doom: The Classics Collection | 145387 | [145387-doom-the-classics-collection.json](./145387-doom-the-classics-collection.json) |
+| Doom: The Dark Ages - Premium Edition | 329298 | [329298-doom-the-dark-ages-premium-edition.json](./329298-doom-the-dark-ages-premium-edition.json) |
 | Doom: The Gallery Experience | 327632 | [327632-doom-the-gallery-experience.json](./327632-doom-the-gallery-experience.json) |
 | DOOM: The Golden Souls | 140496 | [140496-doom-the-golden-souls.json](./140496-doom-the-golden-souls.json) |
 | Doom: The Golden Souls 2 | 140497 | [140497-doom-the-golden-souls-2.json](./140497-doom-the-golden-souls-2.json) |
@@ -13518,6 +13521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downforce | 22219 | [22219-downforce.json](./22219-downforce.json) |
 | Downforce | 248688 | [248688-downforce.json](./248688-downforce.json) |
 | Downhell | 274127 | [274127-downhell.json](./274127-downhell.json) |
+| Downhill | 329304 | [329304-downhill.json](./329304-downhill.json) |
 | Downhill Bikers | 54766 | [54766-downhill-bikers.json](./54766-downhill-bikers.json) |
 | Downhill Challenge | 73798 | [73798-downhill-challenge.json](./73798-downhill-challenge.json) |
 | Downhill Deceits | 95253 | [95253-downhill-deceits.json](./95253-downhill-deceits.json) |
