@@ -12062,6 +12062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run, Poo, Run! | 388967 | [388967-run-poo-run.json](./388967-run-poo-run.json) |
 | Run, Puppet Run! | 413487 | [413487-run-puppet-run.json](./413487-run-puppet-run.json) |
 | Run, Run, Monsters! | 108024 | [108024-run-run-monsters.json](./108024-run-run-monsters.json) |
+| Run, Sandwich, Run! | 310369 | [310369-run-sandwich-run.json](./310369-run-sandwich-run.json) |
 | Run, Uganda! Run! | 336337 | [336337-run-uganda-run.json](./336337-run-uganda-run.json) |
 | Run, Veggies! | 358878 | [358878-run-veggies.json](./358878-run-veggies.json) |
 | Run, Vivian Run | 311238 | [311238-run-vivian-run.json](./311238-run-vivian-run.json) |
