@@ -2060,6 +2060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombocalypse Now! | 374914 | [374914-zombocalypse-now.json](./374914-zombocalypse-now.json) |
 | Zombocity | 377128 | [377128-zombocity.json](./377128-zombocity.json) |
 | Zombodrive | 192826 | [192826-zombodrive.json](./192826-zombodrive.json) |
+| ZomboidGuessr | 298763 | [298763-zomboidguessr.json](./298763-zomboidguessr.json) |
 | Zombonic | 408076 | [408076-zombonic.json](./408076-zombonic.json) |
 | Zomborg | 75006 | [75006-zomborg.json](./75006-zomborg.json) |
 | Zombotron | 278616 | [278616-zombotron.json](./278616-zombotron.json) |
