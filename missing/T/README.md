@@ -17504,6 +17504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Town of Nowhere: End Of The Line | 383448 | [383448-the-town-of-nowhere-end-of-the-line.json](./383448-the-town-of-nowhere-end-of-the-line.json) |
 | The Town Secrets | 275912 | [275912-the-town-secrets.json](./275912-the-town-secrets.json) |
 | The Toxicity | 270704 | [270704-the-toxicity.json](./270704-the-toxicity.json) |
+| The Toy Factory | 308753 | [308753-the-toy-factory.json](./308753-the-toy-factory.json) |
 | The Toy Factory Across the Street | 225820 | [225820-the-toy-factory-across-the-street.json](./225820-the-toy-factory-across-the-street.json) |
 | The Toy Shop | 391894 | [391894-the-toy-shop.json](./391894-the-toy-shop.json) |
 | The Toy Shop | 74093 | [74093-the-toy-shop.json](./74093-the-toy-shop.json) |
@@ -19602,6 +19603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas the Tank Engine & Friends | 137268 | [137268-thomas-the-tank-engine-and-friends.json](./137268-thomas-the-tank-engine-and-friends.json) |
 | Thomas the Tank Engine & Friends | 284218 | [284218-thomas-the-tank-engine-and-friends.json](./284218-thomas-the-tank-engine-and-friends.json) |
 | Thomas the Tank Engine & Friends | 289757 | [289757-thomas-the-tank-engine-and-friends.json](./289757-thomas-the-tank-engine-and-friends.json) |
+| Thomas the Tank Engine & Friends | 308706 | [308706-thomas-the-tank-engine-and-friends.json](./308706-thomas-the-tank-engine-and-friends.json) |
 | Thomas The Tank Engine & Friends | 261192 | [261192-thomas-the-tank-engine-and-friends.json](./261192-thomas-the-tank-engine-and-friends.json) |
 | Thomas the Tank Engine & Friends Pinball | 38842 | [38842-thomas-the-tank-engine-and-friends-pinball.json](./38842-thomas-the-tank-engine-and-friends-pinball.json) |
 | Thomas to Asonde Oboeru Kotoba to Kazu to ABC | 222516 | [222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json](./222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json) |
@@ -25868,6 +25870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou: Unmei no Hoshi | 181928 | [181928-touhou-unmei-no-hoshi.json](./181928-touhou-unmei-no-hoshi.json) |
 | Touhou: Wandering Souls | 304110 | [304110-touhou-wandering-souls.json](./304110-touhou-wandering-souls.json) |
 | Touhoumon Another World: Revised | 410666 | [410666-touhoumon-another-world-revised.json](./410666-touhoumon-another-world-revised.json) |
+| Touhoumon Ordinary Version | 308710 | [308710-touhoumon-ordinary-version.json](./308710-touhoumon-ordinary-version.json) |
 | Touhoumon Purple | 131840 | [131840-touhoumon-purple.json](./131840-touhoumon-purple.json) |
 | Touhoumon World Link | 279679 | [279679-touhoumon-world-link.json](./279679-touhoumon-world-link.json) |
 | Touhoumon World Link: Revised | 410663 | [410663-touhoumon-world-link-revised.json](./410663-touhoumon-world-link-revised.json) |
