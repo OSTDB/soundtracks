@@ -6155,6 +6155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heterotopias: In the 1989 Future | 125911 | [125911-heterotopias-in-the-1989-future.json](./125911-heterotopias-in-the-1989-future.json) |
 | Hetja's Quest | 372783 | [372783-hetjas-quest.json](./372783-hetjas-quest.json) |
 | Hets | 125854 | [125854-hets.json](./125854-hets.json) |
+| Hetu | 305682 | [305682-hetu.json](./305682-hetu.json) |
 | Heva Clonia Online | 62744 | [62744-heva-clonia-online.json](./62744-heva-clonia-online.json) |
 | Hevel | 398529 | [398529-hevel.json](./398529-hevel.json) |
 | Hevel Isle | 398526 | [398526-hevel-isle.json](./398526-hevel-isle.json) |
@@ -11741,6 +11742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hurm's Odyssey | 341708 | [341708-hurms-odyssey.json](./341708-hurms-odyssey.json) |
 | Hurrican | 94360 | [94360-hurrican.json](./94360-hurrican.json) |
 | Hurricane | 25928 | [25928-hurricane.json](./25928-hurricane.json) |
+| Hurricane Abyss | 305679 | [305679-hurricane-abyss.json](./305679-hurricane-abyss.json) |
 | Hurricane chase | 120775 | [120775-hurricane-chase.json](./120775-hurricane-chase.json) |
 | Hurricane Heroes | 369684 | [369684-hurricane-heroes.json](./369684-hurricane-heroes.json) |
 | Hurricane Ship Ghost | 104833 | [104833-hurricane-ship-ghost.json](./104833-hurricane-ship-ghost.json) |
