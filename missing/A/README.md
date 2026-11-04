@@ -7118,6 +7118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Star Tennis 2000 | 49880 | [49880-all-star-tennis-2000.json](./49880-all-star-tennis-2000.json) |
 | All Stars Racing Jumper | 252934 | [252934-all-stars-racing-jumper.json](./252934-all-stars-racing-jumper.json) |
 | All strings attached | 177677 | [177677-all-strings-attached.json](./177677-all-strings-attached.json) |
+| All Systems Dance | 305067 | [305067-all-systems-dance.json](./305067-all-systems-dance.json) |
 | All Systems Operational | 121541 | [121541-all-systems-operational.json](./121541-all-systems-operational.json) |
 | All that Glitters | 336600 | [336600-all-that-glitters.json](./336600-all-that-glitters.json) |
 | All That is Left | 384108 | [384108-all-that-is-left.json](./384108-all-that-is-left.json) |
