@@ -3493,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mariko: Hot Nightlife | 88052 | [88052-mariko-hot-nightlife.json](./88052-mariko-hot-nightlife.json) |
 | Marimo Pants | 412817 | [412817-marimo-pants.json](./412817-marimo-pants.json) |
 | Marimo vs. I.A.S | 188463 | [188463-marimo-vs-i-a-s.json](./188463-marimo-vs-i-a-s.json) |
+| Marin Alien | 308704 | [308704-marin-alien.json](./308704-marin-alien.json) |
 | Marina Manager | 420489 | [420489-marina-manager.json](./420489-marina-manager.json) |
 | Marina Militare It Navy Sim | 193849 | [193849-marina-militare-it-navy-sim.json](./193849-marina-militare-it-navy-sim.json) |
 | Marina Militare: Italian Navy Sim | 110256 | [110256-marina-militare-italian-navy-sim.json](./110256-marina-militare-italian-navy-sim.json) |
@@ -4039,6 +4040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Orange Lavaburst Adventure | 328659 | [328659-marios-orange-lavaburst-adventure.json](./328659-marios-orange-lavaburst-adventure.json) |
 | Mario's Peregrination: Kingdom Elementum Phantasia | 278632 | [278632-marios-peregrination-kingdom-elementum-phantasia.json](./278632-marios-peregrination-kingdom-elementum-phantasia.json) |
 | Mario's Picross | 71976 | [71976-marios-picross.json](./71976-marios-picross.json) |
+| Mario's Picross X | 308707 | [308707-marios-picross-x.json](./308707-marios-picross-x.json) |
 | Mario's Point and Click 64 | 300267 | [300267-marios-point-and-click-64.json](./300267-marios-point-and-click-64.json) |
 | Mario's Pride: Mini Quest | 254516 | [254516-marios-pride-mini-quest.json](./254516-marios-pride-mini-quest.json) |
 | Mario's Rules: Variety on 3 | 323748 | [323748-marios-rules-variety-on-3.json](./323748-marios-rules-variety-on-3.json) |
@@ -5726,7 +5728,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9511,6 +9512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug 3: Classic Edition | 347164 | [347164-metal-slug-3-classic-edition.json](./347164-metal-slug-3-classic-edition.json) |
 | Metal Slug 4 | 1409 | [1409-metal-slug-4.json](./1409-metal-slug-4.json) |
 | Metal Slug 5 | 1410 | [1410-metal-slug-5.json](./1410-metal-slug-5.json) |
+| Metal Slug 5 Extend | 308725 | [308725-metal-slug-5-extend.json](./308725-metal-slug-5-extend.json) |
 | Metal Slug 6 | 1411 | [1411-metal-slug-6.json](./1411-metal-slug-6.json) |
 | Metal Slug Advance | 1406 | [1406-metal-slug-advance.json](./1406-metal-slug-advance.json) |
 | Metal Slug Anthology | 5004 | [5004-metal-slug-anthology.json](./5004-metal-slug-anthology.json) |
@@ -12060,6 +12062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Update Aquatic | 221879 | [221879-minecraft-update-aquatic.json](./221879-minecraft-update-aquatic.json) |
 | Minecraft: Vault-Tec Mash-up | 235319 | [235319-minecraft-vault-tec-mash-up.json](./235319-minecraft-vault-tec-mash-up.json) |
 | Minecraft: Village & Pillage | 221919 | [221919-minecraft-village-and-pillage.json](./221919-minecraft-village-and-pillage.json) |
+| Minecraft: Villains Skin Pack | 308746 | [308746-minecraft-villains-skin-pack.json](./308746-minecraft-villains-skin-pack.json) |
 | MInecraft: Weapon Fusion 2 | 333585 | [333585-minecraft-weapon-fusion-2.json](./333585-minecraft-weapon-fusion-2.json) |
 | Minecraft: Wii U Edition | 84610 | [84610-minecraft-wii-u-edition.json](./84610-minecraft-wii-u-edition.json) |
 | Minecraft: Wilderness Bound | 416571 | [416571-minecraft-wilderness-bound.json](./416571-minecraft-wilderness-bound.json) |
@@ -13581,6 +13584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mithral Gun:Biomechanical | 122016 | [122016-mithral-gun-biomechanical.json](./122016-mithral-gun-biomechanical.json) |
 | Mithrall | 293584 | [293584-mithrall.json](./293584-mithrall.json) |
 | Mithronia: Tower Wars | 265322 | [265322-mithronia-tower-wars.json](./265322-mithronia-tower-wars.json) |
+| Mithrun Calls | 308740 | [308740-mithrun-calls.json](./308740-mithrun-calls.json) |
 | Mitigate | 384348 | [384348-mitigate.json](./384348-mitigate.json) |
 | Miting Simulator | 150393 | [150393-miting-simulator.json](./150393-miting-simulator.json) |
 | Mitla | 373657 | [373657-mitla.json](./373657-mitla.json) |
@@ -16658,12 +16662,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 11: Game & Film Double Pack | 324767 | [324767-mortal-kombat-11-game-and-film-double-pack.json](./324767-mortal-kombat-11-game-and-film-double-pack.json) |
 | Mortal Kombat 11: Gothic Horror Skin Pack | 405350 | [405350-mortal-kombat-11-gothic-horror-skin-pack.json](./405350-mortal-kombat-11-gothic-horror-skin-pack.json) |
 | Mortal Kombat 11: Hellspawn Jacqui | 388867 | [388867-mortal-kombat-11-hellspawn-jacqui.json](./388867-mortal-kombat-11-hellspawn-jacqui.json) |
+| Mortal Kombat 11: Klassic Arcade Fighter Pack | 308744 | [308744-mortal-kombat-11-klassic-arcade-fighter-pack.json](./308744-mortal-kombat-11-klassic-arcade-fighter-pack.json) |
+| Mortal Kombat 11: Klassic Arcade Ninja Skin Pack 1 | 308743 | [308743-mortal-kombat-11-klassic-arcade-ninja-skin-pack-1.json](./308743-mortal-kombat-11-klassic-arcade-ninja-skin-pack-1.json) |
 | Mortal Kombat 11: Klassic Cassie | 406877 | [406877-mortal-kombat-11-klassic-cassie.json](./406877-mortal-kombat-11-klassic-cassie.json) |
 | Mortal Kombat 11: Klassic Femme Fatale Pack | 407089 | [407089-mortal-kombat-11-klassic-femme-fatale-pack.json](./407089-mortal-kombat-11-klassic-femme-fatale-pack.json) |
 | Mortal Kombat 11: Kollector's Edition | 136267 | [136267-mortal-kombat-11-kollectors-edition.json](./136267-mortal-kombat-11-kollectors-edition.json) |
 | Mortal Kombat 11: Kombat Pack | 133278 | [133278-mortal-kombat-11-kombat-pack.json](./133278-mortal-kombat-11-kombat-pack.json) |
 | Mortal Kombat 11: Kombat Pack 2 | 139445 | [139445-mortal-kombat-11-kombat-pack-2.json](./139445-mortal-kombat-11-kombat-pack-2.json) |
 | Mortal Kombat 11: Masquerade Skin Pack | 296025 | [296025-mortal-kombat-11-masquerade-skin-pack.json](./296025-mortal-kombat-11-masquerade-skin-pack.json) |
+| Mortal Kombat 11: Matinee Skin Pack | 308745 | [308745-mortal-kombat-11-matinee-skin-pack.json](./308745-mortal-kombat-11-matinee-skin-pack.json) |
 | Mortal Kombat 11: Mileena | 139442 | [139442-mortal-kombat-11-mileena.json](./139442-mortal-kombat-11-mileena.json) |
 | Mortal Kombat 11: Nightwolf | 133274 | [133274-mortal-kombat-11-nightwolf.json](./133274-mortal-kombat-11-nightwolf.json) |
 | Mortal Kombat 11: Ninja Mime Johnny Cage | 406880 | [406880-mortal-kombat-11-ninja-mime-johnny-cage.json](./406880-mortal-kombat-11-ninja-mime-johnny-cage.json) |
@@ -16731,8 +16738,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat X: Jason Voorhees | 24213 | [24213-mortal-kombat-x-jason-voorhees.json](./24213-mortal-kombat-x-jason-voorhees.json) |
 | Mortal Kombat X: Klassic Fatalities 1 | 339949 | [339949-mortal-kombat-x-klassic-fatalities-1.json](./339949-mortal-kombat-x-klassic-fatalities-1.json) |
 | Mortal Kombat X: Klassic Fatalities 2 | 340022 | [340022-mortal-kombat-x-klassic-fatalities-2.json](./340022-mortal-kombat-x-klassic-fatalities-2.json) |
+| Mortal Kombat X: Klassic Pack 1 | 308747 | [308747-mortal-kombat-x-klassic-pack-1.json](./308747-mortal-kombat-x-klassic-pack-1.json) |
+| Mortal Kombat X: Klassic Pack 2 | 308748 | [308748-mortal-kombat-x-klassic-pack-2.json](./308748-mortal-kombat-x-klassic-pack-2.json) |
+| Mortal Kombat X: Kold War Pack | 308749 | [308749-mortal-kombat-x-kold-war-pack.json](./308749-mortal-kombat-x-kold-war-pack.json) |
 | Mortal Kombat X: Kold War Scorpion | 340201 | [340201-mortal-kombat-x-kold-war-scorpion.json](./340201-mortal-kombat-x-kold-war-scorpion.json) |
 | Mortal Kombat X: Kollector's Edition | 45150 | [45150-mortal-kombat-x-kollectors-edition.json](./45150-mortal-kombat-x-kollectors-edition.json) |
+| Mortal Kombat X: Krimson Ermac | 308750 | [308750-mortal-kombat-x-krimson-ermac.json](./308750-mortal-kombat-x-krimson-ermac.json) |
 | Mortal Kombat X: Leatherface | 141053 | [141053-mortal-kombat-x-leatherface.json](./141053-mortal-kombat-x-leatherface.json) |
 | Mortal Kombat X: Predator | 164819 | [164819-mortal-kombat-x-predator.json](./164819-mortal-kombat-x-predator.json) |
 | Mortal Kombat X: Predator | 24215 | [24215-mortal-kombat-x-predator.json](./24215-mortal-kombat-x-predator.json) |
