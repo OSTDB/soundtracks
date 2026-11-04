@@ -5537,6 +5537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photoelektric | 208667 | [208667-photoelektric.json](./208667-photoelektric.json) |
 | Photogeist | 307693 | [307693-photogeist.json](./307693-photogeist.json) |
 | Photogeist Albums: Case 1 | 307337 | [307337-photogeist-albums-case-1.json](./307337-photogeist-albums-case-1.json) |
+| Photogeist Albums: Case 2 | 315725 | [315725-photogeist-albums-case-2.json](./315725-photogeist-albums-case-2.json) |
 | Photogeist Albums: Stayfer River Saga | 379414 | [379414-photogeist-albums-stayfer-river-saga.json](./379414-photogeist-albums-stayfer-river-saga.json) |
 | Photogenic | 283558 | [283558-photogenic.json](./283558-photogenic.json) |
 | Photogenic Minds: Identity | 213543 | [213543-photogenic-minds-identity.json](./213543-photogenic-minds-identity.json) |
@@ -5594,6 +5595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phyrok | 60941 | [60941-phyrok.json](./60941-phyrok.json) |
 | Physarum: Slime Mold Simulator | 165336 | [165336-physarum-slime-mold-simulator.json](./165336-physarum-slime-mold-simulator.json) |
 | PhysDrive | 30973 | [30973-physdrive.json](./30973-physdrive.json) |
+| Physiblock | 315426 | [315426-physiblock.json](./315426-physiblock.json) |
 | Physica-E | 55737 | [55737-physica-e.json](./55737-physica-e.json) |
 | Physical Contact: 2048 | 70884 | [70884-physical-contact-2048.json](./70884-physical-contact-2048.json) |
 | Physical Contact: Picture Place | 74348 | [74348-physical-contact-picture-place.json](./74348-physical-contact-picture-place.json) |
@@ -13605,6 +13607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Press Forward Ooooonnnnn | 129965 | [129965-press-forward-ooooonnnnn.json](./129965-press-forward-ooooonnnnn.json) |
 | Press Inc. | 108275 | [108275-press-inc.json](./108275-press-inc.json) |
 | Press Lex to Metaverx | 212097 | [212097-press-lex-to-metaverx.json](./212097-press-lex-to-metaverx.json) |
+| Press Paws: Idle Clicker | 315415 | [315415-press-paws-idle-clicker.json](./315415-press-paws-idle-clicker.json) |
 | Press Play | 229568 | [229568-press-play.json](./229568-press-play.json) |
 | Press the alphabetically first letter | 207222 | [207222-press-the-alphabetically-first-letter.json](./207222-press-the-alphabetically-first-letter.json) |
 | Press W to Move Forward | 222823 | [222823-press-w-to-move-forward.json](./222823-press-w-to-move-forward.json) |
@@ -15984,6 +15987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prophecy of Ashen | 334330 | [334330-prophecy-of-ashen.json](./334330-prophecy-of-ashen.json) |
 | Prophecy of the Nun | 165657 | [165657-prophecy-of-the-nun.json](./165657-prophecy-of-the-nun.json) |
 | Prophecy: The Viking Child | 49029 | [49029-prophecy-the-viking-child.json](./49029-prophecy-the-viking-child.json) |
+| Prophesy of Pendor | 315431 | [315431-prophesy-of-pendor.json](./315431-prophesy-of-pendor.json) |
 | Prophet | 156898 | [156898-prophet.json](./156898-prophet.json) |
 | Prophet | 357677 | [357677-prophet.json](./357677-prophet.json) |
 | Prophet Margin | 376537 | [376537-prophet-margin.json](./376537-prophet-margin.json) |
@@ -16184,6 +16188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proverbs | 318962 | [318962-proverbs.json](./318962-proverbs.json) |
 | Proviant | 90618 | [90618-proviant.json](./90618-proviant.json) |
 | Provide Relief | 272008 | [272008-provide-relief.json](./272008-provide-relief.json) |
+| Providence | 315430 | [315430-providence.json](./315430-providence.json) |
 | Providence | 340289 | [340289-providence.json](./340289-providence.json) |
 | Providentia Academy | 341440 | [341440-providentia-academy.json](./341440-providentia-academy.json) |
 | Provider | 164919 | [164919-provider.json](./164919-provider.json) |
