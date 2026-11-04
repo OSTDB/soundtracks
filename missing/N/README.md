@@ -5313,6 +5313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nissan Presents Over Drivin' GT-R | 45454 | [45454-nissan-presents-over-drivin-gt-r.json](./45454-nissan-presents-over-drivin-gt-r.json) |
 | Nissan Presents: Over Drivin' Skyline Memorial | 200009 | [200009-nissan-presents-over-drivin-skyline-memorial.json](./200009-nissan-presents-over-drivin-skyline-memorial.json) |
 | Nissebanden i Grønland | 288107 | [288107-nissebanden-i-gr-nland.json](./288107-nissebanden-i-gr-nland.json) |
+| Nisukka Racing Simulation | 336294 | [336294-nisukka-racing-simulation.json](./336294-nisukka-racing-simulation.json) |
 | Nisus Missile Master | 70316 | [70316-nisus-missile-master.json](./70316-nisus-missile-master.json) |
 | NITE Team 4 | 27675 | [27675-nite-team-4.json](./27675-nite-team-4.json) |
 | Nitebear on Sleepystreet | 304198 | [304198-nitebear-on-sleepystreet.json](./304198-nitebear-on-sleepystreet.json) |
@@ -6045,6 +6046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nodrog's Fortress | 182463 | [182463-nodrogs-fortress.json](./182463-nodrogs-fortress.json) |
 | Nodwar | 378906 | [378906-nodwar.json](./378906-nodwar.json) |
 | Noel 3: Mission on the Line | 107624 | [107624-noel-3-mission-on-the-line.json](./107624-noel-3-mission-on-the-line.json) |
+| Noel 3: Not Digital | 336305 | [336305-noel-3-not-digital.json](./336305-noel-3-not-digital.json) |
 | Noel the Mortal Fate | 192026 | [192026-noel-the-mortal-fate.json](./192026-noel-the-mortal-fate.json) |
 | Noel the Mortal Fate S1-7 | 102484 | [102484-noel-the-mortal-fate-s1-7.json](./102484-noel-the-mortal-fate-s1-7.json) |
 | Noel the Mortal Fate: Complete Edition | 354817 | [354817-noel-the-mortal-fate-complete-edition.json](./354817-noel-the-mortal-fate-complete-edition.json) |
