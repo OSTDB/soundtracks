@@ -1164,6 +1164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Escape: Illusion (VR) | 172311 | [172311-tales-of-escape-illusion-vr.json](./172311-tales-of-escape-illusion-vr.json) |
 | Tales of Escape: Sleepy Hollow VR | 148500 | [148500-tales-of-escape-sleepy-hollow-vr.json](./148500-tales-of-escape-sleepy-hollow-vr.json) |
 | Tales of Esferia: Araxis | 151521 | [151521-tales-of-esferia-araxis.json](./151521-tales-of-esferia-araxis.json) |
+| Tales of Eternia | 329316 | [329316-tales-of-eternia.json](./329316-tales-of-eternia.json) |
 | Tales of Eternia Online | 79163 | [79163-tales-of-eternia-online.json](./79163-tales-of-eternia-online.json) |
 | Tales of Eternia: Remastered | 405458 | [405458-tales-of-eternia-remastered.json](./405458-tales-of-eternia-remastered.json) |
 | Tales of Fablecraft | 224301 | [224301-tales-of-fablecraft.json](./224301-tales-of-fablecraft.json) |
@@ -16470,6 +16471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Squid Plays | 376269 | [376269-the-squid-plays.json](./376269-the-squid-plays.json) |
 | The Squiggles Saga | 331222 | [331222-the-squiggles-saga.json](./331222-the-squiggles-saga.json) |
 | The Squirrel & Sea | 358305 | [358305-the-squirrel-and-sea.json](./358305-the-squirrel-and-sea.json) |
+| The SS Destiny Disaster | 329451 | [329451-the-ss-destiny-disaster.json](./329451-the-ss-destiny-disaster.json) |
 | The Ssum | 194973 | [194973-the-ssum.json](./194973-the-ssum.json) |
 | The St Christopher's School Lockdown | 74393 | [74393-the-st-christophers-school-lockdown.json](./74393-the-st-christophers-school-lockdown.json) |
 | The Stacks | 40616 | [40616-the-stacks.json](./40616-the-stacks.json) |
@@ -17598,6 +17600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimate Clicker Master of the Universe | 334825 | [334825-the-ultimate-clicker-master-of-the-universe.json](./334825-the-ultimate-clicker-master-of-the-universe.json) |
 | The Ultimate Couch Game | 288626 | [288626-the-ultimate-couch-game.json](./288626-the-ultimate-couch-game.json) |
 | The Ultimate Death Clock | 251720 | [251720-the-ultimate-death-clock.json](./251720-the-ultimate-death-clock.json) |
+| The Ultimate Detective Bundle | 329450 | [329450-the-ultimate-detective-bundle.json](./329450-the-ultimate-detective-bundle.json) |
 | The Ultimate Doom | 10192 | [10192-the-ultimate-doom.json](./10192-the-ultimate-doom.json) |
 | The Ultimate Doom | 260017 | [260017-the-ultimate-doom.json](./260017-the-ultimate-doom.json) |
 | The Ultimate Doom: In Name Only | 259749 | [259749-the-ultimate-doom-in-name-only.json](./259749-the-ultimate-doom-in-name-only.json) |
@@ -18183,6 +18186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Weakest Link & Friends | 86100 | [86100-the-weakest-link-and-friends.json](./86100-the-weakest-link-and-friends.json) |
 | The Weald | 153124 | [153124-the-weald.json](./153124-the-weald.json) |
 | The Weapon King | 260761 | [260761-the-weapon-king.json](./260761-the-weapon-king.json) |
+| The Weather Up There | 329335 | [329335-the-weather-up-there.json](./329335-the-weather-up-there.json) |
 | The Weave of Heroes - RPG | 27755 | [27755-the-weave-of-heroes-rpg.json](./27755-the-weave-of-heroes-rpg.json) |
 | The Wedding | 286531 | [286531-the-wedding.json](./286531-the-wedding.json) |
 | The Wednesday | 169661 | [169661-the-wednesday.json](./169661-the-wednesday.json) |
@@ -23513,6 +23517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet Farm | 185005 | [185005-toilet-farm.json](./185005-toilet-farm.json) |
 | Toilet Fight: Open World | 273945 | [273945-toilet-fight-open-world.json](./273945-toilet-fight-open-world.json) |
 | Toilet Flushing Simulator | 175710 | [175710-toilet-flushing-simulator.json](./175710-toilet-flushing-simulator.json) |
+| Toilet he Go 1+2 | 329318 | [329318-toilet-he-go-1-2.json](./329318-toilet-he-go-1-2.json) |
 | Toilet Hero | 352148 | [352148-toilet-hero.json](./352148-toilet-hero.json) |
 | Toilet in Wonderland | 25015 | [25015-toilet-in-wonderland.json](./25015-toilet-in-wonderland.json) |
 | Toilet Kids | 38072 | [38072-toilet-kids.json](./38072-toilet-kids.json) |
@@ -27000,6 +27005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 4: USA Regional Edition | 268838 | [268838-train-sim-world-4-usa-regional-edition.json](./268838-train-sim-world-4-usa-regional-edition.json) |
 | Train Sim World 5 | 314215 | [314215-train-sim-world-5.json](./314215-train-sim-world-5.json) |
 | Train Sim World 5: Amtrak's Acela | 359951 | [359951-train-sim-world-5-amtraks-acela.json](./359951-train-sim-world-5-amtraks-acela.json) |
+| Train Sim World 5: Antelope Valley Line - Los Angeles - Lancaster Route Add-On | 329314 | [329314-train-sim-world-5-antelope-valley-line-los-angeles-lancaster-route-add-on.json](./329314-train-sim-world-5-antelope-valley-line-los-angeles-lancaster-route-add-on.json) |
 | Train Sim World 5: Arosalinie: Chur - Arosa Route Add-On | 359930 | [359930-train-sim-world-5-arosalinie-chur-arosa-route-add-on.json](./359930-train-sim-world-5-arosalinie-chur-arosa-route-add-on.json) |
 | Train Sim World 5: Avanti West Coast BR Class 390 Pendolino EMU | 332088 | [332088-train-sim-world-5-avanti-west-coast-br-class-390-pendolino-emu.json](./332088-train-sim-world-5-avanti-west-coast-br-class-390-pendolino-emu.json) |
 | Train Sim World 5: Avanti West Coast BR Class 390 Pendolino EMU Add-On | 360159 | [360159-train-sim-world-5-avanti-west-coast-br-class-390-pendolino-emu-add-on.json](./360159-train-sim-world-5-avanti-west-coast-br-class-390-pendolino-emu-add-on.json) |
@@ -27044,6 +27050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 5: Diesel Legends of the Great Western Add-On | 359958 | [359958-train-sim-world-5-diesel-legends-of-the-great-western-add-on.json](./359958-train-sim-world-5-diesel-legends-of-the-great-western-add-on.json) |
 | Train Sim World 5: Dispolok BR 182 Add-On | 359977 | [359977-train-sim-world-5-dispolok-br-182-add-on.json](./359977-train-sim-world-5-dispolok-br-182-add-on.json) |
 | Train Sim World 5: Dutch Regional Edition | 336939 | [336939-train-sim-world-5-dutch-regional-edition.json](./336939-train-sim-world-5-dutch-regional-edition.json) |
+| Train Sim World 5: East Coast Main Line - Peterborough - Doncaster Route | 329315 | [329315-train-sim-world-5-east-coast-main-line-peterborough-doncaster-route.json](./329315-train-sim-world-5-east-coast-main-line-peterborough-doncaster-route.json) |
 | Train Sim World 5: East Coastway: Brighton - Eastbourne & Seaford Route Add-On | 359497 | [359497-train-sim-world-5-east-coastway-brighton-eastbourne-and-seaford-route-add-on.json](./359497-train-sim-world-5-east-coastway-brighton-eastbourne-and-seaford-route-add-on.json) |
 | Train Sim World 5: Edinburgh - Glasgow: Engineering Express Pack | 359963 | [359963-train-sim-world-5-edinburgh-glasgow-engineering-express-pack.json](./359963-train-sim-world-5-edinburgh-glasgow-engineering-express-pack.json) |
 | Train Sim World 5: Expert DB BR 101 & IC Steuerwagen Loco Add-On | 359978 | [359978-train-sim-world-5-expert-db-br-101-and-ic-steuerwagen-loco-add-on.json](./359978-train-sim-world-5-expert-db-br-101-and-ic-steuerwagen-loco-add-on.json) |
@@ -27066,8 +27073,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 5: Island Line 2022: BR Class 484 EMU Add-On | 359182 | [359182-train-sim-world-5-island-line-2022-br-class-484-emu-add-on.json](./359182-train-sim-world-5-island-line-2022-br-class-484-emu-add-on.json) |
 | Train Sim World 5: Isle Of Wight: Ryde - Shanklin Route Add-On | 359945 | [359945-train-sim-world-5-isle-of-wight-ryde-shanklin-route-add-on.json](./359945-train-sim-world-5-isle-of-wight-ryde-shanklin-route-add-on.json) |
 | Train Sim World 5: LGV Mediterranee - Marseille: Avignon Route | 318160 | [318160-train-sim-world-5-lgv-mediterranee-marseille-avignon-route.json](./318160-train-sim-world-5-lgv-mediterranee-marseille-avignon-route.json) |
+| Train Sim World 5: Linke Rheinstrecke - Mainz - Koblenz Route Add-On | 329321 | [329321-train-sim-world-5-linke-rheinstrecke-mainz-koblenz-route-add-on.json](./329321-train-sim-world-5-linke-rheinstrecke-mainz-koblenz-route-add-on.json) |
 | Train Sim World 5: LIRR Commuter: New York - Long Beach, Hempstead & Hicksville Route Add-On | 359946 | [359946-train-sim-world-5-lirr-commuter-new-york-long-beach-hempstead-and-hicksville-route-add-on.json](./359946-train-sim-world-5-lirr-commuter-new-york-long-beach-hempstead-and-hicksville-route-add-on.json) |
 | Train Sim World 5: LIRR M3 EMU Add-On | 359178 | [359178-train-sim-world-5-lirr-m3-emu-add-on.json](./359178-train-sim-world-5-lirr-m3-emu-add-on.json) |
+| Train Sim World 5: LNER Class A3 60103 Flying Scotsman Steam Loco Add-On | 329322 | [329322-train-sim-world-5-lner-class-a3-60103-flying-scotsman-steam-loco-add-on.json](./329322-train-sim-world-5-lner-class-a3-60103-flying-scotsman-steam-loco-add-on.json) |
 | Train Sim World 5: London Overground Suffragette line - Gospel Oak - Barking Riverside | 332093 | [332093-train-sim-world-5-london-overground-suffragette-line-gospel-oak-barking-riverside.json](./332093-train-sim-world-5-london-overground-suffragette-line-gospel-oak-barking-riverside.json) |
 | Train Sim World 5: London Underground 1938 Stock EMU Loco Add-On | 359181 | [359181-train-sim-world-5-london-underground-1938-stock-emu-loco-add-on.json](./359181-train-sim-world-5-london-underground-1938-stock-emu-loco-add-on.json) |
 | Train Sim World 5: Long Island Rail Road: New York - Hicksville Route Add-On | 359185 | [359185-train-sim-world-5-long-island-rail-road-new-york-hicksville-route-add-on.json](./359185-train-sim-world-5-long-island-rail-road-new-york-hicksville-route-add-on.json) |
@@ -27078,11 +27087,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 5: MBTA Providence/Stoughton Line HSP46 Pack | 366841 | [366841-train-sim-world-5-mbta-providence-stoughton-line-hsp46-pack.json](./366841-train-sim-world-5-mbta-providence-stoughton-line-hsp46-pack.json) |
 | Train Sim World 5: Metrolink Holiday Train Pack | 336879 | [336879-train-sim-world-5-metrolink-holiday-train-pack.json](./336879-train-sim-world-5-metrolink-holiday-train-pack.json) |
 | Train Sim World 5: Midland Main Line: Leicester - Derby & Nottingham Route Add-On | 359947 | [359947-train-sim-world-5-midland-main-line-leicester-derby-and-nottingham-route-add-on.json](./359947-train-sim-world-5-midland-main-line-leicester-derby-and-nottingham-route-add-on.json) |
+| Train Sim World 5: Nahverkehr Dresden - Riesa Route Add-On | 329323 | [329323-train-sim-world-5-nahverkehr-dresden-riesa-route-add-on.json](./329323-train-sim-world-5-nahverkehr-dresden-riesa-route-add-on.json) |
 | Train Sim World 5: New Journeys - CSX SD40 Add-On | 359968 | [359968-train-sim-world-5-new-journeys-csx-sd40-add-on.json](./359968-train-sim-world-5-new-journeys-csx-sd40-add-on.json) |
 | Train Sim World 5: New Journeys - S-Bahn Köln BR 423 Add-On | 359172 | [359172-train-sim-world-5-new-journeys-s-bahn-koln-br-423-add-on.json](./359172-train-sim-world-5-new-journeys-s-bahn-koln-br-423-add-on.json) |
 | Train Sim World 5: New Journeys - Silver 1972 Stock Add-On | 359934 | [359934-train-sim-world-5-new-journeys-silver-1972-stock-add-on.json](./359934-train-sim-world-5-new-journeys-silver-1972-stock-add-on.json) |
 | Train Sim World 5: Niddertalbahn: Bad Vilbel - Stockheim Route Add-On | 359940 | [359940-train-sim-world-5-niddertalbahn-bad-vilbel-stockheim-route-add-on.json](./359940-train-sim-world-5-niddertalbahn-bad-vilbel-stockheim-route-add-on.json) |
 | Train Sim World 5: Norfolk Southern Heritage Livery Collection Add-On | 359950 | [359950-train-sim-world-5-norfolk-southern-heritage-livery-collection-add-on.json](./359950-train-sim-world-5-norfolk-southern-heritage-livery-collection-add-on.json) |
+| Train Sim World 5: Northeast Corridor: Boston - Providence Route Add-On | 329324 | [329324-train-sim-world-5-northeast-corridor-boston-providence-route-add-on.json](./329324-train-sim-world-5-northeast-corridor-boston-providence-route-add-on.json) |
 | Train Sim World 5: Northeast Corridor: New York - Trenton | 359943 | [359943-train-sim-world-5-northeast-corridor-new-york-trenton.json](./359943-train-sim-world-5-northeast-corridor-new-york-trenton.json) |
 | Train Sim World 5: Northern Trans-Pennine: Manchester - Leeds Route Add-On | 359174 | [359174-train-sim-world-5-northern-trans-pennine-manchester-leeds-route-add-on.json](./359174-train-sim-world-5-northern-trans-pennine-manchester-leeds-route-add-on.json) |
 | Train Sim World 5: Peak Forest Railway: Ambergate - Chinley & Buxton Route Add-On | 359180 | [359180-train-sim-world-5-peak-forest-railway-ambergate-chinley-and-buxton-route-add-on.json](./359180-train-sim-world-5-peak-forest-railway-ambergate-chinley-and-buxton-route-add-on.json) |
@@ -27090,11 +27101,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 5: Pfälzische Ludwigsbahn: Mannheim - Kaiserslautern | 402356 | [402356-train-sim-world-5-pfalzische-ludwigsbahn-mannheim-kaiserslautern.json](./402356-train-sim-world-5-pfalzische-ludwigsbahn-mannheim-kaiserslautern.json) |
 | Train Sim World 5: Rail Head Treatment Train Add-On | 359965 | [359965-train-sim-world-5-rail-head-treatment-train-add-on.json](./359965-train-sim-world-5-rail-head-treatment-train-add-on.json) |
 | Train Sim World 5: Rail Operations Group BR Class 37/7 Add-On | 359511 | [359511-train-sim-world-5-rail-operations-group-br-class-37-7-add-on.json](./359511-train-sim-world-5-rail-operations-group-br-class-37-7-add-on.json) |
+| Train Sim World 5: Railpool BR 193 Vectron Loco Add-On | 329325 | [329325-train-sim-world-5-railpool-br-193-vectron-loco-add-on.json](./329325-train-sim-world-5-railpool-br-193-vectron-loco-add-on.json) |
 | Train Sim World 5: Rapid Transit | 359952 | [359952-train-sim-world-5-rapid-transit.json](./359952-train-sim-world-5-rapid-transit.json) |
 | Train Sim World 5: RhB Anniversary Collection Add-On | 359935 | [359935-train-sim-world-5-rhb-anniversary-collection-add-on.json](./359935-train-sim-world-5-rhb-anniversary-collection-add-on.json) |
 | Train Sim World 5: RhB Arosa Aggregates Pack | 359512 | [359512-train-sim-world-5-rhb-arosa-aggregates-pack.json](./359512-train-sim-world-5-rhb-arosa-aggregates-pack.json) |
 | Train Sim World 5: Rhein-Ruhr Osten: Wuppertal - Hagen Route Add-On | 359491 | [359491-train-sim-world-5-rhein-ruhr-osten-wuppertal-hagen-route-add-on.json](./359491-train-sim-world-5-rhein-ruhr-osten-wuppertal-hagen-route-add-on.json) |
 | Train Sim World 5: Ruhr-Sieg Nord: Hagen - Finnentrop Route Add-On | 359944 | [359944-train-sim-world-5-ruhr-sieg-nord-hagen-finnentrop-route-add-on.json](./359944-train-sim-world-5-ruhr-sieg-nord-hagen-finnentrop-route-add-on.json) |
+| Train Sim World 5: S-Bahn Vorarlberg: Lindau - Bludenz Route Add-On | 329326 | [329326-train-sim-world-5-s-bahn-vorarlberg-lindau-bludenz-route-add-on.json](./329326-train-sim-world-5-s-bahn-vorarlberg-lindau-bludenz-route-add-on.json) |
 | Train Sim World 5: S-Bahn Zentralschweiz: Luzern - Sursee Route Add-On | 359489 | [359489-train-sim-world-5-s-bahn-zentralschweiz-luzern-sursee-route-add-on.json](./359489-train-sim-world-5-s-bahn-zentralschweiz-luzern-sursee-route-add-on.json) |
 | Train Sim World 5: San Bernardino Line: Los Angeles - San Bernardino Route Add-On | 360156 | [360156-train-sim-world-5-san-bernardino-line-los-angeles-san-bernardino-route-add-on.json](./360156-train-sim-world-5-san-bernardino-line-los-angeles-san-bernardino-route-add-on.json) |
 | Train Sim World 5: Santa Fe F7 Add-On | 359974 | [359974-train-sim-world-5-santa-fe-f7-add-on.json](./359974-train-sim-world-5-santa-fe-f7-add-on.json) |
@@ -27104,6 +27117,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 5: ScotRail BR Class 380 EMU Add-On | 359967 | [359967-train-sim-world-5-scotrail-br-class-380-emu-add-on.json](./359967-train-sim-world-5-scotrail-br-class-380-emu-add-on.json) |
 | Train Sim World 5: ScotRail Express: Edinburgh - Glasgow Route Add-On | 359488 | [359488-train-sim-world-5-scotrail-express-edinburgh-glasgow-route-add-on.json](./359488-train-sim-world-5-scotrail-express-edinburgh-glasgow-route-add-on.json) |
 | Train Sim World 5: Sherman Hill - Cheyenne - Laramie | 332095 | [332095-train-sim-world-5-sherman-hill-cheyenne-laramie.json](./332095-train-sim-world-5-sherman-hill-cheyenne-laramie.json) |
+| Train Sim World 5: Sherman Hill: Cheyenne - Laramie Route Add-On | 329327 | [329327-train-sim-world-5-sherman-hill-cheyenne-laramie-route-add-on.json](./329327-train-sim-world-5-sherman-hill-cheyenne-laramie-route-add-on.json) |
+| Train Sim World 5: Southeastern Highspeed: London St Pancras - Ashford Intl & Faversham Route Add-On | 329328 | [329328-train-sim-world-5-southeastern-highspeed-london-st-pancras-ashford-intl-and-faversham-route-add-on.json](./329328-train-sim-world-5-southeastern-highspeed-london-st-pancras-ashford-intl-and-faversham-route-add-on.json) |
 | Train Sim World 5: Southern BR Class 313 EMU | 359484 | [359484-train-sim-world-5-southern-br-class-313-emu.json](./359484-train-sim-world-5-southern-br-class-313-emu.json) |
 | Train Sim World 5: Special Edition | 331829 | [331829-train-sim-world-5-special-edition.json](./331829-train-sim-world-5-special-edition.json) |
 | Train Sim World 5: Spirit of Steam: Liverpool Lime Street - Crewe Route Add-On | 359961 | [359961-train-sim-world-5-spirit-of-steam-liverpool-lime-street-crewe-route-add-on.json](./359961-train-sim-world-5-spirit-of-steam-liverpool-lime-street-crewe-route-add-on.json) |
@@ -31246,6 +31261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TurBot | 163893 | [163893-turbot.json](./163893-turbot.json) |
 | TurbOT Racing | 95204 | [95204-turbot-racing.json](./95204-turbot-racing.json) |
 | Turbotron | 184567 | [184567-turbotron.json](./184567-turbotron.json) |
+| Turbotz Testing 20XX | 329299 | [329299-turbotz-testing-20xx.json](./329299-turbotz-testing-20xx.json) |
 | Turbulence: Airplane Survival Simulator | 161754 | [161754-turbulence-airplane-survival-simulator.json](./161754-turbulence-airplane-survival-simulator.json) |
 | Turdy | 172195 | [172195-turdy.json](./172195-turdy.json) |
 | Turf | 61590 | [61590-turf.json](./61590-turf.json) |
