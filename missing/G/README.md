@@ -4740,6 +4740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glint Glitters | 304119 | [304119-glint-glitters.json](./304119-glint-glitters.json) |
 | Glint's Trial | 356156 | [356156-glints-trial.json](./356156-glints-trial.json) |
 | Glintland | 355293 | [355293-glintland.json](./355293-glintland.json) |
+| Glintseeker Island | 325975 | [325975-glintseeker-island.json](./325975-glintseeker-island.json) |
 | Gliont Lights | 388260 | [388260-gliont-lights.json](./388260-gliont-lights.json) |
 | Glista | 84045 | [84045-glista.json](./84045-glista.json) |
 | Glisten to Your Heart: The Courage Within You | 170564 | [170564-glisten-to-your-heart-the-courage-within-you.json](./170564-glisten-to-your-heart-the-courage-within-you.json) |
@@ -8525,6 +8526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed Realm | 278991 | [278991-greed-realm.json](./278991-greed-realm.json) |
 | Greed School Test | 231606 | [231606-greed-school-test.json](./231606-greed-school-test.json) |
 | Greed Series | 289186 | [289186-greed-series.json](./289186-greed-series.json) |
+| Greed Stays Home | 325971 | [325971-greed-stays-home.json](./325971-greed-stays-home.json) |
 | Greed: Black Border | 10377 | [10377-greed-black-border.json](./10377-greed-black-border.json) |
 | Greed: The Mad Scientist | 113068 | [113068-greed-the-mad-scientist.json](./113068-greed-the-mad-scientist.json) |
 | Greed's Grub | 349365 | [349365-greeds-grub.json](./349365-greeds-grub.json) |
