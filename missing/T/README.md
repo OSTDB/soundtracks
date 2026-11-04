@@ -655,6 +655,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails of Fate | 238553 | [238553-tails-of-fate.json](./238553-tails-of-fate.json) |
 | Tails of Glimmervale | 289867 | [289867-tails-of-glimmervale.json](./289867-tails-of-glimmervale.json) |
 | Tails of Iron | 116422 | [116422-tails-of-iron.json](./116422-tails-of-iron.json) |
+| Tails of Iron & Tails of Iron 2: Deluxe Bundle | 330410 | [330410-tails-of-iron-and-tails-of-iron-2-deluxe-bundle.json](./330410-tails-of-iron-and-tails-of-iron-2-deluxe-bundle.json) |
+| Tails of Iron & Tails of Iron 2: Standard Bundle | 330411 | [330411-tails-of-iron-and-tails-of-iron-2-standard-bundle.json](./330411-tails-of-iron-and-tails-of-iron-2-standard-bundle.json) |
 | Tails of Iron II: Blood and Brine | 414781 | [414781-tails-of-iron-ii-blood-and-brine.json](./414781-tails-of-iron-ii-blood-and-brine.json) |
 | Tails of Iron II: Whiskers of Winter | 292877 | [292877-tails-of-iron-ii-whiskers-of-winter.json](./292877-tails-of-iron-ii-whiskers-of-winter.json) |
 | Tails of Iron II: Whiskers of Winter - Augur of the Draugr Armour Pack | 371224 | [371224-tails-of-iron-ii-whiskers-of-winter-augur-of-the-draugr-armour-pack.json](./371224-tails-of-iron-ii-whiskers-of-winter-augur-of-the-draugr-armour-pack.json) |
@@ -30374,6 +30376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator 2023: Driver Europe - Premium Edition | 328806 | [328806-truck-simulator-2023-driver-europe-premium-edition.json](./328806-truck-simulator-2023-driver-europe-premium-edition.json) |
 | Truck Simulator 2024: USA Driver Zone | 283220 | [283220-truck-simulator-2024-usa-driver-zone.json](./283220-truck-simulator-2024-usa-driver-zone.json) |
 | Truck Simulator 2024: USA Driver Zone - Premium Edition | 313229 | [313229-truck-simulator-2024-usa-driver-zone-premium-edition.json](./313229-truck-simulator-2024-usa-driver-zone-premium-edition.json) |
+| Truck Simulator 2025 & Vehicle Simulator Bundle | 330412 | [330412-truck-simulator-2025-and-vehicle-simulator-bundle.json](./330412-truck-simulator-2025-and-vehicle-simulator-bundle.json) |
 | Truck Simulator 2025: City Work Delivery | 356516 | [356516-truck-simulator-2025-city-work-delivery.json](./356516-truck-simulator-2025-city-work-delivery.json) |
 | Truck Simulator 25 VR: American Driver | 353964 | [353964-truck-simulator-25-vr-american-driver.json](./353964-truck-simulator-25-vr-american-driver.json) |
 | Truck Simulator 25: Euro Driver | 344245 | [344245-truck-simulator-25-euro-driver.json](./344245-truck-simulator-25-euro-driver.json) |
