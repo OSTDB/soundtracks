@@ -2752,6 +2752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5991,6 +5992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kunkun Battles | 292244 | [292244-kunkun-battles.json](./292244-kunkun-battles.json) |
 | KunKun Defender | 298127 | [298127-kunkun-defender.json](./298127-kunkun-defender.json) |
 | Kunkun Defender 2 | 343863 | [343863-kunkun-defender-2.json](./343863-kunkun-defender-2.json) |
+| KunKun Dream Startles the Soul | 291734 | [291734-kunkun-dream-startles-the-soul.json](./291734-kunkun-dream-startles-the-soul.json) |
 | Kunkun Dream Startles the Soul-Ghost Animal Cosplay | 358236 | [358236-kunkun-dream-startles-the-soul-ghost-animal-cosplay.json](./358236-kunkun-dream-startles-the-soul-ghost-animal-cosplay.json) |
 | Kunkun Dream Startles the Soul-Kunkunzi | 358235 | [358235-kunkun-dream-startles-the-soul-kunkunzi.json](./358235-kunkun-dream-startles-the-soul-kunkunzi.json) |
 | Kunkun League | 303619 | [303619-kunkun-league.json](./303619-kunkun-league.json) |
