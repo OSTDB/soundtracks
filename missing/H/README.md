@@ -775,6 +775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloweenies | 352304 | [352304-halloweenies.json](./352304-halloweenies.json) |
 | Halloweenistry | 55673 | [55673-halloweenistry.json](./55673-halloweenistry.json) |
 | Halloweenistry 2 | 55776 | [55776-halloweenistry-2.json](./55776-halloweenistry-2.json) |
+| Halloweens | 282396 | [282396-halloweens.json](./282396-halloweens.json) |
 | Hallowlands | 203674 | [203674-hallowlands.json](./203674-hallowlands.json) |
 | Hallows Hill | 407385 | [407385-hallows-hill.json](./407385-hallows-hill.json) |
 | Hallows' Eve | 74961 | [74961-hallows-eve.json](./74961-hallows-eve.json) |
@@ -936,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamburg: Neue Burg VR | 291510 | [291510-hamburg-neue-burg-vr.json](./291510-hamburg-neue-burg-vr.json) |
 | Hamburger | 284447 | [284447-hamburger.json](./284447-hamburger.json) |
 | Hamburger | 346059 | [346059-hamburger.json](./346059-hamburger.json) |
+| Hamburger in Space! | 282360 | [282360-hamburger-in-space.json](./282360-hamburger-in-space.json) |
 | Hamburger Shop | 385514 | [385514-hamburger-shop.json](./385514-hamburger-shop.json) |
 | Hamburger Shop | 386974 | [386974-hamburger-shop.json](./386974-hamburger-shop.json) |
 | Hamburgers En Route to Switzerland | 307522 | [307522-hamburgers-en-route-to-switzerland.json](./307522-hamburgers-en-route-to-switzerland.json) |
