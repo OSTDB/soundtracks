@@ -4523,6 +4523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Heart Baekgu | 209290 | [209290-white-heart-baekgu.json](./209290-white-heart-baekgu.json) |
 | White Heart Baekgu 3 | 209292 | [209292-white-heart-baekgu-3.json](./209292-white-heart-baekgu-3.json) |
 | White Heart Baekgu's Second Story | 209291 | [209291-white-heart-baekgus-second-story.json](./209291-white-heart-baekgus-second-story.json) |
+| White Hearts | 253134 | [253134-white-hearts.json](./253134-white-hearts.json) |
 | White Heaven | 320100 | [320100-white-heaven.json](./320100-white-heaven.json) |
 | White Hell | 162256 | [162256-white-hell.json](./162256-white-hell.json) |
 | White House | 409237 | [409237-white-house.json](./409237-white-house.json) |
@@ -5895,6 +5896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Grae | 188827 | [188827-winter-grae.json](./188827-winter-grae.json) |
 | Winter Heat | 367954 | [367954-winter-heat.json](./367954-winter-heat.json) |
 | Winter Hunting | 373603 | [373603-winter-hunting.json](./373603-winter-hunting.json) |
+| Winter Intrusion | 253156 | [253156-winter-intrusion.json](./253156-winter-intrusion.json) |
 | Winter is here | 294110 | [294110-winter-is-here.json](./294110-winter-is-here.json) |
 | Winter Is... | 92389 | [92389-winter-is.json](./92389-winter-is.json) |
 | Winter Lord | 329133 | [329133-winter-lord.json](./329133-winter-lord.json) |
@@ -7069,6 +7071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderland Dizzy | 152001 | [152001-wonderland-dizzy.json](./152001-wonderland-dizzy.json) |
 | Wonderland Mahjong | 415957 | [415957-wonderland-mahjong.json](./415957-wonderland-mahjong.json) |
 | Wonderland Nights: White Rabbit's Diary | 151705 | [151705-wonderland-nights-white-rabbits-diary.json](./151705-wonderland-nights-white-rabbits-diary.json) |
+| Wonderland of Carbuncle | 253121 | [253121-wonderland-of-carbuncle.json](./253121-wonderland-of-carbuncle.json) |
 | Wonderland on Desktop | 354936 | [354936-wonderland-on-desktop.json](./354936-wonderland-on-desktop.json) |
 | Wonderland Online | 158149 | [158149-wonderland-online.json](./158149-wonderland-online.json) |
 | Wonderland Quest | 216482 | [216482-wonderland-quest.json](./216482-wonderland-quest.json) |
@@ -8337,6 +8340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Voyage | 53109 | [53109-world-voyage.json](./53109-world-voyage.json) |
 | World VR Competition | 32801 | [32801-world-vr-competition.json](./32801-world-vr-competition.json) |
 | World War | 78611 | [78611-world-war.json](./78611-world-war.json) |
+| World War 0x | 253120 | [253120-world-war-0x.json](./253120-world-war-0x.json) |
 | World War 1 | 262051 | [262051-world-war-1.json](./262051-world-war-1.json) |
 | World War 1: Ruined - Part 2 | 265118 | [265118-world-war-1-ruined-part-2.json](./265118-world-war-1-ruined-part-2.json) |
 | World War 1: Ruined Part 1 | 262040 | [262040-world-war-1-ruined-part-1.json](./262040-world-war-1-ruined-part-1.json) |
