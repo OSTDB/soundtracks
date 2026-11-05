@@ -3367,6 +3367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EmyLiveShow: Demons and Mistresses Tale | 385111 | [385111-emyliveshow-demons-and-mistresses-tale.json](./385111-emyliveshow-demons-and-mistresses-tale.json) |
 | EmyLiveShow: Hentai Puzzle Game | 264774 | [264774-emyliveshow-hentai-puzzle-game.json](./264774-emyliveshow-hentai-puzzle-game.json) |
 | EmyLiveShow: King of Desires | 356959 | [356959-emyliveshow-king-of-desires.json](./356959-emyliveshow-king-of-desires.json) |
+| EmyLiveShow: S&M Story | 248359 | [248359-emyliveshow-s-and-m-story.json](./248359-emyliveshow-s-and-m-story.json) |
 | EmyLiveShow: S&M Story - Safe Edition | 294093 | [294093-emyliveshow-s-and-m-story-safe-edition.json](./294093-emyliveshow-s-and-m-story-safe-edition.json) |
 | Emzombed | 267473 | [267473-emzombed.json](./267473-emzombed.json) |
 | En Campaña | 262267 | [262267-en-campana.json](./262267-en-campana.json) |
