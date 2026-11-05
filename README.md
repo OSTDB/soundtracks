@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://ostdb.net"><img alt="soundtracks: 2,949" src="https://img.shields.io/badge/soundtracks-2%2C949-E2B714?style=for-the-badge&labelColor=161718" /></a>
 <a href="games/README.md"><img alt="games: 2,466" src="https://img.shields.io/badge/games-2%2C466-ECECEE?style=for-the-badge&labelColor=161718" /></a>
-<a href="missing/README.md"><img alt="missing: 309,194" src="https://img.shields.io/badge/missing-309%2C194-F0827A?style=for-the-badge&labelColor=161718" /></a>
+<a href="missing/README.md"><img alt="missing: 310,331" src="https://img.shields.io/badge/missing-310%2C331-F0827A?style=for-the-badge&labelColor=161718" /></a>
 <a href="SUBMITTING.md"><img alt="PRs: welcome" src="https://img.shields.io/badge/PRs-welcome-1DB954?style=for-the-badge&labelColor=161718&logo=github&logoColor=white" /></a>
 <a href="LICENSE"><img alt="data: CC BY-NC-SA 4.0" src="https://img.shields.io/badge/data-CC%20BY--NC--SA%204.0-6366F1?style=for-the-badge&labelColor=161718" /></a>
 </p>
@@ -27,20 +27,20 @@
 
 <table>
 <tr>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/parking-garage-rally-circuit"><img src="https://i.scdn.co/image/ab67616d0000b273ead44368669f06e0e454794d" width="120" height="120" alt="" /></a><br /><sub><b>Parking Garage Rally Circuit</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/summer-catchers"><img src="https://i.scdn.co/image/ab67616d0000b2735bf6eafd0e70d3035ebdf6be" width="120" height="120" alt="" /></a><br /><sub><b>Summer Catchers</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/messenger"><img src="https://i.scdn.co/image/ab67616d0000b273150a896fb936912bc541a0a7" width="120" height="120" alt="" /></a><br /><sub><b>Messenger</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/dressmaker"><img src="https://i.scdn.co/image/ab67616d0000b27393dba75fd97f37beaf783f01" width="120" height="120" alt="" /></a><br /><sub><b>Dressmaker</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/guilty-as-sock"><img src="https://i.scdn.co/image/ab67616d0000b27333b6165a3909fefb16c1ea49" width="120" height="120" alt="" /></a><br /><sub><b>Guilty as Sock!</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/lost-but-found"><img src="https://i.scdn.co/image/ab67616d0000b273ef8c608bc831d486cd53df3f" width="120" height="120" alt="" /></a><br /><sub><b>Lost But Found</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/color-zen"><img src="https://i.scdn.co/image/ab67616d0000b273102988e82d2d6d85d5697285" width="120" height="120" alt="" /></a><br /><sub><b>Color Zen</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/airships-conquer-the-skies"><img src="https://i.scdn.co/image/ab67616d0000b27323ba49e301b26442b4a59005" width="120" height="120" alt="" /></a><br /><sub><b>Airships: Conquer the Skies</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/sort-the-court"><img src="https://i.scdn.co/image/ab67616d0000b2736715a6548b794336bddd84c4" width="120" height="120" alt="" /></a><br /><sub><b>Sort the Court!</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/the-lord-of-the-rings-adventure-card-game"><img src="https://i.scdn.co/image/ab67616d0000b2733b9ec3dd8474f14289a20d8d" width="120" height="120" alt="" /></a><br /><sub><b>The Lord of the Rings: Adventure Card Game</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/jimmy-and-the-pulsating-mass"><img src="https://i.scdn.co/image/ab67616d0000b2731d6d6b1a98de9f375b760c1e" width="120" height="120" alt="" /></a><br /><sub><b>Jimmy and the Pulsating Mass</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/no70-eye-of-basir"><img src="https://i.scdn.co/image/ab67616d0000b27315ba3928d769a711536aa56e" width="120" height="120" alt="" /></a><br /><sub><b>No70: Eye of Basir</b></sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/street-fighter-6"><img src="https://i.scdn.co/image/ab67616d0000b273f8cf33c9e5666d8d012187f1" width="120" height="120" alt="" /></a><br /><sub><b>Street Fighter 6</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/follow-the-meaning"><img src="https://i.scdn.co/image/ab67616d0000b27379d12886524aa18747f8dd46" width="120" height="120" alt="" /></a><br /><sub><b>Follow the Meaning</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/levelhead"><img src="https://i.scdn.co/image/ab67616d0000b273a9faccc357cabcedb76ed683" width="120" height="120" alt="" /></a><br /><sub><b>Levelhead</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/inkonbini-one-store-many-stories"><img src="https://i.scdn.co/image/ab67616d0000b273133418d1e743e9aa0908c593" width="120" height="120" alt="" /></a><br /><sub><b>Inkonbini: One Store. Many Stories</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/seekl"><img src="https://i.scdn.co/image/ab67616d0000b273640413f5e2fd50b466f4886c" width="120" height="120" alt="" /></a><br /><sub><b>Seekl</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/neon-blood"><img src="https://i.scdn.co/image/ab67616d0000b273fb1b59b97fdfabd907013c62" width="120" height="120" alt="" /></a><br /><sub><b>Neon Blood</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/bit-heroes"><img src="https://i.scdn.co/image/ab67616d0000b273389ef500d3db52f4c34de9c8" width="120" height="120" alt="" /></a><br /><sub><b>Bit Heroes</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/dont-look-back"><img src="https://i.scdn.co/image/ab67616d0000b273760280244d8107ad682b9de1" width="120" height="120" alt="" /></a><br /><sub><b>Don't Look Back</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/airport-ceo"><img src="https://i.scdn.co/image/ab67616d0000b27379e4ff89cac1b21061443b53" width="120" height="120" alt="" /></a><br /><sub><b>Airport CEO</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/space-pirate-trainer"><img src="https://i.scdn.co/image/ab67616d0000b273199ef7040a608dccb766da5d" width="120" height="120" alt="" /></a><br /><sub><b>Space Pirate Trainer</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/pathfinder-adventures"><img src="https://i.scdn.co/image/ab67616d0000b273bf00d4e558688147b9f148fa" width="120" height="120" alt="" /></a><br /><sub><b>Pathfinder Adventures</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/rise-to-ruins"><img src="https://i.scdn.co/image/ab67616d0000b273c3eeb5ef6b5960a68ea279c3" width="120" height="120" alt="" /></a><br /><sub><b>Rise to Ruins</b></sub></td>
 </tr>
 </table>
 
@@ -63,10 +63,10 @@ The most popular games that still have no soundtrack on OSTDB. Find the official
 | 11 | **Europa Universalis IV** | [🔎 Find on Spotify](https://open.spotify.com/search/Europa%20Universalis%20IV%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/E/1904-europa-universalis-iv.json) |
 | 12 | **Counter-Strike: Condition Zero** | [🔎 Find on Spotify](https://open.spotify.com/search/Counter-Strike%3A%20Condition%20Zero%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/297-counter-strike-condition-zero.json) |
 | 13 | **LEGO Star Wars: The Video Game** | [🔎 Find on Spotify](https://open.spotify.com/search/LEGO%20Star%20Wars%3A%20The%20Video%20Game%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/L/2681-lego-star-wars-the-video-game.json) |
-| 14 | **Resident Evil: Revelations 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Resident%20Evil%3A%20Revelations%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/R/7725-resident-evil-revelations-2.json) |
-| 15 | **Divinity: Original Sin** | [🔎 Find on Spotify](https://open.spotify.com/search/Divinity%3A%20Original%20Sin%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/5082-divinity-original-sin.json) |
+| 14 | **Tomb Raider: Anniversary** | [🔎 Find on Spotify](https://open.spotify.com/search/Tomb%20Raider%3A%20Anniversary%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/T/1162-tomb-raider-anniversary.json) |
+| 15 | **Resident Evil: Revelations 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Resident%20Evil%3A%20Revelations%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/R/7725-resident-evil-revelations-2.json) |
 
-More in **[missing/](missing/README.md)** (309,194 games).
+More in **[missing/](missing/README.md)** (310,331 games).
 
 ## 🎵 Add a soundtrack in 2 minutes
 
@@ -111,4 +111,4 @@ Commercial use needs permission ([support@ostdb.net](mailto:support@ostdb.net)).
 
 ---
 
-<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 2,949 soundtracks &middot; last updated 2026-11-05T06:36:30.627Z</sub>
+<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 2,949 soundtracks &middot; last updated 2026-11-05T06:41:06.661Z</sub>
