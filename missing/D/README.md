@@ -2280,6 +2280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darrell 3D | 416678 | [416678-darrell-3d.json](./416678-darrell-3d.json) |
 | Darso Roads | 325815 | [325815-darso-roads.json](./325815-darso-roads.json) |
 | Dart | 246439 | [246439-dart.json](./246439-dart.json) |
+| Dart Champion | 277665 | [277665-dart-champion.json](./277665-dart-champion.json) |
 | Dart Masters | 101100 | [101100-dart-masters.json](./101100-dart-masters.json) |
 | Dart Monkey 1.5143 | 341709 | [341709-dart-monkey-1-5143.json](./341709-dart-monkey-1-5143.json) |
 | Dart Racer | 258909 | [258909-dart-racer.json](./258909-dart-racer.json) |
@@ -12657,6 +12658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Jump Adventures | 59204 | [59204-doodle-jump-adventures.json](./59204-doodle-jump-adventures.json) |
 | Doodle Jump DC Super Heroes | 344828 | [344828-doodle-jump-dc-super-heroes.json](./344828-doodle-jump-dc-super-heroes.json) |
 | Doodle Jump Easter Special | 96605 | [96605-doodle-jump-easter-special.json](./96605-doodle-jump-easter-special.json) |
+| Doodle Jump for Kinect | 277680 | [277680-doodle-jump-for-kinect.json](./277680-doodle-jump-for-kinect.json) |
 | Doodle Jump HD | 90809 | [90809-doodle-jump-hd.json](./90809-doodle-jump-hd.json) |
 | Doodle Jump HD: Insanely Good! | 104106 | [104106-doodle-jump-hd-insanely-good.json](./104106-doodle-jump-hd-insanely-good.json) |
 | Doodle Jump Journey | 85571 | [85571-doodle-jump-journey.json](./85571-doodle-jump-journey.json) |
@@ -16411,6 +16413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drizzlepath: Picturae | 327273 | [327273-drizzlepath-picturae.json](./327273-drizzlepath-picturae.json) |
 | DRL | 79379 | [79379-drl.json](./79379-drl.json) |
 | DRM: Death Ray Manta | 22197 | [22197-drm-death-ray-manta.json](./22197-drm-death-ray-manta.json) |
+| Drmwrldgrl | 277660 | [277660-drmwrldgrl.json](./277660-drmwrldgrl.json) |
 | DROD 4: Gunthro and the Epic Blunder | 8870 | [8870-drod-4-gunthro-and-the-epic-blunder.json](./8870-drod-4-gunthro-and-the-epic-blunder.json) |
 | Drod RPG 2 | 363048 | [363048-drod-rpg-2.json](./363048-drod-rpg-2.json) |
 | DROD RPG: Tendry's Tale | 8991 | [8991-drod-rpg-tendrys-tale.json](./8991-drod-rpg-tendrys-tale.json) |
