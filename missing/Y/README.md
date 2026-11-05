@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yappy Bird | 412508 | [412508-yappy-bird.json](./412508-yappy-bird.json) |
 | Yapyap | 363307 | [363307-yapyap.json](./363307-yapyap.json) |
 | YAR | 311939 | [311939-yar.json](./311939-yar.json) |
+| YAR: Forgotten Throne | 274785 | [274785-yar-forgotten-throne.json](./274785-yar-forgotten-throne.json) |
 | Yar's Revenge | 28721 | [28721-yars-revenge.json](./28721-yars-revenge.json) |
 | Yarasete! Teacher Sotsugyou | 59191 | [59191-yarasete-teacher-sotsugyou.json](./59191-yarasete-teacher-sotsugyou.json) |
 | Yarbay | 121963 | [121963-yarbay.json](./121963-yarbay.json) |
