@@ -932,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Normal Lost Phone | 27024 | [27024-a-normal-lost-phone.json](./27024-a-normal-lost-phone.json) |
 | A Normal Quiz Game Where You Try to Solve Questions but the Questions Have Tricks and Gimmicks and if You Get Them Wrong You Have to Beat a Wacky Punishment but They Are Kinda Fun So You Lowkey Wanna Do Them Even if It Means Getting the Question Wrong. | 417742 | [417742-a-normal-quiz-game-where-you-try-to-solve-questions-but-the-questions-have-tricks-and-gimmicks-and-if-you-get-them-wrong-you-have-to-beat-a-wacky-punishment-but-they-are-kinda-fun-so-you-lowkey-wanna-do-them-even-if-it-means-getting-the-question-wrong.json](./417742-a-normal-quiz-game-where-you-try-to-solve-questions-but-the-questions-have-tricks-and-gimmicks-and-if-you-get-them-wrong-you-have-to-beat-a-wacky-punishment-but-they-are-kinda-fun-so-you-lowkey-wanna-do-them-even-if-it-means-getting-the-question-wrong.json) |
 | A Normal Survey | 393794 | [393794-a-normal-survey.json](./393794-a-normal-survey.json) |
+| A Number From the Ghost | 285270 | [285270-a-number-from-the-ghost.json](./285270-a-number-from-the-ghost.json) |
 | A Number's Life | 30397 | [30397-a-numbers-life.json](./30397-a-numbers-life.json) |
 | A Nutritious Boyfriend | 265472 | [265472-a-nutritious-boyfriend.json](./265472-a-nutritious-boyfriend.json) |
 | A Once Glorious City | 271725 | [271725-a-once-glorious-city.json](./271725-a-once-glorious-city.json) |
@@ -16237,7 +16238,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
