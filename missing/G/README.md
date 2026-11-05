@@ -5689,6 +5689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblinfall: Defend Da Fort | 419939 | [419939-goblinfall-defend-da-fort.json](./419939-goblinfall-defend-da-fort.json) |
 | Goblinna's Garden | 374063 | [374063-goblinnas-garden.json](./374063-goblinnas-garden.json) |
 | Goblins | 239103 | [239103-goblins.json](./239103-goblins.json) |
+| Goblins | 282964 | [282964-goblins.json](./282964-goblins.json) |
 | Goblins | 306054 | [306054-goblins.json](./306054-goblins.json) |
 | Goblins & Grottos | 20379 | [20379-goblins-and-grottos.json](./20379-goblins-and-grottos.json) |
 | Goblins and Gunslingers | 415761 | [415761-goblins-and-gunslingers.json](./415761-goblins-and-gunslingers.json) |
@@ -6410,6 +6411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoldenEye 007: Xbox Live Arcade | 143406 | [143406-goldeneye-007-xbox-live-arcade.json](./143406-goldeneye-007-xbox-live-arcade.json) |
 | Goldeneye Doom2 | 196026 | [196026-goldeneye-doom2.json](./196026-goldeneye-doom2.json) |
 | GoldenEye With Mario Characters | 283110 | [283110-goldeneye-with-mario-characters.json](./283110-goldeneye-with-mario-characters.json) |
+| GoldenEye X | 282948 | [282948-goldeneye-x.json](./282948-goldeneye-x.json) |
 | GoldenEye: Rogue Agent | 146882 | [146882-goldeneye-rogue-agent.json](./146882-goldeneye-rogue-agent.json) |
 | GoldenEye: Rogue Agent | 1632 | [1632-goldeneye-rogue-agent.json](./1632-goldeneye-rogue-agent.json) |
 | Goldenheart | 324602 | [324602-goldenheart.json](./324602-goldenheart.json) |
@@ -8946,6 +8948,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Mania | 89553 | [89553-grid-mania.json](./89553-grid-mania.json) |
 | Grid Masters | 33337 | [33337-grid-masters.json](./33337-grid-masters.json) |
 | Grid Miner | 199496 | [199496-grid-miner.json](./199496-grid-miner.json) |
+| Grid Pix | 282988 | [282988-grid-pix.json](./282988-grid-pix.json) |
+| Grid Pix Advent | 282989 | [282989-grid-pix-advent.json](./282989-grid-pix-advent.json) |
 | Grid Ranger | 304905 | [304905-grid-ranger.json](./304905-grid-ranger.json) |
 | Grid Realm | 406566 | [406566-grid-realm.json](./406566-grid-realm.json) |
 | Grid Run | 93945 | [93945-grid-run.json](./93945-grid-run.json) |
@@ -9258,6 +9262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimoire: Manastorm - Lightning Class | 170330 | [170330-grimoire-manastorm-lightning-class.json](./170330-grimoire-manastorm-lightning-class.json) |
 | Grimoire: Manastorm - Nature Class | 170328 | [170328-grimoire-manastorm-nature-class.json](./170328-grimoire-manastorm-nature-class.json) |
 | Grimoire: Manastorm - Nether Class | 169916 | [169916-grimoire-manastorm-nether-class.json](./169916-grimoire-manastorm-nether-class.json) |
+| Grimoires & Guns | 282979 | [282979-grimoires-and-guns.json](./282979-grimoires-and-guns.json) |
 | Grimoria | 391573 | [391573-grimoria.json](./391573-grimoria.json) |
 | Grimorium | 392292 | [392292-grimorium.json](./392292-grimorium.json) |
 | Grimps | 388338 | [388338-grimps.json](./388338-grimps.json) |
