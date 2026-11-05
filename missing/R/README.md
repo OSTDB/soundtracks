@@ -4518,6 +4518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regular Strategy Game | 203759 | [203759-regular-strategy-game.json](./203759-regular-strategy-game.json) |
 | Regular Toad Game | 135125 | [135125-regular-toad-game.json](./135125-regular-toad-game.json) |
 | Regulars | 405775 | [405775-regulars.json](./405775-regulars.json) |
+| Regulate | 260489 | [260489-regulate.json](./260489-regulate.json) |
 | Regulation Pool | 180471 | [180471-regulation-pool.json](./180471-regulation-pool.json) |
 | Regulators | 199251 | [199251-regulators.json](./199251-regulators.json) |
 | Regulea | 402698 | [402698-regulea.json](./402698-regulea.json) |
@@ -5982,6 +5983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Meadow | 362759 | [362759-retro-meadow.json](./362759-retro-meadow.json) |
 | Retro Miami | 76505 | [76505-retro-miami.json](./76505-retro-miami.json) |
 | Retro Motel Simulator | 371508 | [371508-retro-motel-simulator.json](./371508-retro-motel-simulator.json) |
+| Retro Mystery Club Vol.1: The Ise-Shima Case | 260478 | [260478-retro-mystery-club-vol-1-the-ise-shima-case.json](./260478-retro-mystery-club-vol-1-the-ise-shima-case.json) |
 | Retro Mystery Club Vol.2: The Beppu Case | 289264 | [289264-retro-mystery-club-vol-2-the-beppu-case.json](./289264-retro-mystery-club-vol-2-the-beppu-case.json) |
 | Retro Ninja Runner | 74810 | [74810-retro-ninja-runner.json](./74810-retro-ninja-runner.json) |
 | Retro One | 78092 | [78092-retro-one.json](./78092-retro-one.json) |
@@ -9252,6 +9254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Bunnies | 208387 | [208387-rocket-bunnies.json](./208387-rocket-bunnies.json) |
 | Rocket Bytes | 212298 | [212298-rocket-bytes.json](./212298-rocket-bytes.json) |
 | Rocket Car Ball | 100863 | [100863-rocket-car-ball.json](./100863-rocket-car-ball.json) |
+| Rocket Car: Ultimate Ball League Machines | 260477 | [260477-rocket-car-ultimate-ball-league-machines.json](./260477-rocket-car-ultimate-ball-league-machines.json) |
 | Rocket Car: Ultimate Ball League Machines - Premium Edition | 306523 | [306523-rocket-car-ultimate-ball-league-machines-premium-edition.json](./306523-rocket-car-ultimate-ball-league-machines-premium-edition.json) |
 | Rocket Car: Wheel Rim Collection | 304815 | [304815-rocket-car-wheel-rim-collection.json](./304815-rocket-car-wheel-rim-collection.json) |
 | Rocket Cars | 265427 | [265427-rocket-cars.json](./265427-rocket-cars.json) |
@@ -9773,6 +9776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rody & Mastico IV: Noël | 15359 | [15359-rody-and-mastico-iv-noel.json](./15359-rody-and-mastico-iv-noel.json) |
 | Rofaxan 2089 AD | 62518 | [62518-rofaxan-2089-ad.json](./62518-rofaxan-2089-ad.json) |
 | RoFish: Prelude | 217471 | [217471-rofish-prelude.json](./217471-rofish-prelude.json) |
+| ROFL | 260451 | [260451-rofl.json](./260451-rofl.json) |
 | Rog & Roll | 139401 | [139401-rog-and-roll.json](./139401-rog-and-roll.json) |
 | Rog n' Mon | 211588 | [211588-rog-n-mon.json](./211588-rog-n-mon.json) |
 | Rogalia | 31300 | [31300-rogalia.json](./31300-rogalia.json) |
