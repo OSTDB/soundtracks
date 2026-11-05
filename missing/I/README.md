@@ -6593,6 +6593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iverian Wars: Craxion vs Defugel | 131225 | [131225-iverian-wars-craxion-vs-defugel.json](./131225-iverian-wars-craxion-vs-defugel.json) |
 | Ivilyn Kingdoms | 391142 | [391142-ivilyn-kingdoms.json](./391142-ivilyn-kingdoms.json) |
 | Ivor | 305112 | [305112-ivor.json](./305112-ivor.json) |
+| Ivorfall | 295577 | [295577-ivorfall.json](./295577-ivorfall.json) |
 | Ivory Springs | 87804 | [87804-ivory-springs.json](./87804-ivory-springs.json) |
 | Ivri | 291511 | [291511-ivri.json](./291511-ivri.json) |
 | Ivy the Kiwi? Mini | 85204 | [85204-ivy-the-kiwi-mini.json](./85204-ivy-the-kiwi-mini.json) |
