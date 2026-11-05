@@ -2319,6 +2319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Park My Car | 392198 | [392198-park-my-car.json](./392198-park-my-car.json) |
 | Park of Monster | 120906 | [120906-park-of-monster.json](./120906-park-of-monster.json) |
 | Park Patrol | 25619 | [25619-park-patrol.json](./25619-park-patrol.json) |
+| Park Racer | 269366 | [269366-park-racer.json](./269366-park-racer.json) |
 | Park Ranger Simulator | 314460 | [314460-park-ranger-simulator.json](./314460-park-ranger-simulator.json) |
 | Park Ranger: Lost in the Woods | 223423 | [223423-park-ranger-lost-in-the-woods.json](./223423-park-ranger-lost-in-the-woods.json) |
 | Park Rangers of the Undead | 162843 | [162843-park-rangers-of-the-undead.json](./162843-park-rangers-of-the-undead.json) |
@@ -14657,6 +14658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prize Fighter | 5424 | [5424-prize-fighter.json](./5424-prize-fighter.json) |
 | Prize Fighter: Heavyweight Edition | 375599 | [375599-prize-fighter-heavyweight-edition.json](./375599-prize-fighter-heavyweight-edition.json) |
 | Prize Fighter: Remastered | 203790 | [203790-prize-fighter-remastered.json](./203790-prize-fighter-remastered.json) |
+| Prize Machine | 269341 | [269341-prize-machine.json](./269341-prize-machine.json) |
 | Prize Space Invaders | 269145 | [269145-prize-space-invaders.json](./269145-prize-space-invaders.json) |
 | Prize Tetris | 269146 | [269146-prize-tetris.json](./269146-prize-tetris.json) |
 | Prizefight | 68609 | [68609-prizefight.json](./68609-prizefight.json) |
