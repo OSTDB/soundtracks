@@ -6973,6 +6973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Egg | 351117 | [351117-evil-egg.json](./351117-evil-egg.json) |
 | Evil Elves II Deluxe | 276925 | [276925-evil-elves-ii-deluxe.json](./276925-evil-elves-ii-deluxe.json) |
 | Evil Elves II: The Return of the Christmas Presents! | 268189 | [268189-evil-elves-ii-the-return-of-the-christmas-presents.json](./268189-evil-elves-ii-the-return-of-the-christmas-presents.json) |
+| Evil Exhumed | 271530 | [271530-evil-exhumed.json](./271530-evil-exhumed.json) |
 | Evil Eye | 94612 | [94612-evil-eye.json](./94612-evil-eye.json) |
 | Evil Eyes | 289560 | [289560-evil-eyes.json](./289560-evil-eyes.json) |
 | Evil Factory | 74790 | [74790-evil-factory.json](./74790-evil-factory.json) |
@@ -7815,6 +7816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explore Jam 2 | 275322 | [275322-explore-jam-2.json](./275322-explore-jam-2.json) |
 | Explore Jam 3 | 275318 | [275318-explore-jam-3.json](./275318-explore-jam-3.json) |
 | Explore Mars | 323832 | [323832-explore-mars.json](./323832-explore-mars.json) |
+| Explore or Die | 271528 | [271528-explore-or-die.json](./271528-explore-or-die.json) |
 | Explore the Backrooms | 258811 | [258811-explore-the-backrooms.json](./258811-explore-the-backrooms.json) |
 | Explore the Grotto | 307580 | [307580-explore-the-grotto.json](./307580-explore-the-grotto.json) |
 | Explore Titanic | 86853 | [86853-explore-titanic.json](./86853-explore-titanic.json) |
