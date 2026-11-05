@@ -1958,6 +1958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Avventure di Blue: Lacrima di Cristallo | 257676 | [257676-le-avventure-di-blue-lacrima-di-cristallo.json](./257676-le-avventure-di-blue-lacrima-di-cristallo.json) |
 | Le Barbare Qui Est Un Bourgeois | 97509 | [97509-le-barbare-qui-est-un-bourgeois.json](./97509-le-barbare-qui-est-un-bourgeois.json) |
 | Le Bureau Des Rêves | 343306 | [343306-le-bureau-des-reves.json](./343306-le-bureau-des-reves.json) |
+| Le Chat Fonce: Gnome Cafe | 287999 | [287999-le-chat-fonce-gnome-cafe.json](./287999-le-chat-fonce-gnome-cafe.json) |
 | Le Château | 244484 | [244484-le-chateau.json](./244484-le-chateau.json) |
 | Le Chevalier Blanc | 39112 | [39112-le-chevalier-blanc.json](./39112-le-chevalier-blanc.json) |
 | Le Collage | 295957 | [295957-le-collage.json](./295957-le-collage.json) |
@@ -3634,6 +3635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Go! Skiing | 123935 | [123935-lets-go-skiing.json](./123935-lets-go-skiing.json) |
 | Let's Golf 2 | 84436 | [84436-lets-golf-2.json](./84436-lets-golf-2.json) |
 | Let's Golf! | 67693 | [67693-lets-golf.json](./67693-lets-golf.json) |
+| Let's Hide the Body! (Tee-hee~) | 288023 | [288023-lets-hide-the-body-tee-hee.json](./288023-lets-hide-the-body-tee-hee.json) |
 | Let's Hitchhike! | 84451 | [84451-lets-hitchhike.json](./84451-lets-hitchhike.json) |
 | Let's Hobbee | 160194 | [160194-lets-hobbee.json](./160194-lets-hobbee.json) |
 | Let's Invade | 41160 | [41160-lets-invade.json](./41160-lets-invade.json) |
@@ -9716,6 +9718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lurk and Rouse | 217316 | [217316-lurk-and-rouse.json](./217316-lurk-and-rouse.json) |
 | Lurk in Abyss | 390141 | [390141-lurk-in-abyss.json](./390141-lurk-in-abyss.json) |
 | Lurk in the Dark | 125086 | [125086-lurk-in-the-dark.json](./125086-lurk-in-the-dark.json) |
+| LurkBait Twitch Fishing | 288010 | [288010-lurkbait-twitch-fishing.json](./288010-lurkbait-twitch-fishing.json) |
 | Lurker Legends | 162425 | [162425-lurker-legends.json](./162425-lurker-legends.json) |
 | Lurkers | 117526 | [117526-lurkers.json](./117526-lurkers.json) |
 | Lurkers | 139706 | [139706-lurkers.json](./139706-lurkers.json) |
