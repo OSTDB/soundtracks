@@ -5416,6 +5416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Chambers | 294762 | [294762-escape-the-chambers.json](./294762-escape-the-chambers.json) |
 | Escape The Charon | 268293 | [268293-escape-the-charon.json](./268293-escape-the-charon.json) |
 | Escape the City | 170910 | [170910-escape-the-city.json](./170910-escape-the-city.json) |
+| Escape the City | 274262 | [274262-escape-the-city.json](./274262-escape-the-city.json) |
 | Escape the Clinic | 142295 | [142295-escape-the-clinic.json](./142295-escape-the-clinic.json) |
 | Escape the Dark Tower | 260233 | [260233-escape-the-dark-tower.json](./260233-escape-the-dark-tower.json) |
 | Escape the Darkness | 193672 | [193672-escape-the-darkness.json](./193672-escape-the-darkness.json) |
