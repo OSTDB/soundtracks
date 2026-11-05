@@ -5282,6 +5282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space Dash | 32339 | [32339-deep-space-dash.json](./32339-deep-space-dash.json) |
 | Deep Space Delivery | 329081 | [329081-deep-space-delivery.json](./329081-deep-space-delivery.json) |
 | Deep Space Directive | 267476 | [267476-deep-space-directive.json](./267476-deep-space-directive.json) |
+| Deep Space Drifter | 274239 | [274239-deep-space-drifter.json](./274239-deep-space-drifter.json) |
 | Deep Space Drillers | 290830 | [290830-deep-space-drillers.json](./290830-deep-space-drillers.json) |
 | Deep Space Exodus | 384511 | [384511-deep-space-exodus.json](./384511-deep-space-exodus.json) |
 | Deep Space Expedition 47 | 190895 | [190895-deep-space-expedition-47.json](./190895-deep-space-expedition-47.json) |
@@ -6023,6 +6024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta-V Racing | 247434 | [247434-delta-v-racing.json](./247434-delta-v-racing.json) |
 | Delta's Discs | 412989 | [412989-deltas-discs.json](./412989-deltas-discs.json) |
 | Delta0 | 140267 | [140267-delta0.json](./140267-delta0.json) |
+| DeltaBeats | 274241 | [274241-deltabeats.json](./274241-deltabeats.json) |
 | DeltaBlade 2700 | 121968 | [121968-deltablade-2700.json](./121968-deltablade-2700.json) |
 | DeltaBlade 2700 Re:Create | 264661 | [264661-deltablade-2700-re-create.json](./264661-deltablade-2700-re-create.json) |
 | Deltafall | 329604 | [329604-deltafall.json](./329604-deltafall.json) |
@@ -9577,6 +9579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dionysos Wars | 277996 | [277996-dionysos-wars.json](./277996-dionysos-wars.json) |
 | Dionysus | 412410 | [412410-dionysus.json](./412410-dionysus.json) |
 | Diora | 288688 | [288688-diora.json](./288688-diora.json) |
+| Diorama | 274273 | [274273-diorama.json](./274273-diorama.json) |
 | Diorama Battle of Ninja | 32948 | [32948-diorama-battle-of-ninja.json](./32948-diorama-battle-of-ninja.json) |
 | Diorama Break | 398554 | [398554-diorama-break.json](./398554-diorama-break.json) |
 | Diorama Builder | 161403 | [161403-diorama-builder.json](./161403-diorama-builder.json) |
@@ -17330,6 +17333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem Forever: Restoration Project | 261103 | [261103-duke-nukem-forever-restoration-project.json](./261103-duke-nukem-forever-restoration-project.json) |
 | Duke Nukem II Remastered | 252067 | [252067-duke-nukem-ii-remastered.json](./252067-duke-nukem-ii-remastered.json) |
 | Duke Nukem Mobile | 23557 | [23557-duke-nukem-mobile.json](./23557-duke-nukem-mobile.json) |
+| Duke Nukem Quake | 274265 | [274265-duke-nukem-quake.json](./274265-duke-nukem-quake.json) |
 | Duke Nukem Remastered | 252066 | [252066-duke-nukem-remastered.json](./252066-duke-nukem-remastered.json) |
 | Duke Nukem Trilogy: Chain Reaction | 69326 | [69326-duke-nukem-trilogy-chain-reaction.json](./69326-duke-nukem-trilogy-chain-reaction.json) |
 | Duke Nukem Trilogy: Proving Grounds | 69263 | [69263-duke-nukem-trilogy-proving-grounds.json](./69263-duke-nukem-trilogy-proving-grounds.json) |
