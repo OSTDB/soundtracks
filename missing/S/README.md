@@ -3489,6 +3489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrap Mechanic | 16611 | [16611-scrap-mechanic.json](./16611-scrap-mechanic.json) |
 | Scrap Mechanic: Rocket Game | 102525 | [102525-scrap-mechanic-rocket-game.json](./102525-scrap-mechanic-rocket-game.json) |
 | Scrap Metal Factory | 208945 | [208945-scrap-metal-factory.json](./208945-scrap-metal-factory.json) |
+| Scrap Metal Heroes Rebuilt | 286305 | [286305-scrap-metal-heroes-rebuilt.json](./286305-scrap-metal-heroes-rebuilt.json) |
 | Scrap Protocol | 389847 | [389847-scrap-protocol.json](./389847-scrap-protocol.json) |
 | Scrap Race | 181331 | [181331-scrap-race.json](./181331-scrap-race.json) |
 | Scrap Riders | 152647 | [152647-scrap-riders.json](./152647-scrap-riders.json) |
@@ -9239,6 +9240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shovel Knight: Shovel of Hope DX | 305757 | [305757-shovel-knight-shovel-of-hope-dx.json](./305757-shovel-knight-shovel-of-hope-dx.json) |
 | Shovel Knight: Specter of Torment | 23910 | [23910-shovel-knight-specter-of-torment.json](./23910-shovel-knight-specter-of-torment.json) |
 | Shovel Knight: Treasure Trove | 26848 | [26848-shovel-knight-treasure-trove.json](./26848-shovel-knight-treasure-trove.json) |
+| Shovel Pirate | 286312 | [286312-shovel-pirate.json](./286312-shovel-pirate.json) |
 | Shovel Software Insurance Claim | 213809 | [213809-shovel-software-insurance-claim.json](./213809-shovel-software-insurance-claim.json) |
 | Shovelboy | 246789 | [246789-shovelboy.json](./246789-shovelboy.json) |
 | Shovelboy: Zone X | 290114 | [290114-shovelboy-zone-x.json](./290114-shovelboy-zone-x.json) |
@@ -9854,6 +9856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sidewalk Fighter II | 60912 | [60912-sidewalk-fighter-ii.json](./60912-sidewalk-fighter-ii.json) |
 | Sidewalk Sidestep | 183233 | [183233-sidewalk-sidestep.json](./183233-sidewalk-sidestep.json) |
 | Sidewalk Simulator | 324294 | [324294-sidewalk-simulator.json](./324294-sidewalk-simulator.json) |
+| Sidewards | 286319 | [286319-sidewards.json](./286319-sidewards.json) |
 | Sideway New York | 16273 | [16273-sideway-new-york.json](./16273-sideway-new-york.json) |
 | Sidewinder | 159249 | [159249-sidewinder.json](./159249-sidewinder.json) |
 | Sidewinder | 22558 | [22558-sidewinder.json](./22558-sidewinder.json) |
@@ -19136,7 +19139,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -22965,6 +22967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SS Achilles - Red Alert! | 25798 | [25798-ss-achilles-red-alert.json](./25798-ss-achilles-red-alert.json) |
 | SS.Archives | 253433 | [253433-ss-archives.json](./253433-ss-archives.json) |
 | SSB Scene Creator | 328342 | [328342-ssb-scene-creator.json](./328342-ssb-scene-creator.json) |
+| Ssen | 286329 | [286329-ssen.json](./286329-ssen.json) |
 | SSGN Covert Cruise Special Attack Strategy | 112159 | [112159-ssgn-covert-cruise-special-attack-strategy.json](./112159-ssgn-covert-cruise-special-attack-strategy.json) |
 | SShield Reborn | 90176 | [90176-sshield-reborn.json](./90176-sshield-reborn.json) |
 | SSI Classics | 335614 | [335614-ssi-classics.json](./335614-ssi-classics.json) |
@@ -23024,6 +23027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack 'Em Up | 312826 | [312826-stack-em-up.json](./312826-stack-em-up.json) |
 | Stack & Sigil | 421229 | [421229-stack-and-sigil.json](./421229-stack-and-sigil.json) |
 | Stack & Spell | 416348 | [416348-stack-and-spell.json](./416348-stack-and-spell.json) |
+| Stack & the Grumblepuff from Above | 286334 | [286334-stack-and-the-grumblepuff-from-above.json](./286334-stack-and-the-grumblepuff-from-above.json) |
 | Stack Attack | 363635 | [363635-stack-attack.json](./363635-stack-attack.json) |
 | Stack Ball | 345833 | [345833-stack-ball.json](./345833-stack-ball.json) |
 | Stack Ball Run! | 262331 | [262331-stack-ball-run.json](./262331-stack-ball-run.json) |
@@ -33949,6 +33953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SwarmsurgE | 258411 | [258411-swarmsurge.json](./258411-swarmsurge.json) |
 | Swarog | 92950 | [92950-swarog.json](./92950-swarog.json) |
 | Swashbuckler | 23233 | [23233-swashbuckler.json](./23233-swashbuckler.json) |
+| Swashbuckler's Xmas | 286318 | [286318-swashbucklers-xmas.json](./286318-swashbucklers-xmas.json) |
 | Swashbucklers: Blue vs. Grey | 21508 | [21508-swashbucklers-blue-vs-grey.json](./21508-swashbucklers-blue-vs-grey.json) |
 | Swashbucko: In the Lair of the Dragon Filth | 180435 | [180435-swashbucko-in-the-lair-of-the-dragon-filth.json](./180435-swashbucko-in-the-lair-of-the-dragon-filth.json) |
 | Swat | 71547 | [71547-swat.json](./71547-swat.json) |
