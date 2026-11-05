@@ -6480,6 +6480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonia | 41810 | [41810-demonia.json](./41810-demonia.json) |
 | Demonia City | 315154 | [315154-demonia-city.json](./315154-demonia-city.json) |
 | Demoniac TV | 291524 | [291524-demoniac-tv.json](./291524-demoniac-tv.json) |
+| Demoniac Words | 250101 | [250101-demoniac-words.json](./250101-demoniac-words.json) |
 | Demoniaca: Everlasting Night | 121311 | [121311-demoniaca-everlasting-night.json](./121311-demoniaca-everlasting-night.json) |
 | Demoniak | 12044 | [12044-demoniak.json](./12044-demoniak.json) |
 | Demonic Blade | 151397 | [151397-demonic-blade.json](./151397-demonic-blade.json) |
@@ -8427,6 +8428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Knight: Mystery of the Moirai | 152741 | [152741-dice-knight-mystery-of-the-moirai.json](./152741-dice-knight-mystery-of-the-moirai.json) |
 | Dice Legacy | 132928 | [132928-dice-legacy.json](./132928-dice-legacy.json) |
 | Dice Legacy: Corrupted Fates | 196296 | [196296-dice-legacy-corrupted-fates.json](./196296-dice-legacy-corrupted-fates.json) |
+| Dice Legacy: Definitive Edition | 250105 | [250105-dice-legacy-definitive-edition.json](./250105-dice-legacy-definitive-edition.json) |
 | Dice Legacy: Deluxe Edition | 173102 | [173102-dice-legacy-deluxe-edition.json](./173102-dice-legacy-deluxe-edition.json) |
 | Dice Legends | 333288 | [333288-dice-legends.json](./333288-dice-legends.json) |
 | Dice Life: Dice Game | 291618 | [291618-dice-life-dice-game.json](./291618-dice-life-dice-game.json) |
@@ -14607,6 +14609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Dragon Fire Fire Deluxe | 384497 | [384497-dragon-dragon-fire-fire-deluxe.json](./384497-dragon-dragon-fire-fire-deluxe.json) |
 | Dragon Drill | 294691 | [294691-dragon-drill.json](./294691-dragon-drill.json) |
 | Dragon Drive: D-Masters Shot | 3897 | [3897-dragon-drive-d-masters-shot.json](./3897-dragon-drive-d-masters-shot.json) |
+| Dragon Drive: Tactics Break | 250097 | [250097-dragon-drive-tactics-break.json](./250097-dragon-drive-tactics-break.json) |
 | Dragon Drive: World D Break | 49174 | [49174-dragon-drive-world-d-break.json](./49174-dragon-drive-world-d-break.json) |
 | Dragon Drop | 159251 | [159251-dragon-drop.json](./159251-dragon-drop.json) |
 | Dragon Drop | 58481 | [58481-dragon-drop.json](./58481-dragon-drop.json) |
@@ -16200,6 +16203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Go | 211770 | [211770-drift-go.json](./211770-drift-go.json) |
 | Drift Highway: Retro Console Edition | 365855 | [365855-drift-highway-retro-console-edition.json](./365855-drift-highway-retro-console-edition.json) |
 | Drift Horizon Online | 32820 | [32820-drift-horizon-online.json](./32820-drift-horizon-online.json) |
+| Drift Horizon: Car Driving & Tuning | 250104 | [250104-drift-horizon-car-driving-and-tuning.json](./250104-drift-horizon-car-driving-and-tuning.json) |
 | Drift Horizon: Racing, Driving & Parking Trial Simulator Games | 219453 | [219453-drift-horizon-racing-driving-and-parking-trial-simulator-games.json](./219453-drift-horizon-racing-driving-and-parking-trial-simulator-games.json) |
 | Drift Hunters | 145530 | [145530-drift-hunters.json](./145530-drift-hunters.json) |
 | Drift Into Eternity | 23332 | [23332-drift-into-eternity.json](./23332-drift-into-eternity.json) |
