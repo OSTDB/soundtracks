@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Leyenda de la Biblioteca | 323224 | [323224-la-leyenda-de-la-biblioteca.json](./323224-la-leyenda-de-la-biblioteca.json) |
 | La Leyenda del Chupacabra | 75094 | [75094-la-leyenda-del-chupacabra.json](./75094-la-leyenda-del-chupacabra.json) |
 | La Libertad Arrasa: Milei | 323725 | [323725-la-libertad-arrasa-milei.json](./323725-la-libertad-arrasa-milei.json) |
+| La Linea | 246164 | [246164-la-linea.json](./246164-la-linea.json) |
 | La Llave y Fabián Shones | 323227 | [323227-la-llave-y-fabian-shones.json](./323227-la-llave-y-fabian-shones.json) |
 | La Llorona Wants Your Soul | 291737 | [291737-la-llorona-wants-your-soul.json](./291737-la-llorona-wants-your-soul.json) |
 | LA Machine Guns | 66785 | [66785-la-machine-guns.json](./66785-la-machine-guns.json) |
@@ -2915,6 +2916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendz: Yomigaeru Shiren no Shima | 49665 | [49665-legendz-yomigaeru-shiren-no-shima.json](./49665-legendz-yomigaeru-shiren-no-shima.json) |
 | Legenne | 70381 | [70381-legenne.json](./70381-legenne.json) |
 | Legeno Slayer | 212602 | [212602-legeno-slayer.json](./212602-legeno-slayer.json) |
+| Legerdemain | 246162 | [246162-legerdemain.json](./246162-legerdemain.json) |
 | Leggite Luta Livre | 198482 | [198482-leggite-luta-livre.json](./198482-leggite-luta-livre.json) |
 | Legie | 81407 | [81407-legie.json](./81407-legie.json) |
 | Legio | 91523 | [91523-legio.json](./91523-legio.json) |
@@ -3624,6 +3626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Cook Together | 133455 | [133455-lets-cook-together.json](./133455-lets-cook-together.json) |
 | Let's Cook Together 2 | 203251 | [203251-lets-cook-together-2.json](./203251-lets-cook-together-2.json) |
 | Let's Create! Pottery | 64876 | [64876-lets-create-pottery.json](./64876-lets-create-pottery.json) |
+| Let's Create! Pottery 2 | 246154 | [246154-lets-create-pottery-2.json](./246154-lets-create-pottery-2.json) |
 | Let's Create! Pottery VR | 113887 | [113887-lets-create-pottery-vr.json](./113887-lets-create-pottery-vr.json) |
 | Let's Dance | 245698 | [245698-lets-dance.json](./245698-lets-dance.json) |
 | Let's Dance | 78337 | [78337-lets-dance.json](./78337-lets-dance.json) |
