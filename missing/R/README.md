@@ -7374,6 +7374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rijn the Specpyre in... Manor of the Damned! | 10770 | [10770-rijn-the-specpyre-in-manor-of-the-damned.json](./10770-rijn-the-specpyre-in-manor-of-the-damned.json) |
 | Rika Furude Simulator '25 | 378518 | [378518-rika-furude-simulator-25.json](./378518-rika-furude-simulator-25.json) |
 | Rika Suzuki | 97328 | [97328-rika-suzuki.json](./97328-rika-suzuki.json) |
+| Riki | 294983 | [294983-riki.json](./294983-riki.json) |
 | Riki 8Bit Game Collection | 322554 | [322554-riki-8bit-game-collection.json](./322554-riki-8bit-game-collection.json) |
 | Riki's Risky Ride | 192261 | [192261-rikis-risky-ride.json](./192261-rikis-risky-ride.json) |
 | Rikka Plus | 181564 | [181564-rikka-plus.json](./181564-rikka-plus.json) |
@@ -9897,6 +9898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Sundown | 396638 | [396638-rogue-sundown.json](./396638-rogue-sundown.json) |
 | Rogue Survivalist | 277592 | [277592-rogue-survivalist.json](./277592-rogue-survivalist.json) |
 | Rogue Survivor | 80557 | [80557-rogue-survivor.json](./80557-rogue-survivor.json) |
+| Rogue Survivors | 294918 | [294918-rogue-survivors.json](./294918-rogue-survivors.json) |
 | Rogue Sweeper | 151090 | [151090-rogue-sweeper.json](./151090-rogue-sweeper.json) |
 | Rogue Tank | 235849 | [235849-rogue-tank.json](./235849-rogue-tank.json) |
 | Rogue Tanks | 312998 | [312998-rogue-tanks.json](./312998-rogue-tanks.json) |
