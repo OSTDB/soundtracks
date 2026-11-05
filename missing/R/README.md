@@ -4644,6 +4644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reiwa Outliers | 277358 | [277358-reiwa-outliers.json](./277358-reiwa-outliers.json) |
 | Rejected Custom Night | 299569 | [299569-rejected-custom-night.json](./299569-rejected-custom-night.json) |
 | Rejected Draft | 404174 | [404174-rejected-draft.json](./404174-rejected-draft.json) |
+| Rejection Thesis | 249530 | [249530-rejection-thesis.json](./249530-rejection-thesis.json) |
 | Rejection: Den-no Senshi | 386394 | [386394-rejection-den-no-senshi.json](./386394-rejection-den-no-senshi.json) |
 | Rejoice: Aretha Oukoku no Kanata | 42288 | [42288-rejoice-aretha-oukoku-no-kanata.json](./42288-rejoice-aretha-oukoku-no-kanata.json) |
 | Rejoin | 415948 | [415948-rejoin.json](./415948-rejoin.json) |
@@ -4958,6 +4959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remote Aphrodite | 404996 | [404996-remote-aphrodite.json](./404996-remote-aphrodite.json) |
 | Remote Assault | 74008 | [74008-remote-assault.json](./74008-remote-assault.json) |
 | Remote Bomber | 147839 | [147839-remote-bomber.json](./147839-remote-bomber.json) |
+| Remote Bot | 249534 | [249534-remote-bot.json](./249534-remote-bot.json) |
 | Remote Control | 388921 | [388921-remote-control.json](./388921-remote-control.json) |
 | Remote Control | 41135 | [41135-remote-control.json](./41135-remote-control.json) |
 | Remote Control Dandy | 77880 | [77880-remote-control-dandy.json](./77880-remote-control-dandy.json) |
