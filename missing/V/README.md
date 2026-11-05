@@ -2832,6 +2832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VirZoom Arcade | 33356 | [33356-virzoom-arcade.json](./33356-virzoom-arcade.json) |
 | Visa Control: USA Border Simulator | 315934 | [315934-visa-control-usa-border-simulator.json](./315934-visa-control-usa-border-simulator.json) |
 | Visagens | 282020 | [282020-visagens.json](./282020-visagens.json) |
+| Visca's Earth Conquest | 288483 | [288483-viscas-earth-conquest.json](./288483-viscas-earth-conquest.json) |
 | Viscera | 321899 | [321899-viscera.json](./321899-viscera.json) |
 | Viscera Alien | 385249 | [385249-viscera-alien.json](./385249-viscera-alien.json) |
 | Viscera Cleanup Detail 2 | 321835 | [321835-viscera-cleanup-detail-2.json](./321835-viscera-cleanup-detail-2.json) |
@@ -2881,6 +2882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visite virtuelle de l'Assemblée nationale | 408991 | [408991-visite-virtuelle-de-lassemblee-nationale.json](./408991-visite-virtuelle-de-lassemblee-nationale.json) |
 | Visiting a Celebrity | 160220 | [160220-visiting-a-celebrity.json](./160220-visiting-a-celebrity.json) |
 | Visiting Battleship Island: A Photographer's Chronicle | 308870 | [308870-visiting-battleship-island-a-photographers-chronicle.json](./308870-visiting-battleship-island-a-photographers-chronicle.json) |
+| Visiting Shrine at Night | 288484 | [288484-visiting-shrine-at-night.json](./288484-visiting-shrine-at-night.json) |
 | Visitor | 104903 | [104903-visitor.json](./104903-visitor.json) |
 | Visitor | 177557 | [177557-visitor.json](./177557-visitor.json) |
 | Visitor 2 | 117696 | [117696-visitor-2.json](./117696-visitor-2.json) |
@@ -2909,6 +2911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visualizer | 80590 | [80590-visualizer.json](./80590-visualizer.json) |
 | Vita Fighters | 212051 | [212051-vita-fighters.json](./212051-vita-fighters.json) |
 | Vita Mahjong | 344507 | [344507-vita-mahjong.json](./344507-vita-mahjong.json) |
+| Vita: Rift of a Nation | 288485 | [288485-vita-rift-of-a-nation.json](./288485-vita-rift-of-a-nation.json) |
 | Vita: The Ember Oracle | 356112 | [356112-vita-the-ember-oracle.json](./356112-vita-the-ember-oracle.json) |
 | Vital | 123892 | [123892-vital.json](./123892-vital.json) |
 | Vital | 232013 | [232013-vital.json](./232013-vital.json) |
@@ -3201,6 +3204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Inside | 282023 | [282023-void-inside.json](./282023-void-inside.json) |
 | Void Inspector | 415891 | [415891-void-inspector.json](./415891-void-inspector.json) |
 | Void Invaders | 18213 | [18213-void-invaders.json](./18213-void-invaders.json) |
+| Void Islands | 288486 | [288486-void-islands.json](./288486-void-islands.json) |
 | Void Jump VR | 359051 | [359051-void-jump-vr.json](./359051-void-jump-vr.json) |
 | Void Keeper | 294508 | [294508-void-keeper.json](./294508-void-keeper.json) |
 | Void Lands | 322245 | [322245-void-lands.json](./322245-void-lands.json) |
@@ -3577,6 +3581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vox Populi, Vox Dei | 242914 | [242914-vox-populi-vox-dei.json](./242914-vox-populi-vox-dei.json) |
 | Vox Populi: Brazil 2022 | 220522 | [220522-vox-populi-brazil-2022.json](./220522-vox-populi-brazil-2022.json) |
 | Vox Populi: Canada 2025 | 347173 | [347173-vox-populi-canada-2025.json](./347173-vox-populi-canada-2025.json) |
+| Vox Populi: Europa 2024 | 288488 | [288488-vox-populi-europa-2024.json](./288488-vox-populi-europa-2024.json) |
 | Vox Populi: Poland 2023 | 267678 | [267678-vox-populi-poland-2023.json](./267678-vox-populi-poland-2023.json) |
 | Vox Populi: Spain 2023 | 258042 | [258042-vox-populi-spain-2023.json](./258042-vox-populi-spain-2023.json) |
 | Vox Populi: USA 2024 | 309464 | [309464-vox-populi-usa-2024.json](./309464-vox-populi-usa-2024.json) |
@@ -3698,6 +3703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VPN Simulator | 371306 | [371306-vpn-simulator.json](./371306-vpn-simulator.json) |
 | Vquarium | 404608 | [404608-vquarium.json](./404608-vquarium.json) |
 | VR - Talk to her | 104475 | [104475-vr-talk-to-her.json](./104475-vr-talk-to-her.json) |
+| VR # Avoid | 288489 | [288489-vr-avoid.json](./288489-vr-avoid.json) |
 | VR Adventure (Virtual Reality for mobile devices) | 68485 | [68485-vr-adventure-virtual-reality-for-mobile-devices.json](./68485-vr-adventure-virtual-reality-for-mobile-devices.json) |
 | VR Agent | 288069 | [288069-vr-agent.json](./288069-vr-agent.json) |
 | VR Aim Trainer | 371590 | [371590-vr-aim-trainer.json](./371590-vr-aim-trainer.json) |
@@ -3746,6 +3752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Dinosaur Village | 282027 | [282027-vr-dinosaur-village.json](./282027-vr-dinosaur-village.json) |
 | VR Disc Golf | 32338 | [32338-vr-disc-golf.json](./32338-vr-disc-golf.json) |
 | VR Dodgeball Trainer | 191895 | [191895-vr-dodgeball-trainer.json](./191895-vr-dodgeball-trainer.json) |
+| VR Driver School | 288490 | [288490-vr-driver-school.json](./288490-vr-driver-school.json) |
 | VR Drivers | 68512 | [68512-vr-drivers.json](./68512-vr-drivers.json) |
 | VR Drum Studio | 54534 | [54534-vr-drum-studio.json](./54534-vr-drum-studio.json) |
 | VR Drums Ultimate Streamer | 371218 | [371218-vr-drums-ultimate-streamer.json](./371218-vr-drums-ultimate-streamer.json) |
