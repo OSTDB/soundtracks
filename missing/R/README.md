@@ -1344,7 +1344,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Mosaics: Blooming Garden | 294460 | [294460-rainbow-mosaics-blooming-garden.json](./294460-rainbow-mosaics-blooming-garden.json) |
 | Rainbow Mosaics: Christmas Lights | 294459 | [294459-rainbow-mosaics-christmas-lights.json](./294459-rainbow-mosaics-christmas-lights.json) |
 | Rainbow Mosaics: Christmas Lights 2 | 415881 | [415881-rainbow-mosaics-christmas-lights-2.json](./415881-rainbow-mosaics-christmas-lights-2.json) |
+| Rainbow Mosaics: Garden Helper | 295459 | [295459-rainbow-mosaics-garden-helper.json](./295459-rainbow-mosaics-garden-helper.json) |
+| Rainbow Mosaics: Strange Thing | 295456 | [295456-rainbow-mosaics-strange-thing.json](./295456-rainbow-mosaics-strange-thing.json) |
 | Rainbow Mosaics: The Forest's Guardian | 295467 | [295467-rainbow-mosaics-the-forests-guardian.json](./295467-rainbow-mosaics-the-forests-guardian.json) |
+| Rainbow Mosaics: Treasure Trip | 295457 | [295457-rainbow-mosaics-treasure-trip.json](./295457-rainbow-mosaics-treasure-trip.json) |
 | Rainbow Mosaics: Treasure Trip 2 | 337622 | [337622-rainbow-mosaics-treasure-trip-2.json](./337622-rainbow-mosaics-treasure-trip-2.json) |
 | Rainbow Mystery | 54310 | [54310-rainbow-mystery.json](./54310-rainbow-mystery.json) |
 | Rainbow Pixel | 126241 | [126241-rainbow-pixel.json](./126241-rainbow-pixel.json) |
