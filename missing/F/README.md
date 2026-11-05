@@ -1283,6 +1283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76 + Wastelanders | 171286 | [171286-fallout-76-wastelanders.json](./171286-fallout-76-wastelanders.json) |
 | Fallout 76 Raiders & Settlers Content Bundle | 136361 | [136361-fallout-76-raiders-and-settlers-content-bundle.json](./136361-fallout-76-raiders-and-settlers-content-bundle.json) |
 | Fallout 76: Atlantic City | 252834 | [252834-fallout-76-atlantic-city.json](./252834-fallout-76-atlantic-city.json) |
+| Fallout 76: Atlantic City - America's Playground | 297701 | [297701-fallout-76-atlantic-city-americas-playground.json](./297701-fallout-76-atlantic-city-americas-playground.json) |
 | Fallout 76: Atlantic City - Boardwalk Paradise: Deluxe Edition | 279250 | [279250-fallout-76-atlantic-city-boardwalk-paradise-deluxe-edition.json](./279250-fallout-76-atlantic-city-boardwalk-paradise-deluxe-edition.json) |
 | Fallout 76: Brotherhood of Steel | 142165 | [142165-fallout-76-brotherhood-of-steel.json](./142165-fallout-76-brotherhood-of-steel.json) |
 | Fallout 76: Brotherhood Recruitment Bundle | 142167 | [142167-fallout-76-brotherhood-recruitment-bundle.json](./142167-fallout-76-brotherhood-recruitment-bundle.json) |
@@ -1301,6 +1302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76: S.P.E.C.I.A.L. Edition | 109485 | [109485-fallout-76-s-p-e-c-i-a-l-edition.json](./109485-fallout-76-s-p-e-c-i-a-l-edition.json) |
 | Fallout 76: Season 1 - The Legendary Run | 141569 | [141569-fallout-76-season-1-the-legendary-run.json](./141569-fallout-76-season-1-the-legendary-run.json) |
 | Fallout 76: Season 11 - Nuka-World | 232689 | [232689-fallout-76-season-11-nuka-world.json](./232689-fallout-76-season-11-nuka-world.json) |
+| Fallout 76: Season 16 - Duel with the Devil | 297699 | [297699-fallout-76-season-16-duel-with-the-devil.json](./297699-fallout-76-season-16-duel-with-the-devil.json) |
 | Fallout 76: Season 2 - Armor Ace | 141570 | [141570-fallout-76-season-2-armor-ace.json](./141570-fallout-76-season-2-armor-ace.json) |
 | Fallout 76: Season 3 - The Scribe of Avalon | 141571 | [141571-fallout-76-season-3-the-scribe-of-avalon.json](./141571-fallout-76-season-3-the-scribe-of-avalon.json) |
 | Fallout 76: Season 4 - Cold Steel | 307009 | [307009-fallout-76-season-4-cold-steel.json](./307009-fallout-76-season-4-cold-steel.json) |
@@ -5692,6 +5694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Blessed Heart | 214493 | [214493-fire-emblem-blessed-heart.json](./214493-fire-emblem-blessed-heart.json) |
 | Fire Emblem: Bloodlines | 322794 | [322794-fire-emblem-bloodlines.json](./322794-fire-emblem-bloodlines.json) |
 | Fire Emblem: Bound Destiny | 345364 | [345364-fire-emblem-bound-destiny.json](./345364-fire-emblem-bound-destiny.json) |
+| Fire Emblem: Call of the Armor | 297698 | [297698-fire-emblem-call-of-the-armor.json](./297698-fire-emblem-call-of-the-armor.json) |
 | Fire Emblem: Corrupt Theocracy | 140872 | [140872-fire-emblem-corrupt-theocracy.json](./140872-fire-emblem-corrupt-theocracy.json) |
 | Fire Emblem: Curse of Lagdou | 331954 | [331954-fire-emblem-curse-of-lagdou.json](./331954-fire-emblem-curse-of-lagdou.json) |
 | Fire Emblem: Dark Lord and The Maiden of Light | 214537 | [214537-fire-emblem-dark-lord-and-the-maiden-of-light.json](./214537-fire-emblem-dark-lord-and-the-maiden-of-light.json) |
@@ -5742,6 +5745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Souls of the Forest | 227963 | [227963-fire-emblem-souls-of-the-forest.json](./227963-fire-emblem-souls-of-the-forest.json) |
 | Fire Emblem: Storge | 312345 | [312345-fire-emblem-storge.json](./312345-fire-emblem-storge.json) |
 | Fire Emblem: Sword of Heaven and Earth | 165313 | [165313-fire-emblem-sword-of-heaven-and-earth.json](./165313-fire-emblem-sword-of-heaven-and-earth.json) |
+| Fire Emblem: Tales of Kotor | 297700 | [297700-fire-emblem-tales-of-kotor.json](./297700-fire-emblem-tales-of-kotor.json) |
 | Fire Emblem: The Binding Blade - Project Ember | 181560 | [181560-fire-emblem-the-binding-blade-project-ember.json](./181560-fire-emblem-the-binding-blade-project-ember.json) |
 | Fire Emblem: The Dark Amulet | 382588 | [382588-fire-emblem-the-dark-amulet.json](./382588-fire-emblem-the-dark-amulet.json) |
 | Fire Emblem: The Dragon Herald | 214535 | [214535-fire-emblem-the-dragon-herald.json](./214535-fire-emblem-the-dragon-herald.json) |
