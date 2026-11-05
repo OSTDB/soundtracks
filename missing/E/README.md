@@ -5159,6 +5159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Sharptooth Valley | 319159 | [319159-escape-from-sharptooth-valley.json](./319159-escape-from-sharptooth-valley.json) |
 | Escape from Sin City | 101498 | [101498-escape-from-sin-city.json](./101498-escape-from-sin-city.json) |
 | Escape from Skull Dungeon | 148765 | [148765-escape-from-skull-dungeon.json](./148765-escape-from-skull-dungeon.json) |
+| Escape from Slime City | 257746 | [257746-escape-from-slime-city.json](./257746-escape-from-slime-city.json) |
 | Escape from Somnium | 302507 | [302507-escape-from-somnium.json](./302507-escape-from-somnium.json) |
 | Escape From Space Shredder | 51734 | [51734-escape-from-space-shredder.json](./51734-escape-from-space-shredder.json) |
 | Escape From Spikes | 359210 | [359210-escape-from-spikes.json](./359210-escape-from-spikes.json) |
