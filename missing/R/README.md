@@ -313,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Against a Duck | 343189 | [343189-race-against-a-duck.json](./343189-race-against-a-duck.json) |
 | Race Arcade | 105127 | [105127-race-arcade.json](./105127-race-arcade.json) |
 | Race Attorney | 349748 | [349748-race-attorney.json](./349748-race-attorney.json) |
+| Race Boat Simulator | 256029 | [256029-race-boat-simulator.json](./256029-race-boat-simulator.json) |
 | Race Car | 347004 | [347004-race-car.json](./347004-race-car.json) |
 | Race Condition | 143122 | [143122-race-condition.json](./143122-race-condition.json) |
 | Race Control Director | 232620 | [232620-race-control-director.json](./232620-race-control-director.json) |
@@ -2987,6 +2988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Time Battle Shogi Online | 147185 | [147185-real-time-battle-shogi-online.json](./147185-real-time-battle-shogi-online.json) |
 | Real Time Conflict: Shogun Empires | 20494 | [20494-real-time-conflict-shogun-empires.json](./20494-real-time-conflict-shogun-empires.json) |
 | Real Time Shields | 175668 | [175668-real-time-shields.json](./175668-real-time-shields.json) |
+| Real Truck Driver Simulator USA | 256054 | [256054-real-truck-driver-simulator-usa.json](./256054-real-truck-driver-simulator-usa.json) |
 | Real Truck Simulator 2022 | 219283 | [219283-real-truck-simulator-2022.json](./219283-real-truck-simulator-2022.json) |
 | Real Truck Simulator USA & Ultimate 4x4 Offroad & Real Car Driving Simulator Bundle | 385130 | [385130-real-truck-simulator-usa-and-ultimate-4x4-offroad-and-real-car-driving-simulator-bundle.json](./385130-real-truck-simulator-usa-and-ultimate-4x4-offroad-and-real-car-driving-simulator-bundle.json) |
 | Real Truck Simulator USA Car Games: Premium Millionaire Bundle | 328989 | [328989-real-truck-simulator-usa-car-games-premium-millionaire-bundle.json](./328989-real-truck-simulator-usa-car-games-premium-millionaire-bundle.json) |
@@ -8948,6 +8950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Vacuum Simulator X | 130370 | [130370-robot-vacuum-simulator-x.json](./130370-robot-vacuum-simulator-x.json) |
 | Robot vs Birds Zombies | 34782 | [34782-robot-vs-birds-zombies.json](./34782-robot-vs-birds-zombies.json) |
 | Robot vs Monsters | 312842 | [312842-robot-vs-monsters.json](./312842-robot-vs-monsters.json) |
+| Robot vs. | 256027 | [256027-robot-vs.json](./256027-robot-vs.json) |
 | Robot Wants Fishy | 142207 | [142207-robot-wants-fishy.json](./142207-robot-wants-fishy.json) |
 | Robot Wants Ice Cream | 142208 | [142208-robot-wants-ice-cream.json](./142208-robot-wants-ice-cream.json) |
 | Robot Wants It All | 108325 | [108325-robot-wants-it-all.json](./108325-robot-wants-it-all.json) |
@@ -11458,6 +11461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Romances: Forbidden Magic - Collector's Edition | 240767 | [240767-royal-romances-forbidden-magic-collectors-edition.json](./240767-royal-romances-forbidden-magic-collectors-edition.json) |
 | Royal Romances: Fortunes and Foes - Collector's Edition | 340685 | [340685-royal-romances-fortunes-and-foes-collectors-edition.json](./340685-royal-romances-fortunes-and-foes-collectors-edition.json) |
 | Royal Romances: The Cursed Hearts DLC | 280258 | [280258-royal-romances-the-cursed-hearts-dlc.json](./280258-royal-romances-the-cursed-hearts-dlc.json) |
+| Royal Romances: The Power of Chosen One - Collector's Edition | 256052 | [256052-royal-romances-the-power-of-chosen-one-collectors-edition.json](./256052-royal-romances-the-power-of-chosen-one-collectors-edition.json) |
 | Royal Romances: The Power of Chosen One DLC | 256003 | [256003-royal-romances-the-power-of-chosen-one-dlc.json](./256003-royal-romances-the-power-of-chosen-one-dlc.json) |
 | Royal Settlement 1450 | 54353 | [54353-royal-settlement-1450.json](./54353-royal-settlement-1450.json) |
 | Royal Sort | 369373 | [369373-royal-sort.json](./369373-royal-sort.json) |
@@ -12780,6 +12784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian World Cub Battlegrounds | 334807 | [334807-russian-world-cub-battlegrounds.json](./334807-russian-world-cub-battlegrounds.json) |
 | RussianPunk 2007 | 157070 | [157070-russianpunk-2007.json](./157070-russianpunk-2007.json) |
 | Russki Duck | 282102 | [282102-russki-duck.json](./282102-russki-duck.json) |
+| Russpuppy Kid Books | 256051 | [256051-russpuppy-kid-books.json](./256051-russpuppy-kid-books.json) |
 | Russpuppy Kid Games | 107522 | [107522-russpuppy-kid-games.json](./107522-russpuppy-kid-games.json) |
 | Rust | 299432 | [299432-rust.json](./299432-rust.json) |
 | Rust 'n Dust | 165693 | [165693-rust-n-dust.json](./165693-rust-n-dust.json) |
