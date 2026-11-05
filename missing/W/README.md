@@ -1680,6 +1680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlings 2: Total Armageddon | 280185 | [280185-warlings-2-total-armageddon.json](./280185-warlings-2-total-armageddon.json) |
 | Warlock | 13044 | [13044-warlock.json](./13044-warlock.json) |
 | Warlock | 19773 | [19773-warlock.json](./19773-warlock.json) |
+| Warlock and Boobs | 262027 | [262027-warlock-and-boobs.json](./262027-warlock-and-boobs.json) |
 | Warlock II: Great Mage Edition | 53910 | [53910-warlock-ii-great-mage-edition.json](./53910-warlock-ii-great-mage-edition.json) |
 | Warlock II: The Exiled | 6774 | [6774-warlock-ii-the-exiled.json](./6774-warlock-ii-the-exiled.json) |
 | Warlock II: The Exiled - The Good, the Bad, & the Muddy | 170192 | [170192-warlock-ii-the-exiled-the-good-the-bad-and-the-muddy.json](./170192-warlock-ii-the-exiled-the-good-the-bad-and-the-muddy.json) |
@@ -2095,6 +2096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warspirits | 297483 | [297483-warspirits.json](./297483-warspirits.json) |
 | Warsport | 93325 | [93325-warsport.json](./93325-warsport.json) |
 | Warstead | 422825 | [422825-warstead.json](./422825-warstead.json) |
+| Warstone TD: Gold Edition | 262037 | [262037-warstone-td-gold-edition.json](./262037-warstone-td-gold-edition.json) |
 | Warstride Challenges | 148964 | [148964-warstride-challenges.json](./148964-warstride-challenges.json) |
 | Warsword Conquest | 356193 | [356193-warsword-conquest.json](./356193-warsword-conquest.json) |
 | Wart | 195350 | [195350-wart.json](./195350-wart.json) |
@@ -2990,6 +2992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Web Spice Purple World | 128020 | [128020-web-spice-purple-world.json](./128020-web-spice-purple-world.json) |
 | Web Sudoku | 264460 | [264460-web-sudoku.json](./264460-web-sudoku.json) |
 | Web Swing Hero | 223891 | [223891-web-swing-hero.json](./223891-web-swing-hero.json) |
+| Web War | 262135 | [262135-web-war.json](./262135-web-war.json) |
 | Web Wars | 23342 | [23342-web-wars.json](./23342-web-wars.json) |
 | Web3War | 219451 | [219451-web3war.json](./219451-web3war.json) |
 | Webbed | 139458 | [139458-webbed.json](./139458-webbed.json) |
@@ -3356,6 +3359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wendigo Blue | 329521 | [329521-wendigo-blue.json](./329521-wendigo-blue.json) |
 | Wendigo Hunter | 244174 | [244174-wendigo-hunter.json](./244174-wendigo-hunter.json) |
 | Wendigo's Outside | 341525 | [341525-wendigos-outside.json](./341525-wendigos-outside.json) |
+| Wendy Goes Walkies | 262136 | [262136-wendy-goes-walkies.json](./262136-wendy-goes-walkies.json) |
 | Wendy Whedon | 151537 | [151537-wendy-whedon.json](./151537-wendy-whedon.json) |
 | Wendy: Der Traum von Arizona | 98949 | [98949-wendy-der-traum-von-arizona.json](./98949-wendy-der-traum-von-arizona.json) |
 | Wendy: Every Witch Way | 49855 | [49855-wendy-every-witch-way.json](./49855-wendy-every-witch-way.json) |
@@ -7226,6 +7230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WooLoop: Advent Pack | 277634 | [277634-wooloop-advent-pack.json](./277634-wooloop-advent-pack.json) |
 | WooLoop: Aquatic Pack | 291697 | [291697-wooloop-aquatic-pack.json](./291697-wooloop-aquatic-pack.json) |
 | WooLoop: Fantasy Pack | 232641 | [232641-wooloop-fantasy-pack.json](./232641-wooloop-fantasy-pack.json) |
+| WooLoop: Food Pack | 262039 | [262039-wooloop-food-pack.json](./262039-wooloop-food-pack.json) |
 | WooLoop: Halloween Pack | 272238 | [272238-wooloop-halloween-pack.json](./272238-wooloop-halloween-pack.json) |
 | WooLoop: Industry Pack | 266315 | [266315-wooloop-industry-pack.json](./266315-wooloop-industry-pack.json) |
 | WooLoop: Magic Pack | 319347 | [319347-wooloop-magic-pack.json](./319347-wooloop-magic-pack.json) |
@@ -8313,7 +8318,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Voyage | 53109 | [53109-world-voyage.json](./53109-world-voyage.json) |
 | World VR Competition | 32801 | [32801-world-vr-competition.json](./32801-world-vr-competition.json) |
 | World War | 78611 | [78611-world-war.json](./78611-world-war.json) |
+| World War 1 | 262051 | [262051-world-war-1.json](./262051-world-war-1.json) |
 | World War 1: Ruined - Part 2 | 265118 | [265118-world-war-1-ruined-part-2.json](./265118-world-war-1-ruined-part-2.json) |
+| World War 1: Ruined Part 1 | 262040 | [262040-world-war-1-ruined-part-1.json](./262040-world-war-1-ruined-part-1.json) |
 | World War 1945 | 109534 | [109534-world-war-1945.json](./109534-world-war-1945.json) |
 | World War 2 | 206615 | [206615-world-war-2.json](./206615-world-war-2.json) |
 | World War 2 Agenda | 302417 | [302417-world-war-2-agenda.json](./302417-world-war-2-agenda.json) |
