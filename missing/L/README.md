@@ -1171,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Bullet | 405595 | [405595-last-bullet.json](./405595-last-bullet.json) |
 | Last Bus Home | 208617 | [208617-last-bus-home.json](./208617-last-bus-home.json) |
 | Last Buzz | 417440 | [417440-last-buzz.json](./417440-last-buzz.json) |
+| Last Cabra | 277626 | [277626-last-cabra.json](./277626-last-cabra.json) |
 | Last Call | 175890 | [175890-last-call.json](./175890-last-call.json) |
 | Last Call | 297321 | [297321-last-call.json](./297321-last-call.json) |
 | Last Call | 313932 | [313932-last-call.json](./313932-last-call.json) |
@@ -1569,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LastSafeZone | 265131 | [265131-lastsafezone.json](./265131-lastsafezone.json) |
 | LastShot | 128338 | [128338-lastshot.json](./128338-lastshot.json) |
 | LastStanding | 413750 | [413750-laststanding.json](./413750-laststanding.json) |
+| Lasy Legacy: Null Space | 277673 | [277673-lasy-legacy-null-space.json](./277673-lasy-legacy-null-space.json) |
 | Lasy Podpoduszańskie | 146655 | [146655-lasy-podpoduszanskie.json](./146655-lasy-podpoduszanskie.json) |
 | Latale | 94907 | [94907-latale.json](./94907-latale.json) |
 | LaTale W | 83366 | [83366-latale-w.json](./83366-latale-w.json) |
@@ -7949,6 +7951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in the Dungeon | 77774 | [77774-lost-in-the-dungeon.json](./77774-lost-in-the-dungeon.json) |
 | Lost in the Fire | 383142 | [383142-lost-in-the-fire.json](./383142-lost-in-the-fire.json) |
 | Lost in the Fogbound Deadwood | 406512 | [406512-lost-in-the-fogbound-deadwood.json](./406512-lost-in-the-fogbound-deadwood.json) |
+| Lost in the Forest | 277672 | [277672-lost-in-the-forest.json](./277672-lost-in-the-forest.json) |
 | Lost in the Grotto: Thievery | 344517 | [344517-lost-in-the-grotto-thievery.json](./344517-lost-in-the-grotto-thievery.json) |
 | Lost in the Hole | 401605 | [401605-lost-in-the-hole.json](./401605-lost-in-the-hole.json) |
 | Lost in the Maze of Those Memories I Wander and Nervously Laugh | 364243 | [364243-lost-in-the-maze-of-those-memories-i-wander-and-nervously-laugh.json](./364243-lost-in-the-maze-of-those-memories-i-wander-and-nervously-laugh.json) |
