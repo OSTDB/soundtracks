@@ -2197,6 +2197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasted Glory | 276479 | [276479-wasted-glory.json](./276479-wasted-glory.json) |
 | Wasted Pizza | 68594 | [68594-wasted-pizza.json](./68594-wasted-pizza.json) |
 | Wasted Shot | 309407 | [309407-wasted-shot.json](./309407-wasted-shot.json) |
+| Wasted: Will Be Brutal | 271552 | [271552-wasted-will-be-brutal.json](./271552-wasted-will-be-brutal.json) |
 | WastedRoad Reapers | 336673 | [336673-wastedroad-reapers.json](./336673-wastedroad-reapers.json) |
 | WasteFlow | 344116 | [344116-wasteflow.json](./344116-wasteflow.json) |
 | Wastehaven | 152719 | [152719-wastehaven.json](./152719-wastehaven.json) |
@@ -3900,6 +3901,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheels | 170425 | [170425-wheels.json](./170425-wheels.json) |
 | Wheels Escape - Police Chase! | 99134 | [99134-wheels-escape-police-chase.json](./99134-wheels-escape-police-chase.json) |
 | Wheels of Destruction | 20735 | [20735-wheels-of-destruction.json](./20735-wheels-of-destruction.json) |
+| Wheels of Duty | 271553 | [271553-wheels-of-duty.json](./271553-wheels-of-duty.json) |
+| Wheels of Duty: Survival Modes | 271554 | [271554-wheels-of-duty-survival-modes.json](./271554-wheels-of-duty-survival-modes.json) |
 | Wheels of Fire | 70259 | [70259-wheels-of-fire.json](./70259-wheels-of-fire.json) |
 | Wheels on Fire | 233067 | [233067-wheels-on-fire.json](./233067-wheels-on-fire.json) |
 | Wheels on Fire | 78030 | [78030-wheels-on-fire.json](./78030-wheels-on-fire.json) |
@@ -4536,6 +4539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Rabbit | 161356 | [161356-white-rabbit.json](./161356-white-rabbit.json) |
 | White Rectangle | 182778 | [182778-white-rectangle.json](./182778-white-rectangle.json) |
 | White Redemption | 289667 | [289667-white-redemption.json](./289667-white-redemption.json) |
+| White Room | 271526 | [271526-white-room.json](./271526-white-room.json) |
 | White Room: Mind’s Prison | 327175 | [327175-white-room-mind-s-prison.json](./327175-white-room-mind-s-prison.json) |
 | White Rooms | 399708 | [399708-white-rooms.json](./399708-white-rooms.json) |
 | White Sands | 236228 | [236228-white-sands.json](./236228-white-sands.json) |
