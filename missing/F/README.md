@@ -4049,6 +4049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FFF | 219303 | [219303-fff.json](./219303-fff.json) |
 | Ffff You Machine | 349504 | [349504-ffff-you-machine.json](./349504-ffff-you-machine.json) |
 | FFFF: Fatal Five Finger Fillet | 417258 | [417258-ffff-fatal-five-finger-fillet.json](./417258-ffff-fatal-five-finger-fillet.json) |
+| FFFL: Brutalball Manager | 248972 | [248972-fffl-brutalball-manager.json](./248972-fffl-brutalball-manager.json) |
 | FFS, Another Northern Duke?! | 309876 | [309876-ffs-another-northern-duke.json](./309876-ffs-another-northern-duke.json) |
 | FFS: Football Freekick Simulator | 312436 | [312436-ffs-football-freekick-simulator.json](./312436-ffs-football-freekick-simulator.json) |
 | FFX Runner | 8776 | [8776-ffx-runner.json](./8776-ffx-runner.json) |
@@ -9346,6 +9347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forager | 25580 | [25580-forager.json](./25580-forager.json) |
 | Forager's Finds | 391421 | [391421-foragers-finds.json](./391421-foragers-finds.json) |
 | Foragery | 286307 | [286307-foragery.json](./286307-foragery.json) |
+| Forastero | 248968 | [248968-forastero.json](./248968-forastero.json) |
 | Forays into Norrendrin | 148391 | [148391-forays-into-norrendrin.json](./148391-forays-into-norrendrin.json) |
 | Forbes Corporate Warrior | 71373 | [71373-forbes-corporate-warrior.json](./71373-forbes-corporate-warrior.json) |
 | Forbidden | 195953 | [195953-forbidden.json](./195953-forbidden.json) |
