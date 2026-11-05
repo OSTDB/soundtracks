@@ -4717,6 +4717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathwish Enforcers: Special Edition | 305225 | [305225-deathwish-enforcers-special-edition.json](./305225-deathwish-enforcers-special-edition.json) |
 | DeathWorm | 234941 | [234941-deathworm.json](./234941-deathworm.json) |
 | Debasing Grounds | 286682 | [286682-debasing-grounds.json](./286682-debasing-grounds.json) |
+| Debate | 296048 | [296048-debate.json](./296048-debate.json) |
 | Debauchery & Magic | 420588 | [420588-debauchery-and-magic.json](./420588-debauchery-and-magic.json) |
 | Debbie's Diner Derby | 394889 | [394889-debbies-diner-derby.json](./394889-debbies-diner-derby.json) |
 | Deber | 294931 | [294931-deber.json](./294931-deber.json) |
