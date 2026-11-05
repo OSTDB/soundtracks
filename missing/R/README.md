@@ -7414,6 +7414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riley Short: Sibling Circuitry | 152597 | [152597-riley-short-sibling-circuitry.json](./152597-riley-short-sibling-circuitry.json) |
 | Riley's Letter Recycle | 311701 | [311701-rileys-letter-recycle.json](./311701-rileys-letter-recycle.json) |
 | Rilu Rilu Fairilu Kirakira: Hajimete no Fairilu Magic | 222537 | [222537-rilu-rilu-fairilu-kirakira-hajimete-no-fairilu-magic.json](./222537-rilu-rilu-fairilu-kirakira-hajimete-no-fairilu-magic.json) |
+| Rim | 286338 | [286338-rim.json](./286338-rim.json) |
 | Rim | 398381 | [398381-rim.json](./398381-rim.json) |
 | Rim Rockin' Basketball | 40423 | [40423-rim-rockin-basketball.json](./40423-rim-rockin-basketball.json) |
 | Rim Runners | 64661 | [64661-rim-runners.json](./64661-rim-runners.json) |
@@ -10654,6 +10655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room | 293847 | [293847-room.json](./293847-room.json) |
 | Room 0 | 410478 | [410478-room-0.json](./410478-room-0.json) |
 | Room 12 | 207734 | [207734-room-12.json](./207734-room-12.json) |
+| Room 13 | 286331 | [286331-room-13.json](./286331-room-13.json) |
 | Room 14 | 301855 | [301855-room-14.json](./301855-room-14.json) |
 | Room 202 | 313926 | [313926-room-202.json](./313926-room-202.json) |
 | Room 303 | 183174 | [183174-room-303.json](./183174-room-303.json) |
