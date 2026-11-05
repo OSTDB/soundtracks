@@ -1210,6 +1210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ziode Shadow | 164075 | [164075-ziode-shadow.json](./164075-ziode-shadow.json) |
 | Zion | 198308 | [198308-zion.json](./198308-zion.json) |
 | Zion Survivors | 199091 | [199091-zion-survivors.json](./199091-zion-survivors.json) |
+| Ziona Quest | 280036 | [280036-ziona-quest.json](./280036-ziona-quest.json) |
 | Zip | 335986 | [335986-zip.json](./335986-zip.json) |
 | Zip | 60252 | [60252-zip.json](./60252-zip.json) |
 | Zip A Doo | 91377 | [91377-zip-a-doo.json](./91377-zip-a-doo.json) |
@@ -2224,6 +2225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Tycoon: Dinosaur Digs | 27807 | [27807-zoo-tycoon-dinosaur-digs.json](./27807-zoo-tycoon-dinosaur-digs.json) |
 | Zoo Tycoon: Dinosaur Digs - No Grass, Please! | 279801 | [279801-zoo-tycoon-dinosaur-digs-no-grass-please.json](./279801-zoo-tycoon-dinosaur-digs-no-grass-please.json) |
 | Zoo Tycoon: Marine Mania | 23769 | [23769-zoo-tycoon-marine-mania.json](./23769-zoo-tycoon-marine-mania.json) |
+| Zoo Tycoon: RSN Complete Collection | 280044 | [280044-zoo-tycoon-rsn-complete-collection.json](./280044-zoo-tycoon-rsn-complete-collection.json) |
 | Zoo Tycoon: Ultimate Animal Collection | 74712 | [74712-zoo-tycoon-ultimate-animal-collection.json](./74712-zoo-tycoon-ultimate-animal-collection.json) |
 | Zoo Vet | 79929 | [79929-zoo-vet.json](./79929-zoo-vet.json) |
 | Zoo World VR | 142197 | [142197-zoo-world-vr.json](./142197-zoo-world-vr.json) |
