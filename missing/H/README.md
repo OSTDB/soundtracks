@@ -1879,6 +1879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardcore and Death | 414503 | [414503-hardcore-and-death.json](./414503-hardcore-and-death.json) |
 | Hardcore Bunny Jumper | 118087 | [118087-hardcore-bunny-jumper.json](./118087-hardcore-bunny-jumper.json) |
 | Hardcore Circus | 325495 | [325495-hardcore-circus.json](./325495-hardcore-circus.json) |
+| Hardcore Cottagecore | 285275 | [285275-hardcore-cottagecore.json](./285275-hardcore-cottagecore.json) |
 | Hardcore Dirt Bike | 87720 | [87720-hardcore-dirt-bike.json](./87720-hardcore-dirt-bike.json) |
 | Hardcore Dirt Bike 2 | 97918 | [97918-hardcore-dirt-bike-2.json](./97918-hardcore-dirt-bike-2.json) |
 | Hardcore Leveling Warrior | 382444 | [382444-hardcore-leveling-warrior.json](./382444-hardcore-leveling-warrior.json) |
@@ -9642,6 +9643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horde Survival Bundle Xbox: Andromeda Survivors, Beyond Border, Farmer Survivors, Primal Survivors, Shield King | 333692 | [333692-horde-survival-bundle-xbox-andromeda-survivors-beyond-border-farmer-survivors-primal-survivors-shield-king.json](./333692-horde-survival-bundle-xbox-andromeda-survivors-beyond-border-farmer-survivors-primal-survivors-shield-king.json) |
 | Horde Survival Bundle Xbox: Andromeda, Godsvivors and Farmer Survivors | 333691 | [333691-horde-survival-bundle-xbox-andromeda-godsvivors-and-farmer-survivors.json](./333691-horde-survival-bundle-xbox-andromeda-godsvivors-and-farmer-survivors.json) |
 | Horde Survival Bundle Xbox: Beyond Border, Shield King and Primal Survivors | 333693 | [333693-horde-survival-bundle-xbox-beyond-border-shield-king-and-primal-survivors.json](./333693-horde-survival-bundle-xbox-beyond-border-shield-king-and-primal-survivors.json) |
+| Horde Survivor | 285295 | [285295-horde-survivor.json](./285295-horde-survivor.json) |
 | Horde: The Citadel | 375850 | [375850-horde-the-citadel.json](./375850-horde-the-citadel.json) |
 | Horde: The Northern Wind | 18879 | [18879-horde-the-northern-wind.json](./18879-horde-the-northern-wind.json) |
 | Horde: Zombie Outbreak | 105576 | [105576-horde-zombie-outbreak.json](./105576-horde-zombie-outbreak.json) |
@@ -11527,6 +11529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunkenstein | 188967 | [188967-hunkenstein.json](./188967-hunkenstein.json) |
 | Hunker Down | 236735 | [236735-hunker-down.json](./236735-hunker-down.json) |
 | Hunkfrat | 374401 | [374401-hunkfrat.json](./374401-hunkfrat.json) |
+| Hunky City | 285297 | [285297-hunky-city.json](./285297-hunky-city.json) |
 | Hunsvotti | 392167 | [392167-hunsvotti.json](./392167-hunsvotti.json) |
 | Hunt | 147908 | [147908-hunt.json](./147908-hunt.json) |
 | Hunt | 187765 | [187765-hunt.json](./187765-hunt.json) |
