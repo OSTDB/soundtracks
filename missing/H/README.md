@@ -712,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Mystery: 100 Hidden Object Fruits | 390468 | [390468-halloween-mystery-100-hidden-object-fruits.json](./390468-halloween-mystery-100-hidden-object-fruits.json) |
 | Halloween Naughty Girls | 266081 | [266081-halloween-naughty-girls.json](./266081-halloween-naughty-girls.json) |
 | Halloween Night | 209447 | [209447-halloween-night.json](./209447-halloween-night.json) |
+| Halloween Night | 274807 | [274807-halloween-night.json](./274807-halloween-night.json) |
 | Halloween Night Archery | 84529 | [84529-halloween-night-archery.json](./84529-halloween-night-archery.json) |
 | Halloween Night II | 209448 | [209448-halloween-night-ii.json](./209448-halloween-night-ii.json) |
 | Halloween Night Mahjong | 156831 | [156831-halloween-night-mahjong.json](./156831-halloween-night-mahjong.json) |
@@ -5642,6 +5643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermit and Pig | 252738 | [252738-hermit-and-pig.json](./252738-hermit-and-pig.json) |
 | Hermit Computer | 402440 | [402440-hermit-computer.json](./402440-hermit-computer.json) |
 | Hermit Night | 339033 | [339033-hermit-night.json](./339033-hermit-night.json) |
+| Hermit Simulator | 274797 | [274797-hermit-simulator.json](./274797-hermit-simulator.json) |
 | Hermit: an Underwater Tale | 211955 | [211955-hermit-an-underwater-tale.json](./211955-hermit-an-underwater-tale.json) |
 | Hermit's Tic-Tac-Toe | 243608 | [243608-hermits-tic-tac-toe.json](./243608-hermits-tic-tac-toe.json) |
 | Hermitage Strange Case Files | 99435 | [99435-hermitage-strange-case-files.json](./99435-hermitage-strange-case-files.json) |
@@ -8880,6 +8882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HolyHunt | 241791 | [241791-holyhunt.json](./241791-holyhunt.json) |
 | HolySpirit | 308002 | [308002-holyspirit.json](./308002-holyspirit.json) |
 | HolyZone | 311884 | [311884-holyzone.json](./311884-holyzone.json) |
+| Homage: Godless Grotto | 274787 | [274787-homage-godless-grotto.json](./274787-homage-godless-grotto.json) |
 | Homam: An Inventor's Fist | 369366 | [369366-homam-an-inventors-fist.json](./369366-homam-an-inventors-fist.json) |
 | Homauton | 411301 | [411301-homauton.json](./411301-homauton.json) |
 | Homaysa | 224223 | [224223-homaysa.json](./224223-homaysa.json) |
@@ -10156,6 +10159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot and Lovely: Seduction | 366336 | [366336-hot-and-lovely-seduction.json](./366336-hot-and-lovely-seduction.json) |
 | Hot and Lovely: Seduction Waifu | 384719 | [384719-hot-and-lovely-seduction-waifu.json](./384719-hot-and-lovely-seduction-waifu.json) |
 | Hot and Lovely: Suger | 280657 | [280657-hot-and-lovely-suger.json](./280657-hot-and-lovely-suger.json) |
+| Hot And Lovely: Tease | 274781 | [274781-hot-and-lovely-tease.json](./274781-hot-and-lovely-tease.json) |
 | Hot And Lovely: Uniform | 262926 | [262926-hot-and-lovely-uniform.json](./262926-hot-and-lovely-uniform.json) |
 | Hot And Lovely: Violet | 367270 | [367270-hot-and-lovely-violet.json](./367270-hot-and-lovely-violet.json) |
 | Hot Asses | 393391 | [393391-hot-asses.json](./393391-hot-asses.json) |
