@@ -1038,6 +1038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Hunter: Rodent Rampage | 330556 | [330556-hamster-hunter-rodent-rampage.json](./330556-hamster-hunter-rodent-rampage.json) |
 | Hamster Hustle | 367082 | [367082-hamster-hustle.json](./367082-hamster-hustle.json) |
 | Hamster Inn | 297166 | [297166-hamster-inn.json](./297166-hamster-inn.json) |
+| Hamster Life | 297682 | [297682-hamster-life.json](./297682-hamster-life.json) |
 | Hamster Logic 3D | 172355 | [172355-hamster-logic-3d.json](./172355-hamster-logic-3d.json) |
 | Hamster Mapster | 400521 | [400521-hamster-mapster.json](./400521-hamster-mapster.json) |
 | Hamster Monogatari | 57393 | [57393-hamster-monogatari.json](./57393-hamster-monogatari.json) |
@@ -11712,6 +11713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Pack | 373309 | [373309-hunting-pack.json](./373309-hunting-pack.json) |
 | Hunting Pearl Creek | 239806 | [239806-hunting-pearl-creek.json](./239806-hunting-pearl-creek.json) |
 | Hunting Pro Simulator | 407553 | [407553-hunting-pro-simulator.json](./407553-hunting-pro-simulator.json) |
+| Hunting Safari 3D | 297672 | [297672-hunting-safari-3d.json](./297672-hunting-safari-3d.json) |
 | Hunting Seas | 312169 | [312169-hunting-seas.json](./312169-hunting-seas.json) |
 | Hunting Season | 210056 | [210056-hunting-season.json](./210056-hunting-season.json) |
 | Hunting Season 3D | 220830 | [220830-hunting-season-3d.json](./220830-hunting-season-3d.json) |
