@@ -4672,6 +4672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightwalker | 163946 | [163946-nightwalker.json](./163946-nightwalker.json) |
 | Nightwalker | 69516 | [69516-nightwalker.json](./69516-nightwalker.json) |
 | Nightwalker 2 | 152854 | [152854-nightwalker-2.json](./152854-nightwalker-2.json) |
+| Nightwatch | 272599 | [272599-nightwatch.json](./272599-nightwatch.json) |
 | Nightwatch | 81339 | [81339-nightwatch.json](./81339-nightwatch.json) |
 | Nightwatch at the Hopkins' Cliffside | 371597 | [371597-nightwatch-at-the-hopkins-cliffside.json](./371597-nightwatch-at-the-hopkins-cliffside.json) |
 | Nightwatch at the Museum | 415874 | [415874-nightwatch-at-the-museum.json](./415874-nightwatch-at-the-museum.json) |
