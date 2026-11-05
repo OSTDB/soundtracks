@@ -1005,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vec-Man | 273908 | [273908-vec-man.json](./273908-vec-man.json) |
 | Veccol | 111535 | [111535-veccol.json](./111535-veccol.json) |
 | Veccy Bird | 311978 | [311978-veccy-bird.json](./311978-veccy-bird.json) |
+| Vecdrift | 273711 | [273711-vecdrift.json](./273711-vecdrift.json) |
 | Vecindad Sistema Solar | 394590 | [394590-vecindad-sistema-solar.json](./394590-vecindad-sistema-solar.json) |
 | Vecitas | 30524 | [30524-vecitas.json](./30524-vecitas.json) |
 | Veck | 71208 | [71208-veck.json](./71208-veck.json) |
