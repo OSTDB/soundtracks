@@ -4073,6 +4073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs. Hogan's Alley | 169999 | [169999-vs-hogans-alley.json](./169999-vs-hogans-alley.json) |
 | Vs. Ice Climber | 41079 | [41079-vs-ice-climber.json](./41079-vs-ice-climber.json) |
 | Vs. Imposter Alternated | 253870 | [253870-vs-imposter-alternated.json](./253870-vs-imposter-alternated.json) |
+| VS. Kapi: Arcade Showdown | 280041 | [280041-vs-kapi-arcade-showdown.json](./280041-vs-kapi-arcade-showdown.json) |
 | Vs. Ladies Golf | 168330 | [168330-vs-ladies-golf.json](./168330-vs-ladies-golf.json) |
 | Vs. Lionex | 214600 | [214600-vs-lionex.json](./214600-vs-lionex.json) |
 | Vs. Mach Rider | 40505 | [40505-vs-mach-rider.json](./40505-vs-mach-rider.json) |
