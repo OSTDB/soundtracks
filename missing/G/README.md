@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Digital Devil Saga Avatar Tuner - A's Test Server | 394291 | [394291-g-mode-archives-digital-devil-saga-avatar-tuner-as-test-server.json](./394291-g-mode-archives-digital-devil-saga-avatar-tuner-as-test-server.json) |
 | G-Mode Archives+: DoDonPachi DaiOuJou DX | 196066 | [196066-g-mode-archives-dodonpachi-daioujou-dx.json](./196066-g-mode-archives-dodonpachi-daioujou-dx.json) |
 | G-Mode Archives+: Flash Motor Karen | 388380 | [388380-g-mode-archives-flash-motor-karen.json](./388380-g-mode-archives-flash-motor-karen.json) |
+| G-Mode Archives+: Fujidou Ryuunosuke Tantei Nikki Vol.3 - Ruiiro no Suiren: Gosai Ryuudensetsu Renzoku Satsujin-jiken | 271519 | [271519-g-mode-archives-fujidou-ryuunosuke-tantei-nikki-vol-3-ruiiro-no-suiren-gosai-ryuudensetsu-renzoku-satsujin-jiken.json](./271519-g-mode-archives-fujidou-ryuunosuke-tantei-nikki-vol-3-ruiiro-no-suiren-gosai-ryuudensetsu-renzoku-satsujin-jiken.json) |
 | G-Mode Archives+: Game Tengoku | 253228 | [253228-g-mode-archives-game-tengoku.json](./253228-g-mode-archives-game-tengoku.json) |
 | G-Mode Archives+: Idol Janshi Suchie-Pai | 256268 | [256268-g-mode-archives-idol-janshi-suchie-pai.json](./256268-g-mode-archives-idol-janshi-suchie-pai.json) |
 | G-Mode Archives+: Kishinden Strike-G- | 412402 | [412402-g-mode-archives-kishinden-strike-g.json](./412402-g-mode-archives-kishinden-strike-g.json) |
@@ -111,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Ridge Racer | 416050 | [416050-g-mode-archives-ridge-racer.json](./416050-g-mode-archives-ridge-racer.json) |
 | G-Mode Archives+: Saiko Mystery Series vol. 1 - Three, Mittsu no Kioki | 251472 | [251472-g-mode-archives-saiko-mystery-series-vol-1-three-mittsu-no-kioki.json](./251472-g-mode-archives-saiko-mystery-series-vol-1-three-mittsu-no-kioki.json) |
 | G-Mode Archives+: Saiko Mystery Series Vol. 2 - Angel City | 254928 | [254928-g-mode-archives-saiko-mystery-series-vol-2-angel-city.json](./254928-g-mode-archives-saiko-mystery-series-vol-2-angel-city.json) |
+| G-Mode Archives+: Saiko Mystery Series vol. 4 - Innocent Noise | 271520 | [271520-g-mode-archives-saiko-mystery-series-vol-4-innocent-noise.json](./271520-g-mode-archives-saiko-mystery-series-vol-4-innocent-noise.json) |
 | G-Mode Archives+: Saiko Mystery Series Vol.3 - Sin | 260681 | [260681-g-mode-archives-saiko-mystery-series-vol-3-sin.json](./260681-g-mode-archives-saiko-mystery-series-vol-3-sin.json) |
 | G-Mode Archives+: Saiko Mystery Series Vol.5 - Cold Rain | 276453 | [276453-g-mode-archives-saiko-mystery-series-vol-5-cold-rain.json](./276453-g-mode-archives-saiko-mystery-series-vol-5-cold-rain.json) |
 | G-Mode Archives+: Shin Megami Tensei - 20XX | 340672 | [340672-g-mode-archives-shin-megami-tensei-20xx.json](./340672-g-mode-archives-shin-megami-tensei-20xx.json) |
@@ -7180,6 +7182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorilla Tag | 143228 | [143228-gorilla-tag.json](./143228-gorilla-tag.json) |
 | Gorilla Tag Contagion | 409988 | [409988-gorilla-tag-contagion.json](./409988-gorilla-tag-contagion.json) |
 | Gorilla Unko | 387627 | [387627-gorilla-unko.json](./387627-gorilla-unko.json) |
+| GorillaCraft | 271548 | [271548-gorillacraft.json](./271548-gorillacraft.json) |
 | Gorillas | 308395 | [308395-gorillas.json](./308395-gorillas.json) |
 | Gorillas-Lab | 376628 | [376628-gorillas-lab.json](./376628-gorillas-lab.json) |
 | Gorillaz | 285125 | [285125-gorillaz.json](./285125-gorillaz.json) |
@@ -8880,6 +8883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gremlore | 275065 | [275065-gremlore.json](./275065-gremlore.json) |
 | Grems | 386710 | [386710-grems.json](./386710-grems.json) |
 | Grenade Madness | 33780 | [33780-grenade-madness.json](./33780-grenade-madness.json) |
+| Grendel's Keep | 271523 | [271523-grendels-keep.json](./271523-grendels-keep.json) |
 | Grendel's Revenge | 370678 | [370678-grendels-revenge.json](./370678-grendels-revenge.json) |
 | Grenouilles 3D | 401550 | [401550-grenouilles-3d.json](./401550-grenouilles-3d.json) |
 | Grenzgänger: Aus der DDR in den Westen | 375492 | [375492-grenzganger-aus-der-ddr-in-den-westen.json](./375492-grenzganger-aus-der-ddr-in-den-westen.json) |
