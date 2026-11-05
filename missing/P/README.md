@@ -3758,6 +3758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pegasus: Broken Wings | 170677 | [170677-pegasus-broken-wings.json](./170677-pegasus-broken-wings.json) |
 | Pegaxy | 188410 | [188410-pegaxy.json](./188410-pegaxy.json) |
 | Pegdrop Hearts | 250166 | [250166-pegdrop-hearts.json](./250166-pegdrop-hearts.json) |
+| Pegged | 284166 | [284166-pegged.json](./284166-pegged.json) |
 | Pegged | 312228 | [312228-pegged.json](./312228-pegged.json) |
 | Pegged | 385372 | [385372-pegged.json](./385372-pegged.json) |
 | Peggle | 3751 | [3751-peggle.json](./3751-peggle.json) |
@@ -4302,6 +4303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Ninja Painter 3 | 329513 | [329513-perfect-ninja-painter-3.json](./329513-perfect-ninja-painter-3.json) |
 | Perfect Ninja Painter 4 | 402059 | [402059-perfect-ninja-painter-4.json](./402059-perfect-ninja-painter-4.json) |
 | Perfect Pachinko | 385719 | [385719-perfect-pachinko.json](./385719-perfect-pachinko.json) |
+| Perfect Pair | 284112 | [284112-perfect-pair.json](./284112-perfect-pair.json) |
 | Perfect Pair Solitaire | 210005 | [210005-perfect-pair-solitaire.json](./210005-perfect-pair-solitaire.json) |
 | Perfect Park | 135102 | [135102-perfect-park.json](./135102-perfect-park.json) |
 | Perfect Partner | 207694 | [207694-perfect-partner.json](./207694-perfect-partner.json) |
@@ -5367,6 +5369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pheles Rebirth | 423298 | [423298-pheles-rebirth.json](./423298-pheles-rebirth.json) |
 | Phelios | 19510 | [19510-phelios.json](./19510-phelios.json) |
 | Phelios | 199420 | [199420-phelios.json](./199420-phelios.json) |
+| Phenix Corrupta | 284124 | [284124-phenix-corrupta.json](./284124-phenix-corrupta.json) |
 | Phenocore | 194308 | [194308-phenocore.json](./194308-phenocore.json) |
 | Phenol's Pocket Photo Gallery Vol. 1 | 337010 | [337010-phenols-pocket-photo-gallery-vol-1.json](./337010-phenols-pocket-photo-gallery-vol-1.json) |
 | Phenom | 285800 | [285800-phenom.json](./285800-phenom.json) |
@@ -5889,6 +5892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pico Driller | 177940 | [177940-pico-driller.json](./177940-pico-driller.json) |
 | Pico Fox | 276019 | [276019-pico-fox.json](./276019-pico-fox.json) |
 | Pico Islands | 189360 | [189360-pico-islands.json](./189360-pico-islands.json) |
+| Pico Life | 284040 | [284040-pico-life.json](./284040-pico-life.json) |
 | Pico Monsters | 181931 | [181931-pico-monsters.json](./181931-pico-monsters.json) |
 | Pico Park 1+2 | 328142 | [328142-pico-park-1-2.json](./328142-pico-park-1-2.json) |
 | Pico Park 2 | 314933 | [314933-pico-park-2.json](./314933-pico-park-2.json) |
@@ -5907,8 +5911,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pico Tennis | 180502 | [180502-pico-tennis.json](./180502-pico-tennis.json) |
 | Pico Topia | 272737 | [272737-pico-topia.json](./272737-pico-topia.json) |
 | Pico Tower | 284301 | [284301-pico-tower.json](./284301-pico-tower.json) |
+| Pico Valley | 284039 | [284039-pico-valley.json](./284039-pico-valley.json) |
 | Pico vs. Bear | 331683 | [331683-pico-vs-bear.json](./331683-pico-vs-bear.json) |
 | Pico World Race | 218636 | [218636-pico-world-race.json](./218636-pico-world-race.json) |
+| Pico Zelda | 284127 | [284127-pico-zelda.json](./284127-pico-zelda.json) |
 | Pico Zombie Garden | 272657 | [272657-pico-zombie-garden.json](./272657-pico-zombie-garden.json) |
 | Pico-8 Multicart | 202717 | [202717-pico-8-multicart.json](./202717-pico-8-multicart.json) |
 | Pico's School | 58587 | [58587-picos-school.json](./58587-picos-school.json) |
