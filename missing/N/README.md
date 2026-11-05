@@ -342,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nananana Tamago | 320798 | [320798-nananana-tamago.json](./320798-nananana-tamago.json) |
 | Nanashi no Game | 67979 | [67979-nanashi-no-game.json](./67979-nanashi-no-game.json) |
 | Nanatama: Chronicle of Dungeon Maker | 59366 | [59366-nanatama-chronicle-of-dungeon-maker.json](./59366-nanatama-chronicle-of-dungeon-maker.json) |
+| Nanatan | 295978 | [295978-nanatan.json](./295978-nanatan.json) |
 | Nanatsu Kaze no Shima Monogatari | 18493 | [18493-nanatsu-kaze-no-shima-monogatari.json](./18493-nanatsu-kaze-no-shima-monogatari.json) |
 | Nanatsu no Hikan | 137031 | [137031-nanatsu-no-hikan.json](./137031-nanatsu-no-hikan.json) |
 | Nanatsu no Hikan: Senritsu no Bishou | 108772 | [108772-nanatsu-no-hikan-senritsu-no-bishou.json](./108772-nanatsu-no-hikan-senritsu-no-bishou.json) |
@@ -2063,6 +2064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekopara Vol. 3 | 29271 | [29271-nekopara-vol-3.json](./29271-nekopara-vol-3.json) |
 | Nekopara Vol. 4 | 35254 | [35254-nekopara-vol-4.json](./35254-nekopara-vol-4.json) |
 | Nekopirate | 244149 | [244149-nekopirate.json](./244149-nekopirate.json) |
+| Nekopon | 295979 | [295979-nekopon.json](./295979-nekopon.json) |
 | Nekopter | 156018 | [156018-nekopter.json](./156018-nekopter.json) |
 | Nekoroid | 152144 | [152144-nekoroid.json](./152144-nekoroid.json) |
 | NekoSpin | 330095 | [330095-nekospin.json](./330095-nekospin.json) |
@@ -5819,6 +5821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No-good Noelle | 281242 | [281242-no-good-noelle.json](./281242-no-good-noelle.json) |
 | No-good Streamer Mirai-chan! (Now accepting lewd comments) | 354769 | [354769-no-good-streamer-mirai-chan-now-accepting-lewd-comments.json](./354769-no-good-streamer-mirai-chan-now-accepting-lewd-comments.json) |
 | No-Hi | 311204 | [311204-no-hi.json](./311204-no-hi.json) |
+| No-Skin | 296046 | [296046-no-skin.json](./296046-no-skin.json) |
 | No-Snake Hotel | 198375 | [198375-no-snake-hotel.json](./198375-no-snake-hotel.json) |
 | No-Zero | 161585 | [161585-no-zero.json](./161585-no-zero.json) |
 | No, Birdie, No! | 128640 | [128640-no-birdie-no.json](./128640-no-birdie-no.json) |
