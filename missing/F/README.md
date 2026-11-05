@@ -7274,6 +7274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flashcard Clash | 25734 | [25734-flashcard-clash.json](./25734-flashcard-clash.json) |
 | Flashes of Chaos | 400518 | [400518-flashes-of-chaos.json](./400518-flashes-of-chaos.json) |
 | FlashGal | 39580 | [39580-flashgal.json](./39580-flashgal.json) |
+| Flashing Dark | 294092 | [294092-flashing-dark.json](./294092-flashing-dark.json) |
 | Flashing Lights: Beast Swat Truck DLC | 293461 | [293461-flashing-lights-beast-swat-truck-dlc.json](./293461-flashing-lights-beast-swat-truck-dlc.json) |
 | Flashing Lights: Department of Transportation | 395814 | [395814-flashing-lights-department-of-transportation.json](./395814-flashing-lights-department-of-transportation.json) |
 | Flashing Lights: Pickup Truck Triple Pack | 293462 | [293462-flashing-lights-pickup-truck-triple-pack.json](./293462-flashing-lights-pickup-truck-triple-pack.json) |
@@ -10424,6 +10425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport 7: Deluxe Edition | 84940 | [84940-forza-motorsport-7-deluxe-edition.json](./84940-forza-motorsport-7-deluxe-edition.json) |
 | Forza Motorsport 7: Ultimate Edition | 84941 | [84941-forza-motorsport-7-ultimate-edition.json](./84941-forza-motorsport-7-ultimate-edition.json) |
 | Forza Motorsport and Forza Horizon 5 Premium Editions Bundle | 277243 | [277243-forza-motorsport-and-forza-horizon-5-premium-editions-bundle.json](./277243-forza-motorsport-and-forza-horizon-5-premium-editions-bundle.json) |
+| Forza Motorsport: 1966 Lotus Type 35 | 293888 | [293888-forza-motorsport-1966-lotus-type-35.json](./293888-forza-motorsport-1966-lotus-type-35.json) |
 | Forza Motorsport: 1969 Chevrolet Camaro Jordan Luka 3 | 314390 | [314390-forza-motorsport-1969-chevrolet-camaro-jordan-luka-3.json](./314390-forza-motorsport-1969-chevrolet-camaro-jordan-luka-3.json) |
 | Forza Motorsport: 1983 Nissan #23 Nissan Motorsports Silvia Super Silhouette | 295480 | [295480-forza-motorsport-1983-nissan-23-nissan-motorsports-silvia-super-silhouette.json](./295480-forza-motorsport-1983-nissan-23-nissan-motorsports-silvia-super-silhouette.json) |
 | Forza Motorsport: 1983 Porsche #11 John Fitzpatrick Racing 956 | 286134 | [286134-forza-motorsport-1983-porsche-11-john-fitzpatrick-racing-956.json](./286134-forza-motorsport-1983-porsche-11-john-fitzpatrick-racing-956.json) |
@@ -12630,6 +12632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuck Fest | 346687 | [346687-fuck-fest.json](./346687-fuck-fest.json) |
 | Fuck Global Warming... This is Hell | 257179 | [257179-fuck-global-warming-this-is-hell.json](./257179-fuck-global-warming-this-is-hell.json) |
 | Fuck Hitler | 225607 | [225607-fuck-hitler.json](./225607-fuck-hitler.json) |
+| Fuck in Police | 294075 | [294075-fuck-in-police.json](./294075-fuck-in-police.json) |
 | Fuck Paper Scissors | 344382 | [344382-fuck-paper-scissors.json](./344382-fuck-paper-scissors.json) |
 | Fuck Putin | 209542 | [209542-fuck-putin.json](./209542-fuck-putin.json) |
 | Fuck Quest | 72441 | [72441-fuck-quest.json](./72441-fuck-quest.json) |
@@ -12939,13 +12942,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Times at Homer´s | 385268 | [385268-fun-times-at-homer-s.json](./385268-fun-times-at-homer-s.json) |
 | Fun VR Farm | 113675 | [113675-fun-vr-farm.json](./113675-fun-vr-farm.json) |
 | Fun with Body for Cyberpunk Sex | 288884 | [288884-fun-with-body-for-cyberpunk-sex.json](./288884-fun-with-body-for-cyberpunk-sex.json) |
+| Fun with Body for Fuck in Police | 294081 | [294081-fun-with-body-for-fuck-in-police.json](./294081-fun-with-body-for-fuck-in-police.json) |
 | Fun with Body for Sex Motel | 288891 | [288891-fun-with-body-for-sex-motel.json](./288891-fun-with-body-for-sex-motel.json) |
 | Fun with Boobs for Cyberpunk Sex | 288883 | [288883-fun-with-boobs-for-cyberpunk-sex.json](./288883-fun-with-boobs-for-cyberpunk-sex.json) |
+| Fun with Boobs for Fuck in Police | 294076 | [294076-fun-with-boobs-for-fuck-in-police.json](./294076-fun-with-boobs-for-fuck-in-police.json) |
 | Fun with Boobs for Sex Motel | 288889 | [288889-fun-with-boobs-for-sex-motel.json](./288889-fun-with-boobs-for-sex-motel.json) |
 | Fun with Cubes | 233122 | [233122-fun-with-cubes.json](./233122-fun-with-cubes.json) |
 | Fun with Friends and Trampolines | 367369 | [367369-fun-with-friends-and-trampolines.json](./367369-fun-with-friends-and-trampolines.json) |
 | Fun with Numbers | 91817 | [91817-fun-with-numbers.json](./91817-fun-with-numbers.json) |
 | Fun with Penis for Cyberpunk Sex | 288245 | [288245-fun-with-penis-for-cyberpunk-sex.json](./288245-fun-with-penis-for-cyberpunk-sex.json) |
+| Fun with Penis for Fuck in Police | 294080 | [294080-fun-with-penis-for-fuck-in-police.json](./294080-fun-with-penis-for-fuck-in-police.json) |
 | Fun with Penis for Sex Motel | 288888 | [288888-fun-with-penis-for-sex-motel.json](./288888-fun-with-penis-for-sex-motel.json) |
 | Fun with Ragdolls Plus | 297129 | [297129-fun-with-ragdolls-plus.json](./297129-fun-with-ragdolls-plus.json) |
 | Fun with Ragdolls: The Game | 123468 | [123468-fun-with-ragdolls-the-game.json](./123468-fun-with-ragdolls-the-game.json) |
