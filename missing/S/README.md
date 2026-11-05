@@ -7943,6 +7943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shift 0 | 352204 | [352204-shift-0.json](./352204-shift-0.json) |
 | Shift 2 | 273276 | [273276-shift-2.json](./273276-shift-2.json) |
 | Shift 247 | 94411 | [94411-shift-247.json](./94411-shift-247.json) |
+| Shift 3 | 281183 | [281183-shift-3.json](./281183-shift-3.json) |
 | Shift 87 | 308077 | [308077-shift-87.json](./308077-shift-87.json) |
 | Shift at Midnight | 352789 | [352789-shift-at-midnight.json](./352789-shift-at-midnight.json) |
 | Shift Change | 299868 | [299868-shift-change.json](./299868-shift-change.json) |
@@ -8944,6 +8945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Genius | 253280 | [253280-shooting-genius.json](./253280-shooting-genius.json) |
 | Shooting girl | 201669 | [201669-shooting-girl.json](./201669-shooting-girl.json) |
 | Shooting Girls | 391442 | [391442-shooting-girls.json](./391442-shooting-girls.json) |
+| Shooting Heart | 281152 | [281152-shooting-heart.json](./281152-shooting-heart.json) |
 | Shooting Hunter Terrorist | 103155 | [103155-shooting-hunter-terrorist.json](./103155-shooting-hunter-terrorist.json) |
 | Shooting Hurts | 109356 | [109356-shooting-hurts.json](./109356-shooting-hurts.json) |
 | Shooting King | 105518 | [105518-shooting-king.json](./105518-shooting-king.json) |
@@ -19381,6 +19383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Misadventures | 326707 | [326707-space-misadventures.json](./326707-space-misadventures.json) |
 | Space Misadventures DX | 326708 | [326708-space-misadventures-dx.json](./326708-space-misadventures-dx.json) |
 | Space Misfits | 123040 | [123040-space-misfits.json](./123040-space-misfits.json) |
+| Space Mission | 281174 | [281174-space-mission.json](./281174-space-mission.json) |
 | Space Mission SM-11 | 235219 | [235219-space-mission-sm-11.json](./235219-space-mission-sm-11.json) |
 | Space Moguls | 124600 | [124600-space-moguls.json](./124600-space-moguls.json) |
 | Space Molmae | 202645 | [202645-space-molmae.json](./202645-space-molmae.json) |
@@ -19489,6 +19492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rage | 105947 | [105947-space-rage.json](./105947-space-rage.json) |
 | Space Raid | 46894 | [46894-space-raid.json](./46894-space-raid.json) |
 | Space Raider | 401271 | [401271-space-raider.json](./401271-space-raider.json) |
+| Space Raiders | 281208 | [281208-space-raiders.json](./281208-space-raiders.json) |
 | Space Raiders | 295938 | [295938-space-raiders.json](./295938-space-raiders.json) |
 | Space Raiders | 320906 | [320906-space-raiders.json](./320906-space-raiders.json) |
 | Space Raiders | 4159 | [4159-space-raiders.json](./4159-space-raiders.json) |
@@ -19632,6 +19636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Sprouts | 292560 | [292560-space-sprouts.json](./292560-space-sprouts.json) |
 | Space Squad Survival | 346725 | [346725-space-squad-survival.json](./346725-space-squad-survival.json) |
 | Space Squadron | 160208 | [160208-space-squadron.json](./160208-space-squadron.json) |
+| Space Squadron | 281173 | [281173-space-squadron.json](./281173-space-squadron.json) |
 | Space Star: Heart of a Soldier | 292628 | [292628-space-star-heart-of-a-soldier.json](./292628-space-star-heart-of-a-soldier.json) |
 | Space Station 13 | 66396 | [66396-space-station-13.json](./66396-space-station-13.json) |
 | Space Station 14 | 149853 | [149853-space-station-14.json](./149853-space-station-14.json) |
@@ -21268,6 +21273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiderman 2 | 247302 | [247302-spiderman-2.json](./247302-spiderman-2.json) |
 | SpiderPunks | 163847 | [163847-spiderpunks.json](./163847-spiderpunks.json) |
 | Spiders | 125263 | [125263-spiders.json](./125263-spiders.json) |
+| Spiders | 281171 | [281171-spiders.json](./281171-spiders.json) |
 | Spiders | 346138 | [346138-spiders.json](./346138-spiders.json) |
 | Spiders | 46871 | [46871-spiders.json](./46871-spiders.json) |
 | Spiders Everywhere | 187375 | [187375-spiders-everywhere.json](./187375-spiders-everywhere.json) |
@@ -23346,6 +23352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Chef 2: Cooking Game | 153999 | [153999-star-chef-2-cooking-game.json](./153999-star-chef-2-cooking-game.json) |
 | Star Chef Simulator | 300639 | [300639-star-chef-simulator.json](./300639-star-chef-simulator.json) |
 | Star Chef: Cooking Game | 105517 | [105517-star-chef-cooking-game.json](./105517-star-chef-cooking-game.json) |
+| Star Chess | 281201 | [281201-star-chess.json](./281201-star-chess.json) |
 | Star Child | 310124 | [310124-star-child.json](./310124-star-child.json) |
 | Star Child | 37090 | [37090-star-child.json](./37090-star-child.json) |
 | Star Chindy | 175420 | [175420-star-chindy.json](./175420-star-chindy.json) |
@@ -29966,6 +29973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bubble Pop | 248454 | [248454-super-bubble-pop.json](./248454-super-bubble-pop.json) |
 | Super Bubble Pop | 4187 | [4187-super-bubble-pop.json](./4187-super-bubble-pop.json) |
 | Super Bubsy | 70261 | [70261-super-bubsy.json](./70261-super-bubsy.json) |
+| Super Bug | 281170 | [281170-super-bug.json](./281170-super-bug.json) |
 | Super Bug | 40431 | [40431-super-bug.json](./40431-super-bug.json) |
 | Super Bug 2 | 288259 | [288259-super-bug-2.json](./288259-super-bug-2.json) |
 | Super Bug Hunters | 368996 | [368996-super-bug-hunters.json](./368996-super-bug-hunters.json) |
