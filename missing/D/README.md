@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dai Gyakuten Saiban: Naruhodou Ryuunosuke no Bouken 1&2 - Best Price! | 136955 | [136955-dai-gyakuten-saiban-naruhodou-ryuunosuke-no-bouken-1-and-2-best-price.json](./136955-dai-gyakuten-saiban-naruhodou-ryuunosuke-no-bouken-1-and-2-best-price.json) |
 | Dai Meiro: Meikyuu no Tatsujin | 48528 | [48528-dai-meiro-meikyuu-no-tatsujin.json](./48528-dai-meiro-meikyuu-no-tatsujin.json) |
 | Dai Ressya Goutou | 38639 | [38639-dai-ressya-goutou.json](./38639-dai-ressya-goutou.json) |
+| Dai Sengoku Rance | 278773 | [278773-dai-sengoku-rance.json](./278773-dai-sengoku-rance.json) |
 | Dai Senpu | 44325 | [44325-dai-senpu.json](./44325-dai-senpu.json) |
 | Dai Senryaku VII: Modern Military Tactics | 69530 | [69530-dai-senryaku-vii-modern-military-tactics.json](./69530-dai-senryaku-vii-modern-military-tactics.json) |
 | Dai-2-dan: Pokémon Battle Card e+ - Yuruginai Chikara | 355957 | [355957-dai-2-dan-pokemon-battle-card-e-yuruginai-chikara.json](./355957-dai-2-dan-pokemon-battle-card-e-yuruginai-chikara.json) |
@@ -2625,6 +2626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daughters of the Stars Episode 1: When A Star Burns Out, A Flower Blooms | 283821 | [283821-daughters-of-the-stars-episode-1-when-a-star-burns-out-a-flower-blooms.json](./283821-daughters-of-the-stars-episode-1-when-a-star-burns-out-a-flower-blooms.json) |
 | Daughters of the Stars Episode 2: Face the Setting Sun: A Fierce Flower Stands Strong! | 283822 | [283822-daughters-of-the-stars-episode-2-face-the-setting-sun-a-fierce-flower-stands-strong.json](./283822-daughters-of-the-stars-episode-2-face-the-setting-sun-a-fierce-flower-stands-strong.json) |
 | Dauntless | 245139 | [245139-dauntless.json](./245139-dauntless.json) |
+| DavBot | 278813 | [278813-davbot.json](./278813-davbot.json) |
 | Dave | 111682 | [111682-dave.json](./111682-dave.json) |
 | Dave a Nice Guy | 365263 | [365263-dave-a-nice-guy.json](./365263-dave-a-nice-guy.json) |
 | Dave Dave Dave | 187081 | [187081-dave-dave-dave.json](./187081-dave-dave-dave.json) |
@@ -12306,6 +12308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don’t Turn off the Light | 390080 | [390080-don-t-turn-off-the-light.json](./390080-don-t-turn-off-the-light.json) |
 | Don't Turn Your Back On The City | 256797 | [256797-dont-turn-your-back-on-the-city.json](./256797-dont-turn-your-back-on-the-city.json) |
 | Don't Wake God | 236456 | [236456-dont-wake-god.json](./236456-dont-wake-god.json) |
+| Don't Wake Kate! | 278772 | [278772-dont-wake-kate.json](./278772-dont-wake-kate.json) |
 | Don't Wake Roko | 378144 | [378144-dont-wake-roko.json](./378144-dont-wake-roko.json) |
 | Don't Wake the Beast | 322690 | [322690-dont-wake-the-beast.json](./322690-dont-wake-the-beast.json) |
 | Don't Wake the Night | 119252 | [119252-dont-wake-the-night.json](./119252-dont-wake-the-night.json) |
@@ -14664,6 +14667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest 25th Anniversary Collection | 136885 | [136885-dragon-quest-25th-anniversary-collection.json](./136885-dragon-quest-25th-anniversary-collection.json) |
 | Dragon Quest Builders | 24069 | [24069-dragon-quest-builders.json](./24069-dragon-quest-builders.json) |
 | Dragon Quest Builders 2 | 54548 | [54548-dragon-quest-builders-2.json](./54548-dragon-quest-builders-2.json) |
+| Dragon Quest Champions | 278764 | [278764-dragon-quest-champions.json](./278764-dragon-quest-champions.json) |
 | Dragon Quest Characters: Torneko no Daibouken 2 Advance | 49270 | [49270-dragon-quest-characters-torneko-no-daibouken-2-advance.json](./49270-dragon-quest-characters-torneko-no-daibouken-2-advance.json) |
 | Dragon Quest Characters: Torneko no Daibouken 3 | 49173 | [49173-dragon-quest-characters-torneko-no-daibouken-3.json](./49173-dragon-quest-characters-torneko-no-daibouken-3.json) |
 | Dragon Quest Fushigi no Dungeon MOBILE | 314001 | [314001-dragon-quest-fushigi-no-dungeon-mobile.json](./314001-dragon-quest-fushigi-no-dungeon-mobile.json) |
