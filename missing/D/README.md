@@ -2804,6 +2804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawnmaker | 291853 | [291853-dawnmaker.json](./291853-dawnmaker.json) |
 | DawnOfCombat | 260630 | [260630-dawnofcombat.json](./260630-dawnofcombat.json) |
 | Dawnsbury Days | 278910 | [278910-dawnsbury-days.json](./278910-dawnsbury-days.json) |
+| Dawnshard | 267176 | [267176-dawnshard.json](./267176-dawnshard.json) |
 | Dawnspire: Prelude | 70476 | [70476-dawnspire-prelude.json](./70476-dawnspire-prelude.json) |
 | Dawnssley | 92883 | [92883-dawnssley.json](./92883-dawnssley.json) |
 | Dawnthorn | 129367 | [129367-dawnthorn.json](./129367-dawnthorn.json) |
