@@ -8804,6 +8804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Fighting 2: Minibots | 104498 | [104498-robot-fighting-2-minibots.json](./104498-robot-fighting-2-minibots.json) |
 | Robot Fishing | 151991 | [151991-robot-fishing.json](./151991-robot-fishing.json) |
 | Robot Fury: Mech Combat Simulator | 326366 | [326366-robot-fury-mech-combat-simulator.json](./326366-robot-fury-mech-combat-simulator.json) |
+| Robot Girl's Dream: Robot Battle Championship | 291794 | [291794-robot-girls-dream-robot-battle-championship.json](./291794-robot-girls-dream-robot-battle-championship.json) |
 | Robot Girls Z Online | 61535 | [61535-robot-girls-z-online.json](./61535-robot-girls-z-online.json) |
 | Robot Hospice | 342219 | [342219-robot-hospice.json](./342219-robot-hospice.json) |
 | Robot Hunt | 324661 | [324661-robot-hunt.json](./324661-robot-hunt.json) |
@@ -9865,6 +9866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Realms | 276610 | [276610-rogue-realms.json](./276610-rogue-realms.json) |
 | Rogue Reaper | 113522 | [113522-rogue-reaper.json](./113522-rogue-reaper.json) |
 | Rogue Reigns | 361052 | [361052-rogue-reigns.json](./361052-rogue-reigns.json) |
+| Rogue Resonance | 291811 | [291811-rogue-resonance.json](./291811-rogue-resonance.json) |
 | Rogue Reunion | 401887 | [401887-rogue-reunion.json](./401887-rogue-reunion.json) |
 | Rogue Rhythm | 312747 | [312747-rogue-rhythm.json](./312747-rogue-rhythm.json) |
 | Rogue Ricochet | 389948 | [389948-rogue-ricochet.json](./389948-rogue-ricochet.json) |
@@ -9972,6 +9974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguelands | 19748 | [19748-roguelands.json](./19748-roguelands.json) |
 | Roguelegends: Dark Realms | 137852 | [137852-roguelegends-dark-realms.json](./137852-roguelegends-dark-realms.json) |
 | Roguelight | 56913 | [56913-roguelight.json](./56913-roguelight.json) |
+| Roguelike Chess | 291797 | [291797-roguelike-chess.json](./291797-roguelike-chess.json) |
 | Roguelike Hero | 107898 | [107898-roguelike-hero.json](./107898-roguelike-hero.json) |
 | Roguelike Journey to the West: 100 Ways to Slay Erlang Shen | 359536 | [359536-roguelike-journey-to-the-west-100-ways-to-slay-erlang-shen.json](./359536-roguelike-journey-to-the-west-100-ways-to-slay-erlang-shen.json) |
 | Rogueline | 209659 | [209659-rogueline.json](./209659-rogueline.json) |
@@ -12677,6 +12680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rust Rides | 373620 | [373620-rust-rides.json](./373620-rust-rides.json) |
 | Rust Rivalry | 305941 | [305941-rust-rivalry.json](./305941-rust-rivalry.json) |
 | Rust Runners | 367097 | [367097-rust-runners.json](./367097-rust-runners.json) |
+| Rust Song | 291810 | [291810-rust-song.json](./291810-rust-song.json) |
 | Rust: Console Deluxe Edition | 148452 | [148452-rust-console-deluxe-edition.json](./148452-rust-console-deluxe-edition.json) |
 | Rust: Console Edition | 145149 | [145149-rust-console-edition.json](./145149-rust-console-edition.json) |
 | Rust: Console Edition - Day One | 146116 | [146116-rust-console-edition-day-one.json](./146116-rust-console-edition-day-one.json) |
