@@ -868,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Me Home | 157410 | [157410-take-me-home.json](./157410-take-me-home.json) |
 | Take Me Home | 181890 | [181890-take-me-home.json](./181890-take-me-home.json) |
 | Take Me Home | 362292 | [362292-take-me-home.json](./362292-take-me-home.json) |
+| Take Me or Leaf Me | 284744 | [284744-take-me-or-leaf-me.json](./284744-take-me-or-leaf-me.json) |
 | Take Me To The Dungeon!! | 403711 | [403711-take-me-to-the-dungeon.json](./403711-take-me-to-the-dungeon.json) |
 | Take Me to the Ending! | 398750 | [398750-take-me-to-the-ending.json](./398750-take-me-to-the-ending.json) |
 | Take Me to the Moon | 187294 | [187294-take-me-to-the-moon.json](./187294-take-me-to-the-moon.json) |
@@ -2645,6 +2646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tattered Sails | 298164 | [298164-tattered-sails.json](./298164-tattered-sails.json) |
 | Tatters of The King | 387710 | [387710-tatters-of-the-king.json](./387710-tatters-of-the-king.json) |
 | Tattletail | 26665 | [26665-tattletail.json](./26665-tattletail.json) |
+| Tattoo Artist | 284725 | [284725-tattoo-artist.json](./284725-tattoo-artist.json) |
 | Tattoo Artist 2: Full Timer | 331457 | [331457-tattoo-artist-2-full-timer.json](./331457-tattoo-artist-2-full-timer.json) |
 | Tattoo Artist 3: On The Job | 331459 | [331459-tattoo-artist-3-on-the-job.json](./331459-tattoo-artist-3-on-the-job.json) |
 | Tattoo Assassins | 39563 | [39563-tattoo-assassins.json](./39563-tattoo-assassins.json) |
@@ -3565,6 +3567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telepath Tactics Liberated | 189802 | [189802-telepath-tactics-liberated.json](./189802-telepath-tactics-liberated.json) |
 | Telepathy | 282667 | [282667-telepathy.json](./282667-telepathy.json) |
 | Telephone Trouble | 177157 | [177157-telephone-trouble.json](./177157-telephone-trouble.json) |
+| Teleport | 284707 | [284707-teleport.json](./284707-teleport.json) |
 | Teleport Jumper | 312044 | [312044-teleport-jumper.json](./312044-teleport-jumper.json) |
 | Teleport Master | 332798 | [332798-teleport-master.json](./332798-teleport-master.json) |
 | Teleport VR | 240646 | [240646-teleport-vr.json](./240646-teleport-vr.json) |
@@ -9670,6 +9673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Life 2: Haunted Hills world | 171398 | [171398-the-game-of-life-2-haunted-hills-world.json](./171398-the-game-of-life-2-haunted-hills-world.json) |
 | The Game of Life 2: Lunar Age | 193101 | [193101-the-game-of-life-2-lunar-age.json](./193101-the-game-of-life-2-lunar-age.json) |
 | The Game of Life 2: Sandy Shores World | 171592 | [171592-the-game-of-life-2-sandy-shores-world.json](./171592-the-game-of-life-2-sandy-shores-world.json) |
+| The Game of Life 2: Super Hero World | 284704 | [284704-the-game-of-life-2-super-hero-world.json](./284704-the-game-of-life-2-super-hero-world.json) |
 | The Game of Life 2: Sweet Haven World | 207800 | [207800-the-game-of-life-2-sweet-haven-world.json](./207800-the-game-of-life-2-sweet-haven-world.json) |
 | The Game of Life 2: Ultimate Life Collection | 228888 | [228888-the-game-of-life-2-ultimate-life-collection.json](./228888-the-game-of-life-2-ultimate-life-collection.json) |
 | The Game of Life 2: Under the Sea | 227729 | [227729-the-game-of-life-2-under-the-sea.json](./227729-the-game-of-life-2-under-the-sea.json) |
@@ -16331,6 +16335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sireen | 277324 | [277324-the-sireen.json](./277324-the-sireen.json) |
 | The Siren's Song | 223454 | [223454-the-sirens-song.json](./223454-the-sirens-song.json) |
 | The Sisters 2: Road to Fame | 249972 | [249972-the-sisters-2-road-to-fame.json](./249972-the-sisters-2-road-to-fame.json) |
+| The Sisters Collection | 284733 | [284733-the-sisters-collection.json](./284733-the-sisters-collection.json) |
 | The Six Dragons | 82572 | [82572-the-six-dragons.json](./82572-the-six-dragons.json) |
 | The Six Transgender Lesbian Goddesses of Love Are Having A Petty Argument, So They Try To Settle Things Alongside The Three Transgender Gay Gods of Flavor | 318796 | [318796-the-six-transgender-lesbian-goddesses-of-love-are-having-a-petty-argument-so-they-try-to-settle-things-alongside-the-three-transgender-gay-gods-of-flavor.json](./318796-the-six-transgender-lesbian-goddesses-of-love-are-having-a-petty-argument-so-they-try-to-settle-things-alongside-the-three-transgender-gay-gods-of-flavor.json) |
 | The Sixth Extinction | 391716 | [391716-the-sixth-extinction.json](./391716-the-sixth-extinction.json) |
@@ -29242,6 +29247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traumatarium: Penitent | 307745 | [307745-traumatarium-penitent.json](./307745-traumatarium-penitent.json) |
 | Traumatic Syndrome | 132547 | [132547-traumatic-syndrome.json](./132547-traumatic-syndrome.json) |
 | Traumatic Tick Tock Tower | 339024 | [339024-traumatic-tick-tock-tower.json](./339024-traumatic-tick-tock-tower.json) |
+| Traumatizing Web-Tales | 284708 | [284708-traumatizing-web-tales.json](./284708-traumatizing-web-tales.json) |
 | Träumerei no Haka | 292812 | [292812-traumerei-no-haka.json](./292812-traumerei-no-haka.json) |
 | Träumerei: Chapter 0 | 280929 | [280929-traumerei-chapter-0.json](./280929-traumerei-chapter-0.json) |
 | Träumerei: Chapter 1 | 137355 | [137355-traumerei-chapter-1.json](./137355-traumerei-chapter-1.json) |
@@ -29777,6 +29783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials Bike Basic | 305133 | [305133-trials-bike-basic.json](./305133-trials-bike-basic.json) |
 | Trials Bike Pro | 305134 | [305134-trials-bike-pro.json](./305134-trials-bike-pro.json) |
 | Trials Construction Yard | 305135 | [305135-trials-construction-yard.json](./305135-trials-construction-yard.json) |
+| Trials Dynamite Tumble | 284743 | [284743-trials-dynamite-tumble.json](./284743-trials-dynamite-tumble.json) |
 | Trials Evolution | 2149 | [2149-trials-evolution.json](./2149-trials-evolution.json) |
 | Trials Evolution: Gold Edition | 20748 | [20748-trials-evolution-gold-edition.json](./20748-trials-evolution-gold-edition.json) |
 | Trials Evolution: Origin of Pain | 22190 | [22190-trials-evolution-origin-of-pain.json](./22190-trials-evolution-origin-of-pain.json) |
@@ -31974,6 +31981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twenty, in Total | 204424 | [204424-twenty-in-total.json](./204424-twenty-in-total.json) |
 | Twenty48 Solitaire | 103097 | [103097-twenty48-solitaire.json](./103097-twenty48-solitaire.json) |
 | TwentyOne | 386904 | [386904-twentyone.json](./386904-twentyone.json) |
+| Twerk Hero: Lil Nas X | 284730 | [284730-twerk-hero-lil-nas-x.json](./284730-twerk-hero-lil-nas-x.json) |
 | Twerk it Girl! | 238510 | [238510-twerk-it-girl.json](./238510-twerk-it-girl.json) |
 | Twerk Race 3D | 282421 | [282421-twerk-race-3d.json](./282421-twerk-race-3d.json) |
 | Twerps | 24935 | [24935-twerps.json](./24935-twerps.json) |
