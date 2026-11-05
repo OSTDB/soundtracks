@@ -16007,6 +16007,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Flashback 4 | 277039 | [277039-atari-flashback-4.json](./277039-atari-flashback-4.json) |
 | Atari Flashback 4: 40th Anniversary - Deluxe Edition | 277042 | [277042-atari-flashback-4-40th-anniversary-deluxe-edition.json](./277042-atari-flashback-4-40th-anniversary-deluxe-edition.json) |
 | Atari Flashback 5 | 277043 | [277043-atari-flashback-5.json](./277043-atari-flashback-5.json) |
+| Atari Flashback 50th Anniversary Edition | 277059 | [277059-atari-flashback-50th-anniversary-edition.json](./277059-atari-flashback-50th-anniversary-edition.json) |
+| Atari Flashback 50th Anniversary Edition Gold | 277060 | [277060-atari-flashback-50th-anniversary-edition-gold.json](./277060-atari-flashback-50th-anniversary-edition-gold.json) |
 | Atari Flashback 6 | 277044 | [277044-atari-flashback-6.json](./277044-atari-flashback-6.json) |
 | Atari Flashback 64 | 277041 | [277041-atari-flashback-64.json](./277041-atari-flashback-64.json) |
 | Atari Flashback 7 | 277046 | [277046-atari-flashback-7.json](./277046-atari-flashback-7.json) |
@@ -16014,11 +16016,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Flashback 8 Classic | 277049 | [277049-atari-flashback-8-classic.json](./277049-atari-flashback-8-classic.json) |
 | Atari Flashback 8 Deluxe | 277050 | [277050-atari-flashback-8-deluxe.json](./277050-atari-flashback-8-deluxe.json) |
 | Atari Flashback 8 Gold | 277051 | [277051-atari-flashback-8-gold.json](./277051-atari-flashback-8-gold.json) |
+| Atari Flashback Blast! Vol. 1 | 277068 | [277068-atari-flashback-blast-vol-1.json](./277068-atari-flashback-blast-vol-1.json) |
+| Atari Flashback Blast! Vol. 2 | 277070 | [277070-atari-flashback-blast-vol-2.json](./277070-atari-flashback-blast-vol-2.json) |
+| Atari Flashback Blast! Vol. 3 | 277071 | [277071-atari-flashback-blast-vol-3.json](./277071-atari-flashback-blast-vol-3.json) |
 | Atari Flashback Classics | 113382 | [113382-atari-flashback-classics.json](./113382-atari-flashback-classics.json) |
 | Atari Flashback Classics Vol. 2 | 24962 | [24962-atari-flashback-classics-vol-2.json](./24962-atari-flashback-classics-vol-2.json) |
 | Atari Flashback Classics Vol. 3 | 83671 | [83671-atari-flashback-classics-vol-3.json](./83671-atari-flashback-classics-vol-3.json) |
 | Atari Flashback Portable | 219380 | [219380-atari-flashback-portable.json](./219380-atari-flashback-portable.json) |
 | Atari Flashback Portable | 245573 | [245573-atari-flashback-portable.json](./245573-atari-flashback-portable.json) |
+| Atari Flashback Portable | 277062 | [277062-atari-flashback-portable.json](./277062-atari-flashback-portable.json) |
+| Atari Flashback Portable | 277064 | [277064-atari-flashback-portable.json](./277064-atari-flashback-portable.json) |
+| Atari Flashback Portable | 277066 | [277066-atari-flashback-portable.json](./277066-atari-flashback-portable.json) |
 | Atari Flashback X | 276033 | [276033-atari-flashback-x.json](./276033-atari-flashback-x.json) |
 | Atari Football | 16760 | [16760-atari-football.json](./16760-atari-football.json) |
 | Atari Gamestation Pro | 270591 | [270591-atari-gamestation-pro.json](./270591-atari-gamestation-pro.json) |
