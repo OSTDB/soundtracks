@@ -5111,6 +5111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Replanet | 177736 | [177736-replanet.json](./177736-replanet.json) |
 | Replanted | 158992 | [158992-replanted.json](./158992-replanted.json) |
 | Replay | 288037 | [288037-replay.json](./288037-replay.json) |
+| Replay Bell Suika Slot Like Game | 297200 | [297200-replay-bell-suika-slot-like-game.json](./297200-replay-bell-suika-slot-like-game.json) |
 | Replay Boys | 259188 | [259188-replay-boys.json](./259188-replay-boys.json) |
 | Replay Racer | 389318 | [389318-replay-racer.json](./389318-replay-racer.json) |
 | Replay Racer 2 | 389335 | [389335-replay-racer-2.json](./389335-replay-racer-2.json) |
@@ -5251,6 +5252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reroute | 291487 | [291487-reroute.json](./291487-reroute.json) |
 | Res Arcana | 37869 | [37869-res-arcana.json](./37869-res-arcana.json) |
 | Res Arcana Diana Rei: Uranai no Meikyu | 58683 | [58683-res-arcana-diana-rei-uranai-no-meikyu.json](./58683-res-arcana-diana-rei-uranai-no-meikyu.json) |
+| Res Extensa | 297199 | [297199-res-extensa.json](./297199-res-extensa.json) |
 | Res Furtiva | 146598 | [146598-res-furtiva.json](./146598-res-furtiva.json) |
 | Res Judicata: Vale of Myth | 51717 | [51717-res-judicata-vale-of-myth.json](./51717-res-judicata-vale-of-myth.json) |
 | Res Militaria Rome | 134211 | [134211-res-militaria-rome.json](./134211-res-militaria-rome.json) |
