@@ -5051,6 +5051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GloveUp! | 425440 | [425440-gloveup.json](./425440-gloveup.json) |
 | Glow | 180567 | [180567-glow.json](./180567-glow.json) |
 | Glow | 233725 | [233725-glow.json](./233725-glow.json) |
+| Glow | 295460 | [295460-glow.json](./295460-glow.json) |
 | Glow | 32346 | [32346-glow.json](./32346-glow.json) |
 | Glow Air Hockey | 87548 | [87548-glow-air-hockey.json](./87548-glow-air-hockey.json) |
 | Glow Artisan | 67181 | [67181-glow-artisan.json](./67181-glow-artisan.json) |
@@ -5098,6 +5099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gluck | 258180 | [258180-gluck.json](./258180-gluck.json) |
 | Glück Auf | 90598 | [90598-gluck-auf.json](./90598-gluck-auf.json) |
 | Glucky Labs | 227734 | [227734-glucky-labs.json](./227734-glucky-labs.json) |
+| Glue 10 | 295518 | [295518-glue-10.json](./295518-glue-10.json) |
 | Glue Blocks | 382469 | [382469-glue-blocks.json](./382469-glue-blocks.json) |
 | GlueFO | 407834 | [407834-gluefo.json](./407834-gluefo.json) |
 | GlueFO 2.0 | 407835 | [407835-gluefo-2-0.json](./407835-gluefo-2-0.json) |
@@ -9971,6 +9973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guerilla Bob | 94760 | [94760-guerilla-bob.json](./94760-guerilla-bob.json) |
 | Guerilla Cinema // Guerilla Theater | 394838 | [394838-guerilla-cinema-guerilla-theater.json](./394838-guerilla-cinema-guerilla-theater.json) |
 | Guerilla Cubes | 383653 | [383653-guerilla-cubes.json](./383653-guerilla-cubes.json) |
+| Guerra de Insetos TW Premium | 295419 | [295419-guerra-de-insetos-tw-premium.json](./295419-guerra-de-insetos-tw-premium.json) |
 | Guerra dos monstros | 230680 | [230680-guerra-dos-monstros.json](./230680-guerra-dos-monstros.json) |
 | Guerra Sangrenta | 258694 | [258694-guerra-sangrenta.json](./258694-guerra-sangrenta.json) |
 | Guerra Tribal | 336616 | [336616-guerra-tribal.json](./336616-guerra-tribal.json) |
