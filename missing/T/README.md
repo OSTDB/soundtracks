@@ -7209,6 +7209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Citizen | 296374 | [296374-the-citizen.json](./296374-the-citizen.json) |
 | The Citizen Kane of Video Games | 225271 | [225271-the-citizen-kane-of-video-games.json](./225271-the-citizen-kane-of-video-games.json) |
 | The City Must Grow | 180243 | [180243-the-city-must-grow.json](./180243-the-city-must-grow.json) |
+| The City of Damned Children | 257164 | [257164-the-city-of-damned-children.json](./257164-the-city-of-damned-children.json) |
 | The City of Fury | 260642 | [260642-the-city-of-fury.json](./260642-the-city-of-fury.json) |
 | The City Of Hope | 276571 | [276571-the-city-of-hope.json](./276571-the-city-of-hope.json) |
 | The City of Lost Children | 20001 | [20001-the-city-of-lost-children.json](./20001-the-city-of-lost-children.json) |
@@ -13275,6 +13276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magnet: First Night | 181299 | [181299-the-magnet-first-night.json](./181299-the-magnet-first-night.json) |
 | The Magnetic Scrolls Collection | 69623 | [69623-the-magnetic-scrolls-collection.json](./69623-the-magnetic-scrolls-collection.json) |
 | The Magnets | 148534 | [148534-the-magnets.json](./148534-the-magnets.json) |
+| The Magnificent Five | 257168 | [257168-the-magnificent-five.json](./257168-the-magnificent-five.json) |
 | The Magnificent Fragments | 53760 | [53760-the-magnificent-fragments.json](./53760-the-magnificent-fragments.json) |
 | The Magnificent Trufflepigs | 144508 | [144508-the-magnificent-trufflepigs.json](./144508-the-magnificent-trufflepigs.json) |
 | The Magnilo Case | 144589 | [144589-the-magnilo-case.json](./144589-the-magnilo-case.json) |
@@ -13488,6 +13490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Meridian Under the Heaven: Valhalla | 285311 | [285311-the-meridian-under-the-heaven-valhalla.json](./285311-the-meridian-under-the-heaven-valhalla.json) |
 | The Merlies | 265820 | [265820-the-merlies.json](./265820-the-merlies.json) |
 | The Mermaid Mask | 279369 | [279369-the-mermaid-mask.json](./279369-the-mermaid-mask.json) |
+| The Merry Christmassy Doom Project | 257171 | [257171-the-merry-christmassy-doom-project.json](./257171-the-merry-christmassy-doom-project.json) |
 | The Merry Fairy | 309530 | [309530-the-merry-fairy.json](./309530-the-merry-fairy.json) |
 | The Mesh | 88259 | [88259-the-mesh.json](./88259-the-mesh.json) |
 | The Message | 170458 | [170458-the-message.json](./170458-the-message.json) |
