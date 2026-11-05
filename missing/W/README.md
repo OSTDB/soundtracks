@@ -1366,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Chaos Gate - Daemonhunters: Castellan Champion Edition | 193689 | [193689-warhammer-40-000-chaos-gate-daemonhunters-castellan-champion-edition.json](./193689-warhammer-40-000-chaos-gate-daemonhunters-castellan-champion-edition.json) |
 | Warhammer 40,000: Chaos Gate - Daemonhunters: Duty Eternal | 227669 | [227669-warhammer-40-000-chaos-gate-daemonhunters-duty-eternal.json](./227669-warhammer-40-000-chaos-gate-daemonhunters-duty-eternal.json) |
 | Warhammer 40,000: Chaos Gate - Daemonhunters: Execution Force | 257226 | [257226-warhammer-40-000-chaos-gate-daemonhunters-execution-force.json](./257226-warhammer-40-000-chaos-gate-daemonhunters-execution-force.json) |
+| Warhammer 40,000: Chaos Gate - Daemonhunters: Purifier Edition | 287988 | [287988-warhammer-40-000-chaos-gate-daemonhunters-purifier-edition.json](./287988-warhammer-40-000-chaos-gate-daemonhunters-purifier-edition.json) |
 | Warhammer 40,000: Chaos Gate - Deathwatch | 402517 | [402517-warhammer-40-000-chaos-gate-deathwatch.json](./402517-warhammer-40-000-chaos-gate-deathwatch.json) |
 | Warhammer 40,000: Dakka Squadron | 143650 | [143650-warhammer-40-000-dakka-squadron.json](./143650-warhammer-40-000-dakka-squadron.json) |
 | Warhammer 40,000: Dakka Squadron - Flyboyz Edition | 143648 | [143648-warhammer-40-000-dakka-squadron-flyboyz-edition.json](./143648-warhammer-40-000-dakka-squadron-flyboyz-edition.json) |
@@ -1526,6 +1527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer Age of Sigmar: Storm Ground | 137328 | [137328-warhammer-age-of-sigmar-storm-ground.json](./137328-warhammer-age-of-sigmar-storm-ground.json) |
 | Warhammer Age of Sigmar: Tempestfall | 145080 | [145080-warhammer-age-of-sigmar-tempestfall.json](./145080-warhammer-age-of-sigmar-tempestfall.json) |
 | Warhammer Blood Bowl | 394515 | [394515-warhammer-blood-bowl.json](./394515-warhammer-blood-bowl.json) |
+| Warhammer Bundle: Chaos Gate & Realms of Ruin | 287985 | [287985-warhammer-bundle-chaos-gate-and-realms-of-ruin.json](./287985-warhammer-bundle-chaos-gate-and-realms-of-ruin.json) |
 | Warhammer Classics: Complete Collection | 398313 | [398313-warhammer-classics-complete-collection.json](./398313-warhammer-classics-complete-collection.json) |
 | Warhammer Combat Cards | 143313 | [143313-warhammer-combat-cards.json](./143313-warhammer-combat-cards.json) |
 | Warhammer Fantasy Classics | 398312 | [398312-warhammer-fantasy-classics.json](./398312-warhammer-fantasy-classics.json) |
@@ -3059,6 +3061,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weedcraft Inc & Moonshine Inc: Risky Business Bundle | 261334 | [261334-weedcraft-inc-and-moonshine-inc-risky-business-bundle.json](./261334-weedcraft-inc-and-moonshine-inc-risky-business-bundle.json) |
 | Weedcraft Inc + Bio Inc. Redemption: Medical Herbs Bundle | 292619 | [292619-weedcraft-inc-bio-inc-redemption-medical-herbs-bundle.json](./292619-weedcraft-inc-bio-inc-redemption-medical-herbs-bundle.json) |
 | Weedcraft Inc + Crossroads Inn: Weed and Greet Bundle | 288861 | [288861-weedcraft-inc-crossroads-inn-weed-and-greet-bundle.json](./288861-weedcraft-inc-crossroads-inn-weed-and-greet-bundle.json) |
+| Weedcraft Inc + Legend of Keepers: Underworld Business Bundle | 287993 | [287993-weedcraft-inc-legend-of-keepers-underworld-business-bundle.json](./287993-weedcraft-inc-legend-of-keepers-underworld-business-bundle.json) |
+| Weedcraft Inc + Legend of Keepers: Underworld Business Deluxe Bundle | 287994 | [287994-weedcraft-inc-legend-of-keepers-underworld-business-deluxe-bundle.json](./287994-weedcraft-inc-legend-of-keepers-underworld-business-deluxe-bundle.json) |
 | Weedcraft Inc + Moonshine Inc + Big Pharma: Chemistry Tycoons Bundle | 284755 | [284755-weedcraft-inc-moonshine-inc-big-pharma-chemistry-tycoons-bundle.json](./284755-weedcraft-inc-moonshine-inc-big-pharma-chemistry-tycoons-bundle.json) |
 | Weedcraft Inc + Ruinarch: Devil Lettuce Bundle | 288858 | [288858-weedcraft-inc-ruinarch-devil-lettuce-bundle.json](./288858-weedcraft-inc-ruinarch-devil-lettuce-bundle.json) |
 | Weedcraft Inc + Terraformers: Aim High Bundle | 272181 | [272181-weedcraft-inc-terraformers-aim-high-bundle.json](./272181-weedcraft-inc-terraformers-aim-high-bundle.json) |
