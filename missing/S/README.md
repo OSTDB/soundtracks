@@ -2455,6 +2455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saviour of the Wasteland | 258959 | [258959-saviour-of-the-wasteland.json](./258959-saviour-of-the-wasteland.json) |
 | Savoring Sword | 296718 | [296718-savoring-sword.json](./296718-savoring-sword.json) |
 | Savvy | 410904 | [410904-savvy.json](./410904-savvy.json) |
+| Savvy Fisher | 260475 | [260475-savvy-fisher.json](./260475-savvy-fisher.json) |
 | Saw | 7176 | [7176-saw.json](./7176-saw.json) |
 | Saw Counter | 347112 | [347112-saw-counter.json](./347112-saw-counter.json) |
 | Saw Deluxe | 326503 | [326503-saw-deluxe.json](./326503-saw-deluxe.json) |
@@ -6238,6 +6239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Story: Ruby and Hunter - Episode 2 | 253851 | [253851-sex-story-ruby-and-hunter-episode-2.json](./253851-sex-story-ruby-and-hunter-episode-2.json) |
 | Sex Story: Ruby and Hunter - Episode 3 | 254368 | [254368-sex-story-ruby-and-hunter-episode-3.json](./254368-sex-story-ruby-and-hunter-episode-3.json) |
 | Sex Story: Ruby and Hunter - Episode 4 | 256527 | [256527-sex-story-ruby-and-hunter-episode-4.json](./256527-sex-story-ruby-and-hunter-episode-4.json) |
+| Sex Story: Ruby and Hunter - Episode 5 | 260453 | [260453-sex-story-ruby-and-hunter-episode-5.json](./260453-sex-story-ruby-and-hunter-episode-5.json) |
 | Sex Summer Seduction VR | 384686 | [384686-sex-summer-seduction-vr.json](./384686-sex-summer-seduction-vr.json) |
 | Sex Survivals | 253852 | [253852-sex-survivals.json](./253852-sex-survivals.json) |
 | Sex Teacher | 226140 | [226140-sex-teacher.json](./226140-sex-teacher.json) |
@@ -34324,6 +34326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Dream | 229597 | [229597-sweet-dream.json](./229597-sweet-dream.json) |
 | Sweet Dream Succubus: Nightmare Edition | 214407 | [214407-sweet-dream-succubus-nightmare-edition.json](./214407-sweet-dream-succubus-nightmare-edition.json) |
 | Sweet Dreams | 251404 | [251404-sweet-dreams.json](./251404-sweet-dreams.json) |
+| Sweet Dreams | 260479 | [260479-sweet-dreams.json](./260479-sweet-dreams.json) |
 | Sweet Dreams Alex | 157545 | [157545-sweet-dreams-alex.json](./157545-sweet-dreams-alex.json) |
 | Sweet Dreams Alex: Full Moon Edition | 273931 | [273931-sweet-dreams-alex-full-moon-edition.json](./273931-sweet-dreams-alex-full-moon-edition.json) |
 | Sweet Dreams Bear | 181151 | [181151-sweet-dreams-bear.json](./181151-sweet-dreams-bear.json) |
