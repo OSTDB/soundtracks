@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Lost Chronicle | 410819 | [410819-g-mode-archives-lost-chronicle.json](./410819-g-mode-archives-lost-chronicle.json) |
 | G-Mode Archives+: Lost Savior | 423973 | [423973-g-mode-archives-lost-savior.json](./423973-g-mode-archives-lost-savior.json) |
 | G-Mode Archives+: Majin Tensei - Blind Thinker | 274663 | [274663-g-mode-archives-majin-tensei-blind-thinker.json](./274663-g-mode-archives-majin-tensei-blind-thinker.json) |
+| G-Mode Archives+: Megami Ibunroku Persona - Iku no Tou-hen | 266570 | [266570-g-mode-archives-megami-ibunroku-persona-iku-no-tou-hen.json](./266570-g-mode-archives-megami-ibunroku-persona-iku-no-tou-hen.json) |
 | G-Mode Archives+: Megami Tensei Gaiden - Shinyaku Last Bible III - Mugen no Eiyuu | 227706 | [227706-g-mode-archives-megami-tensei-gaiden-shinyaku-last-bible-iii-mugen-no-eiyuu.json](./227706-g-mode-archives-megami-tensei-gaiden-shinyaku-last-bible-iii-mugen-no-eiyuu.json) |
 | G-Mode Archives+: Moe Pro - Moero!! Pro Yakyuu | 260682 | [260682-g-mode-archives-moe-pro-moero-pro-yakyuu.json](./260682-g-mode-archives-moe-pro-moero-pro-yakyuu.json) |
 | G-Mode Archives+: Momoko no Kasei Bowling - La Mars Cup | 266172 | [266172-g-mode-archives-momoko-no-kasei-bowling-la-mars-cup.json](./266172-g-mode-archives-momoko-no-kasei-bowling-la-mars-cup.json) |
@@ -1089,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gals Quest | 82704 | [82704-gals-quest.json](./82704-gals-quest.json) |
 | Galseed | 421556 | [421556-galseed.json](./421556-galseed.json) |
 | Galshell 2 | 224500 | [224500-galshell-2.json](./224500-galshell-2.json) |
+| Galshell: Blood Red Skies | 266564 | [266564-galshell-blood-red-skies.json](./266564-galshell-blood-red-skies.json) |
 | Galtia V Edition | 148268 | [148268-galtia-v-edition.json](./148268-galtia-v-edition.json) |
 | Galumb | 414573 | [414573-galumb.json](./414573-galumb.json) |
 | Galvanic Bride | 260183 | [260183-galvanic-bride.json](./260183-galvanic-bride.json) |
@@ -1607,6 +1609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganbare! Dodge Fighters | 49610 | [49610-ganbare-dodge-fighters.json](./49610-ganbare-dodge-fighters.json) |
 | Ganbare! Gonta!! 2 | 40142 | [40142-ganbare-gonta-2.json](./40142-ganbare-gonta-2.json) |
 | Ganbare! Inu-chan: Rock'n Roll-hen | 280460 | [280460-ganbare-inu-chan-rockn-roll-hen.json](./280460-ganbare-inu-chan-rockn-roll-hen.json) |
+| Ganbare! Nippon! Olympics 2000 | 266555 | [266555-ganbare-nippon-olympics-2000.json](./266555-ganbare-nippon-olympics-2000.json) |
 | Ganbare! Super Strikers | 81604 | [81604-ganbare-super-strikers.json](./81604-ganbare-super-strikers.json) |
 | Ganbaru | 177756 | [177756-ganbaru.json](./177756-ganbaru.json) |
 | Ganbaru Kimi to no Futari Gurashi: Iede Gal Icha Love Seikatsu SLG | 408962 | [408962-ganbaru-kimi-to-no-futari-gurashi-iede-gal-icha-love-seikatsu-slg.json](./408962-ganbaru-kimi-to-no-futari-gurashi-iede-gal-icha-love-seikatsu-slg.json) |
@@ -4938,6 +4941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Soccer Manager 2017 | 28646 | [28646-global-soccer-manager-2017.json](./28646-global-soccer-manager-2017.json) |
 | Global Soccer Manager 2018 | 89413 | [89413-global-soccer-manager-2018.json](./89413-global-soccer-manager-2018.json) |
 | Global Soccer Manager 2019 | 116870 | [116870-global-soccer-manager-2019.json](./116870-global-soccer-manager-2019.json) |
+| Global Soldiers | 266563 | [266563-global-soldiers.json](./266563-global-soldiers.json) |
 | Global Steel | 188898 | [188898-global-steel.json](./188898-global-steel.json) |
 | Global Strike | 125896 | [125896-global-strike.json](./125896-global-strike.json) |
 | Global Thermonuclear War | 382997 | [382997-global-thermonuclear-war.json](./382997-global-thermonuclear-war.json) |
@@ -11051,6 +11055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunvolt Chronicles: Luminous Avenger iX 2 - Special DLC Boss: Kurona | 199876 | [199876-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-kurona.json](./199876-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-kurona.json) |
 | Gunvolt Chronicles: Luminous Avenger iX 2 - Special DLC Boss: Yang Yumo | 199869 | [199869-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-yang-yumo.json](./199869-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-yang-yumo.json) |
 | Gunvolt Chronicles: Luminous Avenger iX2 - Special DLC Boss: Kirin | 199931 | [199931-gunvolt-chronicles-luminous-avenger-ix2-special-dlc-boss-kirin.json](./199931-gunvolt-chronicles-luminous-avenger-ix2-special-dlc-boss-kirin.json) |
+| Gunvolt Records Cychronicle | 266561 | [266561-gunvolt-records-cychronicle.json](./266561-gunvolt-records-cychronicle.json) |
 | Gunvolt Records Cychronicle: Song Pack 2 | 292503 | [292503-gunvolt-records-cychronicle-song-pack-2.json](./292503-gunvolt-records-cychronicle-song-pack-2.json) |
 | Gunvolt Records Cychronicle: Song Pack 3 | 292504 | [292504-gunvolt-records-cychronicle-song-pack-3.json](./292504-gunvolt-records-cychronicle-song-pack-3.json) |
 | Gunvolt Records Cychronicle: Song Pack 4 | 292505 | [292505-gunvolt-records-cychronicle-song-pack-4.json](./292505-gunvolt-records-cychronicle-song-pack-4.json) |
