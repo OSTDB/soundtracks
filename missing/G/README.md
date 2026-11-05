@@ -3815,6 +3815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Truck: Death Arena | 415864 | [415864-ghost-truck-death-arena.json](./415864-ghost-truck-death-arena.json) |
 | Ghost Vanguard | 264694 | [264694-ghost-vanguard.json](./264694-ghost-vanguard.json) |
 | Ghost Vibration | 43420 | [43420-ghost-vibration.json](./43420-ghost-vibration.json) |
+| Ghost Villa | 293574 | [293574-ghost-villa.json](./293574-ghost-villa.json) |
 | Ghost Village | 224237 | [224237-ghost-village.json](./224237-ghost-village.json) |
 | Ghost Voyage | 269837 | [269837-ghost-voyage.json](./269837-ghost-voyage.json) |
 | Ghost Watchers | 189920 | [189920-ghost-watchers.json](./189920-ghost-watchers.json) |
@@ -5345,6 +5346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Kart Challenge | 140986 | [140986-go-kart-challenge.json](./140986-go-kart-challenge.json) |
 | Go Kart Go! Ultra! | 176208 | [176208-go-kart-go-ultra.json](./176208-go-kart-go-ultra.json) |
 | Go Kart Island | 369864 | [369864-go-kart-island.json](./369864-go-kart-island.json) |
+| Go Kart Mania | 293371 | [293371-go-kart-mania.json](./293371-go-kart-mania.json) |
 | Go Kart Mania: Deluxe Edition | 328760 | [328760-go-kart-mania-deluxe-edition.json](./328760-go-kart-mania-deluxe-edition.json) |
 | Go Kart Mania: Discovery Edition | 332509 | [332509-go-kart-mania-discovery-edition.json](./332509-go-kart-mania-discovery-edition.json) |
 | Go Kart Mania: Extended Edition | 328761 | [328761-go-kart-mania-extended-edition.json](./328761-go-kart-mania-extended-edition.json) |
@@ -6601,6 +6603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golfamania | 45673 | [45673-golfamania.json](./45673-golfamania.json) |
 | Golfaria | 318470 | [318470-golfaria.json](./318470-golfaria.json) |
 | GolfGurus | 88104 | [88104-golfgurus.json](./88104-golfgurus.json) |
+| Golfie: Supporter Pack | 293441 | [293441-golfie-supporter-pack.json](./293441-golfie-supporter-pack.json) |
 | Golfing Around | 108442 | [108442-golfing-around.json](./108442-golfing-around.json) |
 | Golfing Greats 2 | 222908 | [222908-golfing-greats-2.json](./222908-golfing-greats-2.json) |
 | Golfing In Aether | 199271 | [199271-golfing-in-aether.json](./199271-golfing-in-aether.json) |
@@ -7963,6 +7966,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GrappleBurger | 374383 | [374383-grappleburger.json](./374383-grappleburger.json) |
 | Grappledrome | 36453 | [36453-grappledrome.json](./36453-grappledrome.json) |
 | Grapplers: Relic Rivals | 297860 | [297860-grapplers-relic-rivals.json](./297860-grapplers-relic-rivals.json) |
+| Grapples Galore: Cosmetics Pack 2 | 293440 | [293440-grapples-galore-cosmetics-pack-2.json](./293440-grapples-galore-cosmetics-pack-2.json) |
+| Grapples Galore: Hat Pack 1 | 293439 | [293439-grapples-galore-hat-pack-1.json](./293439-grapples-galore-hat-pack-1.json) |
 | GrappleShot | 159585 | [159585-grappleshot.json](./159585-grappleshot.json) |
 | GrappleWell | 204144 | [204144-grapplewell.json](./204144-grapplewell.json) |
 | Grapplin' Apples | 409351 | [409351-grapplin-apples.json](./409351-grapplin-apples.json) |
@@ -9041,6 +9046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Dawn: Crucible Mode DLC | 75683 | [75683-grim-dawn-crucible-mode-dlc.json](./75683-grim-dawn-crucible-mode-dlc.json) |
 | Grim Dawn: Fangs of Asterkarn | 298931 | [298931-grim-dawn-fangs-of-asterkarn.json](./298931-grim-dawn-fangs-of-asterkarn.json) |
 | Grim Dawn: Forgotten Gods | 105041 | [105041-grim-dawn-forgotten-gods.json](./105041-grim-dawn-forgotten-gods.json) |
+| Grim Dawn: Steam Loyalist Items Pack 3 | 293438 | [293438-grim-dawn-steam-loyalist-items-pack-3.json](./293438-grim-dawn-steam-loyalist-items-pack-3.json) |
 | Grim Dice | 401023 | [401023-grim-dice.json](./401023-grim-dice.json) |
 | Grim Dragons | 32825 | [32825-grim-dragons.json](./32825-grim-dragons.json) |
 | Grim Dungeon | 301103 | [301103-grim-dungeon.json](./301103-grim-dungeon.json) |
@@ -10954,6 +10960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunvolt Records Cychronicle: Song Pack 2 | 292503 | [292503-gunvolt-records-cychronicle-song-pack-2.json](./292503-gunvolt-records-cychronicle-song-pack-2.json) |
 | Gunvolt Records Cychronicle: Song Pack 3 | 292504 | [292504-gunvolt-records-cychronicle-song-pack-3.json](./292504-gunvolt-records-cychronicle-song-pack-3.json) |
 | Gunvolt Records Cychronicle: Song Pack 4 | 292505 | [292505-gunvolt-records-cychronicle-song-pack-4.json](./292505-gunvolt-records-cychronicle-song-pack-4.json) |
+| Gunvolt Records Cychronicle: Song Pack 5 | 293436 | [293436-gunvolt-records-cychronicle-song-pack-5.json](./293436-gunvolt-records-cychronicle-song-pack-5.json) |
 | Gunvolt Records Cychronicle: Song Pack 6 | 294845 | [294845-gunvolt-records-cychronicle-song-pack-6.json](./294845-gunvolt-records-cychronicle-song-pack-6.json) |
 | Gunvolt Records Cychronicle: Song Pack 7 | 294846 | [294846-gunvolt-records-cychronicle-song-pack-7.json](./294846-gunvolt-records-cychronicle-song-pack-7.json) |
 | Gunwatch: Conflict Survival | 232459 | [232459-gunwatch-conflict-survival.json](./232459-gunwatch-conflict-survival.json) |
