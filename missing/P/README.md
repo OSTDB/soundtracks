@@ -6529,6 +6529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillow of Stone | 176641 | [176641-pillow-of-stone.json](./176641-pillow-of-stone.json) |
 | Pillow Pets | 47941 | [47941-pillow-pets.json](./47941-pillow-pets.json) |
 | Pillow Simulator | 155956 | [155956-pillow-simulator.json](./155956-pillow-simulator.json) |
+| Pillow Talk at the End of All Things. | 264401 | [264401-pillow-talk-at-the-end-of-all-things.json](./264401-pillow-talk-at-the-end-of-all-things.json) |
 | Pillowfight Girls | 350196 | [350196-pillowfight-girls.json](./350196-pillowfight-girls.json) |
 | Pillowheads: It's Party Time | 137644 | [137644-pillowheads-its-party-time.json](./137644-pillowheads-its-party-time.json) |
 | PillPop | 138645 | [138645-pillpop.json](./138645-pillpop.json) |
@@ -14307,6 +14308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Nom Nom | 261999 | [261999-princess-nom-nom.json](./261999-princess-nom-nom.json) |
 | Princess of Frozen Flowers | 380223 | [380223-princess-of-frozen-flowers.json](./380223-princess-of-frozen-flowers.json) |
 | Princess of Mekana | 245816 | [245816-princess-of-mekana.json](./245816-princess-of-mekana.json) |
+| Princess of Nothing | 264398 | [264398-princess-of-nothing.json](./264398-princess-of-nothing.json) |
 | Princess of Seas | 201702 | [201702-princess-of-seas.json](./201702-princess-of-seas.json) |
 | Princess of Tavern | 140320 | [140320-princess-of-tavern.json](./140320-princess-of-tavern.json) |
 | Princess of Tavern: Collector's Edition | 74543 | [74543-princess-of-tavern-collectors-edition.json](./74543-princess-of-tavern-collectors-edition.json) |
