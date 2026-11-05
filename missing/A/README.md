@@ -5629,6 +5629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | airRevo VR | 29441 | [29441-airrevo-vr.json](./29441-airrevo-vr.json) |
 | Airs Adventure | 45430 | [45430-airs-adventure.json](./45430-airs-adventure.json) |
 | Airscape: The Fall of Gravity | 11356 | [11356-airscape-the-fall-of-gravity.json](./11356-airscape-the-fall-of-gravity.json) |
+| Airscrew Racing | 247853 | [247853-airscrew-racing.json](./247853-airscrew-racing.json) |
 | Airship | 379526 | [379526-airship.json](./379526-airship.json) |
 | Airship | 379527 | [379527-airship.json](./379527-airship.json) |
 | Airship 2: Kingdoms Ablaze | 396536 | [396536-airship-2-kingdoms-ablaze.json](./396536-airship-2-kingdoms-ablaze.json) |
@@ -9701,6 +9702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anguna 2600 | 134346 | [134346-anguna-2600.json](./134346-anguna-2600.json) |
 | Anguna: Scourge of the Goblin King | 148392 | [148392-anguna-scourge-of-the-goblin-king.json](./148392-anguna-scourge-of-the-goblin-king.json) |
 | Anguna: Warriors of Virtue | 49509 | [49509-anguna-warriors-of-virtue.json](./49509-anguna-warriors-of-virtue.json) |
+| Angus and the Gates of Chaos | 247824 | [247824-angus-and-the-gates-of-chaos.json](./247824-angus-and-the-gates-of-chaos.json) |
 | Angus Hates Aliens | 33165 | [33165-angus-hates-aliens.json](./33165-angus-hates-aliens.json) |
 | Angvik : Returns | 367903 | [367903-angvik-returns.json](./367903-angvik-returns.json) |
 | Angy | 211077 | [211077-angy.json](./211077-angy.json) |
@@ -14587,6 +14589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascendrix | 326005 | [326005-ascendrix.json](./326005-ascendrix.json) |
 | Ascendshaft | 214060 | [214060-ascendshaft.json](./214060-ascendshaft.json) |
 | Ascendshaft and Endless Shaft | 144174 | [144174-ascendshaft-and-endless-shaft.json](./144174-ascendshaft-and-endless-shaft.json) |
+| Ascension | 247838 | [247838-ascension.json](./247838-ascension.json) |
 | Ascension | 349051 | [349051-ascension.json](./349051-ascension.json) |
 | Ascension | 387441 | [387441-ascension.json](./387441-ascension.json) |
 | Ascension | 95408 | [95408-ascension.json](./95408-ascension.json) |
@@ -16423,7 +16426,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
