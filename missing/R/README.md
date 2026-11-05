@@ -5448,6 +5448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil | 380192 | [380192-resident-evil.json](./380192-resident-evil.json) |
 | Resident Evil | 396732 | [396732-resident-evil.json](./396732-resident-evil.json) |
 | Resident Evil 0 | 15108 | [15108-resident-evil-0.json](./15108-resident-evil-0.json) |
+| Resident Evil 0: Complete Costume Pack | 261040 | [261040-resident-evil-0-complete-costume-pack.json](./261040-resident-evil-0-complete-costume-pack.json) |
 | Resident Evil 0: Demake | 407906 | [407906-resident-evil-0-demake.json](./407906-resident-evil-0-demake.json) |
 | Resident Evil 1: Roku's cut | 325945 | [325945-resident-evil-1-rokus-cut.json](./325945-resident-evil-1-rokus-cut.json) |
 | Resident Evil 1.5: Battle Coliseum | 400424 | [400424-resident-evil-1-5-battle-coliseum.json](./400424-resident-evil-1-5-battle-coliseum.json) |
