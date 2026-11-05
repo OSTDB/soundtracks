@@ -12548,6 +12548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Assault | 343753 | [343753-arcane-assault.json](./343753-arcane-assault.json) |
 | Arcane Assembly | 244492 | [244492-arcane-assembly.json](./244492-arcane-assembly.json) |
 | Arcane Audit | 248888 | [248888-arcane-audit.json](./248888-arcane-audit.json) |
+| Arcane Bastion | 294924 | [294924-arcane-bastion.json](./294924-arcane-bastion.json) |
 | Arcane Beak | 323858 | [323858-arcane-beak.json](./323858-arcane-beak.json) |
 | Arcane Blast | 270868 | [270868-arcane-blast.json](./270868-arcane-blast.json) |
 | Arcane Blood: The Shattered Star | 277274 | [277274-arcane-blood-the-shattered-star.json](./277274-arcane-blood-the-shattered-star.json) |
@@ -13339,6 +13340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark Saver | 256225 | [256225-ark-saver.json](./256225-ark-saver.json) |
 | Ark: Aberration | 76206 | [76206-ark-aberration.json](./76206-ark-aberration.json) |
 | Ark: Aberration Ascended | 316101 | [316101-ark-aberration-ascended.json](./316101-ark-aberration-ascended.json) |
+| Ark: Bob's Tall Tales | 294908 | [294908-ark-bobs-tall-tales.json](./294908-ark-bobs-tall-tales.json) |
 | ARK: Dinosaur Discovery | 223802 | [223802-ark-dinosaur-discovery.json](./223802-ark-dinosaur-discovery.json) |
 | Ark: Extinction | 103515 | [103515-ark-extinction.json](./103515-ark-extinction.json) |
 | Ark: Extinction Ascended | 338826 | [338826-ark-extinction-ascended.json](./338826-ark-extinction-ascended.json) |
@@ -14072,6 +14074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art your brains | 204803 | [204803-art-your-brains.json](./204803-art-your-brains.json) |
 | Art-O-Ween: A Ghost in the Gallery | 272461 | [272461-art-o-ween-a-ghost-in-the-gallery.json](./272461-art-o-ween-a-ghost-in-the-gallery.json) |
 | Art-O-Ween: Night at the Gallery | 236811 | [236811-art-o-ween-night-at-the-gallery.json](./236811-art-o-ween-night-at-the-gallery.json) |
+| Art-Therapy: Cross Stitch | 294911 | [294911-art-therapy-cross-stitch.json](./294911-art-therapy-cross-stitch.json) |
 | Art-Therapy: Diamonds | 388337 | [388337-art-therapy-diamonds.json](./388337-art-therapy-diamonds.json) |
 | Art-Therapy: Jigsaw Puzzle | 357873 | [357873-art-therapy-jigsaw-puzzle.json](./357873-art-therapy-jigsaw-puzzle.json) |
 | Art-Therapy: Portraits | 389119 | [389119-art-therapy-portraits.json](./389119-art-therapy-portraits.json) |
@@ -15060,6 +15063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assetto Corsa Competizione: 2020 GT World Challenge Pack | 168372 | [168372-assetto-corsa-competizione-2020-gt-world-challenge-pack.json](./168372-assetto-corsa-competizione-2020-gt-world-challenge-pack.json) |
 | Assetto Corsa Competizione: 2023 GT World Challenge Pack | 246861 | [246861-assetto-corsa-competizione-2023-gt-world-challenge-pack.json](./246861-assetto-corsa-competizione-2023-gt-world-challenge-pack.json) |
 | Assetto Corsa Competizione: 2024 Pack | 301762 | [301762-assetto-corsa-competizione-2024-pack.json](./301762-assetto-corsa-competizione-2024-pack.json) |
+| Assetto Corsa Competizione: 24H Nürburgring Pack | 294907 | [294907-assetto-corsa-competizione-24h-nurburgring-pack.json](./294907-assetto-corsa-competizione-24h-nurburgring-pack.json) |
 | Assetto Corsa Competizione: American Track Pack | 208627 | [208627-assetto-corsa-competizione-american-track-pack.json](./208627-assetto-corsa-competizione-american-track-pack.json) |
 | Assetto Corsa Competizione: British GT Pack | 168371 | [168371-assetto-corsa-competizione-british-gt-pack.json](./168371-assetto-corsa-competizione-british-gt-pack.json) |
 | Assetto Corsa Competizione: Day One Edition | 171275 | [171275-assetto-corsa-competizione-day-one-edition.json](./171275-assetto-corsa-competizione-day-one-edition.json) |
@@ -15351,6 +15355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astra Itinera | 175262 | [175262-astra-itinera.json](./175262-astra-itinera.json) |
 | Astra Moment: Dimension | 365240 | [365240-astra-moment-dimension.json](./365240-astra-moment-dimension.json) |
 | Astra Noctis | 250808 | [250808-astra-noctis.json](./250808-astra-noctis.json) |
+| Astra Nova | 295069 | [295069-astra-nova.json](./295069-astra-nova.json) |
 | Astra Protocol 2 | 165305 | [165305-astra-protocol-2.json](./165305-astra-protocol-2.json) |
 | Astra Protocol 2: Audio Pack | 309660 | [309660-astra-protocol-2-audio-pack.json](./309660-astra-protocol-2-audio-pack.json) |
 | Astra Protocol Remake | 364172 | [364172-astra-protocol-remake.json](./364172-astra-protocol-remake.json) |
@@ -17114,6 +17119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ava Airborne | 96207 | [96207-ava-airborne.json](./96207-ava-airborne.json) |
 | Ava and Avior Save the Earth | 84979 | [84979-ava-and-avior-save-the-earth.json](./84979-ava-and-avior-save-the-earth.json) |
 | Ava and the Half-World | 303268 | [303268-ava-and-the-half-world.json](./303268-ava-and-the-half-world.json) |
+| Ava Hunt and Thieves of the Lost | 294916 | [294916-ava-hunt-and-thieves-of-the-lost.json](./294916-ava-hunt-and-thieves-of-the-lost.json) |
 | Ava Loveless | 398808 | [398808-ava-loveless.json](./398808-ava-loveless.json) |
 | AVA: An Interactive Fairy Tale | 133593 | [133593-ava-an-interactive-fairy-tale.json](./133593-ava-an-interactive-fairy-tale.json) |
 | AVA: Dark History | 123856 | [123856-ava-dark-history.json](./123856-ava-dark-history.json) |
