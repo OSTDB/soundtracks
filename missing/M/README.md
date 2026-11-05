@@ -1460,6 +1460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Girl Critical | 130605 | [130605-magical-girl-critical.json](./130605-magical-girl-critical.json) |
 | Magical Girl Critical Deluxe | 339978 | [339978-magical-girl-critical-deluxe.json](./339978-magical-girl-critical-deluxe.json) |
 | Magical Girl D: Futanari RPG | 220440 | [220440-magical-girl-d-futanari-rpg.json](./220440-magical-girl-d-futanari-rpg.json) |
+| Magical Girl Dash | 256582 | [256582-magical-girl-dash.json](./256582-magical-girl-dash.json) |
 | Magical Girl Dash 2: Triple Prisma Attack | 350912 | [350912-magical-girl-dash-2-triple-prisma-attack.json](./350912-magical-girl-dash-2-triple-prisma-attack.json) |
 | Magical Girl ER | 410041 | [410041-magical-girl-er.json](./410041-magical-girl-er.json) |
 | Magical Girl Fist Fight | 353812 | [353812-magical-girl-fist-fight.json](./353812-magical-girl-fist-fight.json) |
@@ -4980,6 +4981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Cube | 120377 | [120377-master-cube.json](./120377-master-cube.json) |
 | Master Detective | 380651 | [380651-master-detective.json](./380651-master-detective.json) |
 | Master Detective Archives: Rain Code | 183617 | [183617-master-detective-archives-rain-code.json](./183617-master-detective-archives-rain-code.json) |
+| Master Detective Archives: Rain Code - Ch. Desuhiko: Charisma Killed the Cat | 256617 | [256617-master-detective-archives-rain-code-ch-desuhiko-charisma-killed-the-cat.json](./256617-master-detective-archives-rain-code-ch-desuhiko-charisma-killed-the-cat.json) |
 | Master Detective Archives: Rain Code - Ch. Fubuki: Fubuki's Luckiest Day | 259573 | [259573-master-detective-archives-rain-code-ch-fubuki-fubukis-luckiest-day.json](./259573-master-detective-archives-rain-code-ch-fubuki-fubukis-luckiest-day.json) |
 | Master Detective Archives: Rain Code - Ch. Halara: Raining Cats & Dog | 268575 | [268575-master-detective-archives-rain-code-ch-halara-raining-cats-and-dog.json](./268575-master-detective-archives-rain-code-ch-halara-raining-cats-and-dog.json) |
 | Master Detective Archives: Rain Code - Ch. Vivia: The Near-Death Detective + Ch. Yakou: Thank You, My Detective | 268772 | [268772-master-detective-archives-rain-code-ch-vivia-the-near-death-detective-ch-yakou-thank-you-my-detective.json](./268772-master-detective-archives-rain-code-ch-vivia-the-near-death-detective-ch-yakou-thank-you-my-detective.json) |
@@ -5827,7 +5829,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -7022,6 +7023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medusa's Mini Mystery | 177513 | [177513-medusas-mini-mystery.json](./177513-medusas-mini-mystery.json) |
 | Meduziak | 247659 | [247659-meduziak.json](./247659-meduziak.json) |
 | Medved Hellraiser | 241279 | [241279-medved-hellraiser.json](./241279-medved-hellraiser.json) |
+| Medved Hellraiser 2 | 256604 | [256604-medved-hellraiser-2.json](./256604-medved-hellraiser-2.json) |
 | Medved Hellraiser 3: Green Elephant | 311095 | [311095-medved-hellraiser-3-green-elephant.json](./311095-medved-hellraiser-3-green-elephant.json) |
 | Medville | 276634 | [276634-medville.json](./276634-medville.json) |
 | Meeblings | 214498 | [214498-meeblings.json](./214498-meeblings.json) |
@@ -7841,6 +7843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Serval | 224750 | [224750-mega-serval.json](./224750-mega-serval.json) |
 | Mega Shoot | 398127 | [398127-mega-shoot.json](./398127-mega-shoot.json) |
 | Mega Shooter: Shoot em up | 100922 | [100922-mega-shooter-shoot-em-up.json](./100922-mega-shooter-shoot-em-up.json) |
+| Mega Snake | 256613 | [256613-mega-snake.json](./256613-mega-snake.json) |
 | Mega Snake: 16-Bit Edition | 412598 | [412598-mega-snake-16-bit-edition.json](./412598-mega-snake-16-bit-edition.json) |
 | Mega Snake: highly addictive | 232602 | [232602-mega-snake-highly-addictive.json](./232602-mega-snake-highly-addictive.json) |
 | Mega Solitaire | 209528 | [209528-mega-solitaire.json](./209528-mega-solitaire.json) |
@@ -9527,6 +9530,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear 2: Solid Snake | 377 | [377-metal-gear-2-solid-snake.json](./377-metal-gear-2-solid-snake.json) |
 | Metal Gear Acid | 12211 | [12211-metal-gear-acid.json](./12211-metal-gear-acid.json) |
 | Metal Gear Acid 2 | 9886 | [9886-metal-gear-acid-2.json](./9886-metal-gear-acid-2.json) |
+| Metal Gear Acid 2: Mobile 3D | 256600 | [256600-metal-gear-acid-2-mobile-3d.json](./256600-metal-gear-acid-2-mobile-3d.json) |
+| Metal Gear Acid: Mobile 3D | 256608 | [256608-metal-gear-acid-mobile-3d.json](./256608-metal-gear-acid-mobile-3d.json) |
 | Metal Gear Dome | 330463 | [330463-metal-gear-dome.json](./330463-metal-gear-dome.json) |
 | Metal Gear GB | 181868 | [181868-metal-gear-gb.json](./181868-metal-gear-gb.json) |
 | Metal Gear Noah | 107207 | [107207-metal-gear-noah.json](./107207-metal-gear-noah.json) |
@@ -13869,6 +13874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixx Island: Remix Plus - Definitive Edition | 268550 | [268550-mixx-island-remix-plus-definitive-edition.json](./268550-mixx-island-remix-plus-definitive-edition.json) |
 | Mixx Island: Remix Plus - Deluxe Edition | 248725 | [248725-mixx-island-remix-plus-deluxe-edition.json](./248725-mixx-island-remix-plus-deluxe-edition.json) |
 | Mixx Island: Remix Plus - Director's Cut | 283255 | [283255-mixx-island-remix-plus-directors-cut.json](./283255-mixx-island-remix-plus-directors-cut.json) |
+| Mixx Island: Remix Plus - Extended Edition | 256618 | [256618-mixx-island-remix-plus-extended-edition.json](./256618-mixx-island-remix-plus-extended-edition.json) |
 | Mixx Island: Remix Plus - GOTY Edition | 284502 | [284502-mixx-island-remix-plus-goty-edition.json](./284502-mixx-island-remix-plus-goty-edition.json) |
 | Mixx Island: Remix Plus - Happy Edition | 287124 | [287124-mixx-island-remix-plus-happy-edition.json](./287124-mixx-island-remix-plus-happy-edition.json) |
 | Mixx Island: Remix Plus - Legendary Edition | 275997 | [275997-mixx-island-remix-plus-legendary-edition.json](./275997-mixx-island-remix-plus-legendary-edition.json) |
@@ -14034,6 +14040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLF: Pro Catch | 406667 | [406667-mlf-pro-catch.json](./406667-mlf-pro-catch.json) |
 | MLG Flappy Bird 420 | 285148 | [285148-mlg-flappy-bird-420.json](./285148-mlg-flappy-bird-420.json) |
 | MLM Lover | 303301 | [303301-mlm-lover.json](./303301-mlm-lover.json) |
+| MM | 256609 | [256609-mm.json](./256609-mm.json) |
 | MM Garden | 335332 | [335332-mm-garden.json](./335332-mm-garden.json) |
 | MMA Arena | 117047 | [117047-mma-arena.json](./117047-mma-arena.json) |
 | MMA Championship | 189178 | [189178-mma-championship.json](./189178-mma-championship.json) |
