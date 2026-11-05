@@ -3433,6 +3433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead End Beam | 398671 | [398671-dead-end-beam.json](./398671-dead-end-beam.json) |
 | Dead End City | 197176 | [197176-dead-end-city.json](./197176-dead-end-city.json) |
 | Dead End Escape | 406068 | [406068-dead-end-escape.json](./406068-dead-end-escape.json) |
+| Dead End Exit 8 | 288027 | [288027-dead-end-exit-8.json](./288027-dead-end-exit-8.json) |
 | Dead End Job | 27803 | [27803-dead-end-job.json](./27803-dead-end-job.json) |
 | Dead End Junction #1 Good Day to Migration | 65392 | [65392-dead-end-junction-1-good-day-to-migration.json](./65392-dead-end-junction-1-good-day-to-migration.json) |
 | Dead End Junction #2 Deadman's Bullet | 95411 | [95411-dead-end-junction-2-deadmans-bullet.json](./95411-dead-end-junction-2-deadmans-bullet.json) |
@@ -7103,6 +7104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Aquarium | 348834 | [348834-desktop-aquarium.json](./348834-desktop-aquarium.json) |
 | Desktop Aquarium | 383742 | [383742-desktop-aquarium.json](./383742-desktop-aquarium.json) |
 | Desktop Baseball | 119525 | [119525-desktop-baseball.json](./119525-desktop-baseball.json) |
+| Desktop Baseball 2 | 288003 | [288003-desktop-baseball-2.json](./288003-desktop-baseball-2.json) |
 | Desktop Basketball | 147851 | [147851-desktop-basketball.json](./147851-desktop-basketball.json) |
 | Desktop Basketball 2 | 262880 | [262880-desktop-basketball-2.json](./262880-desktop-basketball-2.json) |
 | Desktop Blocks | 368549 | [368549-desktop-blocks.json](./368549-desktop-blocks.json) |
@@ -9429,6 +9431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinos | 311257 | [311257-dinos.json](./311257-dinos.json) |
 | Dinos In Space | 135463 | [135463-dinos-in-space.json](./135463-dinos-in-space.json) |
 | Dinos Jump | 96754 | [96754-dinos-jump.json](./96754-dinos-jump.json) |
+| Dinos vs. Robots | 287924 | [287924-dinos-vs-robots.json](./287924-dinos-vs-robots.json) |
 | Dinosaur | 139327 | [139327-dinosaur.json](./139327-dinosaur.json) |
 | Dinosaur | 139988 | [139988-dinosaur.json](./139988-dinosaur.json) |
 | Dinosaur | 310972 | [310972-dinosaur.json](./310972-dinosaur.json) |
