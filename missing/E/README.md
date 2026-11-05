@@ -1752,6 +1752,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eikan ha Kimi ni: Koukou Yakyuu Zenkoku Taikai | 210578 | [210578-eikan-ha-kimi-ni-koukou-yakyuu-zenkoku-taikai.json](./210578-eikan-ha-kimi-ni-koukou-yakyuu-zenkoku-taikai.json) |
 | Eikan wa Kimi Ni 4 | 200451 | [200451-eikan-wa-kimi-ni-4.json](./200451-eikan-wa-kimi-ni-4.json) |
 | Eiken DS | 269752 | [269752-eiken-ds.json](./269752-eiken-ds.json) |
+| Eiken Kakomondai Shuuroku: Eiken DS 2 Deluxe | 269815 | [269815-eiken-kakomondai-shuuroku-eiken-ds-2-deluxe.json](./269815-eiken-kakomondai-shuuroku-eiken-ds-2-deluxe.json) |
+| Eikoh Seminar Koushiki DS Kyouzai: Koukou Eitango - Eitan Zamurai DS | 269816 | [269816-eikoh-seminar-koushiki-ds-kyouzai-koukou-eitango-eitan-zamurai-ds.json](./269816-eikoh-seminar-koushiki-ds-kyouzai-koukou-eitango-eitan-zamurai-ds.json) |
+| Eikoh Seminar Koushiki DS Kyouzai: Shougakkou Eigo - Eitan Zamurai DS | 269817 | [269817-eikoh-seminar-koushiki-ds-kyouzai-shougakkou-eigo-eitan-zamurai-ds.json](./269817-eikoh-seminar-koushiki-ds-kyouzai-shougakkou-eigo-eitan-zamurai-ds.json) |
 | Eikoku Tantei Mysteria | 221826 | [221826-eikoku-tantei-mysteria.json](./221826-eikoku-tantei-mysteria.json) |
 | Eikou no Saint Andrews | 3484 | [3484-eikou-no-saint-andrews.json](./3484-eikou-no-saint-andrews.json) |
 | Eikro: The Children of Darloum | 307524 | [307524-eikro-the-children-of-darloum.json](./307524-eikro-the-children-of-darloum.json) |
