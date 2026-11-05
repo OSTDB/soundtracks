@@ -1260,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You're My Hero | 55934 | [55934-youre-my-hero.json](./55934-youre-my-hero.json) |
 | You're My Penguin | 254650 | [254650-youre-my-penguin.json](./254650-youre-my-penguin.json) |
 | You're Not a Rogue | 141657 | [141657-youre-not-a-rogue.json](./141657-youre-not-a-rogue.json) |
+| You're Not Actually Supposed To Die (At The Tournament Of Death) | 259365 | [259365-youre-not-actually-supposed-to-die-at-the-tournament-of-death.json](./259365-youre-not-actually-supposed-to-die-at-the-tournament-of-death.json) |
 | You're Not Family | 264515 | [264515-youre-not-family.json](./264515-youre-not-family.json) |
 | You're Not Special | 113877 | [113877-youre-not-special.json](./113877-youre-not-special.json) |
 | You're the Boss | 415950 | [415950-youre-the-boss.json](./415950-youre-the-boss.json) |
