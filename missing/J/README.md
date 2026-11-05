@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Claw | 63244 | [63244-jack-claw.json](./63244-jack-claw.json) |
 | Jack Dragon | 264183 | [264183-jack-dragon.json](./264183-jack-dragon.json) |
 | Jack Flash | 93078 | [93078-jack-flash.json](./93078-jack-flash.json) |
+| Jack Frost | 289146 | [289146-jack-frost.json](./289146-jack-frost.json) |
 | Jack Hayes: The Lazarus Sign | 133067 | [133067-jack-hayes-the-lazarus-sign.json](./133067-jack-hayes-the-lazarus-sign.json) |
 | Jack Holmes: Master of Puppets | 253532 | [253532-jack-holmes-master-of-puppets.json](./253532-jack-holmes-master-of-puppets.json) |
 | Jack Horror | 63859 | [63859-jack-horror.json](./63859-jack-horror.json) |
