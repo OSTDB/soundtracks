@@ -4757,6 +4757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Armada | 43297 | [43297-final-armada.json](./43297-final-armada.json) |
 | Final Assault | 39115 | [39115-final-assault.json](./39115-final-assault.json) |
 | Final Assault | 94615 | [94615-final-assault.json](./94615-final-assault.json) |
+| Final B Cut | 255424 | [255424-final-b-cut.json](./255424-final-b-cut.json) |
 | Final Battle | 76376 | [76376-final-battle.json](./76376-final-battle.json) |
 | Final Battle in Zhifudao | 415755 | [415755-final-battle-in-zhifudao.json](./415755-final-battle-in-zhifudao.json) |
 | Final Blade | 115187 | [115187-final-blade.json](./115187-final-blade.json) |
@@ -10265,10 +10266,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Hexed and Haunted Pack | 363899 | [363899-fortnite-hexed-and-haunted-pack.json](./363899-fortnite-hexed-and-haunted-pack.json) |
 | Fortnite: Horizon'd Wrap | 403303 | [403303-fortnite-horizond-wrap.json](./403303-fortnite-horizond-wrap.json) |
 | Fortnite: Infinite Drift Pack | 276292 | [276292-fortnite-infinite-drift-pack.json](./276292-fortnite-infinite-drift-pack.json) |
+| Fortnite: Intrepid Engines Pack | 255445 | [255445-fortnite-intrepid-engines-pack.json](./255445-fortnite-intrepid-engines-pack.json) |
 | Fortnite: Kyran Aryk Crew Pack | 321446 | [321446-fortnite-kyran-aryk-crew-pack.json](./321446-fortnite-kyran-aryk-crew-pack.json) |
 | Fortnite: Lava Legends Pack | 227107 | [227107-fortnite-lava-legends-pack.json](./227107-fortnite-lava-legends-pack.json) |
 | Fortnite: Luminary Hypatia Starter Pack | 360188 | [360188-fortnite-luminary-hypatia-starter-pack.json](./360188-fortnite-luminary-hypatia-starter-pack.json) |
 | Fortnite: Magma Masters Pack | 227106 | [227106-fortnite-magma-masters-pack.json](./227106-fortnite-magma-masters-pack.json) |
+| Fortnite: Mainframe Break Pack | 255447 | [255447-fortnite-mainframe-break-pack.json](./255447-fortnite-mainframe-break-pack.json) |
 | Fortnite: Marvel - Royalty & Warriors | 240949 | [240949-fortnite-marvel-royalty-and-warriors.json](./240949-fortnite-marvel-royalty-and-warriors.json) |
 | Fortnite: May 2024 Fortnite Crew Pack | 303239 | [303239-fortnite-may-2024-fortnite-crew-pack.json](./303239-fortnite-may-2024-fortnite-crew-pack.json) |
 | Fortnite: Minty Legends Pack | 221948 | [221948-fortnite-minty-legends-pack.json](./221948-fortnite-minty-legends-pack.json) |
@@ -10291,6 +10294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: The Wavebreaker Pack | 322257 | [322257-fortnite-the-wavebreaker-pack.json](./322257-fortnite-the-wavebreaker-pack.json) |
 | Fortnite: Transformers Pack | 255268 | [255268-fortnite-transformers-pack.json](./255268-fortnite-transformers-pack.json) |
 | Fortnite: Triarch Nox Crew Pack | 254985 | [254985-fortnite-triarch-nox-crew-pack.json](./254985-fortnite-triarch-nox-crew-pack.json) |
+| Fortnite: True Colors Pack | 255446 | [255446-fortnite-true-colors-pack.json](./255446-fortnite-true-colors-pack.json) |
 | Fortnite: Voidlander Pack | 254665 | [254665-fortnite-voidlander-pack.json](./254665-fortnite-voidlander-pack.json) |
 | Fortnite: Yellowjacket Pack | 360189 | [360189-fortnite-yellowjacket-pack.json](./360189-fortnite-yellowjacket-pack.json) |
 | FortOfTheNight | 105341 | [105341-fortofthenight.json](./105341-fortofthenight.json) |
