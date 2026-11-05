@@ -1912,6 +1912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior Mage or Rogue alike | 359352 | [359352-warrior-mage-or-rogue-alike.json](./359352-warrior-mage-or-rogue-alike.json) |
 | Warrior Maiden | 210861 | [210861-warrior-maiden.json](./210861-warrior-maiden.json) |
 | Warrior Maiden Lecia and the Lost Fortress | 373646 | [373646-warrior-maiden-lecia-and-the-lost-fortress.json](./373646-warrior-maiden-lecia-and-the-lost-fortress.json) |
+| Warrior Next | 266012 | [266012-warrior-next.json](./266012-warrior-next.json) |
 | Warrior of Chaos | 367830 | [367830-warrior-of-chaos.json](./367830-warrior-of-chaos.json) |
 | Warrior of Ras: Volume I - Dunzhin | 94578 | [94578-warrior-of-ras-volume-i-dunzhin.json](./94578-warrior-of-ras-volume-i-dunzhin.json) |
 | Warrior of Rome | 4426 | [4426-warrior-of-rome.json](./4426-warrior-of-rome.json) |
@@ -3732,6 +3733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What the Golf? A Hole New World | 264343 | [264343-what-the-golf-a-hole-new-world.json](./264343-what-the-golf-a-hole-new-world.json) |
 | What the Golf? It's Snowtime | 264344 | [264344-what-the-golf-its-snowtime.json](./264344-what-the-golf-its-snowtime.json) |
 | What the Golf? Sporty Sports! | 135804 | [135804-what-the-golf-sporty-sports.json](./135804-what-the-golf-sporty-sports.json) |
+| What The Gravity | 266013 | [266013-what-the-gravity.json](./266013-what-the-gravity.json) |
 | What The Hack! | 351278 | [351278-what-the-hack.json](./351278-what-the-hack.json) |
 | What the Heck, Dude? | 30662 | [30662-what-the-heck-dude.json](./30662-what-the-heck-dude.json) |
 | What the Hell | 263096 | [263096-what-the-hell.json](./263096-what-the-hell.json) |
@@ -4196,6 +4198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's My Horse? An Escape the Room Adventure | 187036 | [187036-wheres-my-horse-an-escape-the-room-adventure.json](./187036-wheres-my-horse-an-escape-the-room-adventure.json) |
 | Where's My Keys?!?! | 183724 | [183724-wheres-my-keys.json](./183724-wheres-my-keys.json) |
 | Where's My Kitty | 338374 | [338374-wheres-my-kitty.json](./338374-wheres-my-kitty.json) |
+| Where's My Loot? | 266014 | [266014-wheres-my-loot.json](./266014-wheres-my-loot.json) |
 | Where's My Lunch?! | 170360 | [170360-wheres-my-lunch.json](./170360-wheres-my-lunch.json) |
 | Where's My Mickey? | 63275 | [63275-wheres-my-mickey.json](./63275-wheres-my-mickey.json) |
 | Where's My Mommy? | 34215 | [34215-wheres-my-mommy.json](./34215-wheres-my-mommy.json) |
@@ -4418,6 +4421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers in the Void | 287705 | [287705-whispers-in-the-void.json](./287705-whispers-in-the-void.json) |
 | Whispers in the Wood | 328198 | [328198-whispers-in-the-wood.json](./328198-whispers-in-the-wood.json) |
 | Whispers In The Woods | 410452 | [410452-whispers-in-the-woods.json](./410452-whispers-in-the-woods.json) |
+| Whispers of an Elven Captor | 266015 | [266015-whispers-of-an-elven-captor.json](./266015-whispers-of-an-elven-captor.json) |
 | Whispers of Ancient Stone | 195578 | [195578-whispers-of-ancient-stone.json](./195578-whispers-of-ancient-stone.json) |
 | Whispers of Appalachia | 389925 | [389925-whispers-of-appalachia.json](./389925-whispers-of-appalachia.json) |
 | Whispers of Elenrod | 378401 | [378401-whispers-of-elenrod.json](./378401-whispers-of-elenrod.json) |
@@ -5694,6 +5698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Prey | 20973 | [20973-wings-of-prey.json](./20973-wings-of-prey.json) |
 | Wings of Prey: Special Edition | 51778 | [51778-wings-of-prey-special-edition.json](./51778-wings-of-prey-special-edition.json) |
 | Wings of Redemption | 273754 | [273754-wings-of-redemption.json](./273754-wings-of-redemption.json) |
+| Wings of Seduction : Bust 'em out! | 266016 | [266016-wings-of-seduction-bust-em-out.json](./266016-wings-of-seduction-bust-em-out.json) |
 | Wings of the Kite in Sky | 338364 | [338364-wings-of-the-kite-in-sky.json](./338364-wings-of-the-kite-in-sky.json) |
 | Wings of the Universe | 216838 | [216838-wings-of-the-universe.json](./216838-wings-of-the-universe.json) |
 | Wings of Vi 2: Guardian's Heart | 382743 | [382743-wings-of-vi-2-guardians-heart.json](./382743-wings-of-vi-2-guardians-heart.json) |
