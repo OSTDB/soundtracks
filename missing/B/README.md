@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.U.T.T.O.N. (Brutally Unfair Tactics Totally OK Now) | 92526 | [92526-b-u-t-t-o-n-brutally-unfair-tactics-totally-ok-now.json](./92526-b-u-t-t-o-n-brutally-unfair-tactics-totally-ok-now.json) |
 | B's-LOG Party | 45989 | [45989-bs-log-party.json](./45989-bs-log-party.json) |
 | B&F 1: The Dark Corridor | 393478 | [393478-b-and-f-1-the-dark-corridor.json](./393478-b-and-f-1-the-dark-corridor.json) |
+| B048 | 278235 | [278235-b048.json](./278235-b048.json) |
 | B1 | 289342 | [289342-b1.json](./289342-b1.json) |
 | B100X: Auto Dungeon RPG | 142667 | [142667-b100x-auto-dungeon-rpg.json](./142667-b100x-auto-dungeon-rpg.json) |
 | B17 Flying Fortress | 11928 | [11928-b17-flying-fortress.json](./11928-b17-flying-fortress.json) |
@@ -1633,6 +1634,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballistic: The story of Marble and the Energy Core | 240738 | [240738-ballistic-the-story-of-marble-and-the-energy-core.json](./240738-ballistic-the-story-of-marble-and-the-energy-core.json) |
 | Ballistic.exe | 328367 | [328367-ballistic-exe.json](./328367-ballistic-exe.json) |
 | BallisticNG | 32640 | [32640-ballisticng.json](./32640-ballisticng.json) |
+| BallisticNG: Bling Pack | 278190 | [278190-ballisticng-bling-pack.json](./278190-ballisticng-bling-pack.json) |
+| BallisticNG: Deluxe Edition | 278191 | [278191-ballisticng-deluxe-edition.json](./278191-ballisticng-deluxe-edition.json) |
 | BallisticNG: Neon Nights | 241238 | [241238-ballisticng-neon-nights.json](./241238-ballisticng-neon-nights.json) |
 | BallisticNG: Outer Reaches | 167304 | [167304-ballisticng-outer-reaches.json](./167304-ballisticng-outer-reaches.json) |
 | Ballistik | 339613 | [339613-ballistik.json](./339613-ballistik.json) |
@@ -10138,6 +10141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blochead | 78963 | [78963-blochead.json](./78963-blochead.json) |
 | Block | 120081 | [120081-block.json](./120081-block.json) |
 | Block | 172653 | [172653-block.json](./172653-block.json) |
+| Block 'Em | 278193 | [278193-block-em.json](./278193-block-em.json) |
 | Block ‘Em Sock ‘Em | 381135 | [381135-block-em-sock-em.json](./381135-block-em-sock-em.json) |
 | Block & Shot | 263976 | [263976-block-and-shot.json](./263976-block-and-shot.json) |
 | Block & Switch | 230480 | [230480-block-and-switch.json](./230480-block-and-switch.json) |
@@ -12064,6 +12068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bokura no Keshigomu Otoshi 3 + Special Set | 265644 | [265644-bokura-no-keshigomu-otoshi-3-special-set.json](./265644-bokura-no-keshigomu-otoshi-3-special-set.json) |
 | Bokura no Keshigomu Otoshi Shin Gakki | 208628 | [208628-bokura-no-keshigomu-otoshi-shin-gakki.json](./208628-bokura-no-keshigomu-otoshi-shin-gakki.json) |
 | Bokura no Keshigomu Otoshi Shingakki 3 | 247744 | [247744-bokura-no-keshigomu-otoshi-shingakki-3.json](./247744-bokura-no-keshigomu-otoshi-shingakki-3.json) |
+| Bokura no Keshigum Otoshi 3: Online-hen | 278194 | [278194-bokura-no-keshigum-otoshi-3-online-hen.json](./278194-bokura-no-keshigum-otoshi-3-online-hen.json) |
 | Bokura no Keshigum Otoshi 3: Sekai-hen | 251608 | [251608-bokura-no-keshigum-otoshi-3-sekai-hen.json](./251608-bokura-no-keshigum-otoshi-3-sekai-hen.json) |
 | Bokura no Nanokakan Sensou: Yuujou Adventure | 222509 | [222509-bokura-no-nanokakan-sensou-yuujou-adventure.json](./222509-bokura-no-nanokakan-sensou-yuujou-adventure.json) |
 | Bokura no Ninja World | 206564 | [206564-bokura-no-ninja-world.json](./206564-bokura-no-ninja-world.json) |
@@ -16048,6 +16053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble Part 2 | 7801 | [7801-bubble-bobble-part-2.json](./7801-bubble-bobble-part-2.json) |
 | Bubble Bobble Revolution | 20577 | [20577-bubble-bobble-revolution.json](./20577-bubble-bobble-revolution.json) |
 | Bubble Bobble The Revival | 335465 | [335465-bubble-bobble-the-revival.json](./335465-bubble-bobble-the-revival.json) |
+| Bubble Bobble: Lost Cave | 278230 | [278230-bubble-bobble-lost-cave.json](./278230-bubble-bobble-lost-cave.json) |
 | Bubble Bobble: Old & New | 49162 | [49162-bubble-bobble-old-and-new.json](./49162-bubble-bobble-old-and-new.json) |
 | Bubble Bobble: Return of Great Dragon | 321668 | [321668-bubble-bobble-return-of-great-dragon.json](./321668-bubble-bobble-return-of-great-dragon.json) |
 | Bubble Bobble: Sugar Dungeons | 351212 | [351212-bubble-bobble-sugar-dungeons.json](./351212-bubble-bobble-sugar-dungeons.json) |
@@ -16113,6 +16119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Piles | 241615 | [241615-bubble-piles.json](./241615-bubble-piles.json) |
 | Bubble Pirate Shooter | 220812 | [220812-bubble-pirate-shooter.json](./220812-bubble-pirate-shooter.json) |
 | Bubble Pirates | 120256 | [120256-bubble-pirates.json](./120256-bubble-pirates.json) |
+| Bubble Pong Pong | 278234 | [278234-bubble-pong-pong.json](./278234-bubble-pong-pong.json) |
 | Bubble Pop | 89466 | [89466-bubble-pop.json](./89466-bubble-pop.json) |
 | Bubble Pop Letters & Shapes | 213396 | [213396-bubble-pop-letters-and-shapes.json](./213396-bubble-pop-letters-and-shapes.json) |
 | Bubble Pop Math Challenge Gr. 1-2 Premium | 87255 | [87255-bubble-pop-math-challenge-gr-1-2-premium.json](./87255-bubble-pop-math-challenge-gr-1-2-premium.json) |
