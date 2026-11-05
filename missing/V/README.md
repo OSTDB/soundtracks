@@ -586,6 +586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Legends: The Untold Story of Elizabeth Bathory - Collector's Edition | 228250 | [228250-vampire-legends-the-untold-story-of-elizabeth-bathory-collectors-edition.json](./228250-vampire-legends-the-untold-story-of-elizabeth-bathory-collectors-edition.json) |
 | Vampire Lollipop | 401004 | [401004-vampire-lollipop.json](./401004-vampire-lollipop.json) |
 | Vampire Love | 268661 | [268661-vampire-love.json](./268661-vampire-love.json) |
+| Vampire Mansion | 260463 | [260463-vampire-mansion.json](./260463-vampire-mansion.json) |
 | Vampire Martina-Bloody Day 228 | 124222 | [124222-vampire-martina-bloody-day-228.json](./124222-vampire-martina-bloody-day-228.json) |
 | Vampire Master | 341047 | [341047-vampire-master.json](./341047-vampire-master.json) |
 | Vampire Memories | 247954 | [247954-vampire-memories.json](./247954-vampire-memories.json) |
@@ -1424,6 +1425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venus Voyager 2 | 292882 | [292882-venus-voyager-2.json](./292882-venus-voyager-2.json) |
 | Venus: Improbable Dream | 145404 | [145404-venus-improbable-dream.json](./145404-venus-improbable-dream.json) |
 | Venus: The Last Ascent | 407293 | [407293-venus-the-last-ascent.json](./407293-venus-the-last-ascent.json) |
+| VenusBlood Gaia International | 260444 | [260444-venusblood-gaia-international.json](./260444-venusblood-gaia-international.json) |
 | VenusBlood Hollow International | 186513 | [186513-venusblood-hollow-international.json](./186513-venusblood-hollow-international.json) |
 | VenusBlood Ragnarok International | 348435 | [348435-venusblood-ragnarok-international.json](./348435-venusblood-ragnarok-international.json) |
 | Venusian Vengeance | 35704 | [35704-venusian-vengeance.json](./35704-venusian-vengeance.json) |
