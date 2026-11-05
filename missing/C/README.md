@@ -1494,6 +1494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannonship | 167536 | [167536-cannonship.json](./167536-cannonship.json) |
 | Cannot Contain | 278711 | [278711-cannot-contain.json](./278711-cannot-contain.json) |
 | Canon: Legend of the New Gods | 150993 | [150993-canon-legend-of-the-new-gods.json](./150993-canon-legend-of-the-new-gods.json) |
+| Canopy | 258249 | [258249-canopy.json](./258249-canopy.json) |
 | CanopySim: Skydive Landing Simulation | 141788 | [141788-canopysim-skydive-landing-simulation.json](./141788-canopysim-skydive-landing-simulation.json) |
 | Cantaloupe Chronicle | 327389 | [327389-cantaloupe-chronicle.json](./327389-cantaloupe-chronicle.json) |
 | Cantarella: Dominion of Qualia | 386219 | [386219-cantarella-dominion-of-qualia.json](./386219-cantarella-dominion-of-qualia.json) |
@@ -6166,6 +6167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chased Around the World | 211963 | [211963-chased-around-the-world.json](./211963-chased-around-the-world.json) |
 | Chased by Darkness | 147622 | [147622-chased-by-darkness.json](./147622-chased-by-darkness.json) |
 | Chased by Nightmares | 386537 | [386537-chased-by-nightmares.json](./386537-chased-by-nightmares.json) |
+| Chasemaster | 258263 | [258263-chasemaster.json](./258263-chasemaster.json) |
 | Chaser | 11272 | [11272-chaser.json](./11272-chaser.json) |
 | Chaser | 242694 | [242694-chaser.json](./242694-chaser.json) |
 | Chaser | 345950 | [345950-chaser.json](./345950-chaser.json) |
@@ -9804,6 +9806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claymates | 42623 | [42623-claymates.json](./42623-claymates.json) |
 | Claymore | 93919 | [93919-claymore.json](./93919-claymore.json) |
 | Claymore: Gingan no Majo | 123300 | [123300-claymore-gingan-no-majo.json](./123300-claymore-gingan-no-majo.json) |
+| Claymores of the Lost Kingdom | 258289 | [258289-claymores-of-the-lost-kingdom.json](./258289-claymores-of-the-lost-kingdom.json) |
 | Clayton's Quest | 72325 | [72325-claytons-quest.json](./72325-claytons-quest.json) |
 | ClayTown Horror | 217403 | [217403-claytown-horror.json](./217403-claytown-horror.json) |
 | Clayverse | 274903 | [274903-clayverse.json](./274903-clayverse.json) |
@@ -13667,6 +13670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contagion | 6404 | [6404-contagion.json](./6404-contagion.json) |
 | Contagion VR: Outbreak | 82047 | [82047-contagion-vr-outbreak.json](./82047-contagion-vr-outbreak.json) |
 | Contain | 226717 | [226717-contain.json](./226717-contain.json) |
+| Containcorp | 258274 | [258274-containcorp.json](./258274-containcorp.json) |
 | Contained | 306316 | [306316-contained.json](./306316-contained.json) |
 | Container City | 209952 | [209952-container-city.json](./209952-container-city.json) |
 | Container Hunter Simulator | 407367 | [407367-container-hunter-simulator.json](./407367-container-hunter-simulator.json) |
@@ -13931,6 +13935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooked with Love | 177507 | [177507-cooked-with-love.json](./177507-cooked-with-love.json) |
 | Cookery | 256156 | [256156-cookery.json](./256156-cookery.json) |
 | Cookey Shop | 145581 | [145581-cookey-shop.json](./145581-cookey-shop.json) |
+| CookFriends | 258281 | [258281-cookfriends.json](./258281-cookfriends.json) |
 | Cookiator | 127122 | [127122-cookiator.json](./127122-cookiator.json) |
 | Cookie | 380085 | [380085-cookie.json](./380085-cookie.json) |
 | Cookie & Bibi | 38624 | [38624-cookie-and-bibi.json](./38624-cookie-and-bibi.json) |
@@ -17670,6 +17675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossroads Extreme | 119620 | [119620-crossroads-extreme.json](./119620-crossroads-extreme.json) |
 | Crossroads Farming Co. | 377056 | [377056-crossroads-farming-co.json](./377056-crossroads-farming-co.json) |
 | Crossroads Inn | 107255 | [107255-crossroads-inn.json](./107255-crossroads-inn.json) |
+| Crossroads Inn 2 | 258245 | [258245-crossroads-inn-2.json](./258245-crossroads-inn-2.json) |
 | Crossroads Inn: Anniversary Edition | 154549 | [154549-crossroads-inn-anniversary-edition.json](./154549-crossroads-inn-anniversary-edition.json) |
 | Crossroads of Fate | 185601 | [185601-crossroads-of-fate.json](./185601-crossroads-of-fate.json) |
 | Crossroads of Life | 213323 | [213323-crossroads-of-life.json](./213323-crossroads-of-life.json) |
