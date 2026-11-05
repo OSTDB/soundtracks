@@ -1734,6 +1734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capsize | 122403 | [122403-capsize.json](./122403-capsize.json) |
 | Capsized | 3050 | [3050-capsized.json](./3050-capsized.json) |
 | Capslock | 300425 | [300425-capslock.json](./300425-capslock.json) |
+| Capsman | 269343 | [269343-capsman.json](./269343-capsman.json) |
 | Capsular | 81055 | [81055-capsular.json](./81055-capsular.json) |
 | Capsule | 120064 | [120064-capsule.json](./120064-capsule.json) |
 | Capsule | 167907 | [167907-capsule.json](./167907-capsule.json) |
@@ -2075,6 +2076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car for Trade | 267352 | [267352-car-for-trade.json](./267352-car-for-trade.json) |
 | Car G1 | 295954 | [295954-car-g1.json](./295954-car-g1.json) |
 | Car Game | 176820 | [176820-car-game.json](./176820-car-game.json) |
+| Car Games Bundle: Racing Driving School Police Drag Drift Taxi | 269360 | [269360-car-games-bundle-racing-driving-school-police-drag-drift-taxi.json](./269360-car-games-bundle-racing-driving-school-police-drag-drift-taxi.json) |
 | Car Games for Kids & Toddlers Bundle 3 in 1 | 303878 | [303878-car-games-for-kids-and-toddlers-bundle-3-in-1.json](./303878-car-games-for-kids-and-toddlers-bundle-3-in-1.json) |
 | Car Go Fast | 206121 | [206121-car-go-fast.json](./206121-car-go-fast.json) |
 | Car Guy Soundboard | 323375 | [323375-car-guy-soundboard.json](./323375-car-guy-soundboard.json) |
