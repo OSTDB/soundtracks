@@ -2220,6 +2220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap 'n' Pop 3: Balloon Adventures | 88225 | [88225-tap-n-pop-3-balloon-adventures.json](./88225-tap-n-pop-3-balloon-adventures.json) |
 | Tap 4 Sex | 339416 | [339416-tap-4-sex.json](./339416-tap-4-sex.json) |
 | Tap 4 Sex 2 | 425209 | [425209-tap-4-sex-2.json](./425209-tap-4-sex-2.json) |
+| Tap a Gap | 266548 | [266548-tap-a-gap.json](./266548-tap-a-gap.json) |
 | Tap a Jam | 73290 | [73290-tap-a-jam.json](./73290-tap-a-jam.json) |
 | Tap Adventure | 58609 | [58609-tap-adventure.json](./58609-tap-adventure.json) |
 | Tap Adventure: Time Travel | 27688 | [27688-tap-adventure-time-travel.json](./27688-tap-adventure-time-travel.json) |
@@ -3776,6 +3777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempo Quest | 103049 | [103049-tempo-quest.json](./103049-tempo-quest.json) |
 | Tempo Tamer | 384853 | [384853-tempo-tamer.json](./384853-tempo-tamer.json) |
 | Tempoknight | 224204 | [224204-tempoknight.json](./224204-tempoknight.json) |
+| Tempomancy | 266582 | [266582-tempomancy.json](./266582-tempomancy.json) |
 | Tempopo | 305178 | [305178-tempopo.json](./305178-tempopo.json) |
 | Temporal | 69008 | [69008-temporal.json](./69008-temporal.json) |
 | Temporal Cross | 310211 | [310211-temporal-cross.json](./310211-temporal-cross.json) |
@@ -4741,6 +4743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tether | 272709 | [272709-tether.json](./272709-tether.json) |
 | Tether | 333088 | [333088-tether.json](./333088-tether.json) |
 | Tether | 343598 | [343598-tether.json](./343598-tether.json) |
+| Tether Brawl | 266583 | [266583-tether-brawl.json](./266583-tether-brawl.json) |
 | Tethered | 25336 | [25336-tethered.json](./25336-tethered.json) |
 | Tethered: Deluxe Edition | 53715 | [53715-tethered-deluxe-edition.json](./53715-tethered-deluxe-edition.json) |
 | Tetherlure | 262143 | [262143-tetherlure.json](./262143-tetherlure.json) |
@@ -5064,6 +5067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thalassic Dice | 347776 | [347776-thalassic-dice.json](./347776-thalassic-dice.json) |
 | Thalassomania | 338295 | [338295-thalassomania.json](./338295-thalassomania.json) |
 | Thalassophobia | 189294 | [189294-thalassophobia.json](./189294-thalassophobia.json) |
+| Thalassophobia | 266576 | [266576-thalassophobia.json](./266576-thalassophobia.json) |
 | Thalassophobia | 303799 | [303799-thalassophobia.json](./303799-thalassophobia.json) |
 | Thalu: Dreamtime is Now | 113707 | [113707-thalu-dreamtime-is-now.json](./113707-thalu-dreamtime-is-now.json) |
 | Thamz in a Wheelchair | 268720 | [268720-thamz-in-a-wheelchair.json](./268720-thamz-in-a-wheelchair.json) |
@@ -14656,6 +14660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pitch | 345242 | [345242-the-pitch.json](./345242-the-pitch.json) |
 | The Pix | 101994 | [101994-the-pix.json](./101994-the-pix.json) |
 | The Pixel Boy's Adventures | 129946 | [129946-the-pixel-boys-adventures.json](./129946-the-pixel-boys-adventures.json) |
+| The Pixel Grotto | 266567 | [266567-the-pixel-grotto.json](./266567-the-pixel-grotto.json) |
 | The Pixel has You | 327198 | [327198-the-pixel-has-you.json](./327198-the-pixel-has-you.json) |
 | The Pixel Pulps Collection: Special Edition | 300750 | [300750-the-pixel-pulps-collection-special-edition.json](./300750-the-pixel-pulps-collection-special-edition.json) |
 | The Pixotron 49 | 352392 | [352392-the-pixotron-49.json](./352392-the-pixotron-49.json) |
@@ -19897,6 +19902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threat Vector | 328202 | [328202-threat-vector.json](./328202-threat-vector.json) |
 | ThreatGen: Red vs. Blue | 113812 | [113812-threatgen-red-vs-blue.json](./113812-threatgen-red-vs-blue.json) |
 | Three Alpha One Nine | 312133 | [312133-three-alpha-one-nine.json](./312133-three-alpha-one-nine.json) |
+| Three Blades Ranch | 266584 | [266584-three-blades-ranch.json](./266584-three-blades-ranch.json) |
 | Three Bosses | 174323 | [174323-three-bosses.json](./174323-three-bosses.json) |
 | Three Bulky Bears | 301865 | [301865-three-bulky-bears.json](./301865-three-bulky-bears.json) |
 | Three Cards to Midnight | 67830 | [67830-three-cards-to-midnight.json](./67830-three-cards-to-midnight.json) |
