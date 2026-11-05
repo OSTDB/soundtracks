@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valis Collection | 227682 | [227682-valis-collection.json](./227682-valis-collection.json) |
 | Valis II | 37608 | [37608-valis-ii.json](./37608-valis-ii.json) |
 | Valis III | 278313 | [278313-valis-iii.json](./278313-valis-iii.json) |
+| Valis III | 278811 | [278811-valis-iii.json](./278811-valis-iii.json) |
 | Valis III | 37607 | [37607-valis-iii.json](./37607-valis-iii.json) |
 | Valis IV | 278475 | [278475-valis-iv.json](./278475-valis-iv.json) |
 | Valis IV | 37603 | [37603-valis-iv.json](./37603-valis-iv.json) |
@@ -368,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valis: The Fantasm Soldier | 278478 | [278478-valis-the-fantasm-soldier.json](./278478-valis-the-fantasm-soldier.json) |
 | Valis: The Fantasm Soldier Collection II | 221583 | [221583-valis-the-fantasm-soldier-collection-ii.json](./221583-valis-the-fantasm-soldier-collection-ii.json) |
 | Valis: The Fantasm Soldier Collection III | 276457 | [276457-valis-the-fantasm-soldier-collection-iii.json](./276457-valis-the-fantasm-soldier-collection-iii.json) |
+| Valis: The Fantasm Soldier II | 278810 | [278810-valis-the-fantasm-soldier-ii.json](./278810-valis-the-fantasm-soldier-ii.json) |
 | Valist Leznalt | 206377 | [206377-valist-leznalt.json](./206377-valist-leznalt.json) |
 | Valkalim | 192983 | [192983-valkalim.json](./192983-valkalim.json) |
 | Valkeala Birds | 338577 | [338577-valkeala-birds.json](./338577-valkeala-birds.json) |
@@ -2908,6 +2910,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visual Novel Sisters | 167169 | [167169-visual-novel-sisters.json](./167169-visual-novel-sisters.json) |
 | Visual Novel: Call of Toilet | 397247 | [397247-visual-novel-call-of-toilet.json](./397247-visual-novel-call-of-toilet.json) |
 | Visual Pinball | 99113 | [99113-visual-pinball.json](./99113-visual-pinball.json) |
+| Visual Pinball VR | 278793 | [278793-visual-pinball-vr.json](./278793-visual-pinball-vr.json) |
+| Visual Pinball X | 278792 | [278792-visual-pinball-x.json](./278792-visual-pinball-x.json) |
 | Visual Quiz Kore Naanda? | 260698 | [260698-visual-quiz-kore-naanda.json](./260698-visual-quiz-kore-naanda.json) |
 | VisualHacker2D | 320015 | [320015-visualhacker2d.json](./320015-visualhacker2d.json) |
 | Visualizer | 80590 | [80590-visualizer.json](./80590-visualizer.json) |
