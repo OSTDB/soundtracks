@@ -2013,6 +2013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks & Planes Battle | 347003 | [347003-tanks-and-planes-battle.json](./347003-tanks-and-planes-battle.json) |
 | Tanks 2020 | 128217 | [128217-tanks-2020.json](./128217-tanks-2020.json) |
 | Tanks 3D | 328019 | [328019-tanks-3d.json](./328019-tanks-3d.json) |
+| Tanks a Lot | 281169 | [281169-tanks-a-lot.json](./281169-tanks-a-lot.json) |
 | Tanks A Lot | 71948 | [71948-tanks-a-lot.json](./71948-tanks-a-lot.json) |
 | Tanks and Turrets 3 | 247439 | [247439-tanks-and-turrets-3.json](./247439-tanks-and-turrets-3.json) |
 | Tanks Blitz | 352188 | [352188-tanks-blitz.json](./352188-tanks-blitz.json) |
@@ -4821,6 +4822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris | 221969 | [221969-tetris.json](./221969-tetris.json) |
 | Tetris | 270420 | [270420-tetris.json](./270420-tetris.json) |
 | Tetris | 280940 | [280940-tetris.json](./280940-tetris.json) |
+| Tetris | 281168 | [281168-tetris.json](./281168-tetris.json) |
 | Tetris | 283361 | [283361-tetris.json](./283361-tetris.json) |
 | Tetris | 287892 | [287892-tetris.json](./287892-tetris.json) |
 | Tetris | 310995 | [310995-tetris.json](./310995-tetris.json) |
@@ -8678,6 +8680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Enchanting Islands | 54441 | [54441-the-enchanting-islands.json](./54441-the-enchanting-islands.json) |
 | The Enclosure | 143910 | [143910-the-enclosure.json](./143910-the-enclosure.json) |
 | The Encounter | 264175 | [264175-the-encounter.json](./264175-the-encounter.json) |
+| The End | 281198 | [281198-the-end.json](./281198-the-end.json) |
 | The End | 329067 | [329067-the-end.json](./329067-the-end.json) |
 | The End | 38578 | [38578-the-end.json](./38578-the-end.json) |
 | The End Comes Tomorrow: Gamebook Edition | 399666 | [399666-the-end-comes-tomorrow-gamebook-edition.json](./399666-the-end-comes-tomorrow-gamebook-edition.json) |
@@ -24641,6 +24644,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonpuso | 37312 | [37312-tonpuso.json](./37312-tonpuso.json) |
 | Tons of Guns | 343845 | [343845-tons-of-guns.json](./343845-tons-of-guns.json) |
 | Tonsil Terror | 209945 | [209945-tonsil-terror.json](./209945-tonsil-terror.json) |
+| Tontie ver.0 | 281157 | [281157-tontie-ver-0.json](./281157-tontie-ver-0.json) |
+| Tontie ver.1 | 281158 | [281158-tontie-ver-1.json](./281158-tontie-ver-1.json) |
 | Tonto Run: Lone Ranger Edition | 239223 | [239223-tonto-run-lone-ranger-edition.json](./239223-tonto-run-lone-ranger-edition.json) |
 | Tony & Friends in Kellogg's Land | 58272 | [58272-tony-and-friends-in-kelloggs-land.json](./58272-tony-and-friends-in-kelloggs-land.json) |
 | Tony and Clyde | 172753 | [172753-tony-and-clyde.json](./172753-tony-and-clyde.json) |
@@ -25473,6 +25478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer III - Tides of Torment | 344664 | [344664-total-war-warhammer-iii-tides-of-torment.json](./344664-total-war-warhammer-iii-tides-of-torment.json) |
 | Total War: Warhammer III - Update 3.1 | 251222 | [251222-total-war-warhammer-iii-update-3-1.json](./251222-total-war-warhammer-iii-update-3-1.json) |
 | Total War: Warhammer Trilogy | 270579 | [270579-total-war-warhammer-trilogy.json](./270579-total-war-warhammer-trilogy.json) |
+| Total War! The Complete SSG Macintosh Wargame Collection | 281212 | [281212-total-war-the-complete-ssg-macintosh-wargame-collection.json](./281212-total-war-the-complete-ssg-macintosh-wargame-collection.json) |
 | Total World Liberation | 224607 | [224607-total-world-liberation.json](./224607-total-world-liberation.json) |
 | Total World War | 98171 | [98171-total-world-war.json](./98171-total-world-war.json) |
 | Total Zugzwang | 310145 | [310145-total-zugzwang.json](./310145-total-zugzwang.json) |
@@ -31884,6 +31890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtle's Quest | 106229 | [106229-turtles-quest.json](./106229-turtles-quest.json) |
 | TurtlePop: Journey to Freedom | 89568 | [89568-turtlepop-journey-to-freedom.json](./89568-turtlepop-journey-to-freedom.json) |
 | Turtles | 23686 | [23686-turtles.json](./23686-turtles.json) |
+| Turtles | 281200 | [281200-turtles.json](./281200-turtles.json) |
 | Turtles | 346135 | [346135-turtles.json](./346135-turtles.json) |
 | Turtles vs Zombies | 103841 | [103841-turtles-vs-zombies.json](./103841-turtles-vs-zombies.json) |
 | Turtles, Huh?: Learn to Fly | 253270 | [253270-turtles-huh-learn-to-fly.json](./253270-turtles-huh-learn-to-fly.json) |
