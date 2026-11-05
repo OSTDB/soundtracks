@@ -2717,6 +2717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unseen Diplomacy 2 | 347836 | [347836-unseen-diplomacy-2.json](./347836-unseen-diplomacy-2.json) |
 | Unseen Land: Into the Mist | 373054 | [373054-unseen-land-into-the-mist.json](./373054-unseen-land-into-the-mist.json) |
 | Unseen World: Magical Lense | 384290 | [384290-unseen-world-magical-lense.json](./384290-unseen-world-magical-lense.json) |
+| Unseen: 2002 | 292348 | [292348-unseen-2002.json](./292348-unseen-2002.json) |
 | Unsent | 343314 | [343314-unsent.json](./343314-unsent.json) |
 | Unsettled | 59244 | [59244-unsettled.json](./59244-unsettled.json) |
 | Unshaded | 167783 | [167783-unshaded.json](./167783-unshaded.json) |
