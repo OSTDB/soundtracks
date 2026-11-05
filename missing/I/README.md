@@ -4977,6 +4977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstellar Travel Package | 223552 | [223552-interstellar-travel-package.json](./223552-interstellar-travel-package.json) |
 | Interstellaria | 9044 | [9044-interstellaria.json](./9044-interstellaria.json) |
 | Interstice | 278263 | [278263-interstice.json](./278263-interstice.json) |
+| Interstice Academy: Love is Blind | 284735 | [284735-interstice-academy-love-is-blind.json](./284735-interstice-academy-love-is-blind.json) |
 | Intertwined | 177921 | [177921-intertwined.json](./177921-intertwined.json) |
 | Intertwined | 231570 | [231570-intertwined.json](./231570-intertwined.json) |
 | Intertwined | 397231 | [397231-intertwined.json](./397231-intertwined.json) |
