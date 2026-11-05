@@ -957,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5756,6 +5757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bee Welcome! | 291595 | [291595-bee-welcome.json](./291595-bee-welcome.json) |
 | Bee With Gun | 411149 | [411149-bee-with-gun.json](./411149-bee-with-gun.json) |
 | Bee-Ball | 40720 | [40720-bee-ball.json](./40720-bee-ball.json) |
+| Bee-Man | 251931 | [251931-bee-man.json](./251931-bee-man.json) |
 | Bee: Classic Edition | 134394 | [134394-bee-classic-edition.json](./134394-bee-classic-edition.json) |
 | Bee: The Knight | 202784 | [202784-bee-the-knight.json](./202784-bee-the-knight.json) |
 | Beebmunch | 15666 | [15666-beebmunch.json](./15666-beebmunch.json) |
@@ -8189,6 +8191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biphase | 148549 | [148549-biphase.json](./148549-biphase.json) |
 | BiPlane | 110885 | [110885-biplane.json](./110885-biplane.json) |
 | BiPlane 4 | 112890 | [112890-biplane-4.json](./112890-biplane-4.json) |
+| Biplane Baron 2: Flying Ace | 251892 | [251892-biplane-baron-2-flying-ace.json](./251892-biplane-baron-2-flying-ace.json) |
 | Biplane Racer | 116754 | [116754-biplane-racer.json](./116754-biplane-racer.json) |
 | Biplanes | 385124 | [385124-biplanes.json](./385124-biplanes.json) |
 | Bipo's Adventure | 183018 | [183018-bipos-adventure.json](./183018-bipos-adventure.json) |
@@ -12691,6 +12694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonnie's Bakery | 219034 | [219034-bonnies-bakery.json](./219034-bonnies-bakery.json) |
 | Bonnie's Bookstore | 248604 | [248604-bonnies-bookstore.json](./248604-bonnies-bookstore.json) |
 | Bonnie's Bookstore | 3757 | [3757-bonnies-bookstore.json](./3757-bonnies-bookstore.json) |
+| Bonobros | 251900 | [251900-bonobros.json](./251900-bonobros.json) |
 | Bonoru Adventures | 303360 | [303360-bonoru-adventures.json](./303360-bonoru-adventures.json) |
 | Bonsai | 33529 | [33529-bonsai.json](./33529-bonsai.json) |
 | Bonsai Blast | 65235 | [65235-bonsai-blast.json](./65235-bonsai-blast.json) |
