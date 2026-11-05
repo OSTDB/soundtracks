@@ -9997,6 +9997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshigari Empusa! | 268646 | [268646-hoshigari-empusa.json](./268646-hoshigari-empusa.json) |
 | Hoshiiro no Okurimono | 218376 | [218376-hoshiiro-no-okurimono.json](./218376-hoshiiro-no-okurimono.json) |
 | Hoshiiro no Okurimono Portable | 218377 | [218377-hoshiiro-no-okurimono-portable.json](./218377-hoshiiro-no-okurimono-portable.json) |
+| Hoshikage no Yakata Satsujin Jiken | 295062 | [295062-hoshikage-no-yakata-satsujin-jiken.json](./295062-hoshikage-no-yakata-satsujin-jiken.json) |
 | Hoshimago | 236341 | [236341-hoshimago.json](./236341-hoshimago.json) |
 | Hoshin Engi Re:surrection | 417189 | [417189-hoshin-engi-re-surrection.json](./417189-hoshin-engi-re-surrection.json) |
 | Hoshiomio | 399425 | [399425-hoshiomio.json](./399425-hoshiomio.json) |
@@ -11769,6 +11770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hurm's Odyssey | 341708 | [341708-hurms-odyssey.json](./341708-hurms-odyssey.json) |
 | Hurrican | 94360 | [94360-hurrican.json](./94360-hurrican.json) |
 | Hurricane | 25928 | [25928-hurricane.json](./25928-hurricane.json) |
+| Hurricane | 294984 | [294984-hurricane.json](./294984-hurricane.json) |
 | Hurricane Abyss | 305679 | [305679-hurricane-abyss.json](./305679-hurricane-abyss.json) |
 | Hurricane chase | 120775 | [120775-hurricane-chase.json](./120775-hurricane-chase.json) |
 | Hurricane Heroes | 369684 | [369684-hurricane-heroes.json](./369684-hurricane-heroes.json) |
