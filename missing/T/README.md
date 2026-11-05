@@ -1736,6 +1736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Táng Chuánqí: Shàng Yuáncháng Gān Xíng | 373703 | [373703-tang-chuanqi-shang-yuanchang-gan-xing.json](./373703-tang-chuanqi-shang-yuanchang-gan-xing.json) |
 | Tang Dynasty Architecture | 275341 | [275341-tang-dynasty-architecture.json](./275341-tang-dynasty-architecture.json) |
 | Tang's Starfish Rescue | 91237 | [91237-tangs-starfish-rescue.json](./91237-tangs-starfish-rescue.json) |
+| Tangaria | 285284 | [285284-tangaria.json](./285284-tangaria.json) |
 | Tángdì zhī Huá | 394820 | [394820-tangdi-zhi-hua.json](./394820-tangdi-zhi-hua.json) |
 | Tangent | 377865 | [377865-tangent.json](./377865-tangent.json) |
 | Tangent | 92813 | [92813-tangent.json](./92813-tangent.json) |
@@ -9525,6 +9526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forsaken Ruins | 157911 | [157911-the-forsaken-ruins.json](./157911-the-forsaken-ruins.json) |
 | The Forsaken Tomb | 384820 | [384820-the-forsaken-tomb.json](./384820-the-forsaken-tomb.json) |
 | The Fortress | 346730 | [346730-the-fortress.json](./346730-the-fortress.json) |
+| The Fortress of Doom | 285260 | [285260-the-fortress-of-doom.json](./285260-the-fortress-of-doom.json) |
 | The Fortress of Varnolis | 176114 | [176114-the-fortress-of-varnolis.json](./176114-the-fortress-of-varnolis.json) |
 | The Fortune Teller Game | 342178 | [342178-the-fortune-teller-game.json](./342178-the-fortune-teller-game.json) |
 | The Found Magic | 386426 | [386426-the-found-magic.json](./386426-the-found-magic.json) |
@@ -18006,6 +18008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Variant Void | 419330 | [419330-the-variant-void.json](./419330-the-variant-void.json) |
 | THE Variety Game Daishugo: Kingyo Sukui, Card, Suji Puzzle, Nikakudori | 136833 | [136833-the-variety-game-daishugo-kingyo-sukui-card-suji-puzzle-nikakudori.json](./136833-the-variety-game-daishugo-kingyo-sukui-card-suji-puzzle-nikakudori.json) |
 | The Vasa Fasa | 410011 | [410011-the-vasa-fasa.json](./410011-the-vasa-fasa.json) |
+| The Vast Silence | 285264 | [285264-the-vast-silence.json](./285264-the-vast-silence.json) |
 | The Vast White | 325511 | [325511-the-vast-white.json](./325511-the-vast-white.json) |
 | The Vault | 295247 | [295247-the-vault.json](./295247-the-vault.json) |
 | The Vault | 97331 | [97331-the-vault.json](./97331-the-vault.json) |
@@ -25962,6 +25965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Spell Carnival: Limited Edition | 322383 | [322383-touhou-spell-carnival-limited-edition.json](./322383-touhou-spell-carnival-limited-edition.json) |
 | Touhou Spirits | 306041 | [306041-touhou-spirits.json](./306041-touhou-spirits.json) |
 | Touhou Suijin Kairou: Faith in the Goddess of Suwa. | 114095 | [114095-touhou-suijin-kairou-faith-in-the-goddess-of-suwa.json](./114095-touhou-suijin-kairou-faith-in-the-goddess-of-suwa.json) |
+| Touhou Tenkarou: Frantically Forbidden Fruit | 285176 | [285176-touhou-tenkarou-frantically-forbidden-fruit.json](./285176-touhou-tenkarou-frantically-forbidden-fruit.json) |
 | Touhou Tenkuushou: Hidden Star in Four Seasons | 75385 | [75385-touhou-tenkuushou-hidden-star-in-four-seasons.json](./75385-touhou-tenkuushou-hidden-star-in-four-seasons.json) |
 | Touhou Tenshiin: Celestial Examination Hall | 335571 | [335571-touhou-tenshiin-celestial-examination-hall.json](./335571-touhou-tenshiin-celestial-examination-hall.json) |
 | Touhou The Excalibur: Mystic Arena of Reversal Spirits | 314066 | [314066-touhou-the-excalibur-mystic-arena-of-reversal-spirits.json](./314066-touhou-the-excalibur-mystic-arena-of-reversal-spirits.json) |
