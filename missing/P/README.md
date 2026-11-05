@@ -4516,8 +4516,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 3 Illust Puzzle | 289391 | [289391-persona-3-illust-puzzle.json](./289391-persona-3-illust-puzzle.json) |
 | Persona 3 Portable | 11416 | [11416-persona-3-portable.json](./11416-persona-3-portable.json) |
 | Persona 3 Portable & Persona 4 Golden Bundle | 231247 | [231247-persona-3-portable-and-persona-4-golden-bundle.json](./231247-persona-3-portable-and-persona-4-golden-bundle.json) |
+| Persona 3 Portable: Grimoire Edition | 268782 | [268782-persona-3-portable-grimoire-edition.json](./268782-persona-3-portable-grimoire-edition.json) |
 | Persona 3 Portable: Kotone Cutscenes Project - PSP Version | 313996 | [313996-persona-3-portable-kotone-cutscenes-project-psp-version.json](./313996-persona-3-portable-kotone-cutscenes-project-psp-version.json) |
 | Persona 3 Portable: Kotone Cutscenes Project - Steam Version | 313978 | [313978-persona-3-portable-kotone-cutscenes-project-steam-version.json](./313978-persona-3-portable-kotone-cutscenes-project-steam-version.json) |
+| Persona 3 Portable: S.E.E.S Edition | 268783 | [268783-persona-3-portable-s-e-e-s-edition.json](./268783-persona-3-portable-s-e-e-s-edition.json) |
 | Persona 3 Reload | 252647 | [252647-persona-3-reload.json](./252647-persona-3-reload.json) |
 | Persona 3 Reload: Aigis Edition | 262640 | [262640-persona-3-reload-aigis-edition.json](./262640-persona-3-reload-aigis-edition.json) |
 | Persona 3 Reload: Digital Deluxe Edition | 262642 | [262642-persona-3-reload-digital-deluxe-edition.json](./262642-persona-3-reload-digital-deluxe-edition.json) |
@@ -4746,6 +4748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Run/Stop | 287456 | [287456-pet-run-stop.json](./287456-pet-run-stop.json) |
 | Pet Salon: Hair Spa,Makeover,Facial,Makeup & Dressup | 95566 | [95566-pet-salon-hair-spa-makeover-facial-makeup-and-dressup.json](./95566-pet-salon-hair-spa-makeover-facial-makeup-and-dressup.json) |
 | Pet Sanctuary | 249052 | [249052-pet-sanctuary.json](./249052-pet-sanctuary.json) |
+| Pet Shelter Hero | 268826 | [268826-pet-shelter-hero.json](./268826-pet-shelter-hero.json) |
 | Pet Shop Hop | 208863 | [208863-pet-shop-hop.json](./208863-pet-shop-hop.json) |
 | Pet Shop Monogatari DS 2 | 259490 | [259490-pet-shop-monogatari-ds-2.json](./259490-pet-shop-monogatari-ds-2.json) |
 | Pet Shop Simulator | 248906 | [248906-pet-shop-simulator.json](./248906-pet-shop-simulator.json) |
@@ -5885,6 +5888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pickleball | 328176 | [328176-pickleball.json](./328176-pickleball.json) |
 | Pickleball One | 272337 | [272337-pickleball-one.json](./272337-pickleball-one.json) |
 | Pickleball Smash | 270160 | [270160-pickleball-smash.json](./270160-pickleball-smash.json) |
+| Pickles | 268807 | [268807-pickles.json](./268807-pickles.json) |
 | Picklock | 133098 | [133098-picklock.json](./133098-picklock.json) |
 | Pickmos | 395697 | [395697-pickmos.json](./395697-pickmos.json) |
 | Pickochet | 388959 | [388959-pickochet.json](./388959-pickochet.json) |
@@ -8715,6 +8719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Nostra | 171527 | [171527-pizza-nostra.json](./171527-pizza-nostra.json) |
 | Pizza Now! | 420178 | [420178-pizza-now.json](./420178-pizza-now.json) |
 | Pizza of the Gods | 390343 | [390343-pizza-of-the-gods.json](./390343-pizza-of-the-gods.json) |
+| Pizza Panda | 268797 | [268797-pizza-panda.json](./268797-pizza-panda.json) |
 | Pizza Panic | 70202 | [70202-pizza-panic.json](./70202-pizza-panic.json) |
 | Pizza Panic! | 393469 | [393469-pizza-panic.json](./393469-pizza-panic.json) |
 | Pizza Parking | 115057 | [115057-pizza-parking.json](./115057-pizza-parking.json) |
