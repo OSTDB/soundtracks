@@ -6369,6 +6369,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European Champions | 79743 | [79743-european-champions.json](./79743-european-champions.json) |
 | European Championship 1992 | 70102 | [70102-european-championship-1992.json](./70102-european-championship-1992.json) |
 | European Conqueror 3D | 85126 | [85126-european-conqueror-3d.json](./85126-european-conqueror-3d.json) |
+| European Expansion + Oceania Expansion | 276550 | [276550-european-expansion-oceania-expansion.json](./276550-european-expansion-oceania-expansion.json) |
+| European Expansion + Oceania Expansion + Seasonal Decorative Pack | 276551 | [276551-european-expansion-oceania-expansion-seasonal-decorative-pack.json](./276551-european-expansion-oceania-expansion-seasonal-decorative-pack.json) |
 | European Fishing | 10287 | [10287-european-fishing.json](./10287-european-fishing.json) |
 | European Football Champ | 39672 | [39672-european-football-champ.json](./39672-european-football-champ.json) |
 | European Football Champ | 42573 | [42573-european-football-champ.json](./42573-european-football-champ.json) |
