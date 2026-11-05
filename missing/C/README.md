@@ -6943,6 +6943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Blaster | 408395 | [408395-chicken-blaster.json](./408395-chicken-blaster.json) |
 | Chicken Bomb | 137595 | [137595-chicken-bomb.json](./137595-chicken-bomb.json) |
 | Chicken Boy's Counterattack | 291488 | [291488-chicken-boys-counterattack.json](./291488-chicken-boys-counterattack.json) |
+| Chicken Brother | 253648 | [253648-chicken-brother.json](./253648-chicken-brother.json) |
 | Chicken Butt | 183702 | [183702-chicken-butt.json](./183702-chicken-butt.json) |
 | Chicken Cannon! | 165120 | [165120-chicken-cannon.json](./165120-chicken-cannon.json) |
 | Chicken Cha Cha Cha | 174236 | [174236-chicken-cha-cha-cha.json](./174236-chicken-cha-cha-cha.json) |
@@ -8273,8 +8274,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Cross | 1804 | [1804-chrono-cross.json](./1804-chrono-cross.json) |
 | Chrono Cross | 335488 | [335488-chrono-cross.json](./335488-chrono-cross.json) |
 | Chrono Crystal | 247916 | [247916-chrono-crystal.json](./247916-chrono-crystal.json) |
+| Chrono Crystal: Archie | 253665 | [253665-chrono-crystal-archie.json](./253665-chrono-crystal-archie.json) |
 | Chrono Crystal: Factory DLC | 253497 | [253497-chrono-crystal-factory-dlc.json](./253497-chrono-crystal-factory-dlc.json) |
 | Chrono Crystal: Giant Gate DLC | 253386 | [253386-chrono-crystal-giant-gate-dlc.json](./253386-chrono-crystal-giant-gate-dlc.json) |
+| Chrono Crystal: Hubert | 253664 | [253664-chrono-crystal-hubert.json](./253664-chrono-crystal-hubert.json) |
 | Chrono Gear: Warden of Time | 328907 | [328907-chrono-gear-warden-of-time.json](./328907-chrono-gear-warden-of-time.json) |
 | Chrono Ghost | 113417 | [113417-chrono-ghost.json](./113417-chrono-ghost.json) |
 | Chrono Hunter | 253190 | [253190-chrono-hunter.json](./253190-chrono-hunter.json) |
@@ -8697,6 +8700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle Empires Rivals | 124215 | [124215-circle-empires-rivals.json](./124215-circle-empires-rivals.json) |
 | Circle Empires Rivals: Forces of Nature | 171520 | [171520-circle-empires-rivals-forces-of-nature.json](./171520-circle-empires-rivals-forces-of-nature.json) |
 | Circle Empires Tactics | 145295 | [145295-circle-empires-tactics.json](./145295-circle-empires-tactics.json) |
+| Circle Killer | 253653 | [253653-circle-killer.json](./253653-circle-killer.json) |
 | Circle of Blood | 616 | [616-circle-of-blood.json](./616-circle-of-blood.json) |
 | Circle of Bosses | 373052 | [373052-circle-of-bosses.json](./373052-circle-of-bosses.json) |
 | Circle of Caina SP | 257151 | [257151-circle-of-caina-sp.json](./257151-circle-of-caina-sp.json) |
