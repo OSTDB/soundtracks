@@ -654,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halliwell's Garden | 359347 | [359347-halliwells-garden.json](./359347-halliwells-garden.json) |
 | Hallo Spaceboy | 102217 | [102217-hallo-spaceboy.json](./102217-hallo-spaceboy.json) |
 | Hallow Eve | 222842 | [222842-hallow-eve.json](./222842-hallow-eve.json) |
+| Hallow Hunt | 273709 | [273709-hallow-hunt.json](./273709-hallow-hunt.json) |
 | Hallow Maze | 336525 | [336525-hallow-maze.json](./336525-hallow-maze.json) |
 | Hallow's End | 222824 | [222824-hallows-end.json](./222824-hallows-end.json) |
 | Hallowanderband | 312762 | [312762-hallowanderband.json](./312762-hallowanderband.json) |
@@ -6172,6 +6173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heros Fight Battle royal | 272273 | [272273-heros-fight-battle-royal.json](./272273-heros-fight-battle-royal.json) |
 | Heros Survival | 304898 | [304898-heros-survival.json](./304898-heros-survival.json) |
 | Heros: The Sanguine Seven | 140621 | [140621-heros-the-sanguine-seven.json](./140621-heros-the-sanguine-seven.json) |
+| Herosbine: The Unknown Island | 273619 | [273619-herosbine-the-unknown-island.json](./273619-herosbine-the-unknown-island.json) |
 | HeroSmash | 277160 | [277160-herosmash.json](./277160-herosmash.json) |
 | HeroSquare | 251773 | [251773-herosquare.json](./251773-herosquare.json) |
 | HeroStory | 289273 | [289273-herostory.json](./289273-herostory.json) |
@@ -8230,6 +8232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitting | 287525 | [287525-hitting.json](./287525-hitting.json) |
 | Hitting Balls | 295755 | [295755-hitting-balls.json](./295755-hitting-balls.json) |
 | Hitting Mices | 212730 | [212730-hitting-mices.json](./212730-hitting-mices.json) |
+| HitTone | 273676 | [273676-hittone.json](./273676-hittone.json) |
 | HitTube | 323426 | [323426-hittube.json](./323426-hittube.json) |
 | Hituzibuster | 229371 | [229371-hituzibuster.json](./229371-hituzibuster.json) |
 | Hivaneph: The Legend of Elles | 335372 | [335372-hivaneph-the-legend-of-elles.json](./335372-hivaneph-the-legend-of-elles.json) |
@@ -10123,6 +10126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hostile Makeover | 10416 | [10416-hostile-makeover.json](./10416-hostile-makeover.json) |
 | Hostile Mars | 151031 | [151031-hostile-mars.json](./151031-hostile-mars.json) |
 | Hostile Paths | 419770 | [419770-hostile-paths.json](./419770-hostile-paths.json) |
+| Hostile Skies | 273687 | [273687-hostile-skies.json](./273687-hostile-skies.json) |
 | Hostile Space Revived | 97973 | [97973-hostile-space-revived.json](./97973-hostile-space-revived.json) |
 | Hostile Takeover | 143533 | [143533-hostile-takeover.json](./143533-hostile-takeover.json) |
 | Hostile Takeover | 182754 | [182754-hostile-takeover.json](./182754-hostile-takeover.json) |
