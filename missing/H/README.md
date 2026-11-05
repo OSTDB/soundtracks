@@ -3352,6 +3352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts in Sirence | 298972 | [298972-hearts-in-sirence.json](./298972-hearts-in-sirence.json) |
 | Hearts Like Clockwork | 184331 | [184331-hearts-like-clockwork.json](./184331-hearts-like-clockwork.json) |
 | Hearts Lite | 91330 | [91330-hearts-lite.json](./91330-hearts-lite.json) |
+| Hearts N Bones | 290662 | [290662-hearts-n-bones.json](./290662-hearts-n-bones.json) |
 | Hearts of Chaos | 30492 | [30492-hearts-of-chaos.json](./30492-hearts-of-chaos.json) |
 | Hearts of Demons: Baron | 196029 | [196029-hearts-of-demons-baron.json](./196029-hearts-of-demons-baron.json) |
 | Hearts of Iron | 22227 | [22227-hearts-of-iron.json](./22227-hearts-of-iron.json) |
@@ -6623,6 +6624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Capybaras with Orange | 279502 | [279502-hidden-capybaras-with-orange.json](./279502-hidden-capybaras-with-orange.json) |
 | Hidden Capybaras with Orange and Pumpkins: Spooky Halloween Edition | 320320 | [320320-hidden-capybaras-with-orange-and-pumpkins-spooky-halloween-edition.json](./320320-hidden-capybaras-with-orange-and-pumpkins-spooky-halloween-edition.json) |
 | Hidden Capybaras with Orange in the Whimsical Library | 321138 | [321138-hidden-capybaras-with-orange-in-the-whimsical-library.json](./321138-hidden-capybaras-with-orange-in-the-whimsical-library.json) |
+| Hidden Castle Top-Down 3D | 290761 | [290761-hidden-castle-top-down-3d.json](./290761-hidden-castle-top-down-3d.json) |
 | Hidden Cat Outlaws | 291414 | [291414-hidden-cat-outlaws.json](./291414-hidden-cat-outlaws.json) |
 | Hidden Cats | 183564 | [183564-hidden-cats.json](./183564-hidden-cats.json) |
 | Hidden Cats In Amusement Park | 263791 | [263791-hidden-cats-in-amusement-park.json](./263791-hidden-cats-in-amusement-park.json) |
@@ -11242,6 +11244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Defense | 22274 | [22274-human-defense.json](./22274-human-defense.json) |
 | Human Delusion | 128224 | [128224-human-delusion.json](./128224-human-delusion.json) |
 | Human Diaspora | 142253 | [142253-human-diaspora.json](./142253-human-diaspora.json) |
+| Human Eater Idle | 290750 | [290750-human-eater-idle.json](./290750-human-eater-idle.json) |
 | Human Electric Company | 347024 | [347024-human-electric-company.json](./347024-human-electric-company.json) |
 | Human Element | 1938 | [1938-human-element.json](./1938-human-element.json) |
 | Human Error | 217001 | [217001-human-error.json](./217001-human-error.json) |
