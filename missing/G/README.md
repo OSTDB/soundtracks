@@ -1407,6 +1407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game.exe | 142467 | [142467-game-exe.json](./142467-game-exe.json) |
 | Game.exe | 153144 | [153144-game-exe.json](./153144-game-exe.json) |
 | Game.exe 2: Phantom Strike | 390382 | [390382-game-exe-2-phantom-strike.json](./390382-game-exe-2-phantom-strike.json) |
+| Gamebesh | 275387 | [275387-gamebesh.json](./275387-gamebesh.json) |
 | Gamebook Adventures 10: Lords of Nurroth | 175166 | [175166-gamebook-adventures-10-lords-of-nurroth.json](./175166-gamebook-adventures-10-lords-of-nurroth.json) |
 | Gamebook Adventures 2: The Siege of the Necromancer | 64762 | [64762-gamebook-adventures-2-the-siege-of-the-necromancer.json](./64762-gamebook-adventures-2-the-siege-of-the-necromancer.json) |
 | Gamebook Adventures 3: Slaves of Rema | 64767 | [64767-gamebook-adventures-3-slaves-of-rema.json](./64767-gamebook-adventures-3-slaves-of-rema.json) |
@@ -9030,6 +9031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gridlock Gladiators | 264675 | [264675-gridlock-gladiators.json](./264675-gridlock-gladiators.json) |
 | Gridlocke | 236791 | [236791-gridlocke.json](./236791-gridlocke.json) |
 | Gridlords | 395075 | [395075-gridlords.json](./395075-gridlords.json) |
+| Gridmaster | 275364 | [275364-gridmaster.json](./275364-gridmaster.json) |
 | GridMath | 151020 | [151020-gridmath.json](./151020-gridmath.json) |
 | Gridmount | 328954 | [328954-gridmount.json](./328954-gridmount.json) |
 | Gridnova | 417794 | [417794-gridnova.json](./417794-gridnova.json) |
