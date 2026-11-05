@@ -5451,6 +5451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Adventures | 219676 | [219676-math-adventures.json](./219676-math-adventures.json) |
 | Math and Letters Air Control | 197778 | [197778-math-and-letters-air-control.json](./197778-math-and-letters-air-control.json) |
 | Math and Sorcery | 106946 | [106946-math-and-sorcery.json](./106946-math-and-sorcery.json) |
+| Math Ascension | 252527 | [252527-math-ascension.json](./252527-math-ascension.json) |
 | Math Attack | 367509 | [367509-math-attack.json](./367509-math-attack.json) |
 | Math Balance: Pre-algebra game for kids | 97141 | [97141-math-balance-pre-algebra-game-for-kids.json](./97141-math-balance-pre-algebra-game-for-kids.json) |
 | Math Baseball | 230437 | [230437-math-baseball.json](./230437-math-baseball.json) |
