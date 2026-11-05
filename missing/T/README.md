@@ -1530,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking Cactus | 358423 | [358423-talking-cactus.json](./358423-talking-cactus.json) |
 | Talking Caillou | 325678 | [325678-talking-caillou.json](./325678-talking-caillou.json) |
 | Talking Carl | 373242 | [373242-talking-carl.json](./373242-talking-carl.json) |
+| Talking Cat Emma Ballerina | 250138 | [250138-talking-cat-emma-ballerina.json](./250138-talking-cat-emma-ballerina.json) |
 | Talking Ghostbusters II | 218434 | [218434-talking-ghostbusters-ii.json](./218434-talking-ghostbusters-ii.json) |
 | Talking Gina | 214350 | [214350-talking-gina.json](./214350-talking-gina.json) |
 | Talking Ginger | 326529 | [326529-talking-ginger.json](./326529-talking-ginger.json) |
@@ -9813,6 +9814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gate 2 | 221912 | [221912-the-gate-2.json](./221912-the-gate-2.json) |
 | The Gate Must Stand | 370107 | [370107-the-gate-must-stand.json](./370107-the-gate-must-stand.json) |
 | The Gate of Front: Monster Auction | 405290 | [405290-the-gate-of-front-monster-auction.json](./405290-the-gate-of-front-monster-auction.json) |
+| The Gate of The Good | 250089 | [250089-the-gate-of-the-good.json](./250089-the-gate-of-the-good.json) |
 | The Gatekeeper of Scarlet's Mansion | 348237 | [348237-the-gatekeeper-of-scarlets-mansion.json](./348237-the-gatekeeper-of-scarlets-mansion.json) |
 | The Gates of Ursa | 221491 | [221491-the-gates-of-ursa.json](./221491-the-gates-of-ursa.json) |
 | The Gateway Persona | 177890 | [177890-the-gateway-persona.json](./177890-the-gateway-persona.json) |
@@ -13272,6 +13274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magical Girl Childhood Friend Lives Next Door | 411779 | [411779-the-magical-girl-childhood-friend-lives-next-door.json](./411779-the-magical-girl-childhood-friend-lives-next-door.json) |
 | The Magical Girl Childhood Friend Lives Next Door: After Story | 418410 | [418410-the-magical-girl-childhood-friend-lives-next-door-after-story.json](./418410-the-magical-girl-childhood-friend-lives-next-door-after-story.json) |
 | The Magical Land of Canada | 240711 | [240711-the-magical-land-of-canada.json](./240711-the-magical-land-of-canada.json) |
+| The Magical Lands | 250088 | [250088-the-magical-lands.json](./250088-the-magical-lands.json) |
 | The Magical Mixture Mill | 226596 | [226596-the-magical-mixture-mill.json](./226596-the-magical-mixture-mill.json) |
 | The Magical Quest of Molly the Marble | 403802 | [403802-the-magical-quest-of-molly-the-marble.json](./403802-the-magical-quest-of-molly-the-marble.json) |
 | The Magical Quest Starring Mickey Mouse | 6379 | [6379-the-magical-quest-starring-mickey-mouse.json](./6379-the-magical-quest-starring-mickey-mouse.json) |
@@ -14724,6 +14727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pixel Pulps Collection | 256624 | [256624-the-pixel-pulps-collection.json](./256624-the-pixel-pulps-collection.json) |
 | The Pixel Pulps Collection: Special Edition | 300750 | [300750-the-pixel-pulps-collection-special-edition.json](./300750-the-pixel-pulps-collection-special-edition.json) |
 | The Pixotron 49 | 352392 | [352392-the-pixotron-49.json](./352392-the-pixotron-49.json) |
+| The Pizza | 250122 | [250122-the-pizza.json](./250122-the-pizza.json) |
 | The Pizza Courier | 215733 | [215733-the-pizza-courier.json](./215733-the-pizza-courier.json) |
 | The Pizza Delivery Boy Who Saved the World | 100595 | [100595-the-pizza-delivery-boy-who-saved-the-world.json](./100595-the-pizza-delivery-boy-who-saved-the-world.json) |
 | The Pizza Situation | 140783 | [140783-the-pizza-situation.json](./140783-the-pizza-situation.json) |
