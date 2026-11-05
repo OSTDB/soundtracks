@@ -4606,6 +4606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equan the Watchful Guardian | 251997 | [251997-equan-the-watchful-guardian.json](./251997-equan-the-watchful-guardian.json) |
 | Equations | 44352 | [44352-equations.json](./44352-equations.json) |
 | Equestria | 128563 | [128563-equestria.json](./128563-equestria.json) |
+| Equestria at War | 285300 | [285300-equestria-at-war.json](./285300-equestria-at-war.json) |
 | EquestriaBound: Return of the Nightmare | 205642 | [205642-equestriabound-return-of-the-nightmare.json](./205642-equestriabound-return-of-the-nightmare.json) |
 | Equestrian Showcase | 45081 | [45081-equestrian-showcase.json](./45081-equestrian-showcase.json) |
 | Equestrian Simulator: Saddle Royale | 137576 | [137576-equestrian-simulator-saddle-royale.json](./137576-equestrian-simulator-saddle-royale.json) |
@@ -7736,6 +7737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expert Chess | 93361 | [93361-expert-chess.json](./93361-expert-chess.json) |
 | Expert Laser Man | 120879 | [120879-expert-laser-man.json](./120879-expert-laser-man.json) |
 | Expert on Domestication | 152850 | [152850-expert-on-domestication.json](./152850-expert-on-domestication.json) |
+| Expert Puzzles & Mazes | 285257 | [285257-expert-puzzles-and-mazes.json](./285257-expert-puzzles-and-mazes.json) |
 | Expest | 265611 | [265611-expest.json](./265611-expest.json) |
 | Exphelius: Arena | 126847 | [126847-exphelius-arena.json](./126847-exphelius-arena.json) |
 | Exphysia | 292218 | [292218-exphysia.json](./292218-exphysia.json) |
