@@ -1252,6 +1252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Research 2 | 296750 | [296750-magic-research-2.json](./296750-magic-research-2.json) |
 | Magic Revenge: Casual Idle RPG | 180234 | [180234-magic-revenge-casual-idle-rpg.json](./180234-magic-revenge-casual-idle-rpg.json) |
 | Magic Ring | 168538 | [168538-magic-ring.json](./168538-magic-ring.json) |
+| Magic Ring | 290130 | [290130-magic-ring.json](./290130-magic-ring.json) |
 | Magic River | 348716 | [348716-magic-river.json](./348716-magic-river.json) |
 | Magic Rufus | 93437 | [93437-magic-rufus.json](./93437-magic-rufus.json) |
 | Magic Rune Stone | 333367 | [333367-magic-rune-stone.json](./333367-magic-rune-stone.json) |
@@ -1328,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Twins | 132244 | [132244-magic-twins.json](./132244-magic-twins.json) |
 | Magic Twist: Music Tiles Game | 95804 | [95804-magic-twist-music-tiles-game.json](./95804-magic-twist-music-tiles-game.json) |
 | Magic Unfolding | 385356 | [385356-magic-unfolding.json](./385356-magic-unfolding.json) |
+| Magic University | 290214 | [290214-magic-university.json](./290214-magic-university.json) |
 | Magic Valley Hike | 342427 | [342427-magic-valley-hike.json](./342427-magic-valley-hike.json) |
 | Magic Venue | 303647 | [303647-magic-venue.json](./303647-magic-venue.json) |
 | Magic Vigilante | 241772 | [241772-magic-vigilante.json](./241772-magic-vigilante.json) |
@@ -5760,7 +5762,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9954,6 +9955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid: Genesis | 323757 | [323757-metroid-genesis.json](./323757-metroid-genesis.json) |
 | Metroid: HD | 310611 | [310611-metroid-hd.json](./310611-metroid-hd.json) |
 | Metroid: Juicy Mission | 283383 | [283383-metroid-juicy-mission.json](./283383-metroid-juicy-mission.json) |
+| Metroid: Juicy Mission Lite | 290232 | [290232-metroid-juicy-mission-lite.json](./290232-metroid-juicy-mission-lite.json) |
 | Metroid: Lost Chozo | 213152 | [213152-metroid-lost-chozo.json](./213152-metroid-lost-chozo.json) |
 | Metroid: Origins | 224478 | [224478-metroid-origins.json](./224478-metroid-origins.json) |
 | Metroid: Other M | 1113 | [1113-metroid-other-m.json](./1113-metroid-other-m.json) |
@@ -9962,6 +9964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid: Return to Zebes | 360125 | [360125-metroid-return-to-zebes.json](./360125-metroid-return-to-zebes.json) |
 | Metroid: Ripped Worlds | 288647 | [288647-metroid-ripped-worlds.json](./288647-metroid-ripped-worlds.json) |
 | Metroid: Rogue Dawn | 65036 | [65036-metroid-rogue-dawn.json](./65036-metroid-rogue-dawn.json) |
+| Metroid: Salt Mission | 290229 | [290229-metroid-salt-mission.json](./290229-metroid-salt-mission.json) |
 | Metroid: Samus Returns | 37140 | [37140-metroid-samus-returns.json](./37140-metroid-samus-returns.json) |
 | Metroid: Samus Returns - Special Edition | 136292 | [136292-metroid-samus-returns-special-edition.json](./136292-metroid-samus-returns-special-edition.json) |
 | Metroid: Scrolls 6 | 213151 | [213151-metroid-scrolls-6.json](./213151-metroid-scrolls-6.json) |
@@ -13263,6 +13266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miskatonic | 389973 | [389973-miskatonic.json](./389973-miskatonic.json) |
 | Miskatonic Diaries | 201631 | [201631-miskatonic-diaries.json](./201631-miskatonic-diaries.json) |
 | Miskatonic University | 258007 | [258007-miskatonic-university.json](./258007-miskatonic-university.json) |
+| Misled Madness | 290217 | [290217-misled-madness.json](./290217-misled-madness.json) |
 | Misled Puzzled | 185373 | [185373-misled-puzzled.json](./185373-misled-puzzled.json) |
 | Mislight | 224411 | [224411-mislight.json](./224411-mislight.json) |
 | Miso Nikki | 166586 | [166586-miso-nikki.json](./166586-miso-nikki.json) |
