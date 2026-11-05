@@ -1352,6 +1352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eel Game | 361295 | [361295-eel-game.json](./361295-eel-game.json) |
 | Eel on Mask | 392752 | [392752-eel-on-mask.json](./392752-eel-on-mask.json) |
 | Eelah | 190893 | [190893-eelah.json](./190893-eelah.json) |
+| Eelbay | 259326 | [259326-eelbay.json](./259326-eelbay.json) |
 | Een Wonderlijk Avontuur met Pardoes de Tovernar | 242643 | [242643-een-wonderlijk-avontuur-met-pardoes-de-tovernar.json](./242643-een-wonderlijk-avontuur-met-pardoes-de-tovernar.json) |
 | EeOneGuy Adventure | 32637 | [32637-eeoneguy-adventure.json](./32637-eeoneguy-adventure.json) |
 | EEP 12 | 405305 | [405305-eep-12.json](./405305-eep-12.json) |
@@ -6831,6 +6832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverWing | 56924 | [56924-everwing.json](./56924-everwing.json) |
 | EverWorld | 163774 | [163774-everworld.json](./163774-everworld.json) |
 | Everworld Island | 62039 | [62039-everworld-island.json](./62039-everworld-island.json) |
+| Every 10 Seconds I Find New and Exciting Ways to Hate Myself | 259366 | [259366-every-10-seconds-i-find-new-and-exciting-ways-to-hate-myself.json](./259366-every-10-seconds-i-find-new-and-exciting-ways-to-hate-myself.json) |
 | Every 5x5 Nonogram | 346905 | [346905-every-5x5-nonogram.json](./346905-every-5x5-nonogram.json) |
 | Every Child Can Succeed 1 | 97750 | [97750-every-child-can-succeed-1.json](./97750-every-child-can-succeed-1.json) |
 | Every Child Can Succeed 2 | 97751 | [97751-every-child-can-succeed-2.json](./97751-every-child-can-succeed-2.json) |
