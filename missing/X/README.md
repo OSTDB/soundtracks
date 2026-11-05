@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 12: Aerosoft - Airport Menorca | 266303 | [266303-x-plane-12-aerosoft-airport-menorca.json](./266303-x-plane-12-aerosoft-airport-menorca.json) |
 | X-Plane 12: Aerosoft - Airport Milano Malpensa | 254651 | [254651-x-plane-12-aerosoft-airport-milano-malpensa.json](./254651-x-plane-12-aerosoft-airport-milano-malpensa.json) |
 | X-Plane 12: Aerosoft - Airport Stuttgart | 312523 | [312523-x-plane-12-aerosoft-airport-stuttgart.json](./312523-x-plane-12-aerosoft-airport-stuttgart.json) |
+| X-Plane 12: Aerosoft - Faroe Islands XP | 256047 | [256047-x-plane-12-aerosoft-faroe-islands-xp.json](./256047-x-plane-12-aerosoft-faroe-islands-xp.json) |
 | X-Plane 12: Aerosoft - Seychelles XP | 264514 | [264514-x-plane-12-aerosoft-seychelles-xp.json](./264514-x-plane-12-aerosoft-seychelles-xp.json) |
 | X-Plane 12: Aerosoft - Society Islands XP: Tahiti & Windward Islands | 289881 | [289881-x-plane-12-aerosoft-society-islands-xp-tahiti-and-windward-islands.json](./289881-x-plane-12-aerosoft-society-islands-xp-tahiti-and-windward-islands.json) |
 | X-Plane 12: Aerosoft - Tromsø | 302557 | [302557-x-plane-12-aerosoft-troms.json](./302557-x-plane-12-aerosoft-troms.json) |
