@@ -828,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanran | 361912 | [361912-vanran.json](./361912-vanran.json) |
 | Vantage Master Portable | 196855 | [196855-vantage-master-portable.json](./196855-vantage-master-portable.json) |
 | Vantageous | 197016 | [197016-vantageous.json](./197016-vantageous.json) |
+| Vantastic | 293563 | [293563-vantastic.json](./293563-vantastic.json) |
 | Vanya Online | 410719 | [410719-vanya-online.json](./410719-vanya-online.json) |
 | VanySlash | 297333 | [297333-vanyslash.json](./297333-vanyslash.json) |
 | vApe Escape | 115700 | [115700-vape-escape.json](./115700-vape-escape.json) |
