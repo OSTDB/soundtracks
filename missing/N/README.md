@@ -2834,6 +2834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Network Adventure Bugsite: Alpha | 57076 | [57076-network-adventure-bugsite-alpha.json](./57076-network-adventure-bugsite-alpha.json) |
 | Network Adventure Bugsite: Beta | 270059 | [270059-network-adventure-bugsite-beta.json](./270059-network-adventure-bugsite-beta.json) |
 | Network E.L.E.: PC Edition | 166210 | [166210-network-e-l-e-pc-edition.json](./166210-network-e-l-e-pc-edition.json) |
+| Network Engineer Simulator | 285722 | [285722-network-engineer-simulator.json](./285722-network-engineer-simulator.json) |
 | Network Euphoria | 341369 | [341369-network-euphoria.json](./341369-network-euphoria.json) |
 | Network Nodes | 344949 | [344949-network-nodes.json](./344949-network-nodes.json) |
 | Network Notation | 391341 | [391341-network-notation.json](./391341-network-notation.json) |
@@ -6412,6 +6413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nope Nope Nope Nope Nurses | 261755 | [261755-nope-nope-nope-nope-nurses.json](./261755-nope-nope-nope-nope-nurses.json) |
 | Nope Nope Nope Nurses | 284202 | [284202-nope-nope-nope-nurses.json](./284202-nope-nope-nope-nurses.json) |
 | Nope Nope Nurses | 215754 | [215754-nope-nope-nurses.json](./215754-nope-nope-nurses.json) |
+| Nope Rope | 285793 | [285793-nope-rope.json](./285793-nope-rope.json) |
 | Nophenia | 369651 | [369651-nophenia.json](./369651-nophenia.json) |
 | Noplace | 420564 | [420564-noplace.json](./420564-noplace.json) |
 | Nopotions | 410069 | [410069-nopotions.json](./410069-nopotions.json) |
