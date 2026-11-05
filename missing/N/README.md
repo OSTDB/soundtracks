@@ -5068,6 +5068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Party | 246005 | [246005-ninja-party.json](./246005-ninja-party.json) |
 | Ninja Party | 340839 | [340839-ninja-party.json](./340839-ninja-party.json) |
 | Ninja Pizza Girl | 18336 | [18336-ninja-pizza-girl.json](./18336-ninja-pizza-girl.json) |
+| Ninja Poison | 280034 | [280034-ninja-poison.json](./280034-ninja-poison.json) |
 | Ninja Ponk HD | 232184 | [232184-ninja-ponk-hd.json](./232184-ninja-ponk-hd.json) |
 | Ninja Power Slasher | 114371 | [114371-ninja-power-slasher.json](./114371-ninja-power-slasher.json) |
 | Ninja Prime: Tap Quest | 241632 | [241632-ninja-prime-tap-quest.json](./241632-ninja-prime-tap-quest.json) |
