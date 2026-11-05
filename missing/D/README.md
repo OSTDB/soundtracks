@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dabda | 90615 | [90615-dabda.json](./90615-dabda.json) |
 | Dabman: Dabtastic Bundle | 112793 | [112793-dabman-dabtastic-bundle.json](./112793-dabman-dabtastic-bundle.json) |
 | Dabman: When the Haters Dab Back | 104936 | [104936-dabman-when-the-haters-dab-back.json](./104936-dabman-when-the-haters-dab-back.json) |
+| Dabman: When The Haters Dab Back Remastered | 289158 | [289158-dabman-when-the-haters-dab-back-remastered.json](./289158-dabman-when-the-haters-dab-back-remastered.json) |
 | Daburali | 319417 | [319417-daburali.json](./319417-daburali.json) |
 | Dabwoman: When the Dab isn't Sexist | 106622 | [106622-dabwoman-when-the-dab-isnt-sexist.json](./106622-dabwoman-when-the-dab-isnt-sexist.json) |
 | DAC 20 | 273556 | [273556-dac-20.json](./273556-dac-20.json) |
@@ -11027,6 +11028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Not Press Me | 398135 | [398135-do-not-press-me.json](./398135-do-not-press-me.json) |
 | Do Not Press the Red Button | 88105 | [88105-do-not-press-the-red-button.json](./88105-do-not-press-the-red-button.json) |
 | Do Not Smile | 271107 | [271107-do-not-smile.json](./271107-do-not-smile.json) |
+| Do Not Take This Cat Home | 289118 | [289118-do-not-take-this-cat-home.json](./289118-do-not-take-this-cat-home.json) |
 | Do Not Touch | 266518 | [266518-do-not-touch.json](./266518-do-not-touch.json) |
 | Do or Die | 377199 | [377199-do-or-die.json](./377199-do-or-die.json) |
 | Do or Die: Frontal Warfare | 329166 | [329166-do-or-die-frontal-warfare.json](./329166-do-or-die-frontal-warfare.json) |
@@ -12849,6 +12851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomed Lands | 159575 | [159575-doomed-lands.json](./159575-doomed-lands.json) |
 | Doomed Love | 301944 | [301944-doomed-love.json](./301944-doomed-love.json) |
 | Doomed Otaku | 339981 | [339981-doomed-otaku.json](./339981-doomed-otaku.json) |
+| Doomed PETSCII Pacman | 289121 | [289121-doomed-petscii-pacman.json](./289121-doomed-petscii-pacman.json) |
 | Doomed Planet | 70260 | [70260-doomed-planet.json](./70260-doomed-planet.json) |
 | Doomed Space Wars | 261284 | [261284-doomed-space-wars.json](./261284-doomed-space-wars.json) |
 | Doomed to Hell | 194195 | [194195-doomed-to-hell.json](./194195-doomed-to-hell.json) |
