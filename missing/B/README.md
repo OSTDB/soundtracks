@@ -950,7 +950,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -16620,6 +16619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Building 37 | 185603 | [185603-building-37.json](./185603-building-37.json) |
 | Building 847 | 160214 | [160214-building-847.json](./160214-building-847.json) |
 | Building Academy: Jigsaw Puzzle | 89792 | [89792-building-academy-jigsaw-puzzle.json](./89792-building-academy-jigsaw-puzzle.json) |
+| Building Block Cities: Fire Copter Drills | 287922 | [287922-building-block-cities-fire-copter-drills.json](./287922-building-block-cities-fire-copter-drills.json) |
 | Building Block Heroes | 55257 | [55257-building-block-heroes.json](./55257-building-block-heroes.json) |
 | Building Block Heroes: Rush Edition | 100479 | [100479-building-block-heroes-rush-edition.json](./100479-building-block-heroes-rush-edition.json) |
 | Building Block Simulator | 297636 | [297636-building-block-simulator.json](./297636-building-block-simulator.json) |
