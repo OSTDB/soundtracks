@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D Life | 253973 | [253973-d-life.json](./253973-d-life.json) |
 | D Missile | 304278 | [304278-d-missile.json](./304278-d-missile.json) |
 | D or D | 250004 | [250004-d-or-d.json](./250004-d-or-d.json) |
+| D Pistols | 261005 | [261005-d-pistols.json](./261005-d-pistols.json) |
 | D Series Off Road Driving Simulation | 35478 | [35478-d-series-off-road-driving-simulation.json](./35478-d-series-off-road-driving-simulation.json) |
 | D-100 | 250968 | [250968-d-100.json](./250968-d-100.json) |
 | D-Beat Heroes | 403380 | [403380-d-beat-heroes.json](./403380-d-beat-heroes.json) |
