@@ -2775,7 +2775,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4110,6 +4109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty Kitty Bang Bang | 179146 | [179146-kitty-kitty-bang-bang.json](./179146-kitty-kitty-bang-bang.json) |
 | Kitty Kitty Boing Boing: the Happy Adventure in Puzzle Garden! | 31527 | [31527-kitty-kitty-boing-boing-the-happy-adventure-in-puzzle-garden.json](./31527-kitty-kitty-boing-boing-the-happy-adventure-in-puzzle-garden.json) |
 | Kitty Kitty Bounce Bounce | 292220 | [292220-kitty-kitty-bounce-bounce.json](./292220-kitty-kitty-bounce-bounce.json) |
+| Kitty Krawler | 262034 | [262034-kitty-krawler.json](./262034-kitty-krawler.json) |
 | Kitty Letter | 145044 | [145044-kitty-letter.json](./145044-kitty-letter.json) |
 | Kitty Loves Birds | 346601 | [346601-kitty-loves-birds.json](./346601-kitty-loves-birds.json) |
 | Kitty Luv | 209828 | [209828-kitty-luv.json](./209828-kitty-luv.json) |
@@ -4852,6 +4852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kodama | 262067 | [262067-kodama.json](./262067-kodama.json) |
 | Kodama | 62050 | [62050-kodama.json](./62050-kodama.json) |
 | Kodama: Slumber of the Gods | 404612 | [404612-kodama-slumber-of-the-gods.json](./404612-kodama-slumber-of-the-gods.json) |
+| Kodamachi | 262022 | [262022-kodamachi.json](./262022-kodamachi.json) |
 | Kodawari Saihai Simulation: Ocha no Ma Pro Yakyuu DS | 122959 | [122959-kodawari-saihai-simulation-ocha-no-ma-pro-yakyuu-ds.json](./122959-kodawari-saihai-simulation-ocha-no-ma-pro-yakyuu-ds.json) |
 | Kodawari Saihai Simulation: Ocha no Ma Pro Yakyuu DS 2010 Nendo-ban | 124528 | [124528-kodawari-saihai-simulation-ocha-no-ma-pro-yakyuu-ds-2010-nendo-ban.json](./124528-kodawari-saihai-simulation-ocha-no-ma-pro-yakyuu-ds-2010-nendo-ban.json) |
 | Kode Zero | 362252 | [362252-kode-zero.json](./362252-kode-zero.json) |
@@ -5196,6 +5197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kongo Kong | 62983 | [62983-kongo-kong.json](./62983-kongo-kong.json) |
 | Kongpanion Avatar Maker | 102006 | [102006-kongpanion-avatar-maker.json](./102006-kongpanion-avatar-maker.json) |
 | KongQuest | 216172 | [216172-kongquest.json](./216172-kongquest.json) |
+| Kongregate Chat | 262050 | [262050-kongregate-chat.json](./262050-kongregate-chat.json) |
 | Kongregate Racing | 338926 | [338926-kongregate-racing.json](./338926-kongregate-racing.json) |
 | Konjiki no Gash Bell!! Golden Memories | 261218 | [261218-konjiki-no-gash-bell-golden-memories.json](./261218-konjiki-no-gash-bell-golden-memories.json) |
 | Konjiki no Gash Bell!! Makai no Bookmark | 49679 | [49679-konjiki-no-gash-bell-makai-no-bookmark.json](./49679-konjiki-no-gash-bell-makai-no-bookmark.json) |
