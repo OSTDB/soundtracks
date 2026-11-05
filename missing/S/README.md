@@ -6110,6 +6110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Massage 2 | 311579 | [311579-sex-massage-2.json](./311579-sex-massage-2.json) |
 | Sex Milfs | 276966 | [276966-sex-milfs.json](./276966-sex-milfs.json) |
 | Sex Monsters for Cyberpunk Sex | 288247 | [288247-sex-monsters-for-cyberpunk-sex.json](./288247-sex-monsters-for-cyberpunk-sex.json) |
+| Sex Monsters for Fuck in Police | 294082 | [294082-sex-monsters-for-fuck-in-police.json](./294082-sex-monsters-for-fuck-in-police.json) |
 | Sex Monsters for Sex Motel | 288886 | [288886-sex-monsters-for-sex-motel.json](./288886-sex-monsters-for-sex-motel.json) |
 | Sex Motel | 288885 | [288885-sex-motel.json](./288885-sex-motel.json) |
 | Sex Novel: Cheating Wife | 418852 | [418852-sex-novel-cheating-wife.json](./418852-sex-novel-cheating-wife.json) |
@@ -6246,6 +6247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Blackjack | 288056 | [288056-sexy-blackjack.json](./288056-sexy-blackjack.json) |
 | Sexy Blonde | 370759 | [370759-sexy-blonde.json](./370759-sexy-blonde.json) |
 | Sexy Boys for Cyberpunk Sex | 288248 | [288248-sexy-boys-for-cyberpunk-sex.json](./288248-sexy-boys-for-cyberpunk-sex.json) |
+| Sexy Boys for Fuck in Police | 294079 | [294079-sexy-boys-for-fuck-in-police.json](./294079-sexy-boys-for-fuck-in-police.json) |
 | Sexy Boys for Sex Motel | 288892 | [288892-sexy-boys-for-sex-motel.json](./288892-sexy-boys-for-sex-motel.json) |
 | Sexy Breakout | 284240 | [284240-sexy-breakout.json](./284240-sexy-breakout.json) |
 | Sexy Caravan | 169099 | [169099-sexy-caravan.json](./169099-sexy-caravan.json) |
@@ -17842,7 +17844,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soreike! Anpanman: Fushigi na Niko-niko Album | 282641 | [282641-soreike-anpanman-fushigi-na-niko-niko-album.json](./282641-soreike-anpanman-fushigi-na-niko-niko-album.json) |
 | Soreike! Anpanman: Hajimete Dekita yo! Oboeta yo! Anpanman Hitori de Dekichatta! | 327707 | [327707-soreike-anpanman-hajimete-dekita-yo-oboeta-yo-anpanman-hitori-de-dekichatta.json](./327707-soreike-anpanman-hajimete-dekita-yo-oboeta-yo-anpanman-hitori-de-dekichatta.json) |
 | Soreike! Anpanman: Karada no Naka no Daibouken | 230278 | [230278-soreike-anpanman-karada-no-naka-no-daibouken.json](./230278-soreike-anpanman-karada-no-naka-no-daibouken.json) |
+| Soreike! Anpanman: Nakayoshi Doubutsu Land 1 - Ninkimono Atsumare! | 293949 | [293949-soreike-anpanman-nakayoshi-doubutsu-land-1-ninkimono-atsumare.json](./293949-soreike-anpanman-nakayoshi-doubutsu-land-1-ninkimono-atsumare.json) |
+| Soreike! Anpanman: Nakayoshi Doubutsu Land 2 - Africa no Nakama-tachi! | 293950 | [293950-soreike-anpanman-nakayoshi-doubutsu-land-2-africa-no-nakama-tachi.json](./293950-soreike-anpanman-nakayoshi-doubutsu-land-2-africa-no-nakama-tachi.json) |
+| Soreike! Anpanman: Norimono Iro-iro Daibouken | 293945 | [293945-soreike-anpanman-norimono-iro-iro-daibouken.json](./293945-soreike-anpanman-norimono-iro-iro-daibouken.json) |
+| Soreike! Anpanman: Panya-san te donna Toko? | 293944 | [293944-soreike-anpanman-panya-san-te-donna-toko.json](./293944-soreike-anpanman-panya-san-te-donna-toko.json) |
 | Soreike! Anpanman: Picnic de Obenkyou | 63944 | [63944-soreike-anpanman-picnic-de-obenkyou.json](./63944-soreike-anpanman-picnic-de-obenkyou.json) |
+| Soreike! Anpanman: Waku-waku Suizokukan 1 - Suizokukan de Ikou | 293946 | [293946-soreike-anpanman-waku-waku-suizokukan-1-suizokukan-de-ikou.json](./293946-soreike-anpanman-waku-waku-suizokukan-1-suizokukan-de-ikou.json) |
+| Soreike! Anpanman: Waku-waku Suizokukan 2 - Anpanman Gou Umi no Tanken | 293947 | [293947-soreike-anpanman-waku-waku-suizokukan-2-anpanman-gou-umi-no-tanken.json](./293947-soreike-anpanman-waku-waku-suizokukan-2-anpanman-gou-umi-no-tanken.json) |
 | Soreike! Anpanman: Yukai nao Tanjoue | 230279 | [230279-soreike-anpanman-yukai-nao-tanjoue.json](./230279-soreike-anpanman-yukai-nao-tanjoue.json) |
 | Sorekara: End of a Journey | 383794 | [383794-sorekara-end-of-a-journey.json](./383794-sorekara-end-of-a-journey.json) |
 | Sorelle | 302802 | [302802-sorelle.json](./302802-sorelle.json) |
@@ -19087,6 +19095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -19557,6 +19566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Station Defender | 293533 | [293533-space-station-defender.json](./293533-space-station-defender.json) |
 | Space Station Designer | 211518 | [211518-space-station-designer.json](./211518-space-station-designer.json) |
 | Space Station Escape | 282636 | [282636-space-station-escape.json](./282636-space-station-escape.json) |
+| Space Station Escape | 293963 | [293963-space-station-escape.json](./293963-space-station-escape.json) |
 | Space Station Invader VR | 127711 | [127711-space-station-invader-vr.json](./127711-space-station-invader-vr.json) |
 | Space Station Loma: Operations | 29841 | [29841-space-station-loma-operations.json](./29841-space-station-loma-operations.json) |
 | Space Station Oblivion | 12059 | [12059-space-station-oblivion.json](./12059-space-station-oblivion.json) |
