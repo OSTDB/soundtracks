@@ -1691,6 +1691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemonopoly | 181107 | [181107-kemonopoly.json](./181107-kemonopoly.json) |
 | Kemopop! | 309863 | [309863-kemopop.json](./309863-kemopop.json) |
 | Kemotaku | 325527 | [325527-kemotaku.json](./325527-kemotaku.json) |
+| Kemoverse Online | 287992 | [287992-kemoverse-online.json](./287992-kemoverse-online.json) |
 | Kemuri | 279625 | [279625-kemuri.json](./279625-kemuri.json) |
 | Ken Follett's The Pillars of the Earth | 19297 | [19297-ken-folletts-the-pillars-of-the-earth.json](./19297-ken-folletts-the-pillars-of-the-earth.json) |
 | Ken ga Kimi for S | 144572 | [144572-ken-ga-kimi-for-s.json](./144572-ken-ga-kimi-for-s.json) |
@@ -1999,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Khaldun | 184866 | [184866-khaldun.json](./184866-khaldun.json) |
 | Khamrai | 91879 | [91879-khamrai.json](./91879-khamrai.json) |
 | Khamsin | 185354 | [185354-khamsin.json](./185354-khamsin.json) |
+| Khan Academy Kids: Learning! | 288006 | [288006-khan-academy-kids-learning.json](./288006-khan-academy-kids-learning.json) |
 | Khan Kluay: Kids War | 194798 | [194798-khan-kluay-kids-war.json](./194798-khan-kluay-kids-war.json) |
 | Khan: Absolute Power | 33293 | [33293-khan-absolute-power.json](./33293-khan-absolute-power.json) |
 | Khan: Myth of the Wind | 145603 | [145603-khan-myth-of-the-wind.json](./145603-khan-myth-of-the-wind.json) |
@@ -2752,7 +2754,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3508,6 +3509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KingHunt | 76626 | [76626-kinghunt.json](./76626-kinghunt.json) |
 | Kingler's Day | 70309 | [70309-kinglers-day.json](./70309-kinglers-day.json) |
 | Kingless Dungeon | 350041 | [350041-kingless-dungeon.json](./350041-kingless-dungeon.json) |
+| Kingmaker | 288007 | [288007-kingmaker.json](./288007-kingmaker.json) |
 | Kingmaker | 292554 | [292554-kingmaker.json](./292554-kingmaker.json) |
 | Kingmaker | 80171 | [80171-kingmaker.json](./80171-kingmaker.json) |
 | Kingmakers | 287671 | [287671-kingmakers.json](./287671-kingmakers.json) |
