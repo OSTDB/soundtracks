@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelda II: The Adventure of Mario | 408731 | [408731-zelda-ii-the-adventure-of-mario.json](./408731-zelda-ii-the-adventure-of-mario.json) |
 | Zelda II: The Nightmare of Ganon | 215167 | [215167-zelda-ii-the-nightmare-of-ganon.json](./215167-zelda-ii-the-nightmare-of-ganon.json) |
 | Zelda III: Hyrule Explorer | 219085 | [219085-zelda-iii-hyrule-explorer.json](./219085-zelda-iii-hyrule-explorer.json) |
+| Zelda Mini | 282369 | [282369-zelda-mini.json](./282369-zelda-mini.json) |
 | Zelda Mobile | 28864 | [28864-zelda-mobile.json](./28864-zelda-mobile.json) |
 | Zelda no Densetsu: 4-tsu no Tsurugi + | 298870 | [298870-zelda-no-densetsu-4-tsu-no-tsurugi.json](./298870-zelda-no-densetsu-4-tsu-no-tsurugi.json) |
 | Zelda Online | 323863 | [323863-zelda-online.json](./323863-zelda-online.json) |
