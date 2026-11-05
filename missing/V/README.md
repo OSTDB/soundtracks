@@ -2289,6 +2289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vindictive Drive 2: Maidbot Archive | 272362 | [272362-vindictive-drive-2-maidbot-archive.json](./272362-vindictive-drive-2-maidbot-archive.json) |
 | Vindictus | 7887 | [7887-vindictus.json](./7887-vindictus.json) |
 | Vindictus XE | 23525 | [23525-vindictus-xe.json](./23525-vindictus-xe.json) |
+| Vindictus: Defying Fate | 289155 | [289155-vindictus-defying-fate.json](./289155-vindictus-defying-fate.json) |
 | Vindilis | 373088 | [373088-vindilis.json](./373088-vindilis.json) |
 | Vine | 128625 | [128625-vine.json](./128625-vine.json) |
 | Vine Mapping Contest 2016 | 262280 | [262280-vine-mapping-contest-2016.json](./262280-vine-mapping-contest-2016.json) |
