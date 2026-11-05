@@ -848,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Ultimate Mahjong 2 | 111457 | [111457-1001-ultimate-mahjong-2.json](./111457-1001-ultimate-mahjong-2.json) |
 | 1001-Kai-me no Aoi Tsuki | 98429 | [98429-1001-kai-me-no-aoi-tsuki.json](./98429-1001-kai-me-no-aoi-tsuki.json) |
 | 1001st Hyper Tower | 146644 | [146644-1001st-hyper-tower.json](./146644-1001st-hyper-tower.json) |
+| 1007 Bolts | 253669 | [253669-1007-bolts.json](./253669-1007-bolts.json) |
 | 100F Blessing of the Guardian | 275754 | [275754-100f-blessing-of-the-guardian.json](./275754-100f-blessing-of-the-guardian.json) |
 | 100Friends | 379064 | [379064-100friends.json](./379064-100friends.json) |
 | 100nya | 30580 | [30580-100nya.json](./30580-100nya.json) |
