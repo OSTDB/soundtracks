@@ -3142,6 +3142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incrempire | 407857 | [407857-incrempire.json](./407857-incrempire.json) |
 | Incretyper | 385428 | [385428-incretyper.json](./385428-incretyper.json) |
 | Increvaders | 418743 | [418743-increvaders.json](./418743-increvaders.json) |
+| Incubation: Alien Apocalypse | 273175 | [273175-incubation-alien-apocalypse.json](./273175-incubation-alien-apocalypse.json) |
 | Incubation: The Wilderness Missions | 78480 | [78480-incubation-the-wilderness-missions.json](./78480-incubation-the-wilderness-missions.json) |
 | Incubation: Time Is Running Out | 9033 | [9033-incubation-time-is-running-out.json](./9033-incubation-time-is-running-out.json) |
 | Incubo | 113609 | [113609-incubo.json](./113609-incubo.json) |
@@ -3371,6 +3372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Industrial Accident | 183993 | [183993-industrial-accident.json](./183993-industrial-accident.json) |
 | Industrial Annihilation | 324902 | [324902-industrial-annihilation.json](./324902-industrial-annihilation.json) |
 | Industrial Combat | 271750 | [271750-industrial-combat.json](./271750-industrial-combat.json) |
+| Industrial Complex | 273176 | [273176-industrial-complex.json](./273176-industrial-complex.json) |
 | Industrial Demise | 112165 | [112165-industrial-demise.json](./112165-industrial-demise.json) |
 | Industrial Fear | 310648 | [310648-industrial-fear.json](./310648-industrial-fear.json) |
 | Industrial Firefighters | 171763 | [171763-industrial-firefighters.json](./171763-industrial-firefighters.json) |
