@@ -6676,6 +6676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rexodus: A VR Story Experience | 32665 | [32665-rexodus-a-vr-story-experience.json](./32665-rexodus-a-vr-story-experience.json) |
 | reYal | 118640 | [118640-reyal.json](./118640-reyal.json) |
 | Reyher Austerich’s Garden Worlds Adventure | 357810 | [357810-reyher-austerich-s-garden-worlds-adventure.json](./357810-reyher-austerich-s-garden-worlds-adventure.json) |
+| Reyna Darkness | 255472 | [255472-reyna-darkness.json](./255472-reyna-darkness.json) |
 | Reynard | 111920 | [111920-reynard.json](./111920-reynard.json) |
 | Reynard | 359202 | [359202-reynard.json](./359202-reynard.json) |
 | Reynatis | 287858 | [287858-reynatis.json](./287858-reynatis.json) |
