@@ -2417,6 +2417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatch Dragons | 381848 | [381848-hatch-dragons.json](./381848-hatch-dragons.json) |
 | Hatch Tales: A Heroic Hookshot Adventure | 319936 | [319936-hatch-tales-a-heroic-hookshot-adventure.json](./319936-hatch-tales-a-heroic-hookshot-adventure.json) |
 | Hatchball | 137961 | [137961-hatchball.json](./137961-hatchball.json) |
+| Hatchepsout: The Hell Temple | 277092 | [277092-hatchepsout-the-hell-temple.json](./277092-hatchepsout-the-hell-temple.json) |
 | Hatchi: A Retro Virtual Pet | 102517 | [102517-hatchi-a-retro-virtual-pet.json](./102517-hatchi-a-retro-virtual-pet.json) |
 | Hatchick | 96860 | [96860-hatchick.json](./96860-hatchick.json) |
 | Hatchling | 182511 | [182511-hatchling.json](./182511-hatchling.json) |
@@ -3082,6 +3083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headroom | 364690 | [364690-headroom.json](./364690-headroom.json) |
 | Headrooms | 334472 | [334472-headrooms.json](./334472-headrooms.json) |
 | Headrush Arena | 416166 | [416166-headrush-arena.json](./416166-headrush-arena.json) |
+| Heads Off | 277088 | [277088-heads-off.json](./277088-heads-off.json) |
 | Heads Run | 82128 | [82128-heads-run.json](./82128-heads-run.json) |
 | Heads Up Texas Hold 'Em | 92293 | [92293-heads-up-texas-hold-em.json](./92293-heads-up-texas-hold-em.json) |
 | Heads Up! | 79823 | [79823-heads-up.json](./79823-heads-up.json) |
@@ -9765,6 +9767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Girl Hentai Puzzle | 158399 | [158399-horny-girl-hentai-puzzle.json](./158399-horny-girl-hentai-puzzle.json) |
 | Horny Girls Hentai | 161327 | [161327-horny-girls-hentai.json](./161327-horny-girls-hentai.json) |
 | Horny Heart | 148176 | [148176-horny-heart.json](./148176-horny-heart.json) |
+| Horny Holiday | 277087 | [277087-horny-holiday.json](./277087-horny-holiday.json) |
 | Horny Honey | 156628 | [156628-horny-honey.json](./156628-horny-honey.json) |
 | Horny Hotel Maids | 242437 | [242437-horny-hotel-maids.json](./242437-horny-hotel-maids.json) |
 | Horny Housewives | 276645 | [276645-horny-housewives.json](./276645-horny-housewives.json) |
