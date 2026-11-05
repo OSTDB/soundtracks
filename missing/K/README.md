@@ -653,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanashimi Arabesque | 294807 | [294807-kanashimi-arabesque.json](./294807-kanashimi-arabesque.json) |
 | Kanata no Ningyo Hime | 416574 | [416574-kanata-no-ningyo-hime.json](./416574-kanata-no-ningyo-hime.json) |
 | KanaTales | 191551 | [191551-kanatales.json](./191551-kanatales.json) |
+| Kanau | 283366 | [283366-kanau.json](./283366-kanau.json) |
 | Kanazawa Shogi: Level 300 | 219008 | [219008-kanazawa-shogi-level-300.json](./219008-kanazawa-shogi-level-300.json) |
 | Kanban-mura | 310719 | [310719-kanban-mura.json](./310719-kanban-mura.json) |
 | Kanbutsu Himouto! Umaru-chan Daratto Puzzle | 222392 | [222392-kanbutsu-himouto-umaru-chan-daratto-puzzle.json](./222392-kanbutsu-himouto-umaru-chan-daratto-puzzle.json) |
@@ -5013,6 +5014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kokurase: Episode 2 | 167800 | [167800-kokurase-episode-2.json](./167800-kokurase-episode-2.json) |
 | Kokurase: Episode 3 | 167799 | [167799-kokurase-episode-3.json](./167799-kokurase-episode-3.json) |
 | Kokuriko | 296922 | [296922-kokuriko.json](./296922-kokuriko.json) |
+| Kokusai Shitei Kaii 123-gou Haison | 283529 | [283529-kokusai-shitei-kaii-123-gou-haison.json](./283529-kokusai-shitei-kaii-123-gou-haison.json) |
 | Kokusai Shitei Kaii 124-gou Tokyo Haison | 273851 | [273851-kokusai-shitei-kaii-124-gou-tokyo-haison.json](./273851-kokusai-shitei-kaii-124-gou-tokyo-haison.json) |
 | Kokuu Hyouryo Nirgends | 65283 | [65283-kokuu-hyouryo-nirgends.json](./65283-kokuu-hyouryo-nirgends.json) |
 | Kokuu Hyouryuu Nirgends | 45951 | [45951-kokuu-hyouryuu-nirgends.json](./45951-kokuu-hyouryuu-nirgends.json) |
