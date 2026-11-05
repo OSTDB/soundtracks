@@ -594,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamikaze Empire | 411652 | [411652-kamikaze-empire.json](./411652-kamikaze-empire.json) |
 | Kamikaze Kommittee Ouka 2 | 153536 | [153536-kamikaze-kommittee-ouka-2.json](./153536-kamikaze-kommittee-ouka-2.json) |
 | Kamikaze Lassplanes | 250011 | [250011-kamikaze-lassplanes.json](./250011-kamikaze-lassplanes.json) |
+| Kamikaze Pigs | 246157 | [246157-kamikaze-pigs.json](./246157-kamikaze-pigs.json) |
 | Kamikaze Saucers | 40733 | [40733-kamikaze-saucers.json](./40733-kamikaze-saucers.json) |
 | Kamikaze Strike: FPV Drone | 373034 | [373034-kamikaze-strike-fpv-drone.json](./373034-kamikaze-strike-fpv-drone.json) |
 | Kamikaze Tactics | 333772 | [333772-kamikaze-tactics.json](./333772-kamikaze-tactics.json) |
@@ -1171,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katana Action | 57132 | [57132-katana-action.json](./57132-katana-action.json) |
 | Katana Dragon | 326631 | [326631-katana-dragon.json](./326631-katana-dragon.json) |
 | Katana Hime | 375486 | [375486-katana-hime.json](./375486-katana-hime.json) |
+| Katana Infinity | 246167 | [246167-katana-infinity.json](./246167-katana-infinity.json) |
 | Katana Kami: A Way of the Samurai Story | 125296 | [125296-katana-kami-a-way-of-the-samurai-story.json](./125296-katana-kami-a-way-of-the-samurai-story.json) |
 | Katana Master | 256933 | [256933-katana-master.json](./256933-katana-master.json) |
 | Katana Of Rin | 297223 | [297223-katana-of-rin.json](./297223-katana-of-rin.json) |
