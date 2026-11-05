@@ -1715,6 +1715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eidolon Awakened | 262874 | [262874-eidolon-awakened.json](./262874-eidolon-awakened.json) |
 | Eidolons Cross | 376617 | [376617-eidolons-cross.json](./376617-eidolons-cross.json) |
 | Eidolons: Nethergate | 116818 | [116818-eidolons-nethergate.json](./116818-eidolons-nethergate.json) |
+| Eien | 246738 | [246738-eien.json](./246738-eien.json) |
 | Eien | 392743 | [392743-eien.json](./392743-eien.json) |
 | Eien no Filena | 15899 | [15899-eien-no-filena.json](./15899-eien-no-filena.json) |
 | Eien no Miyako | 372564 | [372564-eien-no-miyako.json](./372564-eien-no-miyako.json) |
