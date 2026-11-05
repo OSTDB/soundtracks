@@ -917,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Cute Dogs: Find & Paint | 316961 | [316961-101-cute-dogs-find-and-paint.json](./316961-101-cute-dogs-find-and-paint.json) |
 | 101 Cute Playland Dogs: Find & Paint | 320328 | [320328-101-cute-playland-dogs-find-and-paint.json](./320328-101-cute-playland-dogs-find-and-paint.json) |
 | 101 Dalmatians | 200492 | [200492-101-dalmatians.json](./200492-101-dalmatians.json) |
+| 101 Dalmatians | 247289 | [247289-101-dalmatians.json](./247289-101-dalmatians.json) |
 | 101 Dalmatians: Escape from DeVil Manor | 47015 | [47015-101-dalmatians-escape-from-devil-manor.json](./47015-101-dalmatians-escape-from-devil-manor.json) |
 | 101 Dino Pets: The Virtual Pet Game | 52341 | [52341-101-dino-pets-the-virtual-pet-game.json](./52341-101-dino-pets-the-virtual-pet-game.json) |
 | 101 DinoPets 3D | 84614 | [84614-101-dinopets-3d.json](./84614-101-dinopets-3d.json) |
@@ -1228,6 +1229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 16 Planes:Return | 112980 | [112980-16-planes-return.json](./112980-16-planes-return.json) |
 | 16 Shot! Shooting Watch | 84687 | [84687-16-shot-shooting-watch.json](./84687-16-shot-shooting-watch.json) |
 | 16 Shot! Shooting Watch | 85823 | [85823-16-shot-shooting-watch.json](./85823-16-shot-shooting-watch.json) |
+| 16 Tiles Mahjong | 247291 | [247291-16-tiles-mahjong.json](./247291-16-tiles-mahjong.json) |
 | 16 Tiles Mahjong | 46523 | [46523-16-tiles-mahjong.json](./46523-16-tiles-mahjong.json) |
 | 16 Ways to Kill a Vampire at McDonalds | 57524 | [57524-16-ways-to-kill-a-vampire-at-mcdonalds.json](./57524-16-ways-to-kill-a-vampire-at-mcdonalds.json) |
 | 16-Bit Soccer | 147002 | [147002-16-bit-soccer.json](./147002-16-bit-soccer.json) |
@@ -1365,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 198BREW: The Age of Orpheus | 325294 | [325294-198brew-the-age-of-orpheus.json](./325294-198brew-the-age-of-orpheus.json) |
 | 1990 | 219506 | [219506-1990.json](./219506-1990.json) |
 | 1990 | 77214 | [77214-1990.json](./77214-1990.json) |
+| 1990 Super Bros. 4 | 247290 | [247290-1990-super-bros-4.json](./247290-1990-super-bros-4.json) |
 | 1990: Die 1993'er Edition | 38854 | [38854-1990-die-1993er-edition.json](./38854-1990-die-1993er-edition.json) |
 | 1991 | 283080 | [283080-1991.json](./283080-1991.json) |
 | 1991 Du Ma Racing | 22428 | [22428-1991-du-ma-racing.json](./22428-1991-du-ma-racing.json) |
@@ -1534,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2-in-1 Fun Pack I Dreamworks Madagascar: Operation Penguin + Shrek 2 | 86054 | [86054-2-in-1-fun-pack-i-dreamworks-madagascar-operation-penguin-shrek-2.json](./86054-2-in-1-fun-pack-i-dreamworks-madagascar-operation-penguin-shrek-2.json) |
 | 2-in-1 Geminim/Siamond | 338795 | [338795-2-in-1-geminim-siamond.json](./338795-2-in-1-geminim-siamond.json) |
 | 2-in-1 Kart Racing Bundle | 331455 | [331455-2-in-1-kart-racing-bundle.json](./331455-2-in-1-kart-racing-bundle.json) |
+| 2-in-1 Street Dance + Hit Mouse | 247294 | [247294-2-in-1-street-dance-hit-mouse.json](./247294-2-in-1-street-dance-hit-mouse.json) |
 | 2-in-1: Meine Tierpension + Meine Tiersprechstunde | 178776 | [178776-2-in-1-meine-tierpension-meine-tiersprechstunde.json](./178776-2-in-1-meine-tierpension-meine-tiersprechstunde.json) |
 | 2-taku de Bishoujo Game | 214377 | [214377-2-taku-de-bishoujo-game.json](./214377-2-taku-de-bishoujo-game.json) |
 | 2-taku de Koishite Mune-kyun | 251629 | [251629-2-taku-de-koishite-mune-kyun.json](./251629-2-taku-de-koishite-mune-kyun.json) |
