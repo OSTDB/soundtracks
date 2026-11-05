@@ -5185,6 +5185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Which Was Lost | 201478 | [201478-that-which-was-lost.json](./201478-that-which-was-lost.json) |
 | That's a Cow | 213220 | [213220-thats-a-cow.json](./213220-thats-a-cow.json) |
 | That's a Cow: Banana | 403422 | [403422-thats-a-cow-banana.json](./403422-thats-a-cow-banana.json) |
+| That's a Cow: Complete Edition | 257752 | [257752-thats-a-cow-complete-edition.json](./257752-thats-a-cow-complete-edition.json) |
 | That's a Cow: Crown | 403423 | [403423-thats-a-cow-crown.json](./403423-thats-a-cow-crown.json) |
 | That's a Cow: Deluxe Edition | 232994 | [232994-thats-a-cow-deluxe-edition.json](./232994-thats-a-cow-deluxe-edition.json) |
 | That's a Cow: Eggshell | 233001 | [233001-thats-a-cow-eggshell.json](./233001-thats-a-cow-eggshell.json) |
@@ -25258,6 +25259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toripon | 116971 | [116971-toripon.json](./116971-toripon.json) |
 | Torizon Telecom | 410067 | [410067-torizon-telecom.json](./410067-torizon-telecom.json) |
 | Tormans | 157903 | [157903-tormans.json](./157903-tormans.json) |
+| Torment | 257751 | [257751-torment.json](./257751-torment.json) |
 | Torment Hexus | 381516 | [381516-torment-hexus.json](./381516-torment-hexus.json) |
 | Torment: Tides of Numenera | 2004 | [2004-torment-tides-of-numenera.json](./2004-torment-tides-of-numenera.json) |
 | Torment: Tides of Numenera - Collector's Edition | 26537 | [26537-torment-tides-of-numenera-collectors-edition.json](./26537-torment-tides-of-numenera-collectors-edition.json) |
