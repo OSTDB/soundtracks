@@ -3541,6 +3541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavenly Puzzle | 207199 | [207199-heavenly-puzzle.json](./207199-heavenly-puzzle.json) |
 | Heavenly Sword | 7318 | [7318-heavenly-sword.json](./7318-heavenly-sword.json) |
 | Heavenly Way Legend | 326013 | [326013-heavenly-way-legend.json](./326013-heavenly-way-legend.json) |
+| Heavensborne | 276535 | [276535-heavensborne.json](./276535-heavensborne.json) |
 | Heavenshatter | 351144 | [351144-heavenshatter.json](./351144-heavenshatter.json) |
 | HeavensSea | 304914 | [304914-heavenssea.json](./304914-heavenssea.json) |
 | Heavenstrafer | 267461 | [267461-heavenstrafer.json](./267461-heavenstrafer.json) |
@@ -4604,6 +4605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hemomancer | 357413 | [357413-hemomancer.json](./357413-hemomancer.json) |
 | Hemophobia | 299160 | [299160-hemophobia.json](./299160-hemophobia.json) |
 | Hemp Paradise | 381295 | [381295-hemp-paradise.json](./381295-hemp-paradise.json) |
+| Hemp Tycoon | 276554 | [276554-hemp-tycoon.json](./276554-hemp-tycoon.json) |
 | Hempire - Weed Growing Game | 91286 | [91286-hempire-weed-growing-game.json](./91286-hempire-weed-growing-game.json) |
 | Hen in the Foxhouse | 188938 | [188938-hen-in-the-foxhouse.json](./188938-hen-in-the-foxhouse.json) |
 | Hen Pecked | 44393 | [44393-hen-pecked.json](./44393-hen-pecked.json) |
@@ -5396,6 +5398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai World: Director's Cut | 273318 | [273318-hentai-world-directors-cut.json](./273318-hentai-world-directors-cut.json) |
 | Hentai World: Expanded Edition | 260683 | [260683-hentai-world-expanded-edition.json](./260683-hentai-world-expanded-edition.json) |
 | Hentai World: Foxy Akane | 251687 | [251687-hentai-world-foxy-akane.json](./251687-hentai-world-foxy-akane.json) |
+| Hentai World: GOTY Edition | 276552 | [276552-hentai-world-goty-edition.json](./276552-hentai-world-goty-edition.json) |
 | Hentai World: Happy Edition | 279873 | [279873-hentai-world-happy-edition.json](./279873-hentai-world-happy-edition.json) |
 | Hentai World: Kitty Rose | 251686 | [251686-hentai-world-kitty-rose.json](./251686-hentai-world-kitty-rose.json) |
 | Hentai World: Legendary Edition | 268562 | [268562-hentai-world-legendary-edition.json](./268562-hentai-world-legendary-edition.json) |
@@ -7528,6 +7531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Legends: Traffic Speed Racer | 317286 | [317286-highway-legends-traffic-speed-racer.json](./317286-highway-legends-traffic-speed-racer.json) |
 | Highway Legends: Traffic Speed Racer - Deluxe Edition | 328763 | [328763-highway-legends-traffic-speed-racer-deluxe-edition.json](./328763-highway-legends-traffic-speed-racer-deluxe-edition.json) |
 | Highway Madness | 80943 | [80943-highway-madness.json](./80943-highway-madness.json) |
+| Highway Moto Racing Rush 2023 Simulator | 276556 | [276556-highway-moto-racing-rush-2023-simulator.json](./276556-highway-moto-racing-rush-2023-simulator.json) |
 | Highway Moto Racing Rush 2023 Simulator: Premium Edition | 305597 | [305597-highway-moto-racing-rush-2023-simulator-premium-edition.json](./305597-highway-moto-racing-rush-2023-simulator-premium-edition.json) |
 | Highway Moto Rider - Traffic Race | 105850 | [105850-highway-moto-rider-traffic-race.json](./105850-highway-moto-rider-traffic-race.json) |
 | Highway Noir | 381605 | [381605-highway-noir.json](./381605-highway-noir.json) |
@@ -7651,6 +7655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi no Naku Koro ni: Tsumihoroboshi-hen | 263699 | [263699-higurashi-no-naku-koro-ni-tsumihoroboshi-hen.json](./263699-higurashi-no-naku-koro-ni-tsumihoroboshi-hen.json) |
 | Higurashi no Naku Koro ni: Watanagashi-hen | 263687 | [263687-higurashi-no-naku-koro-ni-watanagashi-hen.json](./263687-higurashi-no-naku-koro-ni-watanagashi-hen.json) |
 | Higurashi no Naku Koro ni: Yoigoshi-hen | 263918 | [263918-higurashi-no-naku-koro-ni-yoigoshi-hen.json](./263918-higurashi-no-naku-koro-ni-yoigoshi-hen.json) |
+| Higurashi Umineko Card Battle Team | 276514 | [276514-higurashi-umineko-card-battle-team.json](./276514-higurashi-umineko-card-battle-team.json) |
 | Higurashi When They Cry | 9700 | [9700-higurashi-when-they-cry.json](./9700-higurashi-when-they-cry.json) |
 | Higurashi When They Cry Hou - Console Arcs | 347709 | [347709-higurashi-when-they-cry-hou-console-arcs.json](./347709-higurashi-when-they-cry-hou-console-arcs.json) |
 | Higurashi When They Cry Hou: Answer Arcs | 263403 | [263403-higurashi-when-they-cry-hou-answer-arcs.json](./263403-higurashi-when-they-cry-hou-answer-arcs.json) |
@@ -8430,6 +8435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hokko Life | 129791 | [129791-hokko-life.json](./129791-hokko-life.json) |
 | Hokko Spaces | 404866 | [404866-hokko-spaces.json](./404866-hokko-spaces.json) |
 | Hokra | 65032 | [65032-hokra.json](./65032-hokra.json) |
+| Hoku Shrine | 276560 | [276560-hoku-shrine.json](./276560-hoku-shrine.json) |
 | Hokusai | 106540 | [106540-hokusai.json](./106540-hokusai.json) |
 | Hokuto no Ken | 100267 | [100267-hokuto-no-ken.json](./100267-hokuto-no-ken.json) |
 | Hokuto no Ken | 46115 | [46115-hokuto-no-ken.json](./46115-hokuto-no-ken.json) |
@@ -9263,6 +9269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: Hacked | 279432 | [279432-honkai-impact-3rd-hacked.json](./279432-honkai-impact-3rd-hacked.json) |
 | Honkai Impact 3rd: In Search of the Sun | 327458 | [327458-honkai-impact-3rd-in-search-of-the-sun.json](./327458-honkai-impact-3rd-in-search-of-the-sun.json) |
 | Honkai Impact 3rd: Infinite Future | 276502 | [276502-honkai-impact-3rd-infinite-future.json](./276502-honkai-impact-3rd-infinite-future.json) |
+| Honkai Impact 3rd: Inherit the Flame | 276527 | [276527-honkai-impact-3rd-inherit-the-flame.json](./276527-honkai-impact-3rd-inherit-the-flame.json) |
 | Honkai Impact 3rd: Invitation to the Mad Banquet | 298748 | [298748-honkai-impact-3rd-invitation-to-the-mad-banquet.json](./298748-honkai-impact-3rd-invitation-to-the-mad-banquet.json) |
 | Honkai Impact 3rd: Lives Flourish Where Feathers Fall | 408932 | [408932-honkai-impact-3rd-lives-flourish-where-feathers-fall.json](./408932-honkai-impact-3rd-lives-flourish-where-feathers-fall.json) |
 | Honkai Impact 3rd: Lone Stargazer | 279722 | [279722-honkai-impact-3rd-lone-stargazer.json](./279722-honkai-impact-3rd-lone-stargazer.json) |
@@ -9459,6 +9466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoop Gawds | 143899 | [143899-hoop-gawds.json](./143899-hoop-gawds.json) |
 | Hoop Land | 250996 | [250996-hoop-land.json](./250996-hoop-land.json) |
 | Hoop Route | 55713 | [55713-hoop-route.json](./55713-hoop-route.json) |
+| Hoop Shoot | 276555 | [276555-hoop-shoot.json](./276555-hoop-shoot.json) |
 | Hoop Shot VR | 44265 | [44265-hoop-shot-vr.json](./44265-hoop-shot-vr.json) |
 | Hoop Smash | 116418 | [116418-hoop-smash.json](./116418-hoop-smash.json) |
 | Hoop the Loop | 167461 | [167461-hoop-the-loop.json](./167461-hoop-the-loop.json) |
@@ -10331,6 +10339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed 2: Highway 35 Free Pack | 283610 | [283610-hot-wheels-unleashed-2-highway-35-free-pack.json](./283610-hot-wheels-unleashed-2-highway-35-free-pack.json) |
 | Hot Wheels Unleashed 2: Highway 35 World Race Pack | 293435 | [293435-hot-wheels-unleashed-2-highway-35-world-race-pack.json](./293435-hot-wheels-unleashed-2-highway-35-world-race-pack.json) |
 | Hot Wheels Unleashed 2: Just a Scratch Pack | 271940 | [271940-hot-wheels-unleashed-2-just-a-scratch-pack.json](./271940-hot-wheels-unleashed-2-just-a-scratch-pack.json) |
+| Hot Wheels Unleashed 2: Manga Pack | 276541 | [276541-hot-wheels-unleashed-2-manga-pack.json](./276541-hot-wheels-unleashed-2-manga-pack.json) |
 | Hot Wheels Unleashed 2: Mega Bites Free Pack | 297320 | [297320-hot-wheels-unleashed-2-mega-bites-free-pack.json](./297320-hot-wheels-unleashed-2-mega-bites-free-pack.json) |
 | Hot Wheels Unleashed 2: Mercedes-Benz Pack | 312012 | [312012-hot-wheels-unleashed-2-mercedes-benz-pack.json](./312012-hot-wheels-unleashed-2-mercedes-benz-pack.json) |
 | Hot Wheels Unleashed 2: Monster Trucks Pack | 295656 | [295656-hot-wheels-unleashed-2-monster-trucks-pack.json](./295656-hot-wheels-unleashed-2-monster-trucks-pack.json) |
