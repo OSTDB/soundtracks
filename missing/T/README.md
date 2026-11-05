@@ -11056,6 +11056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jackbox Party Pack 9 | 198560 | [198560-the-jackbox-party-pack-9.json](./198560-the-jackbox-party-pack-9.json) |
 | The Jackbox Party Quadpack | 83774 | [83774-the-jackbox-party-quadpack.json](./83774-the-jackbox-party-quadpack.json) |
 | The Jackbox Party Quintpack | 112915 | [112915-the-jackbox-party-quintpack.json](./112915-the-jackbox-party-quintpack.json) |
+| The Jackbox Party Quintpack 2.0 | 287991 | [287991-the-jackbox-party-quintpack-2-0.json](./287991-the-jackbox-party-quintpack-2-0.json) |
 | The Jackbox Party Starter | 207095 | [207095-the-jackbox-party-starter.json](./207095-the-jackbox-party-starter.json) |
 | The Jackbox Party Trilogy | 82410 | [82410-the-jackbox-party-trilogy.json](./82410-the-jackbox-party-trilogy.json) |
 | The Jackbox Party Trilogy 2.0 | 135601 | [135601-the-jackbox-party-trilogy-2-0.json](./135601-the-jackbox-party-trilogy-2-0.json) |
@@ -11553,6 +11554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lampkeeper | 362150 | [362150-the-lampkeeper.json](./362150-the-lampkeeper.json) |
 | The Lamplighters League | 240893 | [240893-the-lamplighters-league.json](./240893-the-lamplighters-league.json) |
 | The Lancaster Leak: Crisis at Call Center | 260586 | [260586-the-lancaster-leak-crisis-at-call-center.json](./260586-the-lancaster-leak-crisis-at-call-center.json) |
+| The Lancaster Leak: Entity Exam | 287920 | [287920-the-lancaster-leak-entity-exam.json](./287920-the-lancaster-leak-entity-exam.json) |
 | The Lancaster Leak: O'Brien State Park | 244412 | [244412-the-lancaster-leak-obrien-state-park.json](./244412-the-lancaster-leak-obrien-state-park.json) |
 | The Land | 64929 | [64929-the-land.json](./64929-the-land.json) |
 | The Land Before Time | 209817 | [209817-the-land-before-time.json](./209817-the-land-before-time.json) |
@@ -19289,6 +19291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Looked Like Us | 378449 | [378449-they-looked-like-us.json](./378449-they-looked-like-us.json) |
 | They Love Them | 235813 | [235813-they-love-them.json](./235813-they-love-them.json) |
 | They Need To Be Fed | 242725 | [242725-they-need-to-be-fed.json](./242725-they-need-to-be-fed.json) |
+| They Need To Be Fed 3 | 288022 | [288022-they-need-to-be-fed-3.json](./288022-they-need-to-be-fed-3.json) |
 | They Not Fae! | 397294 | [397294-they-not-fae.json](./397294-they-not-fae.json) |
 | They Remain | 302061 | [302061-they-remain.json](./302061-they-remain.json) |
 | They See Us | 342780 | [342780-they-see-us.json](./342780-they-see-us.json) |
@@ -20157,6 +20160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Rally | 99083 | [99083-thunder-rally.json](./99083-thunder-rally.json) |
 | Thunder Ray | 201592 | [201592-thunder-ray.json](./201592-thunder-ray.json) |
 | Thunder Ray: Forgotten Duels | 288274 | [288274-thunder-ray-forgotten-duels.json](./288274-thunder-ray-forgotten-duels.json) |
+| Thunder Ray: Origins | 287987 | [287987-thunder-ray-origins.json](./287987-thunder-ray-origins.json) |
 | Thunder Roar | 218121 | [218121-thunder-roar.json](./218121-thunder-roar.json) |
 | Thunder Ronin | 292468 | [292468-thunder-ronin.json](./292468-thunder-ronin.json) |
 | Thunder Run: Firestrike | 83321 | [83321-thunder-run-firestrike.json](./83321-thunder-run-firestrike.json) |
@@ -21897,6 +21901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Transforming Robot 2018 | 102783 | [102783-tiger-transforming-robot-2018.json](./102783-tiger-transforming-robot-2018.json) |
 | Tiger Trouble | 66973 | [66973-tiger-trouble.json](./66973-tiger-trouble.json) |
 | Tiger Woods PGA Tour | 248495 | [248495-tiger-woods-pga-tour.json](./248495-tiger-woods-pga-tour.json) |
+| Tiger Woods PGA Tour | 288021 | [288021-tiger-woods-pga-tour.json](./288021-tiger-woods-pga-tour.json) |
 | Tiger Woods PGA Tour 06 | 248474 | [248474-tiger-woods-pga-tour-06.json](./248474-tiger-woods-pga-tour-06.json) |
 | Tiger Woods PGA Tour 06 | 248475 | [248475-tiger-woods-pga-tour-06.json](./248475-tiger-woods-pga-tour-06.json) |
 | Tiger Woods PGA Tour 06 | 903 | [903-tiger-woods-pga-tour-06.json](./903-tiger-woods-pga-tour-06.json) |
