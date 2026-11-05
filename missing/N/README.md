@@ -434,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nano Flat Owner | 391032 | [391032-nano-flat-owner.json](./391032-nano-flat-owner.json) |
 | Nano Force | 250483 | [250483-nano-force.json](./250483-nano-force.json) |
 | Nano Golf | 97041 | [97041-nano-golf.json](./97041-nano-golf.json) |
+| Nano Golf: Hole In One | 250111 | [250111-nano-golf-hole-in-one.json](./250111-nano-golf-hole-in-one.json) |
 | Nano Golf: Puzzle Putting | 95082 | [95082-nano-golf-puzzle-putting.json](./95082-nano-golf-puzzle-putting.json) |
 | Nano Neighbors | 347838 | [347838-nano-neighbors.json](./347838-nano-neighbors.json) |
 | Nano Organism | 201495 | [201495-nano-organism.json](./201495-nano-organism.json) |
@@ -2683,6 +2684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neratte! Tobashite! Rilakkuma GuraGura Sweets Tower | 98177 | [98177-neratte-tobashite-rilakkuma-guragura-sweets-tower.json](./98177-neratte-tobashite-rilakkuma-guragura-sweets-tower.json) |
 | Nerd Blocks | 254673 | [254673-nerd-blocks.json](./254673-nerd-blocks.json) |
 | Nerd Bus | 184264 | [184264-nerd-bus.json](./184264-nerd-bus.json) |
+| Nerd Quiz | 250137 | [250137-nerd-quiz.json](./250137-nerd-quiz.json) |
 | Nerd Simulator | 312531 | [312531-nerd-simulator.json](./312531-nerd-simulator.json) |
 | Nerd Survivors | 272740 | [272740-nerd-survivors.json](./272740-nerd-survivors.json) |
 | Nerd: Tracing Dayline | 318273 | [318273-nerd-tracing-dayline.json](./318273-nerd-tracing-dayline.json) |
