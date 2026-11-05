@@ -10399,6 +10399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heirloom | 292604 | [292604-the-heirloom.json](./292604-the-heirloom.json) |
 | The Heist | 120316 | [120316-the-heist.json](./120316-the-heist.json) |
 | The Heist | 24018 | [24018-the-heist.json](./24018-the-heist.json) |
+| The Heist | 268809 | [268809-the-heist.json](./268809-the-heist.json) |
 | The Heist | 78503 | [78503-the-heist.json](./78503-the-heist.json) |
 | The Heist in LS | 328220 | [328220-the-heist-in-ls.json](./328220-the-heist-in-ls.json) |
 | The Heist mobile | 83914 | [83914-the-heist-mobile.json](./83914-the-heist-mobile.json) |
@@ -12760,6 +12761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Land | 403022 | [403022-the-little-land.json](./403022-the-little-land.json) |
 | The Little Lifeform That Could | 57483 | [57483-the-little-lifeform-that-could.json](./57483-the-little-lifeform-that-could.json) |
 | The Little Match Girl 2: Annus Evertens | 290400 | [290400-the-little-match-girl-2-annus-evertens.json](./290400-the-little-match-girl-2-annus-evertens.json) |
+| The Little Match Girl 3: The Escalus Manifold | 268794 | [268794-the-little-match-girl-3-the-escalus-manifold.json](./268794-the-little-match-girl-3-the-escalus-manifold.json) |
 | The Little Match Girl 4: Crown of Pearls | 290406 | [290406-the-little-match-girl-4-crown-of-pearls.json](./290406-the-little-match-girl-4-crown-of-pearls.json) |
 | The Little Match Girl against the Universal Sisterhood of Naughty Little Girls | 290407 | [290407-the-little-match-girl-against-the-universal-sisterhood-of-naughty-little-girls.json](./290407-the-little-match-girl-against-the-universal-sisterhood-of-naughty-little-girls.json) |
 | The Little Match Girl and Her Friend, the Crow | 290405 | [290405-the-little-match-girl-and-her-friend-the-crow.json](./290405-the-little-match-girl-and-her-friend-the-crow.json) |
@@ -15856,6 +15858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seven Awakenings: I Randall | 249383 | [249383-the-seven-awakenings-i-randall.json](./249383-the-seven-awakenings-i-randall.json) |
 | The Seven Bad Apples | 382748 | [382748-the-seven-bad-apples.json](./382748-the-seven-bad-apples.json) |
 | The Seven Betrayers | 282033 | [282033-the-seven-betrayers.json](./282033-the-seven-betrayers.json) |
+| The Seven Chambers | 268779 | [268779-the-seven-chambers.json](./268779-the-seven-chambers.json) |
 | The Seven Cities of Gold | 8994 | [8994-the-seven-cities-of-gold.json](./8994-the-seven-cities-of-gold.json) |
 | The Seven Cities of Gold: Commemorative Edition | 8996 | [8996-the-seven-cities-of-gold-commemorative-edition.json](./8996-the-seven-cities-of-gold-commemorative-edition.json) |
 | The Seven Colors: Legend of Psys City | 137903 | [137903-the-seven-colors-legend-of-psys-city.json](./137903-the-seven-colors-legend-of-psys-city.json) |
@@ -16709,6 +16712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spy | 94115 | [94115-the-spy.json](./94115-the-spy.json) |
 | The Spy I Married | 327991 | [327991-the-spy-i-married.json](./327991-the-spy-i-married.json) |
 | The Spy Strikes Back! | 295988 | [295988-the-spy-strikes-back.json](./295988-the-spy-strikes-back.json) |
+| The Spy Who Loved Me 64 | 268719 | [268719-the-spy-who-loved-me-64.json](./268719-the-spy-who-loved-me-64.json) |
 | The Spy's Adventures in Europe | 54642 | [54642-the-spys-adventures-in-europe.json](./54642-the-spys-adventures-in-europe.json) |
 | The Spy's Adventures in South America | 54643 | [54643-the-spys-adventures-in-south-america.json](./54643-the-spys-adventures-in-south-america.json) |
 | The Square Game | 130377 | [130377-the-square-game.json](./130377-the-square-game.json) |
@@ -26648,6 +26652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town Keeper | 316863 | [316863-town-keeper.json](./316863-town-keeper.json) |
 | Town Market Simulator 2025 | 384276 | [384276-town-market-simulator-2025.json](./384276-town-market-simulator-2025.json) |
 | Town of Ancient Tea | 247896 | [247896-town-of-ancient-tea.json](./247896-town-of-ancient-tea.json) |
+| Town of Aquafort | 268778 | [268778-town-of-aquafort.json](./268778-town-of-aquafort.json) |
 | Town of Cinders | 398307 | [398307-town-of-cinders.json](./398307-town-of-cinders.json) |
 | Town of Destruction | 192184 | [192184-town-of-destruction.json](./192184-town-of-destruction.json) |
 | Town of Dusk | 251810 | [251810-town-of-dusk.json](./251810-town-of-dusk.json) |
@@ -29977,6 +29982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribble Troubles | 133160 | [133160-tribble-troubles.json](./133160-tribble-troubles.json) |
 | Tribble Trubble | 299689 | [299689-tribble-trubble.json](./299689-tribble-trubble.json) |
 | Tribe Cool Crew: The G@me | 59154 | [59154-tribe-cool-crew-the-g-me.json](./59154-tribe-cool-crew-the-g-me.json) |
+| Tribe Dash: Scout's Pack | 268796 | [268796-tribe-dash-scouts-pack.json](./268796-tribe-dash-scouts-pack.json) |
 | Tribe Explorer | 213413 | [213413-tribe-explorer.json](./213413-tribe-explorer.json) |
 | Tribe Nine | 130317 | [130317-tribe-nine.json](./130317-tribe-nine.json) |
 | Tribe of Pok | 31979 | [31979-tribe-of-pok.json](./31979-tribe-of-pok.json) |
@@ -31524,6 +31530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tums: Battle of the Burn | 61430 | [61430-tums-battle-of-the-burn.json](./61430-tums-battle-of-the-burn.json) |
 | Tun Shi Tian Di III | 330523 | [330523-tun-shi-tian-di-iii.json](./330523-tun-shi-tian-di-iii.json) |
 | Tun Town 2 | 92327 | [92327-tun-town-2.json](./92327-tun-town-2.json) |
+| Tuna Rice | 268781 | [268781-tuna-rice.json](./268781-tuna-rice.json) |
 | Tuna Roll | 325826 | [325826-tuna-roll.json](./325826-tuna-roll.json) |
 | Tuna The Cat | 249184 | [249184-tuna-the-cat.json](./249184-tuna-the-cat.json) |
 | Tunche | 96092 | [96092-tunche.json](./96092-tunche.json) |
