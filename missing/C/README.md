@@ -12470,6 +12470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer 3: Tiberium Wars - Kane Edition | 207005 | [207005-command-and-conquer-3-tiberium-wars-kane-edition.json](./207005-command-and-conquer-3-tiberium-wars-kane-edition.json) |
 | Command & Conquer 3: Tiberium Wars - Map Pack 1 | 403965 | [403965-command-and-conquer-3-tiberium-wars-map-pack-1.json](./403965-command-and-conquer-3-tiberium-wars-map-pack-1.json) |
 | Command & Conquer 3D | 414520 | [414520-command-and-conquer-3d.json](./414520-command-and-conquer-3d.json) |
+| Command & Conquer and The Covert Operations | 290216 | [290216-command-and-conquer-and-the-covert-operations.json](./290216-command-and-conquer-and-the-covert-operations.json) |
 | Command & Conquer Remastered Collection | 112104 | [112104-command-and-conquer-remastered-collection.json](./112104-command-and-conquer-remastered-collection.json) |
 | Command & Conquer: Generals - Deluxe Edition | 87190 | [87190-command-and-conquer-generals-deluxe-edition.json](./87190-command-and-conquer-generals-deluxe-edition.json) |
 | Command & Conquer: Legions | 256912 | [256912-command-and-conquer-legions.json](./256912-command-and-conquer-legions.json) |
