@@ -1495,6 +1495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rakuen: Ai Kawarazu na Boku. no Baai | 376505 | [376505-rakuen-ai-kawarazu-na-boku-no-baai.json](./376505-rakuen-ai-kawarazu-na-boku-no-baai.json) |
 | Rakuga Fantasy | 183436 | [183436-rakuga-fantasy.json](./183436-rakuga-fantasy.json) |
 | Rakugaki Kingdom | 221245 | [221245-rakugaki-kingdom.json](./221245-rakugaki-kingdom.json) |
+| Rakugaki Mario | 277065 | [277065-rakugaki-mario.json](./277065-rakugaki-mario.json) |
 | Rakugaki Showtime | 46082 | [46082-rakugaki-showtime.json](./46082-rakugaki-showtime.json) |
 | Rakugaki Special | 137919 | [137919-rakugaki-special.json](./137919-rakugaki-special.json) |
 | Rakugakids | 3581 | [3581-rakugakids.json](./3581-rakugakids.json) |
