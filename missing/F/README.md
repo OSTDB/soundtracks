@@ -8870,6 +8870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Truck Tycoon: Asian Cuisine Expansion Pack 2 | 199855 | [199855-food-truck-tycoon-asian-cuisine-expansion-pack-2.json](./199855-food-truck-tycoon-asian-cuisine-expansion-pack-2.json) |
 | Food Truck Tycoon: Co-op Edition | 247590 | [247590-food-truck-tycoon-co-op-edition.json](./247590-food-truck-tycoon-co-op-edition.json) |
 | Food Truck Tycoon: Complete Edition | 199845 | [199845-food-truck-tycoon-complete-edition.json](./199845-food-truck-tycoon-complete-edition.json) |
+| Food Truck Tycoon: Couch Co-op Edition | 256616 | [256616-food-truck-tycoon-couch-co-op-edition.json](./256616-food-truck-tycoon-couch-co-op-edition.json) |
 | Food Truck Tycoon: Deluxe Edition | 221506 | [221506-food-truck-tycoon-deluxe-edition.json](./221506-food-truck-tycoon-deluxe-edition.json) |
 | Food Truck Tycoon: Expansion Pack 2 | 199838 | [199838-food-truck-tycoon-expansion-pack-2.json](./199838-food-truck-tycoon-expansion-pack-2.json) |
 | Food Truck Tycoon: GOTY Edition | 268556 | [268556-food-truck-tycoon-goty-edition.json](./268556-food-truck-tycoon-goty-edition.json) |
@@ -13013,6 +13014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Chess | 260053 | [260053-fun-chess.json](./260053-fun-chess.json) |
 | Fun Chess: Complete Edition | 277912 | [277912-fun-chess-complete-edition.json](./277912-fun-chess-complete-edition.json) |
 | Fun Chess: Definitive Edition | 275032 | [275032-fun-chess-definitive-edition.json](./275032-fun-chess-definitive-edition.json) |
+| Fun Chess: Deluxe Edition | 256622 | [256622-fun-chess-deluxe-edition.json](./256622-fun-chess-deluxe-edition.json) |
 | Fun Chess: Extended Edition | 263551 | [263551-fun-chess-extended-edition.json](./263551-fun-chess-extended-edition.json) |
 | Fun Chess: GOTY Edition | 287129 | [287129-fun-chess-goty-edition.json](./287129-fun-chess-goty-edition.json) |
 | Fun Chess: Legendary Edition | 280602 | [280602-fun-chess-legendary-edition.json](./280602-fun-chess-legendary-edition.json) |
