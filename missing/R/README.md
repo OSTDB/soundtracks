@@ -4658,6 +4658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relash | 169647 | [169647-relash.json](./169647-relash.json) |
 | Related | 133380 | [133380-related.json](./133380-related.json) |
 | Relation Killer | 224645 | [224645-relation-killer.json](./224645-relation-killer.json) |
+| Relationship Anarchy | 289668 | [289668-relationship-anarchy.json](./289668-relationship-anarchy.json) |
 | Relative Frame | 382932 | [382932-relative-frame.json](./382932-relative-frame.json) |
 | Relative Velocity | 385993 | [385993-relative-velocity.json](./385993-relative-velocity.json) |
 | Relativity | 31637 | [31637-relativity.json](./31637-relativity.json) |
@@ -5180,6 +5181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reprocessing | 399250 | [399250-reprocessing.json](./399250-reprocessing.json) |
 | Reproduction Man | 31755 | [31755-reproduction-man.json](./31755-reproduction-man.json) |
 | reProgram | 128633 | [128633-reprogram.json](./128633-reprogram.json) |
+| Repterra | 289659 | [289659-repterra.json](./289659-repterra.json) |
 | Reptile Island | 386383 | [386383-reptile-island.json](./386383-reptile-island.json) |
 | Reptile Park VR | 253863 | [253863-reptile-park-vr.json](./253863-reptile-park-vr.json) |
 | Reptile Recall | 402319 | [402319-reptile-recall.json](./402319-reptile-recall.json) |
@@ -11565,6 +11567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubber Sharks | 305980 | [305980-rubber-sharks.json](./305980-rubber-sharks.json) |
 | Rubber Toys | 38776 | [38776-rubber-toys.json](./38776-rubber-toys.json) |
 | Rubberduck Wave Racer | 245716 | [245716-rubberduck-wave-racer.json](./245716-rubberduck-wave-racer.json) |
+| Rubbings | 289671 | [289671-rubbings.json](./289671-rubbings.json) |
 | Rubbish | 340684 | [340684-rubbish.json](./340684-rubbish.json) |
 | Rubbish Blazon | 64059 | [64059-rubbish-blazon.json](./64059-rubbish-blazon.json) |
 | Rubbish Island | 378890 | [378890-rubbish-island.json](./378890-rubbish-island.json) |
