@@ -2564,6 +2564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jolly Good: Tea and Scones | 273805 | [273805-jolly-good-tea-and-scones.json](./273805-jolly-good-tea-and-scones.json) |
 | Jolly Jam | 56432 | [56432-jolly-jam.json](./56432-jolly-jam.json) |
 | Jolly Join | 58754 | [58754-jolly-join.json](./58754-jolly-join.json) |
+| Jolly Junkyard | 257145 | [257145-jolly-junkyard.json](./257145-jolly-junkyard.json) |
 | Jolly Laughter | 191563 | [191563-jolly-laughter.json](./191563-jolly-laughter.json) |
 | Jolly Match 3 MR | 380576 | [380576-jolly-match-3-mr.json](./380576-jolly-match-3-mr.json) |
 | Jolly Putt: Mini Golf & Arcade | 258705 | [258705-jolly-putt-mini-golf-and-arcade.json](./258705-jolly-putt-mini-golf-and-arcade.json) |
