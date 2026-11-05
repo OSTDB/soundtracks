@@ -2394,6 +2394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears of War: Ultimate Edition - Deluxe Version | 164770 | [164770-gears-of-war-ultimate-edition-deluxe-version.json](./164770-gears-of-war-ultimate-edition-deluxe-version.json) |
 | Gears of War: Ultimate Edition and Rare Replay | 41613 | [41613-gears-of-war-ultimate-edition-and-rare-replay.json](./41613-gears-of-war-ultimate-edition-and-rare-replay.json) |
 | Gears Pop! | 103290 | [103290-gears-pop.json](./103290-gears-pop.json) |
+| Gears Story | 292471 | [292471-gears-story.json](./292471-gears-story.json) |
 | Gears Triple Bundle | 161180 | [161180-gears-triple-bundle.json](./161180-gears-triple-bundle.json) |
 | Gears Unchained: The Rise of Revolution | 309380 | [309380-gears-unchained-the-rise-of-revolution.json](./309380-gears-unchained-the-rise-of-revolution.json) |
 | Gearshifters: Collector's Edition | 159021 | [159021-gearshifters-collectors-edition.json](./159021-gearshifters-collectors-edition.json) |
@@ -5175,6 +5176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomageddon: Forge of Infinity | 408033 | [408033-gnomageddon-forge-of-infinity.json](./408033-gnomageddon-forge-of-infinity.json) |
 | Gnomancer | 118426 | [118426-gnomancer.json](./118426-gnomancer.json) |
 | Gnomber | 288199 | [288199-gnomber.json](./288199-gnomber.json) |
+| Gnomdom | 292340 | [292340-gnomdom.json](./292340-gnomdom.json) |
 | Gnome | 250862 | [250862-gnome.json](./250862-gnome.json) |
 | Gnome 2048 | 122775 | [122775-gnome-2048.json](./122775-gnome-2048.json) |
 | Gnome Aisleriot | 122783 | [122783-gnome-aisleriot.json](./122783-gnome-aisleriot.json) |
@@ -10412,6 +10414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun & Buckler | 211542 | [211542-gun-and-buckler.json](./211542-gun-and-buckler.json) |
 | Gun & Girls.io | 200754 | [200754-gun-and-girls-io.json](./200754-gun-and-girls-io.json) |
 | Gun and Buckler | 217237 | [217237-gun-and-buckler.json](./217237-gun-and-buckler.json) |
+| Gun And Sword | 292473 | [292473-gun-and-sword.json](./292473-gun-and-sword.json) |
 | Gun Beat | 113458 | [113458-gun-beat.json](./113458-gun-beat.json) |
 | Gun Blade | 212204 | [212204-gun-blade.json](./212204-gun-blade.json) |
 | Gun Blood Cowboy Duel | 103506 | [103506-gun-blood-cowboy-duel.json](./103506-gun-blood-cowboy-duel.json) |
