@@ -3585,6 +3585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juniper: A Scrapbooking Adventure | 386722 | [386722-juniper-a-scrapbooking-adventure.json](./386722-juniper-a-scrapbooking-adventure.json) |
 | Juniper's Knot | 55796 | [55796-junipers-knot.json](./55796-junipers-knot.json) |
 | Junjou Gal to Shiawase no Katachi: Shape of Happiness | 221201 | [221201-junjou-gal-to-shiawase-no-katachi-shape-of-happiness.json](./221201-junjou-gal-to-shiawase-no-katachi-shape-of-happiness.json) |
+| Junjou Romantica: Koi no Doki-doki Daisakusen | 287437 | [287437-junjou-romantica-koi-no-doki-doki-daisakusen.json](./287437-junjou-romantica-koi-no-doki-doki-daisakusen.json) |
 | Junk | 122251 | [122251-junk.json](./122251-junk.json) |
 | Junk Architect | 149189 | [149189-junk-architect.json](./149189-junk-architect.json) |
 | Junk Ark | 420328 | [420328-junk-ark.json](./420328-junk-ark.json) |
