@@ -2829,6 +2829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man of the World | 156074 | [156074-man-of-the-world.json](./156074-man-of-the-world.json) |
 | Man of War | 62287 | [62287-man-of-war.json](./62287-man-of-war.json) |
 | Man of War II: Chains of Command | 73835 | [73835-man-of-war-ii-chains-of-command.json](./73835-man-of-war-ii-chains-of-command.json) |
+| Man on the Moon | 259353 | [259353-man-on-the-moon.json](./259353-man-on-the-moon.json) |
 | Man on Wire | 244815 | [244815-man-on-wire.json](./244815-man-on-wire.json) |
 | Man or Muppet | 204238 | [204238-man-or-muppet.json](./204238-man-or-muppet.json) |
 | Man or Vampire | 112264 | [112264-man-or-vampire.json](./112264-man-or-vampire.json) |
@@ -9815,6 +9816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metaverse | 17885 | [17885-metaverse.json](./17885-metaverse.json) |
 | Metaverse Construction Kit | 34001 | [34001-metaverse-construction-kit.json](./34001-metaverse-construction-kit.json) |
 | Metaverse Keeper | 111984 | [111984-metaverse-keeper.json](./111984-metaverse-keeper.json) |
+| Metaverser | 259328 | [259328-metaverser.json](./259328-metaverser.json) |
 | Metavoidal | 221335 | [221335-metavoidal.json](./221335-metavoidal.json) |
 | Metawork: Antique Shop Simulator | 366330 | [366330-metawork-antique-shop-simulator.json](./366330-metawork-antique-shop-simulator.json) |
 | Metawork: Hotel Simulator | 243395 | [243395-metawork-hotel-simulator.json](./243395-metawork-hotel-simulator.json) |
@@ -14241,6 +14243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobius Band | 217491 | [217491-mobius-band.json](./217491-mobius-band.json) |
 | Möbius Drive | 408867 | [408867-mobius-drive.json](./408867-mobius-drive.json) |
 | Mobius Final Fantasy | 21628 | [21628-mobius-final-fantasy.json](./21628-mobius-final-fantasy.json) |
+| Mobius Final Fantasy: Warrior of Despair | 259336 | [259336-mobius-final-fantasy-warrior-of-despair.json](./259336-mobius-final-fantasy-warrior-of-despair.json) |
 | Möbius Front '83 | 140436 | [140436-mobius-front-83.json](./140436-mobius-front-83.json) |
 | Möbius Link | 400076 | [400076-mobius-link.json](./400076-mobius-link.json) |
 | Möbius Link 3D | 400075 | [400075-mobius-link-3d.json](./400075-mobius-link-3d.json) |
@@ -20756,6 +20759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Step Sisters | 344946 | [344946-my-step-sisters.json](./344946-my-step-sisters.json) |
 | My Sticker Room | 383969 | [383969-my-sticker-room.json](./383969-my-sticker-room.json) |
 | My Sticker Zoo | 367558 | [367558-my-sticker-zoo.json](./367558-my-sticker-zoo.json) |
+| My Stomach Hurts and Things Will Never Get Better and I Want to Puke | 259367 | [259367-my-stomach-hurts-and-things-will-never-get-better-and-i-want-to-puke.json](./259367-my-stomach-hurts-and-things-will-never-get-better-and-i-want-to-puke.json) |
 | My Stop Smoking Coach with Allen Carr | 70638 | [70638-my-stop-smoking-coach-with-allen-carr.json](./70638-my-stop-smoking-coach-with-allen-carr.json) |
 | My Stop Smoking Coach: Allen Carr's EasyWay | 123359 | [123359-my-stop-smoking-coach-allen-carrs-easyway.json](./123359-my-stop-smoking-coach-allen-carrs-easyway.json) |
 | My Story | 186500 | [186500-my-story.json](./186500-my-story.json) |
