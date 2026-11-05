@@ -815,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Megawad in Two Weeks | 274142 | [274142-a-megawad-in-two-weeks.json](./274142-a-megawad-in-two-weeks.json) |
 | A Melon's Tale | 180671 | [180671-a-melons-tale.json](./180671-a-melons-tale.json) |
 | A Merchant's Promise | 327692 | [327692-a-merchants-promise.json](./327692-a-merchants-promise.json) |
+| A Mermaid's Paradoxical Tale | 273664 | [273664-a-mermaids-paradoxical-tale.json](./273664-a-mermaids-paradoxical-tale.json) |
 | A Message and an Advice | 159003 | [159003-a-message-and-an-advice.json](./159003-a-message-and-an-advice.json) |
 | A Message For The Stone King | 260077 | [260077-a-message-for-the-stone-king.json](./260077-a-message-for-the-stone-king.json) |
 | A Messenger | 282711 | [282711-a-messenger.json](./282711-a-messenger.json) |
@@ -3002,6 +3003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ad Astra: Sci-Fi Tower Defense | 326232 | [326232-ad-astra-sci-fi-tower-defense.json](./326232-ad-astra-sci-fi-tower-defense.json) |
 | AD Blocker: An Action Puzzle Game | 357970 | [357970-ad-blocker-an-action-puzzle-game.json](./357970-ad-blocker-an-action-puzzle-game.json) |
 | Ad Exitum | 33466 | [33466-ad-exitum.json](./33466-ad-exitum.json) |
+| Ad Fundum | 273626 | [273626-ad-fundum.json](./273626-ad-fundum.json) |
 | Ad Infinitum | 47222 | [47222-ad-infinitum.json](./47222-ad-infinitum.json) |
 | Ad Infinitum: Supporter Edition | 336136 | [336136-ad-infinitum-supporter-edition.json](./336136-ad-infinitum-supporter-edition.json) |
 | Ad Iterum | 380377 | [380377-ad-iterum.json](./380377-ad-iterum.json) |
@@ -6135,6 +6137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemy of Castle | 96432 | [96432-alchemy-of-castle.json](./96432-alchemy-of-castle.json) |
 | Alchemy of Love | 214160 | [214160-alchemy-of-love.json](./214160-alchemy-of-love.json) |
 | Alchemy of the Earth | 288750 | [288750-alchemy-of-the-earth.json](./288750-alchemy-of-the-earth.json) |
+| Alchemy Origin | 273611 | [273611-alchemy-origin.json](./273611-alchemy-origin.json) |
 | Alchemy Pipes Puzzle | 297727 | [297727-alchemy-pipes-puzzle.json](./297727-alchemy-pipes-puzzle.json) |
 | Alchemy Quest | 135904 | [135904-alchemy-quest.json](./135904-alchemy-quest.json) |
 | Alchemy Stars | 144849 | [144849-alchemy-stars.json](./144849-alchemy-stars.json) |
@@ -8166,6 +8169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AmberCity | 101062 | [101062-ambercity.json](./101062-ambercity.json) |
 | Amberial | 261918 | [261918-amberial.json](./261918-amberial.json) |
 | Amberial Dreams | 107773 | [107773-amberial-dreams.json](./107773-amberial-dreams.json) |
+| Amberial: Nebulosa Realms | 273698 | [273698-amberial-nebulosa-realms.json](./273698-amberial-nebulosa-realms.json) |
 | Ambermoon | 11897 | [11897-ambermoon.json](./11897-ambermoon.json) |
 | Ambermoon.net | 217853 | [217853-ambermoon-net.json](./217853-ambermoon-net.json) |
 | Ambers Boom | 44299 | [44299-ambers-boom.json](./44299-ambers-boom.json) |
@@ -10086,6 +10090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girls: Sun of a Beach | 288718 | [288718-anime-girls-sun-of-a-beach.json](./288718-anime-girls-sun-of-a-beach.json) |
 | Anime Girls: Tactical Assault | 402306 | [402306-anime-girls-tactical-assault.json](./402306-anime-girls-tactical-assault.json) |
 | Anime Girls: Tokyo Christmas | 381704 | [381704-anime-girls-tokyo-christmas.json](./381704-anime-girls-tokyo-christmas.json) |
+| Anime Girls: Ultimate Edition | 273674 | [273674-anime-girls-ultimate-edition.json](./273674-anime-girls-ultimate-edition.json) |
 | Anime Girls: Wasteland Shootout | 315662 | [315662-anime-girls-wasteland-shootout.json](./315662-anime-girls-wasteland-shootout.json) |
 | Anime Hero | 228306 | [228306-anime-hero.json](./228306-anime-hero.json) |
 | Anime Hero Zero | 292011 | [292011-anime-hero-zero.json](./292011-anime-hero-zero.json) |
@@ -12579,6 +12584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcana Heart Full! | 234824 | [234824-arcana-heart-full.json](./234824-arcana-heart-full.json) |
 | Arcana Noir | 261833 | [261833-arcana-noir.json](./261833-arcana-noir.json) |
 | Arcana of Paradise: The Tower | 194945 | [194945-arcana-of-paradise-the-tower.json](./194945-arcana-of-paradise-the-tower.json) |
+| Arcana Outcasts | 273613 | [273613-arcana-outcasts.json](./273613-arcana-outcasts.json) |
 | Arcana Ritter | 91422 | [91422-arcana-ritter.json](./91422-arcana-ritter.json) |
 | Arcana Roma | 362930 | [362930-arcana-roma.json](./362930-arcana-roma.json) |
 | Arcana Strikes | 45428 | [45428-arcana-strikes.json](./45428-arcana-strikes.json) |
@@ -12884,6 +12890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Architects of Giants | 402550 | [402550-architects-of-giants.json](./402550-architects-of-giants.json) |
 | Architects of Shangri-La | 167839 | [167839-architects-of-shangri-la.json](./167839-architects-of-shangri-la.json) |
 | Architectural Adventure | 106464 | [106464-architectural-adventure.json](./106464-architectural-adventure.json) |
+| Architectural Madman | 273610 | [273610-architectural-madman.json](./273610-architectural-madman.json) |
 | Architecture Zeitgeist | 249770 | [249770-architecture-zeitgeist.json](./249770-architecture-zeitgeist.json) |
 | Architectus | 160270 | [160270-architectus.json](./160270-architectus.json) |
 | Architekt | 332180 | [332180-architekt.json](./332180-architekt.json) |
@@ -16281,7 +16288,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
