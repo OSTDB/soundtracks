@@ -798,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Of The Horizon | 320629 | [320629-echo-of-the-horizon.json](./320629-echo-of-the-horizon.json) |
 | Echo of the Last Light | 226812 | [226812-echo-of-the-last-light.json](./226812-echo-of-the-last-light.json) |
 | Echo of the Walls | 379179 | [379179-echo-of-the-walls.json](./379179-echo-of-the-walls.json) |
+| Echo of the Waves | 263815 | [263815-echo-of-the-waves.json](./263815-echo-of-the-waves.json) |
 | Echo of the Wilds | 17514 | [17514-echo-of-the-wilds.json](./17514-echo-of-the-wilds.json) |
 | Echo Pandemic | 404333 | [404333-echo-pandemic.json](./404333-echo-pandemic.json) |
 | Echo Point Nova | 243932 | [243932-echo-point-nova.json](./243932-echo-point-nova.json) |
@@ -1723,6 +1724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eigenstate | 426437 | [426437-eigenstate.json](./426437-eigenstate.json) |
 | Eight | 163756 | [163756-eight.json](./163756-eight.json) |
 | Eight Ball | 93592 | [93592-eight-ball.json](./93592-eight-ball.json) |
+| Eight Balls | 263814 | [263814-eight-balls.json](./263814-eight-balls.json) |
 | Eight Characters, a Number, and a Happy Ending | 57507 | [57507-eight-characters-a-number-and-a-happy-ending.json](./57507-eight-characters-a-number-and-a-happy-ending.json) |
 | Eight Corners: A Maguntsche Story | 229289 | [229289-eight-corners-a-maguntsche-story.json](./229289-eight-corners-a-maguntsche-story.json) |
 | Eight Dragons 2 | 307674 | [307674-eight-dragons-2.json](./307674-eight-dragons-2.json) |
@@ -3608,6 +3610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Champion | 193931 | [193931-endless-champion.json](./193931-endless-champion.json) |
 | Endless Chaos: Hordes of the Afterlife | 209665 | [209665-endless-chaos-hordes-of-the-afterlife.json](./209665-endless-chaos-hordes-of-the-afterlife.json) |
 | Endless Chase: Fate of Bolek | 307211 | [307211-endless-chase-fate-of-bolek.json](./307211-endless-chase-fate-of-bolek.json) |
+| Endless Cold Journey | 263813 | [263813-endless-cold-journey.json](./263813-endless-cold-journey.json) |
 | Endless Combat | 72365 | [72365-endless-combat.json](./72365-endless-combat.json) |
 | Endless Combat Dungeon | 184621 | [184621-endless-combat-dungeon.json](./184621-endless-combat-dungeon.json) |
 | Endless Crawler | 149310 | [149310-endless-crawler.json](./149310-endless-crawler.json) |
@@ -4710,6 +4713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eraser-kun Race GP | 221496 | [221496-eraser-kun-race-gp.json](./221496-eraser-kun-race-gp.json) |
 | Eraser: Turnabout | 64237 | [64237-eraser-turnabout.json](./64237-eraser-turnabout.json) |
 | Erasure | 125282 | [125282-erasure.json](./125282-erasure.json) |
+| EraTurn | 263812 | [263812-eraturn.json](./263812-eraturn.json) |
 | Erayu | 58903 | [58903-erayu.json](./58903-erayu.json) |
 | Erazer: Devise & Destroy | 164058 | [164058-erazer-devise-and-destroy.json](./164058-erazer-devise-and-destroy.json) |
 | Erdetspill | 411414 | [411414-erdetspill.json](./411414-erdetspill.json) |
