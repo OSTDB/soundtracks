@@ -6858,6 +6858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Islands | 187398 | [187398-hidden-islands.json](./187398-hidden-islands.json) |
 | Hidden Journalist | 103859 | [103859-hidden-journalist.json](./103859-hidden-journalist.json) |
 | Hidden Kingdom: Top-Down 3D | 257068 | [257068-hidden-kingdom-top-down-3d.json](./257068-hidden-kingdom-top-down-3d.json) |
+| Hidden Kitten | 251935 | [251935-hidden-kitten.json](./251935-hidden-kitten.json) |
 | Hidden Kooky Set | 362584 | [362584-hidden-kooky-set.json](./362584-hidden-kooky-set.json) |
 | Hidden Lands | 343784 | [343784-hidden-lands.json](./343784-hidden-lands.json) |
 | Hidden Legacy: Dark Heirloom | 416709 | [416709-hidden-legacy-dark-heirloom.json](./416709-hidden-legacy-dark-heirloom.json) |
@@ -7491,6 +7492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Strategy: Urukon | 132585 | [132585-high-strategy-urukon.json](./132585-high-strategy-urukon.json) |
 | High Tail Hall | 130045 | [130045-high-tail-hall.json](./130045-high-tail-hall.json) |
 | High Templar VR | 36713 | [36713-high-templar-vr.json](./36713-high-templar-vr.json) |
+| High Times | 251915 | [251915-high-times.json](./251915-high-times.json) |
 | High Up | 309440 | [309440-high-up.json](./309440-high-up.json) |
 | High Velocity Arena | 251988 | [251988-high-velocity-arena.json](./251988-high-velocity-arena.json) |
 | High Velocity Bowling | 21816 | [21816-high-velocity-bowling.json](./21816-high-velocity-bowling.json) |
@@ -9822,6 +9824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizons: The End Of Words | 314473 | [314473-horizons-the-end-of-words.json](./314473-horizons-the-end-of-words.json) |
 | Horizontal | 292060 | [292060-horizontal.json](./292060-horizontal.json) |
 | Horké Léto 2 | 292086 | [292086-horke-leto-2.json](./292086-horke-leto-2.json) |
+| Horla | 251893 | [251893-horla.json](./251893-horla.json) |
 | Hormiga Escape | 315255 | [315255-hormiga-escape.json](./315255-hormiga-escape.json) |
 | Hormiga Escape 2 | 315256 | [315256-hormiga-escape-2.json](./315256-hormiga-escape-2.json) |
 | Hormone Wars | 181114 | [181114-hormone-wars.json](./181114-hormone-wars.json) |
