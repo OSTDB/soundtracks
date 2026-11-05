@@ -1597,6 +1597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Night 1320 | 115654 | [115654-late-night-1320.json](./115654-late-night-1320.json) |
 | Late Night at the KWL | 308114 | [308114-late-night-at-the-kwl.json](./308114-late-night-at-the-kwl.json) |
 | Late Night Breakfast | 178991 | [178991-late-night-breakfast.json](./178991-late-night-breakfast.json) |
+| Late Night Cleaning Simulator | 267708 | [267708-late-night-cleaning-simulator.json](./267708-late-night-cleaning-simulator.json) |
 | Late Night Confessional | 321641 | [321641-late-night-confessional.json](./321641-late-night-confessional.json) |
 | Late Night Delivery: The Bewitched Collection | 260290 | [260290-late-night-delivery-the-bewitched-collection.json](./260290-late-night-delivery-the-bewitched-collection.json) |
 | Late Night Drift | 285890 | [285890-late-night-drift.json](./285890-late-night-drift.json) |
@@ -2163,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leap Frog | 388926 | [388926-leap-frog.json](./388926-leap-frog.json) |
 | Leap Frog | 89158 | [89158-leap-frog.json](./89158-leap-frog.json) |
 | Leap Galaxy | 347854 | [347854-leap-galaxy.json](./347854-leap-galaxy.json) |
+| Leap Hero | 267707 | [267707-leap-hero.json](./267707-leap-hero.json) |
 | Leap in Bootstrap | 254530 | [254530-leap-in-bootstrap.json](./254530-leap-in-bootstrap.json) |
 | Leap In Deep | 371141 | [371141-leap-in-deep.json](./371141-leap-in-deep.json) |
 | Leap In The Right Direction | 296487 | [296487-leap-in-the-right-direction.json](./296487-leap-in-the-right-direction.json) |
@@ -6093,6 +6095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Space Rangers | 181221 | [181221-little-space-rangers.json](./181221-little-space-rangers.json) |
 | Little Spaceman | 339161 | [339161-little-spaceman.json](./339161-little-spaceman.json) |
 | Little Sparks | 189168 | [189168-little-sparks.json](./189168-little-sparks.json) |
+| Little Splash | 267706 | [267706-little-splash.json](./267706-little-splash.json) |
 | Little Sprout Garden | 182103 | [182103-little-sprout-garden.json](./182103-little-sprout-garden.json) |
 | Little Spy | 184418 | [184418-little-spy.json](./184418-little-spy.json) |
 | Little Square Things | 114288 | [114288-little-square-things.json](./114288-little-square-things.json) |
@@ -8146,6 +8149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Railway | 397805 | [397805-lost-railway.json](./397805-lost-railway.json) |
 | Lost Realms | 335388 | [335388-lost-realms.json](./335388-lost-realms.json) |
 | Lost Reavers | 8595 | [8595-lost-reavers.json](./8595-lost-reavers.json) |
+| Lost Recall | 267705 | [267705-lost-recall.json](./267705-lost-recall.json) |
 | Lost Recipes | 194717 | [194717-lost-recipes.json](./194717-lost-recipes.json) |
 | Lost Records: Bloom & Rage - Tape 1 | 314260 | [314260-lost-records-bloom-and-rage-tape-1.json](./314260-lost-records-bloom-and-rage-tape-1.json) |
 | Lost Records: Bloom & Rage - Tape 2 | 314261 | [314261-lost-records-bloom-and-rage-tape-2.json](./314261-lost-records-bloom-and-rage-tape-2.json) |
@@ -9375,6 +9379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lulu Way | 197164 | [197164-lulu-way.json](./197164-lulu-way.json) |
 | Lulu's Temple | 195696 | [195696-lulus-temple.json](./195696-lulus-temple.json) |
 | Lum: Hide from Nightmares | 211180 | [211180-lum-hide-from-nightmares.json](./211180-lum-hide-from-nightmares.json) |
+| Lum's Game | 267704 | [267704-lums-game.json](./267704-lums-game.json) |
 | Luma | 323981 | [323981-luma.json](./323981-luma.json) |
 | Luma Island | 293035 | [293035-luma-island.json](./293035-luma-island.json) |
 | Luma Island: Pirates | 347822 | [347822-luma-island-pirates.json](./347822-luma-island-pirates.json) |
