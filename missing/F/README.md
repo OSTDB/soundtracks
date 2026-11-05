@@ -3376,6 +3376,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FBI Mania | 30065 | [30065-fbi-mania.json](./30065-fbi-mania.json) |
 | FBI-13 | 299697 | [299697-fbi-13.json](./299697-fbi-13.json) |
 | FBI: Paranormal Case | 122102 | [122102-fbi-paranormal-case.json](./122102-fbi-paranormal-case.json) |
+| FbSp001 | 273170 | [273170-fbsp001.json](./273170-fbsp001.json) |
+| FbSp002 | 273171 | [273171-fbsp002.json](./273171-fbsp002.json) |
+| FbSp003: City Under Siege | 273172 | [273172-fbsp003-city-under-siege.json](./273172-fbsp003-city-under-siege.json) |
 | FC 26 Quiz | 396596 | [396596-fc-26-quiz.json](./396596-fc-26-quiz.json) |
 | FC Barcelona Club Football | 267881 | [267881-fc-barcelona-club-football.json](./267881-fc-barcelona-club-football.json) |
 | FC Barcelona Club Football 2005 | 267909 | [267909-fc-barcelona-club-football-2005.json](./267909-fc-barcelona-club-football-2005.json) |
