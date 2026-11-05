@@ -2995,6 +2995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Leo | 178782 | [178782-king-leo.json](./178782-king-leo.json) |
 | King Lucas | 26371 | [26371-king-lucas.json](./26371-king-lucas.json) |
 | King Machine | 31514 | [31514-king-machine.json](./31514-king-machine.json) |
+| King Must Survive | 290201 | [290201-king-must-survive.json](./290201-king-must-survive.json) |
 | King NooB | 180054 | [180054-king-noob.json](./180054-king-noob.json) |
 | King Oddball | 20079 | [20079-king-oddball.json](./20079-king-oddball.json) |
 | King Oddball Ends the World | 52532 | [52532-king-oddball-ends-the-world.json](./52532-king-oddball-ends-the-world.json) |
