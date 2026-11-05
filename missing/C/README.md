@@ -592,6 +592,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Dookie | 274544 | [274544-call-of-dookie.json](./274544-call-of-dookie.json) |
 | Call of DOOM: Black Warfare - Brutal Edition | 199224 | [199224-call-of-doom-black-warfare-brutal-edition.json](./199224-call-of-doom-black-warfare-brutal-edition.json) |
 | Call of DOOM: Black Warfare - Vanilla Edition | 199231 | [199231-call-of-doom-black-warfare-vanilla-edition.json](./199231-call-of-doom-black-warfare-vanilla-edition.json) |
+| Call of Dooty | 252457 | [252457-call-of-dooty.json](./252457-call-of-dooty.json) |
+| Call of Dooty II: Green Ops | 252458 | [252458-call-of-dooty-ii-green-ops.json](./252458-call-of-dooty-ii-green-ops.json) |
+| Call of Dooty III: Spectres | 252459 | [252459-call-of-dooty-iii-spectres.json](./252459-call-of-dooty-iii-spectres.json) |
 | Call of Duty | 322845 | [322845-call-of-duty.json](./322845-call-of-duty.json) |
 | Call of Duty 2 | 119160 | [119160-call-of-duty-2.json](./119160-call-of-duty-2.json) |
 | Call of Duty 2 | 294571 | [294571-call-of-duty-2.json](./294571-call-of-duty-2.json) |
@@ -740,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare II - Griffin: Pro Pack | 254759 | [254759-call-of-duty-modern-warfare-ii-griffin-pro-pack.json](./254759-call-of-duty-modern-warfare-ii-griffin-pro-pack.json) |
 | Call of Duty: Modern Warfare II - Season 02 | 235080 | [235080-call-of-duty-modern-warfare-ii-season-02.json](./235080-call-of-duty-modern-warfare-ii-season-02.json) |
 | Call of Duty: Modern Warfare II - Season 03 | 243777 | [243777-call-of-duty-modern-warfare-ii-season-03.json](./243777-call-of-duty-modern-warfare-ii-season-03.json) |
+| Call of Duty: Modern Warfare II - Season 04 | 252460 | [252460-call-of-duty-modern-warfare-ii-season-04.json](./252460-call-of-duty-modern-warfare-ii-season-04.json) |
 | Call of Duty: Modern Warfare II - Season 05 | 259766 | [259766-call-of-duty-modern-warfare-ii-season-05.json](./259766-call-of-duty-modern-warfare-ii-season-05.json) |
 | Call of Duty: Modern Warfare II - Season 06: The Haunting | 272531 | [272531-call-of-duty-modern-warfare-ii-season-06-the-haunting.json](./272531-call-of-duty-modern-warfare-ii-season-06-the-haunting.json) |
 | Call of Duty: Modern Warfare II - Vault Edition | 218405 | [218405-call-of-duty-modern-warfare-ii-vault-edition.json](./218405-call-of-duty-modern-warfare-ii-vault-edition.json) |
@@ -2999,6 +3003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cart Fury: Championship Racing | 78637 | [78637-cart-fury-championship-racing.json](./78637-cart-fury-championship-racing.json) |
 | Cart Kings | 269409 | [269409-cart-kings.json](./269409-cart-kings.json) |
 | Cart Legends | 258329 | [258329-cart-legends.json](./258329-cart-legends.json) |
+| Cart Life | 252496 | [252496-cart-life.json](./252496-cart-life.json) |
 | Cart Panic! OS: E-Commerce Tycoon | 402494 | [402494-cart-panic-os-e-commerce-tycoon.json](./402494-cart-panic-os-e-commerce-tycoon.json) |
 | Cart Precision Racing | 627 | [627-cart-precision-racing.json](./627-cart-precision-racing.json) |
 | Cart Racing | 93163 | [93163-cart-racing.json](./93163-cart-racing.json) |
@@ -15428,6 +15433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cow Defender | 97441 | [97441-cow-defender.json](./97441-cow-defender.json) |
 | Cow Evolution | 203205 | [203205-cow-evolution.json](./203205-cow-evolution.json) |
 | Cow Girl 2 | 235931 | [235931-cow-girl-2.json](./235931-cow-girl-2.json) |
+| Cow Girls 3 Stories | 252515 | [252515-cow-girls-3-stories.json](./252515-cow-girls-3-stories.json) |
 | Cow Hunter | 200371 | [200371-cow-hunter.json](./200371-cow-hunter.json) |
 | Cow Life Sim RPG | 281348 | [281348-cow-life-sim-rpg.json](./281348-cow-life-sim-rpg.json) |
 | Cow Milking Simulator | 74988 | [74988-cow-milking-simulator.json](./74988-cow-milking-simulator.json) |
