@@ -3118,6 +3118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 757 Captain | 68097 | [68097-757-captain.json](./68097-757-captain.json) |
 | 757 Professional | 79568 | [79568-757-professional.json](./79568-757-professional.json) |
 | 76 | 179553 | [179553-76.json](./179553-76.json) |
+| 765 Suika | 282373 | [282373-765-suika.json](./282373-765-suika.json) |
 | 767 Advanced Flight Simulator | 15583 | [15583-767-advanced-flight-simulator.json](./15583-767-advanced-flight-simulator.json) |
 | 768^2 | 271238 | [271238-768-2.json](./271238-768-2.json) |
 | 77 Oleander Avenue Ghost House Investigation | 205674 | [205674-77-oleander-avenue-ghost-house-investigation.json](./205674-77-oleander-avenue-ghost-house-investigation.json) |
