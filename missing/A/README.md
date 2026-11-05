@@ -533,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Grim Granny | 407959 | [407959-a-grim-granny.json](./407959-a-grim-granny.json) |
 | A Grim Tale of Vices | 115389 | [115389-a-grim-tale-of-vices.json](./115389-a-grim-tale-of-vices.json) |
 | A Growing Adventure | 305129 | [305129-a-growing-adventure.json](./305129-a-growing-adventure.json) |
+| A Gruta de Maquiné | 293930 | [293930-a-gruta-de-maquine.json](./293930-a-gruta-de-maquine.json) |
 | A Guard Walks Into a Tavern | 148906 | [148906-a-guard-walks-into-a-tavern.json](./148906-a-guard-walks-into-a-tavern.json) |
 | A Guardian's Wish | 225564 | [225564-a-guardians-wish.json](./225564-a-guardians-wish.json) |
 | A Guidebook of Babel | 149085 | [149085-a-guidebook-of-babel.json](./149085-a-guidebook-of-babel.json) |
@@ -1788,6 +1789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned Knight | 33508 | [33508-abandoned-knight.json](./33508-abandoned-knight.json) |
 | Abandoned Life | 164513 | [164513-abandoned-life.json](./164513-abandoned-life.json) |
 | Abandoned Moons | 301219 | [301219-abandoned-moons.json](./301219-abandoned-moons.json) |
+| Abandoned Palace | 293942 | [293942-abandoned-palace.json](./293942-abandoned-palace.json) |
 | Abandoned Passage | 377425 | [377425-abandoned-passage.json](./377425-abandoned-passage.json) |
 | Abandoned Places 2 | 11849 | [11849-abandoned-places-2.json](./11849-abandoned-places-2.json) |
 | Abandoned Realms | 229108 | [229108-abandoned-realms.json](./229108-abandoned-realms.json) |
@@ -1819,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abby Monkey Basic Skills Pre K | 88921 | [88921-abby-monkey-basic-skills-pre-k.json](./88921-abby-monkey-basic-skills-pre-k.json) |
 | Abby Monkey Musical Puzzle Games | 96753 | [96753-abby-monkey-musical-puzzle-games.json](./96753-abby-monkey-musical-puzzle-games.json) |
 | Abby Normalli in Mayhem Mansion | 377424 | [377424-abby-normalli-in-mayhem-mansion.json](./377424-abby-normalli-in-mayhem-mansion.json) |
+| Abby y El Secreto de Gordonne | 293960 | [293960-abby-y-el-secreto-de-gordonne.json](./293960-abby-y-el-secreto-de-gordonne.json) |
 | Abbys Endless Adventure | 77591 | [77591-abbys-endless-adventure.json](./77591-abbys-endless-adventure.json) |
 | ABC Book 3D: Learn English | 377423 | [377423-abc-book-3d-learn-english.json](./377423-abc-book-3d-learn-english.json) |
 | ABC Coloring Town | 32556 | [32556-abc-coloring-town.json](./32556-abc-coloring-town.json) |
@@ -3230,6 +3233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adult Charades! Guess Words on Your Heads While Tilting Up or Down | 98863 | [98863-adult-charades-guess-words-on-your-heads-while-tilting-up-or-down.json](./98863-adult-charades-guess-words-on-your-heads-while-tilting-up-or-down.json) |
 | Adult Film Cameraman | 85954 | [85954-adult-film-cameraman.json](./85954-adult-film-cameraman.json) |
 | Adult for Cyberpunk Sex | 288241 | [288241-adult-for-cyberpunk-sex.json](./288241-adult-for-cyberpunk-sex.json) |
+| Adult for Fuck in Police | 294084 | [294084-adult-for-fuck-in-police.json](./294084-adult-for-fuck-in-police.json) |
 | Adult for Sex Motel | 288894 | [288894-adult-for-sex-motel.json](./288894-adult-for-sex-motel.json) |
 | Adult Life Yuri Bundle by Team ANPIM | 369310 | [369310-adult-life-yuri-bundle-by-team-anpim.json](./369310-adult-life-yuri-bundle-by-team-anpim.json) |
 | Adult Math | 113412 | [113412-adult-math.json](./113412-adult-math.json) |
@@ -3551,6 +3555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Reporter Ocean | 254621 | [254621-adventure-reporter-ocean.json](./254621-adventure-reporter-ocean.json) |
 | Adventure Road | 158383 | [158383-adventure-road.json](./158383-adventure-road.json) |
 | Adventure Road | 55719 | [55719-adventure-road.json](./55719-adventure-road.json) |
+| Adventure Rock | 293939 | [293939-adventure-rock.json](./293939-adventure-rock.json) |
 | Adventure Roll | 186101 | [186101-adventure-roll.json](./186101-adventure-roll.json) |
 | Adventure Rush | 192674 | [192674-adventure-rush.json](./192674-adventure-rush.json) |
 | Adventure Seekers: Lost to Sea | 416495 | [416495-adventure-seekers-lost-to-sea.json](./416495-adventure-seekers-lost-to-sea.json) |
@@ -3831,6 +3836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerial_Knight's Never Yield: Deluxe Edition | 169190 | [169190-aerial-knights-never-yield-deluxe-edition.json](./169190-aerial-knights-never-yield-deluxe-edition.json) |
 | Aerial_Knight's We Never Yield | 290947 | [290947-aerial-knights-we-never-yield.json](./290947-aerial-knights-we-never-yield.json) |
 | AerialDrop | 23326 | [23326-aerialdrop.json](./23326-aerialdrop.json) |
+| Aerie: Spirit of the Forest | 293943 | [293943-aerie-spirit-of-the-forest.json](./293943-aerie-spirit-of-the-forest.json) |
 | Aerion: The Last Alchemist | 247700 | [247700-aerion-the-last-alchemist.json](./247700-aerion-the-last-alchemist.json) |
 | Aeris | 288745 | [288745-aeris.json](./288745-aeris.json) |
 | Aeris & Zack | 157134 | [157134-aeris-and-zack.json](./157134-aeris-and-zack.json) |
@@ -4577,6 +4583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Mythology: The Golden Gift | 332776 | [332776-age-of-mythology-the-golden-gift.json](./332776-age-of-mythology-the-golden-gift.json) |
 | Age of Mythology: The Titans | 8221 | [8221-age-of-mythology-the-titans.json](./8221-age-of-mythology-the-titans.json) |
 | Age of Omens | 116777 | [116777-age-of-omens.json](./116777-age-of-omens.json) |
+| Age of Oracles: Tara's Journey | 293948 | [293948-age-of-oracles-taras-journey.json](./293948-age-of-oracles-taras-journey.json) |
 | Age of Pahlevans | 191670 | [191670-age-of-pahlevans.json](./191670-age-of-pahlevans.json) |
 | Age of Pirates | 376848 | [376848-age-of-pirates.json](./376848-age-of-pirates.json) |
 | Age of Pixels | 118261 | [118261-age-of-pixels.json](./118261-age-of-pixels.json) |
@@ -8997,6 +9004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Huntsmen | 181031 | [181031-ancient-huntsmen.json](./181031-ancient-huntsmen.json) |
 | Ancient Islands | 192031 | [192031-ancient-islands.json](./192031-ancient-islands.json) |
 | Ancient Islands | 192835 | [192835-ancient-islands.json](./192835-ancient-islands.json) |
+| Ancient Jewels 4: Babylon | 293955 | [293955-ancient-jewels-4-babylon.json](./293955-ancient-jewels-4-babylon.json) |
 | Ancient Journey | 101299 | [101299-ancient-journey.json](./101299-ancient-journey.json) |
 | Ancient Keys DX | 321448 | [321448-ancient-keys-dx.json](./321448-ancient-keys-dx.json) |
 | Ancient Kingdoms | 244176 | [244176-ancient-kingdoms.json](./244176-ancient-kingdoms.json) |
@@ -9978,6 +9986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Fight in the Arena of Death | 105175 | [105175-anime-fight-in-the-arena-of-death.json](./105175-anime-fight-in-the-arena-of-death.json) |
 | Anime Fighting Jam | 222872 | [222872-anime-fighting-jam.json](./222872-anime-fighting-jam.json) |
 | Anime Fitness: Summer Sweat | 413360 | [413360-anime-fitness-summer-sweat.json](./413360-anime-fitness-summer-sweat.json) |
+| Anime for Fuck in Police | 294077 | [294077-anime-for-fuck-in-police.json](./294077-anime-for-fuck-in-police.json) |
 | Anime for Sex Motel | 288890 | [288890-anime-for-sex-motel.json](./288890-anime-for-sex-motel.json) |
 | Anime Freak FX Vol. 1 | 79350 | [79350-anime-freak-fx-vol-1.json](./79350-anime-freak-fx-vol-1.json) |
 | Anime Freak FX Vol. 2 | 79735 | [79735-anime-freak-fx-vol-2.json](./79735-anime-freak-fx-vol-2.json) |
@@ -16192,7 +16201,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
