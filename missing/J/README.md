@@ -3303,6 +3303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumper: Griffin's Story | 4944 | [4944-jumper-griffins-story.json](./4944-jumper-griffins-story.json) |
 | Jumper: Speedrun | 55253 | [55253-jumper-speedrun.json](./55253-jumper-speedrun.json) |
 | Jumper's Doom | 351634 | [351634-jumpers-doom.json](./351634-jumpers-doom.json) |
+| Jumper's Quest | 268819 | [268819-jumpers-quest.json](./268819-jumpers-quest.json) |
 | Jumperbird | 166839 | [166839-jumperbird.json](./166839-jumperbird.json) |
 | Jumperino | 253756 | [253756-jumperino.json](./253756-jumperino.json) |
 | Jumpers League | 329960 | [329960-jumpers-league.json](./329960-jumpers-league.json) |
