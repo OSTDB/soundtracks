@@ -3329,6 +3329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Half-Shell Heroes | 57980 | [57980-teenage-mutant-ninja-turtles-half-shell-heroes.json](./57980-teenage-mutant-ninja-turtles-half-shell-heroes.json) |
 | Teenage Mutant Ninja Turtles: Manhattan Missions | 46975 | [46975-teenage-mutant-ninja-turtles-manhattan-missions.json](./46975-teenage-mutant-ninja-turtles-manhattan-missions.json) |
 | Teenage Mutant Ninja Turtles: Master Splinter's Training Pack | 79779 | [79779-teenage-mutant-ninja-turtles-master-splinters-training-pack.json](./79779-teenage-mutant-ninja-turtles-master-splinters-training-pack.json) |
+| Teenage Mutant Ninja Turtles: Minigame Laptop | 294483 | [294483-teenage-mutant-ninja-turtles-minigame-laptop.json](./294483-teenage-mutant-ninja-turtles-minigame-laptop.json) |
 | Teenage Mutant Ninja Turtles: Mutant Madness | 138015 | [138015-teenage-mutant-ninja-turtles-mutant-madness.json](./138015-teenage-mutant-ninja-turtles-mutant-madness.json) |
 | Teenage Mutant Ninja Turtles: Mutant Mayhem - Pizza Power | 261388 | [261388-teenage-mutant-ninja-turtles-mutant-mayhem-pizza-power.json](./261388-teenage-mutant-ninja-turtles-mutant-mayhem-pizza-power.json) |
 | Teenage Mutant Ninja Turtles: Mutant Rumble | 78281 | [78281-teenage-mutant-ninja-turtles-mutant-rumble.json](./78281-teenage-mutant-ninja-turtles-mutant-rumble.json) |
@@ -11122,6 +11123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Joust | 408391 | [408391-the-joust.json](./408391-the-joust.json) |
 | The Jovian System | 164268 | [164268-the-jovian-system.json](./164268-the-jovian-system.json) |
 | The Joy of Creation | 209297 | [209297-the-joy-of-creation.json](./209297-the-joy-of-creation.json) |
+| The Joy of Creation | 294493 | [294493-the-joy-of-creation.json](./294493-the-joy-of-creation.json) |
 | The Joy of Creation: Classic | 255691 | [255691-the-joy-of-creation-classic.json](./255691-the-joy-of-creation-classic.json) |
 | The Joy of Creation: Halloween Edition | 209306 | [209306-the-joy-of-creation-halloween-edition.json](./209306-the-joy-of-creation-halloween-edition.json) |
 | The Joy of Creation: Ignited Collection | 216456 | [216456-the-joy-of-creation-ignited-collection.json](./216456-the-joy-of-creation-ignited-collection.json) |
@@ -13757,6 +13759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery of Oak Island | 425197 | [425197-the-mystery-of-oak-island.json](./425197-the-mystery-of-oak-island.json) |
 | The Mystery of the Art School | 321162 | [321162-the-mystery-of-the-art-school.json](./321162-the-mystery-of-the-art-school.json) |
 | The Mystery of the Buttons Family | 101971 | [101971-the-mystery-of-the-buttons-family.json](./101971-the-mystery-of-the-buttons-family.json) |
+| The Mystery of the Cardboard Island | 294344 | [294344-the-mystery-of-the-cardboard-island.json](./294344-the-mystery-of-the-cardboard-island.json) |
 | The Mystery of the Crystal Portal | 88605 | [88605-the-mystery-of-the-crystal-portal.json](./88605-the-mystery-of-the-crystal-portal.json) |
 | The Mystery of the Crystal Portal: Beyond the Horizon | 140614 | [140614-the-mystery-of-the-crystal-portal-beyond-the-horizon.json](./140614-the-mystery-of-the-crystal-portal-beyond-the-horizon.json) |
 | The Mystery of the Druids | 12449 | [12449-the-mystery-of-the-druids.json](./12449-the-mystery-of-the-druids.json) |
