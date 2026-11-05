@@ -4138,6 +4138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orion Defense | 348356 | [348356-orion-defense.json](./348356-orion-defense.json) |
 | Orion Drift | 322571 | [322571-orion-drift.json](./322571-orion-drift.json) |
 | Orion Everton: Mysteries of Metrosomia | 291774 | [291774-orion-everton-mysteries-of-metrosomia.json](./291774-orion-everton-mysteries-of-metrosomia.json) |
+| Orion Haste | 289594 | [289594-orion-haste.json](./289594-orion-haste.json) |
 | Orion Sandbox | 395783 | [395783-orion-sandbox.json](./395783-orion-sandbox.json) |
 | Orion Sandbox Enhanced | 109848 | [109848-orion-sandbox-enhanced.json](./109848-orion-sandbox-enhanced.json) |
 | Orion shadow of jerboa | 127339 | [127339-orion-shadow-of-jerboa.json](./127339-orion-shadow-of-jerboa.json) |
@@ -5106,6 +5107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outertown | 118191 | [118191-outertown.json](./118191-outertown.json) |
 | Outerverse | 164901 | [164901-outerverse.json](./164901-outerverse.json) |
 | Outfield | 279153 | [279153-outfield.json](./279153-outfield.json) |
+| Outflow | 289655 | [289655-outflow.json](./289655-outflow.json) |
 | Outfolded | 57950 | [57950-outfolded.json](./57950-outfolded.json) |
 | Outfoxed | 179165 | [179165-outfoxed.json](./179165-outfoxed.json) |
 | Outgrown | 188001 | [188001-outgrown.json](./188001-outgrown.json) |
