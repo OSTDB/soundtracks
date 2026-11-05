@@ -2858,6 +2858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TD Quest | 233092 | [233092-td-quest.json](./233092-td-quest.json) |
 | TD Royale | 253525 | [253525-td-royale.json](./253525-td-royale.json) |
 | TD Strategy of Three Kingdoms | 130927 | [130927-td-strategy-of-three-kingdoms.json](./130927-td-strategy-of-three-kingdoms.json) |
+| TD Tactics | 262726 | [262726-td-tactics.json](./262726-td-tactics.json) |
 | TD Tower Defense | 259678 | [259678-td-tower-defense.json](./259678-td-tower-defense.json) |
 | TD Ultimate | 101022 | [101022-td-ultimate.json](./101022-td-ultimate.json) |
 | TD Worlds | 168619 | [168619-td-worlds.json](./168619-td-worlds.json) |
@@ -19816,6 +19817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thor: The Dark World - The Official Game | 62214 | [62214-thor-the-dark-world-the-official-game.json](./62214-thor-the-dark-world-the-official-game.json) |
 | Thor: War of Tapnarok | 114662 | [114662-thor-war-of-tapnarok.json](./114662-thor-war-of-tapnarok.json) |
 | Thor.n | 77713 | [77713-thor-n.json](./77713-thor-n.json) |
+| Thor's Ascension: Nine Realms | 262770 | [262770-thors-ascension-nine-realms.json](./262770-thors-ascension-nine-realms.json) |
 | Thor's Breakout | 320097 | [320097-thors-breakout.json](./320097-thors-breakout.json) |
 | Thor's Legacy | 298135 | [298135-thors-legacy.json](./298135-thors-legacy.json) |
 | Thorgal | 290773 | [290773-thorgal.json](./290773-thorgal.json) |
@@ -25647,6 +25649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toto's Journey | 410200 | [410200-totos-journey.json](./410200-totos-journey.json) |
 | Toto's Toy Box | 129222 | [129222-totos-toy-box.json](./129222-totos-toy-box.json) |
 | Totoball | 54876 | [54876-totoball.json](./54876-totoball.json) |
+| Totoge | 262732 | [262732-totoge.json](./262732-totoge.json) |
 | Totomi Trainer | 338955 | [338955-totomi-trainer.json](./338955-totomi-trainer.json) |
 | Totonoi Simulator | 325450 | [325450-totonoi-simulator.json](./325450-totonoi-simulator.json) |
 | Tots Town - House | 97151 | [97151-tots-town-house.json](./97151-tots-town-house.json) |
@@ -25692,6 +25695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Force | 274935 | [274935-touch-force.json](./274935-touch-force.json) |
 | Touch from a Raindrop | 175123 | [175123-touch-from-a-raindrop.json](./175123-touch-from-a-raindrop.json) |
 | Touch Game Party | 124103 | [124103-touch-game-party.json](./124103-touch-game-party.json) |
+| Touch Grass Together | 262723 | [262723-touch-grass-together.json](./262723-touch-grass-together.json) |
 | Touch Grass VR Simulator | 326331 | [326331-touch-grass-vr-simulator.json](./326331-touch-grass-vr-simulator.json) |
 | Touch Hockey: FS5 | 63196 | [63196-touch-hockey-fs5.json](./63196-touch-hockey-fs5.json) |
 | Touch Love | 219542 | [219542-touch-love.json](./219542-touch-love.json) |
@@ -26327,6 +26331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Factory | 278248 | [278248-tower-factory.json](./278248-tower-factory.json) |
 | Tower Fall | 211643 | [211643-tower-fall.json](./211643-tower-fall.json) |
 | Tower Field | 302328 | [302328-tower-field.json](./302328-tower-field.json) |
+| Tower Forge: Dark Defense | 262740 | [262740-tower-forge-dark-defense.json](./262740-tower-forge-dark-defense.json) |
 | Tower Fortress | 75968 | [75968-tower-fortress.json](./75968-tower-fortress.json) |
 | Tower FRA | 55985 | [55985-tower-fra.json](./55985-tower-fra.json) |
 | Tower Girls | 344125 | [344125-tower-girls.json](./344125-tower-girls.json) |
@@ -27739,6 +27744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Bangladesh | 375890 | [375890-train-simulator-bangladesh.json](./375890-train-simulator-bangladesh.json) |
 | Train Simulator Classic | 198295 | [198295-train-simulator-classic.json](./198295-train-simulator-classic.json) |
 | Train Simulator Classic: Amtrak AEM-7 | 286547 | [286547-train-simulator-classic-amtrak-aem-7.json](./286547-train-simulator-classic-amtrak-aem-7.json) |
+| Train Simulator Classic: Bernina Pass Scenario Pack 01 | 262718 | [262718-train-simulator-classic-bernina-pass-scenario-pack-01.json](./262718-train-simulator-classic-bernina-pass-scenario-pack-01.json) |
 | Train Simulator Classic: BN Wagon Pack 01 | 226264 | [226264-train-simulator-classic-bn-wagon-pack-01.json](./226264-train-simulator-classic-bn-wagon-pack-01.json) |
 | Train Simulator Classic: Boston & Albany - Boston - Springfield Route Add-On | 357395 | [357395-train-simulator-classic-boston-and-albany-boston-springfield-route-add-on.json](./357395-train-simulator-classic-boston-and-albany-boston-springfield-route-add-on.json) |
 | Train Simulator Classic: Bozeman Pass - Livingston: Three Forks & Trident | 357284 | [357284-train-simulator-classic-bozeman-pass-livingston-three-forks-and-trident.json](./357284-train-simulator-classic-bozeman-pass-livingston-three-forks-and-trident.json) |
@@ -32426,6 +32432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twister Mania | 20216 | [20216-twister-mania.json](./20216-twister-mania.json) |
 | Twister Road | 125251 | [125251-twister-road.json](./125251-twister-road.json) |
 | Twister: Mother of Charlotte | 73188 | [73188-twister-mother-of-charlotte.json](./73188-twister-mother-of-charlotte.json) |
+| Twistex | 262722 | [262722-twistex.json](./262722-twistex.json) |
 | Twisting Mower | 118025 | [118025-twisting-mower.json](./118025-twisting-mower.json) |
 | Twistingo | 205981 | [205981-twistingo.json](./205981-twistingo.json) |
 | Twistingo | 206061 | [206061-twistingo.json](./206061-twistingo.json) |
