@@ -1869,6 +1869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victory at Sea Atlantic | 261743 | [261743-victory-at-sea-atlantic.json](./261743-victory-at-sea-atlantic.json) |
 | Victory At Sea Ironclad | 171417 | [171417-victory-at-sea-ironclad.json](./171417-victory-at-sea-ironclad.json) |
 | Victory At Sea Pacific | 104004 | [104004-victory-at-sea-pacific.json](./104004-victory-at-sea-pacific.json) |
+| Victory Away: Three Kingdoms | 295058 | [295058-victory-away-three-kingdoms.json](./295058-victory-away-three-kingdoms.json) |
 | Victory Banner | 361819 | [361819-victory-banner.json](./361819-victory-banner.json) |
 | Victory Belles: Battleship Girls of WWII | 109993 | [109993-victory-belles-battleship-girls-of-wwii.json](./109993-victory-belles-battleship-girls-of-wwii.json) |
 | Victory Boxing Champion Edition | 43728 | [43728-victory-boxing-champion-edition.json](./43728-victory-boxing-champion-edition.json) |
