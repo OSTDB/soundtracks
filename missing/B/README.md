@@ -954,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1488,6 +1489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Jumper | 272854 | [272854-ball-jumper.json](./272854-ball-jumper.json) |
 | Ball Kicker | 109640 | [109640-ball-kicker.json](./109640-ball-kicker.json) |
 | Ball King | 87283 | [87283-ball-king.json](./87283-ball-king.json) |
+| Ball King Jam | 258787 | [258787-ball-king-jam.json](./258787-ball-king-jam.json) |
 | Ball laB | 89384 | [89384-ball-lab.json](./89384-ball-lab.json) |
 | Ball laB 2 | 226239 | [226239-ball-lab-2.json](./226239-ball-lab-2.json) |
 | Ball League | 107119 | [107119-ball-league.json](./107119-ball-league.json) |
@@ -4103,6 +4105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleCore Arena: Founder's Pack | 316391 | [316391-battlecore-arena-founders-pack.json](./316391-battlecore-arena-founders-pack.json) |
 | BattleCore Arena: Kaps Pack | 316375 | [316375-battlecore-arena-kaps-pack.json](./316375-battlecore-arena-kaps-pack.json) |
 | BattleCore Arena: Premium Founders Pack | 316380 | [316380-battlecore-arena-premium-founders-pack.json](./316380-battlecore-arena-premium-founders-pack.json) |
+| Battlecore Robots | 258789 | [258789-battlecore-robots.json](./258789-battlecore-robots.json) |
 | BattleCorps | 46423 | [46423-battlecorps.json](./46423-battlecorps.json) |
 | BattleCourt | 132219 | [132219-battlecourt.json](./132219-battlecourt.json) |
 | Battlecraft | 128947 | [128947-battlecraft.json](./128947-battlecraft.json) |
