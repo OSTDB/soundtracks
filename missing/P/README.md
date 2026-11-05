@@ -5344,6 +5344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phazer Punk | 245353 | [245353-phazer-punk.json](./245353-phazer-punk.json) |
 | Phazika | 398520 | [398520-phazika.json](./398520-phazika.json) |
 | PhD | 220464 | [220464-phd.json](./220464-phd.json) |
+| Phear | 291294 | [291294-phear.json](./291294-phear.json) |
 | Pheasants Forever | 23393 | [23393-pheasants-forever.json](./23393-pheasants-forever.json) |
 | Pheasants Forever: Wingshooter | 51112 | [51112-pheasants-forever-wingshooter.json](./51112-pheasants-forever-wingshooter.json) |
 | Pheenix | 93432 | [93432-pheenix.json](./93432-pheenix.json) |
@@ -7711,6 +7712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Cafe: Full Edition | 358663 | [358663-pixel-cafe-full-edition.json](./358663-pixel-cafe-full-edition.json) |
 | Pixel Car | 74665 | [74665-pixel-car.json](./74665-pixel-car.json) |
 | Pixel Car Racer | 56154 | [56154-pixel-car-racer.json](./56154-pixel-car-racer.json) |
+| Pixel Car Racing: Blocky Crash | 291275 | [291275-pixel-car-racing-blocky-crash.json](./291275-pixel-car-racing-blocky-crash.json) |
 | Pixel Card Crawl | 180120 | [180120-pixel-card-crawl.json](./180120-pixel-card-crawl.json) |
 | Pixel Cat's End | 225691 | [225691-pixel-cats-end.json](./225691-pixel-cats-end.json) |
 | Pixel Caveman | 118435 | [118435-pixel-caveman.json](./118435-pixel-caveman.json) |
@@ -9786,6 +9788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plot Hole | 238455 | [238455-plot-hole.json](./238455-plot-hole.json) |
 | Plot of the Druid | 126533 | [126533-plot-of-the-druid.json](./126533-plot-of-the-druid.json) |
 | Plot Twist | 329649 | [329649-plot-twist.json](./329649-plot-twist.json) |
+| Plot! | 291259 | [291259-plot.json](./291259-plot.json) |
 | Plot's 3 | 91538 | [91538-plots-3.json](./91538-plots-3.json) |
 | Plotonium Destructive Edge X: Wings of Solitude | 362227 | [362227-plotonium-destructive-edge-x-wings-of-solitude.json](./362227-plotonium-destructive-edge-x-wings-of-solitude.json) |
 | Plotonium Explosive Smasher DX: Machine Slayer - Oh Yes! Edition | 362226 | [362226-plotonium-explosive-smasher-dx-machine-slayer-oh-yes-edition.json](./362226-plotonium-explosive-smasher-dx-machine-slayer-oh-yes-edition.json) |
@@ -17068,6 +17071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppertrator | 185399 | [185399-puppertrator.json](./185399-puppertrator.json) |
 | Puppet Blaster | 110669 | [110669-puppet-blaster.json](./110669-puppet-blaster.json) |
 | Puppet Fever | 72321 | [72321-puppet-fever.json](./72321-puppet-fever.json) |
+| Puppet House | 291281 | [291281-puppet-house.json](./291281-puppet-house.json) |
 | Puppet Kings | 82853 | [82853-puppet-kings.json](./82853-puppet-kings.json) |
 | Puppet Knight | 91819 | [91819-puppet-knight.json](./91819-puppet-knight.json) |
 | Puppet Master RPG | 94786 | [94786-puppet-master-rpg.json](./94786-puppet-master-rpg.json) |
