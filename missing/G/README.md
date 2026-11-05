@@ -5047,6 +5047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory to the Heroes | 240744 | [240744-glory-to-the-heroes.json](./240744-glory-to-the-heroes.json) |
 | Glory to the Heroes | 363972 | [363972-glory-to-the-heroes.json](./363972-glory-to-the-heroes.json) |
 | Glory to the Robots! | 235586 | [235586-glory-to-the-robots.json](./235586-glory-to-the-robots.json) |
+| Glory to Ukraine! | 286304 | [286304-glory-to-ukraine.json](./286304-glory-to-ukraine.json) |
 | Glory Wall! | 393838 | [393838-glory-wall.json](./393838-glory-wall.json) |
 | Glory Warrior: Lord of Darkness | 32963 | [32963-glory-warrior-lord-of-darkness.json](./32963-glory-warrior-lord-of-darkness.json) |
 | Glory's Witness | 161407 | [161407-glorys-witness.json](./161407-glorys-witness.json) |
@@ -5409,6 +5410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go to Hell | 211432 | [211432-go-to-hell.json](./211432-go-to-hell.json) |
 | Go to Hell | 218538 | [218538-go-to-hell.json](./218538-go-to-hell.json) |
 | Go to Hell | 57540 | [57540-go-to-hell.json](./57540-go-to-hell.json) |
+| Go To Hell Must | 286320 | [286320-go-to-hell-must.json](./286320-go-to-hell-must.json) |
 | Go to It | 110944 | [110944-go-to-it.json](./110944-go-to-it.json) |
 | Go to Sleep | 351426 | [351426-go-to-sleep.json](./351426-go-to-sleep.json) |
 | Go To Sleep | 268651 | [268651-go-to-sleep.json](./268651-go-to-sleep.json) |
@@ -9918,6 +9920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian war VR | 31604 | [31604-guardian-war-vr.json](./31604-guardian-war-vr.json) |
 | Guardian Zero | 391636 | [391636-guardian-zero.json](./391636-guardian-zero.json) |
 | Guardian: Covenant of Fate | 228145 | [228145-guardian-covenant-of-fate.json](./228145-guardian-covenant-of-fate.json) |
+| Guardian: Defense to Others | 286314 | [286314-guardian-defense-to-others.json](./286314-guardian-defense-to-others.json) |
 | Guardian's Crusade | 22835 | [22835-guardians-crusade.json](./22835-guardians-crusade.json) |
 | Guardian's Guide | 291181 | [291181-guardians-guide.json](./291181-guardians-guide.json) |
 | Guardian's Oath | 31202 | [31202-guardians-oath.json](./31202-guardians-oath.json) |
@@ -10958,6 +10961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunStar's Gambit | 340405 | [340405-gunstars-gambit.json](./340405-gunstars-gambit.json) |
 | Gunstars | 209467 | [209467-gunstars.json](./209467-gunstars.json) |
 | Gunstoppable | 347106 | [347106-gunstoppable.json](./347106-gunstoppable.json) |
+| Gunstorm | 286251 | [286251-gunstorm.json](./286251-gunstorm.json) |
 | Gunstorm | 67061 | [67061-gunstorm.json](./67061-gunstorm.json) |
 | Gunstringer: Dead Man Running | 63918 | [63918-gunstringer-dead-man-running.json](./63918-gunstringer-dead-man-running.json) |
 | GunSuit Guardians | 241291 | [241291-gunsuit-guardians.json](./241291-gunsuit-guardians.json) |
