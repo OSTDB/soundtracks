@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I am an Air Traffic Controller: Airport Hero Centrair - 20th Anniversary | 323700 | [323700-i-am-an-air-traffic-controller-airport-hero-centrair-20th-anniversary.json](./323700-i-am-an-air-traffic-controller-airport-hero-centrair-20th-anniversary.json) |
 | I am an Air Traffic Controller: Airport Hero Centrair EX | 415391 | [415391-i-am-an-air-traffic-controller-airport-hero-centrair-ex.json](./415391-i-am-an-air-traffic-controller-airport-hero-centrair-ex.json) |
 | I am an Air Traffic Controller: Airport Hero Haneda | 99968 | [99968-i-am-an-air-traffic-controller-airport-hero-haneda.json](./99968-i-am-an-air-traffic-controller-airport-hero-haneda.json) |
+| I am an Air Traffic Controller: Airport Hero Haneda - Allstars | 271512 | [271512-i-am-an-air-traffic-controller-airport-hero-haneda-allstars.json](./271512-i-am-an-air-traffic-controller-airport-hero-haneda-allstars.json) |
 | I am an Air Traffic Controller: Airport Hero Haneda - Sky Day! Variety Pack | 237971 | [237971-i-am-an-air-traffic-controller-airport-hero-haneda-sky-day-variety-pack.json](./237971-i-am-an-air-traffic-controller-airport-hero-haneda-sky-day-variety-pack.json) |
 | I Am An Air Traffic Controller: Airport Hero Kankuu | 77859 | [77859-i-am-an-air-traffic-controller-airport-hero-kankuu.json](./77859-i-am-an-air-traffic-controller-airport-hero-kankuu.json) |
 | I Am An Air Traffic Controller: Airport Hero Naha | 56475 | [56475-i-am-an-air-traffic-controller-airport-hero-naha.json](./56475-i-am-an-air-traffic-controller-airport-hero-naha.json) |
@@ -2908,6 +2909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Shadows | 180657 | [180657-in-the-shadows.json](./180657-in-the-shadows.json) |
 | In the Shadows | 18932 | [18932-in-the-shadows.json](./18932-in-the-shadows.json) |
 | In The Shadows | 180568 | [180568-in-the-shadows.json](./180568-in-the-shadows.json) |
+| In The Shadows | 271452 | [271452-in-the-shadows.json](./271452-in-the-shadows.json) |
 | In The Shadows | 292777 | [292777-in-the-shadows.json](./292777-in-the-shadows.json) |
 | In the Space: Escape Room | 195800 | [195800-in-the-space-escape-room.json](./195800-in-the-space-escape-room.json) |
 | In the Thrall of Darkness: The Gift of Dreams | 76685 | [76685-in-the-thrall-of-darkness-the-gift-of-dreams.json](./76685-in-the-thrall-of-darkness-the-gift-of-dreams.json) |
