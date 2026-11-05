@@ -428,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Stalker: Full Metal Force | 221317 | [221317-mad-stalker-full-metal-force.json](./221317-mad-stalker-full-metal-force.json) |
 | Mad Stalker: Full Metal Force | 41408 | [41408-mad-stalker-full-metal-force.json](./41408-mad-stalker-full-metal-force.json) |
 | Mad Streets | 130517 | [130517-mad-streets.json](./130517-mad-streets.json) |
+| Mad Survivor: Arid Warfire | 287370 | [287370-mad-survivor-arid-warfire.json](./287370-mad-survivor-arid-warfire.json) |
 | Mad Tanks | 179464 | [179464-mad-tanks.json](./179464-mad-tanks.json) |
 | Mad Tanks | 58678 | [58678-mad-tanks.json](./58678-mad-tanks.json) |
 | Mad Taxi | 153327 | [153327-mad-taxi.json](./153327-mad-taxi.json) |
@@ -3084,6 +3085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mannaz | 172902 | [172902-mannaz.json](./172902-mannaz.json) |
 | ManneKin: Hessler Storage | 215611 | [215611-mannekin-hessler-storage.json](./215611-mannekin-hessler-storage.json) |
 | Mannequin | 266075 | [266075-mannequin.json](./266075-mannequin.json) |
+| Mannequin | 287458 | [287458-mannequin.json](./287458-mannequin.json) |
 | Mannequin Academy | 183037 | [183037-mannequin-academy.json](./183037-mannequin-academy.json) |
 | Mannequin House | 171535 | [171535-mannequin-house.json](./171535-mannequin-house.json) |
 | Mannequin House | 290948 | [290948-mannequin-house.json](./290948-mannequin-house.json) |
@@ -5767,7 +5769,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -6043,6 +6044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Ninja | 115141 | [115141-maze-ninja.json](./115141-maze-ninja.json) |
 | Maze of Acheron | 172098 | [172098-maze-of-acheron.json](./172098-maze-of-acheron.json) |
 | Maze of Adventures | 81745 | [81745-maze-of-adventures.json](./81745-maze-of-adventures.json) |
+| Maze of Apocrypha | 287464 | [287464-maze-of-apocrypha.json](./287464-maze-of-apocrypha.json) |
 | Maze of Bears | 186321 | [186321-maze-of-bears.json](./186321-maze-of-bears.json) |
 | Maze of Doors | 414417 | [414417-maze-of-doors.json](./414417-maze-of-doors.json) |
 | Maze of Fear | 260590 | [260590-maze-of-fear.json](./260590-maze-of-fear.json) |
@@ -8930,6 +8932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meowpire | 416570 | [416570-meowpire.json](./416570-meowpire.json) |
 | MeowPower! Yachiyo | 373500 | [373500-meowpower-yachiyo.json](./373500-meowpower-yachiyo.json) |
 | MeowSon | 391095 | [391095-meowson.json](./391095-meowson.json) |
+| Meowsterpiece Museum | 287472 | [287472-meowsterpiece-museum.json](./287472-meowsterpiece-museum.json) |
 | Meowstery of a Growing Aurora | 296980 | [296980-meowstery-of-a-growing-aurora.json](./296980-meowstery-of-a-growing-aurora.json) |
 | Meowstery Wisp | 383067 | [383067-meowstery-wisp.json](./383067-meowstery-wisp.json) |
 | Meowstoria | 355579 | [355579-meowstoria.json](./355579-meowstoria.json) |
@@ -17850,6 +17853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mòxīn: Bōyún Guǐchuán | 156922 | [156922-moxin-boyun-guichuan.json](./156922-moxin-boyun-guichuan.json) |
 | Moxina | 148191 | [148191-moxina.json](./148191-moxina.json) |
 | Moy 6 | 228897 | [228897-moy-6.json](./228897-moy-6.json) |
+| Moyashi Monogatari | 287432 | [287432-moyashi-monogatari.json](./287432-moyashi-monogatari.json) |
 | Moyashibito DX | 233211 | [233211-moyashibito-dx.json](./233211-moyashibito-dx.json) |
 | Moyashimon DS | 69164 | [69164-moyashimon-ds.json](./69164-moyashimon-ds.json) |
 | Moysenland | 123732 | [123732-moysenland.json](./123732-moysenland.json) |
