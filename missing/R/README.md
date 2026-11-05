@@ -10325,6 +10325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollerForce | 31935 | [31935-rollerforce.json](./31935-rollerforce.json) |
 | Rollergames | 138793 | [138793-rollergames.json](./138793-rollergames.json) |
 | RollerGames | 40076 | [40076-rollergames.json](./40076-rollergames.json) |
+| RollerGirl | 253113 | [253113-rollergirl.json](./253113-rollergirl.json) |
 | Rollerpede | 108809 | [108809-rollerpede.json](./108809-rollerpede.json) |
 | RollerPlay | 121017 | [121017-rollerplay.json](./121017-rollerplay.json) |
 | Rollers | 127223 | [127223-rollers.json](./127223-rollers.json) |
