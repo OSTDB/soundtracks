@@ -11016,6 +11016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunslinger | 81337 | [81337-gunslinger.json](./81337-gunslinger.json) |
 | Gunslinger Collection | 37120 | [37120-gunslinger-collection.json](./37120-gunslinger-collection.json) |
 | Gunslinger Duel | 270050 | [270050-gunslinger-duel.json](./270050-gunslinger-duel.json) |
+| Gunslinger Express | 258292 | [258292-gunslinger-express.json](./258292-gunslinger-express.json) |
 | Gunslinger Girl Volume I | 43268 | [43268-gunslinger-girl-volume-i.json](./43268-gunslinger-girl-volume-i.json) |
 | Gunslinger Girl Volume II | 257270 | [257270-gunslinger-girl-volume-ii.json](./257270-gunslinger-girl-volume-ii.json) |
 | Gunslinger Girl Volume III | 252375 | [252375-gunslinger-girl-volume-iii.json](./252375-gunslinger-girl-volume-iii.json) |
