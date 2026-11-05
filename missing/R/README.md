@@ -475,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Glider | 90681 | [90681-racing-glider.json](./90681-racing-glider.json) |
 | Racing Go | 262380 | [262380-racing-go.json](./262380-racing-go.json) |
 | Racing Go | 285333 | [285333-racing-go.json](./285333-racing-go.json) |
+| Racing Guy | 247271 | [247271-racing-guy.json](./247271-racing-guy.json) |
 | Racing Hero | 39947 | [39947-racing-hero.json](./39947-racing-hero.json) |
 | Racing Heroes | 197338 | [197338-racing-heroes.json](./197338-racing-heroes.json) |
 | Racing in Car | 245895 | [245895-racing-in-car.json](./245895-racing-in-car.json) |
@@ -8842,6 +8843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robospital | 265096 | [265096-robospital.json](./265096-robospital.json) |
 | RoboSport | 73231 | [73231-robosport.json](./73231-robosport.json) |
 | RoboSports VR | 30694 | [30694-robosports-vr.json](./30694-robosports-vr.json) |
+| RoboSquad Revolution | 247288 | [247288-robosquad-revolution.json](./247288-robosquad-revolution.json) |
 | RoboSquad Revolution: Founder's Pack | 290782 | [290782-robosquad-revolution-founders-pack.json](./290782-robosquad-revolution-founders-pack.json) |
 | RoboSquad Revolution: Maverick Supporter Pack | 298183 | [298183-robosquad-revolution-maverick-supporter-pack.json](./298183-robosquad-revolution-maverick-supporter-pack.json) |
 | RoboSquare | 141205 | [141205-robosquare.json](./141205-robosquare.json) |
