@@ -948,7 +948,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1113,6 +1112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bainok: City of Fighters | 172973 | [172973-bainok-city-of-fighters.json](./172973-bainok-city-of-fighters.json) |
 | Báipiáo Sānguó | 150245 | [150245-baipiao-sanguo.json](./150245-baipiao-sanguo.json) |
 | Baise Lesbienne! | 206731 | [206731-baise-lesbienne.json](./206731-baise-lesbienne.json) |
+| Baisu | 293032 | [293032-baisu.json](./293032-baisu.json) |
 | Bait & Tackle | 371542 | [371542-bait-and-tackle.json](./371542-bait-and-tackle.json) |
 | Bait Soul | 392005 | [392005-bait-soul.json](./392005-bait-soul.json) |
 | Bait! | 121936 | [121936-bait.json](./121936-bait.json) |
@@ -8989,6 +8989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Widow: Looking for Love | 220874 | [220874-black-widow-looking-for-love.json](./220874-black-widow-looking-for-love.json) |
 | Black Witchcraft | 60800 | [60800-black-witchcraft.json](./60800-black-witchcraft.json) |
 | Black Wolf | 204993 | [204993-black-wolf.json](./204993-black-wolf.json) |
+| Black Wolfberry: WuJing | 293017 | [293017-black-wolfberry-wujing.json](./293017-black-wolfberry-wujing.json) |
 | Black Wolves Saga: Last Hope | 62372 | [62372-black-wolves-saga-last-hope.json](./62372-black-wolves-saga-last-hope.json) |
 | Black Wolves Saga: Weiβ und Schwarz | 132091 | [132091-black-wolves-saga-wei-und-schwarz.json](./132091-black-wolves-saga-wei-und-schwarz.json) |
 | Black Wolves Saga: Weiβ und Schwarz - for Nintendo Switch | 414563 | [414563-black-wolves-saga-wei-und-schwarz-for-nintendo-switch.json](./414563-black-wolves-saga-wei-und-schwarz-for-nintendo-switch.json) |
@@ -12770,6 +12771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Gear | 351555 | [351555-boom-gear.json](./351555-boom-gear.json) |
 | Boom Guys | 176141 | [176141-boom-guys.json](./176141-boom-guys.json) |
 | Boom Island | 68810 | [68810-boom-island.json](./68810-boom-island.json) |
+| Boom Jump | 292898 | [292898-boom-jump.json](./292898-boom-jump.json) |
 | Boom Karts: Multiplayer Kart Racing | 144982 | [144982-boom-karts-multiplayer-kart-racing.json](./144982-boom-karts-multiplayer-kart-racing.json) |
 | Boom Land | 103148 | [103148-boom-land.json](./103148-boom-land.json) |
 | Boom Lift Operator | 298156 | [298156-boom-lift-operator.json](./298156-boom-lift-operator.json) |
@@ -17009,6 +17011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunker Down | 344437 | [344437-bunker-down.json](./344437-bunker-down.json) |
 | Bunker Farmer | 296590 | [296590-bunker-farmer.json](./296590-bunker-farmer.json) |
 | Bunker Game | 305831 | [305831-bunker-game.json](./305831-bunker-game.json) |
+| Bunker Invaders | 293027 | [293027-bunker-invaders.json](./293027-bunker-invaders.json) |
 | Bunker KYS | 390456 | [390456-bunker-kys.json](./390456-bunker-kys.json) |
 | Bunker Life | 220870 | [220870-bunker-life.json](./220870-bunker-life.json) |
 | Bunker of Barzai | 271460 | [271460-bunker-of-barzai.json](./271460-bunker-of-barzai.json) |
