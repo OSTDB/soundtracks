@@ -835,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XiuZhen Metaverse | 368650 | [368650-xiuzhen-metaverse.json](./368650-xiuzhen-metaverse.json) |
 | Xiuzhen World 2 | 312513 | [312513-xiuzhen-world-2.json](./312513-xiuzhen-world-2.json) |
 | Xiūzhēn zhī Lù | 149810 | [149810-xiuzhen-zhi-lu.json](./149810-xiuzhen-zhi-lu.json) |
+| XiuzhenWorld | 290765 | [290765-xiuzhenworld.json](./290765-xiuzhenworld.json) |
 | XIX | 282701 | [282701-xix.json](./282701-xix.json) |
 | Xixit | 94532 | [94532-xixit.json](./94532-xixit.json) |
 | Xjump | 291602 | [291602-xjump.json](./291602-xjump.json) |
