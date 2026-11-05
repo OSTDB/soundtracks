@@ -13294,6 +13294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fur and Fangs | 412994 | [412994-fur-and-fangs.json](./412994-fur-and-fangs.json) |
 | Fur and Feathers | 235283 | [235283-fur-and-feathers.json](./235283-fur-and-feathers.json) |
 | Fur and Feathers HD | 252924 | [252924-fur-and-feathers-hd.json](./252924-fur-and-feathers-hd.json) |
+| Fur and Fists | 258784 | [258784-fur-and-fists.json](./258784-fur-and-fists.json) |
 | Fur and Void | 337645 | [337645-fur-and-void.json](./337645-fur-and-void.json) |
 | Fur Fighters | 14700 | [14700-fur-fighters.json](./14700-fur-fighters.json) |
 | Fur Fighters: Viggo on Glass | 299539 | [299539-fur-fighters-viggo-on-glass.json](./299539-fur-fighters-viggo-on-glass.json) |
