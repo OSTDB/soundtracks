@@ -2000,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldevin | 17350 | [17350-eldevin.json](./17350-eldevin.json) |
 | ElDewrito | 117290 | [117290-eldewrito.json](./117290-eldewrito.json) |
 | ElDorado | 415753 | [415753-eldorado.json](./415753-eldorado.json) |
+| Eldorado FPS | 295574 | [295574-eldorado-fps.json](./295574-eldorado-fps.json) |
 | Eldorado Gate Volume 1 | 5553 | [5553-eldorado-gate-volume-1.json](./5553-eldorado-gate-volume-1.json) |
 | Eldorado Gate Volume 2 | 5554 | [5554-eldorado-gate-volume-2.json](./5554-eldorado-gate-volume-2.json) |
 | Eldorado Gate Volume 3 | 5555 | [5555-eldorado-gate-volume-3.json](./5555-eldorado-gate-volume-3.json) |
@@ -2426,6 +2427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevator Orator | 178971 | [178971-elevator-orator.json](./178971-elevator-orator.json) |
 | Elevator Ritual | 89611 | [89611-elevator-ritual.json](./89611-elevator-ritual.json) |
 | Elevator Simulator 3D | 394310 | [394310-elevator-simulator-3d.json](./394310-elevator-simulator-3d.json) |
+| Elevator Warp | 295573 | [295573-elevator-warp.json](./295573-elevator-warp.json) |
 | Elevator: Source | 381322 | [381322-elevator-source.json](./381322-elevator-source.json) |
 | Elevator... to the Moon! | 69457 | [69457-elevator-to-the-moon.json](./69457-elevator-to-the-moon.json) |
 | Elevator...to the Moon!: Turbo Champion's Edition | 115468 | [115468-elevator-to-the-moon-turbo-champions-edition.json](./115468-elevator-to-the-moon-turbo-champions-edition.json) |
