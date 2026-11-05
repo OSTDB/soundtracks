@@ -1301,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Adelita | 350419 | [350419-dark-adelita.json](./350419-dark-adelita.json) |
 | Dark Adventure | 38529 | [38529-dark-adventure.json](./38529-dark-adventure.json) |
 | Dark Aegis | 416790 | [416790-dark-aegis.json](./416790-dark-aegis.json) |
+| Dark Age | 265378 | [265378-dark-age.json](./265378-dark-age.json) |
 | Dark Age Asunder | 331640 | [331640-dark-age-asunder.json](./331640-dark-age-asunder.json) |
 | Dark Age Dinos | 244648 | [244648-dark-age-dinos.json](./244648-dark-age-dinos.json) |
 | Dark Age Empires | 239691 | [239691-dark-age-empires.json](./239691-dark-age-empires.json) |
@@ -2345,6 +2346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Das Erbe | 86037 | [86037-das-erbe.json](./86037-das-erbe.json) |
 | Das Geheimnis der Ägyptischen Mumie | 92285 | [92285-das-geheimnis-der-agyptischen-mumie.json](./92285-das-geheimnis-der-agyptischen-mumie.json) |
 | Das Geheimnis der Happy Hippo-Insel | 130607 | [130607-das-geheimnis-der-happy-hippo-insel.json](./130607-das-geheimnis-der-happy-hippo-insel.json) |
+| Das Geheimnis von Lakeshore | 265381 | [265381-das-geheimnis-von-lakeshore.json](./265381-das-geheimnis-von-lakeshore.json) |
 | Das Geisterschiff Remixed | 179421 | [179421-das-geisterschiff-remixed.json](./179421-das-geisterschiff-remixed.json) |
 | Das Kopialbuch | 405482 | [405482-das-kopialbuch.json](./405482-das-kopialbuch.json) |
 | Das Magische Labyrinth | 301499 | [301499-das-magische-labyrinth.json](./301499-das-magische-labyrinth.json) |
@@ -5849,6 +5851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delia's Adventure | 191652 | [191652-delias-adventure.json](./191652-delias-adventure.json) |
 | Deliberate | 309956 | [309956-deliberate.json](./309956-deliberate.json) |
 | Delic | 301094 | [301094-delic.json](./301094-delic.json) |
+| Delicards: A Delicious Card Game | 265379 | [265379-delicards-a-delicious-card-game.json](./265379-delicards-a-delicious-card-game.json) |
 | DeliCat | 256533 | [256533-delicat.json](./256533-delicat.json) |
 | Delicatte | 151575 | [151575-delicatte.json](./151575-delicatte.json) |
 | Delicious 2 Deluxe | 61382 | [61382-delicious-2-deluxe.json](./61382-delicious-2-deluxe.json) |
@@ -6971,6 +6974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descent: Road to Legend - Trials of Frostgate | 171576 | [171576-descent-road-to-legend-trials-of-frostgate.json](./171576-descent-road-to-legend-trials-of-frostgate.json) |
 | Descent: Silence of Mind | 41905 | [41905-descent-silence-of-mind.json](./41905-descent-silence-of-mind.json) |
 | Descent: The Dark Corridors | 298450 | [298450-descent-the-dark-corridors.json](./298450-descent-the-dark-corridors.json) |
+| Descentia | 265380 | [265380-descentia.json](./265380-descentia.json) |
 | Descentium | 211139 | [211139-descentium.json](./211139-descentium.json) |
 | Descriptionary | 264490 | [264490-descriptionary.json](./264490-descriptionary.json) |
 | DescTop | 369331 | [369331-desctop.json](./369331-desctop.json) |
@@ -11014,6 +11018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dmod | 275917 | [275917-dmod.json](./275917-dmod.json) |
 | DMT Simulator | 326436 | [326436-dmt-simulator.json](./326436-dmt-simulator.json) |
 | dMuse | 98978 | [98978-dmuse.json](./98978-dmuse.json) |
+| DMVR | 265375 | [265375-dmvr.json](./265375-dmvr.json) |
 | DMX Presents: Unnecessary Hypeman Hero | 138266 | [138266-dmx-presents-unnecessary-hypeman-hero.json](./138266-dmx-presents-unnecessary-hypeman-hero.json) |
 | DMZ | 275542 | [275542-dmz.json](./275542-dmz.json) |
 | DMZ Adventure 2 | 331110 | [331110-dmz-adventure-2.json](./331110-dmz-adventure-2.json) |
@@ -13363,6 +13368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dotonon | 341677 | [341677-dotonon.json](./341677-dotonon.json) |
 | Dotori | 143600 | [143600-dotori.json](./143600-dotori.json) |
 | Dotower | 266001 | [266001-dotower.json](./266001-dotower.json) |
+| DotQuest | 264967 | [264967-dotquest.json](./264967-dotquest.json) |
 | Dotra | 95080 | [95080-dotra.json](./95080-dotra.json) |
 | Dots | 27045 | [27045-dots.json](./27045-dots.json) |
 | Dots | 76631 | [76631-dots.json](./76631-dots.json) |
@@ -14023,6 +14029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draco | 130248 | [130248-draco.json](./130248-draco.json) |
 | Draco | 151163 | [151163-draco.json](./151163-draco.json) |
 | Draco | 219756 | [219756-draco.json](./219756-draco.json) |
+| Draco and the Seven Scales | 265376 | [265376-draco-and-the-seven-scales.json](./265376-draco-and-the-seven-scales.json) |
 | Draco D | 281039 | [281039-draco-d.json](./281039-draco-d.json) |
 | Draco Dux | 33069 | [33069-draco-dux.json](./33069-draco-dux.json) |
 | Draco Space X | 151620 | [151620-draco-space-x.json](./151620-draco-space-x.json) |
@@ -16105,6 +16112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift 4000 | 100352 | [100352-drift-4000.json](./100352-drift-4000.json) |
 | Drift 7 Islands | 29468 | [29468-drift-7-islands.json](./29468-drift-7-islands.json) |
 | Drift 84 | 34980 | [34980-drift-84.json](./34980-drift-84.json) |
+| Drift Abyss | 265365 | [265365-drift-abyss.json](./265365-drift-abyss.json) |
 | Drift Alone | 126631 | [126631-drift-alone.json](./126631-drift-alone.json) |
 | Drift Apocalypse | 296091 | [296091-drift-apocalypse.json](./296091-drift-apocalypse.json) |
 | Drift Boom Boom | 296877 | [296877-drift-boom-boom.json](./296877-drift-boom-boom.json) |
@@ -16653,6 +16661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dropcore | 371851 | [371851-dropcore.json](./371851-dropcore.json) |
 | DropDisk | 339573 | [339573-dropdisk.json](./339573-dropdisk.json) |
 | Dropfinity | 407526 | [407526-dropfinity.json](./407526-dropfinity.json) |
+| DropingBalls | 265364 | [265364-dropingballs.json](./265364-dropingballs.json) |
 | Dropkick Navvy | 267716 | [267716-dropkick-navvy.json](./267716-dropkick-navvy.json) |
 | Droplet | 176483 | [176483-droplet.json](./176483-droplet.json) |
 | Droplet | 314678 | [314678-droplet.json](./314678-droplet.json) |
@@ -16986,6 +16995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DualForce Idle | 183551 | [183551-dualforce-idle.json](./183551-dualforce-idle.json) |
 | DuaLight | 311552 | [311552-dualight.json](./311552-dualight.json) |
 | Dualikiwi | 297086 | [297086-dualikiwi.json](./297086-dualikiwi.json) |
+| Dualis | 265363 | [265363-dualis.json](./265363-dualis.json) |
 | Dualism | 142906 | [142906-dualism.json](./142906-dualism.json) |
 | Duality | 112786 | [112786-duality.json](./112786-duality.json) |
 | Duality | 301334 | [301334-duality.json](./301334-duality.json) |
@@ -17131,6 +17141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck's Inferno | 111437 | [111437-ducks-inferno.json](./111437-ducks-inferno.json) |
 | Duck's Island | 399716 | [399716-ducks-island.json](./399716-ducks-island.json) |
 | Duck's Most Terrible Day | 277336 | [277336-ducks-most-terrible-day.json](./277336-ducks-most-terrible-day.json) |
+| Duckball | 265362 | [265362-duckball.json](./265362-duckball.json) |
 | Duckball: Glorious Ducks | 133987 | [133987-duckball-glorious-ducks.json](./133987-duckball-glorious-ducks.json) |
 | Duckers | 232582 | [232582-duckers.json](./232582-duckers.json) |
 | DuckHunt: Missouri Kidz | 193597 | [193597-duckhunt-missouri-kidz.json](./193597-duckhunt-missouri-kidz.json) |
