@@ -1753,6 +1753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetica | 20526 | [20526-magnetica.json](./20526-magnetica.json) |
 | Magnetica Twist | 21826 | [21826-magnetica-twist.json](./21826-magnetica-twist.json) |
 | Magnetis | 16082 | [16082-magnetis.json](./16082-magnetis.json) |
+| Magnetism | 262129 | [262129-magnetism.json](./262129-magnetism.json) |
 | Magnetism | 82566 | [82566-magnetism.json](./82566-magnetism.json) |
 | Magnetism Rally | 257263 | [257263-magnetism-rally.json](./257263-magnetism-rally.json) |
 | Magnetized | 31113 | [31113-magnetized.json](./31113-magnetized.json) |
@@ -4418,6 +4419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martello Tower | 416007 | [416007-martello-tower.json](./416007-martello-tower.json) |
 | Marth.exe | 311032 | [311032-marth-exe.json](./311032-marth-exe.json) |
 | Martha | 144357 | [144357-martha.json](./144357-martha.json) |
+| Martha Is Dead: Collector's Edition | 262132 | [262132-martha-is-dead-collectors-edition.json](./262132-martha-is-dead-collectors-edition.json) |
 | Martha Is Dead: Digital Deluxe | 192310 | [192310-martha-is-dead-digital-deluxe.json](./192310-martha-is-dead-digital-deluxe.json) |
 | Martha Madison: Electricity | 83960 | [83960-martha-madison-electricity.json](./83960-martha-madison-electricity.json) |
 | Martha Madison: Energy | 83961 | [83961-martha-madison-energy.json](./83961-martha-madison-energy.json) |
@@ -5820,6 +5822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
