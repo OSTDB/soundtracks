@@ -2219,6 +2219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raven-Star | 350207 | [350207-raven-star.json](./350207-raven-star.json) |
 | Raven: Arang | 194104 | [194104-raven-arang.json](./194104-raven-arang.json) |
 | Raven: Chapter 1 - The Commands of Eurybia | 74002 | [74002-raven-chapter-1-the-commands-of-eurybia.json](./74002-raven-chapter-1-the-commands-of-eurybia.json) |
+| Raven: The Goblin Hunter | 250725 | [250725-raven-the-goblin-hunter.json](./250725-raven-the-goblin-hunter.json) |
 | Raven: The Rise | 224406 | [224406-raven-the-rise.json](./224406-raven-the-rise.json) |
 | Raven's Cry | 7686 | [7686-ravens-cry.json](./7686-ravens-cry.json) |
 | Raven's Daring Adventure | 311736 | [311736-ravens-daring-adventure.json](./311736-ravens-daring-adventure.json) |
@@ -3095,6 +3096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm Battle | 104399 | [104399-realm-battle.json](./104399-realm-battle.json) |
 | Realm Craft | 251811 | [251811-realm-craft.json](./251811-realm-craft.json) |
 | Realm Defense: Hero Legends TD | 83320 | [83320-realm-defense-hero-legends-td.json](./83320-realm-defense-hero-legends-td.json) |
+| Realm Divided | 250744 | [250744-realm-divided.json](./250744-realm-divided.json) |
 | Realm Drifter | 309714 | [309714-realm-drifter.json](./309714-realm-drifter.json) |
 | Realm Grinder | 36721 | [36721-realm-grinder.json](./36721-realm-grinder.json) |
 | Realm Hacker | 132271 | [132271-realm-hacker.json](./132271-realm-hacker.json) |
@@ -10930,6 +10932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roots of Harmony | 320561 | [320561-roots-of-harmony.json](./320561-roots-of-harmony.json) |
 | Roots of Insanity | 19570 | [19570-roots-of-insanity.json](./19570-roots-of-insanity.json) |
 | Roots of Rebirth | 239644 | [239644-roots-of-rebirth.json](./239644-roots-of-rebirth.json) |
+| Roots of the Mind | 250708 | [250708-roots-of-the-mind.json](./250708-roots-of-the-mind.json) |
 | Roots of Tomorrow: Additional Characters | 201097 | [201097-roots-of-tomorrow-additional-characters.json](./201097-roots-of-tomorrow-additional-characters.json) |
 | Roots of Tomorrow: Beekeeping | 201098 | [201098-roots-of-tomorrow-beekeeping.json](./201098-roots-of-tomorrow-beekeeping.json) |
 | Roots of Tomorrow: Urban Agriculture | 244361 | [244361-roots-of-tomorrow-urban-agriculture.json](./244361-roots-of-tomorrow-urban-agriculture.json) |
