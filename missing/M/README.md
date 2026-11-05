@@ -5753,11 +5753,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Force | 36573 | [36573-maximum-force.json](./36573-maximum-force.json) |
 | Maximum Frustration 2 | 339164 | [339164-maximum-frustration-2.json](./339164-maximum-frustration-2.json) |
 | Maximum G-Force Coasters | 209537 | [209537-maximum-g-force-coasters.json](./209537-maximum-g-force-coasters.json) |
+| Maximum Gas! | 292469 | [292469-maximum-gas.json](./292469-maximum-gas.json) |
 | Maximum Momentum | 127167 | [127167-maximum-momentum.json](./127167-maximum-momentum.json) |
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -6394,6 +6394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Armada | 145929 | [145929-mech-armada.json](./145929-mech-armada.json) |
 | Mech Assembler: Model Kit Builder Simulator | 346632 | [346632-mech-assembler-model-kit-builder-simulator.json](./346632-mech-assembler-model-kit-builder-simulator.json) |
 | Mech Bros | 302678 | [302678-mech-bros.json](./302678-mech-bros.json) |
+| Mech Builder | 292277 | [292277-mech-builder.json](./292277-mech-builder.json) |
 | Mech Chip | 114087 | [114087-mech-chip.json](./114087-mech-chip.json) |
 | Mech Commander Gold | 51238 | [51238-mech-commander-gold.json](./51238-mech-commander-gold.json) |
 | Mech Crusade | 326939 | [326939-mech-crusade.json](./326939-mech-crusade.json) |
@@ -6845,6 +6846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Lords: Soldier Kings of Europe | 69876 | [69876-medieval-lords-soldier-kings-of-europe.json](./69876-medieval-lords-soldier-kings-of-europe.json) |
 | Medieval Machines Builder | 154071 | [154071-medieval-machines-builder.json](./154071-medieval-machines-builder.json) |
 | Medieval Machines Builder: First Siege | 277261 | [277261-medieval-machines-builder-first-siege.json](./277261-medieval-machines-builder-first-siege.json) |
+| Medieval March | 292343 | [292343-medieval-march.json](./292343-medieval-march.json) |
 | Medieval Market | 387027 | [387027-medieval-market.json](./387027-medieval-market.json) |
 | Medieval Market Simulator | 399660 | [399660-medieval-market-simulator.json](./399660-medieval-market-simulator.json) |
 | Medieval Market Simulator | 400667 | [400667-medieval-market-simulator.json](./400667-medieval-market-simulator.json) |
@@ -17100,6 +17102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoteMancer | 338704 | [338704-motemancer.json](./338704-motemancer.json) |
 | Motesolo: No Girlfriend Since Birth | 140870 | [140870-motesolo-no-girlfriend-since-birth.json](./140870-motesolo-no-girlfriend-since-birth.json) |
 | Moth | 341424 | [341424-moth.json](./341424-moth.json) |
+| Moth Cry | 292353 | [292353-moth-cry.json](./292353-moth-cry.json) |
 | Moth House | 240966 | [240966-moth-house.json](./240966-moth-house.json) |
 | Moth Kubit | 236869 | [236869-moth-kubit.json](./236869-moth-kubit.json) |
 | Moth Lake | 212971 | [212971-moth-lake.json](./212971-moth-lake.json) |
@@ -18606,6 +18609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiverse | 339231 | [339231-multiverse.json](./339231-multiverse.json) |
 | Multiverse | 377183 | [377183-multiverse.json](./377183-multiverse.json) |
 | MultiVerse | 192255 | [192255-multiverse.json](./192255-multiverse.json) |
+| Multiverse Battle Royale | 292334 | [292334-multiverse-battle-royale.json](./292334-multiverse-battle-royale.json) |
 | Multiverse Designer | 372219 | [372219-multiverse-designer.json](./372219-multiverse-designer.json) |
 | Multiverse Go | 253897 | [253897-multiverse-go.json](./253897-multiverse-go.json) |
 | Multiverse Idle | 390632 | [390632-multiverse-idle.json](./390632-multiverse-idle.json) |
@@ -18726,6 +18730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder | 12687 | [12687-murder.json](./12687-murder.json) |
 | Murder | 14158 | [14158-murder.json](./14158-murder.json) |
 | Murder | 226764 | [226764-murder.json](./226764-murder.json) |
+| Murder | 292341 | [292341-murder.json](./292341-murder.json) |
 | Murder 38: Episode One - A Small World | 229772 | [229772-murder-38-episode-one-a-small-world.json](./229772-murder-38-episode-one-a-small-world.json) |
 | Murder at Chateau de Rouge | 362331 | [362331-murder-at-chateau-de-rouge.json](./362331-murder-at-chateau-de-rouge.json) |
 | Murder at Homecoming | 313871 | [313871-murder-at-homecoming.json](./313871-murder-at-homecoming.json) |
@@ -20554,6 +20559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Style Studio: Hair Salon | 84712 | [84712-my-style-studio-hair-salon.json](./84712-my-style-studio-hair-salon.json) |
 | My Style Studio: Notebook | 84710 | [84710-my-style-studio-notebook.json](./84710-my-style-studio-notebook.json) |
 | My Success Story | 208162 | [208162-my-success-story.json](./208162-my-success-story.json) |
+| My Succubus Kukula | 292344 | [292344-my-succubus-kukula.json](./292344-my-succubus-kukula.json) |
 | My Sudoku | 321960 | [321960-my-sudoku.json](./321960-my-sudoku.json) |
 | My Sudoku: Classic 4x4 Easy 10 | 321961 | [321961-my-sudoku-classic-4x4-easy-10.json](./321961-my-sudoku-classic-4x4-easy-10.json) |
 | My Sudoku: Classic 4x4 Easy 2 | 321962 | [321962-my-sudoku-classic-4x4-easy-2.json](./321962-my-sudoku-classic-4x4-easy-2.json) |
