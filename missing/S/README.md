@@ -5570,6 +5570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sepia Go! | 248826 | [248826-sepia-go.json](./248826-sepia-go.json) |
 | Sepia Splinters | 82569 | [82569-sepia-splinters.json](./82569-sepia-splinters.json) |
 | Sepium | 390240 | [390240-sepium.json](./390240-sepium.json) |
+| SeppuKuties | 276512 | [276512-seppukuties.json](./276512-seppukuties.json) |
 | Sept Jours, Sept Lieux, Sept Vies | 151284 | [151284-sept-jours-sept-lieux-sept-vies.json](./151284-sept-jours-sept-lieux-sept-vies.json) |
 | Septar | 408236 | [408236-septar.json](./408236-septar.json) |
 | Septaroad Voyager | 226626 | [226626-septaroad-voyager.json](./226626-septaroad-voyager.json) |
@@ -9758,6 +9759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VI: Fire Keeper Pack | 276031 | [276031-sid-meiers-civilization-vi-fire-keeper-pack.json](./276031-sid-meiers-civilization-vi-fire-keeper-pack.json) |
 | Sid Meier's Civilization VI: Gathering Storm | 113374 | [113374-sid-meiers-civilization-vi-gathering-storm.json](./113374-sid-meiers-civilization-vi-gathering-storm.json) |
 | Sid Meier's Civilization VI: John Riccitiello Pack | 277374 | [277374-sid-meiers-civilization-vi-john-riccitiello-pack.json](./277374-sid-meiers-civilization-vi-john-riccitiello-pack.json) |
+| Sid Meier's Civilization VI: Junko Enoshima Pack | 276528 | [276528-sid-meiers-civilization-vi-junko-enoshima-pack.json](./276528-sid-meiers-civilization-vi-junko-enoshima-pack.json) |
 | Sid Meier's Civilization VI: Khmer and Indonesia Civilization & Scenario Pack | 164407 | [164407-sid-meiers-civilization-vi-khmer-and-indonesia-civilization-and-scenario-pack.json](./164407-sid-meiers-civilization-vi-khmer-and-indonesia-civilization-and-scenario-pack.json) |
 | Sid Meier's Civilization VI: Klein Moretti Pack | 278097 | [278097-sid-meiers-civilization-vi-klein-moretti-pack.json](./278097-sid-meiers-civilization-vi-klein-moretti-pack.json) |
 | Sid Meier's Civilization VI: Leader Pass | 268578 | [268578-sid-meiers-civilization-vi-leader-pass.json](./268578-sid-meiers-civilization-vi-leader-pass.json) |
@@ -14705,6 +14707,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snapshots | 384076 | [384076-snapshots.json](./384076-snapshots.json) |
 | Snaptic | 403307 | [403307-snaptic.json](./403307-snaptic.json) |
 | Snapto | 352945 | [352945-snapto.json](./352945-snapto.json) |
+| Snapware ft. Tchabada | 276542 | [276542-snapware-ft-tchabada.json](./276542-snapware-ft-tchabada.json) |
+| Snapware Gun | 276538 | [276538-snapware-gun.json](./276538-snapware-gun.json) |
 | Snare | 40938 | [40938-snare.json](./40938-snare.json) |
 | Snares of Ruin | 81750 | [81750-snares-of-ruin.json](./81750-snares-of-ruin.json) |
 | Snares of Ruin 2 | 120737 | [120737-snares-of-ruin-2.json](./120737-snares-of-ruin-2.json) |
@@ -18995,6 +18999,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Dude | 71855 | [71855-space-dude.json](./71855-space-dude.json) |
 | Space Dudes vs Alien Dudes | 223389 | [223389-space-dudes-vs-alien-dudes.json](./223389-space-dudes-vs-alien-dudes.json) |
 | Space Duel | 18405 | [18405-space-duel.json](./18405-space-duel.json) |
+| Space Duel | 276523 | [276523-space-duel.json](./276523-space-duel.json) |
+| Space Duel | 276533 | [276533-space-duel.json](./276533-space-duel.json) |
 | Space Duels | 148809 | [148809-space-duels.json](./148809-space-duels.json) |
 | Space Duet | 130720 | [130720-space-duet.json](./130720-space-duet.json) |
 | Space Dungeon | 18842 | [18842-space-dungeon.json](./18842-space-dungeon.json) |
@@ -19194,6 +19200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -23080,6 +23087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stabby Cats | 159734 | [159734-stabby-cats.json](./159734-stabby-cats.json) |
 | Stabby the Clown | 176774 | [176774-stabby-the-clown.json](./176774-stabby-the-clown.json) |
 | Stabfish 2 | 200190 | [200190-stabfish-2.json](./200190-stabfish-2.json) |
+| Stabfish.io | 276540 | [276540-stabfish-io.json](./276540-stabfish-io.json) |
 | Stability | 43171 | [43171-stability.json](./43171-stability.json) |
 | Stabjack | 353295 | [353295-stabjack.json](./353295-stabjack.json) |
 | Stable Masters | 206975 | [206975-stable-masters.json](./206975-stable-masters.json) |
