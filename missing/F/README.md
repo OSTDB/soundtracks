@@ -8900,6 +8900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foosball Cup World | 237957 | [237957-foosball-cup-world.json](./237957-foosball-cup-world.json) |
 | Foosball For Two | 68627 | [68627-foosball-for-two.json](./68627-foosball-for-two.json) |
 | Foosball HD | 175508 | [175508-foosball-hd.json](./175508-foosball-hd.json) |
+| Foosball League Cup: Arcade Table Football Simulator | 269355 | [269355-foosball-league-cup-arcade-table-football-simulator.json](./269355-foosball-league-cup-arcade-table-football-simulator.json) |
 | Foosball Manager | 406042 | [406042-foosball-manager.json](./406042-foosball-manager.json) |
 | Foosball Runner | 318195 | [318195-foosball-runner.json](./318195-foosball-runner.json) |
 | Foosball VR | 84010 | [84010-foosball-vr.json](./84010-foosball-vr.json) |
