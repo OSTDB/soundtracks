@@ -8454,6 +8454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicey Dungeons+ | 296793 | [296793-dicey-dungeons.json](./296793-dicey-dungeons.json) |
 | Dicey Hacker 1999 | 350387 | [350387-dicey-hacker-1999.json](./350387-dicey-hacker-1999.json) |
 | Dicey Heroes | 346176 | [346176-dicey-heroes.json](./346176-dicey-heroes.json) |
+| Dicey Jump | 287444 | [287444-dicey-jump.json](./287444-dicey-jump.json) |
 | Dicey Krime: Traveler of Time | 155850 | [155850-dicey-krime-traveler-of-time.json](./155850-dicey-krime-traveler-of-time.json) |
 | Dicey Towers | 188489 | [188489-dicey-towers.json](./188489-dicey-towers.json) |
 | Dicey Words | 347446 | [347446-dicey-words.json](./347446-dicey-words.json) |
@@ -16819,6 +16820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drynk: Board and Drinking Game | 180146 | [180146-drynk-board-and-drinking-game.json](./180146-drynk-board-and-drinking-game.json) |
 | Drywall Eating Simulator | 347597 | [347597-drywall-eating-simulator.json](./347597-drywall-eating-simulator.json) |
 | DS Bimoji Training | 306436 | [306436-ds-bimoji-training.json](./306436-ds-bimoji-training.json) |
+| DS Bungaku Zenshuu | 287372 | [287372-ds-bungaku-zenshuu.json](./287372-ds-bungaku-zenshuu.json) |
 | DS de Classic Kiite Mimasenka | 269551 | [269551-ds-de-classic-kiite-mimasenka.json](./269551-ds-de-classic-kiite-mimasenka.json) |
 | DS de Yomu Series: Tezuka Osamu Hi no Tori 1 | 269705 | [269705-ds-de-yomu-series-tezuka-osamu-hi-no-tori-1.json](./269705-ds-de-yomu-series-tezuka-osamu-hi-no-tori-1.json) |
 | DS de Yomu Series: Tezuka Osamu Hi no Tori 2 | 269706 | [269706-ds-de-yomu-series-tezuka-osamu-hi-no-tori-2.json](./269706-ds-de-yomu-series-tezuka-osamu-hi-no-tori-2.json) |
@@ -17013,6 +17015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Life: Retro Pack | 88969 | [88969-duck-life-retro-pack.json](./88969-duck-life-retro-pack.json) |
 | Duck Life: Space | 29177 | [29177-duck-life-space.json](./29177-duck-life-space.json) |
 | Duck Man | 137848 | [137848-duck-man.json](./137848-duck-man.json) |
+| Duck Man | 287447 | [287447-duck-man.json](./287447-duck-man.json) |
 | Duck Maze | 378193 | [378193-duck-maze.json](./378193-duck-maze.json) |
 | Duck Mission | 204837 | [204837-duck-mission.json](./204837-duck-mission.json) |
 | Duck n' Dodge | 68359 | [68359-duck-n-dodge.json](./68359-duck-n-dodge.json) |
