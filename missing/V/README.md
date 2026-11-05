@@ -2354,6 +2354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violation Facility | 82676 | [82676-violation-facility.json](./82676-violation-facility.json) |
 | Violations Will Be Punished | 242582 | [242582-violations-will-be-punished.json](./242582-violations-will-be-punished.json) |
 | Violator | 80616 | [80616-violator.json](./80616-violator.json) |
+| Violence | 259355 | [259355-violence.json](./259355-violence.json) |
 | Violence Fight | 39608 | [39608-violence-fight.json](./39608-violence-fight.json) |
 | Violent Agent | 189206 | [189206-violent-agent.json](./189206-violent-agent.json) |
 | Violent Angel | 291153 | [291153-violent-angel.json](./291153-violent-angel.json) |
@@ -3373,6 +3374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidseekers | 253814 | [253814-voidseekers.json](./253814-voidseekers.json) |
 | Voidship: Redux | 244312 | [244312-voidship-redux.json](./244312-voidship-redux.json) |
 | Voidspace | 128155 | [128155-voidspace.json](./128155-voidspace.json) |
+| Voidspawn | 259356 | [259356-voidspawn.json](./259356-voidspawn.json) |
 | Voidspeed Outlaw | 157026 | [157026-voidspeed-outlaw.json](./157026-voidspeed-outlaw.json) |
 | Voidstalker | 381926 | [381926-voidstalker.json](./381926-voidstalker.json) |
 | Voidstepper | 384035 | [384035-voidstepper.json](./384035-voidstepper.json) |
