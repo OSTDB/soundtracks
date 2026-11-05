@@ -8131,6 +8131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Mystery: The Legend of the Sacred Treasure | 105441 | [105441-chronicles-of-mystery-the-legend-of-the-sacred-treasure.json](./105441-chronicles-of-mystery-the-legend-of-the-sacred-treasure.json) |
 | Chronicles of Mystery: The Secret Tree of Life | 66175 | [66175-chronicles-of-mystery-the-secret-tree-of-life.json](./66175-chronicles-of-mystery-the-secret-tree-of-life.json) |
 | Chronicles of Refugia | 213401 | [213401-chronicles-of-refugia.json](./213401-chronicles-of-refugia.json) |
+| Chronicles Of Sagrea | 287925 | [287925-chronicles-of-sagrea.json](./287925-chronicles-of-sagrea.json) |
 | Chronicles of Sarval: Bridges of Koni | 173052 | [173052-chronicles-of-sarval-bridges-of-koni.json](./173052-chronicles-of-sarval-bridges-of-koni.json) |
 | Chronicles of TalDun: The Longing | 239787 | [239787-chronicles-of-taldun-the-longing.json](./239787-chronicles-of-taldun-the-longing.json) |
 | Chronicles of Teddy: Harmony of Exidus | 19391 | [19391-chronicles-of-teddy-harmony-of-exidus.json](./19391-chronicles-of-teddy-harmony-of-exidus.json) |
@@ -17249,6 +17250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crops and Conveyors | 189126 | [189126-crops-and-conveyors.json](./189126-crops-and-conveyors.json) |
 | Crops! | 292960 | [292960-crops.json](./292960-crops.json) |
 | Cropshots | 185009 | [185009-cropshots.json](./185009-cropshots.json) |
+| Cropsmare! | 287998 | [287998-cropsmare.json](./287998-cropsmare.json) |
 | Croquet | 95342 | [95342-croquet.json](./95342-croquet.json) |
 | Croquet Conundrum | 319662 | [319662-croquet-conundrum.json](./319662-croquet-conundrum.json) |
 | Croquet Pro | 111727 | [111727-croquet-pro.json](./111727-croquet-pro.json) |
