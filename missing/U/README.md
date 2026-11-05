@@ -522,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Fishing Simulator VR: Thailand | 161338 | [161338-ultimate-fishing-simulator-vr-thailand.json](./161338-ultimate-fishing-simulator-vr-thailand.json) |
 | Ultimate Fishing Simulator: Amazon River | 154488 | [154488-ultimate-fishing-simulator-amazon-river.json](./154488-ultimate-fishing-simulator-amazon-river.json) |
 | Ultimate Fishing Simulator: Amazon River DLC | 164525 | [164525-ultimate-fishing-simulator-amazon-river-dlc.json](./164525-ultimate-fishing-simulator-amazon-river-dlc.json) |
+| Ultimate Fishing Simulator: Aquariums DLC | 250707 | [250707-ultimate-fishing-simulator-aquariums-dlc.json](./250707-ultimate-fishing-simulator-aquariums-dlc.json) |
 | Ultimate Fishing Simulator: Greenland DLC | 164524 | [164524-ultimate-fishing-simulator-greenland-dlc.json](./164524-ultimate-fishing-simulator-greenland-dlc.json) |
 | Ultimate Fishing Simulator: Japan | 154483 | [154483-ultimate-fishing-simulator-japan.json](./154483-ultimate-fishing-simulator-japan.json) |
 | Ultimate Fishing Simulator: Japan DLC | 164526 | [164526-ultimate-fishing-simulator-japan-dlc.json](./164526-ultimate-fishing-simulator-japan-dlc.json) |
@@ -721,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Space Battleship | 337525 | [337525-ultimate-space-battleship.json](./337525-ultimate-space-battleship.json) |
 | Ultimate Space Commando | 35963 | [35963-ultimate-space-commando.json](./35963-ultimate-space-commando.json) |
 | Ultimate Sparring | 334077 | [334077-ultimate-sparring.json](./334077-ultimate-sparring.json) |
+| Ultimate Speed Run | 250710 | [250710-ultimate-speed-run.json](./250710-ultimate-speed-run.json) |
 | Ultimate Spider Hero | 81629 | [81629-ultimate-spider-hero.json](./81629-ultimate-spider-hero.json) |
 | Ultimate Spider-Man | 200911 | [200911-ultimate-spider-man.json](./200911-ultimate-spider-man.json) |
 | Ultimate Spider-Man | 230193 | [230193-ultimate-spider-man.json](./230193-ultimate-spider-man.json) |
