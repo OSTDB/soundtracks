@@ -943,6 +943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calmed by the Dark: Leviathan | 153967 | [153967-calmed-by-the-dark-leviathan.json](./153967-calmed-by-the-dark-leviathan.json) |
 | Calmed by the Dark: Neon | 282367 | [282367-calmed-by-the-dark-neon.json](./282367-calmed-by-the-dark-neon.json) |
 | Calmed by the Dark: Purgatorium | 282383 | [282383-calmed-by-the-dark-purgatorium.json](./282383-calmed-by-the-dark-purgatorium.json) |
+| Calmed by the Dark: Shin Neon | 248977 | [248977-calmed-by-the-dark-shin-neon.json](./248977-calmed-by-the-dark-shin-neon.json) |
 | Calmed by the Dαrk | 388788 | [388788-calmed-by-the-d-rk.json](./388788-calmed-by-the-d-rk.json) |
 | Calming Lia | 261161 | [261161-calming-lia.json](./261161-calming-lia.json) |
 | CalmLine | 238448 | [238448-calmline.json](./238448-calmline.json) |
@@ -2030,6 +2031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CapybaRun | 250739 | [250739-capybarun.json](./250739-capybarun.json) |
 | CapyBash | 392081 | [392081-capybash.json](./392081-capybash.json) |
 | Capybro | 263945 | [263945-capybro.json](./263945-capybro.json) |
+| Capytopia | 248976 | [248976-capytopia.json](./248976-capytopia.json) |
 | Capyvarias | 390806 | [390806-capyvarias.json](./390806-capyvarias.json) |
 | Capyverse Odyssey | 379607 | [379607-capyverse-odyssey.json](./379607-capyverse-odyssey.json) |
 | Car | 243586 | [243586-car.json](./243586-car.json) |
@@ -5036,6 +5038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CeeBot3 Educational Programming Software | 131131 | [131131-ceebot3-educational-programming-software.json](./131131-ceebot3-educational-programming-software.json) |
 | Cefore | 28647 | [28647-cefore.json](./28647-cefore.json) |
 | Ceggtcher VR | 31426 | [31426-ceggtcher-vr.json](./31426-ceggtcher-vr.json) |
+| Ceiba | 248967 | [248967-ceiba.json](./248967-ceiba.json) |
 | Ceiling Mounted Sprinkler | 358439 | [358439-ceiling-mounted-sprinkler.json](./358439-ceiling-mounted-sprinkler.json) |
 | Ceiling Zero | 282105 | [282105-ceiling-zero.json](./282105-ceiling-zero.json) |
 | Ceke Ceke | 208227 | [208227-ceke-ceke.json](./208227-ceke-ceke.json) |
@@ -6342,6 +6345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkmate II | 278859 | [278859-checkmate-ii.json](./278859-checkmate-ii.json) |
 | Checkmate in the Wild West: Chess Adventure | 373534 | [373534-checkmate-in-the-wild-west-chess-adventure.json](./373534-checkmate-in-the-wild-west-chess-adventure.json) |
 | Checkmate Kings | 163685 | [163685-checkmate-kings.json](./163685-checkmate-kings.json) |
+| Checkmate Showdown | 249003 | [249003-checkmate-showdown.json](./249003-checkmate-showdown.json) |
 | Checkmate Survivors | 331813 | [331813-checkmate-survivors.json](./331813-checkmate-survivors.json) |
 | Checkmate: The Red General’s Last Move | 424609 | [424609-checkmate-the-red-general-s-last-move.json](./424609-checkmate-the-red-general-s-last-move.json) |
 | Checkmate! | 108057 | [108057-checkmate.json](./108057-checkmate.json) |
@@ -6650,6 +6654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Force | 338917 | [338917-chess-force.json](./338917-chess-force.json) |
 | Chess Gambit | 165124 | [165124-chess-gambit.json](./165124-chess-gambit.json) |
 | Chess Grandmaster Royal Bundle | 283189 | [283189-chess-grandmaster-royal-bundle.json](./283189-chess-grandmaster-royal-bundle.json) |
+| Chess Graphy | 248953 | [248953-chess-graphy.json](./248953-chess-graphy.json) |
 | Chess Hunt | 344715 | [344715-chess-hunt.json](./344715-chess-hunt.json) |
 | Chess in the Park | 254438 | [254438-chess-in-the-park.json](./254438-chess-in-the-park.json) |
 | Chess Infinity | 324987 | [324987-chess-infinity.json](./324987-chess-infinity.json) |
@@ -13512,6 +13517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console War Giant | 407313 | [407313-console-war-giant.json](./407313-console-war-giant.json) |
 | Consonance | 374596 | [374596-consonance.json](./374596-consonance.json) |
 | Consortium | 9572 | [9572-consortium.json](./9572-consortium.json) |
+| Consortium Remastered | 248980 | [248980-consortium-remastered.json](./248980-consortium-remastered.json) |
 | Consortium VR | 235940 | [235940-consortium-vr.json](./235940-consortium-vr.json) |
 | Consorts of the Emperor | 402695 | [402695-consorts-of-the-emperor.json](./402695-consorts-of-the-emperor.json) |
 | Consortya | 150999 | [150999-consortya.json](./150999-consortya.json) |
