@@ -954,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7903,6 +7904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Pinball Gameroom: Bally Beauty | 263294 | [263294-bingo-pinball-gameroom-bally-beauty.json](./263294-bingo-pinball-gameroom-bally-beauty.json) |
 | Bingo Pinball Gameroom: Bally Big Show | 263292 | [263292-bingo-pinball-gameroom-bally-big-show.json](./263292-bingo-pinball-gameroom-bally-big-show.json) |
 | Bingo Pinball Gameroom: Bally Big Time | 263295 | [263295-bingo-pinball-gameroom-bally-big-time.json](./263295-bingo-pinball-gameroom-bally-big-time.json) |
+| Bingo Pinball Gameroom: Bally Big Wheel | 262716 | [262716-bingo-pinball-gameroom-bally-big-wheel.json](./262716-bingo-pinball-gameroom-bally-big-wheel.json) |
 | Bingo Pinball Gameroom: Bally Bikini | 263293 | [263293-bingo-pinball-gameroom-bally-bikini.json](./263293-bingo-pinball-gameroom-bally-bikini.json) |
 | Bingo Pinball Gameroom: Bally Miss America Deluxe | 263291 | [263291-bingo-pinball-gameroom-bally-miss-america-deluxe.json](./263291-bingo-pinball-gameroom-bally-miss-america-deluxe.json) |
 | Bingo Pinball Gameroom: Bally Show Time | 263290 | [263290-bingo-pinball-gameroom-bally-show-time.json](./263290-bingo-pinball-gameroom-bally-show-time.json) |
@@ -11747,6 +11749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boats N' Hoes | 298448 | [298448-boats-n-hoes.json](./298448-boats-n-hoes.json) |
 | Boaty McBoatwad | 260662 | [260662-boaty-mcboatwad.json](./260662-boaty-mcboatwad.json) |
 | Boaty Tanks | 261830 | [261830-boaty-tanks.json](./261830-boaty-tanks.json) |
+| Boaty Tanks 2 | 262717 | [262717-boaty-tanks-2.json](./262717-boaty-tanks-2.json) |
 | Bob | 27700 | [27700-bob.json](./27700-bob.json) |
 | Bob | 310897 | [310897-bob.json](./310897-bob.json) |
 | Bob & Bernard Against the Nazis | 120361 | [120361-bob-and-bernard-against-the-nazis.json](./120361-bob-and-bernard-against-the-nazis.json) |
@@ -14994,6 +14997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breath of Ghosts 2 | 208856 | [208856-breath-of-ghosts-2.json](./208856-breath-of-ghosts-2.json) |
 | Breath of Light | 100615 | [100615-breath-of-light.json](./100615-breath-of-light.json) |
 | Breath of Light: Relaxing Puzzler | 175551 | [175551-breath-of-light-relaxing-puzzler.json](./175551-breath-of-light-relaxing-puzzler.json) |
+| Breath of Space | 262753 | [262753-breath-of-space.json](./262753-breath-of-space.json) |
 | Breath of Spirits | 152736 | [152736-breath-of-spirits.json](./152736-breath-of-spirits.json) |
 | Breath of the Depth | 265483 | [265483-breath-of-the-depth.json](./265483-breath-of-the-depth.json) |
 | Breath of the Gods | 223310 | [223310-breath-of-the-gods.json](./223310-breath-of-the-gods.json) |
