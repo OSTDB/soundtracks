@@ -2919,6 +2919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled Shantae Game | 375612 | [375612-untitled-shantae-game.json](./375612-untitled-shantae-game.json) |
 | Untitled Sonic Fangame | 369196 | [369196-untitled-sonic-fangame.json](./369196-untitled-sonic-fangame.json) |
 | Untitled Space Game | 153441 | [153441-untitled-space-game.json](./153441-untitled-space-game.json) |
+| Untitled Star Fox Minihack 2 | 259342 | [259342-untitled-star-fox-minihack-2.json](./259342-untitled-star-fox-minihack-2.json) |
 | Untitled Survival Game | 193193 | [193193-untitled-survival-game.json](./193193-untitled-survival-game.json) |
 | Untitled Tomb Runner | 361743 | [361743-untitled-tomb-runner.json](./361743-untitled-tomb-runner.json) |
 | Untitled Video Game | 163243 | [163243-untitled-video-game.json](./163243-untitled-video-game.json) |
