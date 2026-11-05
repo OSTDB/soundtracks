@@ -2823,6 +2823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carpool: Attack of the Disco Mob | 361002 | [361002-carpool-attack-of-the-disco-mob.json](./361002-carpool-attack-of-the-disco-mob.json) |
 | Carpoon | 172515 | [172515-carpoon.json](./172515-carpoon.json) |
 | Carprogram | 273379 | [273379-carprogram.json](./273379-carprogram.json) |
+| CarprogramVR | 294912 | [294912-carprogramvr.json](./294912-carprogramvr.json) |
 | Carps & Dragons | 63515 | [63515-carps-and-dragons.json](./63515-carps-and-dragons.json) |
 | CarRage | 248851 | [248851-carrage.json](./248851-carrage.json) |
 | Carrera | 295031 | [295031-carrera.json](./295031-carrera.json) |
@@ -6181,6 +6182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Check In | 303409 | [303409-check-in.json](./303409-check-in.json) |
 | Check in the Back | 183010 | [183010-check-in-the-back.json](./183010-check-in-the-back.json) |
 | Check In, Knock Out | 59936 | [59936-check-in-knock-out.json](./59936-check-in-knock-out.json) |
+| Check Inn | 294914 | [294914-check-inn.json](./294914-check-inn.json) |
 | Check Man | 39609 | [39609-check-man.json](./39609-check-man.json) |
 | Check Mii Out Channel | 139041 | [139041-check-mii-out-channel.json](./139041-check-mii-out-channel.json) |
 | Check the Room 13 | 252025 | [252025-check-the-room-13.json](./252025-check-the-room-13.json) |
@@ -7848,6 +7850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Infinity | 338519 | [338519-christmas-infinity.json](./338519-christmas-infinity.json) |
 | Christmas Jigsaw Puzzle Pango | 108458 | [108458-christmas-jigsaw-puzzle-pango.json](./108458-christmas-jigsaw-puzzle-pango.json) |
 | Christmas Journey Puzzle | 283840 | [283840-christmas-journey-puzzle.json](./283840-christmas-journey-puzzle.json) |
+| Christmas Journey to Santa | 294923 | [294923-christmas-journey-to-santa.json](./294923-christmas-journey-to-santa.json) |
 | Christmas Jumper Jam | 326981 | [326981-christmas-jumper-jam.json](./326981-christmas-jumper-jam.json) |
 | Christmas Land: Opposite Worlds | 231200 | [231200-christmas-land-opposite-worlds.json](./231200-christmas-land-opposite-worlds.json) |
 | Christmas Luge | 236521 | [236521-christmas-luge.json](./236521-christmas-luge.json) |
