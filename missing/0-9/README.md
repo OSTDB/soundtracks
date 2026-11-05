@@ -560,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Days | 164599 | [164599-100-days.json](./164599-100-days.json) |
 | 100 Days | 231985 | [231985-100-days.json](./231985-100-days.json) |
 | 100 Demon Cats | 347752 | [347752-100-demon-cats.json](./347752-100-demon-cats.json) |
+| 100 Demon Fantasia | 280598 | [280598-100-demon-fantasia.json](./280598-100-demon-fantasia.json) |
 | 100 Dino Cats | 284395 | [284395-100-dino-cats.json](./284395-100-dino-cats.json) |
 | 100 Dino Cats: Extra Content | 288729 | [288729-100-dino-cats-extra-content.json](./288729-100-dino-cats-extra-content.json) |
 | 100 Dogs | 308933 | [308933-100-dogs.json](./308933-100-dogs.json) |
@@ -2485,6 +2486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3DXChat | 301038 | [301038-3dxchat.json](./301038-3dxchat.json) |
 | 3eality | 115470 | [115470-3eality.json](./115470-3eality.json) |
 | 3in1 Adrenalin Pack | 137477 | [137477-3in1-adrenalin-pack.json](./137477-3in1-adrenalin-pack.json) |
+| 3in1 Game Collection: Backgammon + Checkers + Mills | 280597 | [280597-3in1-game-collection-backgammon-checkers-mills.json](./280597-3in1-game-collection-backgammon-checkers-mills.json) |
 | 3in1: Meine Tierpension + Meine Tierschule + Mein Westernpferd | 269540 | [269540-3in1-meine-tierpension-meine-tierschule-mein-westernpferd.json](./269540-3in1-meine-tierpension-meine-tierschule-mein-westernpferd.json) |
 | 3Kingdoms | 228872 | [228872-3kingdoms.json](./228872-3kingdoms.json) |
 | 3LDK | 58152 | [58152-3ldk.json](./58152-3ldk.json) |
