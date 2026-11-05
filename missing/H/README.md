@@ -2620,6 +2620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Heye Apartment | 245811 | [245811-haunted-heye-apartment.json](./245811-haunted-heye-apartment.json) |
 | Haunted Hill | 245123 | [245123-haunted-hill.json](./245123-haunted-hill.json) |
 | Haunted Hill | 276390 | [276390-haunted-hill.json](./276390-haunted-hill.json) |
+| Haunted Horror Stories: Gone With The Wind | 249544 | [249544-haunted-horror-stories-gone-with-the-wind.json](./249544-haunted-horror-stories-gone-with-the-wind.json) |
 | Haunted Hotel | 146857 | [146857-haunted-hotel.json](./146857-haunted-hotel.json) |
 | Haunted Hotel | 31063 | [31063-haunted-hotel.json](./31063-haunted-hotel.json) |
 | Haunted Hotel 19: Lost Time | 140183 | [140183-haunted-hotel-19-lost-time.json](./140183-haunted-hotel-19-lost-time.json) |
