@@ -2938,6 +2938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path to Prosperity | 150738 | [150738-path-to-prosperity.json](./150738-path-to-prosperity.json) |
 | Path to Purge | 220461 | [220461-path-to-purge.json](./220461-path-to-purge.json) |
 | Path to Ruin | 219400 | [219400-path-to-ruin.json](./219400-path-to-ruin.json) |
+| Path to Salvation | 253153 | [253153-path-to-salvation.json](./253153-path-to-salvation.json) |
 | Path to Serenity | 350497 | [350497-path-to-serenity.json](./350497-path-to-serenity.json) |
 | Path to Success | 54258 | [54258-path-to-success.json](./54258-path-to-success.json) |
 | Path to Tamer Town | 366097 | [366097-path-to-tamer-town.json](./366097-path-to-tamer-town.json) |
@@ -8325,6 +8326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Geishas | 357947 | [357947-pixel-puzzles-illustrations-and-anime-jigsaw-pack-geishas.json](./357947-pixel-puzzles-illustrations-and-anime-jigsaw-pack-geishas.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Gun Girls | 162934 | [162934-pixel-puzzles-illustrations-and-anime-jigsaw-pack-gun-girls.json](./162934-pixel-puzzles-illustrations-and-anime-jigsaw-pack-gun-girls.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Halloween | 274584 | [274584-pixel-puzzles-illustrations-and-anime-jigsaw-pack-halloween.json](./274584-pixel-puzzles-illustrations-and-anime-jigsaw-pack-halloween.json) |
+| Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Kuniyoshi | 253118 | [253118-pixel-puzzles-illustrations-and-anime-jigsaw-pack-kuniyoshi.json](./253118-pixel-puzzles-illustrations-and-anime-jigsaw-pack-kuniyoshi.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Little Dogs | 162936 | [162936-pixel-puzzles-illustrations-and-anime-jigsaw-pack-little-dogs.json](./162936-pixel-puzzles-illustrations-and-anime-jigsaw-pack-little-dogs.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Mechs | 163409 | [163409-pixel-puzzles-illustrations-and-anime-jigsaw-pack-mechs.json](./163409-pixel-puzzles-illustrations-and-anime-jigsaw-pack-mechs.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Microorganisms | 357948 | [357948-pixel-puzzles-illustrations-and-anime-jigsaw-pack-microorganisms.json](./357948-pixel-puzzles-illustrations-and-anime-jigsaw-pack-microorganisms.json) |
@@ -17772,6 +17774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo Fever Touch Lite | 251505 | [251505-puyo-puyo-fever-touch-lite.json](./251505-puyo-puyo-fever-touch-lite.json) |
 | Puyo Puyo Fever: Minna de Nazo Puyo | 251090 | [251090-puyo-puyo-fever-minna-de-nazo-puyo.json](./251090-puyo-puyo-fever-minna-de-nazo-puyo.json) |
 | Puyo Puyo Gaiden: Puyo Wars | 64088 | [64088-puyo-puyo-gaiden-puyo-wars.json](./64088-puyo-puyo-gaiden-puyo-wars.json) |
+| Puyo Puyo Love Story | 253122 | [253122-puyo-puyo-love-story.json](./253122-puyo-puyo-love-story.json) |
 | Puyo Puyo Puzzle Pop | 291210 | [291210-puyo-puyo-puzzle-pop.json](./291210-puyo-puyo-puzzle-pop.json) |
 | Puyo Puyo Solitare | 251503 | [251503-puyo-puyo-solitare.json](./251503-puyo-puyo-solitare.json) |
 | Puyo Puyo Sun | 250340 | [250340-puyo-puyo-sun.json](./250340-puyo-puyo-sun.json) |
