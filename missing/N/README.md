@@ -6424,6 +6424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nope Nope Nope Nope Nurses | 261755 | [261755-nope-nope-nope-nope-nurses.json](./261755-nope-nope-nope-nope-nurses.json) |
 | Nope Nope Nope Nurses | 284202 | [284202-nope-nope-nope-nurses.json](./284202-nope-nope-nope-nurses.json) |
 | Nope Nope Nurses | 215754 | [215754-nope-nope-nurses.json](./215754-nope-nope-nurses.json) |
+| Nope quiz | 281797 | [281797-nope-quiz.json](./281797-nope-quiz.json) |
 | Nope Rope | 285793 | [285793-nope-rope.json](./285793-nope-rope.json) |
 | Nophenia | 369651 | [369651-nophenia.json](./369651-nophenia.json) |
 | Noplace | 420564 | [420564-noplace.json](./420564-noplace.json) |
@@ -6618,6 +6619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northgard: Vordr, Clan of the Owl | 276976 | [276976-northgard-vordr-clan-of-the-owl.json](./276976-northgard-vordr-clan-of-the-owl.json) |
 | NorthHold | 395269 | [395269-northhold.json](./395269-northhold.json) |
 | Northmark: Hour of the Wolf | 17532 | [17532-northmark-hour-of-the-wolf.json](./17532-northmark-hour-of-the-wolf.json) |
+| Northrealm Tribes | 281849 | [281849-northrealm-tribes.json](./281849-northrealm-tribes.json) |
 | NorthStar | 55207 | [55207-northstar.json](./55207-northstar.json) |
 | Northstar Courier | 357367 | [357367-northstar-courier.json](./357367-northstar-courier.json) |
 | Northward | 408026 | [408026-northward.json](./408026-northward.json) |
