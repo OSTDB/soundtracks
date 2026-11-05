@@ -1631,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu Hayami no American Kids: Eigo de Talk | 293913 | [293913-yu-hayami-no-american-kids-eigo-de-talk.json](./293913-yu-hayami-no-american-kids-eigo-de-talk.json) |
 | Yu Hayami no American Kids: Eigo de Tango | 293910 | [293910-yu-hayami-no-american-kids-eigo-de-tango.json](./293910-yu-hayami-no-american-kids-eigo-de-tango.json) |
 | Yu Jammin | 178873 | [178873-yu-jammin.json](./178873-yu-jammin.json) |
+| Yu Sha Rong Shen Jin | 295056 | [295056-yu-sha-rong-shen-jin.json](./295056-yu-sha-rong-shen-jin.json) |
 | Yu Shen Qian Kun | 123506 | [123506-yu-shen-qian-kun.json](./123506-yu-shen-qian-kun.json) |
 | Yu Suzuki Game Works Vol. 1 | 56453 | [56453-yu-suzuki-game-works-vol-1.json](./56453-yu-suzuki-game-works-vol-1.json) |
 | Yu Yu Hakusho: Dark Martial Arts Club | 208940 | [208940-yu-yu-hakusho-dark-martial-arts-club.json](./208940-yu-yu-hakusho-dark-martial-arts-club.json) |
