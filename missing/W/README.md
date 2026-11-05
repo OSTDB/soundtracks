@@ -3877,6 +3877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheelie King VR | 118035 | [118035-wheelie-king-vr.json](./118035-wheelie-king-vr.json) |
 | Wheelie Life | 249720 | [249720-wheelie-life.json](./249720-wheelie-life.json) |
 | Wheelie Life Simulator | 396226 | [396226-wheelie-life-simulator.json](./396226-wheelie-life-simulator.json) |
+| Wheelie Racer | 291921 | [291921-wheelie-racer.json](./291921-wheelie-racer.json) |
 | Wheelie Rider 3D | 106658 | [106658-wheelie-rider-3d.json](./106658-wheelie-rider-3d.json) |
 | Wheelies | 365104 | [365104-wheelies.json](./365104-wheelies.json) |
 | Wheelin' Wallie | 125615 | [125615-wheelin-wallie.json](./125615-wheelin-wallie.json) |
