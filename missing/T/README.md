@@ -9967,6 +9967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Golden Cross | 150752 | [150752-the-golden-cross.json](./150752-the-golden-cross.json) |
 | The Golden Eagle | 327540 | [327540-the-golden-eagle.json](./327540-the-golden-eagle.json) |
 | The Golden Eyed Ghosts | 200521 | [200521-the-golden-eyed-ghosts.json](./200521-the-golden-eyed-ghosts.json) |
+| The Golden Girl Pulls and Licks the Dog | 256061 | [256061-the-golden-girl-pulls-and-licks-the-dog.json](./256061-the-golden-girl-pulls-and-licks-the-dog.json) |
 | The Golden Girls Take Manhattan DX | 241237 | [241237-the-golden-girls-take-manhattan-dx.json](./241237-the-golden-girls-take-manhattan-dx.json) |
 | The Golden Harp | 176784 | [176784-the-golden-harp.json](./176784-the-golden-harp.json) |
 | The Golden Horde | 21482 | [21482-the-golden-horde.json](./21482-the-golden-horde.json) |
@@ -24958,6 +24959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toonix! | 103171 | [103171-toonix.json](./103171-toonix.json) |
 | Toonkars Racer | 202763 | [202763-toonkars-racer.json](./202763-toonkars-racer.json) |
 | Toons City | 201664 | [201664-toons-city.json](./201664-toons-city.json) |
+| Toons Kart | 256059 | [256059-toons-kart.json](./256059-toons-kart.json) |
 | ToonSouls Maker | 288579 | [288579-toonsouls-maker.json](./288579-toonsouls-maker.json) |
 | Toonsters: Crossing Worlds | 272185 | [272185-toonsters-crossing-worlds.json](./272185-toonsters-crossing-worlds.json) |
 | Toonstruck | 916 | [916-toonstruck.json](./916-toonstruck.json) |
