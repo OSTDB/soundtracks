@@ -2144,6 +2144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bank Shot | 381871 | [381871-bank-shot.json](./381871-bank-shot.json) |
 | Bank Simulator | 326470 | [326470-bank-simulator.json](./326470-bank-simulator.json) |
 | Bank-A-Ball | 84323 | [84323-bank-a-ball.json](./84323-bank-a-ball.json) |
+| Banka | 273186 | [273186-banka.json](./273186-banka.json) |
 | BankBank | 98057 | [98057-bankbank.json](./98057-bankbank.json) |
 | Banker HD | 213789 | [213789-banker-hd.json](./213789-banker-hd.json) |
 | Banker Simulator | 333328 | [333328-banker-simulator.json](./333328-banker-simulator.json) |
@@ -8650,6 +8651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bizzare Cat Rescuer | 368969 | [368969-bizzare-cat-rescuer.json](./368969-bizzare-cat-rescuer.json) |
 | Bizzarioware | 185148 | [185148-bizzarioware.json](./185148-bizzarioware.json) |
 | Bizzy Robo | 259030 | [259030-bizzy-robo.json](./259030-bizzy-robo.json) |
+| BJ Shrine | 273144 | [273144-bj-shrine.json](./273144-bj-shrine.json) |
 | BJ's Bara Jam Kitchen | 183889 | [183889-bjs-bara-jam-kitchen.json](./183889-bjs-bara-jam-kitchen.json) |
 | Bjorn | 168591 | [168591-bjorn.json](./168591-bjorn.json) |
 | Bjorn to Dance | 183763 | [183763-bjorn-to-dance.json](./183763-bjorn-to-dance.json) |
@@ -14014,6 +14016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boy with Cat | 207172 | [207172-boy-with-cat.json](./207172-boy-with-cat.json) |
 | Boy x Boy: Shiritsu Kouryou Gakuin Seishinryou | 417548 | [417548-boy-x-boy-shiritsu-kouryou-gakuin-seishinryou.json](./417548-boy-x-boy-shiritsu-kouryou-gakuin-seishinryou.json) |
 | Boy's Love | 101358 | [101358-boys-love.json](./101358-boys-love.json) |
+| Boyard | 273188 | [273188-boyard.json](./273188-boyard.json) |
 | Boyband Hell | 288177 | [288177-boyband-hell.json](./288177-boyband-hell.json) |
 | Boyce the Voice | 285369 | [285369-boyce-the-voice.json](./285369-boyce-the-voice.json) |
 | Boyfriend Dungeon: Secret Weapons | 228681 | [228681-boyfriend-dungeon-secret-weapons.json](./228681-boyfriend-dungeon-secret-weapons.json) |
