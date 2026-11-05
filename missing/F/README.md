@@ -3405,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear & Respect | 70423 | [70423-fear-and-respect.json](./70423-fear-and-respect.json) |
 | Fear 2: The Disappeared 207 | 153136 | [153136-fear-2-the-disappeared-207.json](./153136-fear-2-the-disappeared-207.json) |
 | Fear Academy | 345079 | [345079-fear-academy.json](./345079-fear-academy.json) |
+| Fear and Loathing | 257166 | [257166-fear-and-loathing.json](./257166-fear-and-loathing.json) |
 | Fear Assessment | 254349 | [254349-fear-assessment.json](./254349-fear-assessment.json) |
 | Fear Assessment+ | 254396 | [254396-fear-assessment.json](./254396-fear-assessment.json) |
 | Fear Below Zero | 353615 | [353615-fear-below-zero.json](./353615-fear-below-zero.json) |
@@ -8674,6 +8675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FOFT: Federation of Free Traders | 68492 | [68492-foft-federation-of-free-traders.json](./68492-foft-federation-of-free-traders.json) |
 | Fog | 201837 | [201837-fog.json](./201837-fog.json) |
 | Fog | 204841 | [204841-fog.json](./204841-fog.json) |
+| Fog | 257153 | [257153-fog.json](./257153-fog.json) |
 | FOG ...Seek the hidden truth | 126323 | [126323-fog-seek-the-hidden-truth.json](./126323-fog-seek-the-hidden-truth.json) |
 | Fog & Silver | 214144 | [214144-fog-and-silver.json](./214144-fog-and-silver.json) |
 | Fog and Sea | 304478 | [304478-fog-and-sea.json](./304478-fog-and-sea.json) |
@@ -9546,6 +9548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Star | 189356 | [189356-forest-star.json](./189356-forest-star.json) |
 | Forest Survival | 109382 | [109382-forest-survival.json](./109382-forest-survival.json) |
 | Forest Survival | 381032 | [381032-forest-survival.json](./381032-forest-survival.json) |
+| Forest Swords | 257152 | [257152-forest-swords.json](./257152-forest-swords.json) |
 | Forest Time | 373517 | [373517-forest-time.json](./373517-forest-time.json) |
 | Forest Tower Defense | 215578 | [215578-forest-tower-defense.json](./215578-forest-tower-defense.json) |
 | Forest Walk | 311142 | [311142-forest-walk.json](./311142-forest-walk.json) |
@@ -13224,6 +13227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funky Smugglers | 64278 | [64278-funky-smugglers.json](./64278-funky-smugglers.json) |
 | Funkyheart | 369894 | [369894-funkyheart.json](./369894-funkyheart.json) |
 | FunkyMouse's ISO | 340271 | [340271-funkymouses-iso.json](./340271-funkymouses-iso.json) |
+| Funnelcake Apparitions | 257132 | [257132-funnelcake-apparitions.json](./257132-funnelcake-apparitions.json) |
 | Funnels and Buckets | 46644 | [46644-funnels-and-buckets.json](./46644-funnels-and-buckets.json) |
 | Funny Alphabet | 254065 | [254065-funny-alphabet.json](./254065-funny-alphabet.json) |
 | Funny AntiVirus TD | 128293 | [128293-funny-antivirus-td.json](./128293-funny-antivirus-td.json) |
