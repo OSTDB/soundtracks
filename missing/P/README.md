@@ -2256,6 +2256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parcel Peaks | 391551 | [391551-parcel-peaks.json](./391551-parcel-peaks.json) |
 | Parcel Problems | 239061 | [239061-parcel-problems.json](./239061-parcel-problems.json) |
 | Parcel Push | 378825 | [378825-parcel-push.json](./378825-parcel-push.json) |
+| Parcel Simulator | 251927 | [251927-parcel-simulator.json](./251927-parcel-simulator.json) |
 | Parcels and Pollen | 177503 | [177503-parcels-and-pollen.json](./177503-parcels-and-pollen.json) |
 | Parcheesi Boardgame Simulator | 110613 | [110613-parcheesi-boardgame-simulator.json](./110613-parcheesi-boardgame-simulator.json) |
 | Parchis Club | 204683 | [204683-parchis-club.json](./204683-parchis-club.json) |
@@ -13880,6 +13881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pressure Overdrive | 33926 | [33926-pressure-overdrive.json](./33926-pressure-overdrive.json) |
 | Pressure Pop! | 209926 | [209926-pressure-pop.json](./209926-pressure-pop.json) |
 | Pressure Protocol | 390341 | [390341-pressure-protocol.json](./390341-pressure-protocol.json) |
+| Pressure Washer | 251912 | [251912-pressure-washer.json](./251912-pressure-washer.json) |
 | Pressure Within | 225215 | [225215-pressure-within.json](./225215-pressure-within.json) |
 | Pressured | 9008 | [9008-pressured.json](./9008-pressured.json) |
 | Prestige Tree | 213278 | [213278-prestige-tree.json](./213278-prestige-tree.json) |
@@ -15948,6 +15950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Tank | 84065 | [84065-project-tank.json](./84065-project-tank.json) |
 | Project Tarvotan | 34809 | [34809-project-tarvotan.json](./34809-project-tarvotan.json) |
 | Project TB | 275989 | [275989-project-tb.json](./275989-project-tb.json) |
+| Project Teddy | 251922 | [251922-project-teddy.json](./251922-project-teddy.json) |
 | Project Temporality | 10725 | [10725-project-temporality.json](./10725-project-temporality.json) |
 | Project Terminus VR | 149838 | [149838-project-terminus-vr.json](./149838-project-terminus-vr.json) |
 | Project Terra | 272733 | [272733-project-terra.json](./272733-project-terra.json) |
@@ -18532,6 +18535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramid Bloxx | 194657 | [194657-pyramid-bloxx.json](./194657-pyramid-bloxx.json) |
 | Pyramid Builder | 183276 | [183276-pyramid-builder.json](./183276-pyramid-builder.json) |
 | Pyramid Clicker | 370418 | [370418-pyramid-clicker.json](./370418-pyramid-clicker.json) |
+| Pyramid Curse | 251918 | [251918-pyramid-curse.json](./251918-pyramid-curse.json) |
 | Pyramid Exit | 378422 | [378422-pyramid-exit.json](./378422-pyramid-exit.json) |
 | Pyramid Game | 310185 | [310185-pyramid-game.json](./310185-pyramid-game.json) |
 | Pyramid Magic | 45751 | [45751-pyramid-magic.json](./45751-pyramid-magic.json) |
