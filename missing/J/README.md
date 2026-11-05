@@ -2090,6 +2090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinmakyou Kyousei-tan | 128241 | [128241-jinmakyou-kyousei-tan.json](./128241-jinmakyou-kyousei-tan.json) |
 | Jinmu Denshou Yaksa | 37683 | [37683-jinmu-denshou-yaksa.json](./37683-jinmu-denshou-yaksa.json) |
 | Jinni 2: The Ritual | 379405 | [379405-jinni-2-the-ritual.json](./379405-jinni-2-the-ritual.json) |
+| Jinni: Haunted House | 296534 | [296534-jinni-haunted-house.json](./296534-jinni-haunted-house.json) |
 | Jinro Burger | 402449 | [402449-jinro-burger.json](./402449-jinro-burger.json) |
 | Jinro Metropolis | 325996 | [325996-jinro-metropolis.json](./325996-jinro-metropolis.json) |
 | Jinrou Game | 296100 | [296100-jinrou-game.json](./296100-jinrou-game.json) |
