@@ -8428,6 +8428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: Louisiana | 348973 | [348973-american-truck-simulator-louisiana.json](./348973-american-truck-simulator-louisiana.json) |
 | American Truck Simulator: Mack Anthem | 288630 | [288630-american-truck-simulator-mack-anthem.json](./288630-american-truck-simulator-mack-anthem.json) |
 | American Truck Simulator: Mack Pinnacle | 353408 | [353408-american-truck-simulator-mack-pinnacle.json](./353408-american-truck-simulator-mack-pinnacle.json) |
+| American Truck Simulator: Michelin Fan Pack | 279983 | [279983-american-truck-simulator-michelin-fan-pack.json](./279983-american-truck-simulator-michelin-fan-pack.json) |
 | American Truck Simulator: Missouri | 281308 | [281308-american-truck-simulator-missouri.json](./281308-american-truck-simulator-missouri.json) |
 | American Truck Simulator: Montana | 195585 | [195585-american-truck-simulator-montana.json](./195585-american-truck-simulator-montana.json) |
 | American Truck Simulator: Nebraska | 261149 | [261149-american-truck-simulator-nebraska.json](./261149-american-truck-simulator-nebraska.json) |
@@ -14258,6 +14259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArtilleRoyalty | 374681 | [374681-artilleroyalty.json](./374681-artilleroyalty.json) |
 | Artillery | 93527 | [93527-artillery.json](./93527-artillery.json) |
 | ARtillery | 380794 | [380794-artillery.json](./380794-artillery.json) |
+| Artillery Blast | 279985 | [279985-artillery-blast.json](./279985-artillery-blast.json) |
 | Artillery Cats | 102926 | [102926-artillery-cats.json](./102926-artillery-cats.json) |
 | Artillery Duel | 12241 | [12241-artillery-duel.json](./12241-artillery-duel.json) |
 | Artillery Globe | 112696 | [112696-artillery-globe.json](./112696-artillery-globe.json) |
@@ -16253,7 +16255,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
