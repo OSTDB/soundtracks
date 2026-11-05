@@ -7090,6 +7090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chikyuu Bouei Shoujo Iko-chan: UFO Daisakusen | 58781 | [58781-chikyuu-bouei-shoujo-iko-chan-ufo-daisakusen.json](./58781-chikyuu-bouei-shoujo-iko-chan-ufo-daisakusen.json) |
 | Chikyuu Kaihou Gun ZAS | 91883 | [91883-chikyuu-kaihou-gun-zas.json](./91883-chikyuu-kaihou-gun-zas.json) |
 | Chikyuu no Arukikata DS: Shanghai, Hangzhou, Suzhou '07-'08 | 269750 | [269750-chikyuu-no-arukikata-ds-shanghai-hangzhou-suzhou-07-08.json](./269750-chikyuu-no-arukikata-ds-shanghai-hangzhou-suzhou-07-08.json) |
+| Chikyuu no Fushigi Naaze Naaze? | 278204 | [278204-chikyuu-no-fushigi-naaze-naaze.json](./278204-chikyuu-no-fushigi-naaze-naaze.json) |
 | Chikyuu Senshi Rayieza | 62614 | [62614-chikyuu-senshi-rayieza.json](./62614-chikyuu-senshi-rayieza.json) |
 | CHiLD | 70908 | [70908-child.json](./70908-child.json) |
 | Child Arms | 157053 | [157053-child-arms.json](./157053-child-arms.json) |
