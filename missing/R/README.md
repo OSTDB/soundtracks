@@ -9497,6 +9497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman 2015 New Year's Hack | 269890 | [269890-rockman-2015-new-years-hack.json](./269890-rockman-2015-new-years-hack.json) |
 | Rockman 2018 New Year's Hack | 269891 | [269891-rockman-2018-new-years-hack.json](./269891-rockman-2018-new-years-hack.json) |
 | Rockman 2019 New Year's Hack | 269892 | [269892-rockman-2019-new-years-hack.json](./269892-rockman-2019-new-years-hack.json) |
+| Rockman 20XX: Tatakae! Team Shachi | 259938 | [259938-rockman-20xx-tatakae-team-shachi.json](./259938-rockman-20xx-tatakae-team-shachi.json) |
 | Rockman 3: Burst Chaser | 304132 | [304132-rockman-3-burst-chaser.json](./304132-rockman-3-burst-chaser.json) |
 | Rockman 3: Claw | 269880 | [269880-rockman-3-claw.json](./269880-rockman-3-claw.json) |
 | Rockman 3: The Last of Mushroom Kingdom?! | 245360 | [245360-rockman-3-the-last-of-mushroom-kingdom.json](./245360-rockman-3-the-last-of-mushroom-kingdom.json) |
@@ -11403,6 +11404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Escape | 71203 | [71203-royal-escape.json](./71203-royal-escape.json) |
 | Royal Farm | 254750 | [254750-royal-farm.json](./254750-royal-farm.json) |
 | Royal Flush | 79182 | [79182-royal-flush.json](./79182-royal-flush.json) |
+| Royal Flush: Princess Sidestory | 259929 | [259929-royal-flush-princess-sidestory.json](./259929-royal-flush-princess-sidestory.json) |
 | Royal Flux: The Astral Shadow Plague | 413138 | [413138-royal-flux-the-astral-shadow-plague.json](./413138-royal-flux-the-astral-shadow-plague.json) |
 | Royal Frontier | 193668 | [193668-royal-frontier.json](./193668-royal-frontier.json) |
 | Royal Game of Ur | 101201 | [101201-royal-game-of-ur.json](./101201-royal-game-of-ur.json) |
