@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda - Octavo's Ode | 235330 | [235330-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-octavos-ode.json](./235330-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-octavos-ode.json) |
 | Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda - Season Pass | 141742 | [141742-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-season-pass.json](./141742-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-season-pass.json) |
 | Cadentia Farnese | 381955 | [381955-cadentia-farnese.json](./381955-cadentia-farnese.json) |
+| Cadenza: Fame, Theft and Murder - Collector's Edition | 281786 | [281786-cadenza-fame-theft-and-murder-collectors-edition.json](./281786-cadenza-fame-theft-and-murder-collectors-edition.json) |
 | Cadenza: Havana Nights | 188030 | [188030-cadenza-havana-nights.json](./188030-cadenza-havana-nights.json) |
 | Cadenza: Havana Nights - Collector's Edition | 381375 | [381375-cadenza-havana-nights-collectors-edition.json](./381375-cadenza-havana-nights-collectors-edition.json) |
 | Cadenza: Music, Betrayal and Death | 140305 | [140305-cadenza-music-betrayal-and-death.json](./140305-cadenza-music-betrayal-and-death.json) |
@@ -2253,6 +2254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carbon Warfare | 106128 | [106128-carbon-warfare.json](./106128-carbon-warfare.json) |
 | Carbonflesh | 224641 | [224641-carbonflesh.json](./224641-carbonflesh.json) |
 | Carbox | 317997 | [317997-carbox.json](./317997-carbox.json) |
+| Carbrix | 281810 | [281810-carbrix.json](./281810-carbrix.json) |
 | Carbuncle Pi | 400985 | [400985-carbuncle-pi.json](./400985-carbuncle-pi.json) |
 | CarCam | 373493 | [373493-carcam.json](./373493-carcam.json) |
 | Carcará: Asas da Justiça | 133857 | [133857-carcara-asas-da-justica.json](./133857-carcara-asas-da-justica.json) |
@@ -11438,6 +11440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collector's Cove | 298696 | [298696-collectors-cove.json](./298696-collectors-cove.json) |
 | Collector's Cove: Supporter Edition | 393064 | [393064-collectors-cove-supporter-edition.json](./393064-collectors-cove-supporter-edition.json) |
 | Collector's Cove: Supporter Pack | 393063 | [393063-collectors-cove-supporter-pack.json](./393063-collectors-cove-supporter-pack.json) |
+| Collector's Edition: 007 Racing / Medal of Honor / Tomorrow Never Dies | 281794 | [281794-collectors-edition-007-racing-medal-of-honor-tomorrow-never-dies.json](./281794-collectors-edition-007-racing-medal-of-honor-tomorrow-never-dies.json) |
 | Collector's Edition: 101 Incredible Games! | 205799 | [205799-collectors-edition-101-incredible-games.json](./205799-collectors-edition-101-incredible-games.json) |
 | Collector's Edition: 251 Awesome Games! | 110319 | [110319-collectors-edition-251-awesome-games.json](./110319-collectors-edition-251-awesome-games.json) |
 | College Baseball: Dynasty Builder | 363421 | [363421-college-baseball-dynasty-builder.json](./363421-college-baseball-dynasty-builder.json) |
