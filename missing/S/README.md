@@ -7191,6 +7191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Escape | 90362 | [90362-shape-escape.json](./90362-shape-escape.json) |
 | Shape Fold Animals | 101926 | [101926-shape-fold-animals.json](./101926-shape-fold-animals.json) |
 | Shape Garden | 240834 | [240834-shape-garden.json](./240834-shape-garden.json) |
+| Shape Hunter | 267138 | [267138-shape-hunter.json](./267138-shape-hunter.json) |
 | Shape Invasion | 317445 | [317445-shape-invasion.json](./317445-shape-invasion.json) |
 | Shape of Clouds | 279115 | [279115-shape-of-clouds.json](./279115-shape-of-clouds.json) |
 | Shape of Dreams | 293572 | [293572-shape-of-dreams.json](./293572-shape-of-dreams.json) |
@@ -9999,7 +10000,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sift Heads Cartels Act 3 | 393396 | [393396-sift-heads-cartels-act-3.json](./393396-sift-heads-cartels-act-3.json) |
 | Sift Heads Reborn | 191898 | [191898-sift-heads-reborn.json](./191898-sift-heads-reborn.json) |
 | Sift Heads World: Act 1 - Deadly Newcomer | 191902 | [191902-sift-heads-world-act-1-deadly-newcomer.json](./191902-sift-heads-world-act-1-deadly-newcomer.json) |
+| Sift Heads World: Act 2 - The Treacherous Return | 267159 | [267159-sift-heads-world-act-2-the-treacherous-return.json](./267159-sift-heads-world-act-2-the-treacherous-return.json) |
 | Sift Heads World: Act 3 - Alonzo's Reinforcement | 229949 | [229949-sift-heads-world-act-3-alonzos-reinforcement.json](./229949-sift-heads-world-act-3-alonzos-reinforcement.json) |
+| Sift Heads World: Act 4 - Cold Memories | 267170 | [267170-sift-heads-world-act-4-cold-memories.json](./267170-sift-heads-world-act-4-cold-memories.json) |
+| Sift Heads World: Act 5 - An Exotic Job | 267180 | [267180-sift-heads-world-act-5-an-exotic-job.json](./267180-sift-heads-world-act-5-an-exotic-job.json) |
+| Sift Heads World: Act 6 - Illicit Association | 267183 | [267183-sift-heads-world-act-6-illicit-association.json](./267183-sift-heads-world-act-6-illicit-association.json) |
+| Sift Heads World: The Ultimatum | 267192 | [267192-sift-heads-world-the-ultimatum.json](./267192-sift-heads-world-the-ultimatum.json) |
 | Sift Heads: Cartels 4 | 414489 | [414489-sift-heads-cartels-4.json](./414489-sift-heads-cartels-4.json) |
 | Sift Heads: Legendary Pack | 311993 | [311993-sift-heads-legendary-pack.json](./311993-sift-heads-legendary-pack.json) |
 | Sift Heads: The Hidden Chapter | 393355 | [393355-sift-heads-the-hidden-chapter.json](./393355-sift-heads-the-hidden-chapter.json) |
@@ -10491,6 +10497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Malfeasant | 345001 | [345001-silver-malfeasant.json](./345001-silver-malfeasant.json) |
 | Silver Millennium | 40251 | [40251-silver-millennium.json](./40251-silver-millennium.json) |
 | Silver Moon | 371952 | [371952-silver-moon.json](./371952-silver-moon.json) |
+| Silver Moonlight | 267133 | [267133-silver-moonlight.json](./267133-silver-moonlight.json) |
 | Silver Nights: Browser edition | 184327 | [184327-silver-nights-browser-edition.json](./184327-silver-nights-browser-edition.json) |
 | Silver Nornir | 68990 | [68990-silver-nornir.json](./68990-silver-nornir.json) |
 | Silver Palace | 343335 | [343335-silver-palace.json](./343335-silver-palace.json) |
@@ -13601,6 +13608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slipways | 176372 | [176372-slipways.json](./176372-slipways.json) |
 | Slit Mouthed | 192654 | [192654-slit-mouthed.json](./192654-slit-mouthed.json) |
 | Slit Your Wrists! | 234729 | [234729-slit-your-wrists.json](./234729-slit-your-wrists.json) |
+| Slith | 267189 | [267189-slith.json](./267189-slith.json) |
 | Slither | 18780 | [18780-slither.json](./18780-slither.json) |
 | Slither Dash | 97097 | [97097-slither-dash.json](./97097-slither-dash.json) |
 | Slither Link | 37484 | [37484-slither-link.json](./37484-slither-link.json) |
@@ -19242,6 +19250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
