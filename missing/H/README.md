@@ -2824,6 +2824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Havoc | 219238 | [219238-havoc.json](./219238-havoc.json) |
 | Havoc Fox | 215099 | [215099-havoc-fox.json](./215099-havoc-fox.json) |
 | Havoc Heirs | 399993 | [399993-havoc-heirs.json](./399993-havoc-heirs.json) |
+| Havoc in Creation | 257141 | [257141-havoc-in-creation.json](./257141-havoc-in-creation.json) |
 | Havoc in heaven | 96120 | [96120-havoc-in-heaven.json](./96120-havoc-in-heaven.json) |
 | Havoc Monkeys | 327875 | [327875-havoc-monkeys.json](./327875-havoc-monkeys.json) |
 | Havoc Runner | 148557 | [148557-havoc-runner.json](./148557-havoc-runner.json) |
@@ -7420,6 +7421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School Girl Life Sim 3D | 297504 | [297504-high-school-girl-life-sim-3d.json](./297504-high-school-girl-life-sim-3d.json) |
 | High School Girl Life Simulator | 102757 | [102757-high-school-girl-life-simulator.json](./102757-high-school-girl-life-simulator.json) |
 | High School Girl Simulator 3D | 299905 | [299905-high-school-girl-simulator-3d.json](./299905-high-school-girl-simulator-3d.json) |
+| High School Girls Detective: Escape from the Murder Time Loop | 257143 | [257143-high-school-girls-detective-escape-from-the-murder-time-loop.json](./257143-high-school-girls-detective-escape-from-the-murder-time-loop.json) |
 | High School Hills: Dreams & Nightmares | 277135 | [277135-high-school-hills-dreams-and-nightmares.json](./277135-high-school-hills-dreams-and-nightmares.json) |
 | High School Hook Ups | 239469 | [239469-high-school-hook-ups.json](./239469-high-school-hook-ups.json) |
 | High School Kimengumi | 41738 | [41738-high-school-kimengumi.json](./41738-high-school-kimengumi.json) |
