@@ -755,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare Remastered - Variety Map Pack | 168155 | [168155-call-of-duty-modern-warfare-remastered-variety-map-pack.json](./168155-call-of-duty-modern-warfare-remastered-variety-map-pack.json) |
 | Call of Duty: Modern Warfare Trilogy | 42975 | [42975-call-of-duty-modern-warfare-trilogy.json](./42975-call-of-duty-modern-warfare-trilogy.json) |
 | Call of Duty: Roads to Victory | 3120 | [3120-call-of-duty-roads-to-victory.json](./3120-call-of-duty-roads-to-victory.json) |
+| Call of Duty: Roman Wars | 274292 | [274292-call-of-duty-roman-wars.json](./274292-call-of-duty-roman-wars.json) |
 | Call of Duty: Siege | 296822 | [296822-call-of-duty-siege.json](./296822-call-of-duty-siege.json) |
 | Call of Duty: Spain at War | 339954 | [339954-call-of-duty-spain-at-war.json](./339954-call-of-duty-spain-at-war.json) |
 | Call of Duty: Strike Team | 41513 | [41513-call-of-duty-strike-team.json](./41513-call-of-duty-strike-team.json) |
@@ -775,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: World at War | 343822 | [343822-call-of-duty-world-at-war.json](./343822-call-of-duty-world-at-war.json) |
 | Call of Duty: World at War - Spain at War | 341656 | [341656-call-of-duty-world-at-war-spain-at-war.json](./341656-call-of-duty-world-at-war-spain-at-war.json) |
 | Call of Duty: World at War - Zombies | 89115 | [89115-call-of-duty-world-at-war-zombies.json](./89115-call-of-duty-world-at-war-zombies.json) |
+| Call of Duty: World at War - Zombies II | 274288 | [274288-call-of-duty-world-at-war-zombies-ii.json](./274288-call-of-duty-world-at-war-zombies-ii.json) |
 | Call of Duty: World at War Map Pack 1 | 273268 | [273268-call-of-duty-world-at-war-map-pack-1.json](./273268-call-of-duty-world-at-war-map-pack-1.json) |
 | Call of Duty: World at War Map Pack 2 | 273857 | [273857-call-of-duty-world-at-war-map-pack-2.json](./273857-call-of-duty-world-at-war-map-pack-2.json) |
 | Call of Duty: World at War Map Pack 3 | 273858 | [273858-call-of-duty-world-at-war-map-pack-3.json](./273858-call-of-duty-world-at-war-map-pack-3.json) |
@@ -3435,6 +3437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Flipper | 111425 | [111425-castle-flipper.json](./111425-castle-flipper.json) |
 | Castle Formers | 154026 | [154026-castle-formers.json](./154026-castle-formers.json) |
 | Castle Frankenstein | 391290 | [391290-castle-frankenstein.json](./391290-castle-frankenstein.json) |
+| Castle Golgotha | 274268 | [274268-castle-golgotha.json](./274268-castle-golgotha.json) |
 | Castle Grimholt | 142252 | [142252-castle-grimholt.json](./142252-castle-grimholt.json) |
 | Castle Guard | 42152 | [42152-castle-guard.json](./42152-castle-guard.json) |
 | Castle Guard: Tower Defence | 212637 | [212637-castle-guard-tower-defence.json](./212637-castle-guard-tower-defence.json) |
@@ -6645,6 +6648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Puzzles: 100 by Emma | 163412 | [163412-chess-puzzles-100-by-emma.json](./163412-chess-puzzles-100-by-emma.json) |
 | Chess Puzzles: 100 by Liam | 163414 | [163414-chess-puzzles-100-by-liam.json](./163414-chess-puzzles-100-by-liam.json) |
 | Chess Puzzles: 100 by Tyrone | 163413 | [163413-chess-puzzles-100-by-tyrone.json](./163413-chess-puzzles-100-by-tyrone.json) |
+| Chess Quarto | 274287 | [274287-chess-quarto.json](./274287-chess-quarto.json) |
 | Chess Quest: A Cozy Puzzle | 394428 | [394428-chess-quest-a-cozy-puzzle.json](./394428-chess-quest-a-cozy-puzzle.json) |
 | Chess Quest: From Pawn to Master | 356962 | [356962-chess-quest-from-pawn-to-master.json](./356962-chess-quest-from-pawn-to-master.json) |
 | Chess Remix | 259293 | [259293-chess-remix.json](./259293-chess-remix.json) |
