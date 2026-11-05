@@ -4593,6 +4593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats With Standards | 374409 | [374409-cats-with-standards.json](./374409-cats-with-standards.json) |
 | Cats Yakuza | 211961 | [211961-cats-yakuza.json](./211961-cats-yakuza.json) |
 | Cats-Shaped | 311608 | [311608-cats-shaped.json](./311608-cats-shaped.json) |
+| Cats, Coffee, and Love | 279421 | [279421-cats-coffee-and-love.json](./279421-cats-coffee-and-love.json) |
 | Cats: Classic Onet Connect - Expansion Pack | 170687 | [170687-cats-classic-onet-connect-expansion-pack.json](./170687-cats-classic-onet-connect-expansion-pack.json) |
 | Cats! | 191548 | [191548-cats.json](./191548-cats.json) |
 | Cats! | 34772 | [34772-cats.json](./34772-cats.json) |
@@ -12353,6 +12354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combo Bombo | 245982 | [245982-combo-bombo.json](./245982-combo-bombo.json) |
 | Combo Critters | 381060 | [381060-combo-critters.json](./381060-combo-critters.json) |
 | Combo Critters: Battle Checkers | 346263 | [346263-combo-critters-battle-checkers.json](./346263-combo-critters-battle-checkers.json) |
+| Combo Devils | 279373 | [279373-combo-devils.json](./279373-combo-devils.json) |
 | Combo Fishing | 340206 | [340206-combo-fishing.json](./340206-combo-fishing.json) |
 | Combo Haven | 287212 | [287212-combo-haven.json](./287212-combo-haven.json) |
 | Combo Jumper | 110930 | [110930-combo-jumper.json](./110930-combo-jumper.json) |
@@ -16901,6 +16903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Secrets: Crimson Lily | 32930 | [32930-crime-secrets-crimson-lily.json](./32930-crime-secrets-crimson-lily.json) |
 | Crime Shadows: Stolen Spotlight | 416488 | [416488-crime-shadows-stolen-spotlight.json](./416488-crime-shadows-stolen-spotlight.json) |
 | Crime Shadows: Stolen Spotlight - Collector's Edition | 416616 | [416616-crime-shadows-stolen-spotlight-collectors-edition.json](./416616-crime-shadows-stolen-spotlight-collectors-edition.json) |
+| Crime Shop Simulator | 279382 | [279382-crime-shop-simulator.json](./279382-crime-shop-simulator.json) |
 | Crime Simulator | 301426 | [301426-crime-simulator.json](./301426-crime-simulator.json) |
 | Crime Simulator: Ashen Creek DLC | 404705 | [404705-crime-simulator-ashen-creek-dlc.json](./404705-crime-simulator-ashen-creek-dlc.json) |
 | Crime Simulator: Playgrounds | 415075 | [415075-crime-simulator-playgrounds.json](./415075-crime-simulator-playgrounds.json) |
