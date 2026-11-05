@@ -3131,6 +3131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onto Maizilind Unto Infinity | 372176 | [372176-onto-maizilind-unto-infinity.json](./372176-onto-maizilind-unto-infinity.json) |
 | Onto Maizilind Unto Infinity: Act I - Destruction's Wake | 252536 | [252536-onto-maizilind-unto-infinity-act-i-destructions-wake.json](./252536-onto-maizilind-unto-infinity-act-i-destructions-wake.json) |
 | Ontos | 381219 | [381219-ontos.json](./381219-ontos.json) |
+| Ontotis | 258776 | [258776-ontotis.json](./258776-ontotis.json) |
 | Ontranto | 277955 | [277955-ontranto.json](./277955-ontranto.json) |
 | Onward and Upward! DX | 279852 | [279852-onward-and-upward-dx.json](./279852-onward-and-upward-dx.json) |
 | Onward to walls! | 176268 | [176268-onward-to-walls.json](./176268-onward-to-walls.json) |
