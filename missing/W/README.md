@@ -1060,6 +1060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Thunder: Two Fronts Bundle | 331505 | [331505-war-thunder-two-fronts-bundle.json](./331505-war-thunder-two-fronts-bundle.json) |
 | War Thunder: Type 90B "Fuji" Pack | 332080 | [332080-war-thunder-type-90b-fuji-pack.json](./332080-war-thunder-type-90b-fuji-pack.json) |
 | War Thunder: Type 96A Prototype Pack | 332055 | [332055-war-thunder-type-96a-prototype-pack.json](./332055-war-thunder-type-96a-prototype-pack.json) |
+| War Thunder: USS Arkansas Pack | 284692 | [284692-war-thunder-uss-arkansas-pack.json](./284692-war-thunder-uss-arkansas-pack.json) |
 | War Thunder: Wyvern Pack | 336937 | [336937-war-thunder-wyvern-pack.json](./336937-war-thunder-wyvern-pack.json) |
 | War Times | 77376 | [77376-war-times.json](./77376-war-times.json) |
 | War to the Core | 249815 | [249815-war-to-the-core.json](./249815-war-to-the-core.json) |
