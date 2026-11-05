@@ -948,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -11943,6 +11944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boingus' Big Day | 411981 | [411981-boingus-big-day.json](./411981-boingus-big-day.json) |
 | Boingz | 51082 | [51082-boingz.json](./51082-boingz.json) |
 | Boinihi: The Ki Codex | 172188 | [172188-boinihi-the-ki-codex.json](./172188-boinihi-the-ki-codex.json) |
+| Boink | 292275 | [292275-boink.json](./292275-boink.json) |
 | Boink Zoink Hoink | 90100 | [90100-boink-zoink-hoink.json](./90100-boink-zoink-hoink.json) |
 | Boitatá: Wilderness Reborn | 415179 | [415179-boitata-wilderness-reborn.json](./415179-boitata-wilderness-reborn.json) |
 | Bojan | 406672 | [406672-bojan.json](./406672-bojan.json) |
