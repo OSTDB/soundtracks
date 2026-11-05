@@ -4854,6 +4854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Fuel | 257358 | [257358-out-of-fuel.json](./257358-out-of-fuel.json) |
 | Out of Galaxy: Gin no Koushika | 408871 | [408871-out-of-galaxy-gin-no-koushika.json](./408871-out-of-galaxy-gin-no-koushika.json) |
 | Out of Gas | 171254 | [171254-out-of-gas.json](./171254-out-of-gas.json) |
+| Out of Gas | 274254 | [274254-out-of-gas.json](./274254-out-of-gas.json) |
 | Out of Gas | 288325 | [288325-out-of-gas.json](./288325-out-of-gas.json) |
 | Out of Gas | 49050 | [49050-out-of-gas.json](./49050-out-of-gas.json) |
 | Out of Hand | 260055 | [260055-out-of-hand.json](./260055-out-of-hand.json) |
@@ -5374,6 +5375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over Paradise Isolated | 350970 | [350970-over-paradise-isolated.json](./350970-over-paradise-isolated.json) |
 | Over Requiemz | 274885 | [274885-over-requiemz.json](./274885-over-requiemz.json) |
 | Over Rev | 39449 | [39449-over-rev.json](./39449-over-rev.json) |
+| Over Ridden | 274264 | [274264-over-ridden.json](./274264-over-ridden.json) |
 | Over Road | 341530 | [341530-over-road.json](./341530-over-road.json) |
 | Over Run | 134901 | [134901-over-run.json](./134901-over-run.json) |
 | Over Sand | 402485 | [402485-over-sand.json](./402485-over-sand.json) |
@@ -5540,6 +5542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overload Playable Teaser | 90591 | [90591-overload-playable-teaser.json](./90591-overload-playable-teaser.json) |
 | Overload: Anniversary Level Pack | 238864 | [238864-overload-anniversary-level-pack.json](./238864-overload-anniversary-level-pack.json) |
 | Overload: Community Level Pack | 238863 | [238863-overload-community-level-pack.json](./238863-overload-community-level-pack.json) |
+| Overload: First Strike | 274242 | [274242-overload-first-strike.json](./274242-overload-first-strike.json) |
 | Overlode | 260258 | [260258-overlode.json](./260258-overlode.json) |
 | Overlook | 195941 | [195941-overlook.json](./195941-overlook.json) |
 | Overlook Trail | 93732 | [93732-overlook-trail.json](./93732-overlook-trail.json) |
