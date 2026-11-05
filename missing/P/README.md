@@ -754,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paintball Madness | 356204 | [356204-paintball-madness.json](./356204-paintball-madness.json) |
 | Paintball NET | 125951 | [125951-paintball-net.json](./125951-paintball-net.json) |
 | Paintball Playground | 295743 | [295743-paintball-playground.json](./295743-paintball-playground.json) |
+| Paintball Racers | 251306 | [251306-paintball-racers.json](./251306-paintball-racers.json) |
 | Paintball War | 93965 | [93965-paintball-war.json](./93965-paintball-war.json) |
 | PaintBall War 2 | 154464 | [154464-paintball-war-2.json](./154464-paintball-war-2.json) |
 | Paintball with Friends | 195940 | [195940-paintball-with-friends.json](./195940-paintball-with-friends.json) |
@@ -4844,6 +4845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter Jacobsen's Golden Tee Golf | 43776 | [43776-peter-jacobsens-golden-tee-golf.json](./43776-peter-jacobsens-golden-tee-golf.json) |
 | Peter Pack Rat | 39379 | [39379-peter-pack-rat.json](./39379-peter-pack-rat.json) |
 | Peter Padder Pauleypop | 181167 | [181167-peter-padder-pauleypop.json](./181167-peter-padder-pauleypop.json) |
+| Peter Pan | 251310 | [251310-peter-pan.json](./251310-peter-pan.json) |
 | Peter Pan | 95405 | [95405-peter-pan.json](./95405-peter-pan.json) |
 | Peter Pan in Disney's Return to Never Land | 44877 | [44877-peter-pan-in-disneys-return-to-never-land.json](./44877-peter-pan-in-disneys-return-to-never-land.json) |
 | Peter Pan: A Story Painting Adventure | 327871 | [327871-peter-pan-a-story-painting-adventure.json](./327871-peter-pan-a-story-painting-adventure.json) |
@@ -8673,6 +8675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixReveal | 416604 | [416604-pixreveal.json](./416604-pixreveal.json) |
 | Pixross | 142195 | [142195-pixross.json](./142195-pixross.json) |
 | Pixsaw | 279112 | [279112-pixsaw.json](./279112-pixsaw.json) |
+| Pixsteps: Gamified Pedometer | 251338 | [251338-pixsteps-gamified-pedometer.json](./251338-pixsteps-gamified-pedometer.json) |
 | Pixtalgia | 242018 | [242018-pixtalgia.json](./242018-pixtalgia.json) |
 | Pixtights | 97286 | [97286-pixtights.json](./97286-pixtights.json) |
 | Pixture | 97994 | [97994-pixture.json](./97994-pixture.json) |
@@ -11462,6 +11465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Legends: Omaha Champions | 232560 | [232560-poker-legends-omaha-champions.json](./232560-poker-legends-omaha-champions.json) |
 | Poker Loafer | 369321 | [369321-poker-loafer.json](./369321-poker-loafer.json) |
 | Poker Master | 167586 | [167586-poker-master.json](./167586-poker-master.json) |
+| Poker Masters | 251291 | [251291-poker-masters.json](./251291-poker-masters.json) |
 | Poker Matrix | 409605 | [409605-poker-matrix.json](./409605-poker-matrix.json) |
 | Poker Mega Pack | 118884 | [118884-poker-mega-pack.json](./118884-poker-mega-pack.json) |
 | Poker Memory | 150441 | [150441-poker-memory.json](./150441-poker-memory.json) |
@@ -11615,6 +11619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polaretti | 242396 | [242396-polaretti.json](./242396-polaretti.json) |
 | Polaria | 374601 | [374601-polaria.json](./374601-polaria.json) |
 | Polariball | 356205 | [356205-polariball.json](./356205-polariball.json) |
+| Polaris | 251308 | [251308-polaris.json](./251308-polaris.json) |
 | Polaris | 380125 | [380125-polaris.json](./380125-polaris.json) |
 | Polaris Chord | 263343 | [263343-polaris-chord.json](./263343-polaris-chord.json) |
 | Polaris Outpost | 226991 | [226991-polaris-outpost.json](./226991-polaris-outpost.json) |
