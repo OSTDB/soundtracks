@@ -2987,6 +2987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genome Guardian 2 | 390598 | [390598-genome-guardian-2.json](./390598-genome-guardian-2.json) |
 | Genomon: Genetic Monsters | 142842 | [142842-genomon-genetic-monsters.json](./142842-genomon-genetic-monsters.json) |
 | Genopanic | 204193 | [204193-genopanic.json](./204193-genopanic.json) |
+| Genotype | 253166 | [253166-genotype.json](./253166-genotype.json) |
 | Genpei Kassen | 183870 | [183870-genpei-kassen.json](./183870-genpei-kassen.json) |
 | Genpei Ryouran Emaki: Gikei | 180958 | [180958-genpei-ryouran-emaki-gikei.json](./180958-genpei-ryouran-emaki-gikei.json) |
 | Genre Hopper | 182532 | [182532-genre-hopper.json](./182532-genre-hopper.json) |
