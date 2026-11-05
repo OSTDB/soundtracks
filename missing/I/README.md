@@ -5773,6 +5773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Roads | 226474 | [226474-iron-roads.json](./226474-iron-roads.json) |
 | Iron Roses | 16063 | [16063-iron-roses.json](./16063-iron-roses.json) |
 | Iron Ruler | 208827 | [208827-iron-ruler.json](./208827-iron-ruler.json) |
+| Iron Runner Robot | 251332 | [251332-iron-runner-robot.json](./251332-iron-runner-robot.json) |
 | Iron Saga VS | 273641 | [273641-iron-saga-vs.json](./273641-iron-saga-vs.json) |
 | Iron Sea Defenders | 33816 | [33816-iron-sea-defenders.json](./33816-iron-sea-defenders.json) |
 | Iron Sea Frontier Defenders TD | 89015 | [89015-iron-sea-frontier-defenders-td.json](./89015-iron-sea-frontier-defenders-td.json) |
