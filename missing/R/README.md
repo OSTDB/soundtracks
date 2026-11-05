@@ -888,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raging Thunder II | 66448 | [66448-raging-thunder-ii.json](./66448-raging-thunder-ii.json) |
 | RagingFist | 181012 | [181012-ragingfist.json](./181012-ragingfist.json) |
 | Ragmonton | 238601 | [238601-ragmonton.json](./238601-ragmonton.json) |
+| Ragmonton Endless For Save Indie Game | 291272 | [291272-ragmonton-endless-for-save-indie-game.json](./291272-ragmonton-endless-for-save-indie-game.json) |
 | Ragna-Block | 97984 | [97984-ragna-block.json](./97984-ragna-block.json) |
 | RagnaCook: Co-op Viking Kitchen | 391544 | [391544-ragnacook-co-op-viking-kitchen.json](./391544-ragnacook-co-op-viking-kitchen.json) |
 | Ragnagard | 40201 | [40201-ragnagard.json](./40201-ragnagard.json) |
@@ -4440,6 +4441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regenisis Arcade | 55537 | [55537-regenisis-arcade.json](./55537-regenisis-arcade.json) |
 | Regenti Rebelia | 330071 | [330071-regenti-rebelia.json](./330071-regenti-rebelia.json) |
 | Regeria Hope Episode 1 | 33403 | [33403-regeria-hope-episode-1.json](./33403-regeria-hope-episode-1.json) |
+| Reggie, His Cousin, Two Scientists and Most Likely the End of the World | 291276 | [291276-reggie-his-cousin-two-scientists-and-most-likely-the-end-of-the-world.json](./291276-reggie-his-cousin-two-scientists-and-most-likely-the-end-of-the-world.json) |
 | Reggie's Adventures: Part 1 - Escape From Paradise | 230502 | [230502-reggies-adventures-part-1-escape-from-paradise.json](./230502-reggies-adventures-part-1-escape-from-paradise.json) |
 | Reggor F. | 361722 | [361722-reggor-f.json](./361722-reggor-f.json) |
 | RegicideX | 265579 | [265579-regicidex.json](./265579-regicidex.json) |
@@ -9788,6 +9790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Factory | 317996 | [317996-rogue-factory.json](./317996-rogue-factory.json) |
 | Rogue Fantasy: Ever-Shifting Worlds | 400385 | [400385-rogue-fantasy-ever-shifting-worlds.json](./400385-rogue-fantasy-ever-shifting-worlds.json) |
 | Rogue Fighter | 32100 | [32100-rogue-fighter.json](./32100-rogue-fighter.json) |
+| Rogue Fist | 291267 | [291267-rogue-fist.json](./291267-rogue-fist.json) |
 | Rogue Flight | 318086 | [318086-rogue-flight.json](./318086-rogue-flight.json) |
 | Rogue Fortune | 415285 | [415285-rogue-fortune.json](./415285-rogue-fortune.json) |
 | Rogue Frontiers | 130099 | [130099-rogue-frontiers.json](./130099-rogue-frontiers.json) |
