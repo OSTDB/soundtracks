@@ -1353,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoids | 26301 | [26301-zoids.json](./26301-zoids.json) |
 | Zoids 2: Herikku Kyouwakoku vs. Gairosu Teikoku | 241430 | [241430-zoids-2-herikku-kyouwakoku-vs-gairosu-teikoku.json](./241430-zoids-2-herikku-kyouwakoku-vs-gairosu-teikoku.json) |
 | Zoids 2: Zenebasu no Gyakushuu | 48594 | [48594-zoids-2-zenebasu-no-gyakushuu.json](./48594-zoids-2-zenebasu-no-gyakushuu.json) |
+| Zoids Battle Card Game: Seihou Tairiku Senki | 250098 | [250098-zoids-battle-card-game-seihou-tairiku-senki.json](./250098-zoids-battle-card-game-seihou-tairiku-senki.json) |
 | Zoids Battle Colosseum | 122250 | [122250-zoids-battle-colosseum.json](./122250-zoids-battle-colosseum.json) |
 | Zoids Dash | 122249 | [122249-zoids-dash.json](./122249-zoids-dash.json) |
 | Zoids Densetsu | 49132 | [49132-zoids-densetsu.json](./49132-zoids-densetsu.json) |
