@@ -10150,6 +10150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Voyage | 109363 | [109363-the-great-voyage.json](./109363-the-great-voyage.json) |
 | The Great Waldo Search | 275020 | [275020-the-great-waldo-search.json](./275020-the-great-waldo-search.json) |
 | The Great Waldo Search | 48158 | [48158-the-great-waldo-search.json](./48158-the-great-waldo-search.json) |
+| The Great Wall | 262134 | [262134-the-great-wall.json](./262134-the-great-wall.json) |
 | The Great War 3032 | 247368 | [247368-the-great-war-3032.json](./247368-the-great-war-3032.json) |
 | The Great War of Jorth | 187643 | [187643-the-great-war-of-jorth.json](./187643-the-great-war-of-jorth.json) |
 | The Great War of Prefectures | 254348 | [254348-the-great-war-of-prefectures.json](./254348-the-great-war-of-prefectures.json) |
@@ -25028,6 +25029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top PUA | 247424 | [247424-top-pua.json](./247424-top-pua.json) |
 | Top Punch | 97203 | [97203-top-punch.json](./97203-top-punch.json) |
 | Top Race | 236832 | [236832-top-race.json](./236832-top-race.json) |
+| Top Racer: Crossroads | 262047 | [262047-top-racer-crossroads.json](./262047-top-racer-crossroads.json) |
 | Top Rider | 64284 | [64284-top-rider.json](./64284-top-rider.json) |
 | Top Roller | 93399 | [93399-top-roller.json](./93399-top-roller.json) |
 | Top Run | 129126 | [129126-top-run.json](./129126-top-run.json) |
