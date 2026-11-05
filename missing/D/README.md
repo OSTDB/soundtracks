@@ -5732,6 +5732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defy Gravity | 8678 | [8678-defy-gravity.json](./8678-defy-gravity.json) |
 | Defy Gravity Extended | 16242 | [16242-defy-gravity-extended.json](./16242-defy-gravity-extended.json) |
 | Defy the Abyss | 419592 | [419592-defy-the-abyss.json](./419592-defy-the-abyss.json) |
+| Defy the Omphalos | 259370 | [259370-defy-the-omphalos.json](./259370-defy-the-omphalos.json) |
 | Defying Fate | 205233 | [205233-defying-fate.json](./205233-defying-fate.json) |
 | Defying Heaven's Will | 183050 | [183050-defying-heavens-will.json](./183050-defying-heavens-will.json) |
 | Defying the Shadows | 333457 | [333457-defying-the-shadows.json](./333457-defying-the-shadows.json) |
@@ -10865,6 +10866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divorce Chatroom | 328348 | [328348-divorce-chatroom.json](./328348-divorce-chatroom.json) |
 | Dìwáng Chāiqiān Bàn | 367485 | [367485-diwang-chaiqian-ban.json](./367485-diwang-chaiqian-ban.json) |
 | Dìxiàshì | 148693 | [148693-dixiashi.json](./148693-dixiashi.json) |
+| Dixie Kong Country | 259340 | [259340-dixie-kong-country.json](./259340-dixie-kong-country.json) |
 | Dixit World | 322478 | [322478-dixit-world.json](./322478-dixit-world.json) |
 | Dixotomia | 204836 | [204836-dixotomia.json](./204836-dixotomia.json) |
 | DIY | 259375 | [259375-diy.json](./259375-diy.json) |
@@ -11674,6 +11676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Grappling Hook Yuri: The Origin Arc | 334269 | [334269-doki-doki-grappling-hook-yuri-the-origin-arc.json](./334269-doki-doki-grappling-hook-yuri-the-origin-arc.json) |
 | Doki Doki Gravity Dive | 163863 | [163863-doki-doki-gravity-dive.json](./163863-doki-doki-gravity-dive.json) |
 | Doki Doki Happy Thoughts | 334821 | [334821-doki-doki-happy-thoughts.json](./334821-doki-doki-happy-thoughts.json) |
+| Doki Doki Hell's Kitchen | 259344 | [259344-doki-doki-hells-kitchen.json](./259344-doki-doki-hells-kitchen.json) |
 | Doki Doki House | 207712 | [207712-doki-doki-house.json](./207712-doki-doki-house.json) |
 | Doki Doki Hypnopompic | 333831 | [333831-doki-doki-hypnopompic.json](./333831-doki-doki-hypnopompic.json) |
 | Doki Doki Indian Man Time | 333919 | [333919-doki-doki-indian-man-time.json](./333919-doki-doki-indian-man-time.json) |
