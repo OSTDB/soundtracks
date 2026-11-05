@@ -1006,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammerlock Wrestling | 42589 | [42589-hammerlock-wrestling.json](./42589-hammerlock-wrestling.json) |
 | Hammerting | 119217 | [119217-hammerting.json](./119217-hammerting.json) |
 | Hammerwatch II | 245805 | [245805-hammerwatch-ii.json](./245805-hammerwatch-ii.json) |
+| Hammerwatch II: Anniversary Pack | 280576 | [280576-hammerwatch-ii-anniversary-pack.json](./280576-hammerwatch-ii-anniversary-pack.json) |
 | Hammerwatch: Anniversary Edition | 261850 | [261850-hammerwatch-anniversary-edition.json](./261850-hammerwatch-anniversary-edition.json) |
 | Hammet P.I. | 346915 | [346915-hammet-p-i.json](./346915-hammet-p-i.json) |
 | Hammurabi | 311346 | [311346-hammurabi.json](./311346-hammurabi.json) |
@@ -4919,6 +4920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Happy Edition | 290427 | [290427-hentai-girls-happy-edition.json](./290427-hentai-girls-happy-edition.json) |
 | Hentai Girls: Hot Police | 284950 | [284950-hentai-girls-hot-police.json](./284950-hentai-girls-hot-police.json) |
 | Hentai Girls: Juicy Judo | 330605 | [330605-hentai-girls-juicy-judo.json](./330605-hentai-girls-juicy-judo.json) |
+| Hentai Girls: Legendary Edition | 280577 | [280577-hentai-girls-legendary-edition.json](./280577-hentai-girls-legendary-edition.json) |
 | Hentai Girls: Lovely Lieutenant | 316194 | [316194-hentai-girls-lovely-lieutenant.json](./316194-hentai-girls-lovely-lieutenant.json) |
 | Hentai Girls: Lust [18+] | 344971 | [344971-hentai-girls-lust-18.json](./344971-hentai-girls-lust-18.json) |
 | Hentai Girls: Magnificent Edition | 298572 | [298572-hentai-girls-magnificent-edition.json](./298572-hentai-girls-magnificent-edition.json) |
@@ -5273,6 +5275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Stars: Singing Fox Ayame | 288292 | [288292-hentai-stars-singing-fox-ayame.json](./288292-hentai-stars-singing-fox-ayame.json) |
 | Hentai Stars: Singing Kitty Ran | 288291 | [288291-hentai-stars-singing-kitty-ran.json](./288291-hentai-stars-singing-kitty-ran.json) |
 | Hentai Stars: Singing Puppy Tsubaki | 288290 | [288290-hentai-stars-singing-puppy-tsubaki.json](./288290-hentai-stars-singing-puppy-tsubaki.json) |
+| Hentai Stars: Special Edition | 280578 | [280578-hentai-stars-special-edition.json](./280578-hentai-stars-special-edition.json) |
 | Hentai Stars: Superb Edition | 314885 | [314885-hentai-stars-superb-edition.json](./314885-hentai-stars-superb-edition.json) |
 | Hentai Stars: Ultimate Edition | 274475 | [274475-hentai-stars-ultimate-edition.json](./274475-hentai-stars-ultimate-edition.json) |
 | Hentai Stars: Ultra Deluxe | 316269 | [316269-hentai-stars-ultra-deluxe.json](./316269-hentai-stars-ultra-deluxe.json) |
@@ -8515,6 +8518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole io: Platinum Edition | 341382 | [341382-hole-io-platinum-edition.json](./341382-hole-io-platinum-edition.json) |
 | Hole io: Pyramids DLC | 354191 | [354191-hole-io-pyramids-dlc.json](./354191-hole-io-pyramids-dlc.json) |
 | Hole io: Red Planet DLC | 263556 | [263556-hole-io-red-planet-dlc.json](./263556-hole-io-red-planet-dlc.json) |
+| Hole io: Red Planet Edition | 280579 | [280579-hole-io-red-planet-edition.json](./280579-hole-io-red-planet-edition.json) |
 | Hole io: Warzone | 300945 | [300945-hole-io-warzone.json](./300945-hole-io-warzone.json) |
 | Hole io: Warzone Edition | 305596 | [305596-hole-io-warzone-edition.json](./305596-hole-io-warzone-edition.json) |
 | Hole Is Mine | 404881 | [404881-hole-is-mine.json](./404881-hole-is-mine.json) |
