@@ -746,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese Rail Sim: Operating the Meitetsu Line | 246822 | [246822-japanese-rail-sim-operating-the-meitetsu-line.json](./246822-japanese-rail-sim-operating-the-meitetsu-line.json) |
 | Japanese Ramen Simulator | 414484 | [414484-japanese-ramen-simulator.json](./414484-japanese-ramen-simulator.json) |
 | Japanese Romaji Adventure 3D | 200889 | [200889-japanese-romaji-adventure-3d.json](./200889-japanese-romaji-adventure-3d.json) |
+| Japanese Rural Life Adventure | 265453 | [265453-japanese-rural-life-adventure.json](./265453-japanese-rural-life-adventure.json) |
 | Japanese Salaryman | 323017 | [323017-japanese-salaryman.json](./323017-japanese-salaryman.json) |
 | Japanese School Life | 26136 | [26136-japanese-school-life.json](./26136-japanese-school-life.json) |
 | Japanese Style Tien Gow | 258577 | [258577-japanese-style-tien-gow.json](./258577-japanese-style-tien-gow.json) |
@@ -2483,6 +2484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Join Us | 370723 | [370723-join-us.json](./370723-join-us.json) |
 | Joinem | 40208 | [40208-joinem.json](./40208-joinem.json) |
 | Joining Hands | 68926 | [68926-joining-hands.json](./68926-joining-hands.json) |
+| Joining Hands 2 | 264970 | [264970-joining-hands-2.json](./264970-joining-hands-2.json) |
 | Joint Force | 381585 | [381585-joint-force.json](./381585-joint-force.json) |
 | Joint Operations | 24243 | [24243-joint-operations.json](./24243-joint-operations.json) |
 | Joint Operations: Combined Arms Gold | 29200 | [29200-joint-operations-combined-arms-gold.json](./29200-joint-operations-combined-arms-gold.json) |
