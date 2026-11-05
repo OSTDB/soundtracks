@@ -2645,6 +2645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Talk Simulator | 183232 | [183232-party-talk-simulator.json](./183232-party-talk-simulator.json) |
 | Party Treats | 125055 | [125055-party-treats.json](./125055-party-treats.json) |
 | Party Trivia | 98839 | [98839-party-trivia.json](./98839-party-trivia.json) |
+| Party Universe | 248954 | [248954-party-universe.json](./248954-party-universe.json) |
 | Party Versus | 326770 | [326770-party-versus.json](./326770-party-versus.json) |
 | Party Wave | 234506 | [234506-party-wave.json](./234506-party-wave.json) |
 | Party Words | 207543 | [207543-party-words.json](./207543-party-words.json) |
@@ -8692,6 +8693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piyo Blocks Chick Hunt | 409142 | [409142-piyo-blocks-chick-hunt.json](./409142-piyo-blocks-chick-hunt.json) |
 | Piyo Puzz: Piyokoro x Puzzle | 328493 | [328493-piyo-puzz-piyokoro-x-puzzle.json](./328493-piyo-puzz-piyokoro-x-puzzle.json) |
 | Piyokoro | 280072 | [280072-piyokoro.json](./280072-piyokoro.json) |
+| Piyomori DX | 248986 | [248986-piyomori-dx.json](./248986-piyomori-dx.json) |
 | Piyopoyon | 394481 | [394481-piyopoyon.json](./394481-piyopoyon.json) |
 | PiyoRide! | 393884 | [393884-piyoride.json](./393884-piyoride.json) |
 | PiyoShogi | 388512 | [388512-piyoshogi.json](./388512-piyoshogi.json) |
