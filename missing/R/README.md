@@ -5410,6 +5410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reshape | 293634 | [293634-reshape.json](./293634-reshape.json) |
 | Reshaper | 183838 | [183838-reshaper.json](./183838-reshaper.json) |
 | Reshine | 399078 | [399078-reshine.json](./399078-reshine.json) |
+| Reshoot Proxima 3 | 284122 | [284122-reshoot-proxima-3.json](./284122-reshoot-proxima-3.json) |
 | ReShot | 364646 | [364646-reshot.json](./364646-reshot.json) |
 | Residence | 259179 | [259179-residence.json](./259179-residence.json) |
 | Resident Evil | 102722 | [102722-resident-evil.json](./102722-resident-evil.json) |
