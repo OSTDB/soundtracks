@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.N.I.P.E.R.: Hunter Scope - Prime Edition | 274490 | [274490-s-n-i-p-e-r-hunter-scope-prime-edition.json](./274490-s-n-i-p-e-r-hunter-scope-prime-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Pro Edition | 399827 | [399827-s-n-i-p-e-r-hunter-scope-pro-edition.json](./399827-s-n-i-p-e-r-hunter-scope-pro-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Silver Edition | 250394 | [250394-s-n-i-p-e-r-hunter-scope-silver-edition.json](./250394-s-n-i-p-e-r-hunter-scope-silver-edition.json) |
+| S.N.I.P.E.R.: Hunter Scope - Summer Edition | 257711 | [257711-s-n-i-p-e-r-hunter-scope-summer-edition.json](./257711-s-n-i-p-e-r-hunter-scope-summer-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Supreme Edition | 324369 | [324369-s-n-i-p-e-r-hunter-scope-supreme-edition.json](./324369-s-n-i-p-e-r-hunter-scope-supreme-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Throne Edition | 410859 | [410859-s-n-i-p-e-r-hunter-scope-throne-edition.json](./410859-s-n-i-p-e-r-hunter-scope-throne-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Ultimate Edition | 280622 | [280622-s-n-i-p-e-r-hunter-scope-ultimate-edition.json](./280622-s-n-i-p-e-r-hunter-scope-ultimate-edition.json) |
@@ -13802,6 +13803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slug Races | 180482 | [180482-slug-races.json](./180482-slug-races.json) |
 | Slug Slasher | 93786 | [93786-slug-slasher.json](./93786-slug-slasher.json) |
 | Slug Survival | 393817 | [393817-slug-survival.json](./393817-slug-survival.json) |
+| Slugfest | 257750 | [257750-slugfest.json](./257750-slugfest.json) |
 | Slugger | 299426 | [299426-slugger.json](./299426-slugger.json) |
 | Slugger 2 | 326802 | [326802-slugger-2.json](./326802-slugger-2.json) |
 | Sluggernauts | 418194 | [418194-sluggernauts.json](./418194-sluggernauts.json) |
@@ -19297,7 +19299,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -29727,6 +29728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunless Skies: Sovereign Edition | 124994 | [124994-sunless-skies-sovereign-edition.json](./124994-sunless-skies-sovereign-edition.json) |
 | Sunlight | 142217 | [142217-sunlight.json](./142217-sunlight.json) |
 | Sunlight In A Tin | 188602 | [188602-sunlight-in-a-tin.json](./188602-sunlight-in-a-tin.json) |
+| Sunlight Scream | 257738 | [257738-sunlight-scream.json](./257738-sunlight-scream.json) |
 | Sunlit | 229593 | [229593-sunlit.json](./229593-sunlit.json) |
 | Sunlit Trail: Complete Edition | 410674 | [410674-sunlit-trail-complete-edition.json](./410674-sunlit-trail-complete-edition.json) |
 | Sunlit's Star Fox Minihack | 233606 | [233606-sunlits-star-fox-minihack.json](./233606-sunlits-star-fox-minihack.json) |
@@ -30143,6 +30145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bubble Pop | 248454 | [248454-super-bubble-pop.json](./248454-super-bubble-pop.json) |
 | Super Bubble Pop | 4187 | [4187-super-bubble-pop.json](./4187-super-bubble-pop.json) |
 | Super Bubsy | 70261 | [70261-super-bubsy.json](./70261-super-bubsy.json) |
+| Super Buff HD | 257737 | [257737-super-buff-hd.json](./257737-super-buff-hd.json) |
 | Super Bug | 281170 | [281170-super-bug.json](./281170-super-bug.json) |
 | Super Bug | 40431 | [40431-super-bug.json](./40431-super-bug.json) |
 | Super Bug 2 | 288259 | [288259-super-bug-2.json](./288259-super-bug-2.json) |
@@ -34883,6 +34886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of Destruction | 237428 | [237428-sword-of-destruction.json](./237428-sword-of-destruction.json) |
 | Sword of Fireheart - The Awakening Element | 31989 | [31989-sword-of-fireheart-the-awakening-element.json](./31989-sword-of-fireheart-the-awakening-element.json) |
 | Sword of Fortress the Onomuzim | 99469 | [99469-sword-of-fortress-the-onomuzim.json](./99469-sword-of-fortress-the-onomuzim.json) |
+| Sword of Glory | 257712 | [257712-sword-of-glory.json](./257712-sword-of-glory.json) |
 | Sword of Glory Roguelite Slash | 219990 | [219990-sword-of-glory-roguelite-slash.json](./219990-sword-of-glory-roguelite-slash.json) |
 | Sword of Hearts | 183437 | [183437-sword-of-hearts.json](./183437-sword-of-hearts.json) |
 | Sword of Honour | 12790 | [12790-sword-of-honour.json](./12790-sword-of-honour.json) |
