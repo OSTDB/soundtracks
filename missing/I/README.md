@@ -3399,6 +3399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iNeko | 84453 | [84453-ineko.json](./84453-ineko.json) |
 | Inequalis | 224688 | [224688-inequalis.json](./224688-inequalis.json) |
 | Inertia | 261311 | [261311-inertia.json](./261311-inertia.json) |
+| Inertia | 295969 | [295969-inertia.json](./295969-inertia.json) |
 | Inertia | 377561 | [377561-inertia.json](./377561-inertia.json) |
 | Inertia | 411978 | [411978-inertia.json](./411978-inertia.json) |
 | Inertia | 54694 | [54694-inertia.json](./54694-inertia.json) |
@@ -3739,6 +3740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5210,6 +5212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invaders | 79070 | [79070-invaders.json](./79070-invaders.json) |
 | Invaders 1978 | 72081 | [72081-invaders-1978.json](./72081-invaders-1978.json) |
 | Invaders from Dimension X | 111348 | [111348-invaders-from-dimension-x.json](./111348-invaders-from-dimension-x.json) |
+| Invaders From Mars | 295970 | [295970-invaders-from-mars.json](./295970-invaders-from-mars.json) |
 | Invaders from the Third Dimension | 253524 | [253524-invaders-from-the-third-dimension.json](./253524-invaders-from-the-third-dimension.json) |
 | Invaders From Uranus | 269153 | [269153-invaders-from-uranus.json](./269153-invaders-from-uranus.json) |
 | Invaders of the Mummy's Tomb | 300011 | [300011-invaders-of-the-mummys-tomb.json](./300011-invaders-of-the-mummys-tomb.json) |
@@ -6459,6 +6462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Titanic | 89188 | [89188-its-titanic.json](./89188-its-titanic.json) |
 | It's Too Late to Apologize | 401642 | [401642-its-too-late-to-apologize.json](./401642-its-too-late-to-apologize.json) |
 | It's Too Rainy Day | 116057 | [116057-its-too-rainy-day.json](./116057-its-too-rainy-day.json) |
+| It's Vegetable | 295972 | [295972-its-vegetable.json](./295972-its-vegetable.json) |
 | It's Walky! Resurrection | 60470 | [60470-its-walky-resurrection.json](./60470-its-walky-resurrection.json) |
 | It's Wiggle Time | 92679 | [92679-its-wiggle-time.json](./92679-its-wiggle-time.json) |
 | It's Winter | 115591 | [115591-its-winter.json](./115591-its-winter.json) |
