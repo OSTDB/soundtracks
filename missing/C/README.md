@@ -4779,6 +4779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Oasis at Shylake | 380423 | [380423-cave-oasis-at-shylake.json](./380423-cave-oasis-at-shylake.json) |
 | Cave of Avarice | 166680 | [166680-cave-of-avarice.json](./166680-cave-of-avarice.json) |
 | Cave of Cards | 339995 | [339995-cave-of-cards.json](./339995-cave-of-cards.json) |
+| Cave of Evil | 260461 | [260461-cave-of-evil.json](./260461-cave-of-evil.json) |
 | Cave of Gurg | 367488 | [367488-cave-of-gurg.json](./367488-cave-of-gurg.json) |
 | Cave of Illusions | 125116 | [125116-cave-of-illusions.json](./125116-cave-of-illusions.json) |
 | Cave of Illusions: Twistyland | 284804 | [284804-cave-of-illusions-twistyland.json](./284804-cave-of-illusions-twistyland.json) |
@@ -14581,6 +14582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrosion: Cold Winter Waiting - Enhanced Edition | 35752 | [35752-corrosion-cold-winter-waiting-enhanced-edition.json](./35752-corrosion-cold-winter-waiting-enhanced-edition.json) |
 | Corrosiva | 409363 | [409363-corrosiva.json](./409363-corrosiva.json) |
 | Corru.Observer | 241239 | [241239-corru-observer.json](./241239-corru-observer.json) |
+| Corrupt | 260485 | [260485-corrupt.json](./260485-corrupt.json) |
 | Corrupt | 343328 | [343328-corrupt.json](./343328-corrupt.json) |
 | Corrupt | 67916 | [67916-corrupt.json](./67916-corrupt.json) |
 | Corrupt Eldritch Order | 303432 | [303432-corrupt-eldritch-order.json](./303432-corrupt-eldritch-order.json) |
