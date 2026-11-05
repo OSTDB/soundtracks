@@ -1021,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1187: Rogue Train | 121212 | [121212-1187-rogue-train.json](./121212-1187-rogue-train.json) |
 | 1193 Anno Domini: Merchants and Crusaders | 71494 | [71494-1193-anno-domini-merchants-and-crusaders.json](./71494-1193-anno-domini-merchants-and-crusaders.json) |
 | 11eyes: Tsumi to Batsu to Aganai no Shoujo | 5470 | [5470-11eyes-tsumi-to-batsu-to-aganai-no-shoujo.json](./5470-11eyes-tsumi-to-batsu-to-aganai-no-shoujo.json) |
+| 11F | 291201 | [291201-11f.json](./291201-11f.json) |
 | 11gatsu no Arcadia | 98426 | [98426-11gatsu-no-arcadia.json](./98426-11gatsu-no-arcadia.json) |
 | 11x11: Soccer Club Manager | 104716 | [104716-11x11-soccer-club-manager.json](./104716-11x11-soccer-club-manager.json) |
 | 12 | 97108 | [97108-12.json](./97108-12.json) |
@@ -2767,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4x4 Russian SUVs Off-Road | 348958 | [348958-4x4-russian-suvs-off-road.json](./348958-4x4-russian-suvs-off-road.json) |
 | 4x4 Truck Offroad Car Driver | 356525 | [356525-4x4-truck-offroad-car-driver.json](./356525-4x4-truck-offroad-car-driver.json) |
 | 5 Arcade Gems | 51054 | [51054-5-arcade-gems.json](./51054-5-arcade-gems.json) |
+| 5 Bucks for the Bus | 291289 | [291289-5-bucks-for-the-bus.json](./291289-5-bucks-for-the-bus.json) |
 | 5 Card Slingo | 321768 | [321768-5-card-slingo.json](./321768-5-card-slingo.json) |
 | 5 Card Slingo | 414394 | [414394-5-card-slingo.json](./414394-5-card-slingo.json) |
 | 5 Days | 226096 | [226096-5-days.json](./226096-5-days.json) |
