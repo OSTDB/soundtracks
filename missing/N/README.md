@@ -3213,6 +3213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Lands Paradise Island - Collector's Edition | 195852 | [195852-new-lands-paradise-island-collectors-edition.json](./195852-new-lands-paradise-island-collectors-edition.json) |
 | New Lands: Legends of Tenkai - Collector's Edition | 369014 | [369014-new-lands-legends-of-tenkai-collectors-edition.json](./369014-new-lands-legends-of-tenkai-collectors-edition.json) |
 | New Lands: The Shadow of Alvaria | 376428 | [376428-new-lands-the-shadow-of-alvaria.json](./376428-new-lands-the-shadow-of-alvaria.json) |
+| New Leaf | 259940 | [259940-new-leaf.json](./259940-new-leaf.json) |
 | New Leaf Traveler and Youth's Memories | 272708 | [272708-new-leaf-traveler-and-youths-memories.json](./272708-new-leaf-traveler-and-youths-memories.json) |
 | New Legend of Sword and Fairy | 77971 | [77971-new-legend-of-sword-and-fairy.json](./77971-new-legend-of-sword-and-fairy.json) |
 | New Legends | 18268 | [18268-new-legends.json](./18268-new-legends.json) |
@@ -3582,6 +3583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NextRP | 333819 | [333819-nextrp.json](./333819-nextrp.json) |
 | NextWar: The Quest for Earth | 91731 | [91731-nextwar-the-quest-for-earth.json](./91731-nextwar-the-quest-for-earth.json) |
 | Nexuiz | 9586 | [9586-nexuiz.json](./9586-nexuiz.json) |
+| Nexus | 259902 | [259902-nexus.json](./259902-nexus.json) |
 | Nexus | 26414 | [26414-nexus.json](./26414-nexus.json) |
 | Nexus 2 | 92499 | [92499-nexus-2.json](./92499-nexus-2.json) |
 | Nexus Code | 276051 | [276051-nexus-code.json](./276051-nexus-code.json) |
