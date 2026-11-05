@@ -8399,6 +8399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: Farm Machinery | 278555 | [278555-american-truck-simulator-farm-machinery.json](./278555-american-truck-simulator-farm-machinery.json) |
 | American Truck Simulator: Ford Car Pack | 356896 | [356896-american-truck-simulator-ford-car-pack.json](./356896-american-truck-simulator-ford-car-pack.json) |
 | American Truck Simulator: Forest Machinery | 119379 | [119379-american-truck-simulator-forest-machinery.json](./119379-american-truck-simulator-forest-machinery.json) |
+| American Truck Simulator: Freightliner Cascadia | 288584 | [288584-american-truck-simulator-freightliner-cascadia.json](./288584-american-truck-simulator-freightliner-cascadia.json) |
 | American Truck Simulator: Freightliner Cascadia (The Fifth Generation) | 353410 | [353410-american-truck-simulator-freightliner-cascadia-the-fifth-generation.json](./353410-american-truck-simulator-freightliner-cascadia-the-fifth-generation.json) |
 | American Truck Simulator: Gold Edition | 115774 | [115774-american-truck-simulator-gold-edition.json](./115774-american-truck-simulator-gold-edition.json) |
 | American Truck Simulator: Goodyear Tires Pack | 223687 | [223687-american-truck-simulator-goodyear-tires-pack.json](./223687-american-truck-simulator-goodyear-tires-pack.json) |
