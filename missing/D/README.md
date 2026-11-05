@@ -11367,6 +11367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DodoGo! Challenge | 85094 | [85094-dodogo-challenge.json](./85094-dodogo-challenge.json) |
 | DodoGo! Robo | 85093 | [85093-dodogo-robo.json](./85093-dodogo-robo.json) |
 | Dodolly Tales | 274320 | [274320-dodolly-tales.json](./274320-dodolly-tales.json) |
+| DoDonPachi Dai-Ou-Jou Re:Incarnation | 262133 | [262133-dodonpachi-dai-ou-jou-re-incarnation.json](./262133-dodonpachi-dai-ou-jou-re-incarnation.json) |
 | DoDonPachi Dai-Ou-Jou V101 | 84158 | [84158-dodonpachi-dai-ou-jou-v101.json](./84158-dodonpachi-dai-ou-jou-v101.json) |
 | DoDonPachi Daifukkatsu Black Label | 77997 | [77997-dodonpachi-daifukkatsu-black-label.json](./77997-dodonpachi-daifukkatsu-black-label.json) |
 | DoDonPachi DaiFukkatsu Ver 1.5 | 84160 | [84160-dodonpachi-daifukkatsu-ver-1-5.json](./84160-dodonpachi-daifukkatsu-ver-1-5.json) |
@@ -14370,6 +14371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Idainaru Son Goku Densetsu | 37599 | [37599-dragon-ball-z-idainaru-son-goku-densetsu.json](./37599-dragon-ball-z-idainaru-son-goku-densetsu.json) |
 | Dragon Ball Z: Infinite World | 2570 | [2570-dragon-ball-z-infinite-world.json](./2570-dragon-ball-z-infinite-world.json) |
 | Dragon Ball Z: Kakarot | 114009 | [114009-dragon-ball-z-kakarot.json](./114009-dragon-ball-z-kakarot.json) |
+| Dragon Ball Z: Kakarot - 23rd World Tournament | 262032 | [262032-dragon-ball-z-kakarot-23rd-world-tournament.json](./262032-dragon-ball-z-kakarot-23rd-world-tournament.json) |
 | Dragon Ball Z: Kakarot - A New Power Awakens: Part 1 | 132643 | [132643-dragon-ball-z-kakarot-a-new-power-awakens-part-1.json](./132643-dragon-ball-z-kakarot-a-new-power-awakens-part-1.json) |
 | Dragon Ball Z: Kakarot - A New Power Awakens: Part 2 | 141042 | [141042-dragon-ball-z-kakarot-a-new-power-awakens-part-2.json](./141042-dragon-ball-z-kakarot-a-new-power-awakens-part-2.json) |
 | Dragon Ball Z: Kakarot - Bardock: Alone Against Fate | 227674 | [227674-dragon-ball-z-kakarot-bardock-alone-against-fate.json](./227674-dragon-ball-z-kakarot-bardock-alone-against-fate.json) |
@@ -15268,6 +15270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Action: Freestyle Fight | 281241 | [281241-draw-action-freestyle-fight.json](./281241-draw-action-freestyle-fight.json) |
 | Draw and Color | 276130 | [276130-draw-and-color.json](./276130-draw-and-color.json) |
 | Draw and Color: Kawaii | 219461 | [219461-draw-and-color-kawaii.json](./219461-draw-and-color-kawaii.json) |
+| Draw and Color: Kawaii - Amazing Edition | 262118 | [262118-draw-and-color-kawaii-amazing-edition.json](./262118-draw-and-color-kawaii-amazing-edition.json) |
 | Draw and Color: Kawaii - Complete Edition | 242047 | [242047-draw-and-color-kawaii-complete-edition.json](./242047-draw-and-color-kawaii-complete-edition.json) |
 | Draw and Color: Kawaii - Complete Edition + | 272410 | [272410-draw-and-color-kawaii-complete-edition.json](./272410-draw-and-color-kawaii-complete-edition.json) |
 | Draw and Color: Kawaii - Definitive Edition | 239480 | [239480-draw-and-color-kawaii-definitive-edition.json](./239480-draw-and-color-kawaii-definitive-edition.json) |
@@ -17487,6 +17490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumpling | 377844 | [377844-dumpling.json](./377844-dumpling.json) |
 | Dumpling Together | 339108 | [339108-dumpling-together.json](./339108-dumpling-together.json) |
 | Dumpster Baby | 350493 | [350493-dumpster-baby.json](./350493-dumpster-baby.json) |
+| Dumpster Date | 262138 | [262138-dumpster-date.json](./262138-dumpster-date.json) |
 | Dumpster Dive Live | 396595 | [396595-dumpster-dive-live.json](./396595-dumpster-dive-live.json) |
 | Dumpster Divers | 366903 | [366903-dumpster-divers.json](./366903-dumpster-divers.json) |
 | Dumpster Diving Simulator | 424639 | [424639-dumpster-diving-simulator.json](./424639-dumpster-diving-simulator.json) |
