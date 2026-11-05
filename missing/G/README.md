@@ -5517,6 +5517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goalkeeper Journey | 340313 | [340313-goalkeeper-journey.json](./340313-goalkeeper-journey.json) |
 | Goalkeeper VR Challenge | 112499 | [112499-goalkeeper-vr-challenge.json](./112499-goalkeeper-vr-challenge.json) |
 | GoalkeepVr | 29946 | [29946-goalkeepvr.json](./29946-goalkeepvr.json) |
+| Goals | 289602 | [289602-goals.json](./289602-goals.json) |
 | Goaltender VR | 30422 | [30422-goaltender-vr.json](./30422-goaltender-vr.json) |
 | goalunited PRO | 29778 | [29778-goalunited-pro.json](./29778-goalunited-pro.json) |
 | Goat | 400359 | [400359-goat.json](./400359-goat.json) |
@@ -8943,6 +8944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Start | 55992 | [55992-grid-start.json](./55992-grid-start.json) |
 | Grid Tactics: Duel | 402063 | [402063-grid-tactics-duel.json](./402063-grid-tactics-duel.json) |
 | Grid Tycoon | 392970 | [392970-grid-tycoon.json](./392970-grid-tycoon.json) |
+| Grid Warriors: Battles | 289666 | [289666-grid-warriors-battles.json](./289666-grid-warriors-battles.json) |
 | Grid Wars II | 51233 | [51233-grid-wars-ii.json](./51233-grid-wars-ii.json) |
 | Grid Words | 202492 | [202492-grid-words.json](./202492-grid-words.json) |
 | Grid_Hacker | 166435 | [166435-grid-hacker.json](./166435-grid-hacker.json) |
@@ -9047,6 +9049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grilluminati | 410614 | [410614-grilluminati.json](./410614-grilluminati.json) |
 | Grim | 196319 | [196319-grim.json](./196319-grim.json) |
 | Grim | 261740 | [261740-grim.json](./261740-grim.json) |
+| Grim | 289684 | [289684-grim.json](./289684-grim.json) |
 | Grim | 379863 | [379863-grim.json](./379863-grim.json) |
 | Grim | 391785 | [391785-grim.json](./391785-grim.json) |
 | Grim Axiom | 357039 | [357039-grim-axiom.json](./357039-grim-axiom.json) |
