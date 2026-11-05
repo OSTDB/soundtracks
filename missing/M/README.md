@@ -3213,6 +3213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MapaboX: Trivia & Quiz game | 232045 | [232045-mapabox-trivia-and-quiz-game.json](./232045-mapabox-trivia-and-quiz-game.json) |
 | Mapas do Horizonte - Um jogo para conhecer BH | 95588 | [95588-mapas-do-horizonte-um-jogo-para-conhecer-bh.json](./95588-mapas-do-horizonte-um-jogo-para-conhecer-bh.json) |
 | MapFriend | 226085 | [226085-mapfriend.json](./226085-mapfriend.json) |
+| Mapgame | 268789 | [268789-mapgame.json](./268789-mapgame.json) |
 | MapGame | 341893 | [341893-mapgame.json](./341893-mapgame.json) |
 | MapGod | 412513 | [412513-mapgod.json](./412513-mapgod.json) |
 | MapHunt | 386905 | [386905-maphunt.json](./386905-maphunt.json) |
@@ -4972,6 +4973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Detective Archives: Rain Code - Ch. Vivia: The Near-Death Detective + Ch. Yakou: Thank You, My Detective | 268772 | [268772-master-detective-archives-rain-code-ch-vivia-the-near-death-detective-ch-yakou-thank-you-my-detective.json](./268772-master-detective-archives-rain-code-ch-vivia-the-near-death-detective-ch-yakou-thank-you-my-detective.json) |
 | Master Detective Archives: Rain Code - Digital Deluxe Edition | 247654 | [247654-master-detective-archives-rain-code-digital-deluxe-edition.json](./247654-master-detective-archives-rain-code-digital-deluxe-edition.json) |
 | Master Detective Archives: Rain Code - Mysteriful Limited Edition | 218885 | [218885-master-detective-archives-rain-code-mysteriful-limited-edition.json](./218885-master-detective-archives-rain-code-mysteriful-limited-edition.json) |
+| Master Detective Archives: Rain Code - Season Pass | 268784 | [268784-master-detective-archives-rain-code-season-pass.json](./268784-master-detective-archives-rain-code-season-pass.json) |
 | Master Detective Archives: Rain Code Plus | 300724 | [300724-master-detective-archives-rain-code-plus.json](./300724-master-detective-archives-rain-code-plus.json) |
 | Master Detective Archives: Rain Code Plus - Limited Edition | 300753 | [300753-master-detective-archives-rain-code-plus-limited-edition.json](./300753-master-detective-archives-rain-code-plus-limited-edition.json) |
 | Master Detective Archives: Rain Code Plus ^ Danganronpa 1, 2, V3 Bundle | 331534 | [331534-master-detective-archives-rain-code-plus-danganronpa-1-2-v3-bundle.json](./331534-master-detective-archives-rain-code-plus-danganronpa-1-2-v3-bundle.json) |
@@ -5812,6 +5814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -14105,6 +14108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Quest GB | 304098 | [304098-mobile-quest-gb.json](./304098-mobile-quest-gb.json) |
 | Mobile Royale | 125887 | [125887-mobile-royale.json](./125887-mobile-royale.json) |
 | Mobile Soldiers: Plastic Army | 369639 | [369639-mobile-soldiers-plastic-army.json](./369639-mobile-soldiers-plastic-army.json) |
+| Mobile Store Simulator | 268801 | [268801-mobile-store-simulator.json](./268801-mobile-store-simulator.json) |
 | Mobile Strike | 100693 | [100693-mobile-strike.json](./100693-mobile-strike.json) |
 | Mobile Suit Arena | 408954 | [408954-mobile-suit-arena.json](./408954-mobile-suit-arena.json) |
 | Mobile Suit Baba | 280934 | [280934-mobile-suit-baba.json](./280934-mobile-suit-baba.json) |
