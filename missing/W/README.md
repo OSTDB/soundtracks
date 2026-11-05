@@ -4072,6 +4072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where in Time is Carmen Sandiego? | 336633 | [336633-where-in-time-is-carmen-sandiego.json](./336633-where-in-time-is-carmen-sandiego.json) |
 | Where in Time is Carmen Sandiego? | 4376 | [4376-where-in-time-is-carmen-sandiego.json](./4376-where-in-time-is-carmen-sandiego.json) |
 | Where is 2009? | 384055 | [384055-where-is-2009.json](./384055-where-is-2009.json) |
+| Where is 2010? | 257744 | [257744-where-is-2010.json](./257744-where-is-2010.json) |
 | Where is 2011? | 384066 | [384066-where-is-2011.json](./384066-where-is-2011.json) |
 | Where is 2012? | 384073 | [384073-where-is-2012.json](./384073-where-is-2012.json) |
 | Where is 2013? | 384074 | [384074-where-is-2013.json](./384074-where-is-2013.json) |
@@ -7980,6 +7981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Kings | 119227 | [119227-world-of-kings.json](./119227-world-of-kings.json) |
 | World of Leaders | 36140 | [36140-world-of-leaders.json](./36140-world-of-leaders.json) |
 | World of Legends | 115461 | [115461-world-of-legends.json](./115461-world-of-legends.json) |
+| World of Machines: Tanks War Operation | 257710 | [257710-world-of-machines-tanks-war-operation.json](./257710-world-of-machines-tanks-war-operation.json) |
 | World of Magic: Rise of Magic | 304918 | [304918-world-of-magic-rise-of-magic.json](./304918-world-of-magic-rise-of-magic.json) |
 | World of Magicka Bundle | 327246 | [327246-world-of-magicka-bundle.json](./327246-world-of-magicka-bundle.json) |
 | World of Mahjongg | 205873 | [205873-world-of-mahjongg.json](./205873-world-of-mahjongg.json) |
@@ -8475,6 +8477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WorldNeverland: Daily Life in the Elnea Kingdom - Backpack | 403411 | [403411-worldneverland-daily-life-in-the-elnea-kingdom-backpack.json](./403411-worldneverland-daily-life-in-the-elnea-kingdom-backpack.json) |
 | WorldNeverland: Elnea Kingdom | 84960 | [84960-worldneverland-elnea-kingdom.json](./84960-worldneverland-elnea-kingdom.json) |
 | WorldNeverland: Elnea Kingdom - Ancestral Garb Set: Berry | 316264 | [316264-worldneverland-elnea-kingdom-ancestral-garb-set-berry.json](./316264-worldneverland-elnea-kingdom-ancestral-garb-set-berry.json) |
+| WorldNeverland: Elnea Kingdom - Challenge Dungeon Collection | 257735 | [257735-worldneverland-elnea-kingdom-challenge-dungeon-collection.json](./257735-worldneverland-elnea-kingdom-challenge-dungeon-collection.json) |
 | WorldNeverland: Elnea Kingdom - Floral Town-Wear Set: Brown | 324423 | [324423-worldneverland-elnea-kingdom-floral-town-wear-set-brown.json](./324423-worldneverland-elnea-kingdom-floral-town-wear-set-brown.json) |
 | WorldNeverland: Elnea Kingdom - Floral Town-Wear Set: Twilight | 317960 | [317960-worldneverland-elnea-kingdom-floral-town-wear-set-twilight.json](./317960-worldneverland-elnea-kingdom-floral-town-wear-set-twilight.json) |
 | WorldNeverland: Elnea Kingdom - Fluffy Brown-Rabbit Suit | 324496 | [324496-worldneverland-elnea-kingdom-fluffy-brown-rabbit-suit.json](./324496-worldneverland-elnea-kingdom-fluffy-brown-rabbit-suit.json) |
