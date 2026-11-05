@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pakucchauzo! | 160188 | [160188-pakucchauzo.json](./160188-pakucchauzo.json) |
 | Pal Go | 343831 | [343831-pal-go.json](./343831-pal-go.json) |
 | Pal Pachinko | 390593 | [390593-pal-pachinko.json](./390593-pal-pachinko.json) |
+| Pal Up! | 294094 | [294094-pal-up.json](./294094-pal-up.json) |
 | Pal-Mon | 393801 | [393801-pal-mon.json](./393801-pal-mon.json) |
 | Pal-world!: More Than Just Pals | 405947 | [405947-pal-world-more-than-just-pals.json](./405947-pal-world-more-than-just-pals.json) |
 | PAL: Shinken Densetsu | 166517 | [166517-pal-shinken-densetsu.json](./166517-pal-shinken-densetsu.json) |
