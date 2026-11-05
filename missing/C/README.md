@@ -929,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caltron 6-in-1 | 81250 | [81250-caltron-6-in-1.json](./81250-caltron-6-in-1.json) |
 | Calturin | 146624 | [146624-calturin.json](./146624-calturin.json) |
 | Calturin and Clone | 148883 | [148883-calturin-and-clone.json](./148883-calturin-and-clone.json) |
+| Calum | 297706 | [297706-calum.json](./297706-calum.json) |
 | Calvar: The Darkest Gate | 318008 | [318008-calvar-the-darkest-gate.json](./318008-calvar-the-darkest-gate.json) |
 | Calvatole | 214301 | [214301-calvatole.json](./214301-calvatole.json) |
 | Calvin | 94951 | [94951-calvin.json](./94951-calvin.json) |
@@ -3766,6 +3767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Attack | 267855 | [267855-cat-attack.json](./267855-cat-attack.json) |
 | Cat Attack | 56882 | [56882-cat-attack.json](./56882-cat-attack.json) |
 | Cat Bait | 310418 | [310418-cat-bait.json](./310418-cat-bait.json) |
+| Cat Ball Defense Team | 297694 | [297694-cat-ball-defense-team.json](./297694-cat-ball-defense-team.json) |
 | Cat Ball: Gravity Maze | 273375 | [273375-cat-ball-gravity-maze.json](./273375-cat-ball-gravity-maze.json) |
 | Cat Bang | 284792 | [284792-cat-bang.json](./284792-cat-bang.json) |
 | Cat Beauty Salon | 93701 | [93701-cat-beauty-salon.json](./93701-cat-beauty-salon.json) |
@@ -15848,6 +15850,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Team Rumble | 282416 | [282416-crash-team-rumble.json](./282416-crash-team-rumble.json) |
 | Crash Team Rumble: Deluxe Edition | 246296 | [246296-crash-team-rumble-deluxe-edition.json](./246296-crash-team-rumble-deluxe-edition.json) |
 | Crash Team Rumble: Season 1 | 252546 | [252546-crash-team-rumble-season-1.json](./252546-crash-team-rumble-season-1.json) |
+| Crash Team Rumble: Season 2 | 297687 | [297687-crash-team-rumble-season-2.json](./297687-crash-team-rumble-season-2.json) |
+| Crash Team Rumble: Season 3 | 297688 | [297688-crash-team-rumble-season-3.json](./297688-crash-team-rumble-season-3.json) |
 | Crash Test Billy | 51473 | [51473-crash-test-billy.json](./51473-crash-test-billy.json) |
 | Crash Test Idiot | 193419 | [193419-crash-test-idiot.json](./193419-crash-test-idiot.json) |
 | Crash Test Idiots 2: Multiplayer | 278692 | [278692-crash-test-idiots-2-multiplayer.json](./278692-crash-test-idiots-2-multiplayer.json) |
