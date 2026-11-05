@@ -4210,6 +4210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After L!fe: The Sacred Kaleidoscope | 233023 | [233023-after-l-fe-the-sacred-kaleidoscope.json](./233023-after-l-fe-the-sacred-kaleidoscope.json) |
 | After Life VR | 81897 | [81897-after-life-vr.json](./81897-after-life-vr.json) |
 | After Life: Story of a Father | 30704 | [30704-after-life-story-of-a-father.json](./30704-after-life-story-of-a-father.json) |
+| After Light Fades | 258803 | [258803-after-light-fades.json](./258803-after-light-fades.json) |
 | After Lights Out | 346733 | [346733-after-lights-out.json](./346733-after-lights-out.json) |
 | After Mankind: TD | 367545 | [367545-after-mankind-td.json](./367545-after-mankind-td.json) |
 | After Midnight | 180438 | [180438-after-midnight.json](./180438-after-midnight.json) |
@@ -15374,6 +15375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Bounty Hunter | 20367 | [20367-asteroid-bounty-hunter.json](./20367-asteroid-bounty-hunter.json) |
 | Asteroid Breaker: Avoid the DizAsteroid | 105955 | [105955-asteroid-breaker-avoid-the-dizasteroid.json](./105955-asteroid-breaker-avoid-the-dizasteroid.json) |
 | Asteroid Challenge | 85505 | [85505-asteroid-challenge.json](./85505-asteroid-challenge.json) |
+| Asteroid Colony | 258795 | [258795-asteroid-colony.json](./258795-asteroid-colony.json) |
 | Asteroid Command | 245270 | [245270-asteroid-command.json](./245270-asteroid-command.json) |
 | Asteroid Commando | 317363 | [317363-asteroid-commando.json](./317363-asteroid-commando.json) |
 | Asteroid Core | 277789 | [277789-asteroid-core.json](./277789-asteroid-core.json) |
@@ -16366,6 +16368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
