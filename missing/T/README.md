@@ -647,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails Adventure: Fire of Robollion | 267216 | [267216-tails-adventure-fire-of-robollion.json](./267216-tails-adventure-fire-of-robollion.json) |
 | Tails Adventures GG2SMS | 308195 | [308195-tails-adventures-gg2sms.json](./308195-tails-adventures-gg2sms.json) |
 | Tails and Pines | 192448 | [192448-tails-and-pines.json](./192448-tails-and-pines.json) |
+| Tails and the Quest of 100 Rings | 246727 | [246727-tails-and-the-quest-of-100-rings.json](./246727-tails-and-the-quest-of-100-rings.json) |
 | Tails Doll | 279577 | [279577-tails-doll.json](./279577-tails-doll.json) |
 | Tails Football | 362899 | [362899-tails-football.json](./362899-tails-football.json) |
 | Tails From Alteria | 190039 | [190039-tails-from-alteria.json](./190039-tails-from-alteria.json) |
@@ -674,6 +675,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails of Trainspot | 149947 | [149947-tails-of-trainspot.json](./149947-tails-of-trainspot.json) |
 | Tails of War | 279261 | [279261-tails-of-war.json](./279261-tails-of-war.json) |
 | Tails on Lost Lands | 334729 | [334729-tails-on-lost-lands.json](./334729-tails-on-lost-lands.json) |
+| Tails Quest 2: A Tale of Love | 246729 | [246729-tails-quest-2-a-tale-of-love.json](./246729-tails-quest-2-a-tale-of-love.json) |
+| Tails Race | 246728 | [246728-tails-race.json](./246728-tails-race.json) |
 | Tails to the Rescue | 330308 | [330308-tails-to-the-rescue.json](./330308-tails-to-the-rescue.json) |
 | Tails: Cosmic Rush 2.0 | 332459 | [332459-tails-cosmic-rush-2-0.json](./332459-tails-cosmic-rush-2-0.json) |
 | Tails: The Game | 330706 | [330706-tails-the-game.json](./330706-tails-the-game.json) |
@@ -14354,6 +14357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Other Order | 384793 | [384793-the-other-order.json](./384793-the-other-order.json) |
 | The Other Plumber | 386767 | [386767-the-other-plumber.json](./386767-the-other-plumber.json) |
 | The Other Room | 101663 | [101663-the-other-room.json](./101663-the-other-room.json) |
+| The Other Shore | 246693 | [246693-the-other-shore.json](./246693-the-other-shore.json) |
 | The Other Side | 178673 | [178673-the-other-side.json](./178673-the-other-side.json) |
 | The Other Side | 215087 | [215087-the-other-side.json](./215087-the-other-side.json) |
 | The Other Side | 286264 | [286264-the-other-side.json](./286264-the-other-side.json) |
@@ -17138,6 +17142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tag-along Obsession | 317158 | [317158-the-tag-along-obsession.json](./317158-the-tag-along-obsession.json) |
 | THE Taikan! Sports Pack: Tennis, Bowling, Golf, Billiard | 136638 | [136638-the-taikan-sports-pack-tennis-bowling-golf-billiard.json](./136638-the-taikan-sports-pack-tennis-bowling-golf-billiard.json) |
 | The Tail Of Beta Lyrae | 23578 | [23578-the-tail-of-beta-lyrae.json](./23578-the-tail-of-beta-lyrae.json) |
+| The Tail of CatPat | 246698 | [246698-the-tail-of-catpat.json](./246698-the-tail-of-catpat.json) |
 | The Tail of King Boris of Oris | 364661 | [364661-the-tail-of-king-boris-of-oris.json](./364661-the-tail-of-king-boris-of-oris.json) |
 | The Tail of the Serpent | 178681 | [178681-the-tail-of-the-serpent.json](./178681-the-tail-of-the-serpent.json) |
 | The Tainted | 179297 | [179297-the-tainted.json](./179297-the-tainted.json) |
@@ -25395,6 +25400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torshtra Minkan Setsuwashuu yori: Kokuou no Musume | 386111 | [386111-torshtra-minkan-setsuwashuu-yori-kokuou-no-musume.json](./386111-torshtra-minkan-setsuwashuu-yori-kokuou-no-musume.json) |
 | Torsion | 31464 | [31464-torsion.json](./31464-torsion.json) |
 | Torso Tennis | 292429 | [292429-torso-tennis.json](./292429-torso-tennis.json) |
+| Torte Le Magic | 246694 | [246694-torte-le-magic.json](./246694-torte-le-magic.json) |
 | Torto: Cursed Divine | 140842 | [140842-torto-cursed-divine.json](./140842-torto-cursed-divine.json) |
 | Tortuga | 170232 | [170232-tortuga.json](./170232-tortuga.json) |
 | Tortuga 3 | 392731 | [392731-tortuga-3.json](./392731-tortuga-3.json) |
@@ -32529,6 +32535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Metal: Head-On | 5414 | [5414-twisted-metal-head-on.json](./5414-twisted-metal-head-on.json) |
 | Twisted Metal: Head-On - Extra Twisted Edition | 5415 | [5415-twisted-metal-head-on-extra-twisted-edition.json](./5415-twisted-metal-head-on-extra-twisted-edition.json) |
 | Twisted Metal: Small Brawl | 5417 | [5417-twisted-metal-small-brawl.json](./5417-twisted-metal-small-brawl.json) |
+| Twisted Mettle | 246725 | [246725-twisted-mettle.json](./246725-twisted-mettle.json) |
 | Twisted Mini Golf | 93033 | [93033-twisted-mini-golf.json](./93033-twisted-mini-golf.json) |
 | Twisted Reality | 268894 | [268894-twisted-reality.json](./268894-twisted-reality.json) |
 | Twisted Screens | 302427 | [302427-twisted-screens.json](./302427-twisted-screens.json) |
