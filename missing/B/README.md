@@ -10606,6 +10606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocos Mágicos | 359754 | [359754-blocos-magicos.json](./359754-blocos-magicos.json) |
 | Blocster | 80987 | [80987-blocster.json](./80987-blocster.json) |
 | Blocus | 313263 | [313263-blocus.json](./313263-blocus.json) |
+| Blocxlide | 259324 | [259324-blocxlide.json](./259324-blocxlide.json) |
 | Blodia | 38100 | [38100-blodia.json](./38100-blodia.json) |
 | Blodia Land | 48542 | [48542-blodia-land.json](./48542-blodia-land.json) |
 | Blofeld X | 269108 | [269108-blofeld-x.json](./269108-blofeld-x.json) |
@@ -13416,6 +13417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bou Ningen Challenge! | 222520 | [222520-bou-ningen-challenge.json](./222520-bou-ningen-challenge.json) |
 | Bou's Revenge | 308351 | [308351-bous-revenge.json](./308351-bous-revenge.json) |
 | Bouboum | 155866 | [155866-bouboum.json](./155866-bouboum.json) |
+| Bouga Kyoukai | 259310 | [259310-bouga-kyoukai.json](./259310-bouga-kyoukai.json) |
 | Bouhou Koumakyou 2 | 204075 | [204075-bouhou-koumakyou-2.json](./204075-bouhou-koumakyou-2.json) |
 | Bouhou Koumakyou: Scarlet Family | 204382 | [204382-bouhou-koumakyou-scarlet-family.json](./204382-bouhou-koumakyou-scarlet-family.json) |
 | Bouhou Youyoumu | 204076 | [204076-bouhou-youyoumu.json](./204076-bouhou-youyoumu.json) |
