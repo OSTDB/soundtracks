@@ -19889,6 +19889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Friend Barrington | 398323 | [398323-my-friend-barrington.json](./398323-my-friend-barrington.json) |
 | My Friend Koo | 206771 | [206771-my-friend-koo.json](./206771-my-friend-koo.json) |
 | My Friend Pedro x Shotgun Cop Man Bundle | 349610 | [349610-my-friend-pedro-x-shotgun-cop-man-bundle.json](./349610-my-friend-pedro-x-shotgun-cop-man-bundle.json) |
+| My Friend Pedro: Arena | 289599 | [289599-my-friend-pedro-arena.json](./289599-my-friend-pedro-arena.json) |
 | My Friend Peppa Pig: Complete Edition | 214721 | [214721-my-friend-peppa-pig-complete-edition.json](./214721-my-friend-peppa-pig-complete-edition.json) |
 | My Friend Peppa Pig: Pirate Adventures | 195617 | [195617-my-friend-peppa-pig-pirate-adventures.json](./195617-my-friend-peppa-pig-pirate-adventures.json) |
 | My Friend Spooner | 22137 | [22137-my-friend-spooner.json](./22137-my-friend-spooner.json) |
@@ -19958,6 +19959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Golf Game featuring Ernie Els | 206772 | [206772-my-golf-game-featuring-ernie-els.json](./206772-my-golf-game-featuring-ernie-els.json) |
 | My Goth Girl | 400504 | [400504-my-goth-girl.json](./400504-my-goth-girl.json) |
 | My Grandfather's Secret | 421554 | [421554-my-grandfathers-secret.json](./421554-my-grandfathers-secret.json) |
+| My Grandpa's Haunted House | 289681 | [289681-my-grandpas-haunted-house.json](./289681-my-grandpas-haunted-house.json) |
 | My Grandparent's House | 281595 | [281595-my-grandparents-house.json](./281595-my-grandparents-house.json) |
 | My Grandparents' Christmas Mystery | 236378 | [236378-my-grandparents-christmas-mystery.json](./236378-my-grandparents-christmas-mystery.json) |
 | My granny Lala and me | 183773 | [183773-my-granny-lala-and-me.json](./183773-my-granny-lala-and-me.json) |
