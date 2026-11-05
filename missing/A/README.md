@@ -7930,6 +7930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amagon | 8916 | [8916-amagon.json](./8916-amagon.json) |
 | Amagoushi no Yakata | 68264 | [68264-amagoushi-no-yakata.json](./68264-amagoushi-no-yakata.json) |
 | Amairo Chocolate | 130138 | [130138-amairo-chocolate.json](./130138-amairo-chocolate.json) |
+| Amairo Chocolate 2 | 254817 | [254817-amairo-chocolate-2.json](./254817-amairo-chocolate-2.json) |
 | Amairo Chocolate 2 | 254948 | [254948-amairo-chocolate-2.json](./254948-amairo-chocolate-2.json) |
 | Amairo Chocolate 3 | 381003 | [381003-amairo-chocolate-3.json](./381003-amairo-chocolate-3.json) |
 | Amakano | 128190 | [128190-amakano.json](./128190-amakano.json) |
@@ -13646,7 +13647,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arma 2: Reinforcements | 27453 | [27453-arma-2-reinforcements.json](./27453-arma-2-reinforcements.json) |
 | Arma 3 | 1881 | [1881-arma-3.json](./1881-arma-3.json) |
 | Arma 3 Apex Edition | 204196 | [204196-arma-3-apex-edition.json](./204196-arma-3-apex-edition.json) |
+| Arma 3 Creator DLC: Global Mobilization - Cold War Germany | 254839 | [254839-arma-3-creator-dlc-global-mobilization-cold-war-germany.json](./254839-arma-3-creator-dlc-global-mobilization-cold-war-germany.json) |
 | Arma 3 Creator DLC: S.O.G. Prairie Fire | 234181 | [234181-arma-3-creator-dlc-s-o-g-prairie-fire.json](./234181-arma-3-creator-dlc-s-o-g-prairie-fire.json) |
+| Arma 3 Creator DLC: Western Sahara | 254840 | [254840-arma-3-creator-dlc-western-sahara.json](./254840-arma-3-creator-dlc-western-sahara.json) |
 | Arma 3 Karts | 54786 | [54786-arma-3-karts.json](./54786-arma-3-karts.json) |
 | Arma 3: Apex | 19547 | [19547-arma-3-apex.json](./19547-arma-3-apex.json) |
 | Arma 3: Contact | 121163 | [121163-arma-3-contact.json](./121163-arma-3-contact.json) |
@@ -16385,7 +16388,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
