@@ -6327,6 +6327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin 2: IDK | 314790 | [314790-pikmin-2-idk.json](./314790-pikmin-2-idk.json) |
 | Pikmin 2: New Year | 312294 | [312294-pikmin-2-new-year.json](./312294-pikmin-2-new-year.json) |
 | Pikmin 2: Snowy Tutorial | 314791 | [314791-pikmin-2-snowy-tutorial.json](./314791-pikmin-2-snowy-tutorial.json) |
+| Pikmin 2: The Adventures of Gilbert and Hank | 272072 | [272072-pikmin-2-the-adventures-of-gilbert-and-hank.json](./272072-pikmin-2-the-adventures-of-gilbert-and-hank.json) |
 | Pikmin 2: The Pikmin 2 Experience | 314788 | [314788-pikmin-2-the-pikmin-2-experience.json](./314788-pikmin-2-the-pikmin-2-experience.json) |
 | Pikmin 2: Toxic Dinner | 314784 | [314784-pikmin-2-toxic-dinner.json](./314784-pikmin-2-toxic-dinner.json) |
 | Pikmin 2: Unconventional Bosses | 314789 | [314789-pikmin-2-unconventional-bosses.json](./314789-pikmin-2-unconventional-bosses.json) |
@@ -9298,10 +9299,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies Adventures | 77968 | [77968-plants-vs-zombies-adventures.json](./77968-plants-vs-zombies-adventures.json) |
 | Plants vs. Zombies Delturbia | 343926 | [343926-plants-vs-zombies-delturbia.json](./343926-plants-vs-zombies-delturbia.json) |
 | Plants vs. Zombies DS | 274397 | [274397-plants-vs-zombies-ds.json](./274397-plants-vs-zombies-ds.json) |
+| Plants Vs. Zombies Expanded and Enhanced | 272050 | [272050-plants-vs-zombies-expanded-and-enhanced.json](./272050-plants-vs-zombies-expanded-and-enhanced.json) |
 | Plants vs. Zombies Garden Warfare 2: Deluxe Upgrade | 318695 | [318695-plants-vs-zombies-garden-warfare-2-deluxe-upgrade.json](./318695-plants-vs-zombies-garden-warfare-2-deluxe-upgrade.json) |
 | Plants vs. Zombies Hybrid Version | 324169 | [324169-plants-vs-zombies-hybrid-version.json](./324169-plants-vs-zombies-hybrid-version.json) |
 | Plants vs. Zombies Plus | 271938 | [271938-plants-vs-zombies-plus.json](./271938-plants-vs-zombies-plus.json) |
 | Plants vs. Zombies Presents: Talking Zombatar | 284386 | [284386-plants-vs-zombies-presents-talking-zombatar.json](./284386-plants-vs-zombies-presents-talking-zombatar.json) |
+| Plants vs. Zombies Reseeded | 272051 | [272051-plants-vs-zombies-reseeded.json](./272051-plants-vs-zombies-reseeded.json) |
 | Plants vs. Zombies: Back to the Roots | 228263 | [228263-plants-vs-zombies-back-to-the-roots.json](./228263-plants-vs-zombies-back-to-the-roots.json) |
 | Plants vs. Zombies: Battle for Neighborville | 121618 | [121618-plants-vs-zombies-battle-for-neighborville.json](./121618-plants-vs-zombies-battle-for-neighborville.json) |
 | Plants vs. Zombies: Battle for Neighborville - Complete Edition | 142819 | [142819-plants-vs-zombies-battle-for-neighborville-complete-edition.json](./142819-plants-vs-zombies-battle-for-neighborville-complete-edition.json) |
@@ -10884,6 +10887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Eternal X | 233652 | [233652-pokemon-eternal-x.json](./233652-pokemon-eternal-x.json) |
 | Pokémon Evol | 314729 | [314729-pokemon-evol.json](./314729-pokemon-evol.json) |
 | Pokémon Existence | 314730 | [314730-pokemon-existence.json](./314730-pokemon-existence.json) |
+| Pokémon Fairies | 272077 | [272077-pokemon-fairies.json](./272077-pokemon-fairies.json) |
 | Pokémon Feuergrün Edition | 205126 | [205126-pokemon-feuergrun-edition.json](./205126-pokemon-feuergrun-edition.json) |
 | Pokemon Find The Alphabets | 324527 | [324527-pokemon-find-the-alphabets.json](./324527-pokemon-find-the-alphabets.json) |
 | Pokémon Fire Ash | 135871 | [135871-pokemon-fire-ash.json](./135871-pokemon-fire-ash.json) |
@@ -11207,6 +11211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Supreme Fire | 327263 | [327263-pokemon-supreme-fire.json](./327263-pokemon-supreme-fire.json) |
 | Pokémon Survivor Burst | 414864 | [414864-pokemon-survivor-burst.json](./414864-pokemon-survivor-burst.json) |
 | Pokémon Sweet 2th | 141822 | [141822-pokemon-sweet-2th.json](./141822-pokemon-sweet-2th.json) |
+| Pokémon Sweet Version | 272075 | [272075-pokemon-sweet-version.json](./272075-pokemon-sweet-version.json) |
 | Pokémon Sword & Pokémon Shield Double Pack | 115652 | [115652-pokemon-sword-and-pokemon-shield-double-pack.json](./115652-pokemon-sword-and-pokemon-shield-double-pack.json) |
 | Pokémon Sword & Shield GBA | 165160 | [165160-pokemon-sword-and-shield-gba.json](./165160-pokemon-sword-and-shield-gba.json) |
 | Pokémon Sword + Expansion Pass | 240027 | [240027-pokemon-sword-expansion-pass.json](./240027-pokemon-sword-expansion-pass.json) |
@@ -11544,6 +11549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polaris | 380125 | [380125-polaris.json](./380125-polaris.json) |
 | Polaris Chord | 263343 | [263343-polaris-chord.json](./263343-polaris-chord.json) |
 | Polaris Outpost | 226991 | [226991-polaris-outpost.json](./226991-polaris-outpost.json) |
+| Polaris Outpost | 272037 | [272037-polaris-outpost.json](./272037-polaris-outpost.json) |
 | Polaris Sector | 24620 | [24620-polaris-sector.json](./24620-polaris-sector.json) |
 | Polaris SnoCross | 249122 | [249122-polaris-snocross.json](./249122-polaris-snocross.json) |
 | Polarities | 133177 | [133177-polarities.json](./133177-polarities.json) |
