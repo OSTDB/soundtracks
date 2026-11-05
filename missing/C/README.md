@@ -5670,6 +5670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champion Wrestler | 38092 | [38092-champion-wrestler.json](./38092-champion-wrestler.json) |
 | Champion Wrestler: Jikkyou Raibu | 66482 | [66482-champion-wrestler-jikkyou-raibu.json](./66482-champion-wrestler-jikkyou-raibu.json) |
 | Champion's Ashes | 308144 | [308144-champions-ashes.json](./308144-champions-ashes.json) |
+| Champion's Chalice | 247814 | [247814-champions-chalice.json](./247814-champions-chalice.json) |
 | Champions | 120685 | [120685-champions.json](./120685-champions.json) |
 | Champions | 278368 | [278368-champions.json](./278368-champions.json) |
 | Champions and Challengers | 174739 | [174739-champions-and-challengers.json](./174739-champions-and-challengers.json) |
@@ -14537,6 +14538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corp Wars: Karavan | 60289 | [60289-corp-wars-karavan.json](./60289-corp-wars-karavan.json) |
 | Corpo Connections | 303429 | [303429-corpo-connections.json](./303429-corpo-connections.json) |
 | Corpo/Ghost | 291785 | [291785-corpo-ghost.json](./291785-corpo-ghost.json) |
+| CorpoBots | 247831 | [247831-corpobots.json](./247831-corpobots.json) |
 | Corpoct | 121991 | [121991-corpoct.json](./121991-corpoct.json) |
 | CorpoNation: The Sorting Process | 219744 | [219744-corponation-the-sorting-process.json](./219744-corponation-the-sorting-process.json) |
 | Corporate 0 | 411123 | [411123-corporate-0.json](./411123-corporate-0.json) |
@@ -18178,6 +18180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryght | 188029 | [188029-cryght.json](./188029-cryght.json) |
 | Crying Alone | 277781 | [277781-crying-alone.json](./277781-crying-alone.json) |
 | Crying Aseimei Sendou | 45540 | [45540-crying-aseimei-sendou.json](./45540-crying-aseimei-sendou.json) |
+| Crying Booth | 247812 | [247812-crying-booth.json](./247812-crying-booth.json) |
 | Crying Crystal | 303443 | [303443-crying-crystal.json](./303443-crying-crystal.json) |
 | Crying is not Enough | 99085 | [99085-crying-is-not-enough.json](./99085-crying-is-not-enough.json) |
 | Crying Pony | 245950 | [245950-crying-pony.json](./245950-crying-pony.json) |
