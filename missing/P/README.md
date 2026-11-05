@@ -15110,6 +15110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Programa do Ratinho | 163360 | [163360-programa-do-ratinho.json](./163360-programa-do-ratinho.json) |
 | PrograMaze | 346791 | [346791-programaze.json](./346791-programaze.json) |
 | Programmer Dungeon Knightress | 199566 | [199566-programmer-dungeon-knightress.json](./199566-programmer-dungeon-knightress.json) |
+| Programmer VR | 276544 | [276544-programmer-vr.json](./276544-programmer-vr.json) |
 | Programming | 131093 | [131093-programming.json](./131093-programming.json) |
 | Programming Factory | 295225 | [295225-programming-factory.json](./295225-programming-factory.json) |
 | Progress | 40171 | [40171-progress.json](./40171-progress.json) |
