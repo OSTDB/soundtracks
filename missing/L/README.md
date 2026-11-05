@@ -524,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laika | 184190 | [184190-laika.json](./184190-laika.json) |
 | Laika 2.0 | 57037 | [57037-laika-2-0.json](./57037-laika-2-0.json) |
 | Laika: A Space-Dog Oddyssey | 401033 | [401033-laika-a-space-dog-oddyssey.json](./401033-laika-a-space-dog-oddyssey.json) |
+| Laila | 270993 | [270993-laila.json](./270993-laila.json) |
 | LainTSX | 248784 | [248784-laintsx.json](./248784-laintsx.json) |
 | Lair | 7362 | [7362-lair.json](./7362-lair.json) |
 | Lair Defense: Dungeon | 127893 | [127893-lair-defense-dungeon.json](./127893-lair-defense-dungeon.json) |
@@ -1897,6 +1898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazer Cycle | 8399 | [8399-lazer-cycle.json](./8399-lazer-cycle.json) |
 | Lazer Force | 53161 | [53161-lazer-force.json](./53161-lazer-force.json) |
 | Lazer Maze | 285056 | [285056-lazer-maze.json](./285056-lazer-maze.json) |
+| Lazer Rush Reloaded | 270994 | [270994-lazer-rush-reloaded.json](./270994-lazer-rush-reloaded.json) |
 | Lazer Tag | 54536 | [54536-lazer-tag.json](./54536-lazer-tag.json) |
 | Lazer Tag Arena | 340907 | [340907-lazer-tag-arena.json](./340907-lazer-tag-arena.json) |
 | Lazer Wheel | 38920 | [38920-lazer-wheel.json](./38920-lazer-wheel.json) |
@@ -2916,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion Saga Remastered | 383568 | [383568-legion-saga-remastered.json](./383568-legion-saga-remastered.json) |
 | Legion Tale | 55589 | [55589-legion-tale.json](./55589-legion-tale.json) |
 | Legion TD 2 | 32680 | [32680-legion-td-2.json](./32680-legion-td-2.json) |
+| Legion TD 2: Floating Isles Campaign | 270995 | [270995-legion-td-2-floating-isles-campaign.json](./270995-legion-td-2-floating-isles-campaign.json) |
 | Legion War | 112703 | [112703-legion-war.json](./112703-legion-war.json) |
 | Legion Was Here | 347168 | [347168-legion-was-here.json](./347168-legion-was-here.json) |
 | Legion: Dead Metal | 249214 | [249214-legion-dead-metal.json](./249214-legion-dead-metal.json) |
@@ -3620,6 +3623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Get Grillin' | 342293 | [342293-lets-get-grillin.json](./342293-lets-get-grillin.json) |
 | Let's Get Happy Ending Project Chapter 1 Yume Nikki Time to Wake Up | 229488 | [229488-lets-get-happy-ending-project-chapter-1-yume-nikki-time-to-wake-up.json](./229488-lets-get-happy-ending-project-chapter-1-yume-nikki-time-to-wake-up.json) |
 | Let's Get Rich | 112316 | [112316-lets-get-rich.json](./112316-lets-get-rich.json) |
+| Let's go | 270996 | [270996-lets-go.json](./270996-lets-go.json) |
 | Let's Go | 246466 | [246466-lets-go.json](./246466-lets-go.json) |
 | Let's Go Baby! Suffocation | 201932 | [201932-lets-go-baby-suffocation.json](./201932-lets-go-baby-suffocation.json) |
 | Let's Go Bassfishing! | 282681 | [282681-lets-go-bassfishing.json](./282681-lets-go-bassfishing.json) |
@@ -4739,6 +4743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LightGone | 294374 | [294374-lightgone.json](./294374-lightgone.json) |
 | Lighthaze World | 197264 | [197264-lighthaze-world.json](./197264-lighthaze-world.json) |
 | Lighthockey | 34352 | [34352-lighthockey.json](./34352-lighthockey.json) |
+| Lighthoof | 271000 | [271000-lighthoof.json](./271000-lighthoof.json) |
 | Lighthouse | 262307 | [262307-lighthouse.json](./262307-lighthouse.json) |
 | Lighthouse | 267450 | [267450-lighthouse.json](./267450-lighthouse.json) |
 | Lighthouse | 270715 | [270715-lighthouse.json](./270715-lighthouse.json) |
@@ -5731,6 +5736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Critters 2 | 305179 | [305179-little-critters-2.json](./305179-little-critters-2.json) |
 | Little Crossroads | 374710 | [374710-little-crossroads.json](./374710-little-crossroads.json) |
 | Little Crow, Little Crow | 384491 | [384491-little-crow-little-crow.json](./384491-little-crow-little-crow.json) |
+| Little Dasher! | 271001 | [271001-little-dasher.json](./271001-little-dasher.json) |
 | Little Demon | 61476 | [61476-little-demon.json](./61476-little-demon.json) |
 | Little Dentist | 351702 | [351702-little-dentist.json](./351702-little-dentist.json) |
 | Little Desktop Runner | 385833 | [385833-little-desktop-runner.json](./385833-little-desktop-runner.json) |
@@ -9476,6 +9482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminous Skies: Interstellar | 296962 | [296962-luminous-skies-interstellar.json](./296962-luminous-skies-interstellar.json) |
 | Luminous Storia | 374208 | [374208-luminous-storia.json](./374208-luminous-storia.json) |
 | Luminous Threads: A Visual Novel | 306414 | [306414-luminous-threads-a-visual-novel.json](./306414-luminous-threads-a-visual-novel.json) |
+| Lumins and Shades | 271002 | [271002-lumins-and-shades.json](./271002-lumins-and-shades.json) |
 | Luminus | 169657 | [169657-luminus.json](./169657-luminus.json) |
 | Luminyte | 152720 | [152720-luminyte.json](./152720-luminyte.json) |
 | Lumione | 159539 | [159539-lumione.json](./159539-lumione.json) |
