@@ -1863,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Hunt | 388153 | [388153-santas-hunt.json](./388153-santas-hunt.json) |
 | Santa's Legacy | 391114 | [391114-santas-legacy.json](./391114-santas-legacy.json) |
 | Santa's Letters VR | 257066 | [257066-santas-letters-vr.json](./257066-santas-letters-vr.json) |
+| Santa's Outback Bender | 257169 | [257169-santas-outback-bender.json](./257169-santas-outback-bender.json) |
 | Santa's Reindeer Run | 106367 | [106367-santas-reindeer-run.json](./106367-santas-reindeer-run.json) |
 | Santa's Salvation | 200040 | [200040-santas-salvation.json](./200040-santas-salvation.json) |
 | Santa's Secret Valley | 215791 | [215791-santas-secret-valley.json](./215791-santas-secret-valley.json) |
@@ -7465,6 +7466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shatter Keep | 146826 | [146826-shatter-keep.json](./146826-shatter-keep.json) |
 | Shatter Knight | 412206 | [412206-shatter-knight.json](./412206-shatter-knight.json) |
 | Shatter Point | 343988 | [343988-shatter-point.json](./343988-shatter-point.json) |
+| Shatter Realm | 257147 | [257147-shatter-realm.json](./257147-shatter-realm.json) |
 | Shatter Remastered | 295433 | [295433-shatter-remastered.json](./295433-shatter-remastered.json) |
 | Shatter Remastered Deluxe | 202146 | [202146-shatter-remastered-deluxe.json](./202146-shatter-remastered-deluxe.json) |
 | Shatter Sky | 148676 | [148676-shatter-sky.json](./148676-shatter-sky.json) |
@@ -19299,6 +19301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -19965,6 +19968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceAttack | 68428 | [68428-spaceattack.json](./68428-spaceattack.json) |
 | Spaceball | 112177 | [112177-spaceball.json](./112177-spaceball.json) |
 | Spaceball Revolution | 21059 | [21059-spaceball-revolution.json](./21059-spaceball-revolution.json) |
+| Spaceballs: The Sequel: The Search For More DBP Maps | 257161 | [257161-spaceballs-the-sequel-the-search-for-more-dbp-maps.json](./257161-spaceballs-the-sequel-the-search-for-more-dbp-maps.json) |
 | Spacebar | 177733 | [177733-spacebar.json](./177733-spacebar.json) |
 | Spacebar | 183334 | [183334-spacebar.json](./183334-spacebar.json) |
 | Spacebar | 344361 | [344361-spacebar.json](./344361-spacebar.json) |
@@ -25643,6 +25647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SteamWorld Heist: Ultimate Edition | 77648 | [77648-steamworld-heist-ultimate-edition.json](./77648-steamworld-heist-ultimate-edition.json) |
 | SteamWorld Quest: Hand of Gilgamech | 114415 | [114415-steamworld-quest-hand-of-gilgamech.json](./114415-steamworld-quest-hand-of-gilgamech.json) |
 | Steamwrecked | 387023 | [387023-steamwrecked.json](./387023-steamwrecked.json) |
+| Steamy Bathhouse | 257144 | [257144-steamy-bathhouse.json](./257144-steamy-bathhouse.json) |
 | Steamy Livestreams with My Girlfriend | 396198 | [396198-steamy-livestreams-with-my-girlfriend.json](./396198-steamy-livestreams-with-my-girlfriend.json) |
 | Steamy Sextet | 127997 | [127997-steamy-sextet.json](./127997-steamy-sextet.json) |
 | STED: Iseki Wakusei no Yabou | 48703 | [48703-sted-iseki-wakusei-no-yabou.json](./48703-sted-iseki-wakusei-no-yabou.json) |
@@ -28087,6 +28092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strip Fighter II | 38079 | [38079-strip-fighter-ii.json](./38079-strip-fighter-ii.json) |
 | Strip Fighter IV | 66652 | [66652-strip-fighter-iv.json](./66652-strip-fighter-iv.json) |
 | Strip Fighter Zero | 243505 | [243505-strip-fighter-zero.json](./243505-strip-fighter-zero.json) |
+| Strip in Love | 257178 | [257178-strip-in-love.json](./257178-strip-in-love.json) |
 | Strip Me Down: Jock | 392931 | [392931-strip-me-down-jock.json](./392931-strip-me-down-jock.json) |
 | Strip Me Down: Office Worker | 392935 | [392935-strip-me-down-office-worker.json](./392935-strip-me-down-office-worker.json) |
 | Strip Miner | 348556 | [348556-strip-miner.json](./348556-strip-miner.json) |
@@ -29098,6 +29104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SugarStellar | 225532 | [225532-sugarstellar.json](./225532-sugarstellar.json) |
 | SugarWinds | 139659 | [139659-sugarwinds.json](./139659-sugarwinds.json) |
 | Sugary Delight | 234619 | [234619-sugary-delight.json](./234619-sugary-delight.json) |
+| Sugary Garden | 257170 | [257170-sugary-garden.json](./257170-sugary-garden.json) |
 | Sugary Shifter | 314055 | [314055-sugary-shifter.json](./314055-sugary-shifter.json) |
 | Sugary Spire | 218248 | [218248-sugary-spire.json](./218248-sugary-spire.json) |
 | Sugary Spire: Exhibition Night | 349966 | [349966-sugary-spire-exhibition-night.json](./349966-sugary-spire-exhibition-night.json) |
