@@ -2047,6 +2047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car For Sale Simulator 2023: Super Sports DLC | 275426 | [275426-car-for-sale-simulator-2023-super-sports-dlc.json](./275426-car-for-sale-simulator-2023-super-sports-dlc.json) |
 | Car For Sale Together | 394613 | [394613-car-for-sale-together.json](./394613-car-for-sale-together.json) |
 | Car for Trade | 267352 | [267352-car-for-trade.json](./267352-car-for-trade.json) |
+| Car G1 | 295954 | [295954-car-g1.json](./295954-car-g1.json) |
 | Car Game | 176820 | [176820-car-game.json](./176820-car-game.json) |
 | Car Games for Kids & Toddlers Bundle 3 in 1 | 303878 | [303878-car-games-for-kids-and-toddlers-bundle-3-in-1.json](./303878-car-games-for-kids-and-toddlers-bundle-3-in-1.json) |
 | Car Go Fast | 206121 | [206121-car-go-fast.json](./206121-car-go-fast.json) |
@@ -2171,6 +2172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Soccer World Cup | 120825 | [120825-car-soccer-world-cup.json](./120825-car-soccer-world-cup.json) |
 | Car Street | 349815 | [349815-car-street.json](./349815-car-street.json) |
 | Car Stunt Challenge 2018 | 103060 | [103060-car-stunt-challenge-2018.json](./103060-car-stunt-challenge-2018.json) |
+| Car Tag | 295955 | [295955-car-tag.json](./295955-car-tag.json) |
 | Car Thief Simulator 2017 | 74209 | [74209-car-thief-simulator-2017.json](./74209-car-thief-simulator-2017.json) |
 | Car Trader Simulator | 81162 | [81162-car-trader-simulator.json](./81162-car-trader-simulator.json) |
 | Car Trader Simulator: Welcome to the Business | 171384 | [171384-car-trader-simulator-welcome-to-the-business.json](./171384-car-trader-simulator-welcome-to-the-business.json) |
@@ -2195,6 +2197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car! | 314670 | [314670-car.json](./314670-car.json) |
 | Car's Empire | 176218 | [176218-cars-empire.json](./176218-cars-empire.json) |
 | Car+ Toon Race: Rally Valley Champion | 223757 | [223757-car-toon-race-rally-valley-champion.json](./223757-car-toon-race-rally-valley-champion.json) |
+| Car2 | 295956 | [295956-car2.json](./295956-car2.json) |
 | Cara Night | 46618 | [46618-cara-night.json](./46618-cara-night.json) |
 | Cara's Bouncy Castle | 365019 | [365019-caras-bouncy-castle.json](./365019-caras-bouncy-castle.json) |
 | Cara's Donkey Derby | 365020 | [365020-caras-donkey-derby.json](./365020-caras-donkey-derby.json) |
@@ -6693,6 +6696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChessRogue | 319280 | [319280-chessrogue.json](./319280-chessrogue.json) |
 | ChessRogue | 93479 | [93479-chessrogue.json](./93479-chessrogue.json) |
 | Chesst | 400891 | [400891-chesst.json](./400891-chesst.json) |
+| Chesstempo | 296047 | [296047-chesstempo.json](./296047-chesstempo.json) |
 | Chesster | 35674 | [35674-chesster.json](./35674-chesster.json) |
 | Chesstle | 143411 | [143411-chesstle.json](./143411-chesstle.json) |
 | Chesstris | 361633 | [361633-chesstris.json](./361633-chesstris.json) |
@@ -12113,6 +12117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Columns | 117538 | [117538-columns.json](./117538-columns.json) |
 | Columns | 182891 | [182891-columns.json](./182891-columns.json) |
 | Columns | 284379 | [284379-columns.json](./284379-columns.json) |
+| Columns | 295958 | [295958-columns.json](./295958-columns.json) |
 | Columns | 311356 | [311356-columns.json](./311356-columns.json) |
 | Columns | 4446 | [4446-columns.json](./4446-columns.json) |
 | Columns 2 | 41093 | [41093-columns-2.json](./41093-columns-2.json) |
@@ -12146,6 +12151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat | 131545 | [131545-combat.json](./131545-combat.json) |
 | Combat | 300791 | [300791-combat.json](./300791-combat.json) |
 | Combat 3 | 309974 | [309974-combat-3.json](./309974-combat-3.json) |
+| Combat 3D | 295959 | [295959-combat-3d.json](./295959-combat-3d.json) |
 | Combat Ace | 43260 | [43260-combat-ace.json](./43260-combat-ace.json) |
 | Combat Actions: Vietnam | 108328 | [108328-combat-actions-vietnam.json](./108328-combat-actions-vietnam.json) |
 | Combat Arms | 18940 | [18940-combat-arms.json](./18940-combat-arms.json) |
