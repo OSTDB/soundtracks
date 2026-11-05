@@ -3507,6 +3507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven Slash | 139372 | [139372-heaven-slash.json](./139372-heaven-slash.json) |
 | Heaven Snakes | 202505 | [202505-heaven-snakes.json](./202505-heaven-snakes.json) |
 | Heaven Stroll | 262557 | [262557-heaven-stroll.json](./262557-heaven-stroll.json) |
+| Heaven Studio | 278231 | [278231-heaven-studio.json](./278231-heaven-studio.json) |
 | Heaven Will Be Mine | 69482 | [69482-heaven-will-be-mine.json](./69482-heaven-will-be-mine.json) |
 | Heaven: Dare mo Kimi wo Shiranai | 318932 | [318932-heaven-dare-mo-kimi-wo-shiranai.json](./318932-heaven-dare-mo-kimi-wo-shiranai.json) |
 | Heaven's Bazar: Online | 154997 | [154997-heavens-bazar-online.json](./154997-heavens-bazar-online.json) |
@@ -9378,6 +9379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoodbound | 394478 | [394478-hoodbound.json](./394478-hoodbound.json) |
 | Hooded Horse 4X Strategy Bundle | 231755 | [231755-hooded-horse-4x-strategy-bundle.json](./231755-hooded-horse-4x-strategy-bundle.json) |
 | Hoodgang Simulator | 276872 | [276872-hoodgang-simulator.json](./276872-hoodgang-simulator.json) |
+| Hoodie Survivor | 278236 | [278236-hoodie-survivor.json](./278236-hoodie-survivor.json) |
 | Hoodies Squad: Alcoholypse | 298115 | [298115-hoodies-squad-alcoholypse.json](./298115-hoodies-squad-alcoholypse.json) |
 | Hoodo | 122015 | [122015-hoodo.json](./122015-hoodo.json) |
 | Hoodoo Voodoo | 13879 | [13879-hoodoo-voodoo.json](./13879-hoodoo-voodoo.json) |
