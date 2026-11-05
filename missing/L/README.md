@@ -1838,6 +1838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lay Down Your Roots | 184832 | [184832-lay-down-your-roots.json](./184832-lay-down-your-roots.json) |
 | Laydock | 41683 | [41683-laydock.json](./41683-laydock.json) |
 | Laydock 2: Last Attack | 41682 | [41682-laydock-2-last-attack.json](./41682-laydock-2-last-attack.json) |
+| Laydyon Limit Breaker | 295975 | [295975-laydyon-limit-breaker.json](./295975-laydyon-limit-breaker.json) |
 | Layer - Simple is Hard | 128568 | [128568-layer-simple-is-hard.json](./128568-layer-simple-is-hard.json) |
 | Layer Cake | 370342 | [370342-layer-cake.json](./370342-layer-cake.json) |
 | Layer Front | 108929 | [108929-layer-front.json](./108929-layer-front.json) |
@@ -1953,6 +1954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Bureau Des Rêves | 343306 | [343306-le-bureau-des-reves.json](./343306-le-bureau-des-reves.json) |
 | Le Château | 244484 | [244484-le-chateau.json](./244484-le-chateau.json) |
 | Le Chevalier Blanc | 39112 | [39112-le-chevalier-blanc.json](./39112-le-chevalier-blanc.json) |
+| Le Collage | 295957 | [295957-le-collage.json](./295957-le-collage.json) |
 | Le Comte & la Communiste | 387127 | [387127-le-comte-and-la-communiste.json](./387127-le-comte-and-la-communiste.json) |
 | Le Concert | 309011 | [309011-le-concert.json](./309011-le-concert.json) |
 | Le Concert ff Fortissimo | 309009 | [309009-le-concert-ff-fortissimo.json](./309009-le-concert-ff-fortissimo.json) |
@@ -5899,6 +5901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Mouse's Encyclopedia: Special Edition | 231267 | [231267-little-mouses-encyclopedia-special-edition.json](./231267-little-mouses-encyclopedia-special-edition.json) |
 | Little Mouse's Encyclopedia: Ultimate Edition | 231268 | [231268-little-mouses-encyclopedia-ultimate-edition.json](./231268-little-mouses-encyclopedia-ultimate-edition.json) |
 | Little My Maid | 70480 | [70480-little-my-maid.json](./70480-little-my-maid.json) |
+| Little Necromancer | 295944 | [295944-little-necromancer.json](./295944-little-necromancer.json) |
 | Little Nemo and the Guardians of Slumberland | 204380 | [204380-little-nemo-and-the-guardians-of-slumberland.json](./204380-little-nemo-and-the-guardians-of-slumberland.json) |
 | Little Nemo and the Nightmare Fiends | 208309 | [208309-little-nemo-and-the-nightmare-fiends.json](./208309-little-nemo-and-the-nightmare-fiends.json) |
 | Little Nemo the Clown | 213609 | [213609-little-nemo-the-clown.json](./213609-little-nemo-the-clown.json) |
