@@ -951,7 +951,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3200,6 +3199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bat to Bed | 204964 | [204964-bat-to-bed.json](./204964-bat-to-bed.json) |
 | Bat to the Beat | 319430 | [319430-bat-to-the-beat.json](./319430-bat-to-the-beat.json) |
 | Bat to the Heavens | 307210 | [307210-bat-to-the-heavens.json](./307210-bat-to-the-heavens.json) |
+| Bat Trip | 282368 | [282368-bat-trip.json](./282368-bat-trip.json) |
 | Bat-L-Blocks | 92616 | [92616-bat-l-blocks.json](./92616-bat-l-blocks.json) |
 | Bat-Rush | 372963 | [372963-bat-rush.json](./372963-bat-rush.json) |
 | BataGacha! | 121031 | [121031-batagacha.json](./121031-batagacha.json) |
@@ -11251,6 +11251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blox | 165314 | [165314-blox.json](./165314-blox.json) |
 | Blox | 18322 | [18322-blox.json](./18322-blox.json) |
 | Blox | 361994 | [361994-blox.json](./361994-blox.json) |
+| Blox 2 | 282359 | [282359-blox-2.json](./282359-blox-2.json) |
 | Blox 3D | 100146 | [100146-blox-3d.json](./100146-blox-3d.json) |
 | Blox 3D City Creator | 186424 | [186424-blox-3d-city-creator.json](./186424-blox-3d-city-creator.json) |
 | Blox 3D World | 196053 | [196053-blox-3d-world.json](./196053-blox-3d-world.json) |
