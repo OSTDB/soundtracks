@@ -4807,6 +4807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine Lives | 139614 | [139614-nine-lives.json](./139614-nine-lives.json) |
 | Nine Men's Morris Multiplayer | 351063 | [351063-nine-mens-morris-multiplayer.json](./351063-nine-mens-morris-multiplayer.json) |
 | Nine Mile Ride | 384473 | [384473-nine-mile-ride.json](./384473-nine-mile-ride.json) |
+| Nine Nights | 289678 | [289678-nine-nights.json](./289678-nine-nights.json) |
 | Nine Nights: Martial Ci Lang Story | 300857 | [300857-nine-nights-martial-ci-lang-story.json](./300857-nine-nights-martial-ci-lang-story.json) |
 | Nine of Wands | 163106 | [163106-nine-of-wands.json](./163106-nine-of-wands.json) |
 | Nine Paradise: The Origin | 253349 | [253349-nine-paradise-the-origin.json](./253349-nine-paradise-the-origin.json) |
