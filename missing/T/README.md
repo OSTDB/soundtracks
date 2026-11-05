@@ -9442,6 +9442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Floor Is Made of Lava | 74126 | [74126-the-floor-is-made-of-lava.json](./74126-the-floor-is-made-of-lava.json) |
 | The Floor Is Really Cheap Lava | 115042 | [115042-the-floor-is-really-cheap-lava.json](./115042-the-floor-is-really-cheap-lava.json) |
 | The Floor Is Still Really Cheap Lava | 126981 | [126981-the-floor-is-still-really-cheap-lava.json](./126981-the-floor-is-still-really-cheap-lava.json) |
+| The Floor is Wet | 269883 | [269883-the-floor-is-wet.json](./269883-the-floor-is-wet.json) |
 | The Flow | 140544 | [140544-the-flow.json](./140544-the-flow.json) |
 | The Flow Experience | 191071 | [191071-the-flow-experience.json](./191071-the-flow-experience.json) |
 | The Flower | 361747 | [361747-the-flower.json](./361747-the-flower.json) |
@@ -17864,6 +17865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimate Detective Bundle | 329450 | [329450-the-ultimate-detective-bundle.json](./329450-the-ultimate-detective-bundle.json) |
 | The Ultimate Doom | 10192 | [10192-the-ultimate-doom.json](./10192-the-ultimate-doom.json) |
 | The Ultimate Doom | 260017 | [260017-the-ultimate-doom.json](./260017-the-ultimate-doom.json) |
+| The Ultimate Doom | 269914 | [269914-the-ultimate-doom.json](./269914-the-ultimate-doom.json) |
 | The Ultimate Doom: In Name Only | 259749 | [259749-the-ultimate-doom-in-name-only.json](./259749-the-ultimate-doom-in-name-only.json) |
 | The Ultimate Doom: Knee-Deep in Zdoom | 196708 | [196708-the-ultimate-doom-knee-deep-in-zdoom.json](./196708-the-ultimate-doom-knee-deep-in-zdoom.json) |
 | The Ultimate FMV Bundle | 247132 | [247132-the-ultimate-fmv-bundle.json](./247132-the-ultimate-fmv-bundle.json) |
@@ -26431,6 +26433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Power | 100523 | [100523-tower-power.json](./100523-tower-power.json) |
 | Tower Princess | 115661 | [115661-tower-princess.json](./115661-tower-princess.json) |
 | Tower Quest | 58626 | [58626-tower-quest.json](./58626-tower-quest.json) |
+| Tower RE | 269896 | [269896-tower-re.json](./269896-tower-re.json) |
 | Tower Shield | 387588 | [387588-tower-shield.json](./387588-tower-shield.json) |
 | Tower Skydiver | 226436 | [226436-tower-skydiver.json](./226436-tower-skydiver.json) |
 | Tower Song | 244612 | [244612-tower-song.json](./244612-tower-song.json) |
@@ -32671,6 +32674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type: Rider | 16765 | [16765-type-rider.json](./16765-type-rider.json) |
 | Type: Turbo | 391740 | [391740-type-turbo.json](./391740-type-turbo.json) |
 | Type: Unstable Vampire | 180822 | [180822-type-unstable-vampire.json](./180822-type-unstable-vampire.json) |
+| Typecast | 269911 | [269911-typecast.json](./269911-typecast.json) |
 | TypeCaster | 374215 | [374215-typecaster.json](./374215-typecaster.json) |
 | Typeds | 181542 | [181542-typeds.json](./181542-typeds.json) |
 | Typefighters | 18956 | [18956-typefighters.json](./18956-typefighters.json) |
