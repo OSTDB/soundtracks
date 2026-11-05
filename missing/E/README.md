@@ -2514,6 +2514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elfo: Rescue Craby | 322345 | [322345-elfo-rescue-craby.json](./322345-elfo-rescue-craby.json) |
 | Elfscape: Ancestors | 297923 | [297923-elfscape-ancestors.json](./297923-elfscape-ancestors.json) |
 | Elfsquad7 | 93501 | [93501-elfsquad7.json](./93501-elfsquad7.json) |
+| Elhkia | 291812 | [291812-elhkia.json](./291812-elhkia.json) |
 | Elhosea | 287710 | [287710-elhosea.json](./287710-elhosea.json) |
 | Eli | 177205 | [177205-eli.json](./177205-eli.json) |
 | Eli Girls | 379635 | [379635-eli-girls.json](./379635-eli-girls.json) |
@@ -7385,6 +7386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exile: Wicked Phenomenon | 44315 | [44315-exile-wicked-phenomenon.json](./44315-exile-wicked-phenomenon.json) |
 | Exiled | 283090 | [283090-exiled.json](./283090-exiled.json) |
 | Exiled from Court | 177356 | [177356-exiled-from-court.json](./177356-exiled-from-court.json) |
+| Exiled Into Darkness | 291788 | [291788-exiled-into-darkness.json](./291788-exiled-into-darkness.json) |
 | Exiled Survivors | 278524 | [278524-exiled-survivors.json](./278524-exiled-survivors.json) |
 | Exiler | 307799 | [307799-exiler.json](./307799-exiler.json) |
 | Exiles | 382136 | [382136-exiles.json](./382136-exiles.json) |
