@@ -1949,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ijigen Kara no Dasshutsu: Escape from Twilight Zone | 97326 | [97326-ijigen-kara-no-dasshutsu-escape-from-twilight-zone.json](./97326-ijigen-kara-no-dasshutsu-escape-from-twilight-zone.json) |
 | Ijimerarekko ni Happy End ha Odozureru no ka | 376619 | [376619-ijimerarekko-ni-happy-end-ha-odozureru-no-ka.json](./376619-ijimerarekko-ni-happy-end-ha-odozureru-no-ka.json) |
 | Ijitte! Otouto | 97764 | [97764-ijitte-otouto.json](./97764-ijitte-otouto.json) |
+| Ijiwaru IQ Test | 278202 | [278202-ijiwaru-iq-test.json](./278202-ijiwaru-iq-test.json) |
 | Ika Blade | 268913 | [268913-ika-blade.json](./268913-ika-blade.json) |
 | Ika's Odyssey | 340510 | [340510-ikas-odyssey.json](./340510-ikas-odyssey.json) |
 | IkachanDS | 339243 | [339243-ikachands.json](./339243-ikachands.json) |
