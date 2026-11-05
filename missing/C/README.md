@@ -919,8 +919,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calm Waters | 30971 | [30971-calm-waters.json](./30971-calm-waters.json) |
 | Calmaria: Wild Growth | 422495 | [422495-calmaria-wild-growth.json](./422495-calmaria-wild-growth.json) |
 | Calme | 217182 | [217182-calme.json](./217182-calme.json) |
+| Calmed by the Dark | 282356 | [282356-calmed-by-the-dark.json](./282356-calmed-by-the-dark.json) |
+| Calmed by the Dark In:Finity | 282389 | [282389-calmed-by-the-dark-in-finity.json](./282389-calmed-by-the-dark-in-finity.json) |
 | Calmed by the Dark Re:Boot | 282443 | [282443-calmed-by-the-dark-re-boot.json](./282443-calmed-by-the-dark-re-boot.json) |
+| Calmed by the Dark RE:iterate | 282387 | [282387-calmed-by-the-dark-re-iterate.json](./282387-calmed-by-the-dark-re-iterate.json) |
+| Calmed by the Dark: Aftermath | 282374 | [282374-calmed-by-the-dark-aftermath.json](./282374-calmed-by-the-dark-aftermath.json) |
+| Calmed by the Dark: Complete Edition | 282358 | [282358-calmed-by-the-dark-complete-edition.json](./282358-calmed-by-the-dark-complete-edition.json) |
 | Calmed by the Dark: Leviathan | 153967 | [153967-calmed-by-the-dark-leviathan.json](./153967-calmed-by-the-dark-leviathan.json) |
+| Calmed by the Dark: Neon | 282367 | [282367-calmed-by-the-dark-neon.json](./282367-calmed-by-the-dark-neon.json) |
+| Calmed by the Dark: Purgatorium | 282383 | [282383-calmed-by-the-dark-purgatorium.json](./282383-calmed-by-the-dark-purgatorium.json) |
 | Calmed by the Dαrk | 388788 | [388788-calmed-by-the-d-rk.json](./388788-calmed-by-the-d-rk.json) |
 | Calming Lia | 261161 | [261161-calming-lia.json](./261161-calming-lia.json) |
 | CalmLine | 238448 | [238448-calmline.json](./238448-calmline.json) |
@@ -6505,6 +6512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess | 247071 | [247071-chess.json](./247071-chess.json) |
 | Chess | 25126 | [25126-chess.json](./25126-chess.json) |
 | Chess | 277419 | [277419-chess.json](./277419-chess.json) |
+| Chess | 282404 | [282404-chess.json](./282404-chess.json) |
 | Chess | 302809 | [302809-chess.json](./302809-chess.json) |
 | Chess | 364151 | [364151-chess.json](./364151-chess.json) |
 | Chess | 56599 | [56599-chess.json](./56599-chess.json) |
