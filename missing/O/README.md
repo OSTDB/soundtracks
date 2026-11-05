@@ -357,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Occult PreRaise | 74980 | [74980-occult-preraise.json](./74980-occult-preraise.json) |
 | Occult Raise | 43110 | [43110-occult-raise.json](./43110-occult-raise.json) |
 | Occult ReRaise | 54860 | [54860-occult-reraise.json](./54860-occult-reraise.json) |
+| Occult Secrets of the Third Reich on Mars | 257158 | [257158-occult-secrets-of-the-third-reich-on-mars.json](./257158-occult-secrets-of-the-third-reich-on-mars.json) |
 | Occult: Satanic interrogation | 174574 | [174574-occult-satanic-interrogation.json](./174574-occult-satanic-interrogation.json) |
 | Occult: Scarlet Elegy | 404973 | [404973-occult-scarlet-elegy.json](./404973-occult-scarlet-elegy.json) |
 | OcculThieves | 272374 | [272374-occulthieves.json](./272374-occulthieves.json) |
