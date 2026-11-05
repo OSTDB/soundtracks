@@ -7406,6 +7406,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Turtle Island | 301082 | [301082-word-turtle-island.json](./301082-word-turtle-island.json) |
 | Word Twist! | 241197 | [241197-word-twist.json](./241197-word-twist.json) |
 | Word U | 104600 | [104600-word-u.json](./104600-word-u.json) |
+| Word Universe | 296551 | [296551-word-universe.json](./296551-word-universe.json) |
+| Word Universe: CrossWord | 296552 | [296552-word-universe-crossword.json](./296552-word-universe-crossword.json) |
 | Word Up | 206484 | [206484-word-up.json](./206484-word-up.json) |
 | Word Vomit | 342509 | [342509-word-vomit.json](./342509-word-vomit.json) |
 | Word Vs Picture | 232478 | [232478-word-vs-picture.json](./232478-word-vs-picture.json) |
