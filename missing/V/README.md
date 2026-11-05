@@ -860,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaporspace | 115981 | [115981-vaporspace.json](./115981-vaporspace.json) |
 | Vaporum | 56969 | [56969-vaporum.json](./56969-vaporum.json) |
 | Vaporum: Lockdown | 126812 | [126812-vaporum-lockdown.json](./126812-vaporum-lockdown.json) |
+| Vaporware | 259891 | [259891-vaporware.json](./259891-vaporware.json) |
 | Vaporware Odyssey | 280366 | [280366-vaporware-odyssey.json](./280366-vaporware-odyssey.json) |
 | Vaporwave | 149882 | [149882-vaporwave.json](./149882-vaporwave.json) |
 | Vaporwave Battler | 350522 | [350522-vaporwave-battler.json](./350522-vaporwave-battler.json) |
