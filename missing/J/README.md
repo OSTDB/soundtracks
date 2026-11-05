@@ -2444,6 +2444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Trigger: Avenger Edition | 270291 | [270291-johnny-trigger-avenger-edition.json](./270291-johnny-trigger-avenger-edition.json) |
 | Johnny Trigger: Butcher DLC | 256688 | [256688-johnny-trigger-butcher-dlc.json](./256688-johnny-trigger-butcher-dlc.json) |
 | Johnny Trigger: Butcher Edition | 284935 | [284935-johnny-trigger-butcher-edition.json](./284935-johnny-trigger-butcher-edition.json) |
+| Johnny Trigger: Definitive Edition | 256615 | [256615-johnny-trigger-definitive-edition.json](./256615-johnny-trigger-definitive-edition.json) |
 | Johnny Trigger: Diamond Edition | 393066 | [393066-johnny-trigger-diamond-edition.json](./393066-johnny-trigger-diamond-edition.json) |
 | Johnny Trigger: Emerald Edition | 385203 | [385203-johnny-trigger-emerald-edition.json](./385203-johnny-trigger-emerald-edition.json) |
 | Johnny Trigger: Gold Edition | 396919 | [396919-johnny-trigger-gold-edition.json](./396919-johnny-trigger-gold-edition.json) |
