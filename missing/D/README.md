@@ -9856,6 +9856,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Station #09 | 266405 | [266405-disc-station-09.json](./266405-disc-station-09.json) |
 | Disc Station #11 | 266411 | [266411-disc-station-11.json](./266411-disc-station-11.json) |
 | Disc Station #12 | 266479 | [266479-disc-station-12.json](./266479-disc-station-12.json) |
+| Disc Station #15 | 266559 | [266559-disc-station-15.json](./266559-disc-station-15.json) |
+| Disc Station 16 | 266560 | [266560-disc-station-16.json](./266560-disc-station-16.json) |
 | Disc Station 98 #00 | 266336 | [266336-disc-station-98-00.json](./266336-disc-station-98-00.json) |
 | Disc Station 98 #1 | 266404 | [266404-disc-station-98-1.json](./266404-disc-station-98-1.json) |
 | Disc Station 98 #2 | 336602 | [336602-disc-station-98-2.json](./336602-disc-station-98-2.json) |
@@ -18077,6 +18079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeoneer | 76957 | [76957-dungeoneer.json](./76957-dungeoneer.json) |
 | Dungeoneering | 184432 | [184432-dungeoneering.json](./184432-dungeoneering.json) |
 | Dungeoneers | 154263 | [154263-dungeoneers.json](./154263-dungeoneers.json) |
+| Dungeoneers Academy | 266547 | [266547-dungeoneers-academy.json](./266547-dungeoneers-academy.json) |
 | Dungeonette for Apple Watch | 197751 | [197751-dungeonette-for-apple-watch.json](./197751-dungeonette-for-apple-watch.json) |
 | Dungeonfall | 176657 | [176657-dungeonfall.json](./176657-dungeonfall.json) |
 | Dungeonfall | 380753 | [380753-dungeonfall.json](./380753-dungeonfall.json) |
