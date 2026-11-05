@@ -6742,6 +6742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gon: Baku-baku Baku-baku Adventure | 6785 | [6785-gon-baku-baku-baku-baku-adventure.json](./6785-gon-baku-baku-baku-baku-adventure.json) |
 | Gon' E-Choo! | 19023 | [19023-gon-e-choo.json](./19023-gon-e-choo.json) |
 | Gondola's Adventure | 141707 | [141707-gondolas-adventure.json](./141707-gondolas-adventure.json) |
+| Gondola's Adventure: Single Player & Local Multiplayer | 256046 | [256046-gondolas-adventure-single-player-and-local-multiplayer.json](./256046-gondolas-adventure-single-player-and-local-multiplayer.json) |
 | Gondomania | 40066 | [40066-gondomania.json](./40066-gondomania.json) |
 | Gone | 199927 | [199927-gone.json](./199927-gone.json) |
 | Gone Astray | 68496 | [68496-gone-astray.json](./68496-gone-astray.json) |
@@ -7934,6 +7935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandma Left Me A Building | 410584 | [410584-grandma-left-me-a-building.json](./410584-grandma-left-me-a-building.json) |
 | Grandma With A Gun | 335276 | [335276-grandma-with-a-gun.json](./335276-grandma-with-a-gun.json) |
 | Grandma, No! | 328915 | [328915-grandma-no.json](./328915-grandma-no.json) |
+| Grandma's Cane | 256044 | [256044-grandmas-cane.json](./256044-grandmas-cane.json) |
 | Grandma's Cheese | 246836 | [246836-grandmas-cheese.json](./246836-grandmas-cheese.json) |
 | GrandMa’s Delicious Cakes: A Forgotten Hill Tale | 388677 | [388677-grandma-s-delicious-cakes-a-forgotten-hill-tale.json](./388677-grandma-s-delicious-cakes-a-forgotten-hill-tale.json) |
 | Grandma's Footsteps | 172907 | [172907-grandmas-footsteps.json](./172907-grandmas-footsteps.json) |
