@@ -7893,6 +7893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Rome | 193441 | [193441-grand-theft-rome.json](./193441-grand-theft-rome.json) |
 | Grand Theft Timeline | 410456 | [410456-grand-theft-timeline.json](./410456-grand-theft-timeline.json) |
 | Grand Tits Adventure | 366233 | [366233-grand-tits-adventure.json](./366233-grand-tits-adventure.json) |
+| Grand Tour | 252471 | [252471-grand-tour.json](./252471-grand-tour.json) |
 | Grand Tour Legends | 240969 | [240969-grand-tour-legends.json](./240969-grand-tour-legends.json) |
 | Grand Tour Racing '99 | 91686 | [91686-grand-tour-racing-99.json](./91686-grand-tour-racing-99.json) |
 | Grand Tour Racing: GT-R 400 | 60888 | [60888-grand-tour-racing-gt-r-400.json](./60888-grand-tour-racing-gt-r-400.json) |
@@ -8034,6 +8035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graphwar II | 309395 | [309395-graphwar-ii.json](./309395-graphwar-ii.json) |
 | Grapixo Arte em Guerra | 407522 | [407522-grapixo-arte-em-guerra.json](./407522-grapixo-arte-em-guerra.json) |
 | Grappin | 168699 | [168699-grappin.json](./168699-grappin.json) |
+| Grapplania | 252525 | [252525-grapplania.json](./252525-grapplania.json) |
 | Grapple | 12878 | [12878-grapple.json](./12878-grapple.json) |
 | Grapple Bear | 114538 | [114538-grapple-bear.json](./114538-grapple-bear.json) |
 | Grapple Boy | 62425 | [62425-grapple-boy.json](./62425-grapple-boy.json) |
