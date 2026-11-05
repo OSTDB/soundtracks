@@ -2449,6 +2449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One of Everything | 401471 | [401471-one-of-everything.json](./401471-one-of-everything.json) |
 | One of the Victims | 195100 | [195100-one-of-the-victims.json](./195100-one-of-the-victims.json) |
 | One of Them | 306088 | [306088-one-of-them.json](./306088-one-of-them.json) |
+| One On One | 295981 | [295981-one-on-one.json](./295981-one-on-one.json) |
 | One on One: Dr. J vs. Larry Bird | 69833 | [69833-one-on-one-dr-j-vs-larry-bird.json](./69833-one-on-one-dr-j-vs-larry-bird.json) |
 | One Paradox | 341507 | [341507-one-paradox.json](./341507-one-paradox.json) |
 | One Perfect Day | 264061 | [264061-one-perfect-day.json](./264061-one-perfect-day.json) |
@@ -3330,6 +3331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenXcom | 128210 | [128210-openxcom.json](./128210-openxcom.json) |
 | Opera Fatal | 92908 | [92908-opera-fatal.json](./92908-opera-fatal.json) |
 | Opera Nova | 280084 | [280084-opera-nova.json](./280084-opera-nova.json) |
+| Opera of Destruction | 295982 | [295982-opera-of-destruction.json](./295982-opera-of-destruction.json) |
 | Opera Omnia | 77359 | [77359-opera-omnia.json](./77359-opera-omnia.json) |
 | Opera Prima | 325565 | [325565-opera-prima.json](./325565-opera-prima.json) |
 | Opera Super Sports | 112872 | [112872-opera-super-sports.json](./112872-opera-super-sports.json) |
