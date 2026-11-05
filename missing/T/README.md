@@ -5574,6 +5574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alchemist Alekki | 158901 | [158901-the-alchemist-alekki.json](./158901-the-alchemist-alekki.json) |
 | The Alchemist of Nafiljar | 244906 | [244906-the-alchemist-of-nafiljar.json](./244906-the-alchemist-of-nafiljar.json) |
 | The Alchemist Shop: An Apprentice's Life | 213308 | [213308-the-alchemist-shop-an-apprentices-life.json](./213308-the-alchemist-shop-an-apprentices-life.json) |
+| The Alchemist's Apprentice in the Maze of Madness | 293020 | [293020-the-alchemists-apprentice-in-the-maze-of-madness.json](./293020-the-alchemists-apprentice-in-the-maze-of-madness.json) |
 | The Alchemist's Cards | 397784 | [397784-the-alchemists-cards.json](./397784-the-alchemists-cards.json) |
 | The Alchemist's House | 127527 | [127527-the-alchemists-house.json](./127527-the-alchemists-house.json) |
 | The Alcor Trivia Pro Classic Star Trek (Star-Log I) | 71672 | [71672-the-alcor-trivia-pro-classic-star-trek-star-log-i.json](./71672-the-alcor-trivia-pro-classic-star-trek-star-log-i.json) |
@@ -7973,6 +7974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deadly Facade | 156942 | [156942-the-deadly-facade.json](./156942-the-deadly-facade.json) |
 | The Deadly Path | 253835 | [253835-the-deadly-path.json](./253835-the-deadly-path.json) |
 | The Deadseat | 343226 | [343226-the-deadseat.json](./343226-the-deadseat.json) |
+| The Deal | 292893 | [292893-the-deal.json](./292893-the-deal.json) |
 | The Deal | 30118 | [30118-the-deal.json](./30118-the-deal.json) |
 | The Dealer | 234805 | [234805-the-dealer.json](./234805-the-dealer.json) |
 | The Dearest Person | 301630 | [301630-the-dearest-person.json](./301630-the-dearest-person.json) |
@@ -22253,6 +22255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Lock VR 1 | 393132 | [393132-time-lock-vr-1.json](./393132-time-lock-vr-1.json) |
 | Time Lock VR 2 | 242138 | [242138-time-lock-vr-2.json](./242138-time-lock-vr-2.json) |
 | Time Locker | 58145 | [58145-time-locker.json](./58145-time-locker.json) |
+| Time Locker+ | 292889 | [292889-time-locker.json](./292889-time-locker.json) |
 | Time Loop | 276590 | [276590-time-loop.json](./276590-time-loop.json) |
 | Time Loop Fighter | 117331 | [117331-time-loop-fighter.json](./117331-time-loop-fighter.json) |
 | Time Lord | 18536 | [18536-time-lord.json](./18536-time-lord.json) |
@@ -29173,6 +29176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traumatarium: Penitent | 307745 | [307745-traumatarium-penitent.json](./307745-traumatarium-penitent.json) |
 | Traumatic Syndrome | 132547 | [132547-traumatic-syndrome.json](./132547-traumatic-syndrome.json) |
 | Traumatic Tick Tock Tower | 339024 | [339024-traumatic-tick-tock-tower.json](./339024-traumatic-tick-tock-tower.json) |
+| Träumerei no Haka | 292812 | [292812-traumerei-no-haka.json](./292812-traumerei-no-haka.json) |
 | Träumerei: Chapter 0 | 280929 | [280929-traumerei-chapter-0.json](./280929-traumerei-chapter-0.json) |
 | Träumerei: Chapter 1 | 137355 | [137355-traumerei-chapter-1.json](./137355-traumerei-chapter-1.json) |
 | Träumerei: Chapter 2 | 137465 | [137465-traumerei-chapter-2.json](./137465-traumerei-chapter-2.json) |
