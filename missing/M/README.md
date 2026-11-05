@@ -3167,6 +3167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MaoMaoMao | 392300 | [392300-maomaomao.json](./392300-maomaomao.json) |
 | Maoten | 194576 | [194576-maoten.json](./194576-maoten.json) |
 | Maou Company | 292050 | [292050-maou-company.json](./292050-maou-company.json) |
+| Maou ga Ochiru Hi | 295047 | [295047-maou-ga-ochiru-hi.json](./295047-maou-ga-ochiru-hi.json) |
 | Maou Shoujo Eri | 262262 | [262262-maou-shoujo-eri.json](./262262-maou-shoujo-eri.json) |
 | Maou's Crucible | 381740 | [381740-maous-crucible.json](./381740-maous-crucible.json) |
 | Màoxiǎn Shíguāngjī | 148779 | [148779-maoxian-shiguangji.json](./148779-maoxian-shiguangji.json) |
@@ -9307,6 +9308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meta Lines | 241278 | [241278-meta-lines.json](./241278-meta-lines.json) |
 | Meta Lordz | 270594 | [270594-meta-lordz.json](./270594-meta-lordz.json) |
 | Meta Match | 302199 | [302199-meta-match.json](./302199-meta-match.json) |
+| Meta Meet Cute!!!+ Upgrade | 294926 | [294926-meta-meet-cute-upgrade.json](./294926-meta-meet-cute-upgrade.json) |
 | Meta Nanos: Rumble Race | 263521 | [263521-meta-nanos-rumble-race.json](./263521-meta-nanos-rumble-race.json) |
 | Meta Pong | 304823 | [304823-meta-pong.json](./304823-meta-pong.json) |
 | Meta Revelations - Ring Spirits | 112194 | [112194-meta-revelations-ring-spirits.json](./112194-meta-revelations-ring-spirits.json) |
@@ -21416,6 +21418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystical Riddles: Snowy Peak Hotel - Collector's Edition | 187807 | [187807-mystical-riddles-snowy-peak-hotel-collectors-edition.json](./187807-mystical-riddles-snowy-peak-hotel-collectors-edition.json) |
 | Mystical Samurai | 136453 | [136453-mystical-samurai.json](./136453-mystical-samurai.json) |
 | Mystical Stones | 247172 | [247172-mystical-stones.json](./247172-mystical-stones.json) |
+| Mystical Tactics | 294986 | [294986-mystical-tactics.json](./294986-mystical-tactics.json) |
 | Mysticism | 163040 | [163040-mysticism.json](./163040-mysticism.json) |
 | Mystics Ablaze | 383345 | [383345-mystics-ablaze.json](./383345-mystics-ablaze.json) |
 | Mystified Cat | 291551 | [291551-mystified-cat.json](./291551-mystified-cat.json) |
