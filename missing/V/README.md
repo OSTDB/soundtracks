@@ -616,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Survivors VR | 377650 | [377650-vampire-survivors-vr.json](./377650-vampire-survivors-vr.json) |
 | Vampire Survivors: 1.14 | 375523 | [375523-vampire-survivors-1-14.json](./375523-vampire-survivors-1-14.json) |
 | Vampire Survivors: 1.5 | 252864 | [252864-vampire-survivors-1-5.json](./252864-vampire-survivors-1-5.json) |
+| Vampire Survivors: Adventures | 279372 | [279372-vampire-survivors-adventures.json](./279372-vampire-survivors-adventures.json) |
 | Vampire Survivors: Ante Chamber | 375522 | [375522-vampire-survivors-ante-chamber.json](./375522-vampire-survivors-ante-chamber.json) |
 | Vampire Survivors: Chaos Update | 237316 | [237316-vampire-survivors-chaos-update.json](./237316-vampire-survivors-chaos-update.json) |
 | Vampire Survivors: Emerald Diorama | 339620 | [339620-vampire-survivors-emerald-diorama.json](./339620-vampire-survivors-emerald-diorama.json) |
@@ -3690,6 +3691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voyager I: Sabotage of the Robot Ship | 24848 | [24848-voyager-i-sabotage-of-the-robot-ship.json](./24848-voyager-i-sabotage-of-the-robot-ship.json) |
 | Voyager-19 | 301505 | [301505-voyager-19.json](./301505-voyager-19.json) |
 | Voyagers | 130215 | [130215-voyagers.json](./130215-voyagers.json) |
+| Voyagers of Nera | 279376 | [279376-voyagers-of-nera.json](./279376-voyagers-of-nera.json) |
 | Voyageur | 103240 | [103240-voyageur.json](./103240-voyageur.json) |
 | VoYD | 89211 | [89211-voyd.json](./89211-voyd.json) |
 | Voyeur | 2220 | [2220-voyeur.json](./2220-voyeur.json) |
