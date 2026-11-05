@@ -2765,6 +2765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VirtualCop | 189818 | [189818-virtualcop.json](./189818-virtualcop.json) |
 | Virtuále: Heist Simulations | 338567 | [338567-virtuale-heist-simulations.json](./338567-virtuale-heist-simulations.json) |
 | Virtualis Galeria | 383505 | [383505-virtualis-galeria.json](./383505-virtualis-galeria.json) |
+| Virtualis World | 277679 | [277679-virtualis-world.json](./277679-virtualis-world.json) |
 | Virtuality | 182776 | [182776-virtuality.json](./182776-virtuality.json) |
 | Virtually Board Snowboarding 2 | 202947 | [202947-virtually-board-snowboarding-2.json](./202947-virtually-board-snowboarding-2.json) |
 | Virtually Impossible | 28702 | [28702-virtually-impossible.json](./28702-virtually-impossible.json) |
@@ -3872,6 +3873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Puppet Game | 195927 | [195927-vr-puppet-game.json](./195927-vr-puppet-game.json) |
 | VR Quest: SCP-087 | 114229 | [114229-vr-quest-scp-087.json](./114229-vr-quest-scp-087.json) |
 | VR Quiet Life | 139716 | [139716-vr-quiet-life.json](./139716-vr-quiet-life.json) |
+| VR Racing | 277640 | [277640-vr-racing.json](./277640-vr-racing.json) |
 | VR Racing on Dinosaur Island | 236175 | [236175-vr-racing-on-dinosaur-island.json](./236175-vr-racing-on-dinosaur-island.json) |
 | VR Racket Ball | 68770 | [68770-vr-racket-ball.json](./68770-vr-racket-ball.json) |
 | VR Refuse Classification | 127659 | [127659-vr-refuse-classification.json](./127659-vr-refuse-classification.json) |
