@@ -604,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Want To Go Home | 278952 | [278952-i-want-to-go-home.json](./278952-i-want-to-go-home.json) |
 | I Want to Go to Mars | 130363 | [130363-i-want-to-go-to-mars.json](./130363-i-want-to-go-to-mars.json) |
 | I Want To Make Something Beautiful | 391209 | [391209-i-want-to-make-something-beautiful.json](./391209-i-want-to-make-something-beautiful.json) |
+| I want to monopolize the older sister! | 264952 | [264952-i-want-to-monopolize-the-older-sister.json](./264952-i-want-to-monopolize-the-older-sister.json) |
 | I Want to Play the Villain! | 412542 | [412542-i-want-to-play-the-villain.json](./412542-i-want-to-play-the-villain.json) |
 | I Want to Pursue the Mean Side Character! | 178897 | [178897-i-want-to-pursue-the-mean-side-character.json](./178897-i-want-to-pursue-the-mean-side-character.json) |
 | I Want to Run Away From My Goth Mommy... or Do I? | 372691 | [372691-i-want-to-run-away-from-my-goth-mommy-or-do-i.json](./372691-i-want-to-run-away-from-my-goth-mommy-or-do-i.json) |
@@ -2910,6 +2911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Rim | 103398 | [103398-in-the-rim.json](./103398-in-the-rim.json) |
 | In The Ruined Courtyard | 260420 | [260420-in-the-ruined-courtyard.json](./260420-in-the-ruined-courtyard.json) |
 | In the Rural Village of Nagoro | 223798 | [223798-in-the-rural-village-of-nagoro.json](./223798-in-the-rural-village-of-nagoro.json) |
+| In the Same Boat | 265448 | [265448-in-the-same-boat.json](./265448-in-the-same-boat.json) |
 | In the Search For: Revenge | 133055 | [133055-in-the-search-for-revenge.json](./133055-in-the-search-for-revenge.json) |
 | In the Service of Mrs. Claus | 126773 | [126773-in-the-service-of-mrs-claus.json](./126773-in-the-service-of-mrs-claus.json) |
 | In the Shadow of the Truth | 32798 | [32798-in-the-shadow-of-the-truth.json](./32798-in-the-shadow-of-the-truth.json) |
@@ -3446,6 +3448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inertial Craft | 309953 | [309953-inertial-craft.json](./309953-inertial-craft.json) |
 | Inertial Drift | 127770 | [127770-inertial-drift.json](./127770-inertial-drift.json) |
 | Inertial Drift: Twilight Rivals Edition | 203517 | [203517-inertial-drift-twilight-rivals-edition.json](./203517-inertial-drift-twilight-rivals-edition.json) |
+| Inertix | 264974 | [264974-inertix.json](./264974-inertix.json) |
 | Ines | 340925 | [340925-ines.json](./340925-ines.json) |
 | Inescapable | 17302 | [17302-inescapable.json](./17302-inescapable.json) |
 | Inescapable VR: Underground | 51571 | [51571-inescapable-vr-underground.json](./51571-inescapable-vr-underground.json) |
@@ -5976,6 +5979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai: Slow Life | 261796 | [261796-isekai-slow-life.json](./261796-isekai-slow-life.json) |
 | Isekai: Waifu Overlord | 419904 | [419904-isekai-waifu-overlord.json](./419904-isekai-waifu-overlord.json) |
 | Isekai: Warrior's Kiss | 298997 | [298997-isekai-warriors-kiss.json](./298997-isekai-warriors-kiss.json) |
+| Isekai'd | 265438 | [265438-isekaid.json](./265438-isekaid.json) |
 | Isekaing: From Zero to Zero | 323548 | [323548-isekaing-from-zero-to-zero.json](./323548-isekaing-from-zero-to-zero.json) |
 | Isekat: Crushed by a Computer, My Beloved Kitten is Transported to a Fantasy World where its Typing Skills Save the Kingdom! | 346161 | [346161-isekat-crushed-by-a-computer-my-beloved-kitten-is-transported-to-a-fantasy-world-where-its-typing-skills-save-the-kingdom.json](./346161-isekat-crushed-by-a-computer-my-beloved-kitten-is-transported-to-a-fantasy-world-where-its-typing-skills-save-the-kingdom.json) |
 | isekizima: Ruins and Tails Journey | 285950 | [285950-isekizima-ruins-and-tails-journey.json](./285950-isekizima-ruins-and-tails-journey.json) |
