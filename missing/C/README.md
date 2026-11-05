@@ -3152,6 +3152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Case Kovacs: Agent 228 | 171467 | [171467-case-kovacs-agent-228.json](./171467-case-kovacs-agent-228.json) |
 | Case No.1: Rose Academy | 370266 | [370266-case-no-1-rose-academy.json](./370266-case-no-1-rose-academy.json) |
 | Case of 1980 | 413016 | [413016-case-of-1980.json](./413016-case-of-1980.json) |
+| Case of Dungeons | 268808 | [268808-case-of-dungeons.json](./268808-case-of-dungeons.json) |
 | Case of the Canvas | 301475 | [301475-case-of-the-canvas.json](./301475-case-of-the-canvas.json) |
 | Case of the Mysterious Death of Keiko Haraeda | 267862 | [267862-case-of-the-mysterious-death-of-keiko-haraeda.json](./267862-case-of-the-mysterious-death-of-keiko-haraeda.json) |
 | Case Records: Fear of Abduction | 294017 | [294017-case-records-fear-of-abduction.json](./294017-case-records-fear-of-abduction.json) |
