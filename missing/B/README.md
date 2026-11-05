@@ -954,7 +954,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1159,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakemonogatari Portable | 42800 | [42800-bakemonogatari-portable.json](./42800-bakemonogatari-portable.json) |
 | Baker Business 2 | 99346 | [99346-baker-business-2.json](./99346-baker-business-2.json) |
 | Baker Business 3 | 235967 | [235967-baker-business-3.json](./235967-baker-business-3.json) |
+| Baker Business 3: Christmas Pack | 263267 | [263267-baker-business-3-christmas-pack.json](./263267-baker-business-3-christmas-pack.json) |
 | Baker Business 3: Halloween Pack | 263107 | [263107-baker-business-3-halloween-pack.json](./263107-baker-business-3-halloween-pack.json) |
 | Baker Business 3: Spring Pack | 243049 | [243049-baker-business-3-spring-pack.json](./243049-baker-business-3-spring-pack.json) |
 | Baker Street Breakouts | 274852 | [274852-baker-street-breakouts.json](./274852-baker-street-breakouts.json) |
@@ -2596,6 +2596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bare Knuckle III | 151541 | [151541-bare-knuckle-iii.json](./151541-bare-knuckle-iii.json) |
 | Bare Knuckle Sandwich | 259046 | [259046-bare-knuckle-sandwich.json](./259046-bare-knuckle-sandwich.json) |
 | Bare Metal | 76688 | [76688-bare-metal.json](./76688-bare-metal.json) |
+| Bareback Reincarnation: It's Just That Easy to Brave a Different World | 263270 | [263270-bareback-reincarnation-its-just-that-easy-to-brave-a-different-world.json](./263270-bareback-reincarnation-its-just-that-easy-to-brave-a-different-world.json) |
 | Barefort | 390612 | [390612-barefort.json](./390612-barefort.json) |
 | Barely Afloat | 123579 | [123579-barely-afloat.json](./123579-barely-afloat.json) |
 | Barely Alive | 387111 | [387111-barely-alive.json](./387111-barely-alive.json) |
@@ -7394,6 +7395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Ichigeki! Pachi-Slot Daikouryaku 2: Universal Collection | 38157 | [38157-big-ichigeki-pachi-slot-daikouryaku-2-universal-collection.json](./38157-big-ichigeki-pachi-slot-daikouryaku-2-universal-collection.json) |
 | Big Ichigeki! Pachislot Daikouryaku: Universal Museum | 137596 | [137596-big-ichigeki-pachislot-daikouryaku-universal-museum.json](./137596-big-ichigeki-pachislot-daikouryaku-universal-museum.json) |
 | Big Jays Rattastic Adventure | 370430 | [370430-big-jays-rattastic-adventure.json](./370430-big-jays-rattastic-adventure.json) |
+| Big Job | 263284 | [263284-big-job.json](./263284-big-job.json) |
 | Big Journey to Home | 34803 | [34803-big-journey-to-home.json](./34803-big-journey-to-home.json) |
 | Big Kahuna Party | 51085 | [51085-big-kahuna-party.json](./51085-big-kahuna-party.json) |
 | Big Kahuna Reef | 615 | [615-big-kahuna-reef.json](./615-big-kahuna-reef.json) |
@@ -7898,6 +7900,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Pinball Gameroom: Bally Beach Beauty | 265173 | [265173-bingo-pinball-gameroom-bally-beach-beauty.json](./265173-bingo-pinball-gameroom-bally-beach-beauty.json) |
 | Bingo Pinball Gameroom: Bally Beach Club | 265175 | [265175-bingo-pinball-gameroom-bally-beach-club.json](./265175-bingo-pinball-gameroom-bally-beach-club.json) |
 | Bingo Pinball Gameroom: Bally Beach Time | 265174 | [265174-bingo-pinball-gameroom-bally-beach-time.json](./265174-bingo-pinball-gameroom-bally-beach-time.json) |
+| Bingo Pinball Gameroom: Bally Beauty | 263294 | [263294-bingo-pinball-gameroom-bally-beauty.json](./263294-bingo-pinball-gameroom-bally-beauty.json) |
+| Bingo Pinball Gameroom: Bally Big Show | 263292 | [263292-bingo-pinball-gameroom-bally-big-show.json](./263292-bingo-pinball-gameroom-bally-big-show.json) |
+| Bingo Pinball Gameroom: Bally Big Time | 263295 | [263295-bingo-pinball-gameroom-bally-big-time.json](./263295-bingo-pinball-gameroom-bally-big-time.json) |
+| Bingo Pinball Gameroom: Bally Bikini | 263293 | [263293-bingo-pinball-gameroom-bally-bikini.json](./263293-bingo-pinball-gameroom-bally-bikini.json) |
+| Bingo Pinball Gameroom: Bally Miss America Deluxe | 263291 | [263291-bingo-pinball-gameroom-bally-miss-america-deluxe.json](./263291-bingo-pinball-gameroom-bally-miss-america-deluxe.json) |
+| Bingo Pinball Gameroom: Bally Show Time | 263290 | [263290-bingo-pinball-gameroom-bally-show-time.json](./263290-bingo-pinball-gameroom-bally-show-time.json) |
 | Bingo Pinball Gameroom: Bally Yacht Club | 265168 | [265168-bingo-pinball-gameroom-bally-yacht-club.json](./265168-bingo-pinball-gameroom-bally-yacht-club.json) |
 | Bingo Pinball Gameroom: United Brazil | 265166 | [265166-bingo-pinball-gameroom-united-brazil.json](./265166-bingo-pinball-gameroom-united-brazil.json) |
 | Bingo Pinball Gameroom: United Caravan | 265165 | [265165-bingo-pinball-gameroom-united-caravan.json](./265165-bingo-pinball-gameroom-united-caravan.json) |
@@ -8519,6 +8527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit.Trip Complete | 4719 | [4719-bit-trip-complete.json](./4719-bit-trip-complete.json) |
 | Bit.Trip Core | 15280 | [15280-bit-trip-core.json](./15280-bit-trip-core.json) |
 | Bit.Trip Presents... Runner2: Future Legend of Rhythm Alien | 5592 | [5592-bit-trip-presents-runner2-future-legend-of-rhythm-alien.json](./5592-bit-trip-presents-runner2-future-legend-of-rhythm-alien.json) |
+| Bit.Trip Rerunner | 263289 | [263289-bit-trip-rerunner.json](./263289-bit-trip-rerunner.json) |
 | Bit.Trip Saga | 21894 | [21894-bit-trip-saga.json](./21894-bit-trip-saga.json) |
 | Bit.Trip Void 2 | 323786 | [323786-bit-trip-void-2.json](./323786-bit-trip-void-2.json) |
 | Bit//Cycle | 386828 | [386828-bit-cycle.json](./386828-bit-cycle.json) |
@@ -15690,6 +15699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bronzebeard's Tavern: Supporter Pack | 293450 | [293450-bronzebeards-tavern-supporter-pack.json](./293450-bronzebeards-tavern-supporter-pack.json) |
 | Bronzette | 183267 | [183267-bronzette.json](./183267-bronzette.json) |
 | Brood | 116514 | [116514-brood.json](./116514-brood.json) |
+| Brood Ma: Dadda | 263272 | [263272-brood-ma-dadda.json](./263272-brood-ma-dadda.json) |
 | Brood of Hatred | 261444 | [261444-brood-of-hatred.json](./261444-brood-of-hatred.json) |
 | BroodStar | 140204 | [140204-broodstar.json](./140204-broodstar.json) |
 | Brooke vs. World Doom | 190837 | [190837-brooke-vs-world-doom.json](./190837-brooke-vs-world-doom.json) |
@@ -17660,6 +17670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 21: Iveco Bus Pack | 197557 | [197557-bus-simulator-21-iveco-bus-pack.json](./197557-bus-simulator-21-iveco-bus-pack.json) |
 | Bus Simulator 21: MAN Bus Pack | 213951 | [213951-bus-simulator-21-man-bus-pack.json](./213951-bus-simulator-21-man-bus-pack.json) |
 | Bus Simulator 21: Next Stop | 240037 | [240037-bus-simulator-21-next-stop.json](./240037-bus-simulator-21-next-stop.json) |
+| Bus Simulator 21: Next Stop - Christmas Skin Pack | 263300 | [263300-bus-simulator-21-next-stop-christmas-skin-pack.json](./263300-bus-simulator-21-next-stop-christmas-skin-pack.json) |
 | Bus Simulator 21: Next Stop - Ebusco Bus Pack | 249892 | [249892-bus-simulator-21-next-stop-ebusco-bus-pack.json](./249892-bus-simulator-21-next-stop-ebusco-bus-pack.json) |
 | Bus Simulator 21: Next Stop - Gold Edition | 240038 | [240038-bus-simulator-21-next-stop-gold-edition.json](./240038-bus-simulator-21-next-stop-gold-edition.json) |
 | Bus Simulator 21: Next Stop - Halloween Skin Pack | 263040 | [263040-bus-simulator-21-next-stop-halloween-skin-pack.json](./263040-bus-simulator-21-next-stop-halloween-skin-pack.json) |
