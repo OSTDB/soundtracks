@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Felix Tennis | 45102 | [45102-baby-felix-tennis.json](./45102-baby-felix-tennis.json) |
 | Baby Felix's Activity Center | 200377 | [200377-baby-felixs-activity-center.json](./200377-baby-felixs-activity-center.json) |
 | Baby Felix's Shuffle Puck | 200375 | [200375-baby-felixs-shuffle-puck.json](./200375-baby-felixs-shuffle-puck.json) |
+| Baby Frogs | 269347 | [269347-baby-frogs.json](./269347-baby-frogs.json) |
 | Baby Game Plan 0-3 | 379611 | [379611-baby-game-plan-0-3.json](./379611-baby-game-plan-0-3.json) |
 | Baby Ghost: Jump Away With Jewel | 175361 | [175361-baby-ghost-jump-away-with-jewel.json](./175361-baby-ghost-jump-away-with-jewel.json) |
 | Baby Goat Billy | 159826 | [159826-baby-goat-billy.json](./159826-baby-goat-billy.json) |
@@ -960,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Rats Revenge | 255480 | [255480-bad-rats-revenge.json](./255480-bad-rats-revenge.json) |
 | Bad Rats Show | 27510 | [27510-bad-rats-show.json](./27510-bad-rats-show.json) |
 | Bad Roads | 256432 | [256432-bad-roads.json](./256432-bad-roads.json) |
+| Bad Roads Go | 269350 | [269350-bad-roads-go.json](./269350-bad-roads-go.json) |
 | Bad Run: Turbo Edition | 132670 | [132670-bad-run-turbo-edition.json](./132670-bad-run-turbo-edition.json) |
 | Bad Santa | 226240 | [226240-bad-santa.json](./226240-bad-santa.json) |
 | Bad Santa | 281946 | [281946-bad-santa.json](./281946-bad-santa.json) |
@@ -1205,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakudan Baku-tan | 319096 | [319096-bakudan-baku-tan.json](./319096-bakudan-baku-tan.json) |
 | Bakudan Hero | 216638 | [216638-bakudan-hero.json](./216638-bakudan-hero.json) |
 | Bakuden Unbalance Zone | 46381 | [46381-bakuden-unbalance-zone.json](./46381-bakuden-unbalance-zone.json) |
+| Bakufuu Slash! Kizuna Arashi | 269358 | [269358-bakufuu-slash-kizuna-arashi.json](./269358-bakufuu-slash-kizuna-arashi.json) |
 | Bakugan Battle Brawlers | 328395 | [328395-bakugan-battle-brawlers.json](./328395-bakugan-battle-brawlers.json) |
 | Bakugan Battle Brawlers: Arcade Battlers | 122989 | [122989-bakugan-battle-brawlers-arcade-battlers.json](./122989-bakugan-battle-brawlers-arcade-battlers.json) |
 | Bakugan Battle Brawlers: Battle Trainer | 122863 | [122863-bakugan-battle-brawlers-battle-trainer.json](./122863-bakugan-battle-brawlers-battle-trainer.json) |
@@ -4975,6 +4978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Quest: Ultimate Heroes | 175761 | [175761-beast-quest-ultimate-heroes.json](./175761-beast-quest-ultimate-heroes.json) |
 | Beast Saga | 334624 | [334624-beast-saga.json](./334624-beast-saga.json) |
 | Beast Saga Saikyou Gekiotsu Coliseum | 222442 | [222442-beast-saga-saikyou-gekiotsu-coliseum.json](./222442-beast-saga-saikyou-gekiotsu-coliseum.json) |
+| Beast Sapp | 269365 | [269365-beast-sapp.json](./269365-beast-sapp.json) |
 | Beast Slayer | 254014 | [254014-beast-slayer.json](./254014-beast-slayer.json) |
 | Beast Slayer Origin | 333482 | [333482-beast-slayer-origin.json](./333482-beast-slayer-origin.json) |
 | Beast Survivor | 374792 | [374792-beast-survivor.json](./374792-beast-survivor.json) |
@@ -5396,6 +5400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | beatmania complete MIX | 94744 | [94744-beatmania-complete-mix.json](./94744-beatmania-complete-mix.json) |
 | beatmania complete MIX 2 | 92674 | [92674-beatmania-complete-mix-2.json](./92674-beatmania-complete-mix-2.json) |
 | Beatmania Core Remix | 97183 | [97183-beatmania-core-remix.json](./97183-beatmania-core-remix.json) |
+| Beatmania Da Da Da!! | 269359 | [269359-beatmania-da-da-da.json](./269359-beatmania-da-da-da.json) |
 | beatmania DA!! | 134407 | [134407-beatmania-da.json](./134407-beatmania-da.json) |
 | Beatmania featuring Dreams Come True | 308989 | [308989-beatmania-featuring-dreams-come-true.json](./308989-beatmania-featuring-dreams-come-true.json) |
 | Beatmania for WonderSwan | 135089 | [135089-beatmania-for-wonderswan.json](./135089-beatmania-for-wonderswan.json) |
@@ -6299,6 +6304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben and Holly: Big Star Fun | 109009 | [109009-ben-and-holly-big-star-fun.json](./109009-ben-and-holly-big-star-fun.json) |
 | Ben Bero Beh | 40265 | [40265-ben-bero-beh.json](./40265-ben-bero-beh.json) |
 | Ben Bildim | 360447 | [360447-ben-bildim.json](./360447-ben-bildim.json) |
+| Ben Hur: Blood of Braves | 269362 | [269362-ben-hur-blood-of-braves.json](./269362-ben-hur-blood-of-braves.json) |
 | Ben Jordan: Paranormal Investigator | 127124 | [127124-ben-jordan-paranormal-investigator.json](./127124-ben-jordan-paranormal-investigator.json) |
 | Ben Jordan: Paranormal Investigator - Case 1: In Search of the Skunk-Ape | 78058 | [78058-ben-jordan-paranormal-investigator-case-1-in-search-of-the-skunk-ape.json](./78058-ben-jordan-paranormal-investigator-case-1-in-search-of-the-skunk-ape.json) |
 | Ben Jordan: Paranormal Investigator - Case 1: In Search of the Skunk-Ape - Deluxe Edition | 137510 | [137510-ben-jordan-paranormal-investigator-case-1-in-search-of-the-skunk-ape-deluxe-edition.json](./137510-ben-jordan-paranormal-investigator-case-1-in-search-of-the-skunk-ape-deluxe-edition.json) |
@@ -7485,6 +7491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Truck 4X4 Challenge | 385266 | [385266-big-truck-4x4-challenge.json](./385266-big-truck-4x4-challenge.json) |
 | Big Truck: Mine Express Racing | 200265 | [200265-big-truck-mine-express-racing.json](./200265-big-truck-mine-express-racing.json) |
 | Big TV Mary Bar | 48324 | [48324-big-tv-mary-bar.json](./48324-big-tv-mary-bar.json) |
+| Big Vehicle Simulator Games Bundle: Truck Farming Flight Construction Bus Ship | 269361 | [269361-big-vehicle-simulator-games-bundle-truck-farming-flight-construction-bus-ship.json](./269361-big-vehicle-simulator-games-bundle-truck-farming-flight-construction-bus-ship.json) |
 | Big Watermelon | 149358 | [149358-big-watermelon.json](./149358-big-watermelon.json) |
 | Big Watermelon Galaxy | 420677 | [420677-big-watermelon-galaxy.json](./420677-big-watermelon-galaxy.json) |
 | Big Watermelon Match | 283295 | [283295-big-watermelon-match.json](./283295-big-watermelon-match.json) |
@@ -7629,6 +7636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikini Karate Babes | 51236 | [51236-bikini-karate-babes.json](./51236-bikini-karate-babes.json) |
 | Bikini Match Girls | 395650 | [395650-bikini-match-girls.json](./395650-bikini-match-girls.json) |
 | Bikini Tits | 192765 | [192765-bikini-tits.json](./192765-bikini-tits.json) |
+| Bikkuri Mouse | 269370 | [269370-bikkuri-mouse.json](./269370-bikkuri-mouse.json) |
 | Bikkuri Nekketsu Shinkiroku: Dokodemo Kin Medal | 49108 | [49108-bikkuri-nekketsu-shinkiroku-dokodemo-kin-medal.json](./49108-bikkuri-nekketsu-shinkiroku-dokodemo-kin-medal.json) |
 | Bikkuri Pachinko: Ashita no Joe Kyoraku Collection Vol. 1 | 65561 | [65561-bikkuri-pachinko-ashita-no-joe-kyoraku-collection-vol-1.json](./65561-bikkuri-pachinko-ashita-no-joe-kyoraku-collection-vol-1.json) |
 | Bikkuri Pro Wrestling | 264252 | [264252-bikkuri-pro-wrestling.json](./264252-bikkuri-pro-wrestling.json) |
@@ -11745,6 +11753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob The Astronaut | 289404 | [289404-bob-the-astronaut.json](./289404-bob-the-astronaut.json) |
 | Bob the Block: Rebooted | 296499 | [296499-bob-the-block-rebooted.json](./296499-bob-the-block-rebooted.json) |
 | Bob the Builder | 220261 | [220261-bob-the-builder.json](./220261-bob-the-builder.json) |
+| Bob the Builder | 269369 | [269369-bob-the-builder.json](./269369-bob-the-builder.json) |
 | Bob the Builder | 83246 | [83246-bob-the-builder.json](./83246-bob-the-builder.json) |
 | Bob the Builder: Bob Builds A Park | 72055 | [72055-bob-the-builder-bob-builds-a-park.json](./72055-bob-the-builder-bob-builds-a-park.json) |
 | Bob the Builder: Bob's Busy Day | 79712 | [79712-bob-the-builder-bobs-busy-day.json](./79712-bob-the-builder-bobs-busy-day.json) |
@@ -12099,6 +12108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bold | 243680 | [243680-bold.json](./243680-bold.json) |
 | Bold Blade | 81010 | [81010-bold-blade.json](./81010-bold-blade.json) |
 | Bold Moves | 249384 | [249384-bold-moves.json](./249384-bold-moves.json) |
+| Bold Moves+ | 269352 | [269352-bold-moves.json](./269352-bold-moves.json) |
 | Bold New World | 29726 | [29726-bold-new-world.json](./29726-bold-new-world.json) |
 | Bold: Networked Newt Action | 397821 | [397821-bold-networked-newt-action.json](./397821-bold-networked-newt-action.json) |
 | Boldly Forward | 383997 | [383997-boldly-forward.json](./383997-boldly-forward.json) |
@@ -14768,6 +14778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break the Fireline | 230847 | [230847-break-the-fireline.json](./230847-break-the-fireline.json) |
 | Break the Food Chain | 50746 | [50746-break-the-food-chain.json](./50746-break-the-food-chain.json) |
 | Break the Game | 74983 | [74983-break-the-game.json](./74983-break-the-game.json) |
+| Break the Glass Cup: Breaking Physics Puzzle | 269364 | [269364-break-the-glass-cup-breaking-physics-puzzle.json](./269364-break-the-glass-cup-breaking-physics-puzzle.json) |
 | Break the Ice | 359739 | [359739-break-the-ice.json](./359739-break-the-ice.json) |
 | Break the Ice Sushi Pack | 77610 | [77610-break-the-ice-sushi-pack.json](./77610-break-the-ice-sushi-pack.json) |
 | Break The Line | 296500 | [296500-break-the-line.json](./296500-break-the-line.json) |
