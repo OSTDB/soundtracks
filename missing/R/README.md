@@ -2346,6 +2346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman | 193322 | [193322-rayman.json](./193322-rayman.json) |
 | Rayman | 193324 | [193324-rayman.json](./193324-rayman.json) |
 | Rayman | 1963 | [1963-rayman.json](./1963-rayman.json) |
+| Rayman | 283431 | [283431-rayman.json](./283431-rayman.json) |
 | Rayman | 85578 | [85578-rayman.json](./85578-rayman.json) |
 | Rayman 1 & Rayman 2 Double Pack | 193342 | [193342-rayman-1-and-rayman-2-double-pack.json](./193342-rayman-1-and-rayman-2-double-pack.json) |
 | Rayman 100 Levels | 193337 | [193337-rayman-100-levels.json](./193337-rayman-100-levels.json) |
