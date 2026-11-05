@@ -1189,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can You Survive?: Survival World | 95825 | [95825-can-you-survive-survival-world.json](./95825-can-you-survive-survival-world.json) |
 | Can Your Pet | 215086 | [215086-can-your-pet.json](./215086-can-your-pet.json) |
 | Can Your Pet 2: Returns | 240842 | [240842-can-your-pet-2-returns.json](./240842-can-your-pet-2-returns.json) |
+| Can Your Talking? | 248269 | [248269-can-your-talking.json](./248269-can-your-talking.json) |
 | Can't Be Touched | 252892 | [252892-cant-be-touched.json](./252892-cant-be-touched.json) |
 | Can't buy me love! | 363940 | [363940-cant-buy-me-love.json](./363940-cant-buy-me-love.json) |
 | Can't Drive This | 27097 | [27097-cant-drive-this.json](./27097-cant-drive-this.json) |
@@ -4848,6 +4849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveman | 47281 | [47281-caveman.json](./47281-caveman.json) |
 | Caveman adventures | 107479 | [107479-caveman-adventures.json](./107479-caveman-adventures.json) |
 | Caveman Alive | 68499 | [68499-caveman-alive.json](./68499-caveman-alive.json) |
+| Caveman Birdminton | 248264 | [248264-caveman-birdminton.json](./248264-caveman-birdminton.json) |
 | Caveman Capers | 13702 | [13702-caveman-capers.json](./13702-caveman-capers.json) |
 | Caveman Caravan | 369667 | [369667-caveman-caravan.json](./369667-caveman-caravan.json) |
 | Caveman Chuck | 109325 | [109325-caveman-chuck.json](./109325-caveman-chuck.json) |
