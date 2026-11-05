@@ -1511,6 +1511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talisman: The Reaper Expansion - Legendary Deck | 168515 | [168515-talisman-the-reaper-expansion-legendary-deck.json](./168515-talisman-the-reaper-expansion-legendary-deck.json) |
 | Talisman: The Woodland | 149081 | [149081-talisman-the-woodland.json](./149081-talisman-the-woodland.json) |
 | Talismania Deluxe | 27814 | [27814-talismania-deluxe.json](./27814-talismania-deluxe.json) |
+| TaliVan | 259913 | [259913-talivan.json](./259913-talivan.json) |
 | Talk About Something in the Nowhere | 419142 | [419142-talk-about-something-in-the-nowhere.json](./419142-talk-about-something-in-the-nowhere.json) |
 | Talk it Out | 123458 | [123458-talk-it-out.json](./123458-talk-it-out.json) |
 | Talk Tac Toe Lite | 253271 | [253271-talk-tac-toe-lite.json](./253271-talk-tac-toe-lite.json) |
@@ -14033,6 +14034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night Walkers | 196992 | [196992-the-night-walkers.json](./196992-the-night-walkers.json) |
 | The Night Wanderer | 290366 | [290366-the-night-wanderer.json](./290366-the-night-wanderer.json) |
 | The Night Watch | 272399 | [272399-the-night-watch.json](./272399-the-night-watch.json) |
+| The Night Watch: Ranger Survival | 259895 | [259895-the-night-watch-ranger-survival.json](./259895-the-night-watch-ranger-survival.json) |
 | The Night Way Home | 165954 | [165954-the-night-way-home.json](./165954-the-night-way-home.json) |
 | The Night You'd Wish to Forget | 190015 | [190015-the-night-youd-wish-to-forget.json](./190015-the-night-youd-wish-to-forget.json) |
 | The Nightfall Incident | 182525 | [182525-the-nightfall-incident.json](./182525-the-nightfall-incident.json) |
@@ -26798,6 +26800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Collector | 212429 | [212429-toy-collector.json](./212429-toy-collector.json) |
 | Toy Commander | 10125 | [10125-toy-commander.json](./10125-toy-commander.json) |
 | Toy Cowboy Royale: RPG Dragon's Challenge | 378955 | [378955-toy-cowboy-royale-rpg-dragons-challenge.json](./378955-toy-cowboy-royale-rpg-dragons-challenge.json) |
+| Toy Craft | 259887 | [259887-toy-craft.json](./259887-toy-craft.json) |
 | Toy Defense. World War I | 88687 | [88687-toy-defense-world-war-i.json](./88687-toy-defense-world-war-i.json) |
 | TOY DJ - An Electronic Music Rhythm Game | 100909 | [100909-toy-dj-an-electronic-music-rhythm-game.json](./100909-toy-dj-an-electronic-music-rhythm-game.json) |
 | Toy Drop Balance Challenge | 342152 | [342152-toy-drop-balance-challenge.json](./342152-toy-drop-balance-challenge.json) |
@@ -29143,6 +29146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transpire | 144269 | [144269-transpire.json](./144269-transpire.json) |
 | TransPlan | 13663 | [13663-transplan.json](./13663-transplan.json) |
 | Transplant | 70926 | [70926-transplant.json](./70926-transplant.json) |
+| Transplatform | 259904 | [259904-transplatform.json](./259904-transplatform.json) |
 | Transport 2 | 308339 | [308339-transport-2.json](./308339-transport-2.json) |
 | Transport Defender | 101912 | [101912-transport-defender.json](./101912-transport-defender.json) |
 | Transport Defender | 65828 | [65828-transport-defender.json](./65828-transport-defender.json) |
@@ -29686,6 +29690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Tombs: Ra Deal | 250487 | [250487-treasure-tombs-ra-deal.json](./250487-treasure-tombs-ra-deal.json) |
 | Treasure Touring | 388663 | [388663-treasure-touring.json](./388663-treasure-touring.json) |
 | Treasure Towers | 255820 | [255820-treasure-towers.json](./255820-treasure-towers.json) |
+| Treasure Town 2 | 259947 | [259947-treasure-town-2.json](./259947-treasure-town-2.json) |
 | Treasure Train | 239095 | [239095-treasure-train.json](./239095-treasure-train.json) |
 | Treasure Trap | 237270 | [237270-treasure-trap.json](./237270-treasure-trap.json) |
 | Treasure Trap | 70936 | [70936-treasure-trap.json](./70936-treasure-trap.json) |
