@@ -1827,6 +1827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Battle | 194901 | [194901-tank-battle.json](./194901-tank-battle.json) |
 | Tank Battle Arena Combat | 395212 | [395212-tank-battle-arena-combat.json](./395212-tank-battle-arena-combat.json) |
 | Tank Battle Heroes: Iron Warfare | 120430 | [120430-tank-battle-heroes-iron-warfare.json](./120430-tank-battle-heroes-iron-warfare.json) |
+| Tank Battle Resist | 266017 | [266017-tank-battle-resist.json](./266017-tank-battle-resist.json) |
 | Tank Battle Royale | 169718 | [169718-tank-battle-royale.json](./169718-tank-battle-royale.json) |
 | Tank Battle: 1944 | 34600 | [34600-tank-battle-1944.json](./34600-tank-battle-1944.json) |
 | Tank Battle: 1945 | 31044 | [31044-tank-battle-1945.json](./31044-tank-battle-1945.json) |
@@ -3635,6 +3636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telltale Batman Shadows Edition | 127560 | [127560-telltale-batman-shadows-edition.json](./127560-telltale-batman-shadows-edition.json) |
 | TellTale: Casino Murder Case | 395787 | [395787-telltale-casino-murder-case.json](./395787-telltale-casino-murder-case.json) |
 | Telltale's Stranger Things Game | 103355 | [103355-telltales-stranger-things-game.json](./103355-telltales-stranger-things-game.json) |
+| Telluria: Forebodings Gear Minigame | 266019 | [266019-telluria-forebodings-gear-minigame.json](./266019-telluria-forebodings-gear-minigame.json) |
 | Telluria: Forebodings Gear Minigame - Final Stage | 270881 | [270881-telluria-forebodings-gear-minigame-final-stage.json](./270881-telluria-forebodings-gear-minigame-final-stage.json) |
 | Tellurian Defense | 73555 | [73555-tellurian-defense.json](./73555-tellurian-defense.json) |
 | Telluricene | 393990 | [393990-telluricene.json](./393990-telluricene.json) |
@@ -3832,6 +3834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten Little Indians | 24695 | [24695-ten-little-indians.json](./24695-ten-little-indians.json) |
 | Ten made Jack: Odoroki Mamenoki Daitoubou!! | 198364 | [198364-ten-made-jack-odoroki-mamenoki-daitoubou.json](./198364-ten-made-jack-odoroki-mamenoki-daitoubou.json) |
 | Ten ni Takaku Chi ni Fukaku | 191713 | [191713-ten-ni-takaku-chi-ni-fukaku.json](./191713-ten-ni-takaku-chi-ni-fukaku.json) |
+| Ten no Yukururu | 266003 | [266003-ten-no-yukururu.json](./266003-ten-no-yukururu.json) |
 | Ten of the Best Games | 134448 | [134448-ten-of-the-best-games.json](./134448-ten-of-the-best-games.json) |
 | Ten of the best: Educational Programs | 141396 | [141396-ten-of-the-best-educational-programs.json](./141396-ten-of-the-best-educational-programs.json) |
 | Ten People Ten Colors | 314742 | [314742-ten-people-ten-colors.json](./314742-ten-people-ten-colors.json) |
@@ -4976,6 +4979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetsujin 28-gou | 37474 | [37474-tetsujin-28-gou.json](./37474-tetsujin-28-gou.json) |
 | Tetsujin 28-Gou | 227116 | [227116-tetsujin-28-gou.json](./227116-tetsujin-28-gou.json) |
 | Tetsujou no Reigyo | 395110 | [395110-tetsujou-no-reigyo.json](./395110-tetsujou-no-reigyo.json) |
+| Tetsumi Mahjong | 266004 | [266004-tetsumi-mahjong.json](./266004-tetsumi-mahjong.json) |
 | Tetsumo Party | 119554 | [119554-tetsumo-party.json](./119554-tetsumo-party.json) |
 | Tetsuo Gaiden | 46565 | [46565-tetsuo-gaiden.json](./46565-tetsuo-gaiden.json) |
 | Tetsuwan Atom | 186707 | [186707-tetsuwan-atom.json](./186707-tetsuwan-atom.json) |
@@ -6010,6 +6014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms Multiplayer | 219565 | [219565-the-backrooms-multiplayer.json](./219565-the-backrooms-multiplayer.json) |
 | The Backrooms Origins | 253380 | [253380-the-backrooms-origins.json](./253380-the-backrooms-origins.json) |
 | The Backrooms Project | 260640 | [260640-the-backrooms-project.json](./260640-the-backrooms-project.json) |
+| The Backrooms Recorded | 266036 | [266036-the-backrooms-recorded.json](./266036-the-backrooms-recorded.json) |
 | The Backrooms Regret | 279496 | [279496-the-backrooms-regret.json](./279496-the-backrooms-regret.json) |
 | The Backrooms Simulator | 121032 | [121032-the-backrooms-simulator.json](./121032-the-backrooms-simulator.json) |
 | The Backrooms Together | 227695 | [227695-the-backrooms-together.json](./227695-the-backrooms-together.json) |
@@ -6528,6 +6533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blocks Cometh | 66103 | [66103-the-blocks-cometh.json](./66103-the-blocks-cometh.json) |
 | The Blocks Returneth | 298826 | [298826-the-blocks-returneth.json](./298826-the-blocks-returneth.json) |
 | The Blocks Shoot At You | 226604 | [226604-the-blocks-shoot-at-you.json](./226604-the-blocks-shoot-at-you.json) |
+| The Blogger | 266018 | [266018-the-blogger.json](./266018-the-blogger.json) |
 | The Blogger: Pumpkins and Witches | 365547 | [365547-the-blogger-pumpkins-and-witches.json](./365547-the-blogger-pumpkins-and-witches.json) |
 | The Bloobles and the Quest for Chocolate | 107704 | [107704-the-bloobles-and-the-quest-for-chocolate.json](./107704-the-bloobles-and-the-quest-for-chocolate.json) |
 | The Blood Amulet | 219548 | [219548-the-blood-amulet.json](./219548-the-blood-amulet.json) |
@@ -6960,6 +6966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Castle Disaster 2 | 105318 | [105318-the-castle-disaster-2.json](./105318-the-castle-disaster-2.json) |
 | The Castle Doctrine | 16651 | [16651-the-castle-doctrine.json](./16651-the-castle-doctrine.json) |
 | The Castle Game | 20045 | [20045-the-castle-game.json](./20045-the-castle-game.json) |
+| The Castle Mystery | 266020 | [266020-the-castle-mystery.json](./266020-the-castle-mystery.json) |
 | The Castle of Dr. Hoot | 412448 | [412448-the-castle-of-dr-hoot.json](./412448-the-castle-of-dr-hoot.json) |
 | The Castle of Koohoo | 271062 | [271062-the-castle-of-koohoo.json](./271062-the-castle-of-koohoo.json) |
 | The Castle of the Internet Invasion | 63707 | [63707-the-castle-of-the-internet-invasion.json](./63707-the-castle-of-the-internet-invasion.json) |
