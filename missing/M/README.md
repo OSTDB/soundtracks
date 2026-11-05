@@ -5851,6 +5851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9957,6 +9958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metranaut | 294745 | [294745-metranaut.json](./294745-metranaut.json) |
 | Metrania | 75595 | [75595-metrania.json](./75595-metrania.json) |
 | Metrash | 182068 | [182068-metrash.json](./182068-metrash.json) |
+| Metria | 246153 | [246153-metria.json](./246153-metria.json) |
 | Metric Racer | 133427 | [133427-metric-racer.json](./133427-metric-racer.json) |
 | Metrico | 19919 | [19919-metrico.json](./19919-metrico.json) |
 | Metris | 91515 | [91515-metris.json](./91515-metris.json) |
