@@ -554,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fail Factory! | 196314 | [196314-fail-factory.json](./196314-fail-factory.json) |
 | Fail Fail Succeed | 374651 | [374651-fail-fail-succeed.json](./374651-fail-fail-succeed.json) |
 | Fail Hard | 39225 | [39225-fail-hard.json](./39225-fail-hard.json) |
+| Fail Run | 263855 | [263855-fail-run.json](./263855-fail-run.json) |
 | Fail to Win | 125929 | [125929-fail-to-win.json](./125929-fail-to-win.json) |
 | Fail to Win: Chapter 1 | 114988 | [114988-fail-to-win-chapter-1.json](./114988-fail-to-win-chapter-1.json) |
 | Fail World | 356064 | [356064-fail-world.json](./356064-fail-world.json) |
