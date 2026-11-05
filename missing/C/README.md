@@ -3200,6 +3200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Kid | 48102 | [48102-casino-kid.json](./48102-casino-kid.json) |
 | Casino Kid II | 48101 | [48101-casino-kid-ii.json](./48101-casino-kid-ii.json) |
 | Casino League | 296035 | [296035-casino-league.json](./296035-casino-league.json) |
+| Casino Management Simulator | 292464 | [292464-casino-management-simulator.json](./292464-casino-management-simulator.json) |
 | Casino Manager Simulator | 326459 | [326459-casino-manager-simulator.json](./326459-casino-manager-simulator.json) |
 | Casino Mega Collection | 372214 | [372214-casino-mega-collection.json](./372214-casino-mega-collection.json) |
 | Casino Mogul | 73759 | [73759-casino-mogul.json](./73759-casino-mogul.json) |
@@ -4369,6 +4370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catherine: Love is Over Edition | 74897 | [74897-catherine-love-is-over-edition.json](./74897-catherine-love-is-over-edition.json) |
 | Catherine: Stray Sheep Deluxe Edition | 74898 | [74898-catherine-stray-sheep-deluxe-edition.json](./74898-catherine-stray-sheep-deluxe-edition.json) |
 | Catherna's Destiny | 323415 | [323415-cathernas-destiny.json](./323415-cathernas-destiny.json) |
+| Cathexis | 292462 | [292462-cathexis.json](./292462-cathexis.json) |
 | Cathode Quest 64 | 393412 | [393412-cathode-quest-64.json](./393412-cathode-quest-64.json) |
 | Cathode Ray Sunshine | 290340 | [290340-cathode-ray-sunshine.json](./290340-cathode-ray-sunshine.json) |
 | Cathode Ray Tube Amusement Device | 11321 | [11321-cathode-ray-tube-amusement-device.json](./11321-cathode-ray-tube-amusement-device.json) |
