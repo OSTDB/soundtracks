@@ -2750,6 +2750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onee-san ga Tabetai no ha Kimi no... | 251617 | [251617-onee-san-ga-tabetai-no-ha-kimi-no.json](./251617-onee-san-ga-tabetai-no-ha-kimi-no.json) |
 | Onee-san ni Makasenasai! Ryoubo to Joushi no Yawaraka Oppai ni Hasamarete | 108869 | [108869-onee-san-ni-makasenasai-ryoubo-to-joushi-no-yawaraka-oppai-ni-hasamarete.json](./108869-onee-san-ni-makasenasai-ryoubo-to-joushi-no-yawaraka-oppai-ni-hasamarete.json) |
 | Onee-san to Issho! Kisekae Paradise | 341295 | [341295-onee-san-to-issho-kisekae-paradise.json](./341295-onee-san-to-issho-kisekae-paradise.json) |
+| Oneesan to Issho! Janken Paradise | 254821 | [254821-oneesan-to-issho-janken-paradise.json](./254821-oneesan-to-issho-janken-paradise.json) |
 | Onefog Xonix | 98974 | [98974-onefog-xonix.json](./98974-onefog-xonix.json) |
 | Onefold Taxi Simulator | 370426 | [370426-onefold-taxi-simulator.json](./370426-onefold-taxi-simulator.json) |
 | Onegai AiPri | 396935 | [396935-onegai-aipri.json](./396935-onegai-aipri.json) |
