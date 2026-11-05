@@ -10496,6 +10496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon and the Last Wish Part II | 193163 | [193163-pokemon-and-the-last-wish-part-ii.json](./193163-pokemon-and-the-last-wish-part-ii.json) |
 | Pokémon Añil | 241776 | [241776-pokemon-anil.json](./241776-pokemon-anil.json) |
 | Pokémon Añil: Definitive Edition | 367344 | [367344-pokemon-anil-definitive-edition.json](./367344-pokemon-anil-definitive-edition.json) |
+| Pokémon Animon | 274823 | [274823-pokemon-animon.json](./274823-pokemon-animon.json) |
 | Pokémon Anniversary Crystal | 313100 | [313100-pokemon-anniversary-crystal.json](./313100-pokemon-anniversary-crystal.json) |
 | Pokemon Aquamarine | 325718 | [325718-pokemon-aquamarine.json](./325718-pokemon-aquamarine.json) |
 | Pokémon Art Academy | 7410 | [7410-pokemon-art-academy.json](./7410-pokemon-art-academy.json) |
