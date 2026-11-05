@@ -2558,6 +2558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wax Museum: Seek and Find - Mystery Hidden Object Adventure | 170809 | [170809-wax-museum-seek-and-find-mystery-hidden-object-adventure.json](./170809-wax-museum-seek-and-find-mystery-hidden-object-adventure.json) |
 | WaxHeart | 250758 | [250758-waxheart.json](./250758-waxheart.json) |
 | Waxweaver | 333997 | [333997-waxweaver.json](./333997-waxweaver.json) |
+| Waxwing | 294087 | [294087-waxwing.json](./294087-waxwing.json) |
 | Waxwing Radio | 298829 | [298829-waxwing-radio.json](./298829-waxwing-radio.json) |
 | Waxworks | 24694 | [24694-waxworks.json](./24694-waxworks.json) |
 | Waxworks: Curse of the Ancestors | 126548 | [126548-waxworks-curse-of-the-ancestors.json](./126548-waxworks-curse-of-the-ancestors.json) |
