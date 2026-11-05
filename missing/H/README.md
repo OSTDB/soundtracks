@@ -3623,6 +3623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavyweight Transport Simulator 3 | 53183 | [53183-heavyweight-transport-simulator-3.json](./53183-heavyweight-transport-simulator-3.json) |
 | Hebeloma | 374862 | [374862-hebeloma.json](./374862-hebeloma.json) |
 | Hebereke | 291621 | [291621-hebereke.json](./291621-hebereke.json) |
+| Hebereke no Pair Pair Wars | 288020 | [288020-hebereke-no-pair-pair-wars.json](./288020-hebereke-no-pair-pair-wars.json) |
 | Hebereke: Enjoy Edition | 291350 | [291350-hebereke-enjoy-edition.json](./291350-hebereke-enjoy-edition.json) |
 | Hebereke's Popoon | 42610 | [42610-heberekes-popoon.json](./42610-heberekes-popoon.json) |
 | Hebi Hebi | 177261 | [177261-hebi-hebi.json](./177261-hebi-hebi.json) |
@@ -4374,6 +4375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty's Big Fun Piano | 78877 | [78877-hello-kittys-big-fun-piano.json](./78877-hello-kittys-big-fun-piano.json) |
 | Hello Kitty's Cube Frenzy | 299461 | [299461-hello-kittys-cube-frenzy.json](./299461-hello-kittys-cube-frenzy.json) |
 | Hello Kitty's Cube Frenzy | 3687 | [3687-hello-kittys-cube-frenzy.json](./3687-hello-kittys-cube-frenzy.json) |
+| Hello Kitty's Pie Shop | 288019 | [288019-hello-kittys-pie-shop.json](./288019-hello-kittys-pie-shop.json) |
 | Hello Kitty's The Land of Hidden Objects: DokokanaArcana | 284432 | [284432-hello-kittys-the-land-of-hidden-objects-dokokanaarcana.json](./284432-hello-kittys-the-land-of-hidden-objects-dokokanaarcana.json) |
 | Hello Lady! | 95168 | [95168-hello-lady.json](./95168-hello-lady.json) |
 | Hello Lady! Complete Edition | 187447 | [187447-hello-lady-complete-edition.json](./187447-hello-lady-complete-edition.json) |
@@ -10199,6 +10201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Pot For One | 139811 | [139811-hot-pot-for-one.json](./139811-hot-pot-for-one.json) |
 | Hot Pot Panic | 134550 | [134550-hot-pot-panic.json](./134550-hot-pot-panic.json) |
 | Hot Pot VR | 153004 | [153004-hot-pot-vr.json](./153004-hot-pot-vr.json) |
+| Hot Potato Online | 288009 | [288009-hot-potato-online.json](./288009-hot-potato-online.json) |
 | Hot Property | 393588 | [393588-hot-property.json](./393588-hot-property.json) |
 | Hot Pussy College 2 | 240737 | [240737-hot-pussy-college-2.json](./240737-hot-pussy-college-2.json) |
 | Hot Racing | 246461 | [246461-hot-racing.json](./246461-hot-racing.json) |
