@@ -11227,6 +11227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ape Escape Academy | 272555 | [272555-ape-escape-academy.json](./272555-ape-escape-academy.json) |
 | Ape Escape M | 310347 | [310347-ape-escape-m.json](./310347-ape-escape-m.json) |
 | Ape Escape: Million Monkeys | 68008 | [68008-ape-escape-million-monkeys.json](./68008-ape-escape-million-monkeys.json) |
+| Ape Escape: On the Loose | 262030 | [262030-ape-escape-on-the-loose.json](./262030-ape-escape-on-the-loose.json) |
 | Ape Escape: On the Loose | 44530 | [44530-ape-escape-on-the-loose.json](./44530-ape-escape-on-the-loose.json) |
 | Ape Hit | 107824 | [107824-ape-hit.json](./107824-ape-hit.json) |
 | Ape Out | 27719 | [27719-ape-out.json](./27719-ape-out.json) |
@@ -12132,6 +12133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Dangerous Seed | 192029 | [192029-arcade-archives-dangerous-seed.json](./192029-arcade-archives-dangerous-seed.json) |
 | Arcade Archives: Darius | 121426 | [121426-arcade-archives-darius.json](./121426-arcade-archives-darius.json) |
 | Arcade Archives: Darius II | 270465 | [270465-arcade-archives-darius-ii.json](./270465-arcade-archives-darius-ii.json) |
+| Arcade Archives: Dark Adventure | 262031 | [262031-arcade-archives-dark-adventure.json](./262031-arcade-archives-dark-adventure.json) |
 | Arcade Archives: Dead Connection | 334087 | [334087-arcade-archives-dead-connection.json](./334087-arcade-archives-dead-connection.json) |
 | Arcade Archives: Devastators | 395647 | [395647-arcade-archives-devastators.json](./395647-arcade-archives-devastators.json) |
 | Arcade Archives: Dig Dug | 212615 | [212615-arcade-archives-dig-dug.json](./212615-arcade-archives-dig-dug.json) |
@@ -16348,7 +16350,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
