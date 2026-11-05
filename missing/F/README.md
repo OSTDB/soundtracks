@@ -3225,6 +3225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fated Kingdom | 97111 | [97111-fated-kingdom.json](./97111-fated-kingdom.json) |
 | Fated Land | 317164 | [317164-fated-land.json](./317164-fated-land.json) |
 | Fated Mate | 381974 | [381974-fated-mate.json](./381974-fated-mate.json) |
+| Fated Retrace: Operation Ascension | 286865 | [286865-fated-retrace-operation-ascension.json](./286865-fated-retrace-operation-ascension.json) |
 | Fated Souls | 35250 | [35250-fated-souls.json](./35250-fated-souls.json) |
 | Fated Souls 2 | 31407 | [31407-fated-souls-2.json](./31407-fated-souls-2.json) |
 | Fated Thread | 333826 | [333826-fated-thread.json](./333826-fated-thread.json) |
@@ -8345,6 +8346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly High Runners | 391575 | [391575-fly-high-runners.json](./391575-fly-high-runners.json) |
 | Fly Killer VR | 102222 | [102222-fly-killer-vr.json](./102222-fly-killer-vr.json) |
 | Fly Light | 361497 | [361497-fly-light.json](./361497-fly-light.json) |
+| Fly Like a Bird | 286917 | [286917-fly-like-a-bird.json](./286917-fly-like-a-bird.json) |
 | Fly Like a Bird 2 | 286919 | [286919-fly-like-a-bird-2.json](./286919-fly-like-a-bird-2.json) |
 | Fly Like a Bird 3 | 286920 | [286920-fly-like-a-bird-3.json](./286920-fly-like-a-bird-3.json) |
 | Fly Like A Bird 4 | 95957 | [95957-fly-like-a-bird-4.json](./95957-fly-like-a-bird-4.json) |
