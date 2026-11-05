@@ -957,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1293,6 +1294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balance Ball | 150483 | [150483-balance-ball.json](./150483-balance-ball.json) |
 | Balance Balls | 262438 | [262438-balance-balls.json](./262438-balance-balls.json) |
 | Balance Balls 2 | 262442 | [262442-balance-balls-2.json](./262442-balance-balls-2.json) |
+| Balance Board | 254203 | [254203-balance-board.json](./254203-balance-board.json) |
 | Balance Helicopter | 233887 | [233887-balance-helicopter.json](./233887-balance-helicopter.json) |
 | Balance in the Mountains | 116039 | [116039-balance-in-the-mountains.json](./116039-balance-in-the-mountains.json) |
 | Balance It! | 408294 | [408294-balance-it.json](./408294-balance-it.json) |
@@ -14515,6 +14517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave knight runner | 115496 | [115496-brave-knight-runner.json](./115496-brave-knight-runner.json) |
 | Brave Knight: Leverant Eiyuuden | 77024 | [77024-brave-knight-leverant-eiyuuden.json](./77024-brave-knight-leverant-eiyuuden.json) |
 | Brave Legacy | 296379 | [296379-brave-legacy.json](./296379-brave-legacy.json) |
+| Brave Little Beasties | 254242 | [254242-brave-little-beasties.json](./254242-brave-little-beasties.json) |
 | Brave Meow World | 318061 | [318061-brave-meow-world.json](./318061-brave-meow-world.json) |
 | Brave Mouse Cartographer Trilogy | 139476 | [139476-brave-mouse-cartographer-trilogy.json](./139476-brave-mouse-cartographer-trilogy.json) |
 | Brave Neptunia: Hero Edition | 100356 | [100356-brave-neptunia-hero-edition.json](./100356-brave-neptunia-hero-edition.json) |
