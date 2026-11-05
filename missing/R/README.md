@@ -4889,6 +4889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remission | 302090 | [302090-remission.json](./302090-remission.json) |
 | ReMix | 276642 | [276642-remix.json](./276642-remix.json) |
 | Remix Jam | 285261 | [285261-remix-jam.json](./285261-remix-jam.json) |
+| Remix Map Pack | 271521 | [271521-remix-map-pack.json](./271521-remix-map-pack.json) |
 | ReMix: Encore | 311815 | [311815-remix-encore.json](./311815-remix-encore.json) |
 | Remnant | 144676 | [144676-remnant.json](./144676-remnant.json) |
 | Remnant Frontier: Survival | 373001 | [373001-remnant-frontier-survival.json](./373001-remnant-frontier-survival.json) |
@@ -10829,6 +10830,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Root Letter: Last Answer | 106807 | [106807-root-letter-last-answer.json](./106807-root-letter-last-answer.json) |
 | Root Letter: Limited Premium Box | 207921 | [207921-root-letter-limited-premium-box.json](./207921-root-letter-limited-premium-box.json) |
 | Root of All Evil | 57105 | [57105-root-of-all-evil.json](./57105-root-of-all-evil.json) |
+| Root of all Evil: Infernal Science - Part 1 | 271543 | [271543-root-of-all-evil-infernal-science-part-1.json](./271543-root-of-all-evil-infernal-science-part-1.json) |
+| Root of all Evil: Infernal Science - Part 2 | 271544 | [271544-root-of-all-evil-infernal-science-part-2.json](./271544-root-of-all-evil-infernal-science-part-2.json) |
 | Root of Evil: Origins | 142839 | [142839-root-of-evil-origins.json](./142839-root-of-evil-origins.json) |
 | Root Of Evil: The Tailor | 30705 | [30705-root-of-evil-the-tailor.json](./30705-root-of-evil-the-tailor.json) |
 | Root Of Win | 258186 | [258186-root-of-win.json](./258186-root-of-win.json) |
@@ -11852,6 +11855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruined King: A League of Legends Story | 127358 | [127358-ruined-king-a-league-of-legends-story.json](./127358-ruined-king-a-league-of-legends-story.json) |
 | Ruined King: A League of Legends Story - Deluxe Edition | 186888 | [186888-ruined-king-a-league-of-legends-story-deluxe-edition.json](./186888-ruined-king-a-league-of-legends-story-deluxe-edition.json) |
 | Ruined Kingdom | 235839 | [235839-ruined-kingdom.json](./235839-ruined-kingdom.json) |
+| Ruined Nation | 271524 | [271524-ruined-nation.json](./271524-ruined-nation.json) |
 | Ruined Nurse | 324183 | [324183-ruined-nurse.json](./324183-ruined-nurse.json) |
 | Ruined Vacation | 313960 | [313960-ruined-vacation.json](./313960-ruined-vacation.json) |
 | Ruiner | 18857 | [18857-ruiner.json](./18857-ruiner.json) |
