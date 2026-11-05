@@ -6488,6 +6488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mecha and Tank Fighting | 149365 | [149365-mecha-and-tank-fighting.json](./149365-mecha-and-tank-fighting.json) |
 | Mecha Arena | 321494 | [321494-mecha-arena.json](./321494-mecha-arena.json) |
 | Mecha Attack | 214103 | [214103-mecha-attack.json](./214103-mecha-attack.json) |
+| Mecha Blitz | 274798 | [274798-mecha-blitz.json](./274798-mecha-blitz.json) |
 | Mecha Destruction | 157944 | [157944-mecha-destruction.json](./157944-mecha-destruction.json) |
 | Mecha Domination | 304957 | [304957-mecha-domination.json](./304957-mecha-domination.json) |
 | Mecha Dress Up Game | 409369 | [409369-mecha-dress-up-game.json](./409369-mecha-dress-up-game.json) |
@@ -15280,6 +15281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Collections Plus | 265842 | [265842-monster-collections-plus.json](./265842-monster-collections-plus.json) |
 | Monster Collector | 143647 | [143647-monster-collector.json](./143647-monster-collector.json) |
 | Monster Combine TD | 85615 | [85615-monster-combine-td.json](./85615-monster-combine-td.json) |
+| Monster Coming | 274812 | [274812-monster-coming.json](./274812-monster-coming.json) |
 | Monster Commanders | 310720 | [310720-monster-commanders.json](./310720-monster-commanders.json) |
 | Monster Company | 208241 | [208241-monster-company.json](./208241-monster-company.json) |
 | Monster Cooking Diary | 304965 | [304965-monster-cooking-diary.json](./304965-monster-cooking-diary.json) |
