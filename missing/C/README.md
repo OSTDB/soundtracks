@@ -8977,7 +8977,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines II - Bridges & Ports | 294381 | [294381-cities-skylines-ii-bridges-and-ports.json](./294381-cities-skylines-ii-bridges-and-ports.json) |
 | Cities: Skylines II - Creator Pack: Modern Architecture | 293452 | [293452-cities-skylines-ii-creator-pack-modern-architecture.json](./293452-cities-skylines-ii-creator-pack-modern-architecture.json) |
 | Cities: Skylines II - Creator Pack: Urban Promenades | 293453 | [293453-cities-skylines-ii-creator-pack-urban-promenades.json](./293453-cities-skylines-ii-creator-pack-urban-promenades.json) |
+| Cities: Skylines II - Day 1 Edition | 254212 | [254212-cities-skylines-ii-day-1-edition.json](./254212-cities-skylines-ii-day-1-edition.json) |
 | Cities: Skylines II - Deluxe Relax Station | 292636 | [292636-cities-skylines-ii-deluxe-relax-station.json](./292636-cities-skylines-ii-deluxe-relax-station.json) |
+| Cities: Skylines II - Premium Edition | 254213 | [254213-cities-skylines-ii-premium-edition.json](./254213-cities-skylines-ii-premium-edition.json) |
 | Cities: Skylines II - San Francisco Set | 294380 | [294380-cities-skylines-ii-san-francisco-set.json](./294380-cities-skylines-ii-san-francisco-set.json) |
 | Cities: Skylines II - Ultimate Edition | 273942 | [273942-cities-skylines-ii-ultimate-edition.json](./273942-cities-skylines-ii-ultimate-edition.json) |
 | Cities: Skylines Remastered - Campus | 301332 | [301332-cities-skylines-remastered-campus.json](./301332-cities-skylines-remastered-campus.json) |
@@ -16732,6 +16734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creature Feature | 397643 | [397643-creature-feature.json](./397643-creature-feature.json) |
 | Creature Hunt | 116472 | [116472-creature-hunt.json](./116472-creature-hunt.json) |
 | Creature Hunter | 199659 | [199659-creature-hunter.json](./199659-creature-hunter.json) |
+| Creature in the Well: Collector's Edition | 254227 | [254227-creature-in-the-well-collectors-edition.json](./254227-creature-in-the-well-collectors-edition.json) |
 | Creature Keeper | 127563 | [127563-creature-keeper.json](./127563-creature-keeper.json) |
 | Creature Kitchen | 363954 | [363954-creature-kitchen.json](./363954-creature-kitchen.json) |
 | Creature Lab | 156674 | [156674-creature-lab.json](./156674-creature-lab.json) |
@@ -18124,6 +18127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruzcredo: Become a Legend! | 332272 | [332272-cruzcredo-become-a-legend.json](./332272-cruzcredo-become-a-legend.json) |
 | CRW : Metal Jacket | 127833 | [127833-crw-metal-jacket.json](./127833-crw-metal-jacket.json) |
 | CRW: Counter Revolution War | 61554 | [61554-crw-counter-revolution-war.json](./61554-crw-counter-revolution-war.json) |
+| Cry Babies: Magic Tears - The Big Game | 254223 | [254223-cry-babies-magic-tears-the-big-game.json](./254223-cry-babies-magic-tears-the-big-game.json) |
 | Cry Baby | 190846 | [190846-cry-baby.json](./190846-cry-baby.json) |
 | Cry From the Abyss | 379086 | [379086-cry-from-the-abyss.json](./379086-cry-from-the-abyss.json) |
 | Cry of Athena | 158506 | [158506-cry-of-athena.json](./158506-cry-of-athena.json) |
