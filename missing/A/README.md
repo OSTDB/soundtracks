@@ -4137,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFL Premiership Coach 2011 | 66018 | [66018-afl-premiership-coach-2011.json](./66018-afl-premiership-coach-2011.json) |
 | Afloat | 120829 | [120829-afloat.json](./120829-afloat.json) |
 | Afo | 78330 | [78330-afo.json](./78330-afo.json) |
+| AFPS: Airplane Flight Pilot Sim | 251339 | [251339-afps-airplane-flight-pilot-sim.json](./251339-afps-airplane-flight-pilot-sim.json) |
 | Afraid Gear | 59331 | [59331-afraid-gear.json](./59331-afraid-gear.json) |
 | Afraid Gear Another | 59330 | [59330-afraid-gear-another.json](./59330-afraid-gear-another.json) |
 | Afraid of God | 390697 | [390697-afraid-of-god.json](./390697-afraid-of-god.json) |
@@ -5723,6 +5724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akagawa Jirou: Majo-tachi no Nemuri | 67712 | [67712-akagawa-jirou-majo-tachi-no-nemuri.json](./67712-akagawa-jirou-majo-tachi-no-nemuri.json) |
 | Akagawa Jirou: Yasoukyoku | 62544 | [62544-akagawa-jirou-yasoukyoku.json](./62544-akagawa-jirou-yasoukyoku.json) |
 | Akagi: Touhaiden | 254431 | [254431-akagi-touhaiden.json](./254431-akagi-touhaiden.json) |
+| Akahane Academy | 251330 | [251330-akahane-academy.json](./251330-akahane-academy.json) |
 | Akahane: After Class | 278617 | [278617-akahane-after-class.json](./278617-akahane-after-class.json) |
 | Akai Corridor | 316282 | [316282-akai-corridor.json](./316282-akai-corridor.json) |
 | Akai Hana | 386935 | [386935-akai-hana.json](./386935-akai-hana.json) |
@@ -6263,6 +6265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alert | 14236 | [14236-alert.json](./14236-alert.json) |
 | Alert X: Ostatnia Nadzieja Ziemi | 14237 | [14237-alert-x-ostatnia-nadzieja-ziemi.json](./14237-alert-x-ostatnia-nadzieja-ziemi.json) |
 | Alerta Roja | 305700 | [305700-alerta-roja.json](./305700-alerta-roja.json) |
+| Alerta Vermelho | 251305 | [251305-alerta-vermelho.json](./251305-alerta-vermelho.json) |
 | Alertes Spéciales | 363969 | [363969-alertes-speciales.json](./363969-alertes-speciales.json) |
 | Aleryos | 411412 | [411412-aleryos.json](./411412-aleryos.json) |
 | Ales Dash | 102935 | [102935-ales-dash.json](./102935-ales-dash.json) |
@@ -16182,6 +16185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Retro Handheld Console | 277413 | [277413-atari-retro-handheld-console.json](./277413-atari-retro-handheld-console.json) |
 | Atari Revival | 93395 | [93395-atari-revival.json](./93395-atari-revival.json) |
 | Atari Soccer | 40014 | [40014-atari-soccer.json](./40014-atari-soccer.json) |
+| Atari Tabletops Collection #1 | 251345 | [251345-atari-tabletops-collection-1.json](./251345-atari-tabletops-collection-1.json) |
 | Atari Vault | 34518 | [34518-atari-vault.json](./34518-atari-vault.json) |
 | Atari Vault: 50 Game Add-On Pack | 169904 | [169904-atari-vault-50-game-add-on-pack.json](./169904-atari-vault-50-game-add-on-pack.json) |
 | Atari Video Cube | 12243 | [12243-atari-video-cube.json](./12243-atari-video-cube.json) |
