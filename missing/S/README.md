@@ -9186,6 +9186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shores of Vaelithar | 380353 | [380353-shores-of-vaelithar.json](./380353-shores-of-vaelithar.json) |
 | Shores Unknown | 116689 | [116689-shores-unknown.json](./116689-shores-unknown.json) |
 | Shoresy: Legends of the North | 156832 | [156832-shoresy-legends-of-the-north.json](./156832-shoresy-legends-of-the-north.json) |
+| Shorkie Software presents: Proto | 248964 | [248964-shorkie-software-presents-proto.json](./248964-shorkie-software-presents-proto.json) |
 | Short 'n Quick | 274203 | [274203-short-n-quick.json](./274203-short-n-quick.json) |
 | Short 'n Quick 2 | 274204 | [274204-short-n-quick-2.json](./274204-short-n-quick-2.json) |
 | Short Adventure | 306884 | [306884-short-adventure.json](./306884-short-adventure.json) |
@@ -20992,6 +20993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellfall: Last Mage Standing | 390025 | [390025-spellfall-last-mage-standing.json](./390025-spellfall-last-mage-standing.json) |
 | Spellfarers | 308580 | [308580-spellfarers.json](./308580-spellfarers.json) |
 | Spellfast | 70393 | [70393-spellfast.json](./70393-spellfast.json) |
+| Spellfield | 248952 | [248952-spellfield.json](./248952-spellfield.json) |
 | Spellfire Odyssey | 239764 | [239764-spellfire-odyssey.json](./239764-spellfire-odyssey.json) |
 | Spellfolio | 289549 | [289549-spellfolio.json](./289549-spellfolio.json) |
 | SpellForce 2: Anniversary Edition | 29209 | [29209-spellforce-2-anniversary-edition.json](./29209-spellforce-2-anniversary-edition.json) |
@@ -23668,6 +23670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Evil | 245144 | [245144-star-evil.json](./245144-star-evil.json) |
 | Star Exodus | 217306 | [217306-star-exodus.json](./217306-star-exodus.json) |
 | Star Explorers | 32051 | [32051-star-explorers.json](./32051-star-explorers.json) |
+| Star Farmer: Warlock of the Universe | 248965 | [248965-star-farmer-warlock-of-the-universe.json](./248965-star-farmer-warlock-of-the-universe.json) |
 | Star Fetched | 194338 | [194338-star-fetched.json](./194338-star-fetched.json) |
 | Star Fetchers | 126573 | [126573-star-fetchers.json](./126573-star-fetchers.json) |
 | Star Fetchers : Episode 1 | 220500 | [220500-star-fetchers-episode-1.json](./220500-star-fetchers-episode-1.json) |
@@ -34461,6 +34464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Flip | 279987 | [279987-sweet-flip.json](./279987-sweet-flip.json) |
 | Sweet Flowers and Salt | 283527 | [283527-sweet-flowers-and-salt.json](./283527-sweet-flowers-and-salt.json) |
 | Sweet Forest | 304549 | [304549-sweet-forest.json](./304549-sweet-forest.json) |
+| Sweet Forest Guardian | 248997 | [248997-sweet-forest-guardian.json](./248997-sweet-forest-guardian.json) |
 | Sweet Fruit Cube Legend | 109222 | [109222-sweet-fruit-cube-legend.json](./109222-sweet-fruit-cube-legend.json) |
 | Sweet Fruitcake | 118974 | [118974-sweet-fruitcake.json](./118974-sweet-fruitcake.json) |
 | Sweet Fruits from the Magical Tree | 185104 | [185104-sweet-fruits-from-the-magical-tree.json](./185104-sweet-fruits-from-the-magical-tree.json) |
