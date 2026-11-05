@@ -8611,6 +8611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robman | 178614 | [178614-robman.json](./178614-robman.json) |
 | Robmembor | 332566 | [332566-robmembor.json](./332566-robmembor.json) |
 | Robo Army | 46786 | [46786-robo-army.json](./46786-robo-army.json) |
+| Robo Blaster | 270924 | [270924-robo-blaster.json](./270924-robo-blaster.json) |
 | Robo Boop | 89970 | [89970-robo-boop.json](./89970-robo-boop.json) |
 | Robo Defense | 38700 | [38700-robo-defense.json](./38700-robo-defense.json) |
 | Robo Do It | 29425 | [29425-robo-do-it.json](./29425-robo-do-it.json) |
@@ -9064,6 +9065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock 'N' Roll Clams | 289170 | [289170-rock-n-roll-clams.json](./289170-rock-n-roll-clams.json) |
 | Rock 'N' Roll Defense | 33583 | [33583-rock-n-roll-defense.json](./33583-rock-n-roll-defense.json) |
 | Rock 'n' Roll Will Never Die! | 199358 | [199358-rock-n-roll-will-never-die.json](./199358-rock-n-roll-will-never-die.json) |
+| Rock A Bye | 270925 | [270925-rock-a-bye.json](./270925-rock-a-bye.json) |
 | Rock and Roll Jeopardy! | 78874 | [78874-rock-and-roll-jeopardy.json](./78874-rock-and-roll-jeopardy.json) |
 | Rock and Stone | 368718 | [368718-rock-and-stone.json](./368718-rock-and-stone.json) |
 | Rock Band | 2685 | [2685-rock-band.json](./2685-rock-band.json) |
