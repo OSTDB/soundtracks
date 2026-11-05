@@ -3355,6 +3355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Containment Breach Multiplayer | 314780 | [314780-scp-containment-breach-multiplayer.json](./314780-scp-containment-breach-multiplayer.json) |
 | SCP: Containment Breach Remastered | 210866 | [210866-scp-containment-breach-remastered.json](./210866-scp-containment-breach-remastered.json) |
 | SCP: Containment Breach Ultimate Edition | 367353 | [367353-scp-containment-breach-ultimate-edition.json](./367353-scp-containment-breach-ultimate-edition.json) |
+| SCP: Containment Chaos | 274788 | [274788-scp-containment-chaos.json](./274788-scp-containment-chaos.json) |
 | SCP: Contamination | 261757 | [261757-scp-contamination.json](./261757-scp-contamination.json) |
 | SCP: Cross Containment | 141786 | [141786-scp-cross-containment.json](./141786-scp-cross-containment.json) |
 | SCP: Daybreak | 211579 | [211579-scp-daybreak.json](./211579-scp-daybreak.json) |
@@ -6589,6 +6590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of Rome | 14406 | [14406-shadow-of-rome.json](./14406-shadow-of-rome.json) |
 | Shadow of Scintilla | 238634 | [238634-shadow-of-scintilla.json](./238634-shadow-of-scintilla.json) |
 | Shadow of Something | 81995 | [81995-shadow-of-something.json](./81995-shadow-of-something.json) |
+| Shadow Of Sound | 274783 | [274783-shadow-of-sound.json](./274783-shadow-of-sound.json) |
 | Shadow of the Beast | 11254 | [11254-shadow-of-the-beast.json](./11254-shadow-of-the-beast.json) |
 | Shadow of the Beast | 5434 | [5434-shadow-of-the-beast.json](./5434-shadow-of-the-beast.json) |
 | Shadow of the Beast II | 5879 | [5879-shadow-of-the-beast-ii.json](./5879-shadow-of-the-beast-ii.json) |
@@ -9864,6 +9866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side Swipe | 60339 | [60339-side-swipe.json](./60339-side-swipe.json) |
 | Side Swipers | 280783 | [280783-side-swipers.json](./280783-side-swipers.json) |
 | Side to Side | 128569 | [128569-side-to-side.json](./128569-side-to-side.json) |
+| Side To Side | 274803 | [274803-side-to-side.json](./274803-side-to-side.json) |
 | Side Trak | 39517 | [39517-side-trak.json](./39517-side-trak.json) |
 | Side Walls Multi Kicks | 364812 | [364812-side-walls-multi-kicks.json](./364812-side-walls-multi-kicks.json) |
 | Side Whoop | 390656 | [390656-side-whoop.json](./390656-side-whoop.json) |
@@ -14517,6 +14520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Crash 2: Snake Rush | 100796 | [100796-snake-crash-2-snake-rush.json](./100796-snake-crash-2-snake-rush.json) |
 | Snake Crayon Run | 251644 | [251644-snake-crayon-run.json](./251644-snake-crayon-run.json) |
 | Snake Crossing | 306382 | [306382-snake-crossing.json](./306382-snake-crossing.json) |
+| Snake Crush Survivors | 274820 | [274820-snake-crush-survivors.json](./274820-snake-crush-survivors.json) |
 | Snake Cubed | 18906 | [18906-snake-cubed.json](./18906-snake-cubed.json) |
 | Snake Deluxe | 154407 | [154407-snake-deluxe.json](./154407-snake-deluxe.json) |
 | Snake Deluxe | 256653 | [256653-snake-deluxe.json](./256653-snake-deluxe.json) |
@@ -20769,6 +20773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellagories | 208784 | [208784-spellagories.json](./208784-spellagories.json) |
 | Spellario | 171993 | [171993-spellario.json](./171993-spellario.json) |
 | Spellarium | 250164 | [250164-spellarium.json](./250164-spellarium.json) |
+| Spellarium 10 | 274782 | [274782-spellarium-10.json](./274782-spellarium-10.json) |
 | Spellarium 11 | 311594 | [311594-spellarium-11.json](./311594-spellarium-11.json) |
 | Spellarium 12 | 419762 | [419762-spellarium-12.json](./419762-spellarium-12.json) |
 | Spellarium 13 | 416972 | [416972-spellarium-13.json](./416972-spellarium-13.json) |
@@ -29294,6 +29299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer of '58 | 159221 | [159221-summer-of-58.json](./159221-summer-of-58.json) |
 | Summer of '69 | 224578 | [224578-summer-of-69.json](./224578-summer-of-69.json) |
 | Summer of Adventure Bundle | 196513 | [196513-summer-of-adventure-bundle.json](./196513-summer-of-adventure-bundle.json) |
+| Summer of Love | 274810 | [274810-summer-of-love.json](./274810-summer-of-love.json) |
 | Summer of Memories | 299498 | [299498-summer-of-memories.json](./299498-summer-of-memories.json) |
 | Summer of Memories Ver. 2: Mystery of the Time Capsule | 365616 | [365616-summer-of-memories-ver-2-mystery-of-the-time-capsule.json](./365616-summer-of-memories-ver-2-mystery-of-the-time-capsule.json) |
 | Summer Party Time | 255526 | [255526-summer-party-time.json](./255526-summer-party-time.json) |
@@ -34635,6 +34641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword and Fairy: Together Forever - Deluxe Edition | 285682 | [285682-sword-and-fairy-together-forever-deluxe-edition.json](./285682-sword-and-fairy-together-forever-deluxe-edition.json) |
 | Sword and Fairy: Together Forever - Premium Collector’s Edition | 210915 | [210915-sword-and-fairy-together-forever-premium-collector-s-edition.json](./210915-sword-and-fairy-together-forever-premium-collector-s-edition.json) |
 | Sword and Hammer: Hand of the King | 311706 | [311706-sword-and-hammer-hand-of-the-king.json](./311706-sword-and-hammer-hand-of-the-king.json) |
+| Sword and Magic World | 274825 | [274825-sword-and-magic-world.json](./274825-sword-and-magic-world.json) |
 | Sword and Plow | 305346 | [305346-sword-and-plow.json](./305346-sword-and-plow.json) |
 | Sword and Shadow | 201431 | [201431-sword-and-shadow.json](./201431-sword-and-shadow.json) |
 | Sword and Shield Idle | 296993 | [296993-sword-and-shield-idle.json](./296993-sword-and-shield-idle.json) |
