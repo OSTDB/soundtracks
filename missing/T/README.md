@@ -8466,6 +8466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ebb and Flow of the Tide | 146196 | [146196-the-ebb-and-flow-of-the-tide.json](./146196-the-ebb-and-flow-of-the-tide.json) |
 | The Ecdysis | 204846 | [204846-the-ecdysis.json](./204846-the-ecdysis.json) |
 | The Echo | 353970 | [353970-the-echo.json](./353970-the-echo.json) |
+| The Echo Paradox | 285811 | [285811-the-echo-paradox.json](./285811-the-echo-paradox.json) |
 | The Echo Whispers | 261652 | [261652-the-echo-whispers.json](./261652-the-echo-whispers.json) |
 | The Echoes of Mars | 301841 | [301841-the-echoes-of-mars.json](./301841-the-echoes-of-mars.json) |
 | The Echoes of Me | 398479 | [398479-the-echoes-of-me.json](./398479-the-echoes-of-me.json) |
@@ -17364,6 +17365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower Must Fall | 412489 | [412489-the-tower-must-fall.json](./412489-the-tower-must-fall.json) |
 | The Tower of Archeos | 287318 | [287318-the-tower-of-archeos.json](./287318-the-tower-of-archeos.json) |
 | The Tower of Babel | 363809 | [363809-the-tower-of-babel.json](./363809-the-tower-of-babel.json) |
+| The Tower Of Babel | 285794 | [285794-the-tower-of-babel.json](./285794-the-tower-of-babel.json) |
 | The Tower of Beatrice | 90417 | [90417-the-tower-of-beatrice.json](./90417-the-tower-of-beatrice.json) |
 | The Tower of Cabin: Cabin Panic | 92139 | [92139-the-tower-of-cabin-cabin-panic.json](./92139-the-tower-of-cabin-cabin-panic.json) |
 | The Tower of Druaga | 239167 | [239167-the-tower-of-druaga.json](./239167-the-tower-of-druaga.json) |
@@ -28237,6 +28239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: Pro Train: NS Heritage Loco Bundle 1 | 324267 | [324267-trainz-plus-pro-train-ns-heritage-loco-bundle-1.json](./324267-trainz-plus-pro-train-ns-heritage-loco-bundle-1.json) |
 | Trainz Plus: Pro Trainz TEE Rheingold | 205474 | [205474-trainz-plus-pro-trainz-tee-rheingold.json](./205474-trainz-plus-pro-trainz-tee-rheingold.json) |
 | Trainz Plus: ProTrain - AC4400CW Loco Bundle 1 | 306104 | [306104-trainz-plus-protrain-ac4400cw-loco-bundle-1.json](./306104-trainz-plus-protrain-ac4400cw-loco-bundle-1.json) |
+| Trainz Plus: ProTrain The Eastern Range | 285789 | [285789-trainz-plus-protrain-the-eastern-range.json](./285789-trainz-plus-protrain-the-eastern-range.json) |
 | Trainz Plus: PRR X23 Boxcar | 205556 | [205556-trainz-plus-prr-x23-boxcar.json](./205556-trainz-plus-prr-x23-boxcar.json) |
 | Trainz Plus: QJ Steam Locomotive | 205485 | [205485-trainz-plus-qj-steam-locomotive.json](./205485-trainz-plus-qj-steam-locomotive.json) |
 | Trainz Plus: QR National GE C44aci | 213407 | [213407-trainz-plus-qr-national-ge-c44aci.json](./213407-trainz-plus-qr-national-ge-c44aci.json) |
@@ -28430,6 +28433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2019: Pro Train Class 68 DRS | 207364 | [207364-trainz-railroad-simulator-2019-pro-train-class-68-drs.json](./207364-trainz-railroad-simulator-2019-pro-train-class-68-drs.json) |
 | Trainz Railroad Simulator 2019: Pro Train DB/DR Auxiliary Train | 237947 | [237947-trainz-railroad-simulator-2019-pro-train-db-dr-auxiliary-train.json](./237947-trainz-railroad-simulator-2019-pro-train-db-dr-auxiliary-train.json) |
 | Trainz Railroad Simulator 2019: Pro Trainz TEE Rheingold | 153099 | [153099-trainz-railroad-simulator-2019-pro-trainz-tee-rheingold.json](./153099-trainz-railroad-simulator-2019-pro-trainz-tee-rheingold.json) |
+| Trainz Railroad Simulator 2019: ProTrain The Eastern Range | 285791 | [285791-trainz-railroad-simulator-2019-protrain-the-eastern-range.json](./285791-trainz-railroad-simulator-2019-protrain-the-eastern-range.json) |
 | Trainz Railroad Simulator 2019: PRR GP9 (2 Pack) | 153173 | [153173-trainz-railroad-simulator-2019-prr-gp9-2-pack.json](./153173-trainz-railroad-simulator-2019-prr-gp9-2-pack.json) |
 | Trainz Railroad Simulator 2019: PRR T1 | 153187 | [153187-trainz-railroad-simulator-2019-prr-t1.json](./153187-trainz-railroad-simulator-2019-prr-t1.json) |
 | Trainz Railroad Simulator 2019: PRR X23 Boxcar | 153190 | [153190-trainz-railroad-simulator-2019-prr-x23-boxcar.json](./153190-trainz-railroad-simulator-2019-prr-x23-boxcar.json) |
@@ -28620,6 +28624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2022: Pro Train: BNSF Loco Bundle 1 | 393724 | [393724-trainz-railroad-simulator-2022-pro-train-bnsf-loco-bundle-1.json](./393724-trainz-railroad-simulator-2022-pro-train-bnsf-loco-bundle-1.json) |
 | Trainz Railroad Simulator 2022: Pro Train: CSX Loco Bundle 1 | 393725 | [393725-trainz-railroad-simulator-2022-pro-train-csx-loco-bundle-1.json](./393725-trainz-railroad-simulator-2022-pro-train-csx-loco-bundle-1.json) |
 | Trainz Railroad Simulator 2022: Pro Trainz TEE Rheingold | 205435 | [205435-trainz-railroad-simulator-2022-pro-trainz-tee-rheingold.json](./205435-trainz-railroad-simulator-2022-pro-trainz-tee-rheingold.json) |
+| Trainz Railroad Simulator 2022: ProTrain The Eastern Range | 285790 | [285790-trainz-railroad-simulator-2022-protrain-the-eastern-range.json](./285790-trainz-railroad-simulator-2022-protrain-the-eastern-range.json) |
 | Trainz Railroad Simulator 2022: PRR GP9 | 205409 | [205409-trainz-railroad-simulator-2022-prr-gp9.json](./205409-trainz-railroad-simulator-2022-prr-gp9.json) |
 | Trainz Railroad Simulator 2022: PRR T1 | 205355 | [205355-trainz-railroad-simulator-2022-prr-t1.json](./205355-trainz-railroad-simulator-2022-prr-t1.json) |
 | Trainz Railroad Simulator 2022: QJ Steam Locomotive | 205384 | [205384-trainz-railroad-simulator-2022-qj-steam-locomotive.json](./205384-trainz-railroad-simulator-2022-qj-steam-locomotive.json) |
