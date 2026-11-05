@@ -6709,6 +6709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitness Game: Romance Story | 256250 | [256250-fitness-game-romance-story.json](./256250-fitness-game-romance-story.json) |
 | Fitness Girl - Studio Coach | 86814 | [86814-fitness-girl-studio-coach.json](./86814-fitness-girl-studio-coach.json) |
 | Fitness Party | 136887 | [136887-fitness-party.json](./136887-fitness-party.json) |
+| Fitness RPG | 273686 | [273686-fitness-rpg.json](./273686-fitness-rpg.json) |
 | Fitness Village | 114697 | [114697-fitness-village.json](./114697-fitness-village.json) |
 | Fitriz | 212147 | [212147-fitriz.json](./212147-fitriz.json) |
 | FitStrike | 187138 | [187138-fitstrike.json](./187138-fitstrike.json) |
@@ -8363,6 +8364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Hard | 381027 | [381027-fly-hard.json](./381027-fly-hard.json) |
 | Fly Harder | 38847 | [38847-fly-harder.json](./38847-fly-harder.json) |
 | Fly High | 110161 | [110161-fly-high.json](./110161-fly-high.json) |
+| Fly High | 273713 | [273713-fly-high.json](./273713-fly-high.json) |
 | Fly High Collection | 386787 | [386787-fly-high-collection.json](./386787-fly-high-collection.json) |
 | Fly High Runners | 391575 | [391575-fly-high-runners.json](./391575-fly-high-runners.json) |
 | Fly Killer VR | 102222 | [102222-fly-killer-vr.json](./102222-fly-killer-vr.json) |
@@ -11635,6 +11637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin' vs. Keyboard Cat | 332876 | [332876-friday-night-funkin-vs-keyboard-cat.json](./332876-friday-night-funkin-vs-keyboard-cat.json) |
 | Friday Night Funkin' vs. LSE | 314509 | [314509-friday-night-funkin-vs-lse.json](./314509-friday-night-funkin-vs-lse.json) |
 | Friday Night Funkin' vs. NFT | 325104 | [325104-friday-night-funkin-vs-nft.json](./325104-friday-night-funkin-vs-nft.json) |
+| Friday Night Funkin' Vs. Ourple Guy | 273706 | [273706-friday-night-funkin-vs-ourple-guy.json](./273706-friday-night-funkin-vs-ourple-guy.json) |
 | Friday Night Funkin': B Sides | 285245 | [285245-friday-night-funkin-b-sides.json](./285245-friday-night-funkin-b-sides.json) |
 | Friday Night Funkin': Banbuds vs. Reggie the Rat | 202337 | [202337-friday-night-funkin-banbuds-vs-reggie-the-rat.json](./202337-friday-night-funkin-banbuds-vs-reggie-the-rat.json) |
 | Friday Night Funkin': CG5 Edition | 224523 | [224523-friday-night-funkin-cg5-edition.json](./224523-friday-night-funkin-cg5-edition.json) |
