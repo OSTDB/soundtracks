@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takoyaki Run | 398374 | [398374-takoyaki-run.json](./398374-takoyaki-run.json) |
 | Taksakah | 396649 | [396649-taksakah.json](./396649-taksakah.json) |
 | Takt of Magic | 91755 | [91755-takt-of-magic.json](./91755-takt-of-magic.json) |
+| Takua 64 | 277080 | [277080-takua-64.json](./277080-takua-64.json) |
 | Takuhai Maid Shiiko & Nono | 77901 | [77901-takuhai-maid-shiiko-and-nono.json](./77901-takuhai-maid-shiiko-and-nono.json) |
 | Takuhai Maid Shiiko-san | 77944 | [77944-takuhai-maid-shiiko-san.json](./77944-takuhai-maid-shiiko-san.json) |
 | Takume | 136420 | [136420-takume.json](./136420-takume.json) |
@@ -8109,6 +8110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Desire of the Amazons | 272279 | [272279-the-desire-of-the-amazons.json](./272279-the-desire-of-the-amazons.json) |
 | The Desolate Hope | 17351 | [17351-the-desolate-hope.json](./17351-the-desolate-hope.json) |
 | The Desolation | 179293 | [179293-the-desolation.json](./179293-the-desolation.json) |
+| The Desolation | 277081 | [277081-the-desolation.json](./277081-the-desolation.json) |
 | The Desperate Flight of Hand Solo | 293923 | [293923-the-desperate-flight-of-hand-solo.json](./293923-the-desperate-flight-of-hand-solo.json) |
 | The Destiny Of Nagari | 295229 | [295229-the-destiny-of-nagari.json](./295229-the-destiny-of-nagari.json) |
 | The Destiny of Zorro | 4804 | [4804-the-destiny-of-zorro.json](./4804-the-destiny-of-zorro.json) |
@@ -9366,6 +9368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Five Covens | 144864 | [144864-the-five-covens.json](./144864-the-five-covens.json) |
 | The Five Gods of Kung Fu | 185458 | [185458-the-five-gods-of-kung-fu.json](./185458-the-five-gods-of-kung-fu.json) |
 | The Five Nights at Freddy's Mod | 366300 | [366300-the-five-nights-at-freddys-mod.json](./366300-the-five-nights-at-freddys-mod.json) |
+| The Five Rivers Land | 277089 | [277089-the-five-rivers-land.json](./277089-the-five-rivers-land.json) |
 | The Five Steps to Ensuring Momo Graduates Successfully!!! | 216253 | [216253-the-five-steps-to-ensuring-momo-graduates-successfully.json](./216253-the-five-steps-to-ensuring-momo-graduates-successfully.json) |
 | The Fixer of the Adventurer's Guild | 287106 | [287106-the-fixer-of-the-adventurers-guild.json](./287106-the-fixer-of-the-adventurers-guild.json) |
 | The Fixies | 296083 | [296083-the-fixies.json](./296083-the-fixies.json) |
@@ -17990,6 +17993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Untouchables | 213865 | [213865-the-untouchables.json](./213865-the-untouchables.json) |
 | The Unwanted War | 274898 | [274898-the-unwanted-war.json](./274898-the-unwanted-war.json) |
 | The Unwelcomed | 32144 | [32144-the-unwelcomed.json](./32144-the-unwelcomed.json) |
+| The Unworld | 277069 | [277069-the-unworld.json](./277069-the-unworld.json) |
 | The Unworthy | 414862 | [414862-the-unworthy.json](./414862-the-unworthy.json) |
 | The Unwoven Unicorn | 410367 | [410367-the-unwoven-unicorn.json](./410367-the-unwoven-unicorn.json) |
 | The Upper Downer Complex | 285903 | [285903-the-upper-downer-complex.json](./285903-the-upper-downer-complex.json) |
