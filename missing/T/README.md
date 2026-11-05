@@ -3408,6 +3408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teeny Tidy | 352152 | [352152-teeny-tidy.json](./352152-teeny-tidy.json) |
 | Teeny Tiny Harbors | 319217 | [319217-teeny-tiny-harbors.json](./319217-teeny-tiny-harbors.json) |
 | Teeny Tiny Tarot | 182878 | [182878-teeny-tiny-tarot.json](./182878-teeny-tiny-tarot.json) |
+| Teeny Tiny Terror | 248995 | [248995-teeny-tiny-terror.json](./248995-teeny-tiny-terror.json) |
 | Teeny Tiny Town | 255045 | [255045-teeny-tiny-town.json](./255045-teeny-tiny-town.json) |
 | Teeny Tiny Trains | 297228 | [297228-teeny-tiny-trains.json](./297228-teeny-tiny-trains.json) |
 | Teeny Tiny Trains: The Enchanted Attic | 357286 | [357286-teeny-tiny-trains-the-enchanted-attic.json](./357286-teeny-tiny-trains-the-enchanted-attic.json) |
@@ -14052,6 +14053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night Jackals Vol. 1 | 289975 | [289975-the-night-jackals-vol-1.json](./289975-the-night-jackals-vol-1.json) |
 | The Night Job: Hotel | 379402 | [379402-the-night-job-hotel.json](./379402-the-night-job-hotel.json) |
 | The Night Journey | 105505 | [105505-the-night-journey.json](./105505-the-night-journey.json) |
+| The Night Market | 249001 | [249001-the-night-market.json](./249001-the-night-market.json) |
 | The Night of Death | 237464 | [237464-the-night-of-death.json](./237464-the-night-of-death.json) |
 | The Night of Erosion: Prequel | 267677 | [267677-the-night-of-erosion-prequel.json](./267677-the-night-of-erosion-prequel.json) |
 | The Night of Escape | 333493 | [333493-the-night-of-escape.json](./333493-the-night-of-escape.json) |
@@ -29378,6 +29380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash & Fists | 244093 | [244093-trash-and-fists.json](./244093-trash-and-fists.json) |
 | Trash Bandits | 125430 | [125430-trash-bandits.json](./125430-trash-bandits.json) |
 | Trash Battle | 369795 | [369795-trash-battle.json](./369795-trash-battle.json) |
+| Trash Bunny House | 248983 | [248983-trash-bunny-house.json](./248983-trash-bunny-house.json) |
 | Trash can Army | 278243 | [278243-trash-can-army.json](./278243-trash-can-army.json) |
 | Trash Can Tactics | 303114 | [303114-trash-can-tactics.json](./303114-trash-can-tactics.json) |
 | Trash Card Adventure | 373794 | [373794-trash-card-adventure.json](./373794-trash-card-adventure.json) |
