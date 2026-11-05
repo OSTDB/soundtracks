@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jabberwocky | 181861 | [181861-jabberwocky.json](./181861-jabberwocky.json) |
 | Jables's Adventure | 242721 | [242721-jabless-adventure.json](./242721-jabless-adventure.json) |
 | Jabroni Brawl: Episode 3 | 125123 | [125123-jabroni-brawl-episode-3.json](./125123-jabroni-brawl-episode-3.json) |
+| Jabuti Adventures | 273622 | [273622-jabuti-adventures.json](./273622-jabuti-adventures.json) |
 | JacadoLines | 185899 | [185899-jacadolines.json](./185899-jacadolines.json) |
 | Jacal | 223662 | [223662-jacal.json](./223662-jacal.json) |
 | Jacaranda Jim | 93463 | [93463-jacaranda-jim.json](./93463-jacaranda-jim.json) |
