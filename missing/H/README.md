@@ -8125,6 +8125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit Justin Bieber | 321018 | [321018-hit-justin-bieber.json](./321018-hit-justin-bieber.json) |
 | Hit Marmot | 48897 | [48897-hit-marmot.json](./48897-hit-marmot.json) |
 | Hit Me | 171260 | [171260-hit-me.json](./171260-hit-me.json) |
+| Hit Mouse | 247293 | [247293-hit-mouse.json](./247293-hit-mouse.json) |
 | Hit N 'Rush | 125355 | [125355-hit-n-rush.json](./125355-hit-n-rush.json) |
 | Hit N Descent | 179921 | [179921-hit-n-descent.json](./179921-hit-n-descent.json) |
 | Hit n' Bit | 319010 | [319010-hit-n-bit.json](./319010-hit-n-bit.json) |
