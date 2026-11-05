@@ -9701,6 +9701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rod-Land | 293157 | [293157-rod-land.json](./293157-rod-land.json) |
 | ROD: Revolt of Defense | 31933 | [31933-rod-revolt-of-defense.json](./31933-rod-revolt-of-defense.json) |
 | Roda a Roda | 254788 | [254788-roda-a-roda.json](./254788-roda-a-roda.json) |
+| RODB: Rhythm of Deck Builder | 275389 | [275389-rodb-rhythm-of-deck-builder.json](./275389-rodb-rhythm-of-deck-builder.json) |
 | Rode Kill: A Day in the Life | 73564 | [73564-rode-kill-a-day-in-the-life.json](./73564-rode-kill-a-day-in-the-life.json) |
 | Rode Quest 2: The Sweet Smell of Stenchie | 70176 | [70176-rode-quest-2-the-sweet-smell-of-stenchie.json](./70176-rode-quest-2-the-sweet-smell-of-stenchie.json) |
 | Rodea Eternal | 317613 | [317613-rodea-eternal.json](./317613-rodea-eternal.json) |
@@ -12315,6 +12316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runeflame | 303991 | [303991-runeflame.json](./303991-runeflame.json) |
 | Runeflame: Legacy of the Druids | 340558 | [340558-runeflame-legacy-of-the-druids.json](./340558-runeflame-legacy-of-the-druids.json) |
 | Runeforged: Monolith | 389856 | [389856-runeforged-monolith.json](./389856-runeforged-monolith.json) |
+| Runehaven | 275366 | [275366-runehaven.json](./275366-runehaven.json) |
 | RuneKeeper | 396664 | [396664-runekeeper.json](./396664-runekeeper.json) |
 | RuneLight | 250858 | [250858-runelight.json](./250858-runelight.json) |
 | Runeline | 388081 | [388081-runeline.json](./388081-runeline.json) |
