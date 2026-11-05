@@ -235,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sable's Grimoire: A Dragon's Treasure | 129724 | [129724-sables-grimoire-a-dragons-treasure.json](./129724-sables-grimoire-a-dragons-treasure.json) |
 | Sable's Grimoire: Man and Elf | 129725 | [129725-sables-grimoire-man-and-elf.json](./129725-sables-grimoire-man-and-elf.json) |
 | Saborus | 273995 | [273995-saborus.json](./273995-saborus.json) |
+| Sabotage | 246720 | [246720-sabotage.json](./246720-sabotage.json) |
 | Sabotage 1943 | 60940 | [60940-sabotage-1943.json](./60940-sabotage-1943.json) |
 | Sabotage City | 393820 | [393820-sabotage-city.json](./393820-sabotage-city.json) |
 | Sabotage Will Set Us Free | 181376 | [181376-sabotage-will-set-us-free.json](./181376-sabotage-will-set-us-free.json) |
@@ -1923,6 +1924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saoirse | 397715 | [397715-saoirse.json](./397715-saoirse.json) |
 | Sǎoléi Màoxiǎn Tán 2: Lùlùmǔ de Màoxiǎn | 163896 | [163896-saolei-maoxian-tan-2-lulumu-de-maoxian.json](./163896-saolei-maoxian-tan-2-lulumu-de-maoxian.json) |
 | Saomi | 199379 | [199379-saomi.json](./199379-saomi.json) |
+| Saorin to Issho!! | 246750 | [246750-saorin-to-issho.json](./246750-saorin-to-issho.json) |
 | Sapan | 104477 | [104477-sapan.json](./104477-sapan.json) |
 | Saphyro | 164978 | [164978-saphyro.json](./164978-saphyro.json) |
 | Sapiens | 55032 | [55032-sapiens.json](./55032-sapiens.json) |
@@ -7834,6 +7836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shennong: Taste of Illusion | 113015 | [113015-shennong-taste-of-illusion.json](./113015-shennong-taste-of-illusion.json) |
 | Shénqǐ Shénluò | 152760 | [152760-shenqi-shenluo.json](./152760-shenqi-shenluo.json) |
 | ShenShan | 126387 | [126387-shenshan.json](./126387-shenshan.json) |
+| ShenSonic | 246722 | [246722-shensonic.json](./246722-shensonic.json) |
 | Shēnxiàn Mígōng | 157908 | [157908-shenxian-migong.json](./157908-shenxian-migong.json) |
 | Shényóu Kèběn | 373714 | [373714-shenyou-keben.json](./373714-shenyou-keben.json) |
 | Shēnyuān | 165700 | [165700-shenyuan.json](./165700-shenyuan.json) |
@@ -13087,6 +13090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleep Stream | 306339 | [306339-sleep-stream.json](./306339-sleep-stream.json) |
 | Sleep Swimmer | 298645 | [298645-sleep-swimmer.json](./298645-sleep-swimmer.json) |
 | Sleep Terror | 292309 | [292309-sleep-terror.json](./292309-sleep-terror.json) |
+| Sleep the Blackbird | 246700 | [246700-sleep-the-blackbird.json](./246700-sleep-the-blackbird.json) |
 | Sleep Tight | 144258 | [144258-sleep-tight.json](./144258-sleep-tight.json) |
 | Sleep Tight | 183729 | [183729-sleep-tight.json](./183729-sleep-tight.json) |
 | Sleep Tight | 75866 | [75866-sleep-tight.json](./75866-sleep-tight.json) |
@@ -13906,6 +13910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slydris | 22271 | [22271-slydris.json](./22271-slydris.json) |
 | Slyme Breaker | 248336 | [248336-slyme-breaker.json](./248336-slyme-breaker.json) |
 | Slymoids | 42178 | [42178-slymoids.json](./42178-slymoids.json) |
+| SM | 246747 | [246747-sm.json](./246747-sm.json) |
 | SM Escalation | 97675 | [97675-sm-escalation.json](./97675-sm-escalation.json) |
 | SM Word | 93041 | [93041-sm-word.json](./93041-sm-word.json) |
 | SM2 | 237870 | [237870-sm2.json](./237870-sm2.json) |
@@ -17083,6 +17088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Blaze | 330512 | [330512-sonic-blaze.json](./330512-sonic-blaze.json) |
 | Sonic Boom | 12855 | [12855-sonic-boom.json](./12855-sonic-boom.json) |
 | Sonic Boom | 203165 | [203165-sonic-boom.json](./203165-sonic-boom.json) |
+| Sonic Boom | 246730 | [246730-sonic-boom.json](./246730-sonic-boom.json) |
 | Sonic Boom Cannon | 297603 | [297603-sonic-boom-cannon.json](./297603-sonic-boom-cannon.json) |
 | Sonic Boom Cannon 2 | 297604 | [297604-sonic-boom-cannon-2.json](./297604-sonic-boom-cannon-2.json) |
 | Sonic Boom Racing | 330592 | [330592-sonic-boom-racing.json](./330592-sonic-boom-racing.json) |
@@ -18108,6 +18114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soroekes Addictive Puzzle | 206560 | [206560-soroekes-addictive-puzzle.json](./206560-soroekes-addictive-puzzle.json) |
 | Sorority Life | 65948 | [65948-sorority-life.json](./65948-sorority-life.json) |
 | Sorority Panty Raid | 337138 | [337138-sorority-panty-raid.json](./337138-sorority-panty-raid.json) |
+| Sorority Rites | 246748 | [246748-sorority-rites.json](./246748-sorority-rites.json) |
 | Sorrow | 328854 | [328854-sorrow.json](./328854-sorrow.json) |
 | Sorrow Asylum | 259621 | [259621-sorrow-asylum.json](./259621-sorrow-asylum.json) |
 | Sorrow Asylum 2 | 264627 | [264627-sorrow-asylum-2.json](./264627-sorrow-asylum-2.json) |
@@ -29415,6 +29422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer & Winter: Olympic Challenge | 154958 | [154958-summer-and-winter-olympic-challenge.json](./154958-summer-and-winter-olympic-challenge.json) |
 | Summer Adventurers: Mediterranean | 374062 | [374062-summer-adventurers-mediterranean.json](./374062-summer-adventurers-mediterranean.json) |
 | Summer After Ten Years: Steam Edition | 263753 | [263753-summer-after-ten-years-steam-edition.json](./263753-summer-after-ten-years-steam-edition.json) |
+| Summer Album | 246737 | [246737-summer-album.json](./246737-summer-album.json) |
 | Summer and Poetry Journey | 308909 | [308909-summer-and-poetry-journey.json](./308909-summer-and-poetry-journey.json) |
 | Summer and Score Through the Doors | 391956 | [391956-summer-and-score-through-the-doors.json](./391956-summer-and-score-through-the-doors.json) |
 | Summer and Winter Sports Games Bundle: 4K Edition | 301778 | [301778-summer-and-winter-sports-games-bundle-4k-edition.json](./301778-summer-and-winter-sports-games-bundle-4k-edition.json) |
@@ -29654,6 +29662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumo Tatami | 274893 | [274893-sumo-tatami.json](./274893-sumo-tatami.json) |
 | Sumoman | 28026 | [28026-sumoman.json](./28026-sumoman.json) |
 | Sumomo Theatre | 254872 | [254872-sumomo-theatre.json](./254872-sumomo-theatre.json) |
+| Sumorbit | 246695 | [246695-sumorbit.json](./246695-sumorbit.json) |
 | SumoRoll | 410044 | [410044-sumoroll.json](./410044-sumoroll.json) |
 | Sumou | 385812 | [385812-sumou.json](./385812-sumou.json) |
 | Sump | 278460 | [278460-sump.json](./278460-sump.json) |
