@@ -6181,6 +6181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First They're Sour | 179186 | [179186-first-theyre-sour.json](./179186-first-theyre-sour.json) |
 | First Things First | 60006 | [60006-first-things-first.json](./60006-first-things-first.json) |
 | First Time in Hawaii | 236002 | [236002-first-time-in-hawaii.json](./236002-first-time-in-hawaii.json) |
+| First Time In Hawaii: Collector's Edition | 278238 | [278238-first-time-in-hawaii-collectors-edition.json](./278238-first-time-in-hawaii-collectors-edition.json) |
 | First Time in Paris | 189365 | [189365-first-time-in-paris.json](./189365-first-time-in-paris.json) |
 | First Time In Paris: Collector's Edition | 209143 | [209143-first-time-in-paris-collectors-edition.json](./209143-first-time-in-paris-collectors-edition.json) |
 | First Time in Rome | 207323 | [207323-first-time-in-rome.json](./207323-first-time-in-rome.json) |
@@ -8519,6 +8520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlyingChicken | 371894 | [371894-flyingchicken.json](./371894-flyingchicken.json) |
 | FlyingMetalSuit | 111989 | [111989-flyingmetalsuit.json](./111989-flyingmetalsuit.json) |
 | FlyInside Flight Simulator | 112710 | [112710-flyinside-flight-simulator.json](./112710-flyinside-flight-simulator.json) |
+| FlyKnight | 278211 | [278211-flyknight.json](./278211-flyknight.json) |
 | Flykt | 150418 | [150418-flykt.json](./150418-flykt.json) |
 | Flyland Wars: 2 Not Yours Mine | 173785 | [173785-flyland-wars-2-not-yours-mine.json](./173785-flyland-wars-2-not-yours-mine.json) |
 | Flyland Wars: 3 Model Trains | 173041 | [173041-flyland-wars-3-model-trains.json](./173041-flyland-wars-3-model-trains.json) |
