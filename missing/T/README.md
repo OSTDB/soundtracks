@@ -12046,6 +12046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Law | 186173 | [186173-the-law.json](./186173-the-law.json) |
 | The Lawn Zapper | 249095 | [249095-the-lawn-zapper.json](./249095-the-lawn-zapper.json) |
 | The Lawnmover Massacre | 409834 | [409834-the-lawnmover-massacre.json](./409834-the-lawnmover-massacre.json) |
+| The Lawnmower Man | 295046 | [295046-the-lawnmower-man.json](./295046-the-lawnmower-man.json) |
 | The Lawnmower Man | 388206 | [388206-the-lawnmower-man.json](./388206-the-lawnmower-man.json) |
 | The Lawnmower Man | 5397 | [5397-the-lawnmower-man.json](./5397-the-lawnmower-man.json) |
 | The Laws of Probability | 409407 | [409407-the-laws-of-probability.json](./409407-the-laws-of-probability.json) |
