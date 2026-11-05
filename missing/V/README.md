@@ -1159,6 +1159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veggie Killer Remastered | 127093 | [127093-veggie-killer-remastered.json](./127093-veggie-killer-remastered.json) |
 | Veggie Menace | 203926 | [203926-veggie-menace.json](./203926-veggie-menace.json) |
 | Veggie Panino Tactics | 323787 | [323787-veggie-panino-tactics.json](./323787-veggie-panino-tactics.json) |
+| Veggie Quest: The Puzzle Game | 248973 | [248973-veggie-quest-the-puzzle-game.json](./248973-veggie-quest-the-puzzle-game.json) |
 | Veggie Samurai | 94124 | [94124-veggie-samurai.json](./94124-veggie-samurai.json) |
 | Veggie Stand | 384480 | [384480-veggie-stand.json](./384480-veggie-stand.json) |
 | Veggie Tales 3D | 269838 | [269838-veggie-tales-3d.json](./269838-veggie-tales-3d.json) |
