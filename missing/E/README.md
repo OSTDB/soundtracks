@@ -660,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eBaseball Professional Yakyuu Spirits 2021: Grand Slam | 143624 | [143624-ebaseball-professional-yakyuu-spirits-2021-grand-slam.json](./143624-ebaseball-professional-yakyuu-spirits-2021-grand-slam.json) |
 | EBaseball: Pro Spirit | 393762 | [393762-ebaseball-pro-spirit.json](./393762-ebaseball-pro-spirit.json) |
 | eBaseball: Pro Spirit 2026 | 410262 | [410262-ebaseball-pro-spirit-2026.json](./410262-ebaseball-pro-spirit-2026.json) |
+| Ebbil: Alternative Bible | 284703 | [284703-ebbil-alternative-bible.json](./284703-ebbil-alternative-bible.json) |
 | Ebenezer and the Invisible World | 244457 | [244457-ebenezer-and-the-invisible-world.json](./244457-ebenezer-and-the-invisible-world.json) |
 | Eberouge | 97318 | [97318-eberouge.json](./97318-eberouge.json) |
 | Eberouge 2 | 171968 | [171968-eberouge-2.json](./171968-eberouge-2.json) |
@@ -7590,17 +7591,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exoprimal: Krieger - Patrol Car | 332616 | [332616-exoprimal-krieger-patrol-car.json](./332616-exoprimal-krieger-patrol-car.json) |
 | Exoprimal: Krieger Alpha Tin Machine Set | 298328 | [298328-exoprimal-krieger-alpha-tin-machine-set.json](./298328-exoprimal-krieger-alpha-tin-machine-set.json) |
 | Exoprimal: Krieger Mega Man Set | 298332 | [298332-exoprimal-krieger-mega-man-set.json](./298332-exoprimal-krieger-mega-man-set.json) |
+| Exoprimal: Krieger Yggdrasil-U Set | 284696 | [284696-exoprimal-krieger-yggdrasil-u-set.json](./284696-exoprimal-krieger-yggdrasil-u-set.json) |
 | Exoprimal: Murasame Alpha Gladiator Set | 298331 | [298331-exoprimal-murasame-alpha-gladiator-set.json](./298331-exoprimal-murasame-alpha-gladiator-set.json) |
+| Exoprimal: Murasame Shuten-Doji Set | 284699 | [284699-exoprimal-murasame-shuten-doji-set.json](./284699-exoprimal-murasame-shuten-doji-set.json) |
 | Exoprimal: Nimbus Alpha Kimen Set | 298327 | [298327-exoprimal-nimbus-alpha-kimen-set.json](./298327-exoprimal-nimbus-alpha-kimen-set.json) |
+| Exoprimal: Nimbus Fancy Banshee Set | 284693 | [284693-exoprimal-nimbus-fancy-banshee-set.json](./284693-exoprimal-nimbus-fancy-banshee-set.json) |
 | Exoprimal: Roadblock Alpha Big Bunny Set | 286248 | [286248-exoprimal-roadblock-alpha-big-bunny-set.json](./286248-exoprimal-roadblock-alpha-big-bunny-set.json) |
 | Exoprimal: Roadblock Tragic Monster Set | 256549 | [256549-exoprimal-roadblock-tragic-monster-set.json](./256549-exoprimal-roadblock-tragic-monster-set.json) |
 | Exoprimal: Season 3 | 295253 | [295253-exoprimal-season-3.json](./295253-exoprimal-season-3.json) |
 | Exoprimal: Season 4 | 295254 | [295254-exoprimal-season-4.json](./295254-exoprimal-season-4.json) |
 | Exoprimal: Skywave Alpha Future Flight Set | 298333 | [298333-exoprimal-skywave-alpha-future-flight-set.json](./298333-exoprimal-skywave-alpha-future-flight-set.json) |
+| Exoprimal: Skywave Fire Guardian Set | 284694 | [284694-exoprimal-skywave-fire-guardian-set.json](./284694-exoprimal-skywave-fire-guardian-set.json) |
 | Exoprimal: Vigilant Alpha Insurgent Set | 298334 | [298334-exoprimal-vigilant-alpha-insurgent-set.json](./298334-exoprimal-vigilant-alpha-insurgent-set.json) |
+| Exoprimal: Vigilant Metallic Cat Set | 284697 | [284697-exoprimal-vigilant-metallic-cat-set.json](./284697-exoprimal-vigilant-metallic-cat-set.json) |
+| Exoprimal: Vigilant Street Fighter Set | 284695 | [284695-exoprimal-vigilant-street-fighter-set.json](./284695-exoprimal-vigilant-street-fighter-set.json) |
 | Exoprimal: Witchdoctor Mega Man Set | 298330 | [298330-exoprimal-witchdoctor-mega-man-set.json](./298330-exoprimal-witchdoctor-mega-man-set.json) |
 | Exoprimal: Witchdoctor UFO Set | 256551 | [256551-exoprimal-witchdoctor-ufo-set.json](./256551-exoprimal-witchdoctor-ufo-set.json) |
 | Exoprimal: Zephyr Security Guard Set | 256548 | [256548-exoprimal-zephyr-security-guard-set.json](./256548-exoprimal-zephyr-security-guard-set.json) |
+| Exoprimal: Zephyr Street Fighter Set | 284700 | [284700-exoprimal-zephyr-street-fighter-set.json](./284700-exoprimal-zephyr-street-fighter-set.json) |
 | Exoracer | 219092 | [219092-exoracer.json](./219092-exoracer.json) |
 | Exorcise | 304519 | [304519-exorcise.json](./304519-exorcise.json) |
 | Exorcise Demons | 121953 | [121953-exorcise-demons.json](./121953-exorcise-demons.json) |
