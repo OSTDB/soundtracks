@@ -536,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Conflict | 200312 | [200312-galactic-conflict.json](./200312-galactic-conflict.json) |
 | Galactic Conqueror | 14894 | [14894-galactic-conqueror.json](./14894-galactic-conqueror.json) |
 | Galactic Conquest | 94918 | [94918-galactic-conquest.json](./94918-galactic-conquest.json) |
+| Galactic Conquest Battle Infinity | 249572 | [249572-galactic-conquest-battle-infinity.json](./249572-galactic-conquest-battle-infinity.json) |
 | Galactic Core | 278601 | [278601-galactic-core.json](./278601-galactic-core.json) |
 | Galactic Core: The Lost Fleet | 30100 | [30100-galactic-core-the-lost-fleet.json](./30100-galactic-core-the-lost-fleet.json) |
 | Galactic Corsairs | 273618 | [273618-galactic-corsairs.json](./273618-galactic-corsairs.json) |
@@ -4013,6 +4014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostslayers | 325369 | [325369-ghostslayers.json](./325369-ghostslayers.json) |
 | Ghoststory | 89954 | [89954-ghoststory.json](./89954-ghoststory.json) |
 | Ghostus | 263329 | [263329-ghostus.json](./263329-ghostus.json) |
+| GhostVac | 249533 | [249533-ghostvac.json](./249533-ghostvac.json) |
 | Ghostwage | 224694 | [224694-ghostwage.json](./224694-ghostwage.json) |
 | Ghostware: Arena of the Dead | 203733 | [203733-ghostware-arena-of-the-dead.json](./203733-ghostware-arena-of-the-dead.json) |
 | Ghostwinter | 148558 | [148558-ghostwinter.json](./148558-ghostwinter.json) |
@@ -8679,6 +8681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed Adventure | 102323 | [102323-greed-adventure.json](./102323-greed-adventure.json) |
 | Greed and Fear and the Rest | 295857 | [295857-greed-and-fear-and-the-rest.json](./295857-greed-and-fear-and-the-rest.json) |
 | Greed and Greed | 407842 | [407842-greed-and-greed.json](./407842-greed-and-greed.json) |
+| Greed and Grind | 249567 | [249567-greed-and-grind.json](./249567-greed-and-grind.json) |
 | Greed Champions | 402386 | [402386-greed-champions.json](./402386-greed-champions.json) |
 | Greed City | 341900 | [341900-greed-city.json](./341900-greed-city.json) |
 | Greed Corp | 16170 | [16170-greed-corp.json](./16170-greed-corp.json) |
@@ -9630,6 +9633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster: Wai Wai Party!!!! - Touhou Project Arrangements Pack 4 | 237884 | [237884-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-4.json](./237884-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-4.json) |
 | Groove Coaster: Wai Wai Party!!!! - Touhou Project Arrangements Pack 5 | 237885 | [237885-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-5.json](./237885-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-5.json) |
 | Groove Coaster: Wai Wai Party!!!! - Touhou Project Arrangements Pack 6 | 237887 | [237887-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-6.json](./237887-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-6.json) |
+| Groove Coaster: Wai Wai Party!!!! - Touhou Project Arrangements Pack 8 | 249579 | [249579-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-8.json](./249579-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-8.json) |
 | Groove Coaster: Wai Wai Party!!!! - Undertale + Deltarune Pack | 283179 | [283179-groove-coaster-wai-wai-party-undertale-deltarune-pack.json](./283179-groove-coaster-wai-wai-party-undertale-deltarune-pack.json) |
 | Groove Coaster: Wai Wai Party!!!! - Undertale Pack | 237875 | [237875-groove-coaster-wai-wai-party-undertale-pack.json](./237875-groove-coaster-wai-wai-party-undertale-pack.json) |
 | Groove Coaster: Wai Wai Party!!!! - Vocaloid Pack 1 | 237876 | [237876-groove-coaster-wai-wai-party-vocaloid-pack-1.json](./237876-groove-coaster-wai-wai-party-vocaloid-pack-1.json) |
