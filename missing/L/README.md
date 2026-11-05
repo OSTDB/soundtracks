@@ -4800,6 +4800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lights In The Sky | 310267 | [310267-lights-in-the-sky.json](./310267-lights-in-the-sky.json) |
 | Lights of Life | 260259 | [260259-lights-of-life.json](./260259-lights-of-life.json) |
 | Lights Off | 100159 | [100159-lights-off.json](./100159-lights-off.json) |
+| Lights Off: Director's Cut | 287468 | [287468-lights-off-directors-cut.json](./287468-lights-off-directors-cut.json) |
 | Lights Off! | 202514 | [202514-lights-off.json](./202514-lights-off.json) |
 | Lights Orb | 143316 | [143316-lights-orb.json](./143316-lights-orb.json) |
 | Lights Out | 199429 | [199429-lights-out.json](./199429-lights-out.json) |
@@ -5517,6 +5518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liquidator | 72446 | [72446-liquidator.json](./72446-liquidator.json) |
 | Liquidator: 3D Action Game | 205975 | [205975-liquidator-3d-action-game.json](./205975-liquidator-3d-action-game.json) |
 | Liquidators | 147297 | [147297-liquidators.json](./147297-liquidators.json) |
+| Liquidum | 287430 | [287430-liquidum.json](./287430-liquidum.json) |
 | Liquidum: Femme Fatale | 297334 | [297334-liquidum-femme-fatale.json](./297334-liquidum-femme-fatale.json) |
 | Liquidum: Mirrors | 298077 | [298077-liquidum-mirrors.json](./298077-liquidum-mirrors.json) |
 | Liquidum: Secrets of the Deep | 310387 | [310387-liquidum-secrets-of-the-deep.json](./310387-liquidum-secrets-of-the-deep.json) |
@@ -8394,6 +8396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Connect | 268992 | [268992-love-connect.json](./268992-love-connect.json) |
 | Love Connection! | 242789 | [242789-love-connection.json](./242789-love-connection.json) |
 | Love Cooking at Home? Turn your Hobby into a Business! | 156122 | [156122-love-cooking-at-home-turn-your-hobby-into-a-business.json](./156122-love-cooking-at-home-turn-your-hobby-into-a-business.json) |
+| Love Criminals | 287471 | [287471-love-criminals.json](./287471-love-criminals.json) |
 | Love Cubed AR | 96572 | [96572-love-cubed-ar.json](./96572-love-cubed-ar.json) |
 | Love Cupid | 199995 | [199995-love-cupid.json](./199995-love-cupid.json) |
 | Love Curse: Find Your Soulmate | 310714 | [310714-love-curse-find-your-soulmate.json](./310714-love-curse-find-your-soulmate.json) |
