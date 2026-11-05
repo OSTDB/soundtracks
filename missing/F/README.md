@@ -5665,6 +5665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Breathers | 243935 | [243935-fire-breathers.json](./243935-fire-breathers.json) |
 | Fire Burning City | 346676 | [346676-fire-burning-city.json](./346676-fire-burning-city.json) |
 | Fire Chat: K-BulMung | 372216 | [372216-fire-chat-k-bulmung.json](./372216-fire-chat-k-bulmung.json) |
+| Fire Chief | 264441 | [264441-fire-chief.json](./264441-fire-chief.json) |
 | Fire Combat | 381297 | [381297-fire-combat.json](./381297-fire-combat.json) |
 | Fire Commander: First Response | 166188 | [166188-fire-commander-first-response.json](./166188-fire-commander-first-response.json) |
 | Fire Copter | 69475 | [69475-fire-copter.json](./69475-fire-copter.json) |
@@ -9159,6 +9160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foqus | 46609 | [46609-foqus.json](./46609-foqus.json) |
 | For a Better Country | 121373 | [121373-for-a-better-country.json](./121373-for-a-better-country.json) |
 | For a Place by the Putrid Sea | 297600 | [297600-for-a-place-by-the-putrid-sea.json](./297600-for-a-place-by-the-putrid-sea.json) |
+| For a Reason | 264437 | [264437-for-a-reason.json](./264437-for-a-reason.json) |
 | For a Vast Future | 144170 | [144170-for-a-vast-future.json](./144170-for-a-vast-future.json) |
 | For a Vast Future: Colour Palette 1 | 295703 | [295703-for-a-vast-future-colour-palette-1.json](./295703-for-a-vast-future-colour-palette-1.json) |
 | For a Vast Future: Colour Palette 10 | 295702 | [295702-for-a-vast-future-colour-palette-10.json](./295702-for-a-vast-future-colour-palette-10.json) |
@@ -10394,6 +10396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forwards Compatible | 271742 | [271742-forwards-compatible.json](./271742-forwards-compatible.json) |
 | Foryster | 312225 | [312225-foryster.json](./312225-foryster.json) |
 | Forza Customs | 276889 | [276889-forza-customs.json](./276889-forza-customs.json) |
+| Forza Horizion 5: Barbie The Movie Car Pack | 264433 | [264433-forza-horizion-5-barbie-the-movie-car-pack.json](./264433-forza-horizion-5-barbie-the-movie-car-pack.json) |
 | Forza Horizon | 3047 | [3047-forza-horizon.json](./3047-forza-horizon.json) |
 | Forza Horizon - December IGN Car Pack | 132825 | [132825-forza-horizon-december-ign-car-pack.json](./132825-forza-horizon-december-ign-car-pack.json) |
 | Forza Horizon 2 | 7326 | [7326-forza-horizon-2.json](./7326-forza-horizon-2.json) |
@@ -12596,6 +12599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Master | 105796 | [105796-fruit-master.json](./105796-fruit-master.json) |
 | Fruit Master | 105852 | [105852-fruit-master.json](./105852-fruit-master.json) |
 | Fruit Merge | 322806 | [322806-fruit-merge.json](./322806-fruit-merge.json) |
+| Fruit Mess | 264386 | [264386-fruit-mess.json](./264386-fruit-mess.json) |
 | Fruit Mountain Party | 334302 | [334302-fruit-mountain-party.json](./334302-fruit-mountain-party.json) |
 | Fruit Ninja | 290243 | [290243-fruit-ninja.json](./290243-fruit-ninja.json) |
 | Fruit Ninja 2 | 336284 | [336284-fruit-ninja-2.json](./336284-fruit-ninja-2.json) |
