@@ -6109,6 +6109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Quest 1: The Forest | 107739 | [107739-maze-quest-1-the-forest.json](./107739-maze-quest-1-the-forest.json) |
 | Maze Quest 2: The Desert | 119587 | [119587-maze-quest-2-the-desert.json](./119587-maze-quest-2-the-desert.json) |
 | Maze Quest Master | 270186 | [270186-maze-quest-master.json](./270186-maze-quest-master.json) |
+| Maze Quest Master: Cyclist | 272610 | [272610-maze-quest-master-cyclist.json](./272610-maze-quest-master-cyclist.json) |
 | Maze Race Challenge | 101509 | [101509-maze-race-challenge.json](./101509-maze-race-challenge.json) |
 | Maze Racers | 180503 | [180503-maze-racers.json](./180503-maze-racers.json) |
 | Maze Racing | 239116 | [239116-maze-racing.json](./239116-maze-racing.json) |
@@ -9026,6 +9027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenary Ops | 65175 | [65175-mercenary-ops.json](./65175-mercenary-ops.json) |
 | Mercenary Squad Auto Chess | 285366 | [285366-mercenary-squad-auto-chess.json](./285366-mercenary-squad-auto-chess.json) |
 | Mercenary Tactics | 310800 | [310800-mercenary-tactics.json](./310800-mercenary-tactics.json) |
+| Mercenary Warriors | 272621 | [272621-mercenary-warriors.json](./272621-mercenary-warriors.json) |
 | Mercenary: Compendium Edition | 403312 | [403312-mercenary-compendium-edition.json](./403312-mercenary-compendium-edition.json) |
 | Mercenary: The Second City | 15500 | [15500-mercenary-the-second-city.json](./15500-mercenary-the-second-city.json) |
 | Mercer Mayer's Little Critter and the Great Race | 71347 | [71347-mercer-mayers-little-critter-and-the-great-race.json](./71347-mercer-mayers-little-critter-and-the-great-race.json) |
@@ -9857,6 +9859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Methods 5: The Last Stage | 335807 | [335807-methods-5-the-last-stage.json](./335807-methods-5-the-last-stage.json) |
 | Methods: Detective Competition | 319558 | [319558-methods-detective-competition.json](./319558-methods-detective-competition.json) |
 | Methods: The Canada Files | 224567 | [224567-methods-the-canada-files.json](./224567-methods-the-canada-files.json) |
+| Methods: The Illusion Murders | 272598 | [272598-methods-the-illusion-murders.json](./272598-methods-the-illusion-murders.json) |
 | Meticulous | 237085 | [237085-meticulous.json](./237085-meticulous.json) |
 | Meticulous: Meet All Your Needs | 215614 | [215614-meticulous-meet-all-your-needs.json](./215614-meticulous-meet-all-your-needs.json) |
 | Metin2 | 3119 | [3119-metin2.json](./3119-metin2.json) |
@@ -10975,6 +10978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Riff | 350888 | [350888-midnight-riff.json](./350888-midnight-riff.json) |
 | Midnight Road Warriors | 209513 | [209513-midnight-road-warriors.json](./209513-midnight-road-warriors.json) |
 | Midnight Rogues | 419760 | [419760-midnight-rogues.json](./419760-midnight-rogues.json) |
+| Midnight Run | 272597 | [272597-midnight-run.json](./272597-midnight-run.json) |
 | Midnight Runner: Blade Galaxy Beat Puzzle Legacy 3D Games Ultimate Edition | 231258 | [231258-midnight-runner-blade-galaxy-beat-puzzle-legacy-3d-games-ultimate-edition.json](./231258-midnight-runner-blade-galaxy-beat-puzzle-legacy-3d-games-ultimate-edition.json) |
 | Midnight Rush | 187658 | [187658-midnight-rush.json](./187658-midnight-rush.json) |
 | Midnight Saga: The Monster | 212974 | [212974-midnight-saga-the-monster.json](./212974-midnight-saga-the-monster.json) |
@@ -14228,6 +14232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mochiko the Samurai | 385923 | [385923-mochiko-the-samurai.json](./385923-mochiko-the-samurai.json) |
 | Mochiko-san Reunion! | 237286 | [237286-mochiko-san-reunion.json](./237286-mochiko-san-reunion.json) |
 | MochiMochi | 107533 | [107533-mochimochi.json](./107533-mochimochi.json) |
+| Moci Over It | 272603 | [272603-moci-over-it.json](./272603-moci-over-it.json) |
 | Mock 2: The Speed of Stupid | 238485 | [238485-mock-2-the-speed-of-stupid.json](./238485-mock-2-the-speed-of-stupid.json) |
 | Mockbuster Video | 405850 | [405850-mockbuster-video.json](./405850-mockbuster-video.json) |
 | Mockingbird | 264759 | [264759-mockingbird.json](./264759-mockingbird.json) |
@@ -14870,6 +14875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Theft | 341249 | [341249-money-theft.json](./341249-money-theft.json) |
 | Money Town | 47294 | [47294-money-town.json](./47294-money-town.json) |
 | Money Trails | 406675 | [406675-money-trails.json](./406675-money-trails.json) |
+| Money Transporter | 272602 | [272602-money-transporter.json](./272602-money-transporter.json) |
 | Money Tree | 373237 | [373237-money-tree.json](./373237-money-tree.json) |
 | Money Tree | 405322 | [405322-money-tree.json](./405322-money-tree.json) |
 | Money Under the Bed | 392839 | [392839-money-under-the-bed.json](./392839-money-under-the-bed.json) |
@@ -17039,6 +17045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortimer Beckett and the Time Paradox | 8327 | [8327-mortimer-beckett-and-the-time-paradox.json](./8327-mortimer-beckett-and-the-time-paradox.json) |
 | Mortimer: First Launch | 341337 | [341337-mortimer-first-launch.json](./341337-mortimer-first-launch.json) |
 | Mortis Chronicles: Tale of Cowardice | 190012 | [190012-mortis-chronicles-tale-of-cowardice.json](./190012-mortis-chronicles-tale-of-cowardice.json) |
+| Mortisomem | 272604 | [272604-mortisomem.json](./272604-mortisomem.json) |
 | Morto: Chapter 1 | 163700 | [163700-morto-chapter-1.json](./163700-morto-chapter-1.json) |
 | Morto: Chapter 2 | 284497 | [284497-morto-chapter-2.json](./284497-morto-chapter-2.json) |
 | Mortol | 318311 | [318311-mortol.json](./318311-mortol.json) |
@@ -19596,6 +19603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My 3rd Date with my Cyber Girlfriend | 183401 | [183401-my-3rd-date-with-my-cyber-girlfriend.json](./183401-my-3rd-date-with-my-cyber-girlfriend.json) |
 | My 5-Star Hotel | 106897 | [106897-my-5-star-hotel.json](./106897-my-5-star-hotel.json) |
 | My 9 Swallows: Topstars League | 241525 | [241525-my-9-swallows-topstars-league.json](./241525-my-9-swallows-topstars-league.json) |
+| My Academy's Special Place | 272601 | [272601-my-academys-special-place.json](./272601-my-academys-special-place.json) |
 | My Adaptation In(to) Human | 301348 | [301348-my-adaptation-in-to-human.json](./301348-my-adaptation-in-to-human.json) |
 | My Adventure Book | 288722 | [288722-my-adventure-book.json](./288722-my-adventure-book.json) |
 | My Adventures Checking Out "Animals of the World: The Adventures of Civette the Space-Faring Civet" | 186455 | [186455-my-adventures-checking-out-animals-of-the-world-the-adventures-of-civette-the-space-faring-civet.json](./186455-my-adventures-checking-out-animals-of-the-world-the-adventures-of-civette-the-space-faring-civet.json) |
@@ -20335,6 +20343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Pony: Harmony Quest | 138462 | [138462-my-little-pony-harmony-quest.json](./138462-my-little-pony-harmony-quest.json) |
 | My Little Pony: Magic Garden | 282122 | [282122-my-little-pony-magic-garden.json](./282122-my-little-pony-magic-garden.json) |
 | My Little Pony: Mane Merge | 242387 | [242387-my-little-pony-mane-merge.json](./242387-my-little-pony-mane-merge.json) |
+| My Little Pony: Party of One | 272609 | [272609-my-little-pony-party-of-one.json](./272609-my-little-pony-party-of-one.json) |
 | My Little Pony: Pinkie Pie's Party | 80769 | [80769-my-little-pony-pinkie-pies-party.json](./80769-my-little-pony-pinkie-pies-party.json) |
 | My Little Pony: Pinkie Pie's Party Parade | 76474 | [76474-my-little-pony-pinkie-pies-party-parade.json](./76474-my-little-pony-pinkie-pies-party-parade.json) |
 | My Little Pony: Pocket Ponies | 138461 | [138461-my-little-pony-pocket-ponies.json](./138461-my-little-pony-pocket-ponies.json) |
