@@ -7740,6 +7740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Amulets | 116457 | [116457-lost-amulets.json](./116457-lost-amulets.json) |
 | Lost Amulets: Four Guardians | 223170 | [223170-lost-amulets-four-guardians.json](./223170-lost-amulets-four-guardians.json) |
 | Lost Amulets: Mystic Land | 104512 | [104512-lost-amulets-mystic-land.json](./104512-lost-amulets-mystic-land.json) |
+| Lost and Damned | 259332 | [259332-lost-and-damned.json](./259332-lost-and-damned.json) |
 | Lost and Flounder | 108985 | [108985-lost-and-flounder.json](./108985-lost-and-flounder.json) |
 | Lost and Forgotten | 268637 | [268637-lost-and-forgotten.json](./268637-lost-and-forgotten.json) |
 | Lost and Found Co. | 224629 | [224629-lost-and-found-co.json](./224629-lost-and-found-co.json) |
