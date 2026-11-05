@@ -5833,6 +5833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Is it OK to pick up Anomalies at a University? | 301946 | [301946-is-it-ok-to-pick-up-anomalies-at-a-university.json](./301946-is-it-ok-to-pick-up-anomalies-at-a-university.json) |
 | Is It Okay to Trust a Talkative Turtle? | 419091 | [419091-is-it-okay-to-trust-a-talkative-turtle.json](./419091-is-it-okay-to-trust-a-talkative-turtle.json) |
 | Is it True? Castle True-or-False Quiz | 385096 | [385096-is-it-true-castle-true-or-false-quiz.json](./385096-is-it-true-castle-true-or-false-quiz.json) |
+| Is It Wrong To Kiss The Bracken?! | 286893 | [286893-is-it-wrong-to-kiss-the-bracken.json](./286893-is-it-wrong-to-kiss-the-bracken.json) |
 | Is It Wrong to Repay the Debt in a Dungeon? | 220040 | [220040-is-it-wrong-to-repay-the-debt-in-a-dungeon.json](./220040-is-it-wrong-to-repay-the-debt-in-a-dungeon.json) |
 | Is It Wrong to Try to Pick Up Girls in a Dungeon? Infinite Combate | 47160 | [47160-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-infinite-combate.json](./47160-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-infinite-combate.json) |
 | Is It Wrong to Try to Pick Up Girls in a Dungeon?: Battle Chronicle | 287107 | [287107-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-battle-chronicle.json](./287107-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-battle-chronicle.json) |
