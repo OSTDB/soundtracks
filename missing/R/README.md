@@ -10777,6 +10777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roomservice | 194840 | [194840-roomservice.json](./194840-roomservice.json) |
 | Roomspeed | 400848 | [400848-roomspeed.json](./400848-roomspeed.json) |
 | Rooniverse | 214984 | [214984-rooniverse.json](./214984-rooniverse.json) |
+| RoonSehv: NeTerra | 278771 | [278771-roonsehv-neterra.json](./278771-roonsehv-neterra.json) |
 | Roopocket | 122171 | [122171-roopocket.json](./122171-roopocket.json) |
 | Roost | 220147 | [220147-roost.json](./220147-roost.json) |
 | Roost | 329111 | [329111-roost.json](./329111-roost.json) |
