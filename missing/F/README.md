@@ -1356,6 +1356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout: New Vegas - Old World Blues | 10306 | [10306-fallout-new-vegas-old-world-blues.json](./10306-fallout-new-vegas-old-world-blues.json) |
 | Fallout: New Vegas - Ultimate Edition | 25532 | [25532-fallout-new-vegas-ultimate-edition.json](./25532-fallout-new-vegas-ultimate-edition.json) |
 | Fallout: New Vegas Remaster | 410463 | [410463-fallout-new-vegas-remaster.json](./410463-fallout-new-vegas-remaster.json) |
+| Fallout: Oblivion Lost | 250696 | [250696-fallout-oblivion-lost.json](./250696-fallout-oblivion-lost.json) |
 | Fallout: Sonora | 237831 | [237831-fallout-sonora.json](./237831-fallout-sonora.json) |
 | Fallout: Sonora Dayglow | 333655 | [333655-fallout-sonora-dayglow.json](./333655-fallout-sonora-dayglow.json) |
 | Fallout: The Frontier | 25878 | [25878-fallout-the-frontier.json](./25878-fallout-the-frontier.json) |
@@ -6101,6 +6102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireworks | 216066 | [216066-fireworks.json](./216066-fireworks.json) |
 | Fireworks | 78085 | [78085-fireworks.json](./78085-fireworks.json) |
 | Fireworks Extravaganza | 57611 | [57611-fireworks-extravaganza.json](./57611-fireworks-extravaganza.json) |
+| Fireworks Frenzy | 250727 | [250727-fireworks-frenzy.json](./250727-fireworks-frenzy.json) |
 | Fireworks Mania | 126512 | [126512-fireworks-mania.json](./126512-fireworks-mania.json) |
 | Fireworks Show A | 354392 | [354392-fireworks-show-a.json](./354392-fireworks-show-a.json) |
 | Fireworks Show B | 354393 | [354393-fireworks-show-b.json](./354393-fireworks-show-b.json) |
@@ -6350,6 +6352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishbane | 128871 | [128871-fishbane.json](./128871-fishbane.json) |
 | Fishbone | 218068 | [218068-fishbone.json](./218068-fishbone.json) |
 | Fishbones | 122194 | [122194-fishbones.json](./122194-fishbones.json) |
+| Fishbowl | 250733 | [250733-fishbowl.json](./250733-fishbowl.json) |
 | Fishbowl | 68629 | [68629-fishbowl.json](./68629-fishbowl.json) |
 | Fishbowl Kid | 235787 | [235787-fishbowl-kid.json](./235787-fishbowl-kid.json) |
 | Fishbowl Racer | 198019 | [198019-fishbowl-racer.json](./198019-fishbowl-racer.json) |
@@ -10389,6 +10392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune Lover Trial Version: Geordo Edition | 254932 | [254932-fortune-lover-trial-version-geordo-edition.json](./254932-fortune-lover-trial-version-geordo-edition.json) |
 | Fortune Lover Trial Version: Keith Edition | 254934 | [254934-fortune-lover-trial-version-keith-edition.json](./254934-fortune-lover-trial-version-keith-edition.json) |
 | Fortune Lover Trial Version: Nicol Edition | 254936 | [254936-fortune-lover-trial-version-nicol-edition.json](./254936-fortune-lover-trial-version-nicol-edition.json) |
+| Fortune Miles Away | 250716 | [250716-fortune-miles-away.json](./250716-fortune-miles-away.json) |
 | Fortune Paradox | 405083 | [405083-fortune-paradox.json](./405083-fortune-paradox.json) |
 | Fortune Quest: Dice wo Korogase | 42242 | [42242-fortune-quest-dice-wo-korogase.json](./42242-fortune-quest-dice-wo-korogase.json) |
 | Fortune Rewritten: Costume Pack 1 | 277939 | [277939-fortune-rewritten-costume-pack-1.json](./277939-fortune-rewritten-costume-pack-1.json) |
@@ -11215,6 +11219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freak Festival | 274338 | [274338-freak-festival.json](./274338-freak-festival.json) |
 | Freak Fortress 2 | 363055 | [363055-freak-fortress-2.json](./363055-freak-fortress-2.json) |
 | Freak House | 292236 | [292236-freak-house.json](./292236-freak-house.json) |
+| Freak Hunter A Retro Type | 250697 | [250697-freak-hunter-a-retro-type.json](./250697-freak-hunter-a-retro-type.json) |
 | Freak Hunter A Retro Type: Bonus Level Pack | 271046 | [271046-freak-hunter-a-retro-type-bonus-level-pack.json](./271046-freak-hunter-a-retro-type-bonus-level-pack.json) |
 | Freak Run | 232334 | [232334-freak-run.json](./232334-freak-run.json) |
 | Freak Show: Party Royale! | 236139 | [236139-freak-show-party-royale.json](./236139-freak-show-party-royale.json) |
@@ -12722,6 +12727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruity Game | 400565 | [400565-fruity-game.json](./400565-fruity-game.json) |
 | Fruity Rogue | 327702 | [327702-fruity-rogue.json](./327702-fruity-rogue.json) |
 | Frukt | 391456 | [391456-frukt.json](./391456-frukt.json) |
+| Frupu VR Fruit Punch | 250717 | [250717-frupu-vr-fruit-punch.json](./250717-frupu-vr-fruit-punch.json) |
 | Frustrate-a-ball | 367150 | [367150-frustrate-a-ball.json](./367150-frustrate-a-ball.json) |
 | Frustration Golf | 181713 | [181713-frustration-golf.json](./181713-frustration-golf.json) |
 | Frustration Nation | 335504 | [335504-frustration-nation.json](./335504-frustration-nation.json) |
@@ -13352,6 +13358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furi: Modore Edition | 201943 | [201943-furi-modore-edition.json](./201943-furi-modore-edition.json) |
 | Furi: One More Fight | 53090 | [53090-furi-one-more-fight.json](./53090-furi-one-more-fight.json) |
 | Furi: Onnamusha | 200436 | [200436-furi-onnamusha.json](./200436-furi-onnamusha.json) |
+| Furia de Weichafes | 250711 | [250711-furia-de-weichafes.json](./250711-furia-de-weichafes.json) |
 | Furidashi: Drift Cyber Sport | 74669 | [74669-furidashi-drift-cyber-sport.json](./74669-furidashi-drift-cyber-sport.json) |
 | Furies & Magazines: Episode 1 | 243563 | [243563-furies-and-magazines-episode-1.json](./243563-furies-and-magazines-episode-1.json) |
 | Furies: Last Escape | 181491 | [181491-furies-last-escape.json](./181491-furies-last-escape.json) |
