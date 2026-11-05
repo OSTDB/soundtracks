@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-04T08:56:03.254Z",
-  "total_soundtracks": 2931,
+  "generated_at": "2026-11-05T06:26:01.632Z",
+  "total_soundtracks": 2934,
   "games": [
     {
       "igdb_id": 7522,
@@ -1535,6 +1535,20 @@
         {
           "album_name": "Anomaly Agent (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/43W7ieSDXe7pAVYh6PIBi1",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 27055,
+      "game_name": "Another Eden",
+      "game_url": "https://ostdb.net/games/another-eden",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a604110f94a53205d1ce4076",
+      "albums": [
+        {
+          "album_name": "Another Eden Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1cok5Cjtq8Jqd3wpzM7IMR",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -22119,6 +22133,20 @@
       ]
     },
     {
+      "igdb_id": 33363,
+      "game_name": "Overload",
+      "game_url": "https://ostdb.net/games/overload",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273097b8a6884d6b5b809e31788",
+      "albums": [
+        {
+          "album_name": "Overload (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4Io5yXWmjK8KCI2lWGZ6yV",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 125174,
       "game_name": "Overwatch",
       "game_url": "https://ostdb.net/games/overwatch",
@@ -25465,6 +25493,20 @@
         {
           "album_name": "RUMU (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1vmBdHXKXBwNE2N0Nv0bdl",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 28123,
+      "game_name": "Run 3",
+      "game_url": "https://ostdb.net/games/run-3",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731a6904ab62b76f44b952d760",
+      "albums": [
+        {
+          "album_name": "Run 3 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6zrHyC0rAfcfXqvDZqVFuy",
           "apple_music_url": "",
           "album_link_url": ""
         }
