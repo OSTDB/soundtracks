@@ -3068,6 +3068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weed Supermarket Simulator | 383739 | [383739-weed-supermarket-simulator.json](./383739-weed-supermarket-simulator.json) |
 | Weed Syndicate Empire | 347066 | [347066-weed-syndicate-empire.json](./347066-weed-syndicate-empire.json) |
 | Weedcraft Inc | 110486 | [110486-weedcraft-inc.json](./110486-weedcraft-inc.json) |
+| Weedcraft Inc & Big Pharm Pharmacy Tycoon Bundle | 267143 | [267143-weedcraft-inc-and-big-pharm-pharmacy-tycoon-bundle.json](./267143-weedcraft-inc-and-big-pharm-pharmacy-tycoon-bundle.json) |
 | Weedcraft Inc & Moonshine Inc: Risky Business Bundle | 261334 | [261334-weedcraft-inc-and-moonshine-inc-risky-business-bundle.json](./261334-weedcraft-inc-and-moonshine-inc-risky-business-bundle.json) |
 | Weedcraft Inc + Bio Inc. Redemption: Medical Herbs Bundle | 292619 | [292619-weedcraft-inc-bio-inc-redemption-medical-herbs-bundle.json](./292619-weedcraft-inc-bio-inc-redemption-medical-herbs-bundle.json) |
 | Weedcraft Inc + Crossroads Inn: Weed and Greet Bundle | 288861 | [288861-weedcraft-inc-crossroads-inn-weed-and-greet-bundle.json](./288861-weedcraft-inc-crossroads-inn-weed-and-greet-bundle.json) |
@@ -6633,6 +6634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry: The Five Ordeals - The Absence of Misericordia | 250240 | [250240-wizardry-the-five-ordeals-the-absence-of-misericordia.json](./250240-wizardry-the-five-ordeals-the-absence-of-misericordia.json) |
 | Wizardry: The Five Ordeals Triple Pack | 330445 | [330445-wizardry-the-five-ordeals-triple-pack.json](./330445-wizardry-the-five-ordeals-triple-pack.json) |
 | Wizardry: The Return of Werdna - The Fourth Scenario | 2885 | [2885-wizardry-the-return-of-werdna-the-fourth-scenario.json](./2885-wizardry-the-return-of-werdna-the-fourth-scenario.json) |
+| WizardryWars | 267175 | [267175-wizardrywars.json](./267175-wizardrywars.json) |
 | Wizards | 129046 | [129046-wizards.json](./129046-wizards.json) |
 | Wizards | 131444 | [131444-wizards.json](./131444-wizards.json) |
 | Wizards & Dragons | 122626 | [122626-wizards-and-dragons.json](./122626-wizards-and-dragons.json) |
