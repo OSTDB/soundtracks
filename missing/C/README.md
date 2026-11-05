@@ -2068,6 +2068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Eats Car 3 | 102023 | [102023-car-eats-car-3.json](./102023-car-eats-car-3.json) |
 | Car Escape | 88602 | [88602-car-escape.json](./88602-car-escape.json) |
 | Car Escape 1-5 | 88697 | [88697-car-escape-1-5.json](./88697-car-escape-1-5.json) |
+| Car Factory | 259914 | [259914-car-factory.json](./259914-car-factory.json) |
 | Car Factory Simulator | 232166 | [232166-car-factory-simulator.json](./232166-car-factory-simulator.json) |
 | Car Factory Tycoon | 230372 | [230372-car-factory-tycoon.json](./230372-car-factory-tycoon.json) |
 | Car Fighter | 47539 | [47539-car-fighter.json](./47539-car-fighter.json) |
@@ -11595,6 +11596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collision Course | 30539 | [30539-collision-course.json](./30539-collision-course.json) |
 | Collision Course | 69626 | [69626-collision-course.json](./69626-collision-course.json) |
 | Collision Hero | 175854 | [175854-collision-hero.json](./175854-collision-hero.json) |
+| Collision Paradise | 259905 | [259905-collision-paradise.json](./259905-collision-paradise.json) |
 | Collision System Test | 369007 | [369007-collision-system-test.json](./369007-collision-system-test.json) |
 | Collisions | 34756 | [34756-collisions.json](./34756-collisions.json) |
 | Collisions: Cosmic Geometry | 346925 | [346925-collisions-cosmic-geometry.json](./346925-collisions-cosmic-geometry.json) |
