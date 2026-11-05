@@ -462,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daisen | 359357 | [359357-daisen.json](./359357-daisen.json) |
 | Daisenpu | 38637 | [38637-daisenpu.json](./38637-daisenpu.json) |
 | Daisenryaku | 194311 | [194311-daisenryaku.json](./194311-daisenryaku.json) |
+| Daisenryaku | 279417 | [279417-daisenryaku.json](./279417-daisenryaku.json) |
 | Daisenryaku | 339855 | [339855-daisenryaku.json](./339855-daisenryaku.json) |
 | Daisenryaku | 41782 | [41782-daisenryaku.json](./41782-daisenryaku.json) |
 | Daisenryaku 1941: Gyakuten no Taiheiyou | 342253 | [342253-daisenryaku-1941-gyakuten-no-taiheiyou.json](./342253-daisenryaku-1941-gyakuten-no-taiheiyou.json) |
@@ -5704,6 +5705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deft | 182742 | [182742-deft.json](./182742-deft.json) |
 | Defuse | 377116 | [377116-defuse.json](./377116-defuse.json) |
 | Defuser VR | 29538 | [29538-defuser-vr.json](./29538-defuser-vr.json) |
+| Defy | 279383 | [279383-defy.json](./279383-defy.json) |
 | Defy Gravity | 8678 | [8678-defy-gravity.json](./8678-defy-gravity.json) |
 | Defy Gravity Extended | 16242 | [16242-defy-gravity-extended.json](./16242-defy-gravity-extended.json) |
 | Defy the Abyss | 419592 | [419592-defy-the-abyss.json](./419592-defy-the-abyss.json) |
@@ -6129,6 +6131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demeritocracy or the Two Faces of Arias Ruth | 68388 | [68388-demeritocracy-or-the-two-faces-of-arias-ruth.json](./68388-demeritocracy-or-the-two-faces-of-arias-ruth.json) |
 | Demersus | 406473 | [406473-demersus.json](./406473-demersus.json) |
 | Demeter | 280059 | [280059-demeter.json](./280059-demeter.json) |
+| Demeter: The Asklepios Chronicles | 279398 | [279398-demeter-the-asklepios-chronicles.json](./279398-demeter-the-asklepios-chronicles.json) |
 | Demetria Spirit | 166843 | [166843-demetria-spirit.json](./166843-demetria-spirit.json) |
 | Demetrios: The Big Cynical Adventure | 23425 | [23425-demetrios-the-big-cynical-adventure.json](./23425-demetrios-the-big-cynical-adventure.json) |
 | Demetrios: The Big Cynical Adventure - Replastered | 194005 | [194005-demetrios-the-big-cynical-adventure-replastered.json](./194005-demetrios-the-big-cynical-adventure-replastered.json) |
@@ -10719,6 +10722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Divinity | 671 | [671-divine-divinity.json](./671-divine-divinity.json) |
 | Divine Doubt | 278707 | [278707-divine-doubt.json](./278707-divine-doubt.json) |
 | Divine Duel | 215026 | [215026-divine-duel.json](./215026-divine-duel.json) |
+| Divine Duel: Season 2 | 279390 | [279390-divine-duel-season-2.json](./279390-divine-duel-season-2.json) |
 | Divine Dungeons | 138510 | [138510-divine-dungeons.json](./138510-divine-dungeons.json) |
 | Divine Dynamo Flamefrit | 309095 | [309095-divine-dynamo-flamefrit.json](./309095-divine-dynamo-flamefrit.json) |
 | Divine Gambit | 375314 | [375314-divine-gambit.json](./375314-divine-gambit.json) |
@@ -16755,6 +16759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drums Rock: Simple Plan - 'Shut Up!' | 322221 | [322221-drums-rock-simple-plan-shut-up.json](./322221-drums-rock-simple-plan-shut-up.json) |
 | Drums Rock: Simple Plan - 'Time to Say Goodbye' | 322222 | [322222-drums-rock-simple-plan-time-to-say-goodbye.json](./322222-drums-rock-simple-plan-time-to-say-goodbye.json) |
 | Drums Rock: Simple Plan - 'Welcome to My Life' | 322223 | [322223-drums-rock-simple-plan-welcome-to-my-life.json](./322223-drums-rock-simple-plan-welcome-to-my-life.json) |
+| Drums Rock: Simple Plan Music Pack | 279387 | [279387-drums-rock-simple-plan-music-pack.json](./279387-drums-rock-simple-plan-music-pack.json) |
 | Drums Rock: Spacehog - 'In the Meantime' | 322218 | [322218-drums-rock-spacehog-in-the-meantime.json](./322218-drums-rock-spacehog-in-the-meantime.json) |
 | Drums Rock: The Offspring - 'You’re Gonna Go Far, Kid' | 322219 | [322219-drums-rock-the-offspring-you-re-gonna-go-far-kid.json](./322219-drums-rock-the-offspring-you-re-gonna-go-far-kid.json) |
 | Drums Rock: The Proclaimers - 'I'm Gonna Be (500 Miles)' | 310377 | [310377-drums-rock-the-proclaimers-im-gonna-be-500-miles.json](./310377-drums-rock-the-proclaimers-im-gonna-be-500-miles.json) |
