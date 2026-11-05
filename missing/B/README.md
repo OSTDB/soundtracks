@@ -2042,6 +2042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang | 285674 | [285674-bang.json](./285674-bang.json) |
 | Bang | 38547 | [38547-bang.json](./38547-bang.json) |
 | Bang 2 Busters | 40189 | [40189-bang-2-busters.json](./40189-bang-2-busters.json) |
+| Bang Average Football | 248974 | [248974-bang-average-football.json](./248974-bang-average-football.json) |
 | Bang Bang Ball | 40268 | [40268-bang-bang-ball.json](./40268-bang-bang-ball.json) |
 | Bang Bang Bang! | 31427 | [31427-bang-bang-bang.json](./31427-bang-bang-bang.json) |
 | Bang Bang Barrage | 313190 | [313190-bang-bang-barrage.json](./313190-bang-bang-barrage.json) |
@@ -5535,6 +5536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatworks Inc. | 386444 | [386444-beatworks-inc.json](./386444-beatworks-inc.json) |
 | Beau & Bow | 236462 | [236462-beau-and-bow.json](./236462-beau-and-bow.json) |
 | Beau Jolly 48K Value Pack | 100077 | [100077-beau-jolly-48k-value-pack.json](./100077-beau-jolly-48k-value-pack.json) |
+| BeaureCard | 249002 | [249002-beaurecard.json](./249002-beaurecard.json) |
 | Beauties Academy: Spellcraft Tournament | 211429 | [211429-beauties-academy-spellcraft-tournament.json](./211429-beauties-academy-spellcraft-tournament.json) |
 | Beauties and Beasts | 317315 | [317315-beauties-and-beasts.json](./317315-beauties-and-beasts.json) |
 | Beauties and the Stranded | 373036 | [373036-beauties-and-the-stranded.json](./373036-beauties-and-the-stranded.json) |
@@ -6061,6 +6063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Being One: Episode 2 | 184749 | [184749-being-one-episode-2.json](./184749-being-one-episode-2.json) |
 | Being Stronger While Playing! SilverStar Go DX | 135635 | [135635-being-stronger-while-playing-silverstar-go-dx.json](./135635-being-stronger-while-playing-silverstar-go-dx.json) |
 | Being Struck By Lightning is Probably the Best Way That You Could Die On Account of All of Its Awesomeness | 242647 | [242647-being-struck-by-lightning-is-probably-the-best-way-that-you-could-die-on-account-of-all-of-its-awesomeness.json](./242647-being-struck-by-lightning-is-probably-the-best-way-that-you-could-die-on-account-of-all-of-its-awesomeness.json) |
+| Being The Game | 248971 | [248971-being-the-game.json](./248971-being-the-game.json) |
 | Bejazzled | 94977 | [94977-bejazzled.json](./94977-bejazzled.json) |
 | Bejeweled | 121723 | [121723-bejeweled.json](./121723-bejeweled.json) |
 | Bejeweled | 202092 | [202092-bejeweled.json](./202092-bejeweled.json) |
@@ -7750,6 +7753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billiards Wizards | 81752 | [81752-billiards-wizards.json](./81752-billiards-wizards.json) |
 | Billiards Xciting | 78000 | [78000-billiards-xciting.json](./78000-billiards-xciting.json) |
 | Billie Bust Up | 140853 | [140853-billie-bust-up.json](./140853-billie-bust-up.json) |
+| Billie Eternal and the Jetcats in... Escape from the Black Hole! | 248969 | [248969-billie-eternal-and-the-jetcats-in-escape-from-the-black-hole.json](./248969-billie-eternal-and-the-jetcats-in-escape-from-the-black-hole.json) |
 | Billie's Wheelie | 383571 | [383571-billies-wheelie.json](./383571-billies-wheelie.json) |
 | Billion | 402385 | [402385-billion.json](./402385-billion.json) |
 | Billion Bastard Bots | 219207 | [219207-billion-bastard-bots.json](./219207-billion-bastard-bots.json) |
@@ -9571,6 +9575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast 'Em Bunnies | 21321 | [21321-blast-em-bunnies.json](./21321-blast-em-bunnies.json) |
 | Blast 3D The Arrival: Chapter 0 | 303366 | [303366-blast-3d-the-arrival-chapter-0.json](./303366-blast-3d-the-arrival-chapter-0.json) |
 | Blast Arena | 280039 | [280039-blast-arena.json](./280039-blast-arena.json) |
+| Blast Attack | 248962 | [248962-blast-attack.json](./248962-blast-attack.json) |
 | Blast Ball | 22328 | [22328-blast-ball.json](./22328-blast-ball.json) |
 | Blast Beat | 186821 | [186821-blast-beat.json](./186821-blast-beat.json) |
 | Blast Beats | 235288 | [235288-blast-beats.json](./235288-blast-beats.json) |
@@ -9641,6 +9646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaster | 282971 | [282971-blaster.json](./282971-blaster.json) |
 | Blaster | 345949 | [345949-blaster.json](./345949-blaster.json) |
 | Blaster | 38540 | [38540-blaster.json](./38540-blaster.json) |
+| Blaster Arcade | 248975 | [248975-blaster-arcade.json](./248975-blaster-arcade.json) |
 | Blaster Boy | 348547 | [348547-blaster-boy.json](./348547-blaster-boy.json) |
 | Blaster Bunny + | 135014 | [135014-blaster-bunny.json](./135014-blaster-bunny.json) |
 | Blaster Bunny Chronicles | 363661 | [363661-blaster-bunny-chronicles.json](./363661-blaster-bunny-chronicles.json) |
@@ -9664,6 +9670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaster Master: Pimp your Ride | 216301 | [216301-blaster-master-pimp-your-ride.json](./216301-blaster-master-pimp-your-ride.json) |
 | Blaster Master: The Lost Key | 290231 | [290231-blaster-master-the-lost-key.json](./290231-blaster-master-the-lost-key.json) |
 | Blaster Multiplayer | 284010 | [284010-blaster-multiplayer.json](./284010-blaster-multiplayer.json) |
+| Blaster Panic | 248996 | [248996-blaster-panic.json](./248996-blaster-panic.json) |
 | Blaster Rush Blocks | 360547 | [360547-blaster-rush-blocks.json](./360547-blaster-rush-blocks.json) |
 | Blaster Shooter GunGuy! | 34672 | [34672-blaster-shooter-gunguy.json](./34672-blaster-shooter-gunguy.json) |
 | Blaster Simulator | 9387 | [9387-blaster-simulator.json](./9387-blaster-simulator.json) |
@@ -12014,6 +12021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bofyne Unit: The Omega Contract | 303348 | [303348-bofyne-unit-the-omega-contract.json](./303348-bofyne-unit-the-omega-contract.json) |
 | Bog Man Has Had Enough | 271843 | [271843-bog-man-has-had-enough.json](./271843-bog-man-has-had-enough.json) |
 | Bog Racer | 239893 | [239893-bog-racer.json](./239893-bog-racer.json) |
+| Bog Roll | 248963 | [248963-bog-roll.json](./248963-bog-roll.json) |
 | Bog Witch | 216632 | [216632-bog-witch.json](./216632-bog-witch.json) |
 | Bog's Adventures in the Underworld | 165520 | [165520-bogs-adventures-in-the-underworld.json](./165520-bogs-adventures-in-the-underworld.json) |
 | Bogart | 243947 | [243947-bogart.json](./243947-bogart.json) |
@@ -14065,6 +14073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxman in the World of the Wuuza Wizards | 318481 | [318481-boxman-in-the-world-of-the-wuuza-wizards.json](./318481-boxman-in-the-world-of-the-wuuza-wizards.json) |
 | Boxman's Struggle | 129366 | [129366-boxmans-struggle.json](./129366-boxmans-struggle.json) |
 | Boxmania | 304388 | [304388-boxmania.json](./304388-boxmania.json) |
+| Boxnauts | 248993 | [248993-boxnauts.json](./248993-boxnauts.json) |
 | Boxnigma | 195955 | [195955-boxnigma.json](./195955-boxnigma.json) |
 | Boxocost | 144962 | [144962-boxocost.json](./144962-boxocost.json) |
 | Boxoku! | 156711 | [156711-boxoku.json](./156711-boxoku.json) |
@@ -15206,6 +15215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Cracker 3D | 191029 | [191029-brick-cracker-3d.json](./191029-brick-cracker-3d.json) |
 | Brick Crossy Road | 241613 | [241613-brick-crossy-road.json](./241613-brick-crossy-road.json) |
 | Brick Dungeon | 256457 | [256457-brick-dungeon.json](./256457-brick-dungeon.json) |
+| Brick Exorcist | 248981 | [248981-brick-exorcist.json](./248981-brick-exorcist.json) |
 | Brick Exorcist | 344423 | [344423-brick-exorcist.json](./344423-brick-exorcist.json) |
 | Brick Force | 47044 | [47044-brick-force.json](./47044-brick-force.json) |
 | Brick Force: Black Knight | 155573 | [155573-brick-force-black-knight.json](./155573-brick-force-black-knight.json) |
@@ -15444,6 +15454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bright Side: Riddles & Puzzles | 265393 | [265393-bright-side-riddles-and-puzzles.json](./265393-bright-side-riddles-and-puzzles.json) |
 | Bright Sky: The Watch of the Future | 413006 | [413006-bright-sky-the-watch-of-the-future.json](./413006-bright-sky-the-watch-of-the-future.json) |
 | Bright Sudoku | 225980 | [225980-bright-sudoku.json](./225980-bright-sudoku.json) |
+| Bright Tracer | 248957 | [248957-bright-tracer.json](./248957-bright-tracer.json) |
 | Brightblood | 159846 | [159846-brightblood.json](./159846-brightblood.json) |
 | Brighter Day | 34811 | [34811-brighter-day.json](./34811-brighter-day.json) |
 | Brighter Days | 391187 | [391187-brighter-days.json](./391187-brighter-days.json) |
