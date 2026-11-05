@@ -951,7 +951,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2078,6 +2077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BanHown | 240631 | [240631-banhown.json](./240631-banhown.json) |
 | Banira Shio | 182142 | [182142-banira-shio.json](./182142-banira-shio.json) |
 | Banish | 191184 | [191184-banish.json](./191184-banish.json) |
+| Banished | 280029 | [280029-banished.json](./280029-banished.json) |
 | Banished Knight | 387621 | [387621-banished-knight.json](./387621-banished-knight.json) |
 | Banished Monsters | 248676 | [248676-banished-monsters.json](./248676-banished-monsters.json) |
 | Banished Sir | 369632 | [369632-banished-sir.json](./369632-banished-sir.json) |
@@ -8911,6 +8911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Orchestra: Worldfront 37-54 | 370986 | [370986-black-orchestra-worldfront-37-54.json](./370986-black-orchestra-worldfront-37-54.json) |
 | Black Otaku 2: Taekwondo is in my Blood | 261770 | [261770-black-otaku-2-taekwondo-is-in-my-blood.json](./261770-black-otaku-2-taekwondo-is-in-my-blood.json) |
 | Black Otaku: SOS HD | 69352 | [69352-black-otaku-sos-hd.json](./69352-black-otaku-sos-hd.json) |
+| Black Out! | 280030 | [280030-black-out.json](./280030-black-out.json) |
 | Black Out. | 297808 | [297808-black-out.json](./297808-black-out.json) |
 | Black OX | 353801 | [353801-black-ox.json](./353801-black-ox.json) |
 | Black Panther | 38589 | [38589-black-panther.json](./38589-black-panther.json) |
@@ -9491,6 +9492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast | 88710 | [88710-blast.json](./88710-blast.json) |
 | Blast 'Em Bunnies | 21321 | [21321-blast-em-bunnies.json](./21321-blast-em-bunnies.json) |
 | Blast 3D The Arrival: Chapter 0 | 303366 | [303366-blast-3d-the-arrival-chapter-0.json](./303366-blast-3d-the-arrival-chapter-0.json) |
+| Blast Arena | 280039 | [280039-blast-arena.json](./280039-blast-arena.json) |
 | Blast Ball | 22328 | [22328-blast-ball.json](./22328-blast-ball.json) |
 | Blast Beat | 186821 | [186821-blast-beat.json](./186821-blast-beat.json) |
 | Blast Beats | 235288 | [235288-blast-beats.json](./235288-blast-beats.json) |
