@@ -1608,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2003 | 287448 | [287448-2003.json](./287448-2003.json) |
 | 2003 AtariAge Holiday Cart | 70419 | [70419-2003-atariage-holiday-cart.json](./70419-2003-atariage-holiday-cart.json) |
 | 2003 Crash II Advance | 311026 | [311026-2003-crash-ii-advance.json](./311026-2003-crash-ii-advance.json) |
+| 2003 Toshi Kaimaku: Ganbare Kyuukaiou | 269318 | [269318-2003-toshi-kaimaku-ganbare-kyuukaiou.json](./269318-2003-toshi-kaimaku-ganbare-kyuukaiou.json) |
 | 2004 | 288145 | [288145-2004.json](./288145-2004.json) |
 | 2004 Real Soccer | 116344 | [116344-2004-real-soccer.json](./116344-2004-real-soccer.json) |
 | 2004: Space Becherovka | 391035 | [391035-2004-space-becherovka.json](./391035-2004-space-becherovka.json) |
