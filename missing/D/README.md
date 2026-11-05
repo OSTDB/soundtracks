@@ -10867,6 +10867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJMax Respect V: Emotional Sense Pack | 225060 | [225060-djmax-respect-v-emotional-sense-pack.json](./225060-djmax-respect-v-emotional-sense-pack.json) |
 | DJMax Respect V: Estimate Pack | 261875 | [261875-djmax-respect-v-estimate-pack.json](./261875-djmax-respect-v-estimate-pack.json) |
 | DJMax Respect V: Ez2on Pack | 239342 | [239342-djmax-respect-v-ez2on-pack.json](./239342-djmax-respect-v-ez2on-pack.json) |
+| DJMax Respect V: Falcom Pack | 293444 | [293444-djmax-respect-v-falcom-pack.json](./293444-djmax-respect-v-falcom-pack.json) |
 | DJMax Respect V: Girls' Frontline Pack | 261876 | [261876-djmax-respect-v-girls-frontline-pack.json](./261876-djmax-respect-v-girls-frontline-pack.json) |
 | DJMax Respect V: Groove Coaster Pack | 225059 | [225059-djmax-respect-v-groove-coaster-pack.json](./225059-djmax-respect-v-groove-coaster-pack.json) |
 | DJMax Respect V: MapleStory Pack | 265635 | [265635-djmax-respect-v-maplestory-pack.json](./265635-djmax-respect-v-maplestory-pack.json) |
@@ -16034,6 +16035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift King | 164199 | [164199-drift-king.json](./164199-drift-king.json) |
 | Drift King Shuto-kou Battle 2: Tsuchiya Keiichi & Bandou Masaaki | 46582 | [46582-drift-king-shuto-kou-battle-2-tsuchiya-keiichi-and-bandou-masaaki.json](./46582-drift-king-shuto-kou-battle-2-tsuchiya-keiichi-and-bandou-masaaki.json) |
 | Drift King: Survival | 30601 | [30601-drift-king-survival.json](./30601-drift-king-survival.json) |
+| Drift Legacy | 293372 | [293372-drift-legacy.json](./293372-drift-legacy.json) |
 | Drift Legacy: Deluxe Edition | 300897 | [300897-drift-legacy-deluxe-edition.json](./300897-drift-legacy-deluxe-edition.json) |
 | Drift Legends | 89647 | [89647-drift-legends.json](./89647-drift-legends.json) |
 | Drift Legends 2 | 266258 | [266258-drift-legends-2.json](./266258-drift-legends-2.json) |
@@ -17313,6 +17315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumb Ways to Survive | 297229 | [297229-dumb-ways-to-survive.json](./297229-dumb-ways-to-survive.json) |
 | Dumb Witchfinder | 362018 | [362018-dumb-witchfinder.json](./362018-dumb-witchfinder.json) |
 | Dumball Rush | 278950 | [278950-dumball-rush.json](./278950-dumball-rush.json) |
+| Dumball Rush: Rainbow Pack | 293445 | [293445-dumball-rush-rainbow-pack.json](./293445-dumball-rush-rainbow-pack.json) |
 | Dumbass Drivers! | 29407 | [29407-dumbass-drivers.json](./29407-dumbass-drivers.json) |
 | Dumbass Survivors | 344338 | [344338-dumbass-survivors.json](./344338-dumbass-survivors.json) |
 | DumbBots | 129361 | [129361-dumbbots.json](./129361-dumbbots.json) |
