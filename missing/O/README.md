@@ -5567,6 +5567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overpass 2: Deluxe Edition | 269331 | [269331-overpass-2-deluxe-edition.json](./269331-overpass-2-deluxe-edition.json) |
 | Overpass 2: Ford Play Rock Bouncer | 271285 | [271285-overpass-2-ford-play-rock-bouncer.json](./271285-overpass-2-ford-play-rock-bouncer.json) |
 | Overpass 2: Polaris Vehicles Pack | 271284 | [271284-overpass-2-polaris-vehicles-pack.json](./271284-overpass-2-polaris-vehicles-pack.json) |
+| Overpixel | 291404 | [291404-overpixel.json](./291404-overpixel.json) |
 | Overplasma | 143576 | [143576-overplasma.json](./143576-overplasma.json) |
 | Overpower | 18924 | [18924-overpower.json](./18924-overpower.json) |
 | Overpower RPG - Capítulo 1: A Saga de Bulgar | 348733 | [348733-overpower-rpg-capitulo-1-a-saga-de-bulgar.json](./348733-overpower-rpg-capitulo-1-a-saga-de-bulgar.json) |
