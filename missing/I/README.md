@@ -3643,6 +3643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infierno Rubí | 294232 | [294232-infierno-rubi.json](./294232-infierno-rubi.json) |
 | Infiltrate | 22413 | [22413-infiltrate.json](./22413-infiltrate.json) |
 | Infiltrate & Extract | 312781 | [312781-infiltrate-and-extract.json](./312781-infiltrate-and-extract.json) |
+| Infiltrating a Cult: Additional All-Ages Story & Graphics DLC | 256045 | [256045-infiltrating-a-cult-additional-all-ages-story-and-graphics-dlc.json](./256045-infiltrating-a-cult-additional-all-ages-story-and-graphics-dlc.json) |
 | Infiltrating Roudille | 403065 | [403065-infiltrating-roudille.json](./403065-infiltrating-roudille.json) |
 | Infiltrating Sam's Club | 278442 | [278442-infiltrating-sams-club.json](./278442-infiltrating-sams-club.json) |
 | Infiltration | 38766 | [38766-infiltration.json](./38766-infiltration.json) |
@@ -3793,6 +3794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
