@@ -2972,6 +2972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Bionicle: Mask of Creation | 343361 | [343361-lego-bionicle-mask-of-creation.json](./343361-lego-bionicle-mask-of-creation.json) |
 | LEGO Brawls | 117006 | [117006-lego-brawls.json](./117006-lego-brawls.json) |
 | LEGO Bricktales | 194745 | [194745-lego-bricktales.json](./194745-lego-bricktales.json) |
+| LEGO Bricktales | 279388 | [279388-lego-bricktales.json](./279388-lego-bricktales.json) |
 | LEGO Builder Bots | 145369 | [145369-lego-builder-bots.json](./145369-lego-builder-bots.json) |
 | LEGO Builder's Journey | 127985 | [127985-lego-builders-journey.json](./127985-lego-builders-journey.json) |
 | LEGO City Fire Hose Frenzy | 61624 | [61624-lego-city-fire-hose-frenzy.json](./61624-lego-city-fire-hose-frenzy.json) |
@@ -3467,6 +3468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Les Mills XR Bodycombat: Never Surrender | 352208 | [352208-les-mills-xr-bodycombat-never-surrender.json](./352208-les-mills-xr-bodycombat-never-surrender.json) |
 | Les Mills XR Bodycombat: Power Strike | 352211 | [352211-les-mills-xr-bodycombat-power-strike.json](./352211-les-mills-xr-bodycombat-power-strike.json) |
 | Les Mills XR Bodycombat: Ultimate Fitness Pack | 380565 | [380565-les-mills-xr-bodycombat-ultimate-fitness-pack.json](./380565-les-mills-xr-bodycombat-ultimate-fitness-pack.json) |
+| Les Mills XR Dance | 279396 | [279396-les-mills-xr-dance.json](./279396-les-mills-xr-dance.json) |
 | Les Misérables: Cosette's Fate | 96637 | [96637-les-miserables-cosettes-fate.json](./96637-les-miserables-cosettes-fate.json) |
 | Les Portes du Temps | 86023 | [86023-les-portes-du-temps.json](./86023-les-portes-du-temps.json) |
 | Les Quatre Alices | 55490 | [55490-les-quatre-alices.json](./55490-les-quatre-alices.json) |
