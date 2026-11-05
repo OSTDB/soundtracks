@@ -894,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage Guild | 285341 | [285341-mage-guild.json](./285341-mage-guild.json) |
 | Mage Hunt: Spellshifter | 295279 | [295279-mage-hunt-spellshifter.json](./295279-mage-hunt-spellshifter.json) |
 | Mage Hunters | 153315 | [153315-mage-hunters.json](./153315-mage-hunters.json) |
+| Mage Kanade’s Futanari Dungeon Quest | 253689 | [253689-mage-kanade-s-futanari-dungeon-quest.json](./253689-mage-kanade-s-futanari-dungeon-quest.json) |
 | Mage Knight: Apocalypse | 20588 | [20588-mage-knight-apocalypse.json](./20588-mage-knight-apocalypse.json) |
 | Mage Knight: Destiny's Soldier | 20576 | [20576-mage-knight-destinys-soldier.json](./20576-mage-knight-destinys-soldier.json) |
 | Mage Lords of Brams | 215608 | [215608-mage-lords-of-brams.json](./215608-mage-lords-of-brams.json) |
@@ -16212,6 +16213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moo Who? | 414543 | [414543-moo-who.json](./414543-moo-who.json) |
 | Moo-A-Doodle-Doo | 415055 | [415055-moo-a-doodle-doo.json](./415055-moo-a-doodle-doo.json) |
 | Mooch | 34536 | [34536-mooch.json](./34536-mooch.json) |
+| Mood | 253697 | [253697-mood.json](./253697-mood.json) |
 | Mood Bye | 319550 | [319550-mood-bye.json](./319550-mood-bye.json) |
 | Moofa | 125698 | [125698-moofa.json](./125698-moofa.json) |
 | Moogle Cavern RPG | 331155 | [331155-moogle-cavern-rpg.json](./331155-moogle-cavern-rpg.json) |
@@ -17007,6 +17009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat Mythologies: Sub-Zero | 1610 | [1610-mortal-kombat-mythologies-sub-zero.json](./1610-mortal-kombat-mythologies-sub-zero.json) |
 | Mortal Kombat Mythologies: Sub-Zero | 198829 | [198829-mortal-kombat-mythologies-sub-zero.json](./198829-mortal-kombat-mythologies-sub-zero.json) |
 | Mortal Kombat Mythologies: Sub-Zero - Randomizer | 353944 | [353944-mortal-kombat-mythologies-sub-zero-randomizer.json](./353944-mortal-kombat-mythologies-sub-zero-randomizer.json) |
+| Mortal Kombat Project | 253672 | [253672-mortal-kombat-project.json](./253672-mortal-kombat-project.json) |
 | Mortal Kombat Revelations | 45154 | [45154-mortal-kombat-revelations.json](./45154-mortal-kombat-revelations.json) |
 | Mortal Kombat Trilogy | 199010 | [199010-mortal-kombat-trilogy.json](./199010-mortal-kombat-trilogy.json) |
 | Mortal Kombat Trilogy | 199431 | [199431-mortal-kombat-trilogy.json](./199431-mortal-kombat-trilogy.json) |
