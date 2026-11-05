@@ -2635,6 +2635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4*4 Off Road Racer | 92258 | [92258-4-4-off-road-racer.json](./92258-4-4-off-road-racer.json) |
 | 40 Days | 76539 | [76539-40-days.json](./76539-40-days.json) |
 | 40 Minute-r | 318263 | [318263-40-minute-r.json](./318263-40-minute-r.json) |
+| 40 Seconds | 275981 | [275981-40-seconds.json](./275981-40-seconds.json) |
 | 40 Sports Games in 1 | 356845 | [356845-40-sports-games-in-1.json](./356845-40-sports-games-in-1.json) |
 | 40 Winks | 249340 | [249340-40-winks.json](./249340-40-winks.json) |
 | 40 Winks | 5568 | [5568-40-winks.json](./5568-40-winks.json) |
