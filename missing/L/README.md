@@ -654,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamu | 295496 | [295496-lamu.json](./295496-lamu.json) |
 | Lamunation!: International | 116729 | [116729-lamunation-international.json](./116729-lamunation-international.json) |
 | Lan Master | 48376 | [48376-lan-master.json](./48376-lan-master.json) |
+| LAN Party | 292339 | [292339-lan-party.json](./292339-lan-party.json) |
 | LAN Party Adventures | 336157 | [336157-lan-party-adventures.json](./336157-lan-party-adventures.json) |
 | Lán Shízhàn Duì | 158649 | [158649-lan-shizhan-dui.json](./158649-lan-shizhan-dui.json) |
 | Lana and the Milking Table | 238534 | [238534-lana-and-the-milking-table.json](./238534-lana-and-the-milking-table.json) |
@@ -3529,6 +3530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let Me Play! | 375549 | [375549-let-me-play.json](./375549-let-me-play.json) |
 | Let Sleeping Dogs Lie | 343920 | [343920-let-sleeping-dogs-lie.json](./343920-let-sleeping-dogs-lie.json) |
 | Let the Cat In | 35264 | [35264-let-the-cat-in.json](./35264-let-the-cat-in.json) |
+| Let Them Breathe: Hello Mother | 292332 | [292332-let-them-breathe-hello-mother.json](./292332-let-them-breathe-hello-mother.json) |
 | Let Them Breathe: Selena's Awakening | 312151 | [312151-let-them-breathe-selenas-awakening.json](./312151-let-them-breathe-selenas-awakening.json) |
 | Let Them Come | 31962 | [31962-let-them-come.json](./31962-let-them-come.json) |
 | Let Them Come: Onslaught | 257928 | [257928-let-them-come-onslaught.json](./257928-let-them-come-onslaught.json) |
