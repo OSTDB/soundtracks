@@ -5900,6 +5900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Blade | 412325 | [412325-eternal-blade.json](./412325-eternal-blade.json) |
 | Eternal Blood | 128304 | [128304-eternal-blood.json](./128304-eternal-blood.json) |
 | Eternal Bonds | 312799 | [312799-eternal-bonds.json](./312799-eternal-bonds.json) |
+| Eternal Boys Side Project: Twilight Spica | 255422 | [255422-eternal-boys-side-project-twilight-spica.json](./255422-eternal-boys-side-project-twilight-spica.json) |
 | Eternal Burden | 291892 | [291892-eternal-burden.json](./291892-eternal-burden.json) |
 | Eternal Card Game | 31198 | [31198-eternal-card-game.json](./31198-eternal-card-game.json) |
 | Eternal Carnival | 390284 | [390284-eternal-carnival.json](./390284-eternal-carnival.json) |
@@ -6109,6 +6110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternium: Mage and Minions | 193967 | [193967-eternium-mage-and-minions.json](./193967-eternium-mage-and-minions.json) |
 | Eternower | 132404 | [132404-eternower.json](./132404-eternower.json) |
 | Eternum | 209628 | [209628-eternum.json](./209628-eternum.json) |
+| Eternum Ao | 255413 | [255413-eternum-ao.json](./255413-eternum-ao.json) |
 | Eterspire | 143526 | [143526-eterspire.json](./143526-eterspire.json) |
 | Ethan Lit 2 | 180404 | [180404-ethan-lit-2.json](./180404-ethan-lit-2.json) |
 | Ethan: Meteor Hunter | 10279 | [10279-ethan-meteor-hunter.json](./10279-ethan-meteor-hunter.json) |
