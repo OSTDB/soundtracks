@@ -3264,6 +3264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Employee of the Month | 202550 | [202550-employee-of-the-month.json](./202550-employee-of-the-month.json) |
 | Employee Recycling Center | 36463 | [36463-employee-recycling-center.json](./36463-employee-recycling-center.json) |
 | Employee Rules of the Night Strings | 309361 | [309361-employee-rules-of-the-night-strings.json](./309361-employee-rules-of-the-night-strings.json) |
+| Empolicy | 290736 | [290736-empolicy.json](./290736-empolicy.json) |
 | Emporea | 34091 | [34091-emporea.json](./34091-emporea.json) |
 | Emporium | 28593 | [28593-emporium.json](./28593-emporium.json) |
 | Empous | 373262 | [373262-empous.json](./373262-empous.json) |
@@ -3320,6 +3321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emüd | 60842 | [60842-emud.json](./60842-emud.json) |
 | EmuDevz | 386285 | [386285-emudevz.json](./386285-emudevz.json) |
 | Emulate Thrill | 284181 | [284181-emulate-thrill.json](./284181-emulate-thrill.json) |
+| Emulated: OpsRunner | 290747 | [290747-emulated-opsrunner.json](./290747-emulated-opsrunner.json) |
 | Emurinoo | 139149 | [139149-emurinoo.json](./139149-emurinoo.json) |
 | Emuurom | 135002 | [135002-emuurom.json](./135002-emuurom.json) |
 | EmyLiveShow: Anime Puzzle Game | 289181 | [289181-emyliveshow-anime-puzzle-game.json](./289181-emyliveshow-anime-puzzle-game.json) |
@@ -6044,6 +6046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ethan: Meteor Hunter | 10279 | [10279-ethan-meteor-hunter.json](./10279-ethan-meteor-hunter.json) |
 | Ethan's Watch | 390613 | [390613-ethans-watch.json](./390613-ethans-watch.json) |
 | Ethanol in dungeon | 118253 | [118253-ethanol-in-dungeon.json](./118253-ethanol-in-dungeon.json) |
+| Ethel | 290728 | [290728-ethel.json](./290728-ethel.json) |
 | Etheldia Pepper | 150424 | [150424-etheldia-pepper.json](./150424-etheldia-pepper.json) |
 | Ether | 311502 | [311502-ether.json](./311502-ether.json) |
 | Ether | 79659 | [79659-ether.json](./79659-ether.json) |
