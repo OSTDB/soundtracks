@@ -7253,6 +7253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridiculous Bombing Game | 126950 | [126950-ridiculous-bombing-game.json](./126950-ridiculous-bombing-game.json) |
 | Ridiculous Catapult Simulator | 120134 | [120134-ridiculous-catapult-simulator.json](./120134-ridiculous-catapult-simulator.json) |
 | Ridiculous Fishing | 5635 | [5635-ridiculous-fishing.json](./5635-ridiculous-fishing.json) |
+| Ridiculous Fishing EX | 256578 | [256578-ridiculous-fishing-ex.json](./256578-ridiculous-fishing-ex.json) |
 | Ridiculous Glitching | 332639 | [332639-ridiculous-glitching.json](./332639-ridiculous-glitching.json) |
 | Ridiculous Marathon | 54756 | [54756-ridiculous-marathon.json](./54756-ridiculous-marathon.json) |
 | Ridiculous RPG | 232041 | [232041-ridiculous-rpg.json](./232041-ridiculous-rpg.json) |
