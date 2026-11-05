@@ -6528,6 +6528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Fold | 417456 | [417456-shadow-fold.json](./417456-shadow-fold.json) |
 | Shadow Force | 77660 | [77660-shadow-force.json](./77660-shadow-force.json) |
 | Shadow Force: Razor Unit | 23461 | [23461-shadow-force-razor-unit.json](./23461-shadow-force-razor-unit.json) |
+| Shadow Gadget | 263833 | [263833-shadow-gadget.json](./263833-shadow-gadget.json) |
 | Shadow Gambit: The Cursed Crew – Complete Edition | 279876 | [279876-shadow-gambit-the-cursed-crew-complete-edition.json](./279876-shadow-gambit-the-cursed-crew-complete-edition.json) |
 | Shadow Gambit: Yuki's Wish | 279538 | [279538-shadow-gambit-yukis-wish.json](./279538-shadow-gambit-yukis-wish.json) |
 | Shadow Gambit: Zagan's Ritual | 279542 | [279542-shadow-gambit-zagans-ritual.json](./279542-shadow-gambit-zagans-ritual.json) |
@@ -12475,6 +12476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Valley | 31947 | [31947-sky-valley.json](./31947-sky-valley.json) |
 | Sky War | 272802 | [272802-sky-war.json](./272802-sky-war.json) |
 | Sky Warrior | 69506 | [69506-sky-warrior.json](./69506-sky-warrior.json) |
+| Sky Warriors: Airplane Games | 263852 | [263852-sky-warriors-airplane-games.json](./263852-sky-warriors-airplane-games.json) |
 | Sky Wars | 107577 | [107577-sky-wars.json](./107577-sky-wars.json) |
 | Sky Whale | 100852 | [100852-sky-whale.json](./100852-sky-whale.json) |
 | Sky Wings | 371037 | [371037-sky-wings.json](./371037-sky-wings.json) |
@@ -19266,7 +19268,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -28451,6 +28452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subject 33 | 379313 | [379313-subject-33.json](./379313-subject-33.json) |
 | Subject 65 | 222752 | [222752-subject-65.json](./222752-subject-65.json) |
 | Subject 9 | 17332 | [17332-subject-9.json](./17332-subject-9.json) |
+| Subject Debris | 263851 | [263851-subject-debris.json](./263851-subject-debris.json) |
 | Subject: Dinha | 413857 | [413857-subject-dinha.json](./413857-subject-dinha.json) |
 | Subject: Relictus | 188835 | [188835-subject-relictus.json](./188835-subject-relictus.json) |
 | Subject:Love | 305850 | [305850-subject-love.json](./305850-subject-love.json) |
