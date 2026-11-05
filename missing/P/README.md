@@ -12864,6 +12864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potato Peeling | 354762 | [354762-potato-peeling.json](./354762-potato-peeling.json) |
 | Potato Please | 420360 | [420360-potato-please.json](./420360-potato-please.json) |
 | Potato Sack Racing Simulator 2024 | 274581 | [274581-potato-sack-racing-simulator-2024.json](./274581-potato-sack-racing-simulator-2024.json) |
+| Potato Sack Racing Simulator 2024: Digital Deluxe Mega Chad Edition | 291926 | [291926-potato-sack-racing-simulator-2024-digital-deluxe-mega-chad-edition.json](./291926-potato-sack-racing-simulator-2024-digital-deluxe-mega-chad-edition.json) |
 | Potato Salad | 290960 | [290960-potato-salad.json](./290960-potato-salad.json) |
 | Potato Simulato | 398387 | [398387-potato-simulato.json](./398387-potato-simulato.json) |
 | Potato Smash | 165409 | [165409-potato-smash.json](./165409-potato-smash.json) |
@@ -13375,6 +13376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PP Puncher | 158084 | [158084-pp-puncher.json](./158084-pp-puncher.json) |
 | PP: Pathetic Predator | 364479 | [364479-pp-pathetic-predator.json](./364479-pp-pathetic-predator.json) |
 | PPA Pickleball Tour 2025 | 309005 | [309005-ppa-pickleball-tour-2025.json](./309005-ppa-pickleball-tour-2025.json) |
+| PPAP: The Game | 291922 | [291922-ppap-the-game.json](./291922-ppap-the-game.json) |
 | PPD | 380180 | [380180-ppd.json](./380180-ppd.json) |
 | PPDD | 121266 | [121266-ppdd.json](./121266-ppdd.json) |
 | Ppoi: Hitonatsu no Keiken | 203373 | [203373-ppoi-hitonatsu-no-keiken.json](./203373-ppoi-hitonatsu-no-keiken.json) |
@@ -15752,6 +15754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Suburbion | 183829 | [183829-project-suburbion.json](./183829-project-suburbion.json) |
 | Project Summit | 153376 | [153376-project-summit.json](./153376-project-summit.json) |
 | Project Superstar | 323047 | [323047-project-superstar.json](./323047-project-superstar.json) |
+| Project Surfing | 291816 | [291816-project-surfing.json](./291816-project-surfing.json) |
 | Project Survivor | 225977 | [225977-project-survivor.json](./225977-project-survivor.json) |
 | Project SXU | 330576 | [330576-project-sxu.json](./330576-project-sxu.json) |
 | Project Sylpheed | 7136 | [7136-project-sylpheed.json](./7136-project-sylpheed.json) |
