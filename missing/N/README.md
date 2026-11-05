@@ -4795,6 +4795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nikoli Sudoku | 97443 | [97443-nikoli-sudoku.json](./97443-nikoli-sudoku.json) |
 | Nikoli's Pencil Puzzle | 24238 | [24238-nikolis-pencil-puzzle.json](./24238-nikolis-pencil-puzzle.json) |
 | Nikopol: Secrets of the Immortals | 10601 | [10601-nikopol-secrets-of-the-immortals.json](./10601-nikopol-secrets-of-the-immortals.json) |
+| Niktophobia | 258805 | [258805-niktophobia.json](./258805-niktophobia.json) |
 | Nikujin | 66500 | [66500-nikujin.json](./66500-nikujin.json) |
 | Nil Action Metronome | 197034 | [197034-nil-action-metronome.json](./197034-nil-action-metronome.json) |
 | Nil Admirari no Tenbin: Irodori Nadeshiko | 136831 | [136831-nil-admirari-no-tenbin-irodori-nadeshiko.json](./136831-nil-admirari-no-tenbin-irodori-nadeshiko.json) |
