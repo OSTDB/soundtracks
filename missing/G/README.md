@@ -4749,6 +4749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass Wings | 238456 | [238456-glass-wings.json](./238456-glass-wings.json) |
 | Glass x Cannon | 370731 | [370731-glass-x-cannon.json](./370731-glass-x-cannon.json) |
 | Glass: Petit Glass - Part.2 | 227451 | [227451-glass-petit-glass-part-2.json](./227451-glass-petit-glass-part-2.json) |
+| Glass2 | 254814 | [254814-glass2.json](./254814-glass2.json) |
 | GlassBox | 195249 | [195249-glassbox.json](./195249-glassbox.json) |
 | Glassbreakers: Champions of Moss | 264018 | [264018-glassbreakers-champions-of-moss.json](./264018-glassbreakers-champions-of-moss.json) |
 | Glasses and Girls | 248930 | [248930-glasses-and-girls.json](./248930-glasses-and-girls.json) |
