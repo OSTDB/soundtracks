@@ -6199,6 +6199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FirstPlanet | 114552 | [114552-firstplanet.json](./114552-firstplanet.json) |
 | FirstPlate | 400994 | [400994-firstplate.json](./400994-firstplate.json) |
 | FirstQueen1 Next | 172371 | [172371-firstqueen1-next.json](./172371-firstqueen1-next.json) |
+| Firva Strings of Fate | 275409 | [275409-firva-strings-of-fate.json](./275409-firva-strings-of-fate.json) |
 | Fiscal Jesters | 176509 | [176509-fiscal-jesters.json](./176509-fiscal-jesters.json) |
 | Fiscal Kombat | 167175 | [167175-fiscal-kombat.json](./167175-fiscal-kombat.json) |
 | Fischer's Fishing Journey | 343421 | [343421-fischers-fishing-journey.json](./343421-fischers-fishing-journey.json) |
@@ -7306,6 +7307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flashlight Party | 223936 | [223936-flashlight-party.json](./223936-flashlight-party.json) |
 | Flashlight Sim | 304602 | [304602-flashlight-sim.json](./304602-flashlight-sim.json) |
 | Flashloop | 348337 | [348337-flashloop.json](./348337-flashloop.json) |
+| Flashman Gold | 275380 | [275380-flashman-gold.json](./275380-flashman-gold.json) |
 | Flashout 2 | 17357 | [17357-flashout-2.json](./17357-flashout-2.json) |
 | Flashout 3D | 39206 | [39206-flashout-3d.json](./39206-flashout-3d.json) |
 | Flashout 3D: Enhanced Edition | 214676 | [214676-flashout-3d-enhanced-edition.json](./214676-flashout-3d-enhanced-edition.json) |
