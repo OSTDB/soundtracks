@@ -2191,6 +2191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkroom | 75666 | [75666-darkroom.json](./75666-darkroom.json) |
 | Darkroom 2 | 75769 | [75769-darkroom-2.json](./75769-darkroom-2.json) |
 | Darksburg | 105029 | [105029-darksburg.json](./105029-darksburg.json) |
+| DarkScape | 284140 | [284140-darkscape.json](./284140-darkscape.json) |
 | Darkscrolls | 137648 | [137648-darkscrolls.json](./137648-darkscrolls.json) |
 | DarkSelf: Other Mind | 203568 | [203568-darkself-other-mind.json](./203568-darkself-other-mind.json) |
 | DarkShine | 356295 | [356295-darkshine.json](./356295-darkshine.json) |
@@ -11101,6 +11102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doc McStuffins: School of Madicine | 243281 | [243281-doc-mcstuffins-school-of-madicine.json](./243281-doc-mcstuffins-school-of-madicine.json) |
 | DoC: God Mode Edition | 107162 | [107162-doc-god-mode-edition.json](./107162-doc-god-mode-edition.json) |
 | Doca 2 | 111375 | [111375-doca-2.json](./111375-doca-2.json) |
+| Docchi no I ga suki desu ka? | 284121 | [284121-docchi-no-i-ga-suki-desu-ka.json](./284121-docchi-no-i-ga-suki-desu-ka.json) |
 | Doce Fim: Sweetend Placebo | 391576 | [391576-doce-fim-sweetend-placebo.json](./391576-doce-fim-sweetend-placebo.json) |
 | Doces & Calabouços: Caos no Reino do Doce | 335244 | [335244-doces-and-calaboucos-caos-no-reino-do-doce.json](./335244-doces-and-calaboucos-caos-no-reino-do-doce.json) |
 | Docile Fright | 237212 | [237212-docile-fright.json](./237212-docile-fright.json) |
