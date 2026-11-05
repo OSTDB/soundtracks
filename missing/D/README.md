@@ -6626,6 +6626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Denpa Virus | 418820 | [418820-denpa-virus.json](./418820-denpa-virus.json) |
 | Denpa-tou | 281944 | [281944-denpa-tou.json](./281944-denpa-tou.json) |
 | Dense forest | 282009 | [282009-dense-forest.json](./282009-dense-forest.json) |
+| Densetsu no Kusuriya-san | 255429 | [255429-densetsu-no-kusuriya-san.json](./255429-densetsu-no-kusuriya-san.json) |
 | Densetsu no Ogre Battle Gaiden: Zenobia no Ouji | 43975 | [43975-densetsu-no-ogre-battle-gaiden-zenobia-no-ouji.json](./43975-densetsu-no-ogre-battle-gaiden-zenobia-no-ouji.json) |
 | Densetsu no Ogre Battle: Zenobia no Ouji | 70738 | [70738-densetsu-no-ogre-battle-zenobia-no-ouji.json](./70738-densetsu-no-ogre-battle-zenobia-no-ouji.json) |
 | Densetsu no Quiz-ou Ketteisen | 3973 | [3973-densetsu-no-quiz-ou-ketteisen.json](./3973-densetsu-no-quiz-ou-ketteisen.json) |
@@ -8211,6 +8212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo IV: Season of Slaughter | 393963 | [393963-diablo-iv-season-of-slaughter.json](./393963-diablo-iv-season-of-slaughter.json) |
 | Diablo IV: Season of the Construct | 283102 | [283102-diablo-iv-season-of-the-construct.json](./283102-diablo-iv-season-of-the-construct.json) |
 | Diablo IV: Season of the Infernal Hordes | 312216 | [312216-diablo-iv-season-of-the-infernal-hordes.json](./312216-diablo-iv-season-of-the-infernal-hordes.json) |
+| Diablo IV: Season of the Malignant | 255414 | [255414-diablo-iv-season-of-the-malignant.json](./255414-diablo-iv-season-of-the-malignant.json) |
 | Diablo IV: Season of Witchcraft | 328937 | [328937-diablo-iv-season-of-witchcraft.json](./328937-diablo-iv-season-of-witchcraft.json) |
 | Diablo IV: Sins of the Horadrim | 352222 | [352222-diablo-iv-sins-of-the-horadrim.json](./352222-diablo-iv-sins-of-the-horadrim.json) |
 | Diablo IV: Ultimate Edition | 249742 | [249742-diablo-iv-ultimate-edition.json](./249742-diablo-iv-ultimate-edition.json) |
