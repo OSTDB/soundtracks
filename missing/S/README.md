@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saddle Up and Drive | 258123 | [258123-saddle-up-and-drive.json](./258123-saddle-up-and-drive.json) |
 | Saddle Up with Pippa Funnell Olympic Medalist | 208722 | [208722-saddle-up-with-pippa-funnell-olympic-medalist.json](./208722-saddle-up-with-pippa-funnell-olympic-medalist.json) |
 | Saddle Up: Time to Ride | 64114 | [64114-saddle-up-time-to-ride.json](./64114-saddle-up-time-to-ride.json) |
+| Sadey's Sail | 287451 | [287451-sadeys-sail.json](./287451-sadeys-sail.json) |
 | Sadhana | 364598 | [364598-sadhana.json](./364598-sadhana.json) |
 | Sadist II: Ostatni Krzyk | 404380 | [404380-sadist-ii-ostatni-krzyk.json](./404380-sadist-ii-ostatni-krzyk.json) |
 | SaDistic BlooD | 141395 | [141395-sadistic-blood.json](./141395-sadistic-blood.json) |
@@ -5030,6 +5031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seikai no Senki | 214549 | [214549-seikai-no-senki.json](./214549-seikai-no-senki.json) |
 | Seiken Densetsu | 297610 | [297610-seiken-densetsu.json](./297610-seiken-densetsu.json) |
 | Seiken Densetsu: Final Fantasy Gaiden | 306594 | [306594-seiken-densetsu-final-fantasy-gaiden.json](./306594-seiken-densetsu-final-fantasy-gaiden.json) |
+| Seiken Densetsu: Friends of Mana | 287438 | [287438-seiken-densetsu-friends-of-mana.json](./287438-seiken-densetsu-friends-of-mana.json) |
 | Seiken Densetsu: Rise of Mana | 62078 | [62078-seiken-densetsu-rise-of-mana.json](./62078-seiken-densetsu-rise-of-mana.json) |
 | Seiki: Ryoujoku no Kamen | 66052 | [66052-seiki-ryoujoku-no-kamen.json](./66052-seiki-ryoujoku-no-kamen.json) |
 | Seikima II: Akuma no Gyakushuu! | 48399 | [48399-seikima-ii-akuma-no-gyakushuu.json](./48399-seikima-ii-akuma-no-gyakushuu.json) |
@@ -9863,6 +9865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siebenstreich's Nerdventure | 150270 | [150270-siebenstreichs-nerdventure.json](./150270-siebenstreichs-nerdventure.json) |
 | Siege | 394227 | [394227-siege.json](./394227-siege.json) |
 | Siege | 78612 | [78612-siege.json](./78612-siege.json) |
+| Siege 'n Sow | 287429 | [287429-siege-n-sow.json](./287429-siege-n-sow.json) |
 | Siege and Destroy | 29802 | [29802-siege-and-destroy.json](./29802-siege-and-destroy.json) |
 | Siege Demolishers | 411500 | [411500-siege-demolishers.json](./411500-siege-demolishers.json) |
 | Siege Hammer | 31105 | [31105-siege-hammer.json](./31105-siege-hammer.json) |
@@ -18481,6 +18484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sour Patch Kids: World Gone Sour | 52845 | [52845-sour-patch-kids-world-gone-sour.json](./52845-sour-patch-kids-world-gone-sour.json) |
 | Source | 80232 | [80232-source.json](./80232-source.json) |
 | Source beginning | 111434 | [111434-source-beginning.json](./111434-source-beginning.json) |
+| Source Checker | 287440 | [287440-source-checker.json](./287440-source-checker.json) |
 | Source Code | 340199 | [340199-source-code.json](./340199-source-code.json) |
 | Source Control | 62734 | [62734-source-control.json](./62734-source-control.json) |
 | Source Multiplayer Pack | 299099 | [299099-source-multiplayer-pack.json](./299099-source-multiplayer-pack.json) |
@@ -19127,7 +19131,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -29242,6 +29245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SummitX 2 | 200267 | [200267-summitx-2.json](./200267-summitx-2.json) |
 | Summon | 263754 | [263754-summon.json](./263754-summon.json) |
 | Summon a Sweetheart | 400605 | [400605-summon-a-sweetheart.json](./400605-summon-a-sweetheart.json) |
+| Summon Dragons 2 | 287453 | [287453-summon-dragons-2.json](./287453-summon-dragons-2.json) |
 | Summon Elemental | 223402 | [223402-summon-elemental.json](./223402-summon-elemental.json) |
 | Summon Island: The Robot Pirate Invasion Was Today?! | 422041 | [422041-summon-island-the-robot-pirate-invasion-was-today.json](./422041-summon-island-the-robot-pirate-invasion-was-today.json) |
 | Summon Legion | 317988 | [317988-summon-legion.json](./317988-summon-legion.json) |
@@ -31608,6 +31612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Obliteration | 73648 | [73648-super-obliteration.json](./73648-super-obliteration.json) |
 | Super Ocho Bros. | 276027 | [276027-super-ocho-bros.json](./276027-super-ocho-bros.json) |
 | Super Off Road | 245295 | [245295-super-off-road.json](./245295-super-off-road.json) |
+| Super Off Road | 287369 | [287369-super-off-road.json](./287369-super-off-road.json) |
 | Super Off Road | 365683 | [365683-super-off-road.json](./365683-super-off-road.json) |
 | Super Off Road | 365878 | [365878-super-off-road.json](./365878-super-off-road.json) |
 | Super Off Road | 365892 | [365892-super-off-road.json](./365892-super-off-road.json) |
