@@ -2986,6 +2986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gensei Suikoden Plus | 263685 | [263685-gensei-suikoden-plus.json](./263685-gensei-suikoden-plus.json) |
 | Gensei Torimonocho | 263680 | [263680-gensei-torimonocho.json](./263680-gensei-torimonocho.json) |
 | Genseijin Justirisers | 49607 | [49607-genseijin-justirisers.json](./49607-genseijin-justirisers.json) |
+| Genseishin Justirisers: Souchaku Chikyuu no Senshitachi | 278768 | [278768-genseishin-justirisers-souchaku-chikyuu-no-senshitachi.json](./278768-genseishin-justirisers-souchaku-chikyuu-no-senshitachi.json) |
 | Genshi no Kotoba | 144730 | [144730-genshi-no-kotoba.json](./144730-genshi-no-kotoba.json) |
 | Genshi Tou 1930's | 38653 | [38653-genshi-tou-1930s.json](./38653-genshi-tou-1930s.json) |
 | Genshin Impact: A Dance of Snowy Tides and Hoarfrost Groves | 356546 | [356546-genshin-impact-a-dance-of-snowy-tides-and-hoarfrost-groves.json](./356546-genshin-impact-a-dance-of-snowy-tides-and-hoarfrost-groves.json) |
@@ -5104,6 +5105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glowgrass | 221941 | [221941-glowgrass.json](./221941-glowgrass.json) |
 | Glowie Rammer | 309929 | [309929-glowie-rammer.json](./309929-glowie-rammer.json) |
 | Glowie Shooter | 316404 | [316404-glowie-shooter.json](./316404-glowie-shooter.json) |
+| Glowing Abyss | 278766 | [278766-glowing-abyss.json](./278766-glowing-abyss.json) |
 | Glowing Cat | 112098 | [112098-glowing-cat.json](./112098-glowing-cat.json) |
 | Glowing Sokoban | 41949 | [41949-glowing-sokoban.json](./41949-glowing-sokoban.json) |
 | Glowing Stones: Heroes' Awakening | 371019 | [371019-glowing-stones-heroes-awakening.json](./371019-glowing-stones-heroes-awakening.json) |
