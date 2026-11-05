@@ -4678,6 +4678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catwoman | 67337 | [67337-catwoman.json](./67337-catwoman.json) |
 | CatWorld | 257516 | [257516-catworld.json](./257516-catworld.json) |
 | Catx11 | 400482 | [400482-catx11.json](./400482-catx11.json) |
+| CatxBlock | 255415 | [255415-catxblock.json](./255415-catxblock.json) |
 | Catyph: The Kunci Experiment | 34616 | [34616-catyph-the-kunci-experiment.json](./34616-catyph-the-kunci-experiment.json) |
 | Catz | 144796 | [144796-catz.json](./144796-catz.json) |
 | Catz 3 | 71440 | [71440-catz-3.json](./71440-catz-3.json) |
