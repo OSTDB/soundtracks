@@ -1210,6 +1210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Story About Farting | 278747 | [278747-a-story-about-farting.json](./278747-a-story-about-farting.json) |
 | A Story About My Uncle | 7211 | [7211-a-story-about-my-uncle.json](./7211-a-story-about-my-uncle.json) |
 | A Story Beside | 110710 | [110710-a-story-beside.json](./110710-a-story-beside.json) |
+| A Story in Bronze Ware | 263820 | [263820-a-story-in-bronze-ware.json](./263820-a-story-in-bronze-ware.json) |
 | A Story In Space | 158612 | [158612-a-story-in-space.json](./158612-a-story-in-space.json) |
 | A Story of a Band | 103227 | [103227-a-story-of-a-band.json](./103227-a-story-of-a-band.json) |
 | A Story of Distress | 86606 | [86606-a-story-of-distress.json](./86606-a-story-of-distress.json) |
@@ -7053,6 +7054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All About Maze | 326237 | [326237-all-about-maze.json](./326237-all-about-maze.json) |
 | All About The High Score | 276202 | [276202-all-about-the-high-score.json](./276202-all-about-the-high-score.json) |
 | All Abug! | 334745 | [334745-all-abug.json](./334745-all-abug.json) |
+| All Alone | 263822 | [263822-all-alone.json](./263822-all-alone.json) |
 | All Alone | 307276 | [307276-all-alone.json](./307276-all-alone.json) |
 | All Alone on a Small Island | 185013 | [185013-all-alone-on-a-small-island.json](./185013-all-alone-on-a-small-island.json) |
 | All Alone with Mannie | 199256 | [199256-all-alone-with-mannie.json](./199256-all-alone-with-mannie.json) |
@@ -9095,6 +9097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Polis | 258344 | [258344-ancient-polis.json](./258344-ancient-polis.json) |
 | Ancient Quest of Saqqarah | 22118 | [22118-ancient-quest-of-saqqarah.json](./22118-ancient-quest-of-saqqarah.json) |
 | Ancient Relic | 233455 | [233455-ancient-relic.json](./233455-ancient-relic.json) |
+| Ancient Relics: Egypt | 263821 | [263821-ancient-relics-egypt.json](./263821-ancient-relics-egypt.json) |
 | Ancient Rituals: Stonehenge | 216467 | [216467-ancient-rituals-stonehenge.json](./216467-ancient-rituals-stonehenge.json) |
 | Ancient Roman: Power of Dark Side | 193330 | [193330-ancient-roman-power-of-dark-side.json](./193330-ancient-roman-power-of-dark-side.json) |
 | Ancient Rome | 52389 | [52389-ancient-rome.json](./52389-ancient-rome.json) |
@@ -14517,6 +14520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascension to the Throne: Valkyrie | 27455 | [27455-ascension-to-the-throne-valkyrie.json](./27455-ascension-to-the-throne-valkyrie.json) |
 | Ascension Trail | 392696 | [392696-ascension-trail.json](./392696-ascension-trail.json) |
 | Ascension VR | 32106 | [32106-ascension-vr.json](./32106-ascension-vr.json) |
+| Ascension X | 263823 | [263823-ascension-x.json](./263823-ascension-x.json) |
 | Ascension: Arenas of War | 64823 | [64823-ascension-arenas-of-war.json](./64823-ascension-arenas-of-war.json) |
 | Ascension: Deckbuilding Game | 8638 | [8638-ascension-deckbuilding-game.json](./8638-ascension-deckbuilding-game.json) |
 | Ascension: Delirium | 174532 | [174532-ascension-delirium.json](./174532-ascension-delirium.json) |
@@ -15573,6 +15577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Takers | 356974 | [356974-astral-takers.json](./356974-astral-takers.json) |
 | Astral Tale | 271915 | [271915-astral-tale.json](./271915-astral-tale.json) |
 | Astral Terra | 16882 | [16882-astral-terra.json](./16882-astral-terra.json) |
+| Astral Throne | 263819 | [263819-astral-throne.json](./263819-astral-throne.json) |
 | Astral Throne II: Age of the Phoenix | 404610 | [404610-astral-throne-ii-age-of-the-phoenix.json](./404610-astral-throne-ii-age-of-the-phoenix.json) |
 | Astral Tournament | 73863 | [73863-astral-tournament.json](./73863-astral-tournament.json) |
 | Astral Towers | 25452 | [25452-astral-towers.json](./25452-astral-towers.json) |
@@ -15985,6 +15990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Ishtar's Gate | 142493 | [142493-at-ishtars-gate.json](./142493-at-ishtars-gate.json) |
 | At Last not Last | 234495 | [234495-at-last-not-last.json](./234495-at-last-not-last.json) |
 | At Least There is Ceda Cedovic | 138591 | [138591-at-least-there-is-ceda-cedovic.json](./138591-at-least-there-is-ceda-cedovic.json) |
+| At Light Speed | 263826 | [263826-at-light-speed.json](./263826-at-light-speed.json) |
 | At Night | 377303 | [377303-at-night.json](./377303-at-night.json) |
 | At Night : Freakshow | 406664 | [406664-at-night-freakshow.json](./406664-at-night-freakshow.json) |
 | At Night: Haunted Ride | 400723 | [400723-at-night-haunted-ride.json](./400723-at-night-haunted-ride.json) |
@@ -16332,6 +16338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
