@@ -8126,6 +8126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Di Gi Charat RPG | 270602 | [270602-di-gi-charat-rpg.json](./270602-di-gi-charat-rpg.json) |
 | Di-Gata Defenders | 47956 | [47956-di-gata-defenders.json](./47956-di-gata-defenders.json) |
 | Di-Lithium Lift | 137482 | [137482-di-lithium-lift.json](./137482-di-lithium-lift.json) |
+| DI: Debt is Inevitable | 285805 | [285805-di-debt-is-inevitable.json](./285805-di-debt-is-inevitable.json) |
 | Di[c]E | 132619 | [132619-di-c-e.json](./132619-di-c-e.json) |
 | Dia | 182440 | [182440-dia.json](./182440-dia.json) |
 | Dia Bolo | 122300 | [122300-dia-bolo.json](./122300-dia-bolo.json) |
@@ -11002,6 +11003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dnieper River Line | 24809 | [24809-dnieper-river-line.json](./24809-dnieper-river-line.json) |
 | DNO Rasa's Journey | 35103 | [35103-dno-rasas-journey.json](./35103-dno-rasas-journey.json) |
 | Do 335 Pfeil Tour of Duty | 179 | [179-do-335-pfeil-tour-of-duty.json](./179-do-335-pfeil-tour-of-duty.json) |
+| Do A Barrel Roll?? | 285822 | [285822-do-a-barrel-roll.json](./285822-do-a-barrel-roll.json) |
 | Do a Crime | 390110 | [390110-do-a-crime.json](./390110-do-a-crime.json) |
 | Do Animals Dream? | 149404 | [149404-do-animals-dream.json](./149404-do-animals-dream.json) |
 | Do Crimes! | 380413 | [380413-do-crimes.json](./380413-do-crimes.json) |
@@ -13961,6 +13963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draco's Misfortune | 110990 | [110990-dracos-misfortune.json](./110990-dracos-misfortune.json) |
 | DracoFighter | 207527 | [207527-dracofighter.json](./207527-dracofighter.json) |
 | Dracomaton | 258124 | [258124-dracomaton.json](./258124-dracomaton.json) |
+| DraconG | 285826 | [285826-dracong.json](./285826-dracong.json) |
 | Draconia | 143903 | [143903-draconia.json](./143903-draconia.json) |
 | Draconia Saga | 309216 | [309216-draconia-saga.json](./309216-draconia-saga.json) |
 | Draconian Wars | 17324 | [17324-draconian-wars.json](./17324-draconian-wars.json) |
