@@ -954,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6877,6 +6878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Enemy Lines: Vietnam | 345932 | [345932-beyond-enemy-lines-vietnam.json](./345932-beyond-enemy-lines-vietnam.json) |
 | Beyond Eyes | 11135 | [11135-beyond-eyes.json](./11135-beyond-eyes.json) |
 | Beyond Fallendom | 130600 | [130600-beyond-fallendom.json](./130600-beyond-fallendom.json) |
+| Beyond Fantasy | 263829 | [263829-beyond-fantasy.json](./263829-beyond-fantasy.json) |
 | Beyond Fighting 2 | 59474 | [59474-beyond-fighting-2.json](./59474-beyond-fighting-2.json) |
 | Beyond Fighting 3 | 56150 | [56150-beyond-fighting-3.json](./56150-beyond-fighting-3.json) |
 | Beyond Flesh and Blood | 18350 | [18350-beyond-flesh-and-blood.json](./18350-beyond-flesh-and-blood.json) |
@@ -7986,6 +7988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biohazard Code: Veronica - Limited Edition | 407337 | [407337-biohazard-code-veronica-limited-edition.json](./407337-biohazard-code-veronica-limited-edition.json) |
 | Biohazard i Survivor | 251363 | [251363-biohazard-i-survivor.json](./251363-biohazard-i-survivor.json) |
 | Biohazard Outbreak Survive | 356225 | [356225-biohazard-outbreak-survive.json](./356225-biohazard-outbreak-survive.json) |
+| Biohazard RE: 2 - Cloud Version: Z Version | 263845 | [263845-biohazard-re-2-cloud-version-z-version.json](./263845-biohazard-re-2-cloud-version-z-version.json) |
 | Biohazard RE: 2 - Z Version | 218542 | [218542-biohazard-re-2-z-version.json](./218542-biohazard-re-2-z-version.json) |
 | Biohazard RE: 2 - Z Version: Deluxe Edition | 218546 | [218546-biohazard-re-2-z-version-deluxe-edition.json](./218546-biohazard-re-2-z-version-deluxe-edition.json) |
 | Biohazard RE: 3 - Z Version | 134239 | [134239-biohazard-re-3-z-version.json](./134239-biohazard-re-3-z-version.json) |
@@ -8675,6 +8678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BK Concentration | 312953 | [312953-bk-concentration.json](./312953-bk-concentration.json) |
 | BK Simulator | 396121 | [396121-bk-simulator.json](./396121-bk-simulator.json) |
 | BK: OSRS | 313105 | [313105-bk-osrs.json](./313105-bk-osrs.json) |
+| BL Aruaru | 263836 | [263836-bl-aruaru.json](./263836-bl-aruaru.json) |
 | BL Werewolf:Doki-Doki Summer vacation | 373633 | [373633-bl-werewolf-doki-doki-summer-vacation.json](./373633-bl-werewolf-doki-doki-summer-vacation.json) |
 | BL00 | 117346 | [117346-bl00.json](./117346-bl00.json) |
 | Bl00d.exe | 259168 | [259168-bl00d-exe.json](./259168-bl00d-exe.json) |
@@ -11088,6 +11092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Everybody | 190885 | [190885-bloody-everybody.json](./190885-bloody-everybody.json) |
 | Bloody Faerie | 89948 | [89948-bloody-faerie.json](./89948-bloody-faerie.json) |
 | Bloody Feet | 297874 | [297874-bloody-feet.json](./297874-bloody-feet.json) |
+| Bloody Finger Jump | 263843 | [263843-bloody-finger-jump.json](./263843-bloody-finger-jump.json) |
 | Bloody Forest | 197479 | [197479-bloody-forest.json](./197479-bloody-forest.json) |
 | Bloody Fun Day | 386991 | [386991-bloody-fun-day.json](./386991-bloody-fun-day.json) |
 | Bloody Good Friends | 284018 | [284018-bloody-good-friends.json](./284018-bloody-good-friends.json) |
@@ -15352,6 +15357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Briganty: The Roots of Darkness | 73820 | [73820-briganty-the-roots-of-darkness.json](./73820-briganty-the-roots-of-darkness.json) |
 | Bright Bird | 139208 | [139208-bright-bird.json](./139208-bright-bird.json) |
 | Bright Bob | 83523 | [83523-bright-bob.json](./83523-bright-bob.json) |
+| Bright Day | 263828 | [263828-bright-day.json](./263828-bright-day.json) |
 | Bright Days in Quarantine | 158517 | [158517-bright-days-in-quarantine.json](./158517-bright-days-in-quarantine.json) |
 | Bright Escape | 328389 | [328389-bright-escape.json](./328389-bright-escape.json) |
 | Bright Garden | 381957 | [381957-bright-garden.json](./381957-bright-garden.json) |
@@ -16647,6 +16653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build and Play: Planes | 108912 | [108912-build-and-play-planes.json](./108912-build-and-play-planes.json) |
 | Build and Shoot | 68438 | [68438-build-and-shoot.json](./68438-build-and-shoot.json) |
 | Build Bridges | 87992 | [87992-build-bridges.json](./87992-build-bridges.json) |
+| Build Brigade: Mighty Machines | 263861 | [263861-build-brigade-mighty-machines.json](./263861-build-brigade-mighty-machines.json) |
 | Build buildings | 105316 | [105316-build-buildings.json](./105316-build-buildings.json) |
 | Build Cars with Edward and Arthur | 197186 | [197186-build-cars-with-edward-and-arthur.json](./197186-build-cars-with-edward-and-arthur.json) |
 | Build City | 91553 | [91553-build-city.json](./91553-build-city.json) |
