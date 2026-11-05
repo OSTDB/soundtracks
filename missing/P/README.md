@@ -6411,6 +6411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikuniku 2 | 405455 | [405455-pikuniku-2.json](./405455-pikuniku-2.json) |
 | Pikuniku Online | 176627 | [176627-pikuniku-online.json](./176627-pikuniku-online.json) |
 | Pikuniku: Collector's Edition | 154528 | [154528-pikuniku-collectors-edition.json](./154528-pikuniku-collectors-edition.json) |
+| Pikupals: Picross + Aliens | 282992 | [282992-pikupals-picross-aliens.json](./282992-pikupals-picross-aliens.json) |
 | PikuPiku | 349972 | [349972-pikupiku.json](./349972-pikupiku.json) |
 | Pila | 186417 | [186417-pila.json](./186417-pila.json) |
 | Pilam Sky | 38503 | [38503-pilam-sky.json](./38503-pilam-sky.json) |
@@ -8784,8 +8785,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Places I Go When I Close My Eyes | 404042 | [404042-places-i-go-when-i-close-my-eyes.json](./404042-places-i-go-when-i-close-my-eyes.json) |
 | Placid Place | 57449 | [57449-placid-place.json](./57449-placid-place.json) |
 | Placid Plastic Deck: A Quiet Quest | 320718 | [320718-placid-plastic-deck-a-quiet-quest.json](./320718-placid-plastic-deck-a-quiet-quest.json) |
+| Placid Plastic Duck Simulator: Duck Addiction | 282981 | [282981-placid-plastic-duck-simulator-duck-addiction.json](./282981-placid-plastic-duck-simulator-duck-addiction.json) |
+| Placid Plastic Duck Simulator: Ducks, Please | 282980 | [282980-placid-plastic-duck-simulator-ducks-please.json](./282980-placid-plastic-duck-simulator-ducks-please.json) |
 | Placid Plastic Duck Simulator: Quacking the Ice | 236904 | [236904-placid-plastic-duck-simulator-quacking-the-ice.json](./236904-placid-plastic-duck-simulator-quacking-the-ice.json) |
 | Placid Plastic Duck VR | 338550 | [338550-placid-plastic-duck-vr.json](./338550-placid-plastic-duck-vr.json) |
+| Placid Plastic Duck: Hippospace Download | 282983 | [282983-placid-plastic-duck-hippospace-download.json](./282983-placid-plastic-duck-hippospace-download.json) |
 | Placing Heroes: The Legend of Doomsday | 178816 | [178816-placing-heroes-the-legend-of-doomsday.json](./178816-placing-heroes-the-legend-of-doomsday.json) |
 | Pladzma | 130506 | [130506-pladzma.json](./130506-pladzma.json) |
 | Plague | 185680 | [185680-plague.json](./185680-plague.json) |
@@ -11288,6 +11292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: Harmonic Peace | 335148 | [335148-pokemon-harmonic-peace.json](./335148-pokemon-harmonic-peace.json) |
 | Pokémon: Legends of Sinnoh | 319543 | [319543-pokemon-legends-of-sinnoh.json](./319543-pokemon-legends-of-sinnoh.json) |
 | Pokémon: Legends of the Arena | 135872 | [135872-pokemon-legends-of-the-arena.json](./135872-pokemon-legends-of-the-arena.json) |
+| Pokémon: Let's Go Meltan | 282990 | [282990-pokemon-lets-go-meltan.json](./282990-pokemon-lets-go-meltan.json) |
 | Pokémon: Let's Go, Eevee! | 102873 | [102873-pokemon-lets-go-eevee.json](./102873-pokemon-lets-go-eevee.json) |
 | Pokémon: Let's Go, Eevee! GBA | 217860 | [217860-pokemon-lets-go-eevee-gba.json](./217860-pokemon-lets-go-eevee-gba.json) |
 | Pokémon: Let's Go, Pikachu! | 25877 | [25877-pokemon-lets-go-pikachu.json](./25877-pokemon-lets-go-pikachu.json) |
@@ -12073,6 +12078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pony Friends 2 | 51022 | [51022-pony-friends-2.json](./51022-pony-friends-2.json) |
 | Pony Friends: Mini Breeds Edition | 68937 | [68937-pony-friends-mini-breeds-edition.json](./68937-pony-friends-mini-breeds-edition.json) |
 | Pony Girls Horse Care Resort | 102530 | [102530-pony-girls-horse-care-resort.json](./102530-pony-girls-horse-care-resort.json) |
+| Pony in Backrooms | 282987 | [282987-pony-in-backrooms.json](./282987-pony-in-backrooms.json) |
 | Pony Island | 15734 | [15734-pony-island.json](./15734-pony-island.json) |
 | Pony island - cute paradise village | 87078 | [87078-pony-island-cute-paradise-village.json](./87078-pony-island-cute-paradise-village.json) |
 | Pony Island 2: Panda Circus | 279613 | [279613-pony-island-2-panda-circus.json](./279613-pony-island-2-panda-circus.json) |
