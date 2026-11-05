@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waiting for the Raven | 138601 | [138601-waiting-for-the-raven.json](./138601-waiting-for-the-raven.json) |
 | Waiting For You At The End of Time | 335258 | [335258-waiting-for-you-at-the-end-of-time.json](./335258-waiting-for-you-at-the-end-of-time.json) |
 | Waiting Game | 114787 | [114787-waiting-game.json](./114787-waiting-game.json) |
+| Waiting in the Lime Forest | 277639 | [277639-waiting-in-the-lime-forest.json](./277639-waiting-in-the-lime-forest.json) |
 | Waiting on the Finishline | 403791 | [403791-waiting-on-the-finishline.json](./403791-waiting-on-the-finishline.json) |
 | Waitventure | 207619 | [207619-waitventure.json](./207619-waitventure.json) |
 | WaiWai Drive | 312353 | [312353-waiwai-drive.json](./312353-waiwai-drive.json) |
@@ -6109,6 +6110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wishseeker | 415089 | [415089-wishseeker.json](./415089-wishseeker.json) |
 | Wishy Washy | 133163 | [133163-wishy-washy.json](./133163-wishy-washy.json) |
 | Wisly and the Chickens! | 165508 | [165508-wisly-and-the-chickens.json](./165508-wisly-and-the-chickens.json) |
+| Wison | 277664 | [277664-wison.json](./277664-wison.json) |
 | Wisp Catacombs | 244690 | [244690-wisp-catacombs.json](./244690-wisp-catacombs.json) |
 | Wisp Child | 265257 | [265257-wisp-child.json](./265257-wisp-child.json) |
 | Wisper | 119223 | [119223-wisper.json](./119223-wisper.json) |
@@ -7198,6 +7200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wooloo's Run Away | 282370 | [282370-wooloos-run-away.json](./282370-wooloos-run-away.json) |
 | WooLoop | 199121 | [199121-wooloop.json](./199121-wooloop.json) |
 | WooLoop: Advent 2 Pack | 319616 | [319616-wooloop-advent-2-pack.json](./319616-wooloop-advent-2-pack.json) |
+| WooLoop: Advent Pack | 277634 | [277634-wooloop-advent-pack.json](./277634-wooloop-advent-pack.json) |
 | WooLoop: Aquatic Pack | 291697 | [291697-wooloop-aquatic-pack.json](./291697-wooloop-aquatic-pack.json) |
 | WooLoop: Fantasy Pack | 232641 | [232641-wooloop-fantasy-pack.json](./232641-wooloop-fantasy-pack.json) |
 | WooLoop: Halloween Pack | 272238 | [272238-wooloop-halloween-pack.json](./272238-wooloop-halloween-pack.json) |
@@ -9105,6 +9108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K22: Undertaker Immortal Pack | 230987 | [230987-wwe-2k22-undertaker-immortal-pack.json](./230987-wwe-2k22-undertaker-immortal-pack.json) |
 | WWE 2K23 | 233028 | [233028-wwe-2k23.json](./233028-wwe-2k23.json) |
 | WWE 2K23: Bad Bunny Bonus Pack | 263147 | [263147-wwe-2k23-bad-bunny-bonus-pack.json](./263147-wwe-2k23-bad-bunny-bonus-pack.json) |
+| WWE 2K23: Bad Bunny Bundle | 277657 | [277657-wwe-2k23-bad-bunny-bundle.json](./277657-wwe-2k23-bad-bunny-bundle.json) |
 | WWE 2K23: Bad Bunny Edition | 273338 | [273338-wwe-2k23-bad-bunny-edition.json](./273338-wwe-2k23-bad-bunny-edition.json) |
 | WWE 2K23: Bad Bunny Edition - Bonus Pack | 273348 | [273348-wwe-2k23-bad-bunny-edition-bonus-pack.json](./273348-wwe-2k23-bad-bunny-edition-bonus-pack.json) |
 | WWE 2K23: Bad News U Pack | 261929 | [261929-wwe-2k23-bad-news-u-pack.json](./261929-wwe-2k23-bad-news-u-pack.json) |
