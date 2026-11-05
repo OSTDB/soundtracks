@@ -1050,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salt the Earth | 118298 | [118298-salt-the-earth.json](./118298-salt-the-earth.json) |
 | Salt Thrust | 75393 | [75393-salt-thrust.json](./75393-salt-thrust.json) |
 | SALT: Super Awesome Laser Tag | 379869 | [379869-salt-super-awesome-laser-tag.json](./379869-salt-super-awesome-laser-tag.json) |
+| Saltaria | 290195 | [290195-saltaria.json](./290195-saltaria.json) |
 | Salted | 372537 | [372537-salted.json](./372537-salted.json) |
 | Salthe | 248139 | [248139-salthe.json](./248139-salthe.json) |
 | Salto | 149579 | [149579-salto.json](./149579-salto.json) |
@@ -5574,6 +5575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sequence Palladium | 246654 | [246654-sequence-palladium.json](./246654-sequence-palladium.json) |
 | Sequence Storm | 111533 | [111533-sequence-storm.json](./111533-sequence-storm.json) |
 | Sequential | 291007 | [291007-sequential.json](./291007-sequential.json) |
+| Sequential Dungeon | 290213 | [290213-sequential-dungeon.json](./290213-sequential-dungeon.json) |
 | Sequester | 388041 | [388041-sequester.json](./388041-sequester.json) |
 | Sequoia | 185595 | [185595-sequoia.json](./185595-sequoia.json) |
 | Ser BubbleHelm | 385564 | [385564-ser-bubblehelm.json](./385564-ser-bubblehelm.json) |
@@ -16196,6 +16198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Harmony | 190396 | [190396-solitaire-harmony.json](./190396-solitaire-harmony.json) |
 | Solitaire Holiday Season | 386151 | [386151-solitaire-holiday-season.json](./386151-solitaire-holiday-season.json) |
 | Solitaire Home Story | 354999 | [354999-solitaire-home-story.json](./354999-solitaire-home-story.json) |
+| Solitaire In Space | 290226 | [290226-solitaire-in-space.json](./290226-solitaire-in-space.json) |
 | Solitaire Jack Frost: Winter Adventures 2 | 124385 | [124385-solitaire-jack-frost-winter-adventures-2.json](./124385-solitaire-jack-frost-winter-adventures-2.json) |
 | Solitaire Jack Frost: Winter Adventures 3 | 124384 | [124384-solitaire-jack-frost-winter-adventures-3.json](./124384-solitaire-jack-frost-winter-adventures-3.json) |
 | Solitaire Jester | 123427 | [123427-solitaire-jester.json](./123427-solitaire-jester.json) |
@@ -16297,6 +16300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitary Echoes | 322821 | [322821-solitary-echoes.json](./322821-solitary-echoes.json) |
 | Solitary Fighter | 39802 | [39802-solitary-fighter.json](./39802-solitary-fighter.json) |
 | Solitary Grace | 389493 | [389493-solitary-grace.json](./389493-solitary-grace.json) |
+| Solitary Mark | 290211 | [290211-solitary-mark.json](./290211-solitary-mark.json) |
 | Solitary Sentinel | 309307 | [309307-solitary-sentinel.json](./309307-solitary-sentinel.json) |
 | Solitary Singleplayer Offline MMORPG | 424020 | [424020-solitary-singleplayer-offline-mmorpg.json](./424020-solitary-singleplayer-offline-mmorpg.json) |
 | Soliterix | 149460 | [149460-soliterix.json](./149460-soliterix.json) |
@@ -19114,7 +19118,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20945,6 +20948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spheriums | 189883 | [189883-spheriums.json](./189883-spheriums.json) |
 | Spherix | 285514 | [285514-spherix.json](./285514-spherix.json) |
 | Sphero | 290298 | [290298-sphero.json](./290298-sphero.json) |
+| SpHero | 290194 | [290194-sphero.json](./290194-sphero.json) |
 | Spherocious | 285309 | [285309-spherocious.json](./285309-spherocious.json) |
 | Spheroid | 100149 | [100149-spheroid.json](./100149-spheroid.json) |
 | Spheroid | 34535 | [34535-spheroid.json](./34535-spheroid.json) |
@@ -21646,6 +21650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splash | 384564 | [384564-splash.json](./384564-splash.json) |
 | Splash Adventure: The Maze of Morla | 83524 | [83524-splash-adventure-the-maze-of-morla.json](./83524-splash-adventure-the-maze-of-morla.json) |
 | Splash Basketball Online | 116443 | [116443-splash-basketball-online.json](./116443-splash-basketball-online.json) |
+| Splash Carnival | 290210 | [290210-splash-carnival.json](./290210-splash-carnival.json) |
 | Splash Damage: Survive if you can | 41504 | [41504-splash-damage-survive-if-you-can.json](./41504-splash-damage-survive-if-you-can.json) |
 | Splash Dino | 297839 | [297839-splash-dino.json](./297839-splash-dino.json) |
 | Splash Dino 2 | 309719 | [309719-splash-dino-2.json](./309719-splash-dino-2.json) |
@@ -31208,6 +31213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Star World | 185685 | [185685-super-mario-star-world.json](./185685-super-mario-star-world.json) |
 | Super Mario Stardust | 134296 | [134296-super-mario-stardust.json](./134296-super-mario-stardust.json) |
 | Super Mario Starlight | 273867 | [273867-super-mario-starlight.json](./273867-super-mario-starlight.json) |
+| Super Mario Starlight Remix | 290233 | [290233-super-mario-starlight-remix.json](./290233-super-mario-starlight-remix.json) |
 | Super Mario Starshine | 223050 | [223050-super-mario-starshine.json](./223050-super-mario-starshine.json) |
 | Super Mario Stellato | 260841 | [260841-super-mario-stellato.json](./260841-super-mario-stellato.json) |
 | Super Mario Storm 2 | 324074 | [324074-super-mario-storm-2.json](./324074-super-mario-storm-2.json) |
