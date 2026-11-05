@@ -3503,6 +3503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End Reach | 155859 | [155859-end-reach.json](./155859-end-reach.json) |
 | End Roll | 109085 | [109085-end-roll.json](./109085-end-roll.json) |
 | End Roll: Rewind | 198233 | [198233-end-roll-rewind.json](./198233-end-roll-rewind.json) |
+| End Sector | 296535 | [296535-end-sector.json](./296535-end-sector.json) |
 | End Sleep | 140164 | [140164-end-sleep.json](./140164-end-sleep.json) |
 | End Space | 69415 | [69415-end-space.json](./69415-end-space.json) |
 | End State | 77337 | [77337-end-state.json](./77337-end-state.json) |
@@ -4416,6 +4417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic roll | 107491 | [107491-epic-roll.json](./107491-epic-roll.json) |
 | Epic Roller Coasters: Antarctica | 255133 | [255133-epic-roller-coasters-antarctica.json](./255133-epic-roller-coasters-antarctica.json) |
 | Epic Roller Coasters: Armageddon | 166647 | [166647-epic-roller-coasters-armageddon.json](./166647-epic-roller-coasters-armageddon.json) |
+| Epic Roller Coasters: Brazilian Dunes Rally | 296585 | [296585-epic-roller-coasters-brazilian-dunes-rally.json](./296585-epic-roller-coasters-brazilian-dunes-rally.json) |
 | Epic Roller Coasters: Candyland | 243695 | [243695-epic-roller-coasters-candyland.json](./243695-epic-roller-coasters-candyland.json) |
 | Epic Roller Coasters: Colosseum | 336819 | [336819-epic-roller-coasters-colosseum.json](./336819-epic-roller-coasters-colosseum.json) |
 | Epic Roller Coasters: Dread Blood | 166654 | [166654-epic-roller-coasters-dread-blood.json](./166654-epic-roller-coasters-dread-blood.json) |
