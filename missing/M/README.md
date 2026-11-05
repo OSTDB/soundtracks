@@ -4022,6 +4022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Sports Mix | 3989 | [3989-mario-sports-mix.json](./3989-mario-sports-mix.json) |
 | Mario Spy | 318030 | [318030-mario-spy.json](./318030-mario-spy.json) |
 | Mario Starcatcher 2 | 288041 | [288041-mario-starcatcher-2.json](./288041-mario-starcatcher-2.json) |
+| Mario Stops Climate Change 64 | 250093 | [250093-mario-stops-climate-change-64.json](./250093-mario-stops-climate-change-64.json) |
 | Mario Strikers: Battle League | 191398 | [191398-mario-strikers-battle-league.json](./191398-mario-strikers-battle-league.json) |
 | Mario Super Sluggers | 3987 | [3987-mario-super-sluggers.json](./3987-mario-super-sluggers.json) |
 | Mario Super Sluggers Cards | 339844 | [339844-mario-super-sluggers-cards.json](./339844-mario-super-sluggers-cards.json) |
@@ -5841,6 +5842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -10885,6 +10887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miden Tower | 132190 | [132190-miden-tower.json](./132190-miden-tower.json) |
 | Miden Tower: Experience & SP x2 | 171021 | [171021-miden-tower-experience-and-sp-x2.json](./171021-miden-tower-experience-and-sp-x2.json) |
 | Miden Tower: Experience x3 | 171020 | [171020-miden-tower-experience-x3.json](./171020-miden-tower-experience-x3.json) |
+| MidEvil | 250102 | [250102-midevil.json](./250102-midevil.json) |
 | Midforest Survivor | 258088 | [258088-midforest-survivor.json](./258088-midforest-survivor.json) |
 | Midgard | 228323 | [228323-midgard.json](./228323-midgard.json) |
 | Midgard Lava-a-Jato | 298428 | [298428-midgard-lava-a-jato.json](./298428-midgard-lava-a-jato.json) |
