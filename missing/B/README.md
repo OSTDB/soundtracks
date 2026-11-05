@@ -9332,6 +9332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Warrior | 14313 | [14313-blade-warrior.json](./14313-blade-warrior.json) |
 | Blade Warrior | 311029 | [311029-blade-warrior.json](./311029-blade-warrior.json) |
 | Blade X: End of Darkness | 381878 | [381878-blade-x-end-of-darkness.json](./381878-blade-x-end-of-darkness.json) |
+| Blade X: Odyssey of Heroes | 281820 | [281820-blade-x-odyssey-of-heroes.json](./281820-blade-x-odyssey-of-heroes.json) |
 | Blade Yautja | 217709 | [217709-blade-yautja.json](./217709-blade-yautja.json) |
 | Blade-Shift Rage | 219209 | [219209-blade-shift-rage.json](./219209-blade-shift-rage.json) |
 | Blade: Trinity | 322358 | [322358-blade-trinity.json](./322358-blade-trinity.json) |
