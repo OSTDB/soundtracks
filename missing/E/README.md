@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Sticks | 364797 | [364797-earth-defense-sticks.json](./364797-earth-defense-sticks.json) |
 | Earth Dies Screaming | 40614 | [40614-earth-dies-screaming.json](./40614-earth-dies-screaming.json) |
 | Earth Editor | 288086 | [288086-earth-editor.json](./288086-earth-editor.json) |
+| Earth Ends | 257174 | [257174-earth-ends.json](./257174-earth-ends.json) |
 | Earth Eternal | 67668 | [67668-earth-eternal.json](./67668-earth-eternal.json) |
 | Earth Forge | 405628 | [405628-earth-forge.json](./405628-earth-forge.json) |
 | Earth Guard: Egypt | 165931 | [165931-earth-guard-egypt.json](./165931-earth-guard-egypt.json) |
@@ -2954,6 +2955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerald Ambush | 257295 | [257295-emerald-ambush.json](./257295-emerald-ambush.json) |
 | Emerald Bathhouse | 268776 | [268776-emerald-bathhouse.json](./268776-emerald-bathhouse.json) |
 | Emerald Caravan | 279139 | [279139-emerald-caravan.json](./279139-emerald-caravan.json) |
+| Emerald City | 257139 | [257139-emerald-city.json](./257139-emerald-city.json) |
 | Emerald City Confidential | 16072 | [16072-emerald-city-confidential.json](./16072-emerald-city-confidential.json) |
 | Emerald Dragon | 15834 | [15834-emerald-dragon.json](./15834-emerald-dragon.json) |
 | Emerald Dreams: Sanity - Platformer Quest | 349372 | [349372-emerald-dreams-sanity-platformer-quest.json](./349372-emerald-dreams-sanity-platformer-quest.json) |
@@ -7005,6 +7007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Dungeons 2 | 323160 | [323160-evil-dungeons-2.json](./323160-evil-dungeons-2.json) |
 | Evil Dwells Within | 276392 | [276392-evil-dwells-within.json](./276392-evil-dwells-within.json) |
 | Evil Egg | 351117 | [351117-evil-egg.json](./351117-evil-egg.json) |
+| Evil Egypt | 257160 | [257160-evil-egypt.json](./257160-evil-egypt.json) |
 | Evil Elves II Deluxe | 276925 | [276925-evil-elves-ii-deluxe.json](./276925-evil-elves-ii-deluxe.json) |
 | Evil Elves II: The Return of the Christmas Presents! | 268189 | [268189-evil-elves-ii-the-return-of-the-christmas-presents.json](./268189-evil-elves-ii-the-return-of-the-christmas-presents.json) |
 | Evil Exhumed | 271530 | [271530-evil-exhumed.json](./271530-evil-exhumed.json) |
