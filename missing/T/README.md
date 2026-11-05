@@ -16989,6 +16989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tale of Bistun | 152395 | [152395-the-tale-of-bistun.json](./152395-the-tale-of-bistun.json) |
 | The Tale of Bistun: Digital Collector's Edition | 227172 | [227172-the-tale-of-bistun-digital-collectors-edition.json](./227172-the-tale-of-bistun-digital-collectors-edition.json) |
 | The Tale of Despereaux | 51163 | [51163-the-tale-of-despereaux.json](./51163-the-tale-of-despereaux.json) |
+| The Tale of Destiny Island | 291283 | [291283-the-tale-of-destiny-island.json](./291283-the-tale-of-destiny-island.json) |
 | The Tale of Doris and the Dragon | 79274 | [79274-the-tale-of-doris-and-the-dragon.json](./79274-the-tale-of-doris-and-the-dragon.json) |
 | The Tale of Doris and the Dragon - Episode 1 | 31613 | [31613-the-tale-of-doris-and-the-dragon-episode-1.json](./31613-the-tale-of-doris-and-the-dragon-episode-1.json) |
 | The Tale of Doris and the Dragon - Episode 2 | 128082 | [128082-the-tale-of-doris-and-the-dragon-episode-2.json](./128082-the-tale-of-doris-and-the-dragon-episode-2.json) |
@@ -24879,6 +24880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Model 3D | 84948 | [84948-top-model-3d.json](./84948-top-model-3d.json) |
 | Top Model Academy | 47869 | [47869-top-model-academy.json](./47869-top-model-academy.json) |
 | Top Model Makeover - Girls Makeup & Dress Up Games | 90216 | [90216-top-model-makeover-girls-makeup-and-dress-up-games.json](./90216-top-model-makeover-girls-makeup-and-dress-up-games.json) |
+| Top Percent | 291284 | [291284-top-percent.json](./291284-top-percent.json) |
 | Top Pro Golf 2 | 45693 | [45693-top-pro-golf-2.json](./45693-top-pro-golf-2.json) |
 | Top PUA | 247424 | [247424-top-pua.json](./247424-top-pua.json) |
 | Top Punch | 97203 | [97203-top-punch.json](./97203-top-punch.json) |
@@ -26549,6 +26551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Townframe | 199128 | [199128-townframe.json](./199128-townframe.json) |
 | Townkins | 103524 | [103524-townkins.json](./103524-townkins.json) |
 | Townkins: Wonderland Village | 103667 | [103667-townkins-wonderland-village.json](./103667-townkins-wonderland-village.json) |
+| Townland | 291292 | [291292-townland.json](./291292-townland.json) |
 | Townlore 2.0 | 299480 | [299480-townlore-2-0.json](./299480-townlore-2-0.json) |
 | Townopolis Romopolis Megapolis Collection | 53836 | [53836-townopolis-romopolis-megapolis-collection.json](./53836-townopolis-romopolis-megapolis-collection.json) |
 | Towns | 28041 | [28041-towns.json](./28041-towns.json) |
