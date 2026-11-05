@@ -951,7 +951,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6615,6 +6614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best VRcase 9000 | 211450 | [211450-best-vrcase-9000.json](./211450-best-vrcase-9000.json) |
 | Best Word | 234068 | [234068-best-word.json](./234068-best-word.json) |
 | Best. Game. Ever. | 210476 | [210476-best-game-ever.json](./210476-best-game-ever.json) |
+| Bestanden! Dein Weg zum Führerschein (German Highway Code) | 286805 | [286805-bestanden-dein-weg-zum-fuhrerschein-german-highway-code.json](./286805-bestanden-dein-weg-zum-fuhrerschein-german-highway-code.json) |
 | Bestial Warrior | 47553 | [47553-bestial-warrior.json](./47553-bestial-warrior.json) |
 | Bestiario | 296847 | [296847-bestiario.json](./296847-bestiario.json) |
 | Bestiary | 135083 | [135083-bestiary.json](./135083-bestiary.json) |
@@ -11391,6 +11391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Powder Grey Smoke | 362429 | [362429-blue-powder-grey-smoke.json](./362429-blue-powder-grey-smoke.json) |
 | Blue Rabbit | 149975 | [149975-blue-rabbit.json](./149975-blue-rabbit.json) |
 | Blue rabbit a world of shapes and lost colors | 195263 | [195263-blue-rabbit-a-world-of-shapes-and-lost-colors.json](./195263-blue-rabbit-a-world-of-shapes-and-lost-colors.json) |
+| Blue Rabbits Climate Chaos | 286870 | [286870-blue-rabbits-climate-chaos.json](./286870-blue-rabbits-climate-chaos.json) |
 | Blue red aaaargh | 106837 | [106837-blue-red-aaaargh.json](./106837-blue-red-aaaargh.json) |
 | Blue Reflection | 25708 | [25708-blue-reflection.json](./25708-blue-reflection.json) |
 | Blue Reflection | 396236 | [396236-blue-reflection.json](./396236-blue-reflection.json) |
@@ -15768,6 +15769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal Doom: Power Fantasy | 198662 | [198662-brutal-doom-power-fantasy.json](./198662-brutal-doom-power-fantasy.json) |
 | Brutal Doom: Project Brutality | 198667 | [198667-brutal-doom-project-brutality.json](./198667-brutal-doom-project-brutality.json) |
 | Brutal Doom: ZioMcCall's Vision | 198693 | [198693-brutal-doom-ziomccalls-vision.json](./198693-brutal-doom-ziomccalls-vision.json) |
+| Brutal Force | 286804 | [286804-brutal-force.json](./286804-brutal-force.json) |
 | Brutal Grounds | 137881 | [137881-brutal-grounds.json](./137881-brutal-grounds.json) |
 | Brutal Half-Life | 195991 | [195991-brutal-half-life.json](./195991-brutal-half-life.json) |
 | Brutal Heretic RPG | 198680 | [198680-brutal-heretic-rpg.json](./198680-brutal-heretic-rpg.json) |
@@ -16929,6 +16931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bump Set Spike! | 13453 | [13453-bump-set-spike.json](./13453-bump-set-spike.json) |
 | Bump Set Spike!: Doubles Volleyball | 83355 | [83355-bump-set-spike-doubles-volleyball.json](./83355-bump-set-spike-doubles-volleyball.json) |
 | Bump Sheep | 253202 | [253202-bump-sheep.json](./253202-bump-sheep.json) |
+| BUMP! Superbrawl | 286906 | [286906-bump-superbrawl.json](./286906-bump-superbrawl.json) |
 | Bump.io: Arena of Bumper | 106960 | [106960-bump-io-arena-of-bumper.json](./106960-bump-io-arena-of-bumper.json) |
 | Bump+Smack | 38762 | [38762-bump-smack.json](./38762-bump-smack.json) |
 | Bumparound | 181673 | [181673-bumparound.json](./181673-bumparound.json) |
