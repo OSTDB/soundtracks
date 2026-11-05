@@ -2677,6 +2677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarpone Scamps | 207658 | [207658-scarpone-scamps.json](./207658-scarpone-scamps.json) |
 | ScarQuest | 301242 | [301242-scarquest.json](./301242-scarquest.json) |
 | Scarred | 264640 | [264640-scarred.json](./264640-scarred.json) |
+| Scarred Mansion | 294927 | [294927-scarred-mansion.json](./294927-scarred-mansion.json) |
 | Scarred Stars | 154985 | [154985-scarred-stars.json](./154985-scarred-stars.json) |
 | Scarred Stars: Traumatic Edition | 173405 | [173405-scarred-stars-traumatic-edition.json](./173405-scarred-stars-traumatic-edition.json) |
 | Scarred Steel | 374780 | [374780-scarred-steel.json](./374780-scarred-steel.json) |
@@ -15234,6 +15235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowRunner: Season 8 - Grand Harvest | 148145 | [148145-snowrunner-season-8-grand-harvest.json](./148145-snowrunner-season-8-grand-harvest.json) |
 | SnowRunner: Season 9 - Renew & Rebuild | 231245 | [231245-snowrunner-season-9-renew-and-rebuild.json](./231245-snowrunner-season-9-renew-and-rebuild.json) |
 | SnowRunner: Tatra Dual Pack | 214469 | [214469-snowrunner-tatra-dual-pack.json](./214469-snowrunner-tatra-dual-pack.json) |
+| SnowRunner: The Atom | 294987 | [294987-snowrunner-the-atom.json](./294987-snowrunner-the-atom.json) |
 | SnowRunner: The Mastodon | 251989 | [251989-snowrunner-the-mastodon.json](./251989-snowrunner-the-mastodon.json) |
 | SnowRunner: True Colors Vinyl Wrap | 148153 | [148153-snowrunner-true-colors-vinyl-wrap.json](./148153-snowrunner-true-colors-vinyl-wrap.json) |
 | SnowRunner: Western Star 49X | 148147 | [148147-snowrunner-western-star-49x.json](./148147-snowrunner-western-star-49x.json) |
@@ -20475,6 +20477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedball 2 Tournament | 10154 | [10154-speedball-2-tournament.json](./10154-speedball-2-tournament.json) |
 | Speedball 2: Brutal Deluxe | 10152 | [10152-speedball-2-brutal-deluxe.json](./10152-speedball-2-brutal-deluxe.json) |
 | Speedball 2: Brutal Deluxe | 147273 | [147273-speedball-2-brutal-deluxe.json](./147273-speedball-2-brutal-deluxe.json) |
+| Speedball 2: Brutal Deluxe | 295045 | [295045-speedball-2-brutal-deluxe.json](./295045-speedball-2-brutal-deluxe.json) |
 | Speedball 2: Evolution | 42844 | [42844-speedball-2-evolution.json](./42844-speedball-2-evolution.json) |
 | Speedball 2100 | 10153 | [10153-speedball-2100.json](./10153-speedball-2100.json) |
 | SpeedBall! | 105788 | [105788-speedball.json](./105788-speedball.json) |
@@ -22558,6 +22561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spyro: Year of the Dragon | 142243 | [142243-spyro-year-of-the-dragon.json](./142243-spyro-year-of-the-dragon.json) |
 | Spyro: Year of the Dragon | 1578 | [1578-spyro-year-of-the-dragon.json](./1578-spyro-year-of-the-dragon.json) |
 | Spyro: Year of the Dragon - Collector's Edition | 43684 | [43684-spyro-year-of-the-dragon-collectors-edition.json](./43684-spyro-year-of-the-dragon-collectors-edition.json) |
+| Spyware | 294920 | [294920-spyware.json](./294920-spyware.json) |
 | Spyyn | 372101 | [372101-spyyn.json](./372101-spyyn.json) |
 | Sqdef | 194297 | [194297-sqdef.json](./194297-sqdef.json) |
 | SQGT | 332647 | [332647-sqgt.json](./332647-sqgt.json) |
@@ -24371,6 +24375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starflight II: Trade Routes of the Cloud Nebula | 12777 | [12777-starflight-ii-trade-routes-of-the-cloud-nebula.json](./12777-starflight-ii-trade-routes-of-the-cloud-nebula.json) |
 | Starflight: A Cosmic Adventure | 69642 | [69642-starflight-a-cosmic-adventure.json](./69642-starflight-a-cosmic-adventure.json) |
 | StarFlint the BlackHole Prophecy | 192567 | [192567-starflint-the-blackhole-prophecy.json](./192567-starflint-the-blackhole-prophecy.json) |
+| StarFlow | 295067 | [295067-starflow.json](./295067-starflow.json) |
 | Starflower Inc. | 348788 | [348788-starflower-inc.json](./348788-starflower-inc.json) |
 | StarFlyers: Alien Space Chase | 122951 | [122951-starflyers-alien-space-chase.json](./122951-starflyers-alien-space-chase.json) |
 | StarFlyers: Royal Jewel Rescue | 122950 | [122950-starflyers-royal-jewel-rescue.json](./122950-starflyers-royal-jewel-rescue.json) |
@@ -32251,6 +32256,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Star Trek | 325825 | [325825-super-star-trek.json](./325825-super-star-trek.json) |
 | Super Star Wars | 20031 | [20031-super-star-wars.json](./20031-super-star-wars.json) |
 | Super Star Wars Holiday Special | 327937 | [327937-super-star-wars-holiday-special.json](./327937-super-star-wars-holiday-special.json) |
+| Super Star Wars: Return of the Jedi | 295050 | [295050-super-star-wars-return-of-the-jedi.json](./295050-super-star-wars-return-of-the-jedi.json) |
+| Super Star Wars: Return of the Jedi | 295051 | [295051-super-star-wars-return-of-the-jedi.json](./295051-super-star-wars-return-of-the-jedi.json) |
 | Super Star Wars: Return of the Jedi | 48939 | [48939-super-star-wars-return-of-the-jedi.json](./48939-super-star-wars-return-of-the-jedi.json) |
 | Super Star Wars: The Empire Strikes Back | 44463 | [44463-super-star-wars-the-empire-strikes-back.json](./44463-super-star-wars-the-empire-strikes-back.json) |
 | Super Stardust | 12351 | [12351-super-stardust.json](./12351-super-stardust.json) |
@@ -33376,6 +33383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive the KSI Song | 321021 | [321021-survive-the-ksi-song.json](./321021-survive-the-ksi-song.json) |
 | Survive the Labyrinth | 343833 | [343833-survive-the-labyrinth.json](./343833-survive-the-labyrinth.json) |
 | Survive the Mafia | 184378 | [184378-survive-the-mafia.json](./184378-survive-the-mafia.json) |
+| Survive The Night | 295065 | [295065-survive-the-night.json](./295065-survive-the-night.json) |
 | Survive the Nights | 39279 | [39279-survive-the-nights.json](./39279-survive-the-nights.json) |
 | Survive the Orcs | 236795 | [236795-survive-the-orcs.json](./236795-survive-the-orcs.json) |
 | Survive the Shift | 412736 | [412736-survive-the-shift.json](./412736-survive-the-shift.json) |
