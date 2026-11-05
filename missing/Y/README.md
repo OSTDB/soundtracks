@@ -320,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yark Survivors | 337923 | [337923-yark-survivors.json](./337923-yark-survivors.json) |
 | Yark!: A Kobold Adventure | 246587 | [246587-yark-a-kobold-adventure.json](./246587-yark-a-kobold-adventure.json) |
 | Yarn | 166614 | [166614-yarn.json](./166614-yarn.json) |
+| Yarn | 294503 | [294503-yarn.json](./294503-yarn.json) |
 | Yarn | 294504 | [294504-yarn.json](./294504-yarn.json) |
 | Yarn Guardians | 302413 | [302413-yarn-guardians.json](./302413-yarn-guardians.json) |
 | Yarne | 145416 | [145416-yarne.json](./145416-yarne.json) |
