@@ -8578,6 +8578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BitRick's Venture | 333173 | [333173-bitricks-venture.json](./333173-bitricks-venture.json) |
 | Bitroom | 148925 | [148925-bitroom.json](./148925-bitroom.json) |
 | Bits & Bops | 202135 | [202135-bits-and-bops.json](./202135-bits-and-bops.json) |
+| Bits and Pieces | 277078 | [277078-bits-and-pieces.json](./277078-bits-and-pieces.json) |
 | Bits at Work | 338242 | [338242-bits-at-work.json](./338242-bits-at-work.json) |
 | Bits on the Fritz | 96782 | [96782-bits-on-the-fritz.json](./96782-bits-on-the-fritz.json) |
 | BitShift: BattleGrid | 32742 | [32742-bitshift-battlegrid.json](./32742-bitshift-battlegrid.json) |
@@ -11589,6 +11590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blurred Weird Night | 150647 | [150647-blurred-weird-night.json](./150647-blurred-weird-night.json) |
 | Blurry Shopping | 381098 | [381098-blurry-shopping.json](./381098-blurry-shopping.json) |
 | Blush Blush | 115269 | [115269-blush-blush.json](./115269-blush-blush.json) |
+| Blush Blush: Kitsune Bundle | 277085 | [277085-blush-blush-kitsune-bundle.json](./277085-blush-blush-kitsune-bundle.json) |
 | Blut Club | 229103 | [229103-blut-club.json](./229103-blut-club.json) |
 | Blutkapelle | 420555 | [420555-blutkapelle.json](./420555-blutkapelle.json) |
 | Blym | 108914 | [108914-blym.json](./108914-blym.json) |
@@ -16915,6 +16917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bully: Scholarship Edition | 6574 | [6574-bully-scholarship-edition.json](./6574-bully-scholarship-edition.json) |
 | Bully's Sporting Darts | 13452 | [13452-bullys-sporting-darts.json](./13452-bullys-sporting-darts.json) |
 | BullyBall | 161894 | [161894-bullyball.json](./161894-bullyball.json) |
+| Bullymario's New Super Mario World | 277075 | [277075-bullymarios-new-super-mario-world.json](./277075-bullymarios-new-super-mario-world.json) |
 | Bullynoid | 115504 | [115504-bullynoid.json](./115504-bullynoid.json) |
 | Bullyparade: Der Spiel | 55024 | [55024-bullyparade-der-spiel.json](./55024-bullyparade-der-spiel.json) |
 | Bulorgus | 149559 | [149559-bulorgus.json](./149559-bulorgus.json) |
