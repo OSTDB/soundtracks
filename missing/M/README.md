@@ -2970,6 +2970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mangata | 184048 | [184048-mangata.json](./184048-mangata.json) |
 | Mangavania | 141492 | [141492-mangavania.json](./141492-mangavania.json) |
 | Mangavania 2 | 312979 | [312979-mangavania-2.json](./312979-mangavania-2.json) |
+| MAngband | 285283 | [285283-mangband.json](./285283-mangband.json) |
 | Mangchi | 39591 | [39591-mangchi.json](./39591-mangchi.json) |
 | Mangchi the Hammer Boy | 240178 | [240178-mangchi-the-hammer-boy.json](./240178-mangchi-the-hammer-boy.json) |
 | Mangetsu no Yume | 282512 | [282512-mangetsu-no-yume.json](./282512-mangetsu-no-yume.json) |
@@ -3145,6 +3146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mantle Crater | 386429 | [386429-mantle-crater.json](./386429-mantle-crater.json) |
 | Mantra | 125900 | [125900-mantra.json](./125900-mantra.json) |
 | Mantra | 223438 | [223438-mantra.json](./223438-mantra.json) |
+| Mantra | 285301 | [285301-mantra.json](./285301-mantra.json) |
 | Mantra II: The Blood of Saric | 171234 | [171234-mantra-ii-the-blood-of-saric.json](./171234-mantra-ii-the-blood-of-saric.json) |
 | Mantras 3D | 100114 | [100114-mantras-3d.json](./100114-mantras-3d.json) |
 | Manual | 319421 | [319421-manual.json](./319421-manual.json) |
@@ -5773,6 +5775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -11447,6 +11450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milki Delivery | 385308 | [385308-milki-delivery.json](./385308-milki-delivery.json) |
 | Milking Mira! | 341233 | [341233-milking-mira.json](./341233-milking-mira.json) |
 | Milkman Karlson | 135213 | [135213-milkman-karlson.json](./135213-milkman-karlson.json) |
+| Milkman Mayhem | 285299 | [285299-milkman-mayhem.json](./285299-milkman-mayhem.json) |
 | Milkraid | 382749 | [382749-milkraid.json](./382749-milkraid.json) |
 | Milkshake Shop | 104707 | [104707-milkshake-shop.json](./104707-milkshake-shop.json) |
 | Milkshake! | 240740 | [240740-milkshake.json](./240740-milkshake.json) |
