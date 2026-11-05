@@ -1054,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeta Fighters | 9922 | [9922-zeta-fighters.json](./9922-zeta-fighters.json) |
 | Zeta Flyff | 121479 | [121479-zeta-flyff.json](./121479-zeta-flyff.json) |
 | Zeta Force | 326965 | [326965-zeta-force.json](./326965-zeta-force.json) |
+| Zeta Leporis RTS | 253657 | [253657-zeta-leporis-rts.json](./253657-zeta-leporis-rts.json) |
 | Zeta Wave Infinity | 296319 | [296319-zeta-wave-infinity.json](./296319-zeta-wave-infinity.json) |
 | Zeta Wolf Chronicles | 179082 | [179082-zeta-wolf-chronicles.json](./179082-zeta-wolf-chronicles.json) |
 | Zeta-7 | 25806 | [25806-zeta-7.json](./25806-zeta-7.json) |
@@ -1865,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Survival | 231077 | [231077-zombie-survival.json](./231077-zombie-survival.json) |
 | Zombie Survival | 306756 | [306756-zombie-survival.json](./306756-zombie-survival.json) |
 | Zombie Survival 3D | 409578 | [409578-zombie-survival-3d.json](./409578-zombie-survival-3d.json) |
+| Zombie Survival Game Online | 253658 | [253658-zombie-survival-game-online.json](./253658-zombie-survival-game-online.json) |
 | Zombie Survival Online | 157491 | [157491-zombie-survival-online.json](./157491-zombie-survival-online.json) |
 | Zombie Survival: The Walking Pandemic | 300830 | [300830-zombie-survival-the-walking-pandemic.json](./300830-zombie-survival-the-walking-pandemic.json) |
 | Zombie Survival: Wasteland | 233397 | [233397-zombie-survival-wasteland.json](./233397-zombie-survival-wasteland.json) |
