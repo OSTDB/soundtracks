@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nakawak | 68193 | [68193-nakawak.json](./68193-nakawak.json) |
 | Nakayama Miho no Tokimeki High School | 41284 | [41284-nakayama-miho-no-tokimeki-high-school.json](./41284-nakayama-miho-no-tokimeki-high-school.json) |
 | Nakayoshi Chao! | 210297 | [210297-nakayoshi-chao.json](./210297-nakayoshi-chao.json) |
+| Nakayoshi Cooking Series 1: Oishii Cake Okusan | 282411 | [282411-nakayoshi-cooking-series-1-oishii-cake-okusan.json](./282411-nakayoshi-cooking-series-1-oishii-cake-okusan.json) |
 | Nakayoshi Cooking Series 2: Oishii Panya-san | 282463 | [282463-nakayoshi-cooking-series-2-oishii-panya-san.json](./282463-nakayoshi-cooking-series-2-oishii-panya-san.json) |
 | Nakayoshi Cooking Series 3: Tanoshiio Bentou | 282464 | [282464-nakayoshi-cooking-series-3-tanoshiio-bentou.json](./282464-nakayoshi-cooking-series-3-tanoshiio-bentou.json) |
 | Nakayoshi Cooking Series 4: Tanoshii Dessert | 282465 | [282465-nakayoshi-cooking-series-4-tanoshii-dessert.json](./282465-nakayoshi-cooking-series-4-tanoshii-dessert.json) |
@@ -1311,6 +1312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA in the Zone '98 | 43719 | [43719-nba-in-the-zone-98.json](./43719-nba-in-the-zone-98.json) |
 | NBA in the Zone '99 | 72053 | [72053-nba-in-the-zone-99.json](./72053-nba-in-the-zone-99.json) |
 | NBA In the Zone 2 | 20729 | [20729-nba-in-the-zone-2.json](./20729-nba-in-the-zone-2.json) |
+| NBA In the Zone 2000 | 282382 | [282382-nba-in-the-zone-2000.json](./282382-nba-in-the-zone-2000.json) |
 | NBA In the Zone 2000 | 43718 | [43718-nba-in-the-zone-2000.json](./43718-nba-in-the-zone-2000.json) |
 | NBA Infinite | 257015 | [257015-nba-infinite.json](./257015-nba-infinite.json) |
 | NBA Inside Drive 2000 | 79656 | [79656-nba-inside-drive-2000.json](./79656-nba-inside-drive-2000.json) |
@@ -5241,6 +5243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintama Rantarou Special | 42519 | [42519-nintama-rantarou-special.json](./42519-nintama-rantarou-special.json) |
 | Nintama Rantarou: Gungun Nobiru Chinou-hen | 63943 | [63943-nintama-rantarou-gungun-nobiru-chinou-hen.json](./63943-nintama-rantarou-gungun-nobiru-chinou-hen.json) |
 | Nintama Rantarou: Hajimete Oboeru Chishiki-hen | 63937 | [63937-nintama-rantarou-hajimete-oboeru-chishiki-hen.json](./63937-nintama-rantarou-hajimete-oboeru-chishiki-hen.json) |
+| Nintama Rantarou: Ninjutsu Gakuen ni Nyuugaku Shiyou no Dan | 282385 | [282385-nintama-rantarou-ninjutsu-gakuen-ni-nyuugaku-shiyou-no-dan.json](./282385-nintama-rantarou-ninjutsu-gakuen-ni-nyuugaku-shiyou-no-dan.json) |
 | Nintendo 3DS Guide: Louvre | 62506 | [62506-nintendo-3ds-guide-louvre.json](./62506-nintendo-3ds-guide-louvre.json) |
 | Nintendo 3DS Sound: Soccer | 250320 | [250320-nintendo-3ds-sound-soccer.json](./250320-nintendo-3ds-sound-soccer.json) |
 | Nintendo Adventure Books 3: Monster Mix-Up | 270387 | [270387-nintendo-adventure-books-3-monster-mix-up.json](./270387-nintendo-adventure-books-3-monster-mix-up.json) |
@@ -5370,6 +5373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nise no Chigiri Omoide no Saki He | 221886 | [221886-nise-no-chigiri-omoide-no-saki-he.json](./221886-nise-no-chigiri-omoide-no-saki-he.json) |
 | Nisekoi Majikore!? | 60795 | [60795-nisekoi-majikore.json](./60795-nisekoi-majikore.json) |
 | Nisekoi Yomeiri!? | 86186 | [86186-nisekoi-yomeiri.json](./86186-nisekoi-yomeiri.json) |
+| Nisemon: Puzzle da Mon! | 282386 | [282386-nisemon-puzzle-da-mon.json](./282386-nisemon-puzzle-da-mon.json) |
 | Nishan Shaman | 105117 | [105117-nishan-shaman.json](./105117-nishan-shaman.json) |
 | Nishijin Pachinko 3 | 37904 | [37904-nishijin-pachinko-3.json](./37904-nishijin-pachinko-3.json) |
 | Nishijin Pachinko Monogatari | 37903 | [37903-nishijin-pachinko-monogatari.json](./37903-nishijin-pachinko-monogatari.json) |
@@ -5939,6 +5943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga no Yabou 201X | 61101 | [61101-nobunaga-no-yabou-201x.json](./61101-nobunaga-no-yabou-201x.json) |
 | Nobunaga no Yabou DS 2 | 59379 | [59379-nobunaga-no-yabou-ds-2.json](./59379-nobunaga-no-yabou-ds-2.json) |
 | Nobunaga no Yabou for WonderSwan | 37562 | [37562-nobunaga-no-yabou-for-wonderswan.json](./37562-nobunaga-no-yabou-for-wonderswan.json) |
+| Nobunaga no Yabou Game Boy-ban 2 | 282388 | [282388-nobunaga-no-yabou-game-boy-ban-2.json](./282388-nobunaga-no-yabou-game-boy-ban-2.json) |
 | Nobunaga no Yabou Internet | 307182 | [307182-nobunaga-no-yabou-internet.json](./307182-nobunaga-no-yabou-internet.json) |
 | Nobunaga no Yabou Online | 78306 | [78306-nobunaga-no-yabou-online.json](./78306-nobunaga-no-yabou-online.json) |
 | Nobunaga no Yabou: Bushou Fuuunroku | 307153 | [307153-nobunaga-no-yabou-bushou-fuuunroku.json](./307153-nobunaga-no-yabou-bushou-fuuunroku.json) |
