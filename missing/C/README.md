@@ -3460,6 +3460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Infinity | 63576 | [63576-castle-infinity.json](./63576-castle-infinity.json) |
 | Castle Invasion: Throne Out | 32127 | [32127-castle-invasion-throne-out.json](./32127-castle-invasion-throne-out.json) |
 | Castle Itter: The Strangest Battle of WWII | 169423 | [169423-castle-itter-the-strangest-battle-of-wwii.json](./169423-castle-itter-the-strangest-battle-of-wwii.json) |
+| Castle Kaahoo | 271453 | [271453-castle-kaahoo.json](./271453-castle-kaahoo.json) |
 | Castle Karthenfrost | 308385 | [308385-castle-karthenfrost.json](./308385-castle-karthenfrost.json) |
 | Castle Kellmore | 342814 | [342814-castle-kellmore.json](./342814-castle-kellmore.json) |
 | Castle Kingdom Wars | 238490 | [238490-castle-kingdom-wars.json](./238490-castle-kingdom-wars.json) |
@@ -3580,6 +3581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Woodwarf 2 | 118612 | [118612-castle-woodwarf-2.json](./118612-castle-woodwarf-2.json) |
 | Castle Wreck | 373638 | [373638-castle-wreck.json](./373638-castle-wreck.json) |
 | Castle Xenon | 338496 | [338496-castle-xenon.json](./338496-castle-xenon.json) |
+| Castle Zanthu | 271454 | [271454-castle-zanthu.json](./271454-castle-zanthu.json) |
 | Castle: Daybreak | 166166 | [166166-castle-daybreak.json](./166166-castle-daybreak.json) |
 | Castle: Jigsaw Puzzles | 101394 | [101394-castle-jigsaw-puzzles.json](./101394-castle-jigsaw-puzzles.json) |
 | Castle: Never Judge a Book by its Cover | 17407 | [17407-castle-never-judge-a-book-by-its-cover.json](./17407-castle-never-judge-a-book-by-its-cover.json) |
@@ -3856,6 +3858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Defense | 116940 | [116940-cat-defense.json](./116940-cat-defense.json) |
 | Cat Demon Island | 109903 | [109903-cat-demon-island.json](./109903-cat-demon-island.json) |
 | Cat Designer Mocha | 152192 | [152192-cat-designer-mocha.json](./152192-cat-designer-mocha.json) |
+| Cat Detective | 271546 | [271546-cat-detective.json](./271546-cat-detective.json) |
 | Cat Detective Albert Wilde | 191800 | [191800-cat-detective-albert-wilde.json](./191800-cat-detective-albert-wilde.json) |
 | Cat Doctor | 372763 | [372763-cat-doctor.json](./372763-cat-doctor.json) |
 | Cat Doctor: For Loyal Servants | 396880 | [396880-cat-doctor-for-loyal-servants.json](./396880-cat-doctor-for-loyal-servants.json) |
@@ -11195,6 +11198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cogs and Cowboys | 31818 | [31818-cogs-and-cowboys.json](./31818-cogs-and-cowboys.json) |
 | Cogs Lite | 100257 | [100257-cogs-lite.json](./100257-cogs-lite.json) |
 | Cogs of Combat | 201120 | [201120-cogs-of-combat.json](./201120-cogs-of-combat.json) |
+| Cogs Of Conflict | 271529 | [271529-cogs-of-conflict.json](./271529-cogs-of-conflict.json) |
 | CogVR | 29827 | [29827-cogvr.json](./29827-cogvr.json) |
 | Cogwheel | 344725 | [344725-cogwheel.json](./344725-cogwheel.json) |
 | Cohabitation | 217877 | [217877-cohabitation.json](./217877-cohabitation.json) |
