@@ -892,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest room: Hanon | 110547 | [110547-quest-room-hanon.json](./110547-quest-room-hanon.json) |
 | Quest Rooms | 129252 | [129252-quest-rooms.json](./129252-quest-rooms.json) |
 | Quest Run | 54314 | [54314-quest-run.json](./54314-quest-run.json) |
+| Quest to Aztlan | 266551 | [266551-quest-to-aztlan.json](./266551-quest-to-aztlan.json) |
 | Quest to be King | 99101 | [99101-quest-to-be-king.json](./99101-quest-to-be-king.json) |
 | Quest Together | 156696 | [156696-quest-together.json](./156696-quest-together.json) |
 | Quest Town Saga | 276137 | [276137-quest-town-saga.json](./276137-quest-town-saga.json) |
