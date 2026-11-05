@@ -1684,6 +1684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramp Bike Jumping | 215117 | [215117-ramp-bike-jumping.json](./215117-ramp-bike-jumping.json) |
 | Ramp Bike Racing | 322072 | [322072-ramp-bike-racing.json](./322072-ramp-bike-racing.json) |
 | Ramp Car Jumping | 147852 | [147852-ramp-car-jumping.json](./147852-ramp-car-jumping.json) |
+| Ramp Car Racing | 254857 | [254857-ramp-car-racing.json](./254857-ramp-car-racing.json) |
 | Ramp Champ | 67621 | [67621-ramp-champ.json](./67621-ramp-champ.json) |
 | Rampage | 198874 | [198874-rampage.json](./198874-rampage.json) |
 | Rampage | 278053 | [278053-rampage.json](./278053-rampage.json) |
@@ -12552,6 +12553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running With Rifles 2 | 359709 | [359709-running-with-rifles-2.json](./359709-running-with-rifles-2.json) |
 | RunningDead | 29650 | [29650-runningdead.json](./29650-runningdead.json) |
 | RunningJoe | 30716 | [30716-runningjoe.json](./30716-runningjoe.json) |
+| Runnordai | 254844 | [254844-runnordai.json](./254844-runnordai.json) |
 | Runny Bunny | 317999 | [317999-runny-bunny.json](./317999-runny-bunny.json) |
 | Runombie | 292287 | [292287-runombie.json](./292287-runombie.json) |
 | Runonce | 288986 | [288986-runonce.json](./288986-runonce.json) |
