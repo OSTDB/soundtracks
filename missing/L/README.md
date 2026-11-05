@@ -797,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landoria | 296637 | [296637-landoria.json](./296637-landoria.json) |
 | Landorus Therian Dating Simulator | 330104 | [330104-landorus-therian-dating-simulator.json](./330104-landorus-therian-dating-simulator.json) |
 | LandPort | 201005 | [201005-landport.json](./201005-landport.json) |
+| Landraisers | 261585 | [261585-landraisers.json](./261585-landraisers.json) |
 | Landrocker | 149513 | [149513-landrocker.json](./149513-landrocker.json) |
 | Lands 101 | 143550 | [143550-lands-101.json](./143550-lands-101.json) |
 | Lands of Achra | 347708 | [347708-lands-of-achra.json](./347708-lands-of-achra.json) |
@@ -1441,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Remains | 249467 | [249467-last-remains.json](./249467-last-remains.json) |
 | Last Report | 333277 | [333277-last-report.json](./333277-last-report.json) |
 | Last Resort | 172037 | [172037-last-resort.json](./172037-last-resort.json) |
+| Last Resort | 261617 | [261617-last-resort.json](./261617-last-resort.json) |
 | Last Resort | 36750 | [36750-last-resort.json](./36750-last-resort.json) |
 | Last Resort Island | 99026 | [99026-last-resort-island.json](./99026-last-resort-island.json) |
 | Last Respects | 290717 | [290717-last-respects.json](./290717-last-respects.json) |
@@ -1481,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Soul | 142925 | [142925-last-soul.json](./142925-last-soul.json) |
 | Last Soul | 343776 | [343776-last-soul.json](./343776-last-soul.json) |
 | Last Souls | 195971 | [195971-last-souls.json](./195971-last-souls.json) |
+| Last Spartan: Glory Over Madness | 261594 | [261594-last-spartan-glory-over-madness.json](./261594-last-spartan-glory-over-madness.json) |
 | Last Spirit PBT | 326250 | [326250-last-spirit-pbt.json](./326250-last-spirit-pbt.json) |
 | Last Stance: A JuVentures Game | 244716 | [244716-last-stance-a-juventures-game.json](./244716-last-stance-a-juventures-game.json) |
 | Last Stand | 143303 | [143303-last-stand.json](./143303-last-stand.json) |
@@ -2859,6 +2862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Persia | 10390 | [10390-legends-of-persia.json](./10390-legends-of-persia.json) |
 | Legends of Pixelia | 35227 | [35227-legends-of-pixelia.json](./35227-legends-of-pixelia.json) |
 | Legends of Runeterra | 124701 | [124701-legends-of-runeterra.json](./124701-legends-of-runeterra.json) |
+| Legends of Savvarah: Children of the Sun | 261599 | [261599-legends-of-savvarah-children-of-the-sun.json](./261599-legends-of-savvarah-children-of-the-sun.json) |
 | Legends of Savvarah: Flowers and Scorpions | 268264 | [268264-legends-of-savvarah-flowers-and-scorpions.json](./268264-legends-of-savvarah-flowers-and-scorpions.json) |
 | Legends of Savvarah: Time of Pariah | 264002 | [264002-legends-of-savvarah-time-of-pariah.json](./264002-legends-of-savvarah-time-of-pariah.json) |
 | Legends of Seven Seas | 221406 | [221406-legends-of-seven-seas.json](./221406-legends-of-seven-seas.json) |
@@ -7850,6 +7854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Egg 3: The Final | 229966 | [229966-lost-egg-3-the-final.json](./229966-lost-egg-3-the-final.json) |
 | Lost Egg: The Hard Boiled | 330317 | [330317-lost-egg-the-hard-boiled.json](./330317-lost-egg-the-hard-boiled.json) |
 | Lost Eidolons: Digital Deluxe | 227358 | [227358-lost-eidolons-digital-deluxe.json](./227358-lost-eidolons-digital-deluxe.json) |
+| Lost Eidolons: Veil of the Witch | 261627 | [261627-lost-eidolons-veil-of-the-witch.json](./261627-lost-eidolons-veil-of-the-witch.json) |
 | Lost Ember: Legendary Souls | 380803 | [380803-lost-ember-legendary-souls.json](./380803-lost-ember-legendary-souls.json) |
 | Lost Ember: Rekindled Edition | 314439 | [314439-lost-ember-rekindled-edition.json](./314439-lost-ember-rekindled-edition.json) |
 | Lost Ember: VR Edition | 193626 | [193626-lost-ember-vr-edition.json](./193626-lost-ember-vr-edition.json) |
@@ -8257,6 +8262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Yeti | 60312 | [60312-lost-yeti.json](./60312-lost-yeti.json) |
 | Lost Your Marbles | 151972 | [151972-lost-your-marbles.json](./151972-lost-your-marbles.json) |
 | Lost Zion | 395555 | [395555-lost-zion.json](./395555-lost-zion.json) |
+| Lost: Antinomy | 261606 | [261606-lost-antinomy.json](./261606-lost-antinomy.json) |
 | Lost: Find | 196118 | [196118-lost-find.json](./196118-lost-find.json) |
 | Lost: Via Domus | 7058 | [7058-lost-via-domus.json](./7058-lost-via-domus.json) |
 | Lost:Smile Memories | 120778 | [120778-lost-smile-memories.json](./120778-lost-smile-memories.json) |
@@ -9977,6 +9983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lycoris: Underworld | 413834 | [413834-lycoris-underworld.json](./413834-lycoris-underworld.json) |
 | Lydia: Sweet Dreams | 33409 | [33409-lydia-sweet-dreams.json](./33409-lydia-sweet-dreams.json) |
 | Lydia's Labyrinth | 318537 | [318537-lydias-labyrinth.json](./318537-lydias-labyrinth.json) |
+| Lykia: The Lost Island | 261625 | [261625-lykia-the-lost-island.json](./261625-lykia-the-lost-island.json) |
 | Lyle in Cube Sector | 137520 | [137520-lyle-in-cube-sector.json](./137520-lyle-in-cube-sector.json) |
 | Lyle in Cube Sector MD | 312307 | [312307-lyle-in-cube-sector-md.json](./312307-lyle-in-cube-sector-md.json) |
 | Lylia's Deadline | 265856 | [265856-lylias-deadline.json](./265856-lylias-deadline.json) |
