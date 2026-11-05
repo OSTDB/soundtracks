@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sabrina, the Teenage Witch: Brat Attack | 80778 | [80778-sabrina-the-teenage-witch-brat-attack.json](./80778-sabrina-the-teenage-witch-brat-attack.json) |
 | Sabrina, the Teenage Witch: Spellbound | 80777 | [80777-sabrina-the-teenage-witch-spellbound.json](./80777-sabrina-the-teenage-witch-spellbound.json) |
 | Sabritas Pac-Man | 219449 | [219449-sabritas-pac-man.json](./219449-sabritas-pac-man.json) |
+| Sacabambaspis Chronicle | 272591 | [272591-sacabambaspis-chronicle.json](./272591-sacabambaspis-chronicle.json) |
 | Sacabambaspis' Friendly Adventure | 319012 | [319012-sacabambaspis-friendly-adventure.json](./319012-sacabambaspis-friendly-adventure.json) |
 | Saccharine Echo | 390578 | [390578-saccharine-echo.json](./390578-saccharine-echo.json) |
 | Saccharine Pale | 239646 | [239646-saccharine-pale.json](./239646-saccharine-pale.json) |
@@ -616,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sail Simulator 5 | 63818 | [63818-sail-simulator-5.json](./63818-sail-simulator-5.json) |
 | Sail the Seas | 302219 | [302219-sail-the-seas.json](./302219-sail-the-seas.json) |
 | Sailaway | 28200 | [28200-sailaway.json](./28200-sailaway.json) |
+| Sailaway III | 272590 | [272590-sailaway-iii.json](./272590-sailaway-iii.json) |
 | Sailboat Championship | 208721 | [208721-sailboat-championship.json](./208721-sailboat-championship.json) |
 | Sailboat Explorer | 181121 | [181121-sailboat-explorer.json](./181121-sailboat-explorer.json) |
 | SailCraft | 233109 | [233109-sailcraft.json](./233109-sailcraft.json) |
@@ -1620,6 +1622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanfu | 278786 | [278786-sanfu.json](./278786-sanfu.json) |
 | Sang-Froid: Tales of Werewolves | 5446 | [5446-sang-froid-tales-of-werewolves.json](./5446-sang-froid-tales-of-werewolves.json) |
 | Sangeki wo Kuzuse! | 97674 | [97674-sangeki-wo-kuzuse.json](./97674-sangeki-wo-kuzuse.json) |
+| Sangi | 272589 | [272589-sangi.json](./272589-sangi.json) |
 | Sango 2 | 24748 | [24748-sango-2.json](./24748-sango-2.json) |
 | Sango Guardian Chaos Generation Steamedition | 52064 | [52064-sango-guardian-chaos-generation-steamedition.json](./52064-sango-guardian-chaos-generation-steamedition.json) |
 | Sangoku Heroes | 69253 | [69253-sangoku-heroes.json](./69253-sangoku-heroes.json) |
@@ -1848,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Christmas Solitaire 3 | 337283 | [337283-santas-christmas-solitaire-3.json](./337283-santas-christmas-solitaire-3.json) |
 | Santa's Christmas Story 2 The Frozen Gift War | 376762 | [376762-santas-christmas-story-2-the-frozen-gift-war.json](./376762-santas-christmas-story-2-the-frozen-gift-war.json) |
 | Santa's Factory | 279588 | [279588-santas-factory.json](./279588-santas-factory.json) |
+| Santa's Gift Grab | 272588 | [272588-santas-gift-grab.json](./272588-santas-gift-grab.json) |
 | Santa's Gifts | 225074 | [225074-santas-gifts.json](./225074-santas-gifts.json) |
 | Santa's Gifts Load | 378769 | [378769-santas-gifts-load.json](./378769-santas-gifts-load.json) |
 | Santa's Giftship Reloaded | 259533 | [259533-santas-giftship-reloaded.json](./259533-santas-giftship-reloaded.json) |
@@ -9204,6 +9208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun Mario 64 | 273745 | [273745-shotgun-mario-64.json](./273745-shotgun-mario-64.json) |
 | Shotgun Ninja | 70270 | [70270-shotgun-ninja.json](./70270-shotgun-ninja.json) |
 | Shotgun Raiders | 31862 | [31862-shotgun-raiders.json](./31862-shotgun-raiders.json) |
+| Shotgun Recovery | 272587 | [272587-shotgun-recovery.json](./272587-shotgun-recovery.json) |
 | Shotgun Rogue | 382938 | [382938-shotgun-rogue.json](./382938-shotgun-rogue.json) |
 | Shotgun Science | 365155 | [365155-shotgun-science.json](./365155-shotgun-science.json) |
 | Shotgun Shenanigans | 279691 | [279691-shotgun-shenanigans.json](./279691-shotgun-shenanigans.json) |
