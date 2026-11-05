@@ -2652,6 +2652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible Tracks Car Driving | 28004 | [28004-impossible-tracks-car-driving.json](./28004-impossible-tracks-car-driving.json) |
 | Impossible Twisty Dots | 88288 | [88288-impossible-twisty-dots.json](./88288-impossible-twisty-dots.json) |
 | Impossible VR Ninja | 107696 | [107696-impossible-vr-ninja.json](./107696-impossible-vr-ninja.json) |
+| Impossible: A New Reality | 268790 | [268790-impossible-a-new-reality.json](./268790-impossible-a-new-reality.json) |
 | ImpossiBot | 223804 | [223804-impossibot.json](./223804-impossibot.json) |
 | ImpossiBowl | 264150 | [264150-impossibowl.json](./264150-impossibowl.json) |
 | Impossibox | 80981 | [80981-impossibox.json](./80981-impossibox.json) |
@@ -3773,7 +3774,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4991,6 +4991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstellar Pilot 2 | 236167 | [236167-interstellar-pilot-2.json](./236167-interstellar-pilot-2.json) |
 | Interstellar Plunderer | 287003 | [287003-interstellar-plunderer.json](./287003-interstellar-plunderer.json) |
 | Interstellar Prime | 74289 | [74289-interstellar-prime.json](./74289-interstellar-prime.json) |
+| Interstellar Rangers | 268827 | [268827-interstellar-rangers.json](./268827-interstellar-rangers.json) |
 | Interstellar Rift | 35476 | [35476-interstellar-rift.json](./35476-interstellar-rift.json) |
 | Interstellar Rogue | 119457 | [119457-interstellar-rogue.json](./119457-interstellar-rogue.json) |
 | Interstellar Sentinel | 252027 | [252027-interstellar-sentinel.json](./252027-interstellar-sentinel.json) |
