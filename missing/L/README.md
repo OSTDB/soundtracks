@@ -3245,6 +3245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Star Wars: The Skywalker Saga - The Mandalorian: Season 1 - Character Pack | 201137 | [201137-lego-star-wars-the-skywalker-saga-the-mandalorian-season-1-character-pack.json](./201137-lego-star-wars-the-skywalker-saga-the-mandalorian-season-1-character-pack.json) |
 | LEGO Star Wars: The Skywalker Saga - The Mandalorian: Season 2 - Character Pack | 201139 | [201139-lego-star-wars-the-skywalker-saga-the-mandalorian-season-2-character-pack.json](./201139-lego-star-wars-the-skywalker-saga-the-mandalorian-season-2-character-pack.json) |
 | LEGO Star Wars: The Skywalker Saga - Trooper Pack | 201140 | [201140-lego-star-wars-the-skywalker-saga-trooper-pack.json](./201140-lego-star-wars-the-skywalker-saga-trooper-pack.json) |
+| Lego Star Wars: The Skywalker Saga Starkiller Update | 254253 | [254253-lego-star-wars-the-skywalker-saga-starkiller-update.json](./254253-lego-star-wars-the-skywalker-saga-starkiller-update.json) |
 | LEGO Star Wars: The Video Game | 229840 | [229840-lego-star-wars-the-video-game.json](./229840-lego-star-wars-the-video-game.json) |
 | LEGO Studios Backlot | 125320 | [125320-lego-studios-backlot.json](./125320-lego-studios-backlot.json) |
 | LEGO Stunt Rally | 265050 | [265050-lego-stunt-rally.json](./265050-lego-stunt-rally.json) |
