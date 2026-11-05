@@ -1112,6 +1112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Superheroes After Dark: Heroines Behind the Mask | 396131 | [396131-dangerous-superheroes-after-dark-heroines-behind-the-mask.json](./396131-dangerous-superheroes-after-dark-heroines-behind-the-mask.json) |
 | Dangerous Village Tradition | 273660 | [273660-dangerous-village-tradition.json](./273660-dangerous-village-tradition.json) |
 | Dangerous Waters | 14789 | [14789-dangerous-waters.json](./14789-dangerous-waters.json) |
+| Dangerous World | 291791 | [291791-dangerous-world.json](./291791-dangerous-world.json) |
 | Dangerous World | 300504 | [300504-dangerous-world.json](./300504-dangerous-world.json) |
 | Dangerous World 2 | 321815 | [321815-dangerous-world-2.json](./321815-dangerous-world-2.json) |
 | Dangerous Zone | 169741 | [169741-dangerous-zone.json](./169741-dangerous-zone.json) |
@@ -2775,6 +2776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn Patrol | 13236 | [13236-dawn-patrol.json](./13236-dawn-patrol.json) |
 | Dawn Patrol | 181548 | [181548-dawn-patrol.json](./181548-dawn-patrol.json) |
 | Dawn Pioneer | 57536 | [57536-dawn-pioneer.json](./57536-dawn-pioneer.json) |
+| Dawn Raider | 291939 | [291939-dawn-raider.json](./291939-dawn-raider.json) |
 | Dawn, P.I. | 148200 | [148200-dawn-p-i.json](./148200-dawn-p-i.json) |
 | DAWN: Darkness Awaits Withstand the Night | 333664 | [333664-dawn-darkness-awaits-withstand-the-night.json](./333664-dawn-darkness-awaits-withstand-the-night.json) |
 | Dawn: Instagram Model | 336059 | [336059-dawn-instagram-model.json](./336059-dawn-instagram-model.json) |
@@ -4574,6 +4576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Train!!! Samara – Voronezh. | 362357 | [362357-death-train-samara-voronezh.json](./362357-death-train-samara-voronezh.json) |
 | Death Trap | 23205 | [23205-death-trap.json](./23205-death-trap.json) |
 | Death Travelers | 315124 | [315124-death-travelers.json](./315124-death-travelers.json) |
+| Death tree | 291735 | [291735-death-tree.json](./291735-death-tree.json) |
 | Death Trial | 357670 | [357670-death-trial.json](./357670-death-trial.json) |
 | Death Trials | 171224 | [171224-death-trials.json](./171224-death-trials.json) |
 | Death Trips | 124611 | [124611-death-trips.json](./124611-death-trips.json) |
@@ -9608,6 +9611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt 4 | 26948 | [26948-dirt-4.json](./26948-dirt-4.json) |
 | Dirt 5 | 133301 | [133301-dirt-5.json](./133301-dirt-5.json) |
 | Dirt 5: Amplified Edition | 136248 | [136248-dirt-5-amplified-edition.json](./136248-dirt-5-amplified-edition.json) |
+| Dirt 5: Energy Content Pack | 291935 | [291935-dirt-5-energy-content-pack.json](./291935-dirt-5-energy-content-pack.json) |
 | Dirt 5: Ford Raptor Edition | 146133 | [146133-dirt-5-ford-raptor-edition.json](./146133-dirt-5-ford-raptor-edition.json) |
 | Dirt 5: Limited Edition | 139955 | [139955-dirt-5-limited-edition.json](./139955-dirt-5-limited-edition.json) |
 | Dirt 5: Super Size Content Pack | 170823 | [170823-dirt-5-super-size-content-pack.json](./170823-dirt-5-super-size-content-pack.json) |
@@ -14987,6 +14991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragons Frolic! | 346515 | [346515-dragons-frolic.json](./346515-dragons-frolic.json) |
 | Dragons Heart | 239692 | [239692-dragons-heart.json](./239692-dragons-heart.json) |
 | Dragons in Space | 194349 | [194349-dragons-in-space.json](./194349-dragons-in-space.json) |
+| Dragons Legacy | 291804 | [291804-dragons-legacy.json](./291804-dragons-legacy.json) |
 | Dragons Legacy: Monsters Lair | 342379 | [342379-dragons-legacy-monsters-lair.json](./342379-dragons-legacy-monsters-lair.json) |
 | Dragons of Atlantis | 303231 | [303231-dragons-of-atlantis.json](./303231-dragons-of-atlantis.json) |
 | Dragons of Elanthia | 62998 | [62998-dragons-of-elanthia.json](./62998-dragons-of-elanthia.json) |
@@ -15610,6 +15615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Slayer | 271692 | [271692-dream-slayer.json](./271692-dream-slayer.json) |
 | Dream Slayers | 342032 | [342032-dream-slayers.json](./342032-dream-slayers.json) |
 | Dream Soccer '94 | 39627 | [39627-dream-soccer-94.json](./39627-dream-soccer-94.json) |
+| Dream Sports Platform | 291793 | [291793-dream-sports-platform.json](./291793-dream-sports-platform.json) |
 | Dream Square: Hinagata Akiko | 216418 | [216418-dream-square-hinagata-akiko.json](./216418-dream-square-hinagata-akiko.json) |
 | Dream Station | 318820 | [318820-dream-station.json](./318820-dream-station.json) |
 | Dream Storm | 189047 | [189047-dream-storm.json](./189047-dream-storm.json) |
