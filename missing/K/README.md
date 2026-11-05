@@ -1018,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karmx | 371198 | [371198-karmx.json](./371198-karmx.json) |
 | Karnaaj Rally | 6489 | [6489-karnaaj-rally.json](./6489-karnaaj-rally.json) |
 | Karnage Chronicles | 28272 | [28272-karnage-chronicles.json](./28272-karnage-chronicles.json) |
+| Karnal | 261611 | [261611-karnal.json](./261611-karnal.json) |
 | Karnn Age | 67969 | [67969-karnn-age.json](./67969-karnn-age.json) |
 | Karnov | 13234 | [13234-karnov.json](./13234-karnov.json) |
 | Karnov | 198791 | [198791-karnov.json](./198791-karnov.json) |
@@ -1834,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kernel Panic | 110886 | [110886-kernel-panic.json](./110886-kernel-panic.json) |
 | Kernel Quest | 240613 | [240613-kernel-quest.json](./240613-kernel-quest.json) |
 | Kernmantle | 139408 | [139408-kernmantle.json](./139408-kernmantle.json) |
+| Kero | 261596 | [261596-kero.json](./261596-kero.json) |
 | Kero Blaster | 10255 | [10255-kero-blaster.json](./10255-kero-blaster.json) |
 | Kero Catch | 182803 | [182803-kero-catch.json](./182803-kero-catch.json) |
 | Kero Kero 7 | 72284 | [72284-kero-kero-7.json](./72284-kero-kero-7.json) |
@@ -1934,6 +1936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keyboard Killer | 29062 | [29062-keyboard-killer.json](./29062-keyboard-killer.json) |
 | Keyboard Killers | 61648 | [61648-keyboard-killers.json](./61648-keyboard-killers.json) |
 | Keyboard Kommander | 125418 | [125418-keyboard-kommander.json](./125418-keyboard-kommander.json) |
+| Keyboard Maestro Voyage | 261584 | [261584-keyboard-maestro-voyage.json](./261584-keyboard-maestro-voyage.json) |
 | Keyboard Master | 166940 | [166940-keyboard-master.json](./166940-keyboard-master.json) |
 | Keyboard Party | 363036 | [363036-keyboard-party.json](./363036-keyboard-party.json) |
 | Keyboard Simulator | 360575 | [360575-keyboard-simulator.json](./360575-keyboard-simulator.json) |
@@ -2775,6 +2778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3634,6 +3638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinky Cats | 367359 | [367359-kinky-cats.json](./367359-kinky-cats.json) |
 | Kinky Cosplay Heroes | 275727 | [275727-kinky-cosplay-heroes.json](./275727-kinky-cosplay-heroes.json) |
 | Kinky Fight Club 2 | 267000 | [267000-kinky-fight-club-2.json](./267000-kinky-fight-club-2.json) |
+| Kinlings | 261602 | [261602-kinlings.json](./261602-kinlings.json) |
 | Kinniku Banzuke GB 3: Shinseiki Survival Retsuden! | 281657 | [281657-kinniku-banzuke-gb-3-shinseiki-survival-retsuden.json](./281657-kinniku-banzuke-gb-3-shinseiki-survival-retsuden.json) |
 | Kinniku Banzuke Vol.2: Aratanaru Genkai he no Chousen! | 344463 | [344463-kinniku-banzuke-vol-2-aratanaru-genkai-he-no-chousen.json](./344463-kinniku-banzuke-vol-2-aratanaru-genkai-he-no-chousen.json) |
 | Kinnikuman | 138764 | [138764-kinnikuman.json](./138764-kinnikuman.json) |
