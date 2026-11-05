@@ -3272,6 +3272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tee Off | 46379 | [46379-tee-off.json](./46379-tee-off.json) |
 | Tee Off! | 95449 | [95449-tee-off.json](./95449-tee-off.json) |
 | Tee Time | 206227 | [206227-tee-time.json](./206227-tee-time.json) |
+| Tee Time | 273714 | [273714-tee-time.json](./273714-tee-time.json) |
 | Tee-riffic Golf. | 180775 | [180775-tee-riffic-golf.json](./180775-tee-riffic-golf.json) |
 | Tee'd Off | 40482 | [40482-teed-off.json](./40482-teed-off.json) |
 | TeeDee | 327390 | [327390-teedee.json](./327390-teedee.json) |
