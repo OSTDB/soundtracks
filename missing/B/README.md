@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backgammon: Board Game Puzzle | 221587 | [221587-backgammon-board-game-puzzle.json](./221587-backgammon-board-game-puzzle.json) |
 | Backgammon. | 88715 | [88715-backgammon.json](./88715-backgammon.json) |
 | Background Bells | 375996 | [375996-background-bells.json](./375996-background-bells.json) |
+| Background Memory | 265450 | [265450-background-memory.json](./265450-background-memory.json) |
 | BackGuiner: Yomigaeru Yuusha-tachi - Hishou-hen Uragiri no Senjou | 45425 | [45425-backguiner-yomigaeru-yuusha-tachi-hishou-hen-uragiri-no-senjou.json](./45425-backguiner-yomigaeru-yuusha-tachi-hishou-hen-uragiri-no-senjou.json) |
 | BackGuiner: Yomigaeru Yuusha-tachi - Kakusei-hen Guiner Tensei | 45424 | [45424-backguiner-yomigaeru-yuusha-tachi-kakusei-hen-guiner-tensei.json](./45424-backguiner-yomigaeru-yuusha-tachi-kakusei-hen-guiner-tensei.json) |
 | Backlash | 11931 | [11931-backlash.json](./11931-backlash.json) |
@@ -2252,6 +2253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bar Keeper | 411559 | [411559-bar-keeper.json](./411559-bar-keeper.json) |
 | Bar Night VR | 319722 | [319722-bar-night-vr.json](./319722-bar-night-vr.json) |
 | Bar Oasis | 63803 | [63803-bar-oasis.json](./63803-bar-oasis.json) |
+| Bar Oasis 2 | 264973 | [264973-bar-oasis-2.json](./264973-bar-oasis-2.json) |
 | Bar Owner Simulator | 423402 | [423402-bar-owner-simulator.json](./423402-bar-owner-simulator.json) |
 | Bar Simulator | 407335 | [407335-bar-simulator.json](./407335-bar-simulator.json) |
 | Bar Soviet | 346544 | [346544-bar-soviet.json](./346544-bar-soviet.json) |
@@ -17457,6 +17459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Ball | 169347 | [169347-burning-ball.json](./169347-burning-ball.json) |
 | Burning Birds | 341853 | [341853-burning-birds.json](./341853-burning-birds.json) |
 | Burning Bridges | 414750 | [414750-burning-bridges.json](./414750-burning-bridges.json) |
+| Burning Bubbles Lab | 264971 | [264971-burning-bubbles-lab.json](./264971-burning-bubbles-lab.json) |
 | Burning Calories | 255148 | [255148-burning-calories.json](./255148-burning-calories.json) |
 | Burning Cars | 16917 | [16917-burning-cars.json](./16917-burning-cars.json) |
 | Burning Daylight | 116695 | [116695-burning-daylight.json](./116695-burning-daylight.json) |
