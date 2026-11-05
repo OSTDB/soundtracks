@@ -1309,6 +1309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youlogic | 267784 | [267784-youlogic.json](./267784-youlogic.json) |
 | Youma Kourin | 219152 | [219152-youma-kourin.json](./219152-youma-kourin.json) |
 | Youmais | 64341 | [64341-youmais.json](./64341-youmais.json) |
+| Youmenkiden | 275408 | [275408-youmenkiden.json](./275408-youmenkiden.json) |
 | Youmu is a zombie! | 134861 | [134861-youmu-is-a-zombie.json](./134861-youmu-is-a-zombie.json) |
 | Youmu Konpaku & Dungeon of Lewd Creatures | 155460 | [155460-youmu-konpaku-and-dungeon-of-lewd-creatures.json](./155460-youmu-konpaku-and-dungeon-of-lewd-creatures.json) |
 | Youmu-Youmu Ball | 341301 | [341301-youmu-youmu-ball.json](./341301-youmu-youmu-ball.json) |
