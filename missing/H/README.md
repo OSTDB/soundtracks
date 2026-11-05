@@ -675,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween 1985 | 368454 | [368454-halloween-1985.json](./368454-halloween-1985.json) |
 | Halloween 2: Asylum | 357182 | [357182-halloween-2-asylum.json](./357182-halloween-2-asylum.json) |
 | Halloween 3D | 106514 | [106514-halloween-3d.json](./106514-halloween-3d.json) |
+| Halloween Again | 272619 | [272619-halloween-again.json](./272619-halloween-again.json) |
 | Halloween Basketball Legends | 395955 | [395955-halloween-basketball-legends.json](./395955-halloween-basketball-legends.json) |
 | Halloween Candy Break | 187763 | [187763-halloween-candy-break.json](./187763-halloween-candy-break.json) |
 | Halloween Candy Break 2 | 187750 | [187750-halloween-candy-break-2.json](./187750-halloween-candy-break-2.json) |
@@ -2628,6 +2629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Hotel: Lost Time - Collector's Edition | 170193 | [170193-haunted-hotel-lost-time-collectors-edition.json](./170193-haunted-hotel-lost-time-collectors-edition.json) |
 | Haunted Hotel: Personal Nightmare | 182282 | [182282-haunted-hotel-personal-nightmare.json](./182282-haunted-hotel-personal-nightmare.json) |
 | Haunted Hotel: Personal Nightmare - Collector's Edition | 232925 | [232925-haunted-hotel-personal-nightmare-collectors-edition.json](./232925-haunted-hotel-personal-nightmare-collectors-edition.json) |
+| Haunted Hotel: Pheonix | 272618 | [272618-haunted-hotel-pheonix.json](./272618-haunted-hotel-pheonix.json) |
 | Haunted Hotel: Phoenix | 99994 | [99994-haunted-hotel-phoenix.json](./99994-haunted-hotel-phoenix.json) |
 | Haunted Hotel: Phoenix - Collector's Edition | 151191 | [151191-haunted-hotel-phoenix-collectors-edition.json](./151191-haunted-hotel-phoenix-collectors-edition.json) |
 | Haunted Hotel: Room 18 | 139201 | [139201-haunted-hotel-room-18.json](./139201-haunted-hotel-room-18.json) |
@@ -10524,6 +10526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Renovator: Five Star Edition | 250420 | [250420-hotel-renovator-five-star-edition.json](./250420-hotel-renovator-five-star-edition.json) |
 | Hotel Renovator: Futuristic Furniture Set | 250421 | [250421-hotel-renovator-futuristic-furniture-set.json](./250421-hotel-renovator-futuristic-furniture-set.json) |
 | Hotel Renovator: Gym Furniture Set | 254419 | [254419-hotel-renovator-gym-furniture-set.json](./254419-hotel-renovator-gym-furniture-set.json) |
+| Hotel Renovator: Indoor Garden Room & Furniture Set | 272620 | [272620-hotel-renovator-indoor-garden-room-and-furniture-set.json](./272620-hotel-renovator-indoor-garden-room-and-furniture-set.json) |
 | Hotel Renovator: Kawaii Furniture Set | 245386 | [245386-hotel-renovator-kawaii-furniture-set.json](./245386-hotel-renovator-kawaii-furniture-set.json) |
 | Hotel Room Haunting | 275645 | [275645-hotel-room-haunting.json](./275645-hotel-room-haunting.json) |
 | Hotel Security | 339846 | [339846-hotel-security.json](./339846-hotel-security.json) |
@@ -10691,6 +10694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House M.D.: Episode 4 - Crashed | 85175 | [85175-house-m-d-episode-4-crashed.json](./85175-house-m-d-episode-4-crashed.json) |
 | House Maid Asuka | 97368 | [97368-house-maid-asuka.json](./97368-house-maid-asuka.json) |
 | House Mansion Flipper | 330233 | [330233-house-mansion-flipper.json](./330233-house-mansion-flipper.json) |
+| House Master | 272617 | [272617-house-master.json](./272617-house-master.json) |
 | House Number 666 | 123863 | [123863-house-number-666.json](./123863-house-number-666.json) |
 | House of 1,000 Doors: Serpent Flame | 140197 | [140197-house-of-1-000-doors-serpent-flame.json](./140197-house-of-1-000-doors-serpent-flame.json) |
 | House of 1,000 Doors: The Palm of Zoroaster | 25468 | [25468-house-of-1-000-doors-the-palm-of-zoroaster.json](./25468-house-of-1-000-doors-the-palm-of-zoroaster.json) |
