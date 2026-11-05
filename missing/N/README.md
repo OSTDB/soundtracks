@@ -6414,6 +6414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonograms | 285701 | [285701-nonograms.json](./285701-nonograms.json) |
 | Nonograms 2 | 383721 | [383721-nonograms-2.json](./383721-nonograms-2.json) |
 | Nonograms 22 | 188983 | [188983-nonograms-22.json](./188983-nonograms-22.json) |
+| Nonograms Katana | 246159 | [246159-nonograms-katana.json](./246159-nonograms-katana.json) |
 | Nonograms Pro | 400083 | [400083-nonograms-pro.json](./400083-nonograms-pro.json) |
 | Nonograms Prophecy | 81020 | [81020-nonograms-prophecy.json](./81020-nonograms-prophecy.json) |
 | Nonograms: Ammunition | 297730 | [297730-nonograms-ammunition.json](./297730-nonograms-ammunition.json) |
@@ -7386,6 +7387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nullpomino | 330075 | [330075-nullpomino.json](./330075-nullpomino.json) |
 | Nullptr | 158234 | [158234-nullptr.json](./158234-nullptr.json) |
 | Nüllptr | 181675 | [181675-nullptr.json](./181675-nullptr.json) |
+| Nullscape | 246206 | [246206-nullscape.json](./246206-nullscape.json) |
 | Nullschwert | 258419 | [258419-nullschwert.json](./258419-nullschwert.json) |
 | Nullspace | 336736 | [336736-nullspace.json](./336736-nullspace.json) |
 | Nullspire | 374765 | [374765-nullspire.json](./374765-nullspire.json) |
