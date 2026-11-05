@@ -449,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaleidoscope: 7 Man Kounen no Houshi-tachi | 66149 | [66149-kaleidoscope-7-man-kounen-no-houshi-tachi.json](./66149-kaleidoscope-7-man-kounen-no-houshi-tachi.json) |
 | Kaleidoscope: Hakkan Wakusei | 79792 | [79792-kaleidoscope-hakkan-wakusei.json](./79792-kaleidoscope-hakkan-wakusei.json) |
 | Kalevala | 184437 | [184437-kalevala.json](./184437-kalevala.json) |
+| Kalevania | 247825 | [247825-kalevania.json](./247825-kalevania.json) |
 | Kali | 176269 | [176269-kali.json](./176269-kali.json) |
 | Kali's Legion | 373543 | [373543-kalis-legion.json](./373543-kalis-legion.json) |
 | Kalia | 334138 | [334138-kalia.json](./334138-kalia.json) |
@@ -2460,6 +2461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill All Lice | 320322 | [320322-kill-all-lice.json](./320322-kill-all-lice.json) |
 | Kill All Vampires | 184776 | [184776-kill-all-vampires.json](./184776-kill-all-vampires.json) |
 | Kill all Zombies | 95303 | [95303-kill-all-zombies.json](./95303-kill-all-zombies.json) |
+| Kill Baby Kill | 247851 | [247851-kill-baby-kill.json](./247851-kill-baby-kill.json) |
 | Kill Ball | 286077 | [286077-kill-ball.json](./286077-kill-ball.json) |
 | Kill Barney | 338037 | [338037-kill-barney.json](./338037-kill-barney.json) |
 | Kill Barney in Tokyo | 325818 | [325818-kill-barney-in-tokyo.json](./325818-kill-barney-in-tokyo.json) |
@@ -2788,7 +2790,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3390,6 +3391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Idle Heart | 272872 | [272872-kingdom-idle-heart.json](./272872-kingdom-idle-heart.json) |
 | Kingdom II: Shadoan | 45920 | [45920-kingdom-ii-shadoan.json](./45920-kingdom-ii-shadoan.json) |
 | Kingdom III: Rising Realms | 415172 | [415172-kingdom-iii-rising-realms.json](./415172-kingdom-iii-rising-realms.json) |
+| Kingdom Incremental | 247843 | [247843-kingdom-incremental.json](./247843-kingdom-incremental.json) |
 | Kingdom Island HD: Online Virtual World | 175531 | [175531-kingdom-island-hd-online-virtual-world.json](./175531-kingdom-island-hd-online-virtual-world.json) |
 | Kingdom Islands | 236396 | [236396-kingdom-islands.json](./236396-kingdom-islands.json) |
 | Kingdom Isles | 423281 | [423281-kingdom-isles.json](./423281-kingdom-isles.json) |
