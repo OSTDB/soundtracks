@@ -17710,6 +17710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moustake | 202022 | [202022-moustake.json](./202022-moustake.json) |
 | Mouth Sweet | 83295 | [83295-mouth-sweet.json](./83295-mouth-sweet.json) |
 | Mouth Trap | 318429 | [318429-mouth-trap.json](./318429-mouth-trap.json) |
+| Mouthole | 290732 | [290732-mouthole.json](./290732-mouthole.json) |
 | Mouthwashing | 264410 | [264410-mouthwashing.json](./264410-mouthwashing.json) |
 | Mouton Noir | 396643 | [396643-mouton-noir.json](./396643-mouton-noir.json) |
 | Movafort | 212190 | [212190-movafort.json](./212190-movafort.json) |
@@ -19642,6 +19643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Company and I Fell Into an RPG | 132217 | [132217-my-company-and-i-fell-into-an-rpg.json](./132217-my-company-and-i-fell-into-an-rpg.json) |
 | My Confounding Cat is Criminally Cute! | 284911 | [284911-my-confounding-cat-is-criminally-cute.json](./284911-my-confounding-cat-is-criminally-cute.json) |
 | My Cool Diner | 200150 | [200150-my-cool-diner.json](./200150-my-cool-diner.json) |
+| My Corp Cargo Simulator | 290744 | [290744-my-corp-cargo-simulator.json](./290744-my-corp-cargo-simulator.json) |
 | My Cosmic Sweetheart | 210370 | [210370-my-cosmic-sweetheart.json](./210370-my-cosmic-sweetheart.json) |
 | My Cousin the Rogue | 160062 | [160062-my-cousin-the-rogue.json](./160062-my-cousin-the-rogue.json) |
 | My Coworker is an Idiot | 223241 | [223241-my-coworker-is-an-idiot.json](./223241-my-coworker-is-an-idiot.json) |
