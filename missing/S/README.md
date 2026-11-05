@@ -910,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura School Love | 265086 | [265086-sakura-school-love.json](./265086-sakura-school-love.json) |
 | Sakura School Simulator | 208944 | [208944-sakura-school-simulator.json](./208944-sakura-school-simulator.json) |
 | Sakura Scramble! | 205897 | [205897-sakura-scramble.json](./205897-sakura-scramble.json) |
+| Sakura Shadow Monsters | 253169 | [253169-sakura-shadow-monsters.json](./253169-sakura-shadow-monsters.json) |
 | Sakura Shrine Girls | 31619 | [31619-sakura-shrine-girls.json](./31619-sakura-shrine-girls.json) |
 | Sakura Spirit | 204868 | [204868-sakura-spirit.json](./204868-sakura-spirit.json) |
 | Sakura Stars | 132662 | [132662-sakura-stars.json](./132662-sakura-stars.json) |
@@ -8163,6 +8164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei Devil Summoner: Raidou Kuzunoha vs. The Soulless Army | 20640 | [20640-shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-soulless-army.json](./20640-shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-soulless-army.json) |
 | Shin Megami Tensei if... | 270672 | [270672-shin-megami-tensei-if.json](./270672-shin-megami-tensei-if.json) |
 | Shin Megami Tensei II | 252800 | [252800-shin-megami-tensei-ii.json](./252800-shin-megami-tensei-ii.json) |
+| Shin Megami Tensei II | 253144 | [253144-shin-megami-tensei-ii.json](./253144-shin-megami-tensei-ii.json) |
 | Shin Megami Tensei II Gaiden: Mato Houkai | 138168 | [138168-shin-megami-tensei-ii-gaiden-mato-houkai.json](./138168-shin-megami-tensei-ii-gaiden-mato-houkai.json) |
 | Shin Megami Tensei III: Nocturne | 336392 | [336392-shin-megami-tensei-iii-nocturne.json](./336392-shin-megami-tensei-iii-nocturne.json) |
 | Shin Megami Tensei III: Nocturne - HD Remaster | 135913 | [135913-shin-megami-tensei-iii-nocturne-hd-remaster.json](./135913-shin-megami-tensei-iii-nocturne-hd-remaster.json) |
@@ -9039,6 +9041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Type | 163854 | [163854-shooting-type.json](./163854-shooting-type.json) |
 | Shooting Zombie | 245053 | [245053-shooting-zombie.json](./245053-shooting-zombie.json) |
 | Shootout | 245146 | [245146-shootout.json](./245146-shootout.json) |
+| Shootout | 253152 | [253152-shootout.json](./253152-shootout.json) |
 | Shootout | 287555 | [287555-shootout.json](./287555-shootout.json) |
 | ShootOut | 411615 | [411615-shootout.json](./411615-shootout.json) |
 | Shootout At Old Tucson | 220971 | [220971-shootout-at-old-tucson.json](./220971-shootout-at-old-tucson.json) |
@@ -15249,6 +15252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow War | 211160 | [211160-snow-war.json](./211160-snow-war.json) |
 | Snow War | 214934 | [214934-snow-war.json](./214934-snow-war.json) |
 | Snow Wars | 150785 | [150785-snow-wars.json](./150785-snow-wars.json) |
+| Snow Wars VR | 253168 | [253168-snow-wars-vr.json](./253168-snow-wars-vr.json) |
 | Snow Wave | 91551 | [91551-snow-wave.json](./91551-snow-wave.json) |
 | Snow Wave 2 | 401717 | [401717-snow-wave-2.json](./401717-snow-wave-2.json) |
 | Snow Wave Community Project | 314540 | [314540-snow-wave-community-project.json](./314540-snow-wave-community-project.json) |
@@ -19316,6 +19320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -27937,6 +27942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Striatum | 342647 | [342647-striatum.json](./342647-striatum.json) |
 | Strid: Full Edition | 170800 | [170800-strid-full-edition.json](./170800-strid-full-edition.json) |
 | Stride | 132959 | [132959-stride.json](./132959-stride.json) |
+| Stride: Fates | 253151 | [253151-stride-fates.json](./253151-stride-fates.json) |
 | Stride.net | 153528 | [153528-stride-net.json](./153528-stride-net.json) |
 | Striden | 237059 | [237059-striden.json](./237059-striden.json) |
 | Strider | 198929 | [198929-strider.json](./198929-strider.json) |
