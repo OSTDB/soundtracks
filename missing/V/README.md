@@ -1238,6 +1238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velaster | 212213 | [212213-velaster.json](./212213-velaster.json) |
 | Velato | 398989 | [398989-velato.json](./398989-velato.json) |
 | Velaya: Tale of a Warrior | 383436 | [383436-velaya-tale-of-a-warrior.json](./383436-velaya-tale-of-a-warrior.json) |
+| Velberan In Miracle World | 253692 | [253692-velberan-in-miracle-world.json](./253692-velberan-in-miracle-world.json) |
 | Velen | 398785 | [398785-velen.json](./398785-velen.json) |
 | Velev | 299556 | [299556-velev.json](./299556-velev.json) |
 | Velgress | 318313 | [318313-velgress.json](./318313-velgress.json) |
