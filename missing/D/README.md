@@ -6535,6 +6535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonschool | 204640 | [204640-demonschool.json](./204640-demonschool.json) |
 | Demonschool: Digital Deluxe Edition | 378957 | [378957-demonschool-digital-deluxe-edition.json](./378957-demonschool-digital-deluxe-edition.json) |
 | Demonschool: Puzzle Killers | 404883 | [404883-demonschool-puzzle-killers.json](./404883-demonschool-puzzle-killers.json) |
+| Demonsomnia | 258278 | [258278-demonsomnia.json](./258278-demonsomnia.json) |
 | Demonspire | 381701 | [381701-demonspire.json](./381701-demonspire.json) |
 | Demonstar | 9117 | [9117-demonstar.json](./9117-demonstar.json) |
 | DemonStar: Original Missions | 272391 | [272391-demonstar-original-missions.json](./272391-demonstar-original-missions.json) |
@@ -9142,6 +9143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DimCom | 289184 | [289184-dimcom.json](./289184-dimcom.json) |
 | Dimday Red | 214389 | [214389-dimday-red.json](./214389-dimday-red.json) |
 | Dime City | 94565 | [94565-dime-city.json](./94565-dime-city.json) |
+| Dimenders | 258291 | [258291-dimenders.json](./258291-dimenders.json) |
 | Dimense: Chapter 1 | 116182 | [116182-dimense-chapter-1.json](./116182-dimense-chapter-1.json) |
 | Dimenseum | 396376 | [396376-dimenseum.json](./396376-dimenseum.json) |
 | Dimenshift: Direction is Meaningless | 293471 | [293471-dimenshift-direction-is-meaningless.json](./293471-dimenshift-direction-is-meaningless.json) |
@@ -17483,6 +17485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumbolf | 340142 | [340142-dumbolf.json](./340142-dumbolf.json) |
 | Dumbot | 330173 | [330173-dumbot.json](./330173-dumbot.json) |
 | Dumbriel: Magnificent Adventure in Hell | 260404 | [260404-dumbriel-magnificent-adventure-in-hell.json](./260404-dumbriel-magnificent-adventure-in-hell.json) |
+| DumbSquad | 258266 | [258266-dumbsquad.json](./258266-dumbsquad.json) |
 | Dumdum | 379922 | [379922-dumdum.json](./379922-dumdum.json) |
 | Dumdum Afterthoughts | 401721 | [401721-dumdum-afterthoughts.json](./401721-dumdum-afterthoughts.json) |
 | Dummb | 249040 | [249040-dummb.json](./249040-dummb.json) |
@@ -18098,6 +18101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon: Faster & Deadlier | 197145 | [197145-dungeon-faster-and-deadlier.json](./197145-dungeon-faster-and-deadlier.json) |
 | Dungeon! | 290300 | [290300-dungeon.json](./290300-dungeon.json) |
 | Dungeon!: Order of the Raven | 400535 | [400535-dungeon-order-of-the-raven.json](./400535-dungeon-order-of-the-raven.json) |
+| Dungeon's Anima | 258284 | [258284-dungeons-anima.json](./258284-dungeons-anima.json) |
 | Dungeon's Barrage | 76296 | [76296-dungeons-barrage.json](./76296-dungeons-barrage.json) |
 | Dungeon's Fall | 189125 | [189125-dungeons-fall.json](./189125-dungeons-fall.json) |
 | Dungeon's Hell | 163699 | [163699-dungeons-hell.json](./163699-dungeons-hell.json) |
