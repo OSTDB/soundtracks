@@ -3676,6 +3676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempest 3000 | 51181 | [51181-tempest-3000.json](./51181-tempest-3000.json) |
 | Tempest 4000 | 54565 | [54565-tempest-4000.json](./54565-tempest-4000.json) |
 | Tempest Citadel | 75106 | [75106-tempest-citadel.json](./75106-tempest-citadel.json) |
+| Tempest Enterprise | 264413 | [264413-tempest-enterprise.json](./264413-tempest-enterprise.json) |
 | Tempest Inc. | 270558 | [270558-tempest-inc.json](./270558-tempest-inc.json) |
 | Tempest of the Heavens and Earth | 113643 | [113643-tempest-of-the-heavens-and-earth.json](./113643-tempest-of-the-heavens-and-earth.json) |
 | Tempest Rising: The Vetis Wrath | 410968 | [410968-tempest-rising-the-vetis-wrath.json](./410968-tempest-rising-the-vetis-wrath.json) |
@@ -11337,6 +11338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Keeper | 162424 | [162424-the-keeper.json](./162424-the-keeper.json) |
 | The Keeper | 26155 | [26155-the-keeper.json](./26155-the-keeper.json) |
 | The Keeper of 4 Elements | 26237 | [26237-the-keeper-of-4-elements.json](./26237-the-keeper-of-4-elements.json) |
+| The Keeper's Book | 265449 | [265449-the-keepers-book.json](./265449-the-keepers-book.json) |
 | The Keepers 2: The Order's Last Secret - Collector's Edition | 22088 | [22088-the-keepers-2-the-orders-last-secret-collectors-edition.json](./22088-the-keepers-2-the-orders-last-secret-collectors-edition.json) |
 | The Keepers of Pages: Chevengur | 111663 | [111663-the-keepers-of-pages-chevengur.json](./111663-the-keepers-of-pages-chevengur.json) |
 | The Keepers: Lost Progeny - Collector's Edition | 22087 | [22087-the-keepers-lost-progeny-collectors-edition.json](./22087-the-keepers-lost-progeny-collectors-edition.json) |
@@ -12362,6 +12364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Steel Empire | 270587 | [270587-the-legend-of-steel-empire.json](./270587-the-legend-of-steel-empire.json) |
 | The Legend of Studentenfutter | 185534 | [185534-the-legend-of-studentenfutter.json](./185534-the-legend-of-studentenfutter.json) |
 | The Legend of Styk | 62938 | [62938-the-legend-of-styk.json](./62938-the-legend-of-styk.json) |
+| The Legend of Super Mario: Save Mushroom Kingdom | 264418 | [264418-the-legend-of-super-mario-save-mushroom-kingdom.json](./264418-the-legend-of-super-mario-save-mushroom-kingdom.json) |
 | The Legend of Sword and Fairy | 18928 | [18928-the-legend-of-sword-and-fairy.json](./18928-the-legend-of-sword-and-fairy.json) |
 | The Legend of Sword and Fairy 2 | 78448 | [78448-the-legend-of-sword-and-fairy-2.json](./78448-the-legend-of-sword-and-fairy-2.json) |
 | The Legend of Sword and Fairy 3 Prequel | 78466 | [78466-the-legend-of-sword-and-fairy-3-prequel.json](./78466-the-legend-of-sword-and-fairy-3-prequel.json) |
@@ -17229,6 +17232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Texas Chain Saw Massacre: Ana Outfit Pack 2 | 298252 | [298252-the-texas-chain-saw-massacre-ana-outfit-pack-2.json](./298252-the-texas-chain-saw-massacre-ana-outfit-pack-2.json) |
 | The Texas Chain Saw Massacre: Ana Outfit Pack 3 | 350744 | [350744-the-texas-chain-saw-massacre-ana-outfit-pack-3.json](./350744-the-texas-chain-saw-massacre-ana-outfit-pack-3.json) |
 | The Texas Chain Saw Massacre: Bones | 351017 | [351017-the-texas-chain-saw-massacre-bones.json](./351017-the-texas-chain-saw-massacre-bones.json) |
+| The Texas Chain Saw Massacre: Chainsaw Skin Variants | 264387 | [264387-the-texas-chain-saw-massacre-chainsaw-skin-variants.json](./264387-the-texas-chain-saw-massacre-chainsaw-skin-variants.json) |
 | The Texas Chain Saw Massacre: Chainsaw Skin Variants 2 | 350738 | [350738-the-texas-chain-saw-massacre-chainsaw-skin-variants-2.json](./350738-the-texas-chain-saw-massacre-chainsaw-skin-variants-2.json) |
 | The Texas Chain Saw Massacre: Connie Outfit Pack | 273838 | [273838-the-texas-chain-saw-massacre-connie-outfit-pack.json](./273838-the-texas-chain-saw-massacre-connie-outfit-pack.json) |
 | The Texas Chain Saw Massacre: Connie Outfit Pack 2 | 350731 | [350731-the-texas-chain-saw-massacre-connie-outfit-pack-2.json](./350731-the-texas-chain-saw-massacre-connie-outfit-pack-2.json) |
@@ -19719,6 +19723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This One's From Santa | 399352 | [399352-this-ones-from-santa.json](./399352-this-ones-from-santa.json) |
 | This Onion | 271243 | [271243-this-onion.json](./271243-this-onion.json) |
 | This Panda Needs You | 185652 | [185652-this-panda-needs-you.json](./185652-this-panda-needs-you.json) |
+| This Picture | 264385 | [264385-this-picture.json](./264385-this-picture.json) |
 | This Place at the End: An Apocalyptic RPG | 392226 | [392226-this-place-at-the-end-an-apocalyptic-rpg.json](./392226-this-place-at-the-end-an-apocalyptic-rpg.json) |
 | This Planet Sucks! | 71339 | [71339-this-planet-sucks.json](./71339-this-planet-sucks.json) |
 | This Rain Will Never End | 169462 | [169462-this-rain-will-never-end.json](./169462-this-rain-will-never-end.json) |
@@ -26689,6 +26694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town Police Simulator | 302390 | [302390-town-police-simulator.json](./302390-town-police-simulator.json) |
 | Town Rhapsody | 310274 | [310274-town-rhapsody.json](./310274-town-rhapsody.json) |
 | Town Rush | 220179 | [220179-town-rush.json](./220179-town-rush.json) |
+| Town Squared | 265447 | [265447-town-squared.json](./265447-town-squared.json) |
 | Town Star | 145327 | [145327-town-star.json](./145327-town-star.json) |
 | Town Story | 106967 | [106967-town-story.json](./106967-town-story.json) |
 | Town Survival | 333478 | [333478-town-survival.json](./333478-town-survival.json) |
