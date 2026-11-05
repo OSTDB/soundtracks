@@ -2073,6 +2073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Schafkopf | 94117 | [94117-absolute-schafkopf.json](./94117-absolute-schafkopf.json) |
 | Absolute Schafkopf for Windows 11 | 264545 | [264545-absolute-schafkopf-for-windows-11.json](./264545-absolute-schafkopf-for-windows-11.json) |
 | Absolute Signalling | 414176 | [414176-absolute-signalling.json](./414176-absolute-signalling.json) |
+| Absolute Silence: A Game Album | 259368 | [259368-absolute-silence-a-game-album.json](./259368-absolute-silence-a-game-album.json) |
 | Absolute Skat | 91861 | [91861-absolute-skat.json](./91861-absolute-skat.json) |
 | Absolute Solitaire & Patience | 91558 | [91558-absolute-solitaire-and-patience.json](./91558-absolute-solitaire-and-patience.json) |
 | Absolute Sumo: Chonk Arena | 414703 | [414703-absolute-sumo-chonk-arena.json](./414703-absolute-sumo-chonk-arena.json) |
@@ -7817,6 +7818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altf42 | 226217 | [226217-altf42.json](./226217-altf42.json) |
 | Altheia: The Wrath of Aferi | 151818 | [151818-altheia-the-wrath-of-aferi.json](./151818-altheia-the-wrath-of-aferi.json) |
 | Altitude | 2357 | [2357-altitude.json](./2357-altitude.json) |
+| Altitude | 259358 | [259358-altitude.json](./259358-altitude.json) |
 | Altitude Adjustment | 279077 | [279077-altitude-adjustment.json](./279077-altitude-adjustment.json) |
 | Altitude's Toll | 280091 | [280091-altitudes-toll.json](./280091-altitudes-toll.json) |
 | Altitude0: Lower & Faster | 17556 | [17556-altitude0-lower-and-faster.json](./17556-altitude0-lower-and-faster.json) |
