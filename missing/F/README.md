@@ -6809,6 +6809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's 4 | 312230 | [312230-five-nights-at-freddys-4.json](./312230-five-nights-at-freddys-4.json) |
 | Five Nights at Freddy's 4: Halloween Edition | 226410 | [226410-five-nights-at-freddys-4-halloween-edition.json](./226410-five-nights-at-freddys-4-halloween-edition.json) |
 | Five Nights at Freddy's 5 | 271717 | [271717-five-nights-at-freddys-5.json](./271717-five-nights-at-freddys-5.json) |
+| Five Nights at Freddy's 6: Freakshow | 285287 | [285287-five-nights-at-freddys-6-freakshow.json](./285287-five-nights-at-freddys-6-freakshow.json) |
 | Five Nights at Freddy’s Abandoning | 275253 | [275253-five-nights-at-freddy-s-abandoning.json](./275253-five-nights-at-freddy-s-abandoning.json) |
 | Five Nights at Freddy's AR Lite | 273955 | [273955-five-nights-at-freddys-ar-lite.json](./273955-five-nights-at-freddys-ar-lite.json) |
 | Five Nights at Freddy's AR: Special Delivery | 126473 | [126473-five-nights-at-freddys-ar-special-delivery.json](./126473-five-nights-at-freddys-ar-special-delivery.json) |
@@ -6885,6 +6886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Roner's: Remastered | 330734 | [330734-five-nights-at-roners-remastered.json](./330734-five-nights-at-roners-remastered.json) |
 | Five Nights at RPG Boy's | 339599 | [339599-five-nights-at-rpg-boys.json](./339599-five-nights-at-rpg-boys.json) |
 | Five Nights at Sexy's | 207700 | [207700-five-nights-at-sexys.json](./207700-five-nights-at-sexys.json) |
+| Five Nights At Shrek's Hotel 2 | 285255 | [285255-five-nights-at-shreks-hotel-2.json](./285255-five-nights-at-shreks-hotel-2.json) |
 | Five Nights at Silver Pine | 297079 | [297079-five-nights-at-silver-pine.json](./297079-five-nights-at-silver-pine.json) |
 | Five Nights At Skibidi Toilets | 311529 | [311529-five-nights-at-skibidi-toilets.json](./311529-five-nights-at-skibidi-toilets.json) |
 | Five Nights At Smog's Poutinerie | 236315 | [236315-five-nights-at-smogs-poutinerie.json](./236315-five-nights-at-smogs-poutinerie.json) |
@@ -11605,8 +11607,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin' vs. Keyboard Cat | 332876 | [332876-friday-night-funkin-vs-keyboard-cat.json](./332876-friday-night-funkin-vs-keyboard-cat.json) |
 | Friday Night Funkin' vs. LSE | 314509 | [314509-friday-night-funkin-vs-lse.json](./314509-friday-night-funkin-vs-lse.json) |
 | Friday Night Funkin' vs. NFT | 325104 | [325104-friday-night-funkin-vs-nft.json](./325104-friday-night-funkin-vs-nft.json) |
+| Friday Night Funkin': B Sides | 285245 | [285245-friday-night-funkin-b-sides.json](./285245-friday-night-funkin-b-sides.json) |
 | Friday Night Funkin': Banbuds vs. Reggie the Rat | 202337 | [202337-friday-night-funkin-banbuds-vs-reggie-the-rat.json](./202337-friday-night-funkin-banbuds-vs-reggie-the-rat.json) |
 | Friday Night Funkin': CG5 Edition | 224523 | [224523-friday-night-funkin-cg5-edition.json](./224523-friday-night-funkin-cg5-edition.json) |
+| Friday Night Funkin': D Side | 285244 | [285244-friday-night-funkin-d-side.json](./285244-friday-night-funkin-d-side.json) |
 | Friday Night Funkin': Elements of Insanity | 198303 | [198303-friday-night-funkin-elements-of-insanity.json](./198303-friday-night-funkin-elements-of-insanity.json) |
 | Friday Night Funkin': Halloween Hack | 228324 | [228324-friday-night-funkin-halloween-hack.json](./228324-friday-night-funkin-halloween-hack.json) |
 | Friday Night Funkin': Hotline 024 | 201320 | [201320-friday-night-funkin-hotline-024.json](./201320-friday-night-funkin-hotline-024.json) |
@@ -11653,6 +11657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': vs. Kapi - Arcade Showdown | 180206 | [180206-friday-night-funkin-vs-kapi-arcade-showdown.json](./180206-friday-night-funkin-vs-kapi-arcade-showdown.json) |
 | Friday Night Funkin': Vs. Nekomata Okayu | 226421 | [226421-friday-night-funkin-vs-nekomata-okayu.json](./226421-friday-night-funkin-vs-nekomata-okayu.json) |
 | Friday Night Funkin': vs. Reggie the Rat | 198491 | [198491-friday-night-funkin-vs-reggie-the-rat.json](./198491-friday-night-funkin-vs-reggie-the-rat.json) |
+| Friday Night Funkin': Vs. Selever | 285247 | [285247-friday-night-funkin-vs-selever.json](./285247-friday-night-funkin-vs-selever.json) |
 | Friday Night Funkin': Vs. Sonic.Exe | 200373 | [200373-friday-night-funkin-vs-sonic-exe.json](./200373-friday-night-funkin-vs-sonic-exe.json) |
 | Friday Night Funkin': VS. Starlight Glimmer & Trixie | 202416 | [202416-friday-night-funkin-vs-starlight-glimmer-and-trixie.json](./202416-friday-night-funkin-vs-starlight-glimmer-and-trixie.json) |
 | Friday Night Funkin': vs. Zardy | 329149 | [329149-friday-night-funkin-vs-zardy.json](./329149-friday-night-funkin-vs-zardy.json) |
