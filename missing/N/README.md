@@ -2571,6 +2571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeonFlight | 130170 | [130170-neonflight.json](./130170-neonflight.json) |
 | NeonGalaxy Wars | 54877 | [54877-neongalaxy-wars.json](./54877-neongalaxy-wars.json) |
 | NeonHat | 187517 | [187517-neonhat.json](./187517-neonhat.json) |
+| NeonHClouds | 246751 | [246751-neonhclouds.json](./246751-neonhclouds.json) |
 | Neonimo | 187797 | [187797-neonimo.json](./187797-neonimo.json) |
 | Neonis | 121190 | [121190-neonis.json](./121190-neonis.json) |
 | NeonLore | 197916 | [197916-neonlore.json](./197916-neonlore.json) |
@@ -3799,6 +3800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 2K9 | 5068 | [5068-nhl-2k9.json](./5068-nhl-2k9.json) |
 | NHL 5-On-5 2006 | 57932 | [57932-nhl-5-on-5-2006.json](./57932-nhl-5-on-5-2006.json) |
 | NHL 94 Rewind | 146213 | [146213-nhl-94-rewind.json](./146213-nhl-94-rewind.json) |
+| NHL 94: 2023 Edition | 246699 | [246699-nhl-94-2023-edition.json](./246699-nhl-94-2023-edition.json) |
 | NHL 95 | 299309 | [299309-nhl-95.json](./299309-nhl-95.json) |
 | NHL 95 | 4509 | [4509-nhl-95.json](./4509-nhl-95.json) |
 | NHL 96 | 11650 | [11650-nhl-96.json](./11650-nhl-96.json) |
@@ -4754,6 +4756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nijiiro Twinkle: Guru-guru Daisakusen | 378171 | [378171-nijiiro-twinkle-guru-guru-daisakusen.json](./378171-nijiiro-twinkle-guru-guru-daisakusen.json) |
 | Nijowari: Where Angels Fall | 126262 | [126262-nijowari-where-angels-fall.json](./126262-nijowari-where-angels-fall.json) |
 | Nijuu Yuumu | 167127 | [167127-nijuu-yuumu.json](./167127-nijuu-yuumu.json) |
+| Nijuubako | 246718 | [246718-nijuubako.json](./246718-nijuubako.json) |
 | Nijuuei | 204499 | [204499-nijuuei.json](./204499-nijuuei.json) |
 | Nik and Kit Arcade: Breakthrough Gaming Arcade | 214901 | [214901-nik-and-kit-arcade-breakthrough-gaming-arcade.json](./214901-nik-and-kit-arcade-breakthrough-gaming-arcade.json) |
 | Nik and Kit Racing | 213351 | [213351-nik-and-kit-racing.json](./213351-nik-and-kit-racing.json) |
