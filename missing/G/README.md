@@ -4978,6 +4978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GlobeXplore | 284883 | [284883-globexplore.json](./284883-globexplore.json) |
 | Globey: On the Roll! | 209754 | [209754-globey-on-the-roll.json](./209754-globey-on-the-roll.json) |
 | Globs | 322758 | [322758-globs.json](./322758-globs.json) |
+| Globs & Ghosts | 255454 | [255454-globs-and-ghosts.json](./255454-globs-and-ghosts.json) |
 | Globulation 2 | 124609 | [124609-globulation-2.json](./124609-globulation-2.json) |
 | Globulos Mania | 62447 | [62447-globulos-mania.json](./62447-globulos-mania.json) |
 | Globulos Party | 66981 | [66981-globulos-party.json](./66981-globulos-party.json) |
