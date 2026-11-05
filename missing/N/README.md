@@ -3594,6 +3594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nexus | 259902 | [259902-nexus.json](./259902-nexus.json) |
 | Nexus | 26414 | [26414-nexus.json](./26414-nexus.json) |
 | Nexus 2 | 92499 | [92499-nexus-2.json](./92499-nexus-2.json) |
+| Nexus 5X | 252489 | [252489-nexus-5x.json](./252489-nexus-5x.json) |
 | Nexus Code | 276051 | [276051-nexus-code.json](./276051-nexus-code.json) |
 | Nexus Code | 402675 | [402675-nexus-code.json](./402675-nexus-code.json) |
 | Nexus Code Plus | 199949 | [199949-nexus-code-plus.json](./199949-nexus-code-plus.json) |
