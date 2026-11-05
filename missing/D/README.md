@@ -12238,6 +12238,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Let Me Fade | 352220 | [352220-dont-let-me-fade.json](./352220-dont-let-me-fade.json) |
 | Don't Let Me Rot | 365209 | [365209-dont-let-me-rot.json](./365209-dont-let-me-rot.json) |
 | Don't Let the Teacher Know | 214281 | [214281-dont-let-the-teacher-know.json](./214281-dont-let-the-teacher-know.json) |
+| Don't Lie Pack 1 | 256068 | [256068-dont-lie-pack-1.json](./256068-dont-lie-pack-1.json) |
+| Don't Lie Pack 2 | 256069 | [256069-dont-lie-pack-2.json](./256069-dont-lie-pack-2.json) |
 | Don't Look | 156708 | [156708-dont-look.json](./156708-dont-look.json) |
 | Don't Look | 177547 | [177547-dont-look.json](./177547-dont-look.json) |
 | Don't Look at Grandma | 375820 | [375820-dont-look-at-grandma.json](./375820-dont-look-at-grandma.json) |
