@@ -8912,6 +8912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Writhe | 142308 | [142308-writhe.json](./142308-writhe.json) |
 | Writhe | 213466 | [213466-writhe.json](./213466-writhe.json) |
 | Writhing | 378356 | [378356-writhing.json](./378356-writhing.json) |
+| Written in Blood on a Mirror | 276536 | [276536-written-in-blood-on-a-mirror.json](./276536-written-in-blood-on-a-mirror.json) |
 | Written in the Sky | 34238 | [34238-written-in-the-sky.json](./34238-written-in-the-sky.json) |
 | WrldCraft | 120169 | [120169-wrldcraft.json](./120169-wrldcraft.json) |
 | wrldDivision | 128544 | [128544-wrlddivision.json](./128544-wrlddivision.json) |
