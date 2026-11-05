@@ -4486,6 +4486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight with WWE Champion | 196583 | [196583-fight-with-wwe-champion.json](./196583-fight-with-wwe-champion.json) |
 | Fight-Quest | 349445 | [349445-fight-quest.json](./349445-fight-quest.json) |
 | Fight,to the last | 127869 | [127869-fight-to-the-last.json](./127869-fight-to-the-last.json) |
+| Fight! Olyn Island | 261605 | [261605-fight-olyn-island.json](./261605-fight-olyn-island.json) |
 | Fight'n Rage: 5th Anniversary Limited Edition | 242370 | [242370-fightn-rage-5th-anniversary-limited-edition.json](./242370-fightn-rage-5th-anniversary-limited-edition.json) |
 | Fightback | 63357 | [63357-fightback.json](./63357-fightback.json) |
 | FightBit | 250956 | [250956-fightbit.json](./250956-fightbit.json) |
@@ -9506,6 +9507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest of Perdition | 286024 | [286024-forest-of-perdition.json](./286024-forest-of-perdition.json) |
 | Forest of Perdition 2: The School Trip | 315057 | [315057-forest-of-perdition-2-the-school-trip.json](./315057-forest-of-perdition-2-the-school-trip.json) |
 | Forest of Soul | 279141 | [279141-forest-of-soul.json](./279141-forest-of-soul.json) |
+| Forest of Strays | 261600 | [261600-forest-of-strays.json](./261600-forest-of-strays.json) |
 | Forest Of Terenu | 369875 | [369875-forest-of-terenu.json](./369875-forest-of-terenu.json) |
 | Forest of the Abyss 2 | 98458 | [98458-forest-of-the-abyss-2.json](./98458-forest-of-the-abyss-2.json) |
 | Forest of the Dead | 133060 | [133060-forest-of-the-dead.json](./133060-forest-of-the-dead.json) |
@@ -11039,6 +11041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frame Machina: OcularZero | 364060 | [364060-frame-machina-ocularzero.json](./364060-frame-machina-ocularzero.json) |
 | Frame of Mind | 142281 | [142281-frame-of-mind.json](./142281-frame-of-mind.json) |
 | Frame of Mind | 301491 | [301491-frame-of-mind.json](./301491-frame-of-mind.json) |
+| Frame of Mind: A Game of Thoughts | 261620 | [261620-frame-of-mind-a-game-of-thoughts.json](./261620-frame-of-mind-a-game-of-thoughts.json) |
 | Frame of Reference | 119594 | [119594-frame-of-reference.json](./119594-frame-of-reference.json) |
 | Frame of Suffering | 403555 | [403555-frame-of-suffering.json](./403555-frame-of-suffering.json) |
 | Frame Out | 98051 | [98051-frame-out.json](./98051-frame-out.json) |
@@ -12340,6 +12343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontier Legends | 319390 | [319390-frontier-legends.json](./319390-frontier-legends.json) |
 | Frontier Mayhem | 301288 | [301288-frontier-mayhem.json](./301288-frontier-mayhem.json) |
 | Frontier Mech: Ash Walkers | 356075 | [356075-frontier-mech-ash-walkers.json](./356075-frontier-mech-ash-walkers.json) |
+| Frontier of Madness | 261586 | [261586-frontier-of-madness.json](./261586-frontier-of-madness.json) |
 | Frontier Paladin | 292542 | [292542-frontier-paladin.json](./292542-frontier-paladin.json) |
 | Frontier Quest | 139637 | [139637-frontier-quest.json](./139637-frontier-quest.json) |
 | Frontier Roots | 349515 | [349515-frontier-roots.json](./349515-frontier-roots.json) |
