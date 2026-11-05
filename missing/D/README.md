@@ -8578,6 +8578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Känguru-Verschwörung | 229578 | [229578-die-kanguru-verschworung.json](./229578-die-kanguru-verschworung.json) |
 | Die Kathedrale | 78508 | [78508-die-kathedrale.json](./78508-die-kathedrale.json) |
 | Die kleine Lokomotive und ihre Freunde | 81401 | [81401-die-kleine-lokomotive-und-ihre-freunde.json](./81401-die-kleine-lokomotive-und-ihre-freunde.json) |
+| Die Last | 295068 | [295068-die-last.json](./295068-die-last.json) |
 | Die Legende der Wikinger | 91397 | [91397-die-legende-der-wikinger.json](./91397-die-legende-der-wikinger.json) |
 | Die Legende von Saya - Befehl aus der Dunkelheit | 128454 | [128454-die-legende-von-saya-befehl-aus-der-dunkelheit.json](./128454-die-legende-von-saya-befehl-aus-der-dunkelheit.json) |
 | Die letzte Schlacht der Elfen | 88953 | [88953-die-letzte-schlacht-der-elfen.json](./88953-die-letzte-schlacht-der-elfen.json) |
@@ -18701,6 +18702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamic Country Club: 3D Golf Simulation | 45873 | [45873-dynamic-country-club-3d-golf-simulation.json](./45873-dynamic-country-club-3d-golf-simulation.json) |
 | Dynamic Destruction | 291837 | [291837-dynamic-destruction.json](./291837-dynamic-destruction.json) |
 | Dynamic Duo | 13615 | [13615-dynamic-duo.json](./13615-dynamic-duo.json) |
+| Dynamic Shooting VR | 294919 | [294919-dynamic-shooting-vr.json](./294919-dynamic-shooting-vr.json) |
 | Dynamite | 94260 | [94260-dynamite.json](./94260-dynamite.json) |
 | Dynamite 100 | 66951 | [66951-dynamite-100.json](./66951-dynamite-100.json) |
 | Dynamite Alex | 31343 | [31343-dynamite-alex.json](./31343-dynamite-alex.json) |
