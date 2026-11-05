@@ -6630,7 +6630,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bottle Boy | 332755 | [332755-the-bottle-boy.json](./332755-the-bottle-boy.json) |
 | The Bottle of the Heart | 371035 | [371035-the-bottle-of-the-heart.json](./371035-the-bottle-of-the-heart.json) |
 | The Bottom of the Sea | 397524 | [397524-the-bottom-of-the-sea.json](./397524-the-bottom-of-the-sea.json) |
-| The Bottom of the Well | 33370 | [33370-the-bottom-of-the-well.json](./33370-the-bottom-of-the-well.json) |
 | The Bou: Special Edition | 278745 | [278745-the-bou-special-edition.json](./278745-the-bou-special-edition.json) |
 | The Bouncer | 1349 | [1349-the-bouncer.json](./1349-the-bouncer.json) |
 | The Bouncing Ball | 195207 | [195207-the-bouncing-ball.json](./195207-the-bouncing-ball.json) |
@@ -12049,6 +12048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Werewolf | 235177 | [235177-the-last-werewolf.json](./235177-the-last-werewolf.json) |
 | The Last Will | 172938 | [172938-the-last-will.json](./172938-the-last-will.json) |
 | The Last Winter | 207576 | [207576-the-last-winter.json](./207576-the-last-winter.json) |
+| The Last Winter Knight | 283532 | [283532-the-last-winter-knight.json](./283532-the-last-winter-knight.json) |
 | The Last Wish | 241847 | [241847-the-last-wish.json](./241847-the-last-wish.json) |
 | The Last Wish | 27877 | [27877-the-last-wish.json](./27877-the-last-wish.json) |
 | The Last Witness | 374950 | [374950-the-last-witness.json](./374950-the-last-witness.json) |
@@ -12866,7 +12866,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings Online: War of Three Peaks | 275925 | [275925-the-lord-of-the-rings-online-war-of-three-peaks.json](./275925-the-lord-of-the-rings-online-war-of-three-peaks.json) |
 | The Lord of the Rings Pinball | 353605 | [353605-the-lord-of-the-rings-pinball.json](./353605-the-lord-of-the-rings-pinball.json) |
 | The Lord of the Rings Trivia Game | 353604 | [353604-the-lord-of-the-rings-trivia-game.json](./353604-the-lord-of-the-rings-trivia-game.json) |
-| The Lord of the Rings: Adventure Card Game | 77176 | [77176-the-lord-of-the-rings-adventure-card-game.json](./77176-the-lord-of-the-rings-adventure-card-game.json) |
 | The Lord of the Rings: Adventure Card Game - Definitive Edition | 147962 | [147962-the-lord-of-the-rings-adventure-card-game-definitive-edition.json](./147962-the-lord-of-the-rings-adventure-card-game-definitive-edition.json) |
 | The Lord of the Rings: Aragorn's Quest | 333444 | [333444-the-lord-of-the-rings-aragorns-quest.json](./333444-the-lord-of-the-rings-aragorns-quest.json) |
 | The Lord of the Rings: Aragorn's Quest | 339594 | [339594-the-lord-of-the-rings-aragorns-quest.json](./339594-the-lord-of-the-rings-aragorns-quest.json) |
