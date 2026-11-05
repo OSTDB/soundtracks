@@ -4503,6 +4503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gish | 8384 | [8384-gish.json](./8384-gish.json) |
 | Gish: The Mobile Game | 227031 | [227031-gish-the-mobile-game.json](./227031-gish-the-mobile-game.json) |
 | Gisselle's Adventure | 335737 | [335737-gisselles-adventure.json](./335737-gisselles-adventure.json) |
+| Git (Game Involving Triangles) | 295964 | [295964-git-game-involving-triangles.json](./295964-git-game-involving-triangles.json) |
 | Git Gud | 330269 | [330269-git-gud.json](./330269-git-gud.json) |
 | Git Gud | 348546 | [348546-git-gud.json](./348546-git-gud.json) |
 | Git Gud or Get Rekt | 126231 | [126231-git-gud-or-get-rekt.json](./126231-git-gud-or-get-rekt.json) |
@@ -8166,6 +8167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitas | 397230 | [397230-gravitas.json](./397230-gravitas.json) |
 | Gravitas! | 259549 | [259549-gravitas.json](./259549-gravitas.json) |
 | Gravitation | 187293 | [187293-gravitation.json](./187293-gravitation.json) |
+| Gravitation | 295965 | [295965-gravitation.json](./295965-gravitation.json) |
 | Gravitation | 57614 | [57614-gravitation.json](./57614-gravitation.json) |
 | Gravitational | 150150 | [150150-gravitational.json](./150150-gravitational.json) |
 | Gravitational Phenomenon | 320051 | [320051-gravitational-phenomenon.json](./320051-gravitational-phenomenon.json) |
