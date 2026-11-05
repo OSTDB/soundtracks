@@ -1072,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raidfield 2 | 160242 | [160242-raidfield-2.json](./160242-raidfield-2.json) |
 | Raiding Company | 94038 | [94038-raiding-company.json](./94038-raiding-company.json) |
 | Raiding Zone | 236242 | [236242-raiding-zone.json](./236242-raiding-zone.json) |
+| Raiding.Zone | 246713 | [246713-raiding-zone.json](./246713-raiding-zone.json) |
 | RaidLand | 132728 | [132728-raidland.json](./132728-raidland.json) |
 | Raidlands | 125826 | [125826-raidlands.json](./125826-raidlands.json) |
 | Raidol: Injoku ni Ochita Seiningyou | 108970 | [108970-raidol-injoku-ni-ochita-seiningyou.json](./108970-raidol-injoku-ni-ochita-seiningyou.json) |
@@ -10915,6 +10916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooted | 194616 | [194616-rooted.json](./194616-rooted.json) |
 | Rooten | 155659 | [155659-rooten.json](./155659-rooten.json) |
 | Rootin' Tootin' | 306913 | [306913-rootin-tootin.json](./306913-rootin-tootin.json) |
+| Rootin' Tootin' Lootin' & Shootin' | 246709 | [246709-rootin-tootin-lootin-and-shootin.json](./246709-rootin-tootin-lootin-and-shootin.json) |
 | RootKeeper | 258396 | [258396-rootkeeper.json](./258396-rootkeeper.json) |
 | Rootlash | 189300 | [189300-rootlash.json](./189300-rootlash.json) |
 | Rootless | 183036 | [183036-rootless.json](./183036-rootless.json) |
@@ -11623,6 +11625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPS play | 144615 | [144615-rps-play.json](./144615-rps-play.json) |
 | RPS Runner | 38765 | [38765-rps-runner.json](./38765-rps-runner.json) |
 | RPS Saga | 38994 | [38994-rps-saga.json](./38994-rps-saga.json) |
+| RPS-25 | 246707 | [246707-rps-25.json](./246707-rps-25.json) |
 | RPS: The Escape | 410467 | [410467-rps-the-escape.json](./410467-rps-the-escape.json) |
 | RpVoid | 354505 | [354505-rpvoid.json](./354505-rpvoid.json) |
 | Rrggbb | 178004 | [178004-rrggbb.json](./178004-rrggbb.json) |
