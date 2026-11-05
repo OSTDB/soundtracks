@@ -3198,6 +3198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ooparts | 269600 | [269600-ooparts.json](./269600-ooparts.json) |
 | Oopi's Quest | 120530 | [120530-oopis-quest.json](./120530-oopis-quest.json) |
 | Oopils | 405937 | [405937-oopils.json](./405937-oopils.json) |
+| Oops | 254252 | [254252-oops.json](./254252-oops.json) |
 | Oops Airlines | 391222 | [391222-oops-airlines.json](./391222-oops-airlines.json) |
 | Oops You Started An Intergalactic War | 202020 | [202020-oops-you-started-an-intergalactic-war.json](./202020-oops-you-started-an-intergalactic-war.json) |
 | Oops, All Archers! | 263389 | [263389-oops-all-archers.json](./263389-oops-all-archers.json) |
@@ -3257,6 +3258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Fire: Ready | 389966 | [389966-open-fire-ready.json](./389966-open-fire-ready.json) |
 | Open Fishing 2 | 333003 | [333003-open-fishing-2.json](./333003-open-fishing-2.json) |
 | Open Fishing XL | 231355 | [231355-open-fishing-xl.json](./231355-open-fishing-xl.json) |
+| Open Flower | 254229 | [254229-open-flower.json](./254229-open-flower.json) |
 | Open For Business | 399958 | [399958-open-for-business.json](./399958-open-for-business.json) |
 | Open Fortress | 134576 | [134576-open-fortress.json](./134576-open-fortress.json) |
 | Open Gizmy Zimy | 400186 | [400186-open-gizmy-zimy.json](./400186-open-gizmy-zimy.json) |
