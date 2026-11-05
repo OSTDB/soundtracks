@@ -6369,6 +6369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Spider Solitaire | 144528 | [144528-golden-spider-solitaire.json](./144528-golden-spider-solitaire.json) |
 | Golden Sun | 1172 | [1172-golden-sun.json](./1172-golden-sun.json) |
 | Golden Sun | 356272 | [356272-golden-sun.json](./356272-golden-sun.json) |
+| Golden Sun 64 | 283357 | [283357-golden-sun-64.json](./283357-golden-sun-64.json) |
 | Golden Sun QOL | 269063 | [269063-golden-sun-qol.json](./269063-golden-sun-qol.json) |
 | Golden Sun The Lost Age: Anniversary Mod | 269061 | [269061-golden-sun-the-lost-age-anniversary-mod.json](./269061-golden-sun-the-lost-age-anniversary-mod.json) |
 | Golden Sunshine Beside You | 373565 | [373565-golden-sunshine-beside-you.json](./373565-golden-sunshine-beside-you.json) |
@@ -8538,6 +8539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great North Shelter 2 | 238491 | [238491-great-north-shelter-2.json](./238491-great-north-shelter-2.json) |
 | Great Old One - Arrival | 105303 | [105303-great-old-one-arrival.json](./105303-great-old-one-arrival.json) |
 | Great Paintings VR | 156103 | [156103-great-paintings-vr.json](./156103-great-paintings-vr.json) |
+| Great Party Games | 283365 | [283365-great-party-games.json](./283365-great-party-games.json) |
 | Great Permutator | 17762 | [17762-great-permutator.json](./17762-great-permutator.json) |
 | Great Personality: Guardians | 348841 | [348841-great-personality-guardians.json](./348841-great-personality-guardians.json) |
 | Great Pilots | 224531 | [224531-great-pilots.json](./224531-great-pilots.json) |
