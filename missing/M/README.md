@@ -3059,6 +3059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manic Minefields | 71287 | [71287-manic-minefields.json](./71287-manic-minefields.json) |
 | Manic Miner | 10161 | [10161-manic-miner.json](./10161-manic-miner.json) |
 | Manic Miner | 248054 | [248054-manic-miner.json](./248054-manic-miner.json) |
+| Manic Miner | 254241 | [254241-manic-miner.json](./254241-manic-miner.json) |
 | Manic Miner Engine | 256206 | [256206-manic-miner-engine.json](./256206-manic-miner-engine.json) |
 | Manic Miner: Neighbours - Allana Truman | 329994 | [329994-manic-miner-neighbours-allana-truman.json](./329994-manic-miner-neighbours-allana-truman.json) |
 | Manic Miner: Super Pre-School Edition | 329992 | [329992-manic-miner-super-pre-school-edition.json](./329992-manic-miner-super-pre-school-edition.json) |
@@ -4724,6 +4725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel's Moon Girl and Devil Dinosaur: Moon Girl Moxie! | 306670 | [306670-marvels-moon-girl-and-devil-dinosaur-moon-girl-moxie.json](./306670-marvels-moon-girl-and-devil-dinosaur-moon-girl-moxie.json) |
 | Marvel's Spider-Man 2: Collector's Edition | 272315 | [272315-marvels-spider-man-2-collectors-edition.json](./272315-marvels-spider-man-2-collectors-edition.json) |
 | Marvel's Spider-Man 2: Digital Deluxe Edition | 272508 | [272508-marvels-spider-man-2-digital-deluxe-edition.json](./272508-marvels-spider-man-2-digital-deluxe-edition.json) |
+| Marvel's Spider-Man 2: Launch Edition | 254219 | [254219-marvels-spider-man-2-launch-edition.json](./254219-marvels-spider-man-2-launch-edition.json) |
 | Marvel's Spider-Man 2: New Game Plus Update | 307176 | [307176-marvels-spider-man-2-new-game-plus-update.json](./307176-marvels-spider-man-2-new-game-plus-update.json) |
 | Marvel's Spider-Man Digital Deluxe Edition | 343953 | [343953-marvels-spider-man-digital-deluxe-edition.json](./343953-marvels-spider-man-digital-deluxe-edition.json) |
 | Marvel's Spider-Man: Game of the Year Edition | 122095 | [122095-marvels-spider-man-game-of-the-year-edition.json](./122095-marvels-spider-man-game-of-the-year-edition.json) |
@@ -5833,7 +5835,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9759,6 +9760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metalgun Slinger | 49689 | [49689-metalgun-slinger.json](./49689-metalgun-slinger.json) |
 | Metalhead Tycoon | 60975 | [60975-metalhead-tycoon.json](./60975-metalhead-tycoon.json) |
 | MetalHeart: Replicants Rampage | 69749 | [69749-metalheart-replicants-rampage.json](./69749-metalheart-replicants-rampage.json) |
+| Metallic Men | 254208 | [254208-metallic-men.json](./254208-metallic-men.json) |
 | Metallic Metronome | 157906 | [157906-metallic-metronome.json](./157906-metallic-metronome.json) |
 | Metallicars | 234319 | [234319-metallicars.json](./234319-metallicars.json) |
 | Metallophobia | 192007 | [192007-metallophobia.json](./192007-metallophobia.json) |
@@ -12115,6 +12117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Batman | 254266 | [254266-minecraft-batman.json](./254266-minecraft-batman.json) |
 | Minecraft: Battle and Beasts Skin Pack | 322958 | [322958-minecraft-battle-and-beasts-skin-pack.json](./322958-minecraft-battle-and-beasts-skin-pack.json) |
 | Minecraft: Be A Mob Add-On | 334050 | [334050-minecraft-be-a-mob-add-on.json](./334050-minecraft-be-a-mob-add-on.json) |
+| Minecraft: Ben 10 | 254211 | [254211-minecraft-ben-10.json](./254211-minecraft-ben-10.json) |
 | Minecraft: Better than Adventure! | 256096 | [256096-minecraft-better-than-adventure.json](./256096-minecraft-better-than-adventure.json) |
 | Minecraft: Biome Settlers 3 Skin Pack | 257345 | [257345-minecraft-biome-settlers-3-skin-pack.json](./257345-minecraft-biome-settlers-3-skin-pack.json) |
 | Minecraft: Biome Settlers Pack 1 | 302658 | [302658-minecraft-biome-settlers-pack-1.json](./302658-minecraft-biome-settlers-pack-1.json) |
@@ -12162,6 +12165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Hermicraft Season 8 Map | 366814 | [366814-minecraft-hermicraft-season-8-map.json](./366814-minecraft-hermicraft-season-8-map.json) |
 | Minecraft: Hermitcraft Season 9 Map | 316750 | [316750-minecraft-hermitcraft-season-9-map.json](./316750-minecraft-hermitcraft-season-9-map.json) |
 | Minecraft: Holiday Skin Pack 2015 | 303023 | [303023-minecraft-holiday-skin-pack-2015.json](./303023-minecraft-holiday-skin-pack-2015.json) |
+| Minecraft: How To Train Your Dragon | 254209 | [254209-minecraft-how-to-train-your-dragon.json](./254209-minecraft-how-to-train-your-dragon.json) |
 | Minecraft: Ice Age | 254262 | [254262-minecraft-ice-age.json](./254262-minecraft-ice-age.json) |
 | Minecraft: Insane Disasters | 334048 | [334048-minecraft-insane-disasters.json](./334048-minecraft-insane-disasters.json) |
 | Minecraft: James Web Space Telescope | 322959 | [322959-minecraft-james-web-space-telescope.json](./322959-minecraft-james-web-space-telescope.json) |
@@ -12175,6 +12179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Lightyear | 254263 | [254263-minecraft-lightyear.json](./254263-minecraft-lightyear.json) |
 | Minecraft: LittleBigPlanet Edition | 234238 | [234238-minecraft-littlebigplanet-edition.json](./234238-minecraft-littlebigplanet-edition.json) |
 | MInecraft: Marvel Avengers Skin Pack | 254877 | [254877-minecraft-marvel-avengers-skin-pack.json](./254877-minecraft-marvel-avengers-skin-pack.json) |
+| Minecraft: Marvel Spider-Man Skin Pack | 254250 | [254250-minecraft-marvel-spider-man-skin-pack.json](./254250-minecraft-marvel-spider-man-skin-pack.json) |
 | Minecraft: Marvel's Guardians of the Galaxy Skin Pack | 254827 | [254827-minecraft-marvels-guardians-of-the-galaxy-skin-pack.json](./254827-minecraft-marvels-guardians-of-the-galaxy-skin-pack.json) |
 | Minecraft: Master Chief Mash-up | 233695 | [233695-minecraft-master-chief-mash-up.json](./233695-minecraft-master-chief-mash-up.json) |
 | Minecraft: Mega Man X | 239210 | [239210-minecraft-mega-man-x.json](./239210-minecraft-mega-man-x.json) |
@@ -12185,6 +12190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Minecraft Story Mode Skin Pack | 301521 | [301521-minecraft-minecraft-story-mode-skin-pack.json](./301521-minecraft-minecraft-story-mode-skin-pack.json) |
 | Minecraft: Mini Game Heroes Skin Pack | 302603 | [302603-minecraft-mini-game-heroes-skin-pack.json](./302603-minecraft-mini-game-heroes-skin-pack.json) |
 | Minecraft: Mini Game Masters | 307747 | [307747-minecraft-mini-game-masters.json](./307747-minecraft-mini-game-masters.json) |
+| Minecraft: Minions | 254260 | [254260-minecraft-minions.json](./254260-minecraft-minions.json) |
 | Minecraft: Moana Character Pack | 254491 | [254491-minecraft-moana-character-pack.json](./254491-minecraft-moana-character-pack.json) |
 | Minecraft: Mob Vote 2022 Skin Pack | 303029 | [303029-minecraft-mob-vote-2022-skin-pack.json](./303029-minecraft-mob-vote-2022-skin-pack.json) |
 | Minecraft: Mob Weapons | 333584 | [333584-minecraft-mob-weapons.json](./333584-minecraft-mob-weapons.json) |
@@ -12202,6 +12208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Ocean Heroes | 347685 | [347685-minecraft-ocean-heroes.json](./347685-minecraft-ocean-heroes.json) |
 | Minecraft: Operation Aorta | 324882 | [324882-minecraft-operation-aorta.json](./324882-minecraft-operation-aorta.json) |
 | Minecraft: Owls Add-On | 370764 | [370764-minecraft-owls-add-on.json](./370764-minecraft-owls-add-on.json) |
+| Minecraft: Pac-Man | 254206 | [254206-minecraft-pac-man.json](./254206-minecraft-pac-man.json) |
 | Minecraft: Phantom Frames | 324890 | [324890-minecraft-phantom-frames.json](./324890-minecraft-phantom-frames.json) |
 | Minecraft: Pi Edition | 129495 | [129495-minecraft-pi-edition.json](./129495-minecraft-pi-edition.json) |
 | Minecraft: Pirates of the Caribbean Mash-up | 235328 | [235328-minecraft-pirates-of-the-caribbean-mash-up.json](./235328-minecraft-pirates-of-the-caribbean-mash-up.json) |
@@ -12221,6 +12228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Stampy's Lovely World | 315117 | [315117-minecraft-stampys-lovely-world.json](./315117-minecraft-stampys-lovely-world.json) |
 | Minecraft: Star Wars - Path of the Jedi | 272800 | [272800-minecraft-star-wars-path-of-the-jedi.json](./272800-minecraft-star-wars-path-of-the-jedi.json) |
 | Minecraft: Star Wars Classic Skin Pack | 303041 | [303041-minecraft-star-wars-classic-skin-pack.json](./303041-minecraft-star-wars-classic-skin-pack.json) |
+| Minecraft: Star Wars Mash-up Pack | 254204 | [254204-minecraft-star-wars-mash-up-pack.json](./254204-minecraft-star-wars-mash-up-pack.json) |
 | MInecraft: Star Wars Prequel Skin Pack | 302666 | [302666-minecraft-star-wars-prequel-skin-pack.json](./302666-minecraft-star-wars-prequel-skin-pack.json) |
 | Minecraft: Star Wars Sequel Skin Pack | 303141 | [303141-minecraft-star-wars-sequel-skin-pack.json](./303141-minecraft-star-wars-sequel-skin-pack.json) |
 | Minecraft: Steven Universe Mash-up | 235338 | [235338-minecraft-steven-universe-mash-up.json](./235338-minecraft-steven-universe-mash-up.json) |
@@ -12272,6 +12280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Vault-Tec Mash-up | 235319 | [235319-minecraft-vault-tec-mash-up.json](./235319-minecraft-vault-tec-mash-up.json) |
 | Minecraft: Village & Pillage | 221919 | [221919-minecraft-village-and-pillage.json](./221919-minecraft-village-and-pillage.json) |
 | Minecraft: Villains Skin Pack | 308746 | [308746-minecraft-villains-skin-pack.json](./308746-minecraft-villains-skin-pack.json) |
+| Minecraft: Walt Disney World Magic Kingdom Adventure | 254261 | [254261-minecraft-walt-disney-world-magic-kingdom-adventure.json](./254261-minecraft-walt-disney-world-magic-kingdom-adventure.json) |
 | MInecraft: Weapon Fusion 2 | 333585 | [333585-minecraft-weapon-fusion-2.json](./333585-minecraft-weapon-fusion-2.json) |
 | Minecraft: Wii U Edition | 84610 | [84610-minecraft-wii-u-edition.json](./84610-minecraft-wii-u-edition.json) |
 | Minecraft: Wilderness Bound | 416571 | [416571-minecraft-wilderness-bound.json](./416571-minecraft-wilderness-bound.json) |
