@@ -612,6 +612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jane's USAF | 71409 | [71409-janes-usaf.json](./71409-janes-usaf.json) |
 | Jane's Zoo | 25486 | [25486-janes-zoo.json](./25486-janes-zoo.json) |
 | Jane`s Hotel 2: Family Hero | 180092 | [180092-jane-s-hotel-2-family-hero.json](./180092-jane-s-hotel-2-family-hero.json) |
+| Janet DeMornay is a Slumlord (and a witch) | 262766 | [262766-janet-demornay-is-a-slumlord-and-a-witch.json](./262766-janet-demornay-is-a-slumlord-and-a-witch.json) |
 | Janet's Planets | 400672 | [400672-janets-planets.json](./400672-janets-planets.json) |
 | Jang Pung 3 | 64793 | [64793-jang-pung-3.json](./64793-jang-pung-3.json) |
 | Janga | 121629 | [121629-janga.json](./121629-janga.json) |
