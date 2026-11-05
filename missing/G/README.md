@@ -3133,6 +3133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeoCoach | 424677 | [424677-geocoach.json](./424677-geocoach.json) |
 | Geocore | 35654 | [35654-geocore.json](./35654-geocore.json) |
 | Geocraft | 388241 | [388241-geocraft.json](./388241-geocraft.json) |
+| Geode Climb | 261592 | [261592-geode-climb.json](./261592-geode-climb.json) |
 | geoDefence Swarm | 23254 | [23254-geodefence-swarm.json](./23254-geodefence-swarm.json) |
 | geoDefense | 90909 | [90909-geodefense.json](./90909-geodefense.json) |
 | GeoDefense Swarm | 41499 | [41499-geodefense-swarm.json](./41499-geodefense-swarm.json) |
