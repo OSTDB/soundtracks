@@ -10737,6 +10737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hustle: Detroit Streets | 73266 | [73266-the-hustle-detroit-streets.json](./73266-the-hustle-detroit-streets.json) |
 | The Hustlers | 306412 | [306412-the-hustlers.json](./306412-the-hustlers.json) |
 | The Hydra | 194230 | [194230-the-hydra.json](./194230-the-hydra.json) |
+| The Hydra Experiment | 275369 | [275369-the-hydra-experiment.json](./275369-the-hydra-experiment.json) |
 | The Hypnic Chain | 336729 | [336729-the-hypnic-chain.json](./336729-the-hypnic-chain.json) |
 | The Hypno Shop | 228364 | [228364-the-hypno-shop.json](./228364-the-hypno-shop.json) |
 | The I of It | 225292 | [225292-the-i-of-it.json](./225292-the-i-of-it.json) |
@@ -11096,6 +11097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jackbox Party Trilogy 3.0 | 251098 | [251098-the-jackbox-party-trilogy-3-0.json](./251098-the-jackbox-party-trilogy-3-0.json) |
 | The Jade Stone | 67698 | [67698-the-jade-stone.json](./67698-the-jade-stone.json) |
 | The Jak and Daxter Bundle | 76868 | [76868-the-jak-and-daxter-bundle.json](./76868-the-jak-and-daxter-bundle.json) |
+| The Janitor | 275402 | [275402-the-janitor.json](./275402-the-janitor.json) |
 | The Janitor | 32006 | [32006-the-janitor.json](./32006-the-janitor.json) |
 | The Japanese Calligraphy | 321854 | [321854-the-japanese-calligraphy.json](./321854-the-japanese-calligraphy.json) |
 | The Jeffy Game | 244891 | [244891-the-jeffy-game.json](./244891-the-jeffy-game.json) |
@@ -11560,6 +11562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kwanstone Project | 214751 | [214751-the-kwanstone-project.json](./214751-the-kwanstone-project.json) |
 | The Kynge's Gambit | 211710 | [211710-the-kynges-gambit.json](./211710-the-kynges-gambit.json) |
 | The L.E.D. Wars | 14198 | [14198-the-l-e-d-wars.json](./14198-the-l-e-d-wars.json) |
+| The Lab and Dungeons | 275403 | [275403-the-lab-and-dungeons.json](./275403-the-lab-and-dungeons.json) |
 | The Lab Thing | 267813 | [267813-the-lab-thing.json](./267813-the-lab-thing.json) |
 | The Lab: Escape Room | 204847 | [204847-the-lab-escape-room.json](./204847-the-lab-escape-room.json) |
 | The Labyrinth | 312740 | [312740-the-labyrinth.json](./312740-the-labyrinth.json) |
@@ -13121,6 +13124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lucky Acre | 409026 | [409026-the-lucky-acre.json](./409026-the-lucky-acre.json) |
 | The Lucky Stray Cat | 386824 | [386824-the-lucky-stray-cat.json](./386824-the-lucky-stray-cat.json) |
 | The Luffman Experiment | 407561 | [407561-the-luffman-experiment.json](./407561-the-luffman-experiment.json) |
+| The Lumenites | 275367 | [275367-the-lumenites.json](./275367-the-lumenites.json) |
 | The Luminist | 120972 | [120972-the-luminist.json](./120972-the-luminist.json) |
 | The Lunar Effect | 144746 | [144746-the-lunar-effect.json](./144746-the-lunar-effect.json) |
 | The Lunar Pack | 25502 | [25502-the-lunar-pack.json](./25502-the-lunar-pack.json) |
@@ -14991,6 +14995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quiet Apocalypse | 181087 | [181087-the-quiet-apocalypse.json](./181087-the-quiet-apocalypse.json) |
 | The Quiet Collection | 59887 | [59887-the-quiet-collection.json](./59887-the-quiet-collection.json) |
 | The Quiet Days of Dorothy | 391324 | [391324-the-quiet-days-of-dorothy.json](./391324-the-quiet-days-of-dorothy.json) |
+| The Quiet Execution | 275411 | [275411-the-quiet-execution.json](./275411-the-quiet-execution.json) |
 | The Quiet Flat | 416368 | [416368-the-quiet-flat.json](./416368-the-quiet-flat.json) |
 | The Quiet Lonely House | 186264 | [186264-the-quiet-lonely-house.json](./186264-the-quiet-lonely-house.json) |
 | The Quiet Man | 103313 | [103313-the-quiet-man.json](./103313-the-quiet-man.json) |
@@ -16836,6 +16841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Strongest Ancestor | 301614 | [301614-the-strongest-ancestor.json](./301614-the-strongest-ancestor.json) |
 | The Stronghold Collection | 27858 | [27858-the-stronghold-collection.json](./27858-the-stronghold-collection.json) |
 | The Strongholds of Silberland | 183446 | [183446-the-strongholds-of-silberland.json](./183446-the-strongholds-of-silberland.json) |
+| The Structureworld: Myths of Skull Island | 275379 | [275379-the-structureworld-myths-of-skull-island.json](./275379-the-structureworld-myths-of-skull-island.json) |
 | The Struggle | 62022 | [62022-the-struggle.json](./62022-the-struggle.json) |
 | The Struggle For Russia | 66441 | [66441-the-struggle-for-russia.json](./66441-the-struggle-for-russia.json) |
 | The Struggle of Combat | 145338 | [145338-the-struggle-of-combat.json](./145338-the-struggle-of-combat.json) |
@@ -20413,6 +20419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tick, Tank, Boom | 235867 | [235867-tick-tank-boom.json](./235867-tick-tank-boom.json) |
 | Tick: The Time Based Puzzle Game | 34794 | [34794-tick-the-time-based-puzzle-game.json](./34794-tick-the-time-based-puzzle-game.json) |
 | Ticker | 338965 | [338965-ticker.json](./338965-ticker.json) |
+| Ticker Tape | 275401 | [275401-ticker-tape.json](./275401-ticker-tape.json) |
 | Ticket | 30271 | [30271-ticket.json](./30271-ticket.json) |
 | Ticket to Earth | 38757 | [38757-ticket-to-earth.json](./38757-ticket-to-earth.json) |
 | Ticket to Heart | 400185 | [400185-ticket-to-heart.json](./400185-ticket-to-heart.json) |
@@ -26115,6 +26122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tour de France 2024: Cycling Kit Pack | 316373 | [316373-tour-de-france-2024-cycling-kit-pack.json](./316373-tour-de-france-2024-cycling-kit-pack.json) |
 | Tour de France 2025 | 336720 | [336720-tour-de-france-2025.json](./336720-tour-de-france-2025.json) |
 | Tour Du Monde | 277715 | [277715-tour-du-monde.json](./277715-tour-du-monde.json) |
+| Tour Manager: Secret Stories | 275365 | [275365-tour-manager-secret-stories.json](./275365-tour-manager-secret-stories.json) |
 | Tour of Duty | 259426 | [259426-tour-of-duty.json](./259426-tour-of-duty.json) |
 | Tour of Duty | 59307 | [59307-tour-of-duty.json](./59307-tour-of-duty.json) |
 | Tour of Neverland | 146886 | [146886-tour-of-neverland.json](./146886-tour-of-neverland.json) |
