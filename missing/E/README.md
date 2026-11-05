@@ -7919,6 +7919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explosive Snooker | 188852 | [188852-explosive-snooker.json](./188852-explosive-snooker.json) |
 | Explosive Track | 226672 | [226672-explosive-track.json](./226672-explosive-track.json) |
 | Explosiver | 192227 | [192227-explosiver.json](./192227-explosiver.json) |
+| Explottens: Rise of K.L.A.W | 247813 | [247813-explottens-rise-of-k-l-a-w.json](./247813-explottens-rise-of-k-l-a-w.json) |
 | Explottens: The time is meow! | 36933 | [36933-explottens-the-time-is-meow.json](./36933-explottens-the-time-is-meow.json) |
 | Expo 2020 | 174900 | [174900-expo-2020.json](./174900-expo-2020.json) |
 | Expo. Decay | 185318 | [185318-expo-decay.json](./185318-expo-decay.json) |
