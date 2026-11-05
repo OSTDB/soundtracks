@@ -5997,6 +5997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deliwhere? | 424617 | [424617-deliwhere.json](./424617-deliwhere.json) |
 | Delores: A Thimbleweed Park Mini-Adventure | 134408 | [134408-delores-a-thimbleweed-park-mini-adventure.json](./134408-delores-a-thimbleweed-park-mini-adventure.json) |
 | Delos: Space Traffic Control | 339299 | [339299-delos-space-traffic-control.json](./339299-delos-space-traffic-control.json) |
+| Delphine Software Collection 1 | 251897 | [251897-delphine-software-collection-1.json](./251897-delphine-software-collection-1.json) |
 | Delphine's Discovery | 177360 | [177360-delphines-discovery.json](./177360-delphines-discovery.json) |
 | Delphinia Chronicle | 40846 | [40846-delphinia-chronicle.json](./40846-delphinia-chronicle.json) |
 | Delphinium | 394603 | [394603-delphinium.json](./394603-delphinium.json) |
@@ -9799,6 +9800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Racing | 49177 | [49177-dirty-racing.json](./49177-dirty-racing.json) |
 | Dirty Room | 241854 | [241854-dirty-room.json](./241854-dirty-room.json) |
 | Dirty Room: Chapter 4 | 246843 | [246843-dirty-room-chapter-4.json](./246843-dirty-room-chapter-4.json) |
+| Dirty Room: Chapter 5 | 251896 | [251896-dirty-room-chapter-5.json](./251896-dirty-room-chapter-5.json) |
 | Dirty Room: Chapter 6 | 255494 | [255494-dirty-room-chapter-6.json](./255494-dirty-room-chapter-6.json) |
 | Dirty Room: Chapter 7 & 8 | 261380 | [261380-dirty-room-chapter-7-and-8.json](./261380-dirty-room-chapter-7-and-8.json) |
 | Dirty Room: Chapter 9 | 273505 | [273505-dirty-room-chapter-9.json](./273505-dirty-room-chapter-9.json) |
@@ -9856,6 +9858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DisasterFire | 394180 | [394180-disasterfire.json](./394180-disasterfire.json) |
 | Disasteroids 3D | 94945 | [94945-disasteroids-3d.json](./94945-disasteroids-3d.json) |
 | DisasterPR+ | 392484 | [392484-disasterpr.json](./392484-disasterpr.json) |
+| Disasters Escape: The Island | 251932 | [251932-disasters-escape-the-island.json](./251932-disasters-escape-the-island.json) |
 | Disastles Online | 398593 | [398593-disastles-online.json](./398593-disastles-online.json) |
 | Disastr_Blastr | 33839 | [33839-disastr-blastr.json](./33839-disastr-blastr.json) |
 | Disbelief | 354417 | [354417-disbelief.json](./354417-disbelief.json) |
@@ -18303,6 +18306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons: Tiny Adventures | 368742 | [368742-dungeons-and-dragons-tiny-adventures.json](./368742-dungeons-and-dragons-tiny-adventures.json) |
 | Dungeons & Dragons: Tower of Doom | 39328 | [39328-dungeons-and-dragons-tower-of-doom.json](./39328-dungeons-and-dragons-tower-of-doom.json) |
 | Dungeons & Drivers | 332842 | [332842-dungeons-and-drivers.json](./332842-dungeons-and-drivers.json) |
+| Dungeons & Dropped Things | 251906 | [251906-dungeons-and-dropped-things.json](./251906-dungeons-and-dropped-things.json) |
 | Dungeons & Dummies | 408190 | [408190-dungeons-and-dummies.json](./408190-dungeons-and-dummies.json) |
 | Dungeons & Furries | 310486 | [310486-dungeons-and-furries.json](./310486-dungeons-and-furries.json) |
 | Dungeons & Geese | 51855 | [51855-dungeons-and-geese.json](./51855-dungeons-and-geese.json) |
