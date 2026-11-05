@@ -9204,6 +9204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short Trip | 324905 | [324905-short-trip.json](./324905-short-trip.json) |
 | Short Warp: Deep Space Bounty | 261832 | [261832-short-warp-deep-space-bounty.json](./261832-short-warp-deep-space-bounty.json) |
 | Shortcircuit | 424685 | [424685-shortcircuit.json](./424685-shortcircuit.json) |
+| ShortCircuit | 254201 | [254201-shortcircuit.json](./254201-shortcircuit.json) |
 | Shortcut Run | 318265 | [318265-shortcut-run.json](./318265-shortcut-run.json) |
 | Shortest Trip to Earth | 108656 | [108656-shortest-trip-to-earth.json](./108656-shortest-trip-to-earth.json) |
 | Shortest Trip to Earth: The Old Enemies | 154610 | [154610-shortest-trip-to-earth-the-old-enemies.json](./154610-shortest-trip-to-earth-the-old-enemies.json) |
@@ -19312,7 +19313,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -24620,6 +24620,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarFence: Heroic Edition | 35498 | [35498-starfence-heroic-edition.json](./35498-starfence-heroic-edition.json) |
 | Starfend | 268962 | [268962-starfend.json](./268962-starfend.json) |
 | Starfield Digipick-Locking Minigame Simulator | 269304 | [269304-starfield-digipick-locking-minigame-simulator.json](./269304-starfield-digipick-locking-minigame-simulator.json) |
+| Starfield: Constellation Edition | 254216 | [254216-starfield-constellation-edition.json](./254216-starfield-constellation-edition.json) |
+| Starfield: Premium Edition | 254215 | [254215-starfield-premium-edition.json](./254215-starfield-premium-edition.json) |
 | Starfield: Rev-8 | 314267 | [314267-starfield-rev-8.json](./314267-starfield-rev-8.json) |
 | Starfield: Shattered Space | 263480 | [263480-starfield-shattered-space.json](./263480-starfield-shattered-space.json) |
 | Starfield: Terran Armada | 395172 | [395172-starfield-terran-armada.json](./395172-starfield-terran-armada.json) |
@@ -26703,6 +26705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stonedef | 202530 | [202530-stonedef.json](./202530-stonedef.json) |
 | Stonefall | 416058 | [416058-stonefall.json](./416058-stonefall.json) |
 | Stonefly | 144171 | [144171-stonefly.json](./144171-stonefly.json) |
+| Stonefly: Collector's Edition | 254225 | [254225-stonefly-collectors-edition.json](./254225-stonefly-collectors-edition.json) |
 | Stonegate | 270213 | [270213-stonegate.json](./270213-stonegate.json) |
 | Stonegeon | 200872 | [200872-stonegeon.json](./200872-stonegeon.json) |
 | Stoneguard | 285983 | [285983-stoneguard.json](./285983-stoneguard.json) |
