@@ -11231,6 +11231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Exchange Craze | 275356 | [275356-coin-exchange-craze.json](./275356-coin-exchange-craze.json) |
 | Coin Factory | 312885 | [312885-coin-factory.json](./312885-coin-factory.json) |
 | Coin Factory Idle: Money Games | 249312 | [249312-coin-factory-idle-money-games.json](./249312-coin-factory-idle-money-games.json) |
+| Coin Fall | 269918 | [269918-coin-fall.json](./269918-coin-fall.json) |
 | Coin Flipper | 219741 | [219741-coin-flipper.json](./219741-coin-flipper.json) |
 | Coin Germs | 201989 | [201989-coin-germs.json](./201989-coin-germs.json) |
 | Coin Grid | 221374 | [221374-coin-grid.json](./221374-coin-grid.json) |
