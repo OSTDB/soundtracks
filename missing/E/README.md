@@ -3326,6 +3326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EmyLiveShow: Demons and Mistresses Tale | 385111 | [385111-emyliveshow-demons-and-mistresses-tale.json](./385111-emyliveshow-demons-and-mistresses-tale.json) |
 | EmyLiveShow: Hentai Puzzle Game | 264774 | [264774-emyliveshow-hentai-puzzle-game.json](./264774-emyliveshow-hentai-puzzle-game.json) |
 | EmyLiveShow: King of Desires | 356959 | [356959-emyliveshow-king-of-desires.json](./356959-emyliveshow-king-of-desires.json) |
+| EmyLiveShow: S&M Story - Safe Edition | 294093 | [294093-emyliveshow-s-and-m-story-safe-edition.json](./294093-emyliveshow-s-and-m-story-safe-edition.json) |
 | Emzombed | 267473 | [267473-emzombed.json](./267473-emzombed.json) |
 | En Campaña | 262267 | [262267-en-campana.json](./262267-en-campana.json) |
 | En Passant | 234059 | [234059-en-passant.json](./234059-en-passant.json) |
@@ -4788,6 +4789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erotic Dream Puzzle | 312696 | [312696-erotic-dream-puzzle.json](./312696-erotic-dream-puzzle.json) |
 | Erotic Dungeon Survival | 82829 | [82829-erotic-dungeon-survival.json](./82829-erotic-dungeon-survival.json) |
 | Erotic Fiction for Cyberpunk Sex | 288244 | [288244-erotic-fiction-for-cyberpunk-sex.json](./288244-erotic-fiction-for-cyberpunk-sex.json) |
+| Erotic Fiction for Fuck in Police | 294086 | [294086-erotic-fiction-for-fuck-in-police.json](./294086-erotic-fiction-for-fuck-in-police.json) |
 | Erotic Fiction for Sex Motel | 288887 | [288887-erotic-fiction-for-sex-motel.json](./288887-erotic-fiction-for-sex-motel.json) |
 | Erotic Jigsaw Challenge Vol 2 | 106541 | [106541-erotic-jigsaw-challenge-vol-2.json](./106541-erotic-jigsaw-challenge-vol-2.json) |
 | Erotic Jigsaw Puzzle | 156644 | [156644-erotic-jigsaw-puzzle.json](./156644-erotic-jigsaw-puzzle.json) |
