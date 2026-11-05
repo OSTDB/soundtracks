@@ -323,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Had a Plan! | 245780 | [245780-i-had-a-plan.json](./245780-i-had-a-plan.json) |
 | I Had Another Dream About You Last Night | 142403 | [142403-i-had-another-dream-about-you-last-night.json](./142403-i-had-another-dream-about-you-last-night.json) |
 | I Had the Strangest Dream, Ivan | 201327 | [201327-i-had-the-strangest-dream-ivan.json](./201327-i-had-the-strangest-dream-ivan.json) |
+| I Hate (other) Animals! | 251937 | [251937-i-hate-other-animals.json](./251937-i-hate-other-animals.json) |
 | I Hate Colors | 256128 | [256128-i-hate-colors.json](./256128-i-hate-colors.json) |
 | I Hate Heroes | 98988 | [98988-i-hate-heroes.json](./98988-i-hate-heroes.json) |
 | I hate it here | 184864 | [184864-i-hate-it-here.json](./184864-i-hate-it-here.json) |
@@ -2543,6 +2544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impawlse | 303575 | [303575-impawlse.json](./303575-impawlse.json) |
 | Impeached 2 | 253921 | [253921-impeached-2.json](./253921-impeached-2.json) |
 | Impeached! | 179611 | [179611-impeached.json](./179611-impeached.json) |
+| Impeachment Survivors | 251891 | [251891-impeachment-survivors.json](./251891-impeachment-survivors.json) |
 | Imperator | 67799 | [67799-imperator.json](./67799-imperator.json) |
 | Imperator with nothing to do | 285357 | [285357-imperator-with-nothing-to-do.json](./285357-imperator-with-nothing-to-do.json) |
 | Imperator: Invictus | 356069 | [356069-imperator-invictus.json](./356069-imperator-invictus.json) |
