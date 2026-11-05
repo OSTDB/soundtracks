@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Mania | 284472 | [284472-pac-mania.json](./284472-pac-mania.json) |
 | Pac-Mania | 284473 | [284473-pac-mania.json](./284473-pac-mania.json) |
 | Pac-Mania | 284474 | [284474-pac-mania.json](./284474-pac-mania.json) |
+| Pac-Mania | 284632 | [284632-pac-mania.json](./284632-pac-mania.json) |
 | Pac-Mania | 299838 | [299838-pac-mania.json](./299838-pac-mania.json) |
 | Pac-Mazing | 185304 | [185304-pac-mazing.json](./185304-pac-mazing.json) |
 | Pac-Mondrian | 174791 | [174791-pac-mondrian.json](./174791-pac-mondrian.json) |
@@ -958,6 +959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palliative: Reach for an Angel | 191194 | [191194-palliative-reach-for-an-angel.json](./191194-palliative-reach-for-an-angel.json) |
 | Pallurikio | 67222 | [67222-pallurikio.json](./67222-pallurikio.json) |
 | Palm Cracker | 333625 | [333625-palm-cracker.json](./333625-palm-cracker.json) |
+| Palm House Pursuit | 284706 | [284706-palm-house-pursuit.json](./284706-palm-house-pursuit.json) |
 | Palm Kingdoms 2 Deluxe | 54260 | [54260-palm-kingdoms-2-deluxe.json](./54260-palm-kingdoms-2-deluxe.json) |
 | Palm Paradise Garden | 289280 | [289280-palm-paradise-garden.json](./289280-palm-paradise-garden.json) |
 | Palm Reading Premium | 111056 | [111056-palm-reading-premium.json](./111056-palm-reading-premium.json) |
@@ -1090,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda: Eats, Shoots and Leaves | 295519 | [295519-panda-eats-shoots-and-leaves.json](./295519-panda-eats-shoots-and-leaves.json) |
 | Panda: Go Home! | 389760 | [389760-panda-go-home.json](./389760-panda-go-home.json) |
 | Panda? | 287715 | [287715-panda.json](./287715-panda.json) |
+| Panda's Big Adventure | 284724 | [284724-pandas-big-adventure.json](./284724-pandas-big-adventure.json) |
 | Panda's Village | 241886 | [241886-pandas-village.json](./241886-pandas-village.json) |
 | PandaBomber | 367559 | [367559-pandabomber.json](./367559-pandabomber.json) |
 | Pandaclip: The Black Thief | 296763 | [296763-pandaclip-the-black-thief.json](./296763-pandaclip-the-black-thief.json) |
