@@ -6169,6 +6169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemy of the Earth | 288750 | [288750-alchemy-of-the-earth.json](./288750-alchemy-of-the-earth.json) |
 | Alchemy Origin | 273611 | [273611-alchemy-origin.json](./273611-alchemy-origin.json) |
 | Alchemy Pipes Puzzle | 297727 | [297727-alchemy-pipes-puzzle.json](./297727-alchemy-pipes-puzzle.json) |
+| Alchemy Poipoi SS | 257733 | [257733-alchemy-poipoi-ss.json](./257733-alchemy-poipoi-ss.json) |
 | Alchemy Quest | 135904 | [135904-alchemy-quest.json](./135904-alchemy-quest.json) |
 | Alchemy Stars | 144849 | [144849-alchemy-stars.json](./144849-alchemy-stars.json) |
 | Alchemy Story | 116544 | [116544-alchemy-story.json](./116544-alchemy-story.json) |
@@ -9795,6 +9796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Express | 386404 | [386404-animal-express.json](./386404-animal-express.json) |
 | Animal Falling | 293089 | [293089-animal-falling.json](./293089-animal-falling.json) |
 | Animal Farm Jigsaw Games for Toddlers, Babys and Kids | 295265 | [295265-animal-farm-jigsaw-games-for-toddlers-babys-and-kids.json](./295265-animal-farm-jigsaw-games-for-toddlers-babys-and-kids.json) |
+| Animal Farm Parking | 257732 | [257732-animal-farm-parking.json](./257732-animal-farm-parking.json) |
 | Animal Farm Parking: Deluxe Edition | 263621 | [263621-animal-farm-parking-deluxe-edition.json](./263621-animal-farm-parking-deluxe-edition.json) |
 | Animal Farm Parking: Extended Edition | 283156 | [283156-animal-farm-parking-extended-edition.json](./283156-animal-farm-parking-extended-edition.json) |
 | Animal Farmland | 312652 | [312652-animal-farmland.json](./312652-animal-farmland.json) |
@@ -15420,6 +15422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Turret Defender VR | 112821 | [112821-asteroid-turret-defender-vr.json](./112821-asteroid-turret-defender-vr.json) |
 | Asteroid Wars | 116328 | [116328-asteroid-wars.json](./116328-asteroid-wars.json) |
 | Asteroid-Hunter | 103220 | [103220-asteroid-hunter.json](./103220-asteroid-hunter.json) |
+| Asteroidc | 257708 | [257708-asteroidc.json](./257708-asteroidc.json) |
 | Asteróide | 289202 | [289202-asteroide.json](./289202-asteroide.json) |
 | Asteroidea | 139000 | [139000-asteroidea.json](./139000-asteroidea.json) |
 | Asteroides | 186690 | [186690-asteroides.json](./186690-asteroides.json) |
@@ -16372,6 +16375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
