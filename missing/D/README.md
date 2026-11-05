@@ -4232,6 +4232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dealer's Life | 114063 | [114063-dealers-life.json](./114063-dealers-life.json) |
 | Dealer's Life 2 | 139339 | [139339-dealers-life-2.json](./139339-dealers-life-2.json) |
 | Dealer's Life Legend | 226502 | [226502-dealers-life-legend.json](./226502-dealers-life-legend.json) |
+| Dealership Simulator | 250737 | [250737-dealership-simulator.json](./250737-dealership-simulator.json) |
 | Dealey Plaza Paintball | 59863 | [59863-dealey-plaza-paintball.json](./59863-dealey-plaza-paintball.json) |
 | Dealmaster | 391097 | [391097-dealmaster.json](./391097-dealmaster.json) |
 | Deals With Witch | 303465 | [303465-deals-with-witch.json](./303465-deals-with-witch.json) |
@@ -7878,6 +7879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devices Tycoon | 301230 | [301230-devices-tycoon.json](./301230-devices-tycoon.json) |
 | Devidicon | 400459 | [400459-devidicon.json](./400459-devidicon.json) |
 | Deviens Miss France | 269745 | [269745-deviens-miss-france.json](./269745-deviens-miss-france.json) |
+| Devil Apartment | 250745 | [250745-devil-apartment.json](./250745-devil-apartment.json) |
 | Devil Assault | 41197 | [41197-devil-assault.json](./41197-devil-assault.json) |
 | Devil Band: Rock the Underworld | 85079 | [85079-devil-band-rock-the-underworld.json](./85079-devil-band-rock-the-underworld.json) |
 | Devil Bartender | 192606 | [192606-devil-bartender.json](./192606-devil-bartender.json) |
