@@ -3189,6 +3189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: P-51D Mustang | 156312 | [156312-dcs-world-p-51d-mustang.json](./156312-dcs-world-p-51d-mustang.json) |
 | DCS World: P-51D Mustang - Operation Charnwood Campaign | 156297 | [156297-dcs-world-p-51d-mustang-operation-charnwood-campaign.json](./156297-dcs-world-p-51d-mustang-operation-charnwood-campaign.json) |
 | DCS World: Persian Gulf | 156309 | [156309-dcs-world-persian-gulf.json](./156309-dcs-world-persian-gulf.json) |
+| DCS World: Sinai Map | 252516 | [252516-dcs-world-sinai-map.json](./252516-dcs-world-sinai-map.json) |
 | DCS World: South Atlantic | 205076 | [205076-dcs-world-south-atlantic.json](./205076-dcs-world-south-atlantic.json) |
 | DCS World: Spitfire - Epsom Campaign | 170168 | [170168-dcs-world-spitfire-epsom-campaign.json](./170168-dcs-world-spitfire-epsom-campaign.json) |
 | DCS World: Spitfire Beware! Beware! Campaign by Reflected Simulations | 325541 | [325541-dcs-world-spitfire-beware-beware-campaign-by-reflected-simulations.json](./325541-dcs-world-spitfire-beware-beware-campaign-by-reflected-simulations.json) |
@@ -3357,6 +3358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Left Behind | 129398 | [129398-dead-by-daylight-left-behind.json](./129398-dead-by-daylight-left-behind.json) |
 | Dead by Daylight: Macabre Tales Pack | 283186 | [283186-dead-by-daylight-macabre-tales-pack.json](./283186-dead-by-daylight-macabre-tales-pack.json) |
 | Dead by Daylight: Maddening Darkness Pack | 285698 | [285698-dead-by-daylight-maddening-darkness-pack.json](./285698-dead-by-daylight-maddening-darkness-pack.json) |
+| Dead by Daylight: Nicolas Cage | 252477 | [252477-dead-by-daylight-nicolas-cage.json](./252477-dead-by-daylight-nicolas-cage.json) |
 | Dead by Daylight: Of Flesh and Mud Chapter | 76222 | [76222-dead-by-daylight-of-flesh-and-mud-chapter.json](./76222-dead-by-daylight-of-flesh-and-mud-chapter.json) |
 | Dead by Daylight: Old Wounds Pack | 283185 | [283185-dead-by-daylight-old-wounds-pack.json](./283185-dead-by-daylight-old-wounds-pack.json) |
 | Dead by Daylight: Resident Evil - Carlos Oliveira | 358420 | [358420-dead-by-daylight-resident-evil-carlos-oliveira.json](./358420-dead-by-daylight-resident-evil-carlos-oliveira.json) |
@@ -17626,6 +17628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Adventure Gang | 272371 | [272371-dungeon-adventure-gang.json](./272371-dungeon-adventure-gang.json) |
 | Dungeon Adventure Island | 282168 | [282168-dungeon-adventure-island.json](./282168-dungeon-adventure-island.json) |
 | Dungeon Amanojaku | 204675 | [204675-dungeon-amanojaku.json](./204675-dungeon-amanojaku.json) |
+| Dungeon and Craft | 252517 | [252517-dungeon-and-craft.json](./252517-dungeon-and-craft.json) |
 | Dungeon And Darkness | 332562 | [332562-dungeon-and-darkness.json](./332562-dungeon-and-darkness.json) |
 | Dungeon and Puzzles | 142267 | [142267-dungeon-and-puzzles.json](./142267-dungeon-and-puzzles.json) |
 | Dungeon Antiqua | 318329 | [318329-dungeon-antiqua.json](./318329-dungeon-antiqua.json) |
@@ -17910,6 +17913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Munchies | 114484 | [114484-dungeon-munchies.json](./114484-dungeon-munchies.json) |
 | Dungeon Munchies: Collector's Edition | 289355 | [289355-dungeon-munchies-collectors-edition.json](./289355-dungeon-munchies-collectors-edition.json) |
 | Dungeon Munchies: Deluxe Edition | 300483 | [300483-dungeon-munchies-deluxe-edition.json](./300483-dungeon-munchies-deluxe-edition.json) |
+| Dungeon Mutation | 252518 | [252518-dungeon-mutation.json](./252518-dungeon-mutation.json) |
 | Dungeon Mutt | 386236 | [386236-dungeon-mutt.json](./386236-dungeon-mutt.json) |
 | Dungeon ni Seisoku Da! | 381695 | [381695-dungeon-ni-seisoku-da.json](./381695-dungeon-ni-seisoku-da.json) |
 | Dungeon Nightmares | 57070 | [57070-dungeon-nightmares.json](./57070-dungeon-nightmares.json) |
