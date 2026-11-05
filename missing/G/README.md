@@ -2179,7 +2179,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GateTail | 249015 | [249015-gatetail.json](./249015-gatetail.json) |
 | Gatewalkers | 121384 | [121384-gatewalkers.json](./121384-gatewalkers.json) |
 | Gateway | 248204 | [248204-gateway.json](./248204-gateway.json) |
+| Gateway I | 281186 | [281186-gateway-i.json](./281186-gateway-i.json) |
+| Gateway II | 281196 | [281196-gateway-ii.json](./281196-gateway-ii.json) |
 | Gateway II: Homeworld | 51391 | [51391-gateway-ii-homeworld.json](./51391-gateway-ii-homeworld.json) |
+| Gateway III | 281199 | [281199-gateway-iii.json](./281199-gateway-iii.json) |
 | Gateway to Apshai | 23311 | [23311-gateway-to-apshai.json](./23311-gateway-to-apshai.json) |
 | Gateway to English: Eigo de Go! | 245313 | [245313-gateway-to-english-eigo-de-go.json](./245313-gateway-to-english-eigo-de-go.json) |
 | Gateway to Hell | 14089 | [14089-gateway-to-hell.json](./14089-gateway-to-hell.json) |
@@ -7732,6 +7735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Slam Bridge II | 74004 | [74004-grand-slam-bridge-ii.json](./74004-grand-slam-bridge-ii.json) |
 | Grand Slam Rally | 137908 | [137908-grand-slam-rally.json](./137908-grand-slam-rally.json) |
 | Grand Slam Tennis | 149301 | [149301-grand-slam-tennis.json](./149301-grand-slam-tennis.json) |
+| Grand Slam Tennis | 281213 | [281213-grand-slam-tennis.json](./281213-grand-slam-tennis.json) |
 | Grand Slam Tennis | 4894 | [4894-grand-slam-tennis.json](./4894-grand-slam-tennis.json) |
 | Grand Slam Tennis 2 | 7002 | [7002-grand-slam-tennis-2.json](./7002-grand-slam-tennis-2.json) |
 | Grand Slam Turkey Hunt | 46951 | [46951-grand-slam-turkey-hunt.json](./46951-grand-slam-turkey-hunt.json) |
@@ -9671,6 +9675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Home & Grow Up | 354503 | [354503-grow-home-and-grow-up.json](./354503-grow-home-and-grow-up.json) |
 | Grow in the Hole | 178275 | [178275-grow-in-the-hole.json](./178275-grow-in-the-hole.json) |
 | Grow Island | 78848 | [78848-grow-island.json](./78848-grow-island.json) |
+| Grow Maze | 281204 | [281204-grow-maze.json](./281204-grow-maze.json) |
 | Grow Nano 3 | 198167 | [198167-grow-nano-3.json](./198167-grow-nano-3.json) |
 | Grow Planet | 142922 | [142922-grow-planet.json](./142922-grow-planet.json) |
 | Grow Recovery | 175835 | [175835-grow-recovery.json](./175835-grow-recovery.json) |
