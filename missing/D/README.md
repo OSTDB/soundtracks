@@ -2796,6 +2796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn's Light 3 | 324737 | [324737-dawns-light-3.json](./324737-dawns-light-3.json) |
 | Dawnbringer | 129604 | [129604-dawnbringer.json](./129604-dawnbringer.json) |
 | Dawncaster: Deckbuilding RPG | 175097 | [175097-dawncaster-deckbuilding-rpg.json](./175097-dawncaster-deckbuilding-rpg.json) |
+| DawnCraft | 272073 | [272073-dawncraft.json](./272073-dawncraft.json) |
 | Dawnfolk | 245754 | [245754-dawnfolk.json](./245754-dawnfolk.json) |
 | Dawngate | 11327 | [11327-dawngate.json](./11327-dawngate.json) |
 | Dawning Evil | 331088 | [331088-dawning-evil.json](./331088-dawning-evil.json) |
@@ -8654,6 +8655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Rowdy | 299766 | [299766-die-rowdy.json](./299766-die-rowdy.json) |
 | Die Sage von Nietoom | 92927 | [92927-die-sage-von-nietoom.json](./92927-die-sage-von-nietoom.json) |
 | Die schwarzen Reiter | 112896 | [112896-die-schwarzen-reiter.json](./112896-die-schwarzen-reiter.json) |
+| Die Scraper | 271981 | [271981-die-scraper.json](./271981-die-scraper.json) |
 | Die Siedler IV: Community Pack | 255533 | [255533-die-siedler-iv-community-pack.json](./255533-die-siedler-iv-community-pack.json) |
 | Die Siedler IV: Die Neue Welt | 255532 | [255532-die-siedler-iv-die-neue-welt.json](./255532-die-siedler-iv-die-neue-welt.json) |
 | Die Stadt der Löwen | 99696 | [99696-die-stadt-der-lowen.json](./99696-die-stadt-der-lowen.json) |
