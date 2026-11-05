@@ -4738,6 +4738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Dentist Office | 87539 | [87539-pet-dentist-office.json](./87539-pet-dentist-office.json) |
 | Pet Desktop Adventure | 373868 | [373868-pet-desktop-adventure.json](./373868-pet-desktop-adventure.json) |
 | Pet Dog | 178682 | [178682-pet-dog.json](./178682-pet-dog.json) |
+| Pet Dog | 247268 | [247268-pet-dog.json](./247268-pet-dog.json) |
 | Pet Dragon Girl | 230892 | [230892-pet-dragon-girl.json](./230892-pet-dragon-girl.json) |
 | Pet Evolution | 174765 | [174765-pet-evolution.json](./174765-pet-evolution.json) |
 | Pet Furball | 180451 | [180451-pet-furball.json](./180451-pet-furball.json) |
@@ -6325,6 +6326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pika Pika Nurse Monogatari: Shounika ha Itsumo Oosawagi | 136932 | [136932-pika-pika-nurse-monogatari-shounika-ha-itsumo-oosawagi.json](./136932-pika-pika-nurse-monogatari-shounika-ha-itsumo-oosawagi.json) |
 | Pika Pop | 72165 | [72165-pika-pop.json](./72165-pika-pop.json) |
 | Pikabuu: Stop! | 357230 | [357230-pikabuu-stop.json](./357230-pikabuu-stop.json) |
+| Pikachu | 247269 | [247269-pikachu.json](./247269-pikachu.json) |
 | Pikachu Teeth Problem | 380551 | [380551-pikachu-teeth-problem.json](./380551-pikachu-teeth-problem.json) |
 | Pikachu Volleyball | 349641 | [349641-pikachu-volleyball.json](./349641-pikachu-volleyball.json) |
 | Pikari Walk | 230503 | [230503-pikari-walk.json](./230503-pikari-walk.json) |
@@ -7031,6 +7033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinchimono: The Videogame | 321898 | [321898-pinchimono-the-videogame.json](./321898-pinchimono-the-videogame.json) |
 | Pincremental | 138720 | [138720-pincremental.json](./138720-pincremental.json) |
 | Pincushion | 169371 | [169371-pincushion.json](./169371-pincushion.json) |
+| Pindable Crystal Ball | 247283 | [247283-pindable-crystal-ball.json](./247283-pindable-crystal-ball.json) |
 | Pindeavor | 208602 | [208602-pindeavor.json](./208602-pindeavor.json) |
 | Pine | 338225 | [338225-pine.json](./338225-pine.json) |
 | Pine Applin | 73441 | [73441-pine-applin.json](./73441-pine-applin.json) |
@@ -7087,6 +7090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping Ping | 32605 | [32605-ping-ping.json](./32605-ping-ping.json) |
 | Ping Pong | 246273 | [246273-ping-pong.json](./246273-ping-pong.json) |
 | Ping Pong | 247006 | [247006-ping-pong.json](./247006-ping-pong.json) |
+| Ping Pong | 247256 | [247256-ping-pong.json](./247256-ping-pong.json) |
 | Ping Pong | 343478 | [343478-ping-pong.json](./343478-ping-pong.json) |
 | Ping Pong | 358839 | [358839-ping-pong.json](./358839-ping-pong.json) |
 | Ping Pong | 359294 | [359294-ping-pong.json](./359294-ping-pong.json) |
@@ -10538,6 +10542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poké Floats: Melee | 324526 | [324526-poke-floats-melee.json](./324526-poke-floats-melee.json) |
 | Poke Genie | 103549 | [103549-poke-genie.json](./103549-poke-genie.json) |
 | Poke Mission 97 | 322761 | [322761-poke-mission-97.json](./322761-poke-mission-97.json) |
+| Poke Tetris | 247276 | [247276-poke-tetris.json](./247276-poke-tetris.json) |
 | Poke the Stray Cat | 221703 | [221703-poke-the-stray-cat.json](./221703-poke-the-stray-cat.json) |
 | Poke-Man | 25149 | [25149-poke-man.json](./25149-poke-man.json) |
 | Poke646 | 140318 | [140318-poke646.json](./140318-poke646.json) |
@@ -11549,6 +11554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PokéSmash | 191883 | [191883-pokesmash.json](./191883-pokesmash.json) |
 | PokéSnake | 171293 | [171293-pokesnake.json](./171293-pokesnake.json) |
 | Poket Legion | 371283 | [371283-poket-legion.json](./371283-poket-legion.json) |
+| Poket Man | 247257 | [247257-poket-man.json](./247257-poket-man.json) |
 | Poketale | 309973 | [309973-poketale.json](./309973-poketale.json) |
 | Poketan | 70064 | [70064-poketan.json](./70064-poketan.json) |
 | Pokete | 396974 | [396974-pokete.json](./396974-pokete.json) |
