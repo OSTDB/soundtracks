@@ -2673,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TauCeti Unknown Origin | 130911 | [130911-tauceti-unknown-origin.json](./130911-tauceti-unknown-origin.json) |
 | Taur | 128799 | [128799-taur.json](./128799-taur.json) |
 | Tauren maze | 164057 | [164057-tauren-maze.json](./164057-tauren-maze.json) |
+| Taurian Defense | 283433 | [283433-taurian-defense.json](./283433-taurian-defense.json) |
 | Tauriel Teaches Typing | 181883 | [181883-tauriel-teaches-typing.json](./181883-tauriel-teaches-typing.json) |
 | Taurion | 130594 | [130594-taurion.json](./130594-taurion.json) |
 | Tauronos | 50543 | [50543-tauronos.json](./50543-tauronos.json) |
@@ -4817,6 +4818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris | 221969 | [221969-tetris.json](./221969-tetris.json) |
 | Tetris | 270420 | [270420-tetris.json](./270420-tetris.json) |
 | Tetris | 280940 | [280940-tetris.json](./280940-tetris.json) |
+| Tetris | 283361 | [283361-tetris.json](./283361-tetris.json) |
 | Tetris | 287892 | [287892-tetris.json](./287892-tetris.json) |
 | Tetris | 310995 | [310995-tetris.json](./310995-tetris.json) |
 | Tetris | 326807 | [326807-tetris.json](./326807-tetris.json) |
