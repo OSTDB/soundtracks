@@ -2067,6 +2067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Chance | 16755 | [16755-once-chance.json](./16755-once-chance.json) |
 | Once Clover Died | 318845 | [318845-once-clover-died.json](./318845-once-clover-died.json) |
 | Once Ever After | 111467 | [111467-once-ever-after.json](./111467-once-ever-after.json) |
+| Once First-Person Adventure | 277633 | [277633-once-first-person-adventure.json](./277633-once-first-person-adventure.json) |
 | Once Heroes | 110031 | [110031-once-heroes.json](./110031-once-heroes.json) |
 | Once in a Blue Moon | 226163 | [226163-once-in-a-blue-moon.json](./226163-once-in-a-blue-moon.json) |
 | Once in a Lifetime | 209627 | [209627-once-in-a-lifetime.json](./209627-once-in-a-lifetime.json) |
