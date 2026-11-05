@@ -6398,6 +6398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | With the Addition of Markiplier | 159181 | [159181-with-the-addition-of-markiplier.json](./159181-with-the-addition-of-markiplier.json) |
 | With The Fire And Sword | 330885 | [330885-with-the-fire-and-sword.json](./330885-with-the-fire-and-sword.json) |
 | With the Last Moonbeam | 247121 | [247121-with-the-last-moonbeam.json](./247121-with-the-last-moonbeam.json) |
+| With Them: Frontlines | 258772 | [258772-with-them-frontlines.json](./258772-with-them-frontlines.json) |
 | With Those We Love Alive | 60718 | [60718-with-those-we-love-alive.json](./60718-with-those-we-love-alive.json) |
 | With You | 188710 | [188710-with-you.json](./188710-with-you.json) |
 | With You Forgotten from My Memory | 404043 | [404043-with-you-forgotten-from-my-memory.json](./404043-with-you-forgotten-from-my-memory.json) |
