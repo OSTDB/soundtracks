@@ -3147,6 +3147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart and Core | 295598 | [295598-heart-and-core.json](./295598-heart-and-core.json) |
 | Heart and Seoul | 30833 | [30833-heart-and-seoul.json](./30833-heart-and-seoul.json) |
 | Heart Attack | 252376 | [252376-heart-attack.json](./252376-heart-attack.json) |
+| Heart Beat Clue | 291808 | [291808-heart-beat-clue.json](./291808-heart-beat-clue.json) |
 | Heart Cage | 266875 | [266875-heart-cage.json](./266875-heart-cage.json) |
 | Heart Chain Kitty: All Screwed Up | 261969 | [261969-heart-chain-kitty-all-screwed-up.json](./261969-heart-chain-kitty-all-screwed-up.json) |
 | Heart Clicker | 304868 | [304868-heart-clicker.json](./304868-heart-clicker.json) |
@@ -9119,6 +9120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hondune's Truck Trials | 259070 | [259070-hondunes-truck-trials.json](./259070-hondunes-truck-trials.json) |
 | HoneHone Zaurus X: Chou Gattai! Build & Battle | 361604 | [361604-honehone-zaurus-x-chou-gattai-build-and-battle.json](./361604-honehone-zaurus-x-chou-gattai-build-and-battle.json) |
 | Honekawa Marionette | 333370 | [333370-honekawa-marionette.json](./333370-honekawa-marionette.json) |
+| Honest Hearts Reborn | 291923 | [291923-honest-hearts-reborn.json](./291923-honest-hearts-reborn.json) |
 | Honest Helper | 349324 | [349324-honest-helper.json](./349324-honest-helper.json) |
 | Honest Rod's Rollback Rally | 230718 | [230718-honest-rods-rollback-rally.json](./230718-honest-rods-rollback-rally.json) |
 | Honest War | 412353 | [412353-honest-war.json](./412353-honest-war.json) |
