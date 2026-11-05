@@ -6082,6 +6082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Belle's Beauty Boutique | 205120 | [205120-belles-beauty-boutique.json](./205120-belles-beauty-boutique.json) |
 | Bellfortis | 304712 | [304712-bellfortis.json](./304712-bellfortis.json) |
 | Bellhop | 244860 | [244860-bellhop.json](./244860-bellhop.json) |
+| Bellhop | 284714 | [284714-bellhop.json](./284714-bellhop.json) |
 | Belling Coins | 149441 | [149441-belling-coins.json](./149441-belling-coins.json) |
 | Bellini: The Mad Magician | 91447 | [91447-bellini-the-mad-magician.json](./91447-bellini-the-mad-magician.json) |
 | Bellocco | 411709 | [411709-bellocco.json](./411709-bellocco.json) |
