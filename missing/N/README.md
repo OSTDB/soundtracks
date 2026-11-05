@@ -2603,6 +2603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nephilim | 341366 | [341366-nephilim.json](./341366-nephilim.json) |
 | Nephilim Resurrection | 323233 | [323233-nephilim-resurrection.json](./323233-nephilim-resurrection.json) |
 | Nephilim Saga | 204793 | [204793-nephilim-saga.json](./204793-nephilim-saga.json) |
+| Nephilim Uprising | 291288 | [291288-nephilim-uprising.json](./291288-nephilim-uprising.json) |
 | Nephise | 29171 | [29171-nephise.json](./29171-nephise.json) |
 | Nephise Begins | 36469 | [36469-nephise-begins.json](./36469-nephise-begins.json) |
 | Nephise: Ascension | 88057 | [88057-nephise-ascension.json](./88057-nephise-ascension.json) |
@@ -7169,6 +7170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Pizza War | 63200 | [63200-nuclear-pizza-war.json](./63200-nuclear-pizza-war.json) |
 | Nuclear Plant 2024 | 308267 | [308267-nuclear-plant-2024.json](./308267-nuclear-plant-2024.json) |
 | Nuclear Platypus Adventure | 179141 | [179141-nuclear-platypus-adventure.json](./179141-nuclear-platypus-adventure.json) |
+| Nuclear Playground | 291273 | [291273-nuclear-playground.json](./291273-nuclear-playground.json) |
 | Nuclear Power Station Creator | 111595 | [111595-nuclear-power-station-creator.json](./111595-nuclear-power-station-creator.json) |
 | Nuclear Powered Toaster | 107484 | [107484-nuclear-powered-toaster.json](./107484-nuclear-powered-toaster.json) |
 | Nuclear Rancher | 110914 | [110914-nuclear-rancher.json](./110914-nuclear-rancher.json) |
