@@ -1220,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Li: Rise to Honor | 22281 | [22281-jet-li-rise-to-honor.json](./22281-jet-li-rise-to-honor.json) |
 | Jet Moto | 198779 | [198779-jet-moto.json](./198779-jet-moto.json) |
 | Jet Moto | 20717 | [20717-jet-moto.json](./20717-jet-moto.json) |
+| Jet Moto | 277654 | [277654-jet-moto.json](./277654-jet-moto.json) |
 | Jet Moto 2 | 287885 | [287885-jet-moto-2.json](./287885-jet-moto-2.json) |
 | Jet Moto 2 | 45214 | [45214-jet-moto-2.json](./45214-jet-moto-2.json) |
 | Jet Moto 3 | 45040 | [45040-jet-moto-3.json](./45040-jet-moto-3.json) |
@@ -1409,6 +1410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Mania | 360069 | [360069-jewel-mania.json](./360069-jewel-mania.json) |
 | Jewel Master | 222473 | [222473-jewel-master.json](./222473-jewel-master.json) |
 | Jewel Master | 246342 | [246342-jewel-master.json](./246342-jewel-master.json) |
+| Jewel Master | 277646 | [277646-jewel-master.json](./277646-jewel-master.json) |
 | Jewel Master | 4536 | [4536-jewel-master.json](./4536-jewel-master.json) |
 | Jewel Master 3 | 358906 | [358906-jewel-master-3.json](./358906-jewel-master-3.json) |
 | Jewel Master Atlantis 3D | 85205 | [85205-jewel-master-atlantis-3d.json](./85205-jewel-master-atlantis-3d.json) |
