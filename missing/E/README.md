@@ -4884,6 +4884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Error 44 | 214443 | [214443-error-44.json](./214443-error-44.json) |
 | Error Codes | 325654 | [325654-error-codes.json](./325654-error-codes.json) |
 | Error Loop | 329948 | [329948-error-loop.json](./329948-error-loop.json) |
+| Error Map not Found | 253698 | [253698-error-map-not-found.json](./253698-error-map-not-found.json) |
 | Error_Boy.exe | 276255 | [276255-error-boy-exe.json](./276255-error-boy-exe.json) |
 | Error: Ai.lien | 376274 | [376274-error-ai-lien.json](./376274-error-ai-lien.json) |
 | Error: Girlfriend Not Found | 406289 | [406289-error-girlfriend-not-found.json](./406289-error-girlfriend-not-found.json) |
@@ -5241,6 +5242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from the Princess | 108661 | [108661-escape-from-the-princess.json](./108661-escape-from-the-princess.json) |
 | Escape from the Pyramid | 56192 | [56192-escape-from-the-pyramid.json](./56192-escape-from-the-pyramid.json) |
 | Escape From the Red Planet | 224818 | [224818-escape-from-the-red-planet.json](./224818-escape-from-the-red-planet.json) |
+| Escape from the Room with my Kouhai | 253675 | [253675-escape-from-the-room-with-my-kouhai.json](./253675-escape-from-the-room-with-my-kouhai.json) |
 | Escape from the Shadows | 270604 | [270604-escape-from-the-shadows.json](./270604-escape-from-the-shadows.json) |
 | Escape from the Snow Lodge: Escape after Sex3 | 82959 | [82959-escape-from-the-snow-lodge-escape-after-sex3.json](./82959-escape-from-the-snow-lodge-escape-after-sex3.json) |
 | Escape from the Squirrel Park | 185161 | [185161-escape-from-the-squirrel-park.json](./185161-escape-from-the-squirrel-park.json) |
