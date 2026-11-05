@@ -4611,6 +4611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmares: The Adventures Episode 3 - The Baron of Vermin Famine | 413797 | [413797-nightmares-the-adventures-episode-3-the-baron-of-vermin-famine.json](./413797-nightmares-the-adventures-episode-3-the-baron-of-vermin-famine.json) |
 | Nightmarescape | 280471 | [280471-nightmarescape.json](./280471-nightmarescape.json) |
 | NightmareScape | 255879 | [255879-nightmarescape.json](./255879-nightmarescape.json) |
+| NightmareScape: Deluxe Edition | 257713 | [257713-nightmarescape-deluxe-edition.json](./257713-nightmarescape-deluxe-edition.json) |
 | NightMaresToBe | 163824 | [163824-nightmarestobe.json](./163824-nightmarestobe.json) |
 | NightmareZ | 31849 | [31849-nightmarez.json](./31849-nightmarez.json) |
 | Nightmarise | 376859 | [376859-nightmarise.json](./376859-nightmarise.json) |
@@ -6463,6 +6464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noon Stone | 346590 | [346590-noon-stone.json](./346590-noon-stone.json) |
 | Noonie | 99630 | [99630-noonie.json](./99630-noonie.json) |
 | Noonkey: Healing Tears II | 299401 | [299401-noonkey-healing-tears-ii.json](./299401-noonkey-healing-tears-ii.json) |
+| Noonna the Rock | 257755 | [257755-noonna-the-rock.json](./257755-noonna-the-rock.json) |
 | Nooo! My Body! | 294340 | [294340-nooo-my-body.json](./294340-nooo-my-body.json) |
 | Noor | 358261 | [358261-noor.json](./358261-noor.json) |
 | Noor Quest | 91983 | [91983-noor-quest.json](./91983-noor-quest.json) |
