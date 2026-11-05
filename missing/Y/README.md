@@ -629,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yinyang | 115969 | [115969-yinyang.json](./115969-yinyang.json) |
 | YinYang Street | 240130 | [240130-yinyang-street.json](./240130-yinyang-street.json) |
 | YinYang Street: Separate Ways | 345818 | [345818-yinyang-street-separate-ways.json](./345818-yinyang-street-separate-ways.json) |
+| Yip Quest | 277101 | [277101-yip-quest.json](./277101-yip-quest.json) |
 | Yippy Cube | 208270 | [208270-yippy-cube.json](./208270-yippy-cube.json) |
 | YiShi | 295135 | [295135-yishi.json](./295135-yishi.json) |
 | Yissa Deep Realms | 75776 | [75776-yissa-deep-realms.json](./75776-yissa-deep-realms.json) |
