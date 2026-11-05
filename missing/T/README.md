@@ -6551,6 +6551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Board is Yours | 384227 | [384227-the-board-is-yours.json](./384227-the-board-is-yours.json) |
 | The Boba Teashop | 340928 | [340928-the-boba-teashop.json](./340928-the-boba-teashop.json) |
 | The Boba Teashop: Refill | 422103 | [422103-the-boba-teashop-refill.json](./422103-the-boba-teashop-refill.json) |
+| The Bodega Court of Salty DQs: Amai Edition | 279997 | [279997-the-bodega-court-of-salty-dqs-amai-edition.json](./279997-the-bodega-court-of-salty-dqs-amai-edition.json) |
 | The Body Cam Project | 320376 | [320376-the-body-cam-project.json](./320376-the-body-cam-project.json) |
 | The Body Changer | 36203 | [36203-the-body-changer.json](./36203-the-body-changer.json) |
 | The Body Monstrous | 176502 | [176502-the-body-monstrous.json](./176502-the-body-monstrous.json) |
@@ -6600,6 +6601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Prosperity | 404356 | [404356-the-book-of-prosperity.json](./404356-the-book-of-prosperity.json) |
 | The Book of Regrets | 99488 | [99488-the-book-of-regrets.json](./99488-the-book-of-regrets.json) |
 | The Book of the Dead | 273287 | [273287-the-book-of-the-dead.json](./273287-the-book-of-the-dead.json) |
+| The Book of the Dead: Lost Souls | 279992 | [279992-the-book-of-the-dead-lost-souls.json](./279992-the-book-of-the-dead-lost-souls.json) |
 | The Book of Three | 79561 | [79561-the-book-of-three.json](./79561-the-book-of-three.json) |
 | The Book of Unwritten Tales | 5408 | [5408-the-book-of-unwritten-tales.json](./5408-the-book-of-unwritten-tales.json) |
 | The Book of Unwritten Tales 2: Almanac Edition | 51703 | [51703-the-book-of-unwritten-tales-2-almanac-edition.json](./51703-the-book-of-unwritten-tales-2-almanac-edition.json) |
@@ -6744,6 +6746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bugs Bunny Birthday Blowout | 2719 | [2719-the-bugs-bunny-birthday-blowout.json](./2719-the-bugs-bunny-birthday-blowout.json) |
 | The Bugs Bunny Crazy Castle | 153450 | [153450-the-bugs-bunny-crazy-castle.json](./153450-the-bugs-bunny-crazy-castle.json) |
 | The Bugs Bunny Crazy Castle | 3051 | [3051-the-bugs-bunny-crazy-castle.json](./3051-the-bugs-bunny-crazy-castle.json) |
+| The Bugs Bunny Crazy Castle 2 DX | 280006 | [280006-the-bugs-bunny-crazy-castle-2-dx.json](./280006-the-bugs-bunny-crazy-castle-2-dx.json) |
 | The Bugs Bunny Crazy Castle Atarisized | 289885 | [289885-the-bugs-bunny-crazy-castle-atarisized.json](./289885-the-bugs-bunny-crazy-castle-atarisized.json) |
 | The Bugs Manor | 273275 | [273275-the-bugs-manor.json](./273275-the-bugs-manor.json) |
 | The Build and Race Hotrod Game | 150283 | [150283-the-build-and-race-hotrod-game.json](./150283-the-build-and-race-hotrod-game.json) |
@@ -19300,6 +19303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Came From the Sky | 118328 | [118328-they-came-from-the-sky.json](./118328-they-came-from-the-sky.json) |
 | They Came From Venus | 282038 | [282038-they-came-from-venus.json](./282038-they-came-from-venus.json) |
 | They Can Fart | 295301 | [295301-they-can-fart.json](./295301-they-can-fart.json) |
+| They Can Hear Us | 280001 | [280001-they-can-hear-us.json](./280001-they-can-hear-us.json) |
 | They Can't Stop all of Us | 124393 | [124393-they-cant-stop-all-of-us.json](./124393-they-cant-stop-all-of-us.json) |
 | They Cannot Hear Me | 343164 | [343164-they-cannot-hear-me.json](./343164-they-cannot-hear-me.json) |
 | They Come at Poop Time | 185355 | [185355-they-come-at-poop-time.json](./185355-they-come-at-poop-time.json) |
@@ -25032,6 +25036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topps Bunt | 79001 | [79001-topps-bunt.json](./79001-topps-bunt.json) |
 | Topps Huddle | 58403 | [58403-topps-huddle.json](./58403-topps-huddle.json) |
 | Topps Kick | 137686 | [137686-topps-kick.json](./137686-topps-kick.json) |
+| Topps NHL Skate | 280023 | [280023-topps-nhl-skate.json](./280023-topps-nhl-skate.json) |
 | TopShot: Darkness | 89251 | [89251-topshot-darkness.json](./89251-topshot-darkness.json) |
 | Topspace | 274468 | [274468-topspace.json](./274468-topspace.json) |
 | TopSpin 2K25 | 282959 | [282959-topspin-2k25.json](./282959-topspin-2k25.json) |
@@ -30668,6 +30673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trouble Makers | 309757 | [309757-trouble-makers.json](./309757-trouble-makers.json) |
 | Trouble of Tabu | 298050 | [298050-trouble-of-tabu.json](./298050-trouble-of-tabu.json) |
 | Trouble on the Way | 394129 | [394129-trouble-on-the-way.json](./394129-trouble-on-the-way.json) |
+| Trouble Outsiders | 279996 | [279996-trouble-outsiders.json](./279996-trouble-outsiders.json) |
 | Trouble Score | 97720 | [97720-trouble-score.json](./97720-trouble-score.json) |
 | Trouble Town | 212702 | [212702-trouble-town.json](./212702-trouble-town.json) |
 | Trouble Travel TT | 114843 | [114843-trouble-travel-tt.json](./114843-trouble-travel-tt.json) |
