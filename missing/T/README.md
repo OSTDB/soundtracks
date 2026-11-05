@@ -7905,6 +7905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkside Detective: A Fumble in the Dark - Tales of the Darkside | 222968 | [222968-the-darkside-detective-a-fumble-in-the-dark-tales-of-the-darkside.json](./222968-the-darkside-detective-a-fumble-in-the-dark-tales-of-the-darkside.json) |
 | The Darkside Detective: Series Edition | 164793 | [164793-the-darkside-detective-series-edition.json](./164793-the-darkside-detective-series-edition.json) |
 | The Daruma Challenge | 331279 | [331279-the-daruma-challenge.json](./331279-the-daruma-challenge.json) |
+| The Dating Game | 291930 | [291930-the-dating-game.json](./291930-the-dating-game.json) |
 | The Dating Game | 65534 | [65534-the-dating-game.json](./65534-the-dating-game.json) |
 | The Daughter | 380589 | [380589-the-daughter.json](./380589-the-daughter.json) |
 | The Daunting House | 152469 | [152469-the-daunting-house.json](./152469-the-daunting-house.json) |
