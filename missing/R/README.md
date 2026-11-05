@@ -8657,6 +8657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Rob | 286597 | [286597-robo-rob.json](./286597-robo-rob.json) |
 | Robo Rolo | 419588 | [419588-robo-rolo.json](./419588-robo-rolo.json) |
 | Robo Rumble | 154436 | [154436-robo-rumble.json](./154436-robo-rumble.json) |
+| Robo Run | 264384 | [264384-robo-run.json](./264384-robo-run.json) |
 | Robo Runner | 186157 | [186157-robo-runner.json](./186157-robo-runner.json) |
 | Robo Runners | 107377 | [107377-robo-runners.json](./107377-robo-runners.json) |
 | Robo Rush | 273430 | [273430-robo-rush.json](./273430-robo-rush.json) |
