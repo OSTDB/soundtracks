@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D-Day | 27252 | [27252-d-day.json](./27252-d-day.json) |
 | D-Day | 32367 | [32367-d-day.json](./32367-d-day.json) |
 | D-Day | 410295 | [410295-d-day.json](./410295-d-day.json) |
+| D-Day Enhanced | 286867 | [286867-d-day-enhanced.json](./286867-d-day-enhanced.json) |
 | D-Day Invasions | 293836 | [293836-d-day-invasions.json](./293836-d-day-invasions.json) |
 | D-Day VR Museum | 295790 | [295790-d-day-vr-museum.json](./295790-d-day-vr-museum.json) |
 | D-Day: America Invades | 69911 | [69911-d-day-america-invades.json](./69911-d-day-america-invades.json) |
@@ -3426,6 +3427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Effect 2 VR: Escape From Meridian | 170967 | [170967-dead-effect-2-vr-escape-from-meridian.json](./170967-dead-effect-2-vr-escape-from-meridian.json) |
 | Dead Effect 2: Escape From Meridian | 170968 | [170968-dead-effect-2-escape-from-meridian.json](./170968-dead-effect-2-escape-from-meridian.json) |
 | Dead End | 285003 | [285003-dead-end.json](./285003-dead-end.json) |
+| Dead End | 286873 | [286873-dead-end.json](./286873-dead-end.json) |
 | Dead End | 380245 | [380245-dead-end.json](./380245-dead-end.json) |
 | Dead End Aegis | 186893 | [186893-dead-end-aegis.json](./186893-dead-end-aegis.json) |
 | Dead End Aegis: Gaiden | 192688 | [192688-dead-end-aegis-gaiden.json](./192688-dead-end-aegis-gaiden.json) |
