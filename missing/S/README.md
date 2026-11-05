@@ -3470,6 +3470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrambl'd | 137819 | [137819-scrambld.json](./137819-scrambld.json) |
 | Scramble | 168574 | [168574-scramble.json](./168574-scramble.json) |
 | Scramble | 246400 | [246400-scramble.json](./246400-scramble.json) |
+| Scramble | 251312 | [251312-scramble.json](./251312-scramble.json) |
 | Scramble | 297494 | [297494-scramble.json](./297494-scramble.json) |
 | Scramble All Fighters | 249888 | [249888-scramble-all-fighters.json](./249888-scramble-all-fighters.json) |
 | Scramble Animal Words | 327536 | [327536-scramble-animal-words.json](./327536-scramble-animal-words.json) |
@@ -12705,6 +12706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skypop Scramble | 323750 | [323750-skypop-scramble.json](./323750-skypop-scramble.json) |
 | Skyraid | 200845 | [200845-skyraid.json](./200845-skyraid.json) |
 | Skyraine | 53616 | [53616-skyraine.json](./53616-skyraine.json) |
+| Skyrama | 251300 | [251300-skyrama.json](./251300-skyrama.json) |
 | Skyratz | 157366 | [157366-skyratz.json](./157366-skyratz.json) |
 | Skyreach | 33023 | [33023-skyreach.json](./33023-skyreach.json) |
 | SkyRider | 191582 | [191582-skyrider.json](./191582-skyrider.json) |
@@ -13469,6 +13471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Ranger | 221159 | [221159-slime-ranger.json](./221159-slime-ranger.json) |
 | Slime Research | 113451 | [113451-slime-research.json](./113451-slime-research.json) |
 | Slime Road | 108509 | [108509-slime-road.json](./108509-slime-road.json) |
+| Slime Roll | 251327 | [251327-slime-roll.json](./251327-slime-roll.json) |
 | Slime Rule | 208330 | [208330-slime-rule.json](./208330-slime-rule.json) |
 | Slime Runner | 215886 | [215886-slime-runner.json](./215886-slime-runner.json) |
 | Slime Saga | 376705 | [376705-slime-saga.json](./376705-slime-saga.json) |
@@ -16055,6 +16058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Cram School | 122393 | [122393-solar-cram-school.json](./122393-solar-cram-school.json) |
 | Solar Crusade | 45908 | [45908-solar-crusade.json](./45908-solar-crusade.json) |
 | Solar Derby | 385799 | [385799-solar-derby.json](./385799-solar-derby.json) |
+| Solar Descent | 251316 | [251316-solar-descent.json](./251316-solar-descent.json) |
 | Solar Dominion | 306177 | [306177-solar-dominion.json](./306177-solar-dominion.json) |
 | Solar Dreamer Nikko | 369203 | [369203-solar-dreamer-nikko.json](./369203-solar-dreamer-nikko.json) |
 | Solar Echoes: The Star Legation | 149056 | [149056-solar-echoes-the-star-legation.json](./149056-solar-echoes-the-star-legation.json) |
@@ -20648,6 +20652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Dates | 240701 | [240701-speed-dates.json](./240701-speed-dates.json) |
 | Speed Dates: Summer Edition | 348432 | [348432-speed-dates-summer-edition.json](./348432-speed-dates-summer-edition.json) |
 | Speed Dates: Summer Edition | 409981 | [409981-speed-dates-summer-edition.json](./409981-speed-dates-summer-edition.json) |
+| Speed Demons | 251293 | [251293-speed-demons.json](./251293-speed-demons.json) |
 | Speed Demons | 71872 | [71872-speed-demons.json](./71872-speed-demons.json) |
 | Speed Demons 2 | 330564 | [330564-speed-demons-2.json](./330564-speed-demons-2.json) |
 | Speed Devils | 23609 | [23609-speed-devils.json](./23609-speed-devils.json) |
@@ -20670,6 +20675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed is Key | 201473 | [201473-speed-is-key.json](./201473-speed-is-key.json) |
 | Speed Islands | 116449 | [116449-speed-islands.json](./116449-speed-islands.json) |
 | Speed Journey: Nitro | 221407 | [221407-speed-journey-nitro.json](./221407-speed-journey-nitro.json) |
+| Speed Kayak | 251333 | [251333-speed-kayak.json](./251333-speed-kayak.json) |
 | Speed Kills | 10837 | [10837-speed-kills.json](./10837-speed-kills.json) |
 | Speed King | 28571 | [28571-speed-king.json](./28571-speed-king.json) |
 | Speed King 2 | 57601 | [57601-speed-king-2.json](./57601-speed-king-2.json) |
@@ -22830,6 +22836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spyro: Attack of the Rhynocs | 1589 | [1589-spyro-attack-of-the-rhynocs.json](./1589-spyro-attack-of-the-rhynocs.json) |
 | Spyro: Collector's Edition | 43686 | [43686-spyro-collectors-edition.json](./43686-spyro-collectors-edition.json) |
 | Spyro: Enter the Dragonfly | 1579 | [1579-spyro-enter-the-dragonfly.json](./1579-spyro-enter-the-dragonfly.json) |
+| Spyro: Ripto Quest | 251290 | [251290-spyro-ripto-quest.json](./251290-spyro-ripto-quest.json) |
 | Spyro: Season of Ice | 1587 | [1587-spyro-season-of-ice.json](./1587-spyro-season-of-ice.json) |
 | Spyro: Shadow Legacy | 1581 | [1581-spyro-shadow-legacy.json](./1581-spyro-shadow-legacy.json) |
 | Spyro: Year of the Dragon | 142243 | [142243-spyro-year-of-the-dragon.json](./142243-spyro-year-of-the-dragon.json) |
@@ -23207,6 +23214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SSX Blur | 4178 | [4178-ssx-blur.json](./4178-ssx-blur.json) |
 | SSX on Tour | 230478 | [230478-ssx-on-tour.json](./230478-ssx-on-tour.json) |
 | SSX on Tour | 4177 | [4177-ssx-on-tour.json](./4177-ssx-on-tour.json) |
+| SSX Snowboarder | 251301 | [251301-ssx-snowboarder.json](./251301-ssx-snowboarder.json) |
 | SSX Tricky | 186240 | [186240-ssx-tricky.json](./186240-ssx-tricky.json) |
 | SSX: Out of Bounds | 47565 | [47565-ssx-out-of-bounds.json](./47565-ssx-out-of-bounds.json) |
 | St Dragon | 45235 | [45235-st-dragon.json](./45235-st-dragon.json) |
@@ -28844,6 +28852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sucronomicon | 414171 | [414171-sucronomicon.json](./414171-sucronomicon.json) |
 | Suction Bot | 390278 | [390278-suction-bot.json](./390278-suction-bot.json) |
 | Suction Co-Op | 303222 | [303222-suction-co-op.json](./303222-suction-co-op.json) |
+| Sucuri | 251321 | [251321-sucuri.json](./251321-sucuri.json) |
 | Sudama Relation | 252814 | [252814-sudama-relation.json](./252814-sudama-relation.json) |
 | Sudd City Adventures | 134030 | [134030-sudd-city-adventures.json](./134030-sudd-city-adventures.json) |
 | Sudden Attack | 66463 | [66463-sudden-attack.json](./66463-sudden-attack.json) |
