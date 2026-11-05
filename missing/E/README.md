@@ -2161,6 +2161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electrokinetic | 228286 | [228286-electrokinetic.json](./228286-electrokinetic.json) |
 | Electrolight | 319192 | [319192-electrolight.json](./319192-electrolight.json) |
 | Electromagnetism | 184319 | [184319-electromagnetism.json](./184319-electromagnetism.json) |
+| ElectroMaster | 254257 | [254257-electromaster.json](./254257-electromaster.json) |
 | Electromaze Defense | 81803 | [81803-electromaze-defense.json](./81803-electromaze-defense.json) |
 | Electron Flux | 264710 | [264710-electron-flux.json](./264710-electron-flux.json) |
 | Electron Handsome Boy | 201312 | [201312-electron-handsome-boy.json](./201312-electron-handsome-boy.json) |
