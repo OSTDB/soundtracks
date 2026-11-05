@@ -10510,6 +10510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disown95 | 393753 | [393753-disown95.json](./393753-disown95.json) |
 | Disparate Realities | 222621 | [222621-disparate-realities.json](./222621-disparate-realities.json) |
 | Disparity | 68495 | [68495-disparity.json](./68495-disparity.json) |
+| Disparity of the Dead | 259901 | [259901-disparity-of-the-dead.json](./259901-disparity-of-the-dead.json) |
 | Dispatch | 127531 | [127531-dispatch.json](./127531-dispatch.json) |
 | Dispatch | 339997 | [339997-dispatch.json](./339997-dispatch.json) |
 | Dispatch Madness | 289262 | [289262-dispatch-madness.json](./289262-dispatch-madness.json) |
@@ -12874,6 +12875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Raider: Crypt of the Vile | 256817 | [256817-doom-raider-crypt-of-the-vile.json](./256817-doom-raider-crypt-of-the-vile.json) |
 | Doom Rails | 16116 | [16116-doom-rails.json](./16116-doom-rails.json) |
 | Doom Reborn | 365242 | [365242-doom-reborn.json](./365242-doom-reborn.json) |
+| Doom Redemption | 259892 | [259892-doom-redemption.json](./259892-doom-redemption.json) |
 | DOOM Remake 4 | 201181 | [201181-doom-remake-4.json](./201181-doom-remake-4.json) |
 | Doom Repainted | 252030 | [252030-doom-repainted.json](./252030-doom-repainted.json) |
 | Doom Resurrection | 6641 | [6641-doom-resurrection.json](./6641-doom-resurrection.json) |
@@ -13808,6 +13810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downtown Dealers | 244071 | [244071-downtown-dealers.json](./244071-downtown-dealers.json) |
 | Downtown Dodgeball Da yo: Zenin Shuugou!! | 60501 | [60501-downtown-dodgeball-da-yo-zenin-shuugou.json](./60501-downtown-dodgeball-da-yo-zenin-shuugou.json) |
 | Downtown Drift | 118363 | [118363-downtown-drift.json](./118363-downtown-drift.json) |
+| Downtown Drift | 259918 | [259918-downtown-drift.json](./259918-downtown-drift.json) |
 | Downtown Jam | 207784 | [207784-downtown-jam.json](./207784-downtown-jam.json) |
 | Downtown Journey | 308454 | [308454-downtown-journey.json](./308454-downtown-journey.json) |
 | Downtown Mafia: Gang Wars | 105348 | [105348-downtown-mafia-gang-wars.json](./105348-downtown-mafia-gang-wars.json) |
