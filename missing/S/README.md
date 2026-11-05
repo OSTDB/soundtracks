@@ -10243,6 +10243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Nights | 240787 | [240787-silent-nights.json](./240787-silent-nights.json) |
 | Silent Nights: Children's Orchestra - Collector's Edition | 370925 | [370925-silent-nights-childrens-orchestra-collectors-edition.json](./370925-silent-nights-childrens-orchestra-collectors-edition.json) |
 | Silent Noise: Prologue | 403539 | [403539-silent-noise-prologue.json](./403539-silent-noise-prologue.json) |
+| Silent North | 279401 | [279401-silent-north.json](./279401-silent-north.json) |
 | Silent Nova | 362974 | [362974-silent-nova.json](./362974-silent-nova.json) |
 | Silent Numbers | 390104 | [390104-silent-numbers.json](./390104-silent-numbers.json) |
 | Silent Observer | 333350 | [333350-silent-observer.json](./333350-silent-observer.json) |
@@ -18105,6 +18106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Cipher: The Code Within | 181489 | [181489-soul-cipher-the-code-within.json](./181489-soul-cipher-the-code-within.json) |
 | Soul Clicker | 400739 | [400739-soul-clicker.json](./400739-soul-clicker.json) |
 | Soul Climb | 189007 | [189007-soul-climb.json](./189007-soul-climb.json) |
+| Soul Covenant | 279381 | [279381-soul-covenant.json](./279381-soul-covenant.json) |
 | Soul Crystal | 47194 | [47194-soul-crystal.json](./47194-soul-crystal.json) |
 | Soul Dance Party | 141522 | [141522-soul-dance-party.json](./141522-soul-dance-party.json) |
 | Soul Delivery | 167591 | [167591-soul-delivery.json](./167591-soul-delivery.json) |
@@ -18969,6 +18971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Dogs Squadron | 65337 | [65337-space-dogs-squadron.json](./65337-space-dogs-squadron.json) |
 | Space Doubt | 26420 | [26420-space-doubt.json](./26420-space-doubt.json) |
 | Space Dragon | 76285 | [76285-space-dragon.json](./76285-space-dragon.json) |
+| Space Dragon: Year of the Dragon | 279403 | [279403-space-dragon-year-of-the-dragon.json](./279403-space-dragon-year-of-the-dragon.json) |
 | Space Dragons | 188618 | [188618-space-dragons.json](./188618-space-dragons.json) |
 | Space Dream | 41962 | [41962-space-dream.json](./41962-space-dream.json) |
 | Space Drifters 2D | 35036 | [35036-space-drifters-2d.json](./35036-space-drifters-2d.json) |
@@ -19180,7 +19183,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -24607,6 +24609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight of Aeons | 75080 | [75080-starlight-of-aeons.json](./75080-starlight-of-aeons.json) |
 | Starlight Re:Volver | 324573 | [324573-starlight-re-volver.json](./324573-starlight-re-volver.json) |
 | Starlight Riddles | 292993 | [292993-starlight-riddles.json](./292993-starlight-riddles.json) |
+| Starlight River | 279415 | [279415-starlight-river.json](./279415-starlight-river.json) |
 | Starlight Squad | 343737 | [343737-starlight-squad.json](./343737-starlight-squad.json) |
 | Starlight Street | 352485 | [352485-starlight-street.json](./352485-starlight-street.json) |
 | Starlight Tactics | 35660 | [35660-starlight-tactics.json](./35660-starlight-tactics.json) |
@@ -26280,6 +26283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticky Blocks | 62389 | [62389-sticky-blocks.json](./62389-sticky-blocks.json) |
 | Sticky Business: Book of Shadows | 344159 | [344159-sticky-business-book-of-shadows.json](./344159-sticky-business-book-of-shadows.json) |
 | Sticky Business: Complete Bundle | 336308 | [336308-sticky-business-complete-bundle.json](./336308-sticky-business-complete-bundle.json) |
+| Sticky Business: Plan With Me | 279375 | [279375-sticky-business-plan-with-me.json](./279375-sticky-business-plan-with-me.json) |
 | Sticky Business: Seaside Tales | 411002 | [411002-sticky-business-seaside-tales.json](./411002-sticky-business-seaside-tales.json) |
 | Sticky Castle | 232031 | [232031-sticky-castle.json](./232031-sticky-castle.json) |
 | Sticky Cats | 177174 | [177174-sticky-cats.json](./177174-sticky-cats.json) |
@@ -33436,6 +33440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Mobile:10,000 BC | 90381 | [90381-survival-mobile-10-000-bc.json](./90381-survival-mobile-10-000-bc.json) |
 | Survival Nation | 228586 | [228586-survival-nation.json](./228586-survival-nation.json) |
 | Survival Nation: Lost Horizon | 259619 | [259619-survival-nation-lost-horizon.json](./259619-survival-nation-lost-horizon.json) |
+| Survival Nation: Map Expansion Update | 279384 | [279384-survival-nation-map-expansion-update.json](./279384-survival-nation-map-expansion-update.json) |
 | Survival Nexus | 266784 | [266784-survival-nexus.json](./266784-survival-nexus.json) |
 | Survival Odyssey | 345391 | [345391-survival-odyssey.json](./345391-survival-odyssey.json) |
 | Survival Of Exon | 293599 | [293599-survival-of-exon.json](./293599-survival-of-exon.json) |
