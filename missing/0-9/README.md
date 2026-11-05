@@ -2184,6 +2184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 360 | 178446 | [178446-360.json](./178446-360.json) |
 | 360 Breakout | 57321 | [57321-360-breakout.json](./57321-360-breakout.json) |
 | 360 Chicken | 182090 | [182090-360-chicken.json](./182090-360-chicken.json) |
+| 360 Five Nights at Freddy's | 276543 | [276543-360-five-nights-at-freddys.json](./276543-360-five-nights-at-freddys.json) |
 | 360 Mega App Pack HD | 78352 | [78352-360-mega-app-pack-hd.json](./78352-360-mega-app-pack-hd.json) |
 | 360 Mega Pack HD Remix | 98814 | [98814-360-mega-pack-hd-remix.json](./98814-360-mega-pack-hd-remix.json) |
 | 360 No Scope Arena | 104905 | [104905-360-no-scope-arena.json](./104905-360-no-scope-arena.json) |
