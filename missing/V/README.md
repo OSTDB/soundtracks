@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V-Rally 4: Ultimate Edition | 110832 | [110832-v-rally-4-ultimate-edition.json](./110832-v-rally-4-ultimate-edition.json) |
 | V-Rally Edition '99 | 10621 | [10621-v-rally-edition-99.json](./10621-v-rally-edition-99.json) |
 | V-Rally: Championship Edition | 152047 | [152047-v-rally-championship-edition.json](./152047-v-rally-championship-edition.json) |
+| V-Rally: Championship Edition | 271979 | [271979-v-rally-championship-edition.json](./271979-v-rally-championship-edition.json) |
 | V-Ray | 138709 | [138709-v-ray.json](./138709-v-ray.json) |
 | V-Shift | 338559 | [338559-v-shift.json](./338559-v-shift.json) |
 | V-Speedway | 194220 | [194220-v-speedway.json](./194220-v-speedway.json) |
