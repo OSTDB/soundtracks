@@ -7214,6 +7214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All World Pro Wrestling: Bonus Stories 2 | 210906 | [210906-all-world-pro-wrestling-bonus-stories-2.json](./210906-all-world-pro-wrestling-bonus-stories-2.json) |
 | All You Can Eat | 27896 | [27896-all-you-can-eat.json](./27896-all-you-can-eat.json) |
 | All You Can Play: 10 Action-Games | 137502 | [137502-all-you-can-play-10-action-games.json](./137502-all-you-can-play-10-action-games.json) |
+| All You Can Take | 289662 | [289662-all-you-can-take.json](./289662-all-you-can-take.json) |
 | All You Have to Do Is Click the Button | 352323 | [352323-all-you-have-to-do-is-click-the-button.json](./352323-all-you-have-to-do-is-click-the-button.json) |
 | All You Need is Help | 299592 | [299592-all-you-need-is-help.json](./299592-all-you-need-is-help.json) |
 | All You Need is Help: Lively Friends Bundle | 320698 | [320698-all-you-need-is-help-lively-friends-bundle.json](./320698-all-you-need-is-help-lively-friends-bundle.json) |
@@ -15251,6 +15252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Deflector XL | 90195 | [90195-asteroid-deflector-xl.json](./90195-asteroid-deflector-xl.json) |
 | Asteroid Dodge | 305210 | [305210-asteroid-dodge.json](./305210-asteroid-dodge.json) |
 | Asteroid Dodger | 140465 | [140465-asteroid-dodger.json](./140465-asteroid-dodger.json) |
+| Asteroid Drift | 289676 | [289676-asteroid-drift.json](./289676-asteroid-drift.json) |
 | Asteroid Evader | 178624 | [178624-asteroid-evader.json](./178624-asteroid-evader.json) |
 | Asteroid Farmer | 134972 | [134972-asteroid-farmer.json](./134972-asteroid-farmer.json) |
 | Asteroid Fight | 32257 | [32257-asteroid-fight.json](./32257-asteroid-fight.json) |
@@ -15410,6 +15412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral | 377836 | [377836-astral.json](./377836-astral.json) |
 | Astral Abstraction | 282523 | [282523-astral-abstraction.json](./282523-astral-abstraction.json) |
 | Astral Alliance | 272487 | [272487-astral-alliance.json](./272487-astral-alliance.json) |
+| Astral Arena | 289665 | [289665-astral-arena.json](./289665-astral-arena.json) |
 | Astral Ascension | 202583 | [202583-astral-ascension.json](./202583-astral-ascension.json) |
 | Astral Ascent: Arven - The Wolf Blade | 404539 | [404539-astral-ascent-arven-the-wolf-blade.json](./404539-astral-ascent-arven-the-wolf-blade.json) |
 | Astral Ascent: Yamat - The Breach Traveler | 313217 | [313217-astral-ascent-yamat-the-breach-traveler.json](./313217-astral-ascent-yamat-the-breach-traveler.json) |
@@ -16789,6 +16792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aural to Hikari no Ryuu: Gathering Light | 327602 | [327602-aural-to-hikari-no-ryuu-gathering-light.json](./327602-aural-to-hikari-no-ryuu-gathering-light.json) |
 | Auralux | 18485 | [18485-auralux.json](./18485-auralux.json) |
 | Auralux: Constellations | 33527 | [33527-auralux-constellations.json](./33527-auralux-constellations.json) |
+| Aurans | 289672 | [289672-aurans.json](./289672-aurans.json) |
 | Aurascope | 177951 | [177951-aurascope.json](./177951-aurascope.json) |
 | AuraTitan | 417677 | [417677-auratitan.json](./417677-auratitan.json) |
 | Aurcus Online | 132715 | [132715-aurcus-online.json](./132715-aurcus-online.json) |
