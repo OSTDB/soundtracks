@@ -2143,6 +2143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warzone Chronicles: Virtual Warfare Shooter | 283217 | [283217-warzone-chronicles-virtual-warfare-shooter.json](./283217-warzone-chronicles-virtual-warfare-shooter.json) |
 | Warzone Chronicles: Virtual Warfare Shooter - Premium Edition | 308795 | [308795-warzone-chronicles-virtual-warfare-shooter-premium-edition.json](./308795-warzone-chronicles-virtual-warfare-shooter-premium-edition.json) |
 | WarZone Flashpoint | 112996 | [112996-warzone-flashpoint.json](./112996-warzone-flashpoint.json) |
+| Warzone of Destiny 95 | 256612 | [256612-warzone-of-destiny-95.json](./256612-warzone-of-destiny-95.json) |
 | Warzone VR | 113879 | [113879-warzone-vr.json](./113879-warzone-vr.json) |
 | Warzone World | 115186 | [115186-warzone-world.json](./115186-warzone-world.json) |
 | Warzone-X | 118114 | [118114-warzone-x.json](./118114-warzone-x.json) |
@@ -2750,6 +2751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We are Monsters | 299406 | [299406-we-are-monsters.json](./299406-we-are-monsters.json) |
 | We Are Not All Alone Unhappy | 203593 | [203593-we-are-not-all-alone-unhappy.json](./203593-we-are-not-all-alone-unhappy.json) |
 | We Are Not Alone | 229866 | [229866-we-are-not-alone.json](./229866-we-are-not-alone.json) |
+| We Are Not Alone | 256585 | [256585-we-are-not-alone.json](./256585-we-are-not-alone.json) |
 | We Are Not Alone: Contact | 312866 | [312866-we-are-not-alone-contact.json](./312866-we-are-not-alone-contact.json) |
 | We Are OFK | 152177 | [152177-we-are-ofk.json](./152177-we-are-ofk.json) |
 | We Are Only Moving Towards Each Other | 299117 | [299117-we-are-only-moving-towards-each-other.json](./299117-we-are-only-moving-towards-each-other.json) |
@@ -4511,6 +4513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Dwarf | 414689 | [414689-white-dwarf.json](./414689-white-dwarf.json) |
 | White Eternal | 314870 | [314870-white-eternal.json](./314870-white-eternal.json) |
 | White Eyes | 166719 | [166719-white-eyes.json](./166719-white-eyes.json) |
+| White Flame Inna: Daughter of the Void | 256583 | [256583-white-flame-inna-daughter-of-the-void.json](./256583-white-flame-inna-daughter-of-the-void.json) |
 | White Girl | 165598 | [165598-white-girl.json](./165598-white-girl.json) |
 | White Haven Mysteries | 17201 | [17201-white-haven-mysteries.json](./17201-white-haven-mysteries.json) |
 | White Heart Baekgu | 209290 | [209290-white-heart-baekgu.json](./209290-white-heart-baekgu.json) |
@@ -7127,6 +7130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wood Brothers Flying Colours | 188901 | [188901-wood-brothers-flying-colours.json](./188901-wood-brothers-flying-colours.json) |
 | Wood Chipper Truck | 108164 | [108164-wood-chipper-truck.json](./108164-wood-chipper-truck.json) |
 | Wood Clicker | 382868 | [382868-wood-clicker.json](./382868-wood-clicker.json) |
+| Wood Cube Block: Classic Casual Puzzle | 256626 | [256626-wood-cube-block-classic-casual-puzzle.json](./256626-wood-cube-block-classic-casual-puzzle.json) |
 | Wood Cuter | 201800 | [201800-wood-cuter.json](./201800-wood-cuter.json) |
 | Wood for Nobody Else | 357212 | [357212-wood-for-nobody-else.json](./357212-wood-for-nobody-else.json) |
 | Wood for the Trees | 176958 | [176958-wood-for-the-trees.json](./176958-wood-for-the-trees.json) |
