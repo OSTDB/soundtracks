@@ -2591,6 +2591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GemCraft: Frostborn Wrath | 119980 | [119980-gemcraft-frostborn-wrath.json](./119980-gemcraft-frostborn-wrath.json) |
 | Gemcraft: Legacy Collection | 408202 | [408202-gemcraft-legacy-collection.json](./408202-gemcraft-legacy-collection.json) |
 | Gemdance | 124575 | [124575-gemdance.json](./124575-gemdance.json) |
+| Gemdow Quest | 293958 | [293958-gemdow-quest.json](./293958-gemdow-quest.json) |
 | Gemerald | 327250 | [327250-gemerald.json](./327250-gemerald.json) |
 | Gemfire | 14501 | [14501-gemfire.json](./14501-gemfire.json) |
 | Gemibears | 233997 | [233997-gemibears.json](./233997-gemibears.json) |
@@ -4426,6 +4427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Eliminate | 405336 | [405336-girls-eliminate.json](./405336-girls-eliminate.json) |
 | Girls Fashion 3D: Mezase! Top Stylist | 222331 | [222331-girls-fashion-3d-mezase-top-stylist.json](./222331-girls-fashion-3d-mezase-top-stylist.json) |
 | Girls for Sex for Cyberpunk Sex | 288243 | [288243-girls-for-sex-for-cyberpunk-sex.json](./288243-girls-for-sex-for-cyberpunk-sex.json) |
+| Girls for Sex for Fuck in Police | 294083 | [294083-girls-for-sex-for-fuck-in-police.json](./294083-girls-for-sex-for-fuck-in-police.json) |
 | Girls for Sex for Sex Motel | 288893 | [288893-girls-for-sex-for-sex-motel.json](./288893-girls-for-sex-for-sex-motel.json) |
 | Girls Frantic Clan | 263606 | [263606-girls-frantic-clan.json](./263606-girls-frantic-clan.json) |
 | Girls Free | 127940 | [127940-girls-free.json](./127940-girls-free.json) |
