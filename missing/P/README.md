@@ -1829,6 +1829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Par 1 Golf 7 | 174296 | [174296-par-1-golf-7.json](./174296-par-1-golf-7.json) |
 | Par 1 Golf 8 | 197790 | [197790-par-1-golf-8.json](./197790-par-1-golf-8.json) |
 | Par 72 Golf IV | 95696 | [95696-par-72-golf-iv.json](./95696-par-72-golf-iv.json) |
+| Par for the Dungeon | 258280 | [258280-par-for-the-dungeon.json](./258280-par-for-the-dungeon.json) |
 | Par Golf | 92101 | [92101-par-golf.json](./92101-par-golf.json) |
 | Para Academy | 414210 | [414210-para-academy.json](./414210-para-academy.json) |
 | Para Bellum | 139658 | [139658-para-bellum.json](./139658-para-bellum.json) |
@@ -9898,6 +9899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plodding Recovery | 409321 | [409321-plodding-recovery.json](./409321-plodding-recovery.json) |
 | Ploid | 159682 | [159682-ploid.json](./159682-ploid.json) |
 | Ploid Saga | 132628 | [132628-ploid-saga.json](./132628-ploid-saga.json) |
+| Ploko | 258282 | [258282-ploko.json](./258282-ploko.json) |
 | Plokoth | 133315 | [133315-plokoth.json](./133315-plokoth.json) |
 | Plong | 258190 | [258190-plong.json](./258190-plong.json) |
 | Plop, Fizz, Boom! | 297418 | [297418-plop-fizz-boom.json](./297418-plop-fizz-boom.json) |
@@ -13950,6 +13952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretz Pac-Man | 219443 | [219443-pretz-pac-man.json](./219443-pretz-pac-man.json) |
 | Pretz'l Land | 105554 | [105554-pretzl-land.json](./105554-pretzl-land.json) |
 | Pretzel Pete | 209904 | [209904-pretzel-pete.json](./209904-pretzel-pete.json) |
+| Pretzel Rides VR | 258253 | [258253-pretzel-rides-vr.json](./258253-pretzel-rides-vr.json) |
 | Prevent the Fall | 29455 | [29455-prevent-the-fall.json](./29455-prevent-the-fall.json) |
 | Preventive Strike | 75194 | [75194-preventive-strike.json](./75194-preventive-strike.json) |
 | Previous Tenant | 152208 | [152208-previous-tenant.json](./152208-previous-tenant.json) |
