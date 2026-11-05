@@ -3267,6 +3267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | George McGeehan Gamer Hero | 260794 | [260794-george-mcgeehan-gamer-hero.json](./260794-george-mcgeehan-gamer-hero.json) |
 | George of the Jungle and the Search for the Secret | 259265 | [259265-george-of-the-jungle-and-the-search-for-the-secret.json](./259265-george-of-the-jungle-and-the-search-for-the-secret.json) |
 | George of the Jungle and the Search for the Secret | 4889 | [4889-george-of-the-jungle-and-the-search-for-the-secret.json](./4889-george-of-the-jungle-and-the-search-for-the-secret.json) |
+| George Pontos: The Stolen Lyre | 246161 | [246161-george-pontos-the-stolen-lyre.json](./246161-george-pontos-the-stolen-lyre.json) |
 | George Scared of the Dark | 57973 | [57973-george-scared-of-the-dark.json](./57973-george-scared-of-the-dark.json) |
 | George: A Horror Story | 189182 | [189182-george-a-horror-story.json](./189182-george-a-horror-story.json) |
 | George's Memories Ep.1 | 105241 | [105241-georges-memories-ep-1.json](./105241-georges-memories-ep-1.json) |
@@ -3736,6 +3737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Member | 264689 | [264689-ghost-member.json](./264689-ghost-member.json) |
 | Ghost Milf | 405325 | [405325-ghost-milf.json](./405325-ghost-milf.json) |
 | Ghost Mission | 256425 | [256425-ghost-mission.json](./256425-ghost-mission.json) |
+| Ghost Motel 1 | 246201 | [246201-ghost-motel-1.json](./246201-ghost-motel-1.json) |
 | Ghost Mountain | 114992 | [114992-ghost-mountain.json](./114992-ghost-mountain.json) |
 | Ghost Mountain Roller Coaster | 157360 | [157360-ghost-mountain-roller-coaster.json](./157360-ghost-mountain-roller-coaster.json) |
 | Ghost Muncher | 38649 | [38649-ghost-muncher.json](./38649-ghost-muncher.json) |
@@ -6528,6 +6530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf | 18008 | [18008-golf.json](./18008-golf.json) |
 | Golf | 20382 | [20382-golf.json](./20382-golf.json) |
 | Golf | 231780 | [231780-golf.json](./231780-golf.json) |
+| Golf | 246178 | [246178-golf.json](./246178-golf.json) |
 | Golf | 246998 | [246998-golf.json](./246998-golf.json) |
 | Golf | 282126 | [282126-golf.json](./282126-golf.json) |
 | Golf | 310990 | [310990-golf.json](./310990-golf.json) |
