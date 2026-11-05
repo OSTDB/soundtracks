@@ -5846,6 +5846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Pro Wrestling: Iron Slam '96 | 44762 | [44762-fire-pro-wrestling-iron-slam-96.json](./44762-fire-pro-wrestling-iron-slam-96.json) |
 | Fire ProWrestling Z | 23718 | [23718-fire-prowrestling-z.json](./23718-fire-prowrestling-z.json) |
 | Fire Quest | 58421 | [58421-fire-quest.json](./58421-fire-quest.json) |
+| Fire Race | 287473 | [287473-fire-race.json](./287473-fire-race.json) |
 | Fire Racing | 285464 | [285464-fire-racing.json](./285464-fire-racing.json) |
 | Fire Rescue | 318366 | [318366-fire-rescue.json](./318366-fire-rescue.json) |
 | Fire Rescue | 80850 | [80850-fire-rescue.json](./80850-fire-rescue.json) |
@@ -6006,6 +6007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireman | 283009 | [283009-fireman.json](./283009-fireman.json) |
 | Fireman Fred | 14067 | [14067-fireman-fred.json](./14067-fireman-fred.json) |
 | Fireman Sam | 14068 | [14068-fireman-sam.json](./14068-fireman-sam.json) |
+| Fireman Sam | 287373 | [287373-fireman-sam.json](./287373-fireman-sam.json) |
 | Fireman Sam: Junior Cadet | 100486 | [100486-fireman-sam-junior-cadet.json](./100486-fireman-sam-junior-cadet.json) |
 | Fireman Titan Fights Games | 105934 | [105934-fireman-titan-fights-games.json](./105934-fireman-titan-fights-games.json) |
 | Fireman! Fire Fighter Truck Driving Games for Kids | 104504 | [104504-fireman-fire-fighter-truck-driving-games-for-kids.json](./104504-fireman-fire-fighter-truck-driving-games-for-kids.json) |
@@ -6763,6 +6765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights At Amendoca's | 330092 | [330092-five-nights-at-amendocas.json](./330092-five-nights-at-amendocas.json) |
 | Five Nights at Backrooms: Waifu Edition | 277828 | [277828-five-nights-at-backrooms-waifu-edition.json](./277828-five-nights-at-backrooms-waifu-edition.json) |
 | Five Nights At Bidens | 257665 | [257665-five-nights-at-bidens.json](./257665-five-nights-at-bidens.json) |
+| Five Nights at Billy's | 287443 | [287443-five-nights-at-billys.json](./287443-five-nights-at-billys.json) |
 | Five Nights at Candy's | 45983 | [45983-five-nights-at-candys.json](./45983-five-nights-at-candys.json) |
 | Five Nights at Candy's 2 | 45982 | [45982-five-nights-at-candys-2.json](./45982-five-nights-at-candys-2.json) |
 | Five Nights at Candy's 2 DX | 266215 | [266215-five-nights-at-candys-2-dx.json](./266215-five-nights-at-candys-2-dx.json) |
