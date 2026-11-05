@@ -1568,6 +1568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Witch Bell and Her Non-Magical Friends | 177884 | [177884-magical-witch-bell-and-her-non-magical-friends.json](./177884-magical-witch-bell-and-her-non-magical-friends.json) |
 | Magical x Spiral | 31488 | [31488-magical-x-spiral.json](./31488-magical-x-spiral.json) |
 | Magical Zunou Power!! DS | 70411 | [70411-magical-zunou-power-ds.json](./70411-magical-zunou-power-ds.json) |
+| MagicalCube | 270446 | [270446-magicalcube.json](./270446-magicalcube.json) |
 | MagicalGirl Mimi | 167397 | [167397-magicalgirl-mimi.json](./167397-magicalgirl-mimi.json) |
 | Magicalic Sky High: Soratobu Houki ni Omoi wo Nosete | 194554 | [194554-magicalic-sky-high-soratobu-houki-ni-omoi-wo-nosete.json](./194554-magicalic-sky-high-soratobu-houki-ni-omoi-wo-nosete.json) |
 | Magically Sorted | 423996 | [423996-magically-sorted.json](./423996-magically-sorted.json) |
@@ -2743,6 +2744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malzbie's Pinball Collection: The Garden Table | 166016 | [166016-malzbies-pinball-collection-the-garden-table.json](./166016-malzbies-pinball-collection-the-garden-table.json) |
 | Malzbie's Pinball Collection: Time Flight | 162736 | [162736-malzbies-pinball-collection-time-flight.json](./162736-malzbies-pinball-collection-time-flight.json) |
 | Mama | 403441 | [403441-mama.json](./403441-mama.json) |
+| Mama & Son: Clean House | 270447 | [270447-mama-and-son-clean-house.json](./270447-mama-and-son-clean-house.json) |
 | Mama Cabra | 341167 | [341167-mama-cabra.json](./341167-mama-cabra.json) |
 | Mama Die and Retry | 232953 | [232953-mama-die-and-retry.json](./232953-mama-die-and-retry.json) |
 | Mama Farm | 95612 | [95612-mama-farm.json](./95612-mama-farm.json) |
@@ -4104,12 +4106,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Picross X | 308707 | [308707-marios-picross-x.json](./308707-marios-picross-x.json) |
 | Mario's Point and Click 64 | 300267 | [300267-marios-point-and-click-64.json](./300267-marios-point-and-click-64.json) |
 | Mario's Pride: Mini Quest | 254516 | [254516-marios-pride-mini-quest.json](./254516-marios-pride-mini-quest.json) |
+| Mario's Red Curtain | 270365 | [270365-marios-red-curtain.json](./270365-marios-red-curtain.json) |
 | Mario's Return | 277073 | [277073-marios-return.json](./277073-marios-return.json) |
 | Mario's Rules: Variety on 3 | 323748 | [323748-marios-rules-variety-on-3.json](./323748-marios-rules-variety-on-3.json) |
 | Mario's Run | 318937 | [318937-marios-run.json](./318937-marios-run.json) |
 | Mario's Run | 320221 | [320221-marios-run.json](./320221-marios-run.json) |
 | Mario's Slightly Unusual Boss Rush | 318497 | [318497-marios-slightly-unusual-boss-rush.json](./318497-marios-slightly-unusual-boss-rush.json) |
 | Mario's Slightly Unusual Boss Rush: v2.0 Release | 381850 | [381850-marios-slightly-unusual-boss-rush-v2-0-release.json](./381850-marios-slightly-unusual-boss-rush-v2-0-release.json) |
+| Mario's Star Quest | 270366 | [270366-marios-star-quest.json](./270366-marios-star-quest.json) |
 | Mario's Star Quest 2 | 315014 | [315014-marios-star-quest-2.json](./315014-marios-star-quest-2.json) |
 | Mario's Strange Quest | 277072 | [277072-marios-strange-quest.json](./277072-marios-strange-quest.json) |
 | Mario's Super Picross | 80174 | [80174-marios-super-picross.json](./80174-marios-super-picross.json) |
@@ -4119,6 +4123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Time Machine DX | 323825 | [323825-marios-time-machine-dx.json](./323825-marios-time-machine-dx.json) |
 | Mario's Timeless Picross | 323055 | [323055-marios-timeless-picross.json](./323055-marios-timeless-picross.json) |
 | Mario's Timeship Battle | 318041 | [318041-marios-timeship-battle.json](./318041-marios-timeship-battle.json) |
+| Mario's Trip | 270367 | [270367-marios-trip.json](./270367-marios-trip.json) |
 | Mario's Vacation Course 64 | 155018 | [155018-marios-vacation-course-64.json](./155018-marios-vacation-course-64.json) |
 | Mario/Rabbids Crossover Adventure Game | 231477 | [231477-mario-rabbids-crossover-adventure-game.json](./231477-mario-rabbids-crossover-adventure-game.json) |
 | Marioblade Chronicles 64 | 219044 | [219044-marioblade-chronicles-64.json](./219044-marioblade-chronicles-64.json) |
@@ -5806,7 +5811,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -8201,6 +8205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megatramp: A Success Story | 312613 | [312613-megatramp-a-success-story.json](./312613-megatramp-a-success-story.json) |
 | MegaTraveller 1: The Zhodani Conspiracy | 12678 | [12678-megatraveller-1-the-zhodani-conspiracy.json](./12678-megatraveller-1-the-zhodani-conspiracy.json) |
 | MegaTraveller 2: Quest for the Ancients | 12679 | [12679-megatraveller-2-quest-for-the-ancients.json](./12679-megatraveller-2-quest-for-the-ancients.json) |
+| Megatris: Arcade Edition | 270421 | [270421-megatris-arcade-edition.json](./270421-megatris-arcade-edition.json) |
 | Megatron VGA | 46648 | [46648-megatron-vga.json](./46648-megatron-vga.json) |
 | Megatronic Void | 59226 | [59226-megatronic-void.json](./59226-megatronic-void.json) |
 | Megatudo 2096 | 43827 | [43827-megatudo-2096.json](./43827-megatudo-2096.json) |
@@ -19747,6 +19752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cat-Grandma vs. Vampire | 241821 | [241821-my-cat-grandma-vs-vampire.json](./241821-my-cat-grandma-vs-vampire.json) |
 | My Cat: Virtual Pet Simulator | 331358 | [331358-my-cat-virtual-pet-simulator.json](./331358-my-cat-virtual-pet-simulator.json) |
 | My Catgirl Maid Thinks She Runs the Place | 152298 | [152298-my-catgirl-maid-thinks-she-runs-the-place.json](./152298-my-catgirl-maid-thinks-she-runs-the-place.json) |
+| My Chabudai | 270448 | [270448-my-chabudai.json](./270448-my-chabudai.json) |
 | My Chameleon Girlfriend | 223691 | [223691-my-chameleon-girlfriend.json](./223691-my-chameleon-girlfriend.json) |
 | My Chandroid Sweetheart | 333434 | [333434-my-chandroid-sweetheart.json](./333434-my-chandroid-sweetheart.json) |
 | My Charming Butlers | 299023 | [299023-my-charming-butlers.json](./299023-my-charming-butlers.json) |
