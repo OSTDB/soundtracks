@@ -7748,6 +7748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiking Simulator 2017 | 55491 | [55491-hiking-simulator-2017.json](./55491-hiking-simulator-2017.json) |
 | Hiking Simulator 2018 | 84088 | [84088-hiking-simulator-2018.json](./84088-hiking-simulator-2018.json) |
 | Hikisakareta Badaaru | 394545 | [394545-hikisakareta-badaaru.json](./394545-hikisakareta-badaaru.json) |
+| Hikkikomori Quest | 267172 | [267172-hikkikomori-quest.json](./267172-hikkikomori-quest.json) |
 | Hikkonuki Pikmin | 232900 | [232900-hikkonuki-pikmin.json](./232900-hikkonuki-pikmin.json) |
 | Hilarious Delivery | 390224 | [390224-hilarious-delivery.json](./390224-hilarious-delivery.json) |
 | Hilda | 134360 | [134360-hilda.json](./134360-hilda.json) |
