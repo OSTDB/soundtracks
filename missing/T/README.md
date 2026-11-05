@@ -32240,6 +32240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisty Twins | 244111 | [244111-twisty-twins.json](./244111-twisty-twins.json) |
 | Twisty's Asylum Escapades | 31940 | [31940-twistys-asylum-escapades.json](./31940-twistys-asylum-escapades.json) |
 | Twitch Dates Pokemon | 246577 | [246577-twitch-dates-pokemon.json](./246577-twitch-dates-pokemon.json) |
+| Twitch Party | 290738 | [290738-twitch-party.json](./290738-twitch-party.json) |
 | Twitch Place | 230971 | [230971-twitch-place.json](./230971-twitch-place.json) |
 | Twitch Plays Pokémon: Anniversary Red | 222658 | [222658-twitch-plays-pokemon-anniversary-red.json](./222658-twitch-plays-pokemon-anniversary-red.json) |
 | Twitch Sings | 117421 | [117421-twitch-sings.json](./117421-twitch-sings.json) |
