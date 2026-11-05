@@ -728,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Loney | 207765 | [207765-a-loney.json](./207765-a-loney.json) |
 | A Long Climb Ago | 349207 | [349207-a-long-climb-ago.json](./349207-a-long-climb-ago.json) |
 | A Long Dark Night | 280102 | [280102-a-long-dark-night.json](./280102-a-long-dark-night.json) |
+| A Long Goodbye | 283528 | [283528-a-long-goodbye.json](./283528-a-long-goodbye.json) |
 | A Long Journey to an Uncertain End | 140296 | [140296-a-long-journey-to-an-uncertain-end.json](./140296-a-long-journey-to-an-uncertain-end.json) |
 | A Long Long Night | 335687 | [335687-a-long-long-night.json](./335687-a-long-long-night.json) |
 | A Long Night For Crazy King | 120969 | [120969-a-long-night-for-crazy-king.json](./120969-a-long-night-for-crazy-king.json) |
@@ -5512,7 +5513,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Architect | 36765 | [36765-airport-architect.json](./36765-airport-architect.json) |
 | Airport Baggage Simulator | 372497 | [372497-airport-baggage-simulator.json](./372497-airport-baggage-simulator.json) |
 | Airport Boss | 297230 | [297230-airport-boss.json](./297230-airport-boss.json) |
-| Airport CEO | 52524 | [52524-airport-ceo.json](./52524-airport-ceo.json) |
 | Airport CEO: Beasts of the East | 193185 | [193185-airport-ceo-beasts-of-the-east.json](./193185-airport-ceo-beasts-of-the-east.json) |
 | Airport CEO: Business Class Edition | 202127 | [202127-airport-ceo-business-class-edition.json](./202127-airport-ceo-business-class-edition.json) |
 | Airport CEO: Helicopters | 272868 | [272868-airport-ceo-helicopters.json](./272868-airport-ceo-helicopters.json) |
@@ -5586,7 +5586,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airship Killer | 181086 | [181086-airship-killer.json](./181086-airship-killer.json) |
 | Airship Knights | 231980 | [231980-airship-knights.json](./231980-airship-knights.json) |
 | Airship: Kingdoms Adrift | 231336 | [231336-airship-kingdoms-adrift.json](./231336-airship-kingdoms-adrift.json) |
-| Airships: Conquer the Skies | 35934 | [35934-airships-conquer-the-skies.json](./35934-airships-conquer-the-skies.json) |
 | Airships: Heroes and Villains | 244353 | [244353-airships-heroes-and-villains.json](./244353-airships-heroes-and-villains.json) |
 | AirShooShoo | 207589 | [207589-airshooshoo.json](./207589-airshooshoo.json) |
 | Airskipper | 401463 | [401463-airskipper.json](./401463-airskipper.json) |
@@ -7636,6 +7635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpine | 302820 | [302820-alpine.json](./302820-alpine.json) |
 | Alpine | 374014 | [374014-alpine.json](./374014-alpine.json) |
 | Alpine Alpaca | 181218 | [181218-alpine-alpaca.json](./181218-alpine-alpaca.json) |
+| Alpine Ascent | 283440 | [283440-alpine-ascent.json](./283440-alpine-ascent.json) |
 | Alpine Crawler | 88732 | [88732-alpine-crawler.json](./88732-alpine-crawler.json) |
 | Alpine Crawler Wild | 174199 | [174199-alpine-crawler-wild.json](./174199-alpine-crawler-wild.json) |
 | Alpine Crawler World | 174342 | [174342-alpine-crawler-world.json](./174342-alpine-crawler-world.json) |
@@ -16240,7 +16240,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
