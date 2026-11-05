@@ -2412,7 +2412,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Mantis | 196671 | [196671-immortal-mantis.json](./196671-immortal-mantis.json) |
 | Immortal Mantis: Revenge | 264742 | [264742-immortal-mantis-revenge.json](./264742-immortal-mantis-revenge.json) |
 | Immortal Markets Stock Market Simulator Game | 312444 | [312444-immortal-markets-stock-market-simulator-game.json](./312444-immortal-markets-stock-market-simulator-game.json) |
-| Immortal Planet | 27282 | [27282-immortal-planet.json](./27282-immortal-planet.json) |
 | Immortal Quest | 106398 | [106398-immortal-quest.json](./106398-immortal-quest.json) |
 | Immortal Realms: Vampire Wars | 119258 | [119258-immortal-realms-vampire-wars.json](./119258-immortal-realms-vampire-wars.json) |
 | Immortal Realms: Vampire Wars - Fangs and Bones | 238480 | [238480-immortal-realms-vampire-wars-fangs-and-bones.json](./238480-immortal-realms-vampire-wars-fangs-and-bones.json) |
@@ -3113,6 +3112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incremaze | 424023 | [424023-incremaze.json](./424023-incremaze.json) |
 | Incremedieval | 417754 | [417754-incremedieval.json](./417754-incremedieval.json) |
 | Increment | 197532 | [197532-increment.json](./197532-increment.json) |
+| Incremental Adventures | 282410 | [282410-incremental-adventures.json](./282410-incremental-adventures.json) |
 | Incremental Cats | 387314 | [387314-incremental-cats.json](./387314-incremental-cats.json) |
 | Incremental Cubes | 367990 | [367990-incremental-cubes.json](./367990-incremental-cubes.json) |
 | Incremental Dice | 319879 | [319879-incremental-dice.json](./319879-incremental-dice.json) |
@@ -3755,7 +3755,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4319,6 +4318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insanio | 390375 | [390375-insanio.json](./390375-insanio.json) |
 | Insaniquarium! | 334696 | [334696-insaniquarium.json](./334696-insaniquarium.json) |
 | Insaniquarium! Deluxe | 8323 | [8323-insaniquarium-deluxe.json](./8323-insaniquarium-deluxe.json) |
+| Insanis: The 2D Cube Puzzle | 282390 | [282390-insanis-the-2d-cube-puzzle.json](./282390-insanis-the-2d-cube-puzzle.json) |
 | Insanitation | 346527 | [346527-insanitation.json](./346527-insanitation.json) |
 | Insanity | 206574 | [206574-insanity.json](./206574-insanity.json) |
 | Insanity | 281350 | [281350-insanity.json](./281350-insanity.json) |
@@ -6365,6 +6365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Makes for Painful Work | 353817 | [353817-it-makes-for-painful-work.json](./353817-it-makes-for-painful-work.json) |
 | It Mimics | 280104 | [280104-it-mimics.json](./280104-it-mimics.json) |
 | It Moves | 98215 | [98215-it-moves.json](./98215-it-moves.json) |
+| It Paints Me | 283531 | [283531-it-paints-me.json](./283531-it-paints-me.json) |
 | It Pays to Be a Winner | 122410 | [122410-it-pays-to-be-a-winner.json](./122410-it-pays-to-be-a-winner.json) |
 | It Reaches | 373840 | [373840-it-reaches.json](./373840-it-reaches.json) |
 | It Returned to the Desert | 223796 | [223796-it-returned-to-the-desert.json](./223796-it-returned-to-the-desert.json) |
