@@ -15543,6 +15543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project F.A.L.S.E. | 156529 | [156529-project-f-a-l-s-e.json](./156529-project-f-a-l-s-e.json) |
 | Project Faceless | 340048 | [340048-project-faceless.json](./340048-project-faceless.json) |
 | Project Faith | 223380 | [223380-project-faith.json](./223380-project-faith.json) |
+| Project Fantasy | 254858 | [254858-project-fantasy.json](./254858-project-fantasy.json) |
 | Project Feline | 200874 | [200874-project-feline.json](./200874-project-feline.json) |
 | Project Field | 26424 | [26424-project-field.json](./26424-project-field.json) |
 | Project Fiend | 346247 | [346247-project-fiend.json](./346247-project-fiend.json) |
