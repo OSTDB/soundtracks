@@ -957,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -14222,6 +14223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Explode | 358737 | [358737-brain-explode.json](./358737-brain-explode.json) |
 | Brain Frame | 142612 | [142612-brain-frame.json](./142612-brain-frame.json) |
 | Brain Games | 167193 | [167193-brain-games.json](./167193-brain-games.json) |
+| Brain Games | 247277 | [247277-brain-games.json](./247277-brain-games.json) |
 | Brain Games | 54843 | [54843-brain-games.json](./54843-brain-games.json) |
 | Brain Games Mahjongg | 25011 | [25011-brain-games-mahjongg.json](./25011-brain-games-mahjongg.json) |
 | Brain Games: Brain Puzzles 2 | 206481 | [206481-brain-games-brain-puzzles-2.json](./206481-brain-games-brain-puzzles-2.json) |
