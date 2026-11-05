@@ -8921,6 +8921,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plane Weaver | 91841 | [91841-plane-weaver.json](./91841-plane-weaver.json) |
 | Planecraft | 279494 | [279494-planecraft.json](./279494-planecraft.json) |
 | Planes | 17172 | [17172-planes.json](./17172-planes.json) |
+| Planes | 259322 | [259322-planes.json](./259322-planes.json) |
+| Planes | 259323 | [259323-planes.json](./259323-planes.json) |
+| Planes | 259327 | [259327-planes.json](./259327-planes.json) |
 | Planes | 262093 | [262093-planes.json](./262093-planes.json) |
 | Planes and Trains and Automobiles | 209381 | [209381-planes-and-trains-and-automobiles.json](./209381-planes-and-trains-and-automobiles.json) |
 | Planes Attack | 116759 | [116759-planes-attack.json](./116759-planes-attack.json) |
@@ -8942,6 +8945,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet 2000 | 99523 | [99523-planet-2000.json](./99523-planet-2000.json) |
 | Planet 2117 | 43145 | [43145-planet-2117.json](./43145-planet-2117.json) |
 | Planet 51: The Game | 21088 | [21088-planet-51-the-game.json](./21088-planet-51-the-game.json) |
+| Planet 51: The Game | 259317 | [259317-planet-51-the-game.json](./259317-planet-51-the-game.json) |
+| Planet 51: The Game | 259318 | [259318-planet-51-the-game.json](./259318-planet-51-the-game.json) |
 | Planet After Us | 195613 | [195613-planet-after-us.json](./195613-planet-after-us.json) |
 | Planet Alcatraz | 36385 | [36385-planet-alcatraz.json](./36385-planet-alcatraz.json) |
 | Planet Alcatraz 2 | 34779 | [34779-planet-alcatraz-2.json](./34779-planet-alcatraz-2.json) |
