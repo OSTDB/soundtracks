@@ -3135,6 +3135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casanova | 397863 | [397863-casanova.json](./397863-casanova.json) |
 | Casanova Simulator | 373085 | [373085-casanova-simulator.json](./373085-casanova-simulator.json) |
 | Casanova: The Duel of the Black Rose | 71708 | [71708-casanova-the-duel-of-the-black-rose.json](./71708-casanova-the-duel-of-the-black-rose.json) |
+| Casca a Cobra | 251319 | [251319-casca-a-cobra.json](./251319-casca-a-cobra.json) |
 | Cascabel | 423260 | [423260-cascabel.json](./423260-cascabel.json) |
 | Cascada | 349186 | [349186-cascada.json](./349186-cascada.json) |
 | Cascade | 128645 | [128645-cascade.json](./128645-cascade.json) |
@@ -5279,6 +5280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centipede/Breakout/Warlords | 79816 | [79816-centipede-breakout-warlords.json](./79816-centipede-breakout-warlords.json) |
 | Centipulp | 230787 | [230787-centipulp.json](./230787-centipulp.json) |
 | Cento | 281985 | [281985-cento.json](./281985-cento.json) |
+| Centopeia | 251320 | [251320-centopeia.json](./251320-centopeia.json) |
 | Central Bank | 364014 | [364014-central-bank.json](./364014-central-bank.json) |
 | Central de Atividades | 290098 | [290098-central-de-atividades.json](./290098-central-de-atividades.json) |
 | Central De Fantasmas: Los Huéspedes De Mortimer | 260102 | [260102-central-de-fantasmas-los-huespedes-de-mortimer.json](./260102-central-de-fantasmas-los-huespedes-de-mortimer.json) |
@@ -10110,6 +10112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clickyland | 291296 | [291296-clickyland.json](./291296-clickyland.json) |
 | Clientele | 213020 | [213020-clientele.json](./213020-clientele.json) |
 | Clif Danger | 129401 | [129401-clif-danger.json](./129401-clif-danger.json) |
+| Cliff Drift | 251335 | [251335-cliff-drift.json](./251335-cliff-drift.json) |
 | Cliff Empire | 99124 | [99124-cliff-empire.json](./99124-cliff-empire.json) |
 | Cliff Hanger | 24504 | [24504-cliff-hanger.json](./24504-cliff-hanger.json) |
 | Cliff Hanger | 317146 | [317146-cliff-hanger.json](./317146-cliff-hanger.json) |
@@ -12435,6 +12438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat: Task Force 121 | 24745 | [24745-combat-task-force-121.json](./24745-combat-task-force-121.json) |
 | Combatant | 193407 | [193407-combatant.json](./193407-combatant.json) |
 | CombatArms: Reloaded | 110906 | [110906-combatarms-reloaded.json](./110906-combatarms-reloaded.json) |
+| Combate | 251313 | [251313-combate.json](./251313-combate.json) |
 | Combate Monero | 117622 | [117622-combate-monero.json](./117622-combate-monero.json) |
 | Combats | 253238 | [253238-combats.json](./253238-combats.json) |
 | Combi Pool | 291603 | [291603-combi-pool.json](./291603-combi-pool.json) |
@@ -15930,6 +15934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cranner | 212301 | [212301-cranner.json](./212301-cranner.json) |
 | CRAP | 223517 | [223517-crap.json](./223517-crap.json) |
 | Crap Attack | 55770 | [55770-crap-attack.json](./55770-crap-attack.json) |
+| Crap Game Compilation 2 | 251315 | [251315-crap-game-compilation-2.json](./251315-crap-game-compilation-2.json) |
 | Crap Game, Don’t Play | 365075 | [365075-crap-game-don-t-play.json](./365075-crap-game-don-t-play.json) |
 | Crap! No One Loves Me | 59126 | [59126-crap-no-one-loves-me.json](./59126-crap-no-one-loves-me.json) |
 | Crapette | 332253 | [332253-crapette.json](./332253-crapette.json) |
