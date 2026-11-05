@@ -3389,6 +3389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Money | 57049 | [57049-get-money.json](./57049-get-money.json) |
 | Get More Fries! | 306322 | [306322-get-more-fries.json](./306322-get-more-fries.json) |
 | Get Mushi Club: Minna no Konchuu Daizukan | 153816 | [153816-get-mushi-club-minna-no-konchuu-daizukan.json](./153816-get-mushi-club-minna-no-konchuu-daizukan.json) |
+| Get Off My Lawn | 285276 | [285276-get-off-my-lawn.json](./285276-get-off-my-lawn.json) |
 | Get Off My Planet | 180645 | [180645-get-off-my-planet.json](./180645-get-off-my-planet.json) |
 | Get Off My Space! | 192233 | [192233-get-off-my-space.json](./192233-get-off-my-space.json) |
 | Get off Work | 304911 | [304911-get-off-work.json](./304911-get-off-work.json) |
@@ -7608,6 +7609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Brix Shooter | 121532 | [121532-grand-brix-shooter.json](./121532-grand-brix-shooter.json) |
 | Grand Bubble Shoot | 99096 | [99096-grand-bubble-shoot.json](./99096-grand-bubble-shoot.json) |
 | Grand Canvas | 425855 | [425855-grand-canvas.json](./425855-grand-canvas.json) |
+| Grand Canyon | 285263 | [285263-grand-canyon.json](./285263-grand-canyon.json) |
 | Grand Cash Casino Slots | 386226 | [386226-grand-cash-casino-slots.json](./386226-grand-cash-casino-slots.json) |
 | Grand Casino | 295032 | [295032-grand-casino.json](./295032-grand-casino.json) |
 | Grand Casino Tycoon | 148257 | [148257-grand-casino-tycoon.json](./148257-grand-casino-tycoon.json) |
@@ -11161,6 +11163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gym Empire | 97267 | [97267-gym-empire.json](./97267-gym-empire.json) |
 | Gym Lifting Hero: Tile Master | 340527 | [340527-gym-lifting-hero-tile-master.json](./340527-gym-lifting-hero-tile-master.json) |
 | Gym Nights | 274487 | [274487-gym-nights.json](./274487-gym-nights.json) |
+| Gym or Jail? | 285254 | [285254-gym-or-jail.json](./285254-gym-or-jail.json) |
 | Gym Orgasm | 340407 | [340407-gym-orgasm.json](./340407-gym-orgasm.json) |
 | Gym Rat Simulator | 410888 | [410888-gym-rat-simulator.json](./410888-gym-rat-simulator.json) |
 | Gym Simulator | 101396 | [101396-gym-simulator.json](./101396-gym-simulator.json) |
