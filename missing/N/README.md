@@ -4629,6 +4629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmarise | 376859 | [376859-nightmarise.json](./376859-nightmarise.json) |
 | Nightmarish Paranoia | 379308 | [379308-nightmarish-paranoia.json](./379308-nightmarish-paranoia.json) |
 | Nightmaze | 400722 | [400722-nightmaze.json](./400722-nightmaze.json) |
+| NightMetal | 247846 | [247846-nightmetal.json](./247846-nightmetal.json) |
 | Nightmist | 406906 | [406906-nightmist.json](./406906-nightmist.json) |
 | Nightmist Online | 140434 | [140434-nightmist-online.json](./140434-nightmist-online.json) |
 | Nightomb | 260857 | [260857-nightomb.json](./260857-nightomb.json) |
