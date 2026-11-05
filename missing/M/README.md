@@ -12712,6 +12712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minicology | 150771 | [150771-minicology.json](./150771-minicology.json) |
 | Miniconomy | 108966 | [108966-miniconomy.json](./108966-miniconomy.json) |
 | MiniCopter: Adventure Flight | 51064 | [51064-minicopter-adventure-flight.json](./51064-minicopter-adventure-flight.json) |
+| Minicraft | 269923 | [269923-minicraft.json](./269923-minicraft.json) |
 | MiniCraft Adventure | 96777 | [96777-minicraft-adventure.json](./96777-minicraft-adventure.json) |
 | Minicraft Shooter | 157444 | [157444-minicraft-shooter.json](./157444-minicraft-shooter.json) |
 | Minidinos | 369729 | [369729-minidinos.json](./369729-minidinos.json) |
