@@ -370,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Flights of Ballooning | 195018 | [195018-10-flights-of-ballooning.json](./195018-10-flights-of-ballooning.json) |
 | 10 Frame Bowling | 64247 | [64247-10-frame-bowling.json](./64247-10-frame-bowling.json) |
 | 10 Games | 319563 | [319563-10-games.json](./319563-10-games.json) |
+| 10 Games in 1 | 279378 | [279378-10-games-in-1.json](./279378-10-games-in-1.json) |
 | 10 Gnomes 1: The Rooftops | 306567 | [306567-10-gnomes-1-the-rooftops.json](./306567-10-gnomes-1-the-rooftops.json) |
 | 10 Gnomes 10: Seashore | 383538 | [383538-10-gnomes-10-seashore.json](./383538-10-gnomes-10-seashore.json) |
 | 10 Gnomes 11: the Remains | 383542 | [383542-10-gnomes-11-the-remains.json](./383542-10-gnomes-11-the-remains.json) |
