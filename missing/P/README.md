@@ -5039,6 +5039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PGA Tour 2K21: Deluxe Edition | 136291 | [136291-pga-tour-2k21-deluxe-edition.json](./136291-pga-tour-2k21-deluxe-edition.json) |
 | PGA Tour 2K21: Digital Deluxe Edition | 164831 | [164831-pga-tour-2k21-digital-deluxe-edition.json](./164831-pga-tour-2k21-digital-deluxe-edition.json) |
 | PGA Tour 2K23: Deluxe Edition | 214136 | [214136-pga-tour-2k23-deluxe-edition.json](./214136-pga-tour-2k23-deluxe-edition.json) |
+| PGA TOUR 2K23: Michael Jordan Bonus Pack | 263260 | [263260-pga-tour-2k23-michael-jordan-bonus-pack.json](./263260-pga-tour-2k23-michael-jordan-bonus-pack.json) |
 | PGA Tour 2K23: Style & Swing Pack | 307973 | [307973-pga-tour-2k23-style-and-swing-pack.json](./307973-pga-tour-2k23-style-and-swing-pack.json) |
 | PGA Tour 2K23: Tiger Woods Edition | 221421 | [221421-pga-tour-2k23-tiger-woods-edition.json](./221421-pga-tour-2k23-tiger-woods-edition.json) |
 | PGA Tour 2K23: Tiger Woods Signature Sunday Pack | 237813 | [237813-pga-tour-2k23-tiger-woods-signature-sunday-pack.json](./237813-pga-tour-2k23-tiger-woods-signature-sunday-pack.json) |
@@ -6816,6 +6817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX: Marvel Pinball - Marvel Legends Pack | 263308 | [263308-pinball-fx-marvel-pinball-marvel-legends-pack.json](./263308-pinball-fx-marvel-pinball-marvel-legends-pack.json) |
 | Pinball FX: Marvel Pinball - Vengeance and Virtue | 247690 | [247690-pinball-fx-marvel-pinball-vengeance-and-virtue.json](./247690-pinball-fx-marvel-pinball-vengeance-and-virtue.json) |
 | Pinball FX: Marvel Pinball Collection 1 | 239027 | [239027-pinball-fx-marvel-pinball-collection-1.json](./239027-pinball-fx-marvel-pinball-collection-1.json) |
+| Pinball FX: Marvel Pinball Original Pack | 263302 | [263302-pinball-fx-marvel-pinball-original-pack.json](./263302-pinball-fx-marvel-pinball-original-pack.json) |
 | Pinball FX: Marvel's Women of Power | 247661 | [247661-pinball-fx-marvels-women-of-power.json](./247661-pinball-fx-marvels-women-of-power.json) |
 | Pinball FX: My Little Pony Pinball | 247695 | [247695-pinball-fx-my-little-pony-pinball.json](./247695-pinball-fx-my-little-pony-pinball.json) |
 | Pinball FX: Nightmare Mansion | 395547 | [395547-pinball-fx-nightmare-mansion.json](./395547-pinball-fx-nightmare-mansion.json) |
@@ -7732,9 +7734,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixapple Adventure | 388011 | [388011-pixapple-adventure.json](./388011-pixapple-adventure.json) |
 | Pixar Pals | 230398 | [230398-pixar-pals.json](./230398-pixar-pals.json) |
 | Pixar Pals Plus! | 230329 | [230329-pixar-pals-plus.json](./230329-pixar-pals-plus.json) |
+| PixArk: A Jingle - Jangle Christmas Pack | 263274 | [263274-pixark-a-jingle-jangle-christmas-pack.json](./263274-pixark-a-jingle-jangle-christmas-pack.json) |
 | PixArk: A Sweet Pack for the Sweetest | 247366 | [247366-pixark-a-sweet-pack-for-the-sweetest.json](./247366-pixark-a-sweet-pack-for-the-sweetest.json) |
 | PixArk: Jade Elegance - A Theatrical Odyssey in the East | 291059 | [291059-pixark-jade-elegance-a-theatrical-odyssey-in-the-east.json](./291059-pixark-jade-elegance-a-theatrical-odyssey-in-the-east.json) |
 | PixArk: Skyward - Expansion Pack | 227009 | [227009-pixark-skyward-expansion-pack.json](./227009-pixark-skyward-expansion-pack.json) |
+| PixArk: Wonder in Water | 263261 | [263261-pixark-wonder-in-water.json](./263261-pixark-wonder-in-water.json) |
 | Pixasso | 164868 | [164868-pixasso.json](./164868-pixasso.json) |
 | Pixasso 2 | 165703 | [165703-pixasso-2.json](./165703-pixasso-2.json) |
 | Pixasso 3 | 166624 | [166624-pixasso-3.json](./166624-pixasso-3.json) |
