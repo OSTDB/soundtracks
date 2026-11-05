@@ -805,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaori After Story | 112770 | [112770-kaori-after-story.json](./112770-kaori-after-story.json) |
 | Kaorin Fight | 305426 | [305426-kaorin-fight.json](./305426-kaorin-fight.json) |
 | Kaos | 118397 | [118397-kaos.json](./118397-kaos.json) |
+| Kaos | 281848 | [281848-kaos.json](./281848-kaos.json) |
 | Kaos 2 | 57724 | [57724-kaos-2.json](./57724-kaos-2.json) |
 | Kaos Kards | 374247 | [374247-kaos-kards.json](./374247-kaos-kards.json) |
 | Kǎpái Màoxiǎnzhě | 148369 | [148369-kapai-maoxianzhe.json](./148369-kapai-maoxianzhe.json) |
