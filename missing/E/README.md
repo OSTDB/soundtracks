@@ -838,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes From Ciudadela | 387335 | [387335-echoes-from-ciudadela.json](./387335-echoes-from-ciudadela.json) |
 | Echoes from Levia: Soulbound | 105816 | [105816-echoes-from-levia-soulbound.json](./105816-echoes-from-levia-soulbound.json) |
 | Echoes from the Abyss | 309135 | [309135-echoes-from-the-abyss.json](./309135-echoes-from-the-abyss.json) |
+| Echoes From The Past | 293564 | [293564-echoes-from-the-past.json](./293564-echoes-from-the-past.json) |
 | Echoes From The Soul | 379839 | [379839-echoes-from-the-soul.json](./379839-echoes-from-the-soul.json) |
 | Echoes From The Threshold 2 | 267289 | [267289-echoes-from-the-threshold-2.json](./267289-echoes-from-the-threshold-2.json) |
 | Echoes Ⅱ | 303505 | [303505-echoes-ii.json](./303505-echoes-ii.json) |
@@ -2468,6 +2469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elf Girl Pinball | 212891 | [212891-elf-girl-pinball.json](./212891-elf-girl-pinball.json) |
 | Elf Girls | 393045 | [393045-elf-girls.json](./393045-elf-girls.json) |
 | Elf Kicker | 285417 | [285417-elf-kicker.json](./285417-elf-kicker.json) |
+| Elf Kicker: Level Pack (10 Levels) | 293446 | [293446-elf-kicker-level-pack-10-levels.json](./293446-elf-kicker-level-pack-10-levels.json) |
 | Elf Manor | 126422 | [126422-elf-manor.json](./126422-elf-manor.json) |
 | Elf no Oyome-san: Harem Kon Suishou | 416018 | [416018-elf-no-oyome-san-harem-kon-suishou.json](./416018-elf-no-oyome-san-harem-kon-suishou.json) |
 | Elf of Era! Idols Project | 394774 | [394774-elf-of-era-idols-project.json](./394774-elf-of-era-idols-project.json) |
@@ -6465,6 +6467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve Online: Revenant | 329685 | [329685-eve-online-revenant.json](./329685-eve-online-revenant.json) |
 | Eve Online: Rubicon | 329906 | [329906-eve-online-rubicon.json](./329906-eve-online-rubicon.json) |
 | Eve Online: Special Edition | 329788 | [329788-eve-online-special-edition.json](./329788-eve-online-special-edition.json) |
+| Eve Online: Starter pack | 293448 | [293448-eve-online-starter-pack.json](./293448-eve-online-starter-pack.json) |
 | Eve Online: Zenith - Quadrant 3 | 329917 | [329917-eve-online-zenith-quadrant-3.json](./329917-eve-online-zenith-quadrant-3.json) |
 | EVE Vanguard | 277846 | [277846-eve-vanguard.json](./277846-eve-vanguard.json) |
 | Eve Zero | 44729 | [44729-eve-zero.json](./44729-eve-zero.json) |
@@ -7321,6 +7324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Execution | 13650 | [13650-execution.json](./13650-execution.json) |
 | Executioner | 88648 | [88648-executioner.json](./88648-executioner.json) |
 | Executioner Girls | 243572 | [243572-executioner-girls.json](./243572-executioner-girls.json) |
+| Executioner Girls: Legacy Pack | 293447 | [293447-executioner-girls-legacy-pack.json](./293447-executioner-girls-legacy-pack.json) |
 | Executioners | 91867 | [91867-executioners.json](./91867-executioners.json) |
 | Executive Assault | 11585 | [11585-executive-assault.json](./11585-executive-assault.json) |
 | Executive Assault 2 | 110573 | [110573-executive-assault-2.json](./110573-executive-assault-2.json) |
