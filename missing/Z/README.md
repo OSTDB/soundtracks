@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZeiramZone | 43809 | [43809-zeiramzone.json](./43809-zeiramzone.json) |
 | Zeitgeist | 178539 | [178539-zeitgeist.json](./178539-zeitgeist.json) |
 | Zeitgeist | 374957 | [374957-zeitgeist.json](./374957-zeitgeist.json) |
+| Zeitghast | 266010 | [266010-zeitghast.json](./266010-zeitghast.json) |
 | Zeitz Machz: Rhapsody | 293142 | [293142-zeitz-machz-rhapsody.json](./293142-zeitz-machz-rhapsody.json) |
 | Zeke's Peak | 119491 | [119491-zekes-peak.json](./119491-zekes-peak.json) |
 | Zekertune | 350318 | [350318-zekertune.json](./350318-zekertune.json) |
