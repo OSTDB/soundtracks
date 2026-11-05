@@ -1998,6 +1998,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Solitaire Refresh: Ex Panels | 170928 | [170928-mahjong-solitaire-refresh-ex-panels.json](./170928-mahjong-solitaire-refresh-ex-panels.json) |
 | Mahjong Soul | 117263 | [117263-mahjong-soul.json](./117263-mahjong-soul.json) |
 | Mahjong Strip Solitaire: Harem Guild | 286410 | [286410-mahjong-strip-solitaire-harem-guild.json](./286410-mahjong-strip-solitaire-harem-guild.json) |
+| Mahjong Sword: Princess Quest | 255443 | [255443-mahjong-sword-princess-quest.json](./255443-mahjong-sword-princess-quest.json) |
+| Mahjong Sword: Princess Quest Gaiden | 255444 | [255444-mahjong-sword-princess-quest-gaiden.json](./255444-mahjong-sword-princess-quest-gaiden.json) |
 | Mahjong Taikai | 48788 | [48788-mahjong-taikai.json](./48788-mahjong-taikai.json) |
 | Mahjong Taikai | 80797 | [80797-mahjong-taikai.json](./80797-mahjong-taikai.json) |
 | Mahjong Taikai II | 37936 | [37936-mahjong-taikai-ii.json](./37936-mahjong-taikai-ii.json) |
@@ -2186,6 +2188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mail de Cute | 49703 | [49703-mail-de-cute.json](./49703-mail-de-cute.json) |
 | Mail Mares | 404344 | [404344-mail-mares.json](./404344-mail-mares.json) |
 | Mail Mole | 132540 | [132540-mail-mole.json](./132540-mail-mole.json) |
+| Mail Mole + 'Xpress Deliveries | 255419 | [255419-mail-mole-xpress-deliveries.json](./255419-mail-mole-xpress-deliveries.json) |
 | Mail Mole + Expansions Bundle | 238186 | [238186-mail-mole-expansions-bundle.json](./238186-mail-mole-expansions-bundle.json) |
 | Mail Mole: 'Xpress Deliveries | 238444 | [238444-mail-mole-xpress-deliveries.json](./238444-mail-mole-xpress-deliveries.json) |
 | Mail Mole: Collector's Edition | 203098 | [203098-mail-mole-collectors-edition.json](./203098-mail-mole-collectors-edition.json) |
