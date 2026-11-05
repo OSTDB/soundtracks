@@ -9869,6 +9869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleed 2: Deluxe Edition | 118743 | [118743-bleed-2-deluxe-edition.json](./118743-bleed-2-deluxe-edition.json) |
 | Bleed Complete Bundle | 118854 | [118854-bleed-complete-bundle.json](./118854-bleed-complete-bundle.json) |
 | Bleed Runner | 276237 | [276237-bleed-runner.json](./276237-bleed-runner.json) |
+| Bleed: Arcade Arena Shooter | 256033 | [256033-bleed-arcade-arena-shooter.json](./256033-bleed-arcade-arena-shooter.json) |
 | Bleed: Deluxe Edition | 118954 | [118954-bleed-deluxe-edition.json](./118954-bleed-deluxe-edition.json) |
 | Bleeding | 394632 | [394632-bleeding.json](./394632-bleeding.json) |
 | Bleeding Border | 34250 | [34250-bleeding-border.json](./34250-bleeding-border.json) |
@@ -11759,6 +11760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boat Simulator Apprentice | 187180 | [187180-boat-simulator-apprentice.json](./187180-boat-simulator-apprentice.json) |
 | Boat Together | 374848 | [374848-boat-together.json](./374848-boat-together.json) |
 | Boat Train | 227867 | [227867-boat-train.json](./227867-boat-train.json) |
+| Boat Trip | 256055 | [256055-boat-trip.json](./256055-boat-trip.json) |
 | Boat Violence: Ship Happens | 122197 | [122197-boat-violence-ship-happens.json](./122197-boat-violence-ship-happens.json) |
 | Boat Warfare | 154247 | [154247-boat-warfare.json](./154247-boat-warfare.json) |
 | Boatgator | 253359 | [253359-boatgator.json](./253359-boatgator.json) |
@@ -13177,6 +13179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boreal Tenebrae Deluxe: Special Edition | 252633 | [252633-boreal-tenebrae-deluxe-special-edition.json](./252633-boreal-tenebrae-deluxe-special-edition.json) |
 | Boreal Tenebrae: Deluxe Definitive Edition | 259582 | [259582-boreal-tenebrae-deluxe-definitive-edition.json](./259582-boreal-tenebrae-deluxe-definitive-edition.json) |
 | Boreal Tenebrae: Deluxe Extended Edition | 250366 | [250366-boreal-tenebrae-deluxe-extended-edition.json](./250366-boreal-tenebrae-deluxe-extended-edition.json) |
+| Boreal Tenebrae: Deluxe Premium Edition | 256062 | [256062-boreal-tenebrae-deluxe-premium-edition.json](./256062-boreal-tenebrae-deluxe-premium-edition.json) |
 | Boreal Tenebrae: Deluxe Special Edition | 255522 | [255522-boreal-tenebrae-deluxe-special-edition.json](./255522-boreal-tenebrae-deluxe-special-edition.json) |
 | Boreal Tenebrae: Deluxe Ultimate Edition | 247753 | [247753-boreal-tenebrae-deluxe-ultimate-edition.json](./247753-boreal-tenebrae-deluxe-ultimate-edition.json) |
 | Borealis | 17537 | [17537-borealis.json](./17537-borealis.json) |
