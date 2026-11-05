@@ -5160,6 +5160,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air | 11411 | [11411-air.json](./11411-air.json) |
 | Air | 270385 | [270385-air.json](./270385-air.json) |
 | Air | 270403 | [270403-air.json](./270403-air.json) |
+| Air | 270422 | [270422-air.json](./270422-air.json) |
+| Air | 270434 | [270434-air.json](./270434-air.json) |
+| Air | 270435 | [270435-air.json](./270435-air.json) |
+| Air | 270436 | [270436-air.json](./270436-air.json) |
+| Air | 270438 | [270438-air.json](./270438-air.json) |
 | Air Ace | 180650 | [180650-air-ace.json](./180650-air-ace.json) |
 | Air Ace II | 108814 | [108814-air-ace-ii.json](./108814-air-ace-ii.json) |
 | Air Aces | 276117 | [276117-air-aces.json](./276117-air-aces.json) |
@@ -5365,6 +5370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Wings Intergalactic | 237583 | [237583-air-wings-intergalactic.json](./237583-air-wings-intergalactic.json) |
 | Air Zonk | 42129 | [42129-air-zonk.json](./42129-air-zonk.json) |
 | Air-Sea Battle | 11859 | [11859-air-sea-battle.json](./11859-air-sea-battle.json) |
+| Air: Memorial Edition | 270439 | [270439-air-memorial-edition.json](./270439-air-memorial-edition.json) |
 | Air/Sea Attack | 68560 | [68560-air-sea-attack.json](./68560-air-sea-attack.json) |
 | Air&Hook | 372643 | [372643-air-and-hook.json](./372643-air-and-hook.json) |
 | Aira VR | 113673 | [113673-aira-vr.json](./113673-aira-vr.json) |
@@ -6764,6 +6770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Resource Manager | 418313 | [418313-alien-resource-manager.json](./418313-alien-resource-manager.json) |
 | Alien Resurrection | 272125 | [272125-alien-resurrection.json](./272125-alien-resurrection.json) |
 | Alien Resurrection | 44995 | [44995-alien-resurrection.json](./44995-alien-resurrection.json) |
+| Alien Returns | 270469 | [270469-alien-returns.json](./270469-alien-returns.json) |
 | Alien Revival | 105007 | [105007-alien-revival.json](./105007-alien-revival.json) |
 | Alien Robot Monsters | 34724 | [34724-alien-robot-monsters.json](./34724-alien-robot-monsters.json) |
 | Alien Run | 32480 | [32480-alien-run.json](./32480-alien-run.json) |
@@ -9785,6 +9792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Jumprope B | 229505 | [229505-animal-jumprope-b.json](./229505-animal-jumprope-b.json) |
 | Animal Kaiser: The King of Animals | 56998 | [56998-animal-kaiser-the-king-of-animals.json](./56998-animal-kaiser-the-king-of-animals.json) |
 | Animal Kart Racer | 154790 | [154790-animal-kart-racer.json](./154790-animal-kart-racer.json) |
+| Animal Kart Racer 2 | 270464 | [270464-animal-kart-racer-2.json](./270464-animal-kart-racer-2.json) |
 | Animal Kingdom 2 | 271660 | [271660-animal-kingdom-2.json](./271660-animal-kingdom-2.json) |
 | Animal Kingdom 3 | 337279 | [337279-animal-kingdom-3.json](./337279-animal-kingdom-3.json) |
 | Animal Kingdom: Wildlife Expedition | 51010 | [51010-animal-kingdom-wildlife-expedition.json](./51010-animal-kingdom-wildlife-expedition.json) |
@@ -12089,6 +12097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Daioh | 274896 | [274896-arcade-archives-daioh.json](./274896-arcade-archives-daioh.json) |
 | Arcade Archives: Dangerous Seed | 192029 | [192029-arcade-archives-dangerous-seed.json](./192029-arcade-archives-dangerous-seed.json) |
 | Arcade Archives: Darius | 121426 | [121426-arcade-archives-darius.json](./121426-arcade-archives-darius.json) |
+| Arcade Archives: Darius II | 270465 | [270465-arcade-archives-darius-ii.json](./270465-arcade-archives-darius-ii.json) |
 | Arcade Archives: Dead Connection | 334087 | [334087-arcade-archives-dead-connection.json](./334087-arcade-archives-dead-connection.json) |
 | Arcade Archives: Devastators | 395647 | [395647-arcade-archives-devastators.json](./395647-arcade-archives-devastators.json) |
 | Arcade Archives: Dig Dug | 212615 | [212615-arcade-archives-dig-dug.json](./212615-arcade-archives-dig-dug.json) |
@@ -16292,6 +16301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
