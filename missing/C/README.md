@@ -2206,6 +2206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cara's Pocket Launcher | 365023 | [365023-caras-pocket-launcher.json](./365023-caras-pocket-launcher.json) |
 | Carachnophobia | 267861 | [267861-carachnophobia.json](./267861-carachnophobia.json) |
 | Caracoland | 112963 | [112963-caracoland.json](./112963-caracoland.json) |
+| Caracoles | 294342 | [294342-caracoles.json](./294342-caracoles.json) |
 | Caracolino | 293236 | [293236-caracolino.json](./293236-caracolino.json) |
 | Carambola | 370055 | [370055-carambola.json](./370055-carambola.json) |
 | Caramel Action Micro | 386161 | [386161-caramel-action-micro.json](./386161-caramel-action-micro.json) |
@@ -4987,6 +4988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celephaïs Dead Cities | 373664 | [373664-celephais-dead-cities.json](./373664-celephais-dead-cities.json) |
 | Celerity | 183396 | [183396-celerity.json](./183396-celerity.json) |
 | Celerity | 185903 | [185903-celerity.json](./185903-celerity.json) |
+| Celeros | 294351 | [294351-celeros.json](./294351-celeros.json) |
 | Celestarium | 226300 | [226300-celestarium.json](./226300-celestarium.json) |
 | Celestay Craft&Slowlife | 399260 | [399260-celestay-craft-and-slowlife.json](./399260-celestay-craft-and-slowlife.json) |
 | Celeste 64: Fragments of the Mountain | 284430 | [284430-celeste-64-fragments-of-the-mountain.json](./284430-celeste-64-fragments-of-the-mountain.json) |
@@ -10658,6 +10660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coast Guard | 13209 | [13209-coast-guard.json](./13209-coast-guard.json) |
 | Coast Guard: Beach Rescue Team | 96908 | [96908-coast-guard-beach-rescue-team.json](./96908-coast-guard-beach-rescue-team.json) |
 | Coast team | 118438 | [118438-coast-team.json](./118438-coast-team.json) |
+| Coastal Defense | 294345 | [294345-coastal-defense.json](./294345-coastal-defense.json) |
 | Coastal Kingdoms | 304711 | [304711-coastal-kingdoms.json](./304711-coastal-kingdoms.json) |
 | Coastal Kitchen Simulator | 347721 | [347721-coastal-kitchen-simulator.json](./347721-coastal-kitchen-simulator.json) |
 | Coastal Postal | 366176 | [366176-coastal-postal.json](./366176-coastal-postal.json) |
@@ -10755,6 +10758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocoa 2: Twenty Four Hour Parsley People | 178452 | [178452-cocoa-2-twenty-four-hour-parsley-people.json](./178452-cocoa-2-twenty-four-hour-parsley-people.json) |
 | Cocobi Hospital | 221373 | [221373-cocobi-hospital.json](./221373-cocobi-hospital.json) |
 | Cocoboy | 377811 | [377811-cocoboy.json](./377811-cocoboy.json) |
+| Cocomelon: Laptop Infantil | 294484 | [294484-cocomelon-laptop-infantil.json](./294484-cocomelon-laptop-infantil.json) |
 | Cocommando | 393474 | [393474-cocommando.json](./393474-cocommando.json) |
 | Cocona World | 41257 | [41257-cocona-world.json](./41257-cocona-world.json) |
 | Coconut | 314302 | [314302-coconut.json](./314302-coconut.json) |
