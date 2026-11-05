@@ -6822,6 +6822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX: Goat Simulator Pinball | 316243 | [316243-pinball-fx-goat-simulator-pinball.json](./316243-pinball-fx-goat-simulator-pinball.json) |
 | Pinball FX: Grimm Tales | 247692 | [247692-pinball-fx-grimm-tales.json](./247692-pinball-fx-grimm-tales.json) |
 | Pinball FX: Homeworld - Journey to Hiigara Pinball | 247686 | [247686-pinball-fx-homeworld-journey-to-hiigara-pinball.json](./247686-pinball-fx-homeworld-journey-to-hiigara-pinball.json) |
+| Pinball FX: Honor and Legacy | 252523 | [252523-pinball-fx-honor-and-legacy.json](./252523-pinball-fx-honor-and-legacy.json) |
 | Pinball FX: Indiana Jones - The Pinball Adventure | 247667 | [247667-pinball-fx-indiana-jones-the-pinball-adventure.json](./247667-pinball-fx-indiana-jones-the-pinball-adventure.json) |
 | Pinball FX: Marvel Pinball - Avengers Chronicles | 247688 | [247688-pinball-fx-marvel-pinball-avengers-chronicles.json](./247688-pinball-fx-marvel-pinball-avengers-chronicles.json) |
 | Pinball FX: Marvel Pinball - Cinematic Pack | 263309 | [263309-pinball-fx-marvel-pinball-cinematic-pack.json](./263309-pinball-fx-marvel-pinball-cinematic-pack.json) |
@@ -6858,6 +6859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX: Williams Pinball - Swords of Fury | 239019 | [239019-pinball-fx-williams-pinball-swords-of-fury.json](./239019-pinball-fx-williams-pinball-swords-of-fury.json) |
 | Pinball FX: Williams Pinball - The Addams Family | 239018 | [239018-pinball-fx-williams-pinball-the-addams-family.json](./239018-pinball-fx-williams-pinball-the-addams-family.json) |
 | Pinball FX: Williams Pinball - Universal Monsters Pack | 263316 | [263316-pinball-fx-williams-pinball-universal-monsters-pack.json](./263316-pinball-fx-williams-pinball-universal-monsters-pack.json) |
+| Pinball FX: Williams Pinball - Whirlwind️ | 252522 | [252522-pinball-fx-williams-pinball-whirlwind.json](./252522-pinball-fx-williams-pinball-whirlwind.json) |
 | Pinball FX: Williams Pinball - World Cup Soccer | 239017 | [239017-pinball-fx-williams-pinball-world-cup-soccer.json](./239017-pinball-fx-williams-pinball-world-cup-soccer.json) |
 | Pinball FX: Williams Pinball Collection 1 | 239021 | [239021-pinball-fx-williams-pinball-collection-1.json](./239021-pinball-fx-williams-pinball-collection-1.json) |
 | Pinball FX: Williams Pinball Collection 2 | 239020 | [239020-pinball-fx-williams-pinball-collection-2.json](./239020-pinball-fx-williams-pinball-collection-2.json) |
@@ -8130,6 +8132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Traditional Jigsaws: Geodes | 357956 | [357956-pixel-puzzles-traditional-jigsaws-geodes.json](./357956-pixel-puzzles-traditional-jigsaws-geodes.json) |
 | Pixel Puzzles Traditional Jigsaws: Locomotive | 357955 | [357955-pixel-puzzles-traditional-jigsaws-locomotive.json](./357955-pixel-puzzles-traditional-jigsaws-locomotive.json) |
 | Pixel Puzzles Traditional Jigsaws: Motorbikes | 357954 | [357954-pixel-puzzles-traditional-jigsaws-motorbikes.json](./357954-pixel-puzzles-traditional-jigsaws-motorbikes.json) |
+| Pixel Puzzles Traditional Jigsaws: Native American | 252521 | [252521-pixel-puzzles-traditional-jigsaws-native-american.json](./252521-pixel-puzzles-traditional-jigsaws-native-american.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Autumn | 227006 | [227006-pixel-puzzles-traditional-jigsaws-pack-autumn.json](./227006-pixel-puzzles-traditional-jigsaws-pack-autumn.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Butterflies | 227005 | [227005-pixel-puzzles-traditional-jigsaws-pack-butterflies.json](./227005-pixel-puzzles-traditional-jigsaws-pack-butterflies.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Candy | 227004 | [227004-pixel-puzzles-traditional-jigsaws-pack-candy.json](./227004-pixel-puzzles-traditional-jigsaws-pack-candy.json) |
