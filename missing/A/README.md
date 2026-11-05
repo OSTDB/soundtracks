@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Courtesan of Rome | 313819 | [313819-a-courtesan-of-rome.json](./313819-a-courtesan-of-rome.json) |
 | A Courting of Curses | 412246 | [412246-a-courting-of-curses.json](./412246-a-courting-of-curses.json) |
 | A Cozy Classics: Color Lines | 379467 | [379467-a-cozy-classics-color-lines.json](./379467-a-cozy-classics-color-lines.json) |
+| A Craft of Mine | 246150 | [246150-a-craft-of-mine.json](./246150-a-craft-of-mine.json) |
 | A Crazy Guy | 251010 | [251010-a-crazy-guy.json](./251010-a-crazy-guy.json) |
 | A Creature's Journey | 260560 | [260560-a-creatures-journey.json](./260560-a-creatures-journey.json) |
 | A credit card | 176659 | [176659-a-credit-card.json](./176659-a-credit-card.json) |
@@ -6204,6 +6205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchimia | 257781 | [257781-alchimia.json](./257781-alchimia.json) |
 | Alchimist: Secret of the Worlds | 379447 | [379447-alchimist-secret-of-the-worlds.json](./379447-alchimist-secret-of-the-worlds.json) |
 | AlcoFox | 243628 | [243628-alcofox.json](./243628-alcofox.json) |
+| Alcohol & Ammo | 246203 | [246203-alcohol-and-ammo.json](./246203-alcohol-and-ammo.json) |
 | Alcohol Empire | 199097 | [199097-alcohol-empire.json](./199097-alcohol-empire.json) |
 | Alcoholic Daddy | 337054 | [337054-alcoholic-daddy.json](./337054-alcoholic-daddy.json) |
 | AlcremieStudio | 319561 | [319561-alcremiestudio.json](./319561-alcremiestudio.json) |
@@ -16429,7 +16431,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
