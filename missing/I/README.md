@@ -3326,6 +3326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiepocalypse #47 | 362695 | [362695-indiepocalypse-47.json](./362695-indiepocalypse-47.json) |
 | Indiepocalypse #48 | 362696 | [362696-indiepocalypse-48.json](./362696-indiepocalypse-48.json) |
 | Indiepocalypse #49 | 362697 | [362697-indiepocalypse-49.json](./362697-indiepocalypse-49.json) |
+| Indiepocalypse #5 | 249538 | [249538-indiepocalypse-5.json](./249538-indiepocalypse-5.json) |
 | Indiepocalypse #50 | 362698 | [362698-indiepocalypse-50.json](./362698-indiepocalypse-50.json) |
 | Indiepocalypse #51 | 362699 | [362699-indiepocalypse-51.json](./362699-indiepocalypse-51.json) |
 | Indiepocalypse #52 | 362700 | [362700-indiepocalypse-52.json](./362700-indiepocalypse-52.json) |
