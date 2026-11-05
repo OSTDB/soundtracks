@@ -16713,6 +16713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morimiya Middle School Shooting | 134131 | [134131-morimiya-middle-school-shooting.json](./134131-morimiya-middle-school-shooting.json) |
 | Morinaga Pac-Man mini | 219448 | [219448-morinaga-pac-man-mini.json](./219448-morinaga-pac-man-mini.json) |
 | Morinaga Takurou Kanshuu: Okane no Shin Joushiki DS Training | 257492 | [257492-morinaga-takurou-kanshuu-okane-no-shin-joushiki-ds-training.json](./257492-morinaga-takurou-kanshuu-okane-no-shin-joushiki-ds-training.json) |
+| Morior Invictus | 261045 | [261045-morior-invictus.json](./261045-morior-invictus.json) |
 | Morita Kazuo no Shogi | 48817 | [48817-morita-kazuo-no-shogi.json](./48817-morita-kazuo-no-shogi.json) |
 | Morita Shogi 64 | 3543 | [3543-morita-shogi-64.json](./3543-morita-shogi-64.json) |
 | Morita Shogi Advance | 49712 | [49712-morita-shogi-advance.json](./49712-morita-shogi-advance.json) |
@@ -17394,6 +17395,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Racer 2044 Game Simulator: Money Magnet Bundle | 328988 | [328988-moto-racer-2044-game-simulator-money-magnet-bundle.json](./328988-moto-racer-2044-game-simulator-money-magnet-bundle.json) |
 | Moto Racer 4 | 19345 | [19345-moto-racer-4.json](./19345-moto-racer-4.json) |
 | Moto Racer 4: Deluxe Edition | 25019 | [25019-moto-racer-4-deluxe-edition.json](./25019-moto-racer-4-deluxe-edition.json) |
+| Moto Racer 4: Rider Pack - Skewer | 261011 | [261011-moto-racer-4-rider-pack-skewer.json](./261011-moto-racer-4-rider-pack-skewer.json) |
+| Moto Racer 4: Rider Pack - Space Dasher | 261010 | [261010-moto-racer-4-rider-pack-space-dasher.json](./261010-moto-racer-4-rider-pack-space-dasher.json) |
+| Moto Racer 4: Rider Pack - The Truth | 261009 | [261009-moto-racer-4-rider-pack-the-truth.json](./261009-moto-racer-4-rider-pack-the-truth.json) |
 | Moto Racer Advance | 6515 | [6515-moto-racer-advance.json](./6515-moto-racer-advance.json) |
 | Moto Racer Collection | 36248 | [36248-moto-racer-collection.json](./36248-moto-racer-collection.json) |
 | Moto Racer DS | 10564 | [10564-moto-racer-ds.json](./10564-moto-racer-ds.json) |
