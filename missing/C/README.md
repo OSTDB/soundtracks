@@ -11826,6 +11826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorful Trip | 150337 | [150337-colorful-trip.json](./150337-colorful-trip.json) |
 | Colorful3D II | 131623 | [131623-colorful3d-ii.json](./131623-colorful3d-ii.json) |
 | Colorfuly Ball | 321485 | [321485-colorfuly-ball.json](./321485-colorfuly-ball.json) |
+| ColorFusion | 289119 | [289119-colorfusion.json](./289119-colorfusion.json) |
 | Colorider | 213324 | [213324-colorider.json](./213324-colorider.json) |
 | Colorim | 261525 | [261525-colorim.json](./261525-colorim.json) |
 | Coloring 2 | 108638 | [108638-coloring-2.json](./108638-coloring-2.json) |
@@ -18240,6 +18241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Raider | 55188 | [55188-crystal-raider.json](./55188-crystal-raider.json) |
 | Crystal Raiders VR | 144178 | [144178-crystal-raiders-vr.json](./144178-crystal-raiders-vr.json) |
 | Crystal Rail | 325994 | [325994-crystal-rail.json](./325994-crystal-rail.json) |
+| Crystal Realms | 289151 | [289151-crystal-realms.json](./289151-crystal-realms.json) |
 | Crystal Reign | 75597 | [75597-crystal-reign.json](./75597-crystal-reign.json) |
 | Crystal Rider | 160210 | [160210-crystal-rider.json](./160210-crystal-rider.json) |
 | Crystal Riders VR | 236393 | [236393-crystal-riders-vr.json](./236393-crystal-riders-vr.json) |
