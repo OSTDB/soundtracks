@@ -1815,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank | 247025 | [247025-tank.json](./247025-tank.json) |
 | Tank 51 | 81649 | [81649-tank-51.json](./81649-tank-51.json) |
 | Tank Ace | 91852 | [91852-tank-ace.json](./91852-tank-ace.json) |
+| Tank and Roll | 252508 | [252508-tank-and-roll.json](./252508-tank-and-roll.json) |
 | Tank Arena: Total Operation | 326208 | [326208-tank-arena-total-operation.json](./326208-tank-arena-total-operation.json) |
 | Tank Arkade | 24849 | [24849-tank-arkade.json](./24849-tank-arkade.json) |
 | Tank Army Battle Simulator | 102734 | [102734-tank-army-battle-simulator.json](./102734-tank-army-battle-simulator.json) |
@@ -4166,6 +4167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TentaCat: The Lost Lineage | 285894 | [285894-tentacat-the-lost-lineage.json](./285894-tentacat-the-lost-lineage.json) |
 | Tentacle Fight | 97740 | [97740-tentacle-fight.json](./97740-tentacle-fight.json) |
 | Tentacle Prawn: (Actually) A Cthulhu Dating Sim | 226607 | [226607-tentacle-prawn-actually-a-cthulhu-dating-sim.json](./226607-tentacle-prawn-actually-a-cthulhu-dating-sim.json) |
+| Tentacle Prawn: (Actually) A Cthulhu Dating Sim - Huge Manatees | 252509 | [252509-tentacle-prawn-actually-a-cthulhu-dating-sim-huge-manatees.json](./252509-tentacle-prawn-actually-a-cthulhu-dating-sim-huge-manatees.json) |
 | Tentacle Prawn: (Actually) A Cthulhu Dating Sim - The Myth & Legend of Marauder Shields | 267065 | [267065-tentacle-prawn-actually-a-cthulhu-dating-sim-the-myth-and-legend-of-marauder-shields.json](./267065-tentacle-prawn-actually-a-cthulhu-dating-sim-the-myth-and-legend-of-marauder-shields.json) |
 | Tentacle Slave: Saori | 97790 | [97790-tentacle-slave-saori.json](./97790-tentacle-slave-saori.json) |
 | Tentacle Typer | 152090 | [152090-tentacle-typer.json](./152090-tentacle-typer.json) |
@@ -10471,6 +10473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heritage | 54303 | [54303-the-heritage.json](./54303-the-heritage.json) |
 | The Hermetic Tower | 421560 | [421560-the-hermetic-tower.json](./421560-the-hermetic-tower.json) |
 | The Hermit | 111221 | [111221-the-hermit.json](./111221-the-hermit.json) |
+| The Hermit Chronicles | 252510 | [252510-the-hermit-chronicles.json](./252510-the-hermit-chronicles.json) |
 | The Hermit's Secret | 25131 | [25131-the-hermits-secret.json](./25131-the-hermits-secret.json) |
 | The Hero | 122011 | [122011-the-hero.json](./122011-the-hero.json) |
 | The Hero | 19181 | [19181-the-hero.json](./19181-the-hero.json) |
@@ -26729,6 +26732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towers Watch | 277916 | [277916-towers-watch.json](./277916-towers-watch.json) |
 | Towers, Turrets, Turtles | 236415 | [236415-towers-turrets-turtles.json](./236415-towers-turrets-turtles.json) |
 | Towerscape | 297422 | [297422-towerscape.json](./297422-towerscape.json) |
+| Towerspell | 252514 | [252514-towerspell.json](./252514-towerspell.json) |
 | Towertale | 112938 | [112938-towertale.json](./112938-towertale.json) |
 | Towertower | 424616 | [424616-towertower.json](./424616-towertower.json) |
 | ToWhere? | 387006 | [387006-towhere.json](./387006-towhere.json) |
@@ -32124,6 +32128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TV Empire Tycoon | 169798 | [169798-tv-empire-tycoon.json](./169798-tv-empire-tycoon.json) |
 | TV Farm | 355530 | [355530-tv-farm.json](./355530-tv-farm.json) |
 | TV Guide | 135699 | [135699-tv-guide.json](./135699-tv-guide.json) |
+| TV Head: Eight Pages | 252513 | [252513-tv-head-eight-pages.json](./252513-tv-head-eight-pages.json) |
 | TV Kamishibai Vol. 1 | 273256 | [273256-tv-kamishibai-vol-1.json](./273256-tv-kamishibai-vol-1.json) |
 | TV Kid | 155416 | [155416-tv-kid.json](./155416-tv-kid.json) |
 | TV Manager 2: Premium version | 24733 | [24733-tv-manager-2-premium-version.json](./24733-tv-manager-2-premium-version.json) |
