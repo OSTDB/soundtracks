@@ -2684,6 +2684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 25: Year 1 Season Pass | 352888 | [352888-farming-simulator-25-year-1-season-pass.json](./352888-farming-simulator-25-year-1-season-pass.json) |
 | Farming Simulator C64: Limited Edition | 260776 | [260776-farming-simulator-c64-limited-edition.json](./260776-farming-simulator-c64-limited-edition.json) |
 | Farming Simulator Kids | 287580 | [287580-farming-simulator-kids.json](./287580-farming-simulator-kids.json) |
+| Farming Simulator: Farm, Tractor, Experience Logic Games - Nintendo Switch Edition | 254854 | [254854-farming-simulator-farm-tractor-experience-logic-games-nintendo-switch-edition.json](./254854-farming-simulator-farm-tractor-experience-logic-games-nintendo-switch-edition.json) |
 | Farming Simulator: Grow a Garden 2025 | 378801 | [378801-farming-simulator-grow-a-garden-2025.json](./378801-farming-simulator-grow-a-garden-2025.json) |
 | Farming Slimes | 419964 | [419964-farming-slimes.json](./419964-farming-slimes.json) |
 | Farming Supermarket Simulator | 312459 | [312459-farming-supermarket-simulator.json](./312459-farming-supermarket-simulator.json) |
@@ -10245,6 +10246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Chapter 7 - Season 4: Override | 414179 | [414179-fortnite-chapter-7-season-4-override.json](./414179-fortnite-chapter-7-season-4-override.json) |
 | Fortnite: Checkered Past Pack | 305610 | [305610-fortnite-checkered-past-pack.json](./305610-fortnite-checkered-past-pack.json) |
 | Fortnite: Chill Vibez Pack | 290016 | [290016-fortnite-chill-vibez-pack.json](./290016-fortnite-chill-vibez-pack.json) |
+| Fortnite: Coldest Circle Quest Pack | 254830 | [254830-fortnite-coldest-circle-quest-pack.json](./254830-fortnite-coldest-circle-quest-pack.json) |
 | Fortnite: Corrupted Legends Pack | 225375 | [225375-fortnite-corrupted-legends-pack.json](./225375-fortnite-corrupted-legends-pack.json) |
 | Fortnite: Crimson Warden Pack | 303531 | [303531-fortnite-crimson-warden-pack.json](./303531-fortnite-crimson-warden-pack.json) |
 | Fortnite: Cross Comms Pack | 243231 | [243231-fortnite-cross-comms-pack.json](./243231-fortnite-cross-comms-pack.json) |
@@ -10543,6 +10545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport: Deluxe Edition | 271467 | [271467-forza-motorsport-deluxe-edition.json](./271467-forza-motorsport-deluxe-edition.json) |
 | Forza Motorsport: Porsche 963 Combo | 316395 | [316395-forza-motorsport-porsche-963-combo.json](./316395-forza-motorsport-porsche-963-combo.json) |
 | Forza Motorsport: Premium Add-Ons Bundle | 271472 | [271472-forza-motorsport-premium-add-ons-bundle.json](./271472-forza-motorsport-premium-add-ons-bundle.json) |
+| Forza Motorsport: Premium Edition | 254841 | [254841-forza-motorsport-premium-edition.json](./254841-forza-motorsport-premium-edition.json) |
 | Forza Motorsport: Race Day Car Pack | 267846 | [267846-forza-motorsport-race-day-car-pack.json](./267846-forza-motorsport-race-day-car-pack.json) |
 | Forza Motorsport: Racing Heroes Car Pack | 361776 | [361776-forza-motorsport-racing-heroes-car-pack.json](./361776-forza-motorsport-racing-heroes-car-pack.json) |
 | Forza Polpo | 137632 | [137632-forza-polpo.json](./137632-forza-polpo.json) |
