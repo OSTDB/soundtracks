@@ -9302,6 +9302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Odyssey | 190006 | [190006-the-first-odyssey.json](./190006-the-first-odyssey.json) |
 | The First Present | 278675 | [278675-the-first-present.json](./278675-the-first-present.json) |
 | The First Project | 144584 | [144584-the-first-project.json](./144584-the-first-project.json) |
+| The First Round | 289135 | [289135-the-first-round.json](./289135-the-first-round.json) |
 | The First Samurai + The Second Samurai Bundle | 154183 | [154183-the-first-samurai-the-second-samurai-bundle.json](./154183-the-first-samurai-the-second-samurai-bundle.json) |
 | The First Scene | 360867 | [360867-the-first-scene.json](./360867-the-first-scene.json) |
 | The First Settlement VR | 311550 | [311550-the-first-settlement-vr.json](./311550-the-first-settlement-vr.json) |
@@ -9598,6 +9599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Full Wormage | 70082 | [70082-the-full-wormage.json](./70082-the-full-wormage.json) |
 | The Full-Ass Tricky Mod | 365225 | [365225-the-full-ass-tricky-mod.json](./365225-the-full-ass-tricky-mod.json) |
 | The Fullness of the Air | 401263 | [401263-the-fullness-of-the-air.json](./401263-the-fullness-of-the-air.json) |
+| The Funeral of Sachertorte | 289046 | [289046-the-funeral-of-sachertorte.json](./289046-the-funeral-of-sachertorte.json) |
 | The Funhouse of Satan | 176274 | [176274-the-funhouse-of-satan.json](./176274-the-funhouse-of-satan.json) |
 | The Funnel | 373796 | [373796-the-funnel.json](./373796-the-funnel.json) |
 | The Funny Boneyard | 112335 | [112335-the-funny-boneyard.json](./112335-the-funny-boneyard.json) |
@@ -19391,6 +19393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thimbleweed Park | 10232 | [10232-thimbleweed-park.json](./10232-thimbleweed-park.json) |
 | Thimbleweed Park 2 | 411759 | [411759-thimbleweed-park-2.json](./411759-thimbleweed-park-2.json) |
 | Thin Ice | 160026 | [160026-thin-ice.json](./160026-thin-ice.json) |
+| Thin Ice | 289144 | [289144-thin-ice.json](./289144-thin-ice.json) |
 | Thin Judgment | 43090 | [43090-thin-judgment.json](./43090-thin-judgment.json) |
 | Thin Line | 333759 | [333759-thin-line.json](./333759-thin-line.json) |
 | Thin Threads | 332415 | [332415-thin-threads.json](./332415-thin-threads.json) |
@@ -25660,6 +25663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Danmaku Kagura Phantasia Lost - Extra Song Pack 8 | 363258 | [363258-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-8.json](./363258-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-8.json) |
 | Touhou Danmaku Kagura Phantasia Lost - Extra Song Pack 9 | 363259 | [363259-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-9.json](./363259-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-9.json) |
 | Touhou Danmaku Kagura: Phantasia Lost | 222995 | [222995-touhou-danmaku-kagura-phantasia-lost.json](./222995-touhou-danmaku-kagura-phantasia-lost.json) |
+| Touhou Danmaku Kagura: Phantasia Lost - Digital Deluxe Edition | 289149 | [289149-touhou-danmaku-kagura-phantasia-lost-digital-deluxe-edition.json](./289149-touhou-danmaku-kagura-phantasia-lost-digital-deluxe-edition.json) |
 | Touhou Danmaku Kagura: Phantasia Lost - Extra Song Pack 1 | 289028 | [289028-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-1.json](./289028-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-1.json) |
 | Touhou Danmaku Kagura: Phantasia Lost - Extra Song Pack 10 | 351245 | [351245-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-10.json](./351245-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-10.json) |
 | Touhou Danmaku Kagura: Phantasia Lost - Extra Song Pack 11 | 351244 | [351244-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-11.json](./351244-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-11.json) |
@@ -31872,6 +31876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TVs: The Awakening | 210991 | [210991-tvs-the-awakening.json](./210991-tvs-the-awakening.json) |
 | TVs: The Illusion Channel | 209480 | [209480-tvs-the-illusion-channel.json](./209480-tvs-the-illusion-channel.json) |
 | Twaddle Paddle | 114320 | [114320-twaddle-paddle.json](./114320-twaddle-paddle.json) |
+| Twang | 289142 | [289142-twang.json](./289142-twang.json) |
 | Twas The Night | 326207 | [326207-twas-the-night.json](./326207-twas-the-night.json) |
 | Tweak & Destroy | 364610 | [364610-tweak-and-destroy.json](./364610-tweak-and-destroy.json) |
 | Tweaked Revolution | 259029 | [259029-tweaked-revolution.json](./259029-tweaked-revolution.json) |
@@ -31999,6 +32004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Blades of the Three Kingdoms | 202761 | [202761-twin-blades-of-the-three-kingdoms.json](./202761-twin-blades-of-the-three-kingdoms.json) |
 | Twin Blades: The Reaping Vanguard | 19890 | [19890-twin-blades-the-reaping-vanguard.json](./19890-twin-blades-the-reaping-vanguard.json) |
 | Twin Blue Moons | 88191 | [88191-twin-blue-moons.json](./88191-twin-blue-moons.json) |
+| Twin Brats | 289132 | [289132-twin-brats.json](./289132-twin-brats.json) |
 | Twin Breaker: A Sacred Symbols Adventure | 130613 | [130613-twin-breaker-a-sacred-symbols-adventure.json](./130613-twin-breaker-a-sacred-symbols-adventure.json) |
 | Twin Bros | 30641 | [30641-twin-bros.json](./30641-twin-bros.json) |
 | Twin Brothers | 55473 | [55473-twin-brothers.json](./55473-twin-brothers.json) |
