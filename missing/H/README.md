@@ -10957,6 +10957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Fish Is Made | 187151 | [187151-how-fish-is-made.json](./187151-how-fish-is-made.json) |
 | How I Escaped Futa Prison | 235810 | [235810-how-i-escaped-futa-prison.json](./235810-how-i-escaped-futa-prison.json) |
 | How I learned to Skate | 175972 | [175972-how-i-learned-to-skate.json](./175972-how-i-learned-to-skate.json) |
+| How I Learned to Stop Worrying and Enjoy the End of the World | 262721 | [262721-how-i-learned-to-stop-worrying-and-enjoy-the-end-of-the-world.json](./262721-how-i-learned-to-stop-worrying-and-enjoy-the-end-of-the-world.json) |
 | How I Met My Healthy Hentai Neighbors! | 354754 | [354754-how-i-met-my-healthy-hentai-neighbors.json](./354754-how-i-met-my-healthy-hentai-neighbors.json) |
 | How it was to live Guadalindie 2026 | 410255 | [410255-how-it-was-to-live-guadalindie-2026.json](./410255-how-it-was-to-live-guadalindie-2026.json) |
 | How it's Made:Fallout edition | 101040 | [101040-how-its-made-fallout-edition.json](./101040-how-its-made-fallout-edition.json) |
