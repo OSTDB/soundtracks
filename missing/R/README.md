@@ -5374,6 +5374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Team 7 | 44193 | [44193-rescue-team-7.json](./44193-rescue-team-7.json) |
 | Rescue Team 7: Collector's Edition | 53504 | [53504-rescue-team-7-collectors-edition.json](./53504-rescue-team-7-collectors-edition.json) |
 | Rescue Team 8 | 122212 | [122212-rescue-team-8.json](./122212-rescue-team-8.json) |
+| Rescue Team 911 Simulator: Ambulance, Police, Firefighter | 261614 | [261614-rescue-team-911-simulator-ambulance-police-firefighter.json](./261614-rescue-team-911-simulator-ambulance-police-firefighter.json) |
 | Rescue Team: Ancient Guardian | 340701 | [340701-rescue-team-ancient-guardian.json](./340701-rescue-team-ancient-guardian.json) |
 | Rescue Team: Ancient Guardian - Collector's Edition | 338779 | [338779-rescue-team-ancient-guardian-collectors-edition.json](./338779-rescue-team-ancient-guardian-collectors-edition.json) |
 | Rescue Team: Attack of the Atom | 340700 | [340700-rescue-team-attack-of-the-atom.json](./340700-rescue-team-attack-of-the-atom.json) |
@@ -6334,6 +6335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge II | 281240 | [281240-revenge-ii.json](./281240-revenge-ii.json) |
 | Revenge Master | 200427 | [200427-revenge-master.json](./200427-revenge-master.json) |
 | Revenge of Banana | 271928 | [271928-revenge-of-banana.json](./271928-revenge-of-banana.json) |
+| Revenge of Chickens | 261589 | [261589-revenge-of-chickens.json](./261589-revenge-of-chickens.json) |
 | Revenge of Defender | 56591 | [56591-revenge-of-defender.json](./56591-revenge-of-defender.json) |
 | Revenge of Dog | 95946 | [95946-revenge-of-dog.json](./95946-revenge-of-dog.json) |
 | Revenge of Ilcoin | 261420 | [261420-revenge-of-ilcoin.json](./261420-revenge-of-ilcoin.json) |
@@ -6396,6 +6398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revengers | 220626 | [220626-revengers.json](./220626-revengers.json) |
 | Revengers of Vengeance | 46411 | [46411-revengers-of-vengeance.json](./46411-revengers-of-vengeance.json) |
 | Revenggie | 412308 | [412308-revenggie.json](./412308-revenggie.json) |
+| Revenguard | 261603 | [261603-revenguard.json](./261603-revenguard.json) |
 | Reveniev: A Day in Nassiriyah | 391978 | [391978-reveniev-a-day-in-nassiriyah.json](./391978-reveniev-a-day-in-nassiriyah.json) |
 | Revenis Prologue 01 | 116336 | [116336-revenis-prologue-01.json](./116336-revenis-prologue-01.json) |
 | Revenot | 144225 | [144225-revenot.json](./144225-revenot.json) |
@@ -8453,6 +8456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoadkillerZ | 36975 | [36975-roadkillerz.json](./36975-roadkillerz.json) |
 | Roadlike | 311547 | [311547-roadlike.json](./311547-roadlike.json) |
 | RoadOut | 140794 | [140794-roadout.json](./140794-roadout.json) |
+| RoadPipe | 261604 | [261604-roadpipe.json](./261604-roadpipe.json) |
 | Roadpunk | 149487 | [149487-roadpunk.json](./149487-roadpunk.json) |
 | Roadracer Bowler | 24850 | [24850-roadracer-bowler.json](./24850-roadracer-bowler.json) |
 | RoadRunner | 120156 | [120156-roadrunner.json](./120156-roadrunner.json) |
@@ -8787,6 +8791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboMaze: The Basement | 59927 | [59927-robomaze-the-basement.json](./59927-robomaze-the-basement.json) |
 | RoboMinion | 62052 | [62052-robominion.json](./62052-robominion.json) |
 | Robonauts | 64205 | [64205-robonauts.json](./64205-robonauts.json) |
+| Roboom | 261578 | [261578-roboom.json](./261578-roboom.json) |
 | RoboPhobik | 138534 | [138534-robophobik.json](./138534-robophobik.json) |
 | Roboplant | 186641 | [186641-roboplant.json](./186641-roboplant.json) |
 | Robopon 2 Cross Version | 6561 | [6561-robopon-2-cross-version.json](./6561-robopon-2-cross-version.json) |
