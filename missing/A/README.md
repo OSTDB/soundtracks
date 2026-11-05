@@ -3470,6 +3470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Field 3: Definitive Edition | 274003 | [274003-adventure-field-3-definitive-edition.json](./274003-adventure-field-3-definitive-edition.json) |
 | Adventure Field 4 | 163697 | [163697-adventure-field-4.json](./163697-adventure-field-4.json) |
 | Adventure Field 5 | 235367 | [235367-adventure-field-5.json](./235367-adventure-field-5.json) |
+| Adventure Field Remake | 260448 | [260448-adventure-field-remake.json](./260448-adventure-field-remake.json) |
 | Adventure Flashback Blast! | 304290 | [304290-adventure-flashback-blast.json](./304290-adventure-flashback-blast.json) |
 | Adventure Forest: Rabbit Story | 309475 | [309475-adventure-forest-rabbit-story.json](./309475-adventure-forest-rabbit-story.json) |
 | Adventure Forever | 207615 | [207615-adventure-forever.json](./207615-adventure-forever.json) |
@@ -3963,6 +3964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aery: Cyber City | 283896 | [283896-aery-cyber-city.json](./283896-aery-cyber-city.json) |
 | Aery: Dream Land | 332491 | [332491-aery-dream-land.json](./332491-aery-dream-land.json) |
 | Aery: Dreamscape | 187142 | [187142-aery-dreamscape.json](./187142-aery-dreamscape.json) |
+| Aery: Flow of Time | 260480 | [260480-aery-flow-of-time.json](./260480-aery-flow-of-time.json) |
 | Aery: Midnight Hour | 288376 | [288376-aery-midnight-hour.json](./288376-aery-midnight-hour.json) |
 | Aery: Path of Corruption | 213427 | [213427-aery-path-of-corruption.json](./213427-aery-path-of-corruption.json) |
 | Aery: Peace of Mind | 296628 | [296628-aery-peace-of-mind.json](./296628-aery-peace-of-mind.json) |
@@ -9250,6 +9252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Android Simulator | 203753 | [203753-android-simulator.json](./203753-android-simulator.json) |
 | Andromalius | 110880 | [110880-andromalius.json](./110880-andromalius.json) |
 | AndroMan on the Moon | 268573 | [268573-androman-on-the-moon.json](./268573-androman-on-the-moon.json) |
+| Andromeda | 260482 | [260482-andromeda.json](./260482-andromeda.json) |
 | Andromeda 2 Zombies | 169492 | [169492-andromeda-2-zombies.json](./169492-andromeda-2-zombies.json) |
 | Andromeda Acolytes | 211400 | [211400-andromeda-acolytes.json](./211400-andromeda-acolytes.json) |
 | Andromeda Mission | 15571 | [15571-andromeda-mission.json](./15571-andromeda-mission.json) |
@@ -15151,6 +15154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Rigs | 15476 | [15476-assault-rigs.json](./15476-assault-rigs.json) |
 | Assault Sector | 245875 | [245875-assault-sector.json](./245875-assault-sector.json) |
 | Assault Shell | 144644 | [144644-assault-shell.json](./144644-assault-shell.json) |
+| Assault Shell 2 | 260449 | [260449-assault-shell-2.json](./260449-assault-shell-2.json) |
 | Assault Spy | 86514 | [86514-assault-spy.json](./86514-assault-spy.json) |
 | Assault Spy: Elite Spy Edition | 124831 | [124831-assault-spy-elite-spy-edition.json](./124831-assault-spy-elite-spy-edition.json) |
 | Assault Squad 2: Men of War Origins | 36398 | [36398-assault-squad-2-men-of-war-origins.json](./36398-assault-squad-2-men-of-war-origins.json) |
