@@ -1201,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Christmas | 220542 | [220542-last-christmas.json](./220542-last-christmas.json) |
 | Last Command | 148673 | [148673-last-command.json](./148673-last-command.json) |
 | Last Command: B-Side | 376749 | [376749-last-command-b-side.json](./376749-last-command-b-side.json) |
+| Last Command: Extra Mode Pack | 263287 | [263287-last-command-extra-mode-pack.json](./263287-last-command-extra-mode-pack.json) |
 | Last Command: Scream Fest pack | 263039 | [263039-last-command-scream-fest-pack.json](./263039-last-command-scream-fest-pack.json) |
 | Last Contingency | 152902 | [152902-last-contingency.json](./152902-last-contingency.json) |
 | Last Core | 424718 | [424718-last-core.json](./424718-last-core.json) |
@@ -3152,6 +3153,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Marvel's Avengers: Marvel's Captain America - Civil War Character Pack | 168780 | [168780-lego-marvels-avengers-marvels-captain-america-civil-war-character-pack.json](./168780-lego-marvels-avengers-marvels-captain-america-civil-war-character-pack.json) |
 | LEGO Marvel's Avengers: Spider-Man Character Pack | 168779 | [168779-lego-marvels-avengers-spider-man-character-pack.json](./168779-lego-marvels-avengers-spider-man-character-pack.json) |
 | LEGO Marvel's Avengers: The Avengers Adventurer Character Pack | 265464 | [265464-lego-marvels-avengers-the-avengers-adventurer-character-pack.json](./265464-lego-marvels-avengers-the-avengers-adventurer-character-pack.json) |
+| LEGO Marvel's Avengers: The Avengers Explorer Character Pack | 263277 | [263277-lego-marvels-avengers-the-avengers-explorer-character-pack.json](./263277-lego-marvels-avengers-the-avengers-explorer-character-pack.json) |
+| LEGO Marvel's Avengers: The Thunderbolts Character Pack | 263278 | [263278-lego-marvels-avengers-the-thunderbolts-character-pack.json](./263278-lego-marvels-avengers-the-thunderbolts-character-pack.json) |
 | LEGO Masterpiece Collection | 142953 | [142953-lego-masterpiece-collection.json](./142953-lego-masterpiece-collection.json) |
 | Lego Merlok 2.0 Version 4.0.0 | 345593 | [345593-lego-merlok-2-0-version-4-0-0.json](./345593-lego-merlok-2-0-version-4-0-0.json) |
 | LEGO Minecraft | 261390 | [261390-lego-minecraft.json](./261390-lego-minecraft.json) |
@@ -6379,6 +6382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living together with Fox Demon | 159757 | [159757-living-together-with-fox-demon.json](./159757-living-together-with-fox-demon.json) |
 | Living with a Scarecrow | 126263 | [126263-living-with-a-scarecrow.json](./126263-living-with-a-scarecrow.json) |
 | Living with an Elf: A Cozy Forest Retreat | 263195 | [263195-living-with-an-elf-a-cozy-forest-retreat.json](./263195-living-with-an-elf-a-cozy-forest-retreat.json) |
+| Living with Demon Lord chan | 263259 | [263259-living-with-demon-lord-chan.json](./263259-living-with-demon-lord-chan.json) |
 | Living With Dragons | 219638 | [219638-living-with-dragons.json](./219638-living-with-dragons.json) |
 | Living with ghosts | 321928 | [321928-living-with-ghosts.json](./321928-living-with-ghosts.json) |
 | Living With It | 329394 | [329394-living-with-it.json](./329394-living-with-it.json) |
@@ -9461,6 +9465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumina: The Uprising of Folk Legends | 349033 | [349033-lumina-the-uprising-of-folk-legends.json](./349033-lumina-the-uprising-of-folk-legends.json) |
 | Luminaria | 365602 | [365602-luminaria.json](./365602-luminaria.json) |
 | Luminaria: Dark Echoes | 278450 | [278450-luminaria-dark-echoes.json](./278450-luminaria-dark-echoes.json) |
+| Luminaria: Forgotten Echoes | 263297 | [263297-luminaria-forgotten-echoes.json](./263297-luminaria-forgotten-echoes.json) |
 | Luminary | 152498 | [152498-luminary.json](./152498-luminary.json) |
 | Luminas: Parasite Reign | 377204 | [377204-luminas-parasite-reign.json](./377204-luminas-parasite-reign.json) |
 | Luminastadt | 295258 | [295258-luminastadt.json](./295258-luminastadt.json) |
