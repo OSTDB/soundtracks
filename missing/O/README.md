@@ -1128,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh Jellies! | 398442 | [398442-oh-jellies.json](./398442-oh-jellies.json) |
 | Oh Joes! (A Proto Man Adventure) | 209268 | [209268-oh-joes-a-proto-man-adventure.json](./209268-oh-joes-a-proto-man-adventure.json) |
 | Oh Mummy | 13022 | [13022-oh-mummy.json](./13022-oh-mummy.json) |
+| Oh My Anne | 296555 | [296555-oh-my-anne.json](./296555-oh-my-anne.json) |
 | Oh My Cod!!: We Mer-Made For Each Other! | 302119 | [302119-oh-my-cod-we-mer-made-for-each-other.json](./302119-oh-my-cod-we-mer-made-for-each-other.json) |
 | Oh My Cooking Gun | 76276 | [76276-oh-my-cooking-gun.json](./76276-oh-my-cooking-gun.json) |
 | Oh My Dog | 362890 | [362890-oh-my-dog.json](./362890-oh-my-dog.json) |
