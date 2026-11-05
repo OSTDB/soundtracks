@@ -2726,6 +2726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavu | 276823 | [276823-tavu.json](./276823-tavu.json) |
 | Tavuti | 290640 | [290640-tavuti.json](./290640-tavuti.json) |
 | Tawako The Forest Hedgehog | 207188 | [207188-tawako-the-forest-hedgehog.json](./207188-tawako-the-forest-hedgehog.json) |
+| Tawamu i-call | 267173 | [267173-tawamu-i-call.json](./267173-tawamu-i-call.json) |
 | Tawara | 97809 | [97809-tawara.json](./97809-tawara.json) |
 | Tax Avoiders | 40618 | [40618-tax-avoiders.json](./40618-tax-avoiders.json) |
 | Tax Dodge | 60638 | [60638-tax-dodge.json](./60638-tax-dodge.json) |
@@ -8192,6 +8193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dimension of Anaconda | 360101 | [360101-the-dimension-of-anaconda.json](./360101-the-dimension-of-anaconda.json) |
 | The Diner | 250537 | [250537-the-diner.json](./250537-the-diner.json) |
 | The Diner | 355230 | [355230-the-diner.json](./355230-the-diner.json) |
+| The Diner at the End of the Galaxy | 267128 | [267128-the-diner-at-the-end-of-the-galaxy.json](./267128-the-diner-at-the-end-of-the-galaxy.json) |
 | The Dinner | 337767 | [337767-the-dinner.json](./337767-the-dinner.json) |
 | The Dinner Heist | 308561 | [308561-the-dinner-heist.json](./308561-the-dinner-heist.json) |
 | The Dino R | 233623 | [233623-the-dino-r.json](./233623-the-dino-r.json) |
@@ -22476,6 +22478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time to Ride: Saddles & Stables | 64908 | [64908-time-to-ride-saddles-and-stables.json](./64908-time-to-ride-saddles-and-stables.json) |
 | Time to Star II | 338962 | [338962-time-to-star-ii.json](./338962-time-to-star-ii.json) |
 | Time to Stop Time | 121452 | [121452-time-to-stop-time.json](./121452-time-to-stop-time.json) |
+| Time to Strike | 267139 | [267139-time-to-strike.json](./267139-time-to-strike.json) |
 | Time To Wake Up | 257932 | [257932-time-to-wake-up.json](./257932-time-to-wake-up.json) |
 | Time To Wake Up | 356259 | [356259-time-to-wake-up.json](./356259-time-to-wake-up.json) |
 | Time Transit VR | 113727 | [113727-time-transit-vr.json](./113727-time-transit-vr.json) |
