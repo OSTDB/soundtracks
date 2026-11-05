@@ -9089,6 +9089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Legends: The Witness in the Rye DLC | 312068 | [312068-city-legends-the-witness-in-the-rye-dlc.json](./312068-city-legends-the-witness-in-the-rye-dlc.json) |
 | City Legends: Trapped In Mirror - Collector's Edition | 212835 | [212835-city-legends-trapped-in-mirror-collectors-edition.json](./212835-city-legends-trapped-in-mirror-collectors-edition.json) |
 | City Life 2008 | 15719 | [15719-city-life-2008.json](./15719-city-life-2008.json) |
+| City Life DS | 262128 | [262128-city-life-ds.json](./262128-city-life-ds.json) |
 | City Life: World Edition | 206347 | [206347-city-life-world-edition.json](./206347-city-life-world-edition.json) |
 | City Lights Love Bites Season 0 | 305676 | [305676-city-lights-love-bites-season-0.json](./305676-city-lights-love-bites-season-0.json) |
 | City Lights, Old Flames | 359150 | [359150-city-lights-old-flames.json](./359150-city-lights-old-flames.json) |
@@ -9311,6 +9312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CivCraft - Legends of Ellaria | 47273 | [47273-civcraft-legends-of-ellaria.json](./47273-civcraft-legends-of-ellaria.json) |
 | CivCrafter | 344954 | [344954-civcrafter.json](./344954-civcrafter.json) |
 | CivHero | 176615 | [176615-civhero.json](./176615-civhero.json) |
+| Civiballs | 262048 | [262048-civiballs.json](./262048-civiballs.json) |
 | Civiballs 2 | 335475 | [335475-civiballs-2.json](./335475-civiballs-2.json) |
 | Civics Scribble | 380760 | [380760-civics-scribble.json](./380760-civics-scribble.json) |
 | Cividle | 224744 | [224744-cividle.json](./224744-cividle.json) |
@@ -10416,6 +10418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud Heart | 211822 | [211822-cloud-heart.json](./211822-cloud-heart.json) |
 | Cloud House | 236497 | [236497-cloud-house.json](./236497-cloud-house.json) |
 | Cloud JourneyVR | 424669 | [424669-cloud-journeyvr.json](./424669-cloud-journeyvr.json) |
+| Cloud Jump | 262110 | [262110-cloud-jump.json](./262110-cloud-jump.json) |
 | Cloud Jumper | 140817 | [140817-cloud-jumper.json](./140817-cloud-jumper.json) |
 | Cloud Keeper: Shrine of Dal | 356039 | [356039-cloud-keeper-shrine-of-dal.json](./356039-cloud-keeper-shrine-of-dal.json) |
 | Cloud Knights | 83324 | [83324-cloud-knights.json](./83324-cloud-knights.json) |
@@ -13720,6 +13723,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contra | 186208 | [186208-contra.json](./186208-contra.json) |
 | Contra | 186226 | [186226-contra.json](./186226-contra.json) |
 | Contra | 217544 | [217544-contra.json](./217544-contra.json) |
+| Contra | 262140 | [262140-contra.json](./262140-contra.json) |
+| Contra | 262141 | [262141-contra.json](./262141-contra.json) |
 | Contra 4 | 9545 | [9545-contra-4.json](./9545-contra-4.json) |
 | Contra Advance: The Alien Wars EX | 49158 | [49158-contra-advance-the-alien-wars-ex.json](./49158-contra-advance-the-alien-wars-ex.json) |
 | Contra Burst | 405812 | [405812-contra-burst.json](./405812-contra-burst.json) |
@@ -15969,6 +15974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Dive | 24003 | [24003-crash-dive.json](./24003-crash-dive.json) |
 | Crash Dive | 35403 | [35403-crash-dive.json](./35403-crash-dive.json) |
 | Crash Dive 2 | 150949 | [150949-crash-dive-2.json](./150949-crash-dive-2.json) |
+| Crash Dive 2 - Aleutian Islands Expansion | 262036 | [262036-crash-dive-2-aleutian-islands-expansion.json](./262036-crash-dive-2-aleutian-islands-expansion.json) |
 | Crash Dive 2: East Indies Expansion Pack | 316390 | [316390-crash-dive-2-east-indies-expansion-pack.json](./316390-crash-dive-2-east-indies-expansion-pack.json) |
 | Crash Drive 2 | 35904 | [35904-crash-drive-2.json](./35904-crash-drive-2.json) |
 | Crash Drive 3 | 153824 | [153824-crash-drive-3.json](./153824-crash-drive-3.json) |
