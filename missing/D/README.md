@@ -2977,6 +2977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days with My Lonely Teacher | 346666 | [346666-days-with-my-lonely-teacher.json](./346666-days-with-my-lonely-teacher.json) |
 | Days With Ollie | 294689 | [294689-days-with-ollie.json](./294689-days-with-ollie.json) |
 | Days with Ophelia: The Girl From Wind City | 196109 | [196109-days-with-ophelia-the-girl-from-wind-city.json](./196109-days-with-ophelia-the-girl-from-wind-city.json) |
+| Days Without | 290228 | [290228-days-without.json](./290228-days-without.json) |
 | Days Without Incident | 374727 | [374727-days-without-incident.json](./374727-days-without-incident.json) |
 | Dayscream | 139872 | [139872-dayscream.json](./139872-dayscream.json) |
 | Dayshift at Freddy's | 198465 | [198465-dayshift-at-freddys.json](./198465-dayshift-at-freddys.json) |
@@ -5161,6 +5162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Inside | 179662 | [179662-deep-inside.json](./179662-deep-inside.json) |
 | Deep Inside | 309535 | [309535-deep-inside.json](./309535-deep-inside.json) |
 | Deep Inside: Amore Sola MI Fa Remirare | 364769 | [364769-deep-inside-amore-sola-mi-fa-remirare.json](./364769-deep-inside-amore-sola-mi-fa-remirare.json) |
+| Deep Into Darkness | 290199 | [290199-deep-into-darkness.json](./290199-deep-into-darkness.json) |
 | Deep Labyrinth | 20552 | [20552-deep-labyrinth.json](./20552-deep-labyrinth.json) |
 | Deep Lake Mall | 320705 | [320705-deep-lake-mall.json](./320705-deep-lake-mall.json) |
 | Deep Lake Reel Fishing | 236988 | [236988-deep-lake-reel-fishing.json](./236988-deep-lake-reel-fishing.json) |
@@ -8406,6 +8408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice World | 250832 | [250832-dice-world.json](./250832-dice-world.json) |
 | Dice World: 6 Fun Games | 232282 | [232282-dice-world-6-fun-games.json](./232282-dice-world-6-fun-games.json) |
 | Dice x Deck | 374394 | [374394-dice-x-deck.json](./374394-dice-x-deck.json) |
+| Dice-Zee! | 290208 | [290208-dice-zee.json](./290208-dice-zee.json) |
 | Dice-Zee!: Dice Pak - "Autumn Auras" | 291087 | [291087-dice-zee-dice-pak-autumn-auras.json](./291087-dice-zee-dice-pak-autumn-auras.json) |
 | Dice-Zee!: Dice Pak - "Contemporary Cool" | 291086 | [291086-dice-zee-dice-pak-contemporary-cool.json](./291086-dice-zee-dice-pak-contemporary-cool.json) |
 | Dice-Zee!: Dice Pak - "Gold & Pearls" | 291690 | [291690-dice-zee-dice-pak-gold-and-pearls.json](./291690-dice-zee-dice-pak-gold-and-pearls.json) |
@@ -14993,6 +14996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DragonRide VR | 128176 | [128176-dragonride-vr.json](./128176-dragonride-vr.json) |
 | DragonRoad | 371839 | [371839-dragonroad.json](./371839-dragonroad.json) |
 | Dragons and Elves | 355191 | [355191-dragons-and-elves.json](./355191-dragons-and-elves.json) |
+| Dragons and Nature | 290204 | [290204-dragons-and-nature.json](./290204-dragons-and-nature.json) |
 | Dragons and Titans | 10195 | [10195-dragons-and-titans.json](./10195-dragons-and-titans.json) |
 | Dragons Frolic! | 346515 | [346515-dragons-frolic.json](./346515-dragons-frolic.json) |
 | Dragons Heart | 239692 | [239692-dragons-heart.json](./239692-dragons-heart.json) |
@@ -18013,6 +18017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Darkness | 32535 | [32535-dungeons-and-darkness.json](./32535-dungeons-and-darkness.json) |
 | Dungeons & Degenerate Gamblers | 248673 | [248673-dungeons-and-degenerate-gamblers.json](./248673-dungeons-and-degenerate-gamblers.json) |
 | Dungeons & Desserts | 349371 | [349371-dungeons-and-desserts.json](./349371-dungeons-and-desserts.json) |
+| Dungeons & Dimensions | 290196 | [290196-dungeons-and-dimensions.json](./290196-dungeons-and-dimensions.json) |
 | Dungeons & Dining Tables | 287484 | [287484-dungeons-and-dining-tables.json](./287484-dungeons-and-dining-tables.json) |
 | Dungeons & Directories | 381931 | [381931-dungeons-and-directories.json](./381931-dungeons-and-directories.json) |
 | Dungeons & Dragons | 172452 | [172452-dungeons-and-dragons.json](./172452-dungeons-and-dragons.json) |
