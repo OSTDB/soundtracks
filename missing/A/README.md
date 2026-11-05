@@ -2547,6 +2547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat 7: Skies Unknown - Ultimate Edition | 282547 | [282547-ace-combat-7-skies-unknown-ultimate-edition.json](./282547-ace-combat-7-skies-unknown-ultimate-edition.json) |
 | Ace Combat 7: Skies Unknown - Unexpected Visitor | 164584 | [164584-ace-combat-7-skies-unknown-unexpected-visitor.json](./164584-ace-combat-7-skies-unknown-unexpected-visitor.json) |
 | Ace Combat 7: Skies Unknown – XFA-27 Set | 225383 | [225383-ace-combat-7-skies-unknown-xfa-27-set.json](./225383-ace-combat-7-skies-unknown-xfa-27-set.json) |
+| Ace Combat 7: Skies Unknown Deluxe Edition | 282949 | [282949-ace-combat-7-skies-unknown-deluxe-edition.json](./282949-ace-combat-7-skies-unknown-deluxe-edition.json) |
 | Ace Combat 8: Wings of Theve | 381247 | [381247-ace-combat-8-wings-of-theve.json](./381247-ace-combat-8-wings-of-theve.json) |
 | Ace Combat 8: Wings of Theve - Customizable Cosmetic Set | 404096 | [404096-ace-combat-8-wings-of-theve-customizable-cosmetic-set.json](./404096-ace-combat-8-wings-of-theve-customizable-cosmetic-set.json) |
 | Ace Combat 8: Wings of Theve - Playable Aircraft: F-14A | 404094 | [404094-ace-combat-8-wings-of-theve-playable-aircraft-f-14a.json](./404094-ace-combat-8-wings-of-theve-playable-aircraft-f-14a.json) |
@@ -16240,6 +16241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
