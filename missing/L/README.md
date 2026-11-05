@@ -2672,6 +2672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Tetrarchs | 117738 | [117738-legend-of-the-tetrarchs.json](./117738-legend-of-the-tetrarchs.json) |
 | Legend of the Time Sword: Episode 1 | 303814 | [303814-legend-of-the-time-sword-episode-1.json](./303814-legend-of-the-time-sword-episode-1.json) |
 | Legend of the Unicorn Girl | 62567 | [62567-legend-of-the-unicorn-girl.json](./62567-legend-of-the-unicorn-girl.json) |
+| Legend of the Wargod | 275395 | [275395-legend-of-the-wargod.json](./275395-legend-of-the-wargod.json) |
 | Legend of the wizard | 120856 | [120856-legend-of-the-wizard.json](./120856-legend-of-the-wizard.json) |
 | Legend of the Wizard King | 114219 | [114219-legend-of-the-wizard-king.json](./114219-legend-of-the-wizard-king.json) |
 | Legend of the Wonderfish | 383961 | [383961-legend-of-the-wonderfish.json](./383961-legend-of-the-wonderfish.json) |
@@ -9113,6 +9114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Luke: Wanted! | 49331 | [49331-lucky-luke-wanted.json](./49331-lucky-luke-wanted.json) |
 | Lucky Luke: Western Fever | 43886 | [43886-lucky-luke-western-fever.json](./43886-lucky-luke-western-fever.json) |
 | Lucky Luna | 204452 | [204452-lucky-luna.json](./204452-lucky-luna.json) |
+| Lucky Mayor | 275360 | [275360-lucky-mayor.json](./275360-lucky-mayor.json) |
 | Lucky Me | 188776 | [188776-lucky-me.json](./188776-lucky-me.json) |
 | Lucky Me Lucky You | 123996 | [123996-lucky-me-lucky-you.json](./123996-lucky-me-lucky-you.json) |
 | Lucky Morolian | 259827 | [259827-lucky-morolian.json](./259827-lucky-morolian.json) |
