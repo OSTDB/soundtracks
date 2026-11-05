@@ -8565,6 +8565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robin Hood: The Legend of Sherwood | 851 | [851-robin-hood-the-legend-of-sherwood.json](./851-robin-hood-the-legend-of-sherwood.json) |
 | Robin Hood: The Return of Richard | 66507 | [66507-robin-hood-the-return-of-richard.json](./66507-robin-hood-the-return-of-richard.json) |
 | Robin Hood: The Siege | 141092 | [141092-robin-hood-the-siege.json](./141092-robin-hood-the-siege.json) |
+| Robin Hood: The Siege | 278216 | [278216-robin-hood-the-siege.json](./278216-robin-hood-the-siege.json) |
 | Robin Hood: Winds of Freedom | 161628 | [161628-robin-hood-winds-of-freedom.json](./161628-robin-hood-winds-of-freedom.json) |
 | Robin Hood's Quest | 43558 | [43558-robin-hoods-quest.json](./43558-robin-hoods-quest.json) |
 | Robin In Da Hood | 310796 | [310796-robin-in-da-hood.json](./310796-robin-in-da-hood.json) |
