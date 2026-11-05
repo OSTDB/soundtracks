@@ -4587,6 +4587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hen, Chicks and Cats | 204428 | [204428-hen-chicks-and-cats.json](./204428-hen-chicks-and-cats.json) |
 | HenapoLand | 271035 | [271035-henapoland.json](./271035-henapoland.json) |
 | HenapoLand: Tsuika Avatar Room | 297745 | [297745-henapoland-tsuika-avatar-room.json](./297745-henapoland-tsuika-avatar-room.json) |
+| Henapon | 295966 | [295966-henapon.json](./295966-henapon.json) |
 | Henbou no Bansan | 98439 | [98439-henbou-no-bansan.json](./98439-henbou-no-bansan.json) |
 | Hench: The Mix Master | 62635 | [62635-hench-the-mix-master.json](./62635-hench-the-mix-master.json) |
 | Henchman For Hire | 132489 | [132489-henchman-for-hire.json](./132489-henchman-for-hire.json) |
@@ -10739,6 +10740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover Biker | 243846 | [243846-hover-biker.json](./243846-hover-biker.json) |
 | Hover Bots VR | 47134 | [47134-hover-bots-vr.json](./47134-hover-bots-vr.json) |
 | Hover Bovver | 47174 | [47174-hover-bovver.json](./47174-hover-bovver.json) |
+| Hover Car Racing | 295967 | [295967-hover-car-racing.json](./295967-hover-car-racing.json) |
 | Hover Cross Skills | 249316 | [249316-hover-cross-skills.json](./249316-hover-cross-skills.json) |
 | Hover Cubes: Arena | 34612 | [34612-hover-cubes-arena.json](./34612-hover-cubes-arena.json) |
 | Hover Cup | 410180 | [410180-hover-cup.json](./410180-hover-cup.json) |
@@ -12075,6 +12077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Scape | 100387 | [100387-hyper-scape.json](./100387-hyper-scape.json) |
 | Hyper School Simulator | 303095 | [303095-hyper-school-simulator.json](./303095-hyper-school-simulator.json) |
 | Hyper Scuffle | 114338 | [114338-hyper-scuffle.json](./114338-hyper-scuffle.json) |
+| Hyper Securities 2 | 295947 | [295947-hyper-securities-2.json](./295947-hyper-securities-2.json) |
 | Hyper Securities S | 247349 | [247349-hyper-securities-s.json](./247349-hyper-securities-s.json) |
 | Hyper Sentinel | 85191 | [85191-hyper-sentinel.json](./85191-hyper-sentinel.json) |
 | Hyper Sentinel Fusion | 336447 | [336447-hyper-sentinel-fusion.json](./336447-hyper-sentinel-fusion.json) |
