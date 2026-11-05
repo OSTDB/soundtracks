@@ -12643,6 +12643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Line | 79742 | [79742-the-line.json](./79742-the-line.json) |
 | The Line of Defense | 370184 | [370184-the-line-of-defense.json](./370184-the-line-of-defense.json) |
 | The Line TD | 275335 | [275335-the-line-td.json](./275335-the-line-td.json) |
+| The Line Zen | 295977 | [295977-the-line-zen.json](./295977-the-line-zen.json) |
 | The Line: The Other Path | 171345 | [171345-the-line-the-other-path.json](./171345-the-line-the-other-path.json) |
 | The Lingering: Graveyard Visit | 350804 | [350804-the-lingering-graveyard-visit.json](./350804-the-lingering-graveyard-visit.json) |
 | The Lingering: Last Customer | 336532 | [336532-the-lingering-last-customer.json](./336532-the-lingering-last-customer.json) |
@@ -16622,6 +16623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The SpudFather | 302329 | [302329-the-spudfather.json](./302329-the-spudfather.json) |
 | The Spy | 94115 | [94115-the-spy.json](./94115-the-spy.json) |
 | The Spy I Married | 327991 | [327991-the-spy-i-married.json](./327991-the-spy-i-married.json) |
+| The Spy Strikes Back! | 295988 | [295988-the-spy-strikes-back.json](./295988-the-spy-strikes-back.json) |
 | The Spy's Adventures in Europe | 54642 | [54642-the-spys-adventures-in-europe.json](./54642-the-spys-adventures-in-europe.json) |
 | The Spy's Adventures in South America | 54643 | [54643-the-spys-adventures-in-south-america.json](./54643-the-spys-adventures-in-south-america.json) |
 | The Square Game | 130377 | [130377-the-square-game.json](./130377-the-square-game.json) |
@@ -20167,6 +20169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunderbolt II | 71562 | [71562-thunderbolt-ii.json](./71562-thunderbolt-ii.json) |
 | Thunderbolt Poker | 227875 | [227875-thunderbolt-poker.json](./227875-thunderbolt-poker.json) |
 | Thunderbolts and Lightning! | 277954 | [277954-thunderbolts-and-lightning.json](./277954-thunderbolts-and-lightning.json) |
+| Thunderbombs | 295960 | [295960-thunderbombs.json](./295960-thunderbombs.json) |
 | Thunderbowl | 103804 | [103804-thunderbowl.json](./103804-thunderbowl.json) |
 | Thundercade | 323042 | [323042-thundercade.json](./323042-thundercade.json) |
 | ThunderCats | 23680 | [23680-thundercats.json](./23680-thundercats.json) |
