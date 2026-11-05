@@ -4270,6 +4270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aftergreen | 416832 | [416832-aftergreen.json](./416832-aftergreen.json) |
 | Aftergrinder | 28900 | [28900-aftergrinder.json](./28900-aftergrinder.json) |
 | AfterHours | 191628 | [191628-afterhours.json](./191628-afterhours.json) |
+| Afterimage Mobile | 297224 | [297224-afterimage-mobile.json](./297224-afterimage-mobile.json) |
 | Afterimage: Deluxe Edition | 234215 | [234215-afterimage-deluxe-edition.json](./234215-afterimage-deluxe-edition.json) |
 | Afterinfection | 153013 | [153013-afterinfection.json](./153013-afterinfection.json) |
 | Afterlands | 268893 | [268893-afterlands.json](./268893-afterlands.json) |
@@ -16179,7 +16180,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
