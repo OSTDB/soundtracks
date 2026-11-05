@@ -633,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madeline: European Adventures | 210114 | [210114-madeline-european-adventures.json](./210114-madeline-european-adventures.json) |
 | Mademoiselle Kshatriya | 367622 | [367622-mademoiselle-kshatriya.json](./367622-mademoiselle-kshatriya.json) |
 | MaDevil | 201402 | [201402-madevil.json](./201402-madevil.json) |
+| Madfarmer: Lost Kingdoms and Crazy Critters | 269372 | [269372-madfarmer-lost-kingdoms-and-crazy-critters.json](./269372-madfarmer-lost-kingdoms-and-crazy-critters.json) |
 | Madfut 23 | 232128 | [232128-madfut-23.json](./232128-madfut-23.json) |
 | MadFut 25 | 327873 | [327873-madfut-25.json](./327873-madfut-25.json) |
 | Madgun | 241277 | [241277-madgun.json](./241277-madgun.json) |
@@ -9172,6 +9173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Magic! | 139297 | [139297-merge-magic.json](./139297-merge-magic.json) |
 | Merge Mansion | 196866 | [196866-merge-mansion.json](./196866-merge-mansion.json) |
 | Merge Marbles | 309337 | [309337-merge-marbles.json](./309337-merge-marbles.json) |
+| Merge Master | 269367 | [269367-merge-master.json](./269367-merge-master.json) |
 | Merge Master: Super Dragon | 233378 | [233378-merge-master-super-dragon.json](./233378-merge-master-super-dragon.json) |
 | Merge Match March | 361798 | [361798-merge-match-march.json](./361798-merge-match-march.json) |
 | Merge Mayor | 212482 | [212482-merge-mayor.json](./212482-merge-mayor.json) |
@@ -16042,6 +16044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monterey Jack | 347217 | [347217-monterey-jack.json](./347217-monterey-jack.json) |
 | Montessori Music | 80465 | [80465-montessori-music.json](./80465-montessori-music.json) |
 | Montessori Nature | 102502 | [102502-montessori-nature.json](./102502-montessori-nature.json) |
+| Montessori Numberland | 269348 | [269348-montessori-numberland.json](./269348-montessori-numberland.json) |
 | Montevisoft | 28198 | [28198-montevisoft.json](./28198-montevisoft.json) |
 | Montezooma | 73437 | [73437-montezooma.json](./73437-montezooma.json) |
 | Montezuma Puzzle | 91341 | [91341-montezuma-puzzle.json](./91341-montezuma-puzzle.json) |
