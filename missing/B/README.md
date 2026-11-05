@@ -3869,6 +3869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Painters | 140542 | [140542-battle-painters.json](./140542-battle-painters.json) |
 | Battle Part | 209484 | [209484-battle-part.json](./209484-battle-part.json) |
 | Battle Phlinx | 366403 | [366403-battle-phlinx.json](./366403-battle-phlinx.json) |
+| Battle Picross | 269917 | [269917-battle-picross.json](./269917-battle-picross.json) |
 | Battle Pinball | 174187 | [174187-battle-pinball.json](./174187-battle-pinball.json) |
 | Battle Pinball | 235114 | [235114-battle-pinball.json](./235114-battle-pinball.json) |
 | Battle Pinball | 37205 | [37205-battle-pinball.json](./37205-battle-pinball.json) |
