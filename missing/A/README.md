@@ -14527,6 +14527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ash Arms | 180283 | [180283-ash-arms.json](./180283-ash-arms.json) |
 | Ash Arms 2: The Darkside of the Moon | 396684 | [396684-ash-arms-2-the-darkside-of-the-moon.json](./396684-ash-arms-2-the-darkside-of-the-moon.json) |
 | Ash Battle | 214048 | [214048-ash-battle.json](./214048-ash-battle.json) |
+| Ash Echoes | 282391 | [282391-ash-echoes.json](./282391-ash-echoes.json) |
 | Ash Echoes | 376880 | [376880-ash-echoes.json](./376880-ash-echoes.json) |
 | Ash Hills: Descent | 382811 | [382811-ash-hills-descent.json](./382811-ash-hills-descent.json) |
 | ASH II: Shadows | 65269 | [65269-ash-ii-shadows.json](./65269-ash-ii-shadows.json) |
@@ -16241,7 +16242,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
