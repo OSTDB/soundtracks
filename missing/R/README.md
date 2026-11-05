@@ -7804,7 +7804,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise Out | 373027 | [373027-rise-out.json](./373027-rise-out.json) |
 | Rise to Glory | 92469 | [92469-rise-to-glory.json](./92469-rise-to-glory.json) |
 | Rise to Mayhem | 351579 | [351579-rise-to-mayhem.json](./351579-rise-to-mayhem.json) |
-| Rise to Ruins | 36220 | [36220-rise-to-ruins.json](./36220-rise-to-ruins.json) |
 | Rise to Surface | 243092 | [243092-rise-to-surface.json](./243092-rise-to-surface.json) |
 | Rise Up | 95131 | [95131-rise-up.json](./95131-rise-up.json) |
 | Rise Up - Dark Night Mode | 100700 | [100700-rise-up-dark-night-mode.json](./100700-rise-up-dark-night-mode.json) |
@@ -11972,7 +11971,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run & Gun: Banditos | 109513 | [109513-run-and-gun-banditos.json](./109513-run-and-gun-banditos.json) |
 | Run & Jump Guy | 304363 | [304363-run-and-jump-guy.json](./304363-run-and-jump-guy.json) |
 | Run 2 | 80484 | [80484-run-2.json](./80484-run-2.json) |
-| Run 3 | 28123 | [28123-run-3.json](./28123-run-3.json) |
 | Run a Café | 245743 | [245743-run-a-cafe.json](./245743-run-a-cafe.json) |
 | Run An Empire | 322541 | [322541-run-an-empire.json](./322541-run-an-empire.json) |
 | Run and Fire | 274566 | [274566-run-and-fire.json](./274566-run-and-fire.json) |
