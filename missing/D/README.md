@@ -3300,6 +3300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: A Binding of Kin Chapter | 168867 | [168867-dead-by-daylight-a-binding-of-kin-chapter.json](./168867-dead-by-daylight-a-binding-of-kin-chapter.json) |
 | Dead by Daylight: A Lullaby for the Dark Chapter | 76224 | [76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json](./76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json) |
 | Dead by Daylight: A Nightmare on Elm Street | 76226 | [76226-dead-by-daylight-a-nightmare-on-elm-street.json](./76226-dead-by-daylight-a-nightmare-on-elm-street.json) |
+| Dead by Daylight: Alan Wake Chapter | 284709 | [284709-dead-by-daylight-alan-wake-chapter.json](./284709-dead-by-daylight-alan-wake-chapter.json) |
 | Dead by Daylight: Alien Chapter Pack | 263939 | [263939-dead-by-daylight-alien-chapter-pack.json](./263939-dead-by-daylight-alien-chapter-pack.json) |
 | Dead by Daylight: All Kill - Comeback | 397275 | [397275-dead-by-daylight-all-kill-comeback.json](./397275-dead-by-daylight-all-kill-comeback.json) |
 | Dead by Daylight: All Things Wicked Chapter | 290845 | [290845-dead-by-daylight-all-things-wicked-chapter.json](./290845-dead-by-daylight-all-things-wicked-chapter.json) |
