@@ -10028,3 +10028,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lysward | 335487 | [335487-lysward.json](./335487-lysward.json) |
 | Lythe The Forgetful Witch: A Visual Novel | 325057 | [325057-lythe-the-forgetful-witch-a-visual-novel.json](./325057-lythe-the-forgetful-witch-a-visual-novel.json) |
 | Lythia: Sigil of Lust | 384755 | [384755-lythia-sigil-of-lust.json](./384755-lythia-sigil-of-lust.json) |
+| LZJ's Galaxy Trip | 259925 | [259925-lzjs-galaxy-trip.json](./259925-lzjs-galaxy-trip.json) |
