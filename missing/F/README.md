@@ -5961,6 +5961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefighter Connor | 266524 | [266524-firefighter-connor.json](./266524-firefighter-connor.json) |
 | Firefighter F.D.18 | 22282 | [22282-firefighter-f-d-18.json](./22282-firefighter-f-d-18.json) |
 | Firefighter Gaiden | 381277 | [381277-firefighter-gaiden.json](./381277-firefighter-gaiden.json) |
+| Firefighter Simulator 911: Car Fire Truck Driver | 258255 | [258255-firefighter-simulator-911-car-fire-truck-driver.json](./258255-firefighter-simulator-911-car-fire-truck-driver.json) |
 | Firefighter Wizard: The Elemental Order | 319431 | [319431-firefighter-wizard-the-elemental-order.json](./319431-firefighter-wizard-the-elemental-order.json) |
 | Firefighter: Car Fire Truck Sim Driving 2022 Simulator | 208839 | [208839-firefighter-car-fire-truck-sim-driving-2022-simulator.json](./208839-firefighter-car-fire-truck-sim-driving-2022-simulator.json) |
 | Firefighters 2014 | 17208 | [17208-firefighters-2014.json](./17208-firefighters-2014.json) |
@@ -7718,6 +7719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip it | 268815 | [268815-flip-it.json](./268815-flip-it.json) |
 | Flip It | 309636 | [309636-flip-it.json](./309636-flip-it.json) |
 | Flip It 2 | 254698 | [254698-flip-it-2.json](./254698-flip-it-2.json) |
+| Flip Joy | 258247 | [258247-flip-joy.json](./258247-flip-joy.json) |
 | Flip Man! | 119253 | [119253-flip-man.json](./119253-flip-man.json) |
 | Flip Master | 88757 | [88757-flip-master.json](./88757-flip-master.json) |
 | Flip Maze | 137589 | [137589-flip-maze.json](./137589-flip-maze.json) |
@@ -9471,6 +9473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Farm | 167556 | [167556-forest-farm.json](./167556-forest-farm.json) |
 | Forest Fellers | 295832 | [295832-forest-fellers.json](./295832-forest-fellers.json) |
 | Forest Fire | 230941 | [230941-forest-fire.json](./230941-forest-fire.json) |
+| Forest Frenzy | 258264 | [258264-forest-frenzy.json](./258264-forest-frenzy.json) |
 | Forest Friends Match | 340231 | [340231-forest-friends-match.json](./340231-forest-friends-match.json) |
 | Forest God | 313255 | [313255-forest-god.json](./313255-forest-god.json) |
 | Forest Goddess and Flower Magician | 82522 | [82522-forest-goddess-and-flower-magician.json](./82522-forest-goddess-and-flower-magician.json) |
@@ -9965,6 +9968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Racing Pro 2026: Silver Edtion | 412585 | [412585-formula-racing-pro-2026-silver-edtion.json](./412585-formula-racing-pro-2026-silver-edtion.json) |
 | Formula Racing Pro 2026: Upgrade Edition | 396918 | [396918-formula-racing-pro-2026-upgrade-edition.json](./396918-formula-racing-pro-2026-upgrade-edition.json) |
 | Formula Racing: Grand Prix League | 319317 | [319317-formula-racing-grand-prix-league.json](./319317-formula-racing-grand-prix-league.json) |
+| Formula Retro Racing: World Tour - Special Edition | 258257 | [258257-formula-retro-racing-world-tour-special-edition.json](./258257-formula-retro-racing-world-tour-special-edition.json) |
 | Formula Rush | 332868 | [332868-formula-rush.json](./332868-formula-rush.json) |
 | Formula Team | 157899 | [157899-formula-team.json](./157899-formula-team.json) |
 | Formula Top | 199646 | [199646-formula-top.json](./199646-formula-top.json) |
