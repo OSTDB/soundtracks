@@ -14891,6 +14891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmogelica | 265674 | [265674-cosmogelica.json](./265674-cosmogelica.json) |
 | Cosmogenesis | 222625 | [222625-cosmogenesis.json](./222625-cosmogenesis.json) |
 | Cosmogonic | 235428 | [235428-cosmogonic.json](./235428-cosmogonic.json) |
+| Cosmogony: The Complete Collection | 270450 | [270450-cosmogony-the-complete-collection.json](./270450-cosmogony-the-complete-collection.json) |
 | CosmoKick.io | 405868 | [405868-cosmokick-io.json](./405868-cosmokick-io.json) |
 | Cosmolace | 339969 | [339969-cosmolace.json](./339969-cosmolace.json) |
 | CosmoLands \| Space-Adventure | 33482 | [33482-cosmolands-space-adventure.json](./33482-cosmolands-space-adventure.json) |
