@@ -2911,6 +2911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jubeat | 154841 | [154841-jubeat.json](./154841-jubeat.json) |
 | Jubeat | 79960 | [79960-jubeat.json](./79960-jubeat.json) |
 | Jubeat Ave. | 229537 | [229537-jubeat-ave.json](./229537-jubeat-ave.json) |
+| Jubeat Beyond the Ave. | 261030 | [261030-jubeat-beyond-the-ave.json](./261030-jubeat-beyond-the-ave.json) |
 | Jubeat Clan | 125280 | [125280-jubeat-clan.json](./125280-jubeat-clan.json) |
 | Jubeat Copious | 84438 | [84438-jubeat-copious.json](./84438-jubeat-copious.json) |
 | Jubeat Festo | 134298 | [134298-jubeat-festo.json](./134298-jubeat-festo.json) |
