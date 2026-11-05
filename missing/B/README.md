@@ -10298,6 +10298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Corsair | 236000 | [236000-block-corsair.json](./236000-block-corsair.json) |
 | Block Craft 3D: City Building | 86995 | [86995-block-craft-3d-city-building.json](./86995-block-craft-3d-city-building.json) |
 | Block Craft 3D: Crafting & Building Game | 99707 | [99707-block-craft-3d-crafting-and-building-game.json](./99707-block-craft-3d-crafting-and-building-game.json) |
+| Block Craft Racing | 248273 | [248273-block-craft-racing.json](./248273-block-craft-racing.json) |
 | Block Dash Adventure | 164294 | [164294-block-dash-adventure.json](./164294-block-dash-adventure.json) |
 | Block Destruction | 150986 | [150986-block-destruction.json](./150986-block-destruction.json) |
 | Block Destruction | 56391 | [56391-block-destruction.json](./56391-block-destruction.json) |
