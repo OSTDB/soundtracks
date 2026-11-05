@@ -5708,6 +5708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Link | 390194 | [390194-hero-link.json](./390194-hero-link.json) |
 | Hero Lodge | 186815 | [186815-hero-lodge.json](./186815-hero-lodge.json) |
 | Hero Mages | 197632 | [197632-hero-mages.json](./197632-hero-mages.json) |
+| Hero Manager | 275399 | [275399-hero-manager.json](./275399-hero-manager.json) |
 | Hero Mania | 211714 | [211714-hero-mania.json](./211714-hero-mania.json) |
 | Hero Masters | 104812 | [104812-hero-masters.json](./104812-hero-masters.json) |
 | Hero Mini Maker | 161526 | [161526-hero-mini-maker.json](./161526-hero-mini-maker.json) |
