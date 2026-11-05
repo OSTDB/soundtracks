@@ -13800,6 +13800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Alb's Prodigy | 291844 | [291844-dr-albs-prodigy.json](./291844-dr-albs-prodigy.json) |
 | Dr. Atominus | 142807 | [142807-dr-atominus.json](./142807-dr-atominus.json) |
 | Dr. Awesome, MicroSurgeon M.D. | 70567 | [70567-dr-awesome-microsurgeon-m-d.json](./70567-dr-awesome-microsurgeon-m-d.json) |
+| Dr. Black Jack | 282408 | [282408-dr-black-jack.json](./282408-dr-black-jack.json) |
 | Dr. Blob's Organism | 73698 | [73698-dr-blobs-organism.json](./73698-dr-blobs-organism.json) |
 | Dr. Bloodshot | 311041 | [311041-dr-bloodshot.json](./311041-dr-bloodshot.json) |
 | Dr. Bon Bon Puzzle | 229346 | [229346-dr-bon-bon-puzzle.json](./229346-dr-bon-bon-puzzle.json) |
