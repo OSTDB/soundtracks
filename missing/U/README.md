@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO 2: Extraterrestrials | 195935 | [195935-ufo-2-extraterrestrials.json](./195935-ufo-2-extraterrestrials.json) |
 | UFO 50 | 54555 | [54555-ufo-50.json](./54555-ufo-50.json) |
 | UFO 50 Nonograms | 397748 | [397748-ufo-50-nonograms.json](./397748-ufo-50-nonograms.json) |
+| UFO Blast | 288544 | [288544-ufo-blast.json](./288544-ufo-blast.json) |
 | UFO Builder | 340861 | [340861-ufo-builder.json](./340861-ufo-builder.json) |
 | UFO Chase | 110855 | [110855-ufo-chase.json](./110855-ufo-chase.json) |
 | UFO Checkers | 173392 | [173392-ufo-checkers.json](./173392-ufo-checkers.json) |
@@ -330,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ukosz | 319181 | [319181-ukosz.json](./319181-ukosz.json) |
 | Ukraina Battle Tank!: Putin Edition | 207372 | [207372-ukraina-battle-tank-putin-edition.json](./207372-ukraina-battle-tank-putin-edition.json) |
 | Ukraine Defense Force Tactics | 204321 | [204321-ukraine-defense-force-tactics.json](./204321-ukraine-defense-force-tactics.json) |
+| Ukraine Total Defense | 288545 | [288545-ukraine-total-defense.json](./288545-ukraine-total-defense.json) |
 | Ukraine War 2022 | 287734 | [287734-ukraine-war-2022.json](./287734-ukraine-war-2022.json) |
 | Ukrainian ball in search of gas | 91409 | [91409-ukrainian-ball-in-search-of-gas.json](./91409-ukrainian-ball-in-search-of-gas.json) |
 | Ukrainian Farmy | 198267 | [198267-ukrainian-farmy.json](./198267-ukrainian-farmy.json) |
@@ -445,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Battle Simulator | 367911 | [367911-ultimate-battle-simulator.json](./367911-ultimate-battle-simulator.json) |
 | Ultimate Beach Soccer | 248631 | [248631-ultimate-beach-soccer.json](./248631-ultimate-beach-soccer.json) |
 | Ultimate Beach Soccer | 49353 | [49353-ultimate-beach-soccer.json](./49353-ultimate-beach-soccer.json) |
+| Ultimate Bicycle Stunts | 288546 | [288546-ultimate-bicycle-stunts.json](./288546-ultimate-bicycle-stunts.json) |
 | Ultimate Bird Simulator | 87344 | [87344-ultimate-bird-simulator.json](./87344-ultimate-bird-simulator.json) |
 | Ultimate Blackball | 243383 | [243383-ultimate-blackball.json](./243383-ultimate-blackball.json) |
 | Ultimate BlackJack Reloaded | 91107 | [91107-ultimate-blackjack-reloaded.json](./91107-ultimate-blackjack-reloaded.json) |
@@ -603,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Match 3D | 282256 | [282256-ultimate-match-3d.json](./282256-ultimate-match-3d.json) |
 | Ultimate Mind Games | 97181 | [97181-ultimate-mind-games.json](./97181-ultimate-mind-games.json) |
 | Ultimate MMA | 133385 | [133385-ultimate-mma.json](./133385-ultimate-mma.json) |
+| Ultimate Monkey Race | 288547 | [288547-ultimate-monkey-race.json](./288547-ultimate-monkey-race.json) |
 | Ultimate Monster Trucks | 53941 | [53941-ultimate-monster-trucks.json](./53941-ultimate-monster-trucks.json) |
 | Ultimate Mortal Kombat 3 | 1621 | [1621-ultimate-mortal-kombat-3.json](./1621-ultimate-mortal-kombat-3.json) |
 | Ultimate Mortal Kombat 3 | 283814 | [283814-ultimate-mortal-kombat-3.json](./283814-ultimate-mortal-kombat-3.json) |
@@ -682,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Scroll | 272716 | [272716-ultimate-scroll.json](./272716-ultimate-scroll.json) |
 | Ultimate Shark Simulator | 87336 | [87336-ultimate-shark-simulator.json](./87336-ultimate-shark-simulator.json) |
 | Ultimate Sheep Raccoon | 325276 | [325276-ultimate-sheep-raccoon.json](./325276-ultimate-sheep-raccoon.json) |
+| Ultimate Shifumi Championship | 288548 | [288548-ultimate-shifumi-championship.json](./288548-ultimate-shifumi-championship.json) |
 | Ultimate Shooting Collection | 5253 | [5253-ultimate-shooting-collection.json](./5253-ultimate-shooting-collection.json) |
 | Ultimate Shot: 3D Real Strike Shouter Counter | 247489 | [247489-ultimate-shot-3d-real-strike-shouter-counter.json](./247489-ultimate-shot-3d-real-strike-shouter-counter.json) |
 | Ultimate Shotgun Championship | 117602 | [117602-ultimate-shotgun-championship.json](./117602-ultimate-shotgun-championship.json) |
@@ -790,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Zombie Defense | 127723 | [127723-ultimate-zombie-defense.json](./127723-ultimate-zombie-defense.json) |
 | Ultimate Zombie Defense 2 | 211801 | [211801-ultimate-zombie-defense-2.json](./211801-ultimate-zombie-defense-2.json) |
 | UltimateBingoMachine | 98724 | [98724-ultimatebingomachine.json](./98724-ultimatebingomachine.json) |
+| Ultimator | 288549 | [288549-ultimator.json](./288549-ultimator.json) |
 | UltiMatt | 246929 | [246929-ultimatt.json](./246929-ultimatt.json) |
 | Ultimaze | 206716 | [206716-ultimaze.json](./206716-ultimaze.json) |
 | Ultimechs Spectator | 244068 | [244068-ultimechs-spectator.json](./244068-ultimechs-spectator.json) |
