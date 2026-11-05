@@ -954,7 +954,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1633,6 +1632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballistic Mini Golf | 74117 | [74117-ballistic-mini-golf.json](./74117-ballistic-mini-golf.json) |
 | Ballistic Overkill | 17320 | [17320-ballistic-overkill.json](./17320-ballistic-overkill.json) |
 | Ballistic Protection | 30995 | [30995-ballistic-protection.json](./30995-ballistic-protection.json) |
+| Ballistic Showdown | 259933 | [259933-ballistic-showdown.json](./259933-ballistic-showdown.json) |
 | Ballistic Tanks | 32327 | [32327-ballistic-tanks.json](./32327-ballistic-tanks.json) |
 | Ballistic Tilt | 363667 | [363667-ballistic-tilt.json](./363667-ballistic-tilt.json) |
 | Ballistic Zen | 211087 | [211087-ballistic-zen.json](./211087-ballistic-zen.json) |
@@ -11456,6 +11456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Maiden | 247944 | [247944-blue-maiden.json](./247944-blue-maiden.json) |
 | Blue Man Adventure | 412516 | [412516-blue-man-adventure.json](./412516-blue-man-adventure.json) |
 | Blue Mansion | 349113 | [349113-blue-mansion.json](./349113-blue-mansion.json) |
+| Blue Mario Bros. 3 | 259910 | [259910-blue-mario-bros-3.json](./259910-blue-mario-bros-3.json) |
 | Blue Max 2001 | 13818 | [13818-blue-max-2001.json](./13818-blue-max-2001.json) |
 | Blue Max: Aces of the Great War | 11972 | [11972-blue-max-aces-of-the-great-war.json](./11972-blue-max-aces-of-the-great-war.json) |
 | Blue Mint | 340216 | [340216-blue-mint.json](./340216-blue-mint.json) |
