@@ -1565,6 +1565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MagiCats Worlds | 111530 | [111530-magicats-worlds.json](./111530-magicats-worlds.json) |
 | MagicBeans | 257857 | [257857-magicbeans.json](./257857-magicbeans.json) |
 | Magicbook AutoBattler: Contract | 337377 | [337377-magicbook-autobattler-contract.json](./337377-magicbook-autobattler-contract.json) |
+| MagicCar of Delicious | 297137 | [297137-magiccar-of-delicious.json](./297137-magiccar-of-delicious.json) |
 | MagicCraft | 224409 | [224409-magiccraft.json](./224409-magiccraft.json) |
 | Magichess | 424610 | [424610-magichess.json](./424610-magichess.json) |
 | Magician | 319093 | [319093-magician.json](./319093-magician.json) |
@@ -3062,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manludo | 301820 | [301820-manludo.json](./301820-manludo.json) |
 | Manludo 2 | 303643 | [303643-manludo-2.json](./303643-manludo-2.json) |
 | Manly Men Fighting | 58796 | [58796-manly-men-fighting.json](./58796-manly-men-fighting.json) |
+| Manly Mines | 297138 | [297138-manly-mines.json](./297138-manly-mines.json) |
 | Manna Munchers | 73107 | [73107-manna-munchers.json](./73107-manna-munchers.json) |
 | MannaRites | 140566 | [140566-mannarites.json](./140566-mannarites.json) |
 | MannaRites Gold | 265328 | [265328-mannarites-gold.json](./265328-mannarites-gold.json) |
@@ -3308,6 +3310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Mage | 166709 | [166709-marble-mage.json](./166709-marble-mage.json) |
 | Marble Magicks | 259750 | [259750-marble-magicks.json](./259750-marble-magicks.json) |
 | Marble Maid | 160223 | [160223-marble-maid.json](./160223-marble-maid.json) |
+| Marble Maid 2: The Negative Levels | 297139 | [297139-marble-maid-2-the-negative-levels.json](./297139-marble-maid-2-the-negative-levels.json) |
 | Marble Man: Marble Madness II | 125477 | [125477-marble-man-marble-madness-ii.json](./125477-marble-man-marble-madness-ii.json) |
 | Marble Mania Ball Maze | 87069 | [87069-marble-mania-ball-maze.json](./87069-marble-mania-ball-maze.json) |
 | Marble Marcher | 125889 | [125889-marble-marcher.json](./125889-marble-marcher.json) |
@@ -4879,6 +4882,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Alchemist Simulator | 396522 | [396522-master-alchemist-simulator.json](./396522-master-alchemist-simulator.json) |
 | Master Archer | 185544 | [185544-master-archer.json](./185544-master-archer.json) |
 | Master Arena | 97280 | [97280-master-arena.json](./97280-master-arena.json) |
+| Master Arena: Blue Neon Bundle | 297143 | [297143-master-arena-blue-neon-bundle.json](./297143-master-arena-blue-neon-bundle.json) |
+| Master Arena: Inferno Edition Bundle | 297144 | [297144-master-arena-inferno-edition-bundle.json](./297144-master-arena-inferno-edition-bundle.json) |
 | Master Arena: Orange Neon Bundle | 297145 | [297145-master-arena-orange-neon-bundle.json](./297145-master-arena-orange-neon-bundle.json) |
 | Master Arena: Phantom Edition Bundle | 297147 | [297147-master-arena-phantom-edition-bundle.json](./297147-master-arena-phantom-edition-bundle.json) |
 | Master Arena: Ultimate Pass | 297146 | [297146-master-arena-ultimate-pass.json](./297146-master-arena-ultimate-pass.json) |
@@ -5741,6 +5746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -6418,6 +6424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech vs. Bugs | 263784 | [263784-mech-vs-bugs.json](./263784-mech-vs-bugs.json) |
 | Mech Warfare Arena | 174665 | [174665-mech-warfare-arena.json](./174665-mech-warfare-arena.json) |
 | Mech Wars | 317028 | [317028-mech-wars.json](./317028-mech-wars.json) |
+| Mech x Change | 297142 | [297142-mech-x-change.json](./297142-mech-x-change.json) |
 | Mech_Romancer | 134590 | [134590-mech-romancer.json](./134590-mech-romancer.json) |
 | Mech_Romancer Charity Bundle 2 | 205016 | [205016-mech-romancer-charity-bundle-2.json](./205016-mech-romancer-charity-bundle-2.json) |
 | Mecha | 336622 | [336622-mecha.json](./336622-mecha.json) |
@@ -6526,6 +6533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechApocalypse: Proving Grounds | 184817 | [184817-mechapocalypse-proving-grounds.json](./184817-mechapocalypse-proving-grounds.json) |
 | Mechapunk | 215314 | [215314-mechapunk.json](./215314-mechapunk.json) |
 | Mecharashi | 302230 | [302230-mecharashi.json](./302230-mecharashi.json) |
+| Mecharise | 297140 | [297140-mecharise.json](./297140-mecharise.json) |
 | MechAssault | 5910 | [5910-mechassault.json](./5910-mechassault.json) |
 | MechAssault 2: Lone Wolf | 5911 | [5911-mechassault-2-lone-wolf.json](./5911-mechassault-2-lone-wolf.json) |
 | MechAssault 2: Lone Wolf Limited Edition | 47315 | [47315-mechassault-2-lone-wolf-limited-edition.json](./47315-mechassault-2-lone-wolf-limited-edition.json) |
@@ -6614,6 +6622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior Online: Moonwalker Legendary Mech Pack | 357331 | [357331-mechwarrior-online-moonwalker-legendary-mech-pack.json](./357331-mechwarrior-online-moonwalker-legendary-mech-pack.json) |
 | MechWarrior Online: Naomi Legendary Mech Pack | 357325 | [357325-mechwarrior-online-naomi-legendary-mech-pack.json](./357325-mechwarrior-online-naomi-legendary-mech-pack.json) |
 | MechWarrior Online: Noble Legendary Mech Pack | 357321 | [357321-mechwarrior-online-noble-legendary-mech-pack.json](./357321-mechwarrior-online-noble-legendary-mech-pack.json) |
+| MechWarrior Online: Otomo Collection | 297141 | [297141-mechwarrior-online-otomo-collection.json](./297141-mechwarrior-online-otomo-collection.json) |
 | MechWarrior Online: Red Reaper II Legendary Mech Pack | 357328 | [357328-mechwarrior-online-red-reaper-ii-legendary-mech-pack.json](./357328-mechwarrior-online-red-reaper-ii-legendary-mech-pack.json) |
 | MechWarrior Online: Scaleshot Legendary Mech Pack | 262585 | [262585-mechwarrior-online-scaleshot-legendary-mech-pack.json](./262585-mechwarrior-online-scaleshot-legendary-mech-pack.json) |
 | MechWarrior Online: Seraph Legendary Mech Pack | 357409 | [357409-mechwarrior-online-seraph-legendary-mech-pack.json](./357409-mechwarrior-online-seraph-legendary-mech-pack.json) |
