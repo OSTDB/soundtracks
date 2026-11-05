@@ -305,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Difficult Game About Rolling: ReUpRise | 293739 | [293739-a-difficult-game-about-rolling-reuprise.json](./293739-a-difficult-game-about-rolling-reuprise.json) |
 | A Difficult Game About Wheelchair | 348007 | [348007-a-difficult-game-about-wheelchair.json](./348007-a-difficult-game-about-wheelchair.json) |
 | A Dino's Journey | 319388 | [319388-a-dinos-journey.json](./319388-a-dinos-journey.json) |
+| A Dire Emergency in Space | 253157 | [253157-a-dire-emergency-in-space.json](./253157-a-dire-emergency-in-space.json) |
 | A Directionless Cycle | 329236 | [329236-a-directionless-cycle.json](./329236-a-directionless-cycle.json) |
 | A Divided Light | 96766 | [96766-a-divided-light.json](./96766-a-divided-light.json) |
 | A Divine Wager | 176912 | [176912-a-divine-wager.json](./176912-a-divine-wager.json) |
@@ -413,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Frail Qubit | 192722 | [192722-a-frail-qubit.json](./192722-a-frail-qubit.json) |
 | A Frantic Santa Situation | 239623 | [239623-a-frantic-santa-situation.json](./239623-a-frantic-santa-situation.json) |
 | A Friday Night Real Music Funkin Game | 325105 | [325105-a-friday-night-real-music-funkin-game.json](./325105-a-friday-night-real-music-funkin-game.json) |
+| A Friendly Reminder | 253155 | [253155-a-friendly-reminder.json](./253155-a-friendly-reminder.json) |
 | A Frog Game | 67066 | [67066-a-frog-game.json](./67066-a-frog-game.json) |
 | A Frog in a Well | 337798 | [337798-a-frog-in-a-well.json](./337798-a-frog-in-a-well.json) |
 | A Frog's Guide to Eating Flies | 180424 | [180424-a-frogs-guide-to-eating-flies.json](./180424-a-frogs-guide-to-eating-flies.json) |
@@ -14337,6 +14339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifex Mundi Ultimate Collection | 113586 | [113586-artifex-mundi-ultimate-collection.json](./113586-artifex-mundi-ultimate-collection.json) |
 | Artifice | 258313 | [258313-artifice.json](./258313-artifice.json) |
 | Artifice: War Tactics | 224748 | [224748-artifice-war-tactics.json](./224748-artifice-war-tactics.json) |
+| Artificer's Tower | 253126 | [253126-artificers-tower.json](./253126-artificers-tower.json) |
 | Artificia Armata | 261675 | [261675-artificia-armata.json](./261675-artificia-armata.json) |
 | Artificial | 115126 | [115126-artificial.json](./115126-artificial.json) |
 | Artificial | 184212 | [184212-artificial.json](./184212-artificial.json) |
@@ -14501,6 +14504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As the Fog Burns | 137303 | [137303-as-the-fog-burns.json](./137303-as-the-fog-burns.json) |
 | As The Leaves Fall | 354930 | [354930-as-the-leaves-fall.json](./354930-as-the-leaves-fall.json) |
 | As the Light Goes Out | 217717 | [217717-as-the-light-goes-out.json](./217717-as-the-light-goes-out.json) |
+| As usual. | 253133 | [253133-as-usual.json](./253133-as-usual.json) |
 | As We Descend | 294502 | [294502-as-we-descend.json](./294502-as-we-descend.json) |
 | As We Know It | 99094 | [99094-as-we-know-it.json](./99094-as-we-know-it.json) |
 | As We Unite | 365081 | [365081-as-we-unite.json](./365081-as-we-unite.json) |
@@ -16398,7 +16402,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
@@ -16435,6 +16438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlas | 324945 | [324945-atlas.json](./324945-atlas.json) |
 | Atlas Architect | 157191 | [157191-atlas-architect.json](./157191-atlas-architect.json) |
 | Atlas Earth: Buy Virtual Land | 247217 | [247217-atlas-earth-buy-virtual-land.json](./247217-atlas-earth-buy-virtual-land.json) |
+| Atlas Endgames | 253165 | [253165-atlas-endgames.json](./253165-atlas-endgames.json) |
 | Atlas Fallen: Limited Edition | 252210 | [252210-atlas-fallen-limited-edition.json](./252210-atlas-fallen-limited-edition.json) |
 | Atlas Fallen: Reign of Sand | 311747 | [311747-atlas-fallen-reign-of-sand.json](./311747-atlas-fallen-reign-of-sand.json) |
 | Atlas Fallen: Signature Edition | 241961 | [241961-atlas-fallen-signature-edition.json](./241961-atlas-fallen-signature-edition.json) |
