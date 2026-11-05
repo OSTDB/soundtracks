@@ -967,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takoway | 133691 | [133691-takoway.json](./133691-takoway.json) |
 | Takoyaki Party Survival | 213972 | [213972-takoyaki-party-survival.json](./213972-takoyaki-party-survival.json) |
 | Takoyaki Run | 398374 | [398374-takoyaki-run.json](./398374-takoyaki-run.json) |
+| Takoyaki Surprise | 258779 | [258779-takoyaki-surprise.json](./258779-takoyaki-surprise.json) |
 | Taksakah | 396649 | [396649-taksakah.json](./396649-taksakah.json) |
 | Takt of Magic | 91755 | [91755-takt-of-magic.json](./91755-takt-of-magic.json) |
 | Takua 64 | 277080 | [277080-takua-64.json](./277080-takua-64.json) |
@@ -6715,6 +6716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Brave Mouse | 51513 | [51513-the-brave-mouse.json](./51513-the-brave-mouse.json) |
 | The Brave Never Alone | 351109 | [351109-the-brave-never-alone.json](./351109-the-brave-never-alone.json) |
 | The Brave New World | 272042 | [272042-the-brave-new-world.json](./272042-the-brave-new-world.json) |
+| The Braves | 258794 | [258794-the-braves.json](./258794-the-braves.json) |
 | The Braves & Bows | 32292 | [32292-the-braves-and-bows.json](./32292-the-braves-and-bows.json) |
 | The Braves: Beginning | 274381 | [274381-the-braves-beginning.json](./274381-the-braves-beginning.json) |
 | The Brazil | 294851 | [294851-the-brazil.json](./294851-the-brazil.json) |
@@ -15240,6 +15242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Relentless | 74219 | [74219-the-relentless.json](./74219-the-relentless.json) |
 | The Relic: First Guardian | 165397 | [165397-the-relic-first-guardian.json](./165397-the-relic-first-guardian.json) |
 | The Relief of Impact | 179751 | [179751-the-relief-of-impact.json](./179751-the-relief-of-impact.json) |
+| The Reluctant Redemption of Verity Lux | 258766 | [258766-the-reluctant-redemption-of-verity-lux.json](./258766-the-reluctant-redemption-of-verity-lux.json) |
 | The Remainder: Act 1 | 170855 | [170855-the-remainder-act-1.json](./170855-the-remainder-act-1.json) |
 | The Remainder: Act 2 | 171387 | [171387-the-remainder-act-2.json](./171387-the-remainder-act-2.json) |
 | The Remainder: The Complete Edition | 159596 | [159596-the-remainder-the-complete-edition.json](./159596-the-remainder-the-complete-edition.json) |
@@ -15990,6 +15993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shaman Diary | 382934 | [382934-the-shaman-diary.json](./382934-the-shaman-diary.json) |
 | The Shaman's Ark | 258119 | [258119-the-shamans-ark.json](./258119-the-shamans-ark.json) |
 | The Shame of a Daydreamer | 349394 | [349394-the-shame-of-a-daydreamer.json](./349394-the-shame-of-a-daydreamer.json) |
+| The Shape Killer | 258786 | [258786-the-shape-killer.json](./258786-the-shape-killer.json) |
 | The Shape of Happiness | 274144 | [274144-the-shape-of-happiness.json](./274144-the-shape-of-happiness.json) |
 | The Shape of Heart | 31840 | [31840-the-shape-of-heart.json](./31840-the-shape-of-heart.json) |
 | The Shape of Heart: Episode II | 164601 | [164601-the-shape-of-heart-episode-ii.json](./164601-the-shape-of-heart-episode-ii.json) |
@@ -19282,6 +19286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There's No Aliens | 306306 | [306306-theres-no-aliens.json](./306306-theres-no-aliens.json) |
 | There's No Differences: Monsters | 373313 | [373313-theres-no-differences-monsters.json](./373313-theres-no-differences-monsters.json) |
 | There's No Differences: Santa | 380846 | [380846-theres-no-differences-santa.json](./380846-theres-no-differences-santa.json) |
+| There's No Dinosaurs | 258755 | [258755-theres-no-dinosaurs.json](./258755-theres-no-dinosaurs.json) |
 | There's No Dinosaurs 2 | 289970 | [289970-theres-no-dinosaurs-2.json](./289970-theres-no-dinosaurs-2.json) |
 | There's No Dinosaurs 2: Dark | 316239 | [316239-theres-no-dinosaurs-2-dark.json](./316239-theres-no-dinosaurs-2-dark.json) |
 | There's No Dragon! | 325024 | [325024-theres-no-dragon.json](./325024-theres-no-dragon.json) |
@@ -20070,6 +20075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrice in a row | 133176 | [133176-thrice-in-a-row.json](./133176-thrice-in-a-row.json) |
 | Thrice in a row: A new adventure | 153529 | [153529-thrice-in-a-row-a-new-adventure.json](./153529-thrice-in-a-row-a-new-adventure.json) |
 | Thrice in a row: Last Adventure | 213419 | [213419-thrice-in-a-row-last-adventure.json](./213419-thrice-in-a-row-last-adventure.json) |
+| Thrift Shop | 258800 | [258800-thrift-shop.json](./258800-thrift-shop.json) |
 | Thrift Store Simulator | 326328 | [326328-thrift-store-simulator.json](./326328-thrift-store-simulator.json) |
 | Thrift Store Story | 106920 | [106920-thrift-store-story.json](./106920-thrift-store-story.json) |
 | Thrift Store Treasure: Hidden Objects | 417510 | [417510-thrift-store-treasure-hidden-objects.json](./417510-thrift-store-treasure-hidden-objects.json) |
