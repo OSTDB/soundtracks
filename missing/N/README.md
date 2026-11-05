@@ -7635,6 +7635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyan Nyan Tower | 268446 | [268446-nyan-nyan-tower.json](./268446-nyan-nyan-tower.json) |
 | Nyan to Suteki na Natsuiro Days | 108872 | [108872-nyan-to-suteki-na-natsuiro-days.json](./108872-nyan-to-suteki-na-natsuiro-days.json) |
 | Nyan to Wonderful | 143674 | [143674-nyan-to-wonderful.json](./143674-nyan-to-wonderful.json) |
+| Nyan-Nyan Punch! | 250723 | [250723-nyan-nyan-punch.json](./250723-nyan-nyan-punch.json) |
 | Nyan-Tech | 80157 | [80157-nyan-tech.json](./80157-nyan-tech.json) |
 | Nyana | 265501 | [265501-nyana.json](./265501-nyana.json) |
 | Nyanaconda | 229237 | [229237-nyanaconda.json](./229237-nyanaconda.json) |
