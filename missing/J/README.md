@@ -2211,6 +2211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jixxaw: Party Time | 158398 | [158398-jixxaw-party-time.json](./158398-jixxaw-party-time.json) |
 | Jìyì de Zhǔrén | 373718 | [373718-jiyi-de-zhuren.json](./373718-jiyi-de-zhuren.json) |
 | JJ | 48451 | [48451-jj.json](./48451-jj.json) |
+| JJ Duke Nukem 3D | 273177 | [273177-jj-duke-nukem-3d.json](./273177-jj-duke-nukem-3d.json) |
 | Jjat | 122897 | [122897-jjat.json](./122897-jjat.json) |
 | JJBoom | 107407 | [107407-jjboom.json](./107407-jjboom.json) |
 | JJJ | 266790 | [266790-jjj.json](./266790-jjj.json) |
@@ -3554,6 +3555,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Speed | 11299 | [11299-jungle-speed.json](./11299-jungle-speed.json) |
 | Jungle Strike | 4368 | [4368-jungle-strike.json](./4368-jungle-strike.json) |
 | Jungle Taitei | 353329 | [353329-jungle-taitei.json](./353329-jungle-taitei.json) |
+| Jungle Tour | 273178 | [273178-jungle-tour.json](./273178-jungle-tour.json) |
+| Jungle Tour 2 | 273179 | [273179-jungle-tour-2.json](./273179-jungle-tour-2.json) |
+| Jungle Tour 3: Ice Age | 273180 | [273180-jungle-tour-3-ice-age.json](./273180-jungle-tour-3-ice-age.json) |
 | Jungle Town: Birthday quest | 170498 | [170498-jungle-town-birthday-quest.json](./170498-jungle-town-birthday-quest.json) |
 | Jungle Trouble | 47207 | [47207-jungle-trouble.json](./47207-jungle-trouble.json) |
 | Jungle Warfare | 13009 | [13009-jungle-warfare.json](./13009-jungle-warfare.json) |
