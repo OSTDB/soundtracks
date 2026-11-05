@@ -567,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wanna Ponder | 361758 | [361758-i-wanna-ponder.json](./361758-i-wanna-ponder.json) |
 | I wanna Reach the Top | 201007 | [201007-i-wanna-reach-the-top.json](./201007-i-wanna-reach-the-top.json) |
 | I Wanna Run the Marathon | 124996 | [124996-i-wanna-run-the-marathon.json](./124996-i-wanna-run-the-marathon.json) |
+| I Wanna Save the Kids! | 287995 | [287995-i-wanna-save-the-kids.json](./287995-i-wanna-save-the-kids.json) |
 | I Wanna Take the Time Machine | 79520 | [79520-i-wanna-take-the-time-machine.json](./79520-i-wanna-take-the-time-machine.json) |
 | I Wanna Take the Time-Machine 2 | 187366 | [187366-i-wanna-take-the-time-machine-2.json](./187366-i-wanna-take-the-time-machine-2.json) |
 | I Wanna Touch | 389984 | [389984-i-wanna-touch.json](./389984-i-wanna-touch.json) |
@@ -761,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm looking for 3024 people | 221069 | [221069-im-looking-for-3024-people.json](./221069-im-looking-for-3024-people.json) |
 | I'm Loopy for Doop Loops!!! | 410684 | [410684-im-loopy-for-doop-loops.json](./410684-im-loopy-for-doop-loops.json) |
 | I'm Lost | 75189 | [75189-im-lost.json](./75189-im-lost.json) |
+| I'm Not a Creep (I Promise) | 288011 | [288011-im-not-a-creep-i-promise.json](./288011-im-not-a-creep-i-promise.json) |
 | I'm not a Psycho Invader | 414142 | [414142-im-not-a-psycho-invader.json](./414142-im-not-a-psycho-invader.json) |
 | I'm Not a Robot | 368175 | [368175-im-not-a-robot.json](./368175-im-not-a-robot.json) |
 | I'm Not a Robot! | 373117 | [373117-im-not-a-robot.json](./373117-im-not-a-robot.json) |
@@ -3749,7 +3751,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
