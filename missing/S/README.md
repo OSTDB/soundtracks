@@ -796,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakeretsu | 37393 | [37393-sakeretsu.json](./37393-sakeretsu.json) |
 | Sakeworld | 249916 | [249916-sakeworld.json](./249916-sakeworld.json) |
 | Saki Portable | 66919 | [66919-saki-portable.json](./66919-saki-portable.json) |
+| Saki the Eternally Enduring | 283428 | [283428-saki-the-eternally-enduring.json](./283428-saki-the-eternally-enduring.json) |
 | Saki Zenkoku Hen Plus | 136751 | [136751-saki-zenkoku-hen-plus.json](./136751-saki-zenkoku-hen-plus.json) |
 | Saki: Achiga-Hen Episode of Side-A Portable | 135902 | [135902-saki-achiga-hen-episode-of-side-a-portable.json](./135902-saki-achiga-hen-episode-of-side-a-portable.json) |
 | Saki's Slutty Striptease | 403524 | [403524-sakis-slutty-striptease.json](./403524-sakis-slutty-striptease.json) |
@@ -5123,6 +5124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekira | 345093 | [345093-sekira.json](./345093-sekira.json) |
 | Sekirei: Mirai Kara no Okurimono | 65547 | [65547-sekirei-mirai-kara-no-okurimono.json](./65547-sekirei-mirai-kara-no-okurimono.json) |
 | Sekiro: Long May the Shadows Reflect | 290294 | [290294-sekiro-long-may-the-shadows-reflect.json](./290294-sekiro-long-may-the-shadows-reflect.json) |
+| Sekiro: Resurrection | 283363 | [283363-sekiro-resurrection.json](./283363-sekiro-resurrection.json) |
 | Sekiro: Shadows Die Twice - Collector's Edition | 103282 | [103282-sekiro-shadows-die-twice-collectors-edition.json](./103282-sekiro-shadows-die-twice-collectors-edition.json) |
 | Sekiro: Shadows Die Twice - Game of the Year Edition | 164664 | [164664-sekiro-shadows-die-twice-game-of-the-year-edition.json](./164664-sekiro-shadows-die-twice-game-of-the-year-edition.json) |
 | Sekiro: Shadows Die Twice - Game of the Year Edition | 365281 | [365281-sekiro-shadows-die-twice-game-of-the-year-edition.json](./365281-sekiro-shadows-die-twice-game-of-the-year-edition.json) |
@@ -7720,6 +7722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shén Guǐ Dìguó zhī Èmó Chéng | 404075 | [404075-shen-gui-diguo-zhi-emo-cheng.json](./404075-shen-gui-diguo-zhi-emo-cheng.json) |
 | Shén Mó Qìyuē | 164591 | [164591-shen-mo-qiyue.json](./164591-shen-mo-qiyue.json) |
 | Shenanigans | 216736 | [216736-shenanigans.json](./216736-shenanigans.json) |
+| Shenanigans | 283362 | [283362-shenanigans.json](./283362-shenanigans.json) |
 | Shenaniganza | 304561 | [304561-shenaniganza.json](./304561-shenaniganza.json) |
 | Sheng Tian: Episode 1 | 395257 | [395257-sheng-tian-episode-1.json](./395257-sheng-tian-episode-1.json) |
 | Shengnü Zhi Ge: Heroine Anthem - The Elect of Wassernixe | 80192 | [80192-shengnu-zhi-ge-heroine-anthem-the-elect-of-wassernixe.json](./80192-shengnu-zhi-ge-heroine-anthem-the-elect-of-wassernixe.json) |
@@ -12951,6 +12954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleep Walker | 305471 | [305471-sleep-walker.json](./305471-sleep-walker.json) |
 | Sleep Walker | 363628 | [363628-sleep-walker.json](./363628-sleep-walker.json) |
 | Sleep When I'm Dead | 140918 | [140918-sleep-when-im-dead.json](./140918-sleep-when-im-dead.json) |
+| Sleep When I'm Dead: Chapter 0 | 283519 | [283519-sleep-when-im-dead-chapter-0.json](./283519-sleep-when-im-dead-chapter-0.json) |
 | sleep_mode | 384331 | [384331-sleep-mode.json](./384331-sleep-mode.json) |
 | Sleep: H Now | 264072 | [264072-sleep-h-now.json](./264072-sleep-h-now.json) |
 | Sleeper Cell | 139369 | [139369-sleeper-cell.json](./139369-sleeper-cell.json) |
@@ -13100,10 +13104,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slendrina's Freakish Friends and Family Night | 282801 | [282801-slendrinas-freakish-friends-and-family-night.json](./282801-slendrinas-freakish-friends-and-family-night.json) |
 | Slendy! | 61992 | [61992-slendy.json](./61992-slendy.json) |
 | Slendyjan | 393760 | [393760-slendyjan.json](./393760-slendyjan.json) |
+| Slendytubbies 2D | 283436 | [283436-slendytubbies-2d.json](./283436-slendytubbies-2d.json) |
 | Slendytubbies II | 214423 | [214423-slendytubbies-ii.json](./214423-slendytubbies-ii.json) |
 | Slendytubbies III | 138560 | [138560-slendytubbies-iii.json](./138560-slendytubbies-iii.json) |
 | Slendytubbies Ø | 332814 | [332814-slendytubbies.json](./332814-slendytubbies.json) |
 | Slendytubbies Ø Records | 398762 | [398762-slendytubbies-records.json](./398762-slendytubbies-records.json) |
+| Slendytubbies: Anniversary Edition | 283525 | [283525-slendytubbies-anniversary-edition.json](./283525-slendytubbies-anniversary-edition.json) |
+| Slendytubbies: Dipsy's Workshop | 283523 | [283523-slendytubbies-dipsys-workshop.json](./283523-slendytubbies-dipsys-workshop.json) |
 | Slendytubbies: Worlds | 283548 | [283548-slendytubbies-worlds.json](./283548-slendytubbies-worlds.json) |
 | Slette Mette | 186468 | [186468-slette-mette.json](./186468-slette-mette.json) |
 | Sleuth | 94909 | [94909-sleuth.json](./94909-sleuth.json) |
@@ -16008,6 +16015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solbane | 189297 | [189297-solbane.json](./189297-solbane.json) |
 | Solborne Gorge | 323556 | [323556-solborne-gorge.json](./323556-solborne-gorge.json) |
 | Solbot Energy Rush | 105401 | [105401-solbot-energy-rush.json](./105401-solbot-energy-rush.json) |
+| Solbrain: Knight of Darkness | 283521 | [283521-solbrain-knight-of-darkness.json](./283521-solbrain-knight-of-darkness.json) |
 | Solbreak Skirmish | 413881 | [413881-solbreak-skirmish.json](./413881-solbreak-skirmish.json) |
 | SolChicks | 210557 | [210557-solchicks.json](./210557-solchicks.json) |
 | Solcialists | 272581 | [272581-solcialists.json](./272581-solcialists.json) |
@@ -34130,6 +34138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Fantasy World | 339463 | [339463-sweet-fantasy-world.json](./339463-sweet-fantasy-world.json) |
 | Sweet Farm | 392907 | [392907-sweet-farm.json](./392907-sweet-farm.json) |
 | Sweet Feets | 254383 | [254383-sweet-feets.json](./254383-sweet-feets.json) |
+| Sweet Flowers and Salt | 283527 | [283527-sweet-flowers-and-salt.json](./283527-sweet-flowers-and-salt.json) |
 | Sweet Forest | 304549 | [304549-sweet-forest.json](./304549-sweet-forest.json) |
 | Sweet Fruit Cube Legend | 109222 | [109222-sweet-fruit-cube-legend.json](./109222-sweet-fruit-cube-legend.json) |
 | Sweet Fruitcake | 118974 | [118974-sweet-fruitcake.json](./118974-sweet-fruitcake.json) |
