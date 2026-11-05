@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Vision Board | 216944 | [216944-quantum-vision-board.json](./216944-quantum-vision-board.json) |
 | Quantum Void | 288758 | [288758-quantum-void.json](./288758-quantum-void.json) |
 | Quantum Voxel | 425846 | [425846-quantum-voxel.json](./425846-quantum-voxel.json) |
+| Quantum War | 266024 | [266024-quantum-war.json](./266024-quantum-war.json) |
 | Quantum Witch | 323165 | [323165-quantum-witch.json](./323165-quantum-witch.json) |
 | Quantum Wizard | 44182 | [44182-quantum-wizard.json](./44182-quantum-wizard.json) |
 | Quantum: Recharged | 257945 | [257945-quantum-recharged.json](./257945-quantum-recharged.json) |
