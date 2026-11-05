@@ -5385,6 +5385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Link: The Unleashed Nexus | 28496 | [28496-link-the-unleashed-nexus.json](./28496-link-the-unleashed-nexus.json) |
 | Link: The Unleashed Nexus - Restructured Heaven | 151756 | [151756-link-the-unleashed-nexus-restructured-heaven.json](./151756-link-the-unleashed-nexus-restructured-heaven.json) |
 | Link! Like! Love Live! | 245241 | [245241-link-like-love-live.json](./245241-link-like-love-live.json) |
+| Link's Awakening DX HD | 280019 | [280019-links-awakening-dx-hd.json](./280019-links-awakening-dx-hd.json) |
 | Link's Crossbow Training | 4973 | [4973-links-crossbow-training.json](./4973-links-crossbow-training.json) |
 | Link's Quest for the Hookshot 2: Quest | 406464 | [406464-links-quest-for-the-hookshot-2-quest.json](./406464-links-quest-for-the-hookshot-2-quest.json) |
 | Linked | 29395 | [29395-linked.json](./29395-linked.json) |
@@ -6573,6 +6574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locke(d) | 231365 | [231365-locke-d.json](./231365-locke-d.json) |
 | Locked | 133102 | [133102-locked.json](./133102-locked.json) |
 | Locked | 276219 | [276219-locked.json](./276219-locked.json) |
+| Locked | 280011 | [280011-locked.json](./280011-locked.json) |
 | Locked & Loaded | 121591 | [121591-locked-and-loaded.json](./121591-locked-and-loaded.json) |
 | Locked Arcadia | 261824 | [261824-locked-arcadia.json](./261824-locked-arcadia.json) |
 | Locked Bunker | 185334 | [185334-locked-bunker.json](./185334-locked-bunker.json) |
@@ -9685,6 +9687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunicus | 79597 | [79597-lunicus.json](./79597-lunicus.json) |
 | Lunio | 384486 | [384486-lunio.json](./384486-lunio.json) |
 | Lunistice | 139168 | [139168-lunistice.json](./139168-lunistice.json) |
+| Lunistice 1.5: Accel Coda | 280015 | [280015-lunistice-1-5-accel-coda.json](./280015-lunistice-1-5-accel-coda.json) |
 | Lunium | 282674 | [282674-lunium.json](./282674-lunium.json) |
 | Lunnye Devitsy | 16491 | [16491-lunnye-devitsy.json](./16491-lunnye-devitsy.json) |
 | Lunorbit | 342850 | [342850-lunorbit.json](./342850-lunorbit.json) |
