@@ -5205,6 +5205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That's How Sumireko's Roach Stomping Mafia Works | 123593 | [123593-thats-how-sumirekos-roach-stomping-mafia-works.json](./123593-thats-how-sumirekos-roach-stomping-mafia-works.json) |
 | That's Mahjong! | 30811 | [30811-thats-mahjong.json](./30811-thats-mahjong.json) |
 | That's My Seat | 387467 | [387467-thats-my-seat.json](./387467-thats-my-seat.json) |
+| That's My Space | 250740 | [250740-thats-my-space.json](./250740-thats-my-space.json) |
 | That's My Tofu | 391188 | [391188-thats-my-tofu.json](./391188-thats-my-tofu.json) |
 | That's My Village! | 417639 | [417639-thats-my-village.json](./417639-thats-my-village.json) |
 | That's Not How it Happened | 209131 | [209131-thats-not-how-it-happened.json](./209131-thats-not-how-it-happened.json) |
@@ -11694,6 +11695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Land of the Magnates | 289865 | [289865-the-land-of-the-magnates.json](./289865-the-land-of-the-magnates.json) |
 | The Land of the Scurvy Dog | 176447 | [176447-the-land-of-the-scurvy-dog.json](./176447-the-land-of-the-scurvy-dog.json) |
 | The Land of the Seazogs | 107372 | [107372-the-land-of-the-seazogs.json](./107372-the-land-of-the-seazogs.json) |
+| The Land Past Redemption | 250713 | [250713-the-land-past-redemption.json](./250713-the-land-past-redemption.json) |
 | The Land: Elf no Mori | 302963 | [302963-the-land-elf-no-mori.json](./302963-the-land-elf-no-mori.json) |
 | The Lands of Eldyn | 140960 | [140960-the-lands-of-eldyn.json](./140960-the-lands-of-eldyn.json) |
 | The Lands of Hyberian | 289996 | [289996-the-lands-of-hyberian.json](./289996-the-lands-of-hyberian.json) |
@@ -13321,6 +13323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Making of Karateka | 256293 | [256293-the-making-of-karateka.json](./256293-the-making-of-karateka.json) |
 | The Making of Nightruth | 98289 | [98289-the-making-of-nightruth.json](./98289-the-making-of-nightruth.json) |
 | The Makings of a Lady: Purity Yours to Defile | 147891 | [147891-the-makings-of-a-lady-purity-yours-to-defile.json](./147891-the-makings-of-a-lady-purity-yours-to-defile.json) |
+| The Malice Kingdom | 250709 | [250709-the-malice-kingdom.json](./250709-the-malice-kingdom.json) |
 | The Mall Explodes! | 412999 | [412999-the-mall-explodes.json](./412999-the-mall-explodes.json) |
 | The Mammoth: A Cave Painting | 75768 | [75768-the-mammoth-a-cave-painting.json](./75768-the-mammoth-a-cave-painting.json) |
 | The Man Called Merc | 55045 | [55045-the-man-called-merc.json](./55045-the-man-called-merc.json) |
@@ -16933,6 +16936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stroke of Midnight | 99611 | [99611-the-stroke-of-midnight.json](./99611-the-stroke-of-midnight.json) |
 | The Strong High School | 301224 | [301224-the-strong-high-school.json](./301224-the-strong-high-school.json) |
 | The Strongest Ancestor | 301614 | [301614-the-strongest-ancestor.json](./301614-the-strongest-ancestor.json) |
+| The Strongest Tofu | 250730 | [250730-the-strongest-tofu.json](./250730-the-strongest-tofu.json) |
 | The Stronghold Collection | 27858 | [27858-the-stronghold-collection.json](./27858-the-stronghold-collection.json) |
 | The Strongholds of Silberland | 183446 | [183446-the-strongholds-of-silberland.json](./183446-the-strongholds-of-silberland.json) |
 | The Structureworld: Myths of Skull Island | 275379 | [275379-the-structureworld-myths-of-skull-island.json](./275379-the-structureworld-myths-of-skull-island.json) |
@@ -16978,6 +16982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sullen Boku Girls Alliance | 225634 | [225634-the-sullen-boku-girls-alliance.json](./225634-the-sullen-boku-girls-alliance.json) |
 | The Sully Chronicles | 325189 | [325189-the-sully-chronicles.json](./325189-the-sully-chronicles.json) |
 | The Sultan's Labyrinth | 64720 | [64720-the-sultans-labyrinth.json](./64720-the-sultans-labyrinth.json) |
+| The Sum | 250728 | [250728-the-sum.json](./250728-the-sum.json) |
 | The Sum of All Fears | 1863 | [1863-the-sum-of-all-fears.json](./1863-the-sum-of-all-fears.json) |
 | The Sum of All Fears | 248466 | [248466-the-sum-of-all-fears.json](./248466-the-sum-of-all-fears.json) |
 | The Sumerian Game | 231395 | [231395-the-sumerian-game.json](./231395-the-sumerian-game.json) |
@@ -24655,6 +24660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomcat | 74428 | [74428-tomcat.json](./74428-tomcat.json) |
 | Tome | 373070 | [373070-tome.json](./373070-tome.json) |
 | Tome Improvement | 389737 | [389737-tome-improvement.json](./389737-tome-improvement.json) |
+| Tome of Fates | 250735 | [250735-tome-of-fates.json](./250735-tome-of-fates.json) |
 | Tome of Heroes | 48675 | [48675-tome-of-heroes.json](./48675-tome-of-heroes.json) |
 | Tome of Talis: A Dice Conquest Game | 388299 | [388299-tome-of-talis-a-dice-conquest-game.json](./388299-tome-of-talis-a-dice-conquest-game.json) |
 | Tome of the Damned | 380081 | [380081-tome-of-the-damned.json](./380081-tome-of-the-damned.json) |
@@ -24905,6 +24911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Loud | 120694 | [120694-too-loud.json](./120694-too-loud.json) |
 | Too Many Animals ! | 427270 | [427270-too-many-animals.json](./427270-too-many-animals.json) |
 | Too Many Bots | 366889 | [366889-too-many-bots.json](./366889-too-many-bots.json) |
+| Too Many Cooks | 250700 | [250700-too-many-cooks.json](./250700-too-many-cooks.json) |
 | Too Many Cooks | 375838 | [375838-too-many-cooks.json](./375838-too-many-cooks.json) |
 | Too Many F*cking Nazis | 396335 | [396335-too-many-f-cking-nazis.json](./396335-too-many-f-cking-nazis.json) |
 | Too many Geckos! | 148127 | [148127-too-many-geckos.json](./148127-too-many-geckos.json) |
@@ -25702,6 +25709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totem 2 | 204851 | [204851-totem-2.json](./204851-totem-2.json) |
 | Totem City | 124017 | [124017-totem-city.json](./124017-totem-city.json) |
 | Totem Clash | 338956 | [338956-totem-clash.json](./338956-totem-clash.json) |
+| Totem Destroyer | 250715 | [250715-totem-destroyer.json](./250715-totem-destroyer.json) |
 | Totem Force | 115983 | [115983-totem-force.json](./115983-totem-force.json) |
 | Totem Runner | 64391 | [64391-totem-runner.json](./64391-totem-runner.json) |
 | Totem Smash | 344235 | [344235-totem-smash.json](./344235-totem-smash.json) |
