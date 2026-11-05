@@ -953,7 +953,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2119,6 +2118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo-Kazooie: Donkey Kong Country | 201772 | [201772-banjo-kazooie-donkey-kong-country.json](./201772-banjo-kazooie-donkey-kong-country.json) |
 | Banjo-Kazooie: Fort Fun | 338821 | [338821-banjo-kazooie-fort-fun.json](./338821-banjo-kazooie-fort-fun.json) |
 | Banjo-Kazooie: Legend of the Crystal Jiggy | 172671 | [172671-banjo-kazooie-legend-of-the-crystal-jiggy.json](./172671-banjo-kazooie-legend-of-the-crystal-jiggy.json) |
+| Banjo-Kazooie: Magic Eggs | 267187 | [267187-banjo-kazooie-magic-eggs.json](./267187-banjo-kazooie-magic-eggs.json) |
 | Banjo-Kazooie: New Snow Glow Village | 339026 | [339026-banjo-kazooie-new-snow-glow-village.json](./339026-banjo-kazooie-new-snow-glow-village.json) |
 | Banjo-Kazooie: Nostalgia 64 | 154990 | [154990-banjo-kazooie-nostalgia-64.json](./154990-banjo-kazooie-nostalgia-64.json) |
 | Banjo-Kazooie: Nuts & Bolts | 3008 | [3008-banjo-kazooie-nuts-and-bolts.json](./3008-banjo-kazooie-nuts-and-bolts.json) |
@@ -6153,6 +6153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Belt Action Collection | 136308 | [136308-belt-action-collection.json](./136308-belt-action-collection.json) |
 | Belt Colony | 214951 | [214951-belt-colony.json](./214951-belt-colony.json) |
 | Beltex | 207637 | [207637-beltex.json](./207637-beltex.json) |
+| Beltion: Beyond Ritual | 267177 | [267177-beltion-beyond-ritual.json](./267177-beltion-beyond-ritual.json) |
 | Beltlife: Prospector | 391084 | [391084-beltlife-prospector.json](./391084-beltlife-prospector.json) |
 | Beltmatic | 281960 | [281960-beltmatic.json](./281960-beltmatic.json) |
 | Belts of Iron | 374243 | [374243-belts-of-iron.json](./374243-belts-of-iron.json) |
@@ -6559,6 +6560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Besöket | 415488 | [415488-besoket.json](./415488-besoket.json) |
 | Besotted | 297805 | [297805-besotted.json](./297805-besotted.json) |
 | Bespoken | 289814 | [289814-bespoken.json](./289814-bespoken.json) |
+| Best Adventure 4-in-1 Bundle | 267152 | [267152-best-adventure-4-in-1-bundle.json](./267152-best-adventure-4-in-1-bundle.json) |
 | Best Bout Boxing | 38543 | [38543-best-bout-boxing.json](./38543-best-bout-boxing.json) |
 | Best Buds | 32464 | [32464-best-buds.json](./32464-best-buds.json) |
 | Best Buds vs Bad Guys | 52631 | [52631-best-buds-vs-bad-guys.json](./52631-best-buds-vs-bad-guys.json) |
@@ -14786,6 +14788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break the Ice | 359739 | [359739-break-the-ice.json](./359739-break-the-ice.json) |
 | Break the Ice Sushi Pack | 77610 | [77610-break-the-ice-sushi-pack.json](./77610-break-the-ice-sushi-pack.json) |
 | Break The Line | 296500 | [296500-break-the-line.json](./296500-break-the-line.json) |
+| Break the Loop | 267161 | [267161-break-the-loop.json](./267161-break-the-loop.json) |
 | Break The Night | 417529 | [417529-break-the-night.json](./417529-break-the-night.json) |
 | Break the Sky | 182688 | [182688-break-the-sky.json](./182688-break-the-sky.json) |
 | Break the Targets | 75226 | [75226-break-the-targets.json](./75226-break-the-targets.json) |
@@ -15482,6 +15485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brixout XP | 92788 | [92788-brixout-xp.json](./92788-brixout-xp.json) |
 | Brköut | 56602 | [56602-brkout.json](./56602-brkout.json) |
 | Brno Transit | 351502 | [351502-brno-transit.json](./351502-brno-transit.json) |
+| Bro Falls Deluxe | 267148 | [267148-bro-falls-deluxe.json](./267148-bro-falls-deluxe.json) |
 | Bro YuanShen Survivors | 292481 | [292481-bro-yuanshen-survivors.json](./292481-bro-yuanshen-survivors.json) |
 | Bro, Where's My Head? | 151445 | [151445-bro-wheres-my-head.json](./151445-bro-wheres-my-head.json) |
 | Broad City High Score | 99352 | [99352-broad-city-high-score.json](./99352-broad-city-high-score.json) |
