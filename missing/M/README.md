@@ -6691,6 +6691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior 5: Mercenaries - Legend of the Kestrel Lancers | 174540 | [174540-mechwarrior-5-mercenaries-legend-of-the-kestrel-lancers.json](./174540-mechwarrior-5-mercenaries-legend-of-the-kestrel-lancers.json) |
 | MechWarrior 5: Mercenaries - Shadow of Kerensky | 351086 | [351086-mechwarrior-5-mercenaries-shadow-of-kerensky.json](./351086-mechwarrior-5-mercenaries-shadow-of-kerensky.json) |
 | MechWarrior 5: Mercenaries - Solaris Showdown | 291597 | [291597-mechwarrior-5-mercenaries-solaris-showdown.json](./291597-mechwarrior-5-mercenaries-solaris-showdown.json) |
+| MechWarrior 5: Mercenaries - The Dragon's Gambit | 260455 | [260455-mechwarrior-5-mercenaries-the-dragons-gambit.json](./260455-mechwarrior-5-mercenaries-the-dragons-gambit.json) |
 | MechWarrior Online | 1255 | [1255-mechwarrior-online.json](./1255-mechwarrior-online.json) |
 | MechWarrior Online: Apache Legendary Mech Pack | 357326 | [357326-mechwarrior-online-apache-legendary-mech-pack.json](./357326-mechwarrior-online-apache-legendary-mech-pack.json) |
 | MechWarrior Online: Argent Legendary Mech Pack | 357327 | [357327-mechwarrior-online-argent-legendary-mech-pack.json](./357327-mechwarrior-online-argent-legendary-mech-pack.json) |
@@ -12632,6 +12633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Royale | 201020 | [201020-mini-royale.json](./201020-mini-royale.json) |
 | Mini Running Ant | 380796 | [380796-mini-running-ant.json](./380796-mini-running-ant.json) |
 | Mini Scientist | 229511 | [229511-mini-scientist.json](./229511-mini-scientist.json) |
+| Mini Settlers | 260456 | [260456-mini-settlers.json](./260456-mini-settlers.json) |
 | Mini Ship Wars | 155468 | [155468-mini-ship-wars.json](./155468-mini-ship-wars.json) |
 | Mini Shisen | 206516 | [206516-mini-shisen.json](./206516-mini-shisen.json) |
 | Mini Shopkeeper | 377619 | [377619-mini-shopkeeper.json](./377619-mini-shopkeeper.json) |
