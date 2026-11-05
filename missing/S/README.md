@@ -11646,6 +11646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skedaddling In Egypt | 244244 | [244244-skedaddling-in-egypt.json](./244244-skedaddling-in-egypt.json) |
 | Skee Ball Flick - Hole King | 103916 | [103916-skee-ball-flick-hole-king.json](./103916-skee-ball-flick-hole-king.json) |
 | Skee-Ball | 94020 | [94020-skee-ball.json](./94020-skee-ball.json) |
+| Skee-Ball Plus | 295962 | [295962-skee-ball-plus.json](./295962-skee-ball-plus.json) |
 | Skeet Shoot | 217687 | [217687-skeet-shoot.json](./217687-skeet-shoot.json) |
 | Skeet Shoot | 40615 | [40615-skeet-shoot.json](./40615-skeet-shoot.json) |
 | Skeet: VR Target Shooting | 33453 | [33453-skeet-vr-target-shooting.json](./33453-skeet-vr-target-shooting.json) |
@@ -19078,7 +19079,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -26455,6 +26455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop the Slimes | 273967 | [273967-stop-the-slimes.json](./273967-stop-the-slimes.json) |
 | Stop Thief | 301438 | [301438-stop-thief.json](./301438-stop-thief.json) |
 | Stop Those Aliens! | 277567 | [277567-stop-those-aliens.json](./277567-stop-those-aliens.json) |
+| Stop to Explode | 295946 | [295946-stop-to-explode.json](./295946-stop-to-explode.json) |
 | Stop, Pawssport Check | 311138 | [311138-stop-pawssport-check.json](./311138-stop-pawssport-check.json) |
 | Stop! Dictator Kim Jong-un | 99161 | [99161-stop-dictator-kim-jong-un.json](./99161-stop-dictator-kim-jong-un.json) |
 | Stop! Don’t Die In Australia | 290936 | [290936-stop-don-t-die-in-australia.json](./290936-stop-don-t-die-in-australia.json) |
