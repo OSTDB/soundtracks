@@ -5771,7 +5771,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9810,6 +9809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meth Master | 199481 | [199481-meth-master.json](./199481-meth-master.json) |
 | Method | 394776 | [394776-method.json](./394776-method.json) |
 | Method of Entry | 329369 | [329369-method-of-entry.json](./329369-method-of-entry.json) |
+| Method to Madness | 286315 | [286315-method-to-madness.json](./286315-method-to-madness.json) |
 | Methods 2: Secrets And Death | 317047 | [317047-methods-2-secrets-and-death.json](./317047-methods-2-secrets-and-death.json) |
 | Methods 3: The Invisible Man | 317048 | [317048-methods-3-the-invisible-man.json](./317048-methods-3-the-invisible-man.json) |
 | Methods 4: The Best Detective | 322596 | [322596-methods-4-the-best-detective.json](./322596-methods-4-the-best-detective.json) |
@@ -20124,6 +20124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Interstellar Inn | 285568 | [285568-my-interstellar-inn.json](./285568-my-interstellar-inn.json) |
 | My Isekai After Life is an RPG!? | 153392 | [153392-my-isekai-after-life-is-an-rpg.json](./153392-my-isekai-after-life-is-an-rpg.json) |
 | My Isekai Hotel | 404059 | [404059-my-isekai-hotel.json](./404059-my-isekai-hotel.json) |
+| My IShowSpeed | 286333 | [286333-my-ishowspeed.json](./286333-my-ishowspeed.json) |
 | My Island | 114113 | [114113-my-island.json](./114113-my-island.json) |
 | My Japanese Coach | 68938 | [68938-my-japanese-coach.json](./68938-my-japanese-coach.json) |
 | My Jigsaw Adventures: The Source of Power | 163002 | [163002-my-jigsaw-adventures-the-source-of-power.json](./163002-my-jigsaw-adventures-the-source-of-power.json) |
