@@ -2329,6 +2329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imi ga Wakaru to Kowai Mystery | 222364 | [222364-imi-ga-wakaru-to-kowai-mystery.json](./222364-imi-ga-wakaru-to-kowai-mystery.json) |
 | Imi ga Wakaru to Kowai Shashin | 251604 | [251604-imi-ga-wakaru-to-kowai-shashin.json](./251604-imi-ga-wakaru-to-kowai-shashin.json) |
 | Imi ga Wakaru to Zotto suru Manga | 266162 | [266162-imi-ga-wakaru-to-zotto-suru-manga.json](./266162-imi-ga-wakaru-to-zotto-suru-manga.json) |
+| Imi made Wakaru Otona no Jukugo Renshuu: Kadokawa Ruigo Shinjiten Kara 5-Man Mon | 269821 | [269821-imi-made-wakaru-otona-no-jukugo-renshuu-kadokawa-ruigo-shinjiten-kara-5-man-mon.json](./269821-imi-made-wakaru-otona-no-jukugo-renshuu-kadokawa-ruigo-shinjiten-kara-5-man-mon.json) |
 | iMimic: 80's Vintage Electronic Memory Game | 232142 | [232142-imimic-80s-vintage-electronic-memory-game.json](./232142-imimic-80s-vintage-electronic-memory-game.json) |
 | Imitate | 283854 | [283854-imitate.json](./283854-imitate.json) |
 | Imitating Zombies | 189191 | [189191-imitating-zombies.json](./189191-imitating-zombies.json) |
@@ -3771,6 +3772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
