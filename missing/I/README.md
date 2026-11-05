@@ -2519,6 +2519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imp and Oaf Kick Off! | 350886 | [350886-imp-and-oaf-kick-off.json](./350886-imp-and-oaf-kick-off.json) |
 | Imp Dreams | 320189 | [320189-imp-dreams.json](./320189-imp-dreams.json) |
 | Imp Encounter | 296198 | [296198-imp-encounter.json](./296198-imp-encounter.json) |
+| Imp or Oaf? | 254259 | [254259-imp-or-oaf.json](./254259-imp-or-oaf.json) |
 | iMP: Surf the Music | 100197 | [100197-imp-surf-the-music.json](./100197-imp-surf-the-music.json) |
 | Impact | 257890 | [257890-impact.json](./257890-impact.json) |
 | Impact | 340505 | [340505-impact.json](./340505-impact.json) |
@@ -3796,6 +3797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -3904,6 +3906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Knights: Xross | 289302 | [289302-infinity-knights-xross.json](./289302-infinity-knights-xross.json) |
 | Infinity Lancer | 405810 | [405810-infinity-lancer.json](./405810-infinity-lancer.json) |
 | Infinity Land | 112179 | [112179-infinity-land.json](./112179-infinity-land.json) |
+| Infinity Loop: Blueprints | 254202 | [254202-infinity-loop-blueprints.json](./254202-infinity-loop-blueprints.json) |
 | Infinity Mechs | 235150 | [235150-infinity-mechs.json](./235150-infinity-mechs.json) |
 | Infinity Nikki: Blue Tears Season | 353286 | [353286-infinity-nikki-blue-tears-season.json](./353286-infinity-nikki-blue-tears-season.json) |
 | Infinity Nikki: Bubble Season | 341797 | [341797-infinity-nikki-bubble-season.json](./341797-infinity-nikki-bubble-season.json) |
