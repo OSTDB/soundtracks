@@ -2898,6 +2898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Management in Space | 400849 | [400849-management-in-space.json](./400849-management-in-space.json) |
 | Management Wanted | 364652 | [364652-management-wanted.json](./364652-management-wanted.json) |
 | Management Worlds Bundle | 325005 | [325005-management-worlds-bundle.json](./325005-management-worlds-bundle.json) |
+| Manager Can be Tough!: Case of the Kidnapped Waitress | 251909 | [251909-manager-can-be-tough-case-of-the-kidnapped-waitress.json](./251909-manager-can-be-tough-case-of-the-kidnapped-waitress.json) |
 | ManagerLeague | 152113 | [152113-managerleague.json](./152113-managerleague.json) |
 | ManagerLeague | 93957 | [93957-managerleague.json](./93957-managerleague.json) |
 | Managun Wizard | 357015 | [357015-managun-wizard.json](./357015-managun-wizard.json) |
@@ -3508,6 +3509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MareScape | 312964 | [312964-marescape.json](./312964-marescape.json) |
 | Marfa | 337039 | [337039-marfa.json](./337039-marfa.json) |
 | Marfusha: Sentinel Girls | 143638 | [143638-marfusha-sentinel-girls.json](./143638-marfusha-sentinel-girls.json) |
+| Margaret's Little Shop of Wonders | 251944 | [251944-margarets-little-shop-of-wonders.json](./251944-margarets-little-shop-of-wonders.json) |
 | Margareta | 182810 | [182810-margareta.json](./182810-margareta.json) |
 | Margaritari | 225206 | [225206-margaritari.json](./225206-margaritari.json) |
 | Margery | 388408 | [388408-margery.json](./388408-margery.json) |
@@ -5839,7 +5841,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -16133,6 +16134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Montecrypto: The Bitcoin Enigma | 83998 | [83998-montecrypto-the-bitcoin-enigma.json](./83998-montecrypto-the-bitcoin-enigma.json) |
 | MonteCube Dodge | 117362 | [117362-montecube-dodge.json](./117362-montecube-dodge.json) |
 | Monterey Jack | 347217 | [347217-monterey-jack.json](./347217-monterey-jack.json) |
+| Monterona | 251902 | [251902-monterona.json](./251902-monterona.json) |
 | Montessori Music | 80465 | [80465-montessori-music.json](./80465-montessori-music.json) |
 | Montessori Nature | 102502 | [102502-montessori-nature.json](./102502-montessori-nature.json) |
 | Montessori Numberland | 269348 | [269348-montessori-numberland.json](./269348-montessori-numberland.json) |
