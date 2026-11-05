@@ -4807,6 +4807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Why's It Getting Darker?! | 374922 | [374922-whys-it-getting-darker.json](./374922-whys-it-getting-darker.json) |
 | WhyImmortal | 289897 | [289897-whyimmortal.json](./289897-whyimmortal.json) |
 | Whys & Wonders Secrets of Our Bodies | 409656 | [409656-whys-and-wonders-secrets-of-our-bodies.json](./409656-whys-and-wonders-secrets-of-our-bodies.json) |
+| WhyTaoism | 286310 | [286310-whytaoism.json](./286310-whytaoism.json) |
 | Whyville | 203175 | [203175-whyville.json](./203175-whyville.json) |
 | Wi-fi Dungeon: Organism Online | 272466 | [272466-wi-fi-dungeon-organism-online.json](./272466-wi-fi-dungeon-organism-online.json) |
 | Wi-Fi Taiou Gensen Table Game DS | 124124 | [124124-wi-fi-taiou-gensen-table-game-ds.json](./124124-wi-fi-taiou-gensen-table-game-ds.json) |
