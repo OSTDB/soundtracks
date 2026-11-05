@@ -2000,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elder Ring | 351154 | [351154-elder-ring.json](./351154-elder-ring.json) |
 | Elder Sign: Omens | 16729 | [16729-elder-sign-omens.json](./16729-elder-sign-omens.json) |
 | Elder Sign: Omens for iPad | 91068 | [91068-elder-sign-omens-for-ipad.json](./91068-elder-sign-omens-for-ipad.json) |
+| Elder Sister's Love Training | 256065 | [256065-elder-sisters-love-training.json](./256065-elder-sisters-love-training.json) |
 | Elder Story | 269371 | [269371-elder-story.json](./269371-elder-story.json) |
 | Elder Trial | 236370 | [236370-elder-trial.json](./236370-elder-trial.json) |
 | Elder Village | 123490 | [123490-elder-village.json](./123490-elder-village.json) |
@@ -4808,10 +4809,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ero Snooker | 167585 | [167585-ero-snooker.json](./167585-ero-snooker.json) |
 | Ero Tennis | 169488 | [169488-ero-tennis.json](./169488-ero-tennis.json) |
 | Ero Zemi: Ecchi ni Yaru-ki ni ABC | 194579 | [194579-ero-zemi-ecchi-ni-yaru-ki-ni-abc.json](./194579-ero-zemi-ecchi-ni-yaru-ki-ni-abc.json) |
+| Eroblast: 24 Hot Waifus | 256071 | [256071-eroblast-24-hot-waifus.json](./256071-eroblast-24-hot-waifus.json) |
 | Eroblast: Passion Edition | 262322 | [262322-eroblast-passion-edition.json](./262322-eroblast-passion-edition.json) |
+| Eroblast: Passion Pack | 256064 | [256064-eroblast-passion-pack.json](./256064-eroblast-passion-pack.json) |
 | Eroblast: Playful Edition | 259572 | [259572-eroblast-playful-edition.json](./259572-eroblast-playful-edition.json) |
+| Eroblast: Playful Pack | 256073 | [256073-eroblast-playful-pack.json](./256073-eroblast-playful-pack.json) |
 | Eroblast: Spicy Edition | 262329 | [262329-eroblast-spicy-edition.json](./262329-eroblast-spicy-edition.json) |
+| Eroblast: Spicy Pack | 256072 | [256072-eroblast-spicy-pack.json](./256072-eroblast-spicy-pack.json) |
 | Eroblast: Spicy Twixmas | 280603 | [280603-eroblast-spicy-twixmas.json](./280603-eroblast-spicy-twixmas.json) |
+| Eroblast: Waifu Dating Sim | 256067 | [256067-eroblast-waifu-dating-sim.json](./256067-eroblast-waifu-dating-sim.json) |
+| Eroblast: Waifu Dating Sim - 37 Waifus | 256063 | [256063-eroblast-waifu-dating-sim-37-waifus.json](./256063-eroblast-waifu-dating-sim-37-waifus.json) |
 | Erobos Heaven | 247514 | [247514-erobos-heaven.json](./247514-erobos-heaven.json) |
 | Erocism | 302445 | [302445-erocism.json](./302445-erocism.json) |
 | Eroge Academy | 277957 | [277957-eroge-academy.json](./277957-eroge-academy.json) |
@@ -6738,6 +6745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everlong Swansong | 257086 | [257086-everlong-swansong.json](./257086-everlong-swansong.json) |
 | Everlords | 295299 | [295299-everlords.json](./295299-everlords.json) |
 | Everlost | 397695 | [397695-everlost.json](./397695-everlost.json) |
+| Everlune | 256056 | [256056-everlune.json](./256056-everlune.json) |
 | EverMatch | 237672 | [237672-evermatch.json](./237672-evermatch.json) |
 | EverMerge | 135600 | [135600-evermerge.json](./135600-evermerge.json) |
 | EverMerge: Match 3 Puzzle Game | 290414 | [290414-evermerge-match-3-puzzle-game.json](./290414-evermerge-match-3-puzzle-game.json) |
