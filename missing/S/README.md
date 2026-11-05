@@ -15032,6 +15032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Day | 281269 | [281269-snow-day.json](./281269-snow-day.json) |
 | Snow Day: The GapKids Quest | 73548 | [73548-snow-day-the-gapkids-quest.json](./73548-snow-day-the-gapkids-quest.json) |
 | Snow Daze: Redaze | 224822 | [224822-snow-daze-redaze.json](./224822-snow-daze-redaze.json) |
+| Snow Drift | 289145 | [289145-snow-drift.json](./289145-snow-drift.json) |
 | Snow Drop | 71444 | [71444-snow-drop.json](./71444-snow-drop.json) |
 | Snow Eagle Lord | 120834 | [120834-snow-eagle-lord.json](./120834-snow-eagle-lord.json) |
 | Snow Fall | 131148 | [131148-snow-fall.json](./131148-snow-fall.json) |
@@ -22541,6 +22542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Story | 142350 | [142350-spy-story.json](./142350-spy-story.json) |
 | Spy Swatter 2 | 219643 | [219643-spy-swatter-2.json](./219643-spy-swatter-2.json) |
 | Spy Tactics | 120359 | [120359-spy-tactics.json](./120359-spy-tactics.json) |
+| Spy vs Spy | 289160 | [289160-spy-vs-spy.json](./289160-spy-vs-spy.json) |
 | Spy vs Spy | 9166 | [9166-spy-vs-spy.json](./9166-spy-vs-spy.json) |
 | Spy vs Spy III: Arctic Antics | 12773 | [12773-spy-vs-spy-iii-arctic-antics.json](./12773-spy-vs-spy-iii-arctic-antics.json) |
 | Spy vs. Spy 2 | 41163 | [41163-spy-vs-spy-2.json](./41163-spy-vs-spy-2.json) |
