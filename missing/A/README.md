@@ -14007,6 +14007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arson | 377108 | [377108-arson.json](./377108-arson.json) |
 | Arson & Plunder: Unleashed | 36323 | [36323-arson-and-plunder-unleashed.json](./36323-arson-and-plunder-unleashed.json) |
 | Arson and Plunder | 9985 | [9985-arson-and-plunder.json](./9985-arson-and-plunder.json) |
+| Arsonate | 284728 | [284728-arsonate.json](./284728-arsonate.json) |
 | Arsonist | 113858 | [113858-arsonist.json](./113858-arsonist.json) |
 | Arsonist '24 Director's Cut | 409745 | [409745-arsonist-24-directors-cut.json](./409745-arsonist-24-directors-cut.json) |
 | Arsonist Heaven | 208334 | [208334-arsonist-heaven.json](./208334-arsonist-heaven.json) |
