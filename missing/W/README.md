@@ -2112,6 +2112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wartide | 389671 | [389671-wartide.json](./389671-wartide.json) |
 | Wartide: Heroes of Atlantis | 74313 | [74313-wartide-heroes-of-atlantis.json](./74313-wartide-heroes-of-atlantis.json) |
 | Wartile | 18185 | [18185-wartile.json](./18185-wartile.json) |
+| Wartime Glory | 269902 | [269902-wartime-glory.json](./269902-wartime-glory.json) |
 | Wartime X | 109992 | [109992-wartime-x.json](./109992-wartime-x.json) |
 | Wartop | 285922 | [285922-wartop.json](./285922-wartop.json) |
 | Wartorn | 328003 | [328003-wartorn.json](./328003-wartorn.json) |
