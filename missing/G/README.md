@@ -2254,6 +2254,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gay Sex Adventures: Episode 1 | 275155 | [275155-gay-sex-adventures-episode-1.json](./275155-gay-sex-adventures-episode-1.json) |
 | Gay Sex Adventures: Episode 2 | 280663 | [280663-gay-sex-adventures-episode-2.json](./280663-gay-sex-adventures-episode-2.json) |
 | Gay Sex Adventures: Episode 4 | 290803 | [290803-gay-sex-adventures-episode-4.json](./290803-gay-sex-adventures-episode-4.json) |
+| Gay Sex Adventures: Episode 5 | 297109 | [297109-gay-sex-adventures-episode-5.json](./297109-gay-sex-adventures-episode-5.json) |
+| Gay Sex Adventures: Episode 6 | 297110 | [297110-gay-sex-adventures-episode-6.json](./297110-gay-sex-adventures-episode-6.json) |
 | Gay Sex Adventures: Episode 7 | 301646 | [301646-gay-sex-adventures-episode-7.json](./301646-gay-sex-adventures-episode-7.json) |
 | Gay Sex Adventures: Episode 8 | 304857 | [304857-gay-sex-adventures-episode-8.json](./304857-gay-sex-adventures-episode-8.json) |
 | Gay Sex Adventures: Episode 9 | 340295 | [340295-gay-sex-adventures-episode-9.json](./340295-gay-sex-adventures-episode-9.json) |
@@ -4401,6 +4403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls & Blocks | 289420 | [289420-girls-and-blocks.json](./289420-girls-and-blocks.json) |
 | Girls & Dungeons 2 | 119635 | [119635-girls-and-dungeons-2.json](./119635-girls-and-dungeons-2.json) |
 | Girls & Sweets | 113287 | [113287-girls-and-sweets.json](./113287-girls-and-sweets.json) |
+| Girls & Sweets: Chapter 2 | 297111 | [297111-girls-and-sweets-chapter-2.json](./297111-girls-and-sweets-chapter-2.json) |
 | Girls Academy | 224048 | [224048-girls-academy.json](./224048-girls-academy.json) |
 | Girls and Dragons | 165922 | [165922-girls-and-dragons.json](./165922-girls-and-dragons.json) |
 | Girls and Dungeons | 54869 | [54869-girls-and-dungeons.json](./54869-girls-and-dungeons.json) |
@@ -5854,6 +5857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goddess detective | 167379 | [167379-goddess-detective.json](./167379-goddess-detective.json) |
 | Goddess Detective 2 | 255125 | [255125-goddess-detective-2.json](./255125-goddess-detective-2.json) |
 | Goddess Detective 3 | 269001 | [269001-goddess-detective-3.json](./269001-goddess-detective-3.json) |
+| Goddess Detective 4 | 297112 | [297112-goddess-detective-4.json](./297112-goddess-detective-4.json) |
 | Goddess Era | 208181 | [208181-goddess-era.json](./208181-goddess-era.json) |
 | Goddess Era: Paradise Oath | 259628 | [259628-goddess-era-paradise-oath.json](./259628-goddess-era-paradise-oath.json) |
 | Goddess Husk | 184527 | [184527-goddess-husk.json](./184527-goddess-husk.json) |
@@ -6024,6 +6028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla The Series: Monster Wars | 8164 | [8164-godzilla-the-series-monster-wars.json](./8164-godzilla-the-series-monster-wars.json) |
 | Godzilla Unleashed: Double Smash | 21512 | [21512-godzilla-unleashed-double-smash.json](./21512-godzilla-unleashed-double-smash.json) |
 | Godzilla Voxel Wars | 264341 | [264341-godzilla-voxel-wars.json](./264341-godzilla-voxel-wars.json) |
+| Godzilla x Kong: Titan Chasers | 297121 | [297121-godzilla-x-kong-titan-chasers.json](./297121-godzilla-x-kong-titan-chasers.json) |
 | Godzilla: Archipelago Shock | 75891 | [75891-godzilla-archipelago-shock.json](./75891-godzilla-archipelago-shock.json) |
 | Godzilla: Battle Line | 145860 | [145860-godzilla-battle-line.json](./145860-godzilla-battle-line.json) |
 | Godzilla: Destroy All Monsters Melee | 3935 | [3935-godzilla-destroy-all-monsters-melee.json](./3935-godzilla-destroy-all-monsters-melee.json) |
@@ -6202,6 +6207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Mining Simulator | 39755 | [39755-gold-mining-simulator.json](./39755-gold-mining-simulator.json) |
 | Gold Mining Simulator + Mini Machines DLC | 332017 | [332017-gold-mining-simulator-mini-machines-dlc.json](./332017-gold-mining-simulator-mini-machines-dlc.json) |
 | Gold Mining Simulator 2 | 345408 | [345408-gold-mining-simulator-2.json](./345408-gold-mining-simulator-2.json) |
+| Gold Mining Simulator: Mini Mining Machines | 297113 | [297113-gold-mining-simulator-mini-mining-machines.json](./297113-gold-mining-simulator-mini-mining-machines.json) |
 | Gold Monkey | 63280 | [63280-gold-monkey.json](./63280-gold-monkey.json) |
 | Gold of Lotusland | 215583 | [215583-gold-of-lotusland.json](./215583-gold-of-lotusland.json) |
 | Gold of Skulls | 303004 | [303004-gold-of-skulls.json](./303004-gold-of-skulls.json) |
@@ -7041,6 +7047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorby no Pipeline Daisakusen | 48481 | [48481-gorby-no-pipeline-daisakusen.json](./48481-gorby-no-pipeline-daisakusen.json) |
 | Gord | 146212 | [146212-gord.json](./146212-gord.json) |
 | Gord: Deluxe Edition | 259522 | [259522-gord-deluxe-edition.json](./259522-gord-deluxe-edition.json) |
+| Gord: The Alliance | 297114 | [297114-gord-the-alliance.json](./297114-gord-the-alliance.json) |
 | Gord: Ultimate Edition | 401939 | [401939-gord-ultimate-edition.json](./401939-gord-ultimate-edition.json) |
 | Gordi's Magical Movie Adventure | 335049 | [335049-gordis-magical-movie-adventure.json](./335049-gordis-magical-movie-adventure.json) |
 | Gordian | 351586 | [351586-gordian.json](./351586-gordian.json) |
@@ -8875,6 +8882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greystone | 92926 | [92926-greystone.json](./92926-greystone.json) |
 | Greystorm | 73557 | [73557-greystorm.json](./73557-greystorm.json) |
 | Grezzo 2 | 146678 | [146678-grezzo-2.json](./146678-grezzo-2.json) |
+| Gribblin Defense | 297115 | [297115-gribblin-defense.json](./297115-gribblin-defense.json) |
 | Gribbly's Day Out | 28474 | [28474-gribblys-day-out.json](./28474-gribblys-day-out.json) |
 | Grid | 118871 | [118871-grid.json](./118871-grid.json) |
 | Grid | 327878 | [327878-grid.json](./327878-grid.json) |
@@ -9335,6 +9343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grocery Shop Simulator | 322408 | [322408-grocery-shop-simulator.json](./322408-grocery-shop-simulator.json) |
 | Grocery Simulator | 306657 | [306657-grocery-simulator.json](./306657-grocery-simulator.json) |
 | Grocery Store Simulator | 326420 | [326420-grocery-store-simulator.json](./326420-grocery-store-simulator.json) |
+| Grocery Store Tycoon | 297116 | [297116-grocery-store-tycoon.json](./297116-grocery-store-tycoon.json) |
 | Grocket | 192741 | [192741-grocket.json](./192741-grocket.json) |
 | Groda | 338537 | [338537-groda.json](./338537-groda.json) |
 | Grog | 276924 | [276924-grog.json](./276924-grog.json) |
@@ -10035,6 +10044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild & Gals | 346258 | [346258-guild-and-gals.json](./346258-guild-and-gals.json) |
 | Guild 01 | 92613 | [92613-guild-01.json](./92613-guild-01.json) |
 | Guild Ball | 56912 | [56912-guild-ball.json](./56912-guild-ball.json) |
+| Guild Battalion | 297117 | [297117-guild-battalion.json](./297117-guild-battalion.json) |
 | Guild Commander | 36097 | [36097-guild-commander.json](./36097-guild-commander.json) |
 | Guild Encounters | 377623 | [377623-guild-encounters.json](./377623-guild-encounters.json) |
 | Guild Hall Adventures | 152803 | [152803-guild-hall-adventures.json](./152803-guild-hall-adventures.json) |
