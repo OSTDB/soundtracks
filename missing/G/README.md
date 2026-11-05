@@ -7139,6 +7139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gordon Streaman 2 | 185963 | [185963-gordon-streaman-2.json](./185963-gordon-streaman-2.json) |
 | Gordost' Ulypa: VR-legendy Chuvashii | 368897 | [368897-gordost-ulypa-vr-legendy-chuvashii.json](./368897-gordost-ulypa-vr-legendy-chuvashii.json) |
 | Gordy | 356584 | [356584-gordy.json](./356584-gordy.json) |
+| Gordy and the Monster Moon | 264408 | [264408-gordy-and-the-monster-moon.json](./264408-gordy-and-the-monster-moon.json) |
 | Gore | 263419 | [263419-gore.json](./263419-gore.json) |
 | Gore | 371991 | [371991-gore.json](./371991-gore.json) |
 | Gore Crush | 323728 | [323728-gore-crush.json](./323728-gore-crush.json) |
