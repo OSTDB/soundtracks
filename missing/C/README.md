@@ -12169,6 +12169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorma | 304967 | [304967-colorma.json](./304967-colorma.json) |
 | ColorMari | 222925 | [222925-colormari.json](./222925-colormari.json) |
 | Colormeleons | 127703 | [127703-colormeleons.json](./127703-colormeleons.json) |
+| Colormitation | 256023 | [256023-colormitation.json](./256023-colormitation.json) |
 | Colornova | 390888 | [390888-colornova.json](./390888-colornova.json) |
 | Coloropus | 415758 | [415758-coloropus.json](./415758-coloropus.json) |
 | Colorpicker | 304866 | [304866-colorpicker.json](./304866-colorpicker.json) |
@@ -17783,6 +17784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowded Blue Dot | 168636 | [168636-crowded-blue-dot.json](./168636-crowded-blue-dot.json) |
 | Crowded Dungeon Crawler | 182993 | [182993-crowded-dungeon-crawler.json](./182993-crowded-dungeon-crawler.json) |
 | Crowded House | 387430 | [387430-crowded-house.json](./387430-crowded-house.json) |
+| Crowded Mysteries | 256028 | [256028-crowded-mysteries.json](./256028-crowded-mysteries.json) |
 | Crowded Mysteries 2: Winter Romance | 320334 | [320334-crowded-mysteries-2-winter-romance.json](./320334-crowded-mysteries-2-winter-romance.json) |
 | Crowded: A Crow City Builder | 361021 | [361021-crowded-a-crow-city-builder.json](./361021-crowded-a-crow-city-builder.json) |
 | Crowded. Followed. | 311200 | [311200-crowded-followed.json](./311200-crowded-followed.json) |
