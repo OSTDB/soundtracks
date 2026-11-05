@@ -3838,6 +3838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nibansen Plus | 295470 | [295470-nibansen-plus.json](./295470-nibansen-plus.json) |
 | Nibble Quest | 410235 | [410235-nibble-quest.json](./410235-nibble-quest.json) |
 | Nibble: Pizza Delivery | 254997 | [254997-nibble-pizza-delivery.json](./254997-nibble-pizza-delivery.json) |
+| Nibblemen | 281189 | [281189-nibblemen.json](./281189-nibblemen.json) |
 | Nibbler | 24063 | [24063-nibbler.json](./24063-nibbler.json) |
 | Nibbles | 88657 | [88657-nibbles.json](./88657-nibbles.json) |
 | Nibblet | 256709 | [256709-nibblet.json](./256709-nibblet.json) |
