@@ -947,6 +947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6714,6 +6715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Between Stations | 177332 | [177332-between-stations.json](./177332-between-stations.json) |
 | Between Stops | 401640 | [401640-between-stops.json](./401640-between-stops.json) |
 | Between the City and the Needle | 110231 | [110231-between-the-city-and-the-needle.json](./110231-between-the-city-and-the-needle.json) |
+| Between The Eyes | 295949 | [295949-between-the-eyes.json](./295949-between-the-eyes.json) |
 | Between the Lines | 202021 | [202021-between-the-lines.json](./202021-between-the-lines.json) |
 | Between the Lines | 380008 | [380008-between-the-lines.json](./380008-between-the-lines.json) |
 | Between the Worlds 2: The Pyramid | 175798 | [175798-between-the-worlds-2-the-pyramid.json](./175798-between-the-worlds-2-the-pyramid.json) |
@@ -7637,6 +7639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bill Walsh College Football '95 | 5364 | [5364-bill-walsh-college-football-95.json](./5364-bill-walsh-college-football-95.json) |
 | Bill Wants to Retire | 337518 | [337518-bill-wants-to-retire.json](./337518-bill-wants-to-retire.json) |
 | Bill's Hotel | 176754 | [176754-bills-hotel.json](./176754-bills-hotel.json) |
+| Bill's Shooting Game | 295950 | [295950-bills-shooting-game.json](./295950-bills-shooting-game.json) |
 | Bill's Tomato Game | 14306 | [14306-bills-tomato-game.json](./14306-bills-tomato-game.json) |
 | Billard | 40763 | [40763-billard.json](./40763-billard.json) |
 | Bille & Trille: Da Fantasien slap løs | 78394 | [78394-bille-and-trille-da-fantasien-slap-l-s.json](./78394-bille-and-trille-da-fantasien-slap-l-s.json) |
@@ -10498,6 +10501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky.Go! | 234665 | [234665-blocky-go.json](./234665-blocky-go.json) |
 | Blocky's Escape | 101876 | [101876-blockys-escape.json](./101876-blockys-escape.json) |
 | Blocky's Short Quest | 348576 | [348576-blockys-short-quest.json](./348576-blockys-short-quest.json) |
+| Blockz | 295951 | [295951-blockz.json](./295951-blockz.json) |
 | Blockz VS Ballz | 111013 | [111013-blockz-vs-ballz.json](./111013-blockz-vs-ballz.json) |
 | Bloclash | 389045 | [389045-bloclash.json](./389045-bloclash.json) |
 | Blocnog | 101886 | [101886-blocnog.json](./101886-blocnog.json) |
@@ -12068,6 +12072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boltzmann Brain | 95211 | [95211-boltzmann-brain.json](./95211-boltzmann-brain.json) |
 | Bolu | 204987 | [204987-bolu.json](./204987-bolu.json) |
 | Bom-eul Buleuneun Seolnyeo: Yuna Seupin-opeu | 369528 | [369528-bom-eul-buleuneun-seolnyeo-yuna-seupin-opeu.json](./369528-bom-eul-buleuneun-seolnyeo-yuna-seupin-opeu.json) |
+| Bom! | 295952 | [295952-bom.json](./295952-bom.json) |
 | Bomb | 36309 | [36309-bomb.json](./36309-bomb.json) |
 | Bomb Ace | 362431 | [362431-bomb-ace.json](./362431-bomb-ace.json) |
 | Bomb Alley | 21917 | [21917-bomb-alley.json](./21917-bomb-alley.json) |
@@ -13474,6 +13479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy Click | 366274 | [366274-bouncy-click.json](./366274-bouncy-click.json) |
 | Bouncy Cloud | 156724 | [156724-bouncy-cloud.json](./156724-bouncy-cloud.json) |
 | Bouncy Cube | 190334 | [190334-bouncy-cube.json](./190334-bouncy-cube.json) |
+| Bouncy Drops | 295987 | [295987-bouncy-drops.json](./295987-bouncy-drops.json) |
 | Bouncy Ducks | 69476 | [69476-bouncy-ducks.json](./69476-bouncy-ducks.json) |
 | Bouncy Egg | 340974 | [340974-bouncy-egg.json](./340974-bouncy-egg.json) |
 | Bouncy Egg | 96287 | [96287-bouncy-egg.json](./96287-bouncy-egg.json) |
@@ -14799,6 +14805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout 2000 | 40816 | [40816-breakout-2000.json](./40816-breakout-2000.json) |
 | Breakout 3 | 319572 | [319572-breakout-3.json](./319572-breakout-3.json) |
 | Breakout 3000 | 73293 | [73293-breakout-3000.json](./73293-breakout-3000.json) |
+| Breakout 3D | 295953 | [295953-breakout-3d.json](./295953-breakout-3d.json) |
 | Breakout 71 | 390159 | [390159-breakout-71.json](./390159-breakout-71.json) |
 | Breakout Baby | 413175 | [413175-breakout-baby.json](./413175-breakout-baby.json) |
 | Breakout Beyond | 330257 | [330257-breakout-beyond.json](./330257-breakout-beyond.json) |
