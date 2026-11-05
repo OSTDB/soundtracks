@@ -3931,10 +3931,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Party Challenge World | 230168 | [230168-mario-party-challenge-world.json](./230168-mario-party-challenge-world.json) |
 | Mario Party Heardle | 203828 | [203828-mario-party-heardle.json](./203828-mario-party-heardle.json) |
 | Mario Party Kuru-kuru! Carnival | 230166 | [230166-mario-party-kuru-kuru-carnival.json](./230166-mario-party-kuru-kuru-carnival.json) |
+| Mario Party Legacy 1 Vol. 11 | 283511 | [283511-mario-party-legacy-1-vol-11.json](./283511-mario-party-legacy-1-vol-11.json) |
+| Mario Party Legacy 1 Vol. 12 | 283516 | [283516-mario-party-legacy-1-vol-12.json](./283516-mario-party-legacy-1-vol-12.json) |
 | Mario Party Legacy 1 Vol. 14 | 283630 | [283630-mario-party-legacy-1-vol-14.json](./283630-mario-party-legacy-1-vol-14.json) |
 | Mario Party Legacy 1 Vol. 15 | 283635 | [283635-mario-party-legacy-1-vol-15.json](./283635-mario-party-legacy-1-vol-15.json) |
 | Mario Party Legacy 1 Vol. 16 | 283640 | [283640-mario-party-legacy-1-vol-16.json](./283640-mario-party-legacy-1-vol-16.json) |
 | Mario Party Legacy 1 Vol. 17 | 283645 | [283645-mario-party-legacy-1-vol-17.json](./283645-mario-party-legacy-1-vol-17.json) |
+| Mario Party Legacy 1 Vol. 18 | 283427 | [283427-mario-party-legacy-1-vol-18.json](./283427-mario-party-legacy-1-vol-18.json) |
 | Mario Party Legacy 1 Vol. 19 | 283650 | [283650-mario-party-legacy-1-vol-19.json](./283650-mario-party-legacy-1-vol-19.json) |
 | Mario Party Legacy 1 Vol. 2 | 283422 | [283422-mario-party-legacy-1-vol-2.json](./283422-mario-party-legacy-1-vol-2.json) |
 | Mario Party-e | 77789 | [77789-mario-party-e.json](./77789-mario-party-e.json) |
@@ -5775,6 +5778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -8561,6 +8565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories of Hyrule | 381769 | [381769-memories-of-hyrule.json](./381769-memories-of-hyrule.json) |
 | Memories of Loneliness | 173219 | [173219-memories-of-loneliness.json](./173219-memories-of-loneliness.json) |
 | Memories of Magic | 424654 | [424654-memories-of-magic.json](./424654-memories-of-magic.json) |
+| Memories of Mana | 283372 | [283372-memories-of-mana.json](./283372-memories-of-mana.json) |
 | Memories of Mars | 83708 | [83708-memories-of-mars.json](./83708-memories-of-mars.json) |
 | Memories of Mir | 215837 | [215837-memories-of-mir.json](./215837-memories-of-mir.json) |
 | Memories of Misery | 297345 | [297345-memories-of-misery.json](./297345-memories-of-misery.json) |
@@ -8670,6 +8675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Lane | 304178 | [304178-memory-lane.json](./304178-memory-lane.json) |
 | Memory Lane | 62065 | [62065-memory-lane.json](./62065-memory-lane.json) |
 | Memory Leak | 183355 | [183355-memory-leak.json](./183355-memory-leak.json) |
+| Memory Link | 283432 | [283432-memory-link.json](./283432-memory-link.json) |
 | Memory Lost | 172897 | [172897-memory-lost.json](./172897-memory-lost.json) |
 | Memory Lost - Shift Edition | 351138 | [351138-memory-lost-shift-edition.json](./351138-memory-lost-shift-edition.json) |
 | Memory Lost-Pairs | 181017 | [181017-memory-lost-pairs.json](./181017-memory-lost-pairs.json) |
@@ -17881,13 +17887,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mp Power | 273202 | [273202-mp-power.json](./273202-mp-power.json) |
 | MP Research Facility | 273224 | [273224-mp-research-facility.json](./273224-mp-research-facility.json) |
 | Mp Weapon | 273203 | [273203-mp-weapon.json](./273203-mp-weapon.json) |
+| MP1: Adrian Reavill's ? Corners | 283510 | [283510-mp1-adrian-reavills-corners.json](./283510-mp1-adrian-reavills-corners.json) |
+| MP1: Adrian Reavill's Jungle Run | 283509 | [283509-mp1-adrian-reavills-jungle-run.json](./283509-mp1-adrian-reavills-jungle-run.json) |
 | MP1: Blargg's Fire Rivers | 283631 | [283631-mp1-blarggs-fire-rivers.json](./283631-mp1-blarggs-fire-rivers.json) |
 | MP1: Bowser Circle | 283643 | [283643-mp1-bowser-circle.json](./283643-mp1-bowser-circle.json) |
 | MP1: Bowser's Magma Castle | 283634 | [283634-mp1-bowsers-magma-castle.json](./283634-mp1-bowsers-magma-castle.json) |
+| MP1: Brick Lair | 283513 | [283513-mp1-brick-lair.json](./283513-mp1-brick-lair.json) |
 | MP1: BuuHuus Markttrubel | 283638 | [283638-mp1-buuhuus-markttrubel.json](./283638-mp1-buuhuus-markttrubel.json) |
+| MP1: Callie's Piranha Pit | 283506 | [283506-mp1-callies-piranha-pit.json](./283506-mp1-callies-piranha-pit.json) |
 | MP1: Constellation Chaos | 283414 | [283414-mp1-constellation-chaos.json](./283414-mp1-constellation-chaos.json) |
 | MP1: Crazy Space | 283641 | [283641-mp1-crazy-space.json](./283641-mp1-crazy-space.json) |
 | MP1: Dive to the Hearts | 283646 | [283646-mp1-dive-to-the-hearts.json](./283646-mp1-dive-to-the-hearts.json) |
+| MP1: Eternal Cliffs | 283512 | [283512-mp1-eternal-cliffs.json](./283512-mp1-eternal-cliffs.json) |
+| MP1: Fruit Beach | 283517 | [283517-mp1-fruit-beach.json](./283517-mp1-fruit-beach.json) |
+| MP1: Grunty Tower | 283515 | [283515-mp1-grunty-tower.json](./283515-mp1-grunty-tower.json) |
+| MP1: Koopa Fiery Lands | 283426 | [283426-mp1-koopa-fiery-lands.json](./283426-mp1-koopa-fiery-lands.json) |
 | MP1: Koopa's Coin Board | 283639 | [283639-mp1-koopas-coin-board.json](./283639-mp1-koopas-coin-board.json) |
 | MP1: Koopa's Underground City | 283649 | [283649-mp1-koopas-underground-city.json](./283649-mp1-koopas-underground-city.json) |
 | MP1: Kopitcha Castle | 283629 | [283629-mp1-kopitcha-castle.json](./283629-mp1-kopitcha-castle.json) |
@@ -17899,6 +17913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MP1: Mushroom Kingdom Party Board | 283625 | [283625-mp1-mushroom-kingdom-party-board.json](./283625-mp1-mushroom-kingdom-party-board.json) |
 | MP1: Neon Party | 283644 | [283644-mp1-neon-party.json](./283644-mp1-neon-party.json) |
 | MP1: Orange Magma Mountain | 283626 | [283626-mp1-orange-magma-mountain.json](./283626-mp1-orange-magma-mountain.json) |
+| MP1: Pac-Man World Rally | 283508 | [283508-mp1-pac-man-world-rally.json](./283508-mp1-pac-man-world-rally.json) |
 | MP1: Pallet Town | 283418 | [283418-mp1-pallet-town.json](./283418-mp1-pallet-town.json) |
 | MP1: Rainbow Road | 283415 | [283415-mp1-rainbow-road.json](./283415-mp1-rainbow-road.json) |
 | MP1: Snowflake Lake | 283412 | [283412-mp1-snowflake-lake.json](./283412-mp1-snowflake-lake.json) |
@@ -17909,6 +17924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MP1: Tropical Trouble | 283642 | [283642-mp1-tropical-trouble.json](./283642-mp1-tropical-trouble.json) |
 | MP1: vila do Chaves | 283423 | [283423-mp1-vila-do-chaves.json](./283423-mp1-vila-do-chaves.json) |
 | MP1: Watch Out! | 283637 | [283637-mp1-watch-out.json](./283637-mp1-watch-out.json) |
+| MP1: Whomp's Domino Ruins | 283514 | [283514-mp1-whomps-domino-ruins.json](./283514-mp1-whomps-domino-ruins.json) |
 | MP1: Wii Menu | 283425 | [283425-mp1-wii-menu.json](./283425-mp1-wii-menu.json) |
 | MP2: 8-bit Forest | 339037 | [339037-mp2-8-bit-forest.json](./339037-mp2-8-bit-forest.json) |
 | MP2: A Bad Time | 283785 | [283785-mp2-a-bad-time.json](./283785-mp2-a-bad-time.json) |
