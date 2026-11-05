@@ -2081,6 +2081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elecade | 400907 | [400907-elecade.json](./400907-elecade.json) |
 | ElecHead | 129518 | [129518-elechead.json](./129518-elechead.json) |
 | Elect | 331720 | [331720-elect.json](./331720-elect.json) |
+| Electation | 256614 | [256614-electation.json](./256614-electation.json) |
 | Electigirl: High Tension Beauty | 333198 | [333198-electigirl-high-tension-beauty.json](./333198-electigirl-high-tension-beauty.json) |
 | Electio | 391307 | [391307-electio.json](./391307-electio.json) |
 | Election | 13630 | [13630-election.json](./13630-election.json) |
