@@ -1394,6 +1394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Journey Begins | 306865 | [306865-your-journey-begins.json](./306865-your-journey-begins.json) |
 | Your Judgment, Inquisitor | 361240 | [361240-your-judgment-inquisitor.json](./361240-your-judgment-inquisitor.json) |
 | Your Last Xmas | 280186 | [280186-your-last-xmas.json](./280186-your-last-xmas.json) |
+| Your letter has been rejected. | 292345 | [292345-your-letter-has-been-rejected.json](./292345-your-letter-has-been-rejected.json) |
 | Your Life Simulator | 174753 | [174753-your-life-simulator.json](./174753-your-life-simulator.json) |
 | Your little story: Valentine's Day | 128353 | [128353-your-little-story-valentines-day.json](./128353-your-little-story-valentines-day.json) |
 | Your little story: Winter | 126370 | [126370-your-little-story-winter.json](./126370-your-little-story-winter.json) |
