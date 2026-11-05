@@ -1930,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Marsh | 173042 | [173042-paradise-marsh.json](./173042-paradise-marsh.json) |
 | Paradise Never | 100292 | [100292-paradise-never.json](./100292-paradise-never.json) |
 | Paradise Never: The Revolution Fails | 14398 | [14398-paradise-never-the-revolution-fails.json](./14398-paradise-never-the-revolution-fails.json) |
+| Paradise Nowhere | 250742 | [250742-paradise-nowhere.json](./250742-paradise-nowhere.json) |
 | Paradise of Freedom | 332539 | [332539-paradise-of-freedom.json](./332539-paradise-of-freedom.json) |
 | Paradise Quest | 68408 | [68408-paradise-quest.json](./68408-paradise-quest.json) |
 | Paradise Rescue | 230750 | [230750-paradise-rescue.json](./230750-paradise-rescue.json) |
@@ -15371,6 +15372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Arms | 138043 | [138043-project-arms.json](./138043-project-arms.json) |
 | Project Arrow | 307881 | [307881-project-arrow.json](./307881-project-arrow.json) |
 | Project Ascension | 281271 | [281271-project-ascension.json](./281271-project-ascension.json) |
+| Project Asteroids | 250734 | [250734-project-asteroids.json](./250734-project-asteroids.json) |
 | Project Astra Dominium | 228506 | [228506-project-astra-dominium.json](./228506-project-astra-dominium.json) |
 | Project Astrid | 306184 | [306184-project-astrid.json](./306184-project-astrid.json) |
 | Project Athenia | 369281 | [369281-project-athenia.json](./369281-project-athenia.json) |
@@ -15430,6 +15432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Canopy | 144090 | [144090-project-canopy.json](./144090-project-canopy.json) |
 | Project Canvas: Isekai Joucho Ikusei Keikaku | 294787 | [294787-project-canvas-isekai-joucho-ikusei-keikaku.json](./294787-project-canvas-isekai-joucho-ikusei-keikaku.json) |
 | Project Capture: Legacy | 362486 | [362486-project-capture-legacy.json](./362486-project-capture-legacy.json) |
+| Project CarnEvil | 250698 | [250698-project-carnevil.json](./250698-project-carnevil.json) |
 | Project Carrot | 335324 | [335324-project-carrot.json](./335324-project-carrot.json) |
 | Project CARS 2: Deluxe Edition | 53479 | [53479-project-cars-2-deluxe-edition.json](./53479-project-cars-2-deluxe-edition.json) |
 | Project Cars 2: Limited Edition | 100548 | [100548-project-cars-2-limited-edition.json](./100548-project-cars-2-limited-edition.json) |
