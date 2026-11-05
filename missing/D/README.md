@@ -3310,6 +3310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Body Killer | 151444 | [151444-dead-body-killer.json](./151444-dead-body-killer.json) |
 | Dead Box | 153885 | [153885-dead-box.json](./153885-dead-box.json) |
 | Dead But Alive! Southern England | 26469 | [26469-dead-but-alive-southern-england.json](./26469-dead-but-alive-southern-england.json) |
+| Dead But Dreaming | 257162 | [257162-dead-but-dreaming.json](./257162-dead-but-dreaming.json) |
 | Dead But Dreaming | 271337 | [271337-dead-but-dreaming.json](./271337-dead-but-dreaming.json) |
 | Dead by Backrooms Anomaly | 348462 | [348462-dead-by-backrooms-anomaly.json](./348462-dead-by-backrooms-anomaly.json) |
 | Dead By DayLight | 339698 | [339698-dead-by-daylight.json](./339698-dead-by-daylight.json) |
@@ -4078,6 +4079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Rain | 197506 | [197506-deadly-rain.json](./197506-deadly-rain.json) |
 | Deadly Rehearsal | 326599 | [326599-deadly-rehearsal.json](./326599-deadly-rehearsal.json) |
 | Deadly Reunion | 341641 | [341641-deadly-reunion.json](./341641-deadly-reunion.json) |
+| Deadly Ritual | 257140 | [257140-deadly-ritual.json](./257140-deadly-ritual.json) |
 | Deadly Road | 247097 | [247097-deadly-road.json](./247097-deadly-road.json) |
 | Deadly Rooms of Death | 50147 | [50147-deadly-rooms-of-death.json](./50147-deadly-rooms-of-death.json) |
 | Deadly Rooms of Death: Architect's Edition | 70045 | [70045-deadly-rooms-of-death-architects-edition.json](./70045-deadly-rooms-of-death-architects-edition.json) |
@@ -15815,6 +15817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamcatcher | 58555 | [58555-dreamcatcher.json](./58555-dreamcatcher.json) |
 | DreamCatcher | 312588 | [312588-dreamcatcher.json](./312588-dreamcatcher.json) |
 | Dreamcatcher 2003 | 365237 | [365237-dreamcatcher-2003.json](./365237-dreamcatcher-2003.json) |
+| Dreamcatcher Apparatus | 257136 | [257136-dreamcatcher-apparatus.json](./257136-dreamcatcher-apparatus.json) |
 | DreamCatcher: Reflections - Volume 1 | 154972 | [154972-dreamcatcher-reflections-volume-1.json](./154972-dreamcatcher-reflections-volume-1.json) |
 | DreamCell: Lost in Nightmares | 211601 | [211601-dreamcell-lost-in-nightmares.json](./211601-dreamcell-lost-in-nightmares.json) |
 | Dreamcore: Playrooms | 347846 | [347846-dreamcore-playrooms.json](./347846-dreamcore-playrooms.json) |
@@ -18312,6 +18315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons 4: The Good, the Bad and the Evil | 309104 | [309104-dungeons-4-the-good-the-bad-and-the-evil.json](./309104-dungeons-4-the-good-the-bad-and-the-evil.json) |
 | Dungeons Adventurer | 237789 | [237789-dungeons-adventurer.json](./237789-dungeons-adventurer.json) |
 | Dungeons Again | 120742 | [120742-dungeons-again.json](./120742-dungeons-again.json) |
+| Dungeons and Demons | 257157 | [257157-dungeons-and-demons.json](./257157-dungeons-and-demons.json) |
 | Dungeons and Diners | 291408 | [291408-dungeons-and-diners.json](./291408-dungeons-and-diners.json) |
 | Dungeons and Dinners | 110117 | [110117-dungeons-and-dinners.json](./110117-dungeons-and-dinners.json) |
 | Dungeons and Doggos | 239461 | [239461-dungeons-and-doggos.json](./239461-dungeons-and-doggos.json) |
