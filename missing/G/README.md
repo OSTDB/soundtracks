@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Pixel Wars: The Farce Awakens | 351041 | [351041-galactic-pixel-wars-the-farce-awakens.json](./351041-galactic-pixel-wars-the-farce-awakens.json) |
 | Galactic Plague 2000 | 359682 | [359682-galactic-plague-2000.json](./359682-galactic-plague-2000.json) |
 | Galactic Pocket Billiards | 75936 | [75936-galactic-pocket-billiards.json](./75936-galactic-pocket-billiards.json) |
+| Galactic Pocket Dating | 290734 | [290734-galactic-pocket-dating.json](./290734-galactic-pocket-dating.json) |
 | Galactic Police 1: Lost | 372179 | [372179-galactic-police-1-lost.json](./372179-galactic-police-1-lost.json) |
 | Galactic Princess | 62553 | [62553-galactic-princess.json](./62553-galactic-princess.json) |
 | Galactic Ravager | 187177 | [187177-galactic-ravager.json](./187177-galactic-ravager.json) |
@@ -2050,6 +2051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gas Station Manager 2026 | 393475 | [393475-gas-station-manager-2026.json](./393475-gas-station-manager-2026.json) |
 | Gas Station Simulator | 122522 | [122522-gas-station-simulator.json](./122522-gas-station-simulator.json) |
 | Gas Station Simulator and Airstrip DLC Bundle | 286511 | [286511-gas-station-simulator-and-airstrip-dlc-bundle.json](./286511-gas-station-simulator-and-airstrip-dlc-bundle.json) |
+| Gas Station Simulator and Can Touch This DLC Bundle | 290740 | [290740-gas-station-simulator-and-can-touch-this-dlc-bundle.json](./290740-gas-station-simulator-and-can-touch-this-dlc-bundle.json) |
 | Gas Station Simulator and Party Time DLC Bundle | 331539 | [331539-gas-station-simulator-and-party-time-dlc-bundle.json](./331539-gas-station-simulator-and-party-time-dlc-bundle.json) |
 | Gas Station Simulator, Airstrip DLC and Can Touch This DLC Bundle | 297455 | [297455-gas-station-simulator-airstrip-dlc-and-can-touch-this-dlc-bundle.json](./297455-gas-station-simulator-airstrip-dlc-and-can-touch-this-dlc-bundle.json) |
 | Gas Station Simulator, Airstrip DLC and Party Time DLC Bundle | 336439 | [336439-gas-station-simulator-airstrip-dlc-and-party-time-dlc-bundle.json](./336439-gas-station-simulator-airstrip-dlc-and-party-time-dlc-bundle.json) |
@@ -3473,6 +3475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get'Trump'ed Trivia | 380495 | [380495-gettrumped-trivia.json](./380495-gettrumped-trivia.json) |
 | Getamped 2 | 57925 | [57925-getamped-2.json](./57925-getamped-2.json) |
 | GetAmped Mobile | 114178 | [114178-getamped-mobile.json](./114178-getamped-mobile.json) |
+| Getaway Driver | 290762 | [290762-getaway-driver.json](./290762-getaway-driver.json) |
 | Getaway Entertainment 6 Pack | 201851 | [201851-getaway-entertainment-6-pack.json](./201851-getaway-entertainment-6-pack.json) |
 | Getaway Girls | 313876 | [313876-getaway-girls.json](./313876-getaway-girls.json) |
 | Getaway Golf | 414298 | [414298-getaway-golf.json](./414298-getaway-golf.json) |
@@ -3827,6 +3830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Wiper | 236814 | [236814-ghost-wiper.json](./236814-ghost-wiper.json) |
 | Ghost Witch: Soulstice Sprint | 341892 | [341892-ghost-witch-soulstice-sprint.json](./341892-ghost-witch-soulstice-sprint.json) |
 | Ghost Writer | 404946 | [404946-ghost-writer.json](./404946-ghost-writer.json) |
+| Ghost Yantra | 290746 | [290746-ghost-yantra.json](./290746-ghost-yantra.json) |
 | Ghost: Elisa Cameron | 146929 | [146929-ghost-elisa-cameron.json](./146929-ghost-elisa-cameron.json) |
 | Ghost? | 228987 | [228987-ghost.json](./228987-ghost.json) |
 | Ghost'n Brothers | 166301 | [166301-ghostn-brothers.json](./166301-ghostn-brothers.json) |
@@ -9986,6 +9990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guerilla Bob | 94760 | [94760-guerilla-bob.json](./94760-guerilla-bob.json) |
 | Guerilla Cinema // Guerilla Theater | 394838 | [394838-guerilla-cinema-guerilla-theater.json](./394838-guerilla-cinema-guerilla-theater.json) |
 | Guerilla Cubes | 383653 | [383653-guerilla-cubes.json](./383653-guerilla-cubes.json) |
+| Guerra Civil | 290764 | [290764-guerra-civil.json](./290764-guerra-civil.json) |
 | Guerra de Insetos TW Premium | 295419 | [295419-guerra-de-insetos-tw-premium.json](./295419-guerra-de-insetos-tw-premium.json) |
 | Guerra dos monstros | 230680 | [230680-guerra-dos-monstros.json](./230680-guerra-dos-monstros.json) |
 | Guerra Sangrenta | 258694 | [258694-guerra-sangrenta.json](./258694-guerra-sangrenta.json) |
