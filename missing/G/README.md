@@ -4038,6 +4038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghoul Manor | 14093 | [14093-ghoul-manor.json](./14093-ghoul-manor.json) |
 | Ghoul Panic | 14392 | [14392-ghoul-panic.json](./14392-ghoul-panic.json) |
 | Ghoul Patrol | 42612 | [42612-ghoul-patrol.json](./42612-ghoul-patrol.json) |
+| Ghoul Yeah Bunny | 250741 | [250741-ghoul-yeah-bunny.json](./250741-ghoul-yeah-bunny.json) |
 | Ghoulboy | 76023 | [76023-ghoulboy.json](./76023-ghoulboy.json) |
 | GhoulBoy: Limited Edition | 166234 | [166234-ghoulboy-limited-edition.json](./166234-ghoulboy-limited-edition.json) |
 | Ghouli Hunter | 378124 | [378124-ghouli-hunter.json](./378124-ghouli-hunter.json) |
