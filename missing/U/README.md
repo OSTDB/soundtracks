@@ -550,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Gamepak | 273907 | [273907-ultimate-gamepak.json](./273907-ultimate-gamepak.json) |
 | Ultimate Games Bundle | 273337 | [273337-ultimate-games-bundle.json](./273337-ultimate-games-bundle.json) |
 | Ultimate Gem | 259537 | [259537-ultimate-gem.json](./259537-ultimate-gem.json) |
+| Ultimate General: American Revolution | 277111 | [277111-ultimate-general-american-revolution.json](./277111-ultimate-general-american-revolution.json) |
 | Ultimate General: American Revolution - Premium Edition | 304390 | [304390-ultimate-general-american-revolution-premium-edition.json](./304390-ultimate-general-american-revolution-premium-edition.json) |
 | Ultimate General: Gettysburg | 8424 | [8424-ultimate-general-gettysburg.json](./8424-ultimate-general-gettysburg.json) |
 | Ultimate Gin | 270622 | [270622-ultimate-gin.json](./270622-ultimate-gin.json) |
