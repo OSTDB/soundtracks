@@ -13451,6 +13451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mice of Riddle Place - The Mystery of Mrs. Wirth | 108605 | [108605-the-mice-of-riddle-place-the-mystery-of-mrs-wirth.json](./108605-the-mice-of-riddle-place-the-mystery-of-mrs-wirth.json) |
 | The Mice of Riddle Place: The Incident of Izzy Ramirez | 55561 | [55561-the-mice-of-riddle-place-the-incident-of-izzy-ramirez.json](./55561-the-mice-of-riddle-place-the-incident-of-izzy-ramirez.json) |
 | The Mice Plight | 259008 | [259008-the-mice-plight.json](./259008-the-mice-plight.json) |
+| The Midnight | 278206 | [278206-the-midnight.json](./278206-the-midnight.json) |
 | The Midnight Bakery | 135875 | [135875-the-midnight-bakery.json](./135875-the-midnight-bakery.json) |
 | The Midnight Barber | 368293 | [368293-the-midnight-barber.json](./368293-the-midnight-barber.json) |
 | The Midnight Bus | 314736 | [314736-the-midnight-bus.json](./314736-the-midnight-bus.json) |
@@ -14920,6 +14921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Q - Live Trivia Network | 105863 | [105863-the-q-live-trivia-network.json](./105863-the-q-live-trivia-network.json) |
 | The Qaedon Wars - The Story Begins | 110829 | [110829-the-qaedon-wars-the-story-begins.json](./110829-the-qaedon-wars-the-story-begins.json) |
 | The Qixia Diary | 391102 | [391102-the-qixia-diary.json](./391102-the-qixia-diary.json) |
+| The Quaddle Family Mysteries 1: The Case of the Scarce Scarab - Lobby / Kitchen | 278214 | [278214-the-quaddle-family-mysteries-1-the-case-of-the-scarce-scarab-lobby-kitchen.json](./278214-the-quaddle-family-mysteries-1-the-case-of-the-scarce-scarab-lobby-kitchen.json) |
 | The Quarantine | 327118 | [327118-the-quarantine.json](./327118-the-quarantine.json) |
 | The Quarantine Sector | 371429 | [371429-the-quarantine-sector.json](./371429-the-quarantine-sector.json) |
 | The Quarry: '50s Throwback Character Outfits | 224517 | [224517-the-quarry-50s-throwback-character-outfits.json](./224517-the-quarry-50s-throwback-character-outfits.json) |
@@ -22868,6 +22870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Jukebox | 279857 | [279857-tiny-jukebox.json](./279857-tiny-jukebox.json) |
 | Tiny Jump | 177795 | [177795-tiny-jump.json](./177795-tiny-jump.json) |
 | Tiny Jump | 254559 | [254559-tiny-jump.json](./254559-tiny-jump.json) |
+| Tiny Jump | 278242 | [278242-tiny-jump.json](./278242-tiny-jump.json) |
 | Tiny Jumper | 109922 | [109922-tiny-jumper.json](./109922-tiny-jumper.json) |
 | Tiny King | 102049 | [102049-tiny-king.json](./102049-tiny-king.json) |
 | Tiny Kingdom | 183852 | [183852-tiny-kingdom.json](./183852-tiny-kingdom.json) |
@@ -29192,6 +29195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash & Fists | 244093 | [244093-trash-and-fists.json](./244093-trash-and-fists.json) |
 | Trash Bandits | 125430 | [125430-trash-bandits.json](./125430-trash-bandits.json) |
 | Trash Battle | 369795 | [369795-trash-battle.json](./369795-trash-battle.json) |
+| Trash can Army | 278243 | [278243-trash-can-army.json](./278243-trash-can-army.json) |
 | Trash Can Tactics | 303114 | [303114-trash-can-tactics.json](./303114-trash-can-tactics.json) |
 | Trash Card Adventure | 373794 | [373794-trash-card-adventure.json](./373794-trash-card-adventure.json) |
 | Trash Coin | 410697 | [410697-trash-coin.json](./410697-trash-coin.json) |
@@ -30108,6 +30112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triggered | 87988 | [87988-triggered.json](./87988-triggered.json) |
 | Triggered: Assault | 110493 | [110493-triggered-assault.json](./110493-triggered-assault.json) |
 | Triggerheart Exelica | 21850 | [21850-triggerheart-exelica.json](./21850-triggerheart-exelica.json) |
+| Triggerheart Exelica | 278196 | [278196-triggerheart-exelica.json](./278196-triggerheart-exelica.json) |
 | TriggerHeart Exelica Enhanced | 326579 | [326579-triggerheart-exelica-enhanced.json](./326579-triggerheart-exelica-enhanced.json) |
 | TriggerHeart Exelica Enhanced | 348965 | [348965-triggerheart-exelica-enhanced.json](./348965-triggerheart-exelica-enhanced.json) |
 | Triggering Simulator | 129110 | [129110-triggering-simulator.json](./129110-triggering-simulator.json) |
