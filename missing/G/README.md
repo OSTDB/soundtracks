@@ -7314,6 +7314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GourMelee | 118764 | [118764-gourmelee.json](./118764-gourmelee.json) |
 | Gourmet | 314492 | [314492-gourmet.json](./314492-gourmet.json) |
 | Gourmet | 93359 | [93359-gourmet.json](./93359-gourmet.json) |
+| Gourmet Action Game: Manpuku!! Nabe Kazoku | 284159 | [284159-gourmet-action-game-manpuku-nabe-kazoku.json](./284159-gourmet-action-game-manpuku-nabe-kazoku.json) |
 | Gourmet Chef | 67336 | [67336-gourmet-chef.json](./67336-gourmet-chef.json) |
 | Gourmet Chef Challenge: Around the World | 106731 | [106731-gourmet-chef-challenge-around-the-world.json](./106731-gourmet-chef-challenge-around-the-world.json) |
 | Gourmet Dream | 85630 | [85630-gourmet-dream.json](./85630-gourmet-dream.json) |
@@ -9872,6 +9873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Angel for Hire | 178585 | [178585-guardian-angel-for-hire.json](./178585-guardian-angel-for-hire.json) |
 | Guardian Chicken | 346505 | [346505-guardian-chicken.json](./346505-guardian-chicken.json) |
 | Guardian Chronicle: Random Defense | 144989 | [144989-guardian-chronicle-random-defense.json](./144989-guardian-chronicle-random-defense.json) |
+| Guardian Deity | 284165 | [284165-guardian-deity.json](./284165-guardian-deity.json) |
 | Guardian Demon | 376413 | [376413-guardian-demon.json](./376413-guardian-demon.json) |
 | Guardian Force: Saturn Tribute | 173780 | [173780-guardian-force-saturn-tribute.json](./173780-guardian-force-saturn-tribute.json) |
 | Guardian Frame: Debrief! | 283386 | [283386-guardian-frame-debrief.json](./283386-guardian-frame-debrief.json) |
