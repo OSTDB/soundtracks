@@ -2255,6 +2255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | United Online | 420930 | [420930-united-online.json](./420930-united-online.json) |
 | United Penguin Kingdom | 277330 | [277330-united-penguin-kingdom.json](./277330-united-penguin-kingdom.json) |
 | United Penguin Kingdom: Huddle up | 277167 | [277167-united-penguin-kingdom-huddle-up.json](./277167-united-penguin-kingdom-huddle-up.json) |
+| United Sects of America | 275385 | [275385-united-sects-of-america.json](./275385-united-sects-of-america.json) |
 | United State Presidental Race | 48604 | [48604-united-state-presidental-race.json](./48604-united-state-presidental-race.json) |
 | United States Capitals: Breakthrough Gaming Activity Center | 221976 | [221976-united-states-capitals-breakthrough-gaming-activity-center.json](./221976-united-states-capitals-breakthrough-gaming-activity-center.json) |
 | United States of America Jigsaw Puzzles | 278502 | [278502-united-states-of-america-jigsaw-puzzles.json](./278502-united-states-of-america-jigsaw-puzzles.json) |
@@ -2982,6 +2983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unwelcome | 276586 | [276586-unwelcome.json](./276586-unwelcome.json) |
 | Unwelcome Guest | 337453 | [337453-unwelcome-guest.json](./337453-unwelcome-guest.json) |
 | Unwelcome Guests | 395626 | [395626-unwelcome-guests.json](./395626-unwelcome-guests.json) |
+| Unwell | 275381 | [275381-unwell.json](./275381-unwell.json) |
 | Unwell Known | 152829 | [152829-unwell-known.json](./152829-unwell-known.json) |
 | Unwieldy Wand | 182666 | [182666-unwieldy-wand.json](./182666-unwieldy-wand.json) |
 | Unwilling Host | 389698 | [389698-unwilling-host.json](./389698-unwilling-host.json) |
