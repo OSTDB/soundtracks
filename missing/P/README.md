@@ -7007,6 +7007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pineapple | 311242 | [311242-pineapple.json](./311242-pineapple.json) |
 | Pineapple | 349250 | [349250-pineapple.json](./349250-pineapple.json) |
 | Pineapple 2000 | 277487 | [277487-pineapple-2000.json](./277487-pineapple-2000.json) |
+| Pineapple 64 | 270443 | [270443-pineapple-64.json](./270443-pineapple-64.json) |
 | Pineapple Arcade | 109542 | [109542-pineapple-arcade.json](./109542-pineapple-arcade.json) |
 | Pineapple Defense | 298152 | [298152-pineapple-defense.json](./298152-pineapple-defense.json) |
 | Pineapple Heroes | 56875 | [56875-pineapple-heroes.json](./56875-pineapple-heroes.json) |
@@ -11015,6 +11016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon My Ass | 282740 | [282740-pokemon-my-ass.json](./282740-pokemon-my-ass.json) |
 | Pokémon Mystery Dungeon: Blue Rescue Team | 2320 | [2320-pokemon-mystery-dungeon-blue-rescue-team.json](./2320-pokemon-mystery-dungeon-blue-rescue-team.json) |
 | Pokemon Mystery Dungeon: Cryptic Conundrum | 373505 | [373505-pokemon-mystery-dungeon-cryptic-conundrum.json](./373505-pokemon-mystery-dungeon-cryptic-conundrum.json) |
+| Pokémon Mystery Dungeon: Divided Spirits | 270368 | [270368-pokemon-mystery-dungeon-divided-spirits.json](./270368-pokemon-mystery-dungeon-divided-spirits.json) |
 | Pokémon Mystery Dungeon: Explorers of Alpha | 381141 | [381141-pokemon-mystery-dungeon-explorers-of-alpha.json](./381141-pokemon-mystery-dungeon-explorers-of-alpha.json) |
 | Pokémon Mystery Dungeon: Explorers of Darkness | 2322 | [2322-pokemon-mystery-dungeon-explorers-of-darkness.json](./2322-pokemon-mystery-dungeon-explorers-of-darkness.json) |
 | Pokémon Mystery Dungeon: Explorers of Hell | 255898 | [255898-pokemon-mystery-dungeon-explorers-of-hell.json](./255898-pokemon-mystery-dungeon-explorers-of-hell.json) |
@@ -11023,6 +11025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Mystery Dungeon: Explorers of the Spirit | 194263 | [194263-pokemon-mystery-dungeon-explorers-of-the-spirit.json](./194263-pokemon-mystery-dungeon-explorers-of-the-spirit.json) |
 | Pokémon Mystery Dungeon: Explorers of Time | 2321 | [2321-pokemon-mystery-dungeon-explorers-of-time.json](./2321-pokemon-mystery-dungeon-explorers-of-time.json) |
 | Pokémon Mystery Dungeon: Flames of Bravery | 340960 | [340960-pokemon-mystery-dungeon-flames-of-bravery.json](./340960-pokemon-mystery-dungeon-flames-of-bravery.json) |
+| Pokémon Mystery Dungeon: Future of Hope | 270369 | [270369-pokemon-mystery-dungeon-future-of-hope.json](./270369-pokemon-mystery-dungeon-future-of-hope.json) |
 | Pokémon Mystery Dungeon: Gates to Infinity | 4566 | [4566-pokemon-mystery-dungeon-gates-to-infinity.json](./4566-pokemon-mystery-dungeon-gates-to-infinity.json) |
 | Pokémon Mystery Dungeon: Origins | 365792 | [365792-pokemon-mystery-dungeon-origins.json](./365792-pokemon-mystery-dungeon-origins.json) |
 | Pokémon Mystery Dungeon: Outlaw's Paradise | 294718 | [294718-pokemon-mystery-dungeon-outlaws-paradise.json](./294718-pokemon-mystery-dungeon-outlaws-paradise.json) |
@@ -15865,6 +15868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Temporality | 10725 | [10725-project-temporality.json](./10725-project-temporality.json) |
 | Project Terminus VR | 149838 | [149838-project-terminus-vr.json](./149838-project-terminus-vr.json) |
 | Project Terra | 272733 | [272733-project-terra.json](./272733-project-terra.json) |
+| Project Terrarium | 270433 | [270433-project-terrarium.json](./270433-project-terrarium.json) |
 | Project Thea | 330350 | [330350-project-thea.json](./330350-project-thea.json) |
 | Project Third Eye | 258603 | [258603-project-third-eye.json](./258603-project-third-eye.json) |
 | Project Three | 343857 | [343857-project-three.json](./343857-project-three.json) |
