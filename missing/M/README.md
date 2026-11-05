@@ -1053,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Christmas Escape 4 | 315639 | [315639-magic-christmas-escape-4.json](./315639-magic-christmas-escape-4.json) |
 | Magic Circle | 309334 | [309334-magic-circle.json](./309334-magic-circle.json) |
 | Magic City Detective: Rage Under Moon - Collector's Edition | 243546 | [243546-magic-city-detective-rage-under-moon-collectors-edition.json](./243546-magic-city-detective-rage-under-moon-collectors-edition.json) |
+| Magic City Detective: Rage Under Moon DLC | 247855 | [247855-magic-city-detective-rage-under-moon-dlc.json](./247855-magic-city-detective-rage-under-moon-dlc.json) |
 | Magic City Detective: The Carnival Begins - Collector's Edition | 304859 | [304859-magic-city-detective-the-carnival-begins-collectors-edition.json](./304859-magic-city-detective-the-carnival-begins-collectors-edition.json) |
 | Magic City Detective: The Carnival Begins DLC | 361772 | [361772-magic-city-detective-the-carnival-begins-dlc.json](./361772-magic-city-detective-the-carnival-begins-dlc.json) |
 | Magic City Detective: Wings of Revenge - Collector's Edition | 188023 | [188023-magic-city-detective-wings-of-revenge-collectors-edition.json](./188023-magic-city-detective-wings-of-revenge-collectors-edition.json) |
@@ -2163,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid-san wo Migi ni Mi | 111051 | [111051-maid-san-wo-migi-ni-mi.json](./111051-maid-san-wo-migi-ni-mi.json) |
 | Maid-San's Bath Towel | 65297 | [65297-maid-sans-bath-towel.json](./65297-maid-sans-bath-towel.json) |
 | Maid-San's Caving Adventure | 65301 | [65301-maid-sans-caving-adventure.json](./65301-maid-sans-caving-adventure.json) |
+| Maid's Melancholy | 247854 | [247854-maids-melancholy.json](./247854-maids-melancholy.json) |
 | Maiden | 142743 | [142743-maiden.json](./142743-maiden.json) |
 | Maiden | 344870 | [344870-maiden.json](./344870-maiden.json) |
 | Maiden & Spell | 104679 | [104679-maiden-and-spell.json](./104679-maiden-and-spell.json) |
@@ -3430,6 +3432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marbleous Blocks | 163825 | [163825-marbleous-blocks.json](./163825-marbleous-blocks.json) |
 | Marbles Garden | 192298 | [192298-marbles-garden.json](./192298-marbles-garden.json) |
 | Marbles HD | 101520 | [101520-marbles-hd.json](./101520-marbles-hd.json) |
+| Marbles in Space | 247817 | [247817-marbles-in-space.json](./247817-marbles-in-space.json) |
 | Marbles Rush | 153819 | [153819-marbles-rush.json](./153819-marbles-rush.json) |
 | Marbles Temple: Zuma Back! | 68916 | [68916-marbles-temple-zuma-back.json](./68916-marbles-temple-zuma-back.json) |
 | Marblesared | 68371 | [68371-marblesared.json](./68371-marblesared.json) |
@@ -5845,6 +5848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
