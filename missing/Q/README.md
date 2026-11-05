@@ -859,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest Giver | 271917 | [271917-quest-giver.json](./271917-quest-giver.json) |
 | Quest Hunter | 32396 | [32396-quest-hunter.json](./32396-quest-hunter.json) |
 | Quest II | 93202 | [93202-quest-ii.json](./93202-quest-ii.json) |
+| Quest Industries | 293573 | [293573-quest-industries.json](./293573-quest-industries.json) |
 | Quest Machina | 285951 | [285951-quest-machina.json](./285951-quest-machina.json) |
 | Quest Master's Realm | 235966 | [235966-quest-masters-realm.json](./235966-quest-masters-realm.json) |
 | Quest Master's Realm: Land of the Phoenix | 317077 | [317077-quest-masters-realm-land-of-the-phoenix.json](./317077-quest-masters-realm-land-of-the-phoenix.json) |
