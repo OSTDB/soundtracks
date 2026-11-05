@@ -4331,6 +4331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lies as a Starting Point | 258507 | [258507-lies-as-a-starting-point.json](./258507-lies-as-a-starting-point.json) |
 | Lies Beneath | 133280 | [133280-lies-beneath.json](./133280-lies-beneath.json) |
 | Lies of Astaroth | 57975 | [57975-lies-of-astaroth.json](./57975-lies-of-astaroth.json) |
+| Lies of P: Deluxe Edition | 256034 | [256034-lies-of-p-deluxe-edition.json](./256034-lies-of-p-deluxe-edition.json) |
 | Lies of P: Overture Bundle | 348364 | [348364-lies-of-p-overture-bundle.json](./348364-lies-of-p-overture-bundle.json) |
 | Lies Under Ice | 148989 | [148989-lies-under-ice.json](./148989-lies-under-ice.json) |
 | Liese in the City of Trials | 358928 | [358928-liese-in-the-city-of-trials.json](./358928-liese-in-the-city-of-trials.json) |
