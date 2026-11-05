@@ -6326,6 +6326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexadecordle | 194882 | [194882-hexadecordle.json](./194882-hexadecordle.json) |
 | Hexadel | 374921 | [374921-hexadel.json](./374921-hexadel.json) |
 | Hexadrift | 126918 | [126918-hexadrift.json](./126918-hexadrift.json) |
+| Hexaduel | 256580 | [256580-hexaduel.json](./256580-hexaduel.json) |
 | Hexaflip | 289295 | [289295-hexaflip.json](./289295-hexaflip.json) |
 | Hexaflip: The Action Puzzler | 124395 | [124395-hexaflip-the-action-puzzler.json](./124395-hexaflip-the-action-puzzler.json) |
 | Hexagold | 264157 | [264157-hexagold.json](./264157-hexagold.json) |
@@ -8672,6 +8673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holidays in Khrushchevsk | 249007 | [249007-holidays-in-khrushchevsk.json](./249007-holidays-in-khrushchevsk.json) |
 | Holidays Survivors | 325988 | [325988-holidays-survivors.json](./325988-holidays-survivors.json) |
 | Höll Space 5D6 | 147197 | [147197-holl-space-5d6.json](./147197-holl-space-5d6.json) |
+| Hollenburg 'Hell Castle' | 256620 | [256620-hollenburg-hell-castle.json](./256620-hollenburg-hell-castle.json) |
 | Hollenburg: Hell Castle | 256259 | [256259-hollenburg-hell-castle.json](./256259-hollenburg-hell-castle.json) |
 | Höllische Nachbarn | 92979 | [92979-hollische-nachbarn.json](./92979-hollische-nachbarn.json) |
 | Hollo Ball | 291960 | [291960-hollo-ball.json](./291960-hollo-ball.json) |
