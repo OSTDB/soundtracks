@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.O.L School Of Labyrinth | 412447 | [412447-s-o-l-school-of-labyrinth.json](./412447-s-o-l-school-of-labyrinth.json) |
 | S.O.L: Search of Light | 154380 | [154380-s-o-l-search-of-light.json](./154380-s-o-l-search-of-light.json) |
 | S.O.L: Stone of Life EX | 38730 | [38730-s-o-l-stone-of-life-ex.json](./38730-s-o-l-stone-of-life-ex.json) |
+| S.o.L.o. | 280031 | [280031-s-o-l-o.json](./280031-s-o-l-o.json) |
 | S.O.N | 102781 | [102781-s-o-n.json](./102781-s-o-n.json) |
 | S.O.N.A.R.: Submarine Operators Not Actually Ready | 410320 | [410320-s-o-n-a-r-submarine-operators-not-actually-ready.json](./410320-s-o-n-a-r-submarine-operators-not-actually-ready.json) |
 | S.O.R.N. | 400086 | [400086-s-o-r-n.json](./400086-s-o-r-n.json) |
@@ -4249,6 +4250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seasons of Chiba | 351636 | [351636-seasons-of-chiba.json](./351636-seasons-of-chiba.json) |
 | Seasons of Courage | 211786 | [211786-seasons-of-courage.json](./211786-seasons-of-courage.json) |
 | Seasons of Heaven | 26300 | [26300-seasons-of-heaven.json](./26300-seasons-of-heaven.json) |
+| Seasons of Rocco | 280003 | [280003-seasons-of-rocco.json](./280003-seasons-of-rocco.json) |
 | Seasons of Solitude | 358366 | [358366-seasons-of-solitude.json](./358366-seasons-of-solitude.json) |
 | Seasons of the Sorcerer | 211168 | [211168-seasons-of-the-sorcerer.json](./211168-seasons-of-the-sorcerer.json) |
 | Seasons of War | 58746 | [58746-seasons-of-war.json](./58746-seasons-of-war.json) |
@@ -6520,6 +6522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Heroes | 212072 | [212072-shadow-heroes.json](./212072-shadow-heroes.json) |
 | Shadow Hold | 236223 | [236223-shadow-hold.json](./236223-shadow-hold.json) |
 | Shadow Hunt | 374077 | [374077-shadow-hunt.json](./374077-shadow-hunt.json) |
+| Shadow Hunter | 280028 | [280028-shadow-hunter.json](./280028-shadow-hunter.json) |
 | Shadow Hunter | 35386 | [35386-shadow-hunter.json](./35386-shadow-hunter.json) |
 | Shadow Hunter: Lost Worlds | 188365 | [188365-shadow-hunter-lost-worlds.json](./188365-shadow-hunter-lost-worlds.json) |
 | Shadow Hush | 303204 | [303204-shadow-hush.json](./303204-shadow-hush.json) |
@@ -11741,6 +11744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skelethrone: The Chronicles of Ericona - The Jewel in the Skull | 343209 | [343209-skelethrone-the-chronicles-of-ericona-the-jewel-in-the-skull.json](./343209-skelethrone-the-chronicles-of-ericona-the-jewel-in-the-skull.json) |
 | Skeleton Attack: Nightmare Awaken | 216739 | [216739-skeleton-attack-nightmare-awaken.json](./216739-skeleton-attack-nightmare-awaken.json) |
 | Skeleton Boomerang | 44177 | [44177-skeleton-boomerang.json](./44177-skeleton-boomerang.json) |
+| Skeleton Bros | 280042 | [280042-skeleton-bros.json](./280042-skeleton-bros.json) |
 | Skeleton Crew | 122069 | [122069-skeleton-crew.json](./122069-skeleton-crew.json) |
 | Skeleton Dungeon | 360448 | [360448-skeleton-dungeon.json](./360448-skeleton-dungeon.json) |
 | Skeleton Farmer | 364013 | [364013-skeleton-farmer.json](./364013-skeleton-farmer.json) |
@@ -17351,6 +17355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Robo Blast 2: Top Down | 282704 | [282704-sonic-robo-blast-2-top-down.json](./282704-sonic-robo-blast-2-top-down.json) |
 | Sonic Robo Blast! | 201071 | [201071-sonic-robo-blast.json](./201071-sonic-robo-blast.json) |
 | Sonic Robo Christmas Blast | 280224 | [280224-sonic-robo-christmas-blast.json](./280224-sonic-robo-christmas-blast.json) |
+| Sonic Robo-Blast! From The Past | 280017 | [280017-sonic-robo-blast-from-the-past.json](./280017-sonic-robo-blast-from-the-past.json) |
 | Sonic Rock 2 | 331076 | [331076-sonic-rock-2.json](./331076-sonic-rock-2.json) |
 | Sonic Roll-a-Ball | 326162 | [326162-sonic-roll-a-ball.json](./326162-sonic-roll-a-ball.json) |
 | Sonic Roller 1 & 2 Deluxe | 330550 | [330550-sonic-roller-1-and-2-deluxe.json](./330550-sonic-roller-1-and-2-deluxe.json) |
@@ -19175,6 +19180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -30385,6 +30391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Fox 2 | 146920 | [146920-super-fox-2.json](./146920-super-fox-2.json) |
 | Super Freaks 1 Remastered | 266873 | [266873-super-freaks-1-remastered.json](./266873-super-freaks-1-remastered.json) |
 | Super Freaks 1: Ultimate Edition | 268057 | [268057-super-freaks-1-ultimate-edition.json](./268057-super-freaks-1-ultimate-edition.json) |
+| Super Freaks 1: Ultimate Edition 2.0 | 280013 | [280013-super-freaks-1-ultimate-edition-2-0.json](./280013-super-freaks-1-ultimate-edition-2-0.json) |
 | Super Freaks 1: Ultimate Edition 3.0 | 316543 | [316543-super-freaks-1-ultimate-edition-3-0.json](./316543-super-freaks-1-ultimate-edition-3-0.json) |
 | Super Freaks Arcade | 316544 | [316544-super-freaks-arcade.json](./316544-super-freaks-arcade.json) |
 | Super Freaks Classic Pack | 266964 | [266964-super-freaks-classic-pack.json](./266964-super-freaks-classic-pack.json) |
@@ -31713,6 +31720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pac-Man | 239191 | [239191-super-pac-man.json](./239191-super-pac-man.json) |
 | Super Pac-Man | 345360 | [345360-super-pac-man.json](./345360-super-pac-man.json) |
 | Super Pac-Man Collection | 219418 | [219418-super-pac-man-collection.json](./219418-super-pac-man-collection.json) |
+| Super Pac-Man Pinball | 279998 | [279998-super-pac-man-pinball.json](./279998-super-pac-man-pinball.json) |
 | Super Pachinko | 46663 | [46663-super-pachinko.json](./46663-super-pachinko.json) |
 | Super Pads: Become a DJ | 96776 | [96776-super-pads-become-a-dj.json](./96776-super-pads-become-a-dj.json) |
 | Super Painter | 48372 | [48372-super-painter.json](./48372-super-painter.json) |
@@ -33848,6 +33856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzunone Seven! | 62265 | [62265-suzunone-seven.json](./62265-suzunone-seven.json) |
 | Suzy Burger | 151609 | [151609-suzy-burger.json](./151609-suzy-burger.json) |
 | Suzy Cube | 103247 | [103247-suzy-cube.json](./103247-suzy-cube.json) |
+| Suzy's Modular Run | 280025 | [280025-suzys-modular-run.json](./280025-suzys-modular-run.json) |
 | Suzy's Restaurant: Food Empire | 345270 | [345270-suzys-restaurant-food-empire.json](./345270-suzys-restaurant-food-empire.json) |
 | Svajp | 119407 | [119407-svajp.json](./119407-svajp.json) |
 | Svaland | 165343 | [165343-svaland.json](./165343-svaland.json) |
@@ -34169,6 +34178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Fantasy World | 339463 | [339463-sweet-fantasy-world.json](./339463-sweet-fantasy-world.json) |
 | Sweet Farm | 392907 | [392907-sweet-farm.json](./392907-sweet-farm.json) |
 | Sweet Feets | 254383 | [254383-sweet-feets.json](./254383-sweet-feets.json) |
+| Sweet Flip | 279987 | [279987-sweet-flip.json](./279987-sweet-flip.json) |
 | Sweet Flowers and Salt | 283527 | [283527-sweet-flowers-and-salt.json](./283527-sweet-flowers-and-salt.json) |
 | Sweet Forest | 304549 | [304549-sweet-forest.json](./304549-sweet-forest.json) |
 | Sweet Fruit Cube Legend | 109222 | [109222-sweet-fruit-cube-legend.json](./109222-sweet-fruit-cube-legend.json) |
