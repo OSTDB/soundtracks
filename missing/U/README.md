@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ufo snowboard | 288702 | [288702-ufo-snowboard.json](./288702-ufo-snowboard.json) |
 | UFO Stomper | 348013 | [348013-ufo-stomper.json](./348013-ufo-stomper.json) |
 | UFO Swamp Odyssey | 134308 | [134308-ufo-swamp-odyssey.json](./134308-ufo-swamp-odyssey.json) |
+| UFO Taxi | 295576 | [295576-ufo-taxi.json](./295576-ufo-taxi.json) |
 | UFO vs. Bikini | 152501 | [152501-ufo-vs-bikini.json](./152501-ufo-vs-bikini.json) |
 | UFO-Man | 320962 | [320962-ufo-man.json](./320962-ufo-man.json) |
 | UFO: A Day in the Life | 44742 | [44742-ufo-a-day-in-the-life.json](./44742-ufo-a-day-in-the-life.json) |
