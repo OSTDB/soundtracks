@@ -947,7 +947,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2081,6 +2080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banishers: Ghosts of New Eden - Wanderer Set DLC | 312879 | [312879-banishers-ghosts-of-new-eden-wanderer-set-dlc.json](./312879-banishers-ghosts-of-new-eden-wanderer-set-dlc.json) |
 | Banishers: Ghosts of New Eden – Collector’s Edition | 252615 | [252615-banishers-ghosts-of-new-eden-collector-s-edition.json](./252615-banishers-ghosts-of-new-eden-collector-s-edition.json) |
 | Banishing Racer | 7763 | [7763-banishing-racer.json](./7763-banishing-racer.json) |
+| Banishing You | 296565 | [296565-banishing-you.json](./296565-banishing-you.json) |
 | Banja | 93537 | [93537-banja.json](./93537-banja.json) |
 | Banja Band | 293216 | [293216-banja-band.json](./293216-banja-band.json) |
 | Banjax | 15660 | [15660-banjax.json](./15660-banjax.json) |
@@ -5082,6 +5082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Rush | 166213 | [166213-beat-rush.json](./166213-beat-rush.json) |
 | Beat Rush | 265414 | [265414-beat-rush.json](./265414-beat-rush.json) |
 | Beat Saber | 257309 | [257309-beat-saber.json](./257309-beat-saber.json) |
+| Beat Saber: 2Pac - "All Eyez On Me (feat. Big Syke)" | 296579 | [296579-beat-saber-2pac-all-eyez-on-me-feat-big-syke.json](./296579-beat-saber-2pac-all-eyez-on-me-feat-big-syke.json) |
 | Beat Saber: Aero Chord - "Boundless" | 358199 | [358199-beat-saber-aero-chord-boundless.json](./358199-beat-saber-aero-chord-boundless.json) |
 | Beat Saber: Alan Walker - "Wake Up" | 357566 | [357566-beat-saber-alan-walker-wake-up.json](./357566-beat-saber-alan-walker-wake-up.json) |
 | Beat Saber: Billie Eilish Music Pack | 363178 | [363178-beat-saber-billie-eilish-music-pack.json](./363178-beat-saber-billie-eilish-music-pack.json) |
@@ -5120,14 +5121,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Saber: Darude - "Sandstorm" | 357240 | [357240-beat-saber-darude-sandstorm.json](./357240-beat-saber-darude-sandstorm.json) |
 | Beat Saber: deadmau5 - "Ghosts 'n' Stuff (feat. Rob Swire)" | 357238 | [357238-beat-saber-deadmau5-ghosts-n-stuff-feat-rob-swire.json](./357238-beat-saber-deadmau5-ghosts-n-stuff-feat-rob-swire.json) |
 | Beat Saber: Dion Timmer - "Shiawase" | 358185 | [358185-beat-saber-dion-timmer-shiawase.json](./358185-beat-saber-dion-timmer-shiawase.json) |
+| Beat Saber: Dr Dre - "Nuthin’ But A “G” Thang" | 296573 | [296573-beat-saber-dr-dre-nuthin-but-a-g-thang.json](./296573-beat-saber-dr-dre-nuthin-but-a-g-thang.json) |
 | Beat Saber: Dyro x Conro - "Memory Bank" | 357567 | [357567-beat-saber-dyro-x-conro-memory-bank.json](./357567-beat-saber-dyro-x-conro-memory-bank.json) |
 | Beat Saber: Electronic Mixtape Music Pack | 357354 | [357354-beat-saber-electronic-mixtape-music-pack.json](./357354-beat-saber-electronic-mixtape-music-pack.json) |
+| Beat Saber: Eminem - "Godzilla (feat. Juice WRLD)" | 296576 | [296576-beat-saber-eminem-godzilla-feat-juice-wrld.json](./296576-beat-saber-eminem-godzilla-feat-juice-wrld.json) |
 | Beat Saber: Eminem - "Houdini" | 357583 | [357583-beat-saber-eminem-houdini.json](./357583-beat-saber-eminem-houdini.json) |
 | Beat Saber: Excision & Dion Timmer - "Dabadabadabadaba" | 357563 | [357563-beat-saber-excision-and-dion-timmer-dabadabadabadaba.json](./357563-beat-saber-excision-and-dion-timmer-dabadabadabadaba.json) |
 | Beat Saber: F.O.O.L & Power Glove - "Mercenary" | 357574 | [357574-beat-saber-f-o-o-l-and-power-glove-mercenary.json](./357574-beat-saber-f-o-o-l-and-power-glove-mercenary.json) |
 | Beat Saber: Fall Out Boy Music Pack | 363180 | [363180-beat-saber-fall-out-boy-music-pack.json](./363180-beat-saber-fall-out-boy-music-pack.json) |
 | Beat Saber: Foo Fighters - "The Pretender" | 357231 | [357231-beat-saber-foo-fighters-the-pretender.json](./357231-beat-saber-foo-fighters-the-pretender.json) |
 | Beat Saber: Fort Minor - "Remember the Name (feat. Styles of Beyond)" | 357600 | [357600-beat-saber-fort-minor-remember-the-name-feat-styles-of-beyond.json](./357600-beat-saber-fort-minor-remember-the-name-feat-styles-of-beyond.json) |
+| Beat Saber: Grandmaster Flash & The Furious Five - "The Message" | 296572 | [296572-beat-saber-grandmaster-flash-and-the-furious-five-the-message.json](./296572-beat-saber-grandmaster-flash-and-the-furious-five-the-message.json) |
 | Beat Saber: Grant & Ellis - "Dead Man Walking" | 357568 | [357568-beat-saber-grant-and-ellis-dead-man-walking.json](./357568-beat-saber-grant-and-ellis-dead-man-walking.json) |
 | Beat Saber: Green Day - "American Idiot" | 358186 | [358186-beat-saber-green-day-american-idiot.json](./358186-beat-saber-green-day-american-idiot.json) |
 | Beat Saber: Green Day - "Boulevard of Broken Dreams" | 358188 | [358188-beat-saber-green-day-boulevard-of-broken-dreams.json](./358188-beat-saber-green-day-boulevard-of-broken-dreams.json) |
@@ -5189,13 +5193,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Saber: Mike Shinoda & Kaliee Morgue - "In My Head" | 357604 | [357604-beat-saber-mike-shinoda-and-kaliee-morgue-in-my-head.json](./357604-beat-saber-mike-shinoda-and-kaliee-morgue-in-my-head.json) |
 | Beat Saber: Monstercat Music Pack Vol. 1 | 251057 | [251057-beat-saber-monstercat-music-pack-vol-1.json](./251057-beat-saber-monstercat-music-pack-vol-1.json) |
 | Beat Saber: Nash Overstreet, Karra & Common Strangers - "What I Like" | 358177 | [358177-beat-saber-nash-overstreet-karra-and-common-strangers-what-i-like.json](./358177-beat-saber-nash-overstreet-karra-and-common-strangers-what-i-like.json) |
+| Beat Saber: Nicki Minaj - "Anaconda" | 296578 | [296578-beat-saber-nicki-minaj-anaconda.json](./296578-beat-saber-nicki-minaj-anaconda.json) |
 | Beat Saber: Nitro Fun - "Final Boss" | 357564 | [357564-beat-saber-nitro-fun-final-boss.json](./357564-beat-saber-nitro-fun-final-boss.json) |
+| Beat Saber: Outkast - "Hey Ya!" | 296575 | [296575-beat-saber-outkast-hey-ya.json](./296575-beat-saber-outkast-hey-ya.json) |
 | Beat Saber: Öwnboss & Selva - "Riot" | 357573 | [357573-beat-saber-ownboss-and-selva-riot.json](./357573-beat-saber-ownboss-and-selva-riot.json) |
 | Beat Saber: Panic! at the Disco - "Emperor's New Clothes" | 358175 | [358175-beat-saber-panic-at-the-disco-emperors-new-clothes.json](./358175-beat-saber-panic-at-the-disco-emperors-new-clothes.json) |
 | Beat Saber: Panic! at the Disco - "High Hopes" | 358197 | [358197-beat-saber-panic-at-the-disco-high-hopes.json](./358197-beat-saber-panic-at-the-disco-high-hopes.json) |
 | Beat Saber: Panic! At The Disco - "Viva Las Vengeance" | 358098 | [358098-beat-saber-panic-at-the-disco-viva-las-vengeance.json](./358098-beat-saber-panic-at-the-disco-viva-las-vengeance.json) |
 | Beat Saber: Panic! at the Disco Music Pack | 363183 | [363183-beat-saber-panic-at-the-disco-music-pack.json](./363183-beat-saber-panic-at-the-disco-music-pack.json) |
 | Beat Saber: Pegboard Nerds - "Emoji VIP" | 358180 | [358180-beat-saber-pegboard-nerds-emoji-vip.json](./358180-beat-saber-pegboard-nerds-emoji-vip.json) |
+| Beat Saber: Pop Smoke - "The Woo (feat. 50 Cent, Roddy Ricch)" | 296571 | [296571-beat-saber-pop-smoke-the-woo-feat-50-cent-roddy-ricch.json](./296571-beat-saber-pop-smoke-the-woo-feat-50-cent-roddy-ricch.json) |
 | Beat Saber: Queen - "Another One Bites the Dust" | 357227 | [357227-beat-saber-queen-another-one-bites-the-dust.json](./357227-beat-saber-queen-another-one-bites-the-dust.json) |
 | Beat Saber: Queen - "Bohemian Rhapsody" | 357228 | [357228-beat-saber-queen-bohemian-rhapsody.json](./357228-beat-saber-queen-bohemian-rhapsody.json) |
 | Beat Saber: Queen - "We Are the Champions" | 357610 | [357610-beat-saber-queen-we-are-the-champions.json](./357610-beat-saber-queen-we-are-the-champions.json) |
@@ -5212,11 +5219,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Saber: Skrillex Music Pack | 357356 | [357356-beat-saber-skrillex-music-pack.json](./357356-beat-saber-skrillex-music-pack.json) |
 | Beat Saber: Slushii - "Luv U Need U" | 358174 | [358174-beat-saber-slushii-luv-u-need-u.json](./358174-beat-saber-slushii-luv-u-need-u.json) |
 | Beat Saber: Slushii & Dion Timmer - "Test Me" | 358187 | [358187-beat-saber-slushii-and-dion-timmer-test-me.json](./358187-beat-saber-slushii-and-dion-timmer-test-me.json) |
+| Beat Saber: Snoop Dogg - "Gin and Juice" | 296577 | [296577-beat-saber-snoop-dogg-gin-and-juice.json](./296577-beat-saber-snoop-dogg-gin-and-juice.json) |
 | Beat Saber: Steppenwolf - "Born To Be Wild" | 357232 | [357232-beat-saber-steppenwolf-born-to-be-wild.json](./357232-beat-saber-steppenwolf-born-to-be-wild.json) |
 | Beat Saber: Sullivan King - "Thrones of Blood" | 357572 | [357572-beat-saber-sullivan-king-thrones-of-blood.json](./357572-beat-saber-sullivan-king-thrones-of-blood.json) |
 | Beat Saber: Survivor - "Eye of the Tiger" | 357233 | [357233-beat-saber-survivor-eye-of-the-tiger.json](./357233-beat-saber-survivor-eye-of-the-tiger.json) |
 | Beat Saber: Teddy Killerz & Pegboard Nerds - "Pump" | 357571 | [357571-beat-saber-teddy-killerz-and-pegboard-nerds-pump.json](./357571-beat-saber-teddy-killerz-and-pegboard-nerds-pump.json) |
 | Beat Saber: Teminite & Skybreak - "Accelerate" | 357570 | [357570-beat-saber-teminite-and-skybreak-accelerate.json](./357570-beat-saber-teminite-and-skybreak-accelerate.json) |
+| Beat Saber: The Notorious B.I.G. - "Hypnotize" | 296574 | [296574-beat-saber-the-notorious-b-i-g-hypnotize.json](./296574-beat-saber-the-notorious-b-i-g-hypnotize.json) |
 | Beat Saber: The Rolling Stones - "(I Can't Get No) Satisfaction" | 357587 | [357587-beat-saber-the-rolling-stones-i-cant-get-no-satisfaction.json](./357587-beat-saber-the-rolling-stones-i-cant-get-no-satisfaction.json) |
 | Beat Saber: The Rolling Stones - "Angry" | 357588 | [357588-beat-saber-the-rolling-stones-angry.json](./357588-beat-saber-the-rolling-stones-angry.json) |
 | Beat Saber: The Rolling Stones - "Bite My Head Off" | 357589 | [357589-beat-saber-the-rolling-stones-bite-my-head-off.json](./357589-beat-saber-the-rolling-stones-bite-my-head-off.json) |
@@ -6499,6 +6508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Besiedelte Welten: Das alte Ägypten | 91559 | [91559-besiedelte-welten-das-alte-agypten.json](./91559-besiedelte-welten-das-alte-agypten.json) |
 | Besiege | 9047 | [9047-besiege.json](./9047-besiege.json) |
 | Besiege: The Broken Beyond | 389128 | [389128-besiege-the-broken-beyond.json](./389128-besiege-the-broken-beyond.json) |
+| Besiege: The Splintered Sea | 296641 | [296641-besiege-the-splintered-sea.json](./296641-besiege-the-splintered-sea.json) |
 | Besitupia: Mediator | 297534 | [297534-besitupia-mediator.json](./297534-besitupia-mediator.json) |
 | Besmirch | 343449 | [343449-besmirch.json](./343449-besmirch.json) |
 | Beso's Shawarma | 408396 | [408396-besos-shawarma.json](./408396-besos-shawarma.json) |
@@ -7872,6 +7882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bio Hazard | 247453 | [247453-bio-hazard.json](./247453-bio-hazard.json) |
 | Bio Hazard | 356221 | [356221-bio-hazard.json](./356221-bio-hazard.json) |
 | Bio Inc. Redemption | 36627 | [36627-bio-inc-redemption.json](./36627-bio-inc-redemption.json) |
+| Bio Inc. Redemption + Crossroads Inn: Doctors and Bartenders Bundle | 296561 | [296561-bio-inc-redemption-crossroads-inn-doctors-and-bartenders-bundle.json](./296561-bio-inc-redemption-crossroads-inn-doctors-and-bartenders-bundle.json) |
 | Bio Menace | 8491 | [8491-bio-menace.json](./8491-bio-menace.json) |
 | Bio Miracle Bokutte Upa | 41245 | [41245-bio-miracle-bokutte-upa.json](./41245-bio-miracle-bokutte-upa.json) |
 | Bio Prototype | 226257 | [226257-bio-prototype.json](./226257-bio-prototype.json) |
