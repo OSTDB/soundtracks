@@ -1671,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Jab | 390678 | [390678-jigsaw-jab.json](./390678-jigsaw-jab.json) |
 | Jigsaw Jumble | 65366 | [65366-jigsaw-jumble.json](./65366-jigsaw-jumble.json) |
 | Jigsaw Kids 1 | 289370 | [289370-jigsaw-kids-1.json](./289370-jigsaw-kids-1.json) |
+| Jigsaw Kitties | 246199 | [246199-jigsaw-kitties.json](./246199-jigsaw-kitties.json) |
 | Jigsaw Madness | 43918 | [43918-jigsaw-madness.json](./43918-jigsaw-madness.json) |
 | Jigsaw Master Kids | 187095 | [187095-jigsaw-master-kids.json](./187095-jigsaw-master-kids.json) |
 | Jigsaw Masterpieces | 147951 | [147951-jigsaw-masterpieces.json](./147951-jigsaw-masterpieces.json) |
