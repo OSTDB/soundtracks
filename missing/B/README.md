@@ -957,7 +957,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1030,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BadLands RoadTrip | 95136 | [95136-badlands-roadtrip.json](./95136-badlands-roadtrip.json) |
 | Badmad Robots | 294140 | [294140-badmad-robots.json](./294140-badmad-robots.json) |
 | BadMan | 240524 | [240524-badman.json](./240524-badman.json) |
+| Badminton | 246175 | [246175-badminton.json](./246175-badminton.json) |
 | Badminton Clash: Master League - World Championship Arena | 181654 | [181654-badminton-clash-master-league-world-championship-arena.json](./181654-badminton-clash-master-league-world-championship-arena.json) |
 | Badminton Kings VR | 89258 | [89258-badminton-kings-vr.json](./89258-badminton-kings-vr.json) |
 | Badminton Master | 224101 | [224101-badminton-master.json](./224101-badminton-master.json) |
@@ -2888,6 +2888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball | 217827 | [217827-baseball.json](./217827-baseball.json) |
 | Baseball | 245560 | [245560-baseball.json](./245560-baseball.json) |
 | Baseball | 245561 | [245561-baseball.json](./245561-baseball.json) |
+| Baseball | 246177 | [246177-baseball.json](./246177-baseball.json) |
 | Baseball | 246993 | [246993-baseball.json](./246993-baseball.json) |
 | Baseball | 277862 | [277862-baseball.json](./277862-baseball.json) |
 | Baseball | 280876 | [280876-baseball.json](./280876-baseball.json) |
@@ -4753,6 +4754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Tennis | 323840 | [323840-beach-tennis.json](./323840-beach-tennis.json) |
 | Beach Vacation Simulator | 258908 | [258908-beach-vacation-simulator.json](./258908-beach-vacation-simulator.json) |
 | Beach Volley Hot Sports | 52449 | [52449-beach-volley-hot-sports.json](./52449-beach-volley-hot-sports.json) |
+| Beach Volleyball | 246183 | [246183-beach-volleyball.json](./246183-beach-volleyball.json) |
 | Beach Volleyball | 278855 | [278855-beach-volleyball.json](./278855-beach-volleyball.json) |
 | Beach Volleyball | 359223 | [359223-beach-volleyball.json](./359223-beach-volleyball.json) |
 | Beach Volleyball | 359297 | [359297-beach-volleyball.json](./359297-beach-volleyball.json) |
@@ -13810,6 +13812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling | 172404 | [172404-bowling.json](./172404-bowling.json) |
 | Bowling | 18005 | [18005-bowling.json](./18005-bowling.json) |
 | Bowling | 217663 | [217663-bowling.json](./217663-bowling.json) |
+| Bowling | 246179 | [246179-bowling.json](./246179-bowling.json) |
 | Bowling | 246283 | [246283-bowling.json](./246283-bowling.json) |
 | Bowling | 246995 | [246995-bowling.json](./246995-bowling.json) |
 | Bowling | 247004 | [247004-bowling.json](./247004-bowling.json) |
