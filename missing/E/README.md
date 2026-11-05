@@ -574,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy Golf | 70617 | [70617-easy-golf.json](./70617-easy-golf.json) |
 | Easy hentai puzzle | 120978 | [120978-easy-hentai-puzzle.json](./120978-easy-hentai-puzzle.json) |
 | Easy Japanese Hiragana | 367749 | [367749-easy-japanese-hiragana.json](./367749-easy-japanese-hiragana.json) |
+| Easy Jigsaw Puzzle | 295063 | [295063-easy-jigsaw-puzzle.json](./295063-easy-jigsaw-puzzle.json) |
 | Easy Jigsaw Puzzle | 377174 | [377174-easy-jigsaw-puzzle.json](./377174-easy-jigsaw-puzzle.json) |
 | Easy Joe | 92462 | [92462-easy-joe.json](./92462-easy-joe.json) |
 | Easy Joe 2 | 399487 | [399487-easy-joe-2.json](./399487-easy-joe-2.json) |
@@ -4034,6 +4035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enkate | 297090 | [297090-enkate.json](./297090-enkate.json) |
 | Enkeltbillet | 213890 | [213890-enkeltbillet.json](./213890-enkeltbillet.json) |
 | Enki | 35032 | [35032-enki.json](./35032-enki.json) |
+| Enkindle | 294925 | [294925-enkindle.json](./294925-enkindle.json) |
 | Enkou Girls Collection: Oyaji no Natsu wa Suzushii Loveho de Pakopako Hen | 82997 | [82997-enkou-girls-collection-oyaji-no-natsu-wa-suzushii-loveho-de-pakopako-hen.json](./82997-enkou-girls-collection-oyaji-no-natsu-wa-suzushii-loveho-de-pakopako-hen.json) |
 | Enkou Shoujo 2: JK Idol Marin no Baai | 77896 | [77896-enkou-shoujo-2-jk-idol-marin-no-baai.json](./77896-enkou-shoujo-2-jk-idol-marin-no-baai.json) |
 | Enlighten The Darkness: Again | 273242 | [273242-enlighten-the-darkness-again.json](./273242-enlighten-the-darkness-again.json) |
@@ -5153,6 +5155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from the Haunted House | 202995 | [202995-escape-from-the-haunted-house.json](./202995-escape-from-the-haunted-house.json) |
 | Escape From the Hospital | 100742 | [100742-escape-from-the-hospital.json](./100742-escape-from-the-hospital.json) |
 | Escape From The Island | 283290 | [283290-escape-from-the-island.json](./283290-escape-from-the-island.json) |
+| Escape From The Island | 295066 | [295066-escape-from-the-island.json](./295066-escape-from-the-island.json) |
 | Escape from the Lockdown: The Demon Fortress | 166061 | [166061-escape-from-the-lockdown-the-demon-fortress.json](./166061-escape-from-the-lockdown-the-demon-fortress.json) |
 | Escape from the Lost World | 133676 | [133676-escape-from-the-lost-world.json](./133676-escape-from-the-lost-world.json) |
 | Escape from the Marble Monster | 216733 | [216733-escape-from-the-marble-monster.json](./216733-escape-from-the-marble-monster.json) |
@@ -5772,6 +5775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esther - Interactive Bible Stories | 87534 | [87534-esther-interactive-bible-stories.json](./87534-esther-interactive-bible-stories.json) |
 | Esther and the Fallen Star | 340594 | [340594-esther-and-the-fallen-star.json](./340594-esther-and-the-fallen-star.json) |
 | Estigma | 142497 | [142497-estigma.json](./142497-estigma.json) |
+| Estilhaço | 294922 | [294922-estilhaco.json](./294922-estilhaco.json) |
 | Estiman | 30396 | [30396-estiman.json](./30396-estiman.json) |
 | Estium Online | 417541 | [417541-estium-online.json](./417541-estium-online.json) |
 | Estra | 13711 | [13711-estra.json](./13711-estra.json) |
