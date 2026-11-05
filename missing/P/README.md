@@ -2589,6 +2589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Parkade | 165953 | [165953-party-parkade.json](./165953-party-parkade.json) |
 | Party Party Anxiety! | 383018 | [383018-party-party-anxiety.json](./383018-party-party-anxiety.json) |
 | Party Party Time | 231043 | [231043-party-party-time.json](./231043-party-party-time.json) |
+| Party Party Time + Character Skin 1 & 2 Pack Set | 257754 | [257754-party-party-time-character-skin-1-and-2-pack-set.json](./257754-party-party-time-character-skin-1-and-2-pack-set.json) |
 | Party Party Time + Character Skin Pack | 251487 | [251487-party-party-time-character-skin-pack.json](./251487-party-party-time-character-skin-pack.json) |
 | Party Party Time + Master Pack Set | 276462 | [276462-party-party-time-master-pack-set.json](./276462-party-party-time-master-pack-set.json) |
 | Party Party Time + Party Harder Pack | 232993 | [232993-party-party-time-party-harder-pack.json](./232993-party-party-time-party-harder-pack.json) |
@@ -7936,6 +7937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Game Maker Series Project Nosferatu | 276125 | [276125-pixel-game-maker-series-project-nosferatu.json](./276125-pixel-game-maker-series-project-nosferatu.json) |
 | Pixel Game Maker Series: Angel's Blood | 224205 | [224205-pixel-game-maker-series-angels-blood.json](./224205-pixel-game-maker-series-angels-blood.json) |
 | Pixel Game Maker Series: Angel's Blood | 225331 | [225331-pixel-game-maker-series-angels-blood.json](./225331-pixel-game-maker-series-angels-blood.json) |
+| Pixel Game Maker Series: Angel's Gear | 257714 | [257714-pixel-game-maker-series-angels-gear.json](./257714-pixel-game-maker-series-angels-gear.json) |
 | Pixel Game Maker Series: Cat and Castle | 288314 | [288314-pixel-game-maker-series-cat-and-castle.json](./288314-pixel-game-maker-series-cat-and-castle.json) |
 | Pixel Game Maker Series: Chrotopia | 320460 | [320460-pixel-game-maker-series-chrotopia.json](./320460-pixel-game-maker-series-chrotopia.json) |
 | Pixel Game Maker Series: Clam Knight | 214686 | [214686-pixel-game-maker-series-clam-knight.json](./214686-pixel-game-maker-series-clam-knight.json) |
@@ -17904,6 +17906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Box-Puzzles All In One | 104608 | [104608-puzzle-box-puzzles-all-in-one.json](./104608-puzzle-box-puzzles-all-in-one.json) |
 | Puzzle Box: Animals | 305617 | [305617-puzzle-box-animals.json](./305617-puzzle-box-animals.json) |
 | Puzzle Boy | 250213 | [250213-puzzle-boy.json](./250213-puzzle-boy.json) |
+| Puzzle Boys | 257741 | [257741-puzzle-boys.json](./257741-puzzle-boys.json) |
 | Puzzle Boys | 41393 | [41393-puzzle-boys.json](./41393-puzzle-boys.json) |
 | Puzzle Bundle for Toddlers and Kids: 7 in 1 | 231035 | [231035-puzzle-bundle-for-toddlers-and-kids-7-in-1.json](./231035-puzzle-bundle-for-toddlers-and-kids-7-in-1.json) |
 | Puzzle Bundle Xbox: Mimi New Friend, Sokocrab and StoryBlocks | 335104 | [335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json](./335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json) |
