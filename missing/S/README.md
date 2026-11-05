@@ -2761,6 +2761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Shadow Spot: Bitter Glass | 328228 | [328228-scary-shadow-spot-bitter-glass.json](./328228-scary-shadow-spot-bitter-glass.json) |
 | Scary Shadow Spot: Last Farewell | 313583 | [313583-scary-shadow-spot-last-farewell.json](./313583-scary-shadow-spot-last-farewell.json) |
 | Scary Shawarma Shop | 410837 | [410837-scary-shawarma-shop.json](./410837-scary-shawarma-shop.json) |
+| Scary Siam Mall | 259899 | [259899-scary-siam-mall.json](./259899-scary-siam-mall.json) |
 | Scary Spider Train Survival 1 | 245370 | [245370-scary-spider-train-survival-1.json](./245370-scary-spider-train-survival-1.json) |
 | Scary Stickmen | 386963 | [386963-scary-stickmen.json](./386963-scary-stickmen.json) |
 | Scary Stories | 323518 | [323518-scary-stories.json](./323518-scary-stories.json) |
@@ -3888,6 +3889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sè Sè Fādǒu | 373716 | [373716-se-se-fadou.json](./373716-se-se-fadou.json) |
 | Se-Kaa of Assiah | 41126 | [41126-se-kaa-of-assiah.json](./41126-se-kaa-of-assiah.json) |
 | Se.Kirara | 397404 | [397404-se-kirara.json](./397404-se-kirara.json) |
+| Se/\/Se | 259948 | [259948-se-se.json](./259948-se-se.json) |
 | SE3 Protocol: Last Drop | 415877 | [415877-se3-protocol-last-drop.json](./415877-se3-protocol-last-drop.json) |
 | Sea and Adventure | 289689 | [289689-sea-and-adventure.json](./289689-sea-and-adventure.json) |
 | Sea Animal City | 60741 | [60741-sea-animal-city.json](./60741-sea-animal-city.json) |
@@ -4476,6 +4478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret of Kandar | 60267 | [60267-secret-of-kandar.json](./60267-secret-of-kandar.json) |
 | Secret of Lost Pyramid | 103876 | [103876-secret-of-lost-pyramid.json](./103876-secret-of-lost-pyramid.json) |
 | Secret of Magia | 34597 | [34597-secret-of-magia.json](./34597-secret-of-magia.json) |
+| Secret of Mana Turbo | 259893 | [259893-secret-of-mana-turbo.json](./259893-secret-of-mana-turbo.json) |
 | Secret of Mana: Relocalized | 249276 | [249276-secret-of-mana-relocalized.json](./249276-secret-of-mana-relocalized.json) |
 | Secret of Qwerty | 124581 | [124581-secret-of-qwerty.json](./124581-secret-of-qwerty.json) |
 | Secret of Sardinia | 211543 | [211543-secret-of-sardinia.json](./211543-secret-of-sardinia.json) |
@@ -6225,6 +6228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Simulator: The Private Jet | 243330 | [243330-sex-simulator-the-private-jet.json](./243330-sex-simulator-the-private-jet.json) |
 | Sex Simulator: Vampires | 276612 | [276612-sex-simulator-vampires.json](./276612-sex-simulator-vampires.json) |
 | Sex Simulator: Yoga Class | 257884 | [257884-sex-simulator-yoga-class.json](./257884-sex-simulator-yoga-class.json) |
+| Sex Simulator: Yoga Girls | 259949 | [259949-sex-simulator-yoga-girls.json](./259949-sex-simulator-yoga-girls.json) |
 | Sex Slaves | 301655 | [301655-sex-slaves.json](./301655-sex-slaves.json) |
 | Sex Standing | 243320 | [243320-sex-standing.json](./243320-sex-standing.json) |
 | Sex Story: Cuckold Life - Episode 1 | 367277 | [367277-sex-story-cuckold-life-episode-1.json](./367277-sex-story-cuckold-life-episode-1.json) |
@@ -6287,6 +6291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexual Nudity | 140575 | [140575-sexual-nudity.json](./140575-sexual-nudity.json) |
 | Sexual Slave Ayaka | 82840 | [82840-sexual-slave-ayaka.json](./82840-sexual-slave-ayaka.json) |
 | Sexual Summer | 226182 | [226182-sexual-summer.json](./226182-sexual-summer.json) |
+| Sexual Super Hero | 259897 | [259897-sexual-super-hero.json](./259897-sexual-super-hero.json) |
 | Sexuality in Ancient Rome | 385238 | [385238-sexuality-in-ancient-rome.json](./385238-sexuality-in-ancient-rome.json) |
 | Sexuality with Girlfriends: Laler & Reese | 375977 | [375977-sexuality-with-girlfriends-laler-and-reese.json](./375977-sexuality-with-girlfriends-laler-and-reese.json) |
 | SexWife: No Limit | 259854 | [259854-sexwife-no-limit.json](./259854-sexwife-no-limit.json) |
@@ -8934,6 +8939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot'n'Scroll 3D | 109875 | [109875-shootnscroll-3d.json](./109875-shootnscroll-3d.json) |
 | Shoot'n'Shell | 339306 | [339306-shootnshell.json](./339306-shootnshell.json) |
 | Shootball Arena | 196641 | [196641-shootball-arena.json](./196641-shootball-arena.json) |
+| Shooter | 259900 | [259900-shooter.json](./259900-shooter.json) |
 | Shooter | 359367 | [359367-shooter.json](./359367-shooter.json) |
 | Shooter Buddies | 159530 | [159530-shooter-buddies.json](./159530-shooter-buddies.json) |
 | Shooter Bundle: Ghost Assassin, Hotline, Water Blast, Shadowblade, Yori's Journey | 356823 | [356823-shooter-bundle-ghost-assassin-hotline-water-blast-shadowblade-yoris-journey.json](./356823-shooter-bundle-ghost-assassin-hotline-water-blast-shadowblade-yoris-journey.json) |
@@ -10986,6 +10992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimRail: The Railway Simulator | 164278 | [164278-simrail-the-railway-simulator.json](./164278-simrail-the-railway-simulator.json) |
 | SimRail: The Railway Simulator - Cargo Pack | 295114 | [295114-simrail-the-railway-simulator-cargo-pack.json](./295114-simrail-the-railway-simulator-cargo-pack.json) |
 | SimRefinery | 72604 | [72604-simrefinery.json](./72604-simrefinery.json) |
+| Sims 4 Multiplayer | 259922 | [259922-sims-4-multiplayer.json](./259922-sims-4-multiplayer.json) |
 | SimSafari | 95477 | [95477-simsafari.json](./95477-simsafari.json) |
 | SimShock2025 | 344108 | [344108-simshock2025.json](./344108-simshock2025.json) |
 | Simsig | 125969 | [125969-simsig.json](./125969-simsig.json) |
@@ -12884,6 +12891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slashy Sushi | 99268 | [99268-slashy-sushi.json](./99268-slashy-sushi.json) |
 | SlashZero | 394680 | [394680-slashzero.json](./394680-slashzero.json) |
 | Slashzone | 356014 | [356014-slashzone.json](./356014-slashzone.json) |
+| Slask's Adventure | 259921 | [259921-slasks-adventure.json](./259921-slasks-adventure.json) |
 | Slate | 312714 | [312714-slate.json](./312714-slate.json) |
 | Slaugher League | 141529 | [141529-slaugher-league.json](./141529-slaugher-league.json) |
 | Slaughter | 26174 | [26174-slaughter.json](./26174-slaughter.json) |
@@ -19281,6 +19289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -19319,6 +19328,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders | 218440 | [218440-space-invaders.json](./218440-space-invaders.json) |
 | Space Invaders | 218445 | [218445-space-invaders.json](./218445-space-invaders.json) |
 | Space Invaders | 238670 | [238670-space-invaders.json](./238670-space-invaders.json) |
+| Space Invaders | 259936 | [259936-space-invaders.json](./259936-space-invaders.json) |
+| Space Invaders | 259937 | [259937-space-invaders.json](./259937-space-invaders.json) |
 | Space Invaders | 266956 | [266956-space-invaders.json](./266956-space-invaders.json) |
 | Space Invaders | 266958 | [266958-space-invaders.json](./266958-space-invaders.json) |
 | Space Invaders | 266959 | [266959-space-invaders.json](./266959-space-invaders.json) |
@@ -23844,6 +23855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Revenge 6.5: Wrath of the Dim. Flower | 260827 | [260827-star-revenge-6-5-wrath-of-the-dim-flower.json](./260827-star-revenge-6-5-wrath-of-the-dim-flower.json) |
 | Star Revenge 6.5: Wrath of The Dim. Flower PC Port | 378270 | [378270-star-revenge-6-5-wrath-of-the-dim-flower-pc-port.json](./378270-star-revenge-6-5-wrath-of-the-dim-flower-pc-port.json) |
 | Star Revenge 6.9: Luigi Lost in Time | 285679 | [285679-star-revenge-6-9-luigi-lost-in-time.json](./285679-star-revenge-6-9-luigi-lost-in-time.json) |
+| Star Revenge 8: Scepter of Hope | 259927 | [259927-star-revenge-8-scepter-of-hope.json](./259927-star-revenge-8-scepter-of-hope.json) |
 | Star Revenge Redone PC | 378291 | [378291-star-revenge-redone-pc.json](./378291-star-revenge-redone-pc.json) |
 | Star Revenge X: Discord Star Adventure | 285681 | [285681-star-revenge-x-discord-star-adventure.json](./285681-star-revenge-x-discord-star-adventure.json) |
 | Star Rider | 24012 | [24012-star-rider.json](./24012-star-rider.json) |
@@ -25589,6 +25601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steampunk Jigsaw Puzzles: The Great Battle | 266595 | [266595-steampunk-jigsaw-puzzles-the-great-battle.json](./266595-steampunk-jigsaw-puzzles-the-great-battle.json) |
 | Steampunk Jigsaw Puzzles: The Wild West | 265516 | [265516-steampunk-jigsaw-puzzles-the-wild-west.json](./265516-steampunk-jigsaw-puzzles-the-wild-west.json) |
 | Steampunk Racing 3D | 252141 | [252141-steampunk-racing-3d.json](./252141-steampunk-racing-3d.json) |
+| Steampunk Runner | 259909 | [259909-steampunk-runner.json](./259909-steampunk-runner.json) |
 | Steampunk Shinobi | 324946 | [324946-steampunk-shinobi.json](./324946-steampunk-shinobi.json) |
 | SteamPunk Sky | 88169 | [88169-steampunk-sky.json](./88169-steampunk-sky.json) |
 | Steampunk Syndicate | 29666 | [29666-steampunk-syndicate.json](./29666-steampunk-syndicate.json) |
@@ -28485,8 +28498,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submachine 10: The Exit | 129555 | [129555-submachine-10-the-exit.json](./129555-submachine-10-the-exit.json) |
 | Submachine 10: The Exit | 260768 | [260768-submachine-10-the-exit.json](./260768-submachine-10-the-exit.json) |
 | Submachine 2: The Lighthouse | 129547 | [129547-submachine-2-the-lighthouse.json](./129547-submachine-2-the-lighthouse.json) |
+| Submachine 3: the Loop | 259928 | [259928-submachine-3-the-loop.json](./259928-submachine-3-the-loop.json) |
 | Submachine 3: The Loop | 129548 | [129548-submachine-3-the-loop.json](./129548-submachine-3-the-loop.json) |
 | Submachine 4: The Lab | 129549 | [129549-submachine-4-the-lab.json](./129549-submachine-4-the-lab.json) |
+| Submachine 4: The Lab | 259935 | [259935-submachine-4-the-lab.json](./259935-submachine-4-the-lab.json) |
 | Submachine 5: The Root | 129550 | [129550-submachine-5-the-root.json](./129550-submachine-5-the-root.json) |
 | Submachine 5: The Root | 260066 | [260066-submachine-5-the-root.json](./260066-submachine-5-the-root.json) |
 | Submachine 6: The Edge | 129551 | [129551-submachine-6-the-edge.json](./129551-submachine-6-the-edge.json) |
@@ -28502,6 +28517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submachine Zero: Ancient Adventure | 19295 | [19295-submachine-zero-ancient-adventure.json](./19295-submachine-zero-ancient-adventure.json) |
 | Submachine: 32 Chambers | 19324 | [19324-submachine-32-chambers.json](./19324-submachine-32-chambers.json) |
 | Submachine: 32 Chambers | 260730 | [260730-submachine-32-chambers.json](./260730-submachine-32-chambers.json) |
+| Submachine: Ancient Adventure | 259931 | [259931-submachine-ancient-adventure.json](./259931-submachine-ancient-adventure.json) |
 | Submachine: FLF | 259983 | [259983-submachine-flf.json](./259983-submachine-flf.json) |
 | Submachine: Future Loop Foundation | 19296 | [19296-submachine-future-loop-foundation.json](./19296-submachine-future-loop-foundation.json) |
 | Submansion | 334264 | [334264-submansion.json](./334264-submansion.json) |
@@ -30977,6 +30993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Lucky's Tale: Gilly Island | 171369 | [171369-super-luckys-tale-gilly-island.json](./171369-super-luckys-tale-gilly-island.json) |
 | Super Lueshi World | 268357 | [268357-super-lueshi-world.json](./268357-super-lueshi-world.json) |
 | Super Luigi 64 | 313392 | [313392-super-luigi-64.json](./313392-super-luigi-64.json) |
+| Super Luigi 64: The Flower Cup | 259926 | [259926-super-luigi-64-the-flower-cup.json](./259926-super-luigi-64-the-flower-cup.json) |
 | Super Luigi and the Golden Shrooms | 135128 | [135128-super-luigi-and-the-golden-shrooms.json](./135128-super-luigi-and-the-golden-shrooms.json) |
 | Super Luigi Bros. | 198471 | [198471-super-luigi-bros.json](./198471-super-luigi-bros.json) |
 | Super Luigi Dreams | 135129 | [135129-super-luigi-dreams.json](./135129-super-luigi-dreams.json) |
@@ -31426,6 +31443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Odyssey: The Lost Kingdoms | 344010 | [344010-super-mario-odyssey-the-lost-kingdoms.json](./344010-super-mario-odyssey-the-lost-kingdoms.json) |
 | Super Mario Odyssey: Wuhu Kingdom | 314569 | [314569-super-mario-odyssey-wuhu-kingdom.json](./314569-super-mario-odyssey-wuhu-kingdom.json) |
 | Super Mario Odyssey: Yoshi Star Kingdom | 246302 | [246302-super-mario-odyssey-yoshi-star-kingdom.json](./246302-super-mario-odyssey-yoshi-star-kingdom.json) |
+| Super Mario Omega | 259919 | [259919-super-mario-omega.json](./259919-super-mario-omega.json) |
 | Super Mario Orbit | 313087 | [313087-super-mario-orbit.json](./313087-super-mario-orbit.json) |
 | Super Mario Outbreak | 198557 | [198557-super-mario-outbreak.json](./198557-super-mario-outbreak.json) |
 | Super Mario Panic | 331984 | [331984-super-mario-panic.json](./331984-super-mario-panic.json) |
@@ -31487,6 +31505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Toxic Tension | 314110 | [314110-super-mario-toxic-tension.json](./314110-super-mario-toxic-tension.json) |
 | Super Mario Treasure World | 368158 | [368158-super-mario-treasure-world.json](./368158-super-mario-treasure-world.json) |
 | Super Mario Turd Collection | 322698 | [322698-super-mario-turd-collection.json](./322698-super-mario-turd-collection.json) |
+| Super Mario Ultimate | 259908 | [259908-super-mario-ultimate.json](./259908-super-mario-ultimate.json) |
 | Super Mario Universe | 314115 | [314115-super-mario-universe.json](./314115-super-mario-universe.json) |
 | Super Mario Universe Deluxe | 413228 | [413228-super-mario-universe-deluxe.json](./413228-super-mario-universe-deluxe.json) |
 | Super Mario Unleashed | 318455 | [318455-super-mario-unleashed.json](./318455-super-mario-unleashed.json) |
