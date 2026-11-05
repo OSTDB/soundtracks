@@ -1612,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Spire | 117686 | [117686-under-spire.json](./117686-under-spire.json) |
 | Under Stranger Stars | 116018 | [116018-under-stranger-stars.json](./116018-under-stranger-stars.json) |
 | Under the bed | 179728 | [179728-under-the-bed.json](./179728-under-the-bed.json) |
+| Under the bed | 260471 | [260471-under-the-bed.json](./260471-under-the-bed.json) |
 | Under the Black Moon | 221651 | [221651-under-the-black-moon.json](./221651-under-the-black-moon.json) |
 | Under the Blue Horizon | 312722 | [312722-under-the-blue-horizon.json](./312722-under-the-blue-horizon.json) |
 | Under The Blue Horizon: Aquarium | 320600 | [320600-under-the-blue-horizon-aquarium.json](./320600-under-the-blue-horizon-aquarium.json) |
@@ -3136,6 +3137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upptäck Rymden med Mulle Meck | 97734 | [97734-upptack-rymden-med-mulle-meck.json](./97734-upptack-rymden-med-mulle-meck.json) |
 | Uppy Cup | 233918 | [233918-uppy-cup.json](./233918-uppy-cup.json) |
 | Uprising | 257422 | [257422-uprising.json](./257422-uprising.json) |
+| Uprising | 260470 | [260470-uprising.json](./260470-uprising.json) |
 | Uprising Complete | 53878 | [53878-uprising-complete.json](./53878-uprising-complete.json) |
 | Uprising-X | 45030 | [45030-uprising-x.json](./45030-uprising-x.json) |
 | Uprising: Humanum | 248903 | [248903-uprising-humanum.json](./248903-uprising-humanum.json) |
