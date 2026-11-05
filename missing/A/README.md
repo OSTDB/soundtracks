@@ -1935,6 +1935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ablepsia | 67912 | [67912-ablepsia.json](./67912-ablepsia.json) |
 | Ablight | 278267 | [278267-ablight.json](./278267-ablight.json) |
 | Ablockalypse | 164190 | [164190-ablockalypse.json](./164190-ablockalypse.json) |
+| Abloom | 251933 | [251933-abloom.json](./251933-abloom.json) |
 | ABM Command | 304486 | [304486-abm-command.json](./304486-abm-command.json) |
 | Abmis the Lion | 70305 | [70305-abmis-the-lion.json](./70305-abmis-the-lion.json) |
 | Abnimality | 283872 | [283872-abnimality.json](./283872-abnimality.json) |
@@ -6796,6 +6797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Planet X64-2 | 270703 | [270703-alien-planet-x64-2.json](./270703-alien-planet-x64-2.json) |
 | Alien Poker | 270621 | [270621-alien-poker.json](./270621-alien-poker.json) |
 | Alien Prop Hunt | 190221 | [190221-alien-prop-hunt.json](./190221-alien-prop-hunt.json) |
+| Alien Protection | 251926 | [251926-alien-protection.json](./251926-alien-protection.json) |
 | Alien Puzzle Adventure | 84744 | [84744-alien-puzzle-adventure.json](./84744-alien-puzzle-adventure.json) |
 | Alien Quest: Eve | 159148 | [159148-alien-quest-eve.json](./159148-alien-quest-eve.json) |
 | Alien Race | 133644 | [133644-alien-race.json](./133644-alien-race.json) |
@@ -16404,6 +16406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
