@@ -1930,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardware Engineering | 31400 | [31400-hardware-engineering.json](./31400-hardware-engineering.json) |
 | Hardware Engineers | 32457 | [32457-hardware-engineers.json](./32457-hardware-engineers.json) |
 | Hardware Excalibur | 301632 | [301632-hardware-excalibur.json](./301632-hardware-excalibur.json) |
+| Hardware Hustle | 289115 | [289115-hardware-hustle.json](./289115-hardware-hustle.json) |
 | Hardware Store Simulator | 322819 | [322819-hardware-store-simulator.json](./322819-hardware-store-simulator.json) |
 | Hardware Store: Tidy Up | 419885 | [419885-hardware-store-tidy-up.json](./419885-hardware-store-tidy-up.json) |
 | Hardware Tycoon | 181235 | [181235-hardware-tycoon.json](./181235-hardware-tycoon.json) |
@@ -5687,7 +5688,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Masters | 104812 | [104812-hero-masters.json](./104812-hero-masters.json) |
 | Hero Mini Maker | 161526 | [161526-hero-mini-maker.json](./161526-hero-mini-maker.json) |
 | Hero Mission | 173412 | [173412-hero-mission.json](./173412-hero-mission.json) |
+| Hero Must Die | 289139 | [289139-hero-must-die.json](./289139-hero-must-die.json) |
 | Hero Must Die | 60035 | [60035-hero-must-die.json](./60035-hero-must-die.json) |
+| Hero Must Die: Director's Cut | 289140 | [289140-hero-must-die-directors-cut.json](./289140-hero-must-die-directors-cut.json) |
 | Hero Must Die. Again | 127334 | [127334-hero-must-die-again.json](./127334-hero-must-die-again.json) |
 | Hero Nexus | 216032 | [216032-hero-nexus.json](./216032-hero-nexus.json) |
 | Hero of Allacrost | 127885 | [127885-hero-of-allacrost.json](./127885-hero-of-allacrost.json) |
@@ -10283,6 +10286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Stunt Track Driver | 26688 | [26688-hot-wheels-stunt-track-driver.json](./26688-hot-wheels-stunt-track-driver.json) |
 | Hot Wheels Turbo Racing | 3371 | [3371-hot-wheels-turbo-racing.json](./3371-hot-wheels-turbo-racing.json) |
 | Hot Wheels Unleashed | 144072 | [144072-hot-wheels-unleashed.json](./144072-hot-wheels-unleashed.json) |
+| Hot Wheels Unleashed 2: AcceleRacers Free Pack 1 | 289159 | [289159-hot-wheels-unleashed-2-acceleracers-free-pack-1.json](./289159-hot-wheels-unleashed-2-acceleracers-free-pack-1.json) |
 | Hot Wheels Unleashed 2: AcceleRacers Free Pack 2 | 300946 | [300946-hot-wheels-unleashed-2-acceleracers-free-pack-2.json](./300946-hot-wheels-unleashed-2-acceleracers-free-pack-2.json) |
 | Hot Wheels Unleashed 2: AcceleRacers Free Pack 3 | 304810 | [304810-hot-wheels-unleashed-2-acceleracers-free-pack-3.json](./304810-hot-wheels-unleashed-2-acceleracers-free-pack-3.json) |
 | Hot Wheels Unleashed 2: Alien Encounters Expansion Pack | 302209 | [302209-hot-wheels-unleashed-2-alien-encounters-expansion-pack.json](./302209-hot-wheels-unleashed-2-alien-encounters-expansion-pack.json) |
@@ -11480,6 +11484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Horrors | 315343 | [315343-hungry-horrors.json](./315343-hungry-horrors.json) |
 | Hungry Humphrey: Eat The World | 275612 | [275612-hungry-humphrey-eat-the-world.json](./275612-hungry-humphrey-eat-the-world.json) |
 | Hungry Hungry Hippos | 335404 | [335404-hungry-hungry-hippos.json](./335404-hungry-hungry-hippos.json) |
+| Hungry Hungry Mario | 289141 | [289141-hungry-hungry-mario.json](./289141-hungry-hungry-mario.json) |
 | Hungry in Dungeon | 329660 | [329660-hungry-in-dungeon.json](./329660-hungry-in-dungeon.json) |
 | Hungry Jungle | 277988 | [277988-hungry-jungle.json](./277988-hungry-jungle.json) |
 | Hungry Knight! | 128651 | [128651-hungry-knight.json](./128651-hungry-knight.json) |
