@@ -5191,6 +5191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Pussy 4 | 214188 | [214188-hentai-pussy-4.json](./214188-hentai-pussy-4.json) |
 | Hentai Pussy 5 | 236183 | [236183-hentai-pussy-5.json](./236183-hentai-pussy-5.json) |
 | Hentai Pussy 6 | 238588 | [238588-hentai-pussy-6.json](./238588-hentai-pussy-6.json) |
+| Hentai Pussy 7 | 261049 | [261049-hentai-pussy-7.json](./261049-hentai-pussy-7.json) |
 | Hentai Puzzle | 100599 | [100599-hentai-puzzle.json](./100599-hentai-puzzle.json) |
 | Hentai Puzzle Classic | 111481 | [111481-hentai-puzzle-classic.json](./111481-hentai-puzzle-classic.json) |
 | Hentai Puzzle Collection 14 in 1 | 356982 | [356982-hentai-puzzle-collection-14-in-1.json](./356982-hentai-puzzle-collection-14-in-1.json) |
@@ -6358,6 +6359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexaMerge 2048 | 384210 | [384210-hexamerge-2048.json](./384210-hexamerge-2048.json) |
 | Hexameron: Phase One | 271773 | [271773-hexameron-phase-one.json](./271773-hexameron-phase-one.json) |
 | HexaMon | 75204 | [75204-hexamon.json](./75204-hexamon.json) |
+| Hexanaut.io | 261027 | [261027-hexanaut-io.json](./261027-hexanaut-io.json) |
 | Hexane | 214367 | [214367-hexane.json](./214367-hexane.json) |
 | Hexanome | 110601 | [110601-hexanome.json](./110601-hexanome.json) |
 | Hexapoda | 244427 | [244427-hexapoda.json](./244427-hexapoda.json) |
@@ -6415,6 +6417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexceed: Rubrum | 295865 | [295865-hexceed-rubrum.json](./295865-hexceed-rubrum.json) |
 | Hexceed: Sirius | 397878 | [397878-hexceed-sirius.json](./397878-hexceed-sirius.json) |
 | Hexceed: Stella | 155692 | [155692-hexceed-stella.json](./155692-hexceed-stella.json) |
+| Hexceed: Ventus Pack | 261051 | [261051-hexceed-ventus-pack.json](./261051-hexceed-ventus-pack.json) |
 | Hexceed: Violaceum | 342361 | [342361-hexceed-violaceum.json](./342361-hexceed-violaceum.json) |
 | Hexceed: Virdis | 342360 | [342360-hexceed-virdis.json](./342360-hexceed-virdis.json) |
 | Hexceed: Viridis Pack | 323236 | [323236-hexceed-viridis-pack.json](./323236-hexceed-viridis-pack.json) |
@@ -6934,6 +6937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Crime in Penthouse Special Edition | 240340 | [240340-hidden-object-crime-in-penthouse-special-edition.json](./240340-hidden-object-crime-in-penthouse-special-edition.json) |
 | Hidden Object: Cursed by Diamonds | 98556 | [98556-hidden-object-cursed-by-diamonds.json](./98556-hidden-object-cursed-by-diamonds.json) |
 | Hidden Object: Deck the Halls | 98385 | [98385-hidden-object-deck-the-halls.json](./98385-hidden-object-deck-the-halls.json) |
+| Hidden Object: Detective Agency the Crime of Lord | 261033 | [261033-hidden-object-detective-agency-the-crime-of-lord.json](./261033-hidden-object-detective-agency-the-crime-of-lord.json) |
 | Hidden Object: Detective Holmes - Heirloom | 166622 | [166622-hidden-object-detective-holmes-heirloom.json](./166622-hidden-object-detective-holmes-heirloom.json) |
 | Hidden Object: Detective Wiltshire Kingdom, The Book is About 33 Knight | 200199 | [200199-hidden-object-detective-wiltshire-kingdom-the-book-is-about-33-knight.json](./200199-hidden-object-detective-wiltshire-kingdom-the-book-is-about-33-knight.json) |
 | Hidden Object: Dog Happy Life | 82160 | [82160-hidden-object-dog-happy-life.json](./82160-hidden-object-dog-happy-life.json) |
@@ -7141,6 +7145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Shapes: Black Skull | 162217 | [162217-hidden-shapes-black-skull.json](./162217-hidden-shapes-black-skull.json) |
 | Hidden Shapes: Black Skull + Old West | 213794 | [213794-hidden-shapes-black-skull-old-west.json](./213794-hidden-shapes-black-skull-old-west.json) |
 | Hidden Shapes: Cat Realm | 220037 | [220037-hidden-shapes-cat-realm.json](./220037-hidden-shapes-cat-realm.json) |
+| Hidden Shapes: Cat Realm + Trick or Cats | 261006 | [261006-hidden-shapes-cat-realm-trick-or-cats.json](./261006-hidden-shapes-cat-realm-trick-or-cats.json) |
 | Hidden Shapes: Lovely Cats | 148466 | [148466-hidden-shapes-lovely-cats.json](./148466-hidden-shapes-lovely-cats.json) |
 | Hidden Shapes: Trick or Cats | 220427 | [220427-hidden-shapes-trick-or-cats.json](./220427-hidden-shapes-trick-or-cats.json) |
 | Hidden Sheep Puzzle | 395839 | [395839-hidden-sheep-puzzle.json](./395839-hidden-sheep-puzzle.json) |
@@ -7749,6 +7754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hikibyou 2 | 29605 | [29605-hikibyou-2.json](./29605-hikibyou-2.json) |
 | Hikibyou2 | 273923 | [273923-hikibyou2.json](./273923-hikibyou2.json) |
 | HikiDama | 335358 | [335358-hikidama.json](./335358-hikidama.json) |
+| Hikidashi Aita | 261032 | [261032-hikidashi-aita.json](./261032-hikidashi-aita.json) |
 | Hikikomori Life | 169864 | [169864-hikikomori-life.json](./169864-hikikomori-life.json) |
 | Hikikomori No Chuunibyou | 32072 | [32072-hikikomori-no-chuunibyou.json](./32072-hikikomori-no-chuunibyou.json) |
 | Hiking Simulator 2017 | 55491 | [55491-hiking-simulator-2017.json](./55491-hiking-simulator-2017.json) |
@@ -7849,6 +7855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himitsu Chouhou Buin: 00Nanako-chan | 80246 | [80246-himitsu-chouhou-buin-00nanako-chan.json](./80246-himitsu-chouhou-buin-00nanako-chan.json) |
 | Himitsu Chouhou Buin: 00Nanako-chan II | 66055 | [66055-himitsu-chouhou-buin-00nanako-chan-ii.json](./66055-himitsu-chouhou-buin-00nanako-chan-ii.json) |
 | Himitsu Chouhou Buin: 00Nanako-chan III | 85875 | [85875-himitsu-chouhou-buin-00nanako-chan-iii.json](./85875-himitsu-chouhou-buin-00nanako-chan-iii.json) |
+| Himitsu Kessha Q | 261031 | [261031-himitsu-kessha-q.json](./261031-himitsu-kessha-q.json) |
 | Himitsu no AiPri | 284918 | [284918-himitsu-no-aipri.json](./284918-himitsu-no-aipri.json) |
 | Himitsu no Ooku | 67771 | [67771-himitsu-no-ooku.json](./67771-himitsu-no-ooku.json) |
 | Himitsu Project | 137802 | [137802-himitsu-project.json](./137802-himitsu-project.json) |
