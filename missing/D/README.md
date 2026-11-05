@@ -6836,7 +6836,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derby Stallion P | 59387 | [59387-derby-stallion-p.json](./59387-derby-stallion-p.json) |
 | Derby Time 2006 | 269489 | [269489-derby-time-2006.json](./269489-derby-time-2006.json) |
 | Derby Time Online | 7287 | [7287-derby-time-online.json](./7287-derby-time-online.json) |
+| Derby Tsuku 2 | 283369 | [283369-derby-tsuku-2.json](./283369-derby-tsuku-2.json) |
 | Derby Tsuku 3: Derby-ba wo Tsukurou! | 288143 | [288143-derby-tsuku-3-derby-ba-wo-tsukurou.json](./288143-derby-tsuku-3-derby-ba-wo-tsukurou.json) |
+| Derby Tsuku: Derby Uma wo Tsukurou! | 283370 | [283370-derby-tsuku-derby-uma-wo-tsukurou.json](./283370-derby-tsuku-derby-uma-wo-tsukurou.json) |
 | Derby: Extreme Racing | 122131 | [122131-derby-extreme-racing.json](./122131-derby-extreme-racing.json) |
 | Dere Evil.Exe | 104080 | [104080-dere-evil-exe.json](./104080-dere-evil-exe.json) |
 | Dere Exe: Classic Edition | 170220 | [170220-dere-exe-classic-edition.json](./170220-dere-exe-classic-edition.json) |
@@ -7526,6 +7528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Araka | 334313 | [334313-detective-araka.json](./334313-detective-araka.json) |
 | Detective Barbie 2: The Vacation Mystery | 197864 | [197864-detective-barbie-2-the-vacation-mystery.json](./197864-detective-barbie-2-the-vacation-mystery.json) |
 | Detective Barbie: The Mystery Cruise | 43915 | [43915-detective-barbie-the-mystery-cruise.json](./43915-detective-barbie-the-mystery-cruise.json) |
+| Detective Bass 2: The Case of the Stolen Pearls | 283356 | [283356-detective-bass-2-the-case-of-the-stolen-pearls.json](./283356-detective-bass-2-the-case-of-the-stolen-pearls.json) |
 | Detective Bass: Fish Out Of Water | 299369 | [299369-detective-bass-fish-out-of-water.json](./299369-detective-bass-fish-out-of-water.json) |
 | Detective Bloodphobia | 374913 | [374913-detective-bloodphobia.json](./374913-detective-bloodphobia.json) |
 | Detective Bogey | 389380 | [389380-detective-bogey.json](./389380-detective-bogey.json) |
@@ -8561,6 +8564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die drei ??? 3 - Gespensterjagd | 142239 | [142239-die-drei-3-gespensterjagd.json](./142239-die-drei-3-gespensterjagd.json) |
 | Die drei ??? Das Geheimnis der Geisterinsel | 269702 | [269702-die-drei-das-geheimnis-der-geisterinsel.json](./269702-die-drei-das-geheimnis-der-geisterinsel.json) |
 | Die drei ??? Das Geheimnis der Toten | 269704 | [269704-die-drei-das-geheimnis-der-toten.json](./269704-die-drei-das-geheimnis-der-toten.json) |
+| Die Drei ??? und der Riesenkrake | 283439 | [283439-die-drei-und-der-riesenkrake.json](./283439-die-drei-und-der-riesenkrake.json) |
 | Die drei ???: Das Gold der Inkas | 361324 | [361324-die-drei-das-gold-der-inkas.json](./361324-die-drei-das-gold-der-inkas.json) |
 | Die drei ???: Fluch des Flaschenteufels | 262522 | [262522-die-drei-fluch-des-flaschenteufels.json](./262522-die-drei-fluch-des-flaschenteufels.json) |
 | Die Drei ???: Ruf Der Trolle | 371610 | [371610-die-drei-ruf-der-trolle.json](./371610-die-drei-ruf-der-trolle.json) |
@@ -12162,7 +12166,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Look Away | 221188 | [221188-dont-look-away.json](./221188-dont-look-away.json) |
 | Don't Look Away 2 | 359078 | [359078-dont-look-away-2.json](./359078-dont-look-away-2.json) |
 | Don't Look Away from the Colors | 177257 | [177257-dont-look-away-from-the-colors.json](./177257-dont-look-away-from-the-colors.json) |
-| Don't Look Back | 29302 | [29302-dont-look-back.json](./29302-dont-look-back.json) |
 | Don't Look Back | 343785 | [343785-dont-look-back.json](./343785-dont-look-back.json) |
 | Don't Look Back | 95057 | [95057-dont-look-back.json](./95057-dont-look-back.json) |
 | Don't Look Back! | 317395 | [317395-dont-look-back.json](./317395-dont-look-back.json) |
