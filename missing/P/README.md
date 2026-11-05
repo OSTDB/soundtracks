@@ -665,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint | 260171 | [260171-paint.json](./260171-paint.json) |
 | Paint Ball | 255499 | [255499-paint-ball.json](./255499-paint-ball.json) |
 | Paint Ball | 397656 | [397656-paint-ball.json](./397656-paint-ball.json) |
+| Paint Bowl | 256035 | [256035-paint-bowl.json](./256035-paint-bowl.json) |
 | Paint Boy | 328591 | [328591-paint-boy.json](./328591-paint-boy.json) |
 | Paint by DS | 79868 | [79868-paint-by-ds.json](./79868-paint-by-ds.json) |
 | Paint by DS: Classical Masterpieces | 68405 | [68405-paint-by-ds-classical-masterpieces.json](./68405-paint-by-ds-classical-masterpieces.json) |
@@ -18035,6 +18036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Girls: Lingerie | 109492 | [109492-puzzle-girls-lingerie.json](./109492-puzzle-girls-lingerie.json) |
 | Puzzle Girls: Seductive Nights | 410373 | [410373-puzzle-girls-seductive-nights.json](./410373-puzzle-girls-seductive-nights.json) |
 | Puzzle Glow : Brain Puzzle Game Collection | 109223 | [109223-puzzle-glow-brain-puzzle-game-collection.json](./109223-puzzle-glow-brain-puzzle-game-collection.json) |
+| Puzzle Go | 256040 | [256040-puzzle-go.json](./256040-puzzle-go.json) |
 | Puzzle Go! | 251729 | [251729-puzzle-go.json](./251729-puzzle-go.json) |
 | Puzzle Gods | 232103 | [232103-puzzle-gods.json](./232103-puzzle-gods.json) |
 | Puzzle Grid | 263571 | [263571-puzzle-grid.json](./263571-puzzle-grid.json) |
