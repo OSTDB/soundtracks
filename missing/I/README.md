@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Dont Even Know | 294413 | [294413-i-dont-even-know.json](./294413-i-dont-even-know.json) |
 | I dream of you and ice cream | 135654 | [135654-i-dream-of-you-and-ice-cream.json](./135654-i-dream-of-you-and-ice-cream.json) |
 | I Dreamed about static again | 378565 | [378565-i-dreamed-about-static-again.json](./378565-i-dreamed-about-static-again.json) |
+| I Dreamed of Dead Stars | 276534 | [276534-i-dreamed-of-dead-stars.json](./276534-i-dreamed-of-dead-stars.json) |
 | I Dreamt of Something Lost | 364232 | [364232-i-dreamt-of-something-lost.json](./364232-i-dreamt-of-something-lost.json) |
 | I Drink Sorrel Coffee to Reboot Reality, but I’m Being Hunted by Monster Girls and Armed Agents | 334284 | [334284-i-drink-sorrel-coffee-to-reboot-reality-but-i-m-being-hunted-by-monster-girls-and-armed-agents.json](./334284-i-drink-sorrel-coffee-to-reboot-reality-but-i-m-being-hunted-by-monster-girls-and-armed-agents.json) |
 | I Eat Paintings When Guards Aren't Looking | 394506 | [394506-i-eat-paintings-when-guards-arent-looking.json](./394506-i-eat-paintings-when-guards-arent-looking.json) |
@@ -3760,7 +3761,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5795,6 +5795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ironsmith Medieval Simulator | 122862 | [122862-ironsmith-medieval-simulator.json](./122862-ironsmith-medieval-simulator.json) |
 | Ironsmith Simulator | 111975 | [111975-ironsmith-simulator.json](./111975-ironsmith-simulator.json) |
 | IronStorm - World War Zero | 44641 | [44641-ironstorm-world-war-zero.json](./44641-ironstorm-world-war-zero.json) |
+| IronStrike | 276545 | [276545-ironstrike.json](./276545-ironstrike.json) |
 | IronSurvival | 155890 | [155890-ironsurvival.json](./155890-ironsurvival.json) |
 | Ironsword: Wizards & Warriors II | 48053 | [48053-ironsword-wizards-and-warriors-ii.json](./48053-ironsword-wizards-and-warriors-ii.json) |
 | IronTusk's Diablo3D | 202847 | [202847-irontusks-diablo3d.json](./202847-irontusks-diablo3d.json) |
