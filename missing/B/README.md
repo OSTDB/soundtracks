@@ -11313,6 +11313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Energy | 156965 | [156965-blue-energy.json](./156965-blue-energy.json) |
 | Blue Epic | 249795 | [249795-blue-epic.json](./249795-blue-epic.json) |
 | Blue Estate | 7439 | [7439-blue-estate.json](./7439-blue-estate.json) |
+| Blue Eyes | 295572 | [295572-blue-eyes.json](./295572-blue-eyes.json) |
 | Blue fencer Resurrection | 159860 | [159860-blue-fencer-resurrection.json](./159860-blue-fencer-resurrection.json) |
 | Blue Fire | 131868 | [131868-blue-fire.json](./131868-blue-fire.json) |
 | Blue Fire: Void Maker | 188823 | [188823-blue-fire-void-maker.json](./188823-blue-fire-void-maker.json) |
