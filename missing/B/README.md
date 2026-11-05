@@ -953,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1613,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballhalla | 339606 | [339606-ballhalla.json](./339606-ballhalla.json) |
 | Ballimals | 67594 | [67594-ballimals.json](./67594-ballimals.json) |
 | Ballin' | 173239 | [173239-ballin.json](./173239-ballin.json) |
+| Balling Up | 267745 | [267745-balling-up.json](./267745-balling-up.json) |
 | Ballionaire | 274333 | [274333-ballionaire.json](./274333-ballionaire.json) |
 | Ballista | 193691 | [193691-ballista.json](./193691-ballista.json) |
 | Ballista Legend | 117038 | [117038-ballista-legend.json](./117038-ballista-legend.json) |
@@ -15049,6 +15051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brewess | 245835 | [245835-brewess.json](./245835-brewess.json) |
 | Brewgether | 406123 | [406123-brewgether.json](./406123-brewgether.json) |
 | Brewing Drawings | 184891 | [184891-brewing-drawings.json](./184891-brewing-drawings.json) |
+| Brewing Haus | 267744 | [267744-brewing-haus.json](./267744-brewing-haus.json) |
 | Brewmaster | 145287 | [145287-brewmaster.json](./145287-brewmaster.json) |
 | Brewmastery: Tavern Simulator | 216697 | [216697-brewmastery-tavern-simulator.json](./216697-brewmastery-tavern-simulator.json) |
 | Brewpub Simulator | 213483 | [213483-brewpub-simulator.json](./213483-brewpub-simulator.json) |
@@ -16383,6 +16386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buddy | 32558 | [32558-buddy.json](./32558-buddy.json) |
 | Buddy & Friends: Santa's Workshop Animal Party | 283299 | [283299-buddy-and-friends-santas-workshop-animal-party.json](./283299-buddy-and-friends-santas-workshop-animal-party.json) |
 | Buddy & Me | 61874 | [61874-buddy-and-me.json](./61874-buddy-and-me.json) |
+| Buddy and Friends on Halloween | 267743 | [267743-buddy-and-friends-on-halloween.json](./267743-buddy-and-friends-on-halloween.json) |
 | Buddy Bash | 129091 | [129091-buddy-bash.json](./129091-buddy-bash.json) |
 | Buddy Bug | 335359 | [335359-buddy-bug.json](./335359-buddy-bug.json) |
 | Buddy Canine Ballcaster | 271866 | [271866-buddy-canine-ballcaster.json](./271866-buddy-canine-ballcaster.json) |
@@ -17388,6 +17392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buried Tapes: The Cleaner | 365598 | [365598-buried-tapes-the-cleaner.json](./365598-buried-tapes-the-cleaner.json) |
 | Buried Tapes: The Parking | 379605 | [379605-buried-tapes-the-parking.json](./379605-buried-tapes-the-parking.json) |
 | Buried: An Interactive Story | 33689 | [33689-buried-an-interactive-story.json](./33689-buried-an-interactive-story.json) |
+| Buriedbornes 2 | 267742 | [267742-buriedbornes-2.json](./267742-buriedbornes-2.json) |
 | BuriedTown | 33786 | [33786-buriedtown.json](./33786-buriedtown.json) |
 | Buriki One | 28139 | [28139-buriki-one.json](./28139-buriki-one.json) |
 | Burkina Faso: Radical Insurgency | 293518 | [293518-burkina-faso-radical-insurgency.json](./293518-burkina-faso-radical-insurgency.json) |
@@ -17646,6 +17651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 21: Next Stop - Official Map Extension | 249884 | [249884-bus-simulator-21-next-stop-official-map-extension.json](./249884-bus-simulator-21-next-stop-official-map-extension.json) |
 | Bus Simulator 21: Next Stop - Official School Bus Extension | 264117 | [264117-bus-simulator-21-next-stop-official-school-bus-extension.json](./264117-bus-simulator-21-next-stop-official-school-bus-extension.json) |
 | Bus Simulator 21: Next Stop - Official Tram Extension | 274602 | [274602-bus-simulator-21-next-stop-official-tram-extension.json](./274602-bus-simulator-21-next-stop-official-tram-extension.json) |
+| Bus Simulator 21: Next Stop - Thomas Built Buses Bus Pack | 267746 | [267746-bus-simulator-21-next-stop-thomas-built-buses-bus-pack.json](./267746-bus-simulator-21-next-stop-thomas-built-buses-bus-pack.json) |
 | Bus Simulator 21: Next Stop - VDL Bus Pack | 250418 | [250418-bus-simulator-21-next-stop-vdl-bus-pack.json](./250418-bus-simulator-21-next-stop-vdl-bus-pack.json) |
 | Bus Simulator 21: Protect Nature Interior Pack | 213950 | [213950-bus-simulator-21-protect-nature-interior-pack.json](./213950-bus-simulator-21-protect-nature-interior-pack.json) |
 | Bus Simulator 21: USA Skin Pack | 213849 | [213849-bus-simulator-21-usa-skin-pack.json](./213849-bus-simulator-21-usa-skin-pack.json) |
@@ -18020,6 +18026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bygone Worlds: Drama at the Odeion | 76521 | [76521-bygone-worlds-drama-at-the-odeion.json](./76521-bygone-worlds-drama-at-the-odeion.json) |
 | Bygone Worlds: Ephesus | 75391 | [75391-bygone-worlds-ephesus.json](./75391-bygone-worlds-ephesus.json) |
 | Bygone Worlds: Jerusalem | 74446 | [74446-bygone-worlds-jerusalem.json](./74446-bygone-worlds-jerusalem.json) |
+| Byle | 267748 | [267748-byle.json](./267748-byle.json) |
 | Bylina | 319454 | [319454-bylina.json](./319454-bylina.json) |
 | Bylina: Lure of the Sorceress | 298720 | [298720-bylina-lure-of-the-sorceress.json](./298720-bylina-lure-of-the-sorceress.json) |
 | Bylista: Vasna | 188774 | [188774-bylista-vasna.json](./188774-bylista-vasna.json) |
