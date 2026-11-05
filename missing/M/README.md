@@ -5819,7 +5819,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -11955,6 +11954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine | 311988 | [311988-mine.json](./311988-mine.json) |
 | Mine | 385265 | [385265-mine.json](./385265-mine.json) |
 | Mine & Ship Bundle: Gold Mining & Ship Graveyard Simulator 2 | 340950 | [340950-mine-and-ship-bundle-gold-mining-and-ship-graveyard-simulator-2.json](./340950-mine-and-ship-bundle-gold-mining-and-ship-graveyard-simulator-2.json) |
+| Mine & Slash | 263856 | [263856-mine-and-slash.json](./263856-mine-and-slash.json) |
 | Mine Battles | 236971 | [236971-mine-battles.json](./236971-mine-battles.json) |
 | Mine Blast | 96758 | [96758-mine-blast.json](./96758-mine-blast.json) |
 | Mine Blocks | 187023 | [187023-mine-blocks.json](./187023-mine-blocks.json) |
@@ -11987,6 +11987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine or Die | 99115 | [99115-mine-or-die.json](./99115-mine-or-die.json) |
 | Mine Puzzle Pieces of Flower Garden World | 379027 | [379027-mine-puzzle-pieces-of-flower-garden-world.json](./379027-mine-puzzle-pieces-of-flower-garden-world.json) |
 | Mine Quest | 196868 | [196868-mine-quest.json](./196868-mine-quest.json) |
+| Mine Rescue! | 263860 | [263860-mine-rescue.json](./263860-mine-rescue.json) |
 | Mine Royale - Battle Royale | 111408 | [111408-mine-royale-battle-royale.json](./111408-mine-royale-battle-royale.json) |
 | Mine Runner | 426417 | [426417-mine-runner.json](./426417-mine-runner.json) |
 | Mine Safety | 347472 | [347472-mine-safety.json](./347472-mine-safety.json) |
@@ -13865,6 +13866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixx Island: Remix Plus - Ultra Special | 308820 | [308820-mixx-island-remix-plus-ultra-special.json](./308820-mixx-island-remix-plus-ultra-special.json) |
 | Mixx Island: Remix Plus - Ultra Ultimate | 303860 | [303860-mixx-island-remix-plus-ultra-ultimate.json](./303860-mixx-island-remix-plus-ultra-ultimate.json) |
 | Mixx Island: Remix Vol. 2 | 186316 | [186316-mixx-island-remix-vol-2.json](./186316-mixx-island-remix-vol-2.json) |
+| Miya | 263854 | [263854-miya.json](./263854-miya.json) |
 | Miya Might Break | 390138 | [390138-miya-might-break.json](./390138-miya-might-break.json) |
 | Miya's Everyday Joy of Cooking | 202144 | [202144-miyas-everyday-joy-of-cooking.json](./202144-miyas-everyday-joy-of-cooking.json) |
 | Miyaji Shachou no Pachinko Fan: Shouri Sengen 2 | 37925 | [37925-miyaji-shachou-no-pachinko-fan-shouri-sengen-2.json](./37925-miyaji-shachou-no-pachinko-fan-shouri-sengen-2.json) |
@@ -13952,6 +13954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Bobblehead Battle | 84443 | [84443-mlb-bobblehead-battle.json](./84443-mlb-bobblehead-battle.json) |
 | MLB Bobblehead Pros | 20562 | [20562-mlb-bobblehead-pros.json](./20562-mlb-bobblehead-pros.json) |
 | MLB Champions | 130783 | [130783-mlb-champions.json](./130783-mlb-champions.json) |
+| MLB Clutch Hit Baseball 2023 | 263848 | [263848-mlb-clutch-hit-baseball-2023.json](./263848-mlb-clutch-hit-baseball-2023.json) |
 | MLB Dream Nine Mobile | 291156 | [291156-mlb-dream-nine-mobile.json](./291156-mlb-dream-nine-mobile.json) |
 | MLB Dugout Heroes | 91746 | [91746-mlb-dugout-heroes.json](./91746-mlb-dugout-heroes.json) |
 | MLB Front Office Manager | 7073 | [7073-mlb-front-office-manager.json](./7073-mlb-front-office-manager.json) |
