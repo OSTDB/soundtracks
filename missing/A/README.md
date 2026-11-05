@@ -6845,6 +6845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien War Girl | 111072 | [111072-alien-war-girl.json](./111072-alien-war-girl.json) |
 | Alien Wars | 241241 | [241241-alien-wars.json](./241241-alien-wars.json) |
 | Alien Weapon Test Grounds | 310209 | [310209-alien-weapon-test-grounds.json](./310209-alien-weapon-test-grounds.json) |
+| Alien Wipeout | 272041 | [272041-alien-wipeout.json](./272041-alien-wipeout.json) |
 | Alien World | 11893 | [11893-alien-world.json](./11893-alien-world.json) |
 | Alien World Millionaire | 169619 | [169619-alien-world-millionaire.json](./169619-alien-world-millionaire.json) |
 | Alien Worlds | 93075 | [93075-alien-worlds.json](./93075-alien-worlds.json) |
