@@ -6427,6 +6427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Happened Here: Streaming Lives - Collector's Edition | 237567 | [237567-it-happened-here-streaming-lives-collectors-edition.json](./237567-it-happened-here-streaming-lives-collectors-edition.json) |
 | IT Hell | 249827 | [249827-it-hell.json](./249827-it-hell.json) |
 | It is a Good Knight to Die | 236917 | [236917-it-is-a-good-knight-to-die.json](./236917-it-is-a-good-knight-to-die.json) |
+| It Is As if You Were Doing Work | 246710 | [246710-it-is-as-if-you-were-doing-work.json](./246710-it-is-as-if-you-were-doing-work.json) |
 | It Is Coming | 335665 | [335665-it-is-coming.json](./335665-it-is-coming.json) |
 | It is Highnoon | 197740 | [197740-it-is-highnoon.json](./197740-it-is-highnoon.json) |
 | It Is Over 2024 | 282618 | [282618-it-is-over-2024.json](./282618-it-is-over-2024.json) |
