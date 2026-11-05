@@ -13603,6 +13603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Précipice | 415251 | [415251-precipice.json](./415251-precipice.json) |
 | Precipice Pain | 308245 | [308245-precipice-pain.json](./308245-precipice-pain.json) |
 | Precipitous | 279073 | [279073-precipitous.json](./279073-precipitous.json) |
+| Precision | 262028 | [262028-precision.json](./262028-precision.json) |
 | Precision Archery: Competitive | 83608 | [83608-precision-archery-competitive.json](./83608-precision-archery-competitive.json) |
 | Precision Break | 215330 | [215330-precision-break.json](./215330-precision-break.json) |
 | Precision of Insight | 249925 | [249925-precision-of-insight.json](./249925-precision-of-insight.json) |
