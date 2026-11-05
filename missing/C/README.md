@@ -867,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Warzone | 332489 | [332489-call-of-warzone.json](./332489-call-of-warzone.json) |
 | Call of Yucatán | 341943 | [341943-call-of-yucatan.json](./341943-call-of-yucatan.json) |
 | Call of Zombie | 252400 | [252400-call-of-zombie.json](./252400-call-of-zombie.json) |
+| Call Sign is Magic Liner | 267749 | [267749-call-sign-is-magic-liner.json](./267749-call-sign-is-magic-liner.json) |
 | Call The Abyss | 328191 | [328191-call-the-abyss.json](./328191-call-the-abyss.json) |
 | Call the Tune | 320883 | [320883-call-the-tune.json](./320883-call-the-tune.json) |
 | Call to Arms | 100182 | [100182-call-to-arms.json](./100182-call-to-arms.json) |
@@ -2052,6 +2053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Detailing & Wash Simulator: Luxury Car Cleaner | 328728 | [328728-car-detailing-and-wash-simulator-luxury-car-cleaner.json](./328728-car-detailing-and-wash-simulator-luxury-car-cleaner.json) |
 | Car Detailing Cleaner Simulator | 288761 | [288761-car-detailing-cleaner-simulator.json](./288761-car-detailing-cleaner-simulator.json) |
 | Car Detailing Simulator | 182487 | [182487-car-detailing-simulator.json](./182487-car-detailing-simulator.json) |
+| Car Detailing Simulator VR | 267725 | [267725-car-detailing-simulator-vr.json](./267725-car-detailing-simulator-vr.json) |
 | Car Down | 405038 | [405038-car-down.json](./405038-car-down.json) |
 | Car Drag Racing Simulator | 253227 | [253227-car-drag-racing-simulator.json](./253227-car-drag-racing-simulator.json) |
 | Car Drawing Game | 181806 | [181806-car-drawing-game.json](./181806-car-drawing-game.json) |
@@ -2263,6 +2265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caravanserail | 33387 | [33387-caravanserail.json](./33387-caravanserail.json) |
 | Caravel: Deadly Rooms of Death | 69705 | [69705-caravel-deadly-rooms-of-death.json](./69705-caravel-deadly-rooms-of-death.json) |
 | Carbage | 130766 | [130766-carbage.json](./130766-carbage.json) |
+| Carball 360 | 267747 | [267747-carball-360.json](./267747-carball-360.json) |
 | Carbon | 304533 | [304533-carbon.json](./304533-carbon.json) |
 | Carbon Battle Royale | 143717 | [143717-carbon-battle-royale.json](./143717-carbon-battle-royale.json) |
 | Carbón Heart | 294949 | [294949-carbon-heart.json](./294949-carbon-heart.json) |
@@ -5388,6 +5391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chagunitzu | 79586 | [79586-chagunitzu.json](./79586-chagunitzu.json) |
 | Chai | 236280 | [236280-chai.json](./236280-chai.json) |
 | Chai Glide | 414443 | [414443-chai-glide.json](./414443-chai-glide.json) |
+| Chain | 267729 | [267729-chain.json](./267729-chain.json) |
 | Chain Blaster | 84578 | [84578-chain-blaster.json](./84578-chain-blaster.json) |
 | Chain Break | 159355 | [159355-chain-break.json](./159355-chain-break.json) |
 | Chain Car Stunt Simulator: 3D Extreme Highway Car Driving Games | 233680 | [233680-chain-car-stunt-simulator-3d-extreme-highway-car-driving-games.json](./233680-chain-car-stunt-simulator-3d-extreme-highway-car-driving-games.json) |
@@ -5397,6 +5401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain Corp | 351115 | [351115-chain-corp.json](./351115-chain-corp.json) |
 | Chain Crisis | 271288 | [271288-chain-crisis.json](./271288-chain-crisis.json) |
 | Chain Crusher | 124771 | [124771-chain-crusher.json](./124771-chain-crusher.json) |
+| Chain Drop | 267728 | [267728-chain-drop.json](./267728-chain-drop.json) |
 | Chain Fury | 181756 | [181756-chain-fury.json](./181756-chain-fury.json) |
 | Chain Gun | 202033 | [202033-chain-gun.json](./202033-chain-gun.json) |
 | Chain Letter | 232119 | [232119-chain-letter.json](./232119-chain-letter.json) |
@@ -5530,6 +5535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Challenge Shot | 385555 | [385555-challenge-shot.json](./385555-challenge-shot.json) |
 | Challenge Speedball | 157029 | [157029-challenge-speedball.json](./157029-challenge-speedball.json) |
 | Challenge Together! Elementary School Quiz | 399620 | [399620-challenge-together-elementary-school-quiz.json](./399620-challenge-together-elementary-school-quiz.json) |
+| Challenge Tour | 267727 | [267727-challenge-tour.json](./267727-challenge-tour.json) |
 | Challenge! | 68608 | [68608-challenge.json](./68608-challenge.json) |
 | Challenger | 136979 | [136979-challenger.json](./136979-challenger.json) |
 | Challenger | 176104 | [176104-challenger.json](./176104-challenger.json) |
@@ -14345,6 +14351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corecraft | 307107 | [307107-corecraft.json](./307107-corecraft.json) |
 | Coredump | 408440 | [408440-coredump.json](./408440-coredump.json) |
 | Coregrounds | 11344 | [11344-coregrounds.json](./11344-coregrounds.json) |
+| Coreless | 267730 | [267730-coreless.json](./267730-coreless.json) |
 | Corelith | 406237 | [406237-corelith.json](./406237-corelith.json) |
 | Corenoid: Let's Build Steel Maidens | 82623 | [82623-corenoid-lets-build-steel-maidens.json](./82623-corenoid-lets-build-steel-maidens.json) |
 | CorePiercer | 159716 | [159716-corepiercer.json](./159716-corepiercer.json) |
@@ -14772,6 +14779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Monsters 2 Enclaves Dawn | 195264 | [195264-cosmic-monsters-2-enclaves-dawn.json](./195264-cosmic-monsters-2-enclaves-dawn.json) |
 | Cosmic Osmo and the Worlds Beyond the Mackerel | 16200 | [16200-cosmic-osmo-and-the-worlds-beyond-the-mackerel.json](./16200-cosmic-osmo-and-the-worlds-beyond-the-mackerel.json) |
 | Cosmic Outpost | 303738 | [303738-cosmic-outpost.json](./303738-cosmic-outpost.json) |
+| Cosmic Panic | 267726 | [267726-cosmic-panic.json](./267726-cosmic-panic.json) |
 | Cosmic Paradox: Noire | 290621 | [290621-cosmic-paradox-noire.json](./290621-cosmic-paradox-noire.json) |
 | Cosmic Parkour: Infinite Journey | 305672 | [305672-cosmic-parkour-infinite-journey.json](./305672-cosmic-parkour-infinite-journey.json) |
 | Cosmic Payback | 318230 | [318230-cosmic-payback.json](./318230-cosmic-payback.json) |
@@ -15757,6 +15765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craftsman | 167357 | [167357-craftsman.json](./167357-craftsman.json) |
 | Craftsman Story | 384524 | [384524-craftsman-story.json](./384524-craftsman-story.json) |
 | Crafty | 157157 | [157157-crafty.json](./157157-crafty.json) |
+| Crafty County | 267731 | [267731-crafty-county.json](./267731-crafty-county.json) |
 | Crafty Crasher | 349337 | [349337-crafty-crasher.json](./349337-crafty-crasher.json) |
 | Crafty Fox | 181328 | [181328-crafty-fox.json](./181328-crafty-fox.json) |
 | Crafty Lands | 249462 | [249462-crafty-lands.json](./249462-crafty-lands.json) |
@@ -18135,6 +18144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt Stalker: Extra Quests | 303874 | [303874-crypt-stalker-extra-quests.json](./303874-crypt-stalker-extra-quests.json) |
 | Crypt Stalker: Happy Edition | 306521 | [306521-crypt-stalker-happy-edition.json](./306521-crypt-stalker-happy-edition.json) |
 | Crypt Stalker: Ultimate Edition | 306522 | [306522-crypt-stalker-ultimate-edition.json](./306522-crypt-stalker-ultimate-edition.json) |
+| Crypt Survivor | 267732 | [267732-crypt-survivor.json](./267732-crypt-survivor.json) |
 | Crypt Sweeper | 381973 | [381973-crypt-sweeper.json](./381973-crypt-sweeper.json) |
 | Crypt Underworld | 109072 | [109072-crypt-underworld.json](./109072-crypt-underworld.json) |
 | Crypt Worlds | 63063 | [63063-crypt-worlds.json](./63063-crypt-worlds.json) |
@@ -18147,6 +18157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CryptaSync Cyber: Urban Depths | 271111 | [271111-cryptasync-cyber-urban-depths.json](./271111-cryptasync-cyber-urban-depths.json) |
 | Cryptbound | 349773 | [349773-cryptbound.json](./349773-cryptbound.json) |
 | Crypterion | 118584 | [118584-crypterion.json](./118584-crypterion.json) |
+| Cryptfall | 267736 | [267736-cryptfall.json](./267736-cryptfall.json) |
 | Cryptic | 122425 | [122425-cryptic.json](./122425-cryptic.json) |
 | Cryptic Castle | 146854 | [146854-cryptic-castle.json](./146854-cryptic-castle.json) |
 | Cryptic Caverns | 173810 | [173810-cryptic-caverns.json](./173810-cryptic-caverns.json) |
