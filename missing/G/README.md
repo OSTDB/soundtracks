@@ -2870,6 +2870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geniu$: The Tech Tycoon Game | 9925 | [9925-geniu-the-tech-tycoon-game.json](./9925-geniu-the-tech-tycoon-game.json) |
 | Genius - Tricky Riddles | 95309 | [95309-genius-tricky-riddles.json](./95309-genius-tricky-riddles.json) |
 | Genius At Work! | 153504 | [153504-genius-at-work.json](./153504-genius-at-work.json) |
+| Genius Bishoujo Romance Bundle | 274235 | [274235-genius-bishoujo-romance-bundle.json](./274235-genius-bishoujo-romance-bundle.json) |
 | Genius Calculator | 90265 | [90265-genius-calculator.json](./90265-genius-calculator.json) |
 | Genius Greedy Mouse: Greedy of XOR | 172368 | [172368-genius-greedy-mouse-greedy-of-xor.json](./172368-genius-greedy-mouse-greedy-of-xor.json) |
 | Genius Killer | 174749 | [174749-genius-killer.json](./174749-genius-killer.json) |
@@ -3879,6 +3880,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostbusters: Spirits Unleashed | 194682 | [194682-ghostbusters-spirits-unleashed.json](./194682-ghostbusters-spirits-unleashed.json) |
 | Ghostbusters: Spirits Unleashed - Collector's Edition | 214137 | [214137-ghostbusters-spirits-unleashed-collectors-edition.json](./214137-ghostbusters-spirits-unleashed-collectors-edition.json) |
 | Ghostbusters: Spirits Unleashed - Ecto Edition | 269357 | [269357-ghostbusters-spirits-unleashed-ecto-edition.json](./269357-ghostbusters-spirits-unleashed-ecto-edition.json) |
+| Ghostbusters: Spirits Unleashed - Free Update #2 | 274255 | [274255-ghostbusters-spirits-unleashed-free-update-2.json](./274255-ghostbusters-spirits-unleashed-free-update-2.json) |
+| Ghostbusters: Spirits Unleashed - Free Update #3 | 274272 | [274272-ghostbusters-spirits-unleashed-free-update-3.json](./274272-ghostbusters-spirits-unleashed-free-update-3.json) |
 | Ghostbusters: The Video Game | 210296 | [210296-ghostbusters-the-video-game.json](./210296-ghostbusters-the-video-game.json) |
 | Ghostbusters: The Video Game | 566 | [566-ghostbusters-the-video-game.json](./566-ghostbusters-the-video-game.json) |
 | Ghostbusters: The Video Game | 77275 | [77275-ghostbusters-the-video-game.json](./77275-ghostbusters-the-video-game.json) |
@@ -4150,6 +4153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giga Digger | 423890 | [423890-giga-digger.json](./423890-giga-digger.json) |
 | Giga Fighters Batman & Robin | 218016 | [218016-giga-fighters-batman-and-robin.json](./218016-giga-fighters-batman-and-robin.json) |
 | Giga Fighters WCW/nWo | 218017 | [218017-giga-fighters-wcw-nwo.json](./218017-giga-fighters-wcw-nwo.json) |
+| Giga Pets Explorer | 274249 | [274249-giga-pets-explorer.json](./274249-giga-pets-explorer.json) |
 | Giga Pets Plus: Rugrats | 198880 | [198880-giga-pets-plus-rugrats.json](./198880-giga-pets-plus-rugrats.json) |
 | Giga Pets: Barbie - Precious Kitty | 218051 | [218051-giga-pets-barbie-precious-kitty.json](./218051-giga-pets-barbie-precious-kitty.json) |
 | Giga Pets: Barbie - Precious Puppy | 218050 | [218050-giga-pets-barbie-precious-puppy.json](./218050-giga-pets-barbie-precious-puppy.json) |
@@ -4511,6 +4515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls' Frontline: The Lunasia Covenant | 400303 | [400303-girls-frontline-the-lunasia-covenant.json](./400303-girls-frontline-the-lunasia-covenant.json) |
 | Girls' Last Tour: Book Burning Simulator | 150558 | [150558-girls-last-tour-book-burning-simulator.json](./150558-girls-last-tour-book-burning-simulator.json) |
 | Girls' RPG: Cinderella Life | 92477 | [92477-girls-rpg-cinderella-life.json](./92477-girls-rpg-cinderella-life.json) |
+| Girlscamp | 274240 | [274240-girlscamp.json](./274240-girlscamp.json) |
 | Girlvania Expansion Pack: Legs & Feet | 316575 | [316575-girlvania-expansion-pack-legs-and-feet.json](./316575-girlvania-expansion-pack-legs-and-feet.json) |
 | Girlvania: Summer Lust | 169127 | [169127-girlvania-summer-lust.json](./169127-girlvania-summer-lust.json) |
 | Girly Block | 41716 | [41716-girly-block.json](./41716-girly-block.json) |
@@ -7977,6 +7982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graphs | 323054 | [323054-graphs.json](./323054-graphs.json) |
 | GraphSpacer | 68637 | [68637-graphspacer.json](./68637-graphspacer.json) |
 | GraphSpacer Black | 80243 | [80243-graphspacer-black.json](./80243-graphspacer-black.json) |
+| Graphsx | 274285 | [274285-graphsx.json](./274285-graphsx.json) |
 | Graphwar | 210415 | [210415-graphwar.json](./210415-graphwar.json) |
 | Graphwar II | 309395 | [309395-graphwar-ii.json](./309395-graphwar-ii.json) |
 | Grapixo Arte em Guerra | 407522 | [407522-grapixo-arte-em-guerra.json](./407522-grapixo-arte-em-guerra.json) |
