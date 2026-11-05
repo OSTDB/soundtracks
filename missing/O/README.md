@@ -3069,6 +3069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onlympic Up! | 391698 | [391698-onlympic-up.json](./391698-onlympic-up.json) |
 | OnlyRun | 370053 | [370053-onlyrun.json](./370053-onlyrun.json) |
 | OnlySluts: Waifu Match | 384717 | [384717-onlysluts-waifu-match.json](./384717-onlysluts-waifu-match.json) |
+| OnlySociety Midgard Imperial | 248961 | [248961-onlysociety-midgard-imperial.json](./248961-onlysociety-midgard-imperial.json) |
 | OnlySociety: Dawn | 223381 | [223381-onlysociety-dawn.json](./223381-onlysociety-dawn.json) |
 | OnlySociety: Secret | 285917 | [285917-onlysociety-secret.json](./285917-onlysociety-secret.json) |
 | OnlyUp! | 276124 | [276124-onlyup.json](./276124-onlyup.json) |
@@ -3440,6 +3441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Hongkong | 28698 | [28698-operation-hongkong.json](./28698-operation-hongkong.json) |
 | Operation HuntingHawk : Breakthrough | 367938 | [367938-operation-huntinghawk-breakthrough.json](./367938-operation-huntinghawk-breakthrough.json) |
 | Operation Insanity | 163829 | [163829-operation-insanity.json](./163829-operation-insanity.json) |
+| Operation Jaeger | 248970 | [248970-operation-jaeger.json](./248970-operation-jaeger.json) |
 | Operation K.A.T.B. | 225713 | [225713-operation-k-a-t-b.json](./225713-operation-k-a-t-b.json) |
 | Operation Kolpowitz | 273226 | [273226-operation-kolpowitz.json](./273226-operation-kolpowitz.json) |
 | Operation Kreep | 33418 | [33418-operation-kreep.json](./33418-operation-kreep.json) |
