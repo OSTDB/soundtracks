@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.T.A.L.K.E.R.: Dead Air | 132010 | [132010-s-t-a-l-k-e-r-dead-air.json](./132010-s-t-a-l-k-e-r-dead-air.json) |
 | S.T.A.L.K.E.R.: Escape From Pripyat | 186030 | [186030-s-t-a-l-k-e-r-escape-from-pripyat.json](./186030-s-t-a-l-k-e-r-escape-from-pripyat.json) |
 | S.T.A.L.K.E.R.: Incubator | 353303 | [353303-s-t-a-l-k-e-r-incubator.json](./353303-s-t-a-l-k-e-r-incubator.json) |
+| S.T.A.L.K.E.R.: Legends of the Zone Trilogy | 289593 | [289593-s-t-a-l-k-e-r-legends-of-the-zone-trilogy.json](./289593-s-t-a-l-k-e-r-legends-of-the-zone-trilogy.json) |
 | S.T.A.L.K.E.R.: Lost Alpha | 77225 | [77225-s-t-a-l-k-e-r-lost-alpha.json](./77225-s-t-a-l-k-e-r-lost-alpha.json) |
 | S.T.A.L.K.E.R.: Misery | 132009 | [132009-s-t-a-l-k-e-r-misery.json](./132009-s-t-a-l-k-e-r-misery.json) |
 | S.T.A.L.K.E.R.: Oblivion Lost Remake | 138257 | [138257-s-t-a-l-k-e-r-oblivion-lost-remake.json](./138257-s-t-a-l-k-e-r-oblivion-lost-remake.json) |
@@ -3860,6 +3861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Se-Kaa of Assiah | 41126 | [41126-se-kaa-of-assiah.json](./41126-se-kaa-of-assiah.json) |
 | Se.Kirara | 397404 | [397404-se-kirara.json](./397404-se-kirara.json) |
 | SE3 Protocol: Last Drop | 415877 | [415877-se3-protocol-last-drop.json](./415877-se3-protocol-last-drop.json) |
+| Sea and Adventure | 289689 | [289689-sea-and-adventure.json](./289689-sea-and-adventure.json) |
 | Sea Animal City | 60741 | [60741-sea-animal-city.json](./60741-sea-animal-city.json) |
 | Sea Animal Kingdom Battle Simulator: Sea Monster | 104466 | [104466-sea-animal-kingdom-battle-simulator-sea-monster.json](./104466-sea-animal-kingdom-battle-simulator-sea-monster.json) |
 | Sea Balloon | 336296 | [336296-sea-balloon.json](./336296-sea-balloon.json) |
@@ -13001,6 +13003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleigh Strikers | 279257 | [279257-sleigh-strikers.json](./279257-sleigh-strikers.json) |
 | Sleigher | 244810 | [244810-sleigher.json](./244810-sleigher.json) |
 | Sleight | 30885 | [30885-sleight.json](./30885-sleight.json) |
+| Sleight of Hand | 289694 | [289694-sleight-of-hand.json](./289694-sleight-of-hand.json) |
 | Sleight: Nerve Wracking Espionage Party Game | 110740 | [110740-sleight-nerve-wracking-espionage-party-game.json](./110740-sleight-nerve-wracking-espionage-party-game.json) |
 | Slemmings | 184383 | [184383-slemmings.json](./184383-slemmings.json) |
 | Slender Hentai Edition | 173814 | [173814-slender-hentai-edition.json](./173814-slender-hentai-edition.json) |
@@ -25088,6 +25091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State Z | 406836 | [406836-state-z.json](./406836-state-z.json) |
 | State.io | 304954 | [304954-state-io.json](./304954-state-io.json) |
 | Statecraft | 365852 | [365852-statecraft.json](./365852-statecraft.json) |
+| Statecraft: Corrupted Democracy | 289660 | [289660-statecraft-corrupted-democracy.json](./289660-statecraft-corrupted-democracy.json) |
 | Statele | 246240 | [246240-statele.json](./246240-statele.json) |
 | StateOS: The Political Sandbox | 417262 | [417262-stateos-the-political-sandbox.json](./417262-stateos-the-political-sandbox.json) |
 | States and Capitals | 71737 | [71737-states-and-capitals.json](./71737-states-and-capitals.json) |
@@ -29290,6 +29294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summoning Pixel Dungeon | 176998 | [176998-summoning-pixel-dungeon.json](./176998-summoning-pixel-dungeon.json) |
 | Summoning: Ouija Best Practices | 387358 | [387358-summoning-ouija-best-practices.json](./387358-summoning-ouija-best-practices.json) |
 | Summons Sword: Pot Guardian | 326180 | [326180-summons-sword-pot-guardian.json](./326180-summons-sword-pot-guardian.json) |
+| Summonsters | 289664 | [289664-summonsters.json](./289664-summonsters.json) |
 | Summum | 181402 | [181402-summum.json](./181402-summum.json) |
 | Summum Aeterna | 204692 | [204692-summum-aeterna.json](./204692-summum-aeterna.json) |
 | Sumo | 110716 | [110716-sumo.json](./110716-sumo.json) |
