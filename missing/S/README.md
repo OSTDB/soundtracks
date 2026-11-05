@@ -19095,7 +19095,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -22100,6 +22099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport & Fun: Swimming: Definitive Edition | 256635 | [256635-sport-and-fun-swimming-definitive-edition.json](./256635-sport-and-fun-swimming-definitive-edition.json) |
 | Sport 1 Live: Duel | 17397 | [17397-sport-1-live-duel.json](./17397-sport-1-live-duel.json) |
 | Sport 10 Pack | 131264 | [131264-sport-10-pack.json](./131264-sport-10-pack.json) |
+| Sport Clubs Collection | 293373 | [293373-sport-clubs-collection.json](./293373-sport-clubs-collection.json) |
 | Sport Freaks | 45906 | [45906-sport-freaks.json](./45906-sport-freaks.json) |
 | Sport Games | 45603 | [45603-sport-games.json](./45603-sport-games.json) |
 | Sport Girls | 157187 | [157187-sport-girls.json](./157187-sport-girls.json) |
@@ -27700,6 +27700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Pack | 409514 | [409514-strike-pack.json](./409514-strike-pack.json) |
 | Strike Point | 44964 | [44964-strike-point.json](./44964-strike-point.json) |
 | Strike Pose | 239618 | [239618-strike-pose.json](./239618-strike-pose.json) |
+| Strike Rush | 293376 | [293376-strike-rush.json](./293376-strike-rush.json) |
 | Strike Solitaire | 276279 | [276279-strike-solitaire.json](./276279-strike-solitaire.json) |
 | Strike Solitaire | 54406 | [54406-strike-solitaire.json](./54406-strike-solitaire.json) |
 | Strike Solitaire 2 | 60236 | [60236-strike-solitaire-2.json](./60236-strike-solitaire-2.json) |
