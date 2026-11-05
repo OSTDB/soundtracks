@@ -2414,6 +2414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardboard Fish | 268311 | [268311-cardboard-fish.json](./268311-cardboard-fish.json) |
 | Cardboard Football Club | 233206 | [233206-cardboard-football-club.json](./233206-cardboard-football-club.json) |
 | Cardboard Ground | 119730 | [119730-cardboard-ground.json](./119730-cardboard-ground.json) |
+| Cardboard Hero | 277083 | [277083-cardboard-hero.json](./277083-cardboard-hero.json) |
 | Cardboard Invasion | 149167 | [149167-cardboard-invasion.json](./149167-cardboard-invasion.json) |
 | Cardboard Racers | 401378 | [401378-cardboard-racers.json](./401378-cardboard-racers.json) |
 | Cardbob | 217216 | [217216-cardbob.json](./217216-cardbob.json) |
@@ -6786,6 +6787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chex Quest HD | 58136 | [58136-chex-quest-hd.json](./58136-chex-quest-hd.json) |
 | Chexs | 31753 | [31753-chexs.json](./31753-chexs.json) |
 | Cheyenne | 25957 | [25957-cheyenne.json](./25957-cheyenne.json) |
+| Cheyenne Mountain Complex | 277093 | [277093-cheyenne-mountain-complex.json](./277093-cheyenne-mountain-complex.json) |
 | Chez Croggy | 264153 | [264153-chez-croggy.json](./264153-chez-croggy.json) |
 | Chez Maxime | 41527 | [41527-chez-maxime.json](./41527-chez-maxime.json) |
 | Chezz | 242660 | [242660-chezz.json](./242660-chezz.json) |
@@ -16167,6 +16169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Brix | 394458 | [394458-crazy-brix.json](./394458-crazy-brix.json) |
 | Crazy Buggy Racing | 29107 | [29107-crazy-buggy-racing.json](./29107-crazy-buggy-racing.json) |
 | Crazy Bugs! | 248572 | [248572-crazy-bugs.json](./248572-crazy-bugs.json) |
+| Crazy Bullet | 277098 | [277098-crazy-bullet.json](./277098-crazy-bullet.json) |
 | Crazy Bunny | 52320 | [52320-crazy-bunny.json](./52320-crazy-bunny.json) |
 | Crazy Burger | 208796 | [208796-crazy-burger.json](./208796-crazy-burger.json) |
 | Crazy Bus | 268477 | [268477-crazy-bus.json](./268477-crazy-bus.json) |
