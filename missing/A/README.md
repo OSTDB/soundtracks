@@ -4166,6 +4166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afritis | 266569 | [266569-afritis.json](./266569-afritis.json) |
 | Afro Frog | 185378 | [185378-afro-frog.json](./185378-afro-frog.json) |
 | Afro Samurai 2: Revenge of Kuma | 20030 | [20030-afro-samurai-2-revenge-of-kuma.json](./20030-afro-samurai-2-revenge-of-kuma.json) |
+| Afro Santa | 247247 | [247247-afro-santa.json](./247247-afro-santa.json) |
 | AfroPenguin & The Forbidden Ramen | 244866 | [244866-afropenguin-and-the-forbidden-ramen.json](./244866-afropenguin-and-the-forbidden-ramen.json) |
 | After | 163792 | [163792-after.json](./163792-after.json) |
 | After | 219966 | [219966-after.json](./219966-after.json) |
@@ -9555,6 +9556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Ball VR | 112961 | [112961-angry-ball-vr.json](./112961-angry-ball-vr.json) |
 | Angry Barry | 67987 | [67987-angry-barry.json](./67987-angry-barry.json) |
 | Angry Battalion | 330191 | [330191-angry-battalion.json](./330191-angry-battalion.json) |
+| Angry Birds | 247273 | [247273-angry-birds.json](./247273-angry-birds.json) |
 | Angry Birds | 247343 | [247343-angry-birds.json](./247343-angry-birds.json) |
 | Angry Birds | 307521 | [307521-angry-birds.json](./307521-angry-birds.json) |
 | Angry Birds 2 | 19273 | [19273-angry-birds-2.json](./19273-angry-birds-2.json) |
@@ -16426,6 +16428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
