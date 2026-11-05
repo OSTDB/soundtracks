@@ -954,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -9897,6 +9898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bless You, Rip | 351515 | [351515-bless-you-rip.json](./351515-bless-you-rip.json) |
 | Bless: Close Your Eyes,Open Your Mind. | 394441 | [394441-bless-close-your-eyes-open-your-mind.json](./394441-bless-close-your-eyes-open-your-mind.json) |
 | Blessed Agony | 299849 | [299849-blessed-agony.json](./299849-blessed-agony.json) |
+| Blessed Burden | 261607 | [261607-blessed-burden.json](./261607-blessed-burden.json) |
 | Blessed Curse | 318560 | [318560-blessed-curse.json](./318560-blessed-curse.json) |
 | Blessed Ones: The Magic Wolves | 33960 | [33960-blessed-ones-the-magic-wolves.json](./33960-blessed-ones-the-magic-wolves.json) |
 | Blessed Redux | 382201 | [382201-blessed-redux.json](./382201-blessed-redux.json) |
@@ -12342,6 +12344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber Man 2002 | 287648 | [287648-bomber-man-2002.json](./287648-bomber-man-2002.json) |
 | Bomber Man Special | 41799 | [41799-bomber-man-special.json](./41799-bomber-man-special.json) |
 | Bomber Panda | 198165 | [198165-bomber-panda.json](./198165-bomber-panda.json) |
+| Bomber Party | 261609 | [261609-bomber-party.json](./261609-bomber-party.json) |
 | Bomber Party: Anime Avatars | 274952 | [274952-bomber-party-anime-avatars.json](./274952-bomber-party-anime-avatars.json) |
 | Bomber Party: Cute Anime Creatures Avatar | 274953 | [274953-bomber-party-cute-anime-creatures-avatar.json](./274953-bomber-party-cute-anime-creatures-avatar.json) |
 | Bomber Raid | 45662 | [45662-bomber-raid.json](./45662-bomber-raid.json) |
@@ -13359,6 +13362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bots Rush | 112350 | [112350-bots-rush.json](./112350-bots-rush.json) |
 | Bots!! | 175926 | [175926-bots.json](./175926-bots.json) |
 | Botsbotsbots | 355850 | [355850-botsbotsbots.json](./355850-botsbotsbots.json) |
+| Botsu | 261598 | [261598-botsu.json](./261598-botsu.json) |
 | Bottakuri Taxi | 298605 | [298605-bottakuri-taxi.json](./298605-bottakuri-taxi.json) |
 | Botticelli | 362434 | [362434-botticelli.json](./362434-botticelli.json) |
 | Bottle | 219728 | [219728-bottle.json](./219728-bottle.json) |
@@ -15283,6 +15287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Constructor: Ultimate Edition | 129195 | [129195-bridge-constructor-ultimate-edition.json](./129195-bridge-constructor-ultimate-edition.json) |
 | Bridge Crawler | 156521 | [156521-bridge-crawler.json](./156521-bridge-crawler.json) |
 | Bridge Creator 2015 | 35857 | [35857-bridge-creator-2015.json](./35857-bridge-creator-2015.json) |
+| Bridge Crossing | 261582 | [261582-bridge-crossing.json](./261582-bridge-crossing.json) |
 | Bridge Deluxe 2 With Omar Sharif | 85921 | [85921-bridge-deluxe-2-with-omar-sharif.json](./85921-bridge-deluxe-2-with-omar-sharif.json) |
 | Bridge Encounter | 337726 | [337726-bridge-encounter.json](./337726-bridge-encounter.json) |
 | Bridge Exercises | 95111 | [95111-bridge-exercises.json](./95111-bridge-exercises.json) |
