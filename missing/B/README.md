@@ -565,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Cycle | 235470 | [235470-backrooms-cycle.json](./235470-backrooms-cycle.json) |
 | Backrooms Cycle | 256781 | [256781-backrooms-cycle.json](./256781-backrooms-cycle.json) |
 | Backrooms Descent | 236363 | [236363-backrooms-descent.json](./236363-backrooms-descent.json) |
+| Backrooms Doors | 257736 | [257736-backrooms-doors.json](./257736-backrooms-doors.json) |
 | Backrooms Dream With Tung Tung Tung Sahur | 405803 | [405803-backrooms-dream-with-tung-tung-tung-sahur.json](./405803-backrooms-dream-with-tung-tung-tung-sahur.json) |
 | Backrooms Duck Edition | 420920 | [420920-backrooms-duck-edition.json](./420920-backrooms-duck-edition.json) |
 | Backrooms Escape Protocol | 339446 | [339446-backrooms-escape-protocol.json](./339446-backrooms-escape-protocol.json) |
@@ -955,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -17180,6 +17182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunky | 97759 | [97759-bunky.json](./97759-bunky.json) |
 | Bunmei Kaika: Aoiza Ibunroku | 221966 | [221966-bunmei-kaika-aoiza-ibunroku.json](./221966-bunmei-kaika-aoiza-ibunroku.json) |
 | Bunmei Kaika: Aoiza Ibunroku Saien | 59391 | [59391-bunmei-kaika-aoiza-ibunroku-saien.json](./59391-bunmei-kaika-aoiza-ibunroku-saien.json) |
+| Bunnerly | 257739 | [257739-bunnerly.json](./257739-bunnerly.json) |
 | Bunni Gunni Classic | 223501 | [223501-bunni-gunni-classic.json](./223501-bunni-gunni-classic.json) |
 | Bunni: How We First Met | 225699 | [225699-bunni-how-we-first-met.json](./225699-bunni-how-we-first-met.json) |
 | Bunnie Rabbot in Sonic the Hedgehog | 129180 | [129180-bunnie-rabbot-in-sonic-the-hedgehog.json](./129180-bunnie-rabbot-in-sonic-the-hedgehog.json) |
@@ -17685,6 +17688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 2015 HD: New York Route | 97148 | [97148-bus-simulator-2015-hd-new-york-route.json](./97148-bus-simulator-2015-hd-new-york-route.json) |
 | Bus Simulator 2017 | 93844 | [93844-bus-simulator-2017.json](./93844-bus-simulator-2017.json) |
 | Bus Simulator 2023 | 227959 | [227959-bus-simulator-2023.json](./227959-bus-simulator-2023.json) |
+| Bus Simulator 2023: City Driver | 257709 | [257709-bus-simulator-2023-city-driver.json](./257709-bus-simulator-2023-city-driver.json) |
 | Bus Simulator 2024: City Driver - Premium Edition | 310435 | [310435-bus-simulator-2024-city-driver-premium-edition.json](./310435-bus-simulator-2024-city-driver-premium-edition.json) |
 | Bus Simulator 21 | 146828 | [146828-bus-simulator-21.json](./146828-bus-simulator-21.json) |
 | Bus Simulator 21: Angel Shores Insider Skin Pack | 213848 | [213848-bus-simulator-21-angel-shores-insider-skin-pack.json](./213848-bus-simulator-21-angel-shores-insider-skin-pack.json) |
