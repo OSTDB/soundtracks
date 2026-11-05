@@ -1206,6 +1206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway Empire: Northern Europe | 145502 | [145502-railway-empire-northern-europe.json](./145502-railway-empire-northern-europe.json) |
 | Railway Empire: The Great Lakes | 124834 | [124834-railway-empire-the-great-lakes.json](./124834-railway-empire-the-great-lakes.json) |
 | Railway Escape | 236996 | [236996-railway-escape.json](./236996-railway-escape.json) |
+| Railway Fugitive | 267135 | [267135-railway-fugitive.json](./267135-railway-fugitive.json) |
 | Railway Inferno | 346095 | [346095-railway-inferno.json](./346095-railway-inferno.json) |
 | Railway Islands | 195424 | [195424-railway-islands.json](./195424-railway-islands.json) |
 | Railway Islands 2 | 270942 | [270942-railway-islands-2.json](./270942-railway-islands-2.json) |
@@ -6639,6 +6640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rewritten Recalls | 269182 | [269182-rewritten-recalls.json](./269182-rewritten-recalls.json) |
 | Rex | 195939 | [195939-rex.json](./195939-rex.json) |
 | Rex | 215321 | [215321-rex.json](./215321-rex.json) |
+| Rex | 267182 | [267182-rex.json](./267182-rex.json) |
 | Rex | 45348 | [45348-rex.json](./45348-rex.json) |
 | ReX | 99193 | [99193-rex.json](./99193-rex.json) |
 | Rex Blade: The Battle Begins | 209165 | [209165-rex-blade-the-battle-begins.json](./209165-rex-blade-the-battle-begins.json) |
