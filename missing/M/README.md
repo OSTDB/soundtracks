@@ -3109,6 +3109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manonnikki | 229698 | [229698-manonnikki.json](./229698-manonnikki.json) |
 | Manor Cafe | 105854 | [105854-manor-cafe.json](./105854-manor-cafe.json) |
 | Manor Dynasty Strategy | 397065 | [397065-manor-dynasty-strategy.json](./397065-manor-dynasty-strategy.json) |
+| Manor Madness | 282946 | [282946-manor-madness.json](./282946-manor-madness.json) |
 | Manor Mania | 337846 | [337846-manor-mania.json](./337846-manor-mania.json) |
 | Manor Maze | 235927 | [235927-manor-maze.json](./235927-manor-maze.json) |
 | Manor of Mysteries | 265149 | [265149-manor-of-mysteries.json](./265149-manor-of-mysteries.json) |
@@ -5778,7 +5779,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -10731,6 +10731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microvania | 332744 | [332744-microvania.json](./332744-microvania.json) |
 | MicroVolts Surge | 16263 | [16263-microvolts-surge.json](./16263-microvolts-surge.json) |
 | Microwasp Seekers | 189899 | [189899-microwasp-seekers.json](./189899-microwasp-seekers.json) |
+| Microwave | 282957 | [282957-microwave.json](./282957-microwave.json) |
 | Microwave Simulator | 390366 | [390366-microwave-simulator.json](./390366-microwave-simulator.json) |
 | Microwave Story | 311060 | [311060-microwave-story.json](./311060-microwave-story.json) |
 | Microwave Yourself | 364401 | [364401-microwave-yourself.json](./364401-microwave-yourself.json) |
