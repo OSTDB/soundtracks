@@ -1208,6 +1208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Fighters with Friends 2 | 384303 | [384303-jet-fighters-with-friends-2.json](./384303-jet-fighters-with-friends-2.json) |
 | Jet Fire | 235045 | [235045-jet-fire.json](./235045-jet-fire.json) |
 | Jet Force Gemini | 1355 | [1355-jet-force-gemini.json](./1355-jet-force-gemini.json) |
+| Jet Force Gemini | 284130 | [284130-jet-force-gemini.json](./284130-jet-force-gemini.json) |
 | Jet Force Gemini Trainer and Co-Op Hack | 173086 | [173086-jet-force-gemini-trainer-and-co-op-hack.json](./173086-jet-force-gemini-trainer-and-co-op-hack.json) |
 | Jet Grind Radio | 145186 | [145186-jet-grind-radio.json](./145186-jet-grind-radio.json) |
 | Jet Gunner | 17655 | [17655-jet-gunner.json](./17655-jet-gunner.json) |
