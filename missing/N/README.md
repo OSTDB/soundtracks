@@ -4018,6 +4018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nidia | 57189 | [57189-nidia.json](./57189-nidia.json) |
 | Nidus | 245762 | [245762-nidus.json](./245762-nidus.json) |
 | Nie no Hakoniwa: Dollhouse of Offerings | 268012 | [268012-nie-no-hakoniwa-dollhouse-of-offerings.json](./268012-nie-no-hakoniwa-dollhouse-of-offerings.json) |
+| Niels Penguin Adventure | 277627 | [277627-niels-penguin-adventure.json](./277627-niels-penguin-adventure.json) |
 | Nienix: Cosmic Warfare | 139629 | [139629-nienix-cosmic-warfare.json](./139629-nienix-cosmic-warfare.json) |
 | Nièpán zhī Lù | 116728 | [116728-niepan-zhi-lu.json](./116728-niepan-zhi-lu.json) |
 | NieR Re[in]carnation: The People and the World | 259669 | [259669-nier-re-in-carnation-the-people-and-the-world.json](./259669-nier-re-in-carnation-the-people-and-the-world.json) |
@@ -6217,6 +6218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noisz Re:Verse | 168534 | [168534-noisz-re-verse.json](./168534-noisz-re-verse.json) |
 | Noisz Starlivht: True Heroes | 316706 | [316706-noisz-starlivht-true-heroes.json](./316706-noisz-starlivht-true-heroes.json) |
 | Noisz: DM Ashura Level Pack | 317032 | [317032-noisz-dm-ashura-level-pack.json](./317032-noisz-dm-ashura-level-pack.json) |
+| Noisz: Episode G | 277681 | [277681-noisz-episode-g.json](./277681-noisz-episode-g.json) |
 | Noisz: Hyun Level Pack | 317031 | [317031-noisz-hyun-level-pack.json](./317031-noisz-hyun-level-pack.json) |
 | Noitanigami | 184184 | [184184-noitanigami.json](./184184-noitanigami.json) |
 | Noitapeli | 249886 | [249886-noitapeli.json](./249886-noitapeli.json) |
