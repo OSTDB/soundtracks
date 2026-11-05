@@ -2154,6 +2154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fap&Click | 331100 | [331100-fap-and-click.json](./331100-fap-and-click.json) |
 | Fapic | 53091 | [53091-fapic.json](./53091-fapic.json) |
 | Fapout 69 | 384910 | [384910-fapout-69.json](./384910-fapout-69.json) |
+| Fappy Bird | 261028 | [261028-fappy-bird.json](./261028-fappy-bird.json) |
 | Faptastic Journey | 194316 | [194316-faptastic-journey.json](./194316-faptastic-journey.json) |
 | Far a Night | 389617 | [389617-far-a-night.json](./389617-far-a-night.json) |
 | Far Away | 130105 | [130105-far-away.json](./130105-far-away.json) |
@@ -3600,6 +3601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed Him | 236176 | [236176-feed-him.json](./236176-feed-him.json) |
 | Feed It | 403808 | [403808-feed-it.json](./403808-feed-it.json) |
 | Feed It Souls | 278719 | [278719-feed-it-souls.json](./278719-feed-it-souls.json) |
+| Feed Me | 261026 | [261026-feed-me.json](./261026-feed-me.json) |
 | Feed Me | 381015 | [381015-feed-me.json](./381015-feed-me.json) |
 | Feed Me | 383695 | [383695-feed-me.json](./383695-feed-me.json) |
 | Feed Me Billy | 125264 | [125264-feed-me-billy.json](./125264-feed-me-billy.json) |
