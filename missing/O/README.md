@@ -2982,6 +2982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Jump | 413644 | [413644-only-jump.json](./413644-only-jump.json) |
 | Only Jump On Pogo | 361008 | [361008-only-jump-on-pogo.json](./361008-only-jump-on-pogo.json) |
 | Only Jump! | 260756 | [260756-only-jump.json](./260756-only-jump.json) |
+| Only Kick | 286349 | [286349-only-kick.json](./286349-only-kick.json) |
 | Only Kitty Cat Up | 395669 | [395669-only-kitty-cat-up.json](./395669-only-kitty-cat-up.json) |
 | Only Lead Can Stop Them | 197115 | [197115-only-lead-can-stop-them.json](./197115-only-lead-can-stop-them.json) |
 | Only Me | 154737 | [154737-only-me.json](./154737-only-me.json) |
