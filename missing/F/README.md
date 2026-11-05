@@ -1302,6 +1302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76: Infestations | 405074 | [405074-fallout-76-infestations.json](./405074-fallout-76-infestations.json) |
 | Fallout 76: Milepost Zero | 314486 | [314486-fallout-76-milepost-zero.json](./314486-fallout-76-milepost-zero.json) |
 | Fallout 76: Nuclear Winter | 132140 | [132140-fallout-76-nuclear-winter.json](./132140-fallout-76-nuclear-winter.json) |
+| Fallout 76: Once in a Blue Moon | 253107 | [253107-fallout-76-once-in-a-blue-moon.json](./253107-fallout-76-once-in-a-blue-moon.json) |
 | Fallout 76: Platinum Edition | 111060 | [111060-fallout-76-platinum-edition.json](./111060-fallout-76-platinum-edition.json) |
 | Fallout 76: Power Armor Edition | 103307 | [103307-fallout-76-power-armor-edition.json](./103307-fallout-76-power-armor-edition.json) |
 | Fallout 76: Raiders Content Bundle | 136384 | [136384-fallout-76-raiders-content-bundle.json](./136384-fallout-76-raiders-content-bundle.json) |
@@ -7241,6 +7242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Helix | 265757 | [265757-flappy-helix.json](./265757-flappy-helix.json) |
 | Flappy Horse | 309373 | [309373-flappy-horse.json](./309373-flappy-horse.json) |
 | Flappy Hypership Out of Control | 132446 | [132446-flappy-hypership-out-of-control.json](./132446-flappy-hypership-out-of-control.json) |
+| Flappy KFP | 253135 | [253135-flappy-kfp.json](./253135-flappy-kfp.json) |
 | Flappy Limited '85 | 47528 | [47528-flappy-limited-85.json](./47528-flappy-limited-85.json) |
 | Flappy Lovers 2 | 235140 | [235140-flappy-lovers-2.json](./235140-flappy-lovers-2.json) |
 | Flappy Meatbag | 23731 | [23731-flappy-meatbag.json](./23731-flappy-meatbag.json) |
