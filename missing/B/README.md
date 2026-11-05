@@ -952,7 +952,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6316,6 +6315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Benchmark Your Skills | 326252 | [326252-benchmark-your-skills.json](./326252-benchmark-your-skills.json) |
 | Bend-jo | 362934 | [362934-bend-jo.json](./362934-bend-jo.json) |
 | Bender 2: Bend Harder | 319163 | [319163-bender-2-bend-harder.json](./319163-bender-2-bend-harder.json) |
+| Bender Kills Planet Express | 276539 | [276539-bender-kills-planet-express.json](./276539-bender-kills-planet-express.json) |
 | Benderman VR | 264730 | [264730-benderman-vr.json](./264730-benderman-vr.json) |
 | Benders of Moona | 236728 | [236728-benders-of-moona.json](./236728-benders-of-moona.json) |
 | Bending the Light | 167911 | [167911-bending-the-light.json](./167911-bending-the-light.json) |
@@ -14584,6 +14584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawl Stars: Year Of The Tiger | 318578 | [318578-brawl-stars-year-of-the-tiger.json](./318578-brawl-stars-year-of-the-tiger.json) |
 | Brawl Tactics: Origins | 258089 | [258089-brawl-tactics-origins.json](./258089-brawl-tactics-origins.json) |
 | Brawl.io | 400068 | [400068-brawl-io.json](./400068-brawl-io.json) |
+| Brawl.io 2 | 276559 | [276559-brawl-io-2.json](./276559-brawl-io-2.json) |
 | Brawl+ | 316120 | [316120-brawl.json](./316120-brawl.json) |
 | Brawlberry | 273961 | [273961-brawlberry.json](./273961-brawlberry.json) |
 | Brawlborn | 373049 | [373049-brawlborn.json](./373049-brawlborn.json) |
