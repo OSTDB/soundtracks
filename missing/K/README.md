@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-One | 306236 | [306236-k-one.json](./306236-k-one.json) |
 | K-Point Ski Jumping | 128905 | [128905-k-point-ski-jumping.json](./128905-k-point-ski-jumping.json) |
 | K-Pop & Rock Band Manager | 207090 | [207090-k-pop-and-rock-band-manager.json](./207090-k-pop-and-rock-band-manager.json) |
+| K-Pop Academy | 297664 | [297664-k-pop-academy.json](./297664-k-pop-academy.json) |
 | K-Pop Fandom Korean Quiz | 401102 | [401102-k-pop-fandom-korean-quiz.json](./401102-k-pop-fandom-korean-quiz.json) |
 | K-POP Idol Producer | 228944 | [228944-k-pop-idol-producer.json](./228944-k-pop-idol-producer.json) |
 | K-Pop Idol Stories: Road to Debut | 212197 | [212197-k-pop-idol-stories-road-to-debut.json](./212197-k-pop-idol-stories-road-to-debut.json) |
@@ -2748,6 +2749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5545,8 +5547,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kozyrev Horrors | 287477 | [287477-kozyrev-horrors.json](./287477-kozyrev-horrors.json) |
 | KPatience | 134532 | [134532-kpatience.json](./134532-kpatience.json) |
 | Kpop idol Dress Up | 420670 | [420670-kpop-idol-dress-up.json](./420670-kpop-idol-dress-up.json) |
+| Kpop Idol Simulator | 297661 | [297661-kpop-idol-simulator.json](./297661-kpop-idol-simulator.json) |
 | Kpop Love Idol Maker Manager | 297017 | [297017-kpop-love-idol-maker-manager.json](./297017-kpop-love-idol-maker-manager.json) |
 | Kpop Piano Game: Color Tiles | 272097 | [272097-kpop-piano-game-color-tiles.json](./272097-kpop-piano-game-color-tiles.json) |
+| KPOP Story: Idol Manager | 297665 | [297665-kpop-story-idol-manager.json](./297665-kpop-story-idol-manager.json) |
 | Kra-Ken | 120023 | [120023-kra-ken.json](./120023-kra-ken.json) |
 | Kraa | 395141 | [395141-kraa.json](./395141-kraa.json) |
 | Kraal | 142366 | [142366-kraal.json](./142366-kraal.json) |
