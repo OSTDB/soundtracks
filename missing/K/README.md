@@ -2241,6 +2241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidgames | 131351 | [131351-kidgames.json](./131351-kidgames.json) |
 | Kidgilantes | 158859 | [158859-kidgilantes.json](./158859-kidgilantes.json) |
 | Kidname: Iceboy | 323333 | [323333-kidname-iceboy.json](./323333-kidname-iceboy.json) |
+| Kidnapped | 252505 | [252505-kidnapped.json](./252505-kidnapped.json) |
 | Kidnapped | 26517 | [26517-kidnapped.json](./26517-kidnapped.json) |
 | Kidnapped | 296330 | [296330-kidnapped.json](./296330-kidnapped.json) |
 | Kidnapped | 79064 | [79064-kidnapped.json](./79064-kidnapped.json) |
