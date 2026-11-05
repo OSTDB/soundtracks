@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakuoki Ibun: Berezinskii no Majo | 287896 | [287896-hakuoki-ibun-berezinskii-no-majo.json](./287896-hakuoki-ibun-berezinskii-no-majo.json) |
 | Hakuoki Kaikoroku | 163340 | [163340-hakuoki-kaikoroku.json](./163340-hakuoki-kaikoroku.json) |
 | Hakuoki Shinkai Reimeiroku | 192025 | [192025-hakuoki-shinkai-reimeiroku.json](./192025-hakuoki-shinkai-reimeiroku.json) |
+| Hakuoki Shinkai Reimeiroku - Limited Edition | 283507 | [283507-hakuoki-shinkai-reimeiroku-limited-edition.json](./283507-hakuoki-shinkai-reimeiroku-limited-edition.json) |
 | Hakuoki Shinkai: Ginsei no Shou | 136838 | [136838-hakuoki-shinkai-ginsei-no-shou.json](./136838-hakuoki-shinkai-ginsei-no-shou.json) |
 | Hakuoki Shinkai: Ten'un no Shou | 221222 | [221222-hakuoki-shinkai-tenun-no-shou.json](./221222-hakuoki-shinkai-tenun-no-shou.json) |
 | Hakuoki Shinkai: Tsukikage no Shou | 148247 | [148247-hakuoki-shinkai-tsukikage-no-shou.json](./148247-hakuoki-shinkai-tsukikage-no-shou.json) |
@@ -5939,6 +5940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Elements | 334817 | [334817-heroes-of-elements.json](./334817-heroes-of-elements.json) |
 | Heroes of Eroticism: Amorous Advances | 244349 | [244349-heroes-of-eroticism-amorous-advances.json](./244349-heroes-of-eroticism-amorous-advances.json) |
 | Heroes of Eroticism: New Beginnings | 221204 | [221204-heroes-of-eroticism-new-beginnings.json](./221204-heroes-of-eroticism-new-beginnings.json) |
+| Heroes of Eternal Quest | 283526 | [283526-heroes-of-eternal-quest.json](./283526-heroes-of-eternal-quest.json) |
 | Heroes of Fantasia | 168656 | [168656-heroes-of-fantasia.json](./168656-heroes-of-fantasia.json) |
 | Heroes of Flatlandia | 174597 | [174597-heroes-of-flatlandia.json](./174597-heroes-of-flatlandia.json) |
 | Heroes of Gaia | 63867 | [63867-heroes-of-gaia.json](./63867-heroes-of-gaia.json) |
@@ -6391,6 +6393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexdo | 312822 | [312822-hexdo.json](./312822-hexdo.json) |
 | Hexdoku | 164902 | [164902-hexdoku.json](./164902-hexdoku.json) |
 | Hexed | 178262 | [178262-hexed.json](./178262-hexed.json) |
+| Hexed | 283524 | [283524-hexed.json](./283524-hexed.json) |
 | Hexed | 86520 | [86520-hexed.json](./86520-hexed.json) |
 | Hexed Pet Adventures | 393596 | [393596-hexed-pet-adventures.json](./393596-hexed-pet-adventures.json) |
 | Hexed Time | 356115 | [356115-hexed-time.json](./356115-hexed-time.json) |
