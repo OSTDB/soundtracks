@@ -527,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XCOM: Enemy Within | 143076 | [143076-xcom-enemy-within.json](./143076-xcom-enemy-within.json) |
 | XCOM: Enemy Within | 5894 | [5894-xcom-enemy-within.json](./5894-xcom-enemy-within.json) |
 | XCOM: Enemy Within - Commander Edition | 307236 | [307236-xcom-enemy-within-commander-edition.json](./307236-xcom-enemy-within-commander-edition.json) |
+| XCOM: Long War | 287457 | [287457-xcom-long-war.json](./287457-xcom-long-war.json) |
 | XCUTE(me) | 147389 | [147389-xcute-me.json](./147389-xcute-me.json) |
 | Xd Clicker | 364511 | [364511-xd-clicker.json](./364511-xd-clicker.json) |
 | Xd1 | 327253 | [327253-xd1.json](./327253-xd1.json) |
