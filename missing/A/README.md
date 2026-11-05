@@ -13288,6 +13288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arifureta: From Commonplace to World's Strongest - Rebellion Soul | 390534 | [390534-arifureta-from-commonplace-to-worlds-strongest-rebellion-soul.json](./390534-arifureta-from-commonplace-to-worlds-strongest-rebellion-soul.json) |
 | Arigatou, Ningen-san! | 135030 | [135030-arigatou-ningen-san.json](./135030-arigatou-ningen-san.json) |
 | Arijigoku | 417489 | [417489-arijigoku.json](./417489-arijigoku.json) |
+| Ariko's Enchanted Forest | 291924 | [291924-arikos-enchanted-forest.json](./291924-arikos-enchanted-forest.json) |
 | Arima | 125007 | [125007-arima.json](./125007-arima.json) |
 | Arima Lodge | 326630 | [326630-arima-lodge.json](./326630-arima-lodge.json) |
 | Arimaa | 139750 | [139750-arimaa.json](./139750-arimaa.json) |
@@ -15322,6 +15323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids... But Roguelite | 168640 | [168640-asteroids-but-roguelite.json](./168640-asteroids-but-roguelite.json) |
 | Asteroids++ | 178978 | [178978-asteroids.json](./178978-asteroids.json) |
 | AsteroidsHD | 18174 | [18174-asteroidshd.json](./18174-asteroidshd.json) |
+| AsteroidTD | 291802 | [291802-asteroidtd.json](./291802-asteroidtd.json) |
 | AsteroidZ | 375795 | [375795-asteroidz.json](./375795-asteroidz.json) |
 | Asterook | 129654 | [129654-asterook.json](./129654-asterook.json) |
 | Asteros | 304681 | [304681-asteros.json](./304681-asteros.json) |
@@ -15684,6 +15686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrology DS: The Stars in Your Hands | 315632 | [315632-astrology-ds-the-stars-in-your-hands.json](./315632-astrology-ds-the-stars-in-your-hands.json) |
 | Astroloot | 333768 | [333768-astroloot.json](./333768-astroloot.json) |
 | Astroman | 91944 | [91944-astroman.json](./91944-astroman.json) |
+| AstroMart Adventures | 291809 | [291809-astromart-adventures.json](./291809-astromart-adventures.json) |
 | Astromattech | 334320 | [334320-astromattech.json](./334320-astromattech.json) |
 | Astromech | 363924 | [363924-astromech.json](./363924-astromech.json) |
 | Astromeda | 221667 | [221667-astromeda.json](./221667-astromeda.json) |
@@ -16984,6 +16987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autoescuela Aprueba Conmigo | 86072 | [86072-autoescuela-aprueba-conmigo.json](./86072-autoescuela-aprueba-conmigo.json) |
 | Autoescuela Trainer | 269652 | [269652-autoescuela-trainer.json](./269652-autoescuela-trainer.json) |
 | Autofading Se Disparaître | 257429 | [257429-autofading-se-disparaitre.json](./257429-autofading-se-disparaitre.json) |
+| Autofahrt | 291733 | [291733-autofahrt.json](./291733-autofahrt.json) |
 | AutoFans: Charged Rate | 63691 | [63691-autofans-charged-rate.json](./63691-autofans-charged-rate.json) |
 | AutoForge | 257105 | [257105-autoforge.json](./257105-autoforge.json) |
 | Autogame Deluxe | 211017 | [211017-autogame-deluxe.json](./211017-autogame-deluxe.json) |
