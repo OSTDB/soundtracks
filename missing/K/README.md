@@ -3552,6 +3552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingmaker | 288007 | [288007-kingmaker.json](./288007-kingmaker.json) |
 | Kingmaker | 292554 | [292554-kingmaker.json](./292554-kingmaker.json) |
 | Kingmaker | 80171 | [80171-kingmaker.json](./80171-kingmaker.json) |
+| Kingmaker Academy: Warrior's Duels | 249571 | [249571-kingmaker-academy-warriors-duels.json](./249571-kingmaker-academy-warriors-duels.json) |
 | Kingmakers | 287671 | [287671-kingmakers.json](./287671-kingmakers.json) |
 | Kingpin Bowling | 96290 | [96290-kingpin-bowling.json](./96290-kingpin-bowling.json) |
 | Kingpin: Arcade Sports Bowling | 37110 | [37110-kingpin-arcade-sports-bowling.json](./37110-kingpin-arcade-sports-bowling.json) |
@@ -5435,6 +5436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korridor | 369386 | [369386-korridor.json](./369386-korridor.json) |
 | Korsakovia | 182380 | [182380-korsakovia.json](./182380-korsakovia.json) |
 | Korter 1996 | 320714 | [320714-korter-1996.json](./320714-korter-1996.json) |
+| Kortstrid | 249569 | [249569-kortstrid.json](./249569-kortstrid.json) |
 | Koru | 189008 | [189008-koru.json](./189008-koru.json) |
 | Korunu Kopia: Fushigi no Sumu Machi | 135895 | [135895-korunu-kopia-fushigi-no-sumu-machi.json](./135895-korunu-kopia-fushigi-no-sumu-machi.json) |
 | Korwin the Game | 35114 | [35114-korwin-the-game.json](./35114-korwin-the-game.json) |
