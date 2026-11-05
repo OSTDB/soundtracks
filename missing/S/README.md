@@ -10897,6 +10897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Solitaire | 239545 | [239545-simple-solitaire.json](./239545-simple-solitaire.json) |
 | Simple Solitaire | 264616 | [264616-simple-solitaire.json](./264616-simple-solitaire.json) |
 | Simple Spy | 32554 | [32554-simple-spy.json](./32554-simple-spy.json) |
+| Simple Stock Trading Simulator | 275960 | [275960-simple-stock-trading-simulator.json](./275960-simple-stock-trading-simulator.json) |
 | Simple Story: Alex | 90395 | [90395-simple-story-alex.json](./90395-simple-story-alex.json) |
 | Simple Story: Alex - Two Guys | 172132 | [172132-simple-story-alex-two-guys.json](./172132-simple-story-alex-two-guys.json) |
 | Simple Sudoku | 332756 | [332756-simple-sudoku.json](./332756-simple-sudoku.json) |
@@ -11338,6 +11339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sipssassin | 295228 | [295228-sipssassin.json](./295228-sipssassin.json) |
 | Sir Ababol: Remastered Edition | 194641 | [194641-sir-ababol-remastered-edition.json](./194641-sir-ababol-remastered-edition.json) |
 | Sir Basil Pike Public School | 262163 | [262163-sir-basil-pike-public-school.json](./262163-sir-basil-pike-public-school.json) |
+| Sir Bob: Squire for Hire | 275968 | [275968-sir-bob-squire-for-hire.json](./275968-sir-bob-squire-for-hire.json) |
 | Sir Bucket | 295139 | [295139-sir-bucket.json](./295139-sir-bucket.json) |
 | Sir Christopher | 164230 | [164230-sir-christopher.json](./164230-sir-christopher.json) |
 | Sir Eatsalot | 69340 | [69340-sir-eatsalot.json](./69340-sir-eatsalot.json) |
@@ -12105,6 +12107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skufs and Alt-Girls | 298067 | [298067-skufs-and-alt-girls.json](./298067-skufs-and-alt-girls.json) |
 | Skuiggle | 202945 | [202945-skuiggle.json](./202945-skuiggle.json) |
 | Skul: The Hero Slayer | 127842 | [127842-skul-the-hero-slayer.json](./127842-skul-the-hero-slayer.json) |
+| Skul: The Hero Slayer - Mythology Pack | 275957 | [275957-skul-the-hero-slayer-mythology-pack.json](./275957-skul-the-hero-slayer-mythology-pack.json) |
 | Skuld | 383093 | [383093-skuld.json](./383093-skuld.json) |
 | Skuld no Bug Taiji | 300745 | [300745-skuld-no-bug-taiji.json](./300745-skuld-no-bug-taiji.json) |
 | Skulduggery Pleasant Invaders | 335175 | [335175-skulduggery-pleasant-invaders.json](./335175-skulduggery-pleasant-invaders.json) |
@@ -16640,6 +16643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Son Savaşçı | 149374 | [149374-son-savasc.json](./149374-son-savasc.json) |
 | Son Son | 40010 | [40010-son-son.json](./40010-son-son.json) |
 | Son Son II | 37689 | [37689-son-son-ii.json](./37689-son-son-ii.json) |
+| Sona-Nyl of the Violet Shadows Refrain | 275986 | [275986-sona-nyl-of-the-violet-shadows-refrain.json](./275986-sona-nyl-of-the-violet-shadows-refrain.json) |
 | Sona-Nyl of the Violet Shadows: What Beautiful Memories | 57970 | [57970-sona-nyl-of-the-violet-shadows-what-beautiful-memories.json](./57970-sona-nyl-of-the-violet-shadows-what-beautiful-memories.json) |
 | Sonafleki | 393153 | [393153-sonafleki.json](./393153-sonafleki.json) |
 | Sonak | 356648 | [356648-sonak.json](./356648-sonak.json) |
@@ -19200,7 +19204,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -25199,6 +25202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Statecraft: Corrupted Democracy | 289660 | [289660-statecraft-corrupted-democracy.json](./289660-statecraft-corrupted-democracy.json) |
 | Statele | 246240 | [246240-statele.json](./246240-statele.json) |
 | StateOS: The Political Sandbox | 417262 | [417262-stateos-the-political-sandbox.json](./417262-stateos-the-political-sandbox.json) |
+| Statera: Aurum | 275955 | [275955-statera-aurum.json](./275955-statera-aurum.json) |
 | States and Capitals | 71737 | [71737-states-and-capitals.json](./71737-states-and-capitals.json) |
 | States Map Tutor | 87542 | [87542-states-map-tutor.json](./87542-states-map-tutor.json) |
 | States of Power | 391110 | [391110-states-of-power.json](./391110-states-of-power.json) |
@@ -33443,6 +33447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Escape Room | 156180 | [156180-survival-escape-room.json](./156180-survival-escape-room.json) |
 | Survival Express | 232154 | [232154-survival-express.json](./232154-survival-express.json) |
 | Survival EXtreme | 248915 | [248915-survival-extreme.json](./248915-survival-extreme.json) |
+| Survival Fantasy | 275982 | [275982-survival-fantasy.json](./275982-survival-fantasy.json) |
 | Survival Fish.io: Hunger Game | 223898 | [223898-survival-fish-io-hunger-game.json](./223898-survival-fish-io-hunger-game.json) |
 | Survival Float Simulator: Crocodile Waters Craft, Raft, Build | 317453 | [317453-survival-float-simulator-crocodile-waters-craft-raft-build.json](./317453-survival-float-simulator-crocodile-waters-craft-raft-build.json) |
 | Survival for Treasure | 246775 | [246775-survival-for-treasure.json](./246775-survival-for-treasure.json) |
