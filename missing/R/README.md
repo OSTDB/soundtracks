@@ -5199,6 +5199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reproduction Man | 31755 | [31755-reproduction-man.json](./31755-reproduction-man.json) |
 | reProgram | 128633 | [128633-reprogram.json](./128633-reprogram.json) |
 | Repterra | 289659 | [289659-repterra.json](./289659-repterra.json) |
+| Reptile Chronicles | 275980 | [275980-reptile-chronicles.json](./275980-reptile-chronicles.json) |
 | Reptile Island | 386383 | [386383-reptile-island.json](./386383-reptile-island.json) |
 | Reptile Park VR | 253863 | [253863-reptile-park-vr.json](./253863-reptile-park-vr.json) |
 | Reptile Recall | 402319 | [402319-reptile-recall.json](./402319-reptile-recall.json) |
@@ -12225,6 +12226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runbow | 11215 | [11215-runbow.json](./11215-runbow.json) |
 | Runbow: Complete Collection | 53561 | [53561-runbow-complete-collection.json](./53561-runbow-complete-collection.json) |
 | Runbow: Deluxe Edition | 51142 | [51142-runbow-deluxe-edition.json](./51142-runbow-deluxe-edition.json) |
+| RunBunRunBun | 275977 | [275977-runbunrunbun.json](./275977-runbunrunbun.json) |
 | Rundat | 145355 | [145355-rundat.json](./145355-rundat.json) |
 | Rundom | 149817 | [149817-rundom.json](./149817-rundom.json) |
 | Rune | 3085 | [3085-rune.json](./3085-rune.json) |
