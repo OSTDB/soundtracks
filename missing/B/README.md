@@ -951,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3075,6 +3076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball PVP | 87279 | [87279-basketball-pvp.json](./87279-basketball-pvp.json) |
 | Basketball Rivals | 227267 | [227267-basketball-rivals.json](./227267-basketball-rivals.json) |
 | Basketball Serial Shooter | 355140 | [355140-basketball-serial-shooter.json](./355140-basketball-serial-shooter.json) |
+| Basketball Shoot | 284135 | [284135-basketball-shoot.json](./284135-basketball-shoot.json) |
 | Basketball Shoots | 103038 | [103038-basketball-shoots.json](./103038-basketball-shoots.json) |
 | Basketball Showdown: Royale | 244798 | [244798-basketball-showdown-royale.json](./244798-basketball-showdown-royale.json) |
 | Basketball Simulator | 255061 | [255061-basketball-simulator.json](./255061-basketball-simulator.json) |
@@ -4328,6 +4330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleship | 22445 | [22445-battleship.json](./22445-battleship.json) |
 | Battleship | 267406 | [267406-battleship.json](./267406-battleship.json) |
 | Battleship | 282239 | [282239-battleship.json](./282239-battleship.json) |
+| Battleship | 284133 | [284133-battleship.json](./284133-battleship.json) |
 | Battleship | 285030 | [285030-battleship.json](./285030-battleship.json) |
 | Battleship | 317631 | [317631-battleship.json](./317631-battleship.json) |
 | Battleship | 346341 | [346341-battleship.json](./346341-battleship.json) |
@@ -7023,6 +7026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bez-MX | 282097 | [282097-bez-mx.json](./282097-bez-mx.json) |
 | Bezier: Second Edition | 142701 | [142701-bezier-second-edition.json](./142701-bezier-second-edition.json) |
 | Bezirk | 109876 | [109876-bezirk.json](./109876-bezirk.json) |
+| Bezoff | 284131 | [284131-bezoff.json](./284131-bezoff.json) |
 | BeZombie Anime Invasion | 261825 | [261825-bezombie-anime-invasion.json](./261825-bezombie-anime-invasion.json) |
 | BFDI: Branches | 305909 | [305909-bfdi-branches.json](./305909-bfdi-branches.json) |
 | BFDI: Four's Kitchen | 385942 | [385942-bfdi-fours-kitchen.json](./385942-bfdi-fours-kitchen.json) |
@@ -8698,6 +8702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Butler: Phantom & Ghost | 115532 | [115532-black-butler-phantom-and-ghost.json](./115532-black-butler-phantom-and-ghost.json) |
 | Black Butterfly | 121299 | [121299-black-butterfly.json](./121299-black-butterfly.json) |
 | Black Castle | 143051 | [143051-black-castle.json](./143051-black-castle.json) |
+| Black Castle | 284161 | [284161-black-castle.json](./284161-black-castle.json) |
 | Black Castle | 377328 | [377328-black-castle.json](./377328-black-castle.json) |
 | Black Cat | 144278 | [144278-black-cat.json](./144278-black-cat.json) |
 | Black Cat | 344262 | [344262-black-cat.json](./344262-black-cat.json) |
@@ -10135,6 +10140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Basher 3D | 346913 | [346913-block-basher-3d.json](./346913-block-basher-3d.json) |
 | Block Beast | 353794 | [353794-block-beast.json](./353794-block-beast.json) |
 | Block Blast | 130896 | [130896-block-blast.json](./130896-block-blast.json) |
+| Block Blast! | 284125 | [284125-block-blast.json](./284125-block-blast.json) |
 | Block Blast! | 400746 | [400746-block-blast.json](./400746-block-blast.json) |
 | Block Blaster | 245184 | [245184-block-blaster.json](./245184-block-blaster.json) |
 | Block Blaster DX! | 324190 | [324190-block-blaster-dx.json](./324190-block-blaster-dx.json) |
