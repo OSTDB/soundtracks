@@ -2769,6 +2769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnasis | 360007 | [360007-carnasis.json](./360007-carnasis.json) |
 | Carnaval | 304055 | [304055-carnaval.json](./304055-carnaval.json) |
 | Carnaval Marbles | 360327 | [360327-carnaval-marbles.json](./360327-carnaval-marbles.json) |
+| Carnaval Simulator | 275405 | [275405-carnaval-simulator.json](./275405-carnaval-simulator.json) |
 | CarneyVale Showtime | 92349 | [92349-carneyvale-showtime.json](./92349-carneyvale-showtime.json) |
 | Carniball | 64832 | [64832-carniball.json](./64832-carniball.json) |
 | Carnica | 39636 | [39636-carnica.json](./39636-carnica.json) |
@@ -5717,6 +5718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaneques | 38834 | [38834-chaneques.json](./38834-chaneques.json) |
 | Chang'an: The capital of Tang Dynasty | 147403 | [147403-changan-the-capital-of-tang-dynasty.json](./147403-changan-the-capital-of-tang-dynasty.json) |
 | Changa | 196713 | [196713-changa.json](./196713-changa.json) |
+| Changdong's Bikini Adventure | 275393 | [275393-changdongs-bikini-adventure.json](./275393-changdongs-bikini-adventure.json) |
 | Change | 229674 | [229674-change.json](./229674-change.json) |
 | Change | 81724 | [81724-change.json](./81724-change.json) |
 | Change : A Little Story | 113146 | [113146-change-a-little-story.json](./113146-change-a-little-story.json) |
@@ -7252,6 +7254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimeras: Mortal Medicine | 417570 | [417570-chimeras-mortal-medicine.json](./417570-chimeras-mortal-medicine.json) |
 | Chimeras: Mortal Medicine - Collector's Edition | 193233 | [193233-chimeras-mortal-medicine-collectors-edition.json](./193233-chimeras-mortal-medicine-collectors-edition.json) |
 | Chimeras: Price of Greed | 187910 | [187910-chimeras-price-of-greed.json](./187910-chimeras-price-of-greed.json) |
+| Chimeras: Price of Greed - Collector's Edition | 275394 | [275394-chimeras-price-of-greed-collectors-edition.json](./275394-chimeras-price-of-greed-collectors-edition.json) |
 | Chimeras: The Lost Film | 416624 | [416624-chimeras-the-lost-film.json](./416624-chimeras-the-lost-film.json) |
 | Chimeras: The Signs of Prophecy | 101011 | [101011-chimeras-the-signs-of-prophecy.json](./101011-chimeras-the-signs-of-prophecy.json) |
 | Chimeras: The Signs of Prophecy - Collector's Edition | 50755 | [50755-chimeras-the-signs-of-prophecy-collectors-edition.json](./50755-chimeras-the-signs-of-prophecy-collectors-edition.json) |
@@ -9480,6 +9483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Steel: World War II, Europe 1939-45 | 71783 | [71783-clash-of-steel-world-war-ii-europe-1939-45.json](./71783-clash-of-steel-world-war-ii-europe-1939-45.json) |
 | Clash of Swords and Beams | 338530 | [338530-clash-of-swords-and-beams.json](./338530-clash-of-swords-and-beams.json) |
 | Clash of Ten Sides | 348804 | [348804-clash-of-ten-sides.json](./348804-clash-of-ten-sides.json) |
+| Clash of the Elements | 275390 | [275390-clash-of-the-elements.json](./275390-clash-of-the-elements.json) |
 | Clash of the Metal | 173298 | [173298-clash-of-the-metal.json](./173298-clash-of-the-metal.json) |
 | Clash of the Monsters | 33804 | [33804-clash-of-the-monsters.json](./33804-clash-of-the-monsters.json) |
 | Clash of the Olympians | 384233 | [384233-clash-of-the-olympians.json](./384233-clash-of-the-olympians.json) |
@@ -14114,6 +14118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooldog Teaches Typing | 179850 | [179850-cooldog-teaches-typing.json](./179850-cooldog-teaches-typing.json) |
 | Cooldown | 293052 | [293052-cooldown.json](./293052-cooldown.json) |
 | Cooler Super Mario Bros. Land | 394347 | [394347-cooler-super-mario-bros-land.json](./394347-cooler-super-mario-bros-land.json) |
+| Cooling Simulator | 275370 | [275370-cooling-simulator.json](./275370-cooling-simulator.json) |
 | Coolmath Games: The Game | 234707 | [234707-coolmath-games-the-game.json](./234707-coolmath-games-the-game.json) |
 | Coolors | 161696 | [161696-coolors.json](./161696-coolors.json) |
 | CoolPaintr VR | 104022 | [104022-coolpaintr-vr.json](./104022-coolpaintr-vr.json) |
@@ -17075,6 +17080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Temple | 304544 | [304544-crimson-temple.json](./304544-crimson-temple.json) |
 | Crimson Theory | 339290 | [339290-crimson-theory.json](./339290-crimson-theory.json) |
 | Crimson Thread of Fate | 318769 | [318769-crimson-thread-of-fate.json](./318769-crimson-thread-of-fate.json) |
+| Crimson Tide | 275410 | [275410-crimson-tide.json](./275410-crimson-tide.json) |
 | Crimson Tide: Operation Online | 55402 | [55402-crimson-tide-operation-online.json](./55402-crimson-tide-operation-online.json) |
 | Crimson Tides of Tethyr: Enhanced Edition | 310350 | [310350-crimson-tides-of-tethyr-enhanced-edition.json](./310350-crimson-tides-of-tethyr-enhanced-edition.json) |
 | Crimson Tower | 365176 | [365176-crimson-tower.json](./365176-crimson-tower.json) |
