@@ -2027,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capybara's Happytime | 346215 | [346215-capybaras-happytime.json](./346215-capybaras-happytime.json) |
 | Capybaradise | 310916 | [310916-capybaradise.json](./310916-capybaradise.json) |
 | Capybarista | 271079 | [271079-capybarista.json](./271079-capybarista.json) |
+| CapybaRun | 250739 | [250739-capybarun.json](./250739-capybarun.json) |
 | CapyBash | 392081 | [392081-capybash.json](./392081-capybash.json) |
 | Capybro | 263945 | [263945-capybro.json](./263945-capybro.json) |
 | Capyvarias | 390806 | [390806-capyvarias.json](./390806-capyvarias.json) |
@@ -4871,6 +4872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavephobia | 285393 | [285393-cavephobia.json](./285393-cavephobia.json) |
 | Cavequest | 2876 | [2876-cavequest.json](./2876-cavequest.json) |
 | Caver | 199330 | [199330-caver.json](./199330-caver.json) |
+| Cavera: The Island of Apes | 250703 | [250703-cavera-the-island-of-apes.json](./250703-cavera-the-island-of-apes.json) |
 | Cavern | 100626 | [100626-cavern.json](./100626-cavern.json) |
 | Cavern | 272856 | [272856-cavern.json](./272856-cavern.json) |
 | Cavern Adventurers | 291983 | [291983-cavern-adventurers.json](./291983-cavern-adventurers.json) |
@@ -14857,6 +14859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Parkour: Infinite Journey | 305672 | [305672-cosmic-parkour-infinite-journey.json](./305672-cosmic-parkour-infinite-journey.json) |
 | Cosmic Payback | 318230 | [318230-cosmic-payback.json](./318230-cosmic-payback.json) |
 | Cosmic Pebble | 249032 | [249032-cosmic-pebble.json](./249032-cosmic-pebble.json) |
+| Cosmic Persecution | 250731 | [250731-cosmic-persecution.json](./250731-cosmic-persecution.json) |
 | Cosmic Pioneer | 38986 | [38986-cosmic-pioneer.json](./38986-cosmic-pioneer.json) |
 | Cosmic Pool | 238404 | [238404-cosmic-pool.json](./238404-cosmic-pool.json) |
 | Cosmic Purge | 201224 | [201224-cosmic-purge.json](./201224-cosmic-purge.json) |
@@ -15243,6 +15246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counties Work | 207836 | [207836-counties-work.json](./207836-counties-work.json) |
 | Countin' Stars | 368496 | [368496-countin-stars.json](./368496-countin-stars.json) |
 | Counting on Frank | 71523 | [71523-counting-on-frank.json](./71523-counting-on-frank.json) |
+| Countless Army | 250720 | [250720-countless-army.json](./250720-countless-army.json) |
 | Countless Rooms of Death | 35945 | [35945-countless-rooms-of-death.json](./35945-countless-rooms-of-death.json) |
 | Countries of the World | 137489 | [137489-countries-of-the-world.json](./137489-countries-of-the-world.json) |
 | Countrified | 126423 | [126423-countrified.json](./126423-countrified.json) |
