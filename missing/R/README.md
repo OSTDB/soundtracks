@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R2 Online: Reign of Revolution | 91269 | [91269-r2-online-reign-of-revolution.json](./91269-r2-online-reign-of-revolution.json) |
 | R20 Moe Bomberman | 198066 | [198066-r20-moe-bomberman.json](./198066-r20-moe-bomberman.json) |
 | R2Beat | 108993 | [108993-r2beat.json](./108993-r2beat.json) |
+| R2D Tank | 281176 | [281176-r2d-tank.json](./281176-r2d-tank.json) |
 | R2D Tank | 40394 | [40394-r2d-tank.json](./40394-r2d-tank.json) |
 | R2dz | 184213 | [184213-r2dz.json](./184213-r2dz.json) |
 | R2R: Rewire to Revolt | 338333 | [338333-r2r-rewire-to-revolt.json](./338333-r2r-rewire-to-revolt.json) |
@@ -2689,6 +2690,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaching the Seven: Asteroids | 178627 | [178627-reaching-the-seven-asteroids.json](./178627-reaching-the-seven-asteroids.json) |
 | React Wars | 392959 | [392959-react-wars.json](./392959-react-wars.json) |
 | React-O-Matic | 262506 | [262506-react-o-matic.json](./262506-react-o-matic.json) |
+| Reactance | 281154 | [281154-reactance.json](./281154-reactance.json) |
+| Reactance 2 | 281155 | [281155-reactance-2.json](./281155-reactance-2.json) |
 | ReactFuse | 264641 | [264641-reactfuse.json](./264641-reactfuse.json) |
 | Reaction | 152347 | [152347-reaction.json](./152347-reaction.json) |
 | Reaction Game: Hit the Color! | 56764 | [56764-reaction-game-hit-the-color.json](./56764-reaction-game-hit-the-color.json) |
@@ -3730,6 +3733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Circuit Rebellion | 371946 | [371946-red-circuit-rebellion.json](./371946-red-circuit-rebellion.json) |
 | Red City | 290227 | [290227-red-city.json](./290227-red-city.json) |
 | Red Clash | 251368 | [251368-red-clash.json](./251368-red-clash.json) |
+| Red Clash | 281175 | [281175-red-clash.json](./281175-red-clash.json) |
 | Red Colony | 139466 | [139466-red-colony.json](./139466-red-colony.json) |
 | Red Colony 2 | 153796 | [153796-red-colony-2.json](./153796-red-colony-2.json) |
 | Red Colony 3 | 192073 | [192073-red-colony-3.json](./192073-red-colony-3.json) |
@@ -11172,6 +11176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Route Candle for Steam | 90560 | [90560-route-candle-for-steam.json](./90560-route-candle-for-steam.json) |
 | Route Me Mail and Delivery Co | 147477 | [147477-route-me-mail-and-delivery-co.json](./147477-route-me-mail-and-delivery-co.json) |
 | Route Z | 407305 | [407305-route-z.json](./407305-route-z.json) |
+| Route-16 | 281162 | [281162-route-16.json](./281162-route-16.json) |
 | Route-16 | 40185 | [40185-route-16.json](./40185-route-16.json) |
 | Route-16 Collection | 411156 | [411156-route-16-collection.json](./411156-route-16-collection.json) |
 | Route-16 Turbo | 411159 | [411159-route-16-turbo.json](./411159-route-16-turbo.json) |
