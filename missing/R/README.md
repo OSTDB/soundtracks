@@ -6103,6 +6103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RetroSpace | 295608 | [295608-retrospace.json](./295608-retrospace.json) |
 | Retrospect | 376622 | [376622-retrospect.json](./376622-retrospect.json) |
 | RetroTime | 318888 | [318888-retrotime.json](./318888-retrotime.json) |
+| RetroTime Playdate | 273675 | [273675-retrotime-playdate.json](./273675-retrotime-playdate.json) |
 | RetroVamp | 126634 | [126634-retrovamp.json](./126634-retrovamp.json) |
 | Retrovirus | 15418 | [15418-retrovirus.json](./15418-retrovirus.json) |
 | Retrowave | 130243 | [130243-retrowave.json](./130243-retrowave.json) |
