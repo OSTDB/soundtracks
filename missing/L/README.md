@@ -5793,6 +5793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Devil | 402144 | [402144-little-devil.json](./402144-little-devil.json) |
 | Little Devil Inside | 9687 | [9687-little-devil-inside.json](./9687-little-devil-inside.json) |
 | Little Devil: Foster Mayhem | 261970 | [261970-little-devil-foster-mayhem.json](./261970-little-devil-foster-mayhem.json) |
+| Little Devils | 248992 | [248992-little-devils.json](./248992-little-devils.json) |
 | Little Devourers | 169454 | [169454-little-devourers.json](./169454-little-devourers.json) |
 | Little Dew Drop | 265335 | [265335-little-dew-drop.json](./265335-little-dew-drop.json) |
 | Little Diggel | 29764 | [29764-little-diggel.json](./29764-little-diggel.json) |
