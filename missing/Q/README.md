@@ -549,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quar: Battle for Gate 18 | 33649 | [33649-quar-battle-for-gate-18.json](./33649-quar-battle-for-gate-18.json) |
 | Quar: Infernal Machines | 116239 | [116239-quar-infernal-machines.json](./116239-quar-infernal-machines.json) |
 | Quarantennis | 179977 | [179977-quarantennis.json](./179977-quarantennis.json) |
+| Quarantine | 271508 | [271508-quarantine.json](./271508-quarantine.json) |
 | Quarantine | 295910 | [295910-quarantine.json](./295910-quarantine.json) |
 | Quarantine | 4289 | [4289-quarantine.json](./4289-quarantine.json) |
 | Quarantine Area: Zombie Attack | 370791 | [370791-quarantine-area-zombie-attack.json](./370791-quarantine-area-zombie-attack.json) |
