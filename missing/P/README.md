@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P | 387293 | [387293-p.json](./387293-p.json) |
 | P Diddy Songs Quiz / Trivia, Music Player, Lyrics, & News: Ultimate P Diddy Fan App | 334882 | [334882-p-diddy-songs-quiz-trivia-music-player-lyrics-and-news-ultimate-p-diddy-fan-app.json](./334882-p-diddy-songs-quiz-trivia-music-player-lyrics-and-news-ultimate-p-diddy-fan-app.json) |
 | P Fit | 315938 | [315938-p-fit.json](./315938-p-fit.json) |
+| P Rank 64 | 250084 | [250084-p-rank-64.json](./250084-p-rank-64.json) |
 | P World | 332449 | [332449-p-world.json](./332449-p-world.json) |
 | P-- | 418600 | [418600-p.json](./418600-p.json) |
 | P-3 Biotic | 36257 | [36257-p-3-biotic.json](./36257-p-3-biotic.json) |
@@ -8715,6 +8716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Boy | 303746 | [303746-pizza-boy.json](./303746-pizza-boy.json) |
 | Pizza Boy | 94182 | [94182-pizza-boy.json](./94182-pizza-boy.json) |
 | Pizza Boy Z | 320064 | [320064-pizza-boy-z.json](./320064-pizza-boy-z.json) |
+| Pizza Brave | 250108 | [250108-pizza-brave.json](./250108-pizza-brave.json) |
 | Pizza Break | 164307 | [164307-pizza-break.json](./164307-pizza-break.json) |
 | Pizza Break Head to Head | 164306 | [164306-pizza-break-head-to-head.json](./164306-pizza-break-head-to-head.json) |
 | Pizza Busters: The Final Task | 336981 | [336981-pizza-busters-the-final-task.json](./336981-pizza-busters-the-final-task.json) |
@@ -10211,6 +10213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Lord | 377987 | [377987-pocket-lord.json](./377987-pocket-lord.json) |
 | Pocket Love | 192100 | [192100-pocket-love.json](./192100-pocket-love.json) |
 | Pocket Love | 63334 | [63334-pocket-love.json](./63334-pocket-love.json) |
+| Pocket Love 2 | 250126 | [250126-pocket-love-2.json](./250126-pocket-love-2.json) |
 | Pocket Love: If | 43973 | [43973-pocket-love-if.json](./43973-pocket-love-if.json) |
 | Pocket Ludo | 401098 | [401098-pocket-ludo.json](./401098-pocket-ludo.json) |
 | Pocket Luna | 193878 | [193878-pocket-luna.json](./193878-pocket-luna.json) |
@@ -12251,6 +12254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Ball Battle Royale | 235679 | [235679-pool-ball-battle-royale.json](./235679-pool-ball-battle-royale.json) |
 | Pool Billiard | 86650 | [86650-pool-billiard.json](./86650-pool-billiard.json) |
 | Pool Billiards 3D | 241869 | [241869-pool-billiards-3d.json](./241869-pool-billiards-3d.json) |
+| Pool Blitz | 250103 | [250103-pool-blitz.json](./250103-pool-blitz.json) |
 | Pool Break 3D Billiards 8 Ball, 9 Ball, Snooker | 100147 | [100147-pool-break-3d-billiards-8-ball-9-ball-snooker.json](./100147-pool-break-3d-billiards-8-ball-9-ball-snooker.json) |
 | Pool Break Pro 3D Billiards | 96292 | [96292-pool-break-pro-3d-billiards.json](./96292-pool-break-pro-3d-billiards.json) |
 | Pool Champion | 85929 | [85929-pool-champion.json](./85929-pool-champion.json) |
@@ -17560,6 +17564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pursuing Susie | 84534 | [84534-pursuing-susie.json](./84534-pursuing-susie.json) |
 | Pursuit | 110850 | [110850-pursuit.json](./110850-pursuit.json) |
 | Pursuit | 374026 | [374026-pursuit.json](./374026-pursuit.json) |
+| Pursuit Force | 250107 | [250107-pursuit-force.json](./250107-pursuit-force.json) |
 | Pursuit Force: Extreme Justice | 23055 | [23055-pursuit-force-extreme-justice.json](./23055-pursuit-force-extreme-justice.json) |
 | Pursuit Force: Extreme Justice | 299391 | [299391-pursuit-force-extreme-justice.json](./299391-pursuit-force-extreme-justice.json) |
 | Pursuit of Justice | 70315 | [70315-pursuit-of-justice.json](./70315-pursuit-of-justice.json) |
@@ -17961,6 +17966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle by Nikoli W Hitori | 256430 | [256430-puzzle-by-nikoli-w-hitori.json](./256430-puzzle-by-nikoli-w-hitori.json) |
 | Puzzle by Nikoli W Kakuro | 262657 | [262657-puzzle-by-nikoli-w-kakuro.json](./262657-puzzle-by-nikoli-w-kakuro.json) |
 | Puzzle by Nikoli W Masyu | 241175 | [241175-puzzle-by-nikoli-w-masyu.json](./241175-puzzle-by-nikoli-w-masyu.json) |
+| Puzzle by Nikoli W Numberlink | 250118 | [250118-puzzle-by-nikoli-w-numberlink.json](./250118-puzzle-by-nikoli-w-numberlink.json) |
 | Puzzle by Nikoli W Slitherlink | 225476 | [225476-puzzle-by-nikoli-w-slitherlink.json](./225476-puzzle-by-nikoli-w-slitherlink.json) |
 | Puzzle by Nikoli W Yajilin | 251395 | [251395-puzzle-by-nikoli-w-yajilin.json](./251395-puzzle-by-nikoli-w-yajilin.json) |
 | Puzzle by Nikoli W: Sudoku | 218511 | [218511-puzzle-by-nikoli-w-sudoku.json](./218511-puzzle-by-nikoli-w-sudoku.json) |
