@@ -2526,6 +2526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Pirate Warriors 3 - Deluxe Edition | 77177 | [77177-one-piece-pirate-warriors-3-deluxe-edition.json](./77177-one-piece-pirate-warriors-3-deluxe-edition.json) |
 | One Piece: Pirate Warriors 3 - DLC Pack 1 | 171049 | [171049-one-piece-pirate-warriors-3-dlc-pack-1.json](./171049-one-piece-pirate-warriors-3-dlc-pack-1.json) |
 | One Piece: Pirate Warriors 3 - DLC Pack 2 | 171052 | [171052-one-piece-pirate-warriors-3-dlc-pack-2.json](./171052-one-piece-pirate-warriors-3-dlc-pack-2.json) |
+| One Piece: Pirate Warriors 3 - Story Pack | 263282 | [263282-one-piece-pirate-warriors-3-story-pack.json](./263282-one-piece-pirate-warriors-3-story-pack.json) |
 | One Piece: Pirate Warriors 4 | 120436 | [120436-one-piece-pirate-warriors-4.json](./120436-one-piece-pirate-warriors-4.json) |
 | One Piece: Pirate Warriors 4 - Additional Episodes Pack | 266741 | [266741-one-piece-pirate-warriors-4-additional-episodes-pack.json](./266741-one-piece-pirate-warriors-4-additional-episodes-pack.json) |
 | One Piece: Pirate Warriors 4 - Character Pack 7 | 375163 | [375163-one-piece-pirate-warriors-4-character-pack-7.json](./375163-one-piece-pirate-warriors-4-character-pack-7.json) |
@@ -2977,6 +2978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Fortress | 266277 | [266277-only-fortress.json](./266277-only-fortress.json) |
 | Only Furry 18+ | 234113 | [234113-only-furry-18.json](./234113-only-furry-18.json) |
 | Only Girl in High School | 223998 | [223998-only-girl-in-high-school.json](./223998-only-girl-in-high-school.json) |
+| Only Go Up | 263305 | [263305-only-go-up.json](./263305-only-go-up.json) |
 | Only Go Up 2 | 370819 | [370819-only-go-up-2.json](./370819-only-go-up-2.json) |
 | Only Golf | 291397 | [291397-only-golf.json](./291397-only-golf.json) |
 | Only Good Babysitters Go to Heaven | 410495 | [410495-only-good-babysitters-go-to-heaven.json](./410495-only-good-babysitters-go-to-heaven.json) |
