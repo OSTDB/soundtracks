@@ -4567,6 +4567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reigns: Three Kingdoms | 204453 | [204453-reigns-three-kingdoms.json](./204453-reigns-three-kingdoms.json) |
 | Reijou Tantei: Office Love Jikenbo | 203342 | [203342-reijou-tantei-office-love-jikenbo.json](./203342-reijou-tantei-office-love-jikenbo.json) |
 | Reikai Doushi | 40390 | [40390-reikai-doushi.json](./40390-reikai-doushi.json) |
+| Reikai Nikki | 269900 | [269900-reikai-nikki.json](./269900-reikai-nikki.json) |
 | Reiko's Fragments | 125118 | [125118-reikos-fragments.json](./125118-reikos-fragments.json) |
 | Reikon Dungeon | 185153 | [185153-reikon-dungeon.json](./185153-reikon-dungeon.json) |
 | Reikon: Reawaken | 250987 | [250987-reikon-reawaken.json](./250987-reikon-reawaken.json) |
@@ -9467,9 +9468,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman & Crystal | 366622 | [366622-rockman-and-crystal.json](./366622-rockman-and-crystal.json) |
 | Rockman & Forte FC | 320354 | [320354-rockman-and-forte-fc.json](./320354-rockman-and-forte-fc.json) |
 | Rockman 2: Basic Master | 269878 | [269878-rockman-2-basic-master.json](./269878-rockman-2-basic-master.json) |
+| Rockman 2: Claw | 269886 | [269886-rockman-2-claw.json](./269886-rockman-2-claw.json) |
 | Rockman 2: Dr. Wily no Nazo | 170742 | [170742-rockman-2-dr-wily-no-nazo.json](./170742-rockman-2-dr-wily-no-nazo.json) |
 | Rockman 2: Gray Zone | 269879 | [269879-rockman-2-gray-zone.json](./269879-rockman-2-gray-zone.json) |
 | Rockman 2: StalkerMaestro vs The Rockmen | 290238 | [290238-rockman-2-stalkermaestro-vs-the-rockmen.json](./290238-rockman-2-stalkermaestro-vs-the-rockmen.json) |
+| Rockman 2014 New Year's Hack | 269889 | [269889-rockman-2014-new-years-hack.json](./269889-rockman-2014-new-years-hack.json) |
+| Rockman 2015 New Year's Hack | 269890 | [269890-rockman-2015-new-years-hack.json](./269890-rockman-2015-new-years-hack.json) |
+| Rockman 2018 New Year's Hack | 269891 | [269891-rockman-2018-new-years-hack.json](./269891-rockman-2018-new-years-hack.json) |
+| Rockman 2019 New Year's Hack | 269892 | [269892-rockman-2019-new-years-hack.json](./269892-rockman-2019-new-years-hack.json) |
 | Rockman 3: Burst Chaser | 304132 | [304132-rockman-3-burst-chaser.json](./304132-rockman-3-burst-chaser.json) |
 | Rockman 3: Claw | 269880 | [269880-rockman-3-claw.json](./269880-rockman-3-claw.json) |
 | Rockman 3: The Last of Mushroom Kingdom?! | 245360 | [245360-rockman-3-the-last-of-mushroom-kingdom.json](./245360-rockman-3-the-last-of-mushroom-kingdom.json) |
@@ -9492,6 +9498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman Complete Works: Rockman 4 - Aratanaru Yabou!! | 171829 | [171829-rockman-complete-works-rockman-4-aratanaru-yabou.json](./171829-rockman-complete-works-rockman-4-aratanaru-yabou.json) |
 | Rockman Complete Works: Rockman 5 - Blues no Wana!? | 171830 | [171830-rockman-complete-works-rockman-5-blues-no-wana.json](./171830-rockman-complete-works-rockman-5-blues-no-wana.json) |
 | Rockman Complete Works: Rockman 6 - Shijou Saidai no Tatakai!! | 171832 | [171832-rockman-complete-works-rockman-6-shijou-saidai-no-tatakai.json](./171832-rockman-complete-works-rockman-6-shijou-saidai-no-tatakai.json) |
+| Rockman Cross X | 269881 | [269881-rockman-cross-x.json](./269881-rockman-cross-x.json) |
 | Rockman Dash / Rockman Dash 2 Value Pack | 171885 | [171885-rockman-dash-rockman-dash-2-value-pack.json](./171885-rockman-dash-rockman-dash-2-value-pack.json) |
 | Rockman Dash Golf | 290977 | [290977-rockman-dash-golf.json](./290977-rockman-dash-golf.json) |
 | Rockman Dash Zhěngjiù Dìqiú Dàmàoxiǎn | 290875 | [290875-rockman-dash-zhengjiu-diqiu-damaoxian.json](./290875-rockman-dash-zhengjiu-diqiu-damaoxian.json) |
@@ -9516,6 +9523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RockMan EXE N1 Battle | 37354 | [37354-rockman-exe-n1-battle.json](./37354-rockman-exe-n1-battle.json) |
 | Rockman EXE Phantom of Network | 265957 | [265957-rockman-exe-phantom-of-network.json](./265957-rockman-exe-phantom-of-network.json) |
 | Rockman Exhaust | 199217 | [199217-rockman-exhaust.json](./199217-rockman-exhaust.json) |
+| Rockman Gaiden | 269882 | [269882-rockman-gaiden.json](./269882-rockman-gaiden.json) |
 | Rockman GP | 309669 | [309669-rockman-gp.json](./309669-rockman-gp.json) |
 | Rockman Install Metal | 210486 | [210486-rockman-install-metal.json](./210486-rockman-install-metal.json) |
 | Rockman IQ Xuànfēng | 389005 | [389005-rockman-iq-xuanfeng.json](./389005-rockman-iq-xuanfeng.json) |
@@ -9542,6 +9550,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman Zero 3: Kaizou Card - Part 1 | 352613 | [352613-rockman-zero-3-kaizou-card-part-1.json](./352613-rockman-zero-3-kaizou-card-part-1.json) |
 | Rockman Zero 3: Kaizou Card - Part 2 | 352614 | [352614-rockman-zero-3-kaizou-card-part-2.json](./352614-rockman-zero-3-kaizou-card-part-2.json) |
 | Rockman ZX Prequel | 209270 | [209270-rockman-zx-prequel.json](./209270-rockman-zx-prequel.json) |
+| Rockman: Claw | 269885 | [269885-rockman-claw.json](./269885-rockman-claw.json) |
+| Rockman: New Year 2020 | 269887 | [269887-rockman-new-year-2020.json](./269887-rockman-new-year-2020.json) |
 | Rockman.EXE Operate Shooting Star | 1774 | [1774-rockman-exe-operate-shooting-star.json](./1774-rockman-exe-operate-shooting-star.json) |
 | Rockmen R: Dr. Wily no Gyakushuu | 80225 | [80225-rockmen-r-dr-wily-no-gyakushuu.json](./80225-rockmen-r-dr-wily-no-gyakushuu.json) |
 | Rockmen R2: Dr. W*ly no Saiki!! | 137941 | [137941-rockmen-r2-dr-w-ly-no-saiki.json](./137941-rockmen-r2-dr-w-ly-no-saiki.json) |
@@ -10173,6 +10183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll to the Top | 108194 | [108194-roll-to-the-top.json](./108194-roll-to-the-top.json) |
 | Roll Turtle | 208577 | [208577-roll-turtle.json](./208577-roll-turtle.json) |
 | Roll-a-word | 241571 | [241571-roll-a-word.json](./241571-roll-a-word.json) |
+| Roll-chan L | 269884 | [269884-roll-chan-l.json](./269884-roll-chan-l.json) |
 | Roll-o-Rama | 185883 | [185883-roll-o-rama.json](./185883-roll-o-rama.json) |
 | Roll, Die, Go Home | 182725 | [182725-roll-die-go-home.json](./182725-roll-die-go-home.json) |
 | Roll: A Puzzle Contraption | 303664 | [303664-roll-a-puzzle-contraption.json](./303664-roll-a-puzzle-contraption.json) |
