@@ -2469,6 +2469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevenses: The Flask | 123974 | [123974-elevenses-the-flask.json](./123974-elevenses-the-flask.json) |
 | Eleventh: Unsacred | 255165 | [255165-eleventh-unsacred.json](./255165-eleventh-unsacred.json) |
 | Elevral | 393044 | [393044-elevral.json](./393044-elevral.json) |
+| Elewar: Fused Survivors | 258285 | [258285-elewar-fused-survivors.json](./258285-elewar-fused-survivors.json) |
 | Elex | 11567 | [11567-elex.json](./11567-elex.json) |
 | Elex II | 55147 | [55147-elex-ii.json](./55147-elex-ii.json) |
 | Elex II: Collector's Edition | 181638 | [181638-elex-ii-collectors-edition.json](./181638-elex-ii-collectors-edition.json) |
