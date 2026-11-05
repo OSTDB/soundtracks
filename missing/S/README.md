@@ -19276,7 +19276,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -23425,6 +23424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Apprentice: Magical Murder Mystery | 153909 | [153909-star-apprentice-magical-murder-mystery.json](./153909-star-apprentice-magical-murder-mystery.json) |
 | Star Aquarium | 348803 | [348803-star-aquarium.json](./348803-star-aquarium.json) |
 | Star Archer | 337982 | [337982-star-archer.json](./337982-star-archer.json) |
+| Star Armada | 261595 | [261595-star-armada.json](./261595-star-armada.json) |
 | Star Arthur Densetsu I: Wakusei Mephius | 65513 | [65513-star-arthur-densetsu-i-wakusei-mephius.json](./65513-star-arthur-densetsu-i-wakusei-mephius.json) |
 | Star Ash Fleet | 345081 | [345081-star-ash-fleet.json](./345081-star-ash-fleet.json) |
 | Star Assault | 53653 | [53653-star-assault.json](./53653-star-assault.json) |
