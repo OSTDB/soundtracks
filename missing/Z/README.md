@@ -849,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zephyr's Pass | 320282 | [320282-zephyrs-pass.json](./320282-zephyrs-pass.json) |
 | Zephyrus | 163126 | [163126-zephyrus.json](./163126-zephyrus.json) |
 | Zeppelin | 23871 | [23871-zeppelin.json](./23871-zeppelin.json) |
+| Zeppelin Armada | 257149 | [257149-zeppelin-armada.json](./257149-zeppelin-armada.json) |
 | Zeppelin Rescue | 297034 | [297034-zeppelin-rescue.json](./297034-zeppelin-rescue.json) |
 | Zeppelin Rush | 348925 | [348925-zeppelin-rush.json](./348925-zeppelin-rush.json) |
 | Zeppelin: Escape Room | 190085 | [190085-zeppelin-escape-room.json](./190085-zeppelin-escape-room.json) |
