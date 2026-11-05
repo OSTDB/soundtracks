@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo Infinite: Operation Infinite | 381718 | [381718-halo-infinite-operation-infinite.json](./381718-halo-infinite-operation-infinite.json) |
 | Halo Infinite: Season 2 - Lone Wolves | 196656 | [196656-halo-infinite-season-2-lone-wolves.json](./196656-halo-infinite-season-2-lone-wolves.json) |
 | Halo Infinite: Season 4 - Infection | 250295 | [250295-halo-infinite-season-4-infection.json](./250295-halo-infinite-season-4-infection.json) |
+| Halo Infinite: Season 5 - Reckoning | 257742 | [257742-halo-infinite-season-5-reckoning.json](./257742-halo-infinite-season-5-reckoning.json) |
 | Halo Infinite: Steelbook Edition | 171280 | [171280-halo-infinite-steelbook-edition.json](./171280-halo-infinite-steelbook-edition.json) |
 | Halo Infinite: Winter Update | 225485 | [225485-halo-infinite-winter-update.json](./225485-halo-infinite-winter-update.json) |
 | Halo Infinte: Operation - Anvil | 335852 | [335852-halo-infinte-operation-anvil.json](./335852-halo-infinte-operation-anvil.json) |
@@ -10614,6 +10615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel: Lake Edition | 265870 | [265870-hotel-lake-edition.json](./265870-hotel-lake-edition.json) |
 | Hotelnomaly | 318062 | [318062-hotelnomaly.json](./318062-hotelnomaly.json) |
 | Hotfix | 142777 | [142777-hotfix.json](./142777-hotfix.json) |
+| Hotfix93 | 257745 | [257745-hotfix93.json](./257745-hotfix93.json) |
 | HotFloor | 102406 | [102406-hotfloor.json](./102406-hotfloor.json) |
 | HotGirls Sliding Puzzle | 168431 | [168431-hotgirls-sliding-puzzle.json](./168431-hotgirls-sliding-puzzle.json) |
 | HotHead | 110340 | [110340-hothead.json](./110340-hothead.json) |
