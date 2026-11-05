@@ -10756,6 +10756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anthony the Monk | 337954 | [337954-anthony-the-monk.json](./337954-anthony-the-monk.json) |
 | Anthony's Essay | 58009 | [58009-anthonys-essay.json](./58009-anthonys-essay.json) |
 | Anthro Heat | 236405 | [236405-anthro-heat.json](./236405-anthro-heat.json) |
+| Anthro-Terra | 293562 | [293562-anthro-terra.json](./293562-anthro-terra.json) |
 | Anthropocene Epoch | 186806 | [186806-anthropocene-epoch.json](./186806-anthropocene-epoch.json) |
 | Anthropoda Power Fantasy | 330034 | [330034-anthropoda-power-fantasy.json](./330034-anthropoda-power-fantasy.json) |
 | Anthropomachy | 118050 | [118050-anthropomachy.json](./118050-anthropomachy.json) |
@@ -16201,6 +16202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
@@ -16308,6 +16310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic | 324958 | [324958-atomic.json](./324958-atomic.json) |
 | Atomic 79 | 30119 | [30119-atomic-79.json](./30119-atomic-79.json) |
 | Atomic Adam: Episode 1 | 79801 | [79801-atomic-adam-episode-1.json](./79801-atomic-adam-episode-1.json) |
+| Atomic Arena | 293568 | [293568-atomic-arena.json](./293568-atomic-arena.json) |
 | Atomic Betty 2 | 202191 | [202191-atomic-betty-2.json](./202191-atomic-betty-2.json) |
 | Atomic Betty: Intergalactic Conspiracy | 205892 | [205892-atomic-betty-intergalactic-conspiracy.json](./205892-atomic-betty-intergalactic-conspiracy.json) |
 | Atomic Blast | 242418 | [242418-atomic-blast.json](./242418-atomic-blast.json) |
