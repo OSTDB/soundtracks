@@ -12362,6 +12362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Yie Ar Kung-Fu | 125660 | [125660-arcade-archives-yie-ar-kung-fu.json](./125660-arcade-archives-yie-ar-kung-fu.json) |
 | Arcade Archives: Zero Team | 147098 | [147098-arcade-archives-zero-team.json](./147098-arcade-archives-zero-team.json) |
 | Arcade Archives: Zing Zing Zip | 265707 | [265707-arcade-archives-zing-zing-zip.json](./265707-arcade-archives-zing-zing-zip.json) |
+| Arcade Asteroids | 276526 | [276526-arcade-asteroids.json](./276526-arcade-asteroids.json) |
 | Arcade Asylum | 276711 | [276711-arcade-asylum.json](./276711-arcade-asylum.json) |
 | Arcade Audience | 417501 | [417501-arcade-audience.json](./417501-arcade-audience.json) |
 | Arcade Bank 3 Minute Tetris | 233648 | [233648-arcade-bank-3-minute-tetris.json](./233648-arcade-bank-3-minute-tetris.json) |
@@ -12468,6 +12469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Party | 241076 | [241076-arcade-party.json](./241076-arcade-party.json) |
 | Arcade Party Pak | 92977 | [92977-arcade-party-pak.json](./92977-arcade-party-pak.json) |
 | Arcade Pinball | 86706 | [86706-arcade-pinball.json](./86706-arcade-pinball.json) |
+| Arcade Pong | 276530 | [276530-arcade-pong.json](./276530-arcade-pong.json) |
 | Arcade Pool | 11909 | [11909-arcade-pool.json](./11909-arcade-pool.json) |
 | Arcade Pool & Snooker | 91692 | [91692-arcade-pool-and-snooker.json](./91692-arcade-pool-and-snooker.json) |
 | Arcade Pool II | 384609 | [384609-arcade-pool-ii.json](./384609-arcade-pool-ii.json) |
@@ -15352,6 +15354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids Bangers | 178980 | [178980-asteroids-bangers.json](./178980-asteroids-bangers.json) |
 | Asteroids Belt: Try to Survive! | 164232 | [164232-asteroids-belt-try-to-survive.json](./164232-asteroids-belt-try-to-survive.json) |
 | Asteroids Deluxe | 13689 | [13689-asteroids-deluxe.json](./13689-asteroids-deluxe.json) |
+| Asteroids Deluxe | 276529 | [276529-asteroids-deluxe.json](./276529-asteroids-deluxe.json) |
 | Asteroids Deluxe: Evolved | 329638 | [329638-asteroids-deluxe-evolved.json](./329638-asteroids-deluxe-evolved.json) |
 | Asteroids Do Concern Me | 91806 | [91806-asteroids-do-concern-me.json](./91806-asteroids-do-concern-me.json) |
 | Asteroids Extreme | 190823 | [190823-asteroids-extreme.json](./190823-asteroids-extreme.json) |
@@ -16270,7 +16273,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
