@@ -2850,6 +2850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neural Nexus | 257849 | [257849-neural-nexus.json](./257849-neural-nexus.json) |
 | Neural Requiem | 389662 | [389662-neural-requiem.json](./389662-neural-requiem.json) |
 | Neural Rot | 374239 | [374239-neural-rot.json](./374239-neural-rot.json) |
+| Neural Shock | 292335 | [292335-neural-shock.json](./292335-neural-shock.json) |
 | Neural Synapse | 297159 | [297159-neural-synapse.json](./297159-neural-synapse.json) |
 | Neural Tanks | 369702 | [369702-neural-tanks.json](./369702-neural-tanks.json) |
 | Neuralgia | 270515 | [270515-neuralgia.json](./270515-neuralgia.json) |
