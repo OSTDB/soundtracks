@@ -4746,6 +4746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightning Legend: Daigo no Daibouken | 44772 | [44772-lightning-legend-daigo-no-daibouken.json](./44772-lightning-legend-daigo-no-daibouken.json) |
 | Lightning Link | 386224 | [386224-lightning-link.json](./386224-lightning-link.json) |
 | Lightning Magician Clicker | 107106 | [107106-lightning-magician-clicker.json](./107106-lightning-magician-clicker.json) |
+| Lightning Mobile Unit | 297697 | [297697-lightning-mobile-unit.json](./297697-lightning-mobile-unit.json) |
 | Lightning Plan | 246344 | [246344-lightning-plan.json](./246344-lightning-plan.json) |
 | Lightning Returns: Final Fantasy XIII | 2449 | [2449-lightning-returns-final-fantasy-xiii.json](./2449-lightning-returns-final-fantasy-xiii.json) |
 | Lightning Returns: Final Fantasy XIII - Collector's Edition | 41833 | [41833-lightning-returns-final-fantasy-xiii-collectors-edition.json](./41833-lightning-returns-final-fantasy-xiii-collectors-edition.json) |
@@ -5032,6 +5033,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limbs | 238751 | [238751-limbs.json](./238751-limbs.json) |
 | Limbus | 310118 | [310118-limbus.json](./310118-limbus.json) |
 | Limbus Company | 194106 | [194106-limbus-company.json](./194106-limbus-company.json) |
+| Limbus Company: Season 1 - Orientation | 297685 | [297685-limbus-company-season-1-orientation.json](./297685-limbus-company-season-1-orientation.json) |
+| Limbus Company: Season 2 - Reminiscence | 297684 | [297684-limbus-company-season-2-reminiscence.json](./297684-limbus-company-season-2-reminiscence.json) |
 | Limbus Company: Season 3 - Bon Voyage | 297432 | [297432-limbus-company-season-3-bon-voyage.json](./297432-limbus-company-season-3-bon-voyage.json) |
 | Limbus Company: Season 4 - Clear All Cathy | 297431 | [297431-limbus-company-season-4-clear-all-cathy.json](./297431-limbus-company-season-4-clear-all-cathy.json) |
 | Limbus Company: Season 5 - Oblivion | 319013 | [319013-limbus-company-season-5-oblivion.json](./319013-limbus-company-season-5-oblivion.json) |
@@ -9691,6 +9694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lurking | 397408 | [397408-lurking.json](./397408-lurking.json) |
 | Lurking Danger | 337745 | [337745-lurking-danger.json](./337745-lurking-danger.json) |
 | Lurking Darkness | 319025 | [319025-lurking-darkness.json](./319025-lurking-darkness.json) |
+| Lurking for Love | 297689 | [297689-lurking-for-love.json](./297689-lurking-for-love.json) |
 | Lurking I: Immortui | 176418 | [176418-lurking-i-immortui.json](./176418-lurking-i-immortui.json) |
 | Lurking in the Dark | 163110 | [163110-lurking-in-the-dark.json](./163110-lurking-in-the-dark.json) |
 | Lurking in the Shadows | 58244 | [58244-lurking-in-the-shadows.json](./58244-lurking-in-the-shadows.json) |
