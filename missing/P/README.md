@@ -686,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint By Numbers: Cooking Time! Ep. 5 | 241794 | [241794-paint-by-numbers-cooking-time-ep-5.json](./241794-paint-by-numbers-cooking-time-ep-5.json) |
 | Paint By Numbers: Cooking Time! Ep. 6 | 241793 | [241793-paint-by-numbers-cooking-time-ep-6.json](./241793-paint-by-numbers-cooking-time-ep-6.json) |
 | Paint By Numbers: Cooking Time! Ep. 7 | 241792 | [241792-paint-by-numbers-cooking-time-ep-7.json](./241792-paint-by-numbers-cooking-time-ep-7.json) |
+| Paint by Pixel | 286862 | [286862-paint-by-pixel.json](./286862-paint-by-pixel.json) |
 | Paint by Pixel 2 | 249203 | [249203-paint-by-pixel-2.json](./249203-paint-by-pixel-2.json) |
 | Paint by Pixel 3 | 257485 | [257485-paint-by-pixel-3.json](./257485-paint-by-pixel-3.json) |
 | Paint by Words | 374600 | [374600-paint-by-words.json](./374600-paint-by-words.json) |
@@ -2576,6 +2577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Party Time + Royal Pack Set | 280071 | [280071-party-party-time-royal-pack-set.json](./280071-party-party-time-royal-pack-set.json) |
 | Party Party Time + Special Packs | 238106 | [238106-party-party-time-special-packs.json](./238106-party-party-time-special-packs.json) |
 | Party Party Time + Ultra Pack Set | 260684 | [260684-party-party-time-ultra-pack-set.json](./260684-party-party-time-ultra-pack-set.json) |
+| Party Party Time 2 | 286882 | [286882-party-party-time-2.json](./286882-party-party-time-2.json) |
 | Party Party Time 2 + Duo Pack Set | 304813 | [304813-party-party-time-2-duo-pack-set.json](./304813-party-party-time-2-duo-pack-set.json) |
 | Party Party Time 2: Lively Party Pack | 374168 | [374168-party-party-time-2-lively-party-pack.json](./374168-party-party-time-2-lively-party-pack.json) |
 | Party Party Time 2: Party Hustle Pack | 296246 | [296246-party-party-time-2-party-hustle-pack.json](./296246-party-party-time-2-party-hustle-pack.json) |
@@ -8958,6 +8960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Modular Tower Defense. Sci-Fi TD Strategy | 126597 | [126597-planet-modular-tower-defense-sci-fi-td-strategy.json](./126597-planet-modular-tower-defense-sci-fi-td-strategy.json) |
 | Planet Monsters | 49359 | [49359-planet-monsters.json](./49359-planet-monsters.json) |
 | Planet Morph | 216636 | [216636-planet-morph.json](./216636-planet-morph.json) |
+| Planet Mort | 286902 | [286902-planet-mort.json](./286902-planet-mort.json) |
 | Planet Nine | 113694 | [113694-planet-nine.json](./113694-planet-nine.json) |
 | Planet Nine | 417290 | [417290-planet-nine.json](./417290-planet-nine.json) |
 | Planet Nomads | 11350 | [11350-planet-nomads.json](./11350-planet-nomads.json) |
@@ -13309,6 +13312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerline.io | 191257 | [191257-powerline-io.json](./191257-powerline-io.json) |
 | Powerlust | 187787 | [187787-powerlust.json](./187787-powerlust.json) |
 | PowerMonger: World War 1 Edition | 73611 | [73611-powermonger-world-war-1-edition.json](./73611-powermonger-world-war-1-edition.json) |
+| Powermount | 286910 | [286910-powermount.json](./286910-powermount.json) |
 | Powernaut 2 | 172451 | [172451-powernaut-2.json](./172451-powernaut-2.json) |
 | Powernaut Decay | 280156 | [280156-powernaut-decay.json](./280156-powernaut-decay.json) |
 | Powerplay | 311141 | [311141-powerplay.json](./311141-powerplay.json) |
