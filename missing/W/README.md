@@ -4438,6 +4438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers of Wings Jigsaw Puzzles: Expansion Pack 2 | 357964 | [357964-whispers-of-wings-jigsaw-puzzles-expansion-pack-2.json](./357964-whispers-of-wings-jigsaw-puzzles-expansion-pack-2.json) |
 | Whispers of Wings Jigsaw Puzzles: Expansion Pack 3 | 357965 | [357965-whispers-of-wings-jigsaw-puzzles-expansion-pack-3.json](./357965-whispers-of-wings-jigsaw-puzzles-expansion-pack-3.json) |
 | Whispers of Wings Jigsaw Puzzles: Expansion Pack 4 | 357966 | [357966-whispers-of-wings-jigsaw-puzzles-expansion-pack-4.json](./357966-whispers-of-wings-jigsaw-puzzles-expansion-pack-4.json) |
+| Whispers of Yashan | 278803 | [278803-whispers-of-yashan.json](./278803-whispers-of-yashan.json) |
 | Whispers: Interactive Stories | 223892 | [223892-whispers-interactive-stories.json](./223892-whispers-interactive-stories.json) |
 | Whispers: Last Hope | 29720 | [29720-whispers-last-hope.json](./29720-whispers-last-hope.json) |
 | Whisperstring | 329970 | [329970-whisperstring.json](./329970-whisperstring.json) |
