@@ -1792,6 +1792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maguntsche: Chapter Two | 371971 | [371971-maguntsche-chapter-two.json](./371971-maguntsche-chapter-two.json) |
 | Magurele Mystery | 211524 | [211524-magurele-mystery.json](./211524-magurele-mystery.json) |
 | Măgurele Mystery 2 | 293487 | [293487-magurele-mystery-2.json](./293487-magurele-mystery-2.json) |
+| Maguro Macho Adventure | 287990 | [287990-maguro-macho-adventure.json](./287990-maguro-macho-adventure.json) |
 | Magus | 170346 | [170346-magus.json](./170346-magus.json) |
 | Magus | 8577 | [8577-magus.json](./8577-magus.json) |
 | Magus in Mystic Geometries. | 123591 | [123591-magus-in-mystic-geometries.json](./123591-magus-in-mystic-geometries.json) |
@@ -5766,6 +5767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9381,6 +9383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Assault | 37375 | [37375-metal-assault.json](./37375-metal-assault.json) |
 | Metal Assault | 9040 | [9040-metal-assault.json](./9040-metal-assault.json) |
 | Metal Banana | 161543 | [161543-metal-banana.json](./161543-metal-banana.json) |
+| Metal Beans | 288026 | [288026-metal-beans.json](./288026-metal-beans.json) |
 | Metal Black: Alternative | 70648 | [70648-metal-black-alternative.json](./70648-metal-black-alternative.json) |
 | Metal Black: S-Tribute | 231408 | [231408-metal-black-s-tribute.json](./231408-metal-black-s-tribute.json) |
 | Metal Brigade Tactics | 108330 | [108330-metal-brigade-tactics.json](./108330-metal-brigade-tactics.json) |
@@ -11655,6 +11658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mina the Hollower GBC Demake | 305750 | [305750-mina-the-hollower-gbc-demake.json](./305750-mina-the-hollower-gbc-demake.json) |
 | Mina's Garden | 280088 | [280088-minas-garden.json](./280088-minas-garden.json) |
 | Minable & Create | 155123 | [155123-minable-and-create.json](./155123-minable-and-create.json) |
+| Minagara Oreru DS Origami | 288016 | [288016-minagara-oreru-ds-origami.json](./288016-minagara-oreru-ds-origami.json) |
 | Minakata Hakudou Toujou | 210835 | [210835-minakata-hakudou-toujou.json](./210835-minakata-hakudou-toujou.json) |
 | Minako: Beloved Wife in the Countryside | 295391 | [295391-minako-beloved-wife-in-the-countryside.json](./295391-minako-beloved-wife-in-the-countryside.json) |
 | Minami no Shima ni Buta Ga Ita | 267647 | [267647-minami-no-shima-ni-buta-ga-ita.json](./267647-minami-no-shima-ni-buta-ga-ita.json) |
@@ -15068,6 +15072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly | 234647 | [234647-monopoly.json](./234647-monopoly.json) |
 | Monopoly | 23767 | [23767-monopoly.json](./23767-monopoly.json) |
 | Monopoly | 272695 | [272695-monopoly.json](./272695-monopoly.json) |
+| Monopoly | 288012 | [288012-monopoly.json](./288012-monopoly.json) |
 | Monopoly | 30242 | [30242-monopoly.json](./30242-monopoly.json) |
 | Monopoly | 305234 | [305234-monopoly.json](./305234-monopoly.json) |
 | Monopoly | 308609 | [308609-monopoly.json](./308609-monopoly.json) |
