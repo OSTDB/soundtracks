@@ -16675,6 +16675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugs Bunny: Private Eye | 67270 | [67270-bugs-bunny-private-eye.json](./67270-bugs-bunny-private-eye.json) |
 | Bugs Bunny's Birthday Ball | 81361 | [81361-bugs-bunnys-birthday-ball.json](./81361-bugs-bunnys-birthday-ball.json) |
 | Bugs From Space | 188417 | [188417-bugs-from-space.json](./188417-bugs-from-space.json) |
+| Bugs make fine snacks | 246703 | [246703-bugs-make-fine-snacks.json](./246703-bugs-make-fine-snacks.json) |
 | Bugs Must Die | 111353 | [111353-bugs-must-die.json](./111353-bugs-must-die.json) |
 | Bugs N' Guns | 276690 | [276690-bugs-n-guns.json](./276690-bugs-n-guns.json) |
 | Bugs vs. Tanks! | 47656 | [47656-bugs-vs-tanks.json](./47656-bugs-vs-tanks.json) |
