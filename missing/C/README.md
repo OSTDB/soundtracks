@@ -2780,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnage in Space: Crucible | 201573 | [201573-carnage-in-space-crucible.json](./201573-carnage-in-space-crucible.json) |
 | Carnage in Space: Ignition | 81030 | [81030-carnage-in-space-ignition.json](./81030-carnage-in-space-ignition.json) |
 | Carnage Kart X | 318977 | [318977-carnage-kart-x.json](./318977-carnage-kart-x.json) |
+| Carnage Oasis | 257131 | [257131-carnage-oasis.json](./257131-carnage-oasis.json) |
 | Carnage Offering | 189964 | [189964-carnage-offering.json](./189964-carnage-offering.json) |
 | Carnage Offering Tower Defense | 238529 | [238529-carnage-offering-tower-defense.json](./238529-carnage-offering-tower-defense.json) |
 | Carnage: Battle Arena | 133895 | [133895-carnage-battle-arena.json](./133895-carnage-battle-arena.json) |
@@ -7948,6 +7949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Horror Land | 336538 | [336538-christmas-horror-land.json](./336538-christmas-horror-land.json) |
 | Christmas Horse 4 | 280858 | [280858-christmas-horse-4.json](./280858-christmas-horse-4.json) |
 | Christmas Hustle | 320384 | [320384-christmas-hustle.json](./320384-christmas-hustle.json) |
+| Christmas In Inferno | 257134 | [257134-christmas-in-inferno.json](./257134-christmas-in-inferno.json) |
 | Christmas Incident | 382952 | [382952-christmas-incident.json](./382952-christmas-incident.json) |
 | Christmas Infinity | 338519 | [338519-christmas-infinity.json](./338519-christmas-infinity.json) |
 | Christmas Jigsaw Puzzle Pango | 108458 | [108458-christmas-jigsaw-puzzle-pango.json](./108458-christmas-jigsaw-puzzle-pango.json) |
@@ -8204,6 +8206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles Of Errodean | 247740 | [247740-chronicles-of-errodean.json](./247740-chronicles-of-errodean.json) |
 | Chronicles of Etia: A Samhain Story | 173429 | [173429-chronicles-of-etia-a-samhain-story.json](./173429-chronicles-of-etia-a-samhain-story.json) |
 | Chronicles of Fear: The Babysitter's Tale | 303734 | [303734-chronicles-of-fear-the-babysitters-tale.json](./303734-chronicles-of-fear-the-babysitters-tale.json) |
+| Chronicles of Ghost Town | 257130 | [257130-chronicles-of-ghost-town.json](./257130-chronicles-of-ghost-town.json) |
 | Chronicles of Immortality in the Cloud Abyss | 379087 | [379087-chronicles-of-immortality-in-the-cloud-abyss.json](./379087-chronicles-of-immortality-in-the-cloud-abyss.json) |
 | Chronicles of Inotia: Legend of Feanor | 65876 | [65876-chronicles-of-inotia-legend-of-feanor.json](./65876-chronicles-of-inotia-legend-of-feanor.json) |
 | Chronicles of Lilith | 149833 | [149833-chronicles-of-lilith.json](./149833-chronicles-of-lilith.json) |
@@ -8693,6 +8696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle Empires Tactics | 145295 | [145295-circle-empires-tactics.json](./145295-circle-empires-tactics.json) |
 | Circle of Blood | 616 | [616-circle-of-blood.json](./616-circle-of-blood.json) |
 | Circle of Bosses | 373052 | [373052-circle-of-bosses.json](./373052-circle-of-bosses.json) |
+| Circle of Caina SP | 257151 | [257151-circle-of-caina-sp.json](./257151-circle-of-caina-sp.json) |
 | Circle of Football | 137614 | [137614-circle-of-football.json](./137614-circle-of-football.json) |
 | Circle of Nature | 327982 | [327982-circle-of-nature.json](./327982-circle-of-nature.json) |
 | Circle of Orion | 257930 | [257930-circle-of-orion.json](./257930-circle-of-orion.json) |
@@ -8812,6 +8816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cirque de Zale | 93327 | [93327-cirque-de-zale.json](./93327-cirque-de-zale.json) |
 | Cirque des Animaux | 383080 | [383080-cirque-des-animaux.json](./383080-cirque-des-animaux.json) |
 | Cirque du Flea | 366412 | [366412-cirque-du-flea.json](./366412-cirque-du-flea.json) |
+| Cirque Eclipse: The Scarlet Curtain | 257163 | [257163-cirque-eclipse-the-scarlet-curtain.json](./257163-cirque-eclipse-the-scarlet-curtain.json) |
 | Cirrus | 165115 | [165115-cirrus.json](./165115-cirrus.json) |
 | Cirrus Business | 253987 | [253987-cirrus-business.json](./253987-cirrus-business.json) |
 | Cis Penance: Transgender Lives in Wait in the UK | 199807 | [199807-cis-penance-transgender-lives-in-wait-in-the-uk.json](./199807-cis-penance-transgender-lives-in-wait-in-the-uk.json) |
@@ -11198,6 +11203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffie Simulator | 345613 | [345613-coffie-simulator.json](./345613-coffie-simulator.json) |
 | Coffin | 94136 | [94136-coffin.json](./94136-coffin.json) |
 | Coffin Counseling | 179704 | [179704-coffin-counseling.json](./179704-coffin-counseling.json) |
+| Coffin Curse | 257155 | [257155-coffin-curse.json](./257155-coffin-curse.json) |
 | Coffin Delivery | 331054 | [331054-coffin-delivery.json](./331054-coffin-delivery.json) |
 | Coffin Mall | 175615 | [175615-coffin-mall.json](./175615-coffin-mall.json) |
 | Coffin of Ashes | 30864 | [30864-coffin-of-ashes.json](./30864-coffin-of-ashes.json) |
