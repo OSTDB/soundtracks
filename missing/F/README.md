@@ -1693,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fancy Trangram VR | 30658 | [30658-fancy-trangram-vr.json](./30658-fancy-trangram-vr.json) |
 | Fancy World - Earth of Crisis | 39686 | [39686-fancy-world-earth-of-crisis.json](./39686-fancy-world-earth-of-crisis.json) |
 | Fancy! | 237069 | [237069-fancy.json](./237069-fancy.json) |
+| Fancyland | 289669 | [289669-fancyland.json](./289669-fancyland.json) |
 | Fandom | 304443 | [304443-fandom.json](./304443-fandom.json) |
 | Fandominion | 259646 | [259646-fandominion.json](./259646-fandominion.json) |
 | Fanfare Fantasy | 181636 | [181636-fanfare-fantasy.json](./181636-fanfare-fantasy.json) |
@@ -8599,6 +8600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Focus indies Bundle: Curse of the Dead Gods + Shady Part of Me + Aeon Must Die! | 187499 | [187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json](./187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json) |
 | Focus Knight | 398318 | [398318-focus-knight.json](./398318-focus-knight.json) |
 | Focus on You | 119452 | [119452-focus-on-you.json](./119452-focus-on-you.json) |
+| Focus Tower | 289595 | [289595-focus-tower.json](./289595-focus-tower.json) |
 | Fodderp: Castle Defense | 24542 | [24542-fodderp-castle-defense.json](./24542-fodderp-castle-defense.json) |
 | Fodders Grapple Gauntlet | 401602 | [401602-fodders-grapple-gauntlet.json](./401602-fodders-grapple-gauntlet.json) |
 | Foddia | 332436 | [332436-foddia.json](./332436-foddia.json) |
@@ -10735,6 +10737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foxy's Coin Hunt | 235301 | [235301-foxys-coin-hunt.json](./235301-foxys-coin-hunt.json) |
 | Foxyland 2 | 116875 | [116875-foxyland-2.json](./116875-foxyland-2.json) |
 | Foxyland Collection | 137252 | [137252-foxyland-collection.json](./137252-foxyland-collection.json) |
+| FoxyRush | 289658 | [289658-foxyrush.json](./289658-foxyrush.json) |
 | FP Racer | 340242 | [340242-fp-racer.json](./340242-fp-racer.json) |
 | FP Runner | 90329 | [90329-fp-runner.json](./90329-fp-runner.json) |
 | FPAH: Foul Play Air Hockey | 197653 | [197653-fpah-foul-play-air-hockey.json](./197653-fpah-foul-play-air-hockey.json) |
