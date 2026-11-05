@@ -13189,6 +13189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorc | 415087 | [415087-dorc.json](./415087-dorc.json) |
 | Dord | 223668 | [223668-dord.json](./223668-dord.json) |
 | Dorei Iinchou: Haramase Choukyou | 97481 | [97481-dorei-iinchou-haramase-choukyou.json](./97481-dorei-iinchou-haramase-choukyou.json) |
+| Dorei Same | 279986 | [279986-dorei-same.json](./279986-dorei-same.json) |
 | Dorei Toushi Battle Slave | 66651 | [66651-dorei-toushi-battle-slave.json](./66651-dorei-toushi-battle-slave.json) |
 | Dorei Toushi F: Battle Slave Fantasia | 66649 | [66649-dorei-toushi-f-battle-slave-fantasia.json](./66649-dorei-toushi-f-battle-slave-fantasia.json) |
 | DoReMi Fantasy: Milon's DokiDoki Adventure | 15908 | [15908-doremi-fantasy-milons-dokidoki-adventure.json](./15908-doremi-fantasy-milons-dokidoki-adventure.json) |
@@ -18294,6 +18295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunjonquest: Morloc's Tower | 21958 | [21958-dunjonquest-morlocs-tower.json](./21958-dunjonquest-morlocs-tower.json) |
 | Dunjonquest: Temple of Apshai | 68778 | [68778-dunjonquest-temple-of-apshai.json](./68778-dunjonquest-temple-of-apshai.json) |
 | Dunjonquest: Upper Reaches of Apshai | 69915 | [69915-dunjonquest-upper-reaches-of-apshai.json](./69915-dunjonquest-upper-reaches-of-apshai.json) |
+| DunJumb | 280002 | [280002-dunjumb.json](./280002-dunjumb.json) |
 | Dunjunguy | 240736 | [240736-dunjunguy.json](./240736-dunjunguy.json) |
 | Dunk a Lot! | 87006 | [87006-dunk-a-lot.json](./87006-dunk-a-lot.json) |
 | Dunk Cookies | 382760 | [382760-dunk-cookies.json](./382760-dunk-cookies.json) |
