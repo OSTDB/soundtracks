@@ -951,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6709,6 +6710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Better Off Tread | 55521 | [55521-better-off-tread.json](./55521-better-off-tread.json) |
 | Better Save Souls | 235731 | [235731-better-save-souls.json](./235731-better-save-souls.json) |
 | Better Super Mario Sunshine Online | 411435 | [411435-better-super-mario-sunshine-online.json](./411435-better-super-mario-sunshine-online.json) |
+| Better Than Dead | 280566 | [280566-better-than-dead.json](./280566-better-than-dead.json) |
 | Better Than Us | 380834 | [380834-better-than-us.json](./380834-better-than-us.json) |
 | Better Than Wolves | 297008 | [297008-better-than-wolves.json](./297008-better-than-wolves.json) |
 | Better to Upload | 183429 | [183429-better-to-upload.json](./183429-better-to-upload.json) |
@@ -7338,6 +7340,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Farm Story: Pet Paradise Pack | 225068 | [225068-big-farm-story-pet-paradise-pack.json](./225068-big-farm-story-pet-paradise-pack.json) |
 | Big Farm Story: Shiver Night Pack | 225066 | [225066-big-farm-story-shiver-night-pack.json](./225066-big-farm-story-shiver-night-pack.json) |
 | Big Fat Battle | 244771 | [244771-big-fat-battle.json](./244771-big-fat-battle.json) |
+| Big Fat Battle: Big Pack | 280568 | [280568-big-fat-battle-big-pack.json](./280568-big-fat-battle-big-pack.json) |
+| Big Fat Battle: Starter Pack | 280569 | [280569-big-fat-battle-starter-pack.json](./280569-big-fat-battle-starter-pack.json) |
 | Big Fat Neighbor | 83532 | [83532-big-fat-neighbor.json](./83532-big-fat-neighbor.json) |
 | Big Fight: Big Trouble in the Atlantic Ocean | 40233 | [40233-big-fight-big-trouble-in-the-atlantic-ocean.json](./40233-big-fight-big-trouble-in-the-atlantic-ocean.json) |
 | Big Fish Legend | 35056 | [35056-big-fish-legend.json](./35056-big-fish-legend.json) |
@@ -13705,6 +13709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling by Jason Belmonte | 262386 | [262386-bowling-by-jason-belmonte.json](./262386-bowling-by-jason-belmonte.json) |
 | Bowling Crew | 256240 | [256240-bowling-crew.json](./256240-bowling-crew.json) |
 | Bowling Cross: Final Frame | 201118 | [201118-bowling-cross-final-frame.json](./201118-bowling-cross-final-frame.json) |
+| Bowling Fever | 280585 | [280585-bowling-fever.json](./280585-bowling-fever.json) |
 | Bowling Fever Pin Crusher | 385163 | [385163-bowling-fever-pin-crusher.json](./385163-bowling-fever-pin-crusher.json) |
 | Bowling Fever Road to 300 | 385164 | [385164-bowling-fever-road-to-300.json](./385164-bowling-fever-road-to-300.json) |
 | Bowling Fever Strike Masters | 378961 | [378961-bowling-fever-strike-masters.json](./378961-bowling-fever-strike-masters.json) |
@@ -14394,6 +14399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Dwarves: Creeping Shadows | 388323 | [388323-brave-dwarves-creeping-shadows.json](./388323-brave-dwarves-creeping-shadows.json) |
 | Brave Earth: Prologue | 43060 | [43060-brave-earth-prologue.json](./43060-brave-earth-prologue.json) |
 | Brave Eduardo | 140821 | [140821-brave-eduardo.json](./140821-brave-eduardo.json) |
+| Brave Escape | 280567 | [280567-brave-escape.json](./280567-brave-escape.json) |
 | Brave Fantasy | 293497 | [293497-brave-fantasy.json](./293497-brave-fantasy.json) |
 | Brave Fencer Musashi | 1810 | [1810-brave-fencer-musashi.json](./1810-brave-fencer-musashi.json) |
 | Brave Fighter 2: Frontier Free | 38952 | [38952-brave-fighter-2-frontier-free.json](./38952-brave-fighter-2-frontier-free.json) |
@@ -14756,6 +14762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break_In | 35527 | [35527-break-in.json](./35527-break-in.json) |
 | Break-a-Bot | 350871 | [350871-break-a-bot.json](./350871-break-a-bot.json) |
 | Break-It | 339689 | [339689-break-it.json](./339689-break-it.json) |
+| Break, Enter, Repeat | 280552 | [280552-break-enter-repeat.json](./280552-break-enter-repeat.json) |
 | Break.Up | 326288 | [326288-break-up.json](./326288-break-up.json) |
 | Breakage | 165521 | [165521-breakage.json](./165521-breakage.json) |
 | Breakaway | 24652 | [24652-breakaway.json](./24652-breakaway.json) |
