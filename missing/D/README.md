@@ -6456,6 +6456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonlisher | 17813 | [17813-demonlisher.json](./17813-demonlisher.json) |
 | Demonlore | 152568 | [152568-demonlore.json](./152568-demonlore.json) |
 | Demonologist | 241332 | [241332-demonologist.json](./241332-demonologist.json) |
+| Demonology 101 | 281209 | [281209-demonology-101.json](./281209-demonology-101.json) |
 | Demonology: Incubus - Chapter 5 | 319659 | [319659-demonology-incubus-chapter-5.json](./319659-demonology-incubus-chapter-5.json) |
 | Demonology: Incubus: Chapter 1 | 315244 | [315244-demonology-incubus-chapter-1.json](./315244-demonology-incubus-chapter-1.json) |
 | Demonology: Incubus: Chapter 2 | 315246 | [315246-demonology-incubus-chapter-2.json](./315246-demonology-incubus-chapter-2.json) |
@@ -13098,6 +13099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorabase: Dramatic Stadium | 91771 | [91771-dorabase-dramatic-stadium.json](./91771-dorabase-dramatic-stadium.json) |
 | Dorachan | 178099 | [178099-dorachan.json](./178099-dorachan.json) |
 | Doradora Panic | 151679 | [151679-doradora-panic.json](./151679-doradora-panic.json) |
+| Doraemon | 281167 | [281167-doraemon.json](./281167-doraemon.json) |
 | Doraemon | 79111 | [79111-doraemon.json](./79111-doraemon.json) |
 | Doraemon 2: Nobita no Toys Land Daibouken | 38128 | [38128-doraemon-2-nobita-no-toys-land-daibouken.json](./38128-doraemon-2-nobita-no-toys-land-daibouken.json) |
 | Doraemon 2: Nobita to Hikari no Shinden | 3473 | [3473-doraemon-2-nobita-to-hikari-no-shinden.json](./3473-doraemon-2-nobita-to-hikari-no-shinden.json) |
