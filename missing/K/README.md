@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kado Hunter | 303600 | [303600-kado-hunter.json](./303600-kado-hunter.json) |
 | Kadobat Wars | 103257 | [103257-kadobat-wars.json](./103257-kadobat-wars.json) |
 | Kadomon: Hyper Auto Battlers | 215708 | [215708-kadomon-hyper-auto-battlers.json](./215708-kadomon-hyper-auto-battlers.json) |
+| Kadu Bird | 269922 | [269922-kadu-bird.json](./269922-kadu-bird.json) |
 | Kaebon | 424691 | [424691-kaebon.json](./424691-kaebon.json) |
 | Kaede Doori: Brand New Days Innocent | 413053 | [413053-kaede-doori-brand-new-days-innocent.json](./413053-kaede-doori-brand-new-days-innocent.json) |
 | Kaelaverse: Pemascape | 364463 | [364463-kaelaverse-pemascape.json](./364463-kaelaverse-pemascape.json) |
@@ -1199,6 +1200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katekyou Hitman Reborn! Dream Hyper Battle Wii | 78339 | [78339-katekyou-hitman-reborn-dream-hyper-battle-wii.json](./78339-katekyou-hitman-reborn-dream-hyper-battle-wii.json) |
 | Katekyou Hitman Reborn! DS: Fate of Heat | 123338 | [123338-katekyou-hitman-reborn-ds-fate-of-heat.json](./123338-katekyou-hitman-reborn-ds-fate-of-heat.json) |
 | Katekyou Hitman Reborn! DS: Fate of Heat II - Unmei no Futari | 69144 | [69144-katekyou-hitman-reborn-ds-fate-of-heat-ii-unmei-no-futari.json](./69144-katekyou-hitman-reborn-ds-fate-of-heat-ii-unmei-no-futari.json) |
+| Katekyou Hitman Reborn! DS: Fate of Heat III - Yuki no Shugosha Raishuu! | 269822 | [269822-katekyou-hitman-reborn-ds-fate-of-heat-iii-yuki-no-shugosha-raishuu.json](./269822-katekyou-hitman-reborn-ds-fate-of-heat-iii-yuki-no-shugosha-raishuu.json) |
 | Katekyou Hitman Reborn! DS: Flame Rumble - Kaien Ring Soudatsuen! | 64380 | [64380-katekyou-hitman-reborn-ds-flame-rumble-kaien-ring-soudatsuen.json](./64380-katekyou-hitman-reborn-ds-flame-rumble-kaien-ring-soudatsuen.json) |
 | Katekyou Hitman Reborn! DS: Flame Rumble - Mukuro Kyoshu | 64385 | [64385-katekyou-hitman-reborn-ds-flame-rumble-mukuro-kyoshu.json](./64385-katekyou-hitman-reborn-ds-flame-rumble-mukuro-kyoshu.json) |
 | Katekyou Hitman Reborn! DS: Flame Rumble Hyper - Moeyo Mirai | 78713 | [78713-katekyou-hitman-reborn-ds-flame-rumble-hyper-moeyo-mirai.json](./78713-katekyou-hitman-reborn-ds-flame-rumble-hyper-moeyo-mirai.json) |
@@ -2767,6 +2769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4514,6 +4517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights & Guns Mystic Armor | 385167 | [385167-knights-and-guns-mystic-armor.json](./385167-knights-and-guns-mystic-armor.json) |
 | Knights & Guns: 5 in 1 DLC Bundle | 308823 | [308823-knights-and-guns-5-in-1-dlc-bundle.json](./308823-knights-and-guns-5-in-1-dlc-bundle.json) |
 | Knights & Guns: Advanced Edition | 317252 | [317252-knights-and-guns-advanced-edition.json](./317252-knights-and-guns-advanced-edition.json) |
+| Knights & Guns: Armor Pack #2 | 269820 | [269820-knights-and-guns-armor-pack-2.json](./269820-knights-and-guns-armor-pack-2.json) |
 | Knights & Guns: Armor Pack #3 | 308824 | [308824-knights-and-guns-armor-pack-3.json](./308824-knights-and-guns-armor-pack-3.json) |
 | Knights & Guns: Back To School Edition | 263540 | [263540-knights-and-guns-back-to-school-edition.json](./263540-knights-and-guns-back-to-school-edition.json) |
 | Knights & Guns: Complete Edition | 280582 | [280582-knights-and-guns-complete-edition.json](./280582-knights-and-guns-complete-edition.json) |
