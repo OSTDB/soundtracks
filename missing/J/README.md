@@ -387,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jak 3: The Journey Back Gold Edition | 237431 | [237431-jak-3-the-journey-back-gold-edition.json](./237431-jak-3-the-journey-back-gold-edition.json) |
 | Jak and Daxter Collection | 20113 | [20113-jak-and-daxter-collection.json](./20113-jak-and-daxter-collection.json) |
 | Jak and Daxter: The Lost Frontier | 1531 | [1531-jak-and-daxter-the-lost-frontier.json](./1531-jak-and-daxter-the-lost-frontier.json) |
+| Jak and Daxter: The Lost Frontier | 292895 | [292895-jak-and-daxter-the-lost-frontier.json](./292895-jak-and-daxter-the-lost-frontier.json) |
 | Jak and Daxter: The Precursor Legacy | 302690 | [302690-jak-and-daxter-the-precursor-legacy.json](./302690-jak-and-daxter-the-precursor-legacy.json) |
 | Jak and Daxter: The Precursor Legacy | 325261 | [325261-jak-and-daxter-the-precursor-legacy.json](./325261-jak-and-daxter-the-precursor-legacy.json) |
 | Jak II | 1529 | [1529-jak-ii.json](./1529-jak-ii.json) |
@@ -951,6 +952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jellipop Match | 214104 | [214104-jellipop-match.json](./214104-jellipop-match.json) |
 | Jellitito | 340770 | [340770-jellitito.json](./340770-jellitito.json) |
 | Jello | 200353 | [200353-jello.json](./200353-jello.json) |
+| Jello Run | 292911 | [292911-jello-run.json](./292911-jello-run.json) |
 | JelloTetrix | 320125 | [320125-jellotetrix.json](./320125-jellotetrix.json) |
 | Jelly | 163886 | [163886-jelly.json](./163886-jelly.json) |
 | Jelly & Toast | 258073 | [258073-jelly-and-toast.json](./258073-jelly-and-toast.json) |
@@ -3960,6 +3962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Fajitas | 108592 | [108592-just-fajitas.json](./108592-just-fajitas.json) |
 | Just Fighting | 264998 | [264998-just-fighting.json](./264998-just-fighting.json) |
 | Just Find It 2 | 256340 | [256340-just-find-it-2.json](./256340-just-find-it-2.json) |
+| Just Find It 2: Collector's Edition | 292904 | [292904-just-find-it-2-collectors-edition.json](./292904-just-find-it-2-collectors-edition.json) |
 | Just Find It 3 | 264193 | [264193-just-find-it-3.json](./264193-just-find-it-3.json) |
 | Just Find It 3: Collector's Edition | 304780 | [304780-just-find-it-3-collectors-edition.json](./304780-just-find-it-3-collectors-edition.json) |
 | Just Find It 4 | 302213 | [302213-just-find-it-4.json](./302213-just-find-it-4.json) |
