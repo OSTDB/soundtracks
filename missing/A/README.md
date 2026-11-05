@@ -2156,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss | 210669 | [210669-abyss.json](./210669-abyss.json) |
 | Abyss | 237021 | [237021-abyss.json](./237021-abyss.json) |
 | Abyss | 249689 | [249689-abyss.json](./249689-abyss.json) |
+| Abyss | 265405 | [265405-abyss.json](./265405-abyss.json) |
 | Abyss | 377542 | [377542-abyss.json](./377542-abyss.json) |
 | Abyss | 414121 | [414121-abyss.json](./414121-abyss.json) |
 | Abyss | 80512 | [80512-abyss.json](./80512-abyss.json) |
@@ -4559,6 +4560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Gladiators | 33545 | [33545-age-of-gladiators.json](./33545-age-of-gladiators.json) |
 | Age of Gladiators II | 41959 | [41959-age-of-gladiators-ii.json](./41959-age-of-gladiators-ii.json) |
 | Age of Gladiators II: Death League | 97851 | [97851-age-of-gladiators-ii-death-league.json](./97851-age-of-gladiators-ii-death-league.json) |
+| Age of Goblins | 265403 | [265403-age-of-goblins.json](./265403-age-of-goblins.json) |
 | Age of Gods | 399092 | [399092-age-of-gods.json](./399092-age-of-gods.json) |
 | Age of Gods: Drakonis Faction | 399102 | [399102-age-of-gods-drakonis-faction.json](./399102-age-of-gods-drakonis-faction.json) |
 | Age of Gods: Equinox Campaign | 399094 | [399094-age-of-gods-equinox-campaign.json](./399094-age-of-gods-equinox-campaign.json) |
@@ -10448,6 +10450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anode Heart: Tenelon | 397589 | [397589-anode-heart-tenelon.json](./397589-anode-heart-tenelon.json) |
 | Anodia | 213180 | [213180-anodia.json](./213180-anodia.json) |
 | Anodia 2 | 213179 | [213179-anodia-2.json](./213179-anodia-2.json) |
+| Anodia: Unique Brick Breaker | 264972 | [264972-anodia-unique-brick-breaker.json](./264972-anodia-unique-brick-breaker.json) |
 | Anodos | 211398 | [211398-anodos.json](./211398-anodos.json) |
 | Anodyne 2: Return to Dust | 104890 | [104890-anodyne-2-return-to-dust.json](./104890-anodyne-2-return-to-dust.json) |
 | Anodyne Franchise Bundle | 405119 | [405119-anodyne-franchise-bundle.json](./405119-anodyne-franchise-bundle.json) |
@@ -16213,6 +16216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Ryza 3: Alchemist of the End & the Secret Key - Ultimate Edition | 239482 | [239482-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-ultimate-edition.json](./239482-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-ultimate-edition.json) |
 | Atelier Ryza 3: Alchemist of the End & the Secret Key DX | 359427 | [359427-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-dx.json](./359427-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-dx.json) |
 | Atelier Ryza 3: Endless Summer Splash! Costume Set | 242543 | [242543-atelier-ryza-3-endless-summer-splash-costume-set.json](./242543-atelier-ryza-3-endless-summer-splash-costume-set.json) |
+| Atelier Ryza 3: Recipe Expansion Pack - Art of Adventure | 265452 | [265452-atelier-ryza-3-recipe-expansion-pack-art-of-adventure.json](./265452-atelier-ryza-3-recipe-expansion-pack-art-of-adventure.json) |
 | Atelier Ryza 3: Season Pass | 396266 | [396266-atelier-ryza-3-season-pass.json](./396266-atelier-ryza-3-season-pass.json) |
 | Atelier Ryza 3: Summer Look Costume Set | 242544 | [242544-atelier-ryza-3-summer-look-costume-set.json](./242544-atelier-ryza-3-summer-look-costume-set.json) |
 | Atelier Ryza Season Pass 'Kurken Island Jam-packed Pass' | 370940 | [370940-atelier-ryza-season-pass-kurken-island-jam-packed-pass.json](./370940-atelier-ryza-season-pass-kurken-island-jam-packed-pass.json) |
