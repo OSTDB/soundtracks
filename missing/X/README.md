@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Out: Resurfaced | 312309 | [312309-x-out-resurfaced.json](./312309-x-out-resurfaced.json) |
 | X-Pack | 261869 | [261869-x-pack.json](./261869-x-pack.json) |
 | X-Pipes Evolution | 22028 | [22028-x-pipes-evolution.json](./22028-x-pipes-evolution.json) |
+| X-Piratez | 277100 | [277100-x-piratez.json](./277100-x-piratez.json) |
 | X-Plane 10 | 79940 | [79940-x-plane-10.json](./79940-x-plane-10.json) |
 | X-Plane 10 Global | 36338 | [36338-x-plane-10-global.json](./36338-x-plane-10-global.json) |
 | X-Plane 10 Global: Aerosoft - Airport Dusseldorf | 162828 | [162828-x-plane-10-global-aerosoft-airport-dusseldorf.json](./162828-x-plane-10-global-aerosoft-airport-dusseldorf.json) |
