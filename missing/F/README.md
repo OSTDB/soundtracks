@@ -1018,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Enchantress: Map Pack | 224299 | [224299-fallen-enchantress-map-pack.json](./224299-fallen-enchantress-map-pack.json) |
 | Fallen Enchantress: Ultimate Edition | 51811 | [51811-fallen-enchantress-ultimate-edition.json](./51811-fallen-enchantress-ultimate-edition.json) |
 | Fallen Evolution | 334792 | [334792-fallen-evolution.json](./334792-fallen-evolution.json) |
+| Fallen Fallen | 249531 | [249531-fallen-fallen.json](./249531-fallen-fallen.json) |
 | Fallen Fates | 345579 | [345579-fallen-fates.json](./345579-fallen-fates.json) |
 | Fallen Feather | 219774 | [219774-fallen-feather.json](./219774-fallen-feather.json) |
 | Fallen Flowers | 190312 | [190312-fallen-flowers.json](./190312-fallen-flowers.json) |
@@ -1507,6 +1508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Chess: Magnificent Edition | 246647 | [246647-family-chess-magnificent-edition.json](./246647-family-chess-magnificent-edition.json) |
 | Family Chess: Platinum Edition | 238123 | [238123-family-chess-platinum-edition.json](./238123-family-chess-platinum-edition.json) |
 | Family Chess: Special Edition | 219381 | [219381-family-chess-special-edition.json](./219381-family-chess-special-edition.json) |
+| Family Chess: Superb Edition | 249559 | [249559-family-chess-superb-edition.json](./249559-family-chess-superb-edition.json) |
 | Family Chess: Ultimate Edition | 212340 | [212340-family-chess-ultimate-edition.json](./212340-family-chess-ultimate-edition.json) |
 | Family Chess: Ultra Deluxe | 254678 | [254678-family-chess-ultra-deluxe.json](./254678-family-chess-ultra-deluxe.json) |
 | Family Circuit | 48498 | [48498-family-circuit.json](./48498-family-circuit.json) |
@@ -5399,6 +5401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Orange Narwhal | 303525 | [303525-find-the-orange-narwhal.json](./303525-find-the-orange-narwhal.json) |
 | Find the Pairs | 328604 | [328604-find-the-pairs.json](./328604-find-the-pairs.json) |
 | Find the Pairs Memo Game for Kids | 273971 | [273971-find-the-pairs-memo-game-for-kids.json](./273971-find-the-pairs-memo-game-for-kids.json) |
+| Find the Pairs: Classic Memory Puzzle | 249577 | [249577-find-the-pairs-classic-memory-puzzle.json](./249577-find-the-pairs-classic-memory-puzzle.json) |
 | Find the Road | 242210 | [242210-find-the-road.json](./242210-find-the-road.json) |
 | Find the route | 27704 | [27704-find-the-route.json](./27704-find-the-route.json) |
 | Find the Sneaky Chameleon | 412567 | [412567-find-the-sneaky-chameleon.json](./412567-find-the-sneaky-chameleon.json) |
@@ -9346,6 +9349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forays into Norrendrin | 148391 | [148391-forays-into-norrendrin.json](./148391-forays-into-norrendrin.json) |
 | Forbes Corporate Warrior | 71373 | [71373-forbes-corporate-warrior.json](./71373-forbes-corporate-warrior.json) |
 | Forbidden | 195953 | [195953-forbidden.json](./195953-forbidden.json) |
+| Forbidden | 249545 | [249545-forbidden.json](./249545-forbidden.json) |
 | Forbidden Arms: Bloodlust | 184853 | [184853-forbidden-arms-bloodlust.json](./184853-forbidden-arms-bloodlust.json) |
 | Forbidden Art | 123978 | [123978-forbidden-art.json](./123978-forbidden-art.json) |
 | Forbidden Castle | 26264 | [26264-forbidden-castle.json](./26264-forbidden-castle.json) |
