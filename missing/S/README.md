@@ -5615,6 +5615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seraphine's Skyward Journey | 388054 | [388054-seraphines-skyward-journey.json](./388054-seraphines-skyward-journey.json) |
 | Seraphixial | 392164 | [392164-seraphixial.json](./392164-seraphixial.json) |
 | Seraphonin | 344101 | [344101-seraphonin.json](./344101-seraphonin.json) |
+| Serapis Online | 281787 | [281787-serapis-online.json](./281787-serapis-online.json) |
 | Serbia '14 | 131997 | [131997-serbia-14.json](./131997-serbia-14.json) |
 | Serbian Dancing Lady | 294191 | [294191-serbian-dancing-lady.json](./294191-serbian-dancing-lady.json) |
 | Serega Madness Pixel Adventures | 295276 | [295276-serega-madness-pixel-adventures.json](./295276-serega-madness-pixel-adventures.json) |
@@ -10585,6 +10586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimIsle: Missions in the Rainforest | 12907 | [12907-simisle-missions-in-the-rainforest.json](./12907-simisle-missions-in-the-rainforest.json) |
 | Simkea | 368231 | [368231-simkea.json](./368231-simkea.json) |
 | SimLife | 12768 | [12768-simlife.json](./12768-simlife.json) |
+| SimMania for Kids | 281789 | [281789-simmania-for-kids.json](./281789-simmania-for-kids.json) |
 | SimMayor | 138454 | [138454-simmayor.json](./138454-simmayor.json) |
 | SimNation | 361400 | [361400-simnation.json](./361400-simnation.json) |
 | Simnetzero | 234751 | [234751-simnetzero.json](./234751-simnetzero.json) |
@@ -14048,6 +14050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Remix | 132637 | [132637-smash-remix.json](./132637-smash-remix.json) |
 | Smash Remix +Extra | 413132 | [413132-smash-remix-extra.json](./413132-smash-remix-extra.json) |
 | Smash Remix: Project Galleon | 399949 | [399949-smash-remix-project-galleon.json](./399949-smash-remix-project-galleon.json) |
+| Smash Remix: Spider-Man | 281802 | [281802-smash-remix-spider-man.json](./281802-smash-remix-spider-man.json) |
 | Smash Remix: Version 1.1.0 | 255783 | [255783-smash-remix-version-1-1-0.json](./255783-smash-remix-version-1-1-0.json) |
 | Smash Remix: Version 1.2.0 | 255784 | [255784-smash-remix-version-1-2-0.json](./255784-smash-remix-version-1-2-0.json) |
 | Smash Remix: Version 1.3.0 | 255786 | [255786-smash-remix-version-1-3-0.json](./255786-smash-remix-version-1-3-0.json) |
@@ -24264,6 +24267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star's Peaces Renai Ouen Tomodachi Kakutoku Keikaku | 389344 | [389344-stars-peaces-renai-ouen-tomodachi-kakutoku-keikaku.json](./389344-stars-peaces-renai-ouen-tomodachi-kakutoku-keikaku.json) |
 | Star'Shoot | 105327 | [105327-starshoot.json](./105327-starshoot.json) |
 | Star*Burst | 174301 | [174301-star-burst.json](./174301-star-burst.json) |
+| Star86 | 281795 | [281795-star86.json](./281795-star86.json) |
 | StarAbyss Heroes | 379108 | [379108-starabyss-heroes.json](./379108-starabyss-heroes.json) |
 | Staraway | 349377 | [349377-staraway.json](./349377-staraway.json) |
 | Starazius | 122423 | [122423-starazius.json](./122423-starazius.json) |
@@ -31192,6 +31196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario In Element World 2: The Master Hand Revenge | 267980 | [267980-super-mario-in-element-world-2-the-master-hand-revenge.json](./267980-super-mario-in-element-world-2-the-master-hand-revenge.json) |
 | Super Mario in Marooned on Mars! | 321451 | [321451-super-mario-in-marooned-on-mars.json](./321451-super-mario-in-marooned-on-mars.json) |
 | Super Mario In Peach's World | 341923 | [341923-super-mario-in-peachs-world.json](./341923-super-mario-in-peachs-world.json) |
+| Super Mario in: Yoshi's Revenge | 281808 | [281808-super-mario-in-yoshis-revenge.json](./281808-super-mario-in-yoshis-revenge.json) |
 | Super Mario Infinity 2: The Cursed Gem | 261142 | [261142-super-mario-infinity-2-the-cursed-gem.json](./261142-super-mario-infinity-2-the-cursed-gem.json) |
 | Super Mario Infinity: Mystery of the Magic Wand | 260850 | [260850-super-mario-infinity-mystery-of-the-magic-wand.json](./260850-super-mario-infinity-mystery-of-the-magic-wand.json) |
 | Super Mario Insanity | 323028 | [323028-super-mario-insanity.json](./323028-super-mario-insanity.json) |
@@ -31270,6 +31275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Prism | 320232 | [320232-super-mario-prism.json](./320232-super-mario-prism.json) |
 | Super Mario Prostate Exam | 323900 | [323900-super-mario-prostate-exam.json](./323900-super-mario-prostate-exam.json) |
 | Super Mario Rampage! | 334881 | [334881-super-mario-rampage.json](./334881-super-mario-rampage.json) |
+| Super Mario Redux | 281807 | [281807-super-mario-redux.json](./281807-super-mario-redux.json) |
 | Super Mario RPG 2 | 231474 | [231474-super-mario-rpg-2.json](./231474-super-mario-rpg-2.json) |
 | Super Mario RPG: Armageddon | 215071 | [215071-super-mario-rpg-armageddon.json](./215071-super-mario-rpg-armageddon.json) |
 | Super Mario RPG: Legend of the Five Pendants | 135134 | [135134-super-mario-rpg-legend-of-the-five-pendants.json](./135134-super-mario-rpg-legend-of-the-five-pendants.json) |
@@ -32487,6 +32493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Takoyaki Battle | 416068 | [416068-super-takoyaki-battle.json](./416068-super-takoyaki-battle.json) |
 | Super Talking Time Bros. | 350226 | [350226-super-talking-time-bros.json](./350226-super-talking-time-bros.json) |
 | Super Tank | 279692 | [279692-super-tank.json](./279692-super-tank.json) |
+| Super Tank | 281822 | [281822-super-tank.json](./281822-super-tank.json) |
 | Super Tank | 6141 | [6141-super-tank.json](./6141-super-tank.json) |
 | Super Tank Attack | 256556 | [256556-super-tank-attack.json](./256556-super-tank-attack.json) |
 | Super Tank Battle | 175369 | [175369-super-tank-battle.json](./175369-super-tank-battle.json) |
