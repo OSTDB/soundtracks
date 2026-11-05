@@ -10763,6 +10763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gungrave G.O.R.E: Complete Bundle | 331528 | [331528-gungrave-g-o-r-e-complete-bundle.json](./331528-gungrave-g-o-r-e-complete-bundle.json) |
 | Gungrave G.O.R.E: Day One Edition | 214133 | [214133-gungrave-g-o-r-e-day-one-edition.json](./214133-gungrave-g-o-r-e-day-one-edition.json) |
 | Gungrave G.O.R.E: Street Grave | 357271 | [357271-gungrave-g-o-r-e-street-grave.json](./357271-gungrave-g-o-r-e-street-grave.json) |
+| Gungrave G.O.R.E: Ultimate Enhanced Edition | 270473 | [270473-gungrave-g-o-r-e-ultimate-enhanced-edition.json](./270473-gungrave-g-o-r-e-ultimate-enhanced-edition.json) |
 | Gungrave G.O.R.E: Ultimate Enhanced Edition - Character Pass | 273330 | [273330-gungrave-g-o-r-e-ultimate-enhanced-edition-character-pass.json](./273330-gungrave-g-o-r-e-ultimate-enhanced-edition-character-pass.json) |
 | Gungrave G.O.R.E: Ultimate Enhanced Edition - Deluxe Edition | 273332 | [273332-gungrave-g-o-r-e-ultimate-enhanced-edition-deluxe-edition.json](./273332-gungrave-g-o-r-e-ultimate-enhanced-edition-deluxe-edition.json) |
 | Gungrave G.O.R.E: Ultimate Enhanced Edition - Harry Macdowel | 275046 | [275046-gungrave-g-o-r-e-ultimate-enhanced-edition-harry-macdowel.json](./275046-gungrave-g-o-r-e-ultimate-enhanced-edition-harry-macdowel.json) |
