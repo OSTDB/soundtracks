@@ -1437,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Cut 2 | 382815 | [382815-dark-cut-2.json](./382815-dark-cut-2.json) |
 | Dark Daemon | 303451 | [303451-dark-daemon.json](./303451-dark-daemon.json) |
 | Dark Data | 120754 | [120754-dark-data.json](./120754-dark-data.json) |
+| Dark Data: Zero | 258759 | [258759-dark-data-zero.json](./258759-dark-data-zero.json) |
 | Dark Day Afternoon | 140598 | [140598-dark-day-afternoon.json](./140598-dark-day-afternoon.json) |
 | Dark Days | 170255 | [170255-dark-days.json](./170255-dark-days.json) |
 | Dark Days | 289710 | [289710-dark-days.json](./289710-dark-days.json) |
@@ -3888,6 +3889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Wife Game | 203102 | [203102-dead-wife-game.json](./203102-dead-wife-game.json) |
 | Dead Wishes | 113656 | [113656-dead-wishes.json](./113656-dead-wishes.json) |
 | Dead Witch in Night Sky | 394161 | [394161-dead-witch-in-night-sky.json](./394161-dead-witch-in-night-sky.json) |
+| Dead Wolf | 258761 | [258761-dead-wolf.json](./258761-dead-wolf.json) |
 | Dead World Heroes | 221185 | [221185-dead-world-heroes.json](./221185-dead-world-heroes.json) |
 | Dead World Tales | 378453 | [378453-dead-world-tales.json](./378453-dead-world-tales.json) |
 | Dead World: La Argentina Muerta | 237246 | [237246-dead-world-la-argentina-muerta.json](./237246-dead-world-la-argentina-muerta.json) |
@@ -16032,6 +16034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamwillow | 184661 | [184661-dreamwillow.json](./184661-dreamwillow.json) |
 | DreamWoods 2 | 361164 | [361164-dreamwoods-2.json](./361164-dreamwoods-2.json) |
 | Dreamworks 2-in-1 Party Pack | 130311 | [130311-dreamworks-2-in-1-party-pack.json](./130311-dreamworks-2-in-1-party-pack.json) |
+| DreamWorks All-Star Kart Racing | 258804 | [258804-dreamworks-all-star-kart-racing.json](./258804-dreamworks-all-star-kart-racing.json) |
 | DreamWorks All-Star Kart Racing: Rally Edition | 273334 | [273334-dreamworks-all-star-kart-racing-rally-edition.json](./273334-dreamworks-all-star-kart-racing-rally-edition.json) |
 | DreamWorks All-Star Kart Racing: Rally Pack | 273335 | [273335-dreamworks-all-star-kart-racing-rally-pack.json](./273335-dreamworks-all-star-kart-racing-rally-pack.json) |
 | Dreamworks Animation | 220087 | [220087-dreamworks-animation.json](./220087-dreamworks-animation.json) |
