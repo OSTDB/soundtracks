@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Chair in a Room: Greenwater | 33902 | [33902-a-chair-in-a-room-greenwater.json](./33902-a-chair-in-a-room-greenwater.json) |
 | A Challenging Game About Parkour | 379464 | [379464-a-challenging-game-about-parkour.json](./379464-a-challenging-game-about-parkour.json) |
 | A Chamber of Stars | 216710 | [216710-a-chamber-of-stars.json](./216710-a-chamber-of-stars.json) |
+| A Change of Heart: A Magical Girl Adventure | 249532 | [249532-a-change-of-heart-a-magical-girl-adventure.json](./249532-a-change-of-heart-a-magical-girl-adventure.json) |
 | A Chef's Oncoming Breakdown | 386163 | [386163-a-chefs-oncoming-breakdown.json](./386163-a-chefs-oncoming-breakdown.json) |
 | A Chicken In The Office | 379463 | [379463-a-chicken-in-the-office.json](./379463-a-chicken-in-the-office.json) |
 | A Child's Courage | 184960 | [184960-a-childs-courage.json](./184960-a-childs-courage.json) |
@@ -8075,6 +8076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaze: Easter | 116186 | [116186-amaze-easter.json](./116186-amaze-easter.json) |
 | Amaze: Halloween | 110183 | [110183-amaze-halloween.json](./110183-amaze-halloween.json) |
 | Amaze! | 246648 | [246648-amaze.json](./246648-amaze.json) |
+| Amaze! Complete Bundle | 249564 | [249564-amaze-complete-bundle.json](./249564-amaze-complete-bundle.json) |
 | Amaze! Relax Edition | 256022 | [256022-amaze-relax-edition.json](./256022-amaze-relax-edition.json) |
 | Amaze! Time Attack Edition | 254078 | [254078-amaze-time-attack-edition.json](./254078-amaze-time-attack-edition.json) |
 | Amaze!: Level Pack 1 | 246871 | [246871-amaze-level-pack-1.json](./246871-amaze-level-pack-1.json) |
@@ -16413,6 +16415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
