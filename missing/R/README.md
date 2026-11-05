@@ -10747,6 +10747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roopocket | 122171 | [122171-roopocket.json](./122171-roopocket.json) |
 | Roost | 220147 | [220147-roost.json](./220147-roost.json) |
 | Roost | 329111 | [329111-roost.json](./329111-roost.json) |
+| Rooster | 290731 | [290731-rooster.json](./290731-rooster.json) |
 | Rooster | 301367 | [301367-rooster.json](./301367-rooster.json) |
 | Rooster | 62722 | [62722-rooster.json](./62722-rooster.json) |
 | Rooster Booster 3D | 410945 | [410945-rooster-booster-3d.json](./410945-rooster-booster-3d.json) |
@@ -11261,6 +11262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Adventure | 96434 | [96434-royal-adventure.json](./96434-royal-adventure.json) |
 | Royal Adviser | 117969 | [117969-royal-adviser.json](./117969-royal-adviser.json) |
 | Royal Affairs | 235926 | [235926-royal-affairs.json](./235926-royal-affairs.json) |
+| Royal Affairs: AI Romance | 290672 | [290672-royal-affairs-ai-romance.json](./290672-royal-affairs-ai-romance.json) |
 | Royal Agents: Sweet Zombie | 55638 | [55638-royal-agents-sweet-zombie.json](./55638-royal-agents-sweet-zombie.json) |
 | Royal Alchemist | 109734 | [109734-royal-alchemist.json](./109734-royal-alchemist.json) |
 | Royal Area | 121795 | [121795-royal-area.json](./121795-royal-area.json) |
