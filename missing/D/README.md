@@ -9284,6 +9284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino | 272361 | [272361-dino.json](./272361-dino.json) |
 | Dino 'Splode | 346342 | [346342-dino-splode.json](./346342-dino-splode.json) |
 | Dino & Chill | 339938 | [339938-dino-and-chill.json](./339938-dino-and-chill.json) |
+| Dino 3D | 268817 | [268817-dino-3d.json](./268817-dino-3d.json) |
 | Dino Adventure Legend | 288130 | [288130-dino-adventure-legend.json](./288130-dino-adventure-legend.json) |
 | Dino and Aliens | 93434 | [93434-dino-and-aliens.json](./93434-dino-and-aliens.json) |
 | Dino Attack | 343258 | [343258-dino-attack.json](./343258-dino-attack.json) |
