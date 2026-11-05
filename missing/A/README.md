@@ -4311,6 +4311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterimage Mobile | 297224 | [297224-afterimage-mobile.json](./297224-afterimage-mobile.json) |
 | Afterimage: Deluxe Edition | 234215 | [234215-afterimage-deluxe-edition.json](./234215-afterimage-deluxe-edition.json) |
 | Afterinfection | 153013 | [153013-afterinfection.json](./153013-afterinfection.json) |
+| Afterland | 258267 | [258267-afterland.json](./258267-afterland.json) |
 | Afterlands | 268893 | [268893-afterlands.json](./268893-afterlands.json) |
 | Afterlife | 175 | [175-afterlife.json](./175-afterlife.json) |
 | Afterlife | 195976 | [195976-afterlife.json](./195976-afterlife.json) |
@@ -10451,6 +10452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annulus | 140888 | [140888-annulus.json](./140888-annulus.json) |
 | Annulus | 196308 | [196308-annulus.json](./196308-annulus.json) |
 | Annum | 286749 | [286749-annum.json](./286749-annum.json) |
+| Annum Crossroads | 258251 | [258251-annum-crossroads.json](./258251-annum-crossroads.json) |
 | Annunaki Clicker | 348786 | [348786-annunaki-clicker.json](./348786-annunaki-clicker.json) |
 | Annventure | 221769 | [221769-annventure.json](./221769-annventure.json) |
 | Annventure of a Lifetime | 221772 | [221772-annventure-of-a-lifetime.json](./221772-annventure-of-a-lifetime.json) |
@@ -10699,6 +10701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another World | 392454 | [392454-another-world.json](./392454-another-world.json) |
 | Another World Adventures | 379448 | [379448-another-world-adventures.json](./379448-another-world-adventures.json) |
 | Another World for Dreamcast | 343875 | [343875-another-world-for-dreamcast.json](./343875-another-world-for-dreamcast.json) |
+| Another World in the Morning | 258260 | [258260-another-world-in-the-morning.json](./258260-another-world-in-the-morning.json) |
 | Another World Mahjong Girl | 269356 | [269356-another-world-mahjong-girl.json](./269356-another-world-mahjong-girl.json) |
 | Another World Quest | 212714 | [212714-another-world-quest.json](./212714-another-world-quest.json) |
 | Another World: 20th Anniversary Edition | 16493 | [16493-another-world-20th-anniversary-edition.json](./16493-another-world-20th-anniversary-edition.json) |
@@ -14509,6 +14512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascend to Zero | 316425 | [316425-ascend-to-zero.json](./316425-ascend-to-zero.json) |
 | Ascendance | 117530 | [117530-ascendance.json](./117530-ascendance.json) |
 | Ascendance | 178456 | [178456-ascendance.json](./178456-ascendance.json) |
+| Ascendance | 258241 | [258241-ascendance.json](./258241-ascendance.json) |
 | Ascendance Fighters | 318000 | [318000-ascendance-fighters.json](./318000-ascendance-fighters.json) |
 | Ascendance Unbound | 380841 | [380841-ascendance-unbound.json](./380841-ascendance-unbound.json) |
 | Ascendant | 9222 | [9222-ascendant.json](./9222-ascendant.json) |
@@ -16368,7 +16372,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
