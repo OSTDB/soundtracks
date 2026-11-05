@@ -7432,6 +7432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy The Universe: Solar Mayhem | 411813 | [411813-destroy-the-universe-solar-mayhem.json](./411813-destroy-the-universe-solar-mayhem.json) |
 | Destroy the Wall | 250938 | [250938-destroy-the-wall.json](./250938-destroy-the-wall.json) |
 | Destroy the World Bundle | 308634 | [308634-destroy-the-world-bundle.json](./308634-destroy-the-world-bundle.json) |
+| Destroy Them! | 291263 | [291263-destroy-them.json](./291263-destroy-them.json) |
 | Destroy Your Home | 333531 | [333531-destroy-your-home.json](./333531-destroy-your-home.json) |
 | Destroy_the_devil | 114241 | [114241-destroy-the-devil.json](./114241-destroy-the-devil.json) |
 | Destroyed Aperture | 217184 | [217184-destroyed-aperture.json](./217184-destroyed-aperture.json) |
@@ -7808,6 +7809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Bartender | 192606 | [192606-devil-bartender.json](./192606-devil-bartender.json) |
 | Devil Beauty & Animal Cuties! | 213160 | [213160-devil-beauty-and-animal-cuties.json](./213160-devil-beauty-and-animal-cuties.json) |
 | Devil Below | 293171 | [293171-devil-below.json](./293171-devil-below.json) |
+| Devil Blade Reboot | 291262 | [291262-devil-blade-reboot.json](./291262-devil-blade-reboot.json) |
 | Devil Book: Hand-Drawn Action MMO | 146171 | [146171-devil-book-hand-drawn-action-mmo.json](./146171-devil-book-hand-drawn-action-mmo.json) |
 | Devil Catcher | 171414 | [171414-devil-catcher.json](./171414-devil-catcher.json) |
 | Devil Cult Party | 305794 | [305794-devil-cult-party.json](./305794-devil-cult-party.json) |
@@ -10526,6 +10528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant Nightmare | 37044 | [37044-distant-nightmare.json](./37044-distant-nightmare.json) |
 | Distant Oceanic Getaway | 298371 | [298371-distant-oceanic-getaway.json](./298371-distant-oceanic-getaway.json) |
 | Distant Paradise | 402858 | [402858-distant-paradise.json](./402858-distant-paradise.json) |
+| Distant Past | 291406 | [291406-distant-past.json](./291406-distant-past.json) |
 | Distant Realm | 337160 | [337160-distant-realm.json](./337160-distant-realm.json) |
 | Distant Shore: Bretagne | 379126 | [379126-distant-shore-bretagne.json](./379126-distant-shore-bretagne.json) |
 | Distant Shores | 313841 | [313841-distant-shores.json](./313841-distant-shores.json) |
@@ -16121,6 +16124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drifties | 376233 | [376233-drifties.json](./376233-drifties.json) |
 | Driftin.io | 126024 | [126024-driftin-io.json](./126024-driftin-io.json) |
 | Drifting Afternoon | 397855 | [397855-drifting-afternoon.json](./397855-drifting-afternoon.json) |
+| Drifting Bottle Cap | 291207 | [291207-drifting-bottle-cap.json](./291207-drifting-bottle-cap.json) |
 | Drifting Car Stunter | 296876 | [296876-drifting-car-stunter.json](./296876-drifting-car-stunter.json) |
 | Drifting Cloud | 99577 | [99577-drifting-cloud.json](./99577-drifting-cloud.json) |
 | Drifting Dots | 390694 | [390694-drifting-dots.json](./390694-drifting-dots.json) |
@@ -18455,6 +18459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustland Delivery: Sheol | 385152 | [385152-dustland-delivery-sheol.json](./385152-dustland-delivery-sheol.json) |
 | Dustland Rider | 195119 | [195119-dustland-rider.json](./195119-dustland-rider.json) |
 | Dustman | 14044 | [14044-dustman.json](./14044-dustman.json) |
+| Dustmen | 291282 | [291282-dustmen.json](./291282-dustmen.json) |
 | Dustnet | 117904 | [117904-dustnet.json](./117904-dustnet.json) |
 | Dustoff Heli Rescue 2 | 30572 | [30572-dustoff-heli-rescue-2.json](./30572-dustoff-heli-rescue-2.json) |
 | Dustoff Z | 137344 | [137344-dustoff-z.json](./137344-dustoff-z.json) |
