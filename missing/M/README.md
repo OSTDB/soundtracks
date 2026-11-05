@@ -1020,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Cards Solitaire | 295443 | [295443-magic-cards-solitaire.json](./295443-magic-cards-solitaire.json) |
 | Magic Cards Solitaire 2: The Fountain of Life | 274915 | [274915-magic-cards-solitaire-2-the-fountain-of-life.json](./274915-magic-cards-solitaire-2-the-fountain-of-life.json) |
 | Magic Carpet Plus | 72026 | [72026-magic-carpet-plus.json](./72026-magic-carpet-plus.json) |
+| Magic Carpet Ride | 289116 | [289116-magic-carpet-ride.json](./289116-magic-carpet-ride.json) |
 | Magic Carpet: Hidden Worlds | 8922 | [8922-magic-carpet-hidden-worlds.json](./8922-magic-carpet-hidden-worlds.json) |
 | Magic Caster | 291716 | [291716-magic-caster.json](./291716-magic-caster.json) |
 | Magic Castle | 142128 | [142128-magic-castle.json](./142128-magic-castle.json) |
@@ -3020,6 +3021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maniac Pro-Wrestling: Ashita e no Tatakai | 59032 | [59032-maniac-pro-wrestling-ashita-e-no-tatakai.json](./59032-maniac-pro-wrestling-ashita-e-no-tatakai.json) |
 | Maniac Sports | 69249 | [69249-maniac-sports.json](./69249-maniac-sports.json) |
 | Maniac Square | 122239 | [122239-maniac-square.json](./122239-maniac-square.json) |
+| Maniac Square | 289133 | [289133-maniac-square.json](./289133-maniac-square.json) |
 | Maniacs | 203736 | [203736-maniacs.json](./203736-maniacs.json) |
 | Manic | 126951 | [126951-manic.json](./126951-manic.json) |
 | Manic Archers | 153382 | [153382-manic-archers.json](./153382-manic-archers.json) |
@@ -3622,6 +3624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Artist: Video Jockey Maker | 175954 | [175954-mario-artist-video-jockey-maker.json](./175954-mario-artist-video-jockey-maker.json) |
 | Mario Bobble | 41363 | [41363-mario-bobble.json](./41363-mario-bobble.json) |
 | Mario Brawl Online | 324065 | [324065-mario-brawl-online.json](./324065-mario-brawl-online.json) |
+| Mario Bros G&W for ZX Spectrum | 289126 | [289126-mario-bros-g-and-w-for-zx-spectrum.json](./289126-mario-bros-g-and-w-for-zx-spectrum.json) |
 | Mario Bros: Just For Fun (Super Battle Bros) | 135071 | [135071-mario-bros-just-for-fun-super-battle-bros.json](./135071-mario-bros-just-for-fun-super-battle-bros.json) |
 | Mario Bros. | 131939 | [131939-mario-bros.json](./131939-mario-bros.json) |
 | Mario Bros. | 172201 | [172201-mario-bros.json](./172201-mario-bros.json) |
@@ -4351,6 +4354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marshmallows On Halloween | 272747 | [272747-marshmallows-on-halloween.json](./272747-marshmallows-on-halloween.json) |
 | Marshmellow Day Spa | 114153 | [114153-marshmellow-day-spa.json](./114153-marshmellow-day-spa.json) |
 | Marsi's Adventures | 228375 | [228375-marsis-adventures.json](./228375-marsis-adventures.json) |
+| Marslander | 289117 | [289117-marslander.json](./289117-marslander.json) |
 | Marsmare: Alienation | 199341 | [199341-marsmare-alienation.json](./199341-marsmare-alienation.json) |
 | Marsport | 45327 | [45327-marsport.json](./45327-marsport.json) |
 | Marsupilami | 18142 | [18142-marsupilami.json](./18142-marsupilami.json) |
@@ -16464,6 +16468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mordeny | 356804 | [356804-mordeny.json](./356804-mordeny.json) |
 | Morder | 111565 | [111565-morder.json](./111565-morder.json) |
 | Mordeth | 316605 | [316605-mordeth.json](./316605-mordeth.json) |
+| MordeTwi Magic | 289156 | [289156-mordetwi-magic.json](./289156-mordetwi-magic.json) |
 | Mordfield Command | 304874 | [304874-mordfield-command.json](./304874-mordfield-command.json) |
 | Mordhau: Adventurer Pack | 309298 | [309298-mordhau-adventurer-pack.json](./309298-mordhau-adventurer-pack.json) |
 | Mordhau: Archduke Set | 272449 | [272449-mordhau-archduke-set.json](./272449-mordhau-archduke-set.json) |
