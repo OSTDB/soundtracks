@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakuen Battle Fishers: Yoky Shiimono wa Tsure | 281424 | [281424-gakuen-battle-fishers-yoky-shiimono-wa-tsure.json](./281424-gakuen-battle-fishers-yoky-shiimono-wa-tsure.json) |
 | Gakuen Club | 31975 | [31975-gakuen-club.json](./31975-gakuen-club.json) |
 | Gakuen Handsome | 230342 | [230342-gakuen-handsome.json](./230342-gakuen-handsome.json) |
+| Gakuen Handsome Chocolate | 291925 | [291925-gakuen-handsome-chocolate.json](./291925-gakuen-handsome-chocolate.json) |
 | Gakuen Handsome Fighters | 243866 | [243866-gakuen-handsome-fighters.json](./243866-gakuen-handsome-fighters.json) |
 | Gakuen Handsome: Ikusei Game - Mitsurugi Sakuya no Soccer Sekai ni Hirometai | 187048 | [187048-gakuen-handsome-ikusei-game-mitsurugi-sakuya-no-soccer-sekai-ni-hirometai.json](./187048-gakuen-handsome-ikusei-game-mitsurugi-sakuya-no-soccer-sekai-ni-hirometai.json) |
 | Gakuen Handsome: Ito o Kashi | 181517 | [181517-gakuen-handsome-ito-o-kashi.json](./181517-gakuen-handsome-ito-o-kashi.json) |
