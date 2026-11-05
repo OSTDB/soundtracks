@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.League Jikkyou Winning Eleven 2001 | 181572 | [181572-j-league-jikkyou-winning-eleven-2001.json](./181572-j-league-jikkyou-winning-eleven-2001.json) |
 | J.League Jikkyou Winning Eleven 3 | 220865 | [220865-j-league-jikkyou-winning-eleven-3.json](./220865-j-league-jikkyou-winning-eleven-3.json) |
 | J.League Jikkyou Winning Eleven 97 | 181567 | [181567-j-league-jikkyou-winning-eleven-97.json](./181567-j-league-jikkyou-winning-eleven-97.json) |
+| J.League Live '95 | 266541 | [266541-j-league-live-95.json](./266541-j-league-live-95.json) |
 | J.League Live 64 | 3521 | [3521-j-league-live-64.json](./3521-j-league-live-64.json) |
 | J.League Pro Soccer Club wo Tsukurou! | 65005 | [65005-j-league-pro-soccer-club-wo-tsukurou.json](./65005-j-league-pro-soccer-club-wo-tsukurou.json) |
 | J.League Pro Soccer Club wo Tsukurou! '04 | 62764 | [62764-j-league-pro-soccer-club-wo-tsukurou-04.json](./62764-j-league-pro-soccer-club-wo-tsukurou-04.json) |
