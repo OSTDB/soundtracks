@@ -10339,6 +10339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling in the Maze | 286498 | [286498-rolling-in-the-maze.json](./286498-rolling-in-the-maze.json) |
 | Rolling in the Reef | 104908 | [104908-rolling-in-the-reef.json](./104908-rolling-in-the-reef.json) |
 | Rolling in the Sheepe | 201119 | [201119-rolling-in-the-sheepe.json](./201119-rolling-in-the-sheepe.json) |
+| Rolling Jump | 269339 | [269339-rolling-jump.json](./269339-rolling-jump.json) |
 | Rolling Lee | 303040 | [303040-rolling-lee.json](./303040-rolling-lee.json) |
 | Rolling Macho: Tumbling to Earth | 330148 | [330148-rolling-macho-tumbling-to-earth.json](./330148-rolling-macho-tumbling-to-earth.json) |
 | Rolling Madness 3D | 54957 | [54957-rolling-madness-3d.json](./54957-rolling-madness-3d.json) |
