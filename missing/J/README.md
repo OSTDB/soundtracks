@@ -3193,6 +3193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump On Head | 298819 | [298819-jump-on-head.json](./298819-jump-on-head.json) |
 | Jump on the Ball | 329380 | [329380-jump-on-the-ball.json](./329380-jump-on-the-ball.json) |
 | Jump or Roll Game | 246987 | [246987-jump-or-roll-game.json](./246987-jump-or-roll-game.json) |
+| Jump Out | 280033 | [280033-jump-out.json](./280033-jump-out.json) |
 | Jump Out | 280310 | [280310-jump-out.json](./280310-jump-out.json) |
 | Jump Out! The Computer | 101871 | [101871-jump-out-the-computer.json](./101871-jump-out-the-computer.json) |
 | Jump Over It! | 372162 | [372162-jump-over-it.json](./372162-jump-over-it.json) |
