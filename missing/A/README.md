@@ -3024,6 +3024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ada | 375994 | [375994-ada.json](./375994-ada.json) |
 | Ada Towers | 83493 | [83493-ada-towers.json](./83493-ada-towers.json) |
 | ADA: Além d' Aventura | 156950 | [156950-ada-alem-d-aventura.json](./156950-ada-alem-d-aventura.json) |
+| Ada: Tainted Soil | 262752 | [262752-ada-tainted-soil.json](./262752-ada-tainted-soil.json) |
 | ADAC: The Simulation | 76623 | [76623-adac-the-simulation.json](./76623-adac-the-simulation.json) |
 | Adaca | 197542 | [197542-adaca.json](./197542-adaca.json) |
 | Adachi Ballin' | 412453 | [412453-adachi-ballin.json](./412453-adachi-ballin.json) |
@@ -4314,6 +4315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterlife Beans | 164979 | [164979-afterlife-beans.json](./164979-afterlife-beans.json) |
 | Afterlife Connections LLC | 307715 | [307715-afterlife-connections-llc.json](./307715-afterlife-connections-llc.json) |
 | Afterlife Empire | 35320 | [35320-afterlife-empire.json](./35320-afterlife-empire.json) |
+| Afterlife Gladiator | 262743 | [262743-afterlife-gladiator.json](./262743-afterlife-gladiator.json) |
 | Afterlife Harem | 316822 | [316822-afterlife-harem.json](./316822-afterlife-harem.json) |
 | Afterlife Pharmaceuticals | 276745 | [276745-afterlife-pharmaceuticals.json](./276745-afterlife-pharmaceuticals.json) |
 | Afterlife Reverie | 337799 | [337799-afterlife-reverie.json](./337799-afterlife-reverie.json) |
@@ -9431,6 +9433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angelo and Deemon: One Hell of a Quest | 117084 | [117084-angelo-and-deemon-one-hell-of-a-quest.json](./117084-angelo-and-deemon-one-hell-of-a-quest.json) |
 | Angelo Skate Away | 82331 | [82331-angelo-skate-away.json](./82331-angelo-skate-away.json) |
 | Angels | 246124 | [246124-angels.json](./246124-angels.json) |
+| Angels & Demons | 262767 | [262767-angels-and-demons.json](./262767-angels-and-demons.json) |
 | Angels Blue Collection | 52579 | [52579-angels-blue-collection.json](./52579-angels-blue-collection.json) |
 | Angels Fall First | 17279 | [17279-angels-fall-first.json](./17279-angels-fall-first.json) |
 | Angels in Orbit | 389021 | [389021-angels-in-orbit.json](./389021-angels-in-orbit.json) |
@@ -13170,6 +13173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Breakout: Infinite - Season 0 | 314406 | [314406-arena-breakout-infinite-season-0.json](./314406-arena-breakout-infinite-season-0.json) |
 | Arena Breakout: Infinite – Season 1 | 324717 | [324717-arena-breakout-infinite-season-1.json](./324717-arena-breakout-infinite-season-1.json) |
 | Arena Breakout: Season 1 | 318412 | [318412-arena-breakout-season-1.json](./318412-arena-breakout-season-1.json) |
+| Arena Breakout: Season 2 - Battle For the Port | 262759 | [262759-arena-breakout-season-2-battle-for-the-port.json](./262759-arena-breakout-season-2-battle-for-the-port.json) |
 | Arena Breakout: Season 3 - Enter the Vault | 318415 | [318415-arena-breakout-season-3-enter-the-vault.json](./318415-arena-breakout-season-3-enter-the-vault.json) |
 | Arena Breakout: Season 4 - Into the Fog of War | 318417 | [318417-arena-breakout-season-4-into-the-fog-of-war.json](./318417-arena-breakout-season-4-into-the-fog-of-war.json) |
 | Arena Breakout: Season 5 - Road to Gold | 318419 | [318419-arena-breakout-season-5-road-to-gold.json](./318419-arena-breakout-season-5-road-to-gold.json) |
@@ -14217,6 +14221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artesnaut | 419371 | [419371-artesnaut.json](./419371-artesnaut.json) |
 | Artful Balancer | 103046 | [103046-artful-balancer.json](./103046-artful-balancer.json) |
 | Artful Escape | 109982 | [109982-artful-escape.json](./109982-artful-escape.json) |
+| Arthas 2 | 262729 | [262729-arthas-2.json](./262729-arthas-2.json) |
 | Arthas: The Game | 238581 | [238581-arthas-the-game.json](./238581-arthas-the-game.json) |
 | Arthdal Chronicles | 194153 | [194153-arthdal-chronicles.json](./194153-arthdal-chronicles.json) |
 | Arthur | 184975 | [184975-arthur.json](./184975-arthur.json) |
@@ -16343,6 +16348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
