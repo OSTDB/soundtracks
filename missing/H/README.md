@@ -8313,6 +8313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hobgoblins Against Dwarfs | 296915 | [296915-hobgoblins-against-dwarfs.json](./296915-hobgoblins-against-dwarfs.json) |
 | Hobnobbers | 322693 | [322693-hobnobbers.json](./322693-hobnobbers.json) |
 | Hobo | 230465 | [230465-hobo.json](./230465-hobo.json) |
+| Hobo | 281193 | [281193-hobo.json](./281193-hobo.json) |
 | Hobo 3: Wanted | 294723 | [294723-hobo-3-wanted.json](./294723-hobo-3-wanted.json) |
 | Hobo 4: Total War | 294724 | [294724-hobo-4-total-war.json](./294724-hobo-4-total-war.json) |
 | Hobo 5: Space Brawls - Attack of the Hobo Clones | 295631 | [295631-hobo-5-space-brawls-attack-of-the-hobo-clones.json](./295631-hobo-5-space-brawls-attack-of-the-hobo-clones.json) |
@@ -9942,6 +9943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Race | 202001 | [202001-horse-race.json](./202001-horse-race.json) |
 | Horse Race Starter | 76958 | [76958-horse-race-starter.json](./76958-horse-race-starter.json) |
 | Horse Races | 315464 | [315464-horse-races.json](./315464-horse-races.json) |
+| Horse Racing | 281211 | [281211-horse-racing.json](./281211-horse-racing.json) |
 | Horse Racing | 284951 | [284951-horse-racing.json](./284951-horse-racing.json) |
 | Horse Racing | 47279 | [47279-horse-racing.json](./47279-horse-racing.json) |
 | Horse Racing 2016 | 38770 | [38770-horse-racing-2016.json](./38770-horse-racing-2016.json) |
