@@ -1023,6 +1023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Strike | 216064 | [216064-war-strike.json](./216064-war-strike.json) |
 | War Survival | 371250 | [371250-war-survival.json](./371250-war-survival.json) |
 | War Tank Combat | 149382 | [149382-war-tank-combat.json](./149382-war-tank-combat.json) |
+| War Tank Machine Battle Vehicle Simulator | 249574 | [249574-war-tank-machine-battle-vehicle-simulator.json](./249574-war-tank-machine-battle-vehicle-simulator.json) |
 | War Tanks | 203923 | [203923-war-tanks.json](./203923-war-tanks.json) |
 | War Tech Fighters | 37037 | [37037-war-tech-fighters.json](./37037-war-tech-fighters.json) |
 | War Theatre | 76870 | [76870-war-theatre.json](./76870-war-theatre.json) |
@@ -8911,6 +8912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestle Angels: Double Impact | 37625 | [37625-wrestle-angels-double-impact.json](./37625-wrestle-angels-double-impact.json) |
 | Wrestle Angels: Survivor | 69146 | [69146-wrestle-angels-survivor.json](./69146-wrestle-angels-survivor.json) |
 | Wrestle Angels: Survivor 2 | 69147 | [69147-wrestle-angels-survivor-2.json](./69147-wrestle-angels-survivor-2.json) |
+| Wrestle Bros | 249554 | [249554-wrestle-bros.json](./249554-wrestle-bros.json) |
 | Wrestle Champs | 232085 | [232085-wrestle-champs.json](./232085-wrestle-champs.json) |
 | Wrestle Fight Girls | 59272 | [59272-wrestle-fight-girls.json](./59272-wrestle-fight-girls.json) |
 | Wrestle Jump Man | 101077 | [101077-wrestle-jump-man.json](./101077-wrestle-jump-man.json) |
