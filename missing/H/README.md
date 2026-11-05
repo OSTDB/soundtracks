@@ -4332,6 +4332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty AR Kawaii World | 121933 | [121933-hello-kitty-ar-kawaii-world.json](./121933-hello-kitty-ar-kawaii-world.json) |
 | Hello Kitty Asobi no Omochabako | 226076 | [226076-hello-kitty-asobi-no-omochabako.json](./226076-hello-kitty-asobi-no-omochabako.json) |
 | Hello Kitty Birthday Party | 231386 | [231386-hello-kitty-birthday-party.json](./231386-hello-kitty-birthday-party.json) |
+| Hello Kitty Cafe | 264407 | [264407-hello-kitty-cafe.json](./264407-hello-kitty-cafe.json) |
 | Hello Kitty Carnival | 268673 | [268673-hello-kitty-carnival.json](./268673-hello-kitty-carnival.json) |
 | Hello Kitty Cube World | 78878 | [78878-hello-kitty-cube-world.json](./78878-hello-kitty-cube-world.json) |
 | Hello Kitty Cutie World | 78586 | [78586-hello-kitty-cutie-world.json](./78586-hello-kitty-cutie-world.json) |
@@ -7659,6 +7660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi no Naku Koro ni Origin | 251465 | [251465-higurashi-no-naku-koro-ni-origin.json](./251465-higurashi-no-naku-koro-ni-origin.json) |
 | Higurashi no Naku Koro ni Rei | 248201 | [248201-higurashi-no-naku-koro-ni-rei.json](./248201-higurashi-no-naku-koro-ni-rei.json) |
 | Higurashi no Naku Koro ni Sui | 60788 | [60788-higurashi-no-naku-koro-ni-sui.json](./60788-higurashi-no-naku-koro-ni-sui.json) |
+| Higurashi no Naku Koro ni Tactics | 264388 | [264388-higurashi-no-naku-koro-ni-tactics.json](./264388-higurashi-no-naku-koro-ni-tactics.json) |
 | Higurashi no Naku Koro ni: Alternative Hirukowashi-hen | 263916 | [263916-higurashi-no-naku-koro-ni-alternative-hirukowashi-hen.json](./263916-higurashi-no-naku-koro-ni-alternative-hirukowashi-hen.json) |
 | Higurashi no Naku Koro ni: Ch.1 Onikakushi-hen | 248182 | [248182-higurashi-no-naku-koro-ni-ch-1-onikakushi-hen.json](./248182-higurashi-no-naku-koro-ni-ch-1-onikakushi-hen.json) |
 | Higurashi no Naku Koro ni: Ch.2 Watanagashi-hen | 248185 | [248185-higurashi-no-naku-koro-ni-ch-2-watanagashi-hen.json](./248185-higurashi-no-naku-koro-ni-ch-2-watanagashi-hen.json) |
@@ -10418,7 +10420,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed: McLaren Senna | 195768 | [195768-hot-wheels-unleashed-mclaren-senna.json](./195768-hot-wheels-unleashed-mclaren-senna.json) |
 | Hot Wheels Unleashed: Night Burner | 195767 | [195767-hot-wheels-unleashed-night-burner.json](./195767-hot-wheels-unleashed-night-burner.json) |
 | Hot Wheels Unleashed: Pass Vol. 2 | 200835 | [200835-hot-wheels-unleashed-pass-vol-2.json](./200835-hot-wheels-unleashed-pass-vol-2.json) |
+| Hot Wheels Unleashed: Spongebob Racing Season | 264427 | [264427-hot-wheels-unleashed-spongebob-racing-season.json](./264427-hot-wheels-unleashed-spongebob-racing-season.json) |
+| Hot Wheels Unleashed: Street Fighter Ryu | 264435 | [264435-hot-wheels-unleashed-street-fighter-ryu.json](./264435-hot-wheels-unleashed-street-fighter-ryu.json) |
 | Hot Wheels Unleashed: Street Fighter Vega | 195770 | [195770-hot-wheels-unleashed-street-fighter-vega.json](./195770-hot-wheels-unleashed-street-fighter-vega.json) |
+| Hot Wheels Unleashed: Superman | 264428 | [264428-hot-wheels-unleashed-superman.json](./264428-hot-wheels-unleashed-superman.json) |
 | Hot Wheels Unleashed: Ultimate Stunt Edition | 169205 | [169205-hot-wheels-unleashed-ultimate-stunt-edition.json](./169205-hot-wheels-unleashed-ultimate-stunt-edition.json) |
 | Hot Wheels Velocity X | 243199 | [243199-hot-wheels-velocity-x.json](./243199-hot-wheels-velocity-x.json) |
 | Hot Wheels Velocity X | 2653 | [2653-hot-wheels-velocity-x.json](./2653-hot-wheels-velocity-x.json) |
@@ -12549,6 +12554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyss | 112985 | [112985-hyss.json](./112985-hyss.json) |
 | Hysteria | 47172 | [47172-hysteria.json](./47172-hysteria.json) |
 | Hysteria Hospital: Emergency Ward | 4920 | [4920-hysteria-hospital-emergency-ward.json](./4920-hysteria-hospital-emergency-ward.json) |
+| Hysteria in Howlsbend | 264396 | [264396-hysteria-in-howlsbend.json](./264396-hysteria-in-howlsbend.json) |
 | Hysteria Project 2 | 20623 | [20623-hysteria-project-2.json](./20623-hysteria-project-2.json) |
 | Hysteric Mama | 385329 | [385329-hysteric-mama.json](./385329-hysteric-mama.json) |
 | Hytopia | 374978 | [374978-hytopia.json](./374978-hytopia.json) |
