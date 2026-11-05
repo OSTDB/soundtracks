@@ -3524,6 +3524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KingHunt | 76626 | [76626-kinghunt.json](./76626-kinghunt.json) |
 | Kingler's Day | 70309 | [70309-kinglers-day.json](./70309-kinglers-day.json) |
 | Kingless Dungeon | 350041 | [350041-kingless-dungeon.json](./350041-kingless-dungeon.json) |
+| Kingless Pawns | 272616 | [272616-kingless-pawns.json](./272616-kingless-pawns.json) |
 | Kingmaker | 288007 | [288007-kingmaker.json](./288007-kingmaker.json) |
 | Kingmaker | 292554 | [292554-kingmaker.json](./292554-kingmaker.json) |
 | Kingmaker | 80171 | [80171-kingmaker.json](./80171-kingmaker.json) |
@@ -4054,6 +4055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kittens in Space | 224700 | [224700-kittens-in-space.json](./224700-kittens-in-space.json) |
 | Kittens of Fear | 155664 | [155664-kittens-of-fear.json](./155664-kittens-of-fear.json) |
 | Kittens with Cannons | 179122 | [179122-kittens-with-cannons.json](./179122-kittens-with-cannons.json) |
+| Kittens with Cannons: Prelude | 272615 | [272615-kittens-with-cannons-prelude.json](./272615-kittens-with-cannons-prelude.json) |
 | Kittens' Maze | 149950 | [149950-kittens-maze.json](./149950-kittens-maze.json) |
 | Kittenship Care | 364062 | [364062-kittenship-care.json](./364062-kittenship-care.json) |
 | Kittentegy | 303613 | [303613-kittentegy.json](./303613-kittentegy.json) |
