@@ -3103,6 +3103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartridge Monsters: Rebirth | 278920 | [278920-cartridge-monsters-rebirth.json](./278920-cartridge-monsters-rebirth.json) |
 | Cartridge the Tiger | 203594 | [203594-cartridge-the-tiger.json](./203594-cartridge-the-tiger.json) |
 | Carts Battle | 310071 | [310071-carts-battle.json](./310071-carts-battle.json) |
+| Cartuchito World | 249551 | [249551-cartuchito-world.json](./249551-cartuchito-world.json) |
 | Cartuchito World: Canella Edition | 275621 | [275621-cartuchito-world-canella-edition.json](./275621-cartuchito-world-canella-edition.json) |
 | Carvalho: Los Pájaros de Bangkok | 138790 | [138790-carvalho-los-pajaros-de-bangkok.json](./138790-carvalho-los-pajaros-de-bangkok.json) |
 | Carve | 5767 | [5767-carve.json](./5767-carve.json) |
@@ -4413,6 +4414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catgirl Magic: Fury Duel | 105653 | [105653-catgirl-magic-fury-duel.json](./105653-catgirl-magic-fury-duel.json) |
 | Catgirls From My Sweet Dream | 215502 | [215502-catgirls-from-my-sweet-dream.json](./215502-catgirls-from-my-sweet-dream.json) |
 | Catgirls From My Sweet Dream: Neko Girls 18+ | 343613 | [343613-catgirls-from-my-sweet-dream-neko-girls-18.json](./343613-catgirls-from-my-sweet-dream-neko-girls-18.json) |
+| Catgotchi: Virtual Pet - Deluxe Edition | 249561 | [249561-catgotchi-virtual-pet-deluxe-edition.json](./249561-catgotchi-virtual-pet-deluxe-edition.json) |
 | Catharage | 355098 | [355098-catharage.json](./355098-catharage.json) |
 | Catharsis | 130144 | [130144-catharsis.json](./130144-catharsis.json) |
 | Catharsis | 195791 | [195791-catharsis.json](./195791-catharsis.json) |
@@ -5089,6 +5091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celeste Witch | 76427 | [76427-celeste-witch.json](./76427-celeste-witch.json) |
 | Celeste: Into The Jungle | 353715 | [353715-celeste-into-the-jungle.json](./353715-celeste-into-the-jungle.json) |
 | Celeste: The D-Sides Pack | 281897 | [281897-celeste-the-d-sides-pack.json](./281897-celeste-the-d-sides-pack.json) |
+| Celeste.smc | 249550 | [249550-celeste-smc.json](./249550-celeste-smc.json) |
 | Celestia | 183432 | [183432-celestia.json](./183432-celestia.json) |
 | Celestia | 351356 | [351356-celestia.json](./351356-celestia.json) |
 | Celestia Ultimate | 249475 | [249475-celestia-ultimate.json](./249475-celestia-ultimate.json) |
@@ -10709,6 +10712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clumsy Rush: Ultimate Guys - Deluxe Edition | 219382 | [219382-clumsy-rush-ultimate-guys-deluxe-edition.json](./219382-clumsy-rush-ultimate-guys-deluxe-edition.json) |
 | Clumsy Rush: Ultimate Guys - Extended Edition | 238064 | [238064-clumsy-rush-ultimate-guys-extended-edition.json](./238064-clumsy-rush-ultimate-guys-extended-edition.json) |
 | Clumsy Rush: Ultimate Guys - GOTY Edition | 246878 | [246878-clumsy-rush-ultimate-guys-goty-edition.json](./246878-clumsy-rush-ultimate-guys-goty-edition.json) |
+| Clumsy Rush: Ultimate Guys - Happy Edition | 249560 | [249560-clumsy-rush-ultimate-guys-happy-edition.json](./249560-clumsy-rush-ultimate-guys-happy-edition.json) |
 | Clumsy Rush: Ultimate Guys - Legendary Edition | 251494 | [251494-clumsy-rush-ultimate-guys-legendary-edition.json](./251494-clumsy-rush-ultimate-guys-legendary-edition.json) |
 | Clumsy Rush: Ultimate Guys - Magnificent Edition | 266158 | [266158-clumsy-rush-ultimate-guys-magnificent-edition.json](./266158-clumsy-rush-ultimate-guys-magnificent-edition.json) |
 | Clumsy Rush: Ultimate Guys - Platinum Edition | 241399 | [241399-clumsy-rush-ultimate-guys-platinum-edition.json](./241399-clumsy-rush-ultimate-guys-platinum-edition.json) |
@@ -14202,6 +14206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Kid Cody: Season 2 - Episode 03 | 246854 | [246854-cool-kid-cody-season-2-episode-03.json](./246854-cool-kid-cody-season-2-episode-03.json) |
 | Cool Kid Cody: Season 2 - Episode 04 | 248017 | [248017-cool-kid-cody-season-2-episode-04.json](./248017-cool-kid-cody-season-2-episode-04.json) |
 | Cool Kid Cody: Season 2 - Episode 05 | 248816 | [248816-cool-kid-cody-season-2-episode-05.json](./248816-cool-kid-cody-season-2-episode-05.json) |
+| Cool Kid Cody: Season 2 - Episode 06 | 249566 | [249566-cool-kid-cody-season-2-episode-06.json](./249566-cool-kid-cody-season-2-episode-06.json) |
 | Cool Kid Cody: Season 2 - Episode 07 | 318841 | [318841-cool-kid-cody-season-2-episode-07.json](./318841-cool-kid-cody-season-2-episode-07.json) |
 | Cool Kid Cody: Season 2 - Episode 08 | 318842 | [318842-cool-kid-cody-season-2-episode-08.json](./318842-cool-kid-cody-season-2-episode-08.json) |
 | Cool Kid Cody: Season 2 - Episode 09 | 253977 | [253977-cool-kid-cody-season-2-episode-09.json](./253977-cool-kid-cody-season-2-episode-09.json) |
