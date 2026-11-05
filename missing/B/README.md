@@ -5304,6 +5304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Stickman: Infinity Clones - Definitive Edition | 120107 | [120107-beat-stickman-infinity-clones-definitive-edition.json](./120107-beat-stickman-infinity-clones-definitive-edition.json) |
 | Beat Stomper | 57462 | [57462-beat-stomper.json](./57462-beat-stomper.json) |
 | Beat Survival | 264541 | [264541-beat-survival.json](./264541-beat-survival.json) |
+| Beat Survival: Expansion | 261047 | [261047-beat-survival-expansion.json](./261047-beat-survival-expansion.json) |
 | Beat the Art Breaker | 96564 | [96564-beat-the-art-breaker.json](./96564-beat-the-art-breaker.json) |
 | Beat the Beat! | 262376 | [262376-beat-the-beat.json](./262376-beat-the-beat.json) |
 | Beat the Beats | 281956 | [281956-beat-the-beats.json](./281956-beat-the-beats.json) |
