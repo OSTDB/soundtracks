@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabinet of Curiosities VR | 201691 | [201691-cabinet-of-curiosities-vr.json](./201691-cabinet-of-curiosities-vr.json) |
 | Cabins: Jigsaw Puzzles | 103465 | [103465-cabins-jigsaw-puzzles.json](./103465-cabins-jigsaw-puzzles.json) |
 | Cable 2 | 11363 | [11363-cable-2.json](./11363-cable-2.json) |
+| Cable Capers 2 | 273683 | [273683-cable-capers-2.json](./273683-cable-capers-2.json) |
 | Cable City | 404017 | [404017-cable-city.json](./404017-cable-city.json) |
 | Cable Clutter | 211255 | [211255-cable-clutter.json](./211255-cable-clutter.json) |
 | Cable Swiper | 22363 | [22363-cable-swiper.json](./22363-cable-swiper.json) |
@@ -1432,6 +1433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Balloon Party | 401379 | [401379-cannon-balloon-party.json](./401379-cannon-balloon-party.json) |
 | Cannon Basket HD | 232177 | [232177-cannon-basket-hd.json](./232177-cannon-basket-hd.json) |
 | Cannon Bird 3 | 325560 | [325560-cannon-bird-3.json](./325560-cannon-bird-3.json) |
+| Cannon Blast | 273684 | [273684-cannon-blast.json](./273684-cannon-blast.json) |
 | Cannon Blaster 3 | 335470 | [335470-cannon-blaster-3.json](./335470-cannon-blaster-3.json) |
 | Cannon Block Ball | 260262 | [260262-cannon-block-ball.json](./260262-cannon-block-ball.json) |
 | Cannon Brawl | 13675 | [13675-cannon-brawl.json](./13675-cannon-brawl.json) |
@@ -1528,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canyon Climber | 21921 | [21921-canyon-climber.json](./21921-canyon-climber.json) |
 | Canyon Defense | 186125 | [186125-canyon-defense.json](./186125-canyon-defense.json) |
 | Canyon Defense 2 | 400671 | [400671-canyon-defense-2.json](./400671-canyon-defense-2.json) |
+| Canyon Glider | 273685 | [273685-canyon-glider.json](./273685-canyon-glider.json) |
 | Canyon Miner: Minecart Rush | 233110 | [233110-canyon-miner-minecart-rush.json](./233110-canyon-miner-minecart-rush.json) |
 | Canyon of Outlaws | 343402 | [343402-canyon-of-outlaws.json](./343402-canyon-of-outlaws.json) |
 | Canyon Racer | 284162 | [284162-canyon-racer.json](./284162-canyon-racer.json) |
@@ -5370,6 +5373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chachacha Slot | 87296 | [87296-chachacha-slot.json](./87296-chachacha-slot.json) |
 | Chachamaru Boukenki 3: Abyss no Tou | 49146 | [49146-chachamaru-boukenki-3-abyss-no-tou.json](./49146-chachamaru-boukenki-3-abyss-no-tou.json) |
 | Chachamaru Panic | 248823 | [248823-chachamaru-panic.json](./248823-chachamaru-panic.json) |
+| Chack'n Pop | 273703 | [273703-chackn-pop.json](./273703-chackn-pop.json) |
 | Chack'n Pop | 6103 | [6103-chackn-pop.json](./6103-chackn-pop.json) |
 | Chadboy | 241618 | [241618-chadboy.json](./241618-chadboy.json) |
 | Chadgeon: Enjoyers Edition+ | 296635 | [296635-chadgeon-enjoyers-edition.json](./296635-chadgeon-enjoyers-edition.json) |
@@ -5659,6 +5663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Foosball | 51017 | [51017-championship-foosball.json](./51017-championship-foosball.json) |
 | Championship Hockey | 19772 | [19772-championship-hockey.json](./19772-championship-hockey.json) |
 | Championship Jet Ski Simulator | 13477 | [13477-championship-jet-ski-simulator.json](./13477-championship-jet-ski-simulator.json) |
+| Championship Lode Runner | 273697 | [273697-championship-lode-runner.json](./273697-championship-lode-runner.json) |
 | Championship Lode Runner | 6091 | [6091-championship-lode-runner.json](./6091-championship-lode-runner.json) |
 | Championship Mah Jongg | 62504 | [62504-championship-mah-jongg.json](./62504-championship-mah-jongg.json) |
 | Championship Manager | 15208 | [15208-championship-manager.json](./15208-championship-manager.json) |
@@ -10049,6 +10054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cliff Hanger | 369841 | [369841-cliff-hanger.json](./369841-cliff-hanger.json) |
 | Cliff Hanger PC | 369835 | [369835-cliff-hanger-pc.json](./369835-cliff-hanger-pc.json) |
 | Cliff Johnson's Labyrinth of Crete | 55831 | [55831-cliff-johnsons-labyrinth-of-crete.json](./55831-cliff-johnsons-labyrinth-of-crete.json) |
+| Cliff Jump | 273710 | [273710-cliff-jump.json](./273710-cliff-jump.json) |
 | Cliff Kingdom | 401152 | [401152-cliff-kingdom.json](./401152-cliff-kingdom.json) |
 | Cliff Rush 3D | 322986 | [322986-cliff-rush-3d.json](./322986-cliff-rush-3d.json) |
 | CliffDivers | 273294 | [273294-cliffdivers.json](./273294-cliffdivers.json) |
@@ -10728,6 +10734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coal Rush: Tap a Train | 179585 | [179585-coal-rush-tap-a-train.json](./179585-coal-rush-tap-a-train.json) |
 | Coalescence | 218661 | [218661-coalescence.json](./218661-coalescence.json) |
 | Coalhero | 154396 | [154396-coalhero.json](./154396-coalhero.json) |
+| Coalminer | 273705 | [273705-coalminer.json](./273705-coalminer.json) |
 | Coarse Blade | 332236 | [332236-coarse-blade.json](./332236-coarse-blade.json) |
 | Coast Defender | 269038 | [269038-coast-defender.json](./269038-coast-defender.json) |
 | Coast Guard | 13209 | [13209-coast-guard.json](./13209-coast-guard.json) |
@@ -11100,6 +11107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Break: A Sip Away from Doom | 213577 | [213577-coffee-break-a-sip-away-from-doom.json](./213577-coffee-break-a-sip-away-from-doom.json) |
 | Coffee Break: Head to Head | 207277 | [207277-coffee-break-head-to-head.json](./207277-coffee-break-head-to-head.json) |
 | Coffee Buns | 281377 | [281377-coffee-buns.json](./281377-coffee-buns.json) |
+| Coffee Caravan | 273620 | [273620-coffee-caravan.json](./273620-coffee-caravan.json) |
 | Coffee Crawl | 90311 | [90311-coffee-crawl.json](./90311-coffee-crawl.json) |
 | Coffee Dates | 247466 | [247466-coffee-dates.json](./247466-coffee-dates.json) |
 | Coffee Express | 320924 | [320924-coffee-express.json](./320924-coffee-express.json) |
@@ -19906,6 +19914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Manhunt 2: New World | 276679 | [276679-cyber-manhunt-2-new-world.json](./276679-cyber-manhunt-2-new-world.json) |
 | Cyber Manhunt: A Company Man of Titan | 211901 | [211901-cyber-manhunt-a-company-man-of-titan.json](./211901-cyber-manhunt-a-company-man-of-titan.json) |
 | Cyber Manhunt: Hello World | 188493 | [188493-cyber-manhunt-hello-world.json](./188493-cyber-manhunt-hello-world.json) |
+| Cyber Mice Party | 273692 | [273692-cyber-mice-party.json](./273692-cyber-mice-party.json) |
 | Cyber Miner | 412616 | [412616-cyber-miner.json](./412616-cyber-miner.json) |
 | Cyber Mission | 241294 | [241294-cyber-mission.json](./241294-cyber-mission.json) |
 | Cyber Nations | 63777 | [63777-cyber-nations.json](./63777-cyber-nations.json) |
