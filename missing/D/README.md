@@ -730,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution A | 58120 | [58120-dance-dance-revolution-a.json](./58120-dance-dance-revolution-a.json) |
 | Dance Dance Revolution A20 | 124446 | [124446-dance-dance-revolution-a20.json](./124446-dance-dance-revolution-a20.json) |
 | Dance Dance Revolution A20 Plus | 135550 | [135550-dance-dance-revolution-a20-plus.json](./135550-dance-dance-revolution-a20-plus.json) |
+| Dance Dance Revolution A3 | 253128 | [253128-dance-dance-revolution-a3.json](./253128-dance-dance-revolution-a3.json) |
 | Dance Dance Revolution Best Hits | 132809 | [132809-dance-dance-revolution-best-hits.json](./132809-dance-dance-revolution-best-hits.json) |
 | Dance Dance Revolution Club Version Dreamcast Edition | 79697 | [79697-dance-dance-revolution-club-version-dreamcast-edition.json](./79697-dance-dance-revolution-club-version-dreamcast-edition.json) |
 | Dance Dance Revolution Dance Wars | 3681 | [3681-dance-dance-revolution-dance-wars.json](./3681-dance-dance-revolution-dance-wars.json) |
@@ -2677,6 +2678,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | David Haye's Jungle Rumble | 237011 | [237011-david-hayes-jungle-rumble.json](./237011-david-hayes-jungle-rumble.json) |
 | David Leadbetter's Greens | 71545 | [71545-david-leadbetters-greens.json](./71545-david-leadbetters-greens.json) |
 | David Robinson's Supreme Court | 46533 | [46533-david-robinsons-supreme-court.json](./46533-david-robinsons-supreme-court.json) |
+| David Slade Mysteries: Case Files | 253161 | [253161-david-slade-mysteries-case-files.json](./253161-david-slade-mysteries-case-files.json) |
+| David Slade Mysteries: Case Files - Definitive Edition | 253163 | [253163-david-slade-mysteries-case-files-definitive-edition.json](./253163-david-slade-mysteries-case-files-definitive-edition.json) |
+| David Slade Mysteries: Case Files 2 - The Riverside Slasher | 253160 | [253160-david-slade-mysteries-case-files-2-the-riverside-slasher.json](./253160-david-slade-mysteries-case-files-2-the-riverside-slasher.json) |
 | David Wolf: Secret Agent | 57575 | [57575-david-wolf-secret-agent.json](./57575-david-wolf-secret-agent.json) |
 | David: Dawn of a King | 335480 | [335480-david-dawn-of-a-king.json](./335480-david-dawn-of-a-king.json) |
 | David: Rise of the Shepherd | 372504 | [372504-david-rise-of-the-shepherd.json](./372504-david-rise-of-the-shepherd.json) |
@@ -3342,6 +3346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Descend Beyond Chapter | 154345 | [154345-dead-by-daylight-descend-beyond-chapter.json](./154345-dead-by-daylight-descend-beyond-chapter.json) |
 | Dead by Daylight: Dungeons & Dragons | 300798 | [300798-dead-by-daylight-dungeons-and-dragons.json](./300798-dead-by-daylight-dungeons-and-dragons.json) |
 | Dead by Daylight: Dungeons & Dragons Edition | 305485 | [305485-dead-by-daylight-dungeons-and-dragons-edition.json](./305485-dead-by-daylight-dungeons-and-dragons-edition.json) |
+| Dead by Daylight: End Transmission | 253114 | [253114-dead-by-daylight-end-transmission.json](./253114-dead-by-daylight-end-transmission.json) |
 | Dead by Daylight: Five Nights at Freddy's | 350030 | [350030-dead-by-daylight-five-nights-at-freddys.json](./350030-dead-by-daylight-five-nights-at-freddys.json) |
 | Dead by Daylight: Ghost Face | 120510 | [120510-dead-by-daylight-ghost-face.json](./120510-dead-by-daylight-ghost-face.json) |
 | Dead by Daylight: Gold Edition | 282124 | [282124-dead-by-daylight-gold-edition.json](./282124-dead-by-daylight-gold-edition.json) |
@@ -14202,6 +14207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag Deal | 368191 | [368191-drag-deal.json](./368191-drag-deal.json) |
 | Drag Engineer | 171301 | [171301-drag-engineer.json](./171301-drag-engineer.json) |
 | Drag Fight | 208981 | [208981-drag-fight.json](./208981-drag-fight.json) |
+| Drag Her! | 253105 | [253105-drag-her.json](./253105-drag-her.json) |
 | Drag Journey | 215113 | [215113-drag-journey.json](./215113-drag-journey.json) |
 | Drag Journey: Nitro | 219113 | [219113-drag-journey-nitro.json](./219113-drag-journey-nitro.json) |
 | Drag Me Home | 67273 | [67273-drag-me-home.json](./67273-drag-me-home.json) |
