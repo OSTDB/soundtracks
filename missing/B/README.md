@@ -2384,6 +2384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie: Horse Ride & Rescue | 398424 | [398424-barbie-horse-ride-and-rescue.json](./398424-barbie-horse-ride-and-rescue.json) |
 | Barbie: Horse Trails | 359887 | [359887-barbie-horse-trails.json](./359887-barbie-horse-trails.json) |
 | Barbie: Jet, Set & Style! | 17450 | [17450-barbie-jet-set-and-style.json](./17450-barbie-jet-set-and-style.json) |
+| Barbie: Laptop Charm Tech | 294486 | [294486-barbie-laptop-charm-tech.json](./294486-barbie-laptop-charm-tech.json) |
 | Barbie: Let's Baby-Sit Baby Krissy | 293192 | [293192-barbie-lets-baby-sit-baby-krissy.json](./293192-barbie-lets-baby-sit-baby-krissy.json) |
 | Barbie: Let’s Make Music | 293198 | [293198-barbie-let-s-make-music.json](./293198-barbie-let-s-make-music.json) |
 | Barbie: Magic Genie Adventure | 45167 | [45167-barbie-magic-genie-adventure.json](./45167-barbie-magic-genie-adventure.json) |
@@ -3325,6 +3326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Gotham City Racer | 44992 | [44992-batman-gotham-city-racer.json](./44992-batman-gotham-city-racer.json) |
 | Batman: Guardian of Gotham | 356602 | [356602-batman-guardian-of-gotham.json](./356602-batman-guardian-of-gotham.json) |
 | Batman: Justice Unbalanced | 73887 | [73887-batman-justice-unbalanced.json](./73887-batman-justice-unbalanced.json) |
+| Batman: Laptop Bilíngue | 294481 | [294481-batman-laptop-bilingue.json](./294481-batman-laptop-bilingue.json) |
 | Batman: Partners in Peril | 69677 | [69677-batman-partners-in-peril.json](./69677-batman-partners-in-peril.json) |
 | Batman: Return of the Joker | 295663 | [295663-batman-return-of-the-joker.json](./295663-batman-return-of-the-joker.json) |
 | Batman: Return of the Joker | 4489 | [4489-batman-return-of-the-joker.json](./4489-batman-return-of-the-joker.json) |
@@ -15553,6 +15555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrokenLore: Dark Dawn | 325207 | [325207-brokenlore-dark-dawn.json](./325207-brokenlore-dark-dawn.json) |
 | BrokenLore: Don't Lie | 370708 | [370708-brokenlore-dont-lie.json](./370708-brokenlore-dont-lie.json) |
 | BrokenLore: Don't Play | 399376 | [399376-brokenlore-dont-play.json](./399376-brokenlore-dont-play.json) |
+| BrokenLore: Follow | 294343 | [294343-brokenlore-follow.json](./294343-brokenlore-follow.json) |
 | BrokenLore: Low | 304308 | [304308-brokenlore-low.json](./304308-brokenlore-low.json) |
 | Brokensides | 419749 | [419749-brokensides.json](./419749-brokensides.json) |
 | Brolections 2022 | 193078 | [193078-brolections-2022.json](./193078-brolections-2022.json) |
