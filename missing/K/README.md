@@ -2020,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Khaba | 28581 | [28581-khaba.json](./28581-khaba.json) |
 | Khalco Farm | 414505 | [414505-khalco-farm.json](./414505-khalco-farm.json) |
 | Khaldun | 184866 | [184866-khaldun.json](./184866-khaldun.json) |
+| Khaligrad | 258271 | [258271-khaligrad.json](./258271-khaligrad.json) |
 | Khamrai | 91879 | [91879-khamrai.json](./91879-khamrai.json) |
 | Khamsin | 185354 | [185354-khamsin.json](./185354-khamsin.json) |
 | Khan Academy Kids: Learning! | 288006 | [288006-khan-academy-kids-learning.json](./288006-khan-academy-kids-learning.json) |
@@ -2781,7 +2782,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4193,6 +4193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kizuna Kirameku Koi Iroha | 77659 | [77659-kizuna-kirameku-koi-iroha.json](./77659-kizuna-kirameku-koi-iroha.json) |
 | Kizunare Fable | 336865 | [336865-kizunare-fable.json](./336865-kizunare-fable.json) |
 | Kizuyami | 267009 | [267009-kizuyami.json](./267009-kizuyami.json) |
+| KKCKC | 258243 | [258243-kkckc.json](./258243-kkckc.json) |
 | KKHTA: Security Watch | 261927 | [261927-kkhta-security-watch.json](./261927-kkhta-security-watch.json) |
 | KKHTA: Security Watch - Part 3 | 287609 | [287609-kkhta-security-watch-part-3.json](./287609-kkhta-security-watch-part-3.json) |
 | KKHTA: Security Watch - The Second Part | 285151 | [285151-kkhta-security-watch-the-second-part.json](./285151-kkhta-security-watch-the-second-part.json) |
