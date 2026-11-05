@@ -1856,6 +1856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Shop | 396682 | [396682-santas-shop.json](./396682-santas-shop.json) |
 | Santa's Silent Night | 183912 | [183912-santas-silent-night.json](./183912-santas-silent-night.json) |
 | Santa's Slippery Slope Ski Stunts | 370957 | [370957-santas-slippery-slope-ski-stunts.json](./370957-santas-slippery-slope-ski-stunts.json) |
+| Santa's Speedy Quest | 286863 | [286863-santas-speedy-quest.json](./286863-santas-speedy-quest.json) |
 | Santa's Spot It | 317227 | [317227-santas-spot-it.json](./317227-santas-spot-it.json) |
 | Santa's Spot It + Exit Station 7 + Find Room 96 + HighScore Anomaly Shop +HighScore Anomaly Underground | 319775 | [319775-santas-spot-it-exit-station-7-find-room-96-highscore-anomaly-shop-highscore-anomaly-underground.json](./319775-santas-spot-it-exit-station-7-find-room-96-highscore-anomaly-shop-highscore-anomaly-underground.json) |
 | Santa's Story of Christmas | 112629 | [112629-santas-story-of-christmas.json](./112629-santas-story-of-christmas.json) |
@@ -3074,6 +3075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scientist and Alchemist | 413140 | [413140-scientist-and-alchemist.json](./413140-scientist-and-alchemist.json) |
 | Scientist Hunt | 248299 | [248299-scientist-hunt.json](./248299-scientist-hunt.json) |
 | Scientist Slaughterhouse | 221665 | [221665-scientist-slaughterhouse.json](./221665-scientist-slaughterhouse.json) |
+| SciFi Racer Simulator | 286885 | [286885-scifi-racer-simulator.json](./286885-scifi-racer-simulator.json) |
 | Scifi Racing Team | 332864 | [332864-scifi-racing-team.json](./332864-scifi-racing-team.json) |
 | Scifi Zombie | 316151 | [316151-scifi-zombie.json](./316151-scifi-zombie.json) |
 | Scikor Final Scale | 121743 | [121743-scikor-final-scale.json](./121743-scikor-final-scale.json) |
@@ -4511,6 +4513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Trouble | 166493 | [166493-secret-trouble.json](./166493-secret-trouble.json) |
 | Secret Weapons of the Luftwaffe | 204 | [204-secret-weapons-of-the-luftwaffe.json](./204-secret-weapons-of-the-luftwaffe.json) |
 | Secret Weapons Over Normandy | 203 | [203-secret-weapons-over-normandy.json](./203-secret-weapons-over-normandy.json) |
+| Secret with Sophia | 286874 | [286874-secret-with-sophia.json](./286874-secret-with-sophia.json) |
 | Secret Wives' Club | 80592 | [80592-secret-wives-club.json](./80592-secret-wives-club.json) |
 | Secret Word Gardens | 416175 | [416175-secret-word-gardens.json](./416175-secret-word-gardens.json) |
 | Secret World Legends | 28008 | [28008-secret-world-legends.json](./28008-secret-world-legends.json) |
@@ -10142,6 +10145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Harbor | 236748 | [236748-silent-harbor.json](./236748-silent-harbor.json) |
 | Silent Harmony | 394479 | [394479-silent-harmony.json](./394479-silent-harmony.json) |
 | Silent Hill | 349441 | [349441-silent-hill.json](./349441-silent-hill.json) |
+| Silent Hill 2: 20th Anniversary Demake | 286880 | [286880-silent-hill-2-20th-anniversary-demake.json](./286880-silent-hill-2-20th-anniversary-demake.json) |
 | Silent Hill 2: Born From A Wish Demake | 342983 | [342983-silent-hill-2-born-from-a-wish-demake.json](./342983-silent-hill-2-born-from-a-wish-demake.json) |
 | Silent Hill 2: Deluxe Edition | 303813 | [303813-silent-hill-2-deluxe-edition.json](./303813-silent-hill-2-deluxe-edition.json) |
 | Silent Hill 2: Enhanced Edition | 222334 | [222334-silent-hill-2-enhanced-edition.json](./222334-silent-hill-2-enhanced-edition.json) |
@@ -13876,6 +13880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smalles | 163021 | [163021-smalles.json](./163021-smalles.json) |
 | Smalls Island Woes | 177341 | [177341-smalls-island-woes.json](./177341-smalls-island-woes.json) |
 | SmallWorlds | 189287 | [189287-smallworlds.json](./189287-smallworlds.json) |
+| Smapic | 286915 | [286915-smapic.json](./286915-smapic.json) |
 | Smart As... | 92456 | [92456-smart-as.json](./92456-smart-as.json) |
 | Smart Baby ABC Games: Toddler Kids Learning Apps | 87032 | [87032-smart-baby-abc-games-toddler-kids-learning-apps.json](./87032-smart-baby-abc-games-toddler-kids-learning-apps.json) |
 | Smart Baby Rattle | 89123 | [89123-smart-baby-rattle.json](./89123-smart-baby-rattle.json) |
@@ -19131,6 +19136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21962,6 +21968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob's Atlantis Squarepantis | 43312 | [43312-spongebobs-atlantis-squarepantis.json](./43312-spongebobs-atlantis-squarepantis.json) |
 | SpongeBob's Atlantis Squarepantis | 43647 | [43647-spongebobs-atlantis-squarepantis.json](./43647-spongebobs-atlantis-squarepantis.json) |
 | SpongeBob's Atlantis SquarePantis SquareOff | 286583 | [286583-spongebobs-atlantis-squarepantis-squareoff.json](./286583-spongebobs-atlantis-squarepantis-squareoff.json) |
+| SpongeBob's Big Adventures | 286879 | [286879-spongebobs-big-adventures.json](./286879-spongebobs-big-adventures.json) |
 | SpongeBob's Game Frenzy | 88949 | [88949-spongebobs-game-frenzy.json](./88949-spongebobs-game-frenzy.json) |
 | SpongeBob’s Idle Adventures | 266907 | [266907-spongebob-s-idle-adventures.json](./266907-spongebob-s-idle-adventures.json) |
 | SpongeBob's Pizza Toss | 326710 | [326710-spongebobs-pizza-toss.json](./326710-spongebobs-pizza-toss.json) |
@@ -26952,6 +26959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranger Things: Will's Side Quest | 120708 | [120708-stranger-things-wills-side-quest.json](./120708-stranger-things-wills-side-quest.json) |
 | Stranger Watch | 327551 | [327551-stranger-watch.json](./327551-stranger-watch.json) |
 | Stranger's Mark | 378140 | [378140-strangers-mark.json](./378140-strangers-mark.json) |
+| Strangers | 286803 | [286803-strangers.json](./286803-strangers.json) |
 | Strangers at Night | 178511 | [178511-strangers-at-night.json](./178511-strangers-at-night.json) |
 | Strangers Awaken | 262377 | [262377-strangers-awaken.json](./262377-strangers-awaken.json) |
 | Strangers in a Strange Land | 44202 | [44202-strangers-in-a-strange-land.json](./44202-strangers-in-a-strange-land.json) |
@@ -27566,6 +27574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Rod | 19229 | [19229-street-rod.json](./19229-street-rod.json) |
 | Street Rod 2: The Next Generation | 38851 | [38851-street-rod-2-the-next-generation.json](./38851-street-rod-2-the-next-generation.json) |
 | Street Scooters | 279217 | [279217-street-scooters.json](./279217-street-scooters.json) |
+| Street Sesh | 286892 | [286892-street-sesh.json](./286892-street-sesh.json) |
 | Street Shuffle | 134659 | [134659-street-shuffle.json](./134659-street-shuffle.json) |
 | Street Shuffle | 212160 | [212160-street-shuffle.json](./212160-street-shuffle.json) |
 | Street Sk8er | 22839 | [22839-street-sk8er.json](./22839-street-sk8er.json) |
@@ -29935,6 +29944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Can Cannon | 149186 | [149186-super-can-cannon.json](./149186-super-can-cannon.json) |
 | Super Candle World | 391010 | [391010-super-candle-world.json](./391010-super-candle-world.json) |
 | Super Candy Ball: Color Clash | 235253 | [235253-super-candy-ball-color-clash.json](./235253-super-candy-ball-color-clash.json) |
+| Super Cannibal Abduction | 286890 | [286890-super-cannibal-abduction.json](./286890-super-cannibal-abduction.json) |
 | Super Capsule Boy | 334508 | [334508-super-capsule-boy.json](./334508-super-capsule-boy.json) |
 | Super Captain 3D | 111485 | [111485-super-captain-3d.json](./111485-super-captain-3d.json) |
 | Super Captain Falcon 64 | 165286 | [165286-super-captain-falcon-64.json](./165286-super-captain-falcon-64.json) |
@@ -30689,8 +30699,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kickers League: Vikings and Valkyries! | 168519 | [168519-super-kickers-league-vikings-and-valkyries.json](./168519-super-kickers-league-vikings-and-valkyries.json) |
 | Super Kid | 98431 | [98431-super-kid.json](./98431-super-kid.json) |
 | Super Kids Racing | 88168 | [88168-super-kids-racing.json](./88168-super-kids-racing.json) |
+| Super Kids Racing: City Edition | 286860 | [286860-super-kids-racing-city-edition.json](./286860-super-kids-racing-city-edition.json) |
 | Super Kids Racing: Jungle Edition | 242412 | [242412-super-kids-racing-jungle-edition.json](./242412-super-kids-racing-jungle-edition.json) |
+| Super Kids Racing: Lava Edition | 286859 | [286859-super-kids-racing-lava-edition.json](./286859-super-kids-racing-lava-edition.json) |
 | Super Kids Racing: Snow Edition | 249491 | [249491-super-kids-racing-snow-edition.json](./249491-super-kids-racing-snow-edition.json) |
+| Super Kids Racing: Theme Park Edition | 286861 | [286861-super-kids-racing-theme-park-edition.json](./286861-super-kids-racing-theme-park-edition.json) |
 | Super Kill-Boi 9000 | 215705 | [215705-super-kill-boi-9000.json](./215705-super-kill-boi-9000.json) |
 | Super Killer Hornet: Resurrection | 10932 | [10932-super-killer-hornet-resurrection.json](./10932-super-killer-hornet-resurrection.json) |
 | Super Killer Hornets: Resurrection | 54413 | [54413-super-killer-hornets-resurrection.json](./54413-super-killer-hornets-resurrection.json) |
