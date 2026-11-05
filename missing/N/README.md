@@ -1209,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazotoki Maze kara no Dasshutsu | 222223 | [222223-nazotoki-maze-kara-no-dasshutsu.json](./222223-nazotoki-maze-kara-no-dasshutsu.json) |
 | Nazotoki no Jikan: Thrill Suspense na Nazotoki Dasshutsu Mystery Suiri Game | 222388 | [222388-nazotoki-no-jikan-thrill-suspense-na-nazotoki-dasshutsu-mystery-suiri-game.json](./222388-nazotoki-no-jikan-thrill-suspense-na-nazotoki-dasshutsu-mystery-suiri-game.json) |
 | Nazotoki Noutore: BrainQuiz | 241190 | [241190-nazotoki-noutore-brainquiz.json](./241190-nazotoki-noutore-brainquiz.json) |
+| Nazotoki Shounen Tantei-dan | 263847 | [263847-nazotoki-shounen-tantei-dan.json](./263847-nazotoki-shounen-tantei-dan.json) |
 | Nazotoki Suiri! Yuuzai? Muzai? | 251606 | [251606-nazotoki-suiri-yuuzai-muzai.json](./251606-nazotoki-suiri-yuuzai-muzai.json) |
 | Nazralath: The Fallen World | 211986 | [211986-nazralath-the-fallen-world.json](./211986-nazralath-the-fallen-world.json) |
 | Nazurin no Sagashi Mono? | 301629 | [301629-nazurin-no-sagashi-mono.json](./301629-nazurin-no-sagashi-mono.json) |
@@ -1552,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebulon | 91658 | [91658-nebulon.json](./91658-nebulon.json) |
 | Nebulous | 19039 | [19039-nebulous.json](./19039-nebulous.json) |
 | Nebulous: Fleet Command | 185962 | [185962-nebulous-fleet-command.json](./185962-nebulous-fleet-command.json) |
+| Nebulous.io | 263858 | [263858-nebulous-io.json](./263858-nebulous-io.json) |
 | Nebulus | 7817 | [7817-nebulus.json](./7817-nebulus.json) |
 | Nebulus 2: Pogo a gogo | 12697 | [12697-nebulus-2-pogo-a-gogo.json](./12697-nebulus-2-pogo-a-gogo.json) |
 | Necessary Bimbos | 185699 | [185699-necessary-bimbos.json](./185699-necessary-bimbos.json) |
