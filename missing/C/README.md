@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabal | 6317 | [6317-cabal.json](./6317-cabal.json) |
 | Cabal 2 | 12132 | [12132-cabal-2.json](./12132-cabal-2.json) |
 | Cabal M: Heroes of Nevareth | 174724 | [174724-cabal-m-heroes-of-nevareth.json](./174724-cabal-m-heroes-of-nevareth.json) |
+| Cabal: Return of Action | 264968 | [264968-cabal-return-of-action.json](./264968-cabal-return-of-action.json) |
 | Caball | 267282 | [267282-caball.json](./267282-caball.json) |
 | Caball: Sunset Hour | 332366 | [332366-caball-sunset-hour.json](./332366-caball-sunset-hour.json) |
 | Cabals: Card Blitz | 30330 | [30330-cabals-card-blitz.json](./30330-cabals-card-blitz.json) |
@@ -2811,6 +2812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnival of the Animals | 76910 | [76910-carnival-of-the-animals.json](./76910-carnival-of-the-animals.json) |
 | Carnival Rhythm | 212575 | [212575-carnival-rhythm.json](./212575-carnival-rhythm.json) |
 | Carnival Roulette | 384244 | [384244-carnival-roulette.json](./384244-carnival-roulette.json) |
+| Carnival Survivors The Parade | 265377 | [265377-carnival-survivors-the-parade.json](./265377-carnival-survivors-the-parade.json) |
 | Carnival VR Orientation | 150395 | [150395-carnival-vr-orientation.json](./150395-carnival-vr-orientation.json) |
 | Carnivalé: Cenzo's Adventure | 238880 | [238880-carnivale-cenzos-adventure.json](./238880-carnivale-cenzos-adventure.json) |
 | Carnivore! | 413214 | [413214-carnivore.json](./413214-carnivore.json) |
@@ -10535,6 +10537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club | 347555 | [347555-club.json](./347555-club.json) |
 | Club 3DO: Station Invasion | 38830 | [38830-club-3do-station-invasion.json](./38830-club-3do-station-invasion.json) |
 | Club Backgammon | 270745 | [270745-club-backgammon.json](./270745-club-backgammon.json) |
+| Club Boss | 264962 | [264962-club-boss.json](./264962-club-boss.json) |
 | Club Caribe | 92227 | [92227-club-caribe.json](./92227-club-caribe.json) |
 | Club de Detectives: Caso 01 | 180629 | [180629-club-de-detectives-caso-01.json](./180629-club-de-detectives-caso-01.json) |
 | Club Defenders | 361869 | [361869-club-defenders.json](./361869-club-defenders.json) |
@@ -10590,6 +10593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluck Avengers | 299407 | [299407-cluck-avengers.json](./299407-cluck-avengers.json) |
 | Cluck Cluck'em | 183456 | [183456-cluck-cluckem.json](./183456-cluck-cluckem.json) |
 | Cluck Frenzy | 278915 | [278915-cluck-frenzy.json](./278915-cluck-frenzy.json) |
+| Cluck In Traffic: Cars Royale! | 264966 | [264966-cluck-in-traffic-cars-royale.json](./264966-cluck-in-traffic-cars-royale.json) |
 | Cluck to the Top! | 373594 | [373594-cluck-to-the-top.json](./373594-cluck-to-the-top.json) |
 | Cluck Yegger in Escape from the Planet of the Poultroid | 59607 | [59607-cluck-yegger-in-escape-from-the-planet-of-the-poultroid.json](./59607-cluck-yegger-in-escape-from-the-planet-of-the-poultroid.json) |
 | Cluck-a-Thon | 258116 | [258116-cluck-a-thon.json](./258116-cluck-a-thon.json) |
@@ -14935,6 +14939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmopolitan | 269749 | [269749-cosmopolitan.json](./269749-cosmopolitan.json) |
 | Cosmopoly | 207653 | [207653-cosmopoly.json](./207653-cosmopoly.json) |
 | Cosmorbit | 384537 | [384537-cosmorbit.json](./384537-cosmorbit.json) |
+| Cosmorists | 265386 | [265386-cosmorists.json](./265386-cosmorists.json) |
 | Cosmorons | 325211 | [325211-cosmorons.json](./325211-cosmorons.json) |
 | Cosmos | 127861 | [127861-cosmos.json](./127861-cosmos.json) |
 | Cosmos | 281862 | [281862-cosmos.json](./281862-cosmos.json) |
@@ -15485,6 +15490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Farming 3 in 1 Collection | 328546 | [328546-cozy-farming-3-in-1-collection.json](./328546-cozy-farming-3-in-1-collection.json) |
 | Cozy Fast Hanoi | 388346 | [388346-cozy-fast-hanoi.json](./388346-cozy-fast-hanoi.json) |
 | Cozy Fire | 51122 | [51122-cozy-fire.json](./51122-cozy-fire.json) |
+| Cozy Fishing | 265385 | [265385-cozy-fishing.json](./265385-cozy-fishing.json) |
 | Cozy Fishing Life | 416673 | [416673-cozy-fishing-life.json](./416673-cozy-fishing-life.json) |
 | Cozy Forest | 369084 | [369084-cozy-forest.json](./369084-cozy-forest.json) |
 | Cozy Forge | 345255 | [345255-cozy-forge.json](./345255-cozy-forge.json) |
@@ -17066,6 +17072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Company | 141438 | [141438-crimson-company.json](./141438-crimson-company.json) |
 | Crimson Connect Origin | 238521 | [238521-crimson-connect-origin.json](./238521-crimson-connect-origin.json) |
 | Crimson Crime: Sniper Mission | 220163 | [220163-crimson-crime-sniper-mission.json](./220163-crimson-crime-sniper-mission.json) |
+| Crimson Crisis | 265384 | [265384-crimson-crisis.json](./265384-crimson-crisis.json) |
 | Crimson Defense | 95226 | [95226-crimson-defense.json](./95226-crimson-defense.json) |
 | Crimson Desert: Charting the Unknown | 416102 | [416102-crimson-desert-charting-the-unknown.json](./416102-crimson-desert-charting-the-unknown.json) |
 | Crimson Desert: Deluxe Edition | 396302 | [396302-crimson-desert-deluxe-edition.json](./396302-crimson-desert-deluxe-edition.json) |
@@ -17798,6 +17805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowncity | 284992 | [284992-crowncity.json](./284992-crowncity.json) |
 | Crowned | 179390 | [179390-crowned.json](./179390-crowned.json) |
 | Crowned | 259055 | [259055-crowned.json](./259055-crowned.json) |
+| Crowned Control | 265383 | [265383-crowned-control.json](./265383-crowned-control.json) |
 | Crowned in Steel | 278482 | [278482-crowned-in-steel.json](./278482-crowned-in-steel.json) |
 | CrownFall | 82506 | [82506-crownfall.json](./82506-crownfall.json) |
 | Crownfall: Young Hero | 373649 | [373649-crownfall-young-hero.json](./373649-crownfall-young-hero.json) |
@@ -18279,6 +18287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Adventure | 58080 | [58080-crystal-adventure.json](./58080-crystal-adventure.json) |
 | Crystal Anomaly | 194379 | [194379-crystal-anomaly.json](./194379-crystal-anomaly.json) |
 | Crystal Ball | 93442 | [93442-crystal-ball.json](./93442-crystal-ball.json) |
+| Crystal Ball Critters | 265445 | [265445-crystal-ball-critters.json](./265445-crystal-ball-critters.json) |
 | Crystal Ball of Firmament | 335189 | [335189-crystal-ball-of-firmament.json](./335189-crystal-ball-of-firmament.json) |
 | Crystal Blast VR | 243581 | [243581-crystal-blast-vr.json](./243581-crystal-blast-vr.json) |
 | Crystal Breaker | 284978 | [284978-crystal-breaker.json](./284978-crystal-breaker.json) |
@@ -18555,6 +18564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ctrl.Alt.Deal | 291738 | [291738-ctrl-alt-deal.json](./291738-ctrl-alt-deal.json) |
 | Ctrl/Esc | 213293 | [213293-ctrl-esc.json](./213293-ctrl-esc.json) |
 | Ctrl+Alt+Defeat Zero Humanity | 405138 | [405138-ctrl-alt-defeat-zero-humanity.json](./405138-ctrl-alt-defeat-zero-humanity.json) |
+| Ctrl+Alt+Destroy | 265382 | [265382-ctrl-alt-destroy.json](./265382-ctrl-alt-destroy.json) |
 | CtrlC | 239735 | [239735-ctrlc.json](./239735-ctrlc.json) |
 | Ctrlsink | 390252 | [390252-ctrlsink.json](./390252-ctrlsink.json) |
 | CTU: Counter Terrorism Unit | 34586 | [34586-ctu-counter-terrorism-unit.json](./34586-ctu-counter-terrorism-unit.json) |
