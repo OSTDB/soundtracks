@@ -3278,6 +3278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empress of the Deep: The Darkest Secret | 17368 | [17368-empress-of-the-deep-the-darkest-secret.json](./17368-empress-of-the-deep-the-darkest-secret.json) |
 | Empress's Choice | 245047 | [245047-empresss-choice.json](./245047-empresss-choice.json) |
 | Empronix Game | 369027 | [369027-empronix-game.json](./369027-empronix-game.json) |
+| Emptiness | 286876 | [286876-emptiness.json](./286876-emptiness.json) |
 | Emptiness Sire | 332426 | [332426-emptiness-sire.json](./332426-emptiness-sire.json) |
 | Empty | 129390 | [129390-empty.json](./129390-empty.json) |
 | Empty | 229384 | [229384-empty.json](./229384-empty.json) |
@@ -5008,6 +5009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Crypt | 388302 | [388302-escape-from-crypt.json](./388302-escape-from-crypt.json) |
 | Escape from Cyber City | 45931 | [45931-escape-from-cyber-city.json](./45931-escape-from-cyber-city.json) |
 | Escape From Darkmoor Manor | 36105 | [36105-escape-from-darkmoor-manor.json](./36105-escape-from-darkmoor-manor.json) |
+| Escape from Darkness | 286914 | [286914-escape-from-darkness.json](./286914-escape-from-darkness.json) |
 | Escape from Death | 270110 | [270110-escape-from-death.json](./270110-escape-from-death.json) |
 | Escape from Death Moon | 116407 | [116407-escape-from-death-moon.json](./116407-escape-from-death-moon.json) |
 | Escape from Deathmark Dungeon | 195695 | [195695-escape-from-deathmark-dungeon.json](./195695-escape-from-deathmark-dungeon.json) |
