@@ -1025,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pan·Gaia | 244220 | [244220-pan-gaia.json](./244220-pan-gaia.json) |
 | Pan'orama | 211935 | [211935-panorama.json](./211935-panorama.json) |
 | Pan's Permia | 346203 | [346203-pans-permia.json](./346203-pans-permia.json) |
+| Pan's Survivor Chess | 261597 | [261597-pans-survivor-chess.json](./261597-pans-survivor-chess.json) |
 | Pana der Hejhog | 270217 | [270217-pana-der-hejhog.json](./270217-pana-der-hejhog.json) |
 | Panacea: Last Will | 81910 | [81910-panacea-last-will.json](./81910-panacea-last-will.json) |
 | Panacea: Rebirth | 219097 | [219097-panacea-rebirth.json](./219097-panacea-rebirth.json) |
@@ -9976,6 +9977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plunderland | 118874 | [118874-plunderland.json](./118874-plunderland.json) |
 | PlunderPiece | 292404 | [292404-plunderpiece.json](./292404-plunderpiece.json) |
 | Plunge | 78780 | [78780-plunge.json](./78780-plunge.json) |
+| Plunged | 261612 | [261612-plunged.json](./261612-plunged.json) |
 | Plungeez | 309499 | [309499-plungeez.json](./309499-plungeez.json) |
 | Plunger Boyz | 190148 | [190148-plunger-boyz.json](./190148-plunger-boyz.json) |
 | Plunger Knight - Washers of Truth | 116924 | [116924-plunger-knight-washers-of-truth.json](./116924-plunger-knight-washers-of-truth.json) |
