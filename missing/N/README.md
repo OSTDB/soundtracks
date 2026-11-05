@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanny - Best Babysitter Game | 105855 | [105855-nanny-best-babysitter-game.json](./105855-nanny-best-babysitter-game.json) |
 | Nanny 911 | 206783 | [206783-nanny-911.json](./206783-nanny-911.json) |
 | Nanny Mania 2 | 202184 | [202184-nanny-mania-2.json](./202184-nanny-mania-2.json) |
+| Nanny's Journey | 288028 | [288028-nannys-journey.json](./288028-nannys-journey.json) |
 | Nannys Nightmare | 53397 | [53397-nannys-nightmare.json](./53397-nannys-nightmare.json) |
 | Nano Assault | 21075 | [21075-nano-assault.json](./21075-nano-assault.json) |
 | Nano Assault EX | 47647 | [47647-nano-assault-ex.json](./47647-nano-assault-ex.json) |
@@ -1801,6 +1802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Undercover | 248137 | [248137-need-for-speed-undercover.json](./248137-need-for-speed-undercover.json) |
 | Need for Speed: Undercover | 248138 | [248138-need-for-speed-undercover.json](./248138-need-for-speed-undercover.json) |
 | Need for Speed: Undercover | 248140 | [248140-need-for-speed-undercover.json](./248140-need-for-speed-undercover.json) |
+| Need for Speed: Undercover | 288014 | [288014-need-for-speed-undercover.json](./288014-need-for-speed-undercover.json) |
 | Need for Speed: Underground 2 | 229854 | [229854-need-for-speed-underground-2.json](./229854-need-for-speed-underground-2.json) |
 | Need for Speed: Underground 2 | 242997 | [242997-need-for-speed-underground-2.json](./242997-need-for-speed-underground-2.json) |
 | Need for Speed: Underground Rivals | 22509 | [22509-need-for-speed-underground-rivals.json](./22509-need-for-speed-underground-rivals.json) |
