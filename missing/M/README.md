@@ -16826,6 +16826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mornings with Java | 229770 | [229770-mornings-with-java.json](./229770-mornings-with-java.json) |
 | Morningstar | 254446 | [254446-morningstar.json](./254446-morningstar.json) |
 | Morningstar | 415929 | [415929-morningstar.json](./415929-morningstar.json) |
+| Morningstar: Book of the Fallen | 248985 | [248985-morningstar-book-of-the-fallen.json](./248985-morningstar-book-of-the-fallen.json) |
 | Morningstar: Descent to Deadrock | 10558 | [10558-morningstar-descent-to-deadrock.json](./10558-morningstar-descent-to-deadrock.json) |
 | Morningtide Motel | 318970 | [318970-morningtide-motel.json](./318970-morningtide-motel.json) |
 | Moro's Poodle | 310981 | [310981-moros-poodle.json](./310981-moros-poodle.json) |
@@ -17291,6 +17292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moss Piglets | 295102 | [295102-moss-piglets.json](./295102-moss-piglets.json) |
 | Moss: Becoming Human | 337448 | [337448-moss-becoming-human.json](./337448-moss-becoming-human.json) |
 | Moss: The Twilight Garden | 162204 | [162204-moss-the-twilight-garden.json](./162204-moss-the-twilight-garden.json) |
+| Mossasis | 248978 | [248978-mossasis.json](./248978-mossasis.json) |
 | Mossbound | 385219 | [385219-mossbound.json](./385219-mossbound.json) |
 | Mossfield Origins | 204536 | [204536-mossfield-origins.json](./204536-mossfield-origins.json) |
 | Mossland | 131753 | [131753-mossland.json](./131753-mossland.json) |
