@@ -3013,6 +3013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6600: The Park | 410914 | [410914-6600-the-park.json](./410914-6600-the-park.json) |
 | 666 | 266107 | [266107-666.json](./266107-666.json) |
 | 666 Masks | 172927 | [172927-666-masks.json](./172927-666-masks.json) |
+| 666 Second Rule | 261581 | [261581-666-second-rule.json](./261581-666-second-rule.json) |
 | 666: El día del portal | 303116 | [303116-666-el-dia-del-portal.json](./303116-666-el-dia-del-portal.json) |
 | 67 | 372820 | [372820-67.json](./372820-67.json) |
 | 67 | 388231 | [388231-67.json](./388231-67.json) |
