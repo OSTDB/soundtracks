@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Homie Adventure | 123190 | [123190-a-homie-adventure.json](./123190-a-homie-adventure.json) |
 | A Horrible Evil Spider Head Love Story | 179040 | [179040-a-horrible-evil-spider-head-love-story.json](./179040-a-horrible-evil-spider-head-love-story.json) |
 | A Horror Game for Cowards | 312677 | [312677-a-horror-game-for-cowards.json](./312677-a-horror-game-for-cowards.json) |
+| A Horse Named Quake | 271539 | [271539-a-horse-named-quake.json](./271539-a-horse-named-quake.json) |
 | A Host of Gentle Terrors | 136437 | [136437-a-host-of-gentle-terrors.json](./136437-a-host-of-gentle-terrors.json) |
 | A House 4 Alesa | 305785 | [305785-a-house-4-alesa.json](./305785-a-house-4-alesa.json) |
 | A House for Alesa | 288157 | [288157-a-house-for-alesa.json](./288157-a-house-for-alesa.json) |
@@ -16515,6 +16516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atrium Malum | 212173 | [212173-atrium-malum.json](./212173-atrium-malum.json) |
 | Atrium Mortis | 372500 | [372500-atrium-mortis.json](./372500-atrium-mortis.json) |
 | Atrocity | 113011 | [113011-atrocity.json](./113011-atrocity.json) |
+| Atrocity Arise | 271535 | [271535-atrocity-arise.json](./271535-atrocity-arise.json) |
 | Atrocity: Field of Hands | 75137 | [75137-atrocity-field-of-hands.json](./75137-atrocity-field-of-hands.json) |
 | Atrofil: The Key | 127243 | [127243-atrofil-the-key.json](./127243-atrofil-the-key.json) |
 | Atron 5000 | 79102 | [79102-atron-5000.json](./79102-atron-5000.json) |
@@ -17834,6 +17836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayakashi Koi Gikyoku -Forbidden Romance with Mysterious Spirit- | 106974 | [106974-ayakashi-koi-gikyoku-forbidden-romance-with-mysterious-spirit.json](./106974-ayakashi-koi-gikyoku-forbidden-romance-with-mysterious-spirit.json) |
 | Ayakashi Ninden Kunoichiban Plus | 45426 | [45426-ayakashi-ninden-kunoichiban-plus.json](./45426-ayakashi-ninden-kunoichiban-plus.json) |
 | Ayakashi no Shiro | 49150 | [49150-ayakashi-no-shiro.json](./49150-ayakashi-no-shiro.json) |
+| Ayakashi Princess: Prequel | 271545 | [271545-ayakashi-princess-prequel.json](./271545-ayakashi-princess-prequel.json) |
 | Ayakashi Rumble | 208034 | [208034-ayakashi-rumble.json](./208034-ayakashi-rumble.json) |
 | Ayakashi Yaji | 283806 | [283806-ayakashi-yaji.json](./283806-ayakashi-yaji.json) |
 | Ayakashi Yokocho no Natsuyasumi | 414273 | [414273-ayakashi-yokocho-no-natsuyasumi.json](./414273-ayakashi-yokocho-no-natsuyasumi.json) |
