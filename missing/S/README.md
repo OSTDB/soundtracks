@@ -10926,6 +10926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulacra 3: Deluxe Edition | 350907 | [350907-simulacra-3-deluxe-edition.json](./350907-simulacra-3-deluxe-edition.json) |
 | Simulacra: Pipe Dreams | 110900 | [110900-simulacra-pipe-dreams.json](./110900-simulacra-pipe-dreams.json) |
 | Simulacre | 418387 | [418387-simulacre.json](./418387-simulacre.json) |
+| Simulacro | 285795 | [285795-simulacro.json](./285795-simulacro.json) |
 | Simulacro | 344363 | [344363-simulacro.json](./344363-simulacro.json) |
 | Simulacrum | 201125 | [201125-simulacrum.json](./201125-simulacrum.json) |
 | Simulacrum | 305813 | [305813-simulacrum.json](./305813-simulacrum.json) |
@@ -11197,6 +11198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinister Squidward | 237869 | [237869-sinister-squidward.json](./237869-sinister-squidward.json) |
 | Sinister Turmoil: Sewers | 242010 | [242010-sinister-turmoil-sewers.json](./242010-sinister-turmoil-sewers.json) |
 | Sinister Zombies | 95604 | [95604-sinister-zombies.json](./95604-sinister-zombies.json) |
+| Sinistrium | 285810 | [285810-sinistrium.json](./285810-sinistrium.json) |
 | Sinistron | 44342 | [44342-sinistron.json](./44342-sinistron.json) |
 | Sinistrous | 153423 | [153423-sinistrous.json](./153423-sinistrous.json) |
 | Sinistry Silinium | 29283 | [29283-sinistry-silinium.json](./29283-sinistry-silinium.json) |
@@ -15928,6 +15930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Smash | 175674 | [175674-solar-smash.json](./175674-solar-smash.json) |
 | Solar Smash 2D | 208135 | [208135-solar-smash-2d.json](./208135-solar-smash-2d.json) |
 | Solar Storm | 23341 | [23341-solar-storm.json](./23341-solar-storm.json) |
+| Solar Storm | 285725 | [285725-solar-storm.json](./285725-solar-storm.json) |
 | Solar Striker | 48940 | [48940-solar-striker.json](./48940-solar-striker.json) |
 | Solar Struggle | 17984 | [17984-solar-struggle.json](./17984-solar-struggle.json) |
 | Solar Survivors | 238766 | [238766-solar-survivors.json](./238766-solar-survivors.json) |
@@ -23331,7 +23334,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Conflict: Cor Vulnus | 296633 | [296633-star-conflict-cor-vulnus.json](./296633-star-conflict-cor-vulnus.json) |
 | Star Conflict: Cor Vulnus - Deluxe Edition | 296634 | [296634-star-conflict-cor-vulnus-deluxe-edition.json](./296634-star-conflict-cor-vulnus-deluxe-edition.json) |
 | Star Conflict: Custodian | 354419 | [354419-star-conflict-custodian.json](./354419-star-conflict-custodian.json) |
+| Star Conflict: Custodian (Deluxe Edition) | 285785 | [285785-star-conflict-custodian-deluxe-edition.json](./285785-star-conflict-custodian-deluxe-edition.json) |
 | Star Conflict: Dyrnwyn | 357403 | [357403-star-conflict-dyrnwyn.json](./357403-star-conflict-dyrnwyn.json) |
+| Star Conflict: Dyrnwyn (Deluxe Edition) | 285786 | [285786-star-conflict-dyrnwyn-deluxe-edition.json](./285786-star-conflict-dyrnwyn-deluxe-edition.json) |
 | Star Conflict: Edges of Risk - Stage one: Deluxe edition | 253434 | [253434-star-conflict-edges-of-risk-stage-one-deluxe-edition.json](./253434-star-conflict-edges-of-risk-stage-one-deluxe-edition.json) |
 | Star Conflict: Edges of risk - Stage two | 257238 | [257238-star-conflict-edges-of-risk-stage-two.json](./257238-star-conflict-edges-of-risk-stage-two.json) |
 | Star Conflict: Edges of risk - Stage two: Deluxe edition | 257237 | [257237-star-conflict-edges-of-risk-stage-two-deluxe-edition.json](./257237-star-conflict-edges-of-risk-stage-two-deluxe-edition.json) |
@@ -23369,6 +23374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Conflict: Shrike. Weapon of Victory | 355163 | [355163-star-conflict-shrike-weapon-of-victory.json](./355163-star-conflict-shrike-weapon-of-victory.json) |
 | Star Conflict: Starter Pack. Pterosaur | 354424 | [354424-star-conflict-starter-pack-pterosaur.json](./354424-star-conflict-starter-pack-pterosaur.json) |
 | Star Conflict: Tornado | 354422 | [354422-star-conflict-tornado.json](./354422-star-conflict-tornado.json) |
+| Star Conflict: Tornado (Deluxe Edition) | 285787 | [285787-star-conflict-tornado-deluxe-edition.json](./285787-star-conflict-tornado-deluxe-edition.json) |
 | Star Conflict: Yith’Mor - Starter Pack | 307187 | [307187-star-conflict-yith-mor-starter-pack.json](./307187-star-conflict-yith-mor-starter-pack.json) |
 | Star Conflict: Yith’Mor - VIP Pack | 307188 | [307188-star-conflict-yith-mor-vip-pack.json](./307188-star-conflict-yith-mor-vip-pack.json) |
 | Star Conflict: Yith'Mor - Weapons of Victory | 310393 | [310393-star-conflict-yithmor-weapons-of-victory.json](./310393-star-conflict-yithmor-weapons-of-victory.json) |
@@ -23568,6 +23574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Mercenary | 236417 | [236417-star-mercenary.json](./236417-star-mercenary.json) |
 | Star Merchant | 29448 | [29448-star-merchant.json](./29448-star-merchant.json) |
 | Star Mine | 142424 | [142424-star-mine.json](./142424-star-mine.json) |
+| Star Mining Co. | 285823 | [285823-star-mining-co.json](./285823-star-mining-co.json) |
 | Star Mission: Remote Sectors | 336570 | [336570-star-mission-remote-sectors.json](./336570-star-mission-remote-sectors.json) |
 | Star Mobile | 41995 | [41995-star-mobile.json](./41995-star-mobile.json) |
 | Star Monja | 419789 | [419789-star-monja.json](./419789-star-monja.json) |
@@ -33104,6 +33111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Ruler 2020: Global Crisis | 26931 | [26931-supreme-ruler-2020-global-crisis.json](./26931-supreme-ruler-2020-global-crisis.json) |
 | Supreme Ruler 2020: Gold Edition | 51934 | [51934-supreme-ruler-2020-gold-edition.json](./51934-supreme-ruler-2020-gold-edition.json) |
 | Supreme Ruler 2030 | 219574 | [219574-supreme-ruler-2030.json](./219574-supreme-ruler-2030.json) |
+| Supreme Ruler 2030: Expansion Pass | 285783 | [285783-supreme-ruler-2030-expansion-pass.json](./285783-supreme-ruler-2030-expansion-pass.json) |
 | Supreme Ruler Global Outbreak | 296999 | [296999-supreme-ruler-global-outbreak.json](./296999-supreme-ruler-global-outbreak.json) |
 | Supreme Ruler Plus | 80641 | [80641-supreme-ruler-plus.json](./80641-supreme-ruler-plus.json) |
 | Supreme Ruler the Great War | 37390 | [37390-supreme-ruler-the-great-war.json](./37390-supreme-ruler-the-great-war.json) |
