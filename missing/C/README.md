@@ -12570,6 +12570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer: The First Decade | 18165 | [18165-command-and-conquer-the-first-decade.json](./18165-command-and-conquer-the-first-decade.json) |
 | Command & Conquer: The Ultimate Collection | 50885 | [50885-command-and-conquer-the-ultimate-collection.json](./50885-command-and-conquer-the-ultimate-collection.json) |
 | Command & Control 3 | 150976 | [150976-command-and-control-3.json](./150976-command-and-control-3.json) |
+| Command and Conquer Map Pack | 273143 | [273143-command-and-conquer-map-pack.json](./273143-command-and-conquer-map-pack.json) |
 | Command and Destroy | 47887 | [47887-command-and-destroy.json](./47887-command-and-destroy.json) |
 | Command Ant Conquer | 176357 | [176357-command-ant-conquer.json](./176357-command-ant-conquer.json) |
 | Command Bots | 179435 | [179435-command-bots.json](./179435-command-bots.json) |
@@ -12731,6 +12732,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Communion | 290724 | [290724-communion.json](./290724-communion.json) |
 | Communist Mutants from Space | 11154 | [11154-communist-mutants-from-space.json](./11154-communist-mutants-from-space.json) |
 | Community Ball | 289541 | [289541-community-ball.json](./289541-community-ball.json) |
+| Community Build Project 2 | 273145 | [273145-community-build-project-2.json](./273145-community-build-project-2.json) |
+| Community Build Project 3 | 273146 | [273146-community-build-project-3.json](./273146-community-build-project-3.json) |
+| Community Build Project 4 | 273147 | [273147-community-build-project-4.json](./273147-community-build-project-4.json) |
+| Community Build Project 5 | 273148 | [273148-community-build-project-5.json](./273148-community-build-project-5.json) |
+| Community Build Project 6 | 273149 | [273149-community-build-project-6.json](./273149-community-build-project-6.json) |
+| Community Build Project 7 | 273150 | [273150-community-build-project-7.json](./273150-community-build-project-7.json) |
+| Community Build Project 8: Metropolitan Starlight | 273151 | [273151-community-build-project-8-metropolitan-starlight.json](./273151-community-build-project-8-metropolitan-starlight.json) |
 | Community Build Project 9: Halloween-2020 | 308480 | [308480-community-build-project-9-halloween-2020.json](./308480-community-build-project-9-halloween-2020.json) |
 | Community Button | 402383 | [402383-community-button.json](./402383-community-button.json) |
 | Community Chest | 319531 | [319531-community-chest.json](./319531-community-chest.json) |
@@ -12835,6 +12843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Complete Onside Soccer | 93021 | [93021-complete-onside-soccer.json](./93021-complete-onside-soccer.json) |
 | Completely Stretchy | 158680 | [158680-completely-stretchy.json](./158680-completely-stretchy.json) |
 | Completion LawnCare | 216454 | [216454-completion-lawncare.json](./216454-completion-lawncare.json) |
+| Complex | 273152 | [273152-complex.json](./273152-complex.json) |
 | Complex | 81892 | [81892-complex.json](./81892-complex.json) |
 | Complex Complex | 273924 | [273924-complex-complex.json](./273924-complex-complex.json) |
 | Complex Doom: Clusterfuck | 200979 | [200979-complex-doom-clusterfuck.json](./200979-complex-doom-clusterfuck.json) |
@@ -15056,6 +15065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countdown 2: The Soul | 229148 | [229148-countdown-2-the-soul.json](./229148-countdown-2-the-soul.json) |
 | Countdown 3: The Mind | 229149 | [229149-countdown-3-the-mind.json](./229149-countdown-3-the-mind.json) |
 | Countdown Final Zone | 157934 | [157934-countdown-final-zone.json](./157934-countdown-final-zone.json) |
+| Countdown to Christmas | 273153 | [273153-countdown-to-christmas.json](./273153-countdown-to-christmas.json) |
 | Countdown To Death | 315707 | [315707-countdown-to-death.json](./315707-countdown-to-death.json) |
 | Countdown to Doom | 13706 | [13706-countdown-to-doom.json](./13706-countdown-to-doom.json) |
 | Countdown to Eclipse | 411413 | [411413-countdown-to-eclipse.json](./411413-countdown-to-eclipse.json) |
@@ -17795,6 +17805,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CRT7 | 210849 | [210849-crt7.json](./210849-crt7.json) |
 | CRTX: A Psychological Horror Puzzle | 358050 | [358050-crtx-a-psychological-horror-puzzle.json](./358050-crtx-a-psychological-horror-puzzle.json) |
 | Crucial 2: The Refresh Update | 290398 | [290398-crucial-2-the-refresh-update.json](./290398-crucial-2-the-refresh-update.json) |
+| Crucial Conflict 1: Suspicious Storage | 273154 | [273154-crucial-conflict-1-suspicious-storage.json](./273154-crucial-conflict-1-suspicious-storage.json) |
+| Crucial Conflict 2: Waterworld | 273155 | [273155-crucial-conflict-2-waterworld.json](./273155-crucial-conflict-2-waterworld.json) |
+| Crucial Conflict 3: Acupa Dylana | 273157 | [273157-crucial-conflict-3-acupa-dylana.json](./273157-crucial-conflict-3-acupa-dylana.json) |
 | Crucial Throw | 90302 | [90302-crucial-throw.json](./90302-crucial-throw.json) |
 | Crucible | 238683 | [238683-crucible.json](./238683-crucible.json) |
 | Crucible | 24653 | [24653-crucible.json](./24653-crucible.json) |
