@@ -3859,6 +3859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aero Dancing: Secret Mission Disk | 242383 | [242383-aero-dancing-secret-mission-disk.json](./242383-aero-dancing-secret-mission-disk.json) |
 | Aero Effect | 134378 | [134378-aero-effect.json](./134378-aero-effect.json) |
 | Aero Elite: Combat Academy | 19711 | [19711-aero-elite-combat-academy.json](./19711-aero-elite-combat-academy.json) |
+| Aero Engine | 277631 | [277631-aero-engine.json](./277631-aero-engine.json) |
 | Aero Fighters | 306980 | [306980-aero-fighters.json](./306980-aero-fighters.json) |
 | Aero Fighters | 3147 | [3147-aero-fighters.json](./3147-aero-fighters.json) |
 | Aero Fighters 3 | 55051 | [55051-aero-fighters-3.json](./55051-aero-fighters-3.json) |
@@ -7128,6 +7129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Mighty Tower | 259960 | [259960-all-mighty-tower.json](./259960-all-mighty-tower.json) |
 | All Monsters Attack! | 202403 | [202403-all-monsters-attack.json](./202403-all-monsters-attack.json) |
 | All Motors Racing Simulator | 395221 | [395221-all-motors-racing-simulator.json](./395221-all-motors-racing-simulator.json) |
+| All My Dreams are the Same! | 277670 | [277670-all-my-dreams-are-the-same.json](./277670-all-my-dreams-are-the-same.json) |
 | All My Friends Are Frogs | 183375 | [183375-all-my-friends-are-frogs.json](./183375-all-my-friends-are-frogs.json) |
 | All My Gods | 34406 | [34406-all-my-gods.json](./34406-all-my-gods.json) |
 | All My Heart, Banjo | 375776 | [375776-all-my-heart-banjo.json](./375776-all-my-heart-banjo.json) |
@@ -11322,6 +11324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Neighbors | 14357 | [14357-apocalypse-neighbors.json](./14357-apocalypse-neighbors.json) |
 | Apocalypse Night | 74683 | [74683-apocalypse-night.json](./74683-apocalypse-night.json) |
 | Apocalypse Now: The Game | 26969 | [26969-apocalypse-now-the-game.json](./26969-apocalypse-now-the-game.json) |
+| Apocalypse Party | 277650 | [277650-apocalypse-party.json](./277650-apocalypse-party.json) |
 | Apocalypse PD! | 355961 | [355961-apocalypse-pd.json](./355961-apocalypse-pd.json) |
 | Apocalypse Rider | 102889 | [102889-apocalypse-rider.json](./102889-apocalypse-rider.json) |
 | Apocalypse Runner | 224098 | [224098-apocalypse-runner.json](./224098-apocalypse-runner.json) |
