@@ -3134,6 +3134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VoiceATC Simulator | 401763 | [401763-voiceatc-simulator.json](./401763-voiceatc-simulator.json) |
 | Voiceless Elegy | 382175 | [382175-voiceless-elegy.json](./382175-voiceless-elegy.json) |
 | Voicemail: Laura | 383074 | [383074-voicemail-laura.json](./383074-voicemail-laura.json) |
+| VoiceOS | 284741 | [284741-voiceos.json](./284741-voiceos.json) |
 | Voices of a Hidden Star | 183530 | [183530-voices-of-a-hidden-star.json](./183530-voices-of-a-hidden-star.json) |
 | Voices of Authority | 270719 | [270719-voices-of-authority.json](./270719-voices-of-authority.json) |
 | Voices of the Void | 224415 | [224415-voices-of-the-void.json](./224415-voices-of-the-void.json) |
