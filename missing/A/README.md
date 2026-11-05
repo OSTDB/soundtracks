@@ -7192,6 +7192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All or Nothing | 152482 | [152482-all-or-nothing.json](./152482-all-or-nothing.json) |
 | All Our Broken Parts | 366025 | [366025-all-our-broken-parts.json](./366025-all-our-broken-parts.json) |
 | All Out | 404642 | [404642-all-out.json](./404642-all-out.json) |
+| All Out War: Welcome to the Front | 263281 | [263281-all-out-war-welcome-to-the-front.json](./263281-all-out-war-welcome-to-the-front.json) |
 | All Over | 132234 | [132234-all-over.json](./132234-all-over.json) |
 | All Pigs Deserve to Burn in Hell | 58034 | [58034-all-pigs-deserve-to-burn-in-hell.json](./58034-all-pigs-deserve-to-burn-in-hell.json) |
 | All Pro Basketball | 217823 | [217823-all-pro-basketball.json](./217823-all-pro-basketball.json) |
@@ -8482,6 +8483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: Space Paint Jobs Pack | 353400 | [353400-american-truck-simulator-space-paint-jobs-pack.json](./353400-american-truck-simulator-space-paint-jobs-pack.json) |
 | American Truck Simulator: Special Transport | 268771 | [268771-american-truck-simulator-special-transport.json](./268771-american-truck-simulator-special-transport.json) |
 | American Truck Simulator: Sports Paint Jobs Pack | 311103 | [311103-american-truck-simulator-sports-paint-jobs-pack.json](./311103-american-truck-simulator-sports-paint-jobs-pack.json) |
+| American Truck Simulator: Steampunk Paint Jobs Pack | 263301 | [263301-american-truck-simulator-steampunk-paint-jobs-pack.json](./263301-american-truck-simulator-steampunk-paint-jobs-pack.json) |
 | American Truck Simulator: Steering Creations Pack | 288635 | [288635-american-truck-simulator-steering-creations-pack.json](./288635-american-truck-simulator-steering-creations-pack.json) |
 | American Truck Simulator: Texas | 167678 | [167678-american-truck-simulator-texas.json](./167678-american-truck-simulator-texas.json) |
 | American Truck Simulator: Utah | 120325 | [120325-american-truck-simulator-utah.json](./120325-american-truck-simulator-utah.json) |
@@ -8494,6 +8496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: Western Star 5700XE | 234266 | [234266-american-truck-simulator-western-star-5700xe.json](./234266-american-truck-simulator-western-star-5700xe.json) |
 | American Truck Simulator: Western Star 57X | 211406 | [211406-american-truck-simulator-western-star-57x.json](./211406-american-truck-simulator-western-star-57x.json) |
 | American Truck Simulator: Wheel Tuning Pack | 353402 | [353402-american-truck-simulator-wheel-tuning-pack.json](./353402-american-truck-simulator-wheel-tuning-pack.json) |
+| American Truck Simulator: Wild West Paint Jobs Pack | 263299 | [263299-american-truck-simulator-wild-west-paint-jobs-pack.json](./263299-american-truck-simulator-wild-west-paint-jobs-pack.json) |
 | American Truck Simulator: Wyoming | 165379 | [165379-american-truck-simulator-wyoming.json](./165379-american-truck-simulator-wyoming.json) |
 | American Truck Traffic Racer: Highway Racing | 133816 | [133816-american-truck-traffic-racer-highway-racing.json](./133816-american-truck-traffic-racer-highway-racing.json) |
 | American Trucker: The Simulation | 52581 | [52581-american-trucker-the-simulation.json](./52581-american-trucker-the-simulation.json) |
@@ -11029,6 +11032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anvira: Forge Defense | 391441 | [391441-anvira-forge-defense.json](./391441-anvira-forge-defense.json) |
 | AnXiens | 174642 | [174642-anxiens.json](./174642-anxiens.json) |
 | Anxieties | 335699 | [335699-anxieties.json](./335699-anxieties.json) |
+| Anxiety | 263257 | [263257-anxiety.json](./263257-anxiety.json) |
 | Anxiety | 51572 | [51572-anxiety.json](./51572-anxiety.json) |
 | Anxiety Arcade | 381576 | [381576-anxiety-arcade.json](./381576-anxiety-arcade.json) |
 | Anxiety Puppy | 347827 | [347827-anxiety-puppy.json](./347827-anxiety-puppy.json) |
@@ -16225,6 +16229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Ryza 3: Alchemist of the End & the Secret Key - Ultimate Edition | 239482 | [239482-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-ultimate-edition.json](./239482-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-ultimate-edition.json) |
 | Atelier Ryza 3: Alchemist of the End & the Secret Key DX | 359427 | [359427-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-dx.json](./359427-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-dx.json) |
 | Atelier Ryza 3: Endless Summer Splash! Costume Set | 242543 | [242543-atelier-ryza-3-endless-summer-splash-costume-set.json](./242543-atelier-ryza-3-endless-summer-splash-costume-set.json) |
+| Atelier Ryza 3: Recipe Expansion Pack - Alchemy Mysteries | 263286 | [263286-atelier-ryza-3-recipe-expansion-pack-alchemy-mysteries.json](./263286-atelier-ryza-3-recipe-expansion-pack-alchemy-mysteries.json) |
 | Atelier Ryza 3: Recipe Expansion Pack - Art of Adventure | 265452 | [265452-atelier-ryza-3-recipe-expansion-pack-art-of-adventure.json](./265452-atelier-ryza-3-recipe-expansion-pack-art-of-adventure.json) |
 | Atelier Ryza 3: Season Pass | 396266 | [396266-atelier-ryza-3-season-pass.json](./396266-atelier-ryza-3-season-pass.json) |
 | Atelier Ryza 3: Summer Look Costume Set | 242544 | [242544-atelier-ryza-3-summer-look-costume-set.json](./242544-atelier-ryza-3-summer-look-costume-set.json) |
@@ -16338,7 +16343,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
@@ -17175,9 +17179,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automobilista | 19442 | [19442-automobilista.json](./19442-automobilista.json) |
 | Automobilista 2 | 119811 | [119811-automobilista-2.json](./119811-automobilista-2.json) |
 | Automobilista 2: Adrenaline Pack Pt2 | 352745 | [352745-automobilista-2-adrenaline-pack-pt2.json](./352745-automobilista-2-adrenaline-pack-pt2.json) |
+| Automobilista 2: Brazilian Racing Legends Pack Pt1 | 263265 | [263265-automobilista-2-brazilian-racing-legends-pack-pt1.json](./263265-automobilista-2-brazilian-racing-legends-pack-pt1.json) |
 | Automobilista 2: Circuit de Barcelona-Catalunya | 252694 | [252694-automobilista-2-circuit-de-barcelona-catalunya.json](./252694-automobilista-2-circuit-de-barcelona-catalunya.json) |
 | Automobilista 2: Endurance Pack Pt2 | 352739 | [352739-automobilista-2-endurance-pack-pt2.json](./352739-automobilista-2-endurance-pack-pt2.json) |
 | Automobilista 2: Formula HiTech | 278171 | [278171-automobilista-2-formula-hitech.json](./278171-automobilista-2-formula-hitech.json) |
+| Automobilista 2: Historical Track Pack Pt1 | 263275 | [263275-automobilista-2-historical-track-pack-pt1.json](./263275-automobilista-2-historical-track-pack-pt1.json) |
 | Automobilista 2: Historical Track Pack Pt2 | 278172 | [278172-automobilista-2-historical-track-pack-pt2.json](./278172-automobilista-2-historical-track-pack-pt2.json) |
 | Automobilista 2: Historical Track Pack Pt3 | 375798 | [375798-automobilista-2-historical-track-pack-pt3.json](./375798-automobilista-2-historical-track-pack-pt3.json) |
 | Automobilista 2: Hockenheimring Pack | 156164 | [156164-automobilista-2-hockenheimring-pack.json](./156164-automobilista-2-hockenheimring-pack.json) |
@@ -17192,6 +17198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automobilista 2: Racin' USA Pack Pt3 | 227517 | [227517-automobilista-2-racin-usa-pack-pt3.json](./227517-automobilista-2-racin-usa-pack-pt3.json) |
 | Automobilista 2: Silverstone Pack | 224444 | [224444-automobilista-2-silverstone-pack.json](./224444-automobilista-2-silverstone-pack.json) |
 | Automobilista 2: Spa-Francorchamps | 171084 | [171084-automobilista-2-spa-francorchamps.json](./171084-automobilista-2-spa-francorchamps.json) |
+| Automobilista 2: Supercars Pack Pt1 | 263303 | [263303-automobilista-2-supercars-pack-pt1.json](./263303-automobilista-2-supercars-pack-pt1.json) |
 | Automobilista: Brazilian Touring Car Classics | 171086 | [171086-automobilista-brazilian-touring-car-classics.json](./171086-automobilista-brazilian-touring-car-classics.json) |
 | Automobilista: Donington Park | 171082 | [171082-automobilista-donington-park.json](./171082-automobilista-donington-park.json) |
 | Automobilista: Formula Truck | 171085 | [171085-automobilista-formula-truck.json](./171085-automobilista-formula-truck.json) |
