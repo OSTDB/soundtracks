@@ -4383,6 +4383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insector X | 39455 | [39455-insector-x.json](./39455-insector-x.json) |
 | Insector X | 70757 | [70757-insector-x.json](./70757-insector-x.json) |
 | Insects | 112800 | [112800-insects.json](./112800-insects.json) |
+| Insects Awaken | 278794 | [278794-insects-awaken.json](./278794-insects-awaken.json) |
 | Insects in Space | 12613 | [12613-insects-in-space.json](./12613-insects-in-space.json) |
 | Insects Runner | 75670 | [75670-insects-runner.json](./75670-insects-runner.json) |
 | Insectum: Epic Battles of Bugs | 303585 | [303585-insectum-epic-battles-of-bugs.json](./303585-insectum-epic-battles-of-bugs.json) |
