@@ -1886,6 +1886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kevin Van Dam's Big Bass Challenge | 50969 | [50969-kevin-van-dams-big-bass-challenge.json](./50969-kevin-van-dams-big-bass-challenge.json) |
 | Kevin's Adventure | 174713 | [174713-kevins-adventure.json](./174713-kevins-adventure.json) |
 | Kevin's Playing In Berlin | 383397 | [383397-kevins-playing-in-berlin.json](./383397-kevins-playing-in-berlin.json) |
+| Kevin(1997-2077) | 286904 | [286904-kevin-1997-2077.json](./286904-kevin-1997-2077.json) |
 | Kevtris | 68719 | [68719-kevtris.json](./68719-kevtris.json) |
 | Kevurah Horror Tale | 307879 | [307879-kevurah-horror-tale.json](./307879-kevurah-horror-tale.json) |
 | Kewala's Typing Adventure | 315411 | [315411-kewalas-typing-adventure.json](./315411-kewalas-typing-adventure.json) |
@@ -2754,7 +2755,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
