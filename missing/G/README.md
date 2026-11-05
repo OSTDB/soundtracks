@@ -5661,6 +5661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Commander: Unleash the Horde | 3934 | [3934-goblin-commander-unleash-the-horde.json](./3934-goblin-commander-unleash-the-horde.json) |
 | Goblin Company | 386855 | [386855-goblin-company.json](./386855-goblin-company.json) |
 | Goblin Corrosion | 328913 | [328913-goblin-corrosion.json](./328913-goblin-corrosion.json) |
+| Goblin Creed: Origins | 259946 | [259946-goblin-creed-origins.json](./259946-goblin-creed-origins.json) |
 | Goblin Crusher | 14096 | [14096-goblin-crusher.json](./14096-goblin-crusher.json) |
 | Goblin Daily Life | 263131 | [263131-goblin-daily-life.json](./263131-goblin-daily-life.json) |
 | Goblin Dash | 235042 | [235042-goblin-dash.json](./235042-goblin-dash.json) |
