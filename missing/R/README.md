@@ -12214,6 +12214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Master III: Sangokushi Eiketsuden | 41667 | [41667-rune-master-iii-sangokushi-eiketsuden.json](./41667-rune-master-iii-sangokushi-eiketsuden.json) |
 | Rune Monster | 402883 | [402883-rune-monster.json](./402883-rune-monster.json) |
 | Rune Monsters | 236478 | [236478-rune-monsters.json](./236478-rune-monsters.json) |
+| Rune No Joka: Hikari To Yami No Seioujo | 295942 | [295942-rune-no-joka-hikari-to-yami-no-seioujo.json](./295942-rune-no-joka-hikari-to-yami-no-seioujo.json) |
 | Rune of Eternity | 194372 | [194372-rune-of-eternity.json](./194372-rune-of-eternity.json) |
 | Rune of Fate | 70753 | [70753-rune-of-fate.json](./70753-rune-of-fate.json) |
 | Rune of Tauro | 179343 | [179343-rune-of-tauro.json](./179343-rune-of-tauro.json) |
