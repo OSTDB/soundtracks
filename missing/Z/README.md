@@ -1909,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Vikings: Stab-a-thon | 30161 | [30161-zombie-vikings-stab-a-thon.json](./30161-zombie-vikings-stab-a-thon.json) |
 | Zombie Virus | 193788 | [193788-zombie-virus.json](./193788-zombie-virus.json) |
 | Zombie Virus | 43266 | [43266-zombie-virus.json](./43266-zombie-virus.json) |
+| Zombie Virus Ukraine 2022 | 260446 | [260446-zombie-virus-ukraine-2022.json](./260446-zombie-virus-ukraine-2022.json) |
 | Zombie vs. Human | 177026 | [177026-zombie-vs-human.json](./177026-zombie-vs-human.json) |
 | Zombie vs. Police | 192433 | [192433-zombie-vs-police.json](./192433-zombie-vs-police.json) |
 | Zombie vs. Sniper | 297016 | [297016-zombie-vs-sniper.json](./297016-zombie-vs-sniper.json) |
