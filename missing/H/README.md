@@ -9512,6 +9512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hooligan James | 215342 | [215342-hooligan-james.json](./215342-hooligan-james.json) |
 | Hooligan Simulator | 128285 | [128285-hooligan-simulator.json](./128285-hooligan-simulator.json) |
 | Hooligan Simulator 2023: You vs. System | 277917 | [277917-hooligan-simulator-2023-you-vs-system.json](./277917-hooligan-simulator-2023-you-vs-system.json) |
+| Hooligan Simulator: San Gangster Andreas Fight for City, Battle Gangs, Shooter, Police | 254855 | [254855-hooligan-simulator-san-gangster-andreas-fight-for-city-battle-gangs-shooter-police.json](./254855-hooligan-simulator-san-gangster-andreas-fight-for-city-battle-gangs-shooter-police.json) |
 | Hooligan Simulator: Survive in Urban Jungle | 250891 | [250891-hooligan-simulator-survive-in-urban-jungle.json](./250891-hooligan-simulator-survive-in-urban-jungle.json) |
 | Hooligan Vasja | 31632 | [31632-hooligan-vasja.json](./31632-hooligan-vasja.json) |
 | Hooligan Vasja 2: Journey through time | 95177 | [95177-hooligan-vasja-2-journey-through-time.json](./95177-hooligan-vasja-2-journey-through-time.json) |
