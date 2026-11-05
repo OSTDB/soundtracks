@@ -30381,6 +30381,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trinity Trigger | 202850 | [202850-trinity-trigger.json](./202850-trinity-trigger.json) |
 | Trinity Trigger DX | 420686 | [420686-trinity-trigger-dx.json](./420686-trinity-trigger-dx.json) |
 | Trinity Trigger: Day 1 Edition | 221947 | [221947-trinity-trigger-day-1-edition.json](./221947-trinity-trigger-day-1-edition.json) |
+| Trinity Trigger: Extra Episode - Cyan | 247259 | [247259-trinity-trigger-extra-episode-cyan.json](./247259-trinity-trigger-extra-episode-cyan.json) |
+| Trinity Trigger: Extra Episode - Elise | 247260 | [247260-trinity-trigger-extra-episode-elise.json](./247260-trinity-trigger-extra-episode-elise.json) |
+| Trinity Trigger: Extra Episode - Violet | 247262 | [247262-trinity-trigger-extra-episode-violet.json](./247262-trinity-trigger-extra-episode-violet.json) |
+| Trinity Trigger: Extra Episode - Zantis | 247261 | [247261-trinity-trigger-extra-episode-zantis.json](./247261-trinity-trigger-extra-episode-zantis.json) |
 | Trinity Universe | 7474 | [7474-trinity-universe.json](./7474-trinity-universe.json) |
 | Trinity VR | 111991 | [111991-trinity-vr.json](./111991-trinity-vr.json) |
 | Trinity x Calamity: Midara na Shitsuke to Owaru Sekai | 133245 | [133245-trinity-x-calamity-midara-na-shitsuke-to-owaru-sekai.json](./133245-trinity-x-calamity-midara-na-shitsuke-to-owaru-sekai.json) |
