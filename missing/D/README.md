@@ -2939,6 +2939,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daymaker: Release From Doomsday | 265654 | [265654-daymaker-release-from-doomsday.json](./265654-daymaker-release-from-doomsday.json) |
 | Daymare Cat | 129557 | [129557-daymare-cat.json](./129557-daymare-cat.json) |
 | Daymare Cat: 10-year Anniversary | 257659 | [257659-daymare-cat-10-year-anniversary.json](./257659-daymare-cat-10-year-anniversary.json) |
+| Daymare Invaders | 257747 | [257747-daymare-invaders.json](./257747-daymare-invaders.json) |
+| Daymare Kite | 257748 | [257748-daymare-kite.json](./257748-daymare-kite.json) |
 | Daymare Stray | 250344 | [250344-daymare-stray.json](./250344-daymare-stray.json) |
 | Daymare Town | 257446 | [257446-daymare-town.json](./257446-daymare-town.json) |
 | Daymare Town | 279235 | [279235-daymare-town.json](./279235-daymare-town.json) |
@@ -8751,6 +8753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Different Stories VR | 169592 | [169592-different-stories-vr.json](./169592-different-stories-vr.json) |
 | Different Strokes | 213030 | [213030-different-strokes.json](./213030-different-strokes.json) |
 | Differently Fast | 74519 | [74519-differently-fast.json](./74519-differently-fast.json) |
+| Differlands | 257705 | [257705-differlands.json](./257705-differlands.json) |
 | Difficult | 399873 | [399873-difficult.json](./399873-difficult.json) |
 | Difficult Platformer Game | 148804 | [148804-difficult-platformer-game.json](./148804-difficult-platformer-game.json) |
 | Difficult times | 327826 | [327826-difficult-times.json](./327826-difficult-times.json) |
@@ -9442,6 +9445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino VR : Jurassic World | 108212 | [108212-dino-vr-jurassic-world.json](./108212-dino-vr-jurassic-world.json) |
 | Dino War | 100811 | [100811-dino-war.json](./100811-dino-war.json) |
 | Dino Wars | 23918 | [23918-dino-wars.json](./23918-dino-wars.json) |
+| Dino World | 257706 | [257706-dino-world.json](./257706-dino-world.json) |
 | Dino Zoo Transport Simulator | 122604 | [122604-dino-zoo-transport-simulator.json](./122604-dino-zoo-transport-simulator.json) |
 | Dino-D | 199479 | [199479-dino-d.json](./199479-dino-d.json) |
 | Dino-Ducks Dash | 323125 | [323125-dino-ducks-dash.json](./323125-dino-ducks-dash.json) |
@@ -15291,6 +15295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw and Color: Kawaii - Director's Cut | 250361 | [250361-draw-and-color-kawaii-directors-cut.json](./250361-draw-and-color-kawaii-directors-cut.json) |
 | Draw and Color: Kawaii - Extended Edition | 231281 | [231281-draw-and-color-kawaii-extended-edition.json](./231281-draw-and-color-kawaii-extended-edition.json) |
 | Draw and Color: Kawaii - GOTY Edition | 255222 | [255222-draw-and-color-kawaii-goty-edition.json](./255222-draw-and-color-kawaii-goty-edition.json) |
+| Draw and Color: Kawaii - Happy Edition | 257730 | [257730-draw-and-color-kawaii-happy-edition.json](./257730-draw-and-color-kawaii-happy-edition.json) |
 | Draw and Color: Kawaii - Magnificent Edition | 268554 | [268554-draw-and-color-kawaii-magnificent-edition.json](./268554-draw-and-color-kawaii-magnificent-edition.json) |
 | Draw and Color: Kawaii - Platinum Edition | 247589 | [247589-draw-and-color-kawaii-platinum-edition.json](./247589-draw-and-color-kawaii-platinum-edition.json) |
 | Draw and Color: Kawaii - Special Edition | 231285 | [231285-draw-and-color-kawaii-special-edition.json](./231285-draw-and-color-kawaii-special-edition.json) |
