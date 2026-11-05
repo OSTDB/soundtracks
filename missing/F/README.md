@@ -2754,6 +2754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fart Up | 299455 | [299455-fart-up.json](./299455-fart-up.json) |
 | Fartal Error | 365033 | [365033-fartal-error.json](./365033-fartal-error.json) |
 | Fartcore | 374946 | [374946-fartcore.json](./374946-fartcore.json) |
+| Farther Forest | 265368 | [265368-farther-forest.json](./265368-farther-forest.json) |
 | Farther Than the Blue Sky | 139024 | [139024-farther-than-the-blue-sky.json](./139024-farther-than-the-blue-sky.json) |
 | Farting Simulator | 315285 | [315285-farting-simulator.json](./315285-farting-simulator.json) |
 | Fartonauts | 348358 | [348358-fartonauts.json](./348358-fartonauts.json) |
@@ -3108,6 +3109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate & Inflation | 391721 | [391721-fate-and-inflation.json](./391721-fate-and-inflation.json) |
 | Fate And Destiny: The Elonia Chronicles | 350388 | [350388-fate-and-destiny-the-elonia-chronicles.json](./350388-fate-and-destiny-the-elonia-chronicles.json) |
 | Fate and Judgement | 260553 | [260553-fate-and-judgement.json](./260553-fate-and-judgement.json) |
+| Fate and Life: The Mystery of Vaulinhorn | 265367 | [265367-fate-and-life-the-mystery-of-vaulinhorn.json](./265367-fate-and-life-the-mystery-of-vaulinhorn.json) |
 | Fate Architect | 381864 | [381864-fate-architect.json](./381864-fate-architect.json) |
 | Fate Arena | 133696 | [133696-fate-arena.json](./133696-fate-arena.json) |
 | Fate by Numbers | 50371 | [50371-fate-by-numbers.json](./50371-fate-by-numbers.json) |
@@ -3123,6 +3125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate Machine | 377959 | [377959-fate-machine.json](./377959-fate-machine.json) |
 | Fate Master | 229318 | [229318-fate-master.json](./229318-fate-master.json) |
 | Fate of Antara | 370457 | [370457-fate-of-antara.json](./370457-fate-of-antara.json) |
+| Fate of Aruna | 265366 | [265366-fate-of-aruna.json](./265366-fate-of-aruna.json) |
 | Fate of Dynasty | 149834 | [149834-fate-of-dynasty.json](./149834-fate-of-dynasty.json) |
 | Fate of Fire: Kyvedy Guardiah | 310340 | [310340-fate-of-fire-kyvedy-guardiah.json](./310340-fate-of-fire-kyvedy-guardiah.json) |
 | Fate of Gun | 363418 | [363418-fate-of-gun.json](./363418-fate-of-gun.json) |
