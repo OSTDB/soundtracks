@@ -6936,6 +6936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Spire x 9 Years of Shadows | 396120 | [396120-pinball-spire-x-9-years-of-shadows.json](./396120-pinball-spire-x-9-years-of-shadows.json) |
 | Pinball Storm: Lokanta | 295212 | [295212-pinball-storm-lokanta.json](./295212-pinball-storm-lokanta.json) |
 | Pinball Strike Arcade Rampage | 377720 | [377720-pinball-strike-arcade-rampage.json](./377720-pinball-strike-arcade-rampage.json) |
+| Pinball Track | 277644 | [277644-pinball-track.json](./277644-pinball-track.json) |
 | Pinball Tristan | 261855 | [261855-pinball-tristan.json](./261855-pinball-tristan.json) |
 | Pinball Tycoon | 64477 | [64477-pinball-tycoon.json](./64477-pinball-tycoon.json) |
 | Pinball vs. Solitaire | 250559 | [250559-pinball-vs-solitaire.json](./250559-pinball-vs-solitaire.json) |
@@ -17474,6 +17475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push Stack | 146348 | [146348-push-stack.json](./146348-push-stack.json) |
 | Push sticks | 127588 | [127588-push-sticks.json](./127588-push-sticks.json) |
 | Push That Cat!! | 258642 | [258642-push-that-cat.json](./258642-push-that-cat.json) |
+| Push the Ball | 277645 | [277645-push-the-ball.json](./277645-push-the-ball.json) |
 | Push the Blocks | 207625 | [207625-push-the-blocks.json](./207625-push-the-blocks.json) |
 | Push the Box | 147899 | [147899-push-the-box.json](./147899-push-the-box.json) |
 | Push the Box | 247075 | [247075-push-the-box.json](./247075-push-the-box.json) |
