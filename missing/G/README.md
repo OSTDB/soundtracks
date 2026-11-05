@@ -1002,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gale Gunner | 74781 | [74781-gale-gunner.json](./74781-gale-gunner.json) |
 | Gale of Windoria | 208021 | [208021-gale-of-windoria.json](./208021-gale-of-windoria.json) |
 | Gale Racer | 72317 | [72317-gale-racer.json](./72317-gale-racer.json) |
+| Galeao's Dreams | 248374 | [248374-galeaos-dreams.json](./248374-galeaos-dreams.json) |
 | Galencia | 54963 | [54963-galencia.json](./54963-galencia.json) |
 | Galeoz | 74782 | [74782-galeoz.json](./74782-galeoz.json) |
 | Galer: Plague of Heroes | 31924 | [31924-galer-plague-of-heroes.json](./31924-galer-plague-of-heroes.json) |
@@ -3469,6 +3470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get the Girl! | 93193 | [93193-get-the-girl.json](./93193-get-the-girl.json) |
 | Get the Glass | 272848 | [272848-get-the-glass.json](./272848-get-the-glass.json) |
 | Get the Guy | 372699 | [372699-get-the-guy.json](./372699-get-the-guy.json) |
+| Get the Heck Out | 248347 | [248347-get-the-heck-out.json](./248347-get-the-heck-out.json) |
 | Get Them Boats: Orca Revenge | 261930 | [261930-get-them-boats-orca-revenge.json](./261930-get-them-boats-orca-revenge.json) |
 | Get Them To Safety | 374053 | [374053-get-them-to-safety.json](./374053-get-them-to-safety.json) |
 | Get Tilted! :) | 304819 | [304819-get-tilted.json](./304819-get-tilted.json) |
@@ -8954,6 +8956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grex | 331371 | [331371-grex.json](./331371-grex.json) |
 | Grexovka Village | 386411 | [386411-grexovka-village.json](./386411-grexovka-village.json) |
 | Grey | 128869 | [128869-grey.json](./128869-grey.json) |
+| Grey | 248378 | [248378-grey.json](./248378-grey.json) |
 | Grey Area | 240765 | [240765-grey-area.json](./240765-grey-area.json) |
 | Grey Block | 190454 | [190454-grey-block.json](./190454-grey-block.json) |
 | Grey Bones | 164505 | [164505-grey-bones.json](./164505-grey-bones.json) |
