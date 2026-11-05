@@ -3646,6 +3646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telltale Batman Shadows Edition | 127560 | [127560-telltale-batman-shadows-edition.json](./127560-telltale-batman-shadows-edition.json) |
 | TellTale: Casino Murder Case | 395787 | [395787-telltale-casino-murder-case.json](./395787-telltale-casino-murder-case.json) |
 | Telltale's Stranger Things Game | 103355 | [103355-telltales-stranger-things-game.json](./103355-telltales-stranger-things-game.json) |
+| Telluria | 251914 | [251914-telluria.json](./251914-telluria.json) |
 | Telluria: Forebodings Gear Minigame | 266019 | [266019-telluria-forebodings-gear-minigame.json](./266019-telluria-forebodings-gear-minigame.json) |
 | Telluria: Forebodings Gear Minigame - Final Stage | 270881 | [270881-telluria-forebodings-gear-minigame-final-stage.json](./270881-telluria-forebodings-gear-minigame-final-stage.json) |
 | Tellurian Defense | 73555 | [73555-tellurian-defense.json](./73555-tellurian-defense.json) |
@@ -4420,6 +4421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Revive | 311901 | [311901-terra-revive.json](./311901-terra-revive.json) |
 | Terra Swoop Force | 301112 | [301112-terra-swoop-force.json](./301112-terra-swoop-force.json) |
 | Terra Tanks: Defenders of the Earth | 75662 | [75662-terra-tanks-defenders-of-the-earth.json](./75662-terra-tanks-defenders-of-the-earth.json) |
+| Terra Toy | 251911 | [251911-terra-toy.json](./251911-terra-toy.json) |
 | Terra Traveler | 383104 | [383104-terra-traveler.json](./383104-terra-traveler.json) |
 | Terra Trilogy | 143771 | [143771-terra-trilogy.json](./143771-terra-trilogy.json) |
 | Terra Ventura | 154074 | [154074-terra-ventura.json](./154074-terra-ventura.json) |
@@ -6861,6 +6863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cadet Files: Scene Unseen | 278685 | [278685-the-cadet-files-scene-unseen.json](./278685-the-cadet-files-scene-unseen.json) |
 | The Cages: Pro Style Batting Practice | 51038 | [51038-the-cages-pro-style-batting-practice.json](./51038-the-cages-pro-style-batting-practice.json) |
 | The Caiysware Collection | 53709 | [53709-the-caiysware-collection.json](./53709-the-caiysware-collection.json) |
+| The Cake Adventure | 251919 | [251919-the-cake-adventure.json](./251919-the-cake-adventure.json) |
 | The Cake is Alive | 330811 | [330811-the-cake-is-alive.json](./330811-the-cake-is-alive.json) |
 | The Cake Mistake | 422689 | [422689-the-cake-mistake.json](./422689-the-cake-mistake.json) |
 | The Cakeman | 274493 | [274493-the-cakeman.json](./274493-the-cakeman.json) |
@@ -8009,6 +8012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Day We Met was a Regular Day in the Infinitely Looping Highschool, is That Normal? | 192953 | [192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json](./192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json) |
 | The Days Without Gods | 356826 | [356826-the-days-without-gods.json](./356826-the-days-without-gods.json) |
 | The DBK Holiday Special | 261465 | [261465-the-dbk-holiday-special.json](./261465-the-dbk-holiday-special.json) |
+| The Dead are Not Dead | 251904 | [251904-the-dead-are-not-dead.json](./251904-the-dead-are-not-dead.json) |
 | The Dead Blue Adventure | 179379 | [179379-the-dead-blue-adventure.json](./179379-the-dead-blue-adventure.json) |
 | The Dead Case | 186139 | [186139-the-dead-case.json](./186139-the-dead-case.json) |
 | The Dead City | 376715 | [376715-the-dead-city.json](./376715-the-dead-city.json) |
@@ -16899,6 +16903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Storyteller | 302369 | [302369-the-storyteller.json](./302369-the-storyteller.json) |
 | The Storyteller | 342841 | [342841-the-storyteller.json](./342841-the-storyteller.json) |
 | The StoryTeller | 324670 | [324670-the-storyteller.json](./324670-the-storyteller.json) |
+| The Stranded Traveler | 251920 | [251920-the-stranded-traveler.json](./251920-the-stranded-traveler.json) |
 | The Strange and Somewhat Sinister Tale of the House at Desert Bridge | 228966 | [228966-the-strange-and-somewhat-sinister-tale-of-the-house-at-desert-bridge.json](./228966-the-strange-and-somewhat-sinister-tale-of-the-house-at-desert-bridge.json) |
 | The Strange Box | 237186 | [237186-the-strange-box.json](./237186-the-strange-box.json) |
 | The Strange Case of Mei Lysel Andi | 257543 | [257543-the-strange-case-of-mei-lysel-andi.json](./257543-the-strange-case-of-mei-lysel-andi.json) |
@@ -19638,6 +19643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Third Bridge | 141552 | [141552-third-bridge.json](./141552-third-bridge.json) |
 | Third Crisis | 187542 | [187542-third-crisis.json](./187542-third-crisis.json) |
 | Third Crisis: Neon Nights | 397168 | [397168-third-crisis-neon-nights.json](./397168-third-crisis-neon-nights.json) |
+| Third Defender | 251939 | [251939-third-defender.json](./251939-third-defender.json) |
 | Third Exit | 53094 | [53094-third-exit.json](./53094-third-exit.json) |
 | Third Eye | 261963 | [261963-third-eye.json](./261963-third-eye.json) |
 | Third Eye | 31664 | [31664-third-eye.json](./31664-third-eye.json) |
@@ -23766,6 +23772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobi D+Vine | 265024 | [265024-tobi-d-vine.json](./265024-tobi-d-vine.json) |
 | Tobi Topples Tyranny | 236343 | [236343-tobi-topples-tyranny.json](./236343-tobi-topples-tyranny.json) |
 | Tobi Tsukihime | 169159 | [169159-tobi-tsukihime.json](./169159-tobi-tsukihime.json) |
+| Tobi: Path of Truth | 251947 | [251947-tobi-path-of-truth.json](./251947-tobi-path-of-truth.json) |
 | Tobia's Animal Farm | 301965 | [301965-tobias-animal-farm.json](./301965-tobias-animal-farm.json) |
 | Tobichiyon X | 311750 | [311750-tobichiyon-x.json](./311750-tobichiyon-x.json) |
 | Tobidase! Trouble Hanafuda Douchuuki | 269512 | [269512-tobidase-trouble-hanafuda-douchuuki.json](./269512-tobidase-trouble-hanafuda-douchuuki.json) |
