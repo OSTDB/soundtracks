@@ -2204,6 +2204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mailstrom | 36862 | [36862-mailstrom.json](./36862-mailstrom.json) |
 | Maimai | 60813 | [60813-maimai.json](./60813-maimai.json) |
 | Maimai DX | 130331 | [130331-maimai-dx.json](./130331-maimai-dx.json) |
+| Maimai DX Buddies | 266558 | [266558-maimai-dx-buddies.json](./266558-maimai-dx-buddies.json) |
 | Maimai DX Buddies Plus | 309594 | [309594-maimai-dx-buddies-plus.json](./309594-maimai-dx-buddies-plus.json) |
 | Maimai DX Circle | 367190 | [367190-maimai-dx-circle.json](./367190-maimai-dx-circle.json) |
 | Maimai DX Festival Plus | 243688 | [243688-maimai-dx-festival-plus.json](./243688-maimai-dx-festival-plus.json) |
@@ -5817,7 +5818,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -6069,6 +6069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Girl | 253907 | [253907-maze-girl.json](./253907-maze-girl.json) |
 | Maze Gobbler | 232303 | [232303-maze-gobbler.json](./232303-maze-gobbler.json) |
 | Maze Gold Run | 127267 | [127267-maze-gold-run.json](./127267-maze-gold-run.json) |
+| Maze Heroes: Meikyuu Densetsu | 266566 | [266566-maze-heroes-meikyuu-densetsu.json](./266566-maze-heroes-meikyuu-densetsu.json) |
 | Maze Horror: Meikyuu Horror | 252893 | [252893-maze-horror-meikyuu-horror.json](./252893-maze-horror-meikyuu-horror.json) |
 | Maze Hunter 3-D | 45674 | [45674-maze-hunter-3-d.json](./45674-maze-hunter-3-d.json) |
 | Maze in Your Mind | 351598 | [351598-maze-in-your-mind.json](./351598-maze-in-your-mind.json) |
@@ -7117,6 +7118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meg's Monster: Lost Memories | 376429 | [376429-megs-monster-lost-memories.json](./376429-megs-monster-lost-memories.json) |
 | Mega | 215615 | [215615-mega.json](./215615-mega.json) |
 | Mega 99Vidas | 274000 | [274000-mega-99vidas.json](./274000-mega-99vidas.json) |
+| Mega Alien Destroyer | 266565 | [266565-mega-alien-destroyer.json](./266565-mega-alien-destroyer.json) |
 | Mega Babies | 209532 | [209532-mega-babies.json](./209532-mega-babies.json) |
 | Mega Blaster | 311664 | [311664-mega-blaster.json](./311664-mega-blaster.json) |
 | Mega Bloks: First Builders | 60838 | [60838-mega-bloks-first-builders.json](./60838-mega-bloks-first-builders.json) |
