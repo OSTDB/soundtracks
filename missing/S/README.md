@@ -6912,6 +6912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of the Void | 133720 | [133720-shadows-of-the-void.json](./133720-shadows-of-the-void.json) |
 | Shadows of the Werewolf | 315060 | [315060-shadows-of-the-werewolf.json](./315060-shadows-of-the-werewolf.json) |
 | Shadows of Thornkeep | 374073 | [374073-shadows-of-thornkeep.json](./374073-shadows-of-thornkeep.json) |
+| Shadows of Truth | 270472 | [270472-shadows-of-truth.json](./270472-shadows-of-truth.json) |
 | Shadows of War | 35998 | [35998-shadows-of-war.json](./35998-shadows-of-war.json) |
 | Shadows of War 2 | 391171 | [391171-shadows-of-war-2.json](./391171-shadows-of-war-2.json) |
 | Shadows Of Wyrmwood | 328134 | [328134-shadows-of-wyrmwood.json](./328134-shadows-of-wyrmwood.json) |
@@ -18766,6 +18767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Adventure: Escape from Siphilus 1b | 219587 | [219587-space-adventure-escape-from-siphilus-1b.json](./219587-space-adventure-escape-from-siphilus-1b.json) |
 | Space Adventure: Mercury | 379151 | [379151-space-adventure-mercury.json](./379151-space-adventure-mercury.json) |
 | Space Adventures | 165932 | [165932-space-adventures.json](./165932-space-adventures.json) |
+| Space Age | 270423 | [270423-space-age.json](./270423-space-age.json) |
 | Space Age: Director's Cut | 293227 | [293227-space-age-directors-cut.json](./293227-space-age-directors-cut.json) |
 | Space Agency 2138 | 223622 | [223622-space-agency-2138.json](./223622-space-agency-2138.json) |
 | Space Agent Mission | 212486 | [212486-space-agent-mission.json](./212486-space-agent-mission.json) |
@@ -19228,7 +19230,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -19272,6 +19273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders | 266959 | [266959-space-invaders.json](./266959-space-invaders.json) |
 | Space Invaders | 266960 | [266960-space-invaders.json](./266960-space-invaders.json) |
 | Space Invaders | 266962 | [266962-space-invaders.json](./266962-space-invaders.json) |
+| Space Invaders | 270424 | [270424-space-invaders.json](./270424-space-invaders.json) |
 | Space Invaders | 282080 | [282080-space-invaders.json](./282080-space-invaders.json) |
 | Space Invaders | 310668 | [310668-space-invaders.json](./310668-space-invaders.json) |
 | Space Invaders | 3601 | [3601-space-invaders.json](./3601-space-invaders.json) |
@@ -25538,6 +25540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steampunk Timer | 152797 | [152797-steampunk-timer.json](./152797-steampunk-timer.json) |
 | Steampunk Tower | 142333 | [142333-steampunk-tower.json](./142333-steampunk-tower.json) |
 | Steampunk Tower 2 | 95113 | [95113-steampunk-tower-2.json](./95113-steampunk-tower-2.json) |
+| Steampunk Voyage | 270467 | [270467-steampunk-voyage.json](./270467-steampunk-voyage.json) |
 | Steamroll | 20361 | [20361-steamroll.json](./20361-steamroll.json) |
 | Steamroll: Rustless Edition | 147623 | [147623-steamroll-rustless-edition.json](./147623-steamroll-rustless-edition.json) |
 | Steamroller | 40911 | [40911-steamroller.json](./40911-steamroller.json) |
@@ -26804,6 +26807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormfall: Age of War | 21677 | [21677-stormfall-age-of-war.json](./21677-stormfall-age-of-war.json) |
 | Stormfall: Rise of Balur | 194784 | [194784-stormfall-rise-of-balur.json](./194784-stormfall-rise-of-balur.json) |
 | Stormfall: Saga of Survival | 105787 | [105787-stormfall-saga-of-survival.json](./105787-stormfall-saga-of-survival.json) |
+| Stormforce | 270425 | [270425-stormforce.json](./270425-stormforce.json) |
 | Stormforge | 305188 | [305188-stormforge.json](./305188-stormforge.json) |
 | Stormgate | 204358 | [204358-stormgate.json](./204358-stormgate.json) |
 | Stormhill Mystery: Family Shadows | 113784 | [113784-stormhill-mystery-family-shadows.json](./113784-stormhill-mystery-family-shadows.json) |
@@ -28443,6 +28447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submarine | 345761 | [345761-submarine.json](./345761-submarine.json) |
 | Submarine | 346083 | [346083-submarine.json](./346083-submarine.json) |
 | Submarine | 68458 | [68458-submarine.json](./68458-submarine.json) |
+| SubMarine | 270426 | [270426-submarine.json](./270426-submarine.json) |
 | Submarine / Racing | 381160 | [381160-submarine-racing.json](./381160-submarine-racing.json) |
 | Submarine Adventure | 133233 | [133233-submarine-adventure.json](./133233-submarine-adventure.json) |
 | Submarine Attack | 413048 | [413048-submarine-attack.json](./413048-submarine-attack.json) |
@@ -33227,6 +33232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme | 80546 | [80546-supreme.json](./80546-supreme.json) |
 | Supreme AI: Arena | 161538 | [161538-supreme-ai-arena.json](./161538-supreme-ai-arena.json) |
 | Supreme Candy: Oudou ni wa Oudoutaru Riyuu ga Arun Desu! | 137107 | [137107-supreme-candy-oudou-ni-wa-oudoutaru-riyuu-ga-arun-desu.json](./137107-supreme-candy-oudou-ni-wa-oudoutaru-riyuu-ga-arun-desu.json) |
+| Supreme Car Parking Simulator 2024 | 270471 | [270471-supreme-car-parking-simulator-2024.json](./270471-supreme-car-parking-simulator-2024.json) |
 | Supreme Car Race on Highway Simulator: Ultimate Driving Games Poly Experience | 231038 | [231038-supreme-car-race-on-highway-simulator-ultimate-driving-games-poly-experience.json](./231038-supreme-car-race-on-highway-simulator-ultimate-driving-games-poly-experience.json) |
 | Supreme Challenge | 70071 | [70071-supreme-challenge.json](./70071-supreme-challenge.json) |
 | Supreme Commander 2 | 7201 | [7201-supreme-commander-2.json](./7201-supreme-commander-2.json) |
