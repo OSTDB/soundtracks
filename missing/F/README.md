@@ -10235,6 +10235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Chapter 3 - Season 4: Paradise | 218104 | [218104-fortnite-chapter-3-season-4-paradise.json](./218104-fortnite-chapter-3-season-4-paradise.json) |
 | Fortnite: Chapter 4 | 228328 | [228328-fortnite-chapter-4.json](./228328-fortnite-chapter-4.json) |
 | Fortnite: Chapter 4 - Season 2: Mega | 241495 | [241495-fortnite-chapter-4-season-2-mega.json](./241495-fortnite-chapter-4-season-2-mega.json) |
+| Fortnite: Chapter 4 - Season 3: Wilds | 252488 | [252488-fortnite-chapter-4-season-3-wilds.json](./252488-fortnite-chapter-4-season-3-wilds.json) |
 | Fortnite: Chapter 4 - Season 4: Last Resort | 263398 | [263398-fortnite-chapter-4-season-4-last-resort.json](./263398-fortnite-chapter-4-season-4-last-resort.json) |
 | Fortnite: Chapter 4 - Season OG | 275141 | [275141-fortnite-chapter-4-season-og.json](./275141-fortnite-chapter-4-season-og.json) |
 | Fortnite: Chapter 5 - Season 2: Myths & Mortals | 290301 | [290301-fortnite-chapter-5-season-2-myths-and-mortals.json](./290301-fortnite-chapter-5-season-2-myths-and-mortals.json) |
@@ -13397,6 +13398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furries & Scalies & Scarecrows Oh My! | 321525 | [321525-furries-and-scalies-and-scarecrows-oh-my.json](./321525-furries-and-scalies-and-scarecrows-oh-my.json) |
 | Furries & Scalies: Friendswood | 128972 | [128972-furries-and-scalies-friendswood.json](./128972-furries-and-scalies-friendswood.json) |
 | Furries & Scalies: Super Scary Halloween Spooky Times | 130284 | [130284-furries-and-scalies-super-scary-halloween-spooky-times.json](./130284-furries-and-scalies-super-scary-halloween-spooky-times.json) |
+| Furries & Scalies: Super Scary Halloween Spooky Times - Final Boss | 252524 | [252524-furries-and-scalies-super-scary-halloween-spooky-times-final-boss.json](./252524-furries-and-scalies-super-scary-halloween-spooky-times-final-boss.json) |
 | Furries & Scalies: Super Scary Halloween Spooky Times Part II | 172320 | [172320-furries-and-scalies-super-scary-halloween-spooky-times-part-ii.json](./172320-furries-and-scalies-super-scary-halloween-spooky-times-part-ii.json) |
 | Furries & Scalies: Super Scary Halloween Spooky Times Part II - Richard III's Tiny Terrors | 226186 | [226186-furries-and-scalies-super-scary-halloween-spooky-times-part-ii-richard-iiis-tiny-terrors.json](./226186-furries-and-scalies-super-scary-halloween-spooky-times-part-ii-richard-iiis-tiny-terrors.json) |
 | Furrifighters: Prequel I | 369553 | [369553-furrifighters-prequel-i.json](./369553-furrifighters-prequel-i.json) |
