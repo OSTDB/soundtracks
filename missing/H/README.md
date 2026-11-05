@@ -10620,6 +10620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of 1000 Doors: Serpent Flame | 119031 | [119031-house-of-1000-doors-serpent-flame.json](./119031-house-of-1000-doors-serpent-flame.json) |
 | House of 1000 Doors: The Palm of Zoroaster | 125688 | [125688-house-of-1000-doors-the-palm-of-zoroaster.json](./125688-house-of-1000-doors-the-palm-of-zoroaster.json) |
 | House Of 1000 Fowl | 399249 | [399249-house-of-1000-fowl.json](./399249-house-of-1000-fowl.json) |
+| House of 1000 Traps | 295423 | [295423-house-of-1000-traps.json](./295423-house-of-1000-traps.json) |
 | House of Alice | 32091 | [32091-house-of-alice.json](./32091-house-of-alice.json) |
 | House of Arachne | 326915 | [326915-house-of-arachne.json](./326915-house-of-arachne.json) |
 | House of Asterion | 202599 | [202599-house-of-asterion.json](./202599-house-of-asterion.json) |
