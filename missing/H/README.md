@@ -3501,6 +3501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven and Hearth | 58431 | [58431-heaven-and-hearth.json](./58431-heaven-and-hearth.json) |
 | Heaven and Hell | 273749 | [273749-heaven-and-hell.json](./273749-heaven-and-hell.json) |
 | Heaven And Hell: The Last War | 111713 | [111713-heaven-and-hell-the-last-war.json](./111713-heaven-and-hell-the-last-war.json) |
+| Heaven Attack! | 267723 | [267723-heaven-attack.json](./267723-heaven-attack.json) |
 | Heaven Bound | 209866 | [209866-heaven-bound.json](./209866-heaven-bound.json) |
 | Heaven Burns Red | 132099 | [132099-heaven-burns-red.json](./132099-heaven-burns-red.json) |
 | Heaven Crawler | 305084 | [305084-heaven-crawler.json](./305084-heaven-crawler.json) |
@@ -3976,6 +3977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Galaxy | 277918 | [277918-hell-galaxy.json](./277918-hell-galaxy.json) |
 | Hell Games | 272760 | [272760-hell-games.json](./272760-hell-games.json) |
 | Hell Girl | 272078 | [272078-hell-girl.json](./272078-hell-girl.json) |
+| Hell God | 267724 | [267724-hell-god.json](./267724-hell-god.json) |
 | Hell Green Blue | 203842 | [203842-hell-green-blue.json](./203842-hell-green-blue.json) |
 | Hell Grocery | 219826 | [219826-hell-grocery.json](./219826-hell-grocery.json) |
 | Hell Ground | 256827 | [256827-hell-ground.json](./256827-hell-ground.json) |
