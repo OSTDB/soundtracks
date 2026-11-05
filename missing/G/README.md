@@ -1317,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of the Year 420 Edition | 50319 | [50319-game-of-the-year-420-edition.json](./50319-game-of-the-year-420-edition.json) |
 | Game Of Thrall'an | 321365 | [321365-game-of-thrallan.json](./321365-game-of-thrallan.json) |
 | Game of Throne | 179199 | [179199-game-of-throne.json](./179199-game-of-throne.json) |
+| Game of Throne: Toilet Simulator | 265998 | [265998-game-of-throne-toilet-simulator.json](./265998-game-of-throne-toilet-simulator.json) |
 | Game of Thrones | 5489 | [5489-game-of-thrones.json](./5489-game-of-thrones.json) |
 | Game of Thrones Beyond the Wall | 120205 | [120205-game-of-thrones-beyond-the-wall.json](./120205-game-of-thrones-beyond-the-wall.json) |
 | Game of Thrones: A Telltale Games Series - Episode 1: Iron From Ice | 127067 | [127067-game-of-thrones-a-telltale-games-series-episode-1-iron-from-ice.json](./127067-game-of-thrones-a-telltale-games-series-episode-1-iron-from-ice.json) |
@@ -10332,6 +10333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Party | 66982 | [66982-guilty-party.json](./66982-guilty-party.json) |
 | Guilty Pleasures | 377913 | [377913-guilty-pleasures.json](./377913-guilty-pleasures.json) |
 | Guilty Summer Kiss 2: Bloody Secret | 102948 | [102948-guilty-summer-kiss-2-bloody-secret.json](./102948-guilty-summer-kiss-2-bloody-secret.json) |
+| Guilty: Ashlar | 266002 | [266002-guilty-ashlar.json](./266002-guilty-ashlar.json) |
 | Guilty: Takiko's Nightmare | 314549 | [314549-guilty-takikos-nightmare.json](./314549-guilty-takikos-nightmare.json) |
 | Guimo | 78942 | [78942-guimo.json](./78942-guimo.json) |
 | Guinea Isles | 382304 | [382304-guinea-isles.json](./382304-guinea-isles.json) |
