@@ -2601,6 +2601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nephelem: A Path of Vice and Virtue | 342653 | [342653-nephelem-a-path-of-vice-and-virtue.json](./342653-nephelem-a-path-of-vice-and-virtue.json) |
 | Nephelia: Through the Clouds | 336854 | [336854-nephelia-through-the-clouds.json](./336854-nephelia-through-the-clouds.json) |
 | Nepheshel | 222604 | [222604-nepheshel.json](./222604-nepheshel.json) |
+| Nephew's Vendetta | 282985 | [282985-nephews-vendetta.json](./282985-nephews-vendetta.json) |
 | Nephi's Quest | 71937 | [71937-nephis-quest.json](./71937-nephis-quest.json) |
 | Nephilim | 270973 | [270973-nephilim.json](./270973-nephilim.json) |
 | Nephilim | 341365 | [341365-nephilim.json](./341365-nephilim.json) |
@@ -5858,7 +5859,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No.HazedHeart | 272963 | [272963-no-hazedheart.json](./272963-no-hazedheart.json) |
 | No.L85 | 148763 | [148763-no-l85.json](./148763-no-l85.json) |
 | No1Left | 34283 | [34283-no1left.json](./34283-no1left.json) |
-| No70: Eye of Basir | 35238 | [35238-no70-eye-of-basir.json](./35238-no70-eye-of-basir.json) |
 | Noa Noa! | 115029 | [115029-noa-noa.json](./115029-noa-noa.json) |
 | Noa's Project | 212836 | [212836-noas-project.json](./212836-noas-project.json) |
 | Noah | 130260 | [130260-noah.json](./130260-noah.json) |
