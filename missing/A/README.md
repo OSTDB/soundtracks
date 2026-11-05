@@ -3162,6 +3162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adit 11 | 379557 | [379557-adit-11.json](./379557-adit-11.json) |
 | Adiverboz | 379558 | [379558-adiverboz.json](./379558-adiverboz.json) |
 | Adivinhe a Cor! | 282805 | [282805-adivinhe-a-cor.json](./282805-adivinhe-a-cor.json) |
+| Adivinhe o Jogo | 254249 | [254249-adivinhe-o-jogo.json](./254249-adivinhe-o-jogo.json) |
 | Adj | 76620 | [76620-adj.json](./76620-adj.json) |
 | Adjacency | 29306 | [29306-adjacency.json](./29306-adjacency.json) |
 | ADK Damashii | 151930 | [151930-adk-damashii.json](./151930-adk-damashii.json) |
@@ -16388,6 +16389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
@@ -17454,9 +17456,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar Warfare! | 59778 | [59778-avatar-warfare.json](./59778-avatar-warfare.json) |
 | Avatar World | 288155 | [288155-avatar-world.json](./288155-avatar-world.json) |
 | Avatar: Consolidate | 103831 | [103831-avatar-consolidate.json](./103831-avatar-consolidate.json) |
+| Avatar: Frontiers of Pandora - Collector's Edition | 254222 | [254222-avatar-frontiers-of-pandora-collectors-edition.json](./254222-avatar-frontiers-of-pandora-collectors-edition.json) |
 | Avatar: Frontiers of Pandora - Complete Edition | 392391 | [392391-avatar-frontiers-of-pandora-complete-edition.json](./392391-avatar-frontiers-of-pandora-complete-edition.json) |
 | Avatar: Frontiers of Pandora - Deluxe Edition | 283590 | [283590-avatar-frontiers-of-pandora-deluxe-edition.json](./283590-avatar-frontiers-of-pandora-deluxe-edition.json) |
 | Avatar: Frontiers of Pandora - From the Ashes | 371949 | [371949-avatar-frontiers-of-pandora-from-the-ashes.json](./371949-avatar-frontiers-of-pandora-from-the-ashes.json) |
+| Avatar: Frontiers of Pandora - Gold Edition | 254221 | [254221-avatar-frontiers-of-pandora-gold-edition.json](./254221-avatar-frontiers-of-pandora-gold-edition.json) |
+| Avatar: Frontiers of Pandora - Limited Edition | 254220 | [254220-avatar-frontiers-of-pandora-limited-edition.json](./254220-avatar-frontiers-of-pandora-limited-edition.json) |
 | Avatar: Frontiers of Pandora - Season Pass | 317754 | [317754-avatar-frontiers-of-pandora-season-pass.json](./317754-avatar-frontiers-of-pandora-season-pass.json) |
 | Avatar: Frontiers of Pandora - Secrets of the Spire | 319229 | [319229-avatar-frontiers-of-pandora-secrets-of-the-spire.json](./319229-avatar-frontiers-of-pandora-secrets-of-the-spire.json) |
 | Avatar: Frontiers of Pandora - Sky Rider Starter Pack | 332042 | [332042-avatar-frontiers-of-pandora-sky-rider-starter-pack.json](./332042-avatar-frontiers-of-pandora-sky-rider-starter-pack.json) |
