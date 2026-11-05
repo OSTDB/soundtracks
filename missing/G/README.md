@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives 45: Chura-umi Monogatari | 251464 | [251464-g-mode-archives-45-chura-umi-monogatari.json](./251464-g-mode-archives-45-chura-umi-monogatari.json) |
 | G-Mode Archives 46: Keitai Shoujo: Koi+Hime - Koi ni Ochita Cinderella-hime | 251463 | [251463-g-mode-archives-46-keitai-shoujo-koi-hime-koi-ni-ochita-cinderella-hime.json](./251463-g-mode-archives-46-keitai-shoujo-koi-hime-koi-ni-ochita-cinderella-hime.json) |
 | G-Mode Archives 47: 12Gems | 251462 | [251462-g-mode-archives-47-12gems.json](./251462-g-mode-archives-47-12gems.json) |
+| G-Mode Archives 48: Dragon x Dragon 2 | 257757 | [257757-g-mode-archives-48-dragon-x-dragon-2.json](./257757-g-mode-archives-48-dragon-x-dragon-2.json) |
 | G-Mode Archives 49: Gregory Horror Show | 271045 | [271045-g-mode-archives-49-gregory-horror-show.json](./271045-g-mode-archives-49-gregory-horror-show.json) |
 | G-Mode Archives 50: Midnight Horror School | 271044 | [271044-g-mode-archives-50-midnight-horror-school.json](./271044-g-mode-archives-50-midnight-horror-school.json) |
 | G-Mode Archives 51: Trio the Punch | 278197 | [278197-g-mode-archives-51-trio-the-punch.json](./278197-g-mode-archives-51-trio-the-punch.json) |
