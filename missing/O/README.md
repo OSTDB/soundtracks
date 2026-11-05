@@ -1071,7 +1071,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OG Puzzlers: Synthwave Astronauts | 292253 | [292253-og-puzzlers-synthwave-astronauts.json](./292253-og-puzzlers-synthwave-astronauts.json) |
 | OG Puzzlers: Synthwave Boats | 291362 | [291362-og-puzzlers-synthwave-boats.json](./291362-og-puzzlers-synthwave-boats.json) |
 | OG Puzzlers: Synthwave Cars | 288788 | [288788-og-puzzlers-synthwave-cars.json](./288788-og-puzzlers-synthwave-cars.json) |
+| OG Puzzlers: Synthwave Cats | 293964 | [293964-og-puzzlers-synthwave-cats.json](./293964-og-puzzlers-synthwave-cats.json) |
 | OG Puzzlers: Synthwave Dinosaurs | 291234 | [291234-og-puzzlers-synthwave-dinosaurs.json](./291234-og-puzzlers-synthwave-dinosaurs.json) |
+| OG Puzzlers: Synthwave Dragons | 293965 | [293965-og-puzzlers-synthwave-dragons.json](./293965-og-puzzlers-synthwave-dragons.json) |
 | OG Puzzlers: Synthwave Knights | 291309 | [291309-og-puzzlers-synthwave-knights.json](./291309-og-puzzlers-synthwave-knights.json) |
 | OG Puzzlers: Synthwave Monsters | 291359 | [291359-og-puzzlers-synthwave-monsters.json](./291359-og-puzzlers-synthwave-monsters.json) |
 | OG Puzzlers: Synthwave Vampires | 341502 | [341502-og-puzzlers-synthwave-vampires.json](./341502-og-puzzlers-synthwave-vampires.json) |
