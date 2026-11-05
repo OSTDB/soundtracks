@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sabbat of the Witch | 105342 | [105342-sabbat-of-the-witch.json](./105342-sabbat-of-the-witch.json) |
 | Sabbat: Director's Kvt | 128873 | [128873-sabbat-directors-kvt.json](./128873-sabbat-directors-kvt.json) |
 | Sabbath | 275548 | [275548-sabbath.json](./275548-sabbath.json) |
+| Saber Ball | 247836 | [247836-saber-ball.json](./247836-saber-ball.json) |
 | Saber Fight VR | 127529 | [127529-saber-fight-vr.json](./127529-saber-fight-vr.json) |
 | Saber Marionette J: Battle Sabers | 44821 | [44821-saber-marionette-j-battle-sabers.json](./44821-saber-marionette-j-battle-sabers.json) |
 | Saber Merge 3D: Galaxy Battle | 214290 | [214290-saber-merge-3d-galaxy-battle.json](./214290-saber-merge-3d-galaxy-battle.json) |
@@ -5989,6 +5990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Mysteries | 80506 | [80506-seven-mysteries.json](./80506-seven-mysteries.json) |
 | Seven Mysteries: The Last Page | 86461 | [86461-seven-mysteries-the-last-page.json](./86461-seven-mysteries-the-last-page.json) |
 | Seven Nexus | 381639 | [381639-seven-nexus.json](./381639-seven-nexus.json) |
+| Seven Nights Ghost | 247856 | [247856-seven-nights-ghost.json](./247856-seven-nights-ghost.json) |
 | Seven Nights With Hanako | 414574 | [414574-seven-nights-with-hanako.json](./414574-seven-nights-with-hanako.json) |
 | Seven of Heart | 176989 | [176989-seven-of-heart.json](./176989-seven-of-heart.json) |
 | Seven Online Gamers: Offline | 77707 | [77707-seven-online-gamers-offline.json](./77707-seven-online-gamers-offline.json) |
@@ -6862,6 +6864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShadowHawk | 37885 | [37885-shadowhawk.json](./37885-shadowhawk.json) |
 | Shadowkeep | 24779 | [24779-shadowkeep.json](./24779-shadowkeep.json) |
 | Shadowkin | 244515 | [244515-shadowkin.json](./244515-shadowkin.json) |
+| ShadowKitty: Thief by Night | 247809 | [247809-shadowkitty-thief-by-night.json](./247809-shadowkitty-thief-by-night.json) |
 | Shadowland | 119020 | [119020-shadowland.json](./119020-shadowland.json) |
 | Shadowland | 206147 | [206147-shadowland.json](./206147-shadowland.json) |
 | Shadowland: Rise of the Fallen | 360720 | [360720-shadowland-rise-of-the-fallen.json](./360720-shadowland-rise-of-the-fallen.json) |
@@ -9530,6 +9533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shroom and Gloom: Jam Version | 191809 | [191809-shroom-and-gloom-jam-version.json](./191809-shroom-and-gloom-jam-version.json) |
 | Shroom Editor | 320235 | [320235-shroom-editor.json](./320235-shroom-editor.json) |
 | Shroom Keeper | 258616 | [258616-shroom-keeper.json](./258616-shroom-keeper.json) |
+| Shroom Siege | 247811 | [247811-shroom-siege.json](./247811-shroom-siege.json) |
 | Shroom Soup | 410074 | [410074-shroom-soup.json](./410074-shroom-soup.json) |
 | Shroom Valley | 314575 | [314575-shroom-valley.json](./314575-shroom-valley.json) |
 | Shroomageddon | 388305 | [388305-shroomageddon.json](./388305-shroomageddon.json) |
@@ -13259,6 +13263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slice 'Em Up! | 185130 | [185130-slice-em-up.json](./185130-slice-em-up.json) |
 | Slice & Dice | 176099 | [176099-slice-and-dice.json](./176099-slice-and-dice.json) |
 | Slice Adventure | 328201 | [328201-slice-adventure.json](./328201-slice-adventure.json) |
+| Slice and Bite | 247819 | [247819-slice-and-bite.json](./247819-slice-and-bite.json) |
 | Slice Go | 107572 | [107572-slice-go.json](./107572-slice-go.json) |
 | Slice HD | 104491 | [104491-slice-hd.json](./104491-slice-hd.json) |
 | Slice It All! | 305417 | [305417-slice-it-all.json](./305417-slice-it-all.json) |
@@ -16866,6 +16871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Death | 236888 | [236888-songs-of-death.json](./236888-songs-of-death.json) |
 | Songs of Everjade | 275083 | [275083-songs-of-everjade.json](./275083-songs-of-everjade.json) |
 | Songs of Glimmerwick | 189014 | [189014-songs-of-glimmerwick.json](./189014-songs-of-glimmerwick.json) |
+| Songs of Life | 247823 | [247823-songs-of-life.json](./247823-songs-of-life.json) |
 | Songs of Rats | 323072 | [323072-songs-of-rats.json](./323072-songs-of-rats.json) |
 | Songs of Silence | 238460 | [238460-songs-of-silence.json](./238460-songs-of-silence.json) |
 | Songs of Silence: Celestial Church Expansion | 383020 | [383020-songs-of-silence-celestial-church-expansion.json](./383020-songs-of-silence-celestial-church-expansion.json) |
@@ -19347,6 +19353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -19597,6 +19604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Orb | 105014 | [105014-space-orb.json](./105014-space-orb.json) |
 | Space Orbs | 175766 | [175766-space-orbs.json](./175766-space-orbs.json) |
 | Space Orcs Brawl | 348895 | [348895-space-orcs-brawl.json](./348895-space-orcs-brawl.json) |
+| Space Order Mine | 247832 | [247832-space-order-mine.json](./247832-space-order-mine.json) |
 | Space Otter Charlie | 132454 | [132454-space-otter-charlie.json](./132454-space-otter-charlie.json) |
 | Space Out | 195166 | [195166-space-out.json](./195166-space-out.json) |
 | Space Out | 72627 | [72627-space-out.json](./72627-space-out.json) |
@@ -21033,6 +21041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpellForce: Universe | 78728 | [78728-spellforce-universe.json](./78728-spellforce-universe.json) |
 | Spellforge | 32864 | [32864-spellforge.json](./32864-spellforge.json) |
 | Spellforged | 295357 | [295357-spellforged.json](./295357-spellforged.json) |
+| Spellfort | 247835 | [247835-spellfort.json](./247835-spellfort.json) |
 | Spellgrimage | 199226 | [199226-spellgrimage.json](./199226-spellgrimage.json) |
 | Spellgroove | 220600 | [220600-spellgroove.json](./220600-spellgroove.json) |
 | Spellhack!! | 295097 | [295097-spellhack.json](./295097-spellhack.json) |
@@ -24894,6 +24903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starr Mazer: DSP | 80547 | [80547-starr-mazer-dsp.json](./80547-starr-mazer-dsp.json) |
 | Starr Ringer | 220502 | [220502-starr-ringer.json](./220502-starr-ringer.json) |
 | StarRaver | 237072 | [237072-starraver.json](./237072-starraver.json) |
+| Starri | 247839 | [247839-starri.json](./247839-starri.json) |
 | Starry Flowers | 145644 | [145644-starry-flowers.json](./145644-starry-flowers.json) |
 | Starry Fly | 237585 | [237585-starry-fly.json](./237585-starry-fly.json) |
 | Starry Garden: Animal Park | 210365 | [210365-starry-garden-animal-park.json](./210365-starry-garden-animal-park.json) |
@@ -32086,6 +32096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Power League 4 | 44431 | [44431-super-power-league-4.json](./44431-super-power-league-4.json) |
 | Super Power League FX | 65284 | [65284-super-power-league-fx.json](./65284-super-power-league-fx.json) |
 | Super Power Man | 331631 | [331631-super-power-man.json](./331631-super-power-man.json) |
+| Super Power Racing | 247837 | [247837-super-power-racing.json](./247837-super-power-racing.json) |
 | Super Power: Rising of A.I. | 157016 | [157016-super-power-rising-of-a-i.json](./157016-super-power-rising-of-a-i.json) |
 | Super Powered Battle Friends | 116023 | [116023-super-powered-battle-friends.json](./116023-super-powered-battle-friends.json) |
 | Super Prehistoric World Adventure | 278656 | [278656-super-prehistoric-world-adventure.json](./278656-super-prehistoric-world-adventure.json) |
@@ -33707,6 +33718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Horror #8,436 | 147205 | [147205-survival-horror-8-436.json](./147205-survival-horror-8-436.json) |
 | Survival In Africa | 167474 | [167474-survival-in-africa.json](./167474-survival-in-africa.json) |
 | Survival in Draconia | 309468 | [309468-survival-in-draconia.json](./309468-survival-in-draconia.json) |
+| Survival in Snow | 247818 | [247818-survival-in-snow.json](./247818-survival-in-snow.json) |
 | Survival in Three Kingdoms | 115803 | [115803-survival-in-three-kingdoms.json](./115803-survival-in-three-kingdoms.json) |
 | Survival Island | 201672 | [201672-survival-island.json](./201672-survival-island.json) |
 | Survival Island | 40690 | [40690-survival-island.json](./40690-survival-island.json) |
