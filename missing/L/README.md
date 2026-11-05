@@ -1972,6 +1972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Concert | 309011 | [309011-le-concert.json](./309011-le-concert.json) |
 | Le Concert ff Fortissimo | 309009 | [309009-le-concert-ff-fortissimo.json](./309009-le-concert-ff-fortissimo.json) |
 | Le Concert pp Pianissimo | 309008 | [309008-le-concert-pp-pianissimo.json](./309008-le-concert-pp-pianissimo.json) |
+| Le Corps-Glitch: Multitudes | 268261 | [268261-le-corps-glitch-multitudes.json](./268261-le-corps-glitch-multitudes.json) |
 | Le Crime Du Parking | 264238 | [264238-le-crime-du-parking.json](./264238-le-crime-du-parking.json) |
 | Le Dernier Don | 303624 | [303624-le-dernier-don.json](./303624-le-dernier-don.json) |
 | Le Fetiche Maya | 10848 | [10848-le-fetiche-maya.json](./10848-le-fetiche-maya.json) |
@@ -2281,6 +2282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leave Me Alone! | 177953 | [177953-leave-me-alone.json](./177953-leave-me-alone.json) |
 | Leave No One Behind: la Drang | 152994 | [152994-leave-no-one-behind-la-drang.json](./152994-leave-no-one-behind-la-drang.json) |
 | Leave No One Behind: la Drang VR | 203745 | [203745-leave-no-one-behind-la-drang-vr.json](./203745-leave-no-one-behind-la-drang-vr.json) |
+| Leave Panda Away | 268262 | [268262-leave-panda-away.json](./268262-leave-panda-away.json) |
 | Leave the Nest | 32662 | [32662-leave-the-nest.json](./32662-leave-the-nest.json) |
 | Leave the Room | 180408 | [180408-leave-the-room.json](./180408-leave-the-room.json) |
 | Leave! | 169795 | [169795-leave.json](./169795-leave.json) |
@@ -2635,6 +2637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Ancient Sword | 55818 | [55818-legend-of-the-ancient-sword.json](./55818-legend-of-the-ancient-sword.json) |
 | Legend of the Animal Spirits | 206154 | [206154-legend-of-the-animal-spirits.json](./206154-legend-of-the-animal-spirits.json) |
 | Legend of the Ape | 165776 | [165776-legend-of-the-ape.json](./165776-legend-of-the-ape.json) |
+| Legend of the Archer | 268263 | [268263-legend-of-the-archer.json](./268263-legend-of-the-archer.json) |
 | Legend of the Assassin | 114226 | [114226-legend-of-the-assassin.json](./114226-legend-of-the-assassin.json) |
 | Legend of the Coin Knight | 395051 | [395051-legend-of-the-coin-knight.json](./395051-legend-of-the-coin-knight.json) |
 | Legend of the Corndog(s) | 382551 | [382551-legend-of-the-corndog-s.json](./382551-legend-of-the-corndog-s.json) |
@@ -2648,6 +2651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Hunter: House of Dragons | 313221 | [313221-legend-of-the-hunter-house-of-dragons.json](./313221-legend-of-the-hunter-house-of-dragons.json) |
 | Legend of the Kitties: Return of Echoes | 332355 | [332355-legend-of-the-kitties-return-of-echoes.json](./332355-legend-of-the-kitties-return-of-echoes.json) |
 | Legend of the Knucker-Hole | 62452 | [62452-legend-of-the-knucker-hole.json](./62452-legend-of-the-knucker-hole.json) |
+| Legend of the Landscaper | 268260 | [268260-legend-of-the-landscaper.json](./268260-legend-of-the-landscaper.json) |
 | Legend of the Lost Dragons | 134580 | [134580-legend-of-the-lost-dragons.json](./134580-legend-of-the-lost-dragons.json) |
 | Legend of the Ma On | 252662 | [252662-legend-of-the-ma-on.json](./252662-legend-of-the-ma-on.json) |
 | Legend of the Mana Sword | 321864 | [321864-legend-of-the-mana-sword.json](./321864-legend-of-the-mana-sword.json) |
@@ -2765,6 +2769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legende im Eis | 138525 | [138525-legende-im-eis.json](./138525-legende-im-eis.json) |
 | Legendino | 224021 | [224021-legendino.json](./224021-legendino.json) |
 | Legendo's the Three Musketeers | 71533 | [71533-legendos-the-three-musketeers.json](./71533-legendos-the-three-musketeers.json) |
+| Legends | 268259 | [268259-legends.json](./268259-legends.json) |
 | Legends & Myths Bundle | 125137 | [125137-legends-and-myths-bundle.json](./125137-legends-and-myths-bundle.json) |
 | Legends Aligned | 335085 | [335085-legends-aligned.json](./335085-legends-aligned.json) |
 | Legends Aligned: Minis in Conflict | 343710 | [343710-legends-aligned-minis-in-conflict.json](./343710-legends-aligned-minis-in-conflict.json) |
@@ -2850,6 +2855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Persia | 10390 | [10390-legends-of-persia.json](./10390-legends-of-persia.json) |
 | Legends of Pixelia | 35227 | [35227-legends-of-pixelia.json](./35227-legends-of-pixelia.json) |
 | Legends of Runeterra | 124701 | [124701-legends-of-runeterra.json](./124701-legends-of-runeterra.json) |
+| Legends of Savvarah: Flowers and Scorpions | 268264 | [268264-legends-of-savvarah-flowers-and-scorpions.json](./268264-legends-of-savvarah-flowers-and-scorpions.json) |
 | Legends of Savvarah: Time of Pariah | 264002 | [264002-legends-of-savvarah-time-of-pariah.json](./264002-legends-of-savvarah-time-of-pariah.json) |
 | Legends of Seven Seas | 221406 | [221406-legends-of-seven-seas.json](./221406-legends-of-seven-seas.json) |
 | Legends of Snooker: One Shot | 170937 | [170937-legends-of-snooker-one-shot.json](./170937-legends-of-snooker-one-shot.json) |
@@ -3399,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lens | 349181 | [349181-lens.json](./349181-lens.json) |
 | Lens Gloss | 272236 | [272236-lens-gloss.json](./272236-lens-gloss.json) |
 | Lens Of Fear | 361040 | [361040-lens-of-fear.json](./361040-lens-of-fear.json) |
+| Lens Of Horror | 268267 | [268267-lens-of-horror.json](./268267-lens-of-horror.json) |
 | LenscraftCube | 373907 | [373907-lenscraftcube.json](./373907-lenscraftcube.json) |
 | Lent: The Easter Bunny - Lent's Adventure: Story One | 215123 | [215123-lent-the-easter-bunny-lents-adventure-story-one.json](./215123-lent-the-easter-bunny-lents-adventure-story-one.json) |
 | Léo | 386726 | [386726-leo.json](./386726-leo.json) |
@@ -8866,6 +8873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoveSoTea | 250279 | [250279-lovesotea.json](./250279-lovesotea.json) |
 | LoveUnholyc: Dark Fantasy Love | 296785 | [296785-loveunholyc-dark-fantasy-love.json](./296785-loveunholyc-dark-fantasy-love.json) |
 | LoveXLust | 279550 | [279550-lovexlust.json](./279550-lovexlust.json) |
+| Lovey Dovey | 268266 | [268266-lovey-dovey.json](./268266-lovey-dovey.json) |
 | Lovey-Dovey Lockdown | 258833 | [258833-lovey-dovey-lockdown.json](./258833-lovey-dovey-lockdown.json) |
 | Lovin House | 153845 | [153845-lovin-house.json](./153845-lovin-house.json) |
 | Loving Deads: The House of the Dead EX | 72769 | [72769-loving-deads-the-house-of-the-dead-ex.json](./72769-loving-deads-the-house-of-the-dead-ex.json) |
@@ -9549,6 +9557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna: Obscura | 341493 | [341493-luna-obscura.json](./341493-luna-obscura.json) |
 | Luna: Shattered Hearts - Episode 1 | 36173 | [36173-luna-shattered-hearts-episode-1.json](./36173-luna-shattered-hearts-episode-1.json) |
 | Luna: Supernatural Hunter | 189103 | [189103-luna-supernatural-hunter.json](./189103-luna-supernatural-hunter.json) |
+| Luna's Adventure: The Overlord | 268268 | [268268-lunas-adventure-the-overlord.json](./268268-lunas-adventure-the-overlord.json) |
 | Luna's Cathouse | 331220 | [331220-lunas-cathouse.json](./331220-lunas-cathouse.json) |
 | Luna's Diary | 382532 | [382532-lunas-diary.json](./382532-lunas-diary.json) |
 | Luna's Eyes | 302902 | [302902-lunas-eyes.json](./302902-lunas-eyes.json) |
