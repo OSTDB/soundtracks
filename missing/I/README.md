@@ -3784,7 +3784,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -6295,19 +6294,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isometric World | 204279 | [204279-isometric-world.json](./204279-isometric-world.json) |
 | Isometric World: Frame of Mind | 150922 | [150922-isometric-world-frame-of-mind.json](./150922-isometric-world-frame-of-mind.json) |
 | Isomorph | 31614 | [31614-isomorph.json](./31614-isomorph.json) |
+| Isonzo: Alpine Units Pack | 263256 | [263256-isonzo-alpine-units-pack.json](./263256-isonzo-alpine-units-pack.json) |
 | Isonzo: Altitude Units Pack | 293430 | [293430-isonzo-altitude-units-pack.json](./293430-isonzo-altitude-units-pack.json) |
 | Isonzo: Avanti Savoia Units Pack | 373587 | [373587-isonzo-avanti-savoia-units-pack.json](./373587-isonzo-avanti-savoia-units-pack.json) |
 | Isonzo: Collector's Edition | 218548 | [218548-isonzo-collectors-edition.json](./218548-isonzo-collectors-edition.json) |
 | Isonzo: Deluxe Edition | 194823 | [194823-isonzo-deluxe-edition.json](./194823-isonzo-deluxe-edition.json) |
+| Isonzo: Elite Units Pack | 263255 | [263255-isonzo-elite-units-pack.json](./263255-isonzo-elite-units-pack.json) |
 | Isonzo: Expedition Units | 303277 | [303277-isonzo-expedition-units.json](./303277-isonzo-expedition-units.json) |
 | Isonzo: First Wave | 265715 | [265715-isonzo-first-wave.json](./265715-isonzo-first-wave.json) |
 | Isonzo: First Wave Edition | 373585 | [373585-isonzo-first-wave-edition.json](./373585-isonzo-first-wave-edition.json) |
 | Isonzo: Glacial Units Pack | 265810 | [265810-isonzo-glacial-units-pack.json](./265810-isonzo-glacial-units-pack.json) |
 | Isonzo: Movember Handlebar | 373589 | [373589-isonzo-movember-handlebar.json](./373589-isonzo-movember-handlebar.json) |
+| Isonzo: Reserve Units Pack | 263253 | [263253-isonzo-reserve-units-pack.json](./263253-isonzo-reserve-units-pack.json) |
 | Isonzo: Royal Units Pack | 231014 | [231014-isonzo-royal-units-pack.json](./231014-isonzo-royal-units-pack.json) |
 | Isonzo: Shellshocked Units Pack | 373586 | [373586-isonzo-shellshocked-units-pack.json](./373586-isonzo-shellshocked-units-pack.json) |
 | Isonzo: Third Wave | 296938 | [296938-isonzo-third-wave.json](./296938-isonzo-third-wave.json) |
 | Isonzo: Ultimate Edition | 301774 | [301774-isonzo-ultimate-edition.json](./301774-isonzo-ultimate-edition.json) |
+| Isonzo: Veteran Units Pack | 263254 | [263254-isonzo-veteran-units-pack.json](./263254-isonzo-veteran-units-pack.json) |
 | Isop0dyssey | 250830 | [250830-isop0dyssey.json](./250830-isop0dyssey.json) |
 | Isophoria | 375316 | [375316-isophoria.json](./375316-isophoria.json) |
 | Isopix Art Club | 213919 | [213919-isopix-art-club.json](./213919-isopix-art-club.json) |
