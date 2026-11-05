@@ -952,6 +952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2228,6 +2229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baoxiao Duobiqiu | 97353 | [97353-baoxiao-duobiqiu.json](./97353-baoxiao-duobiqiu.json) |
 | Bàoxiào Sānguó | 92605 | [92605-baoxiao-sanguo.json](./92605-baoxiao-sanguo.json) |
 | Bapbap | 186656 | [186656-bapbap.json](./186656-bapbap.json) |
+| Baphomet | 275949 | [275949-baphomet.json](./275949-baphomet.json) |
 | Baphomet: Eternal Flame | 244938 | [244938-baphomet-eternal-flame.json](./244938-baphomet-eternal-flame.json) |
 | Baphomet's Satellite | 262273 | [262273-baphomets-satellite.json](./262273-baphomets-satellite.json) |
 | Baptism | 75922 | [75922-baptism.json](./75922-baptism.json) |
@@ -10743,6 +10745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Labs | 155862 | [155862-blood-labs.json](./155862-blood-labs.json) |
 | Blood Lily Cthulhu Mythos | 419313 | [419313-blood-lily-cthulhu-mythos.json](./419313-blood-lily-cthulhu-mythos.json) |
 | Blood Lily Ghoststories | 249946 | [249946-blood-lily-ghoststories.json](./249946-blood-lily-ghoststories.json) |
+| Blood Lily Loop | 275962 | [275962-blood-lily-loop.json](./275962-blood-lily-loop.json) |
 | Blood Lily: Killers Can't Sink a Yuri Ship | 360199 | [360199-blood-lily-killers-cant-sink-a-yuri-ship.json](./360199-blood-lily-killers-cant-sink-a-yuri-ship.json) |
 | Blood Lines | 45056 | [45056-blood-lines.json](./45056-blood-lines.json) |
 | Blood Lines: Magicians' Chase 2 | 300775 | [300775-blood-lines-magicians-chase-2.json](./300775-blood-lines-magicians-chase-2.json) |
@@ -17947,6 +17950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BVS Solitaire Collection | 93360 | [93360-bvs-solitaire-collection.json](./93360-bvs-solitaire-collection.json) |
 | BVS Video Poker | 131205 | [131205-bvs-video-poker.json](./131205-bvs-video-poker.json) |
 | Bwirds | 321221 | [321221-bwirds.json](./321221-bwirds.json) |
+| Bwudaling: Da Fight for da Bwudahood | 275948 | [275948-bwudaling-da-fight-for-da-bwudahood.json](./275948-bwudaling-da-fight-for-da-bwudahood.json) |
 | By Any Means Necessary | 65818 | [65818-by-any-means-necessary.json](./65818-by-any-means-necessary.json) |
 | By Bait or By Bullet | 369238 | [369238-by-bait-or-by-bullet.json](./369238-by-bait-or-by-bullet.json) |
 | By Day and Night | 185393 | [185393-by-day-and-night.json](./185393-by-day-and-night.json) |
