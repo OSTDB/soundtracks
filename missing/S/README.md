@@ -17945,7 +17945,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sort Labs | 420319 | [420319-sort-labs.json](./420319-sort-labs.json) |
 | Sort Letters | 377769 | [377769-sort-letters.json](./377769-sort-letters.json) |
 | Sort of Justice: Chapter 1 | 335991 | [335991-sort-of-justice-chapter-1.json](./335991-sort-of-justice-chapter-1.json) |
-| Sort the Court! | 80624 | [80624-sort-the-court.json](./80624-sort-the-court.json) |
 | Sort the Cube | 106392 | [106392-sort-the-cube.json](./106392-sort-the-cube.json) |
 | Sort the Socks | 87624 | [87624-sort-the-socks.json](./87624-sort-the-socks.json) |
 | Sort The Toys | 419887 | [419887-sort-the-toys.json](./419887-sort-the-toys.json) |
@@ -19149,6 +19148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -19425,7 +19425,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Pirate Dernshous | 229320 | [229320-space-pirate-dernshous.json](./229320-space-pirate-dernshous.json) |
 | Space Pirate King | 149769 | [149769-space-pirate-king.json](./149769-space-pirate-king.json) |
 | Space Pirate Sara | 139039 | [139039-space-pirate-sara.json](./139039-space-pirate-sara.json) |
-| Space Pirate Trainer | 34041 | [34041-space-pirate-trainer.json](./34041-space-pirate-trainer.json) |
 | Space Pirate Trainer DX | 174556 | [174556-space-pirate-trainer-dx.json](./174556-space-pirate-trainer-dx.json) |
 | Space Pirateer | 293039 | [293039-space-pirateer.json](./293039-space-pirateer.json) |
 | Space Pirates | 176837 | [176837-space-pirates.json](./176837-space-pirates.json) |
