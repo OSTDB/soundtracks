@@ -2762,6 +2762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4868,6 +4869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kogent Defender | 102916 | [102916-kogent-defender.json](./102916-kogent-defender.json) |
 | Kogepan: Pan mo Game wo Yaru-rashii | 267588 | [267588-kogepan-pan-mo-game-wo-yaru-rashii.json](./267588-kogepan-pan-mo-game-wo-yaru-rashii.json) |
 | Kogi | 209824 | [209824-kogi.json](./209824-kogi.json) |
+| Koginja | 278804 | [278804-koginja.json](./278804-koginja.json) |
 | Koguma-Chan no Daibouken | 286586 | [286586-koguma-chan-no-daibouken.json](./286586-koguma-chan-no-daibouken.json) |
 | Koguru Guru-guru | 59006 | [59006-koguru-guru-guru.json](./59006-koguru-guru-guru.json) |
 | Koh Lanta: Les Aventuriers | 171285 | [171285-koh-lanta-les-aventuriers.json](./171285-koh-lanta-les-aventuriers.json) |
