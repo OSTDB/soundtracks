@@ -2948,6 +2948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fastest Finger First! 3 Hint Quiz | 283287 | [283287-fastest-finger-first-3-hint-quiz.json](./283287-fastest-finger-first-3-hint-quiz.json) |
 | Fastest Hands in the Wasd | 167922 | [167922-fastest-hands-in-the-wasd.json](./167922-fastest-hands-in-the-wasd.json) |
 | Fastest on the Buzzer | 254630 | [254630-fastest-on-the-buzzer.json](./254630-fastest-on-the-buzzer.json) |
+| Fastest on the Buzzer | 256025 | [256025-fastest-on-the-buzzer.json](./256025-fastest-on-the-buzzer.json) |
 | FastFly | 349895 | [349895-fastfly.json](./349895-fastfly.json) |
 | FastFWD | 183388 | [183388-fastfwd.json](./183388-fastfwd.json) |
 | FastGo Running | 104021 | [104021-fastgo-running.json](./104021-fastgo-running.json) |
