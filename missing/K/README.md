@@ -1708,6 +1708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemopop! | 309863 | [309863-kemopop.json](./309863-kemopop.json) |
 | Kemotaku | 325527 | [325527-kemotaku.json](./325527-kemotaku.json) |
 | Kemoverse Online | 287992 | [287992-kemoverse-online.json](./287992-kemoverse-online.json) |
+| Kemps | 258792 | [258792-kemps.json](./258792-kemps.json) |
 | Kemuri | 279625 | [279625-kemuri.json](./279625-kemuri.json) |
 | Ken Follett's The Pillars of the Earth | 19297 | [19297-ken-folletts-the-pillars-of-the-earth.json](./19297-ken-folletts-the-pillars-of-the-earth.json) |
 | Ken ga Kimi for S | 144572 | [144572-ken-ga-kimi-for-s.json](./144572-ken-ga-kimi-for-s.json) |
@@ -4836,6 +4837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kobito-zukan: Kobito no Fushigi Jikken Set | 329947 | [329947-kobito-zukan-kobito-no-fushigi-jikken-set.json](./329947-kobito-zukan-kobito-no-fushigi-jikken-set.json) |
 | Kobo Redux | 182651 | [182651-kobo-redux.json](./182651-kobo-redux.json) |
 | Kobold Adventure | 135553 | [135553-kobold-adventure.json](./135553-kobold-adventure.json) |
+| Kobold Castle | 258798 | [258798-kobold-castle.json](./258798-kobold-castle.json) |
 | Kobold Delvers | 403190 | [403190-kobold-delvers.json](./403190-kobold-delvers.json) |
 | Kobold Garden | 177335 | [177335-kobold-garden.json](./177335-kobold-garden.json) |
 | Kobold Quest | 92666 | [92666-kobold-quest.json](./92666-kobold-quest.json) |
