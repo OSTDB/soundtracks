@@ -3883,6 +3883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aero The Acro-Bat: Rascal Rival Revenge | 312090 | [312090-aero-the-acro-bat-rascal-rival-revenge.json](./312090-aero-the-acro-bat-rascal-rival-revenge.json) |
 | Aero's Quest | 35321 | [35321-aeros-quest.json](./35321-aeros-quest.json) |
 | Aerobat | 18199 | [18199-aerobat.json](./18199-aerobat.json) |
+| Aerobics Revolution | 269323 | [269323-aerobics-revolution.json](./269323-aerobics-revolution.json) |
 | Aerobots | 120425 | [120425-aerobots.json](./120425-aerobots.json) |
 | Aerocorp | 379492 | [379492-aerocorp.json](./379492-aerocorp.json) |
 | Aerocraft | 134973 | [134973-aerocraft.json](./134973-aerocraft.json) |
@@ -4939,6 +4940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI ha Sabaku no Bara no Yume o Miru | 82936 | [82936-ai-ha-sabaku-no-bara-no-yume-o-miru.json](./82936-ai-ha-sabaku-no-bara-no-yume-o-miru.json) |
 | AI Hunter | 151027 | [151027-ai-hunter.json](./151027-ai-hunter.json) |
 | AI Igo | 45447 | [45447-ai-igo.json](./45447-ai-igo.json) |
+| AI Igo 2003 | 269325 | [269325-ai-igo-2003.json](./269325-ai-igo-2003.json) |
 | Ai Iijima: Good Island Cafe | 45446 | [45446-ai-iijima-good-island-cafe.json](./45446-ai-iijima-good-island-cafe.json) |
 | AI is home | 413840 | [413840-ai-is-home.json](./413840-ai-is-home.json) |
 | AI Kills All Humans | 258425 | [258425-ai-kills-all-humans.json](./258425-ai-kills-all-humans.json) |
@@ -4970,6 +4972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ai Senshi Nicol | 41237 | [41237-ai-senshi-nicol.json](./41237-ai-senshi-nicol.json) |
 | Ai Shimai: Docchi ni Suruno!! | 78470 | [78470-ai-shimai-docchi-ni-suruno.json](./78470-ai-shimai-docchi-ni-suruno.json) |
 | AI Shogi 2 | 45445 | [45445-ai-shogi-2.json](./45445-ai-shogi-2.json) |
+| AI Shogi 2003 | 269328 | [269328-ai-shogi-2003.json](./269328-ai-shogi-2003.json) |
 | AI Shoujo | 127944 | [127944-ai-shoujo.json](./127944-ai-shoujo.json) |
 | AI Slop Simulator | 398536 | [398536-ai-slop-simulator.json](./398536-ai-slop-simulator.json) |
 | AI Solitaire | 303127 | [303127-ai-solitaire.json](./303127-ai-solitaire.json) |
@@ -5875,6 +5878,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akuarium | 147471 | [147471-akuarium.json](./147471-akuarium.json) |
 | Akuatica | 34497 | [34497-akuatica.json](./34497-akuatica.json) |
 | Akudaikan | 253751 | [253751-akudaikan.json](./253751-akudaikan.json) |
+| Akudaikan 2: Mousouden | 269332 | [269332-akudaikan-2-mousouden.json](./269332-akudaikan-2-mousouden.json) |
+| Akudaikan 3 | 269334 | [269334-akudaikan-3.json](./269334-akudaikan-3.json) |
 | Akudaikan Manyuuki | 56517 | [56517-akudaikan-manyuuki.json](./56517-akudaikan-manyuuki.json) |
 | Akudaikan Manyuuki: Seigi no Yaiba | 56513 | [56513-akudaikan-manyuuki-seigi-no-yaiba.json](./56513-akudaikan-manyuuki-seigi-no-yaiba.json) |
 | Akui | 184584 | [184584-akui.json](./184584-akui.json) |
@@ -8295,6 +8300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | America Expansion Pack | 131186 | [131186-america-expansion-pack.json](./131186-america-expansion-pack.json) |
 | America is Doing Great | 136486 | [136486-america-is-doing-great.json](./136486-america-is-doing-great.json) |
 | America Oudan Ultra Quiz | 268631 | [268631-america-oudan-ultra-quiz.json](./268631-america-oudan-ultra-quiz.json) |
+| America Oudan Ultra Quiz | 269336 | [269336-america-oudan-ultra-quiz.json](./269336-america-oudan-ultra-quiz.json) |
 | America Oudan Ultra Quiz | 282817 | [282817-america-oudan-ultra-quiz.json](./282817-america-oudan-ultra-quiz.json) |
 | America Oudan Ultra Quiz | 45442 | [45442-america-oudan-ultra-quiz.json](./45442-america-oudan-ultra-quiz.json) |
 | America Oudan Ultra Quiz: Part 3 | 300695 | [300695-america-oudan-ultra-quiz-part-3.json](./300695-america-oudan-ultra-quiz-part-3.json) |
@@ -9399,6 +9405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angelique Special | 45436 | [45436-angelique-special.json](./45436-angelique-special.json) |
 | Angelique Special 2 | 45435 | [45435-angelique-special-2.json](./45435-angelique-special-2.json) |
 | Angelique Trois | 72678 | [72678-angelique-trois.json](./72678-angelique-trois.json) |
+| Angelique Trois: Aizou-hen | 269340 | [269340-angelique-trois-aizou-hen.json](./269340-angelique-trois-aizou-hen.json) |
 | Angelique Voice Fantasy | 38316 | [38316-angelique-voice-fantasy.json](./38316-angelique-voice-fantasy.json) |
 | Angelique: Maren no Rokukishi | 56515 | [56515-angelique-maren-no-rokukishi.json](./56515-angelique-maren-no-rokukishi.json) |
 | AngelKnights | 229230 | [229230-angelknights.json](./229230-angelknights.json) |
@@ -10549,6 +10556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Cat in Dungeons | 164319 | [164319-another-cat-in-dungeons.json](./164319-another-cat-in-dungeons.json) |
 | Another Century's Episode | 9566 | [9566-another-centurys-episode.json](./9566-another-centurys-episode.json) |
 | Another Century's Episode 2 | 9579 | [9579-another-centurys-episode-2.json](./9579-another-centurys-episode-2.json) |
+| Another Century's Episode 2: Special Vocal Version | 269344 | [269344-another-centurys-episode-2-special-vocal-version.json](./269344-another-centurys-episode-2-special-vocal-version.json) |
 | Another Century's Episode 3: The Final | 9582 | [9582-another-centurys-episode-3-the-final.json](./9582-another-centurys-episode-3-the-final.json) |
 | Another Century's Episode Portable | 66344 | [66344-another-centurys-episode-portable.json](./66344-another-centurys-episode-portable.json) |
 | Another Century's Episode: R | 7270 | [7270-another-centurys-episode-r.json](./7270-another-centurys-episode-r.json) |
@@ -10658,6 +10666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another World | 392454 | [392454-another-world.json](./392454-another-world.json) |
 | Another World Adventures | 379448 | [379448-another-world-adventures.json](./379448-another-world-adventures.json) |
 | Another World for Dreamcast | 343875 | [343875-another-world-for-dreamcast.json](./343875-another-world-for-dreamcast.json) |
+| Another World Mahjong Girl | 269356 | [269356-another-world-mahjong-girl.json](./269356-another-world-mahjong-girl.json) |
 | Another World Quest | 212714 | [212714-another-world-quest.json](./212714-another-world-quest.json) |
 | Another World: 20th Anniversary Edition | 16493 | [16493-another-world-20th-anniversary-edition.json](./16493-another-world-20th-anniversary-edition.json) |
 | Another World: Lost In Heart | 365735 | [365735-another-world-lost-in-heart.json](./365735-another-world-lost-in-heart.json) |
@@ -10743,6 +10752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant Smasher Christmas | 352174 | [352174-ant-smasher-christmas.json](./352174-ant-smasher-christmas.json) |
 | Ant War Simulator: Ant Survival Game | 107091 | [107091-ant-war-simulator-ant-survival-game.json](./107091-ant-war-simulator-ant-survival-game.json) |
 | Ant War: Kingdom Battles | 255722 | [255722-ant-war-kingdom-battles.json](./255722-ant-war-kingdom-battles.json) |
+| Ant Work | 269337 | [269337-ant-work.json](./269337-ant-work.json) |
 | Ant Workers Simulator | 362437 | [362437-ant-workers-simulator.json](./362437-ant-workers-simulator.json) |
 | Ant-gravity: Tiny's Adventure | 31431 | [31431-ant-gravity-tinys-adventure.json](./31431-ant-gravity-tinys-adventure.json) |
 | Ant: Protect The Queen | 323219 | [323219-ant-protect-the-queen.json](./323219-ant-protect-the-queen.json) |
@@ -11637,6 +11647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Jet | 39931 | [39931-aqua-jet.json](./39931-aqua-jet.json) |
 | Aqua Jewel | 233727 | [233727-aqua-jewel.json](./233727-aqua-jewel.json) |
 | Aqua Journey | 176987 | [176987-aqua-journey.json](./176987-aqua-journey.json) |
+| Aqua Kids | 269345 | [269345-aqua-kids.json](./269345-aqua-kids.json) |
 | Aqua Kitty DX: Pawsome Bundle | 118853 | [118853-aqua-kitty-dx-pawsome-bundle.json](./118853-aqua-kitty-dx-pawsome-bundle.json) |
 | Aqua Kitty UDX: Xbox One Ultra Edition | 82379 | [82379-aqua-kitty-udx-xbox-one-ultra-edition.json](./82379-aqua-kitty-udx-xbox-one-ultra-edition.json) |
 | Aqua Kitty: Milk Mine Defender | 8642 | [8642-aqua-kitty-milk-mine-defender.json](./8642-aqua-kitty-milk-mine-defender.json) |
@@ -14785,6 +14796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ASMR Slicing: Nice Cuts DLC | 276944 | [276944-asmr-slicing-nice-cuts-dlc.json](./276944-asmr-slicing-nice-cuts-dlc.json) |
 | ASMR Slicing: Nice Cuts Edition | 284941 | [284941-asmr-slicing-nice-cuts-edition.json](./284941-asmr-slicing-nice-cuts-edition.json) |
 | Asoberu Eigo: Word Magic | 122747 | [122747-asoberu-eigo-word-magic.json](./122747-asoberu-eigo-word-magic.json) |
+| Asobi ni Iku yo! Chikyuu Pinch no Konyaku Sengen | 269349 | [269349-asobi-ni-iku-yo-chikyuu-pinch-no-konyaku-sengen.json](./269349-asobi-ni-iku-yo-chikyuu-pinch-no-konyaku-sengen.json) |
 | Asobu Rakugaki | 72690 | [72690-asobu-rakugaki.json](./72690-asobu-rakugaki.json) |
 | Asobu Tights | 145964 | [145964-asobu-tights.json](./145964-asobu-tights.json) |
 | Asonde Igo ga Sara ni Tsuyoku Naru: Ginsei Igo DS Chuukyuu-hen | 269558 | [269558-asonde-igo-ga-sara-ni-tsuyoku-naru-ginsei-igo-ds-chuukyuu-hen.json](./269558-asonde-igo-ga-sara-ni-tsuyoku-naru-ginsei-igo-ds-chuukyuu-hen.json) |
@@ -17132,6 +17144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automatum | 105302 | [105302-automatum.json](./105302-automatum.json) |
 | Automobil | 387436 | [387436-automobil.json](./387436-automobil.json) |
 | Automobile Tycoon | 43078 | [43078-automobile-tycoon.json](./43078-automobile-tycoon.json) |
+| AutoMobile! | 269353 | [269353-automobile.json](./269353-automobile.json) |
 | Automobiles and the Eisenhower Hiway System the Game | 111070 | [111070-automobiles-and-the-eisenhower-hiway-system-the-game.json](./111070-automobiles-and-the-eisenhower-hiway-system-the-game.json) |
 | Automobili Lamborghini | 3442 | [3442-automobili-lamborghini.json](./3442-automobili-lamborghini.json) |
 | Automobili Lamborghini: Recompiled | 414349 | [414349-automobili-lamborghini-recompiled.json](./414349-automobili-lamborghini-recompiled.json) |
