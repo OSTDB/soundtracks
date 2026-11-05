@@ -1185,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veil of Mist | 402560 | [402560-veil-of-mist.json](./402560-veil-of-mist.json) |
 | Veil of Sanity | 338135 | [338135-veil-of-sanity.json](./338135-veil-of-sanity.json) |
 | Veil of Secrets | 313817 | [313817-veil-of-secrets.json](./313817-veil-of-secrets.json) |
+| Veil of Shadows | 271551 | [271551-veil-of-shadows.json](./271551-veil-of-shadows.json) |
 | Veil of Sight | 359388 | [359388-veil-of-sight.json](./359388-veil-of-sight.json) |
 | Veil of Time | 423373 | [423373-veil-of-time.json](./423373-veil-of-time.json) |
 | Veil of Torment | 351686 | [351686-veil-of-torment.json](./351686-veil-of-torment.json) |
@@ -1315,6 +1316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venari | 128434 | [128434-venari.json](./128434-venari.json) |
 | Venari | 305637 | [305637-venari.json](./305637-venari.json) |
 | Venatio | 188073 | [188073-venatio.json](./188073-venatio.json) |
+| Venator | 271550 | [271550-venator.json](./271550-venator.json) |
 | Venator Universe | 323494 | [323494-venator-universe.json](./323494-venator-universe.json) |
 | Venatrix | 267369 | [267369-venatrix.json](./267369-venatrix.json) |
 | Venatur | 254081 | [254081-venatur.json](./254081-venatur.json) |
@@ -2353,6 +2355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violent Fighter | 112243 | [112243-violent-fighter.json](./112243-violent-fighter.json) |
 | Violent Horror Stories 2 | 377849 | [377849-violent-horror-stories-2.json](./377849-violent-horror-stories-2.json) |
 | Violent Horror Stories: Anthology | 312120 | [312120-violent-horror-stories-anthology.json](./312120-violent-horror-stories-anthology.json) |
+| Violent Rumble | 271541 | [271541-violent-rumble.json](./271541-violent-rumble.json) |
 | Violent Rush | 388216 | [388216-violent-rush.json](./388216-violent-rush.json) |
 | Violent Selection | 247868 | [247868-violent-selection.json](./247868-violent-selection.json) |
 | Violent Soldier | 44323 | [44323-violent-soldier.json](./44323-violent-soldier.json) |
