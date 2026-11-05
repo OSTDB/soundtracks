@@ -10289,6 +10289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Closet Organizer | 208913 | [208913-closet-organizer.json](./208913-closet-organizer.json) |
 | Closets | 135621 | [135621-closets.json](./135621-closets.json) |
 | Closing at 2 | 280283 | [280283-closing-at-2.json](./280283-closing-at-2.json) |
+| Closing Doors | 286877 | [286877-closing-doors.json](./286877-closing-doors.json) |
 | Closing Doors | 368632 | [368632-closing-doors.json](./368632-closing-doors.json) |
 | Closing Shift | 279895 | [279895-closing-shift.json](./279895-closing-shift.json) |
 | Closing Shift | 412551 | [412551-closing-shift.json](./412551-closing-shift.json) |
@@ -12277,6 +12278,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Survivors | 402266 | [402266-combat-survivors.json](./402266-combat-survivors.json) |
 | Combat Tanks | 73367 | [73367-combat-tanks.json](./73367-combat-tanks.json) |
 | Combat the Space | 325881 | [325881-combat-the-space.json](./325881-combat-the-space.json) |
+| Combat Tournament | 286864 | [286864-combat-tournament.json](./286864-combat-tournament.json) |
+| Combat Tournament Legends | 286872 | [286872-combat-tournament-legends.json](./286872-combat-tournament-legends.json) |
 | Combat Train TD | 363171 | [363171-combat-train-td.json](./363171-combat-train-td.json) |
 | Combat Troops VR | 192180 | [192180-combat-troops-vr.json](./192180-combat-troops-vr.json) |
 | Combat Two | 40609 | [40609-combat-two.json](./40609-combat-two.json) |
@@ -12462,6 +12465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comixxx Flirtatious | 379647 | [379647-comixxx-flirtatious.json](./379647-comixxx-flirtatious.json) |
 | Comixxx Strip | 392936 | [392936-comixxx-strip.json](./392936-comixxx-strip.json) |
 | Comixxx Swap | 195741 | [195741-comixxx-swap.json](./195741-comixxx-swap.json) |
+| Comixxx Temptations | 286858 | [286858-comixxx-temptations.json](./286858-comixxx-temptations.json) |
 | Comma | 327090 | [327090-comma.json](./327090-comma.json) |
 | Commanager Tycoon | 98992 | [98992-commanager-tycoon.json](./98992-commanager-tycoon.json) |
 | Command | 137940 | [137940-command.json](./137940-command.json) |
@@ -14750,6 +14754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Cats | 291360 | [291360-cosmo-cats.json](./291360-cosmo-cats.json) |
 | Cosmo Chaser | 120015 | [120015-cosmo-chaser.json](./120015-cosmo-chaser.json) |
 | Cosmo Command | 396263 | [396263-cosmo-command.json](./396263-cosmo-command.json) |
+| Cosmo Dreamer & Like Dreamer: Double-D Collection | 286916 | [286916-cosmo-dreamer-and-like-dreamer-double-d-collection.json](./286916-cosmo-dreamer-and-like-dreamer-double-d-collection.json) |
 | Cosmo Duel | 95576 | [95576-cosmo-duel.json](./95576-cosmo-duel.json) |
 | Cosmo Fighter 2 | 122628 | [122628-cosmo-fighter-2.json](./122628-cosmo-fighter-2.json) |
 | Cosmo Fighter II | 112162 | [112162-cosmo-fighter-ii.json](./112162-cosmo-fighter-ii.json) |
