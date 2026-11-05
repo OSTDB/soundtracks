@@ -807,6 +807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenonia 4 | 38722 | [38722-zenonia-4.json](./38722-zenonia-4.json) |
 | Zenonia 5 | 75155 | [75155-zenonia-5.json](./75155-zenonia-5.json) |
 | Zenonia 5: Wheel of Destiny | 38721 | [38721-zenonia-5-wheel-of-destiny.json](./38721-zenonia-5-wheel-of-destiny.json) |
+| Zenonia Chronobreak | 286912 | [286912-zenonia-chronobreak.json](./286912-zenonia-chronobreak.json) |
 | Zenonia S: Rifts in Time | 38690 | [38690-zenonia-s-rifts-in-time.json](./38690-zenonia-s-rifts-in-time.json) |
 | Zenonzard | 135498 | [135498-zenonzard.json](./135498-zenonzard.json) |
 | Zenpu-kun | 324968 | [324968-zenpu-kun.json](./324968-zenpu-kun.json) |
