@@ -2188,6 +2188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jith-Win-Yarn | 74164 | [74164-jith-win-yarn.json](./74164-jith-win-yarn.json) |
 | Jitsu Squad | 145440 | [145440-jitsu-squad.json](./145440-jitsu-squad.json) |
 | Jitsuroku Oniyome Nikki | 56813 | [56813-jitsuroku-oniyome-nikki.json](./56813-jitsuroku-oniyome-nikki.json) |
+| Jitsuroku Powerful Yakyuuken: Slugger Yamada | 256053 | [256053-jitsuroku-powerful-yakyuuken-slugger-yamada.json](./256053-jitsuroku-powerful-yakyuuken-slugger-yamada.json) |
 | Jitsuryoku!! Pro Yakyuu | 40211 | [40211-jitsuryoku-pro-yakyuu.json](./40211-jitsuryoku-pro-yakyuu.json) |
 | Jitsuwa Kaidan: Shinmimi Bokuro - Ichi no Shou | 59370 | [59370-jitsuwa-kaidan-shinmimi-bokuro-ichi-no-shou.json](./59370-jitsuwa-kaidan-shinmimi-bokuro-ichi-no-shou.json) |
 | Jitter | 298668 | [298668-jitter.json](./298668-jitter.json) |
