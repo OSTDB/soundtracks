@@ -5023,6 +5023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cel Story | 364350 | [364350-cel-story.json](./364350-cel-story.json) |
 | Celadon | 214121 | [214121-celadon.json](./214121-celadon.json) |
 | Celaria | 118385 | [118385-celaria.json](./118385-celaria.json) |
+| Celbugs | 263830 | [263830-celbugs.json](./263830-celbugs.json) |
 | Celebrate | 80178 | [80178-celebrate.json](./80178-celebrate.json) |
 | Celebrating 50 years of Kids Coding | 279662 | [279662-celebrating-50-years-of-kids-coding.json](./279662-celebrating-50-years-of-kids-coding.json) |
 | Celebrating Lake Xochimilco | 250299 | [250299-celebrating-lake-xochimilco.json](./250299-celebrating-lake-xochimilco.json) |
@@ -5810,6 +5811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaomin | 281014 | [281014-chaomin.json](./281014-chaomin.json) |
 | Chaordic | 112860 | [112860-chaordic.json](./112860-chaordic.json) |
 | Chaos | 156546 | [156546-chaos.json](./156546-chaos.json) |
+| Chaos | 263827 | [263827-chaos.json](./263827-chaos.json) |
 | Chaos | 300015 | [300015-chaos.json](./300015-chaos.json) |
 | Chaos | 334058 | [334058-chaos.json](./334058-chaos.json) |
 | Chaos | 367101 | [367101-chaos.json](./367101-chaos.json) |
@@ -11025,6 +11027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codebreaker | 40627 | [40627-codebreaker.json](./40627-codebreaker.json) |
 | Codebreaker | 68567 | [68567-codebreaker.json](./68567-codebreaker.json) |
 | Codebreaker Puzzle 1000! ENG & JAN | 147958 | [147958-codebreaker-puzzle-1000-eng-and-jan.json](./147958-codebreaker-puzzle-1000-eng-and-jan.json) |
+| Codebreaker: Defuse or Boom | 263831 | [263831-codebreaker-defuse-or-boom.json](./263831-codebreaker-defuse-or-boom.json) |
 | Codebreakers VR | 318181 | [318181-codebreakers-vr.json](./318181-codebreakers-vr.json) |
 | Coded Arms | 21619 | [21619-coded-arms.json](./21619-coded-arms.json) |
 | Coded Arms Contagion | 21939 | [21939-coded-arms-contagion.json](./21939-coded-arms-contagion.json) |
