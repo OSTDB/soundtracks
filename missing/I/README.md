@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Not Crazy | 307183 | [307183-i-am-not-crazy.json](./307183-i-am-not-crazy.json) |
 | I am not legend | 192790 | [192790-i-am-not-legend.json](./192790-i-am-not-legend.json) |
 | I Am Not What Remains | 176498 | [176498-i-am-not-what-remains.json](./176498-i-am-not-what-remains.json) |
+| I am OK | 262719 | [262719-i-am-ok.json](./262719-i-am-ok.json) |
 | I Am on Fire | 188421 | [188421-i-am-on-fire.json](./188421-i-am-on-fire.json) |
 | I Am Overburdened | 74212 | [74212-i-am-overburdened.json](./74212-i-am-overburdened.json) |
 | I Am Part-time Worker!! | 303549 | [303549-i-am-part-time-worker.json](./303549-i-am-part-time-worker.json) |
@@ -1670,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Universe: Planet Miner | 231925 | [231925-idle-universe-planet-miner.json](./231925-idle-universe-planet-miner.json) |
 | Idle University | 216124 | [216124-idle-university.json](./216124-idle-university.json) |
 | Idle Vikings Clicker | 215343 | [215343-idle-vikings-clicker.json](./215343-idle-vikings-clicker.json) |
+| Idle Void | 262714 | [262714-idle-void.json](./262714-idle-void.json) |
 | Idle War Camp | 200548 | [200548-idle-war-camp.json](./200548-idle-war-camp.json) |
 | Idle Warrior | 129679 | [129679-idle-warrior.json](./129679-idle-warrior.json) |
 | Idle Wasteland | 153922 | [153922-idle-wasteland.json](./153922-idle-wasteland.json) |
@@ -3784,6 +3786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
