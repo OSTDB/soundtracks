@@ -16470,6 +16470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs: Dreams - Digital Deluxe Edition | 389410 | [389410-the-smurfs-dreams-digital-deluxe-edition.json](./389410-the-smurfs-dreams-digital-deluxe-edition.json) |
 | The Smurfs: Flower Defense | 352946 | [352946-the-smurfs-flower-defense.json](./352946-the-smurfs-flower-defense.json) |
 | The Smurfs: Learn and Play | 275887 | [275887-the-smurfs-learn-and-play.json](./275887-the-smurfs-learn-and-play.json) |
+| The Smurfs: Learn and Play - Brainy Smurf Hidden Story | 280587 | [280587-the-smurfs-learn-and-play-brainy-smurf-hidden-story.json](./280587-the-smurfs-learn-and-play-brainy-smurf-hidden-story.json) |
 | The Smurfs: Learn and Play - Deluxe Edition | 328798 | [328798-the-smurfs-learn-and-play-deluxe-edition.json](./328798-the-smurfs-learn-and-play-deluxe-edition.json) |
 | The Smurfs: Mission Vileaf | 149960 | [149960-the-smurfs-mission-vileaf.json](./149960-the-smurfs-mission-vileaf.json) |
 | The Smurfs: Village Party | 292150 | [292150-the-smurfs-village-party.json](./292150-the-smurfs-village-party.json) |
