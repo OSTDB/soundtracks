@@ -4998,6 +4998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CD-Run | 127226 | [127226-cd-run.json](./127226-cd-run.json) |
 | CDF Ghostship | 16844 | [16844-cdf-ghostship.json](./16844-cdf-ghostship.json) |
 | CDL for a UFO | 386115 | [386115-cdl-for-a-ufo.json](./386115-cdl-for-a-ufo.json) |
+| CDO2: Dungeon Defense | 256574 | [256574-cdo2-dungeon-defense.json](./256574-cdo2-dungeon-defense.json) |
 | Ceana the Wraithress | 314951 | [314951-ceana-the-wraithress.json](./314951-ceana-the-wraithress.json) |
 | Ceaseless | 207737 | [207737-ceaseless.json](./207737-ceaseless.json) |
 | Ceaseless | 380069 | [380069-ceaseless.json](./380069-ceaseless.json) |
