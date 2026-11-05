@@ -4480,6 +4480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 2: Innocent Sin - Collector's Edition | 44479 | [44479-persona-2-innocent-sin-collectors-edition.json](./44479-persona-2-innocent-sin-collectors-edition.json) |
 | Persona 3 Broken Shadow | 289390 | [289390-persona-3-broken-shadow.json](./289390-persona-3-broken-shadow.json) |
 | Persona 3 Em | 136488 | [136488-persona-3-em.json](./136488-persona-3-em.json) |
+| Persona 3 Escape | 289154 | [289154-persona-3-escape.json](./289154-persona-3-escape.json) |
 | Persona 3 FES | 11437 | [11437-persona-3-fes.json](./11437-persona-3-fes.json) |
 | Persona 3 FES Append-han | 358383 | [358383-persona-3-fes-append-han.json](./358383-persona-3-fes-append-han.json) |
 | Persona 3 FES: Limited Edition | 41865 | [41865-persona-3-fes-limited-edition.json](./41865-persona-3-fes-limited-edition.json) |
@@ -6682,6 +6683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Arcade: World Champion Soccer | 349344 | [349344-pinball-arcade-world-champion-soccer.json](./349344-pinball-arcade-world-champion-soccer.json) |
 | Pinball Arcade: Xenon | 353267 | [353267-pinball-arcade-xenon.json](./353267-pinball-arcade-xenon.json) |
 | Pinball Big Splash | 147692 | [147692-pinball-big-splash.json](./147692-pinball-big-splash.json) |
+| Pinball Blitz | 289147 | [289147-pinball-blitz.json](./289147-pinball-blitz.json) |
 | Pinball Brain Damage | 69591 | [69591-pinball-brain-damage.json](./69591-pinball-brain-damage.json) |
 | Pinball Breaker | 115334 | [115334-pinball-breaker.json](./115334-pinball-breaker.json) |
 | Pinball Breaker 3 | 146686 | [146686-pinball-breaker-3.json](./146686-pinball-breaker-3.json) |
@@ -11266,6 +11268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: The Evil Inside | 372777 | [372777-pokemon-the-evil-inside.json](./372777-pokemon-the-evil-inside.json) |
 | Pokemon: The Hodgepodge Platoon | 327157 | [327157-pokemon-the-hodgepodge-platoon.json](./327157-pokemon-the-hodgepodge-platoon.json) |
 | Pokémon: The Pit | 308392 | [308392-pokemon-the-pit.json](./308392-pokemon-the-pit.json) |
+| Pokémon: Tick-Tock Walk! | 289143 | [289143-pokemon-tick-tock-walk.json](./289143-pokemon-tick-tock-walk.json) |
 | Pokémon: Too Many Types | 278078 | [278078-pokemon-too-many-types.json](./278078-pokemon-too-many-types.json) |
 | Pokémon: Towering Legends | 203147 | [203147-pokemon-towering-legends.json](./203147-pokemon-towering-legends.json) |
 | Pokémon: Ultra Violet Version | 203221 | [203221-pokemon-ultra-violet-version.json](./203221-pokemon-ultra-violet-version.json) |
