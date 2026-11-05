@@ -4518,6 +4518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Pearl | 76663 | [76663-white-pearl.json](./76663-white-pearl.json) |
 | White Rabbit | 161356 | [161356-white-rabbit.json](./161356-white-rabbit.json) |
 | White Rectangle | 182778 | [182778-white-rectangle.json](./182778-white-rectangle.json) |
+| White Redemption | 289667 | [289667-white-redemption.json](./289667-white-redemption.json) |
 | White Room: Mind’s Prison | 327175 | [327175-white-room-mind-s-prison.json](./327175-white-room-mind-s-prison.json) |
 | White Rooms | 399708 | [399708-white-rooms.json](./399708-white-rooms.json) |
 | White Sands | 236228 | [236228-white-sands.json](./236228-white-sands.json) |
