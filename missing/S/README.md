@@ -19291,7 +19291,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21107,6 +21106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphere III: Enchanted World | 34619 | [34619-sphere-iii-enchanted-world.json](./34619-sphere-iii-enchanted-world.json) |
 | Sphere Invasion | 172340 | [172340-sphere-invasion.json](./172340-sphere-invasion.json) |
 | Sphere of Destiny | 13759 | [13759-sphere-of-destiny.json](./13759-sphere-of-destiny.json) |
+| Sphere Shootout | 258790 | [258790-sphere-shootout.json](./258790-sphere-shootout.json) |
 | Sphere TD | 400231 | [400231-sphere-td.json](./400231-sphere-td.json) |
 | Sphere This! | 114109 | [114109-sphere-this.json](./114109-sphere-this.json) |
 | Sphere vs. Gravity | 318476 | [318476-sphere-vs-gravity.json](./318476-sphere-vs-gravity.json) |
@@ -25527,6 +25527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam Heroes | 10926 | [10926-steam-heroes.json](./10926-steam-heroes.json) |
 | Steam Highwayman | 174265 | [174265-steam-highwayman.json](./174265-steam-highwayman.json) |
 | Steam Marines 2 | 57889 | [57889-steam-marines-2.json](./57889-steam-marines-2.json) |
+| Steam Panic | 258785 | [258785-steam-panic.json](./258785-steam-panic.json) |
 | Steam Prison: Beyond The Steam | 301689 | [301689-steam-prison-beyond-the-steam.json](./301689-steam-prison-beyond-the-steam.json) |
 | Steam Punks | 61085 | [61085-steam-punks.json](./61085-steam-punks.json) |
 | Steam Puppet: Tower Defense | 151670 | [151670-steam-puppet-tower-defense.json](./151670-steam-puppet-tower-defense.json) |
@@ -26505,6 +26506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stillwater Remastered | 280424 | [280424-stillwater-remastered.json](./280424-stillwater-remastered.json) |
 | Stillwell | 390600 | [390600-stillwell.json](./390600-stillwell.json) |
 | Stilstand | 138634 | [138634-stilstand.json](./138634-stilstand.json) |
+| Stilt | 258765 | [258765-stilt.json](./258765-stilt.json) |
 | Stilt Fella | 108781 | [108781-stilt-fella.json](./108781-stilt-fella.json) |
 | Stilt: Forgotten Trials! | 354312 | [354312-stilt-forgotten-trials.json](./354312-stilt-forgotten-trials.json) |
 | Stilton's Spire | 391556 | [391556-stiltons-spire.json](./391556-stiltons-spire.json) |
@@ -33888,6 +33890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Bar: Moebius | 289277 | [289277-sushi-bar-moebius.json](./289277-sushi-bar-moebius.json) |
 | Sushi Battle Rambunctiously | 267685 | [267685-sushi-battle-rambunctiously.json](./267685-sushi-battle-rambunctiously.json) |
 | Sushi Belt | 181226 | [181226-sushi-belt.json](./181226-sushi-belt.json) |
+| Sushi Ben | 258801 | [258801-sushi-ben.json](./258801-sushi-ben.json) |
 | Sushi Ben VR | 152219 | [152219-sushi-ben-vr.json](./152219-sushi-ben-vr.json) |
 | Sushi Blast | 262041 | [262041-sushi-blast.json](./262041-sushi-blast.json) |
 | Sushi Break | 135577 | [135577-sushi-break.json](./135577-sushi-break.json) |
