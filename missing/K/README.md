@@ -3334,6 +3334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts II Final Mix | 221998 | [221998-kingdom-hearts-ii-final-mix.json](./221998-kingdom-hearts-ii-final-mix.json) |
 | Kingdom Hearts II Final Mix: Free Flow Virtuoso Improvements Implementation | 419929 | [419929-kingdom-hearts-ii-final-mix-free-flow-virtuoso-improvements-implementation.json](./419929-kingdom-hearts-ii-final-mix-free-flow-virtuoso-improvements-implementation.json) |
 | Kingdom Hearts II Final Mix+ | 43651 | [43651-kingdom-hearts-ii-final-mix.json](./43651-kingdom-hearts-ii-final-mix.json) |
+| Kingdom Hearts II: Nobody May Cry | 277113 | [277113-kingdom-hearts-ii-nobody-may-cry.json](./277113-kingdom-hearts-ii-nobody-may-cry.json) |
 | Kingdom Hearts III + Re Mind | 306474 | [306474-kingdom-hearts-iii-re-mind.json](./306474-kingdom-hearts-iii-re-mind.json) |
 | Kingdom Hearts III + Re Mind: Cloud Version | 187459 | [187459-kingdom-hearts-iii-re-mind-cloud-version.json](./187459-kingdom-hearts-iii-re-mind-cloud-version.json) |
 | Kingdom Hearts III Integrum Masterpiece: e-Store Limited Edition | 167000 | [167000-kingdom-hearts-iii-integrum-masterpiece-e-store-limited-edition.json](./167000-kingdom-hearts-iii-integrum-masterpiece-e-store-limited-edition.json) |
