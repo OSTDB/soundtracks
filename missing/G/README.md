@@ -261,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gacha Capsule Shop Simulator: Akihabara | 386674 | [386674-gacha-capsule-shop-simulator-akihabara.json](./386674-gacha-capsule-shop-simulator-akihabara.json) |
 | Gacha Club | 142408 | [142408-gacha-club.json](./142408-gacha-club.json) |
 | Gacha Fever | 276658 | [276658-gacha-fever.json](./276658-gacha-fever.json) |
+| Gacha Hack | 269906 | [269906-gacha-hack.json](./269906-gacha-hack.json) |
 | Gacha Idle | 347579 | [347579-gacha-idle.json](./347579-gacha-idle.json) |
 | Gacha Life | 125828 | [125828-gacha-life.json](./125828-gacha-life.json) |
 | Gacha Life 2 | 307274 | [307274-gacha-life-2.json](./307274-gacha-life-2.json) |
@@ -6400,6 +6401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Sun 64 | 283357 | [283357-golden-sun-64.json](./283357-golden-sun-64.json) |
 | Golden Sun QOL | 269063 | [269063-golden-sun-qol.json](./269063-golden-sun-qol.json) |
 | Golden Sun The Lost Age: Anniversary Mod | 269061 | [269061-golden-sun-the-lost-age-anniversary-mod.json](./269061-golden-sun-the-lost-age-anniversary-mod.json) |
+| Golden Sun: Dawn of Djinn | 269907 | [269907-golden-sun-dawn-of-djinn.json](./269907-golden-sun-dawn-of-djinn.json) |
 | Golden Sunshine Beside You | 373565 | [373565-golden-sunshine-beside-you.json](./373565-golden-sunshine-beside-you.json) |
 | Golden Swords | 31195 | [31195-golden-swords.json](./31195-golden-swords.json) |
 | Golden Swords Complete | 53075 | [53075-golden-swords-complete.json](./53075-golden-swords-complete.json) |
@@ -6968,6 +6970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Googass | 165667 | [165667-googass.json](./165667-googass.json) |
 | Google Blocks | 115730 | [115730-google-blocks.json](./115730-google-blocks.json) |
 | Google Cricket | 230854 | [230854-google-cricket.json](./230854-google-cricket.json) |
+| Google Dino Advance | 269921 | [269921-google-dino-advance.json](./269921-google-dino-advance.json) |
 | Google Dinosaur Shooter | 261967 | [261967-google-dinosaur-shooter.json](./261967-google-dinosaur-shooter.json) |
 | Google Earth Flight Simulator | 10902 | [10902-google-earth-flight-simulator.json](./10902-google-earth-flight-simulator.json) |
 | Google Feud | 10898 | [10898-google-feud.json](./10898-google-feud.json) |
