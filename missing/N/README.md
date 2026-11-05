@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N31 | 201426 | [201426-n31.json](./201426-n31.json) |
 | N3II: Ninety-Nine Nights | 7095 | [7095-n3ii-ninety-nine-nights.json](./7095-n3ii-ninety-nine-nights.json) |
 | N3Rally | 310204 | [310204-n3rally.json](./310204-n3rally.json) |
+| N3wton | 262026 | [262026-n3wton.json](./262026-n3wton.json) |
 | N64 SP Map Jam | 300421 | [300421-n64-sp-map-jam.json](./300421-n64-sp-map-jam.json) |
 | Na-Re: Great Chain of Being | 341358 | [341358-na-re-great-chain-of-being.json](./341358-na-re-great-chain-of-being.json) |
 | Naals Tales | 311610 | [311610-naals-tales.json](./311610-naals-tales.json) |
@@ -3763,6 +3764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 22: X-Factor Edition | 172557 | [172557-nhl-22-x-factor-edition.json](./172557-nhl-22-x-factor-edition.json) |
 | NHL 23 | 214675 | [214675-nhl-23.json](./214675-nhl-23.json) |
 | NHL 23: X-Factor Edition | 214668 | [214668-nhl-23-x-factor-edition.json](./214668-nhl-23-x-factor-edition.json) |
+| NHL 24: X-Factor Edition | 262029 | [262029-nhl-24-x-factor-edition.json](./262029-nhl-24-x-factor-edition.json) |
 | NHL 25 | 314499 | [314499-nhl-25.json](./314499-nhl-25.json) |
 | NHL 25: Deluxe Edition | 315729 | [315729-nhl-25-deluxe-edition.json](./315729-nhl-25-deluxe-edition.json) |
 | NHL 27 | 408771 | [408771-nhl-27.json](./408771-nhl-27.json) |
