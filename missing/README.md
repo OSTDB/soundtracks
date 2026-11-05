@@ -43,9 +43,9 @@ The most popular games still missing a soundtrack. Click **Add it**, fill in the
 | 29 | **The Lion King** | [🔎 Find on Spotify](https://open.spotify.com/search/The%20Lion%20King%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/T/3166-the-lion-king.json) |
 | 30 | **Final Fantasy XIV Online** | [🔎 Find on Spotify](https://open.spotify.com/search/Final%20Fantasy%20XIV%20Online%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/F/386-final-fantasy-xiv-online.json) |
 | 31 | **Tony Hawk's Pro Skater** | [🔎 Find on Spotify](https://open.spotify.com/search/Tony%20Hawk's%20Pro%20Skater%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/T/6692-tony-hawks-pro-skater.json) |
-| 32 | **Tom Clancy's Splinter Cell: Pandora Tomorrow** | [🔎 Find on Spotify](https://open.spotify.com/search/Tom%20Clancy's%20Splinter%20Cell%3A%20Pandora%20Tomorrow%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/T/874-tom-clancys-splinter-cell-pandora-tomorrow.json) |
-| 33 | **Manhunt** | [🔎 Find on Spotify](https://open.spotify.com/search/Manhunt%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/M/1971-manhunt.json) |
-| 34 | **Donkey Kong Country 3: Dixie Kong's Double Trouble!** | [🔎 Find on Spotify](https://open.spotify.com/search/Donkey%20Kong%20Country%203%3A%20Dixie%20Kong's%20Double%20Trouble!%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/1094-donkey-kong-country-3-dixie-kongs-double-trouble.json) |
+| 32 | **Donkey Kong Country 3: Dixie Kong's Double Trouble!** | [🔎 Find on Spotify](https://open.spotify.com/search/Donkey%20Kong%20Country%203%3A%20Dixie%20Kong's%20Double%20Trouble!%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/1094-donkey-kong-country-3-dixie-kongs-double-trouble.json) |
+| 33 | **Tom Clancy's Splinter Cell: Pandora Tomorrow** | [🔎 Find on Spotify](https://open.spotify.com/search/Tom%20Clancy's%20Splinter%20Cell%3A%20Pandora%20Tomorrow%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/T/874-tom-clancys-splinter-cell-pandora-tomorrow.json) |
+| 34 | **Manhunt** | [🔎 Find on Spotify](https://open.spotify.com/search/Manhunt%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/M/1971-manhunt.json) |
 | 35 | **Quake 4** | [🔎 Find on Spotify](https://open.spotify.com/search/Quake%204%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/Q/356-quake-4.json) |
 | 36 | **Super Mario All-Stars** | [🔎 Find on Spotify](https://open.spotify.com/search/Super%20Mario%20All-Stars%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/S/5199-super-mario-all-stars.json) |
 | 37 | **S.T.A.L.K.E.R.: Clear Sky** | [🔎 Find on Spotify](https://open.spotify.com/search/S.T.A.L.K.E.R.%3A%20Clear%20Sky%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/S/4840-s-t-a-l-k-e-r-clear-sky.json) |
@@ -67,20 +67,20 @@ The most popular games still missing a soundtrack. Click **Add it**, fill in the
 
 | **[A](./A/README.md)** | **[B](./B/README.md)** | **[C](./C/README.md)** | **[D](./D/README.md)** | **[E](./E/README.md)** | **[F](./F/README.md)** | **[G](./G/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 17905 games | 17932 games | 20300 games | 18872 games | 8220 games | 13715 games | 11173 games |
+| 17908 games | 17939 games | 20306 games | 18873 games | 8220 games | 13718 games | 11175 games |
 
 | **[H](./H/README.md)** | **[I](./I/README.md)** | **[J](./J/README.md)** | **[K](./K/README.md)** | **[L](./L/README.md)** | **[M](./M/README.md)** | **[N](./N/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 12408 games | 6708 games | 4172 games | 6291 games | 9915 games | 21611 games | 7587 games |
+| 12411 games | 6712 games | 4172 games | 6294 games | 9918 games | 21612 games | 7590 games |
 
 | **[O](./O/README.md)** | **[P](./P/README.md)** | **[Q](./Q/README.md)** | **[R](./R/README.md)** | **[S](./S/README.md)** | **[T](./T/README.md)** | **[U](./U/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 5812 games | 18385 games | 1274 games | 12851 games | 35233 games | 32587 games | 3583 games |
+| 5814 games | 18389 games | 1274 games | 12852 games | 35234 games | 32590 games | 3584 games |
 
 | **[V](./V/README.md)** | **[W](./W/README.md)** | **[X](./X/README.md)** | **[Y](./Y/README.md)** | **[Z](./Z/README.md)** | **[0-9](./0-9/README.md)** |
 | --- | --- | --- | --- | --- | --- |
-| 4166 games | 9254 games | 1060 games | 2115 games | 2547 games | 3518 games |
+| 4167 games | 9254 games | 1060 games | 2115 games | 2547 games | 3518 games |
 
 ---
 
-_309194 games missing a soundtrack · last updated 2026-11-05T00:36:09.745Z_
+_309246 games missing a soundtrack · last updated 2026-11-05T00:50:34.243Z_
