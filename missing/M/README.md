@@ -2480,6 +2480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make it! Shaved Ice | 409545 | [409545-make-it-shaved-ice.json](./409545-make-it-shaved-ice.json) |
 | Make it! Sushi | 347327 | [347327-make-it-sushi.json](./347327-make-it-sushi.json) |
 | Make it! Taiyaki | 286883 | [286883-make-it-taiyaki.json](./286883-make-it-taiyaki.json) |
+| Make it! Takoyaki | 278200 | [278200-make-it-takoyaki.json](./278200-make-it-takoyaki.json) |
 | Make it! Yakiimo | 372274 | [372274-make-it-yakiimo.json](./372274-make-it-yakiimo.json) |
 | Make it! Yakitori | 306543 | [306543-make-it-yakitori.json](./306543-make-it-yakitori.json) |
 | Make Love Not War | 208244 | [208244-make-love-not-war.json](./208244-make-love-not-war.json) |
@@ -13332,6 +13333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Agatha's Palace | 187199 | [187199-miss-agathas-palace.json](./187199-miss-agathas-palace.json) |
 | Miss Bellevue Never Heard the Whistle | 362961 | [362961-miss-bellevue-never-heard-the-whistle.json](./362961-miss-bellevue-never-heard-the-whistle.json) |
 | Miss Bingo | 215307 | [215307-miss-bingo.json](./215307-miss-bingo.json) |
+| Miss Bubble II | 278232 | [278232-miss-bubble-ii.json](./278232-miss-bubble-ii.json) |
 | Miss Bullard's School for Former Ladies | 184058 | [184058-miss-bullards-school-for-former-ladies.json](./184058-miss-bullards-school-for-former-ladies.json) |
 | Miss Bullet | 362016 | [362016-miss-bullet.json](./362016-miss-bullet.json) |
 | Miss Cat | 118037 | [118037-miss-cat.json](./118037-miss-cat.json) |
@@ -15163,6 +15165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monos: The Endless Tower | 211970 | [211970-monos-the-endless-tower.json](./211970-monos-the-endless-tower.json) |
 | Monoshiri Jiyuugaku: Ogura Hyakunin Isshu-hen | 268514 | [268514-monoshiri-jiyuugaku-ogura-hyakunin-isshu-hen.json](./268514-monoshiri-jiyuugaku-ogura-hyakunin-isshu-hen.json) |
 | Monoshiri Quiz Iroiro Shokubutsu | 257761 | [257761-monoshiri-quiz-iroiro-shokubutsu.json](./257761-monoshiri-quiz-iroiro-shokubutsu.json) |
+| Monoshiri Quiz Sekai no Konchuu | 278203 | [278203-monoshiri-quiz-sekai-no-konchuu.json](./278203-monoshiri-quiz-sekai-no-konchuu.json) |
 | Monoshiri Quiz: Sekai no Doubutsu | 253230 | [253230-monoshiri-quiz-sekai-no-doubutsu.json](./253230-monoshiri-quiz-sekai-no-doubutsu.json) |
 | Monospaced Lovers | 130844 | [130844-monospaced-lovers.json](./130844-monospaced-lovers.json) |
 | Monotonia: EXP_01 | 228514 | [228514-monotonia-exp-01.json](./228514-monotonia-exp-01.json) |
@@ -18099,6 +18102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Angry | 77380 | [77380-mr-angry.json](./77380-mr-angry.json) |
 | Mr. Ball | 232512 | [232512-mr-ball.json](./232512-mr-ball.json) |
 | Mr. Balls | 230677 | [230677-mr-balls.json](./230677-mr-balls.json) |
+| Mr. Bean Solitaire | 278219 | [278219-mr-bean-solitaire.json](./278219-mr-bean-solitaire.json) |
 | Mr. Bean: Special Delivery | 110284 | [110284-mr-bean-special-delivery.json](./110284-mr-bean-special-delivery.json) |
 | Mr. Bean's Wacky World | 50621 | [50621-mr-beans-wacky-world.json](./50621-mr-beans-wacky-world.json) |
 | Mr. Big Wigs | 55931 | [55931-mr-big-wigs.json](./55931-mr-big-wigs.json) |
@@ -18537,6 +18541,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mugen Senshi Valis | 278808 | [278808-mugen-senshi-valis.json](./278808-mugen-senshi-valis.json) |
 | Mugen Senshi Valis | 278809 | [278809-mugen-senshi-valis.json](./278809-mugen-senshi-valis.json) |
 | Mugen Senshi Valis II | 41701 | [41701-mugen-senshi-valis-ii.json](./41701-mugen-senshi-valis-ii.json) |
+| Mugen Senshi Valis: The Fantasm Soldier | 278223 | [278223-mugen-senshi-valis-the-fantasm-soldier.json](./278223-mugen-senshi-valis-the-fantasm-soldier.json) |
+| Mugen Senshi Valis: The Fantasm Soldier | 278224 | [278224-mugen-senshi-valis-the-fantasm-soldier.json](./278224-mugen-senshi-valis-the-fantasm-soldier.json) |
+| Mugen Senshi Valis: The Fantasm Soldier | 278226 | [278226-mugen-senshi-valis-the-fantasm-soldier.json](./278226-mugen-senshi-valis-the-fantasm-soldier.json) |
 | Mugen Senshi Valis: The Fantasm Soldier | 36789 | [36789-mugen-senshi-valis-the-fantasm-soldier.json](./36789-mugen-senshi-valis-the-fantasm-soldier.json) |
 | Mugen Senshi Valis: The Legend of a Fantasm Soldier | 186074 | [186074-mugen-senshi-valis-the-legend-of-a-fantasm-soldier.json](./186074-mugen-senshi-valis-the-legend-of-a-fantasm-soldier.json) |
 | Mugen Souls | 11501 | [11501-mugen-souls.json](./11501-mugen-souls.json) |
