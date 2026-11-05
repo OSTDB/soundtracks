@@ -2739,9 +2739,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carlton | 83477 | [83477-carlton.json](./83477-carlton.json) |
 | Carma | 172153 | [172153-carma.json](./172153-carma.json) |
 | Carmageddon | 230473 | [230473-carmageddon.json](./230473-carmageddon.json) |
+| Carmageddon | 246741 | [246741-carmageddon.json](./246741-carmageddon.json) |
 | Carmageddon | 246743 | [246743-carmageddon.json](./246743-carmageddon.json) |
+| Carmageddon | 246746 | [246746-carmageddon.json](./246746-carmageddon.json) |
 | Carmageddon | 246895 | [246895-carmageddon.json](./246895-carmageddon.json) |
 | Carmageddon | 626 | [626-carmageddon.json](./626-carmageddon.json) |
+| Carmageddon 64 | 246740 | [246740-carmageddon-64.json](./246740-carmageddon-64.json) |
+| Carmageddon II: Carpocalypse Now | 246744 | [246744-carmageddon-ii-carpocalypse-now.json](./246744-carmageddon-ii-carpocalypse-now.json) |
+| Carmageddon II: Carpocalypse Now | 246745 | [246745-carmageddon-ii-carpocalypse-now.json](./246745-carmageddon-ii-carpocalypse-now.json) |
 | Carmageddon II: Carpocalypse Now | 951 | [951-carmageddon-ii-carpocalypse-now.json](./951-carmageddon-ii-carpocalypse-now.json) |
 | Carmageddon Max Pack | 93899 | [93899-carmageddon-max-pack.json](./93899-carmageddon-max-pack.json) |
 | Carmageddon TDR 2000: Rage-o-Rama! Special Edition | 350729 | [350729-carmageddon-tdr-2000-rage-o-rama-special-edition.json](./350729-carmageddon-tdr-2000-rage-o-rama-special-edition.json) |
@@ -6003,6 +6008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChaoticNightmare | 189827 | [189827-chaoticnightmare.json](./189827-chaoticnightmare.json) |
 | Chaotix CD | 332455 | [332455-chaotix-cd.json](./332455-chaotix-cd.json) |
 | Chaotix Mania | 334064 | [334064-chaotix-mania.json](./334064-chaotix-mania.json) |
+| Chaotix of Tomorrow | 246723 | [246723-chaotix-of-tomorrow.json](./246723-chaotix-of-tomorrow.json) |
 | Chaotix Pinball | 321929 | [321929-chaotix-pinball.json](./321929-chaotix-pinball.json) |
 | Chapas GP | 270383 | [270383-chapas-gp.json](./270383-chapas-gp.json) |
 | Chapatriste | 307622 | [307622-chapatriste.json](./307622-chapatriste.json) |
@@ -19644,6 +19650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursor Story | 237355 | [237355-cursor-story.json](./237355-cursor-story.json) |
 | Cursor Thief | 261893 | [261893-cursor-thief.json](./261893-cursor-thief.json) |
 | Cursor*10 | 29042 | [29042-cursor-10.json](./29042-cursor-10.json) |
+| Cursor*10: 2nd session | 246712 | [246712-cursor-10-2nd-session.json](./246712-cursor-10-2nd-session.json) |
 | Cursorcana | 343240 | [343240-cursorcana.json](./343240-cursorcana.json) |
 | CursorLublub | 334207 | [334207-cursorlublub.json](./334207-cursorlublub.json) |
 | Cursors.io | 133703 | [133703-cursors-io.json](./133703-cursors-io.json) |
