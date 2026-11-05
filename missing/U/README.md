@@ -2413,6 +2413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Surge | 129047 | [129047-unknown-surge.json](./129047-unknown-surge.json) |
 | Unknown Tank Game | 286948 | [286948-unknown-tank-game.json](./286948-unknown-tank-game.json) |
 | Unknown Terminal | 393826 | [393826-unknown-terminal.json](./393826-unknown-terminal.json) |
+| Unknown Variable 2: Raven's Ridge | 278222 | [278222-unknown-variable-2-ravens-ridge.json](./278222-unknown-variable-2-ravens-ridge.json) |
 | Unknown Woods | 148458 | [148458-unknown-woods.json](./148458-unknown-woods.json) |
 | Unknown: Raven Field | 344904 | [344904-unknown-raven-field.json](./344904-unknown-raven-field.json) |
 | Unknown's Survival: Player Battlegrounds | 111360 | [111360-unknowns-survival-player-battlegrounds.json](./111360-unknowns-survival-player-battlegrounds.json) |
