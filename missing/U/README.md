@@ -3480,6 +3480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uspavanka | 168000 | [168000-uspavanka.json](./168000-uspavanka.json) |
 | USS Tempest: Spaceship Simulator | 190894 | [190894-uss-tempest-spaceship-simulator.json](./190894-uss-tempest-spaceship-simulator.json) |
 | USS Tlancy | 58997 | [58997-uss-tlancy.json](./58997-uss-tlancy.json) |
+| USS-Enterprise | 246734 | [246734-uss-enterprise.json](./246734-uss-enterprise.json) |
 | USSR Chan: Hentai Puzzle Game | 163545 | [163545-ussr-chan-hentai-puzzle-game.json](./163545-ussr-chan-hentai-puzzle-game.json) |
 | Ustje | 379983 | [379983-ustje.json](./379983-ustje.json) |
 | Usual | 296624 | [296624-usual.json](./296624-usual.json) |
