@@ -4158,6 +4158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vtubers Network | 321465 | [321465-vtubers-network.json](./321465-vtubers-network.json) |
 | VTumbler | 319718 | [319718-vtumbler.json](./319718-vtumbler.json) |
 | Vubu | 175754 | [175754-vubu.json](./175754-vubu.json) |
+| VUE Snake | 270444 | [270444-vue-snake.json](./270444-vue-snake.json) |
 | Vugluskr: Zombie Rampage | 122830 | [122830-vugluskr-zombie-rampage.json](./122830-vugluskr-zombie-rampage.json) |
 | Vulcan 3055 | 110331 | [110331-vulcan-3055.json](./110331-vulcan-3055.json) |
 | Vulcan Sacrifice | 53880 | [53880-vulcan-sacrifice.json](./53880-vulcan-sacrifice.json) |
