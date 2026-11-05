@@ -2033,7 +2033,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jiminy's Morning Adventure | 293712 | [293712-jiminys-morning-adventure.json](./293712-jiminys-morning-adventure.json) |
 | Jimmie Johnson's Anything with an Engine | 7023 | [7023-jimmie-johnsons-anything-with-an-engine.json](./7023-jimmie-johnsons-anything-with-an-engine.json) |
 | Jimmu | 128286 | [128286-jimmu.json](./128286-jimmu.json) |
-| Jimmy and the Pulsating Mass | 59227 | [59227-jimmy-and-the-pulsating-mass.json](./59227-jimmy-and-the-pulsating-mass.json) |
 | Jimmy Connors Pro Tennis Tour | 153771 | [153771-jimmy-connors-pro-tennis-tour.json](./153771-jimmy-connors-pro-tennis-tour.json) |
 | Jimmy Connors Pro Tennis Tour | 42605 | [42605-jimmy-connors-pro-tennis-tour.json](./42605-jimmy-connors-pro-tennis-tour.json) |
 | Jimmy Connors Tennis | 365696 | [365696-jimmy-connors-tennis.json](./365696-jimmy-connors-tennis.json) |
@@ -3123,6 +3122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Boy | 261076 | [261076-jump-boy.json](./261076-jump-boy.json) |
 | Jump Broke | 398751 | [398751-jump-broke.json](./398751-jump-broke.json) |
 | Jump Bug | 25696 | [25696-jump-bug.json](./25696-jump-bug.json) |
+| Jump Bug | 281192 | [281192-jump-bug.json](./281192-jump-bug.json) |
 | Jump Bunny | 390457 | [390457-jump-bunny.json](./390457-jump-bunny.json) |
 | Jump Burger | 292003 | [292003-jump-burger.json](./292003-jump-burger.json) |
 | Jump By Coronho: Chapter 2 | 389273 | [389273-jump-by-coronho-chapter-2.json](./389273-jump-by-coronho-chapter-2.json) |
@@ -3560,6 +3560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungledyret Hugo: Frugtkampen Med Zik Og Zak | 286116 | [286116-jungledyret-hugo-frugtkampen-med-zik-og-zak.json](./286116-jungledyret-hugo-frugtkampen-med-zik-og-zak.json) |
 | JungleKnight | 149206 | [149206-jungleknight.json](./149206-jungleknight.json) |
 | Jungler | 245460 | [245460-jungler.json](./245460-jungler.json) |
+| Jungler | 281191 | [281191-jungler.json](./281191-jungler.json) |
 | Jungler | 297490 | [297490-jungler.json](./297490-jungler.json) |
 | Jungler | 40050 | [40050-jungler.json](./40050-jungler.json) |
 | JungleRing2D | 254276 | [254276-junglering2d.json](./254276-junglering2d.json) |
