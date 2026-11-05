@@ -13410,6 +13410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Midnight Lapse: Reborn | 26984 | [26984-the-midnight-lapse-reborn.json](./26984-the-midnight-lapse-reborn.json) |
 | The Midnight Monkey | 177274 | [177274-the-midnight-monkey.json](./177274-the-midnight-monkey.json) |
 | The Midnight Park | 183066 | [183066-the-midnight-park.json](./183066-the-midnight-park.json) |
+| The Midnight Queens | 297411 | [297411-the-midnight-queens.json](./297411-the-midnight-queens.json) |
 | The Midnight Sanctuary | 36759 | [36759-the-midnight-sanctuary.json](./36759-the-midnight-sanctuary.json) |
 | The Midnight Station | 60856 | [60856-the-midnight-station.json](./60856-the-midnight-station.json) |
 | The Midnight Town Stories: Adam's Diary | 260530 | [260530-the-midnight-town-stories-adams-diary.json](./260530-the-midnight-town-stories-adams-diary.json) |
@@ -19874,6 +19875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Thousand Worlds | 276576 | [276576-three-thousand-worlds.json](./276576-three-thousand-worlds.json) |
 | Three Treason Theories | 110787 | [110787-three-treason-theories.json](./110787-three-treason-theories.json) |
 | Three Twenty One | 43440 | [43440-three-twenty-one.json](./43440-three-twenty-one.json) |
+| Three Verses | 297686 | [297686-three-verses.json](./297686-three-verses.json) |
 | Three Verses | 298289 | [298289-three-verses.json](./298289-three-verses.json) |
 | Three Weeks in Paradise | 30218 | [30218-three-weeks-in-paradise.json](./30218-three-weeks-in-paradise.json) |
 | Three Weeks on the Atlantic | 409372 | [409372-three-weeks-on-the-atlantic.json](./409372-three-weeks-on-the-atlantic.json) |
