@@ -2337,6 +2337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left Alive: Mech Edition | 111022 | [111022-left-alive-mech-edition.json](./111022-left-alive-mech-edition.json) |
 | Left Alone | 26527 | [26527-left-alone.json](./26527-left-alone.json) |
 | Left at Home | 241488 | [241488-left-at-home.json](./241488-left-at-home.json) |
+| Left Behind | 290729 | [290729-left-behind.json](./290729-left-behind.json) |
 | Left Behind 3: Rise of the Antichrist | 65727 | [65727-left-behind-3-rise-of-the-antichrist.json](./65727-left-behind-3-rise-of-the-antichrist.json) |
 | Left Behind 4: World at War | 62381 | [62381-left-behind-4-world-at-war.json](./62381-left-behind-4-world-at-war.json) |
 | Left Behind: Eternal Forces | 20614 | [20614-left-behind-eternal-forces.json](./20614-left-behind-eternal-forces.json) |
