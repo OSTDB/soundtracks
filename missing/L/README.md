@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth: Derelict Abyss | 138136 | [138136-labyrinth-derelict-abyss.json](./138136-labyrinth-derelict-abyss.json) |
 | Labyrinth: Dracula's Lair | 345371 | [345371-labyrinth-draculas-lair.json](./345371-labyrinth-draculas-lair.json) |
 | Labyrinth: Immortal Oblivion | 224601 | [224601-labyrinth-immortal-oblivion.json](./224601-labyrinth-immortal-oblivion.json) |
+| Labyrinth: Junior | 292912 | [292912-labyrinth-junior.json](./292912-labyrinth-junior.json) |
 | Labyrinth: Roll of Fate | 309494 | [309494-labyrinth-roll-of-fate.json](./309494-labyrinth-roll-of-fate.json) |
 | Labyrinth: The Exit Is Closer | 143977 | [143977-labyrinth-the-exit-is-closer.json](./143977-labyrinth-the-exit-is-closer.json) |
 | Labyrinth: The War on Terror | 129983 | [129983-labyrinth-the-war-on-terror.json](./129983-labyrinth-the-war-on-terror.json) |
@@ -5937,6 +5938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Noah: Scion of Paradise - Avatar, Lilliput, and Accessory Pack | 223577 | [223577-little-noah-scion-of-paradise-avatar-lilliput-and-accessory-pack.json](./223577-little-noah-scion-of-paradise-avatar-lilliput-and-accessory-pack.json) |
 | Little Noah: Scion of Paradise - Special Edition | 213141 | [213141-little-noah-scion-of-paradise-special-edition.json](./213141-little-noah-scion-of-paradise-special-edition.json) |
 | Little Number Daycare: Learn, Count, Say, Play for Toddlers | 409538 | [409538-little-number-daycare-learn-count-say-play-for-toddlers.json](./409538-little-number-daycare-learn-count-say-play-for-toddlers.json) |
+| Little Oceania | 293022 | [293022-little-oceania.json](./293022-little-oceania.json) |
 | Little Octopus | 157956 | [157956-little-octopus.json](./157956-little-octopus.json) |
 | Little Odyssey | 253473 | [253473-little-odyssey.json](./253473-little-odyssey.json) |
 | Little Old One and the Witch | 376548 | [376548-little-old-one-and-the-witch.json](./376548-little-old-one-and-the-witch.json) |
