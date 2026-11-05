@@ -2923,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action: Vengeance | 212641 | [212641-action-vengeance.json](./212641-action-vengeance.json) |
 | Actionauts | 40658 | [40658-actionauts.json](./40658-actionauts.json) |
 | ActionCam: Supernatural Case | 333529 | [333529-actioncam-supernatural-case.json](./333529-actioncam-supernatural-case.json) |
+| ActionHacker | 290686 | [290686-actionhacker.json](./290686-actionhacker.json) |
 | Actionpaint VR | 107931 | [107931-actionpaint-vr.json](./107931-actionpaint-vr.json) |
 | ActionSwing | 89784 | [89784-actionswing.json](./89784-actionswing.json) |
 | Activate | 231819 | [231819-activate.json](./231819-activate.json) |
@@ -3239,6 +3240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adult for Sex Motel | 288894 | [288894-adult-for-sex-motel.json](./288894-adult-for-sex-motel.json) |
 | Adult Life Yuri Bundle by Team ANPIM | 369310 | [369310-adult-life-yuri-bundle-by-team-anpim.json](./369310-adult-life-yuri-bundle-by-team-anpim.json) |
 | Adult Math | 113412 | [113412-adult-math.json](./113412-adult-math.json) |
+| Adult Moolah Nitwit Terrapins | 290666 | [290666-adult-moolah-nitwit-terrapins.json](./290666-adult-moolah-nitwit-terrapins.json) |
 | Adult Puzzle: Hentai Maid Aruha | 298606 | [298606-adult-puzzle-hentai-maid-aruha.json](./298606-adult-puzzle-hentai-maid-aruha.json) |
 | Adult Puzzle: My Cute Neighbor Serene | 274684 | [274684-adult-puzzle-my-cute-neighbor-serene.json](./274684-adult-puzzle-my-cute-neighbor-serene.json) |
 | Adult Puzzle: My Pretty Neighbor Chloe | 270861 | [270861-adult-puzzle-my-pretty-neighbor-chloe.json](./270861-adult-puzzle-my-pretty-neighbor-chloe.json) |
