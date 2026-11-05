@@ -2436,6 +2436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal: Unchained | 55038 | [55038-immortal-unchained.json](./55038-immortal-unchained.json) |
 | Immortal: Unchained - Storm Breaker | 118202 | [118202-immortal-unchained-storm-breaker.json](./118202-immortal-unchained-storm-breaker.json) |
 | Immortal's Way | 302068 | [302068-immortals-way.json](./302068-immortals-way.json) |
+| Immortalis | 286309 | [286309-immortalis.json](./286309-immortalis.json) |
 | Immortalis | 62944 | [62944-immortalis.json](./62944-immortalis.json) |
 | Immortality | 355212 | [355212-immortality.json](./355212-immortality.json) |
 | Immortality Paradox | 267999 | [267999-immortality-paradox.json](./267999-immortality-paradox.json) |
@@ -3751,6 +3752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
