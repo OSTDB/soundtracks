@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Foret | 176779 | [176779-la-foret.json](./176779-la-foret.json) |
 | La Foret De Pago 2: Souvenir de Glace | 163800 | [163800-la-foret-de-pago-2-souvenir-de-glace.json](./163800-la-foret-de-pago-2-souvenir-de-glace.json) |
 | La Forêt de Pago: La vengeance du Dragon | 120593 | [120593-la-foret-de-pago-la-vengeance-du-dragon.json](./120593-la-foret-de-pago-la-vengeance-du-dragon.json) |
+| La Frana | 267162 | [267162-la-frana.json](./267162-la-frana.json) |
 | La Fuga | 115603 | [115603-la-fuga.json](./115603-la-fuga.json) |
 | La Galerie des Toilettes | 347435 | [347435-la-galerie-des-toilettes.json](./347435-la-galerie-des-toilettes.json) |
 | La Giungla Tenebrosa | 145976 | [145976-la-giungla-tenebrosa.json](./145976-la-giungla-tenebrosa.json) |
@@ -9284,6 +9285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luge Crush 2018 | 87201 | [87201-luge-crush-2018.json](./87201-luge-crush-2018.json) |
 | Luggage Lane | 314474 | [314474-luggage-lane.json](./314474-luggage-lane.json) |
 | Luggage Retrieval Officer | 242147 | [242147-luggage-retrieval-officer.json](./242147-luggage-retrieval-officer.json) |
+| Lugh World | 267171 | [267171-lugh-world.json](./267171-lugh-world.json) |
 | Lugubrious | 404599 | [404599-lugubrious.json](./404599-lugubrious.json) |
 | Luhor's Memory | 393748 | [393748-luhors-memory.json](./393748-luhors-memory.json) |
 | Luigi & Spaghetti | 94408 | [94408-luigi-and-spaghetti.json](./94408-luigi-and-spaghetti.json) |
