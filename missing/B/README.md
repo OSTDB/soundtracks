@@ -6118,6 +6118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BellyBots | 32329 | [32329-bellybots.json](./32329-bellybots.json) |
 | Belongings | 158707 | [158707-belongings.json](./158707-belongings.json) |
 | Belote 3 in 1 | 326263 | [326263-belote-3-in-1.json](./326263-belote-3-in-1.json) |
+| Beloved Beatrice | 274278 | [274278-beloved-beatrice.json](./274278-beloved-beatrice.json) |
 | Beloved Nightmare | 267595 | [267595-beloved-nightmare.json](./267595-beloved-nightmare.json) |
 | Beloved Rapture | 211448 | [211448-beloved-rapture.json](./211448-beloved-rapture.json) |
 | Beloved, Below | 425555 | [425555-beloved-below.json](./425555-beloved-below.json) |
@@ -7059,6 +7060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BHB: BioHazard Bot | 75047 | [75047-bhb-biohazard-bot.json](./75047-bhb-biohazard-bot.json) |
 | Bher | 359361 | [359361-bher.json](./359361-bher.json) |
 | Bhop Craze | 201503 | [201503-bhop-craze.json](./201503-bhop-craze.json) |
+| Bhop Pro | 274263 | [274263-bhop-pro.json](./274263-bhop-pro.json) |
 | Bhop PRO | 144294 | [144294-bhop-pro.json](./144294-bhop-pro.json) |
 | Bhop up! | 292478 | [292478-bhop-up.json](./292478-bhop-up.json) |
 | BHU | 60309 | [60309-bhu.json](./60309-bhu.json) |
@@ -12636,6 +12638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonzala | 269595 | [269595-bonzala.json](./269595-bonzala.json) |
 | Bonze Adventure | 38539 | [38539-bonze-adventure.json](./38539-bonze-adventure.json) |
 | Bonzo The Brave: Be Brave | 299269 | [299269-bonzo-the-brave-be-brave.json](./299269-bonzo-the-brave-be-brave.json) |
+| Bonzo: Escape from Olympus | 274258 | [274258-bonzo-escape-from-olympus.json](./274258-bonzo-escape-from-olympus.json) |
 | Boo & Friends: Spot the Difference | 59060 | [59060-boo-and-friends-spot-the-difference.json](./59060-boo-and-friends-spot-the-difference.json) |
 | Boo Boo | 176648 | [176648-boo-boo.json](./176648-boo-boo.json) |
 | Boo Boo Bananas | 101322 | [101322-boo-boo-bananas.json](./101322-boo-boo-bananas.json) |
@@ -15851,6 +15854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutalismus: Dystopia | 355076 | [355076-brutalismus-dystopia.json](./355076-brutalismus-dystopia.json) |
 | Brutalist | 308250 | [308250-brutalist.json](./308250-brutalist.json) |
 | Brutalist Golf | 312983 | [312983-brutalist-golf.json](./312983-brutalist-golf.json) |
+| Brutalist Jam 2 | 274259 | [274259-brutalist-jam-2.json](./274259-brutalist-jam-2.json) |
 | Brutalistick VR | 277017 | [277017-brutalistick-vr.json](./277017-brutalistick-vr.json) |
 | Brutality club | 150981 | [150981-brutality-club.json](./150981-brutality-club.json) |
 | Brute | 33279 | [33279-brute.json](./33279-brute.json) |
