@@ -7100,6 +7100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eville | 133619 | [133619-eville.json](./133619-eville.json) |
 | Eville: Frost Golem Pack | 263232 | [263232-eville-frost-golem-pack.json](./263232-eville-frost-golem-pack.json) |
 | Eville: Kaif Pack | 263235 | [263235-eville-kaif-pack.json](./263235-eville-kaif-pack.json) |
+| Eville: Little Acora Brother Pack | 263268 | [263268-eville-little-acora-brother-pack.json](./263268-eville-little-acora-brother-pack.json) |
 | Eville: Mr. Peterson | 221423 | [221423-eville-mr-peterson.json](./221423-eville-mr-peterson.json) |
 | Eville: Star Gazer Pack | 263230 | [263230-eville-star-gazer-pack.json](./263230-eville-star-gazer-pack.json) |
 | EvilMorph | 30333 | [30333-evilmorph.json](./30333-evilmorph.json) |
