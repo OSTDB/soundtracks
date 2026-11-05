@@ -5924,6 +5924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beggar Simulator: Istanbul | 413815 | [413815-beggar-simulator-istanbul.json](./413815-beggar-simulator-istanbul.json) |
 | Beggar to Emperor | 353367 | [353367-beggar-to-emperor.json](./353367-beggar-to-emperor.json) |
 | Beggar's Life | 391612 | [391612-beggars-life.json](./391612-beggars-life.json) |
+| Beggar's Paradise | 272061 | [272061-beggars-paradise.json](./272061-beggars-paradise.json) |
 | Beggar's Road | 406195 | [406195-beggars-road.json](./406195-beggars-road.json) |
 | Beghost | 408381 | [408381-beghost.json](./408381-beghost.json) |
 | Begie Ade: A lyric of Lie and Retribution | 153533 | [153533-begie-ade-a-lyric-of-lie-and-retribution.json](./153533-begie-ade-a-lyric-of-lie-and-retribution.json) |
@@ -11058,6 +11059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Bunny: First Blood | 175386 | [175386-bloody-bunny-first-blood.json](./175386-bloody-bunny-first-blood.json) |
 | Bloody Bunny: The Game | 144358 | [144358-bloody-bunny-the-game.json](./144358-bloody-bunny-the-game.json) |
 | Bloody Call | 60933 | [60933-bloody-call.json](./60933-bloody-call.json) |
+| Bloody Checkers | 272068 | [272068-bloody-checkers.json](./272068-bloody-checkers.json) |
 | Bloody Chronicles Act 1: New Cycle of Death | 98789 | [98789-bloody-chronicles-act-1-new-cycle-of-death.json](./98789-bloody-chronicles-act-1-new-cycle-of-death.json) |
 | Bloody Cleanup | 326785 | [326785-bloody-cleanup.json](./326785-bloody-cleanup.json) |
 | Bloody Cleanup Togheter | 405692 | [405692-bloody-cleanup-togheter.json](./405692-bloody-cleanup-togheter.json) |
