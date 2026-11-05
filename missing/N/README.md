@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nachtigal | 57177 | [57177-nachtigal.json](./57177-nachtigal.json) |
 | Nachtmission | 94966 | [94966-nachtmission.json](./94966-nachtmission.json) |
 | Nachtschicht | 345797 | [345797-nachtschicht.json](./345797-nachtschicht.json) |
+| Nachzehrer | 285302 | [285302-nachzehrer.json](./285302-nachzehrer.json) |
 | Nack the Weasel | 330721 | [330721-nack-the-weasel.json](./330721-nack-the-weasel.json) |
 | Nada Asatarou / Kojima Takeo no Jissen Mahjong Kyoushitsu | 228566 | [228566-nada-asatarou-kojima-takeo-no-jissen-mahjong-kyoushitsu.json](./228566-nada-asatarou-kojima-takeo-no-jissen-mahjong-kyoushitsu.json) |
 | Naddagil: A Nordic Nightmare | 314026 | [314026-naddagil-a-nordic-nightmare.json](./314026-naddagil-a-nordic-nightmare.json) |
@@ -2744,6 +2745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Net Versus Reversi | 62388 | [62388-net-versus-reversi.json](./62388-net-versus-reversi.json) |
 | Net Versus Shogi | 78078 | [78078-net-versus-shogi.json](./78078-net-versus-shogi.json) |
 | Net Worthless | 410971 | [410971-net-worthless.json](./410971-net-worthless.json) |
+| Net Yaroze: 2014 Collection | 285248 | [285248-net-yaroze-2014-collection.json](./285248-net-yaroze-2014-collection.json) |
 | Net-tac-toe | 276723 | [276723-net-tac-toe.json](./276723-net-tac-toe.json) |
 | NET:Zone | 92924 | [92924-net-zone.json](./92924-net-zone.json) |
 | Net.Attack(): Code or Die! | 315353 | [315353-net-attack-code-or-die.json](./315353-net-attack-code-or-die.json) |
