@@ -2792,6 +2792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tay's Race | 93880 | [93880-tays-race.json](./93880-tays-race.json) |
 | Taya's Alphabet | 195465 | [195465-tayas-alphabet.json](./195465-tayas-alphabet.json) |
 | Tayal | 109622 | [109622-tayal.json](./109622-tayal.json) |
+| Taygeta | 271983 | [271983-taygeta.json](./271983-taygeta.json) |
 | Tayke Me With You | 413502 | [413502-tayke-me-with-you.json](./413502-tayke-me-with-you.json) |
 | Taylordle | 330295 | [330295-taylordle.json](./330295-taylordle.json) |
 | Tayto Runner | 330348 | [330348-tayto-runner.json](./330348-tayto-runner.json) |
@@ -6693,6 +6694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Brave Little Pigs | 332344 | [332344-the-brave-little-pigs.json](./332344-the-brave-little-pigs.json) |
 | The Brave Mouse | 51513 | [51513-the-brave-mouse.json](./51513-the-brave-mouse.json) |
 | The Brave Never Alone | 351109 | [351109-the-brave-never-alone.json](./351109-the-brave-never-alone.json) |
+| The Brave New World | 272042 | [272042-the-brave-new-world.json](./272042-the-brave-new-world.json) |
 | The Braves & Bows | 32292 | [32292-the-braves-and-bows.json](./32292-the-braves-and-bows.json) |
 | The Braves: Beginning | 274381 | [274381-the-braves-beginning.json](./274381-the-braves-beginning.json) |
 | The Brazil | 294851 | [294851-the-brazil.json](./294851-the-brazil.json) |
@@ -9013,6 +9015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Falconers: Moonlight | 29528 | [29528-the-falconers-moonlight.json](./29528-the-falconers-moonlight.json) |
 | The Fall | 335280 | [335280-the-fall.json](./335280-the-fall.json) |
 | The Fall | 9547 | [9547-the-fall.json](./9547-the-fall.json) |
+| The Fall and Rise of Sadcock-upon-Avon | 272057 | [272057-the-fall-and-rise-of-sadcock-upon-avon.json](./272057-the-fall-and-rise-of-sadcock-upon-avon.json) |
 | The Fall Bundle | 331491 | [331491-the-fall-bundle.json](./331491-the-fall-bundle.json) |
 | The Fall of Aether Station | 240700 | [240700-the-fall-of-aether-station.json](./240700-the-fall-of-aether-station.json) |
 | The Fall of April | 198102 | [198102-the-fall-of-april.json](./198102-the-fall-of-april.json) |
@@ -14490,6 +14493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Penguin Horror: Legacy of The Pengcasso | 285475 | [285475-the-penguin-horror-legacy-of-the-pengcasso.json](./285475-the-penguin-horror-legacy-of-the-pengcasso.json) |
 | The Penguin IQ Test | 151282 | [151282-the-penguin-iq-test.json](./151282-the-penguin-iq-test.json) |
 | The Penguin P | 215107 | [215107-the-penguin-p.json](./215107-the-penguin-p.json) |
+| The PenguinGame 2: Lies of Penguin | 272079 | [272079-the-penguingame-2-lies-of-penguin.json](./272079-the-penguingame-2-lies-of-penguin.json) |
 | The Penguins of Madagascar | 18273 | [18273-the-penguins-of-madagascar.json](./18273-the-penguins-of-madagascar.json) |
 | The Penguins of Madagascar: Dr. Blowhole Returns Again! | 307491 | [307491-the-penguins-of-madagascar-dr-blowhole-returns-again.json](./307491-the-penguins-of-madagascar-dr-blowhole-returns-again.json) |
 | The Penguins of Madagascar: Dr. Blowhole Returns Again! | 3768 | [3768-the-penguins-of-madagascar-dr-blowhole-returns-again.json](./3768-the-penguins-of-madagascar-dr-blowhole-returns-again.json) |
@@ -24073,6 +24077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Tattoo Girls | 27260 | [27260-tokyo-tattoo-girls.json](./27260-tokyo-tattoo-girls.json) |
 | Tokyo Train 4 | 311452 | [311452-tokyo-train-4.json](./311452-tokyo-train-4.json) |
 | Tokyo Trigger | 361274 | [361274-tokyo-trigger.json](./361274-tokyo-trigger.json) |
+| Tokyo Twilight Busters | 272088 | [272088-tokyo-twilight-busters.json](./272088-tokyo-twilight-busters.json) |
 | Tokyo Twilight Busters | 69184 | [69184-tokyo-twilight-busters.json](./69184-tokyo-twilight-busters.json) |
 | Tokyo Twilight Ghost Hunters | 12195 | [12195-tokyo-twilight-ghost-hunters.json](./12195-tokyo-twilight-ghost-hunters.json) |
 | Tokyo Twilight Ghost Hunters: Daybreak Special Gigs | 12209 | [12209-tokyo-twilight-ghost-hunters-daybreak-special-gigs.json](./12209-tokyo-twilight-ghost-hunters-daybreak-special-gigs.json) |
@@ -29516,6 +29521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Hunter Claire | 82844 | [82844-treasure-hunter-claire.json](./82844-treasure-hunter-claire.json) |
 | Treasure Hunter for Pico | 285845 | [285845-treasure-hunter-for-pico.json](./285845-treasure-hunter-for-pico.json) |
 | Treasure Hunter G | 15844 | [15844-treasure-hunter-g.json](./15844-treasure-hunter-g.json) |
+| Treasure Hunter Man | 272043 | [272043-treasure-hunter-man.json](./272043-treasure-hunter-man.json) |
 | Treasure Hunter Simulator 2 | 153995 | [153995-treasure-hunter-simulator-2.json](./153995-treasure-hunter-simulator-2.json) |
 | Treasure Hunter VR | 235939 | [235939-treasure-hunter-vr.json](./235939-treasure-hunter-vr.json) |
 | Treasure Hunter X | 85522 | [85522-treasure-hunter-x.json](./85522-treasure-hunter-x.json) |
