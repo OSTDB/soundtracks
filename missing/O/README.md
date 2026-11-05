@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obunga | 213225 | [213225-obunga.json](./213225-obunga.json) |
 | Obverse | 398105 | [398105-obverse.json](./398105-obverse.json) |
 | Obversion | 120388 | [120388-obversion.json](./120388-obversion.json) |
+| Obzen | 272046 | [272046-obzen.json](./272046-obzen.json) |
 | Ocak | 158875 | [158875-ocak.json](./158875-ocak.json) |
 | Ocarina of Time + Majora's Mask Crossover Randomizer | 231548 | [231548-ocarina-of-time-majoras-mask-crossover-randomizer.json](./231548-ocarina-of-time-majoras-mask-crossover-randomizer.json) |
 | Ocarina of Time Redux | 172478 | [172478-ocarina-of-time-redux.json](./172478-ocarina-of-time-redux.json) |
