@@ -12991,5 +12991,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryuuo no Oshigoto! | 125193 | [125193-ryuuo-no-oshigoto.json](./125193-ryuuo-no-oshigoto.json) |
 | Ryuuo no Oshigoto!: Limited Edition | 167073 | [167073-ryuuo-no-oshigoto-limited-edition.json](./167073-ryuuo-no-oshigoto-limited-edition.json) |
 | Ryuusei no Rockman: Denpa Henkan! On Air! | 139348 | [139348-ryuusei-no-rockman-denpa-henkan-on-air.json](./139348-ryuusei-no-rockman-denpa-henkan-on-air.json) |
+| Ryuusei-gou ni Notte | 259311 | [259311-ryuusei-gou-ni-notte.json](./259311-ryuusei-gou-ni-notte.json) |
 | Ryzy Nyil | 394292 | [394292-ryzy-nyil.json](./394292-ryzy-nyil.json) |
 | RZR | 340676 | [340676-rzr.json](./340676-rzr.json) |
