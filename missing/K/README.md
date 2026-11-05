@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaitouranma Miyabi | 339314 | [339314-kaitouranma-miyabi.json](./339314-kaitouranma-miyabi.json) |
 | Kaiv | 23874 | [23874-kaiv.json](./23874-kaiv.json) |
 | Kaiwa | 290681 | [290681-kaiwa.json](./290681-kaiwa.json) |
+| Kaiwa 2 | 295060 | [295060-kaiwa-2.json](./295060-kaiwa-2.json) |
 | KaiWorld | 174048 | [174048-kaiworld.json](./174048-kaiworld.json) |
 | Kaiyo's Castle | 347182 | [347182-kaiyos-castle.json](./347182-kaiyos-castle.json) |
 | Kaiyou Resutoran Uminekotei | 137445 | [137445-kaiyou-resutoran-uminekotei.json](./137445-kaiyou-resutoran-uminekotei.json) |
