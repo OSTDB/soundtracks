@@ -5134,6 +5134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aim Master | 110913 | [110913-aim-master.json](./110913-aim-master.json) |
 | Aim Master H | 169787 | [169787-aim-master-h.json](./169787-aim-master-h.json) |
 | Aim Sex | 297058 | [297058-aim-sex.json](./297058-aim-sex.json) |
+| Aim Shooter Game | 252475 | [252475-aim-shooter-game.json](./252475-aim-shooter-game.json) |
 | Aim To Capture | 373618 | [373618-aim-to-capture.json](./373618-aim-to-capture.json) |
 | Aim Trainer Asylum | 361917 | [361917-aim-trainer-asylum.json](./361917-aim-trainer-asylum.json) |
 | Aim Trainer Gauntlet | 337802 | [337802-aim-trainer-gauntlet.json](./337802-aim-trainer-gauntlet.json) |
@@ -10895,6 +10896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anti-Demon Stormedge Sakuya | 82621 | [82621-anti-demon-stormedge-sakuya.json](./82621-anti-demon-stormedge-sakuya.json) |
 | Anti-Goodness Dept. | 176787 | [176787-anti-goodness-dept.json](./176787-anti-goodness-dept.json) |
 | Anti-Grav | 114325 | [114325-anti-grav.json](./114325-anti-grav.json) |
+| Anti-Guide to Field Guides | 252470 | [252470-anti-guide-to-field-guides.json](./252470-anti-guide-to-field-guides.json) |
 | Anti-Idle: The Game | 225644 | [225644-anti-idle-the-game.json](./225644-anti-idle-the-game.json) |
 | Anti-Jump-Man | 130374 | [130374-anti-jump-man.json](./130374-anti-jump-man.json) |
 | Anti-Nightmare Master Plan | 211435 | [211435-anti-nightmare-master-plan.json](./211435-anti-nightmare-master-plan.json) |
