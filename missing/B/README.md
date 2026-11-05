@@ -951,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -17275,6 +17276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Restaurant Express | 68477 | [68477-burger-restaurant-express.json](./68477-burger-restaurant-express.json) |
 | Burger Restaurant Simulator | 261339 | [261339-burger-restaurant-simulator.json](./261339-burger-restaurant-simulator.json) |
 | Burger Rush | 71525 | [71525-burger-rush.json](./71525-burger-rush.json) |
+| Burger Saga | 278769 | [278769-burger-saga.json](./278769-burger-saga.json) |
 | Burger Shift: Team Rush | 391583 | [391583-burger-shift-team-rush.json](./391583-burger-shift-team-rush.json) |
 | Burger Shop | 76082 | [76082-burger-shop.json](./76082-burger-shop.json) |
 | Burger Shop 2 | 52673 | [52673-burger-shop-2.json](./52673-burger-shop-2.json) |
