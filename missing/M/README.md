@@ -1566,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicalic Sky High: Soratobu Houki ni Omoi wo Nosete | 194554 | [194554-magicalic-sky-high-soratobu-houki-ni-omoi-wo-nosete.json](./194554-magicalic-sky-high-soratobu-houki-ni-omoi-wo-nosete.json) |
 | Magically Sorted | 423996 | [423996-magically-sorted.json](./423996-magically-sorted.json) |
 | Magicami | 150593 | [150593-magicami.json](./150593-magicami.json) |
+| Magicarat Radiant | 279995 | [279995-magicarat-radiant.json](./279995-magicarat-radiant.json) |
 | MagicArchitect | 284268 | [284268-magicarchitect.json](./284268-magicarchitect.json) |
 | MagiCarnage | 211730 | [211730-magicarnage.json](./211730-magicarnage.json) |
 | Magicat | 376831 | [376831-magicat.json](./376831-magicat.json) |
@@ -3187,6 +3188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maou ga Ochiru Hi | 295047 | [295047-maou-ga-ochiru-hi.json](./295047-maou-ga-ochiru-hi.json) |
 | Maou Shoujo Eri | 262262 | [262262-maou-shoujo-eri.json](./262262-maou-shoujo-eri.json) |
 | Maou's Crucible | 381740 | [381740-maous-crucible.json](./381740-maous-crucible.json) |
+| Maouisho: La Dolce Vita with Another World's Demon Lord | 279988 | [279988-maouisho-la-dolce-vita-with-another-worlds-demon-lord.json](./279988-maouisho-la-dolce-vita-with-another-worlds-demon-lord.json) |
 | Màoxiǎn Shíguāngjī | 148779 | [148779-maoxian-shiguangji.json](./148779-maoxian-shiguangji.json) |
 | Màoxiǎn Xiǎofēnduì | 370228 | [370228-maoxian-xiaofendui.json](./370228-maoxian-xiaofendui.json) |
 | Map | 78419 | [78419-map.json](./78419-map.json) |
@@ -6840,6 +6842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Dungeon | 230952 | [230952-medieval-dungeon.json](./230952-medieval-dungeon.json) |
 | Medieval Dynasty | 121998 | [121998-medieval-dynasty.json](./121998-medieval-dynasty.json) |
 | Medieval Dynasty New Settlement | 282159 | [282159-medieval-dynasty-new-settlement.json](./282159-medieval-dynasty-new-settlement.json) |
+| Medieval Dynasty: Co-Op Mode | 279991 | [279991-medieval-dynasty-co-op-mode.json](./279991-medieval-dynasty-co-op-mode.json) |
 | Medieval Dynasty: Echoes of Nature | 366852 | [366852-medieval-dynasty-echoes-of-nature.json](./366852-medieval-dynasty-echoes-of-nature.json) |
 | Medieval Dynasty: Hunting Pack | 415186 | [415186-medieval-dynasty-hunting-pack.json](./415186-medieval-dynasty-hunting-pack.json) |
 | Medieval Dynasty: The Backwood | 415188 | [415188-medieval-dynasty-the-backwood.json](./415188-medieval-dynasty-the-backwood.json) |
