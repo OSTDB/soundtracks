@@ -3925,6 +3925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Sad Boy | 157480 | [157480-battle-sad-boy.json](./157480-battle-sad-boy.json) |
 | Battle Sage | 217517 | [217517-battle-sage.json](./217517-battle-sage.json) |
 | Battle Santa 64 | 281041 | [281041-battle-santa-64.json](./281041-battle-santa-64.json) |
+| Battle Scars Eternal Stars | 291795 | [291795-battle-scars-eternal-stars.json](./291795-battle-scars-eternal-stars.json) |
 | Battle Sea | 268479 | [268479-battle-sea.json](./268479-battle-sea.json) |
 | Battle Shadow Arena | 350164 | [350164-battle-shadow-arena.json](./350164-battle-shadow-arena.json) |
 | Battle Shanghai: Dragon's Eye | 314220 | [314220-battle-shanghai-dragons-eye.json](./314220-battle-shanghai-dragons-eye.json) |
@@ -5281,6 +5282,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat The Boss Game | 331699 | [331699-beat-the-boss-game.json](./331699-beat-the-boss-game.json) |
 | Beat the Champions | 392603 | [392603-beat-the-champions.json](./392603-beat-the-champions.json) |
 | Beat the Clock | 196261 | [196261-beat-the-clock.json](./196261-beat-the-clock.json) |
+| Beat the Clock | 291928 | [291928-beat-the-clock.json](./291928-beat-the-clock.json) |
+| Beat the Clock: Hardcore | 291929 | [291929-beat-the-clock-hardcore.json](./291929-beat-the-clock-hardcore.json) |
 | Beat the Dictators | 31683 | [31683-beat-the-dictators.json](./31683-beat-the-dictators.json) |
 | Beat the Fed | 301073 | [301073-beat-the-fed.json](./301073-beat-the-fed.json) |
 | Beat the Heat | 226254 | [226254-beat-the-heat.json](./226254-beat-the-heat.json) |
@@ -17865,6 +17868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzzin | 415054 | [415054-buzzin.json](./415054-buzzin.json) |
 | Buzzing Cars | 221925 | [221925-buzzing-cars.json](./221925-buzzing-cars.json) |
 | BuzzingCars | 92234 | [92234-buzzingcars.json](./92234-buzzingcars.json) |
+| BuzzLabs | 291790 | [291790-buzzlabs.json](./291790-buzzlabs.json) |
 | Buzzle | 148866 | [148866-buzzle.json](./148866-buzzle.json) |
 | Buzzopolis: Hive Incremental | 373814 | [373814-buzzopolis-hive-incremental.json](./373814-buzzopolis-hive-incremental.json) |
 | Buzzsaw | 60760 | [60760-buzzsaw.json](./60760-buzzsaw.json) |
