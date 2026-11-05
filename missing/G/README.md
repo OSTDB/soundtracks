@@ -5218,6 +5218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnome Ranger | 15492 | [15492-gnome-ranger.json](./15492-gnome-ranger.json) |
 | Gnome Ranger II: Ingrid's Back | 47109 | [47109-gnome-ranger-ii-ingrids-back.json](./47109-gnome-ranger-ii-ingrids-back.json) |
 | Gnome Robots | 122779 | [122779-gnome-robots.json](./122779-gnome-robots.json) |
+| Gnome Runner | 289124 | [289124-gnome-runner.json](./289124-gnome-runner.json) |
 | Gnome Sudoku | 122769 | [122769-gnome-sudoku.json](./122769-gnome-sudoku.json) |
 | Gnome Swell Foop | 122776 | [122776-gnome-swell-foop.json](./122776-gnome-swell-foop.json) |
 | Gnome Tali | 122780 | [122780-gnome-tali.json](./122780-gnome-tali.json) |
@@ -9374,6 +9375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groda | 338537 | [338537-groda.json](./338537-groda.json) |
 | Grog | 276924 | [276924-grog.json](./276924-grog.json) |
 | Grog 'n Glory | 291739 | [291739-grog-n-glory.json](./291739-grog-n-glory.json) |
+| Grogger | 289122 | [289122-grogger.json](./289122-grogger.json) |
 | Groggers! | 31122 | [31122-groggers.json](./31122-groggers.json) |
 | Grok | 322763 | [322763-grok.json](./322763-grok.json) |
 | Grokai | 307031 | [307031-grokai.json](./307031-grokai.json) |
