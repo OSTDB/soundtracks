@@ -1149,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandora: Purge of Pride | 62995 | [62995-pandora-purge-of-pride.json](./62995-pandora-purge-of-pride.json) |
 | Pandora: Wild Origins | 169139 | [169139-pandora-wild-origins.json](./169139-pandora-wild-origins.json) |
 | Pandora's Box | 252016 | [252016-pandoras-box.json](./252016-pandoras-box.json) |
+| Pandora's Box | 295983 | [295983-pandoras-box.json](./295983-pandoras-box.json) |
 | Pandora's Box | 330803 | [330803-pandoras-box.json](./330803-pandoras-box.json) |
 | Pandora's Box | 76200 | [76200-pandoras-box.json](./76200-pandoras-box.json) |
 | Pandora's Box | 79080 | [79080-pandoras-box.json](./79080-pandoras-box.json) |
@@ -7026,6 +7027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pingo's Revenge | 197076 | [197076-pingos-revenge.json](./197076-pingos-revenge.json) |
 | Pingolf | 318601 | [318601-pingolf.json](./318601-pingolf.json) |
 | Pingorile | 382851 | [382851-pingorile.json](./382851-pingorile.json) |
+| PingPing | 295984 | [295984-pingping.json](./295984-pingping.json) |
 | Pingpon | 243174 | [243174-pingpon.json](./243174-pingpon.json) |
 | PingPong Kings VR | 89256 | [89256-pingpong-kings-vr.json](./89256-pingpong-kings-vr.json) |
 | Pingu and Friends | 130803 | [130803-pingu-and-friends.json](./130803-pingu-and-friends.json) |
@@ -16073,6 +16075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proppi | 381522 | [381522-proppi.json](./381522-proppi.json) |
 | Propulsion | 152701 | [152701-propulsion.json](./152701-propulsion.json) |
 | Prose & Codes | 191577 | [191577-prose-and-codes.json](./191577-prose-and-codes.json) |
+| Proserpina's Quest | 295943 | [295943-proserpinas-quest.json](./295943-proserpinas-quest.json) |
 | ProSoccer 2190 | 138723 | [138723-prosoccer-2190.json](./138723-prosoccer-2190.json) |
 | Prospect | 253511 | [253511-prospect.json](./253511-prospect.json) |
 | Prospect Renegade | 294375 | [294375-prospect-renegade.json](./294375-prospect-renegade.json) |
@@ -16375,6 +16378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PSS-62 | 263676 | [263676-pss-62.json](./263676-pss-62.json) |
 | PSS-63 | 263678 | [263678-pss-63.json](./263678-pss-63.json) |
 | PSS-64 | 263679 | [263679-pss-64.json](./263679-pss-64.json) |
+| Pssst | 295985 | [295985-pssst.json](./295985-pssst.json) |
 | Pssst | 78275 | [78275-pssst.json](./78275-pssst.json) |
 | Psst... I Have a Secret | 179043 | [179043-psst-i-have-a-secret.json](./179043-psst-i-have-a-secret.json) |
 | PSweet | 151078 | [151078-psweet.json](./151078-psweet.json) |
