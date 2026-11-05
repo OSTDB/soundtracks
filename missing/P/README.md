@@ -407,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PachiPara 3D: Premium Umi Monogatari - Yumemiru Otome to Pachinko Ou Ketteisen | 145405 | [145405-pachipara-3d-premium-umi-monogatari-yumemiru-otome-to-pachinko-ou-ketteisen.json](./145405-pachipara-3d-premium-umi-monogatari-yumemiru-otome-to-pachinko-ou-ketteisen.json) |
 | PachiPara 3D: Taikai Monogatari 2 - Pachi Pro Fuuunroku Hana: Kibou to Uragiri no Gakuen Seikatsu | 222330 | [222330-pachipara-3d-taikai-monogatari-2-pachi-pro-fuuunroku-hana-kibou-to-uragiri-no-gakuen-seikatsu.json](./222330-pachipara-3d-taikai-monogatari-2-pachi-pro-fuuunroku-hana-kibou-to-uragiri-no-gakuen-seikatsu.json) |
 | PachiPara Slot+ Pachi-Slot Daiku no Gen-san: Ikuze! Honō no Gen Matsuri-hen | 138686 | [138686-pachipara-slot-pachi-slot-daiku-no-gen-san-ikuze-hono-no-gen-matsuri-hen.json](./138686-pachipara-slot-pachi-slot-daiku-no-gen-san-ikuze-hono-no-gen-matsuri-hen.json) |
+| PachiPara12: Daikai to Natsu no Omoide | 256625 | [256625-pachipara12-daikai-to-natsu-no-omoide.json](./256625-pachipara12-daikai-to-natsu-no-omoide.json) |
 | Pachirisu's Click-Clack Attack! | 234097 | [234097-pachirisus-click-clack-attack.json](./234097-pachirisus-click-clack-attack.json) |
 | Pachisi | 93556 | [93556-pachisi.json](./93556-pachisi.json) |
 | Pachislot Akumajou Dracula | 315523 | [315523-pachislot-akumajou-dracula.json](./315523-pachislot-akumajou-dracula.json) |
@@ -16618,6 +16619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychiatrist Simulator 2 | 279487 | [279487-psychiatrist-simulator-2.json](./279487-psychiatrist-simulator-2.json) |
 | Psychic | 187201 | [187201-psychic.json](./187201-psychic.json) |
 | Psychic 5 | 39393 | [39393-psychic-5.json](./39393-psychic-5.json) |
+| Psychic 5: Eternal | 256595 | [256595-psychic-5-eternal.json](./256595-psychic-5-eternal.json) |
 | Psychic Cat | 182224 | [182224-psychic-cat.json](./182224-psychic-cat.json) |
 | Psychic Dectetive Final: Solitude Part 1 | 66330 | [66330-psychic-dectetive-final-solitude-part-1.json](./66330-psychic-dectetive-final-solitude-part-1.json) |
 | Psychic Detective Final: Solitude Part 2 | 66329 | [66329-psychic-detective-final-solitude-part-2.json](./66329-psychic-detective-final-solitude-part-2.json) |
@@ -16865,6 +16867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puckman | 47280 | [47280-puckman.json](./47280-puckman.json) |
 | Puckoff | 191060 | [191060-puckoff.json](./191060-puckoff.json) |
 | Puda + The Kid | 263198 | [263198-puda-the-kid.json](./263198-puda-the-kid.json) |
+| Puddies | 256601 | [256601-puddies.json](./256601-puddies.json) |
 | Pudding | 264725 | [264725-pudding.json](./264725-pudding.json) |
 | Pudding | 312022 | [312022-pudding.json](./312022-pudding.json) |
 | Pudding Bang 2 | 246259 | [246259-pudding-bang-2.json](./246259-pudding-bang-2.json) |
@@ -17918,6 +17921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle by Nikoli S Akari | 223561 | [223561-puzzle-by-nikoli-s-akari.json](./223561-puzzle-by-nikoli-s-akari.json) |
 | Puzzle by Nikoli S Hashiwokakero | 237357 | [237357-puzzle-by-nikoli-s-hashiwokakero.json](./237357-puzzle-by-nikoli-s-hashiwokakero.json) |
 | Puzzle by Nikoli S Heyawake | 231252 | [231252-puzzle-by-nikoli-s-heyawake.json](./231252-puzzle-by-nikoli-s-heyawake.json) |
+| Puzzle by Nikoli S Hitori | 256591 | [256591-puzzle-by-nikoli-s-hitori.json](./256591-puzzle-by-nikoli-s-hitori.json) |
 | Puzzle by Nikoli S Slitherlink | 225545 | [225545-puzzle-by-nikoli-s-slitherlink.json](./225545-puzzle-by-nikoli-s-slitherlink.json) |
 | Puzzle by Nikoli S Sudoku | 219293 | [219293-puzzle-by-nikoli-s-sudoku.json](./219293-puzzle-by-nikoli-s-sudoku.json) |
 | Puzzle by Nikoli S Yajilin | 252622 | [252622-puzzle-by-nikoli-s-yajilin.json](./252622-puzzle-by-nikoli-s-yajilin.json) |
@@ -18358,6 +18362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuzzleScriptMis | 312684 | [312684-puzzlescriptmis.json](./312684-puzzlescriptmis.json) |
 | PuzzlesO | 425837 | [425837-puzzleso.json](./425837-puzzleso.json) |
 | PuzzleSpin: Patterns in Nature | 98572 | [98572-puzzlespin-patterns-in-nature.json](./98572-puzzlespin-patterns-in-nature.json) |
+| PuzzleSquare | 256606 | [256606-puzzlesquare.json](./256606-puzzlesquare.json) |
 | PuzzleStones | 301555 | [301555-puzzlestones.json](./301555-puzzlestones.json) |
 | Puzzlestuck | 352313 | [352313-puzzlestuck.json](./352313-puzzlestuck.json) |
 | PuzzleTales: Svalbard | 120202 | [120202-puzzletales-svalbard.json](./120202-puzzletales-svalbard.json) |
