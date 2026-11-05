@@ -3472,6 +3472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Swat | 29656 | [29656-operation-swat.json](./29656-operation-swat.json) |
 | Operation Teddy Bear | 137505 | [137505-operation-teddy-bear.json](./137505-operation-teddy-bear.json) |
 | Operation Temple | 293874 | [293874-operation-temple.json](./293874-operation-temple.json) |
+| Operation Terra | 268277 | [268277-operation-terra.json](./268277-operation-terra.json) |
 | Operation Thunder Hurricane | 127511 | [127511-operation-thunder-hurricane.json](./127511-operation-thunder-hurricane.json) |
 | Operation Thunderbolt | 12191 | [12191-operation-thunderbolt.json](./12191-operation-thunderbolt.json) |
 | Operation TP | 169482 | [169482-operation-tp.json](./169482-operation-tp.json) |
