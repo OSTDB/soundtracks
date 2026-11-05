@@ -5766,6 +5766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deity's Domain | 306383 | [306383-deitys-domain.json](./306383-deitys-domain.json) |
 | DeIz | 236805 | [236805-deiz.json](./236805-deiz.json) |
 | Déjà Boom | 364657 | [364657-deja-boom.json](./364657-deja-boom.json) |
+| Déjà Drift | 276562 | [276562-deja-drift.json](./276562-deja-drift.json) |
 | Deja View: A Spot the Difference Game | 344290 | [344290-deja-view-a-spot-the-difference-game.json](./344290-deja-view-a-spot-the-difference-game.json) |
 | Deja Vu | 149779 | [149779-deja-vu.json](./149779-deja-vu.json) |
 | Deja Vu | 229690 | [229690-deja-vu.json](./229690-deja-vu.json) |
@@ -14746,6 +14747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest X: All In One Package - Versions 1-4 | 136719 | [136719-dragon-quest-x-all-in-one-package-versions-1-4.json](./136719-dragon-quest-x-all-in-one-package-versions-1-4.json) |
 | Dragon Quest X: All In One Package - Versions 1-5 | 136742 | [136742-dragon-quest-x-all-in-one-package-versions-1-5.json](./136742-dragon-quest-x-all-in-one-package-versions-1-5.json) |
 | Dragon Quest X: All In One Package - Versions 1-6 | 222408 | [222408-dragon-quest-x-all-in-one-package-versions-1-6.json](./222408-dragon-quest-x-all-in-one-package-versions-1-6.json) |
+| Dragon Quest X: All In One Package - Versions 1-7 | 276515 | [276515-dragon-quest-x-all-in-one-package-versions-1-7.json](./276515-dragon-quest-x-all-in-one-package-versions-1-7.json) |
 | Dragon Quest X: Ibara no Miko to Horobi no Kami Online | 136835 | [136835-dragon-quest-x-ibara-no-miko-to-horobi-no-kami-online.json](./136835-dragon-quest-x-ibara-no-miko-to-horobi-no-kami-online.json) |
 | Dragon Quest X: Inishie no Ryuu no Denshou Online | 203732 | [203732-dragon-quest-x-inishie-no-ryuu-no-denshou-online.json](./203732-dragon-quest-x-inishie-no-ryuu-no-denshou-online.json) |
 | Dragon Quest X: Jikuu no Mayoigo-tachi Online | 374305 | [374305-dragon-quest-x-jikuu-no-mayoigo-tachi-online.json](./374305-dragon-quest-x-jikuu-no-mayoigo-tachi-online.json) |
@@ -16290,6 +16292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive for Your Life | 116722 | [116722-drive-for-your-life.json](./116722-drive-for-your-life.json) |
 | Drive Forward | 130163 | [130163-drive-forward.json](./130163-drive-forward.json) |
 | Drive Girls | 28243 | [28243-drive-girls.json](./28243-drive-girls.json) |
+| Drive Hard | 276557 | [276557-drive-hard.json](./276557-drive-hard.json) |
 | Drive Horizon Story | 411141 | [411141-drive-horizon-story.json](./411141-drive-horizon-story.json) |
 | Drive in the Rain | 414818 | [414818-drive-in-the-rain.json](./414818-drive-in-the-rain.json) |
 | Drive Isle | 44178 | [44178-drive-isle.json](./44178-drive-isle.json) |
