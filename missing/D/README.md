@@ -15488,6 +15488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Abyss: Survivors | 346560 | [346560-dream-abyss-survivors.json](./346560-dream-abyss-survivors.json) |
 | Dream Addict | 303491 | [303491-dream-addict.json](./303491-dream-addict.json) |
 | Dream Adventure | 264068 | [264068-dream-adventure.json](./264068-dream-adventure.json) |
+| Dream Aether | 262713 | [262713-dream-aether.json](./262713-dream-aether.json) |
 | Dream Alone | 56033 | [56033-dream-alone.json](./56033-dream-alone.json) |
 | Dream Angling | 100319 | [100319-dream-angling.json](./100319-dream-angling.json) |
 | Dream Animal | 376759 | [376759-dream-animal.json](./376759-dream-animal.json) |
