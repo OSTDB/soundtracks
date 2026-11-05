@@ -14264,6 +14264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artis of Sperm Drinking | 82605 | [82605-artis-of-sperm-drinking.json](./82605-artis-of-sperm-drinking.json) |
 | Artisan | 190096 | [190096-artisan.json](./190096-artisan.json) |
 | Artisan Story | 260215 | [260215-artisan-story.json](./260215-artisan-story.json) |
+| Artisan TD | 281796 | [281796-artisan-td.json](./281796-artisan-td.json) |
 | Artisan: Going Home Again | 31384 | [31384-artisan-going-home-again.json](./31384-artisan-going-home-again.json) |
 | Artist Colony | 23284 | [23284-artist-colony.json](./23284-artist-colony.json) |
 | Artist Idle | 146809 | [146809-artist-idle.json](./146809-artist-idle.json) |
@@ -14544,6 +14545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ash Warden | 361767 | [361767-ash-warden.json](./361767-ash-warden.json) |
 | Ash. | 76669 | [76669-ash.json](./76669-ash.json) |
 | Asha | 189915 | [189915-asha.json](./189915-asha.json) |
+| Asha Empire Online | 281783 | [281783-asha-empire-online.json](./281783-asha-empire-online.json) |
 | Asha Empire: Exodus | 301470 | [301470-asha-empire-exodus.json](./301470-asha-empire-exodus.json) |
 | Ashanti Protocol: Unmanned Peacekeepers Amidst a Tempest of Conflict | 330335 | [330335-ashanti-protocol-unmanned-peacekeepers-amidst-a-tempest-of-conflict.json](./330335-ashanti-protocol-unmanned-peacekeepers-amidst-a-tempest-of-conflict.json) |
 | Ashbakaha | 309211 | [309211-ashbakaha.json](./309211-ashbakaha.json) |
