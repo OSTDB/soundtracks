@@ -377,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 12: Axonos - Owen Roberts International Airport | 312520 | [312520-x-plane-12-axonos-owen-roberts-international-airport.json](./312520-x-plane-12-axonos-owen-roberts-international-airport.json) |
 | X-Plane 12: Axonos - Varna Airport | 312522 | [312522-x-plane-12-axonos-varna-airport.json](./312522-x-plane-12-axonos-varna-airport.json) |
 | X-Plane 12: FACO Simulations - F-15C Eagle | 312519 | [312519-x-plane-12-faco-simulations-f-15c-eagle.json](./312519-x-plane-12-faco-simulations-f-15c-eagle.json) |
+| X-Plane 5 | 278779 | [278779-x-plane-5.json](./278779-x-plane-5.json) |
 | X-Plane 6 | 72091 | [72091-x-plane-6.json](./72091-x-plane-6.json) |
 | X-Plane 8 | 94229 | [94229-x-plane-8.json](./94229-x-plane-8.json) |
 | X-Plane 9 | 51270 | [51270-x-plane-9.json](./51270-x-plane-9.json) |
