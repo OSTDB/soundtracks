@@ -891,7 +891,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ibiza Madness: Zombie vs. Demons | 406503 | [406503-ibiza-madness-zombie-vs-demons.json](./406503-ibiza-madness-zombie-vs-demons.json) |
 | Iblard: Laputa no Kaeru Machi | 111995 | [111995-iblard-laputa-no-kaeru-machi.json](./111995-iblard-laputa-no-kaeru-machi.json) |
 | iBlast Moki | 23256 | [23256-iblast-moki.json](./23256-iblast-moki.json) |
+| iBlast Moki 2 | 254824 | [254824-iblast-moki-2.json](./254824-iblast-moki-2.json) |
 | iBlast Moki 2 HD | 174235 | [174235-iblast-moki-2-hd.json](./174235-iblast-moki-2-hd.json) |
+| iBlast Moki HD | 254822 | [254822-iblast-moki-hd.json](./254822-iblast-moki-hd.json) |
 | Iblis | 145861 | [145861-iblis.json](./145861-iblis.json) |
 | Iblis | 344578 | [344578-iblis.json](./344578-iblis.json) |
 | Iblis2: Sorcery | 226703 | [226703-iblis2-sorcery.json](./226703-iblis2-sorcery.json) |
@@ -3794,7 +3796,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
