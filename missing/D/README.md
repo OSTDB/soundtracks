@@ -4379,6 +4379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Frame | 353618 | [353618-death-frame.json](./353618-death-frame.json) |
 | Death From Above | 244133 | [244133-death-from-above.json](./244133-death-from-above.json) |
 | Death From Above: Complete Edition | 336140 | [336140-death-from-above-complete-edition.json](./336140-death-from-above-complete-edition.json) |
+| Death From The Darkness | 292354 | [292354-death-from-the-darkness.json](./292354-death-from-the-darkness.json) |
 | Death from Unknown: Survival | 93710 | [93710-death-from-unknown-survival.json](./93710-death-from-unknown-survival.json) |
 | Death Front | 277514 | [277514-death-front.json](./277514-death-front.json) |
 | Death Game | 206153 | [206153-death-game.json](./206153-death-game.json) |
@@ -10496,6 +10497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dissolving Gallery | 398288 | [398288-dissolving-gallery.json](./398288-dissolving-gallery.json) |
 | Dissonance: An Interactive Novelette | 34029 | [34029-dissonance-an-interactive-novelette.json](./34029-dissonance-an-interactive-novelette.json) |
 | Dissonant | 386551 | [386551-dissonant.json](./386551-dissonant.json) |
+| Dissonators | 292475 | [292475-dissonators.json](./292475-dissonators.json) |
 | Distance | 385378 | [385378-distance.json](./385378-distance.json) |
 | Distance and Mirage | 299118 | [299118-distance-and-mirage.json](./299118-distance-and-mirage.json) |
 | Distance: Console Edition | 309585 | [309585-distance-console-edition.json](./309585-distance-console-edition.json) |
