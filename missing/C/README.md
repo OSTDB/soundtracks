@@ -1517,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canyon Defense 2 | 400671 | [400671-canyon-defense-2.json](./400671-canyon-defense-2.json) |
 | Canyon Miner: Minecart Rush | 233110 | [233110-canyon-miner-minecart-rush.json](./233110-canyon-miner-minecart-rush.json) |
 | Canyon of Outlaws | 343402 | [343402-canyon-of-outlaws.json](./343402-canyon-of-outlaws.json) |
+| Canyon Racer | 284162 | [284162-canyon-racer.json](./284162-canyon-racer.json) |
 | Canyon Ridge | 103385 | [103385-canyon-ridge.json](./103385-canyon-ridge.json) |
 | Canyon Rush | 291619 | [291619-canyon-rush.json](./291619-canyon-rush.json) |
 | Canyon Shooter | 158099 | [158099-canyon-shooter.json](./158099-canyon-shooter.json) |
@@ -2761,6 +2762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnival and Girls | 170915 | [170915-carnival-and-girls.json](./170915-carnival-and-girls.json) |
 | Carnival Cruise Line Tycoon 2005: Island Hopping | 23565 | [23565-carnival-cruise-line-tycoon-2005-island-hopping.json](./23565-carnival-cruise-line-tycoon-2005-island-hopping.json) |
 | Carnival Games | 108759 | [108759-carnival-games.json](./108759-carnival-games.json) |
+| Carnival Games | 284137 | [284137-carnival-games.json](./284137-carnival-games.json) |
 | Carnival Games Mini Golf | 4058 | [4058-carnival-games-mini-golf.json](./4058-carnival-games-mini-golf.json) |
 | Carnival Games VR | 25339 | [25339-carnival-games-vr.json](./25339-carnival-games-vr.json) |
 | Carnival Hammer | 335993 | [335993-carnival-hammer.json](./335993-carnival-hammer.json) |
@@ -3707,6 +3709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: The Holy Relics | 127263 | [127263-castlevania-the-holy-relics.json](./127263-castlevania-the-holy-relics.json) |
 | Castlevania: The Last Tear | 222346 | [222346-castlevania-the-last-tear.json](./222346-castlevania-the-last-tear.json) |
 | Castlevania: The Lecarde Chronicles 2 | 135472 | [135472-castlevania-the-lecarde-chronicles-2.json](./135472-castlevania-the-lecarde-chronicles-2.json) |
+| Castlevania: The Seal Of The Curse | 284148 | [284148-castlevania-the-seal-of-the-curse.json](./284148-castlevania-the-seal-of-the-curse.json) |
 | Castlevania: The Seal Of The Curse X | 317630 | [317630-castlevania-the-seal-of-the-curse-x.json](./317630-castlevania-the-seal-of-the-curse-x.json) |
 | CastleVille | 50351 | [50351-castleville.json](./50351-castleville.json) |
 | CastleVille Legends | 38906 | [38906-castleville-legends.json](./38906-castleville-legends.json) |
