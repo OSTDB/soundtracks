@@ -11563,6 +11563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kingsward | 400393 | [400393-the-kingsward.json](./400393-the-kingsward.json) |
 | The Kite | 111664 | [111664-the-kite.json](./111664-the-kite.json) |
 | The Kitten Game | 409370 | [409370-the-kitten-game.json](./409370-the-kitten-game.json) |
+| The Kitty in The Spaceship | 256593 | [256593-the-kitty-in-the-spaceship.json](./256593-the-kitty-in-the-spaceship.json) |
 | The Kitty in the Trapping Garden | 273316 | [273316-the-kitty-in-the-trapping-garden.json](./273316-the-kitty-in-the-trapping-garden.json) |
 | The Klaxo Radio Hour | 122846 | [122846-the-klaxo-radio-hour.json](./122846-the-klaxo-radio-hour.json) |
 | The Knife of the Traitor | 178802 | [178802-the-knife-of-the-traitor.json](./178802-the-knife-of-the-traitor.json) |
@@ -14701,6 +14702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pixel Boy's Adventures | 129946 | [129946-the-pixel-boys-adventures.json](./129946-the-pixel-boys-adventures.json) |
 | The Pixel Grotto | 266567 | [266567-the-pixel-grotto.json](./266567-the-pixel-grotto.json) |
 | The Pixel has You | 327198 | [327198-the-pixel-has-you.json](./327198-the-pixel-has-you.json) |
+| The Pixel Pulps Collection | 256624 | [256624-the-pixel-pulps-collection.json](./256624-the-pixel-pulps-collection.json) |
 | The Pixel Pulps Collection: Special Edition | 300750 | [300750-the-pixel-pulps-collection-special-edition.json](./300750-the-pixel-pulps-collection-special-edition.json) |
 | The Pixotron 49 | 352392 | [352392-the-pixotron-49.json](./352392-the-pixotron-49.json) |
 | The Pizza Courier | 215733 | [215733-the-pizza-courier.json](./215733-the-pizza-courier.json) |
@@ -24589,6 +24591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomba! | 4097 | [4097-tomba.json](./4097-tomba.json) |
 | Tomba! 2: The Evil Swine Return | 4100 | [4100-tomba-2-the-evil-swine-return.json](./4100-tomba-2-the-evil-swine-return.json) |
 | Tomba! 2: The Evil Swine Return Special Edition | 377890 | [377890-tomba-2-the-evil-swine-return-special-edition.json](./377890-tomba-2-the-evil-swine-return-special-edition.json) |
+| Tomba! 3 | 256579 | [256579-tomba-3.json](./256579-tomba-3.json) |
 | Tomba! Special Edition: Whoopee Edition | 342885 | [342885-tomba-special-edition-whoopee-edition.json](./342885-tomba-special-edition-whoopee-edition.json) |
 | Tombbound | 382594 | [382594-tombbound.json](./382594-tombbound.json) |
 | Tombeaux | 111426 | [111426-tombeaux.json](./111426-tombeaux.json) |
