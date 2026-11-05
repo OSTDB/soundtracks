@@ -6259,6 +6259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkpoint | 94120 | [94120-checkpoint.json](./94120-checkpoint.json) |
 | Checkpoint Gary | 281371 | [281371-checkpoint-gary.json](./281371-checkpoint-gary.json) |
 | Checkpoint Madness HD | 338829 | [338829-checkpoint-madness-hd.json](./338829-checkpoint-madness-hd.json) |
+| Cheddar Beach: Episode 0 | 291813 | [291813-cheddar-beach-episode-0.json](./291813-cheddar-beach-episode-0.json) |
 | Cheddly and Cloud's Crazy Adventure | 332222 | [332222-cheddly-and-clouds-crazy-adventure.json](./332222-cheddly-and-clouds-crazy-adventure.json) |
 | Cheddly and Cloud's Crazy Adventure 2 | 332261 | [332261-cheddly-and-clouds-crazy-adventure-2.json](./332261-cheddly-and-clouds-crazy-adventure-2.json) |
 | Chee-Chai Alien | 79920 | [79920-chee-chai-alien.json](./79920-chee-chai-alien.json) |
@@ -15831,6 +15832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Landed | 115406 | [115406-crash-landed.json](./115406-crash-landed.json) |
 | Crash Landed | 371462 | [371462-crash-landed.json](./371462-crash-landed.json) |
 | Crash Landing | 33756 | [33756-crash-landing.json](./33756-crash-landing.json) |
+| Crash Math | 291800 | [291800-crash-math.json](./291800-crash-math.json) |
 | Crash Mayhem | 238405 | [238405-crash-mayhem.json](./238405-crash-mayhem.json) |
 | Crash Metal: Cyber Racing Punk Cars | 269858 | [269858-crash-metal-cyber-racing-punk-cars.json](./269858-crash-metal-cyber-racing-punk-cars.json) |
 | Crash Mole | 223551 | [223551-crash-mole.json](./223551-crash-mole.json) |
