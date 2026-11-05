@@ -1015,6 +1015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Solution | 119851 | [119851-war-solution.json](./119851-war-solution.json) |
 | War Stained | 152470 | [152470-war-stained.json](./152470-war-stained.json) |
 | War Stars | 327719 | [327719-war-stars.json](./327719-war-stars.json) |
+| War Strategy | 261035 | [261035-war-strategy.json](./261035-war-strategy.json) |
 | War Strike | 216064 | [216064-war-strike.json](./216064-war-strike.json) |
 | War Survival | 371250 | [371250-war-survival.json](./371250-war-survival.json) |
 | War Tank Combat | 149382 | [149382-war-tank-combat.json](./149382-war-tank-combat.json) |
@@ -7163,6 +7164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodlands | 37022 | [37022-woodlands.json](./37022-woodlands.json) |
 | Woodlands Junior School Pokemon Journey | 307346 | [307346-woodlands-junior-school-pokemon-journey.json](./307346-woodlands-junior-school-pokemon-journey.json) |
 | Woodlands National Park | 312546 | [312546-woodlands-national-park.json](./312546-woodlands-national-park.json) |
+| Woodlawn: The End of the World | 261019 | [261019-woodlawn-the-end-of-the-world.json](./261019-woodlawn-the-end-of-the-world.json) |
 | Woodle Deluxe | 143631 | [143631-woodle-deluxe.json](./143631-woodle-deluxe.json) |
 | Woodle Tree 2: Deluxe | 120186 | [120186-woodle-tree-2-deluxe.json](./120186-woodle-tree-2-deluxe.json) |
 | Woodle Tree 2: Deluxe Plus | 194438 | [194438-woodle-tree-2-deluxe-plus.json](./194438-woodle-tree-2-deluxe-plus.json) |
