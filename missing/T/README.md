@@ -9788,6 +9788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Garden | 31611 | [31611-the-garden.json](./31611-the-garden.json) |
 | The Garden | 376640 | [376640-the-garden.json](./376640-the-garden.json) |
 | The Garden Gate Pai Sho | 320849 | [320849-the-garden-gate-pai-sho.json](./320849-the-garden-gate-pai-sho.json) |
+| The Garden of Banan | 251329 | [251329-the-garden-of-banan.json](./251329-the-garden-of-banan.json) |
 | The Garden of God | 180423 | [180423-the-garden-of-god.json](./180423-the-garden-of-god.json) |
 | The Garden of Hades | 231464 | [231464-the-garden-of-hades.json](./231464-the-garden-of-hades.json) |
 | The Garden of Hermeneus | 347349 | [347349-the-garden-of-hermeneus.json](./347349-the-garden-of-hermeneus.json) |
@@ -13010,6 +13011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost | 179085 | [179085-the-lost.json](./179085-the-lost.json) |
 | The Lost | 320130 | [320130-the-lost.json](./320130-the-lost.json) |
 | The Lost | 33178 | [33178-the-lost.json](./33178-the-lost.json) |
+| The Lost & Forgotten | 251326 | [251326-the-lost-and-forgotten.json](./251326-the-lost-and-forgotten.json) |
 | The Lost Abyss | 213592 | [213592-the-lost-abyss.json](./213592-the-lost-abyss.json) |
 | The Lost Admiral | 57573 | [57573-the-lost-admiral.json](./57573-the-lost-admiral.json) |
 | The Lost Adventure | 251980 | [251980-the-lost-adventure.json](./251980-the-lost-adventure.json) |
@@ -15394,6 +15396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Riftbreaker | 115991 | [115991-the-riftbreaker.json](./115991-the-riftbreaker.json) |
 | The Riftbreaker: Complete Edition | 331254 | [331254-the-riftbreaker-complete-edition.json](./331254-the-riftbreaker-complete-edition.json) |
 | The Riftbreaker: Heart of the Swamp | 263033 | [263033-the-riftbreaker-heart-of-the-swamp.json](./263033-the-riftbreaker-heart-of-the-swamp.json) |
+| The Riftbreaker: Into The Dark | 251317 | [251317-the-riftbreaker-into-the-dark.json](./251317-the-riftbreaker-into-the-dark.json) |
 | The Riftbreaker: World Expansion II | 220511 | [220511-the-riftbreaker-world-expansion-ii.json](./220511-the-riftbreaker-world-expansion-ii.json) |
 | The Rifted Skies | 407986 | [407986-the-rifted-skies.json](./407986-the-rifted-skies.json) |
 | The Right Shot | 187656 | [187656-the-right-shot.json](./187656-the-right-shot.json) |
