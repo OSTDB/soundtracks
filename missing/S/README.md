@@ -15357,6 +15357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowdrift | 401698 | [401698-snowdrift.json](./401698-snowdrift.json) |
 | Snowdrop Escape | 170562 | [170562-snowdrop-escape.json](./170562-snowdrop-escape.json) |
 | Snowdrop the Blade Master | 265629 | [265629-snowdrop-the-blade-master.json](./265629-snowdrop-the-blade-master.json) |
+| SnowDropRock | 249529 | [249529-snowdroprock.json](./249529-snowdroprock.json) |
 | Snowed In | 421605 | [421605-snowed-in.json](./421605-snowed-in.json) |
 | Snower's New Clothes | 116923 | [116923-snowers-new-clothes.json](./116923-snowers-new-clothes.json) |
 | Snowfall | 303208 | [303208-snowfall.json](./303208-snowfall.json) |
@@ -19337,7 +19338,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -22352,6 +22352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport & Fun: Swimming - Legendary Edition | 263536 | [263536-sport-and-fun-swimming-legendary-edition.json](./263536-sport-and-fun-swimming-legendary-edition.json) |
 | Sport & Fun: Swimming - Platinum Edition | 268547 | [268547-sport-and-fun-swimming-platinum-edition.json](./268547-sport-and-fun-swimming-platinum-edition.json) |
 | Sport & Fun: Swimming - Premium Edition | 255221 | [255221-sport-and-fun-swimming-premium-edition.json](./255221-sport-and-fun-swimming-premium-edition.json) |
+| Sport & Fun: Swimming - Special Edition | 249581 | [249581-sport-and-fun-swimming-special-edition.json](./249581-sport-and-fun-swimming-special-edition.json) |
 | Sport & Fun: Swimming - Superb Edition | 288281 | [288281-sport-and-fun-swimming-superb-edition.json](./288281-sport-and-fun-swimming-superb-edition.json) |
 | Sport & Fun: Swimming - Turtle | 403404 | [403404-sport-and-fun-swimming-turtle.json](./403404-sport-and-fun-swimming-turtle.json) |
 | Sport & Fun: Swimming - Ultimate Edition | 243370 | [243370-sport-and-fun-swimming-ultimate-edition.json](./243370-sport-and-fun-swimming-ultimate-edition.json) |
@@ -23637,6 +23638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Darlings | 360009 | [360009-star-darlings.json](./360009-star-darlings.json) |
 | Star Dartle 2000 | 387525 | [387525-star-dartle-2000.json](./387525-star-dartle-2000.json) |
 | Star Days | 194632 | [194632-star-days.json](./194632-star-days.json) |
+| Star Defence | 249570 | [249570-star-defence.json](./249570-star-defence.json) |
 | Star Defender | 78896 | [78896-star-defender.json](./78896-star-defender.json) |
 | Star Defender 2 | 54396 | [54396-star-defender-2.json](./54396-star-defender-2.json) |
 | Star Defender 3 | 25478 | [25478-star-defender-3.json](./25478-star-defender-3.json) |
@@ -25420,6 +25422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Station Sabotage | 283770 | [283770-station-sabotage.json](./283770-station-sabotage.json) |
 | Station Spacewalk Game | 200954 | [200954-station-spacewalk-game.json](./200954-station-spacewalk-game.json) |
 | Station Zeta | 304003 | [304003-station-zeta.json](./304003-station-zeta.json) |
+| Station-8 | 249537 | [249537-station-8.json](./249537-station-8.json) |
 | Station.exe | 255534 | [255534-station-exe.json](./255534-station-exe.json) |
 | Stationary RPG | 111312 | [111312-stationary-rpg.json](./111312-stationary-rpg.json) |
 | Stationbreak | 406641 | [406641-stationbreak.json](./406641-stationbreak.json) |
@@ -28708,6 +28711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subtyrannya - A story-driven merchant game | 112898 | [112898-subtyrannya-a-story-driven-merchant-game.json](./112898-subtyrannya-a-story-driven-merchant-game.json) |
 | Subuccus | 211656 | [211656-subuccus.json](./211656-subuccus.json) |
 | Subugs | 187064 | [187064-subugs.json](./187064-subugs.json) |
+| Suburban Basketball | 249536 | [249536-suburban-basketball.json](./249536-suburban-basketball.json) |
 | Suburban Commando | 73811 | [73811-suburban-commando.json](./73811-suburban-commando.json) |
 | Suburban Footy League | 272911 | [272911-suburban-footy-league.json](./272911-suburban-footy-league.json) |
 | Suburban Hive | 308482 | [308482-suburban-hive.json](./308482-suburban-hive.json) |
