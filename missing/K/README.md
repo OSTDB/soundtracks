@@ -2785,7 +2785,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4816,6 +4815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KO Punch | 62795 | [62795-ko-punch.json](./62795-ko-punch.json) |
 | KO Seiki Beast Sanjuushi | 108922 | [108922-ko-seiki-beast-sanjuushi.json](./108922-ko-seiki-beast-sanjuushi.json) |
 | Koa and the Five Pirates of Mara | 197486 | [197486-koa-and-the-five-pirates-of-mara.json](./197486-koa-and-the-five-pirates-of-mara.json) |
+| Koa and the Five Pirates of Mara: Collector's Edition | 254818 | [254818-koa-and-the-five-pirates-of-mara-collectors-edition.json](./254818-koa-and-the-five-pirates-of-mara-collectors-edition.json) |
 | Koa: A Gluttonous Wizard | 215335 | [215335-koa-a-gluttonous-wizard.json](./215335-koa-a-gluttonous-wizard.json) |
 | Koakuma | 222787 | [222787-koakuma.json](./222787-koakuma.json) |
 | Koakuma Nurse no Itazura Karte: Kangoshi Kanojo to no Dousei Seikatsu | 402718 | [402718-koakuma-nurse-no-itazura-karte-kangoshi-kanojo-to-no-dousei-seikatsu.json](./402718-koakuma-nurse-no-itazura-karte-kangoshi-kanojo-to-no-dousei-seikatsu.json) |
