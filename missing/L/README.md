@@ -3802,8 +3802,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 2022: Chinese Version | 215361 | [215361-lets-sing-2022-chinese-version.json](./215361-lets-sing-2022-chinese-version.json) |
 | Let's Sing 2022: French Version | 175978 | [175978-lets-sing-2022-french-version.json](./175978-lets-sing-2022-french-version.json) |
 | Let's Sing 2022: Platinum Edition | 185980 | [185980-lets-sing-2022-platinum-edition.json](./185980-lets-sing-2022-platinum-edition.json) |
+| Let's Sing 2023: Best of 80's vol. 1 Song Pack | 257727 | [257727-lets-sing-2023-best-of-80s-vol-1-song-pack.json](./257727-lets-sing-2023-best-of-80s-vol-1-song-pack.json) |
+| Let's Sing 2023: Best of 80's vol. 2 Song Pack | 257729 | [257729-lets-sing-2023-best-of-80s-vol-2-song-pack.json](./257729-lets-sing-2023-best-of-80s-vol-2-song-pack.json) |
+| Let's Sing 2023: Best of 80's vol. 3 Song Pack | 257728 | [257728-lets-sing-2023-best-of-80s-vol-3-song-pack.json](./257728-lets-sing-2023-best-of-80s-vol-3-song-pack.json) |
+| Let's Sing 2023: Best of 90's vol. 1 Song Pack | 257725 | [257725-lets-sing-2023-best-of-90s-vol-1-song-pack.json](./257725-lets-sing-2023-best-of-90s-vol-1-song-pack.json) |
+| Let's Sing 2023: Best of 90's vol. 2 Song Pack | 257726 | [257726-lets-sing-2023-best-of-90s-vol-2-song-pack.json](./257726-lets-sing-2023-best-of-90s-vol-2-song-pack.json) |
+| Let's Sing 2023: Best of 90's vol. 3 Song Pack | 257724 | [257724-lets-sing-2023-best-of-90s-vol-3-song-pack.json](./257724-lets-sing-2023-best-of-90s-vol-3-song-pack.json) |
+| Let's Sing 2023: Chart Hits Song Pack | 257722 | [257722-lets-sing-2023-chart-hits-song-pack.json](./257722-lets-sing-2023-chart-hits-song-pack.json) |
+| Let's Sing 2023: Christmas Hits Song Pack | 257721 | [257721-lets-sing-2023-christmas-hits-song-pack.json](./257721-lets-sing-2023-christmas-hits-song-pack.json) |
+| Let's Sing 2023: Classic Rock Song Pack | 257723 | [257723-lets-sing-2023-classic-rock-song-pack.json](./257723-lets-sing-2023-classic-rock-song-pack.json) |
+| Let's Sing 2023: Country Hits Song Pack | 257720 | [257720-lets-sing-2023-country-hits-song-pack.json](./257720-lets-sing-2023-country-hits-song-pack.json) |
 | Let's Sing 2023: Eurovision Hits Song Pack | 249597 | [249597-lets-sing-2023-eurovision-hits-song-pack.json](./249597-lets-sing-2023-eurovision-hits-song-pack.json) |
 | Let's Sing 2023: Incluye Canciones Españolas | 221328 | [221328-lets-sing-2023-incluye-canciones-espanolas.json](./221328-lets-sing-2023-incluye-canciones-espanolas.json) |
+| Let's Sing 2023: Legendary Hits vol. 1 Song Pack | 257719 | [257719-lets-sing-2023-legendary-hits-vol-1-song-pack.json](./257719-lets-sing-2023-legendary-hits-vol-1-song-pack.json) |
+| Let's Sing 2023: Legendary Hits vol. 2 Song Pack | 257718 | [257718-lets-sing-2023-legendary-hits-vol-2-song-pack.json](./257718-lets-sing-2023-legendary-hits-vol-2-song-pack.json) |
+| Let's Sing 2023: Party Classics vol. 1 Song Pack | 257717 | [257717-lets-sing-2023-party-classics-vol-1-song-pack.json](./257717-lets-sing-2023-party-classics-vol-1-song-pack.json) |
+| Let's Sing 2023: Party Classics vol. 2 Song Pack | 257716 | [257716-lets-sing-2023-party-classics-vol-2-song-pack.json](./257716-lets-sing-2023-party-classics-vol-2-song-pack.json) |
 | Let's Sing 2023: Platinum Edition | 225829 | [225829-lets-sing-2023-platinum-edition.json](./225829-lets-sing-2023-platinum-edition.json) |
 | Let's Sing 2024 with International Hits | 268592 | [268592-lets-sing-2024-with-international-hits.json](./268592-lets-sing-2024-with-international-hits.json) |
 | Let's Sing 2024 with International Hits: Gold Edition | 271838 | [271838-lets-sing-2024-with-international-hits-gold-edition.json](./271838-lets-sing-2024-with-international-hits-gold-edition.json) |
