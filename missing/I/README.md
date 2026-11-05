@@ -246,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Ladybugs | 244079 | [244079-i-commissioned-some-ladybugs.json](./244079-i-commissioned-some-ladybugs.json) |
 | I Commissioned Some Ladybugs 3 | 287071 | [287071-i-commissioned-some-ladybugs-3.json](./287071-i-commissioned-some-ladybugs-3.json) |
 | I Commissioned Some Ladybugs 4 | 309449 | [309449-i-commissioned-some-ladybugs-4.json](./309449-i-commissioned-some-ladybugs-4.json) |
+| I Commissioned Some Letters | 271017 | [271017-i-commissioned-some-letters.json](./271017-i-commissioned-some-letters.json) |
 | I Commissioned Some Mice | 248073 | [248073-i-commissioned-some-mice.json](./248073-i-commissioned-some-mice.json) |
 | I Commissioned Some Mice 2 | 287066 | [287066-i-commissioned-some-mice-2.json](./287066-i-commissioned-some-mice-2.json) |
 | I Commissioned Some Mice 3 | 287067 | [287067-i-commissioned-some-mice-3.json](./287067-i-commissioned-some-mice-3.json) |
@@ -455,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Offered You the Crown | 355016 | [355016-i-offered-you-the-crown.json](./355016-i-offered-you-the-crown.json) |
 | I open the harem in the last days | 154267 | [154267-i-open-the-harem-in-the-last-days.json](./154267-i-open-the-harem-in-the-last-days.json) |
 | I Opened the Walls and Found Something Beautiful | 177498 | [177498-i-opened-the-walls-and-found-something-beautiful.json](./177498-i-opened-the-walls-and-found-something-beautiful.json) |
+| I Pick Skills | 271006 | [271006-i-pick-skills.json](./271006-i-pick-skills.json) |
 | I Picked Up a Mysterious Smartphone That You Can Change Everything as You Like | 98462 | [98462-i-picked-up-a-mysterious-smartphone-that-you-can-change-everything-as-you-like.json](./98462-i-picked-up-a-mysterious-smartphone-that-you-can-change-everything-as-you-like.json) |
 | i Play My Hawaian Drums | 99090 | [99090-i-play-my-hawaian-drums.json](./99090-i-play-my-hawaian-drums.json) |
 | I Play: 3-D Soccer | 92957 | [92957-i-play-3-d-soccer.json](./92957-i-play-3-d-soccer.json) |
@@ -2746,6 +2748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Extremis | 115429 | [115429-in-extremis.json](./115429-in-extremis.json) |
 | In Extremis | 31162 | [31162-in-extremis.json](./31162-in-extremis.json) |
 | In Extremis DX | 225759 | [225759-in-extremis-dx.json](./225759-in-extremis-dx.json) |
+| In Fair Spirits | 271008 | [271008-in-fair-spirits.json](./271008-in-fair-spirits.json) |
 | In Falsus | 342204 | [342204-in-falsus.json](./342204-in-falsus.json) |
 | In Fear I Trust: Episode 3 - Iron and Rust | 171363 | [171363-in-fear-i-trust-episode-3-iron-and-rust.json](./171363-in-fear-i-trust-episode-3-iron-and-rust.json) |
 | In Fear I Trust: Episode 4 - The Glimpse | 174176 | [174176-in-fear-i-trust-episode-4-the-glimpse.json](./174176-in-fear-i-trust-episode-4-the-glimpse.json) |
@@ -5248,6 +5251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invaders | 380798 | [380798-invaders.json](./380798-invaders.json) |
 | Invaders | 79070 | [79070-invaders.json](./79070-invaders.json) |
 | Invaders 1978 | 72081 | [72081-invaders-1978.json](./72081-invaders-1978.json) |
+| Invaders 360 | 271007 | [271007-invaders-360.json](./271007-invaders-360.json) |
 | Invaders from Dimension X | 111348 | [111348-invaders-from-dimension-x.json](./111348-invaders-from-dimension-x.json) |
 | Invaders From Mars | 295970 | [295970-invaders-from-mars.json](./295970-invaders-from-mars.json) |
 | Invaders from the Third Dimension | 253524 | [253524-invaders-from-the-third-dimension.json](./253524-invaders-from-the-third-dimension.json) |
@@ -5606,6 +5610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron | 394633 | [394633-iron.json](./394633-iron.json) |
 | Iron & Blood: Warriors of Ravenloft | 20608 | [20608-iron-and-blood-warriors-of-ravenloft.json](./20608-iron-and-blood-warriors-of-ravenloft.json) |
 | Iron & Ivory | 401037 | [401037-iron-and-ivory.json](./401037-iron-and-ivory.json) |
+| Iron & Lead | 271005 | [271005-iron-and-lead.json](./271005-iron-and-lead.json) |
 | Iron & Rust: Complete Edition | 183985 | [183985-iron-and-rust-complete-edition.json](./183985-iron-and-rust-complete-edition.json) |
 | Iron Aces | 45853 | [45853-iron-aces.json](./45853-iron-aces.json) |
 | Iron Aces: Heroes of WWII | 210024 | [210024-iron-aces-heroes-of-wwii.json](./210024-iron-aces-heroes-of-wwii.json) |
