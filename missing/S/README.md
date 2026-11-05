@@ -3069,6 +3069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scientifically Accurate Dinosaur Mating Simulator 2021 | 189012 | [189012-scientifically-accurate-dinosaur-mating-simulator-2021.json](./189012-scientifically-accurate-dinosaur-mating-simulator-2021.json) |
 | Scientifically Accurate Dinosaur Mating Simulator 2022: American Revolution 1775 - 1786 | 219624 | [219624-scientifically-accurate-dinosaur-mating-simulator-2022-american-revolution-1775-1786.json](./219624-scientifically-accurate-dinosaur-mating-simulator-2022-american-revolution-1775-1786.json) |
 | Scientifically Accurate Dinosaur Mating Simulator 2022: American Revolution 1775 - 1786: Scientifically Accurate Dinosaur Mating Simulator 2023: French Revolution 1789 - 1799 | 254042 | [254042-scientifically-accurate-dinosaur-mating-simulator-2022-american-revolution-1775-1786-scientifically-accurate-dinosaur-mating-simulator-2023-french-revolution-1789-1799.json](./254042-scientifically-accurate-dinosaur-mating-simulator-2022-american-revolution-1775-1786-scientifically-accurate-dinosaur-mating-simulator-2023-french-revolution-1789-1799.json) |
+| Scientist 2023 | 287989 | [287989-scientist-2023.json](./287989-scientist-2023.json) |
 | Scientist and Alchemist | 413140 | [413140-scientist-and-alchemist.json](./413140-scientist-and-alchemist.json) |
 | Scientist Hunt | 248299 | [248299-scientist-hunt.json](./248299-scientist-hunt.json) |
 | Scientist Slaughterhouse | 221665 | [221665-scientist-slaughterhouse.json](./221665-scientist-slaughterhouse.json) |
@@ -5015,6 +5016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seifuku Kanojo 2.5 | 375361 | [375361-seifuku-kanojo-2-5.json](./375361-seifuku-kanojo-2-5.json) |
 | Seifuku Kanojo 3 | 375360 | [375360-seifuku-kanojo-3.json](./375360-seifuku-kanojo-3.json) |
 | Seifuku Kanojo: Mayoigo Engage | 318255 | [318255-seifuku-kanojo-mayoigo-engage.json](./318255-seifuku-kanojo-mayoigo-engage.json) |
+| Seifuku Kanojo: School Girlfriend | 288018 | [288018-seifuku-kanojo-school-girlfriend.json](./288018-seifuku-kanojo-school-girlfriend.json) |
 | Seifuku: High School Countdown | 234180 | [234180-seifuku-high-school-countdown.json](./234180-seifuku-high-school-countdown.json) |
 | Seigi no Mikata | 137320 | [137320-seigi-no-mikata.json](./137320-seigi-no-mikata.json) |
 | Seigi no Mikata Giga Trust | 331192 | [331192-seigi-no-mikata-giga-trust.json](./331192-seigi-no-mikata-giga-trust.json) |
@@ -5407,6 +5409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senses in Decay | 259432 | [259432-senses-in-decay.json](./259432-senses-in-decay.json) |
 | Senses: Midnight | 153980 | [153980-senses-midnight.json](./153980-senses-midnight.json) |
 | Sensha SP | 222290 | [222290-sensha-sp.json](./222290-sensha-sp.json) |
+| Senshi Sokoban Quest | 287986 | [287986-senshi-sokoban-quest.json](./287986-senshi-sokoban-quest.json) |
 | Senshijidaino Kyoryu: Dinoprehis! | 309612 | [309612-senshijidaino-kyoryu-dinoprehis.json](./309612-senshijidaino-kyoryu-dinoprehis.json) |
 | Sensible Blood Rugby | 175879 | [175879-sensible-blood-rugby.json](./175879-sensible-blood-rugby.json) |
 | Sensible Blood Rugby Sevens | 122181 | [122181-sensible-blood-rugby-sevens.json](./122181-sensible-blood-rugby-sevens.json) |
@@ -7573,6 +7576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep in Dreams | 383992 | [383992-sheep-in-dreams.json](./383992-sheep-in-dreams.json) |
 | Sheep in Love | 245017 | [245017-sheep-in-love.json](./245017-sheep-in-love.json) |
 | Sheep In Space | 18561 | [18561-sheep-in-space.json](./18561-sheep-in-space.json) |
+| Sheep in Wolf's Clothing | 288008 | [288008-sheep-in-wolfs-clothing.json](./288008-sheep-in-wolfs-clothing.json) |
 | Sheep Island | 160195 | [160195-sheep-island.json](./160195-sheep-island.json) |
 | Sheep Island | 373072 | [373072-sheep-island.json](./373072-sheep-island.json) |
 | Sheep It Up | 305734 | [305734-sheep-it-up.json](./305734-sheep-it-up.json) |
@@ -15908,6 +15912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Sandbox | 399946 | [399946-solar-sandbox.json](./399946-solar-sandbox.json) |
 | Solar Savage | 347891 | [347891-solar-savage.json](./347891-solar-savage.json) |
 | Solar Scion | 139010 | [139010-solar-scion.json](./139010-solar-scion.json) |
+| Solar Serpent Squadron | 287921 | [287921-solar-serpent-squadron.json](./287921-solar-serpent-squadron.json) |
 | Solar Siege | 56260 | [56260-solar-siege.json](./56260-solar-siege.json) |
 | Solar Smash | 175674 | [175674-solar-smash.json](./175674-solar-smash.json) |
 | Solar Smash 2D | 208135 | [208135-solar-smash-2d.json](./208135-solar-smash-2d.json) |
@@ -19122,6 +19127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -29226,6 +29232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summertime Sadness | 376635 | [376635-summertime-sadness.json](./376635-summertime-sadness.json) |
 | Summertime Saga | 112257 | [112257-summertime-saga.json](./112257-summertime-saga.json) |
 | Summit | 163453 | [163453-summit.json](./163453-summit.json) |
+| Summit | 288000 | [288000-summit.json](./288000-summit.json) |
 | Summit | 312638 | [312638-summit.json](./312638-summit.json) |
 | Summit | 80508 | [80508-summit.json](./80508-summit.json) |
 | Summit Drive | 365028 | [365028-summit-drive.json](./365028-summit-drive.json) |
