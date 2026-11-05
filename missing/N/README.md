@@ -1832,6 +1832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Needle Eye | 392965 | [392965-needle-eye.json](./392965-needle-eye.json) |
 | Needle Of Anger | 254671 | [254671-needle-of-anger.json](./254671-needle-of-anger.json) |
 | Needy Dragons | 220678 | [220678-needy-dragons.json](./220678-needy-dragons.json) |
+| Needy Princess Nerd Club | 256066 | [256066-needy-princess-nerd-club.json](./256066-needy-princess-nerd-club.json) |
 | Needy Streamer Overload | 146564 | [146564-needy-streamer-overload.json](./146564-needy-streamer-overload.json) |
 | Neeko: Your 3D Interactive Monster | 262354 | [262354-neeko-your-3d-interactive-monster.json](./262354-neeko-your-3d-interactive-monster.json) |
 | Neera: Dark Secrets | 79806 | [79806-neera-dark-secrets.json](./79806-neera-dark-secrets.json) |
@@ -3466,6 +3467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | News Agency Simulator | 127852 | [127852-news-agency-simulator.json](./127852-news-agency-simulator.json) |
 | News Company Simulator | 374867 | [374867-news-company-simulator.json](./374867-news-company-simulator.json) |
 | News Reacts | 197127 | [197127-news-reacts.json](./197127-news-reacts.json) |
+| News Reacts: Mission Impossible 2 | 256048 | [256048-news-reacts-mission-impossible-2.json](./256048-news-reacts-mission-impossible-2.json) |
 | News Roll | 385361 | [385361-news-roll.json](./385361-news-roll.json) |
 | News Tycoon | 29738 | [29738-news-tycoon.json](./29738-news-tycoon.json) |
 | Newspaper Day | 319833 | [319833-newspaper-day.json](./319833-newspaper-day.json) |
