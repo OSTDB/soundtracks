@@ -4173,6 +4173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redneck Rampage: Suckin' Grits on Route 66 | 9003 | [9003-redneck-rampage-suckin-grits-on-route-66.json](./9003-redneck-rampage-suckin-grits-on-route-66.json) |
 | Redneck Rift | 207914 | [207914-redneck-rift.json](./207914-redneck-rift.json) |
 | Redneck Skeet Shooting | 120258 | [120258-redneck-skeet-shooting.json](./120258-redneck-skeet-shooting.json) |
+| Redneg AllStars Swing-By Edition | 277637 | [277637-redneg-allstars-swing-by-edition.json](./277637-redneg-allstars-swing-by-edition.json) |
 | ReDo | 340711 | [340711-redo.json](./340711-redo.json) |
 | Redo! | 114085 | [114085-redo.json](./114085-redo.json) |
 | Redout | 13197 | [13197-redout.json](./13197-redout.json) |
@@ -9054,6 +9055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock and Stone | 368718 | [368718-rock-and-stone.json](./368718-rock-and-stone.json) |
 | Rock Band | 2685 | [2685-rock-band.json](./2685-rock-band.json) |
 | Rock Band 2 | 2692 | [2692-rock-band-2.json](./2692-rock-band-2.json) |
+| Rock Band 2 Deluxe | 277678 | [277678-rock-band-2-deluxe.json](./277678-rock-band-2-deluxe.json) |
 | Rock Band 2 DX: Guitar Hero Live | 376500 | [376500-rock-band-2-dx-guitar-hero-live.json](./376500-rock-band-2-dx-guitar-hero-live.json) |
 | Rock Band 3 | 206953 | [206953-rock-band-3.json](./206953-rock-band-3.json) |
 | Rock Band 3 | 2691 | [2691-rock-band-3.json](./2691-rock-band-3.json) |
@@ -10009,6 +10011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguelands | 19748 | [19748-roguelands.json](./19748-roguelands.json) |
 | Roguelegends: Dark Realms | 137852 | [137852-roguelegends-dark-realms.json](./137852-roguelegends-dark-realms.json) |
 | Roguelight | 56913 | [56913-roguelight.json](./56913-roguelight.json) |
+| Roguelike Adventures and Dungeons | 277651 | [277651-roguelike-adventures-and-dungeons.json](./277651-roguelike-adventures-and-dungeons.json) |
 | Roguelike Chess | 291797 | [291797-roguelike-chess.json](./291797-roguelike-chess.json) |
 | Roguelike Hero | 107898 | [107898-roguelike-hero.json](./107898-roguelike-hero.json) |
 | Roguelike Journey to the West: 100 Ways to Slay Erlang Shen | 359536 | [359536-roguelike-journey-to-the-west-100-ways-to-slay-erlang-shen.json](./359536-roguelike-journey-to-the-west-100-ways-to-slay-erlang-shen.json) |
