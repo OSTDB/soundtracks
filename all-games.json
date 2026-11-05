@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-05T06:26:01.632Z",
-  "total_soundtracks": 2934,
+  "generated_at": "2026-11-05T06:36:36.782Z",
+  "total_soundtracks": 2949,
   "games": [
     {
       "igdb_id": 7522,
@@ -987,6 +987,34 @@
         {
           "album_name": "Airborne Kingdom (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0cKm5HIenBicoZZt7swQfR",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 52524,
+      "game_name": "Airport CEO",
+      "game_url": "https://ostdb.net/games/airport-ceo",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27379e4ff89cac1b21061443b53",
+      "albums": [
+        {
+          "album_name": "Airport CEO (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3C3wd3AgjnDmHUv8cG9Mwf",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 35934,
+      "game_name": "Airships: Conquer the Skies",
+      "game_url": "https://ostdb.net/games/airships-conquer-the-skies",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27323ba49e301b26442b4a59005",
+      "albums": [
+        {
+          "album_name": "Airships: Conquer the Skies (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1bRwyopQizL80wADqJhvoQ",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -3701,6 +3729,20 @@
       ]
     },
     {
+      "igdb_id": 67937,
+      "game_name": "Bit Heroes",
+      "game_url": "https://ostdb.net/games/bit-heroes",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273389ef500d3db52f4c34de9c8",
+      "albums": [
+        {
+          "album_name": "Bit Heroes Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5XWAi3b51Iy7hV24mFQYKx",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 6246,
       "game_name": "Bit.Trip Runner",
       "game_url": "https://ostdb.net/games/bit-trip-runner",
@@ -5975,6 +6017,20 @@
         {
           "album_name": "Colin McRae Rally (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1tac6R1AKnW8HFkLGRYvDd",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 39209,
+      "game_name": "Color Zen",
+      "game_url": "https://ostdb.net/games/color-zen",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273102988e82d2d6d85d5697285",
+      "albums": [
+        {
+          "album_name": "Color Zen (Official Soundtrack) [feat. Steve Woodzell]",
+          "spotify_url": "https://open.spotify.com/album/46jqsTHyDZNtNNwRAM7kF3",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -8696,6 +8752,20 @@
           "album_name": "Doki Doki Literature Club! (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3sQqya1Z1oFg1ueZ18QB7k",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 29302,
+      "game_name": "Don't Look Back",
+      "game_url": "https://ostdb.net/games/dont-look-back",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273760280244d8107ad682b9de1",
+      "albums": [
+        {
+          "album_name": "Don't Look Back (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3CEteFISzmHtRfUNGQ5q9O",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -15303,6 +15373,20 @@
       ]
     },
     {
+      "igdb_id": 27282,
+      "game_name": "Immortal Planet",
+      "game_url": "https://ostdb.net/games/immortal-planet",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273973aef6ce18bda63949a455b",
+      "albums": [
+        {
+          "album_name": "Immortal Planet (Original Soundtrack) [Remastered]",
+          "spotify_url": "https://open.spotify.com/album/4QKysrwDN9DL31pYwesdFz",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 23188,
       "game_name": "Immortal Redneck",
       "game_url": "https://ostdb.net/games/immortal-redneck",
@@ -16047,6 +16131,20 @@
         {
           "album_name": "Jets 'n' Guns Gold (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/244ocJ5MbXQ6g0LbK3YwkQ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 59227,
+      "game_name": "Jimmy and the Pulsating Mass",
+      "game_url": "https://ostdb.net/games/jimmy-and-the-pulsating-mass",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731d6d6b1a98de9f375b760c1e",
+      "albums": [
+        {
+          "album_name": "Jimmy and the Pulsating Mass (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0GLt9IdOUw2mKVgQ1ehyqd",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -21427,6 +21525,20 @@
       ]
     },
     {
+      "igdb_id": 35238,
+      "game_name": "No70: Eye of Basir",
+      "game_url": "https://ostdb.net/games/no70-eye-of-basir",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27315ba3928d769a711536aa56e",
+      "albums": [
+        {
+          "album_name": "No70: Eye of Basir (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5hDejqKMQKu7fEgUAcJPeH",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 290911,
       "game_name": "Nobody Wants to Die",
       "game_url": "https://ostdb.net/games/nobody-wants-to-die",
@@ -22023,6 +22135,20 @@
       ]
     },
     {
+      "igdb_id": 36127,
+      "game_name": "Out There: Omega Edition",
+      "game_url": "https://ostdb.net/games/out-there-omega-edition",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273960ab50de6310c621767b7a9",
+      "albums": [
+        {
+          "album_name": "Out There Omega Edition (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5ph1itXQyZJxR1cBpOZZmd",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 11737,
       "game_name": "Outer Wilds",
       "game_url": "https://ostdb.net/games/outer-wilds",
@@ -22395,6 +22521,20 @@
         {
           "album_name": "Parking Garage Rally Circuit (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/75qMsbjwP13LcNgBPz4Qv9",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 36611,
+      "game_name": "Pathfinder Adventures",
+      "game_url": "https://ostdb.net/games/pathfinder-adventures",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bf00d4e558688147b9f148fa",
+      "albums": [
+        {
+          "album_name": "Pathfinder Adventures (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/67tUevwY4D02IgObm0tbYO",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -25135,6 +25275,20 @@
       ]
     },
     {
+      "igdb_id": 36220,
+      "game_name": "Rise to Ruins",
+      "game_url": "https://ostdb.net/games/rise-to-ruins",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c3eeb5ef6b5960a68ea279c3",
+      "albums": [
+        {
+          "album_name": "Rise to Ruins (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/21lW5WwYkrzOPBdbPCqlov",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 28512,
       "game_name": "Risk of Rain 2",
       "game_url": "https://ostdb.net/games/risk-of-rain-2",
@@ -27837,6 +27991,20 @@
       ]
     },
     {
+      "igdb_id": 80624,
+      "game_name": "Sort the Court!",
+      "game_url": "https://ostdb.net/games/sort-the-court",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736715a6548b794336bddd84c4",
+      "albums": [
+        {
+          "album_name": "Sort the Court (Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0TNd3uYtkZRTDMcZrIf5Rl",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 17096,
       "game_name": "Soul Axiom",
       "game_url": "https://ostdb.net/games/soul-axiom",
@@ -28041,6 +28209,20 @@
         {
           "album_name": "Space Hulk: Tactics (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7Cehl4TrXO7JZJO66Ytz7F",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 34041,
+      "game_name": "Space Pirate Trainer",
+      "game_url": "https://ostdb.net/games/space-pirate-trainer",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273199ef7040a608dccb766da5d",
+      "albums": [
+        {
+          "album_name": "Space Pirate Trainer OST",
+          "spotify_url": "https://open.spotify.com/album/0hx8ExJ5hVFC1DfvHJjfJL",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -30819,6 +31001,20 @@
       ]
     },
     {
+      "igdb_id": 33370,
+      "game_name": "The Bottom of the Well",
+      "game_url": "https://ostdb.net/games/the-bottom-of-the-well",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273da1bd5ed871acada32ca1c91",
+      "albums": [
+        {
+          "album_name": "The Bottom of the Well Original Game Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/0od5m8SYhsj7JSRnpJRlFW",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 141538,
       "game_name": "The Callisto Protocol",
       "game_url": "https://ostdb.net/games/the-callisto-protocol",
@@ -31869,6 +32065,20 @@
         {
           "album_name": "The Lord of the Rings Online (10th Anniversary Commemorative Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1lkI0MpnnccE364waiYGOY",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 77176,
+      "game_name": "The Lord of the Rings: Adventure Card Game",
+      "game_url": "https://ostdb.net/games/the-lord-of-the-rings-adventure-card-game",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733b9ec3dd8474f14289a20d8d",
+      "albums": [
+        {
+          "album_name": "The Lord of the Rings: Adventure Card Game (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/70icfdfx3i3LVvzLLFDEI4",
           "apple_music_url": "",
           "album_link_url": ""
         }
