@@ -350,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valiant Rooster | 262413 | [262413-valiant-rooster.json](./262413-valiant-rooster.json) |
 | Valiant Saga | 336470 | [336470-valiant-saga.json](./336470-valiant-saga.json) |
 | Valiant Tactics | 137277 | [137277-valiant-tactics.json](./137277-valiant-tactics.json) |
+| Valiant Tactics EX | 290665 | [290665-valiant-tactics-ex.json](./290665-valiant-tactics-ex.json) |
 | Valiant: Or, Val's guide to having a broken vag | 249441 | [249441-valiant-or-vals-guide-to-having-a-broken-vag.json](./249441-valiant-or-vals-guide-to-having-a-broken-vag.json) |
 | Valiant: Resurrection | 35281 | [35281-valiant-resurrection.json](./35281-valiant-resurrection.json) |
 | Valiants: Arena | 351369 | [351369-valiants-arena.json](./351369-valiants-arena.json) |
@@ -2392,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viper-V8 | 305255 | [305255-viper-v8.json](./305255-viper-v8.json) |
 | Viperbyte | 116252 | [116252-viperbyte.json](./116252-viperbyte.json) |
 | ViperTen16 | 313497 | [313497-viperten16.json](./313497-viperten16.json) |
+| ViperTen64 | 290663 | [290663-viperten64.json](./290663-viperten64.json) |
 | Vipunk: Shield of Valhalla | 404049 | [404049-vipunk-shield-of-valhalla.json](./404049-vipunk-shield-of-valhalla.json) |
 | VIQ-Bert | 69738 | [69738-viq-bert.json](./69738-viq-bert.json) |
 | Viquim | 341886 | [341886-viquim.json](./341886-viquim.json) |
