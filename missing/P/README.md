@@ -7302,6 +7302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipeline of Emperor Yu | 129424 | [129424-pipeline-of-emperor-yu.json](./129424-pipeline-of-emperor-yu.json) |
 | Pipeline of Emperor Yu | 130785 | [130785-pipeline-of-emperor-yu.json](./130785-pipeline-of-emperor-yu.json) |
 | Pipeline Panic | 224834 | [224834-pipeline-panic.json](./224834-pipeline-panic.json) |
+| Pipeline Puzzle | 264955 | [264955-pipeline-puzzle.json](./264955-pipeline-puzzle.json) |
 | Pipeline RTX | 192980 | [192980-pipeline-rtx.json](./192980-pipeline-rtx.json) |
 | Pipeline RTX: 2 | 294985 | [294985-pipeline-rtx-2.json](./294985-pipeline-rtx-2.json) |
 | Pipeline Tycoon | 388304 | [388304-pipeline-tycoon.json](./388304-pipeline-tycoon.json) |
@@ -7471,6 +7472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Troops | 417939 | [417939-pirate-troops.json](./417939-pirate-troops.json) |
 | Pirate Twist | 415971 | [415971-pirate-twist.json](./415971-pirate-twist.json) |
 | Pirate Year Thousand: The Kraken Piece | 309031 | [309031-pirate-year-thousand-the-kraken-piece.json](./309031-pirate-year-thousand-the-kraken-piece.json) |
+| Pirate's Boom Boom | 264963 | [264963-pirates-boom-boom.json](./264963-pirates-boom-boom.json) |
 | Pirate's Den Renovator | 211185 | [211185-pirates-den-renovator.json](./211185-pirates-den-renovator.json) |
 | Pirate's Dual | 390236 | [390236-pirates-dual.json](./390236-pirates-dual.json) |
 | Pirate's Gambit | 347091 | [347091-pirates-gambit.json](./347091-pirates-gambit.json) |
@@ -16535,6 +16537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psionic | 164092 | [164092-psionic.json](./164092-psionic.json) |
 | Psionic Awake | 235376 | [235376-psionic-awake.json](./235376-psionic-awake.json) |
 | Psionic Sentry: Infinite | 276191 | [276191-psionic-sentry-infinite.json](./276191-psionic-sentry-infinite.json) |
+| PsionicAwake Playtest | 265442 | [265442-psionicawake-playtest.json](./265442-psionicawake-playtest.json) |
 | Psionics | 229903 | [229903-psionics.json](./229903-psionics.json) |
 | Psiplex | 305981 | [305981-psiplex.json](./305981-psiplex.json) |
 | PsiSyn: The Game | 368381 | [368381-psisyn-the-game.json](./368381-psisyn-the-game.json) |
