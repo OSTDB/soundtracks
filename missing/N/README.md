@@ -2492,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Seoul: Outrun | 76933 | [76933-neon-seoul-outrun.json](./76933-neon-seoul-outrun.json) |
 | Neon Sex Dream | 231352 | [231352-neon-sex-dream.json](./231352-neon-sex-dream.json) |
 | Neon Shadow | 36331 | [36331-neon-shadow.json](./36331-neon-shadow.json) |
+| Neon Shift | 284132 | [284132-neon-shift.json](./284132-neon-shift.json) |
 | Neon Ships: The Type'em Up Shooter | 143707 | [143707-neon-ships-the-typeem-up-shooter.json](./143707-neon-ships-the-typeem-up-shooter.json) |
 | Neon Shooter | 158651 | [158651-neon-shooter.json](./158651-neon-shooter.json) |
 | Neon Shot | 363124 | [363124-neon-shot.json](./363124-neon-shot.json) |
@@ -2639,7 +2640,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neptunia Riders vs. Dogoos: Deluxe Edition | 330203 | [330203-neptunia-riders-vs-dogoos-deluxe-edition.json](./330203-neptunia-riders-vs-dogoos-deluxe-edition.json) |
 | Neptunia Shooter | 117193 | [117193-neptunia-shooter.json](./117193-neptunia-shooter.json) |
 | Neptunia x Senran Kagura: Ninja Wars | 146337 | [146337-neptunia-x-senran-kagura-ninja-wars.json](./146337-neptunia-x-senran-kagura-ninja-wars.json) |
+| Neptunia: Sisters vs. Sisters - Day One Edition | 284109 | [284109-neptunia-sisters-vs-sisters-day-one-edition.json](./284109-neptunia-sisters-vs-sisters-day-one-edition.json) |
 | Neptunia: Sisters vs. Sisters - Digital Deluxe Edition | 255520 | [255520-neptunia-sisters-vs-sisters-digital-deluxe-edition.json](./255520-neptunia-sisters-vs-sisters-digital-deluxe-edition.json) |
+| Neptunia: Sisters vs. Sisters - Limited Edition | 284154 | [284154-neptunia-sisters-vs-sisters-limited-edition.json](./284154-neptunia-sisters-vs-sisters-limited-edition.json) |
 | Neptunia: Sisters vs. Sisters - Special Limited Edition | 185985 | [185985-neptunia-sisters-vs-sisters-special-limited-edition.json](./185985-neptunia-sisters-vs-sisters-special-limited-edition.json) |
 | Neptunia: Virtual Stars | 135338 | [135338-neptunia-virtual-stars.json](./135338-neptunia-virtual-stars.json) |
 | Neptunia: Virtual Stars - Emotional Limited Edition | 167057 | [167057-neptunia-virtual-stars-emotional-limited-edition.json](./167057-neptunia-virtual-stars-emotional-limited-edition.json) |
