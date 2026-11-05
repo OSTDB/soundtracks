@@ -5642,6 +5642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serena | 14528 | [14528-serena.json](./14528-serena.json) |
 | Serena | 325536 | [325536-serena.json](./325536-serena.json) |
 | Serena Williams' Match Point | 238938 | [238938-serena-williams-match-point.json](./238938-serena-williams-match-point.json) |
+| Serenade | 264397 | [264397-serenade.json](./264397-serenade.json) |
 | Serenade of the Sirens | 107411 | [107411-serenade-of-the-sirens.json](./107411-serenade-of-the-sirens.json) |
 | Serendipalette | 383655 | [383655-serendipalette.json](./383655-serendipalette.json) |
 | Serendipity Bookshop | 395618 | [395618-serendipity-bookshop.json](./395618-serendipity-bookshop.json) |
@@ -15015,6 +15016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SNK vs. Capcom: SVC Chaos | 309177 | [309177-snk-vs-capcom-svc-chaos.json](./309177-snk-vs-capcom-svc-chaos.json) |
 | Snk's Cool Cool Toon | 45820 | [45820-snks-cool-cool-toon.json](./45820-snks-cool-cool-toon.json) |
 | Snkrx | 148027 | [148027-snkrx.json](./148027-snkrx.json) |
+| SnL | 264382 | [264382-snl.json](./264382-snl.json) |
 | Sno Pokeler | 237532 | [237532-sno-pokeler.json](./237532-sno-pokeler.json) |
 | Snø: Ultimate Freeriding | 317533 | [317533-sn-ultimate-freeriding.json](./317533-sn-ultimate-freeriding.json) |
 | Snoball in Hell | 293314 | [293314-snoball-in-hell.json](./293314-snoball-in-hell.json) |
@@ -17265,6 +17267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Matrix | 331397 | [331397-sonic-matrix.json](./331397-sonic-matrix.json) |
 | Sonic Mayhem | 299381 | [299381-sonic-mayhem.json](./299381-sonic-mayhem.json) |
 | Sonic Maze Craze | 273985 | [273985-sonic-maze-craze.json](./273985-sonic-maze-craze.json) |
+| Sonic McOrigins | 264391 | [264391-sonic-mcorigins.json](./264391-sonic-mcorigins.json) |
 | Sonic McOrigins Plus | 265230 | [265230-sonic-mcorigins-plus.json](./265230-sonic-mcorigins-plus.json) |
 | Sonic Medley | 326999 | [326999-sonic-medley.json](./326999-sonic-medley.json) |
 | Sonic Mega Collection | 4157 | [4157-sonic-mega-collection.json](./4157-sonic-mega-collection.json) |
@@ -19263,6 +19266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -30562,6 +30566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Glovekid | 317352 | [317352-super-glovekid.json](./317352-super-glovekid.json) |
 | Super Gloves Hero | 156597 | [156597-super-gloves-hero.json](./156597-super-gloves-hero.json) |
 | Super Glyph Quest | 60731 | [60731-super-glyph-quest.json](./60731-super-glyph-quest.json) |
+| Super Go-Kart Racing | 264417 | [264417-super-go-kart-racing.json](./264417-super-go-kart-racing.json) |
 | Super Goal! | 76999 | [76999-super-goal.json](./76999-super-goal.json) |
 | Super Goalkeeper | 96447 | [96447-super-goalkeeper.json](./96447-super-goalkeeper.json) |
 | Super Gobang | 152782 | [152782-super-gobang.json](./152782-super-gobang.json) |
@@ -34032,6 +34037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swagbucks Live | 88542 | [88542-swagbucks-live.json](./88542-swagbucks-live.json) |
 | Swagman | 20810 | [20810-swagman.json](./20810-swagman.json) |
 | Swallow | 203871 | [203871-swallow.json](./203871-swallow.json) |
+| Swallow Nine Tails | 264400 | [264400-swallow-nine-tails.json](./264400-swallow-nine-tails.json) |
 | Swallow the Blue | 369749 | [369749-swallow-the-blue.json](./369749-swallow-the-blue.json) |
 | Swallow the Dark | 177827 | [177827-swallow-the-dark.json](./177827-swallow-the-dark.json) |
 | Swallow Up | 124065 | [124065-swallow-up.json](./124065-swallow-up.json) |
