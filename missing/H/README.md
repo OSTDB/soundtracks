@@ -5574,6 +5574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heretic's Fork: The Savior's Descent | 320280 | [320280-heretics-fork-the-saviors-descent.json](./320280-heretics-fork-the-saviors-descent.json) |
 | Heretic's Hope | 216329 | [216329-heretics-hope.json](./216329-heretics-hope.json) |
 | Heretic's Lot | 158566 | [158566-heretics-lot.json](./158566-heretics-lot.json) |
+| Heretical | 291293 | [291293-heretical.json](./291293-heretical.json) |
 | HereticOS Mr. Lab | 369363 | [369363-hereticos-mr-lab.json](./369363-hereticos-mr-lab.json) |
 | HereWith | 236889 | [236889-herewith.json](./236889-herewith.json) |
 | Herezh: Generations of Heroes | 212183 | [212183-herezh-generations-of-heroes.json](./212183-herezh-generations-of-heroes.json) |
@@ -6719,6 +6720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Expedition: The Price of Paradise | 187927 | [187927-hidden-expedition-the-price-of-paradise.json](./187927-hidden-expedition-the-price-of-paradise.json) |
 | Hidden Expedition: The Price of Paradise - Collector's Edition | 170182 | [170182-hidden-expedition-the-price-of-paradise-collectors-edition.json](./170182-hidden-expedition-the-price-of-paradise-collectors-edition.json) |
 | Hidden Expedition: The Uncharted Islands | 64721 | [64721-hidden-expedition-the-uncharted-islands.json](./64721-hidden-expedition-the-uncharted-islands.json) |
+| Hidden Facade | 291290 | [291290-hidden-facade.json](./291290-hidden-facade.json) |
 | Hidden Farm 2 Top-Down 3D | 208593 | [208593-hidden-farm-2-top-down-3d.json](./208593-hidden-farm-2-top-down-3d.json) |
 | Hidden Fears | 86916 | [86916-hidden-fears.json](./86916-hidden-fears.json) |
 | Hidden Fears: Moonlight Edition | 121101 | [121101-hidden-fears-moonlight-edition.json](./121101-hidden-fears-moonlight-edition.json) |
