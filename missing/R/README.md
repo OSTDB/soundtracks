@@ -2090,6 +2090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratatouille | 230461 | [230461-ratatouille.json](./230461-ratatouille.json) |
 | Ratatouille | 281842 | [281842-ratatouille.json](./281842-ratatouille.json) |
 | Ratatouille | 281843 | [281843-ratatouille.json](./281843-ratatouille.json) |
+| Ratatouille | 281844 | [281844-ratatouille.json](./281844-ratatouille.json) |
 | Ratatouille | 4081 | [4081-ratatouille.json](./4081-ratatouille.json) |
 | Ratatouille | 78482 | [78482-ratatouille.json](./78482-ratatouille.json) |
 | Ratatouille: Food Frenzy | 18296 | [18296-ratatouille-food-frenzy.json](./18296-ratatouille-food-frenzy.json) |
@@ -5506,6 +5507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil Confidential Report File #3 | 402392 | [402392-resident-evil-confidential-report-file-3.json](./402392-resident-evil-confidential-report-file-3.json) |
 | Resident Evil Confidential Report File #4 | 402393 | [402393-resident-evil-confidential-report-file-4.json](./402393-resident-evil-confidential-report-file-4.json) |
 | Resident Evil Crossfire | 316285 | [316285-resident-evil-crossfire.json](./316285-resident-evil-crossfire.json) |
+| Resident Evil Demake | 281816 | [281816-resident-evil-demake.json](./281816-resident-evil-demake.json) |
 | Resident Evil Gaiden | 969 | [969-resident-evil-gaiden.json](./969-resident-evil-gaiden.json) |
 | Resident Evil Mercenaries Vs. | 77341 | [77341-resident-evil-mercenaries-vs.json](./77341-resident-evil-mercenaries-vs.json) |
 | Resident Evil Outbreak | 972 | [972-resident-evil-outbreak.json](./972-resident-evil-outbreak.json) |
@@ -8291,6 +8293,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Rage Royale | 115563 | [115563-road-rage-royale.json](./115563-road-rage-royale.json) |
 | Road Rash | 141271 | [141271-road-rash.json](./141271-road-rash.json) |
 | Road Rash | 249144 | [249144-road-rash.json](./249144-road-rash.json) |
+| Road Rash | 281827 | [281827-road-rash.json](./281827-road-rash.json) |
+| Road Rash | 281829 | [281829-road-rash.json](./281829-road-rash.json) |
+| Road Rash | 281830 | [281830-road-rash.json](./281830-road-rash.json) |
 | Road Rash 2 | 327271 | [327271-road-rash-2.json](./327271-road-rash-2.json) |
 | Road Rash 3 | 198875 | [198875-road-rash-3.json](./198875-road-rash-3.json) |
 | Road Rash 3D | 45012 | [45012-road-rash-3d.json](./45012-road-rash-3d.json) |
@@ -9512,6 +9517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman.EXE Operate Shooting Star | 1774 | [1774-rockman-exe-operate-shooting-star.json](./1774-rockman-exe-operate-shooting-star.json) |
 | Rockmen R: Dr. Wily no Gyakushuu | 80225 | [80225-rockmen-r-dr-wily-no-gyakushuu.json](./80225-rockmen-r-dr-wily-no-gyakushuu.json) |
 | Rockmen R2: Dr. W*ly no Saiki!! | 137941 | [137941-rockmen-r2-dr-w-ly-no-saiki.json](./137941-rockmen-r2-dr-w-ly-no-saiki.json) |
+| RockMen X | 281814 | [281814-rockmen-x.json](./281814-rockmen-x.json) |
 | Rockmorse | 181367 | [181367-rockmorse.json](./181367-rockmorse.json) |
 | Rocko's Modern Life Slider | 312952 | [312952-rockos-modern-life-slider.json](./312952-rockos-modern-life-slider.json) |
 | Rocko's Modern Life: Match-Master | 273876 | [273876-rockos-modern-life-match-master.json](./273876-rockos-modern-life-match-master.json) |
