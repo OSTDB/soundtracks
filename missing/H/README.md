@@ -1892,6 +1892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardcore Pinball | 49296 | [49296-hardcore-pinball.json](./49296-hardcore-pinball.json) |
 | Hardcore Pool | 130627 | [130627-hardcore-pool.json](./130627-hardcore-pool.json) |
 | Hardcore Soldier | 406214 | [406214-hardcore-soldier.json](./406214-hardcore-soldier.json) |
+| Hardcore Survival | 292474 | [292474-hardcore-survival.json](./292474-hardcore-survival.json) |
 | Hardcore Survival | 65811 | [65811-hardcore-survival.json](./65811-hardcore-survival.json) |
 | Hardcore Trivia | 169848 | [169848-hardcore-trivia.json](./169848-hardcore-trivia.json) |
 | Hardcore Weapon Challenge - FPS Action | 103834 | [103834-hardcore-weapon-challenge-fps-action.json](./103834-hardcore-weapon-challenge-fps-action.json) |
@@ -6223,6 +6224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex-Mix | 253246 | [253246-hex-mix.json](./253246-hex-mix.json) |
 | Hex: Origins | 63738 | [63738-hex-origins.json](./63738-hex-origins.json) |
 | HEX: Shards of Fate | 9570 | [9570-hex-shards-of-fate.json](./9570-hex-shards-of-fate.json) |
+| Hex.Plan.X | 292336 | [292336-hex-plan-x.json](./292336-hex-plan-x.json) |
 | Hexa | 114390 | [114390-hexa.json](./114390-hexa.json) |
 | Hexa | 46868 | [46868-hexa.json](./46868-hexa.json) |
 | Hexa Attack Puzzle: Shoot n Merge Numbers | 133891 | [133891-hexa-attack-puzzle-shoot-n-merge-numbers.json](./133891-hexa-attack-puzzle-shoot-n-merge-numbers.json) |
@@ -7498,6 +7500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway of death | 112998 | [112998-highway-of-death.json](./112998-highway-of-death.json) |
 | Highway Patrol Simulator | 258451 | [258451-highway-patrol-simulator.json](./258451-highway-patrol-simulator.json) |
 | Highway Patrol Simulator | 371212 | [371212-highway-patrol-simulator.json](./371212-highway-patrol-simulator.json) |
+| Highway Police Simulator | 292349 | [292349-highway-police-simulator.json](./292349-highway-police-simulator.json) |
 | Highway Pursuit | 231318 | [231318-highway-pursuit.json](./231318-highway-pursuit.json) |
 | Highway Racer | 300727 | [300727-highway-racer.json](./300727-highway-racer.json) |
 | Highway Racer 2 | 393547 | [393547-highway-racer-2.json](./393547-highway-racer-2.json) |
