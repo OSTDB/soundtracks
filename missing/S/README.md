@@ -10284,6 +10284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hill: Townfall Deluxe Edition | 404083 | [404083-silent-hill-townfall-deluxe-edition.json](./404083-silent-hill-townfall-deluxe-edition.json) |
 | Silent Hills | 7611 | [7611-silent-hills.json](./7611-silent-hills.json) |
 | Silent Hope | 254330 | [254330-silent-hope.json](./254330-silent-hope.json) |
+| Silent Hope: Day One Edition | 254846 | [254846-silent-hope-day-one-edition.json](./254846-silent-hope-day-one-edition.json) |
 | Silent Hope: Wanderer's Weapon & Item Set | 254464 | [254464-silent-hope-wanderers-weapon-and-item-set.json](./254464-silent-hope-wanderers-weapon-and-item-set.json) |
 | Silent House | 177304 | [177304-silent-house.json](./177304-silent-house.json) |
 | Silent Howl | 405758 | [405758-silent-howl.json](./405758-silent-howl.json) |
@@ -15612,6 +15613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Kick-ups | 406059 | [406059-soccer-kick-ups.json](./406059-soccer-kick-ups.json) |
 | Soccer Kid | 4302 | [4302-soccer-kid.json](./4302-soccer-kid.json) |
 | Soccer Kid Collection | 403733 | [403733-soccer-kid-collection.json](./403733-soccer-kid-collection.json) |
+| Soccer Kids | 254853 | [254853-soccer-kids.json](./254853-soccer-kids.json) |
 | Soccer Kids Champions | 104723 | [104723-soccer-kids-champions.json](./104723-soccer-kids-champions.json) |
 | Soccer League | 182151 | [182151-soccer-league.json](./182151-soccer-league.json) |
 | Soccer League: Winner's Cup | 48531 | [48531-soccer-league-winners-cup.json](./48531-soccer-league-winners-cup.json) |
@@ -19310,6 +19312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -29300,6 +29303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sum | 252995 | [252995-sum.json](./252995-sum.json) |
 | Sum Blocks | 120161 | [120161-sum-blocks.json](./120161-sum-blocks.json) |
 | Sum Ducks | 71150 | [71150-sum-ducks.json](./71150-sum-ducks.json) |
+| Sum Idea | 254811 | [254811-sum-idea.json](./254811-sum-idea.json) |
 | Sum Zero | 407472 | [407472-sum-zero.json](./407472-sum-zero.json) |
 | Sum!! | 175580 | [175580-sum.json](./175580-sum.json) |
 | Sum10 | 328387 | [328387-sum10.json](./328387-sum10.json) |
