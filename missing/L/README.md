@@ -2939,6 +2939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO 2K Drive: Awesome Edition | 242494 | [242494-lego-2k-drive-awesome-edition.json](./242494-lego-2k-drive-awesome-edition.json) |
 | LEGO 2K Drive: Awesome Rivals Edition | 242495 | [242495-lego-2k-drive-awesome-rivals-edition.json](./242495-lego-2k-drive-awesome-rivals-edition.json) |
 | LEGO 2K Drive: Premium Drive Pass Season 2 | 268591 | [268591-lego-2k-drive-premium-drive-pass-season-2.json](./268591-lego-2k-drive-premium-drive-pass-season-2.json) |
+| LEGO 2K Drive: Premium Drive Pass Season 3 | 280581 | [280581-lego-2k-drive-premium-drive-pass-season-3.json](./280581-lego-2k-drive-premium-drive-pass-season-3.json) |
 | LEGO 2K Drive: Year 1 Drive Pass | 255217 | [255217-lego-2k-drive-year-1-drive-pass.json](./255217-lego-2k-drive-year-1-drive-pass.json) |
 | LEGO Agents: Mission X | 314853 | [314853-lego-agents-mission-x.json](./314853-lego-agents-mission-x.json) |
 | LEGO Alpha Team | 372839 | [372839-lego-alpha-team.json](./372839-lego-alpha-team.json) |
