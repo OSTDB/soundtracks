@@ -940,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mages | 115780 | [115780-mages.json](./115780-mages.json) |
 | Mages | 170844 | [170844-mages.json](./170844-mages.json) |
 | Mages and Treasures | 140787 | [140787-mages-and-treasures.json](./140787-mages-and-treasures.json) |
+| Mages Arena | 275954 | [275954-mages-arena.json](./275954-mages-arena.json) |
 | Mages Defense | 152633 | [152633-mages-defense.json](./152633-mages-defense.json) |
 | Mages of Mystralia | 18869 | [18869-mages-of-mystralia.json](./18869-mages-of-mystralia.json) |
 | Mages of Osmea | 312199 | [312199-mages-of-osmea.json](./312199-mages-of-osmea.json) |
@@ -995,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Archer: Monster Islands | 234475 | [234475-magic-archer-monster-islands.json](./234475-magic-archer-monster-islands.json) |
 | Magic Archers | 148862 | [148862-magic-archers.json](./148862-magic-archers.json) |
 | Magic Archery | 318318 | [318318-magic-archery.json](./318318-magic-archery.json) |
+| Magic Architect: Into Disaster | 275953 | [275953-magic-architect-into-disaster.json](./275953-magic-architect-into-disaster.json) |
 | Magic Axolotl | 220441 | [220441-magic-axolotl.json](./220441-magic-axolotl.json) |
 | Magic Ball Deluxe | 70237 | [70237-magic-ball-deluxe.json](./70237-magic-ball-deluxe.json) |
 | Magic Balls | 163868 | [163868-magic-balls.json](./163868-magic-balls.json) |
@@ -5798,7 +5800,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -14420,6 +14421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moémon Quetzal | 406271 | [406271-moemon-quetzal.json](./406271-moemon-quetzal.json) |
 | Moémon Star Emerald | 315400 | [315400-moemon-star-emerald.json](./315400-moemon-star-emerald.json) |
 | Moémon: Heart of Gold | 261128 | [261128-moemon-heart-of-gold.json](./261128-moemon-heart-of-gold.json) |
+| MoeMoni Land | 275973 | [275973-moemoni-land.json](./275973-moemoni-land.json) |
 | Moen | 258350 | [258350-moen.json](./258350-moen.json) |
 | Moeras | 129565 | [129565-moeras.json](./129565-moeras.json) |
 | Moero 7!! Judo Warriors | 59994 | [59994-moero-7-judo-warriors.json](./59994-moero-7-judo-warriors.json) |
@@ -21104,6 +21106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious Islandz | 322385 | [322385-mysterious-islandz.json](./322385-mysterious-islandz.json) |
 | Mysterious Journey II | 72063 | [72063-mysterious-journey-ii.json](./72063-mysterious-journey-ii.json) |
 | Mysterious Lab | 235635 | [235635-mysterious-lab.json](./235635-mysterious-lab.json) |
+| Mysterious Legend | 275963 | [275963-mysterious-legend.json](./275963-mysterious-legend.json) |
 | Mysterious Mayan Madness | 269460 | [269460-mysterious-mayan-madness.json](./269460-mysterious-mayan-madness.json) |
 | Mysterious Mystery, EP 1: The Duo Dilemma | 293486 | [293486-mysterious-mystery-ep-1-the-duo-dilemma.json](./293486-mysterious-mystery-ep-1-the-duo-dilemma.json) |
 | Mysterious Place | 254282 | [254282-mysterious-place.json](./254282-mysterious-place.json) |
