@@ -899,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnar | 352296 | [352296-ragnar.json](./352296-ragnar.json) |
 | Ragnar's Chinese Memory Game | 156112 | [156112-ragnars-chinese-memory-game.json](./156112-ragnars-chinese-memory-game.json) |
 | Ragnarock | 139399 | [139399-ragnarock.json](./139399-ragnarock.json) |
+| Ragnarock: Jonathan Young Raid | 279408 | [279408-ragnarock-jonathan-young-raid.json](./279408-ragnarock-jonathan-young-raid.json) |
 | Ragnarock: Sabaton Raid | 253195 | [253195-ragnarock-sabaton-raid.json](./253195-ragnarock-sabaton-raid.json) |
 | Ragnarock: Summer Skin Pack | 354318 | [354318-ragnarock-summer-skin-pack.json](./354318-ragnarock-summer-skin-pack.json) |
 | Ragnarock: Viking Music Pack | 354320 | [354320-ragnarock-viking-music-pack.json](./354320-ragnarock-viking-music-pack.json) |
@@ -6072,6 +6073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retronika | 332467 | [332467-retronika.json](./332467-retronika.json) |
 | Retroninjacyberassassin | 149234 | [149234-retroninjacyberassassin.json](./149234-retroninjacyberassassin.json) |
 | Retroplay Controller | 287666 | [287666-retroplay-controller.json](./287666-retroplay-controller.json) |
+| Retropolis Dot.Line | 279397 | [279397-retropolis-dot-line.json](./279397-retropolis-dot-line.json) |
 | RetroQuest | 45332 | [45332-retroquest.json](./45332-retroquest.json) |
 | RetroRaider II: Lara's Quest Continues | 55914 | [55914-retroraider-ii-laras-quest-continues.json](./55914-retroraider-ii-laras-quest-continues.json) |
 | RetroRaider: Three Crystals | 55915 | [55915-retroraider-three-crystals.json](./55915-retroraider-three-crystals.json) |
@@ -9283,6 +9285,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: Season 1 | 202392 | [202392-rocket-league-season-1.json](./202392-rocket-league-season-1.json) |
 | Rocket League: Season 11 | 252378 | [252378-rocket-league-season-11.json](./252378-rocket-league-season-11.json) |
 | Rocket League: Season 12 | 265236 | [265236-rocket-league-season-12.json](./265236-rocket-league-season-12.json) |
+| Rocket League: Season 12 Elite Pack | 279414 | [279414-rocket-league-season-12-elite-pack.json](./279414-rocket-league-season-12-elite-pack.json) |
+| Rocket League: Season 13 | 279385 | [279385-rocket-league-season-13.json](./279385-rocket-league-season-13.json) |
 | Rocket League: Season 13 Elite Pack | 280726 | [280726-rocket-league-season-13-elite-pack.json](./280726-rocket-league-season-13-elite-pack.json) |
 | Rocket League: Season 13 Rookie Pack | 280727 | [280727-rocket-league-season-13-rookie-pack.json](./280727-rocket-league-season-13-rookie-pack.json) |
 | Rocket League: Season 14 | 289753 | [289753-rocket-league-season-14.json](./289753-rocket-league-season-14.json) |
