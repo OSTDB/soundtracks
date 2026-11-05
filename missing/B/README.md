@@ -953,7 +953,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -8790,6 +8789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Desert Online: Traveler's Package | 91182 | [91182-black-desert-online-travelers-package.json](./91182-black-desert-online-travelers-package.json) |
 | Black Desert: Conqueror Edition | 164570 | [164570-black-desert-conqueror-edition.json](./164570-black-desert-conqueror-edition.json) |
 | Black Desert: Traveler Edition | 150142 | [150142-black-desert-traveler-edition.json](./150142-black-desert-traveler-edition.json) |
+| Black Devilfish | 268806 | [268806-black-devilfish.json](./268806-black-devilfish.json) |
 | Black Diamond | 213352 | [213352-black-diamond.json](./213352-black-diamond.json) |
 | Black Diamond | 275309 | [275309-black-diamond.json](./275309-black-diamond.json) |
 | Black Dog Bar | 216623 | [216623-black-dog-bar.json](./216623-black-dog-bar.json) |
@@ -9707,6 +9707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazBlue: Entropy Effect X | 377236 | [377236-blazblue-entropy-effect-x.json](./377236-blazblue-entropy-effect-x.json) |
 | BlazBlue: Entropy Effect x Dead Cells | 339611 | [339611-blazblue-entropy-effect-x-dead-cells.json](./339611-blazblue-entropy-effect-x-dead-cells.json) |
 | Blaze | 171722 | [171722-blaze.json](./171722-blaze.json) |
+| Blaze | 268823 | [268823-blaze.json](./268823-blaze.json) |
 | Blaze & Blade Busters | 43787 | [43787-blaze-and-blade-busters.json](./43787-blaze-and-blade-busters.json) |
 | Blaze and Blade: Eternal Quest | 18249 | [18249-blaze-and-blade-eternal-quest.json](./18249-blaze-and-blade-eternal-quest.json) |
 | Blaze and the Monster Machines | 101564 | [101564-blaze-and-the-monster-machines.json](./101564-blaze-and-the-monster-machines.json) |
@@ -12647,6 +12648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BonVoyage! | 118785 | [118785-bonvoyage.json](./118785-bonvoyage.json) |
 | Bonx | 92059 | [92059-bonx.json](./92059-bonx.json) |
 | Bony Bones Adventures | 303358 | [303358-bony-bones-adventures.json](./303358-bony-bones-adventures.json) |
+| Bonza Phrases | 268814 | [268814-bonza-phrases.json](./268814-bonza-phrases.json) |
 | Bonza Planet | 354445 | [354445-bonza-planet.json](./354445-bonza-planet.json) |
 | Bonza Word Puzzle | 61152 | [61152-bonza-word-puzzle.json](./61152-bonza-word-puzzle.json) |
 | Bonza Word Puzzle | 90678 | [90678-bonza-word-puzzle.json](./90678-bonza-word-puzzle.json) |
