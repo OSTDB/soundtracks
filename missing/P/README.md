@@ -1602,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Mario: Dark Star Edition | 266504 | [266504-paper-mario-dark-star-edition.json](./266504-paper-mario-dark-star-edition.json) |
 | Paper Mario: Great Star Offensive | 338742 | [338742-paper-mario-great-star-offensive.json](./338742-paper-mario-great-star-offensive.json) |
 | Paper Mario: Master Quest | 187873 | [187873-paper-mario-master-quest.json](./187873-paper-mario-master-quest.json) |
+| Paper Mario: Master Quest + Jr. | 248349 | [248349-paper-mario-master-quest-jr.json](./248349-paper-mario-master-quest-jr.json) |
 | Paper Mario: Mystical Mission | 357432 | [357432-paper-mario-mystical-mission.json](./357432-paper-mario-mystical-mission.json) |
 | Paper Mario: Showtime!! | 318522 | [318522-paper-mario-showtime.json](./318522-paper-mario-showtime.json) |
 | Paper Mario: Star Nova | 358284 | [358284-paper-mario-star-nova.json](./358284-paper-mario-star-nova.json) |
@@ -3872,6 +3873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penalty Challenge | 311227 | [311227-penalty-challenge.json](./311227-penalty-challenge.json) |
 | Penalty Kick | 287540 | [287540-penalty-kick.json](./287540-penalty-kick.json) |
 | Penalty Kick '91 | 180475 | [180475-penalty-kick-91.json](./180475-penalty-kick-91.json) |
+| Penalty Madness | 248263 | [248263-penalty-madness.json](./248263-penalty-madness.json) |
 | Penalty Saver | 64248 | [64248-penalty-saver.json](./64248-penalty-saver.json) |
 | Penalty Shoot-Out Soccer: 2010 World Champion | 174233 | [174233-penalty-shoot-out-soccer-2010-world-champion.json](./174233-penalty-shoot-out-soccer-2010-world-champion.json) |
 | Penalty Shooters Footy | 241061 | [241061-penalty-shooters-footy.json](./241061-penalty-shooters-footy.json) |
