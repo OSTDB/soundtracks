@@ -12884,6 +12884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings: War in the North - Legacy Edition | 413144 | [413144-the-lord-of-the-rings-war-in-the-north-legacy-edition.json](./413144-the-lord-of-the-rings-war-in-the-north-legacy-edition.json) |
 | The Lord of the Rings: War of the Ring | 9256 | [9256-the-lord-of-the-rings-war-of-the-ring.json](./9256-the-lord-of-the-rings-war-of-the-ring.json) |
 | The Lord of the Tower | 205601 | [205601-the-lord-of-the-tower.json](./205601-the-lord-of-the-tower.json) |
+| The Lord of Time | 289677 | [289677-the-lord-of-time.json](./289677-the-lord-of-time.json) |
 | The Lord of War | 262064 | [262064-the-lord-of-war.json](./262064-the-lord-of-war.json) |
 | The Lords of Midnight | 25733 | [25733-the-lords-of-midnight.json](./25733-the-lords-of-midnight.json) |
 | The Lords of Midnight | 272816 | [272816-the-lords-of-midnight.json](./272816-the-lords-of-midnight.json) |
@@ -19570,6 +19571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is My Memory of First Heartbreak, Which I Can't Quite Piece Back Together | 57476 | [57476-this-is-my-memory-of-first-heartbreak-which-i-cant-quite-piece-back-together.json](./57476-this-is-my-memory-of-first-heartbreak-which-i-cant-quite-piece-back-together.json) |
 | This is My Place | 264574 | [264574-this-is-my-place.json](./264574-this-is-my-place.json) |
 | This is my story | 115151 | [115151-this-is-my-story.json](./115151-this-is-my-story.json) |
+| This Is No Cave | 289675 | [289675-this-is-no-cave.json](./289675-this-is-no-cave.json) |
 | This is Normal | 288611 | [288611-this-is-normal.json](./288611-this-is-normal.json) |
 | This Is Not a Ball Game. | 243636 | [243636-this-is-not-a-ball-game.json](./243636-this-is-not-a-ball-game.json) |
 | This Is Not a Game About Catching Monsters | 181735 | [181735-this-is-not-a-game-about-catching-monsters.json](./181735-this-is-not-a-game-about-catching-monsters.json) |
@@ -24430,6 +24432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomboy Stranded in Space | 393388 | [393388-tomboy-stranded-in-space.json](./393388-tomboy-stranded-in-space.json) |
 | Tomboy: Annoying Childhood Friend | 368734 | [368734-tomboy-annoying-childhood-friend.json](./368734-tomboy-annoying-childhood-friend.json) |
 | Tomboy: Love in Hot Forge | 267792 | [267792-tomboy-love-in-hot-forge.json](./267792-tomboy-love-in-hot-forge.json) |
+| Tomboy: Sex in the Forest | 289663 | [289663-tomboy-sex-in-the-forest.json](./289663-tomboy-sex-in-the-forest.json) |
 | Tomboy: Trapped by Orcs | 348934 | [348934-tomboy-trapped-by-orcs.json](./348934-tomboy-trapped-by-orcs.json) |
 | Tomboys Need Love Too! | 36470 | [36470-tomboys-need-love-too.json](./36470-tomboys-need-love-too.json) |
 | Tombs & Treasure | 215142 | [215142-tombs-and-treasure.json](./215142-tombs-and-treasure.json) |
