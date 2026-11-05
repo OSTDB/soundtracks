@@ -8775,6 +8775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboSquare | 141205 | [141205-robosquare.json](./141205-robosquare.json) |
 | RoboSquare: Recharged | 416817 | [416817-robosquare-recharged.json](./416817-robosquare-recharged.json) |
 | Robostar | 133812 | [133812-robostar.json](./133812-robostar.json) |
+| RoboSync | 282961 | [282961-robosync.json](./282961-robosync.json) |
 | Robosynthesis | 405092 | [405092-robosynthesis.json](./405092-robosynthesis.json) |
 | Robot | 267795 | [267795-robot.json](./267795-robot.json) |
 | Robot Adventure | 285537 | [285537-robot-adventure.json](./285537-robot-adventure.json) |
@@ -11465,6 +11466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Shelterra the Skyworld | 60272 | [60272-rpg-shelterra-the-skyworld.json](./60272-rpg-shelterra-the-skyworld.json) |
 | RPG Shooter: Starwish | 148178 | [148178-rpg-shooter-starwish.json](./148178-rpg-shooter-starwish.json) |
 | RPG Stories | 370445 | [370445-rpg-stories.json](./370445-rpg-stories.json) |
+| RPG Survivors | 282947 | [282947-rpg-survivors.json](./282947-rpg-survivors.json) |
 | RPG Time: The Legend of Wright | 110395 | [110395-rpg-time-the-legend-of-wright.json](./110395-rpg-time-the-legend-of-wright.json) |
 | RPG Town | 217297 | [217297-rpg-town.json](./217297-rpg-town.json) |
 | RPG Trifecta Pack | 80266 | [80266-rpg-trifecta-pack.json](./80266-rpg-trifecta-pack.json) |
