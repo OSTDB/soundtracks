@@ -3178,6 +3178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urakata Hakuoki | 60978 | [60978-urakata-hakuoki.json](./60978-urakata-hakuoki.json) |
 | Urakata Hakuoki: Akatsuki no Shirabe | 60988 | [60988-urakata-hakuoki-akatsuki-no-shirabe.json](./60988-urakata-hakuoki-akatsuki-no-shirabe.json) |
 | Uranai Angel Cutie | 128893 | [128893-uranai-angel-cutie.json](./128893-uranai-angel-cutie.json) |
+| Uranai Demo Shite Miyouka DS | 288017 | [288017-uranai-demo-shite-miyouka-ds.json](./288017-uranai-demo-shite-miyouka-ds.json) |
 | Urania | 313835 | [313835-urania.json](./313835-urania.json) |
 | Urania's Cloak | 144200 | [144200-uranias-cloak.json](./144200-uranias-cloak.json) |
 | Urânio 235 | 256281 | [256281-uranio-235.json](./256281-uranio-235.json) |
