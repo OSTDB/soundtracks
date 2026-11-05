@@ -6090,6 +6090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picture Builder | 288850 | [288850-picture-builder.json](./288850-picture-builder.json) |
 | Picture Challenge | 358733 | [358733-picture-challenge.json](./358733-picture-challenge.json) |
 | Picture Cross Color | 345132 | [345132-picture-cross-color.json](./345132-picture-cross-color.json) |
+| Picture Cross Towns | 246721 | [246721-picture-cross-towns.json](./246721-picture-cross-towns.json) |
 | Picture Everything: Puzzle Cross Galaxy | 347914 | [347914-picture-everything-puzzle-cross-galaxy.json](./347914-picture-everything-puzzle-cross-galaxy.json) |
 | Picture Hunt | 401273 | [401273-picture-hunt.json](./401273-picture-hunt.json) |
 | Picture Hunt | 91078 | [91078-picture-hunt.json](./91078-picture-hunt.json) |
@@ -7390,6 +7391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piracy | 41199 | [41199-piracy.json](./41199-piracy.json) |
 | Piradice | 176290 | [176290-piradice.json](./176290-piradice.json) |
 | Piraka Attack | 409761 | [409761-piraka-attack.json](./409761-piraka-attack.json) |
+| Piramide Inca | 246733 | [246733-piramide-inca.json](./246733-piramide-inca.json) |
 | Piranesian | 416034 | [416034-piranesian.json](./416034-piranesian.json) |
 | Piranha | 351661 | [351661-piranha.json](./351661-piranha.json) |
 | Piranha | 92881 | [92881-piranha.json](./92881-piranha.json) |
@@ -11947,6 +11949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polyball | 20348 | [20348-polyball.json](./20348-polyball.json) |
 | Polybius | 178251 | [178251-polybius.json](./178251-polybius.json) |
 | Polybius | 239548 | [239548-polybius.json](./239548-polybius.json) |
+| Polybius | 246742 | [246742-polybius.json](./246742-polybius.json) |
 | Polybius | 24868 | [24868-polybius.json](./24868-polybius.json) |
 | Polybius | 275668 | [275668-polybius.json](./275668-polybius.json) |
 | Polybius Invaders | 173786 | [173786-polybius-invaders.json](./173786-polybius-invaders.json) |
