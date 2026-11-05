@@ -2053,6 +2053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Color Perception | 267740 | [267740-absolute-color-perception.json](./267740-absolute-color-perception.json) |
 | Absolute Deduction Bundle | 209687 | [209687-absolute-deduction-bundle.json](./209687-absolute-deduction-bundle.json) |
 | Absolute Despair Collection | 52556 | [52556-absolute-despair-collection.json](./52556-absolute-despair-collection.json) |
+| Absolute Dishonor | 259890 | [259890-absolute-dishonor.json](./259890-absolute-dishonor.json) |
 | Absolute Doppelkopf | 79215 | [79215-absolute-doppelkopf.json](./79215-absolute-doppelkopf.json) |
 | Absolute Doppelkopf for Windows 11 | 264542 | [264542-absolute-doppelkopf-for-windows-11.json](./264542-absolute-doppelkopf-for-windows-11.json) |
 | Absolute Drift | 11587 | [11587-absolute-drift.json](./11587-absolute-drift.json) |
@@ -9431,6 +9432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angelique Trois | 72678 | [72678-angelique-trois.json](./72678-angelique-trois.json) |
 | Angelique Trois: Aizou-hen | 269340 | [269340-angelique-trois-aizou-hen.json](./269340-angelique-trois-aizou-hen.json) |
 | Angelique Voice Fantasy | 38316 | [38316-angelique-voice-fantasy.json](./38316-angelique-voice-fantasy.json) |
+| Angelique: A Grief Encounter | 259917 | [259917-angelique-a-grief-encounter.json](./259917-angelique-a-grief-encounter.json) |
 | Angelique: Maren no Rokukishi | 56515 | [56515-angelique-maren-no-rokukishi.json](./56515-angelique-maren-no-rokukishi.json) |
 | AngelKnights | 229230 | [229230-angelknights.json](./229230-angelknights.json) |
 | Angellus: Asas do Anoitecer | 262079 | [262079-angellus-asas-do-anoitecer.json](./262079-angellus-asas-do-anoitecer.json) |
@@ -9892,6 +9894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Shelter Simulator | 130134 | [130134-animal-shelter-simulator.json](./130134-animal-shelter-simulator.json) |
 | Animal Shelter Simulator: Horse Shelter DLC | 232523 | [232523-animal-shelter-simulator-horse-shelter-dlc.json](./232523-animal-shelter-simulator-horse-shelter-dlc.json) |
 | Animal Shelter Simulator: Puppies & Kittens | 209661 | [209661-animal-shelter-simulator-puppies-and-kittens.json](./209661-animal-shelter-simulator-puppies-and-kittens.json) |
+| Animal Shelter: Vet Clinic | 259886 | [259886-animal-shelter-vet-clinic.json](./259886-animal-shelter-vet-clinic.json) |
 | Animal Simulator | 189814 | [189814-animal-simulator.json](./189814-animal-simulator.json) |
 | Animal Smash | 365068 | [365068-animal-smash.json](./365068-animal-smash.json) |
 | Animal Soccer World | 43355 | [43355-animal-soccer-world.json](./43355-animal-soccer-world.json) |
@@ -14607,6 +14610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asgard Rift: Battle Arena | 110210 | [110210-asgard-rift-battle-arena.json](./110210-asgard-rift-battle-arena.json) |
 | Asgard Run | 57327 | [57327-asgard-run.json](./57327-asgard-run.json) |
 | Asgard's Edda: Mechanical Threat | 356345 | [356345-asgards-edda-mechanical-threat.json](./356345-asgards-edda-mechanical-threat.json) |
+| Asgard's Fall: Viking Survivors | 259911 | [259911-asgards-fall-viking-survivors.json](./259911-asgards-fall-viking-survivors.json) |
 | Asgard's Wrath | 115031 | [115031-asgards-wrath.json](./115031-asgards-wrath.json) |
 | Asgard’s Wrath II | 251569 | [251569-asgard-s-wrath-ii.json](./251569-asgard-s-wrath-ii.json) |
 | Asghan 2 | 10864 | [10864-asghan-2.json](./10864-asghan-2.json) |
@@ -16360,7 +16364,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
