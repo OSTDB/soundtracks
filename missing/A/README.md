@@ -6395,6 +6395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice & Marisa | 270382 | [270382-alice-and-marisa.json](./270382-alice-and-marisa.json) |
 | Alice 49: Ep. 0 - Diamonds and Cream Puffs | 331923 | [331923-alice-49-ep-0-diamonds-and-cream-puffs.json](./331923-alice-49-ep-0-diamonds-and-cream-puffs.json) |
 | Alice and Smith: Complete Library | 52589 | [52589-alice-and-smith-complete-library.json](./52589-alice-and-smith-complete-library.json) |
+| Alice and The Ancients | 274818 | [274818-alice-and-the-ancients.json](./274818-alice-and-the-ancients.json) |
 | Alice and the Devil's Prison | 406645 | [406645-alice-and-the-devils-prison.json](./406645-alice-and-the-devils-prison.json) |
 | Alice and the Magic Gardens | 52380 | [52380-alice-and-the-magic-gardens.json](./52380-alice-and-the-magic-gardens.json) |
 | Alice and The Magical Dragons | 370922 | [370922-alice-and-the-magical-dragons.json](./370922-alice-and-the-magical-dragons.json) |
@@ -8138,6 +8139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AmaZoo | 319927 | [319927-amazoo.json](./319927-amazoo.json) |
 | Ambar's Fate | 173807 | [173807-ambars-fate.json](./173807-ambars-fate.json) |
 | Ambassador Kane | 118835 | [118835-ambassador-kane.json](./118835-ambassador-kane.json) |
+| Amber | 274806 | [274806-amber.json](./274806-amber.json) |
 | Amber Alert | 306398 | [306398-amber-alert.json](./306398-amber-alert.json) |
 | Amber Alert Director's Cut | 345679 | [345679-amber-alert-directors-cut.json](./345679-amber-alert-directors-cut.json) |
 | Amber Alert Total VR | 339722 | [339722-amber-alert-total-vr.json](./339722-amber-alert-total-vr.json) |
@@ -11235,6 +11237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Legends: From the Rift | 330746 | [330746-apex-legends-from-the-rift.json](./330746-apex-legends-from-the-rift.json) |
 | Apex Legends: Gibraltar Edition | 146158 | [146158-apex-legends-gibraltar-edition.json](./146158-apex-legends-gibraltar-edition.json) |
 | Apex Legends: Hunted | 210618 | [210618-apex-legends-hunted.json](./210618-apex-legends-hunted.json) |
+| Apex Legends: Ignite | 274824 | [274824-apex-legends-ignite.json](./274824-apex-legends-ignite.json) |
 | Apex Legends: Legacy | 146328 | [146328-apex-legends-legacy.json](./146328-apex-legends-legacy.json) |
 | Apex Legends: Lifeline and Bloodhound Double Pack | 136065 | [136065-apex-legends-lifeline-and-bloodhound-double-pack.json](./136065-apex-legends-lifeline-and-bloodhound-double-pack.json) |
 | Apex Legends: Lifeline Edition | 136063 | [136063-apex-legends-lifeline-edition.json](./136063-apex-legends-lifeline-edition.json) |
@@ -16913,6 +16916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AuroraRL | 33607 | [33607-aurorarl.json](./33607-aurorarl.json) |
 | AuroraRL: Special Edition | 52622 | [52622-aurorarl-special-edition.json](./52622-aurorarl-special-edition.json) |
 | Aurore: Five Princes | 115316 | [115316-aurore-five-princes.json](./115316-aurore-five-princes.json) |
+| Auroria | 274799 | [274799-auroria.json](./274799-auroria.json) |
 | Aurrery | 74871 | [74871-aurrery.json](./74871-aurrery.json) |
 | Aurule Dynasty | 406856 | [406856-aurule-dynasty.json](./406856-aurule-dynasty.json) |
 | Aurum | 373636 | [373636-aurum.json](./373636-aurum.json) |
