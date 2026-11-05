@@ -5827,6 +5827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Soul: I Want to be a Hero! | 126786 | [126786-hero-soul-i-want-to-be-a-hero.json](./126786-hero-soul-i-want-to-be-a-hero.json) |
 | Hero Staff | 113655 | [113655-hero-staff.json](./113655-hero-staff.json) |
 | Hero Stickman | 346653 | [346653-hero-stickman.json](./346653-hero-stickman.json) |
+| Hero Survival | 250719 | [250719-hero-survival.json](./250719-hero-survival.json) |
 | Hero Swing VR | 120667 | [120667-hero-swing-vr.json](./120667-hero-swing-vr.json) |
 | Hero Sword | 299399 | [299399-hero-sword.json](./299399-hero-sword.json) |
 | Hero Syndrome | 129522 | [129522-hero-syndrome.json](./129522-hero-syndrome.json) |
@@ -12021,6 +12022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HWY 17 | 252093 | [252093-hwy-17.json](./252093-hwy-17.json) |
 | HWY Chase | 198122 | [198122-hwy-chase.json](./198122-hwy-chase.json) |
 | HWY3310 | 182786 | [182786-hwy3310.json](./182786-hwy3310.json) |
+| HXH | 250721 | [250721-hxh.json](./250721-hxh.json) |
 | HxHxH = Hajimari wa H kara: Daisuki Dakara, Daikirai! | 108920 | [108920-hxhxh-hajimari-wa-h-kara-daisuki-dakara-daikirai.json](./108920-hxhxh-hajimari-wa-h-kara-daisuki-dakara-daikirai.json) |
 | Hyacinth | 225747 | [225747-hyacinth.json](./225747-hyacinth.json) |
 | Hyacinthus | 120942 | [120942-hyacinthus.json](./120942-hyacinthus.json) |
