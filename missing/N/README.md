@@ -1203,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazotoki IQ Quiz | 261372 | [261372-nazotoki-iq-quiz.json](./261372-nazotoki-iq-quiz.json) |
 | Nazotoki Mail | 218986 | [218986-nazotoki-mail.json](./218986-nazotoki-mail.json) |
 | Nazotoki Mail 2 | 222239 | [222239-nazotoki-mail-2.json](./222239-nazotoki-mail-2.json) |
+| Nazotoki Majou to Himitsu no Hon | 278205 | [278205-nazotoki-majou-to-himitsu-no-hon.json](./278205-nazotoki-majou-to-himitsu-no-hon.json) |
 | Nazotoki Maze kara no Dasshutsu | 222223 | [222223-nazotoki-maze-kara-no-dasshutsu.json](./222223-nazotoki-maze-kara-no-dasshutsu.json) |
 | Nazotoki no Jikan: Thrill Suspense na Nazotoki Dasshutsu Mystery Suiri Game | 222388 | [222388-nazotoki-no-jikan-thrill-suspense-na-nazotoki-dasshutsu-mystery-suiri-game.json](./222388-nazotoki-no-jikan-thrill-suspense-na-nazotoki-dasshutsu-mystery-suiri-game.json) |
 | Nazotoki Noutore: BrainQuiz | 241190 | [241190-nazotoki-noutore-brainquiz.json](./241190-nazotoki-noutore-brainquiz.json) |
@@ -2231,6 +2232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo: The Rainbow Sorcerer | 357308 | [357308-neo-the-rainbow-sorcerer.json](./357308-neo-the-rainbow-sorcerer.json) |
 | Neo: The World Ends with You x Field Walk RPG | 362436 | [362436-neo-the-world-ends-with-you-x-field-walk-rpg.json](./362436-neo-the-world-ends-with-you-x-field-walk-rpg.json) |
 | Neo's Land | 61632 | [61632-neos-land.json](./61632-neos-land.json) |
+| Neoathlon | 278221 | [278221-neoathlon.json](./278221-neoathlon.json) |
 | NeoBalls | 81857 | [81857-neoballs.json](./81857-neoballs.json) |
 | NeoBalls2 | 83560 | [83560-neoballs2.json](./83560-neoballs2.json) |
 | Neoblazer | 352249 | [352249-neoblazer.json](./352249-neoblazer.json) |
