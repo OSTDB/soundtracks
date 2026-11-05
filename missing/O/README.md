@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O Sítio do Picapau Amarelo: As Reinações de Narizinho | 286924 | [286924-o-sitio-do-picapau-amarelo-as-reinacoes-de-narizinho.json](./286924-o-sitio-do-picapau-amarelo-as-reinacoes-de-narizinho.json) |
 | O Sombrio: A Voz das Almas | 278832 | [278832-o-sombrio-a-voz-das-almas.json](./278832-o-sombrio-a-voz-das-almas.json) |
 | O to Z | 301551 | [301551-o-to-z.json](./301551-o-to-z.json) |
+| O Tutt'i Cavi Lesi | 267167 | [267167-o-tutti-cavi-lesi.json](./267167-o-tutti-cavi-lesi.json) |
 | O Vagabundo | 290018 | [290018-o-vagabundo.json](./290018-o-vagabundo.json) |
 | O Viajante | 281889 | [281889-o-viajante.json](./281889-o-viajante.json) |
 | O-Bot The Robot | 336608 | [336608-o-bot-the-robot.json](./336608-o-bot-the-robot.json) |
@@ -553,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octopath Traveler 0 | 358535 | [358535-octopath-traveler-0.json](./358535-octopath-traveler-0.json) |
 | Octopath Traveler 0: Digital Deluxe Edition | 366786 | [366786-octopath-traveler-0-digital-deluxe-edition.json](./366786-octopath-traveler-0-digital-deluxe-edition.json) |
 | Octopath Traveler II | 217554 | [217554-octopath-traveler-ii.json](./217554-octopath-traveler-ii.json) |
+| Octopath Traveler II + Various Daylife Bundle | 267153 | [267153-octopath-traveler-ii-various-daylife-bundle.json](./267153-octopath-traveler-ii-various-daylife-bundle.json) |
 | Octopath Traveler II: Steelbook Edition | 243868 | [243868-octopath-traveler-ii-steelbook-edition.json](./243868-octopath-traveler-ii-steelbook-edition.json) |
 | Octopath Traveler: Wayfarer's Edition | 136350 | [136350-octopath-traveler-wayfarers-edition.json](./136350-octopath-traveler-wayfarers-edition.json) |
 | Octopede | 94202 | [94202-octopede.json](./94202-octopede.json) |
@@ -1174,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh Noes!!1 | 91896 | [91896-oh-noes-1.json](./91896-oh-noes-1.json) |
 | Oh Puck! | 390471 | [390471-oh-puck.json](./390471-oh-puck.json) |
 | Oh Putt Off! | 181678 | [181678-oh-putt-off.json](./181678-oh-putt-off.json) |
+| Oh Satan, I Gotta Hide | 267132 | [267132-oh-satan-i-gotta-hide.json](./267132-oh-satan-i-gotta-hide.json) |
 | Oh Sheep!: Baaaa | 212675 | [212675-oh-sheep-baaaa.json](./212675-oh-sheep-baaaa.json) |
 | Oh Ship Arena | 107756 | [107756-oh-ship-arena.json](./107756-oh-ship-arena.json) |
 | Oh Ship! | 399593 | [399593-oh-ship.json](./399593-oh-ship.json) |
@@ -4663,6 +4666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ouija | 155997 | [155997-ouija.json](./155997-ouija.json) |
 | Ouija Rumours | 190989 | [190989-ouija-rumours.json](./190989-ouija-rumours.json) |
 | Ouija Sleepover | 177715 | [177715-ouija-sleepover.json](./177715-ouija-sleepover.json) |
+| Ouija: They are Among us | 267146 | [267146-ouija-they-are-among-us.json](./267146-ouija-they-are-among-us.json) |
 | Ouji-sama Lv1 | 204398 | [204398-ouji-sama-lv1.json](./204398-ouji-sama-lv1.json) |
 | Ouji-sama Lv1.5 | 204477 | [204477-ouji-sama-lv1-5.json](./204477-ouji-sama-lv1-5.json) |
 | Ouji-sama Lv2 | 204399 | [204399-ouji-sama-lv2.json](./204399-ouji-sama-lv2.json) |
