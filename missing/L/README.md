@@ -6634,6 +6634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loco: Rails & Tails | 381632 | [381632-loco-rails-and-tails.json](./381632-loco-rails-and-tails.json) |
 | Loco! | 412525 | [412525-loco.json](./412525-loco.json) |
 | Locoland | 35676 | [35676-locoland.json](./35676-locoland.json) |
+| Locomalito Arcade Legends | 278198 | [278198-locomalito-arcade-legends.json](./278198-locomalito-arcade-legends.json) |
 | Locomancer | 32840 | [32840-locomancer.json](./32840-locomancer.json) |
 | LoCoMo | 396125 | [396125-locomo.json](./396125-locomo.json) |
 | Locomochi | 415310 | [415310-locomochi.json](./415310-locomochi.json) |
