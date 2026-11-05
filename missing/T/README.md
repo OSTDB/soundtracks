@@ -601,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tail and Сhaos | 410312 | [410312-tail-and-haos.json](./410312-tail-and-haos.json) |
 | Tail Chaser | 401451 | [401451-tail-chaser.json](./401451-tail-chaser.json) |
 | Tail Concerto | 38513 | [38513-tail-concerto.json](./38513-tail-concerto.json) |
+| Tail Concerto Battle | 295454 | [295454-tail-concerto-battle.json](./295454-tail-concerto-battle.json) |
 | Tail Drift | 17980 | [17980-tail-drift.json](./17980-tail-drift.json) |
 | Tail Gun Charlie | 70624 | [70624-tail-gun-charlie.json](./70624-tail-gun-charlie.json) |
 | Tail Gunner | 171861 | [171861-tail-gunner.json](./171861-tail-gunner.json) |
@@ -5753,6 +5754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Apartment 57 | 327867 | [327867-the-apartment-57.json](./327867-the-apartment-57.json) |
 | The Apartment Next Door | 415499 | [415499-the-apartment-next-door.json](./415499-the-apartment-next-door.json) |
 | The Ape Painting | 240241 | [240241-the-ape-painting.json](./240241-the-ape-painting.json) |
+| The Ape Tales: An Epic Adventure Game | 295428 | [295428-the-ape-tales-an-epic-adventure-game.json](./295428-the-ape-tales-an-epic-adventure-game.json) |
 | The Aperture Dilemma | 378905 | [378905-the-aperture-dilemma.json](./378905-the-aperture-dilemma.json) |
 | The Apocalypse | 226603 | [226603-the-apocalypse.json](./226603-the-apocalypse.json) |
 | The Apocalypse of You | 178999 | [178999-the-apocalypse-of-you.json](./178999-the-apocalypse-of-you.json) |
@@ -6228,6 +6230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beast and the Princess | 341816 | [341816-the-beast-and-the-princess.json](./341816-the-beast-and-the-princess.json) |
 | The Beast Awoke to Eat Your Darlings | 169585 | [169585-the-beast-awoke-to-eat-your-darlings.json](./169585-the-beast-awoke-to-eat-your-darlings.json) |
 | The Beast in the Maze | 178824 | [178824-the-beast-in-the-maze.json](./178824-the-beast-in-the-maze.json) |
+| The Beast in the Shadows | 295462 | [295462-the-beast-in-the-shadows.json](./295462-the-beast-in-the-shadows.json) |
 | The Beast in the Silent Valley | 328740 | [328740-the-beast-in-the-silent-valley.json](./328740-the-beast-in-the-silent-valley.json) |
 | The Beast Inside | 88116 | [88116-the-beast-inside.json](./88116-the-beast-inside.json) |
 | The Beast Is yet to Come | 373685 | [373685-the-beast-is-yet-to-come.json](./373685-the-beast-is-yet-to-come.json) |
@@ -8488,6 +8491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eigyoudou | 70594 | [70594-the-eigyoudou.json](./70594-the-eigyoudou.json) |
 | The Eire Raising Adventures of Seamus O'Mally | 73860 | [73860-the-eire-raising-adventures-of-seamus-omally.json](./73860-the-eire-raising-adventures-of-seamus-omally.json) |
 | The Elder Fight | 175722 | [175722-the-elder-fight.json](./175722-the-elder-fight.json) |
+| The Elder Gods | 295461 | [295461-the-elder-gods.json](./295461-the-elder-gods.json) |
 | The Elder Reality | 271486 | [271486-the-elder-reality.json](./271486-the-elder-reality.json) |
 | The Elder Scrolls Adventures: Redguard | 55 | [55-the-elder-scrolls-adventures-redguard.json](./55-the-elder-scrolls-adventures-redguard.json) |
 | The Elder Scrolls Anthology | 23832 | [23832-the-elder-scrolls-anthology.json](./23832-the-elder-scrolls-anthology.json) |
@@ -23544,6 +23548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobari and the Vampire Alchemist | 398568 | [398568-tobari-and-the-vampire-alchemist.json](./398568-tobari-and-the-vampire-alchemist.json) |
 | Tobari Dream Ocean + Nightmare | 276950 | [276950-tobari-dream-ocean-nightmare.json](./276950-tobari-dream-ocean-nightmare.json) |
 | Tobari Dream Ocean: Nightmare | 277229 | [277229-tobari-dream-ocean-nightmare.json](./277229-tobari-dream-ocean-nightmare.json) |
+| Tobarinker | 295431 | [295431-tobarinker.json](./295431-tobarinker.json) |
 | Tobby The Dog | 289942 | [289942-tobby-the-dog.json](./289942-tobby-the-dog.json) |
 | Tobe & Friends Hookshot Escape | 65325 | [65325-tobe-and-friends-hookshot-escape.json](./65325-tobe-and-friends-hookshot-escape.json) |
 | Tobe! Rockman | 401679 | [401679-tobe-rockman.json](./401679-tobe-rockman.json) |
@@ -25517,6 +25522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Dic | 72586 | [72586-touch-dic.json](./72586-touch-dic.json) |
 | Touch Down Fever | 40503 | [40503-touch-down-fever.json](./40503-touch-down-fever.json) |
 | Touch Down Football Solitaire | 108077 | [108077-touch-down-football-solitaire.json](./108077-touch-down-football-solitaire.json) |
+| Touch Egg | 295438 | [295438-touch-egg.json](./295438-touch-egg.json) |
 | Touch Fish | 348258 | [348258-touch-fish.json](./348258-touch-fish.json) |
 | Touch Force | 274935 | [274935-touch-force.json](./274935-touch-force.json) |
 | Touch from a Raindrop | 175123 | [175123-touch-from-a-raindrop.json](./175123-touch-from-a-raindrop.json) |
