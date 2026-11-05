@@ -952,7 +952,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -8692,6 +8691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Bass with Blue Marlin | 43881 | [43881-black-bass-with-blue-marlin.json](./43881-black-bass-with-blue-marlin.json) |
 | Black Bass: Lure Fishing | 7787 | [7787-black-bass-lure-fishing.json](./7787-black-bass-lure-fishing.json) |
 | Black Beacon | 327651 | [327651-black-beacon.json](./327651-black-beacon.json) |
+| Black Beacon Hill | 273616 | [273616-black-beacon-hill.json](./273616-black-beacon-hill.json) |
 | Black Beacon: Forsaken Eternity | 349327 | [349327-black-beacon-forsaken-eternity.json](./349327-black-beacon-forsaken-eternity.json) |
 | Black Beacon: Whispers of the Stars | 352859 | [352859-black-beacon-whispers-of-the-stars.json](./352859-black-beacon-whispers-of-the-stars.json) |
 | Black Beard | 13404 | [13404-black-beard.json](./13404-black-beard.json) |
@@ -16066,6 +16066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble Neo! | 69117 | [69117-bubble-bobble-neo.json](./69117-bubble-bobble-neo.json) |
 | Bubble Bobble Nostalgie | 251020 | [251020-bubble-bobble-nostalgie.json](./251020-bubble-bobble-nostalgie.json) |
 | Bubble Bobble Nostalgie: Christmas Edition | 251124 | [251124-bubble-bobble-nostalgie-christmas-edition.json](./251124-bubble-bobble-nostalgie-christmas-edition.json) |
+| Bubble Bobble Part 2 | 273696 | [273696-bubble-bobble-part-2.json](./273696-bubble-bobble-part-2.json) |
 | Bubble Bobble Part 2 | 7801 | [7801-bubble-bobble-part-2.json](./7801-bubble-bobble-part-2.json) |
 | Bubble Bobble Revolution | 20577 | [20577-bubble-bobble-revolution.json](./20577-bubble-bobble-revolution.json) |
 | Bubble Bobble The Revival | 335465 | [335465-bubble-bobble-the-revival.json](./335465-bubble-bobble-the-revival.json) |
