@@ -1282,6 +1282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oil Platform Simulator 2013 | 144680 | [144680-oil-platform-simulator-2013.json](./144680-oil-platform-simulator-2013.json) |
 | Oil Refinery: The Simulation | 344242 | [344242-oil-refinery-the-simulation.json](./344242-oil-refinery-the-simulation.json) |
 | Oil Rush: Tower Defense Map Pack | 226120 | [226120-oil-rush-tower-defense-map-pack.json](./226120-oil-rush-tower-defense-map-pack.json) |
+| Oil Sheik | 291815 | [291815-oil-sheik.json](./291815-oil-sheik.json) |
 | Oil Strike '75 | 310172 | [310172-oil-strike-75.json](./310172-oil-strike-75.json) |
 | Oil Town | 342825 | [342825-oil-town.json](./342825-oil-town.json) |
 | Oil Truck Transporter | 310055 | [310055-oil-truck-transporter.json](./310055-oil-truck-transporter.json) |
@@ -2781,6 +2782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OneShot: World Machine Edition | 200905 | [200905-oneshot-world-machine-edition.json](./200905-oneshot-world-machine-edition.json) |
 | Onesimus: A Quest for Freedom | 68971 | [68971-onesimus-a-quest-for-freedom.json](./68971-onesimus-a-quest-for-freedom.json) |
 | OneStarHotel | 404630 | [404630-onestarhotel.json](./404630-onestarhotel.json) |
+| OneState | 291920 | [291920-onestate.json](./291920-onestate.json) |
 | Onet 3D | 231921 | [231921-onet-3d.json](./231921-onet-3d.json) |
 | OneTale | 335690 | [335690-onetale.json](./335690-onetale.json) |
 | Oneteam Soccer | 153358 | [153358-oneteam-soccer.json](./153358-oneteam-soccer.json) |
@@ -3140,6 +3142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OoglyBoogly | 396278 | [396278-ooglyboogly.json](./396278-ooglyboogly.json) |
 | Oogy: Can You Help | 190086 | [190086-oogy-can-you-help.json](./190086-oogy-can-you-help.json) |
 | Ooh, Aah, & You: Fetch-a-Fruit | 98316 | [98316-ooh-aah-and-you-fetch-a-fruit.json](./98316-ooh-aah-and-you-fetch-a-fruit.json) |
+| Ooka Ooka Adventure | 291732 | [291732-ooka-ooka-adventure.json](./291732-ooka-ooka-adventure.json) |
 | Ookami Game | 151847 | [151847-ookami-game.json](./151847-ookami-game.json) |
 | Ookami Kakushi | 197613 | [197613-ookami-kakushi.json](./197613-ookami-kakushi.json) |
 | Ookami Okami | 343046 | [343046-ookami-okami.json](./343046-ookami-okami.json) |
@@ -3362,6 +3365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Blood | 137566 | [137566-operation-blood.json](./137566-operation-blood.json) |
 | Operation Body Count | 8690 | [8690-operation-body-count.json](./8690-operation-body-count.json) |
 | Operation Bodycam | 316848 | [316848-operation-bodycam.json](./316848-operation-bodycam.json) |
+| Operation Breadcrumbs | 291805 | [291805-operation-breadcrumbs.json](./291805-operation-breadcrumbs.json) |
 | Operation Breakout | 30839 | [30839-operation-breakout.json](./30839-operation-breakout.json) |
 | Operation C | 11522 | [11522-operation-c.json](./11522-operation-c.json) |
 | Operation Chromite 1950 VR | 86506 | [86506-operation-chromite-1950-vr.json](./86506-operation-chromite-1950-vr.json) |
@@ -4961,6 +4965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak in Space VR | 81956 | [81956-outbreak-in-space-vr.json](./81956-outbreak-in-space-vr.json) |
 | Outbreak Island | 165386 | [165386-outbreak-island.json](./165386-outbreak-island.json) |
 | Outbreak New Dawn | 137836 | [137836-outbreak-new-dawn.json](./137836-outbreak-new-dawn.json) |
+| Outbreak Overlord | 291789 | [291789-outbreak-overlord.json](./291789-outbreak-overlord.json) |
 | Outbreak Survivors | 317976 | [317976-outbreak-survivors.json](./317976-outbreak-survivors.json) |
 | Outbreak Zero | 365085 | [365085-outbreak-zero.json](./365085-outbreak-zero.json) |
 | OutBreak Zombie | 84095 | [84095-outbreak-zombie.json](./84095-outbreak-zombie.json) |
