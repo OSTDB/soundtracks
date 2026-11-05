@@ -5800,6 +5800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -11665,6 +11666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimic | 80902 | [80902-mimic.json](./80902-mimic.json) |
 | Mimic Arena | 33785 | [33785-mimic-arena.json](./33785-mimic-arena.json) |
 | Mimic Busters | 418674 | [418674-mimic-busters.json](./418674-mimic-busters.json) |
+| Mimic Dungeon | 273707 | [273707-mimic-dungeon.json](./273707-mimic-dungeon.json) |
 | Mimic Hunter | 36703 | [36703-mimic-hunter.json](./36703-mimic-hunter.json) |
 | Mimic Hunters | 239761 | [239761-mimic-hunters.json](./239761-mimic-hunters.json) |
 | Mimic Logic | 253406 | [253406-mimic-logic.json](./253406-mimic-logic.json) |
@@ -16626,6 +16628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mori | 407867 | [407867-mori.json](./407867-mori.json) |
 | Mori Adventures | 407351 | [407351-mori-adventures.json](./407351-mori-adventures.json) |
 | Mori and the Whisper | 118753 | [118753-mori-and-the-whisper.json](./118753-mori-and-the-whisper.json) |
+| Mori no Cafeteria: Oshare na Cafe Recipe | 273716 | [273716-mori-no-cafeteria-oshare-na-cafe-recipe.json](./273716-mori-no-cafeteria-oshare-na-cafe-recipe.json) |
 | Mori no Fantasy: Sekaiju no Densetsu | 220321 | [220321-mori-no-fantasy-sekaiju-no-densetsu.json](./220321-mori-no-fantasy-sekaiju-no-densetsu.json) |
 | Mori no Fukurou | 72270 | [72270-mori-no-fukurou.json](./72270-mori-no-fukurou.json) |
 | Mori no Naka de Mayoi Ie kara no Dasshutsu | 358494 | [358494-mori-no-naka-de-mayoi-ie-kara-no-dasshutsu.json](./358494-mori-no-naka-de-mayoi-ie-kara-no-dasshutsu.json) |
@@ -18953,6 +18956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder on the Links | 341298 | [341298-murder-on-the-links.json](./341298-murder-on-the-links.json) |
 | Murder on the Marine Express | 151690 | [151690-murder-on-the-marine-express.json](./151690-murder-on-the-marine-express.json) |
 | Murder on the Mississippi | 26392 | [26392-murder-on-the-mississippi.json](./26392-murder-on-the-mississippi.json) |
+| Murder on the Mississippi | 273690 | [273690-murder-on-the-mississippi.json](./273690-murder-on-the-mississippi.json) |
 | Murder on the Spaceship Altair | 312330 | [312330-murder-on-the-spaceship-altair.json](./312330-murder-on-the-spaceship-altair.json) |
 | Murder on the Stella | 225221 | [225221-murder-on-the-stella.json](./225221-murder-on-the-stella.json) |
 | Murder on the Suburbia 2 | 116446 | [116446-murder-on-the-suburbia-2.json](./116446-murder-on-the-suburbia-2.json) |
@@ -19791,6 +19795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Darkest Moment | 188312 | [188312-my-darkest-moment.json](./188312-my-darkest-moment.json) |
 | My Dating Agency | 307910 | [307910-my-dating-agency.json](./307910-my-dating-agency.json) |
 | My Daughter In Family Ai | 322996 | [322996-my-daughter-in-family-ai.json](./322996-my-daughter-in-family-ai.json) |
+| My Daughter is a Cultist! SE | 273680 | [273680-my-daughter-is-a-cultist-se.json](./273680-my-daughter-is-a-cultist-se.json) |
 | My Day Challenge | 341348 | [341348-my-day-challenge.json](./341348-my-day-challenge.json) |
 | My Days With Mia | 310088 | [310088-my-days-with-mia.json](./310088-my-days-with-mia.json) |
 | My Days with the Demoness | 120656 | [120656-my-days-with-the-demoness.json](./120656-my-days-with-the-demoness.json) |
