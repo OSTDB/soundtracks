@@ -736,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radzone | 256248 | [256248-radzone.json](./256248-radzone.json) |
 | Raef | 131588 | [131588-raef.json](./131588-raef.json) |
 | Raev: Kingdom on the Distant Shores | 336154 | [336154-raev-kingdom-on-the-distant-shores.json](./336154-raev-kingdom-on-the-distant-shores.json) |
+| Raey | 296586 | [296586-raey.json](./296586-raey.json) |
 | Rafa Nadal Tennis | 23104 | [23104-rafa-nadal-tennis.json](./23104-rafa-nadal-tennis.json) |
 | Rafa's World | 231034 | [231034-rafas-world.json](./231034-rafas-world.json) |
 | Rafa's World + Axolotl + Cat Milk | 242658 | [242658-rafas-world-axolotl-cat-milk.json](./242658-rafas-world-axolotl-cat-milk.json) |
@@ -12385,6 +12386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Out of Emptiness | 176643 | [176643-running-out-of-emptiness.json](./176643-running-out-of-emptiness.json) |
 | Running Out of Spice | 179143 | [179143-running-out-of-spice.json](./179143-running-out-of-spice.json) |
 | Running Over Zombies | 204943 | [204943-running-over-zombies.json](./204943-running-over-zombies.json) |
+| Running Pet | 296638 | [296638-running-pet.json](./296638-running-pet.json) |
 | Running Rich Racing | 234014 | [234014-running-rich-racing.json](./234014-running-rich-racing.json) |
 | Running Riot | 240743 | [240743-running-riot.json](./240743-running-riot.json) |
 | Running Rogue | 139371 | [139371-running-rogue.json](./139371-running-rogue.json) |
