@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.E.X. Z.O.N.E. | 340604 | [340604-s-e-x-z-o-n-e.json](./340604-s-e-x-z-o-n-e.json) |
 | S.F.77 | 104838 | [104838-s-f-77.json](./104838-s-f-77.json) |
 | S.H.E. | 183800 | [183800-s-h-e.json](./183800-s-h-e.json) |
+| S.I.N | 282962 | [282962-s-i-n.json](./282962-s-i-n.json) |
 | S.I.N. Unit: Ghost Investigation & Removal | 165528 | [165528-s-i-n-unit-ghost-investigation-and-removal.json](./165528-s-i-n-unit-ghost-investigation-and-removal.json) |
 | S.I.P. SE: Safety is Power | 302386 | [302386-s-i-p-se-safety-is-power.json](./302386-s-i-p-se-safety-is-power.json) |
 | S.K.I.L.L.: Special Force 2 | 17174 | [17174-s-k-i-l-l-special-force-2.json](./17174-s-k-i-l-l-special-force-2.json) |
@@ -3327,6 +3328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP-167 nn5n. Horror labyrinth | 88805 | [88805-scp-167-nn5n-horror-labyrinth.json](./88805-scp-167-nn5n-horror-labyrinth.json) |
 | SCP-3008: Infinite Store | 395022 | [395022-scp-3008-infinite-store.json](./395022-scp-3008-infinite-store.json) |
 | SCP-479: Shadows of the Mind | 264638 | [264638-scp-479-shadows-of-the-mind.json](./264638-scp-479-shadows-of-the-mind.json) |
+| SCP-582 Slenderman Chapter 1 | 282944 | [282944-scp-582-slenderman-chapter-1.json](./282944-scp-582-slenderman-chapter-1.json) |
 | SCP-847 | 415490 | [415490-scp-847.json](./415490-scp-847.json) |
 | SCP-970: The Recursive Room | 173955 | [173955-scp-970-the-recursive-room.json](./173955-scp-970-the-recursive-room.json) |
 | SCP-9735-Alpha: Arch1tect | 291883 | [291883-scp-9735-alpha-arch1tect.json](./291883-scp-9735-alpha-arch1tect.json) |
@@ -7073,6 +7075,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai DS | 84855 | [84855-shanghai-ds.json](./84855-shanghai-ds.json) |
 | Shanghai Gold | 297216 | [297216-shanghai-gold.json](./297216-shanghai-gold.json) |
 | Shanghai II | 21549 | [21549-shanghai-ii.json](./21549-shanghai-ii.json) |
+| Shanghai II | 282972 | [282972-shanghai-ii.json](./282972-shanghai-ii.json) |
+| Shanghai II | 282973 | [282973-shanghai-ii.json](./282973-shanghai-ii.json) |
+| Shanghai II | 282974 | [282974-shanghai-ii.json](./282974-shanghai-ii.json) |
+| Shanghai II | 282975 | [282975-shanghai-ii.json](./282975-shanghai-ii.json) |
+| Shanghai II | 282976 | [282976-shanghai-ii.json](./282976-shanghai-ii.json) |
+| Shanghai II | 282977 | [282977-shanghai-ii.json](./282977-shanghai-ii.json) |
 | Shanghai II: Dragon's Eye | 406075 | [406075-shanghai-ii-dragons-eye.json](./406075-shanghai-ii-dragons-eye.json) |
 | Shanghai II: Dragon's Eye | 406086 | [406086-shanghai-ii-dragons-eye.json](./406086-shanghai-ii-dragons-eye.json) |
 | Shanghai II: Dragon's Eye | 406087 | [406087-shanghai-ii-dragons-eye.json](./406087-shanghai-ii-dragons-eye.json) |
@@ -8123,6 +8131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei V: Vengeance - Safety Difficulty | 306554 | [306554-shin-megami-tensei-v-vengeance-safety-difficulty.json](./306554-shin-megami-tensei-v-vengeance-safety-difficulty.json) |
 | Shin Megami Tensei V: Vengeance Randomizer | 364400 | [364400-shin-megami-tensei-v-vengeance-randomizer.json](./364400-shin-megami-tensei-v-vengeance-randomizer.json) |
 | Shin Megami Tensei Vertex | 142491 | [142491-shin-megami-tensei-vertex.json](./142491-shin-megami-tensei-vertex.json) |
+| Shin Megami Tensei VX | 282986 | [282986-shin-megami-tensei-vx.json](./282986-shin-megami-tensei-vx.json) |
 | Shin Megami Tensei: 20XX | 137298 | [137298-shin-megami-tensei-20xx.json](./137298-shin-megami-tensei-20xx.json) |
 | Shin Megami Tensei: 20XX Devil's Colosseum | 137685 | [137685-shin-megami-tensei-20xx-devils-colosseum.json](./137685-shin-megami-tensei-20xx-devils-colosseum.json) |
 | Shin Megami Tensei: Deep Strange Journey - 25th Anniversary Special Box | 136903 | [136903-shin-megami-tensei-deep-strange-journey-25th-anniversary-special-box.json](./136903-shin-megami-tensei-deep-strange-journey-25th-anniversary-special-box.json) |
@@ -12100,6 +12109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull Island: Rise of Kong - Colossal Pack | 272584 | [272584-skull-island-rise-of-kong-colossal-pack.json](./272584-skull-island-rise-of-kong-colossal-pack.json) |
 | Skull Jones | 259664 | [259664-skull-jones.json](./259664-skull-jones.json) |
 | Skull Limb | 177839 | [177839-skull-limb.json](./177839-skull-limb.json) |
+| Skull Man Kills 2: Mega Man 2 II - Blood Vengeance | 282966 | [282966-skull-man-kills-2-mega-man-2-ii-blood-vengeance.json](./282966-skull-man-kills-2-mega-man-2-ii-blood-vengeance.json) |
 | Skull Maze: Tiny Roguelike | 200709 | [200709-skull-maze-tiny-roguelike.json](./200709-skull-maze-tiny-roguelike.json) |
 | Skull Pirates: Adventures | 309632 | [309632-skull-pirates-adventures.json](./309632-skull-pirates-adventures.json) |
 | Skull Rush | 29587 | [29587-skull-rush.json](./29587-skull-rush.json) |
@@ -12137,6 +12147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skullgirls: Season 1 Pass | 370325 | [370325-skullgirls-season-1-pass.json](./370325-skullgirls-season-1-pass.json) |
 | Skullhammer | 181862 | [181862-skullhammer.json](./181862-skullhammer.json) |
 | Skullivan's | 329158 | [329158-skullivans.json](./329158-skullivans.json) |
+| Skullman Kills | 282943 | [282943-skullman-kills.json](./282943-skullman-kills.json) |
 | Skullmonkeys | 10917 | [10917-skullmonkeys.json](./10917-skullmonkeys.json) |
 | Skullnight | 195587 | [195587-skullnight.json](./195587-skullnight.json) |
 | SkullPirates | 76869 | [76869-skullpirates.json](./76869-skullpirates.json) |
@@ -19156,7 +19167,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -31493,6 +31503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid: Unhundred % | 223019 | [223019-super-metroid-unhundred.json](./223019-super-metroid-unhundred.json) |
 | Super Metroid: X-Fusion | 359002 | [359002-super-metroid-x-fusion.json](./359002-super-metroid-x-fusion.json) |
 | Super Metroid: Y-Faster | 304133 | [304133-super-metroid-y-faster.json](./304133-super-metroid-y-faster.json) |
+| Super Metroid: Y-Faster 2 Furious | 282967 | [282967-super-metroid-y-faster-2-furious.json](./282967-super-metroid-y-faster-2-furious.json) |
 | Super Metroid: Z-Factor | 213755 | [213755-super-metroid-z-factor.json](./213755-super-metroid-z-factor.json) |
 | Super Miaoyin | 343816 | [343816-super-miaoyin.json](./343816-super-miaoyin.json) |
 | Super Mike: Classic Adventure Game | 199810 | [199810-super-mike-classic-adventure-game.json](./199810-super-mike-classic-adventure-game.json) |
