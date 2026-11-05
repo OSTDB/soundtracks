@@ -576,6 +576,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy Golf | 70617 | [70617-easy-golf.json](./70617-easy-golf.json) |
 | Easy hentai puzzle | 120978 | [120978-easy-hentai-puzzle.json](./120978-easy-hentai-puzzle.json) |
 | Easy Japanese Hiragana | 367749 | [367749-easy-japanese-hiragana.json](./367749-easy-japanese-hiragana.json) |
+| Easy Japanesey | 269375 | [269375-easy-japanesey.json](./269375-easy-japanesey.json) |
+| Easy Japanesey 2 | 269376 | [269376-easy-japanesey-2.json](./269376-easy-japanesey-2.json) |
+| Easy Japanesey 3 | 269374 | [269374-easy-japanesey-3.json](./269374-easy-japanesey-3.json) |
 | Easy Jigsaw Puzzle | 295063 | [295063-easy-jigsaw-puzzle.json](./295063-easy-jigsaw-puzzle.json) |
 | Easy Jigsaw Puzzle | 377174 | [377174-easy-jigsaw-puzzle.json](./377174-easy-jigsaw-puzzle.json) |
 | Easy Joe | 92462 | [92462-easy-joe.json](./92462-easy-joe.json) |
@@ -1992,6 +1995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elder Ring | 351154 | [351154-elder-ring.json](./351154-elder-ring.json) |
 | Elder Sign: Omens | 16729 | [16729-elder-sign-omens.json](./16729-elder-sign-omens.json) |
 | Elder Sign: Omens for iPad | 91068 | [91068-elder-sign-omens-for-ipad.json](./91068-elder-sign-omens-for-ipad.json) |
+| Elder Story | 269371 | [269371-elder-story.json](./269371-elder-story.json) |
 | Elder Trial | 236370 | [236370-elder-trial.json](./236370-elder-trial.json) |
 | Elder Village | 123490 | [123490-elder-village.json](./123490-elder-village.json) |
 | Elder's Grace: Rise of the Mobley | 248667 | [248667-elders-grace-rise-of-the-mobley.json](./248667-elders-grace-rise-of-the-mobley.json) |
