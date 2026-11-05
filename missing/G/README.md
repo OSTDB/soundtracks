@@ -4837,6 +4837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitchspankr | 282076 | [282076-glitchspankr.json](./282076-glitchspankr.json) |
 | Glitchy: Cute Loop | 396475 | [396475-glitchy-cute-loop.json](./396475-glitchy-cute-loop.json) |
 | Glitchy: Not So Sweet | 398793 | [398793-glitchy-not-so-sweet.json](./398793-glitchy-not-so-sweet.json) |
+| Glitter | 291266 | [291266-glitter.json](./291266-glitter.json) |
 | Glitter Invitation | 397499 | [397499-glitter-invitation.json](./397499-glitter-invitation.json) |
 | Glitter Justice | 251757 | [251757-glitter-justice.json](./251757-glitter-justice.json) |
 | Glitter Slime Maker | 106370 | [106370-glitter-slime-maker.json](./106370-glitter-slime-maker.json) |
@@ -10056,6 +10057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guide To Apocalypse | 334492 | [334492-guide-to-apocalypse.json](./334492-guide-to-apocalypse.json) |
 | Guided Meditation VR | 34577 | [34577-guided-meditation-vr.json](./34577-guided-meditation-vr.json) |
 | Guidelicious | 264753 | [264753-guidelicious.json](./264753-guidelicious.json) |
+| Guidelines for the Book of Changes | 291277 | [291277-guidelines-for-the-book-of-changes.json](./291277-guidelines-for-the-book-of-changes.json) |
 | Guiding Light | 127758 | [127758-guiding-light.json](./127758-guiding-light.json) |
 | Guidus | 220202 | [220202-guidus.json](./220202-guidus.json) |
 | Guidus Zero | 319824 | [319824-guidus-zero.json](./319824-guidus-zero.json) |
