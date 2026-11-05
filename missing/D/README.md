@@ -9145,6 +9145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension of Monster Girls | 89608 | [89608-dimension-of-monster-girls.json](./89608-dimension-of-monster-girls.json) |
 | Dimension of the Boomed | 251546 | [251546-dimension-of-the-boomed.json](./251546-dimension-of-the-boomed.json) |
 | Dimension of the Diminished | 271723 | [271723-dimension-of-the-diminished.json](./271723-dimension-of-the-diminished.json) |
+| Dimension of the Doomed | 271531 | [271531-dimension-of-the-doomed.json](./271531-dimension-of-the-doomed.json) |
 | Dimension of Void | 142646 | [142646-dimension-of-void.json](./142646-dimension-of-void.json) |
 | Dimension Painter | 256183 | [256183-dimension-painter.json](./256183-dimension-painter.json) |
 | Dimension Pirates | 304505 | [304505-dimension-pirates.json](./304505-dimension-pirates.json) |
@@ -9999,6 +10000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disembodied | 306928 | [306928-disembodied.json](./306928-disembodied.json) |
 | Disembowel | 219750 | [219750-disembowel.json](./219750-disembowel.json) |
 | Disenchantment Heart | 161161 | [161161-disenchantment-heart.json](./161161-disenchantment-heart.json) |
+| Disengage the Simulator | 271536 | [271536-disengage-the-simulator.json](./271536-disengage-the-simulator.json) |
 | disfact Game Pack 1 | 405533 | [405533-disfact-game-pack-1.json](./405533-disfact-game-pack-1.json) |
 | disfact Game Pack 2 | 405543 | [405543-disfact-game-pack-2.json](./405543-disfact-game-pack-2.json) |
 | Disgaea 1 Complete: Limited Edition | 201055 | [201055-disgaea-1-complete-limited-edition.json](./201055-disgaea-1-complete-limited-edition.json) |
