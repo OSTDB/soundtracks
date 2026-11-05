@@ -3993,6 +3993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Power Tennis: Hammer Power | 328667 | [328667-mario-power-tennis-hammer-power.json](./328667-mario-power-tennis-hammer-power.json) |
 | Mario Prime | 422833 | [422833-mario-prime.json](./422833-mario-prime.json) |
 | Mario Racing Tournament | 314508 | [314508-mario-racing-tournament.json](./314508-mario-racing-tournament.json) |
+| Mario Remix: Boss Edition | 264409 | [264409-mario-remix-boss-edition.json](./264409-mario-remix-boss-edition.json) |
 | Mario Rescues Santa Claus | 229618 | [229618-mario-rescues-santa-claus.json](./229618-mario-rescues-santa-claus.json) |
 | Mario Rescues the Golden Mushroom | 268345 | [268345-mario-rescues-the-golden-mushroom.json](./268345-mario-rescues-the-golden-mushroom.json) |
 | Mario Roots | 323894 | [323894-mario-roots.json](./323894-mario-roots.json) |
@@ -5818,6 +5819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -7227,6 +7229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 9: Superhero Mode | 144699 | [144699-mega-man-9-superhero-mode.json](./144699-mega-man-9-superhero-mode.json) |
 | Mega Man Again | 332628 | [332628-mega-man-again.json](./332628-mega-man-again.json) |
 | Mega Man Anniversary Collection | 1728 | [1728-mega-man-anniversary-collection.json](./1728-mega-man-anniversary-collection.json) |
+| Mega Man Anniversary Collection | 264390 | [264390-mega-man-anniversary-collection.json](./264390-mega-man-anniversary-collection.json) |
 | Mega Man Arena | 74877 | [74877-mega-man-arena.json](./74877-mega-man-arena.json) |
 | Mega Man Arkanoid | 245035 | [245035-mega-man-arkanoid.json](./245035-mega-man-arkanoid.json) |
 | Mega Man at the Tokyo Olympics | 334629 | [334629-mega-man-at-the-tokyo-olympics.json](./334629-mega-man-at-the-tokyo-olympics.json) |
@@ -8470,6 +8473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MeltyMoment Mini Fandisc: Sumire & Chiemi Version | 413645 | [413645-meltymoment-mini-fandisc-sumire-and-chiemi-version.json](./413645-meltymoment-mini-fandisc-sumire-and-chiemi-version.json) |
 | Meltys Quest | 74368 | [74368-meltys-quest.json](./74368-meltys-quest.json) |
 | Meluo and the Eyes of Hollow | 374607 | [374607-meluo-and-the-eyes-of-hollow.json](./374607-meluo-and-the-eyes-of-hollow.json) |
+| Melvin's Blocky Adventure | 265440 | [265440-melvins-blocky-adventure.json](./265440-melvins-blocky-adventure.json) |
 | Melvin's Meltdown | 68552 | [68552-melvins-meltdown.json](./68552-melvins-meltdown.json) |
 | Melvor Idle | 141130 | [141130-melvor-idle.json](./141130-melvor-idle.json) |
 | Melvor Idle 2 | 341622 | [341622-melvor-idle-2.json](./341622-melvor-idle-2.json) |
@@ -12039,6 +12043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft Education | 28407 | [28407-minecraft-education.json](./28407-minecraft-education.json) |
 | Minecraft Education: Planet Earth III | 272803 | [272803-minecraft-education-planet-earth-iii.json](./272803-minecraft-education-planet-earth-iii.json) |
 | Minecraft Interactive Watch | 230890 | [230890-minecraft-interactive-watch.json](./230890-minecraft-interactive-watch.json) |
+| Minecraft Lockout | 264421 | [264421-minecraft-lockout.json](./264421-minecraft-lockout.json) |
 | Minecraft Lovehunt | 144111 | [144111-minecraft-lovehunt.json](./144111-minecraft-lovehunt.json) |
 | Minecraft Master Collection | 118851 | [118851-minecraft-master-collection.json](./118851-minecraft-master-collection.json) |
 | Minecraft Matcha Flavoured | 411659 | [411659-minecraft-matcha-flavoured.json](./411659-minecraft-matcha-flavoured.json) |
