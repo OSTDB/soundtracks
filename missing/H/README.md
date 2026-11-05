@@ -10630,6 +10630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Houdini's Castle | 112790 | [112790-houdinis-castle.json](./112790-houdinis-castle.json) |
 | Houkago Campus | 97772 | [97772-houkago-campus.json](./97772-houkago-campus.json) |
 | Houkago Cinderella | 182470 | [182470-houkago-cinderella.json](./182470-houkago-cinderella.json) |
+| Houkago Cinderella + Houkago Cinderella 2 | 263840 | [263840-houkago-cinderella-houkago-cinderella-2.json](./263840-houkago-cinderella-houkago-cinderella-2.json) |
 | Houkago Cinderella 2 | 254627 | [254627-houkago-cinderella-2.json](./254627-houkago-cinderella-2.json) |
 | Houkago Cinderella 2 Mini Fandisk: Kimi to Odoru Hajimete no Happy Halloween | 377773 | [377773-houkago-cinderella-2-mini-fandisk-kimi-to-odoru-hajimete-no-happy-halloween.json](./377773-houkago-cinderella-2-mini-fandisk-kimi-to-odoru-hajimete-no-happy-halloween.json) |
 | Houkago Cinderella Mini Fandisk: Anata to Kaeru Saigo no Gekoudou | 377772 | [377772-houkago-cinderella-mini-fandisk-anata-to-kaeru-saigo-no-gekoudou.json](./377772-houkago-cinderella-mini-fandisk-anata-to-kaeru-saigo-no-gekoudou.json) |
