@@ -8005,6 +8005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of One | 39012 | [39012-world-of-one.json](./39012-world-of-one.json) |
 | World of One: Holistic Edition | 52122 | [52122-world-of-one-holistic-edition.json](./52122-world-of-one-holistic-edition.json) |
 | World of Outlaws: Dirt Racing | 213356 | [213356-world-of-outlaws-dirt-racing.json](./213356-world-of-outlaws-dirt-racing.json) |
+| World of Outlaws: Dirt Racing - 23 Edition | 258258 | [258258-world-of-outlaws-dirt-racing-23-edition.json](./258258-world-of-outlaws-dirt-racing-23-edition.json) |
 | World of Outlaws: Dirt Racing - Gold Edition | 218846 | [218846-world-of-outlaws-dirt-racing-gold-edition.json](./218846-world-of-outlaws-dirt-racing-gold-edition.json) |
 | World of Outlaws: Dirt Racing 2023 - Ultimate Edition | 261877 | [261877-world-of-outlaws-dirt-racing-2023-ultimate-edition.json](./261877-world-of-outlaws-dirt-racing-2023-ultimate-edition.json) |
 | World of Outlaws: Dirt Racing 24 | 315930 | [315930-world-of-outlaws-dirt-racing-24.json](./315930-world-of-outlaws-dirt-racing-24.json) |
