@@ -1482,6 +1482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Basic v3 | 360522 | [360522-family-basic-v3.json](./360522-family-basic-v3.json) |
 | Family Bible Quest | 335322 | [335322-family-bible-quest.json](./335322-family-bible-quest.json) |
 | Family Billiards | 161760 | [161760-family-billiards.json](./161760-family-billiards.json) |
+| Family Board Games Bundle | 284702 | [284702-family-board-games-bundle.json](./284702-family-board-games-bundle.json) |
 | Family Bowling | 135648 | [135648-family-bowling.json](./135648-family-bowling.json) |
 | Family Bundle | 223759 | [223759-family-bundle.json](./223759-family-bundle.json) |
 | Family Bundle | 370825 | [370825-family-bundle.json](./370825-family-bundle.json) |
@@ -8592,6 +8593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fnvader | 311969 | [311969-fnvader.json](./311969-fnvader.json) |
 | Foam | 138267 | [138267-foam.json](./138267-foam.json) |
 | FoamFix | 233698 | [233698-foamfix.json](./233698-foamfix.json) |
+| Foamstars: Season 1 | 284717 | [284717-foamstars-season-1.json](./284717-foamstars-season-1.json) |
 | Fobia ...Worse Than Fear. | 242593 | [242593-fobia-worse-than-fear.json](./242593-fobia-worse-than-fear.json) |
 | Fobos | 79830 | [79830-fobos.json](./79830-fobos.json) |
 | Foc/us | 223677 | [223677-foc-us.json](./223677-foc-us.json) |
@@ -8808,6 +8810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Truck Time Machine | 260299 | [260299-food-truck-time-machine.json](./260299-food-truck-time-machine.json) |
 | Food Truck Together | 385309 | [385309-food-truck-together.json](./385309-food-truck-together.json) |
 | Food Truck Tycoon | 114908 | [114908-food-truck-tycoon.json](./114908-food-truck-tycoon.json) |
+| Food Truck Tycoon + Burger Chef Tycoon + Sweet Bakery Tycoon | 284736 | [284736-food-truck-tycoon-burger-chef-tycoon-sweet-bakery-tycoon.json](./284736-food-truck-tycoon-burger-chef-tycoon-sweet-bakery-tycoon.json) |
 | Food Truck Tycoon + Expansion Pack | 238014 | [238014-food-truck-tycoon-expansion-pack.json](./238014-food-truck-tycoon-expansion-pack.json) |
 | Food Truck Tycoon + Flowlines VS | 243793 | [243793-food-truck-tycoon-flowlines-vs.json](./243793-food-truck-tycoon-flowlines-vs.json) |
 | Food Truck Tycoon + Knights & Guns | 251106 | [251106-food-truck-tycoon-knights-and-guns.json](./251106-food-truck-tycoon-knights-and-guns.json) |
