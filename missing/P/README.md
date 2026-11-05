@@ -7089,6 +7089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping Of Death: Odyssey Live | 375862 | [375862-ping-of-death-odyssey-live.json](./375862-ping-of-death-odyssey-live.json) |
 | Ping Phonk | 179980 | [179980-ping-phonk.json](./179980-ping-phonk.json) |
 | Ping Ping | 32605 | [32605-ping-ping.json](./32605-ping-ping.json) |
+| Ping Pong | 246180 | [246180-ping-pong.json](./246180-ping-pong.json) |
 | Ping Pong | 246273 | [246273-ping-pong.json](./246273-ping-pong.json) |
 | Ping Pong | 247006 | [247006-ping-pong.json](./247006-ping-pong.json) |
 | Ping Pong | 247256 | [247256-ping-pong.json](./247256-ping-pong.json) |
@@ -9615,6 +9616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play Together: Starter Pack - Bear Girl | 334618 | [334618-play-together-starter-pack-bear-girl.json](./334618-play-together-starter-pack-bear-girl.json) |
 | Play Together: Starter Pack - Chic Black | 334617 | [334617-play-together-starter-pack-chic-black.json](./334617-play-together-starter-pack-chic-black.json) |
 | Play Together: Starter Pack - Chic White | 334619 | [334619-play-together-starter-pack-chic-white.json](./334619-play-together-starter-pack-chic-white.json) |
+| Play TV Football | 246181 | [246181-play-tv-football.json](./246181-play-tv-football.json) |
 | Play Twice | 333461 | [333461-play-twice.json](./333461-play-twice.json) |
 | Play with Balloon | 29624 | [29624-play-with-balloon.json](./29624-play-with-balloon.json) |
 | Play with Birds | 84721 | [84721-play-with-birds.json](./84721-play-with-birds.json) |
@@ -16912,6 +16914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pudding | 264725 | [264725-pudding.json](./264725-pudding.json) |
 | Pudding | 312022 | [312022-pudding.json](./312022-pudding.json) |
 | Pudding Bang 2 | 246259 | [246259-pudding-bang-2.json](./246259-pudding-bang-2.json) |
+| Pudding Bubble | 246186 | [246186-pudding-bubble.json](./246186-pudding-bubble.json) |
 | Pudding Chess | 241866 | [241866-pudding-chess.json](./241866-pudding-chess.json) |
 | Pudding Fantasy: Tales of Go and Magic | 370407 | [370407-pudding-fantasy-tales-of-go-and-magic.json](./370407-pudding-fantasy-tales-of-go-and-magic.json) |
 | Pudding Frog | 334201 | [334201-pudding-frog.json](./334201-pudding-frog.json) |
