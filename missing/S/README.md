@@ -26204,6 +26204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick War: Saga | 233777 | [233777-stick-war-saga.json](./233777-stick-war-saga.json) |
 | Stick Wars: The Laneborn | 421555 | [421555-stick-wars-the-laneborn.json](./421555-stick-wars-the-laneborn.json) |
 | Stick With It | 366557 | [366557-stick-with-it.json](./366557-stick-with-it.json) |
+| Stickbound | 269342 | [269342-stickbound.json](./269342-stickbound.json) |
 | Stickcross Classic | 390470 | [390470-stickcross-classic.json](./390470-stickcross-classic.json) |
 | StickDodgeVR | 51573 | [51573-stickdodgevr.json](./51573-stickdodgevr.json) |
 | Sticked Man Fighting Deluxe- Gravity Combat | 97096 | [97096-sticked-man-fighting-deluxe-gravity-combat.json](./97096-sticked-man-fighting-deluxe-gravity-combat.json) |
