@@ -957,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2123,9 +2124,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo-Kazooie Worlds Collide | 135259 | [135259-banjo-kazooie-worlds-collide.json](./135259-banjo-kazooie-worlds-collide.json) |
 | Banjo-Kazooie: Bob-omb Battlefield | 201770 | [201770-banjo-kazooie-bob-omb-battlefield.json](./201770-banjo-kazooie-bob-omb-battlefield.json) |
 | Banjo-Kazooie: Bubbling Bog Brewery Redone | 339027 | [339027-banjo-kazooie-bubbling-bog-brewery-redone.json](./339027-banjo-kazooie-bubbling-bog-brewery-redone.json) |
+| Banjo-Kazooie: Cheato's Challenges | 249548 | [249548-banjo-kazooie-cheatos-challenges.json](./249548-banjo-kazooie-cheatos-challenges.json) |
 | Banjo-Kazooie: Cut-Throat Coast | 271942 | [271942-banjo-kazooie-cut-throat-coast.json](./271942-banjo-kazooie-cut-throat-coast.json) |
 | Banjo-Kazooie: Donkey Kong Country | 201772 | [201772-banjo-kazooie-donkey-kong-country.json](./201772-banjo-kazooie-donkey-kong-country.json) |
 | Banjo-Kazooie: Fort Fun | 338821 | [338821-banjo-kazooie-fort-fun.json](./338821-banjo-kazooie-fort-fun.json) |
+| Banjo-Kazooie: Ft. Minecraft | 249546 | [249546-banjo-kazooie-ft-minecraft.json](./249546-banjo-kazooie-ft-minecraft.json) |
 | Banjo-Kazooie: Legend of the Crystal Jiggy | 172671 | [172671-banjo-kazooie-legend-of-the-crystal-jiggy.json](./172671-banjo-kazooie-legend-of-the-crystal-jiggy.json) |
 | Banjo-Kazooie: Magic Eggs | 267187 | [267187-banjo-kazooie-magic-eggs.json](./267187-banjo-kazooie-magic-eggs.json) |
 | Banjo-Kazooie: New Snow Glow Village | 339026 | [339026-banjo-kazooie-new-snow-glow-village.json](./339026-banjo-kazooie-new-snow-glow-village.json) |
@@ -8525,6 +8528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Orchard: Animal Valley - Complete Edition | 232997 | [232997-bit-orchard-animal-valley-complete-edition.json](./232997-bit-orchard-animal-valley-complete-edition.json) |
 | Bit Orchard: Animal Valley - Director's Cut | 246876 | [246876-bit-orchard-animal-valley-directors-cut.json](./246876-bit-orchard-animal-valley-directors-cut.json) |
 | Bit Orchard: Animal Valley - Extended Edition | 212355 | [212355-bit-orchard-animal-valley-extended-edition.json](./212355-bit-orchard-animal-valley-extended-edition.json) |
+| Bit Orchard: Animal Valley - GOTY Edition | 249563 | [249563-bit-orchard-animal-valley-goty-edition.json](./249563-bit-orchard-animal-valley-goty-edition.json) |
 | Bit Orchard: Animal Valley - Halloween Edition | 223567 | [223567-bit-orchard-animal-valley-halloween-edition.json](./223567-bit-orchard-animal-valley-halloween-edition.json) |
 | Bit Orchard: Animal Valley - Magnificent Edition | 260697 | [260697-bit-orchard-animal-valley-magnificent-edition.json](./260697-bit-orchard-animal-valley-magnificent-edition.json) |
 | Bit Orchard: Animal Valley - Premium Edition | 233926 | [233926-bit-orchard-animal-valley-premium-edition.json](./233926-bit-orchard-animal-valley-premium-edition.json) |
@@ -9194,6 +9198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack story | 180119 | [180119-blackjack-story.json](./180119-blackjack-story.json) |
 | Blackjack Tavern | 325071 | [325071-blackjack-tavern.json](./325071-blackjack-tavern.json) |
 | Blackjack vs. Bunny Girls | 286076 | [286076-blackjack-vs-bunny-girls.json](./286076-blackjack-vs-bunny-girls.json) |
+| BlackJack Waifu Tour | 249576 | [249576-blackjack-waifu-tour.json](./249576-blackjack-waifu-tour.json) |
 | Blackjack Wars | 372984 | [372984-blackjack-wars.json](./372984-blackjack-wars.json) |
 | Blackjack: Cheat the House! | 405149 | [405149-blackjack-cheat-the-house.json](./405149-blackjack-cheat-the-house.json) |
 | BlackJack: Daily 21 Points | 87143 | [87143-blackjack-daily-21-points.json](./87143-blackjack-daily-21-points.json) |
@@ -14231,6 +14236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Memory: Complete Edition | 246877 | [246877-brain-memory-complete-edition.json](./246877-brain-memory-complete-edition.json) |
 | Brain Memory: Director's Cut | 261365 | [261365-brain-memory-directors-cut.json](./261365-brain-memory-directors-cut.json) |
 | Brain Memory: Game of the Year Edition | 266167 | [266167-brain-memory-game-of-the-year-edition.json](./266167-brain-memory-game-of-the-year-edition.json) |
+| Brain Memory: Legendary Edition | 249562 | [249562-brain-memory-legendary-edition.json](./249562-brain-memory-legendary-edition.json) |
 | Brain Memory: Platinum Edition | 256763 | [256763-brain-memory-platinum-edition.json](./256763-brain-memory-platinum-edition.json) |
 | Brain Memory: Premium Edition | 241394 | [241394-brain-memory-premium-edition.json](./241394-brain-memory-premium-edition.json) |
 | Brain Off | 172101 | [172101-brain-off.json](./172101-brain-off.json) |
@@ -17938,6 +17944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butt-Ugly Martians: Zoom or Doom | 3841 | [3841-butt-ugly-martians-zoom-or-doom.json](./3841-butt-ugly-martians-zoom-or-doom.json) |
 | Butter & Friends Babysitter Sim | 75148 | [75148-butter-and-friends-babysitter-sim.json](./75148-butter-and-friends-babysitter-sim.json) |
 | ButteredLilly's Random Quotes & Avatar Remote | 303716 | [303716-butteredlillys-random-quotes-and-avatar-remote.json](./303716-butteredlillys-random-quotes-and-avatar-remote.json) |
+| Butterflies | 249568 | [249568-butterflies.json](./249568-butterflies.json) |
 | Butterflies Bundle | 164787 | [164787-butterflies-bundle.json](./164787-butterflies-bundle.json) |
 | Butterflies Episode 2: Getting Up | 176211 | [176211-butterflies-episode-2-getting-up.json](./176211-butterflies-episode-2-getting-up.json) |
 | Butterflies Episode 3: Welcome to the Jungle | 248687 | [248687-butterflies-episode-3-welcome-to-the-jungle.json](./248687-butterflies-episode-3-welcome-to-the-jungle.json) |
