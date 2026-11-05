@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nadir: A Grimdark Deckbuilder | 142956 | [142956-nadir-a-grimdark-deckbuilder.json](./142956-nadir-a-grimdark-deckbuilder.json) |
 | Nadir: Giant Hunter | 312958 | [312958-nadir-giant-hunter.json](./312958-nadir-giant-hunter.json) |
 | Nadirim | 92388 | [92388-nadirim.json](./92388-nadirim.json) |
+| Nadyr | 275400 | [275400-nadyr.json](./275400-nadyr.json) |
 | Nae Yeodongsaeng-gwa Chinguui Yeodongsaeng-eul Gyohwanhae Boassda | 368038 | [368038-nae-yeodongsaeng-gwa-chinguui-yeodongsaeng-eul-gyohwanhae-boassda.json](./368038-nae-yeodongsaeng-gwa-chinguui-yeodongsaeng-eul-gyohwanhae-boassda.json) |
 | Naelyeojjiggi | 309732 | [309732-naelyeojjiggi.json](./309732-naelyeojjiggi.json) |
 | Naemo | 385216 | [385216-naemo.json](./385216-naemo.json) |
@@ -2608,6 +2609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nepenthe | 100600 | [100600-nepenthe.json](./100600-nepenthe.json) |
 | Nephelem: A Path of Vice and Virtue | 342653 | [342653-nephelem-a-path-of-vice-and-virtue.json](./342653-nephelem-a-path-of-vice-and-virtue.json) |
 | Nephelia: Through the Clouds | 336854 | [336854-nephelia-through-the-clouds.json](./336854-nephelia-through-the-clouds.json) |
+| Nephenthesys | 275377 | [275377-nephenthesys.json](./275377-nephenthesys.json) |
 | Nepheshel | 222604 | [222604-nepheshel.json](./222604-nepheshel.json) |
 | Nephew's Vendetta | 282985 | [282985-nephews-vendetta.json](./282985-nephews-vendetta.json) |
 | Nephi's Quest | 71937 | [71937-nephis-quest.json](./71937-nephis-quest.json) |
@@ -4667,6 +4669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightwatch | 81339 | [81339-nightwatch.json](./81339-nightwatch.json) |
 | Nightwatch at the Hopkins' Cliffside | 371597 | [371597-nightwatch-at-the-hopkins-cliffside.json](./371597-nightwatch-at-the-hopkins-cliffside.json) |
 | Nightwatch at the Museum | 415874 | [415874-nightwatch-at-the-museum.json](./415874-nightwatch-at-the-museum.json) |
+| Nightwatch: Nightmare Creatures | 275361 | [275361-nightwatch-nightmare-creatures.json](./275361-nightwatch-nightmare-creatures.json) |
 | Nightwater | 386296 | [386296-nightwater.json](./386296-nightwater.json) |
 | Nightwolf: Survive the Megadome | 68995 | [68995-nightwolf-survive-the-megadome.json](./68995-nightwolf-survive-the-megadome.json) |
 | NightZ | 30711 | [30711-nightz.json](./30711-nightz.json) |
