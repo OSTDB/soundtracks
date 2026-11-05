@@ -3028,6 +3028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vivid Twinkler: Frozen Flame | 377753 | [377753-vivid-twinkler-frozen-flame.json](./377753-vivid-twinkler-frozen-flame.json) |
 | Vivid Twinkler! | 377750 | [377750-vivid-twinkler.json](./377750-vivid-twinkler.json) |
 | Vivid World | 266274 | [266274-vivid-world.json](./266274-vivid-world.json) |
+| Vivid's Hot Slots | 262116 | [262116-vivids-hot-slots.json](./262116-vivids-hot-slots.json) |
 | Vivid/Stasis | 206513 | [206513-vivid-stasis.json](./206513-vivid-stasis.json) |
 | Vividerie | 189068 | [189068-vividerie.json](./189068-vividerie.json) |
 | ViviDex | 182983 | [182983-vividex.json](./182983-vividex.json) |
