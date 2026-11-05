@@ -4638,6 +4638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightshade | 26225 | [26225-nightshade.json](./26225-nightshade.json) |
 | Nightshade | 31764 | [31764-nightshade.json](./31764-nightshade.json) |
 | Nightshade | 39119 | [39119-nightshade.json](./39119-nightshade.json) |
+| Nightshade Army | 272044 | [272044-nightshade-army.json](./272044-nightshade-army.json) |
 | Nightshade Mysteries: Eternal Moon | 319057 | [319057-nightshade-mysteries-eternal-moon.json](./319057-nightshade-mysteries-eternal-moon.json) |
 | Nightshade Mysteries: Eternal Moon - Collector's Edition | 345674 | [345674-nightshade-mysteries-eternal-moon-collectors-edition.json](./345674-nightshade-mysteries-eternal-moon-collectors-edition.json) |
 | Nightshade Ninja Warrior | 245268 | [245268-nightshade-ninja-warrior.json](./245268-nightshade-ninja-warrior.json) |
