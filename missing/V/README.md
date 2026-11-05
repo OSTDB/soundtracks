@@ -1794,6 +1794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VIC Scramble | 92825 | [92825-vic-scramble.json](./92825-vic-scramble.json) |
 | ViCam | 142857 | [142857-vicam.json](./142857-vicam.json) |
 | Vicarious | 274435 | [274435-vicarious.json](./274435-vicarious.json) |
+| Vicarious Reality | 257156 | [257156-vicarious-reality.json](./257156-vicarious-reality.json) |
 | Vicarius | 391438 | [391438-vicarius.json](./391438-vicarius.json) |
 | Vicarwissen | 178871 | [178871-vicarwissen.json](./178871-vicarwissen.json) |
 | VICCP 2 Core | 244840 | [244840-viccp-2-core.json](./244840-viccp-2-core.json) |
@@ -3998,6 +3999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR: Vacate the Room | 32281 | [32281-vr-vacate-the-room.json](./32281-vr-vacate-the-room.json) |
 | VR0GU3 | 33151 | [33151-vr0gu3.json](./33151-vr0gu3.json) |
 | VR2: Vacate 2 Rooms | 99191 | [99191-vr2-vacate-2-rooms.json](./99191-vr2-vacate-2-rooms.json) |
+| Vrack Botanicals | 257135 | [257135-vrack-botanicals.json](./257135-vrack-botanicals.json) |
 | Vradark's Revenge | 231823 | [231823-vradarks-revenge.json](./231823-vradarks-revenge.json) |
 | VRAdventure | 124156 | [124156-vradventure.json](./124156-vradventure.json) |
 | VRAmp | 33766 | [33766-vramp.json](./33766-vramp.json) |
