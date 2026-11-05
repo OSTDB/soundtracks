@@ -1242,6 +1242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You’re a Scalper, Aren’t You? | 403531 | [403531-you-re-a-scalper-aren-t-you.json](./403531-you-re-a-scalper-aren-t-you.json) |
 | You're Alive, Phil | 413919 | [413919-youre-alive-phil.json](./413919-youre-alive-phil.json) |
 | You're Boned | 287672 | [287672-youre-boned.json](./287672-youre-boned.json) |
+| You're Cookin', Good Lookin'! | 264403 | [264403-youre-cookin-good-lookin.json](./264403-youre-cookin-good-lookin.json) |
 | You're Doomed | 112154 | [112154-youre-doomed.json](./112154-youre-doomed.json) |
 | You're Fired | 99082 | [99082-youre-fired.json](./99082-youre-fired.json) |
 | You're Fired! | 367368 | [367368-youre-fired.json](./367368-youre-fired.json) |
