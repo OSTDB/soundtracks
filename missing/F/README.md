@@ -6779,6 +6779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Candy's 3 DX | 266218 | [266218-five-nights-at-candys-3-dx.json](./266218-five-nights-at-candys-3-dx.json) |
 | Five Nights at Candy's DX | 266212 | [266212-five-nights-at-candys-dx.json](./266212-five-nights-at-candys-dx.json) |
 | Five Nights at Chuck E. Cheese's: Rebooted | 238433 | [238433-five-nights-at-chuck-e-cheeses-rebooted.json](./238433-five-nights-at-chuck-e-cheeses-rebooted.json) |
+| Five Nights at Cobson's | 280558 | [280558-five-nights-at-cobsons.json](./280558-five-nights-at-cobsons.json) |
 | Five Nights at Dream's​ | 387340 | [387340-five-nights-at-dreams.json](./387340-five-nights-at-dreams.json) |
 | Five Nights At Dungeon | 240161 | [240161-five-nights-at-dungeon.json](./240161-five-nights-at-dungeon.json) |
 | Five Nights at Ethans | 194614 | [194614-five-nights-at-ethans.json](./194614-five-nights-at-ethans.json) |
@@ -9380,6 +9381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foreign | 123837 | [123837-foreign.json](./123837-foreign.json) |
 | Foreign Affairs | 313850 | [313850-foreign-affairs.json](./313850-foreign-affairs.json) |
 | Foreign Body | 236549 | [236549-foreign-body.json](./236549-foreign-body.json) |
+| Foreign Fortress | 280557 | [280557-foreign-fortress.json](./280557-foreign-fortress.json) |
 | Foreign Frugglers | 118021 | [118021-foreign-frugglers.json](./118021-foreign-frugglers.json) |
 | Foreign Galaxies | 196232 | [196232-foreign-galaxies.json](./196232-foreign-galaxies.json) |
 | Foreign Gravity | 114640 | [114640-foreign-gravity.json](./114640-foreign-gravity.json) |
@@ -12938,6 +12940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Chess: Definitive Edition | 275032 | [275032-fun-chess-definitive-edition.json](./275032-fun-chess-definitive-edition.json) |
 | Fun Chess: Extended Edition | 263551 | [263551-fun-chess-extended-edition.json](./263551-fun-chess-extended-edition.json) |
 | Fun Chess: GOTY Edition | 287129 | [287129-fun-chess-goty-edition.json](./287129-fun-chess-goty-edition.json) |
+| Fun Chess: Legendary Edition | 280602 | [280602-fun-chess-legendary-edition.json](./280602-fun-chess-legendary-edition.json) |
 | Fun Chess: Platinum Edition | 283146 | [283146-fun-chess-platinum-edition.json](./283146-fun-chess-platinum-edition.json) |
 | Fun Chess: Premium Edition | 270792 | [270792-fun-chess-premium-edition.json](./270792-fun-chess-premium-edition.json) |
 | Fun Chess: Special Edition | 268559 | [268559-fun-chess-special-edition.json](./268559-fun-chess-special-edition.json) |
