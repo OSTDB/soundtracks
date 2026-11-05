@@ -6219,6 +6219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Bone | 226156 | [226156-fish-bone.json](./226156-fish-bone.json) |
 | Fish Can Run 2 | 411273 | [411273-fish-can-run-2.json](./411273-fish-can-run-2.json) |
 | Fish Catcher | 105374 | [105374-fish-catcher.json](./105374-fish-catcher.json) |
+| Fish Catcher | 277661 | [277661-fish-catcher.json](./277661-fish-catcher.json) |
 | Fish Chips and Bombs | 311637 | [311637-fish-chips-and-bombs.json](./311637-fish-chips-and-bombs.json) |
 | Fish Combat: Arcade | 285312 | [285312-fish-combat-arcade.json](./285312-fish-combat-arcade.json) |
 | Fish Dude | 48946 | [48946-fish-dude.json](./48946-fish-dude.json) |
@@ -10462,6 +10463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport 7: Deluxe Edition | 84940 | [84940-forza-motorsport-7-deluxe-edition.json](./84940-forza-motorsport-7-deluxe-edition.json) |
 | Forza Motorsport 7: Ultimate Edition | 84941 | [84941-forza-motorsport-7-ultimate-edition.json](./84941-forza-motorsport-7-ultimate-edition.json) |
 | Forza Motorsport and Forza Horizon 5 Premium Editions Bundle | 277243 | [277243-forza-motorsport-and-forza-horizon-5-premium-editions-bundle.json](./277243-forza-motorsport-and-forza-horizon-5-premium-editions-bundle.json) |
+| Forza Motorsport and Forza Horizon 5: Premium Add-Ons Bundle | 277655 | [277655-forza-motorsport-and-forza-horizon-5-premium-add-ons-bundle.json](./277655-forza-motorsport-and-forza-horizon-5-premium-add-ons-bundle.json) |
 | Forza Motorsport: 1966 Lotus Type 35 | 293888 | [293888-forza-motorsport-1966-lotus-type-35.json](./293888-forza-motorsport-1966-lotus-type-35.json) |
 | Forza Motorsport: 1969 Chevrolet Camaro Jordan Luka 3 | 314390 | [314390-forza-motorsport-1969-chevrolet-camaro-jordan-luka-3.json](./314390-forza-motorsport-1969-chevrolet-camaro-jordan-luka-3.json) |
 | Forza Motorsport: 1983 Nissan #23 Nissan Motorsports Silvia Super Silhouette | 295480 | [295480-forza-motorsport-1983-nissan-23-nissan-motorsports-silvia-super-silhouette.json](./295480-forza-motorsport-1983-nissan-23-nissan-motorsports-silvia-super-silhouette.json) |
