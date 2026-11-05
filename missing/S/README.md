@@ -7110,6 +7110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shambled Spiral | 168112 | [168112-shambled-spiral.json](./168112-shambled-spiral.json) |
 | Shamblers Castle | 217697 | [217697-shamblers-castle.json](./217697-shamblers-castle.json) |
 | Shambles | 139259 | [139259-shambles.json](./139259-shambles.json) |
+| Shambles | 250699 | [250699-shambles.json](./250699-shambles.json) |
 | Shame Legacy | 241959 | [241959-shame-legacy.json](./241959-shame-legacy.json) |
 | Shame Legacy: The Cult Edition | 246297 | [246297-shame-legacy-the-cult-edition.json](./246297-shame-legacy-the-cult-edition.json) |
 | Shameless Afterparty | 340382 | [340382-shameless-afterparty.json](./340382-shameless-afterparty.json) |
@@ -20208,6 +20209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacewind The Zeppelin | 292587 | [292587-spacewind-the-zeppelin.json](./292587-spacewind-the-zeppelin.json) |
 | Spacewing War | 200942 | [200942-spacewing-war.json](./200942-spacewing-war.json) |
 | Spacewing War 2 | 266235 | [266235-spacewing-war-2.json](./266235-spacewing-war-2.json) |
+| SpaceWorm | 250732 | [250732-spaceworm.json](./250732-spaceworm.json) |
 | SpaceWorms | 114200 | [114200-spaceworms.json](./114200-spaceworms.json) |
 | Spacewrecked: 14 Billion Light Years From Earth | 50264 | [50264-spacewrecked-14-billion-light-years-from-earth.json](./50264-spacewrecked-14-billion-light-years-from-earth.json) |
 | SpaceWrestler XL | 128610 | [128610-spacewrestler-xl.json](./128610-spacewrestler-xl.json) |
