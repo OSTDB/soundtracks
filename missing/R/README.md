@@ -5773,6 +5773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resurface.exe | 372834 | [372834-resurface-exe.json](./372834-resurface-exe.json) |
 | Resurgence | 138985 | [138985-resurgence.json](./138985-resurgence.json) |
 | Resurgence | 56594 | [56594-resurgence.json](./56594-resurgence.json) |
+| Resurgence of the Storm | 282398 | [282398-resurgence-of-the-storm.json](./282398-resurgence-of-the-storm.json) |
 | Resurgence: Earth United | 71193 | [71193-resurgence-earth-united.json](./71193-resurgence-earth-united.json) |
 | Resurgent | 177565 | [177565-resurgent.json](./177565-resurgent.json) |
 | Resurrect | 272729 | [272729-resurrect.json](./272729-resurrect.json) |
