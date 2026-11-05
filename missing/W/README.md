@@ -393,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walkabout Mini Golf: Raptor Cliff's | 342279 | [342279-walkabout-mini-golf-raptor-cliffs.json](./342279-walkabout-mini-golf-raptor-cliffs.json) |
 | Walkabout Mini Golf: Shangri-La | 196063 | [196063-walkabout-mini-golf-shangri-la.json](./196063-walkabout-mini-golf-shangri-la.json) |
 | Walkabout Mini Golf: Sweetopia | 193623 | [193623-walkabout-mini-golf-sweetopia.json](./193623-walkabout-mini-golf-sweetopia.json) |
+| Walkabout Mini Golf: Temple at Zerzura | 246753 | [246753-walkabout-mini-golf-temple-at-zerzura.json](./246753-walkabout-mini-golf-temple-at-zerzura.json) |
 | Walkabout Mini Golf: Tokyo | 360886 | [360886-walkabout-mini-golf-tokyo.json](./360886-walkabout-mini-golf-tokyo.json) |
 | Walkabout Mini Golf: Upside Town | 241306 | [241306-walkabout-mini-golf-upside-town.json](./241306-walkabout-mini-golf-upside-town.json) |
 | Walkabout Mini Golf: Venice | 305774 | [305774-walkabout-mini-golf-venice.json](./305774-walkabout-mini-golf-venice.json) |
@@ -8907,6 +8908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wren's Journey | 215656 | [215656-wrens-journey.json](./215656-wrens-journey.json) |
 | Wren's Resurgence | 288455 | [288455-wrens-resurgence.json](./288455-wrens-resurgence.json) |
 | Wrench | 109288 | [109288-wrench.json](./109288-wrench.json) |
+| Wrench to Restore Silence | 246702 | [246702-wrench-to-restore-silence.json](./246702-wrench-to-restore-silence.json) |
 | Wrench Towers | 361250 | [361250-wrench-towers.json](./361250-wrench-towers.json) |
 | WrenchFighter Turbo | 136234 | [136234-wrenchfighter-turbo.json](./136234-wrenchfighter-turbo.json) |
 | Wrest | 127704 | [127704-wrest.json](./127704-wrest.json) |
