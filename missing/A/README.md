@@ -1783,6 +1783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned | 343778 | [343778-abandoned.json](./343778-abandoned.json) |
 | Abandoned | 409889 | [409889-abandoned.json](./409889-abandoned.json) |
 | Abandoned Archive | 190083 | [190083-abandoned-archive.json](./190083-abandoned-archive.json) |
+| Abandoned Cabins in the Woods | 275375 | [275375-abandoned-cabins-in-the-woods.json](./275375-abandoned-cabins-in-the-woods.json) |
 | Abandoned Continent | 377422 | [377422-abandoned-continent.json](./377422-abandoned-continent.json) |
 | Abandoned Croxon Mansion | 152496 | [152496-abandoned-croxon-mansion.json](./152496-abandoned-croxon-mansion.json) |
 | Abandoned Dark | 270865 | [270865-abandoned-dark.json](./270865-abandoned-dark.json) |
@@ -6596,6 +6597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Brothers 2 | 365364 | [365364-alien-brothers-2.json](./365364-alien-brothers-2.json) |
 | Alien Bubble Destroyer | 81998 | [81998-alien-bubble-destroyer.json](./81998-alien-bubble-destroyer.json) |
 | Alien Cabal | 62149 | [62149-alien-cabal.json](./62149-alien-cabal.json) |
+| Alien Cafe | 275406 | [275406-alien-cafe.json](./275406-alien-cafe.json) |
 | Alien Carnage | 8487 | [8487-alien-carnage.json](./8487-alien-carnage.json) |
 | Alien Cartographer | 374594 | [374594-alien-cartographer.json](./374594-alien-cartographer.json) |
 | Alien Caseno | 26571 | [26571-alien-caseno.json](./26571-alien-caseno.json) |
@@ -6814,6 +6816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Syndrome | 273026 | [273026-alien-syndrome.json](./273026-alien-syndrome.json) |
 | Alien Syndrome | 273027 | [273027-alien-syndrome.json](./273027-alien-syndrome.json) |
 | Alien Syndrome | 4478 | [4478-alien-syndrome.json](./4478-alien-syndrome.json) |
+| Alien Tag | 275396 | [275396-alien-tag.json](./275396-alien-tag.json) |
 | Alien Tentacles: Attack Master | 233411 | [233411-alien-tentacles-attack-master.json](./233411-alien-tentacles-attack-master.json) |
 | Alien Tequila | 73263 | [73263-alien-tequila.json](./73263-alien-tequila.json) |
 | Alien Time Zone | 58037 | [58037-alien-time-zone.json](./58037-alien-time-zone.json) |
