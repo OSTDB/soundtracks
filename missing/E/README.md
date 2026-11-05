@@ -2521,6 +2521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elfmania | 12062 | [12062-elfmania.json](./12062-elfmania.json) |
 | ElfMiner | 360612 | [360612-elfminer.json](./360612-elfminer.json) |
 | Elfo: Rescue Craby | 322345 | [322345-elfo-rescue-craby.json](./322345-elfo-rescue-craby.json) |
+| Elfs From Elsewhere! | 272633 | [272633-elfs-from-elsewhere.json](./272633-elfs-from-elsewhere.json) |
 | Elfscape: Ancestors | 297923 | [297923-elfscape-ancestors.json](./297923-elfscape-ancestors.json) |
 | Elfsquad7 | 93501 | [93501-elfsquad7.json](./93501-elfsquad7.json) |
 | Elhkia | 291812 | [291812-elhkia.json](./291812-elhkia.json) |
@@ -8164,6 +8165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye of the Storm | 299731 | [299731-eye-of-the-storm.json](./299731-eye-of-the-storm.json) |
 | Eye of the Summoner | 302771 | [302771-eye-of-the-summoner.json](./302771-eye-of-the-summoner.json) |
 | Eye of the Temple | 95018 | [95018-eye-of-the-temple.json](./95018-eye-of-the-temple.json) |
+| Eye of the Void: Unleashed | 272625 | [272625-eye-of-the-void-unleashed.json](./272625-eye-of-the-void-unleashed.json) |
 | Eye of Vartan | 14059 | [14059-eye-of-vartan.json](./14059-eye-of-vartan.json) |
 | Eye on the world | 258731 | [258731-eye-on-the-world.json](./258731-eye-on-the-world.json) |
 | Eye on You! | 340046 | [340046-eye-on-you.json](./340046-eye-on-you.json) |
