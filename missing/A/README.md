@@ -2049,6 +2049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute BrickBuster | 76150 | [76150-absolute-brickbuster.json](./76150-absolute-brickbuster.json) |
 | Absolute Chess | 74418 | [74418-absolute-chess.json](./74418-absolute-chess.json) |
 | Absolute Cinema | 383462 | [383462-absolute-cinema.json](./383462-absolute-cinema.json) |
+| Absolute Color Perception | 267740 | [267740-absolute-color-perception.json](./267740-absolute-color-perception.json) |
 | Absolute Deduction Bundle | 209687 | [209687-absolute-deduction-bundle.json](./209687-absolute-deduction-bundle.json) |
 | Absolute Despair Collection | 52556 | [52556-absolute-despair-collection.json](./52556-absolute-despair-collection.json) |
 | Absolute Doppelkopf | 79215 | [79215-absolute-doppelkopf.json](./79215-absolute-doppelkopf.json) |
@@ -9167,6 +9168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | And Roger | 324784 | [324784-and-roger.json](./324784-and-roger.json) |
 | And So It Was | 33784 | [33784-and-so-it-was.json](./33784-and-so-it-was.json) |
 | And the Band Begins to Play | 144752 | [144752-and-the-band-begins-to-play.json](./144752-and-the-band-begins-to-play.json) |
+| And the Hero Was Never Seen Again | 267739 | [267739-and-the-hero-was-never-seen-again.json](./267739-and-the-hero-was-never-seen-again.json) |
 | And The World Went Dark | 334296 | [334296-and-the-world-went-dark.json](./334296-and-the-world-went-dark.json) |
 | And Then He Went to the Tower | 183376 | [183376-and-then-he-went-to-the-tower.json](./183376-and-then-he-went-to-the-tower.json) |
 | And Then There Was No Light | 361598 | [361598-and-then-there-was-no-light.json](./361598-and-then-there-was-no-light.json) |
@@ -10860,6 +10862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antichrist | 393525 | [393525-antichrist.json](./393525-antichrist.json) |
 | Antichromatic | 112323 | [112323-antichromatic.json](./112323-antichromatic.json) |
 | Anticipating Murder | 316768 | [316768-anticipating-murder.json](./316768-anticipating-murder.json) |
+| Anticitizen: Red | 267738 | [267738-anticitizen-red.json](./267738-anticitizen-red.json) |
 | AnticLove | 299423 | [299423-anticlove.json](./299423-anticlove.json) |
 | Antidote | 114720 | [114720-antidote.json](./114720-antidote.json) |
 | Antidote | 170819 | [170819-antidote.json](./170819-antidote.json) |
@@ -12812,6 +12815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archer boy | 158076 | [158076-archer-boy.json](./158076-archer-boy.json) |
 | Archer Defenders | 231982 | [231982-archer-defenders.json](./231982-archer-defenders.json) |
 | Archer Guardian VR : The Chapter Zero | 30770 | [30770-archer-guardian-vr-the-chapter-zero.json](./30770-archer-guardian-vr-the-chapter-zero.json) |
+| Archer Hero | 267737 | [267737-archer-hero.json](./267737-archer-hero.json) |
 | Archer Hero Must Die | 231824 | [231824-archer-hero-must-die.json](./231824-archer-hero-must-die.json) |
 | Archer Maclean's 3D Pool | 248632 | [248632-archer-macleans-3d-pool.json](./248632-archer-macleans-3d-pool.json) |
 | Archer Maclean's 3D Pool | 49315 | [49315-archer-macleans-3d-pool.json](./49315-archer-macleans-3d-pool.json) |
@@ -15210,6 +15214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astalon: Tears of the Earth | 80885 | [80885-astalon-tears-of-the-earth.json](./80885-astalon-tears-of-the-earth.json) |
 | AStar | 84300 | [84300-astar.json](./84300-astar.json) |
 | Astar Solis | 366396 | [366396-astar-solis.json](./366396-astar-solis.json) |
+| Astarian Adventures | 267741 | [267741-astarian-adventures.json](./267741-astarian-adventures.json) |
 | Astaroth: The Angel of Death | 14171 | [14171-astaroth-the-angel-of-death.json](./14171-astaroth-the-angel-of-death.json) |
 | Astaryn: RPG Idler | 407879 | [407879-astaryn-rpg-idler.json](./407879-astaryn-rpg-idler.json) |
 | Astate: La Malédiction des Templiers | 14271 | [14271-astate-la-malediction-des-templiers.json](./14271-astate-la-malediction-des-templiers.json) |
@@ -16315,6 +16320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
