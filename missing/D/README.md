@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damn Little Town | 262062 | [262062-damn-little-town.json](./262062-damn-little-town.json) |
 | Damn Love | 402274 | [402274-damn-love.json](./402274-damn-love.json) |
 | Damn Ropes | 146622 | [146622-damn-ropes.json](./146622-damn-ropes.json) |
+| Damn Sewer | 294350 | [294350-damn-sewer.json](./294350-damn-sewer.json) |
 | Damn virgins | 35537 | [35537-damn-virgins.json](./35537-damn-virgins.json) |
 | Damn Zombies | 248234 | [248234-damn-zombies.json](./248234-damn-zombies.json) |
 | Damn, what was yesterday? | 157919 | [157919-damn-what-was-yesterday.json](./157919-damn-what-was-yesterday.json) |
@@ -5046,6 +5047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Aquarium | 124688 | [124688-deep-aquarium.json](./124688-deep-aquarium.json) |
 | Deep Assault | 235816 | [235816-deep-assault.json](./235816-deep-assault.json) |
 | Deep Below | 31368 | [31368-deep-below.json](./31368-deep-below.json) |
+| Deep Beyond | 294490 | [294490-deep-beyond.json](./294490-deep-beyond.json) |
 | Deep Black: Reloaded | 52863 | [52863-deep-black-reloaded.json](./52863-deep-black-reloaded.json) |
 | Deep Blue | 28748 | [28748-deep-blue.json](./28748-deep-blue.json) |
 | Deep Blue | 75524 | [75524-deep-blue.json](./75524-deep-blue.json) |
@@ -13403,6 +13405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Golf | 413514 | [413514-double-golf.json](./413514-double-golf.json) |
 | Double Happy vs. The Infinite Sadness: Pharos | 61055 | [61055-double-happy-vs-the-infinite-sadness-pharos.json](./61055-double-happy-vs-the-infinite-sadness-pharos.json) |
 | Double Hawk | 45659 | [45659-double-hawk.json](./45659-double-hawk.json) |
+| Double Header: Complete Onside Soccer and Power Slide | 294415 | [294415-double-header-complete-onside-soccer-and-power-slide.json](./294415-double-header-complete-onside-soccer-and-power-slide.json) |
 | Double Hits | 130302 | [130302-double-hits.json](./130302-double-hits.json) |
 | Double Hooked | 317431 | [317431-double-hooked.json](./317431-double-hooked.json) |
 | Double Impact | 135886 | [135886-double-impact.json](./135886-double-impact.json) |
@@ -13609,6 +13612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down The Dead | 195392 | [195392-down-the-dead.json](./195392-down-the-dead.json) |
 | Down the Deep | 191612 | [191612-down-the-deep.json](./191612-down-the-deep.json) |
 | Down the Drain | 256830 | [256830-down-the-drain.json](./256830-down-the-drain.json) |
+| Down the Drain | 294417 | [294417-down-the-drain.json](./294417-down-the-drain.json) |
 | Down the Dungeon | 393545 | [393545-down-the-dungeon.json](./393545-down-the-dungeon.json) |
 | Down the Eye of the Tiger | 257195 | [257195-down-the-eye-of-the-tiger.json](./257195-down-the-eye-of-the-tiger.json) |
 | Down the Gutter | 271335 | [271335-down-the-gutter.json](./271335-down-the-gutter.json) |
@@ -17564,6 +17568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Display | 159867 | [159867-dungeon-display.json](./159867-dungeon-display.json) |
 | Dungeon Divas | 381776 | [381776-dungeon-divas.json](./381776-dungeon-divas.json) |
 | Dungeon Diver | 309423 | [309423-dungeon-diver.json](./309423-dungeon-diver.json) |
+| Dungeon Divers | 294354 | [294354-dungeon-divers.json](./294354-dungeon-divers.json) |
 | Dungeon Dogs | 224059 | [224059-dungeon-dogs.json](./224059-dungeon-dogs.json) |
 | Dungeon Dominator | 408778 | [408778-dungeon-dominator.json](./408778-dungeon-dominator.json) |
 | Dungeon Done | 311484 | [311484-dungeon-done.json](./311484-dungeon-done.json) |
