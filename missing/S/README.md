@@ -1924,6 +1924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapan | 104477 | [104477-sapan.json](./104477-sapan.json) |
 | Saphyro | 164978 | [164978-saphyro.json](./164978-saphyro.json) |
 | Sapiens | 55032 | [55032-sapiens.json](./55032-sapiens.json) |
+| Sapiens Craft | 251941 | [251941-sapiens-craft.json](./251941-sapiens-craft.json) |
 | Sapiens Craft Puzzle | 270087 | [270087-sapiens-craft-puzzle.json](./270087-sapiens-craft-puzzle.json) |
 | Sapiens League | 232437 | [232437-sapiens-league.json](./232437-sapiens-league.json) |
 | Sapling | 167600 | [167600-sapling.json](./167600-sapling.json) |
@@ -7978,6 +7979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shield Hero | 351630 | [351630-shield-hero.json](./351630-shield-hero.json) |
 | Shield Hero Rise | 188386 | [188386-shield-hero-rise.json](./188386-shield-hero-rise.json) |
 | Shield Impact | 81859 | [81859-shield-impact.json](./81859-shield-impact.json) |
+| Shield King | 251921 | [251921-shield-king.json](./251921-shield-king.json) |
 | Shield knight | 285308 | [285308-shield-knight.json](./285308-shield-knight.json) |
 | Shield of Breaker | 380118 | [380118-shield-of-breaker.json](./380118-shield-of-breaker.json) |
 | Shield of Shalwend | 133126 | [133126-shield-of-shalwend.json](./133126-shield-of-shalwend.json) |
@@ -12867,6 +12869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slapstick Bosses | 349861 | [349861-slapstick-bosses.json](./349861-slapstick-bosses.json) |
 | Slapstick Fighter | 266257 | [266257-slapstick-fighter.json](./266257-slapstick-fighter.json) |
 | SlapTrax | 399885 | [399885-slaptrax.json](./399885-slaptrax.json) |
+| Slarcher | 251930 | [251930-slarcher.json](./251930-slarcher.json) |
 | Slash & Girl: Endless Run | 181555 | [181555-slash-and-girl-endless-run.json](./181555-slash-and-girl-endless-run.json) |
 | Slash & Roll | 186299 | [186299-slash-and-roll.json](./186299-slash-and-roll.json) |
 | Slash Abyss | 290629 | [290629-slash-abyss.json](./290629-slash-abyss.json) |
@@ -13749,6 +13752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SlotCrawler | 384550 | [384550-slotcrawler.json](./384550-slotcrawler.json) |
 | Sloth Story | 178891 | [178891-sloth-story.json](./178891-sloth-story.json) |
 | Sloth Tales | 149813 | [149813-sloth-tales.json](./149813-sloth-tales.json) |
+| Slothtopia | 251908 | [251908-slothtopia.json](./251908-slothtopia.json) |
 | Slotpark | 360765 | [360765-slotpark.json](./360765-slotpark.json) |
 | Slotracers VR | 144007 | [144007-slotracers-vr.json](./144007-slotracers-vr.json) |
 | Slots | 287558 | [287558-slots.json](./287558-slots.json) |
@@ -19324,7 +19328,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20130,6 +20133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacepowers | 86396 | [86396-spacepowers.json](./86396-spacepowers.json) |
 | Spacepunk Survival | 244188 | [244188-spacepunk-survival.json](./244188-spacepunk-survival.json) |
 | Spacer Project | 128260 | [128260-spacer-project.json](./128260-spacer-project.json) |
+| Spacer Rescue: To Valhalla | 251901 | [251901-spacer-rescue-to-valhalla.json](./251901-spacer-rescue-to-valhalla.json) |
 | SpaceRace | 267688 | [267688-spacerace.json](./267688-spacerace.json) |
 | Spacerat Miner | 275659 | [275659-spacerat-miner.json](./275659-spacerat-miner.json) |
 | SpaceRiddle | 409833 | [409833-spaceriddle.json](./409833-spaceriddle.json) |
@@ -21953,6 +21957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splatterhouse 3 | 46194 | [46194-splatterhouse-3.json](./46194-splatterhouse-3.json) |
 | SplatterHouse 3D: Gold Edition | 50376 | [50376-splatterhouse-3d-gold-edition.json](./50376-splatterhouse-3d-gold-edition.json) |
 | Splatterhouse: Wanpaku Graffiti | 48653 | [48653-splatterhouse-wanpaku-graffiti.json](./48653-splatterhouse-wanpaku-graffiti.json) |
+| Splatterpus | 251940 | [251940-splatterpus.json](./251940-splatterpus.json) |
 | Splatterworld: Rick to Kyoufu no Daiou | 377793 | [377793-splatterworld-rick-to-kyoufu-no-daiou.json](./377793-splatterworld-rick-to-kyoufu-no-daiou.json) |
 | Spleef Game | 264025 | [264025-spleef-game.json](./264025-spleef-game.json) |
 | Spleen | 118140 | [118140-spleen.json](./118140-spleen.json) |
@@ -22922,6 +22927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Garden | 234748 | [234748-square-garden.json](./234748-square-garden.json) |
 | Square Head Zombies | 65796 | [65796-square-head-zombies.json](./65796-square-head-zombies.json) |
 | Square Head Zombies 2 - FPS Game | 99638 | [99638-square-head-zombies-2-fps-game.json](./99638-square-head-zombies-2-fps-game.json) |
+| Square Inertia | 251923 | [251923-square-inertia.json](./251923-square-inertia.json) |
 | Square It: An Electronic Game of Capture the Boxes | 217928 | [217928-square-it-an-electronic-game-of-capture-the-boxes.json](./217928-square-it-an-electronic-game-of-capture-the-boxes.json) |
 | Square Journey | 202557 | [202557-square-journey.json](./202557-square-journey.json) |
 | Square Jump | 106377 | [106377-square-jump.json](./106377-square-jump.json) |
@@ -29905,6 +29911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunshower | 183946 | [183946-sunshower.json](./183946-sunshower.json) |
 | Sunshowers Burn the Century Scionic | 331603 | [331603-sunshowers-burn-the-century-scionic.json](./331603-sunshowers-burn-the-century-scionic.json) |
 | Sunsoft Collection | 79526 | [79526-sunsoft-collection.json](./79526-sunsoft-collection.json) |
+| Sunsoft Collection 1 | 251898 | [251898-sunsoft-collection-1.json](./251898-sunsoft-collection-1.json) |
 | Sunsoft Collection 2 | 291544 | [291544-sunsoft-collection-2.json](./291544-sunsoft-collection-2.json) |
 | Sunsoft is Back! Retro Game Selection | 297001 | [297001-sunsoft-is-back-retro-game-selection.json](./297001-sunsoft-is-back-retro-game-selection.json) |
 | Sunsoft is Back! Retro Game Selection 2 | 421447 | [421447-sunsoft-is-back-retro-game-selection-2.json](./421447-sunsoft-is-back-retro-game-selection-2.json) |
