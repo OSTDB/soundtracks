@@ -1953,6 +1953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abondoned Village | 277282 | [277282-abondoned-village.json](./277282-abondoned-village.json) |
 | Aborigenus | 110070 | [110070-aborigenus.json](./110070-aborigenus.json) |
 | Aboriginal | 265799 | [265799-aboriginal.json](./265799-aboriginal.json) |
+| Abort | 291211 | [291211-abort.json](./291211-abort.json) |
 | Abort, Retry, Fail | 201227 | [201227-abort-retry-fail.json](./201227-abort-retry-fail.json) |
 | About a Boy | 325390 | [325390-about-a-boy.json](./325390-about-a-boy.json) |
 | About a Boy | 349801 | [349801-about-a-boy.json](./349801-about-a-boy.json) |
@@ -13973,6 +13974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arsenal of Democracy | 2009 | [2009-arsenal-of-democracy.json](./2009-arsenal-of-democracy.json) |
 | Arsenal Online | 273361 | [273361-arsenal-online.json](./273361-arsenal-online.json) |
 | Arsenal Shock | 197114 | [197114-arsenal-shock.json](./197114-arsenal-shock.json) |
+| Arsene Bomber: Cosmic | 291261 | [291261-arsene-bomber-cosmic.json](./291261-arsene-bomber-cosmic.json) |
 | Arsene Lupin: Once a Thief | 302922 | [302922-arsene-lupin-once-a-thief.json](./302922-arsene-lupin-once-a-thief.json) |
 | Arsenic & Absinthe | 327191 | [327191-arsenic-and-absinthe.json](./327191-arsenic-and-absinthe.json) |
 | Arsilon | 201081 | [201081-arsilon.json](./201081-arsilon.json) |
@@ -15696,10 +15698,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astromine | 381078 | [381078-astromine.json](./381078-astromine.json) |
 | Astrominer | 258105 | [258105-astrominer.json](./258105-astrominer.json) |
 | AstroMiner | 119546 | [119546-astrominer.json](./119546-astrominer.json) |
+| AstroMole | 291274 | [291274-astromole.json](./291274-astromole.json) |
 | AstroN | 91912 | [91912-astron.json](./91912-astron.json) |
 | Astron Belt | 22732 | [22732-astron-belt.json](./22732-astron-belt.json) |
 | Astronarch | 132353 | [132353-astronarch.json](./132353-astronarch.json) |
 | Astronaut Adventure | 323489 | [323489-astronaut-adventure.json](./323489-astronaut-adventure.json) |
+| Astronaut Assault | 291286 | [291286-astronaut-assault.json](./291286-astronaut-assault.json) |
 | Astronaut Simulator | 35580 | [35580-astronaut-simulator.json](./35580-astronaut-simulator.json) |
 | Astronaut Simulator | 396223 | [396223-astronaut-simulator.json](./396223-astronaut-simulator.json) |
 | Astronaut Spacewalk | 174354 | [174354-astronaut-spacewalk.json](./174354-astronaut-spacewalk.json) |
@@ -16209,7 +16213,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
