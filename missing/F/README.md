@@ -11093,6 +11093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frayspace | 236457 | [236457-frayspace.json](./236457-frayspace.json) |
 | Frazzle Dazzle | 180710 | [180710-frazzle-dazzle.json](./180710-frazzle-dazzle.json) |
 | FRC 25 | 377792 | [377792-frc-25.json](./377792-frc-25.json) |
+| Freak Boy | 292347 | [292347-freak-boy.json](./292347-freak-boy.json) |
 | Freak Control | 137490 | [137490-freak-control.json](./137490-freak-control.json) |
 | Freak Factory | 265664 | [265664-freak-factory.json](./265664-freak-factory.json) |
 | Freak Festival | 274338 | [274338-freak-festival.json](./274338-freak-festival.json) |
@@ -12654,6 +12655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuddo & Slam | 250342 | [250342-fuddo-and-slam.json](./250342-fuddo-and-slam.json) |
 | Fudêncio e Seus Amigos: Jogo do Miolo-Mole! | 331195 | [331195-fudencio-e-seus-amigos-jogo-do-miolo-mole.json](./331195-fudencio-e-seus-amigos-jogo-do-miolo-mole.json) |
 | Fudge Nuggets | 383908 | [383908-fudge-nuggets.json](./383908-fudge-nuggets.json) |
+| Fudgy Dice | 292274 | [292274-fudgy-dice.json](./292274-fudgy-dice.json) |
 | Fudou Myouou Den | 48909 | [48909-fudou-myouou-den.json](./48909-fudou-myouou-den.json) |
 | Fuel | 567 | [567-fuel.json](./567-fuel.json) |
 | Fuel & Food Bundle | 284863 | [284863-fuel-and-food-bundle.json](./284863-fuel-and-food-bundle.json) |
