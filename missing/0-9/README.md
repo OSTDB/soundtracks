@@ -3052,6 +3052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Grand Dad | 146068 | [146068-7-grand-dad.json](./146068-7-grand-dad.json) |
 | 7 Grand Steps: What Ancients Begat | 16537 | [16537-7-grand-steps-what-ancients-begat.json](./16537-7-grand-steps-what-ancients-begat.json) |
 | 7 Gunfighters | 345137 | [345137-7-gunfighters.json](./345137-7-gunfighters.json) |
+| 7 Hills of Rome: Mahjong | 293940 | [293940-7-hills-of-rome-mahjong.json](./293940-7-hills-of-rome-mahjong.json) |
 | 7 Horizons | 210898 | [210898-7-horizons.json](./210898-7-horizons.json) |
 | 7 Invaders | 293240 | [293240-7-invaders.json](./293240-7-invaders.json) |
 | 7 Jobs at the Same Time | 350138 | [350138-7-jobs-at-the-same-time.json](./350138-7-jobs-at-the-same-time.json) |
