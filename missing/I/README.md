@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Kilt | 291247 | [291247-i-am-kilt.json](./291247-i-am-kilt.json) |
 | I Am Legion: Stand Survivors | 319664 | [319664-i-am-legion-stand-survivors.json](./319664-i-am-legion-stand-survivors.json) |
 | I Am Level | 267956 | [267956-i-am-level.json](./267956-i-am-level.json) |
+| I am Lost | 285252 | [285252-i-am-lost.json](./285252-i-am-lost.json) |
 | I am Machine | 371877 | [371877-i-am-machine.json](./371877-i-am-machine.json) |
 | I Am Monkey | 372054 | [372054-i-am-monkey.json](./372054-i-am-monkey.json) |
 | I Am Mouse | 197085 | [197085-i-am-mouse.json](./197085-i-am-mouse.json) |
@@ -517,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Think I'm in Love with a Demon Prince | 268985 | [268985-i-think-im-in-love-with-a-demon-prince.json](./268985-i-think-im-in-love-with-a-demon-prince.json) |
 | I Think the Waves are Watching Me | 59705 | [59705-i-think-the-waves-are-watching-me.json](./59705-i-think-the-waves-are-watching-me.json) |
 | I Think You Can | 323103 | [323103-i-think-you-can.json](./323103-i-think-you-can.json) |
+| I Think You Should Marble | 285265 | [285265-i-think-you-should-marble.json](./285265-i-think-you-should-marble.json) |
 | I Thought I Knew You | 414836 | [414836-i-thought-i-knew-you.json](./414836-i-thought-i-knew-you.json) |
 | I told you | 220041 | [220041-i-told-you.json](./220041-i-told-you.json) |
 | I Told You So! | 178908 | [178908-i-told-you-so.json](./178908-i-told-you-so.json) |
@@ -3752,7 +3754,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
