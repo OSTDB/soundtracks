@@ -1364,6 +1364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vengeful Rites | 103064 | [103064-vengeful-rites.json](./103064-vengeful-rites.json) |
 | Venial Sin | 396539 | [396539-venial-sin.json](./396539-venial-sin.json) |
 | Venice | 14810 | [14810-venice.json](./14810-venice.json) |
+| Venice Bridges | 268821 | [268821-venice-bridges.json](./268821-venice-bridges.json) |
 | Venice Deluxe | 21448 | [21448-venice-deluxe.json](./21448-venice-deluxe.json) |
 | Venice Master | 197205 | [197205-venice-master.json](./197205-venice-master.json) |
 | Venice Mystery | 64731 | [64731-venice-mystery.json](./64731-venice-mystery.json) |
@@ -1816,6 +1817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vicious, Fateful Memories | 108992 | [108992-vicious-fateful-memories.json](./108992-vicious-fateful-memories.json) |
 | Vickinachi | 37308 | [37308-vickinachi.json](./37308-vickinachi.json) |
 | Vicky | 138753 | [138753-vicky.json](./138753-vicky.json) |
+| Vicky Adventure Shanghai | 268829 | [268829-vicky-adventure-shanghai.json](./268829-vicky-adventure-shanghai.json) |
 | Vicky Saves the Big Dumb World | 34415 | [34415-vicky-saves-the-big-dumb-world.json](./34415-vicky-saves-the-big-dumb-world.json) |
 | Vico | 193768 | [193768-vico.json](./193768-vico.json) |
 | Vico 3: Tale of the Seven Seas | 243790 | [243790-vico-3-tale-of-the-seven-seas.json](./243790-vico-3-tale-of-the-seven-seas.json) |
