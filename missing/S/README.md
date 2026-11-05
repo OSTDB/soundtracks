@@ -1069,6 +1069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salto | 391775 | [391775-salto.json](./391775-salto.json) |
 | Salto Mortadella | 297212 | [297212-salto-mortadella.json](./297212-salto-mortadella.json) |
 | Salto Z | 411097 | [411097-salto-z.json](./411097-salto-z.json) |
+| Saltsea Chronicles | 252499 | [252499-saltsea-chronicles.json](./252499-saltsea-chronicles.json) |
 | Saltwater | 299583 | [299583-saltwater.json](./299583-saltwater.json) |
 | Saltwater | 384517 | [384517-saltwater.json](./384517-saltwater.json) |
 | Saltwater Bodies | 325645 | [325645-saltwater-bodies.json](./325645-saltwater-bodies.json) |
@@ -1589,6 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sands of Osiris | 60541 | [60541-sands-of-osiris.json](./60541-sands-of-osiris.json) |
 | Sands of Salzaar | 128004 | [128004-sands-of-salzaar.json](./128004-sands-of-salzaar.json) |
 | Sands of Salzaar: Land of the Eclipse | 279528 | [279528-sands-of-salzaar-land-of-the-eclipse.json](./279528-sands-of-salzaar-land-of-the-eclipse.json) |
+| Sands of Salzaar: The Ember Saga | 252506 | [252506-sands-of-salzaar-the-ember-saga.json](./252506-sands-of-salzaar-the-ember-saga.json) |
 | Sands of Salzaar: The Tournament | 231292 | [231292-sands-of-salzaar-the-tournament.json](./231292-sands-of-salzaar-the-tournament.json) |
 | Sands of Slumber: The RPG | 225864 | [225864-sands-of-slumber-the-rpg.json](./225864-sands-of-slumber-the-rpg.json) |
 | Sands of Sodis | 231380 | [231380-sands-of-sodis.json](./231380-sands-of-sodis.json) |
@@ -8108,6 +8110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shimaise | 109183 | [109183-shimaise.json](./109183-shimaise.json) |
 | Shimajiro no Eigo Activity Ehon: ABC Park de Asobou! | 327617 | [327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json](./327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json) |
 | Shimapanzer Strike! | 298075 | [298075-shimapanzer-strike.json](./298075-shimapanzer-strike.json) |
+| Shimazu | 252462 | [252462-shimazu.json](./252462-shimazu.json) |
 | Shime Houmeichou | 415071 | [415071-shime-houmeichou.json](./415071-shime-houmeichou.json) |
 | Shimizu Ritual | 283338 | [283338-shimizu-ritual.json](./283338-shimizu-ritual.json) |
 | Shimmer | 105213 | [105213-shimmer.json](./105213-shimmer.json) |
@@ -10984,6 +10987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simpler Times | 308240 | [308240-simpler-times.json](./308240-simpler-times.json) |
 | SimpleRoad | 370872 | [370872-simpleroad.json](./370872-simpleroad.json) |
 | SimpleRockets | 197672 | [197672-simplerockets.json](./197672-simplerockets.json) |
+| SimpleTD | 252461 | [252461-simpletd.json](./252461-simpletd.json) |
 | Simplex | 271327 | [271327-simplex.json](./271327-simplex.json) |
 | Simpli Casa | 381707 | [381707-simpli-casa.json](./381707-simpli-casa.json) |
 | Simploe Tasks | 293053 | [293053-simploe-tasks.json](./293053-simploe-tasks.json) |
@@ -26021,6 +26025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Tactics | 26293 | [26293-stellar-tactics.json](./26293-stellar-tactics.json) |
 | Stellar Terminus | 318178 | [318178-stellar-terminus.json](./318178-stellar-terminus.json) |
 | Stellar Track | 18427 | [18427-stellar-track.json](./18427-stellar-track.json) |
+| Stellar Transports | 252474 | [252474-stellar-transports.json](./252474-stellar-transports.json) |
 | Stellar Tunes | 265289 | [265289-stellar-tunes.json](./265289-stellar-tunes.json) |
 | Stellar Valkyrie | 165072 | [165072-stellar-valkyrie.json](./165072-stellar-valkyrie.json) |
 | Stellar Verse Pro Runner | 323634 | [323634-stellar-verse-pro-runner.json](./323634-stellar-verse-pro-runner.json) |
@@ -29504,6 +29509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer: Life in the Countryside | 145488 | [145488-summer-life-in-the-countryside.json](./145488-summer-life-in-the-countryside.json) |
 | Summer's Gone: Season 1 | 199053 | [199053-summers-gone-season-1.json](./199053-summers-gone-season-1.json) |
 | Summer's Gone: Season 2 - Constellations | 402138 | [402138-summers-gone-season-2-constellations.json](./402138-summers-gone-season-2-constellations.json) |
+| Summerhill | 252498 | [252498-summerhill.json](./252498-summerhill.json) |
 | Summerhouse | 261688 | [261688-summerhouse.json](./261688-summerhouse.json) |
 | Summertime Madness | 144935 | [144935-summertime-madness.json](./144935-summertime-madness.json) |
 | Summertime Sadness | 376635 | [376635-summertime-sadness.json](./376635-summertime-sadness.json) |
