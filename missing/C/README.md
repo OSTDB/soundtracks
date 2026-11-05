@@ -5401,6 +5401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chains | 15781 | [15781-chains.json](./15781-chains.json) |
 | Chains of Freedom | 324581 | [324581-chains-of-freedom.json](./324581-chains-of-freedom.json) |
 | Chains of Fury | 125213 | [125213-chains-of-fury.json](./125213-chains-of-fury.json) |
+| Chains of Judgment | 295420 | [295420-chains-of-judgment.json](./295420-chains-of-judgment.json) |
 | Chains of Lukomorye | 350546 | [350546-chains-of-lukomorye.json](./350546-chains-of-lukomorye.json) |
 | Chains Of Reality | 334196 | [334196-chains-of-reality.json](./334196-chains-of-reality.json) |
 | Chains of the Goddess | 258082 | [258082-chains-of-the-goddess.json](./258082-chains-of-the-goddess.json) |
@@ -11702,6 +11703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Splash: Mushrooms | 383164 | [383164-color-splash-mushrooms.json](./383164-color-splash-mushrooms.json) |
 | Color Splash: Predators | 289544 | [289544-color-splash-predators.json](./289544-color-splash-predators.json) |
 | Color Splash: Reptiles | 408541 | [408541-color-splash-reptiles.json](./408541-color-splash-reptiles.json) |
+| Color Splash: Rodents | 295426 | [295426-color-splash-rodents.json](./295426-color-splash-rodents.json) |
 | Color Story: Pixa's Quest | 205074 | [205074-color-story-pixas-quest.json](./205074-color-story-pixas-quest.json) |
 | Color Sudoku | 65799 | [65799-color-sudoku.json](./65799-color-sudoku.json) |
 | Color Summoners | 297096 | [297096-color-summoners.json](./297096-color-summoners.json) |
