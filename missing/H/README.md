@@ -5492,6 +5492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her 2: I Want to See You Again | 114821 | [114821-her-2-i-want-to-see-you-again.json](./114821-her-2-i-want-to-see-you-again.json) |
 | Her Age, My Sex, Your Location | 354813 | [354813-her-age-my-sex-your-location.json](./354813-her-age-my-sex-your-location.json) |
 | Her Apartment | 323898 | [323898-her-apartment.json](./323898-her-apartment.json) |
+| Her Beautiful Dream | 255441 | [255441-her-beautiful-dream.json](./255441-her-beautiful-dream.json) |
 | Her Deliverance | 321017 | [321017-her-deliverance.json](./321017-her-deliverance.json) |
 | Her Heart, Anew | 419951 | [419951-her-heart-anew.json](./419951-her-heart-anew.json) |
 | Her Heart's Desire: A Landlord Epic | 224235 | [224235-her-hearts-desire-a-landlord-epic.json](./224235-her-hearts-desire-a-landlord-epic.json) |
@@ -8661,6 +8662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Present Hunt | 349501 | [349501-holiday-present-hunt.json](./349501-holiday-present-hunt.json) |
 | Holiday Racer | 144386 | [144386-holiday-racer.json](./144386-holiday-racer.json) |
 | Holiday Rush | 146586 | [146586-holiday-rush.json](./146586-holiday-rush.json) |
+| Holiday Shopping | 255452 | [255452-holiday-shopping.json](./255452-holiday-shopping.json) |
 | Holiday Simulator : Wacky Sleigh Ride | 30070 | [30070-holiday-simulator-wacky-sleigh-ride.json](./30070-holiday-simulator-wacky-sleigh-ride.json) |
 | Holiday Solitaire Easter | 173070 | [173070-holiday-solitaire-easter.json](./173070-holiday-solitaire-easter.json) |
 | Holiday Solitaire. Easter Free | 88835 | [88835-holiday-solitaire-easter-free.json](./88835-holiday-solitaire-easter-free.json) |
