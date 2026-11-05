@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P-O-X | 290312 | [290312-p-o-x.json](./290312-p-o-x.json) |
 | P-Pan | 391446 | [391446-p-pan.json](./391446-p-pan.json) |
 | P-Robots | 93029 | [93029-p-robots.json](./93029-p-robots.json) |
+| P-Type | 282377 | [282377-p-type.json](./282377-p-type.json) |
 | P-Walker's Simulation | 36820 | [36820-p-walkers-simulation.json](./36820-p-walkers-simulation.json) |
 | P.3 | 123815 | [123815-p-3.json](./123815-p-3.json) |
 | P.A.I.N.T. | 161522 | [161522-p-a-i-n-t.json](./161522-p-a-i-n-t.json) |
@@ -119,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-in-Time | 282488 | [282488-pac-in-time.json](./282488-pac-in-time.json) |
 | Pac-In-Time | 242404 | [242404-pac-in-time.json](./242404-pac-in-time.json) |
 | Pac-In-Time | 242407 | [242407-pac-in-time.json](./242407-pac-in-time.json) |
+| Pac-It | 282365 | [282365-pac-it.json](./282365-pac-it.json) |
 | Pac-Jr. | 284388 | [284388-pac-jr.json](./284388-pac-jr.json) |
 | Pac-Kong | 40581 | [40581-pac-kong.json](./40581-pac-kong.json) |
 | Pac-Laby 3D | 266250 | [266250-pac-laby-3d.json](./266250-pac-laby-3d.json) |
@@ -323,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachi Para 15: Super Sea in Okinawa 2 | 65538 | [65538-pachi-para-15-super-sea-in-okinawa-2.json](./65538-pachi-para-15-super-sea-in-okinawa-2.json) |
 | Pachi Para 17: New Sea Story With Agnes Lum | 65558 | [65558-pachi-para-17-new-sea-story-with-agnes-lum.json](./65558-pachi-para-17-new-sea-story-with-agnes-lum.json) |
 | Pachi tto to Pachi-kake da se! Pachi-pachi tokimeki Hanabi Taikai! | 358496 | [358496-pachi-tto-to-pachi-kake-da-se-pachi-pachi-tokimeki-hanabi-taikai.json](./358496-pachi-tto-to-pachi-kake-da-se-pachi-pachi-tokimeki-hanabi-taikai.json) |
+| Pachi-pachi Pachi-Slot: New Pulsar-hen | 282394 | [282394-pachi-pachi-pachi-slot-new-pulsar-hen.json](./282394-pachi-pachi-pachi-slot-new-pulsar-hen.json) |
 | Pachi-Pachi Typing | 397100 | [397100-pachi-pachi-typing.json](./397100-pachi-pachi-typing.json) |
 | Pachi-Slot Adventure 2 | 48796 | [48796-pachi-slot-adventure-2.json](./48796-pachi-slot-adventure-2.json) |
 | Pachi-Slot Adventure 3: Bitaoshii 7 Kenzan! | 48795 | [48795-pachi-slot-adventure-3-bitaoshii-7-kenzan.json](./48795-pachi-slot-adventure-3-bitaoshii-7-kenzan.json) |
@@ -3431,6 +3434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pazinko! | 369707 | [369707-pazinko.json](./369707-pazinko.json) |
 | Pazleum | 366706 | [366706-pazleum.json](./366706-pazleum.json) |
 | PazuDora Gold | 120866 | [120866-pazudora-gold.json](./120866-pazudora-gold.json) |
+| Pazuru | 282371 | [282371-pazuru.json](./282371-pazuru.json) |
 | Pazuru | 85595 | [85595-pazuru.json](./85595-pazuru.json) |
 | Pazuru in Airou | 65177 | [65177-pazuru-in-airou.json](./65177-pazuru-in-airou.json) |
 | Pazzon | 92649 | [92649-pazzon.json](./92649-pazzon.json) |
@@ -4405,6 +4409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perish the Thoth | 271458 | [271458-perish-the-thoth.json](./271458-perish-the-thoth.json) |
 | Perish: Exodus | 261143 | [261143-perish-exodus.json](./261143-perish-exodus.json) |
 | Perished Truth | 348026 | [348026-perished-truth.json](./348026-perished-truth.json) |
+| Perished World Merchant | 282362 | [282362-perished-world-merchant.json](./282362-perished-world-merchant.json) |
 | Perished: The Zurkez Project | 65975 | [65975-perished-the-zurkez-project.json](./65975-perished-the-zurkez-project.json) |
 | Perisher | 135492 | [135492-perisher.json](./135492-perisher.json) |
 | Perisno | 356202 | [356202-perisno.json](./356202-perisno.json) |
@@ -4772,6 +4777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petal Crash Online | 149973 | [149973-petal-crash-online.json](./149973-petal-crash-online.json) |
 | Petal Quest | 404038 | [404038-petal-quest.json](./404038-petal-quest.json) |
 | Petals | 222614 | [222614-petals.json](./222614-petals.json) |
+| Petals Around the Rose | 282378 | [282378-petals-around-the-rose.json](./282378-petals-around-the-rose.json) |
 | Petals of Doom | 133682 | [133682-petals-of-doom.json](./133682-petals-of-doom.json) |
 | Petals of the Star Curtain | 153331 | [153331-petals-of-the-star-curtain.json](./153331-petals-of-the-star-curtain.json) |
 | Petals to Petals | 364384 | [364384-petals-to-petals.json](./364384-petals-to-petals.json) |
@@ -10455,6 +10461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokelike | 402114 | [402114-pokelike.json](./402114-pokelike.json) |
 | Pokémate | 61003 | [61003-pokemate.json](./61003-pokemate.json) |
 | Pokémath! | 291987 | [291987-pokemath.json](./291987-pokemath.json) |
+| PokéMaze | 282375 | [282375-pokemaze.json](./282375-pokemaze.json) |
 | Pokémblem | 257412 | [257412-pokemblem.json](./257412-pokemblem.json) |
 | PokeMMO | 127976 | [127976-pokemmo.json](./127976-pokemmo.json) |
 | Pokemomcore | 299120 | [299120-pokemomcore.json](./299120-pokemomcore.json) |
@@ -11025,6 +11032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Panteón | 314723 | [314723-pokemon-panteon.json](./314723-pokemon-panteon.json) |
 | Pokémon Parallel Emerald | 397762 | [397762-pokemon-parallel-emerald.json](./397762-pokemon-parallel-emerald.json) |
 | Pokémon Party Mini | 66031 | [66031-pokemon-party-mini.json](./66031-pokemon-party-mini.json) |
+| Pokémon Party Mini 2 | 282376 | [282376-pokemon-party-mini-2.json](./282376-pokemon-party-mini-2.json) |
 | Pokémon Pathways | 154415 | [154415-pokemon-pathways.json](./154415-pokemon-pathways.json) |
 | Pokémon PC Master | 181508 | [181508-pokemon-pc-master.json](./181508-pokemon-pc-master.json) |
 | Pokémon Peach Version | 359916 | [359916-pokemon-peach-version.json](./359916-pokemon-peach-version.json) |
