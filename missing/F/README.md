@@ -5689,6 +5689,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Combat | 381297 | [381297-fire-combat.json](./381297-fire-combat.json) |
 | Fire Commander: First Response | 166188 | [166188-fire-commander-first-response.json](./166188-fire-commander-first-response.json) |
 | Fire Copter | 69475 | [69475-fire-copter.json](./69475-fire-copter.json) |
+| Fire Dragon | 247296 | [247296-fire-dragon.json](./247296-fire-dragon.json) |
+| Fire Dragon | 247297 | [247297-fire-dragon.json](./247297-fire-dragon.json) |
 | Fire Emblem | 1439 | [1439-fire-emblem.json](./1439-fire-emblem.json) |
 | Fire Emblem 7 Legacy | 373022 | [373022-fire-emblem-7-legacy.json](./373022-fire-emblem-7-legacy.json) |
 | Fire Emblem 8: Self-Randomizing | 259869 | [259869-fire-emblem-8-self-randomizing.json](./259869-fire-emblem-8-self-randomizing.json) |
@@ -6417,6 +6419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing | 209435 | [209435-fishing.json](./209435-fishing.json) |
 | Fishing | 245477 | [245477-fishing.json](./245477-fishing.json) |
 | Fishing | 246456 | [246456-fishing.json](./246456-fishing.json) |
+| Fishing | 247263 | [247263-fishing.json](./247263-fishing.json) |
 | Fishing | 358837 | [358837-fishing.json](./358837-fishing.json) |
 | Fishing | 359190 | [359190-fishing.json](./359190-fishing.json) |
 | Fishing 3D | 141692 | [141692-fishing-3d.json](./141692-fishing-3d.json) |
@@ -9480,6 +9483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest 3 | 381236 | [381236-forest-3.json](./381236-forest-3.json) |
 | Forest 6174 | 410354 | [410354-forest-6174.json](./410354-forest-6174.json) |
 | Forest Adventure | 195727 | [195727-forest-adventure.json](./195727-forest-adventure.json) |
+| Forest Adventure | 247280 | [247280-forest-adventure.json](./247280-forest-adventure.json) |
 | Forest Adventure | 262578 | [262578-forest-adventure.json](./262578-forest-adventure.json) |
 | Forest Asylum 2 | 352359 | [352359-forest-asylum-2.json](./352359-forest-asylum-2.json) |
 | Forest at World's End | 25917 | [25917-forest-at-worlds-end.json](./25917-forest-at-worlds-end.json) |
@@ -11853,6 +11857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friends vs. Friends: El Pelicano | 376700 | [376700-friends-vs-friends-el-pelicano.json](./376700-friends-vs-friends-el-pelicano.json) |
 | Friends vs. Friends: Wired Wrecks | 271639 | [271639-friends-vs-friends-wired-wrecks.json](./271639-friends-vs-friends-wired-wrecks.json) |
 | Friends World | 246833 | [246833-friends-world.json](./246833-friends-world.json) |
+| Friends: Always Stick Together | 247253 | [247253-friends-always-stick-together.json](./247253-friends-always-stick-together.json) |
 | Friends: Seishun no Kagayaki | 258854 | [258854-friends-seishun-no-kagayaki.json](./258854-friends-seishun-no-kagayaki.json) |
 | Friends: Seishun no Kagayaki - Best Version | 258859 | [258859-friends-seishun-no-kagayaki-best-version.json](./258859-friends-seishun-no-kagayaki-best-version.json) |
 | Friends: The One With All The Trivia | 43623 | [43623-friends-the-one-with-all-the-trivia.json](./43623-friends-the-one-with-all-the-trivia.json) |
@@ -12432,6 +12437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline Defense 2 | 234935 | [234935-frontline-defense-2.json](./234935-frontline-defense-2.json) |
 | Frontline Force | 259421 | [259421-frontline-force.json](./259421-frontline-force.json) |
 | Frontline Fury: Trenches, Mud & Blood | 332965 | [332965-frontline-fury-trenches-mud-and-blood.json](./332965-frontline-fury-trenches-mud-and-blood.json) |
+| Frontline Gallop | 247265 | [247265-frontline-gallop.json](./247265-frontline-gallop.json) |
 | Frontline Grunt | 211516 | [211516-frontline-grunt.json](./211516-frontline-grunt.json) |
 | Frontline Heroes VR | 41914 | [41914-frontline-heroes-vr.json](./41914-frontline-heroes-vr.json) |
 | Frontline Heroes VR: 2017 Edition | 170878 | [170878-frontline-heroes-vr-2017-edition.json](./170878-frontline-heroes-vr-2017-edition.json) |
@@ -12602,6 +12608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fru | 19917 | [19917-fru.json](./19917-fru.json) |
 | Fruboom | 315706 | [315706-fruboom.json](./315706-fruboom.json) |
 | Fruit | 134919 | [134919-fruit.json](./134919-fruit.json) |
+| Fruit | 247254 | [247254-fruit.json](./247254-fruit.json) |
 | Fruit 66 | 251903 | [251903-fruit-66.json](./251903-fruit-66.json) |
 | Fruit Adventure | 214487 | [214487-fruit-adventure.json](./214487-fruit-adventure.json) |
 | Fruit Adventure Returns | 332531 | [332531-fruit-adventure-returns.json](./332531-fruit-adventure-returns.json) |
