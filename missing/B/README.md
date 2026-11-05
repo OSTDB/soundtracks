@@ -951,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4776,6 +4777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beam It Up! | 390238 | [390238-beam-it-up.json](./390238-beam-it-up.json) |
 | Beam Me Up, Bro! | 421848 | [421848-beam-me-up-bro.json](./421848-beam-me-up-bro.json) |
 | Beam Moto Driver Playground | 368027 | [368027-beam-moto-driver-playground.json](./368027-beam-moto-driver-playground.json) |
+| Beam of Magic | 282999 | [282999-beam-of-magic.json](./282999-beam-of-magic.json) |
 | Beam Splitter | 213207 | [213207-beam-splitter.json](./213207-beam-splitter.json) |
 | Beam Time | 366287 | [366287-beam-time.json](./366287-beam-time.json) |
 | Beam'em Up | 42778 | [42778-beamem-up.json](./42778-beamem-up.json) |
@@ -9550,6 +9552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasted GutZ | 391619 | [391619-blasted-gutz.json](./391619-blasted-gutz.json) |
 | Blasted Road Terror | 34658 | [34658-blasted-road-terror.json](./34658-blasted-road-terror.json) |
 | Blasten!! | 161408 | [161408-blasten.json](./161408-blasten.json) |
+| Blaster | 282971 | [282971-blaster.json](./282971-blaster.json) |
 | Blaster | 345949 | [345949-blaster.json](./345949-blaster.json) |
 | Blaster | 38540 | [38540-blaster.json](./38540-blaster.json) |
 | Blaster Boy | 348547 | [348547-blaster-boy.json](./348547-blaster-boy.json) |
