@@ -1676,6 +1676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Launch & Merge : Hexa Puzzle | 100014 | [100014-launch-and-merge-hexa-puzzle.json](./100014-launch-and-merge-hexa-puzzle.json) |
 | Launch Ball | 369744 | [369744-launch-ball.json](./369744-launch-ball.json) |
 | Launch Break | 135788 | [135788-launch-break.json](./135788-launch-break.json) |
+| Launch Director | 251936 | [251936-launch-director.json](./251936-launch-director.json) |
 | Launch Dude | 339285 | [339285-launch-dude.json](./339285-launch-dude.json) |
 | Launch Party | 55619 | [55619-launch-party.json](./55619-launch-party.json) |
 | Launch Squad | 31405 | [31405-launch-squad.json](./31405-launch-squad.json) |
@@ -9001,6 +9002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loya Online | 124450 | [124450-loya-online.json](./124450-loya-online.json) |
 | Loyalty | 419776 | [419776-loyalty.json](./419776-loyalty.json) |
 | Loyalty and Blood: Viktor Origins | 89774 | [89774-loyalty-and-blood-viktor-origins.json](./89774-loyalty-and-blood-viktor-origins.json) |
+| LoYuno | 251946 | [251946-loyuno.json](./251946-loyuno.json) |
 | Lozenge | 88010 | [88010-lozenge.json](./88010-lozenge.json) |
 | LOZT: Legion of Zombie Terrors | 393048 | [393048-lozt-legion-of-zombie-terrors.json](./393048-lozt-legion-of-zombie-terrors.json) |
 | LP | 150451 | [150451-lp.json](./150451-lp.json) |
@@ -9491,6 +9493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumiel the Awakening | 260165 | [260165-lumiel-the-awakening.json](./260165-lumiel-the-awakening.json) |
 | Lumien | 236409 | [236409-lumien.json](./236409-lumien.json) |
 | Lumiere | 415100 | [415100-lumiere.json](./415100-lumiere.json) |
+| LumiereMagna | 251925 | [251925-lumieremagna.json](./251925-lumieremagna.json) |
 | Lumiland | 166726 | [166726-lumiland.json](./166726-lumiland.json) |
 | Lumilight: The Fifth Energy | 350555 | [350555-lumilight-the-fifth-energy.json](./350555-lumilight-the-fifth-energy.json) |
 | Lumin: Echo of Spacetime | 423885 | [423885-lumin-echo-of-spacetime.json](./423885-lumin-echo-of-spacetime.json) |
