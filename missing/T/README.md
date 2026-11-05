@@ -1338,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Elements: 2nd Chapter | 168848 | [168848-tales-of-the-elements-2nd-chapter.json](./168848-tales-of-the-elements-2nd-chapter.json) |
 | Tales of the Forgotten | 333875 | [333875-tales-of-the-forgotten.json](./333875-tales-of-the-forgotten.json) |
 | Tales of the Heroes: Twin Brave | 42760 | [42760-tales-of-the-heroes-twin-brave.json](./42760-tales-of-the-heroes-twin-brave.json) |
+| Tales of the Laser Knights | 258268 | [258268-tales-of-the-laser-knights.json](./258268-tales-of-the-laser-knights.json) |
 | Tales of the Lost: The Stranger | 358458 | [358458-tales-of-the-lost-the-stranger.json](./358458-tales-of-the-lost-the-stranger.json) |
 | Tales of the Lumminai | 76341 | [76341-tales-of-the-lumminai.json](./76341-tales-of-the-lumminai.json) |
 | Tales of the Magic Ball | 239747 | [239747-tales-of-the-magic-ball.json](./239747-tales-of-the-magic-ball.json) |
@@ -2643,6 +2644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tater Spud | 207624 | [207624-tater-spud.json](./207624-tater-spud.json) |
 | Tatlone | 415066 | [415066-tatlone.json](./415066-tatlone.json) |
 | Tatoe Sore ga Unmei de Atte mo | 329978 | [329978-tatoe-sore-ga-unmei-de-atte-mo.json](./329978-tatoe-sore-ga-unmei-de-atte-mo.json) |
+| Tatonka the Space Whale | 258277 | [258277-tatonka-the-space-whale.json](./258277-tatonka-the-space-whale.json) |
 | Tatooine Run | 359453 | [359453-tatooine-run.json](./359453-tatooine-run.json) |
 | TatouPho Redact | 104546 | [104546-tatoupho-redact.json](./104546-tatoupho-redact.json) |
 | Tatsu | 33468 | [33468-tatsu.json](./33468-tatsu.json) |
@@ -5397,6 +5399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventure of Pixi: The 3 Stones | 336828 | [336828-the-adventure-of-pixi-the-3-stones.json](./336828-the-adventure-of-pixi-the-3-stones.json) |
 | The Adventure of Popo | 309948 | [309948-the-adventure-of-popo.json](./309948-the-adventure-of-popo.json) |
 | The Adventure of Ravi 'n' Navi | 180982 | [180982-the-adventure-of-ravi-n-navi.json](./180982-the-adventure-of-ravi-n-navi.json) |
+| The Adventure of Ted and the Lost Magic Crystals | 258244 | [258244-the-adventure-of-ted-and-the-lost-magic-crystals.json](./258244-the-adventure-of-ted-and-the-lost-magic-crystals.json) |
 | The Adventure Pals | 22359 | [22359-the-adventure-pals.json](./22359-the-adventure-pals.json) |
 | The Adventure Remastered | 323591 | [323591-the-adventure-remastered.json](./323591-the-adventure-remastered.json) |
 | The Adventure Story of Yixiu | 293385 | [293385-the-adventure-story-of-yixiu.json](./293385-the-adventure-story-of-yixiu.json) |
@@ -9633,6 +9636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The friends of Ringo Ishikawa | 98898 | [98898-the-friends-of-ringo-ishikawa.json](./98898-the-friends-of-ringo-ishikawa.json) |
 | The Friends of Ringo Ishikawa & Arrest of a Stone Buddha | 142757 | [142757-the-friends-of-ringo-ishikawa-and-arrest-of-a-stone-buddha.json](./142757-the-friends-of-ringo-ishikawa-and-arrest-of-a-stone-buddha.json) |
 | The Friends of Ringo Ishikawa: Special Edition | 406100 | [406100-the-friends-of-ringo-ishikawa-special-edition.json](./406100-the-friends-of-ringo-ishikawa-special-edition.json) |
+| The Friends We Left Behind | 258246 | [258246-the-friends-we-left-behind.json](./258246-the-friends-we-left-behind.json) |
 | The Fright Before Christmas | 202560 | [202560-the-fright-before-christmas.json](./202560-the-fright-before-christmas.json) |
 | The Frightening Nightmare of Little Eddy | 184996 | [184996-the-frightening-nightmare-of-little-eddy.json](./184996-the-frightening-nightmare-of-little-eddy.json) |
 | The Frog Festival | 382987 | [382987-the-frog-festival.json](./382987-the-frog-festival.json) |
@@ -10733,6 +10737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hungry Horde: Holiday Hijinx | 372821 | [372821-the-hungry-horde-holiday-hijinx.json](./372821-the-hungry-horde-holiday-hijinx.json) |
 | The Hungry House | 179502 | [179502-the-hungry-house.json](./179502-the-hungry-house.json) |
 | The Hungry Lamb: Traveling in the Late Ming Dynasty | 296195 | [296195-the-hungry-lamb-traveling-in-the-late-ming-dynasty.json](./296195-the-hungry-lamb-traveling-in-the-late-ming-dynasty.json) |
+| The Hungry Town | 258283 | [258283-the-hungry-town.json](./258283-the-hungry-town.json) |
 | The Hungry Witch and the Gourmet Dish | 185157 | [185157-the-hungry-witch-and-the-gourmet-dish.json](./185157-the-hungry-witch-and-the-gourmet-dish.json) |
 | The Hunsa Magic | 199366 | [199366-the-hunsa-magic.json](./199366-the-hunsa-magic.json) |
 | The Hunt | 139172 | [139172-the-hunt.json](./139172-the-hunt.json) |
@@ -18662,6 +18667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch of Fern Island: Spooky Witch Pack | 322728 | [322728-the-witch-of-fern-island-spooky-witch-pack.json](./322728-the-witch-of-fern-island-spooky-witch-pack.json) |
 | The Witch of Fern Island: Wonderful Witch Pack | 289949 | [289949-the-witch-of-fern-island-wonderful-witch-pack.json](./289949-the-witch-of-fern-island-wonderful-witch-pack.json) |
 | The Witch of Sherdorne Forest | 248112 | [248112-the-witch-of-sherdorne-forest.json](./248112-the-witch-of-sherdorne-forest.json) |
+| The Witch of Shunrald | 258279 | [258279-the-witch-of-shunrald.json](./258279-the-witch-of-shunrald.json) |
 | The Witch of the Wake | 320008 | [320008-the-witch-of-the-wake.json](./320008-the-witch-of-the-wake.json) |
 | The Witch Veils: The Mansion | 288622 | [288622-the-witch-veils-the-mansion.json](./288622-the-witch-veils-the-mansion.json) |
 | The Witch-in-Training and the Magic Seal | 191619 | [191619-the-witch-in-training-and-the-magic-seal.json](./191619-the-witch-in-training-and-the-magic-seal.json) |
@@ -30360,6 +30366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tripgate | 142866 | [142866-tripgate.json](./142866-tripgate.json) |
 | Triphammer | 378920 | [378920-triphammer.json](./378920-triphammer.json) |
 | Tripitaka: The Pilgrimage of Tripitaka | 254895 | [254895-tripitaka-the-pilgrimage-of-tripitaka.json](./254895-tripitaka-the-pilgrimage-of-tripitaka.json) |
+| Triplane Furball | 258288 | [258288-triplane-furball.json](./258288-triplane-furball.json) |
 | Triplane Turmoil | 70449 | [70449-triplane-turmoil.json](./70449-triplane-turmoil.json) |
 | Triplane Turmoil II | 73553 | [73553-triplane-turmoil-ii.json](./73553-triplane-turmoil-ii.json) |
 | Triple | 152146 | [152146-triple.json](./152146-triple.json) |
