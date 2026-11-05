@@ -9714,6 +9714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Sandbox | 405631 | [405631-horizon-sandbox.json](./405631-horizon-sandbox.json) |
 | Horizon Shift | 17896 | [17896-horizon-shift.json](./17896-horizon-shift.json) |
 | Horizon Source | 86511 | [86511-horizon-source.json](./86511-horizon-source.json) |
+| Horizon Springs | 277632 | [277632-horizon-springs.json](./277632-horizon-springs.json) |
 | Horizon Steel Frontiers | 377555 | [377555-horizon-steel-frontiers.json](./377555-horizon-steel-frontiers.json) |
 | Horizon To Crinoa: Have Faith in Radiance - Prototype | 367132 | [367132-horizon-to-crinoa-have-faith-in-radiance-prototype.json](./367132-horizon-to-crinoa-have-faith-in-radiance-prototype.json) |
 | Horizon V | 24880 | [24880-horizon-v.json](./24880-horizon-v.json) |
