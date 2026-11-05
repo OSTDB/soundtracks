@@ -1154,6 +1154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umineko no Naku Koro ni: Tenshi 17-sai Higashi-shi - 44a | 272537 | [272537-umineko-no-naku-koro-ni-tenshi-17-sai-higashi-shi-44a.json](./272537-umineko-no-naku-koro-ni-tenshi-17-sai-higashi-shi-44a.json) |
 | Umineko no Naku Koro ni: Valentine Paper | 272539 | [272539-umineko-no-naku-koro-ni-valentine-paper.json](./272539-umineko-no-naku-koro-ni-valentine-paper.json) |
 | Umineko no Naku Koro ni: Warera no Kokuhaku | 272534 | [272534-umineko-no-naku-koro-ni-warera-no-kokuhaku.json](./272534-umineko-no-naku-koro-ni-warera-no-kokuhaku.json) |
+| Umineko Project | 282953 | [282953-umineko-project.json](./282953-umineko-project.json) |
 | Umineko When They Cry: Answer Arcs | 75081 | [75081-umineko-when-they-cry-answer-arcs.json](./75081-umineko-when-they-cry-answer-arcs.json) |
 | Umineko When They Cry: Episode 1 - Legend of the Golden Witch | 272309 | [272309-umineko-when-they-cry-episode-1-legend-of-the-golden-witch.json](./272309-umineko-when-they-cry-episode-1-legend-of-the-golden-witch.json) |
 | Umineko When They Cry: Episode 2 - Turn of the Golden Witch | 272310 | [272310-umineko-when-they-cry-episode-2-turn-of-the-golden-witch.json](./272310-umineko-when-they-cry-episode-2-turn-of-the-golden-witch.json) |
