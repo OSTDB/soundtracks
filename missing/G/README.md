@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaia Online | 125884 | [125884-gaia-online.json](./125884-gaia-online.json) |
 | Gaia Project | 150247 | [150247-gaia-project.json](./150247-gaia-project.json) |
 | Gaia Saver: Hero Saidai no Sakusen | 42239 | [42239-gaia-saver-hero-saidai-no-sakusen.json](./42239-gaia-saver-hero-saidai-no-sakusen.json) |
+| Gaia Survivors | 256605 | [256605-gaia-survivors.json](./256605-gaia-survivors.json) |
 | Gaia Trek | 248039 | [248039-gaia-trek.json](./248039-gaia-trek.json) |
 | Gaia-ttack | 330159 | [330159-gaia-ttack.json](./330159-gaia-ttack.json) |
 | Gaia: A Protetora da Natureza | 261227 | [261227-gaia-a-protetora-da-natureza.json](./261227-gaia-a-protetora-da-natureza.json) |
@@ -4105,6 +4106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giant Snake Girl Wants the Burger! | 383379 | [383379-giant-snake-girl-wants-the-burger.json](./383379-giant-snake-girl-wants-the-burger.json) |
 | Giant Trucks Driving Simulator | 90355 | [90355-giant-trucks-driving-simulator.json](./90355-giant-trucks-driving-simulator.json) |
 | Giant Waifu Wash Simulator | 406570 | [406570-giant-waifu-wash-simulator.json](./406570-giant-waifu-wash-simulator.json) |
+| Giant Wishes | 256596 | [256596-giant-wishes.json](./256596-giant-wishes.json) |
 | GiAnt: Warfare | 172118 | [172118-giant-warfare.json](./172118-giant-warfare.json) |
 | Giant's Chalice | 134877 | [134877-giants-chalice.json](./134877-giants-chalice.json) |
 | Giant’s Heart | 349948 | [349948-giant-s-heart.json](./349948-giant-s-heart.json) |
@@ -7061,6 +7063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goonya Fighter: Tenkaichi Hi-Speed Battle!! | 192126 | [192126-goonya-fighter-tenkaichi-hi-speed-battle.json](./192126-goonya-fighter-tenkaichi-hi-speed-battle.json) |
 | Goonya Fighter: Uiro | 192115 | [192115-goonya-fighter-uiro.json](./192115-goonya-fighter-uiro.json) |
 | Goonya Fighter: Yumi Terasaka | 192118 | [192118-goonya-fighter-yumi-terasaka.json](./192118-goonya-fighter-yumi-terasaka.json) |
+| Goonya Monster: Additional Character - All Guys Pack | 256628 | [256628-goonya-monster-additional-character-all-guys-pack.json](./256628-goonya-monster-additional-character-all-guys-pack.json) |
 | Goonya Monster: Additional Character (Buster) - Clione | 248720 | [248720-goonya-monster-additional-character-buster-clione.json](./248720-goonya-monster-additional-character-buster-clione.json) |
 | Goonya Monster: Additional Character (Buster) - Gatchman V/All Guys | 256423 | [256423-goonya-monster-additional-character-buster-gatchman-v-all-guys.json](./256423-goonya-monster-additional-character-buster-gatchman-v-all-guys.json) |
 | Goonya Monster: Additional Character (Buster) - Jingiskan's Jinkun/Mascot Character | 249377 | [249377-goonya-monster-additional-character-buster-jingiskans-jinkun-mascot-character.json](./249377-goonya-monster-additional-character-buster-jingiskans-jinkun-mascot-character.json) |
