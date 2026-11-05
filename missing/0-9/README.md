@@ -1624,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2006 FIFA World Cup | 5474 | [5474-2006-fifa-world-cup.json](./5474-2006-fifa-world-cup.json) |
 | 2006 Real Soccer | 116346 | [116346-2006-real-soccer.json](./116346-2006-real-soccer.json) |
 | 2007 | 283079 | [283079-2007.json](./283079-2007.json) |
+| 200V Mahjong Challenge Spirits | 261057 | [261057-200v-mahjong-challenge-spirits.json](./261057-200v-mahjong-challenge-spirits.json) |
 | 201 Street | 377861 | [377861-201-street.json](./377861-201-street.json) |
 | 201: The Bad Number | 328161 | [328161-201-the-bad-number.json](./328161-201-the-bad-number.json) |
 | 2010 FIFA World Cup South Africa | 240361 | [240361-2010-fifa-world-cup-south-africa.json](./240361-2010-fifa-world-cup-south-africa.json) |
@@ -2071,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-Legged Race B | 354403 | [354403-3-legged-race-b.json](./354403-3-legged-race-b.json) |
 | 3-Letter Competitive Crossword | 416745 | [416745-3-letter-competitive-crossword.json](./416745-3-letter-competitive-crossword.json) |
 | 3-nen B-Gumi Kinpachi-sensei: Densetsu no Kyoudan ni Tate! | 65022 | [65022-3-nen-b-gumi-kinpachi-sensei-densetsu-no-kyoudan-ni-tate.json](./65022-3-nen-b-gumi-kinpachi-sensei-densetsu-no-kyoudan-ni-tate.json) |
+| 3-pun Tenkatouitsu: Bakumatsu Quiz-hen | 261058 | [261058-3-pun-tenkatouitsu-bakumatsu-quiz-hen.json](./261058-3-pun-tenkatouitsu-bakumatsu-quiz-hen.json) |
 | 3-pun Tenkatouitsu: Higashi Nippon Sengoku Quiz-hen | 261060 | [261060-3-pun-tenkatouitsu-higashi-nippon-sengoku-quiz-hen.json](./261060-3-pun-tenkatouitsu-higashi-nippon-sengoku-quiz-hen.json) |
 | 3-pun Tenkatouitsu: Nishi Nippon Sengoku Quiz-hen | 261061 | [261061-3-pun-tenkatouitsu-nishi-nippon-sengoku-quiz-hen.json](./261061-3-pun-tenkatouitsu-nishi-nippon-sengoku-quiz-hen.json) |
 | 3-Pun Yosou Umaban Club | 91814 | [91814-3-pun-yosou-umaban-club.json](./91814-3-pun-yosou-umaban-club.json) |
