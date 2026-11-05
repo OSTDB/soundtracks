@@ -2231,6 +2231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkstar: The Interactive Movie | 9118 | [9118-darkstar-the-interactive-movie.json](./9118-darkstar-the-interactive-movie.json) |
 | Darkstone | 660 | [660-darkstone.json](./660-darkstone.json) |
 | Darkstone Restoration | 397902 | [397902-darkstone-restoration.json](./397902-darkstone-restoration.json) |
+| DarkStorm | 286330 | [286330-darkstorm.json](./286330-darkstorm.json) |
 | DarkStory Online | 122155 | [122155-darkstory-online.json](./122155-darkstory-online.json) |
 | DarkSwarm | 244073 | [244073-darkswarm.json](./244073-darkswarm.json) |
 | DarkSwitch | 345416 | [345416-darkswitch.json](./345416-darkswitch.json) |
@@ -8282,6 +8283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diary Girl | 67992 | [67992-diary-girl.json](./67992-diary-girl.json) |
 | Diary of a Step-Sister | 239880 | [239880-diary-of-a-step-sister.json](./239880-diary-of-a-step-sister.json) |
 | Diary of a Witch | 196329 | [196329-diary-of-a-witch.json](./196329-diary-of-a-witch.json) |
+| Diary of a Zomboni Driver | 286321 | [286321-diary-of-a-zomboni-driver.json](./286321-diary-of-a-zomboni-driver.json) |
 | Diary of Broken Dreams | 193327 | [193327-diary-of-broken-dreams.json](./193327-diary-of-broken-dreams.json) |
 | Diary of Defender | 104800 | [104800-diary-of-defender.json](./104800-diary-of-defender.json) |
 | Diary of Lucie: Hammer Weapon Pack | 264506 | [264506-diary-of-lucie-hammer-weapon-pack.json](./264506-diary-of-lucie-hammer-weapon-pack.json) |
@@ -16610,6 +16612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dros | 172216 | [172216-dros.json](./172216-dros.json) |
 | Drosera: Lady Bad End no Hatsukoi | 321015 | [321015-drosera-lady-bad-end-no-hatsukoi.json](./321015-drosera-lady-bad-end-no-hatsukoi.json) |
 | Drosoph Hotel | 75039 | [75039-drosoph-hotel.json](./75039-drosoph-hotel.json) |
+| Droste Effect | 286322 | [286322-droste-effect.json](./286322-droste-effect.json) |
 | Drought | 261442 | [261442-drought.json](./261442-drought.json) |
 | Drova: Forsaken Kin | 141490 | [141490-drova-forsaken-kin.json](./141490-drova-forsaken-kin.json) |
 | Drow Space Shooter | 360557 | [360557-drow-space-shooter.json](./360557-drow-space-shooter.json) |
