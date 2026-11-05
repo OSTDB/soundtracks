@@ -1933,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapphire Moon: Forever Memories | 215669 | [215669-sapphire-moon-forever-memories.json](./215669-sapphire-moon-forever-memories.json) |
 | Sapphire Moon: Your Best Wishes | 111230 | [111230-sapphire-moon-your-best-wishes.json](./111230-sapphire-moon-your-best-wishes.json) |
 | Sapphire Safari | 171997 | [171997-sapphire-safari.json](./171997-sapphire-safari.json) |
+| Sapphire Snowe: The Bear, The Beast & The Blizzard | 284158 | [284158-sapphire-snowe-the-bear-the-beast-and-the-blizzard.json](./284158-sapphire-snowe-the-bear-the-beast-and-the-blizzard.json) |
 | Sapphire Tempest | 401724 | [401724-sapphire-tempest.json](./401724-sapphire-tempest.json) |
 | Sapphire Yours | 59571 | [59571-sapphire-yours.json](./59571-sapphire-yours.json) |
 | Sapu | 233025 | [233025-sapu.json](./233025-sapu.json) |
@@ -7628,6 +7629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheer Poison | 142884 | [142884-sheer-poison.json](./142884-sheer-poison.json) |
 | Sheesh Adventures | 58492 | [58492-sheesh-adventures.json](./58492-sheesh-adventures.json) |
 | Shei Toule Wo de Nu Pengyou | 322344 | [322344-shei-toule-wo-de-nu-pengyou.json](./322344-shei-toule-wo-de-nu-pengyou.json) |
+| Sheila | 284139 | [284139-sheila.json](./284139-sheila.json) |
 | Shel: The Cure | 367565 | [367565-shel-the-cure.json](./367565-shel-the-cure.json) |
 | Sheldon Cooper Presents Fun with Flags | 180632 | [180632-sheldon-cooper-presents-fun-with-flags.json](./180632-sheldon-cooper-presents-fun-with-flags.json) |
 | Shelf | 278694 | [278694-shelf.json](./278694-shelf.json) |
@@ -7904,6 +7906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shield knight | 285308 | [285308-shield-knight.json](./285308-shield-knight.json) |
 | Shield of Breaker | 380118 | [380118-shield-of-breaker.json](./380118-shield-of-breaker.json) |
 | Shield of Shalwend | 133126 | [133126-shield-of-shalwend.json](./133126-shield-of-shalwend.json) |
+| Shield Shifter | 284114 | [284114-shield-shifter.json](./284114-shield-shifter.json) |
 | Shield Shock | 123873 | [123873-shield-shock.json](./123873-shield-shock.json) |
 | Shield Shock: Winter Wonderland Pack | 166431 | [166431-shield-shock-winter-wonderland-pack.json](./166431-shield-shock-winter-wonderland-pack.json) |
 | Shield Strike | 301126 | [301126-shield-strike.json](./301126-shield-strike.json) |
@@ -19146,7 +19149,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21979,9 +21981,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob's Atlantis Squarepantis | 43647 | [43647-spongebobs-atlantis-squarepantis.json](./43647-spongebobs-atlantis-squarepantis.json) |
 | SpongeBob's Atlantis SquarePantis SquareOff | 286583 | [286583-spongebobs-atlantis-squarepantis-squareoff.json](./286583-spongebobs-atlantis-squarepantis-squareoff.json) |
 | SpongeBob's Big Adventures | 286879 | [286879-spongebobs-big-adventures.json](./286879-spongebobs-big-adventures.json) |
+| SpongeBob's Boating Bash | 284106 | [284106-spongebobs-boating-bash.json](./284106-spongebobs-boating-bash.json) |
 | SpongeBob's Game Frenzy | 88949 | [88949-spongebobs-game-frenzy.json](./88949-spongebobs-game-frenzy.json) |
 | SpongeBob’s Idle Adventures | 266907 | [266907-spongebob-s-idle-adventures.json](./266907-spongebob-s-idle-adventures.json) |
 | SpongeBob's Pizza Toss | 326710 | [326710-spongebobs-pizza-toss.json](./326710-spongebobs-pizza-toss.json) |
+| SpongeBob's Surf & Skate Roadtrip | 284108 | [284108-spongebobs-surf-and-skate-roadtrip.json](./284108-spongebobs-surf-and-skate-roadtrip.json) |
 | SpongeBob's Surf & Skate Roadtrip | 7992 | [7992-spongebobs-surf-and-skate-roadtrip.json](./7992-spongebobs-surf-and-skate-roadtrip.json) |
 | SpongeBob's Truth or Square | 295621 | [295621-spongebobs-truth-or-square.json](./295621-spongebobs-truth-or-square.json) |
 | SpongeBob's Truth or Square | 5190 | [5190-spongebobs-truth-or-square.json](./5190-spongebobs-truth-or-square.json) |
@@ -24924,6 +24928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Bloopers | 405606 | [405606-starship-bloopers.json](./405606-starship-bloopers.json) |
 | Starship Caramba | 326776 | [326776-starship-caramba.json](./326776-starship-caramba.json) |
 | Starship Catan | 72949 | [72949-starship-catan.json](./72949-starship-catan.json) |
+| Starship Chameleon | 284126 | [284126-starship-chameleon.json](./284126-starship-chameleon.json) |
 | Starship Coaster | 278507 | [278507-starship-coaster.json](./278507-starship-coaster.json) |
 | Starship Colony | 244646 | [244646-starship-colony.json](./244646-starship-colony.json) |
 | Starship Command | 13764 | [13764-starship-command.json](./13764-starship-command.json) |
@@ -29508,6 +29513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunken Veins | 332779 | [332779-sunken-veins.json](./332779-sunken-veins.json) |
 | Sunkenland | 213475 | [213475-sunkenland.json](./213475-sunkenland.json) |
 | Sunkissed | 313831 | [313831-sunkissed.json](./313831-sunkissed.json) |
+| Sunkissed City | 284115 | [284115-sunkissed-city.json](./284115-sunkissed-city.json) |
 | SunKong | 390768 | [390768-sunkong.json](./390768-sunkong.json) |
 | Sunky the PC Port | 308122 | [308122-sunky-the-pc-port.json](./308122-sunky-the-pc-port.json) |
 | Sunky.Mpeg | 198176 | [198176-sunky-mpeg.json](./198176-sunky-mpeg.json) |
@@ -31045,6 +31051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. Crowd Control | 242112 | [242112-super-mario-bros-crowd-control.json](./242112-super-mario-bros-crowd-control.json) |
 | Super Mario Bros. DDX | 134295 | [134295-super-mario-bros-ddx.json](./134295-super-mario-bros-ddx.json) |
 | Super Mario Bros. Deluxe | 49877 | [49877-super-mario-bros-deluxe.json](./49877-super-mario-bros-deluxe.json) |
+| Super Mario Bros. Demake | 284042 | [284042-super-mario-bros-demake.json](./284042-super-mario-bros-demake.json) |
 | Super Mario Bros. Dimensions | 134074 | [134074-super-mario-bros-dimensions.json](./134074-super-mario-bros-dimensions.json) |
 | Super Mario Bros. Dimensions 2 | 134959 | [134959-super-mario-bros-dimensions-2.json](./134959-super-mario-bros-dimensions-2.json) |
 | Super Mario Bros. Dimensions Deluxe | 356137 | [356137-super-mario-bros-dimensions-deluxe.json](./356137-super-mario-bros-dimensions-deluxe.json) |
