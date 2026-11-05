@@ -9798,6 +9798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plead with the Mountain God | 177293 | [177293-plead-with-the-mountain-god.json](./177293-plead-with-the-mountain-god.json) |
 | Pleasant Vibes from the Party Garage | 260497 | [260497-pleasant-vibes-from-the-party-garage.json](./260497-pleasant-vibes-from-the-party-garage.json) |
 | Please | 134675 | [134675-please.json](./134675-please.json) |
+| Please | 247840 | [247840-please.json](./247840-please.json) |
 | Please | 29453 | [29453-please.json](./29453-please.json) |
 | Please (Don't) Touch the Art | 276478 | [276478-please-dont-touch-the-art.json](./276478-please-dont-touch-the-art.json) |
 | Please adopt me. # AI needs repair. | 135719 | [135719-please-adopt-me-ai-needs-repair.json](./135719-please-adopt-me-ai-needs-repair.json) |
