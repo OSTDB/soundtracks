@@ -954,7 +954,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -9503,6 +9502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blargle and the Quest for the Nothing Burger | 415208 | [415208-blargle-and-the-quest-for-the-nothing-burger.json](./415208-blargle-and-the-quest-for-the-nothing-burger.json) |
 | Blaring Rooms | 377873 | [377873-blaring-rooms.json](./377873-blaring-rooms.json) |
 | Blarp! | 34015 | [34015-blarp.json](./34015-blarp.json) |
+| Blasé Ace | 264405 | [264405-blase-ace.json](./264405-blase-ace.json) |
 | Blaseball | 136475 | [136475-blaseball.json](./136475-blaseball.json) |
 | Blasfemia | 343698 | [343698-blasfemia.json](./343698-blasfemia.json) |
 | Blask | 113583 | [113583-blask.json](./113583-blask.json) |
@@ -9815,6 +9815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleach: Versus Crusade | 3822 | [3822-bleach-versus-crusade.json](./3822-bleach-versus-crusade.json) |
 | Bleach: Zanpakutou Senshi | 247556 | [247556-bleach-zanpakutou-senshi.json](./247556-bleach-zanpakutou-senshi.json) |
 | Bleak | 106641 | [106641-bleak.json](./106641-bleak.json) |
+| Bleak | 264394 | [264394-bleak.json](./264394-bleak.json) |
 | Bleak | 380022 | [380022-bleak.json](./380022-bleak.json) |
 | Bleak Dystopia | 226314 | [226314-bleak-dystopia.json](./226314-bleak-dystopia.json) |
 | Bleak End | 167571 | [167571-bleak-end.json](./167571-bleak-end.json) |
