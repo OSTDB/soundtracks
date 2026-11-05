@@ -2075,6 +2075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahouteq! | 350479 | [350479-mahouteq.json](./350479-mahouteq.json) |
 | Mahoutsukai ni Naru Houhou | 97338 | [97338-mahoutsukai-ni-naru-houhou.json](./97338-mahoutsukai-ni-naru-houhou.json) |
 | Mahoutsukai no Yoru | 65487 | [65487-mahoutsukai-no-yoru.json](./65487-mahoutsukai-no-yoru.json) |
+| Mahoutsukai Sally: Astrea Palace no Party | 293951 | [293951-mahoutsukai-sally-astrea-palace-no-party.json](./293951-mahoutsukai-sally-astrea-palace-no-party.json) |
 | Mahsung Deluxe | 30738 | [30738-mahsung-deluxe.json](./30738-mahsung-deluxe.json) |
 | Mai and the Legendary Treasure | 248081 | [248081-mai-and-the-legendary-treasure.json](./248081-mai-and-the-legendary-treasure.json) |
 | Mai In The Mysterious Castle | 277595 | [277595-mai-in-the-mysterious-castle.json](./277595-mai-in-the-mysterious-castle.json) |
@@ -2973,6 +2974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mango Goes to Mewsic School | 292256 | [292256-mango-goes-to-mewsic-school.json](./292256-mango-goes-to-mewsic-school.json) |
 | Mango's Fisharium | 348890 | [348890-mangos-fisharium.json](./348890-mangos-fisharium.json) |
 | Mango's Wonderland | 252283 | [252283-mangos-wonderland.json](./252283-mangos-wonderland.json) |
+| Mangoji | 293886 | [293886-mangoji.json](./293886-mangoji.json) |
 | MangoMan | 183471 | [183471-mangoman.json](./183471-mangoman.json) |
 | Mangrove Express | 408107 | [408107-mangrove-express.json](./408107-mangrove-express.json) |
 | MangueBoy | 279241 | [279241-mangueboy.json](./279241-mangueboy.json) |
@@ -5446,6 +5448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Parkour | 241513 | [241513-math-parkour.json](./241513-math-parkour.json) |
 | Math Party Fezgugel | 360699 | [360699-math-party-fezgugel.json](./360699-math-party-fezgugel.json) |
 | Math Path | 391042 | [391042-math-path.json](./391042-math-path.json) |
+| Math Path Builder | 294089 | [294089-math-path-builder.json](./294089-math-path-builder.json) |
 | Math Patrol: The Kleptoid Threat | 49475 | [49475-math-patrol-the-kleptoid-threat.json](./49475-math-patrol-the-kleptoid-threat.json) |
 | Math Patrol: The Venus Virus | 209543 | [209543-math-patrol-the-venus-virus.json](./209543-math-patrol-the-venus-virus.json) |
 | Math Pixels | 294260 | [294260-math-pixels.json](./294260-math-pixels.json) |
@@ -5754,6 +5757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -8583,6 +8587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories: Silenced | 403100 | [403100-memories-silenced.json](./403100-memories-silenced.json) |
 | Memorion | 273824 | [273824-memorion.json](./273824-memorion.json) |
 | Memorise: Creation | 112969 | [112969-memorise-creation.json](./112969-memorise-creation.json) |
+| Memorize | 294091 | [294091-memorize.json](./294091-memorize.json) |
 | Memorize 2 | 100760 | [100760-memorize-2.json](./100760-memorize-2.json) |
 | Memorize 3 | 100753 | [100753-memorize-3.json](./100753-memorize-3.json) |
 | Memorize Cards | 150859 | [150859-memorize-cards.json](./150859-memorize-cards.json) |
@@ -12519,6 +12524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Sports | 244693 | [244693-mini-sports.json](./244693-mini-sports.json) |
 | Mini Sports Collection | 84633 | [84633-mini-sports-collection.json](./84633-mini-sports-collection.json) |
 | Mini Star Imposters | 285419 | [285419-mini-star-imposters.json](./285419-mini-star-imposters.json) |
+| Mini Star Math | 294088 | [294088-mini-star-math.json](./294088-mini-star-math.json) |
 | Mini Star Quest | 344948 | [344948-mini-star-quest.json](./344948-mini-star-quest.json) |
 | Mini Star Survivor | 262902 | [262902-mini-star-survivor.json](./262902-mini-star-survivor.json) |
 | Mini Stasol | 366918 | [366918-mini-stasol.json](./366918-mini-stasol.json) |
@@ -21078,6 +21084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Chronicles: One Way Heroics | 124745 | [124745-mystery-chronicles-one-way-heroics.json](./124745-mystery-chronicles-one-way-heroics.json) |
 | Mystery Circle | 37916 | [37916-mystery-circle.json](./37916-mystery-circle.json) |
 | Mystery Coin | 195557 | [195557-mystery-coin.json](./195557-mystery-coin.json) |
+| Mystery Combat Man 3 | 293956 | [293956-mystery-combat-man-3.json](./293956-mystery-combat-man-3.json) |
 | Mystery Combat Man 4: The End of Time | 299493 | [299493-mystery-combat-man-4-the-end-of-time.json](./299493-mystery-combat-man-4-the-end-of-time.json) |
 | Mystery Cruise | 54221 | [54221-mystery-cruise.json](./54221-mystery-cruise.json) |
 | Mystery Crypt | 261520 | [261520-mystery-crypt.json](./261520-mystery-crypt.json) |
