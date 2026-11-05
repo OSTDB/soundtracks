@@ -5452,6 +5452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirJet Fighter Sky Dominators: Aerial Assault | 268480 | [268480-airjet-fighter-sky-dominators-aerial-assault.json](./268480-airjet-fighter-sky-dominators-aerial-assault.json) |
 | AirJet Fighter Sky Dominators: Aerial Assault & World War II - Airplanes Battle | 393766 | [393766-airjet-fighter-sky-dominators-aerial-assault-and-world-war-ii-airplanes-battle.json](./393766-airjet-fighter-sky-dominators-aerial-assault-and-world-war-ii-airplanes-battle.json) |
 | AirJet Fighter: Sky Assault | 357723 | [357723-airjet-fighter-sky-assault.json](./357723-airjet-fighter-sky-assault.json) |
+| AirKano: Dr. M no Yabou | 275934 | [275934-airkano-dr-m-no-yabou.json](./275934-airkano-dr-m-no-yabou.json) |
 | Airlift | 15591 | [15591-airlift.json](./15591-airlift.json) |
 | Airline | 15592 | [15592-airline.json](./15592-airline.json) |
 | Airline | 319565 | [319565-airline.json](./319565-airline.json) |
@@ -16273,6 +16274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
