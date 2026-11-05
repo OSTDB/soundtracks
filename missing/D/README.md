@@ -3456,6 +3456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Faces | 285414 | [285414-dead-faces.json](./285414-dead-faces.json) |
 | Dead Fantasia | 393009 | [393009-dead-fantasia.json](./393009-dead-fantasia.json) |
 | Dead Feed | 379566 | [379566-dead-feed.json](./379566-dead-feed.json) |
+| Dead Fibers | 295427 | [295427-dead-fibers.json](./295427-dead-fibers.json) |
 | Dead Fish Head | 101223 | [101223-dead-fish-head.json](./101223-dead-fish-head.json) |
 | Dead for Dread | 305958 | [305958-dead-for-dread.json](./305958-dead-for-dread.json) |
 | Dead Force | 299828 | [299828-dead-force.json](./299828-dead-force.json) |
@@ -6049,6 +6050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delusion Out of Space | 247891 | [247891-delusion-out-of-space.json](./247891-delusion-out-of-space.json) |
 | Delusional | 211015 | [211015-delusional.json](./211015-delusional.json) |
 | Delusional | 377584 | [377584-delusional.json](./377584-delusional.json) |
+| Deluxe Flame Party Pack | 295446 | [295446-deluxe-flame-party-pack.json](./295446-deluxe-flame-party-pack.json) |
 | Deluxe Free Cell Solitaire | 86899 | [86899-deluxe-free-cell-solitaire.json](./86899-deluxe-free-cell-solitaire.json) |
 | Deluxe Galaga | 39026 | [39026-deluxe-galaga.json](./39026-deluxe-galaga.json) |
 | Deluxe Scrabble for Windows | 78722 | [78722-deluxe-scrabble-for-windows.json](./78722-deluxe-scrabble-for-windows.json) |
@@ -15464,6 +15466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Farm | 146508 | [146508-dream-farm.json](./146508-dream-farm.json) |
 | Dream Fight Will | 216735 | [216735-dream-fight-will.json](./216735-dream-fight-will.json) |
 | Dream Fire | 241951 | [241951-dream-fire.json](./241951-dream-fire.json) |
+| Dream Fish | 295516 | [295516-dream-fish.json](./295516-dream-fish.json) |
 | Dream Fishing | 128823 | [128823-dream-fishing.json](./128823-dream-fishing.json) |
 | Dream Flash | 118251 | [118251-dream-flash.json](./118251-dream-flash.json) |
 | Dream Football Club | 220843 | [220843-dream-football-club.json](./220843-dream-football-club.json) |
