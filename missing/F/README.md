@@ -10090,6 +10090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Season 13 | 395472 | [395472-fortnite-festival-season-13.json](./395472-fortnite-festival-season-13.json) |
 | Fortnite Festival: Season 14 | 403035 | [403035-fortnite-festival-season-14.json](./403035-fortnite-festival-season-14.json) |
 | Fortnite Festival: Season 15 | 411844 | [411844-fortnite-festival-season-15.json](./411844-fortnite-festival-season-15.json) |
+| Fortnite Festival: Season 2 | 288005 | [288005-fortnite-festival-season-2.json](./288005-fortnite-festival-season-2.json) |
 | Fortnite Festival: Season 3 | 299445 | [299445-fortnite-festival-season-3.json](./299445-fortnite-festival-season-3.json) |
 | Fortnite Festival: Season 4 | 305602 | [305602-fortnite-festival-season-4.json](./305602-fortnite-festival-season-4.json) |
 | Fortnite Festival: Season 5 | 313434 | [313434-fortnite-festival-season-5.json](./313434-fortnite-festival-season-5.json) |
