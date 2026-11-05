@@ -3352,6 +3352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scp: Breakout | 173187 | [173187-scp-breakout.json](./173187-scp-breakout.json) |
 | SCP: Breakout Story | 137837 | [137837-scp-breakout-story.json](./137837-scp-breakout-story.json) |
 | SCP: CB Multiplayer Reborn | 350939 | [350939-scp-cb-multiplayer-reborn.json](./350939-scp-cb-multiplayer-reborn.json) |
+| SCP: Centura Tycoon | 268241 | [268241-scp-centura-tycoon.json](./268241-scp-centura-tycoon.json) |
 | SCP: Chamberz | 270580 | [270580-scp-chamberz.json](./270580-scp-chamberz.json) |
 | SCP: Classified Site | 228128 | [228128-scp-classified-site.json](./228128-scp-classified-site.json) |
 | SCP: Containment Breach | 20193 | [20193-scp-containment-breach.json](./20193-scp-containment-breach.json) |
@@ -5862,6 +5863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Set 'N Det | 186861 | [186861-set-n-det.json](./186861-set-n-det.json) |
 | Set a Watch: Digital Edition | 341982 | [341982-set-a-watch-digital-edition.json](./341982-set-a-watch-digital-edition.json) |
 | Set Adrift | 374027 | [374027-set-adrift.json](./374027-set-adrift.json) |
+| Set Off Fireworks Together | 268242 | [268242-set-off-fireworks-together.json](./268242-set-off-fireworks-together.json) |
 | Set Sail | 192458 | [192458-set-sail.json](./192458-set-sail.json) |
 | Set Sail: Caribbean | 124991 | [124991-set-sail-caribbean.json](./124991-set-sail-caribbean.json) |
 | Set Sail! Arena | 302897 | [302897-set-sail-arena.json](./302897-set-sail-arena.json) |
@@ -6182,6 +6184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Rhythm: Onsen | 257846 | [257846-sex-rhythm-onsen.json](./257846-sex-rhythm-onsen.json) |
 | Sex Robot Road Trip: Highway to Harrisburg | 174029 | [174029-sex-robot-road-trip-highway-to-harrisburg.json](./174029-sex-robot-road-trip-highway-to-harrisburg.json) |
 | Sex Room 2: 18+ | 245725 | [245725-sex-room-2-18.json](./245725-sex-room-2-18.json) |
+| Sex Room 3 | 268243 | [268243-sex-room-3.json](./268243-sex-room-3.json) |
 | Sex Room: 18+ | 235270 | [235270-sex-room-18.json](./235270-sex-room-18.json) |
 | Sex Search | 230950 | [230950-sex-search.json](./230950-sex-search.json) |
 | Sex Search 2: Ultimate | 204430 | [204430-sex-search-2-ultimate.json](./204430-sex-search-2-ultimate.json) |
@@ -7735,6 +7738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelter from the Storm | 340377 | [340377-shelter-from-the-storm.json](./340377-shelter-from-the-storm.json) |
 | Shelter Generations | 70806 | [70806-shelter-generations.json](./70806-shelter-generations.json) |
 | Shelter in Place | 126537 | [126537-shelter-in-place.json](./126537-shelter-in-place.json) |
+| Shelter in the Doomsday | 268247 | [268247-shelter-in-the-doomsday.json](./268247-shelter-in-the-doomsday.json) |
 | Shelter Manager | 133219 | [133219-shelter-manager.json](./133219-shelter-manager.json) |
 | Shelter of Exiles | 276821 | [276821-shelter-of-exiles.json](./276821-shelter-of-exiles.json) |
 | Shelter of Sursur | 350367 | [350367-shelter-of-sursur.json](./350367-shelter-of-sursur.json) |
@@ -8678,6 +8682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShitMan | 285140 | [285140-shitman.json](./285140-shitman.json) |
 | Shitsuji ga Aruji wo Erabu Toki | 216245 | [216245-shitsuji-ga-aruji-wo-erabu-toki.json](./216245-shitsuji-ga-aruji-wo-erabu-toki.json) |
 | Shitsurensha Doumei | 411965 | [411965-shitsurensha-doumei.json](./411965-shitsurensha-doumei.json) |
+| Shitting Pigeon | 268244 | [268244-shitting-pigeon.json](./268244-shitting-pigeon.json) |
 | Shitty Cactus | 129450 | [129450-shitty-cactus.json](./129450-shitty-cactus.json) |
 | Shitty Game | 374645 | [374645-shitty-game.json](./374645-shitty-game.json) |
 | Shivah | 7418 | [7418-shivah.json](./7418-shivah.json) |
@@ -12263,6 +12268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Climbers: Rise of the Hero | 108776 | [108776-sky-climbers-rise-of-the-hero.json](./108776-sky-climbers-rise-of-the-hero.json) |
 | Sky Combat | 221358 | [221358-sky-combat.json](./221358-sky-combat.json) |
 | Sky Conqueror | 98897 | [98897-sky-conqueror.json](./98897-sky-conqueror.json) |
+| Sky Conquest | 268245 | [268245-sky-conquest.json](./268245-sky-conquest.json) |
 | Sky Crashers | 313571 | [313571-sky-crashers.json](./313571-sky-crashers.json) |
 | Sky Crew | 103888 | [103888-sky-crew.json](./103888-sky-crew.json) |
 | Sky Dancer | 80802 | [80802-sky-dancer.json](./80802-sky-dancer.json) |
@@ -19236,7 +19242,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
