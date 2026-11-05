@@ -8735,6 +8735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Legacy | 424587 | [424587-pizza-legacy.json](./424587-pizza-legacy.json) |
 | Pizza Maker | 325889 | [325889-pizza-maker.json](./325889-pizza-maker.json) |
 | Pizza Maker | 95300 | [95300-pizza-maker.json](./95300-pizza-maker.json) |
+| Pizza Maker Game | 261034 | [261034-pizza-maker-game.json](./261034-pizza-maker-game.json) |
 | Pizza Man Simulator | 407375 | [407375-pizza-man-simulator.json](./407375-pizza-man-simulator.json) |
 | Pizza Master VR | 131642 | [131642-pizza-master-vr.json](./131642-pizza-master-vr.json) |
 | Pizza Morgana | 70427 | [70427-pizza-morgana.json](./70427-pizza-morgana.json) |
