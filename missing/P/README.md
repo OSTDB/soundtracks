@@ -2179,6 +2179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parascientific Escape: Gear Detective | 27195 | [27195-parascientific-escape-gear-detective.json](./27195-parascientific-escape-gear-detective.json) |
 | Parasensor | 347911 | [347911-parasensor.json](./347911-parasensor.json) |
 | Parashoot Stan | 64196 | [64196-parashoot-stan.json](./64196-parashoot-stan.json) |
+| Parashooter | 281210 | [281210-parashooter.json](./281210-parashooter.json) |
 | Parashotical Arktivibeatings | 235189 | [235189-parashotical-arktivibeatings.json](./235189-parashotical-arktivibeatings.json) |
 | Paraside: Duality Unbound | 293600 | [293600-paraside-duality-unbound.json](./293600-paraside-duality-unbound.json) |
 | Parasight: Chlorophyll worms | 195793 | [195793-parasight-chlorophyll-worms.json](./195793-parasight-chlorophyll-worms.json) |
@@ -9797,6 +9798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plebby Quest: The Promised Land | 174132 | [174132-plebby-quest-the-promised-land.json](./174132-plebby-quest-the-promised-land.json) |
 | Plebs | 261766 | [261766-plebs.json](./261766-plebs.json) |
 | Plecos Keep | 155911 | [155911-plecos-keep.json](./155911-plecos-keep.json) |
+| Pleiades | 281187 | [281187-pleiades.json](./281187-pleiades.json) |
 | Pleiades: A Subversion Saga Game | 150754 | [150754-pleiades-a-subversion-saga-game.json](./150754-pleiades-a-subversion-saga-game.json) |
 | Pleiads | 40009 | [40009-pleiads.json](./40009-pleiads.json) |
 | Pleim | 202500 | [202500-pleim.json](./202500-pleim.json) |
