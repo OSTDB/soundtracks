@@ -10661,6 +10661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunFu Deadlands | 242441 | [242441-gunfu-deadlands.json](./242441-gunfu-deadlands.json) |
 | GunFu Heroes | 119981 | [119981-gunfu-heroes.json](./119981-gunfu-heroes.json) |
 | Gung 3D | 208654 | [208654-gung-3d.json](./208654-gung-3d.json) |
+| Gung Beetle | 294346 | [294346-gung-beetle.json](./294346-gung-beetle.json) |
 | Gungage | 44863 | [44863-gungage.json](./44863-gungage.json) |
 | Gungame.io | 56923 | [56923-gungame-io.json](./56923-gungame-io.json) |
 | GunGirl 2 | 23720 | [23720-gungirl-2.json](./23720-gungirl-2.json) |
