@@ -1175,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danny Phantom: Urban Jungle Rumble | 144582 | [144582-danny-phantom-urban-jungle-rumble.json](./144582-danny-phantom-urban-jungle-rumble.json) |
 | Danny Sullivan's Indy Heat | 12734 | [12734-danny-sullivans-indy-heat.json](./12734-danny-sullivans-indy-heat.json) |
 | Danny's Debt is Eternal | 273510 | [273510-dannys-debt-is-eternal.json](./273510-dannys-debt-is-eternal.json) |
+| Danny's Descent | 275984 | [275984-dannys-descent.json](./275984-dannys-descent.json) |
 | Danny's Mirror Magic | 159272 | [159272-dannys-mirror-magic.json](./159272-dannys-mirror-magic.json) |
 | Danny's War | 30433 | [30433-dannys-war.json](./30433-dannys-war.json) |
 | Danse Macabre: Crimson Cabaret | 140213 | [140213-danse-macabre-crimson-cabaret.json](./140213-danse-macabre-crimson-cabaret.json) |
@@ -1657,6 +1658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Light: Survivor | 317334 | [317334-dark-light-survivor.json](./317334-dark-light-survivor.json) |
 | Dark Lord | 175733 | [175733-dark-lord.json](./175733-dark-lord.json) |
 | Dark Lord | 227272 | [227272-dark-lord.json](./227272-dark-lord.json) |
+| Dark Lord | 275969 | [275969-dark-lord.json](./275969-dark-lord.json) |
 | Dark Lord | 85882 | [85882-dark-lord.json](./85882-dark-lord.json) |
 | Dark Lord Leona | 382484 | [382484-dark-lord-leona.json](./382484-dark-lord-leona.json) |
 | Dark Lord: Peacemaker | 284562 | [284562-dark-lord-peacemaker.json](./284562-dark-lord-peacemaker.json) |
@@ -5254,6 +5256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sky Derelicts: Definitive Edition | 131855 | [131855-deep-sky-derelicts-definitive-edition.json](./131855-deep-sky-derelicts-definitive-edition.json) |
 | Deep Sky Derelicts: Station Life | 154419 | [154419-deep-sky-derelicts-station-life.json](./154419-deep-sky-derelicts-station-life.json) |
 | Deep Sleep | 185125 | [185125-deep-sleep.json](./185125-deep-sleep.json) |
+| Deep Sleep | 275944 | [275944-deep-sleep.json](./275944-deep-sleep.json) |
 | Deep Sleep | 380751 | [380751-deep-sleep.json](./380751-deep-sleep.json) |
 | Deep Sleep Trilogy | 123695 | [123695-deep-sleep-trilogy.json](./123695-deep-sleep-trilogy.json) |
 | Deep Sleep: The Beggining | 291410 | [291410-deep-sleep-the-beggining.json](./291410-deep-sleep-the-beggining.json) |
@@ -7988,6 +7991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devilgotchi | 229844 | [229844-devilgotchi.json](./229844-devilgotchi.json) |
 | Devilian | 11827 | [11827-devilian.json](./11827-devilian.json) |
 | Devilish | 21546 | [21546-devilish.json](./21546-devilish.json) |
+| Devilish Blind Date | 275965 | [275965-devilish-blind-date.json](./275965-devilish-blind-date.json) |
 | Devilish Candy House | 230324 | [230324-devilish-candy-house.json](./230324-devilish-candy-house.json) |
 | Devilish Cat | 230325 | [230325-devilish-cat.json](./230325-devilish-cat.json) |
 | Devilish Charms | 227946 | [227946-devilish-charms.json](./227946-devilish-charms.json) |
@@ -11949,6 +11953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino Solitaire | 83430 | [83430-domino-solitaire.json](./83430-domino-solitaire.json) |
 | Domino VR | 31894 | [31894-domino-vr.json](./31894-domino-vr.json) |
 | Domino World AR | 95752 | [95752-domino-world-ar.json](./95752-domino-world-ar.json) |
+| Domino: The Little One | 275939 | [275939-domino-the-little-one.json](./275939-domino-the-little-one.json) |
 | Domino! | 281483 | [281483-domino.json](./281483-domino.json) |
 | Domino! | 359139 | [359139-domino.json](./359139-domino.json) |
 | Dominocalypse | 404644 | [404644-dominocalypse.json](./404644-dominocalypse.json) |
@@ -12891,6 +12896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomed to Hell | 194195 | [194195-doomed-to-hell.json](./194195-doomed-to-hell.json) |
 | Doomed Urbex | 283731 | [283731-doomed-urbex.json](./283731-doomed-urbex.json) |
 | Doomer | 189104 | [189104-doomer.json](./189104-doomer.json) |
+| Doomer Farm | 275943 | [275943-doomer-farm.json](./275943-doomer-farm.json) |
 | Doomer Simulator | 164945 | [164945-doomer-simulator.json](./164945-doomer-simulator.json) |
 | Doomer Simulator | 337556 | [337556-doomer-simulator.json](./337556-doomer-simulator.json) |
 | Doomer's Adventure | 166844 | [166844-doomers-adventure.json](./166844-doomers-adventure.json) |
