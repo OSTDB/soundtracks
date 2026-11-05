@@ -2384,6 +2384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hashtag Bacon | 248409 | [248409-hashtag-bacon.json](./248409-hashtag-bacon.json) |
 | Hashtag Dungeon | 35942 | [35942-hashtag-dungeon.json](./35942-hashtag-dungeon.json) |
 | Hasicontent | 135041 | [135041-hasicontent.json](./135041-hasicontent.json) |
+| Hasit | 273141 | [273141-hasit.json](./273141-hasit.json) |
 | Hasmoh | 420919 | [420919-hasmoh.json](./420919-hasmoh.json) |
 | Hasshaku-sama to Love Come Suru | 395499 | [395499-hasshaku-sama-to-love-come-suru.json](./395499-hasshaku-sama-to-love-come-suru.json) |
 | Hassle Online | 208166 | [208166-hassle-online.json](./208166-hassle-online.json) |
@@ -12020,6 +12021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydroplant Tycoon | 343289 | [343289-hydroplant-tycoon.json](./343289-hydroplant-tycoon.json) |
 | Hydroponics Farm & Store Simulator | 320124 | [320124-hydroponics-farm-and-store-simulator.json](./320124-hydroponics-farm-and-store-simulator.json) |
 | Hydrosphere | 257291 | [257291-hydrosphere.json](./257291-hydrosphere.json) |
+| Hydrostation | 273173 | [273173-hydrostation.json](./273173-hydrostation.json) |
 | Hydrosub: 2021 | 64037 | [64037-hydrosub-2021.json](./64037-hydrosub-2021.json) |
 | Hyena Simulator | 86848 | [86848-hyena-simulator.json](./86848-hyena-simulator.json) |
 | Hyena Squad | 175206 | [175206-hyena-squad.json](./175206-hyena-squad.json) |
