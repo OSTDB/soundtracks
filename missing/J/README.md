@@ -1145,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jerry's Merry Christmas | 310659 | [310659-jerrys-merry-christmas.json](./310659-jerrys-merry-christmas.json) |
 | Jersey Devil | 45077 | [45077-jersey-devil.json](./45077-jersey-devil.json) |
 | Jerusalem: The Three Roads to the Holy Land | 70735 | [70735-jerusalem-the-three-roads-to-the-holy-land.json](./70735-jerusalem-the-three-roads-to-the-holy-land.json) |
+| Jery Mice vs Cats: Home Invasion | 271004 | [271004-jery-mice-vs-cats-home-invasion.json](./271004-jery-mice-vs-cats-home-invasion.json) |
 | Jesse 'The Body' Ventura Wrestling Superstars | 46256 | [46256-jesse-the-body-ventura-wrestling-superstars.json](./46256-jesse-the-body-ventura-wrestling-superstars.json) |
 | Jessica Deliverson | 340772 | [340772-jessica-deliverson.json](./340772-jessica-deliverson.json) |
 | Jessica Plunkenstein and the Dusseldorf Conspiracy | 169992 | [169992-jessica-plunkenstein-and-the-dusseldorf-conspiracy.json](./169992-jessica-plunkenstein-and-the-dusseldorf-conspiracy.json) |
@@ -1426,6 +1427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Match | 88713 | [88713-jewel-match.json](./88713-jewel-match.json) |
 | Jewel Match 2 | 60481 | [60481-jewel-match-2.json](./60481-jewel-match-2.json) |
 | Jewel Match 3 | 85216 | [85216-jewel-match-3.json](./85216-jewel-match-3.json) |
+| Jewel Match Aquascapes 2: Collector's Edition | 271003 | [271003-jewel-match-aquascapes-2-collectors-edition.json](./271003-jewel-match-aquascapes-2-collectors-edition.json) |
 | Jewel Match Aquascapes: Collector's Edition | 244845 | [244845-jewel-match-aquascapes-collectors-edition.json](./244845-jewel-match-aquascapes-collectors-edition.json) |
 | Jewel Match Atlantis Solitaire 2 | 153397 | [153397-jewel-match-atlantis-solitaire-2.json](./153397-jewel-match-atlantis-solitaire-2.json) |
 | Jewel Match Atlantis Solitaire 2: Collector's Edition | 153292 | [153292-jewel-match-atlantis-solitaire-2-collectors-edition.json](./153292-jewel-match-atlantis-solitaire-2-collectors-edition.json) |
