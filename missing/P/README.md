@@ -3068,6 +3068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patrizier II: Aufschwung der Hanse | 131259 | [131259-patrizier-ii-aufschwung-der-hanse.json](./131259-patrizier-ii-aufschwung-der-hanse.json) |
 | Patrol no Gunji Hakubutsukan 3: Chouzetsu Muteki Kyuukyoku Heiki | 284347 | [284347-patrol-no-gunji-hakubutsukan-3-chouzetsu-muteki-kyuukyoku-heiki.json](./284347-patrol-no-gunji-hakubutsukan-3-chouzetsu-muteki-kyuukyoku-heiki.json) |
 | Patrol Police: Job Simulator | 223984 | [223984-patrol-police-job-simulator.json](./223984-patrol-police-job-simulator.json) |
+| Patrol Simulator: To Protect and to Serve | 293021 | [293021-patrol-simulator-to-protect-and-to-serve.json](./293021-patrol-simulator-to-protect-and-to-serve.json) |
 | Patrolling Mars | 276289 | [276289-patrolling-mars.json](./276289-patrolling-mars.json) |
 | Patrolling the Highway | 359409 | [359409-patrolling-the-highway.json](./359409-patrolling-the-highway.json) |
 | Patron | 152393 | [152393-patron.json](./152393-patron.json) |
@@ -4417,6 +4418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Permanence Break | 303985 | [303985-permanence-break.json](./303985-permanence-break.json) |
 | Permanence TD | 195256 | [195256-permanence-td.json](./195256-permanence-td.json) |
 | Permanent Daylight | 62194 | [62194-permanent-daylight.json](./62194-permanent-daylight.json) |
+| Permanent Mark | 293033 | [293033-permanent-mark.json](./293033-permanent-mark.json) |
 | Permanent Sleep | 220742 | [220742-permanent-sleep.json](./220742-permanent-sleep.json) |
 | PermaNight | 220463 | [220463-permanight.json](./220463-permanight.json) |
 | Permia - Duels | 9717 | [9717-permia-duels.json](./9717-permia-duels.json) |
@@ -16914,6 +16916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin Stacker | 95134 | [95134-pumpkin-stacker.json](./95134-pumpkin-stacker.json) |
 | Pumpkin Story | 201571 | [201571-pumpkin-story.json](./201571-pumpkin-story.json) |
 | Pumpkin Surprise | 246528 | [246528-pumpkin-surprise.json](./246528-pumpkin-surprise.json) |
+| Pumpkin Woods | 293019 | [293019-pumpkin-woods.json](./293019-pumpkin-woods.json) |
 | Pumpkin's Revenge | 341435 | [341435-pumpkins-revenge.json](./341435-pumpkins-revenge.json) |
 | Pumpkinban | 382214 | [382214-pumpkinban.json](./382214-pumpkinban.json) |
 | Pumpkins vs. Monsters | 204216 | [204216-pumpkins-vs-monsters.json](./204216-pumpkins-vs-monsters.json) |
@@ -18032,10 +18035,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Vacations: Australia and New Zealand | 278495 | [278495-puzzle-vacations-australia-and-new-zealand.json](./278495-puzzle-vacations-australia-and-new-zealand.json) |
 | Puzzle Vacations: Christmas | 275443 | [275443-puzzle-vacations-christmas.json](./275443-puzzle-vacations-christmas.json) |
 | Puzzle Vacations: France | 315898 | [315898-puzzle-vacations-france.json](./315898-puzzle-vacations-france.json) |
+| Puzzle Vacations: Greece And Turkey - Collector's Edition | 292907 | [292907-puzzle-vacations-greece-and-turkey-collectors-edition.json](./292907-puzzle-vacations-greece-and-turkey-collectors-edition.json) |
 | Puzzle Vacations: Ireland | 231027 | [231027-puzzle-vacations-ireland.json](./231027-puzzle-vacations-ireland.json) |
 | Puzzle Vacations: Italy | 322976 | [322976-puzzle-vacations-italy.json](./322976-puzzle-vacations-italy.json) |
 | Puzzle Vacations: Japan | 275442 | [275442-puzzle-vacations-japan.json](./275442-puzzle-vacations-japan.json) |
 | Puzzle Vacations: Nordics | 315897 | [315897-puzzle-vacations-nordics.json](./315897-puzzle-vacations-nordics.json) |
+| Puzzle Vacations: Thailand and Cambodia | 292905 | [292905-puzzle-vacations-thailand-and-cambodia.json](./292905-puzzle-vacations-thailand-and-cambodia.json) |
 | Puzzle Vault | 383165 | [383165-puzzle-vault.json](./383165-puzzle-vault.json) |
 | Puzzle Wall | 110800 | [110800-puzzle-wall.json](./110800-puzzle-wall.json) |
 | Puzzle Wars | 337984 | [337984-puzzle-wars.json](./337984-puzzle-wars.json) |
