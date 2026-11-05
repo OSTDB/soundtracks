@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wagamama Fashion: Girls Mode Yokubari Sengen! Tokimeki Up! | 136906 | [136906-wagamama-fashion-girls-mode-yokubari-sengen-tokimeki-up.json](./136906-wagamama-fashion-girls-mode-yokubari-sengen-tokimeki-up.json) |
 | Wagamama High Spec | 36727 | [36727-wagamama-high-spec.json](./36727-wagamama-high-spec.json) |
 | Wagamama High Spec Oc | 384235 | [384235-wagamama-high-spec-oc.json](./384235-wagamama-high-spec-oc.json) |
+| Wage Slave TD | 285174 | [285174-wage-slave-td.json](./285174-wage-slave-td.json) |
 | Wagee | 402519 | [402519-wagee.json](./402519-wagee.json) |
 | Wager | 171303 | [171303-wager.json](./171303-wager.json) |
 | Wagers of War | 54968 | [54968-wagers-of-war.json](./54968-wagers-of-war.json) |
@@ -491,6 +492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wallace & Gromit: The Curse of the Were-Rabbit | 343178 | [343178-wallace-and-gromit-the-curse-of-the-were-rabbit.json](./343178-wallace-and-gromit-the-curse-of-the-were-rabbit.json) |
 | Wallace & Gromit: The Curse of the Were-Rabbit | 6227 | [6227-wallace-and-gromit-the-curse-of-the-were-rabbit.json](./6227-wallace-and-gromit-the-curse-of-the-were-rabbit.json) |
 | Wallace & Gromit: The Grand Getaway | 252792 | [252792-wallace-and-gromit-the-grand-getaway.json](./252792-wallace-and-gromit-the-grand-getaway.json) |
+| Wallace & Gromit: The Grand Tour | 285293 | [285293-wallace-and-gromit-the-grand-tour.json](./285293-wallace-and-gromit-the-grand-tour.json) |
 | Wallace & Gromit: Top Bun | 320878 | [320878-wallace-and-gromit-top-bun.json](./320878-wallace-and-gromit-top-bun.json) |
 | Wallace & Gromit's Grand Adventures | 11307 | [11307-wallace-and-gromits-grand-adventures.json](./11307-wallace-and-gromits-grand-adventures.json) |
 | Wallace & Gromit's Grand Adventures: Episode 1 - Fright of the Bumblebees | 115575 | [115575-wallace-and-gromits-grand-adventures-episode-1-fright-of-the-bumblebees.json](./115575-wallace-and-gromits-grand-adventures-episode-1-fright-of-the-bumblebees.json) |
@@ -3834,6 +3836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel of Fortune | 199434 | [199434-wheel-of-fortune.json](./199434-wheel-of-fortune.json) |
 | Wheel of Fortune | 220131 | [220131-wheel-of-fortune.json](./220131-wheel-of-fortune.json) |
 | Wheel of Fortune | 252331 | [252331-wheel-of-fortune.json](./252331-wheel-of-fortune.json) |
+| Wheel of Fortune | 285292 | [285292-wheel-of-fortune.json](./285292-wheel-of-fortune.json) |
 | Wheel of Fortune | 287301 | [287301-wheel-of-fortune.json](./287301-wheel-of-fortune.json) |
 | Wheel of Fortune | 37183 | [37183-wheel-of-fortune.json](./37183-wheel-of-fortune.json) |
 | Wheel of Fortune | 46330 | [46330-wheel-of-fortune.json](./46330-wheel-of-fortune.json) |
@@ -4018,6 +4021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Control Ends | 405564 | [405564-where-control-ends.json](./405564-where-control-ends.json) |
 | Where Did I Put It? | 223472 | [223472-where-did-i-put-it.json](./223472-where-did-i-put-it.json) |
 | Where Do I Fit? | 177489 | [177489-where-do-i-fit.json](./177489-where-do-i-fit.json) |
+| Where Does Art Go When It Dies? | 285289 | [285289-where-does-art-go-when-it-dies.json](./285289-where-does-art-go-when-it-dies.json) |
 | Where Dragon Spirits | 295485 | [295485-where-dragon-spirits.json](./295485-where-dragon-spirits.json) |
 | Where Dreams Die | 275164 | [275164-where-dreams-die.json](./275164-where-dreams-die.json) |
 | Where Ferrets | 282228 | [282228-where-ferrets.json](./282228-where-ferrets.json) |
@@ -6202,6 +6206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Thief | 55464 | [55464-witch-thief.json](./55464-witch-thief.json) |
 | Witch Trainer | 251384 | [251384-witch-trainer.json](./251384-witch-trainer.json) |
 | Witch Trials | 76874 | [76874-witch-trials.json](./76874-witch-trials.json) |
+| Witch War | 285291 | [285291-witch-war.json](./285291-witch-war.json) |
 | Witch War 1 | 352384 | [352384-witch-war-1.json](./352384-witch-war-1.json) |
 | Witch Way | 311935 | [311935-witch-way.json](./311935-witch-way.json) |
 | Witch Weapon | 113628 | [113628-witch-weapon.json](./113628-witch-weapon.json) |
