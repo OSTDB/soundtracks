@@ -5019,6 +5019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Abyss | 159729 | [159729-into-the-abyss.json](./159729-into-the-abyss.json) |
 | Into the Abyss | 191130 | [191130-into-the-abyss.json](./191130-into-the-abyss.json) |
 | Into The Backrooms | 345753 | [345753-into-the-backrooms.json](./345753-into-the-backrooms.json) |
+| Into the Backrooms: Last Tape | 285726 | [285726-into-the-backrooms-last-tape.json](./285726-into-the-backrooms-last-tape.json) |
 | Into the Belly of the Beast | 33890 | [33890-into-the-belly-of-the-beast.json](./33890-into-the-belly-of-the-beast.json) |
 | Into the Blue | 109033 | [109033-into-the-blue.json](./109033-into-the-blue.json) |
 | Into the Box | 183001 | [183001-into-the-box.json](./183001-into-the-box.json) |
