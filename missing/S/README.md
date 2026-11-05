@@ -3712,6 +3712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scruffy's Quest | 265681 | [265681-scruffys-quest.json](./265681-scruffys-quest.json) |
 | Scrum Down | 244289 | [244289-scrum-down.json](./244289-scrum-down.json) |
 | Scrumlords | 260634 | [260634-scrumlords.json](./260634-scrumlords.json) |
+| Scrumpit | 261039 | [261039-scrumpit.json](./261039-scrumpit.json) |
 | Scrunk | 104027 | [104027-scrunk.json](./104027-scrunk.json) |
 | Scrutator Tenebris | 382174 | [382174-scrutator-tenebris.json](./382174-scrutator-tenebris.json) |
 | Scrutinized | 136668 | [136668-scrutinized.json](./136668-scrutinized.json) |
@@ -12893,6 +12894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slaughter Horse 2 | 211133 | [211133-slaughter-horse-2.json](./211133-slaughter-horse-2.json) |
 | Slaughter Me Street: 1999 | 327276 | [327276-slaughter-me-street-1999.json](./327276-slaughter-me-street-1999.json) |
 | Slaughter Until Death | 274217 | [274217-slaughter-until-death.json](./274217-slaughter-until-death.json) |
+| Slaughter: The Lost Outpost | 261038 | [261038-slaughter-the-lost-outpost.json](./261038-slaughter-the-lost-outpost.json) |
 | Slaughterfest | 308310 | [308310-slaughterfest.json](./308310-slaughterfest.json) |
 | Slaughterfest 2011 | 140890 | [140890-slaughterfest-2011.json](./140890-slaughterfest-2011.json) |
 | Slaughterfest 2012 | 140891 | [140891-slaughterfest-2012.json](./140891-slaughterfest-2012.json) |
@@ -13354,6 +13356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Clicker | 298090 | [298090-slime-clicker.json](./298090-slime-clicker.json) |
 | Slime Climb | 164934 | [164934-slime-climb.json](./164934-slime-climb.json) |
 | Slime Climb | 369800 | [369800-slime-climb.json](./369800-slime-climb.json) |
+| Slime Climb Scrum | 261050 | [261050-slime-climb-scrum.json](./261050-slime-climb-scrum.json) |
 | Slime Climb: A Count Pumpcula Tale | 310801 | [310801-slime-climb-a-count-pumpcula-tale.json](./310801-slime-climb-a-count-pumpcula-tale.json) |
 | Slime Climber | 292626 | [292626-slime-climber.json](./292626-slime-climber.json) |
 | Slime Color | 382853 | [382853-slime-color.json](./382853-slime-color.json) |
@@ -30456,6 +30459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Elastic | 276164 | [276164-super-elastic.json](./276164-super-elastic.json) |
 | Super Elf Jump | 93818 | [93818-super-elf-jump.json](./93818-super-elf-jump.json) |
 | Super Ember Kaboom | 199284 | [199284-super-ember-kaboom.json](./199284-super-ember-kaboom.json) |
+| Super Emma | 261029 | [261029-super-emma.json](./261029-super-emma.json) |
 | Super Emo Alpaca | 330761 | [330761-super-emo-alpaca.json](./330761-super-emo-alpaca.json) |
 | Super Engine GT Turbo SPEC | 338922 | [338922-super-engine-gt-turbo-spec.json](./338922-super-engine-gt-turbo-spec.json) |
 | Super Erect Taisen S-EX | 272335 | [272335-super-erect-taisen-s-ex.json](./272335-super-erect-taisen-s-ex.json) |
