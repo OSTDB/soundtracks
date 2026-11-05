@@ -5817,6 +5817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Apogee Throwback Pack | 30244 | [30244-the-apogee-throwback-pack.json](./30244-the-apogee-throwback-pack.json) |
 | The Apollo Project | 192682 | [192682-the-apollo-project.json](./192682-the-apollo-project.json) |
 | The Apothecary | 223242 | [223242-the-apothecary.json](./223242-the-apothecary.json) |
+| The Apothecary | 247848 | [247848-the-apothecary.json](./247848-the-apothecary.json) |
 | The Apothecary Diaries Palace Chronicles | 406943 | [406943-the-apothecary-diaries-palace-chronicles.json](./406943-the-apothecary-diaries-palace-chronicles.json) |
 | The Apothecary Diaries: The False Imperial Brother | 417180 | [417180-the-apothecary-diaries-the-false-imperial-brother.json](./417180-the-apothecary-diaries-the-false-imperial-brother.json) |
 | The Apothecary of Trubiz | 376645 | [376645-the-apothecary-of-trubiz.json](./376645-the-apothecary-of-trubiz.json) |
