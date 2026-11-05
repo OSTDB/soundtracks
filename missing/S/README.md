@@ -11923,6 +11923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Rodeo | 52004 | [52004-ski-rodeo.json](./52004-ski-rodeo.json) |
 | Ski Run | 159047 | [159047-ski-run.json](./159047-ski-run.json) |
 | Ski Run | 324974 | [324974-ski-run.json](./324974-ski-run.json) |
+| Ski Rush | 268828 | [268828-ski-rush.json](./268828-ski-rush.json) |
 | Ski Safari | 61082 | [61082-ski-safari.json](./61082-ski-safari.json) |
 | Ski Safari: Adventure Time | 61083 | [61083-ski-safari-adventure-time.json](./61083-ski-safari-adventure-time.json) |
 | Ski Simulator: Winter Sports | 281906 | [281906-ski-simulator-winter-sports.json](./281906-ski-simulator-winter-sports.json) |
@@ -12974,6 +12975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sled Storm | 81484 | [81484-sled-storm.json](./81484-sled-storm.json) |
 | Sled Storm | 8264 | [8264-sled-storm.json](./8264-sled-storm.json) |
 | Sled Together | 372940 | [372940-sled-together.json](./372940-sled-together.json) |
+| Sledders | 268811 | [268811-sledders.json](./268811-sledders.json) |
 | Sledding Game | 327758 | [327758-sledding-game.json](./327758-sledding-game.json) |
 | Sledge 3D | 44303 | [44303-sledge-3d.json](./44303-sledge-3d.json) |
 | Sleembo | 262490 | [262490-sleembo.json](./262490-sleembo.json) |
@@ -15021,6 +15023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoodoku | 50239 | [50239-snoodoku.json](./50239-snoodoku.json) |
 | Snoody: One of the Ayrie | 252262 | [252262-snoody-one-of-the-ayrie.json](./252262-snoody-one-of-the-ayrie.json) |
 | Snook | 208737 | [208737-snook.json](./208737-snook.json) |
+| Snook | 268780 | [268780-snook.json](./268780-snook.json) |
 | Snooker | 330780 | [330780-snooker.json](./330780-snooker.json) |
 | Snooker 19 | 111153 | [111153-snooker-19.json](./111153-snooker-19.json) |
 | Snooker Blitz | 315913 | [315913-snooker-blitz.json](./315913-snooker-blitz.json) |
@@ -19233,6 +19236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -19605,6 +19609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rocket | 81601 | [81601-space-rocket.json](./81601-space-rocket.json) |
 | Space Rocket Adventurers | 61155 | [61155-space-rocket-adventurers.json](./61155-space-rocket-adventurers.json) |
 | Space Rockets: Spaceship Rocket Simulator | 232180 | [232180-space-rockets-spaceship-rocket-simulator.json](./232180-space-rockets-spaceship-rocket-simulator.json) |
+| Space Rocks | 268810 | [268810-space-rocks.json](./268810-space-rocks.json) |
 | Space Rocks | 40654 | [40654-space-rocks.json](./40654-space-rocks.json) |
 | Space Rocks Blaster | 181049 | [181049-space-rocks-blaster.json](./181049-space-rocks-blaster.json) |
 | Space Rocks in Space | 365825 | [365825-space-rocks-in-space.json](./365825-space-rocks-in-space.json) |
@@ -31028,7 +31033,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64: Ocarina of Time | 132837 | [132837-super-mario-64-ocarina-of-time.json](./132837-super-mario-64-ocarina-of-time.json) |
 | Super Mario 64: Odyssey Mario's Moveset | 198368 | [198368-super-mario-64-odyssey-marios-moveset.json](./198368-super-mario-64-odyssey-marios-moveset.json) |
 | Super Mario 64: Openworld Quest | 350958 | [350958-super-mario-64-openworld-quest.json](./350958-super-mario-64-openworld-quest.json) |
+| Super Mario 64: Remastered Quest | 268716 | [268716-super-mario-64-remastered-quest.json](./268716-super-mario-64-remastered-quest.json) |
 | Super Mario 64: Rogue Chaos Edition Version 2.0 | 413054 | [413054-super-mario-64-rogue-chaos-edition-version-2-0.json](./413054-super-mario-64-rogue-chaos-edition-version-2-0.json) |
+| Super Mario 64: Royal Legacy | 268717 | [268717-super-mario-64-royal-legacy.json](./268717-super-mario-64-royal-legacy.json) |
 | Super Mario 64: Royal Legacy - Definitive Edition | 314021 | [314021-super-mario-64-royal-legacy-definitive-edition.json](./314021-super-mario-64-royal-legacy-definitive-edition.json) |
 | Super Mario 64: Shadow Edition | 194313 | [194313-super-mario-64-shadow-edition.json](./194313-super-mario-64-shadow-edition.json) |
 | Super Mario 64: Shindou Improvement | 172481 | [172481-super-mario-64-shindou-improvement.json](./172481-super-mario-64-shindou-improvement.json) |
@@ -31038,6 +31045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64: Star Revenge Redone | 132840 | [132840-super-mario-64-star-revenge-redone.json](./132840-super-mario-64-star-revenge-redone.json) |
 | Super Mario 64: Stars of the Beast | 300258 | [300258-super-mario-64-stars-of-the-beast.json](./300258-super-mario-64-stars-of-the-beast.json) |
 | Super Mario 64: The Missing Stars | 135176 | [135176-super-mario-64-the-missing-stars.json](./135176-super-mario-64-the-missing-stars.json) |
+| Super Mario 64: The Mushroom Cup | 268718 | [268718-super-mario-64-the-mushroom-cup.json](./268718-super-mario-64-the-mushroom-cup.json) |
 | Super Mario 64: The Slideverse | 343700 | [343700-super-mario-64-the-slideverse.json](./343700-super-mario-64-the-slideverse.json) |
 | Super Mario 64: Through the Ages | 199070 | [199070-super-mario-64-through-the-ages.json](./199070-super-mario-64-through-the-ages.json) |
 | Super Mario 64: Trouble Town | 300257 | [300257-super-mario-64-trouble-town.json](./300257-super-mario-64-trouble-town.json) |
@@ -34065,6 +34073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swapfell Maelstrom | 331668 | [331668-swapfell-maelstrom.json](./331668-swapfell-maelstrom.json) |
 | SwapFell: I Hate You. | 335064 | [335064-swapfell-i-hate-you.json](./335064-swapfell-i-hate-you.json) |
 | Swaplatformer | 178680 | [178680-swaplatformer.json](./178680-swaplatformer.json) |
+| Swaplette | 268813 | [268813-swaplette.json](./268813-swaplette.json) |
 | Swapmeat | 304473 | [304473-swapmeat.json](./304473-swapmeat.json) |
 | Swapologic | 233517 | [233517-swapologic.json](./233517-swapologic.json) |
 | Swapon | 135437 | [135437-swapon.json](./135437-swapon.json) |
