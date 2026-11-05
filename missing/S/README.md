@@ -5200,6 +5200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Semper Fidelis: Marine Corps | 73830 | [73830-semper-fidelis-marine-corps.json](./73830-semper-fidelis-marine-corps.json) |
 | Semperfly | 372595 | [372595-semperfly.json](./372595-semperfly.json) |
 | Sempiternal | 272375 | [272375-sempiternal.json](./272375-sempiternal.json) |
+| Sempra Infernalis | 294348 | [294348-sempra-infernalis.json](./294348-sempra-infernalis.json) |
 | Sempre | 269757 | [269757-sempre.json](./269757-sempre.json) |
 | Semu | 265123 | [265123-semu.json](./265123-semu.json) |
 | Sen no Hana, Sakihokoru Shiawase: La Vie en Bouquet Coloré | 395122 | [395122-sen-no-hana-sakihokoru-shiawase-la-vie-en-bouquet-colore.json](./395122-sen-no-hana-sakihokoru-shiawase-la-vie-en-bouquet-colore.json) |
@@ -11428,6 +11429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six & Six | 392759 | [392759-six-and-six.json](./392759-six-and-six.json) |
 | Six Ages 2: Lights Going Out | 245860 | [245860-six-ages-2-lights-going-out.json](./245860-six-ages-2-lights-going-out.json) |
 | Six Aspects | 197484 | [197484-six-aspects.json](./197484-six-aspects.json) |
+| Six Blow: Bullet Rain | 294337 | [294337-six-blow-bullet-rain.json](./294337-six-blow-bullet-rain.json) |
 | Six Blow: Hatching Eggs | 287060 | [287060-six-blow-hatching-eggs.json](./287060-six-blow-hatching-eggs.json) |
 | Six Braves | 201588 | [201588-six-braves.json](./201588-six-braves.json) |
 | Six Cabins in Serpent Ridge National Forest | 287221 | [287221-six-cabins-in-serpent-ridge-national-forest.json](./287221-six-cabins-in-serpent-ridge-national-forest.json) |
@@ -21141,6 +21143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man: Friend or Foe | 249164 | [249164-spider-man-friend-or-foe.json](./249164-spider-man-friend-or-foe.json) |
 | Spider-Man: Friend or Foe | 5180 | [5180-spider-man-friend-or-foe.json](./5180-spider-man-friend-or-foe.json) |
 | Spider-Man: Homecoming - Virtual Reality Experience | 43066 | [43066-spider-man-homecoming-virtual-reality-experience.json](./43066-spider-man-homecoming-virtual-reality-experience.json) |
+| Spider-Man: Minigame Laptop | 294479 | [294479-spider-man-minigame-laptop.json](./294479-spider-man-minigame-laptop.json) |
 | Spider-Man: Mysterio's Menace | 6605 | [6605-spider-man-mysterios-menace.json](./6605-spider-man-mysterios-menace.json) |
 | Spider-Man: Return of the Sinister Six | 46123 | [46123-spider-man-return-of-the-sinister-six.json](./46123-spider-man-return-of-the-sinister-six.json) |
 | Spider-Man: Revenge of the Spider-Slayers | 198901 | [198901-spider-man-revenge-of-the-spider-slayers.json](./198901-spider-man-revenge-of-the-spider-slayers.json) |
@@ -24822,6 +24825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starseed | 150998 | [150998-starseed.json](./150998-starseed.json) |
 | Starseed Harmonies | 385553 | [385553-starseed-harmonies.json](./385553-starseed-harmonies.json) |
 | Starseed Pilgrim | 16317 | [16317-starseed-pilgrim.json](./16317-starseed-pilgrim.json) |
+| Starseed: Asnia Trigger | 294410 | [294410-starseed-asnia-trigger.json](./294410-starseed-asnia-trigger.json) |
 | Starseeker | 107608 | [107608-starseeker.json](./107608-starseeker.json) |
 | Starseeker: Astroneer Expeditions | 338089 | [338089-starseeker-astroneer-expeditions.json](./338089-starseeker-astroneer-expeditions.json) |
 | Starshapes | 249864 | [249864-starshapes.json](./249864-starshapes.json) |
