@@ -7291,6 +7291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eXceed 3rd: Jade Penetrate Black Package | 10967 | [10967-exceed-3rd-jade-penetrate-black-package.json](./10967-exceed-3rd-jade-penetrate-black-package.json) |
 | Exceed Gear | 298676 | [298676-exceed-gear.json](./298676-exceed-gear.json) |
 | eXceed Gun Bullet Children | 9290 | [9290-exceed-gun-bullet-children.json](./9290-exceed-gun-bullet-children.json) |
+| Excel Racing | 277641 | [277641-excel-racing.json](./277641-excel-racing.json) |
 | Excelios | 285932 | [285932-excelios.json](./285932-excelios.json) |
 | Excellent | 373738 | [373738-excellent.json](./373738-excellent.json) |
 | Excellent Bifurcation | 388217 | [388217-excellent-bifurcation.json](./388217-excellent-bifurcation.json) |
