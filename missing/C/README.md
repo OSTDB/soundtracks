@@ -679,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops Mobile | 135300 | [135300-call-of-duty-black-ops-mobile.json](./135300-call-of-duty-black-ops-mobile.json) |
 | Call of Duty: Definitive Collection - Volume 1 | 52718 | [52718-call-of-duty-definitive-collection-volume-1.json](./52718-call-of-duty-definitive-collection-volume-1.json) |
 | Call of Duty: Deluxe Edition | 285392 | [285392-call-of-duty-deluxe-edition.json](./285392-call-of-duty-deluxe-edition.json) |
+| Call of Duty: Endowment - Protector Pack | 263266 | [263266-call-of-duty-endowment-protector-pack.json](./263266-call-of-duty-endowment-protector-pack.json) |
 | Call of Duty: Endowment (C.O.D.E.) Warrior Pack | 276273 | [276273-call-of-duty-endowment-c-o-d-e-warrior-pack.json](./276273-call-of-duty-endowment-c-o-d-e-warrior-pack.json) |
 | Call of Duty: Future Warfare | 294871 | [294871-call-of-duty-future-warfare.json](./294871-call-of-duty-future-warfare.json) |
 | Call of Duty: Game of the Year Edition | 292788 | [292788-call-of-duty-game-of-the-year-edition.json](./292788-call-of-duty-game-of-the-year-edition.json) |
@@ -5298,6 +5299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Century: Age of Ashes - Harbinger Edition | 221702 | [221702-century-age-of-ashes-harbinger-edition.json](./221702-century-age-of-ashes-harbinger-edition.json) |
 | Century: Age of Ashes - Heroes of the Continent Bundle | 286546 | [286546-century-age-of-ashes-heroes-of-the-continent-bundle.json](./286546-century-age-of-ashes-heroes-of-the-continent-bundle.json) |
 | Century: Age of Ashes - Mercenary Edition | 227699 | [227699-century-age-of-ashes-mercenary-edition.json](./227699-century-age-of-ashes-mercenary-edition.json) |
+| Century: Age of Ashes - Mighty Beast Pack | 263283 | [263283-century-age-of-ashes-mighty-beast-pack.json](./263283-century-age-of-ashes-mighty-beast-pack.json) |
 | Century: Age of Ashes - Myth Starter Edition | 218516 | [218516-century-age-of-ashes-myth-starter-edition.json](./218516-century-age-of-ashes-myth-starter-edition.json) |
 | Century: Age of Ashes - Ravager Edition | 204274 | [204274-century-age-of-ashes-ravager-edition.json](./204274-century-age-of-ashes-ravager-edition.json) |
 | Century: Age of Ashes - Rimeblood Premium Edition | 259607 | [259607-century-age-of-ashes-rimeblood-premium-edition.json](./259607-century-age-of-ashes-rimeblood-premium-edition.json) |
