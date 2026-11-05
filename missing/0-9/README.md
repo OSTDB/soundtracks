@@ -3500,6 +3500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9Dragons: Kung Fu Arena | 113738 | [113738-9dragons-kung-fu-arena.json](./113738-9dragons-kung-fu-arena.json) |
 | 9Grids VR | 32465 | [32465-9grids-vr.json](./32465-9grids-vr.json) |
 | 9mm | 18881 | [18881-9mm.json](./18881-9mm.json) |
+| 9mm | 246155 | [246155-9mm.json](./246155-9mm.json) |
 | 9mm Girls The Visual Novel | 318898 | [318898-9mm-girls-the-visual-novel.json](./318898-9mm-girls-the-visual-novel.json) |
 | 9mm Roulette | 377408 | [377408-9mm-roulette.json](./377408-9mm-roulette.json) |
 | 9pm | 177510 | [177510-9pm.json](./177510-9pm.json) |
