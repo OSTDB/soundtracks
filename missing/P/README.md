@@ -4527,6 +4527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 3 Reload: Aigis Edition | 262640 | [262640-persona-3-reload-aigis-edition.json](./262640-persona-3-reload-aigis-edition.json) |
 | Persona 3 Reload: Digital Deluxe Edition | 262642 | [262642-persona-3-reload-digital-deluxe-edition.json](./262642-persona-3-reload-digital-deluxe-edition.json) |
 | Persona 3 Reload: Digital Premium Edition | 262643 | [262643-persona-3-reload-digital-premium-edition.json](./262643-persona-3-reload-digital-premium-edition.json) |
+| Persona 3 Reload: DLC Pack | 266007 | [266007-persona-3-reload-dlc-pack.json](./266007-persona-3-reload-dlc-pack.json) |
 | Persona 3 Reload: Expansion Pass | 289704 | [289704-persona-3-reload-expansion-pass.json](./289704-persona-3-reload-expansion-pass.json) |
 | Persona 3 Reload: FeMC Mod | 327019 | [327019-persona-3-reload-femc-mod.json](./327019-persona-3-reload-femc-mod.json) |
 | Persona 3 Reload: FemC Reloaded Project | 328622 | [328622-persona-3-reload-femc-reloaded-project.json](./328622-persona-3-reload-femc-reloaded-project.json) |
@@ -4536,6 +4537,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 3 Reload: Persona 4 Golden Yasogami High Costume Set | 301567 | [301567-persona-3-reload-persona-4-golden-yasogami-high-costume-set.json](./301567-persona-3-reload-persona-4-golden-yasogami-high-costume-set.json) |
 | Persona 3 Reload: Persona 5 Royal BGM Set | 301573 | [301573-persona-3-reload-persona-5-royal-bgm-set.json](./301573-persona-3-reload-persona-5-royal-bgm-set.json) |
 | Persona 3 Reload: Persona 5 Royal EX BGM Set | 289702 | [289702-persona-3-reload-persona-5-royal-ex-bgm-set.json](./289702-persona-3-reload-persona-5-royal-ex-bgm-set.json) |
+| Persona 3 Reload: Persona 5 Royal Persona Set 1 | 266009 | [266009-persona-3-reload-persona-5-royal-persona-set-1.json](./266009-persona-3-reload-persona-5-royal-persona-set-1.json) |
+| Persona 3 Reload: Persona 5 Royal Persona Set 2 | 266008 | [266008-persona-3-reload-persona-5-royal-persona-set-2.json](./266008-persona-3-reload-persona-5-royal-persona-set-2.json) |
 | Persona 3 Reload: Persona 5 Royal Phantom Thieves Costume Set | 301577 | [301577-persona-3-reload-persona-5-royal-phantom-thieves-costume-set.json](./301577-persona-3-reload-persona-5-royal-phantom-thieves-costume-set.json) |
 | Persona 3 Reload: Persona 5 Royal Shujin Academy Costume Set | 301572 | [301572-persona-3-reload-persona-5-royal-shujin-academy-costume-set.json](./301572-persona-3-reload-persona-5-royal-shujin-academy-costume-set.json) |
 | Persona 3 Reload: Velvet Costume & BGM Set | 289700 | [289700-persona-3-reload-velvet-costume-and-bgm-set.json](./289700-persona-3-reload-velvet-costume-and-bgm-set.json) |
@@ -4949,6 +4952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petty Officer | 301468 | [301468-petty-officer.json](./301468-petty-officer.json) |
 | Petty Ungodliness | 411757 | [411757-petty-ungodliness.json](./411757-petty-ungodliness.json) |
 | Petty's Adventure: Desert | 218838 | [218838-pettys-adventure-desert.json](./218838-pettys-adventure-desert.json) |
+| Petty's Adventure: Volcano | 266043 | [266043-pettys-adventure-volcano.json](./266043-pettys-adventure-volcano.json) |
 | Petualangan DivineKids | 275160 | [275160-petualangan-divinekids.json](./275160-petualangan-divinekids.json) |
 | Petunia the Yellow Mouse | 62278 | [62278-petunia-the-yellow-mouse.json](./62278-petunia-the-yellow-mouse.json) |
 | Petunia's Purgatory | 380836 | [380836-petunias-purgatory.json](./380836-petunias-purgatory.json) |
@@ -5428,6 +5432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Philistine | 268275 | [268275-philistine.json](./268275-philistine.json) |
 | Philly Flasher | 40701 | [40701-philly-flasher.json](./40701-philly-flasher.json) |
 | Philly Flasher/Cathouse Blues | 70180 | [70180-philly-flasher-cathouse-blues.json](./70180-philly-flasher-cathouse-blues.json) |
+| Philna Fantasy | 266042 | [266042-philna-fantasy.json](./266042-philna-fantasy.json) |
 | Philomel | 341582 | [341582-philomel.json](./341582-philomel.json) |
 | Philosoma | 20638 | [20638-philosoma.json](./20638-philosoma.json) |
 | Philosopher's Quest | 13746 | [13746-philosophers-quest.json](./13746-philosophers-quest.json) |
@@ -8286,6 +8291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles WW2 Jigsaw: Kriegsmarine | 263962 | [263962-pixel-puzzles-ww2-jigsaw-kriegsmarine.json](./263962-pixel-puzzles-ww2-jigsaw-kriegsmarine.json) |
 | Pixel Puzzles WW2 Jigsaw: Pack - German Railway Guns | 264507 | [264507-pixel-puzzles-ww2-jigsaw-pack-german-railway-guns.json](./264507-pixel-puzzles-ww2-jigsaw-pack-german-railway-guns.json) |
 | Pixel Puzzles WW2 Jigsaw: Pack - Soviet Invasion of Poland | 268141 | [268141-pixel-puzzles-ww2-jigsaw-pack-soviet-invasion-of-poland.json](./268141-pixel-puzzles-ww2-jigsaw-pack-soviet-invasion-of-poland.json) |
+| Pixel Puzzles WW2 Jigsaw: Pack - The Blitz | 266037 | [266037-pixel-puzzles-ww2-jigsaw-pack-the-blitz.json](./266037-pixel-puzzles-ww2-jigsaw-pack-the-blitz.json) |
 | Pixel Puzzles: Illustrations & Anime | 162933 | [162933-pixel-puzzles-illustrations-and-anime.json](./162933-pixel-puzzles-illustrations-and-anime.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Book of Nature | 259951 | [259951-pixel-puzzles-illustrations-and-anime-jigsaw-pack-book-of-nature.json](./259951-pixel-puzzles-illustrations-and-anime-jigsaw-pack-book-of-nature.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Chibi | 241507 | [241507-pixel-puzzles-illustrations-and-anime-jigsaw-pack-chibi.json](./241507-pixel-puzzles-illustrations-and-anime-jigsaw-pack-chibi.json) |
@@ -15440,6 +15446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Dar | 350937 | [350937-project-dar.json](./350937-project-dar.json) |
 | Project Dark | 244818 | [244818-project-dark.json](./244818-project-dark.json) |
 | Project Dark Sky | 154282 | [154282-project-dark-sky.json](./154282-project-dark-sky.json) |
+| Project DarkHeaZ | 266040 | [266040-project-darkheaz.json](./266040-project-darkheaz.json) |
 | Project Darkness | 326863 | [326863-project-darkness.json](./326863-project-darkness.json) |
 | Project Death Strikers | 211272 | [211272-project-death-strikers.json](./211272-project-death-strikers.json) |
 | Project Death Wish | 151456 | [151456-project-death-wish.json](./151456-project-death-wish.json) |
@@ -15673,6 +15680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Mind | 197108 | [197108-project-mind.json](./197108-project-mind.json) |
 | Project Mirror | 156058 | [156058-project-mirror.json](./156058-project-mirror.json) |
 | Project Missionary: The Reckoning of Hizzokahpolis | 319074 | [319074-project-missionary-the-reckoning-of-hizzokahpolis.json](./319074-project-missionary-the-reckoning-of-hizzokahpolis.json) |
+| Project Mix | 266039 | [266039-project-mix.json](./266039-project-mix.json) |
 | Project Mnemosyne | 370706 | [370706-project-mnemosyne.json](./370706-project-mnemosyne.json) |
 | Project Monarch | 70422 | [70422-project-monarch.json](./70422-project-monarch.json) |
 | Project Moonborn | 284904 | [284904-project-moonborn.json](./284904-project-moonborn.json) |
@@ -18065,6 +18073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle of Love: Building My Heart | 336399 | [336399-puzzle-of-love-building-my-heart.json](./336399-puzzle-of-love-building-my-heart.json) |
 | Puzzle of Rose | 82585 | [82585-puzzle-of-rose.json](./82585-puzzle-of-rose.json) |
 | Puzzle of Santa Girl VR | 81932 | [81932-puzzle-of-santa-girl-vr.json](./81932-puzzle-of-santa-girl-vr.json) |
+| Puzzle of Selene | 266038 | [266038-puzzle-of-selene.json](./266038-puzzle-of-selene.json) |
 | Puzzle of Words | 37301 | [37301-puzzle-of-words.json](./37301-puzzle-of-words.json) |
 | Puzzle One | 46465 | [46465-puzzle-one.json](./46465-puzzle-one.json) |
 | Puzzle Out - Dots, Hexa Lines, Pipes, Tangram | 107101 | [107101-puzzle-out-dots-hexa-lines-pipes-tangram.json](./107101-puzzle-out-dots-hexa-lines-pipes-tangram.json) |
