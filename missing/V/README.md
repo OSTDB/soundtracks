@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valbrace | 318603 | [318603-valbrace.json](./318603-valbrace.json) |
 | Valcarta: Rise of the Demon | 32887 | [32887-valcarta-rise-of-the-demon.json](./32887-valcarta-rise-of-the-demon.json) |
 | Valdamour | 264531 | [264531-valdamour.json](./264531-valdamour.json) |
+| Valden Saga | 250694 | [250694-valden-saga.json](./250694-valden-saga.json) |
 | Valdis | 361991 | [361991-valdis.json](./361991-valdis.json) |
 | Valdis | 377296 | [377296-valdis.json](./377296-valdis.json) |
 | Valdrys | 418391 | [418391-valdrys.json](./418391-valdrys.json) |
@@ -1402,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venture II | 46889 | [46889-venture-ii.json](./46889-venture-ii.json) |
 | Venture Kid | 96439 | [96439-venture-kid.json](./96439-venture-kid.json) |
 | Venture Seas | 130574 | [130574-venture-seas.json](./130574-venture-seas.json) |
+| Venture to the Vile | 250704 | [250704-venture-to-the-vile.json](./250704-venture-to-the-vile.json) |
 | Venture Towns | 65498 | [65498-venture-towns.json](./65498-venture-towns.json) |
 | Venture Tycoon | 205984 | [205984-venture-tycoon.json](./205984-venture-tycoon.json) |
 | Venture Valley | 148946 | [148946-venture-valley.json](./148946-venture-valley.json) |
@@ -3648,6 +3650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel Horizon | 188631 | [188631-voxel-horizon.json](./188631-voxel-horizon.json) |
 | Voxel Hunters | 294055 | [294055-voxel-hunters.json](./294055-voxel-hunters.json) |
 | Voxel Interceptor | 59565 | [59565-voxel-interceptor.json](./59565-voxel-interceptor.json) |
+| Voxel Miner: Dwellers of The Deep | 250705 | [250705-voxel-miner-dwellers-of-the-deep.json](./250705-voxel-miner-dwellers-of-the-deep.json) |
 | Voxel Panic | 386379 | [386379-voxel-panic.json](./386379-voxel-panic.json) |
 | Voxel Pirate | 176396 | [176396-voxel-pirate.json](./176396-voxel-pirate.json) |
 | Voxel Pirates | 147474 | [147474-voxel-pirates.json](./147474-voxel-pirates.json) |
