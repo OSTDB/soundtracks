@@ -8588,6 +8588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Legends: Moons of Elsweyr | 119311 | [119311-the-elder-scrolls-legends-moons-of-elsweyr.json](./119311-the-elder-scrolls-legends-moons-of-elsweyr.json) |
 | The Elder Scrolls Online Collection: Gold Road | 306484 | [306484-the-elder-scrolls-online-collection-gold-road.json](./306484-the-elder-scrolls-online-collection-gold-road.json) |
 | The Elder Scrolls Online Collection: Necrom | 246570 | [246570-the-elder-scrolls-online-collection-necrom.json](./246570-the-elder-scrolls-online-collection-necrom.json) |
+| The Elder Scrolls Online Collection: Necrom - Deluxe Edition | 254217 | [254217-the-elder-scrolls-online-collection-necrom-deluxe-edition.json](./254217-the-elder-scrolls-online-collection-necrom-deluxe-edition.json) |
 | The Elder Scrolls Online: 2025 Premium Edition | 340745 | [340745-the-elder-scrolls-online-2025-premium-edition.json](./340745-the-elder-scrolls-online-2025-premium-edition.json) |
 | The Elder Scrolls Online: Ascending Tide | 237337 | [237337-the-elder-scrolls-online-ascending-tide.json](./237337-the-elder-scrolls-online-ascending-tide.json) |
 | The Elder Scrolls Online: Blackwood | 143024 | [143024-the-elder-scrolls-online-blackwood.json](./143024-the-elder-scrolls-online-blackwood.json) |
@@ -14543,6 +14544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Peak Addiction | 61637 | [61637-the-peak-addiction.json](./61637-the-peak-addiction.json) |
 | The Peak Climb VR | 215734 | [215734-the-peak-climb-vr.json](./215734-the-peak-climb-vr.json) |
 | The Peanuts Movie: Snoopy's Grand Adventure | 18993 | [18993-the-peanuts-movie-snoopys-grand-adventure.json](./18993-the-peanuts-movie-snoopys-grand-adventure.json) |
+| The Pear Game | 254224 | [254224-the-pear-game.json](./254224-the-pear-game.json) |
 | The Peephole's Chronicles: Weird John | 150030 | [150030-the-peepholes-chronicles-weird-john.json](./150030-the-peepholes-chronicles-weird-john.json) |
 | The Pegasus Dream Tour | 117304 | [117304-the-pegasus-dream-tour.json](./117304-the-pegasus-dream-tour.json) |
 | The Pegasus Expedition: Grand Admiral Edition | 254413 | [254413-the-pegasus-expedition-grand-admiral-edition.json](./254413-the-pegasus-expedition-grand-admiral-edition.json) |
@@ -15695,6 +15697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Screamer | 62616 | [62616-the-screamer.json](./62616-the-screamer.json) |
 | The Screecher | 317772 | [317772-the-screecher.json](./317772-the-screecher.json) |
 | The Screen | 369116 | [369116-the-screen.json](./369116-the-screen.json) |
+| The Screetch | 254256 | [254256-the-screetch.json](./254256-the-screetch.json) |
 | The Scroll of Akbar Khan | 232553 | [232553-the-scroll-of-akbar-khan.json](./232553-the-scroll-of-akbar-khan.json) |
 | The Scroll of Black Loong | 298422 | [298422-the-scroll-of-black-loong.json](./298422-the-scroll-of-black-loong.json) |
 | The Scroll of Taiwu | 103616 | [103616-the-scroll-of-taiwu.json](./103616-the-scroll-of-taiwu.json) |
@@ -30904,6 +30907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Driver: Heading North | 212231 | [212231-truck-driver-heading-north.json](./212231-truck-driver-heading-north.json) |
 | Truck Driver: Heavy Cargo | 263862 | [263862-truck-driver-heavy-cargo.json](./263862-truck-driver-heavy-cargo.json) |
 | Truck Driver: Hidden Places & Damage System | 164879 | [164879-truck-driver-hidden-places-and-damage-system.json](./164879-truck-driver-hidden-places-and-damage-system.json) |
+| Truck Driver: The American Dream | 254243 | [254243-truck-driver-the-american-dream.json](./254243-truck-driver-the-american-dream.json) |
 | Truck Driver: The American Dream - Freedom to Roam | 281428 | [281428-truck-driver-the-american-dream-freedom-to-roam.json](./281428-truck-driver-the-american-dream-freedom-to-roam.json) |
 | Truck Driver: The Dutch Connection | 369873 | [369873-truck-driver-the-dutch-connection.json](./369873-truck-driver-the-dutch-connection.json) |
 | Truck Driver: UK Paint Jobs | 241069 | [241069-truck-driver-uk-paint-jobs.json](./241069-truck-driver-uk-paint-jobs.json) |
