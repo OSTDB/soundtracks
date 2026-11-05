@@ -7899,6 +7899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floating Cloud God Saves the Pilgrims | 22321 | [22321-floating-cloud-god-saves-the-pilgrims.json](./22321-floating-cloud-god-saves-the-pilgrims.json) |
 | Floating Cloud God Saves the Pilgrims in HD! | 84154 | [84154-floating-cloud-god-saves-the-pilgrims-in-hd.json](./84154-floating-cloud-god-saves-the-pilgrims-in-hd.json) |
 | Floating Cloud God: Anniversary Edition | 225881 | [225881-floating-cloud-god-anniversary-edition.json](./225881-floating-cloud-god-anniversary-edition.json) |
+| Floating Coffin | 262765 | [262765-floating-coffin.json](./262765-floating-coffin.json) |
 | Floating Cuboid | 261931 | [261931-floating-cuboid.json](./261931-floating-cuboid.json) |
 | Floating Frontiers | 390988 | [390988-floating-frontiers.json](./390988-floating-frontiers.json) |
 | Floating Girl | 147391 | [147391-floating-girl.json](./147391-floating-girl.json) |
@@ -8119,6 +8120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flow Gear Racing | 153399 | [153399-flow-gear-racing.json](./153399-flow-gear-racing.json) |
 | Flow Handcrafted | 75663 | [75663-flow-handcrafted.json](./75663-flow-handcrafted.json) |
 | Flow levels | 95755 | [95755-flow-levels.json](./95755-flow-levels.json) |
+| Flow of Sound | 262764 | [262764-flow-of-sound.json](./262764-flow-of-sound.json) |
 | Flow of War | 272262 | [272262-flow-of-war.json](./272262-flow-of-war.json) |
 | Flow Parkour | 260894 | [260894-flow-parkour.json](./260894-flow-parkour.json) |
 | Flow Skate | 369048 | [369048-flow-skate.json](./369048-flow-skate.json) |
@@ -12191,6 +12193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Hell | 320610 | [320610-from-hell.json](./320610-from-hell.json) |
 | From Lamer to Guru | 367156 | [367156-from-lamer-to-guru.json](./367156-from-lamer-to-guru.json) |
 | From Lex to Rex | 195574 | [195574-from-lex-to-rex.json](./195574-from-lex-to-rex.json) |
+| From Light | 262745 | [262745-from-light.json](./262745-from-light.json) |
 | From Light | 59999 | [59999-from-light.json](./59999-from-light.json) |
 | From Madness with Love | 215934 | [215934-from-madness-with-love.json](./215934-from-madness-with-love.json) |
 | From Nava | 282139 | [282139-from-nava.json](./282139-from-nava.json) |
@@ -13417,6 +13420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Master: Slutbunnies | 393381 | [393381-furry-master-slutbunnies.json](./393381-furry-master-slutbunnies.json) |
 | Furry Meow | 224241 | [224241-furry-meow.json](./224241-furry-meow.json) |
 | Furry Milfs | 248815 | [248815-furry-milfs.json](./248815-furry-milfs.json) |
+| Furry Myth | 262750 | [262750-furry-myth.json](./262750-furry-myth.json) |
 | Furry Necromancer | 270046 | [270046-furry-necromancer.json](./270046-furry-necromancer.json) |
 | Furry Nights | 201585 | [201585-furry-nights.json](./201585-furry-nights.json) |
 | Furry No Revolution | 402070 | [402070-furry-no-revolution.json](./402070-furry-no-revolution.json) |
