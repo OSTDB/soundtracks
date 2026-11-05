@@ -4496,11 +4496,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 3 Reload: FeMC Mod | 327019 | [327019-persona-3-reload-femc-mod.json](./327019-persona-3-reload-femc-mod.json) |
 | Persona 3 Reload: FemC Reloaded Project | 328622 | [328622-persona-3-reload-femc-reloaded-project.json](./328622-persona-3-reload-femc-reloaded-project.json) |
 | Persona 3 Reload: Limited Box | 262641 | [262641-persona-3-reload-limited-box.json](./262641-persona-3-reload-limited-box.json) |
+| Persona 3 Reload: Persona 4 Golden EX BGM Set | 289701 | [289701-persona-3-reload-persona-4-golden-ex-bgm-set.json](./289701-persona-3-reload-persona-4-golden-ex-bgm-set.json) |
 | Persona 3 Reload: Persona 4 Golden Persona Set | 301578 | [301578-persona-3-reload-persona-4-golden-persona-set.json](./301578-persona-3-reload-persona-4-golden-persona-set.json) |
 | Persona 3 Reload: Persona 4 Golden Yasogami High Costume Set | 301567 | [301567-persona-3-reload-persona-4-golden-yasogami-high-costume-set.json](./301567-persona-3-reload-persona-4-golden-yasogami-high-costume-set.json) |
 | Persona 3 Reload: Persona 5 Royal BGM Set | 301573 | [301573-persona-3-reload-persona-5-royal-bgm-set.json](./301573-persona-3-reload-persona-5-royal-bgm-set.json) |
+| Persona 3 Reload: Persona 5 Royal EX BGM Set | 289702 | [289702-persona-3-reload-persona-5-royal-ex-bgm-set.json](./289702-persona-3-reload-persona-5-royal-ex-bgm-set.json) |
 | Persona 3 Reload: Persona 5 Royal Phantom Thieves Costume Set | 301577 | [301577-persona-3-reload-persona-5-royal-phantom-thieves-costume-set.json](./301577-persona-3-reload-persona-5-royal-phantom-thieves-costume-set.json) |
 | Persona 3 Reload: Persona 5 Royal Shujin Academy Costume Set | 301572 | [301572-persona-3-reload-persona-5-royal-shujin-academy-costume-set.json](./301572-persona-3-reload-persona-5-royal-shujin-academy-costume-set.json) |
+| Persona 3 Reload: Velvet Costume & BGM Set | 289700 | [289700-persona-3-reload-velvet-costume-and-bgm-set.json](./289700-persona-3-reload-velvet-costume-and-bgm-set.json) |
 | Persona 3: Dancing in Moonlight - "Our Moment" (full version) | 362131 | [362131-persona-3-dancing-in-moonlight-our-moment-full-version.json](./362131-persona-3-dancing-in-moonlight-our-moment-full-version.json) |
 | Persona 3: Dancing in Moonlight - "Wake Up, Get Up, Get Out There" (OP ver.) | 362139 | [362139-persona-3-dancing-in-moonlight-wake-up-get-up-get-out-there-op-ver.json](./362139-persona-3-dancing-in-moonlight-wake-up-get-up-get-out-there-op-ver.json) |
 | Persona 3: Dancing in Moonlight - Costume Season Pass | 362144 | [362144-persona-3-dancing-in-moonlight-costume-season-pass.json](./362144-persona-3-dancing-in-moonlight-costume-season-pass.json) |
@@ -7972,6 +7975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Pegz | 374648 | [374648-pixel-pegz.json](./374648-pixel-pegz.json) |
 | Pixel People | 22178 | [22178-pixel-people.json](./22178-pixel-people.json) |
 | Pixel Petals | 269218 | [269218-pixel-petals.json](./269218-pixel-petals.json) |
+| Pixel Pete | 289673 | [289673-pixel-pete.json](./289673-pixel-pete.json) |
 | Pixel Petkeeper | 213838 | [213838-pixel-petkeeper.json](./213838-pixel-petkeeper.json) |
 | Pixel Pets | 180950 | [180950-pixel-pets.json](./180950-pixel-pets.json) |
 | Pixel Petz | 140428 | [140428-pixel-petz.json](./140428-pixel-petz.json) |
