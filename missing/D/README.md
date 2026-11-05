@@ -13362,6 +13362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DotMatrixx | 91288 | [91288-dotmatrixx.json](./91288-dotmatrixx.json) |
 | Dotonon | 341677 | [341677-dotonon.json](./341677-dotonon.json) |
 | Dotori | 143600 | [143600-dotori.json](./143600-dotori.json) |
+| Dotower | 266001 | [266001-dotower.json](./266001-dotower.json) |
 | Dotra | 95080 | [95080-dotra.json](./95080-dotra.json) |
 | Dots | 27045 | [27045-dots.json](./27045-dots.json) |
 | Dots | 76631 | [76631-dots.json](./76631-dots.json) |
