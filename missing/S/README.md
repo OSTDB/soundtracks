@@ -2465,6 +2465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saw: Genesis | 404701 | [404701-saw-genesis.json](./404701-saw-genesis.json) |
 | SaWars | 126544 | [126544-sawars.json](./126544-sawars.json) |
 | Sawblader | 365854 | [365854-sawblader.json](./365854-sawblader.json) |
+| SawCon 64 | 262761 | [262761-sawcon-64.json](./262761-sawcon-64.json) |
 | Sawdust | 219612 | [219612-sawdust.json](./219612-sawdust.json) |
 | Sawdust | 314039 | [314039-sawdust.json](./314039-sawdust.json) |
 | Sawmania | 355124 | [355124-sawmania.json](./355124-sawmania.json) |
@@ -7897,6 +7898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherwood | 403549 | [403549-sherwood.json](./403549-sherwood.json) |
 | Sherwood Classic | 153682 | [153682-sherwood-classic.json](./153682-sherwood-classic.json) |
 | Sherwood Extreme | 137279 | [137279-sherwood-extreme.json](./137279-sherwood-extreme.json) |
+| Sherwood Extreme: Rogue Level Pack | 262739 | [262739-sherwood-extreme-rogue-level-pack.json](./262739-sherwood-extreme-rogue-level-pack.json) |
 | Sherwood Forest | 24936 | [24936-sherwood-forest.json](./24936-sherwood-forest.json) |
 | Sheryl: The Alchemist of the Island Ruins | 292524 | [292524-sheryl-the-alchemist-of-the-island-ruins.json](./292524-sheryl-the-alchemist-of-the-island-ruins.json) |
 | Sheva | 347994 | [347994-sheva.json](./347994-sheva.json) |
@@ -13426,6 +13428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Scramble | 309328 | [309328-slime-scramble.json](./309328-slime-scramble.json) |
 | Slime Sexy Party | 358339 | [358339-slime-sexy-party.json](./358339-slime-sexy-party.json) |
 | Slime Shoot | 312329 | [312329-slime-shoot.json](./312329-slime-shoot.json) |
+| Slime Siege | 262741 | [262741-slime-siege.json](./262741-slime-siege.json) |
 | Slime Simulator Games | 286786 | [286786-slime-simulator-games.json](./286786-slime-simulator-games.json) |
 | Slime Slam | 126967 | [126967-slime-slam.json](./126967-slime-slam.json) |
 | Slime Slayer | 147607 | [147607-slime-slayer.json](./147607-slime-slayer.json) |
@@ -18498,6 +18501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulstar X | 46427 | [46427-soulstar-x.json](./46427-soulstar-x.json) |
 | Soulstation | 402447 | [402447-soulstation.json](./402447-soulstation.json) |
 | Soulstice | 152262 | [152262-soulstice.json](./152262-soulstice.json) |
+| Soulstice: Ashen Blade Item Pack | 262738 | [262738-soulstice-ashen-blade-item-pack.json](./262738-soulstice-ashen-blade-item-pack.json) |
 | Soulstice: Deluxe Edition | 201781 | [201781-soulstice-deluxe-edition.json](./201781-soulstice-deluxe-edition.json) |
 | Soulstone of Hope | 266025 | [266025-soulstone-of-hope.json](./266025-soulstone-of-hope.json) |
 | Soulstone Survivors: Supporter Pack | 376150 | [376150-soulstone-survivors-supporter-pack.json](./376150-soulstone-survivors-supporter-pack.json) |
@@ -19269,7 +19273,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -29282,6 +29285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer and Poetry Journey | 308909 | [308909-summer-and-poetry-journey.json](./308909-summer-and-poetry-journey.json) |
 | Summer and Score Through the Doors | 391956 | [391956-summer-and-score-through-the-doors.json](./391956-summer-and-score-through-the-doors.json) |
 | Summer and Winter Sports Games Bundle: 4K Edition | 301778 | [301778-summer-and-winter-sports-games-bundle-4k-edition.json](./301778-summer-and-winter-sports-games-bundle-4k-edition.json) |
+| Summer at Catmai: Fishing Purrrfected | 262727 | [262727-summer-at-catmai-fishing-purrrfected.json](./262727-summer-at-catmai-fishing-purrrfected.json) |
 | Summer at Marisol Bay | 183035 | [183035-summer-at-marisol-bay.json](./183035-summer-at-marisol-bay.json) |
 | Summer at the Edge of the Universe | 285617 | [285617-summer-at-the-edge-of-the-universe.json](./285617-summer-at-the-edge-of-the-universe.json) |
 | Summer Athletics | 5196 | [5196-summer-athletics.json](./5196-summer-athletics.json) |
@@ -31575,6 +31579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Match! The Ultimate Matching Game | 167504 | [167504-super-match-the-ultimate-matching-game.json](./167504-super-match-the-ultimate-matching-game.json) |
 | Super Maura Bros. 3 | 267386 | [267386-super-maura-bros-3.json](./267386-super-maura-bros-3.json) |
 | Super Mayhem 17 | 269128 | [269128-super-mayhem-17.json](./269128-super-mayhem-17.json) |
+| Super Mayor | 262751 | [262751-super-mayor.json](./262751-super-mayor.json) |
 | Super Maze | 62409 | [62409-super-maze.json](./62409-super-maze.json) |
 | Super Maze Labyrinth | 159765 | [159765-super-maze-labyrinth.json](./159765-super-maze-labyrinth.json) |
 | Super Maze Planet | 212134 | [212134-super-maze-planet.json](./212134-super-maze-planet.json) |
@@ -34865,6 +34870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Apocalypse: Episode 3 | 413402 | [413402-sword-of-the-apocalypse-episode-3.json](./413402-sword-of-the-apocalypse-episode-3.json) |
 | Sword of the Apocalypse: Episode 4 | 413386 | [413386-sword-of-the-apocalypse-episode-4.json](./413386-sword-of-the-apocalypse-episode-4.json) |
 | Sword of the Berserk: Guts' Rage | 28840 | [28840-sword-of-the-berserk-guts-rage.json](./28840-sword-of-the-berserk-guts-rage.json) |
+| Sword of the Cat: Lost Hope | 262769 | [262769-sword-of-the-cat-lost-hope.json](./262769-sword-of-the-cat-lost-hope.json) |
 | Sword of the Dimacreation | 109191 | [109191-sword-of-the-dimacreation.json](./109191-sword-of-the-dimacreation.json) |
 | Sword of the Dimacreation: Side Story - The Hunt of Rabbit | 97521 | [97521-sword-of-the-dimacreation-side-story-the-hunt-of-rabbit.json](./97521-sword-of-the-dimacreation-side-story-the-hunt-of-rabbit.json) |
 | Sword of the Dimacreation: Side Story 2 - Triangle Christmas Chrityous | 97520 | [97520-sword-of-the-dimacreation-side-story-2-triangle-christmas-chrityous.json](./97520-sword-of-the-dimacreation-side-story-2-triangle-christmas-chrityous.json) |
