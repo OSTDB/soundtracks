@@ -3576,6 +3576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endgame | 228970 | [228970-endgame.json](./228970-endgame.json) |
 | Endgame | 23774 | [23774-endgame.json](./23774-endgame.json) |
 | EndGame | 303514 | [303514-endgame.json](./303514-endgame.json) |
+| Endgame of Devil | 259945 | [259945-endgame-of-devil.json](./259945-endgame-of-devil.json) |
 | Endhall | 111176 | [111176-endhall.json](./111176-endhall.json) |
 | Endhop | 383631 | [383631-endhop.json](./383631-endhop.json) |
 | Endica VII: The Dream King | 35924 | [35924-endica-vii-the-dream-king.json](./35924-endica-vii-the-dream-king.json) |
