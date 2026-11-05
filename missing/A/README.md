@@ -15366,6 +15366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astlan | 184270 | [184270-astlan.json](./184270-astlan.json) |
 | Astlibra Gaiden: The Cave of Phantom Mist | 395862 | [395862-astlibra-gaiden-the-cave-of-phantom-mist.json](./395862-astlibra-gaiden-the-cave-of-phantom-mist.json) |
 | Astlibra Mini Side Story: Cave of Genghiri | 185876 | [185876-astlibra-mini-side-story-cave-of-genghiri.json](./185876-astlibra-mini-side-story-cave-of-genghiri.json) |
+| Astlibra Revision Gaiden: The Cave of Phantom Mist | 281180 | [281180-astlibra-revision-gaiden-the-cave-of-phantom-mist.json](./281180-astlibra-revision-gaiden-the-cave-of-phantom-mist.json) |
 | Astlibra: Living Proof | 185875 | [185875-astlibra-living-proof.json](./185875-astlibra-living-proof.json) |
 | Astoaria | 226227 | [226227-astoaria.json](./226227-astoaria.json) |
 | Aston | 296344 | [296344-aston.json](./296344-aston.json) |
