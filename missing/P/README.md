@@ -4289,6 +4289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Murder | 209444 | [209444-perfect-murder.json](./209444-perfect-murder.json) |
 | Perfect New World | 175717 | [175717-perfect-new-world.json](./175717-perfect-new-world.json) |
 | Perfect Ninja Bundle | 331486 | [331486-perfect-ninja-bundle.json](./331486-perfect-ninja-bundle.json) |
+| Perfect Ninja Painter 2 | 290739 | [290739-perfect-ninja-painter-2.json](./290739-perfect-ninja-painter-2.json) |
 | Perfect Ninja Painter 3 | 329513 | [329513-perfect-ninja-painter-3.json](./329513-perfect-ninja-painter-3.json) |
 | Perfect Ninja Painter 4 | 402059 | [402059-perfect-ninja-painter-4.json](./402059-perfect-ninja-painter-4.json) |
 | Perfect Pachinko | 385719 | [385719-perfect-pachinko.json](./385719-perfect-pachinko.json) |
@@ -5544,6 +5545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phonopolis | 204549 | [204549-phonopolis.json](./204549-phonopolis.json) |
 | Phoots and the Pineapple Throne | 304015 | [304015-phoots-and-the-pineapple-throne.json](./304015-phoots-and-the-pineapple-throne.json) |
 | Phos | 143971 | [143971-phos.json](./143971-phos.json) |
+| Phosphenia | 290670 | [290670-phosphenia.json](./290670-phosphenia.json) |
 | Phosphor | 267767 | [267767-phosphor.json](./267767-phosphor.json) |
 | Photo Clock | 84692 | [84692-photo-clock.json](./84692-photo-clock.json) |
 | Photo Dojo | 67245 | [67245-photo-dojo.json](./67245-photo-dojo.json) |
@@ -6969,6 +6971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pineapple Pen | 87169 | [87169-pineapple-pen.json](./87169-pineapple-pen.json) |
 | Pineapple Pipeline: Infinite Skater Dreams | 185385 | [185385-pineapple-pipeline-infinite-skater-dreams.json](./185385-pineapple-pipeline-infinite-skater-dreams.json) |
 | Pineapple Smash Crew | 16330 | [16330-pineapple-smash-crew.json](./16330-pineapple-smash-crew.json) |
+| Pineapple: A Bittersweet Revenge | 290748 | [290748-pineapple-a-bittersweet-revenge.json](./290748-pineapple-a-bittersweet-revenge.json) |
 | PineapplePizza | 28159 | [28159-pineapplepizza.json](./28159-pineapplepizza.json) |
 | Pinecone Grove | 420513 | [420513-pinecone-grove.json](./420513-pinecone-grove.json) |
 | Pinedrop Vale | 358655 | [358655-pinedrop-vale.json](./358655-pinedrop-vale.json) |
@@ -12284,6 +12287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Top Adventure | 195538 | [195538-pop-top-adventure.json](./195538-pop-top-adventure.json) |
 | Pop Town | 26561 | [26561-pop-town.json](./26561-pop-town.json) |
 | Pop Up Computer | 285034 | [285034-pop-up-computer.json](./285034-pop-up-computer.json) |
+| Pop Up Story: Mahou no Hon to Seiju no Gakuen | 290668 | [290668-pop-up-story-mahou-no-hon-to-seiju-no-gakuen.json](./290668-pop-up-story-mahou-no-hon-to-seiju-no-gakuen.json) |
 | Pop-a-Chick | 232043 | [232043-pop-a-chick.json](./232043-pop-a-chick.json) |
 | Pop-A-Tronic | 50242 | [50242-pop-a-tronic.json](./50242-pop-a-tronic.json) |
 | Pop-It! Or Don't.. | 150952 | [150952-pop-it-or-dont.json](./150952-pop-it-or-dont.json) |
