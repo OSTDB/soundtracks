@@ -579,6 +579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamiji | 264056 | [264056-kamiji.json](./264056-kamiji.json) |
 | Kamikakushi | 133395 | [133395-kamikakushi.json](./133395-kamikakushi.json) |
 | Kamikaze | 12651 | [12651-kamikaze.json](./12651-kamikaze.json) |
+| Kamikaze | 284698 | [284698-kamikaze.json](./284698-kamikaze.json) |
 | Kamikaze | 328057 | [328057-kamikaze.json](./328057-kamikaze.json) |
 | Kamikaze Bros. 3 | 214771 | [214771-kamikaze-bros-3.json](./214771-kamikaze-bros-3.json) |
 | Kamikaze cabbie | 39813 | [39813-kamikaze-cabbie.json](./39813-kamikaze-cabbie.json) |
@@ -1975,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keys of The Kingdom | 209840 | [209840-keys-of-the-kingdom.json](./209840-keys-of-the-kingdom.json) |
 | Keys to Wonderland | 399623 | [399623-keys-to-wonderland.json](./399623-keys-to-wonderland.json) |
 | Keys, Please | 272176 | [272176-keys-please.json](./272176-keys-please.json) |
+| Keysmasher Ultimate | 284739 | [284739-keysmasher-ultimate.json](./284739-keysmasher-ultimate.json) |
 | Keyspace | 321040 | [321040-keyspace.json](./321040-keyspace.json) |
 | Keystone Kapers | 12311 | [12311-keystone-kapers.json](./12311-keystone-kapers.json) |
 | Keystone Kapers | 198792 | [198792-keystone-kapers.json](./198792-keystone-kapers.json) |
