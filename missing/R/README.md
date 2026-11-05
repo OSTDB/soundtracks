@@ -4914,8 +4914,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnant Generation: Prologue | 392293 | [392293-remnant-generation-prologue.json](./392293-remnant-generation-prologue.json) |
 | Remnant Humanity | 414685 | [414685-remnant-humanity.json](./414685-remnant-humanity.json) |
 | Remnant II | 228535 | [228535-remnant-ii.json](./228535-remnant-ii.json) |
+| Remnant II: Deluxe Edition | 252494 | [252494-remnant-ii-deluxe-edition.json](./252494-remnant-ii-deluxe-edition.json) |
 | Remnant II: The Dark Horizon | 317619 | [317619-remnant-ii-the-dark-horizon.json](./317619-remnant-ii-the-dark-horizon.json) |
 | Remnant II: The Forgotten Kingdom | 297261 | [297261-remnant-ii-the-forgotten-kingdom.json](./297261-remnant-ii-the-forgotten-kingdom.json) |
+| Remnant II: Ultimate Edition | 252495 | [252495-remnant-ii-ultimate-edition.json](./252495-remnant-ii-ultimate-edition.json) |
 | Remnant Knights | 65715 | [65715-remnant-knights.json](./65715-remnant-knights.json) |
 | Remnant Protocol | 236496 | [236496-remnant-protocol.json](./236496-remnant-protocol.json) |
 | Remnant Records | 198688 | [198688-remnant-records.json](./198688-remnant-records.json) |
@@ -10916,6 +10918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roots Devour | 331443 | [331443-roots-devour.json](./331443-roots-devour.json) |
 | Roots in the Sky: The Hand of Glory 2 | 208675 | [208675-roots-in-the-sky-the-hand-of-glory-2.json](./208675-roots-in-the-sky-the-hand-of-glory-2.json) |
 | Roots Need Control 3.0 | 243121 | [243121-roots-need-control-3-0.json](./243121-roots-need-control-3-0.json) |
+| Roots Need Control 3.0: Roots Need Chungnam 8.7 | 252520 | [252520-roots-need-control-3-0-roots-need-chungnam-8-7.json](./252520-roots-need-control-3-0-roots-need-chungnam-8-7.json) |
 | Roots of Cinder | 270081 | [270081-roots-of-cinder.json](./270081-roots-of-cinder.json) |
 | Roots of Fury | 290529 | [290529-roots-of-fury.json](./290529-roots-of-fury.json) |
 | Roots of Harmony | 320561 | [320561-roots-of-harmony.json](./320561-roots-of-harmony.json) |
@@ -11939,6 +11942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruins of The Titan | 365069 | [365069-ruins-of-the-titan.json](./365069-ruins-of-the-titan.json) |
 | Ruins of the Unforgotten Souls | 299846 | [299846-ruins-of-the-unforgotten-souls.json](./299846-ruins-of-the-unforgotten-souls.json) |
 | Ruins of Wish: Ephemeral Traveler | 82516 | [82516-ruins-of-wish-ephemeral-traveler.json](./82516-ruins-of-wish-ephemeral-traveler.json) |
+| Ruins Story | 252468 | [252468-ruins-story.json](./252468-ruins-story.json) |
 | Ruins Survival | 114511 | [114511-ruins-survival.json](./114511-ruins-survival.json) |
 | Ruins To Fortress | 273638 | [273638-ruins-to-fortress.json](./273638-ruins-to-fortress.json) |
 | Ruins: The Gate of Rebirth | 284256 | [284256-ruins-the-gate-of-rebirth.json](./284256-ruins-the-gate-of-rebirth.json) |
