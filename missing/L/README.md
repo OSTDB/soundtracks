@@ -662,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lana and the Milking Table | 238534 | [238534-lana-and-the-milking-table.json](./238534-lana-and-the-milking-table.json) |
 | Lana: Queen of Ancient Egypt | 348827 | [348827-lana-queen-of-ancient-egypt.json](./348827-lana-queen-of-ancient-egypt.json) |
 | Lanadgel | 112664 | [112664-lanadgel.json](./112664-lanadgel.json) |
+| Lanayxy's Landscapes | 250094 | [250094-lanayxys-landscapes.json](./250094-lanayxys-landscapes.json) |
 | Lancaster | 292836 | [292836-lancaster.json](./292836-lancaster.json) |
 | Lancaster | 71943 | [71943-lancaster.json](./71943-lancaster.json) |
 | Lance A Lot | 18948 | [18948-lance-a-lot.json](./18948-lance-a-lot.json) |
@@ -8006,6 +8007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Space | 179026 | [179026-lost-in-space.json](./179026-lost-in-space.json) |
 | Lost in Space | 278408 | [278408-lost-in-space.json](./278408-lost-in-space.json) |
 | Lost In Space 2 | 93795 | [93795-lost-in-space-2.json](./93795-lost-in-space-2.json) |
+| Lost In Space: Dimensions | 250110 | [250110-lost-in-space-dimensions.json](./250110-lost-in-space-dimensions.json) |
 | Lost In Space: infinite frontier | 183387 | [183387-lost-in-space-infinite-frontier.json](./183387-lost-in-space-infinite-frontier.json) |
 | Lost In Space: The First Adventure | 197549 | [197549-lost-in-space-the-first-adventure.json](./197549-lost-in-space-the-first-adventure.json) |
 | Lost In Static | 319080 | [319080-lost-in-static.json](./319080-lost-in-static.json) |
@@ -9288,6 +9290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludo Ultimate Online Dice Game | 91343 | [91343-ludo-ultimate-online-dice-game.json](./91343-ludo-ultimate-online-dice-game.json) |
 | Ludo XXL | 173136 | [173136-ludo-xxl.json](./173136-ludo-xxl.json) |
 | Ludo XXL 2 | 362369 | [362369-ludo-xxl-2.json](./362369-ludo-xxl-2.json) |
+| Ludo's Quest | 250116 | [250116-ludos-quest.json](./250116-ludos-quest.json) |
 | Ludoku | 35332 | [35332-ludoku.json](./35332-ludoku.json) |
 | Ludomalica | 392278 | [392278-ludomalica.json](./392278-ludomalica.json) |
 | Ludomania | 109256 | [109256-ludomania.json](./109256-ludomania.json) |
