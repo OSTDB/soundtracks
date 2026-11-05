@@ -9675,6 +9675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Memories: Definitive Edition | 207858 | [207858-forgotten-memories-definitive-edition.json](./207858-forgotten-memories-definitive-edition.json) |
 | Forgotten Memories: Remastered Edition | 319631 | [319631-forgotten-memories-remastered-edition.json](./319631-forgotten-memories-remastered-edition.json) |
 | Forgotten Mines | 237022 | [237022-forgotten-mines.json](./237022-forgotten-mines.json) |
+| Forgotten Monsters | 294929 | [294929-forgotten-monsters.json](./294929-forgotten-monsters.json) |
 | Forgotten Myths CCG | 36302 | [36302-forgotten-myths-ccg.json](./36302-forgotten-myths-ccg.json) |
 | Forgotten Passages | 127164 | [127164-forgotten-passages.json](./127164-forgotten-passages.json) |
 | Forgotten Paths | 336859 | [336859-forgotten-paths.json](./336859-forgotten-paths.json) |
