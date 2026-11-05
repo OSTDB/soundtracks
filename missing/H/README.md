@@ -5822,6 +5822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Team | 158918 | [158918-hero-team.json](./158918-hero-team.json) |
 | Hero Tower | 132746 | [132746-hero-tower.json](./132746-hero-tower.json) |
 | Hero Tower Wars | 340537 | [340537-hero-tower-wars.json](./340537-hero-tower-wars.json) |
+| Hero Trial | 261593 | [261593-hero-trial.json](./261593-hero-trial.json) |
 | Hero Village Simulator | 86467 | [86467-hero-village-simulator.json](./86467-hero-village-simulator.json) |
 | Hero vs. 1000 | 302044 | [302044-hero-vs-1000.json](./302044-hero-vs-1000.json) |
 | Hero Wars | 140571 | [140571-hero-wars.json](./140571-hero-wars.json) |
