@@ -1251,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candles of the Damned | 271491 | [271491-candles-of-the-damned.json](./271491-candles-of-the-damned.json) |
 | Candoo Ninja | 97808 | [97808-candoo-ninja.json](./97808-candoo-ninja.json) |
 | Candy | 104011 | [104011-candy.json](./104011-candy.json) |
+| Candy & Clyde | 284723 | [284723-candy-and-clyde.json](./284723-candy-and-clyde.json) |
 | Candy & Toys Store Simulator | 306391 | [306391-candy-and-toys-store-simulator.json](./306391-candy-and-toys-store-simulator.json) |
 | Candy 2048 Challenge | 147132 | [147132-candy-2048-challenge.json](./147132-candy-2048-challenge.json) |
 | Candy Adventure | 233915 | [233915-candy-adventure.json](./233915-candy-adventure.json) |
@@ -7828,6 +7829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Corp | 284970 | [284970-christmas-corp.json](./284970-christmas-corp.json) |
 | Christmas Countdown | 303733 | [303733-christmas-countdown.json](./303733-christmas-countdown.json) |
 | Christmas Country | 45938 | [45938-christmas-country.json](./45938-christmas-country.json) |
+| Christmas Crimes Bundle | 284701 | [284701-christmas-crimes-bundle.json](./284701-christmas-crimes-bundle.json) |
 | Christmas Crisis | 45937 | [45937-christmas-crisis.json](./45937-christmas-crisis.json) |
 | Christmas Day | 150359 | [150359-christmas-day.json](./150359-christmas-day.json) |
 | Christmas Defence | 112774 | [112774-christmas-defence.json](./112774-christmas-defence.json) |
@@ -10428,6 +10430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clown | 169966 | [169966-clown.json](./169966-clown.json) |
 | Clown | 359365 | [359365-clown.json](./359365-clown.json) |
 | Clown | 394087 | [394087-clown.json](./394087-clown.json) |
+| Clown Around | 284727 | [284727-clown-around.json](./284727-clown-around.json) |
 | Clown Art | 267856 | [267856-clown-art.json](./267856-clown-art.json) |
 | Clown Ball | 368228 | [368228-clown-ball.json](./368228-clown-ball.json) |
 | Clown Camp | 346081 | [346081-clown-camp.json](./346081-clown-camp.json) |
@@ -19621,6 +19624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Socks | 310722 | [310722-cute-socks.json](./310722-cute-socks.json) |
 | Cute Space Bosses | 114687 | [114687-cute-space-bosses.json](./114687-cute-space-bosses.json) |
 | Cute Star Heroes | 349471 | [349471-cute-star-heroes.json](./349471-cute-star-heroes.json) |
+| Cute Suika: Big Watermelon | 284722 | [284722-cute-suika-big-watermelon.json](./284722-cute-suika-big-watermelon.json) |
 | Cute Techno Slayer: Re Seele | 379700 | [379700-cute-techno-slayer-re-seele.json](./379700-cute-techno-slayer-re-seele.json) |
 | Cute Things Dying Violently | 12394 | [12394-cute-things-dying-violently.json](./12394-cute-things-dying-violently.json) |
 | Cute Train | 203148 | [203148-cute-train.json](./203148-cute-train.json) |
