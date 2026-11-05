@@ -2030,6 +2030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy of Master | 241228 | [241228-fantasy-of-master.json](./241228-fantasy-of-master.json) |
 | Fantasy Office | 226445 | [226445-fantasy-office.json](./226445-fantasy-office.json) |
 | Fantasy Online 2 | 327624 | [327624-fantasy-online-2.json](./327624-fantasy-online-2.json) |
+| Fantasy Online: Remake | 274777 | [274777-fantasy-online-remake.json](./274777-fantasy-online-remake.json) |
 | Fantasy Pinball | 230713 | [230713-fantasy-pinball.json](./230713-fantasy-pinball.json) |
 | Fantasy Pirates | 85657 | [85657-fantasy-pirates.json](./85657-fantasy-pirates.json) |
 | Fantasy Princess - Girls Makeup & Dress Up Games | 87491 | [87491-fantasy-princess-girls-makeup-and-dress-up-games.json](./87491-fantasy-princess-girls-makeup-and-dress-up-games.json) |
@@ -6713,6 +6714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FitStrike | 187138 | [187138-fitstrike.json](./187138-fitstrike.json) |
 | Fittest | 100167 | [100167-fittest.json](./100167-fittest.json) |
 | Fittest | 195931 | [195931-fittest.json](./195931-fittest.json) |
+| Fitting In | 274822 | [274822-fitting-in.json](./274822-fitting-in.json) |
 | Fitting-In | 253942 | [253942-fitting-in.json](./253942-fitting-in.json) |
 | FitXR | 142345 | [142345-fitxr.json](./142345-fitxr.json) |
 | Fitz 2 | 243090 | [243090-fitz-2.json](./243090-fitz-2.json) |
@@ -9538,6 +9540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foretales: Deluxe Edition | 218690 | [218690-foretales-deluxe-edition.json](./218690-foretales-deluxe-edition.json) |
 | Forever Ago | 136299 | [136299-forever-ago.json](./136299-forever-ago.json) |
 | Forever and Ever | 167478 | [167478-forever-and-ever.json](./167478-forever-and-ever.json) |
+| Forever and Ever | 274790 | [274790-forever-and-ever.json](./274790-forever-and-ever.json) |
 | Forever and One More Day | 272112 | [272112-forever-and-one-more-day.json](./272112-forever-and-one-more-day.json) |
 | Forever Blue Luminous | 288165 | [288165-forever-blue-luminous.json](./288165-forever-blue-luminous.json) |
 | Forever Drive | 246964 | [246964-forever-drive.json](./246964-forever-drive.json) |
@@ -11363,6 +11366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freecell Solitaire Cube | 80325 | [80325-freecell-solitaire-cube.json](./80325-freecell-solitaire-cube.json) |
 | Freecell Solitaire Deluxe | 125682 | [125682-freecell-solitaire-deluxe.json](./125682-freecell-solitaire-deluxe.json) |
 | FreeCell X | 100993 | [100993-freecell-x.json](./100993-freecell-x.json) |
+| FreeChicken | 274800 | [274800-freechicken.json](./274800-freechicken.json) |
 | Freeciv | 73190 | [73190-freeciv.json](./73190-freeciv.json) |
 | FreeCraft Survival Pocket Edition | 338777 | [338777-freecraft-survival-pocket-edition.json](./338777-freecraft-survival-pocket-edition.json) |
 | Freed Soft | 149847 | [149847-freed-soft.json](./149847-freed-soft.json) |
