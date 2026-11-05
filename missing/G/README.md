@@ -3680,6 +3680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Hunting Journal | 399212 | [399212-ghost-hunting-journal.json](./399212-ghost-hunting-journal.json) |
 | Ghost in the Brain | 263224 | [263224-ghost-in-the-brain.json](./263224-ghost-in-the-brain.json) |
 | Ghost in the Machine | 35475 | [35475-ghost-in-the-machine.json](./35475-ghost-in-the-machine.json) |
+| Ghost In The Mirror: Episode 1 - Here Be Dragons | 268283 | [268283-ghost-in-the-mirror-episode-1-here-be-dragons.json](./268283-ghost-in-the-mirror-episode-1-here-be-dragons.json) |
 | Ghost in the Sheet | 71859 | [71859-ghost-in-the-sheet.json](./71859-ghost-in-the-sheet.json) |
 | Ghost in the Shell GBC | 400490 | [400490-ghost-in-the-shell-gbc.json](./400490-ghost-in-the-shell-gbc.json) |
 | Ghost in the Shell: Arise - Stealth Hounds | 52005 | [52005-ghost-in-the-shell-arise-stealth-hounds.json](./52005-ghost-in-the-shell-arise-stealth-hounds.json) |
@@ -4686,6 +4687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GlaiveBound | 290719 | [290719-glaivebound.json](./290719-glaivebound.json) |
 | Glam Descent | 260003 | [260003-glam-descent.json](./260003-glam-descent.json) |
 | Glam Doll House: Fashion Girls Craft & Exploration | 88025 | [88025-glam-doll-house-fashion-girls-craft-and-exploration.json](./88025-glam-doll-house-fashion-girls-craft-and-exploration.json) |
+| Glam Pursuit | 268279 | [268279-glam-pursuit.json](./268279-glam-pursuit.json) |
 | Glam the Rocker | 413712 | [413712-glam-the-rocker.json](./413712-glam-the-rocker.json) |
 | Glam's Incredible Run: Escape from Dukha | 146682 | [146682-glams-incredible-run-escape-from-dukha.json](./146682-glams-incredible-run-escape-from-dukha.json) |
 | Glamor | 131112 | [131112-glamor.json](./131112-glamor.json) |
@@ -8285,6 +8287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graviteam Tactics: Operation Star - Sokolovo 1943 | 52365 | [52365-graviteam-tactics-operation-star-sokolovo-1943.json](./52365-graviteam-tactics-operation-star-sokolovo-1943.json) |
 | Graviteam Tactics: Operation Star - Volokonovka 1942 | 155496 | [155496-graviteam-tactics-operation-star-volokonovka-1942.json](./155496-graviteam-tactics-operation-star-volokonovka-1942.json) |
 | Graviteam Tactics: Operation Star - Zhalanashkol 1969 | 54061 | [54061-graviteam-tactics-operation-star-zhalanashkol-1969.json](./54061-graviteam-tactics-operation-star-zhalanashkol-1969.json) |
+| Graviteam Tactics: Stalemate on Donets | 268284 | [268284-graviteam-tactics-stalemate-on-donets.json](./268284-graviteam-tactics-stalemate-on-donets.json) |
 | Graviteam Tactics: The Far Escape | 304450 | [304450-graviteam-tactics-the-far-escape.json](./304450-graviteam-tactics-the-far-escape.json) |
 | GraviTech | 349041 | [349041-gravitech.json](./349041-gravitech.json) |
 | Gravitee | 262142 | [262142-gravitee.json](./262142-gravitee.json) |
@@ -9798,6 +9801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grudgeborn | 363158 | [363158-grudgeborn.json](./363158-grudgeborn.json) |
 | Grudger | 412019 | [412019-grudger.json](./412019-grudger.json) |
 | Gruel | 292396 | [292396-gruel.json](./292396-gruel.json) |
+| Grug to Future | 268287 | [268287-grug-to-future.json](./268287-grug-to-future.json) |
 | Grugs | 266132 | [266132-grugs.json](./266132-grugs.json) |
 | Grumblemoor | 347171 | [347171-grumblemoor.json](./347171-grumblemoor.json) |
 | Grump's Dream Course | 37890 | [37890-grumps-dream-course.json](./37890-grumps-dream-course.json) |
