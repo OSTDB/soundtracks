@@ -2035,6 +2035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yurukill: The Calumniation Games - Deluxe Edition | 175976 | [175976-yurukill-the-calumniation-games-deluxe-edition.json](./175976-yurukill-the-calumniation-games-deluxe-edition.json) |
 | Yurutto Manaberu Classic | 251620 | [251620-yurutto-manaberu-classic.json](./251620-yurutto-manaberu-classic.json) |
 | Yurutto Manaberu Meisaku Bungaku | 260695 | [260695-yurutto-manaberu-meisaku-bungaku.json](./260695-yurutto-manaberu-meisaku-bungaku.json) |
+| Yurutto Manaberu Seiza to Shinwa | 264951 | [264951-yurutto-manaberu-seiza-to-shinwa.json](./264951-yurutto-manaberu-seiza-to-shinwa.json) |
 | Yurutto Manaberu Sekai Isan | 251619 | [251619-yurutto-manaberu-sekai-isan.json](./251619-yurutto-manaberu-sekai-isan.json) |
 | Yurutto Manaberu Sekai no Kaiga | 251618 | [251618-yurutto-manaberu-sekai-no-kaiga.json](./251618-yurutto-manaberu-sekai-no-kaiga.json) |
 | Yurutto Manaberu Tetsugaku | 260694 | [260694-yurutto-manaberu-tetsugaku.json](./260694-yurutto-manaberu-tetsugaku.json) |
