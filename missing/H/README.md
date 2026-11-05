@@ -11685,6 +11685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt: Showdown - The Penitent | 239507 | [239507-hunt-showdown-the-penitent.json](./239507-hunt-showdown-the-penitent.json) |
 | Hunt: Showdown - The Prescient Night | 256741 | [256741-hunt-showdown-the-prescient-night.json](./256741-hunt-showdown-the-prescient-night.json) |
 | Hunt: Showdown - Through the Bone Briar | 166069 | [166069-hunt-showdown-through-the-bone-briar.json](./166069-hunt-showdown-through-the-bone-briar.json) |
+| Hunt: Showdown 1896 - Bark, Bone and Blood | 262035 | [262035-hunt-showdown-1896-bark-bone-and-blood.json](./262035-hunt-showdown-1896-bark-bone-and-blood.json) |
 | Hunt: Showdown 1896 - Biatatá: Still Waters Run Deep | 241309 | [241309-hunt-showdown-1896-biatata-still-waters-run-deep.json](./241309-hunt-showdown-1896-biatata-still-waters-run-deep.json) |
 | Hunt: Showdown 1896 - Commedia Della Morte | 237805 | [237805-hunt-showdown-1896-commedia-della-morte.json](./237805-hunt-showdown-1896-commedia-della-morte.json) |
 | Hunt: Showdown 1896 - Deluxe Edition | 313779 | [313779-hunt-showdown-1896-deluxe-edition.json](./313779-hunt-showdown-1896-deluxe-edition.json) |
