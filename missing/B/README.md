@@ -951,7 +951,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7156,6 +7155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bifusion | 292057 | [292057-bifusion.json](./292057-bifusion.json) |
 | Big 10 | 54993 | [54993-big-10.json](./54993-big-10.json) |
 | Big 4 Sports Trivia | 89050 | [89050-big-4-sports-trivia.json](./89050-big-4-sports-trivia.json) |
+| Big 8 Solitaire | 285279 | [285279-big-8-solitaire.json](./285279-big-8-solitaire.json) |
 | Big Action Mega Fight! | 35586 | [35586-big-action-mega-fight.json](./35586-big-action-mega-fight.json) |
 | Big Adventure | 330271 | [330271-big-adventure.json](./330271-big-adventure.json) |
 | Big Adventure | 411977 | [411977-big-adventure.json](./411977-big-adventure.json) |
