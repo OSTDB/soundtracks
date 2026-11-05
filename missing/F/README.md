@@ -8161,6 +8161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowerbots | 330213 | [330213-flowerbots.json](./330213-flowerbots.json) |
 | FlowerCorner: Plant Watering To Vibe To | 380213 | [380213-flowercorner-plant-watering-to-vibe-to.json](./380213-flowercorner-plant-watering-to-vibe-to.json) |
 | Flowerdrops | 134984 | [134984-flowerdrops.json](./134984-flowerdrops.json) |
+| Flowereverie | 275940 | [275940-flowereverie.json](./275940-flowereverie.json) |
 | FlowerField | 291824 | [291824-flowerfield.json](./291824-flowerfield.json) |
 | Flowerhorn Aquarium | 255748 | [255748-flowerhorn-aquarium.json](./255748-flowerhorn-aquarium.json) |
 | Flowering Across | 153419 | [153419-flowering-across.json](./153419-flowering-across.json) |
