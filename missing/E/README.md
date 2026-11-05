@@ -6684,6 +6684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everhood | 132083 | [132083-everhood.json](./132083-everhood.json) |
 | Everhood 2 | 253100 | [253100-everhood-2.json](./253100-everhood-2.json) |
 | Everhood Hunters | 393729 | [393729-everhood-hunters.json](./393729-everhood-hunters.json) |
+| Everhood: Eternity Edition | 267154 | [267154-everhood-eternity-edition.json](./267154-everhood-eternity-edition.json) |
 | Evering | 182386 | [182386-evering.json](./182386-evering.json) |
 | Everise | 388980 | [388980-everise.json](./388980-everise.json) |
 | Everland | 38669 | [38669-everland.json](./38669-everland.json) |
