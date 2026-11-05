@@ -8523,6 +8523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Saucer | 358845 | [358845-flying-saucer.json](./358845-flying-saucer.json) |
 | Flying Saucer | 73751 | [73751-flying-saucer.json](./73751-flying-saucer.json) |
 | Flying Saucers | 230866 | [230866-flying-saucers.json](./230866-flying-saucers.json) |
+| Flying Shark | 260468 | [260468-flying-shark.json](./260468-flying-shark.json) |
 | Flying Shark | 377902 | [377902-flying-shark.json](./377902-flying-shark.json) |
 | Flying Shot | 127766 | [127766-flying-shot.json](./127766-flying-shot.json) |
 | Flying Slime! | 120137 | [120137-flying-slime.json](./120137-flying-slime.json) |
@@ -9737,6 +9738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Land | 53096 | [53096-forgotten-land.json](./53096-forgotten-land.json) |
 | Forgotten Lands: First Colony | 64724 | [64724-forgotten-lands-first-colony.json](./64724-forgotten-lands-first-colony.json) |
 | Forgotten Lands: Online | 340236 | [340236-forgotten-lands-online.json](./340236-forgotten-lands-online.json) |
+| Forgotten Lectures: Fall of a Dynasty - The Beginning | 260447 | [260447-forgotten-lectures-fall-of-a-dynasty-the-beginning.json](./260447-forgotten-lectures-fall-of-a-dynasty-the-beginning.json) |
 | Forgotten Legends | 207631 | [207631-forgotten-legends.json](./207631-forgotten-legends.json) |
 | Forgotten Legions | 85149 | [85149-forgotten-legions.json](./85149-forgotten-legions.json) |
 | Forgotten Lore | 34723 | [34723-forgotten-lore.json](./34723-forgotten-lore.json) |
