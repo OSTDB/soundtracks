@@ -2211,6 +2211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasocial Climbing | 371745 | [371745-parasocial-climbing.json](./371745-parasocial-climbing.json) |
 | Parasocial! Paranoia! Paradise! | 326570 | [326570-parasocial-paranoia-paradise.json](./326570-parasocial-paranoia-paradise.json) |
 | Parasol Fall | 231632 | [231632-parasol-fall.json](./231632-parasol-fall.json) |
+| Parasol Henbee | 267754 | [267754-parasol-henbee.json](./267754-parasol-henbee.json) |
 | Parasol Henbee: Niji no Daibouken | 137369 | [137369-parasol-henbee-niji-no-daibouken.json](./137369-parasol-henbee-niji-no-daibouken.json) |
 | Parasol Stars: Rainbow Islands 2 | 39027 | [39027-parasol-stars-rainbow-islands-2.json](./39027-parasol-stars-rainbow-islands-2.json) |
 | Parasol Stars: Rainbow Islands II | 316080 | [316080-parasol-stars-rainbow-islands-ii.json](./316080-parasol-stars-rainbow-islands-ii.json) |
@@ -16321,6 +16322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protocol Last Life | 112369 | [112369-protocol-last-life.json](./112369-protocol-last-life.json) |
 | Protocol Nadir | 367940 | [367940-protocol-nadir.json](./367940-protocol-nadir.json) |
 | Protocol Nightmare | 385659 | [385659-protocol-nightmare.json](./385659-protocol-nightmare.json) |
+| Protocol Non-Human | 267720 | [267720-protocol-non-human.json](./267720-protocol-non-human.json) |
 | Protocol Paradox | 373512 | [373512-protocol-paradox.json](./373512-protocol-paradox.json) |
 | Protocol Rift | 322705 | [322705-protocol-rift.json](./322705-protocol-rift.json) |
 | Protocol Solari: Escape Room | 385954 | [385954-protocol-solari-escape-room.json](./385954-protocol-solari-escape-room.json) |
@@ -17734,6 +17736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzletun: Curse of the unfortunate. | 368735 | [368735-puzletun-curse-of-the-unfortunate.json](./368735-puzletun-curse-of-the-unfortunate.json) |
 | Puzlkind: Jigsaw Puzzles | 162205 | [162205-puzlkind-jigsaw-puzzles.json](./162205-puzlkind-jigsaw-puzzles.json) |
 | Puzlogic | 101698 | [101698-puzlogic.json](./101698-puzlogic.json) |
+| Puzslot | 267755 | [267755-puzslot.json](./267755-puzslot.json) |
 | Puztrix | 315769 | [315769-puztrix.json](./315769-puztrix.json) |
 | Puztrix | 318886 | [318886-puztrix.json](./318886-puztrix.json) |
 | Puzz 3D: The Orient Express | 70932 | [70932-puzz-3d-the-orient-express.json](./70932-puzz-3d-the-orient-express.json) |
