@@ -5093,6 +5093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limbocore | 177327 | [177327-limbocore.json](./177327-limbocore.json) |
 | Limbot | 380436 | [380436-limbot.json](./380436-limbot.json) |
 | Limbs | 238751 | [238751-limbs.json](./238751-limbs.json) |
+| Limbs Inc | 258250 | [258250-limbs-inc.json](./258250-limbs-inc.json) |
 | Limbus | 310118 | [310118-limbus.json](./310118-limbus.json) |
 | Limbus Company | 194106 | [194106-limbus-company.json](./194106-limbus-company.json) |
 | Limbus Company: Season 1 - Orientation | 297685 | [297685-limbus-company-season-1-orientation.json](./297685-limbus-company-season-1-orientation.json) |
