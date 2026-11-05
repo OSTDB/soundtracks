@@ -2933,7 +2933,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathbreakers: Roaming Blades | 344141 | [344141-pathbreakers-roaming-blades.json](./344141-pathbreakers-roaming-blades.json) |
 | PathCraft | 204340 | [204340-pathcraft.json](./204340-pathcraft.json) |
 | Pathfinder | 282100 | [282100-pathfinder.json](./282100-pathfinder.json) |
-| Pathfinder Adventures | 36611 | [36611-pathfinder-adventures.json](./36611-pathfinder-adventures.json) |
 | Pathfinder Adventures: A Fighter's Tale - Valeros | 170730 | [170730-pathfinder-adventures-a-fighters-tale-valeros.json](./170730-pathfinder-adventures-a-fighters-tale-valeros.json) |
 | Pathfinder Adventures: Character Alts 1 | 170729 | [170729-pathfinder-adventures-character-alts-1.json](./170729-pathfinder-adventures-character-alts-1.json) |
 | Pathfinder Adventures: Epic and Legendary Cards 1 | 170728 | [170728-pathfinder-adventures-epic-and-legendary-cards-1.json](./170728-pathfinder-adventures-epic-and-legendary-cards-1.json) |
