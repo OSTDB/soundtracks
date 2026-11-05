@@ -3974,6 +3974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Find It 3: Collector's Edition | 304780 | [304780-just-find-it-3-collectors-edition.json](./304780-just-find-it-3-collectors-edition.json) |
 | Just Find It 4 | 302213 | [302213-just-find-it-4.json](./302213-just-find-it-4.json) |
 | Just Find It 4: Collector's Edition | 332495 | [332495-just-find-it-4-collectors-edition.json](./332495-just-find-it-4-collectors-edition.json) |
+| Just Find It: Collector's Edition | 286884 | [286884-just-find-it-collectors-edition.json](./286884-just-find-it-collectors-edition.json) |
 | Just Fishing | 68764 | [68764-just-fishing.json](./68764-just-fishing.json) |
 | Just For Killing Time | 82791 | [82791-just-for-killing-time.json](./82791-just-for-killing-time.json) |
 | Just Forgot to Eat | 415507 | [415507-just-forgot-to-eat.json](./415507-just-forgot-to-eat.json) |
