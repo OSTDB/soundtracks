@@ -492,6 +492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caleb's Dream | 276400 | [276400-calebs-dream.json](./276400-calebs-dream.json) |
 | Calendula | 33905 | [33905-calendula.json](./33905-calendula.json) |
 | Caleria | 409017 | [409017-caleria.json](./409017-caleria.json) |
+| Caleuche | 289656 | [289656-caleuche.json](./289656-caleuche.json) |
 | CaliaQuest | 303722 | [303722-caliaquest.json](./303722-caliaquest.json) |
 | Caliban | 401293 | [401293-caliban.json](./401293-caliban.json) |
 | Caliban Below | 97069 | [97069-caliban-below.json](./97069-caliban-below.json) |
@@ -4531,6 +4532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Make You Smarter! | 74227 | [74227-cats-make-you-smarter.json](./74227-cats-make-you-smarter.json) |
 | Cats n Wires | 177476 | [177476-cats-n-wires.json](./177476-cats-n-wires.json) |
 | Cats of Mona Lisa: A Hidden Object Game | 326933 | [326933-cats-of-mona-lisa-a-hidden-object-game.json](./326933-cats-of-mona-lisa-a-hidden-object-game.json) |
+| Cats of the Ming Dynasty | 289674 | [289674-cats-of-the-ming-dynasty.json](./289674-cats-of-the-ming-dynasty.json) |
 | Cats of the Qing Dynasty | 292435 | [292435-cats-of-the-qing-dynasty.json](./292435-cats-of-the-qing-dynasty.json) |
 | Cats of the Song Dynasty | 315299 | [315299-cats-of-the-song-dynasty.json](./315299-cats-of-the-song-dynasty.json) |
 | Cats of the Tang Dynasty | 302819 | [302819-cats-of-the-tang-dynasty.json](./302819-cats-of-the-tang-dynasty.json) |
@@ -15455,6 +15457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | cr4nkup | 327782 | [327782-cr4nkup.json](./327782-cr4nkup.json) |
 | Cra Cra | 328297 | [328297-cra-cra.json](./328297-cra-cra.json) |
 | Crab and Fish | 218701 | [218701-crab-and-fish.json](./218701-crab-and-fish.json) |
+| Crab Attack | 289680 | [289680-crab-attack.json](./289680-crab-attack.json) |
 | Crab Balls | 233477 | [233477-crab-balls.json](./233477-crab-balls.json) |
 | Crab Boat | 291020 | [291020-crab-boat.json](./291020-crab-boat.json) |
 | Crab Champions | 133379 | [133379-crab-champions.json](./133379-crab-champions.json) |
@@ -17975,6 +17978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt Capers | 348938 | [348938-crypt-capers.json](./348938-crypt-capers.json) |
 | Crypt Cards | 30571 | [30571-crypt-cards.json](./30571-crypt-cards.json) |
 | Crypt Carnage | 399628 | [399628-crypt-carnage.json](./399628-crypt-carnage.json) |
+| Crypt Crawler | 289661 | [289661-crypt-crawler.json](./289661-crypt-crawler.json) |
 | Crypt Hunter | 55785 | [55785-crypt-hunter.json](./55785-crypt-hunter.json) |
 | Crypt Keeper | 340330 | [340330-crypt-keeper.json](./340330-crypt-keeper.json) |
 | Crypt Killer | 20737 | [20737-crypt-killer.json](./20737-crypt-killer.json) |
@@ -18024,6 +18028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptic Crawlz | 321478 | [321478-cryptic-crawlz.json](./321478-cryptic-crawlz.json) |
 | Cryptic Crosswords | 100885 | [100885-cryptic-crosswords.json](./100885-cryptic-crosswords.json) |
 | Cryptic Encounters | 208803 | [208803-cryptic-encounters.json](./208803-cryptic-encounters.json) |
+| Cryptic Escape | 289690 | [289690-cryptic-escape.json](./289690-cryptic-escape.json) |
 | Cryptic Escape | 62042 | [62042-cryptic-escape.json](./62042-cryptic-escape.json) |
 | Cryptic Glaze Mirror | 391174 | [391174-cryptic-glaze-mirror.json](./391174-cryptic-glaze-mirror.json) |
 | Cryptic Passage for Blood | 18499 | [18499-cryptic-passage-for-blood.json](./18499-cryptic-passage-for-blood.json) |
@@ -18792,6 +18797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuboid Keeper | 110630 | [110630-cuboid-keeper.json](./110630-cuboid-keeper.json) |
 | Cuboid Stack | 249731 | [249731-cuboid-stack.json](./249731-cuboid-stack.json) |
 | Cubology | 52336 | [52336-cubology.json](./52336-cubology.json) |
+| Cubon | 289687 | [289687-cubon.json](./289687-cubon.json) |
 | Cubosphere | 238065 | [238065-cubosphere.json](./238065-cubosphere.json) |
 | Cubot | 36000 | [36000-cubot.json](./36000-cubot.json) |
 | Cubot: The Complexity of Simplicity | 9812 | [9812-cubot-the-complexity-of-simplicity.json](./9812-cubot-the-complexity-of-simplicity.json) |
