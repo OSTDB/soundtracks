@@ -4162,6 +4162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Duty Log: A Shōwa School Record | 405801 | [405801-night-duty-log-a-showa-school-record.json](./405801-night-duty-log-a-showa-school-record.json) |
 | Night Errand | 381200 | [381200-night-errand.json](./381200-night-errand.json) |
 | Night Errors | 395798 | [395798-night-errors.json](./395798-night-errors.json) |
+| Night Escape | 254244 | [254244-night-escape.json](./254244-night-escape.json) |
 | Night Escaper | 201266 | [201266-night-escaper.json](./201266-night-escaper.json) |
 | Night Fallen | 110932 | [110932-night-fallen.json](./110932-night-fallen.json) |
 | Night Fear | 271902 | [271902-night-fear.json](./271902-night-fear.json) |
