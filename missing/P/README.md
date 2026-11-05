@@ -14920,6 +14920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Table Tennis VR | 159872 | [159872-pro-table-tennis-vr.json](./159872-pro-table-tennis-vr.json) |
 | Pro Tennis | 421217 | [421217-pro-tennis.json](./421217-pro-tennis.json) |
 | Pro Tennis Simulator | 12724 | [12724-pro-tennis-simulator.json](./12724-pro-tennis-simulator.json) |
+| Pro Tennis Tour | 259930 | [259930-pro-tennis-tour.json](./259930-pro-tennis-tour.json) |
 | Pro Tennis Tour 2 | 145881 | [145881-pro-tennis-tour-2.json](./145881-pro-tennis-tour-2.json) |
 | Pro Tennis WTA Tour | 242802 | [242802-pro-tennis-wta-tour.json](./242802-pro-tennis-wta-tour.json) |
 | Pro Tennis: World Court | 44320 | [44320-pro-tennis-world-court.json](./44320-pro-tennis-world-court.json) |
