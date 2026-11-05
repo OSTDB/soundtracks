@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Disc Golf | 129001 | [129001-ultimate-disc-golf.json](./129001-ultimate-disc-golf.json) |
 | Ultimate Dog Simulator | 88941 | [88941-ultimate-dog-simulator.json](./88941-ultimate-dog-simulator.json) |
 | Ultimate Domain | 12430 | [12430-ultimate-domain.json](./12430-ultimate-domain.json) |
+| Ultimate Doom: The Way id Did | 269915 | [269915-ultimate-doom-the-way-id-did.json](./269915-ultimate-doom-the-way-id-did.json) |
 | Ultimate Double Dragon | 240025 | [240025-ultimate-double-dragon.json](./240025-ultimate-double-dragon.json) |
 | Ultimate Dragon Simulator | 86894 | [86894-ultimate-dragon-simulator.json](./86894-ultimate-dragon-simulator.json) |
 | Ultimate DragonMaster | 299412 | [299412-ultimate-dragonmaster.json](./299412-ultimate-dragonmaster.json) |
