@@ -2489,6 +2489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardinal Sins | 308983 | [308983-cardinal-sins.json](./308983-cardinal-sins.json) |
 | Cardinal Syn | 26657 | [26657-cardinal-syn.json](./26657-cardinal-syn.json) |
 | Cardio | 363000 | [363000-cardio.json](./363000-cardio.json) |
+| Cardio Quest | 283358 | [283358-cardio-quest.json](./283358-cardio-quest.json) |
 | CardioCasino | 177924 | [177924-cardiocasino.json](./177924-cardiocasino.json) |
 | CardioEX | 215246 | [215246-cardioex.json](./215246-cardioex.json) |
 | Cardiophobia | 124601 | [124601-cardiophobia.json](./124601-cardiophobia.json) |
@@ -16560,6 +16561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creature Crawl | 415903 | [415903-creature-crawl.json](./415903-creature-crawl.json) |
 | Creature Create | 80541 | [80541-creature-create.json](./80541-creature-create.json) |
 | Creature Creation Station | 343280 | [343280-creature-creation-station.json](./343280-creature-creation-station.json) |
+| Creature Creator | 283359 | [283359-creature-creator.json](./283359-creature-creator.json) |
 | Creature Crunch | 7731 | [7731-creature-crunch.json](./7731-creature-crunch.json) |
 | Creature Defense | 67028 | [67028-creature-defense.json](./67028-creature-defense.json) |
 | Creature Discomfort | 229799 | [229799-creature-discomfort.json](./229799-creature-discomfort.json) |
@@ -19176,6 +19178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of Argentum | 360329 | [360329-curse-of-argentum.json](./360329-curse-of-argentum.json) |
 | Curse of Argion | 217115 | [217115-curse-of-argion.json](./217115-curse-of-argion.json) |
 | Curse of Atlantis: Thorgal's Quest | 23696 | [23696-curse-of-atlantis-thorgals-quest.json](./23696-curse-of-atlantis-thorgals-quest.json) |
+| Curse of Babylon | 283360 | [283360-curse-of-babylon.json](./283360-curse-of-babylon.json) |
 | Curse of Blood | 258377 | [258377-curse-of-blood.json](./258377-curse-of-blood.json) |
 | Curse of Blood | 312893 | [312893-curse-of-blood.json](./312893-curse-of-blood.json) |
 | Curse of Cards | 422033 | [422033-curse-of-cards.json](./422033-curse-of-cards.json) |
