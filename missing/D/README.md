@@ -7339,6 +7339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desserted | 373127 | [373127-desserted.json](./373127-desserted.json) |
 | Desstroke | 207505 | [207505-desstroke.json](./207505-desstroke.json) |
 | Destabilized | 417361 | [417361-destabilized.json](./417361-destabilized.json) |
+| Desterium | 246736 | [246736-desterium.json](./246736-desterium.json) |
 | Destinata | 128186 | [128186-destinata.json](./128186-destinata.json) |
 | Destination | 322576 | [322576-destination.json](./322576-destination.json) |
 | Destination Ares | 25813 | [25813-destination-ares.json](./25813-destination-ares.json) |
@@ -8398,6 +8399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Brawl: Captain's League | 108960 | [108960-dice-brawl-captains-league.json](./108960-dice-brawl-captains-league.json) |
 | Dice Breaker | 26849 | [26849-dice-breaker.json](./26849-dice-breaker.json) |
 | Dice Carnival | 406262 | [406262-dice-carnival.json](./406262-dice-carnival.json) |
+| Dice Catcher | 246706 | [246706-dice-catcher.json](./246706-dice-catcher.json) |
 | Dice Chess | 401607 | [401607-dice-chess.json](./401607-dice-chess.json) |
 | Dice City Roller | 366417 | [366417-dice-city-roller.json](./366417-dice-city-roller.json) |
 | Dice City Roller HD | 354971 | [354971-dice-city-roller-hd.json](./354971-dice-city-roller-hd.json) |
@@ -9113,6 +9115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Road | 70057 | [70057-digital-road.json](./70057-digital-road.json) |
 | Digital Rose | 122014 | [122014-digital-rose.json](./122014-digital-rose.json) |
 | Digital Runner | 93725 | [93725-digital-runner.json](./93725-digital-runner.json) |
+| Digital Seclusion | 246697 | [246697-digital-seclusion.json](./246697-digital-seclusion.json) |
 | Digital Shift | 398380 | [398380-digital-shift.json](./398380-digital-shift.json) |
 | Digital Spacecade | 28181 | [28181-digital-spacecade.json](./28181-digital-spacecade.json) |
 | Digital Survivor | 411728 | [411728-digital-survivor.json](./411728-digital-survivor.json) |
@@ -18554,6 +18557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Durak Online | 369668 | [369668-durak-online.json](./369668-durak-online.json) |
 | Durak! | 56649 | [56649-durak.json](./56649-durak.json) |
 | Duralumin Wind | 80914 | [80914-duralumin-wind.json](./80914-duralumin-wind.json) |
+| Durandal | 246705 | [246705-durandal.json](./246705-durandal.json) |
 | Durango: Wild Lands | 26918 | [26918-durango-wild-lands.json](./26918-durango-wild-lands.json) |
 | Durarara!! 3-way Standoff | 66353 | [66353-durarara-3-way-standoff.json](./66353-durarara-3-way-standoff.json) |
 | Durarara!! 3way Standoff: Alley | 269424 | [269424-durarara-3way-standoff-alley.json](./269424-durarara-3way-standoff-alley.json) |
