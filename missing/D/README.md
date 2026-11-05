@@ -5259,6 +5259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sea Tycoon | 50451 | [50451-deep-sea-tycoon.json](./50451-deep-sea-tycoon.json) |
 | Deep Sea Tycoon: Diver's Paradise | 146201 | [146201-deep-sea-tycoon-divers-paradise.json](./146201-deep-sea-tycoon-divers-paradise.json) |
 | Deep Sea Valentine | 143485 | [143485-deep-sea-valentine.json](./143485-deep-sea-valentine.json) |
+| Deep Secret | 260450 | [260450-deep-secret.json](./260450-deep-secret.json) |
 | Deep Sheol | 372838 | [372838-deep-sheol.json](./372838-deep-sheol.json) |
 | Deep Siren | 371010 | [371010-deep-siren.json](./371010-deep-siren.json) |
 | Deep Sixed | 29504 | [29504-deep-sixed.json](./29504-deep-sixed.json) |
