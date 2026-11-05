@@ -1150,6 +1150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden | 85855 | [85855-eden.json](./85855-eden.json) |
 | Eden Blue | 19139 | [19139-eden-blue.json](./19139-eden-blue.json) |
 | Eden Camp | 419334 | [419334-eden-camp.json](./419334-eden-camp.json) |
+| Eden Crafters | 289691 | [289691-eden-crafters.json](./289691-eden-crafters.json) |
 | Eden Daho | 386516 | [386516-eden-daho.json](./386516-eden-daho.json) |
 | Eden Eternal | 46995 | [46995-eden-eternal.json](./46995-eden-eternal.json) |
 | Eden Falling | 74177 | [74177-eden-falling.json](./74177-eden-falling.json) |
