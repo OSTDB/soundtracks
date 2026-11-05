@@ -10631,6 +10631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | District Steel | 28912 | [28912-district-steel.json](./28912-district-steel.json) |
 | District VR | 285560 | [285560-district-vr.json](./285560-district-vr.json) |
 | District Wars | 68090 | [68090-district-wars.json](./68090-district-wars.json) |
+| District XiLin | 272632 | [272632-district-xilin.json](./272632-district-xilin.json) |
 | District: Evolution | 328550 | [328550-district-evolution.json](./328550-district-evolution.json) |
 | DistroCards | 392807 | [392807-distrocards.json](./392807-distrocards.json) |
 | Distrust | 34667 | [34667-distrust.json](./34667-distrust.json) |
@@ -15821,6 +15822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreaming by day | 182982 | [182982-dreaming-by-day.json](./182982-dreaming-by-day.json) |
 | Dreaming Canvas | 123304 | [123304-dreaming-canvas.json](./123304-dreaming-canvas.json) |
 | Dreaming Chicken | 258041 | [258041-dreaming-chicken.json](./258041-dreaming-chicken.json) |
+| Dreaming Dead Dance | 272630 | [272630-dreaming-dead-dance.json](./272630-dreaming-dead-dance.json) |
 | Dreaming Diorama | 253492 | [253492-dreaming-diorama.json](./253492-dreaming-diorama.json) |
 | Dreaming in Cherry Blossoms, I Fall in Love With You | 357142 | [357142-dreaming-in-cherry-blossoms-i-fall-in-love-with-you.json](./357142-dreaming-in-cherry-blossoms-i-fall-in-love-with-you.json) |
 | Dreaming in the Mountains | 262372 | [262372-dreaming-in-the-mountains.json](./262372-dreaming-in-the-mountains.json) |
@@ -17556,6 +17558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Avenger | 180272 | [180272-dungeon-avenger.json](./180272-dungeon-avenger.json) |
 | Dungeon Baller | 310936 | [310936-dungeon-baller.json](./310936-dungeon-baller.json) |
 | Dungeon Bandit | 63829 | [63829-dungeon-bandit.json](./63829-dungeon-bandit.json) |
+| Dungeon Bar: Gachi Puzzles | 272631 | [272631-dungeon-bar-gachi-puzzles.json](./272631-dungeon-bar-gachi-puzzles.json) |
 | Dungeon Beach | 309353 | [309353-dungeon-beach.json](./309353-dungeon-beach.json) |
 | Dungeon Betwixt | 410933 | [410933-dungeon-betwixt.json](./410933-dungeon-betwixt.json) |
 | Dungeon Blocks | 192429 | [192429-dungeon-blocks.json](./192429-dungeon-blocks.json) |
