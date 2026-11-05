@@ -18143,6 +18143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Void Calls | 244589 | [244589-the-void-calls.json](./244589-the-void-calls.json) |
 | The Void Chronicles: One's Desolation | 285908 | [285908-the-void-chronicles-ones-desolation.json](./285908-the-void-chronicles-ones-desolation.json) |
 | The Void Corridors | 337123 | [337123-the-void-corridors.json](./337123-the-void-corridors.json) |
+| The Void Equation | 278784 | [278784-the-void-equation.json](./278784-the-void-equation.json) |
 | The Void of Desires | 123947 | [123947-the-void-of-desires.json](./123947-the-void-of-desires.json) |
 | The Void Project | 276145 | [276145-the-void-project.json](./276145-the-void-project.json) |
 | The Void Rolls Back | 256785 | [256785-the-void-rolls-back.json](./256785-the-void-rolls-back.json) |
@@ -19412,6 +19413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief VR: Legacy of Shadow | 347124 | [347124-thief-vr-legacy-of-shadow.json](./347124-thief-vr-legacy-of-shadow.json) |
 | Thief: Master Thief Edition | 53797 | [53797-thief-master-thief-edition.json](./53797-thief-master-thief-edition.json) |
 | Thief: The Bank Heist | 117274 | [117274-thief-the-bank-heist.json](./117274-thief-the-bank-heist.json) |
+| Thief: The Black Parade | 278770 | [278770-thief-the-black-parade.json](./278770-thief-the-black-parade.json) |
 | Thief: The Complete Collection | 275496 | [275496-thief-the-complete-collection.json](./275496-thief-the-complete-collection.json) |
 | Thief: The Dark Project | 2 | [2-thief-the-dark-project.json](./2-thief-the-dark-project.json) |
 | Thief: The Dark Project Remastered | 405156 | [405156-thief-the-dark-project-remastered.json](./405156-thief-the-dark-project-remastered.json) |
@@ -20451,6 +20453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidal Nexus Online | 310002 | [310002-tidal-nexus-online.json](./310002-tidal-nexus-online.json) |
 | Tidal Rush | 363200 | [363200-tidal-rush.json](./363200-tidal-rush.json) |
 | Tidal Shock: Off The Hook | 133258 | [133258-tidal-shock-off-the-hook.json](./133258-tidal-shock-off-the-hook.json) |
+| Tidal Therapy | 278797 | [278797-tidal-therapy.json](./278797-tidal-therapy.json) |
 | Tidal Towns | 341863 | [341863-tidal-towns.json](./341863-tidal-towns.json) |
 | Tidal Tribe | 116582 | [116582-tidal-tribe.json](./116582-tidal-tribe.json) |
 | Tidalis | 10991 | [10991-tidalis.json](./10991-tidalis.json) |
@@ -31263,6 +31266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsumera | 268456 | [268456-tsumera.json](./268456-tsumera.json) |
 | Tsumi no Hikari Rendez-vous | 327546 | [327546-tsumi-no-hikari-rendez-vous.json](./327546-tsumi-no-hikari-rendez-vous.json) |
 | Tsumi no Hikari Rendezvous | 335581 | [335581-tsumi-no-hikari-rendezvous.json](./335581-tsumi-no-hikari-rendezvous.json) |
+| Tsumige Shoujo | 278807 | [278807-tsumige-shoujo.json](./278807-tsumige-shoujo.json) |
 | Tsumiki: The Infernal Tower | 124107 | [124107-tsumiki-the-infernal-tower.json](./124107-tsumiki-the-infernal-tower.json) |
 | Tsumikui: Sen no Noroi, Sen no Inori | 222867 | [222867-tsumikui-sen-no-noroi-sen-no-inori.json](./222867-tsumikui-sen-no-noroi-sen-no-inori.json) |
 | Tsumikui: Sen no Noroi, Sen no Inori for V | 74795 | [74795-tsumikui-sen-no-noroi-sen-no-inori-for-v.json](./74795-tsumikui-sen-no-noroi-sen-no-inori-for-v.json) |
