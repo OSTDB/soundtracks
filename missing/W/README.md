@@ -5658,6 +5658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WingNuts 2: Raina's Revenge | 71290 | [71290-wingnuts-2-rainas-revenge.json](./71290-wingnuts-2-rainas-revenge.json) |
 | WingNuts: Temporal Navigator | 201073 | [201073-wingnuts-temporal-navigator.json](./201073-wingnuts-temporal-navigator.json) |
 | Wings | 264454 | [264454-wings.json](./264454-wings.json) |
+| Wings | 270474 | [270474-wings.json](./270474-wings.json) |
 | Wings | 282664 | [282664-wings.json](./282664-wings.json) |
 | Wings | 5450 | [5450-wings.json](./5450-wings.json) |
 | Wings - sim | 141502 | [141502-wings-sim.json](./141502-wings-sim.json) |
