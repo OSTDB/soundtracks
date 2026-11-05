@@ -6120,6 +6120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroland | 103238 | [103238-heroland.json](./103238-heroland.json) |
 | Heroland: Knowble Edition | 136194 | [136194-heroland-knowble-edition.json](./136194-heroland-knowble-edition.json) |
 | Herolike | 26785 | [26785-herolike.json](./26785-herolike.json) |
+| Heromantic | 293561 | [293561-heromantic.json](./293561-heromantic.json) |
 | Heron: Steam Machine | 67239 | [67239-heron-steam-machine.json](./67239-heron-steam-machine.json) |
 | HeroQuest | 12142 | [12142-heroquest.json](./12142-heroquest.json) |
 | HeroQuest II: Legacy of Sorasil | 12609 | [12609-heroquest-ii-legacy-of-sorasil.json](./12609-heroquest-ii-legacy-of-sorasil.json) |
@@ -10273,6 +10274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed 2: Alien Encounters Expansion Pack | 302209 | [302209-hot-wheels-unleashed-2-alien-encounters-expansion-pack.json](./302209-hot-wheels-unleashed-2-alien-encounters-expansion-pack.json) |
 | Hot Wheels Unleashed 2: Fast & Furious Expansion Pack | 298536 | [298536-hot-wheels-unleashed-2-fast-and-furious-expansion-pack.json](./298536-hot-wheels-unleashed-2-fast-and-furious-expansion-pack.json) |
 | Hot Wheels Unleashed 2: Highway 35 Free Pack | 283610 | [283610-hot-wheels-unleashed-2-highway-35-free-pack.json](./283610-hot-wheels-unleashed-2-highway-35-free-pack.json) |
+| Hot Wheels Unleashed 2: Highway 35 World Race Pack | 293435 | [293435-hot-wheels-unleashed-2-highway-35-world-race-pack.json](./293435-hot-wheels-unleashed-2-highway-35-world-race-pack.json) |
 | Hot Wheels Unleashed 2: Just a Scratch Pack | 271940 | [271940-hot-wheels-unleashed-2-just-a-scratch-pack.json](./271940-hot-wheels-unleashed-2-just-a-scratch-pack.json) |
 | Hot Wheels Unleashed 2: Mega Bites Free Pack | 297320 | [297320-hot-wheels-unleashed-2-mega-bites-free-pack.json](./297320-hot-wheels-unleashed-2-mega-bites-free-pack.json) |
 | Hot Wheels Unleashed 2: Mercedes-Benz Pack | 312012 | [312012-hot-wheels-unleashed-2-mercedes-benz-pack.json](./312012-hot-wheels-unleashed-2-mercedes-benz-pack.json) |
@@ -11817,6 +11819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hustle Kings VR | 25834 | [25834-hustle-kings-vr.json](./25834-hustle-kings-vr.json) |
 | Hustle Quest: Historia of Urth | 299155 | [299155-hustle-quest-historia-of-urth.json](./299155-hustle-quest-historia-of-urth.json) |
 | Hustle Simulator | 224980 | [224980-hustle-simulator.json](./224980-hustle-simulator.json) |
+| HustleGame | 293575 | [293575-hustlegame.json](./293575-hustlegame.json) |
 | Hustler | 92282 | [92282-hustler.json](./92282-hustler.json) |
 | Hustlerix | 260277 | [260277-hustlerix.json](./260277-hustlerix.json) |
 | Hustomten | 167564 | [167564-hustomten.json](./167564-hustomten.json) |
@@ -12018,6 +12021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Fighting | 195212 | [195212-hyper-fighting.json](./195212-hyper-fighting.json) |
 | Hyper Flex | 288178 | [288178-hyper-flex.json](./288178-hyper-flex.json) |
 | Hyper Flight | 117486 | [117486-hyper-flight.json](./117486-hyper-flight.json) |
+| Hyper Flux | 293571 | [293571-hyper-flux.json](./293571-hyper-flux.json) |
 | Hyper Force | 40811 | [40811-hyper-force.json](./40811-hyper-force.json) |
 | Hyper Frenzy | 152828 | [152828-hyper-frenzy.json](./152828-hyper-frenzy.json) |
 | Hyper Front | 187492 | [187492-hyper-front.json](./187492-hyper-front.json) |
