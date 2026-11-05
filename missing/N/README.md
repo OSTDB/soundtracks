@@ -2873,6 +2873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neugier: Umi to Kaze no Kodou | 15848 | [15848-neugier-umi-to-kaze-no-kodou.json](./15848-neugier-umi-to-kaze-no-kodou.json) |
 | NeuraGun | 187699 | [187699-neuragun.json](./187699-neuragun.json) |
 | Neural Cloud | 219969 | [219969-neural-cloud.json](./219969-neural-cloud.json) |
+| Neural Construct | 261580 | [261580-neural-construct.json](./261580-neural-construct.json) |
 | Neural Dominion | 318543 | [318543-neural-dominion.json](./318543-neural-dominion.json) |
 | Neural Drive | 390584 | [390584-neural-drive.json](./390584-neural-drive.json) |
 | Neural Gear | 93545 | [93545-neural-gear.json](./93545-neural-gear.json) |
