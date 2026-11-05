@@ -2350,6 +2350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watching Paint Dry: Too | 303708 | [303708-watching-paint-dry-too.json](./303708-watching-paint-dry-too.json) |
 | Watchlist | 44169 | [44169-watchlist.json](./44169-watchlist.json) |
 | Watchmaker's World Solitaire | 386135 | [386135-watchmakers-world-solitaire.json](./386135-watchmakers-world-solitaire.json) |
+| Watchmakers | 251910 | [251910-watchmakers.json](./251910-watchmakers.json) |
 | Watchman Golf Digipro | 215252 | [215252-watchman-golf-digipro.json](./215252-watchman-golf-digipro.json) |
 | Watchman: Monster Hero | 218371 | [218371-watchman-monster-hero.json](./218371-watchman-monster-hero.json) |
 | Watchmen | 341701 | [341701-watchmen.json](./341701-watchmen.json) |
