@@ -10085,6 +10085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid: Falling | 213757 | [213757-metroid-falling.json](./213757-metroid-falling.json) |
 | Metroid: Father Hunt | 323032 | [323032-metroid-father-hunt.json](./323032-metroid-father-hunt.json) |
 | Metroid: Federation Trooper | 323874 | [323874-metroid-federation-trooper.json](./323874-metroid-federation-trooper.json) |
+| Metroid: Fused Facility | 248366 | [248366-metroid-fused-facility.json](./248366-metroid-fused-facility.json) |
 | Metroid: Galactic Marine | 341143 | [341143-metroid-galactic-marine.json](./341143-metroid-galactic-marine.json) |
 | Metroid: Genesis | 323757 | [323757-metroid-genesis.json](./323757-metroid-genesis.json) |
 | Metroid: HD | 310611 | [310611-metroid-hd.json](./310611-metroid-hd.json) |
@@ -11237,6 +11238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Atom | 48386 | [48386-mighty-atom.json](./48386-mighty-atom.json) |
 | Mighty Beanz | 254890 | [254890-mighty-beanz.json](./254890-mighty-beanz.json) |
 | Mighty Beanz Pocket Puzzles | 6510 | [6510-mighty-beanz-pocket-puzzles.json](./6510-mighty-beanz-pocket-puzzles.json) |
+| Mighty Block | 248261 | [248261-mighty-block.json](./248261-mighty-block.json) |
 | Mighty Bomb Jack | 40531 | [40531-mighty-bomb-jack.json](./40531-mighty-bomb-jack.json) |
 | Mighty Chameleon Brothers | 155469 | [155469-mighty-chameleon-brothers.json](./155469-mighty-chameleon-brothers.json) |
 | Mighty Cuphead Adventure | 404676 | [404676-mighty-cuphead-adventure.json](./404676-mighty-cuphead-adventure.json) |
@@ -21680,6 +21682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Rest Stop | 327949 | [327949-mystic-rest-stop.json](./327949-mystic-rest-stop.json) |
 | Mystic Rhythms | 171292 | [171292-mystic-rhythms.json](./171292-mystic-rhythms.json) |
 | Mystic Riders | 10454 | [10454-mystic-riders.json](./10454-mystic-riders.json) |
+| Mystic Ring | 248377 | [248377-mystic-ring.json](./248377-mystic-ring.json) |
 | Mystic Ruin: A New Dawn | 150619 | [150619-mystic-ruin-a-new-dawn.json](./150619-mystic-ruin-a-new-dawn.json) |
 | Mystic Ruins | 106432 | [106432-mystic-ruins.json](./106432-mystic-ruins.json) |
 | Mystic RUS-files | 117635 | [117635-mystic-rus-files.json](./117635-mystic-rus-files.json) |
