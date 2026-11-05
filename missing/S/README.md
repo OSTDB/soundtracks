@@ -2002,6 +2002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saria Reclaimed | 255637 | [255637-saria-reclaimed.json](./255637-saria-reclaimed.json) |
 | Sariel's Day Out | 371416 | [371416-sariels-day-out.json](./371416-sariels-day-out.json) |
 | Sarissa and the Legendary Sword | 287332 | [287332-sarissa-and-the-legendary-sword.json](./287332-sarissa-and-the-legendary-sword.json) |
+| Sark Word Game | 246190 | [246190-sark-word-game.json](./246190-sark-word-game.json) |
 | Sarkar Infinite | 188375 | [188375-sarkar-infinite.json](./188375-sarkar-infinite.json) |
 | Sarkara: Prototype | 352513 | [352513-sarkara-prototype.json](./352513-sarkara-prototype.json) |
 | Sarkwo | 197229 | [197229-sarkwo.json](./197229-sarkwo.json) |
@@ -19361,6 +19362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21830,6 +21832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiritlink Tactics | 191737 | [191737-spiritlink-tactics.json](./191737-spiritlink-tactics.json) |
 | Spiritmorph | 304535 | [304535-spiritmorph.json](./304535-spiritmorph.json) |
 | Spiritoké | 240653 | [240653-spiritoke.json](./240653-spiritoke.json) |
+| Spiritrest | 246193 | [246193-spiritrest.json](./246193-spiritrest.json) |
 | Spirits | 239573 | [239573-spirits.json](./239573-spirits.json) |
 | Spirits | 7403 | [7403-spirits.json](./7403-spirits.json) |
 | Spirits & Alice | 358502 | [358502-spirits-and-alice.json](./358502-spirits-and-alice.json) |
@@ -24705,6 +24708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfighter: Disputed Galaxy | 331174 | [331174-starfighter-disputed-galaxy.json](./331174-starfighter-disputed-galaxy.json) |
 | Starfighter: Eclipse | 142958 | [142958-starfighter-eclipse.json](./142958-starfighter-eclipse.json) |
 | Starfinder: Afterlight | 358807 | [358807-starfinder-afterlight.json](./358807-starfinder-afterlight.json) |
+| Starfire | 246196 | [246196-starfire.json](./246196-starfire.json) |
 | Starfire Skies | 262868 | [262868-starfire-skies.json](./262868-starfire-skies.json) |
 | Starfleet Encounter | 13763 | [13763-starfleet-encounter.json](./13763-starfleet-encounter.json) |
 | Starfleet Orion | 23297 | [23297-starfleet-orion.json](./23297-starfleet-orion.json) |
@@ -31525,6 +31529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Land 2 DX | 173156 | [173156-super-mario-land-2-dx.json](./173156-super-mario-land-2-dx.json) |
 | Super Mario Land 2: 6 Golden Coins | 1071 | [1071-super-mario-land-2-6-golden-coins.json](./1071-super-mario-land-2-6-golden-coins.json) |
 | Super Mario Land 2012 | 285029 | [285029-super-mario-land-2012.json](./285029-super-mario-land-2012.json) |
+| Super Mario Land 3: Tatanga's Return | 246198 | [246198-super-mario-land-3-tatangas-return.json](./246198-super-mario-land-3-tatangas-return.json) |
 | Super Mario Land DX | 173153 | [173153-super-mario-land-dx.json](./173153-super-mario-land-dx.json) |
 | Super Mario Land Hack 2017: Tatanga's Revenge | 338813 | [338813-super-mario-land-hack-2017-tatangas-revenge.json](./338813-super-mario-land-hack-2017-tatangas-revenge.json) |
 | Super Mario Land Remix | 294579 | [294579-super-mario-land-remix.json](./294579-super-mario-land-remix.json) |
@@ -32392,6 +32397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Shogi | 42225 | [42225-super-shogi.json](./42225-super-shogi.json) |
 | Super Shogi 2 | 42224 | [42224-super-shogi-2.json](./42224-super-shogi-2.json) |
 | Super Shogi 3: Kitaihei | 42223 | [42223-super-shogi-3-kitaihei.json](./42223-super-shogi-3-kitaihei.json) |
+| Super Shoot | 246176 | [246176-super-shoot.json](./246176-super-shoot.json) |
 | Super Shoot Owl | 75664 | [75664-super-shoot-owl.json](./75664-super-shoot-owl.json) |
 | Super Shoot: Red Hot | 216100 | [216100-super-shoot-red-hot.json](./216100-super-shoot-red-hot.json) |
 | Super Shootin Star | 378241 | [378241-super-shootin-star.json](./378241-super-shootin-star.json) |
@@ -34725,6 +34731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swimmer | 39405 | [39405-swimmer.json](./39405-swimmer.json) |
 | Swimmer Admiration | 169093 | [169093-swimmer-admiration.json](./169093-swimmer-admiration.json) |
 | Swimmer Away | 347354 | [347354-swimmer-away.json](./347354-swimmer-away.json) |
+| Swimming | 246172 | [246172-swimming.json](./246172-swimming.json) |
 | Swimming Dynasty | 258024 | [258024-swimming-dynasty.json](./258024-swimming-dynasty.json) |
 | Swimming Poo | 237015 | [237015-swimming-poo.json](./237015-swimming-poo.json) |
 | Swimming Pool Cleaner | 219561 | [219561-swimming-pool-cleaner.json](./219561-swimming-pool-cleaner.json) |
@@ -35065,6 +35072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Stars: The Pit Gold Edition - Juggernaut | 51932 | [51932-sword-of-the-stars-the-pit-gold-edition-juggernaut.json](./51932-sword-of-the-stars-the-pit-gold-edition-juggernaut.json) |
 | Sword of the Stars: The Pit Gold Edition - Necromancer | 51931 | [51931-sword-of-the-stars-the-pit-gold-edition-necromancer.json](./51931-sword-of-the-stars-the-pit-gold-edition-necromancer.json) |
 | Sword of the Vagrant | 225891 | [225891-sword-of-the-vagrant.json](./225891-sword-of-the-vagrant.json) |
+| Sword of Warrior | 246173 | [246173-sword-of-warrior.json](./246173-sword-of-warrior.json) |
 | Sword of Wonder: It's Good to be a King | 224962 | [224962-sword-of-wonder-its-good-to-be-a-king.json](./224962-sword-of-wonder-its-good-to-be-a-king.json) |
 | Sword of Xolan | 18931 | [18931-sword-of-xolan.json](./18931-sword-of-xolan.json) |
 | Sword Phantom | 305761 | [305761-sword-phantom.json](./305761-sword-phantom.json) |
