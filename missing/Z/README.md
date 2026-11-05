@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero 4 Champ | 37648 | [37648-zero-4-champ.json](./37648-zero-4-champ.json) |
 | Zero 5 | 40818 | [40818-zero-5.json](./40818-zero-5.json) |
 | Zero Arms | 368726 | [368726-zero-arms.json](./368726-zero-arms.json) |
+| Zero Caliber 2 | 279386 | [279386-zero-caliber-2.json](./279386-zero-caliber-2.json) |
 | Zero Caliber VR | 104282 | [104282-zero-caliber-vr.json](./104282-zero-caliber-vr.json) |
 | Zero Caliber: Reloaded | 174559 | [174559-zero-caliber-reloaded.json](./174559-zero-caliber-reloaded.json) |
 | Zero Chastity: A Sultry Summer Holiday | 192566 | [192566-zero-chastity-a-sultry-summer-holiday.json](./192566-zero-chastity-a-sultry-summer-holiday.json) |
