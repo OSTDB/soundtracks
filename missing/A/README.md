@@ -16251,6 +16251,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athanasy + Ceiba Bundle | 284946 | [284946-athanasy-ceiba-bundle.json](./284946-athanasy-ceiba-bundle.json) |
 | Athar: Echoes of Time | 387657 | [387657-athar-echoes-of-time.json](./387657-athar-echoes-of-time.json) |
 | Athelan Battlegrounds | 377989 | [377989-athelan-battlegrounds.json](./377989-athelan-battlegrounds.json) |
+| Athena | 273076 | [273076-athena.json](./273076-athena.json) |
+| Athena | 273077 | [273077-athena.json](./273077-athena.json) |
 | Athena | 273078 | [273078-athena.json](./273078-athena.json) |
 | Athena | 9052 | [9052-athena.json](./9052-athena.json) |
 | Athena Adventure | 424600 | [424600-athena-adventure.json](./424600-athena-adventure.json) |
