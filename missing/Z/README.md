@@ -1966,6 +1966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombien | 121383 | [121383-zombien.json](./121383-zombien.json) |
 | Zombienator | 270431 | [270431-zombienator.json](./270431-zombienator.json) |
 | ZombieOrNotZombie | 116736 | [116736-zombieornotzombie.json](./116736-zombieornotzombie.json) |
+| Zombiepede | 252511 | [252511-zombiepede.json](./252511-zombiepede.json) |
 | ZombieRun | 35514 | [35514-zombierun.json](./35514-zombierun.json) |
 | ZombieRush | 32767 | [32767-zombierush.json](./32767-zombierush.json) |
 | Zombies | 196006 | [196006-zombies.json](./196006-zombies.json) |
