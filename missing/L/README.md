@@ -2108,6 +2108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Empires | 224161 | [224161-league-of-empires.json](./224161-league-of-empires.json) |
 | League of Enthusiastic Losers | 157216 | [157216-league-of-enthusiastic-losers.json](./157216-league-of-enthusiastic-losers.json) |
 | League of Enthusiastic Losers + Brawl Chess | 228942 | [228942-league-of-enthusiastic-losers-brawl-chess.json](./228942-league-of-enthusiastic-losers-brawl-chess.json) |
+| League of Enthusiastic Losers: Complete Edition | 249558 | [249558-league-of-enthusiastic-losers-complete-edition.json](./249558-league-of-enthusiastic-losers-complete-edition.json) |
 | League of Enthusiastic Losers: Definitive Edition | 246645 | [246645-league-of-enthusiastic-losers-definitive-edition.json](./246645-league-of-enthusiastic-losers-definitive-edition.json) |
 | League of Enthusiastic Losers: Deluxe Edition | 222189 | [222189-league-of-enthusiastic-losers-deluxe-edition.json](./222189-league-of-enthusiastic-losers-deluxe-edition.json) |
 | League of Enthusiastic Losers: Extended Edition | 237771 | [237771-league-of-enthusiastic-losers-extended-edition.json](./237771-league-of-enthusiastic-losers-extended-edition.json) |
@@ -8384,6 +8385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loud or Quiet | 74341 | [74341-loud-or-quiet.json](./74341-loud-or-quiet.json) |
 | Loud Run | 307239 | [307239-loud-run.json](./307239-loud-run.json) |
 | Loud: My Road to Fame | 241712 | [241712-loud-my-road-to-fame.json](./241712-loud-my-road-to-fame.json) |
+| Loud: RockStar Edition | 249565 | [249565-loud-rockstar-edition.json](./249565-loud-rockstar-edition.json) |
 | Louder Than Words: The Story of a Field Trip | 195647 | [195647-louder-than-words-the-story-of-a-field-trip.json](./195647-louder-than-words-the-story-of-a-field-trip.json) |
 | Louie | 143959 | [143959-louie.json](./143959-louie.json) |
 | Louie Lucha | 246113 | [246113-louie-lucha.json](./246113-louie-lucha.json) |
