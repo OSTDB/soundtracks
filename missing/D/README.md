@@ -8201,6 +8201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo III: Reaper of Souls - Ultimate Evil Edition | 47452 | [47452-diablo-iii-reaper-of-souls-ultimate-evil-edition.json](./47452-diablo-iii-reaper-of-souls-ultimate-evil-edition.json) |
 | Diablo Island | 405462 | [405462-diablo-island.json](./405462-diablo-island.json) |
 | Diablo IV: Beckoning Thunder Pack | 288057 | [288057-diablo-iv-beckoning-thunder-pack.json](./288057-diablo-iv-beckoning-thunder-pack.json) |
+| Diablo IV: Crypt Hunter Pack | 254226 | [254226-diablo-iv-crypt-hunter-pack.json](./254226-diablo-iv-crypt-hunter-pack.json) |
 | Diablo IV: Dark Pathways Pack | 289474 | [289474-diablo-iv-dark-pathways-pack.json](./289474-diablo-iv-dark-pathways-pack.json) |
 | Diablo IV: Digital Deluxe Edition | 249741 | [249741-diablo-iv-digital-deluxe-edition.json](./249741-diablo-iv-digital-deluxe-edition.json) |
 | Diablo IV: Loot Reborn | 299726 | [299726-diablo-iv-loot-reborn.json](./299726-diablo-iv-loot-reborn.json) |
@@ -12234,6 +12235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Knock Twice | 25646 | [25646-dont-knock-twice.json](./25646-dont-knock-twice.json) |
 | Don't Leave | 285439 | [285439-dont-leave.json](./285439-dont-leave.json) |
 | Don't Let Her In | 305990 | [305990-dont-let-her-in.json](./305990-dont-let-her-in.json) |
+| Don't Let Him In | 254231 | [254231-dont-let-him-in.json](./254231-dont-let-him-in.json) |
 | Don't Let It Die | 295227 | [295227-dont-let-it-die.json](./295227-dont-let-it-die.json) |
 | Don’t Let It Out | 256081 | [256081-don-t-let-it-out.json](./256081-don-t-let-it-out.json) |
 | Don't Let It Starve | 363116 | [363116-dont-let-it-starve.json](./363116-dont-let-it-starve.json) |
