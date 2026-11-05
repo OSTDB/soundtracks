@@ -8376,6 +8376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Warrior | 223974 | [223974-road-warrior.json](./223974-road-warrior.json) |
 | Road Warrior | 364536 | [364536-road-warrior.json](./364536-road-warrior.json) |
 | Road Warriors | 111303 | [111303-road-warriors.json](./111303-road-warriors.json) |
+| Road Warriors | 287428 | [287428-road-warriors.json](./287428-road-warriors.json) |
 | Road Warriors 2 | 184824 | [184824-road-warriors-2.json](./184824-road-warriors-2.json) |
 | Road Wars | 265943 | [265943-road-wars.json](./265943-road-wars.json) |
 | Road Works | 35687 | [35687-road-works.json](./35687-road-works.json) |
@@ -10606,6 +10607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roof Rails | 288249 | [288249-roof-rails.json](./288249-roof-rails.json) |
 | Roofbot | 30897 | [30897-roofbot.json](./30897-roofbot.json) |
 | Roofbot: Puzzler on the Roof | 96729 | [96729-roofbot-puzzler-on-the-roof.json](./96729-roofbot-puzzler-on-the-roof.json) |
+| Roofcats Band: Suika Style | 287469 | [287469-roofcats-band-suika-style.json](./287469-roofcats-band-suika-style.json) |
 | Roofgrown Life | 348690 | [348690-roofgrown-life.json](./348690-roofgrown-life.json) |
 | Rooftop | 229706 | [229706-rooftop.json](./229706-rooftop.json) |
 | Rooftop | 337768 | [337768-rooftop.json](./337768-rooftop.json) |
