@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Inside the Escape | 324985 | [324985-backrooms-inside-the-escape.json](./324985-backrooms-inside-the-escape.json) |
 | Backrooms: Labyrinth Glitch | 407803 | [407803-backrooms-labyrinth-glitch.json](./407803-backrooms-labyrinth-glitch.json) |
 | Backrooms: Last Chance | 407802 | [407802-backrooms-last-chance.json](./407802-backrooms-last-chance.json) |
+| Backrooms: Last Room | 289657 | [289657-backrooms-last-room.json](./289657-backrooms-last-room.json) |
 | Backrooms: Lethal Expedition | 292566 | [292566-backrooms-lethal-expedition.json](./292566-backrooms-lethal-expedition.json) |
 | Backrooms: Levels of Fear | 197525 | [197525-backrooms-levels-of-fear.json](./197525-backrooms-levels-of-fear.json) |
 | Backrooms: Liminal Conflict | 302327 | [302327-backrooms-liminal-conflict.json](./302327-backrooms-liminal-conflict.json) |
