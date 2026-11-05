@@ -1730,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlords Battle Simulator | 267020 | [267020-warlords-battle-simulator.json](./267020-warlords-battle-simulator.json) |
 | Warlords Battlecry II | 9833 | [9833-warlords-battlecry-ii.json](./9833-warlords-battlecry-ii.json) |
 | Warlords Battlecry III | 9834 | [9834-warlords-battlecry-iii.json](./9834-warlords-battlecry-iii.json) |
+| Warlords Battlecry: The Protectors of Etheria | 261619 | [261619-warlords-battlecry-the-protectors-of-etheria.json](./261619-warlords-battlecry-the-protectors-of-etheria.json) |
 | Warlords Battleground: Extraction | 368792 | [368792-warlords-battleground-extraction.json](./368792-warlords-battleground-extraction.json) |
 | Warlords Classic Strategy | 197718 | [197718-warlords-classic-strategy.json](./197718-warlords-classic-strategy.json) |
 | Warlords DS | 79562 | [79562-warlords-ds.json](./79562-warlords-ds.json) |
