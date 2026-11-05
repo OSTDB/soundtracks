@@ -3269,6 +3269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Jungle: Brother's Wedding Story | 401001 | [401001-urban-jungle-brothers-wedding-story.json](./401001-urban-jungle-brothers-wedding-story.json) |
 | Urban Justice | 113525 | [113525-urban-justice.json](./113525-urban-justice.json) |
 | Urban Kick Academy | 78353 | [78353-urban-kick-academy.json](./78353-urban-kick-academy.json) |
+| Urban Legend Hunters 2: Double | 278799 | [278799-urban-legend-hunters-2-double.json](./278799-urban-legend-hunters-2-double.json) |
 | Urban Legend Hunters: Ghosts in the Circuit | 369921 | [369921-urban-legend-hunters-ghosts-in-the-circuit.json](./369921-urban-legend-hunters-ghosts-in-the-circuit.json) |
 | Urban Legends | 17384 | [17384-urban-legends.json](./17384-urban-legends.json) |
 | Urban Legends: The Dry Body | 369288 | [369288-urban-legends-the-dry-body.json](./369288-urban-legends-the-dry-body.json) |
