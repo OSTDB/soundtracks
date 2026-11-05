@@ -23942,6 +23942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tohou Sky Arena: Matsuri Climax - Playable Character: Toyosatomimi no Miko | 238033 | [238033-tohou-sky-arena-matsuri-climax-playable-character-toyosatomimi-no-miko.json](./238033-tohou-sky-arena-matsuri-climax-playable-character-toyosatomimi-no-miko.json) |
 | Tohou Sky Arena: Matsuri Climax - Playable Character: Yukari Yakumo | 238032 | [238032-tohou-sky-arena-matsuri-climax-playable-character-yukari-yakumo.json](./238032-tohou-sky-arena-matsuri-climax-playable-character-yukari-yakumo.json) |
 | Tohou Sky Arena: Matsuri Climax - Playable Character: Yuyuko Saigyouji | 238034 | [238034-tohou-sky-arena-matsuri-climax-playable-character-yuyuko-saigyouji.json](./238034-tohou-sky-arena-matsuri-climax-playable-character-yuyuko-saigyouji.json) |
+| Tohou Spell Bubble: Touhou Youyoumu Arrangements Pack Vol.2 | 249582 | [249582-tohou-spell-bubble-touhou-youyoumu-arrangements-pack-vol-2.json](./249582-tohou-spell-bubble-touhou-youyoumu-arrangements-pack-vol-2.json) |
 | Tohu-Teka | 120159 | [120159-tohu-teka.json](./120159-tohu-teka.json) |
 | Toi | 166828 | [166828-toi.json](./166828-toi.json) |
 | Toi Acid Game | 47525 | [47525-toi-acid-game.json](./47525-toi-acid-game.json) |
