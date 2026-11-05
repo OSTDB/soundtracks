@@ -4235,6 +4235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Esteban | 63266 | [63266-dear-esteban.json](./63266-dear-esteban.json) |
 | Dear Esther | 273899 | [273899-dear-esther.json](./273899-dear-esther.json) |
 | Dear Esther: Landmark Edition | 24051 | [24051-dear-esther-landmark-edition.json](./24051-dear-esther-landmark-edition.json) |
+| Dear Flower | 275388 | [275388-dear-flower.json](./275388-dear-flower.json) |
 | Dear Friend | 226167 | [226167-dear-friend.json](./226167-dear-friend.json) |
 | Dear Future | 144791 | [144791-dear-future.json](./144791-dear-future.json) |
 | Dear Genny | 177532 | [177532-dear-genny.json](./177532-dear-genny.json) |
@@ -5324,6 +5325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deepak Chopra's Leela | 20244 | [20244-deepak-chopras-leela.json](./20244-deepak-chopras-leela.json) |
 | DeepBubbles | 358890 | [358890-deepbubbles.json](./358890-deepbubbles.json) |
 | DeepCover | 317998 | [317998-deepcover.json](./317998-deepcover.json) |
+| Deepcut | 275386 | [275386-deepcut.json](./275386-deepcut.json) |
 | Deepening Fire | 208854 | [208854-deepening-fire.json](./208854-deepening-fire.json) |
 | Deeper | 104650 | [104650-deeper.json](./104650-deeper.json) |
 | Deeper | 223440 | [223440-deeper.json](./223440-deeper.json) |
@@ -12684,6 +12686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Saver | 252942 | [252942-doodle-saver.json](./252942-doodle-saver.json) |
 | Doodle Smash! | 232578 | [232578-doodle-smash.json](./232578-doodle-smash.json) |
 | Doodle Sprint! | 134445 | [134445-doodle-sprint.json](./134445-doodle-sprint.json) |
+| Doodle Streets: London 1950's | 275371 | [275371-doodle-streets-london-1950s.json](./275371-doodle-streets-london-1950s.json) |
 | Doodle Tanks | 76181 | [76181-doodle-tanks.json](./76181-doodle-tanks.json) |
 | Doodle Taxi | 258605 | [258605-doodle-taxi.json](./258605-doodle-taxi.json) |
 | Doodle TD | 234644 | [234644-doodle-td.json](./234644-doodle-td.json) |
