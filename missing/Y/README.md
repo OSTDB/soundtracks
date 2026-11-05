@@ -2054,6 +2054,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuuki Yuuna ha Yuusha de Aru S | 11788 | [11788-yuuki-yuuna-ha-yuusha-de-aru-s.json](./11788-yuuki-yuuna-ha-yuusha-de-aru-s.json) |
 | Yuuki Yuuna ha Yuusha de Aru: Gyoki Danshou | 364577 | [364577-yuuki-yuuna-ha-yuusha-de-aru-gyoki-danshou.json](./364577-yuuki-yuuna-ha-yuusha-de-aru-gyoki-danshou.json) |
 | Yuuki Yuuna ha Yuusha de Aru: Hanayui no Kirameki - Vol. 5 | 292883 | [292883-yuuki-yuuna-ha-yuusha-de-aru-hanayui-no-kirameki-vol-5.json](./292883-yuuki-yuuna-ha-yuusha-de-aru-hanayui-no-kirameki-vol-5.json) |
+| Yuuki Yuuna ha Yuusha de Aru: Hanayui no Kirameki - Vol. 6 | 292884 | [292884-yuuki-yuuna-ha-yuusha-de-aru-hanayui-no-kirameki-vol-6.json](./292884-yuuki-yuuna-ha-yuusha-de-aru-hanayui-no-kirameki-vol-6.json) |
+| Yuuki Yuuna ha Yuusha de Aru: Hanayui no Kirameki - Vol. 7 | 292885 | [292885-yuuki-yuuna-ha-yuusha-de-aru-hanayui-no-kirameki-vol-7.json](./292885-yuuki-yuuna-ha-yuusha-de-aru-hanayui-no-kirameki-vol-7.json) |
+| Yuuki Yuuna ha Yuusha de Aru: Hanayui no Kirameki - Vol. 8 | 292886 | [292886-yuuki-yuuna-ha-yuusha-de-aru-hanayui-no-kirameki-vol-8.json](./292886-yuuki-yuuna-ha-yuusha-de-aru-hanayui-no-kirameki-vol-8.json) |
 | Yuuki's Party Night | 286518 | [286518-yuukis-party-night.json](./286518-yuukis-party-night.json) |
 | Yuukoku no Femme Fatale | 317102 | [317102-yuukoku-no-femme-fatale.json](./317102-yuukoku-no-femme-fatale.json) |
 | Yuukuri Panic Escalation | 58838 | [58838-yuukuri-panic-escalation.json](./58838-yuukuri-panic-escalation.json) |
