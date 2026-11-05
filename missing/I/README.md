@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Need to Fix My Dream Car (But I Work at a Junkyard) | 407176 | [407176-i-need-to-fix-my-dream-car-but-i-work-at-a-junkyard.json](./407176-i-need-to-fix-my-dream-car-but-i-work-at-a-junkyard.json) |
 | I need to pee | 181544 | [181544-i-need-to-pee.json](./181544-i-need-to-pee.json) |
 | I Never Late for Work | 389840 | [389840-i-never-late-for-work.json](./389840-i-never-late-for-work.json) |
+| I No Longer Fear The Ranger Guarding My Heel | 277090 | [277090-i-no-longer-fear-the-ranger-guarding-my-heel.json](./277090-i-no-longer-fear-the-ranger-guarding-my-heel.json) |
 | I of the Enemy | 222809 | [222809-i-of-the-enemy.json](./222809-i-of-the-enemy.json) |
 | I Offered You the Crown | 355016 | [355016-i-offered-you-the-crown.json](./355016-i-offered-you-the-crown.json) |
 | I open the harem in the last days | 154267 | [154267-i-open-the-harem-in-the-last-days.json](./154267-i-open-the-harem-in-the-last-days.json) |
