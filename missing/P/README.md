@@ -10386,6 +10386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poet Squad | 159511 | [159511-poet-squad.json](./159511-poet-squad.json) |
 | Poetic Trio | 369880 | [369880-poetic-trio.json](./369880-poetic-trio.json) |
 | PoeticRambling | 300663 | [300663-poeticrambling.json](./300663-poeticrambling.json) |
+| Poetry in Purgatory | 255471 | [255471-poetry-in-purgatory.json](./255471-poetry-in-purgatory.json) |
 | Poetry of Blood: Eclipse | 247614 | [247614-poetry-of-blood-eclipse.json](./247614-poetry-of-blood-eclipse.json) |
 | Poetry Pigeon | 309604 | [309604-poetry-pigeon.json](./309604-poetry-pigeon.json) |
 | Poetry, wine and sword | 158186 | [158186-poetry-wine-and-sword.json](./158186-poetry-wine-and-sword.json) |
@@ -14371,10 +14372,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Puzzle | 246555 | [246555-princess-puzzle.json](./246555-princess-puzzle.json) |
 | Princess Puzzle Adventure | 279868 | [279868-princess-puzzle-adventure.json](./279868-princess-puzzle-adventure.json) |
 | Princess Quest | 147183 | [147183-princess-quest.json](./147183-princess-quest.json) |
+| Princess Quest | 255427 | [255427-princess-quest.json](./255427-princess-quest.json) |
 | Princess Quest | 286070 | [286070-princess-quest.json](./286070-princess-quest.json) |
 | Princess Quest | 77600 | [77600-princess-quest.json](./77600-princess-quest.json) |
 | Princess Quest 3D | 325942 | [325942-princess-quest-3d.json](./325942-princess-quest-3d.json) |
 | Princess Quest Part 1 | 250055 | [250055-princess-quest-part-1.json](./250055-princess-quest-part-1.json) |
+| Princess Quest R | 255416 | [255416-princess-quest-r.json](./255416-princess-quest-r.json) |
 | Princess Rapunzel: The Kingdom's Legacy | 320461 | [320461-princess-rapunzel-the-kingdoms-legacy.json](./320461-princess-rapunzel-the-kingdoms-legacy.json) |
 | Princess Remedy in a World of Hurt | 15890 | [15890-princess-remedy-in-a-world-of-hurt.json](./15890-princess-remedy-in-a-world-of-hurt.json) |
 | Princess Remedy: In A Heap of Trouble | 31463 | [31463-princess-remedy-in-a-heap-of-trouble.json](./31463-princess-remedy-in-a-heap-of-trouble.json) |
