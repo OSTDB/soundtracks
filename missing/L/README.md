@@ -3807,6 +3807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's! Revolution! | 242101 | [242101-lets-revolution.json](./242101-lets-revolution.json) |
 | Let's! Splat! Machigai Sagashi | 222528 | [222528-lets-splat-machigai-sagashi.json](./222528-lets-splat-machigai-sagashi.json) |
 | Leta Adventure | 240128 | [240128-leta-adventure.json](./240128-leta-adventure.json) |
+| Letalis | 290197 | [290197-letalis.json](./290197-letalis.json) |
 | LetDeco | 351667 | [351667-letdeco.json](./351667-letdeco.json) |
 | Lethal | 355235 | [355235-lethal.json](./355235-lethal.json) |
 | Lethal Application | 256555 | [256555-lethal-application.json](./256555-lethal-application.json) |
@@ -5441,6 +5442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linx Battle Arena | 55961 | [55961-linx-battle-arena.json](./55961-linx-battle-arena.json) |
 | Linxicon | 319984 | [319984-linxicon.json](./319984-linxicon.json) |
 | Linzy has a Messy Room | 101099 | [101099-linzy-has-a-messy-room.json](./101099-linzy-has-a-messy-room.json) |
+| Lio | 290207 | [290207-lio.json](./290207-lio.json) |
 | Lioden | 178067 | [178067-lioden.json](./178067-lioden.json) |
 | Lion | 9565 | [9565-lion.json](./9565-lion.json) |
 | Lion and the King | 56804 | [56804-lion-and-the-king.json](./56804-lion-and-the-king.json) |
@@ -6756,6 +6758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic Puzzle Rainbow Town | 252872 | [252872-logic-puzzle-rainbow-town.json](./252872-logic-puzzle-rainbow-town.json) |
 | Logic Quest 3D | 79759 | [79759-logic-quest-3d.json](./79759-logic-quest-3d.json) |
 | Logic Square | 228142 | [228142-logic-square.json](./228142-logic-square.json) |
+| Logic Town: Country Fair | 290202 | [290202-logic-town-country-fair.json](./290202-logic-town-country-fair.json) |
 | Logic Town: Santa's Grotto | 279131 | [279131-logic-town-santas-grotto.json](./279131-logic-town-santas-grotto.json) |
 | Logic Town: The Library | 288063 | [288063-logic-town-the-library.json](./288063-logic-town-the-library.json) |
 | Logic Training IQ Quiz for Kids | 401131 | [401131-logic-training-iq-quiz-for-kids.json](./401131-logic-training-iq-quiz-for-kids.json) |
