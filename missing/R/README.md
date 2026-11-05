@@ -8062,6 +8062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ritual | 302707 | [302707-ritual.json](./302707-ritual.json) |
 | Ritual | 327677 | [327677-ritual.json](./327677-ritual.json) |
 | Ritual | 343168 | [343168-ritual.json](./343168-ritual.json) |
+| Ritual Bound | 250120 | [250120-ritual-bound.json](./250120-ritual-bound.json) |
 | Ritual Night | 189853 | [189853-ritual-night.json](./189853-ritual-night.json) |
 | Ritual of Raven | 281390 | [281390-ritual-of-raven.json](./281390-ritual-of-raven.json) |
 | Ritual of the Moon | 113185 | [113185-ritual-of-the-moon.json](./113185-ritual-of-the-moon.json) |
