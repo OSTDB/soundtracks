@@ -13510,6 +13510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuser: VIP Edition | 139827 | [139827-fuser-vip-edition.json](./139827-fuser-vip-edition.json) |
 | FuSha: Overnight Stay | 366292 | [366292-fusha-overnight-stay.json](./366292-fusha-overnight-stay.json) |
 | Fúshēng Mèng | 399047 | [399047-fusheng-meng.json](./399047-fusheng-meng.json) |
+| Fushigi Dagashiya Sentendou: Fushigi Dagashiya-banashi 50-sen | 271514 | [271514-fushigi-dagashiya-sentendou-fushigi-dagashiya-banashi-50-sen.json](./271514-fushigi-dagashiya-sentendou-fushigi-dagashiya-banashi-50-sen.json) |
 | Fushigi Deka | 59442 | [59442-fushigi-deka.json](./59442-fushigi-deka.json) |
 | Fushigi Densha | 143636 | [143636-fushigi-densha.json](./143636-fushigi-densha.json) |
 | Fushigi na Jikken Quiz! | 257760 | [257760-fushigi-na-jikken-quiz.json](./257760-fushigi-na-jikken-quiz.json) |
