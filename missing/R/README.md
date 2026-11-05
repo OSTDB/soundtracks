@@ -2636,6 +2636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Memento - White Shadow: When the Cadella Blooms Again | 350163 | [350163-re-memento-white-shadow-when-the-cadella-blooms-again.json](./350163-re-memento-white-shadow-when-the-cadella-blooms-again.json) |
 | Re:Metamorphosis Candina | 409768 | [409768-re-metamorphosis-candina.json](./409768-re-metamorphosis-candina.json) |
 | Re:Mobilize | 270851 | [270851-re-mobilize.json](./270851-re-mobilize.json) |
+| Re:Mobilize Jam 1: Re:Collections | 274260 | [274260-re-mobilize-jam-1-re-collections.json](./274260-re-mobilize-jam-1-re-collections.json) |
 | Re:Mobilize Jam 2: Re:Visions | 332173 | [332173-re-mobilize-jam-2-re-visions.json](./332173-re-mobilize-jam-2-re-visions.json) |
 | Re:Mobilize Jam 3: Re:Frigerated | 393783 | [393783-re-mobilize-jam-3-re-frigerated.json](./393783-re-mobilize-jam-3-re-frigerated.json) |
 | Re:Monster | 241637 | [241637-re-monster.json](./241637-re-monster.json) |
@@ -10943,9 +10944,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose Cottage | 286673 | [286673-rose-cottage.json](./286673-rose-cottage.json) |
 | Rose From The Depths | 249623 | [249623-rose-from-the-depths.json](./249623-rose-from-the-depths.json) |
 | Rose Guns Days | 65427 | [65427-rose-guns-days.json](./65427-rose-guns-days.json) |
+| Rose Guns Days: Last Season | 274248 | [274248-rose-guns-days-last-season.json](./274248-rose-guns-days-last-season.json) |
 | Rose Guns Days: Season 1 | 274213 | [274213-rose-guns-days-season-1.json](./274213-rose-guns-days-season-1.json) |
 | Rose Guns Days: Season 1 | 326598 | [326598-rose-guns-days-season-1.json](./326598-rose-guns-days-season-1.json) |
+| Rose Guns Days: Season 2 | 274244 | [274244-rose-guns-days-season-2.json](./274244-rose-guns-days-season-2.json) |
 | Rose Guns Days: Season 2 | 408960 | [408960-rose-guns-days-season-2.json](./408960-rose-guns-days-season-2.json) |
+| Rose Guns Days: Season 3 | 274246 | [274246-rose-guns-days-season-3.json](./274246-rose-guns-days-season-3.json) |
+| Rose Guns Days: The Best | 274250 | [274250-rose-guns-days-the-best.json](./274250-rose-guns-days-the-best.json) |
 | Rose Hips | 395037 | [395037-rose-hips.json](./395037-rose-hips.json) |
 | Rose in the Embers | 238910 | [238910-rose-in-the-embers.json](./238910-rose-in-the-embers.json) |
 | Rose O'Neill Kewpie Bomberman | 198036 | [198036-rose-oneill-kewpie-bomberman.json](./198036-rose-oneill-kewpie-bomberman.json) |
