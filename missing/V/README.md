@@ -1794,6 +1794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vice Vision Runner | 414262 | [414262-vice-vision-runner.json](./414262-vice-vision-runner.json) |
 | Vice: Magic City Mayhem | 331378 | [331378-vice-magic-city-mayhem.json](./331378-vice-magic-city-mayhem.json) |
 | Vice: Project Doom | 48262 | [48262-vice-project-doom.json](./48262-vice-project-doom.json) |
+| Vicera | 275941 | [275941-vicera.json](./275941-vicera.json) |
 | Vicera | 321521 | [321521-vicera.json](./321521-vicera.json) |
 | Viceria | 346457 | [346457-viceria.json](./346457-viceria.json) |
 | Vicewave | 141839 | [141839-vicewave.json](./141839-vicewave.json) |
