@@ -9580,6 +9580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirge For The Zone | 295216 | [295216-dirge-for-the-zone.json](./295216-dirge-for-the-zone.json) |
 | Dirge of Cerberus: Final Fantasy VII | 18068 | [18068-dirge-of-cerberus-final-fantasy-vii.json](./18068-dirge-of-cerberus-final-fantasy-vii.json) |
 | Dirge of the Scarlet Star | 387028 | [387028-dirge-of-the-scarlet-star.json](./387028-dirge-of-the-scarlet-star.json) |
+| Dirk Valentine and the Fortress of Steam | 297692 | [297692-dirk-valentine-and-the-fortress-of-steam.json](./297692-dirk-valentine-and-the-fortress-of-steam.json) |
 | Dirk Vander Wilt's Kasia | 159141 | [159141-dirk-vander-wilts-kasia.json](./159141-dirk-vander-wilts-kasia.json) |
 | Dirok | 297424 | [297424-dirok.json](./297424-dirok.json) |
 | Dirt 3 | 524 | [524-dirt-3.json](./524-dirt-3.json) |
