@@ -5648,6 +5648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Becherov | 50316 | [50316-becherov.json](./50316-becherov.json) |
 | Beck: The Game | 61425 | [61425-beck-the-game.json](./61425-beck-the-game.json) |
 | Beckett | 89504 | [89504-beckett.json](./89504-beckett.json) |
+| Beckon the Hellspawn | 260488 | [260488-beckon-the-hellspawn.json](./260488-beckon-the-hellspawn.json) |
 | Beckoned | 159847 | [159847-beckoned.json](./159847-beckoned.json) |
 | Becky Brogan: The Mystery of Meane Manor | 125303 | [125303-becky-brogan-the-mystery-of-meane-manor.json](./125303-becky-brogan-the-mystery-of-meane-manor.json) |
 | Becky Kansatsu Nikki | 108147 | [108147-becky-kansatsu-nikki.json](./108147-becky-kansatsu-nikki.json) |
@@ -6747,6 +6748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Better With A Friend | 301255 | [301255-better-with-a-friend.json](./301255-better-with-a-friend.json) |
 | BetterEd Element Master | 106754 | [106754-bettered-element-master.json](./106754-bettered-element-master.json) |
 | Betterified VI: Bestified | 278057 | [278057-betterified-vi-bestified.json](./278057-betterified-vi-bestified.json) |
+| BetterSADX | 260492 | [260492-bettersadx.json](./260492-bettersadx.json) |
 | BetterVR | 386425 | [386425-bettervr.json](./386425-bettervr.json) |
 | Betty & Earl | 163977 | [163977-betty-and-earl.json](./163977-betty-and-earl.json) |
 | Betty Bad | 23449 | [23449-betty-bad.json](./23449-betty-bad.json) |
@@ -10154,6 +10156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobbelnoppel | 384260 | [384260-blobbelnoppel.json](./384260-blobbelnoppel.json) |
 | Blobber | 269277 | [269277-blobber.json](./269277-blobber.json) |
 | Blobber | 416727 | [416727-blobber.json](./416727-blobber.json) |
+| Blobbers | 260483 | [260483-blobbers.json](./260483-blobbers.json) |
 | Blobbers | 41529 | [41529-blobbers.json](./41529-blobbers.json) |
 | Blobbers Run! | 304996 | [304996-blobbers-run.json](./304996-blobbers-run.json) |
 | Blobbert 64 | 336945 | [336945-blobbert-64.json](./336945-blobbert-64.json) |
