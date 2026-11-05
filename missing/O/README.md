@@ -5494,6 +5494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OverDrift Festival: Premium Cars Pack#4 | 227016 | [227016-overdrift-festival-premium-cars-pack-4.json](./227016-overdrift-festival-premium-cars-pack-4.json) |
 | Overdrive | 12710 | [12710-overdrive.json](./12710-overdrive.json) |
 | Overdrive | 203565 | [203565-overdrive.json](./203565-overdrive.json) |
+| OverDrive | 248371 | [248371-overdrive.json](./248371-overdrive.json) |
 | Overdrive Blaster | 308322 | [308322-overdrive-blaster.json](./308322-overdrive-blaster.json) |
 | Overdrive Breakout | 419761 | [419761-overdrive-breakout.json](./419761-overdrive-breakout.json) |
 | Overdrive City | 136934 | [136934-overdrive-city.json](./136934-overdrive-city.json) |
