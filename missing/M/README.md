@@ -12334,6 +12334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minforiga | 149866 | [149866-minforiga.json](./149866-minforiga.json) |
 | Ming Dynasty: Cards & Court | 390606 | [390606-ming-dynasty-cards-and-court.json](./390606-ming-dynasty-cards-and-court.json) |
 | Ming Imperial Guards | 282165 | [282165-ming-imperial-guards.json](./282165-ming-imperial-guards.json) |
+| Ming's Challenge | 284712 | [284712-mings-challenge.json](./284712-mings-challenge.json) |
 | MingJiangSha | 390323 | [390323-mingjiangsha.json](./390323-mingjiangsha.json) |
 | Míngjiào Fēngyún zhī Jiǔ Yīn Jiǔ Yáng | 155014 | [155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json](./155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json) |
 | Mingle | 214416 | [214416-mingle.json](./214416-mingle.json) |
@@ -16318,6 +16319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonshine and I: Sansevieria | 178525 | [178525-moonshine-and-i-sansevieria.json](./178525-moonshine-and-i-sansevieria.json) |
 | Moonshine Inc. | 191849 | [191849-moonshine-inc.json](./191849-moonshine-inc.json) |
 | Moonshine Inc. + Bio Inc. Redemption: Drinking Problem Deluxe Bundle | 296559 | [296559-moonshine-inc-bio-inc-redemption-drinking-problem-deluxe-bundle.json](./296559-moonshine-inc-bio-inc-redemption-drinking-problem-deluxe-bundle.json) |
+| Moonshine Inc. + Ruinarch: Bad Habits Bundle | 284737 | [284737-moonshine-inc-ruinarch-bad-habits-bundle.json](./284737-moonshine-inc-ruinarch-bad-habits-bundle.json) |
 | Moonshine Madness | 304588 | [304588-moonshine-madness.json](./304588-moonshine-madness.json) |
 | Moonshine Maniacs: A Wild West Saga | 132221 | [132221-moonshine-maniacs-a-wild-west-saga.json](./132221-moonshine-maniacs-a-wild-west-saga.json) |
 | Moonshine Racers | 12686 | [12686-moonshine-racers.json](./12686-moonshine-racers.json) |
@@ -18213,6 +18215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Potato Head Saves Veggie Valley | 61025 | [61025-mr-potato-head-saves-veggie-valley.json](./61025-mr-potato-head-saves-veggie-valley.json) |
 | Mr. Prepper | 81680 | [81680-mr-prepper.json](./81680-mr-prepper.json) |
 | Mr. Prepper: Animal Farm | 197593 | [197593-mr-prepper-animal-farm.json](./197593-mr-prepper-animal-farm.json) |
+| Mr. Prepper: Anniversary Edition | 284742 | [284742-mr-prepper-anniversary-edition.json](./284742-mr-prepper-anniversary-edition.json) |
 | Mr. President | 332232 | [332232-mr-president.json](./332232-mr-president.json) |
 | Mr. President! | 403624 | [403624-mr-president.json](./403624-mr-president.json) |
 | Mr. Presidents | 208027 | [208027-mr-presidents.json](./208027-mr-presidents.json) |
