@@ -6430,6 +6430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's All Over | 353769 | [353769-its-all-over.json](./353769-its-all-over.json) |
 | It's Always Monday | 26222 | [26222-its-always-monday.json](./26222-its-always-monday.json) |
 | It's Always Sunny: The Gang Goes Mobile | 110286 | [110286-its-always-sunny-the-gang-goes-mobile.json](./110286-its-always-sunny-the-gang-goes-mobile.json) |
+| It's another hack with Mario in it! Yay! | 281809 | [281809-its-another-hack-with-mario-in-it-yay.json](./281809-its-another-hack-with-mario-in-it-yay.json) |
 | It's Barbaric: Euroza | 244164 | [244164-its-barbaric-euroza.json](./244164-its-barbaric-euroza.json) |
 | It's Breaking Out | 358347 | [358347-its-breaking-out.json](./358347-its-breaking-out.json) |
 | It's Chopping Time! | 395265 | [395265-its-chopping-time.json](./395265-its-chopping-time.json) |
