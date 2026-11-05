@@ -12605,6 +12605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: The Minish Cap Randomizer | 288697 | [288697-the-legend-of-zelda-the-minish-cap-randomizer.json](./288697-the-legend-of-zelda-the-minish-cap-randomizer.json) |
 | The Legend of Zelda: The Missing Link | 136392 | [136392-the-legend-of-zelda-the-missing-link.json](./136392-the-legend-of-zelda-the-missing-link.json) |
 | The Legend of Zelda: The Sealed Palace | 242736 | [242736-the-legend-of-zelda-the-sealed-palace.json](./242736-the-legend-of-zelda-the-sealed-palace.json) |
+| The Legend of Zelda: The Shadow's Fall | 248365 | [248365-the-legend-of-zelda-the-shadows-fall.json](./248365-the-legend-of-zelda-the-shadows-fall.json) |
 | The Legend of Zelda: The Shadowgazer | 323364 | [323364-the-legend-of-zelda-the-shadowgazer.json](./323364-the-legend-of-zelda-the-shadowgazer.json) |
 | The Legend of Zelda: The Wheel of Fate | 282978 | [282978-the-legend-of-zelda-the-wheel-of-fate.json](./282978-the-legend-of-zelda-the-wheel-of-fate.json) |
 | The Legend of Zelda: The Wind Waker - Limited Edition | 239007 | [239007-the-legend-of-zelda-the-wind-waker-limited-edition.json](./239007-the-legend-of-zelda-the-wind-waker-limited-edition.json) |
@@ -29541,6 +29542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traveler Lost | 367031 | [367031-traveler-lost.json](./367031-traveler-lost.json) |
 | Traveler of Artcaster | 149508 | [149508-traveler-of-artcaster.json](./149508-traveler-of-artcaster.json) |
 | Traveler of Light | 366338 | [366338-traveler-of-light.json](./366338-traveler-of-light.json) |
+| Traveler of Wuxia | 248367 | [248367-traveler-of-wuxia.json](./248367-traveler-of-wuxia.json) |
 | Traveler Stories: Journeys of Real People | 414113 | [414113-traveler-stories-journeys-of-real-people.json](./414113-traveler-stories-journeys-of-real-people.json) |
 | Traveler: Set Sail | 273351 | [273351-traveler-set-sail.json](./273351-traveler-set-sail.json) |
 | Traveler's Backpack | 397213 | [397213-travelers-backpack.json](./397213-travelers-backpack.json) |
@@ -30934,6 +30936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck & Logistics Simulator | 129757 | [129757-truck-and-logistics-simulator.json](./129757-truck-and-logistics-simulator.json) |
 | Truck and Forklift Logistic Simulator | 288373 | [288373-truck-and-forklift-logistic-simulator.json](./288373-truck-and-forklift-logistic-simulator.json) |
 | Truck City | 351149 | [351149-truck-city.json](./351149-truck-city.json) |
+| Truck Climb Racing | 248344 | [248344-truck-climb-racing.json](./248344-truck-climb-racing.json) |
 | Truck Dismount | 19284 | [19284-truck-dismount.json](./19284-truck-dismount.json) |
 | Truck Drag Racing Legends | 281047 | [281047-truck-drag-racing-legends.json](./281047-truck-drag-racing-legends.json) |
 | Truck Drag Racing Legends Simulator | 266338 | [266338-truck-drag-racing-legends-simulator.json](./266338-truck-drag-racing-legends-simulator.json) |
