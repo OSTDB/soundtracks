@@ -478,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I See You | 113642 | [113642-i-see-you.json](./113642-i-see-you.json) |
 | I See You | 135609 | [135609-i-see-you.json](./135609-i-see-you.json) |
 | I See You | 259630 | [259630-i-see-you.json](./259630-i-see-you.json) |
+| I Seek! Where is "Picto"-san? | 280584 | [280584-i-seek-where-is-picto-san.json](./280584-i-seek-where-is-picto-san.json) |
 | I Sell Lemonade | 373996 | [373996-i-sell-lemonade.json](./373996-i-sell-lemonade.json) |
 | I Shall Remain | 17234 | [17234-i-shall-remain.json](./17234-i-shall-remain.json) |
 | I Slay Zombies: VR Shooter | 174343 | [174343-i-slay-zombies-vr-shooter.json](./174343-i-slay-zombies-vr-shooter.json) |
@@ -3755,6 +3756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
