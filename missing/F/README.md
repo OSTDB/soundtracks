@@ -3418,6 +3418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear For Sale: Nightmare Cinema - Collector’s Edition | 104216 | [104216-fear-for-sale-nightmare-cinema-collector-s-edition.json](./104216-fear-for-sale-nightmare-cinema-collector-s-edition.json) |
 | Fear For Sale: Phantom Tide - Collector’s Edition | 100065 | [100065-fear-for-sale-phantom-tide-collector-s-edition.json](./100065-fear-for-sale-phantom-tide-collector-s-edition.json) |
 | Fear for Sale: The 13 Keys - Collector's Edition | 93830 | [93830-fear-for-sale-the-13-keys-collectors-edition.json](./93830-fear-for-sale-the-13-keys-collectors-edition.json) |
+| Fear For Sale: The Curse of Whitefall - Collector's Edition | 283520 | [283520-fear-for-sale-the-curse-of-whitefall-collectors-edition.json](./283520-fear-for-sale-the-curse-of-whitefall-collectors-edition.json) |
 | Fear for Sale: The House on Black River | 101654 | [101654-fear-for-sale-the-house-on-black-river.json](./101654-fear-for-sale-the-house-on-black-river.json) |
 | Fear Frame | 389346 | [389346-fear-frame.json](./389346-fear-frame.json) |
 | Fear Half Factor | 88079 | [88079-fear-half-factor.json](./88079-fear-half-factor.json) |
@@ -3722,6 +3723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Felix the Cat | 240932 | [240932-felix-the-cat.json](./240932-felix-the-cat.json) |
 | Felix the Cat | 282575 | [282575-felix-the-cat.json](./282575-felix-the-cat.json) |
 | Felix the Cat: A Bomba-Relógio | 282585 | [282585-felix-the-cat-a-bomba-relogio.json](./282585-felix-the-cat-a-bomba-relogio.json) |
+| Felix the Cat: Classic Edition | 283371 | [283371-felix-the-cat-classic-edition.json](./283371-felix-the-cat-classic-edition.json) |
 | Felix the Cat: Contra os Inimigos | 282586 | [282586-felix-the-cat-contra-os-inimigos.json](./282586-felix-the-cat-contra-os-inimigos.json) |
 | Felix the Cat's Giant Electronic Comic Book | 200374 | [200374-felix-the-cats-giant-electronic-comic-book.json](./200374-felix-the-cats-giant-electronic-comic-book.json) |
 | Felix the Cat's Giant Electronic Comic Book | 240933 | [240933-felix-the-cats-giant-electronic-comic-book.json](./240933-felix-the-cats-giant-electronic-comic-book.json) |
@@ -10768,6 +10770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FPS Pro Team Manager | 291337 | [291337-fps-pro-team-manager.json](./291337-fps-pro-team-manager.json) |
 | FPS Quest | 381184 | [381184-fps-quest.json](./381184-fps-quest.json) |
 | FPS Robot Attack Minigame | 371303 | [371303-fps-robot-attack-minigame.json](./371303-fps-robot-attack-minigame.json) |
+| FPS Russia: The Game | 283522 | [283522-fps-russia-the-game.json](./283522-fps-russia-the-game.json) |
 | FPS Seduce: Hentai | 248436 | [248436-fps-seduce-hentai.json](./248436-fps-seduce-hentai.json) |
 | FPS Shooting Master | 102748 | [102748-fps-shooting-master.json](./102748-fps-shooting-master.json) |
 | FPS Tactics | 159492 | [159492-fps-tactics.json](./159492-fps-tactics.json) |
@@ -10823,6 +10826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractal Odyssey | 350784 | [350784-fractal-odyssey.json](./350784-fractal-odyssey.json) |
 | Fractal Sailor | 293745 | [293745-fractal-sailor.json](./293745-fractal-sailor.json) |
 | Fractal Space | 33683 | [33683-fractal-space.json](./33683-fractal-space.json) |
+| Fractal Space HD | 283429 | [283429-fractal-space-hd.json](./283429-fractal-space-hd.json) |
 | Fractala Sandbox | 361028 | [361028-fractala-sandbox.json](./361028-fractala-sandbox.json) |
 | Fractalis | 121775 | [121775-fractalis.json](./121775-fractalis.json) |
 | Fractaloid Attacks! | 389850 | [389850-fractaloid-attacks.json](./389850-fractaloid-attacks.json) |
