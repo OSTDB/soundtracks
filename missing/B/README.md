@@ -3400,6 +3400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battalion Wars | 3797 | [3797-battalion-wars.json](./3797-battalion-wars.json) |
 | Battalion Wars 2 | 4708 | [4708-battalion-wars-2.json](./4708-battalion-wars-2.json) |
 | Battalion: Ghosts | 387067 | [387067-battalion-ghosts.json](./387067-battalion-ghosts.json) |
+| Battalion: Nemesis | 281182 | [281182-battalion-nemesis.json](./281182-battalion-nemesis.json) |
 | Battalion: Vengeance | 387069 | [387069-battalion-vengeance.json](./387069-battalion-vengeance.json) |
 | Batten Tanuki no Daibouken | 47548 | [47548-batten-tanuki-no-daibouken.json](./47548-batten-tanuki-no-daibouken.json) |
 | Batter Bear | 398478 | [398478-batter-bear.json](./398478-batter-bear.json) |
@@ -15828,6 +15829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brute | 33279 | [33279-brute.json](./33279-brute.json) |
 | Brute Force | 80634 | [80634-brute-force.json](./80634-brute-force.json) |
 | Brute Horse | 314627 | [314627-brute-horse.json](./314627-brute-horse.json) |
+| Brute Wars | 281185 | [281185-brute-wars.json](./281185-brute-wars.json) |
 | Bruteforce: Survivors | 265553 | [265553-bruteforce-survivors.json](./265553-bruteforce-survivors.json) |
 | Brutes.io | 56266 | [56266-brutes-io.json](./56266-brutes-io.json) |
 | Brutic | 280228 | [280228-brutic.json](./280228-brutic.json) |
