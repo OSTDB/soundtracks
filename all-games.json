@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-05T06:36:36.782Z",
-  "total_soundtracks": 2949,
+  "generated_at": "2026-11-05T09:45:49.337Z",
+  "total_soundtracks": 2950,
   "games": [
     {
       "igdb_id": 7522,
@@ -16699,6 +16699,20 @@
         {
           "album_name": "Kirby: Planet Robobot Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/2YK3Pjm8viuZ09wTTNeQCq",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 19089,
+      "game_name": "Knee Deep",
+      "game_url": "https://ostdb.net/games/knee-deep",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27365b8d298a35a035e688c390b",
+      "albums": [
+        {
+          "album_name": "Knee Deep (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/679RLbsqEwSHXbNyq2tVIH",
           "apple_music_url": "",
           "album_link_url": ""
         }
