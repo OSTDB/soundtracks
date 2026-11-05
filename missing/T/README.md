@@ -1849,6 +1849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Bung | 110965 | [110965-tank-bung.json](./110965-tank-bung.json) |
 | Tank Busters | 40485 | [40485-tank-busters.json](./40485-tank-busters.json) |
 | Tank Cafe | 272703 | [272703-tank-cafe.json](./272703-tank-cafe.json) |
+| Tank Captain | 275975 | [275975-tank-captain.json](./275975-tank-captain.json) |
 | Tank Carnage | 28037 | [28037-tank-carnage.json](./28037-tank-carnage.json) |
 | Tank Chess | 304706 | [304706-tank-chess.json](./304706-tank-chess.json) |
 | Tank Combat | 54425 | [54425-tank-combat.json](./54425-tank-combat.json) |
@@ -17991,6 +17992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Untouchable Man | 302391 | [302391-the-untouchable-man.json](./302391-the-untouchable-man.json) |
 | The Untouchables | 12807 | [12807-the-untouchables.json](./12807-the-untouchables.json) |
 | The Untouchables | 213865 | [213865-the-untouchables.json](./213865-the-untouchables.json) |
+| The Unvisited Grandma | 275950 | [275950-the-unvisited-grandma.json](./275950-the-unvisited-grandma.json) |
 | The Unwanted War | 274898 | [274898-the-unwanted-war.json](./274898-the-unwanted-war.json) |
 | The Unwelcomed | 32144 | [32144-the-unwelcomed.json](./32144-the-unwelcomed.json) |
 | The Unworld | 277069 | [277069-the-unworld.json](./277069-the-unworld.json) |
@@ -22585,6 +22587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeScape: Journey to Pompeii | 73819 | [73819-timescape-journey-to-pompeii.json](./73819-timescape-journey-to-pompeii.json) |
 | TimeScar: Hyperion | 110769 | [110769-timescar-hyperion.json](./110769-timescar-hyperion.json) |
 | TimeShift | 2030 | [2030-timeshift.json](./2030-timeshift.json) |
+| Timeshift Detective | 275972 | [275972-timeshift-detective.json](./275972-timeshift-detective.json) |
 | TimeShifters | 152456 | [152456-timeshifters.json](./152456-timeshifters.json) |
 | TimeShifters: Expansion Pack 1 | 259681 | [259681-timeshifters-expansion-pack-1.json](./259681-timeshifters-expansion-pack-1.json) |
 | Timeslip | 77974 | [77974-timeslip.json](./77974-timeslip.json) |
@@ -26532,6 +26535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower!3D: ZBAD Airport | 161309 | [161309-tower-3d-zbad-airport.json](./161309-tower-3d-zbad-airport.json) |
 | Tower.Defense(): Program the Fight | 406215 | [406215-tower-defense-program-the-fight.json](./406215-tower-defense-program-the-fight.json) |
 | Tower's Gate | 416499 | [416499-towers-gate.json](./416499-towers-gate.json) |
+| Towerbloom | 275976 | [275976-towerbloom.json](./275976-towerbloom.json) |
 | Towerbolt | 265269 | [265269-towerbolt.json](./265269-towerbolt.json) |
 | Towerborne | 252839 | [252839-towerborne.json](./252839-towerborne.json) |
 | TowerClimb | 34609 | [34609-towerclimb.json](./34609-towerclimb.json) |
