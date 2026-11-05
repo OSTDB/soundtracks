@@ -1103,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War.io : Survival Battle Royale | 105655 | [105655-war-io-survival-battle-royale.json](./105655-war-io-survival-battle-royale.json) |
 | War.io : Zombie Battle Royale | 106341 | [106341-war-io-zombie-battle-royale.json](./106341-war-io-zombie-battle-royale.json) |
 | War7 | 31137 | [31137-war7.json](./31137-war7.json) |
+| Wara^2 Wars | 248340 | [248340-wara-2-wars.json](./248340-wara-2-wars.json) |
 | Warag | 348741 | [348741-warag.json](./348741-warag.json) |
 | Warage | 155500 | [155500-warage.json](./155500-warage.json) |
 | Warage Card Game | 62501 | [62501-warage-card-game.json](./62501-warage-card-game.json) |
@@ -8955,6 +8956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wriggler | 46742 | [46742-wriggler.json](./46742-wriggler.json) |
 | Wrigglers | 63784 | [63784-wrigglers.json](./63784-wrigglers.json) |
 | Wrigglui | 280867 | [280867-wrigglui.json](./280867-wrigglui.json) |
+| Wrinkle | 248268 | [248268-wrinkle.json](./248268-wrinkle.json) |
 | Wrinkle in Time | 108890 | [108890-wrinkle-in-time.json](./108890-wrinkle-in-time.json) |
 | Wrispell | 401920 | [401920-wrispell.json](./401920-wrispell.json) |
 | Wrist Nebula | 208020 | [208020-wrist-nebula.json](./208020-wrist-nebula.json) |
