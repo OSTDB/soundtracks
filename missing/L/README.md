@@ -434,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ladies of Sorrow: Night One | 323551 | [323551-ladies-of-sorrow-night-one.json](./323551-ladies-of-sorrow-night-one.json) |
 | Ladies, Don't Tempt My Immortality | 384297 | [384297-ladies-dont-tempt-my-immortality.json](./384297-ladies-dont-tempt-my-immortality.json) |
 | Ladra | 34769 | [34769-ladra.json](./34769-ladra.json) |
+| Ladrão de Corpos | 293560 | [293560-ladrao-de-corpos.json](./293560-ladrao-de-corpos.json) |
 | Lady & Lonely Boy: Ojou-sama to Bocchi-kun | 308619 | [308619-lady-and-lonely-boy-ojou-sama-to-bocchi-kun.json](./308619-lady-and-lonely-boy-ojou-sama-to-bocchi-kun.json) |
 | Lady At The Costco Gave Me Her Extra Hot Dog Soda Combo | 399751 | [399751-lady-at-the-costco-gave-me-her-extra-hot-dog-soda-combo.json](./399751-lady-at-the-costco-gave-me-her-extra-hot-dog-soda-combo.json) |
 | Lady Blue | 376688 | [376688-lady-blue.json](./376688-lady-blue.json) |
@@ -6708,6 +6709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loggerhead | 216570 | [216570-loggerhead.json](./216570-loggerhead.json) |
 | Logi Box | 339630 | [339630-logi-box.json](./339630-logi-box.json) |
 | Logi. | 105719 | [105719-logi.json](./105719-logi.json) |
+| Logialand | 293570 | [293570-logialand.json](./293570-logialand.json) |
 | Logiart Grimoire | 263886 | [263886-logiart-grimoire.json](./263886-logiart-grimoire.json) |
 | Logiart Grimoire: Emil's Magic Training, Part 1 | 324166 | [324166-logiart-grimoire-emils-magic-training-part-1.json](./324166-logiart-grimoire-emils-magic-training-part-1.json) |
 | Logiart Grimoire: Emil's Magic Training, Part 2 | 357287 | [357287-logiart-grimoire-emils-magic-training-part-2.json](./357287-logiart-grimoire-emils-magic-training-part-2.json) |
