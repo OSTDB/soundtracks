@@ -2044,6 +2044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmonic Convergence | 353762 | [353762-harmonic-convergence.json](./353762-harmonic-convergence.json) |
 | Harmonic Depths | 266096 | [266096-harmonic-depths.json](./266096-harmonic-depths.json) |
 | Harmonic Odyssey: The Five Gods | 182050 | [182050-harmonic-odyssey-the-five-gods.json](./182050-harmonic-odyssey-the-five-gods.json) |
+| Harmonic Time-Bind Ritual Symphony | 259333 | [259333-harmonic-time-bind-ritual-symphony.json](./259333-harmonic-time-bind-ritual-symphony.json) |
 | Harmonies | 314626 | [314626-harmonies.json](./314626-harmonies.json) |
 | Harmonis: The Hand-Made Kingdoms | 287073 | [287073-harmonis-the-hand-made-kingdoms.json](./287073-harmonis-the-hand-made-kingdoms.json) |
 | Harmonium: The Musical | 279616 | [279616-harmonium-the-musical.json](./279616-harmonium-the-musical.json) |
@@ -10569,11 +10570,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Renovation 2 | 155396 | [155396-hotel-renovation-2.json](./155396-hotel-renovation-2.json) |
 | Hotel Renovator | 128151 | [128151-hotel-renovator.json](./128151-hotel-renovator.json) |
 | Hotel Renovator: Disco Room & Furniture Set | 265717 | [265717-hotel-renovator-disco-room-and-furniture-set.json](./265717-hotel-renovator-disco-room-and-furniture-set.json) |
+| Hotel Renovator: DLC Pack 1 | 259315 | [259315-hotel-renovator-dlc-pack-1.json](./259315-hotel-renovator-dlc-pack-1.json) |
 | Hotel Renovator: Five Star Edition | 250420 | [250420-hotel-renovator-five-star-edition.json](./250420-hotel-renovator-five-star-edition.json) |
 | Hotel Renovator: Futuristic Furniture Set | 250421 | [250421-hotel-renovator-futuristic-furniture-set.json](./250421-hotel-renovator-futuristic-furniture-set.json) |
 | Hotel Renovator: Gym Furniture Set | 254419 | [254419-hotel-renovator-gym-furniture-set.json](./254419-hotel-renovator-gym-furniture-set.json) |
 | Hotel Renovator: Indoor Garden Room & Furniture Set | 272620 | [272620-hotel-renovator-indoor-garden-room-and-furniture-set.json](./272620-hotel-renovator-indoor-garden-room-and-furniture-set.json) |
 | Hotel Renovator: Kawaii Furniture Set | 245386 | [245386-hotel-renovator-kawaii-furniture-set.json](./245386-hotel-renovator-kawaii-furniture-set.json) |
+| Hotel Renovator: Steampunk Furniture Set | 259314 | [259314-hotel-renovator-steampunk-furniture-set.json](./259314-hotel-renovator-steampunk-furniture-set.json) |
 | Hotel Room Haunting | 275645 | [275645-hotel-room-haunting.json](./275645-hotel-room-haunting.json) |
 | Hotel Security | 339846 | [339846-hotel-security.json](./339846-hotel-security.json) |
 | Hotel Sim | 365722 | [365722-hotel-sim.json](./365722-hotel-sim.json) |
@@ -11820,6 +11823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter's Trophy 2: Europa | 64376 | [64376-hunters-trophy-2-europa.json](./64376-hunters-trophy-2-europa.json) |
 | Hunternet Starfighter | 57938 | [57938-hunternet-starfighter.json](./57938-hunternet-starfighter.json) |
 | Hunteroids | 212911 | [212911-hunteroids.json](./212911-hunteroids.json) |
+| Hunters | 259325 | [259325-hunters.json](./259325-hunters.json) |
 | Hunters 2 | 22318 | [22318-hunters-2.json](./22318-hunters-2.json) |
 | Hunters All Star Battle | 137657 | [137657-hunters-all-star-battle.json](./137657-hunters-all-star-battle.json) |
 | Hunters For Your Brain | 118804 | [118804-hunters-for-your-brain.json](./118804-hunters-for-your-brain.json) |
