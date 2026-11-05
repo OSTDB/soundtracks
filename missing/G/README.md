@@ -3735,6 +3735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost of a Tale | 7684 | [7684-ghost-of-a-tale.json](./7684-ghost-of-a-tale.json) |
 | Ghost of a Tale: Collector's Edition | 140166 | [140166-ghost-of-a-tale-collectors-edition.json](./140166-ghost-of-a-tale-collectors-edition.json) |
 | Ghost of Boarding School | 343535 | [343535-ghost-of-boarding-school.json](./343535-ghost-of-boarding-school.json) |
+| Ghost of Catsushina | 262763 | [262763-ghost-of-catsushina.json](./262763-ghost-of-catsushina.json) |
 | Ghost of Dragon | 133143 | [133143-ghost-of-dragon.json](./133143-ghost-of-dragon.json) |
 | Ghost of the Diced Steak | 364776 | [364776-ghost-of-the-diced-steak.json](./364776-ghost-of-the-diced-steak.json) |
 | Ghost of the Fireflies | 68729 | [68729-ghost-of-the-fireflies.json](./68729-ghost-of-the-fireflies.json) |
@@ -5672,6 +5673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Gourmet | 360029 | [360029-goblin-gourmet.json](./360029-goblin-gourmet.json) |
 | Goblin Head Golf | 180472 | [180472-goblin-head-golf.json](./180472-goblin-head-golf.json) |
 | Goblin in the Castle | 318246 | [318246-goblin-in-the-castle.json](./318246-goblin-in-the-castle.json) |
+| Goblin Invasion | 262749 | [262749-goblin-invasion.json](./262749-goblin-invasion.json) |
 | Goblin Jargon | 393846 | [393846-goblin-jargon.json](./393846-goblin-jargon.json) |
 | Goblin Journal | 347742 | [347742-goblin-journal.json](./347742-goblin-journal.json) |
 | Goblin Kart Rescue | 302473 | [302473-goblin-kart-rescue.json](./302473-goblin-kart-rescue.json) |
