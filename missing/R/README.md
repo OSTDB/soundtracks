@@ -581,6 +581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radballs | 64633 | [64633-radballs.json](./64633-radballs.json) |
 | RadCity: a post-apocalyptic adventure | 381608 | [381608-radcity-a-post-apocalyptic-adventure.json](./381608-radcity-a-post-apocalyptic-adventure.json) |
 | Raddle | 345510 | [345510-raddle.json](./345510-raddle.json) |
+| Raddoll | 262109 | [262109-raddoll.json](./262109-raddoll.json) |
 | Radia Senki: Reimeihen | 48686 | [48686-radia-senki-reimeihen.json](./48686-radia-senki-reimeihen.json) |
 | Radial | 128945 | [128945-radial.json](./128945-radial.json) |
 | Radial 50 | 67215 | [67215-radial-50.json](./67215-radial-50.json) |
@@ -3769,6 +3770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Dawn | 373799 | [373799-red-dawn.json](./373799-red-dawn.json) |
 | Red Dead Online | 141338 | [141338-red-dead-online.json](./141338-red-dead-online.json) |
 | Red Dead Redemption | 260735 | [260735-red-dead-redemption.json](./260735-red-dead-redemption.json) |
+| Red Dead Redemption & Red Dead Redemption 2 Bundle | 262052 | [262052-red-dead-redemption-and-red-dead-redemption-2-bundle.json](./262052-red-dead-redemption-and-red-dead-redemption-2-bundle.json) |
 | Red Dead Redemption 2: Collector's Box | 103207 | [103207-red-dead-redemption-2-collectors-box.json](./103207-red-dead-redemption-2-collectors-box.json) |
 | Red Dead Redemption 2: Special Edition | 103205 | [103205-red-dead-redemption-2-special-edition.json](./103205-red-dead-redemption-2-special-edition.json) |
 | Red Dead Redemption II: Ultimate Edition | 103206 | [103206-red-dead-redemption-ii-ultimate-edition.json](./103206-red-dead-redemption-ii-ultimate-edition.json) |
