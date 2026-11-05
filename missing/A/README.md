@@ -1143,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Slice of Lunch | 372799 | [372799-a-slice-of-lunch.json](./372799-a-slice-of-lunch.json) |
 | A Slight Chance of Sawblades | 232313 | [232313-a-slight-chance-of-sawblades.json](./232313-a-slight-chance-of-sawblades.json) |
 | A Slight Chance of Sawblades+ | 296794 | [296794-a-slight-chance-of-sawblades.json](./296794-a-slight-chance-of-sawblades.json) |
+| A Slightly Different Backrooms | 295537 | [295537-a-slightly-different-backrooms.json](./295537-a-slightly-different-backrooms.json) |
 | A Slime and a Civil War | 236502 | [236502-a-slime-and-a-civil-war.json](./236502-a-slime-and-a-civil-war.json) |
 | A Slime at Midnight | 416326 | [416326-a-slime-at-midnight.json](./416326-a-slime-at-midnight.json) |
 | A Slime's Quest for Freedom | 136181 | [136181-a-slimes-quest-for-freedom.json](./136181-a-slimes-quest-for-freedom.json) |
@@ -4328,6 +4329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aftershock: Coastline | 253377 | [253377-aftershock-coastline.json](./253377-aftershock-coastline.json) |
 | AfterShocked! | 69816 | [69816-aftershocked.json](./69816-aftershocked.json) |
 | Afterslave | 210857 | [210857-afterslave.json](./210857-afterslave.json) |
+| Aftertaste | 295437 | [295437-aftertaste.json](./295437-aftertaste.json) |
 | Aftertaste | 419845 | [419845-aftertaste.json](./419845-aftertaste.json) |
 | AfterTheDawn | 81753 | [81753-afterthedawn.json](./81753-afterthedawn.json) |
 | Afterthought | 154755 | [154755-afterthought.json](./154755-afterthought.json) |
@@ -17878,6 +17880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azurael's Circle: Chapter 5 | 168836 | [168836-azuraels-circle-chapter-5.json](./168836-azuraels-circle-chapter-5.json) |
 | Azuran Tales: Trials | 99165 | [99165-azuran-tales-trials.json](./99165-azuran-tales-trials.json) |
 | Azure | 150658 | [150658-azure.json](./150658-azure.json) |
+| Azure '88 | 295425 | [295425-azure-88.json](./295425-azure-88.json) |
 | Azure Archipelago | 387394 | [387394-azure-archipelago.json](./387394-azure-archipelago.json) |
 | Azure Be Gone | 322396 | [322396-azure-be-gone.json](./322396-azure-be-gone.json) |
 | Azure Domain | 160162 | [160162-azure-domain.json](./160162-azure-domain.json) |
