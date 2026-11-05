@@ -3586,12 +3586,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | uWordsmith | 85466 | [85466-uwordsmith.json](./85466-uwordsmith.json) |
 | Uyuriih's Perscription | 202600 | [202600-uyuriihs-perscription.json](./202600-uyuriihs-perscription.json) |
 | Uze Feud | 311352 | [311352-uze-feud.json](./311352-uze-feud.json) |
+| Uze Snakes | 270428 | [270428-uze-snakes.json](./270428-uze-snakes.json) |
 | Uzebox Tactics | 311336 | [311336-uzebox-tactics.json](./311336-uzebox-tactics.json) |
 | UzeJump | 311337 | [311337-uzejump.json](./311337-uzejump.json) |
 | Uzekickers | 311353 | [311353-uzekickers.json](./311353-uzekickers.json) |
 | UzeMaze | 270418 | [270418-uzemaze.json](./270418-uzemaze.json) |
 | UzeMaze RA | 270419 | [270419-uzemaze-ra.json](./270419-uzemaze-ra.json) |
 | Uzepede | 311335 | [311335-uzepede.json](./311335-uzepede.json) |
+| Uzesweeper | 270429 | [270429-uzesweeper.json](./270429-uzesweeper.json) |
 | UzeWars | 309139 | [309139-uzewars.json](./309139-uzewars.json) |
 | UZG | 377297 | [377297-uzg.json](./377297-uzg.json) |
 | Uzi's Drugged Adventures | 133808 | [133808-uzis-drugged-adventures.json](./133808-uzis-drugged-adventures.json) |
