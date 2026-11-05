@@ -4186,6 +4186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of Spirits | 242670 | [242670-night-of-spirits.json](./242670-night-of-spirits.json) |
 | Night of Terror | 28434 | [28434-night-of-terror.json](./28434-night-of-terror.json) |
 | Night of The Abattoir Man | 311146 | [311146-night-of-the-abattoir-man.json](./311146-night-of-the-abattoir-man.json) |
+| Night of the Assassins | 293016 | [293016-night-of-the-assassins.json](./293016-night-of-the-assassins.json) |
 | Night of the Basilisk | 381338 | [381338-night-of-the-basilisk.json](./381338-night-of-the-basilisk.json) |
 | Night of the Blood Moon | 107926 | [107926-night-of-the-blood-moon.json](./107926-night-of-the-blood-moon.json) |
 | Night of the Dead | 138639 | [138639-night-of-the-dead.json](./138639-night-of-the-dead.json) |
@@ -7506,6 +7507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NY Warriors | 69663 | [69663-ny-warriors.json](./69663-ny-warriors.json) |
 | Nya Nya Nya Girls | 111538 | [111538-nya-nya-nya-girls.json](./111538-nya-nya-nya-girls.json) |
 | Nyaaaanvy | 197111 | [197111-nyaaaanvy.json](./197111-nyaaaanvy.json) |
+| Nyakamon | 292902 | [292902-nyakamon.json](./292902-nyakamon.json) |
 | Nyakamon Adventures | 152159 | [152159-nyakamon-adventures.json](./152159-nyakamon-adventures.json) |
 | Nyakamon Runes | 294816 | [294816-nyakamon-runes.json](./294816-nyakamon-runes.json) |
 | Nyako: Restaurant Tycoon | 157178 | [157178-nyako-restaurant-tycoon.json](./157178-nyako-restaurant-tycoon.json) |
