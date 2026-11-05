@@ -1949,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko | 78965 | [78965-neko.json](./78965-neko.json) |
 | Neko Album | 174704 | [174704-neko-album.json](./174704-neko-album.json) |
 | Neko Atsume 2 | 288044 | [288044-neko-atsume-2.json](./288044-neko-atsume-2.json) |
+| Neko Atsume Purrfect | 279412 | [279412-neko-atsume-purrfect.json](./279412-neko-atsume-purrfect.json) |
 | Neko Atsume VR | 68317 | [68317-neko-atsume-vr.json](./68317-neko-atsume-vr.json) |
 | Neko Atsume: Kitty Collector+ | 240858 | [240858-neko-atsume-kitty-collector.json](./240858-neko-atsume-kitty-collector.json) |
 | Neko Beach | 153068 | [153068-neko-beach.json](./153068-neko-beach.json) |
@@ -2447,6 +2448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Nights Pinball | 165765 | [165765-neon-nights-pinball.json](./165765-neon-nights-pinball.json) |
 | Neon Nirvana | 270118 | [270118-neon-nirvana.json](./270118-neon-nirvana.json) |
 | Neon Nova | 286952 | [286952-neon-nova.json](./286952-neon-nova.json) |
+| Neon Odyssey | 279409 | [279409-neon-odyssey.json](./279409-neon-odyssey.json) |
 | Neon On! | 290433 | [290433-neon-on.json](./290433-neon-on.json) |
 | Neon On!: Bright Edition | 304775 | [304775-neon-on-bright-edition.json](./304775-neon-on-bright-edition.json) |
 | Neon On!: Bright Ideas | 290434 | [290434-neon-on-bright-ideas.json](./290434-neon-on-bright-ideas.json) |
@@ -5366,6 +5368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nirvana | 199809 | [199809-nirvana.json](./199809-nirvana.json) |
 | Nirvana | 289248 | [289248-nirvana.json](./289248-nirvana.json) |
 | Nirvana | 331687 | [331687-nirvana.json](./331687-nirvana.json) |
+| Nirvana Noir | 279371 | [279371-nirvana-noir.json](./279371-nirvana-noir.json) |
 | Nirvana Pilot Yume | 75518 | [75518-nirvana-pilot-yume.json](./75518-nirvana-pilot-yume.json) |
 | Nirvana Pilot Yume: Deluxe Edition | 208045 | [208045-nirvana-pilot-yume-deluxe-edition.json](./208045-nirvana-pilot-yume-deluxe-edition.json) |
 | Nirvana Revenge | 66044 | [66044-nirvana-revenge.json](./66044-nirvana-revenge.json) |
@@ -6423,6 +6426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noox | 343992 | [343992-noox.json](./343992-noox.json) |
 | Noozh: Deep in Nightmares | 58551 | [58551-noozh-deep-in-nightmares.json](./58551-noozh-deep-in-nightmares.json) |
 | Nope | 184468 | [184468-nope.json](./184468-nope.json) |
+| Nope Challenge | 279400 | [279400-nope-challenge.json](./279400-nope-challenge.json) |
 | Nope Nope Nope Nope Nurses | 261755 | [261755-nope-nope-nope-nope-nurses.json](./261755-nope-nope-nope-nope-nurses.json) |
 | Nope Nope Nope Nurses | 284202 | [284202-nope-nope-nope-nurses.json](./284202-nope-nope-nope-nurses.json) |
 | Nope Nope Nurses | 215754 | [215754-nope-nope-nurses.json](./215754-nope-nope-nurses.json) |
