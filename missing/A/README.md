@@ -10912,6 +10912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anti-Bully Adventure | 239454 | [239454-anti-bully-adventure.json](./239454-anti-bully-adventure.json) |
 | Anti-Cast | 58010 | [58010-anti-cast.json](./58010-anti-cast.json) |
 | Anti-Demon Stormedge Sakuya | 82621 | [82621-anti-demon-stormedge-sakuya.json](./82621-anti-demon-stormedge-sakuya.json) |
+| Anti-Entropy | 246704 | [246704-anti-entropy.json](./246704-anti-entropy.json) |
 | Anti-Goodness Dept. | 176787 | [176787-anti-goodness-dept.json](./176787-anti-goodness-dept.json) |
 | Anti-Grav | 114325 | [114325-anti-grav.json](./114325-anti-grav.json) |
 | Anti-Guide to Field Guides | 252470 | [252470-anti-guide-to-field-guides.json](./252470-anti-guide-to-field-guides.json) |
@@ -17575,6 +17576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aventador Drift Simulator 2 | 104649 | [104649-aventador-drift-simulator-2.json](./104649-aventador-drift-simulator-2.json) |
 | Aventarium | 99127 | [99127-aventarium.json](./99127-aventarium.json) |
 | Aventia | 187219 | [187219-aventia.json](./187219-aventia.json) |
+| Aventura & Mistério | 246735 | [246735-aventura-and-misterio.json](./246735-aventura-and-misterio.json) |
 | Aventura Copilului Albastru și Urât | 198321 | [198321-aventura-copilului-albastru-si-urat.json](./198321-aventura-copilului-albastru-si-urat.json) |
 | Aventura de Luigi | 322003 | [322003-aventura-de-luigi.json](./322003-aventura-de-luigi.json) |
 | Aventura na Selva com Gilberto Barros | 145386 | [145386-aventura-na-selva-com-gilberto-barros.json](./145386-aventura-na-selva-com-gilberto-barros.json) |
