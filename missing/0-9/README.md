@@ -3155,6 +3155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7D Game | 30816 | [30816-7d-game.json](./30816-7d-game.json) |
 | 7D Maze | 164255 | [164255-7d-maze.json](./164255-7d-maze.json) |
 | 7Days | 76898 | [76898-7days.json](./76898-7days.json) |
+| 7Days: Backer | 262057 | [262057-7days-backer.json](./262057-7days-backer.json) |
 | 7Days! | 144716 | [144716-7days.json](./144716-7days.json) |
 | 7er Pinball | 331647 | [331647-7er-pinball.json](./331647-7er-pinball.json) |
 | 7Groves | 295780 | [295780-7groves.json](./295780-7groves.json) |
