@@ -3523,6 +3523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wet Whispers: Anime Shift Puzzles | 332362 | [332362-wet-whispers-anime-shift-puzzles.json](./332362-wet-whispers-anime-shift-puzzles.json) |
 | Wet-Dry World | 308233 | [308233-wet-dry-world.json](./308233-wet-dry-world.json) |
 | WetBread | 222934 | [222934-wetbread.json](./222934-wetbread.json) |
+| Wetcat | 273712 | [273712-wetcat.json](./273712-wetcat.json) |
 | Wetland | 379401 | [379401-wetland.json](./379401-wetland.json) |
 | Wetory | 216843 | [216843-wetory.json](./216843-wetory.json) |
 | Wetpants | 121471 | [121471-wetpants.json](./121471-wetpants.json) |
@@ -5669,6 +5670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Endless | 284586 | [284586-wings-of-endless.json](./284586-wings-of-endless.json) |
 | Wings of Fire | 418877 | [418877-wings-of-fire.json](./418877-wings-of-fire.json) |
 | Wings of Glory | 212247 | [212247-wings-of-glory.json](./212247-wings-of-glory.json) |
+| Wings of Heroes | 273679 | [273679-wings-of-heroes.json](./273679-wings-of-heroes.json) |
 | Wings of Honour | 27248 | [27248-wings-of-honour.json](./27248-wings-of-honour.json) |
 | Wings of Honour: Battles of the Red Baron | 21341 | [21341-wings-of-honour-battles-of-the-red-baron.json](./21341-wings-of-honour-battles-of-the-red-baron.json) |
 | Wings of Horus | 415980 | [415980-wings-of-horus.json](./415980-wings-of-horus.json) |
@@ -6224,6 +6226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch! | 70854 | [70854-witch.json](./70854-witch.json) |
 | Witch's | 228075 | [228075-witchs.json](./228075-witchs.json) |
 | Witch's Apocalyptic Journey | 391717 | [391717-witchs-apocalyptic-journey.json](./391717-witchs-apocalyptic-journey.json) |
+| Witch's Bananas | 273720 | [273720-witchs-bananas.json](./273720-witchs-bananas.json) |
 | Witch's Brew: Love and Lattes | 375212 | [375212-witchs-brew-love-and-lattes.json](./375212-witchs-brew-love-and-lattes.json) |
 | Witch's Cat | 56184 | [56184-witchs-cat.json](./56184-witchs-cat.json) |
 | Witch's Cat | 83870 | [83870-witchs-cat.json](./83870-witchs-cat.json) |
