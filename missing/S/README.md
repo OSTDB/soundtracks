@@ -5983,6 +5983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Squad | 353616 | [353616-seven-squad.json](./353616-seven-squad.json) |
 | Seven Stars 3D | 381261 | [381261-seven-stars-3d.json](./381261-seven-stars-3d.json) |
 | Seven Stars 3D 2 | 381262 | [381262-seven-stars-3d-2.json](./381262-seven-stars-3d-2.json) |
+| Seven Steps to Limbo | 262049 | [262049-seven-steps-to-limbo.json](./262049-seven-steps-to-limbo.json) |
 | Seven Suns of Orion | 418732 | [418732-seven-suns-of-orion.json](./418732-seven-suns-of-orion.json) |
 | Seven Trials of Magic | 285955 | [285955-seven-trials-of-magic.json](./285955-seven-trials-of-magic.json) |
 | Seven Weeks of Cat Monarchy | 59338 | [59338-seven-weeks-of-cat-monarchy.json](./59338-seven-weeks-of-cat-monarchy.json) |
@@ -6633,6 +6634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Moonlight | 384232 | [384232-shadow-of-the-moonlight.json](./384232-shadow-of-the-moonlight.json) |
 | Shadow of the Night: Monsters | 256339 | [256339-shadow-of-the-night-monsters.json](./256339-shadow-of-the-night-monsters.json) |
 | Shadow of the Ninja | 9154 | [9154-shadow-of-the-ninja.json](./9154-shadow-of-the-ninja.json) |
+| Shadow of the Ninja Reborn | 262137 | [262137-shadow-of-the-ninja-reborn.json](./262137-shadow-of-the-ninja-reborn.json) |
 | Shadow of the Ninja Reborn: Deluxe Edition | 317229 | [317229-shadow-of-the-ninja-reborn-deluxe-edition.json](./317229-shadow-of-the-ninja-reborn-deluxe-edition.json) |
 | Shadow of the Orient | 262898 | [262898-shadow-of-the-orient.json](./262898-shadow-of-the-orient.json) |
 | Shadow of the Road | 124209 | [124209-shadow-of-the-road.json](./124209-shadow-of-the-road.json) |
@@ -13076,6 +13078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepless in the Sapphire City | 299864 | [299864-sleepless-in-the-sapphire-city.json](./299864-sleepless-in-the-sapphire-city.json) |
 | Sleepless Night | 172485 | [172485-sleepless-night.json](./172485-sleepless-night.json) |
 | Sleepless Night | 267252 | [267252-sleepless-night.json](./267252-sleepless-night.json) |
+| Sleepless Night 2: Ladies' Night(mare) | 262020 | [262020-sleepless-night-2-ladies-night-mare.json](./262020-sleepless-night-2-ladies-night-mare.json) |
 | Sleepless: A Midsummer Night's Dream | 153779 | [153779-sleepless-a-midsummer-nights-dream.json](./153779-sleepless-a-midsummer-nights-dream.json) |
 | Sleepover | 113709 | [113709-sleepover.json](./113709-sleepover.json) |
 | Sleepover | 145908 | [145908-sleepover.json](./145908-sleepover.json) |
@@ -19273,6 +19276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -33857,6 +33861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Battle Rambunctiously | 267685 | [267685-sushi-battle-rambunctiously.json](./267685-sushi-battle-rambunctiously.json) |
 | Sushi Belt | 181226 | [181226-sushi-belt.json](./181226-sushi-belt.json) |
 | Sushi Ben VR | 152219 | [152219-sushi-ben-vr.json](./152219-sushi-ben-vr.json) |
+| Sushi Blast | 262041 | [262041-sushi-blast.json](./262041-sushi-blast.json) |
 | Sushi Break | 135577 | [135577-sushi-break.json](./135577-sushi-break.json) |
 | Sushi Break: Head to Head | 214697 | [214697-sushi-break-head-to-head.json](./214697-sushi-break-head-to-head.json) |
 | Sushi Castle | 64879 | [64879-sushi-castle.json](./64879-sushi-castle.json) |
