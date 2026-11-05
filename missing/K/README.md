@@ -2775,7 +2775,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3864,6 +3863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kisou Louga | 112577 | [112577-kisou-louga.json](./112577-kisou-louga.json) |
 | Kisou Louga II: The Ends of Shangrila | 108818 | [108818-kisou-louga-ii-the-ends-of-shangrila.json](./108818-kisou-louga-ii-the-ends-of-shangrila.json) |
 | Kisou Ryouhei Gunhound EX | 42872 | [42872-kisou-ryouhei-gunhound-ex.json](./42872-kisou-ryouhei-gunhound-ex.json) |
+| Kisou Shinden: Gen-Kaiser | 264422 | [264422-kisou-shinden-gen-kaiser.json](./264422-kisou-shinden-gen-kaiser.json) |
 | Kisoubanashi Kureha | 108865 | [108865-kisoubanashi-kureha.json](./108865-kisoubanashi-kureha.json) |
 | Kiss & Crisis | 194570 | [194570-kiss-and-crisis.json](./194570-kiss-and-crisis.json) |
 | Kiss Ato | 147429 | [147429-kiss-ato.json](./147429-kiss-ato.json) |
