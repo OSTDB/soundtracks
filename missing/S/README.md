@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S4ge | 116461 | [116461-s4ge.json](./116461-s4ge.json) |
 | S4U: Citypunk 2011 and Love Punch | 303000 | [303000-s4u-citypunk-2011-and-love-punch.json](./303000-s4u-citypunk-2011-and-love-punch.json) |
 | S7 Mexico | 218728 | [218728-s7-mexico.json](./218728-s7-mexico.json) |
+| SA-1: Special Adventure - 1 | 277079 | [277079-sa-1-special-adventure-1.json](./277079-sa-1-special-adventure-1.json) |
 | Sa[meow]rai: Silverwing Stray | 340667 | [340667-sa-meow-rai-silverwing-stray.json](./340667-sa-meow-rai-silverwing-stray.json) |
 | SA7: Silent Ability Seven | 60824 | [60824-sa7-silent-ability-seven.json](./60824-sa7-silent-ability-seven.json) |
 | Saaam | 108848 | [108848-saaam.json](./108848-saaam.json) |
@@ -1168,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Same Game for Windows | 80229 | [80229-same-game-for-windows.json](./80229-same-game-for-windows.json) |
 | Same or Different | 69718 | [69718-same-or-different.json](./69718-same-or-different.json) |
 | Same Room Same Day | 316610 | [316610-same-room-same-day.json](./316610-same-room-same-day.json) |
+| Same Sprites, Different Levels | 277076 | [277076-same-sprites-different-levels.json](./277076-same-sprites-different-levels.json) |
 | Same-X | 64429 | [64429-same-x.json](./64429-same-x.json) |
 | Samedi Manor | 260672 | [260672-samedi-manor.json](./260672-samedi-manor.json) |
 | SameGame | 134467 | [134467-samegame.json](./134467-samegame.json) |
@@ -22484,6 +22486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpritePile | 119789 | [119789-spritepile.json](./119789-spritepile.json) |
 | Spriters, Hopes Blooming Dawn | 248042 | [248042-spriters-hopes-blooming-dawn.json](./248042-spriters-hopes-blooming-dawn.json) |
 | Sprites | 116231 | [116231-sprites.json](./116231-sprites.json) |
+| Sprites are 1derful | 277105 | [277105-sprites-are-1derful.json](./277105-sprites-are-1derful.json) |
 | Sprites at Play | 196880 | [196880-sprites-at-play.json](./196880-sprites-at-play.json) |
 | Sprkls.exe | 393780 | [393780-sprkls-exe.json](./393780-sprkls-exe.json) |
 | Sprnkls | 97938 | [97938-sprnkls.json](./97938-sprnkls.json) |
@@ -30835,6 +30838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Lion King | 203656 | [203656-super-lion-king.json](./203656-super-lion-king.json) |
 | Super Liquid Soccer | 190414 | [190414-super-liquid-soccer.json](./190414-super-liquid-soccer.json) |
 | Super Little Acorns 3D Turbo | 23523 | [23523-super-little-acorns-3d-turbo.json](./23523-super-little-acorns-3d-turbo.json) |
+| Super Little Miss A.D.D. World | 277110 | [277110-super-little-miss-a-d-d-world.json](./277110-super-little-miss-a-d-d-world.json) |
 | Super Live Stadium | 301384 | [301384-super-live-stadium.json](./301384-super-live-stadium.json) |
 | Super Lobster Run | 126984 | [126984-super-lobster-run.json](./126984-super-lobster-run.json) |
 | Super Loco World | 313806 | [313806-super-loco-world.json](./313806-super-loco-world.json) |
@@ -31174,6 +31178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Death Row 2: Shroomshank Redemption | 220042 | [220042-super-mario-death-row-2-shroomshank-redemption.json](./220042-super-mario-death-row-2-shroomshank-redemption.json) |
 | Super Mario Death Row! | 220006 | [220006-super-mario-death-row.json](./220006-super-mario-death-row.json) |
 | Super Mario Defense | 314738 | [314738-super-mario-defense.json](./314738-super-mario-defense.json) |
+| Super Mario Dream World | 277077 | [277077-super-mario-dream-world.json](./277077-super-mario-dream-world.json) |
 | Super Mario DX | 210709 | [210709-super-mario-dx.json](./210709-super-mario-dx.json) |
 | Super Mario Dynamo | 320230 | [320230-super-mario-dynamo.json](./320230-super-mario-dynamo.json) |
 | Super Mario Eclipse | 320228 | [320228-super-mario-eclipse.json](./320228-super-mario-eclipse.json) |
@@ -31389,6 +31394,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World: 2025 | 365286 | [365286-super-mario-world-2025.json](./365286-super-mario-world-2025.json) |
 | Super Mario World: A Haunted Christmas | 223023 | [223023-super-mario-world-a-haunted-christmas.json](./223023-super-mario-world-a-haunted-christmas.json) |
 | Super Mario World: A Super Mario Adventure | 268102 | [268102-super-mario-world-a-super-mario-adventure.json](./268102-super-mario-world-a-super-mario-adventure.json) |
+| Super Mario World: A Super Mario Adventure 2 | 277107 | [277107-super-mario-world-a-super-mario-adventure-2.json](./277107-super-mario-world-a-super-mario-adventure-2.json) |
+| Super Mario World: A Super Mario Adventure 3 | 277106 | [277106-super-mario-world-a-super-mario-adventure-3.json](./277106-super-mario-world-a-super-mario-adventure-3.json) |
 | Super Mario World: Bowser's Return | 222278 | [222278-super-mario-world-bowsers-return.json](./222278-super-mario-world-bowsers-return.json) |
 | Super Mario World: Mario to Yoshi no Bouken Land | 230281 | [230281-super-mario-world-mario-to-yoshi-no-bouken-land.json](./230281-super-mario-world-mario-to-yoshi-no-bouken-land.json) |
 | Super Mario World: Neeberz's Hack | 268374 | [268374-super-mario-world-neeberzs-hack.json](./268374-super-mario-world-neeberzs-hack.json) |
@@ -31704,6 +31711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Nodage World | 200916 | [200916-super-nodage-world.json](./200916-super-nodage-world.json) |
 | Super Nosebleed Land | 105075 | [105075-super-nosebleed-land.json](./105075-super-nosebleed-land.json) |
 | Super Nostalgia World | 267972 | [267972-super-nostalgia-world.json](./267972-super-nostalgia-world.json) |
+| Super Nothing World | 277061 | [277061-super-nothing-world.json](./277061-super-nothing-world.json) |
 | Super Nova | 316558 | [316558-super-nova.json](./316558-super-nova.json) |
 | Super Nova | 414296 | [414296-super-nova.json](./414296-super-nova.json) |
 | Super Nova | 42446 | [42446-super-nova.json](./42446-super-nova.json) |
@@ -32655,6 +32663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Wash Simulator | 391040 | [391040-super-wash-simulator.json](./391040-super-wash-simulator.json) |
 | Super Weapon Master | 213044 | [213044-super-weapon-master.json](./213044-super-weapon-master.json) |
 | Super Weekend Mode | 96642 | [96642-super-weekend-mode.json](./96642-super-weekend-mode.json) |
+| Super Whatever Quest!!! | 277063 | [277063-super-whatever-quest.json](./277063-super-whatever-quest.json) |
 | Super Whiplash | 160077 | [160077-super-whiplash.json](./160077-super-whiplash.json) |
 | Super Widget | 42495 | [42495-super-widget.json](./42495-super-widget.json) |
 | Super Wiloo Deluxe | 415862 | [415862-super-wiloo-deluxe.json](./415862-super-wiloo-deluxe.json) |
@@ -33092,6 +33101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperStar Karaoke | 90912 | [90912-superstar-karaoke.json](./90912-superstar-karaoke.json) |
 | Superstar LDH | 399056 | [399056-superstar-ldh.json](./399056-superstar-ldh.json) |
 | SuperStar Loona | 232092 | [232092-superstar-loona.json](./232092-superstar-loona.json) |
+| Superstar Mario World | 277067 | [277067-superstar-mario-world.json](./277067-superstar-mario-world.json) |
 | SuperStar Pledis | 124619 | [124619-superstar-pledis.json](./124619-superstar-pledis.json) |
 | Superstar Shootout | 231631 | [231631-superstar-shootout.json](./231631-superstar-shootout.json) |
 | SuperStar Soccer | 73602 | [73602-superstar-soccer.json](./73602-superstar-soccer.json) |
