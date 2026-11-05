@@ -425,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacif Warriors 2 | 43538 | [43538-pacif-warriors-2.json](./43538-pacif-warriors-2.json) |
 | Pacific | 94135 | [94135-pacific.json](./94135-pacific.json) |
 | Pacific Battle | 195051 | [195051-pacific-battle.json](./195051-pacific-battle.json) |
+| Pacific Drive: Deluxe Edition | 278208 | [278208-pacific-drive-deluxe-edition.json](./278208-pacific-drive-deluxe-edition.json) |
 | Pacific Drive: Friendly Dumpster Customization Pack | 314622 | [314622-pacific-drive-friendly-dumpster-customization-pack.json](./314622-pacific-drive-friendly-dumpster-customization-pack.json) |
 | Pacific Drive: Frosted Customization Pack | 333040 | [333040-pacific-drive-frosted-customization-pack.json](./333040-pacific-drive-frosted-customization-pack.json) |
 | Pacific Drive: We Have Liftoff Customization Pack | 285546 | [285546-pacific-drive-we-have-liftoff-customization-pack.json](./285546-pacific-drive-we-have-liftoff-customization-pack.json) |
@@ -11305,6 +11306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: Harmonic Peace | 335148 | [335148-pokemon-harmonic-peace.json](./335148-pokemon-harmonic-peace.json) |
 | Pokémon: Legends of Sinnoh | 319543 | [319543-pokemon-legends-of-sinnoh.json](./319543-pokemon-legends-of-sinnoh.json) |
 | Pokémon: Legends of the Arena | 135872 | [135872-pokemon-legends-of-the-arena.json](./135872-pokemon-legends-of-the-arena.json) |
+| Pokémon: Let's Go Lugia | 278210 | [278210-pokemon-lets-go-lugia.json](./278210-pokemon-lets-go-lugia.json) |
 | Pokémon: Let's Go Meltan | 282990 | [282990-pokemon-lets-go-meltan.json](./282990-pokemon-lets-go-meltan.json) |
 | Pokémon: Let's Go, Eevee! | 102873 | [102873-pokemon-lets-go-eevee.json](./102873-pokemon-lets-go-eevee.json) |
 | Pokémon: Let's Go, Eevee! GBA | 217860 | [217860-pokemon-lets-go-eevee-gba.json](./217860-pokemon-lets-go-eevee-gba.json) |
@@ -16404,6 +16406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prussia's Glory | 77384 | [77384-prussias-glory.json](./77384-prussias-glory.json) |
 | PRV: Poultry Red-fox Viper | 297196 | [297196-prv-poultry-red-fox-viper.json](./297196-prv-poultry-red-fox-viper.json) |
 | Prvá Akcia | 93224 | [93224-prva-akcia.json](./93224-prva-akcia.json) |
+| Pry | 278207 | [278207-pry.json](./278207-pry.json) |
 | Pry into the Void | 187530 | [187530-pry-into-the-void.json](./187530-pry-into-the-void.json) |
 | Pryzm | 288789 | [288789-pryzm.json](./288789-pryzm.json) |
 | Pryzm Chapter One: The Dark Unicorn | 24078 | [24078-pryzm-chapter-one-the-dark-unicorn.json](./24078-pryzm-chapter-one-the-dark-unicorn.json) |
