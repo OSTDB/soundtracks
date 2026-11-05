@@ -2028,6 +2028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko-sama no Kominka kara no Dasshutsu | 260689 | [260689-neko-sama-no-kominka-kara-no-dasshutsu.json](./260689-neko-sama-no-kominka-kara-no-dasshutsu.json) |
 | Neko-sama no Nichijou | 227701 | [227701-neko-sama-no-nichijou.json](./227701-neko-sama-no-nichijou.json) |
 | Neko-sama to Outlaws | 222371 | [222371-neko-sama-to-outlaws.json](./222371-neko-sama-to-outlaws.json) |
+| Neko: Insufficient FirePower | 267134 | [267134-neko-insufficient-firepower.json](./267134-neko-insufficient-firepower.json) |
 | Neko: The Black Cat | 176245 | [176245-neko-the-black-cat.json](./176245-neko-the-black-cat.json) |
 | Neko's Rage | 251840 | [251840-nekos-rage.json](./251840-nekos-rage.json) |
 | Nekoba RocknRoll | 152502 | [152502-nekoba-rocknroll.json](./152502-nekoba-rocknroll.json) |
@@ -4382,6 +4383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NightDirge | 341372 | [341372-nightdirge.json](./341372-nightdirge.json) |
 | Nightenfell: Shared AR | 96780 | [96780-nightenfell-shared-ar.json](./96780-nightenfell-shared-ar.json) |
 | Nightfall | 145678 | [145678-nightfall.json](./145678-nightfall.json) |
+| Nightfall | 267191 | [267191-nightfall.json](./267191-nightfall.json) |
 | Nightfall | 60020 | [60020-nightfall.json](./60020-nightfall.json) |
 | Nightfall | 80403 | [80403-nightfall.json](./80403-nightfall.json) |
 | Nightfall Cafe | 350033 | [350033-nightfall-cafe.json](./350033-nightfall-cafe.json) |
