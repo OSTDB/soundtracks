@@ -739,6 +739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare II - Season 02 | 235080 | [235080-call-of-duty-modern-warfare-ii-season-02.json](./235080-call-of-duty-modern-warfare-ii-season-02.json) |
 | Call of Duty: Modern Warfare II - Season 03 | 243777 | [243777-call-of-duty-modern-warfare-ii-season-03.json](./243777-call-of-duty-modern-warfare-ii-season-03.json) |
 | Call of Duty: Modern Warfare II - Season 05 | 259766 | [259766-call-of-duty-modern-warfare-ii-season-05.json](./259766-call-of-duty-modern-warfare-ii-season-05.json) |
+| Call of Duty: Modern Warfare II - Season 06: The Haunting | 272531 | [272531-call-of-duty-modern-warfare-ii-season-06-the-haunting.json](./272531-call-of-duty-modern-warfare-ii-season-06-the-haunting.json) |
 | Call of Duty: Modern Warfare II - Vault Edition | 218405 | [218405-call-of-duty-modern-warfare-ii-vault-edition.json](./218405-call-of-duty-modern-warfare-ii-vault-edition.json) |
 | Call of Duty: Modern Warfare III - Cyberjunkie: Pro Pack | 298224 | [298224-call-of-duty-modern-warfare-iii-cyberjunkie-pro-pack.json](./298224-call-of-duty-modern-warfare-iii-cyberjunkie-pro-pack.json) |
 | Call of Duty: Modern Warfare III - Season 1 | 279645 | [279645-call-of-duty-modern-warfare-iii-season-1.json](./279645-call-of-duty-modern-warfare-iii-season-1.json) |
@@ -5957,6 +5958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chapolim & Super Sam: a lenda dos super heróis | 252902 | [252902-chapolim-and-super-sam-a-lenda-dos-super-herois.json](./252902-chapolim-and-super-sam-a-lenda-dos-super-herois.json) |
 | Chapolim x Drácula: Um Duelo Assustador | 85983 | [85983-chapolim-x-dracula-um-duelo-assustador.json](./85983-chapolim-x-dracula-um-duelo-assustador.json) |
 | Chapter Master | 154813 | [154813-chapter-master.json](./154813-chapter-master.json) |
+| Chapter Wars | 272634 | [272634-chapter-wars.json](./272634-chapter-wars.json) |
 | Chapter Wars: Expansion Pack | 286541 | [286541-chapter-wars-expansion-pack.json](./286541-chapter-wars-expansion-pack.json) |
 | Chapter Zero: The Angel Island Saga | 266347 | [266347-chapter-zero-the-angel-island-saga.json](./266347-chapter-zero-the-angel-island-saga.json) |
 | Chapters: Interactive Stories | 87355 | [87355-chapters-interactive-stories.json](./87355-chapters-interactive-stories.json) |
@@ -13438,6 +13440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conspiracy! | 151638 | [151638-conspiracy.json](./151638-conspiracy.json) |
 | Conspiration: Le défi des derniers rois | 386328 | [386328-conspiration-le-defi-des-derniers-rois.json](./386328-conspiration-le-defi-des-derniers-rois.json) |
 | Conspirocracy | 90230 | [90230-conspirocracy.json](./90230-conspirocracy.json) |
+| Conspyration | 272635 | [272635-conspyration.json](./272635-conspyration.json) |
 | ConsTance | 323524 | [323524-constance.json](./323524-constance.json) |
 | Constance the Barbarian | 320050 | [320050-constance-the-barbarian.json](./320050-constance-the-barbarian.json) |
 | Constancia | 177326 | [177326-constancia.json](./177326-constancia.json) |
@@ -15480,6 +15483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Island | 334286 | [334286-cozy-island.json](./334286-cozy-island.json) |
 | Cozy Island Idle | 272775 | [272775-cozy-island-idle.json](./272775-cozy-island-idle.json) |
 | Cozy Islands | 208194 | [208194-cozy-islands.json](./208194-cozy-islands.json) |
+| Cozy Jigsaw Puzzle | 272636 | [272636-cozy-jigsaw-puzzle.json](./272636-cozy-jigsaw-puzzle.json) |
 | Cozy Jigsaw Puzzles | 378752 | [378752-cozy-jigsaw-puzzles.json](./378752-cozy-jigsaw-puzzles.json) |
 | Cozy Keep: Farm, Craft, Manage | 271208 | [271208-cozy-keep-farm-craft-manage.json](./271208-cozy-keep-farm-craft-manage.json) |
 | Cozy Kingdom | 362198 | [362198-cozy-kingdom.json](./362198-cozy-kingdom.json) |
@@ -20463,6 +20467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cytus II: Miku | 358866 | [358866-cytus-ii-miku.json](./358866-cytus-ii-miku.json) |
 | Cytus Lambda | 80227 | [80227-cytus-lambda.json](./80227-cytus-lambda.json) |
 | cyubeVR | 83736 | [83736-cyubevr.json](./83736-cyubevr.json) |
+| CyVenge | 272637 | [272637-cyvenge.json](./272637-cyvenge.json) |
 | Cyverfunk | 419630 | [419630-cyverfunk.json](./419630-cyverfunk.json) |
 | Cyvern | 39835 | [39835-cyvern.json](./39835-cyvern.json) |
 | Cyvern: The Dragon Weapons | 65404 | [65404-cyvern-the-dragon-weapons.json](./65404-cyvern-the-dragon-weapons.json) |
