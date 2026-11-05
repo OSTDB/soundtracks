@@ -2266,6 +2266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Dreams | 277187 | [277187-elemental-dreams.json](./277187-elemental-dreams.json) |
 | Elemental Drifters | 386060 | [386060-elemental-drifters.json](./386060-elemental-drifters.json) |
 | Elemental Empire | 297816 | [297816-elemental-empire.json](./297816-elemental-empire.json) |
+| Elemental Engagements | 285801 | [285801-elemental-engagements.json](./285801-elemental-engagements.json) |
 | Elemental Escape | 264729 | [264729-elemental-escape.json](./264729-elemental-escape.json) |
 | Elemental Exiles | 295812 | [295812-elemental-exiles.json](./295812-elemental-exiles.json) |
 | Elemental Exogear | 398137 | [398137-elemental-exogear.json](./398137-elemental-exogear.json) |
