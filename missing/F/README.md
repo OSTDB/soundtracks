@@ -12899,6 +12899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Mojo Rampage | 16447 | [16447-full-mojo-rampage.json](./16447-full-mojo-rampage.json) |
 | Full Moon | 125910 | [125910-full-moon.json](./125910-full-moon.json) |
 | Full Moon | 224989 | [224989-full-moon.json](./224989-full-moon.json) |
+| Full Moon | 266572 | [266572-full-moon.json](./266572-full-moon.json) |
 | Full Moon Fishing | 383396 | [383396-full-moon-fishing.json](./383396-full-moon-fishing.json) |
 | Full Moon Guildhouse Simulator | 366251 | [366251-full-moon-guildhouse-simulator.json](./366251-full-moon-guildhouse-simulator.json) |
 | Full Moon in San Francisco | 72274 | [72274-full-moon-in-san-francisco.json](./72274-full-moon-in-san-francisco.json) |
@@ -13402,6 +13403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Hitler | 205664 | [205664-furry-hitler.json](./205664-furry-hitler.json) |
 | Furry Holes | 280662 | [280662-furry-holes.json](./280662-furry-holes.json) |
 | Furry Killer | 226143 | [226143-furry-killer.json](./226143-furry-killer.json) |
+| Furry Love | 266571 | [266571-furry-love.json](./266571-furry-love.json) |
 | Furry Love & Sex | 221197 | [221197-furry-love-and-sex.json](./221197-furry-love-and-sex.json) |
 | Furry Love 2 | 165026 | [165026-furry-love-2.json](./165026-furry-love-2.json) |
 | Furry Master: Slutbunnies | 393381 | [393381-furry-master-slutbunnies.json](./393381-furry-master-slutbunnies.json) |
