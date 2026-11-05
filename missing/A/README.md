@@ -1624,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.N.N. | 306778 | [306778-a-n-n.json](./306778-a-n-n.json) |
 | A.N.N.E. | 8639 | [8639-a-n-n-e.json](./8639-a-n-n-e.json) |
 | A.N.O.N.Y.M.U.S. | 279027 | [279027-a-n-o-n-y-m-u-s.json](./279027-a-n-o-n-y-m-u-s.json) |
+| A.P.B. | 288029 | [288029-a-p-b.json](./288029-a-p-b.json) |
 | A.R.A. Astro Rescue Alliance | 402083 | [402083-a-r-a-astro-rescue-alliance.json](./402083-a-r-a-astro-rescue-alliance.json) |
 | A.R.C: Alien raid combat | 165707 | [165707-a-r-c-alien-raid-combat.json](./165707-a-r-c-alien-raid-combat.json) |
 | A.R.C. | 58867 | [58867-a-r-c.json](./58867-a-r-c.json) |
@@ -4968,6 +4969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Solitaire: Solitaire Favorites Pack | 303140 | [303140-ai-solitaire-solitaire-favorites-pack.json](./303140-ai-solitaire-solitaire-favorites-pack.json) |
 | Ai space | 153680 | [153680-ai-space.json](./153680-ai-space.json) |
 | AI Stories | 286768 | [286768-ai-stories.json](./286768-ai-stories.json) |
+| AI Stories: Machine Angel | 287923 | [287923-ai-stories-machine-angel.json](./287923-ai-stories-machine-angel.json) |
 | Ai Suru Tsuma, Mariko no Furin Houkoku: Otto Kounin no Gachi Furin Sex | 159164 | [159164-ai-suru-tsuma-mariko-no-furin-houkoku-otto-kounin-no-gachi-furin-sex.json](./159164-ai-suru-tsuma-mariko-no-furin-houkoku-otto-kounin-no-gachi-furin-sex.json) |
 | Ai To Noroi: School Simulator | 296442 | [296442-ai-to-noroi-school-simulator.json](./296442-ai-to-noroi-school-simulator.json) |
 | Ai to Roudou no Hibi | 288085 | [288085-ai-to-roudou-no-hibi.json](./288085-ai-to-roudou-no-hibi.json) |
@@ -6741,6 +6743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Raiders | 72438 | [72438-alien-raiders.json](./72438-alien-raiders.json) |
 | Alien Rain | 12251 | [12251-alien-rain.json](./12251-alien-rain.json) |
 | Alien Rampage | 46630 | [46630-alien-rampage.json](./46630-alien-rampage.json) |
+| Alien Reign | 288013 | [288013-alien-reign.json](./288013-alien-reign.json) |
 | Alien Resource Manager | 418313 | [418313-alien-resource-manager.json](./418313-alien-resource-manager.json) |
 | Alien Resurrection | 272125 | [272125-alien-resurrection.json](./272125-alien-resurrection.json) |
 | Alien Resurrection | 44995 | [44995-alien-resurrection.json](./44995-alien-resurrection.json) |
@@ -11133,6 +11136,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apathy: Rental Kazoku | 212254 | [212254-apathy-rental-kazoku.json](./212254-apathy-rental-kazoku.json) |
 | Apathy: Shougakkou de Atta Kowai Hanashi - Getsuyoubi | 210824 | [210824-apathy-shougakkou-de-atta-kowai-hanashi-getsuyoubi.json](./210824-apathy-shougakkou-de-atta-kowai-hanashi-getsuyoubi.json) |
 | APB | 11905 | [11905-apb.json](./11905-apb.json) |
+| APB | 288030 | [288030-apb.json](./288030-apb.json) |
+| APB | 288031 | [288031-apb.json](./288031-apb.json) |
+| APB | 288032 | [288032-apb.json](./288032-apb.json) |
 | APB | 288033 | [288033-apb.json](./288033-apb.json) |
 | APB | 288034 | [288034-apb.json](./288034-apb.json) |
 | APB | 37097 | [37097-apb.json](./37097-apb.json) |
@@ -12114,6 +12120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Ikki | 99567 | [99567-arcade-archives-ikki.json](./99567-arcade-archives-ikki.json) |
 | Arcade Archives: Image Fight | 119087 | [119087-arcade-archives-image-fight.json](./119087-arcade-archives-image-fight.json) |
 | Arcade Archives: In the Hunt | 125658 | [125658-arcade-archives-in-the-hunt.json](./125658-arcade-archives-in-the-hunt.json) |
+| Arcade Archives: Jungler | 288004 | [288004-arcade-archives-jungler.json](./288004-arcade-archives-jungler.json) |
 | Arcade Archives: Juno First | 335981 | [335981-arcade-archives-juno-first.json](./335981-arcade-archives-juno-first.json) |
 | Arcade Archives: Kangaroo | 147108 | [147108-arcade-archives-kangaroo.json](./147108-arcade-archives-kangaroo.json) |
 | Arcade Archives: Karate Blazers | 378998 | [378998-arcade-archives-karate-blazers.json](./378998-arcade-archives-karate-blazers.json) |
@@ -15167,6 +15174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterion | 110623 | [110623-asterion.json](./110623-asterion.json) |
 | Asterisk | 390189 | [390189-asterisk.json](./390189-asterisk.json) |
 | Asterisk 2: Next Now a Day | 387389 | [387389-asterisk-2-next-now-a-day.json](./387389-asterisk-2-next-now-a-day.json) |
+| Asterisk no Daibouken | 288024 | [288024-asterisk-no-daibouken.json](./288024-asterisk-no-daibouken.json) |
 | Asterism | 119741 | [119741-asterism.json](./119741-asterism.json) |
 | Asterism | 245712 | [245712-asterism.json](./245712-asterism.json) |
 | Asterism Basketball | 147071 | [147071-asterism-basketball.json](./147071-asterism-basketball.json) |
@@ -16226,7 +16234,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
