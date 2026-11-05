@@ -240,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dark Sky Over Paradise | 228994 | [228994-a-dark-sky-over-paradise.json](./228994-a-dark-sky-over-paradise.json) |
 | A Dark Winter Wander | 316534 | [316534-a-dark-winter-wander.json](./316534-a-dark-winter-wander.json) |
 | A Dark World: The Glowing City | 126337 | [126337-a-dark-world-the-glowing-city.json](./126337-a-dark-world-the-glowing-city.json) |
+| A Dash of Color | 296567 | [296567-a-dash-of-color.json](./296567-a-dash-of-color.json) |
 | A Date for the Ages | 260648 | [260648-a-date-for-the-ages.json](./260648-a-date-for-the-ages.json) |
 | A Date in the Park | 32670 | [32670-a-date-in-the-park.json](./32670-a-date-in-the-park.json) |
 | A Date With Chester 2 | 383186 | [383186-a-date-with-chester-2.json](./383186-a-date-with-chester-2.json) |
@@ -8027,6 +8028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Garden | 324155 | [324155-amazing-garden.json](./324155-amazing-garden.json) |
 | Amazing Gardens | 344366 | [344366-amazing-gardens.json](./344366-amazing-gardens.json) |
 | Amazing Girl | 248441 | [248441-amazing-girl.json](./248441-amazing-girl.json) |
+| Amazing Grace | 296587 | [296587-amazing-grace.json](./296587-amazing-grace.json) |
 | Amazing Grace: What Color is Your Attribute? | 119321 | [119321-amazing-grace-what-color-is-your-attribute.json](./119321-amazing-grace-what-color-is-your-attribute.json) |
 | Amazing Heists: Dillinger | 416882 | [416882-amazing-heists-dillinger.json](./416882-amazing-heists-dillinger.json) |
 | Amazing Hidden Object Games 3 Pack: Paranormal Mysteries | 202054 | [202054-amazing-hidden-object-games-3-pack-paranormal-mysteries.json](./202054-amazing-hidden-object-games-3-pack-paranormal-mysteries.json) |
