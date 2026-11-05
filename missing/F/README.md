@@ -4833,6 +4833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy for Android | 84188 | [84188-final-fantasy-for-android.json](./84188-final-fantasy-for-android.json) |
 | Final Fantasy Grandmasters | 84174 | [84174-final-fantasy-grandmasters.json](./84174-final-fantasy-grandmasters.json) |
 | Final Fantasy I & II | 41835 | [41835-final-fantasy-i-and-ii.json](./41835-final-fantasy-i-and-ii.json) |
+| Final Fantasy I & II: Mod of Balance | 269904 | [269904-final-fantasy-i-and-ii-mod-of-balance.json](./269904-final-fantasy-i-and-ii-mod-of-balance.json) |
 | Final Fantasy I+II Premium Package | 323153 | [323153-final-fantasy-i-ii-premium-package.json](./323153-final-fantasy-i-ii-premium-package.json) |
 | Final Fantasy II | 271819 | [271819-final-fantasy-ii.json](./271819-final-fantasy-ii.json) |
 | Final Fantasy II | 380633 | [380633-final-fantasy-ii.json](./380633-final-fantasy-ii.json) |
@@ -5786,6 +5787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Three Houses - Seasons of Warfare Edition | 136363 | [136363-fire-emblem-three-houses-seasons-of-warfare-edition.json](./136363-fire-emblem-three-houses-seasons-of-warfare-edition.json) |
 | Fire Emblem: Three Houses + Expansion Pass | 293730 | [293730-fire-emblem-three-houses-expansion-pass.json](./293730-fire-emblem-three-houses-expansion-pass.json) |
 | Fire Emblem: Vision Quest | 141237 | [141237-fire-emblem-vision-quest.json](./141237-fire-emblem-vision-quest.json) |
+| Fire Emblem: Void's Blitzarre Adventure Hack | 269905 | [269905-fire-emblem-voids-blitzarre-adventure-hack.json](./269905-fire-emblem-voids-blitzarre-adventure-hack.json) |
 | Fire Embrace 2 | 371203 | [371203-fire-embrace-2.json](./371203-fire-embrace-2.json) |
 | Fire Embrace: Erabareshi Chigyuu no Ken | 163923 | [163923-fire-embrace-erabareshi-chigyuu-no-ken.json](./163923-fire-embrace-erabareshi-chigyuu-no-ken.json) |
 | Fire Engine Simulator | 383403 | [383403-fire-engine-simulator.json](./383403-fire-engine-simulator.json) |
@@ -8939,6 +8941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Academy Clicker | 152488 | [152488-football-academy-clicker.json](./152488-football-academy-clicker.json) |
 | Football Academy Manager | 372745 | [372745-football-academy-manager.json](./372745-football-academy-manager.json) |
 | Football Academy Simulator | 420757 | [420757-football-academy-simulator.json](./420757-football-academy-simulator.json) |
+| Football Academy: Build and Prove Your Football Knowledge | 269818 | [269818-football-academy-build-and-prove-your-football-knowledge.json](./269818-football-academy-build-and-prove-your-football-knowledge.json) |
 | Football Agent | 370452 | [370452-football-agent.json](./370452-football-agent.json) |
 | Football Basketball Soccer: 3 Games in One | 245475 | [245475-football-basketball-soccer-3-games-in-one.json](./245475-football-basketball-soccer-3-games-in-one.json) |
 | Football Battle | 187243 | [187243-football-battle.json](./187243-football-battle.json) |
@@ -13187,6 +13190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Archery | 123851 | [123851-funny-archery.json](./123851-funny-archery.json) |
 | Funny Balloon | 95633 | [95633-funny-balloon.json](./95633-funny-balloon.json) |
 | Funny Bird | 247538 | [247538-funny-bird.json](./247538-funny-bird.json) |
+| Funny Bird Game 2 | 269920 | [269920-funny-bird-game-2.json](./269920-funny-bird-game-2.json) |
 | Funny Bubble | 40130 | [40130-funny-bubble.json](./40130-funny-bubble.json) |
 | Funny Bunny Gun | 216639 | [216639-funny-bunny-gun.json](./216639-funny-bunny-gun.json) |
 | Funny Bunny: Adventures | 117349 | [117349-funny-bunny-adventures.json](./117349-funny-bunny-adventures.json) |
