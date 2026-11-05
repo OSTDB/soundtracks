@@ -1169,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Johnson's Basketball | 12835 | [12835-magic-johnsons-basketball.json](./12835-magic-johnsons-basketball.json) |
 | Magic Johnson's Basketball | 198808 | [198808-magic-johnsons-basketball.json](./198808-magic-johnsons-basketball.json) |
 | Magic Johnson's Fast Break | 48180 | [48180-magic-johnsons-fast-break.json](./48180-magic-johnsons-fast-break.json) |
+| Magic Jony | 247275 | [247275-magic-jony.json](./247275-magic-jony.json) |
 | Magic Jungle Escape | 315561 | [315561-magic-jungle-escape.json](./315561-magic-jungle-escape.json) |
 | Magic Jungle Escape 2 | 315562 | [315562-magic-jungle-escape-2.json](./315562-magic-jungle-escape-2.json) |
 | Magic Kaleidoscope | 257459 | [257459-magic-kaleidoscope.json](./257459-magic-kaleidoscope.json) |
@@ -2277,6 +2278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maintenance on the Front | 362248 | [362248-maintenance-on-the-front.json](./362248-maintenance-on-the-front.json) |
 | Maintenance Safety: Pipes and Acids - VR Training | 224828 | [224828-maintenance-safety-pipes-and-acids-vr-training.json](./224828-maintenance-safety-pipes-and-acids-vr-training.json) |
 | Mainu | 344696 | [344696-mainu.json](./344696-mainu.json) |
+| Mais qui est le vrai Roro? | 247286 | [247286-mais-qui-est-le-vrai-roro.json](./247286-mais-qui-est-le-vrai-roro.json) |
 | Mais um Dia! | 278610 | [278610-mais-um-dia.json](./278610-mais-um-dia.json) |
 | Maison de Kyouko: Kanrinin no Himitsu | 83370 | [83370-maison-de-kyouko-kanrinin-no-himitsu.json](./83370-maison-de-kyouko-kanrinin-no-himitsu.json) |
 | Maison Ikkoku | 41803 | [41803-maison-ikkoku.json](./41803-maison-ikkoku.json) |
@@ -3770,6 +3772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario is Missing! Done Right | 130032 | [130032-mario-is-missing-done-right.json](./130032-mario-is-missing-done-right.json) |
 | Mario Jam | 316024 | [316024-mario-jam.json](./316024-mario-jam.json) |
 | Mario Kart | 221269 | [221269-mario-kart.json](./221269-mario-kart.json) |
+| Mario Kart | 247274 | [247274-mario-kart.json](./247274-mario-kart.json) |
 | Mario Kart 64 Deluxe | 254601 | [254601-mario-kart-64-deluxe.json](./254601-mario-kart-64-deluxe.json) |
 | Mario Kart 64 HD | 229075 | [229075-mario-kart-64-hd.json](./229075-mario-kart-64-hd.json) |
 | Mario Kart 64 ITEM BLAST | 374679 | [374679-mario-kart-64-item-blast.json](./374679-mario-kart-64-item-blast.json) |
@@ -5848,7 +5851,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9706,6 +9708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug 5 Extend | 308725 | [308725-metal-slug-5-extend.json](./308725-metal-slug-5-extend.json) |
 | Metal Slug 6 | 1411 | [1411-metal-slug-6.json](./1411-metal-slug-6.json) |
 | Metal Slug Advance | 1406 | [1406-metal-slug-advance.json](./1406-metal-slug-advance.json) |
+| Metal Slug Advance | 247267 | [247267-metal-slug-advance.json](./247267-metal-slug-advance.json) |
 | Metal Slug Anthology | 5004 | [5004-metal-slug-anthology.json](./5004-metal-slug-anthology.json) |
 | Metal Slug Awakening | 175038 | [175038-metal-slug-awakening.json](./175038-metal-slug-awakening.json) |
 | Metal Slug Bundle | 271120 | [271120-metal-slug-bundle.json](./271120-metal-slug-bundle.json) |
@@ -13290,6 +13293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Atelier | 369351 | [369351-mirror-atelier.json](./369351-mirror-atelier.json) |
 | Mirror Backrooms | 418617 | [418617-mirror-backrooms.json](./418617-mirror-backrooms.json) |
 | Mirror Broken | 215600 | [215600-mirror-broken.json](./215600-mirror-broken.json) |
+| Mirror Devil World | 247282 | [247282-mirror-devil-world.json](./247282-mirror-devil-world.json) |
 | Mirror Drop | 99153 | [99153-mirror-drop.json](./99153-mirror-drop.json) |
 | Mirror Forge | 188825 | [188825-mirror-forge.json](./188825-mirror-forge.json) |
 | Mirror Head | 327417 | [327417-mirror-head.json](./327417-mirror-head.json) |
