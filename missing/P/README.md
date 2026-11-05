@@ -7075,6 +7075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping Race | 300923 | [300923-ping-race.json](./300923-ping-race.json) |
 | Ping Redux | 119797 | [119797-ping-redux.json](./119797-ping-redux.json) |
 | Ping Time | 68541 | [68541-ping-time.json](./68541-ping-time.json) |
+| Ping-Pong Diplomacy Advance | 269924 | [269924-ping-pong-diplomacy-advance.json](./269924-ping-pong-diplomacy-advance.json) |
 | Ping! | 376817 | [376817-ping.json](./376817-ping.json) |
 | Ping! | 79906 | [79906-ping.json](./79906-ping.json) |
 | Pinga Ponga | 31850 | [31850-pinga-ponga.json](./31850-pinga-ponga.json) |
@@ -10846,6 +10847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Decay | 360192 | [360192-pokemon-decay.json](./360192-pokemon-decay.json) |
 | Pokemon Definitive Platinum | 315820 | [315820-pokemon-definitive-platinum.json](./315820-pokemon-definitive-platinum.json) |
 | Pokémon Deluge | 172745 | [172745-pokemon-deluge.json](./172745-pokemon-deluge.json) |
+| Pokémon DerErif | 269909 | [269909-pokemon-dererif.json](./269909-pokemon-dererif.json) |
 | Pokémon Diamond | 163099 | [163099-pokemon-diamond.json](./163099-pokemon-diamond.json) |
 | Pokémon Digimon New World | 229098 | [229098-pokemon-digimon-new-world.json](./229098-pokemon-digimon-new-world.json) |
 | Pokémon Donjon Mystère Online | 304297 | [304297-pokemon-donjon-mystere-online.json](./304297-pokemon-donjon-mystere-online.json) |
@@ -10877,6 +10879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Emerald Rogue V2 | 308386 | [308386-pokemon-emerald-rogue-v2.json](./308386-pokemon-emerald-rogue-v2.json) |
 | Pokémon Emerald Seaglass | 314536 | [314536-pokemon-emerald-seaglass.json](./314536-pokemon-emerald-seaglass.json) |
 | Pokémon Emerald Slide | 331767 | [331767-pokemon-emerald-slide.json](./331767-pokemon-emerald-slide.json) |
+| Pokémon Emerald Version: Party Randomizer | 269910 | [269910-pokemon-emerald-version-party-randomizer.json](./269910-pokemon-emerald-version-party-randomizer.json) |
 | Pokémon Emerald Z | 286922 | [286922-pokemon-emerald-z.json](./286922-pokemon-emerald-z.json) |
 | Pokémon Emerald: Double Edition | 296449 | [296449-pokemon-emerald-double-edition.json](./296449-pokemon-emerald-double-edition.json) |
 | Pokémon Emerental | 401514 | [401514-pokemon-emerental.json](./401514-pokemon-emerental.json) |
