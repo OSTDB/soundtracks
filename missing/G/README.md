@@ -531,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Conquest | 94918 | [94918-galactic-conquest.json](./94918-galactic-conquest.json) |
 | Galactic Core | 278601 | [278601-galactic-core.json](./278601-galactic-core.json) |
 | Galactic Core: The Lost Fleet | 30100 | [30100-galactic-core-the-lost-fleet.json](./30100-galactic-core-the-lost-fleet.json) |
+| Galactic Corsairs | 273618 | [273618-galactic-corsairs.json](./273618-galactic-corsairs.json) |
 | Galactic Counselors | 292245 | [292245-galactic-counselors.json](./292245-galactic-counselors.json) |
 | Galactic Crew | 56636 | [56636-galactic-crew.json](./56636-galactic-crew.json) |
 | Galactic Crew II | 150994 | [150994-galactic-crew-ii.json](./150994-galactic-crew-ii.json) |
@@ -4669,6 +4670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GladMort | 320021 | [320021-gladmort.json](./320021-gladmort.json) |
 | Gladom: The 2D MOBA in Pixel Art | 121469 | [121469-gladom-the-2d-moba-in-pixel-art.json](./121469-gladom-the-2d-moba-in-pixel-art.json) |
 | Gladston Valley | 366181 | [366181-gladston-valley.json](./366181-gladston-valley.json) |
+| GlagStone | 273677 | [273677-glagstone.json](./273677-glagstone.json) |
 | GlagStone | 396946 | [396946-glagstone.json](./396946-glagstone.json) |
 | Glais Gawizt | 266765 | [266765-glais-gawizt.json](./266765-glais-gawizt.json) |
 | Glaive | 262009 | [262009-glaive.json](./262009-glaive.json) |
