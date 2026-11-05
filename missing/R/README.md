@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type | 260765 | [260765-r-type.json](./260765-r-type.json) |
 | R-Type | 263373 | [263373-r-type.json](./263373-r-type.json) |
 | R-Type | 263376 | [263376-r-type.json](./263376-r-type.json) |
+| R-Type | 276521 | [276521-r-type.json](./276521-r-type.json) |
 | R-Type | 279055 | [279055-r-type.json](./279055-r-type.json) |
 | R-Type | 279221 | [279221-r-type.json](./279221-r-type.json) |
 | R-Type | 308145 | [308145-r-type.json](./308145-r-type.json) |
@@ -67,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type I | 210579 | [210579-r-type-i.json](./210579-r-type-i.json) |
 | R-Type II | 210580 | [210580-r-type-ii.json](./210580-r-type-ii.json) |
 | R-Type II | 276500 | [276500-r-type-ii.json](./276500-r-type-ii.json) |
+| R-Type II | 276522 | [276522-r-type-ii.json](./276522-r-type-ii.json) |
 | R-Type II | 279056 | [279056-r-type-ii.json](./279056-r-type-ii.json) |
 | R-Type III & Super R-Type Collector's Edition | 136061 | [136061-r-type-iii-and-super-r-type-collectors-edition.json](./136061-r-type-iii-and-super-r-type-collectors-edition.json) |
 | R-Type III: The Third Lightning | 6550 | [6550-r-type-iii-the-third-lightning.json](./6550-r-type-iii-the-third-lightning.json) |
@@ -5592,6 +5594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Fear 2 | 314975 | [314975-resident-fear-2.json](./314975-resident-fear-2.json) |
 | Resident Fear 3: Ascension | 365758 | [365758-resident-fear-3-ascension.json](./365758-resident-fear-3-ascension.json) |
 | Resident Fear: Redistribution | 264102 | [264102-resident-fear-redistribution.json](./264102-resident-fear-redistribution.json) |
+| Resident Lover | 276525 | [276525-resident-lover.json](./276525-resident-lover.json) |
 | Residential Crusaders | 285109 | [285109-residential-crusaders.json](./285109-residential-crusaders.json) |
 | Residential Evaluation | 404029 | [404029-residential-evaluation.json](./404029-residential-evaluation.json) |
 | Residentvania | 175773 | [175773-residentvania.json](./175773-residentvania.json) |
