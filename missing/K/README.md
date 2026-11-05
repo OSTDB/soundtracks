@@ -5334,6 +5334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KORG DS-10 Plus | 124490 | [124490-korg-ds-10-plus.json](./124490-korg-ds-10-plus.json) |
 | KORG Gadget | 77537 | [77537-korg-gadget.json](./77537-korg-gadget.json) |
 | Korg M01 | 63564 | [63564-korg-m01.json](./63564-korg-m01.json) |
+| Korga's Arena | 289683 | [289683-korgas-arena.json](./289683-korgas-arena.json) |
 | Korgan | 83810 | [83810-korgan.json](./83810-korgan.json) |
 | Kori | 392224 | [392224-kori.json](./392224-kori.json) |
 | Kori DRoP | 234591 | [234591-kori-drop.json](./234591-kori-drop.json) |
