@@ -19212,6 +19212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -23242,6 +23243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stair Tap | 365064 | [365064-stair-tap.json](./365064-stair-tap.json) |
 | Stair Tower | 317183 | [317183-stair-tower.json](./317183-stair-tower.json) |
 | Stair: Slide the Blocks to Ascend | 266326 | [266326-stair-slide-the-blocks-to-ascend.json](./266326-stair-slide-the-blocks-to-ascend.json) |
+| StairCase 55 | 273719 | [273719-staircase-55.json](./273719-staircase-55.json) |
 | Staircase55 | 253603 | [253603-staircase55.json](./253603-staircase55.json) |
 | Staircore | 383131 | [383131-staircore.json](./383131-staircore.json) |
 | Stairdown | 221291 | [221291-stairdown.json](./221291-stairdown.json) |
