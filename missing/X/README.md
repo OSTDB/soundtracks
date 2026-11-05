@@ -720,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xerxes | 295671 | [295671-xerxes.json](./295671-xerxes.json) |
 | Xerxesia | 267998 | [267998-xerxesia.json](./267998-xerxesia.json) |
 | Xess: The New Revolution | 39933 | [39933-xess-the-new-revolution.json](./39933-xess-the-new-revolution.json) |
+| Xeta | 274283 | [274283-xeta.json](./274283-xeta.json) |
 | Xetanon | 289685 | [289685-xetanon.json](./289685-xetanon.json) |
 | Xevious | 284382 | [284382-xevious.json](./284382-xevious.json) |
 | Xevious 3D | 23394 | [23394-xevious-3d.json](./23394-xevious-3d.json) |
