@@ -348,6 +348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Occult Chambers | 235186 | [235186-occult-chambers.json](./235186-occult-chambers.json) |
 | Occult Cleanup Agency | 420488 | [420488-occult-cleanup-agency.json](./420488-occult-cleanup-agency.json) |
 | Occult Crime Police | 178899 | [178899-occult-crime-police.json](./178899-occult-crime-police.json) |
+| Occult Crime Police: Medium at Large | 280005 | [280005-occult-crime-police-medium-at-large.json](./280005-occult-crime-police-medium-at-large.json) |
 | Occult Maiden | 59011 | [59011-occult-maiden.json](./59011-occult-maiden.json) |
 | Occult Mingle | 290193 | [290193-occult-mingle.json](./290193-occult-mingle.json) |
 | Occult Office: Lofi Rituals | 381517 | [381517-occult-office-lofi-rituals.json](./381517-occult-office-lofi-rituals.json) |
