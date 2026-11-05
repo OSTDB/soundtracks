@@ -9917,6 +9917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side to Side | 128569 | [128569-side-to-side.json](./128569-side-to-side.json) |
 | Side To Side | 274803 | [274803-side-to-side.json](./274803-side-to-side.json) |
 | Side Trak | 39517 | [39517-side-trak.json](./39517-side-trak.json) |
+| Side View Golf | 256026 | [256026-side-view-golf.json](./256026-side-view-golf.json) |
 | Side Walls Multi Kicks | 364812 | [364812-side-walls-multi-kicks.json](./364812-side-walls-multi-kicks.json) |
 | Side Whoop | 390656 | [390656-side-whoop.json](./390656-side-whoop.json) |
 | Sidecar Evolution 2024 | 254900 | [254900-sidecar-evolution-2024.json](./254900-sidecar-evolution-2024.json) |
@@ -25199,6 +25200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Start a Startup with a Legendary Japanese Warlord | 272909 | [272909-start-a-startup-with-a-legendary-japanese-warlord.json](./272909-start-a-startup-with-a-legendary-japanese-warlord.json) |
 | Start Again | 195353 | [195353-start-again.json](./195353-start-again.json) |
 | Start Again: A Prologue | 144092 | [144092-start-again-a-prologue.json](./144092-start-again-a-prologue.json) |
+| Start an Egg | 256043 | [256043-start-an-egg.json](./256043-start-an-egg.json) |
 | Start Blackthorn Castle | 94973 | [94973-start-blackthorn-castle.json](./94973-start-blackthorn-castle.json) |
 | Start From School | 148780 | [148780-start-from-school.json](./148780-start-from-school.json) |
 | Start Rescue the Enchanter | 87060 | [87060-start-rescue-the-enchanter.json](./87060-start-rescue-the-enchanter.json) |
@@ -30406,6 +30408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dino | 220880 | [220880-super-dino.json](./220880-super-dino.json) |
 | Super Dino: Dino-x Pack | 223795 | [223795-super-dino-dino-x-pack.json](./223795-super-dino-dino-x-pack.json) |
 | Super Dino: Extended Edition | 233907 | [233907-super-dino-extended-edition.json](./233907-super-dino-extended-edition.json) |
+| Super Dinoblasters | 256032 | [256032-super-dinoblasters.json](./256032-super-dinoblasters.json) |
 | Super Dirt Racers | 161697 | [161697-super-dirt-racers.json](./161697-super-dirt-racers.json) |
 | Super Disc Soccer | 147462 | [147462-super-disc-soccer.json](./147462-super-disc-soccer.json) |
 | Super Discus | 209446 | [209446-super-discus.json](./209446-super-discus.json) |
