@@ -4798,6 +4798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nindo: Guardian of the Starlit Shadow | 342050 | [342050-nindo-guardian-of-the-starlit-shadow.json](./342050-nindo-guardian-of-the-starlit-shadow.json) |
 | Nine | 82014 | [82014-nine.json](./82014-nine.json) |
 | Nine Billion Miles from Earth | 396425 | [396425-nine-billion-miles-from-earth.json](./396425-nine-billion-miles-from-earth.json) |
+| Nine Card Isle | 286328 | [286328-nine-card-isle.json](./286328-nine-card-isle.json) |
 | Nine Days | 273811 | [273811-nine-days.json](./273811-nine-days.json) |
 | Nine Errand | 274512 | [274512-nine-errand.json](./274512-nine-errand.json) |
 | Nine Floors | 301130 | [301130-nine-floors.json](./301130-nine-floors.json) |
