@@ -3275,8 +3275,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Flow: Silver Edition | 250390 | [250390-urban-flow-silver-edition.json](./250390-urban-flow-silver-edition.json) |
 | Urban Flow: Street Symphony | 304788 | [304788-urban-flow-street-symphony.json](./304788-urban-flow-street-symphony.json) |
 | Urban Flow: Streets Supplement | 240403 | [240403-urban-flow-streets-supplement.json](./240403-urban-flow-streets-supplement.json) |
+| Urban Flow: Summer Edition | 256021 | [256021-urban-flow-summer-edition.json](./256021-urban-flow-summer-edition.json) |
 | Urban Flow: Supreme Edition | 320671 | [320671-urban-flow-supreme-edition.json](./320671-urban-flow-supreme-edition.json) |
 | Urban Flow: Throne Edition | 409985 | [409985-urban-flow-throne-edition.json](./409985-urban-flow-throne-edition.json) |
+| Urban Flow: Ultimate DLC Pack | 256019 | [256019-urban-flow-ultimate-dlc-pack.json](./256019-urban-flow-ultimate-dlc-pack.json) |
 | Urban Flow: Winter Expansion Pack | 238353 | [238353-urban-flow-winter-expansion-pack.json](./238353-urban-flow-winter-expansion-pack.json) |
 | Urban Flow: Winter Extended Edition | 222190 | [222190-urban-flow-winter-extended-edition.json](./222190-urban-flow-winter-extended-edition.json) |
 | Urban Flow: X-Mas Edition | 275893 | [275893-urban-flow-x-mas-edition.json](./275893-urban-flow-x-mas-edition.json) |
