@@ -3407,6 +3407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Watchness | 223625 | [223625-marble-watchness.json](./223625-marble-watchness.json) |
 | Marble Woka Woka | 86673 | [86673-marble-woka-woka.json](./86673-marble-woka-woka.json) |
 | Marble World | 144745 | [144745-marble-world.json](./144745-marble-world.json) |
+| Marble World: Winter Pack | 263304 | [263304-marble-world-winter-pack.json](./263304-marble-world-winter-pack.json) |
 | Marble-O-Tron | 174294 | [174294-marble-o-tron.json](./174294-marble-o-tron.json) |
 | Marble's Marbles | 384201 | [384201-marbles-marbles.json](./384201-marbles-marbles.json) |
 | Marblearium | 400091 | [400091-marblearium.json](./400091-marblearium.json) |
@@ -5819,6 +5820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -10957,6 +10959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Memories | 207747 | [207747-midnight-memories.json](./207747-midnight-memories.json) |
 | Midnight Memories: Sonata of the Soul | 311278 | [311278-midnight-memories-sonata-of-the-soul.json](./311278-midnight-memories-sonata-of-the-soul.json) |
 | Midnight Monitor: Aldercourt | 287601 | [287601-midnight-monitor-aldercourt.json](./287601-midnight-monitor-aldercourt.json) |
+| Midnight Monitor: Anomaly Watch | 263269 | [263269-midnight-monitor-anomaly-watch.json](./263269-midnight-monitor-anomaly-watch.json) |
 | Midnight Monitor: Halloween Forever | 275429 | [275429-midnight-monitor-halloween-forever.json](./275429-midnight-monitor-halloween-forever.json) |
 | Midnight Monorail | 183742 | [183742-midnight-monorail.json](./183742-midnight-monorail.json) |
 | Midnight Moving Crew | 420344 | [420344-midnight-moving-crew.json](./420344-midnight-moving-crew.json) |
