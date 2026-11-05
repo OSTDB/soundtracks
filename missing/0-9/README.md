@@ -961,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 102 Dalmatians: Activity Centre | 127640 | [127640-102-dalmatians-activity-centre.json](./127640-102-dalmatians-activity-centre.json) |
 | 1024 | 61866 | [61866-1024.json](./61866-1024.json) |
 | 1024 Cement Mixer | 308273 | [308273-1024-cement-mixer.json](./308273-1024-cement-mixer.json) |
+| 1024 Units | 271455 | [271455-1024-units.json](./271455-1024-units.json) |
 | 103 | 108413 | [108413-103.json](./108413-103.json) |
 | 108 Silly Ways to Die | 326083 | [326083-108-silly-ways-to-die.json](./326083-108-silly-ways-to-die.json) |
 | 1080° Avalanche | 3774 | [3774-1080-avalanche.json](./3774-1080-avalanche.json) |
