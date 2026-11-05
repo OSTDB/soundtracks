@@ -1653,6 +1653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cape's Escape Game 3rd Room | 165615 | [165615-capes-escape-game-3rd-room.json](./165615-capes-escape-game-3rd-room.json) |
 | Cape's Escape Game 4th Room | 173142 | [173142-capes-escape-game-4th-room.json](./173142-capes-escape-game-4th-room.json) |
 | Cape's Escape Game 5th Room | 186569 | [186569-capes-escape-game-5th-room.json](./186569-capes-escape-game-5th-room.json) |
+| Cape's Escape Game 6th Room | 280586 | [280586-capes-escape-game-6th-room.json](./280586-capes-escape-game-6th-room.json) |
 | Cape's Escape Game 7th Room | 287171 | [287171-capes-escape-game-7th-room.json](./287171-capes-escape-game-7th-room.json) |
 | Cape's Escape Game 8th Room | 297311 | [297311-capes-escape-game-8th-room.json](./297311-capes-escape-game-8th-room.json) |
 | Capeless Heroes | 176223 | [176223-capeless-heroes.json](./176223-capeless-heroes.json) |
@@ -4071,6 +4072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat's Cosmic Atlas: Complete Edition | 328751 | [328751-cats-cosmic-atlas-complete-edition.json](./328751-cats-cosmic-atlas-complete-edition.json) |
 | Cat's Cosmic Atlas: Definitive Edition | 288286 | [288286-cats-cosmic-atlas-definitive-edition.json](./288286-cats-cosmic-atlas-definitive-edition.json) |
 | Cat's Cosmic Atlas: Deluxe Edition | 270798 | [270798-cats-cosmic-atlas-deluxe-edition.json](./270798-cats-cosmic-atlas-deluxe-edition.json) |
+| Cat's Cosmic Atlas: Extended Edition | 280595 | [280595-cats-cosmic-atlas-extended-edition.json](./280595-cats-cosmic-atlas-extended-edition.json) |
 | Cat's Cosmic Atlas: Northern Sky Map | 268584 | [268584-cats-cosmic-atlas-northern-sky-map.json](./268584-cats-cosmic-atlas-northern-sky-map.json) |
 | Cat's Cosmic Atlas: Premium Edition | 286212 | [286212-cats-cosmic-atlas-premium-edition.json](./286212-cats-cosmic-atlas-premium-edition.json) |
 | Cat's Cosmic Atlas: Solar System Map | 268579 | [268579-cats-cosmic-atlas-solar-system-map.json](./268579-cats-cosmic-atlas-solar-system-map.json) |
@@ -7833,6 +7835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Break 2 | 187748 | [187748-christmas-break-2.json](./187748-christmas-break-2.json) |
 | Christmas Break 2 Head to Head | 214050 | [214050-christmas-break-2-head-to-head.json](./214050-christmas-break-2-head-to-head.json) |
 | Christmas Break Head to Head | 146020 | [146020-christmas-break-head-to-head.json](./146020-christmas-break-head-to-head.json) |
+| Christmas Bubble Puzzle | 280594 | [280594-christmas-bubble-puzzle.json](./280594-christmas-bubble-puzzle.json) |
 | Christmas Bubble Shooter | 86716 | [86716-christmas-bubble-shooter.json](./86716-christmas-bubble-shooter.json) |
 | Christmas Carnage | 94960 | [94960-christmas-carnage.json](./94960-christmas-carnage.json) |
 | Christmas Cats | 230968 | [230968-christmas-cats.json](./230968-christmas-cats.json) |
@@ -9563,9 +9566,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Game Trio | 206971 | [206971-classic-game-trio.json](./206971-classic-game-trio.json) |
 | Classic Gamer: Colecovision Hits Volume One | 70187 | [70187-classic-gamer-colecovision-hits-volume-one.json](./70187-classic-gamer-colecovision-hits-volume-one.json) |
 | Classic Games | 87228 | [87228-classic-games.json](./87228-classic-games.json) |
+| Classic Games Collection Vol.1: Holiday Edition | 280593 | [280593-classic-games-collection-vol-1-holiday-edition.json](./280593-classic-games-collection-vol-1-holiday-edition.json) |
 | Classic Games Collection Vol.1+2 Bundle | 231071 | [231071-classic-games-collection-vol-1-2-bundle.json](./231071-classic-games-collection-vol-1-2-bundle.json) |
 | Classic Games Collection Vol.2 | 219460 | [219460-classic-games-collection-vol-2.json](./219460-classic-games-collection-vol-2.json) |
 | Classic Games Overload: Card & Puzzle Edition | 47639 | [47639-classic-games-overload-card-and-puzzle-edition.json](./47639-classic-games-overload-card-and-puzzle-edition.json) |
+| Classic Games Puzzle Collection | 280596 | [280596-classic-games-puzzle-collection.json](./280596-classic-games-puzzle-collection.json) |
 | Classic Hentai Logic Puzzle | 365280 | [365280-classic-hentai-logic-puzzle.json](./365280-classic-hentai-logic-puzzle.json) |
 | Classic Home Invasion | 330473 | [330473-classic-home-invasion.json](./330473-classic-home-invasion.json) |
 | Classic Internet Scary Maze Game: Game Boy Edition | 275670 | [275670-classic-internet-scary-maze-game-game-boy-edition.json](./275670-classic-internet-scary-maze-game-game-boy-edition.json) |
@@ -11873,6 +11878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Book for Kids | 162618 | [162618-coloring-book-for-kids.json](./162618-coloring-book-for-kids.json) |
 | Coloring Book for Kids: Full Version | 162615 | [162615-coloring-book-for-kids-full-version.json](./162615-coloring-book-for-kids-full-version.json) |
 | Coloring Book for Ladybug & Cat Noir | 96011 | [96011-coloring-book-for-ladybug-and-cat-noir.json](./96011-coloring-book-for-ladybug-and-cat-noir.json) |
+| Coloring Book Series Zoo | 280588 | [280588-coloring-book-series-zoo.json](./280588-coloring-book-series-zoo.json) |
 | Coloring Book Series: Aquarium | 283280 | [283280-coloring-book-series-aquarium.json](./283280-coloring-book-series-aquarium.json) |
 | Coloring Book Series: Dinosaur Museum | 310464 | [310464-coloring-book-series-dinosaur-museum.json](./310464-coloring-book-series-dinosaur-museum.json) |
 | Coloring Book: Adventure Bundle - 90 Drawings | 362377 | [362377-coloring-book-adventure-bundle-90-drawings.json](./362377-coloring-book-adventure-bundle-90-drawings.json) |
@@ -12452,6 +12458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comic Coloring Book: Complete Edition - Draw Extended | 263528 | [263528-comic-coloring-book-complete-edition-draw-extended.json](./263528-comic-coloring-book-complete-edition-draw-extended.json) |
 | Comic Coloring Book: Complete Edition - DRAW Special | 277905 | [277905-comic-coloring-book-complete-edition-draw-special.json](./277905-comic-coloring-book-complete-edition-draw-special.json) |
 | Comic Coloring Book: Complete Edition - Paint Special | 270799 | [270799-comic-coloring-book-complete-edition-paint-special.json](./270799-comic-coloring-book-complete-edition-paint-special.json) |
+| Comic Coloring Book: Complete Edition - Sketch Special | 280592 | [280592-comic-coloring-book-complete-edition-sketch-special.json](./280592-comic-coloring-book-complete-edition-sketch-special.json) |
 | Comic Company Manager | 152697 | [152697-comic-company-manager.json](./152697-comic-company-manager.json) |
 | Comic Days H | 97382 | [97382-comic-days-h.json](./97382-comic-days-h.json) |
 | Comic Jumper: The Adventures of Captain Smiley | 21094 | [21094-comic-jumper-the-adventures-of-captain-smiley.json](./21094-comic-jumper-the-adventures-of-captain-smiley.json) |
@@ -13156,6 +13163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect Four / Perfection / Trouble | 77638 | [77638-connect-four-perfection-trouble.json](./77638-connect-four-perfection-trouble.json) |
 | Connect Four Cities | 73840 | [73840-connect-four-cities.json](./73840-connect-four-cities.json) |
 | Connect It! | 147778 | [147778-connect-it.json](./147778-connect-it.json) |
+| Connect Legend of Autumn | 280553 | [280553-connect-legend-of-autumn.json](./280553-connect-legend-of-autumn.json) |
 | Connect Lines | 399781 | [399781-connect-lines.json](./399781-connect-lines.json) |
 | Connect Lyrical Spectacle Forest | 258711 | [258711-connect-lyrical-spectacle-forest.json](./258711-connect-lyrical-spectacle-forest.json) |
 | Connect Master | 228115 | [228115-connect-master.json](./228115-connect-master.json) |
@@ -13902,6 +13910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Arena World Tour Edition | 385196 | [385196-cooking-arena-world-tour-edition.json](./385196-cooking-arena-world-tour-edition.json) |
 | Cooking Arena: 10 in 1 Edition | 295678 | [295678-cooking-arena-10-in-1-edition.json](./295678-cooking-arena-10-in-1-edition.json) |
 | Cooking Arena: 3 in 1 Edition | 283176 | [283176-cooking-arena-3-in-1-edition.json](./283176-cooking-arena-3-in-1-edition.json) |
+| Cooking Arena: 4 in 1 Edition | 280589 | [280589-cooking-arena-4-in-1-edition.json](./280589-cooking-arena-4-in-1-edition.json) |
 | Cooking Arena: 5 in 1 Edition | 266171 | [266171-cooking-arena-5-in-1-edition.json](./266171-cooking-arena-5-in-1-edition.json) |
 | Cooking Arena: 6 in 1 Edition | 270297 | [270297-cooking-arena-6-in-1-edition.json](./270297-cooking-arena-6-in-1-edition.json) |
 | Cooking Arena: 7 in 1 Edition | 270800 | [270800-cooking-arena-7-in-1-edition.json](./270800-cooking-arena-7-in-1-edition.json) |
@@ -13994,6 +14003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Tycoons: 3 in 1 Bundle - Legendary Edition | 409965 | [409965-cooking-tycoons-3-in-1-bundle-legendary-edition.json](./409965-cooking-tycoons-3-in-1-bundle-legendary-edition.json) |
 | Cooking Tycoons: 3 in 1 Bundle - Premium Edition | 396916 | [396916-cooking-tycoons-3-in-1-bundle-premium-edition.json](./396916-cooking-tycoons-3-in-1-bundle-premium-edition.json) |
 | Cooking Tycoons: 3 in 1 Bundle - Silver Edition | 412586 | [412586-cooking-tycoons-3-in-1-bundle-silver-edition.json](./412586-cooking-tycoons-3-in-1-bundle-silver-edition.json) |
+| Cooking Tycoons: 3 in 1 Bundle Complete Edition | 280590 | [280590-cooking-tycoons-3-in-1-bundle-complete-edition.json](./280590-cooking-tycoons-3-in-1-bundle-complete-edition.json) |
 | Cooking Tycoons: 3 in 1 Bundle Diamond Edition | 410854 | [410854-cooking-tycoons-3-in-1-bundle-diamond-edition.json](./410854-cooking-tycoons-3-in-1-bundle-diamond-edition.json) |
 | Cooking Tycoons: 3 in 1 Bundle Elite Edition | 404275 | [404275-cooking-tycoons-3-in-1-bundle-elite-edition.json](./404275-cooking-tycoons-3-in-1-bundle-elite-edition.json) |
 | Cooking Tycoons: 3 in 1 Bundle The Ultimate Pizzeria | 386801 | [386801-cooking-tycoons-3-in-1-bundle-the-ultimate-pizzeria.json](./386801-cooking-tycoons-3-in-1-bundle-the-ultimate-pizzeria.json) |
@@ -17988,6 +17998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryken Part2 | 342370 | [342370-cryken-part2.json](./342370-cryken-part2.json) |
 | Cryken Part3 | 345996 | [345996-cryken-part3.json](./345996-cryken-part3.json) |
 | Cryken Part4 | 351226 | [351226-cryken-part4.json](./351226-cryken-part4.json) |
+| Crylia | 280554 | [280554-crylia.json](./280554-crylia.json) |
 | Cryline | 55271 | [55271-cryline.json](./55271-cryline.json) |
 | Crymachina | 240141 | [240141-crymachina.json](./240141-crymachina.json) |
 | Crymachina: Hanamaru Edition | 255508 | [255508-crymachina-hanamaru-edition.json](./255508-crymachina-hanamaru-edition.json) |
@@ -19481,7 +19492,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Mario Maker | 294782 | [294782-custom-mario-maker.json](./294782-custom-mario-maker.json) |
 | Custom Mate 2 | 368064 | [368064-custom-mate-2.json](./368064-custom-mate-2.json) |
 | Custom Mech Wars | 263983 | [263983-custom-mech-wars.json](./263983-custom-mech-wars.json) |
+| Custom Mech Wars: Earth Defense Force Collab Set | 280555 | [280555-custom-mech-wars-earth-defense-force-collab-set.json](./280555-custom-mech-wars-earth-defense-force-collab-set.json) |
 | Custom Mech Wars: EDF Collab Edition | 268007 | [268007-custom-mech-wars-edf-collab-edition.json](./268007-custom-mech-wars-edf-collab-edition.json) |
+| Custom Mech Wars: Omega Customization Set | 280556 | [280556-custom-mech-wars-omega-customization-set.json](./280556-custom-mech-wars-omega-customization-set.json) |
 | Custom Mech Wars: Ultimate Edition | 268008 | [268008-custom-mech-wars-ultimate-edition.json](./268008-custom-mech-wars-ultimate-edition.json) |
 | Custom Monsters | 222498 | [222498-custom-monsters.json](./222498-custom-monsters.json) |
 | Custom Nights at Freddy's | 319634 | [319634-custom-nights-at-freddys.json](./319634-custom-nights-at-freddys.json) |
