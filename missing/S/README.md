@@ -1668,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sàngshī Wéichéng: Límíng | 369184 | [369184-sangshi-weicheng-liming.json](./369184-sangshi-weicheng-liming.json) |
 | Sanguinaria | 337674 | [337674-sanguinaria.json](./337674-sanguinaria.json) |
 | Sanguine | 260425 | [260425-sanguine.json](./260425-sanguine.json) |
+| Sanguine | 296581 | [296581-sanguine.json](./296581-sanguine.json) |
 | Sanguine 3 | 345393 | [345393-sanguine-3.json](./345393-sanguine-3.json) |
 | Sanguine Cycle; Redux | 405766 | [405766-sanguine-cycle-redux.json](./405766-sanguine-cycle-redux.json) |
 | Sanguine Holy Land | 299431 | [299431-sanguine-holy-land.json](./299431-sanguine-holy-land.json) |
@@ -2924,6 +2925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Girl Simulator | 265808 | [265808-school-girl-simulator.json](./265808-school-girl-simulator.json) |
 | School Girl/Zombie Hunter | 41827 | [41827-school-girl-zombie-hunter.json](./41827-school-girl-zombie-hunter.json) |
 | School Girls Dance | 296755 | [296755-school-girls-dance.json](./296755-school-girls-dance.json) |
+| School Girls Simulator | 296553 | [296553-school-girls-simulator.json](./296553-school-girls-simulator.json) |
 | School Grounds | 112738 | [112738-school-grounds.json](./112738-school-grounds.json) |
 | School Guard | 385866 | [385866-school-guard.json](./385866-school-guard.json) |
 | School Heaven: Love Ero Harem - Momoiro Typhoon | 77924 | [77924-school-heaven-love-ero-harem-momoiro-typhoon.json](./77924-school-heaven-love-ero-harem-momoiro-typhoon.json) |
@@ -5941,6 +5943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven's Code | 125361 | [125361-sevens-code.json](./125361-sevens-code.json) |
 | Sevencore | 64622 | [64622-sevencore.json](./64622-sevencore.json) |
 | Sevenfall | 387540 | [387540-sevenfall.json](./387540-sevenfall.json) |
+| Sevens Card Game | 296554 | [296554-sevens-card-game.json](./296554-sevens-card-game.json) |
 | Seventh Angel | 189129 | [189129-seventh-angel.json](./189129-seventh-angel.json) |
 | Seventh Cavalry | 60220 | [60220-seventh-cavalry.json](./60220-seventh-cavalry.json) |
 | Seventh Choir | 337713 | [337713-seventh-choir.json](./337713-seventh-choir.json) |
@@ -19075,6 +19078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
