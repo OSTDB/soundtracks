@@ -3814,6 +3814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endorfire Tower Defense | 164760 | [164760-endorfire-tower-defense.json](./164760-endorfire-tower-defense.json) |
 | Endorlight: Deluxe Edition | 52948 | [52948-endorlight-deluxe-edition.json](./52948-endorlight-deluxe-edition.json) |
 | Endou-san | 398090 | [398090-endou-san.json](./398090-endou-san.json) |
+| Endowed | 279990 | [279990-endowed.json](./279990-endowed.json) |
 | Endquest | 268763 | [268763-endquest.json](./268763-endquest.json) |
 | Endragon | 192706 | [192706-endragon.json](./192706-endragon.json) |
 | Endrays | 266860 | [266860-endrays.json](./266860-endrays.json) |
