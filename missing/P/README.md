@@ -1926,6 +1926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise of Freedom | 332539 | [332539-paradise-of-freedom.json](./332539-paradise-of-freedom.json) |
 | Paradise Quest | 68408 | [68408-paradise-quest.json](./68408-paradise-quest.json) |
 | Paradise Rescue | 230750 | [230750-paradise-rescue.json](./230750-paradise-rescue.json) |
+| Paradise Road | 272608 | [272608-paradise-road.json](./272608-paradise-road.json) |
 | Paradise Sea | 406743 | [406743-paradise-sea.json](./406743-paradise-sea.json) |
 | Paradise Sex | 245764 | [245764-paradise-sex.json](./245764-paradise-sex.json) |
 | Paradise Shooting 2!! | 311808 | [311808-paradise-shooting-2.json](./311808-paradise-shooting-2.json) |
@@ -3940,6 +3941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Flight | 328443 | [328443-penguin-flight.json](./328443-penguin-flight.json) |
 | Penguin Flight: Beyond The Clouds | 342149 | [342149-penguin-flight-beyond-the-clouds.json](./342149-penguin-flight-beyond-the-clouds.json) |
 | Penguin Fury | 414021 | [414021-penguin-fury.json](./414021-penguin-fury.json) |
+| Penguin Hatchery | 272607 | [272607-penguin-hatchery.json](./272607-penguin-hatchery.json) |
 | Penguin Helper | 302112 | [302112-penguin-helper.json](./302112-penguin-helper.json) |
 | Penguin Hideout | 195052 | [195052-penguin-hideout.json](./195052-penguin-hideout.json) |
 | Penguin Hop | 105425 | [105425-penguin-hop.json](./105425-penguin-hop.json) |
@@ -5580,6 +5582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phonopolis | 204549 | [204549-phonopolis.json](./204549-phonopolis.json) |
 | Phoots and the Pineapple Throne | 304015 | [304015-phoots-and-the-pineapple-throne.json](./304015-phoots-and-the-pineapple-throne.json) |
 | Phos | 143971 | [143971-phos.json](./143971-phos.json) |
+| Phosfi | 272606 | [272606-phosfi.json](./272606-phosfi.json) |
 | Phosphenia | 290670 | [290670-phosphenia.json](./290670-phosphenia.json) |
 | Phosphor | 267767 | [267767-phosphor.json](./267767-phosphor.json) |
 | Photo Clock | 84692 | [84692-photo-clock.json](./84692-photo-clock.json) |
@@ -8261,6 +8264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles World War II Jigsaws Pack: Invasion of Poland | 265245 | [265245-pixel-puzzles-world-war-ii-jigsaws-pack-invasion-of-poland.json](./265245-pixel-puzzles-world-war-ii-jigsaws-pack-invasion-of-poland.json) |
 | Pixel Puzzles World War II Jigsaws: Battle of Hürtgen Forest | 267064 | [267064-pixel-puzzles-world-war-ii-jigsaws-battle-of-hurtgen-forest.json](./267064-pixel-puzzles-world-war-ii-jigsaws-battle-of-hurtgen-forest.json) |
 | Pixel Puzzles World War II Jigsaws: Pack - Battle Off Samar | 274657 | [274657-pixel-puzzles-world-war-ii-jigsaws-pack-battle-off-samar.json](./274657-pixel-puzzles-world-war-ii-jigsaws-pack-battle-off-samar.json) |
+| Pixel Puzzles WW2 Jigsaw: Battle of Leyte | 272595 | [272595-pixel-puzzles-ww2-jigsaw-battle-of-leyte.json](./272595-pixel-puzzles-ww2-jigsaw-battle-of-leyte.json) |
 | Pixel Puzzles WW2 Jigsaw: Battle of the Bulge | 289463 | [289463-pixel-puzzles-ww2-jigsaw-battle-of-the-bulge.json](./289463-pixel-puzzles-ww2-jigsaw-battle-of-the-bulge.json) |
 | Pixel Puzzles WW2 Jigsaw: French Tanks | 263965 | [263965-pixel-puzzles-ww2-jigsaw-french-tanks.json](./263965-pixel-puzzles-ww2-jigsaw-french-tanks.json) |
 | Pixel Puzzles WW2 Jigsaw: Italian Tanks | 264005 | [264005-pixel-puzzles-ww2-jigsaw-italian-tanks.json](./264005-pixel-puzzles-ww2-jigsaw-italian-tanks.json) |
@@ -16900,6 +16904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulpmon | 202038 | [202038-pulpmon.json](./202038-pulpmon.json) |
 | Pulsar | 167797 | [167797-pulsar.json](./167797-pulsar.json) |
 | Pulsar | 172728 | [172728-pulsar.json](./172728-pulsar.json) |
+| Pulsar | 272622 | [272622-pulsar.json](./272622-pulsar.json) |
 | Pulsar no Hikari | 64649 | [64649-pulsar-no-hikari.json](./64649-pulsar-no-hikari.json) |
 | Pulsar: Lost Colony | 16687 | [16687-pulsar-lost-colony.json](./16687-pulsar-lost-colony.json) |
 | Pulsari | 404782 | [404782-pulsari.json](./404782-pulsari.json) |
