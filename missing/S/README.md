@@ -5306,6 +5306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Warriors 4 DX: 15th Anniversary Box | 136948 | [136948-sengoku-warriors-4-dx-15th-anniversary-box.json](./136948-sengoku-warriors-4-dx-15th-anniversary-box.json) |
 | Sengoku Yaraideka | 289021 | [289021-sengoku-yaraideka.json](./289021-sengoku-yaraideka.json) |
 | Sengoku: A Time of Warriors and Demons | 165747 | [165747-sengoku-a-time-of-warriors-and-demons.json](./165747-sengoku-a-time-of-warriors-and-demons.json) |
+| Sengoku: Battle Royal | 292333 | [292333-sengoku-battle-royal.json](./292333-sengoku-battle-royal.json) |
 | Senile Showdown: Arthfightus | 133613 | [133613-senile-showdown-arthfightus.json](./133613-senile-showdown-arthfightus.json) |
 | Senile Wizards | 259815 | [259815-senile-wizards.json](./259815-senile-wizards.json) |
 | Senile Zombies | 311180 | [311180-senile-zombies.json](./311180-senile-zombies.json) |
@@ -11160,6 +11161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinister Intention | 273739 | [273739-sinister-intention.json](./273739-sinister-intention.json) |
 | Sinister Mansion | 297798 | [297798-sinister-mansion.json](./297798-sinister-mansion.json) |
 | Sinister Night | 200670 | [200670-sinister-night.json](./200670-sinister-night.json) |
+| Sinister Night 2 | 292467 | [292467-sinister-night-2.json](./292467-sinister-night-2.json) |
 | Sinister Nights | 271590 | [271590-sinister-nights.json](./271590-sinister-nights.json) |
 | Sinister Outbreak | 366118 | [366118-sinister-outbreak.json](./366118-sinister-outbreak.json) |
 | Sinister Remains | 372020 | [372020-sinister-remains.json](./372020-sinister-remains.json) |
@@ -13952,6 +13954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Court: Warm Up | 183737 | [183737-smash-court-warm-up.json](./183737-smash-court-warm-up.json) |
 | Smash Crabs | 151744 | [151744-smash-crabs.json](./151744-smash-crabs.json) |
 | Smash Crates | 160025 | [160025-smash-crates.json](./160025-smash-crates.json) |
+| Smash Cup | 292337 | [292337-smash-cup.json](./292337-smash-cup.json) |
 | Smash Dash: Demolition Run | 406575 | [406575-smash-dash-demolition-run.json](./406575-smash-dash-demolition-run.json) |
 | Smash Derby | 36776 | [36776-smash-derby.json](./36776-smash-derby.json) |
 | Smash Drums | 152212 | [152212-smash-drums.json](./152212-smash-drums.json) |
@@ -16601,6 +16604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song of the Tides | 158172 | [158172-song-of-the-tides.json](./158172-song-of-the-tides.json) |
 | Song of Twilight | 384231 | [384231-song-of-twilight.json](./384231-song-of-twilight.json) |
 | Song of Yellow River | 130952 | [130952-song-of-yellow-river.json](./130952-song-of-yellow-river.json) |
+| Song of Yosef | 292276 | [292276-song-of-yosef.json](./292276-song-of-yosef.json) |
 | Song Quiz | 406788 | [406788-song-quiz.json](./406788-song-quiz.json) |
 | Song Song | 273406 | [273406-song-song.json](./273406-song-song.json) |
 | Song Summoner: The Unsung Heroes | 23042 | [23042-song-summoner-the-unsung-heroes.json](./23042-song-summoner-the-unsung-heroes.json) |
@@ -19097,7 +19101,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -19393,6 +19396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Probes | 155820 | [155820-space-probes.json](./155820-space-probes.json) |
 | Space puzzle | 152724 | [152724-space-puzzle.json](./152724-space-puzzle.json) |
 | Space Qube | 200022 | [200022-space-qube.json](./200022-space-qube.json) |
+| Space Query | 292351 | [292351-space-query.json](./292351-space-query.json) |
 | Space Quest 0: Replicated | 349901 | [349901-space-quest-0-replicated.json](./349901-space-quest-0-replicated.json) |
 | Space Quest 4+5+6 | 154934 | [154934-space-quest-4-5-6.json](./154934-space-quest-4-5-6.json) |
 | Space Quest I: Roger Wilco in the Sarien Encounter | 77194 | [77194-space-quest-i-roger-wilco-in-the-sarien-encounter.json](./77194-space-quest-i-roger-wilco-in-the-sarien-encounter.json) |
@@ -26093,6 +26097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Jailbreak 2024 | 292160 | [292160-stickman-jailbreak-2024.json](./292160-stickman-jailbreak-2024.json) |
 | Stickman Jetpack | 81701 | [81701-stickman-jetpack.json](./81701-stickman-jetpack.json) |
 | Stickman Kill Sergeant | 220222 | [220222-stickman-kill-sergeant.json](./220222-stickman-kill-sergeant.json) |
+| Stickman Killing Zombie | 292346 | [292346-stickman-killing-zombie.json](./292346-stickman-killing-zombie.json) |
 | Stickman League | 127194 | [127194-stickman-league.json](./127194-stickman-league.json) |
 | Stickman Legends | 323197 | [323197-stickman-legends.json](./323197-stickman-legends.json) |
 | Stickman Legends: Shadow Wars | 96810 | [96810-stickman-legends-shadow-wars.json](./96810-stickman-legends-shadow-wars.json) |
@@ -30370,6 +30375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hard Bundle | 317681 | [317681-super-hard-bundle.json](./317681-super-hard-bundle.json) |
 | Super Hard Game | 360580 | [360580-super-hard-game.json](./360580-super-hard-game.json) |
 | Super Hardcore | 50749 | [50749-super-hardcore.json](./50749-super-hardcore.json) |
+| Super Harvester | 292466 | [292466-super-harvester.json](./292466-super-harvester.json) |
 | Super Hashigo | 417493 | [417493-super-hashigo.json](./417493-super-hashigo.json) |
 | Super Haste | 363020 | [363020-super-haste.json](./363020-super-haste.json) |
 | Super Haste | 409791 | [409791-super-haste.json](./409791-super-haste.json) |
@@ -32951,6 +32957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supertag | 182705 | [182705-supertag.json](./182705-supertag.json) |
 | Supertan Marioner 3D Infinity World Adventures | 198180 | [198180-supertan-marioner-3d-infinity-world-adventures.json](./198180-supertan-marioner-3d-infinity-world-adventures.json) |
 | SuperTanks | 149939 | [149939-supertanks.json](./149939-supertanks.json) |
+| SuperTaxCity | 292328 | [292328-supertaxcity.json](./292328-supertaxcity.json) |
 | SuperTed | 73643 | [73643-superted.json](./73643-superted.json) |
 | SuperTotalCarnage! | 230356 | [230356-supertotalcarnage.json](./230356-supertotalcarnage.json) |
 | SuperTripLand | 239504 | [239504-supertripland.json](./239504-supertripland.json) |
