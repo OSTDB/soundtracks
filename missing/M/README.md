@@ -13607,6 +13607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission: Caduceus | 128406 | [128406-mission-caduceus.json](./128406-mission-caduceus.json) |
 | Mission: Chao | 330713 | [330713-mission-chao.json](./330713-mission-chao.json) |
 | Mission: Demolition | 74371 | [74371-mission-demolition.json](./74371-mission-demolition.json) |
+| Mission: Diamond Back | 266045 | [266045-mission-diamond-back.json](./266045-mission-diamond-back.json) |
 | Mission: Driver | 210855 | [210855-mission-driver.json](./210855-mission-driver.json) |
 | Mission: Earth | 413391 | [413391-mission-earth.json](./413391-mission-earth.json) |
 | Mission: Escape | 271726 | [271726-mission-escape.json](./271726-mission-escape.json) |
@@ -17980,6 +17981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mozg | 396958 | [396958-mozg.json](./396958-mozg.json) |
 | Mozg Procesor | 125621 | [125621-mozg-procesor.json](./125621-mozg-procesor.json) |
 | Mozi | 310080 | [310080-mozi.json](./310080-mozi.json) |
+| Mozzies | 266046 | [266046-mozzies.json](./266046-mozzies.json) |
 | Mozzle | 175414 | [175414-mozzle.json](./175414-mozzle.json) |
 | MP Orbit | 273225 | [273225-mp-orbit.json](./273225-mp-orbit.json) |
 | Mp Power | 273202 | [273202-mp-power.json](./273202-mp-power.json) |
@@ -18264,6 +18266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Jumpington 2 | 55651 | [55651-mr-jumpington-2.json](./55651-mr-jumpington-2.json) |
 | Mr. Jumpington 3 | 65793 | [65793-mr-jumpington-3.json](./65793-mr-jumpington-3.json) |
 | Mr. Jumpington 4 | 68743 | [68743-mr-jumpington-4.json](./68743-mr-jumpington-4.json) |
+| Mr. K.I.S.S. | 266047 | [266047-mr-k-i-s-s.json](./266047-mr-k-i-s-s.json) |
 | Mr. Kicker - Perfect Kick Soccer Game | 104583 | [104583-mr-kicker-perfect-kick-soccer-game.json](./104583-mr-kicker-perfect-kick-soccer-game.json) |
 | Mr. Kougar | 285863 | [285863-mr-kougar.json](./285863-mr-kougar.json) |
 | Mr. Krabs Overdoses on Ketamine | 141101 | [141101-mr-krabs-overdoses-on-ketamine.json](./141101-mr-krabs-overdoses-on-ketamine.json) |
@@ -21057,6 +21060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myriad | 416363 | [416363-myriad.json](./416363-myriad.json) |
 | Myriad | 60033 | [60033-myriad.json](./60033-myriad.json) |
 | Myriad Death | 336758 | [336758-myriad-death.json](./336758-myriad-death.json) |
+| Myriad Hotel | 266048 | [266048-myriad-hotel.json](./266048-myriad-hotel.json) |
 | Myriad Mayhem | 258208 | [258208-myriad-mayhem.json](./258208-myriad-mayhem.json) |
 | Myriad Realms | 406296 | [406296-myriad-realms.json](./406296-myriad-realms.json) |
 | Myriad: A Rogue Adventure | 172336 | [172336-myriad-a-rogue-adventure.json](./172336-myriad-a-rogue-adventure.json) |
