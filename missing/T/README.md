@@ -3838,6 +3838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten Tales from the Record of the Adamant Gambit | 198024 | [198024-ten-tales-from-the-record-of-the-adamant-gambit.json](./198024-ten-tales-from-the-record-of-the-adamant-gambit.json) |
 | Ten Ten | 318463 | [318463-ten-ten.json](./318463-ten-ten.json) |
 | Ten Thousand Coins: The Golden Merchant | 126804 | [126804-ten-thousand-coins-the-golden-merchant.json](./126804-ten-thousand-coins-the-golden-merchant.json) |
+| Ten Thousand Days in the Fire | 274267 | [274267-ten-thousand-days-in-the-fire.json](./274267-ten-thousand-days-in-the-fire.json) |
 | Ten Thousand Immortals | 284287 | [284287-ten-thousand-immortals.json](./284287-ten-thousand-immortals.json) |
 | Ten trials of Archer | 175200 | [175200-ten-trials-of-archer.json](./175200-ten-trials-of-archer.json) |
 | Ten Trials of Babel 2: Tower and Aurora | 372682 | [372682-ten-trials-of-babel-2-tower-and-aurora.json](./372682-ten-trials-of-babel-2-tower-and-aurora.json) |
@@ -6552,6 +6553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blues Brothers | 265032 | [265032-the-blues-brothers.json](./265032-the-blues-brothers.json) |
 | The Blues Brothers | 265033 | [265033-the-blues-brothers.json](./265033-the-blues-brothers.json) |
 | The Blues Brothers: Jukebox Adventure | 47007 | [47007-the-blues-brothers-jukebox-adventure.json](./47007-the-blues-brothers-jukebox-adventure.json) |
+| The Board AI | 274247 | [274247-the-board-ai.json](./274247-the-board-ai.json) |
 | The Board is Yours | 384227 | [384227-the-board-is-yours.json](./384227-the-board-is-yours.json) |
 | The Boba Teashop | 340928 | [340928-the-boba-teashop.json](./340928-the-boba-teashop.json) |
 | The Boba Teashop: Refill | 422103 | [422103-the-boba-teashop-refill.json](./422103-the-boba-teashop-refill.json) |
@@ -17130,6 +17132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Temple of Children | 296466 | [296466-the-temple-of-children.json](./296466-the-temple-of-children.json) |
 | The Temple of Elemental Evil | 381153 | [381153-the-temple-of-elemental-evil.json](./381153-the-temple-of-elemental-evil.json) |
 | The Temple of Elemental Evil | 5631 | [5631-the-temple-of-elemental-evil.json](./5631-the-temple-of-elemental-evil.json) |
+| The Temple of Nightmares | 274269 | [274269-the-temple-of-nightmares.json](./274269-the-temple-of-nightmares.json) |
 | The Temple of No | 19699 | [19699-the-temple-of-no.json](./19699-the-temple-of-no.json) |
 | The Temple of Torment | 181257 | [181257-the-temple-of-torment.json](./181257-the-temple-of-torment.json) |
 | The Temple Warrior: Battleground of Demons | 262786 | [262786-the-temple-warrior-battleground-of-demons.json](./262786-the-temple-warrior-battleground-of-demons.json) |
@@ -18351,6 +18354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Warlock of Firetop Mountain: Goblin Scourge Edition! | 147832 | [147832-the-warlock-of-firetop-mountain-goblin-scourge-edition.json](./147832-the-warlock-of-firetop-mountain-goblin-scourge-edition.json) |
 | The Warlock of Firetop Mountain: Goblin Scourge! | 162057 | [162057-the-warlock-of-firetop-mountain-goblin-scourge.json](./162057-the-warlock-of-firetop-mountain-goblin-scourge.json) |
 | The Warlock's Hearth | 261181 | [261181-the-warlocks-hearth.json](./261181-the-warlocks-hearth.json) |
+| The Warmest Body in the Room | 274270 | [274270-the-warmest-body-in-the-room.json](./274270-the-warmest-body-in-the-room.json) |
 | The Warmth Between Us | 185942 | [185942-the-warmth-between-us.json](./185942-the-warmth-between-us.json) |
 | The Warp Coin Catastrophe | 186105 | [186105-the-warp-coin-catastrophe.json](./186105-the-warp-coin-catastrophe.json) |
 | The Warp: Cephisso | 351641 | [351641-the-warp-cephisso.json](./351641-the-warp-cephisso.json) |
@@ -25645,6 +25649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Me | 225597 | [225597-touch-me.json](./225597-touch-me.json) |
 | Touch Me | 230880 | [230880-touch-me.json](./230880-touch-me.json) |
 | Touch Me | 400211 | [400211-touch-me.json](./400211-touch-me.json) |
+| Touch Me2 | 274280 | [274280-touch-me2.json](./274280-touch-me2.json) |
 | Touch Mechanic | 21188 | [21188-touch-mechanic.json](./21188-touch-mechanic.json) |
 | Touch Melbourne | 167705 | [167705-touch-melbourne.json](./167705-touch-melbourne.json) |
 | Touch Melo | 312904 | [312904-touch-melo.json](./312904-touch-melo.json) |
