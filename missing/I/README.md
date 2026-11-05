@@ -2455,6 +2455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Tales of Rebirth | 231852 | [231852-immortal-tales-of-rebirth.json](./231852-immortal-tales-of-rebirth.json) |
 | Immortal Taoists | 221349 | [221349-immortal-taoists.json](./221349-immortal-taoists.json) |
 | Immortal Truth | 33087 | [33087-immortal-truth.json](./33087-immortal-truth.json) |
+| Immortal Warfare | 257148 | [257148-immortal-warfare.json](./257148-immortal-warfare.json) |
 | Immortal Wayfarer | 402420 | [402420-immortal-wayfarer.json](./402420-immortal-wayfarer.json) |
 | Immortal: And the Death that Follows | 217325 | [217325-immortal-and-the-death-that-follows.json](./217325-immortal-and-the-death-that-follows.json) |
 | Immortal: Gates of Pyre | 141069 | [141069-immortal-gates-of-pyre.json](./141069-immortal-gates-of-pyre.json) |
@@ -3792,7 +3793,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5157,6 +5157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Soup | 126554 | [126554-into-the-soup.json](./126554-into-the-soup.json) |
 | Into the Spiritwell | 223799 | [223799-into-the-spiritwell.json](./223799-into-the-spiritwell.json) |
 | Into the Stars - Deluxe | 53235 | [53235-into-the-stars-deluxe.json](./53235-into-the-stars-deluxe.json) |
+| Into The Storm | 257176 | [257176-into-the-storm.json](./257176-into-the-storm.json) |
 | Into the Timeverse | 172180 | [172180-into-the-timeverse.json](./172180-into-the-timeverse.json) |
 | Into the Twilight | 257794 | [257794-into-the-twilight.json](./257794-into-the-twilight.json) |
 | Into the Underdusk | 194894 | [194894-into-the-underdusk.json](./194894-into-the-underdusk.json) |
