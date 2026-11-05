@@ -2404,6 +2404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Sort Jigsaw: Color Sort | 208943 | [208943-water-sort-jigsaw-color-sort.json](./208943-water-sort-jigsaw-color-sort.json) |
 | Water Sort Puzzle | 175029 | [175029-water-sort-puzzle.json](./175029-water-sort-puzzle.json) |
 | Water Sort Puzzle: Get Color | 415281 | [415281-water-sort-puzzle-get-color.json](./415281-water-sort-puzzle-get-color.json) |
+| Water Sort: Perfect Pouring | 266552 | [266552-water-sort-perfect-pouring.json](./266552-water-sort-perfect-pouring.json) |
 | Water Sports | 5262 | [5262-water-sports.json](./5262-water-sports.json) |
 | Water Star Adventure | 215770 | [215770-water-star-adventure.json](./215770-water-star-adventure.json) |
 | Water Surfer Bus | 202766 | [202766-water-surfer-bus.json](./202766-water-surfer-bus.json) |
