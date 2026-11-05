@@ -11981,6 +11981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypastorm | 254692 | [254692-hypastorm.json](./254692-hypastorm.json) |
 | Hypatia | 38705 | [38705-hypatia.json](./38705-hypatia.json) |
 | Hypatia | 407344 | [407344-hypatia.json](./407344-hypatia.json) |
+| Hypcampex | 290205 | [290205-hypcampex.json](./290205-hypcampex.json) |
 | Hype Hustle | 201399 | [201399-hype-hustle.json](./201399-hype-hustle.json) |
 | Hype Prototype | 225520 | [225520-hype-prototype.json](./225520-hype-prototype.json) |
 | Hype: The Time Quest | 259642 | [259642-hype-the-time-quest.json](./259642-hype-the-time-quest.json) |
