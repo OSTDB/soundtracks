@@ -2832,6 +2832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day of Dragons | 122643 | [122643-day-of-dragons.json](./122643-day-of-dragons.json) |
 | Day of Dragons: Acid Spitter Drake | 170364 | [170364-day-of-dragons-acid-spitter-drake.json](./170364-day-of-dragons-acid-spitter-drake.json) |
 | Day of Drift | 345805 | [345805-day-of-drift.json](./345805-day-of-drift.json) |
+| Day of Eevee | 290669 | [290669-day-of-eevee.json](./290669-day-of-eevee.json) |
 | Day of Invasion: Reloaded | 310332 | [310332-day-of-invasion-reloaded.json](./310332-day-of-invasion-reloaded.json) |
 | Day of Judgment | 272394 | [272394-day-of-judgment.json](./272394-day-of-judgment.json) |
 | Day of Light | 383383 | [383383-day-of-light.json](./383383-day-of-light.json) |
@@ -3477,6 +3478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Fury | 193734 | [193734-dead-fury.json](./193734-dead-fury.json) |
 | Dead Garden Zero | 367645 | [367645-dead-garden-zero.json](./367645-dead-garden-zero.json) |
 | Dead Gears: Space of War | 401118 | [401118-dead-gears-space-of-war.json](./401118-dead-gears-space-of-war.json) |
+| Dead Get Rekt | 290754 | [290754-dead-get-rekt.json](./290754-dead-get-rekt.json) |
 | Dead Girl's Notebook | 249322 | [249322-dead-girls-notebook.json](./249322-dead-girls-notebook.json) |
 | Dead Giveaway: Zombie Quiz | 232044 | [232044-dead-giveaway-zombie-quiz.json](./232044-dead-giveaway-zombie-quiz.json) |
 | Dead Gods Realm: Morar | 401305 | [401305-dead-gods-realm-morar.json](./401305-dead-gods-realm-morar.json) |
@@ -6895,6 +6897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descenders Next | 312871 | [312871-descenders-next.json](./312871-descenders-next.json) |
 | Descending | 102518 | [102518-descending.json](./102518-descending.json) |
 | Descending | 315450 | [315450-descending.json](./315450-descending.json) |
+| Descending The Woods | 290752 | [290752-descending-the-woods.json](./290752-descending-the-woods.json) |
 | Descending: House of Nightmares | 171614 | [171614-descending-house-of-nightmares.json](./171614-descending-house-of-nightmares.json) |
 | Descension | 208447 | [208447-descension.json](./208447-descension.json) |
 | Descension | 352183 | [352183-descension.json](./352183-descension.json) |
@@ -16106,6 +16109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift86 | 130636 | [130636-drift86.json](./130636-drift86.json) |
 | DriftBorne | 399209 | [399209-driftborne.json](./399209-driftborne.json) |
 | DriftCE | 249331 | [249331-driftce.json](./249331-driftce.json) |
+| DriftCE: Toyota Chaser JZX100 | 290759 | [290759-driftce-toyota-chaser-jzx100.json](./290759-driftce-toyota-chaser-jzx100.json) |
 | DriftCE: Toyota Supra MK5 DLC | 293465 | [293465-driftce-toyota-supra-mk5-dlc.json](./293465-driftce-toyota-supra-mk5-dlc.json) |
 | Driftcraft | 397731 | [397731-driftcraft.json](./397731-driftcraft.json) |
 | Drifted | 287227 | [287227-drifted.json](./287227-drifted.json) |
