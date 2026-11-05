@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://ostdb.net"><img alt="soundtracks: 2,950" src="https://img.shields.io/badge/soundtracks-2%2C950-E2B714?style=for-the-badge&labelColor=161718" /></a>
 <a href="games/README.md"><img alt="games: 2,467" src="https://img.shields.io/badge/games-2%2C467-ECECEE?style=for-the-badge&labelColor=161718" /></a>
-<a href="missing/README.md"><img alt="missing: 310,331" src="https://img.shields.io/badge/missing-310%2C331-F0827A?style=for-the-badge&labelColor=161718" /></a>
+<a href="missing/README.md"><img alt="missing: 311,482" src="https://img.shields.io/badge/missing-311%2C482-F0827A?style=for-the-badge&labelColor=161718" /></a>
 <a href="SUBMITTING.md"><img alt="PRs: welcome" src="https://img.shields.io/badge/PRs-welcome-1DB954?style=for-the-badge&labelColor=161718&logo=github&logoColor=white" /></a>
 <a href="LICENSE"><img alt="data: CC BY-NC-SA 4.0" src="https://img.shields.io/badge/data-CC%20BY--NC--SA%204.0-6366F1?style=for-the-badge&labelColor=161718" /></a>
 </p>
@@ -27,20 +27,20 @@
 
 <table>
 <tr>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/knee-deep"><img src="https://i.scdn.co/image/ab67616d0000b27365b8d298a35a035e688c390b" width="120" height="120" alt="" /></a><br /><sub><b>Knee Deep</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/color-zen"><img src="https://i.scdn.co/image/ab67616d0000b273102988e82d2d6d85d5697285" width="120" height="120" alt="" /></a><br /><sub><b>Color Zen</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/airships-conquer-the-skies"><img src="https://i.scdn.co/image/ab67616d0000b27323ba49e301b26442b4a59005" width="120" height="120" alt="" /></a><br /><sub><b>Airships: Conquer the Skies</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/sort-the-court"><img src="https://i.scdn.co/image/ab67616d0000b2736715a6548b794336bddd84c4" width="120" height="120" alt="" /></a><br /><sub><b>Sort the Court!</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/the-lord-of-the-rings-adventure-card-game"><img src="https://i.scdn.co/image/ab67616d0000b2733b9ec3dd8474f14289a20d8d" width="120" height="120" alt="" /></a><br /><sub><b>The Lord of the Rings: Adventure Card Game</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/jimmy-and-the-pulsating-mass"><img src="https://i.scdn.co/image/ab67616d0000b2731d6d6b1a98de9f375b760c1e" width="120" height="120" alt="" /></a><br /><sub><b>Jimmy and the Pulsating Mass</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/no70-eye-of-basir"><img src="https://i.scdn.co/image/ab67616d0000b27315ba3928d769a711536aa56e" width="120" height="120" alt="" /></a><br /><sub><b>No70: Eye of Basir</b></sub></td>
 </tr>
 <tr>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/no70-eye-of-basir"><img src="https://i.scdn.co/image/ab67616d0000b27315ba3928d769a711536aa56e" width="120" height="120" alt="" /></a><br /><sub><b>No70: Eye of Basir</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/bit-heroes"><img src="https://i.scdn.co/image/ab67616d0000b273389ef500d3db52f4c34de9c8" width="120" height="120" alt="" /></a><br /><sub><b>Bit Heroes</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/dont-look-back"><img src="https://i.scdn.co/image/ab67616d0000b273760280244d8107ad682b9de1" width="120" height="120" alt="" /></a><br /><sub><b>Don't Look Back</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/airport-ceo"><img src="https://i.scdn.co/image/ab67616d0000b27379e4ff89cac1b21061443b53" width="120" height="120" alt="" /></a><br /><sub><b>Airport CEO</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/space-pirate-trainer"><img src="https://i.scdn.co/image/ab67616d0000b273199ef7040a608dccb766da5d" width="120" height="120" alt="" /></a><br /><sub><b>Space Pirate Trainer</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/pathfinder-adventures"><img src="https://i.scdn.co/image/ab67616d0000b273bf00d4e558688147b9f148fa" width="120" height="120" alt="" /></a><br /><sub><b>Pathfinder Adventures</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/rise-to-ruins"><img src="https://i.scdn.co/image/ab67616d0000b273c3eeb5ef6b5960a68ea279c3" width="120" height="120" alt="" /></a><br /><sub><b>Rise to Ruins</b></sub></td>
 </tr>
 </table>
 
@@ -66,7 +66,7 @@ The most popular games that still have no soundtrack on OSTDB. Find the official
 | 14 | **Tomb Raider: Anniversary** | [🔎 Find on Spotify](https://open.spotify.com/search/Tomb%20Raider%3A%20Anniversary%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/T/1162-tomb-raider-anniversary.json) |
 | 15 | **Resident Evil: Revelations 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Resident%20Evil%3A%20Revelations%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/R/7725-resident-evil-revelations-2.json) |
 
-More in **[missing/](missing/README.md)** (310,331 games).
+More in **[missing/](missing/README.md)** (311,482 games).
 
 ## 🎵 Add a soundtrack in 2 minutes
 
@@ -111,4 +111,4 @@ Commercial use needs permission ([support@ostdb.net](mailto:support@ostdb.net)).
 
 ---
 
-<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 2,950 soundtracks &middot; last updated 2026-11-05T09:45:44.230Z</sub>
+<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 2,950 soundtracks &middot; last updated 2026-11-05T12:41:05.188Z</sub>
