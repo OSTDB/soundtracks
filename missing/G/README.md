@@ -467,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Adventures | 377588 | [377588-galactic-adventures.json](./377588-galactic-adventures.json) |
 | Galactic Annihilation | 340290 | [340290-galactic-annihilation.json](./340290-galactic-annihilation.json) |
 | Galactic Arms Race | 8915 | [8915-galactic-arms-race.json](./8915-galactic-arms-race.json) |
+| Galactic Ascendancy | 290203 | [290203-galactic-ascendancy.json](./290203-galactic-ascendancy.json) |
 | Galactic Assault Squad | 196696 | [196696-galactic-assault-squad.json](./196696-galactic-assault-squad.json) |
 | Galactic Assault: Prisoner of Power | 9375 | [9375-galactic-assault-prisoner-of-power.json](./9375-galactic-assault-prisoner-of-power.json) |
 | Galactic Asteroids Patrol | 127086 | [127086-galactic-asteroids-patrol.json](./127086-galactic-asteroids-patrol.json) |
@@ -9848,6 +9849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GuardFortressVR | 298209 | [298209-guardfortressvr.json](./298209-guardfortressvr.json) |
 | GuardGrave | 275536 | [275536-guardgrave.json](./275536-guardgrave.json) |
 | Guardian | 15542 | [15542-guardian.json](./15542-guardian.json) |
+| Guardian | 290132 | [290132-guardian.json](./290132-guardian.json) |
 | Guardian | 360038 | [360038-guardian.json](./360038-guardian.json) |
 | Guardian | 37295 | [37295-guardian.json](./37295-guardian.json) |
 | Guardian | 38651 | [38651-guardian.json](./38651-guardian.json) |
