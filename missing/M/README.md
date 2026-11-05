@@ -13132,6 +13132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Party | 190914 | [190914-mirror-party.json](./190914-mirror-party.json) |
 | Mirror Quest Dog and Cat | 368566 | [368566-mirror-quest-dog-and-cat.json](./368566-mirror-quest-dog-and-cat.json) |
 | Mirror Shoot | 193478 | [193478-mirror-shoot.json](./193478-mirror-shoot.json) |
+| Mirror Sided | 292906 | [292906-mirror-sided.json](./292906-mirror-sided.json) |
 | Mirror Stage | 330687 | [330687-mirror-stage.json](./330687-mirror-stage.json) |
 | Mirror Throne: Auto Battler | 279467 | [279467-mirror-throne-auto-battler.json](./279467-mirror-throne-auto-battler.json) |
 | Mirror VR | 182887 | [182887-mirror-vr.json](./182887-mirror-vr.json) |
