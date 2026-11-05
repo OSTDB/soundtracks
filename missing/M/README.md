@@ -4139,6 +4139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mark's Magnificent Marble Maze | 199515 | [199515-marks-magnificent-marble-maze.json](./199515-marks-magnificent-marble-maze.json) |
 | Mark's Power | 283070 | [283070-marks-power.json](./283070-marks-power.json) |
 | Marked by King Bs | 202706 | [202706-marked-by-king-bs.json](./202706-marked-by-king-bs.json) |
+| Marked: The Quest for Tripura | 294355 | [294355-marked-the-quest-for-tripura.json](./294355-marked-the-quest-for-tripura.json) |
 | Marker Man Adventures | 47843 | [47843-marker-man-adventures.json](./47843-marker-man-adventures.json) |
 | Markerboard Jungle: Frogs | 159747 | [159747-markerboard-jungle-frogs.json](./159747-markerboard-jungle-frogs.json) |
 | Market Chain 98 | 405540 | [405540-market-chain-98.json](./405540-market-chain-98.json) |
@@ -14268,6 +14269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Module TD. Sci Fi Tower Defense | 103350 | [103350-module-td-sci-fi-tower-defense.json](./103350-module-td-sci-fi-tower-defense.json) |
 | Module:Berserk | 355597 | [355597-module-berserk.json](./355597-module-berserk.json) |
 | Modulea | 373823 | [373823-modulea.json](./373823-modulea.json) |
+| Modules | 294414 | [294414-modules.json](./294414-modules.json) |
 | Modulo | 142774 | [142774-modulo.json](./142774-modulo.json) |
 | Modulor | 265321 | [265321-modulor.json](./265321-modulor.json) |
 | Modulus: Factory Automation | 324265 | [324265-modulus-factory-automation.json](./324265-modulus-factory-automation.json) |
@@ -17909,6 +17911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MP2: Wooded Land | 283789 | [283789-mp2-wooded-land.json](./283789-mp2-wooded-land.json) |
 | MP2: Yoshi Valley | 283774 | [283774-mp2-yoshi-valley.json](./283774-mp2-yoshi-valley.json) |
 | MP3: (Piranha Plant's) Pipe Wonderland | 294756 | [294756-mp3-piranha-plants-pipe-wonderland.json](./294756-mp3-piranha-plants-pipe-wonderland.json) |
+| MP3: Animal Crossing | 294495 | [294495-mp3-animal-crossing.json](./294495-mp3-animal-crossing.json) |
 | MP3: Big Boo's Black Hole Boardwalk | 314580 | [314580-mp3-big-boos-black-hole-boardwalk.json](./314580-mp3-big-boos-black-hole-boardwalk.json) |
 | MP3: Bowser's Carnival | 294757 | [294757-mp3-bowsers-carnival.json](./294757-mp3-bowsers-carnival.json) |
 | MP3: DK's Jungle Adventure | 314578 | [314578-mp3-dks-jungle-adventure.json](./314578-mp3-dks-jungle-adventure.json) |
@@ -17916,9 +17919,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MP3: Ghastly Graveyard | 314585 | [314585-mp3-ghastly-graveyard.json](./314585-mp3-ghastly-graveyard.json) |
 | MP3: Loserville | 314579 | [314579-mp3-loserville.json](./314579-mp3-loserville.json) |
 | MP3: Maple Blossom Beach | 294759 | [294759-mp3-maple-blossom-beach.json](./294759-mp3-maple-blossom-beach.json) |
+| MP3: Paradise Isles | 294496 | [294496-mp3-paradise-isles.json](./294496-mp3-paradise-isles.json) |
 | MP3: Parched Sands | 314582 | [314582-mp3-parched-sands.json](./314582-mp3-parched-sands.json) |
+| MP3: Rainbow Boulevard | 294497 | [294497-mp3-rainbow-boulevard.json](./294497-mp3-rainbow-boulevard.json) |
 | MP3: Seasonal Woodland | 294755 | [294755-mp3-seasonal-woodland.json](./294755-mp3-seasonal-woodland.json) |
 | MP3: Shiver Blossom Shore | 314583 | [314583-mp3-shiver-blossom-shore.json](./314583-mp3-shiver-blossom-shore.json) |
+| MP3: Star Summit | 294494 | [294494-mp3-star-summit.json](./294494-mp3-star-summit.json) |
+| MP3: Towering Treetop | 294498 | [294498-mp3-towering-treetop.json](./294498-mp3-towering-treetop.json) |
+| MP3: TRG Land | 294499 | [294499-mp3-trg-land.json](./294499-mp3-trg-land.json) |
 | MP3: TRG Land Direct | 294760 | [294760-mp3-trg-land-direct.json](./294760-mp3-trg-land-direct.json) |
 | MP3: Yoshi's Galapagos | 294758 | [294758-mp3-yoshis-galapagos.json](./294758-mp3-yoshis-galapagos.json) |
 | MP5 | 201242 | [201242-mp5.json](./201242-mp5.json) |
