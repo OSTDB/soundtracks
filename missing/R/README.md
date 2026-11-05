@@ -4924,6 +4924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnants of a Beautiful Day | 94055 | [94055-remnants-of-a-beautiful-day.json](./94055-remnants-of-a-beautiful-day.json) |
 | Remnants of a Scare | 387611 | [387611-remnants-of-a-scare.json](./387611-remnants-of-a-scare.json) |
 | Remnants of Calandria | 325223 | [325223-remnants-of-calandria.json](./325223-remnants-of-calandria.json) |
+| Remnants of Dawn | 258273 | [258273-remnants-of-dawn.json](./258273-remnants-of-dawn.json) |
 | Remnants of Flesh | 322608 | [322608-remnants-of-flesh.json](./322608-remnants-of-flesh.json) |
 | Remnants of Isolation | 28032 | [28032-remnants-of-isolation.json](./28032-remnants-of-isolation.json) |
 | Remnants of Naezith | 29520 | [29520-remnants-of-naezith.json](./29520-remnants-of-naezith.json) |
