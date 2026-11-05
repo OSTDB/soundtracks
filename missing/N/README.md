@@ -5940,6 +5940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noblesse Oblige: Legacy of the Sorcerer Kings | 265577 | [265577-noblesse-oblige-legacy-of-the-sorcerer-kings.json](./265577-noblesse-oblige-legacy-of-the-sorcerer-kings.json) |
 | Nobodies: After Death | 190162 | [190162-nobodies-after-death.json](./190162-nobodies-after-death.json) |
 | Nobodies: Silent Blood | 310791 | [310791-nobodies-silent-blood.json](./310791-nobodies-silent-blood.json) |
+| Nobody | 268276 | [268276-nobody.json](./268276-nobody.json) |
 | Nobody Hears | 390992 | [390992-nobody-hears.json](./390992-nobody-hears.json) |
 | Nobody Knows | 93797 | [93797-nobody-knows.json](./93797-nobody-knows.json) |
 | Nobody Nowhere | 277339 | [277339-nobody-nowhere.json](./277339-nobody-nowhere.json) |
@@ -6895,6 +6896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nothing Goes Right: Bad Business | 412603 | [412603-nothing-goes-right-bad-business.json](./412603-nothing-goes-right-bad-business.json) |
 | Nothing Good Can Come Of This | 297161 | [297161-nothing-good-can-come-of-this.json](./297161-nothing-good-can-come-of-this.json) |
 | Nothing is Known: The Innocents | 364575 | [364575-nothing-is-known-the-innocents.json](./364575-nothing-is-known-the-innocents.json) |
+| Nothing Left: Give Up | 268278 | [268278-nothing-left-give-up.json](./268278-nothing-left-give-up.json) |
 | Nothing Strange Here | 352856 | [352856-nothing-strange-here.json](./352856-nothing-strange-here.json) |
 | Nothing to be done | 154096 | [154096-nothing-to-be-done.json](./154096-nothing-to-be-done.json) |
 | Nothing to Declare | 225067 | [225067-nothing-to-declare.json](./225067-nothing-to-declare.json) |
