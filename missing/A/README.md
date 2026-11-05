@@ -17375,6 +17375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avakin Life | 16756 | [16756-avakin-life.json](./16756-avakin-life.json) |
 | Avakin Life | 86966 | [86966-avakin-life.json](./86966-avakin-life.json) |
 | Avalan | 416943 | [416943-avalan.json](./416943-avalan.json) |
+| Avalanca | 250706 | [250706-avalanca.json](./250706-avalanca.json) |
 | Avalanche | 228674 | [228674-avalanche.json](./228674-avalanche.json) |
 | Avalanche | 370979 | [370979-avalanche.json](./370979-avalanche.json) |
 | Avalanche | 46840 | [46840-avalanche.json](./46840-avalanche.json) |
