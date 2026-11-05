@@ -6279,6 +6279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Age | 193661 | [193661-golden-age.json](./193661-golden-age.json) |
 | Golden Age of Racing | 10370 | [10370-golden-age-of-racing.json](./10370-golden-age-of-racing.json) |
 | Golden Apple | 298802 | [298802-golden-apple.json](./298802-golden-apple.json) |
+| Golden Arrow | 277647 | [277647-golden-arrow.json](./277647-golden-arrow.json) |
 | Golden Arrow | 367760 | [367760-golden-arrow.json](./367760-golden-arrow.json) |
 | Golden Axe | 279631 | [279631-golden-axe.json](./279631-golden-axe.json) |
 | Golden Axe | 305875 | [305875-golden-axe.json](./305875-golden-axe.json) |
@@ -7360,6 +7361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GP Challenge | 137890 | [137890-gp-challenge.json](./137890-gp-challenge.json) |
 | GP Club Life Motorsports Team | 315650 | [315650-gp-club-life-motorsports-team.json](./315650-gp-club-life-motorsports-team.json) |
 | GP Fight | 92311 | [92311-gp-fight.json](./92311-gp-fight.json) |
+| GP Race | 277642 | [277642-gp-race.json](./277642-gp-race.json) |
 | GP World | 6108 | [6108-gp-world.json](./6108-gp-world.json) |
 | GP-1 Part II | 42591 | [42591-gp-1-part-ii.json](./42591-gp-1-part-ii.json) |
 | Gpi | 171871 | [171871-gpi.json](./171871-gpi.json) |
@@ -8021,6 +8023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grasp of Dread | 303958 | [303958-grasp-of-dread.json](./303958-grasp-of-dread.json) |
 | Grass | 392682 | [392682-grass.json](./392682-grass.json) |
 | Grass Cut | 189917 | [189917-grass-cut.json](./189917-grass-cut.json) |
+| Grass Cutter | 277648 | [277648-grass-cutter.json](./277648-grass-cutter.json) |
 | Grass Cutter 9000: Director's Cut | 414763 | [414763-grass-cutter-9000-directors-cut.json](./414763-grass-cutter-9000-directors-cut.json) |
 | Grass Cutter: Mutated Lawns | 120257 | [120257-grass-cutter-mutated-lawns.json](./120257-grass-cutter-mutated-lawns.json) |
 | Grass Life Sim | 328450 | [328450-grass-life-sim.json](./328450-grass-life-sim.json) |
