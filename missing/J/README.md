@@ -2514,6 +2514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoJo's Bizarre Adventure: All Star Battle - Golden Experience Box | 298016 | [298016-jojos-bizarre-adventure-all-star-battle-golden-experience-box.json](./298016-jojos-bizarre-adventure-all-star-battle-golden-experience-box.json) |
 | JoJo's Bizarre Adventure: All Star Battle R - Digital Deluxe Edition | 218458 | [218458-jojos-bizarre-adventure-all-star-battle-r-digital-deluxe-edition.json](./218458-jojos-bizarre-adventure-all-star-battle-r-digital-deluxe-edition.json) |
 | JoJo’s Bizarre Adventure: All-Star Battle R | 194208 | [194208-jojo-s-bizarre-adventure-all-star-battle-r.json](./194208-jojo-s-bizarre-adventure-all-star-battle-r.json) |
+| JoJo's Bizarre Adventure: All-Star Battle R - Alternate World Diego | 253663 | [253663-jojos-bizarre-adventure-all-star-battle-r-alternate-world-diego.json](./253663-jojos-bizarre-adventure-all-star-battle-r-alternate-world-diego.json) |
 | JoJo's Bizarre Adventure: All-Star Battle R - Digital Deluxe Edition | 204756 | [204756-jojos-bizarre-adventure-all-star-battle-r-digital-deluxe-edition.json](./204756-jojos-bizarre-adventure-all-star-battle-r-digital-deluxe-edition.json) |
 | JoJo’s Bizarre Adventure: All-Star Battle R - Digital Ultimate Edition | 253229 | [253229-jojo-s-bizarre-adventure-all-star-battle-r-digital-ultimate-edition.json](./253229-jojo-s-bizarre-adventure-all-star-battle-r-digital-ultimate-edition.json) |
 | JoJo's Bizarre Adventure: All-Star Battle R - Keicho Nijimura | 242545 | [242545-jojos-bizarre-adventure-all-star-battle-r-keicho-nijimura.json](./242545-jojos-bizarre-adventure-all-star-battle-r-keicho-nijimura.json) |
@@ -2775,6 +2776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to the West | 195043 | [195043-journey-to-the-west.json](./195043-journey-to-the-west.json) |
 | Journey to the West | 274550 | [274550-journey-to-the-west.json](./274550-journey-to-the-west.json) |
 | Journey to the West | 392222 | [392222-journey-to-the-west.json](./392222-journey-to-the-west.json) |
+| Journey to the West Survivor | 253654 | [253654-journey-to-the-west-survivor.json](./253654-journey-to-the-west-survivor.json) |
 | Journey to the West: A Super Mario Bros. ROM Hack | 198467 | [198467-journey-to-the-west-a-super-mario-bros-rom-hack.json](./198467-journey-to-the-west-a-super-mario-bros-rom-hack.json) |
 | Journey to the West: Blade Souls | 286135 | [286135-journey-to-the-west-blade-souls.json](./286135-journey-to-the-west-blade-souls.json) |
 | Journey to the West: Dark Invasion | 309650 | [309650-journey-to-the-west-dark-invasion.json](./309650-journey-to-the-west-dark-invasion.json) |
