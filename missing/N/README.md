@@ -3977,6 +3977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nickelodeon Rugrats | 198878 | [198878-nickelodeon-rugrats.json](./198878-nickelodeon-rugrats.json) |
 | Nickelodeon Splat Pack | 368169 | [368169-nickelodeon-splat-pack.json](./368169-nickelodeon-splat-pack.json) |
 | Nickelodeon: All-Star Brawl 2 - Rocksteady Brawl Pack | 308825 | [308825-nickelodeon-all-star-brawl-2-rocksteady-brawl-pack.json](./308825-nickelodeon-all-star-brawl-2-rocksteady-brawl-pack.json) |
+| Nicki Minaj: The Empire | 266546 | [266546-nicki-minaj-the-empire.json](./266546-nicki-minaj-the-empire.json) |
 | NickProject | 88142 | [88142-nickproject.json](./88142-nickproject.json) |
 | Nicktoons | 220098 | [220098-nicktoons.json](./220098-nicktoons.json) |
 | Nicktoons & The Dice of Destiny | 347647 | [347647-nicktoons-and-the-dice-of-destiny.json](./347647-nicktoons-and-the-dice-of-destiny.json) |
