@@ -2174,6 +2174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness Ritual: Impasse | 289793 | [289793-darkness-ritual-impasse.json](./289793-darkness-ritual-impasse.json) |
 | Darkness Road | 262206 | [262206-darkness-road.json](./262206-darkness-road.json) |
 | Darkness Rollercoaster: Ultimate Shooter Edition | 118682 | [118682-darkness-rollercoaster-ultimate-shooter-edition.json](./118682-darkness-rollercoaster-ultimate-shooter-edition.json) |
+| Darkness Saga | 263857 | [263857-darkness-saga.json](./263857-darkness-saga.json) |
 | Darkness Shooter | 164225 | [164225-darkness-shooter.json](./164225-darkness-shooter.json) |
 | Darkness Suppressor: Onna Taimashi no Inbu | 97748 | [97748-darkness-suppressor-onna-taimashi-no-inbu.json](./97748-darkness-suppressor-onna-taimashi-no-inbu.json) |
 | Darkness Trap: Purify Old Sins | 134440 | [134440-darkness-trap-purify-old-sins.json](./134440-darkness-trap-purify-old-sins.json) |
@@ -9158,6 +9159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension of the Diminished | 271723 | [271723-dimension-of-the-diminished.json](./271723-dimension-of-the-diminished.json) |
 | Dimension of the Doomed | 271531 | [271531-dimension-of-the-doomed.json](./271531-dimension-of-the-doomed.json) |
 | Dimension of Void | 142646 | [142646-dimension-of-void.json](./142646-dimension-of-void.json) |
+| Dimension Omega | 263818 | [263818-dimension-omega.json](./263818-dimension-omega.json) |
 | Dimension Painter | 256183 | [256183-dimension-painter.json](./256183-dimension-painter.json) |
 | Dimension Pirates | 304505 | [304505-dimension-pirates.json](./304505-dimension-pirates.json) |
 | Dimension Ranger | 349330 | [349330-dimension-ranger.json](./349330-dimension-ranger.json) |
@@ -10803,6 +10805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Right | 175240 | [175240-divine-right.json](./175240-divine-right.json) |
 | Divine Rush | 295638 | [295638-divine-rush.json](./295638-divine-rush.json) |
 | Divine Sealing | 4505 | [4505-divine-sealing.json](./4505-divine-sealing.json) |
+| Divine Shock | 263817 | [263817-divine-shock.json](./263817-divine-shock.json) |
 | Divine Sin | 373151 | [373151-divine-sin.json](./373151-divine-sin.json) |
 | Divine Slice of Life | 22215 | [22215-divine-slice-of-life.json](./22215-divine-slice-of-life.json) |
 | Divine Souls | 36303 | [36303-divine-souls.json](./36303-divine-souls.json) |
@@ -15171,6 +15174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drak | 72148 | [72148-drak.json](./72148-drak.json) |
 | Drak(c)ula | 298682 | [298682-drak-c-ula.json](./298682-drak-c-ula.json) |
 | Drakan: Order of the Flame | 7576 | [7576-drakan-order-of-the-flame.json](./7576-drakan-order-of-the-flame.json) |
+| Drakantos | 263816 | [263816-drakantos.json](./263816-drakantos.json) |
 | Drake | 134654 | [134654-drake.json](./134654-drake.json) |
 | Drake | 217467 | [217467-drake.json](./217467-drake.json) |
 | Drake & Josh | 6385 | [6385-drake-and-josh.json](./6385-drake-and-josh.json) |
