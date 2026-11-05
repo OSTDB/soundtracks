@@ -216,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vagrus: The Riven Realms - Sunfire and Moonshadow | 249803 | [249803-vagrus-the-riven-realms-sunfire-and-moonshadow.json](./249803-vagrus-the-riven-realms-sunfire-and-moonshadow.json) |
 | Vagrus: The Riven Realms - Vorax | 200435 | [200435-vagrus-the-riven-realms-vorax.json](./200435-vagrus-the-riven-realms-vorax.json) |
 | Vagrus: The Riven Realms Season Pass | 276283 | [276283-vagrus-the-riven-realms-season-pass.json](./276283-vagrus-the-riven-realms-season-pass.json) |
+| Vague | 274809 | [274809-vague.json](./274809-vague.json) |
 | Vahnora | 403128 | [403128-vahnora.json](./403128-vahnora.json) |
 | Vai Juliette! | 248758 | [248758-vai-juliette.json](./248758-vai-juliette.json) |
 | Vail | 142985 | [142985-vail.json](./142985-vail.json) |
@@ -3423,6 +3424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volgarr the Viking II | 304741 | [304741-volgarr-the-viking-ii.json](./304741-volgarr-the-viking-ii.json) |
 | Volguard | 85934 | [85934-volguard.json](./85934-volguard.json) |
 | Volguard II | 48551 | [48551-volguard-ii.json](./48551-volguard-ii.json) |
+| Volkolak: The Will of Gods | 274802 | [274802-volkolak-the-will-of-gods.json](./274802-volkolak-the-will-of-gods.json) |
 | Volkstein | 90150 | [90150-volkstein.json](./90150-volkstein.json) |
 | Vollema | 289911 | [289911-vollema.json](./289911-vollema.json) |
 | Vollemental | 318332 | [318332-vollemental.json](./318332-vollemental.json) |
