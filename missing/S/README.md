@@ -5348,6 +5348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Princess | 208707 | [208707-sengoku-princess.json](./208707-sengoku-princess.json) |
 | Sengoku Rance | 37138 | [37138-sengoku-rance.json](./37138-sengoku-rance.json) |
 | Sengoku Rance: Limited Edition | 185689 | [185689-sengoku-rance-limited-edition.json](./185689-sengoku-rance-limited-edition.json) |
+| Sengoku Rance: Sanbiki ga Kittari Tsuitari Moyashitari - Slash! Thrust! Burn! | 259312 | [259312-sengoku-rance-sanbiki-ga-kittari-tsuitari-moyashitari-slash-thrust-burn.json](./259312-sengoku-rance-sanbiki-ga-kittari-tsuitari-moyashitari-slash-thrust-burn.json) |
 | Sengoku Taisen | 393579 | [393579-sengoku-taisen.json](./393579-sengoku-taisen.json) |
 | Sengoku Tenka Touitsu | 69195 | [69195-sengoku-tenka-touitsu.json](./69195-sengoku-tenka-touitsu.json) |
 | Sengoku Turb | 246940 | [246940-sengoku-turb.json](./246940-sengoku-turb.json) |
@@ -13882,6 +13883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SM64 The Green Stars | 132830 | [132830-sm64-the-green-stars.json](./132830-sm64-the-green-stars.json) |
 | SM64 The Green Stars PC | 308446 | [308446-sm64-the-green-stars-pc.json](./308446-sm64-the-green-stars-pc.json) |
 | SM64 TsucnenT's Treasures PC Port | 378273 | [378273-sm64-tsucnents-treasures-pc-port.json](./378273-sm64-tsucnents-treasures-pc-port.json) |
+| SM64: Beyond the Cursed Mirror | 259345 | [259345-sm64-beyond-the-cursed-mirror.json](./259345-sm64-beyond-the-cursed-mirror.json) |
 | SM64: Decades Later | 294611 | [294611-sm64-decades-later.json](./294611-sm64-decades-later.json) |
 | SM64: Last Impact | 132725 | [132725-sm64-last-impact.json](./132725-sm64-last-impact.json) |
 | SM64: Rocky Mountain Revisited | 256295 | [256295-sm64-rocky-mountain-revisited.json](./256295-sm64-rocky-mountain-revisited.json) |
@@ -32806,6 +32808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Wakana Land | 275567 | [275567-super-wakana-land.json](./275567-super-wakana-land.json) |
 | Super Walrus Entertainment System | 156630 | [156630-super-walrus-entertainment-system.json](./156630-super-walrus-entertainment-system.json) |
 | Super Waluigi: Rescue Wario | 424591 | [424591-super-waluigi-rescue-wario.json](./424591-super-waluigi-rescue-wario.json) |
+| Super Wario & The World of Wirio | 259360 | [259360-super-wario-and-the-world-of-wirio.json](./259360-super-wario-and-the-world-of-wirio.json) |
 | Super Wash Simulator | 391040 | [391040-super-wash-simulator.json](./391040-super-wash-simulator.json) |
 | Super Weapon Master | 213044 | [213044-super-weapon-master.json](./213044-super-weapon-master.json) |
 | Super Weekend Mode | 96642 | [96642-super-weekend-mode.json](./96642-super-weekend-mode.json) |
