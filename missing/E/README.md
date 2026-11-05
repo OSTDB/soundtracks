@@ -1953,6 +1953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldarya | 46949 | [46949-eldarya.json](./46949-eldarya.json) |
 | Eldegarde | 304346 | [304346-eldegarde.json](./304346-eldegarde.json) |
 | Elden Bling | 238532 | [238532-elden-bling.json](./238532-elden-bling.json) |
+| Elden Gunfire | 286346 | [286346-elden-gunfire.json](./286346-elden-gunfire.json) |
 | Elden Gunfire 2 | 293187 | [293187-elden-gunfire-2.json](./293187-elden-gunfire-2.json) |
 | Elden Ring GB | 206519 | [206519-elden-ring-gb.json](./206519-elden-ring-gb.json) |
 | Elden Ring Nightreign - The Forsaken Hollows | 377238 | [377238-elden-ring-nightreign-the-forsaken-hollows.json](./377238-elden-ring-nightreign-the-forsaken-hollows.json) |
@@ -3306,6 +3307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empty War | 197485 | [197485-empty-war.json](./197485-empty-war.json) |
 | Empty World | 365768 | [365768-empty-world.json](./365768-empty-world.json) |
 | Empty. | 134449 | [134449-empty.json](./134449-empty.json) |
+| Empty₁: First-Person Adventure | 286335 | [286335-empty1-first-person-adventure.json](./286335-empty1-first-person-adventure.json) |
 | Empulse | 402471 | [402471-empulse.json](./402471-empulse.json) |
 | Empyre: Dukes of the Far Frontier | 198555 | [198555-empyre-dukes-of-the-far-frontier.json](./198555-empyre-dukes-of-the-far-frontier.json) |
 | Empyreal | 324588 | [324588-empyreal.json](./324588-empyreal.json) |
@@ -4062,6 +4064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enlisted: Fedorov MG Squad | 293772 | [293772-enlisted-fedorov-mg-squad.json](./293772-enlisted-fedorov-mg-squad.json) |
 | Enlisted: M3A1 Squad | 293771 | [293771-enlisted-m3a1-squad.json](./293771-enlisted-m3a1-squad.json) |
 | Enlisted: Nambu Type 1 Squad | 293767 | [293767-enlisted-nambu-type-1-squad.json](./293767-enlisted-nambu-type-1-squad.json) |
+| Enlisted: Reinforced | 286339 | [286339-enlisted-reinforced.json](./286339-enlisted-reinforced.json) |
 | Enlisted: Reinforced - Advanced Pack | 295119 | [295119-enlisted-reinforced-advanced-pack.json](./295119-enlisted-reinforced-advanced-pack.json) |
 | Enlisted: Reinforced - Deluxe Pack | 295120 | [295120-enlisted-reinforced-deluxe-pack.json](./295120-enlisted-reinforced-deluxe-pack.json) |
 | Enlisted: Sherman IC "Firefly" Squad | 293770 | [293770-enlisted-sherman-ic-firefly-squad.json](./293770-enlisted-sherman-ic-firefly-squad.json) |
@@ -7580,12 +7583,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exoprimal: Deadeye QB-W Set | 256547 | [256547-exoprimal-deadeye-qb-w-set.json](./256547-exoprimal-deadeye-qb-w-set.json) |
 | Exoprimal: Deluxe Edition | 256742 | [256742-exoprimal-deluxe-edition.json](./256742-exoprimal-deluxe-edition.json) |
 | Exoprimal: Egret (Skywave) | 409072 | [409072-exoprimal-egret-skywave.json](./409072-exoprimal-egret-skywave.json) |
+| Exoprimal: Exoprimal Survival Pass Season 3 - Premium Tier | 286249 | [286249-exoprimal-exoprimal-survival-pass-season-3-premium-tier.json](./286249-exoprimal-exoprimal-survival-pass-season-3-premium-tier.json) |
 | Exoprimal: Famitsu Decal | 409073 | [409073-exoprimal-famitsu-decal.json](./409073-exoprimal-famitsu-decal.json) |
 | Exoprimal: Krieger - Patrol Car | 332616 | [332616-exoprimal-krieger-patrol-car.json](./332616-exoprimal-krieger-patrol-car.json) |
 | Exoprimal: Krieger Alpha Tin Machine Set | 298328 | [298328-exoprimal-krieger-alpha-tin-machine-set.json](./298328-exoprimal-krieger-alpha-tin-machine-set.json) |
 | Exoprimal: Krieger Mega Man Set | 298332 | [298332-exoprimal-krieger-mega-man-set.json](./298332-exoprimal-krieger-mega-man-set.json) |
 | Exoprimal: Murasame Alpha Gladiator Set | 298331 | [298331-exoprimal-murasame-alpha-gladiator-set.json](./298331-exoprimal-murasame-alpha-gladiator-set.json) |
 | Exoprimal: Nimbus Alpha Kimen Set | 298327 | [298327-exoprimal-nimbus-alpha-kimen-set.json](./298327-exoprimal-nimbus-alpha-kimen-set.json) |
+| Exoprimal: Roadblock Alpha Big Bunny Set | 286248 | [286248-exoprimal-roadblock-alpha-big-bunny-set.json](./286248-exoprimal-roadblock-alpha-big-bunny-set.json) |
 | Exoprimal: Roadblock Tragic Monster Set | 256549 | [256549-exoprimal-roadblock-tragic-monster-set.json](./256549-exoprimal-roadblock-tragic-monster-set.json) |
 | Exoprimal: Season 3 | 295253 | [295253-exoprimal-season-3.json](./295253-exoprimal-season-3.json) |
 | Exoprimal: Season 4 | 295254 | [295254-exoprimal-season-4.json](./295254-exoprimal-season-4.json) |
