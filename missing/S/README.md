@@ -1615,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandy's Surf Adventure | 245703 | [245703-sandys-surf-adventure.json](./245703-sandys-surf-adventure.json) |
 | Sanechek: Lost Coins | 340666 | [340666-sanechek-lost-coins.json](./340666-sanechek-lost-coins.json) |
 | Sanevol Incident 44 | 285397 | [285397-sanevol-incident-44.json](./285397-sanevol-incident-44.json) |
+| Sanfu | 278786 | [278786-sanfu.json](./278786-sanfu.json) |
 | Sang-Froid: Tales of Werewolves | 5446 | [5446-sang-froid-tales-of-werewolves.json](./5446-sang-froid-tales-of-werewolves.json) |
 | Sangeki wo Kuzuse! | 97674 | [97674-sangeki-wo-kuzuse.json](./97674-sangeki-wo-kuzuse.json) |
 | Sango 2 | 24748 | [24748-sango-2.json](./24748-sango-2.json) |
@@ -8235,6 +8236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shine Runner | 21621 | [21621-shine-runner.json](./21621-shine-runner.json) |
 | Shine Within | 168334 | [168334-shine-within.json](./168334-shine-within.json) |
 | Shine: Journey of Light | 132017 | [132017-shine-journey-of-light.json](./132017-shine-journey-of-light.json) |
+| Shine: Kotoba wo Tsumuide | 278774 | [278774-shine-kotoba-wo-tsumuide.json](./278774-shine-kotoba-wo-tsumuide.json) |
 | Shine's Adventures 0: Zombies Reload | 171408 | [171408-shines-adventures-0-zombies-reload.json](./171408-shines-adventures-0-zombies-reload.json) |
 | Shine's Adventures 2 (Zombie Attack) | 120372 | [120372-shines-adventures-2-zombie-attack.json](./120372-shines-adventures-2-zombie-attack.json) |
 | Shine's Adventures 3 (Sea Fight) | 127811 | [127811-shines-adventures-3-sea-fight.json](./127811-shines-adventures-3-sea-fight.json) |
@@ -15251,6 +15253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowman Legend | 56835 | [56835-snowman-legend.json](./56835-snowman-legend.json) |
 | Snowman Mo | 333154 | [333154-snowman-mo.json](./333154-snowman-mo.json) |
 | Snowman Saves Christmas | 169853 | [169853-snowman-saves-christmas.json](./169853-snowman-saves-christmas.json) |
+| Snowman Story | 278788 | [278788-snowman-story.json](./278788-snowman-story.json) |
 | Snowman's Dilemma | 70604 | [70604-snowmans-dilemma.json](./70604-snowmans-dilemma.json) |
 | Snowman's Land | 308234 | [308234-snowmans-land.json](./308234-snowmans-land.json) |
 | Snowmania | 81708 | [81708-snowmania.json](./81708-snowmania.json) |
@@ -17710,6 +17713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic.EXE One Last Round | 307226 | [307226-sonic-exe-one-last-round.json](./307226-sonic-exe-one-last-round.json) |
 | Sonic.exe Plus! | 412839 | [412839-sonic-exe-plus.json](./412839-sonic-exe-plus.json) |
 | Sonic.Exe The Destiny | 360307 | [360307-sonic-exe-the-destiny.json](./360307-sonic-exe-the-destiny.json) |
+| Sonic.exe The Disaster 2D Remake | 278760 | [278760-sonic-exe-the-disaster-2d-remake.json](./278760-sonic-exe-the-disaster-2d-remake.json) |
 | Sonic.exe: Dark Souls | 369107 | [369107-sonic-exe-dark-souls.json](./369107-sonic-exe-dark-souls.json) |
 | Sonic.exe: Dark Souls Remake | 369098 | [369098-sonic-exe-dark-souls-remake.json](./369098-sonic-exe-dark-souls-remake.json) |
 | Sonic.EXE: The Assault | 321068 | [321068-sonic-exe-the-assault.json](./321068-sonic-exe-the-assault.json) |
@@ -23830,6 +23834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Tap | 54540 | [54540-star-tap.json](./54540-star-tap.json) |
 | Star Tetrinomino | 198048 | [198048-star-tetrinomino.json](./198048-star-tetrinomino.json) |
 | Star Thief | 110928 | [110928-star-thief.json](./110928-star-thief.json) |
+| Star Thief | 278782 | [278782-star-thief.json](./278782-star-thief.json) |
 | Star Thunder | 114703 | [114703-star-thunder.json](./114703-star-thunder.json) |
 | Star Tower | 101267 | [101267-star-tower.json](./101267-star-tower.json) |
 | Star Tower | 373537 | [373537-star-tower.json](./373537-star-tower.json) |
@@ -27186,6 +27191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray Cat Crossing | 21641 | [21641-stray-cat-crossing.json](./21641-stray-cat-crossing.json) |
 | Stray Cat Doors | 95811 | [95811-stray-cat-doors.json](./95811-stray-cat-doors.json) |
 | Stray Cat Doors 2 | 135435 | [135435-stray-cat-doors-2.json](./135435-stray-cat-doors-2.json) |
+| Stray Cat Doors 3 | 278796 | [278796-stray-cat-doors-3.json](./278796-stray-cat-doors-3.json) |
 | Stray Cat Simulator | 87334 | [87334-stray-cat-simulator.json](./87334-stray-cat-simulator.json) |
 | Stray Cats in Cozy Town: Night Lights | 312994 | [312994-stray-cats-in-cozy-town-night-lights.json](./312994-stray-cats-in-cozy-town-night-lights.json) |
 | Stray Children | 266692 | [266692-stray-children.json](./266692-stray-children.json) |
@@ -30911,6 +30917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64 1.5 Ztar Attack! | 135230 | [135230-super-mario-64-1-5-ztar-attack.json](./135230-super-mario-64-1-5-ztar-attack.json) |
 | Super Mario 64 2 | 175964 | [175964-super-mario-64-2.json](./175964-super-mario-64-2.json) |
 | Super Mario 64 3D World | 135228 | [135228-super-mario-64-3d-world.json](./135228-super-mario-64-3d-world.json) |
+| Super Mario 64 3DS Port | 278759 | [278759-super-mario-64-3ds-port.json](./278759-super-mario-64-3ds-port.json) |
 | Super Mario 64 Android Port | 307315 | [307315-super-mario-64-android-port.json](./307315-super-mario-64-android-port.json) |
 | Super Mario 64 Another Castle | 265238 | [265238-super-mario-64-another-castle.json](./265238-super-mario-64-another-castle.json) |
 | Super Mario 64 Chaos Edition | 132836 | [132836-super-mario-64-chaos-edition.json](./132836-super-mario-64-chaos-edition.json) |
@@ -32614,6 +32621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Vadimka VI: A Terrible Threat there is No Vadimka | 224769 | [224769-super-vadimka-vi-a-terrible-threat-there-is-no-vadimka.json](./224769-super-vadimka-vi-a-terrible-threat-there-is-no-vadimka.json) |
 | Super Vadimka VII: The Nightmares of The Current Continue | 228302 | [228302-super-vadimka-vii-the-nightmares-of-the-current-continue.json](./228302-super-vadimka-vii-the-nightmares-of-the-current-continue.json) |
 | Super Vadimka X | 241221 | [241221-super-vadimka-x.json](./241221-super-vadimka-x.json) |
+| Super Valis IV | 278812 | [278812-super-valis-iv.json](./278812-super-valis-iv.json) |
 | Super Valis IV | 38411 | [38411-super-valis-iv.json](./38411-super-valis-iv.json) |
 | Super Vampire Hunter | 184708 | [184708-super-vampire-hunter.json](./184708-super-vampire-hunter.json) |
 | Super Vampire Ninja Zero | 159013 | [159013-super-vampire-ninja-zero.json](./159013-super-vampire-ninja-zero.json) |
