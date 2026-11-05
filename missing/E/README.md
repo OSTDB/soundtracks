@@ -4312,6 +4312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EOS-503 | 256991 | [256991-eos-503.json](./256991-eos-503.json) |
 | EOS: Edge of Skyhigh | 43798 | [43798-eos-edge-of-skyhigh.json](./43798-eos-edge-of-skyhigh.json) |
 | eOthello | 277283 | [277283-eothello.json](./277283-eothello.json) |
+| Ep. Kazoku | 266005 | [266005-ep-kazoku.json](./266005-ep-kazoku.json) |
 | Ep3 | 229588 | [229588-ep3.json](./229588-ep3.json) |
 | Epanalepsis | 11425 | [11425-epanalepsis.json](./11425-epanalepsis.json) |
 | Epejsodion Dodgeball Attack | 172323 | [172323-epejsodion-dodgeball-attack.json](./172323-epejsodion-dodgeball-attack.json) |
