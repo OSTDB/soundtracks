@@ -426,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Luv House Pets | 210081 | [210081-i-luv-house-pets.json](./210081-i-luv-house-pets.json) |
 | I made a ... | 158368 | [158368-i-made-a.json](./158368-i-made-a.json) |
 | I Made A Contract with 3 Cute Devils?! | 206949 | [206949-i-made-a-contract-with-3-cute-devils.json](./206949-i-made-a-contract-with-3-cute-devils.json) |
+| I Made a Femboy Squirt! | 296563 | [296563-i-made-a-femboy-squirt.json](./296563-i-made-a-femboy-squirt.json) |
 | I Made a Game with Zombies in It! | 94033 | [94033-i-made-a-game-with-zombies-in-it.json](./94033-i-made-a-game-with-zombies-in-it.json) |
 | I Made Her Up | 374673 | [374673-i-made-her-up.json](./374673-i-made-her-up.json) |
 | I Made Myself a Ship | 306279 | [306279-i-made-myself-a-ship.json](./306279-i-made-myself-a-ship.json) |
@@ -2530,6 +2531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperial Glory | 9059 | [9059-imperial-glory.json](./9059-imperial-glory.json) |
 | Imperial Grace | 159717 | [159717-imperial-grace.json](./159717-imperial-grace.json) |
 | Imperial Hero | 58747 | [58747-imperial-hero.json](./58747-imperial-hero.json) |
+| Imperial Island 3: Expansion | 296536 | [296536-imperial-island-3-expansion.json](./296536-imperial-island-3-expansion.json) |
 | Imperial Island 5: Ski Resort | 294858 | [294858-imperial-island-5-ski-resort.json](./294858-imperial-island-5-ski-resort.json) |
 | Imperial Kingdoms | 391765 | [391765-imperial-kingdoms.json](./391765-imperial-kingdoms.json) |
 | Imperial Knights | 412770 | [412770-imperial-knights.json](./412770-imperial-knights.json) |
@@ -3737,7 +3739,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4122,6 +4123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inkblood | 380440 | [380440-inkblood.json](./380440-inkblood.json) |
 | Inkborn | 424638 | [424638-inkborn.json](./424638-inkborn.json) |
 | Inkbound | 205955 | [205955-inkbound.json](./205955-inkbound.json) |
+| Inkbound: Supporter Pack - Rise of the Unbound | 296570 | [296570-inkbound-supporter-pack-rise-of-the-unbound.json](./296570-inkbound-supporter-pack-rise-of-the-unbound.json) |
 | Inkbound: Supporter Pack - The Starship of Terrors | 272968 | [272968-inkbound-supporter-pack-the-starship-of-terrors.json](./272968-inkbound-supporter-pack-the-starship-of-terrors.json) |
 | Inkbowser.exe | 283097 | [283097-inkbowser-exe.json](./283097-inkbowser-exe.json) |
 | Inked | 96278 | [96278-inked.json](./96278-inked.json) |
