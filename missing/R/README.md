@@ -989,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid on Rift | 310806 | [310806-raid-on-rift.json](./310806-raid-on-rift.json) |
 | Raid on the Ruhr | 116248 | [116248-raid-on-the-ruhr.json](./116248-raid-on-the-ruhr.json) |
 | Raid on Tri City | 306721 | [306721-raid-on-tri-city.json](./306721-raid-on-tri-city.json) |
+| Raid on Tri City: Second Wave | 289129 | [289129-raid-on-tri-city-second-wave.json](./289129-raid-on-tri-city-second-wave.json) |
 | Raid over Moscow | 18168 | [18168-raid-over-moscow.json](./18168-raid-over-moscow.json) |
 | Raid over Moscow | 251636 | [251636-raid-over-moscow.json](./251636-raid-over-moscow.json) |
 | Raid Rush | 355014 | [355014-raid-rush.json](./355014-raid-rush.json) |
@@ -1089,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail of Möbius | 147810 | [147810-rail-of-mobius.json](./147810-rail-of-mobius.json) |
 | Rail Racers | 9252 | [9252-rail-racers.json](./9252-rail-racers.json) |
 | Rail Racing | 174215 | [174215-rail-racing.json](./174215-rail-racing.json) |
+| Rail Rampage | 289128 | [289128-rail-rampage.json](./289128-rail-rampage.json) |
 | Rail Rescue | 380831 | [380831-rail-rescue.json](./380831-rail-rescue.json) |
 | Rail Rescue: Puzzle Lines - Challenge Track | 393899 | [393899-rail-rescue-puzzle-lines-challenge-track.json](./393899-rail-rescue-puzzle-lines-challenge-track.json) |
 | Rail Rescue: Puzzle Lines - Quest Track | 393900 | [393900-rail-rescue-puzzle-lines-quest-track.json](./393900-rail-rescue-puzzle-lines-quest-track.json) |
@@ -8218,6 +8220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Builder | 172994 | [172994-road-builder.json](./172994-road-builder.json) |
 | Road Burners | 373474 | [373474-road-burners.json](./373474-road-burners.json) |
 | Road Bustle 2 | 254636 | [254636-road-bustle-2.json](./254636-road-bustle-2.json) |
+| Road Bustle Online | 289157 | [289157-road-bustle-online.json](./289157-road-bustle-online.json) |
 | Road Cafe Simulator | 351028 | [351028-road-cafe-simulator.json](./351028-road-cafe-simulator.json) |
 | Road Cards | 187880 | [187880-road-cards.json](./187880-road-cards.json) |
 | Road Champion | 39309 | [39309-road-champion.json](./39309-road-champion.json) |
