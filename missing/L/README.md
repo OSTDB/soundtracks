@@ -2654,6 +2654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Five Rings | 80587 | [80587-legend-of-the-five-rings.json](./80587-legend-of-the-five-rings.json) |
 | Legend of the Forest: Bigfoot | 101045 | [101045-legend-of-the-forest-bigfoot.json](./101045-legend-of-the-forest-bigfoot.json) |
 | Legend of the Guardians: The Owls of Ga'Hoole | 4968 | [4968-legend-of-the-guardians-the-owls-of-gahoole.json](./4968-legend-of-the-guardians-the-owls-of-gahoole.json) |
+| Legend of the Hidden Tech | 257173 | [257173-legend-of-the-hidden-tech.json](./257173-legend-of-the-hidden-tech.json) |
 | Legend of the Holy Sword | 340910 | [340910-legend-of-the-holy-sword.json](./340910-legend-of-the-holy-sword.json) |
 | Legend of the Hunter: House of Dragons | 313221 | [313221-legend-of-the-hunter-house-of-dragons.json](./313221-legend-of-the-hunter-house-of-dragons.json) |
 | Legend of the Kitties: Return of Echoes | 332355 | [332355-legend-of-the-kitties-return-of-echoes.json](./332355-legend-of-the-kitties-return-of-echoes.json) |
@@ -5083,6 +5084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lily's Well | 186311 | [186311-lilys-well.json](./186311-lilys-well.json) |
 | Lilycle Rainbow Stage!!! | 115310 | [115310-lilycle-rainbow-stage.json](./115310-lilycle-rainbow-stage.json) |
 | LilyDeux: Black Lily Warning | 129698 | [129698-lilydeux-black-lily-warning.json](./129698-lilydeux-black-lily-warning.json) |
+| Lilywhite Lilith | 257175 | [257175-lilywhite-lilith.json](./257175-lilywhite-lilith.json) |
 | Lim | 62989 | [62989-lim.json](./62989-lim.json) |
 | LiM Balls: Every Second Counts | 329210 | [329210-lim-balls-every-second-counts.json](./329210-lim-balls-every-second-counts.json) |
 | Lim Beyond One-on-One Basketball | 254782 | [254782-lim-beyond-one-on-one-basketball.json](./254782-lim-beyond-one-on-one-basketball.json) |
