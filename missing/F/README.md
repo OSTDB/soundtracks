@@ -8247,6 +8247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluid SE | 197645 | [197645-fluid-se.json](./197645-fluid-se.json) |
 | Fluid Simulation | 123498 | [123498-fluid-simulation.json](./123498-fluid-simulation.json) |
 | Fluid-Kha | 138681 | [138681-fluid-kha.json](./138681-fluid-kha.json) |
+| Fluida | 291814 | [291814-fluida.json](./291814-fluida.json) |
 | Fluidity | 21169 | [21169-fluidity.json](./21169-fluidity.json) |
 | Fluidity: Spin Cycle | 20088 | [20088-fluidity-spin-cycle.json](./20088-fluidity-spin-cycle.json) |
 | Flunkerne: Kaos og Kalypso | 131864 | [131864-flunkerne-kaos-og-kalypso.json](./131864-flunkerne-kaos-og-kalypso.json) |
