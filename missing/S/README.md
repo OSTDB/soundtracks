@@ -15821,6 +15821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SokoMatch: Lizard Saga | 152722 | [152722-sokomatch-lizard-saga.json](./152722-sokomatch-lizard-saga.json) |
 | SokoMelody | 236956 | [236956-sokomelody.json](./236956-sokomelody.json) |
 | Sokomine | 368039 | [368039-sokomine.json](./368039-sokomine.json) |
+| Sokomini | 282380 | [282380-sokomini.json](./282380-sokomini.json) |
 | Sokomonster + Sokolab + Feed Your Cat | 335101 | [335101-sokomonster-sokolab-feed-your-cat.json](./335101-sokomonster-sokolab-feed-your-cat.json) |
 | Sokonashi No Me | 370883 | [370883-sokonashi-no-me.json](./370883-sokonashi-no-me.json) |
 | SokoNature | 324666 | [324666-sokonature.json](./324666-sokonature.json) |
@@ -16871,6 +16872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic and the Secret Rings | 5167 | [5167-sonic-and-the-secret-rings.json](./5167-sonic-and-the-secret-rings.json) |
 | Sonic and the Sunken Temple | 326159 | [326159-sonic-and-the-sunken-temple.json](./326159-sonic-and-the-sunken-temple.json) |
 | Sonic and the World Rings | 331982 | [331982-sonic-and-the-world-rings.json](./331982-sonic-and-the-world-rings.json) |
+| Sonic Arena | 282366 | [282366-sonic-arena.json](./282366-sonic-arena.json) |
 | Sonic Arena | 331867 | [331867-sonic-arena.json](./331867-sonic-arena.json) |
 | Sonic Arena 2 | 331868 | [331868-sonic-arena-2.json](./331868-sonic-arena-2.json) |
 | Sonic Arena 3 | 332260 | [332260-sonic-arena-3.json](./332260-sonic-arena-3.json) |
@@ -19167,6 +19169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -26527,6 +26530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stoneman's Adventure | 256725 | [256725-stonemans-adventure.json](./256725-stonemans-adventure.json) |
 | Stonerid | 9880 | [9880-stonerid.json](./9880-stonerid.json) |
 | Stonerill | 370161 | [370161-stonerill.json](./370161-stonerill.json) |
+| Stones | 282401 | [282401-stones.json](./282401-stones.json) |
 | Stones Keeper: Director's Cut | 419645 | [419645-stones-keeper-directors-cut.json](./419645-stones-keeper-directors-cut.json) |
 | Stones Keeper: King Aurelius | 212863 | [212863-stones-keeper-king-aurelius.json](./212863-stones-keeper-king-aurelius.json) |
 | Stones of Harlath | 152747 | [152747-stones-of-harlath.json](./152747-stones-of-harlath.json) |
@@ -32084,6 +32088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Skelly Belly | 184929 | [184929-super-skelly-belly.json](./184929-super-skelly-belly.json) |
 | Super Sketch | 283010 | [283010-super-sketch.json](./283010-super-sketch.json) |
 | Super Sketch Bob | 121920 | [121920-super-sketch-bob.json](./121920-super-sketch-bob.json) |
+| Super Sketcher | 282409 | [282409-super-sketcher.json](./282409-super-sketcher.json) |
 | Super Sketchy Party | 167294 | [167294-super-sketchy-party.json](./167294-super-sketchy-party.json) |
 | Super Skidmarks Data Disks | 78315 | [78315-super-skidmarks-data-disks.json](./78315-super-skidmarks-data-disks.json) |
 | Super Skull Smash GO! | 63924 | [63924-super-skull-smash-go.json](./63924-super-skull-smash-go.json) |
