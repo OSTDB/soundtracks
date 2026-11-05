@@ -4753,6 +4753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathtouch | 356559 | [356559-deathtouch.json](./356559-deathtouch.json) |
 | DeathTower | 302472 | [302472-deathtower.json](./302472-deathtower.json) |
 | DeathTrack | 50148 | [50148-deathtrack.json](./50148-deathtrack.json) |
+| DeathTrap | 249528 | [249528-deathtrap.json](./249528-deathtrap.json) |
 | Deathtrap Dungeon | 8470 | [8470-deathtrap-dungeon.json](./8470-deathtrap-dungeon.json) |
 | Deathtrap Dungeon Trilogy | 126494 | [126494-deathtrap-dungeon-trilogy.json](./126494-deathtrap-dungeon-trilogy.json) |
 | Deathtrap Dungeon: The Interactive Video Adventure | 129936 | [129936-deathtrap-dungeon-the-interactive-video-adventure.json](./129936-deathtrap-dungeon-the-interactive-video-adventure.json) |
@@ -8797,6 +8798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Dan Dig! | 414692 | [414692-dig-dan-dig.json](./414692-dig-dan-dig.json) |
 | Dig Deep | 208732 | [208732-dig-deep.json](./208732-dig-deep.json) |
 | Dig Deep: Chunky Pets | 246881 | [246881-dig-deep-chunky-pets.json](./246881-dig-deep-chunky-pets.json) |
+| Dig Deep: Complete Edition | 249578 | [249578-dig-deep-complete-edition.json](./249578-dig-deep-complete-edition.json) |
 | Dig Deep: Race to the Core! | 150895 | [150895-dig-deep-race-to-the-core.json](./150895-dig-deep-race-to-the-core.json) |
 | Dig Deeper | 358464 | [358464-dig-deeper.json](./358464-dig-deeper.json) |
 | Dig Dig Boom | 235417 | [235417-dig-dig-boom.json](./235417-dig-dig-boom.json) |
@@ -11266,6 +11268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: Black Hole | 249293 | [249293-doctor-who-black-hole.json](./249293-doctor-who-black-hole.json) |
 | Doctor Who: Clockwork Quest | 249389 | [249389-doctor-who-clockwork-quest.json](./249389-doctor-who-clockwork-quest.json) |
 | Doctor Who: Cosmic Collider | 249387 | [249387-doctor-who-cosmic-collider.json](./249387-doctor-who-cosmic-collider.json) |
+| Doctor Who: Cyber Assault | 249556 | [249556-doctor-who-cyber-assault.json](./249556-doctor-who-cyber-assault.json) |
 | Doctor Who: Dalek Break-Out | 249447 | [249447-doctor-who-dalek-break-out.json](./249447-doctor-who-dalek-break-out.json) |
 | Doctor Who: Dalek Hack | 239578 | [239578-doctor-who-dalek-hack.json](./239578-doctor-who-dalek-hack.json) |
 | Doctor Who: Daleks v Cybermen | 238108 | [238108-doctor-who-daleks-v-cybermen.json](./238108-doctor-who-daleks-v-cybermen.json) |
@@ -18850,6 +18853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying Light: Classified Operation Bundle | 224130 | [224130-dying-light-classified-operation-bundle.json](./224130-dying-light-classified-operation-bundle.json) |
 | Dying Light: Cuisine & Cargo | 150043 | [150043-dying-light-cuisine-and-cargo.json](./150043-dying-light-cuisine-and-cargo.json) |
 | Dying Light: Definitive Edition | 205006 | [205006-dying-light-definitive-edition.json](./205006-dying-light-definitive-edition.json) |
+| Dying Light: Definitive Edition & Call of Juarez: Gunslinger | 249580 | [249580-dying-light-definitive-edition-and-call-of-juarez-gunslinger.json](./249580-dying-light-definitive-edition-and-call-of-juarez-gunslinger.json) |
 | Dying Light: Dieselpunk Bundle | 224128 | [224128-dying-light-dieselpunk-bundle.json](./224128-dying-light-dieselpunk-bundle.json) |
 | Dying Light: Enhanced Edition | 248317 | [248317-dying-light-enhanced-edition.json](./248317-dying-light-enhanced-edition.json) |
 | Dying Light: Godfather Bundle | 224142 | [224142-dying-light-godfather-bundle.json](./224142-dying-light-godfather-bundle.json) |
