@@ -2422,6 +2422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hat Wizard 2 | 101691 | [101691-hat-wizard-2.json](./101691-hat-wizard-2.json) |
 | Hat World: New Testament | 229186 | [229186-hat-world-new-testament.json](./229186-hat-world-new-testament.json) |
 | Hat'venture | 244636 | [244636-hatventure.json](./244636-hatventure.json) |
+| Hata Kokoro Danmarku-ren | 254228 | [254228-hata-kokoro-danmarku-ren.json](./254228-hata-kokoro-danmarku-ren.json) |
 | Hataraku Otona no Renai Jijou | 329642 | [329642-hataraku-otona-no-renai-jijou.json](./329642-hataraku-otona-no-renai-jijou.json) |
 | Hataraku Shoujo: Tekipaki Working Love FX | 281928 | [281928-hataraku-shoujo-tekipaki-working-love-fx.json](./281928-hataraku-shoujo-tekipaki-working-love-fx.json) |
 | Hatastrophe | 359914 | [359914-hatastrophe.json](./359914-hatastrophe.json) |
@@ -3532,6 +3533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven Snakes | 202505 | [202505-heaven-snakes.json](./202505-heaven-snakes.json) |
 | Heaven Stroll | 262557 | [262557-heaven-stroll.json](./262557-heaven-stroll.json) |
 | Heaven Studio | 278231 | [278231-heaven-studio.json](./278231-heaven-studio.json) |
+| Heaven Travel | 254255 | [254255-heaven-travel.json](./254255-heaven-travel.json) |
 | Heaven Will Be Mine | 69482 | [69482-heaven-will-be-mine.json](./69482-heaven-will-be-mine.json) |
 | Heaven: Dare mo Kimi wo Shiranai | 318932 | [318932-heaven-dare-mo-kimi-wo-shiranai.json](./318932-heaven-dare-mo-kimi-wo-shiranai.json) |
 | Heaven's Bazar: Online | 154997 | [154997-heavens-bazar-online.json](./154997-heavens-bazar-online.json) |
@@ -8674,6 +8676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holidays | 336858 | [336858-holidays.json](./336858-holidays.json) |
 | Holidays in Khrushchevsk | 249007 | [249007-holidays-in-khrushchevsk.json](./249007-holidays-in-khrushchevsk.json) |
 | Holidays Survivors | 325988 | [325988-holidays-survivors.json](./325988-holidays-survivors.json) |
+| HolidayVille | 254200 | [254200-holidayville.json](./254200-holidayville.json) |
 | Höll Space 5D6 | 147197 | [147197-holl-space-5d6.json](./147197-holl-space-5d6.json) |
 | Hollenburg 'Hell Castle' | 256620 | [256620-hollenburg-hell-castle.json](./256620-hollenburg-hell-castle.json) |
 | Hollenburg: Hell Castle | 256259 | [256259-hollenburg-hell-castle.json](./256259-hollenburg-hell-castle.json) |
@@ -9055,6 +9058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Sweet Home | 346116 | [346116-home-sweet-home.json](./346116-home-sweet-home.json) |
 | Home Sweet Home | 346758 | [346758-home-sweet-home.json](./346758-home-sweet-home.json) |
 | Home Sweet Home | 81496 | [81496-home-sweet-home.json](./81496-home-sweet-home.json) |
+| Home Sweet Home 2: Kitchens | 254199 | [254199-home-sweet-home-2-kitchens.json](./254199-home-sweet-home-2-kitchens.json) |
 | Home Sweet Home: Online | 249814 | [249814-home-sweet-home-online.json](./249814-home-sweet-home-online.json) |
 | Home Sweet Home: Survive | 144132 | [144132-home-sweet-home-survive.json](./144132-home-sweet-home-survive.json) |
 | Home Sweet Homecoming | 135306 | [135306-home-sweet-homecoming.json](./135306-home-sweet-homecoming.json) |
@@ -9339,6 +9343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: Moonshade Epic | 276424 | [276424-honkai-impact-3rd-moonshade-epic.json](./276424-honkai-impact-3rd-moonshade-epic.json) |
 | Honkai Impact 3rd: Ninja's Noir | 281572 | [281572-honkai-impact-3rd-ninjas-noir.json](./281572-honkai-impact-3rd-ninjas-noir.json) |
 | Honkai Impact 3rd: Outworld Traveler | 279424 | [279424-honkai-impact-3rd-outworld-traveler.json](./279424-honkai-impact-3rd-outworld-traveler.json) |
+| Honkai Impact 3rd: Part 1 - The Moon's Origin and Finality | 254239 | [254239-honkai-impact-3rd-part-1-the-moons-origin-and-finality.json](./254239-honkai-impact-3rd-part-1-the-moons-origin-and-finality.json) |
 | Honkai Impact 3rd: Part 2 - Extinguished Starlight and Rekindled Fire | 269737 | [269737-honkai-impact-3rd-part-2-extinguished-starlight-and-rekindled-fire.json](./269737-honkai-impact-3rd-part-2-extinguished-starlight-and-rekindled-fire.json) |
 | Honkai Impact 3rd: Passage to New Dawns | 393908 | [393908-honkai-impact-3rd-passage-to-new-dawns.json](./393908-honkai-impact-3rd-passage-to-new-dawns.json) |
 | Honkai Impact 3rd: Planetary Rewind | 319450 | [319450-honkai-impact-3rd-planetary-rewind.json](./319450-honkai-impact-3rd-planetary-rewind.json) |
@@ -11647,6 +11652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Tea Party | 129756 | [129756-hungry-tea-party.json](./129756-hungry-tea-party.json) |
 | Hungry Tiger | 295746 | [295746-hungry-tiger.json](./295746-hungry-tiger.json) |
 | Hungry Wolf | 189910 | [189910-hungry-wolf.json](./189910-hungry-wolf.json) |
+| HungryMaster | 254258 | [254258-hungrymaster.json](./254258-hungrymaster.json) |
 | Huni Kuin: Yube Baitana | 162625 | [162625-huni-kuin-yube-baitana.json](./162625-huni-kuin-yube-baitana.json) |
 | HunieCam Studio | 19847 | [19847-huniecam-studio.json](./19847-huniecam-studio.json) |
 | HuniePop | 9655 | [9655-huniepop.json](./9655-huniepop.json) |
