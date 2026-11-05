@@ -25085,6 +25085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tori Note | 289403 | [289403-tori-note.json](./289403-tori-note.json) |
 | Tori-Emaki | 206084 | [206084-tori-emaki.json](./206084-tori-emaki.json) |
 | Toribash | 314708 | [314708-toribash.json](./314708-toribash.json) |
+| Toribash Next | 284116 | [284116-toribash-next.json](./284116-toribash-next.json) |
 | Toricky | 32549 | [32549-toricky.json](./32549-toricky.json) |
 | Toricky S | 151650 | [151650-toricky-s.json](./151650-toricky-s.json) |
 | Torico's B-day Gift Hunt | 232968 | [232968-toricos-b-day-gift-hunt.json](./232968-toricos-b-day-gift-hunt.json) |
@@ -32344,6 +32345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twizzle Puzzle: Mushrooms | 310260 | [310260-twizzle-puzzle-mushrooms.json](./310260-twizzle-puzzle-mushrooms.json) |
 | Twizzle Puzzle: Rodents | 295379 | [295379-twizzle-puzzle-rodents.json](./295379-twizzle-puzzle-rodents.json) |
 | Twnkl Gft 2: A Lust For Blood | 372212 | [372212-twnkl-gft-2-a-lust-for-blood.json](./372212-twnkl-gft-2-a-lust-for-blood.json) |
+| Two | 284107 | [284107-two.json](./284107-two.json) |
 | Two | 357458 | [357458-two.json](./357458-two.json) |
 | Two & One Hundred Ways Bundle | 188020 | [188020-two-and-one-hundred-ways-bundle.json](./188020-two-and-one-hundred-ways-bundle.json) |
 | Two Against the Legion | 158509 | [158509-two-against-the-legion.json](./158509-two-against-the-legion.json) |
