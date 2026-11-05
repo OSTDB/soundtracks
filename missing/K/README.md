@@ -2663,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Bites | 59412 | [59412-killing-bites.json](./59412-killing-bites.json) |
 | Killing Bullet | 272242 | [272242-killing-bullet.json](./272242-killing-bullet.json) |
 | Killing Day | 68223 | [68223-killing-day.json](./68223-killing-day.json) |
+| Killing Dreamworks | 256042 | [256042-killing-dreamworks.json](./256042-killing-dreamworks.json) |
 | Killing Floor | 2949 | [2949-killing-floor.json](./2949-killing-floor.json) |
 | Killing Floor | 306881 | [306881-killing-floor.json](./306881-killing-floor.json) |
 | Killing Floor 2: Commando Chicken Bundle | 332001 | [332001-killing-floor-2-commando-chicken-bundle.json](./332001-killing-floor-2-commando-chicken-bundle.json) |
@@ -2782,6 +2783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
