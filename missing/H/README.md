@@ -11783,6 +11783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huntsman: Protect & Serve | 422115 | [422115-huntsman-protect-and-serve.json](./422115-huntsman-protect-and-serve.json) |
 | Huntsman: The Orphanage | 10422 | [10422-huntsman-the-orphanage.json](./10422-huntsman-the-orphanage.json) |
 | Huntsman: The Orphanage - Halloween Edition | 30246 | [30246-huntsman-the-orphanage-halloween-edition.json](./30246-huntsman-the-orphanage-halloween-edition.json) |
+| Huntsmen | 286317 | [286317-huntsmen.json](./286317-huntsmen.json) |
 | Hunyadi Strategy | 197200 | [197200-hunyadi-strategy.json](./197200-hunyadi-strategy.json) |
 | HuoChaiRenRPG | 149827 | [149827-huochairenrpg.json](./149827-huochairenrpg.json) |
 | Huǒshùyínhuā | 350981 | [350981-huoshuyinhua.json](./350981-huoshuyinhua.json) |
