@@ -5328,6 +5328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Babies | 368661 | [368661-go-babies.json](./368661-go-babies.json) |
 | Go Back to Hell | 193056 | [193056-go-back-to-hell.json](./193056-go-back-to-hell.json) |
 | Go Ballistic | 152306 | [152306-go-ballistic.json](./152306-go-ballistic.json) |
+| Go Banana | 258802 | [258802-go-banana.json](./258802-go-banana.json) |
 | Go Bananas | 269016 | [269016-go-bananas.json](./269016-go-bananas.json) |
 | Go Bananas! | 365801 | [365801-go-bananas.json](./365801-go-bananas.json) |
 | Go Bang | 246335 | [246335-go-bang.json](./246335-go-bang.json) |
@@ -10682,6 +10683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunbrick: Reloaded | 131982 | [131982-gunbrick-reloaded.json](./131982-gunbrick-reloaded.json) |
 | Gunbuds | 134895 | [134895-gunbuds.json](./134895-gunbuds.json) |
 | Gunbug | 336489 | [336489-gunbug.json](./336489-gunbug.json) |
+| Guncade | 258788 | [258788-guncade.json](./258788-guncade.json) |
 | Guncar Arena | 215585 | [215585-guncar-arena.json](./215585-guncar-arena.json) |
 | Guncaster | 142417 | [142417-guncaster.json](./142417-guncaster.json) |
 | Guncaster | 367575 | [367575-guncaster.json](./367575-guncaster.json) |
