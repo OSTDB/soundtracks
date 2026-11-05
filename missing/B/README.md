@@ -957,7 +957,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5992,6 +5991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind Stars and Under Hills | 110015 | [110015-behind-stars-and-under-hills.json](./110015-behind-stars-and-under-hills.json) |
 | Behind The Backrooms | 310245 | [310245-behind-the-backrooms.json](./310245-behind-the-backrooms.json) |
 | Behind The Backrooms: Lost Levels | 331065 | [331065-behind-the-backrooms-lost-levels.json](./331065-behind-the-backrooms-lost-levels.json) |
+| Behind the Barrier | 247815 | [247815-behind-the-barrier.json](./247815-behind-the-barrier.json) |
 | Behind the Beyond | 113361 | [113361-behind-the-beyond.json](./113361-behind-the-beyond.json) |
 | Behind the Beyond | 176908 | [176908-behind-the-beyond.json](./176908-behind-the-beyond.json) |
 | Behind The Beyond | 344424 | [344424-behind-the-beyond.json](./344424-behind-the-beyond.json) |
@@ -10894,6 +10894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Park | 405572 | [405572-blood-park.json](./405572-blood-park.json) |
 | Blood Peace | 293106 | [293106-blood-peace.json](./293106-blood-peace.json) |
 | Blood Permafrost | 387556 | [387556-blood-permafrost.json](./387556-blood-permafrost.json) |
+| Blood Pivot | 247857 | [247857-blood-pivot.json](./247857-blood-pivot.json) |
 | Blood Pressure | 140937 | [140937-blood-pressure.json](./140937-blood-pressure.json) |
 | Blood Punk | 309563 | [309563-blood-punk.json](./309563-blood-punk.json) |
 | Blood Radiant | 277275 | [277275-blood-radiant.json](./277275-blood-radiant.json) |
