@@ -1446,6 +1446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Deception: Complete Edition | 169206 | [169206-dark-deception-complete-edition.json](./169206-dark-deception-complete-edition.json) |
 | Dark Deception: Malicious Mall | 301122 | [301122-dark-deception-malicious-mall.json](./301122-dark-deception-malicious-mall.json) |
 | Dark Deception: Monsters & Mortals | 167508 | [167508-dark-deception-monsters-and-mortals.json](./167508-dark-deception-monsters-and-mortals.json) |
+| Dark Deception: Monsters & Mortals - Doors | 292887 | [292887-dark-deception-monsters-and-mortals-doors.json](./292887-dark-deception-monsters-and-mortals-doors.json) |
 | Dark Deception: Monsters & Mortals - House of Ashes | 292864 | [292864-dark-deception-monsters-and-mortals-house-of-ashes.json](./292864-dark-deception-monsters-and-mortals-house-of-ashes.json) |
 | Dark Deception: Monsters & Mortals - Monstrum | 168923 | [168923-dark-deception-monsters-and-mortals-monstrum.json](./168923-dark-deception-monsters-and-mortals-monstrum.json) |
 | Dark Deception: Monsters & Mortals - Poppy Playtime Panic | 230147 | [230147-dark-deception-monsters-and-mortals-poppy-playtime-panic.json](./230147-dark-deception-monsters-and-mortals-poppy-playtime-panic.json) |
@@ -9429,6 +9430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Bone Digging | 117353 | [117353-dinosaur-bone-digging.json](./117353-dinosaur-bone-digging.json) |
 | Dinosaur Bones Digging Simulator 2026 | 386366 | [386366-dinosaur-bones-digging-simulator-2026.json](./386366-dinosaur-bones-digging-simulator-2026.json) |
 | Dinosaur Cousin Squad | 338286 | [338286-dinosaur-cousin-squad.json](./338286-dinosaur-cousin-squad.json) |
+| Dinosaur Crossing: Unravel and Discover | 292910 | [292910-dinosaur-crossing-unravel-and-discover.json](./292910-dinosaur-crossing-unravel-and-discover.json) |
 | Dinosaur Dig | 181552 | [181552-dinosaur-dig.json](./181552-dinosaur-dig.json) |
 | Dinosaur Discovery | 109172 | [109172-dinosaur-discovery.json](./109172-dinosaur-discovery.json) |
 | Dinosaur Discovery | 83779 | [83779-dinosaur-discovery.json](./83779-dinosaur-discovery.json) |
