@@ -17612,6 +17612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossroads Inn: Anniversary Edition | 154549 | [154549-crossroads-inn-anniversary-edition.json](./154549-crossroads-inn-anniversary-edition.json) |
 | Crossroads of Fate | 185601 | [185601-crossroads-of-fate.json](./185601-crossroads-of-fate.json) |
 | Crossroads of Life | 213323 | [213323-crossroads-of-life.json](./213323-crossroads-of-life.json) |
+| Crossroads OS | 272076 | [272076-crossroads-os.json](./272076-crossroads-os.json) |
 | Crossroads: Escaping the Dark - Collector's Edition | 225976 | [225976-crossroads-escaping-the-dark-collectors-edition.json](./225976-crossroads-escaping-the-dark-collectors-edition.json) |
 | Crossroads: Fatal Truths | 385225 | [385225-crossroads-fatal-truths.json](./385225-crossroads-fatal-truths.json) |
 | Crossroads: Fatal Truths - Collector's Edition | 383745 | [383745-crossroads-fatal-truths-collectors-edition.json](./383745-crossroads-fatal-truths-collectors-edition.json) |
