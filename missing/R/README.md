@@ -3461,6 +3461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recipe For Disaster | 398022 | [398022-recipe-for-disaster.json](./398022-recipe-for-disaster.json) |
 | Recipe For Love | 177354 | [177354-recipe-for-love.json](./177354-recipe-for-love.json) |
 | Recipe of Love | 376709 | [376709-recipe-of-love.json](./376709-recipe-of-love.json) |
+| Recipiente | 294338 | [294338-recipiente.json](./294338-recipiente.json) |
 | Reciprocity: The Liminal Void | 410056 | [410056-reciprocity-the-liminal-void.json](./410056-reciprocity-the-liminal-void.json) |
 | Reciros | 393949 | [393949-reciros.json](./393949-reciros.json) |
 | Recital of the Heart | 335366 | [335366-recital-of-the-heart.json](./335366-recital-of-the-heart.json) |
