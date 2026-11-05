@@ -1530,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Bride 6: Nightmare | 326046 | [326046-paper-bride-6-nightmare.json](./326046-paper-bride-6-nightmare.json) |
 | Paper Bride 7: Lethal Bond | 383172 | [383172-paper-bride-7-lethal-bond.json](./383172-paper-bride-7-lethal-bond.json) |
 | Paper Cages | 178670 | [178670-paper-cages.json](./178670-paper-cages.json) |
+| Paper Can't Fly | 258760 | [258760-paper-cant-fly.json](./258760-paper-cant-fly.json) |
 | Paper Cannon | 362775 | [362775-paper-cannon.json](./362775-paper-cannon.json) |
 | Paper Castle | 379945 | [379945-paper-castle.json](./379945-paper-castle.json) |
 | Paper Champion | 242800 | [242800-paper-champion.json](./242800-paper-champion.json) |
@@ -2895,6 +2896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Redemption | 128270 | [128270-path-of-redemption.json](./128270-path-of-redemption.json) |
 | Path of Shadows | 184949 | [184949-path-of-shadows.json](./184949-path-of-shadows.json) |
 | Path of Sin: Greed | 107734 | [107734-path-of-sin-greed.json](./107734-path-of-sin-greed.json) |
+| Path of Soul | 258768 | [258768-path-of-soul.json](./258768-path-of-soul.json) |
 | Path of Survival | 412274 | [412274-path-of-survival.json](./412274-path-of-survival.json) |
 | Path of Tengri | 202716 | [202716-path-of-tengri.json](./202716-path-of-tengri.json) |
 | Path of Thalanos | 123883 | [123883-path-of-thalanos.json](./123883-path-of-thalanos.json) |
@@ -3226,6 +3228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PawMart Tiny Market | 406833 | [406833-pawmart-tiny-market.json](./406833-pawmart-tiny-market.json) |
 | Pawn | 30460 | [30460-pawn.json](./30460-pawn.json) |
 | Pawn of the Dead | 107909 | [107909-pawn-of-the-dead.json](./107909-pawn-of-the-dead.json) |
+| Pawn Planet | 258783 | [258783-pawn-planet.json](./258783-pawn-planet.json) |
 | Pawn Planet: First Sales | 306351 | [306351-pawn-planet-first-sales.json](./306351-pawn-planet-first-sales.json) |
 | Pawn Shop Simulator | 208605 | [208605-pawn-shop-simulator.json](./208605-pawn-shop-simulator.json) |
 | Pawn Shop Simulator | 297178 | [297178-pawn-shop-simulator.json](./297178-pawn-shop-simulator.json) |
@@ -9865,6 +9868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleim | 202500 | [202500-pleim.json](./202500-pleim.json) |
 | Plekos | 255032 | [255032-plekos.json](./255032-plekos.json) |
 | Plentiful | 341567 | [341567-plentiful.json](./341567-plentiful.json) |
+| Plenty Karts | 258797 | [258797-plenty-karts.json](./258797-plenty-karts.json) |
 | Plenty of Fish in the Sea | 337492 | [337492-plenty-of-fish-in-the-sea.json](./337492-plenty-of-fish-in-the-sea.json) |
 | Plenty of Fishies | 84720 | [84720-plenty-of-fishies.json](./84720-plenty-of-fishies.json) |
 | Plentypede | 192828 | [192828-plentypede.json](./192828-plentypede.json) |
