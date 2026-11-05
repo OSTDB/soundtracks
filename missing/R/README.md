@@ -3486,6 +3486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reclaim ! Azhe-giiwewining | 395950 | [395950-reclaim-azhe-giiwewining.json](./395950-reclaim-azhe-giiwewining.json) |
 | Reclaim Earth | 177730 | [177730-reclaim-earth.json](./177730-reclaim-earth.json) |
 | Reclaim Earth | 303934 | [303934-reclaim-earth.json](./303934-reclaim-earth.json) |
+| Reclaim The Living | 293576 | [293576-reclaim-the-living.json](./293576-reclaim-the-living.json) |
 | Reclaim the Sea | 216954 | [216954-reclaim-the-sea.json](./216954-reclaim-the-sea.json) |
 | Reclaimer | 404308 | [404308-reclaimer.json](./404308-reclaimer.json) |
 | Reclaimers | 339706 | [339706-reclaimers.json](./339706-reclaimers.json) |
@@ -6242,6 +6243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reveil: Funhouse Edition | 290112 | [290112-reveil-funhouse-edition.json](./290112-reveil-funhouse-edition.json) |
 | Revel | 173010 | [173010-revel.json](./173010-revel.json) |
 | Revel Rousers | 132492 | [132492-revel-rousers.json](./132492-revel-rousers.json) |
+| Revelatio | 293569 | [293569-revelatio.json](./293569-revelatio.json) |
 | Revelation | 126319 | [126319-revelation.json](./126319-revelation.json) |
 | Revelation | 126320 | [126320-revelation.json](./126320-revelation.json) |
 | Revelation | 263510 | [263510-revelation.json](./263510-revelation.json) |
