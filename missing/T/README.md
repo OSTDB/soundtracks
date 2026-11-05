@@ -23443,6 +23443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Hell and Back | 363142 | [363142-to-hell-and-back.json](./363142-to-hell-and-back.json) |
 | To Hell in a Hamper | 60019 | [60019-to-hell-in-a-hamper.json](./60019-to-hell-in-a-hamper.json) |
 | To Hell With the Ugly | 158137 | [158137-to-hell-with-the-ugly.json](./158137-to-hell-with-the-ugly.json) |
+| To Infinity | 274805 | [274805-to-infinity.json](./274805-to-infinity.json) |
 | To Kill A Black Swan | 183371 | [183371-to-kill-a-black-swan.json](./183371-to-kill-a-black-swan.json) |
 | To Kill a God | 307220 | [307220-to-kill-a-god.json](./307220-to-kill-a-god.json) |
 | To Kill A King | 154399 | [154399-to-kill-a-king.json](./154399-to-kill-a-king.json) |
@@ -31206,6 +31207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsioque | 34700 | [34700-tsioque.json](./34700-tsioque.json) |
 | Tsjost's Heroic Soup Bazooka | 222902 | [222902-tsjosts-heroic-soup-bazooka.json](./222902-tsjosts-heroic-soup-bazooka.json) |
 | Tsos | 191580 | [191580-tsos.json](./191580-tsos.json) |
+| TSR Halloween Party | 274833 | [274833-tsr-halloween-party.json](./274833-tsr-halloween-party.json) |
 | Tsubaki Hata | 226203 | [226203-tsubaki-hata.json](./226203-tsubaki-hata.json) |
 | Tsubaki to One Room: Kizuna Kirameku Koi Iroha SS | 371594 | [371594-tsubaki-to-one-room-kizuna-kirameku-koi-iroha-ss.json](./371594-tsubaki-to-one-room-kizuna-kirameku-koi-iroha-ss.json) |
 | Tsubame no Sedai | 316672 | [316672-tsubame-no-sedai.json](./316672-tsubame-no-sedai.json) |
@@ -32636,6 +32638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type To Kill | 396696 | [396696-type-to-kill.json](./396696-type-to-kill.json) |
 | Type to Learn 3 | 186073 | [186073-type-to-learn-3.json](./186073-type-to-learn-3.json) |
 | Type To Report | 308045 | [308045-type-to-report.json](./308045-type-to-report.json) |
+| Type Your Fate | 274814 | [274814-type-your-fate.json](./274814-type-your-fate.json) |
 | Type-Noise: Shonen Shojo | 311410 | [311410-type-noise-shonen-shojo.json](./311410-type-noise-shonen-shojo.json) |
 | Type-Rope | 98219 | [98219-type-rope.json](./98219-type-rope.json) |
 | Type: Jump | 242076 | [242076-type-jump.json](./242076-type-jump.json) |
