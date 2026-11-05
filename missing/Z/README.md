@@ -978,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Velocity | 176984 | [176984-zero-velocity.json](./176984-zero-velocity.json) |
 | Zero Visibility | 229506 | [229506-zero-visibility.json](./229506-zero-visibility.json) |
 | Zero Volt X | 176960 | [176960-zero-volt-x.json](./176960-zero-volt-x.json) |
+| Zero Vortex | 271549 | [271549-zero-vortex.json](./271549-zero-vortex.json) |
 | Zero Warning: Burnt Out | 391008 | [391008-zero-warning-burnt-out.json](./391008-zero-warning-burnt-out.json) |
 | Zero Wing | 4412 | [4412-zero-wing.json](./4412-zero-wing.json) |
 | Zero World | 211216 | [211216-zero-world.json](./211216-zero-world.json) |
