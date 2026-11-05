@@ -1555,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Deathmatch | 100625 | [100625-zombie-deathmatch.json](./100625-zombie-deathmatch.json) |
 | Zombie Deathrace Feeding Frenzy | 114185 | [114185-zombie-deathrace-feeding-frenzy.json](./114185-zombie-deathrace-feeding-frenzy.json) |
 | Zombie Defence TD | 223527 | [223527-zombie-defence-td.json](./223527-zombie-defence-td.json) |
+| Zombie Defense | 246752 | [246752-zombie-defense.json](./246752-zombie-defense.json) |
 | Zombie Defense | 271703 | [271703-zombie-defense.json](./271703-zombie-defense.json) |
 | Zombie Defense Shelter | 130195 | [130195-zombie-defense-shelter.json](./130195-zombie-defense-shelter.json) |
 | Zombie Defense: Banana | 404557 | [404557-zombie-defense-banana.json](./404557-zombie-defense-banana.json) |
