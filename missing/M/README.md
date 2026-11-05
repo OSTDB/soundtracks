@@ -2765,6 +2765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mami no Doki-doki Tiro Finale | 56759 | [56759-mami-no-doki-doki-tiro-finale.json](./56759-mami-no-doki-doki-tiro-finale.json) |
 | Mamiya | 145621 | [145621-mamiya.json](./145621-mamiya.json) |
 | Mamiya: Complete Collection | 405491 | [405491-mamiya-complete-collection.json](./405491-mamiya-complete-collection.json) |
+| Mamiya: DoomsDayDreams | 277669 | [277669-mamiya-doomsdaydreams.json](./277669-mamiya-doomsdaydreams.json) |
 | Mamiya: Downfall | 368583 | [368583-mamiya-downfall.json](./368583-mamiya-downfall.json) |
 | Mamiya: FallDown | 368564 | [368564-mamiya-falldown.json](./368564-mamiya-falldown.json) |
 | Mamizou's Mimic Check | 338698 | [338698-mamizous-mimic-check.json](./338698-mamizous-mimic-check.json) |
@@ -3100,6 +3101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mannequin Mayhem: Physics Ragdoll Shooter | 286671 | [286671-mannequin-mayhem-physics-ragdoll-shooter.json](./286671-mannequin-mayhem-physics-ragdoll-shooter.json) |
 | Mannequin Syndrome | 345853 | [345853-mannequin-syndrome.json](./345853-mannequin-syndrome.json) |
 | Mannequin The Spotting | 255690 | [255690-mannequin-the-spotting.json](./255690-mannequin-the-spotting.json) |
+| Mannerheim's Saloon Car | 277636 | [277636-mannerheims-saloon-car.json](./277636-mannerheims-saloon-car.json) |
 | Manners Be Damned! | 330900 | [330900-manners-be-damned.json](./330900-manners-be-damned.json) |
 | Manny Boxing VR | 202634 | [202634-manny-boxing-vr.json](./202634-manny-boxing-vr.json) |
 | Manny's | 260528 | [260528-mannys.json](./260528-mannys.json) |
@@ -13734,6 +13736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MITS: Monsters in the Shadows | 198376 | [198376-mits-monsters-in-the-shadows.json](./198376-mits-monsters-in-the-shadows.json) |
 | Mitsu x Mitsu Drops: Love x Love Honey Life | 203262 | [203262-mitsu-x-mitsu-drops-love-x-love-honey-life.json](./203262-mitsu-x-mitsu-drops-love-x-love-honey-life.json) |
 | Mitsubachi Gakuen | 107646 | [107646-mitsubachi-gakuen.json](./107646-mitsubachi-gakuen.json) |
+| Mitsugasero! Joon-chan!! | 277653 | [277653-mitsugasero-joon-chan.json](./277653-mitsugasero-joon-chan.json) |
 | Mitsuge! Megami-sama | 329951 | [329951-mitsuge-megami-sama.json](./329951-mitsuge-megami-sama.json) |
 | Mitsukikuzushi | 98020 | [98020-mitsukikuzushi.json](./98020-mitsukikuzushi.json) |
 | Mitsume ga Tooru | 202919 | [202919-mitsume-ga-tooru.json](./202919-mitsume-ga-tooru.json) |
@@ -16109,6 +16112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon & the Fractured Reincarnation | 346492 | [346492-moon-and-the-fractured-reincarnation.json](./346492-moon-and-the-fractured-reincarnation.json) |
 | Moon 2999 | 302939 | [302939-moon-2999.json](./302939-moon-2999.json) |
 | Moon Alert | 73795 | [73795-moon-alert.json](./73795-moon-alert.json) |
+| Moon Alien | 277652 | [277652-moon-alien.json](./277652-moon-alien.json) |
 | Moon Alien Part II | 38581 | [38581-moon-alien-part-ii.json](./38581-moon-alien-part-ii.json) |
 | Moon and Away | 414619 | [414619-moon-and-away.json](./414619-moon-and-away.json) |
 | Moon and Fang | 390752 | [390752-moon-and-fang.json](./390752-moon-and-fang.json) |
@@ -16184,6 +16188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Patrol: The Milky Way Chronicles | 138567 | [138567-moon-patrol-the-milky-way-chronicles.json](./138567-moon-patrol-the-milky-way-chronicles.json) |
 | Moon Pool | 419593 | [419593-moon-pool.json](./419593-moon-pool.json) |
 | Moon Princess | 351268 | [351268-moon-princess.json](./351268-moon-princess.json) |
+| Moon Raker | 277658 | [277658-moon-raker.json](./277658-moon-raker.json) |
 | Moon Ranger | 48198 | [48198-moon-ranger.json](./48198-moon-ranger.json) |
 | Moon Rat | 330829 | [330829-moon-rat.json](./330829-moon-rat.json) |
 | Moon Rider | 215171 | [215171-moon-rider.json](./215171-moon-rider.json) |
