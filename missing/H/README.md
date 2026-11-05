@@ -1655,6 +1655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Piggy 2 | 370062 | [370062-happy-piggy-2.json](./370062-happy-piggy-2.json) |
 | Happy Pinball | 373116 | [373116-happy-pinball.json](./373116-happy-pinball.json) |
 | Happy Place Remake | 264734 | [264734-happy-place-remake.json](./264734-happy-place-remake.json) |
+| Happy Poker | 258286 | [258286-happy-poker.json](./258286-happy-poker.json) |
 | Happy Pong | 352380 | [352380-happy-pong.json](./352380-happy-pong.json) |
 | Happy Pong | 90580 | [90580-happy-pong.json](./90580-happy-pong.json) |
 | Happy Princess | 77701 | [77701-happy-princess.json](./77701-happy-princess.json) |
@@ -8652,6 +8653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Maker | 74396 | [74396-holiday-maker.json](./74396-holiday-maker.json) |
 | Holiday Mania | 157183 | [157183-holiday-mania.json](./157183-holiday-mania.json) |
 | Holiday Mosaics: Halloween Puzzles | 173439 | [173439-holiday-mosaics-halloween-puzzles.json](./173439-holiday-mosaics-halloween-puzzles.json) |
+| Holiday Party: Mascot Brawl | 258269 | [258269-holiday-party-mascot-brawl.json](./258269-holiday-party-mascot-brawl.json) |
 | Holiday Present Hunt | 349501 | [349501-holiday-present-hunt.json](./349501-holiday-present-hunt.json) |
 | Holiday Racer | 144386 | [144386-holiday-racer.json](./144386-holiday-racer.json) |
 | Holiday Rush | 146586 | [146586-holiday-rush.json](./146586-holiday-rush.json) |
