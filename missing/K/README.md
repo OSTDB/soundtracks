@@ -306,6 +306,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaisa: Resurrection | 212145 | [212145-kaisa-resurrection.json](./212145-kaisa-resurrection.json) |
 | Kaisen! Ika Gundan! | 269317 | [269317-kaisen-ika-gundan.json](./269317-kaisen-ika-gundan.json) |
 | Kaiser | 76157 | [76157-kaiser.json](./76157-kaiser.json) |
+| KaiseR Land 01 | 273181 | [273181-kaiser-land-01.json](./273181-kaiser-land-01.json) |
+| KaiseR Land 02 | 273182 | [273182-kaiser-land-02.json](./273182-kaiser-land-02.json) |
+| KaiseR Land 03 | 273183 | [273183-kaiser-land-03.json](./273183-kaiser-land-03.json) |
 | Kaiser of Singularity | 260868 | [260868-kaiser-of-singularity.json](./260868-kaiser-of-singularity.json) |
 | Kaiserpunk | 276655 | [276655-kaiserpunk.json](./276655-kaiserpunk.json) |
 | Kaiserreich: Legacy of the Weltkrieg | 403344 | [403344-kaiserreich-legacy-of-the-weltkrieg.json](./403344-kaiserreich-legacy-of-the-weltkrieg.json) |
