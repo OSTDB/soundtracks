@@ -6156,6 +6156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euchre Forever | 93855 | [93855-euchre-forever.json](./93855-euchre-forever.json) |
 | Euclid Valley | 348375 | [348375-euclid-valley.json](./348375-euclid-valley.json) |
 | Euclid's Inferno | 304994 | [304994-euclids-inferno.json](./304994-euclids-inferno.json) |
+| Euclid's Nightmare | 277094 | [277094-euclids-nightmare.json](./277094-euclids-nightmare.json) |
 | Euclidean | 13141 | [13141-euclidean.json](./13141-euclidean.json) |
 | Euclidean Escape | 195343 | [195343-euclidean-escape.json](./195343-euclidean-escape.json) |
 | Euclyca | 158031 | [158031-euclyca.json](./158031-euclyca.json) |
