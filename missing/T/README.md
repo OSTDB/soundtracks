@@ -6150,6 +6150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bardic Rites | 58856 | [58856-the-bardic-rites.json](./58856-the-bardic-rites.json) |
 | The Barkeeper | 332847 | [332847-the-barkeeper.json](./332847-the-barkeeper.json) |
 | The Barker & Mustard Files | 224074 | [224074-the-barker-and-mustard-files.json](./224074-the-barker-and-mustard-files.json) |
+| The Barkless Doctrine | 263834 | [263834-the-barkless-doctrine.json](./263834-the-barkless-doctrine.json) |
 | The Barnacle Squad | 265284 | [265284-the-barnacle-squad.json](./265284-the-barnacle-squad.json) |
 | The Barney Fun Page! | 338038 | [338038-the-barney-fun-page.json](./338038-the-barney-fun-page.json) |
 | The Barnhouse Killer | 336277 | [336277-the-barnhouse-killer.json](./336277-the-barnhouse-killer.json) |
@@ -10665,6 +10666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House of the Dead: Overkill - The Lost Reels | 134305 | [134305-the-house-of-the-dead-overkill-the-lost-reels.json](./134305-the-house-of-the-dead-overkill-the-lost-reels.json) |
 | The House of the Dead: Remake | 145787 | [145787-the-house-of-the-dead-remake.json](./145787-the-house-of-the-dead-remake.json) |
 | The House of the Dead: Remake - Limidead Edition | 194406 | [194406-the-house-of-the-dead-remake-limidead-edition.json](./194406-the-house-of-the-dead-remake-limidead-edition.json) |
+| The House of the Dead: Remake - Z Version | 263842 | [263842-the-house-of-the-dead-remake-z-version.json](./263842-the-house-of-the-dead-remake-z-version.json) |
 | The House of the Dead: Scarlet Dawn | 82081 | [82081-the-house-of-the-dead-scarlet-dawn.json](./82081-the-house-of-the-dead-scarlet-dawn.json) |
 | The House of the Living | 129602 | [129602-the-house-of-the-living.json](./129602-the-house-of-the-living.json) |
 | The house of the missing hands | 287763 | [287763-the-house-of-the-missing-hands.json](./287763-the-house-of-the-missing-hands.json) |
@@ -17287,6 +17289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Thief | 195438 | [195438-the-thief.json](./195438-the-thief.json) |
 | The Thief Girl | 149362 | [149362-the-thief-girl.json](./149362-the-thief-girl.json) |
 | The Thief in the Dark | 194650 | [194650-the-thief-in-the-dark.json](./194650-the-thief-in-the-dark.json) |
+| The Thief Simulator 2023: From Crook to Boss | 263839 | [263839-the-thief-simulator-2023-from-crook-to-boss.json](./263839-the-thief-simulator-2023-from-crook-to-boss.json) |
 | The Thief, the Witch, the Toad, and the Mushroom. | 235726 | [235726-the-thief-the-witch-the-toad-and-the-mushroom.json](./235726-the-thief-the-witch-the-toad-and-the-mushroom.json) |
 | The Thin Silence | 96812 | [96812-the-thin-silence.json](./96812-the-thin-silence.json) |
 | The Thing | 238608 | [238608-the-thing.json](./238608-the-thing.json) |
@@ -26295,6 +26298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Climb | 125754 | [125754-tower-climb.json](./125754-tower-climb.json) |
 | Tower climber | 90193 | [90193-tower-climber.json](./90193-tower-climber.json) |
 | Tower Command | 370908 | [370908-tower-command.json](./370908-tower-command.json) |
+| Tower Craft | 263859 | [263859-tower-craft.json](./263859-tower-craft.json) |
 | Tower Crusher! | 223877 | [223877-tower-crusher.json](./223877-tower-crusher.json) |
 | Tower Dash | 251508 | [251508-tower-dash.json](./251508-tower-dash.json) |
 | Tower Deckfense | 332189 | [332189-tower-deckfense.json](./332189-tower-deckfense.json) |
@@ -29524,6 +29528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Cave | 176399 | [176399-treasure-cave.json](./176399-treasure-cave.json) |
 | Treasure Chamber! Idle Mining Adventure | 101870 | [101870-treasure-chamber-idle-mining-adventure.json](./101870-treasure-chamber-idle-mining-adventure.json) |
 | Treasure Chase | 47713 | [47713-treasure-chase.json](./47713-treasure-chase.json) |
+| Treasure Chasers | 263835 | [263835-treasure-chasers.json](./263835-treasure-chasers.json) |
 | Treasure Chest Clicker | 250852 | [250852-treasure-chest-clicker.json](./250852-treasure-chest-clicker.json) |
 | Treasure Chest Corps: Fight Demons to Restore the Barrier | 118392 | [118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json](./118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json) |
 | Treasure Clicker | 398041 | [398041-treasure-clicker.json](./398041-treasure-clicker.json) |
@@ -30827,6 +30832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Driver: German Paint Jobs | 241068 | [241068-truck-driver-german-paint-jobs.json](./241068-truck-driver-german-paint-jobs.json) |
 | Truck Driver: Gold Edition | 340844 | [340844-truck-driver-gold-edition.json](./340844-truck-driver-gold-edition.json) |
 | Truck Driver: Heading North | 212231 | [212231-truck-driver-heading-north.json](./212231-truck-driver-heading-north.json) |
+| Truck Driver: Heavy Cargo | 263862 | [263862-truck-driver-heavy-cargo.json](./263862-truck-driver-heavy-cargo.json) |
 | Truck Driver: Hidden Places & Damage System | 164879 | [164879-truck-driver-hidden-places-and-damage-system.json](./164879-truck-driver-hidden-places-and-damage-system.json) |
 | Truck Driver: The American Dream - Freedom to Roam | 281428 | [281428-truck-driver-the-american-dream-freedom-to-roam.json](./281428-truck-driver-the-american-dream-freedom-to-roam.json) |
 | Truck Driver: The Dutch Connection | 369873 | [369873-truck-driver-the-dutch-connection.json](./369873-truck-driver-the-dutch-connection.json) |
@@ -30879,6 +30885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator 2014 | 90774 | [90774-truck-simulator-2014.json](./90774-truck-simulator-2014.json) |
 | Truck Simulator 2016 - North America Cargo Routes | 98836 | [98836-truck-simulator-2016-north-america-cargo-routes.json](./98836-truck-simulator-2016-north-america-cargo-routes.json) |
 | Truck Simulator 2018 : Europe | 100808 | [100808-truck-simulator-2018-europe.json](./100808-truck-simulator-2018-europe.json) |
+| Truck Simulator 2023: Driver Europe | 263841 | [263841-truck-simulator-2023-driver-europe.json](./263841-truck-simulator-2023-driver-europe.json) |
 | Truck Simulator 2023: Driver Europe - Premium Edition | 328806 | [328806-truck-simulator-2023-driver-europe-premium-edition.json](./328806-truck-simulator-2023-driver-europe-premium-edition.json) |
 | Truck Simulator 2024: USA Driver Zone | 283220 | [283220-truck-simulator-2024-usa-driver-zone.json](./283220-truck-simulator-2024-usa-driver-zone.json) |
 | Truck Simulator 2024: USA Driver Zone - Premium Edition | 313229 | [313229-truck-simulator-2024-usa-driver-zone-premium-edition.json](./313229-truck-simulator-2024-usa-driver-zone-premium-edition.json) |
