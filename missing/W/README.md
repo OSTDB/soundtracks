@@ -2324,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watcher | 83892 | [83892-watcher.json](./83892-watcher.json) |
 | Watcher Chronicles | 161547 | [161547-watcher-chronicles.json](./161547-watcher-chronicles.json) |
 | Watcher From the Void | 374796 | [374796-watcher-from-the-void.json](./374796-watcher-from-the-void.json) |
+| Watcher Of The Abyss | 274813 | [274813-watcher-of-the-abyss.json](./274813-watcher-of-the-abyss.json) |
 | Watchers | 121185 | [121185-watchers.json](./121185-watchers.json) |
 | Watchers of the Universe: I'm Outta Here! | 244404 | [244404-watchers-of-the-universe-im-outta-here.json](./244404-watchers-of-the-universe-im-outta-here.json) |
 | Watchers: Batter Up Pack | 161186 | [161186-watchers-batter-up-pack.json](./161186-watchers-batter-up-pack.json) |
