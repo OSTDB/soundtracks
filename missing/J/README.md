@@ -3468,6 +3468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpy 1D: Christmas Edition | 273950 | [273950-jumpy-1d-christmas-edition.json](./273950-jumpy-1d-christmas-edition.json) |
 | Jumpy Ball Happy Fun Time | 371302 | [371302-jumpy-ball-happy-fun-time.json](./371302-jumpy-ball-happy-fun-time.json) |
 | Jumpy Bunny | 307309 | [307309-jumpy-bunny.json](./307309-jumpy-bunny.json) |
+| Jumpy Clash | 260473 | [260473-jumpy-clash.json](./260473-jumpy-clash.json) |
 | Jumpy Dog | 172752 | [172752-jumpy-dog.json](./172752-jumpy-dog.json) |
 | Jumpy Dunk! | 96755 | [96755-jumpy-dunk.json](./96755-jumpy-dunk.json) |
 | Jumpy Frogs | 175512 | [175512-jumpy-frogs.json](./175512-jumpy-frogs.json) |
@@ -3547,6 +3548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Maths | 319585 | [319585-jungle-maths.json](./319585-jungle-maths.json) |
 | Jungle Max | 291568 | [291568-jungle-max.json](./291568-jungle-max.json) |
 | Jungle Monk | 78627 | [78627-jungle-monk.json](./78627-jungle-monk.json) |
+| Jungle Munchers | 260474 | [260474-jungle-munchers.json](./260474-jungle-munchers.json) |
 | Jungle no Ouja Tar-chan | 228568 | [228568-jungle-no-ouja-tar-chan.json](./228568-jungle-no-ouja-tar-chan.json) |
 | Jungle no Ouja Tar-chan: Sekai Manyu Dai Kakutou no Maki | 38313 | [38313-jungle-no-ouja-tar-chan-sekai-manyu-dai-kakutou-no-maki.json](./38313-jungle-no-ouja-tar-chan-sekai-manyu-dai-kakutou-no-maki.json) |
 | Jungle Panic Amidahebi | 385745 | [385745-jungle-panic-amidahebi.json](./385745-jungle-panic-amidahebi.json) |
