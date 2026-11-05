@@ -2736,6 +2736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nestle Close | 97620 | [97620-nestle-close.json](./97620-nestle-close.json) |
 | Nestle Close 2 | 97618 | [97618-nestle-close-2.json](./97618-nestle-close-2.json) |
 | Nestlé: Mais Divertido | 341273 | [341273-nestle-mais-divertido.json](./341273-nestle-mais-divertido.json) |
+| Nestlé: The Lion King | 273682 | [273682-nestle-the-lion-king.json](./273682-nestle-the-lion-king.json) |
 | Nestor the Nesting Bird | 259548 | [259548-nestor-the-nesting-bird.json](./259548-nestor-the-nesting-bird.json) |
 | Net 24h: Vietnamese Internet Cafe Simulator | 391652 | [391652-net-24h-vietnamese-internet-cafe-simulator.json](./391652-net-24h-vietnamese-internet-cafe-simulator.json) |
 | Net Catcher: Netch | 218065 | [218065-net-catcher-netch.json](./218065-net-catcher-netch.json) |
@@ -7194,6 +7195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Arena | 231585 | [231585-nuclear-arena.json](./231585-nuclear-arena.json) |
 | Nuclear Arms Race | 127600 | [127600-nuclear-arms-race.json](./127600-nuclear-arms-race.json) |
 | Nuclear Assault | 188846 | [188846-nuclear-assault.json](./188846-nuclear-assault.json) |
+| Nuclear Bike | 273695 | [273695-nuclear-bike.json](./273695-nuclear-bike.json) |
 | Nuclear Cheetah | 265958 | [265958-nuclear-cheetah.json](./265958-nuclear-cheetah.json) |
 | Nuclear Chunks | 262165 | [262165-nuclear-chunks.json](./262165-nuclear-chunks.json) |
 | Nuclear Combat Ship | 252714 | [252714-nuclear-combat-ship.json](./252714-nuclear-combat-ship.json) |
