@@ -16283,6 +16283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight | 33711 | [33711-moonlight.json](./33711-moonlight.json) |
 | Moonlight | 422035 | [422035-moonlight.json](./422035-moonlight.json) |
 | MoonLight | 344831 | [344831-moonlight.json](./344831-moonlight.json) |
+| Moonlight Adventure | 275368 | [275368-moonlight-adventure.json](./275368-moonlight-adventure.json) |
 | Moonlight Assault | 275314 | [275314-moonlight-assault.json](./275314-moonlight-assault.json) |
 | Moonlight Basket | 133629 | [133629-moonlight-basket.json](./133629-moonlight-basket.json) |
 | Moonlight Blade | 26716 | [26716-moonlight-blade.json](./26716-moonlight-blade.json) |
@@ -18671,6 +18672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MultiPlanetary | 348137 | [348137-multiplanetary.json](./348137-multiplanetary.json) |
 | Multiplayer BattleTech: 3025 | 284781 | [284781-multiplayer-battletech-3025.json](./284781-multiplayer-battletech-3025.json) |
 | Multiplayer Bots | 275848 | [275848-multiplayer-bots.json](./275848-multiplayer-bots.json) |
+| Multiplayer Cavemen | 275397 | [275397-multiplayer-cavemen.json](./275397-multiplayer-cavemen.json) |
 | Multiplayer Citizens | 384206 | [384206-multiplayer-citizens.json](./384206-multiplayer-citizens.json) |
 | Multiplayer Cowboys | 237781 | [237781-multiplayer-cowboys.json](./237781-multiplayer-cowboys.json) |
 | Multiplayer Drone Simulator | 267839 | [267839-multiplayer-drone-simulator.json](./267839-multiplayer-drone-simulator.json) |
