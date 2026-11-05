@@ -5071,11 +5071,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aik's Cheese Adventures | 98712 | [98712-aiks-cheese-adventures.json](./98712-aiks-cheese-adventures.json) |
 | Aika Online | 23534 | [23534-aika-online.json](./23534-aika-online.json) |
 | Aikagi | 127116 | [127116-aikagi.json](./127116-aikagi.json) |
+| Aikagi | 253680 | [253680-aikagi.json](./253680-aikagi.json) |
 | Aikagi 2 | 127934 | [127934-aikagi-2.json](./127934-aikagi-2.json) |
+| Aikagi 2 | 253696 | [253696-aikagi-2.json](./253696-aikagi-2.json) |
 | Aikagi 2: Limited Edition | 166226 | [166226-aikagi-2-limited-edition.json](./166226-aikagi-2-limited-edition.json) |
 | Aikagi 2: Premium Edition | 136799 | [136799-aikagi-2-premium-edition.json](./136799-aikagi-2-premium-edition.json) |
 | Aikagi 3 | 220346 | [220346-aikagi-3.json](./220346-aikagi-3.json) |
+| Aikagi 3 | 253705 | [253705-aikagi-3.json](./253705-aikagi-3.json) |
 | Aikagi After Days | 127935 | [127935-aikagi-after-days.json](./127935-aikagi-after-days.json) |
+| Aikagi After Days | 253690 | [253690-aikagi-after-days.json](./253690-aikagi-after-days.json) |
 | Aikagi Complete Box | 253709 | [253709-aikagi-complete-box.json](./253709-aikagi-complete-box.json) |
 | Aikagi Kimi to Issho ni Pack: Premium Edition | 136658 | [136658-aikagi-kimi-to-issho-ni-pack-premium-edition.json](./136658-aikagi-kimi-to-issho-ni-pack-premium-edition.json) |
 | Aikagi with After Days | 127937 | [127937-aikagi-with-after-days.json](./127937-aikagi-with-after-days.json) |
@@ -8988,6 +8992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anastronaut II: The Dark Side | 58019 | [58019-anastronaut-ii-the-dark-side.json](./58019-anastronaut-ii-the-dark-side.json) |
 | Anastronaut: The Moon Hopper | 58020 | [58020-anastronaut-the-moon-hopper.json](./58020-anastronaut-the-moon-hopper.json) |
 | Anata dake no Private Lesson: DS de Hajimeru Tipness no Yoga | 269550 | [269550-anata-dake-no-private-lesson-ds-de-hajimeru-tipness-no-yoga.json](./269550-anata-dake-no-private-lesson-ds-de-hajimeru-tipness-no-yoga.json) |
+| Anata ga Ookami Card Death! | 253656 | [253656-anata-ga-ookami-card-death.json](./253656-anata-ga-ookami-card-death.json) |
 | Anata no Shiranai Kangofu: Seiteki Byoutou 24 Ji | 77922 | [77922-anata-no-shiranai-kangofu-seiteki-byoutou-24-ji.json](./77922-anata-no-shiranai-kangofu-seiteki-byoutou-24-ji.json) |
 | Anata o Yurusanai | 59396 | [59396-anata-o-yurusanai.json](./59396-anata-o-yurusanai.json) |
 | Anata wa Akumade Watashi no Mono | 221034 | [221034-anata-wa-akumade-watashi-no-mono.json](./221034-anata-wa-akumade-watashi-no-mono.json) |
@@ -9365,6 +9370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Legion: Shadow Woven - Cyan | 317750 | [317750-angel-legion-shadow-woven-cyan.json](./317750-angel-legion-shadow-woven-cyan.json) |
 | Angel Legion: Shadow Woven - Golden | 302568 | [302568-angel-legion-shadow-woven-golden.json](./302568-angel-legion-shadow-woven-golden.json) |
 | Angel Legion: Shadow Woven - Green | 302575 | [302575-angel-legion-shadow-woven-green.json](./302575-angel-legion-shadow-woven-green.json) |
+| Angel Link | 253651 | [253651-angel-link.json](./253651-angel-link.json) |
 | Angel Made | 156077 | [156077-angel-made.json](./156077-angel-made.json) |
 | Angel Maker | 177758 | [177758-angel-maker.json](./177758-angel-maker.json) |
 | Angel Nieto Pole 500 | 11902 | [11902-angel-nieto-pole-500.json](./11902-angel-nieto-pole-500.json) |
@@ -10875,6 +10881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anti Frank's Wrath | 173255 | [173255-anti-franks-wrath.json](./173255-anti-franks-wrath.json) |
 | Anti Gravity Warriors VR | 74143 | [74143-anti-gravity-warriors-vr.json](./74143-anti-gravity-warriors-vr.json) |
 | Anti Hero Bundle | 147791 | [147791-anti-hero-bundle.json](./147791-anti-hero-bundle.json) |
+| Anti Japanese Heroes | 253652 | [253652-anti-japanese-heroes.json](./253652-anti-japanese-heroes.json) |
 | Anti Pac-Man | 325557 | [325557-anti-pac-man.json](./325557-anti-pac-man.json) |
 | Anti Pong | 147878 | [147878-anti-pong.json](./147878-anti-pong.json) |
 | Anti Terrorist Rush 2 | 116342 | [116342-anti-terrorist-rush-2.json](./116342-anti-terrorist-rush-2.json) |
@@ -15294,6 +15301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aster Initiative | 274035 | [274035-aster-initiative.json](./274035-aster-initiative.json) |
 | Aster League: 2179 | 408839 | [408839-aster-league-2179.json](./408839-aster-league-2179.json) |
 | Aster Pebble and the Case of Bad Bureaucracy | 383402 | [383402-aster-pebble-and-the-case-of-bad-bureaucracy.json](./383402-aster-pebble-and-the-case-of-bad-bureaucracy.json) |
+| Aster Tatariqus | 253704 | [253704-aster-tatariqus.json](./253704-aster-tatariqus.json) |
 | Astera | 304678 | [304678-astera.json](./304678-astera.json) |
 | Asterball | 290883 | [290883-asterball.json](./290883-asterball.json) |
 | Astercys | 307875 | [307875-astercys.json](./307875-astercys.json) |
@@ -16028,6 +16036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Dead of Night | 141235 | [141235-at-dead-of-night.json](./141235-at-dead-of-night.json) |
 | At Dead Of Night: The Great Hugo | 413525 | [413525-at-dead-of-night-the-great-hugo.json](./413525-at-dead-of-night-the-great-hugo.json) |
 | At Death's Door | 341717 | [341717-at-deaths-door.json](./341717-at-deaths-door.json) |
+| At Doom's Trigger | 253701 | [253701-at-dooms-trigger.json](./253701-at-dooms-trigger.json) |
 | At Eternity's Hatch | 398548 | [398548-at-eternitys-hatch.json](./398548-at-eternitys-hatch.json) |
 | At Eve's Wake | 140808 | [140808-at-eves-wake.json](./140808-at-eves-wake.json) |
 | At Fate's End | 348205 | [348205-at-fates-end.json](./348205-at-fates-end.json) |
@@ -17144,6 +17153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autobahn Chaos | 179138 | [179138-autobahn-chaos.json](./179138-autobahn-chaos.json) |
 | Autobahn Police Simulator 2 | 76616 | [76616-autobahn-police-simulator-2.json](./76616-autobahn-police-simulator-2.json) |
 | Autobahn Police Simulator 3 | 153975 | [153975-autobahn-police-simulator-3.json](./153975-autobahn-police-simulator-3.json) |
+| Autobahn Police Simulator 3: Off-Road DLC | 253666 | [253666-autobahn-police-simulator-3-off-road-dlc.json](./253666-autobahn-police-simulator-3-off-road-dlc.json) |
 | Autobahn Police Simulator 3: Police Motorcycle | 370386 | [370386-autobahn-police-simulator-3-police-motorcycle.json](./370386-autobahn-police-simulator-3-police-motorcycle.json) |
 | Autobahn Police Simulator 3: Speed Trap | 370387 | [370387-autobahn-police-simulator-3-speed-trap.json](./370387-autobahn-police-simulator-3-speed-trap.json) |
 | Autobahn Racing | 25448 | [25448-autobahn-racing.json](./25448-autobahn-racing.json) |
