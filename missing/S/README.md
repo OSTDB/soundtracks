@@ -626,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailing | 38928 | [38928-sailing.json](./38928-sailing.json) |
 | Sailing Alone: Aftermath | 312708 | [312708-sailing-alone-aftermath.json](./312708-sailing-alone-aftermath.json) |
 | Sailing Era | 223172 | [223172-sailing-era.json](./223172-sailing-era.json) |
+| Sailing Era: Edge of the World | 264959 | [264959-sailing-era-edge-of-the-world.json](./264959-sailing-era-edge-of-the-world.json) |
 | Sailing Simulator: Baltic Sea & Caribbean | 195998 | [195998-sailing-simulator-baltic-sea-and-caribbean.json](./195998-sailing-simulator-baltic-sea-and-caribbean.json) |
 | Sailing Stone | 189881 | [189881-sailing-stone.json](./189881-sailing-stone.json) |
 | Sailing the Winds | 323699 | [323699-sailing-the-winds.json](./323699-sailing-the-winds.json) |
@@ -6222,6 +6223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Slaves | 301655 | [301655-sex-slaves.json](./301655-sex-slaves.json) |
 | Sex Standing | 243320 | [243320-sex-standing.json](./243320-sex-standing.json) |
 | Sex Story: Cuckold Life - Episode 1 | 367277 | [367277-sex-story-cuckold-life-episode-1.json](./367277-sex-story-cuckold-life-episode-1.json) |
+| Sex Story: Cuckold Life - Episode 3 | 265302 | [265302-sex-story-cuckold-life-episode-3.json](./265302-sex-story-cuckold-life-episode-3.json) |
 | Sex Story: Cuckold Life - Episode 4 | 263762 | [263762-sex-story-cuckold-life-episode-4.json](./263762-sex-story-cuckold-life-episode-4.json) |
 | Sex Story: Cuckold Life - Episode 5 | 264635 | [264635-sex-story-cuckold-life-episode-5.json](./264635-sex-story-cuckold-life-episode-5.json) |
 | Sex Story: Cuckold Life - Episode 6 | 265867 | [265867-sex-story-cuckold-life-episode-6.json](./265867-sex-story-cuckold-life-episode-6.json) |
@@ -6594,6 +6596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of Kingdoms | 34813 | [34813-shadow-of-kingdoms.json](./34813-shadow-of-kingdoms.json) |
 | Shadow of Light | 337686 | [337686-shadow-of-light.json](./337686-shadow-of-light.json) |
 | Shadow of Mammon | 258453 | [258453-shadow-of-mammon.json](./258453-shadow-of-mammon.json) |
+| Shadow of Murders | 265443 | [265443-shadow-of-murders.json](./265443-shadow-of-murders.json) |
 | Shadow of Naught | 138042 | [138042-shadow-of-naught.json](./138042-shadow-of-naught.json) |
 | Shadow of Nebula | 20366 | [20366-shadow-of-nebula.json](./20366-shadow-of-nebula.json) |
 | Shadow of Oryda | 399021 | [399021-shadow-of-oryda.json](./399021-shadow-of-oryda.json) |
@@ -18902,6 +18905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Bugger | 281028 | [281028-space-bugger.json](./281028-space-bugger.json) |
 | Space Bugs | 110544 | [110544-space-bugs.json](./110544-space-bugs.json) |
 | Space Bunnies Must Die! | 51371 | [51371-space-bunnies-must-die.json](./51371-space-bunnies-must-die.json) |
+| Space Bunny | 265454 | [265454-space-bunny.json](./265454-space-bunny.json) |
 | Space Bunny Explorers | 208596 | [208596-space-bunny-explorers.json](./208596-space-bunny-explorers.json) |
 | Space Bust-A-Move | 20484 | [20484-space-bust-a-move.json](./20484-space-bust-a-move.json) |
 | Space Cactus Canyon | 292070 | [292070-space-cactus-canyon.json](./292070-space-cactus-canyon.json) |
@@ -25330,6 +25334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stationery Frontier | 188974 | [188974-stationery-frontier.json](./188974-stationery-frontier.json) |
 | Stationfall | 12624 | [12624-stationfall.json](./12624-stationfall.json) |
 | Stationflow | 127462 | [127462-stationflow.json](./127462-stationflow.json) |
+| Stations in Seoul: Open World Card RPG | 265446 | [265446-stations-in-seoul-open-world-card-rpg.json](./265446-stations-in-seoul-open-world-card-rpg.json) |
 | Statix | 78883 | [78883-statix.json](./78883-statix.json) |
 | Statless | 121954 | [121954-statless.json](./121954-statless.json) |
 | Stattogories | 239339 | [239339-stattogories.json](./239339-stattogories.json) |
@@ -26716,6 +26721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storage 8 | 414485 | [414485-storage-8.json](./414485-storage-8.json) |
 | Storage 8 VR | 414746 | [414746-storage-8-vr.json](./414746-storage-8-vr.json) |
 | Storage Anomaly | 325821 | [325821-storage-anomaly.json](./325821-storage-anomaly.json) |
+| Storage Auction | 264961 | [264961-storage-auction.json](./264961-storage-auction.json) |
 | Storage Chase | 172914 | [172914-storage-chase.json](./172914-storage-chase.json) |
 | Storage Dealer Simulator | 270544 | [270544-storage-dealer-simulator.json](./270544-storage-dealer-simulator.json) |
 | Storage Guys | 318046 | [318046-storage-guys.json](./318046-storage-guys.json) |
@@ -34604,6 +34610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swipe Brick Breaker | 233415 | [233415-swipe-brick-breaker.json](./233415-swipe-brick-breaker.json) |
 | Swipe Casters | 87732 | [87732-swipe-casters.json](./87732-swipe-casters.json) |
 | Swipe Fruit Smash | 103770 | [103770-swipe-fruit-smash.json](./103770-swipe-fruit-smash.json) |
+| Swipe Link | 264969 | [264969-swipe-link.json](./264969-swipe-link.json) |
 | Swipe Manager: Soccer 2018 | 252313 | [252313-swipe-manager-soccer-2018.json](./252313-swipe-manager-soccer-2018.json) |
 | Swipe Quest | 53695 | [53695-swipe-quest.json](./53695-swipe-quest.json) |
 | Swipe Right or Left Geography Binary Quiz | 300914 | [300914-swipe-right-or-left-geography-binary-quiz.json](./300914-swipe-right-or-left-geography-binary-quiz.json) |
