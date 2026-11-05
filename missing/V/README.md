@@ -3086,6 +3086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vladimir | 419758 | [419758-vladimir.json](./419758-vladimir.json) |
 | Vladimir 2021 | 156542 | [156542-vladimir-2021.json](./156542-vladimir-2021.json) |
 | Vladimir Putin Style | 125362 | [125362-vladimir-putin-style.json](./125362-vladimir-putin-style.json) |
+| Vlak | 273190 | [273190-vlak.json](./273190-vlak.json) |
 | Vlak | 377281 | [377281-vlak.json](./377281-vlak.json) |
 | Vlinder Life | 301133 | [301133-vlinder-life.json](./301133-vlinder-life.json) |
 | Vlogger Go Viral | 102765 | [102765-vlogger-go-viral.json](./102765-vlogger-go-viral.json) |
