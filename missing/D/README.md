@@ -7111,6 +7111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Designasaurus | 147228 | [147228-designasaurus.json](./147228-designasaurus.json) |
 | Designed for Danger | 321771 | [321771-designed-for-danger.json](./321771-designed-for-danger.json) |
 | Designed to Climb | 316861 | [316861-designed-to-climb.json](./316861-designed-to-climb.json) |
+| Designer City 2 | 263296 | [263296-designer-city-2.json](./263296-designer-city-2.json) |
 | Desiigner's Panda Rush | 99354 | [99354-desiigners-panda-rush.json](./99354-desiigners-panda-rush.json) |
 | Desinformator | 365803 | [365803-desinformator.json](./365803-desinformator.json) |
 | Desirable Deals | 279671 | [279671-desirable-deals.json](./279671-desirable-deals.json) |
@@ -9779,6 +9780,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Swamp | 324170 | [324170-dirty-swamp.json](./324170-dirty-swamp.json) |
 | Dirty Teachers | 368091 | [368091-dirty-teachers.json](./368091-dirty-teachers.json) |
 | Dirty Texts: Are You Sure? | 263221 | [263221-dirty-texts-are-you-sure.json](./263221-dirty-texts-are-you-sure.json) |
+| Dirty Texts: Melissa's Secret | 263271 | [263271-dirty-texts-melissas-secret.json](./263271-dirty-texts-melissas-secret.json) |
+| Dirty Texts: New Intern | 263273 | [263273-dirty-texts-new-intern.json](./263273-dirty-texts-new-intern.json) |
 | Dirty Vampires: An RPG Tower Defence Adventure | 241297 | [241297-dirty-vampires-an-rpg-tower-defence-adventure.json](./241297-dirty-vampires-an-rpg-tower-defence-adventure.json) |
 | Dirty Work | 412884 | [412884-dirty-work.json](./412884-dirty-work.json) |
 | Dirtyblock | 195374 | [195374-dirtyblock.json](./195374-dirtyblock.json) |
@@ -16208,6 +16211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift'n'Drive | 134446 | [134446-driftndrive.json](./134446-driftndrive.json) |
 | Drift'n'Drive | 200025 | [200025-driftndrive.json](./200025-driftndrive.json) |
 | Drift86 | 130636 | [130636-drift86.json](./130636-drift86.json) |
+| Drift86: Map Pack | 263279 | [263279-drift86-map-pack.json](./263279-drift86-map-pack.json) |
 | DriftBorne | 399209 | [399209-driftborne.json](./399209-driftborne.json) |
 | DriftCE | 249331 | [249331-driftce.json](./249331-driftce.json) |
 | DriftCE: Toyota Chaser JZX100 | 290759 | [290759-driftce-toyota-chaser-jzx100.json](./290759-driftce-toyota-chaser-jzx100.json) |
@@ -17693,6 +17697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Defenders: Summoner Hero DLC | 164349 | [164349-dungeon-defenders-summoner-hero-dlc.json](./164349-dungeon-defenders-summoner-hero-dlc.json) |
 | Dungeon Defenders: Talay Mining Complex Mission Pack | 160298 | [160298-dungeon-defenders-talay-mining-complex-mission-pack.json](./160298-dungeon-defenders-talay-mining-complex-mission-pack.json) |
 | Dungeon Defenders: The Great Turkey Hunt! Mission & Costumes | 164357 | [164357-dungeon-defenders-the-great-turkey-hunt-mission-and-costumes.json](./164357-dungeon-defenders-the-great-turkey-hunt-mission-and-costumes.json) |
+| Dungeon Defenders: The Tinkerer's Lab Mission Pack | 263264 | [263264-dungeon-defenders-the-tinkerers-lab-mission-pack.json](./263264-dungeon-defenders-the-tinkerers-lab-mission-pack.json) |
 | Dungeon Defenders: Warden Hero DLC | 364559 | [364559-dungeon-defenders-warden-hero-dlc.json](./364559-dungeon-defenders-warden-hero-dlc.json) |
 | Dungeon Defenders: Warping Core Challenge Mission Pack | 164346 | [164346-dungeon-defenders-warping-core-challenge-mission-pack.json](./164346-dungeon-defenders-warping-core-challenge-mission-pack.json) |
 | Dungeon Defense | 101216 | [101216-dungeon-defense.json](./101216-dungeon-defense.json) |
