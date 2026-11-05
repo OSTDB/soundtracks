@@ -2072,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Guy Soundboard | 323375 | [323375-car-guy-soundboard.json](./323375-car-guy-soundboard.json) |
 | Car Guys | 345423 | [345423-car-guys.json](./345423-car-guys.json) |
 | Car Heist Simulator: Thief Mechanic | 328564 | [328564-car-heist-simulator-thief-mechanic.json](./328564-car-heist-simulator-thief-mechanic.json) |
+| Car Hunt | 277659 | [277659-car-hunt.json](./277659-car-hunt.json) |
 | Car II: Grandprix | 239570 | [239570-car-ii-grandprix.json](./239570-car-ii-grandprix.json) |
 | Car Jack Streets | 44498 | [44498-car-jack-streets.json](./44498-car-jack-streets.json) |
 | Car Jamboree | 40232 | [40232-car-jamboree.json](./40232-car-jamboree.json) |
@@ -4268,6 +4269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch the Clown II | 331897 | [331897-catch-the-clown-ii.json](./331897-catch-the-clown-ii.json) |
 | Catch the Donut | 164276 | [164276-catch-the-donut.json](./164276-catch-the-donut.json) |
 | Catch the Dustling | 329077 | [329077-catch-the-dustling.json](./329077-catch-the-dustling.json) |
+| Catch the Egg | 277666 | [277666-catch-the-egg.json](./277666-catch-the-egg.json) |
 | Catch the Fish | 418907 | [418907-catch-the-fish.json](./418907-catch-the-fish.json) |
 | Catch The Fox | 247499 | [247499-catch-the-fox.json](./247499-catch-the-fox.json) |
 | Catch the Head | 119601 | [119601-catch-the-head.json](./119601-catch-the-head.json) |
@@ -19642,6 +19644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Fight | 219748 | [219748-cute-fight.json](./219748-cute-fight.json) |
 | Cute Fighter | 201168 | [201168-cute-fighter.json](./201168-cute-fighter.json) |
 | Cute Finders | 381700 | [381700-cute-finders.json](./381700-cute-finders.json) |
+| Cute Fish | 277682 | [277682-cute-fish.json](./277682-cute-fish.json) |
 | Cute girl with uncle's leisure time | 278737 | [278737-cute-girl-with-uncles-leisure-time.json](./278737-cute-girl-with-uncles-leisure-time.json) |
 | Cute Girls | 243627 | [243627-cute-girls.json](./243627-cute-girls.json) |
 | Cute Hedgehog | 84100 | [84100-cute-hedgehog.json](./84100-cute-hedgehog.json) |
