@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Good Field | 337800 | [337800-a-good-field.json](./337800-a-good-field.json) |
 | A Good Hunch | 219116 | [219116-a-good-hunch.json](./219116-a-good-hunch.json) |
 | A Good Librarian Like a Good Shepherd | 106621 | [106621-a-good-librarian-like-a-good-shepherd.json](./106621-a-good-librarian-like-a-good-shepherd.json) |
+| A Good Night's Rest | 292315 | [292315-a-good-nights-rest.json](./292315-a-good-nights-rest.json) |
 | A Good Place To Die | 247317 | [247317-a-good-place-to-die.json](./247317-a-good-place-to-die.json) |
 | A Good Snowman is Hard to Build | 14678 | [14678-a-good-snowman-is-hard-to-build.json](./14678-a-good-snowman-is-hard-to-build.json) |
 | A Good Truck Driver | 197001 | [197001-a-good-truck-driver.json](./197001-a-good-truck-driver.json) |
@@ -16205,6 +16206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
@@ -16510,6 +16512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Toy Tanks | 120178 | [120178-attack-of-the-toy-tanks.json](./120178-attack-of-the-toy-tanks.json) |
 | Attack of the Trafalas | 213435 | [213435-attack-of-the-trafalas.json](./213435-attack-of-the-trafalas.json) |
 | Attack of the Trolls! | 234713 | [234713-attack-of-the-trolls.json](./234713-attack-of-the-trolls.json) |
+| Attack of The Worker | 292355 | [292355-attack-of-the-worker.json](./292355-attack-of-the-worker.json) |
 | Attack of the Zolgear | 58775 | [58775-attack-of-the-zolgear.json](./58775-attack-of-the-zolgear.json) |
 | Attack of the Zombie Bikini Babes From Outer Space | 24276 | [24276-attack-of-the-zombie-bikini-babes-from-outer-space.json](./24276-attack-of-the-zombie-bikini-babes-from-outer-space.json) |
 | Attack of Undo Zai | 191242 | [191242-attack-of-undo-zai.json](./191242-attack-of-undo-zai.json) |
