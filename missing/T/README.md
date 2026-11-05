@@ -2837,6 +2837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TCM Racing 2 | 380730 | [380730-tcm-racing-2.json](./380730-tcm-racing-2.json) |
 | TCQ | 216272 | [216272-tcq.json](./216272-tcq.json) |
 | TCStrikers5 | 339414 | [339414-tcstrikers5.json](./339414-tcstrikers5.json) |
+| TD Designer | 286306 | [286306-td-designer.json](./286306-td-designer.json) |
 | TD GoGoGo | 200825 | [200825-td-gogogo.json](./200825-td-gogogo.json) |
 | TD Master | 397005 | [397005-td-master.json](./397005-td-master.json) |
 | TD Overdrive: The Brotherhood of Speed | 6191 | [6191-td-overdrive-the-brotherhood-of-speed.json](./6191-td-overdrive-the-brotherhood-of-speed.json) |
@@ -10594,6 +10595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House of Mr Chocolate | 142963 | [142963-the-house-of-mr-chocolate.json](./142963-the-house-of-mr-chocolate.json) |
 | The House of Rats | 248829 | [248829-the-house-of-rats.json](./248829-the-house-of-rats.json) |
 | The House of Silence | 299514 | [299514-the-house-of-silence.json](./299514-the-house-of-silence.json) |
+| The House of Tesla: Definitive Edition | 286340 | [286340-the-house-of-tesla-definitive-edition.json](./286340-the-house-of-tesla-definitive-edition.json) |
 | The House of the Dead | 2469 | [2469-the-house-of-the-dead.json](./2469-the-house-of-the-dead.json) |
 | The House of the Dead 2 | 13777 | [13777-the-house-of-the-dead-2.json](./13777-the-house-of-the-dead-2.json) |
 | The House of the Dead 2 & 3 Return | 4918 | [4918-the-house-of-the-dead-2-and-3-return.json](./4918-the-house-of-the-dead-2-and-3-return.json) |
@@ -13033,6 +13035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Souls | 33236 | [33236-the-lost-souls.json](./33236-the-lost-souls.json) |
 | The Lost Streamer | 413791 | [413791-the-lost-streamer.json](./413791-the-lost-streamer.json) |
 | The Lost Strings | 121449 | [121449-the-lost-strings.json](./121449-the-lost-strings.json) |
+| The Lost Tape: Cellar | 286344 | [286344-the-lost-tape-cellar.json](./286344-the-lost-tape-cellar.json) |
 | The Lost Temple | 276398 | [276398-the-lost-temple.json](./276398-the-lost-temple.json) |
 | The Lost Temples | 421600 | [421600-the-lost-temples.json](./421600-the-lost-temples.json) |
 | The Lost Tetekoa | 327202 | [327202-the-lost-tetekoa.json](./327202-the-lost-tetekoa.json) |
@@ -29399,6 +29402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Cove | 409196 | [409196-treasure-cove.json](./409196-treasure-cove.json) |
 | Treasure Cove! | 100081 | [100081-treasure-cove.json](./100081-treasure-cove.json) |
 | Treasure Cove! + Treasure Mountain! | 93125 | [93125-treasure-cove-treasure-mountain.json](./93125-treasure-cove-treasure-mountain.json) |
+| Treasure Defence | 286348 | [286348-treasure-defence.json](./286348-treasure-defence.json) |
 | Treasure Dive | 278504 | [278504-treasure-dive.json](./278504-treasure-dive.json) |
 | Treasure Dive | 317459 | [317459-treasure-dive.json](./317459-treasure-dive.json) |
 | Treasure Drop | 373651 | [373651-treasure-drop.json](./373651-treasure-drop.json) |
