@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoin: Coin Pusher Roguelike | 360748 | [360748-raccoin-coin-pusher-roguelike.json](./360748-raccoin-coin-pusher-roguelike.json) |
 | Raccoo Venture | 113876 | [113876-raccoo-venture.json](./113876-raccoo-venture.json) |
 | Raccoon & Possum Just Want to Read a Book | 307123 | [307123-raccoon-and-possum-just-want-to-read-a-book.json](./307123-raccoon-and-possum-just-want-to-read-a-book.json) |
+| Raccoon Adventure | 257715 | [257715-raccoon-adventure.json](./257715-raccoon-adventure.json) |
 | Raccoon Arrival | 150627 | [150627-raccoon-arrival.json](./150627-raccoon-arrival.json) |
 | Raccoon Bubbles | 208963 | [208963-raccoon-bubbles.json](./208963-raccoon-bubbles.json) |
 | Raccoon City Edition: Z Version | 218545 | [218545-raccoon-city-edition-z-version.json](./218545-raccoon-city-edition-z-version.json) |
