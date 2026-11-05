@@ -1076,6 +1076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Destiny | 63519 | [63519-magic-destiny.json](./63519-magic-destiny.json) |
 | Magic Disc Golf | 189309 | [189309-magic-disc-golf.json](./189309-magic-disc-golf.json) |
 | Magic Dodgeball: Homeless Edition | 361875 | [361875-magic-dodgeball-homeless-edition.json](./361875-magic-dodgeball-homeless-edition.json) |
+| Magic Donut Adventure: Line Match 3 Puzzle | 267149 | [267149-magic-donut-adventure-line-match-3-puzzle.json](./267149-magic-donut-adventure-line-match-3-puzzle.json) |
 | Magic Doom | 275430 | [275430-magic-doom.json](./275430-magic-doom.json) |
 | Magic Duck | 287787 | [287787-magic-duck.json](./287787-magic-duck.json) |
 | Magic Duels | 17696 | [17696-magic-duels.json](./17696-magic-duels.json) |
@@ -4167,6 +4168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maritime Hegemony | 220748 | [220748-maritime-hegemony.json](./220748-maritime-hegemony.json) |
 | Maritime Mecha Mystery | 291558 | [291558-maritime-mecha-mystery.json](./291558-maritime-mecha-mystery.json) |
 | Marito Arcade | 228317 | [228317-marito-arcade.json](./228317-marito-arcade.json) |
+| Marito Arcade 2 | 267184 | [267184-marito-arcade-2.json](./267184-marito-arcade-2.json) |
 | Mariuccha Alchemy Queen | 149449 | [149449-mariuccha-alchemy-queen.json](./149449-mariuccha-alchemy-queen.json) |
 | Mariuccha, Alchemy Queen | 179332 | [179332-mariuccha-alchemy-queen.json](./179332-mariuccha-alchemy-queen.json) |
 | Marius | 180415 | [180415-marius.json](./180415-marius.json) |
@@ -5815,6 +5817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -7614,6 +7617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Overdrive | 326497 | [326497-mega-man-overdrive.json](./326497-mega-man-overdrive.json) |
 | Mega Man Perfect Blue | 132024 | [132024-mega-man-perfect-blue.json](./132024-mega-man-perfect-blue.json) |
 | Mega Man Perfect Harmony | 210481 | [210481-mega-man-perfect-harmony.json](./210481-mega-man-perfect-harmony.json) |
+| Mega Man Permafrost | 267168 | [267168-mega-man-permafrost.json](./267168-mega-man-permafrost.json) |
 | Mega Man Pinball | 401678 | [401678-mega-man-pinball.json](./401678-mega-man-pinball.json) |
 | Mega Man Polarity Reconstruction | 210483 | [210483-mega-man-polarity-reconstruction.json](./210483-mega-man-polarity-reconstruction.json) |
 | Mega Man Powered Up | 12937 | [12937-mega-man-powered-up.json](./12937-mega-man-powered-up.json) |
@@ -18691,6 +18695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multi Sports | 94688 | [94688-multi-sports.json](./94688-multi-sports.json) |
 | Multi Sports II | 301579 | [301579-multi-sports-ii.json](./301579-multi-sports-ii.json) |
 | Multi Theft Auto | 140059 | [140059-multi-theft-auto.json](./140059-multi-theft-auto.json) |
+| Multi Turret Academy | 267131 | [267131-multi-turret-academy.json](./267131-multi-turret-academy.json) |
 | Multi-Path | 310343 | [310343-multi-path.json](./310343-multi-path.json) |
 | Multi-Purpose Arcade Combat Simulator | 38192 | [38192-multi-purpose-arcade-combat-simulator.json](./38192-multi-purpose-arcade-combat-simulator.json) |
 | Multi-Users in Middle-earth | 136790 | [136790-multi-users-in-middle-earth.json](./136790-multi-users-in-middle-earth.json) |
