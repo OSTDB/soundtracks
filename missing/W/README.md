@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waaaaaa: A Prehistoric Adventure With Aliens | 392230 | [392230-waaaaaa-a-prehistoric-adventure-with-aliens.json](./392230-waaaaaa-a-prehistoric-adventure-with-aliens.json) |
 | Waba | 104821 | [104821-waba.json](./104821-waba.json) |
 | Wabash Cannonball | 175415 | [175415-wabash-cannonball.json](./175415-wabash-cannonball.json) |
+| Wabbalidu | 252465 | [252465-wabbalidu.json](./252465-wabbalidu.json) |
 | Wabbit | 40603 | [40603-wabbit.json](./40603-wabbit.json) |
 | Wabisabi | 127786 | [127786-wabisabi.json](./127786-wabisabi.json) |
 | Wacca | 122641 | [122641-wacca.json](./122641-wacca.json) |
@@ -1702,6 +1703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlock: Master of the Arcane - Complete Edition | 53909 | [53909-warlock-master-of-the-arcane-complete-edition.json](./53909-warlock-master-of-the-arcane-complete-edition.json) |
 | Warlock: Tower Defence | 103042 | [103042-warlock-tower-defence.json](./103042-warlock-tower-defence.json) |
 | Warlock's Citadel | 35574 | [35574-warlocks-citadel.json](./35574-warlocks-citadel.json) |
+| Warlock's Gantlet | 252512 | [252512-warlocks-gantlet.json](./252512-warlocks-gantlet.json) |
 | Warlock's Mountain | 71999 | [71999-warlocks-mountain.json](./71999-warlocks-mountain.json) |
 | Warlock's Quest | 57697 | [57697-warlocks-quest.json](./57697-warlocks-quest.json) |
 | Warlock's Tower | 213219 | [213219-warlocks-tower.json](./213219-warlocks-tower.json) |
@@ -5171,6 +5173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West Miner Simulator: First Gun | 405094 | [405094-wild-west-miner-simulator-first-gun.json](./405094-wild-west-miner-simulator-first-gun.json) |
 | Wild West Online | 29139 | [29139-wild-west-online.json](./29139-wild-west-online.json) |
 | Wild West Pioneers | 341034 | [341034-wild-west-pioneers.json](./341034-wild-west-pioneers.json) |
+| Wild West Pistolero | 252463 | [252463-wild-west-pistolero.json](./252463-wild-west-pistolero.json) |
 | Wild West Quest 2 | 100073 | [100073-wild-west-quest-2.json](./100073-wild-west-quest-2.json) |
 | Wild West Quest: Gold Rush | 100223 | [100223-wild-west-quest-gold-rush.json](./100223-wild-west-quest-gold-rush.json) |
 | Wild West Races | 175395 | [175395-wild-west-races.json](./175395-wild-west-races.json) |
@@ -8832,6 +8835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WRC II Extreme | 8314 | [8314-wrc-ii-extreme.json](./8314-wrc-ii-extreme.json) |
 | WRC Powerslide | 19972 | [19972-wrc-powerslide.json](./19972-wrc-powerslide.json) |
 | WRC: FIA World Rally Championship | 7250 | [7250-wrc-fia-world-rally-championship.json](./7250-wrc-fia-world-rally-championship.json) |
+| WRC: FIA World Rally Championship - The Official Game | 252500 | [252500-wrc-fia-world-rally-championship-the-official-game.json](./252500-wrc-fia-world-rally-championship-the-official-game.json) |
 | WRC: FIA World Rally Championship Arcade | 79734 | [79734-wrc-fia-world-rally-championship-arcade.json](./79734-wrc-fia-world-rally-championship-arcade.json) |
 | WRC: Rally Evolved | 8317 | [8317-wrc-rally-evolved.json](./8317-wrc-rally-evolved.json) |
 | Wreak the Havoc | 156564 | [156564-wreak-the-havoc.json](./156564-wreak-the-havoc.json) |
