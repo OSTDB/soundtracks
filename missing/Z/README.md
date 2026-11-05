@@ -929,8 +929,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Losses | 204544 | [204544-zero-losses.json](./204544-zero-losses.json) |
 | Zero Memory | 185532 | [185532-zero-memory.json](./185532-zero-memory.json) |
 | Zero Moment | 348715 | [348715-zero-moment.json](./348715-zero-moment.json) |
+| Zero no Tsukaima Fantasy Force | 268802 | [268802-zero-no-tsukaima-fantasy-force.json](./268802-zero-no-tsukaima-fantasy-force.json) |
+| Zero no Tsukaima Fantasy Force 2nd Impact | 268803 | [268803-zero-no-tsukaima-fantasy-force-2nd-impact.json](./268803-zero-no-tsukaima-fantasy-force-2nd-impact.json) |
 | Zero no Tsukaima: Ko-akuma to Harukaze no Concerto | 72685 | [72685-zero-no-tsukaima-ko-akuma-to-harukaze-no-concerto.json](./72685-zero-no-tsukaima-ko-akuma-to-harukaze-no-concerto.json) |
 | Zero no Tsukaima: Mago no Period to Ikusen no Symphony | 71890 | [71890-zero-no-tsukaima-mago-no-period-to-ikusen-no-symphony.json](./71890-zero-no-tsukaima-mago-no-period-to-ikusen-no-symphony.json) |
+| Zero no Tsukaima: Maigo no Period to Ikusen no Symphony | 268804 | [268804-zero-no-tsukaima-maigo-no-period-to-ikusen-no-symphony.json](./268804-zero-no-tsukaima-maigo-no-period-to-ikusen-no-symphony.json) |
 | Zero no Tsukaima: Muma ga Tsumugu Yokaze no Gensoukyoku | 72642 | [72642-zero-no-tsukaima-muma-ga-tsumugu-yokaze-no-gensoukyoku.json](./72642-zero-no-tsukaima-muma-ga-tsumugu-yokaze-no-gensoukyoku.json) |
 | Zero One | 115811 | [115811-zero-one.json](./115811-zero-one.json) |
 | Zero One | 257546 | [257546-zero-one.json](./257546-zero-one.json) |
