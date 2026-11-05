@@ -4782,6 +4782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glider 4.0 | 72313 | [72313-glider-4-0.json](./72313-glider-4-0.json) |
 | Glider Classic | 128791 | [128791-glider-classic.json](./128791-glider-classic.json) |
 | Glider Island | 32109 | [32109-glider-island.json](./32109-glider-island.json) |
+| Glider Pilot | 262115 | [262115-glider-pilot.json](./262115-glider-pilot.json) |
 | Glider Rider | 13002 | [13002-glider-rider.json](./13002-glider-rider.json) |
 | Glider Sim | 160085 | [160085-glider-sim.json](./160085-glider-sim.json) |
 | Glider Simulator | 326413 | [326413-glider-simulator.json](./326413-glider-simulator.json) |
@@ -7122,6 +7123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorby no Pipeline Daisakusen | 48481 | [48481-gorby-no-pipeline-daisakusen.json](./48481-gorby-no-pipeline-daisakusen.json) |
 | Gord | 146212 | [146212-gord.json](./146212-gord.json) |
 | Gord: Deluxe Edition | 259522 | [259522-gord-deluxe-edition.json](./259522-gord-deluxe-edition.json) |
+| Gord: Hold Your Ground | 262038 | [262038-gord-hold-your-ground.json](./262038-gord-hold-your-ground.json) |
 | Gord: The Alliance | 297114 | [297114-gord-the-alliance.json](./297114-gord-the-alliance.json) |
 | Gord: Ultimate Edition | 401939 | [401939-gord-ultimate-edition.json](./401939-gord-ultimate-edition.json) |
 | Gordi's Magical Movie Adventure | 335049 | [335049-gordis-magical-movie-adventure.json](./335049-gordis-magical-movie-adventure.json) |
@@ -8388,6 +8390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Escape | 128255 | [128255-gravity-escape.json](./128255-gravity-escape.json) |
 | Gravity Falls | 382577 | [382577-gravity-falls.json](./382577-gravity-falls.json) |
 | Gravity Falls: Legend of the Gnome Gemulets | 44014 | [44014-gravity-falls-legend-of-the-gnome-gemulets.json](./44014-gravity-falls-legend-of-the-gnome-gemulets.json) |
+| Gravity Falls: PinesQuest | 262126 | [262126-gravity-falls-pinesquest.json](./262126-gravity-falls-pinesquest.json) |
 | Gravity Field | 155951 | [155951-gravity-field.json](./155951-gravity-field.json) |
 | Gravity Fight | 73476 | [73476-gravity-fight.json](./73476-gravity-fight.json) |
 | Gravity Fighters | 98213 | [98213-gravity-fighters.json](./98213-gravity-fighters.json) |
@@ -9851,6 +9854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gryphon | 26260 | [26260-gryphon.json](./26260-gryphon.json) |
 | Gryphon Knight Epic | 19949 | [19949-gryphon-knight-epic.json](./19949-gryphon-knight-epic.json) |
 | Gryphon Knight Epic: Definitive Edition | 147738 | [147738-gryphon-knight-epic-definitive-edition.json](./147738-gryphon-knight-epic-definitive-edition.json) |
+| Gryzor | 262139 | [262139-gryzor.json](./262139-gryzor.json) |
 | gShift | 24740 | [24740-gshift.json](./24740-gshift.json) |
 | GSIII: Combat Flight Simulator - Heroes of the MIG Alley | 97914 | [97914-gsiii-combat-flight-simulator-heroes-of-the-mig-alley.json](./97914-gsiii-combat-flight-simulator-heroes-of-the-mig-alley.json) |
 | GSpot Master | 286393 | [286393-gspot-master.json](./286393-gspot-master.json) |
