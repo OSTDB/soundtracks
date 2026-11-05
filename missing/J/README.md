@@ -961,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Allstars | 64134 | [64134-jelly-allstars.json](./64134-jelly-allstars.json) |
 | Jelly Battle | 237305 | [237305-jelly-battle.json](./237305-jelly-battle.json) |
 | Jelly Battle | 300739 | [300739-jelly-battle.json](./300739-jelly-battle.json) |
+| Jelly Belly | 286313 | [286313-jelly-belly.json](./286313-jelly-belly.json) |
 | Jelly Blocks | 117165 | [117165-jelly-blocks.json](./117165-jelly-blocks.json) |
 | Jelly Bomber | 107713 | [107713-jelly-bomber.json](./107713-jelly-bomber.json) |
 | Jelly Boy | 23858 | [23858-jelly-boy.json](./23858-jelly-boy.json) |
