@@ -679,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QUByte Classics: Gourmet Warriors | 263495 | [263495-qubyte-classics-gourmet-warriors.json](./263495-qubyte-classics-gourmet-warriors.json) |
 | QUByte Classics: Jim Power - The Lost Dimension by Piko | 203269 | [203269-qubyte-classics-jim-power-the-lost-dimension-by-piko.json](./203269-qubyte-classics-jim-power-the-lost-dimension-by-piko.json) |
 | QUByte Classics: Radical Rex | 216195 | [216195-qubyte-classics-radical-rex.json](./216195-qubyte-classics-radical-rex.json) |
+| QUByte Classics: Risky Woods | 256070 | [256070-qubyte-classics-risky-woods.json](./256070-qubyte-classics-risky-woods.json) |
 | QUByte Classics: The Samurai Collection | 223156 | [223156-qubyte-classics-the-samurai-collection.json](./223156-qubyte-classics-the-samurai-collection.json) |
 | QUByte Classics: The Tale of Clouds and Wind | 231228 | [231228-qubyte-classics-the-tale-of-clouds-and-wind.json](./231228-qubyte-classics-the-tale-of-clouds-and-wind.json) |
 | QUByte Classics: Thunderbolt Collection by Piko | 210630 | [210630-qubyte-classics-thunderbolt-collection-by-piko.json](./210630-qubyte-classics-thunderbolt-collection-by-piko.json) |
