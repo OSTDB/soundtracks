@@ -3705,6 +3705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Reach | 358964 | [358964-endless-reach.json](./358964-endless-reach.json) |
 | Endless Return | 293007 | [293007-endless-return.json](./293007-endless-return.json) |
 | Endless Road | 98866 | [98866-endless-road.json](./98866-endless-road.json) |
+| Endless Road Runner | 289125 | [289125-endless-road-runner.json](./289125-endless-road-runner.json) |
 | Endless Robot Dash | 344403 | [344403-endless-robot-dash.json](./344403-endless-robot-dash.json) |
 | Endless RPG | 119705 | [119705-endless-rpg.json](./119705-endless-rpg.json) |
 | Endless RPG: Untold Tales | 265800 | [265800-endless-rpg-untold-tales.json](./265800-endless-rpg-untold-tales.json) |
