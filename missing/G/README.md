@@ -5819,6 +5819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of Thunder | 2526 | [2526-god-of-thunder.json](./2526-god-of-thunder.json) |
 | God of Track | 243076 | [243076-god-of-track.json](./243076-god-of-track.json) |
 | God of War | 117883 | [117883-god-of-war.json](./117883-god-of-war.json) |
+| God of War | 273174 | [273174-god-of-war.json](./273174-god-of-war.json) |
 | God of War Collection | 20068 | [20068-god-of-war-collection.json](./20068-god-of-war-collection.json) |
 | God of War II | 117882 | [117882-god-of-war-ii.json](./117882-god-of-war-ii.json) |
 | God of War II Remake | 389451 | [389451-god-of-war-ii-remake.json](./389451-god-of-war-ii-remake.json) |
