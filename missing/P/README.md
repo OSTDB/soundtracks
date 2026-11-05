@@ -9464,6 +9464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play To Win | 276788 | [276788-play-to-win.json](./276788-play-to-win.json) |
 | Play Together | 145357 | [145357-play-together.json](./145357-play-together.json) |
 | Play Together: Hunter Cash's Hidden Safe | 334615 | [334615-play-together-hunter-cashs-hidden-safe.json](./334615-play-together-hunter-cashs-hidden-safe.json) |
+| Play Together: Party Games | 292352 | [292352-play-together-party-games.json](./292352-play-together-party-games.json) |
 | Play Together: Starter Pack - Bear Boy | 334616 | [334616-play-together-starter-pack-bear-boy.json](./334616-play-together-starter-pack-bear-boy.json) |
 | Play Together: Starter Pack - Bear Girl | 334618 | [334618-play-together-starter-pack-bear-girl.json](./334618-play-together-starter-pack-bear-girl.json) |
 | Play Together: Starter Pack - Chic Black | 334617 | [334617-play-together-starter-pack-chic-black.json](./334617-play-together-starter-pack-chic-black.json) |
@@ -9824,6 +9825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumber No More | 184109 | [184109-plumber-no-more.json](./184109-plumber-no-more.json) |
 | Plumber Pickle | 392742 | [392742-plumber-pickle.json](./392742-plumber-pickle.json) |
 | Plumber Puzzles | 180965 | [180965-plumber-puzzles.json](./180965-plumber-puzzles.json) |
+| Plumber Survivors | 292472 | [292472-plumber-survivors.json](./292472-plumber-survivors.json) |
 | Plumber Waluigi | 323352 | [323352-plumber-waluigi.json](./323352-plumber-waluigi.json) |
 | Plumber World | 403752 | [403752-plumber-world.json](./403752-plumber-world.json) |
 | Plumber: the Pipe Rush | 103822 | [103822-plumber-the-pipe-rush.json](./103822-plumber-the-pipe-rush.json) |
