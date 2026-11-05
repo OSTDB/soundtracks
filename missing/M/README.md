@@ -5826,6 +5826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9845,6 +9846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor Command VR | 100827 | [100827-meteor-command-vr.json](./100827-meteor-command-vr.json) |
 | Meteor Commander | 233712 | [233712-meteor-commander.json](./233712-meteor-commander.json) |
 | Meteor Crush VR | 31901 | [31901-meteor-crush-vr.json](./31901-meteor-crush-vr.json) |
+| Meteor Crusher | 258254 | [258254-meteor-crusher.json](./258254-meteor-crusher.json) |
 | Meteor Destroyer | 178963 | [178963-meteor-destroyer.json](./178963-meteor-destroyer.json) |
 | Meteor Down! | 250880 | [250880-meteor-down.json](./250880-meteor-down.json) |
 | Meteor Genocide | 153994 | [153994-meteor-genocide.json](./153994-meteor-genocide.json) |
@@ -10119,6 +10121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MewMew PewPew | 201225 | [201225-mewmew-pewpew.json](./201225-mewmew-pewpew.json) |
 | Mewn | 212772 | [212772-mewn.json](./212772-mewn.json) |
 | Mewnbase | 54984 | [54984-mewnbase.json](./54984-mewnbase.json) |
+| Mewnition | 258272 | [258272-mewnition.json](./258272-mewnition.json) |
 | Mewseum: Film Festival | 391165 | [391165-mewseum-film-festival.json](./391165-mewseum-film-festival.json) |
 | Mewseum: Masterpieces | 332971 | [332971-mewseum-masterpieces.json](./332971-mewseum-masterpieces.json) |
 | MewSim | 82552 | [82552-mewsim.json](./82552-mewsim.json) |
