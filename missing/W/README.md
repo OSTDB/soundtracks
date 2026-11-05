@@ -5381,6 +5381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Williams Arcade's Greatest Hits | 20713 | [20713-williams-arcades-greatest-hits.json](./20713-williams-arcades-greatest-hits.json) |
 | Williams Arcade's Greatest Hits | 287084 | [287084-williams-arcades-greatest-hits.json](./287084-williams-arcades-greatest-hits.json) |
 | Williams Digital Arcade | 340793 | [340793-williams-digital-arcade.json](./340793-williams-digital-arcade.json) |
+| Williams Pinball | 263853 | [263853-williams-pinball.json](./263853-williams-pinball.json) |
 | Williams Pinball Classics | 343422 | [343422-williams-pinball-classics.json](./343422-williams-pinball-classics.json) |
 | Williams Pinball: Attack from Mars | 354452 | [354452-williams-pinball-attack-from-mars.json](./354452-williams-pinball-attack-from-mars.json) |
 | Williams Pinball: Black Rose | 354456 | [354456-williams-pinball-black-rose.json](./354456-williams-pinball-black-rose.json) |
