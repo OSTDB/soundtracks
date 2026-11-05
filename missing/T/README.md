@@ -3574,6 +3574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teleportower Plus | 62418 | [62418-teleportower-plus.json](./62418-teleportower-plus.json) |
 | Telerotation | 397061 | [397061-telerotation.json](./397061-telerotation.json) |
 | Telescape | 267059 | [267059-telescape.json](./267059-telescape.json) |
+| Teletext | 286903 | [286903-teletext.json](./286903-teletext.json) |
 | Teletext Chaser | 302235 | [302235-teletext-chaser.json](./302235-teletext-chaser.json) |
 | Telethugs | 188079 | [188079-telethugs.json](./188079-telethugs.json) |
 | Teletubbies | 43785 | [43785-teletubbies.json](./43785-teletubbies.json) |
@@ -8111,6 +8112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devil | 177806 | [177806-the-devil.json](./177806-the-devil.json) |
 | The Devil & the Deep Blue Sea | 194434 | [194434-the-devil-and-the-deep-blue-sea.json](./194434-the-devil-and-the-deep-blue-sea.json) |
 | The Devil Ball | 339206 | [339206-the-devil-ball.json](./339206-the-devil-ball.json) |
+| The Devil Game: Action Puzzle Game | 286911 | [286911-the-devil-game-action-puzzle-game.json](./286911-the-devil-game-action-puzzle-game.json) |
 | The Devil Inside | 11786 | [11786-the-devil-inside.json](./11786-the-devil-inside.json) |
 | The Devil on G-String | 26789 | [26789-the-devil-on-g-string.json](./26789-the-devil-on-g-string.json) |
 | The Devil Rais’d the Storm | 349883 | [349883-the-devil-rais-d-the-storm.json](./349883-the-devil-rais-d-the-storm.json) |
@@ -18317,6 +18319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Waste Land | 10987 | [10987-the-waste-land.json](./10987-the-waste-land.json) |
 | The Wasted Knight | 207325 | [207325-the-wasted-knight.json](./207325-the-wasted-knight.json) |
 | The Wastes | 59604 | [59604-the-wastes.json](./59604-the-wastes.json) |
+| The Watch | 286875 | [286875-the-watch.json](./286875-the-watch.json) |
 | The Watch | 377135 | [377135-the-watch.json](./377135-the-watch.json) |
 | The Watcher | 238515 | [238515-the-watcher.json](./238515-the-watcher.json) |
 | The Watcher | 413734 | [413734-the-watcher.json](./413734-the-watcher.json) |
@@ -25315,6 +25318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Tank Simulator 2 | 378521 | [378521-total-tank-simulator-2.json](./378521-total-tank-simulator-2.json) |
 | Total Tank Simulator: Italy | 170736 | [170736-total-tank-simulator-italy.json](./170736-total-tank-simulator-italy.json) |
 | Total Tiki-Taka | 251638 | [251638-total-tiki-taka.json](./251638-total-tiki-taka.json) |
+| Total Trails | 286866 | [286866-total-trails.json](./286866-total-trails.json) |
 | Total Upheaval | 250640 | [250640-total-upheaval.json](./250640-total-upheaval.json) |
 | Total Vengeance | 264577 | [264577-total-vengeance.json](./264577-total-vengeance.json) |
 | Total Vice | 112278 | [112278-total-vice.json](./112278-total-vice.json) |
@@ -26736,6 +26740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Town Mayhem | 362780 | [362780-toy-town-mayhem.json](./362780-toy-town-mayhem.json) |
 | Toy Trains | 265271 | [265271-toy-trains.json](./265271-toy-trains.json) |
 | Toy Voyage | 349391 | [349391-toy-voyage.json](./349391-toy-voyage.json) |
+| Toy War: Cannon | 286857 | [286857-toy-war-cannon.json](./286857-toy-war-cannon.json) |
 | Toy Warfare | 355888 | [355888-toy-warfare.json](./355888-toy-warfare.json) |
 | Toy Wars Gold Edition: The Story of Army Heroes | 102504 | [102504-toy-wars-gold-edition-the-story-of-army-heroes.json](./102504-toy-wars-gold-edition-the-story-of-army-heroes.json) |
 | Toy Wars Invasion | 9449 | [9449-toy-wars-invasion.json](./9449-toy-wars-invasion.json) |
@@ -32582,6 +32587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typhoon Thompson in Search for the Sea Child | 74886 | [74886-typhoon-thompson-in-search-for-the-sea-child.json](./74886-typhoon-thompson-in-search-for-the-sea-child.json) |
 | Typhoon Unit: Butterfly Requiem | 127699 | [127699-typhoon-unit-butterfly-requiem.json](./127699-typhoon-unit-butterfly-requiem.json) |
 | Typical | 108664 | [108664-typical.json](./108664-typical.json) |
+| Typical Cliche | 286802 | [286802-typical-cliche.json](./286802-typical-cliche.json) |
 | Typical Mario Game | 322915 | [322915-typical-mario-game.json](./322915-typical-mario-game.json) |
 | Typical Mario Game 1/8 | 321868 | [321868-typical-mario-game-1-8.json](./321868-typical-mario-game-1-8.json) |
 | Typical nightmare | 99603 | [99603-typical-nightmare.json](./99603-typical-nightmare.json) |
