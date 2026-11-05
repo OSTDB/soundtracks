@@ -759,6 +759,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR 2001 | 45099 | [45099-nascar-2001.json](./45099-nascar-2001.json) |
 | NASCAR 2011: The Game | 5051 | [5051-nascar-2011-the-game.json](./5051-nascar-2011-the-game.json) |
 | NASCAR 21: Ignition | 170048 | [170048-nascar-21-ignition.json](./170048-nascar-21-ignition.json) |
+| NASCAR 21: Ignition - 2022 Patriotic Pack | 263280 | [263280-nascar-21-ignition-2022-patriotic-pack.json](./263280-nascar-21-ignition-2022-patriotic-pack.json) |
+| NASCAR 21: Ignition - 2022 Playoff Pack | 263288 | [263288-nascar-21-ignition-2022-playoff-pack.json](./263288-nascar-21-ignition-2022-playoff-pack.json) |
 | NASCAR 21: Ignition - 2022 Throwback Pack | 263314 | [263314-nascar-21-ignition-2022-throwback-pack.json](./263314-nascar-21-ignition-2022-throwback-pack.json) |
 | Nascar 21: Ignition - Day 1 Edition | 171271 | [171271-nascar-21-ignition-day-1-edition.json](./171271-nascar-21-ignition-day-1-edition.json) |
 | NASCAR 21: Ignition - Victory Edition | 220801 | [220801-nascar-21-ignition-victory-edition.json](./220801-nascar-21-ignition-victory-edition.json) |
@@ -991,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 4 | 215631 | [215631-nature-and-wildlife-jigsaw-puzzle-expansion-pack-4.json](./215631-nature-and-wildlife-jigsaw-puzzle-expansion-pack-4.json) |
 | Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 5 | 215630 | [215630-nature-and-wildlife-jigsaw-puzzle-expansion-pack-5.json](./215630-nature-and-wildlife-jigsaw-puzzle-expansion-pack-5.json) |
 | Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 6 | 262818 | [262818-nature-and-wildlife-jigsaw-puzzle-expansion-pack-6.json](./262818-nature-and-wildlife-jigsaw-puzzle-expansion-pack-6.json) |
+| Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 7 | 263276 | [263276-nature-and-wildlife-jigsaw-puzzle-expansion-pack-7.json](./263276-nature-and-wildlife-jigsaw-puzzle-expansion-pack-7.json) |
 | Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 8 | 262830 | [262830-nature-and-wildlife-jigsaw-puzzle-expansion-pack-8.json](./262830-nature-and-wildlife-jigsaw-puzzle-expansion-pack-8.json) |
 | Nature Atelier | 368520 | [368520-nature-atelier.json](./368520-nature-atelier.json) |
 | Nature Challenge | 316017 | [316017-nature-challenge.json](./316017-nature-challenge.json) |
