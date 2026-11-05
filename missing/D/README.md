@@ -4104,6 +4104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeadShotZ | 129914 | [129914-deadshotz.json](./129914-deadshotz.json) |
 | Deadside | 109666 | [109666-deadside.json](./109666-deadside.json) |
 | Deadside: "Anatomical Atlas" Skin Set | 296629 | [296629-deadside-anatomical-atlas-skin-set.json](./296629-deadside-anatomical-atlas-skin-set.json) |
+| Deadside: "Ass on Fire Team" Skin Set | 296640 | [296640-deadside-ass-on-fire-team-skin-set.json](./296640-deadside-ass-on-fire-team-skin-set.json) |
 | Deadside: "DragonSkin" Skin Set | 296597 | [296597-deadside-dragonskin-skin-set.json](./296597-deadside-dragonskin-skin-set.json) |
 | Deadside: "Ghost From The Deep" Skin Set | 296627 | [296627-deadside-ghost-from-the-deep-skin-set.json](./296627-deadside-ghost-from-the-deep-skin-set.json) |
 | Deadside: Beehive Skin Set | 338015 | [338015-deadside-beehive-skin-set.json](./338015-deadside-beehive-skin-set.json) |
@@ -6656,6 +6657,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deplau | 105642 | [105642-deplau.json](./105642-deplau.json) |
 | Deploy and Destroy: Ash vs ED | 103550 | [103550-deploy-and-destroy-ash-vs-ed.json](./103550-deploy-and-destroy-ash-vs-ed.json) |
 | Deployment | 80985 | [80985-deployment.json](./80985-deployment.json) |
+| DEPO: Buy Me a Coffee | 296583 | [296583-depo-buy-me-a-coffee.json](./296583-depo-buy-me-a-coffee.json) |
+| DEPO: Buy Me a XXL Coffee | 296582 | [296582-depo-buy-me-a-xxl-coffee.json](./296582-depo-buy-me-a-xxl-coffee.json) |
 | DEPO: Death Epileptic Pixel Origins | 207316 | [207316-depo-death-epileptic-pixel-origins.json](./207316-depo-death-epileptic-pixel-origins.json) |
 | Deponia Collection | 119068 | [119068-deponia-collection.json](./119068-deponia-collection.json) |
 | Deponia Doomsday | 19300 | [19300-deponia-doomsday.json](./19300-deponia-doomsday.json) |
@@ -9436,6 +9439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Hunting Patrol 3D Jurassic VR | 160142 | [160142-dinosaur-hunting-patrol-3d-jurassic-vr.json](./160142-dinosaur-hunting-patrol-3d-jurassic-vr.json) |
 | Dinosaur Hunting: Ushinawareta Daichi | 85950 | [85950-dinosaur-hunting-ushinawareta-daichi.json](./85950-dinosaur-hunting-ushinawareta-daichi.json) |
 | Dinosaur Island | 266484 | [266484-dinosaur-island.json](./266484-dinosaur-island.json) |
+| Dinosaur Island | 296309 | [296309-dinosaur-island.json](./296309-dinosaur-island.json) |
 | Dinosaur Island Escape | 276026 | [276026-dinosaur-island-escape.json](./276026-dinosaur-island-escape.json) |
 | Dinosaur Island VR | 91651 | [91651-dinosaur-island-vr.json](./91651-dinosaur-island-vr.json) |
 | Dinosaur Jigsaw Puzzles - Kids Games for Toddlers | 86831 | [86831-dinosaur-jigsaw-puzzles-kids-games-for-toddlers.json](./86831-dinosaur-jigsaw-puzzles-kids-games-for-toddlers.json) |
