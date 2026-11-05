@@ -7262,6 +7262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chilljong | 223505 | [223505-chilljong.json](./223505-chilljong.json) |
 | ChilloutVR | 121700 | [121700-chilloutvr.json](./121700-chilloutvr.json) |
 | Chillquarium | 236572 | [236572-chillquarium.json](./236572-chillquarium.json) |
+| Chilly Slide | 261036 | [261036-chilly-slide.json](./261036-chilly-slide.json) |
 | Chime | 16196 | [16196-chime.json](./16196-chime.json) |
 | Chime Candy | 281994 | [281994-chime-candy.json](./281994-chime-candy.json) |
 | Chime Sharp | 17907 | [17907-chime-sharp.json](./17907-chime-sharp.json) |
@@ -16802,6 +16803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Castle | 25567 | [25567-creepy-castle.json](./25567-creepy-castle.json) |
 | Creepy Claus | 322373 | [322373-creepy-claus.json](./322373-creepy-claus.json) |
 | Creepy Clown Revenge | 28054 | [28054-creepy-clown-revenge.json](./28054-creepy-clown-revenge.json) |
+| Creepy Clown Zombie Slayer VR | 261037 | [261037-creepy-clown-zombie-slayer-vr.json](./261037-creepy-clown-zombie-slayer-vr.json) |
 | Creepy Cooking and Dungeon Dinner Mysterious Labyrinth | 222062 | [222062-creepy-cooking-and-dungeon-dinner-mysterious-labyrinth.json](./222062-creepy-cooking-and-dungeon-dinner-mysterious-labyrinth.json) |
 | Creepy Corridors | 23902 | [23902-creepy-corridors.json](./23902-creepy-corridors.json) |
 | Creepy Crawler | 14018 | [14018-creepy-crawler.json](./14018-creepy-crawler.json) |
@@ -20052,6 +20054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Soldier | 251351 | [251351-cyber-soldier.json](./251351-cyber-soldier.json) |
 | Cyber Soldier Sharaku | 45934 | [45934-cyber-soldier-sharaku.json](./45934-cyber-soldier-sharaku.json) |
 | Cyber Souls | 238591 | [238591-cyber-souls.json](./238591-cyber-souls.json) |
+| Cyber Space Driver | 261055 | [261055-cyber-space-driver.json](./261055-cyber-space-driver.json) |
 | Cyber Speedway | 19740 | [19740-cyber-speedway.json](./19740-cyber-speedway.json) |
 | Cyber Spin | 42615 | [42615-cyber-spin.json](./42615-cyber-spin.json) |
 | Cyber Sprint | 261754 | [261754-cyber-sprint.json](./261754-cyber-sprint.json) |
@@ -20511,6 +20514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyrox | 14024 | [14024-cyrox.json](./14024-cyrox.json) |
 | Cyrtabor | 159271 | [159271-cyrtabor.json](./159271-cyrtabor.json) |
 | Cyrus II Chess | 12988 | [12988-cyrus-ii-chess.json](./12988-cyrus-ii-chess.json) |
+| CyTale | 261056 | [261056-cytale.json](./261056-cytale.json) |
 | Cyte | 371458 | [371458-cyte.json](./371458-cyte.json) |
 | Cython Cat | 407193 | [407193-cython-cat.json](./407193-cython-cat.json) |
 | Cyto | 17431 | [17431-cyto.json](./17431-cyto.json) |
