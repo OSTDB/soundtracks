@@ -4531,6 +4531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EpicShop | 176676 | [176676-epicshop.json](./176676-epicshop.json) |
 | Epicure | 133363 | [133363-epicure.json](./133363-epicure.json) |
 | Epicurean | 397261 | [397261-epicurean.json](./397261-epicurean.json) |
+| Epicus Royale | 262756 | [262756-epicus-royale.json](./262756-epicus-royale.json) |
 | Epidemic | 170689 | [170689-epidemic.json](./170689-epidemic.json) |
 | Epidemic | 174009 | [174009-epidemic.json](./174009-epidemic.json) |
 | Epidemic | 20299 | [20299-epidemic.json](./20299-epidemic.json) |
@@ -7344,6 +7345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exchange Student | 252247 | [252247-exchange-student.json](./252247-exchange-student.json) |
 | Excised | 260223 | [260223-excised.json](./260223-excised.json) |
 | Excit | 261087 | [261087-excit.json](./261087-excit.json) |
+| Excite Bowling | 262758 | [262758-excite-bowling.json](./262758-excite-bowling.json) |
 | Excite Invader | 138024 | [138024-excite-invader.json](./138024-excite-invader.json) |
 | Excite League | 40112 | [40112-excite-league.json](./40112-excite-league.json) |
 | Excite Mahjong | 80200 | [80200-excite-mahjong.json](./80200-excite-mahjong.json) |
