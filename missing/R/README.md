@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Car | 347004 | [347004-race-car.json](./347004-race-car.json) |
 | Race Condition | 143122 | [143122-race-condition.json](./143122-race-condition.json) |
 | Race Control Director | 232620 | [232620-race-control-director.json](./232620-race-control-director.json) |
+| Race Day | 251331 | [251331-race-day.json](./251331-race-day.json) |
 | Race Day Rampage | 208312 | [208312-race-day-rampage.json](./208312-race-day-rampage.json) |
 | Race Days | 49009 | [49009-race-days.json](./49009-race-days.json) |
 | Race Driver 2006 | 93991 | [93991-race-driver-2006.json](./93991-race-driver-2006.json) |
@@ -6169,6 +6170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return of Red Riding Hood: Enhanced Edition | 81243 | [81243-return-of-red-riding-hood-enhanced-edition.json](./81243-return-of-red-riding-hood-enhanced-edition.json) |
 | Return of Saiyan | 95840 | [95840-return-of-saiyan.json](./95840-return-of-saiyan.json) |
 | Return of Serenity | 208004 | [208004-return-of-serenity.json](./208004-return-of-serenity.json) |
+| Return of the Ancients | 251328 | [251328-return-of-the-ancients.json](./251328-return-of-the-ancients.json) |
 | Return of the Cyrus Cylinder | 319442 | [319442-return-of-the-cyrus-cylinder.json](./319442-return-of-the-cyrus-cylinder.json) |
 | Return of the Demons | 386337 | [386337-return-of-the-demons.json](./386337-return-of-the-demons.json) |
 | Return of the Dinosaurs | 147214 | [147214-return-of-the-dinosaurs.json](./147214-return-of-the-dinosaurs.json) |
@@ -8332,6 +8334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road of Death | 290631 | [290631-road-of-death.json](./290631-road-of-death.json) |
 | Road of Destiny | 87957 | [87957-road-of-destiny.json](./87957-road-of-destiny.json) |
 | Road of Dust and Rust | 87949 | [87949-road-of-dust-and-rust.json](./87949-road-of-dust-and-rust.json) |
+| Road of Fury | 251299 | [251299-road-of-fury.json](./251299-road-of-fury.json) |
 | Road of Fury 2 | 102022 | [102022-road-of-fury-2.json](./102022-road-of-fury-2.json) |
 | Road Patrol Truck | 104227 | [104227-road-patrol-truck.json](./104227-road-patrol-truck.json) |
 | Road Race | 200425 | [200425-road-race.json](./200425-road-race.json) |
@@ -10641,6 +10644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rommel's Revenge | 26304 | [26304-rommels-revenge.json](./26304-rommels-revenge.json) |
 | Romp of Dump | 250253 | [250253-romp-of-dump.json](./250253-romp-of-dump.json) |
 | Rompe! | 171078 | [171078-rompe.json](./171078-rompe.json) |
+| Rompechanchitos | 251346 | [251346-rompechanchitos.json](./251346-rompechanchitos.json) |
 | Rompers | 40070 | [40070-rompers.json](./40070-rompers.json) |
 | Romut | 415471 | [415471-romut.json](./415471-romut.json) |
 | Romy & Max and the Hidden Rainforest | 410838 | [410838-romy-and-max-and-the-hidden-rainforest.json](./410838-romy-and-max-and-the-hidden-rainforest.json) |
