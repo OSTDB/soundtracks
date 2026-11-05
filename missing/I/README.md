@@ -690,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I, Robot | 24633 | [24633-i-robot.json](./24633-i-robot.json) |
 | I, Robot | 335831 | [335831-i-robot.json](./335831-i-robot.json) |
 | I, the I-piece | 175112 | [175112-i-the-i-piece.json](./175112-i-the-i-piece.json) |
+| I, Toaster | 258758 | [258758-i-toaster.json](./258758-i-toaster.json) |
 | I, W.O.M.A.N. | 188840 | [188840-i-w-o-m-a-n.json](./188840-i-w-o-m-a-n.json) |
 | I, Zombie | 9879 | [9879-i-zombie.json](./9879-i-zombie.json) |
 | I.A.G. Alpha | 216432 | [216432-i-a-g-alpha.json](./216432-i-a-g-alpha.json) |
@@ -3791,6 +3792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
