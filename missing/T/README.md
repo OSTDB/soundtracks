@@ -3734,6 +3734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of the Lizardmen 5 | 142602 | [142602-temple-of-the-lizardmen-5.json](./142602-temple-of-the-lizardmen-5.json) |
 | Temple of the Lost | 107410 | [107410-temple-of-the-lost.json](./107410-temple-of-the-lost.json) |
 | Temple of the Thousand-Faced Moon | 271312 | [271312-temple-of-the-thousand-faced-moon.json](./271312-temple-of-the-thousand-faced-moon.json) |
+| Temple of the Winds | 282968 | [282968-temple-of-the-winds.json](./282968-temple-of-the-winds.json) |
 | Temple of the Wumpus | 148767 | [148767-temple-of-the-wumpus.json](./148767-temple-of-the-wumpus.json) |
 | Temple of Yog | 60419 | [60419-temple-of-yog.json](./60419-temple-of-yog.json) |
 | Temple of Your Mom | 423954 | [423954-temple-of-your-mom.json](./423954-temple-of-your-mom.json) |
@@ -6623,6 +6624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Boss | 13426 | [13426-the-boss.json](./13426-the-boss.json) |
 | The Boss | 245161 | [245161-the-boss.json](./245161-the-boss.json) |
 | The Boss Baby: Get That Baby! | 256853 | [256853-the-boss-baby-get-that-baby.json](./256853-the-boss-baby-get-that-baby.json) |
+| The Boss Gangster: Criminal Empire | 282954 | [282954-the-boss-gangster-criminal-empire.json](./282954-the-boss-gangster-criminal-empire.json) |
 | The Boss Gangster: Criminal Empire - From the Streets | 400956 | [400956-the-boss-gangster-criminal-empire-from-the-streets.json](./400956-the-boss-gangster-criminal-empire-from-the-streets.json) |
 | The Boss: A Jacksepticeye Fan Game | 184294 | [184294-the-boss-a-jacksepticeye-fan-game.json](./184294-the-boss-a-jacksepticeye-fan-game.json) |
 | The Bot Squad: Puzzle Battles | 344452 | [344452-the-bot-squad-puzzle-battles.json](./344452-the-bot-squad-puzzle-battles.json) |
@@ -7197,6 +7199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Clock Chronicle | 182915 | [182915-the-clock-chronicle.json](./182915-the-clock-chronicle.json) |
 | The Clockwork Labyrinth | 166704 | [166704-the-clockwork-labyrinth.json](./166704-the-clockwork-labyrinth.json) |
 | The Clockwork Man 2 | 88744 | [88744-the-clockwork-man-2.json](./88744-the-clockwork-man-2.json) |
+| The Clockwork Prince | 282958 | [282958-the-clockwork-prince.json](./282958-the-clockwork-prince.json) |
 | The Clockwork Requiem | 384314 | [384314-the-clockwork-requiem.json](./384314-the-clockwork-requiem.json) |
 | The Closed Circle | 226313 | [226313-the-closed-circle.json](./226313-the-closed-circle.json) |
 | The Closer: Game of the Year Edition | 141591 | [141591-the-closer-game-of-the-year-edition.json](./141591-the-closer-game-of-the-year-edition.json) |
@@ -7372,6 +7375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Conveni: Ano Machi wo Dokusen Seyo | 58438 | [58438-the-conveni-ano-machi-wo-dokusen-seyo.json](./58438-the-conveni-ano-machi-wo-dokusen-seyo.json) |
 | The Convenience Store | 129292 | [129292-the-convenience-store.json](./129292-the-convenience-store.json) |
 | The Cook in the Court of the Count | 397669 | [397669-the-cook-in-the-court-of-the-count.json](./397669-the-cook-in-the-court-of-the-count.json) |
+| The Cookie Project | 282996 | [282996-the-cookie-project.json](./282996-the-cookie-project.json) |
 | The Cooking Class | 228651 | [228651-the-cooking-class.json](./228651-the-cooking-class.json) |
 | The Cooking Club | 343206 | [343206-the-cooking-club.json](./343206-the-cooking-club.json) |
 | The Cooking Game | 32134 | [32134-the-cooking-game.json](./32134-the-cooking-game.json) |
@@ -12509,6 +12513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: The Missing Link | 136392 | [136392-the-legend-of-zelda-the-missing-link.json](./136392-the-legend-of-zelda-the-missing-link.json) |
 | The Legend of Zelda: The Sealed Palace | 242736 | [242736-the-legend-of-zelda-the-sealed-palace.json](./242736-the-legend-of-zelda-the-sealed-palace.json) |
 | The Legend of Zelda: The Shadowgazer | 323364 | [323364-the-legend-of-zelda-the-shadowgazer.json](./323364-the-legend-of-zelda-the-shadowgazer.json) |
+| The Legend of Zelda: The Wheel of Fate | 282978 | [282978-the-legend-of-zelda-the-wheel-of-fate.json](./282978-the-legend-of-zelda-the-wheel-of-fate.json) |
 | The Legend of Zelda: The Wind Waker - Limited Edition | 239007 | [239007-the-legend-of-zelda-the-wind-waker-limited-edition.json](./239007-the-legend-of-zelda-the-wind-waker-limited-edition.json) |
 | The Legend of Zelda: The Wind Waker HD - Limited Edition | 45135 | [45135-the-legend-of-zelda-the-wind-waker-hd-limited-edition.json](./45135-the-legend-of-zelda-the-wind-waker-hd-limited-edition.json) |
 | The Legend of Zelda: The Wind Waker HD Bundle Limited Edition | 45133 | [45133-the-legend-of-zelda-the-wind-waker-hd-bundle-limited-edition.json](./45133-the-legend-of-zelda-the-wind-waker-hd-bundle-limited-edition.json) |
@@ -12536,6 +12541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Whomp's Fortress | 299484 | [299484-the-legend-of-zelda-whomps-fortress.json](./299484-the-legend-of-zelda-whomps-fortress.json) |
 | The Legend of Zelda: Winter Solstice | 254478 | [254478-the-legend-of-zelda-winter-solstice.json](./254478-the-legend-of-zelda-winter-solstice.json) |
 | The Legend of Zelda: Z for 2 | 413804 | [413804-the-legend-of-zelda-z-for-2.json](./413804-the-legend-of-zelda-z-for-2.json) |
+| The Legend of Zeldo: Lonk's Awakening DX | 282982 | [282982-the-legend-of-zeldo-lonks-awakening-dx.json](./282982-the-legend-of-zeldo-lonks-awakening-dx.json) |
 | The Legend Returns | 347030 | [347030-the-legend-returns.json](./347030-the-legend-returns.json) |
 | The Legend: A University Story | 33797 | [33797-the-legend-a-university-story.json](./33797-the-legend-a-university-story.json) |
 | The Legendary Assassin KAL | 181785 | [181785-the-legendary-assassin-kal.json](./181785-the-legendary-assassin-kal.json) |
@@ -16478,6 +16484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Snow is Red | 231323 | [231323-the-snow-is-red.json](./231323-the-snow-is-red.json) |
 | The Snow of Basidia | 176504 | [176504-the-snow-of-basidia.json](./176504-the-snow-of-basidia.json) |
 | The Snow Queen | 26476 | [26476-the-snow-queen.json](./26476-the-snow-queen.json) |
+| The Snow Queen is Uncool | 283000 | [283000-the-snow-queen-is-uncool.json](./283000-the-snow-queen-is-uncool.json) |
 | The Snow Queen Quest | 43560 | [43560-the-snow-queen-quest.json](./43560-the-snow-queen-quest.json) |
 | The Snow Reach | 266805 | [266805-the-snow-reach.json](./266805-the-snow-reach.json) |
 | The Snowboard Game | 90262 | [90262-the-snowboard-game.json](./90262-the-snowboard-game.json) |
@@ -19569,6 +19576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This hole in my chest | 176242 | [176242-this-hole-in-my-chest.json](./176242-this-hole-in-my-chest.json) |
 | This House | 189313 | [189313-this-house.json](./189313-this-house.json) |
 | This House Eats People | 325394 | [325394-this-house-eats-people.json](./325394-this-house-eats-people.json) |
+| This House Is Not A Home | 282952 | [282952-this-house-is-not-a-home.json](./282952-this-house-is-not-a-home.json) |
 | This House Looks Familiar | 176969 | [176969-this-house-looks-familiar.json](./176969-this-house-looks-familiar.json) |
 | This House Wants No One Else | 401259 | [401259-this-house-wants-no-one-else.json](./401259-this-house-wants-no-one-else.json) |
 | This is a Black Parallelepipedon in a Yellow Field | 321027 | [321027-this-is-a-black-parallelepipedon-in-a-yellow-field.json](./321027-this-is-a-black-parallelepipedon-in-a-yellow-field.json) |
