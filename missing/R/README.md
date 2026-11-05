@@ -6644,6 +6644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rezarlisia Stories | 320794 | [320794-rezarlisia-stories.json](./320794-rezarlisia-stories.json) |
 | Rezarus | 326849 | [326849-rezarus.json](./326849-rezarus.json) |
 | Rezel Cross | 64955 | [64955-rezel-cross.json](./64955-rezel-cross.json) |
+| Rezerwowe Psy | 286900 | [286900-rezerwowe-psy.json](./286900-rezerwowe-psy.json) |
 | Rezident Evil: It Is Escape | 260137 | [260137-rezident-evil-it-is-escape.json](./260137-rezident-evil-it-is-escape.json) |
 | Rezist: Tower Defense | 123500 | [123500-rezist-tower-defense.json](./123500-rezist-tower-defense.json) |
 | Rezon | 40186 | [40186-rezon.json](./40186-rezon.json) |
