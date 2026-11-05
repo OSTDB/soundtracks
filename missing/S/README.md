@@ -12891,6 +12891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slave Princess Finne: If Story 3 | 371051 | [371051-slave-princess-finne-if-story-3.json](./371051-slave-princess-finne-if-story-3.json) |
 | Slave Princess Finne: Why Did She Sell Out Her Own Kingdom? | 214179 | [214179-slave-princess-finne-why-did-she-sell-out-her-own-kingdom.json](./214179-slave-princess-finne-why-did-she-sell-out-her-own-kingdom.json) |
 | Slave Princess Sarah | 158147 | [158147-slave-princess-sarah.json](./158147-slave-princess-sarah.json) |
+| Slave to a Machine | 271510 | [271510-slave-to-a-machine.json](./271510-slave-to-a-machine.json) |
 | Slave Zero | 8341 | [8341-slave-zero.json](./8341-slave-zero.json) |
 | Slave Zero X: Calamity Edition | 277375 | [277375-slave-zero-x-calamity-edition.json](./277375-slave-zero-x-calamity-edition.json) |
 | Slave Zero X: Digital Deluxe Edition | 277028 | [277028-slave-zero-x-digital-deluxe-edition.json](./277028-slave-zero-x-digital-deluxe-edition.json) |
@@ -14185,6 +14186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smells Like Burnt Rubber | 226623 | [226623-smells-like-burnt-rubber.json](./226623-smells-like-burnt-rubber.json) |
 | Smells Like Fear Blossoms | 364838 | [364838-smells-like-fear-blossoms.json](./364838-smells-like-fear-blossoms.json) |
 | Smells Like Grandma's | 271721 | [271721-smells-like-grandmas.json](./271721-smells-like-grandmas.json) |
+| Smells Like Rust | 271534 | [271534-smells-like-rust.json](./271534-smells-like-rust.json) |
 | Smelly Bubbles | 411679 | [411679-smelly-bubbles.json](./411679-smelly-bubbles.json) |
 | Smelly Cat | 421598 | [421598-smelly-cat.json](./421598-smelly-cat.json) |
 | Smelogs Playground | 182270 | [182270-smelogs-playground.json](./182270-smelogs-playground.json) |
@@ -16599,6 +16601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sometimes to Deal With the Difficulty of Being Alive I Need to Believe There Is a Possibility That Life Is Not Real | 134256 | [134256-sometimes-to-deal-with-the-difficulty-of-being-alive-i-need-to-believe-there-is-a-possibility-that-life-is-not-real.json](./134256-sometimes-to-deal-with-the-difficulty-of-being-alive-i-need-to-believe-there-is-a-possibility-that-life-is-not-real.json) |
 | Sometimes You Die | 58993 | [58993-sometimes-you-die.json](./58993-sometimes-you-die.json) |
 | Sometimes: Success Requires Sacrifice | 35712 | [35712-sometimes-success-requires-sacrifice.json](./35712-sometimes-success-requires-sacrifice.json) |
+| Somewhere | 271542 | [271542-somewhere.json](./271542-somewhere.json) |
 | Somewhere | 324306 | [324306-somewhere.json](./324306-somewhere.json) |
 | Somewhere Better | 145839 | [145839-somewhere-better.json](./145839-somewhere-better.json) |
 | Somewhere in a Clay Nowhere | 182371 | [182371-somewhere-in-a-clay-nowhere.json](./182371-somewhere-in-a-clay-nowhere.json) |
@@ -24625,6 +24628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starium | 335796 | [335796-starium.json](./335796-starium.json) |
 | Starjammer | 120526 | [120526-starjammer.json](./120526-starjammer.json) |
 | Starjet Fights | 246778 | [246778-starjet-fights.json](./246778-starjet-fights.json) |
+| Stark Monstrosity | 271509 | [271509-stark-monstrosity.json](./271509-stark-monstrosity.json) |
 | Stark Penitentiary | 161892 | [161892-stark-penitentiary.json](./161892-stark-penitentiary.json) |
 | Stark Tower Defense | 256093 | [256093-stark-tower-defense.json](./256093-stark-tower-defense.json) |
 | StarKeeper | 320066 | [320066-starkeeper.json](./320066-starkeeper.json) |
@@ -29601,6 +29605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunken Dragon | 356352 | [356352-sunken-dragon.json](./356352-sunken-dragon.json) |
 | Sunken Dreams | 371499 | [371499-sunken-dreams.json](./371499-sunken-dreams.json) |
 | Sunken Engine | 336738 | [336738-sunken-engine.json](./336738-sunken-engine.json) |
+| Sunken Fallacy | 271540 | [271540-sunken-fallacy.json](./271540-sunken-fallacy.json) |
 | Sunken Heads | 138821 | [138821-sunken-heads.json](./138821-sunken-heads.json) |
 | Sunken Realms | 197140 | [197140-sunken-realms.json](./197140-sunken-realms.json) |
 | Sunken Sailor | 176263 | [176263-sunken-sailor.json](./176263-sunken-sailor.json) |
