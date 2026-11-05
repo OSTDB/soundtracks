@@ -13338,6 +13338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquer: Epic of Dice Wars | 232536 | [232536-conquer-epic-of-dice-wars.json](./232536-conquer-epic-of-dice-wars.json) |
 | Conquer: Napoleonic Wars | 235447 | [235447-conquer-napoleonic-wars.json](./235447-conquer-napoleonic-wars.json) |
 | Conquered Complex | 274012 | [274012-conquered-complex.json](./274012-conquered-complex.json) |
+| Conquered Dread | 258791 | [258791-conquered-dread.json](./258791-conquered-dread.json) |
 | Conquered Kingdoms | 69804 | [69804-conquered-kingdoms.json](./69804-conquered-kingdoms.json) |
 | Conquered Kingdoms: Scenario Disk #1 | 94610 | [94610-conquered-kingdoms-scenario-disk-1.json](./94610-conquered-kingdoms-scenario-disk-1.json) |
 | Conquering Ciros | 288713 | [288713-conquering-ciros.json](./288713-conquering-ciros.json) |
@@ -18451,6 +18452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Veins | 379149 | [379149-crystal-veins.json](./379149-crystal-veins.json) |
 | Crystal Venture | 189194 | [189194-crystal-venture.json](./189194-crystal-venture.json) |
 | Crystal Vibes feat. Ott. | 34662 | [34662-crystal-vibes-feat-ott.json](./34662-crystal-vibes-feat-ott.json) |
+| Crystal Void | 258796 | [258796-crystal-void.json](./258796-crystal-void.json) |
 | Crystal Warriors | 11648 | [11648-crystal-warriors.json](./11648-crystal-warriors.json) |
 | Crystal Warriors GG2SMS | 369519 | [369519-crystal-warriors-gg2sms.json](./369519-crystal-warriors-gg2sms.json) |
 | Crystal Winter | 236742 | [236742-crystal-winter.json](./236742-crystal-winter.json) |
