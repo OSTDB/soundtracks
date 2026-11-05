@@ -5122,6 +5122,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Russia | 368672 | [368672-escape-from-russia.json](./368672-escape-from-russia.json) |
 | Escape From Russia: Mobilization | 251361 | [251361-escape-from-russia-mobilization.json](./251361-escape-from-russia-mobilization.json) |
 | Escape from Russia: Mobilization Madness | 260579 | [260579-escape-from-russia-mobilization-madness.json](./260579-escape-from-russia-mobilization-madness.json) |
+| Escape From San Angelos 2 | 273165 | [273165-escape-from-san-angelos-2.json](./273165-escape-from-san-angelos-2.json) |
+| Escape From San Angelos 3 | 273166 | [273166-escape-from-san-angelos-3.json](./273166-escape-from-san-angelos-3.json) |
+| Escape From San Angelos 4 | 273167 | [273167-escape-from-san-angelos-4.json](./273167-escape-from-san-angelos-4.json) |
+| Escape From San Angelos 5 | 273168 | [273168-escape-from-san-angelos-5.json](./273168-escape-from-san-angelos-5.json) |
 | Escape From Sandhill | 324746 | [324746-escape-from-sandhill.json](./324746-escape-from-sandhill.json) |
 | Escape From School | 167681 | [167681-escape-from-school.json](./167681-escape-from-school.json) |
 | Escape From School: F.E.L.I.K | 235472 | [235472-escape-from-school-f-e-l-i-k.json](./235472-escape-from-school-f-e-l-i-k.json) |
@@ -8133,6 +8137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye Must Jump | 108876 | [108876-eye-must-jump.json](./108876-eye-must-jump.json) |
 | Eye of Artist | 264168 | [264168-eye-of-artist.json](./264168-eye-of-artist.json) |
 | Eye of Bain | 298804 | [298804-eye-of-bain.json](./298804-eye-of-bain.json) |
+| Eye of Cul | 273169 | [273169-eye-of-cul.json](./273169-eye-of-cul.json) |
 | Eye of D'akess | 236732 | [236732-eye-of-dakess.json](./236732-eye-of-dakess.json) |
 | Eye of Horus | 12069 | [12069-eye-of-horus.json](./12069-eye-of-horus.json) |
 | Eye of Khaos | 370923 | [370923-eye-of-khaos.json](./370923-eye-of-khaos.json) |
