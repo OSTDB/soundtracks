@@ -8336,6 +8336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Like a Bird 3 | 286920 | [286920-fly-like-a-bird-3.json](./286920-fly-like-a-bird-3.json) |
 | Fly Like A Bird 4 | 95957 | [95957-fly-like-a-bird-4.json](./95957-fly-like-a-bird-4.json) |
 | Fly Logic: Fly Fishing - The Green River | 209463 | [209463-fly-logic-fly-fishing-the-green-river.json](./209463-fly-logic-fly-fishing-the-green-river.json) |
+| Fly Me To The Home! | 296566 | [296566-fly-me-to-the-home.json](./296566-fly-me-to-the-home.json) |
 | Fly Me To The Moon | 369462 | [369462-fly-me-to-the-moon.json](./369462-fly-me-to-the-moon.json) |
 | Fly Me to the Stars | 241443 | [241443-fly-me-to-the-stars.json](./241443-fly-me-to-the-stars.json) |
 | Fly O'Clock | 20400 | [20400-fly-oclock.json](./20400-fly-oclock.json) |
