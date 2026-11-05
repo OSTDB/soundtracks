@@ -2844,6 +2844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kindaichi Shounen no Jikenbo: Hoshimitou Kanashimi no Fukushuuki | 254646 | [254646-kindaichi-shounen-no-jikenbo-hoshimitou-kanashimi-no-fukushuuki.json](./254646-kindaichi-shounen-no-jikenbo-hoshimitou-kanashimi-no-fukushuuki.json) |
 | Kindaichi Shounen no Jikenbo: Jigoku Yuuen Satsujin Jiken | 167061 | [167061-kindaichi-shounen-no-jikenbo-jigoku-yuuen-satsujin-jiken.json](./167061-kindaichi-shounen-no-jikenbo-jigoku-yuuen-satsujin-jiken.json) |
 | Kindan no Jikobukken | 260690 | [260690-kindan-no-jikobukken.json](./260690-kindan-no-jikobukken.json) |
+| Kindan no Shinrei Shashin | 271516 | [271516-kindan-no-shinrei-shashin.json](./271516-kindan-no-shinrei-shashin.json) |
 | Kindawn: The Parish Remembers | 412555 | [412555-kindawn-the-parish-remembers.json](./412555-kindawn-the-parish-remembers.json) |
 | Kinder | 261432 | [261432-kinder.json](./261432-kinder.json) |
 | Kinder Finders | 339398 | [339398-kinder-finders.json](./339398-kinder-finders.json) |
