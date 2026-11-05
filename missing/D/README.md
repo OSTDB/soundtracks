@@ -7881,6 +7881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devices Tycoon | 301230 | [301230-devices-tycoon.json](./301230-devices-tycoon.json) |
 | Devidicon | 400459 | [400459-devidicon.json](./400459-devidicon.json) |
 | Deviens Miss France | 269745 | [269745-deviens-miss-france.json](./269745-deviens-miss-france.json) |
+| Deviko TD | 248998 | [248998-deviko-td.json](./248998-deviko-td.json) |
 | Devil Apartment | 250745 | [250745-devil-apartment.json](./250745-devil-apartment.json) |
 | Devil Assault | 41197 | [41197-devil-assault.json](./41197-devil-assault.json) |
 | Devil Band: Rock the Underworld | 85079 | [85079-devil-band-rock-the-underworld.json](./85079-devil-band-rock-the-underworld.json) |
