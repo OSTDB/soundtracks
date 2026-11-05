@@ -2751,6 +2751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5508,6 +5509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kova | 27883 | [27883-kova.json](./27883-kova.json) |
 | KovaaK 2.0: Tracking Trainer | 171035 | [171035-kovaak-2-0-tracking-trainer.json](./171035-kovaak-2-0-tracking-trainer.json) |
 | KovaaK's Aim Trainer | 126032 | [126032-kovaaks-aim-trainer.json](./126032-kovaaks-aim-trainer.json) |
+| KovaaK's: Anime Pack | 293428 | [293428-kovaaks-anime-pack.json](./293428-kovaaks-anime-pack.json) |
 | Kovoclak | 369362 | [369362-kovoclak.json](./369362-kovoclak.json) |
 | Kovox Pitch | 133139 | [133139-kovox-pitch.json](./133139-kovox-pitch.json) |
 | Kowai Mono ni ha Futa wo Shiro | 307837 | [307837-kowai-mono-ni-ha-futa-wo-shiro.json](./307837-kowai-mono-ni-ha-futa-wo-shiro.json) |
