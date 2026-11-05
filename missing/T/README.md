@@ -26627,6 +26627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Kingdom 2 | 185837 | [185837-toy-kingdom-2.json](./185837-toy-kingdom-2.json) |
 | Toy Kingdom 3 | 189897 | [189897-toy-kingdom-3.json](./189897-toy-kingdom-3.json) |
 | Toy Land Adventure | 371406 | [371406-toy-land-adventure.json](./371406-toy-land-adventure.json) |
+| Toy Monsters | 293375 | [293375-toy-monsters.json](./293375-toy-monsters.json) |
 | Toy Party - Dazzling Puzzle | 87098 | [87098-toy-party-dazzling-puzzle.json](./87098-toy-party-dazzling-puzzle.json) |
 | Toy Party: Match 3 Hexa Blast! | 99920 | [99920-toy-party-match-3-hexa-blast.json](./99920-toy-party-match-3-hexa-blast.json) |
 | Toy Pop | 38037 | [38037-toy-pop.json](./38037-toy-pop.json) |
@@ -30475,6 +30476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropicats | 120227 | [120227-tropicats.json](./120227-tropicats.json) |
 | TropicHell | 364371 | [364371-tropichell.json](./364371-tropichell.json) |
 | Tropico | 104248 | [104248-tropico.json](./104248-tropico.json) |
+| Tropico | 293374 | [293374-tropico.json](./293374-tropico.json) |
 | Tropico 2: Pirate Cove | 3323 | [3323-tropico-2-pirate-cove.json](./3323-tropico-2-pirate-cove.json) |
 | Tropico 3 | 2594 | [2594-tropico-3.json](./2594-tropico-3.json) |
 | Tropico 3: Absolute Power | 8926 | [8926-tropico-3-absolute-power.json](./8926-tropico-3-absolute-power.json) |
