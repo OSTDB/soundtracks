@@ -35,6 +35,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yabai Girls: Valentine Babe | 390508 | [390508-yabai-girls-valentine-babe.json](./390508-yabai-girls-valentine-babe.json) |
 | Yabai Mantis VR | 155838 | [155838-yabai-mantis-vr.json](./155838-yabai-mantis-vr.json) |
 | Yabai Otoko ni Nanpa Sareru Game | 347737 | [347737-yabai-otoko-ni-nanpa-sareru-game.json](./347737-yabai-otoko-ni-nanpa-sareru-game.json) |
+| Yabba Dabba Dinosaurs: Jigsaw Puzzle | 278777 | [278777-yabba-dabba-dinosaurs-jigsaw-puzzle.json](./278777-yabba-dabba-dinosaurs-jigsaw-puzzle.json) |
+| Yabba Dabba Dinosaurs: Matching Pairs | 278778 | [278778-yabba-dabba-dinosaurs-matching-pairs.json](./278778-yabba-dabba-dinosaurs-matching-pairs.json) |
 | Yabba Dabba Doo! | 26344 | [26344-yabba-dabba-doo.json](./26344-yabba-dabba-doo.json) |
 | Yachoukitan | 321818 | [321818-yachoukitan.json](./321818-yachoukitan.json) |
 | Yacht | 201986 | [201986-yacht.json](./201986-yacht.json) |
