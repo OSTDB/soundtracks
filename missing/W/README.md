@@ -630,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandering Cat | 288478 | [288478-wandering-cat.json](./288478-wandering-cat.json) |
 | Wandering Dreams of Yuri | 339131 | [339131-wandering-dreams-of-yuri.json](./339131-wandering-dreams-of-yuri.json) |
 | Wandering Duelist | 215670 | [215670-wandering-duelist.json](./215670-wandering-duelist.json) |
+| Wandering Fighter | 259341 | [259341-wandering-fighter.json](./259341-wandering-fighter.json) |
 | Wandering Gem Jockeying | 121463 | [121463-wandering-gem-jockeying.json](./121463-wandering-gem-jockeying.json) |
 | Wandering Hamster | 124654 | [124654-wandering-hamster.json](./124654-wandering-hamster.json) |
 | Wandering Hunter | 370164 | [370164-wandering-hunter.json](./370164-wandering-hunter.json) |
@@ -2410,6 +2411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Sort Puzzle | 175029 | [175029-water-sort-puzzle.json](./175029-water-sort-puzzle.json) |
 | Water Sort Puzzle: Get Color | 415281 | [415281-water-sort-puzzle-get-color.json](./415281-water-sort-puzzle-get-color.json) |
 | Water Sort: Perfect Pouring | 266552 | [266552-water-sort-perfect-pouring.json](./266552-water-sort-perfect-pouring.json) |
+| Water Spirit | 259350 | [259350-water-spirit.json](./259350-water-spirit.json) |
 | Water Sports | 5262 | [5262-water-sports.json](./5262-water-sports.json) |
 | Water Star Adventure | 215770 | [215770-water-star-adventure.json](./215770-water-star-adventure.json) |
 | Water Surfer Bus | 202766 | [202766-water-surfer-bus.json](./202766-water-surfer-bus.json) |
