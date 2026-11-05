@@ -930,6 +930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halves | 235720 | [235720-halves.json](./235720-halves.json) |
 | Halzae: Heroes of Divinity | 112500 | [112500-halzae-heroes-of-divinity.json](./112500-halzae-heroes-of-divinity.json) |
 | Ham Hole | 403358 | [403358-ham-hole.json](./403358-ham-hole.json) |
+| Ham on the Run! | 269335 | [269335-ham-on-the-run.json](./269335-ham-on-the-run.json) |
 | Ham Supi | 199769 | [199769-ham-supi.json](./199769-ham-supi.json) |
 | Ham Tank! | 420576 | [420576-ham-tank.json](./420576-ham-tank.json) |
 | Ham-Master | 125081 | [125081-ham-master.json](./125081-ham-master.json) |
@@ -2319,7 +2320,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: The Winds of Anthos | 228855 | [228855-harvest-moon-the-winds-of-anthos.json](./228855-harvest-moon-the-winds-of-anthos.json) |
 | Harvest Moon: The Winds of Anthos - Animal Avalanche Pack | 269053 | [269053-harvest-moon-the-winds-of-anthos-animal-avalanche-pack.json](./269053-harvest-moon-the-winds-of-anthos-animal-avalanche-pack.json) |
 | Harvest Moon: The Winds of Anthos - Interior Design & Tool Upgrade Pack | 404553 | [404553-harvest-moon-the-winds-of-anthos-interior-design-and-tool-upgrade-pack.json](./404553-harvest-moon-the-winds-of-anthos-interior-design-and-tool-upgrade-pack.json) |
+| Harvest Moon: The Winds of Anthos - New Crops, Fish, and Recipes Pack | 269377 | [269377-harvest-moon-the-winds-of-anthos-new-crops-fish-and-recipes-pack.json](./269377-harvest-moon-the-winds-of-anthos-new-crops-fish-and-recipes-pack.json) |
 | Harvest Moon: The Winds of Anthos - The Great Outdoors Pack | 360845 | [360845-harvest-moon-the-winds-of-anthos-the-great-outdoors-pack.json](./360845-harvest-moon-the-winds-of-anthos-the-great-outdoors-pack.json) |
+| Harvest Moon: The Winds of Anthos - Tool Upgrade & New Interior Designs Pack | 269378 | [269378-harvest-moon-the-winds-of-anthos-tool-upgrade-and-new-interior-designs-pack.json](./269378-harvest-moon-the-winds-of-anthos-tool-upgrade-and-new-interior-designs-pack.json) |
 | Harvest Moon: The Winds of Anthos - Visitors From Afar Pack | 270288 | [270288-harvest-moon-the-winds-of-anthos-visitors-from-afar-pack.json](./270288-harvest-moon-the-winds-of-anthos-visitors-from-afar-pack.json) |
 | Harvest Moon: The Winds of Anthos Bundle | 269054 | [269054-harvest-moon-the-winds-of-anthos-bundle.json](./269054-harvest-moon-the-winds-of-anthos-bundle.json) |
 | Harvest of Names | 403443 | [403443-harvest-of-names.json](./403443-harvest-of-names.json) |
@@ -6802,6 +6805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Gems Collection: 3 in 1 | 324200 | [324200-hidden-gems-collection-3-in-1.json](./324200-hidden-gems-collection-3-in-1.json) |
 | Hidden Gems of Bermuda 2 | 273034 | [273034-hidden-gems-of-bermuda-2.json](./273034-hidden-gems-of-bermuda-2.json) |
 | Hidden Gems, Hidden Secrets | 240499 | [240499-hidden-gems-hidden-secrets.json](./240499-hidden-gems-hidden-secrets.json) |
+| Hidden Gems: Volume One | 269373 | [269373-hidden-gems-volume-one.json](./269373-hidden-gems-volume-one.json) |
 | Hidden Ghost Town | 189902 | [189902-hidden-ghost-town.json](./189902-hidden-ghost-town.json) |
 | Hidden Ghost Town 2 | 189292 | [189292-hidden-ghost-town-2.json](./189292-hidden-ghost-town-2.json) |
 | Hidden Girls: Bikini Dreams | 420673 | [420673-hidden-girls-bikini-dreams.json](./420673-hidden-girls-bikini-dreams.json) |
