@@ -6298,6 +6298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchlight | 348808 | [348808-witchlight.json](./348808-witchlight.json) |
 | Witchling Grove | 384088 | [384088-witchling-grove.json](./384088-witchling-grove.json) |
 | Witchmarsh | 61527 | [61527-witchmarsh.json](./61527-witchmarsh.json) |
+| Witchmarsh: Tea Party of the Damned | 295424 | [295424-witchmarsh-tea-party-of-the-damned.json](./295424-witchmarsh-tea-party-of-the-damned.json) |
 | Witchmore | 241653 | [241653-witchmore.json](./241653-witchmore.json) |
 | Witchpop | 390142 | [390142-witchpop.json](./390142-witchpop.json) |
 | Witchpunk | 226137 | [226137-witchpunk.json](./226137-witchpunk.json) |
