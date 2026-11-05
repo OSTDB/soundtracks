@@ -1061,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Rush | 87523 | [87523-ice-rush.json](./87523-ice-rush.json) |
 | Ice Scream | 212573 | [212573-ice-scream.json](./212573-ice-scream.json) |
 | Ice Scream | 354892 | [354892-ice-scream.json](./354892-ice-scream.json) |
+| Ice Scream 2 | 273681 | [273681-ice-scream-2.json](./273681-ice-scream-2.json) |
 | Ice Scream 3 | 224040 | [224040-ice-scream-3.json](./224040-ice-scream-3.json) |
 | Ice Scream 4: Rod's Factory | 275007 | [275007-ice-scream-4-rods-factory.json](./275007-ice-scream-4-rods-factory.json) |
 | Ice Scream 6 Friends: Charlie | 273947 | [273947-ice-scream-6-friends-charlie.json](./273947-ice-scream-6-friends-charlie.json) |
@@ -3763,7 +3764,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4537,6 +4537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inspector Schmidt: The Ebbing - Prologue | 335181 | [335181-inspector-schmidt-the-ebbing-prologue.json](./335181-inspector-schmidt-the-ebbing-prologue.json) |
 | Inspector Waffles | 116730 | [116730-inspector-waffles.json](./116730-inspector-waffles.json) |
 | Inspector Waffles Full Story | 395289 | [395289-inspector-waffles-full-story.json](./395289-inspector-waffles-full-story.json) |
+| Inspector Waffles: Early Days | 273621 | [273621-inspector-waffles-early-days.json](./273621-inspector-waffles-early-days.json) |
 | Inspector Waffles: Purrluxe Edition | 154522 | [154522-inspector-waffles-purrluxe-edition.json](./154522-inspector-waffles-purrluxe-edition.json) |
 | Inspektor | 366726 | [366726-inspektor.json](./366726-inspektor.json) |
 | Inspektor Zebok: Das Erbe | 116139 | [116139-inspektor-zebok-das-erbe.json](./116139-inspektor-zebok-das-erbe.json) |
@@ -6165,6 +6166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle of Arrows | 197945 | [197945-isle-of-arrows.json](./197945-isle-of-arrows.json) |
 | Isle of Birds | 320872 | [320872-isle-of-birds.json](./320872-isle-of-birds.json) |
 | Isle of Dinosaurs 2D | 126979 | [126979-isle-of-dinosaurs-2d.json](./126979-isle-of-dinosaurs-2d.json) |
+| Isle of Echoes | 273615 | [273615-isle-of-echoes.json](./273615-isle-of-echoes.json) |
 | Isle of Finbari | 391699 | [391699-isle-of-finbari.json](./391699-isle-of-finbari.json) |
 | Isle of Flesh | 415773 | [415773-isle-of-flesh.json](./415773-isle-of-flesh.json) |
 | Isle of Food | 387149 | [387149-isle-of-food.json](./387149-isle-of-food.json) |
