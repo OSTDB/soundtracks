@@ -4317,6 +4317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Murder | 209444 | [209444-perfect-murder.json](./209444-perfect-murder.json) |
 | Perfect New World | 175717 | [175717-perfect-new-world.json](./175717-perfect-new-world.json) |
 | Perfect Ninja Bundle | 331486 | [331486-perfect-ninja-bundle.json](./331486-perfect-ninja-bundle.json) |
+| Perfect Ninja Painter | 267144 | [267144-perfect-ninja-painter.json](./267144-perfect-ninja-painter.json) |
 | Perfect Ninja Painter 2 | 290739 | [290739-perfect-ninja-painter-2.json](./290739-perfect-ninja-painter-2.json) |
 | Perfect Ninja Painter 3 | 329513 | [329513-perfect-ninja-painter-3.json](./329513-perfect-ninja-painter-3.json) |
 | Perfect Ninja Painter 4 | 402059 | [402059-perfect-ninja-painter-4.json](./402059-perfect-ninja-painter-4.json) |
@@ -5641,6 +5642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photophobia | 373200 | [373200-photophobia.json](./373200-photophobia.json) |
 | Photophobia | 379640 | [379640-photophobia.json](./379640-photophobia.json) |
 | PhotophoBoy | 185363 | [185363-photophoboy.json](./185363-photophoboy.json) |
+| Photophore: Chapter 1 | 267129 | [267129-photophore-chapter-1.json](./267129-photophore-chapter-1.json) |
 | Photopia | 9513 | [9513-photopia.json](./9513-photopia.json) |
 | Photoq | 188875 | [188875-photoq.json](./188875-photoq.json) |
 | Photos with Animal Crossing | 59998 | [59998-photos-with-animal-crossing.json](./59998-photos-with-animal-crossing.json) |
@@ -12439,6 +12441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | pop'n music: Tune Street | 98811 | [98811-popn-music-tune-street.json](./98811-popn-music-tune-street.json) |
 | Pop'n Music: Usagi to Neko to Shounen no Yume | 134404 | [134404-popn-music-usagi-to-neko-to-shounen-no-yume.json](./134404-popn-music-usagi-to-neko-to-shounen-no-yume.json) |
 | Pop'n Pop | 209956 | [209956-popn-pop.json](./209956-popn-pop.json) |
+| Pop'n Pop | 267190 | [267190-popn-pop.json](./267190-popn-pop.json) |
 | Pop'n Pop | 64307 | [64307-popn-pop.json](./64307-popn-pop.json) |
 | Pop'n pop globos | 50060 | [50060-popn-pop-globos.json](./50060-popn-pop-globos.json) |
 | Pop'n rhythmin | 395964 | [395964-popn-rhythmin.json](./395964-popn-rhythmin.json) |
