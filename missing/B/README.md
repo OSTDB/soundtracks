@@ -4035,6 +4035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Typer | 283437 | [283437-battle-typer.json](./283437-battle-typer.json) |
 | Battle Unit Zeoth | 7775 | [7775-battle-unit-zeoth.json](./7775-battle-unit-zeoth.json) |
 | Battle Vader | 80321 | [80321-battle-vader.json](./80321-battle-vader.json) |
+| Battle Wave | 275376 | [275376-battle-wave.json](./275376-battle-wave.json) |
 | Battle Wave 2323 | 166281 | [166281-battle-wave-2323.json](./166281-battle-wave-2323.json) |
 | Battle Waves | 204809 | [204809-battle-waves.json](./204809-battle-waves.json) |
 | Battle Wizard Attack | 314633 | [314633-battle-wizard-attack.json](./314633-battle-wizard-attack.json) |
@@ -9200,6 +9201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacksmith Weapon Merchant | 213987 | [213987-blacksmith-weapon-merchant.json](./213987-blacksmith-weapon-merchant.json) |
 | Blacksmith: Dark Times | 105012 | [105012-blacksmith-dark-times.json](./105012-blacksmith-dark-times.json) |
 | Blacksmith: Ignite the Forge | 341984 | [341984-blacksmith-ignite-the-forge.json](./341984-blacksmith-ignite-the-forge.json) |
+| Blacksmith: Song of Two Kings | 275363 | [275363-blacksmith-song-of-two-kings.json](./275363-blacksmith-song-of-two-kings.json) |
 | Blacksmith's Master | 184895 | [184895-blacksmiths-master.json](./184895-blacksmiths-master.json) |
 | BlackSoul | 50314 | [50314-blacksoul.json](./50314-blacksoul.json) |
 | BlackSoul: Extended Edition | 30252 | [30252-blacksoul-extended-edition.json](./30252-blacksoul-extended-edition.json) |
@@ -16860,6 +16862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulletheart | 380043 | [380043-bulletheart.json](./380043-bulletheart.json) |
 | BulletHeart | 181910 | [181910-bulletheart.json](./181910-bulletheart.json) |
 | BulletHeck | 265207 | [265207-bulletheck.json](./265207-bulletheck.json) |
+| Bullethell | 275407 | [275407-bullethell.json](./275407-bullethell.json) |
 | BulletHell Planes | 135045 | [135045-bullethell-planes.json](./135045-bullethell-planes.json) |
 | Bulletjump | 417741 | [417741-bulletjump.json](./417741-bulletjump.json) |
 | Bulletkour | 210480 | [210480-bulletkour.json](./210480-bulletkour.json) |
