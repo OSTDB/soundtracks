@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macabre | 34875 | [34875-macabre.json](./34875-macabre.json) |
 | Macabre Museum | 216685 | [216685-macabre-museum.json](./216685-macabre-museum.json) |
 | Macabre no Zantou: Remnants of the Macabre | 309363 | [309363-macabre-no-zantou-remnants-of-the-macabre.json](./309363-macabre-no-zantou-remnants-of-the-macabre.json) |
+| Macabre Ring 2: Mysterious Puppeteer | 295442 | [295442-macabre-ring-2-mysterious-puppeteer.json](./295442-macabre-ring-2-mysterious-puppeteer.json) |
 | Macadam: Futari Yogari | 66125 | [66125-macadam-futari-yogari.json](./66125-macadam-futari-yogari.json) |
 | Macaroni Houren-sou Interactive | 234183 | [234183-macaroni-houren-sou-interactive.json](./234183-macaroni-houren-sou-interactive.json) |
 | Macaroni in a Pot | 299156 | [299156-macaroni-in-a-pot.json](./299156-macaroni-in-a-pot.json) |
@@ -1015,6 +1016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Bubbles | 225208 | [225208-magic-bubbles.json](./225208-magic-bubbles.json) |
 | Magic Card: CZ12 | 287690 | [287690-magic-card-cz12.json](./287690-magic-card-cz12.json) |
 | Magic Cards Duel | 409793 | [409793-magic-cards-duel.json](./409793-magic-cards-duel.json) |
+| Magic Cards Solitaire | 295443 | [295443-magic-cards-solitaire.json](./295443-magic-cards-solitaire.json) |
 | Magic Cards Solitaire 2: The Fountain of Life | 274915 | [274915-magic-cards-solitaire-2-the-fountain-of-life.json](./274915-magic-cards-solitaire-2-the-fountain-of-life.json) |
 | Magic Carpet Plus | 72026 | [72026-magic-carpet-plus.json](./72026-magic-carpet-plus.json) |
 | Magic Carpet: Hidden Worlds | 8922 | [8922-magic-carpet-hidden-worlds.json](./8922-magic-carpet-hidden-worlds.json) |
@@ -1081,6 +1083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Farm | 298707 | [298707-magic-farm.json](./298707-magic-farm.json) |
 | Magic Farm 2: Fairy Lands - Premium Edition | 291715 | [291715-magic-farm-2-fairy-lands-premium-edition.json](./291715-magic-farm-2-fairy-lands-premium-edition.json) |
 | Magic Farm 3: The Ice Danger | 121180 | [121180-magic-farm-3-the-ice-danger.json](./121180-magic-farm-3-the-ice-danger.json) |
+| Magic Farm: Ultimate Flower | 295440 | [295440-magic-farm-ultimate-flower.json](./295440-magic-farm-ultimate-flower.json) |
 | Magic Flight Academy | 102947 | [102947-magic-flight-academy.json](./102947-magic-flight-academy.json) |
 | Magic Floor | 309218 | [309218-magic-floor.json](./309218-magic-floor.json) |
 | Magic Floor | 309219 | [309219-magic-floor.json](./309219-magic-floor.json) |
@@ -1374,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic: The Gathering Online | 79081 | [79081-magic-the-gathering-online.json](./79081-magic-the-gathering-online.json) |
 | Magica Arena | 216088 | [216088-magica-arena.json](./216088-magica-arena.json) |
 | Magica Memoria | 289019 | [289019-magica-memoria.json](./289019-magica-memoria.json) |
+| Magica Travel Agency: Las Vegas | 295444 | [295444-magica-travel-agency-las-vegas.json](./295444-magica-travel-agency-las-vegas.json) |
 | Magica Wars: Zanbatsu | 62013 | [62013-magica-wars-zanbatsu.json](./62013-magica-wars-zanbatsu.json) |
 | Magica X Magica | 200018 | [200018-magica-x-magica.json](./200018-magica-x-magica.json) |
 | Magicademia | 148677 | [148677-magicademia.json](./148677-magicademia.json) |
@@ -10968,6 +10972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midora | 61307 | [61307-midora.json](./61307-midora.json) |
 | Midori Budou-den | 339121 | [339121-midori-budou-den.json](./339121-midori-budou-den.json) |
 | Midori Forest | 214908 | [214908-midori-forest.json](./214908-midori-forest.json) |
+| Midori no Kaori | 295421 | [295421-midori-no-kaori.json](./295421-midori-no-kaori.json) |
 | Midori No Makibao: Kuroi Inazuma Shiroi Kiseki | 396756 | [396756-midori-no-makibao-kuroi-inazuma-shiroi-kiseki.json](./396756-midori-no-makibao-kuroi-inazuma-shiroi-kiseki.json) |
 | Midori no Makibaoo | 228619 | [228619-midori-no-makibaoo.json](./228619-midori-no-makibaoo.json) |
 | Midsummer | 369285 | [369285-midsummer.json](./369285-midsummer.json) |
@@ -15965,8 +15970,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monument Builders: Big Ben | 294445 | [294445-monument-builders-big-ben.json](./294445-monument-builders-big-ben.json) |
 | Monument Builders: Cathedral Rising | 294444 | [294444-monument-builders-cathedral-rising.json](./294444-monument-builders-cathedral-rising.json) |
 | Monument Builders: Colosseum | 24752 | [24752-monument-builders-colosseum.json](./24752-monument-builders-colosseum.json) |
+| Monument Builders: Golden Gate Bridge | 295451 | [295451-monument-builders-golden-gate-bridge.json](./295451-monument-builders-golden-gate-bridge.json) |
 | Monument Builders: Rushmore | 58648 | [58648-monument-builders-rushmore.json](./58648-monument-builders-rushmore.json) |
 | Monument Builders: Statue of Liberty | 356134 | [356134-monument-builders-statue-of-liberty.json](./356134-monument-builders-statue-of-liberty.json) |
+| Monument Builders: Titanic | 295452 | [295452-monument-builders-titanic.json](./295452-monument-builders-titanic.json) |
 | Monument Journey: Nitro | 213898 | [213898-monument-journey-nitro.json](./213898-monument-journey-nitro.json) |
 | Monument Valley 1&2 Bundle | 341446 | [341446-monument-valley-1-and-2-bundle.json](./341446-monument-valley-1-and-2-bundle.json) |
 | Monument Valley II | 36749 | [36749-monument-valley-ii.json](./36749-monument-valley-ii.json) |
