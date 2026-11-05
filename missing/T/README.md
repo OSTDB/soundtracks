@@ -5058,6 +5058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thanks For Listening | 126946 | [126946-thanks-for-listening.json](./126946-thanks-for-listening.json) |
 | Thanks for the Soup | 408519 | [408519-thanks-for-the-soup.json](./408519-thanks-for-the-soup.json) |
 | Thanks Merlin | 297344 | [297344-thanks-merlin.json](./297344-thanks-merlin.json) |
+| Thanks Mom | 292463 | [292463-thanks-mom.json](./292463-thanks-mom.json) |
 | Thanks Tanks! | 332380 | [332380-thanks-tanks.json](./332380-thanks-tanks.json) |
 | Thanks, Come Again | 245389 | [245389-thanks-come-again.json](./245389-thanks-come-again.json) |
 | Thanks, Light. | 262934 | [262934-thanks-light.json](./262934-thanks-light.json) |
@@ -11576,6 +11577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Land of Fog | 320808 | [320808-the-land-of-fog.json](./320808-the-land-of-fog.json) |
 | The Land of Glass | 89402 | [89402-the-land-of-glass.json](./89402-the-land-of-glass.json) |
 | The Land of Lamia | 34838 | [34838-the-land-of-lamia.json](./34838-the-land-of-lamia.json) |
+| The Land of Magic | 292338 | [292338-the-land-of-magic.json](./292338-the-land-of-magic.json) |
 | The Land of Morning Calm | 358888 | [358888-the-land-of-morning-calm.json](./358888-the-land-of-morning-calm.json) |
 | The Land of Pain | 30038 | [30038-the-land-of-pain.json](./30038-the-land-of-pain.json) |
 | The Land of Rest 1 | 346608 | [346608-the-land-of-rest-1.json](./346608-the-land-of-rest-1.json) |
@@ -15531,6 +15533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scaglietti | 417968 | [417968-the-scaglietti.json](./417968-the-scaglietti.json) |
 | The Scaling | 386286 | [386286-the-scaling.json](./386286-the-scaling.json) |
 | The Scam | 369912 | [369912-the-scam.json](./369912-the-scam.json) |
+| The Scar | 292330 | [292330-the-scar.json](./292330-the-scar.json) |
 | The Scarecrow | 88140 | [88140-the-scarecrow.json](./88140-the-scarecrow.json) |
 | The Scarecrow Knight | 358976 | [358976-the-scarecrow-knight.json](./358976-the-scarecrow-knight.json) |
 | The Scarlet Chaos | 289959 | [289959-the-scarlet-chaos.json](./289959-the-scarlet-chaos.json) |
@@ -20148,6 +20151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Ray | 201592 | [201592-thunder-ray.json](./201592-thunder-ray.json) |
 | Thunder Ray: Forgotten Duels | 288274 | [288274-thunder-ray-forgotten-duels.json](./288274-thunder-ray-forgotten-duels.json) |
 | Thunder Roar | 218121 | [218121-thunder-roar.json](./218121-thunder-roar.json) |
+| Thunder Ronin | 292468 | [292468-thunder-ronin.json](./292468-thunder-ronin.json) |
 | Thunder Run: Firestrike | 83321 | [83321-thunder-run-firestrike.json](./83321-thunder-run-firestrike.json) |
 | Thunder Shooting | 195061 | [195061-thunder-shooting.json](./195061-thunder-shooting.json) |
 | Thunder Spheres | 30436 | [30436-thunder-spheres.json](./30436-thunder-spheres.json) |
@@ -22666,6 +22670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Adventure | 304163 | [304163-tiny-adventure.json](./304163-tiny-adventure.json) |
 | Tiny and Big: Grandpa's Leftovers | 3079 | [3079-tiny-and-big-grandpas-leftovers.json](./3079-tiny-and-big-grandpas-leftovers.json) |
 | Tiny Animal War | 193933 | [193933-tiny-animal-war.json](./193933-tiny-animal-war.json) |
+| Tiny Aquarium: Social Fishkeeping | 292329 | [292329-tiny-aquarium-social-fishkeeping.json](./292329-tiny-aquarium-social-fishkeeping.json) |
 | Tiny Arcade Racers | 201241 | [201241-tiny-arcade-racers.json](./201241-tiny-arcade-racers.json) |
 | Tiny Arcade Tetris | 234083 | [234083-tiny-arcade-tetris.json](./234083-tiny-arcade-tetris.json) |
 | Tiny Archers | 58105 | [58105-tiny-archers.json](./58105-tiny-archers.json) |
@@ -24256,6 +24261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomato Blaster | 68423 | [68423-tomato-blaster.json](./68423-tomato-blaster.json) |
 | Tomato Bounce | 262212 | [262212-tomato-bounce.json](./262212-tomato-bounce.json) |
 | Tomato Dealer | 396579 | [396579-tomato-dealer.json](./396579-tomato-dealer.json) |
+| Tomato Flip | 292356 | [292356-tomato-flip.json](./292356-tomato-flip.json) |
 | Tomato Jones | 32370 | [32370-tomato-jones.json](./32370-tomato-jones.json) |
 | Tomato Jones - Episode 3 | 83542 | [83542-tomato-jones-episode-3.json](./83542-tomato-jones-episode-3.json) |
 | Tomato Jones 2 | 28648 | [28648-tomato-jones-2.json](./28648-tomato-jones-2.json) |
