@@ -4913,6 +4913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Lust [18+] | 344971 | [344971-hentai-girls-lust-18.json](./344971-hentai-girls-lust-18.json) |
 | Hentai Girls: Magnificent Edition | 298572 | [298572-hentai-girls-magnificent-edition.json](./298572-hentai-girls-magnificent-edition.json) |
 | Hentai Girls: Maid Cafe Love | 343713 | [343713-hentai-girls-maid-cafe-love.json](./343713-hentai-girls-maid-cafe-love.json) |
+| Hentai Girls: Mandarin Love | 286889 | [286889-hentai-girls-mandarin-love.json](./286889-hentai-girls-mandarin-love.json) |
 | Hentai Girls: Marvelous Magician | 332493 | [332493-hentai-girls-marvelous-magician.json](./332493-hentai-girls-marvelous-magician.json) |
 | Hentai Girls: Mommy Milkers | 294018 | [294018-hentai-girls-mommy-milkers.json](./294018-hentai-girls-mommy-milkers.json) |
 | Hentai Girls: Naughty Astronaut | 342402 | [342402-hentai-girls-naughty-astronaut.json](./342402-hentai-girls-naughty-astronaut.json) |
@@ -9328,6 +9329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honor of Kings | 44097 | [44097-honor-of-kings.json](./44097-honor-of-kings.json) |
 | Honor of Kings: World | 180147 | [180147-honor-of-kings-world.json](./180147-honor-of-kings-world.json) |
 | Honor of Knight King | 174109 | [174109-honor-of-knight-king.json](./174109-honor-of-knight-king.json) |
+| Honor of Nations | 286871 | [286871-honor-of-nations.json](./286871-honor-of-nations.json) |
 | Honored | 187082 | [187082-honored.json](./187082-honored.json) |
 | Honorless! | 346488 | [346488-honorless.json](./346488-honorless.json) |
 | Honour & Freedom II | 283085 | [283085-honour-and-freedom-ii.json](./283085-honour-and-freedom-ii.json) |
