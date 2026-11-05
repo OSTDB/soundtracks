@@ -1968,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elden Ring: Nightreign - Seeker's Edition | 375852 | [375852-elden-ring-nightreign-seekers-edition.json](./375852-elden-ring-nightreign-seekers-edition.json) |
 | Elden Ring: Shadow of the Erdtree - Collector's Edition | 288654 | [288654-elden-ring-shadow-of-the-erdtree-collectors-edition.json](./288654-elden-ring-shadow-of-the-erdtree-collectors-edition.json) |
 | Elden Ring: Shadow of the Erdtree - Premium Bundle | 290894 | [290894-elden-ring-shadow-of-the-erdtree-premium-bundle.json](./290894-elden-ring-shadow-of-the-erdtree-premium-bundle.json) |
+| Elden Ring: Shadow of the Erdtree Deluxe Edition | 287984 | [287984-elden-ring-shadow-of-the-erdtree-deluxe-edition.json](./287984-elden-ring-shadow-of-the-erdtree-deluxe-edition.json) |
 | Elden Ring: Shadow of the Erdtree Edition | 287975 | [287975-elden-ring-shadow-of-the-erdtree-edition.json](./287975-elden-ring-shadow-of-the-erdtree-edition.json) |
 | Elden Ring: Tarnished Edition | 338079 | [338079-elden-ring-tarnished-edition.json](./338079-elden-ring-tarnished-edition.json) |
 | Elden Sword | 371122 | [371122-elden-sword.json](./371122-elden-sword.json) |
@@ -2432,6 +2433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevator Ritual | 89611 | [89611-elevator-ritual.json](./89611-elevator-ritual.json) |
 | Elevator Simulator 3D | 394310 | [394310-elevator-simulator-3d.json](./394310-elevator-simulator-3d.json) |
 | Elevator Warp | 295573 | [295573-elevator-warp.json](./295573-elevator-warp.json) |
+| Elevator Zero | 287996 | [287996-elevator-zero.json](./287996-elevator-zero.json) |
 | Elevator: Source | 381322 | [381322-elevator-source.json](./381322-elevator-source.json) |
 | Elevator... to the Moon! | 69457 | [69457-elevator-to-the-moon.json](./69457-elevator-to-the-moon.json) |
 | Elevator...to the Moon!: Turbo Champion's Edition | 115468 | [115468-elevator-to-the-moon-turbo-champions-edition.json](./115468-elevator-to-the-moon-turbo-champions-edition.json) |
