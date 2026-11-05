@@ -3706,6 +3706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrubby Dubby Saga | 402337 | [402337-scrubby-dubby-saga.json](./402337-scrubby-dubby-saga.json) |
 | Scrubs | 59625 | [59625-scrubs.json](./59625-scrubs.json) |
 | Scruffy 3: A Day in the Life | 265683 | [265683-scruffy-3-a-day-in-the-life.json](./265683-scruffy-3-a-day-in-the-life.json) |
+| Scruffy Rides Again | 266554 | [266554-scruffy-rides-again.json](./266554-scruffy-rides-again.json) |
 | Scruffy's Quest | 265681 | [265681-scruffys-quest.json](./265681-scruffys-quest.json) |
 | Scrum Down | 244289 | [244289-scrum-down.json](./244289-scrum-down.json) |
 | Scrumlords | 260634 | [260634-scrumlords.json](./260634-scrumlords.json) |
@@ -14022,6 +14023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Thief | 157341 | [157341-smart-thief.json](./157341-smart-thief.json) |
 | Smart Tracks: Think and Run | 168568 | [168568-smart-tracks-think-and-run.json](./168568-smart-tracks-think-and-run.json) |
 | Smart Truco | 370913 | [370913-smart-truco.json](./370913-smart-truco.json) |
+| Smart Way | 266550 | [266550-smart-way.json](./266550-smart-way.json) |
 | Smart-Attack! | 369446 | [369446-smart-attack.json](./369446-smart-attack.json) |
 | SmartBoy | 86556 | [86556-smartboy.json](./86556-smartboy.json) |
 | Smarter Than You | 257225 | [257225-smarter-than-you.json](./257225-smarter-than-you.json) |
@@ -19250,7 +19252,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -26540,6 +26541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stolen Hearts: Wolf Knight | 285860 | [285860-stolen-hearts-wolf-knight.json](./285860-stolen-hearts-wolf-knight.json) |
 | Stolen in 60 Seconds | 65229 | [65229-stolen-in-60-seconds.json](./65229-stolen-in-60-seconds.json) |
 | Stolen Life | 338615 | [338615-stolen-life.json](./338615-stolen-life.json) |
+| Stolen Memories | 266579 | [266579-stolen-memories.json](./266579-stolen-memories.json) |
 | Stolen Memories II | 270882 | [270882-stolen-memories-ii.json](./270882-stolen-memories-ii.json) |
 | Stolen Mouth | 74660 | [74660-stolen-mouth.json](./74660-stolen-mouth.json) |
 | Stolen Mushrooms | 268224 | [268224-stolen-mushrooms.json](./268224-stolen-mushrooms.json) |
@@ -26812,6 +26814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm: Frontline Nation | 10928 | [10928-storm-frontline-nation.json](./10928-storm-frontline-nation.json) |
 | Storm: Lost Normality | 186409 | [186409-storm-lost-normality.json](./186409-storm-lost-normality.json) |
 | Storm's Eye | 295303 | [295303-storms-eye.json](./295303-storms-eye.json) |
+| Storm's Harvest | 266580 | [266580-storms-harvest.json](./266580-storms-harvest.json) |
 | Storm's Wrath | 360630 | [360630-storms-wrath.json](./360630-storms-wrath.json) |
 | Stormball | 77379 | [77379-stormball.json](./77379-stormball.json) |
 | Stormbane | 258956 | [258956-stormbane.json](./258956-stormbane.json) |
@@ -29885,6 +29888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Animal Soccer | 382536 | [382536-super-animal-soccer.json](./382536-super-animal-soccer.json) |
 | Super Anime Waifu BBQ Simulator | 216235 | [216235-super-anime-waifu-bbq-simulator.json](./216235-super-anime-waifu-bbq-simulator.json) |
 | Super Ant Art Tycoon | 391603 | [391603-super-ant-art-tycoon.json](./391603-super-ant-art-tycoon.json) |
+| Super Anthony's Joltzsi | 266581 | [266581-super-anthonys-joltzsi.json](./266581-super-anthonys-joltzsi.json) |
 | Super Antonio | 313180 | [313180-super-antonio.json](./313180-super-antonio.json) |
 | Super Arabian | 48665 | [48665-super-arabian.json](./48665-super-arabian.json) |
 | Super Arc Light | 96413 | [96413-super-arc-light.json](./96413-super-arc-light.json) |
@@ -33389,6 +33393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SurfsUp | 339492 | [339492-surfsup.json](./339492-surfsup.json) |
 | SurfTank | 268860 | [268860-surftank.json](./268860-surftank.json) |
 | Surfwords | 219573 | [219573-surfwords.json](./219573-surfwords.json) |
+| Surfy | 266549 | [266549-surfy.json](./266549-surfy.json) |
 | Surge | 275573 | [275573-surge.json](./275573-surge.json) |
 | Surge | 32541 | [32541-surge.json](./32541-surge.json) |
 | Surge | 343610 | [343610-surge.json](./343610-surge.json) |
