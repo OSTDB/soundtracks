@@ -6857,9 +6857,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Night, Peregrine | 222936 | [222936-good-night-peregrine.json](./222936-good-night-peregrine.json) |
 | Good Night, Rowan | 178564 | [178564-good-night-rowan.json](./178564-good-night-rowan.json) |
 | Good Pizza, Great Pizza: Bewitched Garden Set - Halloween 2022 | 272751 | [272751-good-pizza-great-pizza-bewitched-garden-set-halloween-2022.json](./272751-good-pizza-great-pizza-bewitched-garden-set-halloween-2022.json) |
+| Good Pizza, Great Pizza: Countryside Charm Set - Autumn 2022 | 276563 | [276563-good-pizza-great-pizza-countryside-charm-set-autumn-2022.json](./276563-good-pizza-great-pizza-countryside-charm-set-autumn-2022.json) |
 | Good Pizza, Great Pizza: Floral Nostalgia Set | 249302 | [249302-good-pizza-great-pizza-floral-nostalgia-set.json](./249302-good-pizza-great-pizza-floral-nostalgia-set.json) |
 | Good Pizza, Great Pizza: Mysterious Antiques Set - Halloween 2022 | 272752 | [272752-good-pizza-great-pizza-mysterious-antiques-set-halloween-2022.json](./272752-good-pizza-great-pizza-mysterious-antiques-set-halloween-2022.json) |
 | Good Pizza, Great Pizza: Orchid Dreams Set | 249303 | [249303-good-pizza-great-pizza-orchid-dreams-set.json](./249303-good-pizza-great-pizza-orchid-dreams-set.json) |
+| Good Pizza, Great Pizza: Pumpkin Delight Set - Autumn 2023 | 276565 | [276565-good-pizza-great-pizza-pumpkin-delight-set-autumn-2023.json](./276565-good-pizza-great-pizza-pumpkin-delight-set-autumn-2023.json) |
+| Good Pizza, Great Pizza: Rustic Retreat Set - Autumn 2022 | 276564 | [276564-good-pizza-great-pizza-rustic-retreat-set-autumn-2022.json](./276564-good-pizza-great-pizza-rustic-retreat-set-autumn-2022.json) |
 | Good Pizza, Great Pizza: Summer Slices Set - Summer 2023 | 255980 | [255980-good-pizza-great-pizza-summer-slices-set-summer-2023.json](./255980-good-pizza-great-pizza-summer-slices-set-summer-2023.json) |
 | Good Pizza, Great Pizza: Taste of Rome Set - Chapter 5 | 266521 | [266521-good-pizza-great-pizza-taste-of-rome-set-chapter-5.json](./266521-good-pizza-great-pizza-taste-of-rome-set-chapter-5.json) |
 | Good Pizza, Great Pizza: Villa Vista Set - Chapter 5 | 266522 | [266522-good-pizza-great-pizza-villa-vista-set-chapter-5.json](./266522-good-pizza-great-pizza-villa-vista-set-chapter-5.json) |
