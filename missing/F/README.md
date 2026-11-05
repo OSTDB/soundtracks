@@ -6035,6 +6035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firepower for Microsoft Combat Flight Simulator 3 | 165323 | [165323-firepower-for-microsoft-combat-flight-simulator-3.json](./165323-firepower-for-microsoft-combat-flight-simulator-3.json) |
 | Firepower Forge | 275546 | [275546-firepower-forge.json](./275546-firepower-forge.json) |
 | FirePuzzle | 193066 | [193066-firepuzzle.json](./193066-firepuzzle.json) |
+| Firerainbow | 268788 | [268788-firerainbow.json](./268788-firerainbow.json) |
 | FireRun | 255250 | [255250-firerun.json](./255250-firerun.json) |
 | Fires At Midnight | 133350 | [133350-fires-at-midnight.json](./133350-fires-at-midnight.json) |
 | Firescape | 342731 | [342731-firescape.json](./342731-firescape.json) |
@@ -7701,6 +7702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip Flop - Reversi for Playdate | 230788 | [230788-flip-flop-reversi-for-playdate.json](./230788-flip-flop-reversi-for-playdate.json) |
 | Flip Flop XL | 322782 | [322782-flip-flop-xl.json](./322782-flip-flop-xl.json) |
 | Flip for Cake | 361721 | [361721-flip-for-cake.json](./361721-flip-for-cake.json) |
+| Flip it | 268815 | [268815-flip-it.json](./268815-flip-it.json) |
 | Flip It | 309636 | [309636-flip-it.json](./309636-flip-it.json) |
 | Flip It 2 | 254698 | [254698-flip-it-2.json](./254698-flip-it-2.json) |
 | Flip Man! | 119253 | [119253-flip-man.json](./119253-flip-man.json) |
@@ -7745,6 +7747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip's Escape | 64646 | [64646-flips-escape.json](./64646-flips-escape.json) |
 | Flip＊Flop: Innocence Overclock | 397244 | [397244-flip-flop-innocence-overclock.json](./397244-flip-flop-innocence-overclock.json) |
 | Flip＊Flop: Rambling Overrun | 397245 | [397245-flip-flop-rambling-overrun.json](./397245-flip-flop-rambling-overrun.json) |
+| Flip2Green | 268825 | [268825-flip2green.json](./268825-flip2green.json) |
 | Flipbomb | 371348 | [371348-flipbomb.json](./371348-flipbomb.json) |
 | FlipBook | 315831 | [315831-flipbook.json](./315831-flipbook.json) |
 | FlipBook: Canvas Pack 1 | 317927 | [317927-flipbook-canvas-pack-1.json](./317927-flipbook-canvas-pack-1.json) |
@@ -12151,6 +12154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Atom to Modern | 368431 | [368431-from-atom-to-modern.json](./368431-from-atom-to-modern.json) |
 | From Basement with Love | 384057 | [384057-from-basement-with-love.json](./384057-from-basement-with-love.json) |
 | From Below | 415065 | [415065-from-below.json](./415065-from-below.json) |
+| From Below Pocket | 268795 | [268795-from-below-pocket.json](./268795-from-below-pocket.json) |
 | From Beneath | 58584 | [58584-from-beneath.json](./58584-from-beneath.json) |
 | From Beyond | 384318 | [384318-from-beyond.json](./384318-from-beyond.json) |
 | From Beyond Prologue | 112624 | [112624-from-beyond-prologue.json](./112624-from-beyond-prologue.json) |
