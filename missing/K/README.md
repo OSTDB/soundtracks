@@ -2749,6 +2749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -6203,6 +6204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyodai | 93377 | [93377-kyodai.json](./93377-kyodai.json) |
 | Kyodai Mahjongg | 126457 | [126457-kyodai-mahjongg.json](./126457-kyodai-mahjongg.json) |
 | Kyofu Hyakumonogatari | 239610 | [239610-kyofu-hyakumonogatari.json](./239610-kyofu-hyakumonogatari.json) |
+| Kyofu Uchu Ika | 295973 | [295973-kyofu-uchu-ika.json](./295973-kyofu-uchu-ika.json) |
 | Kyogeki Quartet Fighters | 87818 | [87818-kyogeki-quartet-fighters.json](./87818-kyogeki-quartet-fighters.json) |
 | Kyojin no Doshin Kaihou Sensen Chibikko Chikko Daishuugou | 72278 | [72278-kyojin-no-doshin-kaihou-sensen-chibikko-chikko-daishuugou.json](./72278-kyojin-no-doshin-kaihou-sensen-chibikko-chikko-daishuugou.json) |
 | Kyojin-tachi | 260983 | [260983-kyojin-tachi.json](./260983-kyojin-tachi.json) |
@@ -6269,6 +6271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyubu Kyubu Dice | 215336 | [215336-kyubu-kyubu-dice.json](./215336-kyubu-kyubu-dice.json) |
 | Kyuiin | 78524 | [78524-kyuiin.json](./78524-kyuiin.json) |
 | Kyukkyu-kun Game | 225347 | [225347-kyukkyu-kun-game.json](./225347-kyukkyu-kun-game.json) |
+| Kyukyoku Senki Gikadiver | 295963 | [295963-kyukyoku-senki-gikadiver.json](./295963-kyukyoku-senki-gikadiver.json) |
 | Kyukyoku TigerHeli: Console Ports + Get Star Pack | 301208 | [301208-kyukyoku-tigerheli-console-ports-get-star-pack.json](./301208-kyukyoku-tigerheli-console-ports-get-star-pack.json) |
 | Kyukyoku TigerHeli: Toaplan Arcade Garage | 399782 | [399782-kyukyoku-tigerheli-toaplan-arcade-garage.json](./399782-kyukyoku-tigerheli-toaplan-arcade-garage.json) |
 | Kyumori Episode1 | 175985 | [175985-kyumori-episode1.json](./175985-kyumori-episode1.json) |
