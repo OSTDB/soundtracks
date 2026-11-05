@@ -1077,6 +1077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xyzolog | 41766 | [41766-xyzolog.json](./41766-xyzolog.json) |
 | Xyzygy | 184075 | [184075-xyzygy.json](./184075-xyzygy.json) |
 | XZ: XL | 102291 | [102291-xz-xl.json](./102291-xz-xl.json) |
+| Xzap | 246165 | [246165-xzap.json](./246165-xzap.json) |
 | XZR II: Kanketsu-hen | 191664 | [191664-xzr-ii-kanketsu-hen.json](./191664-xzr-ii-kanketsu-hen.json) |
 | XZR: Hakai no Guuzou | 70299 | [70299-xzr-hakai-no-guuzou.json](./70299-xzr-hakai-no-guuzou.json) |
 | X遊戲 | 163986 | [163986-x.json](./163986-x.json) |
