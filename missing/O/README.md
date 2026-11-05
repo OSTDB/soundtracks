@@ -2709,6 +2709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One-Screen Game | 334538 | [334538-one-screen-game.json](./334538-one-screen-game.json) |
 | One-sided Loneliness | 304091 | [304091-one-sided-loneliness.json](./304091-one-sided-loneliness.json) |
 | One-Thousand Cuts | 250001 | [250001-one-thousand-cuts.json](./250001-one-thousand-cuts.json) |
+| One-Two Combo Bundle: Punch Club Franchise | 262053 | [262053-one-two-combo-bundle-punch-club-franchise.json](./262053-one-two-combo-bundle-punch-club-franchise.json) |
 | One-Two-Three | 91910 | [91910-one-two-three.json](./91910-one-two-three.json) |
 | One-Way | 202317 | [202317-one-way.json](./202317-one-way.json) |
 | One-way Ticket | 100537 | [100537-one-way-ticket.json](./100537-one-way-ticket.json) |
