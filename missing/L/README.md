@@ -2416,6 +2416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy Code | 421444 | [421444-legacy-code.json](./421444-legacy-code.json) |
 | Legacy Mystery Bundle | 283195 | [283195-legacy-mystery-bundle.json](./283195-legacy-mystery-bundle.json) |
 | Legacy of Aeroja | 193480 | [193480-legacy-of-aeroja.json](./193480-legacy-of-aeroja.json) |
+| Legacy of Allard | 247850 | [247850-legacy-of-allard.json](./247850-legacy-of-allard.json) |
 | Legacy of Ancestors | 346589 | [346589-legacy-of-ancestors.json](./346589-legacy-of-ancestors.json) |
 | Legacy of Animal: Hog's Life 2 | 291390 | [291390-legacy-of-animal-hogs-life-2.json](./291390-legacy-of-animal-hogs-life-2.json) |
 | Legacy of Ashes | 384742 | [384742-legacy-of-ashes.json](./384742-legacy-of-ashes.json) |
@@ -3706,6 +3707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Learn Xaad Kil | 303627 | [303627-lets-learn-xaad-kil.json](./303627-lets-learn-xaad-kil.json) |
 | Let's Learn Xiangqi | 368088 | [368088-lets-learn-xiangqi.json](./368088-lets-learn-xiangqi.json) |
 | Let's Mahjong | 388356 | [388356-lets-mahjong.json](./388356-lets-mahjong.json) |
+| Let's Make a Potion | 247852 | [247852-lets-make-a-potion.json](./247852-lets-make-a-potion.json) |
 | Let's Make a Pro Baseball Team! 2 | 138100 | [138100-lets-make-a-pro-baseball-team-2.json](./138100-lets-make-a-pro-baseball-team-2.json) |
 | Let's Make a Soccer Team! | 91708 | [91708-lets-make-a-soccer-team.json](./91708-lets-make-a-soccer-team.json) |
 | Let's Mangaka DS Style | 77036 | [77036-lets-mangaka-ds-style.json](./77036-lets-mangaka-ds-style.json) |
@@ -6325,6 +6327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live to Win | 129622 | [129622-live-to-win.json](./129622-live-to-win.json) |
 | Live together Now | 278919 | [278919-live-together-now.json](./278919-live-together-now.json) |
 | Live Wire! | 122569 | [122569-live-wire.json](./122569-live-wire.json) |
+| Live with Mary | 247830 | [247830-live-with-mary.json](./247830-live-with-mary.json) |
 | Live x Evil | 220245 | [220245-live-x-evil.json](./220245-live-x-evil.json) |
 | LiveGame.Show | 131349 | [131349-livegame-show.json](./131349-livegame-show.json) |
 | Livelock | 16982 | [16982-livelock.json](./16982-livelock.json) |
@@ -7024,6 +7027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Fury | 338684 | [338684-lone-fury.json](./338684-lone-fury.json) |
 | Lone Hero Path | 292416 | [292416-lone-hero-path.json](./292416-lone-hero-path.json) |
 | Lone King | 151046 | [151046-lone-king.json](./151046-lone-king.json) |
+| Lone King: Expansion | 247849 | [247849-lone-king-expansion.json](./247849-lone-king-expansion.json) |
 | Lone Knight | 226874 | [226874-lone-knight.json](./226874-lone-knight.json) |
 | Lone Labyrinth | 353161 | [353161-lone-labyrinth.json](./353161-lone-labyrinth.json) |
 | Lone Labyrinth: Burden of the Just | 352246 | [352246-lone-labyrinth-burden-of-the-just.json](./352246-lone-labyrinth-burden-of-the-just.json) |
