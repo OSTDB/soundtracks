@@ -5292,6 +5292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linehot Putin: All Stars | 116855 | [116855-linehot-putin-all-stars.json](./116855-linehot-putin-all-stars.json) |
 | Linelight | 27034 | [27034-linelight.json](./27034-linelight.json) |
 | Linelith | 199313 | [199313-linelith.json](./199313-linelith.json) |
+| LineMaze | 272612 | [272612-linemaze.json](./272612-linemaze.json) |
 | Lineoff | 181913 | [181913-lineoff.json](./181913-lineoff.json) |
 | Linerunner | 396269 | [396269-linerunner.json](./396269-linerunner.json) |
 | Lines | 91339 | [91339-lines.json](./91339-lines.json) |
@@ -7752,6 +7753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Century | 150377 | [150377-lost-century.json](./150377-lost-century.json) |
 | Lost Chakras | 305821 | [305821-lost-chakras.json](./305821-lost-chakras.json) |
 | Lost Chapter | 244229 | [244229-lost-chapter.json](./244229-lost-chapter.json) |
+| Lost Chapter: With You | 272611 | [272611-lost-chapter-with-you.json](./272611-lost-chapter-with-you.json) |
 | Lost Chiko | 223778 | [223778-lost-chiko.json](./223778-lost-chiko.json) |
 | Lost Chiko 2 | 305490 | [305490-lost-chiko-2.json](./305490-lost-chiko-2.json) |
 | Lost Child | 348223 | [348223-lost-child.json](./348223-lost-child.json) |
@@ -8353,6 +8355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Across Izumi | 131327 | [131327-love-across-izumi.json](./131327-love-across-izumi.json) |
 | Love Affairs | 303785 | [303785-love-affairs.json](./303785-love-affairs.json) |
 | Love All My Girls | 406866 | [406866-love-all-my-girls.json](./406866-love-all-my-girls.json) |
+| Love Alone Death | 272613 | [272613-love-alone-death.json](./272613-love-alone-death.json) |
 | Love Alt Delete | 419911 | [419911-love-alt-delete.json](./419911-love-alt-delete.json) |
 | Love Always Runs Away | 362885 | [362885-love-always-runs-away.json](./362885-love-always-runs-away.json) |
 | Love Amidst the Timeless Rift | 284398 | [284398-love-amidst-the-timeless-rift.json](./284398-love-amidst-the-timeless-rift.json) |
@@ -9537,6 +9540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna's Diary | 382532 | [382532-lunas-diary.json](./382532-lunas-diary.json) |
 | Luna's Eyes | 302902 | [302902-lunas-eyes.json](./302902-lunas-eyes.json) |
 | Luna's Lab (Earth to Luna!) | 109546 | [109546-lunas-lab-earth-to-luna.json](./109546-lunas-lab-earth-to-luna.json) |
+| Luna's Light | 272614 | [272614-lunas-light.json](./272614-lunas-light.json) |
 | Luna's Postcards Around the World | 343381 | [343381-lunas-postcards-around-the-world.json](./343381-lunas-postcards-around-the-world.json) |
 | Luna's Room | 397237 | [397237-lunas-room.json](./397237-lunas-room.json) |
 | Luna's Seek and Find | 343383 | [343383-lunas-seek-and-find.json](./343383-lunas-seek-and-find.json) |
