@@ -2756,6 +2756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acorn Assault: Rodent Revolution | 21991 | [21991-acorn-assault-rodent-revolution.json](./21991-acorn-assault-rodent-revolution.json) |
 | Acorn Avengers | 407281 | [407281-acorn-avengers.json](./407281-acorn-avengers.json) |
 | Acorn City: Tropical! | 152675 | [152675-acorn-city-tropical.json](./152675-acorn-city-tropical.json) |
+| Acorn Cop | 290127 | [290127-acorn-cop.json](./290127-acorn-cop.json) |
 | Acorn Hunt | 293078 | [293078-acorn-hunt.json](./293078-acorn-hunt.json) |
 | Acorn Tactics | 76573 | [76573-acorn-tactics.json](./76573-acorn-tactics.json) |
 | Acorn-A-Thon | 307328 | [307328-acorn-a-thon.json](./307328-acorn-a-thon.json) |
@@ -16215,6 +16216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
