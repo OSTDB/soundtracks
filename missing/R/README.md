@@ -3578,6 +3578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Record Tripping | 242910 | [242910-record-tripping.json](./242910-record-tripping.json) |
 | Record_DrowsyVortex | 340713 | [340713-record-drowsyvortex.json](./340713-record-drowsyvortex.json) |
 | Recordance | 257109 | [257109-recordance.json](./257109-recordance.json) |
+| Recordbooks | 268249 | [268249-recordbooks.json](./268249-recordbooks.json) |
 | Recordbreaker | 111304 | [111304-recordbreaker.json](./111304-recordbreaker.json) |
 | Recordeca | 364689 | [364689-recordeca.json](./364689-recordeca.json) |
 | Recorded | 59691 | [59691-recorded.json](./59691-recorded.json) |
@@ -3698,6 +3699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Baron Pack | 30255 | [30255-red-baron-pack.json](./30255-red-baron-pack.json) |
 | Red Baron Squadron | 209253 | [209253-red-baron-squadron.json](./209253-red-baron-squadron.json) |
 | Red Baron: Mission Builder | 9224 | [9224-red-baron-mission-builder.json](./9224-red-baron-mission-builder.json) |
+| Red Barrels Go Boom | 268250 | [268250-red-barrels-go-boom.json](./268250-red-barrels-go-boom.json) |
 | Red Barton and The Sky Pirates | 31052 | [31052-red-barton-and-the-sky-pirates.json](./31052-red-barton-and-the-sky-pirates.json) |
 | Red Bash | 187537 | [187537-red-bash.json](./187537-red-bash.json) |
 | Red Beard Labyrinth | 110823 | [110823-red-beard-labyrinth.json](./110823-red-beard-labyrinth.json) |
@@ -9887,6 +9889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Mansion | 145424 | [145424-rogue-mansion.json](./145424-rogue-mansion.json) |
 | Rogue Mate | 406201 | [406201-rogue-mate.json](./406201-rogue-mate.json) |
 | Rogue Maze | 411407 | [411407-rogue-maze.json](./411407-rogue-maze.json) |
+| Rogue Mech | 268251 | [268251-rogue-mech.json](./268251-rogue-mech.json) |
 | Rogue Monster Rush | 325523 | [325523-rogue-monster-rush.json](./325523-rogue-monster-rush.json) |
 | Rogue Monster Theolodorus | 335283 | [335283-rogue-monster-theolodorus.json](./335283-rogue-monster-theolodorus.json) |
 | Rogue Moon | 50377 | [50377-rogue-moon.json](./50377-rogue-moon.json) |
@@ -11836,6 +11839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruin | 169603 | [169603-ruin.json](./169603-ruin.json) |
 | Ruin | 17021 | [17021-ruin.json](./17021-ruin.json) |
 | Ruin | 174083 | [174083-ruin.json](./174083-ruin.json) |
+| Ruin | 268252 | [268252-ruin.json](./268252-ruin.json) |
 | Ruin | 272378 | [272378-ruin.json](./272378-ruin.json) |
 | Ruin | 273246 | [273246-ruin.json](./273246-ruin.json) |
 | Ruin | 400986 | [400986-ruin.json](./400986-ruin.json) |
