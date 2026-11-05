@@ -586,6 +586,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wand of Fortune 2: Jikuu ni Shizumu Mokushiroku | 219129 | [219129-wand-of-fortune-2-jikuu-ni-shizumu-mokushiroku.json](./219129-wand-of-fortune-2-jikuu-ni-shizumu-mokushiroku.json) |
 | Wand of Fortune Portable | 218958 | [218958-wand-of-fortune-portable.json](./218958-wand-of-fortune-portable.json) |
 | Wand of Fortune R | 131915 | [131915-wand-of-fortune-r.json](./131915-wand-of-fortune-r.json) |
+| Wand of Fortune R for Nintendo Switch | 253676 | [253676-wand-of-fortune-r-for-nintendo-switch.json](./253676-wand-of-fortune-r-for-nintendo-switch.json) |
+| Wand of Fortune R for Nintendo Switch: Limited Edition | 253677 | [253677-wand-of-fortune-r-for-nintendo-switch-limited-edition.json](./253677-wand-of-fortune-r-for-nintendo-switch-limited-edition.json) |
 | Wand of Fortune R2 FD: Kimi ni Sasageru Epilogue | 131917 | [131917-wand-of-fortune-r2-fd-kimi-ni-sasageru-epilogue.json](./131917-wand-of-fortune-r2-fd-kimi-ni-sasageru-epilogue.json) |
 | Wand of Fortune R2: Jikuu ni Shizumu Mokushiroku | 131916 | [131916-wand-of-fortune-r2-jikuu-ni-shizumu-mokushiroku.json](./131916-wand-of-fortune-r2-jikuu-ni-shizumu-mokushiroku.json) |
 | Wand of Fortune: Mirai he no Prologue | 218959 | [218959-wand-of-fortune-mirai-he-no-prologue.json](./218959-wand-of-fortune-mirai-he-no-prologue.json) |
