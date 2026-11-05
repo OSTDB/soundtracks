@@ -5221,6 +5221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from the Mindmaster | 18567 | [18567-escape-from-the-mindmaster.json](./18567-escape-from-the-mindmaster.json) |
 | Escape from the nightmare | 330655 | [330655-escape-from-the-nightmare.json](./330655-escape-from-the-nightmare.json) |
 | Escape from the Nuke | 276099 | [276099-escape-from-the-nuke.json](./276099-escape-from-the-nuke.json) |
+| Escape from the Nursing Home | 258782 | [258782-escape-from-the-nursing-home.json](./258782-escape-from-the-nursing-home.json) |
 | Escape From the Pharaoh's Tomb | 312084 | [312084-escape-from-the-pharaohs-tomb.json](./312084-escape-from-the-pharaohs-tomb.json) |
 | Escape from the Planet of the Robot Monsters | 12067 | [12067-escape-from-the-planet-of-the-robot-monsters.json](./12067-escape-from-the-planet-of-the-robot-monsters.json) |
 | Escape from the Plateau Puzzle | 88423 | [88423-escape-from-the-plateau-puzzle.json](./88423-escape-from-the-plateau-puzzle.json) |
@@ -8162,6 +8163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exzore: The Rising | 42666 | [42666-exzore-the-rising.json](./42666-exzore-the-rising.json) |
 | Exсive A-1000 | 113714 | [113714-ex-ive-a-1000.json](./113714-ex-ive-a-1000.json) |
 | Eyad and Hala | 186182 | [186182-eyad-and-hala.json](./186182-eyad-and-hala.json) |
+| Eydigard | 258762 | [258762-eydigard.json](./258762-eydigard.json) |
 | Eye | 13656 | [13656-eye.json](./13656-eye.json) |
 | Eye | 280425 | [280425-eye.json](./280425-eye.json) |
 | Eye 4 Eye | 249358 | [249358-eye-4-eye.json](./249358-eye-4-eye.json) |
