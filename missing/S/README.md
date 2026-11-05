@@ -2458,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savoring Sword | 296718 | [296718-savoring-sword.json](./296718-savoring-sword.json) |
 | Savvy | 410904 | [410904-savvy.json](./410904-savvy.json) |
 | Savvy Fisher | 260475 | [260475-savvy-fisher.json](./260475-savvy-fisher.json) |
+| Savvy Four | 256607 | [256607-savvy-four.json](./256607-savvy-four.json) |
 | Saw | 7176 | [7176-saw.json](./7176-saw.json) |
 | Saw Counter | 347112 | [347112-saw-counter.json](./347112-saw-counter.json) |
 | Saw Deluxe | 326503 | [326503-saw-deluxe.json](./326503-saw-deluxe.json) |
@@ -3561,6 +3562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scratch Game - Halloween Night | 89750 | [89750-scratch-game-halloween-night.json](./89750-scratch-game-halloween-night.json) |
 | Scratch Golf | 46542 | [46542-scratch-golf.json](./46542-scratch-golf.json) |
 | Scratch Inc. | 350867 | [350867-scratch-inc.json](./350867-scratch-inc.json) |
+| Scratch Man | 256629 | [256629-scratch-man.json](./256629-scratch-man.json) |
 | Scratch Off! | 396963 | [396963-scratch-off.json](./396963-scratch-off.json) |
 | Scratch the Cat | 344665 | [344665-scratch-the-cat.json](./344665-scratch-the-cat.json) |
 | Scratch the Ticket | 404220 | [404220-scratch-the-ticket.json](./404220-scratch-the-ticket.json) |
@@ -4670,6 +4672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector Force | 350466 | [350466-sector-force.json](./350466-sector-force.json) |
 | Sector Lockdown | 382335 | [382335-sector-lockdown.json](./382335-sector-lockdown.json) |
 | Sector Ninja | 402053 | [402053-sector-ninja.json](./402053-sector-ninja.json) |
+| Sector One | 256610 | [256610-sector-one.json](./256610-sector-one.json) |
 | Sector Shooter | 361266 | [361266-sector-shooter.json](./361266-sector-shooter.json) |
 | Sector Six | 32924 | [32924-sector-six.json](./32924-sector-six.json) |
 | Sector Space | 382135 | [382135-sector-space.json](./382135-sector-space.json) |
@@ -6214,6 +6217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Simulator: BDSM 2 | 253849 | [253849-sex-simulator-bdsm-2.json](./253849-sex-simulator-bdsm-2.json) |
 | Sex Simulator: BDSM Girls | 250550 | [250550-sex-simulator-bdsm-girls.json](./250550-sex-simulator-bdsm-girls.json) |
 | Sex Simulator: Beach Resort | 254370 | [254370-sex-simulator-beach-resort.json](./254370-sex-simulator-beach-resort.json) |
+| Sex Simulator: Beach Resort Girls | 256581 | [256581-sex-simulator-beach-resort-girls.json](./256581-sex-simulator-beach-resort-girls.json) |
 | Sex Simulator: CamGirl Audition | 261092 | [261092-sex-simulator-camgirl-audition.json](./261092-sex-simulator-camgirl-audition.json) |
 | Sex Simulator: CamGirl Audition 2 | 263761 | [263761-sex-simulator-camgirl-audition-2.json](./263761-sex-simulator-camgirl-audition-2.json) |
 | Sex Simulator: Dirty Doctor | 385044 | [385044-sex-simulator-dirty-doctor.json](./385044-sex-simulator-dirty-doctor.json) |
@@ -15246,6 +15250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow White in Happily Ever After | 42582 | [42582-snow-white-in-happily-ever-after.json](./42582-snow-white-in-happily-ever-after.json) |
 | Snow White Solitaire: Charmed Kingdom | 81771 | [81771-snow-white-solitaire-charmed-kingdom.json](./81771-snow-white-solitaire-charmed-kingdom.json) |
 | Snow White: Counting Diamond Mine | 198897 | [198897-snow-white-counting-diamond-mine.json](./198897-snow-white-counting-diamond-mine.json) |
+| Snow White: Interactive Book | 256592 | [256592-snow-white-interactive-book.json](./256592-snow-white-interactive-book.json) |
 | Snow World | 176972 | [176972-snow-world.json](./176972-snow-world.json) |
 | Snow-Swept Quest | 192548 | [192548-snow-swept-quest.json](./192548-snow-swept-quest.json) |
 | Snow! | 180771 | [180771-snow.json](./180771-snow.json) |
@@ -19301,7 +19306,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -33430,6 +33434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surface Breaker | 383954 | [383954-surface-breaker.json](./383954-surface-breaker.json) |
 | Surface Labyrinth Kurumabu | 369091 | [369091-surface-labyrinth-kurumabu.json](./369091-surface-labyrinth-kurumabu.json) |
 | Surface Level | 315134 | [315134-surface-level.json](./315134-surface-level.json) |
+| Surface Runner | 256589 | [256589-surface-runner.json](./256589-surface-runner.json) |
 | Surface Rush | 199311 | [199311-surface-rush.json](./199311-surface-rush.json) |
 | Surface Tension | 347360 | [347360-surface-tension.json](./347360-surface-tension.json) |
 | Surface Tension | 92822 | [92822-surface-tension.json](./92822-surface-tension.json) |
