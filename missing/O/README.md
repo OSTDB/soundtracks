@@ -3815,6 +3815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbrix | 390902 | [390902-orbrix.json](./390902-orbrix.json) |
 | Orbs | 43089 | [43089-orbs.json](./43089-orbs.json) |
 | Orbs Match | 88157 | [88157-orbs-match.json](./88157-orbs-match.json) |
+| Orbs of Chaos | 290743 | [290743-orbs-of-chaos.json](./290743-orbs-of-chaos.json) |
 | Orbs of Duality | 349114 | [349114-orbs-of-duality.json](./349114-orbs-of-duality.json) |
 | Orbs Orbs Orbs | 342160 | [342160-orbs-orbs-orbs.json](./342160-orbs-orbs-orbs.json) |
 | Orbtangle | 221119 | [221119-orbtangle.json](./221119-orbtangle.json) |
