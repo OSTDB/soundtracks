@@ -1140,6 +1140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Heroes: Save Our Park | 28911 | [28911-magic-heroes-save-our-park.json](./28911-magic-heroes-save-our-park.json) |
 | Magic Hop | 221354 | [221354-magic-hop.json](./221354-magic-hop.json) |
 | Magic Hour | 30093 | [30093-magic-hour.json](./30093-magic-hour.json) |
+| Magic Inn | 258799 | [258799-magic-inn.json](./258799-magic-inn.json) |
 | Magic Island Escape | 315472 | [315472-magic-island-escape.json](./315472-magic-island-escape.json) |
 | Magic Island Escape 10 | 315533 | [315533-magic-island-escape-10.json](./315533-magic-island-escape-10.json) |
 | Magic Island Escape 11 | 315540 | [315540-magic-island-escape-11.json](./315540-magic-island-escape-11.json) |
@@ -1598,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magician of Fallen | 82768 | [82768-magician-of-fallen.json](./82768-magician-of-fallen.json) |
 | Magician of Fire | 118047 | [118047-magician-of-fire.json](./118047-magician-of-fire.json) |
 | Magician's Apprentice | 34587 | [34587-magicians-apprentice.json](./34587-magicians-apprentice.json) |
+| Magician's Cat Diary | 258764 | [258764-magicians-cat-diary.json](./258764-magicians-cat-diary.json) |
 | Magician's Quest: Mysterious Times | 21183 | [21183-magicians-quest-mysterious-times.json](./21183-magicians-quest-mysterious-times.json) |
 | Magician's Saga | 54902 | [54902-magicians-saga.json](./54902-magicians-saga.json) |
 | Magicians & Looters | 17132 | [17132-magicians-and-looters.json](./17132-magicians-and-looters.json) |
@@ -5824,7 +5826,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -19223,6 +19224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Pancakes | 321538 | [321538-mushroom-pancakes.json](./321538-mushroom-pancakes.json) |
 | Mushroom Path | 261837 | [261837-mushroom-path.json](./261837-mushroom-path.json) |
 | Mushroom Picker Simulator | 149045 | [149045-mushroom-picker-simulator.json](./149045-mushroom-picker-simulator.json) |
+| Mushroom Picnic Party | 258763 | [258763-mushroom-picnic-party.json](./258763-mushroom-picnic-party.json) |
 | Mushroom Pin | 246807 | [246807-mushroom-pin.json](./246807-mushroom-pin.json) |
 | Mushroom Pop | 420190 | [420190-mushroom-pop.json](./420190-mushroom-pop.json) |
 | Mushroom Quest | 104060 | [104060-mushroom-quest.json](./104060-mushroom-quest.json) |
