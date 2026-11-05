@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Blades: Digital Deluxe Edition | 52116 | [52116-x-blades-digital-deluxe-edition.json](./52116-x-blades-digital-deluxe-edition.json) |
 | X-Blades: HD Upgrade | 322140 | [322140-x-blades-hd-upgrade.json](./322140-x-blades-hd-upgrade.json) |
 | X-Blades: Platinum Edition | 52115 | [52115-x-blades-platinum-edition.json](./52115-x-blades-platinum-edition.json) |
+| X-Bladez: Inline Skater | 285251 | [285251-x-bladez-inline-skater.json](./285251-x-bladez-inline-skater.json) |
 | X-Bladez: Inline Skater | 43941 | [43941-x-bladez-inline-skater.json](./43941-x-bladez-inline-skater.json) |
 | X-Blaster | 286691 | [286691-x-blaster.json](./286691-x-blaster.json) |
 | X-Booster | 137950 | [137950-x-booster.json](./137950-x-booster.json) |
