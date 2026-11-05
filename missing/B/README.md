@@ -951,7 +951,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1883,6 +1882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Drama: Strong Offense Animals Pack | 278340 | [278340-banana-drama-strong-offense-animals-pack.json](./278340-banana-drama-strong-offense-animals-pack.json) |
 | Banana Drama: Tiger | 278342 | [278342-banana-drama-tiger.json](./278342-banana-drama-tiger.json) |
 | Banana Extreme | 329069 | [329069-banana-extreme.json](./329069-banana-extreme.json) |
+| Banana Fighting | 283518 | [283518-banana-fighting.json](./283518-banana-fighting.json) |
 | Banana for Scale | 130341 | [130341-banana-for-scale.json](./130341-banana-for-scale.json) |
 | Banana Gine | 314313 | [314313-banana-gine.json](./314313-banana-gine.json) |
 | Banana girl | 106606 | [106606-banana-girl.json](./106606-banana-girl.json) |
@@ -1903,6 +1903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Man: The Space Monkeys | 243166 | [243166-banana-man-the-space-monkeys.json](./243166-banana-man-the-space-monkeys.json) |
 | Banana Massacre | 338193 | [338193-banana-massacre.json](./338193-banana-massacre.json) |
 | Banana Monkeys | 314245 | [314245-banana-monkeys.json](./314245-banana-monkeys.json) |
+| Banana Mountain | 283367 | [283367-banana-mountain.json](./283367-banana-mountain.json) |
 | Banana Nababa | 124565 | [124565-banana-nababa.json](./124565-banana-nababa.json) |
 | Banana Next Gen | 323428 | [323428-banana-next-gen.json](./323428-banana-next-gen.json) |
 | Banana Ninja vs. 100 Mann | 359568 | [359568-banana-ninja-vs-100-mann.json](./359568-banana-ninja-vs-100-mann.json) |
@@ -4023,6 +4024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Trendaria | 75191 | [75191-battle-trendaria.json](./75191-battle-trendaria.json) |
 | Battle Tryst | 58905 | [58905-battle-tryst.json](./58905-battle-tryst.json) |
 | Battle Tycoon: Flash Hiders SFX | 38216 | [38216-battle-tycoon-flash-hiders-sfx.json](./38216-battle-tycoon-flash-hiders-sfx.json) |
+| Battle Typer | 283437 | [283437-battle-typer.json](./283437-battle-typer.json) |
 | Battle Unit Zeoth | 7775 | [7775-battle-unit-zeoth.json](./7775-battle-unit-zeoth.json) |
 | Battle Vader | 80321 | [80321-battle-vader.json](./80321-battle-vader.json) |
 | Battle Wave 2323 | 166281 | [166281-battle-wave-2323.json](./166281-battle-wave-2323.json) |
@@ -6090,6 +6092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bellini: The Mad Magician | 91447 | [91447-bellini-the-mad-magician.json](./91447-bellini-the-mad-magician.json) |
 | Bellocco | 411709 | [411709-bellocco.json](./411709-bellocco.json) |
 | Belloncho Body Inspection | 264657 | [264657-belloncho-body-inspection.json](./264657-belloncho-body-inspection.json) |
+| Bells 'n' Whistles | 283364 | [283364-bells-n-whistles.json](./283364-bells-n-whistles.json) |
 | Bells & Whistles | 39878 | [39878-bells-and-whistles.json](./39878-bells-and-whistles.json) |
 | Bellular Hexatosis | 181793 | [181793-bellular-hexatosis.json](./181793-bellular-hexatosis.json) |
 | Bellum | 372154 | [372154-bellum.json](./372154-bellum.json) |
@@ -6313,6 +6316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bendy and the Ink Factory | 298535 | [298535-bendy-and-the-ink-factory.json](./298535-bendy-and-the-ink-factory.json) |
 | Bendy and the Ink Machine: Chapter Five | 281029 | [281029-bendy-and-the-ink-machine-chapter-five.json](./281029-bendy-and-the-ink-machine-chapter-five.json) |
 | Bendy Road | 98782 | [98782-bendy-road.json](./98782-bendy-road.json) |
+| Bendy Royale | 283438 | [283438-bendy-royale.json](./283438-bendy-royale.json) |
 | Bendy Scary & Ink Machines | 216095 | [216095-bendy-scary-and-ink-machines.json](./216095-bendy-scary-and-ink-machines.json) |
 | Bendy Tracks | 106647 | [106647-bendy-tracks.json](./106647-bendy-tracks.json) |
 | Bendy: Ink Demon's Collection | 393061 | [393061-bendy-ink-demons-collection.json](./393061-bendy-ink-demons-collection.json) |
@@ -8435,7 +8439,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Generations: Dotstream | 78880 | [78880-bit-generations-dotstream.json](./78880-bit-generations-dotstream.json) |
 | Bit Generations: Orbital | 49513 | [49513-bit-generations-orbital.json](./49513-bit-generations-orbital.json) |
 | Bit Generations: Soundvoyager | 49482 | [49482-bit-generations-soundvoyager.json](./49482-bit-generations-soundvoyager.json) |
-| Bit Heroes | 67937 | [67937-bit-heroes.json](./67937-bit-heroes.json) |
 | Bit Heroes Quest | 256664 | [256664-bit-heroes-quest.json](./256664-bit-heroes-quest.json) |
 | Bit Heroes Runner | 263569 | [263569-bit-heroes-runner.json](./263569-bit-heroes-runner.json) |
 | Bit Hotel | 227988 | [227988-bit-hotel.json](./227988-bit-hotel.json) |
