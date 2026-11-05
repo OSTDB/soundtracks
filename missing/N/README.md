@@ -2403,6 +2403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Flash 2 | 195464 | [195464-neon-flash-2.json](./195464-neon-flash-2.json) |
 | Neon Flight | 297796 | [297796-neon-flight.json](./297796-neon-flight.json) |
 | Neon Flux | 176626 | [176626-neon-flux.json](./176626-neon-flux.json) |
+| Neon Flytron: Cyberpunk Flight | 251337 | [251337-neon-flytron-cyberpunk-flight.json](./251337-neon-flytron-cyberpunk-flight.json) |
 | Neon FM | 55996 | [55996-neon-fm.json](./55996-neon-fm.json) |
 | Neon Force Pushers | 99037 | [99037-neon-force-pushers.json](./99037-neon-force-pushers.json) |
 | Neon Fuga | 275966 | [275966-neon-fuga.json](./275966-neon-fuga.json) |
@@ -6909,6 +6910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Notebook Workshop | 406205 | [406205-notebook-workshop.json](./406205-notebook-workshop.json) |
 | Notemon | 117467 | [117467-notemon.json](./117467-notemon.json) |
 | Notes From Province | 212965 | [212965-notes-from-province.json](./212965-notes-from-province.json) |
+| Notes of Hearts | 251296 | [251296-notes-of-hearts.json](./251296-notes-of-hearts.json) |
 | Notes of my silence | 247702 | [247702-notes-of-my-silence.json](./247702-notes-of-my-silence.json) |
 | Notes of Obsession | 56895 | [56895-notes-of-obsession.json](./56895-notes-of-obsession.json) |
 | Notes of Soul | 113343 | [113343-notes-of-soul.json](./113343-notes-of-soul.json) |
