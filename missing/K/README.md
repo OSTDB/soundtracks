@@ -4070,6 +4070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty in the Box | 58547 | [58547-kitty-in-the-box.json](./58547-kitty-in-the-box.json) |
 | Kitty in the Box 2 | 231929 | [231929-kitty-in-the-box-2.json](./231929-kitty-in-the-box-2.json) |
 | Kitty in the Crowd | 243970 | [243970-kitty-in-the-crowd.json](./243970-kitty-in-the-crowd.json) |
+| Kitty Kart 64 | 289137 | [289137-kitty-kart-64.json](./289137-kitty-kart-64.json) |
 | Kitty Keep | 304958 | [304958-kitty-keep.json](./304958-kitty-keep.json) |
 | Kitty Keeper: Cat Collector | 105881 | [105881-kitty-keeper-cat-collector.json](./105881-kitty-keeper-cat-collector.json) |
 | Kitty Kitty Bang Bang | 179146 | [179146-kitty-kitty-bang-bang.json](./179146-kitty-kitty-bang-bang.json) |
@@ -5799,6 +5800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kubitori Sarasa | 314803 | [314803-kubitori-sarasa.json](./314803-kubitori-sarasa.json) |
 | Kubits Gallery | 296690 | [296690-kubits-gallery.json](./296690-kubits-gallery.json) |
 | Kubix | 74996 | [74996-kubix.json](./74996-kubix.json) |
+| Kubo 1 & 2 | 289134 | [289134-kubo-1-and-2.json](./289134-kubo-1-and-2.json) |
 | Kubo 3 | 159353 | [159353-kubo-3.json](./159353-kubo-3.json) |
 | Kubo: A Samurai Quest | 55012 | [55012-kubo-a-samurai-quest.json](./55012-kubo-a-samurai-quest.json) |
 | Kuborabu | 307428 | [307428-kuborabu.json](./307428-kuborabu.json) |
