@@ -4809,6 +4809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aggi's Tiny Friends | 344343 | [344343-aggis-tiny-friends.json](./344343-aggis-tiny-friends.json) |
 | Aggie’s Digital Gallery | 333980 | [333980-aggie-s-digital-gallery.json](./333980-aggie-s-digital-gallery.json) |
 | Aggregate Core | 251965 | [251965-aggregate-core.json](./251965-aggregate-core.json) |
+| Aggregator Elevator System | 248991 | [248991-aggregator-elevator-system.json](./248991-aggregator-elevator-system.json) |
 | Aggres | 406171 | [406171-aggres.json](./406171-aggres.json) |
 | Aggression | 174670 | [174670-aggression.json](./174670-aggression.json) |
 | Aggressive Alpine Skiing | 216767 | [216767-aggressive-alpine-skiing.json](./216767-aggressive-alpine-skiing.json) |
@@ -17301,6 +17302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autopanic Zero | 236786 | [236786-autopanic-zero.json](./236786-autopanic-zero.json) |
 | AutoParts Simulator | 346163 | [346163-autoparts-simulator.json](./346163-autoparts-simulator.json) |
 | Autophagy | 265997 | [265997-autophagy.json](./265997-autophagy.json) |
+| Autopista | 248984 | [248984-autopista.json](./248984-autopista.json) |
 | Autopsy Simulator | 132385 | [132385-autopsy-simulator.json](./132385-autopsy-simulator.json) |
 | Autos | 197392 | [197392-autos.json](./197392-autos.json) |
 | AutoSim 2 | 235860 | [235860-autosim-2.json](./235860-autosim-2.json) |
