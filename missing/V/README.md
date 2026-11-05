@@ -2462,6 +2462,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vircoban | 322276 | [322276-vircoban.json](./322276-vircoban.json) |
 | VireFit | 116171 | [116171-virefit.json](./116171-virefit.json) |
 | Virgil's Purgatory | 179397 | [179397-virgils-purgatory.json](./179397-virgils-purgatory.json) |
+| Virgil's Purgatory | 253109 | [253109-virgils-purgatory.json](./253109-virgils-purgatory.json) |
+| Virgil's Purgatory EX | 253111 | [253111-virgils-purgatory-ex.json](./253111-virgils-purgatory-ex.json) |
 | Virgin Angel | 187742 | [187742-virgin-angel.json](./187742-virgin-angel.json) |
 | Virgin Atlantic Challenge | 142439 | [142439-virgin-atlantic-challenge.json](./142439-virgin-atlantic-challenge.json) |
 | Virgin Queen | 59740 | [59740-virgin-queen.json](./59740-virgin-queen.json) |
