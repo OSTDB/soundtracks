@@ -2021,6 +2021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jim the Spy | 207179 | [207179-jim-the-spy.json](./207179-jim-the-spy.json) |
 | Jim's Adventure | 198070 | [198070-jims-adventure.json](./198070-jims-adventure.json) |
 | Jim's Gym | 241056 | [241056-jims-gym.json](./241056-jims-gym.json) |
+| Jim's Nightmare: Chapter 1 | 290735 | [290735-jims-nightmare-chapter-1.json](./290735-jims-nightmare-chapter-1.json) |
 | Jimbaori: The Onin War | 259966 | [259966-jimbaori-the-onin-war.json](./259966-jimbaori-the-onin-war.json) |
 | Jimbob and the Magic Chain | 199073 | [199073-jimbob-and-the-magic-chain.json](./199073-jimbob-and-the-magic-chain.json) |
 | Jimi-Kare: My Quiet Boyfriend | 54982 | [54982-jimi-kare-my-quiet-boyfriend.json](./54982-jimi-kare-my-quiet-boyfriend.json) |
@@ -2793,6 +2794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joustaposition | 181371 | [181371-joustaposition.json](./181371-joustaposition.json) |
 | Joustic | 185496 | [185496-joustic.json](./185496-joustic.json) |
 | Jousting in January | 290491 | [290491-jousting-in-january.json](./290491-jousting-in-january.json) |
+| Jousting Manager | 290753 | [290753-jousting-manager.json](./290753-jousting-manager.json) |
 | Jousting VR | 204168 | [204168-jousting-vr.json](./204168-jousting-vr.json) |
 | Joustish | 251193 | [251193-joustish.json](./251193-joustish.json) |
 | JoustMania | 119743 | [119743-joustmania.json](./119743-joustmania.json) |
@@ -3756,6 +3758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic World Evolution 2: Late Cretaceous Pack | 227397 | [227397-jurassic-world-evolution-2-late-cretaceous-pack.json](./227397-jurassic-world-evolution-2-late-cretaceous-pack.json) |
 | Jurassic World Evolution 2: Park Managers' Collection Pack | 308278 | [308278-jurassic-world-evolution-2-park-managers-collection-pack.json](./308278-jurassic-world-evolution-2-park-managers-collection-pack.json) |
 | Jurassic World Evolution 2: Prehistoric Marine Species Pack | 259955 | [259955-jurassic-world-evolution-2-prehistoric-marine-species-pack.json](./259955-jurassic-world-evolution-2-prehistoric-marine-species-pack.json) |
+| Jurassic World Evolution 2: Secret Species Pack | 290758 | [290758-jurassic-world-evolution-2-secret-species-pack.json](./290758-jurassic-world-evolution-2-secret-species-pack.json) |
 | Jurassic World Evolution 3 | 347650 | [347650-jurassic-world-evolution-3.json](./347650-jurassic-world-evolution-3.json) |
 | Jurassic World Evolution 3: Deluxe Edition | 406704 | [406704-jurassic-world-evolution-3-deluxe-edition.json](./406704-jurassic-world-evolution-3-deluxe-edition.json) |
 | Jurassic World Evolution 3: Rebirth Expansion | 407074 | [407074-jurassic-world-evolution-3-rebirth-expansion.json](./407074-jurassic-world-evolution-3-rebirth-expansion.json) |
