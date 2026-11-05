@@ -1102,6 +1102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campgrounds: The Endorus Expedition - Collector's Edition | 33304 | [33304-campgrounds-the-endorus-expedition-collectors-edition.json](./33304-campgrounds-the-endorus-expedition-collectors-edition.json) |
 | Camphor | 237352 | [237352-camphor.json](./237352-camphor.json) |
 | Campido | 111756 | [111756-campido.json](./111756-campido.json) |
+| Camping | 251942 | [251942-camping.json](./251942-camping.json) |
 | Camping Builder | 192838 | [192838-camping-builder.json](./192838-camping-builder.json) |
 | Camping Cat Family | 219775 | [219775-camping-cat-family.json](./219775-camping-cat-family.json) |
 | Camping Keeper | 412062 | [412062-camping-keeper.json](./412062-camping-keeper.json) |
@@ -20045,6 +20046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Neon Bundle | 246880 | [246880-cyber-neon-bundle.json](./246880-cyber-neon-bundle.json) |
 | Cyber Neon Bundle | 247125 | [247125-cyber-neon-bundle.json](./247125-cyber-neon-bundle.json) |
 | Cyber Neon: Core Protocol | 424643 | [424643-cyber-neon-core-protocol.json](./424643-cyber-neon-core-protocol.json) |
+| Cyber Ninja that Climbs the City | 251943 | [251943-cyber-ninja-that-climbs-the-city.json](./251943-cyber-ninja-that-climbs-the-city.json) |
 | Cyber Noah | 156015 | [156015-cyber-noah.json](./156015-cyber-noah.json) |
 | Cyber Noir Stories: The Trunk | 217207 | [217207-cyber-noir-stories-the-trunk.json](./217207-cyber-noir-stories-the-trunk.json) |
 | Cyber Obsession | 410595 | [410595-cyber-obsession.json](./410595-cyber-obsession.json) |
