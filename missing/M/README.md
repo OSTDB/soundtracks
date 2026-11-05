@@ -5793,7 +5793,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -13607,6 +13606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mist of Chaos | 7368 | [7368-mist-of-chaos.json](./7368-mist-of-chaos.json) |
 | Mist of the Dark | 60059 | [60059-mist-of-the-dark.json](./60059-mist-of-the-dark.json) |
 | Mist of the Undead | 148484 | [148484-mist-of-the-undead.json](./148484-mist-of-the-undead.json) |
+| Mist Sequence | 279426 | [279426-mist-sequence.json](./279426-mist-sequence.json) |
 | Mist Slayer | 217221 | [217221-mist-slayer.json](./217221-mist-slayer.json) |
 | Mist Survival | 108349 | [108349-mist-survival.json](./108349-mist-survival.json) |
 | Mist Survivor | 296982 | [296982-mist-survivor.json](./296982-mist-survivor.json) |
@@ -14151,6 +14151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Return of Zion | 222898 | [222898-mobile-suit-gundam-return-of-zion.json](./222898-mobile-suit-gundam-return-of-zion.json) |
 | Mobile Suit Gundam: Senjo No Kazuna | 69294 | [69294-mobile-suit-gundam-senjo-no-kazuna.json](./69294-mobile-suit-gundam-senjo-no-kazuna.json) |
 | Mobile Suit Gundam: Shin Gihren No Yabou | 56746 | [56746-mobile-suit-gundam-shin-gihren-no-yabou.json](./56746-mobile-suit-gundam-shin-gihren-no-yabou.json) |
+| Mobile Suit Gundam: Silver Phantom | 279407 | [279407-mobile-suit-gundam-silver-phantom.json](./279407-mobile-suit-gundam-silver-phantom.json) |
 | Mobile Suit Gundam: Spirits of Zeon | 320661 | [320661-mobile-suit-gundam-spirits-of-zeon.json](./320661-mobile-suit-gundam-spirits-of-zeon.json) |
 | Mobile Suit Gundam: The One Year War | 43240 | [43240-mobile-suit-gundam-the-one-year-war.json](./43240-mobile-suit-gundam-the-one-year-war.json) |
 | Mobile Suit Z-Gundam | 77059 | [77059-mobile-suit-z-gundam.json](./77059-mobile-suit-z-gundam.json) |
@@ -16769,6 +16770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 1: Cyrax | 312332 | [312332-mortal-kombat-1-cyrax.json](./312332-mortal-kombat-1-cyrax.json) |
 | Mortal Kombat 1: Definitive Edition | 370302 | [370302-mortal-kombat-1-definitive-edition.json](./370302-mortal-kombat-1-definitive-edition.json) |
 | Mortal Kombat 1: Ermac | 266217 | [266217-mortal-kombat-1-ermac.json](./266217-mortal-kombat-1-ermac.json) |
+| Mortal Kombat 1: Ferra Kameo | 279430 | [279430-mortal-kombat-1-ferra-kameo.json](./279430-mortal-kombat-1-ferra-kameo.json) |
 | Mortal Kombat 1: Ghostface | 312337 | [312337-mortal-kombat-1-ghostface.json](./312337-mortal-kombat-1-ghostface.json) |
 | Mortal Kombat 1: Homelander | 266219 | [266219-mortal-kombat-1-homelander.json](./266219-mortal-kombat-1-homelander.json) |
 | Mortal Kombat 1: Invasions - Season of the Cryomancer | 288181 | [288181-mortal-kombat-1-invasions-season-of-the-cryomancer.json](./288181-mortal-kombat-1-invasions-season-of-the-cryomancer.json) |
@@ -16777,7 +16779,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 1: Invasions - Season of the Soul Eater | 311075 | [311075-mortal-kombat-1-invasions-season-of-the-soul-eater.json](./311075-mortal-kombat-1-invasions-season-of-the-soul-eater.json) |
 | Mortal Kombat 1: Invasions - Season of The Spectre | 276920 | [276920-mortal-kombat-1-invasions-season-of-the-spectre.json](./276920-mortal-kombat-1-invasions-season-of-the-spectre.json) |
 | Mortal Kombat 1: Invasions - Season of the Storms | 311071 | [311071-mortal-kombat-1-invasions-season-of-the-storms.json](./311071-mortal-kombat-1-invasions-season-of-the-storms.json) |
+| Mortal Kombat 1: Janet Cage Kameo | 279419 | [279419-mortal-kombat-1-janet-cage-kameo.json](./279419-mortal-kombat-1-janet-cage-kameo.json) |
 | Mortal Kombat 1: Jean-Claude Van Damme Skin | 265947 | [265947-mortal-kombat-1-jean-claude-van-damme-skin.json](./265947-mortal-kombat-1-jean-claude-van-damme-skin.json) |
+| Mortal Kombat 1: Khameleon Kameo | 279422 | [279422-mortal-kombat-1-khameleon-kameo.json](./279422-mortal-kombat-1-khameleon-kameo.json) |
 | Mortal Kombat 1: Khaos Reigns Bundle | 312357 | [312357-mortal-kombat-1-khaos-reigns-bundle.json](./312357-mortal-kombat-1-khaos-reigns-bundle.json) |
 | Mortal Kombat 1: Khaos Reigns Expansion | 312111 | [312111-mortal-kombat-1-khaos-reigns-expansion.json](./312111-mortal-kombat-1-khaos-reigns-expansion.json) |
 | Mortal Kombat 1: Khaos Reigns Story Expansion | 312356 | [312356-mortal-kombat-1-khaos-reigns-story-expansion.json](./312356-mortal-kombat-1-khaos-reigns-story-expansion.json) |
