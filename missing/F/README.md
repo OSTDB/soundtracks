@@ -3143,6 +3143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate of Hellas | 21302 | [21302-fate-of-hellas.json](./21302-fate-of-hellas.json) |
 | Fate of India | 104324 | [104324-fate-of-india.json](./104324-fate-of-india.json) |
 | Fate of Kai | 139314 | [139314-fate-of-kai.json](./139314-fate-of-kai.json) |
+| Fate of New Albans | 247822 | [247822-fate-of-new-albans.json](./247822-fate-of-new-albans.json) |
 | Fate of Persephone | 152630 | [152630-fate-of-persephone.json](./152630-fate-of-persephone.json) |
 | Fate of the Damned | 225800 | [225800-fate-of-the-damned.json](./225800-fate-of-the-damned.json) |
 | Fate of the Elder Gods | 125454 | [125454-fate-of-the-elder-gods.json](./125454-fate-of-the-elder-gods.json) |
@@ -9470,6 +9471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forensic: M.E. Protocol | 398451 | [398451-forensic-m-e-protocol.json](./398451-forensic-m-e-protocol.json) |
 | Forensics: Crime Scene Detective | 406712 | [406712-forensics-crime-scene-detective.json](./406712-forensics-crime-scene-detective.json) |
 | Forep Man | 121628 | [121628-forep-man.json](./121628-forep-man.json) |
+| Foresia: The Cursed Oath | 247845 | [247845-foresia-the-cursed-oath.json](./247845-foresia-the-cursed-oath.json) |
 | Foresight | 17677 | [17677-foresight.json](./17677-foresight.json) |
 | Foreskin Fury | 120616 | [120616-foreskin-fury.json](./120616-foreskin-fury.json) |
 | Forest | 100307 | [100307-forest.json](./100307-forest.json) |
@@ -11225,6 +11227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FRC 25 | 377792 | [377792-frc-25.json](./377792-frc-25.json) |
 | Freak Boy | 292347 | [292347-freak-boy.json](./292347-freak-boy.json) |
 | Freak Control | 137490 | [137490-freak-control.json](./137490-freak-control.json) |
+| Freak Crossing | 247828 | [247828-freak-crossing.json](./247828-freak-crossing.json) |
 | Freak Factory | 265664 | [265664-freak-factory.json](./265664-freak-factory.json) |
 | Freak Festival | 274338 | [274338-freak-festival.json](./274338-freak-festival.json) |
 | Freak Fortress 2 | 363055 | [363055-freak-fortress-2.json](./363055-freak-fortress-2.json) |
