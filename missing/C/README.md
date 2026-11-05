@@ -13138,6 +13138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Condemned To Be Free | 345538 | [345538-condemned-to-be-free.json](./345538-condemned-to-be-free.json) |
 | Condemned: Criminal Origins | 6942 | [6942-condemned-criminal-origins.json](./6942-condemned-criminal-origins.json) |
 | Condemned: Nightfall | 391706 | [391706-condemned-nightfall.json](./391706-condemned-nightfall.json) |
+| Condemned: The Prequel Story | 246202 | [246202-condemned-the-prequel-story.json](./246202-condemned-the-prequel-story.json) |
 | Condition 24 | 159774 | [159774-condition-24.json](./159774-condition-24.json) |
 | Conditus | 203672 | [203672-conditus.json](./203672-conditus.json) |
 | Condo | 349936 | [349936-condo.json](./349936-condo.json) |
@@ -19381,6 +19382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curl! | 217347 | [217347-curl.json](./217347-curl.json) |
 | Curley Laboratory | 196691 | [196691-curley-laboratory.json](./196691-curley-laboratory.json) |
 | Curling | 147856 | [147856-curling.json](./147856-curling.json) |
+| Curling | 246171 | [246171-curling.json](./246171-curling.json) |
 | Curling | 359188 | [359188-curling.json](./359188-curling.json) |
 | Curling | 359306 | [359306-curling.json](./359306-curling.json) |
 | Curling 2010 | 230688 | [230688-curling-2010.json](./230688-curling-2010.json) |
