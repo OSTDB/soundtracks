@@ -2454,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevator Fight | 83200 | [83200-elevator-fight.json](./83200-elevator-fight.json) |
 | Elevator Game | 141433 | [141433-elevator-game.json](./141433-elevator-game.json) |
 | Elevator Goes Up? | 376701 | [376701-elevator-goes-up.json](./376701-elevator-goes-up.json) |
+| Elevator Madness | 248960 | [248960-elevator-madness.json](./248960-elevator-madness.json) |
 | Elevator Music | 329588 | [329588-elevator-music.json](./329588-elevator-music.json) |
 | Elevator Orator | 178971 | [178971-elevator-orator.json](./178971-elevator-orator.json) |
 | Elevator Ritual | 89611 | [89611-elevator-ritual.json](./89611-elevator-ritual.json) |
