@@ -9341,6 +9341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honor of Nations | 286871 | [286871-honor-of-nations.json](./286871-honor-of-nations.json) |
 | Honored | 187082 | [187082-honored.json](./187082-honored.json) |
 | Honorless! | 346488 | [346488-honorless.json](./346488-honorless.json) |
+| Honour & Freedom | 282950 | [282950-honour-and-freedom.json](./282950-honour-and-freedom.json) |
 | Honour & Freedom II | 283085 | [283085-honour-and-freedom-ii.json](./283085-honour-and-freedom-ii.json) |
 | Honour & Freedom II Power Enhanced Edition | 283088 | [283088-honour-and-freedom-ii-power-enhanced-edition.json](./283088-honour-and-freedom-ii-power-enhanced-edition.json) |
 | Honour Runs | 159554 | [159554-honour-runs.json](./159554-honour-runs.json) |
