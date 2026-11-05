@@ -5278,6 +5278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pharaoh's Curse | 40659 | [40659-pharaohs-curse.json](./40659-pharaohs-curse.json) |
 | Pharaoh's Mystery | 25390 | [25390-pharaohs-mystery.json](./25390-pharaohs-mystery.json) |
 | Pharaoh's Purse | 314514 | [314514-pharaohs-purse.json](./314514-pharaohs-purse.json) |
+| Pharaoh's Pyramid | 296547 | [296547-pharaohs-pyramid.json](./296547-pharaohs-pyramid.json) |
 | Pharaoh's Revenge | 55206 | [55206-pharaohs-revenge.json](./55206-pharaohs-revenge.json) |
 | Pharaoh's Riches | 319309 | [319309-pharaohs-riches.json](./319309-pharaohs-riches.json) |
 | Pharaoh's Secret | 309030 | [309030-pharaohs-secret.json](./309030-pharaohs-secret.json) |
@@ -8468,6 +8469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelvader | 335923 | [335923-pixelvader.json](./335923-pixelvader.json) |
 | Pixely People Making Movies | 114654 | [114654-pixely-people-making-movies.json](./114654-pixely-people-making-movies.json) |
 | Pixelz - Color by Number Pixel Art Coloring Book | 104616 | [104616-pixelz-color-by-number-pixel-art-coloring-book.json](./104616-pixelz-color-by-number-pixel-art-coloring-book.json) |
+| PixelZen | 296550 | [296550-pixelzen.json](./296550-pixelzen.json) |
 | Pixeria | 210682 | [210682-pixeria.json](./210682-pixeria.json) |
 | Pixeria | 347234 | [347234-pixeria.json](./347234-pixeria.json) |
 | PixEvo: The Fountain | 191901 | [191901-pixevo-the-fountain.json](./191901-pixevo-the-fountain.json) |
@@ -14920,6 +14922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professional Soldier | 153928 | [153928-professional-soldier.json](./153928-professional-soldier.json) |
 | Professional Team | 161565 | [161565-professional-team.json](./161565-professional-team.json) |
 | Professional Thief | 368708 | [368708-professional-thief.json](./368708-professional-thief.json) |
+| Professional Tour Golf | 296545 | [296545-professional-tour-golf.json](./296545-professional-tour-golf.json) |
 | Professional Underground League of Pain | 45038 | [45038-professional-underground-league-of-pain.json](./45038-professional-underground-league-of-pain.json) |
 | Professor Brainium's Games | 80358 | [80358-professor-brainiums-games.json](./80358-professor-brainiums-games.json) |
 | Professor Bubbles | 280790 | [280790-professor-bubbles.json](./280790-professor-bubbles.json) |
@@ -15846,6 +15849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Colt | 396528 | [396528-project-colt.json](./396528-project-colt.json) |
 | Project: Cow | 171313 | [171313-project-cow.json](./171313-project-cow.json) |
 | Project: Cube | 395473 | [395473-project-cube.json](./395473-project-cube.json) |
+| Project: Debug | 296639 | [296639-project-debug.json](./296639-project-debug.json) |
 | Project: Doors | 386755 | [386755-project-doors.json](./386755-project-doors.json) |
 | Project: Dream | 220658 | [220658-project-dream.json](./220658-project-dream.json) |
 | Project: Drift | 174783 | [174783-project-drift.json](./174783-project-drift.json) |
