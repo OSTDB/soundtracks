@@ -3416,6 +3416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpStart ABC's | 92241 | [92241-jumpstart-abcs.json](./92241-jumpstart-abcs.json) |
 | JumpStart Advanced Preschool | 77094 | [77094-jumpstart-advanced-preschool.json](./77094-jumpstart-advanced-preschool.json) |
 | JumpStart Advanced Preschool: StoryLand | 77093 | [77093-jumpstart-advanced-preschool-storyland.json](./77093-jumpstart-advanced-preschool-storyland.json) |
+| JumpStart Adventure Challenge | 274271 | [274271-jumpstart-adventure-challenge.json](./274271-jumpstart-adventure-challenge.json) |
 | JumpStart Adventures 4th Grade: Haunted Island | 129146 | [129146-jumpstart-adventures-4th-grade-haunted-island.json](./129146-jumpstart-adventures-4th-grade-haunted-island.json) |
 | JumpStart Adventures 4th Grade: Sapphire Falls | 406755 | [406755-jumpstart-adventures-4th-grade-sapphire-falls.json](./406755-jumpstart-adventures-4th-grade-sapphire-falls.json) |
 | JumpStart Adventures 5th Grade: Jo Hammet, Kid Detective | 71317 | [71317-jumpstart-adventures-5th-grade-jo-hammet-kid-detective.json](./71317-jumpstart-adventures-5th-grade-jo-hammet-kid-detective.json) |
