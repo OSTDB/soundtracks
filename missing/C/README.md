@@ -843,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of the Wild: The Angler - Norway Reserve | 231009 | [231009-call-of-the-wild-the-angler-norway-reserve.json](./231009-call-of-the-wild-the-angler-norway-reserve.json) |
 | Call of the Wild: The Angler - Reserve Pass | 276300 | [276300-call-of-the-wild-the-angler-reserve-pass.json](./276300-call-of-the-wild-the-angler-reserve-pass.json) |
 | Call of the Wild: The Angler - Silver Fishing Bundle | 301764 | [301764-call-of-the-wild-the-angler-silver-fishing-bundle.json](./301764-call-of-the-wild-the-angler-silver-fishing-bundle.json) |
+| Call of the Wild: The Angler - South Africa Reserve | 290742 | [290742-call-of-the-wild-the-angler-south-africa-reserve.json](./290742-call-of-the-wild-the-angler-south-africa-reserve.json) |
 | Call of the Wild: The Angler - Ultimate Fishing Bundle | 301333 | [301333-call-of-the-wild-the-angler-ultimate-fishing-bundle.json](./301333-call-of-the-wild-the-angler-ultimate-fishing-bundle.json) |
 | Call of the Wild: The Angler - Winter Vehicle Cosmetics Pack | 366229 | [366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json](./366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json) |
 | Call of the Wild: The Angler – Spain Reserve | 272651 | [272651-call-of-the-wild-the-angler-spain-reserve.json](./272651-call-of-the-wild-the-angler-spain-reserve.json) |
@@ -19733,6 +19734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Commander: Zombie Revenge | 302212 | [302212-cyber-commander-zombie-revenge.json](./302212-cyber-commander-zombie-revenge.json) |
 | Cyber Commando | 63704 | [63704-cyber-commando.json](./63704-cyber-commando.json) |
 | Cyber Complex | 54813 | [54813-cyber-complex.json](./54813-cyber-complex.json) |
+| Cyber Control | 290756 | [290756-cyber-control.json](./290756-cyber-control.json) |
 | Cyber Courier 2088 | 233666 | [233666-cyber-courier-2088.json](./233666-cyber-courier-2088.json) |
 | Cyber Cult City | 154083 | [154083-cyber-cult-city.json](./154083-cyber-cult-city.json) |
 | Cyber Cycle | 130047 | [130047-cyber-cycle.json](./130047-cyber-cycle.json) |
