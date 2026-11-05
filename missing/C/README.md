@@ -3446,6 +3446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Explorer: Heroes and rings | 167906 | [167906-castle-explorer-heroes-and-rings.json](./167906-castle-explorer-heroes-and-rings.json) |
 | Castle Explorer: The Dark Below | 174172 | [174172-castle-explorer-the-dark-below.json](./174172-castle-explorer-the-dark-below.json) |
 | Castle Fall: Age of the Magogs | 91807 | [91807-castle-fall-age-of-the-magogs.json](./91807-castle-fall-age-of-the-magogs.json) |
+| Castle Fantasia: Arihato Senki | 264415 | [264415-castle-fantasia-arihato-senki.json](./264415-castle-fantasia-arihato-senki.json) |
 | Castle Fantasia: Erencia Senki - Plus Stories | 408777 | [408777-castle-fantasia-erencia-senki-plus-stories.json](./408777-castle-fantasia-erencia-senki-plus-stories.json) |
 | Castle Fantasia: Seima Taisen | 283329 | [283329-castle-fantasia-seima-taisen.json](./283329-castle-fantasia-seima-taisen.json) |
 | Castle Fight | 156813 | [156813-castle-fight.json](./156813-castle-fight.json) |
@@ -7531,6 +7532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocolate Carol | 299687 | [299687-chocolate-carol.json](./299687-chocolate-carol.json) |
 | Chocolate Castle | 50445 | [50445-chocolate-castle.json](./50445-chocolate-castle.json) |
 | Chocolate Cavern | 249349 | [249349-chocolate-cavern.json](./249349-chocolate-cavern.json) |
+| Chocolate Confession | 264406 | [264406-chocolate-confession.json](./264406-chocolate-confession.json) |
 | Chocolate Factory | 112995 | [112995-chocolate-factory.json](./112995-chocolate-factory.json) |
 | Chocolate Factory | 301790 | [301790-chocolate-factory.json](./301790-chocolate-factory.json) |
 | Chocolate Factory Simulator | 293131 | [293131-chocolate-factory-simulator.json](./293131-chocolate-factory-simulator.json) |
@@ -14634,6 +14636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corvian Curse | 269852 | [269852-corvian-curse.json](./269852-corvian-curse.json) |
 | Corvid's Night | 277849 | [277849-corvids-night.json](./277849-corvids-night.json) |
 | Corvos Dynasty | 268314 | [268314-corvos-dynasty.json](./268314-corvos-dynasty.json) |
+| Cory in the Ded 3.5 | 264420 | [264420-cory-in-the-ded-3-5.json](./264420-cory-in-the-ded-3-5.json) |
 | Cory in the House | 47969 | [47969-cory-in-the-house.json](./47969-cory-in-the-house.json) |
 | Coryoon | 37717 | [37717-coryoon.json](./37717-coryoon.json) |
 | Coryphaeus Championships | 250214 | [250214-coryphaeus-championships.json](./250214-coryphaeus-championships.json) |
