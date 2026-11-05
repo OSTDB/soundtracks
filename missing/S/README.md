@@ -12359,6 +12359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Dodge | 98714 | [98714-sky-dodge.json](./98714-sky-dodge.json) |
 | Sky Dog | 137804 | [137804-sky-dog.json](./137804-sky-dog.json) |
 | Sky Dominion | 292561 | [292561-sky-dominion.json](./292561-sky-dominion.json) |
+| Sky Dreamer | 247284 | [247284-sky-dreamer.json](./247284-sky-dreamer.json) |
 | Sky Dreamer | 346865 | [346865-sky-dreamer.json](./346865-sky-dreamer.json) |
 | Sky Dunk | 304265 | [304265-sky-dunk.json](./304265-sky-dunk.json) |
 | Sky Dust | 307180 | [307180-sky-dust.json](./307180-sky-dust.json) |
@@ -19353,7 +19354,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20349,6 +20349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparkling Feather | 46612 | [46612-sparkling-feather.json](./46612-sparkling-feather.json) |
 | Sparkling Memories | 372208 | [372208-sparkling-memories.json](./372208-sparkling-memories.json) |
 | Sparkling Memory | 246546 | [246546-sparkling-memory.json](./246546-sparkling-memory.json) |
+| Sparkling Truffle | 247248 | [247248-sparkling-truffle.json](./247248-sparkling-truffle.json) |
 | Sparklite | 97950 | [97950-sparklite.json](./97950-sparklite.json) |
 | Sparklite: Deluxe Edition | 154216 | [154216-sparklite-deluxe-edition.json](./154216-sparklite-deluxe-edition.json) |
 | SparkMutts | 211214 | [211214-sparkmutts.json](./211214-sparkmutts.json) |
@@ -22609,6 +22610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring Tales | 332190 | [332190-spring-tales.json](./332190-spring-tales.json) |
 | Spring Time Excellent Cherry Blossom Fun | 179507 | [179507-spring-time-excellent-cherry-blossom-fun.json](./179507-spring-time-excellent-cherry-blossom-fun.json) |
 | Spring Vacations 2018 | 101084 | [101084-spring-vacations-2018.json](./101084-spring-vacations-2018.json) |
+| Spring World | 247285 | [247285-spring-world.json](./247285-spring-world.json) |
 | Spring: 1944 | 142500 | [142500-spring-1944.json](./142500-spring-1944.json) |
 | Spring's Finale: Tales of Love | 347352 | [347352-springs-finale-tales-of-love.json](./347352-springs-finale-tales-of-love.json) |
 | SpringBack | 124647 | [124647-springback.json](./124647-springback.json) |
@@ -26111,6 +26113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaris: Distant Stars | 114427 | [114427-stellaris-distant-stars.json](./114427-stellaris-distant-stars.json) |
 | Stellaris: Federations | 124993 | [124993-stellaris-federations.json](./124993-stellaris-federations.json) |
 | Stellaris: First Contact | 231845 | [231845-stellaris-first-contact.json](./231845-stellaris-first-contact.json) |
+| Stellaris: Galactic Paragons | 247264 | [247264-stellaris-galactic-paragons.json](./247264-stellaris-galactic-paragons.json) |
 | Stellaris: Galaxy Command | 138570 | [138570-stellaris-galaxy-command.json](./138570-stellaris-galaxy-command.json) |
 | Stellaris: Galaxy Edition | 53670 | [53670-stellaris-galaxy-edition.json](./53670-stellaris-galaxy-edition.json) |
 | Stellaris: Grand Archive | 298125 | [298125-stellaris-grand-archive.json](./298125-stellaris-grand-archive.json) |
@@ -27591,6 +27594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Cricket Champions | 194275 | [194275-street-cricket-champions.json](./194275-street-cricket-champions.json) |
 | Street Cricket Champions 2 | 269505 | [269505-street-cricket-champions-2.json](./269505-street-cricket-champions-2.json) |
 | Street Dance | 200003 | [200003-street-dance.json](./200003-street-dance.json) |
+| Street Dance | 247292 | [247292-street-dance.json](./247292-street-dance.json) |
 | Street Defenders | 357270 | [357270-street-defenders.json](./357270-street-defenders.json) |
 | Street Dog Legend | 344659 | [344659-street-dog-legend.json](./344659-street-dog-legend.json) |
 | Street Drag 2 | 233413 | [233413-street-drag-2.json](./233413-street-drag-2.json) |
