@@ -9413,6 +9413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Race: Dinosaur Ride Ranch | 284487 | [284487-dino-race-dinosaur-ride-ranch.json](./284487-dino-race-dinosaur-ride-ranch.json) |
 | Dino Ramen Express | 328414 | [328414-dino-ramen-express.json](./328414-dino-ramen-express.json) |
 | Dino Rampage 3D | 106627 | [106627-dino-rampage-3d.json](./106627-dino-rampage-3d.json) |
+| Dino Ranch: Ride to the Rescue | 254851 | [254851-dino-ranch-ride-to-the-rescue.json](./254851-dino-ranch-ride-to-the-rescue.json) |
 | Dino Rex | 183466 | [183466-dino-rex.json](./183466-dino-rex.json) |
 | Dino Rex | 39630 | [39630-dino-rex.json](./39630-dino-rex.json) |
 | Dino Robot Infinity | 193842 | [193842-dino-robot-infinity.json](./193842-dino-robot-infinity.json) |
@@ -13865,6 +13866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dozen Chess | 420782 | [420782-dozen-chess.json](./420782-dozen-chess.json) |
 | Dozie Penguinn | 238288 | [238288-dozie-penguinn.json](./238288-dozie-penguinn.json) |
 | Dozie Penguins | 216411 | [216411-dozie-penguins.json](./216411-dozie-penguins.json) |
+| Dozle Corp. Map | 254832 | [254832-dozle-corp-map.json](./254832-dozle-corp-map.json) |
 | Dozy in Grackleland | 395612 | [395612-dozy-in-grackleland.json](./395612-dozy-in-grackleland.json) |
 | DP.T: Dr Pepper Terror | 140916 | [140916-dp-t-dr-pepper-terror.json](./140916-dp-t-dr-pepper-terror.json) |
 | Dps Idle | 161333 | [161333-dps-idle.json](./161333-dps-idle.json) |
