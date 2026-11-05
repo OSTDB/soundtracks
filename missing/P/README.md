@@ -5344,6 +5344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pharmacy 24 | 390643 | [390643-pharmacy-24.json](./390643-pharmacy-24.json) |
 | Pharmacy Management Simulator | 348031 | [348031-pharmacy-management-simulator.json](./348031-pharmacy-management-simulator.json) |
 | Pharmacy Simulator | 297809 | [297809-pharmacy-simulator.json](./297809-pharmacy-simulator.json) |
+| Pharmageddon | 268272 | [268272-pharmageddon.json](./268272-pharmageddon.json) |
 | Pharmakon | 43138 | [43138-pharmakon.json](./43138-pharmakon.json) |
 | Pharos | 340568 | [340568-pharos.json](./340568-pharos.json) |
 | Pharos Light | 292764 | [292764-pharos-light.json](./292764-pharos-light.json) |
@@ -5421,6 +5422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PhilGood | 121189 | [121189-philgood.json](./121189-philgood.json) |
 | Philia: the Sequel to Elansar | 33706 | [33706-philia-the-sequel-to-elansar.json](./33706-philia-the-sequel-to-elansar.json) |
 | Philip Muwanga's Hexy Trench | 68536 | [68536-philip-muwangas-hexy-trench.json](./68536-philip-muwangas-hexy-trench.json) |
+| Philistine | 268275 | [268275-philistine.json](./268275-philistine.json) |
 | Philly Flasher | 40701 | [40701-philly-flasher.json](./40701-philly-flasher.json) |
 | Philly Flasher/Cathouse Blues | 70180 | [70180-philly-flasher-cathouse-blues.json](./70180-philly-flasher-cathouse-blues.json) |
 | Philomel | 341582 | [341582-philomel.json](./341582-philomel.json) |
@@ -7107,6 +7109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pingwinek Kelvin | 142495 | [142495-pingwinek-kelvin.json](./142495-pingwinek-kelvin.json) |
 | Pingy the Ping Idle RPG | 409098 | [409098-pingy-the-ping-idle-rpg.json](./409098-pingy-the-ping-idle-rpg.json) |
 | Pinheads Bowling VR | 30430 | [30430-pinheads-bowling-vr.json](./30430-pinheads-bowling-vr.json) |
+| Pinhole Universe | 268273 | [268273-pinhole-universe.json](./268273-pinhole-universe.json) |
 | Pìnjìng de Kāiduān | 155969 | [155969-pinjing-de-kaiduan.json](./155969-pinjing-de-kaiduan.json) |
 | Pink | 142300 | [142300-pink.json](./142300-pink.json) |
 | Pink | 142921 | [142921-pink.json](./142921-pink.json) |
@@ -8565,6 +8568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixGirls | 192673 | [192673-pixgirls.json](./192673-pixgirls.json) |
 | Pixgun | 348234 | [348234-pixgun.json](./348234-pixgun.json) |
 | PixHunter | 131227 | [131227-pixhunter.json](./131227-pixhunter.json) |
+| Pixi Poxi Autorunner Lab | 268274 | [268274-pixi-poxi-autorunner-lab.json](./268274-pixi-poxi-autorunner-lab.json) |
 | Pixicharm Collection 1 | 320377 | [320377-pixicharm-collection-1.json](./320377-pixicharm-collection-1.json) |
 | Pixicharm Collection 2 | 334080 | [334080-pixicharm-collection-2.json](./334080-pixicharm-collection-2.json) |
 | Pixicharm: Acornflare | 389416 | [389416-pixicharm-acornflare.json](./389416-pixicharm-acornflare.json) |
@@ -12270,6 +12274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PoolTime | 70845 | [70845-pooltime.json](./70845-pooltime.json) |
 | Poom | 165143 | [165143-poom.json](./165143-poom.json) |
 | Poom: Miasma Massacre | 229757 | [229757-poom-miasma-massacre.json](./229757-poom-miasma-massacre.json) |
+| Poon Puzzle | 268269 | [268269-poon-puzzle.json](./268269-poon-puzzle.json) |
 | Poon Puzzle: Hard Levels DLC | 295109 | [295109-poon-puzzle-hard-levels-dlc.json](./295109-poon-puzzle-hard-levels-dlc.json) |
 | Pooool | 298765 | [298765-pooool.json](./298765-pooool.json) |
 | Poop | 314318 | [314318-poop.json](./314318-poop.json) |
@@ -14115,6 +14120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primus Chess | 87546 | [87546-primus-chess.json](./87546-primus-chess.json) |
 | Primus Numen | 381103 | [381103-primus-numen.json](./381103-primus-numen.json) |
 | Primus Vita: Artemis | 119973 | [119973-primus-vita-artemis.json](./119973-primus-vita-artemis.json) |
+| Prin-C01 | 268271 | [268271-prin-c01.json](./268271-prin-c01.json) |
 | PRIN-C1 | 317155 | [317155-prin-c1.json](./317155-prin-c1.json) |
 | Prin-quest | 364489 | [364489-prin-quest.json](./364489-prin-quest.json) |
 | Prince & Excalibur | 174309 | [174309-prince-and-excalibur.json](./174309-prince-and-excalibur.json) |
@@ -15389,6 +15395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Chameleon | 279584 | [279584-project-chameleon.json](./279584-project-chameleon.json) |
 | Project Chemistry | 132116 | [132116-project-chemistry.json](./132116-project-chemistry.json) |
 | Project Chernaya | 406246 | [406246-project-chernaya.json](./406246-project-chernaya.json) |
+| Project Chimera | 268270 | [268270-project-chimera.json](./268270-project-chimera.json) |
 | Project Chromata | 369469 | [369469-project-chromata.json](./369469-project-chromata.json) |
 | Project Cider | 85355 | [85355-project-cider.json](./85355-project-cider.json) |
 | Project Circle | 294382 | [294382-project-circle.json](./294382-project-circle.json) |
@@ -15938,6 +15945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Winter: Blackout | 164817 | [164817-project-winter-blackout.json](./164817-project-winter-blackout.json) |
 | Project Worth: Forgather | 211812 | [211812-project-worth-forgather.json](./211812-project-worth-forgather.json) |
 | Project Wunderwaffe | 151085 | [151085-project-wunderwaffe.json](./151085-project-wunderwaffe.json) |
+| Project Wunderwaffe: War in Ukraine | 268248 | [268248-project-wunderwaffe-war-in-ukraine.json](./268248-project-wunderwaffe-war-in-ukraine.json) |
 | Project X | 206539 | [206539-project-x.json](./206539-project-x.json) |
 | Project X | 377577 | [377577-project-x.json](./377577-project-x.json) |
 | Project X | 54994 | [54994-project-x.json](./54994-project-x.json) |
