@@ -3610,6 +3610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whacky Golf | 161578 | [161578-whacky-golf.json](./161578-whacky-golf.json) |
 | Whacky Park | 216796 | [216796-whacky-park.json](./216796-whacky-park.json) |
 | Whale Eater | 183981 | [183981-whale-eater.json](./183981-whale-eater.json) |
+| Whale Fall | 255458 | [255458-whale-fall.json](./255458-whale-fall.json) |
 | Whale Flesh | 331053 | [331053-whale-flesh.json](./331053-whale-flesh.json) |
 | Whale Game Online | 274529 | [274529-whale-game-online.json](./274529-whale-game-online.json) |
 | Whale Island | 105724 | [105724-whale-island.json](./105724-whale-island.json) |
@@ -5182,6 +5183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West Survival | 139212 | [139212-wild-west-survival.json](./139212-wild-west-survival.json) |
 | Wild West Survivors | 403721 | [403721-wild-west-survivors.json](./403721-wild-west-survivors.json) |
 | Wild West Tycoon Empire | 306515 | [306515-wild-west-tycoon-empire.json](./306515-wild-west-tycoon-empire.json) |
+| Wild West Undead | 255457 | [255457-wild-west-undead.json](./255457-wild-west-undead.json) |
 | Wild West VR | 104075 | [104075-wild-west-vr.json](./104075-wild-west-vr.json) |
 | Wild West Wendy | 73560 | [73560-wild-west-wendy.json](./73560-wild-west-wendy.json) |
 | Wild West World | 73529 | [73529-wild-west-world.json](./73529-wild-west-world.json) |
