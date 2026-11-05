@@ -689,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Infinite Warfare - Digital Deluxe Edition | 118910 | [118910-call-of-duty-infinite-warfare-digital-deluxe-edition.json](./118910-call-of-duty-infinite-warfare-digital-deluxe-edition.json) |
 | Call of Duty: Infinite Warfare - Digital Legacy Edition | 225379 | [225379-call-of-duty-infinite-warfare-digital-legacy-edition.json](./225379-call-of-duty-infinite-warfare-digital-legacy-edition.json) |
 | Call of Duty: Infinite Warfare - Jackal Assault | 80632 | [80632-call-of-duty-infinite-warfare-jackal-assault.json](./80632-call-of-duty-infinite-warfare-jackal-assault.json) |
+| Call of Duty: Infinite Warfare - Jackal Assault VR Experience | 296540 | [296540-call-of-duty-infinite-warfare-jackal-assault-vr-experience.json](./296540-call-of-duty-infinite-warfare-jackal-assault-vr-experience.json) |
 | Call of Duty: Infinite Warfare - Launch Edition | 82447 | [82447-call-of-duty-infinite-warfare-launch-edition.json](./82447-call-of-duty-infinite-warfare-launch-edition.json) |
 | Call of Duty: Infinite Warfare - Legacy Edition | 42896 | [42896-call-of-duty-infinite-warfare-legacy-edition.json](./42896-call-of-duty-infinite-warfare-legacy-edition.json) |
 | Call of Duty: Infinite Warfare + Destiny - The Collection | 370987 | [370987-call-of-duty-infinite-warfare-destiny-the-collection.json](./370987-call-of-duty-infinite-warfare-destiny-the-collection.json) |
@@ -12770,6 +12771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Donjara | 385533 | [385533-computer-donjara.json](./385533-computer-donjara.json) |
 | Computer Facts in Five | 94156 | [94156-computer-facts-in-five.json](./94156-computer-facts-in-five.json) |
 | Computer Foosball | 59768 | [59768-computer-foosball.json](./59768-computer-foosball.json) |
+| Computer Football Strategy | 296539 | [296539-computer-football-strategy.json](./296539-computer-football-strategy.json) |
 | Computer Foreign Exchange | 282121 | [282121-computer-foreign-exchange.json](./282121-computer-foreign-exchange.json) |
 | Computer Genealogy Mantra | 294468 | [294468-computer-genealogy-mantra.json](./294468-computer-genealogy-mantra.json) |
 | Computer Gin Rummy | 59779 | [59779-computer-gin-rummy.json](./59779-computer-gin-rummy.json) |
@@ -12790,9 +12792,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Shrilow | 363679 | [363679-computer-shrilow.json](./363679-computer-shrilow.json) |
 | Computer Space | 11245 | [11245-computer-space.json](./11245-computer-space.json) |
 | Computer Space Ball | 70832 | [70832-computer-space-ball.json](./70832-computer-space-ball.json) |
+| Computer Statis Pro Baseball | 296544 | [296544-computer-statis-pro-baseball.json](./296544-computer-statis-pro-baseball.json) |
 | Computer Stocks & Bonds | 21926 | [21926-computer-stocks-and-bonds.json](./21926-computer-stocks-and-bonds.json) |
 | Computer Store Simulator | 382744 | [382744-computer-store-simulator.json](./382744-computer-store-simulator.json) |
 | Computer the Golf | 112164 | [112164-computer-the-golf.json](./112164-computer-the-golf.json) |
+| Computer Title Bout | 296542 | [296542-computer-title-bout.json](./296542-computer-title-bout.json) |
 | Computer TV Game | 220552 | [220552-computer-tv-game.json](./220552-computer-tv-game.json) |
 | Computer Tycoon | 55888 | [55888-computer-tycoon.json](./55888-computer-tycoon.json) |
 | Computer Virus Simulator | 218133 | [218133-computer-virus-simulator.json](./218133-computer-virus-simulator.json) |
