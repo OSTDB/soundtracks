@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wakfu: Les Gardiens | 167643 | [167643-wakfu-les-gardiens.json](./167643-wakfu-les-gardiens.json) |
 | Wakfu: Ouginak Pack | 225873 | [225873-wakfu-ouginak-pack.json](./225873-wakfu-ouginak-pack.json) |
 | Wakfu: The Brotherhood | 109554 | [109554-wakfu-the-brotherhood.json](./109554-wakfu-the-brotherhood.json) |
+| Waki & The Lost Spirits | 295070 | [295070-waki-and-the-lost-spirits.json](./295070-waki-and-the-lost-spirits.json) |
 | Waking | 103293 | [103293-waking.json](./103293-waking.json) |
 | Waking Atlas | 251829 | [251829-waking-atlas.json](./251829-waking-atlas.json) |
 | Waking Dreams | 360733 | [360733-waking-dreams.json](./360733-waking-dreams.json) |
