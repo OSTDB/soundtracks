@@ -2066,6 +2066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darker Tides | 238603 | [238603-darker-tides.json](./238603-darker-tides.json) |
 | Darker: Episode I | 163759 | [163759-darker-episode-i.json](./163759-darker-episode-i.json) |
 | Darkest Abyss | 216644 | [216644-darkest-abyss.json](./216644-darkest-abyss.json) |
+| Darkest AFK | 256575 | [256575-darkest-afk.json](./256575-darkest-afk.json) |
 | Darkest Corners | 404867 | [404867-darkest-corners.json](./404867-darkest-corners.json) |
 | Darkest Cube | 356540 | [356540-darkest-cube.json](./356540-darkest-cube.json) |
 | Darkest Days | 332225 | [332225-darkest-days.json](./332225-darkest-days.json) |
@@ -2624,6 +2625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Datura | 14527 | [14527-datura.json](./14527-datura.json) |
 | Datura Time | 219143 | [219143-datura-time.json](./219143-datura-time.json) |
 | Daughter | 287875 | [287875-daughter.json](./287875-daughter.json) |
+| Daughter of a Scoundrel | 256584 | [256584-daughter-of-a-scoundrel.json](./256584-daughter-of-a-scoundrel.json) |
 | Daughter of Crone | 262839 | [262839-daughter-of-crone.json](./262839-daughter-of-crone.json) |
 | Daughter of Essence | 158654 | [158654-daughter-of-essence.json](./158654-daughter-of-essence.json) |
 | Daughter of Reyn | 209930 | [209930-daughter-of-reyn.json](./209930-daughter-of-reyn.json) |
@@ -7311,6 +7313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Despotism 3k | 75056 | [75056-despotism-3k.json](./75056-despotism-3k.json) |
 | Dessert DIY | 247588 | [247588-dessert-diy.json](./247588-dessert-diy.json) |
 | Dessert DIY: Complete Edition | 251668 | [251668-dessert-diy-complete-edition.json](./251668-dessert-diy-complete-edition.json) |
+| Dessert DIY: Nasty Edition | 256619 | [256619-dessert-diy-nasty-edition.json](./256619-dessert-diy-nasty-edition.json) |
 | Dessert DIY: Premium Edition | 288298 | [288298-dessert-diy-premium-edition.json](./288298-dessert-diy-premium-edition.json) |
 | Dessert Love: Kare to no Hajimari | 219167 | [219167-dessert-love-kare-to-no-hajimari.json](./219167-dessert-love-kare-to-no-hajimari.json) |
 | Dessert Love: Sweet Plus | 219168 | [219168-dessert-love-sweet-plus.json](./219168-dessert-love-sweet-plus.json) |
@@ -13000,6 +13003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday Hunters | 129042 | [129042-doomsday-hunters.json](./129042-doomsday-hunters.json) |
 | Doomsday Hunters: Boss Rush Mega Pack | 308843 | [308843-doomsday-hunters-boss-rush-mega-pack.json](./308843-doomsday-hunters-boss-rush-mega-pack.json) |
 | Doomsday III: Base Ganymede | 268831 | [268831-doomsday-iii-base-ganymede.json](./268831-doomsday-iii-base-ganymede.json) |
+| Doomsday Jetlag | 256586 | [256586-doomsday-jetlag.json](./256586-doomsday-jetlag.json) |
 | Doomsday Lonely town | 275811 | [275811-doomsday-lonely-town.json](./275811-doomsday-lonely-town.json) |
 | Doomsday of UAC | 252367 | [252367-doomsday-of-uac.json](./252367-doomsday-of-uac.json) |
 | Doomsday on Demand | 104037 | [104037-doomsday-on-demand.json](./104037-doomsday-on-demand.json) |
