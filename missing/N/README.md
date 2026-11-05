@@ -3996,6 +3996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nico Puchi Girls Runway | 222519 | [222519-nico-puchi-girls-runway.json](./222519-nico-puchi-girls-runway.json) |
 | Nico Yazawa is Dreaming | 242094 | [242094-nico-yazawa-is-dreaming.json](./242094-nico-yazawa-is-dreaming.json) |
 | Nico-chan no Kaeri ni Cheeseburger mgmg | 405504 | [405504-nico-chan-no-kaeri-ni-cheeseburger-mgmg.json](./405504-nico-chan-no-kaeri-ni-cheeseburger-mgmg.json) |
+| Nico: Ittekimasu no Oheya | 278800 | [278800-nico-ittekimasu-no-oheya.json](./278800-nico-ittekimasu-no-oheya.json) |
 | Nicodemus: Demon of Evanishment | 246637 | [246637-nicodemus-demon-of-evanishment.json](./246637-nicodemus-demon-of-evanishment.json) |
 | Nicola Kanshuu: Model Oshare Audition Platina | 222456 | [222456-nicola-kanshuu-model-oshare-audition-platina.json](./222456-nicola-kanshuu-model-oshare-audition-platina.json) |
 | Nicolas Eymerich The Inquisitor Book II: The Village | 36332 | [36332-nicolas-eymerich-the-inquisitor-book-ii-the-village.json](./36332-nicolas-eymerich-the-inquisitor-book-ii-the-village.json) |
@@ -6747,6 +6748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Even Remotely Fair | 281304 | [281304-not-even-remotely-fair.json](./281304-not-even-remotely-fair.json) |
 | Not Everything is Flammable | 223675 | [223675-not-everything-is-flammable.json](./223675-not-everything-is-flammable.json) |
 | Not Evil Sudoku | 297219 | [297219-not-evil-sudoku.json](./297219-not-evil-sudoku.json) |
+| Not Exactly A Hero: Story game | 278761 | [278761-not-exactly-a-hero-story-game.json](./278761-not-exactly-a-hero-story-game.json) |
 | Not Fine | 398354 | [398354-not-fine.json](./398354-not-fine.json) |
 | Not for Broadcast | 122133 | [122133-not-for-broadcast.json](./122133-not-for-broadcast.json) |
 | Not for Broadcast VR | 237204 | [237204-not-for-broadcast-vr.json](./237204-not-for-broadcast-vr.json) |
