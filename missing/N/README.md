@@ -1705,6 +1705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necuratu | 309721 | [309721-necuratu.json](./309721-necuratu.json) |
 | Ned | 253305 | [253305-ned.json](./253305-ned.json) |
 | Ned | 67288 | [67288-ned.json](./67288-ned.json) |
+| Ned Flanders Kills the Simpsons! | 276537 | [276537-ned-flanders-kills-the-simpsons.json](./276537-ned-flanders-kills-the-simpsons.json) |
 | Ned Kelly: Armored Outlaw | 204101 | [204101-ned-kelly-armored-outlaw.json](./204101-ned-kelly-armored-outlaw.json) |
 | Ned: Iron Outlaw | 256981 | [256981-ned-iron-outlaw.json](./256981-ned-iron-outlaw.json) |
 | Ned's Garden | 380105 | [380105-neds-garden.json](./380105-neds-garden.json) |
@@ -3403,6 +3404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New York Warriors | 39033 | [39033-new-york-warriors.json](./39033-new-york-warriors.json) |
 | New York! New York! | 40379 | [40379-new-york-new-york.json](./40379-new-york-new-york.json) |
 | New Zealand Jigsaw Puzzles | 274766 | [274766-new-zealand-jigsaw-puzzles.json](./274766-new-zealand-jigsaw-puzzles.json) |
+| New Zealand Jigsaw Puzzles: Expansion Pack 1 | 276567 | [276567-new-zealand-jigsaw-puzzles-expansion-pack-1.json](./276567-new-zealand-jigsaw-puzzles-expansion-pack-1.json) |
 | New Zealand Jigsaw Puzzles: Expansion Pack 2 | 276568 | [276568-new-zealand-jigsaw-puzzles-expansion-pack-2.json](./276568-new-zealand-jigsaw-puzzles-expansion-pack-2.json) |
 | New Zealand Jigsaw Puzzles: Expansion Pack 3 | 276569 | [276569-new-zealand-jigsaw-puzzles-expansion-pack-3.json](./276569-new-zealand-jigsaw-puzzles-expansion-pack-3.json) |
 | New Zelda | 270386 | [270386-new-zelda.json](./270386-new-zelda.json) |
@@ -5977,6 +5979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition Online: Kakusei no Shou - Treasure Box | 167064 | [167064-nobunagas-ambition-online-kakusei-no-shou-treasure-box.json](./167064-nobunagas-ambition-online-kakusei-no-shou-treasure-box.json) |
 | Nobunaga's Ambition Returns | 289749 | [289749-nobunagas-ambition-returns.json](./289749-nobunagas-ambition-returns.json) |
 | Nobunaga's Ambition: Awakening | 245997 | [245997-nobunagas-ambition-awakening.json](./245997-nobunagas-ambition-awakening.json) |
+| Nobunaga's Ambition: Awakening - Collaborating Nijisanji's VTuber "Ibrahim" | 276548 | [276548-nobunagas-ambition-awakening-collaborating-nijisanjis-vtuber-ibrahim.json](./276548-nobunagas-ambition-awakening-collaborating-nijisanjis-vtuber-ibrahim.json) |
 | Nobunaga's Ambition: Awakening - Complete Edition | 338092 | [338092-nobunagas-ambition-awakening-complete-edition.json](./338092-nobunagas-ambition-awakening-complete-edition.json) |
 | Nobunaga's Ambition: Awakening - Digital Deluxe Edition | 255225 | [255225-nobunagas-ambition-awakening-digital-deluxe-edition.json](./255225-nobunagas-ambition-awakening-digital-deluxe-edition.json) |
 | Nobunaga's Ambition: Awakening - Scenario "Brotherly Revolt" | 294852 | [294852-nobunagas-ambition-awakening-scenario-brotherly-revolt.json](./294852-nobunagas-ambition-awakening-scenario-brotherly-revolt.json) |
