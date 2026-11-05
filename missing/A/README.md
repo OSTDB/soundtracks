@@ -2057,6 +2057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Doppelkopf | 79215 | [79215-absolute-doppelkopf.json](./79215-absolute-doppelkopf.json) |
 | Absolute Doppelkopf for Windows 11 | 264542 | [264542-absolute-doppelkopf-for-windows-11.json](./264542-absolute-doppelkopf-for-windows-11.json) |
 | Absolute Drift | 11587 | [11587-absolute-drift.json](./11587-absolute-drift.json) |
+| Absolute Drift: Premium Edition | 256036 | [256036-absolute-drift-premium-edition.json](./256036-absolute-drift-premium-edition.json) |
 | Absolute Drift: Zen Edition | 23835 | [23835-absolute-drift-zen-edition.json](./23835-absolute-drift-zen-edition.json) |
 | Absolute Duo | 92286 | [92286-absolute-duo.json](./92286-absolute-duo.json) |
 | Absolute Fall | 119004 | [119004-absolute-fall.json](./119004-absolute-fall.json) |
@@ -3177,6 +3178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Admiral: Sea Battles | 74094 | [74094-admiral-sea-battles.json](./74094-admiral-sea-battles.json) |
 | Admirals of Ophiuchus | 379559 | [379559-admirals-of-ophiuchus.json](./379559-admirals-of-ophiuchus.json) |
 | Adohiinage | 345439 | [345439-adohiinage.json](./345439-adohiinage.json) |
+| Adolf Hitler RPG: Last Minutes of the Millennium Empire | 256060 | [256060-adolf-hitler-rpg-last-minutes-of-the-millennium-empire.json](./256060-adolf-hitler-rpg-last-minutes-of-the-millennium-empire.json) |
 | Adolfish | 185014 | [185014-adolfish.json](./185014-adolfish.json) |
 | ADOM II | 138068 | [138068-adom-ii.json](./138068-adom-ii.json) |
 | ADOM: Ancient Domains of Mystery | 308166 | [308166-adom-ancient-domains-of-mystery.json](./308166-adom-ancient-domains-of-mystery.json) |
@@ -6744,6 +6746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Invasion 3D Part 2 | 126561 | [126561-alien-invasion-3d-part-2.json](./126561-alien-invasion-3d-part-2.json) |
 | Alien Invasion Tower Defense | 30829 | [30829-alien-invasion-tower-defense.json](./30829-alien-invasion-tower-defense.json) |
 | Alien Investigator | 264190 | [264190-alien-investigator.json](./264190-alien-investigator.json) |
+| Alien IQ Exam: Human Edition, Phase 1 | 256049 | [256049-alien-iq-exam-human-edition-phase-1.json](./256049-alien-iq-exam-human-edition-phase-1.json) |
 | Alien Jelly: Food For Thought! | 122074 | [122074-alien-jelly-food-for-thought.json](./122074-alien-jelly-food-for-thought.json) |
 | Alien Jihad | 92308 | [92308-alien-jihad.json](./92308-alien-jihad.json) |
 | Alien Kingdom | 120760 | [120760-alien-kingdom.json](./120760-alien-kingdom.json) |
@@ -8056,6 +8059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaze: Easter | 116186 | [116186-amaze-easter.json](./116186-amaze-easter.json) |
 | Amaze: Halloween | 110183 | [110183-amaze-halloween.json](./110183-amaze-halloween.json) |
 | Amaze! | 246648 | [246648-amaze.json](./246648-amaze.json) |
+| Amaze! Relax Edition | 256022 | [256022-amaze-relax-edition.json](./256022-amaze-relax-edition.json) |
 | Amaze! Time Attack Edition | 254078 | [254078-amaze-time-attack-edition.json](./254078-amaze-time-attack-edition.json) |
 | Amaze!: Level Pack 1 | 246871 | [246871-amaze-level-pack-1.json](./246871-amaze-level-pack-1.json) |
 | Amaze!: Level Pack 2 | 246872 | [246872-amaze-level-pack-2.json](./246872-amaze-level-pack-2.json) |
@@ -12295,6 +12299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Plump Pop | 394382 | [394382-arcade-archives-plump-pop.json](./394382-arcade-archives-plump-pop.json) |
 | Arcade Archives: Plus Alpha | 147626 | [147626-arcade-archives-plus-alpha.json](./147626-arcade-archives-plus-alpha.json) |
 | Arcade Archives: Polaris | 398192 | [398192-arcade-archives-polaris.json](./398192-arcade-archives-polaris.json) |
+| Arcade Archives: Pole Position | 256024 | [256024-arcade-archives-pole-position.json](./256024-arcade-archives-pole-position.json) |
 | Arcade Archives: Pole Position II | 279875 | [279875-arcade-archives-pole-position-ii.json](./279875-arcade-archives-pole-position-ii.json) |
 | Arcade Archives: Pooyan | 119447 | [119447-arcade-archives-pooyan.json](./119447-arcade-archives-pooyan.json) |
 | Arcade Archives: Pop Flamer | 168692 | [168692-arcade-archives-pop-flamer.json](./168692-arcade-archives-pop-flamer.json) |
