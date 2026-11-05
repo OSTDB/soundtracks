@@ -953,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -16447,6 +16448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Bait | 349031 | [349031-bug-bait.json](./349031-bug-bait.json) |
 | Bug Ball | 274364 | [274364-bug-ball.json](./274364-bug-ball.json) |
 | Bug Bane Survivors | 366362 | [366362-bug-bane-survivors.json](./366362-bug-bane-survivors.json) |
+| Bug Bash | 266578 | [266578-bug-bash.json](./266578-bug-bash.json) |
 | Bug Bash | 93309 | [93309-bug-bash.json](./93309-bug-bash.json) |
 | Bug Battle | 287025 | [287025-bug-battle.json](./287025-bug-battle.json) |
 | Bug Battle | 76316 | [76316-bug-battle.json](./76316-bug-battle.json) |
