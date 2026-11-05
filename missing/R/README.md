@@ -1305,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Festival 3 | 334228 | [334228-rainbow-festival-3.json](./334228-rainbow-festival-3.json) |
 | Rainbow fighter | 285570 | [285570-rainbow-fighter.json](./285570-rainbow-fighter.json) |
 | Rainbow Fish and the Amazing Lagoon | 280744 | [280744-rainbow-fish-and-the-amazing-lagoon.json](./280744-rainbow-fish-and-the-amazing-lagoon.json) |
+| Rainbow Fish and the Whale | 279994 | [279994-rainbow-fish-and-the-whale.json](./279994-rainbow-fish-and-the-whale.json) |
 | Rainbow Fish Goes to College | 305138 | [305138-rainbow-fish-goes-to-college.json](./305138-rainbow-fish-goes-to-college.json) |
 | Rainbow Fish: The Most beautiful Fish in the Ocean | 235358 | [235358-rainbow-fish-the-most-beautiful-fish-in-the-ocean.json](./235358-rainbow-fish-the-most-beautiful-fish-in-the-ocean.json) |
 | Rainbow Friends: Hide 'N Seek | 262695 | [262695-rainbow-friends-hide-n-seek.json](./262695-rainbow-friends-hide-n-seek.json) |
@@ -2539,6 +2540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re Rive | 202323 | [202323-re-rive.json](./202323-re-rive.json) |
 | Re Watch | 312861 | [312861-re-watch.json](./312861-re-watch.json) |
 | Re-Blood | 198357 | [198357-re-blood.json](./198357-re-blood.json) |
+| Re-Bomber | 280035 | [280035-re-bomber.json](./280035-re-bomber.json) |
 | Re-bot | 75906 | [75906-re-bot.json](./75906-re-bot.json) |
 | Re-Bounder | 40940 | [40940-re-bounder.json](./40940-re-bounder.json) |
 | Re-Exit | 336728 | [336728-re-exit.json](./336728-re-exit.json) |
@@ -12800,6 +12802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruthless Conquest | 126304 | [126304-ruthless-conquest.json](./126304-ruthless-conquest.json) |
 | Ruthless Pandas | 101923 | [101923-ruthless-pandas.json](./101923-ruthless-pandas.json) |
 | Ruthless Safari | 52777 | [52777-ruthless-safari.json](./52777-ruthless-safari.json) |
+| Ruthless Smile | 279989 | [279989-ruthless-smile.json](./279989-ruthless-smile.json) |
 | Ruthless Water | 391932 | [391932-ruthless-water.json](./391932-ruthless-water.json) |
 | Ruthless:1 | 260608 | [260608-ruthless-1.json](./260608-ruthless-1.json) |
 | Ruthnar Online | 293325 | [293325-ruthnar-online.json](./293325-ruthnar-online.json) |
