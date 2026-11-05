@@ -2988,6 +2988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juh | 419310 | [419310-juh.json](./419310-juh.json) |
 | Jui: Dr. Touma Joutarou | 56812 | [56812-jui-dr-touma-joutarou.json](./56812-jui-dr-touma-joutarou.json) |
 | Juice | 139264 | [139264-juice.json](./139264-juice.json) |
+| Juice | 292357 | [292357-juice.json](./292357-juice.json) |
 | Juice Fresh | 55778 | [55778-juice-fresh.json](./55778-juice-fresh.json) |
 | Juice Fresh: Fruit Elimination | 187901 | [187901-juice-fresh-fruit-elimination.json](./187901-juice-fresh-fruit-elimination.json) |
 | Juice Fruity Splash | 106467 | [106467-juice-fruity-splash.json](./106467-juice-fruity-splash.json) |
