@@ -6343,14 +6343,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Books: Arthur's Birthday | 134330 | [134330-living-books-arthurs-birthday.json](./134330-living-books-arthurs-birthday.json) |
 | Living Books: Arthur's Computer Adventure | 134339 | [134339-living-books-arthurs-computer-adventure.json](./134339-living-books-arthurs-computer-adventure.json) |
 | Living Books: Arthur's Reading Race | 144031 | [144031-living-books-arthurs-reading-race.json](./144031-living-books-arthurs-reading-race.json) |
+| Living Books: Arthur's Teacher Trouble | 254861 | [254861-living-books-arthurs-teacher-trouble.json](./254861-living-books-arthurs-teacher-trouble.json) |
 | Living Books: D.W. the Picky Eater | 122276 | [122276-living-books-d-w-the-picky-eater.json](./122276-living-books-d-w-the-picky-eater.json) |
 | Living Books: Dr. Seuss's ABC | 134447 | [134447-living-books-dr-seusss-abc.json](./134447-living-books-dr-seusss-abc.json) |
+| Living Books: Green Eggs and Ham | 254867 | [254867-living-books-green-eggs-and-ham.json](./254867-living-books-green-eggs-and-ham.json) |
 | Living Books: Harry and the Haunted House | 70079 | [70079-living-books-harry-and-the-haunted-house.json](./70079-living-books-harry-and-the-haunted-house.json) |
 | Living Books: Just Grandma and Me | 73667 | [73667-living-books-just-grandma-and-me.json](./73667-living-books-just-grandma-and-me.json) |
 | Living Books: Little Monster at School | 45917 | [45917-living-books-little-monster-at-school.json](./45917-living-books-little-monster-at-school.json) |
+| Living Books: Ruff's Bone | 254864 | [254864-living-books-ruffs-bone.json](./254864-living-books-ruffs-bone.json) |
 | Living Books: Sheila Rae, the Brave | 71796 | [71796-living-books-sheila-rae-the-brave.json](./71796-living-books-sheila-rae-the-brave.json) |
 | Living Books: Stellaluna | 229068 | [229068-living-books-stellaluna.json](./229068-living-books-stellaluna.json) |
+| Living Books: The Berenstain Bears Get in a Fight | 254865 | [254865-living-books-the-berenstain-bears-get-in-a-fight.json](./254865-living-books-the-berenstain-bears-get-in-a-fight.json) |
+| Living Books: The Berenstain Bears in the Dark | 254866 | [254866-living-books-the-berenstain-bears-in-the-dark.json](./254866-living-books-the-berenstain-bears-in-the-dark.json) |
 | Living Books: The Cat in the Hat | 254971 | [254971-living-books-the-cat-in-the-hat.json](./254971-living-books-the-cat-in-the-hat.json) |
+| Living Books: The New Kid on the Block | 254862 | [254862-living-books-the-new-kid-on-the-block.json](./254862-living-books-the-new-kid-on-the-block.json) |
 | Living Cell | 253399 | [253399-living-cell.json](./253399-living-cell.json) |
 | Living Dark | 77355 | [77355-living-dark.json](./77355-living-dark.json) |
 | Living Dead House | 365730 | [365730-living-dead-house.json](./365730-living-dead-house.json) |
