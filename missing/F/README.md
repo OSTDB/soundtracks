@@ -12766,6 +12766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuga: Melodies of Steel 2 | 212264 | [212264-fuga-melodies-of-steel-2.json](./212264-fuga-melodies-of-steel-2.json) |
 | Fuga: Melodies of Steel 2 - Animal Costume Pack | 278520 | [278520-fuga-melodies-of-steel-2-animal-costume-pack.json](./278520-fuga-melodies-of-steel-2-animal-costume-pack.json) |
 | Fuga: Melodies of Steel 2 - Deluxe Edition | 246620 | [246620-fuga-melodies-of-steel-2-deluxe-edition.json](./246620-fuga-melodies-of-steel-2-deluxe-edition.json) |
+| Fuga: Melodies of Steel 2 - Steampunk Costume Pack | 267721 | [267721-fuga-melodies-of-steel-2-steampunk-costume-pack.json](./267721-fuga-melodies-of-steel-2-steampunk-costume-pack.json) |
 | Fuga: Melodies of Steel 2 - Tail Concerto Costume Pack | 259584 | [259584-fuga-melodies-of-steel-2-tail-concerto-costume-pack.json](./259584-fuga-melodies-of-steel-2-tail-concerto-costume-pack.json) |
 | Fuga: Melodies of Steel 2 - Ultimate Edition | 283150 | [283150-fuga-melodies-of-steel-2-ultimate-edition.json](./283150-fuga-melodies-of-steel-2-ultimate-edition.json) |
 | Fuga: Melodies of Steel 3 | 307648 | [307648-fuga-melodies-of-steel-3.json](./307648-fuga-melodies-of-steel-3.json) |
