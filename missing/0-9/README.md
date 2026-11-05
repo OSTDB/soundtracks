@@ -364,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Count Avoidance | 376894 | [376894-10-count-avoidance.json](./376894-10-count-avoidance.json) |
 | 10 Count Boxer | 85719 | [85719-10-count-boxer.json](./85719-10-count-boxer.json) |
 | 10 Crowns | 86424 | [86424-10-crowns.json](./86424-10-crowns.json) |
+| 10 Day Vacation | 257165 | [257165-10-day-vacation.json](./257165-10-day-vacation.json) |
 | 10 Days to Save the World | 382905 | [382905-10-days-to-save-the-world.json](./382905-10-days-to-save-the-world.json) |
 | 10 Days with My Devil | 229848 | [229848-10-days-with-my-devil.json](./229848-10-days-with-my-devil.json) |
 | 10 Dead Doves | 216772 | [216772-10-dead-doves.json](./216772-10-dead-doves.json) |
