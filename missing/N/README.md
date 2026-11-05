@@ -5458,6 +5458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NMDC | 199584 | [199584-nmdc.json](./199584-nmdc.json) |
 | NMNE | 181106 | [181106-nmne.json](./181106-nmne.json) |
 | Nmnmah | 392711 | [392711-nmnmah.json](./392711-nmnmah.json) |
+| NMO: No More Operators | 294341 | [294341-nmo-no-more-operators.json](./294341-nmo-no-more-operators.json) |
 | Nnnnnight | 319059 | [319059-nnnnnight.json](./319059-nnnnnight.json) |
 | Nnnnnn | 134352 | [134352-nnnnnn.json](./134352-nnnnnn.json) |
 | No 1 Lives | 195878 | [195878-no-1-lives.json](./195878-no-1-lives.json) |
@@ -6390,6 +6391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noon Stone | 346590 | [346590-noon-stone.json](./346590-noon-stone.json) |
 | Noonie | 99630 | [99630-noonie.json](./99630-noonie.json) |
 | Noonkey: Healing Tears II | 299401 | [299401-noonkey-healing-tears-ii.json](./299401-noonkey-healing-tears-ii.json) |
+| Nooo! My Body! | 294340 | [294340-nooo-my-body.json](./294340-nooo-my-body.json) |
 | Noor | 358261 | [358261-noor.json](./358261-noor.json) |
 | Noor Quest | 91983 | [91983-noor-quest.json](./91983-noor-quest.json) |
 | Noora and the Time Studio | 137517 | [137517-noora-and-the-time-studio.json](./137517-noora-and-the-time-studio.json) |
