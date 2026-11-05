@@ -3630,6 +3630,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opus: Collector's Edition | 186904 | [186904-opus-collectors-edition.json](./186904-opus-collectors-edition.json) |
 | Opus: Echo of Starsong - Deluxe Edition | 186534 | [186534-opus-echo-of-starsong-deluxe-edition.json](./186534-opus-echo-of-starsong-deluxe-edition.json) |
 | Opus: Echo of Starsong - Full Bloom Edition | 200915 | [200915-opus-echo-of-starsong-full-bloom-edition.json](./200915-opus-echo-of-starsong-full-bloom-edition.json) |
+| Opus: Echo of Starsong - Full Bloom Edition: Collector's Edition | 256031 | [256031-opus-echo-of-starsong-full-bloom-edition-collectors-edition.json](./256031-opus-echo-of-starsong-full-bloom-edition-collectors-edition.json) |
+| Opus: Echo of Starsong - Full Bloom Edition: Launch Edition | 256030 | [256030-opus-echo-of-starsong-full-bloom-edition-launch-edition.json](./256030-opus-echo-of-starsong-full-bloom-edition-launch-edition.json) |
 | Opus: Prism Peak | 234662 | [234662-opus-prism-peak.json](./234662-opus-prism-peak.json) |
 | Opus: Rocket of Whispers - Deluxe Edition | 186535 | [186535-opus-rocket-of-whispers-deluxe-edition.json](./186535-opus-rocket-of-whispers-deluxe-edition.json) |
 | Oquonie | 60514 | [60514-oquonie.json](./60514-oquonie.json) |
@@ -5366,6 +5368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OvenBreak: 3baked | 383689 | [383689-ovenbreak-3baked.json](./383689-ovenbreak-3baked.json) |
 | Ovens of Hell | 108377 | [108377-ovens-of-hell.json](./108377-ovens-of-hell.json) |
 | Over & Out! | 422131 | [422131-over-and-out.json](./422131-over-and-out.json) |
+| Over & Under | 256039 | [256039-over-and-under.json](./256039-over-and-under.json) |
 | Over 1000 Jigsaw Puzzles | 228409 | [228409-over-1000-jigsaw-puzzles.json](./228409-over-1000-jigsaw-puzzles.json) |
 | Over blood | 208898 | [208898-over-blood.json](./208898-over-blood.json) |
 | Over Circle | 161223 | [161223-over-circle.json](./161223-over-circle.json) |
