@@ -3374,6 +3374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Silent Hill - Cybil Bennett | 358413 | [358413-dead-by-daylight-silent-hill-cybil-bennett.json](./358413-dead-by-daylight-silent-hill-cybil-bennett.json) |
 | Dead by Daylight: Silent Hill - James Sunderland | 358415 | [358415-dead-by-daylight-silent-hill-james-sunderland.json](./358415-dead-by-daylight-silent-hill-james-sunderland.json) |
 | Dead by Daylight: Silent Hill - Lisa Garland | 358411 | [358411-dead-by-daylight-silent-hill-lisa-garland.json](./358411-dead-by-daylight-silent-hill-lisa-garland.json) |
+| Dead by Daylight: Silent Hill Cosmetic Pack | 248343 | [248343-dead-by-daylight-silent-hill-cosmetic-pack.json](./248343-dead-by-daylight-silent-hill-cosmetic-pack.json) |
 | Dead by Daylight: Silent Hill Edition | 139976 | [139976-dead-by-daylight-silent-hill-edition.json](./139976-dead-by-daylight-silent-hill-edition.json) |
 | Dead by Daylight: Sinister Grace | 369789 | [369789-dead-by-daylight-sinister-grace.json](./369789-dead-by-daylight-sinister-grace.json) |
 | Dead by Daylight: Spark of Madness Chapter | 76223 | [76223-dead-by-daylight-spark-of-madness-chapter.json](./76223-dead-by-daylight-spark-of-madness-chapter.json) |
@@ -8467,6 +8468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Roller VR | 211556 | [211556-dice-roller-vr.json](./211556-dice-roller-vr.json) |
 | Dice Rollers | 142273 | [142273-dice-rollers.json](./142273-dice-rollers.json) |
 | Dice Saga | 364964 | [364964-dice-saga.json](./364964-dice-saga.json) |
+| Dice Soccer City | 248277 | [248277-dice-soccer-city.json](./248277-dice-soccer-city.json) |
 | Dice Strategy | 319742 | [319742-dice-strategy.json](./319742-dice-strategy.json) |
 | Dice Tactics: Demon King Chapters 2, 3, 4 | 168835 | [168835-dice-tactics-demon-king-chapters-2-3-4.json](./168835-dice-tactics-demon-king-chapters-2-3-4.json) |
 | Dice Team | 373757 | [373757-dice-team.json](./373757-dice-team.json) |
@@ -15733,6 +15735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream of a Sunflower | 230165 | [230165-dream-of-a-sunflower.json](./230165-dream-of-a-sunflower.json) |
 | Dream of Anastasia | 299601 | [299601-dream-of-anastasia.json](./299601-dream-of-anastasia.json) |
 | Dream of Bells | 147022 | [147022-dream-of-bells.json](./147022-dream-of-bells.json) |
+| Dream of Echo | 248362 | [248362-dream-of-echo.json](./248362-dream-of-echo.json) |
 | Dream of Gluttony | 130655 | [130655-dream-of-gluttony.json](./130655-dream-of-gluttony.json) |
 | Dream of Grandma | 362224 | [362224-dream-of-grandma.json](./362224-dream-of-grandma.json) |
 | Dream of Hakugyokurou | 159522 | [159522-dream-of-hakugyokurou.json](./159522-dream-of-hakugyokurou.json) |
