@@ -5195,6 +5195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 13th Heir - Ragnarok Chapter 2 | 76503 | [76503-the-13th-heir-ragnarok-chapter-2.json](./76503-the-13th-heir-ragnarok-chapter-2.json) |
 | The 13th Month | 166148 | [166148-the-13th-month.json](./166148-the-13th-month.json) |
 | The 1485 | 182751 | [182751-the-1485.json](./182751-the-1485.json) |
+| The 15th Floor | 287466 | [287466-the-15th-floor.json](./287466-the-15th-floor.json) |
 | The 18th Attic | 346707 | [346707-the-18th-attic.json](./346707-the-18th-attic.json) |
 | The 1st Annual Vanilla Level Design Contest: Collaboration Hack | 228877 | [228877-the-1st-annual-vanilla-level-design-contest-collaboration-hack.json](./228877-the-1st-annual-vanilla-level-design-contest-collaboration-hack.json) |
 | The 1st Old-School Level Design Contest: Collaboration Hack | 306879 | [306879-the-1st-old-school-level-design-contest-collaboration-hack.json](./306879-the-1st-old-school-level-design-contest-collaboration-hack.json) |
@@ -5869,6 +5870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Artist: Act One | 245732 | [245732-the-artist-act-one.json](./245732-the-artist-act-one.json) |
 | The Arys Expedition: Special Edition | 53714 | [53714-the-arys-expedition-special-edition.json](./53714-the-arys-expedition-special-edition.json) |
 | The Asafo Journey | 220672 | [220672-the-asafo-journey.json](./220672-the-asafo-journey.json) |
+| The Ascension of the Lamb | 287452 | [287452-the-ascension-of-the-lamb.json](./287452-the-ascension-of-the-lamb.json) |
 | The Ascent of the Gothic Tower | 228967 | [228967-the-ascent-of-the-gothic-tower.json](./228967-the-ascent-of-the-gothic-tower.json) |
 | The Ascent: Cyber Heist | 213148 | [213148-the-ascent-cyber-heist.json](./213148-the-ascent-cyber-heist.json) |
 | The Ascent: CyberSec Pack | 276306 | [276306-the-ascent-cybersec-pack.json](./276306-the-ascent-cybersec-pack.json) |
@@ -15919,6 +15921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shell of Permafrost | 112681 | [112681-the-shell-of-permafrost.json](./112681-the-shell-of-permafrost.json) |
 | The Shell Part I: Inferno | 142230 | [142230-the-shell-part-i-inferno.json](./142230-the-shell-part-i-inferno.json) |
 | The Shell Part I: Inferno | 252084 | [252084-the-shell-part-i-inferno.json](./252084-the-shell-part-i-inferno.json) |
+| The Shell Part II: Purgatorio | 287475 | [287475-the-shell-part-ii-purgatorio.json](./287475-the-shell-part-ii-purgatorio.json) |
 | The Shell Part III: Paradiso | 141751 | [141751-the-shell-part-iii-paradiso.json](./141751-the-shell-part-iii-paradiso.json) |
 | The Shell Part III: Paradiso | 324151 | [324151-the-shell-part-iii-paradiso.json](./324151-the-shell-part-iii-paradiso.json) |
 | The Shelter of Patient | 226507 | [226507-the-shelter-of-patient.json](./226507-the-shelter-of-patient.json) |
@@ -17623,6 +17626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The tram of wishes | 152836 | [152836-the-tram-of-wishes.json](./152836-the-tram-of-wishes.json) |
 | The Transference | 273790 | [273790-the-transference.json](./273790-the-transference.json) |
 | The Transformers | 8015 | [8015-the-transformers.json](./8015-the-transformers.json) |
+| The Transporter | 287470 | [287470-the-transporter.json](./287470-the-transporter.json) |
 | The Transylvania Adventure of Simon Quest | 120559 | [120559-the-transylvania-adventure-of-simon-quest.json](./120559-the-transylvania-adventure-of-simon-quest.json) |
 | The Trap | 155343 | [155343-the-trap.json](./155343-the-trap.json) |
 | The Trap | 196838 | [196838-the-trap.json](./196838-the-trap.json) |
@@ -18344,6 +18348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way Home | 307686 | [307686-the-way-home.json](./307686-the-way-home.json) |
 | The Way Home | 362293 | [362293-the-way-home.json](./362293-the-way-home.json) |
 | The Way Home | 397849 | [397849-the-way-home.json](./397849-the-way-home.json) |
+| The Way Home: A Typing Adventure | 287441 | [287441-the-way-home-a-typing-adventure.json](./287441-the-way-home-a-typing-adventure.json) |
 | The Way Home: Dungeon Cat | 193711 | [193711-the-way-home-dungeon-cat.json](./193711-the-way-home-dungeon-cat.json) |
 | The Way It Rains on Animals | 332806 | [332806-the-way-it-rains-on-animals.json](./332806-the-way-it-rains-on-animals.json) |
 | The Way of Cinnamon | 120006 | [120006-the-way-of-cinnamon.json](./120006-the-way-of-cinnamon.json) |
@@ -19698,6 +19703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas the Tank Engine & Friends Pinball | 38842 | [38842-thomas-the-tank-engine-and-friends-pinball.json](./38842-thomas-the-tank-engine-and-friends-pinball.json) |
 | Thomas to Asonde Oboeru Kotoba to Kazu to ABC | 222516 | [222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json](./222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json) |
 | Thomas' Tales | 195614 | [195614-thomas-tales.json](./195614-thomas-tales.json) |
+| Thome Wake | 287371 | [287371-thome-wake.json](./287371-thome-wake.json) |
 | Thoom | 311069 | [311069-thoom.json](./311069-thoom.json) |
 | Thor | 95414 | [95414-thor.json](./95414-thor.json) |
 | Thor: God of Thunder | 21142 | [21142-thor-god-of-thunder.json](./21142-thor-god-of-thunder.json) |
@@ -20135,6 +20141,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Five | 98050 | [98050-thunder-five.json](./98050-thunder-five.json) |
 | Thunder Force | 55055 | [55055-thunder-force.json](./55055-thunder-force.json) |
 | Thunder Force | 74905 | [74905-thunder-force.json](./74905-thunder-force.json) |
+| Thunder Force AC | 287460 | [287460-thunder-force-ac.json](./287460-thunder-force-ac.json) |
+| Thunder Force II | 287461 | [287461-thunder-force-ii.json](./287461-thunder-force-ii.json) |
 | Thunder Force II | 6033 | [6033-thunder-force-ii.json](./6033-thunder-force-ii.json) |
 | Thunder Force IV | 254613 | [254613-thunder-force-iv.json](./254613-thunder-force-iv.json) |
 | Thunder Force V | 22021 | [22021-thunder-force-v.json](./22021-thunder-force-v.json) |
