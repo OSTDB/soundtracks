@@ -3683,6 +3683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hedon Bloodrite | 183074 | [183074-hedon-bloodrite.json](./183074-hedon-bloodrite.json) |
 | Hedon: Extra Thicc Edition | 193742 | [193742-hedon-extra-thicc-edition.json](./193742-hedon-extra-thicc-edition.json) |
 | Hedonistic Offering | 259419 | [259419-hedonistic-offering.json](./259419-hedonistic-offering.json) |
+| Hedra | 275967 | [275967-hedra.json](./275967-hedra.json) |
 | Hedrons | 149095 | [149095-hedrons.json](./149095-hedrons.json) |
 | Hedrox | 274179 | [274179-hedrox.json](./274179-hedrox.json) |
 | Hedrox 2 | 274180 | [274180-hedrox-2.json](./274180-hedrox-2.json) |
@@ -6100,6 +6101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Unleashed | 193875 | [193875-heroes-unleashed.json](./193875-heroes-unleashed.json) |
 | Heroes Vs. | 64326 | [64326-heroes-vs.json](./64326-heroes-vs.json) |
 | Heroes vs. Hordes | 243120 | [243120-heroes-vs-hordes.json](./243120-heroes-vs-hordes.json) |
+| Heroes Wanted | 275983 | [275983-heroes-wanted.json](./275983-heroes-wanted.json) |
 | Heroes War | 200722 | [200722-heroes-war.json](./200722-heroes-war.json) |
 | Heroes War: Counterattack | 141119 | [141119-heroes-war-counterattack.json](./141119-heroes-war-counterattack.json) |
 | Heroes Will | 69517 | [69517-heroes-will.json](./69517-heroes-will.json) |
@@ -6372,6 +6374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexceed: Exsupero Pack | 224229 | [224229-hexceed-exsupero-pack.json](./224229-hexceed-exsupero-pack.json) |
 | Hexceed: Finis | 239490 | [239490-hexceed-finis.json](./239490-hexceed-finis.json) |
 | Hexceed: Flavum Pack | 295124 | [295124-hexceed-flavum-pack.json](./295124-hexceed-flavum-pack.json) |
+| Hexceed: Glacialis Pack | 275961 | [275961-hexceed-glacialis-pack.json](./275961-hexceed-glacialis-pack.json) |
 | Hexceed: Ignis Pack | 246837 | [246837-hexceed-ignis-pack.json](./246837-hexceed-ignis-pack.json) |
 | Hexceed: Incipiam | 224228 | [224228-hexceed-incipiam.json](./224228-hexceed-incipiam.json) |
 | Hexceed: Insulam | 201595 | [201595-hexceed-insulam.json](./201595-hexceed-insulam.json) |
@@ -7169,6 +7172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden World 3 Top-Down 3D | 237810 | [237810-hidden-world-3-top-down-3d.json](./237810-hidden-world-3-top-down-3d.json) |
 | Hidden World 4 Top-Down 3D | 241531 | [241531-hidden-world-4-top-down-3d.json](./241531-hidden-world-4-top-down-3d.json) |
 | Hidden World 6 Top-Down 3D | 274054 | [274054-hidden-world-6-top-down-3d.json](./274054-hidden-world-6-top-down-3d.json) |
+| Hidden World 8 Top-Down 3D | 275947 | [275947-hidden-world-8-top-down-3d.json](./275947-hidden-world-8-top-down-3d.json) |
 | Hidden World of Art | 143381 | [143381-hidden-world-of-art.json](./143381-hidden-world-of-art.json) |
 | Hidden World of Art 2 | 126667 | [126667-hidden-world-of-art-2.json](./126667-hidden-world-of-art-2.json) |
 | Hidden World of Art 4 | 294848 | [294848-hidden-world-of-art-4.json](./294848-hidden-world-of-art-4.json) |
