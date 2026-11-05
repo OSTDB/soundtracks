@@ -1421,6 +1421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales to Enjoy! Puss In Boots | 85427 | [85427-tales-to-enjoy-puss-in-boots.json](./85427-tales-to-enjoy-puss-in-boots.json) |
 | Tales to Enjoy! The Ugly Duckling | 85426 | [85426-tales-to-enjoy-the-ugly-duckling.json](./85426-tales-to-enjoy-the-ugly-duckling.json) |
 | Tales to Enjoy! Three Little Pigs | 85425 | [85425-tales-to-enjoy-three-little-pigs.json](./85425-tales-to-enjoy-three-little-pigs.json) |
+| Tales Up | 253132 | [253132-tales-up.json](./253132-tales-up.json) |
 | Tales We Tell Ourselves | 144122 | [144122-tales-we-tell-ourselves.json](./144122-tales-we-tell-ourselves.json) |
 | Tales Weaver: Second Run | 210417 | [210417-tales-weaver-second-run.json](./210417-tales-weaver-second-run.json) |
 | Talescape | 379423 | [379423-talescape.json](./379423-talescape.json) |
@@ -11861,6 +11862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Hero | 377321 | [377321-the-last-hero.json](./377321-the-last-hero.json) |
 | The Last Hero of Nostalgaia | 214707 | [214707-the-last-hero-of-nostalgaia.json](./214707-the-last-hero-of-nostalgaia.json) |
 | The Last Hero of Nostalgaia: Deluxe Edition | 254283 | [254283-the-last-hero-of-nostalgaia-deluxe-edition.json](./254283-the-last-hero-of-nostalgaia-deluxe-edition.json) |
+| The Last Hero of Nostalgaia: The Rise of Evil | 253119 | [253119-the-last-hero-of-nostalgaia-the-rise-of-evil.json](./253119-the-last-hero-of-nostalgaia-the-rise-of-evil.json) |
 | The Last Hero: Journey to the Unknown | 251972 | [251972-the-last-hero-journey-to-the-unknown.json](./251972-the-last-hero-journey-to-the-unknown.json) |
 | The Last Heroine | 351777 | [351777-the-last-heroine.json](./351777-the-last-heroine.json) |
 | The Last Hex | 105231 | [105231-the-last-hex.json](./105231-the-last-hex.json) |
@@ -19713,6 +19715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Is a Square! | 292931 | [292931-this-is-a-square.json](./292931-this-is-a-square.json) |
 | This is a Work of Fiction | 242780 | [242780-this-is-a-work-of-fiction.json](./242780-this-is-a-work-of-fiction.json) |
 | This is Adam | 384560 | [384560-this-is-adam.json](./384560-this-is-adam.json) |
+| This Is Crying | 253127 | [253127-this-is-crying.json](./253127-this-is-crying.json) |
 | This Is Fine | 177325 | [177325-this-is-fine.json](./177325-this-is-fine.json) |
 | This is Football | 70158 | [70158-this-is-football.json](./70158-this-is-football.json) |
 | This is Football 2 | 44833 | [44833-this-is-football-2.json](./44833-this-is-football-2.json) |
@@ -22770,6 +22773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tin Can | 139282 | [139282-tin-can.json](./139282-tin-can.json) |
 | Tin Can: Original Tracks | 293774 | [293774-tin-can-original-tracks.json](./293774-tin-can-original-tracks.json) |
 | Tin Coffins | 422683 | [422683-tin-coffins.json](./422683-tin-coffins.json) |
+| Tin Hearts | 253170 | [253170-tin-hearts.json](./253170-tin-hearts.json) |
 | Tin Knight | 240093 | [240093-tin-knight.json](./240093-tin-knight.json) |
 | Tin Soldiers: Alexander the Great | 72757 | [72757-tin-soldiers-alexander-the-great.json](./72757-tin-soldiers-alexander-the-great.json) |
 | Tin Soldiers: Julius Caesar | 72758 | [72758-tin-soldiers-julius-caesar.json](./72758-tin-soldiers-julius-caesar.json) |
@@ -28239,6 +28243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrainTastic | 272900 | [272900-traintastic.json](./272900-traintastic.json) |
 | Traintracks Combat | 298815 | [298815-traintracks-combat.json](./298815-traintracks-combat.json) |
 | Trainwatch | 355613 | [355613-trainwatch.json](./355613-trainwatch.json) |
+| Trainwreck | 253158 | [253158-trainwreck.json](./253158-trainwreck.json) |
 | Trainwreck | 327325 | [327325-trainwreck.json](./327325-trainwreck.json) |
 | Trainyard | 92061 | [92061-trainyard.json](./92061-trainyard.json) |
 | Trainyard Express | 261861 | [261861-trainyard-express.json](./261861-trainyard-express.json) |
