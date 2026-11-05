@@ -11612,6 +11612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dojo Assault | 249847 | [249847-dojo-assault.json](./249847-dojo-assault.json) |
 | Dojo City | 311155 | [311155-dojo-city.json](./311155-dojo-city.json) |
 | Dojo Corridor | 147350 | [147350-dojo-corridor.json](./147350-dojo-corridor.json) |
+| Dojo Masters | 261608 | [261608-dojo-masters.json](./261608-dojo-masters.json) |
 | Dojo Raiders | 411976 | [411976-dojo-raiders.json](./411976-dojo-raiders.json) |
 | Dojoran | 139593 | [139593-dojoran.json](./139593-dojoran.json) |
 | Doka 2 Trade | 126439 | [126439-doka-2-trade.json](./126439-doka-2-trade.json) |
@@ -16785,6 +16786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drum Legend | 277023 | [277023-drum-legend.json](./277023-drum-legend.json) |
 | Drum Master | 359311 | [359311-drum-master.json](./359311-drum-master.json) |
 | Drum Revolution | 337842 | [337842-drum-revolution.json](./337842-drum-revolution.json) |
+| Drum Roll | 261615 | [261615-drum-roll.json](./261615-drum-roll.json) |
 | Drum Studio | 98824 | [98824-drum-studio.json](./98824-drum-studio.json) |
 | Drum'n'Bass Massacre | 167483 | [167483-drumnbass-massacre.json](./167483-drumnbass-massacre.json) |
 | Drumbeat Quest | 174229 | [174229-drumbeat-quest.json](./174229-drumbeat-quest.json) |
