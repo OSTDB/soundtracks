@@ -30615,6 +30615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troy-Bilt: Testing Grounds | 327791 | [327791-troy-bilt-testing-grounds.json](./327791-troy-bilt-testing-grounds.json) |
 | Troy: The Malware Fight | 156974 | [156974-troy-the-malware-fight.json](./156974-troy-the-malware-fight.json) |
 | Troy: The Red Winged Hero | 314525 | [314525-troy-the-red-winged-hero.json](./314525-troy-the-red-winged-hero.json) |
+| Troy: The Soldier | 290200 | [290200-troy-the-soldier.json](./290200-troy-the-soldier.json) |
 | TRT Bil Bakalım | 380637 | [380637-trt-bil-bakal-m.json](./380637-trt-bil-bakal-m.json) |
 | Tru Or Die: Chiraq | 280850 | [280850-tru-or-die-chiraq.json](./280850-tru-or-die-chiraq.json) |
 | Truants | 155931 | [155931-truants.json](./155931-truants.json) |
