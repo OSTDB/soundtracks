@@ -12836,6 +12836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom II: Onna Shinkan Companion | 202835 | [202835-doom-ii-onna-shinkan-companion.json](./202835-doom-ii-onna-shinkan-companion.json) |
 | Doom II: The Cube | 218052 | [218052-doom-ii-the-cube.json](./218052-doom-ii-the-cube.json) |
 | Doom II: The Sentinel's Lexicon | 202838 | [202838-doom-ii-the-sentinels-lexicon.json](./202838-doom-ii-the-sentinels-lexicon.json) |
+| Doom II: The Way id Did | 269903 | [269903-doom-ii-the-way-id-did.json](./269903-doom-ii-the-way-id-did.json) |
 | Doom III | 319655 | [319655-doom-iii.json](./319655-doom-iii.json) |
 | DooM in the Dark | 115516 | [115516-doom-in-the-dark.json](./115516-doom-in-the-dark.json) |
 | DooM in the Dark 2 | 131323 | [131323-doom-in-the-dark-2.json](./131323-doom-in-the-dark-2.json) |
