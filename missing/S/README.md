@@ -8053,6 +8053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shimmer's Quest: Way of the Whoop | 361076 | [361076-shimmers-quest-way-of-the-whoop.json](./361076-shimmers-quest-way-of-the-whoop.json) |
 | Shimokita Rose & Tears | 303298 | [303298-shimokita-rose-and-tears.json](./303298-shimokita-rose-and-tears.json) |
 | Shimono Masaki no Fishing to Bassing | 38253 | [38253-shimono-masaki-no-fishing-to-bassing.json](./38253-shimono-masaki-no-fishing-to-bassing.json) |
+| Shimotsuke no Yakata | 280563 | [280563-shimotsuke-no-yakata.json](./280563-shimotsuke-no-yakata.json) |
 | Shimura Ken no Bakatono-sama: Bakushou Tenka Touitsu Game | 49779 | [49779-shimura-ken-no-bakatono-sama-bakushou-tenka-touitsu-game.json](./49779-shimura-ken-no-bakatono-sama-bakushou-tenka-touitsu-game.json) |
 | Shin Bakusou Dekotora Densetsu | 60414 | [60414-shin-bakusou-dekotora-densetsu.json](./60414-shin-bakusou-dekotora-densetsu.json) |
 | Shin Bokura no Taiyou: Gyakushuu no Sabata | 49418 | [49418-shin-bokura-no-taiyou-gyakushuu-no-sabata.json](./49418-shin-bokura-no-taiyou-gyakushuu-no-sabata.json) |
@@ -19174,7 +19175,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
