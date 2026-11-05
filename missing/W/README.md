@@ -716,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waning Moon Z | 258118 | [258118-waning-moon-z.json](./258118-waning-moon-z.json) |
 | Wanisan Shooting Game | 296013 | [296013-wanisan-shooting-game.json](./296013-wanisan-shooting-game.json) |
 | Wanking Simulator | 122993 | [122993-wanking-simulator.json](./122993-wanking-simulator.json) |
+| Wanko Mix | 287433 | [287433-wanko-mix.json](./287433-wanko-mix.json) |
 | Wanko to Asobou! Mezase Dog Trainer! | 285664 | [285664-wanko-to-asobou-mezase-dog-trainer.json](./285664-wanko-to-asobou-mezase-dog-trainer.json) |
 | Wanko Wanko Adventure | 336969 | [336969-wanko-wanko-adventure.json](./336969-wanko-wanko-adventure.json) |
 | Wankuru | 242769 | [242769-wankuru.json](./242769-wankuru.json) |
@@ -2469,6 +2470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterworld | 338817 | [338817-waterworld.json](./338817-waterworld.json) |
 | Waterworld | 388690 | [388690-waterworld.json](./388690-waterworld.json) |
 | Waterworld: The Quest for Dry Land | 64847 | [64847-waterworld-the-quest-for-dry-land.json](./64847-waterworld-the-quest-for-dry-land.json) |
+| Wathan Games | 287474 | [287474-wathan-games.json](./287474-wathan-games.json) |
 | Wathitdew Record: Game Studio - Battlefield | 254638 | [254638-wathitdew-record-game-studio-battlefield.json](./254638-wathitdew-record-game-studio-battlefield.json) |
 | Watris | 306037 | [306037-watris.json](./306037-watris.json) |
 | Watson | 276150 | [276150-watson.json](./276150-watson.json) |
