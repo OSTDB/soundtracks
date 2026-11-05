@@ -1765,6 +1765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle World: Agricultural Machinery | 293070 | [293070-jigsaw-puzzle-world-agricultural-machinery.json](./293070-jigsaw-puzzle-world-agricultural-machinery.json) |
 | Jigsaw Puzzle World: Amphibians | 357895 | [357895-jigsaw-puzzle-world-amphibians.json](./357895-jigsaw-puzzle-world-amphibians.json) |
 | Jigsaw Puzzle World: Arachnids | 357896 | [357896-jigsaw-puzzle-world-arachnids.json](./357896-jigsaw-puzzle-world-arachnids.json) |
+| Jigsaw Puzzle World: Asian Food | 289693 | [289693-jigsaw-puzzle-world-asian-food.json](./289693-jigsaw-puzzle-world-asian-food.json) |
 | Jigsaw Puzzle World: Australia | 357907 | [357907-jigsaw-puzzle-world-australia.json](./357907-jigsaw-puzzle-world-australia.json) |
 | Jigsaw Puzzle World: Bakery | 247651 | [247651-jigsaw-puzzle-world-bakery.json](./247651-jigsaw-puzzle-world-bakery.json) |
 | Jigsaw Puzzle World: Bar Drinks | 247627 | [247627-jigsaw-puzzle-world-bar-drinks.json](./247627-jigsaw-puzzle-world-bar-drinks.json) |
