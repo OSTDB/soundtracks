@@ -9982,6 +9982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Sword | 26627 | [26627-guardian-sword.json](./26627-guardian-sword.json) |
 | Guardian Tactics: Deck of the Chosen | 292543 | [292543-guardian-tactics-deck-of-the-chosen.json](./292543-guardian-tactics-deck-of-the-chosen.json) |
 | Guardian Tales | 133433 | [133433-guardian-tales.json](./133433-guardian-tales.json) |
+| Guardian Untold | 267722 | [267722-guardian-untold.json](./267722-guardian-untold.json) |
 | Guardian War | 299352 | [299352-guardian-war.json](./299352-guardian-war.json) |
 | Guardian War | 4314 | [4314-guardian-war.json](./4314-guardian-war.json) |
 | Guardian war VR | 31604 | [31604-guardian-war-vr.json](./31604-guardian-war-vr.json) |
