@@ -7059,6 +7059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Charnel House Trilogy | 19385 | [19385-the-charnel-house-trilogy.json](./19385-the-charnel-house-trilogy.json) |
 | The Chase | 133821 | [133821-the-chase.json](./133821-the-chase.json) |
 | The Chase | 168949 | [168949-the-chase.json](./168949-the-chase.json) |
+| The Chase: Cop Pursuit | 270468 | [270468-the-chase-cop-pursuit.json](./270468-the-chase-cop-pursuit.json) |
 | The Chase: Police Rush | 364815 | [364815-the-chase-police-rush.json](./364815-the-chase-police-rush.json) |
 | The Chase: Ultimate Edition | 138568 | [138568-the-chase-ultimate-edition.json](./138568-the-chase-ultimate-edition.json) |
 | The Chasm | 123752 | [123752-the-chasm.json](./123752-the-chasm.json) |
@@ -9263,6 +9264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Payphone | 351235 | [351235-the-final-payphone.json](./351235-the-final-payphone.json) |
 | The Final Pin | 262277 | [262277-the-final-pin.json](./262277-the-final-pin.json) |
 | The Final Print | 347777 | [347777-the-final-print.json](./347777-the-final-print.json) |
+| The Final Prize is Soup | 270442 | [270442-the-final-prize-is-soup.json](./270442-the-final-prize-is-soup.json) |
 | The Final Rescue | 190918 | [190918-the-final-rescue.json](./190918-the-final-rescue.json) |
 | The Final Round | 139245 | [139245-the-final-round.json](./139245-the-final-round.json) |
 | The Final Round | 19709 | [19709-the-final-round.json](./19709-the-final-round.json) |
@@ -24896,6 +24898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toontown: Corporate Clash | 139366 | [139366-toontown-corporate-clash.json](./139366-toontown-corporate-clash.json) |
 | Toontown: Event Horizon | 377940 | [377940-toontown-event-horizon.json](./377940-toontown-event-horizon.json) |
 | Toontown: The Grindworks | 333930 | [333930-toontown-the-grindworks.json](./333930-toontown-the-grindworks.json) |
+| Toorum's Quest | 270427 | [270427-toorums-quest.json](./270427-toorums-quest.json) |
 | Toot's Race | 108593 | [108593-toots-race.json](./108593-toots-race.json) |
 | Tooth and Claw | 81057 | [81057-tooth-and-claw.json](./81057-tooth-and-claw.json) |
 | Tooth and Tail | 12519 | [12519-tooth-and-tail.json](./12519-tooth-and-tail.json) |
