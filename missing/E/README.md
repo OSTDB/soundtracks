@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports WRC | 264412 | [264412-ea-sports-wrc.json](./264412-ea-sports-wrc.json) |
 | EA Sports WRC 24 | 319197 | [319197-ea-sports-wrc-24.json](./319197-ea-sports-wrc-24.json) |
 | EA Star Wars Triple Bundle | 164777 | [164777-ea-star-wars-triple-bundle.json](./164777-ea-star-wars-triple-bundle.json) |
+| EA Strategy Collection | 281792 | [281792-ea-strategy-collection.json](./281792-ea-strategy-collection.json) |
 | Each Other | 224717 | [224717-each-other.json](./224717-each-other.json) |
 | Eador: Imperium | 19404 | [19404-eador-imperium.json](./19404-eador-imperium.json) |
 | Eador: Masters of the Broken World | 7719 | [7719-eador-masters-of-the-broken-world.json](./7719-eador-masters-of-the-broken-world.json) |
@@ -4000,6 +4001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigma Express: Hidden Objects | 233629 | [233629-enigma-express-hidden-objects.json](./233629-enigma-express-hidden-objects.json) |
 | Enigma Force | 14055 | [14055-enigma-force.json](./14055-enigma-force.json) |
 | Enigma Heart | 351000 | [351000-enigma-heart.json](./351000-enigma-heart.json) |
+| Enigma II | 281823 | [281823-enigma-ii.json](./281823-enigma-ii.json) |
 | Enigma Manor | 250979 | [250979-enigma-manor.json](./250979-enigma-manor.json) |
 | Enigma of Forest | 302393 | [302393-enigma-of-forest.json](./302393-enigma-of-forest.json) |
 | Enigma of Sector Sigma | 262986 | [262986-enigma-of-sector-sigma.json](./262986-enigma-of-sector-sigma.json) |
