@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | O | 336452 | [336452-o.json](./336452-o.json) |
+| O Aventureiro | 246732 | [246732-o-aventureiro.json](./246732-o-aventureiro.json) |
 | O Conde de Monte Cristo | 293914 | [293914-o-conde-de-monte-cristo.json](./293914-o-conde-de-monte-cristo.json) |
 | O Conto de Ada | 307229 | [307229-o-conto-de-ada.json](./307229-o-conto-de-ada.json) |
 | O Empire! Ward off Thy Rot | 399039 | [399039-o-empire-ward-off-thy-rot.json](./399039-o-empire-ward-off-thy-rot.json) |
@@ -1497,6 +1498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old World: The Sacred and The Profane | 231188 | [231188-old-world-the-sacred-and-the-profane.json](./231188-old-world-the-sacred-and-the-profane.json) |
 | Old World: Wrath of Gods | 330024 | [330024-old-world-wrath-of-gods.json](./330024-old-world-wrath-of-gods.json) |
 | Old Young: RPG Mini | 331922 | [331922-old-young-rpg-mini.json](./331922-old-young-rpg-mini.json) |
+| Old-Fashioned Way to Die | 246701 | [246701-old-fashioned-way-to-die.json](./246701-old-fashioned-way-to-die.json) |
 | Oldage | 72353 | [72353-oldage.json](./72353-oldage.json) |
 | Oldage: Tactics Online | 74823 | [74823-oldage-tactics-online.json](./74823-oldage-tactics-online.json) |
 | OldBerserker | 180760 | [180760-oldberserker.json](./180760-oldberserker.json) |
