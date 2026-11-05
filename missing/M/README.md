@@ -6794,6 +6794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medi-Cooker | 360489 | [360489-medi-cooker.json](./360489-medi-cooker.json) |
 | Media Basket Manager | 415240 | [415240-media-basket-manager.json](./415240-media-basket-manager.json) |
 | Media Circus | 361829 | [361829-media-circus.json](./361829-media-circus.json) |
+| Media Is Dead. You Are Alive. | 274286 | [274286-media-is-dead-you-are-alive.json](./274286-media-is-dead-you-are-alive.json) |
 | MediAevi | 383479 | [383479-mediaevi.json](./383479-mediaevi.json) |
 | Medial | 225967 | [225967-medial.json](./225967-medial.json) |
 | Median XL | 136102 | [136102-median-xl.json](./136102-median-xl.json) |
@@ -14395,6 +14396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moe Moe 2-ji Daisenryaku | 288207 | [288207-moe-moe-2-ji-daisenryaku.json](./288207-moe-moe-2-ji-daisenryaku.json) |
 | Moe Moe 2-Ji Daisenryaku 3 | 83310 | [83310-moe-moe-2-ji-daisenryaku-3.json](./83310-moe-moe-2-ji-daisenryaku-3.json) |
 | Moe Moe Daisensou * Gendaiban++ | 44579 | [44579-moe-moe-daisensou-gendaiban.json](./44579-moe-moe-daisensou-gendaiban.json) |
+| Moe Moe Daisensou Gendaiban | 274232 | [274232-moe-moe-daisensou-gendaiban.json](./274232-moe-moe-daisensou-gendaiban.json) |
 | Moe Moe Daiundoukai | 341245 | [341245-moe-moe-daiundoukai.json](./341245-moe-moe-daiundoukai.json) |
 | Moe Moe World War II-3 | 120374 | [120374-moe-moe-world-war-ii-3.json](./120374-moe-moe-world-war-ii-3.json) |
 | Moe Moe World War II-3: Deluxe Edition | 128903 | [128903-moe-moe-world-war-ii-3-deluxe-edition.json](./128903-moe-moe-world-war-ii-3-deluxe-edition.json) |
@@ -20585,6 +20587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Recycling Center: Container Truck Expansion | 298131 | [298131-my-recycling-center-container-truck-expansion.json](./298131-my-recycling-center-container-truck-expansion.json) |
 | My Recycling Center: Resources Trading Expansion | 358250 | [358250-my-recycling-center-resources-trading-expansion.json](./358250-my-recycling-center-resources-trading-expansion.json) |
 | My Rental Girlfriend | 205819 | [205819-my-rental-girlfriend.json](./205819-my-rental-girlfriend.json) |
+| My Rental Girlfriend Next | 274234 | [274234-my-rental-girlfriend-next.json](./274234-my-rental-girlfriend-next.json) |
 | My Resume: The Video Game | 88014 | [88014-my-resume-the-video-game.json](./88014-my-resume-the-video-game.json) |
 | My Retail Store | 155927 | [155927-my-retail-store.json](./155927-my-retail-store.json) |
 | My Retro World | 374823 | [374823-my-retro-world.json](./374823-my-retro-world.json) |
