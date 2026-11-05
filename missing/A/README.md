@@ -5447,6 +5447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airline | 15592 | [15592-airline.json](./15592-airline.json) |
 | Airline | 319565 | [319565-airline.json](./319565-airline.json) |
 | Airline 69 II: Krasser's Revenge | 134571 | [134571-airline-69-ii-krassers-revenge.json](./134571-airline-69-ii-krassers-revenge.json) |
+| Airline Boss | 289123 | [289123-airline-boss.json](./289123-airline-boss.json) |
 | Airline Commander | 106592 | [106592-airline-commander.json](./106592-airline-commander.json) |
 | Airline Commander: A Real Flight Experience | 106598 | [106598-airline-commander-a-real-flight-experience.json](./106598-airline-commander-a-real-flight-experience.json) |
 | Airline Empire: Stewardess Simulator | 370786 | [370786-airline-empire-stewardess-simulator.json](./370786-airline-empire-stewardess-simulator.json) |
@@ -5862,6 +5863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akuji the Heartless | 4145 | [4145-akuji-the-heartless.json](./4145-akuji-the-heartless.json) |
 | Akujo Densetsu | 71902 | [71902-akujo-densetsu.json](./71902-akujo-densetsu.json) |
 | Akuma | 201835 | [201835-akuma.json](./201835-akuma.json) |
+| Akuma Mortis Immortal | 289153 | [289153-akuma-mortis-immortal.json](./289153-akuma-mortis-immortal.json) |
 | Akuma No Akumu: Ar Eq-Kua Er Seta | 338133 | [338133-akuma-no-akumu-ar-eq-kua-er-seta.json](./338133-akuma-no-akumu-ar-eq-kua-er-seta.json) |
 | Akuma no Shinpan | 307961 | [307961-akuma-no-shinpan.json](./307961-akuma-no-shinpan.json) |
 | Akuma Ouji to Ayatsuri Ningyou | 242068 | [242068-akuma-ouji-to-ayatsuri-ningyou.json](./242068-akuma-ouji-to-ayatsuri-ningyou.json) |
@@ -8376,6 +8378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Sign Language Tutor | 94948 | [94948-american-sign-language-tutor.json](./94948-american-sign-language-tutor.json) |
 | American Soccer | 41806 | [41806-american-soccer.json](./41806-american-soccer.json) |
 | American Speedway | 38524 | [38524-american-speedway.json](./38524-american-speedway.json) |
+| American Success | 289047 | [289047-american-success.json](./289047-american-success.json) |
 | American Tag-Team Wrestling | 11899 | [11899-american-tag-team-wrestling.json](./11899-american-tag-team-wrestling.json) |
 | American Theft 80s | 168610 | [168610-american-theft-80s.json](./168610-american-theft-80s.json) |
 | American Truck | 94398 | [94398-american-truck.json](./94398-american-truck.json) |
@@ -9101,6 +9104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancings: The First Tournament | 283902 | [283902-ancings-the-first-tournament.json](./283902-ancings-the-first-tournament.json) |
 | Ancipital | 13801 | [13801-ancipital.json](./13801-ancipital.json) |
 | Ancra | 178235 | [178235-ancra.json](./178235-ancra.json) |
+| Ancraophobia | 289148 | [289148-ancraophobia.json](./289148-ancraophobia.json) |
 | AND 1 Streetball | 5726 | [5726-and-1-streetball.json](./5726-and-1-streetball.json) |
 | And All Is Well | 184727 | [184727-and-all-is-well.json](./184727-and-all-is-well.json) |
 | And All That Could Have Been | 271055 | [271055-and-all-that-could-have-been.json](./271055-and-all-that-could-have-been.json) |
@@ -13056,6 +13060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arel Wars | 38727 | [38727-arel-wars.json](./38727-arel-wars.json) |
 | Arelite Core: Horse Armor | 156140 | [156140-arelite-core-horse-armor.json](./156140-arelite-core-horse-armor.json) |
 | Arelt City | 138456 | [138456-arelt-city.json](./138456-arelt-city.json) |
+| Aren't Grim Reapers Supposed to be Scary | 289048 | [289048-arent-grim-reapers-supposed-to-be-scary.json](./289048-arent-grim-reapers-supposed-to-be-scary.json) |
 | Aren't You Overcompensating for Something? | 225804 | [225804-arent-you-overcompensating-for-something.json](./225804-arent-you-overcompensating-for-something.json) |
 | Arena | 100544 | [100544-arena.json](./100544-arena.json) |
 | Arena | 133066 | [133066-arena.json](./133066-arena.json) |
@@ -13382,6 +13387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark: Valguero Ascended | 377895 | [377895-ark-valguero-ascended.json](./377895-ark-valguero-ascended.json) |
 | Ark's Wonder Dungeon | 321588 | [321588-arks-wonder-dungeon.json](./321588-arks-wonder-dungeon.json) |
 | Arka Kraya | 396282 | [396282-arka-kraya.json](./396282-arka-kraya.json) |
+| Arkade Rush | 289131 | [289131-arkade-rush.json](./289131-arkade-rush.json) |
 | Arkadia | 193835 | [193835-arkadia.json](./193835-arkadia.json) |
 | Arkadia | 338155 | [338155-arkadia.json](./338155-arkadia.json) |
 | Arkadian Warriors | 21867 | [21867-arkadian-warriors.json](./21867-arkadian-warriors.json) |
@@ -16425,6 +16431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atop the Witch's Tower GB | 311017 | [311017-atop-the-witchs-tower-gb.json](./311017-atop-the-witchs-tower-gb.json) |
 | Atop the Witch's Tower WS | 341704 | [341704-atop-the-witchs-tower-ws.json](./341704-atop-the-witchs-tower-ws.json) |
 | Atopes | 167359 | [167359-atopes.json](./167359-atopes.json) |
+| Atoz | 289120 | [289120-atoz.json](./289120-atoz.json) |
 | ATP Tour Championship Tennis | 46234 | [46234-atp-tour-championship-tennis.json](./46234-atp-tour-championship-tennis.json) |
 | ATP Tour Simulator | 391418 | [391418-atp-tour-simulator.json](./391418-atp-tour-simulator.json) |
 | ATR: All Terrain Racing | 11924 | [11924-atr-all-terrain-racing.json](./11924-atr-all-terrain-racing.json) |
