@@ -3834,6 +3834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just 15 minutes | 151594 | [151594-just-15-minutes.json](./151594-just-15-minutes.json) |
 | Just 2048 | 89579 | [89579-just-2048.json](./89579-just-2048.json) |
 | Just a ball: Jumping in the space | 196478 | [196478-just-a-ball-jumping-in-the-space.json](./196478-just-a-ball-jumping-in-the-space.json) |
+| Just a Boat Trip | 254831 | [254831-just-a-boat-trip.json](./254831-just-a-boat-trip.json) |
 | Just a Button | 63178 | [63178-just-a-button.json](./63178-just-a-button.json) |
 | Just a Chest | 212128 | [212128-just-a-chest.json](./212128-just-a-chest.json) |
 | Just a Cleric | 32759 | [32759-just-a-cleric.json](./32759-just-a-cleric.json) |
