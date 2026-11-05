@@ -7092,6 +7092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai III | 38249 | [38249-shanghai-iii.json](./38249-shanghai-iii.json) |
 | Shanghai Karate | 47216 | [47216-shanghai-karate.json](./47216-shanghai-karate.json) |
 | Shanghai Kid | 38571 | [38571-shanghai-kid.json](./38571-shanghai-kid.json) |
+| Shanghai Legend | 278201 | [278201-shanghai-legend.json](./278201-shanghai-legend.json) |
 | Shanghai Mahjong | 205088 | [205088-shanghai-mahjong.json](./205088-shanghai-mahjong.json) |
 | Shanghai Mahjong Solitaire Premium II | 323112 | [323112-shanghai-mahjong-solitaire-premium-ii.json](./323112-shanghai-mahjong-solitaire-premium-ii.json) |
 | Shanghai Musume: Mahjong Girls | 58523 | [58523-shanghai-musume-mahjong-girls.json](./58523-shanghai-musume-mahjong-girls.json) |
@@ -13757,6 +13758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slurpee x Tetris Handheld Game | 365005 | [365005-slurpee-x-tetris-handheld-game.json](./365005-slurpee-x-tetris-handheld-game.json) |
 | Slurpy | 25712 | [25712-slurpy.json](./25712-slurpy.json) |
 | Slurpy Derpy | 95935 | [95935-slurpy-derpy.json](./95935-slurpy-derpy.json) |
+| Slush Invaders: Game | 278199 | [278199-slush-invaders-game.json](./278199-slush-invaders-game.json) |
 | Slut Nurses | 371398 | [371398-slut-nurses.json](./371398-slut-nurses.json) |
 | Slut Squad | 385808 | [385808-slut-squad.json](./385808-slut-squad.json) |
 | SlutWitch's Atelier | 83163 | [83163-slutwitchs-atelier.json](./83163-slutwitchs-atelier.json) |
@@ -18792,6 +18794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Battlecruiser | 99047 | [99047-space-battlecruiser.json](./99047-space-battlecruiser.json) |
 | Space Battlefield | 187979 | [187979-space-battlefield.json](./187979-space-battlefield.json) |
 | Space Battles | 80631 | [80631-space-battles.json](./80631-space-battles.json) |
+| Space Battleship Yamato: Eiyuu no Kiseki | 278227 | [278227-space-battleship-yamato-eiyuu-no-kiseki.json](./278227-space-battleship-yamato-eiyuu-no-kiseki.json) |
 | Space Beam | 277882 | [277882-space-beam.json](./277882-space-beam.json) |
 | Space Bear | 128946 | [128946-space-bear.json](./128946-space-bear.json) |
 | Space Beast Terror Fright | 35528 | [35528-space-beast-terror-fright.json](./35528-space-beast-terror-fright.json) |
@@ -20481,6 +20484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Boat | 217689 | [217689-speed-boat.json](./217689-speed-boat.json) |
 | Speed Boat | 245148 | [245148-speed-boat.json](./245148-speed-boat.json) |
 | Speed Box | 105132 | [105132-speed-box.json](./105132-speed-box.json) |
+| Speed Box | 278241 | [278241-speed-box.json](./278241-speed-box.json) |
 | Speed Brawl | 101460 | [101460-speed-brawl.json](./101460-speed-brawl.json) |
 | Speed Bubble | 360287 | [360287-speed-bubble.json](./360287-speed-bubble.json) |
 | Speed Builder | 117672 | [117672-speed-builder.json](./117672-speed-builder.json) |
