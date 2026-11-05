@@ -11302,6 +11302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sins of Sinister: The Viscera-Eater | 403645 | [403645-sins-of-sinister-the-viscera-eater.json](./403645-sins-of-sinister-the-viscera-eater.json) |
 | Sins of the Demon RPG | 33004 | [33004-sins-of-the-demon-rpg.json](./33004-sins-of-the-demon-rpg.json) |
 | Sins of the Everlasting Twilight | 298995 | [298995-sins-of-the-everlasting-twilight.json](./298995-sins-of-the-everlasting-twilight.json) |
+| Sins of Treatment | 275362 | [275362-sins-of-treatment.json](./275362-sins-of-treatment.json) |
 | Sins OV Cigar | 294944 | [294944-sins-ov-cigar.json](./294944-sins-ov-cigar.json) |
 | Sinsations | 182269 | [182269-sinsations.json](./182269-sinsations.json) |
 | Sinsations 2: Modern Gods | 332432 | [332432-sinsations-2-modern-gods.json](./332432-sinsations-2-modern-gods.json) |
@@ -19325,6 +19326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Kahuna | 180582 | [180582-space-kahuna.json](./180582-space-kahuna.json) |
 | Space Kettle | 167515 | [167515-space-kettle.json](./167515-space-kettle.json) |
 | Space Kids | 69806 | [69806-space-kids.json](./69806-space-kids.json) |
+| Space Killer | 275391 | [275391-space-killer.json](./275391-space-killer.json) |
 | Space King | 98247 | [98247-space-king.json](./98247-space-king.json) |
 | Space King-2 | 137275 | [137275-space-king-2.json](./137275-space-king-2.json) |
 | Space Kitten: An Easy Survival Game | 338272 | [338272-space-kitten-an-easy-survival-game.json](./338272-space-kitten-an-easy-survival-game.json) |
@@ -20980,6 +20982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spend Bill Gates' Money | 409850 | [409850-spend-bill-gates-money.json](./409850-spend-bill-gates-money.json) |
 | Spend the Night with Kitty | 288122 | [288122-spend-the-night-with-kitty.json](./288122-spend-the-night-with-kitty.json) |
 | Spent | 174177 | [174177-spent.json](./174177-spent.json) |
+| Spent Shells | 275383 | [275383-spent-shells.json](./275383-spent-shells.json) |
 | Spere Jongg | 208786 | [208786-spere-jongg.json](./208786-spere-jongg.json) |
 | Sperm Into Labia | 310742 | [310742-sperm-into-labia.json](./310742-sperm-into-labia.json) |
 | Sperma | 232698 | [232698-sperma.json](./232698-sperma.json) |
@@ -25324,6 +25327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Still | 230470 | [230470-stay-still.json](./230470-stay-still.json) |
 | Stay Still 2 | 264156 | [264156-stay-still-2.json](./264156-stay-still-2.json) |
 | Stay Tooned! | 13786 | [13786-stay-tooned.json](./13786-stay-tooned.json) |
+| Stay Up! | 275384 | [275384-stay-up.json](./275384-stay-up.json) |
 | Stay With Him | 415505 | [415505-stay-with-him.json](./415505-stay-with-him.json) |
 | Stay With Me | 184308 | [184308-stay-with-me.json](./184308-stay-with-me.json) |
 | Stay With Me | 399358 | [399358-stay-with-me.json](./399358-stay-with-me.json) |
@@ -29055,6 +29059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suika and Dragons | 339552 | [339552-suika-and-dragons.json](./339552-suika-and-dragons.json) |
 | Suika Animal Kingdom | 322066 | [322066-suika-animal-kingdom.json](./322066-suika-animal-kingdom.json) |
 | Suika Combination | 271153 | [271153-suika-combination.json](./271153-suika-combination.json) |
+| Suika Dish | 275374 | [275374-suika-dish.json](./275374-suika-dish.json) |
 | Suika Dish More Plates | 276166 | [276166-suika-dish-more-plates.json](./276166-suika-dish-more-plates.json) |
 | Suika Game | 221740 | [221740-suika-game.json](./221740-suika-game.json) |
 | Suika Game But Bouncy | 300536 | [300536-suika-game-but-bouncy.json](./300536-suika-game-but-bouncy.json) |
@@ -33232,6 +33237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Warrior | 4291 | [4291-supreme-warrior.json](./4291-supreme-warrior.json) |
 | Supreme: Pizza Empire | 17742 | [17742-supreme-pizza-empire.json](./17742-supreme-pizza-empire.json) |
 | Suprotyv | 402376 | [402376-suprotyv.json](./402376-suprotyv.json) |
+| Supurr Cat Cafe: Sandwich Rush | 275378 | [275378-supurr-cat-cafe-sandwich-rush.json](./275378-supurr-cat-cafe-sandwich-rush.json) |
 | Suqare: Hired Gun | 333171 | [333171-suqare-hired-gun.json](./333171-suqare-hired-gun.json) |
 | Sur | 159127 | [159127-sur.json](./159127-sur.json) |
 | Sur LC | 287564 | [287564-sur-lc.json](./287564-sur-lc.json) |
