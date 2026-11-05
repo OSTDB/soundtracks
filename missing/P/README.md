@@ -4020,6 +4020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penny Arcade's On the Rain-Slick Precipice of Darkness 3 | 14980 | [14980-penny-arcades-on-the-rain-slick-precipice-of-darkness-3.json](./14980-penny-arcades-on-the-rain-slick-precipice-of-darkness-3.json) |
 | Penny Black | 100651 | [100651-penny-black.json](./100651-penny-black.json) |
 | Penny Blood | 214912 | [214912-penny-blood.json](./214912-penny-blood.json) |
+| Penny Blood: Hellbound | 278783 | [278783-penny-blood-hellbound.json](./278783-penny-blood-hellbound.json) |
 | Penny Dell Jumbo Crosswords | 89199 | [89199-penny-dell-jumbo-crosswords.json](./89199-penny-dell-jumbo-crosswords.json) |
 | Penny Dell Jumbo Crosswords 2 | 204494 | [204494-penny-dell-jumbo-crosswords-2.json](./204494-penny-dell-jumbo-crosswords-2.json) |
 | Penny Dell Jumbo Crosswords 3 | 99324 | [99324-penny-dell-jumbo-crosswords-3.json](./99324-penny-dell-jumbo-crosswords-3.json) |
@@ -6930,6 +6931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Soccer '98 | 66494 | [66494-pinball-soccer-98.json](./66494-pinball-soccer-98.json) |
 | Pinball Soccer World | 354475 | [354475-pinball-soccer-world.json](./354475-pinball-soccer-world.json) |
 | Pinball Spectacular | 61308 | [61308-pinball-spectacular.json](./61308-pinball-spectacular.json) |
+| Pinball Spire | 278785 | [278785-pinball-spire.json](./278785-pinball-spire.json) |
 | Pinball Spire x 9 Years of Shadows | 396120 | [396120-pinball-spire-x-9-years-of-shadows.json](./396120-pinball-spire-x-9-years-of-shadows.json) |
 | Pinball Storm: Lokanta | 295212 | [295212-pinball-storm-lokanta.json](./295212-pinball-storm-lokanta.json) |
 | Pinball Strike Arcade Rampage | 377720 | [377720-pinball-strike-arcade-rampage.json](./377720-pinball-strike-arcade-rampage.json) |
@@ -11011,6 +11013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Mystery Dungeon: Special Episode 0 - In A Dark Past | 298965 | [298965-pokemon-mystery-dungeon-special-episode-0-in-a-dark-past.json](./298965-pokemon-mystery-dungeon-special-episode-0-in-a-dark-past.json) |
 | Pokémon Mystery Dungeon: Turnabout Dimension | 210550 | [210550-pokemon-mystery-dungeon-turnabout-dimension.json](./210550-pokemon-mystery-dungeon-turnabout-dimension.json) |
 | Pokémon Mystery Dungeon: Wigglytuff's Bizarre Adventure | 380501 | [380501-pokemon-mystery-dungeon-wigglytuffs-bizarre-adventure.json](./380501-pokemon-mystery-dungeon-wigglytuffs-bizarre-adventure.json) |
+| Pokémon Mystery Universe | 278775 | [278775-pokemon-mystery-universe.json](./278775-pokemon-mystery-universe.json) |
 | Pokémon Myth | 266156 | [266156-pokemon-myth.json](./266156-pokemon-myth.json) |
 | Pokémon Myth 2 | 415745 | [415745-pokemon-myth-2.json](./415745-pokemon-myth-2.json) |
 | Pokémon Mythic Silver | 337425 | [337425-pokemon-mythic-silver.json](./337425-pokemon-mythic-silver.json) |
@@ -15927,6 +15930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project_8 | 387524 | [387524-project-8.json](./387524-project-8.json) |
 | Project_Arktik | 410881 | [410881-project-arktik.json](./410881-project-arktik.json) |
 | Project_Escape | 133418 | [133418-project-escape.json](./133418-project-escape.json) |
+| Project_Y: Working Title | 278787 | [278787-project-y-working-title.json](./278787-project-y-working-title.json) |
 | Project-Blemmyes | 172704 | [172704-project-blemmyes.json](./172704-project-blemmyes.json) |
 | Project-X | 12197 | [12197-project-x.json](./12197-project-x.json) |
 | Project-X Special Edition & F17 Challenge | 71537 | [71537-project-x-special-edition-and-f17-challenge.json](./71537-project-x-special-edition-and-f17-challenge.json) |
