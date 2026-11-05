@@ -2222,6 +2222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Bomberman | 198218 | [198218-3d-bomberman.json](./198218-3d-bomberman.json) |
 | 3D Bomberman Atomic | 198214 | [198214-3d-bomberman-atomic.json](./198214-3d-bomberman-atomic.json) |
 | 3D Bowling | 281224 | [281224-3d-bowling.json](./281224-3d-bowling.json) |
+| 3D Bowling | 297677 | [297677-3d-bowling.json](./297677-3d-bowling.json) |
 | 3D Bowling Master | 105848 | [105848-3d-bowling-master.json](./105848-3d-bowling-master.json) |
 | 3D Boxing | 12980 | [12980-3d-boxing.json](./12980-3d-boxing.json) |
 | 3D Breakthru | 14149 | [14149-3d-breakthru.json](./14149-3d-breakthru.json) |
