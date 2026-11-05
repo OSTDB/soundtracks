@@ -1372,6 +1372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 19XX: The War Against Destiny | 6078 | [6078-19xx-the-war-against-destiny.json](./6078-19xx-the-war-against-destiny.json) |
 | 1B Spells | 248318 | [248318-1b-spells.json](./248318-1b-spells.json) |
 | 1Bit Castle | 124702 | [124702-1bit-castle.json](./124702-1bit-castle.json) |
+| 1Bit Castle: Remake | 296672 | [296672-1bit-castle-remake.json](./296672-1bit-castle-remake.json) |
 | 1Boss1Battle1Button | 421219 | [421219-1boss1battle1button.json](./421219-1boss1battle1button.json) |
 | 1CC Games Shmup Collection | 192046 | [192046-1cc-games-shmup-collection.json](./192046-1cc-games-shmup-collection.json) |
 | 1Check | 94519 | [94519-1check.json](./94519-1check.json) |
@@ -2974,6 +2975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 615≠0 Repost Request | 394069 | [394069-615-0-repost-request.json](./394069-615-0-repost-request.json) |
 | 6180 The Moon | 11435 | [11435-6180-the-moon.json](./11435-6180-the-moon.json) |
 | 625 Sandwich Stacker | 133765 | [133765-625-sandwich-stacker.json](./133765-625-sandwich-stacker.json) |
+| 63 Days | 296541 | [296541-63-days.json](./296541-63-days.json) |
 | 63 Days: The Home Army Edition | 323899 | [323899-63-days-the-home-army-edition.json](./323899-63-days-the-home-army-edition.json) |
 | 64 GB: Not 2048 | 232493 | [232493-64-gb-not-2048.json](./232493-64-gb-not-2048.json) |
 | 64 Hanafuda: Tenshi no Yakusoku | 47682 | [47682-64-hanafuda-tenshi-no-yakusoku.json](./47682-64-hanafuda-tenshi-no-yakusoku.json) |
@@ -3213,6 +3215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-Bit RPG Creator | 257266 | [257266-8-bit-rpg-creator.json](./257266-8-bit-rpg-creator.json) |
 | 8-Bit RPG Creator: Cuddly Creatures | 288683 | [288683-8-bit-rpg-creator-cuddly-creatures.json](./288683-8-bit-rpg-creator-cuddly-creatures.json) |
 | 8-Bit RPG Creator: Zombies Attack! | 288682 | [288682-8-bit-rpg-creator-zombies-attack.json](./288682-8-bit-rpg-creator-zombies-attack.json) |
+| 8-Bit RTS Series: Complete Collection | 296560 | [296560-8-bit-rts-series-complete-collection.json](./296560-8-bit-rts-series-complete-collection.json) |
 | 8-Bit Slasher 4-in-1 Horror Demakes | 237312 | [237312-8-bit-slasher-4-in-1-horror-demakes.json](./237312-8-bit-slasher-4-in-1-horror-demakes.json) |
 | 8-Bit Slasher 4-in-1 Horror Demakes | 255083 | [255083-8-bit-slasher-4-in-1-horror-demakes.json](./255083-8-bit-slasher-4-in-1-horror-demakes.json) |
 | 8-Bit Waterslide | 101105 | [101105-8-bit-waterslide.json](./101105-8-bit-waterslide.json) |
