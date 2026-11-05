@@ -483,12 +483,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelda II: Amida's Curse | 214470 | [214470-zelda-ii-amidas-curse.json](./214470-zelda-ii-amidas-curse.json) |
 | Zelda II: Boss Endurance | 280757 | [280757-zelda-ii-boss-endurance.json](./280757-zelda-ii-boss-endurance.json) |
 | Zelda II: End of Day | 144640 | [144640-zelda-ii-end-of-day.json](./144640-zelda-ii-end-of-day.json) |
+| Zelda II: Life is Meaningless | 269897 | [269897-zelda-ii-life-is-meaningless.json](./269897-zelda-ii-life-is-meaningless.json) |
+| Zelda II: Ocarina of Time | 269898 | [269898-zelda-ii-ocarina-of-time.json](./269898-zelda-ii-ocarina-of-time.json) |
 | Zelda II: Paracosm | 305342 | [305342-zelda-ii-paracosm.json](./305342-zelda-ii-paracosm.json) |
 | Zelda II: Resurrection of Ganon | 339257 | [339257-zelda-ii-resurrection-of-ganon.json](./339257-zelda-ii-resurrection-of-ganon.json) |
 | Zelda II: The Adventure of Link Randomizer | 241862 | [241862-zelda-ii-the-adventure-of-link-randomizer.json](./241862-zelda-ii-the-adventure-of-link-randomizer.json) |
 | Zelda II: The Adventure of Link SNES | 377747 | [377747-zelda-ii-the-adventure-of-link-snes.json](./377747-zelda-ii-the-adventure-of-link-snes.json) |
 | Zelda II: The Adventure of Mario | 408731 | [408731-zelda-ii-the-adventure-of-mario.json](./408731-zelda-ii-the-adventure-of-mario.json) |
 | Zelda II: The Nightmare of Ganon | 215167 | [215167-zelda-ii-the-nightmare-of-ganon.json](./215167-zelda-ii-the-nightmare-of-ganon.json) |
+| Zelda II: The Triforce of Courage | 269899 | [269899-zelda-ii-the-triforce-of-courage.json](./269899-zelda-ii-the-triforce-of-courage.json) |
 | Zelda III: Hyrule Explorer | 219085 | [219085-zelda-iii-hyrule-explorer.json](./219085-zelda-iii-hyrule-explorer.json) |
 | Zelda Mini | 282369 | [282369-zelda-mini.json](./282369-zelda-mini.json) |
 | Zelda Mobile | 28864 | [28864-zelda-mobile.json](./28864-zelda-mobile.json) |
@@ -497,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelda: Forest of the Lost Soul | 315028 | [315028-zelda-forest-of-the-lost-soul.json](./315028-zelda-forest-of-the-lost-soul.json) |
 | Zelda: Interconnected Strongholds | 249397 | [249397-zelda-interconnected-strongholds.json](./249397-zelda-interconnected-strongholds.json) |
 | Zelda: Meadow of Shadows | 248290 | [248290-zelda-meadow-of-shadows.json](./248290-zelda-meadow-of-shadows.json) |
+| Zelda: Sacred Paradox | 269916 | [269916-zelda-sacred-paradox.json](./269916-zelda-sacred-paradox.json) |
 | Zelda: The Wand of Gamelon | 8533 | [8533-zelda-the-wand-of-gamelon.json](./8533-zelda-the-wand-of-gamelon.json) |
 | Zelda's Adventure | 248106 | [248106-zeldas-adventure.json](./248106-zeldas-adventure.json) |
 | Zelda's Adventure | 8534 | [8534-zeldas-adventure.json](./8534-zeldas-adventure.json) |
