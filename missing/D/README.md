@@ -7250,6 +7250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desperados III: Money for the Vultures - Part 2: Five Steps Ahead | 152235 | [152235-desperados-iii-money-for-the-vultures-part-2-five-steps-ahead.json](./152235-desperados-iii-money-for-the-vultures-part-2-five-steps-ahead.json) |
 | Desperados III: Money for the Vultures - Part 3: Once More With Feeling | 152236 | [152236-desperados-iii-money-for-the-vultures-part-3-once-more-with-feeling.json](./152236-desperados-iii-money-for-the-vultures-part-3-once-more-with-feeling.json) |
 | Desperados: Wanted Dead or Alive | 7260 | [7260-desperados-wanted-dead-or-alive.json](./7260-desperados-wanted-dead-or-alive.json) |
+| DesperaDrops | 273614 | [273614-desperadrops.json](./273614-desperadrops.json) |
 | Desperate 1: After Sunset | 323235 | [323235-desperate-1-after-sunset.json](./323235-desperate-1-after-sunset.json) |
 | Desperate Defence | 115433 | [115433-desperate-defence.json](./115433-desperate-defence.json) |
 | Desperate Escape | 282830 | [282830-desperate-escape.json](./282830-desperate-escape.json) |
@@ -9815,6 +9816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Drivin' | 92398 | [92398-disc-drivin.json](./92398-disc-drivin.json) |
 | Disc Drivin' 2 | 87366 | [87366-disc-drivin-2.json](./87366-disc-drivin-2.json) |
 | Disc Frenzy | 296720 | [296720-disc-frenzy.json](./296720-disc-frenzy.json) |
+| Disc Golf | 273694 | [273694-disc-golf.json](./273694-disc-golf.json) |
 | Disc Golf | 67809 | [67809-disc-golf.json](./67809-disc-golf.json) |
 | Disc Golf 3D | 89808 | [89808-disc-golf-3d.json](./89808-disc-golf-3d.json) |
 | Disc Golf Adventure 2 VR | 148481 | [148481-disc-golf-adventure-2-vr.json](./148481-disc-golf-adventure-2-vr.json) |
