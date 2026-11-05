@@ -4097,12 +4097,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Picross X | 308707 | [308707-marios-picross-x.json](./308707-marios-picross-x.json) |
 | Mario's Point and Click 64 | 300267 | [300267-marios-point-and-click-64.json](./300267-marios-point-and-click-64.json) |
 | Mario's Pride: Mini Quest | 254516 | [254516-marios-pride-mini-quest.json](./254516-marios-pride-mini-quest.json) |
+| Mario's Return | 277073 | [277073-marios-return.json](./277073-marios-return.json) |
 | Mario's Rules: Variety on 3 | 323748 | [323748-marios-rules-variety-on-3.json](./323748-marios-rules-variety-on-3.json) |
 | Mario's Run | 318937 | [318937-marios-run.json](./318937-marios-run.json) |
 | Mario's Run | 320221 | [320221-marios-run.json](./320221-marios-run.json) |
 | Mario's Slightly Unusual Boss Rush | 318497 | [318497-marios-slightly-unusual-boss-rush.json](./318497-marios-slightly-unusual-boss-rush.json) |
 | Mario's Slightly Unusual Boss Rush: v2.0 Release | 381850 | [381850-marios-slightly-unusual-boss-rush-v2-0-release.json](./381850-marios-slightly-unusual-boss-rush-v2-0-release.json) |
 | Mario's Star Quest 2 | 315014 | [315014-marios-star-quest-2.json](./315014-marios-star-quest-2.json) |
+| Mario's Strange Quest | 277072 | [277072-marios-strange-quest.json](./277072-marios-strange-quest.json) |
 | Mario's Super Picross | 80174 | [80174-marios-super-picross.json](./80174-marios-super-picross.json) |
 | Mario's Tennis | 20386 | [20386-marios-tennis.json](./20386-marios-tennis.json) |
 | Mario's Time Machine | 210116 | [210116-marios-time-machine.json](./210116-marios-time-machine.json) |
@@ -16781,6 +16783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 1: Ferra Kameo | 279430 | [279430-mortal-kombat-1-ferra-kameo.json](./279430-mortal-kombat-1-ferra-kameo.json) |
 | Mortal Kombat 1: Ghostface | 312337 | [312337-mortal-kombat-1-ghostface.json](./312337-mortal-kombat-1-ghostface.json) |
 | Mortal Kombat 1: Homelander | 266219 | [266219-mortal-kombat-1-homelander.json](./266219-mortal-kombat-1-homelander.json) |
+| Mortal Kombat 1: Invasions - Season of the Blood Moon | 277096 | [277096-mortal-kombat-1-invasions-season-of-the-blood-moon.json](./277096-mortal-kombat-1-invasions-season-of-the-blood-moon.json) |
 | Mortal Kombat 1: Invasions - Season of the Cryomancer | 288181 | [288181-mortal-kombat-1-invasions-season-of-the-cryomancer.json](./288181-mortal-kombat-1-invasions-season-of-the-cryomancer.json) |
 | Mortal Kombat 1: Invasions - Season of the Huntress | 310607 | [310607-mortal-kombat-1-invasions-season-of-the-huntress.json](./310607-mortal-kombat-1-invasions-season-of-the-huntress.json) |
 | Mortal Kombat 1: Invasions - Season of the Reptile | 311073 | [311073-mortal-kombat-1-invasions-season-of-the-reptile.json](./311073-mortal-kombat-1-invasions-season-of-the-reptile.json) |
