@@ -951,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -12919,6 +12920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bootleg Soldier Azure: Astral Rave | 292028 | [292028-bootleg-soldier-azure-astral-rave.json](./292028-bootleg-soldier-azure-astral-rave.json) |
 | Bootleg Squadrog | 247555 | [247555-bootleg-squadrog.json](./247555-bootleg-squadrog.json) |
 | Bootleg Systems | 32744 | [32744-bootleg-systems.json](./32744-bootleg-systems.json) |
+| Bootlegger: Moonshine Empire | 285807 | [285807-bootlegger-moonshine-empire.json](./285807-bootlegger-moonshine-empire.json) |
 | Bootlegger's Racing Story | 258717 | [258717-bootleggers-racing-story.json](./258717-bootleggers-racing-story.json) |
 | Bootloop | 362055 | [362055-bootloop.json](./362055-bootloop.json) |
 | Bootombaa | 29185 | [29185-bootombaa.json](./29185-bootombaa.json) |
@@ -16566,6 +16568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build City | 91553 | [91553-build-city.json](./91553-build-city.json) |
 | Build Craft 2: Survival & Exploration | 99706 | [99706-build-craft-2-survival-and-exploration.json](./99706-build-craft-2-survival-and-exploration.json) |
 | Build Em' Faster | 156928 | [156928-build-em-faster.json](./156928-build-em-faster.json) |
+| Build Fight Game | 285813 | [285813-build-fight-game.json](./285813-build-fight-game.json) |
 | Build For Sale Simulator | 273377 | [273377-build-for-sale-simulator.json](./273377-build-for-sale-simulator.json) |
 | Build If You Can | 23978 | [23978-build-if-you-can.json](./23978-build-if-you-can.json) |
 | Build in Time | 146489 | [146489-build-in-time.json](./146489-build-in-time.json) |
