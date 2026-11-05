@@ -1748,6 +1748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangent | 92813 | [92813-tangent.json](./92813-tangent.json) |
 | Tangent Rush | 169899 | [169899-tangent-rush.json](./169899-tangent-rush.json) |
 | Tangerine Clicker | 247212 | [247212-tangerine-clicker.json](./247212-tangerine-clicker.json) |
+| Tangerine Nightmare | 259354 | [259354-tangerine-nightmare.json](./259354-tangerine-nightmare.json) |
 | Tangerine Panic | 280213 | [280213-tangerine-panic.json](./280213-tangerine-panic.json) |
 | Tangerine Tycoon | 407521 | [407521-tangerine-tycoon.json](./407521-tangerine-tycoon.json) |
 | Tanggal | 293318 | [293318-tanggal.json](./293318-tanggal.json) |
@@ -2960,6 +2961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Fortress 2: Randomizer | 362981 | [362981-team-fortress-2-randomizer.json](./362981-team-fortress-2-randomizer.json) |
 | Team Fortress 2: Rebalanced | 400339 | [400339-team-fortress-2-rebalanced.json](./400339-team-fortress-2-rebalanced.json) |
 | Team Fortress 2: Robotic Boogaloo | 256783 | [256783-team-fortress-2-robotic-boogaloo.json](./256783-team-fortress-2-robotic-boogaloo.json) |
+| Team Fortress 2: Summer 2023 Update | 259364 | [259364-team-fortress-2-summer-2023-update.json](./259364-team-fortress-2-summer-2023-update.json) |
 | Team Fortress 2: Terrifying Team Fortress Haunted Hallowe'en Special | 256427 | [256427-team-fortress-2-terrifying-team-fortress-haunted-halloween-special.json](./256427-team-fortress-2-terrifying-team-fortress-haunted-halloween-special.json) |
 | Team Fortress 2: The Engineer Update | 256444 | [256444-team-fortress-2-the-engineer-update.json](./256444-team-fortress-2-the-engineer-update.json) |
 | Team Fortress 2: The First Ever Classless Update | 256415 | [256415-team-fortress-2-the-first-ever-classless-update.json](./256415-team-fortress-2-the-first-ever-classless-update.json) |
@@ -4290,6 +4292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Sickness | 110396 | [110396-terminal-sickness.json](./110396-terminal-sickness.json) |
 | Terminal Singularity | 158701 | [158701-terminal-singularity.json](./158701-terminal-singularity.json) |
 | Terminal squad: Sentinel | 121320 | [121320-terminal-squad-sentinel.json](./121320-terminal-squad-sentinel.json) |
+| Terminal Stages of Nostalgia | 259357 | [259357-terminal-stages-of-nostalgia.json](./259357-terminal-stages-of-nostalgia.json) |
 | Terminal Terror | 71762 | [71762-terminal-terror.json](./71762-terminal-terror.json) |
 | Terminal Theatre Soft | 264486 | [264486-terminal-theatre-soft.json](./264486-terminal-theatre-soft.json) |
 | Terminal Toads | 419892 | [419892-terminal-toads.json](./419892-terminal-toads.json) |
@@ -12273,6 +12276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails of Cold Steel | 13557 | [13557-the-legend-of-heroes-trails-of-cold-steel.json](./13557-the-legend-of-heroes-trails-of-cold-steel.json) |
 | The Legend of Heroes: Trails of Cold Steel - Decisive Edition | 136298 | [136298-the-legend-of-heroes-trails-of-cold-steel-decisive-edition.json](./136298-the-legend-of-heroes-trails-of-cold-steel-decisive-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel - Lionheart Edition | 89911 | [89911-the-legend-of-heroes-trails-of-cold-steel-lionheart-edition.json](./89911-the-legend-of-heroes-trails-of-cold-steel-lionheart-edition.json) |
+| The Legend of Heroes: Trails of Cold Steel - Northern War | 259316 | [259316-the-legend-of-heroes-trails-of-cold-steel-northern-war.json](./259316-the-legend-of-heroes-trails-of-cold-steel-northern-war.json) |
 | The Legend of Heroes: Trails of Cold Steel - Shining Pom Bait Pack 2 | 155420 | [155420-the-legend-of-heroes-trails-of-cold-steel-shining-pom-bait-pack-2.json](./155420-the-legend-of-heroes-trails-of-cold-steel-shining-pom-bait-pack-2.json) |
 | The Legend of Heroes: Trails of Cold Steel II | 13558 | [13558-the-legend-of-heroes-trails-of-cold-steel-ii.json](./13558-the-legend-of-heroes-trails-of-cold-steel-ii.json) |
 | The Legend of Heroes: Trails of Cold Steel II - All Ride-Alongs | 124812 | [124812-the-legend-of-heroes-trails-of-cold-steel-ii-all-ride-alongs.json](./124812-the-legend-of-heroes-trails-of-cold-steel-ii-all-ride-alongs.json) |
@@ -12669,6 +12673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Life and Suffering of Sir Brante | 138871 | [138871-the-life-and-suffering-of-sir-brante.json](./138871-the-life-and-suffering-of-sir-brante.json) |
 | The Life and Times of Daniel Vastberaden | 368571 | [368571-the-life-and-times-of-daniel-vastberaden.json](./368571-the-life-and-times-of-daniel-vastberaden.json) |
 | The Life Ark | 404646 | [404646-the-life-ark.json](./404646-the-life-ark.json) |
+| The Life of a Magical Circle | 259369 | [259369-the-life-of-a-magical-circle.json](./259369-the-life-of-a-magical-circle.json) |
 | The Life of a Pacifist is Often Fraught With Conflict | 65777 | [65777-the-life-of-a-pacifist-is-often-fraught-with-conflict.json](./65777-the-life-of-a-pacifist-is-often-fraught-with-conflict.json) |
 | The Life of an Astronaut | 179027 | [179027-the-life-of-an-astronaut.json](./179027-the-life-of-an-astronaut.json) |
 | The Life of Arthur | 220692 | [220692-the-life-of-arthur.json](./220692-the-life-of-arthur.json) |
@@ -16139,6 +16144,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Simpsons Bart-Shooter | 365246 | [365246-the-simpsons-bart-shooter.json](./365246-the-simpsons-bart-shooter.json) |
 | The Simpsons Bowling | 39415 | [39415-the-simpsons-bowling.json](./39415-the-simpsons-bowling.json) |
 | The Simpsons Game | 259329 | [259329-the-simpsons-game.json](./259329-the-simpsons-game.json) |
+| The Simpsons Game | 259330 | [259330-the-simpsons-game.json](./259330-the-simpsons-game.json) |
+| The Simpsons Game | 259331 | [259331-the-simpsons-game.json](./259331-the-simpsons-game.json) |
 | The Simpsons Game | 2656 | [2656-the-simpsons-game.json](./2656-the-simpsons-game.json) |
 | The Simpsons Game: Recompiled | 421446 | [421446-the-simpsons-game-recompiled.json](./421446-the-simpsons-game-recompiled.json) |
 | The Simpsons Movie: The Ball of Death | 315195 | [315195-the-simpsons-movie-the-ball-of-death.json](./315195-the-simpsons-movie-the-ball-of-death.json) |
@@ -25062,6 +25069,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Speed: Drag & Fast Racing | 88441 | [88441-top-speed-drag-and-fast-racing.json](./88441-top-speed-drag-and-fast-racing.json) |
 | Top Spin | 5234 | [5234-top-spin.json](./5234-top-spin.json) |
 | Top Spin 2 | 229892 | [229892-top-spin-2.json](./229892-top-spin-2.json) |
+| Top Spin 2 | 259319 | [259319-top-spin-2.json](./259319-top-spin-2.json) |
+| Top Spin 2 | 259320 | [259320-top-spin-2.json](./259320-top-spin-2.json) |
+| Top Spin 2 | 259321 | [259321-top-spin-2.json](./259321-top-spin-2.json) |
 | Top Spin 2 | 5235 | [5235-top-spin-2.json](./5235-top-spin-2.json) |
 | Top Spin 3 | 248564 | [248564-top-spin-3.json](./248564-top-spin-3.json) |
 | Top Spin 3 | 248565 | [248565-top-spin-3.json](./248565-top-spin-3.json) |
@@ -29484,6 +29494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travelling Home: Ever After | 406663 | [406663-travelling-home-ever-after.json](./406663-travelling-home-ever-after.json) |
 | Travelling Light | 404812 | [404812-travelling-light.json](./404812-travelling-light.json) |
 | Travelling Millionaire | 57551 | [57551-travelling-millionaire.json](./57551-travelling-millionaire.json) |
+| Travelling to the Moon | 259352 | [259352-travelling-to-the-moon.json](./259352-travelling-to-the-moon.json) |
 | Travelogue 360: Paris | 65182 | [65182-travelogue-360-paris.json](./65182-travelogue-360-paris.json) |
 | Traveloot | 392163 | [392163-traveloot.json](./392163-traveloot.json) |
 | Travelrama USA | 206078 | [206078-travelrama-usa.json](./206078-travelrama-usa.json) |
