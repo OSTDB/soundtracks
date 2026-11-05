@@ -3640,6 +3640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ScrewUp | 163123 | [163123-screwup.json](./163123-screwup.json) |
 | Scriball | 286684 | [286684-scriball.json](./286684-scriball.json) |
 | Scribble | 262675 | [262675-scribble.json](./262675-scribble.json) |
+| Scribble | 272063 | [272063-scribble.json](./272063-scribble.json) |
 | Scribble | 290697 | [290697-scribble.json](./290697-scribble.json) |
 | Scribble | 86248 | [86248-scribble.json](./86248-scribble.json) |
 | Scribble Adventure Unlimited | 107126 | [107126-scribble-adventure-unlimited.json](./107126-scribble-adventure-unlimited.json) |
@@ -6021,6 +6022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sevyal | 254321 | [254321-sevyal.json](./254321-sevyal.json) |
 | Sew in Love | 184903 | [184903-sew-in-love.json](./184903-sew-in-love.json) |
 | Sewage | 202329 | [202329-sewage.json](./202329-sewage.json) |
+| Sewage | 272036 | [272036-sewage.json](./272036-sewage.json) |
 | Sewage Devastation | 271780 | [271780-sewage-devastation.json](./271780-sewage-devastation.json) |
 | Sewer Call | 407454 | [407454-sewer-call.json](./407454-sewer-call.json) |
 | Sewer Flood | 181322 | [181322-sewer-flood.json](./181322-sewer-flood.json) |
@@ -11041,6 +11043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sin Breaker Rig | 238736 | [238736-sin-breaker-rig.json](./238736-sin-breaker-rig.json) |
 | Sin Cards: Welcome to the Netherworld | 337084 | [337084-sin-cards-welcome-to-the-netherworld.json](./337084-sin-cards-welcome-to-the-netherworld.json) |
 | Sin Castle | 29820 | [29820-sin-castle.json](./29820-sin-castle.json) |
+| Sin Center | 272038 | [272038-sin-center.json](./272038-sin-center.json) |
 | Sin Chess | 127173 | [127173-sin-chess.json](./127173-sin-chess.json) |
 | Sin Chronicle | 172765 | [172765-sin-chronicle.json](./172765-sin-chronicle.json) |
 | Sin City | 77967 | [77967-sin-city.json](./77967-sin-city.json) |
@@ -14820,6 +14823,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snepzhen Solitaire | 339682 | [339682-snepzhen-solitaire.json](./339682-snepzhen-solitaire.json) |
 | Snezhinka: Sentinel Girls 2 | 284892 | [284892-snezhinka-sentinel-girls-2.json](./284892-snezhinka-sentinel-girls-2.json) |
 | Snezhnaja Koroleva | 197956 | [197956-snezhnaja-koroleva.json](./197956-snezhnaja-koroleva.json) |
+| Snezhnaya Koroleva | 272058 | [272058-snezhnaya-koroleva.json](./272058-snezhnaya-koroleva.json) |
+| Snezhnaya Koroleva | 272059 | [272059-snezhnaya-koroleva.json](./272059-snezhnaya-koroleva.json) |
 | Sniffers | 114709 | [114709-sniffers.json](./114709-sniffers.json) |
 | Sniffin for Bones | 347469 | [347469-sniffin-for-bones.json](./347469-sniffin-for-bones.json) |
 | Snik | 34795 | [34795-snik.json](./34795-snik.json) |
@@ -15442,6 +15447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So... chunks, huh? | 177691 | [177691-so-chunks-huh.json](./177691-so-chunks-huh.json) |
 | Soak 'Em Out | 248215 | [248215-soak-em-out.json](./248215-soak-em-out.json) |
 | Soak & Splash | 250948 | [250948-soak-and-splash.json](./250948-soak-and-splash.json) |
+| Soaked in Blood | 272047 | [272047-soaked-in-blood.json](./272047-soaked-in-blood.json) |
 | Soaked! | 52854 | [52854-soaked.json](./52854-soaked.json) |
 | Soap | 360732 | [360732-soap.json](./360732-soap.json) |
 | Soap Bubble | 313907 | [313907-soap-bubble.json](./313907-soap-bubble.json) |
