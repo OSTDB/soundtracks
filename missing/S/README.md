@@ -15419,6 +15419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So I bought a little chainsaw | 367599 | [367599-so-i-bought-a-little-chainsaw.json](./367599-so-i-bought-a-little-chainsaw.json) |
 | So I'm a Spider, So What? Ruler of the Labyrinth | 323711 | [323711-so-im-a-spider-so-what-ruler-of-the-labyrinth.json](./323711-so-im-a-spider-so-what-ruler-of-the-labyrinth.json) |
 | So Let Us Melt | 68276 | [68276-so-let-us-melt.json](./68276-so-let-us-melt.json) |
+| So Little Bubble | 269908 | [269908-so-little-bubble.json](./269908-so-little-bubble.json) |
 | So Long as There is Mercy | 188473 | [188473-so-long-as-there-is-mercy.json](./188473-so-long-as-there-is-mercy.json) |
 | So Long Earth | 33376 | [33376-so-long-earth.json](./33376-so-long-earth.json) |
 | So Long Grandma | 87995 | [87995-so-long-grandma.json](./87995-so-long-grandma.json) |
@@ -16973,6 +16974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Boom Cannon 2 | 297604 | [297604-sonic-boom-cannon-2.json](./297604-sonic-boom-cannon-2.json) |
 | Sonic Boom Racing | 330592 | [330592-sonic-boom-racing.json](./330592-sonic-boom-racing.json) |
 | Sonic Boom: A Dating Sonamy Sim?! | 299334 | [299334-sonic-boom-a-dating-sonamy-sim.json](./299334-sonic-boom-a-dating-sonamy-sim.json) |
+| Sonic Boom: Link 'n Smash | 269901 | [269901-sonic-boom-link-n-smash.json](./269901-sonic-boom-link-n-smash.json) |
 | Sonic Boom: Rise of Lyric | 5322 | [5322-sonic-boom-rise-of-lyric.json](./5322-sonic-boom-rise-of-lyric.json) |
 | Sonic Boom: Shattered Crystal | 7855 | [7855-sonic-boom-shattered-crystal.json](./7855-sonic-boom-shattered-crystal.json) |
 | Sonic Bowling | 261248 | [261248-sonic-bowling.json](./261248-sonic-bowling.json) |
@@ -18717,6 +18719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soy Supremacy | 372036 | [372036-soy-supremacy.json](./372036-soy-supremacy.json) |
 | SoyMilk Runner | 206494 | [206494-soymilk-runner.json](./206494-soymilk-runner.json) |
 | Soyuz Constructors | 120647 | [120647-soyuz-constructors.json](./120647-soyuz-constructors.json) |
+| SP Football Life 2024 | 269912 | [269912-sp-football-life-2024.json](./269912-sp-football-life-2024.json) |
 | SP-Light | 291452 | [291452-sp-light.json](./291452-sp-light.json) |
 | Sp:In | 242788 | [242788-sp-in.json](./242788-sp-in.json) |
 | Sp!te | 108070 | [108070-sp-te.json](./108070-sp-te.json) |
@@ -30294,6 +30297,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dev Quest | 414269 | [414269-super-dev-quest.json](./414269-super-dev-quest.json) |
 | Super Diagonal Mario | 316018 | [316018-super-diagonal-mario.json](./316018-super-diagonal-mario.json) |
 | Super Diagonal Mario 2: The Ultimate Meme Machine | 267944 | [267944-super-diagonal-mario-2-the-ultimate-meme-machine.json](./267944-super-diagonal-mario-2-the-ultimate-meme-machine.json) |
+| Super Diego Bros. | 269893 | [269893-super-diego-bros.json](./269893-super-diego-bros.json) |
+| Super Diego Bros. 2 | 269895 | [269895-super-diego-bros-2.json](./269895-super-diego-bros-2.json) |
 | Super Dig Man Deluxe | 339478 | [339478-super-dig-man-deluxe.json](./339478-super-dig-man-deluxe.json) |
 | Super Digestion Moose | 248429 | [248429-super-digestion-moose.json](./248429-super-digestion-moose.json) |
 | Super Dino | 220880 | [220880-super-dino.json](./220880-super-dino.json) |
