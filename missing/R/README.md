@@ -3724,6 +3724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Chat Ritual: Tsumimi Time | 400336 | [400336-red-chat-ritual-tsumimi-time.json](./400336-red-chat-ritual-tsumimi-time.json) |
 | Red Christmas | 383580 | [383580-red-christmas.json](./383580-red-christmas.json) |
 | Red Circuit Rebellion | 371946 | [371946-red-circuit-rebellion.json](./371946-red-circuit-rebellion.json) |
+| Red City | 290227 | [290227-red-city.json](./290227-red-city.json) |
 | Red Clash | 251368 | [251368-red-clash.json](./251368-red-clash.json) |
 | Red Colony | 139466 | [139466-red-colony.json](./139466-red-colony.json) |
 | Red Colony 2 | 153796 | [153796-red-colony-2.json](./153796-red-colony-2.json) |
@@ -5367,6 +5368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue your chickens | 30672 | [30672-rescue-your-chickens.json](./30672-rescue-your-chickens.json) |
 | Rescue Zone | 138616 | [138616-rescue-zone.json](./138616-rescue-zone.json) |
 | Rescue: Heroes in Action | 76718 | [76718-rescue-heroes-in-action.json](./76718-rescue-heroes-in-action.json) |
+| Rescue: The Beagles | 290131 | [290131-rescue-the-beagles.json](./290131-rescue-the-beagles.json) |
 | Rescue: The Beagles | 67034 | [67034-rescue-the-beagles.json](./67034-rescue-the-beagles.json) |
 | Rescue: The Embassy Mission | 331617 | [331617-rescue-the-embassy-mission.json](./331617-rescue-the-embassy-mission.json) |
 | Rescue! Dropkick on my Devil | 283239 | [283239-rescue-dropkick-on-my-devil.json](./283239-rescue-dropkick-on-my-devil.json) |
