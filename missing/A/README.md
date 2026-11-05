@@ -4519,10 +4519,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Fear 2: The Chaos Lord Gold | 180125 | [180125-age-of-fear-2-the-chaos-lord-gold.json](./180125-age-of-fear-2-the-chaos-lord-gold.json) |
 | Age of Fear 3: The Legend | 51550 | [51550-age-of-fear-3-the-legend.json](./51550-age-of-fear-3-the-legend.json) |
 | Age of Fear 4: The Iron Killer | 118733 | [118733-age-of-fear-4-the-iron-killer.json](./118733-age-of-fear-4-the-iron-killer.json) |
+| Age of Fear: The Quick and The Dead | 297766 | [297766-age-of-fear-the-quick-and-the-dead.json](./297766-age-of-fear-the-quick-and-the-dead.json) |
 | Age of Fear: The Undead King | 9952 | [9952-age-of-fear-the-undead-king.json](./9952-age-of-fear-the-undead-king.json) |
 | Age of Fear: The Undead King Gold | 110714 | [110714-age-of-fear-the-undead-king-gold.json](./110714-age-of-fear-the-undead-king-gold.json) |
 | Age of Fear: The Undead King Gold - The Quest for Immortality | 171429 | [171429-age-of-fear-the-undead-king-gold-the-quest-for-immortality.json](./171429-age-of-fear-the-undead-king-gold-the-quest-for-immortality.json) |
 | Age of Fear: Total | 249875 | [249875-age-of-fear-total.json](./249875-age-of-fear-total.json) |
+| Age of Fear: War Machine | 297767 | [297767-age-of-fear-war-machine.json](./297767-age-of-fear-war-machine.json) |
 | Age of Gladiators | 33545 | [33545-age-of-gladiators.json](./33545-age-of-gladiators.json) |
 | Age of Gladiators II | 41959 | [41959-age-of-gladiators-ii.json](./41959-age-of-gladiators-ii.json) |
 | Age of Gladiators II: Death League | 97851 | [97851-age-of-gladiators-ii-death-league.json](./97851-age-of-gladiators-ii-death-league.json) |
@@ -7406,6 +7408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone in the Dark 2 | 340383 | [340383-alone-in-the-dark-2.json](./340383-alone-in-the-dark-2.json) |
 | Alone in the Dark: Collector's Edition | 270574 | [270574-alone-in-the-dark-collectors-edition.json](./270574-alone-in-the-dark-collectors-edition.json) |
 | Alone in the Dark: Digital Deluxe Edition | 293759 | [293759-alone-in-the-dark-digital-deluxe-edition.json](./293759-alone-in-the-dark-digital-deluxe-edition.json) |
+| Alone in the Dark: Director's Commentary Mode | 297768 | [297768-alone-in-the-dark-directors-commentary-mode.json](./297768-alone-in-the-dark-directors-commentary-mode.json) |
 | Alone in the Dark: Illumination | 7716 | [7716-alone-in-the-dark-illumination.json](./7716-alone-in-the-dark-illumination.json) |
 | Alone in the Dark: Inferno | 21303 | [21303-alone-in-the-dark-inferno.json](./21303-alone-in-the-dark-inferno.json) |
 | Alone in the Dark: The Gates of Hell | 375455 | [375455-alone-in-the-dark-the-gates-of-hell.json](./375455-alone-in-the-dark-the-gates-of-hell.json) |
@@ -9379,6 +9382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angkor: Beginnings | 209699 | [209699-angkor-beginnings.json](./209699-angkor-beginnings.json) |
 | Angkor: Celebrations | 151437 | [151437-angkor-celebrations.json](./151437-angkor-celebrations.json) |
 | Angkor: Runefall | 149229 | [149229-angkor-runefall.json](./149229-angkor-runefall.json) |
+| Angkor: The Holy City | 297769 | [297769-angkor-the-holy-city.json](./297769-angkor-the-holy-city.json) |
 | Angkot d Game | 214753 | [214753-angkot-d-game.json](./214753-angkot-d-game.json) |
 | AngL | 104526 | [104526-angl.json](./104526-angl.json) |
 | Angle | 246236 | [246236-angle.json](./246236-angle.json) |
@@ -9999,6 +10003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girls Military Strike | 317263 | [317263-anime-girls-military-strike.json](./317263-anime-girls-military-strike.json) |
 | Anime Girls Mirror Quest | 337951 | [337951-anime-girls-mirror-quest.json](./337951-anime-girls-mirror-quest.json) |
 | Anime Girls Mirror Quest 2 | 337952 | [337952-anime-girls-mirror-quest-2.json](./337952-anime-girls-mirror-quest-2.json) |
+| Anime Girls School Life Sim | 297666 | [297666-anime-girls-school-life-sim.json](./297666-anime-girls-school-life-sim.json) |
 | Anime Girls Trample | 379535 | [379535-anime-girls-trample.json](./379535-anime-girls-trample.json) |
 | Anime Girls vs. Soldiers | 191043 | [191043-anime-girls-vs-soldiers.json](./191043-anime-girls-vs-soldiers.json) |
 | Anime Girls: Awesome Adventurer | 332323 | [332323-anime-girls-awesome-adventurer.json](./332323-anime-girls-awesome-adventurer.json) |
@@ -10068,6 +10073,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime RPG: Isekai Journey | 282156 | [282156-anime-rpg-isekai-journey.json](./282156-anime-rpg-isekai-journey.json) |
 | Anime School Chase Sim | 301215 | [301215-anime-school-chase-sim.json](./301215-anime-school-chase-sim.json) |
 | Anime School Girl Dating Sim | 296758 | [296758-anime-school-girl-dating-sim.json](./296758-anime-school-girl-dating-sim.json) |
+| Anime School Girl Parkour 3D | 297671 | [297671-anime-school-girl-parkour-3d.json](./297671-anime-school-girl-parkour-3d.json) |
+| Anime School Girl Parkour Race | 297670 | [297670-anime-school-girl-parkour-race.json](./297670-anime-school-girl-parkour-race.json) |
 | Anime School Love: Her Teacher's Secret Lesson | 378950 | [378950-anime-school-love-her-teachers-secret-lesson.json](./378950-anime-school-love-her-teachers-secret-lesson.json) |
 | Anime School Love: His Teacher Secret Lesson | 378780 | [378780-anime-school-love-his-teacher-secret-lesson.json](./378780-anime-school-love-his-teacher-secret-lesson.json) |
 | Anime School Zombie Simulator | 296754 | [296754-anime-school-zombie-simulator.json](./296754-anime-school-zombie-simulator.json) |
@@ -16172,6 +16179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
