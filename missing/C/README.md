@@ -5303,6 +5303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Century: Age of Ashes - Myth Starter Edition | 218516 | [218516-century-age-of-ashes-myth-starter-edition.json](./218516-century-age-of-ashes-myth-starter-edition.json) |
 | Century: Age of Ashes - Ravager Edition | 204274 | [204274-century-age-of-ashes-ravager-edition.json](./204274-century-age-of-ashes-ravager-edition.json) |
 | Century: Age of Ashes - Rimeblood Premium Edition | 259607 | [259607-century-age-of-ashes-rimeblood-premium-edition.json](./259607-century-age-of-ashes-rimeblood-premium-edition.json) |
+| Century: Age of Ashes - Skaltir Apostate Pack | 262742 | [262742-century-age-of-ashes-skaltir-apostate-pack.json](./262742-century-age-of-ashes-skaltir-apostate-pack.json) |
 | Century: Age of Ashes - Stormraiser Premium Edition | 218451 | [218451-century-age-of-ashes-stormraiser-premium-edition.json](./218451-century-age-of-ashes-stormraiser-premium-edition.json) |
 | Century: Age of Ashes - The Journeyer Edition | 218492 | [218492-century-age-of-ashes-the-journeyer-edition.json](./218492-century-age-of-ashes-the-journeyer-edition.json) |
 | Century: Age of Ashes - Thornweaver Premium Edition | 242475 | [242475-century-age-of-ashes-thornweaver-premium-edition.json](./242475-century-age-of-ashes-thornweaver-premium-edition.json) |
@@ -11902,6 +11903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorful | 212229 | [212229-colorful.json](./212229-colorful.json) |
 | Colorful | 289575 | [289575-colorful.json](./289575-colorful.json) |
 | Colorful Adventures Bundle | 283190 | [283190-colorful-adventures-bundle.json](./283190-colorful-adventures-bundle.json) |
+| Colorful Boi | 262733 | [262733-colorful-boi.json](./262733-colorful-boi.json) |
 | Colorful Boi 2 | 340831 | [340831-colorful-boi-2.json](./340831-colorful-boi-2.json) |
 | Colorful Colore | 147609 | [147609-colorful-colore.json](./147609-colorful-colore.json) |
 | Colorful Critter | 218144 | [218144-colorful-critter.json](./218144-colorful-critter.json) |
@@ -13365,6 +13367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquest of Champions | 16889 | [16889-conquest-of-champions.json](./16889-conquest-of-champions.json) |
 | Conquest of Chesterwoode | 73204 | [73204-conquest-of-chesterwoode.json](./73204-conquest-of-chesterwoode.json) |
 | Conquest of Chesterwoode | 73222 | [73222-conquest-of-chesterwoode.json](./73222-conquest-of-chesterwoode.json) |
+| Conquest of Eldinar | 262724 | [262724-conquest-of-eldinar.json](./262724-conquest-of-eldinar.json) |
 | Conquest of Elysium 2 | 326798 | [326798-conquest-of-elysium-2.json](./326798-conquest-of-elysium-2.json) |
 | Conquest of Elysium 3 | 15303 | [15303-conquest-of-elysium-3.json](./15303-conquest-of-elysium-3.json) |
 | Conquest of Elysium 4 | 24605 | [24605-conquest-of-elysium-4.json](./24605-conquest-of-elysium-4.json) |
