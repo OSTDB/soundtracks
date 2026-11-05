@@ -2388,6 +2388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Flux | 176626 | [176626-neon-flux.json](./176626-neon-flux.json) |
 | Neon FM | 55996 | [55996-neon-fm.json](./55996-neon-fm.json) |
 | Neon Force Pushers | 99037 | [99037-neon-force-pushers.json](./99037-neon-force-pushers.json) |
+| Neon Fuga | 275966 | [275966-neon-fuga.json](./275966-neon-fuga.json) |
 | Neon Fury | 120335 | [120335-neon-fury.json](./120335-neon-fury.json) |
 | Neon Fusion | 152708 | [152708-neon-fusion.json](./152708-neon-fusion.json) |
 | Neon Galaxy | 44113 | [44113-neon-galaxy.json](./44113-neon-galaxy.json) |
@@ -3568,6 +3569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nexus Code | 276051 | [276051-nexus-code.json](./276051-nexus-code.json) |
 | Nexus Code | 402675 | [402675-nexus-code.json](./402675-nexus-code.json) |
 | Nexus Code Plus | 199949 | [199949-nexus-code-plus.json](./199949-nexus-code-plus.json) |
+| Nexus Defenders | 275978 | [275978-nexus-defenders.json](./275978-nexus-defenders.json) |
 | Nexus Legacy | 408038 | [408038-nexus-legacy.json](./408038-nexus-legacy.json) |
 | Nexus of the Dead God: The Microcosm | 406517 | [406517-nexus-of-the-dead-god-the-microcosm.json](./406517-nexus-of-the-dead-god-the-microcosm.json) |
 | Nexus PI | 289271 | [289271-nexus-pi.json](./289271-nexus-pi.json) |
@@ -7298,6 +7300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Null Drifter | 126989 | [126989-null-drifter.json](./126989-null-drifter.json) |
 | Null Event | 215788 | [215788-null-event.json](./215788-null-event.json) |
 | Null G | 226128 | [226128-null-g.json](./226128-null-g.json) |
+| Null Gravity Labyrinth | 275936 | [275936-null-gravity-labyrinth.json](./275936-null-gravity-labyrinth.json) |
 | Null Horizon | 411076 | [411076-null-horizon.json](./411076-null-horizon.json) |
 | Null Kitchen Exception | 405734 | [405734-null-kitchen-exception.json](./405734-null-kitchen-exception.json) |
 | Null Matter | 243070 | [243070-null-matter.json](./243070-null-matter.json) |
