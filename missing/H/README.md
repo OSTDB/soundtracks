@@ -8922,6 +8922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home | 116768 | [116768-home.json](./116768-home.json) |
 | Home | 121014 | [121014-home.json](./121014-home.json) |
 | Home | 223477 | [223477-home.json](./223477-home.json) |
+| Home | 263263 | [263263-home.json](./263263-home.json) |
 | Home | 280198 | [280198-home.json](./280198-home.json) |
 | Home | 331351 | [331351-home.json](./331351-home.json) |
 | Home | 372448 | [372448-home.json](./372448-home.json) |
@@ -9077,6 +9078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homefront: The Revolution - Freedom Fighter Bundle | 185979 | [185979-homefront-the-revolution-freedom-fighter-bundle.json](./185979-homefront-the-revolution-freedom-fighter-bundle.json) |
 | Homefront: The Revolution - Goliath Edition | 89840 | [89840-homefront-the-revolution-goliath-edition.json](./89840-homefront-the-revolution-goliath-edition.json) |
 | Homefront: The Revolution - The Liberty Pack | 263081 | [263081-homefront-the-revolution-the-liberty-pack.json](./263081-homefront-the-revolution-the-liberty-pack.json) |
+| Homefront: The Revolution - The Revolutionary Spirit Pack | 263258 | [263258-homefront-the-revolution-the-revolutionary-spirit-pack.json](./263258-homefront-the-revolution-the-revolutionary-spirit-pack.json) |
 | Homefront: The Revolution - The Voice Of Freedom | 53205 | [53205-homefront-the-revolution-the-voice-of-freedom.json](./53205-homefront-the-revolution-the-voice-of-freedom.json) |
 | Homefront: The Rock Map Pack | 224224 | [224224-homefront-the-rock-map-pack.json](./224224-homefront-the-rock-map-pack.json) |
 | Homefront: Ultimate Edition | 99960 | [99960-homefront-ultimate-edition.json](./99960-homefront-ultimate-edition.json) |
