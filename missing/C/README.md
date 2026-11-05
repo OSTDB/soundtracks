@@ -2117,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Mechanic Simulator 2018: Pagani | 152582 | [152582-car-mechanic-simulator-2018-pagani.json](./152582-car-mechanic-simulator-2018-pagani.json) |
 | Car Mechanic Simulator 2018: Rims | 152583 | [152583-car-mechanic-simulator-2018-rims.json](./152583-car-mechanic-simulator-2018-rims.json) |
 | Car Mechanic Simulator 2021 | 152604 | [152604-car-mechanic-simulator-2021.json](./152604-car-mechanic-simulator-2021.json) |
+| Car Mechanic Simulator 2021 & Revhead | 267142 | [267142-car-mechanic-simulator-2021-and-revhead.json](./267142-car-mechanic-simulator-2021-and-revhead.json) |
 | Car Mechanic Simulator 2021: Aston Martin | 215499 | [215499-car-mechanic-simulator-2021-aston-martin.json](./215499-car-mechanic-simulator-2021-aston-martin.json) |
 | Car Mechanic Simulator 2021: BMW DLC | 276213 | [276213-car-mechanic-simulator-2021-bmw-dlc.json](./276213-car-mechanic-simulator-2021-bmw-dlc.json) |
 | Car Mechanic Simulator 2021: Dodge, Plymouth, Chrysler Remastered | 254278 | [254278-car-mechanic-simulator-2021-dodge-plymouth-chrysler-remastered.json](./254278-car-mechanic-simulator-2021-dodge-plymouth-chrysler-remastered.json) |
@@ -2150,6 +2151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Parking Multiplayer | 232563 | [232563-car-parking-multiplayer.json](./232563-car-parking-multiplayer.json) |
 | Car Parking Multiplayer 2 | 245213 | [245213-car-parking-multiplayer-2.json](./245213-car-parking-multiplayer-2.json) |
 | Car Parking Real Driving Sim | 274976 | [274976-car-parking-real-driving-sim.json](./274976-car-parking-real-driving-sim.json) |
+| Car Parking Simulator 2024 | 267147 | [267147-car-parking-simulator-2024.json](./267147-car-parking-simulator-2024.json) |
 | Car Parking Simulator 3D Game | 105929 | [105929-car-parking-simulator-3d-game.json](./105929-car-parking-simulator-3d-game.json) |
 | Car Parking Simulator VR | 155910 | [155910-car-parking-simulator-vr.json](./155910-car-parking-simulator-vr.json) |
 | Car Parking: Garage Simulator | 340835 | [340835-car-parking-garage-simulator.json](./340835-car-parking-garage-simulator.json) |
@@ -2903,6 +2905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carriers at War 1941-1945: Fleet Carrier Operations in the Pacific | 25615 | [25615-carriers-at-war-1941-1945-fleet-carrier-operations-in-the-pacific.json](./25615-carriers-at-war-1941-1945-fleet-carrier-operations-in-the-pacific.json) |
 | Carriers at War II | 94536 | [94536-carriers-at-war-ii.json](./94536-carriers-at-war-ii.json) |
 | Carrion Fields | 228692 | [228692-carrion-fields.json](./228692-carrion-fields.json) |
+| Carrion: Greatest Time of Year | 267174 | [267174-carrion-greatest-time-of-year.json](./267174-carrion-greatest-time-of-year.json) |
 | Carrion: Signature Edition | 386275 | [386275-carrion-signature-edition.json](./386275-carrion-signature-edition.json) |
 | Carrom Friends | 240205 | [240205-carrom-friends.json](./240205-carrom-friends.json) |
 | Carrom Pool: Disc Game | 174772 | [174772-carrom-pool-disc-game.json](./174772-carrom-pool-disc-game.json) |
@@ -5051,6 +5054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celeste 64: Fragments of the Mountain | 284430 | [284430-celeste-64-fragments-of-the-mountain.json](./284430-celeste-64-fragments-of-the-mountain.json) |
 | Celeste Advance | 364546 | [364546-celeste-advance.json](./364546-celeste-advance.json) |
 | Celeste Classic | 215762 | [215762-celeste-classic.json](./215762-celeste-classic.json) |
+| Celeste Classic | 267178 | [267178-celeste-classic.json](./267178-celeste-classic.json) |
 | Celeste Classic | 370630 | [370630-celeste-classic.json](./370630-celeste-classic.json) |
 | Celeste Classic | 86148 | [86148-celeste-classic.json](./86148-celeste-classic.json) |
 | Celeste Classic 2: Lani's Trek | 142841 | [142841-celeste-classic-2-lanis-trek.json](./142841-celeste-classic-2-lanis-trek.json) |
@@ -7446,6 +7450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chital's Mini Adventure | 265076 | [265076-chitals-mini-adventure.json](./265076-chitals-mini-adventure.json) |
 | Chitei Chousasen ni Hibiku Kodoku | 376678 | [376678-chitei-chousasen-ni-hibiku-kodoku.json](./376678-chitei-chousasen-ni-hibiku-kodoku.json) |
 | Chitei Kekkadou: The Blood Flower Dungeon | 137616 | [137616-chitei-kekkadou-the-blood-flower-dungeon.json](./137616-chitei-kekkadou-the-blood-flower-dungeon.json) |
+| Chitei Senki | 267188 | [267188-chitei-senki.json](./267188-chitei-senki.json) |
 | Chitei Tairiku Orudoora | 41379 | [41379-chitei-tairiku-orudoora.json](./41379-chitei-tairiku-orudoora.json) |
 | Chitei Tanken | 290311 | [290311-chitei-tanken.json](./290311-chitei-tanken.json) |
 | Chitin | 335989 | [335989-chitin.json](./335989-chitin.json) |
@@ -12950,6 +12955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comrades and Barons: Solitaire of Bloody 1919 | 84046 | [84046-comrades-and-barons-solitaire-of-bloody-1919.json](./84046-comrades-and-barons-solitaire-of-bloody-1919.json) |
 | Comune 0-41 | 400837 | [400837-comune-0-41.json](./400837-comune-0-41.json) |
 | Comuni Non Comuni | 299158 | [299158-comuni-non-comuni.json](./299158-comuni-non-comuni.json) |
+| Con 10 Sedi | 267163 | [267163-con-10-sedi.json](./267163-con-10-sedi.json) |
 | Con Amore | 32419 | [32419-con-amore.json](./32419-con-amore.json) |
 | Con Man: The Game | 76571 | [76571-con-man-the-game.json](./76571-con-man-the-game.json) |
 | Con-Quest | 13512 | [13512-con-quest.json](./13512-con-quest.json) |
