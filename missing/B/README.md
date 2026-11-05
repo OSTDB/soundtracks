@@ -956,7 +956,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -8159,6 +8158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biosys | 94327 | [94327-biosys.json](./94327-biosys.json) |
 | Biosys Inc | 143888 | [143888-biosys-inc.json](./143888-biosys-inc.json) |
 | Biota | 151161 | [151161-biota.json](./151161-biota.json) |
+| Biotech is Godzilla | 257159 | [257159-biotech-is-godzilla.json](./257159-biotech-is-godzilla.json) |
 | Biotech Samurai | 161385 | [161385-biotech-samurai.json](./161385-biotech-samurai.json) |
 | Biotek | 141392 | [141392-biotek.json](./141392-biotek.json) |
 | Biotomata | 381685 | [381685-biotomata.json](./381685-biotomata.json) |
