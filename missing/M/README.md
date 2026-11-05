@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.A.C.E. Space Shooter | 106238 | [106238-m-a-c-e-space-shooter.json](./106238-m-a-c-e-space-shooter.json) |
 | M.A.C.E. TD | 87607 | [87607-m-a-c-e-td.json](./87607-m-a-c-e-td.json) |
 | M.A.C.E. Tower Defense | 43088 | [43088-m-a-c-e-tower-defense.json](./43088-m-a-c-e-tower-defense.json) |
+| M.A.C.E. Tower Defense 2 | 291792 | [291792-m-a-c-e-tower-defense-2.json](./291792-m-a-c-e-tower-defense-2.json) |
 | M.A.C.H | 44508 | [44508-m-a-c-h.json](./44508-m-a-c-h.json) |
 | M.A.C.H. - Maneuverable Armed Computer Humans | 73051 | [73051-m-a-c-h-maneuverable-armed-computer-humans.json](./73051-m-a-c-h-maneuverable-armed-computer-humans.json) |
 | M.A.C.S. | 90645 | [90645-m-a-c-s.json](./90645-m-a-c-s.json) |
@@ -6779,6 +6780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Battlefields | 10544 | [10544-medieval-battlefields.json](./10544-medieval-battlefields.json) |
 | Medieval Battlefields: Black Edition | 33081 | [33081-medieval-battlefields-black-edition.json](./33081-medieval-battlefields-black-edition.json) |
 | Medieval Battlegrounds | 188669 | [188669-medieval-battlegrounds.json](./188669-medieval-battlegrounds.json) |
+| Medieval Blacksmith | 291801 | [291801-medieval-blacksmith.json](./291801-medieval-blacksmith.json) |
 | Medieval Builders: Strongholds & Castles | 236908 | [236908-medieval-builders-strongholds-and-castles.json](./236908-medieval-builders-strongholds-and-castles.json) |
 | Medieval Businessman | 311218 | [311218-medieval-businessman.json](./311218-medieval-businessman.json) |
 | Medieval Castle Siege Defense vs. Invaders | 406083 | [406083-medieval-castle-siege-defense-vs-invaders.json](./406083-medieval-castle-siege-defense-vs-invaders.json) |
@@ -9213,6 +9215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid Swamp | 287635 | [287635-mermaid-swamp.json](./287635-mermaid-swamp.json) |
 | Mermaid Swamp | 62117 | [62117-mermaid-swamp.json](./62117-mermaid-swamp.json) |
 | Mermaid Tail | 302132 | [302132-mermaid-tail.json](./302132-mermaid-tail.json) |
+| Mermaid Tale | 291796 | [291796-mermaid-tale.json](./291796-mermaid-tale.json) |
 | Mermaid's Cove | 397494 | [397494-mermaids-cove.json](./397494-mermaids-cove.json) |
 | Mermaidio | 222766 | [222766-mermaidio.json](./222766-mermaidio.json) |
 | Mermaidio 3 | 229077 | [229077-mermaidio-3.json](./229077-mermaidio-3.json) |
@@ -16908,6 +16911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Void | 336628 | [336628-mortal-void.json](./336628-mortal-void.json) |
 | Mortal Weapon | 74333 | [74333-mortal-weapon.json](./74333-mortal-weapon.json) |
 | Mortal Wrestle Fight Pro | 99991 | [99991-mortal-wrestle-fight-pro.json](./99991-mortal-wrestle-fight-pro.json) |
+| Mortalis Meltdown | 291807 | [291807-mortalis-meltdown.json](./291807-mortalis-meltdown.json) |
 | Mortality Decomp. Killers | 337999 | [337999-mortality-decomp-killers.json](./337999-mortality-decomp-killers.json) |
 | Mortality Decomp. Killers: Shadow of Abaddon | 369823 | [369823-mortality-decomp-killers-shadow-of-abaddon.json](./369823-mortality-decomp-killers-shadow-of-abaddon.json) |
 | Mortality... Please | 417597 | [417597-mortality-please.json](./417597-mortality-please.json) |
