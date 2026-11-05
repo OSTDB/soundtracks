@@ -3969,6 +3969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitchen War | 246464 | [246464-kitchen-war.json](./246464-kitchen-war.json) |
 | Kitchen Wars | 319205 | [319205-kitchen-wars.json](./319205-kitchen-wars.json) |
 | Kitchened | 393135 | [393135-kitchened.json](./393135-kitchened.json) |
+| Kitchinko | 271009 | [271009-kitchinko.json](./271009-kitchinko.json) |
 | Kite | 31757 | [31757-kite.json](./31757-kite.json) |
 | Kite Fight | 213267 | [213267-kite-fight.json](./213267-kite-fight.json) |
 | Kite Hunter | 333147 | [333147-kite-hunter.json](./333147-kite-hunter.json) |
