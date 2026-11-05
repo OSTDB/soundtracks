@@ -2882,6 +2882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Hero. Story of Dartes | 310216 | [310216-path-of-hero-story-of-dartes.json](./310216-path-of-hero-story-of-dartes.json) |
 | Path of Idle: Old Gods Rising | 388087 | [388087-path-of-idle-old-gods-rising.json](./388087-path-of-idle-old-gods-rising.json) |
 | Path of Immortals | 194027 | [194027-path-of-immortals.json](./194027-path-of-immortals.json) |
+| Path of Kung Fu | 266573 | [266573-path-of-kung-fu.json](./266573-path-of-kung-fu.json) |
 | Path of Legends | 368766 | [368766-path-of-legends.json](./368766-path-of-legends.json) |
 | Path of Light | 344839 | [344839-path-of-light.json](./344839-path-of-light.json) |
 | Path of Master | 369792 | [369792-path-of-master.json](./369792-path-of-master.json) |
@@ -9344,6 +9345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlantUp | 409092 | [409092-plantup.json](./409092-plantup.json) |
 | Plantverk: Perfectly Plantastic Plant Simulator | 374578 | [374578-plantverk-perfectly-plantastic-plant-simulator.json](./374578-plantverk-perfectly-plantastic-plant-simulator.json) |
 | Planum | 96890 | [96890-planum.json](./96890-planum.json) |
+| Plany Plane | 266545 | [266545-plany-plane.json](./266545-plany-plane.json) |
 | Plaque Attack | 18410 | [18410-plaque-attack.json](./18410-plaque-attack.json) |
 | Plaqueman | 229928 | [229928-plaqueman.json](./229928-plaqueman.json) |
 | Plaquist Simulator | 280140 | [280140-plaquist-simulator.json](./280140-plaquist-simulator.json) |
@@ -9457,6 +9459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platforms Unlimited | 101323 | [101323-platforms-unlimited.json](./101323-platforms-unlimited.json) |
 | Plati and the Tower of Time | 310739 | [310739-plati-and-the-tower-of-time.json](./310739-plati-and-the-tower-of-time.json) |
 | Plati Nalog: Favorite Russian Game | 88083 | [88083-plati-nalog-favorite-russian-game.json](./88083-plati-nalog-favorite-russian-game.json) |
+| Platie | 266544 | [266544-platie.json](./266544-platie.json) |
 | Platina: Lab | 339987 | [339987-platina-lab.json](./339987-platina-lab.json) |
 | Platinum | 313829 | [313829-platinum.json](./313829-platinum.json) |
 | Platinum | 94937 | [94937-platinum.json](./94937-platinum.json) |
@@ -9831,6 +9834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plebby Quest: The Crusades | 131756 | [131756-plebby-quest-the-crusades.json](./131756-plebby-quest-the-crusades.json) |
 | Plebby Quest: The Promised Land | 174132 | [174132-plebby-quest-the-promised-land.json](./174132-plebby-quest-the-promised-land.json) |
 | Plebs | 261766 | [261766-plebs.json](./261766-plebs.json) |
+| Plebs & Pillagers | 266590 | [266590-plebs-and-pillagers.json](./266590-plebs-and-pillagers.json) |
 | Plecos Keep | 155911 | [155911-plecos-keep.json](./155911-plecos-keep.json) |
 | Pleiades | 281187 | [281187-pleiades.json](./281187-pleiades.json) |
 | Pleiades: A Subversion Saga Game | 150754 | [150754-pleiades-a-subversion-saga-game.json](./150754-pleiades-a-subversion-saga-game.json) |
@@ -10506,6 +10510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon 2000 Adventure Game | 254167 | [254167-pokemon-2000-adventure-game.json](./254167-pokemon-2000-adventure-game.json) |
 | Pokémon 3D | 240935 | [240935-pokemon-3d.json](./240935-pokemon-3d.json) |
 | Pokémon Abismal | 314717 | [314717-pokemon-abismal.json](./314717-pokemon-abismal.json) |
+| Pokémon Academy Life | 266562 | [266562-pokemon-academy-life.json](./266562-pokemon-academy-life.json) |
 | Pokémon Advanced: Cyber Poké Ball 2 | 245422 | [245422-pokemon-advanced-cyber-poke-ball-2.json](./245422-pokemon-advanced-cyber-poke-ball-2.json) |
 | Pokémon Adventures: Red Chapter | 145931 | [145931-pokemon-adventures-red-chapter.json](./145931-pokemon-adventures-red-chapter.json) |
 | Pokémon Africanus | 298010 | [298010-pokemon-africanus.json](./298010-pokemon-africanus.json) |
@@ -12583,6 +12588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popstars | 268384 | [268384-popstars.json](./268384-popstars.json) |
 | Popstars | 92843 | [92843-popstars.json](./92843-popstars.json) |
 | Popstars: Deine Chance | 259723 | [259723-popstars-deine-chance.json](./259723-popstars-deine-chance.json) |
+| PopStealth | 266543 | [266543-popstealth.json](./266543-popstealth.json) |
 | Poptank | 207083 | [207083-poptank.json](./207083-poptank.json) |
 | Poptile | 214620 | [214620-poptile.json](./214620-poptile.json) |
 | Poptropica | 148445 | [148445-poptropica.json](./148445-poptropica.json) |
@@ -14868,6 +14874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Rugby Manager 2 | 67949 | [67949-pro-rugby-manager-2.json](./67949-pro-rugby-manager-2.json) |
 | Pro Rugby Manager 2015 | 10727 | [10727-pro-rugby-manager-2015.json](./10727-pro-rugby-manager-2015.json) |
 | Pro Series Drag Racing | 91081 | [91081-pro-series-drag-racing.json](./91081-pro-series-drag-racing.json) |
+| Pro Shooter VR | 266589 | [266589-pro-shooter-vr.json](./266589-pro-shooter-vr.json) |
 | Pro Skateboard Simulator | 69867 | [69867-pro-skateboard-simulator.json](./69867-pro-skateboard-simulator.json) |
 | Pro Skater 2D | 30648 | [30648-pro-skater-2d.json](./30648-pro-skater-2d.json) |
 | Pro Snooker & Pool 2018 | 87554 | [87554-pro-snooker-and-pool-2018.json](./87554-pro-snooker-and-pool-2018.json) |
@@ -17055,6 +17062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin Woods | 293019 | [293019-pumpkin-woods.json](./293019-pumpkin-woods.json) |
 | Pumpkin's Revenge | 341435 | [341435-pumpkins-revenge.json](./341435-pumpkins-revenge.json) |
 | Pumpkinban | 382214 | [382214-pumpkinban.json](./382214-pumpkinban.json) |
+| Pumpkinman | 266588 | [266588-pumpkinman.json](./266588-pumpkinman.json) |
 | Pumpkins vs. Monsters | 204216 | [204216-pumpkins-vs-monsters.json](./204216-pumpkins-vs-monsters.json) |
 | Pumpomatic | 354764 | [354764-pumpomatic.json](./354764-pumpomatic.json) |
 | PumPum | 159883 | [159883-pumpum.json](./159883-pumpum.json) |
@@ -17412,6 +17420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purple Chicken Spaceman | 117777 | [117777-purple-chicken-spaceman.json](./117777-purple-chicken-spaceman.json) |
 | Purple Deathmatch | 115557 | [115557-purple-deathmatch.json](./115557-purple-deathmatch.json) |
 | Purple Dinosaur Massacre | 325813 | [325813-purple-dinosaur-massacre.json](./325813-purple-dinosaur-massacre.json) |
+| Purple Explorer | 266587 | [266587-purple-explorer.json](./266587-purple-explorer.json) |
 | Purple Fantasy | 213610 | [213610-purple-fantasy.json](./213610-purple-fantasy.json) |
 | Purple Game | 316358 | [316358-purple-game.json](./316358-purple-game.json) |
 | Purple Noise Echo | 120711 | [120711-purple-noise-echo.json](./120711-purple-noise-echo.json) |
@@ -17898,6 +17907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Collection with Pani Pani | 82559 | [82559-puzzle-collection-with-pani-pani.json](./82559-puzzle-collection-with-pani-pani.json) |
 | Puzzle Collection: Complete Edition | 225760 | [225760-puzzle-collection-complete-edition.json](./225760-puzzle-collection-complete-edition.json) |
 | Puzzle Collection: New Pieces | 226317 | [226317-puzzle-collection-new-pieces.json](./226317-puzzle-collection-new-pieces.json) |
+| Puzzle Colony | 266542 | [266542-puzzle-colony.json](./266542-puzzle-colony.json) |
 | Puzzle Company | 348441 | [348441-puzzle-company.json](./348441-puzzle-company.json) |
 | Puzzle Compound | 152189 | [152189-puzzle-compound.json](./152189-puzzle-compound.json) |
 | Puzzle Cozy | 386692 | [386692-puzzle-cozy.json](./386692-puzzle-cozy.json) |
