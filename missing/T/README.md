@@ -17714,6 +17714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Town | 80392 | [80392-the-town.json](./80392-the-town.json) |
 | The Town of Downpour | 387334 | [387334-the-town-of-downpour.json](./387334-the-town-of-downpour.json) |
 | The Town of Light: Deluxe Edition | 86237 | [86237-the-town-of-light-deluxe-edition.json](./86237-the-town-of-light-deluxe-edition.json) |
+| The Town of Light: The Limited Black Label | 254852 | [254852-the-town-of-light-the-limited-black-label.json](./254852-the-town-of-light-the-limited-black-label.json) |
 | The Town of Nie | 315338 | [315338-the-town-of-nie.json](./315338-the-town-of-nie.json) |
 | The Town of Nowhere: End Of The Line | 383448 | [383448-the-town-of-nowhere-end-of-the-line.json](./383448-the-town-of-nowhere-end-of-the-line.json) |
 | The Town Secrets | 275912 | [275912-the-town-secrets.json](./275912-the-town-secrets.json) |
@@ -22835,6 +22836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tintin on the Moon | 12797 | [12797-tintin-on-the-moon.json](./12797-tintin-on-the-moon.json) |
 | Tintin on the Moon | 316928 | [316928-tintin-on-the-moon.json](./316928-tintin-on-the-moon.json) |
 | Tintin Reporter: Cigars of the Pharaoh | 223863 | [223863-tintin-reporter-cigars-of-the-pharaoh.json](./223863-tintin-reporter-cigars-of-the-pharaoh.json) |
+| Tintin Reporter: Cigars of the Pharaoh - Collector's Edition | 254842 | [254842-tintin-reporter-cigars-of-the-pharaoh-collectors-edition.json](./254842-tintin-reporter-cigars-of-the-pharaoh-collectors-edition.json) |
 | Tintin Reporter: Cigars of the Pharaoh - Limited Edition | 242368 | [242368-tintin-reporter-cigars-of-the-pharaoh-limited-edition.json](./242368-tintin-reporter-cigars-of-the-pharaoh-limited-edition.json) |
 | TinTin: Destination Adventure | 43902 | [43902-tintin-destination-adventure.json](./43902-tintin-destination-adventure.json) |
 | Tinting Time | 216500 | [216500-tinting-time.json](./216500-tinting-time.json) |
@@ -23947,6 +23949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet Zone 2 | 337643 | [337643-toilet-zone-2.json](./337643-toilet-zone-2.json) |
 | Toilet: Confrontation | 327301 | [327301-toilet-confrontation.json](./327301-toilet-confrontation.json) |
 | Toilet: Urinal Game | 409416 | [409416-toilet-urinal-game.json](./409416-toilet-urinal-game.json) |
+| Toiletrooms | 254828 | [254828-toiletrooms.json](./254828-toiletrooms.json) |
 | Toiletworld | 57472 | [57472-toiletworld.json](./57472-toiletworld.json) |
 | Toing's Pops | 259444 | [259444-toings-pops.json](./259444-toings-pops.json) |
 | Toing's Pops 2 | 285434 | [285434-toings-pops-2.json](./285434-toings-pops-2.json) |
@@ -25015,6 +25018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Drives | 88508 | [88508-top-drives.json](./88508-top-drives.json) |
 | Top Duck | 280930 | [280930-top-duck.json](./280930-top-duck.json) |
 | Top Dungeon War | 243717 | [243717-top-dungeon-war.json](./243717-top-dungeon-war.json) |
+| Top Farm | 254812 | [254812-top-farm.json](./254812-top-farm.json) |
 | Top Fighter 2000 | 45590 | [45590-top-fighter-2000.json](./45590-top-fighter-2000.json) |
 | Top Fighter 2000 MK VIII | 45752 | [45752-top-fighter-2000-mk-viii.json](./45752-top-fighter-2000-mk-viii.json) |
 | Top Flight Turtle | 234171 | [234171-top-flight-turtle.json](./234171-top-flight-turtle.json) |
@@ -29101,6 +29105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: Dark of the Moon - Stealth Force Edition | 51021 | [51021-transformers-dark-of-the-moon-stealth-force-edition.json](./51021-transformers-dark-of-the-moon-stealth-force-edition.json) |
 | Transformers: Decepticons | 206749 | [206749-transformers-decepticons.json](./206749-transformers-decepticons.json) |
 | Transformers: Earth Wars | 58345 | [58345-transformers-earth-wars.json](./58345-transformers-earth-wars.json) |
+| Transformers: Earthspark - Expedition | 254819 | [254819-transformers-earthspark-expedition.json](./254819-transformers-earthspark-expedition.json) |
 | Transformers: Fall of Cybertron | 8361 | [8361-transformers-fall-of-cybertron.json](./8361-transformers-fall-of-cybertron.json) |
 | Transformers: Fall of Cybertron - Dinobot Destructor Pack | 235422 | [235422-transformers-fall-of-cybertron-dinobot-destructor-pack.json](./235422-transformers-fall-of-cybertron-dinobot-destructor-pack.json) |
 | Transformers: Fall of Cybertron - Multiplayer Havoc Pack | 235400 | [235400-transformers-fall-of-cybertron-multiplayer-havoc-pack.json](./235400-transformers-fall-of-cybertron-multiplayer-havoc-pack.json) |
