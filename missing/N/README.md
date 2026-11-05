@@ -2653,6 +2653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerd Survivors | 272740 | [272740-nerd-survivors.json](./272740-nerd-survivors.json) |
 | Nerd: Tracing Dayline | 318273 | [318273-nerd-tracing-dayline.json](./318273-nerd-tracing-dayline.json) |
 | Nerd's Guide to Surviving High School | 210369 | [210369-nerds-guide-to-surviving-high-school.json](./210369-nerds-guide-to-surviving-high-school.json) |
+| Nerdle | 289136 | [289136-nerdle.json](./289136-nerdle.json) |
 | Nerdook Bundle Vol. 1 | 147664 | [147664-nerdook-bundle-vol-1.json](./147664-nerdook-bundle-vol-1.json) |
 | Nerds & Ammo | 391585 | [391585-nerds-and-ammo.json](./391585-nerds-and-ammo.json) |
 | Nerds Revenge | 396990 | [396990-nerds-revenge.json](./396990-nerds-revenge.json) |
