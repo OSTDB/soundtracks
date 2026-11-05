@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E.R. Mania | 91748 | [91748-e-r-mania.json](./91748-e-r-mania.json) |
 | E.S.P. | 145658 | [145658-e-s-p.json](./145658-e-s-p.json) |
 | E.S.S. Mega | 84246 | [84246-e-s-s-mega.json](./84246-e-s-s-mega.json) |
+| E.T. the Extra Terrestrial: Digital Companion | 278776 | [278776-e-t-the-extra-terrestrial-digital-companion.json](./278776-e-t-the-extra-terrestrial-digital-companion.json) |
 | E.T. the Extra-Terrestrial | 6706 | [6706-e-t-the-extra-terrestrial.json](./6706-e-t-the-extra-terrestrial.json) |
 | E.T. the Extra-Terrestrial Fixed | 335114 | [335114-e-t-the-extra-terrestrial-fixed.json](./335114-e-t-the-extra-terrestrial-fixed.json) |
 | E.T. the Extra-Terrestrial: Return to the Green Planet | 201276 | [201276-e-t-the-extra-terrestrial-return-to-the-green-planet.json](./201276-e-t-the-extra-terrestrial-return-to-the-green-planet.json) |
@@ -5006,6 +5007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Bunker | 308264 | [308264-escape-from-bunker.json](./308264-escape-from-bunker.json) |
 | Escape from Bytesville | 291881 | [291881-escape-from-bytesville.json](./291881-escape-from-bytesville.json) |
 | Escape from Castle Chezcrea | 256851 | [256851-escape-from-castle-chezcrea.json](./256851-escape-from-castle-chezcrea.json) |
+| Escape from Castle Claymount | 278780 | [278780-escape-from-castle-claymount.json](./278780-escape-from-castle-claymount.json) |
 | Escape From Castle Frankenstein | 305982 | [305982-escape-from-castle-frankenstein.json](./305982-escape-from-castle-frankenstein.json) |
 | Escape From Castle Matsumoto | 322910 | [322910-escape-from-castle-matsumoto.json](./322910-escape-from-castle-matsumoto.json) |
 | Escape From Castle Orochi | 319839 | [319839-escape-from-castle-orochi.json](./319839-escape-from-castle-orochi.json) |
