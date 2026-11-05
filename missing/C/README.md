@@ -12047,6 +12047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorless Life | 50525 | [50525-colorless-life.json](./50525-colorless-life.json) |
 | Colorless Life | 50528 | [50528-colorless-life.json](./50528-colorless-life.json) |
 | Colorless Odyssey | 318005 | [318005-colorless-odyssey.json](./318005-colorless-odyssey.json) |
+| Colorless Poems | 285269 | [285269-colorless-poems.json](./285269-colorless-poems.json) |
 | Colorma | 304967 | [304967-colorma.json](./304967-colorma.json) |
 | ColorMari | 222925 | [222925-colormari.json](./222925-colormari.json) |
 | Colormeleons | 127703 | [127703-colormeleons.json](./127703-colormeleons.json) |
@@ -15790,6 +15791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot 4: N. Hanced | 323730 | [323730-crash-bandicoot-4-n-hanced.json](./323730-crash-bandicoot-4-n-hanced.json) |
 | Crash Bandicoot Action Pack | 196663 | [196663-crash-bandicoot-action-pack.json](./196663-crash-bandicoot-action-pack.json) |
 | Crash Bandicoot and the Retro Dimension | 367688 | [367688-crash-bandicoot-and-the-retro-dimension.json](./367688-crash-bandicoot-and-the-retro-dimension.json) |
+| Crash Bandicoot Blast! | 285253 | [285253-crash-bandicoot-blast.json](./285253-crash-bandicoot-blast.json) |
 | Crash Bandicoot Collectors' Edition | 43683 | [43683-crash-bandicoot-collectors-edition.json](./43683-crash-bandicoot-collectors-edition.json) |
 | Crash Bandicoot Flash | 228752 | [228752-crash-bandicoot-flash.json](./228752-crash-bandicoot-flash.json) |
 | Crash Bandicoot N. Sane Trilogy: Future Tense | 229857 | [229857-crash-bandicoot-n-sane-trilogy-future-tense.json](./229857-crash-bandicoot-n-sane-trilogy-future-tense.json) |
@@ -16094,6 +16096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Appliances | 86392 | [86392-crazy-appliances.json](./86392-crazy-appliances.json) |
 | Crazy Arcade | 6361 | [6361-crazy-arcade.json](./6361-crazy-arcade.json) |
 | Crazy Archery | 113696 | [113696-crazy-archery.json](./113696-crazy-archery.json) |
+| Crazy Ball | 285175 | [285175-crazy-ball.json](./285175-crazy-ball.json) |
 | Crazy Ball | 58545 | [58545-crazy-ball.json](./58545-crazy-ball.json) |
 | Crazy Ball Adventures: Treasure | 155371 | [155371-crazy-ball-adventures-treasure.json](./155371-crazy-ball-adventures-treasure.json) |
 | Crazy Ball Racing | 127520 | [127520-crazy-ball-racing.json](./127520-crazy-ball-racing.json) |
@@ -17268,6 +17271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CroquettesClicker | 336138 | [336138-croquettesclicker.json](./336138-croquettesclicker.json) |
 | Crordle | 223555 | [223555-crordle.json](./223555-crordle.json) |
 | Crosak | 380164 | [380164-crosak.json](./380164-crosak.json) |
+| Crosmorf Adventures | 285256 | [285256-crosmorf-adventures.json](./285256-crosmorf-adventures.json) |
 | Crosps | 125844 | [125844-crosps.json](./125844-crosps.json) |
 | Cross & Word Games | 131185 | [131185-cross-and-word-games.json](./131185-cross-and-word-games.json) |
 | Cross and Crush | 89270 | [89270-cross-and-crush.json](./89270-cross-and-crush.json) |
