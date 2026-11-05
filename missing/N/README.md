@@ -6648,6 +6648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northgard: Garm, Clan of the Hounds | 302201 | [302201-northgard-garm-clan-of-the-hounds.json](./302201-northgard-garm-clan-of-the-hounds.json) |
 | Northgard: Himminbrjotir, Clan of the Ox | 154197 | [154197-northgard-himminbrjotir-clan-of-the-ox.json](./154197-northgard-himminbrjotir-clan-of-the-ox.json) |
 | Northgard: Hræsvelg, Clan of the Eagle | 218693 | [218693-northgard-hr-svelg-clan-of-the-eagle.json](./218693-northgard-hr-svelg-clan-of-the-eagle.json) |
+| Northgard: Kernev, Clan of the Stoat | 262744 | [262744-northgard-kernev-clan-of-the-stoat.json](./262744-northgard-kernev-clan-of-the-stoat.json) |
 | Northgard: Kernev, Clan of the Stoat | 263604 | [263604-northgard-kernev-clan-of-the-stoat.json](./263604-northgard-kernev-clan-of-the-stoat.json) |
 | Northgard: Lyngbakr, Clan of the Kraken | 154198 | [154198-northgard-lyngbakr-clan-of-the-kraken.json](./154198-northgard-lyngbakr-clan-of-the-kraken.json) |
 | Northgard: Nidhogg, Clan of the Dragon | 154201 | [154201-northgard-nidhogg-clan-of-the-dragon.json](./154201-northgard-nidhogg-clan-of-the-dragon.json) |
