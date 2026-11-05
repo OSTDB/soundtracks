@@ -4906,6 +4906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape | 230863 | [230863-escape.json](./230863-escape.json) |
 | Escape | 273231 | [273231-escape.json](./273231-escape.json) |
 | Escape | 274428 | [274428-escape.json](./274428-escape.json) |
+| Escape | 281197 | [281197-escape.json](./281197-escape.json) |
 | Escape | 295270 | [295270-escape.json](./295270-escape.json) |
 | Escape | 305450 | [305450-escape.json](./305450-escape.json) |
 | Escape | 305451 | [305451-escape.json](./305451-escape.json) |
@@ -6544,6 +6545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Event Horizon | 271755 | [271755-event-horizon.json](./271755-event-horizon.json) |
 | Event Horizon | 295086 | [295086-event-horizon.json](./295086-event-horizon.json) |
 | Event Horizon | 32923 | [32923-event-horizon.json](./32923-event-horizon.json) |
+| Event Horizon XV | 281181 | [281181-event-horizon-xv.json](./281181-event-horizon-xv.json) |
 | Event Horizon: Space Defense | 126192 | [126192-event-horizon-space-defense.json](./126192-event-horizon-space-defense.json) |
 | Event Race | 280349 | [280349-event-race.json](./280349-event-race.json) |
 | Event Race: Bob's Art Table Tracks | 293864 | [293864-event-race-bobs-art-table-tracks.json](./293864-event-race-bobs-art-table-tracks.json) |
