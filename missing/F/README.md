@@ -427,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Balls Christmas Edition | 225284 | [225284-factory-balls-christmas-edition.json](./225284-factory-balls-christmas-edition.json) |
 | Factory Balls Go! | 402559 | [402559-factory-balls-go.json](./402559-factory-balls-go.json) |
 | Factory Breakout | 14061 | [14061-factory-breakout.json](./14061-factory-breakout.json) |
+| Factory Business Management | 286336 | [286336-factory-business-management.json](./286336-factory-business-management.json) |
 | Factory Coin Mining | 118417 | [118417-factory-coin-mining.json](./118417-factory-coin-mining.json) |
 | Factory Company | 297071 | [297071-factory-company.json](./297071-factory-company.json) |
 | Factory Control Inc. | 252706 | [252706-factory-control-inc.json](./252706-factory-control-inc.json) |
@@ -1002,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Echo | 311501 | [311501-fallen-echo.json](./311501-fallen-echo.json) |
 | Fallen Echoes | 381308 | [381308-fallen-echoes.json](./381308-fallen-echoes.json) |
 | Fallen Emiya | 106544 | [106544-fallen-emiya.json](./106544-fallen-emiya.json) |
+| Fallen Empire | 286351 | [286351-fallen-empire.json](./286351-fallen-empire.json) |
 | Fallen Enchantress | 10297 | [10297-fallen-enchantress.json](./10297-fallen-enchantress.json) |
 | Fallen Enchantress: Legendary Heroes - Battlegrounds DLC | 168378 | [168378-fallen-enchantress-legendary-heroes-battlegrounds-dlc.json](./168378-fallen-enchantress-legendary-heroes-battlegrounds-dlc.json) |
 | Fallen Enchantress: Legendary Heroes - Leader Pack DLC | 168370 | [168370-fallen-enchantress-legendary-heroes-leader-pack-dlc.json](./168370-fallen-enchantress-legendary-heroes-leader-pack-dlc.json) |
@@ -8003,6 +8005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floppy Turd | 233402 | [233402-floppy-turd.json](./233402-floppy-turd.json) |
 | Flora | 364685 | [364685-flora.json](./364685-flora.json) |
 | Flora | 80956 | [80956-flora.json](./80956-flora.json) |
+| Flora & Fang: Guardians of the vampire garden | 286347 | [286347-flora-and-fang-guardians-of-the-vampire-garden.json](./286347-flora-and-fang-guardians-of-the-vampire-garden.json) |
 | Flora & Fauna | 297122 | [297122-flora-and-fauna.json](./297122-flora-and-fauna.json) |
 | Flora and Sauna | 201035 | [201035-flora-and-sauna.json](./201035-flora-and-sauna.json) |
 | Flora and the Ceibo Seeds | 286019 | [286019-flora-and-the-ceibo-seeds.json](./286019-flora-and-the-ceibo-seeds.json) |
@@ -9263,6 +9266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foragarden | 412095 | [412095-foragarden.json](./412095-foragarden.json) |
 | Forager | 25580 | [25580-forager.json](./25580-forager.json) |
 | Forager's Finds | 391421 | [391421-foragers-finds.json](./391421-foragers-finds.json) |
+| Foragery | 286307 | [286307-foragery.json](./286307-foragery.json) |
 | Forays into Norrendrin | 148391 | [148391-forays-into-norrendrin.json](./148391-forays-into-norrendrin.json) |
 | Forbes Corporate Warrior | 71373 | [71373-forbes-corporate-warrior.json](./71373-forbes-corporate-warrior.json) |
 | Forbidden | 195953 | [195953-forbidden.json](./195953-forbidden.json) |
@@ -9434,6 +9438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Keepers | 183299 | [183299-forest-keepers.json](./183299-forest-keepers.json) |
 | Forest Kingdom | 186804 | [186804-forest-kingdom.json](./186804-forest-kingdom.json) |
 | Forest Knight | 134059 | [134059-forest-knight.json](./134059-forest-knight.json) |
+| Forest legend | 286324 | [286324-forest-legend.json](./286324-forest-legend.json) |
 | Forest Legends: The Call of Love | 52217 | [52217-forest-legends-the-call-of-love.json](./52217-forest-legends-the-call-of-love.json) |
 | Forest Legends: The Call of Love - Collector's Edition | 76916 | [76916-forest-legends-the-call-of-love-collectors-edition.json](./76916-forest-legends-the-call-of-love-collectors-edition.json) |
 | Forest Liberation | 149558 | [149558-forest-liberation.json](./149558-forest-liberation.json) |
@@ -9585,6 +9590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forged Desires: A Bara JRPG | 377093 | [377093-forged-desires-a-bara-jrpg.json](./377093-forged-desires-a-bara-jrpg.json) |
 | Forged from Monsters | 407712 | [407712-forged-from-monsters.json](./407712-forged-from-monsters.json) |
 | Forged In Dungeon | 289235 | [289235-forged-in-dungeon.json](./289235-forged-in-dungeon.json) |
+| Forged in Epic | 286337 | [286337-forged-in-epic.json](./286337-forged-in-epic.json) |
 | Forged in Fire: Master Smith | 397087 | [397087-forged-in-fire-master-smith.json](./397087-forged-in-fire-master-smith.json) |
 | Forged of Blood | 27954 | [27954-forged-of-blood.json](./27954-forged-of-blood.json) |
 | Forgekeepers | 332542 | [332542-forgekeepers.json](./332542-forgekeepers.json) |
@@ -10934,6 +10940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragmented Fear | 342245 | [342245-fragmented-fear.json](./342245-fragmented-fear.json) |
 | Fragmented Leaves: Before the Storm | 283062 | [283062-fragmented-leaves-before-the-storm.json](./283062-fragmented-leaves-before-the-storm.json) |
 | Fragmented Memories | 190387 | [190387-fragmented-memories.json](./190387-fragmented-memories.json) |
+| Fragmented Memories: Escape Room | 286345 | [286345-fragmented-memories-escape-room.json](./286345-fragmented-memories-escape-room.json) |
 | Fragmented Mind | 169477 | [169477-fragmented-mind.json](./169477-fragmented-mind.json) |
 | Fragmentia | 180407 | [180407-fragmentia.json](./180407-fragmentia.json) |
 | Fragments | 142384 | [142384-fragments.json](./142384-fragments.json) |
@@ -11039,6 +11046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frank's Kitchen | 180055 | [180055-franks-kitchen.json](./180055-franks-kitchen.json) |
 | Franken | 199805 | [199805-franken.json](./199805-franken.json) |
 | Franken Girl | 208014 | [208014-franken-girl.json](./208014-franken-girl.json) |
+| Frankendice | 286316 | [286316-frankendice.json](./286316-frankendice.json) |
 | FrankenSketch | 413808 | [413808-frankensketch.json](./413808-frankensketch.json) |
 | Frankenstein | 15224 | [15224-frankenstein.json](./15224-frankenstein.json) |
 | Frankenstein | 37191 | [37191-frankenstein.json](./37191-frankenstein.json) |
@@ -11529,6 +11537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fresh Deck Poker: Mafia World | 323129 | [323129-fresh-deck-poker-mafia-world.json](./323129-fresh-deck-poker-mafia-world.json) |
 | Fresh Food Merge | 397989 | [397989-fresh-food-merge.json](./397989-fresh-food-merge.json) |
 | Fresh Force Frustrations: A Gay Superhero Erotic Visual Novel | 258831 | [258831-fresh-force-frustrations-a-gay-superhero-erotic-visual-novel.json](./258831-fresh-force-frustrations-a-gay-superhero-erotic-visual-novel.json) |
+| Fresh Hell | 286332 | [286332-fresh-hell.json](./286332-fresh-hell.json) |
 | Fresh Hops | 333232 | [333232-fresh-hops.json](./333232-fresh-hops.json) |
 | Fresh Hops 2 | 375559 | [375559-fresh-hops-2.json](./375559-fresh-hops-2.json) |
 | Fresh Market Simulator | 423218 | [423218-fresh-market-simulator.json](./423218-fresh-market-simulator.json) |
@@ -13494,6 +13503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fusion | 158712 | [158712-fusion.json](./158712-fusion.json) |
 | Fusion | 182822 | [182822-fusion.json](./182822-fusion.json) |
 | Fusion Bundle | 254703 | [254703-fusion-bundle.json](./254703-fusion-bundle.json) |
+| Fusion Fling | 286350 | [286350-fusion-fling.json](./286350-fusion-fling.json) |
 | Fusion Galaxy | 395572 | [395572-fusion-galaxy.json](./395572-fusion-galaxy.json) |
 | Fusion Guards | 116450 | [116450-fusion-guards.json](./116450-fusion-guards.json) |
 | Fusion Mage | 346506 | [346506-fusion-mage.json](./346506-fusion-mage.json) |
