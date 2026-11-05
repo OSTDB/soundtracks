@@ -1768,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Rollerz: Pinball Heroes | 187855 | [187855-zombie-rollerz-pinball-heroes.json](./187855-zombie-rollerz-pinball-heroes.json) |
 | Zombie Rollerz: The Last Ship | 264066 | [264066-zombie-rollerz-the-last-ship.json](./264066-zombie-rollerz-the-last-ship.json) |
 | Zombie Rooms | 273384 | [273384-zombie-rooms.json](./273384-zombie-rooms.json) |
+| Zombie Royale | 292342 | [292342-zombie-royale.json](./292342-zombie-royale.json) |
 | Zombie Royale io | 362177 | [362177-zombie-royale-io.json](./362177-zombie-royale-io.json) |
 | Zombie Run HD | 250387 | [250387-zombie-run-hd.json](./250387-zombie-run-hd.json) |
 | Zombie Rush | 179536 | [179536-zombie-rush.json](./179536-zombie-rush.json) |
