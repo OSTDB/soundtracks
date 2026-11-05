@@ -8189,6 +8189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hive and Seek | 304176 | [304176-hive-and-seek.json](./304176-hive-and-seek.json) |
 | Hive Blight | 345434 | [345434-hive-blight.json](./345434-hive-blight.json) |
 | Hive Defender | 190193 | [190193-hive-defender.json](./190193-hive-defender.json) |
+| Hive Dive | 294352 | [294352-hive-dive.json](./294352-hive-dive.json) |
 | Hive In Space | 290716 | [290716-hive-in-space.json](./290716-hive-in-space.json) |
 | Hive Jump | 20874 | [20874-hive-jump.json](./20874-hive-jump.json) |
 | Hive Jump 2: Survivors | 264591 | [264591-hive-jump-2-survivors.json](./264591-hive-jump-2-survivors.json) |
@@ -10326,6 +10327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels: Hot Rod Customization Pack | 248426 | [248426-hot-wheels-hot-rod-customization-pack.json](./248426-hot-wheels-hot-rod-customization-pack.json) |
 | Hot Wheels: Jetz | 166206 | [166206-hot-wheels-jetz.json](./166206-hot-wheels-jetz.json) |
 | Hot Wheels: King of the Road | 228664 | [228664-hot-wheels-king-of-the-road.json](./228664-hot-wheels-king-of-the-road.json) |
+| Hot Wheels: Laptop Infantil | 294482 | [294482-hot-wheels-laptop-infantil.json](./294482-hot-wheels-laptop-infantil.json) |
 | Hot Wheels: Mechanix | 70991 | [70991-hot-wheels-mechanix.json](./70991-hot-wheels-mechanix.json) |
 | Hot Wheels: Outer Space Customization Pack | 248415 | [248415-hot-wheels-outer-space-customization-pack.json](./248415-hot-wheels-outer-space-customization-pack.json) |
 | Hot Wheels: Pink Fashion Customization Pack | 248424 | [248424-hot-wheels-pink-fashion-customization-pack.json](./248424-hot-wheels-pink-fashion-customization-pack.json) |
