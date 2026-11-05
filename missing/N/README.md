@@ -7139,6 +7139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nox | 5620 | [5620-nox.json](./5620-nox.json) |
 | Nox Aeterna: Veil of Darkness | 333290 | [333290-nox-aeterna-veil-of-darkness.json](./333290-nox-aeterna-veil-of-darkness.json) |
 | Nox Archaist | 141465 | [141465-nox-archaist.json](./141465-nox-archaist.json) |
+| Nox Archaist Game Bundle | 248278 | [248278-nox-archaist-game-bundle.json](./248278-nox-archaist-game-bundle.json) |
 | Nox Archaist: Lord of Storms | 247430 | [247430-nox-archaist-lord-of-storms.json](./247430-nox-archaist-lord-of-storms.json) |
 | Nox Dash | 331480 | [331480-nox-dash.json](./331480-nox-dash.json) |
 | Nox Mortalis | 323006 | [323006-nox-mortalis.json](./323006-nox-mortalis.json) |
