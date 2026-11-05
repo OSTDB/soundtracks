@@ -385,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caillou: Four Seasons of Fun | 137020 | [137020-caillou-four-seasons-of-fun.json](./137020-caillou-four-seasons-of-fun.json) |
 | Caillou: Magic Playhouse | 73885 | [73885-caillou-magic-playhouse.json](./73885-caillou-magic-playhouse.json) |
 | Caillou: Ready to Read | 206700 | [206700-caillou-ready-to-read.json](./206700-caillou-ready-to-read.json) |
+| Caim | 280032 | [280032-caim.json](./280032-caim.json) |
 | Cain | 184838 | [184838-cain.json](./184838-cain.json) |
 | Cain | 380049 | [380049-cain.json](./380049-cain.json) |
 | Cain & Iddo: Break Week | 316138 | [316138-cain-and-iddo-break-week.json](./316138-cain-and-iddo-break-week.json) |
@@ -10558,6 +10559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clue Kaguya-sama: Love is War | 262363 | [262363-clue-kaguya-sama-love-is-war.json](./262363-clue-kaguya-sama-love-is-war.json) |
 | Clue Murder at Boddy Mansion | 28097 | [28097-clue-murder-at-boddy-mansion.json](./28097-clue-murder-at-boddy-mansion.json) |
 | Clue Solver | 105532 | [105532-clue-solver.json](./105532-clue-solver.json) |
+| Clue: Black Adder Edition | 280004 | [280004-clue-black-adder-edition.json](./280004-clue-black-adder-edition.json) |
 | Clue: Classic Mystery Game | 88928 | [88928-clue-classic-mystery-game.json](./88928-clue-classic-mystery-game.json) |
 | Clue: Deluxe Edition | 279886 | [279886-clue-deluxe-edition.json](./279886-clue-deluxe-edition.json) |
 | Clue: Murder By Death | 267439 | [267439-clue-murder-by-death.json](./267439-clue-murder-by-death.json) |
@@ -15887,6 +15889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Garrett | 13529 | [13529-crash-garrett.json](./13529-crash-garrett.json) |
 | Crash it Smash it | 74758 | [74758-crash-it-smash-it.json](./74758-crash-it-smash-it.json) |
 | Crash Landed | 115406 | [115406-crash-landed.json](./115406-crash-landed.json) |
+| Crash Landed | 279999 | [279999-crash-landed.json](./279999-crash-landed.json) |
 | Crash Landed | 371462 | [371462-crash-landed.json](./371462-crash-landed.json) |
 | Crash Landing | 33756 | [33756-crash-landing.json](./33756-crash-landing.json) |
 | Crash Math | 291800 | [291800-crash-math.json](./291800-crash-math.json) |
