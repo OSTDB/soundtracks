@@ -1449,6 +1449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Apocalypse: The Last Fortress | 235067 | [235067-zombie-apocalypse-the-last-fortress.json](./235067-zombie-apocalypse-the-last-fortress.json) |
 | Zombie Area! | 100510 | [100510-zombie-area.json](./100510-zombie-area.json) |
 | Zombie Arena | 220740 | [220740-zombie-arena.json](./220740-zombie-arena.json) |
+| Zombie Arena Survival | 256599 | [256599-zombie-arena-survival.json](./256599-zombie-arena-survival.json) |
 | Zombie Army 4: Dead War - American Sea Captain Character | 155454 | [155454-zombie-army-4-dead-war-american-sea-captain-character.json](./155454-zombie-army-4-dead-war-american-sea-captain-character.json) |
 | Zombie Army 4: Dead War - Deluxe Edition | 129784 | [129784-zombie-army-4-dead-war-deluxe-edition.json](./129784-zombie-army-4-dead-war-deluxe-edition.json) |
 | Zombie Army 4: Dead War - French Resistance Fighter Character | 155452 | [155452-zombie-army-4-dead-war-french-resistance-fighter-character.json](./155452-zombie-army-4-dead-war-french-resistance-fighter-character.json) |
@@ -1661,6 +1662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Hunter Video Game | 220128 | [220128-zombie-hunter-video-game.json](./220128-zombie-hunter-video-game.json) |
 | Zombie Hunter, Inc. | 34832 | [34832-zombie-hunter-inc.json](./34832-zombie-hunter-inc.json) |
 | Zombie Hunter: Crimson Hanbok | 238057 | [238057-zombie-hunter-crimson-hanbok.json](./238057-zombie-hunter-crimson-hanbok.json) |
+| Zombie Hunter: D-Day | 256597 | [256597-zombie-hunter-d-day.json](./256597-zombie-hunter-d-day.json) |
 | Zombie Hunter: Mobile Shooting Game | 159239 | [159239-zombie-hunter-mobile-shooting-game.json](./159239-zombie-hunter-mobile-shooting-game.json) |
 | Zombie Hunters | 21552 | [21552-zombie-hunters.json](./21552-zombie-hunters.json) |
 | Zombie Hunters 2 | 21553 | [21553-zombie-hunters-2.json](./21553-zombie-hunters-2.json) |
