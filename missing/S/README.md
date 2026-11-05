@@ -12182,6 +12182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Ball | 80361 | [80361-sky-ball.json](./80361-sky-ball.json) |
 | Sky Ball | 81894 | [81894-sky-ball.json](./81894-sky-ball.json) |
 | Sky Ball Racing | 188387 | [188387-sky-ball-racing.json](./188387-sky-ball-racing.json) |
+| Sky Balloon Freakout DX | 284711 | [284711-sky-balloon-freakout-dx.json](./284711-sky-balloon-freakout-dx.json) |
 | Sky Baron: War of Planes | 101531 | [101531-sky-baron-war-of-planes.json](./101531-sky-baron-war-of-planes.json) |
 | Sky Base | 41105 | [41105-sky-base.json](./41105-sky-base.json) |
 | Sky Battles | 35834 | [35834-sky-battles.json](./35834-sky-battles.json) |
@@ -14691,6 +14692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snax Lite (Cooking Arcade) | 100230 | [100230-snax-lite-cooking-arcade.json](./100230-snax-lite-cooking-arcade.json) |
 | Snayk 3+ | 411647 | [411647-snayk-3.json](./411647-snayk-3.json) |
 | Snazzy and Groovy in Crystal Town | 313205 | [313205-snazzy-and-groovy-in-crystal-town.json](./313205-snazzy-and-groovy-in-crystal-town.json) |
+| Sneak '95 | 284740 | [284740-sneak-95.json](./284740-sneak-95.json) |
 | Sneak & Snitch | 423372 | [423372-sneak-and-snitch.json](./423372-sneak-and-snitch.json) |
 | Sneak and Snatch | 78376 | [78376-sneak-and-snatch.json](./78376-sneak-and-snatch.json) |
 | Sneak Attack | 24865 | [24865-sneak-attack.json](./24865-sneak-attack.json) |
@@ -22495,6 +22497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Against Spy | 57639 | [57639-spy-against-spy.json](./57639-spy-against-spy.json) |
 | Spy Alarm | 148572 | [148572-spy-alarm.json](./148572-spy-alarm.json) |
 | Spy Alliance | 371495 | [371495-spy-alliance.json](./371495-spy-alliance.json) |
+| Spy Balloon Freakout | 284710 | [284710-spy-balloon-freakout.json](./284710-spy-balloon-freakout.json) |
 | Spy Bot Chronicles | 78344 | [78344-spy-bot-chronicles.json](./78344-spy-bot-chronicles.json) |
 | Spy Bugs | 35345 | [35345-spy-bugs.json](./35345-spy-bugs.json) |
 | Spy Car | 401797 | [401797-spy-car.json](./401797-spy-car.json) |
@@ -25786,6 +25789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Settlers | 272276 | [272276-stellar-settlers.json](./272276-stellar-settlers.json) |
 | Stellar Shapers | 333033 | [333033-stellar-shapers.json](./333033-stellar-shapers.json) |
 | Stellar Shipyard | 388717 | [388717-stellar-shipyard.json](./388717-stellar-shipyard.json) |
+| Stellar Shuttle | 284713 | [284713-stellar-shuttle.json](./284713-stellar-shuttle.json) |
 | Stellar Smooch | 60758 | [60758-stellar-smooch.json](./60758-stellar-smooch.json) |
 | Stellar Sovereigns | 176178 | [176178-stellar-sovereigns.json](./176178-stellar-sovereigns.json) |
 | Stellar Space | 203630 | [203630-stellar-space.json](./203630-stellar-space.json) |
