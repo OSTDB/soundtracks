@@ -6114,6 +6114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Day: Home Defender | 129025 | [129025-first-day-home-defender.json](./129025-first-day-home-defender.json) |
 | First Days of Atlantis | 158387 | [158387-first-days-of-atlantis.json](./158387-first-days-of-atlantis.json) |
 | First Dwarf | 215296 | [215296-first-dwarf.json](./215296-first-dwarf.json) |
+| First Encounters | 278762 | [278762-first-encounters.json](./278762-first-encounters.json) |
 | First Expedition | 2892 | [2892-first-expedition.json](./2892-first-expedition.json) |
 | First Feudal | 75813 | [75813-first-feudal.json](./75813-first-feudal.json) |
 | First Flight | 307582 | [307582-first-flight.json](./307582-first-flight.json) |
@@ -11060,6 +11061,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frank's Kitchen | 180055 | [180055-franks-kitchen.json](./180055-franks-kitchen.json) |
 | Franken | 199805 | [199805-franken.json](./199805-franken.json) |
 | Franken Girl | 208014 | [208014-franken-girl.json](./208014-franken-girl.json) |
+| FrankenBob's Quest | 278816 | [278816-frankenbobs-quest.json](./278816-frankenbobs-quest.json) |
+| FrankenBob's Quest Pt 2 | 278817 | [278817-frankenbobs-quest-pt-2.json](./278817-frankenbobs-quest-pt-2.json) |
 | Frankendice | 286316 | [286316-frankendice.json](./286316-frankendice.json) |
 | FrankenSketch | 413808 | [413808-frankensketch.json](./413808-frankensketch.json) |
 | Frankenstein | 15224 | [15224-frankenstein.json](./15224-frankenstein.json) |
@@ -13736,6 +13739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuyu no Tsuma | 173438 | [173438-fuyu-no-tsuma.json](./173438-fuyu-no-tsuma.json) |
 | Fuyu Uso: Snow World End | 379634 | [379634-fuyu-uso-snow-world-end.json](./379634-fuyu-uso-snow-world-end.json) |
 | Fuyuiro no Muffler | 97742 | [97742-fuyuiro-no-muffler.json](./97742-fuyuiro-no-muffler.json) |
+| Fuyuu | 278801 | [278801-fuyuu.json](./278801-fuyuu.json) |
 | Fuyuzono Sacrifice | 287893 | [287893-fuyuzono-sacrifice.json](./287893-fuyuzono-sacrifice.json) |
 | Fuze Player | 221929 | [221929-fuze-player.json](./221929-fuze-player.json) |
 | Fuze4 Nintendo Switch | 85161 | [85161-fuze4-nintendo-switch.json](./85161-fuze4-nintendo-switch.json) |
