@@ -9765,6 +9765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plazma Burst 2 | 112404 | [112404-plazma-burst-2.json](./112404-plazma-burst-2.json) |
 | Plazma Burst: Forward to the Past | 124039 | [124039-plazma-burst-forward-to-the-past.json](./124039-plazma-burst-forward-to-the-past.json) |
 | Plead with the Mountain God | 177293 | [177293-plead-with-the-mountain-god.json](./177293-plead-with-the-mountain-god.json) |
+| Pleasant Vibes from the Party Garage | 260497 | [260497-pleasant-vibes-from-the-party-garage.json](./260497-pleasant-vibes-from-the-party-garage.json) |
 | Please | 134675 | [134675-please.json](./134675-please.json) |
 | Please | 29453 | [29453-please.json](./29453-please.json) |
 | Please (Don't) Touch the Art | 276478 | [276478-please-dont-touch-the-art.json](./276478-please-dont-touch-the-art.json) |
@@ -17257,6 +17258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppeteer | 212232 | [212232-puppeteer.json](./212232-puppeteer.json) |
 | Puppeteer: Control | 261836 | [261836-puppeteer-control.json](./261836-puppeteer-control.json) |
 | Puppeteer's Curse | 285499 | [285499-puppeteers-curse.json](./285499-puppeteers-curse.json) |
+| Puppetmaster | 260458 | [260458-puppetmaster.json](./260458-puppetmaster.json) |
 | Puppetmaster: Pose Viewer | 245741 | [245741-puppetmaster-pose-viewer.json](./245741-puppetmaster-pose-viewer.json) |
 | PuppeTNetiK: Speedrun Challenge | 152365 | [152365-puppetnetik-speedrun-challenge.json](./152365-puppetnetik-speedrun-challenge.json) |
 | Puppets' Dream TD | 261639 | [261639-puppets-dream-td.json](./261639-puppets-dream-td.json) |
