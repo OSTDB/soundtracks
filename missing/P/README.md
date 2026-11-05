@@ -921,6 +921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pale Man! | 113894 | [113894-pale-man.json](./113894-pale-man.json) |
 | Pale Moon Crisis | 29977 | [29977-pale-moon-crisis.json](./29977-pale-moon-crisis.json) |
 | Pale Night | 142811 | [142811-pale-night.json](./142811-pale-night.json) |
+| Pale Peril | 277091 | [277091-pale-peril.json](./277091-pale-peril.json) |
 | Pale Sand, Dark Skies | 179508 | [179508-pale-sand-dark-skies.json](./179508-pale-sand-dark-skies.json) |
 | Pale Spectrum - Part Two of the Book of Gray Magic | 56689 | [56689-pale-spectrum-part-two-of-the-book-of-gray-magic.json](./56689-pale-spectrum-part-two-of-the-book-of-gray-magic.json) |
 | Pale Tide | 403823 | [403823-pale-tide.json](./403823-pale-tide.json) |
@@ -2116,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal HK | 130530 | [130530-paranormal-hk.json](./130530-paranormal-hk.json) |
 | Paranormal Home Invaders | 289287 | [289287-paranormal-home-invaders.json](./289287-paranormal-home-invaders.json) |
 | Paranormal Hunter | 216642 | [216642-paranormal-hunter.json](./216642-paranormal-hunter.json) |
+| Paranormal Inc. | 277104 | [277104-paranormal-inc.json](./277104-paranormal-inc.json) |
 | Paranormal Meatball Simulator | 408008 | [408008-paranormal-meatball-simulator.json](./408008-paranormal-meatball-simulator.json) |
 | Paranormal Mission | 247120 | [247120-paranormal-mission.json](./247120-paranormal-mission.json) |
 | Paranormal Motel | 193401 | [193401-paranormal-motel.json](./193401-paranormal-motel.json) |
@@ -3562,6 +3564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peach Clicker | 312761 | [312761-peach-clicker.json](./312761-peach-clicker.json) |
 | Peach Hills Division | 297179 | [297179-peach-hills-division.json](./297179-peach-hills-division.json) |
 | Peach In Space! | 323610 | [323610-peach-in-space.json](./323610-peach-in-space.json) |
+| Peach is Missing | 277074 | [277074-peach-is-missing.json](./277074-peach-is-missing.json) |
 | Peach Tangle | 349269 | [349269-peach-tangle.json](./349269-peach-tangle.json) |
 | Peach Territory | 378438 | [378438-peach-territory.json](./378438-peach-territory.json) |
 | Peach Up | 338831 | [338831-peach-up.json](./338831-peach-up.json) |
@@ -3611,6 +3614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peaky Circus | 211819 | [211819-peaky-circus.json](./211819-peaky-circus.json) |
 | Peanut Butter Jelly Wars | 253874 | [253874-peanut-butter-jelly-wars.json](./253874-peanut-butter-jelly-wars.json) |
 | Peanut Butter Panic | 73277 | [73277-peanut-butter-panic.json](./73277-peanut-butter-panic.json) |
+| Peanut's Journey | 277082 | [277082-peanuts-journey.json](./277082-peanuts-journey.json) |
 | Peanuts: It's the Big Game, Charlie Brown! | 71226 | [71226-peanuts-its-the-big-game-charlie-brown.json](./71226-peanuts-its-the-big-game-charlie-brown.json) |
 | Peanuts: Snoopy's Town Tale | 96604 | [96604-peanuts-snoopys-town-tale.json](./96604-peanuts-snoopys-town-tale.json) |
 | Peanuts: Yearn 2 Learn | 45890 | [45890-peanuts-yearn-2-learn.json](./45890-peanuts-yearn-2-learn.json) |
