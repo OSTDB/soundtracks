@@ -429,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to the Collis | 244708 | [244708-back-to-the-collis.json](./244708-back-to-the-collis.json) |
 | Back to the Dark | 243606 | [243606-back-to-the-dark.json](./243606-back-to-the-dark.json) |
 | Back to the Dawn | 200544 | [200544-back-to-the-dawn.json](./200544-back-to-the-dawn.json) |
+| Back to the Earth | 290215 | [290215-back-to-the-earth.json](./290215-back-to-the-earth.json) |
 | Back to the Edo | 307963 | [307963-back-to-the-edo.json](./307963-back-to-the-edo.json) |
 | Back to the Egg! | 55742 | [55742-back-to-the-egg.json](./55742-back-to-the-egg.json) |
 | Back to the Fooker: Zombie Fooker 2 | 273820 | [273820-back-to-the-fooker-zombie-fooker-2.json](./273820-back-to-the-fooker-zombie-fooker-2.json) |
@@ -948,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4417,6 +4419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleTech: The Crescent Hawks' Revenge | 19185 | [19185-battletech-the-crescent-hawks-revenge.json](./19185-battletech-the-crescent-hawks-revenge.json) |
 | Battlethorne | 272207 | [272207-battlethorne.json](./272207-battlethorne.json) |
 | Battlethorne: Reckoning | 370907 | [370907-battlethorne-reckoning.json](./370907-battlethorne-reckoning.json) |
+| Battlethorne: Survivors | 290206 | [290206-battlethorne-survivors.json](./290206-battlethorne-survivors.json) |
 | BattleTime | 31886 | [31886-battletime.json](./31886-battletime.json) |
 | Battletoads | 103289 | [103289-battletoads.json](./103289-battletoads.json) |
 | Battletoads | 136619 | [136619-battletoads.json](./136619-battletoads.json) |
@@ -9557,6 +9560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaster Master: Enemy Below | 49840 | [49840-blaster-master-enemy-below.json](./49840-blaster-master-enemy-below.json) |
 | Blaster Master: Overdrive | 50995 | [50995-blaster-master-overdrive.json](./50995-blaster-master-overdrive.json) |
 | Blaster Master: Pimp your Ride | 216301 | [216301-blaster-master-pimp-your-ride.json](./216301-blaster-master-pimp-your-ride.json) |
+| Blaster Master: The Lost Key | 290231 | [290231-blaster-master-the-lost-key.json](./290231-blaster-master-the-lost-key.json) |
 | Blaster Multiplayer | 284010 | [284010-blaster-multiplayer.json](./284010-blaster-multiplayer.json) |
 | Blaster Rush Blocks | 360547 | [360547-blaster-rush-blocks.json](./360547-blaster-rush-blocks.json) |
 | Blaster Shooter GunGuy! | 34672 | [34672-blaster-shooter-gunguy.json](./34672-blaster-shooter-gunguy.json) |
