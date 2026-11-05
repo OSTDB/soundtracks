@@ -3772,6 +3772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aebal | 167174 | [167174-aebal.json](./167174-aebal.json) |
 | Aëdemphia | 125943 | [125943-aedemphia.json](./125943-aedemphia.json) |
 | Aedis Eclipse: Generation of Chaos | 44523 | [44523-aedis-eclipse-generation-of-chaos.json](./44523-aedis-eclipse-generation-of-chaos.json) |
+| Aegis | 266000 | [266000-aegis.json](./266000-aegis.json) |
 | Aegis | 31206 | [31206-aegis.json](./31206-aegis.json) |
 | Aegis Defenders | 35210 | [35210-aegis-defenders.json](./35210-aegis-defenders.json) |
 | Aegis Descent | 199281 | [199281-aegis-descent.json](./199281-aegis-descent.json) |
@@ -17202,6 +17203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autopanic | 216684 | [216684-autopanic.json](./216684-autopanic.json) |
 | Autopanic Zero | 236786 | [236786-autopanic-zero.json](./236786-autopanic-zero.json) |
 | AutoParts Simulator | 346163 | [346163-autoparts-simulator.json](./346163-autoparts-simulator.json) |
+| Autophagy | 265997 | [265997-autophagy.json](./265997-autophagy.json) |
 | Autopsy Simulator | 132385 | [132385-autopsy-simulator.json](./132385-autopsy-simulator.json) |
 | Autos | 197392 | [197392-autos.json](./197392-autos.json) |
 | AutoSim 2 | 235860 | [235860-autosim-2.json](./235860-autosim-2.json) |
