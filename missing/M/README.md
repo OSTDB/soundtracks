@@ -2097,6 +2097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mai-Hime: Unmei no Keitouju | 79258 | [79258-mai-hime-unmei-no-keitouju.json](./79258-mai-hime-unmei-no-keitouju.json) |
 | Mai-Otome: Otome Butou Shi | 72650 | [72650-mai-otome-otome-butou-shi.json](./72650-mai-otome-otome-butou-shi.json) |
 | Maia | 188641 | [188641-maia.json](./188641-maia.json) |
+| Maia | 271982 | [271982-maia.json](./271982-maia.json) |
 | Maia and the Cool Kids | 185432 | [185432-maia-and-the-cool-kids.json](./185432-maia-and-the-cool-kids.json) |
 | Maid Cafe | 265435 | [265435-maid-cafe.json](./265435-maid-cafe.json) |
 | Maid Cafe Coop | 381636 | [381636-maid-cafe-coop.json](./381636-maid-cafe-coop.json) |
@@ -9798,6 +9799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor Blade | 54206 | [54206-meteor-blade.json](./54206-meteor-blade.json) |
 | Meteor Blaster | 97913 | [97913-meteor-blaster.json](./97913-meteor-blaster.json) |
 | Meteor Blasters | 199093 | [199093-meteor-blasters.json](./199093-meteor-blasters.json) |
+| Meteor Blastor | 272069 | [272069-meteor-blastor.json](./272069-meteor-blastor.json) |
 | Meteor Clash | 133325 | [133325-meteor-clash.json](./133325-meteor-clash.json) |
 | Meteor Command VR | 100827 | [100827-meteor-command-vr.json](./100827-meteor-command-vr.json) |
 | Meteor Commander | 233712 | [233712-meteor-commander.json](./233712-meteor-commander.json) |
