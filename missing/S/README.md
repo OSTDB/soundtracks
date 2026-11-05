@@ -1726,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanitism | 357679 | [357679-sanitism.json](./357679-sanitism.json) |
 | Sanity Break | 188245 | [188245-sanity-break.json](./188245-sanity-break.json) |
 | Sanity Break | 369013 | [369013-sanity-break.json](./369013-sanity-break.json) |
+| Sanity Chase | 274274 | [274274-sanity-chase.json](./274274-sanity-chase.json) |
 | Sanity City | 192559 | [192559-sanity-city.json](./192559-sanity-city.json) |
 | Sanity of Morris | 137638 | [137638-sanity-of-morris.json](./137638-sanity-of-morris.json) |
 | Sanity Protocol | 355029 | [355029-sanity-protocol.json](./355029-sanity-protocol.json) |
@@ -3954,6 +3955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Change | 302373 | [302373-sea-of-change.json](./302373-sea-of-change.json) |
 | Sea of Chaos | 293590 | [293590-sea-of-chaos.json](./293590-sea-of-chaos.json) |
 | Sea of Choices | 197095 | [197095-sea-of-choices.json](./197095-sea-of-choices.json) |
+| Sea of Conquest | 274291 | [274291-sea-of-conquest.json](./274291-sea-of-conquest.json) |
 | Sea of Dawn | 167674 | [167674-sea-of-dawn.json](./167674-sea-of-dawn.json) |
 | Sea of Dreamland | 48322 | [48322-sea-of-dreamland.json](./48322-sea-of-dreamland.json) |
 | Sea of Dreams | 195487 | [195487-sea-of-dreams.json](./195487-sea-of-dreams.json) |
@@ -11947,6 +11949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skibidi Toilet: Battle Royale | 321490 | [321490-skibidi-toilet-battle-royale.json](./321490-skibidi-toilet-battle-royale.json) |
 | Skibidi Toilets: Invasion | 266597 | [266597-skibidi-toilets-invasion.json](./266597-skibidi-toilets-invasion.json) |
 | Skibidi War: Toilets Attack | 263614 | [263614-skibidi-war-toilets-attack.json](./263614-skibidi-war-toilets-attack.json) |
+| Skibidi.io | 274277 | [274277-skibidi-io.json](./274277-skibidi-io.json) |
 | SkibidiVerse | 266905 | [266905-skibidiverse.json](./266905-skibidiverse.json) |
 | Skibigo | 397509 | [397509-skibigo.json](./397509-skibigo.json) |
 | Skibum | 58534 | [58534-skibum.json](./58534-skibum.json) |
@@ -29653,6 +29656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunrise Citadel | 268922 | [268922-sunrise-citadel.json](./268922-sunrise-citadel.json) |
 | Sunrise Doll | 316542 | [316542-sunrise-doll.json](./316542-sunrise-doll.json) |
 | Sunrise Down | 312730 | [312730-sunrise-down.json](./312730-sunrise-down.json) |
+| Sunrise Eiyuutan | 274293 | [274293-sunrise-eiyuutan.json](./274293-sunrise-eiyuutan.json) |
 | Sunrise GP | 245893 | [245893-sunrise-gp.json](./245893-sunrise-gp.json) |
 | Sunrise of the Time: End of Blue | 375944 | [375944-sunrise-of-the-time-end-of-blue.json](./375944-sunrise-of-the-time-end-of-blue.json) |
 | Sunrise Paradise | 171786 | [171786-sunrise-paradise.json](./171786-sunrise-paradise.json) |
