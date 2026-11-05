@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacknet: Complete Edition | 51826 | [51826-hacknet-complete-edition.json](./51826-hacknet-complete-edition.json) |
 | Hacknet: Ultimate Edition | 51825 | [51825-hacknet-ultimate-edition.json](./51825-hacknet-ultimate-edition.json) |
 | HackOS | 145923 | [145923-hackos.json](./145923-hackos.json) |
+| HackShield | 278798 | [278798-hackshield.json](./278798-hackshield.json) |
 | Hackshot | 173263 | [173263-hackshot.json](./173263-hackshot.json) |
 | HackSlash | 361894 | [361894-hackslash.json](./361894-hackslash.json) |
 | HackStack | 200442 | [200442-hackstack.json](./200442-hackstack.json) |
@@ -9413,6 +9414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hook, Line, and Axe | 360652 | [360652-hook-line-and-axe.json](./360652-hook-line-and-axe.json) |
 | Hook, Line, and Spelunker | 214730 | [214730-hook-line-and-spelunker.json](./214730-hook-line-and-spelunker.json) |
 | Hook: Complete Edition | 340742 | [340742-hook-complete-edition.json](./340742-hook-complete-edition.json) |
+| Hookah Haze | 278806 | [278806-hookah-haze.json](./278806-hookah-haze.json) |
 | Hookbots | 112138 | [112138-hookbots.json](./112138-hookbots.json) |
 | HookCat | 159267 | [159267-hookcat.json](./159267-hookcat.json) |
 | Hooked | 265485 | [265485-hooked.json](./265485-hooked.json) |
