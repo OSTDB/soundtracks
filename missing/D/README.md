@@ -11518,6 +11518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogs and Paws | 308604 | [308604-dogs-and-paws.json](./308604-dogs-and-paws.json) |
 | Dogs and Pigs | 187187 | [187187-dogs-and-pigs.json](./187187-dogs-and-pigs.json) |
 | Dogs Can Speak English | 228655 | [228655-dogs-can-speak-english.json](./228655-dogs-can-speak-english.json) |
+| Dogs Club | 281803 | [281803-dogs-club.json](./281803-dogs-club.json) |
 | Dogs Contrast | 333485 | [333485-dogs-contrast.json](./333485-dogs-contrast.json) |
 | Dogs Cyberpuzzle | 203949 | [203949-dogs-cyberpuzzle.json](./203949-dogs-cyberpuzzle.json) |
 | Dogs Day | 238555 | [238555-dogs-day.json](./238555-dogs-day.json) |
