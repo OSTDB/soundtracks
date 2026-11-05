@@ -4629,6 +4629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector Space | 382135 | [382135-sector-space.json](./382135-sector-space.json) |
 | Sector Strike | 145016 | [145016-sector-strike.json](./145016-sector-strike.json) |
 | Sector Sweep | 224598 | [224598-sector-sweep.json](./224598-sector-sweep.json) |
+| Sector Unknown | 291287 | [291287-sector-unknown.json](./291287-sector-unknown.json) |
 | Sector War | 413131 | [413131-sector-war.json](./413131-sector-war.json) |
 | Sector Yama | 289800 | [289800-sector-yama.json](./289800-sector-yama.json) |
 | Sector Zero | 304298 | [304298-sector-zero.json](./304298-sector-zero.json) |
@@ -18578,6 +18579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soviet Lunapark VR | 97018 | [97018-soviet-lunapark-vr.json](./97018-soviet-lunapark-vr.json) |
 | Soviet Monsters: Ekranoplans | 35193 | [35193-soviet-monsters-ekranoplans.json](./35193-soviet-monsters-ekranoplans.json) |
 | Soviet Simulator | 164194 | [164194-soviet-simulator.json](./164194-soviet-simulator.json) |
+| Soviet Soldier | 291402 | [291402-soviet-soldier.json](./291402-soviet-soldier.json) |
 | Soviet Souls | 118329 | [118329-soviet-souls.json](./118329-soviet-souls.json) |
 | Soviet Strike | 19418 | [19418-soviet-strike.json](./19418-soviet-strike.json) |
 | Soviet Union 2010 | 267567 | [267567-soviet-union-2010.json](./267567-soviet-union-2010.json) |
@@ -19107,6 +19109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -22861,6 +22864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirm | 89252 | [89252-squirm.json](./89252-squirm.json) |
 | Squirm 16 | 313498 | [313498-squirm-16.json](./313498-squirm-16.json) |
 | Squirmer the Game | 73589 | [73589-squirmer-the-game.json](./73589-squirmer-the-game.json) |
+| Squirmish: The Videogame of Brawling Beasties | 291269 | [291269-squirmish-the-videogame-of-brawling-beasties.json](./291269-squirmish-the-videogame-of-brawling-beasties.json) |
 | Squirmunity: Ballad of the prankmonger | 222182 | [222182-squirmunity-ballad-of-the-prankmonger.json](./222182-squirmunity-ballad-of-the-prankmonger.json) |
 | Squirrel & Bär: Learn English | 122085 | [122085-squirrel-and-bar-learn-english.json](./122085-squirrel-and-bar-learn-english.json) |
 | Squirrel and Nuts | 239645 | [239645-squirrel-and-nuts.json](./239645-squirrel-and-nuts.json) |
@@ -25702,6 +25706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Interface: Lost Galaxy | 237846 | [237846-stellar-interface-lost-galaxy.json](./237846-stellar-interface-lost-galaxy.json) |
 | Stellar Interface: Stellar Spacecrafts | 243229 | [243229-stellar-interface-stellar-spacecrafts.json](./243229-stellar-interface-stellar-spacecrafts.json) |
 | Stellar Larceny | 309308 | [309308-stellar-larceny.json](./309308-stellar-larceny.json) |
+| Stellar Legacy | 291206 | [291206-stellar-legacy.json](./291206-stellar-legacy.json) |
 | Stellar Mercenaries | 62773 | [62773-stellar-mercenaries.json](./62773-stellar-mercenaries.json) |
 | Stellar Mess: Operation Kush | 380122 | [380122-stellar-mess-operation-kush.json](./380122-stellar-mess-operation-kush.json) |
 | Stellar Mess: The Princess Conundrum - Chapter 1 | 220504 | [220504-stellar-mess-the-princess-conundrum-chapter-1.json](./220504-stellar-mess-the-princess-conundrum-chapter-1.json) |
@@ -26483,6 +26488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop Cats | 116739 | [116739-stop-cats.json](./116739-stop-cats.json) |
 | Stop Dead | 254037 | [254037-stop-dead.json](./254037-stop-dead.json) |
 | Stop Online: Battle of Words | 34353 | [34353-stop-online-battle-of-words.json](./34353-stop-online-battle-of-words.json) |
+| Stop Rod | 291204 | [291204-stop-rod.json](./291204-stop-rod.json) |
 | Stop Sign Sprint | 263371 | [263371-stop-sign-sprint.json](./263371-stop-sign-sprint.json) |
 | Stop Slapping Tenshi! | 330364 | [330364-stop-slapping-tenshi.json](./330364-stop-slapping-tenshi.json) |
 | Stop Stress: A Day of Fury | 67253 | [67253-stop-stress-a-day-of-fury.json](./67253-stop-stress-a-day-of-fury.json) |
@@ -27640,6 +27646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stretch Guy | 315844 | [315844-stretch-guy.json](./315844-stretch-guy.json) |
 | Stretch Panic | 28502 | [28502-stretch-panic.json](./28502-stretch-panic.json) |
 | Stretch Text: Find Proverb | 266834 | [266834-stretch-text-find-proverb.json](./266834-stretch-text-find-proverb.json) |
+| Stretcher Men | 291291 | [291291-stretcher-men.json](./291291-stretcher-men.json) |
 | StretchingVr | 99014 | [99014-stretchingvr.json](./99014-stretchingvr.json) |
 | Stretchmancer | 282093 | [282093-stretchmancer.json](./282093-stretchmancer.json) |
 | Stretchmancer | 331185 | [331185-stretchmancer.json](./331185-stretchmancer.json) |
@@ -29382,6 +29389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunday Morning | 312146 | [312146-sunday-morning.json](./312146-sunday-morning.json) |
 | Sunday Night Suicide | 228923 | [228923-sunday-night-suicide.json](./228923-sunday-night-suicide.json) |
 | Sunday Rivals | 138644 | [138644-sunday-rivals.json](./138644-sunday-rivals.json) |
+| Sunday Run | 291268 | [291268-sunday-run.json](./291268-sunday-run.json) |
 | Sunday School | 376052 | [376052-sunday-school.json](./376052-sunday-school.json) |
 | Sunday Sundae | 186642 | [186642-sunday-sundae.json](./186642-sunday-sundae.json) |
 | Sunday vs. Magazine: Shuuketsu! Choujou Daikessen | 42841 | [42841-sunday-vs-magazine-shuuketsu-choujou-daikessen.json](./42841-sunday-vs-magazine-shuuketsu-choujou-daikessen.json) |
