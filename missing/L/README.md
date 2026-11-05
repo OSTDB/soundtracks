@@ -1357,6 +1357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Line of Defense: Second Wave | 392626 | [392626-last-line-of-defense-second-wave.json](./392626-last-line-of-defense-second-wave.json) |
 | Last Line VR: A Zombie Defense Game | 119588 | [119588-last-line-vr-a-zombie-defense-game.json](./119588-last-line-vr-a-zombie-defense-game.json) |
 | Last Look along Woodward Boulevard | 321171 | [321171-last-look-along-woodward-boulevard.json](./321171-last-look-along-woodward-boulevard.json) |
+| Last Loremaster | 294336 | [294336-last-loremaster.json](./294336-last-loremaster.json) |
 | Last Lovers | 192244 | [192244-last-lovers.json](./192244-last-lovers.json) |
 | Last Mage | 370978 | [370978-last-mage.json](./370978-last-mage.json) |
 | Last Mage Standing | 141498 | [141498-last-mage-standing.json](./141498-last-mage-standing.json) |
