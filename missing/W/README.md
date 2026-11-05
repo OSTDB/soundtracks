@@ -938,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the Ancients | 110222 | [110222-war-of-the-ancients.json](./110222-war-of-the-ancients.json) |
 | War of the Austrian Succession | 412212 | [412212-war-of-the-austrian-succession.json](./412212-war-of-the-austrian-succession.json) |
 | War of the Bugs | 40527 | [40527-war-of-the-bugs.json](./40527-war-of-the-bugs.json) |
+| War of the Fourteen Dynasties | 248959 | [248959-war-of-the-fourteen-dynasties.json](./248959-war-of-the-fourteen-dynasties.json) |
 | War of the Gods | 107087 | [107087-war-of-the-gods.json](./107087-war-of-the-gods.json) |
 | War of the Gods | 404365 | [404365-war-of-the-gods.json](./404365-war-of-the-gods.json) |
 | War of the Human Tanks - Complete Collection | 53884 | [53884-war-of-the-human-tanks-complete-collection.json](./53884-war-of-the-human-tanks-complete-collection.json) |
@@ -1844,6 +1845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warpath: Jurassic Park | 8278 | [8278-warpath-jurassic-park.json](./8278-warpath-jurassic-park.json) |
 | Warpaws | 219259 | [219259-warpaws.json](./219259-warpaws.json) |
 | WarpBall | 34482 | [34482-warpball.json](./34482-warpball.json) |
+| Warped | 248966 | [248966-warped.json](./248966-warped.json) |
 | Warped Kart Racers | 200376 | [200376-warped-kart-racers.json](./200376-warped-kart-racers.json) |
 | Warped North | 263451 | [263451-warped-north.json](./263451-warped-north.json) |
 | Warped Space Shooter | 182980 | [182980-warped-space-shooter.json](./182980-warped-space-shooter.json) |
