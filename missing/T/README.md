@@ -7272,6 +7272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coffee Shop Collision | 337699 | [337699-the-coffee-shop-collision.json](./337699-the-coffee-shop-collision.json) |
 | The Coffin of Andrew and Renee | 356043 | [356043-the-coffin-of-andrew-and-renee.json](./356043-the-coffin-of-andrew-and-renee.json) |
 | The Coffin of Sarah | 351513 | [351513-the-coffin-of-sarah.json](./351513-the-coffin-of-sarah.json) |
+| The Cognition Engine | 261041 | [261041-the-cognition-engine.json](./261041-the-cognition-engine.json) |
 | The Coil of Possibility | 137968 | [137968-the-coil-of-possibility.json](./137968-the-coil-of-possibility.json) |
 | The Coin | 383159 | [383159-the-coin.json](./383159-the-coin.json) |
 | The Coin Game | 99192 | [99192-the-coin-game.json](./99192-the-coin-game.json) |
@@ -11404,6 +11405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters '95 | 15427 | [15427-the-king-of-fighters-95.json](./15427-the-king-of-fighters-95.json) |
 | The King of Fighters '95 | 191473 | [191473-the-king-of-fighters-95.json](./191473-the-king-of-fighters-95.json) |
 | The King of Fighters '96 | 12588 | [12588-the-king-of-fighters-96.json](./12588-the-king-of-fighters-96.json) |
+| The King of Fighters '96 | 261014 | [261014-the-king-of-fighters-96.json](./261014-the-king-of-fighters-96.json) |
 | The King of Fighters '96 Collection | 75462 | [75462-the-king-of-fighters-96-collection.json](./75462-the-king-of-fighters-96-collection.json) |
 | The King of Fighters '97 | 15428 | [15428-the-king-of-fighters-97.json](./15428-the-king-of-fighters-97.json) |
 | The King of Fighters '97 OL | 80566 | [80566-the-king-of-fighters-97-ol.json](./80566-the-king-of-fighters-97-ol.json) |
@@ -14837,6 +14839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Princess and The Frog | 172423 | [172423-the-princess-and-the-frog.json](./172423-the-princess-and-the-frog.json) |
 | The Princess and the Pauper: Storybook Adventures | 293199 | [293199-the-princess-and-the-pauper-storybook-adventures.json](./293199-the-princess-and-the-pauper-storybook-adventures.json) |
 | The Princess and the Portals | 413868 | [413868-the-princess-and-the-portals.json](./413868-the-princess-and-the-portals.json) |
+| The Princess and the Rose Knight | 261059 | [261059-the-princess-and-the-rose-knight.json](./261059-the-princess-and-the-rose-knight.json) |
 | The Princess Bride Game | 8493 | [8493-the-princess-bride-game.json](./8493-the-princess-bride-game.json) |
 | The Princess Bride: The Official Game | 58854 | [58854-the-princess-bride-the-official-game.json](./58854-the-princess-bride-the-official-game.json) |
 | The Princess Case: A Royal Scoop | 54296 | [54296-the-princess-case-a-royal-scoop.json](./54296-the-princess-case-a-royal-scoop.json) |
@@ -19309,6 +19312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | These Nights Alone | 156071 | [156071-these-nights-alone.json](./156071-these-nights-alone.json) |
 | These nights in Cairo | 74688 | [74688-these-nights-in-cairo.json](./74688-these-nights-in-cairo.json) |
 | These Out of Control Booty Shaking Kittens are Ruining My Castlevania! | 184745 | [184745-these-out-of-control-booty-shaking-kittens-are-ruining-my-castlevania.json](./184745-these-out-of-control-booty-shaking-kittens-are-ruining-my-castlevania.json) |
+| These Remains | 261008 | [261008-these-remains.json](./261008-these-remains.json) |
 | These Robotic Hearts of Mine | 22920 | [22920-these-robotic-hearts-of-mine.json](./22920-these-robotic-hearts-of-mine.json) |
 | These Starless Skies | 409594 | [409594-these-starless-skies.json](./409594-these-starless-skies.json) |
 | These Thieving Hearts | 289966 | [289966-these-thieving-hearts.json](./289966-these-thieving-hearts.json) |
@@ -19804,6 +19808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas Scott | 143927 | [143927-thomas-scott.json](./143927-thomas-scott.json) |
 | Thomas the Tank Engine & Friends | 128845 | [128845-thomas-the-tank-engine-and-friends.json](./128845-thomas-the-tank-engine-and-friends.json) |
 | Thomas the Tank Engine & Friends | 137268 | [137268-thomas-the-tank-engine-and-friends.json](./137268-thomas-the-tank-engine-and-friends.json) |
+| Thomas the Tank Engine & Friends | 261048 | [261048-thomas-the-tank-engine-and-friends.json](./261048-thomas-the-tank-engine-and-friends.json) |
 | Thomas the Tank Engine & Friends | 284218 | [284218-thomas-the-tank-engine-and-friends.json](./284218-thomas-the-tank-engine-and-friends.json) |
 | Thomas the Tank Engine & Friends | 289757 | [289757-thomas-the-tank-engine-and-friends.json](./289757-thomas-the-tank-engine-and-friends.json) |
 | Thomas the Tank Engine & Friends | 308706 | [308706-thomas-the-tank-engine-and-friends.json](./308706-thomas-the-tank-engine-and-friends.json) |
@@ -32265,6 +32270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Peaks | 199028 | [199028-twin-peaks.json](./199028-twin-peaks.json) |
 | Twin Peaks - Black Lodge 2600 | 50369 | [50369-twin-peaks-black-lodge-2600.json](./50369-twin-peaks-black-lodge-2600.json) |
 | Twin Peaks VR | 110584 | [110584-twin-peaks-vr.json](./110584-twin-peaks-vr.json) |
+| Twin Peaks: Into the Night | 261025 | [261025-twin-peaks-into-the-night.json](./261025-twin-peaks-into-the-night.json) |
 | Twin Qix | 40491 | [40491-twin-qix.json](./40491-twin-qix.json) |
 | Twin Roads | 43176 | [43176-twin-roads.json](./43176-twin-roads.json) |
 | Twin Robots | 35144 | [35144-twin-robots.json](./35144-twin-robots.json) |
