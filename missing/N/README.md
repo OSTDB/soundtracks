@@ -682,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto to Boruto: Shinobi Striker - Master Character Training Pack: Kaguya Otsutsuki | 263509 | [263509-naruto-to-boruto-shinobi-striker-master-character-training-pack-kaguya-otsutsuki.json](./263509-naruto-to-boruto-shinobi-striker-master-character-training-pack-kaguya-otsutsuki.json) |
 | Naruto to Boruto: Shinobi Striker - Master Character Training Pack: Madara Uchiha | 230978 | [230978-naruto-to-boruto-shinobi-striker-master-character-training-pack-madara-uchiha.json](./230978-naruto-to-boruto-shinobi-striker-master-character-training-pack-madara-uchiha.json) |
 | Naruto to Boruto: Shinobi Striker - Master Character Training Pack: Nagato | 230979 | [230979-naruto-to-boruto-shinobi-striker-master-character-training-pack-nagato.json](./230979-naruto-to-boruto-shinobi-striker-master-character-training-pack-nagato.json) |
+| Naruto to Boruto: Shinobi Striker - Master Character Training Pack: Naruto Uzumaki (Baryon Mode) | 265439 | [265439-naruto-to-boruto-shinobi-striker-master-character-training-pack-naruto-uzumaki-baryon-mode.json](./265439-naruto-to-boruto-shinobi-striker-master-character-training-pack-naruto-uzumaki-baryon-mode.json) |
 | Naruto to Boruto: Shinobi Striker - Master Character Training Pack: Obito Uchiha (Ten Tails) | 255244 | [255244-naruto-to-boruto-shinobi-striker-master-character-training-pack-obito-uchiha-ten-tails.json](./255244-naruto-to-boruto-shinobi-striker-master-character-training-pack-obito-uchiha-ten-tails.json) |
 | Naruto to Boruto: Shinobi Striker - Master Character Training Pack: Sakura Haruno | 230977 | [230977-naruto-to-boruto-shinobi-striker-master-character-training-pack-sakura-haruno.json](./230977-naruto-to-boruto-shinobi-striker-master-character-training-pack-sakura-haruno.json) |
 | Naruto to Boruto: Shinobi Striker - Master Character Training Pack: Sasori | 295112 | [295112-naruto-to-boruto-shinobi-striker-master-character-training-pack-sasori.json](./295112-naruto-to-boruto-shinobi-striker-master-character-training-pack-sasori.json) |
@@ -7514,6 +7515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nursery Rhyme | 69306 | [69306-nursery-rhyme.json](./69306-nursery-rhyme.json) |
 | Nursery Rhyme: Full HD Remaster | 411964 | [411964-nursery-rhyme-full-hd-remaster.json](./411964-nursery-rhyme-full-hd-remaster.json) |
 | Nursery Slime | 195642 | [195642-nursery-slime.json](./195642-nursery-slime.json) |
+| Nurtopu | 264960 | [264960-nurtopu.json](./264960-nurtopu.json) |
 | Nurtopu: Fetö ile Mücadele | 204357 | [204357-nurtopu-feto-ile-mucadele.json](./204357-nurtopu-feto-ile-mucadele.json) |
 | Nurtured Human Plan: Meet a Date | 233031 | [233031-nurtured-human-plan-meet-a-date.json](./233031-nurtured-human-plan-meet-a-date.json) |
 | Nurujiru | 97671 | [97671-nurujiru.json](./97671-nurujiru.json) |
@@ -7586,6 +7588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyamiru to Bonzu no Daibouken | 73109 | [73109-nyamiru-to-bonzu-no-daibouken.json](./73109-nyamiru-to-bonzu-no-daibouken.json) |
 | Nyamo's Adventure | 182513 | [182513-nyamos-adventure.json](./182513-nyamos-adventure.json) |
 | Nyan Cat FLY! | 313545 | [313545-nyan-cat-fly.json](./313545-nyan-cat-fly.json) |
+| Nyan Cat: Candy Match | 264965 | [264965-nyan-cat-candy-match.json](./264965-nyan-cat-candy-match.json) |
 | Nyan Cat: Jump! | 64259 | [64259-nyan-cat-jump.json](./64259-nyan-cat-jump.json) |
 | Nyan Cat: Lost In Space | 34115 | [34115-nyan-cat-lost-in-space.json](./34115-nyan-cat-lost-in-space.json) |
 | Nyan Cat: The Space Journey | 344905 | [344905-nyan-cat-the-space-journey.json](./344905-nyan-cat-the-space-journey.json) |
