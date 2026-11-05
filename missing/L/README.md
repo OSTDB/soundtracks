@@ -5295,6 +5295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LineMaze | 272612 | [272612-linemaze.json](./272612-linemaze.json) |
 | Lineoff | 181913 | [181913-lineoff.json](./181913-lineoff.json) |
 | Linerunner | 396269 | [396269-linerunner.json](./396269-linerunner.json) |
+| Lines | 272054 | [272054-lines.json](./272054-lines.json) |
 | Lines | 91339 | [91339-lines.json](./91339-lines.json) |
 | Lines - Best Puzzle Game | 87073 | [87073-lines-best-puzzle-game.json](./87073-lines-best-puzzle-game.json) |
 | Lines 3D | 140567 | [140567-lines-3d.json](./140567-lines-3d.json) |
@@ -7739,6 +7740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Brother | 323895 | [323895-lost-brother.json](./323895-lost-brother.json) |
 | Lost Brothers | 127311 | [127311-lost-brothers.json](./127311-lost-brothers.json) |
 | Lost Bubbles: Sweet Mates | 185666 | [185666-lost-bubbles-sweet-mates.json](./185666-lost-bubbles-sweet-mates.json) |
+| Lost Budapest | 272071 | [272071-lost-budapest.json](./272071-lost-budapest.json) |
 | Lost Bus | 376769 | [376769-lost-bus.json](./376769-lost-bus.json) |
 | Lost but Lucid | 213549 | [213549-lost-but-lucid.json](./213549-lost-but-lucid.json) |
 | Lost Call | 392195 | [392195-lost-call.json](./392195-lost-call.json) |
