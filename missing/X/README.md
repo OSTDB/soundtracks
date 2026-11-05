@@ -799,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xibalba | 61156 | [61156-xibalba.json](./61156-xibalba.json) |
 | Xìbāo Zhànzhēng | 116112 | [116112-xibao-zhanzheng.json](./116112-xibao-zhanzheng.json) |
 | Xicon Exedra: Minor Advancement | 381786 | [381786-xicon-exedra-minor-advancement.json](./381786-xicon-exedra-minor-advancement.json) |
+| Xidia Gold | 261022 | [261022-xidia-gold.json](./261022-xidia-gold.json) |
 | Xié'è Zhīzǐ | 64047 | [64047-xiee-zhizi.json](./64047-xiee-zhizi.json) |
 | XII Scripta/Alea | 384141 | [384141-xii-scripta-alea.json](./384141-xii-scripta-alea.json) |
 | XII Stag | 43340 | [43340-xii-stag.json](./43340-xii-stag.json) |
