@@ -7615,6 +7615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choices, the Game | 83531 | [83531-choices-the-game.json](./83531-choices-the-game.json) |
 | Choices: Stories You Play | 88758 | [88758-choices-stories-you-play.json](./88758-choices-stories-you-play.json) |
 | Choirsaintess | 367060 | [367060-choirsaintess.json](./367060-choirsaintess.json) |
+| Chojiro | 253147 | [253147-chojiro.json](./253147-chojiro.json) |
 | Choju Yokai Giga | 151684 | [151684-choju-yokai-giga.json](./151684-choju-yokai-giga.json) |
 | Choker: Chess & Poker | 144646 | [144646-choker-chess-and-poker.json](./144646-choker-chess-and-poker.json) |
 | Chokkan Asonde Rilakkuma | 279117 | [279117-chokkan-asonde-rilakkuma.json](./279117-chokkan-asonde-rilakkuma.json) |
@@ -10814,6 +10815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coaster Racer | 386082 | [386082-coaster-racer.json](./386082-coaster-racer.json) |
 | Coaster Works | 6725 | [6725-coaster-works.json](./6725-coaster-works.json) |
 | Coasterama | 372830 | [372830-coasterama.json](./372830-coasterama.json) |
+| CoasterMania | 253164 | [253164-coastermania.json](./253164-coastermania.json) |
 | Coastiality | 96668 | [96668-coastiality.json](./96668-coastiality.json) |
 | Coastline | 209703 | [209703-coastline.json](./209703-coastline.json) |
 | Coastline Flight Simulator | 154006 | [154006-coastline-flight-simulator.json](./154006-coastline-flight-simulator.json) |
@@ -12436,6 +12438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CombinationVille | 334545 | [334545-combinationville.json](./334545-combinationville.json) |
 | Combine 2 Pumpkins | 321210 | [321210-combine-2-pumpkins.json](./321210-combine-2-pumpkins.json) |
 | Combine Destiny | 222417 | [222417-combine-destiny.json](./222417-combine-destiny.json) |
+| Combine Supermax | 253154 | [253154-combine-supermax.json](./253154-combine-supermax.json) |
 | Combine War Toys | 111029 | [111029-combine-war-toys.json](./111029-combine-war-toys.json) |
 | Combine! Dino Robot - Dino Corps | 90971 | [90971-combine-dino-robot-dino-corps.json](./90971-combine-dino-robot-dino-corps.json) |
 | Combined Arms Operations Series | 169713 | [169713-combined-arms-operations-series.json](./169713-combined-arms-operations-series.json) |
@@ -13573,6 +13576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Simulator 3: Console Edition | 129507 | [129507-construction-simulator-3-console-edition.json](./129507-construction-simulator-3-console-edition.json) |
 | Construction Simulator 4 | 292143 | [292143-construction-simulator-4.json](./292143-construction-simulator-4.json) |
 | Construction Simulator PRO | 88470 | [88470-construction-simulator-pro.json](./88470-construction-simulator-pro.json) |
+| Construction Simulator: Airfield Expansion | 253142 | [253142-construction-simulator-airfield-expansion.json](./253142-construction-simulator-airfield-expansion.json) |
 | Construction Simulator: Car & Bobblehead Pack | 308522 | [308522-construction-simulator-car-and-bobblehead-pack.json](./308522-construction-simulator-car-and-bobblehead-pack.json) |
 | Construction Simulator: Customization Kit | 308524 | [308524-construction-simulator-customization-kit.json](./308524-construction-simulator-customization-kit.json) |
 | Construction Simulator: Day One Edition | 208743 | [208743-construction-simulator-day-one-edition.json](./208743-construction-simulator-day-one-edition.json) |
