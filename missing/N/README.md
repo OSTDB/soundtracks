@@ -6697,6 +6697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nostalgia | 21904 | [21904-nostalgia.json](./21904-nostalgia.json) |
 | Nostalgia | 360584 | [360584-nostalgia.json](./360584-nostalgia.json) |
 | Nostalgia 1907 | 5407 | [5407-nostalgia-1907.json](./5407-nostalgia-1907.json) |
+| Nostalgia 2 | 268787 | [268787-nostalgia-2.json](./268787-nostalgia-2.json) |
 | Nostalgia Ain't What It Used to Be | 269101 | [269101-nostalgia-aint-what-it-used-to-be.json](./269101-nostalgia-aint-what-it-used-to-be.json) |
 | Nostalgia Game Shop: Tidy Up | 414768 | [414768-nostalgia-game-shop-tidy-up.json](./414768-nostalgia-game-shop-tidy-up.json) |
 | Nostalgia of Magic | 145593 | [145593-nostalgia-of-magic.json](./145593-nostalgia-of-magic.json) |
