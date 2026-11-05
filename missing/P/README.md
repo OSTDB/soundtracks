@@ -16295,6 +16295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prueba Humana | 361231 | [361231-prueba-humana.json](./361231-prueba-humana.json) |
 | Prune & Milo | 294134 | [294134-prune-and-milo.json](./294134-prune-and-milo.json) |
 | Prussia's Glory | 77384 | [77384-prussias-glory.json](./77384-prussias-glory.json) |
+| PRV: Poultry Red-fox Viper | 297196 | [297196-prv-poultry-red-fox-viper.json](./297196-prv-poultry-red-fox-viper.json) |
 | Prvá Akcia | 93224 | [93224-prva-akcia.json](./93224-prva-akcia.json) |
 | Pry into the Void | 187530 | [187530-pry-into-the-void.json](./187530-pry-into-the-void.json) |
 | Pryzm | 288789 | [288789-pryzm.json](./288789-pryzm.json) |
@@ -16469,6 +16470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho Train | 88487 | [88487-psycho-train.json](./88487-psycho-train.json) |
 | Psycho Waluigi | 132724 | [132724-psycho-waluigi.json](./132724-psycho-waluigi.json) |
 | Psycho World | 41715 | [41715-psycho-world.json](./41715-psycho-world.json) |
+| Psycho-Kin | 297197 | [297197-psycho-kin.json](./297197-psycho-kin.json) |
 | Psycho-Nics Oscar | 55193 | [55193-psycho-nics-oscar.json](./55193-psycho-nics-oscar.json) |
 | Psycho-Pass: Mandatory Happiness | 23849 | [23849-psycho-pass-mandatory-happiness.json](./23849-psycho-pass-mandatory-happiness.json) |
 | Psycho-Pass: Mandatory Happiness - Limited Edition | 166186 | [166186-psycho-pass-mandatory-happiness-limited-edition.json](./166186-psycho-pass-mandatory-happiness-limited-edition.json) |
@@ -16486,6 +16488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychofunk | 161776 | [161776-psychofunk.json](./161776-psychofunk.json) |
 | Psycholog | 264707 | [264707-psycholog.json](./264707-psycholog.json) |
 | Psychological Challenge | 348561 | [348561-psychological-challenge.json](./348561-psychological-challenge.json) |
+| Psychological Hacker 2044 | 297198 | [297198-psychological-hacker-2044.json](./297198-psychological-hacker-2044.json) |
 | Psychological Operation | 309396 | [309396-psychological-operation.json](./309396-psychological-operation.json) |
 | Psycholytic | 348235 | [348235-psycholytic.json](./348235-psycholytic.json) |
 | Psychomachia | 291218 | [291218-psychomachia.json](./291218-psychomachia.json) |
