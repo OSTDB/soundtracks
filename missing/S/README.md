@@ -32115,6 +32115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Rolling Heroes Deluxe | 288055 | [288055-super-rolling-heroes-deluxe.json](./288055-super-rolling-heroes-deluxe.json) |
 | Super RPS | 270888 | [270888-super-rps.json](./270888-super-rps.json) |
 | Super Rude Bear Resurrection: Deluxe Edition | 53688 | [53688-super-rude-bear-resurrection-deluxe-edition.json](./53688-super-rude-bear-resurrection-deluxe-edition.json) |
+| Super Rugby | 267752 | [267752-super-rugby.json](./267752-super-rugby.json) |
 | Super Rugby | 48664 | [48664-super-rugby.json](./48664-super-rugby.json) |
 | Super Rugby League 2 | 23009 | [23009-super-rugby-league-2.json](./23009-super-rugby-league-2.json) |
 | Super Run World | 223017 | [223017-super-run-world.json](./223017-super-run-world.json) |
