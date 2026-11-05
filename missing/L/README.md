@@ -1854,6 +1854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lay a Beauty to Rest: The Darkness Peach Blossom Spring | 229920 | [229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json](./229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json) |
 | Lay an Egg | 348015 | [348015-lay-an-egg.json](./348015-lay-an-egg.json) |
 | Lay Down Your Roots | 184832 | [184832-lay-down-your-roots.json](./184832-lay-down-your-roots.json) |
+| Laya's Horizon | 248346 | [248346-layas-horizon.json](./248346-layas-horizon.json) |
 | Laydock | 41683 | [41683-laydock.json](./41683-laydock.json) |
 | Laydock 2: Last Attack | 41682 | [41682-laydock-2-last-attack.json](./41682-laydock-2-last-attack.json) |
 | Laydyon Limit Breaker | 295975 | [295975-laydyon-limit-breaker.json](./295975-laydyon-limit-breaker.json) |
@@ -2708,6 +2709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Yashiyu 3 | 173773 | [173773-legend-of-yashiyu-3.json](./173773-legend-of-yashiyu-3.json) |
 | Legend of Yashiyu 4 | 173774 | [173774-legend-of-yashiyu-4.json](./173774-legend-of-yashiyu-4.json) |
 | Legend of You | 163843 | [163843-legend-of-you.json](./163843-legend-of-you.json) |
+| Legend of Zelda: Hidden Trove | 248364 | [248364-legend-of-zelda-hidden-trove.json](./248364-legend-of-zelda-hidden-trove.json) |
 | Legend of Zelda: The Dual Mage | 323891 | [323891-legend-of-zelda-the-dual-mage.json](./323891-legend-of-zelda-the-dual-mage.json) |
 | Legend of Zero | 225601 | [225601-legend-of-zero.json](./225601-legend-of-zero.json) |
 | Legend of Zord | 341066 | [341066-legend-of-zord.json](./341066-legend-of-zord.json) |
@@ -5797,6 +5799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Devourers | 169454 | [169454-little-devourers.json](./169454-little-devourers.json) |
 | Little Dew Drop | 265335 | [265335-little-dew-drop.json](./265335-little-dew-drop.json) |
 | Little Diggel | 29764 | [29764-little-diggel.json](./29764-little-diggel.json) |
+| Little Disaster | 248345 | [248345-little-disaster.json](./248345-little-disaster.json) |
 | Little Dog | 55720 | [55720-little-dog.json](./55720-little-dog.json) |
 | Little Dog Bob | 163784 | [163784-little-dog-bob.json](./163784-little-dog-bob.json) |
 | Little Doll Princess Oyatsu-hen | 222488 | [222488-little-doll-princess-oyatsu-hen.json](./222488-little-doll-princess-oyatsu-hen.json) |
@@ -9764,6 +9767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunch Lord: The Doom of Black Philip | 184634 | [184634-lunch-lord-the-doom-of-black-philip.json](./184634-lunch-lord-the-doom-of-black-philip.json) |
 | Lunch Rush HD | 87903 | [87903-lunch-rush-hd.json](./87903-lunch-rush-hd.json) |
 | Lunch Time in Burger Kingdom | 206578 | [206578-lunch-time-in-burger-kingdom.json](./206578-lunch-time-in-burger-kingdom.json) |
+| Lunch Time. | 248361 | [248361-lunch-time.json](./248361-lunch-time.json) |
 | Lunch Truck Tycoon | 35118 | [35118-lunch-truck-tycoon.json](./35118-lunch-truck-tycoon.json) |
 | Lunch Truck Tycoon 2 | 44220 | [44220-lunch-truck-tycoon-2.json](./44220-lunch-truck-tycoon-2.json) |
 | Lunch with Ronan | 292023 | [292023-lunch-with-ronan.json](./292023-lunch-with-ronan.json) |
