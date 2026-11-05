@@ -5314,6 +5314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Go Plant! | 412702 | [412702-go-go-plant.json](./412702-go-go-plant.json) |
 | Go Go Poncho! | 89958 | [89958-go-go-poncho.json](./89958-go-go-poncho.json) |
 | Go Go Redball | 239245 | [239245-go-go-redball.json](./239245-go-go-redball.json) |
+| Go Go UFO | 297691 | [297691-go-go-ufo.json](./297691-go-go-ufo.json) |
 | Go Go UFO Smackdown | 68622 | [68622-go-go-ufo-smackdown.json](./68622-go-go-ufo-smackdown.json) |
 | Go Go Wolf | 386406 | [386406-go-go-wolf.json](./386406-go-go-wolf.json) |
 | Go Go, Groove Ghoul! | 402413 | [402413-go-go-groove-ghoul.json](./402413-go-go-groove-ghoul.json) |
@@ -6104,6 +6105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Going for Nuts | 329727 | [329727-going-for-nuts.json](./329727-going-for-nuts.json) |
 | Going Home | 396344 | [396344-going-home.json](./396344-going-home.json) |
 | Going Into the Unknown | 205577 | [205577-going-into-the-unknown.json](./205577-going-into-the-unknown.json) |
+| Going Live! | 297668 | [297668-going-live.json](./297668-going-live.json) |
 | Going My Way? | 406927 | [406927-going-my-way.json](./406927-going-my-way.json) |
 | Going Nowhere | 410699 | [410699-going-nowhere.json](./410699-going-nowhere.json) |
 | Going Nowhere: The Dream | 74383 | [74383-going-nowhere-the-dream.json](./74383-going-nowhere-the-dream.json) |
