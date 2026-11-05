@@ -26028,6 +26028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tournament Blackjack | 70101 | [70101-tournament-blackjack.json](./70101-tournament-blackjack.json) |
 | Tournament Chess | 206080 | [206080-tournament-chess.json](./206080-tournament-chess.json) |
 | Tournament Chess II | 206081 | [206081-tournament-chess-ii.json](./206081-tournament-chess-ii.json) |
+| Tournament Golf | 296543 | [296543-tournament-golf.json](./296543-tournament-golf.json) |
 | Tournament of Armistice: Preliminaries | 163853 | [163853-tournament-of-armistice-preliminaries.json](./163853-tournament-of-armistice-preliminaries.json) |
 | Tournament of Beans | 196421 | [196421-tournament-of-beans.json](./196421-tournament-of-beans.json) |
 | Tournament of Legends | 5239 | [5239-tournament-of-legends.json](./5239-tournament-of-legends.json) |
@@ -31461,6 +31462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Girl | 39140 | [39140-turbo-girl.json](./39140-turbo-girl.json) |
 | Turbo Golf Racing | 194736 | [194736-turbo-golf-racing.json](./194736-turbo-golf-racing.json) |
 | Turbo Golf Racing: Deep Space Bundle | 295641 | [295641-turbo-golf-racing-deep-space-bundle.json](./295641-turbo-golf-racing-deep-space-bundle.json) |
+| Turbo Golf Racing: Space Explorer's Galactic Ball Set | 296558 | [296558-turbo-golf-racing-space-explorers-galactic-ball-set.json](./296558-turbo-golf-racing-space-explorers-galactic-ball-set.json) |
 | Turbo Golf Racing: Ultimate Bundle | 295642 | [295642-turbo-golf-racing-ultimate-bundle.json](./295642-turbo-golf-racing-ultimate-bundle.json) |
 | Turbo Granny | 396982 | [396982-turbo-granny.json](./396982-turbo-granny.json) |
 | Turbo Grid | 236981 | [236981-turbo-grid.json](./236981-turbo-grid.json) |
