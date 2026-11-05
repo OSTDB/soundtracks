@@ -5067,6 +5067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renny Blaster | 42008 | [42008-renny-blaster.json](./42008-renny-blaster.json) |
 | Renounced | 340703 | [340703-renounced.json](./340703-renounced.json) |
 | Renova | 169723 | [169723-renova.json](./169723-renova.json) |
+| Renovation Plan | 272596 | [272596-renovation-plan.json](./272596-renovation-plan.json) |
 | Renovation Products Collection 1 | 157521 | [157521-renovation-products-collection-1.json](./157521-renovation-products-collection-1.json) |
 | Renovation Simulator | 312415 | [312415-renovation-simulator.json](./312415-renovation-simulator.json) |
 | Renovators | 163882 | [163882-renovators.json](./163882-renovators.json) |
@@ -9959,6 +9960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Survivor | 80557 | [80557-rogue-survivor.json](./80557-rogue-survivor.json) |
 | Rogue Survivors | 294918 | [294918-rogue-survivors.json](./294918-rogue-survivors.json) |
 | Rogue Sweeper | 151090 | [151090-rogue-sweeper.json](./151090-rogue-sweeper.json) |
+| Rogue Tactics | 272594 | [272594-rogue-tactics.json](./272594-rogue-tactics.json) |
 | Rogue Tank | 235849 | [235849-rogue-tank.json](./235849-rogue-tank.json) |
 | Rogue Tanks | 312998 | [312998-rogue-tanks.json](./312998-rogue-tanks.json) |
 | Rogue Tides | 275706 | [275706-rogue-tides.json](./275706-rogue-tides.json) |
@@ -11289,6 +11291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxy Raccoon's Pinball Panic: Epic Egypt | 230893 | [230893-roxy-raccoons-pinball-panic-epic-egypt.json](./230893-roxy-raccoons-pinball-panic-epic-egypt.json) |
 | Roxy Raccoon's Pinball Panic: Ghoulish Games | 199794 | [199794-roxy-raccoons-pinball-panic-ghoulish-games.json](./199794-roxy-raccoons-pinball-panic-ghoulish-games.json) |
 | Roxy Raccoon's Pinball Panic: Great Gangs | 354199 | [354199-roxy-raccoons-pinball-panic-great-gangs.json](./354199-roxy-raccoons-pinball-panic-great-gangs.json) |
+| Roxy Raccoon's Pinball Panic: Haunted Halloween | 272593 | [272593-roxy-raccoons-pinball-panic-haunted-halloween.json](./272593-roxy-raccoons-pinball-panic-haunted-halloween.json) |
 | Roxy Raccoon's Pinball Panic: Joyous Japan | 226931 | [226931-roxy-raccoons-pinball-panic-joyous-japan.json](./226931-roxy-raccoons-pinball-panic-joyous-japan.json) |
 | Roxy Raccoon's Pinball Panic: Makin' Music | 354196 | [354196-roxy-raccoons-pinball-panic-makin-music.json](./354196-roxy-raccoons-pinball-panic-makin-music.json) |
 | Roxy Raccoon's Pinball Panic: Manic Miners | 318353 | [318353-roxy-raccoons-pinball-panic-manic-miners.json](./318353-roxy-raccoons-pinball-panic-manic-miners.json) |
@@ -11918,6 +11921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruler of the Roost | 410169 | [410169-ruler-of-the-roost.json](./410169-ruler-of-the-roost.json) |
 | Ruler of the Waves 1916 | 227838 | [227838-ruler-of-the-waves-1916.json](./227838-ruler-of-the-waves-1916.json) |
 | Ruler's Reign | 201636 | [201636-rulers-reign.json](./201636-rulers-reign.json) |
+| Rulers of Aden | 272592 | [272592-rulers-of-aden.json](./272592-rulers-of-aden.json) |
 | Rulers of Cospaia | 379719 | [379719-rulers-of-cospaia.json](./379719-rulers-of-cospaia.json) |
 | Rulers of Nations | 10789 | [10789-rulers-of-nations.json](./10789-rulers-of-nations.json) |
 | Rules & Rodents | 337435 | [337435-rules-and-rodents.json](./337435-rules-and-rodents.json) |
