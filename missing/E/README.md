@@ -4780,6 +4780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eroblast: Passion Edition | 262322 | [262322-eroblast-passion-edition.json](./262322-eroblast-passion-edition.json) |
 | Eroblast: Playful Edition | 259572 | [259572-eroblast-playful-edition.json](./259572-eroblast-playful-edition.json) |
 | Eroblast: Spicy Edition | 262329 | [262329-eroblast-spicy-edition.json](./262329-eroblast-spicy-edition.json) |
+| Eroblast: Spicy Twixmas | 280603 | [280603-eroblast-spicy-twixmas.json](./280603-eroblast-spicy-twixmas.json) |
 | Erobos Heaven | 247514 | [247514-erobos-heaven.json](./247514-erobos-heaven.json) |
 | Erocism | 302445 | [302445-erocism.json](./302445-erocism.json) |
 | Eroge Academy | 277957 | [277957-eroge-academy.json](./277957-eroge-academy.json) |
@@ -5310,6 +5311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Memoirs: Mini Stories | 213484 | [213484-escape-memoirs-mini-stories.json](./213484-escape-memoirs-mini-stories.json) |
 | Escape Memoirs: Mini Stories - Bunker Scenario | 235840 | [235840-escape-memoirs-mini-stories-bunker-scenario.json](./235840-escape-memoirs-mini-stories-bunker-scenario.json) |
 | Escape Memoirs: Questionable Side Stories | 247615 | [247615-escape-memoirs-questionable-side-stories.json](./247615-escape-memoirs-questionable-side-stories.json) |
+| Escape Memoirs: Safe House | 280560 | [280560-escape-memoirs-safe-house.json](./280560-escape-memoirs-safe-house.json) |
 | Escape Mystery-The Dark Fence | 237368 | [237368-escape-mystery-the-dark-fence.json](./237368-escape-mystery-the-dark-fence.json) |
 | Escape Mystery: Alien Impact | 174311 | [174311-escape-mystery-alien-impact.json](./174311-escape-mystery-alien-impact.json) |
 | Escape North Korea | 418924 | [418924-escape-north-korea.json](./418924-escape-north-korea.json) |
@@ -5836,6 +5838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eterna: Heroes Fall | 139639 | [139639-eterna-heroes-fall.json](./139639-eterna-heroes-fall.json) |
 | Eternal | 303056 | [303056-eternal.json](./303056-eternal.json) |
 | Eternal | 357727 | [357727-eternal.json](./357727-eternal.json) |
+| Eternal Acid Rain | 280559 | [280559-eternal-acid-rain.json](./280559-eternal-acid-rain.json) |
 | Eternal Affairs | 347767 | [347767-eternal-affairs.json](./347767-eternal-affairs.json) |
 | Eternal Afterlife | 257851 | [257851-eternal-afterlife.json](./257851-eternal-afterlife.json) |
 | Eternal Alien | 128821 | [128821-eternal-alien.json](./128821-eternal-alien.json) |
