@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V-Ray | 138709 | [138709-v-ray.json](./138709-v-ray.json) |
 | V-Shift | 338559 | [338559-v-shift.json](./338559-v-shift.json) |
 | V-Speedway | 194220 | [194220-v-speedway.json](./194220-v-speedway.json) |
+| V-Tech Rampage | 255431 | [255431-v-tech-rampage.json](./255431-v-tech-rampage.json) |
 | V-Tennis | 20711 | [20711-v-tennis.json](./20711-v-tennis.json) |
 | V-Tennis 2 | 57712 | [57712-v-tennis-2.json](./57712-v-tennis-2.json) |
 | V-VR | 27739 | [27739-v-vr.json](./27739-v-vr.json) |
