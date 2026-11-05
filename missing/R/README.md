@@ -2037,6 +2037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RasterFire | 412570 | [412570-rasterfire.json](./412570-rasterfire.json) |
 | Rasternauts | 134965 | [134965-rasternauts.json](./134965-rasternauts.json) |
 | Rastignac: Wastelands | 302895 | [302895-rastignac-wastelands.json](./302895-rastignac-wastelands.json) |
+| Rasvyat Nuclear Power Station | 292465 | [292465-rasvyat-nuclear-power-station.json](./292465-rasvyat-nuclear-power-station.json) |
 | Rat Arena | 106585 | [106585-rat-arena.json](./106585-rat-arena.json) |
 | Rat Attack! | 3415 | [3415-rat-attack.json](./3415-rat-attack.json) |
 | Rat Bastard | 184771 | [184771-rat-bastard.json](./184771-rat-bastard.json) |
@@ -2891,6 +2892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Horse 3D | 216152 | [216152-real-horse-3d.json](./216152-real-horse-3d.json) |
 | Real Kanojo | 22469 | [22469-real-kanojo.json](./22469-real-kanojo.json) |
 | Real Kart | 302018 | [302018-real-kart.json](./302018-real-kart.json) |
+| Real Life | 292273 | [292273-real-life.json](./292273-real-life.json) |
 | Real Life Day: Threesome | 313508 | [313508-real-life-day-threesome.json](./313508-real-life-day-threesome.json) |
 | Real Life Flappy Bird | 360627 | [360627-real-life-flappy-bird.json](./360627-real-life-flappy-bird.json) |
 | Real Life Plus Ver. Kaname Komatsuzaki | 133036 | [133036-real-life-plus-ver-kaname-komatsuzaki.json](./133036-real-life-plus-ver-kaname-komatsuzaki.json) |
