@@ -4752,6 +4752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent X: Equation Rider | 81754 | [81754-agent-x-equation-rider.json](./81754-agent-x-equation-rider.json) |
 | Agent XXL und das Geheimnis der Quadrate | 113470 | [113470-agent-xxl-und-das-geheimnis-der-quadrate.json](./113470-agent-xxl-und-das-geheimnis-der-quadrate.json) |
 | Agent-00 | 140355 | [140355-agent-00.json](./140355-agent-00.json) |
+| Agent: Osoboe Zadanie | 274243 | [274243-agent-osoboe-zadanie.json](./274243-agent-osoboe-zadanie.json) |
 | Agent: osoboye zadaniye | 132158 | [132158-agent-osoboye-zadaniye.json](./132158-agent-osoboye-zadaniye.json) |
 | Agents 4 Hire | 379514 | [379514-agents-4-hire.json](./379514-agents-4-hire.json) |
 | Agents 404 | 408224 | [408224-agents-404.json](./408224-agents-404.json) |
