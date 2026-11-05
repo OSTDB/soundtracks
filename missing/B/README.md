@@ -5013,6 +5013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beastiarium | 30927 | [30927-beastiarium.json](./30927-beastiarium.json) |
 | Beastie Bay | 22184 | [22184-beastie-bay.json](./22184-beastie-bay.json) |
 | Beastie Land | 148922 | [148922-beastie-land.json](./148922-beastie-land.json) |
+| Beastieball | 252492 | [252492-beastieball.json](./252492-beastieball.json) |
 | Beasties | 192384 | [192384-beasties.json](./192384-beasties.json) |
 | Beasties of Greenhollow | 299465 | [299465-beasties-of-greenhollow.json](./299465-beasties-of-greenhollow.json) |
 | Beasties' Shelter | 346611 | [346611-beasties-shelter.json](./346611-beasties-shelter.json) |
@@ -16577,6 +16578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugbomber | 41170 | [41170-bugbomber.json](./41170-bugbomber.json) |
 | Bugboy | 329080 | [329080-bugboy.json](./329080-bugboy.json) |
 | BugBurgh | 305268 | [305268-bugburgh.json](./305268-bugburgh.json) |
+| Bugby | 252469 | [252469-bugby.json](./252469-bugby.json) |
 | Bugby | 283133 | [283133-bugby.json](./283133-bugby.json) |
 | Bugdas | 113721 | [113721-bugdas.json](./113721-bugdas.json) |
 | Bugdasu | 347301 | [347301-bugdasu.json](./347301-bugdasu.json) |
