@@ -3612,6 +3612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screeps: World | 25903 | [25903-screeps-world.json](./25903-screeps-world.json) |
 | Screw Box Jam: Bus Out | 338662 | [338662-screw-box-jam-bus-out.json](./338662-screw-box-jam-bus-out.json) |
 | Screw Dive | 362807 | [362807-screw-dive.json](./362807-screw-dive.json) |
+| Screw Drivers | 277630 | [277630-screw-drivers.json](./277630-screw-drivers.json) |
 | Screw Drivers | 305376 | [305376-screw-drivers.json](./305376-screw-drivers.json) |
 | Screw Drivers: Supporter Pack | 321953 | [321953-screw-drivers-supporter-pack.json](./321953-screw-drivers-supporter-pack.json) |
 | Screw It | 418223 | [418223-screw-it.json](./418223-screw-it.json) |
@@ -4043,6 +4044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea under the sea under the sea | 280380 | [280380-sea-under-the-sea-under-the-sea.json](./280380-sea-under-the-sea-under-the-sea.json) |
 | Sea Walker Saga | 340281 | [340281-sea-walker-saga.json](./340281-sea-walker-saga.json) |
 | Sea War | 168633 | [168633-sea-war.json](./168633-sea-war.json) |
+| Sea War | 277662 | [277662-sea-war.json](./277662-sea-war.json) |
 | Sea War Naval Supremacy | 391539 | [391539-sea-war-naval-supremacy.json](./391539-sea-war-naval-supremacy.json) |
 | Sea Warfare: Glorious | 188024 | [188024-sea-warfare-glorious.json](./188024-sea-warfare-glorious.json) |
 | Sea Wolf | 17241 | [17241-sea-wolf.json](./17241-sea-wolf.json) |
@@ -20581,6 +20583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed X: Extreme 3D Car Racing | 251211 | [251211-speed-x-extreme-3d-car-racing.json](./251211-speed-x-extreme-3d-car-racing.json) |
 | Speed Zone | 51130 | [51130-speed-zone.json](./51130-speed-zone.json) |
 | Speed Zone | 79061 | [79061-speed-zone.json](./79061-speed-zone.json) |
+| Speed-Deus-Ex-Machine | 277629 | [277629-speed-deus-ex-machine.json](./277629-speed-deus-ex-machine.json) |
 | Speedball | 10151 | [10151-speedball.json](./10151-speedball.json) |
 | Speedball | 340189 | [340189-speedball.json](./340189-speedball.json) |
 | Speedball 2 HD | 9027 | [9027-speedball-2-hd.json](./9027-speedball-2-hd.json) |
@@ -21400,6 +21403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Time | 228640 | [228640-spin-time.json](./228640-spin-time.json) |
 | Spin to Survive | 386388 | [386388-spin-to-survive.json](./386388-spin-to-survive.json) |
 | Spin To Win | 342480 | [342480-spin-to-win.json](./342480-spin-to-win.json) |
+| Spin Up | 277638 | [277638-spin-up.json](./277638-spin-up.json) |
 | Spinal Breakers | 39666 | [39666-spinal-breakers.json](./39666-spinal-breakers.json) |
 | Spinal Fantasy | 318134 | [318134-spinal-fantasy.json](./318134-spinal-fantasy.json) |
 | Spinball | 110528 | [110528-spinball.json](./110528-spinball.json) |
