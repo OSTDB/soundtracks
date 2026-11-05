@@ -1926,6 +1926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Taco Diablo | 115127 | [115127-el-taco-diablo.json](./115127-el-taco-diablo.json) |
 | El Tango de la Muerte | 68838 | [68838-el-tango-de-la-muerte.json](./68838-el-tango-de-la-muerte.json) |
 | El Tigre: The Adventures of Manny Rivera | 264869 | [264869-el-tigre-the-adventures-of-manny-rivera.json](./264869-el-tigre-the-adventures-of-manny-rivera.json) |
+| El Viaje de Diciembre | 260494 | [260494-el-viaje-de-diciembre.json](./260494-el-viaje-de-diciembre.json) |
 | El Virus | 345396 | [345396-el-virus.json](./345396-el-virus.json) |
 | El-Drifto | 295750 | [295750-el-drifto.json](./295750-el-drifto.json) |
 | El-Fish | 72089 | [72089-el-fish.json](./72089-el-fish.json) |
@@ -2054,6 +2055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldritch Town | 258540 | [258540-eldritch-town.json](./258540-eldritch-town.json) |
 | Eldritch University | 121475 | [121475-eldritch-university.json](./121475-eldritch-university.json) |
 | Eldritch Verdict | 316630 | [316630-eldritch-verdict.json](./316630-eldritch-verdict.json) |
+| Eldritch Voyage | 260495 | [260495-eldritch-voyage.json](./260495-eldritch-voyage.json) |
 | Eldritch Wildlife Tours | 415215 | [415215-eldritch-wildlife-tours.json](./415215-eldritch-wildlife-tours.json) |
 | Eldritch World | 137610 | [137610-eldritch-world.json](./137610-eldritch-world.json) |
 | Eldritchvania | 223680 | [223680-eldritchvania.json](./223680-eldritchvania.json) |
@@ -3091,6 +3093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emlyn Hughes International Soccer | 13637 | [13637-emlyn-hughes-international-soccer.json](./13637-emlyn-hughes-international-soccer.json) |
 | Emma at the Farm | 70599 | [70599-emma-at-the-farm.json](./70599-emma-at-the-farm.json) |
 | Emma in the Mountains | 70608 | [70608-emma-in-the-mountains.json](./70608-emma-in-the-mountains.json) |
+| Emma the Cat: Fruit Mania | 260472 | [260472-emma-the-cat-fruit-mania.json](./260472-emma-the-cat-fruit-mania.json) |
 | Emma: Lost in Memories | 121380 | [121380-emma-lost-in-memories.json](./121380-emma-lost-in-memories.json) |
 | Emma's Armaments | 213017 | [213017-emmas-armaments.json](./213017-emmas-armaments.json) |
 | Emma's Story | 376167 | [376167-emmas-story.json](./376167-emmas-story.json) |
@@ -4873,6 +4876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Error: Human Not Found | 81851 | [81851-error-human-not-found.json](./81851-error-human-not-found.json) |
 | Error: Slasher Alert | 176251 | [176251-error-slasher-alert.json](./176251-error-slasher-alert.json) |
 | Error143 | 207032 | [207032-error143.json](./207032-error143.json) |
+| Error143 DLC | 260460 | [260460-error143-dlc.json](./260460-error143-dlc.json) |
 | Error422 | 280743 | [280743-error422.json](./280743-error422.json) |
 | Error86 | 311523 | [311523-error86.json](./311523-error86.json) |
 | Errships | 258403 | [258403-errships.json](./258403-errships.json) |
@@ -7667,6 +7671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exorcise | 304519 | [304519-exorcise.json](./304519-exorcise.json) |
 | Exorcise Demons | 121953 | [121953-exorcise-demons.json](./121953-exorcise-demons.json) |
 | Exorcised | 149238 | [149238-exorcised.json](./149238-exorcised.json) |
+| Exorcism | 260465 | [260465-exorcism.json](./260465-exorcism.json) |
 | Exorcism Agency | 355208 | [355208-exorcism-agency.json](./355208-exorcism-agency.json) |
 | Exorcism Express | 181153 | [181153-exorcism-express.json](./181153-exorcism-express.json) |
 | Exorcism Ritual | 231177 | [231177-exorcism-ritual.json](./231177-exorcism-ritual.json) |
