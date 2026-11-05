@@ -1312,6 +1312,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ojamajo Adventure: Naisho No Mahou | 319698 | [319698-ojamajo-adventure-naisho-no-mahou.json](./319698-ojamajo-adventure-naisho-no-mahou.json) |
 | Ojanko Yakata | 252061 | [252061-ojanko-yakata.json](./252061-ojanko-yakata.json) |
 | Ojarumaru: Gekkou Machi Sanpo de Ojaru | 49739 | [49739-ojarumaru-gekkou-machi-sanpo-de-ojaru.json](./49739-ojarumaru-gekkou-machi-sanpo-de-ojaru.json) |
+| Ojarumaru: Mitsunegai Jinja no Ennichi de Ojaru! | 282392 | [282392-ojarumaru-mitsunegai-jinja-no-ennichi-de-ojaru.json](./282392-ojarumaru-mitsunegai-jinja-no-ennichi-de-ojaru.json) |
+| Ojarumaru: Tsukiyo ga Ike no Takaramono | 282393 | [282393-ojarumaru-tsukiyo-ga-ike-no-takaramono.json](./282393-ojarumaru-tsukiyo-ga-ike-no-takaramono.json) |
 | Oji-Mama | 285113 | [285113-oji-mama.json](./285113-oji-mama.json) |
 | Oji-san Tomete Iede Gal to no Win Win Sex Life | 59125 | [59125-oji-san-tomete-iede-gal-to-no-win-win-sex-life.json](./59125-oji-san-tomete-iede-gal-to-no-win-win-sex-life.json) |
 | Ojingeo Project | 393658 | [393658-ojingeo-project.json](./393658-ojingeo-project.json) |
