@@ -4268,6 +4268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whimsy | 126214 | [126214-whimsy.json](./126214-whimsy.json) |
 | Whimsy Bake ＆ Craft | 349469 | [349469-whimsy-bake-and-craft.json](./349469-whimsy-bake-and-craft.json) |
 | Whimsy Koi | 384307 | [384307-whimsy-koi.json](./384307-whimsy-koi.json) |
+| Whimzzle | 286896 | [286896-whimzzle.json](./286896-whimzzle.json) |
 | Whip Dummy Crash | 174902 | [174902-whip-dummy-crash.json](./174902-whip-dummy-crash.json) |
 | Whip Rush | 28039 | [28039-whip-rush.json](./28039-whip-rush.json) |
 | Whip Swing! | 108909 | [108909-whip-swing.json](./108909-whip-swing.json) |
