@@ -18534,6 +18534,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mugen no Yoru | 284608 | [284608-mugen-no-yoru.json](./284608-mugen-no-yoru.json) |
 | Mugen Rinne no Irregular | 308094 | [308094-mugen-rinne-no-irregular.json](./308094-mugen-rinne-no-irregular.json) |
 | Mugen RPG | 301613 | [301613-mugen-rpg.json](./301613-mugen-rpg.json) |
+| Mugen Senshi Valis | 278808 | [278808-mugen-senshi-valis.json](./278808-mugen-senshi-valis.json) |
+| Mugen Senshi Valis | 278809 | [278809-mugen-senshi-valis.json](./278809-mugen-senshi-valis.json) |
 | Mugen Senshi Valis II | 41701 | [41701-mugen-senshi-valis-ii.json](./41701-mugen-senshi-valis-ii.json) |
 | Mugen Senshi Valis: The Fantasm Soldier | 36789 | [36789-mugen-senshi-valis-the-fantasm-soldier.json](./36789-mugen-senshi-valis-the-fantasm-soldier.json) |
 | Mugen Senshi Valis: The Legend of a Fantasm Soldier | 186074 | [186074-mugen-senshi-valis-the-legend-of-a-fantasm-soldier.json](./186074-mugen-senshi-valis-the-legend-of-a-fantasm-soldier.json) |
