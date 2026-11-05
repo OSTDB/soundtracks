@@ -7089,6 +7089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Star | 131618 | [131618-long-star.json](./131618-long-star.json) |
 | Long Story Short | 264750 | [264750-long-story-short.json](./264750-long-story-short.json) |
 | Long Time No See | 143477 | [143477-long-time-no-see.json](./143477-long-time-no-see.json) |
+| Long Trip | 285827 | [285827-long-trip.json](./285827-long-trip.json) |
 | Long Truck Simulator | 243544 | [243544-long-truck-simulator.json](./243544-long-truck-simulator.json) |
 | Long War of the Chosen | 315590 | [315590-long-war-of-the-chosen.json](./315590-long-war-of-the-chosen.json) |
 | Long Way | 261640 | [261640-long-way.json](./261640-long-way.json) |
@@ -9004,6 +9005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucie's Potager | 199261 | [199261-lucies-potager.json](./199261-lucies-potager.json) |
 | Luciel Angel Mission | 314060 | [314060-luciel-angel-mission.json](./314060-luciel-angel-mission.json) |
 | Lucienne's Quest | 4300 | [4300-luciennes-quest.json](./4300-luciennes-quest.json) |
+| Lucifer Lives in Lower Manhattan | 285723 | [285723-lucifer-lives-in-lower-manhattan.json](./285723-lucifer-lives-in-lower-manhattan.json) |
 | Lucifer Ring | 43873 | [43873-lucifer-ring.json](./43873-lucifer-ring.json) |
 | Lucifer Within Us | 119359 | [119359-lucifer-within-us.json](./119359-lucifer-within-us.json) |
 | Lucifer: Paradise Lost | 157981 | [157981-lucifer-paradise-lost.json](./157981-lucifer-paradise-lost.json) |
