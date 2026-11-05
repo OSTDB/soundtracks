@@ -5779,6 +5779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -5808,6 +5809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MaxSwitch | 220214 | [220214-maxswitch.json](./220214-maxswitch.json) |
 | Maxwell Manor | 25979 | [25979-maxwell-manor.json](./25979-maxwell-manor.json) |
 | Maxwell The Cat | 298950 | [298950-maxwell-the-cat.json](./298950-maxwell-the-cat.json) |
+| Maxwell's Maniac | 282412 | [282412-maxwells-maniac.json](./282412-maxwells-maniac.json) |
 | Maxwell's Wicked Dollhouse | 215617 | [215617-maxwells-wicked-dollhouse.json](./215617-maxwells-wicked-dollhouse.json) |
 | Maxwell's World | 281504 | [281504-maxwells-world.json](./281504-maxwells-world.json) |
 | Maxx GP | 94403 | [94403-maxx-gp.json](./94403-maxx-gp.json) |
@@ -12379,6 +12381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Coins | 412336 | [412336-mini-coins.json](./412336-mini-coins.json) |
 | Mini Colors | 412334 | [412334-mini-colors.json](./412334-mini-colors.json) |
 | Mini Continental Saga | 261659 | [261659-mini-continental-saga.json](./261659-mini-continental-saga.json) |
+| Mini Cookie | 282372 | [282372-mini-cookie.json](./282372-mini-cookie.json) |
 | Mini Countries | 133192 | [133192-mini-countries.json](./133192-mini-countries.json) |
 | Mini Cozy Room: Lo-Fi | 338702 | [338702-mini-cozy-room-lo-fi.json](./338702-mini-cozy-room-lo-fi.json) |
 | Mini craft story | 98783 | [98783-mini-craft-story.json](./98783-mini-craft-story.json) |
