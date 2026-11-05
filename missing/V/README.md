@@ -829,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanity: Unlock All Characters | 380207 | [380207-vanity-unlock-all-characters.json](./380207-vanity-unlock-all-characters.json) |
 | Vanity: Weapon Pack | 321949 | [321949-vanity-weapon-pack.json](./321949-vanity-weapon-pack.json) |
 | Vanlife Camping Simulator | 297834 | [297834-vanlife-camping-simulator.json](./297834-vanlife-camping-simulator.json) |
+| Vanova's Stories | 258793 | [258793-vanovas-stories.json](./258793-vanovas-stories.json) |
 | Vanquish | 220716 | [220716-vanquish.json](./220716-vanquish.json) |
 | Vanquish | 3218 | [3218-vanquish.json](./3218-vanquish.json) |
 | Vanquish 2 | 89549 | [89549-vanquish-2.json](./89549-vanquish-2.json) |
@@ -2415,6 +2416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viperbyte | 116252 | [116252-viperbyte.json](./116252-viperbyte.json) |
 | ViperTen16 | 313497 | [313497-viperten16.json](./313497-viperten16.json) |
 | ViperTen64 | 290663 | [290663-viperten64.json](./290663-viperten64.json) |
+| Vipertrace | 258754 | [258754-vipertrace.json](./258754-vipertrace.json) |
 | Vipunk: Shield of Valhalla | 404049 | [404049-vipunk-shield-of-valhalla.json](./404049-vipunk-shield-of-valhalla.json) |
 | VIQ-Bert | 69738 | [69738-viq-bert.json](./69738-viq-bert.json) |
 | Viquim | 341886 | [341886-viquim.json](./341886-viquim.json) |
@@ -3154,6 +3156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voice over | 224746 | [224746-voice-over.json](./224746-voice-over.json) |
 | Voice Paradise | 270636 | [270636-voice-paradise.json](./270636-voice-paradise.json) |
 | Voice Party | 232510 | [232510-voice-party.json](./232510-voice-party.json) |
+| Voice Quest | 258756 | [258756-voice-quest.json](./258756-voice-quest.json) |
 | Voice: Legacy of Hale | 253815 | [253815-voice-legacy-of-hale.json](./253815-voice-legacy-of-hale.json) |
 | VoiceActress | 275158 | [275158-voiceactress.json](./275158-voiceactress.json) |
 | VoiceATC Simulator | 401763 | [401763-voiceatc-simulator.json](./401763-voiceatc-simulator.json) |
