@@ -5798,6 +5798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -16599,6 +16600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More/Less | 351044 | [351044-more-less.json](./351044-more-less.json) |
 | Moreau | 111347 | [111347-moreau.json](./111347-moreau.json) |
 | Morels: Out of this World | 400984 | [400984-morels-out-of-this-world.json](./400984-morels-out-of-this-world.json) |
+| Morels: The Hunt 2 | 276531 | [276531-morels-the-hunt-2.json](./276531-morels-the-hunt-2.json) |
 | MoreMore | 39953 | [39953-moremore.json](./39953-moremore.json) |
 | Morendar: Goblin Slayer | 50758 | [50758-morendar-goblin-slayer.json](./50758-morendar-goblin-slayer.json) |
 | Morendo | 227024 | [227024-morendo.json](./227024-morendo.json) |
@@ -17345,6 +17347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: Definitive Edition | 283139 | [283139-moto-rush-gt-definitive-edition.json](./283139-moto-rush-gt-definitive-edition.json) |
 | Moto Rush GT: Deluxe Edition | 221507 | [221507-moto-rush-gt-deluxe-edition.json](./221507-moto-rush-gt-deluxe-edition.json) |
 | Moto Rush GT: Diamond Edition | 280613 | [280613-moto-rush-gt-diamond-edition.json](./280613-moto-rush-gt-diamond-edition.json) |
+| Moto Rush GT: Elite Edition | 276547 | [276547-moto-rush-gt-elite-edition.json](./276547-moto-rush-gt-elite-edition.json) |
 | Moto Rush GT: Enhancement Edition | 409974 | [409974-moto-rush-gt-enhancement-edition.json](./409974-moto-rush-gt-enhancement-edition.json) |
 | Moto Rush GT: Essentials Edition | 387679 | [387679-moto-rush-gt-essentials-edition.json](./387679-moto-rush-gt-essentials-edition.json) |
 | Moto Rush GT: Extended Edition | 261346 | [261346-moto-rush-gt-extended-edition.json](./261346-moto-rush-gt-extended-edition.json) |
