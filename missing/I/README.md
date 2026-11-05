@@ -4211,6 +4211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inner Blade | 244753 | [244753-inner-blade.json](./244753-inner-blade.json) |
 | Inner Chains | 12206 | [12206-inner-chains.json](./12206-inner-chains.json) |
 | Inner City Kids | 52245 | [52245-inner-city-kids.json](./52245-inner-city-kids.json) |
+| Inner Darkness | 275373 | [275373-inner-darkness.json](./275373-inner-darkness.json) |
 | Inner Fire | 97341 | [97341-inner-fire.json](./97341-inner-fire.json) |
 | Inner Growth | 403134 | [403134-inner-growth.json](./403134-inner-growth.json) |
 | Inner Kung Fu Game | 99539 | [99539-inner-kung-fu-game.json](./99539-inner-kung-fu-game.json) |
@@ -5378,6 +5379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Investour | 367050 | [367050-investour.json](./367050-investour.json) |
 | Invictus | 124489 | [124489-invictus.json](./124489-invictus.json) |
 | Invictus: In the Shadow of Olympus | 24126 | [24126-invictus-in-the-shadow-of-olympus.json](./24126-invictus-in-the-shadow-of-olympus.json) |
+| Invincible Big Cat | 275382 | [275382-invincible-big-cat.json](./275382-invincible-big-cat.json) |
 | Invincible Cleopatra: Caesar's Dreams | 164946 | [164946-invincible-cleopatra-caesars-dreams.json](./164946-invincible-cleopatra-caesars-dreams.json) |
 | Invincible Fighter | 193965 | [193965-invincible-fighter.json](./193965-invincible-fighter.json) |
 | Invincible Fins | 157162 | [157162-invincible-fins.json](./157162-invincible-fins.json) |
