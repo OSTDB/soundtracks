@@ -6274,6 +6274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MazM: Jekyll and Hyde | 105857 | [105857-mazm-jekyll-and-hyde.json](./105857-mazm-jekyll-and-hyde.json) |
 | MazM: The Phantom of the Opera | 125865 | [125865-mazm-the-phantom-of-the-opera.json](./125865-mazm-the-phantom-of-the-opera.json) |
 | Mazmorras de Tokat | 421586 | [421586-mazmorras-de-tokat.json](./421586-mazmorras-de-tokat.json) |
+| Mazogs | 246714 | [246714-mazogs.json](./246714-mazogs.json) |
 | Mazovian Adventure | 128961 | [128961-mazovian-adventure.json](./128961-mazovian-adventure.json) |
 | Mazy | 385576 | [385576-mazy.json](./385576-mazy.json) |
 | Mazy Match | 282743 | [282743-mazy-match.json](./282743-mazy-match.json) |
