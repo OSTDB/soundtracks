@@ -13950,6 +13950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr.Tool Toy Factory | 78928 | [78928-dr-tool-toy-factory.json](./78928-dr-tool-toy-factory.json) |
 | DR2 Night Janki | 247502 | [247502-dr2-night-janki.json](./247502-dr2-night-janki.json) |
 | DraBot | 401475 | [401475-drabot.json](./401475-drabot.json) |
+| Drac is Back | 285298 | [285298-drac-is-back.json](./285298-drac-is-back.json) |
 | Drac's Night Out | 48643 | [48643-dracs-night-out.json](./48643-dracs-night-out.json) |
 | Dracamar | 348061 | [348061-dracamar.json](./348061-dracamar.json) |
 | Dracanea: The Ragtag Regalia | 422129 | [422129-dracanea-the-ragtag-regalia.json](./422129-dracanea-the-ragtag-regalia.json) |
