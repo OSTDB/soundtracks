@@ -4739,6 +4739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathverse: Let It Die | 178297 | [178297-deathverse-let-it-die.json](./178297-deathverse-let-it-die.json) |
 | Deathward | 397590 | [397590-deathward.json](./397590-deathward.json) |
 | Deathwatch | 221258 | [221258-deathwatch.json](./221258-deathwatch.json) |
+| Deathwatchers | 267735 | [267735-deathwatchers.json](./267735-deathwatchers.json) |
 | Deathwave Aftermath | 259958 | [259958-deathwave-aftermath.json](./259958-deathwave-aftermath.json) |
 | deathwish | 318690 | [318690-deathwish.json](./318690-deathwish.json) |
 | Deathwish | 215541 | [215541-deathwish.json](./215541-deathwish.json) |
@@ -4840,6 +4841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deceive Inc.: Misery Empire | 246571 | [246571-deceive-inc-misery-empire.json](./246571-deceive-inc-misery-empire.json) |
 | Deceive Inc.: Neon Nights | 257432 | [257432-deceive-inc-neon-nights.json](./257432-deceive-inc-neon-nights.json) |
 | Deceive Inc.: Of Queens and Kings | 272493 | [272493-deceive-inc-of-queens-and-kings.json](./272493-deceive-inc-of-queens-and-kings.json) |
+| Deceived by the Host | 267734 | [267734-deceived-by-the-host.json](./267734-deceived-by-the-host.json) |
 | Deceiver | 74788 | [74788-deceiver.json](./74788-deceiver.json) |
 | December 1914 | 235637 | [235637-december-1914.json](./235637-december-1914.json) |
 | December 24th | 200859 | [200859-december-24th.json](./200859-december-24th.json) |
@@ -5604,6 +5606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defendo | 305437 | [305437-defendo.json](./305437-defendo.json) |
 | Defendo | 305438 | [305438-defendo.json](./305438-defendo.json) |
 | Defendoooooor!! | 55229 | [55229-defendoooooor.json](./55229-defendoooooor.json) |
+| Defendor | 267733 | [267733-defendor.json](./267733-defendor.json) |
 | Defendrion | 367929 | [367929-defendrion.json](./367929-defendrion.json) |
 | Defendron | 260378 | [260378-defendron.json](./260378-defendron.json) |
 | Defendun | 240681 | [240681-defendun.json](./240681-defendun.json) |
@@ -9796,6 +9799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disaster Detective Saiga: An Indescribable Mystery | 239450 | [239450-disaster-detective-saiga-an-indescribable-mystery.json](./239450-disaster-detective-saiga-an-indescribable-mystery.json) |
 | Disaster Dragon x Girls from Different Worlds | 131214 | [131214-disaster-dragon-x-girls-from-different-worlds.json](./131214-disaster-dragon-x-girls-from-different-worlds.json) |
 | Disaster Drive | 157904 | [157904-disaster-drive.json](./157904-disaster-drive.json) |
+| Disaster Golf | 267719 | [267719-disaster-golf.json](./267719-disaster-golf.json) |
 | Disaster Island | 197091 | [197091-disaster-island.json](./197091-disaster-island.json) |
 | Disaster Party! | 332862 | [332862-disaster-party.json](./332862-disaster-party.json) |
 | Disaster Plan Z | 301257 | [301257-disaster-plan-z.json](./301257-disaster-plan-z.json) |
@@ -10692,6 +10696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dive! | 70110 | [70110-dive.json](./70110-dive.json) |
 | Divekick | 4759 | [4759-divekick.json](./4759-divekick.json) |
 | Divekick: Addition Edition + | 20226 | [20226-divekick-addition-edition.json](./20226-divekick-addition-edition.json) |
+| Divemensions | 267718 | [267718-divemensions.json](./267718-divemensions.json) |
 | Divenia Episode One | 111986 | [111986-divenia-episode-one.json](./111986-divenia-episode-one.json) |
 | Diver | 178241 | [178241-diver.json](./178241-diver.json) |
 | Diver | 267291 | [267291-diver.json](./267291-diver.json) |
@@ -16295,6 +16300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drinking in the Hot Spring! | 330180 | [330180-drinking-in-the-hot-spring.json](./330180-drinking-in-the-hot-spring.json) |
 | Drinking Tea (with the Trans Boy You Secretly Have a Crush On) | 225519 | [225519-drinking-tea-with-the-trans-boy-you-secretly-have-a-crush-on.json](./225519-drinking-tea-with-the-trans-boy-you-secretly-have-a-crush-on.json) |
 | Drinko | 77710 | [77710-drinko.json](./77710-drinko.json) |
+| Drinkrime | 267717 | [267717-drinkrime.json](./267717-drinkrime.json) |
 | Drinks Company Tycoon | 173053 | [173053-drinks-company-tycoon.json](./173053-drinks-company-tycoon.json) |
 | Drinks Down Under | 291384 | [291384-drinks-down-under.json](./291384-drinks-down-under.json) |
 | Drinlan Yellow | 254979 | [254979-drinlan-yellow.json](./254979-drinlan-yellow.json) |
@@ -16643,6 +16649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dropcore | 371851 | [371851-dropcore.json](./371851-dropcore.json) |
 | DropDisk | 339573 | [339573-dropdisk.json](./339573-dropdisk.json) |
 | Dropfinity | 407526 | [407526-dropfinity.json](./407526-dropfinity.json) |
+| Dropkick Navvy | 267716 | [267716-dropkick-navvy.json](./267716-dropkick-navvy.json) |
 | Droplet | 176483 | [176483-droplet.json](./176483-droplet.json) |
 | Droplet | 314678 | [314678-droplet.json](./314678-droplet.json) |
 | Droplet Shuffle | 61057 | [61057-droplet-shuffle.json](./61057-droplet-shuffle.json) |
