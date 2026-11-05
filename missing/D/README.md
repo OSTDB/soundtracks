@@ -539,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dakini | 390365 | [390365-dakini.json](./390365-dakini.json) |
 | Dakkan Shirei Majo Dungeon: Nushi to Tamenara Yaraneba Narumai | 222513 | [222513-dakkan-shirei-majo-dungeon-nushi-to-tamenara-yaraneba-narumai.json](./222513-dakkan-shirei-majo-dungeon-nushi-to-tamenara-yaraneba-narumai.json) |
 | Dakkan Stiletto | 376683 | [376683-dakkan-stiletto.json](./376683-dakkan-stiletto.json) |
+| Dakkan! Monster no Shima | 253650 | [253650-dakkan-monster-no-shima.json](./253650-dakkan-monster-no-shima.json) |
 | Dakko-chan House | 65234 | [65234-dakko-chan-house.json](./65234-dakko-chan-house.json) |
 | Dakkoshite! Chimpanzee | 67358 | [67358-dakkoshite-chimpanzee.json](./67358-dakkoshite-chimpanzee.json) |
 | Dakota Winchester's Adventures | 90222 | [90222-dakota-winchesters-adventures.json](./90222-dakota-winchesters-adventures.json) |
@@ -11172,6 +11173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dobraminhos | 246932 | [246932-dobraminhos.json](./246932-dobraminhos.json) |
 | Dobro Goranku | 372136 | [372136-dobro-goranku.json](./372136-dobro-goranku.json) |
 | Dobro Love Fantasy Quest | 274531 | [274531-dobro-love-fantasy-quest.json](./274531-dobro-love-fantasy-quest.json) |
+| Dobuki's Epic Journey | 253706 | [253706-dobukis-epic-journey.json](./253706-dobukis-epic-journey.json) |
 | Dobutsu Shogi World | 120260 | [120260-dobutsu-shogi-world.json](./120260-dobutsu-shogi-world.json) |
 | Doc Apocalypse | 75677 | [75677-doc-apocalypse.json](./75677-doc-apocalypse.json) |
 | Doc Ati | 271094 | [271094-doc-ati.json](./271094-doc-ati.json) |
@@ -16148,6 +16150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dribble Basket | 424660 | [424660-dribble-basket.json](./424660-dribble-basket.json) |
 | Dribble Bounces Back! | 381579 | [381579-dribble-bounces-back.json](./381579-dribble-bounces-back.json) |
 | Dribble Skillz | 231635 | [231635-dribble-skillz.json](./231635-dribble-skillz.json) |
+| Dride | 253700 | [253700-dride.json](./253700-dride.json) |
 | Drift | 359723 | [359723-drift.json](./359723-drift.json) |
 | Drift 'n' Burn 2: My Racer | 280966 | [280966-drift-n-burn-2-my-racer.json](./280966-drift-n-burn-2-my-racer.json) |
 | Drift 'n' Burn 365 | 280965 | [280965-drift-n-burn-365.json](./280965-drift-n-burn-365.json) |
