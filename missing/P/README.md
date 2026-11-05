@@ -5262,6 +5262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom of the Grove | 337306 | [337306-phantom-of-the-grove.json](./337306-phantom-of-the-grove.json) |
 | Phantom of the Kill | 58459 | [58459-phantom-of-the-kill.json](./58459-phantom-of-the-kill.json) |
 | Phantom of the Twilight | 304152 | [304152-phantom-of-the-twilight.json](./304152-phantom-of-the-twilight.json) |
+| Phantom of Zana | 253686 | [253686-phantom-of-zana.json](./253686-phantom-of-zana.json) |
 | Phantom Ops | 370703 | [370703-phantom-ops.json](./370703-phantom-ops.json) |
 | Phantom P.I. | 200865 | [200865-phantom-p-i.json](./200865-phantom-p-i.json) |
 | Phantom Path | 126654 | [126654-phantom-path.json](./126654-phantom-path.json) |
@@ -11060,6 +11061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Masters | 119156 | [119156-pokemon-masters.json](./119156-pokemon-masters.json) |
 | Pokémon Masters EX | 144248 | [144248-pokemon-masters-ex.json](./144248-pokemon-masters-ex.json) |
 | Pokemon Masters Stadium | 367553 | [367553-pokemon-masters-stadium.json](./367553-pokemon-masters-stadium.json) |
+| Pokémon Medallion Battle | 253683 | [253683-pokemon-medallion-battle.json](./253683-pokemon-medallion-battle.json) |
 | Pokémon Mega Evolution Aquamarine | 300428 | [300428-pokemon-mega-evolution-aquamarine.json](./300428-pokemon-mega-evolution-aquamarine.json) |
 | Pokémon Mega Get! | 59116 | [59116-pokemon-mega-get.json](./59116-pokemon-mega-get.json) |
 | Pokémon Mezastar | 253787 | [253787-pokemon-mezastar.json](./253787-pokemon-mezastar.json) |
