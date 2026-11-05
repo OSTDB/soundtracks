@@ -1892,6 +1892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardcore Mecha: Thunderbolt Otome | 168210 | [168210-hardcore-mecha-thunderbolt-otome.json](./168210-hardcore-mecha-thunderbolt-otome.json) |
 | Hardcore Parkour | 119765 | [119765-hardcore-parkour.json](./119765-hardcore-parkour.json) |
 | Hardcore Pinball | 49296 | [49296-hardcore-pinball.json](./49296-hardcore-pinball.json) |
+| Hardcore Platform Bundle | 284734 | [284734-hardcore-platform-bundle.json](./284734-hardcore-platform-bundle.json) |
 | Hardcore Pool | 130627 | [130627-hardcore-pool.json](./130627-hardcore-pool.json) |
 | Hardcore Soldier | 406214 | [406214-hardcore-soldier.json](./406214-hardcore-soldier.json) |
 | Hardcore Survival | 292474 | [292474-hardcore-survival.json](./292474-hardcore-survival.json) |
@@ -2905,6 +2906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazardous Hunt | 345822 | [345822-hazardous-hunt.json](./345822-hazardous-hunt.json) |
 | Hazardous island | 304915 | [304915-hazardous-island.json](./304915-hazardous-island.json) |
 | Hazardous Journey | 110332 | [110332-hazardous-journey.json](./110332-hazardous-journey.json) |
+| Hazardous Materials | 284731 | [284731-hazardous-materials.json](./284731-hazardous-materials.json) |
 | Hazardous: Ovesis | 273778 | [273778-hazardous-ovesis.json](./273778-hazardous-ovesis.json) |
 | Hazatron | 237224 | [237224-hazatron.json](./237224-hazatron.json) |
 | Haze | 377318 | [377318-haze.json](./377318-haze.json) |
@@ -3982,6 +3984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Let Loose: Battle Scarred | 371226 | [371226-hell-let-loose-battle-scarred.json](./371226-hell-let-loose-battle-scarred.json) |
 | Hell Let Loose: Canadian Airborne | 403960 | [403960-hell-let-loose-canadian-airborne.json](./403960-hell-let-loose-canadian-airborne.json) |
 | Hell Let Loose: Canadian Western Europe Pack | 403959 | [403959-hell-let-loose-canadian-western-europe-pack.json](./403959-hell-let-loose-canadian-western-europe-pack.json) |
+| Hell Let Loose: Cavalry Coat | 284691 | [284691-hell-let-loose-cavalry-coat.json](./284691-hell-let-loose-cavalry-coat.json) |
 | Hell Let Loose: Deluxe Edition | 273004 | [273004-hell-let-loose-deluxe-edition.json](./273004-hell-let-loose-deluxe-edition.json) |
 | Hell Let Loose: Devotion to Duty | 252863 | [252863-hell-let-loose-devotion-to-duty.json](./252863-hell-let-loose-devotion-to-duty.json) |
 | Hell Let Loose: False Front | 403961 | [403961-hell-let-loose-false-front.json](./403961-hell-let-loose-false-front.json) |
@@ -4306,7 +4309,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty Daily | 47853 | [47853-hello-kitty-daily.json](./47853-hello-kitty-daily.json) |
 | Hello Kitty Detective Games | 279608 | [279608-hello-kitty-detective-games.json](./279608-hello-kitty-detective-games.json) |
 | Hello Kitty Discovering The World | 279610 | [279610-hello-kitty-discovering-the-world.json](./279610-hello-kitty-discovering-the-world.json) |
+| Hello Kitty Dream Cafe | 284629 | [284629-hello-kitty-dream-cafe.json](./284629-hello-kitty-dream-cafe.json) |
 | Hello Kitty Dream Village | 172536 | [172536-hello-kitty-dream-village.json](./172536-hello-kitty-dream-village.json) |
+| Hello Kitty Educational Games | 284630 | [284630-hello-kitty-educational-games.json](./284630-hello-kitty-educational-games.json) |
 | Hello Kitty Fairy Tale Samegame | 77342 | [77342-hello-kitty-fairy-tale-samegame.json](./77342-hello-kitty-fairy-tale-samegame.json) |
 | Hello Kitty Food Town | 249481 | [249481-hello-kitty-food-town.json](./249481-hello-kitty-food-town.json) |
 | Hello Kitty Friends | 186743 | [186743-hello-kitty-friends.json](./186743-hello-kitty-friends.json) |
