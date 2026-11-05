@@ -1068,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nauseous Pines | 126906 | [126906-nauseous-pines.json](./126906-nauseous-pines.json) |
 | Naut | 60452 | [60452-naut.json](./60452-naut.json) |
 | Nautical Dispute | 257856 | [257856-nautical-dispute.json](./257856-nautical-dispute.json) |
+| Nautical Dispute | 258261 | [258261-nautical-dispute.json](./258261-nautical-dispute.json) |
 | Nautical Life | 95190 | [95190-nautical-life.json](./95190-nautical-life.json) |
 | Nautical Survival | 295505 | [295505-nautical-survival.json](./295505-nautical-survival.json) |
 | Nauticalypse | 159495 | [159495-nauticalypse.json](./159495-nauticalypse.json) |
@@ -4861,6 +4862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine Lives | 139614 | [139614-nine-lives.json](./139614-nine-lives.json) |
 | Nine Men's Morris Multiplayer | 351063 | [351063-nine-mens-morris-multiplayer.json](./351063-nine-mens-morris-multiplayer.json) |
 | Nine Mile Ride | 384473 | [384473-nine-mile-ride.json](./384473-nine-mile-ride.json) |
+| Nine Nights | 258262 | [258262-nine-nights.json](./258262-nine-nights.json) |
 | Nine Nights | 289678 | [289678-nine-nights.json](./289678-nine-nights.json) |
 | Nine Nights: Martial Ci Lang Story | 300857 | [300857-nine-nights-martial-ci-lang-story.json](./300857-nine-nights-martial-ci-lang-story.json) |
 | Nine of Wands | 163106 | [163106-nine-of-wands.json](./163106-nine-of-wands.json) |
