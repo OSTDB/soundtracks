@@ -6476,6 +6476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cherrywitched! | 246070 | [246070-cherrywitched.json](./246070-cherrywitched.json) |
 | Chertovica | 333326 | [333326-chertovica.json](./333326-chertovica.json) |
 | Chesh | 15551 | [15551-chesh.json](./15551-chesh.json) |
+| Cheshire's Wonderland: Dire Adventure | 293961 | [293961-cheshires-wonderland-dire-adventure.json](./293961-cheshires-wonderland-dire-adventure.json) |
 | Chesnakisnak | 158127 | [158127-chesnakisnak.json](./158127-chesnakisnak.json) |
 | Chess | 128646 | [128646-chess.json](./128646-chess.json) |
 | Chess | 131469 | [131469-chess.json](./131469-chess.json) |
@@ -7397,6 +7398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chkn | 34021 | [34021-chkn.json](./34021-chkn.json) |
 | Chlea Adventure Fantasy Island | 194146 | [194146-chlea-adventure-fantasy-island.json](./194146-chlea-adventure-fantasy-island.json) |
 | Chloe Puzzle Game | 162247 | [162247-chloe-puzzle-game.json](./162247-chloe-puzzle-game.json) |
+| Chloe's Dream Resort | 293962 | [293962-chloes-dream-resort.json](./293962-chloes-dream-resort.json) |
 | Chloe's Requiem | 124639 | [124639-chloes-requiem.json](./124639-chloes-requiem.json) |
 | Chloe’s Requiem: Encore | 250285 | [250285-chloe-s-requiem-encore.json](./250285-chloe-s-requiem-encore.json) |
 | Chlorofell | 334156 | [334156-chlorofell.json](./334156-chlorofell.json) |
@@ -13063,6 +13065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Congresswolf | 30797 | [30797-congresswolf.json](./30797-congresswolf.json) |
 | CongWei | 372945 | [372945-congwei.json](./372945-congwei.json) |
 | Coniclysm | 16107 | [16107-coniclysm.json](./16107-coniclysm.json) |
+| Conjoined Cats | 294074 | [294074-conjoined-cats.json](./294074-conjoined-cats.json) |
 | Conjunctivitalizer | 329464 | [329464-conjunctivitalizer.json](./329464-conjunctivitalizer.json) |
 | Conjuntalia | 91002 | [91002-conjuntalia.json](./91002-conjuntalia.json) |
 | Conjuntalia: Overcome the Death of a Loved One | 171400 | [171400-conjuntalia-overcome-the-death-of-a-loved-one.json](./171400-conjuntalia-overcome-the-death-of-a-loved-one.json) |
@@ -20046,6 +20049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunk Inquisitor | 306065 | [306065-cyberpunk-inquisitor.json](./306065-cyberpunk-inquisitor.json) |
 | Cyberpunk Madness | 149165 | [149165-cyberpunk-madness.json](./149165-cyberpunk-madness.json) |
 | Cyberpunk Men for Cyberpunk Sex | 288882 | [288882-cyberpunk-men-for-cyberpunk-sex.json](./288882-cyberpunk-men-for-cyberpunk-sex.json) |
+| Cyberpunk Men for Fuck in Police | 294078 | [294078-cyberpunk-men-for-fuck-in-police.json](./294078-cyberpunk-men-for-fuck-in-police.json) |
 | Cyberpunk Men for Sex Motel | 288895 | [288895-cyberpunk-men-for-sex-motel.json](./288895-cyberpunk-men-for-sex-motel.json) |
 | Cyberpunk Messenger | 169830 | [169830-cyberpunk-messenger.json](./169830-cyberpunk-messenger.json) |
 | Cyberpunk Paradise Elysium: The Visual Novel | 303867 | [303867-cyberpunk-paradise-elysium-the-visual-novel.json](./303867-cyberpunk-paradise-elysium-the-visual-novel.json) |
@@ -20057,6 +20061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberPunk Sex Tower | 171604 | [171604-cyberpunk-sex-tower.json](./171604-cyberpunk-sex-tower.json) |
 | Cyberpunk Speed Assassin | 315905 | [315905-cyberpunk-speed-assassin.json](./315905-cyberpunk-speed-assassin.json) |
 | Cyberpunk Women for Cyberpunk Sex | 288246 | [288246-cyberpunk-women-for-cyberpunk-sex.json](./288246-cyberpunk-women-for-cyberpunk-sex.json) |
+| Cyberpunk Women for Fuck in Police | 294085 | [294085-cyberpunk-women-for-fuck-in-police.json](./294085-cyberpunk-women-for-fuck-in-police.json) |
 | Cyberpunk Women for Sex Motel | 288896 | [288896-cyberpunk-women-for-sex-motel.json](./288896-cyberpunk-women-for-sex-motel.json) |
 | Cyberpunk: Red-Light District | 266323 | [266323-cyberpunk-red-light-district.json](./266323-cyberpunk-red-light-district.json) |
 | Cyberpunk: The Arasaka's Plot | 120199 | [120199-cyberpunk-the-arasakas-plot.json](./120199-cyberpunk-the-arasakas-plot.json) |
