@@ -2048,6 +2048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Khok | 362732 | [362732-khok.json](./362732-khok.json) |
 | Kholin Echo | 415311 | [415311-kholin-echo.json](./415311-kholin-echo.json) |
 | Khoros | 200516 | [200516-khoros.json](./200516-khoros.json) |
+| Khorus' Speedy Shit | 261024 | [261024-khorus-speedy-shit.json](./261024-khorus-speedy-shit.json) |
 | Khospis | 110338 | [110338-khospis.json](./110338-khospis.json) |
 | Khottabych | 251019 | [251019-khottabych.json](./251019-khottabych.json) |
 | Khufu-ou no Himitsu | 181781 | [181781-khufu-ou-no-himitsu.json](./181781-khufu-ou-no-himitsu.json) |
@@ -2655,6 +2656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killgun | 399045 | [399045-killgun.json](./399045-killgun.json) |
 | Killigan's Treasure | 137292 | [137292-killigans-treasure.json](./137292-killigans-treasure.json) |
 | Killing a Superstar | 160228 | [160228-killing-a-superstar.json](./160228-killing-a-superstar.json) |
+| Killing Adventure | 261023 | [261023-killing-adventure.json](./261023-killing-adventure.json) |
 | Killing Baby Hitler | 399088 | [399088-killing-baby-hitler.json](./399088-killing-baby-hitler.json) |
 | Killing Bites | 59412 | [59412-killing-bites.json](./59412-killing-bites.json) |
 | Killing Bullet | 272242 | [272242-killing-bullet.json](./272242-killing-bullet.json) |
