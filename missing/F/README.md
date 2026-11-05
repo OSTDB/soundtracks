@@ -5043,6 +5043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XV: Windows Edition | 55034 | [55034-final-fantasy-xv-windows-edition.json](./55034-final-fantasy-xv-windows-edition.json) |
 | Final Fantasy XVI Demake | 402448 | [402448-final-fantasy-xvi-demake.json](./402448-final-fantasy-xvi-demake.json) |
 | Final Fantasy XVI Expansion Pass | 279665 | [279665-final-fantasy-xvi-expansion-pass.json](./279665-final-fantasy-xvi-expansion-pass.json) |
+| Final Fantasy XVI: Collector's Edition | 295968 | [295968-final-fantasy-xvi-collectors-edition.json](./295968-final-fantasy-xvi-collectors-edition.json) |
 | Final Fantasy XVI: Complete Edition | 318557 | [318557-final-fantasy-xvi-complete-edition.json](./318557-final-fantasy-xvi-complete-edition.json) |
 | Final Fantasy XVI: Deluxe Edition | 228738 | [228738-final-fantasy-xvi-deluxe-edition.json](./228738-final-fantasy-xvi-deluxe-edition.json) |
 | Final Fantasy: 20th Anniversary Edition | 397 | [397-final-fantasy-20th-anniversary-edition.json](./397-final-fantasy-20th-anniversary-edition.json) |
@@ -6667,6 +6668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fit My Zoo: Zoo's Puzzle Pack 3 | 308813 | [308813-fit-my-zoo-zoos-puzzle-pack-3.json](./308813-fit-my-zoo-zoos-puzzle-pack-3.json) |
 | Fit Puzzle Blocks | 217449 | [217449-fit-puzzle-blocks.json](./217449-fit-puzzle-blocks.json) |
 | Fit Puzzle Blocks: Expansion Pack | 263197 | [263197-fit-puzzle-blocks-expansion-pack.json](./263197-fit-puzzle-blocks-expansion-pack.json) |
+| Fit the Ball 3D | 295986 | [295986-fit-the-ball-3d.json](./295986-fit-the-ball-3d.json) |
 | Fit the Fat 2 | 87369 | [87369-fit-the-fat-2.json](./87369-fit-the-fat-2.json) |
 | Fit the Shape! | 267336 | [267336-fit-the-shape.json](./267336-fit-the-shape.json) |
 | Fitba | 68631 | [68631-fitba.json](./68631-fitba.json) |
@@ -13065,6 +13067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funky Barn | 21698 | [21698-funky-barn.json](./21698-funky-barn.json) |
 | Funky Barn 3D | 65333 | [65333-funky-barn-3d.json](./65333-funky-barn-3d.json) |
 | Funky Bay - Farm & Adventure | 106356 | [106356-funky-bay-farm-and-adventure.json](./106356-funky-bay-farm-and-adventure.json) |
+| Funky Beans | 295961 | [295961-funky-beans.json](./295961-funky-beans.json) |
 | Funky Bee | 40131 | [40131-funky-bee.json](./40131-funky-bee.json) |
 | Funky Boxers | 44725 | [44725-funky-boxers.json](./44725-funky-boxers.json) |
 | Funky Fantasy | 77226 | [77226-funky-fantasy.json](./77226-funky-fantasy.json) |
