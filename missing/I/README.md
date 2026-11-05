@@ -3748,6 +3748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4923,6 +4924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intersection | 299751 | [299751-intersection.json](./299751-intersection.json) |
 | InterSection | 34237 | [34237-intersection.json](./34237-intersection.json) |
 | Intersection of Three Circles | 374692 | [374692-intersection-of-three-circles.json](./374692-intersection-of-three-circles.json) |
+| Intershellar | 290230 | [290230-intershellar.json](./290230-intershellar.json) |
 | Intersolar Overdrive | 111676 | [111676-intersolar-overdrive.json](./111676-intersolar-overdrive.json) |
 | InterSpace | 258209 | [258209-interspace.json](./258209-interspace.json) |
 | Interstate '76 | 760 | [760-interstate-76.json](./760-interstate-76.json) |
