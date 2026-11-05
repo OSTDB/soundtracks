@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-1 World Grand Prix II for Game Boy Color | 249131 | [249131-f-1-world-grand-prix-ii-for-game-boy-color.json](./249131-f-1-world-grand-prix-ii-for-game-boy-color.json) |
 | F-117 Night Storm | 46216 | [46216-f-117-night-storm.json](./46216-f-117-night-storm.json) |
 | F-117A Stealth Fighter | 69582 | [69582-f-117a-stealth-fighter.json](./69582-f-117a-stealth-fighter.json) |
+| F-14 Tomcat | 259334 | [259334-f-14-tomcat.json](./259334-f-14-tomcat.json) |
 | F-14 Tomcat | 47179 | [47179-f-14-tomcat.json](./47179-f-14-tomcat.json) |
 | F-15 Strike Eagle | 12261 | [12261-f-15-strike-eagle.json](./12261-f-15-strike-eagle.json) |
 | F-15 Strike Eagle | 370483 | [370483-f-15-strike-eagle.json](./370483-f-15-strike-eagle.json) |
@@ -6945,6 +6946,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Treasure Island: Sister Location | 274981 | [274981-five-nights-at-treasure-island-sister-location.json](./274981-five-nights-at-treasure-island-sister-location.json) |
 | Five Nights at Vsauce VR | 323802 | [323802-five-nights-at-vsauce-vr.json](./323802-five-nights-at-vsauce-vr.json) |
 | Five Nights at Wario's | 50258 | [50258-five-nights-at-warios.json](./50258-five-nights-at-warios.json) |
+| Five Nights at Wario's 2 | 259362 | [259362-five-nights-at-warios-2.json](./259362-five-nights-at-warios-2.json) |
+| Five Nights at Wario's 3 | 259363 | [259363-five-nights-at-warios-3.json](./259363-five-nights-at-warios-3.json) |
 | Five Nights at Wario's 4 | 280770 | [280770-five-nights-at-warios-4.json](./280770-five-nights-at-warios-4.json) |
 | Five Nights in Anime | 47051 | [47051-five-nights-in-anime.json](./47051-five-nights-in-anime.json) |
 | Five Nights In Saransk | 381257 | [381257-five-nights-in-saransk.json](./381257-five-nights-in-saransk.json) |
