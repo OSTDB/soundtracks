@@ -795,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yokai Mask | 110229 | [110229-yokai-mask.json](./110229-yokai-mask.json) |
 | Yokai Memory | 124584 | [124584-yokai-memory.json](./124584-yokai-memory.json) |
 | Yokai Moon | 183511 | [183511-yokai-moon.json](./183511-yokai-moon.json) |
+| Yokai Ningen Bem: Aratanaru Tamashii No Meikyuu | 281826 | [281826-yokai-ningen-bem-aratanaru-tamashii-no-meikyuu.json](./281826-yokai-ningen-bem-aratanaru-tamashii-no-meikyuu.json) |
 | Yokai Onsen | 348815 | [348815-yokai-onsen.json](./348815-yokai-onsen.json) |
 | Yokai Rescue | 309868 | [309868-yokai-rescue.json](./309868-yokai-rescue.json) |
 | Yokai Return | 389372 | [389372-yokai-return.json](./389372-yokai-return.json) |
