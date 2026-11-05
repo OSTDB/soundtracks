@@ -1388,6 +1388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venom/Spider-Man: Separation Anxiety | 46182 | [46182-venom-spider-man-separation-anxiety.json](./46182-venom-spider-man-separation-anxiety.json) |
 | Venomous | 338573 | [338573-venomous.json](./338573-venomous.json) |
 | Venova Adventure | 200002 | [200002-venova-adventure.json](./200002-venova-adventure.json) |
+| Venox: The Alien Survivors | 247833 | [247833-venox-the-alien-survivors.json](./247833-venox-the-alien-survivors.json) |
 | Vent Match: Tile Zen World | 223890 | [223890-vent-match-tile-zen-world.json](./223890-vent-match-tile-zen-world.json) |
 | Vent Vipers | 280106 | [280106-vent-vipers.json](./280106-vent-vipers.json) |
 | Venti Mesi | 146001 | [146001-venti-mesi.json](./146001-venti-mesi.json) |
@@ -3702,6 +3703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxquarter | 366461 | [366461-voxquarter.json](./366461-voxquarter.json) |
 | Voxrush | 211138 | [211138-voxrush.json](./211138-voxrush.json) |
 | VoxStory | 137887 | [137887-voxstory.json](./137887-voxstory.json) |
+| VoxSys | 247847 | [247847-voxsys.json](./247847-voxsys.json) |
 | Voxtale | 400733 | [400733-voxtale.json](./400733-voxtale.json) |
 | Voya Nui Online Game | 155023 | [155023-voya-nui-online-game.json](./155023-voya-nui-online-game.json) |
 | Voyage | 119617 | [119617-voyage.json](./119617-voyage.json) |
