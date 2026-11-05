@@ -4509,6 +4509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Hidden in China | 272861 | [272861-cats-hidden-in-china.json](./272861-cats-hidden-in-china.json) |
 | Cats Hidden in Cozy Places | 308648 | [308648-cats-hidden-in-cozy-places.json](./308648-cats-hidden-in-cozy-places.json) |
 | Cats Hidden in Georgia | 261656 | [261656-cats-hidden-in-georgia.json](./261656-cats-hidden-in-georgia.json) |
+| Cats Hidden in Germany | 282955 | [282955-cats-hidden-in-germany.json](./282955-cats-hidden-in-germany.json) |
 | Cats Hidden in Italy | 239729 | [239729-cats-hidden-in-italy.json](./239729-cats-hidden-in-italy.json) |
 | Cats Hidden in Japan | 280654 | [280654-cats-hidden-in-japan.json](./280654-cats-hidden-in-japan.json) |
 | Cats Hidden in Magic Places | 309047 | [309047-cats-hidden-in-magic-places.json](./309047-cats-hidden-in-magic-places.json) |
@@ -11482,6 +11483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Sex: Episode 6 | 285603 | [285603-college-sex-episode-6.json](./285603-college-sex-episode-6.json) |
 | College Sex: Episode 8 | 297927 | [297927-college-sex-episode-8.json](./297927-college-sex-episode-8.json) |
 | College Sex: Episode 9 | 297929 | [297929-college-sex-episode-9.json](./297929-college-sex-episode-9.json) |
+| College Slam | 282963 | [282963-college-slam.json](./282963-college-slam.json) |
 | College Slam | 365698 | [365698-college-slam.json](./365698-college-slam.json) |
 | College Slam | 4541 | [4541-college-slam.json](./4541-college-slam.json) |
 | College Wrestling Manager 2026 | 384514 | [384514-college-wrestling-manager-2026.json](./384514-college-wrestling-manager-2026.json) |
@@ -12870,6 +12872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Con Man: The Game | 76571 | [76571-con-man-the-game.json](./76571-con-man-the-game.json) |
 | Con-Quest | 13512 | [13512-con-quest.json](./13512-con-quest.json) |
 | Con-Quest | 140569 | [140569-con-quest.json](./140569-con-quest.json) |
+| Con-Quest! Poké-con | 282956 | [282956-con-quest-poke-con.json](./282956-con-quest-poke-con.json) |
 | Conan | 3862 | [3862-conan.json](./3862-conan.json) |
 | Conan | 415219 | [415219-conan.json](./415219-conan.json) |
 | Conan | 73158 | [73158-conan.json](./73158-conan.json) |
