@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred: Last Pixel of Ancaria | 382855 | [382855-sacred-last-pixel-of-ancaria.json](./382855-sacred-last-pixel-of-ancaria.json) |
 | Sacreligious | 276460 | [276460-sacreligious.json](./276460-sacreligious.json) |
 | Sacrifice Dungeon | 82360 | [82360-sacrifice-dungeon.json](./82360-sacrifice-dungeon.json) |
+| Sacrifice for Sale | 290733 | [290733-sacrifice-for-sale.json](./290733-sacrifice-for-sale.json) |
 | Sacrifice Girl: The Curse of Demon Snake | 112222 | [112222-sacrifice-girl-the-curse-of-demon-snake.json](./112222-sacrifice-girl-the-curse-of-demon-snake.json) |
 | Sacrifice of the Beloved | 115318 | [115318-sacrifice-of-the-beloved.json](./115318-sacrifice-of-the-beloved.json) |
 | Sacrifice Villains | 314808 | [314808-sacrifice-villains.json](./314808-sacrifice-villains.json) |
@@ -3343,6 +3344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Cross Containment | 141786 | [141786-scp-cross-containment.json](./141786-scp-cross-containment.json) |
 | SCP: Daybreak | 211579 | [211579-scp-daybreak.json](./211579-scp-daybreak.json) |
 | SCP: Derelict - SciFi First Person Shooter | 111737 | [111737-scp-derelict-scifi-first-person-shooter.json](./111737-scp-derelict-scifi-first-person-shooter.json) |
+| SCP: Descent | 290760 | [290760-scp-descent.json](./290760-scp-descent.json) |
 | SCP: Echoes | 364517 | [364517-scp-echoes.json](./364517-scp-echoes.json) |
 | SCP: Equestrian | 263764 | [263764-scp-equestrian.json](./263764-scp-equestrian.json) |
 | SCP: Escape Together | 139407 | [139407-scp-escape-together.json](./139407-scp-escape-together.json) |
@@ -4063,6 +4065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seafrog | 215796 | [215796-seafrog.json](./215796-seafrog.json) |
 | Seagazer | 417937 | [417937-seagazer.json](./417937-seagazer.json) |
 | Seaglass | 225763 | [225763-seaglass.json](./225763-seaglass.json) |
+| Seagulls: Crappy Situation | 290755 | [290755-seagulls-crappy-situation.json](./290755-seagulls-crappy-situation.json) |
 | Seahaven Towers Solitaire | 83465 | [83465-seahaven-towers-solitaire.json](./83465-seahaven-towers-solitaire.json) |
 | Seal Breaker | 181202 | [181202-seal-breaker.json](./181202-seal-breaker.json) |
 | Seal Electric Railway | 147668 | [147668-seal-electric-railway.json](./147668-seal-electric-railway.json) |
@@ -13527,6 +13530,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slizer Battle Management System | 71188 | [71188-slizer-battle-management-system.json](./71188-slizer-battle-management-system.json) |
 | Slizza | 116993 | [116993-slizza.json](./116993-slizza.json) |
 | Sloane and MacHale's Mysterious Stories 2 | 59405 | [59405-sloane-and-machales-mysterious-stories-2.json](./59405-sloane-and-machales-mysterious-stories-2.json) |
+| Sloany vs. Reggie | 290664 | [290664-sloany-vs-reggie.json](./290664-sloany-vs-reggie.json) |
+| Sloanysoft C64 SEUCK Games | 290667 | [290667-sloanysoft-c64-seuck-games.json](./290667-sloanysoft-c64-seuck-games.json) |
 | Slobbish Dragon Princess | 153459 | [153459-slobbish-dragon-princess.json](./153459-slobbish-dragon-princess.json) |
 | Slobbish Dragon Princess 3 | 240480 | [240480-slobbish-dragon-princess-3.json](./240480-slobbish-dragon-princess-3.json) |
 | Slobbish Dragon Princess Love + Plus | 153460 | [153460-slobbish-dragon-princess-love-plus.json](./153460-slobbish-dragon-princess-love-plus.json) |
@@ -29012,6 +29017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sully: A Very Serious RPG | 216868 | [216868-sully-a-very-serious-rpg.json](./216868-sully-a-very-serious-rpg.json) |
 | Sullyland Nursery Rhyme | 392429 | [392429-sullyland-nursery-rhyme.json](./392429-sullyland-nursery-rhyme.json) |
 | Sulphur Nimbus: Hel's Elixir | 130625 | [130625-sulphur-nimbus-hels-elixir.json](./130625-sulphur-nimbus-hels-elixir.json) |
+| Sultan Jumps | 290749 | [290749-sultan-jumps.json](./290749-sultan-jumps.json) |
 | Sultan of Egypt | 195788 | [195788-sultan-of-egypt.json](./195788-sultan-of-egypt.json) |
 | Sultan's Game | 318002 | [318002-sultans-game.json](./318002-sultans-game.json) |
 | Sultan's Maze | 13038 | [13038-sultans-maze.json](./13038-sultans-maze.json) |
@@ -31913,6 +31919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Salome World | 296508 | [296508-super-salome-world.json](./296508-super-salome-world.json) |
 | Super Sam Adventures | 343991 | [343991-super-sam-adventures.json](./343991-super-sam-adventures.json) |
 | Super Sami Roll | 158582 | [158582-super-sami-roll.json](./158582-super-sami-roll.json) |
+| Super Sami Roll 2 | 290751 | [290751-super-sami-roll-2.json](./290751-super-sami-roll-2.json) |
 | Super Samtong | 92509 | [92509-super-samtong.json](./92509-super-samtong.json) |
 | Super Samurai Rampage | 54500 | [54500-super-samurai-rampage.json](./54500-super-samurai-rampage.json) |
 | Super Sangokushi | 42226 | [42226-super-sangokushi.json](./42226-super-sangokushi.json) |
@@ -34636,6 +34643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Slayer | 63789 | [63789-sword-slayer.json](./63789-sword-slayer.json) |
 | Sword Slinger | 139613 | [139613-sword-slinger.json](./139613-sword-slinger.json) |
 | Sword Smash | 244385 | [244385-sword-smash.json](./244385-sword-smash.json) |
+| Sword Smash 2 | 290745 | [290745-sword-smash-2.json](./290745-sword-smash-2.json) |
 | Sword Snap | 384328 | [384328-sword-snap.json](./384328-sword-snap.json) |
 | Sword Story | 153500 | [153500-sword-story.json](./153500-sword-story.json) |
 | Sword Tale: Lost Excalibur | 341990 | [341990-sword-tale-lost-excalibur.json](./341990-sword-tale-lost-excalibur.json) |
