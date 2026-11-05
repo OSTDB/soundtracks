@@ -12758,6 +12758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CommanderTux | 320161 | [320161-commandertux.json](./320161-commandertux.json) |
 | Commanding Nations | 173035 | [173035-commanding-nations.json](./173035-commanding-nations.json) |
 | Commanding Officer Eastern Front | 52316 | [52316-commanding-officer-eastern-front.json](./52316-commanding-officer-eastern-front.json) |
+| Commando | 247258 | [247258-commando.json](./247258-commando.json) |
 | Commando | 282623 | [282623-commando.json](./282623-commando.json) |
 | Commando | 306409 | [306409-commando.json](./306409-commando.json) |
 | Commando | 310110 | [310110-commando.json](./310110-commando.json) |
@@ -15991,6 +15992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot | 135449 | [135449-crash-bandicoot.json](./135449-crash-bandicoot.json) |
 | Crash Bandicoot | 148195 | [148195-crash-bandicoot.json](./148195-crash-bandicoot.json) |
 | Crash Bandicoot | 210243 | [210243-crash-bandicoot.json](./210243-crash-bandicoot.json) |
+| Crash Bandicoot | 247270 | [247270-crash-bandicoot.json](./247270-crash-bandicoot.json) |
 | Crash Bandicoot 2: Cortex Strikes Back | 135450 | [135450-crash-bandicoot-2-cortex-strikes-back.json](./135450-crash-bandicoot-2-cortex-strikes-back.json) |
 | Crash Bandicoot 2: N-Tranced | 1198 | [1198-crash-bandicoot-2-n-tranced.json](./1198-crash-bandicoot-2-n-tranced.json) |
 | Crash Bandicoot 4: It's About Time | 135254 | [135254-crash-bandicoot-4-its-about-time.json](./135254-crash-bandicoot-4-its-about-time.json) |
@@ -16158,6 +16160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crashimals | 120893 | [120893-crashimals.json](./120893-crashimals.json) |
 | Crashimals | 268931 | [268931-crashimals.json](./268931-crashimals.json) |
 | Crashing Not Optional | 296726 | [296726-crashing-not-optional.json](./296726-crashing-not-optional.json) |
+| Crashing Party | 247249 | [247249-crashing-party.json](./247249-crashing-party.json) |
 | Crashing Race | 172598 | [172598-crashing-race.json](./172598-crashing-race.json) |
 | Crashland | 144349 | [144349-crashland.json](./144349-crashland.json) |
 | Crashlands 2 | 252355 | [252355-crashlands-2.json](./252355-crashlands-2.json) |
