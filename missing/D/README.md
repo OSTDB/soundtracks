@@ -808,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance on Broadway | 2663 | [2663-dance-on-broadway.json](./2663-dance-on-broadway.json) |
 | Dance On Radar | 342801 | [342801-dance-on-radar.json](./342801-dance-on-radar.json) |
 | Dance Paradise | 20169 | [20169-dance-paradise.json](./20169-dance-paradise.json) |
+| Dance Party | 247250 | [247250-dance-party.json](./247250-dance-party.json) |
 | Dance Party Crunkmas | 87230 | [87230-dance-party-crunkmas.json](./87230-dance-party-crunkmas.json) |
 | Dance Party: Club Hits | 50928 | [50928-dance-party-club-hits.json](./50928-dance-party-club-hits.json) |
 | Dance Party: Pop Hits | 50929 | [50929-dance-party-pop-hits.json](./50929-dance-party-pop-hits.json) |
@@ -862,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Block | 90921 | [90921-dancing-block.json](./90921-dancing-block.json) |
 | Dancing Bones | 348406 | [348406-dancing-bones.json](./348406-dancing-bones.json) |
 | Dancing Cats | 332805 | [332805-dancing-cats.json](./332805-dancing-cats.json) |
+| Dancing Challenge | 247251 | [247251-dancing-challenge.json](./247251-dancing-challenge.json) |
 | Dancing Craze | 52514 | [52514-dancing-craze.json](./52514-dancing-craze.json) |
 | Dancing Craze for Mac | 90836 | [90836-dancing-craze-for-mac.json](./90836-dancing-craze-for-mac.json) |
 | Dancing Cube | 192837 | [192837-dancing-cube.json](./192837-dancing-cube.json) |
@@ -5881,6 +5883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious Burger | 274027 | [274027-delicious-burger.json](./274027-delicious-burger.json) |
 | Delicious Donut | 290516 | [290516-delicious-donut.json](./290516-delicious-donut.json) |
 | Delicious Dungeon | 211241 | [211241-delicious-dungeon.json](./211241-delicious-dungeon.json) |
+| Delicious Foods | 247252 | [247252-delicious-foods.json](./247252-delicious-foods.json) |
 | Delicious Fruitworld | 173309 | [173309-delicious-fruitworld.json](./173309-delicious-fruitworld.json) |
 | Delicious Letters | 176982 | [176982-delicious-letters.json](./176982-delicious-letters.json) |
 | Delicious Quest | 255580 | [255580-delicious-quest.json](./255580-delicious-quest.json) |
@@ -17123,6 +17126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ducati: 90th Anniversary - The Official Videogame | 19804 | [19804-ducati-90th-anniversary-the-official-videogame.json](./19804-ducati-90th-anniversary-the-official-videogame.json) |
 | Duccoz - Town Sim | 129399 | [129399-duccoz-town-sim.json](./129399-duccoz-town-sim.json) |
 | Ducenti-Quinquaginta-Sexordle | 249707 | [249707-ducenti-quinquaginta-sexordle.json](./249707-ducenti-quinquaginta-sexordle.json) |
+| Duck | 247295 | [247295-duck.json](./247295-duck.json) |
 | Duck 'n' Cover | 75869 | [75869-duck-n-cover.json](./75869-duck-n-cover.json) |
 | Duck Adventure | 210646 | [210646-duck-adventure.json](./210646-duck-adventure.json) |
 | Duck Adventures | 310085 | [310085-duck-adventures.json](./310085-duck-adventures.json) |
