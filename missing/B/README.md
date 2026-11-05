@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bachelorette Party | 40640 | [40640-bachelorette-party.json](./40640-bachelorette-party.json) |
 | Bachi-bachi Pawer | 376882 | [376882-bachi-bachi-pawer.json](./376882-bachi-bachi-pawer.json) |
 | Bacillus | 119974 | [119974-bacillus.json](./119974-bacillus.json) |
+| Back | 287426 | [287426-back.json](./287426-back.json) |
 | Back | 309502 | [309502-back.json](./309502-back.json) |
 | Back & Forth | 136656 | [136656-back-and-forth.json](./136656-back-and-forth.json) |
 | Back & Forth 2 | 263586 | [263586-back-and-forth-2.json](./263586-back-and-forth-2.json) |
@@ -950,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -14007,6 +14009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Braains.io | 130597 | [130597-braains-io.json](./130597-braains-io.json) |
 | Braains.io | 193807 | [193807-braains-io.json](./193807-braains-io.json) |
 | Brabatos | 348656 | [348656-brabatos.json](./348656-brabatos.json) |
+| Braccobaldo Show | 287476 | [287476-braccobaldo-show.json](./287476-braccobaldo-show.json) |
 | Bracer | 403818 | [403818-bracer.json](./403818-bracer.json) |
 | BraceUp VR | 267297 | [267297-braceup-vr.json](./267297-braceup-vr.json) |
 | Bracken Tor: The Time of Tooth and Claw | 65360 | [65360-bracken-tor-the-time-of-tooth-and-claw.json](./65360-bracken-tor-the-time-of-tooth-and-claw.json) |
@@ -16278,6 +16281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buckshot Battlemage | 345653 | [345653-buckshot-battlemage.json](./345653-buckshot-battlemage.json) |
 | Buckshot Roulette | 281275 | [281275-buckshot-roulette.json](./281275-buckshot-roulette.json) |
 | Buckshot to Hell | 319992 | [319992-buckshot-to-hell.json](./319992-buckshot-to-hell.json) |
+| Buckshot With Friends | 287455 | [287455-buckshot-with-friends.json](./287455-buckshot-with-friends.json) |
 | Bucky O'Hare | 18808 | [18808-bucky-ohare.json](./18808-bucky-ohare.json) |
 | Bucky O'Hare | 218904 | [218904-bucky-ohare.json](./218904-bucky-ohare.json) |
 | Bucky O'Hare | 238860 | [238860-bucky-ohare.json](./238860-bucky-ohare.json) |
