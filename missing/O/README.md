@@ -3122,6 +3122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onwelt | 278881 | [278881-onwelt.json](./278881-onwelt.json) |
 | Onyanko Town | 48405 | [48405-onyanko-town.json](./48405-onyanko-town.json) |
 | Onyx | 131338 | [131338-onyx.json](./131338-onyx.json) |
+| Onyx | 285814 | [285814-onyx.json](./285814-onyx.json) |
 | Onyx | 35244 | [35244-onyx.json](./35244-onyx.json) |
 | Onyx: The Dark Grip | 417170 | [417170-onyx-the-dark-grip.json](./417170-onyx-the-dark-grip.json) |
 | oO | 35316 | [35316-oo.json](./35316-oo.json) |
@@ -5678,6 +5679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overwatch 2: Season 6 - Invasion | 252842 | [252842-overwatch-2-season-6-invasion.json](./252842-overwatch-2-season-6-invasion.json) |
 | Overwatch 2: Season 7 - Rise of the Darkness | 270044 | [270044-overwatch-2-season-7-rise-of-the-darkness.json](./270044-overwatch-2-season-7-rise-of-the-darkness.json) |
 | Overwatch 2: Season 8 - Call of the Hunt | 275170 | [275170-overwatch-2-season-8-call-of-the-hunt.json](./275170-overwatch-2-season-8-call-of-the-hunt.json) |
+| Overwatch 2: Season 9 - Champions | 285782 | [285782-overwatch-2-season-9-champions.json](./285782-overwatch-2-season-9-champions.json) |
 | Overwatch 2: Watchpoint Pack | 221632 | [221632-overwatch-2-watchpoint-pack.json](./221632-overwatch-2-watchpoint-pack.json) |
 | Overwatch: Game of the Year Edition | 21229 | [21229-overwatch-game-of-the-year-edition.json](./21229-overwatch-game-of-the-year-edition.json) |
 | Overwatch: Legendary Edition | 118848 | [118848-overwatch-legendary-edition.json](./118848-overwatch-legendary-edition.json) |
