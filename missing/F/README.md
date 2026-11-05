@@ -2950,6 +2950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FastLane Street Racer | 262466 | [262466-fastlane-street-racer.json](./262466-fastlane-street-racer.json) |
 | Fastlife | 383445 | [383445-fastlife.json](./383445-fastlife.json) |
 | Fastone Pyramid | 388297 | [388297-fastone-pyramid.json](./388297-fastone-pyramid.json) |
+| FastPack | 293443 | [293443-fastpack.json](./293443-fastpack.json) |
 | Fastraq | 223416 | [223416-fastraq.json](./223416-fastraq.json) |
 | Fastro Dude | 365234 | [365234-fastro-dude.json](./365234-fastro-dude.json) |
 | Fastro Dude 2 | 371849 | [371849-fastro-dude-2.json](./371849-fastro-dude-2.json) |
@@ -10388,6 +10389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 5: Car Pass | 293918 | [293918-forza-horizon-5-car-pass.json](./293918-forza-horizon-5-car-pass.json) |
 | Forza Horizon 5: Chinese Lucky Stars Car Pack | 291076 | [291076-forza-horizon-5-chinese-lucky-stars-car-pack.json](./291076-forza-horizon-5-chinese-lucky-stars-car-pack.json) |
 | Forza Horizon 5: Deluxe Edition | 171269 | [171269-forza-horizon-5-deluxe-edition.json](./171269-forza-horizon-5-deluxe-edition.json) |
+| Forza Horizon 5: European Automotive Car Pack | 293442 | [293442-forza-horizon-5-european-automotive-car-pack.json](./293442-forza-horizon-5-european-automotive-car-pack.json) |
 | Forza Horizon 5: Expansions Bundle | 200693 | [200693-forza-horizon-5-expansions-bundle.json](./200693-forza-horizon-5-expansions-bundle.json) |
 | Forza Horizon 5: Hide & Seek | 314386 | [314386-forza-horizon-5-hide-and-seek.json](./314386-forza-horizon-5-hide-and-seek.json) |
 | Forza Horizon 5: Italian Exotics Car Pack | 261851 | [261851-forza-horizon-5-italian-exotics-car-pack.json](./261851-forza-horizon-5-italian-exotics-car-pack.json) |
@@ -13010,6 +13012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fung | 256716 | [256716-fung.json](./256716-fung.json) |
 | Fungal Colony Sim 2 | 365139 | [365139-fungal-colony-sim-2.json](./365139-fungal-colony-sim-2.json) |
 | Fungal Colony Simulator | 257690 | [257690-fungal-colony-simulator.json](./257690-fungal-colony-simulator.json) |
+| Fungal Fiefdom | 293567 | [293567-fungal-fiefdom.json](./293567-fungal-fiefdom.json) |
 | FungEye | 291235 | [291235-fungeye.json](./291235-fungeye.json) |
 | Funghi Explosion | 112100 | [112100-funghi-explosion.json](./112100-funghi-explosion.json) |
 | Fungi | 127590 | [127590-fungi.json](./127590-fungi.json) |
