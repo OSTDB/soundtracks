@@ -5985,6 +5985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods of the Grid | 414265 | [414265-gods-of-the-grid.json](./414265-gods-of-the-grid.json) |
 | Gods of Zushin | 137823 | [137823-gods-of-zushin.json](./137823-gods-of-zushin.json) |
 | Gods Play Dice | 409766 | [409766-gods-play-dice.json](./409766-gods-play-dice.json) |
+| Gods Raid | 286905 | [286905-gods-raid.json](./286905-gods-raid.json) |
 | Gods Remastered | 112099 | [112099-gods-remastered.json](./112099-gods-remastered.json) |
 | Gods Rush | 60823 | [60823-gods-rush.json](./60823-gods-rush.json) |
 | Gods Unchained | 109087 | [109087-gods-unchained.json](./109087-gods-unchained.json) |
@@ -7498,6 +7499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Turismo 7: Spec IV | 416116 | [416116-gran-turismo-7-spec-iv.json](./416116-gran-turismo-7-spec-iv.json) |
 | Gran Turismo Concept: 2001 Tokyo | 80163 | [80163-gran-turismo-concept-2001-tokyo.json](./80163-gran-turismo-concept-2001-tokyo.json) |
 | Gran Turismo Concept: 2002 Tokyo-Geneva | 22061 | [22061-gran-turismo-concept-2002-tokyo-geneva.json](./22061-gran-turismo-concept-2002-tokyo-geneva.json) |
+| Gran Turismo HD | 286868 | [286868-gran-turismo-hd.json](./286868-gran-turismo-hd.json) |
 | Gran Turismo HD Concept | 1598 | [1598-gran-turismo-hd-concept.json](./1598-gran-turismo-hd-concept.json) |
 | Gran Turismo Sport | 14363 | [14363-gran-turismo-sport.json](./14363-gran-turismo-sport.json) |
 | Gran Turismo Sport: Collector's Edition | 138775 | [138775-gran-turismo-sport-collectors-edition.json](./138775-gran-turismo-sport-collectors-edition.json) |
