@@ -5628,6 +5628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EscapeVektor: Chapter 1 | 50944 | [50944-escapevektor-chapter-1.json](./50944-escapevektor-chapter-1.json) |
 | EscapeVr | 343762 | [343762-escapevr.json](./343762-escapevr.json) |
 | EscapeVR: The Basement | 142639 | [142639-escapevr-the-basement.json](./142639-escapevr-the-basement.json) |
+| Escapeway | 247278 | [247278-escapeway.json](./247278-escapeway.json) |
 | Escapeworld Dilemma | 150526 | [150526-escapeworld-dilemma.json](./150526-escapeworld-dilemma.json) |
 | Escaping | 180577 | [180577-escaping.json](./180577-escaping.json) |
 | Escaping a Fireworks Factory: Nyanzou & Kumakichi - Escape Game | 240225 | [240225-escaping-a-fireworks-factory-nyanzou-and-kumakichi-escape-game.json](./240225-escaping-a-fireworks-factory-nyanzou-and-kumakichi-escape-game.json) |
@@ -7814,6 +7815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Experience | 36599 | [36599-experience.json](./36599-experience.json) |
 | eXperience 112 | 17873 | [17873-experience-112.json](./17873-experience-112.json) |
 | Experience: Colorblindness | 112363 | [112363-experience-colorblindness.json](./112363-experience-colorblindness.json) |
+| Experiment | 247279 | [247279-experiment.json](./247279-experiment.json) |
 | Experiment | 357738 | [357738-experiment.json](./357738-experiment.json) |
 | Experiment 12 | 128826 | [128826-experiment-12.json](./128826-experiment-12.json) |
 | Experiment 28 | 344789 | [344789-experiment-28.json](./344789-experiment-28.json) |
