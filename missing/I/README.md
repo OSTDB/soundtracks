@@ -4496,6 +4496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside the Mirror | 132456 | [132456-inside-the-mirror.json](./132456-inside-the-mirror.json) |
 | Inside the Park Baseball | 23800 | [23800-inside-the-park-baseball.json](./23800-inside-the-park-baseball.json) |
 | Inside The Park VR | 393106 | [393106-inside-the-park-vr.json](./393106-inside-the-park-vr.json) |
+| Inside the Toy | 255442 | [255442-inside-the-toy.json](./255442-inside-the-toy.json) |
 | Inside the Void | 167706 | [167706-inside-the-void.json](./167706-inside-the-void.json) |
 | Inside Trader: The Authentic Stock Trading Game | 94246 | [94246-inside-trader-the-authentic-stock-trading-game.json](./94246-inside-trader-the-authentic-stock-trading-game.json) |
 | Inside Under&Out | 415501 | [415501-inside-under-and-out.json](./415501-inside-under-and-out.json) |
@@ -5831,6 +5832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ironguard | 32973 | [32973-ironguard.json](./32973-ironguard.json) |
 | Ironheart | 131615 | [131615-ironheart.json](./131615-ironheart.json) |
 | Ironheart: Cardia | 291466 | [291466-ironheart-cardia.json](./291466-ironheart-cardia.json) |
+| Ironhive | 255448 | [255448-ironhive.json](./255448-ironhive.json) |
 | IronKnight | 223364 | [223364-ironknight.json](./223364-ironknight.json) |
 | Ironlights | 131560 | [131560-ironlights.json](./131560-ironlights.json) |
 | Ironmarked | 301281 | [301281-ironmarked.json](./301281-ironmarked.json) |
