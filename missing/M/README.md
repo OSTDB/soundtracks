@@ -1799,6 +1799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mah Jong Quest II | 10533 | [10533-mah-jong-quest-ii.json](./10533-mah-jong-quest-ii.json) |
 | Mah Jong Quest III | 10534 | [10534-mah-jong-quest-iii.json](./10534-mah-jong-quest-iii.json) |
 | Mah Jong Solitaire 2 | 86699 | [86699-mah-jong-solitaire-2.json](./86699-mah-jong-solitaire-2.json) |
+| Mah Jongg | 295976 | [295976-mah-jongg.json](./295976-mah-jongg.json) |
 | Mah Jongg Solitaire | 85816 | [85816-mah-jongg-solitaire.json](./85816-mah-jongg-solitaire.json) |
 | Mah Jongg: V-G-A | 261204 | [261204-mah-jongg-v-g-a.json](./261204-mah-jongg-v-g-a.json) |
 | Mah-Jong Club Nagata-cho: Sousaisen | 48790 | [48790-mah-jong-club-nagata-cho-sousaisen.json](./48790-mah-jong-club-nagata-cho-sousaisen.json) |
@@ -3324,6 +3325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Maze | 302233 | [302233-marble-maze.json](./302233-marble-maze.json) |
 | Marble Meadows | 291222 | [291222-marble-meadows.json](./291222-marble-meadows.json) |
 | Marble Mechanics | 302526 | [302526-marble-mechanics.json](./302526-marble-mechanics.json) |
+| Marble Merger | 295945 | [295945-marble-merger.json](./295945-marble-merger.json) |
 | Marble Mill | 414603 | [414603-marble-mill.json](./414603-marble-mill.json) |
 | Marble Mirage | 408534 | [408534-marble-mirage.json](./408534-marble-mirage.json) |
 | Marble Mixer for iPad | 96265 | [96265-marble-mixer-for-ipad.json](./96265-marble-mixer-for-ipad.json) |
@@ -5746,7 +5748,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
