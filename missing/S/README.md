@@ -2254,6 +2254,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Farty: The Trivia Game | 142838 | [142838-save-farty-the-trivia-game.json](./142838-save-farty-the-trivia-game.json) |
 | Save Finn | 233401 | [233401-save-finn.json](./233401-save-finn.json) |
 | Save from Bobr Curve | 291679 | [291679-save-from-bobr-curve.json](./291679-save-from-bobr-curve.json) |
+| Save Giant Girl From Monsters 2 | 291798 | [291798-save-giant-girl-from-monsters-2.json](./291798-save-giant-girl-from-monsters-2.json) |
+| Save Giant Girl From Monsters 3 | 291799 | [291799-save-giant-girl-from-monsters-3.json](./291799-save-giant-girl-from-monsters-3.json) |
 | Save Giant Girl From Monsters 4 | 291890 | [291890-save-giant-girl-from-monsters-4.json](./291890-save-giant-girl-from-monsters-4.json) |
 | Save Granny | 100343 | [100343-save-granny.json](./100343-save-granny.json) |
 | Save Halloween: City of Witches | 33915 | [33915-save-halloween-city-of-witches.json](./33915-save-halloween-city-of-witches.json) |
@@ -4907,6 +4909,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Genesis Mini 2 | 215742 | [215742-sega-genesis-mini-2.json](./215742-sega-genesis-mini-2.json) |
 | Sega Genesis Ultimate Portable Game Player | 202787 | [202787-sega-genesis-ultimate-portable-game-player.json](./202787-sega-genesis-ultimate-portable-game-player.json) |
 | Sega Golden Gun | 124432 | [124432-sega-golden-gun.json](./124432-sega-golden-gun.json) |
+| Sega Golf Club Version 2006: Next Tours | 291933 | [291933-sega-golf-club-version-2006-next-tours.json](./291933-sega-golf-club-version-2006-next-tours.json) |
+| Sega Golf Club: Network Pro Tour | 291931 | [291931-sega-golf-club-network-pro-tour.json](./291931-sega-golf-club-network-pro-tour.json) |
 | Sega GT | 28838 | [28838-sega-gt.json](./28838-sega-gt.json) |
 | Sega GT 2002 | 6039 | [6039-sega-gt-2002.json](./6039-sega-gt-2002.json) |
 | Sega GT 2002 / Jet Set Radio Future | 144128 | [144128-sega-gt-2002-jet-set-radio-future.json](./144128-sega-gt-2002-jet-set-radio-future.json) |
@@ -12484,6 +12488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyjunk | 155386 | [155386-skyjunk.json](./155386-skyjunk.json) |
 | Skykeepers | 28024 | [28024-skykeepers.json](./28024-skykeepers.json) |
 | Skykipelago | 317703 | [317703-skykipelago.json](./317703-skykipelago.json) |
+| Skyland | 291803 | [291803-skyland.json](./291803-skyland.json) |
 | Skyland 1976 | 126349 | [126349-skyland-1976.json](./126349-skyland-1976.json) |
 | Skyland Defense | 109672 | [109672-skyland-defense.json](./109672-skyland-defense.json) |
 | Skyland Farmer | 339079 | [339079-skyland-farmer.json](./339079-skyland-farmer.json) |
@@ -14119,6 +14124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smile Town | 338191 | [338191-smile-town.json](./338191-smile-town.json) |
 | Smile Town | 397229 | [397229-smile-town.json](./397229-smile-town.json) |
 | Smile-X 4 | 301125 | [301125-smile-x-4.json](./301125-smile-x-4.json) |
+| Smile, you're being filmed | 291936 | [291936-smile-youre-being-filmed.json](./291936-smile-youre-being-filmed.json) |
 | Smile, you're being filmed together | 330750 | [330750-smile-youre-being-filmed-together.json](./330750-smile-youre-being-filmed-together.json) |
 | Smile'N'Slide | 101392 | [101392-smilenslide.json](./101392-smilenslide.json) |
 | SmileBasic 4 | 147701 | [147701-smilebasic-4.json](./147701-smilebasic-4.json) |
@@ -26800,6 +26806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded On An Island | 285944 | [285944-stranded-on-an-island.json](./285944-stranded-on-an-island.json) |
 | Stranded Raft Survival | 88932 | [88932-stranded-raft-survival.json](./88932-stranded-raft-survival.json) |
 | Stranded Sails | 112344 | [112344-stranded-sails.json](./112344-stranded-sails.json) |
+| Stranded Shootout | 291787 | [291787-stranded-shootout.json](./291787-stranded-shootout.json) |
 | Stranded Survivors | 381620 | [381620-stranded-survivors.json](./381620-stranded-survivors.json) |
 | Stranded With Darkness | 357667 | [357667-stranded-with-darkness.json](./357667-stranded-with-darkness.json) |
 | Stranded With You | 389969 | [389969-stranded-with-you.json](./389969-stranded-with-you.json) |
@@ -26853,6 +26860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Night | 32248 | [32248-strange-night.json](./32248-strange-night.json) |
 | Strange Night ll | 81778 | [81778-strange-night-ll.json](./81778-strange-night-ll.json) |
 | Strange Nightmares | 161895 | [161895-strange-nightmares.json](./161895-strange-nightmares.json) |
+| Strange Ocean | 291806 | [291806-strange-ocean.json](./291806-strange-ocean.json) |
 | Strange Odyssey | 18519 | [18519-strange-odyssey.json](./18519-strange-odyssey.json) |
 | Strange Parallel: Sele | 291245 | [291245-strange-parallel-sele.json](./291245-strange-parallel-sele.json) |
 | Strange Passion - My Boss, My Mistress | 128417 | [128417-strange-passion-my-boss-my-mistress.json](./128417-strange-passion-my-boss-my-mistress.json) |
