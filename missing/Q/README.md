@@ -1017,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quickly, Quackley! | 146567 | [146567-quickly-quackley.json](./146567-quickly-quackley.json) |
 | QuickMaze | 358400 | [358400-quickmaze.json](./358400-quickmaze.json) |
 | Quickn | 191028 | [191028-quickn.json](./191028-quickn.json) |
+| Quicksand | 261054 | [261054-quicksand.json](./261054-quicksand.json) |
 | Quickscope King | 407773 | [407773-quickscope-king.json](./407773-quickscope-king.json) |
 | Quickscope Simulator | 226086 | [226086-quickscope-simulator.json](./226086-quickscope-simulator.json) |
 | Quickshot | 89593 | [89593-quickshot.json](./89593-quickshot.json) |
