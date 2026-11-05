@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man | 219012 | [219012-pac-man.json](./219012-pac-man.json) |
 | Pac-Man | 219013 | [219013-pac-man.json](./219013-pac-man.json) |
 | Pac-Man | 241905 | [241905-pac-man.json](./241905-pac-man.json) |
+| Pac-Man | 274253 | [274253-pac-man.json](./274253-pac-man.json) |
 | Pac-Man | 277394 | [277394-pac-man.json](./277394-pac-man.json) |
 | Pac-Man | 277395 | [277395-pac-man.json](./277395-pac-man.json) |
 | Pac-Man | 277396 | [277396-pac-man.json](./277396-pac-man.json) |
@@ -1301,6 +1302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panoptic | 30932 | [30932-panoptic.json](./30932-panoptic.json) |
 | Panopticon | 371242 | [371242-panopticon.json](./371242-panopticon.json) |
 | Panopticon: Path of Reflections | 53449 | [53449-panopticon-path-of-reflections.json](./53449-panopticon-path-of-reflections.json) |
+| Panoptique | 274279 | [274279-panoptique.json](./274279-panoptique.json) |
 | Panoptique | 377192 | [377192-panoptique.json](./377192-panoptique.json) |
 | Panorama | 125901 | [125901-panorama.json](./125901-panorama.json) |
 | Panorama Cotton | 45715 | [45715-panorama-cotton.json](./45715-panorama-cotton.json) |
