@@ -2988,6 +2988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Stop Rolling | 312123 | [312123-never-stop-rolling.json](./312123-never-stop-rolling.json) |
 | Never Stop Sneakin' | 74161 | [74161-never-stop-sneakin.json](./74161-never-stop-sneakin.json) |
 | Never Trust a Girl in a Portal | 420205 | [420205-never-trust-a-girl-in-a-portal.json](./420205-never-trust-a-girl-in-a-portal.json) |
+| Never Trust a Zone Warden | 274266 | [274266-never-trust-a-zone-warden.json](./274266-never-trust-a-zone-warden.json) |
 | Never wake up | 287711 | [287711-never-wake-up.json](./287711-never-wake-up.json) |
 | Never Wither | 386675 | [386675-never-wither.json](./386675-never-wither.json) |
 | Never-Lander | 419893 | [419893-never-lander.json](./419893-never-lander.json) |
@@ -4074,6 +4075,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Agent: I'm the Savior | 266266 | [266266-night-agent-im-the-savior.json](./266266-night-agent-im-the-savior.json) |
 | Night and Day | 133406 | [133406-night-and-day.json](./133406-night-and-day.json) |
 | Night and Day | 70378 | [70378-night-and-day.json](./70378-night-and-day.json) |
+| Night at Banban's | 274252 | [274252-night-at-banbans.json](./274252-night-at-banbans.json) |
+| Night at Banban's II | 274261 | [274261-night-at-banbans-ii.json](./274261-night-at-banbans-ii.json) |
 | Night at Grandma's | 331330 | [331330-night-at-grandmas.json](./331330-night-at-grandmas.json) |
 | Night at the Cabin | 298653 | [298653-night-at-the-cabin.json](./298653-night-at-the-cabin.json) |
 | Night at the Full Moon Motel | 253755 | [253755-night-at-the-full-moon-motel.json](./253755-night-at-the-full-moon-motel.json) |
