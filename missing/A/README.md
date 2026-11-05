@@ -3472,6 +3472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Forest: Rabbit Story | 309475 | [309475-adventure-forest-rabbit-story.json](./309475-adventure-forest-rabbit-story.json) |
 | Adventure Forever | 207615 | [207615-adventure-forever.json](./207615-adventure-forever.json) |
 | Adventure Galaxy | 126585 | [126585-adventure-galaxy.json](./126585-adventure-galaxy.json) |
+| Adventure Game | 264411 | [264411-adventure-game.json](./264411-adventure-game.json) |
 | Adventure Game | 86332 | [86332-adventure-game.json](./86332-adventure-game.json) |
 | Adventure Guild Receptionist | 379484 | [379484-adventure-guild-receptionist.json](./379484-adventure-guild-receptionist.json) |
 | Adventure Hall of Fame | 70169 | [70169-adventure-hall-of-fame.json](./70169-adventure-hall-of-fame.json) |
@@ -4339,6 +4340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aftermath Z: Red Pine Lake | 380638 | [380638-aftermath-z-red-pine-lake.json](./380638-aftermath-z-red-pine-lake.json) |
 | Aftermoor | 121650 | [121650-aftermoor.json](./121650-aftermoor.json) |
 | AfterMove | 412481 | [412481-aftermove.json](./412481-aftermove.json) |
+| Afternoon | 264395 | [264395-afternoon.json](./264395-afternoon.json) |
 | Afternoon Affairs & Helpless Housewives | 401455 | [401455-afternoon-affairs-and-helpless-housewives.json](./401455-afternoon-affairs-and-helpless-housewives.json) |
 | Afternoon Frontline | 414319 | [414319-afternoon-frontline.json](./414319-afternoon-frontline.json) |
 | Afternoon in the House of Secrets | 221820 | [221820-afternoon-in-the-house-of-secrets.json](./221820-afternoon-in-the-house-of-secrets.json) |
@@ -14147,6 +14149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Rally: Collector's Edition | 199323 | [199323-art-of-rally-collectors-edition.json](./199323-art-of-rally-collectors-edition.json) |
 | Art of Rally: Deluxe Edition | 155074 | [155074-art-of-rally-deluxe-edition.json](./155074-art-of-rally-deluxe-edition.json) |
 | Art of Solitaire | 347884 | [347884-art-of-solitaire.json](./347884-art-of-solitaire.json) |
+| Art of Speed | 264419 | [264419-art-of-speed.json](./264419-art-of-speed.json) |
 | Art of Stealth | 378322 | [378322-art-of-stealth.json](./378322-art-of-stealth.json) |
 | Art of Stunt | 286095 | [286095-art-of-stunt.json](./286095-art-of-stunt.json) |
 | Art of the Rail | 153400 | [153400-art-of-the-rail.json](./153400-art-of-the-rail.json) |
@@ -16329,7 +16332,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
