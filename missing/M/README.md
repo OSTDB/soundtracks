@@ -5820,7 +5820,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9074,6 +9073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merchant Kingdom | 4721 | [4721-merchant-kingdom.json](./4721-merchant-kingdom.json) |
 | Merchant Legends: The Founding | 235950 | [235950-merchant-legends-the-founding.json](./235950-merchant-legends-the-founding.json) |
 | Merchant Life | 281813 | [281813-merchant-life.json](./281813-merchant-life.json) |
+| Merchant Master | 262747 | [262747-merchant-master.json](./262747-merchant-master.json) |
 | Merchant of Phenistoria | 159574 | [159574-merchant-of-phenistoria.json](./159574-merchant-of-phenistoria.json) |
 | Merchant of the Six Kingdoms | 236180 | [236180-merchant-of-the-six-kingdoms.json](./236180-merchant-of-the-six-kingdoms.json) |
 | Merchant of the Skies | 116056 | [116056-merchant-of-the-skies.json](./116056-merchant-of-the-skies.json) |
@@ -11048,6 +11048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Stories 5 | 196047 | [196047-midnight-stories-5.json](./196047-midnight-stories-5.json) |
 | Midnight Stranger | 143102 | [143102-midnight-stranger.json](./143102-midnight-stranger.json) |
 | Midnight Study | 374023 | [374023-midnight-study.json](./374023-midnight-study.json) |
+| Midnight Submersion: Nightmare Horror Story | 262734 | [262734-midnight-submersion-nightmare-horror-story.json](./262734-midnight-submersion-nightmare-horror-story.json) |
 | Midnight Survivors | 235365 | [235365-midnight-survivors.json](./235365-midnight-survivors.json) |
 | Midnight Swamp | 318198 | [318198-midnight-swamp.json](./318198-midnight-swamp.json) |
 | Midnight Syndrome | 304648 | [304648-midnight-syndrome.json](./304648-midnight-syndrome.json) |
@@ -14943,6 +14944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mônica e a Guarda dos Coelhos | 112669 | [112669-monica-e-a-guarda-dos-coelhos.json](./112669-monica-e-a-guarda-dos-coelhos.json) |
 | Mônica em: o mundo perdido | 331780 | [331780-monica-em-o-mundo-perdido.json](./331780-monica-em-o-mundo-perdido.json) |
 | Mônica no Castelo do Dragão | 9557 | [9557-monica-no-castelo-do-dragao.json](./9557-monica-no-castelo-do-dragao.json) |
+| Monica's Newlywed Life | 262754 | [262754-monicas-newlywed-life.json](./262754-monicas-newlywed-life.json) |
 | Monica's Paradox | 276222 | [276222-monicas-paradox.json](./276222-monicas-paradox.json) |
 | Monica's Revenge Tragedy | 171299 | [171299-monicas-revenge-tragedy.json](./171299-monicas-revenge-tragedy.json) |
 | Monigote Fantasy | 184971 | [184971-monigote-fantasy.json](./184971-monigote-fantasy.json) |
@@ -15745,6 +15747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Pow | 193720 | [193720-monster-pow.json](./193720-monster-pow.json) |
 | Monster Prom | 69483 | [69483-monster-prom.json](./69483-monster-prom.json) |
 | Monster Prom 2: Monster Camp | 122195 | [122195-monster-prom-2-monster-camp.json](./122195-monster-prom-2-monster-camp.json) |
+| Monster Prom 2: Monster Camp - Monster Camp Outfit Pack | 262755 | [262755-monster-prom-2-monster-camp-monster-camp-outfit-pack.json](./262755-monster-prom-2-monster-camp-monster-camp-outfit-pack.json) |
 | Monster Prom 2: Monster Camp Outfit Pack - Thirst and Sensibility | 230815 | [230815-monster-prom-2-monster-camp-outfit-pack-thirst-and-sensibility.json](./230815-monster-prom-2-monster-camp-outfit-pack-thirst-and-sensibility.json) |
 | Monster Prom 2: Monster Camp XXL | 187866 | [187866-monster-prom-2-monster-camp-xxl.json](./187866-monster-prom-2-monster-camp-xxl.json) |
 | Monster Prom 2: Monster Camp XXL Character Pack - Colorful Campers | 283183 | [283183-monster-prom-2-monster-camp-xxl-character-pack-colorful-campers.json](./283183-monster-prom-2-monster-camp-xxl-character-pack-colorful-campers.json) |
