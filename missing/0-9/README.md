@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Hungry Peasant | 252117 | [252117-1-hungry-peasant.json](./252117-1-hungry-peasant.json) |
 | 1 Line: One Stroke Connect Puzzle | 102848 | [102848-1-line-one-stroke-connect-puzzle.json](./102848-1-line-one-stroke-connect-puzzle.json) |
 | 1 Meter | 327613 | [327613-1-meter.json](./327613-1-meter.json) |
+| 1 Million Zombies | 257749 | [257749-1-million-zombies.json](./257749-1-million-zombies.json) |
 | 1 Minute Math | 108453 | [108453-1-minute-math.json](./108453-1-minute-math.json) |
 | 1 Minute RPG | 63151 | [63151-1-minute-rpg.json](./63151-1-minute-rpg.json) |
 | 1 Moment of Time: Silentville | 32199 | [32199-1-moment-of-time-silentville.json](./32199-1-moment-of-time-silentville.json) |
@@ -1993,6 +1994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Last Chances | 244883 | [244883-3-last-chances.json](./244883-3-last-chances.json) |
 | 3 Lines of a Delta | 388100 | [388100-3-lines-of-a-delta.json](./388100-3-lines-of-a-delta.json) |
 | 3 Little Pigs & Bad Wolf | 124267 | [124267-3-little-pigs-and-bad-wolf.json](./124267-3-little-pigs-and-bad-wolf.json) |
+| 3 Minutes Mystery | 257734 | [257734-3-minutes-mystery.json](./257734-3-minutes-mystery.json) |
 | 3 minutes Mystery 2 | 300960 | [300960-3-minutes-mystery-2.json](./300960-3-minutes-mystery-2.json) |
 | 3 Minutes to Midnight | 86657 | [86657-3-minutes-to-midnight.json](./86657-3-minutes-to-midnight.json) |
 | 3 Missing, 4am | 128589 | [128589-3-missing-4am.json](./128589-3-missing-4am.json) |
