@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hades: Limited Edition | 146154 | [146154-hades-limited-edition.json](./146154-hades-limited-edition.json) |
 | Hades' Star | 56959 | [56959-hades-star.json](./56959-hades-star.json) |
 | Hades' Star: Dark Nebula | 208167 | [208167-hades-star-dark-nebula.json](./208167-hades-star-dark-nebula.json) |
+| Hadley's Run: A Starship Saga | 293014 | [293014-hadleys-run-a-starship-saga.json](./293014-hadleys-run-a-starship-saga.json) |
 | Hadou no Hyouteki | 77562 | [77562-hadou-no-hyouteki.json](./77562-hadou-no-hyouteki.json) |
 | Hadr | 139355 | [139355-hadr.json](./139355-hadr.json) |
 | Hadrian's Villa Reborn: Stadium Garden | 167609 | [167609-hadrians-villa-reborn-stadium-garden.json](./167609-hadrians-villa-reborn-stadium-garden.json) |
@@ -11747,6 +11748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Unlimited 4 | 24491 | [24491-hunting-unlimited-4.json](./24491-hunting-unlimited-4.json) |
 | Hunting Unlimited 4 | 69145 | [69145-hunting-unlimited-4.json](./69145-hunting-unlimited-4.json) |
 | Hunting Unlimited Trophy Collection | 69182 | [69182-hunting-unlimited-trophy-collection.json](./69182-hunting-unlimited-trophy-collection.json) |
+| Hunting With Dad | 293028 | [293028-hunting-with-dad.json](./293028-hunting-with-dad.json) |
 | Hunting World | 398039 | [398039-hunting-world.json](./398039-hunting-world.json) |
 | Hunting Yankee | 55159 | [55159-hunting-yankee.json](./55159-hunting-yankee.json) |
 | Huntloween | 395953 | [395953-huntloween.json](./395953-huntloween.json) |
