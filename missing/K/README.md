@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karakurium | 393236 | [393236-karakurium.json](./393236-karakurium.json) |
 | Karakuru | 371904 | [371904-karakuru.json](./371904-karakuru.json) |
 | Karambola | 134981 | [134981-karambola.json](./134981-karambola.json) |
+| Karamu | 255421 | [255421-karamu.json](./255421-karamu.json) |
 | Karamu Trilogy | 286073 | [286073-karamu-trilogy.json](./286073-karamu-trilogy.json) |
 | Karamuu-chou ha Oosawagi! | 228576 | [228576-karamuu-chou-ha-oosawagi.json](./228576-karamuu-chou-ha-oosawagi.json) |
 | Karamuu-chou ha Oosawagi!: Porinkiis to Okashi na Nakama-tachi | 228577 | [228577-karamuu-chou-ha-oosawagi-porinkiis-to-okashi-na-nakama-tachi.json](./228577-karamuu-chou-ha-oosawagi-porinkiis-to-okashi-na-nakama-tachi.json) |
@@ -1358,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawasaki Quad Bikes | 4951 | [4951-kawasaki-quad-bikes.json](./4951-kawasaki-quad-bikes.json) |
 | Kawasaki Snowmobiles | 4952 | [4952-kawasaki-snowmobiles.json](./4952-kawasaki-snowmobiles.json) |
 | Kawasaki Superbike Challenge | 46540 | [46540-kawasaki-superbike-challenge.json](./46540-kawasaki-superbike-challenge.json) |
+| Kawatare | 255450 | [255450-kawatare.json](./255450-kawatare.json) |
 | Kawkab ELashkef | 401494 | [401494-kawkab-elashkef.json](./401494-kawkab-elashkef.json) |
 | Kaxuki: Hope for Peace | 329044 | [329044-kaxuki-hope-for-peace.json](./329044-kaxuki-hope-for-peace.json) |
 | Kay's Destiny | 242516 | [242516-kays-destiny.json](./242516-kays-destiny.json) |
@@ -6157,6 +6159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurtan | 389449 | [389449-kurtan.json](./389449-kurtan.json) |
 | kurtlar vadisi pusu | 346900 | [346900-kurtlar-vadisi-pusu.json](./346900-kurtlar-vadisi-pusu.json) |
 | KurtzPel | 76064 | [76064-kurtzpel.json](./76064-kurtzpel.json) |
+| Kuru Kuru Party: Princess Quest | 255433 | [255433-kuru-kuru-party-princess-quest.json](./255433-kuru-kuru-party-princess-quest.json) |
 | Kuru-kuru Action Kuru Pachi 6 | 220845 | [220845-kuru-kuru-action-kuru-pachi-6.json](./220845-kuru-kuru-action-kuru-pachi-6.json) |
 | Kuru-kuru Panic | 222816 | [222816-kuru-kuru-panic.json](./222816-kuru-kuru-panic.json) |
 | Kuru-kuru Puzzle Nihon no Rekishi | 264953 | [264953-kuru-kuru-puzzle-nihon-no-rekishi.json](./264953-kuru-kuru-puzzle-nihon-no-rekishi.json) |
