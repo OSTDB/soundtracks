@@ -3712,6 +3712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's School | 231547 | [231547-lets-school.json](./231547-lets-school.json) |
 | Let's School: Magical Castles Furniture Pack | 322719 | [322719-lets-school-magical-castles-furniture-pack.json](./322719-lets-school-magical-castles-furniture-pack.json) |
 | Let's School: Magical Castles Furniture Pack | 324404 | [324404-lets-school-magical-castles-furniture-pack.json](./324404-lets-school-magical-castles-furniture-pack.json) |
+| Let's School: Water Towns Furniture Pack | 297120 | [297120-lets-school-water-towns-furniture-pack.json](./297120-lets-school-water-towns-furniture-pack.json) |
 | Let's Seduce the Heroine! | 220606 | [220606-lets-seduce-the-heroine.json](./220606-lets-seduce-the-heroine.json) |
 | Let's See What You Got | 124768 | [124768-lets-see-what-you-got.json](./124768-lets-see-what-you-got.json) |
 | Let's Sing | 10511 | [10511-lets-sing.json](./10511-lets-sing.json) |
@@ -4917,6 +4918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil'Johnny Watermelon Smash | 324274 | [324274-liljohnny-watermelon-smash.json](./324274-liljohnny-watermelon-smash.json) |
 | Lila's Atelier | 391450 | [391450-lilas-atelier.json](./391450-lilas-atelier.json) |
 | Lila's Sky Ark | 144552 | [144552-lilas-sky-ark.json](./144552-lilas-sky-ark.json) |
+| Lila's Synthetic Shadows | 297119 | [297119-lilas-synthetic-shadows.json](./297119-lilas-synthetic-shadows.json) |
 | Lilac & Her Light | 178919 | [178919-lilac-and-her-light.json](./178919-lilac-and-her-light.json) |
 | Lilac 0 | 329466 | [329466-lilac-0.json](./329466-lilac-0.json) |
 | Lilac: Side Witch | 397190 | [397190-lilac-side-witch.json](./397190-lilac-side-witch.json) |
@@ -6973,6 +6975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Kids Around the Cul-De-Sac | 362910 | [362910-lonely-kids-around-the-cul-de-sac.json](./362910-lonely-kids-around-the-cul-de-sac.json) |
 | Lonely Knight | 195123 | [195123-lonely-knight.json](./195123-lonely-knight.json) |
 | Lonely Knight | 285953 | [285953-lonely-knight.json](./285953-lonely-knight.json) |
+| Lonely Knight: Key Pass | 297136 | [297136-lonely-knight-key-pass.json](./297136-lonely-knight-key-pass.json) |
 | Lonely Mountains: Downhill | 29144 | [29144-lonely-mountains-downhill.json](./29144-lonely-mountains-downhill.json) |
 | Lonely Mountains: Downhill - Eldfjall Island | 138241 | [138241-lonely-mountains-downhill-eldfjall-island.json](./138241-lonely-mountains-downhill-eldfjall-island.json) |
 | Lonely Mountains: Downhill - Misty Peak | 202730 | [202730-lonely-mountains-downhill-misty-peak.json](./202730-lonely-mountains-downhill-misty-peak.json) |
@@ -8566,6 +8569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Ribbon | 30410 | [30410-love-ribbon.json](./30410-love-ribbon.json) |
 | Love Ritmo | 112258 | [112258-love-ritmo.json](./112258-love-ritmo.json) |
 | Love ritual | 105352 | [105352-love-ritual.json](./105352-love-ritual.json) |
+| Love Rocket | 297135 | [297135-love-rocket.json](./297135-love-rocket.json) |
 | Love Room VR | 111809 | [111809-love-room-vr.json](./111809-love-room-vr.json) |
 | Love Root Zero Kiss Kiss Labyrinth | 221733 | [221733-love-root-zero-kiss-kiss-labyrinth.json](./221733-love-root-zero-kiss-kiss-labyrinth.json) |
 | Love Season: Sharing Fantasy | 331636 | [331636-love-season-sharing-fantasy.json](./331636-love-season-sharing-fantasy.json) |
@@ -8934,6 +8938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucha Libre AAA: Héroes del Ring | 264875 | [264875-lucha-libre-aaa-heroes-del-ring.json](./264875-lucha-libre-aaa-heroes-del-ring.json) |
 | Lucha Libre AAA: Héroes del Ring | 7060 | [7060-lucha-libre-aaa-heroes-del-ring.json](./7060-lucha-libre-aaa-heroes-del-ring.json) |
 | Lucha Libre: Legend of the Mask | 317188 | [317188-lucha-libre-legend-of-the-mask.json](./317188-lucha-libre-legend-of-the-mask.json) |
+| Lucha Masters: Mighty Lucha | 297134 | [297134-lucha-masters-mighty-lucha.json](./297134-lucha-masters-mighty-lucha.json) |
 | Lucha Underground | 257260 | [257260-lucha-underground.json](./257260-lucha-underground.json) |
 | Luci RPG | 228678 | [228678-luci-rpg.json](./228678-luci-rpg.json) |
 | Lucia and the Possessed World | 266988 | [266988-lucia-and-the-possessed-world.json](./266988-lucia-and-the-possessed-world.json) |
@@ -8997,6 +9002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luck be a Landlord | 142035 | [142035-luck-be-a-landlord.json](./142035-luck-be-a-landlord.json) |
 | Luck Breaker | 262318 | [262318-luck-breaker.json](./262318-luck-breaker.json) |
 | Luck of the Draw | 415123 | [415123-luck-of-the-draw.json](./415123-luck-of-the-draw.json) |
+| Luck's Labyrinth | 297133 | [297133-lucks-labyrinth.json](./297133-lucks-labyrinth.json) |
 | Luckcatchers2 | 285483 | [285483-luckcatchers2.json](./285483-luckcatchers2.json) |
 | Luckie Ball | 245273 | [245273-luckie-ball.json](./245273-luckie-ball.json) |
 | Luckier | 185614 | [185614-luckier.json](./185614-luckier.json) |
