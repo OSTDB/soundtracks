@@ -2342,6 +2342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elementary Arithmetic Game | 113021 | [113021-elementary-arithmetic-game.json](./113021-elementary-arithmetic-game.json) |
 | Elementary math / Bingo Math | 169266 | [169266-elementary-math-bingo-math.json](./169266-elementary-math-bingo-math.json) |
 | Elementary My Dear Majesty! | 35902 | [35902-elementary-my-dear-majesty.json](./35902-elementary-my-dear-majesty.json) |
+| Elementary Trolleyology | 267715 | [267715-elementary-trolleyology.json](./267715-elementary-trolleyology.json) |
 | Elementaurus | 185326 | [185326-elementaurus.json](./185326-elementaurus.json) |
 | Elementerra | 36770 | [36770-elementerra.json](./36770-elementerra.json) |
 | Elementers | 304888 | [304888-elementers.json](./304888-elementers.json) |
@@ -6439,6 +6440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evade Prison | 380812 | [380812-evade-prison.json](./380812-evade-prison.json) |
 | Evade the Light | 151157 | [151157-evade-the-light.json](./151157-evade-the-light.json) |
 | Evade the Taxman | 192562 | [192562-evade-the-taxman.json](./192562-evade-the-taxman.json) |
+| Evade VR | 267714 | [267714-evade-vr.json](./267714-evade-vr.json) |
 | Evade Zero | 169745 | [169745-evade-zero.json](./169745-evade-zero.json) |
 | Evader | 290693 | [290693-evader.json](./290693-evader.json) |
 | Evades X | 396444 | [396444-evades-x.json](./396444-evades-x.json) |
