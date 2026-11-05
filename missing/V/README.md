@@ -707,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampires: The New Birth | 184778 | [184778-vampires-the-new-birth.json](./184778-vampires-the-new-birth.json) |
 | Vampires! | 63616 | [63616-vampires.json](./63616-vampires.json) |
 | Vampires' Melody | 169435 | [169435-vampires-melody.json](./169435-vampires-melody.json) |
+| Vampires' Melody 2 | 266011 | [266011-vampires-melody-2.json](./266011-vampires-melody-2.json) |
 | Vampiress: Eternal Duet | 349116 | [349116-vampiress-eternal-duet.json](./349116-vampiress-eternal-duet.json) |
 | Vampireville | 18892 | [18892-vampireville.json](./18892-vampireville.json) |
 | Vampireville: haunted castle adventure | 175295 | [175295-vampireville-haunted-castle-adventure.json](./175295-vampireville-haunted-castle-adventure.json) |
