@@ -714,6 +714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanji Boy | 228573 | [228573-kanji-boy.json](./228573-kanji-boy.json) |
 | Kanji Boy 2 | 228574 | [228574-kanji-boy-2.json](./228574-kanji-boy-2.json) |
 | Kanji Cats | 391554 | [391554-kanji-cats.json](./391554-kanji-cats.json) |
+| Kanji Combi: Yakuzumo | 268257 | [268257-kanji-combi-yakuzumo.json](./268257-kanji-combi-yakuzumo.json) |
 | Kanji de Go Go! | 408220 | [408220-kanji-de-go-go.json](./408220-kanji-de-go-go.json) |
 | Kanji de Go! | 323962 | [323962-kanji-de-go.json](./323962-kanji-de-go.json) |
 | Kanji de Go! Shueisha Manga-sai | 329228 | [329228-kanji-de-go-shueisha-manga-sai.json](./329228-kanji-de-go-shueisha-manga-sai.json) |
@@ -2193,6 +2194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid Paddle | 49476 | [49476-kid-paddle.json](./49476-kid-paddle.json) |
 | Kid Paddle: Blorks Invasion | 365189 | [365189-kid-paddle-blorks-invasion.json](./365189-kid-paddle-blorks-invasion.json) |
 | Kid Paddle: Lost in the Game | 268186 | [268186-kid-paddle-lost-in-the-game.json](./268186-kid-paddle-lost-in-the-game.json) |
+| Kid Pilot | 268258 | [268258-kid-pilot.json](./268258-kid-pilot.json) |
 | Kid Pilot | 375866 | [375866-kid-pilot.json](./375866-kid-pilot.json) |
 | Kid Speedy | 135867 | [135867-kid-speedy.json](./135867-kid-speedy.json) |
 | Kid Tripp | 36758 | [36758-kid-tripp.json](./36758-kid-tripp.json) |
