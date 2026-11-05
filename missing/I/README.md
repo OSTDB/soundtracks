@@ -3787,6 +3787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5615,6 +5616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IrisPlus | 110377 | [110377-irisplus.json](./110377-irisplus.json) |
 | Irisy Aqua | 342412 | [342412-irisy-aqua.json](./342412-irisy-aqua.json) |
 | Irium | 91889 | [91889-irium.json](./91889-irium.json) |
+| Irkalla | 261043 | [261043-irkalla.json](./261043-irkalla.json) |
 | IRL: Italian Ritual Live | 371752 | [371752-irl-italian-ritual-live.json](./371752-irl-italian-ritual-live.json) |
 | IRL: The Game | 202571 | [202571-irl-the-game.json](./202571-irl-the-game.json) |
 | Irmão Grande & Brasileiro | 144719 | [144719-irmao-grande-and-brasileiro.json](./144719-irmao-grande-and-brasileiro.json) |
@@ -6417,6 +6419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Makes for Painful Work | 353817 | [353817-it-makes-for-painful-work.json](./353817-it-makes-for-painful-work.json) |
 | It Mimics | 280104 | [280104-it-mimics.json](./280104-it-mimics.json) |
 | It Moves | 98215 | [98215-it-moves.json](./98215-it-moves.json) |
+| It Only Gets Worse | 261015 | [261015-it-only-gets-worse.json](./261015-it-only-gets-worse.json) |
 | It Paints Me | 283531 | [283531-it-paints-me.json](./283531-it-paints-me.json) |
 | It Pays to Be a Winner | 122410 | [122410-it-pays-to-be-a-winner.json](./122410-it-pays-to-be-a-winner.json) |
 | It Reaches | 373840 | [373840-it-reaches.json](./373840-it-reaches.json) |
