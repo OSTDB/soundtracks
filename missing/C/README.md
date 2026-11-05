@@ -1740,6 +1740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capsized | 3050 | [3050-capsized.json](./3050-capsized.json) |
 | Capslock | 300425 | [300425-capslock.json](./300425-capslock.json) |
 | Capsman | 269343 | [269343-capsman.json](./269343-capsman.json) |
+| Capsman 3D | 254815 | [254815-capsman-3d.json](./254815-capsman-3d.json) |
 | Capsular | 81055 | [81055-capsular.json](./81055-capsular.json) |
 | Capsule | 120064 | [120064-capsule.json](./120064-capsule.json) |
 | Capsule | 167907 | [167907-capsule.json](./167907-capsule.json) |
@@ -16627,6 +16628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Tracker | 419085 | [419085-crazy-tracker.json](./419085-crazy-tracker.json) |
 | Crazy Traffic: City Parking Simulator | 317925 | [317925-crazy-traffic-city-parking-simulator.json](./317925-crazy-traffic-city-parking-simulator.json) |
 | Crazy Train | 41759 | [41759-crazy-train.json](./41759-crazy-train.json) |
+| Crazy Trip | 254813 | [254813-crazy-trip.json](./254813-crazy-trip.json) |
 | Crazy Trucks | 186579 | [186579-crazy-trucks.json](./186579-crazy-trucks.json) |
 | Crazy Vacation | 310553 | [310553-crazy-vacation.json](./310553-crazy-vacation.json) |
 | Crazy Valet | 394351 | [394351-crazy-valet.json](./394351-crazy-valet.json) |
@@ -18638,6 +18640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube | 208470 | [208470-cube.json](./208470-cube.json) |
 | Cube | 229157 | [229157-cube.json](./229157-cube.json) |
 | Cube | 249776 | [249776-cube.json](./249776-cube.json) |
+| Cube | 254847 | [254847-cube.json](./254847-cube.json) |
 | Cube | 272548 | [272548-cube.json](./272548-cube.json) |
 | Cube | 311233 | [311233-cube.json](./311233-cube.json) |
 | Cube | 339349 | [339349-cube.json](./339349-cube.json) |
