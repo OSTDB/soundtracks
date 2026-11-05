@@ -2463,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Say Goodbye | 30453 | [30453-say-goodbye.json](./30453-say-goodbye.json) |
 | Say Goodbye to Your Balls! | 400593 | [400593-say-goodbye-to-your-balls.json](./400593-say-goodbye-to-your-balls.json) |
 | Say Goodbye: Deluxe Edition | 170749 | [170749-say-goodbye-deluxe-edition.json](./170749-say-goodbye-deluxe-edition.json) |
+| Say Hello to Sunshine | 285262 | [285262-say-hello-to-sunshine.json](./285262-say-hello-to-sunshine.json) |
 | Say No to Rom-Coms! | 258359 | [258359-say-no-to-rom-coms.json](./258359-say-no-to-rom-coms.json) |
 | Say Something Positive About | 265219 | [265219-say-something-positive-about.json](./265219-say-something-positive-about.json) |
 | Say When! | 346918 | [346918-say-when.json](./346918-say-when.json) |
@@ -15869,6 +15870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solace | 91840 | [91840-solace.json](./91840-solace.json) |
 | Solace Creek | 314920 | [314920-solace-creek.json](./314920-solace-creek.json) |
 | Solace Dreams | 142721 | [142721-solace-dreams.json](./142721-solace-dreams.json) |
+| Solace Inc. | 285272 | [285272-solace-inc.json](./285272-solace-inc.json) |
 | Solace Inc. 2 | 332929 | [332929-solace-inc-2.json](./332929-solace-inc-2.json) |
 | Solace State | 107594 | [107594-solace-state.json](./107594-solace-state.json) |
 | Solace: Begin Your Escape | 391557 | [391557-solace-begin-your-escape.json](./391557-solace-begin-your-escape.json) |
@@ -19142,6 +19144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -22607,6 +22610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spyro 2: Ripto's Rage! | 1577 | [1577-spyro-2-riptos-rage.json](./1577-spyro-2-riptos-rage.json) |
 | Spyro 2: Ripto's Rage! - Collector's Edition | 43685 | [43685-spyro-2-riptos-rage-collectors-edition.json](./43685-spyro-2-riptos-rage-collectors-edition.json) |
 | Spyro 2: Season of Flame | 1588 | [1588-spyro-2-season-of-flame.json](./1588-spyro-2-season-of-flame.json) |
+| Spyro 3.5: Return to the Forgotten Realms | 285246 | [285246-spyro-3-5-return-to-the-forgotten-realms.json](./285246-spyro-3-5-return-to-the-forgotten-realms.json) |
 | Spyro 4 | 336310 | [336310-spyro-4.json](./336310-spyro-4.json) |
 | Spyro Orange: The Cortex Conspiracy | 1590 | [1590-spyro-orange-the-cortex-conspiracy.json](./1590-spyro-orange-the-cortex-conspiracy.json) |
 | Spyro Superpack | 130303 | [130303-spyro-superpack.json](./130303-spyro-superpack.json) |
@@ -26357,6 +26361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stitch's Escape Game | 326769 | [326769-stitchs-escape-game.json](./326769-stitchs-escape-game.json) |
 | Stitchcraft | 123985 | [123985-stitchcraft.json](./123985-stitchcraft.json) |
 | Stitched | 28121 | [28121-stitched.json](./28121-stitched.json) |
+| Stitched Together | 285303 | [285303-stitched-together.json](./285303-stitched-together.json) |
 | Stitched: Mother's Nightmare | 152636 | [152636-stitched-mothers-nightmare.json](./152636-stitched-mothers-nightmare.json) |
 | Stitchlings | 399879 | [399879-stitchlings.json](./399879-stitchlings.json) |
 | Stitchy in Tooki Trouble | 145804 | [145804-stitchy-in-tooki-trouble.json](./145804-stitchy-in-tooki-trouble.json) |
@@ -27754,6 +27759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Force Heroes | 213516 | [213516-strike-force-heroes.json](./213516-strike-force-heroes.json) |
 | Strike Force Heroes | 277203 | [277203-strike-force-heroes.json](./277203-strike-force-heroes.json) |
 | Strike Force Heroes: Ninja Class | 298191 | [298191-strike-force-heroes-ninja-class.json](./298191-strike-force-heroes-ninja-class.json) |
+| Strike Force Heroes: Original Flash Outfits | 285304 | [285304-strike-force-heroes-original-flash-outfits.json](./285304-strike-force-heroes-original-flash-outfits.json) |
 | Strike Force Hydra | 49381 | [49381-strike-force-hydra.json](./49381-strike-force-hydra.json) |
 | Strike Force Kitty | 126486 | [126486-strike-force-kitty.json](./126486-strike-force-kitty.json) |
 | Strike Force Red Cell | 67093 | [67093-strike-force-red-cell.json](./67093-strike-force-red-cell.json) |
