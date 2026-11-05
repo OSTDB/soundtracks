@@ -818,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo 2600 | 18286 | [18286-halo-2600.json](./18286-halo-2600.json) |
 | Halo 3 & Fable II Double Pack | 141865 | [141865-halo-3-and-fable-ii-double-pack.json](./141865-halo-3-and-fable-ii-double-pack.json) |
 | Halo 3 + Halo Wars | 163108 | [163108-halo-3-halo-wars.json](./163108-halo-3-halo-wars.json) |
+| Halo 3: Combat Evolved | 289597 | [289597-halo-3-combat-evolved.json](./289597-halo-3-combat-evolved.json) |
 | Halo 3: Heroic Map Pack | 334016 | [334016-halo-3-heroic-map-pack.json](./334016-halo-3-heroic-map-pack.json) |
 | Halo 3: Legendary Edition | 43955 | [43955-halo-3-legendary-edition.json](./43955-halo-3-legendary-edition.json) |
 | Halo 3: Limited Edition | 45147 | [45147-halo-3-limited-edition.json](./45147-halo-3-limited-edition.json) |
@@ -2999,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Over Heels | 12138 | [12138-head-over-heels.json](./12138-head-over-heels.json) |
 | Head Over Heels | 121632 | [121632-head-over-heels.json](./121632-head-over-heels.json) |
 | Head Over Heels | 208281 | [208281-head-over-heels.json](./208281-head-over-heels.json) |
+| Head Over Heels | 289670 | [289670-head-over-heels.json](./289670-head-over-heels.json) |
 | Head Over Heels: Deluxe | 340421 | [340421-head-over-heels-deluxe.json](./340421-head-over-heels-deluxe.json) |
 | Head Over Heels: Monster Girl Dating Sim | 271397 | [271397-head-over-heels-monster-girl-dating-sim.json](./271397-head-over-heels-monster-girl-dating-sim.json) |
 | Head Pain | 181048 | [181048-head-pain.json](./181048-head-pain.json) |
@@ -6675,6 +6677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Chinese Chess | 242109 | [242109-hidden-chinese-chess.json](./242109-hidden-chinese-chess.json) |
 | Hidden City Top-Down 3D | 267460 | [267460-hidden-city-top-down-3d.json](./267460-hidden-city-top-down-3d.json) |
 | Hidden City: Hidden Object Adventure | 88900 | [88900-hidden-city-hidden-object-adventure.json](./88900-hidden-city-hidden-object-adventure.json) |
+| Hidden Clues 2: Miami | 289654 | [289654-hidden-clues-2-miami.json](./289654-hidden-clues-2-miami.json) |
 | Hidden Clues: Gang Wars | 295101 | [295101-hidden-clues-gang-wars.json](./295101-hidden-clues-gang-wars.json) |
 | Hidden Clues: Mystery Scene Challenge | 409532 | [409532-hidden-clues-mystery-scene-challenge.json](./409532-hidden-clues-mystery-scene-challenge.json) |
 | Hidden Collection | 86714 | [86714-hidden-collection.json](./86714-hidden-collection.json) |
@@ -8914,6 +8917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Mahjong | 6113 | [6113-home-mahjong.json](./6113-home-mahjong.json) |
 | Home Maid: Owari no Tachi | 70581 | [70581-home-maid-owari-no-tachi.json](./70581-home-maid-owari-no-tachi.json) |
 | Home Makeover: Hidden Object | 146710 | [146710-home-makeover-hidden-object.json](./146710-home-makeover-hidden-object.json) |
+| Home of the Yokai | 289601 | [289601-home-of-the-yokai.json](./289601-home-of-the-yokai.json) |
 | Home Office | 154062 | [154062-home-office.json](./154062-home-office.json) |
 | Home Office Hell | 178785 | [178785-home-office-hell.json](./178785-home-office-hell.json) |
 | Home Office Simulator | 223391 | [223391-home-office-simulator.json](./223391-home-office-simulator.json) |
