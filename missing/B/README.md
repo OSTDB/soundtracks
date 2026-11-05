@@ -7179,6 +7179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bic's Christmas Tale | 317344 | [317344-bics-christmas-tale.json](./317344-bics-christmas-tale.json) |
 | Bichito Clicker | 254008 | [254008-bichito-clicker.json](./254008-bichito-clicker.json) |
 | Bicho | 223474 | [223474-bicho.json](./223474-bicho.json) |
+| Bichos & Cia | 251322 | [251322-bichos-and-cia.json](./251322-bichos-and-cia.json) |
 | Bickadoodle | 185088 | [185088-bickadoodle.json](./185088-bickadoodle.json) |
 | Bicolor | 208385 | [208385-bicolor.json](./208385-bicolor.json) |
 | Bicolor Bird | 296196 | [296196-bicolor-bird.json](./296196-bicolor-bird.json) |
@@ -9091,6 +9092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Zen White | 344938 | [344938-black-zen-white.json](./344938-black-zen-white.json) |
 | Black Zork | 289537 | [289537-black-zork.json](./289537-black-zork.json) |
 | Black, no sugar | 183361 | [183361-black-no-sugar.json](./183361-black-no-sugar.json) |
+| Black, White and Grey | 251314 | [251314-black-white-and-grey.json](./251314-black-white-and-grey.json) |
 | Black/Matrix | 45415 | [45415-black-matrix.json](./45415-black-matrix.json) |
 | Black/Matrix + | 93534 | [93534-black-matrix.json](./93534-black-matrix.json) |
 | Black/Matrix 00 | 137090 | [137090-black-matrix-00.json](./137090-black-matrix-00.json) |
@@ -10375,6 +10377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Puzzle: Star Finder | 103070 | [103070-block-puzzle-star-finder.json](./103070-block-puzzle-star-finder.json) |
 | Block Puzzle: Star Finder | 103165 | [103165-block-puzzle-star-finder.json](./103165-block-puzzle-star-finder.json) |
 | Block Quest V | 61556 | [61556-block-quest-v.json](./61556-block-quest-v.json) |
+| Block Racer | 251342 | [251342-block-racer.json](./251342-block-racer.json) |
 | Block Rancher | 310248 | [310248-block-rancher.json](./310248-block-rancher.json) |
 | Block Robot Mini Survival Game | 41918 | [41918-block-robot-mini-survival-game.json](./41918-block-robot-mini-survival-game.json) |
 | Block Rocking Beats | 37380 | [37380-block-rocking-beats.json](./37380-block-rocking-beats.json) |
