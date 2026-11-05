@@ -4143,6 +4143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afrika | 7267 | [7267-afrika.json](./7267-afrika.json) |
 | Afrika Korps | 14228 | [14228-afrika-korps.json](./14228-afrika-korps.json) |
 | Afrika Korps vs Desert Rats | 27249 | [27249-afrika-korps-vs-desert-rats.json](./27249-afrika-korps-vs-desert-rats.json) |
+| Afritis | 266569 | [266569-afritis.json](./266569-afritis.json) |
 | Afro Frog | 185378 | [185378-afro-frog.json](./185378-afro-frog.json) |
 | Afro Samurai 2: Revenge of Kuma | 20030 | [20030-afro-samurai-2-revenge-of-kuma.json](./20030-afro-samurai-2-revenge-of-kuma.json) |
 | AfroPenguin & The Forbidden Ramen | 244866 | [244866-afropenguin-and-the-forbidden-ramen.json](./244866-afropenguin-and-the-forbidden-ramen.json) |
@@ -8696,6 +8697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amountle | 413092 | [413092-amountle.json](./413092-amountle.json) |
 | Amour Libre: Free Love | 129794 | [129794-amour-libre-free-love.json](./129794-amour-libre-free-love.json) |
 | AmourVortex | 83846 | [83846-amourvortex.json](./83846-amourvortex.json) |
+| Amp | 266577 | [266577-amp.json](./266577-amp.json) |
 | Amparito: En Busca del Nabo Dorado | 366987 | [366987-amparito-en-busca-del-nabo-dorado.json](./366987-amparito-en-busca-del-nabo-dorado.json) |
 | Amped 2 | 5725 | [5725-amped-2.json](./5725-amped-2.json) |
 | Amped 3 | 5483 | [5483-amped-3.json](./5483-amped-3.json) |
@@ -16322,6 +16324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
