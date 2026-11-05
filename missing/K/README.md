@@ -2736,6 +2736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kilubu Magic Potions 2 | 213397 | [213397-kilubu-magic-potions-2.json](./213397-kilubu-magic-potions-2.json) |
 | Kim | 25225 | [25225-kim.json](./25225-kim.json) |
 | Kim and Prostitute | 102410 | [102410-kim-and-prostitute.json](./102410-kim-and-prostitute.json) |
+| Kim Possible Mission: Improbable | 282357 | [282357-kim-possible-mission-improbable.json](./282357-kim-possible-mission-improbable.json) |
 | Kim Possible: A Sitch in Time - Episode 1: Present | 159199 | [159199-kim-possible-a-sitch-in-time-episode-1-present.json](./159199-kim-possible-a-sitch-in-time-episode-1-present.json) |
 | Kim Possible: A Sitch in Time - Episode 2: Past | 159200 | [159200-kim-possible-a-sitch-in-time-episode-2-past.json](./159200-kim-possible-a-sitch-in-time-episode-2-past.json) |
 | Kim Possible: A Sitch in Time - Episode 3: Future | 159201 | [159201-kim-possible-a-sitch-in-time-episode-3-future.json](./159201-kim-possible-a-sitch-in-time-episode-3-future.json) |
@@ -4257,6 +4258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klorb | 348030 | [348030-klorb.json](./348030-klorb.json) |
 | Klorbiest Catch | 410324 | [410324-klorbiest-catch.json](./410324-klorbiest-catch.json) |
 | Klostyn | 340865 | [340865-klostyn.json](./340865-klostyn.json) |
+| Klotski | 282402 | [282402-klotski.json](./282402-klotski.json) |
 | Klotski Unblock | 90828 | [90828-klotski-unblock.json](./90828-klotski-unblock.json) |
 | Klotski+ | 221707 | [221707-klotski.json](./221707-klotski.json) |
 | Klotzen! Panzer Battles | 88066 | [88066-klotzen-panzer-battles.json](./88066-klotzen-panzer-battles.json) |
