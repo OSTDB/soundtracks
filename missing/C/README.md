@@ -822,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Sentinels | 264152 | [264152-call-of-sentinels.json](./264152-call-of-sentinels.json) |
 | Call of Smoking Snakes | 420568 | [420568-call-of-smoking-snakes.json](./420568-call-of-smoking-snakes.json) |
 | Call of Snakes | 193705 | [193705-call-of-snakes.json](./193705-call-of-snakes.json) |
+| Call of Sniper Combat: WW2 | 276558 | [276558-call-of-sniper-combat-ww2.json](./276558-call-of-sniper-combat-ww2.json) |
 | Call of the Ages: Collector's Edition | 341086 | [341086-call-of-the-ages-collectors-edition.json](./341086-call-of-the-ages-collectors-edition.json) |
 | Call of the Apostate | 268766 | [268766-call-of-the-apostate.json](./268766-call-of-the-apostate.json) |
 | Call of The Deep | 311530 | [311530-call-of-the-deep.json](./311530-call-of-the-deep.json) |
@@ -4858,6 +4859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caverns of Khafka | 25674 | [25674-caverns-of-khafka.json](./25674-caverns-of-khafka.json) |
 | Caverns of Kontonia | 293715 | [293715-caverns-of-kontonia.json](./293715-caverns-of-kontonia.json) |
 | Caverns of Kroz | 71356 | [71356-caverns-of-kroz.json](./71356-caverns-of-kroz.json) |
+| Caverns of Mars | 276524 | [276524-caverns-of-mars.json](./276524-caverns-of-mars.json) |
 | Caverns of Mars: Recharged | 233624 | [233624-caverns-of-mars-recharged.json](./233624-caverns-of-mars-recharged.json) |
 | Caverns of Minos | 22681 | [22681-caverns-of-minos.json](./22681-caverns-of-minos.json) |
 | Caverns of the Lost Miner | 391799 | [391799-caverns-of-the-lost-miner.json](./391799-caverns-of-the-lost-miner.json) |
@@ -9837,6 +9839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clearing Blade | 326248 | [326248-clearing-blade.json](./326248-clearing-blade.json) |
 | ClearIt | 95660 | [95660-clearit.json](./95660-clearit.json) |
 | ClearIt 13 | 215513 | [215513-clearit-13.json](./215513-clearit-13.json) |
+| ClearIt 16 | 276561 | [276561-clearit-16.json](./276561-clearit-16.json) |
 | ClearIt2 | 96320 | [96320-clearit2.json](./96320-clearit2.json) |
 | Clearwater | 270718 | [270718-clearwater.json](./270718-clearwater.json) |
 | Clearworld | 148252 | [148252-clearworld.json](./148252-clearworld.json) |
@@ -14791,6 +14794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmica | 149948 | [149948-cosmica.json](./149948-cosmica.json) |
 | CosmicBreak Gun & Slash | 189988 | [189988-cosmicbreak-gun-and-slash.json](./189988-cosmicbreak-gun-and-slash.json) |
 | CosmicBreak Universal | 151457 | [151457-cosmicbreak-universal.json](./151457-cosmicbreak-universal.json) |
+| CosmicBreak Universal: Ray - Fan Pack | 276566 | [276566-cosmicbreak-universal-ray-fan-pack.json](./276566-cosmicbreak-universal-ray-fan-pack.json) |
 | CosmicBreak Universal: Sylvia | 196090 | [196090-cosmicbreak-universal-sylvia.json](./196090-cosmicbreak-universal-sylvia.json) |
 | Cosmik Battle | 260883 | [260883-cosmik-battle.json](./260883-cosmik-battle.json) |
 | Cosmik Block | 109529 | [109529-cosmik-block.json](./109529-cosmik-block.json) |
@@ -18440,6 +18444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cthulhu 1920 | 386242 | [386242-cthulhu-1920.json](./386242-cthulhu-1920.json) |
 | Cthulhu Clicker | 58162 | [58162-cthulhu-clicker.json](./58162-cthulhu-clicker.json) |
 | Cthulhu Go Teaching | 405091 | [405091-cthulhu-go-teaching.json](./405091-cthulhu-go-teaching.json) |
+| Cthulhu Keeper | 276511 | [276511-cthulhu-keeper.json](./276511-cthulhu-keeper.json) |
 | Cthulhu Kitan: Ryuuguu no Shi The Game - Insuma Machi-hen | 355534 | [355534-cthulhu-kitan-ryuuguu-no-shi-the-game-insuma-machi-hen.json](./355534-cthulhu-kitan-ryuuguu-no-shi-the-game-insuma-machi-hen.json) |
 | Cthulhu Must Die | 253985 | [253985-cthulhu-must-die.json](./253985-cthulhu-must-die.json) |
 | Cthulhu Mysteries: Veins of Arkham | 372642 | [372642-cthulhu-mysteries-veins-of-arkham.json](./372642-cthulhu-mysteries-veins-of-arkham.json) |
