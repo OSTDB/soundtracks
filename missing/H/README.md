@@ -7575,6 +7575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Bus Rush | 352316 | [352316-highway-bus-rush.json](./352316-highway-bus-rush.json) |
 | Highway Cleaner | 234607 | [234607-highway-cleaner.json](./234607-highway-cleaner.json) |
 | Highway Cleaners | 268285 | [268285-highway-cleaners.json](./268285-highway-cleaners.json) |
+| Highway Crash Derby | 248274 | [248274-highway-crash-derby.json](./248274-highway-crash-derby.json) |
 | Highway Cross | 220429 | [220429-highway-cross.json](./220429-highway-cross.json) |
 | Highway Crossing Madruga | 252898 | [252898-highway-crossing-madruga.json](./252898-highway-crossing-madruga.json) |
 | Highway Drifter: Hajwala Simulator | 284927 | [284927-highway-drifter-hajwala-simulator.json](./284927-highway-drifter-hajwala-simulator.json) |
@@ -10842,6 +10843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Lost Souls | 333624 | [333624-house-of-lost-souls.json](./333624-house-of-lost-souls.json) |
 | House of Maids | 189980 | [189980-house-of-maids.json](./189980-house-of-maids.json) |
 | House of Moiré | 212991 | [212991-house-of-moire.json](./212991-house-of-moire.json) |
+| House of Mouse | 248260 | [248260-house-of-mouse.json](./248260-house-of-mouse.json) |
 | House of Necrosis | 206009 | [206009-house-of-necrosis.json](./206009-house-of-necrosis.json) |
 | House of Nightmares B-Movie Edition | 35388 | [35388-house-of-nightmares-b-movie-edition.json](./35388-house-of-nightmares-b-movie-edition.json) |
 | House of Nowhere | 385861 | [385861-house-of-nowhere.json](./385861-house-of-nowhere.json) |
