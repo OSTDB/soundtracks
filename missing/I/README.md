@@ -1540,6 +1540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Magic School | 281449 | [281449-idle-magic-school.json](./281449-idle-magic-school.json) |
 | Idle Mall Tycoon | 276650 | [276650-idle-mall-tycoon.json](./276650-idle-mall-tycoon.json) |
 | Idle Mars Colony | 233621 | [233621-idle-mars-colony.json](./233621-idle-mars-colony.json) |
+| Idle Medieval Tavern | 250743 | [250743-idle-medieval-tavern.json](./250743-idle-medieval-tavern.json) |
 | Idle Meteor | 295211 | [295211-idle-meteor.json](./295211-idle-meteor.json) |
 | Idle Military Factory Tycoon | 251443 | [251443-idle-military-factory-tycoon.json](./251443-idle-military-factory-tycoon.json) |
 | Idle Mining Company | 255801 | [255801-idle-mining-company.json](./255801-idle-mining-company.json) |
