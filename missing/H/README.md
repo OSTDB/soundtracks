@@ -677,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween 3D | 106514 | [106514-halloween-3d.json](./106514-halloween-3d.json) |
 | Halloween Again | 272619 | [272619-halloween-again.json](./272619-halloween-again.json) |
 | Halloween Basketball Legends | 395955 | [395955-halloween-basketball-legends.json](./395955-halloween-basketball-legends.json) |
+| Halloween Bubble Shooter | 270466 | [270466-halloween-bubble-shooter.json](./270466-halloween-bubble-shooter.json) |
 | Halloween Candy Break | 187763 | [187763-halloween-candy-break.json](./187763-halloween-candy-break.json) |
 | Halloween Candy Break 2 | 187750 | [187750-halloween-candy-break-2.json](./187750-halloween-candy-break-2.json) |
 | Halloween Candy Break 2: Head to Head | 214515 | [214515-halloween-candy-break-2-head-to-head.json](./214515-halloween-candy-break-2-head-to-head.json) |
@@ -946,6 +947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamburger in Space! | 282360 | [282360-hamburger-in-space.json](./282360-hamburger-in-space.json) |
 | Hamburger Shop | 385514 | [385514-hamburger-shop.json](./385514-hamburger-shop.json) |
 | Hamburger Shop | 386974 | [386974-hamburger-shop.json](./386974-hamburger-shop.json) |
+| Hamburgers En Route to Switzerland | 270441 | [270441-hamburgers-en-route-to-switzerland.json](./270441-hamburgers-en-route-to-switzerland.json) |
 | Hamburgers En Route to Switzerland | 307522 | [307522-hamburgers-en-route-to-switzerland.json](./307522-hamburgers-en-route-to-switzerland.json) |
 | Hamburgers VS Eggs | 118684 | [118684-hamburgers-vs-eggs.json](./118684-hamburgers-vs-eggs.json) |
 | Hamcorollin’ | 263330 | [263330-hamcorollin.json](./263330-hamcorollin.json) |
