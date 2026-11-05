@@ -2001,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Water | 129993 | [129993-dark-water.json](./129993-dark-water.json) |
 | Dark Water: Slime Invader | 147076 | [147076-dark-water-slime-invader.json](./147076-dark-water-slime-invader.json) |
 | Dark Wave | 104480 | [104480-dark-wave.json](./104480-dark-wave.json) |
+| Dark Web: Vigilante | 293887 | [293887-dark-web-vigilante.json](./293887-dark-web-vigilante.json) |
 | Dark Wind: War on Wheels | 78069 | [78069-dark-wind-war-on-wheels.json](./78069-dark-wind-war-on-wheels.json) |
 | Dark Wish | 99011 | [99011-dark-wish.json](./99011-dark-wish.json) |
 | Dark Witch Connect | 381777 | [381777-dark-witch-connect.json](./381777-dark-witch-connect.json) |
@@ -6740,6 +6741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deputy Den | 346751 | [346751-deputy-den.json](./346751-deputy-den.json) |
 | Dequivsia | 326603 | [326603-dequivsia.json](./326603-dequivsia.json) |
 | DeQuoter | 83457 | [83457-dequoter.json](./83457-dequoter.json) |
+| Der Anzeigenhauptmeister | 293959 | [293959-der-anzeigenhauptmeister.json](./293959-der-anzeigenhauptmeister.json) |
 | Der Atom Nazi | 116177 | [116177-der-atom-nazi.json](./116177-der-atom-nazi.json) |
 | Der Bauernhof | 268111 | [268111-der-bauernhof.json](./268111-der-bauernhof.json) |
 | Der Blaue Diamant: Additional mission | 213031 | [213031-der-blaue-diamant-additional-mission.json](./213031-der-blaue-diamant-additional-mission.json) |
@@ -13098,6 +13100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon Wii: Himitsu Dougu-ou Ketteisen! | 4818 | [4818-doraemon-wii-himitsu-dougu-ou-ketteisen.json](./4818-doraemon-wii-himitsu-dougu-ou-ketteisen.json) |
 | Doraemon Wii: Himitsu Douguou Ketteisen! | 91773 | [91773-doraemon-wii-himitsu-douguou-ketteisen.json](./91773-doraemon-wii-himitsu-douguou-ketteisen.json) |
 | Doraemon: Aruke Aruke Labyrinth | 91777 | [91777-doraemon-aruke-aruke-labyrinth.json](./91777-doraemon-aruke-aruke-labyrinth.json) |
+| Doraemon: Doraemon no Nandemo Quiz Pocket | 293953 | [293953-doraemon-doraemon-no-nandemo-quiz-pocket.json](./293953-doraemon-doraemon-no-nandemo-quiz-pocket.json) |
 | Doraemon: Dorayaki House | 310670 | [310670-doraemon-dorayaki-house.json](./310670-doraemon-dorayaki-house.json) |
 | Doraemon: Giga Zombie no Gyakushuu | 48523 | [48523-doraemon-giga-zombie-no-gyakushuu.json](./48523-doraemon-giga-zombie-no-gyakushuu.json) |
 | Doraemon: Kimi to Pet no Monogatari | 91775 | [91775-doraemon-kimi-to-pet-no-monogatari.json](./91775-doraemon-kimi-to-pet-no-monogatari.json) |
