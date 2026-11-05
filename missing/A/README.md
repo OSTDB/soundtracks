@@ -8954,6 +8954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancestral Players | 291312 | [291312-ancestral-players.json](./291312-ancestral-players.json) |
 | Anchor | 375444 | [375444-anchor.json](./375444-anchor.json) |
 | Anchor Club | 187184 | [187184-anchor-club.json](./187184-anchor-club.json) |
+| Anchor Panic | 279428 | [279428-anchor-panic.json](./279428-anchor-panic.json) |
 | Anchor Up | 166050 | [166050-anchor-up.json](./166050-anchor-up.json) |
 | Anchor-13 | 408047 | [408047-anchor-13.json](./408047-anchor-13.json) |
 | Anchor: The Last Hope of the Brilliant Ocean | 311427 | [311427-anchor-the-last-hope-of-the-brilliant-ocean.json](./311427-anchor-the-last-hope-of-the-brilliant-ocean.json) |
@@ -16255,6 +16256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
