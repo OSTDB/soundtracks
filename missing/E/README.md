@@ -6242,6 +6242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Truck Simulator 2: KRONE Agriculture Equipment | 358728 | [358728-euro-truck-simulator-2-krone-agriculture-equipment.json](./358728-euro-truck-simulator-2-krone-agriculture-equipment.json) |
 | Euro Truck Simulator 2: Legendary Edition | 52973 | [52973-euro-truck-simulator-2-legendary-edition.json](./52973-euro-truck-simulator-2-legendary-edition.json) |
 | Euro Truck Simulator 2: Modern Lines Paint Jobs Pack | 266243 | [266243-euro-truck-simulator-2-modern-lines-paint-jobs-pack.json](./266243-euro-truck-simulator-2-modern-lines-paint-jobs-pack.json) |
+| Euro Truck Simulator 2: Nordic Horizons | 284138 | [284138-euro-truck-simulator-2-nordic-horizons.json](./284138-euro-truck-simulator-2-nordic-horizons.json) |
 | Euro Truck Simulator 2: Platinum Edition | 52977 | [52977-euro-truck-simulator-2-platinum-edition.json](./52977-euro-truck-simulator-2-platinum-edition.json) |
 | Euro Truck Simulator 2: Renault Trucks E-Tech T | 311995 | [311995-euro-truck-simulator-2-renault-trucks-e-tech-t.json](./311995-euro-truck-simulator-2-renault-trucks-e-tech-t.json) |
 | Euro Truck Simulator 2: Road to the Black Sea | 118305 | [118305-euro-truck-simulator-2-road-to-the-black-sea.json](./118305-euro-truck-simulator-2-road-to-the-black-sea.json) |
@@ -7083,6 +7084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evo Island | 290415 | [290415-evo-island.json](./290415-evo-island.json) |
 | Evo Pop | 237843 | [237843-evo-pop.json](./237843-evo-pop.json) |
 | Evo Pop: Sweet Edition | 395677 | [395677-evo-pop-sweet-edition.json](./395677-evo-pop-sweet-edition.json) |
+| Evo Q | 284141 | [284141-evo-q.json](./284141-evo-q.json) |
 | Evo\Wave | 144614 | [144614-evo-wave.json](./144614-evo-wave.json) |
 | EvoBots | 315713 | [315713-evobots.json](./315713-evobots.json) |
 | Evocation | 107817 | [107817-evocation.json](./107817-evocation.json) |
