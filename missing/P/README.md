@@ -5266,6 +5266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantoms of the Asteroid | 40959 | [40959-phantoms-of-the-asteroid.json](./40959-phantoms-of-the-asteroid.json) |
 | PhantomZone Labyrinthos | 333970 | [333970-phantomzone-labyrinthos.json](./333970-phantomzone-labyrinthos.json) |
 | PhantomZone SemiDeus | 349973 | [349973-phantomzone-semideus.json](./349973-phantomzone-semideus.json) |
+| Phantopia | 295055 | [295055-phantopia.json](./295055-phantopia.json) |
 | Phar Lap: Horse Racing Challenge | 116374 | [116374-phar-lap-horse-racing-challenge.json](./116374-phar-lap-horse-racing-challenge.json) |
 | Pharabis | 342121 | [342121-pharabis.json](./342121-pharabis.json) |
 | Pharao Reloaded | 132524 | [132524-pharao-reloaded.json](./132524-pharao-reloaded.json) |
@@ -7226,6 +7227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipeline of Emperor Yu | 130785 | [130785-pipeline-of-emperor-yu.json](./130785-pipeline-of-emperor-yu.json) |
 | Pipeline Panic | 224834 | [224834-pipeline-panic.json](./224834-pipeline-panic.json) |
 | Pipeline RTX | 192980 | [192980-pipeline-rtx.json](./192980-pipeline-rtx.json) |
+| Pipeline RTX: 2 | 294985 | [294985-pipeline-rtx-2.json](./294985-pipeline-rtx-2.json) |
 | Pipeline Tycoon | 388304 | [388304-pipeline-tycoon.json](./388304-pipeline-tycoon.json) |
 | Pipeline VR | 173253 | [173253-pipeline-vr.json](./173253-pipeline-vr.json) |
 | Pipelinks | 253520 | [253520-pipelinks.json](./253520-pipelinks.json) |
@@ -11803,6 +11805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polygon Hell 4D | 295575 | [295575-polygon-hell-4d.json](./295575-polygon-hell-4d.json) |
 | Polygon Hunter | 154745 | [154745-polygon-hunter.json](./154745-polygon-hunter.json) |
 | Polygon Hunter VR | 186843 | [186843-polygon-hunter-vr.json](./186843-polygon-hunter-vr.json) |
+| Polygon In | 294928 | [294928-polygon-in.json](./294928-polygon-in.json) |
 | Polygon Mayhem | 411736 | [411736-polygon-mayhem.json](./411736-polygon-mayhem.json) |
 | Polygon Nightmare | 412098 | [412098-polygon-nightmare.json](./412098-polygon-nightmare.json) |
 | Polygon of Reality | 188998 | [188998-polygon-of-reality.json](./188998-polygon-of-reality.json) |
@@ -15570,6 +15573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Oasis World | 105063 | [105063-project-oasis-world.json](./105063-project-oasis-world.json) |
 | Project Obscure | 374370 | [374370-project-obscure.json](./374370-project-obscure.json) |
 | Project Octavia | 361271 | [361271-project-octavia.json](./361271-project-octavia.json) |
+| Project of Cooling the Earth | 295061 | [295061-project-of-cooling-the-earth.json](./295061-project-of-cooling-the-earth.json) |
 | Project of the Gods | 156118 | [156118-project-of-the-gods.json](./156118-project-of-the-gods.json) |
 | Project Offset | 73013 | [73013-project-offset.json](./73013-project-offset.json) |
 | Project Omega | 70397 | [70397-project-omega.json](./70397-project-omega.json) |
