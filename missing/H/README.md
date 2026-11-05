@@ -1290,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handmancers | 260587 | [260587-handmancers.json](./260587-handmancers.json) |
 | Handpan | 178786 | [178786-handpan.json](./178786-handpan.json) |
 | HandPass VR | 30755 | [30755-handpass-vr.json](./30755-handpass-vr.json) |
+| Hands | 265999 | [265999-hands.json](./265999-hands.json) |
 | Hands of Necromancy | 203249 | [203249-hands-of-necromancy.json](./203249-hands-of-necromancy.json) |
 | Hands of Necromancy II | 278539 | [278539-hands-of-necromancy-ii.json](./278539-hands-of-necromancy-ii.json) |
 | Hands of the Killer | 150096 | [150096-hands-of-the-killer.json](./150096-hands-of-the-killer.json) |
@@ -9847,6 +9848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horrid Henry's Big Box of Pranks | 87486 | [87486-horrid-henrys-big-box-of-pranks.json](./87486-horrid-henrys-big-box-of-pranks.json) |
 | Horrid Henry's Horrid Adventure | 269630 | [269630-horrid-henrys-horrid-adventure.json](./269630-horrid-henrys-horrid-adventure.json) |
 | Horrid Henry's Krazy Karts | 187451 | [187451-horrid-henrys-krazy-karts.json](./187451-horrid-henrys-krazy-karts.json) |
+| Horrific Xanatorium | 266044 | [266044-horrific-xanatorium.json](./266044-horrific-xanatorium.json) |
 | Horripilant | 342102 | [342102-horripilant.json](./342102-horripilant.json) |
 | Horror | 387419 | [387419-horror.json](./387419-horror.json) |
 | Horror | 409374 | [409374-horror.json](./409374-horror.json) |
