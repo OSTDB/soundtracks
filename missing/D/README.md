@@ -5474,6 +5474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend London | 104722 | [104722-defend-london.json](./104722-defend-london.json) |
 | Defend or Die | 12991 | [12991-defend-or-die.json](./12991-defend-or-die.json) |
 | Defend Pizzeria Craft Shop | 88978 | [88978-defend-pizzeria-craft-shop.json](./88978-defend-pizzeria-craft-shop.json) |
+| Defend the Base: Tower Turret Shooting Range | 278195 | [278195-defend-the-base-tower-turret-shooting-range.json](./278195-defend-the-base-tower-turret-shooting-range.json) |
 | Defend the Bits TD | 203957 | [203957-defend-the-bits-td.json](./203957-defend-the-bits-td.json) |
 | Defend the Cake | 55471 | [55471-defend-the-cake.json](./55471-defend-the-cake.json) |
 | Defend the Cake Tower Defense | 175173 | [175173-defend-the-cake-tower-defense.json](./175173-defend-the-cake-tower-defense.json) |
@@ -5509,6 +5510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender | 198721 | [198721-defender.json](./198721-defender.json) |
 | Defender | 228072 | [228072-defender.json](./228072-defender.json) |
 | Defender | 239136 | [239136-defender.json](./239136-defender.json) |
+| Defender | 278240 | [278240-defender.json](./278240-defender.json) |
 | Defender | 278270 | [278270-defender.json](./278270-defender.json) |
 | Defender | 278281 | [278281-defender.json](./278281-defender.json) |
 | Defender | 278283 | [278283-defender.json](./278283-defender.json) |
