@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hachishaku | 342533 | [342533-hachishaku.json](./342533-hachishaku.json) |
 | Hachishakusama | 412501 | [412501-hachishakusama.json](./412501-hachishakusama.json) |
 | Hachoo! | 40065 | [40065-hachoo.json](./40065-hachoo.json) |
+| Hachu's Revenge | 281800 | [281800-hachus-revenge.json](./281800-hachus-revenge.json) |
 | Hack | 171890 | [171890-hack.json](./171890-hack.json) |
 | Hack | 2875 | [2875-hack.json](./2875-hack.json) |
 | Hack -1 | 306871 | [306871-hack-1.json](./306871-hack-1.json) |
