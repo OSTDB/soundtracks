@@ -8351,6 +8351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Dice Dice: A Roll Playing Game | 291300 | [291300-dice-dice-dice-a-roll-playing-game.json](./291300-dice-dice-dice-a-roll-playing-game.json) |
 | Dice Dice Fantasia | 278826 | [278826-dice-dice-fantasia.json](./278826-dice-dice-fantasia.json) |
 | Dice Dreams | 233897 | [233897-dice-dreams.json](./233897-dice-dreams.json) |
+| Dice Duel | 277109 | [277109-dice-duel.json](./277109-dice-duel.json) |
 | Dice Eater | 329454 | [329454-dice-eater.json](./329454-dice-eater.json) |
 | Dice Fantasy | 242705 | [242705-dice-fantasy.json](./242705-dice-fantasy.json) |
 | Dice Fight | 232368 | [232368-dice-fight.json](./232368-dice-fight.json) |
