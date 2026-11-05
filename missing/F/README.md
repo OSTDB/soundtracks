@@ -6896,6 +6896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Roner's 2 | 302308 | [302308-five-nights-at-roners-2.json](./302308-five-nights-at-roners-2.json) |
 | Five Nights at Roner's: Remastered | 330734 | [330734-five-nights-at-roners-remastered.json](./330734-five-nights-at-roners-remastered.json) |
 | Five Nights at RPG Boy's | 339599 | [339599-five-nights-at-rpg-boys.json](./339599-five-nights-at-rpg-boys.json) |
+| Five Nights at SCP | 274256 | [274256-five-nights-at-scp.json](./274256-five-nights-at-scp.json) |
 | Five Nights at Sexy's | 207700 | [207700-five-nights-at-sexys.json](./207700-five-nights-at-sexys.json) |
 | Five Nights At Shrek's Hotel 2 | 285255 | [285255-five-nights-at-shreks-hotel-2.json](./285255-five-nights-at-shreks-hotel-2.json) |
 | Five Nights at Silver Pine | 297079 | [297079-five-nights-at-silver-pine.json](./297079-five-nights-at-silver-pine.json) |
