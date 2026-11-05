@@ -3630,6 +3630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle For Seattle | 143904 | [143904-battle-for-seattle.json](./143904-battle-for-seattle.json) |
 | Battle for the Ashes | 14290 | [14290-battle-for-the-ashes.json](./14290-battle-for-the-ashes.json) |
 | Battle for the Board | 259091 | [259091-battle-for-the-board.json](./259091-battle-for-the-board.json) |
+| Battle For The Crystals | 289138 | [289138-battle-for-the-crystals.json](./289138-battle-for-the-crystals.json) |
 | Battle for the Droid Station | 193093 | [193093-battle-for-the-droid-station.json](./193093-battle-for-the-droid-station.json) |
 | Battle for the Galaxy | 54955 | [54955-battle-for-the-galaxy.json](./54955-battle-for-the-galaxy.json) |
 | Battle For The Hill | 294123 | [294123-battle-for-the-hill.json](./294123-battle-for-the-hill.json) |
@@ -12194,6 +12195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomba: The Explosive Hero | 213956 | [213956-bomba-the-explosive-hero.json](./213956-bomba-the-explosive-hero.json) |
 | Bombabomb! | 267092 | [267092-bombabomb.json](./267092-bombabomb.json) |
 | Bombagun | 188112 | [188112-bombagun.json](./188112-bombagun.json) |
+| Bombaim | 289113 | [289113-bombaim.json](./289113-bombaim.json) |
 | Bombanana! | 404342 | [404342-bombanana.json](./404342-bombanana.json) |
 | Bombard | 258437 | [258437-bombard.json](./258437-bombard.json) |
 | Bombardier | 196965 | [196965-bombardier.json](./196965-bombardier.json) |
