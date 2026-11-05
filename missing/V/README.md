@@ -524,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valzar | 34391 | [34391-valzar.json](./34391-valzar.json) |
 | Vambina | 401260 | [401260-vambina.json](./401260-vambina.json) |
 | Vambrace: Cold Soul | 111253 | [111253-vambrace-cold-soul.json](./111253-vambrace-cold-soul.json) |
+| Vambrace: Dungeon Monarch | 294339 | [294339-vambrace-dungeon-monarch.json](./294339-vambrace-dungeon-monarch.json) |
 | Vamp Night | 148918 | [148918-vamp-night.json](./148918-vamp-night.json) |
 | Vamp: Lord of Blood | 174759 | [174759-vamp-lord-of-blood.json](./174759-vamp-lord-of-blood.json) |
 | Vampachi | 295948 | [295948-vampachi.json](./295948-vampachi.json) |
@@ -1170,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veil of Darkness | 14450 | [14450-veil-of-darkness.json](./14450-veil-of-darkness.json) |
 | Veil of Darkness | 272498 | [272498-veil-of-darkness.json](./272498-veil-of-darkness.json) |
 | Veil of Dust: A Homesteading Game | 157104 | [157104-veil-of-dust-a-homesteading-game.json](./157104-veil-of-dust-a-homesteading-game.json) |
+| Veil of Madness | 294335 | [294335-veil-of-madness.json](./294335-veil-of-madness.json) |
 | Veil of Maia | 211994 | [211994-veil-of-maia.json](./211994-veil-of-maia.json) |
 | Veil of Mist | 402560 | [402560-veil-of-mist.json](./402560-veil-of-mist.json) |
 | Veil of Sanity | 338135 | [338135-veil-of-sanity.json](./338135-veil-of-sanity.json) |
