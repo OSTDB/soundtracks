@@ -2874,6 +2874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Talia: Arcadia | 74461 | [74461-legends-of-talia-arcadia.json](./74461-legends-of-talia-arcadia.json) |
 | Legends of the Brawl | 216599 | [216599-legends-of-the-brawl.json](./216599-legends-of-the-brawl.json) |
 | Legends of the East: The Cobra's Eye - Collector's Edition | 381379 | [381379-legends-of-the-east-the-cobras-eye-collectors-edition.json](./381379-legends-of-the-east-the-cobras-eye-collectors-edition.json) |
+| Legends of the Eternal Flame | 256594 | [256594-legends-of-the-eternal-flame.json](./256594-legends-of-the-eternal-flame.json) |
 | Legends of The Internet | 311208 | [311208-legends-of-the-internet.json](./311208-legends-of-the-internet.json) |
 | Legends of the Jedi | 228697 | [228697-legends-of-the-jedi.json](./228697-legends-of-the-jedi.json) |
 | Legends of the Lost Realm I: The Gathering of Heroes | 57410 | [57410-legends-of-the-lost-realm-i-the-gathering-of-heroes.json](./57410-legends-of-the-lost-realm-i-the-gathering-of-heroes.json) |
