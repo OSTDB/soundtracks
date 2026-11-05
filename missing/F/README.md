@@ -3787,6 +3787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Femboy Next Door | 405697 | [405697-femboy-next-door.json](./405697-femboy-next-door.json) |
 | Femboy Streamer | 349727 | [349727-femboy-streamer.json](./349727-femboy-streamer.json) |
 | Femboys of the Phalanx | 171068 | [171068-femboys-of-the-phalanx.json](./171068-femboys-of-the-phalanx.json) |
+| Femdemic | 259924 | [259924-femdemic.json](./259924-femdemic.json) |
 | Femdom Farm | 310906 | [310906-femdom-farm.json](./310906-femdom-farm.json) |
 | Femdom First Timers | 392445 | [392445-femdom-first-timers.json](./392445-femdom-first-timers.json) |
 | Femdom Game World: Stacy | 312709 | [312709-femdom-game-world-stacy.json](./312709-femdom-game-world-stacy.json) |
@@ -11781,6 +11782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friendly Fire | 157099 | [157099-friendly-fire.json](./157099-friendly-fire.json) |
 | Friendly Fire | 315722 | [315722-friendly-fire.json](./315722-friendly-fire.json) |
 | Friendly Fire: Arena | 158653 | [158653-friendly-fire-arena.json](./158653-friendly-fire-arena.json) |
+| Friendly Lab: Unlock | 259898 | [259898-friendly-lab-unlock.json](./259898-friendly-lab-unlock.json) |
 | Friendly Premonition | 242811 | [242811-friendly-premonition.json](./242811-friendly-premonition.json) |
 | Friendly Sheeps: A Cozy Simulator | 326430 | [326430-friendly-sheeps-a-cozy-simulator.json](./326430-friendly-sheeps-a-cozy-simulator.json) |
 | Friendly Snowball | 284778 | [284778-friendly-snowball.json](./284778-friendly-snowball.json) |
