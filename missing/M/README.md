@@ -5676,6 +5676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mauritius Atoll | 176294 | [176294-mauritius-atoll.json](./176294-mauritius-atoll.json) |
 | Mausoleosis | 302951 | [302951-mausoleosis.json](./302951-mausoleosis.json) |
 | Mausoleum | 408613 | [408613-mausoleum.json](./408613-mausoleum.json) |
+| Mausoleum Nefarium | 257138 | [257138-mausoleum-nefarium.json](./257138-mausoleum-nefarium.json) |
 | Mausoleum of Memories | 295078 | [295078-mausoleum-of-memories.json](./295078-mausoleum-of-memories.json) |
 | Mausoleum of the Medusa | 25604 | [25604-mausoleum-of-the-medusa.json](./25604-mausoleum-of-the-medusa.json) |
 | Mausuke no Ojama the World | 114036 | [114036-mausuke-no-ojama-the-world.json](./114036-mausuke-no-ojama-the-world.json) |
@@ -5826,6 +5827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -11899,6 +11901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindball Play | 33455 | [33455-mindball-play.json](./33455-mindball-play.json) |
 | Mindbender | 71529 | [71529-mindbender.json](./71529-mindbender.json) |
 | MindBloc | 260004 | [260004-mindbloc.json](./260004-mindbloc.json) |
+| Mindblood Genesis | 257172 | [257172-mindblood-genesis.json](./257172-mindblood-genesis.json) |
 | Mindblower Pack | 78023 | [78023-mindblower-pack.json](./78023-mindblower-pack.json) |
 | Mindbreak Mansion | 320038 | [320038-mindbreak-mansion.json](./320038-mindbreak-mansion.json) |
 | Mindbug Online | 261577 | [261577-mindbug-online.json](./261577-mindbug-online.json) |
@@ -16159,6 +16162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monumental Failure | 29940 | [29940-monumental-failure.json](./29940-monumental-failure.json) |
 | Monuments | 308069 | [308069-monuments.json](./308069-monuments.json) |
 | Monuments Flipper | 132741 | [132741-monuments-flipper.json](./132741-monuments-flipper.json) |
+| Monuments of Mars | 257150 | [257150-monuments-of-mars.json](./257150-monuments-of-mars.json) |
 | Monuments of Mars | 35550 | [35550-monuments-of-mars.json](./35550-monuments-of-mars.json) |
 | Monuments of Mars 2 | 300404 | [300404-monuments-of-mars-2.json](./300404-monuments-of-mars-2.json) |
 | Monuments Renovator | 417314 | [417314-monuments-renovator.json](./417314-monuments-renovator.json) |
@@ -16595,6 +16599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morbid | 219628 | [219628-morbid.json](./219628-morbid.json) |
 | Morbid | 386306 | [386306-morbid.json](./386306-morbid.json) |
 | Morbid 2 | 386309 | [386309-morbid-2.json](./386309-morbid-2.json) |
+| Morbid Autumn | 257167 | [257167-morbid-autumn.json](./257167-morbid-autumn.json) |
 | Morbid Catastrophe | 248313 | [248313-morbid-catastrophe.json](./248313-morbid-catastrophe.json) |
 | Morbid Inhale | 173000 | [173000-morbid-inhale.json](./173000-morbid-inhale.json) |
 | Morbid Land | 62826 | [62826-morbid-land.json](./62826-morbid-land.json) |
@@ -17465,6 +17470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush Reborn | 302969 | [302969-moto-rush-reborn.json](./302969-moto-rush-reborn.json) |
 | Moto Trial Turbo | 402674 | [402674-moto-trial-turbo.json](./402674-moto-trial-turbo.json) |
 | Moto Trophy VR | 226147 | [226147-moto-trophy-vr.json](./226147-moto-trophy-vr.json) |
+| Moto Vlog Brasil | 257137 | [257137-moto-vlog-brasil.json](./257137-moto-vlog-brasil.json) |
 | Moto VR | 86629 | [86629-moto-vr.json](./86629-moto-vr.json) |
 | Moto Wheelie | 257469 | [257469-moto-wheelie.json](./257469-moto-wheelie.json) |
 | Moto X | 279698 | [279698-moto-x.json](./279698-moto-x.json) |
