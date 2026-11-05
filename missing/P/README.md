@@ -1084,6 +1084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda Run | 55267 | [55267-panda-run.json](./55267-panda-run.json) |
 | Panda vs Lightning | 98796 | [98796-panda-vs-lightning.json](./98796-panda-vs-lightning.json) |
 | Panda vs. Bugs | 196555 | [196555-panda-vs-bugs.json](./196555-panda-vs-bugs.json) |
+| Panda: Eats, Shoots and Leaves | 295519 | [295519-panda-eats-shoots-and-leaves.json](./295519-panda-eats-shoots-and-leaves.json) |
 | Panda: Go Home! | 389760 | [389760-panda-go-home.json](./389760-panda-go-home.json) |
 | Panda? | 287715 | [287715-panda.json](./287715-panda.json) |
 | Panda's Village | 241886 | [241886-pandas-village.json](./241886-pandas-village.json) |
@@ -2019,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parallels | 274017 | [274017-parallels.json](./274017-parallels.json) |
 | Parallels | 34181 | [34181-parallels.json](./34181-parallels.json) |
 | Parallels Cross | 33170 | [33170-parallels-cross.json](./33170-parallels-cross.json) |
+| Parallels: Year One | 295578 | [295578-parallels-year-one.json](./295578-parallels-year-one.json) |
 | ParallHex | 326048 | [326048-parallhex.json](./326048-parallhex.json) |
 | Parallyzed | 28201 | [28201-parallyzed.json](./28201-parallyzed.json) |
 | Paralysi | 273999 | [273999-paralysi.json](./273999-paralysi.json) |
@@ -3482,6 +3484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Pool Challenges | 93464 | [93464-pc-pool-challenges.json](./93464-pc-pool-challenges.json) |
 | PC Reciclator | 145894 | [145894-pc-reciclator.json](./145894-pc-reciclator.json) |
 | PC Selección Española de Fútbol Eurocopa '96 | 84224 | [84224-pc-seleccion-espanola-de-futbol-eurocopa-96.json](./84224-pc-seleccion-espanola-de-futbol-eurocopa-96.json) |
+| PC Simulator | 295436 | [295436-pc-simulator.json](./295436-pc-simulator.json) |
 | PC Store Simulator | 346167 | [346167-pc-store-simulator.json](./346167-pc-store-simulator.json) |
 | PC Tycoon 2 | 293047 | [293047-pc-tycoon-2.json](./293047-pc-tycoon-2.json) |
 | PC Versus | 391571 | [391571-pc-versus.json](./391571-pc-versus.json) |
@@ -11797,6 +11800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polygon Fantasy | 193813 | [193813-polygon-fantasy.json](./193813-polygon-fantasy.json) |
 | Polygon Fantasy Battle Simulator | 270007 | [270007-polygon-fantasy-battle-simulator.json](./270007-polygon-fantasy-battle-simulator.json) |
 | Polygon Flight | 89572 | [89572-polygon-flight.json](./89572-polygon-flight.json) |
+| Polygon Hell 4D | 295575 | [295575-polygon-hell-4d.json](./295575-polygon-hell-4d.json) |
 | Polygon Hunter | 154745 | [154745-polygon-hunter.json](./154745-polygon-hunter.json) |
 | Polygon Hunter VR | 186843 | [186843-polygon-hunter-vr.json](./186843-polygon-hunter-vr.json) |
 | Polygon Mayhem | 411736 | [411736-polygon-mayhem.json](./411736-polygon-mayhem.json) |
@@ -15117,6 +15121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project 24/36 | 175040 | [175040-project-24-36.json](./175040-project-24-36.json) |
 | Project 3 VR | 98586 | [98586-project-3-vr.json](./98586-project-3-vr.json) |
 | Project 37 | 110224 | [110224-project-37.json](./110224-project-37.json) |
+| Project 37 | 295449 | [295449-project-37.json](./295449-project-37.json) |
 | Project 38 | 324261 | [324261-project-38.json](./324261-project-38.json) |
 | Project 44: Enlightenment | 220657 | [220657-project-44-enlightenment.json](./220657-project-44-enlightenment.json) |
 | Project 5: Sightseer | 76122 | [76122-project-5-sightseer.json](./76122-project-5-sightseer.json) |
@@ -18230,6 +18235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzznic | 307912 | [307912-puzznic.json](./307912-puzznic.json) |
 | PuzzPower | 85984 | [85984-puzzpower.json](./85984-puzzpower.json) |
 | Puzzrama | 152918 | [152918-puzzrama.json](./152918-puzzrama.json) |
+| PuzzSinker | 295430 | [295430-puzzsinker.json](./295430-puzzsinker.json) |
 | PuzzSinker. | 82579 | [82579-puzzsinker.json](./82579-puzzsinker.json) |
 | Puzzsoft’s Cooleidoscope | 316050 | [316050-puzzsoft-s-cooleidoscope.json](./316050-puzzsoft-s-cooleidoscope.json) |
 | Puzzwords | 91908 | [91908-puzzwords.json](./91908-puzzwords.json) |
