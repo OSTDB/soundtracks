@@ -3214,6 +3214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maouisho: La Dolce Vita with Another World's Demon Lord | 279988 | [279988-maouisho-la-dolce-vita-with-another-worlds-demon-lord.json](./279988-maouisho-la-dolce-vita-with-another-worlds-demon-lord.json) |
 | Màoxiǎn Shíguāngjī | 148779 | [148779-maoxian-shiguangji.json](./148779-maoxian-shiguangji.json) |
 | Màoxiǎn Xiǎofēnduì | 370228 | [370228-maoxian-xiaofendui.json](./370228-maoxian-xiaofendui.json) |
+| Map | 254820 | [254820-map.json](./254820-map.json) |
 | Map | 78419 | [78419-map.json](./78419-map.json) |
 | Map Game: Or Something | 149905 | [149905-map-game-or-something.json](./149905-map-game-or-something.json) |
 | Map Hopper | 180682 | [180682-map-hopper.json](./180682-map-hopper.json) |
@@ -5832,6 +5833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -7604,6 +7606,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Battle Network Chrono X | 137585 | [137585-mega-man-battle-network-chrono-x.json](./137585-mega-man-battle-network-chrono-x.json) |
 | Mega Man Battle Network Legacy Collection | 206810 | [206810-mega-man-battle-network-legacy-collection.json](./206810-mega-man-battle-network-legacy-collection.json) |
 | Mega Man Battle Network Legacy Collection Vol. 1 | 206844 | [206844-mega-man-battle-network-legacy-collection-vol-1.json](./206844-mega-man-battle-network-legacy-collection-vol-1.json) |
+| Mega Man Battle Network Legacy Collection Vol. 1: Custom Pet Pack Vol. 1 | 254837 | [254837-mega-man-battle-network-legacy-collection-vol-1-custom-pet-pack-vol-1.json](./254837-mega-man-battle-network-legacy-collection-vol-1-custom-pet-pack-vol-1.json) |
+| Mega Man Battle Network Legacy Collection Vol. 2: Custom Pet Pack Vol. 2 | 254838 | [254838-mega-man-battle-network-legacy-collection-vol-2-custom-pet-pack-vol-2.json](./254838-mega-man-battle-network-legacy-collection-vol-2-custom-pet-pack-vol-2.json) |
 | Mega Man Battle Network Mashup | 417326 | [417326-mega-man-battle-network-mashup.json](./417326-mega-man-battle-network-mashup.json) |
 | Mega Man CD: Rock Version | 323330 | [323330-mega-man-cd-rock-version.json](./323330-mega-man-cd-rock-version.json) |
 | Mega Man Christmas Carol 2 | 209265 | [209265-mega-man-christmas-carol-2.json](./209265-mega-man-christmas-carol-2.json) |
@@ -8628,6 +8632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories of a Broken Dimension | 137569 | [137569-memories-of-a-broken-dimension.json](./137569-memories-of-a-broken-dimension.json) |
 | Memories of a Forgotten Home | 378151 | [378151-memories-of-a-forgotten-home.json](./378151-memories-of-a-forgotten-home.json) |
 | Memories of a Hedgehog | 316931 | [316931-memories-of-a-hedgehog.json](./316931-memories-of-a-hedgehog.json) |
+| Memories of a Spy | 254868 | [254868-memories-of-a-spy.json](./254868-memories-of-a-spy.json) |
 | Memories of a Vagabond | 17534 | [17534-memories-of-a-vagabond.json](./17534-memories-of-a-vagabond.json) |
 | Memories of Bust | 303796 | [303796-memories-of-bust.json](./303796-memories-of-bust.json) |
 | Memories of Castlemouse | 346793 | [346793-memories-of-castlemouse.json](./346793-memories-of-castlemouse.json) |
@@ -9569,6 +9574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid HD Edition - Premium Package | 298015 | [298015-metal-gear-solid-hd-edition-premium-package.json](./298015-metal-gear-solid-hd-edition-premium-package.json) |
 | Metal Gear Solid HD Edition: 2 & 3 | 136811 | [136811-metal-gear-solid-hd-edition-2-and-3.json](./136811-metal-gear-solid-hd-edition-2-and-3.json) |
 | Metal Gear Solid Master Collection: Volume 1 | 250635 | [250635-metal-gear-solid-master-collection-volume-1.json](./250635-metal-gear-solid-master-collection-volume-1.json) |
+| Metal Gear Solid Master Collection: Volume 1 - Bonus Content | 254856 | [254856-metal-gear-solid-master-collection-volume-1-bonus-content.json](./254856-metal-gear-solid-master-collection-volume-1-bonus-content.json) |
 | Metal Gear Solid Master Collection: Volume 1 - Day One Edition | 274056 | [274056-metal-gear-solid-master-collection-volume-1-day-one-edition.json](./274056-metal-gear-solid-master-collection-volume-1-day-one-edition.json) |
 | Metal Gear Solid Master Collection: Volume 2 | 389433 | [389433-metal-gear-solid-master-collection-volume-2.json](./389433-metal-gear-solid-master-collection-volume-2.json) |
 | Metal Gear Solid Touch | 12212 | [12212-metal-gear-solid-touch.json](./12212-metal-gear-solid-touch.json) |
@@ -12133,6 +12139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Deluxe Collection DLC | 228890 | [228890-minecraft-deluxe-collection-dlc.json](./228890-minecraft-deluxe-collection-dlc.json) |
 | Minecraft: Deluxe Collection for PC | 350618 | [350618-minecraft-deluxe-collection-for-pc.json](./350618-minecraft-deluxe-collection-for-pc.json) |
 | Minecraft: Disney - Worlds of Adventure | 262539 | [262539-minecraft-disney-worlds-of-adventure.json](./262539-minecraft-disney-worlds-of-adventure.json) |
+| Minecraft: Doctor Who Skin Pack - Volume I | 254829 | [254829-minecraft-doctor-who-skin-pack-volume-i.json](./254829-minecraft-doctor-who-skin-pack-volume-i.json) |
 | Minecraft: Doctor Who Skin Pack Volume 2 | 254876 | [254876-minecraft-doctor-who-skin-pack-volume-2.json](./254876-minecraft-doctor-who-skin-pack-volume-2.json) |
 | Minecraft: Dragonborn Mash-up | 233961 | [233961-minecraft-dragonborn-mash-up.json](./233961-minecraft-dragonborn-mash-up.json) |
 | Minecraft: DuckTales | 254079 | [254079-minecraft-ducktales.json](./254079-minecraft-ducktales.json) |
@@ -12168,6 +12175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Lightyear | 254263 | [254263-minecraft-lightyear.json](./254263-minecraft-lightyear.json) |
 | Minecraft: LittleBigPlanet Edition | 234238 | [234238-minecraft-littlebigplanet-edition.json](./234238-minecraft-littlebigplanet-edition.json) |
 | MInecraft: Marvel Avengers Skin Pack | 254877 | [254877-minecraft-marvel-avengers-skin-pack.json](./254877-minecraft-marvel-avengers-skin-pack.json) |
+| Minecraft: Marvel's Guardians of the Galaxy Skin Pack | 254827 | [254827-minecraft-marvels-guardians-of-the-galaxy-skin-pack.json](./254827-minecraft-marvels-guardians-of-the-galaxy-skin-pack.json) |
 | Minecraft: Master Chief Mash-up | 233695 | [233695-minecraft-master-chief-mash-up.json](./233695-minecraft-master-chief-mash-up.json) |
 | Minecraft: Mega Man X | 239210 | [239210-minecraft-mega-man-x.json](./239210-minecraft-mega-man-x.json) |
 | Minecraft: Minecon 2015 Skin Pack | 301522 | [301522-minecraft-minecon-2015-skin-pack.json](./301522-minecraft-minecon-2015-skin-pack.json) |
@@ -12242,6 +12250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: The Garden Awakens | 324644 | [324644-minecraft-the-garden-awakens.json](./324644-minecraft-the-garden-awakens.json) |
 | Minecraft: The Incredibles | 253711 | [253711-minecraft-the-incredibles.json](./253711-minecraft-the-incredibles.json) |
 | Minecraft: The Nightmare Before Christmas Mash-up | 235332 | [235332-minecraft-the-nightmare-before-christmas-mash-up.json](./235332-minecraft-the-nightmare-before-christmas-mash-up.json) |
+| Minecraft: The Simpsons Skin Pack | 254825 | [254825-minecraft-the-simpsons-skin-pack.json](./254825-minecraft-the-simpsons-skin-pack.json) |
 | Minecraft: The Theme Park | 316747 | [316747-minecraft-the-theme-park.json](./316747-minecraft-the-theme-park.json) |
 | Minecraft: The Traveling Trader | 322955 | [322955-minecraft-the-traveling-trader.json](./322955-minecraft-the-traveling-trader.json) |
 | Minecraft: The Wild Update | 222612 | [222612-minecraft-the-wild-update.json](./222612-minecraft-the-wild-update.json) |
@@ -12270,6 +12279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: World of Color Update | 221878 | [221878-minecraft-world-of-color-update.json](./221878-minecraft-world-of-color-update.json) |
 | Minecraft: Wukong Uproar In Heaven | 332582 | [332582-minecraft-wukong-uproar-in-heaven.json](./332582-minecraft-wukong-uproar-in-heaven.json) |
 | Minecraft: Xbox 360 Edition | 94029 | [94029-minecraft-xbox-360-edition.json](./94029-minecraft-xbox-360-edition.json) |
+| Minecraft: Xbox Edition - Skin Pack 1 | 254823 | [254823-minecraft-xbox-edition-skin-pack-1.json](./254823-minecraft-xbox-edition-skin-pack-1.json) |
 | Minecraft: Xbox One Edition | 94752 | [94752-minecraft-xbox-one-edition.json](./94752-minecraft-xbox-one-edition.json) |
 | Minecraft: Young Gru | 320257 | [320257-minecraft-young-gru.json](./320257-minecraft-young-gru.json) |
 | MinecraftEdu | 337206 | [337206-minecraftedu.json](./337206-minecraftedu.json) |
@@ -15811,7 +15821,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Race Okawari | 61173 | [61173-monster-race-okawari.json](./61173-monster-race-okawari.json) |
 | Monster Racer | 20466 | [20466-monster-racer.json](./20466-monster-racer.json) |
 | Monster Racers | 72742 | [72742-monster-racers.json](./72742-monster-racers.json) |
+| Monster Racing League: Ignition Premium Pass | 254836 | [254836-monster-racing-league-ignition-premium-pass.json](./254836-monster-racing-league-ignition-premium-pass.json) |
+| Monster Racing League: Medieval Cosmetics Pack | 254833 | [254833-monster-racing-league-medieval-cosmetics-pack.json](./254833-monster-racing-league-medieval-cosmetics-pack.json) |
+| Monster Racing League: Mythology Cosmetics Pack | 254834 | [254834-monster-racing-league-mythology-cosmetics-pack.json](./254834-monster-racing-league-mythology-cosmetics-pack.json) |
 | Monster Racing League: Phoenix Cosmetics Pack | 270985 | [270985-monster-racing-league-phoenix-cosmetics-pack.json](./270985-monster-racing-league-phoenix-cosmetics-pack.json) |
+| Monster Racing League: Shogun Cosmetics Pack | 254835 | [254835-monster-racing-league-shogun-cosmetics-pack.json](./254835-monster-racing-league-shogun-cosmetics-pack.json) |
 | Monster Radar | 94189 | [94189-monster-radar.json](./94189-monster-radar.json) |
 | Monster Radar Plus | 148202 | [148202-monster-radar-plus.json](./148202-monster-radar-plus.json) |
 | Monster Rain | 110226 | [110226-monster-rain.json](./110226-monster-rain.json) |
