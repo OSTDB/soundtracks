@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Occult Cleanup Agency | 420488 | [420488-occult-cleanup-agency.json](./420488-occult-cleanup-agency.json) |
 | Occult Crime Police | 178899 | [178899-occult-crime-police.json](./178899-occult-crime-police.json) |
 | Occult Maiden | 59011 | [59011-occult-maiden.json](./59011-occult-maiden.json) |
+| Occult Mingle | 290193 | [290193-occult-mingle.json](./290193-occult-mingle.json) |
 | Occult Office: Lofi Rituals | 381517 | [381517-occult-office-lofi-rituals.json](./381517-occult-office-lofi-rituals.json) |
 | Occult PreRaise | 74980 | [74980-occult-preraise.json](./74980-occult-preraise.json) |
 | Occult Raise | 43110 | [43110-occult-raise.json](./43110-occult-raise.json) |
@@ -1528,6 +1529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olimpiadas 92: Gimnasia Deportiva | 111310 | [111310-olimpiadas-92-gimnasia-deportiva.json](./111310-olimpiadas-92-gimnasia-deportiva.json) |
 | Olin in Emerald: Kingdom of Myrrh | 73069 | [73069-olin-in-emerald-kingdom-of-myrrh.json](./73069-olin-in-emerald-kingdom-of-myrrh.json) |
 | Olinda Fighters | 415941 | [415941-olinda-fighters.json](./415941-olinda-fighters.json) |
+| Olive | 290134 | [290134-olive.json](./290134-olive.json) |
 | Olive Raiders | 383535 | [383535-olive-raiders.json](./383535-olive-raiders.json) |
 | Olive's Art-Venture | 266049 | [266049-olives-art-venture.json](./266049-olives-art-venture.json) |
 | Oliver & Spike: Dimension Jumpers | 63894 | [63894-oliver-and-spike-dimension-jumpers.json](./63894-oliver-and-spike-dimension-jumpers.json) |
