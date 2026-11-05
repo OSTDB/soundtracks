@@ -7841,6 +7841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alundra 2: A New Legend Begins | 1176 | [1176-alundra-2-a-new-legend-begins.json](./1176-alundra-2-a-new-legend-begins.json) |
 | Alurwe: Ein Spaziergang durch Alt-Urfahr West | 117423 | [117423-alurwe-ein-spaziergang-durch-alt-urfahr-west.json](./117423-alurwe-ein-spaziergang-durch-alt-urfahr-west.json) |
 | Alvaleak Boukenki | 295941 | [295941-alvaleak-boukenki.json](./295941-alvaleak-boukenki.json) |
+| Alvara | 261579 | [261579-alvara.json](./261579-alvara.json) |
 | Alvarok | 74958 | [74958-alvarok.json](./74958-alvarok.json) |
 | Alvastia Chronicles | 113623 | [113623-alvastia-chronicles.json](./113623-alvastia-chronicles.json) |
 | Alveari | 32509 | [32509-alveari.json](./32509-alveari.json) |
@@ -12458,6 +12459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Dungeon | 215525 | [215525-arcade-dungeon.json](./215525-arcade-dungeon.json) |
 | Arcade Empire Tycoon | 356341 | [356341-arcade-empire-tycoon.json](./356341-arcade-empire-tycoon.json) |
 | Arcade Essentials | 51094 | [51094-arcade-essentials.json](./51094-arcade-essentials.json) |
+| Arcade FC | 261576 | [261576-arcade-fc.json](./261576-arcade-fc.json) |
 | Arcade Fishing | 248242 | [248242-arcade-fishing.json](./248242-arcade-fishing.json) |
 | Arcade Flight | 203529 | [203529-arcade-flight.json](./203529-arcade-flight.json) |
 | Arcade Force Four | 94416 | [94416-arcade-force-four.json](./94416-arcade-force-four.json) |
@@ -16350,6 +16352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
