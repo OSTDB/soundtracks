@@ -5249,6 +5249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Semester Begins! Xiaomi | 173385 | [173385-semester-begins-xiaomi.json](./173385-semester-begins-xiaomi.json) |
 | Semi-Sweet Tofu | 96904 | [96904-semi-sweet-tofu.json](./96904-semi-sweet-tofu.json) |
 | Semiaquatic Circus | 255451 | [255451-semiaquatic-circus.json](./255451-semiaquatic-circus.json) |
+| Semicolon Island | 253679 | [253679-semicolon-island.json](./253679-semicolon-island.json) |
 | Semiramis no Tenbin | 60257 | [60257-semiramis-no-tenbin.json](./60257-semiramis-no-tenbin.json) |
 | Semispheres | 17990 | [17990-semispheres.json](./17990-semispheres.json) |
 | Semispheres: Blue Cover Limited Edition | 167034 | [167034-semispheres-blue-cover-limited-edition.json](./167034-semispheres-blue-cover-limited-edition.json) |
@@ -13964,6 +13965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Demon | 280107 | [280107-small-demon.json](./280107-small-demon.json) |
 | Small Dragon Big Appetite | 340360 | [340360-small-dragon-big-appetite.json](./340360-small-dragon-big-appetite.json) |
 | Small Hero Survive | 301624 | [301624-small-hero-survive.json](./301624-small-hero-survive.json) |
+| Small House | 253670 | [253670-small-house.json](./253670-small-house.json) |
 | Small Iron | 156897 | [156897-small-iron.json](./156897-small-iron.json) |
 | Small Islands | 176339 | [176339-small-islands.json](./176339-small-islands.json) |
 | Small Kingdoms | 262959 | [262959-small-kingdoms.json](./262959-small-kingdoms.json) |
@@ -16510,6 +16512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solo Flight | 289550 | [289550-solo-flight.json](./289550-solo-flight.json) |
 | Solo Fox | 143369 | [143369-solo-fox.json](./143369-solo-fox.json) |
 | Solo Hunt: Ten Floor | 247926 | [247926-solo-hunt-ten-floor.json](./247926-solo-hunt-ten-floor.json) |
+| Solo Joe | 253684 | [253684-solo-joe.json](./253684-solo-joe.json) |
 | Solo King: Single Player - Texas Hold'em Poker | 130130 | [130130-solo-king-single-player-texas-holdem-poker.json](./130130-solo-king-single-player-texas-holdem-poker.json) |
 | Solo Leveling: Arise | 188574 | [188574-solo-leveling-arise.json](./188574-solo-leveling-arise.json) |
 | Solo Leveling: Arise Overdrive | 349302 | [349302-solo-leveling-arise-overdrive.json](./349302-solo-leveling-arise-overdrive.json) |
@@ -27308,6 +27311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stratoscape | 126944 | [126944-stratoscape.json](./126944-stratoscape.json) |
 | Stratoskirmish | 234582 | [234582-stratoskirmish.json](./234582-stratoskirmish.json) |
 | Stratosphere Defense | 197856 | [197856-stratosphere-defense.json](./197856-stratosphere-defense.json) |
+| Stratosphere Fight | 253702 | [253702-stratosphere-fight.json](./253702-stratosphere-fight.json) |
 | Stratosphere: Conquest of the Skies | 25879 | [25879-stratosphere-conquest-of-the-skies.json](./25879-stratosphere-conquest-of-the-skies.json) |
 | Stratospheric Domain | 268887 | [268887-stratospheric-domain.json](./268887-stratospheric-domain.json) |
 | Stratovox | 39406 | [39406-stratovox.json](./39406-stratovox.json) |
