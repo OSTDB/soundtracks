@@ -1144,6 +1144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh My God, Look At This Knight | 76640 | [76640-oh-my-god-look-at-this-knight.json](./76640-oh-my-god-look-at-this-knight.json) |
 | Oh My God! | 64130 | [64130-oh-my-god.json](./64130-oh-my-god.json) |
 | Oh My God! Crush! | 298418 | [298418-oh-my-god-crush.json](./298418-oh-my-god-crush.json) |
+| Oh My God! It's Joseph Joestar In Subarashii: X-Mas Mode In July | 282969 | [282969-oh-my-god-its-joseph-joestar-in-subarashii-x-mas-mode-in-july.json](./282969-oh-my-god-its-joseph-joestar-in-subarashii-x-mas-mode-in-july.json) |
 | Oh My Goddess! | 385903 | [385903-oh-my-goddess.json](./385903-oh-my-goddess.json) |
 | Oh My Godheads: Party Edition | 110799 | [110799-oh-my-godheads-party-edition.json](./110799-oh-my-godheads-party-edition.json) |
 | Oh My Gore! | 36231 | [36231-oh-my-gore.json](./36231-oh-my-gore.json) |
