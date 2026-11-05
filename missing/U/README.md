@@ -3042,6 +3042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up N' Down | 264198 | [264198-up-n-down.json](./264198-up-n-down.json) |
 | Up on the Rooftop | 130235 | [130235-up-on-the-rooftop.json](./130235-up-on-the-rooftop.json) |
 | Up or Fall | 343243 | [343243-up-or-fall.json](./343243-up-or-fall.json) |
+| Up or Lava! | 262725 | [262725-up-or-lava.json](./262725-up-or-lava.json) |
 | Up or Out | 105317 | [105317-up-or-out.json](./105317-up-or-out.json) |
 | Up Periscope | 138104 | [138104-up-periscope.json](./138104-up-periscope.json) |
 | Up Periscope! | 37160 | [37160-up-periscope.json](./37160-up-periscope.json) |
