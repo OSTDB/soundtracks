@@ -3801,6 +3801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5436,6 +5437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invincible Fins | 157162 | [157162-invincible-fins.json](./157162-invincible-fins.json) |
 | Invincible Iron Man Gagaga-In | 234088 | [234088-invincible-iron-man-gagaga-in.json](./234088-invincible-iron-man-gagaga-in.json) |
 | Invincible Knight | 64261 | [64261-invincible-knight.json](./64261-invincible-knight.json) |
+| Invincible Little Warrior | 247255 | [247255-invincible-little-warrior.json](./247255-invincible-little-warrior.json) |
 | Invincible Medusa | 231359 | [231359-invincible-medusa.json](./231359-invincible-medusa.json) |
 | Invincible Tiger: The Legend of Han Tao | 15937 | [15937-invincible-tiger-the-legend-of-han-tao.json](./15937-invincible-tiger-the-legend-of-han-tao.json) |
 | Invincible Vs: Undercover and Overdressed - Skin Bundle | 411382 | [411382-invincible-vs-undercover-and-overdressed-skin-bundle.json](./411382-invincible-vs-undercover-and-overdressed-skin-bundle.json) |
@@ -6057,6 +6059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isla Sinaloa | 212838 | [212838-isla-sinaloa.json](./212838-isla-sinaloa.json) |
 | ISLA test | 123573 | [123573-isla-test.json](./123573-isla-test.json) |
 | Islamic Fun | 318628 | [318628-islamic-fun.json](./318628-islamic-fun.json) |
+| Island | 247281 | [247281-island.json](./247281-island.json) |
 | Island | 260380 | [260380-island.json](./260380-island.json) |
 | Island | 346060 | [346060-island.json](./346060-island.json) |
 | Island | 58194 | [58194-island.json](./58194-island.json) |
