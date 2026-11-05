@@ -3026,7 +3026,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Webfishing | 319271 | [319271-webfishing.json](./319271-webfishing.json) |
 | Webgeon Speedrun Edition | 213393 | [213393-webgeon-speedrun-edition.json](./213393-webgeon-speedrun-edition.json) |
 | Webkinz Classic | 137951 | [137951-webkinz-classic.json](./137951-webkinz-classic.json) |
+| Webkinz Friends | 246163 | [246163-webkinz-friends.json](./246163-webkinz-friends.json) |
 | Webkinz Jr. | 318830 | [318830-webkinz-jr.json](./318830-webkinz-jr.json) |
+| Webkinz Next | 246158 | [246158-webkinz-next.json](./246158-webkinz-next.json) |
 | Webmaster - Fantastic Adventures in the World of the Internet | 127121 | [127121-webmaster-fantastic-adventures-in-the-world-of-the-internet.json](./127121-webmaster-fantastic-adventures-in-the-world-of-the-internet.json) |
 | Webosaurs | 245971 | [245971-webosaurs.json](./245971-webosaurs.json) |
 | WebRiot | 79889 | [79889-webriot.json](./79889-webriot.json) |
@@ -6227,6 +6229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Machine | 398023 | [398023-witch-machine.json](./398023-witch-machine.json) |
 | Witch Machine: Spilled Vessel | 398025 | [398025-witch-machine-spilled-vessel.json](./398025-witch-machine-spilled-vessel.json) |
 | Witch Maker | 334321 | [334321-witch-maker.json](./334321-witch-maker.json) |
+| Witch Market | 246152 | [246152-witch-market.json](./246152-witch-market.json) |
 | Witch n' Wiz | 179670 | [179670-witch-n-wiz.json](./179670-witch-n-wiz.json) |
 | Witch of Eclipse | 349735 | [349735-witch-of-eclipse.json](./349735-witch-of-eclipse.json) |
 | Witch of Ice Kingdom Collection | 52134 | [52134-witch-of-ice-kingdom-collection.json](./52134-witch-of-ice-kingdom-collection.json) |
