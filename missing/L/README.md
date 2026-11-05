@@ -8666,6 +8666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Option | 228598 | [228598-love-option.json](./228598-love-option.json) |
 | Love or Die | 124041 | [124041-love-or-die.json](./124041-love-or-die.json) |
 | Love or Loved | 83592 | [83592-love-or-loved.json](./83592-love-or-loved.json) |
+| Love or Money? | 255436 | [255436-love-or-money.json](./255436-love-or-money.json) |
 | Love or Passion | 254317 | [254317-love-or-passion.json](./254317-love-or-passion.json) |
 | Love Pandemonium | 284173 | [284173-love-pandemonium.json](./284173-love-pandemonium.json) |
 | Love Pheromone | 205609 | [205609-love-pheromone.json](./205609-love-pheromone.json) |
