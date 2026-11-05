@@ -3995,6 +3995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis | 217741 | [217741-tennis.json](./217741-tennis.json) |
 | Tennis | 217967 | [217967-tennis.json](./217967-tennis.json) |
 | Tennis | 234091 | [234091-tennis.json](./234091-tennis.json) |
+| Tennis | 246169 | [246169-tennis.json](./246169-tennis.json) |
 | Tennis | 247000 | [247000-tennis.json](./247000-tennis.json) |
 | Tennis | 295670 | [295670-tennis.json](./295670-tennis.json) |
 | Tennis | 345759 | [345759-tennis.json](./345759-tennis.json) |
@@ -4488,6 +4489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrain Defender | 402381 | [402381-terrain-defender.json](./402381-terrain-defender.json) |
 | Terrain of Magical Expertise | 72762 | [72762-terrain-of-magical-expertise.json](./72762-terrain-of-magical-expertise.json) |
 | TerraKids: Save The World Kidos! | 285425 | [285425-terrakids-save-the-world-kidos.json](./285425-terrakids-save-the-world-kidos.json) |
+| Terralith | 246188 | [246188-terralith.json](./246188-terralith.json) |
 | Terralora | 260614 | [260614-terralora.json](./260614-terralora.json) |
 | TerraLounge | 418912 | [418912-terralounge.json](./418912-terralounge.json) |
 | Terralysia | 284591 | [284591-terralysia.json](./284591-terralysia.json) |
@@ -26029,6 +26031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Iyuushou: What the Bullet Hell?! | 351102 | [351102-touhou-iyuushou-what-the-bullet-hell.json](./351102-touhou-iyuushou-what-the-bullet-hell.json) |
 | Touhou Jaseishou: The Last Comer | 246672 | [246672-touhou-jaseishou-the-last-comer.json](./246672-touhou-jaseishou-the-last-comer.json) |
 | Touhou JRPG | 213172 | [213172-touhou-jrpg.json](./213172-touhou-jrpg.json) |
+| Touhou Juuouen: Unfinished Dream of All Living Ghost. | 246194 | [246194-touhou-juuouen-unfinished-dream-of-all-living-ghost.json](./246194-touhou-juuouen-unfinished-dream-of-all-living-ghost.json) |
 | Touhou Kaeizuka: Phantasmagoria of Flower View | 27156 | [27156-touhou-kaeizuka-phantasmagoria-of-flower-view.json](./27156-touhou-kaeizuka-phantasmagoria-of-flower-view.json) |
 | Touhou Kaikeidou: Marine Benefit | 280171 | [280171-touhou-kaikeidou-marine-benefit.json](./280171-touhou-kaikeidou-marine-benefit.json) |
 | Touhou Kaikidan: Mystic Square | 45963 | [45963-touhou-kaikidan-mystic-square.json](./45963-touhou-kaikidan-mystic-square.json) |
