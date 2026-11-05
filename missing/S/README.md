@@ -2576,6 +2576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scam With Your Friends | 418295 | [418295-scam-with-your-friends.json](./418295-scam-with-your-friends.json) |
 | SCAMP 2025 | 376048 | [376048-scamp-2025.json](./376048-scamp-2025.json) |
 | Scamp: High Hat Havoc | 112695 | [112695-scamp-high-hat-havoc.json](./112695-scamp-high-hat-havoc.json) |
+| Scamper | 258259 | [258259-scamper.json](./258259-scamper.json) |
 | Scamperghost | 62241 | [62241-scamperghost.json](./62241-scamperghost.json) |
 | Scampr | 152788 | [152788-scampr.json](./152788-scampr.json) |
 | Scamster Kombat | 366931 | [366931-scamster-kombat.json](./366931-scamster-kombat.json) |
@@ -4100,6 +4101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seafrog | 215796 | [215796-seafrog.json](./215796-seafrog.json) |
 | Seagazer | 417937 | [417937-seagazer.json](./417937-seagazer.json) |
 | Seaglass | 225763 | [225763-seaglass.json](./225763-seaglass.json) |
+| Seagull Kart Racing | 258240 | [258240-seagull-kart-racing.json](./258240-seagull-kart-racing.json) |
 | Seagulls: Crappy Situation | 290755 | [290755-seagulls-crappy-situation.json](./290755-seagulls-crappy-situation.json) |
 | Seahaven Towers Solitaire | 83465 | [83465-seahaven-towers-solitaire.json](./83465-seahaven-towers-solitaire.json) |
 | Seal Breaker | 181202 | [181202-seal-breaker.json](./181202-seal-breaker.json) |
@@ -4211,6 +4213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search of Galaxy | 192006 | [192006-search-of-galaxy.json](./192006-search-of-galaxy.json) |
 | Search of the Stolen Crown Jewels | 143048 | [143048-search-of-the-stolen-crown-jewels.json](./143048-search-of-the-stolen-crown-jewels.json) |
 | Search Party: Director's Cut | 171004 | [171004-search-party-directors-cut.json](./171004-search-party-directors-cut.json) |
+| Searchbar Detective | 258287 | [258287-searchbar-detective.json](./258287-searchbar-detective.json) |
 | Searching | 292389 | [292389-searching.json](./292389-searching.json) |
 | Searching for Objects in the Forest | 173268 | [173268-searching-for-objects-in-the-forest.json](./173268-searching-for-objects-in-the-forest.json) |
 | Searching For Rest | 244364 | [244364-searching-for-rest.json](./244364-searching-for-rest.json) |
@@ -7509,6 +7512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Planet | 17510 | [17510-shattered-planet.json](./17510-shattered-planet.json) |
 | Shattered Realm Rebirth | 390666 | [390666-shattered-realm-rebirth.json](./390666-shattered-realm-rebirth.json) |
 | Shattered Realms | 76210 | [76210-shattered-realms.json](./76210-shattered-realms.json) |
+| Shattered Reflections: The Abyss Within | 258276 | [258276-shattered-reflections-the-abyss-within.json](./258276-shattered-reflections-the-abyss-within.json) |
 | Shattered Runes | 151154 | [151154-shattered-runes.json](./151154-shattered-runes.json) |
 | Shattered Skies | 21601 | [21601-shattered-skies.json](./21601-shattered-skies.json) |
 | Shattered Sky | 244502 | [244502-shattered-sky.json](./244502-shattered-sky.json) |
@@ -11123,6 +11127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SinClient | 82951 | [82951-sinclient.json](./82951-sinclient.json) |
 | Sincognito | 223356 | [223356-sincognito.json](./223356-sincognito.json) |
 | Sindbad Mystery | 6135 | [6135-sindbad-mystery.json](./6135-sindbad-mystery.json) |
+| Sinder Blade | 258248 | [258248-sinder-blade.json](./258248-sinder-blade.json) |
 | Sinderfury | 306089 | [306089-sinderfury.json](./306089-sinderfury.json) |
 | Sindibad - Chitei No Dai Meikyu | 37690 | [37690-sindibad-chitei-no-dai-meikyu.json](./37690-sindibad-chitei-no-dai-meikyu.json) |
 | Sindome | 113464 | [113464-sindome.json](./113464-sindome.json) |
@@ -12353,6 +12358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Goddess Remaking | 235187 | [235187-sky-goddess-remaking.json](./235187-sky-goddess-remaking.json) |
 | Sky Guy Gone AWOL | 381759 | [381759-sky-guy-gone-awol.json](./381759-sky-guy-gone-awol.json) |
 | Sky Harrier: Alpha Code | 189044 | [189044-sky-harrier-alpha-code.json](./189044-sky-harrier-alpha-code.json) |
+| Sky Harvest | 258242 | [258242-sky-harvest.json](./258242-sky-harvest.json) |
 | Sky Haven | 82463 | [82463-sky-haven.json](./82463-sky-haven.json) |
 | Sky Haven: AR Merge Adventure | 236696 | [236696-sky-haven-ar-merge-adventure.json](./236696-sky-haven-ar-merge-adventure.json) |
 | Sky Hawk | 93723 | [93723-sky-hawk.json](./93723-sky-hawk.json) |
@@ -19291,6 +19297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
