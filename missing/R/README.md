@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | R Academy | 84011 | [84011-r-academy.json](./84011-r-academy.json) |
 | R Body Adventure | 272388 | [272388-r-body-adventure.json](./272388-r-body-adventure.json) |
+| R Drive | 292901 | [292901-r-drive.json](./292901-r-drive.json) |
 | R for Revenge | 400364 | [400364-r-for-revenge.json](./400364-r-for-revenge.json) |
 | R is for Rachel | 197134 | [197134-r-is-for-rachel.json](./197134-r-is-for-rachel.json) |
 | R Line After Dark | 179455 | [179455-r-line-after-dark.json](./179455-r-line-after-dark.json) |
@@ -3230,6 +3231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaper of Immortals | 200520 | [200520-reaper-of-immortals.json](./200520-reaper-of-immortals.json) |
 | Reaper Recon | 360639 | [360639-reaper-recon.json](./360639-reaper-recon.json) |
 | Reaper Rules | 331435 | [331435-reaper-rules.json](./331435-reaper-rules.json) |
+| Reaper Survivors | 292908 | [292908-reaper-survivors.json](./292908-reaper-survivors.json) |
 | Reaper: Tale of a Pale Swordsman | 16916 | [16916-reaper-tale-of-a-pale-swordsman.json](./16916-reaper-tale-of-a-pale-swordsman.json) |
 | Reaper's Awakening! | 363896 | [363896-reapers-awakening.json](./363896-reapers-awakening.json) |
 | Reaper's Goodbye | 297559 | [297559-reapers-goodbye.json](./297559-reapers-goodbye.json) |
@@ -7410,6 +7412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rimal Game | 290535 | [290535-rimal-game.json](./290535-rimal-game.json) |
 | Rime | 299319 | [299319-rime.json](./299319-rime.json) |
 | Rime Berta | 17616 | [17616-rime-berta.json](./17616-rime-berta.json) |
+| Rime's Quest | 293015 | [293015-rimes-quest.json](./293015-rimes-quest.json) |
 | Rimebeard | 153974 | [153974-rimebeard.json](./153974-rimebeard.json) |
 | Rimelands: Hammer of Thor | 123404 | [123404-rimelands-hammer-of-thor.json](./123404-rimelands-hammer-of-thor.json) |
 | RimFolk | 335323 | [335323-rimfolk.json](./335323-rimfolk.json) |
@@ -10604,7 +10607,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooftop Renegade | 139449 | [139449-rooftop-renegade.json](./139449-rooftop-renegade.json) |
 | Rooftop Run | 403330 | [403330-rooftop-run.json](./403330-rooftop-run.json) |
 | Rooftop Story | 370717 | [370717-rooftop-story.json](./370717-rooftop-story.json) |
+| Rooftops | 292891 | [292891-rooftops.json](./292891-rooftops.json) |
 | Rooftops & Alleys: The Parkour Game | 279900 | [279900-rooftops-and-alleys-the-parkour-game.json](./279900-rooftops-and-alleys-the-parkour-game.json) |
+| Rooftops 2 | 292892 | [292892-rooftops-2.json](./292892-rooftops-2.json) |
 | Rooftops and Alleys: The Parkour Game - Ninja Pack DLC | 409952 | [409952-rooftops-and-alleys-the-parkour-game-ninja-pack-dlc.json](./409952-rooftops-and-alleys-the-parkour-game-ninja-pack-dlc.json) |
 | Rooftops Jam | 421431 | [421431-rooftops-jam.json](./421431-rooftops-jam.json) |
 | Roogoo | 5128 | [5128-roogoo.json](./5128-roogoo.json) |
