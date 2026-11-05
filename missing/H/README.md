@@ -437,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hal 21 | 25956 | [25956-hal-21.json](./25956-hal-21.json) |
 | HAL Protocol | 352325 | [352325-hal-protocol.json](./352325-hal-protocol.json) |
 | Hal Wrestling | 48993 | [48993-hal-wrestling.json](./48993-hal-wrestling.json) |
+| Hal_4 | 268288 | [268288-hal-4.json](./268288-hal-4.json) |
 | HAL_Ver99 | 285373 | [285373-hal-ver99.json](./285373-hal-ver99.json) |
 | HAL's Hole in One Golf | 3653 | [3653-hals-hole-in-one-golf.json](./3653-hals-hole-in-one-golf.json) |
 | Halaga | 14104 | [14104-halaga.json](./14104-halaga.json) |
@@ -3379,6 +3380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts Lite | 91330 | [91330-hearts-lite.json](./91330-hearts-lite.json) |
 | Hearts N Bones | 290662 | [290662-hearts-n-bones.json](./290662-hearts-n-bones.json) |
 | Hearts of Chaos | 30492 | [30492-hearts-of-chaos.json](./30492-hearts-of-chaos.json) |
+| Hearts of Cold: Redemption | 268286 | [268286-hearts-of-cold-redemption.json](./268286-hearts-of-cold-redemption.json) |
 | Hearts of Demons: Baron | 196029 | [196029-hearts-of-demons-baron.json](./196029-hearts-of-demons-baron.json) |
 | Hearts of Iron | 22227 | [22227-hearts-of-iron.json](./22227-hearts-of-iron.json) |
 | Hearts of Iron 2 Complete | 27833 | [27833-hearts-of-iron-2-complete.json](./27833-hearts-of-iron-2-complete.json) |
@@ -7538,6 +7540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Builder | 150868 | [150868-highway-builder.json](./150868-highway-builder.json) |
 | Highway Bus Rush | 352316 | [352316-highway-bus-rush.json](./352316-highway-bus-rush.json) |
 | Highway Cleaner | 234607 | [234607-highway-cleaner.json](./234607-highway-cleaner.json) |
+| Highway Cleaners | 268285 | [268285-highway-cleaners.json](./268285-highway-cleaners.json) |
 | Highway Cross | 220429 | [220429-highway-cross.json](./220429-highway-cross.json) |
 | Highway Crossing Madruga | 252898 | [252898-highway-crossing-madruga.json](./252898-highway-crossing-madruga.json) |
 | Highway Drifter: Hajwala Simulator | 284927 | [284927-highway-drifter-hajwala-simulator.json](./284927-highway-drifter-hajwala-simulator.json) |
@@ -7861,6 +7864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hindsight 20/20 | 117940 | [117940-hindsight-20-20.json](./117940-hindsight-20-20.json) |
 | Hinedere Beat | 107368 | [107368-hinedere-beat.json](./107368-hinedere-beat.json) |
 | Hinekuremono no Gakuen Seishun Monogatari: Ore to Kanojo no Reversible | 194557 | [194557-hinekuremono-no-gakuen-seishun-monogatari-ore-to-kanojo-no-reversible.json](./194557-hinekuremono-no-gakuen-seishun-monogatari-ore-to-kanojo-no-reversible.json) |
+| Hinge | 268289 | [268289-hinge.json](./268289-hinge.json) |
 | Hinge VR | 141170 | [141170-hinge-vr.json](./141170-hinge-vr.json) |
 | Hinge VR | 161722 | [161722-hinge-vr.json](./161722-hinge-vr.json) |
 | Hinokakera Chaotic Eclipse | 146153 | [146153-hinokakera-chaotic-eclipse.json](./146153-hinokakera-chaotic-eclipse.json) |
@@ -8117,6 +8121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiteneiro: Astronomical Few Minute. | 402702 | [402702-hiteneiro-astronomical-few-minute.json](./402702-hiteneiro-astronomical-few-minute.json) |
 | Hitherto: School of Swordcery and Shieldjuration | 414757 | [414757-hitherto-school-of-swordcery-and-shieldjuration.json](./414757-hitherto-school-of-swordcery-and-shieldjuration.json) |
 | Hitler Hates Anime | 166486 | [166486-hitler-hates-anime.json](./166486-hitler-hates-anime.json) |
+| Hitler is my crash | 268290 | [268290-hitler-is-my-crash.json](./268290-hitler-is-my-crash.json) |
 | Hitler is My Crush: Love and Fascism | 318420 | [318420-hitler-is-my-crush-love-and-fascism.json](./318420-hitler-is-my-crush-love-and-fascism.json) |
 | Hitler Loves Anime | 389767 | [389767-hitler-loves-anime.json](./389767-hitler-loves-anime.json) |
 | Hitler My Friend | 277006 | [277006-hitler-my-friend.json](./277006-hitler-my-friend.json) |
