@@ -6338,6 +6338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SGS NATO's Nightmare | 212166 | [212166-sgs-natos-nightmare.json](./212166-sgs-natos-nightmare.json) |
 | SGS Okinawa | 226628 | [226628-sgs-okinawa.json](./226628-sgs-okinawa.json) |
 | SGS Operation Hawaii | 190398 | [190398-sgs-operation-hawaii.json](./190398-sgs-operation-hawaii.json) |
+| SGS Overlord | 295422 | [295422-sgs-overlord.json](./295422-sgs-overlord.json) |
 | SGS Pacific D-Day | 197415 | [197415-sgs-pacific-d-day.json](./197415-sgs-pacific-d-day.json) |
 | SGS Spain at War | 197187 | [197187-sgs-spain-at-war.json](./197187-sgs-spain-at-war.json) |
 | SGS Taipings | 230923 | [230923-sgs-taipings.json](./230923-sgs-taipings.json) |
@@ -7377,6 +7378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shatter Keep | 146826 | [146826-shatter-keep.json](./146826-shatter-keep.json) |
 | Shatter Knight | 412206 | [412206-shatter-knight.json](./412206-shatter-knight.json) |
 | Shatter Point | 343988 | [343988-shatter-point.json](./343988-shatter-point.json) |
+| Shatter Remastered | 295433 | [295433-shatter-remastered.json](./295433-shatter-remastered.json) |
 | Shatter Remastered Deluxe | 202146 | [202146-shatter-remastered-deluxe.json](./202146-shatter-remastered-deluxe.json) |
 | Shatter Sky | 148676 | [148676-shatter-sky.json](./148676-shatter-sky.json) |
 | Shatter: Physics Breaker | 417453 | [417453-shatter-physics-breaker.json](./417453-shatter-physics-breaker.json) |
@@ -9470,6 +9472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shui's Odyssey | 296312 | [296312-shuis-odyssey.json](./296312-shuis-odyssey.json) |
 | Shuǐhǔ Zhuàn | 138098 | [138098-shuihu-zhuan.json](./138098-shuihu-zhuan.json) |
 | Shuǐhǔ Zhuàn | 78259 | [78259-shuihu-zhuan.json](./78259-shuihu-zhuan.json) |
+| Shuǐhǔ Zhuàn zhī Qúnmó Fēngyún Lù | 295447 | [295447-shuihu-zhuan-zhi-qunmo-fengyun-lu.json](./295447-shuihu-zhuan-zhi-qunmo-fengyun-lu.json) |
 | Shujinkou: Akuma Quests | 366791 | [366791-shujinkou-akuma-quests.json](./366791-shujinkou-akuma-quests.json) |
 | Shujinkou: Deluxe Edition | 368778 | [368778-shujinkou-deluxe-edition.json](./368778-shujinkou-deluxe-edition.json) |
 | Shujinkou: Sabaku Arc | 368786 | [368786-shujinkou-sabaku-arc.json](./368786-shujinkou-sabaku-arc.json) |
@@ -11343,6 +11346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sister Adventure | 123919 | [123919-sister-adventure.json](./123919-sister-adventure.json) |
 | Sister Lace | 385953 | [385953-sister-lace.json](./385953-sister-lace.json) |
 | Sister Lesson | 416016 | [416016-sister-lesson.json](./416016-sister-lesson.json) |
+| Sister Location 8-bit | 295432 | [295432-sister-location-8-bit.json](./295432-sister-location-8-bit.json) |
 | Sister Location: MA | 230756 | [230756-sister-location-ma.json](./230756-sister-location-ma.json) |
 | Sister Love | 97642 | [97642-sister-love.json](./97642-sister-love.json) |
 | Sister Lumina and the Hypnosis Cult | 327395 | [327395-sister-lumina-and-the-hypnosis-cult.json](./327395-sister-lumina-and-the-hypnosis-cult.json) |
@@ -19310,6 +19314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Oddity | 384924 | [384924-space-oddity.json](./384924-space-oddity.json) |
 | Space Oddity 2 | 392732 | [392732-space-oddity-2.json](./392732-space-oddity-2.json) |
 | Space Odyssey | 24829 | [24829-space-odyssey.json](./24829-space-odyssey.json) |
+| Space Odyssey | 295448 | [295448-space-odyssey.json](./295448-space-odyssey.json) |
 | Space of Darkness | 43099 | [43099-space-of-darkness.json](./43099-space-of-darkness.json) |
 | Space of One Drama | 101304 | [101304-space-of-one-drama.json](./101304-space-of-one-drama.json) |
 | Space of Retaliation | 150870 | [150870-space-of-retaliation.json](./150870-space-of-retaliation.json) |
@@ -20295,6 +20300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectral Souls II | 59159 | [59159-spectral-souls-ii.json](./59159-spectral-souls-ii.json) |
 | Spectral Souls: Resurrection of the Ethereal Empires | 44519 | [44519-spectral-souls-resurrection-of-the-ethereal-empires.json](./44519-spectral-souls-resurrection-of-the-ethereal-empires.json) |
 | Spectral Survivor | 307581 | [307581-spectral-survivor.json](./307581-spectral-survivor.json) |
+| Spectral Synergy | 295463 | [295463-spectral-synergy.json](./295463-spectral-synergy.json) |
 | Spectral Tower | 281680 | [281680-spectral-tower.json](./281680-spectral-tower.json) |
 | Spectral Tower II | 281681 | [281681-spectral-tower-ii.json](./281681-spectral-tower-ii.json) |
 | SpectralClimb | 271281 | [271281-spectralclimb.json](./271281-spectralclimb.json) |
@@ -21462,6 +21468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit of War | 10838 | [10838-spirit-of-war.json](./10838-spirit-of-war.json) |
 | Spirit Overflow | 173249 | [173249-spirit-overflow.json](./173249-spirit-overflow.json) |
 | Spirit Parade | 56500 | [56500-spirit-parade.json](./56500-spirit-parade.json) |
+| Spirit Possession | 295517 | [295517-spirit-possession.json](./295517-spirit-possession.json) |
 | Spirit Rancher | 361427 | [361427-spirit-rancher.json](./361427-spirit-rancher.json) |
 | Spirit Realm | 51498 | [51498-spirit-realm.json](./51498-spirit-realm.json) |
 | Spirit Realm Saga | 295336 | [295336-spirit-realm-saga.json](./295336-spirit-realm-saga.json) |
@@ -29605,6 +29612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Airline Tycoon | 346520 | [346520-super-airline-tycoon.json](./346520-super-airline-tycoon.json) |
 | Super Airwolf | 45548 | [45548-super-airwolf.json](./45548-super-airwolf.json) |
 | Super Alabama Beach Mouse | 377600 | [377600-super-alabama-beach-mouse.json](./377600-super-alabama-beach-mouse.json) |
+| Super Aleste | 295441 | [295441-super-aleste.json](./295441-super-aleste.json) |
 | Super Alfred Chicken | 44455 | [44455-super-alfred-chicken.json](./44455-super-alfred-chicken.json) |
 | Super Algator Bros | 417811 | [417811-super-algator-bros.json](./417811-super-algator-bros.json) |
 | Super Algebrawl | 283889 | [283889-super-algebrawl.json](./283889-super-algebrawl.json) |
