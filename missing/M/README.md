@@ -5775,7 +5775,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -8286,6 +8285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meld | 33330 | [33330-meld.json](./33330-meld.json) |
 | Meldev Power Boat Racing | 164274 | [164274-meldev-power-boat-racing.json](./164274-meldev-power-boat-racing.json) |
 | Melee | 113544 | [113544-melee.json](./113544-melee.json) |
+| Melee Fox & Falco in Super Mario 64 | 284146 | [284146-melee-fox-and-falco-in-super-mario-64.json](./284146-melee-fox-and-falco-in-super-mario-64.json) |
 | Melee Light | 334226 | [334226-melee-light.json](./334226-melee-light.json) |
 | Melee Spaceship | 326297 | [326297-melee-spaceship.json](./326297-melee-spaceship.json) |
 | Melee Unlocked | 417799 | [417799-melee-unlocked.json](./417799-melee-unlocked.json) |
@@ -19009,6 +19009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushi no Idokoro | 259990 | [259990-mushi-no-idokoro.json](./259990-mushi-no-idokoro.json) |
 | Mushi no Me Matsuri | 395968 | [395968-mushi-no-me-matsuri.json](./395968-mushi-no-me-matsuri.json) |
 | Mushi Taro | 279223 | [279223-mushi-taro.json](./279223-mushi-taro.json) |
+| Mushi! Machi no Konchuu Monogatari | 284160 | [284160-mushi-machi-no-konchuu-monogatari.json](./284160-mushi-machi-no-konchuu-monogatari.json) |
 | Mushihime-sama Futari | 27626 | [27626-mushihime-sama-futari.json](./27626-mushihime-sama-futari.json) |
 | Mushihime-sama Futari Ver 1.5 | 413697 | [413697-mushihime-sama-futari-ver-1-5.json](./413697-mushihime-sama-futari-ver-1-5.json) |
 | Mushihime-sama Futari: Black Label | 79369 | [79369-mushihime-sama-futari-black-label.json](./79369-mushihime-sama-futari-black-label.json) |
@@ -20648,6 +20649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Super Defender | 112965 | [112965-my-super-defender.json](./112965-my-super-defender.json) |
 | My Super Tower 3 | 97087 | [97087-my-super-tower-3.json](./97087-my-super-tower-3.json) |
 | My SuperMart | 231919 | [231919-my-supermart.json](./231919-my-supermart.json) |
+| My Superstar Boyfriend | 284164 | [284164-my-superstar-boyfriend.json](./284164-my-superstar-boyfriend.json) |
 | My Sushi Story | 249678 | [249678-my-sushi-story.json](./249678-my-sushi-story.json) |
 | My Sweet Angel | 340342 | [340342-my-sweet-angel.json](./340342-my-sweet-angel.json) |
 | My Sweet Ants! | 156820 | [156820-my-sweet-ants.json](./156820-my-sweet-ants.json) |
