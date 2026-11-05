@@ -2081,6 +2081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuukyuu no Tierblade: Lost Chronicle | 136438 | [136438-yuukyuu-no-tierblade-lost-chronicle.json](./136438-yuukyuu-no-tierblade-lost-chronicle.json) |
 | Yuuma Game | 252043 | [252043-yuuma-game.json](./252043-yuuma-game.json) |
 | Yuuna and the Haunted Hot Springs: Steam Dungeon | 104818 | [104818-yuuna-and-the-haunted-hot-springs-steam-dungeon.json](./104818-yuuna-and-the-haunted-hot-springs-steam-dungeon.json) |
+| Yuuna and the Haunted Hot Springs: The Thrilling Steamy Maze Kiwami | 278244 | [278244-yuuna-and-the-haunted-hot-springs-the-thrilling-steamy-maze-kiwami.json](./278244-yuuna-and-the-haunted-hot-springs-the-thrilling-steamy-maze-kiwami.json) |
 | Yuunagi-sou no S-kyuu no Kanojo-tachi | 410605 | [410605-yuunagi-sou-no-s-kyuu-no-kanojo-tachi.json](./410605-yuunagi-sou-no-s-kyuu-no-kanojo-tachi.json) |
 | Yuunagi-sou no S-kyuu no Kanojo-tachi 2 | 410606 | [410606-yuunagi-sou-no-s-kyuu-no-kanojo-tachi-2.json](./410606-yuunagi-sou-no-s-kyuu-no-kanojo-tachi-2.json) |
 | Yuurei Station | 179669 | [179669-yuurei-station.json](./179669-yuurei-station.json) |
