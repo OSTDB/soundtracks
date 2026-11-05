@@ -5039,6 +5039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantaruk | 20788 | [20788-phantaruk.json](./20788-phantaruk.json) |
 | Phantasia | 192152 | [192152-phantasia.json](./192152-phantasia.json) |
 | Phantasia | 25409 | [25409-phantasia.json](./25409-phantasia.json) |
+| Phantasia | 285724 | [285724-phantasia.json](./285724-phantasia.json) |
 | Phantasie | 2890 | [2890-phantasie.json](./2890-phantasie.json) |
 | Phantasie 3: The Wrath of Nikademus | 5562 | [5562-phantasie-3-the-wrath-of-nikademus.json](./5562-phantasie-3-the-wrath-of-nikademus.json) |
 | Phantasie II | 14424 | [14424-phantasie-ii.json](./14424-phantasie-ii.json) |
@@ -5363,6 +5364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phelios | 199420 | [199420-phelios.json](./199420-phelios.json) |
 | Phenocore | 194308 | [194308-phenocore.json](./194308-phenocore.json) |
 | Phenol's Pocket Photo Gallery Vol. 1 | 337010 | [337010-phenols-pocket-photo-gallery-vol-1.json](./337010-phenols-pocket-photo-gallery-vol-1.json) |
+| Phenom | 285800 | [285800-phenom.json](./285800-phenom.json) |
 | Phenomena | 407239 | [407239-phenomena.json](./407239-phenomena.json) |
 | Phenomena Embattled | 274335 | [274335-phenomena-embattled.json](./274335-phenomena-embattled.json) |
 | Phenomenal Car Park Simulator | 124220 | [124220-phenomenal-car-park-simulator.json](./124220-phenomenal-car-park-simulator.json) |
@@ -8408,14 +8410,26 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixeline and the Jungle Treasure | 64502 | [64502-pixeline-and-the-jungle-treasure.json](./64502-pixeline-and-the-jungle-treasure.json) |
 | Pixeline Skolebøger: Dansk | 64501 | [64501-pixeline-skoleb-ger-dansk.json](./64501-pixeline-skoleb-ger-dansk.json) |
 | Pixeline Skolehjælp: Dansk – Kaos i Kommakøbing | 285853 | [285853-pixeline-skolehj-lp-dansk-kaos-i-kommak-bing.json](./285853-pixeline-skolehj-lp-dansk-kaos-i-kommak-bing.json) |
+| Pixeline Skolehjælp: Dansk 2 – Pixeline i Bogstavjunglen | 285797 | [285797-pixeline-skolehj-lp-dansk-2-pixeline-i-bogstavjunglen.json](./285797-pixeline-skolehj-lp-dansk-2-pixeline-i-bogstavjunglen.json) |
 | Pixeline Skolehjælp: Dinosaurer – De Frygtelige Øgler | 285851 | [285851-pixeline-skolehj-lp-dinosaurer-de-frygtelige-gler.json](./285851-pixeline-skolehj-lp-dinosaurer-de-frygtelige-gler.json) |
+| Pixeline Skolehjælp: Engelsk – My name is Pixeline | 285796 | [285796-pixeline-skolehj-lp-engelsk-my-name-is-pixeline.json](./285796-pixeline-skolehj-lp-engelsk-my-name-is-pixeline.json) |
+| Pixeline Skolehjælp: Engelsk 2 – Pixeline Goes to London | 285799 | [285799-pixeline-skolehj-lp-engelsk-2-pixeline-goes-to-london.json](./285799-pixeline-skolehj-lp-engelsk-2-pixeline-goes-to-london.json) |
+| Pixeline Skolehjælp: Lær at Læse – Det Magiske Bibliotek | 285809 | [285809-pixeline-skolehj-lp-l-r-at-l-se-det-magiske-bibliotek.json](./285809-pixeline-skolehj-lp-l-r-at-l-se-det-magiske-bibliotek.json) |
 | Pixeline Skolehjælp: Lær at Stave – Stavning eller kaos | 285844 | [285844-pixeline-skolehj-lp-l-r-at-stave-stavning-eller-kaos.json](./285844-pixeline-skolehj-lp-l-r-at-stave-stavning-eller-kaos.json) |
+| Pixeline Skolehjælp: Lær om Dyr – Dyrequizzen | 285818 | [285818-pixeline-skolehj-lp-l-r-om-dyr-dyrequizzen.json](./285818-pixeline-skolehj-lp-l-r-om-dyr-dyrequizzen.json) |
+| Pixeline Skolehjælp: Lær om Førstehjælp – Det Lille Bjørnehospital | 285825 | [285825-pixeline-skolehj-lp-l-r-om-f-rstehj-lp-det-lille-bj-rnehospital.json](./285825-pixeline-skolehj-lp-l-r-om-f-rstehj-lp-det-lille-bj-rnehospital.json) |
+| Pixeline Skolehjælp: Lær om Geografi – Danmark på Spil | 285821 | [285821-pixeline-skolehj-lp-l-r-om-geografi-danmark-pa-spil.json](./285821-pixeline-skolehj-lp-l-r-om-geografi-danmark-pa-spil.json) |
 | Pixeline Skolehjælp: Lær om Klima & Vejr – Vejr og Vind med Samme Sind | 285832 | [285832-pixeline-skolehj-lp-l-r-om-klima-and-vejr-vejr-og-vind-med-samme-sind.json](./285832-pixeline-skolehj-lp-l-r-om-klima-and-vejr-vejr-og-vind-med-samme-sind.json) |
+| Pixeline Skolehjælp: Lær om Kroppen – Rejsen til Kroppens Indre | 285824 | [285824-pixeline-skolehj-lp-l-r-om-kroppen-rejsen-til-kroppens-indre.json](./285824-pixeline-skolehj-lp-l-r-om-kroppen-rejsen-til-kroppens-indre.json) |
 | Pixeline Skolehjælp: Lær om Regning – Talmesterens labyrint | 285837 | [285837-pixeline-skolehj-lp-l-r-om-regning-talmesterens-labyrint.json](./285837-pixeline-skolehj-lp-l-r-om-regning-talmesterens-labyrint.json) |
 | Pixeline Skolehjælp: Lær om Vikingerne – Kongekampen | 285841 | [285841-pixeline-skolehj-lp-l-r-om-vikingerne-kongekampen.json](./285841-pixeline-skolehj-lp-l-r-om-vikingerne-kongekampen.json) |
 | Pixeline Skolehjælp: Learning English – Money or Nothing | 285852 | [285852-pixeline-skolehj-lp-learning-english-money-or-nothing.json](./285852-pixeline-skolehj-lp-learning-english-money-or-nothing.json) |
+| Pixeline Skolehjælp: Matematik – Pixeline regner den ud | 285784 | [285784-pixeline-skolehj-lp-matematik-pixeline-regner-den-ud.json](./285784-pixeline-skolehj-lp-matematik-pixeline-regner-den-ud.json) |
 | Pixeline Skolehjælp: Matematik – Tåger over Talstrup | 285854 | [285854-pixeline-skolehj-lp-matematik-tager-over-talstrup.json](./285854-pixeline-skolehj-lp-matematik-tager-over-talstrup.json) |
+| Pixeline Skolehjælp: Matematik 2 – Pixelines Regneræs | 285798 | [285798-pixeline-skolehj-lp-matematik-2-pixelines-regner-s.json](./285798-pixeline-skolehj-lp-matematik-2-pixelines-regner-s.json) |
+| Pixeline Skolehjælp: Naturfag – Pixeline Gennem Ild Og Vand | 285788 | [285788-pixeline-skolehj-lp-naturfag-pixeline-gennem-ild-og-vand.json](./285788-pixeline-skolehj-lp-naturfag-pixeline-gennem-ild-og-vand.json) |
 | Pixeline Skolehjælp: Sikker på Cykel – Byens Bedste Bud | 285843 | [285843-pixeline-skolehj-lp-sikker-pa-cykel-byens-bedste-bud.json](./285843-pixeline-skolehj-lp-sikker-pa-cykel-byens-bedste-bud.json) |
+| Pixeline Skolehjælp: Trafiksikker – Pixelines Skolevej | 285803 | [285803-pixeline-skolehj-lp-trafiksikker-pixelines-skolevej.json](./285803-pixeline-skolehj-lp-trafiksikker-pixelines-skolevej.json) |
 | Pixeline: for Fulde Sejl | 147880 | [147880-pixeline-for-fulde-sejl.json](./147880-pixeline-for-fulde-sejl.json) |
 | Pixeline: fuld af Fis og Ballade | 147881 | [147881-pixeline-fuld-af-fis-og-ballade.json](./147881-pixeline-fuld-af-fis-og-ballade.json) |
 | Pixeline: I Pixieland | 354746 | [354746-pixeline-i-pixieland.json](./354746-pixeline-i-pixieland.json) |
@@ -8424,6 +8438,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixeline: og Kong Gulerod | 147882 | [147882-pixeline-og-kong-gulerod.json](./147882-pixeline-og-kong-gulerod.json) |
 | Pixeline: Star Hotel | 64503 | [64503-pixeline-star-hotel.json](./64503-pixeline-star-hotel.json) |
 | Pixeline: Syng, Leg og Lær | 143751 | [143751-pixeline-syng-leg-og-l-r.json](./143751-pixeline-syng-leg-og-l-r.json) |
+| Pixelines Lillebror | 285816 | [285816-pixelines-lillebror.json](./285816-pixelines-lillebror.json) |
+| Pixelines Lillebror: Buler I Bolledejen | 285817 | [285817-pixelines-lillebror-buler-i-bolledejen.json](./285817-pixelines-lillebror-buler-i-bolledejen.json) |
 | Pixelite | 308558 | [308558-pixelite.json](./308558-pixelite.json) |
 | Pixelitos: Spritle Royale | 303979 | [303979-pixelitos-spritle-royale.json](./303979-pixelitos-spritle-royale.json) |
 | PixelJunk Eden 2 | 131872 | [131872-pixeljunk-eden-2.json](./131872-pixeljunk-eden-2.json) |
@@ -9398,6 +9414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platinum Train: Nihon Juudan Tetsudou no Tabi | 98840 | [98840-platinum-train-nihon-juudan-tetsudou-no-tabi.json](./98840-platinum-train-nihon-juudan-tetsudou-no-tabi.json) |
 | Platinum White | 307137 | [307137-platinum-white.json](./307137-platinum-white.json) |
 | PlatinumQuest | 191424 | [191424-platinumquest.json](./191424-platinumquest.json) |
+| PlatinumS | 285802 | [285802-platinums.json](./285802-platinums.json) |
 | Plato | 86967 | [86967-plato.json](./86967-plato.json) |
 | Plato Interpreter | 42182 | [42182-plato-interpreter.json](./42182-plato-interpreter.json) |
 | Plato's Universe | 184231 | [184231-platos-universe.json](./184231-platos-universe.json) |
@@ -11773,6 +11790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Skies | 199230 | [199230-poly-skies.json](./199230-poly-skies.json) |
 | Poly Smash | 240617 | [240617-poly-smash.json](./240617-poly-smash.json) |
 | Poly Soldiers | 120811 | [120811-poly-soldiers.json](./120811-poly-soldiers.json) |
+| Poly Speed | 285792 | [285792-poly-speed.json](./285792-poly-speed.json) |
 | Poly Squad | 149076 | [149076-poly-squad.json](./149076-poly-squad.json) |
 | Poly Survivor | 270946 | [270946-poly-survivor.json](./270946-poly-survivor.json) |
 | Poly TD | 333342 | [333342-poly-td.json](./333342-poly-td.json) |
@@ -15678,6 +15696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Reboot | 345455 | [345455-project-reboot.json](./345455-project-reboot.json) |
 | Project Reborn | 192881 | [192881-project-reborn.json](./192881-project-reborn.json) |
 | Project Red Sun | 407527 | [407527-project-red-sun.json](./407527-project-red-sun.json) |
+| Project Redsun | 285804 | [285804-project-redsun.json](./285804-project-redsun.json) |
 | Project Regolith | 236793 | [236793-project-regolith.json](./236793-project-regolith.json) |
 | Project Reignition | 315988 | [315988-project-reignition.json](./315988-project-reignition.json) |
 | Project Remedium | 32612 | [32612-project-remedium.json](./32612-project-remedium.json) |
