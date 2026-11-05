@@ -7321,6 +7321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alleviate | 326274 | [326274-alleviate.json](./326274-alleviate.json) |
 | Alley 19 Bowling | 401302 | [401302-alley-19-bowling.json](./401302-alley-19-bowling.json) |
 | Alley Cat | 23860 | [23860-alley-cat.json](./23860-alley-cat.json) |
+| Alley Cat | 268792 | [268792-alley-cat.json](./268792-alley-cat.json) |
 | Alley Cat: Remeow Edition | 201957 | [201957-alley-cat-remeow-edition.json](./201957-alley-cat-remeow-edition.json) |
 | Alley Cats | 206108 | [206108-alley-cats.json](./206108-alley-cats.json) |
 | Alley Catz Bowling | 149292 | [149292-alley-catz-bowling.json](./149292-alley-catz-bowling.json) |
@@ -16314,7 +16315,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
