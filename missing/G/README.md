@@ -6653,6 +6653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf With Your Friends: Legends of Olympus Pack | 317679 | [317679-golf-with-your-friends-legends-of-olympus-pack.json](./317679-golf-with-your-friends-legends-of-olympus-pack.json) |
 | Golf With Your Friends: Olympus Odyssey Course | 317687 | [317687-golf-with-your-friends-olympus-odyssey-course.json](./317687-golf-with-your-friends-olympus-odyssey-course.json) |
 | Golf With Your Friends: Peaceful Pines Course | 265868 | [265868-golf-with-your-friends-peaceful-pines-course.json](./265868-golf-with-your-friends-peaceful-pines-course.json) |
+| Golf With Your Friends: Pizza Party Pack | 251318 | [251318-golf-with-your-friends-pizza-party-pack.json](./251318-golf-with-your-friends-pizza-party-pack.json) |
 | Golf With Your Friends: Soaring Eagles Cosplay Pack | 355846 | [355846-golf-with-your-friends-soaring-eagles-cosplay-pack.json](./355846-golf-with-your-friends-soaring-eagles-cosplay-pack.json) |
 | Golf With Your Friends: Sports Pack | 230825 | [230825-golf-with-your-friends-sports-pack.json](./230825-golf-with-your-friends-sports-pack.json) |
 | Golf With Your Friends: Starter Edition | 277884 | [277884-golf-with-your-friends-starter-edition.json](./277884-golf-with-your-friends-starter-edition.json) |
@@ -6943,6 +6944,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodcode's Cavern | 356675 | [356675-goodcodes-cavern.json](./356675-goodcodes-cavern.json) |
 | Goodfolks | 61704 | [61704-goodfolks.json](./61704-goodfolks.json) |
 | Goodgame Empire | 70902 | [70902-goodgame-empire.json](./70902-goodgame-empire.json) |
+| Goodgame Farm Fever | 251304 | [251304-goodgame-farm-fever.json](./251304-goodgame-farm-fever.json) |
+| Goodgame Farmer | 251303 | [251303-goodgame-farmer.json](./251303-goodgame-farmer.json) |
 | Goodgame Gangster | 312804 | [312804-goodgame-gangster.json](./312804-goodgame-gangster.json) |
 | GoodGod | 355080 | [355080-goodgod.json](./355080-goodgod.json) |
 | Goodie Guild | 416541 | [416541-goodie-guild.json](./416541-goodie-guild.json) |
@@ -10778,6 +10781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundroid | 249799 | [249799-gundroid.json](./249799-gundroid.json) |
 | Gunducky Industries | 54455 | [54455-gunducky-industries.json](./54455-gunducky-industries.json) |
 | Gunfield | 245876 | [245876-gunfield.json](./245876-gunfield.json) |
+| Gunfight | 251307 | [251307-gunfight.json](./251307-gunfight.json) |
 | Gunfight | 40656 | [40656-gunfight.json](./40656-gunfight.json) |
 | Gunfight Arena | 373003 | [373003-gunfight-arena.json](./373003-gunfight-arena.json) |
 | Gunfighter | 347675 | [347675-gunfighter.json](./347675-gunfighter.json) |
