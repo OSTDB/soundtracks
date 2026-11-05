@@ -1496,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Summer | 298672 | [298672-last-summer.json](./298672-last-summer.json) |
 | Last Summer | 368795 | [368795-last-summer.json](./368795-last-summer.json) |
 | Last Summer at Camp Apocalypse Blood: 101 Ways to Not Capture Bigfoot | 349939 | [349939-last-summer-at-camp-apocalypse-blood-101-ways-to-not-capture-bigfoot.json](./349939-last-summer-at-camp-apocalypse-blood-101-ways-to-not-capture-bigfoot.json) |
+| Last Supper Of Devils | 295071 | [295071-last-supper-of-devils.json](./295071-last-supper-of-devils.json) |
 | Last Survivor | 26170 | [26170-last-survivor.json](./26170-last-survivor.json) |
 | Last Survivor | 74411 | [74411-last-survivor.json](./74411-last-survivor.json) |
 | Last Survivor | 81430 | [81430-last-survivor.json](./81430-last-survivor.json) |
@@ -3899,6 +3900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letter Snap: Term Challenge | 409537 | [409537-letter-snap-term-challenge.json](./409537-letter-snap-term-challenge.json) |
 | Letter Soup | 86787 | [86787-letter-soup.json](./86787-letter-soup.json) |
 | Letter Stack | 233106 | [233106-letter-stack.json](./233106-letter-stack.json) |
+| Letter Swish: Criss Cross Words | 294910 | [294910-letter-swish-criss-cross-words.json](./294910-letter-swish-criss-cross-words.json) |
 | Letter Taps | 56383 | [56383-letter-taps.json](./56383-letter-taps.json) |
 | Letter Targets | 94380 | [94380-letter-targets.json](./94380-letter-targets.json) |
 | Letter To A Friend | 251451 | [251451-letter-to-a-friend.json](./251451-letter-to-a-friend.json) |
@@ -4036,6 +4038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lewd City Girls | 210465 | [210465-lewd-city-girls.json](./210465-lewd-city-girls.json) |
 | Lewd Cup | 411231 | [411231-lewd-cup.json](./411231-lewd-cup.json) |
 | Lewd Delivery | 235352 | [235352-lewd-delivery.json](./235352-lewd-delivery.json) |
+| Lewd Girls: Hentai Puzzle | 294909 | [294909-lewd-girls-hentai-puzzle.json](./294909-lewd-girls-hentai-puzzle.json) |
 | Lewd Guest | 215643 | [215643-lewd-guest.json](./215643-lewd-guest.json) |
 | Lewd Gym | 207337 | [207337-lewd-gym.json](./207337-lewd-gym.json) |
 | Lewd Hentai Puzzle | 306241 | [306241-lewd-hentai-puzzle.json](./306241-lewd-hentai-puzzle.json) |
@@ -7132,6 +7135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looking For Fael | 329478 | [329478-looking-for-fael.json](./329478-looking-for-fael.json) |
 | Looking For Healer | 63003 | [63003-looking-for-healer.json](./63003-looking-for-healer.json) |
 | Looking for Lokae | 240709 | [240709-looking-for-lokae.json](./240709-looking-for-lokae.json) |
+| Looking For Love | 294915 | [294915-looking-for-love.json](./294915-looking-for-love.json) |
 | Looking for Something | 316653 | [316653-looking-for-something.json](./316653-looking-for-something.json) |
 | Looking for Waifu | 363322 | [363322-looking-for-waifu.json](./363322-looking-for-waifu.json) |
 | Looking Glass | 132550 | [132550-looking-glass.json](./132550-looking-glass.json) |
