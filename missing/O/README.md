@@ -4941,7 +4941,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out There | 9539 | [9539-out-there.json](./9539-out-there.json) |
 | Out There Chronicles - Ep. 1 | 58224 | [58224-out-there-chronicles-ep-1.json](./58224-out-there-chronicles-ep-1.json) |
 | Out There Chronicles - Ep. 2 | 200185 | [200185-out-there-chronicles-ep-2.json](./200185-out-there-chronicles-ep-2.json) |
-| Out There: Omega Edition | 36127 | [36127-out-there-omega-edition.json](./36127-out-there-omega-edition.json) |
 | Out There: Ω The Alliance | 147433 | [147433-out-there-the-alliance.json](./147433-out-there-the-alliance.json) |
 | Out There: Ω The Alliance | 341053 | [341053-out-there-the-alliance.json](./341053-out-there-the-alliance.json) |
 | Out Zone | 93519 | [93519-out-zone.json](./93519-out-zone.json) |
@@ -5529,7 +5528,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overlay | 309299 | [309299-overlay.json](./309299-overlay.json) |
 | Overlewd | 253343 | [253343-overlewd.json](./253343-overlewd.json) |
 | Overlight | 62971 | [62971-overlight.json](./62971-overlight.json) |
-| Overload | 33363 | [33363-overload.json](./33363-overload.json) |
 | Overload Playable Teaser | 90591 | [90591-overload-playable-teaser.json](./90591-overload-playable-teaser.json) |
 | Overload: Anniversary Level Pack | 238864 | [238864-overload-anniversary-level-pack.json](./238864-overload-anniversary-level-pack.json) |
 | Overload: Community Level Pack | 238863 | [238863-overload-community-level-pack.json](./238863-overload-community-level-pack.json) |
