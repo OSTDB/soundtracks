@@ -2537,6 +2537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku: Project Mirai DX | 10091 | [10091-hatsune-miku-project-mirai-dx.json](./10091-hatsune-miku-project-mirai-dx.json) |
 | Hatsune Miku: Roller Skating Music | 199044 | [199044-hatsune-miku-roller-skating-music.json](./199044-hatsune-miku-roller-skating-music.json) |
 | Hatsune Miku: Tap Wonder | 138178 | [138178-hatsune-miku-tap-wonder.json](./138178-hatsune-miku-tap-wonder.json) |
+| Hatsune Miku: The Planet of Wonder and Fragments of Wishes | 252504 | [252504-hatsune-miku-the-planet-of-wonder-and-fragments-of-wishes.json](./252504-hatsune-miku-the-planet-of-wonder-and-fragments-of-wishes.json) |
 | Hatsune Miku: VR Future Live | 99752 | [99752-hatsune-miku-vr-future-live.json](./99752-hatsune-miku-vr-future-live.json) |
 | Hatsune Miku: VR Future Live 2nd Stage | 120801 | [120801-hatsune-miku-vr-future-live-2nd-stage.json](./120801-hatsune-miku-vr-future-live-2nd-stage.json) |
 | Hatsune Miku: VR Future Live 3rd Stage | 120802 | [120802-hatsune-miku-vr-future-live-3rd-stage.json](./120802-hatsune-miku-vr-future-live-3rd-stage.json) |
@@ -4618,6 +4619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helrift | 373498 | [373498-helrift.json](./373498-helrift.json) |
 | Helsing's Fire | 66492 | [66492-helsings-fire.json](./66492-helsings-fire.json) |
 | Helsingfors | 79559 | [79559-helsingfors.json](./79559-helsingfors.json) |
+| Helskate | 252497 | [252497-helskate.json](./252497-helskate.json) |
 | Helter Skelter | 69490 | [69490-helter-skelter.json](./69490-helter-skelter.json) |
 | Heltons Haunted Hotel | 148371 | [148371-heltons-haunted-hotel.json](./148371-heltons-haunted-hotel.json) |
 | Helvetii | 119673 | [119673-helvetii.json](./119673-helvetii.json) |
@@ -6428,6 +6430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexceed: Rubrum | 295865 | [295865-hexceed-rubrum.json](./295865-hexceed-rubrum.json) |
 | Hexceed: Sirius | 397878 | [397878-hexceed-sirius.json](./397878-hexceed-sirius.json) |
 | Hexceed: Stella | 155692 | [155692-hexceed-stella.json](./155692-hexceed-stella.json) |
+| Hexceed: Terra Pack | 252526 | [252526-hexceed-terra-pack.json](./252526-hexceed-terra-pack.json) |
 | Hexceed: Ventus Pack | 261051 | [261051-hexceed-ventus-pack.json](./261051-hexceed-ventus-pack.json) |
 | Hexceed: Violaceum | 342361 | [342361-hexceed-violaceum.json](./342361-hexceed-violaceum.json) |
 | Hexceed: Virdis | 342360 | [342360-hexceed-virdis.json](./342360-hexceed-virdis.json) |
@@ -11399,6 +11402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Expenditure Program | 368739 | [368739-human-expenditure-program.json](./368739-human-expenditure-program.json) |
 | Human Extinction Simulator | 28588 | [28588-human-extinction-simulator.json](./28588-human-extinction-simulator.json) |
 | Human Factory | 127540 | [127540-human-factory.json](./127540-human-factory.json) |
+| Human Fall Flat 2 | 252503 | [252503-human-fall-flat-2.json](./252503-human-fall-flat-2.json) |
 | Human Farm | 133347 | [133347-human-farm.json](./133347-human-farm.json) |
 | Human Farm | 375935 | [375935-human-farm.json](./375935-human-farm.json) |
 | Human Farm: Pratice Section | 260445 | [260445-human-farm-pratice-section.json](./260445-human-farm-pratice-section.json) |
