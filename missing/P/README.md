@@ -9855,6 +9855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plunder | 344278 | [344278-plunder.json](./344278-plunder.json) |
 | Plunder & Pillage | 159212 | [159212-plunder-and-pillage.json](./159212-plunder-and-pillage.json) |
 | Plunder Ball | 275838 | [275838-plunder-ball.json](./275838-plunder-ball.json) |
+| Plunder Defense | 290198 | [290198-plunder-defense.json](./290198-plunder-defense.json) |
 | Plunder Islands | 239486 | [239486-plunder-islands.json](./239486-plunder-islands.json) |
 | Plunder Kings | 114149 | [114149-plunder-kings.json](./114149-plunder-kings.json) |
 | Plunder Masters | 250789 | [250789-plunder-masters.json](./250789-plunder-masters.json) |
@@ -10986,6 +10987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Pearl Version | 1518 | [1518-pokemon-pearl-version.json](./1518-pokemon-pearl-version.json) |
 | Pokemon Penumbra Moon | 288205 | [288205-pokemon-penumbra-moon.json](./288205-pokemon-penumbra-moon.json) |
 | Pokémon Peridot | 383194 | [383194-pokemon-peridot.json](./383194-pokemon-peridot.json) |
+| Pokémon Periwinkle Version: Special Blobbos Edition | 290234 | [290234-pokemon-periwinkle-version-special-blobbos-edition.json](./290234-pokemon-periwinkle-version-special-blobbos-edition.json) |
 | Pokémon Pesadilla | 254529 | [254529-pokemon-pesadilla.json](./254529-pokemon-pesadilla.json) |
 | Pokémon Phoenix Red | 397755 | [397755-pokemon-phoenix-red.json](./397755-pokemon-phoenix-red.json) |
 | Pokémon Photon | 361346 | [361346-pokemon-photon.json](./361346-pokemon-photon.json) |
