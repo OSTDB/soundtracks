@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backpacker 2 | 28410 | [28410-backpacker-2.json](./28410-backpacker-2.json) |
 | Backpacker 3 | 28411 | [28411-backpacker-3.json](./28411-backpacker-3.json) |
 | Backpacker 3: Mediterraneo | 129782 | [129782-backpacker-3-mediterraneo.json](./129782-backpacker-3-mediterraneo.json) |
+| Backpacker Guild | 293449 | [293449-backpacker-guild.json](./293449-backpacker-guild.json) |
 | Backpacker: The Lost Florence Gold Mine | 73044 | [73044-backpacker-the-lost-florence-gold-mine.json](./73044-backpacker-the-lost-florence-gold-mine.json) |
 | Backpackers Guide to the Universe | 309344 | [309344-backpackers-guide-to-the-universe.json](./309344-backpackers-guide-to-the-universe.json) |
 | Backroom | 238458 | [238458-backroom.json](./238458-backroom.json) |
@@ -7809,6 +7810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Bay | 239123 | [239123-bingo-bay.json](./239123-bingo-bay.json) |
 | Bingo Beavers | 293232 | [293232-bingo-beavers.json](./293232-bingo-beavers.json) |
 | Bingo Beavers: Bathroom | 298085 | [298085-bingo-beavers-bathroom.json](./298085-bingo-beavers-bathroom.json) |
+| Bingo Beavers: Bedroom | 293559 | [293559-bingo-beavers-bedroom.json](./293559-bingo-beavers-bedroom.json) |
 | Bingo Beavers: Halloween Decorations | 293557 | [293557-bingo-beavers-halloween-decorations.json](./293557-bingo-beavers-halloween-decorations.json) |
 | Bingo Beavers: Kitchen | 298035 | [298035-bingo-beavers-kitchen.json](./298035-bingo-beavers-kitchen.json) |
 | Bingo Beavers: Terrace | 293558 | [293558-bingo-beavers-terrace.json](./293558-bingo-beavers-terrace.json) |
@@ -13919,6 +13921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxplosion | 29054 | [29054-boxplosion.json](./29054-boxplosion.json) |
 | Boxroom | 396520 | [396520-boxroom.json](./396520-boxroom.json) |
 | BoxRunner | 107901 | [107901-boxrunner.json](./107901-boxrunner.json) |
+| BoxSim | 293566 | [293566-boxsim.json](./293566-boxsim.json) |
 | Boxsplodings | 61911 | [61911-boxsplodings.json](./61911-boxsplodings.json) |
 | Boxstacker | 349369 | [349369-boxstacker.json](./349369-boxstacker.json) |
 | BoxTheTop | 113730 | [113730-boxthetop.json](./113730-boxthetop.json) |
@@ -14069,6 +14072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain in Retro Space | 154869 | [154869-brain-in-retro-space.json](./154869-brain-in-retro-space.json) |
 | Brain It On! | 97332 | [97332-brain-it-on.json](./97332-brain-it-on.json) |
 | Brain Marmelade | 135751 | [135751-brain-marmelade.json](./135751-brain-marmelade.json) |
+| Brain Memory 2 | 293370 | [293370-brain-memory-2.json](./293370-brain-memory-2.json) |
 | Brain Memory 2: Cards Pack 1 | 300949 | [300949-brain-memory-2-cards-pack-1.json](./300949-brain-memory-2-cards-pack-1.json) |
 | Brain Memory 2: Cards Pack 2 | 300952 | [300952-brain-memory-2-cards-pack-2.json](./300952-brain-memory-2-cards-pack-2.json) |
 | Brain Memory 2: Cards Pack 3 | 300950 | [300950-brain-memory-2-cards-pack-3.json](./300950-brain-memory-2-cards-pack-3.json) |
@@ -15578,6 +15582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bronze Hoof | 127083 | [127083-bronze-hoof.json](./127083-bronze-hoof.json) |
 | Bronzebeard's Tavern | 258955 | [258955-bronzebeards-tavern.json](./258955-bronzebeards-tavern.json) |
 | Bronzebeard's Tavern: Founder's Pack | 292752 | [292752-bronzebeards-tavern-founders-pack.json](./292752-bronzebeards-tavern-founders-pack.json) |
+| Bronzebeard's Tavern: Supporter Pack | 293450 | [293450-bronzebeards-tavern-supporter-pack.json](./293450-bronzebeards-tavern-supporter-pack.json) |
 | Bronzette | 183267 | [183267-bronzette.json](./183267-bronzette.json) |
 | Brood | 116514 | [116514-brood.json](./116514-brood.json) |
 | Brood of Hatred | 261444 | [261444-brood-of-hatred.json](./261444-brood-of-hatred.json) |
