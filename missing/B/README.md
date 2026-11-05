@@ -954,7 +954,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5770,6 +5769,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beefurious, Shura! | 294675 | [294675-beefurious-shura.json](./294675-beefurious-shura.json) |
 | Beefy Brad the Muscle Man | 265735 | [265735-beefy-brad-the-muscle-man.json](./265735-beefy-brad-the-muscle-man.json) |
 | Beehive Bedlam | 238469 | [238469-beehive-bedlam.json](./238469-beehive-bedlam.json) |
+| Beehive Bedlam | 262021 | [262021-beehive-bedlam.json](./262021-beehive-bedlam.json) |
+| Beehive Bedlam | 262024 | [262024-beehive-bedlam.json](./262024-beehive-bedlam.json) |
 | Beek: Familiar Spirit - Remastered | 342497 | [342497-beek-familiar-spirit-remastered.json](./342497-beek-familiar-spirit-remastered.json) |
 | Beekeeper | 117804 | [117804-beekeeper.json](./117804-beekeeper.json) |
 | Beeknighted | 242717 | [242717-beeknighted.json](./242717-beeknighted.json) |
@@ -11212,6 +11213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blooms of April | 372280 | [372280-blooms-of-april.json](./372280-blooms-of-april.json) |
 | Bloomsome | 390996 | [390996-bloomsome.json](./390996-bloomsome.json) |
 | BloomTale | 316943 | [316943-bloomtale.json](./316943-bloomtale.json) |
+| Bloomverse | 262025 | [262025-bloomverse.json](./262025-bloomverse.json) |
 | Bloomwalker | 362042 | [362042-bloomwalker.json](./362042-bloomwalker.json) |
 | Bloomyth | 254921 | [254921-bloomyth.json](./254921-bloomyth.json) |
 | Bloomyth & Strong Moon Bundle | 262055 | [262055-bloomyth-and-strong-moon-bundle.json](./262055-bloomyth-and-strong-moon-bundle.json) |
@@ -12766,6 +12768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book of Hours | 119228 | [119228-book-of-hours.json](./119228-book-of-hours.json) |
 | Book of Hours: Anthology Edition | 383428 | [383428-book-of-hours-anthology-edition.json](./383428-book-of-hours-anthology-edition.json) |
 | Book of Hours: House of Light | 294012 | [294012-book-of-hours-house-of-light.json](./294012-book-of-hours-house-of-light.json) |
+| Book of Hours: Perpetual Edition | 262111 | [262111-book-of-hours-perpetual-edition.json](./262111-book-of-hours-perpetual-edition.json) |
 | Book of Hours: Perpetual Edition DLC | 262230 | [262230-book-of-hours-perpetual-edition-dlc.json](./262230-book-of-hours-perpetual-edition-dlc.json) |
 | Book of Korvald | 389046 | [389046-book-of-korvald.json](./389046-book-of-korvald.json) |
 | Book of Mario | 159321 | [159321-book-of-mario.json](./159321-book-of-mario.json) |
