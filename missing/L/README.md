@@ -3149,6 +3149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Orient Expedition: The Quest for the Golden Dragon | 210319 | [210319-lego-orient-expedition-the-quest-for-the-golden-dragon.json](./210319-lego-orient-expedition-the-quest-for-the-golden-dragon.json) |
 | LEGO Party! | 347661 | [347661-lego-party.json](./347661-lego-party.json) |
 | LEGO Pirates of the Caribbean: The Video Game | 283748 | [283748-lego-pirates-of-the-caribbean-the-video-game.json](./283748-lego-pirates-of-the-caribbean-the-video-game.json) |
+| LEGO Pirates of the Caribbean: The Video Game | 284142 | [284142-lego-pirates-of-the-caribbean-the-video-game.json](./284142-lego-pirates-of-the-caribbean-the-video-game.json) |
 | LEGO Pirates of the Caribbean: The Video Game | 542 | [542-lego-pirates-of-the-caribbean-the-video-game.json](./542-lego-pirates-of-the-caribbean-the-video-game.json) |
 | LEGO Racers | 248764 | [248764-lego-racers.json](./248764-lego-racers.json) |
 | LEGO Racers | 343274 | [343274-lego-racers.json](./343274-lego-racers.json) |
@@ -3226,6 +3227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO The Hobbit: The Battle Pack | 168773 | [168773-lego-the-hobbit-the-battle-pack.json](./168773-lego-the-hobbit-the-battle-pack.json) |
 | LEGO The Hobbit: The Big Little Character Pack | 168772 | [168772-lego-the-hobbit-the-big-little-character-pack.json](./168772-lego-the-hobbit-the-big-little-character-pack.json) |
 | LEGO The Incredibles: Parr Family Vacation Character Pack | 254878 | [254878-lego-the-incredibles-parr-family-vacation-character-pack.json](./254878-lego-the-incredibles-parr-family-vacation-character-pack.json) |
+| LEGO The Lord of the Rings | 284136 | [284136-lego-the-lord-of-the-rings.json](./284136-lego-the-lord-of-the-rings.json) |
 | LEGO The Lord of the Rings | 4969 | [4969-lego-the-lord-of-the-rings.json](./4969-lego-the-lord-of-the-rings.json) |
 | LEGO The Lord of the Rings: Toy Edition | 139957 | [139957-lego-the-lord-of-the-rings-toy-edition.json](./139957-lego-the-lord-of-the-rings-toy-edition.json) |
 | LEGO The Robot Chronicles | 234218 | [234218-lego-the-robot-chronicles.json](./234218-lego-the-robot-chronicles.json) |
@@ -5621,6 +5623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Aid | 56558 | [56558-little-aid.json](./56558-little-aid.json) |
 | Little Aid Portable | 204389 | [204389-little-aid-portable.json](./204389-little-aid-portable.json) |
 | Little Airplane 3D for kids: learn colors, numbers | 101495 | [101495-little-airplane-3d-for-kids-learn-colors-numbers.json](./101495-little-airplane-3d-for-kids-learn-colors-numbers.json) |
+| Little Alchemist: Remastered | 284147 | [284147-little-alchemist-remastered.json](./284147-little-alchemist-remastered.json) |
 | Little Alchemy | 38911 | [38911-little-alchemy.json](./38911-little-alchemy.json) |
 | Little Alchemy 2 | 68111 | [68111-little-alchemy-2.json](./68111-little-alchemy-2.json) |
 | Little Alchemy 2: Myths and Monsters | 378745 | [378745-little-alchemy-2-myths-and-monsters.json](./378745-little-alchemy-2-myths-and-monsters.json) |
