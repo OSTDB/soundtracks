@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kagaribi | 398118 | [398118-kagaribi.json](./398118-kagaribi.json) |
 | Kage | 400586 | [400586-kage.json](./400586-kage.json) |
 | Kage Fumazu | 98056 | [98056-kage-fumazu.json](./98056-kage-fumazu.json) |
+| Kage-chara Love-Com | 253668 | [253668-kage-chara-love-com.json](./253668-kage-chara-love-com.json) |
 | Kaged | 6519 | [6519-kaged.json](./6519-kaged.json) |
 | Kageninja | 385743 | [385743-kageninja.json](./385743-kageninja.json) |
 | Kagerou | 181658 | [181658-kagerou.json](./181658-kagerou.json) |
@@ -3781,6 +3782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby Shuffle Puzzle | 381560 | [381560-kirby-shuffle-puzzle.json](./381560-kirby-shuffle-puzzle.json) |
 | Kirby Speed Eaters | 229620 | [229620-kirby-speed-eaters.json](./229620-kirby-speed-eaters.json) |
 | Kirby Star Allies | 37137 | [37137-kirby-star-allies.json](./37137-kirby-star-allies.json) |
+| Kirby Star Ride | 253703 | [253703-kirby-star-ride.json](./253703-kirby-star-ride.json) |
 | Kirby Street | 330879 | [330879-kirby-street.json](./330879-kirby-street.json) |
 | Kirby Super Star | 3719 | [3719-kirby-super-star.json](./3719-kirby-super-star.json) |
 | Kirby Super Star Ultra | 2647 | [2647-kirby-super-star-ultra.json](./2647-kirby-super-star-ultra.json) |
@@ -3822,6 +3824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby's Pinball Land DX | 279225 | [279225-kirbys-pinball-land-dx.json](./279225-kirbys-pinball-land-dx.json) |
 | Kirby's Puresabe Adventure | 138986 | [138986-kirbys-puresabe-adventure.json](./138986-kirbys-puresabe-adventure.json) |
 | Kirby's Return to Dream Land | 3725 | [3725-kirbys-return-to-dream-land.json](./3725-kirbys-return-to-dream-land.json) |
+| Kirby's Return to Dream Land Deluxe Memory Match-Up | 253707 | [253707-kirbys-return-to-dream-land-deluxe-memory-match-up.json](./253707-kirbys-return-to-dream-land-deluxe-memory-match-up.json) |
 | Kirby's Star Stacker | 3655 | [3655-kirbys-star-stacker.json](./3655-kirbys-star-stacker.json) |
 | Kirchhoff's Revenge | 89398 | [89398-kirchhoffs-revenge.json](./89398-kirchhoffs-revenge.json) |
 | Kirei Zukin Seikatsu 2 | 325723 | [325723-kirei-zukin-seikatsu-2.json](./325723-kirei-zukin-seikatsu-2.json) |
