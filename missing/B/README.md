@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Drummer Simulator | 178598 | [178598-bad-drummer-simulator.json](./178598-bad-drummer-simulator.json) |
 | Bad Dudes | 215085 | [215085-bad-dudes.json](./215085-bad-dudes.json) |
 | Bad Dudes vs. Dragon Ninja | 18831 | [18831-bad-dudes-vs-dragon-ninja.json](./18831-bad-dudes-vs-dragon-ninja.json) |
+| Bad Egg | 258293 | [258293-bad-egg.json](./258293-bad-egg.json) |
 | Bad Eggs Online 2 | 60360 | [60360-bad-eggs-online-2.json](./60360-bad-eggs-online-2.json) |
 | Bad End | 34124 | [34124-bad-end.json](./34124-bad-end.json) |
 | Bad Ethics | 252094 | [252094-bad-ethics.json](./252094-bad-ethics.json) |
@@ -954,7 +955,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -11834,6 +11834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boba | 355857 | [355857-boba.json](./355857-boba.json) |
 | Boba Avoider | 413031 | [413031-boba-avoider.json](./413031-boba-avoider.json) |
 | Boba Bar: Bubble Tea Tycoon | 276209 | [276209-boba-bar-bubble-tea-tycoon.json](./276209-boba-bar-bubble-tea-tycoon.json) |
+| Boba Boyz | 258270 | [258270-boba-boyz.json](./258270-boba-boyz.json) |
 | Boba Cafe Simulator | 346644 | [346644-boba-cafe-simulator.json](./346644-boba-cafe-simulator.json) |
 | Boba Monsters | 309140 | [309140-boba-monsters.json](./309140-boba-monsters.json) |
 | Boba Tale | 199622 | [199622-boba-tale.json](./199622-boba-tale.json) |
