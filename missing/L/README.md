@@ -4486,6 +4486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifeforce | 55022 | [55022-lifeforce.json](./55022-lifeforce.json) |
 | Lifeforms: Binary Fission | 260281 | [260281-lifeforms-binary-fission.json](./260281-lifeforms-binary-fission.json) |
 | LifeGameSimulator | 102328 | [102328-lifegamesimulator.json](./102328-lifegamesimulator.json) |
+| LifeGenesis | 282403 | [282403-lifegenesis.json](./282403-lifegenesis.json) |
 | Lifeguard | 61576 | [61576-lifeguard.json](./61576-lifeguard.json) |
 | Lifeguard Simulator | 169732 | [169732-lifeguard-simulator.json](./169732-lifeguard-simulator.json) |
 | Lifeless Horizon | 266900 | [266900-lifeless-horizon.json](./266900-lifeless-horizon.json) |
@@ -4821,6 +4822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightseekers | 76550 | [76550-lightseekers.json](./76550-lightseekers.json) |
 | Lightslayer | 127784 | [127784-lightslayer.json](./127784-lightslayer.json) |
 | LightSlinger Heroes | 100363 | [100363-lightslinger-heroes.json](./100363-lightslinger-heroes.json) |
+| LightsOut | 282379 | [282379-lightsout.json](./282379-lightsout.json) |
 | Lightspeed | 71049 | [71049-lightspeed.json](./71049-lightspeed.json) |
 | Lightspeed | 77325 | [77325-lightspeed.json](./77325-lightspeed.json) |
 | Lightspeed Bit Bit | 259069 | [259069-lightspeed-bit-bit.json](./259069-lightspeed-bit-bit.json) |
@@ -7298,6 +7300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopmancer | 151934 | [151934-loopmancer.json](./151934-loopmancer.json) |
 | Loopmayor | 334295 | [334295-loopmayor.json](./334295-loopmayor.json) |
 | LooPool | 367003 | [367003-loopool.json](./367003-loopool.json) |
+| Loopover | 282364 | [282364-loopover.json](./282364-loopover.json) |
 | Loopover | 311987 | [311987-loopover.json](./311987-loopover.json) |
 | Looppip | 318846 | [318846-looppip.json](./318846-looppip.json) |
 | Loopquarium | 410915 | [410915-loopquarium.json](./410915-loopquarium.json) |
