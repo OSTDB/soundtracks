@@ -12436,6 +12436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Time | 256864 | [256864-frozen-time.json](./256864-frozen-time.json) |
 | Frozen Way Tri-Bundle | 342237 | [342237-frozen-way-tri-bundle.json](./342237-frozen-way-tri-bundle.json) |
 | Frozen: Laptop Infantil | 297748 | [297748-frozen-laptop-infantil.json](./297748-frozen-laptop-infantil.json) |
+| Frozen: Laptop Magic Tech | 294480 | [294480-frozen-laptop-magic-tech.json](./294480-frozen-laptop-magic-tech.json) |
 | Frozen: Olaf's Quest | 85088 | [85088-frozen-olafs-quest.json](./85088-frozen-olafs-quest.json) |
 | Frozen: Royal Castle | 306444 | [306444-frozen-royal-castle.json](./306444-frozen-royal-castle.json) |
 | Frozenheim | 144594 | [144594-frozenheim.json](./144594-frozenheim.json) |
