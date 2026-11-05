@@ -1299,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edingir Odyssey | 249004 | [249004-edingir-odyssey.json](./249004-edingir-odyssey.json) |
 | Editarrr | 270519 | [270519-editarrr.json](./270519-editarrr.json) |
 | Editor in Chief: Beginning 1 | 108594 | [108594-editor-in-chief-beginning-1.json](./108594-editor-in-chief-beginning-1.json) |
+| Editor-dle | 249539 | [249539-editor-dle.json](./249539-editor-dle.json) |
 | Editor's Hell | 221176 | [221176-editors-hell.json](./221176-editors-hell.json) |
 | EDM Ballistics | 374021 | [374021-edm-ballistics.json](./374021-edm-ballistics.json) |
 | EDM Storm: Match 3 VR | 193589 | [193589-edm-storm-match-3-vr.json](./193589-edm-storm-match-3-vr.json) |
