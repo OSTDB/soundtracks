@@ -2386,6 +2386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Fantasy: Dinosaurs | 401022 | [401022-neon-fantasy-dinosaurs.json](./401022-neon-fantasy-dinosaurs.json) |
 | Neon Fantasy: Dogs | 270970 | [270970-neon-fantasy-dogs.json](./270970-neon-fantasy-dogs.json) |
 | Neon Fantasy: Fairies | 387754 | [387754-neon-fantasy-fairies.json](./387754-neon-fantasy-fairies.json) |
+| Neon Fantasy: Furries | 256623 | [256623-neon-fantasy-furries.json](./256623-neon-fantasy-furries.json) |
 | Neon Fantasy: Girls | 252278 | [252278-neon-fantasy-girls.json](./252278-neon-fantasy-girls.json) |
 | Neon Fantasy: Horses | 293492 | [293492-neon-fantasy-horses.json](./293492-neon-fantasy-horses.json) |
 | Neon Fantasy: Monkeys | 274457 | [274457-neon-fantasy-monkeys.json](./274457-neon-fantasy-monkeys.json) |
@@ -6175,6 +6176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nodemind: Dynamic Core | 397255 | [397255-nodemind-dynamic-core.json](./397255-nodemind-dynamic-core.json) |
 | NodeRunner | 289721 | [289721-noderunner.json](./289721-noderunner.json) |
 | Nodes | 203250 | [203250-nodes.json](./203250-nodes.json) |
+| Nodes Escape | 256603 | [256603-nodes-escape.json](./256603-nodes-escape.json) |
 | Nodes of Yesod | 23059 | [23059-nodes-of-yesod.json](./23059-nodes-of-yesod.json) |
 | Nodes of Yesod: 25th Anniversary Edition | 264975 | [264975-nodes-of-yesod-25th-anniversary-edition.json](./264975-nodes-of-yesod-25th-anniversary-edition.json) |
 | Nodevious | 181163 | [181163-nodevious.json](./181163-nodevious.json) |
@@ -6311,6 +6313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nomark Baku Haitou: Shijou Saikyou no Jakushi Tatsu | 44401 | [44401-nomark-baku-haitou-shijou-saikyou-no-jakushi-tatsu.json](./44401-nomark-baku-haitou-shijou-saikyou-no-jakushi-tatsu.json) |
 | NOMBZ: Night of a Million Billion Zombies | 209408 | [209408-nombz-night-of-a-million-billion-zombies.json](./209408-nombz-night-of-a-million-billion-zombies.json) |
 | Nomia | 338730 | [338730-nomia.json](./338730-nomia.json) |
+| Nomifactory | 256587 | [256587-nomifactory.json](./256587-nomifactory.json) |
 | Nominader | 118244 | [118244-nominader.json](./118244-nominader.json) |
 | Nominal | 163312 | [163312-nominal.json](./163312-nominal.json) |
 | Nomiss | 231598 | [231598-nomiss.json](./231598-nomiss.json) |
