@@ -7167,6 +7167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodcutter Simulator 2012 | 52131 | [52131-woodcutter-simulator-2012.json](./52131-woodcutter-simulator-2012.json) |
 | Woodcutter Simulator 2013 | 16900 | [16900-woodcutter-simulator-2013.json](./16900-woodcutter-simulator-2013.json) |
 | Woodcutter Survival | 123316 | [123316-woodcutter-survival.json](./123316-woodcutter-survival.json) |
+| Wooden Battles: Spec Ops | 247816 | [247816-wooden-battles-spec-ops.json](./247816-wooden-battles-spec-ops.json) |
 | Wooden Block Puzzle Games | 98899 | [98899-wooden-block-puzzle-games.json](./98899-wooden-block-puzzle-games.json) |
 | Wooden Floor 2 - Resurrection | 33769 | [33769-wooden-floor-2-resurrection.json](./33769-wooden-floor-2-resurrection.json) |
 | Wooden Hearts | 134999 | [134999-wooden-hearts.json](./134999-wooden-hearts.json) |
