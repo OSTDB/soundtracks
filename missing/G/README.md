@@ -5678,6 +5678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Quest: Remake | 313534 | [313534-goblin-quest-remake.json](./313534-goblin-quest-remake.json) |
 | Goblin Rules Football | 217277 | [217277-goblin-rules-football.json](./217277-goblin-rules-football.json) |
 | Goblin Shaman | 348914 | [348914-goblin-shaman.json](./348914-goblin-shaman.json) |
+| Goblin Siege: Protect the Castle! | 271024 | [271024-goblin-siege-protect-the-castle.json](./271024-goblin-siege-protect-the-castle.json) |
 | Goblin Slayer | 335853 | [335853-goblin-slayer.json](./335853-goblin-slayer.json) |
 | Goblin Slayer Another Adventurer: Nightmare Feast | 230618 | [230618-goblin-slayer-another-adventurer-nightmare-feast.json](./230618-goblin-slayer-another-adventurer-nightmare-feast.json) |
 | Goblin Solitaire | 409401 | [409401-goblin-solitaire.json](./409401-goblin-solitaire.json) |
@@ -8844,6 +8845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greg Norman's Shark Attack! The Ultimate Golf Simulator | 63188 | [63188-greg-normans-shark-attack-the-ultimate-golf-simulator.json](./63188-greg-normans-shark-attack-the-ultimate-golf-simulator.json) |
 | Greg Norman's Ultimate Golf | 98979 | [98979-greg-normans-ultimate-golf.json](./98979-greg-normans-ultimate-golf.json) |
 | Greg the Clumsy Ghost | 134977 | [134977-greg-the-clumsy-ghost.json](./134977-greg-the-clumsy-ghost.json) |
+| Greg's Deadly Draft | 271025 | [271025-gregs-deadly-draft.json](./271025-gregs-deadly-draft.json) |
 | Gregg: Tower Defence | 295858 | [295858-gregg-tower-defence.json](./295858-gregg-tower-defence.json) |
 | Grégoire Lefèbvre Investigations: The Vow of Hate | 390670 | [390670-gregoire-lefebvre-investigations-the-vow-of-hate.json](./390670-gregoire-lefebvre-investigations-the-vow-of-hate.json) |
 | Gregor | 244330 | [244330-gregor.json](./244330-gregor.json) |
@@ -9447,6 +9449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grompula | 107674 | [107674-grompula.json](./107674-grompula.json) |
 | Gronions | 135762 | [135762-gronions.json](./135762-gronions.json) |
 | Gronk Want Rock | 249502 | [249502-gronk-want-rock.json](./249502-gronk-want-rock.json) |
+| Grønland | 271023 | [271023-gr-nland.json](./271023-gr-nland.json) |
 | Groob | 249945 | [249945-groob.json](./249945-groob.json) |
 | Grood | 90116 | [90116-grood.json](./90116-grood.json) |
 | Groomer | 115695 | [115695-groomer.json](./115695-groomer.json) |
