@@ -838,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Beach 2 | 34329 | [34329-sakura-beach-2.json](./34329-sakura-beach-2.json) |
 | Sakura Blade | 313911 | [313911-sakura-blade.json](./313911-sakura-blade.json) |
 | Sakura Branch: Blossom Puzzle | 418323 | [418323-sakura-branch-blossom-puzzle.json](./418323-sakura-branch-blossom-puzzle.json) |
+| Sakura Bunny Girls | 255464 | [255464-sakura-bunny-girls.json](./255464-sakura-bunny-girls.json) |
 | Sakura Bunny Girls 2 | 355079 | [355079-sakura-bunny-girls-2.json](./355079-sakura-bunny-girls-2.json) |
 | Sakura Clicker | 34950 | [34950-sakura-clicker.json](./34950-sakura-clicker.json) |
 | Sakura Cupid | 83974 | [83974-sakura-cupid.json](./83974-sakura-cupid.json) |
@@ -2715,6 +2716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scars of Summer | 169438 | [169438-scars-of-summer.json](./169438-scars-of-summer.json) |
 | Scars of Summer: After | 381696 | [381696-scars-of-summer-after.json](./381696-scars-of-summer-after.json) |
 | Scary 8 Bits | 404207 | [404207-scary-8-bits.json](./404207-scary-8-bits.json) |
+| Scary and Dot | 255463 | [255463-scary-and-dot.json](./255463-scary-and-dot.json) |
 | Scary Baboon | 338667 | [338667-scary-baboon.json](./338667-scary-baboon.json) |
 | Scary Baboon: Spooky Baboon | 423407 | [423407-scary-baboon-spooky-baboon.json](./423407-scary-baboon-spooky-baboon.json) |
 | Scary Bendy Neighbor Simulator - Bendy Games 2018 | 103902 | [103902-scary-bendy-neighbor-simulator-bendy-games-2018.json](./103902-scary-bendy-neighbor-simulator-bendy-games-2018.json) |
@@ -5246,6 +5248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seme COM Dungeon: Drururuaga | 59876 | [59876-seme-com-dungeon-drururuaga.json](./59876-seme-com-dungeon-drururuaga.json) |
 | Semester Begins! Xiaomi | 173385 | [173385-semester-begins-xiaomi.json](./173385-semester-begins-xiaomi.json) |
 | Semi-Sweet Tofu | 96904 | [96904-semi-sweet-tofu.json](./96904-semi-sweet-tofu.json) |
+| Semiaquatic Circus | 255451 | [255451-semiaquatic-circus.json](./255451-semiaquatic-circus.json) |
 | Semiramis no Tenbin | 60257 | [60257-semiramis-no-tenbin.json](./60257-semiramis-no-tenbin.json) |
 | Semispheres | 17990 | [17990-semispheres.json](./17990-semispheres.json) |
 | Semispheres: Blue Cover Limited Edition | 167034 | [167034-semispheres-blue-cover-limited-edition.json](./167034-semispheres-blue-cover-limited-edition.json) |
@@ -25173,6 +25176,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starshot | 374184 | [374184-starshot.json](./374184-starshot.json) |
 | Starsiege | 11228 | [11228-starsiege.json](./11228-starsiege.json) |
 | Starsiege: Deadzone | 251581 | [251581-starsiege-deadzone.json](./251581-starsiege-deadzone.json) |
+| Starsiege: Deadzone - Founders Edition | 255462 | [255462-starsiege-deadzone-founders-edition.json](./255462-starsiege-deadzone-founders-edition.json) |
+| Starsiege: Deadzone - Starter Edition | 255461 | [255461-starsiege-deadzone-starter-edition.json](./255461-starsiege-deadzone-starter-edition.json) |
+| Starsiege: Deadzone - Ultimate Edition | 255460 | [255460-starsiege-deadzone-ultimate-edition.json](./255460-starsiege-deadzone-ultimate-edition.json) |
+| Starsiege: Deadzone - Ultra Max Edition | 255459 | [255459-starsiege-deadzone-ultra-max-edition.json](./255459-starsiege-deadzone-ultra-max-edition.json) |
 | Starsiege: Tribes | 881 | [881-starsiege-tribes.json](./881-starsiege-tribes.json) |
 | StarSim | 238094 | [238094-starsim.json](./238094-starsim.json) |
 | StarSim: BattleZone | 325356 | [325356-starsim-battlezone.json](./325356-starsim-battlezone.json) |
@@ -28031,6 +28038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Striker '95 | 92814 | [92814-striker-95.json](./92814-striker-95.json) |
 | Striker Arena | 175158 | [175158-striker-arena.json](./175158-striker-arena.json) |
 | Striker Hero | 368705 | [368705-striker-hero.json](./368705-striker-hero.json) |
+| Striker Manager 3 | 255465 | [255465-striker-manager-3.json](./255465-striker-manager-3.json) |
 | Striker Modes | 203706 | [203706-striker-modes.json](./203706-striker-modes.json) |
 | Striker of Sky | 238498 | [238498-striker-of-sky.json](./238498-striker-of-sky.json) |
 | Striker Pro | 237509 | [237509-striker-pro.json](./237509-striker-pro.json) |
@@ -28289,6 +28297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stumble Guys: Diamond Special Banger | 312838 | [312838-stumble-guys-diamond-special-banger.json](./312838-stumble-guys-diamond-special-banger.json) |
 | Stumble Guys: Founder's Pack Bundle | 313218 | [313218-stumble-guys-founders-pack-bundle.json](./313218-stumble-guys-founders-pack-bundle.json) |
 | Stumble Guys: Polygon Guy Banger | 332037 | [332037-stumble-guys-polygon-guy-banger.json](./332037-stumble-guys-polygon-guy-banger.json) |
+| Stumble Upon Rumble | 255466 | [255466-stumble-upon-rumble.json](./255466-stumble-upon-rumble.json) |
 | Stumblehill | 117510 | [117510-stumblehill.json](./117510-stumblehill.json) |
 | Stump | 97245 | [97245-stump.json](./97245-stump.json) |
 | Stump Me | 312886 | [312886-stump-me.json](./312886-stump-me.json) |
@@ -34456,6 +34465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Neighbor BB | 325896 | [325896-sweet-neighbor-bb.json](./325896-sweet-neighbor-bb.json) |
 | Sweet New Year | 339448 | [339448-sweet-new-year.json](./339448-sweet-new-year.json) |
 | Sweet Night Club | 339447 | [339447-sweet-night-club.json](./339447-sweet-night-club.json) |
+| Sweet No Death | 255449 | [255449-sweet-no-death.json](./255449-sweet-no-death.json) |
 | Sweet Office | 212191 | [212191-sweet-office.json](./212191-sweet-office.json) |
 | Sweet Office | 343597 | [343597-sweet-office.json](./343597-sweet-office.json) |
 | Sweet Office 2 | 306303 | [306303-sweet-office-2.json](./306303-sweet-office-2.json) |
