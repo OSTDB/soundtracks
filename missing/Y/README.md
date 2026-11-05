@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yandere AI Girlfriend Simulator: With You Til The End | 256214 | [256214-yandere-ai-girlfriend-simulator-with-you-til-the-end.json](./256214-yandere-ai-girlfriend-simulator-with-you-til-the-end.json) |
 | Yandere Anime Boyfriend: A Day with Your Husbando Sim | 330223 | [330223-yandere-anime-boyfriend-a-day-with-your-husbando-sim.json](./330223-yandere-anime-boyfriend-a-day-with-your-husbando-sim.json) |
 | Yandere Anime Girlfriend: The Mean Waifu Sim | 330224 | [330224-yandere-anime-girlfriend-the-mean-waifu-sim.json](./330224-yandere-anime-girlfriend-the-mean-waifu-sim.json) |
+| Yandere Clicker | 285280 | [285280-yandere-clicker.json](./285280-yandere-clicker.json) |
 | Yandere Escape | 129125 | [129125-yandere-escape.json](./129125-yandere-escape.json) |
 | Yandere Goth BDSM | 372256 | [372256-yandere-goth-bdsm.json](./372256-yandere-goth-bdsm.json) |
 | Yandere Goth BDSM 10 | 372263 | [372263-yandere-goth-bdsm-10.json](./372263-yandere-goth-bdsm-10.json) |
