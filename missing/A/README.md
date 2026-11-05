@@ -5614,6 +5614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aishi & Reimu | 369468 | [369468-aishi-and-reimu.json](./369468-aishi-and-reimu.json) |
 | Aishiau Koto Shika Dekinai | 178239 | [178239-aishiau-koto-shika-dekinai.json](./178239-aishiau-koto-shika-dekinai.json) |
 | Aishite Knight Herpit | 395098 | [395098-aishite-knight-herpit.json](./395098-aishite-knight-herpit.json) |
+| Aisla | 293025 | [293025-aisla.json](./293025-aisla.json) |
 | Aisle | 130832 | [130832-aisle.json](./130832-aisle.json) |
 | Aisle Lord | 46395 | [46395-aisle-lord.json](./46395-aisle-lord.json) |
 | Aisle Survive | 410432 | [410432-aisle-survive.json](./410432-aisle-survive.json) |
@@ -9896,6 +9897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animals Puzzles for toddler: Learning kids games | 93816 | [93816-animals-puzzles-for-toddler-learning-kids-games.json](./93816-animals-puzzles-for-toddler-learning-kids-games.json) |
 | Animals Transport Simulator | 201692 | [201692-animals-transport-simulator.json](./201692-animals-transport-simulator.json) |
 | Animals Transport Simulator | 219297 | [219297-animals-transport-simulator.json](./219297-animals-transport-simulator.json) |
+| Animals vs. Animals | 293029 | [293029-animals-vs-animals.json](./293029-animals-vs-animals.json) |
 | Animals with Dally Dino | 99313 | [99313-animals-with-dally-dino.json](./99313-animals-with-dally-dino.json) |
 | Animals: Connect the Dots and Add Colors | 88746 | [88746-animals-connect-the-dots-and-add-colors.json](./88746-animals-connect-the-dots-and-add-colors.json) |
 | AnimaLudo | 153823 | [153823-animaludo.json](./153823-animaludo.json) |
@@ -12248,6 +12250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Super Volleyball | 214665 | [214665-arcade-archives-super-volleyball.json](./214665-arcade-archives-super-volleyball.json) |
 | Arcade Archives: Super World Court | 345968 | [345968-arcade-archives-super-world-court.json](./345968-arcade-archives-super-world-court.json) |
 | Arcade Archives: Super Xevious | 342799 | [342799-arcade-archives-super-xevious.json](./342799-arcade-archives-super-xevious.json) |
+| Arcade Archives: Surprise Attack | 292903 | [292903-arcade-archives-surprise-attack.json](./292903-arcade-archives-surprise-attack.json) |
 | Arcade Archives: Swimmer | 147116 | [147116-arcade-archives-swimmer.json](./147116-arcade-archives-swimmer.json) |
 | Arcade Archives: Syvalion | 410362 | [410362-arcade-archives-syvalion.json](./410362-arcade-archives-syvalion.json) |
 | Arcade Archives: T.N.K III | 125659 | [125659-arcade-archives-t-n-k-iii.json](./125659-arcade-archives-t-n-k-iii.json) |
@@ -16202,7 +16205,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
@@ -17890,6 +17892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azur Lane: Crosswave | 109475 | [109475-azur-lane-crosswave.json](./109475-azur-lane-crosswave.json) |
 | Azur Lane: Crosswave - Commanders Calendar Edition | 139918 | [139918-azur-lane-crosswave-commanders-calendar-edition.json](./139918-azur-lane-crosswave-commanders-calendar-edition.json) |
 | Azur Lane: Crosswave - Limited Edition | 166972 | [166972-azur-lane-crosswave-limited-edition.json](./166972-azur-lane-crosswave-limited-edition.json) |
+| Azur Promilia | 292809 | [292809-azur-promilia.json](./292809-azur-promilia.json) |
 | Azura | 74218 | [74218-azura.json](./74218-azura.json) |
 | Azura's Crystals | 318352 | [318352-azuras-crystals.json](./318352-azuras-crystals.json) |
 | Azurael's Circle: Chapter 1 | 107764 | [107764-azuraels-circle-chapter-1.json](./107764-azuraels-circle-chapter-1.json) |
