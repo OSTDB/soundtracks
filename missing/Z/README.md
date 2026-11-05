@@ -1697,6 +1697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Killing Simulator | 103184 | [103184-zombie-killing-simulator.json](./103184-zombie-killing-simulator.json) |
 | Zombie Killing: Call of Killer | 297674 | [297674-zombie-killing-call-of-killer.json](./297674-zombie-killing-call-of-killer.json) |
 | Zombie Killtime | 35003 | [35003-zombie-killtime.json](./35003-zombie-killtime.json) |
+| Zombie Knockout | 263844 | [263844-zombie-knockout.json](./263844-zombie-knockout.json) |
 | Zombie Land | 239089 | [239089-zombie-land.json](./239089-zombie-land.json) |
 | Zombie Lane | 143126 | [143126-zombie-lane.json](./143126-zombie-lane.json) |
 | Zombie Lane Survival | 86599 | [86599-zombie-lane-survival.json](./86599-zombie-lane-survival.json) |
