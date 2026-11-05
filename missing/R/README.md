@@ -12693,6 +12693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Overkill | 134501 | [134501-russian-overkill.json](./134501-russian-overkill.json) |
 | Russian Pawn Store | 211749 | [211749-russian-pawn-store.json](./211749-russian-pawn-store.json) |
 | Russian Peace Duck: Take My Nalogi | 96614 | [96614-russian-peace-duck-take-my-nalogi.json](./96614-russian-peace-duck-take-my-nalogi.json) |
+| Russian Pinocchio | 270463 | [270463-russian-pinocchio.json](./270463-russian-pinocchio.json) |
 | Russian Prison Mafia | 396960 | [396960-russian-prison-mafia.json](./396960-russian-prison-mafia.json) |
 | Russian Prison Sport: Ochko | 96458 | [96458-russian-prison-sport-ochko.json](./96458-russian-prison-sport-ochko.json) |
 | Russian Prison Tattoo Simulator | 155884 | [155884-russian-prison-tattoo-simulator.json](./155884-russian-prison-tattoo-simulator.json) |
