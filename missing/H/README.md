@@ -3967,6 +3967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Froze Over | 342151 | [342151-hell-froze-over.json](./342151-hell-froze-over.json) |
 | Hell Galaxy | 277918 | [277918-hell-galaxy.json](./277918-hell-galaxy.json) |
 | Hell Games | 272760 | [272760-hell-games.json](./272760-hell-games.json) |
+| Hell Girl | 272078 | [272078-hell-girl.json](./272078-hell-girl.json) |
 | Hell Green Blue | 203842 | [203842-hell-green-blue.json](./203842-hell-green-blue.json) |
 | Hell Grocery | 219826 | [219826-hell-grocery.json](./219826-hell-grocery.json) |
 | Hell Ground | 256827 | [256827-hell-ground.json](./256827-hell-ground.json) |
@@ -5568,6 +5569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Here Comes the Swarm | 361846 | [361846-here-comes-the-swarm.json](./361846-here-comes-the-swarm.json) |
 | Here Comes the Wiji Waji | 197622 | [197622-here-comes-the-wiji-waji.json](./197622-here-comes-the-wiji-waji.json) |
 | Here For Sweethearts | 184036 | [184036-here-for-sweethearts.json](./184036-here-for-sweethearts.json) |
+| Here Is Where I Carve My Heart | 272053 | [272053-here-is-where-i-carve-my-heart.json](./272053-here-is-where-i-carve-my-heart.json) |
 | Here Nya | 108054 | [108054-here-nya.json](./108054-here-nya.json) |
 | Here There Be Bears | 247993 | [247993-here-there-be-bears.json](./247993-here-there-be-bears.json) |
 | Here They Lie | 19572 | [19572-here-they-lie.json](./19572-here-they-lie.json) |
@@ -10362,6 +10364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed 2: Old but Gold Pack | 311085 | [311085-hot-wheels-unleashed-2-old-but-gold-pack.json](./311085-hot-wheels-unleashed-2-old-but-gold-pack.json) |
 | Hot Wheels Unleashed 2: Rust and Fast Pack | 254427 | [254427-hot-wheels-unleashed-2-rust-and-fast-pack.json](./254427-hot-wheels-unleashed-2-rust-and-fast-pack.json) |
 | Hot Wheels Unleashed 2: Season Pass Vol. 2 | 293137 | [293137-hot-wheels-unleashed-2-season-pass-vol-2.json](./293137-hot-wheels-unleashed-2-season-pass-vol-2.json) |
+| Hot Wheels Unleashed 2: Speed Kings Pack | 272067 | [272067-hot-wheels-unleashed-2-speed-kings-pack.json](./272067-hot-wheels-unleashed-2-speed-kings-pack.json) |
 | Hot Wheels Unleashed 2: Turbocharged | 251471 | [251471-hot-wheels-unleashed-2-turbocharged.json](./251471-hot-wheels-unleashed-2-turbocharged.json) |
 | Hot Wheels Unleashed 2: Turbocharged - AcceleRacers All-Star Pack | 271933 | [271933-hot-wheels-unleashed-2-turbocharged-acceleracers-all-star-pack.json](./271933-hot-wheels-unleashed-2-turbocharged-acceleracers-all-star-pack.json) |
 | Hot Wheels Unleashed 2: Turbocharged - Day One Edition | 252166 | [252166-hot-wheels-unleashed-2-turbocharged-day-one-edition.json](./252166-hot-wheels-unleashed-2-turbocharged-day-one-edition.json) |
@@ -10372,6 +10375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed 2: Turbocharged - Pure Fire Edition | 252165 | [252165-hot-wheels-unleashed-2-turbocharged-pure-fire-edition.json](./252165-hot-wheels-unleashed-2-turbocharged-pure-fire-edition.json) |
 | Hot Wheels Unleashed 2: Turbocharged - Speed and Style Pack | 274107 | [274107-hot-wheels-unleashed-2-turbocharged-speed-and-style-pack.json](./274107-hot-wheels-unleashed-2-turbocharged-speed-and-style-pack.json) |
 | Hot Wheels Unleashed 2: Twin Mill (Unleashed Edition) | 271777 | [271777-hot-wheels-unleashed-2-twin-mill-unleashed-edition.json](./271777-hot-wheels-unleashed-2-twin-mill-unleashed-edition.json) |
+| Hot Wheels Unleashed 2: Unstoppables Pack | 272066 | [272066-hot-wheels-unleashed-2-unstoppables-pack.json](./272066-hot-wheels-unleashed-2-unstoppables-pack.json) |
 | Hot Wheels Unleashed: AcceleRacers Bassline | 265075 | [265075-hot-wheels-unleashed-acceleracers-bassline.json](./265075-hot-wheels-unleashed-acceleracers-bassline.json) |
 | Hot Wheels Unleashed: AcceleRacers Hollowback | 265087 | [265087-hot-wheels-unleashed-acceleracers-hollowback.json](./265087-hot-wheels-unleashed-acceleracers-hollowback.json) |
 | Hot Wheels Unleashed: Challenge Accepted Edition | 146181 | [146181-hot-wheels-unleashed-challenge-accepted-edition.json](./146181-hot-wheels-unleashed-challenge-accepted-edition.json) |
