@@ -2829,6 +2829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Clicks | 341967 | [341967-path-of-clicks.json](./341967-path-of-clicks.json) |
 | Path of Colors | 243762 | [243762-path-of-colors.json](./243762-path-of-colors.json) |
 | Path of Destruction | 195773 | [195773-path-of-destruction.json](./195773-path-of-destruction.json) |
+| Path of Diablo | 285286 | [285286-path-of-diablo.json](./285286-path-of-diablo.json) |
 | Path of Disdain | 249822 | [249822-path-of-disdain.json](./249822-path-of-disdain.json) |
 | Path of Dragoon | 275127 | [275127-path-of-dragoon.json](./275127-path-of-dragoon.json) |
 | Path of Evil: Immortal Hunter | 174758 | [174758-path-of-evil-immortal-hunter.json](./174758-path-of-evil-immortal-hunter.json) |
@@ -2976,6 +2977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathogen | 402692 | [402692-pathogen.json](./402692-pathogen.json) |
 | Pathogen Purge: Tower Defense | 273825 | [273825-pathogen-purge-tower-defense.json](./273825-pathogen-purge-tower-defense.json) |
 | Pathogen Wars | 62080 | [62080-pathogen-wars.json](./62080-pathogen-wars.json) |
+| Pathogen X | 285281 | [285281-pathogen-x.json](./285281-pathogen-x.json) |
 | Pathogen-X | 143064 | [143064-pathogen-x.json](./143064-pathogen-x.json) |
 | Pathogen: Code Omega | 400467 | [400467-pathogen-code-omega.json](./400467-pathogen-code-omega.json) |
 | Pathogen: Survival | 220460 | [220460-pathogen-survival.json](./220460-pathogen-survival.json) |
@@ -16727,6 +16729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puck-Man Puzzler | 289887 | [289887-puck-man-puzzler.json](./289887-puck-man-puzzler.json) |
 | Puck’s Peak | 366446 | [366446-puck-s-peak.json](./366446-puck-s-peak.json) |
 | Puckdoku | 321606 | [321606-puckdoku.json](./321606-puckdoku.json) |
+| Puckish | 285267 | [285267-puckish.json](./285267-puckish.json) |
 | Puckit! | 380448 | [380448-puckit.json](./380448-puckit.json) |
 | Puckman | 47280 | [47280-puckman.json](./47280-puckman.json) |
 | Puckoff | 191060 | [191060-puckoff.json](./191060-puckoff.json) |
