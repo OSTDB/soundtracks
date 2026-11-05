@@ -12841,6 +12841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom: The Golden Souls 2 | 140497 | [140497-doom-the-golden-souls-2.json](./140497-doom-the-golden-souls-2.json) |
 | Doom: The Golden Souls 3 | 314436 | [314436-doom-the-golden-souls-3.json](./314436-doom-the-golden-souls-3.json) |
 | Doom: The Golden Souls Remastered | 198349 | [198349-doom-the-golden-souls-remastered.json](./198349-doom-the-golden-souls-remastered.json) |
+| Doom: The Lost Episode | 282994 | [282994-doom-the-lost-episode.json](./282994-doom-the-lost-episode.json) |
 | Doom: The Way We Remember It | 252031 | [252031-doom-the-way-we-remember-it.json](./252031-doom-the-way-we-remember-it.json) |
 | Doom: Unto the Evil | 22431 | [22431-doom-unto-the-evil.json](./22431-doom-unto-the-evil.json) |
 | Doom3D | 196011 | [196011-doom3d.json](./196011-doom3d.json) |
@@ -18516,6 +18517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustwun: A Starfighter's Ballad | 109973 | [109973-dustwun-a-starfighters-ballad.json](./109973-dustwun-a-starfighters-ballad.json) |
 | Dusty | 339580 | [339580-dusty.json](./339580-dusty.json) |
 | Dusty | 339581 | [339581-dusty.json](./339581-dusty.json) |
+| Dusty At Home | 282970 | [282970-dusty-at-home.json](./282970-dusty-at-home.json) |
 | Dusty Crib | 272996 | [272996-dusty-crib.json](./272996-dusty-crib.json) |
 | Dusty Derby | 276874 | [276874-dusty-derby.json](./276874-dusty-derby.json) |
 | Dusty Dunes Tycoon | 339583 | [339583-dusty-dunes-tycoon.json](./339583-dusty-dunes-tycoon.json) |
