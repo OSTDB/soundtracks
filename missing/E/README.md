@@ -6602,6 +6602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ever Seen a Cat? | 187258 | [187258-ever-seen-a-cat.json](./187258-ever-seen-a-cat.json) |
 | Ever Seen A Cat? 2 | 202531 | [202531-ever-seen-a-cat-2.json](./202531-ever-seen-a-cat-2.json) |
 | Ever Seen A Cat? 3 | 211179 | [211179-ever-seen-a-cat-3.json](./211179-ever-seen-a-cat-3.json) |
+| Ever Shrine | 268791 | [268791-ever-shrine.json](./268791-ever-shrine.json) |
 | Ever War | 349995 | [349995-ever-war.json](./349995-ever-war.json) |
 | Ever17 | 221220 | [221220-ever17.json](./221220-ever17.json) |
 | Ever17: CrossOver Impression | 231449 | [231449-ever17-crossover-impression.json](./231449-ever17-crossover-impression.json) |
