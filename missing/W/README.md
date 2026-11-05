@@ -3614,6 +3614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whale's Waldo | 180452 | [180452-whales-waldo.json](./180452-whales-waldo.json) |
 | Whalefall Haven | 349400 | [349400-whalefall-haven.json](./349400-whalefall-haven.json) |
 | Wham the Music Box | 45314 | [45314-wham-the-music-box.json](./45314-wham-the-music-box.json) |
+| Whamble | 268812 | [268812-whamble.json](./268812-whamble.json) |
 | What a Ball | 225727 | [225727-what-a-ball.json](./225727-what-a-ball.json) |
 | What a Cluster Fight | 133130 | [133130-what-a-cluster-fight.json](./133130-what-a-cluster-fight.json) |
 | What A Legend | 239306 | [239306-what-a-legend.json](./239306-what-a-legend.json) |
@@ -4659,6 +4660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Killed My Sister? | 122946 | [122946-who-killed-my-sister.json](./122946-who-killed-my-sister.json) |
 | Who Killed the Streamer? | 260645 | [260645-who-killed-the-streamer.json](./260645-who-killed-the-streamer.json) |
 | Who Knows Where They're Going | 184053 | [184053-who-knows-where-theyre-going.json](./184053-who-knows-where-theyre-going.json) |
+| Who Let The Chickens Out? | 268820 | [268820-who-let-the-chickens-out.json](./268820-who-let-the-chickens-out.json) |
 | Who Let the Frog Out | 275508 | [275508-who-let-the-frog-out.json](./275508-who-let-the-frog-out.json) |
 | Who Made This | 338369 | [338369-who-made-this.json](./338369-who-made-this.json) |
 | Who Made this Art? Human or AI | 286652 | [286652-who-made-this-art-human-or-ai.json](./286652-who-made-this-art-human-or-ai.json) |
@@ -5095,6 +5097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Romance: Mofu-mofu Edition | 75657 | [75657-wild-romance-mofu-mofu-edition.json](./75657-wild-romance-mofu-mofu-edition.json) |
 | Wild Roots | 374874 | [374874-wild-roots.json](./374874-wild-roots.json) |
 | Wild Rumble | 226118 | [226118-wild-rumble.json](./226118-wild-rumble.json) |
+| Wild Runners! | 268818 | [268818-wild-runners.json](./268818-wild-runners.json) |
 | Wild Runs | 147241 | [147241-wild-runs.json](./147241-wild-runs.json) |
 | Wild Russia | 379599 | [379599-wild-russia.json](./379599-wild-russia.json) |
 | Wild Safari Run | 96579 | [96579-wild-safari-run.json](./96579-wild-safari-run.json) |
@@ -9084,6 +9087,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE '13 | 5295 | [5295-wwe-13.json](./5295-wwe-13.json) |
 | WWE 2K | 99359 | [99359-wwe-2k.json](./99359-wwe-2k.json) |
 | WWE 2K Battlegrounds: Digital Deluxe Edition | 139826 | [139826-wwe-2k-battlegrounds-digital-deluxe-edition.json](./139826-wwe-2k-battlegrounds-digital-deluxe-edition.json) |
+| WWE 2K15: Hall of Pain | 268798 | [268798-wwe-2k15-hall-of-pain.json](./268798-wwe-2k15-hall-of-pain.json) |
+| WWE 2K15: One More Match | 268785 | [268785-wwe-2k15-one-more-match.json](./268785-wwe-2k15-one-more-match.json) |
+| WWE 2K15: Path of the Warrior | 268799 | [268799-wwe-2k15-path-of-the-warrior.json](./268799-wwe-2k15-path-of-the-warrior.json) |
 | WWE 2K15: Showcase Season Pass | 268862 | [268862-wwe-2k15-showcase-season-pass.json](./268862-wwe-2k15-showcase-season-pass.json) |
 | WWE 2K16 | 11057 | [11057-wwe-2k16.json](./11057-wwe-2k16.json) |
 | WWE 2K17 | 19516 | [19516-wwe-2k17.json](./19516-wwe-2k17.json) |
