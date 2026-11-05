@@ -3670,6 +3670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed your cat | 334473 | [334473-feed-your-cat.json](./334473-feed-your-cat.json) |
 | Feed Your Cat. | 334438 | [334438-feed-your-cat.json](./334438-feed-your-cat.json) |
 | Feed: Fish and Grow | 193856 | [193856-feed-fish-and-grow.json](./193856-feed-fish-and-grow.json) |
+| Feed’em Burger | 248276 | [248276-feed-em-burger.json](./248276-feed-em-burger.json) |
 | FeedBack | 381012 | [381012-feedback.json](./381012-feedback.json) |
 | Feeding Frenzy 2: Shipwreck Showdown | 8321 | [8321-feeding-frenzy-2-shipwreck-showdown.json](./8321-feeding-frenzy-2-shipwreck-showdown.json) |
 | Feeding Kimunakji 2 | 122924 | [122924-feeding-kimunakji-2.json](./122924-feeding-kimunakji-2.json) |
