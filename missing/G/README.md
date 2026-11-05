@@ -2093,6 +2093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gasbound | 418611 | [418611-gasbound.json](./418611-gasbound.json) |
 | GasCraft | 255157 | [255157-gascraft.json](./255157-gascraft.json) |
 | Gash | 126421 | [126421-gash.json](./126421-gash.json) |
+| Gash | 260484 | [260484-gash.json](./260484-gash.json) |
 | Gash And the Ultimate Boner | 292613 | [292613-gash-and-the-ultimate-boner.json](./292613-gash-and-the-ultimate-boner.json) |
 | Gash Rabbet | 354891 | [354891-gash-rabbet.json](./354891-gash-rabbet.json) |
 | Gashi Shachi no Sachi | 225841 | [225841-gashi-shachi-no-sachi.json](./225841-gashi-shachi-no-sachi.json) |
@@ -2114,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gasp | 34152 | [34152-gasp.json](./34152-gasp.json) |
 | Gasparilla: Quest for the Key | 69628 | [69628-gasparilla-quest-for-the-key.json](./69628-gasparilla-quest-for-the-key.json) |
 | Gasping.2 | 303994 | [303994-gasping-2.json](./303994-gasping-2.json) |
+| Gassy Choose Your Own Adventure Weirdo | 260457 | [260457-gassy-choose-your-own-adventure-weirdo.json](./260457-gassy-choose-your-own-adventure-weirdo.json) |
 | Gassy GaoGao | 405545 | [405545-gassy-gaogao.json](./405545-gassy-gaogao.json) |
 | Gassy Getaway | 310076 | [310076-gassy-getaway.json](./310076-gassy-getaway.json) |
 | Gassy Man | 137364 | [137364-gassy-man.json](./137364-gassy-man.json) |
@@ -5232,6 +5234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 3 | 257863 | [257863-gnome-enchanted-jigsaw-puzzles-expansion-pack-3.json](./257863-gnome-enchanted-jigsaw-puzzles-expansion-pack-3.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 4 | 258948 | [258948-gnome-enchanted-jigsaw-puzzles-expansion-pack-4.json](./258948-gnome-enchanted-jigsaw-puzzles-expansion-pack-4.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 5 | 259680 | [259680-gnome-enchanted-jigsaw-puzzles-expansion-pack-5.json](./259680-gnome-enchanted-jigsaw-puzzles-expansion-pack-5.json) |
+| Gnome Enchanted Jigsaw Puzzles: Expansion Pack 8 | 260466 | [260466-gnome-enchanted-jigsaw-puzzles-expansion-pack-8.json](./260466-gnome-enchanted-jigsaw-puzzles-expansion-pack-8.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 9 | 260876 | [260876-gnome-enchanted-jigsaw-puzzles-expansion-pack-9.json](./260876-gnome-enchanted-jigsaw-puzzles-expansion-pack-9.json) |
 | Gnome Escape | 314409 | [314409-gnome-escape.json](./314409-gnome-escape.json) |
 | Gnome Five or More | 122767 | [122767-gnome-five-or-more.json](./122767-gnome-five-or-more.json) |
@@ -6679,6 +6682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golfle | 396995 | [396995-golfle.json](./396995-golfle.json) |
 | Golfme | 390748 | [390748-golfme.json](./390748-golfme.json) |
 | Golfslinger | 330943 | [330943-golfslinger.json](./330943-golfslinger.json) |
+| Golfstacle! Minigolf | 260476 | [260476-golfstacle-minigolf.json](./260476-golfstacle-minigolf.json) |
 | Golftacular! | 351646 | [351646-golftacular.json](./351646-golftacular.json) |
 | GolfTopia | 126952 | [126952-golftopia.json](./126952-golftopia.json) |
 | Golftroidvania | 360012 | [360012-golftroidvania.json](./360012-golftroidvania.json) |
@@ -6915,6 +6919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodbye Cendrillon | 285991 | [285991-goodbye-cendrillon.json](./285991-goodbye-cendrillon.json) |
 | Goodbye Deponia: Premium Edition | 54069 | [54069-goodbye-deponia-premium-edition.json](./54069-goodbye-deponia-premium-edition.json) |
 | Goodbye Dreaming | 132666 | [132666-goodbye-dreaming.json](./132666-goodbye-dreaming.json) |
+| Goodbye Eternity | 260469 | [260469-goodbye-eternity.json](./260469-goodbye-eternity.json) |
 | Goodbye Gordon | 184322 | [184322-goodbye-gordon.json](./184322-goodbye-gordon.json) |
 | Goodbye Monster | 325139 | [325139-goodbye-monster.json](./325139-goodbye-monster.json) |
 | Goodbye My King | 40841 | [40841-goodbye-my-king.json](./40841-goodbye-my-king.json) |
@@ -7615,6 +7620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy Versus: Rising - Deluxe Edition | 260718 | [260718-granblue-fantasy-versus-rising-deluxe-edition.json](./260718-granblue-fantasy-versus-rising-deluxe-edition.json) |
 | Granblue Fantasy Versus: Rising - Figure Studio Set 1 | 379684 | [379684-granblue-fantasy-versus-rising-figure-studio-set-1.json](./379684-granblue-fantasy-versus-rising-figure-studio-set-1.json) |
 | Granblue Fantasy Versus: Rising - Figure Studio Set 2 | 379685 | [379685-granblue-fantasy-versus-rising-figure-studio-set-2.json](./379685-granblue-fantasy-versus-rising-figure-studio-set-2.json) |
+| Granblue Fantasy Versus: Rising - Free Edition | 260487 | [260487-granblue-fantasy-versus-rising-free-edition.json](./260487-granblue-fantasy-versus-rising-free-edition.json) |
 | Granblue Fantasy Versus: Rising - Indigo Witch Beatrix | 374656 | [374656-granblue-fantasy-versus-rising-indigo-witch-beatrix.json](./374656-granblue-fantasy-versus-rising-indigo-witch-beatrix.json) |
 | Granblue Fantasy Versus: Rising - Legendary Edition | 415415 | [415415-granblue-fantasy-versus-rising-legendary-edition.json](./415415-granblue-fantasy-versus-rising-legendary-edition.json) |
 | Granblue Fantasy Versus: Rising - Premium Avatar Set (Pop Team Epic) | 379686 | [379686-granblue-fantasy-versus-rising-premium-avatar-set-pop-team-epic.json](./379686-granblue-fantasy-versus-rising-premium-avatar-set-pop-team-epic.json) |
@@ -8423,6 +8429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Lab | 135116 | [135116-gravity-lab.json](./135116-gravity-lab.json) |
 | Gravity Lab | 275956 | [275956-gravity-lab.json](./275956-gravity-lab.json) |
 | Gravity Lane 981 | 121601 | [121601-gravity-lane-981.json](./121601-gravity-lane-981.json) |
+| Gravity League | 260464 | [260464-gravity-league.json](./260464-gravity-league.json) |
 | Gravity Leo | 108029 | [108029-gravity-leo.json](./108029-gravity-leo.json) |
 | Gravity Light | 102280 | [102280-gravity-light.json](./102280-gravity-light.json) |
 | Gravity Line | 233191 | [233191-gravity-line.json](./233191-gravity-line.json) |
