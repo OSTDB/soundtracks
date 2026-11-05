@@ -1595,6 +1595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrocosmos: There Is No God Up Here | 54763 | [54763-necrocosmos-there-is-no-god-up-here.json](./54763-necrocosmos-there-is-no-god-up-here.json) |
 | Necrocrisis | 208427 | [208427-necrocrisis.json](./208427-necrocrisis.json) |
 | Necrocyte | 426418 | [426418-necrocyte.json](./426418-necrocyte.json) |
+| Necrodepths | 274804 | [274804-necrodepths.json](./274804-necrodepths.json) |
 | Necrodome | 8694 | [8694-necrodome.json](./8694-necrodome.json) |
 | Necrodungeon | 358278 | [358278-necrodungeon.json](./358278-necrodungeon.json) |
 | Necrofall | 401814 | [401814-necrofall.json](./401814-necrofall.json) |
@@ -3119,6 +3120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Age | 117628 | [117628-new-age.json](./117628-new-age.json) |
 | New Age of Machine Warfare | 252663 | [252663-new-age-of-machine-warfare.json](./252663-new-age-of-machine-warfare.json) |
 | New Age Vanguard | 59788 | [59788-new-age-vanguard.json](./59788-new-age-vanguard.json) |
+| New America | 274793 | [274793-new-america.json](./274793-new-america.json) |
 | New Atelier Rorona: The Alchemist of Arland | 82105 | [82105-new-atelier-rorona-the-alchemist-of-arland.json](./82105-new-atelier-rorona-the-alchemist-of-arland.json) |
 | New Athens | 179148 | [179148-new-athens.json](./179148-new-athens.json) |
 | New Atomic Punk: Global Quest | 39495 | [39495-new-atomic-punk-global-quest.json](./39495-new-atomic-punk-global-quest.json) |
@@ -5075,6 +5077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja or Die 2 Die | 402677 | [402677-ninja-or-die-2-die.json](./402677-ninja-or-die-2-die.json) |
 | Ninja or Die: Shadow of the Sun | 204717 | [204717-ninja-or-die-shadow-of-the-sun.json](./204717-ninja-or-die-shadow-of-the-sun.json) |
 | Ninja Ordinance | 360282 | [360282-ninja-ordinance.json](./360282-ninja-ordinance.json) |
+| Ninja Origin | 274811 | [274811-ninja-origin.json](./274811-ninja-origin.json) |
 | Ninja Otedama R | 240729 | [240729-ninja-otedama-r.json](./240729-ninja-otedama-r.json) |
 | Ninja Pac Man | 66382 | [66382-ninja-pac-man.json](./66382-ninja-pac-man.json) |
 | Ninja Painter 2 | 238965 | [238965-ninja-painter-2.json](./238965-ninja-painter-2.json) |
