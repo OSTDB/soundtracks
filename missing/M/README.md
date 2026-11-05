@@ -5822,7 +5822,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9141,6 +9140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge 3 Mania | 234618 | [234618-merge-3-mania.json](./234618-merge-3-mania.json) |
 | Merge 5: 10x10 Color | 233518 | [233518-merge-5-10x10-color.json](./233518-merge-5-10x10-color.json) |
 | Merge Academy | 354983 | [354983-merge-academy.json](./354983-merge-academy.json) |
+| Merge Adventure: Magic Dragons | 261591 | [261591-merge-adventure-magic-dragons.json](./261591-merge-adventure-magic-dragons.json) |
 | Merge AirPlane | 227501 | [227501-merge-airplane.json](./227501-merge-airplane.json) |
 | Merge Archers: Bow and Arrow | 245687 | [245687-merge-archers-bow-and-arrow.json](./245687-merge-archers-bow-and-arrow.json) |
 | Merge Assault | 413365 | [413365-merge-assault.json](./413365-merge-assault.json) |
@@ -11292,6 +11292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Rescuer | 359737 | [359737-mighty-rescuer.json](./359737-mighty-rescuer.json) |
 | Mighty Retro Zero | 182102 | [182102-mighty-retro-zero.json](./182102-mighty-retro-zero.json) |
 | Mighty Rodent | 73777 | [73777-mighty-rodent.json](./73777-mighty-rodent.json) |
+| Mighty Slap | 261588 | [261588-mighty-slap.json](./261588-mighty-slap.json) |
 | Mighty Strike Team | 59869 | [59869-mighty-strike-team.json](./59869-mighty-strike-team.json) |
 | Mighty Switch Force! | 22919 | [22919-mighty-switch-force.json](./22919-mighty-switch-force.json) |
 | Mighty Switch Force! 2 | 20081 | [20081-mighty-switch-force-2.json](./20081-mighty-switch-force-2.json) |
@@ -11892,6 +11893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MindBloc | 260004 | [260004-mindbloc.json](./260004-mindbloc.json) |
 | Mindblower Pack | 78023 | [78023-mindblower-pack.json](./78023-mindblower-pack.json) |
 | Mindbreak Mansion | 320038 | [320038-mindbreak-mansion.json](./320038-mindbreak-mansion.json) |
+| Mindbug Online | 261577 | [261577-mindbug-online.json](./261577-mindbug-online.json) |
 | Mindbuster | 90925 | [90925-mindbuster.json](./90925-mindbuster.json) |
 | MindCelium | 336329 | [336329-mindcelium.json](./336329-mindcelium.json) |
 | Mindcell | 166159 | [166159-mindcell.json](./166159-mindcell.json) |
@@ -17250,6 +17252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motel Nightmares | 372965 | [372965-motel-nightmares.json](./372965-motel-nightmares.json) |
 | Motel Owner Simulator | 344289 | [344289-motel-owner-simulator.json](./344289-motel-owner-simulator.json) |
 | Motel Simulator | 211165 | [211165-motel-simulator.json](./211165-motel-simulator.json) |
+| Motel Simulator: Create, Renovate & Grow Business | 261616 | [261616-motel-simulator-create-renovate-and-grow-business.json](./261616-motel-simulator-create-renovate-and-grow-business.json) |
 | Motel Snooze | 135800 | [135800-motel-snooze.json](./135800-motel-snooze.json) |
 | Motel Snooze: Suite Dreams | 352389 | [352389-motel-snooze-suite-dreams.json](./352389-motel-snooze-suite-dreams.json) |
 | Motel Styx | 215603 | [215603-motel-styx.json](./215603-motel-styx.json) |
