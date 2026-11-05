@@ -10370,6 +10370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microarcade ApplePie | 223617 | [223617-microarcade-applepie.json](./223617-microarcade-applepie.json) |
 | Microball | 94617 | [94617-microball.json](./94617-microball.json) |
 | Microban | 362234 | [362234-microban.json](./362234-microban.json) |
+| Microbe Kombat | 281184 | [281184-microbe-kombat.json](./281184-microbe-kombat.json) |
 | Microbes | 44347 | [44347-microbes.json](./44347-microbes.json) |
 | Microbes and Machines | 213244 | [213244-microbes-and-machines.json](./213244-microbes-and-machines.json) |
 | Microbial Mayhem | 268989 | [268989-microbial-mayhem.json](./268989-microbial-mayhem.json) |
@@ -13425,6 +13426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missile Strike: War Arcade | 56896 | [56896-missile-strike-war-arcade.json](./56896-missile-strike-war-arcade.json) |
 | Missile Survivor | 319240 | [319240-missile-survivor.json](./319240-missile-survivor.json) |
 | Missile Tank | 160256 | [160256-missile-tank.json](./160256-missile-tank.json) |
+| Missile War | 281190 | [281190-missile-war.json](./281190-missile-war.json) |
 | MissileDancer | 100758 | [100758-missiledancer.json](./100758-missiledancer.json) |
 | Missileman | 197634 | [197634-missileman.json](./197634-missileman.json) |
 | Missileman Clone Commandos! | 131586 | [131586-missileman-clone-commandos.json](./131586-missileman-clone-commandos.json) |
