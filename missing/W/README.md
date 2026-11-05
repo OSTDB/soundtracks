@@ -3234,6 +3234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Factus | 362796 | [362796-welcome-to-factus.json](./362796-welcome-to-factus.json) |
 | Welcome to Fredbears | 394988 | [394988-welcome-to-fredbears.json](./394988-welcome-to-fredbears.json) |
 | Welcome to Fredbears | 394990 | [394990-welcome-to-fredbears.json](./394990-welcome-to-fredbears.json) |
+| Welcome to Freddy's | 254251 | [254251-welcome-to-freddys.json](./254251-welcome-to-freddys.json) |
 | Welcome to Free Will: Episode 3 | 237060 | [237060-welcome-to-free-will-episode-3.json](./237060-welcome-to-free-will-episode-3.json) |
 | Welcome to GameCube World!! | 175969 | [175969-welcome-to-gamecube-world.json](./175969-welcome-to-gamecube-world.json) |
 | Welcome to Genius High! | 208317 | [208317-welcome-to-genius-high.json](./208317-welcome-to-genius-high.json) |
@@ -7976,6 +7977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Glue | 63397 | [63397-world-of-glue.json](./63397-world-of-glue.json) |
 | World of Golf | 31814 | [31814-world-of-golf.json](./31814-world-of-golf.json) |
 | World of Goo Remastered | 250935 | [250935-world-of-goo-remastered.json](./250935-world-of-goo-remastered.json) |
+| World of Grimm | 254248 | [254248-world-of-grimm.json](./254248-world-of-grimm.json) |
 | World of Guns VR: Guns Full Access | 155377 | [155377-world-of-guns-vr-guns-full-access.json](./155377-world-of-guns-vr-guns-full-access.json) |
 | World of Guns: Gun Disassembly | 7555 | [7555-world-of-guns-gun-disassembly.json](./7555-world-of-guns-gun-disassembly.json) |
 | World of Guns: VR | 121625 | [121625-world-of-guns-vr.json](./121625-world-of-guns-vr.json) |
