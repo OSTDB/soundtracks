@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M348 | 421582 | [421582-m348.json](./421582-m348.json) |
 | M3nticid3: Control Group | 393018 | [393018-m3nticid3-control-group.json](./393018-m3nticid3-control-group.json) |
 | M6 | 78443 | [78443-m6.json](./78443-m6.json) |
+| M64 MKDD Extended | 286901 | [286901-m64-mkdd-extended.json](./286901-m64-mkdd-extended.json) |
 | M87 | 200511 | [200511-m87.json](./200511-m87.json) |
 | MA 2: President Simulator | 345231 | [345231-ma-2-president-simulator.json](./345231-ma-2-president-simulator.json) |
 | Ma Cheon Ru | 269161 | [269161-ma-cheon-ru.json](./269161-ma-cheon-ru.json) |
@@ -2476,6 +2477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make it! Pancakes | 364080 | [364080-make-it-pancakes.json](./364080-make-it-pancakes.json) |
 | Make it! Shaved Ice | 409545 | [409545-make-it-shaved-ice.json](./409545-make-it-shaved-ice.json) |
 | Make it! Sushi | 347327 | [347327-make-it-sushi.json](./347327-make-it-sushi.json) |
+| Make it! Taiyaki | 286883 | [286883-make-it-taiyaki.json](./286883-make-it-taiyaki.json) |
 | Make it! Yakiimo | 372274 | [372274-make-it-yakiimo.json](./372274-make-it-yakiimo.json) |
 | Make it! Yakitori | 306543 | [306543-make-it-yakitori.json](./306543-make-it-yakitori.json) |
 | Make Love Not War | 208244 | [208244-make-love-not-war.json](./208244-make-love-not-war.json) |
@@ -5769,6 +5771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -18684,6 +18687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Munch & Crunch | 310996 | [310996-munch-and-crunch.json](./310996-munch-and-crunch.json) |
 | Munch Man | 44389 | [44389-munch-man.json](./44389-munch-man.json) |
 | Munch Mobile | 40204 | [40204-munch-mobile.json](./40204-munch-mobile.json) |
+| Munch Planet | 286878 | [286878-munch-planet.json](./286878-munch-planet.json) |
 | Munchees | 319588 | [319588-munchees.json](./319588-munchees.json) |
 | Muncher | 80219 | [80219-muncher.json](./80219-muncher.json) |
 | Munchie Strikers | 258421 | [258421-munchie-strikers.json](./258421-munchie-strikers.json) |
