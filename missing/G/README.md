@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives 47: 12Gems | 251462 | [251462-g-mode-archives-47-12gems.json](./251462-g-mode-archives-47-12gems.json) |
 | G-Mode Archives 49: Gregory Horror Show | 271045 | [271045-g-mode-archives-49-gregory-horror-show.json](./271045-g-mode-archives-49-gregory-horror-show.json) |
 | G-Mode Archives 50: Midnight Horror School | 271044 | [271044-g-mode-archives-50-midnight-horror-school.json](./271044-g-mode-archives-50-midnight-horror-school.json) |
+| G-Mode Archives 51: Trio the Punch | 278197 | [278197-g-mode-archives-51-trio-the-punch.json](./278197-g-mode-archives-51-trio-the-punch.json) |
 | G-Mode Archives 53: Daienkai Buchou | 280075 | [280075-g-mode-archives-53-daienkai-buchou.json](./280075-g-mode-archives-53-daienkai-buchou.json) |
 | G-Mode Archives 56: Mystia3 | 381724 | [381724-g-mode-archives-56-mystia3.json](./381724-g-mode-archives-56-mystia3.json) |
 | G-Mode Archives 58: Gekidan Musume Akane & Aoi | 381255 | [381255-g-mode-archives-58-gekidan-musume-akane-and-aoi.json](./381255-g-mode-archives-58-gekidan-musume-akane-and-aoi.json) |
@@ -514,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Civilizations III: Worlds in Crisis | 155080 | [155080-galactic-civilizations-iii-worlds-in-crisis.json](./155080-galactic-civilizations-iii-worlds-in-crisis.json) |
 | Galactic Civilizations III: Worlds in Crisis DLC | 163381 | [163381-galactic-civilizations-iii-worlds-in-crisis-dlc.json](./163381-galactic-civilizations-iii-worlds-in-crisis-dlc.json) |
 | Galactic Civilizations IV | 169178 | [169178-galactic-civilizations-iv.json](./169178-galactic-civilizations-iv.json) |
+| Galactic Civilizations IV: Expansion Pass | 278188 | [278188-galactic-civilizations-iv-expansion-pass.json](./278188-galactic-civilizations-iv-expansion-pass.json) |
 | Galactic Civilizations IV: Supernova | 247423 | [247423-galactic-civilizations-iv-supernova.json](./247423-galactic-civilizations-iv-supernova.json) |
 | Galactic Civilizations IV: Tales of Centauron | 277000 | [277000-galactic-civilizations-iv-tales-of-centauron.json](./277000-galactic-civilizations-iv-tales-of-centauron.json) |
 | Galactic Civilizations IV: Tales of the Arnor | 277001 | [277001-galactic-civilizations-iv-tales-of-the-arnor.json](./277001-galactic-civilizations-iv-tales-of-the-arnor.json) |
