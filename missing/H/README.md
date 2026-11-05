@@ -5403,6 +5403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Warfare | 366527 | [366527-hentai-warfare.json](./366527-hentai-warfare.json) |
 | Hentai Weed Puzzles | 107526 | [107526-hentai-weed-puzzles.json](./107526-hentai-weed-puzzles.json) |
 | Hentai Weekend | 385621 | [385621-hentai-weekend.json](./385621-hentai-weekend.json) |
+| Hentai Wet Dream | 248979 | [248979-hentai-wet-dream.json](./248979-hentai-wet-dream.json) |
 | Hentai Wild Milf | 371364 | [371364-hentai-wild-milf.json](./371364-hentai-wild-milf.json) |
 | Hentai Witch | 296949 | [296949-hentai-witch.json](./296949-hentai-witch.json) |
 | Hentai Woman | 111585 | [111585-hentai-woman.json](./111585-hentai-woman.json) |
@@ -10580,6 +10581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Management Simulator | 217285 | [217285-hotel-management-simulator.json](./217285-hotel-management-simulator.json) |
 | Hotel Manager Simulator | 199498 | [199498-hotel-manager-simulator.json](./199498-hotel-manager-simulator.json) |
 | Hotel Manager: Together | 407751 | [407751-hotel-manager-together.json](./407751-hotel-manager-together.json) |
+| Hotel Manibella | 249000 | [249000-hotel-manibella.json](./249000-hotel-manibella.json) |
 | Hotel Mario | 8535 | [8535-hotel-mario.json](./8535-hotel-mario.json) |
 | Hotel Mario II | 269846 | [269846-hotel-mario-ii.json](./269846-hotel-mario-ii.json) |
 | Hotel Mario ReBooked | 321398 | [321398-hotel-mario-rebooked.json](./321398-hotel-mario-rebooked.json) |
