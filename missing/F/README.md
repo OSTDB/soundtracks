@@ -8311,6 +8311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flux Family Secrets: The Ripple Effect | 144973 | [144973-flux-family-secrets-the-ripple-effect.json](./144973-flux-family-secrets-the-ripple-effect.json) |
 | Flux Games: Couch Party Pack | 311049 | [311049-flux-games-couch-party-pack.json](./311049-flux-games-couch-party-pack.json) |
 | Flux Heroes | 410314 | [410314-flux-heroes.json](./410314-flux-heroes.json) |
+| Flux: Spectrum | 281160 | [281160-flux-spectrum.json](./281160-flux-spectrum.json) |
 | Flux8 | 50513 | [50513-flux8.json](./50513-flux8.json) |
 | Fluxgates | 417364 | [417364-fluxgates.json](./417364-fluxgates.json) |
 | Fluxion | 243568 | [243568-fluxion.json](./243568-fluxion.json) |
@@ -13124,6 +13125,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funky Bee | 40131 | [40131-funky-bee.json](./40131-funky-bee.json) |
 | Funky Boxers | 44725 | [44725-funky-boxers.json](./44725-funky-boxers.json) |
 | Funky Fantasy | 77226 | [77226-funky-fantasy.json](./77226-funky-fantasy.json) |
+| Funky Fish | 281194 | [281194-funky-fish.json](./281194-funky-fish.json) |
+| Funky Fish | 281195 | [281195-funky-fish.json](./281195-funky-fish.json) |
 | Funky Fish | 39685 | [39685-funky-fish.json](./39685-funky-fish.json) |
 | Funky Funny Aliens | 242706 | [242706-funky-funny-aliens.json](./242706-funky-funny-aliens.json) |
 | Funky Head Boxers | 54964 | [54964-funky-head-boxers.json](./54964-funky-head-boxers.json) |
