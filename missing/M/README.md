@@ -3668,6 +3668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario and the Magic Trials | 313401 | [313401-mario-and-the-magic-trials.json](./313401-mario-and-the-magic-trials.json) |
 | Mario and the Mystic Purple Stars | 218088 | [218088-mario-and-the-mystic-purple-stars.json](./218088-mario-and-the-mystic-purple-stars.json) |
 | Mario and the Mystical Worlds | 314124 | [314124-mario-and-the-mystical-worlds.json](./314124-mario-and-the-mystical-worlds.json) |
+| Mario and the Rod of Seasons | 249547 | [249547-mario-and-the-rod-of-seasons.json](./249547-mario-and-the-rod-of-seasons.json) |
 | Mario and Yoshi | 381741 | [381741-mario-and-yoshi.json](./381741-mario-and-yoshi.json) |
 | Mario Andretti Racing | 20593 | [20593-mario-andretti-racing.json](./20593-mario-andretti-racing.json) |
 | Mario Andretti's Racing Challenge | 138177 | [138177-mario-andrettis-racing-challenge.json](./138177-mario-andrettis-racing-challenge.json) |
@@ -3741,6 +3742,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Golf: Sherry | 247111 | [247111-mario-golf-sherry.json](./247111-mario-golf-sherry.json) |
 | Mario Golf: Super Rush | 143609 | [143609-mario-golf-super-rush.json](./143609-mario-golf-super-rush.json) |
 | Mario Golf: Toadstool Tour | 3403 | [3403-mario-golf-toadstool-tour.json](./3403-mario-golf-toadstool-tour.json) |
+| Mario Golf: Toadstool Tour - Ella | 249553 | [249553-mario-golf-toadstool-tour-ella.json](./249553-mario-golf-toadstool-tour-ella.json) |
+| Mario Golf: Toadstool Tour - Neil | 249552 | [249552-mario-golf-toadstool-tour-neil.json](./249552-mario-golf-toadstool-tour-neil.json) |
 | Mario Golf: World Tour | 3405 | [3405-mario-golf-world-tour.json](./3405-mario-golf-world-tour.json) |
 | Mario Golf: World Tour - Flower Pack | 309117 | [309117-mario-golf-world-tour-flower-pack.json](./309117-mario-golf-world-tour-flower-pack.json) |
 | Mario Golf: World Tour - Mushroom Pack | 309116 | [309116-mario-golf-world-tour-mushroom-pack.json](./309116-mario-golf-world-tour-mushroom-pack.json) |
@@ -5842,7 +5845,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -14629,6 +14631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mojito the Cat: Halloween Skins | 309643 | [309643-mojito-the-cat-halloween-skins.json](./309643-mojito-the-cat-halloween-skins.json) |
 | Mojito the Cat: Legendary Edition | 260686 | [260686-mojito-the-cat-legendary-edition.json](./260686-mojito-the-cat-legendary-edition.json) |
 | Mojito the Cat: Platina Edition | 262364 | [262364-mojito-the-cat-platina-edition.json](./262364-mojito-the-cat-platina-edition.json) |
+| Mojito the Cat: Premium Edition | 249557 | [249557-mojito-the-cat-premium-edition.json](./249557-mojito-the-cat-premium-edition.json) |
 | Mojito the Cat: Sushi Skins | 302593 | [302593-mojito-the-cat-sushi-skins.json](./302593-mojito-the-cat-sushi-skins.json) |
 | Mojito the Cat: Ultimate Edition | 233939 | [233939-mojito-the-cat-ultimate-edition.json](./233939-mojito-the-cat-ultimate-edition.json) |
 | Mojo 2 | 284245 | [284245-mojo-2.json](./284245-mojo-2.json) |
@@ -17973,6 +17976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Move the Blocks | 57743 | [57743-move-the-blocks.json](./57743-move-the-blocks.json) |
 | Move the Box | 254892 | [254892-move-the-box.json](./254892-move-the-box.json) |
 | Move The Box: Classic Block Puzzle | 251052 | [251052-move-the-box-classic-block-puzzle.json](./251052-move-the-box-classic-block-puzzle.json) |
+| Move the Pin: Classic Logic Puzzle | 249575 | [249575-move-the-pin-classic-logic-puzzle.json](./249575-move-the-pin-classic-logic-puzzle.json) |
 | Move the Window | 167509 | [167509-move-the-window.json](./167509-move-the-window.json) |
 | Move your Brain: Rollway Puzzle | 67050 | [67050-move-your-brain-rollway-puzzle.json](./67050-move-your-brain-rollway-puzzle.json) |
 | Moved In | 386823 | [386823-moved-in.json](./386823-moved-in.json) |
@@ -19150,6 +19154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murky Divers | 303304 | [303304-murky-divers.json](./303304-murky-divers.json) |
 | Murky Horizon | 66622 | [66622-murky-horizon.json](./66622-murky-horizon.json) |
 | Murky Waters | 133156 | [133156-murky-waters.json](./133156-murky-waters.json) |
+| MurmAllmaus | 249541 | [249541-murmallmaus.json](./249541-murmallmaus.json) |
 | Murmel TCG | 408398 | [408398-murmel-tcg.json](./408398-murmel-tcg.json) |
 | Murmeln und mehr ... | 86061 | [86061-murmeln-und-mehr.json](./86061-murmeln-und-mehr.json) |
 | MurMur | 239333 | [239333-murmur.json](./239333-murmur.json) |
