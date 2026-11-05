@@ -3398,6 +3398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebooted Fate | 393208 | [393208-rebooted-fate.json](./393208-rebooted-fate.json) |
 | Rebop Blasters | 131921 | [131921-rebop-blasters.json](./131921-rebop-blasters.json) |
 | Reborder | 415850 | [415850-reborder.json](./415850-reborder.json) |
+| Reborn | 262715 | [262715-reborn.json](./262715-reborn.json) |
 | Reborn | 301985 | [301985-reborn.json](./301985-reborn.json) |
 | Reborn | 377335 | [377335-reborn.json](./377335-reborn.json) |
 | Reborn | 76431 | [76431-reborn.json](./76431-reborn.json) |
@@ -9756,6 +9757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rodina.doc | 174065 | [174065-rodina-doc.json](./174065-rodina-doc.json) |
 | Rodney's Funscreen 2 Extreme | 257256 | [257256-rodneys-funscreen-2-extreme.json](./257256-rodneys-funscreen-2-extreme.json) |
 | Rododendron | 370721 | [370721-rododendron.json](./370721-rododendron.json) |
+| Rodolfo Mascarpone y Ramón Cazanuecos: Amenaza en el Molinillo | 262737 | [262737-rodolfo-mascarpone-y-ramon-cazanuecos-amenaza-en-el-molinillo.json](./262737-rodolfo-mascarpone-y-ramon-cazanuecos-amenaza-en-el-molinillo.json) |
 | Rods: Rod Roll | 316152 | [316152-rods-rod-roll.json](./316152-rods-rod-roll.json) |
 | Rody & Mastico | 13077 | [13077-rody-and-mastico.json](./13077-rody-and-mastico.json) |
 | Rody & Mastico II | 15357 | [15357-rody-and-mastico-ii.json](./15357-rody-and-mastico-ii.json) |
