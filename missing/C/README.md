@@ -2974,6 +2974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartel Simulator | 312414 | [312414-cartel-simulator.json](./312414-cartel-simulator.json) |
 | Cartel Smash | 114360 | [114360-cartel-smash.json](./114360-cartel-smash.json) |
 | Cartel Tycoon: Anniversary Edition | 268321 | [268321-cartel-tycoon-anniversary-edition.json](./268321-cartel-tycoon-anniversary-edition.json) |
+| Cartel Tycoon: Content Pack - Diva's Hotel | 293451 | [293451-cartel-tycoon-content-pack-divas-hotel.json](./293451-cartel-tycoon-content-pack-divas-hotel.json) |
 | Cartel Tycoon: Lieutenants Pack - Guerilla | 226298 | [226298-cartel-tycoon-lieutenants-pack-guerilla.json](./226298-cartel-tycoon-lieutenants-pack-guerilla.json) |
 | Cartel Tycoon: Lieutenants Pack - La Familia | 243673 | [243673-cartel-tycoon-lieutenants-pack-la-familia.json](./243673-cartel-tycoon-lieutenants-pack-la-familia.json) |
 | Cartel Tycoon: San Rafaela | 252371 | [252371-cartel-tycoon-san-rafaela.json](./252371-cartel-tycoon-san-rafaela.json) |
@@ -8866,6 +8867,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines II | 240902 | [240902-cities-skylines-ii.json](./240902-cities-skylines-ii.json) |
 | Cities: Skylines II - Beach Properties | 292637 | [292637-cities-skylines-ii-beach-properties.json](./292637-cities-skylines-ii-beach-properties.json) |
 | Cities: Skylines II - Bridges & Ports | 294381 | [294381-cities-skylines-ii-bridges-and-ports.json](./294381-cities-skylines-ii-bridges-and-ports.json) |
+| Cities: Skylines II - Creator Pack: Modern Architecture | 293452 | [293452-cities-skylines-ii-creator-pack-modern-architecture.json](./293452-cities-skylines-ii-creator-pack-modern-architecture.json) |
+| Cities: Skylines II - Creator Pack: Urban Promenades | 293453 | [293453-cities-skylines-ii-creator-pack-urban-promenades.json](./293453-cities-skylines-ii-creator-pack-urban-promenades.json) |
 | Cities: Skylines II - Deluxe Relax Station | 292636 | [292636-cities-skylines-ii-deluxe-relax-station.json](./292636-cities-skylines-ii-deluxe-relax-station.json) |
 | Cities: Skylines II - San Francisco Set | 294380 | [294380-cities-skylines-ii-san-francisco-set.json](./294380-cities-skylines-ii-san-francisco-set.json) |
 | Cities: Skylines II - Ultimate Edition | 273942 | [273942-cities-skylines-ii-ultimate-edition.json](./273942-cities-skylines-ii-ultimate-edition.json) |
