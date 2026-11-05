@@ -3729,6 +3729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of Starlight | 213315 | [213315-temple-of-starlight.json](./213315-temple-of-starlight.json) |
 | Temple of Tangram | 198519 | [198519-temple-of-tangram.json](./198519-temple-of-tangram.json) |
 | Temple of Terror | 36840 | [36840-temple-of-terror.json](./36840-temple-of-terror.json) |
+| Temple of Teuthis v1 | 271525 | [271525-temple-of-teuthis-v1.json](./271525-temple-of-teuthis-v1.json) |
 | Temple of the Abyssal Winds | 107673 | [107673-temple-of-the-abyssal-winds.json](./107673-temple-of-the-abyssal-winds.json) |
 | Temple of the Ancients | 273543 | [273543-temple-of-the-ancients.json](./273543-temple-of-the-ancients.json) |
 | Temple of the Apsara | 31835 | [31835-temple-of-the-apsara.json](./31835-temple-of-the-apsara.json) |
@@ -4110,6 +4111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tensei | 264610 | [264610-tensei.json](./264610-tensei.json) |
 | Tensei Brave | 259109 | [259109-tensei-brave.json](./259109-tensei-brave.json) |
 | Tensei Hakkenshi Fuumaroku | 221604 | [221604-tensei-hakkenshi-fuumaroku.json](./221604-tensei-hakkenshi-fuumaroku.json) |
+| Tensei Isekai RPG kara no Dasshutsu | 271515 | [271515-tensei-isekai-rpg-kara-no-dasshutsu.json](./271515-tensei-isekai-rpg-kara-no-dasshutsu.json) |
 | Tensei Shitara Slime Datta Ken: Lord of Tempest | 90112 | [90112-tensei-shitara-slime-datta-ken-lord-of-tempest.json](./90112-tensei-shitara-slime-datta-ken-lord-of-tempest.json) |
 | Tensei Shitara Slime Datta Ken: Tempest Stories | 306195 | [306195-tensei-shitara-slime-datta-ken-tempest-stories.json](./306195-tensei-shitara-slime-datta-ken-tempest-stories.json) |
 | Tensen Nyannyan: Gekigyouban | 166149 | [166149-tensen-nyannyan-gekigyouban.json](./166149-tensen-nyannyan-gekigyouban.json) |
@@ -7241,6 +7243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cluster | 398150 | [398150-the-cluster.json](./398150-the-cluster.json) |
 | The Clutch: Remastered | 186864 | [186864-the-clutch-remastered.json](./186864-the-clutch-remastered.json) |
 | The Coagula Contest | 271497 | [271497-the-coagula-contest.json](./271497-the-coagula-contest.json) |
+| The Coagula Contest 2 | 271517 | [271517-the-coagula-contest-2.json](./271517-the-coagula-contest-2.json) |
 | The Coagulation | 360506 | [360506-the-coagulation.json](./360506-the-coagulation.json) |
 | The Coal Room | 323617 | [323617-the-coal-room.json](./323617-the-coal-room.json) |
 | The Cobalt Palace | 271457 | [271457-the-cobalt-palace.json](./271457-the-cobalt-palace.json) |
@@ -9152,6 +9155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Father | 184338 | [184338-the-father.json](./184338-the-father.json) |
 | The Father's Story | 320056 | [320056-the-fathers-story.json](./320056-the-fathers-story.json) |
 | The Fatum | 361453 | [361453-the-fatum.json](./361453-the-fatum.json) |
+| The Faults Within | 271538 | [271538-the-faults-within.json](./271538-the-faults-within.json) |
 | The Fazbear Facility | 206591 | [206591-the-fazbear-facility.json](./206591-the-fazbear-facility.json) |
 | The Fear | 94356 | [94356-the-fear.json](./94356-the-fear.json) |
 | The Fear 2: Creepy Scream House | 96745 | [96745-the-fear-2-creepy-scream-house.json](./96745-the-fear-2-creepy-scream-house.json) |
@@ -10281,6 +10285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hand of Merlin: Deluxe Edition | 169164 | [169164-the-hand-of-merlin-deluxe-edition.json](./169164-the-hand-of-merlin-deluxe-edition.json) |
 | The Hand of Panda | 85436 | [85436-the-hand-of-panda.json](./85436-the-hand-of-panda.json) |
 | The Hand of the Crownbearer | 403718 | [403718-the-hand-of-the-crownbearer.json](./403718-the-hand-of-the-crownbearer.json) |
+| The Hand That Feeds You | 271511 | [271511-the-hand-that-feeds-you.json](./271511-the-hand-that-feeds-you.json) |
 | The Handbook | 152868 | [152868-the-handbook.json](./152868-the-handbook.json) |
 | The Handler of Dragons | 125719 | [125719-the-handler-of-dragons.json](./125719-the-handler-of-dragons.json) |
 | The Hanged Man | 56035 | [56035-the-hanged-man.json](./56035-the-hanged-man.json) |
@@ -12789,6 +12794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Living Handra | 186669 | [186669-the-living-handra.json](./186669-the-living-handra.json) |
 | The Living Remain | 103536 | [103536-the-living-remain.json](./103536-the-living-remain.json) |
 | The Lizard King | 239154 | [239154-the-lizard-king.json](./239154-the-lizard-king.json) |
+| The Lizard's Trance | 271527 | [271527-the-lizards-trance.json](./271527-the-lizards-trance.json) |
 | The Lizartian | 202614 | [202614-the-lizartian.json](./202614-the-lizartian.json) |
 | The Llama | 387343 | [387343-the-llama.json](./387343-the-llama.json) |
 | The Llama L | 214476 | [214476-the-llama-l.json](./214476-the-llama-l.json) |
@@ -18345,6 +18351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The War: Black Stone | 221388 | [221388-the-war-black-stone.json](./221388-the-war-black-stone.json) |
 | The Warbler's Nest | 64800 | [64800-the-warblers-nest.json](./64800-the-warblers-nest.json) |
 | The Ward | 70348 | [70348-the-ward.json](./70348-the-ward.json) |
+| The Warden | 271533 | [271533-the-warden.json](./271533-the-warden.json) |
 | The Warden | 34149 | [34149-the-warden.json](./34149-the-warden.json) |
 | The Warden's Paradise | 289951 | [289951-the-wardens-paradise.json](./289951-the-wardens-paradise.json) |
 | The Wardrobe | 22818 | [22818-the-wardrobe.json](./22818-the-wardrobe.json) |
@@ -19581,6 +19588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thirsty Princess | 381575 | [381575-thirsty-princess.json](./381575-thirsty-princess.json) |
 | Thirteen & Half Cats | 120888 | [120888-thirteen-and-half-cats.json](./120888-thirteen-and-half-cats.json) |
 | Thirteen Souls | 129770 | [129770-thirteen-souls.json](./129770-thirteen-souls.json) |
+| Thirteen Tombs of the Brilliant Dynasty | 271532 | [271532-thirteen-tombs-of-the-brilliant-dynasty.json](./271532-thirteen-tombs-of-the-brilliant-dynasty.json) |
 | Thirtle | 370381 | [370381-thirtle.json](./370381-thirtle.json) |
 | Thirty Cycles | 200710 | [200710-thirty-cycles.json](./200710-thirty-cycles.json) |
 | Thirty Eternal Days | 187153 | [187153-thirty-eternal-days.json](./187153-thirty-eternal-days.json) |
@@ -19970,6 +19978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Skies Ascension | 318398 | [318398-three-skies-ascension.json](./318398-three-skies-ascension.json) |
 | Three Sons | 192968 | [192968-three-sons.json](./192968-three-sons.json) |
 | Three Thousand Worlds | 276576 | [276576-three-thousand-worlds.json](./276576-three-thousand-worlds.json) |
+| Three Towers And A Sick Base | 271513 | [271513-three-towers-and-a-sick-base.json](./271513-three-towers-and-a-sick-base.json) |
 | Three Treason Theories | 110787 | [110787-three-treason-theories.json](./110787-three-treason-theories.json) |
 | Three Twenty One | 43440 | [43440-three-twenty-one.json](./43440-three-twenty-one.json) |
 | Three Verses | 297686 | [297686-three-verses.json](./297686-three-verses.json) |
@@ -24379,6 +24388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb of Doom | 70873 | [70873-tomb-of-doom.json](./70873-tomb-of-doom.json) |
 | Tomb of Dread | 256100 | [256100-tomb-of-dread.json](./256100-tomb-of-dread.json) |
 | Tomb of Evil Avenue | 120890 | [120890-tomb-of-evil-avenue.json](./120890-tomb-of-evil-avenue.json) |
+| Tomb of Fenrir | 271537 | [271537-tomb-of-fenrir.json](./271537-tomb-of-fenrir.json) |
 | Tomb of Friends | 249468 | [249468-tomb-of-friends.json](./249468-tomb-of-friends.json) |
 | Tomb of Friends + | 114280 | [114280-tomb-of-friends.json](./114280-tomb-of-friends.json) |
 | Tomb of Horror | 356664 | [356664-tomb-of-horror.json](./356664-tomb-of-horror.json) |
@@ -25090,6 +25100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tora he no Michi | 37647 | [37647-tora-he-no-michi.json](./37647-tora-he-no-michi.json) |
 | Tora's Garden | 274312 | [274312-toras-garden.json](./274312-toras-garden.json) |
 | Torara no Mahjong Kyoushitsu | 397894 | [397894-torara-no-mahjong-kyoushitsu.json](./397894-torara-no-mahjong-kyoushitsu.json) |
+| Toraware Hotel | 271547 | [271547-toraware-hotel.json](./271547-toraware-hotel.json) |
 | Toraware no Palm | 97297 | [97297-toraware-no-palm.json](./97297-toraware-no-palm.json) |
 | Toraware no Palm: Deluxe Edition | 136967 | [136967-toraware-no-palm-deluxe-edition.json](./136967-toraware-no-palm-deluxe-edition.json) |
 | Toraware no Palm: Refrain | 109603 | [109603-toraware-no-palm-refrain.json](./109603-toraware-no-palm-refrain.json) |
