@@ -6140,6 +6140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dementium II HD | 5837 | [5837-dementium-ii-hd.json](./5837-dementium-ii-hd.json) |
 | Dementium Remastered | 20034 | [20034-dementium-remastered.json](./20034-dementium-remastered.json) |
 | Dementium: The Ward | 21238 | [21238-dementium-the-ward.json](./21238-dementium-the-ward.json) |
+| Dementium: The Ward | 269363 | [269363-dementium-the-ward.json](./269363-dementium-the-ward.json) |
 | Demeo | 144763 | [144763-demeo.json](./144763-demeo.json) |
 | Demeo Battles | 251555 | [251555-demeo-battles.json](./251555-demeo-battles.json) |
 | Demeo x Dungeons & Dragons: Battlemarked | 346959 | [346959-demeo-x-dungeons-and-dragons-battlemarked.json](./346959-demeo-x-dungeons-and-dragons-battlemarked.json) |
@@ -13850,6 +13851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Bloodshot | 311041 | [311041-dr-bloodshot.json](./311041-dr-bloodshot.json) |
 | Dr. Bon Bon Puzzle | 229346 | [229346-dr-bon-bon-puzzle.json](./229346-dr-bon-bon-puzzle.json) |
 | Dr. Bowlatzo's Crazy Bowling | 413498 | [413498-dr-bowlatzos-crazy-bowling.json](./413498-dr-bowlatzos-crazy-bowling.json) |
+| Dr. Bowow's Eco-Extraction | 269266 | [269266-dr-bowows-eco-extraction.json](./269266-dr-bowows-eco-extraction.json) |
 | Dr. Brain Thinking Games IQ Adventures | 72726 | [72726-dr-brain-thinking-games-iq-adventures.json](./72726-dr-brain-thinking-games-iq-adventures.json) |
 | Dr. Brain Thinking Games: Puzzle Madness | 72141 | [72141-dr-brain-thinking-games-puzzle-madness.json](./72141-dr-brain-thinking-games-puzzle-madness.json) |
 | Dr. Bulbaceous | 34806 | [34806-dr-bulbaceous.json](./34806-dr-bulbaceous.json) |
