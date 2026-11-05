@@ -643,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenomorph | 2281 | [2281-xenomorph.json](./2281-xenomorph.json) |
 | Xenomorph | 231999 | [231999-xenomorph.json](./231999-xenomorph.json) |
 | Xenomorph | 83494 | [83494-xenomorph.json](./83494-xenomorph.json) |
+| Xenomorph Base | 257154 | [257154-xenomorph-base.json](./257154-xenomorph-base.json) |
 | Xenon 2: Megablast | 12236 | [12236-xenon-2-megablast.json](./12236-xenon-2-megablast.json) |
 | Xenon 2: Megablast | 370487 | [370487-xenon-2-megablast.json](./370487-xenon-2-megablast.json) |
 | Xenon 2000 - Project PCF | 69771 | [69771-xenon-2000-project-pcf.json](./69771-xenon-2000-project-pcf.json) |
