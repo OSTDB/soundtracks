@@ -910,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes Of The City | 393443 | [393443-echoes-of-the-city.json](./393443-echoes-of-the-city.json) |
 | Echoes of the Core | 365840 | [365840-echoes-of-the-core.json](./365840-echoes-of-the-core.json) |
 | Echoes of the Court | 366349 | [366349-echoes-of-the-court.json](./366349-echoes-of-the-court.json) |
+| Echoes of The Deep | 294501 | [294501-echoes-of-the-deep.json](./294501-echoes-of-the-deep.json) |
 | Echoes of the Divine Tree | 336763 | [336763-echoes-of-the-divine-tree.json](./336763-echoes-of-the-divine-tree.json) |
 | Echoes of the Emergent | 288686 | [288686-echoes-of-the-emergent.json](./288686-echoes-of-the-emergent.json) |
 | Echoes of the End | 152072 | [152072-echoes-of-the-end.json](./152072-echoes-of-the-end.json) |
@@ -4267,6 +4268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eonheart | 309738 | [309738-eonheart.json](./309738-eonheart.json) |
 | Eonia | 97180 | [97180-eonia.json](./97180-eonia.json) |
 | Eonia Revelations | 259172 | [259172-eonia-revelations.json](./259172-eonia-revelations.json) |
+| Eons Away | 294411 | [294411-eons-away.json](./294411-eons-away.json) |
 | Eons Lost: Arrival | 185038 | [185038-eons-lost-arrival.json](./185038-eons-lost-arrival.json) |
 | Eons of War | 110661 | [110661-eons-of-war.json](./110661-eons-of-war.json) |
 | Eonwar | 217315 | [217315-eonwar.json](./217315-eonwar.json) |
@@ -7732,6 +7734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exploding Kittens | 88938 | [88938-exploding-kittens.json](./88938-exploding-kittens.json) |
 | Exploding Kittens 2 | 336644 | [336644-exploding-kittens-2.json](./336644-exploding-kittens-2.json) |
 | Exploding Lips | 92861 | [92861-exploding-lips.json](./92861-exploding-lips.json) |
+| Exploding Pandas | 294349 | [294349-exploding-pandas.json](./294349-exploding-pandas.json) |
 | Exploding Wall | 13652 | [13652-exploding-wall.json](./13652-exploding-wall.json) |
 | Explody Bomb | 85133 | [85133-explody-bomb.json](./85133-explody-bomb.json) |
 | Exploit | 173424 | [173424-exploit.json](./173424-exploit.json) |
