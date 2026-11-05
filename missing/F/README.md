@@ -3885,6 +3885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fernbus Simulator: Denmark | 254769 | [254769-fernbus-simulator-denmark.json](./254769-fernbus-simulator-denmark.json) |
 | Fernbus Simulator: Interlink HD | 311109 | [311109-fernbus-simulator-interlink-hd.json](./311109-fernbus-simulator-interlink-hd.json) |
 | Fernbus Simulator: Platinum Edition | 136081 | [136081-fernbus-simulator-platinum-edition.json](./136081-fernbus-simulator-platinum-edition.json) |
+| Fernbus Simulator: Poland | 290763 | [290763-fernbus-simulator-poland.json](./290763-fernbus-simulator-poland.json) |
 | Fernbus Simulator: Top Class DD | 197492 | [197492-fernbus-simulator-top-class-dd.json](./197492-fernbus-simulator-top-class-dd.json) |
 | Fernhoof Grove: Riding Academy | 410336 | [410336-fernhoof-grove-riding-academy.json](./410336-fernhoof-grove-riding-academy.json) |
 | Fernocity | 272014 | [272014-fernocity.json](./272014-fernocity.json) |
@@ -11248,6 +11249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Friends | 127665 | [127665-free-friends.json](./127665-free-friends.json) |
 | Free Fur All: We Bare Bears | 373234 | [373234-free-fur-all-we-bare-bears.json](./373234-free-fur-all-we-bare-bears.json) |
 | Free Gear | 268080 | [268080-free-gear.json](./268080-free-gear.json) |
+| Free Girls! | 290757 | [290757-free-girls.json](./290757-free-girls.json) |
 | Free Heroes of Might and Magic II: Resurrection | 186606 | [186606-free-heroes-of-might-and-magic-ii-resurrection.json](./186606-free-heroes-of-might-and-magic-ii-resurrection.json) |
 | Free Hugs Inc. | 178566 | [178566-free-hugs-inc.json](./178566-free-hugs-inc.json) |
 | Free Icecream | 328404 | [328404-free-icecream.json](./328404-free-icecream.json) |
