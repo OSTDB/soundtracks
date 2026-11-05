@@ -7892,6 +7892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Tycoon! | 344901 | [344901-bingo-tycoon.json](./344901-bingo-tycoon.json) |
 | Bingo VR | 151492 | [151492-bingo-vr.json](./151492-bingo-vr.json) |
 | Bingo Wackadoo Watch | 231828 | [231828-bingo-wackadoo-watch.json](./231828-bingo-wackadoo-watch.json) |
+| Bingo Zap | 277643 | [277643-bingo-zap.json](./277643-bingo-zap.json) |
 | Bingo: Pet Rescue | 258965 | [258965-bingo-pet-rescue.json](./258965-bingo-pet-rescue.json) |
 | Bingo! | 389943 | [389943-bingo.json](./389943-bingo.json) |
 | Bingo!!! | 106757 | [106757-bingo.json](./106757-bingo.json) |
@@ -8244,6 +8245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birdie Burglars | 176966 | [176966-birdie-burglars.json](./176966-birdie-burglars.json) |
 | Birdie Crush | 112020 | [112020-birdie-crush.json](./112020-birdie-crush.json) |
 | Birdie Golf | 89783 | [89783-birdie-golf.json](./89783-birdie-golf.json) |
+| Birdie Nest | 277667 | [277667-birdie-nest.json](./277667-birdie-nest.json) |
 | Birdie Putt | 243827 | [243827-birdie-putt.json](./243827-birdie-putt.json) |
 | Birdie Shot | 223956 | [223956-birdie-shot.json](./223956-birdie-shot.json) |
 | Birdie Up | 334084 | [334084-birdie-up.json](./334084-birdie-up.json) |
@@ -12111,6 +12113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolt Action | 380996 | [380996-bolt-action.json](./380996-bolt-action.json) |
 | Bolt Action Stealth | 277506 | [277506-bolt-action-stealth.json](./277506-bolt-action-stealth.json) |
 | Bolt Bot Screwy Viruses | 209777 | [209777-bolt-bot-screwy-viruses.json](./209777-bolt-bot-screwy-viruses.json) |
+| Bolt Fighter | 277663 | [277663-bolt-fighter.json](./277663-bolt-fighter.json) |
 | Bolt Riley, A Reggae Adventure: Chapter 1 | 36168 | [36168-bolt-riley-a-reggae-adventure-chapter-1.json](./36168-bolt-riley-a-reggae-adventure-chapter-1.json) |
 | Bolt Riley: A Reggae Adventure | 89052 | [89052-bolt-riley-a-reggae-adventure.json](./89052-bolt-riley-a-reggae-adventure.json) |
 | Bolt Runner | 298094 | [298094-bolt-runner.json](./298094-bolt-runner.json) |
