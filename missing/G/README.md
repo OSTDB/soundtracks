@@ -5798,6 +5798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of Math: Train Your Brain | 232061 | [232061-god-of-math-train-your-brain.json](./232061-god-of-math-train-your-brain.json) |
 | God of Medicine | 414832 | [414832-god-of-medicine.json](./414832-god-of-medicine.json) |
 | God of Riffs | 148697 | [148697-god-of-riffs.json](./148697-god-of-riffs.json) |
+| God of Riffs: Battle for the Metalverse | 279392 | [279392-god-of-riffs-battle-for-the-metalverse.json](./279392-god-of-riffs-battle-for-the-metalverse.json) |
 | God of Rock | 214507 | [214507-god-of-rock.json](./214507-god-of-rock.json) |
 | God of Rock: Deluxe Edition | 214872 | [214872-god-of-rock-deluxe-edition.json](./214872-god-of-rock-deluxe-edition.json) |
 | God of Stickfights | 279454 | [279454-god-of-stickfights.json](./279454-god-of-stickfights.json) |
@@ -8698,6 +8699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Hawk Platoon | 215014 | [215014-green-hawk-platoon.json](./215014-green-hawk-platoon.json) |
 | Green Heights | 322094 | [322094-green-heights.json](./322094-green-heights.json) |
 | Green Hell VR | 152223 | [152223-green-hell-vr.json](./152223-green-hell-vr.json) |
+| Green Hell VR: Co-op Mode | 279413 | [279413-green-hell-vr-co-op-mode.json](./279413-green-hell-vr-co-op-mode.json) |
 | Green Hell VR: The Spirits of Amazonia Part 1 | 305825 | [305825-green-hell-vr-the-spirits-of-amazonia-part-1.json](./305825-green-hell-vr-the-spirits-of-amazonia-part-1.json) |
 | Green Hill Paradise Act 2: Final Mix | 148223 | [148223-green-hill-paradise-act-2-final-mix.json](./148223-green-hill-paradise-act-2-final-mix.json) |
 | Green Hill Zone 2.5D | 332550 | [332550-green-hill-zone-2-5d.json](./332550-green-hill-zone-2-5d.json) |
@@ -9404,6 +9406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grokai | 307031 | [307031-grokai.json](./307031-grokai.json) |
 | Grokit | 271204 | [271204-grokit.json](./271204-grokit.json) |
 | Grokit: Purrtropolis | 354331 | [354331-grokit-purrtropolis.json](./354331-grokit-purrtropolis.json) |
+| Grokit: Winter Blast | 279394 | [279394-grokit-winter-blast.json](./279394-grokit-winter-blast.json) |
 | Grom: Terror in Tibet | 73767 | [73767-grom-terror-in-tibet.json](./73767-grom-terror-in-tibet.json) |
 | Gromada | 69934 | [69934-gromada.json](./69934-gromada.json) |
 | Grombcross | 288692 | [288692-grombcross.json](./288692-grombcross.json) |
