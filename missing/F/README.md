@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Failticity Online | 56368 | [56368-failticity-online.json](./56368-failticity-online.json) |
 | Failticity Plus | 56369 | [56369-failticity-plus.json](./56369-failticity-plus.json) |
 | Failure Drill | 241518 | [241518-failure-drill.json](./241518-failure-drill.json) |
+| Failure to Launch | 272626 | [272626-failure-to-launch.json](./272626-failure-to-launch.json) |
 | Failure to Launch | 295609 | [295609-failure-to-launch.json](./295609-failure-to-launch.json) |
 | Faily Brakes | 87740 | [87740-faily-brakes.json](./87740-faily-brakes.json) |
 | Faily Brakes 2 | 243744 | [243744-faily-brakes-2.json](./243744-faily-brakes-2.json) |
@@ -2048,6 +2049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy RPG: Raid Legends | 342396 | [342396-fantasy-rpg-raid-legends.json](./342396-fantasy-rpg-raid-legends.json) |
 | Fantasy Saga Frenzy | 308642 | [308642-fantasy-saga-frenzy.json](./308642-fantasy-saga-frenzy.json) |
 | Fantasy Secret | 126361 | [126361-fantasy-secret.json](./126361-fantasy-secret.json) |
+| Fantasy Senate Simulator | 272627 | [272627-fantasy-senate-simulator.json](./272627-fantasy-senate-simulator.json) |
 | Fantasy Shootoff | 305689 | [305689-fantasy-shootoff.json](./305689-fantasy-shootoff.json) |
 | Fantasy Shop | 238492 | [238492-fantasy-shop.json](./238492-fantasy-shop.json) |
 | Fantasy Simulator KnightX | 297629 | [297629-fantasy-simulator-knightx.json](./297629-fantasy-simulator-knightx.json) |
@@ -7239,6 +7241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Souls | 249191 | [249191-flappy-souls.json](./249191-flappy-souls.json) |
 | Flappy Spaceship | 185420 | [185420-flappy-spaceship.json](./185420-flappy-spaceship.json) |
 | Flappy Special | 64124 | [64124-flappy-special.json](./64124-flappy-special.json) |
+| Flappy Swan | 272628 | [272628-flappy-swan.json](./272628-flappy-swan.json) |
 | Flappy Tobari | 206507 | [206507-flappy-tobari.json](./206507-flappy-tobari.json) |
 | Flappy Toss | 266151 | [266151-flappy-toss.json](./266151-flappy-toss.json) |
 | Flappy Trumpadore | 28206 | [28206-flappy-trumpadore.json](./28206-flappy-trumpadore.json) |
