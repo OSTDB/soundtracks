@@ -1851,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Range Day VR | 29303 | [29303-range-day-vr.json](./29303-range-day-vr.json) |
 | Range Game | 125837 | [125837-range-game.json](./125837-range-game.json) |
 | Range is HOT! | 146230 | [146230-range-is-hot.json](./146230-range-is-hot.json) |
+| Range Master: Sniper Academy | 263849 | [263849-range-master-sniper-academy.json](./263849-range-master-sniper-academy.json) |
 | Range Royale | 108426 | [108426-range-royale.json](./108426-range-royale.json) |
 | Rangedrifter | 401275 | [401275-rangedrifter.json](./401275-rangedrifter.json) |
 | Ranger | 388780 | [388780-ranger.json](./388780-ranger.json) |
