@@ -675,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EbiTapes | 238731 | [238731-ebitapes.json](./238731-ebitapes.json) |
 | Ebola | 119556 | [119556-ebola.json](./119556-ebola.json) |
 | Ebola 3 | 216312 | [216312-ebola-3.json](./216312-ebola-3.json) |
+| Ebola 4 | 251945 | [251945-ebola-4.json](./251945-ebola-4.json) |
 | Ebola VI Corp | 111537 | [111537-ebola-vi-corp.json](./111537-ebola-vi-corp.json) |
 | Ebonstar | 57627 | [57627-ebonstar.json](./57627-ebonstar.json) |
 | Ebontale | 179184 | [179184-ebontale.json](./179184-ebontale.json) |
