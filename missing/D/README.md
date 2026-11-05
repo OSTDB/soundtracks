@@ -4359,6 +4359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Dojo | 30913 | [30913-death-dojo.json](./30913-death-dojo.json) |
 | Death Dream | 155361 | [155361-death-dream.json](./155361-death-dream.json) |
 | Death Drive | 197775 | [197775-death-drive.json](./197775-death-drive.json) |
+| Death Drive | 273158 | [273158-death-drive.json](./273158-death-drive.json) |
 | Death Drive | 376056 | [376056-death-drive.json](./376056-death-drive.json) |
 | Death Drive | 66481 | [66481-death-drive.json](./66481-death-drive.json) |
 | Death Drives a Bus | 138531 | [138531-death-drives-a-bus.json](./138531-death-drives-a-bus.json) |
@@ -11001,6 +11002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DMZ Adventure 2 | 331110 | [331110-dmz-adventure-2.json](./331110-dmz-adventure-2.json) |
 | DMZ: North Korea | 27482 | [27482-dmz-north-korea.json](./27482-dmz-north-korea.json) |
 | DMZ: Nuclear Survival | 340001 | [340001-dmz-nuclear-survival.json](./340001-dmz-nuclear-survival.json) |
+| DN64 Revisited | 273160 | [273160-dn64-revisited.json](./273160-dn64-revisited.json) |
 | DNA | 126523 | [126523-dna.json](./126523-dna.json) |
 | DNA 1: Finale | 311106 | [311106-dna-1-finale.json](./311106-dna-1-finale.json) |
 | DNA Farm | 137533 | [137533-dna-farm.json](./137533-dna-farm.json) |
@@ -11844,6 +11846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolucky no Kusayakiu | 38209 | [38209-dolucky-no-kusayakiu.json](./38209-dolucky-no-kusayakiu.json) |
 | Dolucky no Puzzle Tour '94 | 38131 | [38131-dolucky-no-puzzle-tour-94.json](./38131-dolucky-no-puzzle-tour-94.json) |
 | Dolven | 248022 | [248022-dolven.json](./248022-dolven.json) |
+| Doly | 273187 | [273187-doly.json](./273187-doly.json) |
 | Døm Rusalok | 132625 | [132625-d-m-rusalok.json](./132625-d-m-rusalok.json) |
 | Dom-2 | 366376 | [366376-dom-2.json](./366376-dom-2.json) |
 | Domain | 149957 | [149957-domain.json](./149957-domain.json) |
@@ -17298,6 +17301,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Forces | 291977 | [291977-duke-forces.json](./291977-duke-forces.json) |
 | Duke Grabowski: Mighty Swashbuckler | 23982 | [23982-duke-grabowski-mighty-swashbuckler.json](./23982-duke-grabowski-mighty-swashbuckler.json) |
 | Duke Hard | 218118 | [218118-duke-hard.json](./218118-duke-hard.json) |
+| Duke in Los Angeles | 273163 | [273163-duke-in-los-angeles.json](./273163-duke-in-los-angeles.json) |
+| Duke is Ten | 273162 | [273162-duke-is-ten.json](./273162-duke-is-ten.json) |
 | Duke It Out In D.C. | 18495 | [18495-duke-it-out-in-d-c.json](./18495-duke-it-out-in-d-c.json) |
 | Duke It's Zero Hour | 270656 | [270656-duke-its-zero-hour.json](./270656-duke-its-zero-hour.json) |
 | Duke Lost Episodes | 273218 | [273218-duke-lost-episodes.json](./273218-duke-lost-episodes.json) |
@@ -17334,6 +17339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem Forever: Reimposition | 371400 | [371400-duke-nukem-forever-reimposition.json](./371400-duke-nukem-forever-reimposition.json) |
 | Duke Nukem Forever: Restoration Project | 261103 | [261103-duke-nukem-forever-restoration-project.json](./261103-duke-nukem-forever-restoration-project.json) |
 | Duke Nukem II Remastered | 252067 | [252067-duke-nukem-ii-remastered.json](./252067-duke-nukem-ii-remastered.json) |
+| Duke Nukem Is 007 | 273161 | [273161-duke-nukem-is-007.json](./273161-duke-nukem-is-007.json) |
 | Duke Nukem Mobile | 23557 | [23557-duke-nukem-mobile.json](./23557-duke-nukem-mobile.json) |
 | Duke Nukem Quake | 274265 | [274265-duke-nukem-quake.json](./274265-duke-nukem-quake.json) |
 | Duke Nukem Remastered | 252066 | [252066-duke-nukem-remastered.json](./252066-duke-nukem-remastered.json) |
@@ -17359,6 +17365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke!Zone II | 270750 | [270750-duke-zone-ii.json](./270750-duke-zone-ii.json) |
 | Duke2Reconstructed | 360331 | [360331-duke2reconstructed.json](./360331-duke2reconstructed.json) |
 | Dukedom | 228534 | [228534-dukedom.json](./228534-dukedom.json) |
+| Dukeland | 273164 | [273164-dukeland.json](./273164-dukeland.json) |
 | Dukem Memorial Hospital | 270706 | [270706-dukem-memorial-hospital.json](./270706-dukem-memorial-hospital.json) |
 | Dukes of Hazzard 2 | 40653 | [40653-dukes-of-hazzard-2.json](./40653-dukes-of-hazzard-2.json) |
 | Duketroid | 308457 | [308457-duketroid.json](./308457-duketroid.json) |
