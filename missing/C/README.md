@@ -1264,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candleman:find yourself | 130755 | [130755-candleman-find-yourself.json](./130755-candleman-find-yourself.json) |
 | Candlemass | 257297 | [257297-candlemass.json](./257297-candlemass.json) |
 | Candles | 178946 | [178946-candles.json](./178946-candles.json) |
+| Candles | 261622 | [261622-candles.json](./261622-candles.json) |
 | Candles | 341411 | [341411-candles.json](./341411-candles.json) |
 | Candles Aren't Eternal | 386385 | [386385-candles-arent-eternal.json](./386385-candles-arent-eternal.json) |
 | Candles of the Damned | 271491 | [271491-candles-of-the-damned.json](./271491-candles-of-the-damned.json) |
@@ -2122,6 +2123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Mechanic Simulator 2021 & Revhead | 267142 | [267142-car-mechanic-simulator-2021-and-revhead.json](./267142-car-mechanic-simulator-2021-and-revhead.json) |
 | Car Mechanic Simulator 2021: Aston Martin | 215499 | [215499-car-mechanic-simulator-2021-aston-martin.json](./215499-car-mechanic-simulator-2021-aston-martin.json) |
 | Car Mechanic Simulator 2021: BMW DLC | 276213 | [276213-car-mechanic-simulator-2021-bmw-dlc.json](./276213-car-mechanic-simulator-2021-bmw-dlc.json) |
+| Car Mechanic Simulator 2021: China | 261618 | [261618-car-mechanic-simulator-2021-china.json](./261618-car-mechanic-simulator-2021-china.json) |
 | Car Mechanic Simulator 2021: Dodge, Plymouth, Chrysler Remastered | 254278 | [254278-car-mechanic-simulator-2021-dodge-plymouth-chrysler-remastered.json](./254278-car-mechanic-simulator-2021-dodge-plymouth-chrysler-remastered.json) |
 | Car Mechanic Simulator 2021: Drag Racing | 225229 | [225229-car-mechanic-simulator-2021-drag-racing.json](./225229-car-mechanic-simulator-2021-drag-racing.json) |
 | Car Mechanic Simulator 2021: Ford Remastered DLC | 331811 | [331811-car-mechanic-simulator-2021-ford-remastered-dlc.json](./331811-car-mechanic-simulator-2021-ford-remastered-dlc.json) |
@@ -5908,6 +5910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Order | 315532 | [315532-chaos-order.json](./315532-chaos-order.json) |
 | Chaos Overlords | 629 | [629-chaos-overlords.json](./629-chaos-overlords.json) |
 | Chaos Party | 139410 | [139410-chaos-party.json](./139410-chaos-party.json) |
+| Chaos Pattern | 261613 | [261613-chaos-pattern.json](./261613-chaos-pattern.json) |
 | Chaos Pieces | 303407 | [303407-chaos-pieces.json](./303407-chaos-pieces.json) |
 | Chaos Reborn | 13222 | [13222-chaos-reborn.json](./13222-chaos-reborn.json) |
 | Chaos Reborn: Adventures | 109913 | [109913-chaos-reborn-adventures.json](./109913-chaos-reborn-adventures.json) |
@@ -9909,6 +9912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleopatra: Riddle of the Tomb | 21479 | [21479-cleopatra-riddle-of-the-tomb.json](./21479-cleopatra-riddle-of-the-tomb.json) |
 | Cleopatra's Pyramid HD | 102635 | [102635-cleopatras-pyramid-hd.json](./102635-cleopatras-pyramid-hd.json) |
 | Clergy Splode | 34400 | [34400-clergy-splode.json](./34400-clergy-splode.json) |
+| Cleric and Goblins | 261629 | [261629-cleric-and-goblins.json](./261629-cleric-and-goblins.json) |
 | Clériga | 300674 | [300674-cleriga.json](./300674-cleriga.json) |
 | Clerk Hot Tale | 157397 | [157397-clerk-hot-tale.json](./157397-clerk-hot-tale.json) |
 | Clerks & Quirks | 361428 | [361428-clerks-and-quirks.json](./361428-clerks-and-quirks.json) |
@@ -14825,6 +14829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Remnants | 309831 | [309831-cosmic-remnants.json](./309831-cosmic-remnants.json) |
 | Cosmic Resistance | 262816 | [262816-cosmic-resistance.json](./262816-cosmic-resistance.json) |
 | Cosmic Rift | 72918 | [72918-cosmic-rift.json](./72918-cosmic-rift.json) |
+| Cosmic Roads | 261601 | [261601-cosmic-roads.json](./261601-cosmic-roads.json) |
 | Cosmic Robots | 301006 | [301006-cosmic-robots.json](./301006-cosmic-robots.json) |
 | Cosmic Rochambo | 131920 | [131920-cosmic-rochambo.json](./131920-cosmic-rochambo.json) |
 | Cosmic Rocket Defender | 24212 | [24212-cosmic-rocket-defender.json](./24212-cosmic-rocket-defender.json) |
@@ -14904,6 +14909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Police Galivan II: Arrow of Justice | 38213 | [38213-cosmo-police-galivan-ii-arrow-of-justice.json](./38213-cosmo-police-galivan-ii-arrow-of-justice.json) |
 | Cosmo Race | 196335 | [196335-cosmo-race.json](./196335-cosmo-race.json) |
 | Cosmo Ranger: S.O.L. AD 2000 | 72068 | [72068-cosmo-ranger-s-o-l-ad-2000.json](./72068-cosmo-ranger-s-o-l-ad-2000.json) |
+| Cosmo Rider | 261587 | [261587-cosmo-rider.json](./261587-cosmo-rider.json) |
 | Cosmo Run | 106100 | [106100-cosmo-run.json](./106100-cosmo-run.json) |
 | Cosmo Solitaire | 295922 | [295922-cosmo-solitaire.json](./295922-cosmo-solitaire.json) |
 | Cosmo Solitaire 2 | 337254 | [337254-cosmo-solitaire-2.json](./337254-cosmo-solitaire-2.json) |
