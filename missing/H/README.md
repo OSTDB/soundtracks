@@ -5017,6 +5017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Horror: The Eight Pictures | 284237 | [284237-hentai-horror-the-eight-pictures.json](./284237-hentai-horror-the-eight-pictures.json) |
 | Hentai Hospital | 371360 | [371360-hentai-hospital.json](./371360-hentai-hospital.json) |
 | Hentai Hotel | 371363 | [371363-hentai-hotel.json](./371363-hentai-hotel.json) |
+| Hentai HotLady | 271021 | [271021-hentai-hotlady.json](./271021-hentai-hotlady.json) |
 | Hentai House | 365438 | [365438-hentai-house.json](./365438-hentai-house.json) |
 | Hentai House | 389176 | [389176-hentai-house.json](./389176-hentai-house.json) |
 | Hentai House Wife | 371369 | [371369-hentai-house-wife.json](./371369-hentai-house-wife.json) |
@@ -5307,6 +5308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Summer | 112739 | [112739-hentai-summer.json](./112739-hentai-summer.json) |
 | Hentai Survive Island | 366518 | [366518-hentai-survive-island.json](./366518-hentai-survive-island.json) |
 | Hentai Survivors | 366519 | [366519-hentai-survivors.json](./366519-hentai-survivors.json) |
+| Hentai Swapy Puzzle | 271022 | [271022-hentai-swapy-puzzle.json](./271022-hentai-swapy-puzzle.json) |
 | Hentai Sweet Girls | 284238 | [284238-hentai-sweet-girls.json](./284238-hentai-sweet-girls.json) |
 | Hentai Swimming Club | 150530 | [150530-hentai-swimming-club.json](./150530-hentai-swimming-club.json) |
 | Hentai Tales Bundle | 300866 | [300866-hentai-tales-bundle.json](./300866-hentai-tales-bundle.json) |
@@ -6456,6 +6458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexical | 240686 | [240686-hexical.json](./240686-hexical.json) |
 | HexiHashi | 150467 | [150467-hexihashi.json](./150467-hexihashi.json) |
 | Hexile | 105544 | [105544-hexile.json](./105544-hexile.json) |
+| Hexillume | 271019 | [271019-hexillume.json](./271019-hexillume.json) |
 | Hexin : Space Chess Game | 102211 | [102211-hexin-space-chess-game.json](./102211-hexin-space-chess-game.json) |
 | Hexio | 157451 | [157451-hexio.json](./157451-hexio.json) |
 | Hexiom Connect | 416748 | [416748-hexiom-connect.json](./416748-hexiom-connect.json) |
@@ -6503,6 +6506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexplorando | 291778 | [291778-hexplorando.json](./291778-hexplorando.json) |
 | Hexplore | 8310 | [8310-hexplore.json](./8310-hexplore.json) |
 | HeXpunk | 343246 | [343246-hexpunk.json](./343246-hexpunk.json) |
+| Hexrite | 271020 | [271020-hexrite.json](./271020-hexrite.json) |
 | Hexroll | 337779 | [337779-hexroll.json](./337779-hexroll.json) |
 | HexRoller | 253015 | [253015-hexroller.json](./253015-hexroller.json) |
 | Hexseeker | 289285 | [289285-hexseeker.json](./289285-hexseeker.json) |
@@ -9355,6 +9359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkaku Taisen Shogi Ayumu | 97856 | [97856-honkaku-taisen-shogi-ayumu.json](./97856-honkaku-taisen-shogi-ayumu.json) |
 | Honkaku Yon-nin Uchi Mahjong: Mahjong Oh | 228562 | [228562-honkaku-yon-nin-uchi-mahjong-mahjong-oh.json](./228562-honkaku-yon-nin-uchi-mahjong-mahjong-oh.json) |
 | Honkakuha Taikyoku Shogi: Shogi Club | 44433 | [44433-honkakuha-taikyoku-shogi-shogi-club.json](./44433-honkakuha-taikyoku-shogi-shogi-club.json) |
+| Honked: A Clown Noir | 271018 | [271018-honked-a-clown-noir.json](./271018-honked-a-clown-noir.json) |
 | Honker | 291476 | [291476-honker.json](./291476-honker.json) |
 | Honki de Manabu LEC de Goukakuru: Hishou Boki 3-Kyuu Portable | 67324 | [67324-honki-de-manabu-lec-de-goukakuru-hishou-boki-3-kyuu-portable.json](./67324-honki-de-manabu-lec-de-goukakuru-hishou-boki-3-kyuu-portable.json) |
 | Honki de Manabu LEC de Goukakuru: Takuchi Tatemono Torihiki Shuninsha Portable | 67325 | [67325-honki-de-manabu-lec-de-goukakuru-takuchi-tatemono-torihiki-shuninsha-portable.json](./67325-honki-de-manabu-lec-de-goukakuru-takuchi-tatemono-torihiki-shuninsha-portable.json) |
@@ -9808,6 +9813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Suika: Wet Watermelon | 296614 | [296614-horny-suika-wet-watermelon.json](./296614-horny-suika-wet-watermelon.json) |
 | Horny Sweeper | 264716 | [264716-horny-sweeper.json](./264716-horny-sweeper.json) |
 | Horny Sweeper 2 | 130735 | [130735-horny-sweeper-2.json](./130735-horny-sweeper-2.json) |
+| Horny Teachers Want to Fuck | 271010 | [271010-horny-teachers-want-to-fuck.json](./271010-horny-teachers-want-to-fuck.json) |
 | Horny Villa | 301642 | [301642-horny-villa.json](./301642-horny-villa.json) |
 | Horny Warp: Hentai Fantasy | 343372 | [343372-horny-warp-hentai-fantasy.json](./343372-horny-warp-hentai-fantasy.json) |
 | Horny Witch Hunt | 212200 | [212200-horny-witch-hunt.json](./212200-horny-witch-hunt.json) |
@@ -10747,14 +10753,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Jigsaw: Amazing Birds | 273480 | [273480-house-of-jigsaw-amazing-birds.json](./273480-house-of-jigsaw-amazing-birds.json) |
 | House of Jigsaw: Amazing Colors of the World | 273483 | [273483-house-of-jigsaw-amazing-colors-of-the-world.json](./273483-house-of-jigsaw-amazing-colors-of-the-world.json) |
 | House of Jigsaw: Beautiful Flowers | 273481 | [273481-house-of-jigsaw-beautiful-flowers.json](./273481-house-of-jigsaw-beautiful-flowers.json) |
+| House of Jigsaw: Beautiful Nature | 271011 | [271011-house-of-jigsaw-beautiful-nature.json](./271011-house-of-jigsaw-beautiful-nature.json) |
 | House of Jigsaw: Digital Art Manipulation | 273482 | [273482-house-of-jigsaw-digital-art-manipulation.json](./273482-house-of-jigsaw-digital-art-manipulation.json) |
 | House of Jigsaw: Fantasy | 273478 | [273478-house-of-jigsaw-fantasy.json](./273478-house-of-jigsaw-fantasy.json) |
 | House of Jigsaw: Fascinating Landscapes | 273477 | [273477-house-of-jigsaw-fascinating-landscapes.json](./273477-house-of-jigsaw-fascinating-landscapes.json) |
+| House of Jigsaw: Happy puzzling, Happy home | 271012 | [271012-house-of-jigsaw-happy-puzzling-happy-home.json](./271012-house-of-jigsaw-happy-puzzling-happy-home.json) |
+| House of Jigsaw: Impressive Animals | 271013 | [271013-house-of-jigsaw-impressive-animals.json](./271013-house-of-jigsaw-impressive-animals.json) |
 | House of Jigsaw: Masters of Art | 238540 | [238540-house-of-jigsaw-masters-of-art.json](./238540-house-of-jigsaw-masters-of-art.json) |
 | House of Jigsaw: Romance | 273499 | [273499-house-of-jigsaw-romance.json](./273499-house-of-jigsaw-romance.json) |
 | House of Jigsaw: Spooky Halloween | 278548 | [278548-house-of-jigsaw-spooky-halloween.json](./278548-house-of-jigsaw-spooky-halloween.json) |
 | House of Jigsaw: The Art of Still Life | 273476 | [273476-house-of-jigsaw-the-art-of-still-life.json](./273476-house-of-jigsaw-the-art-of-still-life.json) |
 | House of Jigsaw: The Best of Macro Photography | 273475 | [273475-house-of-jigsaw-the-best-of-macro-photography.json](./273475-house-of-jigsaw-the-best-of-macro-photography.json) |
+| House of Jigsaw: The Greatest Architecture | 271014 | [271014-house-of-jigsaw-the-greatest-architecture.json](./271014-house-of-jigsaw-the-greatest-architecture.json) |
 | House of Jigsaw: Urban Lifestyle | 273474 | [273474-house-of-jigsaw-urban-lifestyle.json](./273474-house-of-jigsaw-urban-lifestyle.json) |
 | House of Jigsaw: Vintage Revival | 273473 | [273473-house-of-jigsaw-vintage-revival.json](./273473-house-of-jigsaw-vintage-revival.json) |
 | House of Legacy | 267849 | [267849-house-of-legacy.json](./267849-house-of-legacy.json) |
@@ -11655,6 +11665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt: Showdown 1896 - Myth of the Moors | 253930 | [253930-hunt-showdown-1896-myth-of-the-moors.json](./253930-hunt-showdown-1896-myth-of-the-moors.json) |
 | Hunt: Showdown 1896 - Northern Justice | 292675 | [292675-hunt-showdown-1896-northern-justice.json](./292675-hunt-showdown-1896-northern-justice.json) |
 | Hunt: Showdown 1896 - Premium Edition | 313783 | [313783-hunt-showdown-1896-premium-edition.json](./313783-hunt-showdown-1896-premium-edition.json) |
+| Hunt: Showdown 1896 - Souls of a Feather | 271016 | [271016-hunt-showdown-1896-souls-of-a-feather.json](./271016-hunt-showdown-1896-souls-of-a-feather.json) |
 | Hunt: Showdown 1896 - Starter Edition | 313782 | [313782-hunt-showdown-1896-starter-edition.json](./313782-hunt-showdown-1896-starter-edition.json) |
 | Hunt: Showdown 1896 - The Reckoning Son | 302195 | [302195-hunt-showdown-1896-the-reckoning-son.json](./302195-hunt-showdown-1896-the-reckoning-son.json) |
 | Hunt: Showdown 1896 - The Revenant | 332024 | [332024-hunt-showdown-1896-the-revenant.json](./332024-hunt-showdown-1896-the-revenant.json) |
@@ -11712,6 +11723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter Legend: Rise of Clans | 174660 | [174660-hunter-legend-rise-of-clans.json](./174660-hunter-legend-rise-of-clans.json) |
 | Hunter Legends | 304567 | [304567-hunter-legends.json](./304567-hunter-legends.json) |
 | Hunter Legends of Dungeon | 196413 | [196413-hunter-legends-of-dungeon.json](./196413-hunter-legends-of-dungeon.json) |
+| Hunter Nightmare | 271015 | [271015-hunter-nightmare.json](./271015-hunter-nightmare.json) |
 | Hunter of antiques | 75640 | [75640-hunter-of-antiques.json](./75640-hunter-of-antiques.json) |
 | Hunter of the Disowned | 156088 | [156088-hunter-of-the-disowned.json](./156088-hunter-of-the-disowned.json) |
 | Hunter Patrol | 13883 | [13883-hunter-patrol.json](./13883-hunter-patrol.json) |
