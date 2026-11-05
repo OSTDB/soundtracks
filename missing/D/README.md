@@ -9667,6 +9667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diplomata the Game | 44108 | [44108-diplomata-the-game.json](./44108-diplomata-the-game.json) |
 | Diplomatic Relations | 179941 | [179941-diplomatic-relations.json](./179941-diplomatic-relations.json) |
 | Dipod: The Foot Legacy | 146831 | [146831-dipod-the-foot-legacy.json](./146831-dipod-the-foot-legacy.json) |
+| Dippy & Chippy | 247826 | [247826-dippy-and-chippy.json](./247826-dippy-and-chippy.json) |
 | Diptych | 172948 | [172948-diptych.json](./172948-diptych.json) |
 | Diptych: The Great War | 199135 | [199135-diptych-the-great-war.json](./199135-diptych-the-great-war.json) |
 | Dirappen Restoration | 265700 | [265700-dirappen-restoration.json](./265700-dirappen-restoration.json) |
@@ -10177,6 +10178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dismember Mind 1 | 177805 | [177805-dismember-mind-1.json](./177805-dismember-mind-1.json) |
 | Dismember Mind 2 | 177300 | [177300-dismember-mind-2.json](./177300-dismember-mind-2.json) |
 | Dismember Mind 3 | 252530 | [252530-dismember-mind-3.json](./252530-dismember-mind-3.json) |
+| Disminal | 247821 | [247821-disminal.json](./247821-disminal.json) |
 | DisMonster - Catch the shadow! | 103673 | [103673-dismonster-catch-the-shadow.json](./103673-dismonster-catch-the-shadow.json) |
 | Disney | 220082 | [220082-disney.json](./220082-disney.json) |
 | Disney 100 | 275590 | [275590-disney-100.json](./275590-disney-100.json) |
@@ -14980,6 +14982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Truster | 398267 | [398267-dragon-truster.json](./398267-dragon-truster.json) |
 | Dragon Tycoon Edge | 97321 | [97321-dragon-tycoon-edge.json](./97321-dragon-tycoon-edge.json) |
 | Dragon Up | 205060 | [205060-dragon-up.json](./205060-dragon-up.json) |
+| Dragon Uprising Online | 247827 | [247827-dragon-uprising-online.json](./247827-dragon-uprising-online.json) |
 | Dragon valley | 109744 | [109744-dragon-valley.json](./109744-dragon-valley.json) |
 | Dragon Valor | 27351 | [27351-dragon-valor.json](./27351-dragon-valor.json) |
 | Dragon View | 42635 | [42635-dragon-view.json](./42635-dragon-view.json) |
@@ -15937,6 +15940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamio: AI-Powered Adventures | 250784 | [250784-dreamio-ai-powered-adventures.json](./250784-dreamio-ai-powered-adventures.json) |
 | DreamIsland | 207357 | [207357-dreamisland.json](./207357-dreamisland.json) |
 | Dreamjob: Programmer | 132801 | [132801-dreamjob-programmer.json](./132801-dreamjob-programmer.json) |
+| Dreamkeeper | 247820 | [247820-dreamkeeper.json](./247820-dreamkeeper.json) |
 | Dreamkiller | 11331 | [11331-dreamkiller.json](./11331-dreamkiller.json) |
 | Dreamland | 207308 | [207308-dreamland.json](./207308-dreamland.json) |
 | Dreamland | 21170 | [21170-dreamland.json](./21170-dreamland.json) |
@@ -16114,6 +16118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamy Planet | 190350 | [190350-dreamy-planet.json](./190350-dreamy-planet.json) |
 | Dreamy Room | 337096 | [337096-dreamy-room.json](./337096-dreamy-room.json) |
 | Dreamy Syrup | 330906 | [330906-dreamy-syrup.json](./330906-dreamy-syrup.json) |
+| Dreamy Trail | 247844 | [247844-dreamy-trail.json](./247844-dreamy-trail.json) |
 | Dreary Disposition | 271799 | [271799-dreary-disposition.json](./271799-dreary-disposition.json) |
 | Dredark | 152886 | [152886-dredark.json](./152886-dredark.json) |
 | Dredge: Blackstone Key | 336950 | [336950-dredge-blackstone-key.json](./336950-dredge-blackstone-key.json) |
