@@ -11246,6 +11246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BLR80 | 215483 | [215483-blr80.json](./215483-blr80.json) |
 | BLT Blast | 274862 | [274862-blt-blast.json](./274862-blt-blast.json) |
 | Blu Bandana | 44198 | [44198-blu-bandana.json](./44198-blu-bandana.json) |
+| Blu Caligo | 295064 | [295064-blu-caligo.json](./295064-blu-caligo.json) |
 | Blu-Dude In The Quest for Chocolate Milk | 312164 | [312164-blu-dude-in-the-quest-for-chocolate-milk.json](./312164-blu-dude-in-the-quest-for-chocolate-milk.json) |
 | Blu-dude in the Quest of Reality in Time | 346480 | [346480-blu-dude-in-the-quest-of-reality-in-time.json](./346480-blu-dude-in-the-quest-of-reality-in-time.json) |
 | Blub | 274497 | [274497-blub.json](./274497-blub.json) |
@@ -11364,6 +11365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Ninja: Superhero Game | 275495 | [275495-blue-ninja-superhero-game.json](./275495-blue-ninja-superhero-game.json) |
 | Blue Notebook | 367159 | [367159-blue-notebook.json](./367159-blue-notebook.json) |
 | Blue Oath | 411791 | [411791-blue-oath.json](./411791-blue-oath.json) |
+| Blue Ocean | 294913 | [294913-blue-ocean.json](./294913-blue-ocean.json) |
 | Blue Oddities: The Final Chapter | 238429 | [238429-blue-oddities-the-final-chapter.json](./238429-blue-oddities-the-final-chapter.json) |
 | Blue Omen Operation | 76237 | [76237-blue-omen-operation.json](./76237-blue-omen-operation.json) |
 | Blue Orchid: Interactive Story | 222730 | [222730-blue-orchid-interactive-story.json](./222730-blue-orchid-interactive-story.json) |
