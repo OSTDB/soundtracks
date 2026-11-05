@@ -5670,6 +5670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Colony | 235705 | [235705-goblin-colony.json](./235705-goblin-colony.json) |
 | Goblin Commander: Unleash the Horde | 3934 | [3934-goblin-commander-unleash-the-horde.json](./3934-goblin-commander-unleash-the-horde.json) |
 | Goblin Company | 386855 | [386855-goblin-company.json](./386855-goblin-company.json) |
+| Goblin Conqueror | 248956 | [248956-goblin-conqueror.json](./248956-goblin-conqueror.json) |
 | Goblin Corrosion | 328913 | [328913-goblin-corrosion.json](./328913-goblin-corrosion.json) |
 | Goblin Creed: Origins | 259946 | [259946-goblin-creed-origins.json](./259946-goblin-creed-origins.json) |
 | Goblin Crusher | 14096 | [14096-goblin-crusher.json](./14096-goblin-crusher.json) |
@@ -8574,6 +8575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Again | 244853 | [244853-great-again.json](./244853-great-again.json) |
 | Great Again: 3D Shooter | 330230 | [330230-great-again-3d-shooter.json](./330230-great-again-3d-shooter.json) |
 | Great Alhcemist | 129227 | [129227-great-alhcemist.json](./129227-great-alhcemist.json) |
+| Great Ambition of the Slimes | 248982 | [248982-great-ambition-of-the-slimes.json](./248982-great-ambition-of-the-slimes.json) |
 | Great American Golf | 45926 | [45926-great-american-golf.json](./45926-great-american-golf.json) |
 | Great American Golf 2 | 45898 | [45898-great-american-golf-2.json](./45898-great-american-golf-2.json) |
 | Great Artists Steal | 118751 | [118751-great-artists-steal.json](./118751-great-artists-steal.json) |
@@ -10174,6 +10176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guesswork: Heroes of Cosplay | 110196 | [110196-guesswork-heroes-of-cosplay.json](./110196-guesswork-heroes-of-cosplay.json) |
 | Guest House | 313349 | [313349-guest-house.json](./313349-guest-house.json) |
 | Guest Rush | 342728 | [342728-guest-rush.json](./342728-guest-rush.json) |
+| Guest Uncovered | 248990 | [248990-guest-uncovered.json](./248990-guest-uncovered.json) |
 | Gugong | 291720 | [291720-gugong.json](./291720-gugong.json) |
 | GuGu Pizza: Delivering Pizza to the Space Station? Boss, This is Just Not Right! | 328947 | [328947-gugu-pizza-delivering-pizza-to-the-space-station-boss-this-is-just-not-right.json](./328947-gugu-pizza-delivering-pizza-to-the-space-station-boss-this-is-just-not-right.json) |
 | Gui Chu Da Mao Xian | 369566 | [369566-gui-chu-da-mao-xian.json](./369566-gui-chu-da-mao-xian.json) |
