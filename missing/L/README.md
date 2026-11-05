@@ -4235,6 +4235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liberte | 157375 | [157375-liberte.json](./157375-liberte.json) |
 | Libertine | 372694 | [372694-libertine.json](./372694-libertine.json) |
 | Libertine: King of Hearts | 411249 | [411249-libertine-king-of-hearts.json](./411249-libertine-king-of-hearts.json) |
+| Liberty Belle | 258771 | [258771-liberty-belle.json](./258771-liberty-belle.json) |
 | Liberty Castle: Home of the Free | 199666 | [199666-liberty-castle-home-of-the-free.json](./199666-liberty-castle-home-of-the-free.json) |
 | Liberty City | 196522 | [196522-liberty-city.json](./196522-liberty-city.json) |
 | Liberty City Preservation Project | 334671 | [334671-liberty-city-preservation-project.json](./334671-liberty-city-preservation-project.json) |
