@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Can’t Stop Gooning and Jorking to My Virtual Girlfriend | 340934 | [340934-i-can-t-stop-gooning-and-jorking-to-my-virtual-girlfriend.json](./340934-i-can-t-stop-gooning-and-jorking-to-my-virtual-girlfriend.json) |
 | I Can't Trust My Eyes | 323343 | [323343-i-cant-trust-my-eyes.json](./323343-i-cant-trust-my-eyes.json) |
 | I Cannot Drown | 201154 | [201154-i-cannot-drown.json](./201154-i-cannot-drown.json) |
+| I Cant Give You Any thing | 260496 | [260496-i-cant-give-you-any-thing.json](./260496-i-cant-give-you-any-thing.json) |
 | I Cheated on You | 179049 | [179049-i-cheated-on-you.json](./179049-i-cheated-on-you.json) |
 | I Checkmate Thee | 344666 | [344666-i-checkmate-thee.json](./344666-i-checkmate-thee.json) |
 | I Chew, Therefore I Am | 400742 | [400742-i-chew-therefore-i-am.json](./400742-i-chew-therefore-i-am.json) |
@@ -944,6 +945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icarus: Iceholm Outpost | 262457 | [262457-icarus-iceholm-outpost.json](./262457-icarus-iceholm-outpost.json) |
 | Icarus: Industrial Furniture Pack | 276206 | [276206-icarus-industrial-furniture-pack.json](./276206-icarus-industrial-furniture-pack.json) |
 | Icarus: Interior Decorations Pack | 262877 | [262877-icarus-interior-decorations-pack.json](./262877-icarus-interior-decorations-pack.json) |
+| Icarus: New Frontiers | 260462 | [260462-icarus-new-frontiers.json](./260462-icarus-new-frontiers.json) |
 | Icarus: Pet Companions Pack | 298194 | [298194-icarus-pet-companions-pack.json](./298194-icarus-pet-companions-pack.json) |
 | Icarus: Sanctuary of the Gods | 69768 | [69768-icarus-sanctuary-of-the-gods.json](./69768-icarus-sanctuary-of-the-gods.json) |
 | Icarus: Styx Map Pack | 204686 | [204686-icarus-styx-map-pack.json](./204686-icarus-styx-map-pack.json) |
