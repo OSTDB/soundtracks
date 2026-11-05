@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z Collection | 52102 | [52102-z-collection.json](./52102-z-collection.json) |
 | Z Dawn | 103186 | [103186-z-dawn.json](./103186-z-dawn.json) |
 | Z Day: Hearts of Heroes | 105797 | [105797-z-day-hearts-of-heroes.json](./105797-z-day-hearts-of-heroes.json) |
+| Z Escape | 270462 | [270462-z-escape.json](./270462-z-escape.json) |
 | Z Escape: Complete Edition | 277911 | [277911-z-escape-complete-edition.json](./277911-z-escape-complete-edition.json) |
 | Z Escape: Floaty Edition | 300881 | [300881-z-escape-floaty-edition.json](./300881-z-escape-floaty-edition.json) |
 | Z Escape: Laser Edition | 362218 | [362218-z-escape-laser-edition.json](./362218-z-escape-laser-edition.json) |
@@ -1756,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Quest | 377129 | [377129-zombie-quest.json](./377129-zombie-quest.json) |
 | Zombie Race: Undead Smasher | 247179 | [247179-zombie-race-undead-smasher.json](./247179-zombie-race-undead-smasher.json) |
 | Zombie Racers | 259968 | [259968-zombie-racers.json](./259968-zombie-racers.json) |
+| Zombie Raft | 270461 | [270461-zombie-raft.json](./270461-zombie-raft.json) |
 | Zombie Raid | 150528 | [150528-zombie-raid.json](./150528-zombie-raid.json) |
 | Zombie Raid | 40987 | [40987-zombie-raid.json](./40987-zombie-raid.json) |
 | Zombie Raid: No One Survives | 195274 | [195274-zombie-raid-no-one-survives.json](./195274-zombie-raid-no-one-survives.json) |
@@ -1946,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombieman | 416955 | [416955-zombieman.json](./416955-zombieman.json) |
 | Zombieman 2 | 416956 | [416956-zombieman-2.json](./416956-zombieman-2.json) |
 | Zombien | 121383 | [121383-zombien.json](./121383-zombien.json) |
+| Zombienator | 270431 | [270431-zombienator.json](./270431-zombienator.json) |
 | ZombieOrNotZombie | 116736 | [116736-zombieornotzombie.json](./116736-zombieornotzombie.json) |
 | ZombieRun | 35514 | [35514-zombierun.json](./35514-zombierun.json) |
 | ZombieRush | 32767 | [32767-zombierush.json](./32767-zombierush.json) |
@@ -2288,6 +2291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoomer Simulator | 326303 | [326303-zoomer-simulator.json](./326303-zoomer-simulator.json) |
 | Zoomerang | 64949 | [64949-zoomerang.json](./64949-zoomerang.json) |
 | Zoomers Versus Boomers | 347802 | [347802-zoomers-versus-boomers.json](./347802-zoomers-versus-boomers.json) |
+| Zooming Secretary | 270432 | [270432-zooming-secretary.json](./270432-zooming-secretary.json) |
 | Zooming Secretary | 48371 | [48371-zooming-secretary.json](./48371-zooming-secretary.json) |
 | Zoominoes | 331193 | [331193-zoominoes.json](./331193-zoominoes.json) |
 | ZoomnBoom | 107876 | [107876-zoomnboom.json](./107876-zoomnboom.json) |
