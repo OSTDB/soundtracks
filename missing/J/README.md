@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jackpot Buffalo Slots | 393538 | [393538-jackpot-buffalo-slots.json](./393538-jackpot-buffalo-slots.json) |
 | Jackpot Crash Course | 374296 | [374296-jackpot-crash-course.json](./374296-jackpot-crash-course.json) |
 | Jackpot Dungeon | 423250 | [423250-jackpot-dungeon.json](./423250-jackpot-dungeon.json) |
+| Jackpot Jubilee | 262119 | [262119-jackpot-jubilee.json](./262119-jackpot-jubilee.json) |
 | Jackpot Slots | 323151 | [323151-jackpot-slots.json](./323151-jackpot-slots.json) |
 | Jackpot Stadium | 91733 | [91733-jackpot-stadium.json](./91733-jackpot-stadium.json) |
 | Jackpot Tycoon | 210128 | [210128-jackpot-tycoon.json](./210128-jackpot-tycoon.json) |
