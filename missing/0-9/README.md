@@ -1691,6 +1691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Arms | 382186 | [382186-2048-arms.json](./382186-2048-arms.json) |
 | 2048 Attack on Titan | 316546 | [316546-2048-attack-on-titan.json](./316546-2048-attack-on-titan.json) |
 | 2048 Battles | 124274 | [124274-2048-battles.json](./124274-2048-battles.json) |
+| 2048 Blocks VR | 282998 | [282998-2048-blocks-vr.json](./282998-2048-blocks-vr.json) |
 | 2048 Bosses | 358069 | [358069-2048-bosses.json](./358069-2048-bosses.json) |
 | 2048 Boys | 305904 | [305904-2048-boys.json](./305904-2048-boys.json) |
 | 2048 Bricks | 143266 | [143266-2048-bricks.json](./143266-2048-bricks.json) |
