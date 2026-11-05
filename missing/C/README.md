@@ -9413,6 +9413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clan Fantasy Adventures | 373156 | [373156-clan-fantasy-adventures.json](./373156-clan-fantasy-adventures.json) |
 | Clan Generator | 212244 | [212244-clan-generator.json](./212244-clan-generator.json) |
 | Clan Lord | 63698 | [63698-clan-lord.json](./63698-clan-lord.json) |
+| Clan monsters | 257707 | [257707-clan-monsters.json](./257707-clan-monsters.json) |
 | Clan O'Conall and the Crown of the Stag | 137993 | [137993-clan-oconall-and-the-crown-of-the-stag.json](./137993-clan-oconall-and-the-crown-of-the-stag.json) |
 | Clan of Champions | 16341 | [16341-clan-of-champions.json](./16341-clan-of-champions.json) |
 | Clan of Death | 150430 | [150430-clan-of-death.json](./150430-clan-of-death.json) |
@@ -12539,6 +12540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comic Coloring Book: Complete Edition - Colors Special | 275053 | [275053-comic-coloring-book-complete-edition-colors-special.json](./275053-comic-coloring-book-complete-edition-colors-special.json) |
 | Comic Coloring Book: Complete Edition - Draw Extended | 263528 | [263528-comic-coloring-book-complete-edition-draw-extended.json](./263528-comic-coloring-book-complete-edition-draw-extended.json) |
 | Comic Coloring Book: Complete Edition - DRAW Special | 277905 | [277905-comic-coloring-book-complete-edition-draw-special.json](./277905-comic-coloring-book-complete-edition-draw-special.json) |
+| Comic Coloring Book: Complete Edition - Paint Extended | 257731 | [257731-comic-coloring-book-complete-edition-paint-extended.json](./257731-comic-coloring-book-complete-edition-paint-extended.json) |
 | Comic Coloring Book: Complete Edition - Paint Special | 270799 | [270799-comic-coloring-book-complete-edition-paint-special.json](./270799-comic-coloring-book-complete-edition-paint-special.json) |
 | Comic Coloring Book: Complete Edition - Sketch Special | 280592 | [280592-comic-coloring-book-complete-edition-sketch-special.json](./280592-comic-coloring-book-complete-edition-sketch-special.json) |
 | Comic Company Manager | 152697 | [152697-comic-company-manager.json](./152697-comic-company-manager.json) |
