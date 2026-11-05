@@ -9722,6 +9722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sickly Days and Summer Traces | 343869 | [343869-sickly-days-and-summer-traces.json](./343869-sickly-days-and-summer-traces.json) |
 | Sicko Island | 160200 | [160200-sicko-island.json](./160200-sicko-island.json) |
 | Sicko Sanctum 2 | 273904 | [273904-sicko-sanctum-2.json](./273904-sicko-sanctum-2.json) |
+| SickOw | 266023 | [266023-sickow.json](./266023-sickow.json) |
 | Sico: Special Insurgency Counter Operations | 174813 | [174813-sico-special-insurgency-counter-operations.json](./174813-sico-special-insurgency-counter-operations.json) |
 | Sid & Al's Incredible Toons | 80152 | [80152-sid-and-als-incredible-toons.json](./80152-sid-and-als-incredible-toons.json) |
 | Sid & Marty Krofft's Land of the Lost | 217725 | [217725-sid-and-marty-kroffts-land-of-the-lost.json](./217725-sid-and-marty-kroffts-land-of-the-lost.json) |
@@ -9984,6 +9985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siesta Fiesta | 21667 | [21667-siesta-fiesta.json](./21667-siesta-fiesta.json) |
 | Siete Olas | 351563 | [351563-siete-olas.json](./351563-siete-olas.json) |
 | Sif and the Labyrinth | 190474 | [190474-sif-and-the-labyrinth.json](./190474-sif-and-the-labyrinth.json) |
+| SIFC: Survival - In First Contact | 266022 | [266022-sifc-survival-in-first-contact.json](./266022-sifc-survival-in-first-contact.json) |
 | Sifera | 298147 | [298147-sifera.json](./298147-sifera.json) |
 | Sift Heads | 209633 | [209633-sift-heads.json](./209633-sift-heads.json) |
 | Sift Heads 0: The Starting Point | 357302 | [357302-sift-heads-0-the-starting-point.json](./357302-sift-heads-0-the-starting-point.json) |
@@ -11538,6 +11540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Days of Snow | 80988 | [80988-six-days-of-snow.json](./80988-six-days-of-snow.json) |
 | Six Degrees of Damnation | 118981 | [118981-six-degrees-of-damnation.json](./118981-six-degrees-of-damnation.json) |
 | Six Dots | 99710 | [99710-six-dots.json](./99710-six-dots.json) |
+| Six Ears | 266029 | [266029-six-ears.json](./266029-six-ears.json) |
 | Six F and Six 0 | 151660 | [151660-six-f-and-six-0.json](./151660-six-f-and-six-0.json) |
 | Six Feet Under | 31397 | [31397-six-feet-under.json](./31397-six-feet-under.json) |
 | Six Flags Fun Park | 206039 | [206039-six-flags-fun-park.json](./206039-six-flags-fun-park.json) |
@@ -14308,6 +14311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smokestack Saints: The Parkour Game Part I | 355350 | [355350-smokestack-saints-the-parkour-game-part-i.json](./355350-smokestack-saints-the-parkour-game-part-i.json) |
 | Smokey Bear | 286947 | [286947-smokey-bear.json](./286947-smokey-bear.json) |
 | Smokey Mike | 422036 | [422036-smokey-mike.json](./422036-smokey-mike.json) |
+| Smokey's Rescue Team | 266028 | [266028-smokeys-rescue-team.json](./266028-smokeys-rescue-team.json) |
 | Smokin Barrels 2 | 102016 | [102016-smokin-barrels-2.json](./102016-smokin-barrels-2.json) |
 | Smokin Potions | 360455 | [360455-smokin-potions.json](./360455-smokin-potions.json) |
 | Smokin' Guns | 27607 | [27607-smokin-guns.json](./27607-smokin-guns.json) |
@@ -16684,6 +16688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Son of Perun Kharkiv | 264626 | [264626-son-of-perun-kharkiv.json](./264626-son-of-perun-kharkiv.json) |
 | Son of Sparta | 258077 | [258077-son-of-sparta.json](./258077-son-of-sparta.json) |
 | Son of the Dragon | 264884 | [264884-son-of-the-dragon.json](./264884-son-of-the-dragon.json) |
+| Son of the Dragon King | 266027 | [266027-son-of-the-dragon-king.json](./266027-son-of-the-dragon-king.json) |
 | Son of the Mask | 265638 | [265638-son-of-the-mask.json](./265638-son-of-the-mask.json) |
 | Son Savaşçı | 149374 | [149374-son-savasc.json](./149374-son-savasc.json) |
 | Son Son | 40010 | [40010-son-son.json](./40010-son-son.json) |
@@ -18415,6 +18420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulFrost | 90653 | [90653-soulfrost.json](./90653-soulfrost.json) |
 | SoulfulLand | 126604 | [126604-soulfulland.json](./126604-soulfulland.json) |
 | Soulfused | 371744 | [371744-soulfused.json](./371744-soulfused.json) |
+| Soulgasm | 266026 | [266026-soulgasm.json](./266026-soulgasm.json) |
 | SoulGatherer | 367539 | [367539-soulgatherer.json](./367539-soulgatherer.json) |
 | Soulgrave | 412294 | [412294-soulgrave.json](./412294-soulgrave.json) |
 | SoulHunt | 32121 | [32121-soulhunt.json](./32121-soulhunt.json) |
@@ -18485,6 +18491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulstation | 402447 | [402447-soulstation.json](./402447-soulstation.json) |
 | Soulstice | 152262 | [152262-soulstice.json](./152262-soulstice.json) |
 | Soulstice: Deluxe Edition | 201781 | [201781-soulstice-deluxe-edition.json](./201781-soulstice-deluxe-edition.json) |
+| Soulstone of Hope | 266025 | [266025-soulstone-of-hope.json](./266025-soulstone-of-hope.json) |
 | Soulstone Survivors: Supporter Pack | 376150 | [376150-soulstone-survivors-supporter-pack.json](./376150-soulstone-survivors-supporter-pack.json) |
 | Soulstonia | 415792 | [415792-soulstonia.json](./415792-soulstonia.json) |
 | Soulstopia: Phi | 173212 | [173212-soulstopia-phi.json](./173212-soulstopia-phi.json) |
@@ -19459,6 +19466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Mining | 168718 | [168718-space-mining.json](./168718-space-mining.json) |
 | Space Mining | 84064 | [84064-space-mining.json](./84064-space-mining.json) |
 | Space Mining Clicker | 115965 | [115965-space-mining-clicker.json](./115965-space-mining-clicker.json) |
+| Space Mining Company | 266030 | [266030-space-mining-company.json](./266030-space-mining-company.json) |
 | Space Misadventures | 326707 | [326707-space-misadventures.json](./326707-space-misadventures.json) |
 | Space Misadventures DX | 326708 | [326708-space-misadventures-dx.json](./326708-space-misadventures-dx.json) |
 | Space Misfits | 123040 | [123040-space-misfits.json](./123040-space-misfits.json) |
@@ -25553,6 +25561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steampunk Jigsaw Puzzles: Arctic Realms | 265515 | [265515-steampunk-jigsaw-puzzles-arctic-realms.json](./265515-steampunk-jigsaw-puzzles-arctic-realms.json) |
 | Steampunk Jigsaw Puzzles: Boomtown USA | 268951 | [268951-steampunk-jigsaw-puzzles-boomtown-usa.json](./268951-steampunk-jigsaw-puzzles-boomtown-usa.json) |
 | Steampunk Jigsaw Puzzles: Mediterranean City-States | 270894 | [270894-steampunk-jigsaw-puzzles-mediterranean-city-states.json](./270894-steampunk-jigsaw-puzzles-mediterranean-city-states.json) |
+| Steampunk Jigsaw Puzzles: Samurai Clans | 266031 | [266031-steampunk-jigsaw-puzzles-samurai-clans.json](./266031-steampunk-jigsaw-puzzles-samurai-clans.json) |
 | Steampunk Jigsaw Puzzles: The Great Battle | 266595 | [266595-steampunk-jigsaw-puzzles-the-great-battle.json](./266595-steampunk-jigsaw-puzzles-the-great-battle.json) |
 | Steampunk Jigsaw Puzzles: The Wild West | 265516 | [265516-steampunk-jigsaw-puzzles-the-wild-west.json](./265516-steampunk-jigsaw-puzzles-the-wild-west.json) |
 | Steampunk Racing 3D | 252141 | [252141-steampunk-racing-3d.json](./252141-steampunk-racing-3d.json) |
@@ -25708,6 +25717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Revenant | 235634 | [235634-steel-revenant.json](./235634-steel-revenant.json) |
 | Steel Revolt | 353476 | [353476-steel-revolt.json](./353476-steel-revolt.json) |
 | Steel Rivals | 34766 | [34766-steel-rivals.json](./34766-steel-rivals.json) |
+| Steel Roamer | 266032 | [266032-steel-roamer.json](./266032-steel-roamer.json) |
 | Steel Runner | 175179 | [175179-steel-runner.json](./175179-steel-runner.json) |
 | Steel Runner | 332952 | [332952-steel-runner.json](./332952-steel-runner.json) |
 | Steel Salvo | 145545 | [145545-steel-salvo.json](./145545-steel-salvo.json) |
@@ -31849,6 +31859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Party Games Online | 306098 | [306098-super-party-games-online.json](./306098-super-party-games-online.json) |
 | Super Party Sports: Football | 21315 | [21315-super-party-sports-football.json](./21315-super-party-sports-football.json) |
 | Super Password | 217982 | [217982-super-password.json](./217982-super-password.json) |
+| Super Paul World | 266034 | [266034-super-paul-world.json](./266034-super-paul-world.json) |
 | Super Peko 35 | 266904 | [266904-super-peko-35.json](./266904-super-peko-35.json) |
 | Super Penguin Ball & Chain | 343433 | [343433-super-penguin-ball-and-chain.json](./343433-super-penguin-ball-and-chain.json) |
 | Super People | 158813 | [158813-super-people.json](./158813-super-people.json) |
@@ -32031,6 +32042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Retro Maker | 75404 | [75404-super-retro-maker.json](./75404-super-retro-maker.json) |
 | Super Retro Mega Wars | 369670 | [369670-super-retro-mega-wars.json](./369670-super-retro-mega-wars.json) |
 | Super Retro Platformer Collection | 242770 | [242770-super-retro-platformer-collection.json](./242770-super-retro-platformer-collection.json) |
+| Super Retro Rec League Racing | 266033 | [266033-super-retro-rec-league-racing.json](./266033-super-retro-rec-league-racing.json) |
 | Super Retro Retry | 273399 | [273399-super-retro-retry.json](./273399-super-retro-retry.json) |
 | Super Retro World | 157172 | [157172-super-retro-world.json](./157172-super-retro-world.json) |
 | Super Rhino Turtle | 154320 | [154320-super-rhino-turtle.json](./154320-super-rhino-turtle.json) |
@@ -33844,6 +33856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Drop | 240115 | [240115-sushi-drop.json](./240115-sushi-drop.json) |
 | Sushi Factory | 241199 | [241199-sushi-factory.json](./241199-sushi-factory.json) |
 | Sushi Food Cart | 206561 | [206561-sushi-food-cart.json](./206561-sushi-food-cart.json) |
+| Sushi for Empress Setsuko | 266035 | [266035-sushi-for-empress-setsuko.json](./266035-sushi-for-empress-setsuko.json) |
 | Sushi for Robots | 177320 | [177320-sushi-for-robots.json](./177320-sushi-for-robots.json) |
 | Sushi Frenzy | 53694 | [53694-sushi-frenzy.json](./53694-sushi-frenzy.json) |
 | Sushi Fun | 219111 | [219111-sushi-fun.json](./219111-sushi-fun.json) |
@@ -34910,6 +34923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swordcar | 260521 | [260521-swordcar.json](./260521-swordcar.json) |
 | Swordcery | 175772 | [175772-swordcery.json](./175772-swordcery.json) |
 | Sworder: The Inverse Tower | 422817 | [422817-sworder-the-inverse-tower.json](./422817-sworder-the-inverse-tower.json) |
+| Swordeye | 266021 | [266021-swordeye.json](./266021-swordeye.json) |
 | Swordfight | 40794 | [40794-swordfight.json](./40794-swordfight.json) |
 | Swordfighting for People Who Are Really Bad at Swordfighting | 362797 | [362797-swordfighting-for-people-who-are-really-bad-at-swordfighting.json](./362797-swordfighting-for-people-who-are-really-bad-at-swordfighting.json) |
 | Swordfish | 272656 | [272656-swordfish.json](./272656-swordfish.json) |
