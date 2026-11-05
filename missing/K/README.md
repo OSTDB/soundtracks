@@ -5667,6 +5667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krew Eats | 172718 | [172718-krew-eats.json](./172718-krew-eats.json) |
 | Krew.io | 130598 | [130598-krew-io.json](./130598-krew-io.json) |
 | Krezber | 289574 | [289574-krezber.json](./289574-krezber.json) |
+| Kriaturaz: Guardian of Legends | 278220 | [278220-kriaturaz-guardian-of-legends.json](./278220-kriaturaz-guardian-of-legends.json) |
 | Krieg | 55807 | [55807-krieg.json](./55807-krieg.json) |
 | Krieg im Weltraum | 40555 | [40555-krieg-im-weltraum.json](./40555-krieg-im-weltraum.json) |
 | Kriegsfront Battlescaper | 212715 | [212715-kriegsfront-battlescaper.json](./212715-kriegsfront-battlescaper.json) |
