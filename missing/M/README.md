@@ -707,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madou Monogatari 1-2-3 | 94394 | [94394-madou-monogatari-1-2-3.json](./94394-madou-monogatari-1-2-3.json) |
 | Madou Monogatari A: Doki-doki Vacation | 45269 | [45269-madou-monogatari-a-doki-doki-vacation.json](./45269-madou-monogatari-a-doki-doki-vacation.json) |
 | Madou Monogatari ARS | 79003 | [79003-madou-monogatari-ars.json](./79003-madou-monogatari-ars.json) |
+| Madou Monogatari Episode II: Carbuncle | 253123 | [253123-madou-monogatari-episode-ii-carbuncle.json](./253123-madou-monogatari-episode-ii-carbuncle.json) |
 | Madou Monogatari I | 73644 | [73644-madou-monogatari-i.json](./73644-madou-monogatari-i.json) |
 | Madou Monogatari I: 3tsu no Madoukyuu | 45268 | [45268-madou-monogatari-i-3tsu-no-madoukyuu.json](./45268-madou-monogatari-i-3tsu-no-madoukyuu.json) |
 | Madou Monogatari I: Honoo no Sotsuenji | 141807 | [141807-madou-monogatari-i-honoo-no-sotsuenji.json](./141807-madou-monogatari-i-honoo-no-sotsuenji.json) |
@@ -1226,6 +1227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Ocean: Multiplayer Roguelike | 141245 | [141245-magic-ocean-multiplayer-roguelike.json](./141245-magic-ocean-multiplayer-roguelike.json) |
 | Magic of Endoria | 119396 | [119396-magic-of-endoria.json](./119396-magic-of-endoria.json) |
 | Magic of Spring | 195561 | [195561-magic-of-spring.json](./195561-magic-of-spring.json) |
+| Magic or Machinations | 253115 | [253115-magic-or-machinations.json](./253115-magic-or-machinations.json) |
 | Magic Orbs | 125332 | [125332-magic-orbs.json](./125332-magic-orbs.json) |
 | Magic Paint | 88224 | [88224-magic-paint.json](./88224-magic-paint.json) |
 | Magic Panda: Toy Match | 175025 | [175025-magic-panda-toy-match.json](./175025-magic-panda-toy-match.json) |
@@ -5836,6 +5838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -6533,6 +6536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mecha Destruction | 157944 | [157944-mecha-destruction.json](./157944-mecha-destruction.json) |
 | Mecha Domination | 304957 | [304957-mecha-domination.json](./304957-mecha-domination.json) |
 | Mecha Dress Up Game | 409369 | [409369-mecha-dress-up-game.json](./409369-mecha-dress-up-game.json) |
+| Mecha Force | 253172 | [253172-mecha-force.json](./253172-mecha-force.json) |
 | Mecha Force | 399369 | [399369-mecha-force.json](./399369-mecha-force.json) |
 | Mecha Genesis: Tactics | 183253 | [183253-mecha-genesis-tactics.json](./183253-mecha-genesis-tactics.json) |
 | Mecha Jump | 365786 | [365786-mecha-jump.json](./365786-mecha-jump.json) |
@@ -11970,6 +11974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindscapes VR | 347298 | [347298-mindscapes-vr.json](./347298-mindscapes-vr.json) |
 | Mindscorn | 374753 | [374753-mindscorn.json](./374753-mindscorn.json) |
 | Mindseeker | 48427 | [48427-mindseeker.json](./48427-mindseeker.json) |
+| Mindset | 253171 | [253171-mindset.json](./253171-mindset.json) |
 | Mindset | 68616 | [68616-mindset.json](./68616-mindset.json) |
 | Mindseye Blacklisted | 400290 | [400290-mindseye-blacklisted.json](./400290-mindseye-blacklisted.json) |
 | Mindshadow | 12185 | [12185-mindshadow.json](./12185-mindshadow.json) |
@@ -14519,6 +14524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moebius: The Orb of Celestial Harmony | 14482 | [14482-moebius-the-orb-of-celestial-harmony.json](./14482-moebius-the-orb-of-celestial-harmony.json) |
 | Moeboid | 77352 | [77352-moeboid.json](./77352-moeboid.json) |
 | Moegaku @ Portable | 269441 | [269441-moegaku-portable.json](./269441-moegaku-portable.json) |
+| Moekan | 253125 | [253125-moekan.json](./253125-moekan.json) |
 | Moekasu | 321540 | [321540-moekasu.json](./321540-moekasu.json) |
 | Moékuri | 76546 | [76546-moekuri.json](./76546-moekuri.json) |
 | Moemon Bonds | 336897 | [336897-moemon-bonds.json](./336897-moemon-bonds.json) |
@@ -15745,6 +15751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster MMORPG | 340727 | [340727-monster-mmorpg.json](./340727-monster-mmorpg.json) |
 | Monster Monpiece | 20094 | [20094-monster-monpiece.json](./20094-monster-monpiece.json) |
 | Monster Monster | 219988 | [219988-monster-monster.json](./219988-monster-monster.json) |
+| Monster Mop Up | 253131 | [253131-monster-mop-up.json](./253131-monster-mop-up.json) |
 | Monster Munch | 342607 | [342607-monster-munch.json](./342607-monster-munch.json) |
 | Monster Munchers | 310994 | [310994-monster-munchers.json](./310994-monster-munchers.json) |
 | Monster Museum | 245826 | [245826-monster-museum.json](./245826-monster-museum.json) |
