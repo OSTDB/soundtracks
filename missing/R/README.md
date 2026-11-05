@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabanaz | 403571 | [403571-rabanaz.json](./403571-rabanaz.json) |
 | Rabauken: Spirit Resort | 400394 | [400394-rabauken-spirit-resort.json](./400394-rabauken-spirit-resort.json) |
 | Rabbi-T | 240780 | [240780-rabbi-t.json](./240780-rabbi-t.json) |
+| Rabbicent Adventures | 258777 | [258777-rabbicent-adventures.json](./258777-rabbicent-adventures.json) |
 | Rabbids & Ladders | 228663 | [228663-rabbids-and-ladders.json](./228663-rabbids-and-ladders.json) |
 | Rabbids Arby's Rush | 324867 | [324867-rabbids-arbys-rush.json](./324867-rabbids-arbys-rush.json) |
 | Rabbids at Versailles | 171258 | [171258-rabbids-at-versailles.json](./171258-rabbids-at-versailles.json) |
@@ -10077,6 +10078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguematch: The Extraplanar Invasion | 217273 | [217273-roguematch-the-extraplanar-invasion.json](./217273-roguematch-the-extraplanar-invasion.json) |
 | Roguemon | 374728 | [374728-roguemon.json](./374728-roguemon.json) |
 | RogueMusk | 272942 | [272942-roguemusk.json](./272942-roguemusk.json) |
+| Roguenarok | 258778 | [258778-roguenarok.json](./258778-roguenarok.json) |
 | RogueOut | 258910 | [258910-rogueout.json](./258910-rogueout.json) |
 | RoguePool | 392751 | [392751-roguepool.json](./392751-roguepool.json) |
 | Rogueria: Roguelikes X Tactics | 143585 | [143585-rogueria-roguelikes-x-tactics.json](./143585-rogueria-roguelikes-x-tactics.json) |
@@ -12865,8 +12867,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty's Adventure | 365257 | [365257-rustys-adventure.json](./365257-rustys-adventure.json) |
 | Rusty's Day Off: Episode One - Janitor on Duty | 249225 | [249225-rustys-day-off-episode-one-janitor-on-duty.json](./249225-rustys-day-off-episode-one-janitor-on-duty.json) |
 | Rusty's Real Deal Baseball: Bat & Switch | 258715 | [258715-rustys-real-deal-baseball-bat-and-switch.json](./258715-rustys-real-deal-baseball-bat-and-switch.json) |
+| Rusty's Real Deal Baseball: Bat Master | 258781 | [258781-rustys-real-deal-baseball-bat-master.json](./258781-rustys-real-deal-baseball-bat-master.json) |
 | Rusty's Real Deal Baseball: Cage Match | 258739 | [258739-rustys-real-deal-baseball-cage-match.json](./258739-rustys-real-deal-baseball-cage-match.json) |
+| Rusty's Real Deal Baseball: Drop & Pop | 258773 | [258773-rustys-real-deal-baseball-drop-and-pop.json](./258773-rustys-real-deal-baseball-drop-and-pop.json) |
+| Rusty's Real Deal Baseball: Feel the Glove | 258757 | [258757-rustys-real-deal-baseball-feel-the-glove.json](./258757-rustys-real-deal-baseball-feel-the-glove.json) |
 | Rusty's Real Deal Baseball: Gear Games | 258730 | [258730-rustys-real-deal-baseball-gear-games.json](./258730-rustys-real-deal-baseball-gear-games.json) |
+| Rusty's Real Deal Baseball: Make the Call | 258774 | [258774-rustys-real-deal-baseball-make-the-call.json](./258774-rustys-real-deal-baseball-make-the-call.json) |
+| Rusty's Real Deal Baseball: The Aim Game | 258769 | [258769-rustys-real-deal-baseball-the-aim-game.json](./258769-rustys-real-deal-baseball-the-aim-game.json) |
 | Rusty's Real Deal Baseball: Volley Bats | 258738 | [258738-rustys-real-deal-baseball-volley-bats.json](./258738-rustys-real-deal-baseball-volley-bats.json) |
 | Rusty's Retirement | 278251 | [278251-rustys-retirement.json](./278251-rustys-retirement.json) |
 | Rusty's Retirement x Vampire Survivors | 339632 | [339632-rustys-retirement-x-vampire-survivors.json](./339632-rustys-retirement-x-vampire-survivors.json) |
