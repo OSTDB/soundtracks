@@ -3736,6 +3736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scurvy Scallywags | 63663 | [63663-scurvy-scallywags.json](./63663-scurvy-scallywags.json) |
 | Scutter | 103957 | [103957-scutter.json](./103957-scutter.json) |
 | Scuttle | 285697 | [285697-scuttle.json](./285697-scuttle.json) |
+| Scuttle Up | 292811 | [292811-scuttle-up.json](./292811-scuttle-up.json) |
 | Scuttle's Thingamubobs | 246533 | [246533-scuttles-thingamubobs.json](./246533-scuttles-thingamubobs.json) |
 | Scuttlers | 39143 | [39143-scuttlers.json](./39143-scuttlers.json) |
 | Scutum Phanti | 120059 | [120059-scutum-phanti.json](./120059-scutum-phanti.json) |
@@ -13545,6 +13546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot & Learn Hiragana | 312079 | [312079-slot-and-learn-hiragana.json](./312079-slot-and-learn-hiragana.json) |
 | Slot & Learn Kanji | 300832 | [300832-slot-and-learn-kanji.json](./300832-slot-and-learn-kanji.json) |
 | Slot & Learn Katakana | 403732 | [403732-slot-and-learn-katakana.json](./403732-slot-and-learn-katakana.json) |
+| Slot Advanture | 293031 | [293031-slot-advanture.json](./293031-slot-advanture.json) |
 | Slot Car HTR+ : 3D Simulation | 239896 | [239896-slot-car-htr-3d-simulation.json](./239896-slot-car-htr-3d-simulation.json) |
 | Slot Car Rivals | 230579 | [230579-slot-car-rivals.json](./230579-slot-car-rivals.json) |
 | Slot Car VR | 325809 | [325809-slot-car-vr.json](./325809-slot-car-vr.json) |
@@ -19095,6 +19097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -25891,6 +25894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stern Pinball Arcade: Starship Troopers | 161226 | [161226-stern-pinball-arcade-starship-troopers.json](./161226-stern-pinball-arcade-starship-troopers.json) |
 | Sternenschweif 3D - Das Geheimnis im Zauberwald | 125212 | [125212-sternenschweif-3d-das-geheimnis-im-zauberwald.json](./125212-sternenschweif-3d-das-geheimnis-im-zauberwald.json) |
 | Sternly Worded Adventures | 261434 | [261434-sternly-worded-adventures.json](./261434-sternly-worded-adventures.json) |
+| Sterospeed | 293023 | [293023-sterospeed.json](./293023-sterospeed.json) |
 | Steve - The Jumping Dinosaur! | 103854 | [103854-steve-the-jumping-dinosaur.json](./103854-steve-the-jumping-dinosaur.json) |
 | Steve Davis Snooker | 45323 | [45323-steve-davis-snooker.json](./45323-steve-davis-snooker.json) |
 | Steve Davis World Snooker | 12928 | [12928-steve-davis-world-snooker.json](./12928-steve-davis-world-snooker.json) |
