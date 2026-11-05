@@ -412,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cake Bites Make & Bake: Cooking Dessert Kids Game | 109012 | [109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json](./109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json) |
 | Cake Clicker | 183290 | [183290-cake-clicker.json](./183290-cake-clicker.json) |
 | Cake Duel | 134401 | [134401-cake-duel.json](./134401-cake-duel.json) |
+| Cake Game | 274780 | [274780-cake-game.json](./274780-cake-game.json) |
 | Cake Invaders | 151611 | [151611-cake-invaders.json](./151611-cake-invaders.json) |
 | Cake Kills Candy | 184988 | [184988-cake-kills-candy.json](./184988-cake-kills-candy.json) |
 | Cake Kingdom Story | 238296 | [238296-cake-kingdom-story.json](./238296-cake-kingdom-story.json) |
@@ -3349,6 +3350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castillon | 332247 | [332247-castillon.json](./332247-castillon.json) |
 | Casting Away | 318271 | [318271-casting-away.json](./318271-casting-away.json) |
 | Casting Clicker | 367202 | [367202-casting-clicker.json](./367202-casting-clicker.json) |
+| Casting Plz | 274778 | [274778-casting-plz.json](./274778-casting-plz.json) |
 | Casting Shadows | 256733 | [256733-casting-shadows.json](./256733-casting-shadows.json) |
 | Casting Whispers | 250815 | [250815-casting-whispers.json](./250815-casting-whispers.json) |
 | CastingPlz | 289540 | [289540-castingplz.json](./289540-castingplz.json) |
@@ -7703,6 +7705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choppy Waters | 350765 | [350765-choppy-waters.json](./350765-choppy-waters.json) |
 | Choppy Waves | 402724 | [402724-choppy-waves.json](./402724-choppy-waves.json) |
 | Chopsticks Online | 364451 | [364451-chopsticks-online.json](./364451-chopsticks-online.json) |
+| Chopter Copter | 274826 | [274826-chopter-copter.json](./274826-chopter-copter.json) |
 | Chora | 150351 | [150351-chora.json](./150351-chora.json) |
 | Chordata | 280459 | [280459-chordata.json](./280459-chordata.json) |
 | Chordosis | 266874 | [266874-chordosis.json](./266874-chordosis.json) |
@@ -14046,6 +14049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookingo | 403623 | [403623-cookingo.json](./403623-cookingo.json) |
 | Cooks Girls | 367835 | [367835-cooks-girls.json](./367835-cooks-girls.json) |
 | Cookthulhu | 303427 | [303427-cookthulhu.json](./303427-cookthulhu.json) |
+| Cooktopia | 274796 | [274796-cooktopia.json](./274796-cooktopia.json) |
 | Cookulo | 325017 | [325017-cookulo.json](./325017-cookulo.json) |
 | Cool 104 Joker & Setline | 269623 | [269623-cool-104-joker-and-setline.json](./269623-cool-104-joker-and-setline.json) |
 | Cool 2 Players Games | 424646 | [424646-cool-2-players-games.json](./424646-cool-2-players-games.json) |
@@ -14140,6 +14144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooperative Chess | 157105 | [157105-cooperative-chess.json](./157105-cooperative-chess.json) |
 | Cooporationation | 326823 | [326823-cooporationation.json](./326823-cooporationation.json) |
 | CoopRooms | 347156 | [347156-cooprooms.json](./347156-cooprooms.json) |
+| CoopScoop | 274792 | [274792-coopscoop.json](./274792-coopscoop.json) |
 | CoopValor 2056: All Unlimited Edition | 254089 | [254089-coopvalor-2056-all-unlimited-edition.json](./254089-coopvalor-2056-all-unlimited-edition.json) |
 | CoopValor 2056: Ukraine WW3 | 256292 | [256292-coopvalor-2056-ukraine-ww3.json](./256292-coopvalor-2056-ukraine-ww3.json) |
 | CoopValor WW2 Battle of the Bulge | 263522 | [263522-coopvalor-ww2-battle-of-the-bulge.json](./263522-coopvalor-ww2-battle-of-the-bulge.json) |
@@ -15284,6 +15289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covert Operations | 311709 | [311709-covert-operations.json](./311709-covert-operations.json) |
 | Covert Ops: Nuclear Dawn | 4137 | [4137-covert-ops-nuclear-dawn.json](./4137-covert-ops-nuclear-dawn.json) |
 | Covert Syndrome | 29550 | [29550-covert-syndrome.json](./29550-covert-syndrome.json) |
+| Covert Ultra | 274816 | [274816-covert-ultra.json](./274816-covert-ultra.json) |
 | Covert: Order of the Vulture | 185350 | [185350-covert-order-of-the-vulture.json](./185350-covert-order-of-the-vulture.json) |
 | Covetous | 138188 | [138188-covetous.json](./138188-covetous.json) |
 | Covid | 147173 | [147173-covid.json](./147173-covid.json) |
