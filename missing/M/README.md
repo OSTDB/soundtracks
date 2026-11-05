@@ -4131,6 +4131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Timeless Picross | 323055 | [323055-marios-timeless-picross.json](./323055-marios-timeless-picross.json) |
 | Mario's Timeship Battle | 318041 | [318041-marios-timeship-battle.json](./318041-marios-timeship-battle.json) |
 | Mario's Trip | 270367 | [270367-marios-trip.json](./270367-marios-trip.json) |
+| Mario's Trip in China | 259920 | [259920-marios-trip-in-china.json](./259920-marios-trip-in-china.json) |
 | Mario's Vacation Course 64 | 155018 | [155018-marios-vacation-course-64.json](./155018-marios-vacation-course-64.json) |
 | Mario/Rabbids Crossover Adventure Game | 231477 | [231477-mario-rabbids-crossover-adventure-game.json](./231477-mario-rabbids-crossover-adventure-game.json) |
 | Marioblade Chronicles 64 | 219044 | [219044-marioblade-chronicles-64.json](./219044-marioblade-chronicles-64.json) |
@@ -5822,6 +5823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -14658,6 +14660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Molehill Empire 2 | 347203 | [347203-molehill-empire-2.json](./347203-molehill-empire-2.json) |
 | Molek-Syntez | 125208 | [125208-molek-syntez.json](./125208-molek-syntez.json) |
 | Molekraft | 388353 | [388353-molekraft.json](./388353-molekraft.json) |
+| Molekular: Puzzle Adventure | 259889 | [259889-molekular-puzzle-adventure.json](./259889-molekular-puzzle-adventure.json) |
 | Molemania | 354735 | [354735-molemania.json](./354735-molemania.json) |
 | Molemen Must Die! | 29316 | [29316-molemen-must-die.json](./29316-molemen-must-die.json) |
 | Molementum | 296721 | [296721-molementum.json](./296721-molementum.json) |
@@ -15652,6 +15655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Legacy: New Horizons 2 | 296858 | [296858-monster-legacy-new-horizons-2.json](./296858-monster-legacy-new-horizons-2.json) |
 | Monster Legend | 158134 | [158134-monster-legend.json](./158134-monster-legend.json) |
 | Monster Legends | 224007 | [224007-monster-legends.json](./224007-monster-legends.json) |
+| Monster Legends: Collect Them! | 259888 | [259888-monster-legends-collect-them.json](./259888-monster-legends-collect-them.json) |
 | Monster Lily | 390568 | [390568-monster-lily.json](./390568-monster-lily.json) |
 | Monster Line of Defense | 258887 | [258887-monster-line-of-defense.json](./258887-monster-line-of-defense.json) |
 | Monster Logic | 115362 | [115362-monster-logic.json](./115362-monster-logic.json) |
@@ -18194,6 +18198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. "Bargain Expert" | 413075 | [413075-mr-bargain-expert.json](./413075-mr-bargain-expert.json) |
 | Mr. Addon Game Maker | 391930 | [391930-mr-addon-game-maker.json](./391930-mr-addon-game-maker.json) |
 | Mr. Akun's Jump | 287737 | [287737-mr-akuns-jump.json](./287737-mr-akuns-jump.json) |
+| Mr. Amo | 259896 | [259896-mr-amo.json](./259896-mr-amo.json) |
 | Mr. and Mrs. Potato Head Go on Vacation | 209156 | [209156-mr-and-mrs-potato-head-go-on-vacation.json](./209156-mr-and-mrs-potato-head-go-on-vacation.json) |
 | Mr. Angry | 77380 | [77380-mr-angry.json](./77380-mr-angry.json) |
 | Mr. Ball | 232512 | [232512-mr-ball.json](./232512-mr-ball.json) |
