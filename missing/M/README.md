@@ -5741,7 +5741,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9859,6 +9858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metrogether | 326385 | [326385-metrogether.json](./326385-metrogether.json) |
 | Metroid | 1101 | [1101-metroid.json](./1101-metroid.json) |
 | Metroid | 342602 | [342602-metroid.json](./342602-metroid.json) |
+| Metroid + Saving | 297703 | [297703-metroid-saving.json](./297703-metroid-saving.json) |
 | Metroid Confrontation 2: Return to SR388 | 274984 | [274984-metroid-confrontation-2-return-to-sr388.json](./274984-metroid-confrontation-2-return-to-sr388.json) |
 | Metroid Defense | 323283 | [323283-metroid-defense.json](./323283-metroid-defense.json) |
 | Metroid Doom | 324011 | [324011-metroid-doom.json](./324011-metroid-doom.json) |
@@ -10657,6 +10657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Train Simulator: Pro Train II | 209868 | [209868-microsoft-train-simulator-pro-train-ii.json](./209868-microsoft-train-simulator-pro-train-ii.json) |
 | Microsoft Train Simulator: Sandpatch | 206666 | [206666-microsoft-train-simulator-sandpatch.json](./206666-microsoft-train-simulator-sandpatch.json) |
 | Microsoft Ultimate Word Games | 55994 | [55994-microsoft-ultimate-word-games.json](./55994-microsoft-ultimate-word-games.json) |
+| Microsoft Windows 98 | 297681 | [297681-microsoft-windows-98.json](./297681-microsoft-windows-98.json) |
 | Microsoft Wordament | 7085 | [7085-microsoft-wordament.json](./7085-microsoft-wordament.json) |
 | Microsoft World of Flight | 209514 | [209514-microsoft-world-of-flight.json](./209514-microsoft-world-of-flight.json) |
 | Microsoft: My Personal Tutor 1st & 2nd Grade | 144365 | [144365-microsoft-my-personal-tutor-1st-and-2nd-grade.json](./144365-microsoft-my-personal-tutor-1st-and-2nd-grade.json) |
@@ -15925,6 +15926,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Montgomery Fox and the Case of the Diamond Necklace | 226322 | [226322-montgomery-fox-and-the-case-of-the-diamond-necklace.json](./226322-montgomery-fox-and-the-case-of-the-diamond-necklace.json) |
 | Montgomery Fox and the Revenge of Victor Draven | 226321 | [226321-montgomery-fox-and-the-revenge-of-victor-draven.json](./226321-montgomery-fox-and-the-revenge-of-victor-draven.json) |
 | Monthly Dystopia | 232397 | [232397-monthly-dystopia.json](./232397-monthly-dystopia.json) |
+| Monthly Entertainment | 297662 | [297662-monthly-entertainment.json](./297662-monthly-entertainment.json) |
+| Monthly Idol | 297663 | [297663-monthly-idol.json](./297663-monthly-idol.json) |
 | Monti: The Hidden Secret | 278989 | [278989-monti-the-hidden-secret.json](./278989-monti-the-hidden-secret.json) |
 | Montjoie! | 66719 | [66719-montjoie.json](./66719-montjoie.json) |
 | Montone | 415887 | [415887-montone.json](./415887-montone.json) |
@@ -19988,6 +19991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hidden Things | 134322 | [134322-my-hidden-things.json](./134322-my-hidden-things.json) |
 | My High School Cat Girlfriend | 206155 | [206155-my-high-school-cat-girlfriend.json](./206155-my-high-school-cat-girlfriend.json) |
 | My High School Detective | 231422 | [231422-my-high-school-detective.json](./231422-my-high-school-detective.json) |
+| My High School Games Girl Life | 297669 | [297669-my-high-school-games-girl-life.json](./297669-my-high-school-games-girl-life.json) |
 | My High School Life Simulator | 296739 | [296739-my-high-school-life-simulator.json](./296739-my-high-school-life-simulator.json) |
 | My Hobby: Needlework Galore | 302021 | [302021-my-hobby-needlework-galore.json](./302021-my-hobby-needlework-galore.json) |
 | My Hobby: Needlework Galore - Household | 311732 | [311732-my-hobby-needlework-galore-household.json](./311732-my-hobby-needlework-galore-household.json) |
