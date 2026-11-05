@@ -4573,6 +4573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gizmos: Steampunk Nonograms | 127716 | [127716-gizmos-steampunk-nonograms.json](./127716-gizmos-steampunk-nonograms.json) |
 | Gizoku Tantei Nosuri | 227891 | [227891-gizoku-tantei-nosuri.json](./227891-gizoku-tantei-nosuri.json) |
 | Gjallarhorn | 169720 | [169720-gjallarhorn.json](./169720-gjallarhorn.json) |
+| gjpg | 282361 | [282361-gjpg.json](./282361-gjpg.json) |
 | GL Golf | 88347 | [88347-gl-golf.json](./88347-gl-golf.json) |
 | GL Tron | 63696 | [63696-gl-tron.json](./63696-gl-tron.json) |
 | GL-117 Action Flight Simulator | 51245 | [51245-gl-117-action-flight-simulator.json](./51245-gl-117-action-flight-simulator.json) |
@@ -5312,6 +5313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Fetch! | 85166 | [85166-go-fetch.json](./85166-go-fetch.json) |
 | Go Fetch! 2 | 84548 | [84548-go-fetch-2.json](./84548-go-fetch-2.json) |
 | Go Fight Fantastic! | 127364 | [127364-go-fight-fantastic.json](./127364-go-fight-fantastic.json) |
+| Go Figure! | 282405 | [282405-go-figure.json](./282405-go-figure.json) |
 | Go Fish! | 106750 | [106750-go-fish.json](./106750-go-fish.json) |
 | Go Fish! | 40717 | [40717-go-fish.json](./40717-go-fish.json) |
 | Go Fish! The Pop n' Drop Game | 209761 | [209761-go-fish-the-pop-n-drop-game.json](./209761-go-fish-the-pop-n-drop-game.json) |
@@ -11055,6 +11057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gus & Stella's Stellar Adventure | 236194 | [236194-gus-and-stellas-stellar-adventure.json](./236194-gus-and-stellas-stellar-adventure.json) |
 | Gus and Jaq's Cooking Chaos | 246526 | [246526-gus-and-jaqs-cooking-chaos.json](./246526-gus-and-jaqs-cooking-chaos.json) |
 | Gus and the Cyberbuds: Sing, Play & Paint-A-Long | 282237 | [282237-gus-and-the-cyberbuds-sing-play-and-paint-a-long.json](./282237-gus-and-the-cyberbuds-sing-play-and-paint-a-long.json) |
+| Gus and the Cyberbuds: Stellar Game Center! | 282381 | [282381-gus-and-the-cyberbuds-stellar-game-center.json](./282381-gus-and-the-cyberbuds-stellar-game-center.json) |
 | Gus Game | 310881 | [310881-gus-game.json](./310881-gus-game.json) |
 | Gus Goes to Cybertown | 282236 | [282236-gus-goes-to-cybertown.json](./282236-gus-goes-to-cybertown.json) |
 | Gus Track Adventures VR | 28672 | [28672-gus-track-adventures-vr.json](./28672-gus-track-adventures-vr.json) |
