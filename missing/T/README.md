@@ -8259,6 +8259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Divine Invasion | 148689 | [148689-the-divine-invasion.json](./148689-the-divine-invasion.json) |
 | The Divine Paradox | 32258 | [32258-the-divine-paradox.json](./32258-the-divine-paradox.json) |
 | The Divine Speaker | 169155 | [169155-the-divine-speaker.json](./169155-the-divine-speaker.json) |
+| The Divine Speaker: A Bounty Hunter's First Christmas | 261590 | [261590-the-divine-speaker-a-bounty-hunters-first-christmas.json](./261590-the-divine-speaker-a-bounty-hunters-first-christmas.json) |
 | The Divine Speaker: The Sun and the Moon | 199563 | [199563-the-divine-speaker-the-sun-and-the-moon.json](./199563-the-divine-speaker-the-sun-and-the-moon.json) |
 | The Diving Bell | 391881 | [391881-the-diving-bell.json](./391881-the-diving-bell.json) |
 | The Division 2: Mutiny | 381569 | [381569-the-division-2-mutiny.json](./381569-the-division-2-mutiny.json) |
@@ -8749,6 +8750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End: Inari's Quest | 77737 | [77737-the-end-inaris-quest.json](./77737-the-end-inaris-quest.json) |
 | The End: Pronton | 240749 | [240749-the-end-pronton.json](./240749-the-end-pronton.json) |
 | The Endarkenment | 292559 | [292559-the-endarkenment.json](./292559-the-endarkenment.json) |
+| The Endgame | 261621 | [261621-the-endgame.json](./261621-the-endgame.json) |
 | The Endless Adventure | 165686 | [165686-the-endless-adventure.json](./165686-the-endless-adventure.json) |
 | The Endless Backgate | 372807 | [372807-the-endless-backgate.json](./372807-the-endless-backgate.json) |
 | The Endless Dream | 253833 | [253833-the-endless-dream.json](./253833-the-endless-dream.json) |
@@ -14091,6 +14093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The North King | 130630 | [130630-the-north-king.json](./130630-the-north-king.json) |
 | The North Pole | 127227 | [127227-the-north-pole.json](./127227-the-north-pole.json) |
 | The North Road Remastered | 345131 | [345131-the-north-road-remastered.json](./345131-the-north-road-remastered.json) |
+| The North Woods | 261583 | [261583-the-north-woods.json](./261583-the-north-woods.json) |
 | The Northern Gate: Special Agent | 191118 | [191118-the-northern-gate-special-agent.json](./191118-the-northern-gate-special-agent.json) |
 | The Northern Passage | 301414 | [301414-the-northern-passage.json](./301414-the-northern-passage.json) |
 | The Northern Path | 331233 | [331233-the-northern-path.json](./331233-the-northern-path.json) |
@@ -26812,6 +26815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Party: Match 3 Hexa Blast! | 99920 | [99920-toy-party-match-3-hexa-blast.json](./99920-toy-party-match-3-hexa-blast.json) |
 | Toy Pop | 38037 | [38037-toy-pop.json](./38037-toy-pop.json) |
 | Toy Racer | 46369 | [46369-toy-racer.json](./46369-toy-racer.json) |
+| Toy Racer Turbo Wheels: Playground Zone | 261610 | [261610-toy-racer-turbo-wheels-playground-zone.json](./261610-toy-racer-turbo-wheels-playground-zone.json) |
 | Toy Raid | 68254 | [68254-toy-raid.json](./68254-toy-raid.json) |
 | Toy Road Constructor | 111601 | [111601-toy-road-constructor.json](./111601-toy-road-constructor.json) |
 | Toy Robo Force | 54896 | [54896-toy-robo-force.json](./54896-toy-robo-force.json) |
