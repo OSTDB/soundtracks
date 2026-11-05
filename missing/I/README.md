@@ -5328,6 +5328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inventory Full | 338833 | [338833-inventory-full.json](./338833-inventory-full.json) |
 | Inventory Hero | 198160 | [198160-inventory-hero.json](./198160-inventory-hero.json) |
 | Inventory Manager | 173974 | [173974-inventory-manager.json](./173974-inventory-manager.json) |
+| Inventory Master | 274819 | [274819-inventory-master.json](./274819-inventory-master.json) |
 | Inventory Quest: Hero's Hoard | 309820 | [309820-inventory-quest-heros-hoard.json](./309820-inventory-quest-heros-hoard.json) |
 | Inventris TD | 319009 | [319009-inventris-td.json](./319009-inventris-td.json) |
 | Invercity | 199467 | [199467-invercity.json](./199467-invercity.json) |
