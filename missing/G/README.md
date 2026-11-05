@@ -568,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Games | 14085 | [14085-galactic-games.json](./14085-galactic-games.json) |
 | Galactic Gardener | 313101 | [313101-galactic-gardener.json](./313101-galactic-gardener.json) |
 | Galactic Gardener | 377587 | [377587-galactic-gardener.json](./377587-galactic-gardener.json) |
+| Galactic Gauntlet: The Ultimate Interstellar Challenge | 284729 | [284729-galactic-gauntlet-the-ultimate-interstellar-challenge.json](./284729-galactic-gauntlet-the-ultimate-interstellar-challenge.json) |
 | Galactic Getaway | 240825 | [240825-galactic-getaway.json](./240825-galactic-getaway.json) |
 | Galactic Gladiators | 186342 | [186342-galactic-gladiators.json](./186342-galactic-gladiators.json) |
 | Galactic Gladiators | 22488 | [22488-galactic-gladiators.json](./22488-galactic-gladiators.json) |
@@ -6875,6 +6876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodbye, Doggy | 135905 | [135905-goodbye-doggy.json](./135905-goodbye-doggy.json) |
 | Goodbye, New World | 282642 | [282642-goodbye-new-world.json](./282642-goodbye-new-world.json) |
 | Goodbye.Monster | 323716 | [323716-goodbye-monster.json](./323716-goodbye-monster.json) |
+| Goodbyes | 284732 | [284732-goodbyes.json](./284732-goodbyes.json) |
 | Goodcode's Cavern | 356675 | [356675-goodcodes-cavern.json](./356675-goodcodes-cavern.json) |
 | Goodfolks | 61704 | [61704-goodfolks.json](./61704-goodfolks.json) |
 | Goodgame Empire | 70902 | [70902-goodgame-empire.json](./70902-goodgame-empire.json) |
