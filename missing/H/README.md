@@ -991,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammer Kid | 187490 | [187490-hammer-kid.json](./187490-hammer-kid.json) |
 | Hammer Knight | 292495 | [292495-hammer-knight.json](./292495-hammer-knight.json) |
 | Hammer of Fury | 38971 | [38971-hammer-of-fury.json](./38971-hammer-of-fury.json) |
+| Hammer of Pain | 258770 | [258770-hammer-of-pain.json](./258770-hammer-of-pain.json) |
 | Hammer of the Gods | 19703 | [19703-hammer-of-the-gods.json](./19703-hammer-of-the-gods.json) |
 | Hammer Penguins | 340563 | [340563-hammer-penguins.json](./340563-hammer-penguins.json) |
 | Hammer time! | 178089 | [178089-hammer-time.json](./178089-hammer-time.json) |
@@ -3188,6 +3189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Fragment: Book One - Fantasy Fragments | 245032 | [245032-heart-fragment-book-one-fantasy-fragments.json](./245032-heart-fragment-book-one-fantasy-fragments.json) |
 | Heart Fragment: Book Three - Despair Fragments | 246566 | [246566-heart-fragment-book-three-despair-fragments.json](./246566-heart-fragment-book-three-despair-fragments.json) |
 | Heart Fragment: Book Two - Belief Fragments | 196126 | [196126-heart-fragment-book-two-belief-fragments.json](./196126-heart-fragment-book-two-belief-fragments.json) |
+| Heart Heroes: Wolf Knight | 258767 | [258767-heart-heroes-wolf-knight.json](./258767-heart-heroes-wolf-knight.json) |
 | Heart in the Cell: Rebirth | 157020 | [157020-heart-in-the-cell-rebirth.json](./157020-heart-in-the-cell-rebirth.json) |
 | Heart in the Dark | 125090 | [125090-heart-in-the-dark.json](./125090-heart-in-the-dark.json) |
 | Heart Inside | 152623 | [152623-heart-inside.json](./152623-heart-inside.json) |
