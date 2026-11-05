@@ -2660,6 +2660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreal Island | 294971 | [294971-unreal-island.json](./294971-unreal-island.json) |
 | Unreal Land | 62220 | [62220-unreal-land.json](./62220-unreal-land.json) |
 | Unreal Lust Theory | 264533 | [264533-unreal-lust-theory.json](./264533-unreal-lust-theory.json) |
+| Unreal Mashup | 275985 | [275985-unreal-mashup.json](./275985-unreal-mashup.json) |
 | Unreal Match 3 | 308364 | [308364-unreal-match-3.json](./308364-unreal-match-3.json) |
 | Unreal Maze Survival | 116107 | [116107-unreal-maze-survival.json](./116107-unreal-maze-survival.json) |
 | Unreal PT | 113626 | [113626-unreal-pt.json](./113626-unreal-pt.json) |
