@@ -918,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icarus: Art Deco Furniture Pack | 276231 | [276231-icarus-art-deco-furniture-pack.json](./276231-icarus-art-deco-furniture-pack.json) |
 | Icarus: Cactus Outpost | 262455 | [262455-icarus-cactus-outpost.json](./262455-icarus-cactus-outpost.json) |
 | Icarus: Climb to Olympus | 329581 | [329581-icarus-climb-to-olympus.json](./329581-icarus-climb-to-olympus.json) |
+| Icarus: Creature Comforts Pack | 293434 | [293434-icarus-creature-comforts-pack.json](./293434-icarus-creature-comforts-pack.json) |
 | Icarus: Everbark Outpost | 262459 | [262459-icarus-everbark-outpost.json](./262459-icarus-everbark-outpost.json) |
 | Icarus: Great Hunts | 348301 | [348301-icarus-great-hunts.json](./348301-icarus-great-hunts.json) |
 | Icarus: Holdfast Outpost | 262456 | [262456-icarus-holdfast-outpost.json](./262456-icarus-holdfast-outpost.json) |
@@ -2008,6 +2009,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IKO 39 | 126900 | [126900-iko-39.json](./126900-iko-39.json) |
 | Ikoka Game | 273458 | [273458-ikoka-game.json](./273458-ikoka-game.json) |
 | Ikonei Island: An Earthlock Adventure | 197183 | [197183-ikonei-island-an-earthlock-adventure.json](./197183-ikonei-island-an-earthlock-adventure.json) |
+| Ikonei Island: Lunar Union Festival Content Pack | 293431 | [293431-ikonei-island-lunar-union-festival-content-pack.json](./293431-ikonei-island-lunar-union-festival-content-pack.json) |
+| Ikonei Island: Lystide Content Pack | 293432 | [293432-ikonei-island-lystide-content-pack.json](./293432-ikonei-island-lystide-content-pack.json) |
+| Ikonei Island: Spring Tide Content Pack | 293433 | [293433-ikonei-island-spring-tide-content-pack.json](./293433-ikonei-island-spring-tide-content-pack.json) |
 | Ikonoijoy Puzzle | 403117 | [403117-ikonoijoy-puzzle.json](./403117-ikonoijoy-puzzle.json) |
 | IKOU: Intelligenztrainer fur Kids | 269634 | [269634-ikou-intelligenztrainer-fur-kids.json](./269634-ikou-intelligenztrainer-fur-kids.json) |
 | Iktsua | 329930 | [329930-iktsua.json](./329930-iktsua.json) |
@@ -3741,6 +3745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -6227,6 +6232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isometric World | 204279 | [204279-isometric-world.json](./204279-isometric-world.json) |
 | Isometric World: Frame of Mind | 150922 | [150922-isometric-world-frame-of-mind.json](./150922-isometric-world-frame-of-mind.json) |
 | Isomorph | 31614 | [31614-isomorph.json](./31614-isomorph.json) |
+| Isonzo: Altitude Units Pack | 293430 | [293430-isonzo-altitude-units-pack.json](./293430-isonzo-altitude-units-pack.json) |
 | Isonzo: Avanti Savoia Units Pack | 373587 | [373587-isonzo-avanti-savoia-units-pack.json](./373587-isonzo-avanti-savoia-units-pack.json) |
 | Isonzo: Collector's Edition | 218548 | [218548-isonzo-collectors-edition.json](./218548-isonzo-collectors-edition.json) |
 | Isonzo: Deluxe Edition | 194823 | [194823-isonzo-deluxe-edition.json](./194823-isonzo-deluxe-edition.json) |
