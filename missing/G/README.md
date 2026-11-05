@@ -3667,6 +3667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Hunter | 294162 | [294162-ghost-hunter.json](./294162-ghost-hunter.json) |
 | Ghost Hunter | 307685 | [307685-ghost-hunter.json](./307685-ghost-hunter.json) |
 | Ghost Hunter | 321359 | [321359-ghost-hunter.json](./321359-ghost-hunter.json) |
+| Ghost Hunters | 272624 | [272624-ghost-hunters.json](./272624-ghost-hunters.json) |
 | Ghost Hunters | 360559 | [360559-ghost-hunters.json](./360559-ghost-hunters.json) |
 | Ghost Hunters | 47149 | [47149-ghost-hunters.json](./47149-ghost-hunters.json) |
 | Ghost Hunters Academy | 66688 | [66688-ghost-hunters-academy.json](./66688-ghost-hunters-academy.json) |
@@ -5961,6 +5962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godlike Burger | 143010 | [143010-godlike-burger.json](./143010-godlike-burger.json) |
 | Godling | 91017 | [91017-godling.json](./91017-godling.json) |
 | Godly Corp | 88122 | [88122-godly-corp.json](./88122-godly-corp.json) |
+| Godly Survivors | 272623 | [272623-godly-survivors.json](./272623-godly-survivors.json) |
 | GodMod | 215581 | [215581-godmod.json](./215581-godmod.json) |
 | Godmode Epochs | 252688 | [252688-godmode-epochs.json](./252688-godmode-epochs.json) |
 | Godmorgon: Spooky Ride | 187227 | [187227-godmorgon-spooky-ride.json](./187227-godmorgon-spooky-ride.json) |
