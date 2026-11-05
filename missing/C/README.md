@@ -1750,6 +1750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capsulitas | 390201 | [390201-capsulitas.json](./390201-capsulitas.json) |
 | Capt Crabs a Slimy Adventure | 249821 | [249821-capt-crabs-a-slimy-adventure.json](./249821-capt-crabs-a-slimy-adventure.json) |
 | Capt'n Kidd | 13463 | [13463-captn-kidd.json](./13463-captn-kidd.json) |
+| Captain & Company | 278790 | [278790-captain-and-company.json](./278790-captain-and-company.json) |
 | Captain 25 | 346086 | [346086-captain-25.json](./346086-captain-25.json) |
 | Captain A-Hole's Guide To Getting Old(er) | 279681 | [279681-captain-a-holes-guide-to-getting-old-er.json](./279681-captain-a-holes-guide-to-getting-old-er.json) |
 | Captain Alexia | 181907 | [181907-captain-alexia.json](./181907-captain-alexia.json) |
@@ -12846,6 +12847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Chess | 47531 | [47531-computer-chess.json](./47531-computer-chess.json) |
 | Computer Circus Maximus | 72039 | [72039-computer-circus-maximus.json](./72039-computer-circus-maximus.json) |
 | Computer Club | 211646 | [211646-computer-club.json](./211646-computer-club.json) |
+| Computer Conflict | 278781 | [278781-computer-conflict.json](./278781-computer-conflict.json) |
 | Computer Diplomacy | 72163 | [72163-computer-diplomacy.json](./72163-computer-diplomacy.json) |
 | Computer Donjara | 385533 | [385533-computer-donjara.json](./385533-computer-donjara.json) |
 | Computer Facts in Five | 94156 | [94156-computer-facts-in-five.json](./94156-computer-facts-in-five.json) |
@@ -13185,6 +13187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect/Words | 87696 | [87696-connect-words.json](./87696-connect-words.json) |
 | Connect01 | 105657 | [105657-connect01.json](./105657-connect01.json) |
 | ConnecTank | 152381 | [152381-connectank.json](./152381-connectank.json) |
+| Connected Clue | 278789 | [278789-connected-clue.json](./278789-connected-clue.json) |
 | Connected Colors | 351906 | [351906-connected-colors.json](./351906-connected-colors.json) |
 | Connected Dreams | 225369 | [225369-connected-dreams.json](./225369-connected-dreams.json) |
 | Connected Fates | 310982 | [310982-connected-fates.json](./310982-connected-fates.json) |
