@@ -7398,6 +7398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flats Full of Cats: Gold & Candles | 379386 | [379386-flats-full-of-cats-gold-and-candles.json](./379386-flats-full-of-cats-gold-and-candles.json) |
 | Flats Full of Cats: Stars & Oysters | 379387 | [379387-flats-full-of-cats-stars-and-oysters.json](./379387-flats-full-of-cats-stars-and-oysters.json) |
 | Flatshot | 76588 | [76588-flatshot.json](./76588-flatshot.json) |
+| FlatSoccer: Online Soccer | 254210 | [254210-flatsoccer-online-soccer.json](./254210-flatsoccer-online-soccer.json) |
 | Flatspace | 73992 | [73992-flatspace.json](./73992-flatspace.json) |
 | Flatspace II | 72979 | [72979-flatspace-ii.json](./72979-flatspace-ii.json) |
 | Flatspace IIk | 29668 | [29668-flatspace-iik.json](./29668-flatspace-iik.json) |
