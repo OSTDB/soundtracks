@@ -957,7 +957,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3102,6 +3101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball Serial Shooter | 355140 | [355140-basketball-serial-shooter.json](./355140-basketball-serial-shooter.json) |
 | Basketball Shoot | 284135 | [284135-basketball-shoot.json](./284135-basketball-shoot.json) |
 | Basketball Shoots | 103038 | [103038-basketball-shoots.json](./103038-basketball-shoots.json) |
+| Basketball Showdown 2 | 250100 | [250100-basketball-showdown-2.json](./250100-basketball-showdown-2.json) |
 | Basketball Showdown: Royale | 244798 | [244798-basketball-showdown-royale.json](./244798-basketball-showdown-royale.json) |
 | Basketball Simulator | 255061 | [255061-basketball-simulator.json](./255061-basketball-simulator.json) |
 | Basketball Simulator | 348153 | [348153-basketball-simulator.json](./348153-basketball-simulator.json) |
@@ -7053,6 +7053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Time | 73207 | [73207-beyond-time.json](./73207-beyond-time.json) |
 | Beyond Tokyo | 157447 | [157447-beyond-tokyo.json](./157447-beyond-tokyo.json) |
 | Beyond Truth | 184372 | [184372-beyond-truth.json](./184372-beyond-truth.json) |
+| Beyond U | 250115 | [250115-beyond-u.json](./250115-beyond-u.json) |
 | Beyond Up | 386297 | [386297-beyond-up.json](./386297-beyond-up.json) |
 | Beyond Words | 375690 | [375690-beyond-words.json](./375690-beyond-words.json) |
 | Beyond Yardwork Simulator | 397238 | [397238-beyond-yardwork-simulator.json](./397238-beyond-yardwork-simulator.json) |
@@ -7973,6 +7974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bio Guardian | 52458 | [52458-bio-guardian.json](./52458-bio-guardian.json) |
 | Bio Hazard | 247453 | [247453-bio-hazard.json](./247453-bio-hazard.json) |
 | Bio Hazard | 356221 | [356221-bio-hazard.json](./356221-bio-hazard.json) |
+| Bio Inc. Nemesis | 250109 | [250109-bio-inc-nemesis.json](./250109-bio-inc-nemesis.json) |
 | Bio Inc. Redemption | 36627 | [36627-bio-inc-redemption.json](./36627-bio-inc-redemption.json) |
 | Bio Inc. Redemption + Crossroads Inn: Doctors and Bartenders Bundle | 296561 | [296561-bio-inc-redemption-crossroads-inn-doctors-and-bartenders-bundle.json](./296561-bio-inc-redemption-crossroads-inn-doctors-and-bartenders-bundle.json) |
 | Bio Menace | 8491 | [8491-bio-menace.json](./8491-bio-menace.json) |
@@ -8416,6 +8418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BishiBashi Channel | 112573 | [112573-bishibashi-channel.json](./112573-bishibashi-channel.json) |
 | Bishojo Battlefield | 174646 | [174646-bishojo-battlefield.json](./174646-bishojo-battlefield.json) |
 | Bishojou Mahjong Club | 41339 | [41339-bishojou-mahjong-club.json](./41339-bishojou-mahjong-club.json) |
+| Bishook. | 250117 | [250117-bishook.json](./250117-bishook.json) |
 | Bishoujo Battle Hanafuda Koi-Koi | 133146 | [133146-bishoujo-battle-hanafuda-koi-koi.json](./133146-bishoujo-battle-hanafuda-koi-koi.json) |
 | Bishoujo Battle: Double Strike! | 195525 | [195525-bishoujo-battle-double-strike.json](./195525-bishoujo-battle-double-strike.json) |
 | Bishoujo Control | 41253 | [41253-bishoujo-control.json](./41253-bishoujo-control.json) |
