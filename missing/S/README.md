@@ -5421,6 +5421,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura Bon Appétit!: Full Course | 26008 | [26008-senran-kagura-bon-appetit-full-course.json](./26008-senran-kagura-bon-appetit-full-course.json) |
 | Senran Kagura Burst | 9915 | [9915-senran-kagura-burst.json](./9915-senran-kagura-burst.json) |
 | Senran Kagura Burst Re:Newal - At the Seams Edition | 136354 | [136354-senran-kagura-burst-re-newal-at-the-seams-edition.json](./136354-senran-kagura-burst-re-newal-at-the-seams-edition.json) |
+| Senran Kagura Burst Re:Newal - Gessen Character Set | 248351 | [248351-senran-kagura-burst-re-newal-gessen-character-set.json](./248351-senran-kagura-burst-re-newal-gessen-character-set.json) |
+| Senran Kagura Burst Re:Newal - Hebijo Character Set | 248354 | [248354-senran-kagura-burst-re-newal-hebijo-character-set.json](./248354-senran-kagura-burst-re-newal-hebijo-character-set.json) |
+| Senran Kagura Burst Re:Newal - Kagura, Naraku & Ryouki Set | 248355 | [248355-senran-kagura-burst-re-newal-kagura-naraku-and-ryouki-set.json](./248355-senran-kagura-burst-re-newal-kagura-naraku-and-ryouki-set.json) |
 | Senran Kagura Burst Re:Newal - Miyabi Character and Campaign | 248315 | [248315-senran-kagura-burst-re-newal-miyabi-character-and-campaign.json](./248315-senran-kagura-burst-re-newal-miyabi-character-and-campaign.json) |
 | Senran Kagura Burst Re:Newal - Nyuu Nyuu DX Pack Limited Edition | 167011 | [167011-senran-kagura-burst-re-newal-nyuu-nyuu-dx-pack-limited-edition.json](./167011-senran-kagura-burst-re-newal-nyuu-nyuu-dx-pack-limited-edition.json) |
 | Senran Kagura Burst Re:Newal - Tailor-Made Edition | 136293 | [136293-senran-kagura-burst-re-newal-tailor-made-edition.json](./136293-senran-kagura-burst-re-newal-tailor-made-edition.json) |
@@ -7680,6 +7683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep Running | 347039 | [347039-sheep-running.json](./347039-sheep-running.json) |
 | Sheep Seeker | 327652 | [327652-sheep-seeker.json](./327652-sheep-seeker.json) |
 | Sheep Sheep Wolf | 112246 | [112246-sheep-sheep-wolf.json](./112246-sheep-sheep-wolf.json) |
+| Sheep Simulator AR | 248265 | [248265-sheep-simulator-ar.json](./248265-sheep-simulator-ar.json) |
 | Sheep Split | 413383 | [413383-sheep-split.json](./413383-sheep-split.json) |
 | Sheep Sweep | 302182 | [302182-sheep-sweep.json](./302182-sheep-sweep.json) |
 | Sheep Up! | 120247 | [120247-sheep-up.json](./120247-sheep-up.json) |
@@ -9392,6 +9396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shower Sim | 128603 | [128603-shower-sim.json](./128603-shower-sim.json) |
 | Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad? | 12204 | [12204-shower-with-your-dad-simulator-2015-do-you-still-shower-with-your-dad.json](./12204-shower-with-your-dad-simulator-2015-do-you-still-shower-with-your-dad.json) |
 | Showgunners | 210947 | [210947-showgunners.json](./210947-showgunners.json) |
+| Showgunners: Deluxe Edition | 248360 | [248360-showgunners-deluxe-edition.json](./248360-showgunners-deluxe-edition.json) |
 | Showgunners: Security Breach | 257677 | [257677-showgunners-security-breach.json](./257677-showgunners-security-breach.json) |
 | Showmaker | 43096 | [43096-showmaker.json](./43096-showmaker.json) |
 | ShowMeSpeed | 303768 | [303768-showmespeed.json](./303768-showmespeed.json) |
@@ -11407,6 +11412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinuca de Bar | 396479 | [396479-sinuca-de-bar.json](./396479-sinuca-de-bar.json) |
 | Sinui Yeongyeok | 224400 | [224400-sinui-yeongyeok.json](./224400-sinui-yeongyeok.json) |
 | Sinvers on Wheels | 320457 | [320457-sinvers-on-wheels.json](./320457-sinvers-on-wheels.json) |
+| SinVR | 248380 | [248380-sinvr.json](./248380-sinvr.json) |
 | SinxHolic | 219141 | [219141-sinxholic.json](./219141-sinxholic.json) |
 | Sinyaya Boroda | 387015 | [387015-sinyaya-boroda.json](./387015-sinyaya-boroda.json) |
 | Sio and Mysterious Forest | 122214 | [122214-sio-and-mysterious-forest.json](./122214-sio-and-mysterious-forest.json) |
@@ -17970,6 +17976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sopwith VR | 113601 | [113601-sopwith-vr.json](./113601-sopwith-vr.json) |
 | Sopwith: The Author's Edition | 73126 | [73126-sopwith-the-authors-edition.json](./73126-sopwith-the-authors-edition.json) |
 | Sor.Op: Dark Shades | 355883 | [355883-sor-op-dark-shades.json](./355883-sor-op-dark-shades.json) |
+| SOR2 Fight'n Rage | 248350 | [248350-sor2-fightn-rage.json](./248350-sor2-fightn-rage.json) |
 | Sora | 18569 | [18569-sora.json](./18569-sora.json) |
 | Sora ni Kizanda Parallelogram | 392973 | [392973-sora-ni-kizanda-parallelogram.json](./392973-sora-ni-kizanda-parallelogram.json) |
 | Sora no Ao to Shiro to | 368646 | [368646-sora-no-ao-to-shiro-to.json](./368646-sora-no-ao-to-shiro-to.json) |
@@ -18919,6 +18926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Bar | 411582 | [411582-space-bar.json](./411582-space-bar.json) |
 | Space Bar at the End of the Galaxy | 171005 | [171005-space-bar-at-the-end-of-the-galaxy.json](./171005-space-bar-at-the-end-of-the-galaxy.json) |
 | Space Barnacle | 108889 | [108889-space-barnacle.json](./108889-space-barnacle.json) |
+| Space Barrel Adventures | 248368 | [248368-space-barrel-adventures.json](./248368-space-barrel-adventures.json) |
 | Space Base | 302753 | [302753-space-base.json](./302753-space-base.json) |
 | Space Base | 415230 | [415230-space-base.json](./415230-space-base.json) |
 | Space Bash | 379727 | [379727-space-bash.json](./379727-space-bash.json) |
@@ -28187,6 +28195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stroke of Midnight | 54409 | [54409-stroke-of-midnight.json](./54409-stroke-of-midnight.json) |
 | Stroke of Midnight: Collector's Edition | 54410 | [54410-stroke-of-midnight-collectors-edition.json](./54410-stroke-of-midnight-collectors-edition.json) |
 | Stroke The Animals | 279020 | [279020-stroke-the-animals.json](./279020-stroke-the-animals.json) |
+| Stroke The Beaver | 248270 | [248270-stroke-the-beaver.json](./248270-stroke-the-beaver.json) |
 | Stroke the Cat | 217915 | [217915-stroke-the-cat.json](./217915-stroke-the-cat.json) |
 | Stroke the Cow | 228017 | [228017-stroke-the-cow.json](./228017-stroke-the-cow.json) |
 | Stroke The Dik-Dik | 251640 | [251640-stroke-the-dik-dik.json](./251640-stroke-the-dik-dik.json) |
@@ -31197,6 +31206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64: Ocarina of Time | 132837 | [132837-super-mario-64-ocarina-of-time.json](./132837-super-mario-64-ocarina-of-time.json) |
 | Super Mario 64: Odyssey Mario's Moveset | 198368 | [198368-super-mario-64-odyssey-marios-moveset.json](./198368-super-mario-64-odyssey-marios-moveset.json) |
 | Super Mario 64: Openworld Quest | 350958 | [350958-super-mario-64-openworld-quest.json](./350958-super-mario-64-openworld-quest.json) |
+| Super Mario 64: Play as a Dragon! | 248348 | [248348-super-mario-64-play-as-a-dragon.json](./248348-super-mario-64-play-as-a-dragon.json) |
 | Super Mario 64: Remastered Quest | 268716 | [268716-super-mario-64-remastered-quest.json](./268716-super-mario-64-remastered-quest.json) |
 | Super Mario 64: Rogue Chaos Edition Version 2.0 | 413054 | [413054-super-mario-64-rogue-chaos-edition-version-2-0.json](./413054-super-mario-64-rogue-chaos-edition-version-2-0.json) |
 | Super Mario 64: Royal Legacy | 268717 | [268717-super-mario-64-royal-legacy.json](./268717-super-mario-64-royal-legacy.json) |
@@ -31723,6 +31733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mega Baseball 2: Red Rock Park | 171907 | [171907-super-mega-baseball-2-red-rock-park.json](./171907-super-mega-baseball-2-red-rock-park.json) |
 | Super Mega Baseball 3 | 131946 | [131946-super-mega-baseball-3.json](./131946-super-mega-baseball-3.json) |
 | Super Mega Baseball 4 | 202858 | [202858-super-mega-baseball-4.json](./202858-super-mega-baseball-4.json) |
+| Super Mega Baseball 4: Ballpark Edition | 248341 | [248341-super-mega-baseball-4-ballpark-edition.json](./248341-super-mega-baseball-4-ballpark-edition.json) |
 | Super Mega Baseball 4: Castillo Arena Stadium | 266742 | [266742-super-mega-baseball-4-castillo-arena-stadium.json](./266742-super-mega-baseball-4-castillo-arena-stadium.json) |
 | Super Mega Baseball 4: Peril Point Stadium | 252626 | [252626-super-mega-baseball-4-peril-point-stadium.json](./252626-super-mega-baseball-4-peril-point-stadium.json) |
 | Super Mega Bob | 34676 | [34676-super-mega-bob.json](./34676-super-mega-bob.json) |
