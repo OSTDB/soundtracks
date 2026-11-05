@@ -4146,6 +4146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JustBox | 340782 | [340782-justbox.json](./340782-justbox.json) |
 | JusTD | 333514 | [333514-justd.json](./333514-justd.json) |
 | JustHammers | 341865 | [341865-justhammers.json](./341865-justhammers.json) |
+| Justice | 247266 | [247266-justice.json](./247266-justice.json) |
 | Justice & Judgement | 97745 | [97745-justice-and-judgement.json](./97745-justice-and-judgement.json) |
 | Justice Bear: Equinox | 118149 | [118149-justice-bear-equinox.json](./118149-justice-bear-equinox.json) |
 | Justice Became Prey | 351596 | [351596-justice-became-prey.json](./351596-justice-became-prey.json) |
