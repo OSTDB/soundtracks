@@ -1132,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dango! | 207726 | [207726-dango.json](./207726-dango.json) |
 | DangoVerse | 284998 | [284998-dangoverse.json](./284998-dangoverse.json) |
 | Dangun Feveron | 40979 | [40979-dangun-feveron.json](./40979-dangun-feveron.json) |
+| Dani and Evan: Dinosaur books | 280591 | [280591-dani-and-evan-dinosaur-books.json](./280591-dani-and-evan-dinosaur-books.json) |
 | Dani to Evan: Kids Note | 280073 | [280073-dani-to-evan-kids-note.json](./280073-dani-to-evan-kids-note.json) |
 | Daniel in Danger | 361382 | [361382-daniel-in-danger.json](./361382-daniel-in-danger.json) |
 | Daniel Pintado's Land of Silence | 284999 | [284999-daniel-pintados-land-of-silence.json](./284999-daniel-pintados-land-of-silence.json) |
@@ -12693,6 +12694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doofus Drop | 379136 | [379136-doofus-drop.json](./379136-doofus-drop.json) |
 | Doog | 149287 | [149287-doog.json](./149287-doog.json) |
 | Dookie Nukem 3D | 218115 | [218115-dookie-nukem-3d.json](./218115-dookie-nukem-3d.json) |
+| Dool | 280562 | [280562-dool.json](./280562-dool.json) |
 | Dooly Bravo Land | 63649 | [63649-dooly-bravo-land.json](./63649-dooly-bravo-land.json) |
 | Dooly Daemoheom | 63645 | [63645-dooly-daemoheom.json](./63645-dooly-daemoheom.json) |
 | Dooly Soccer 2002 | 92313 | [92313-dooly-soccer-2002.json](./92313-dooly-soccer-2002.json) |
