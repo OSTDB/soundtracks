@@ -6572,6 +6572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanic 8230 | 151107 | [151107-mechanic-8230.json](./151107-mechanic-8230.json) |
 | Mechanic 8230: Deluxe Edition | 252700 | [252700-mechanic-8230-deluxe-edition.json](./252700-mechanic-8230-deluxe-edition.json) |
 | Mechanic 8230: Escape From Ilgrot - Extended Edition | 259544 | [259544-mechanic-8230-escape-from-ilgrot-extended-edition.json](./259544-mechanic-8230-escape-from-ilgrot-extended-edition.json) |
+| Mechanic 8230: Escape From Ilgrot - Ultimate Edition | 256018 | [256018-mechanic-8230-escape-from-ilgrot-ultimate-edition.json](./256018-mechanic-8230-escape-from-ilgrot-ultimate-edition.json) |
 | Mechanic 8230: Mission Citytone | 260527 | [260527-mechanic-8230-mission-citytone.json](./260527-mechanic-8230-mission-citytone.json) |
 | Mechanic Battle | 203724 | [203724-mechanic-battle.json](./203724-mechanic-battle.json) |
 | Mechanic Beyond the Horizon | 356344 | [356344-mechanic-beyond-the-horizon.json](./356344-mechanic-beyond-the-horizon.json) |
@@ -21662,6 +21663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystical Mayhem | 156038 | [156038-mystical-mayhem.json](./156038-mystical-mayhem.json) |
 | Mystical Mixing | 224011 | [224011-mystical-mixing.json](./224011-mystical-mixing.json) |
 | Mystical Mixing: Arcane Edition | 254074 | [254074-mystical-mixing-arcane-edition.json](./254074-mystical-mixing-arcane-edition.json) |
+| Mystical Mixing: Complete Edition | 256020 | [256020-mystical-mixing-complete-edition.json](./256020-mystical-mixing-complete-edition.json) |
 | Mystical Mixing: Wand and Frog Edition | 273305 | [273305-mystical-mixing-wand-and-frog-edition.json](./273305-mystical-mixing-wand-and-frog-edition.json) |
 | Mystical Mushrooms | 341353 | [341353-mystical-mushrooms.json](./341353-mystical-mushrooms.json) |
 | Mystical Ninja Starring Goemon | 143439 | [143439-mystical-ninja-starring-goemon.json](./143439-mystical-ninja-starring-goemon.json) |
