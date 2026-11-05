@@ -4759,6 +4759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightness | 214035 | [214035-lightness.json](./214035-lightness.json) |
 | Lightning | 221223 | [221223-lightning.json](./221223-lightning.json) |
 | Lightning Angel Litona Liliche | 110133 | [110133-lightning-angel-litona-liliche.json](./110133-lightning-angel-litona-liliche.json) |
+| Lightning Crashes | 281806 | [281806-lightning-crashes.json](./281806-lightning-crashes.json) |
 | Lightning Duru | 254390 | [254390-lightning-duru.json](./254390-lightning-duru.json) |
 | Lightning Fast | 157141 | [157141-lightning-fast.json](./157141-lightning-fast.json) |
 | Lightning Fighter | 335329 | [335329-lightning-fighter.json](./335329-lightning-fighter.json) |
@@ -5142,6 +5143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LiMiT's Escape Room Games | 196161 | [196161-limits-escape-room-games.json](./196161-limits-escape-room-games.json) |
 | Limit's Escape Room Games 2 | 211631 | [211631-limits-escape-room-games-2.json](./211631-limits-escape-room-games-2.json) |
 | Limita Luminii | 188892 | [188892-limita-luminii.json](./188892-limita-luminii.json) |
+| Limite Limite | 281801 | [281801-limite-limite.json](./281801-limite-limite.json) |
 | Limited Express | 423259 | [423259-limited-express.json](./423259-limited-express.json) |
 | Limited Lifetime Corp | 208653 | [208653-limited-lifetime-corp.json](./208653-limited-lifetime-corp.json) |
 | Limited Rescue | 235039 | [235039-limited-rescue.json](./235039-limited-rescue.json) |
