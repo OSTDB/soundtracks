@@ -16474,6 +16474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Budget Backrooms | 266290 | [266290-budget-backrooms.json](./266290-budget-backrooms.json) |
 | Budget Cuts | 18970 | [18970-budget-cuts.json](./18970-budget-cuts.json) |
 | Budget Cuts 2: Mission Insolvency | 119340 | [119340-budget-cuts-2-mission-insolvency.json](./119340-budget-cuts-2-mission-insolvency.json) |
+| Budget Cuts Ultimate | 250695 | [250695-budget-cuts-ultimate.json](./250695-budget-cuts-ultimate.json) |
 | Budget Guardian: Health Realm | 347985 | [347985-budget-guardian-health-realm.json](./347985-budget-guardian-health-realm.json) |
 | Budget Rate Stigmata | 362855 | [362855-budget-rate-stigmata.json](./362855-budget-rate-stigmata.json) |
 | Budget Renovation Simulator | 407482 | [407482-budget-renovation-simulator.json](./407482-budget-renovation-simulator.json) |
@@ -17111,6 +17112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumptz Science Carnival | 339040 | [339040-bumptz-science-carnival.json](./339040-bumptz-science-carnival.json) |
 | BumpUpGhostBuster | 234717 | [234717-bumpupghostbuster.json](./234717-bumpupghostbuster.json) |
 | Bumpy | 13454 | [13454-bumpy.json](./13454-bumpy.json) |
+| Bumpy Grumpy | 250701 | [250701-bumpy-grumpy.json](./250701-bumpy-grumpy.json) |
 | Bumpy Jumpy | 305374 | [305374-bumpy-jumpy.json](./305374-bumpy-jumpy.json) |
 | Bumpy Road | 6209 | [6209-bumpy-road.json](./6209-bumpy-road.json) |
 | Bumpy's Arcade Fantasy | 11724 | [11724-bumpys-arcade-fantasy.json](./11724-bumpys-arcade-fantasy.json) |
@@ -17521,6 +17523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Angels | 37719 | [37719-burning-angels.json](./37719-burning-angels.json) |
 | Burning Ball | 169347 | [169347-burning-ball.json](./169347-burning-ball.json) |
 | Burning Birds | 341853 | [341853-burning-birds.json](./341853-burning-birds.json) |
+| Burning Branch | 250724 | [250724-burning-branch.json](./250724-burning-branch.json) |
 | Burning Bridges | 414750 | [414750-burning-bridges.json](./414750-burning-bridges.json) |
 | Burning Bubbles Lab | 264971 | [264971-burning-bubbles-lab.json](./264971-burning-bubbles-lab.json) |
 | Burning Calories | 255148 | [255148-burning-calories.json](./255148-burning-calories.json) |
@@ -17730,6 +17733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 21: Protect Nature Interior Pack | 213950 | [213950-bus-simulator-21-protect-nature-interior-pack.json](./213950-bus-simulator-21-protect-nature-interior-pack.json) |
 | Bus Simulator 21: USA Skin Pack | 213849 | [213849-bus-simulator-21-usa-skin-pack.json](./213849-bus-simulator-21-usa-skin-pack.json) |
 | Bus Simulator 21: VDL Bus Pack | 213952 | [213952-bus-simulator-21-vdl-bus-pack.json](./213952-bus-simulator-21-vdl-bus-pack.json) |
+| Bus Simulator 23 | 250712 | [250712-bus-simulator-23.json](./250712-bus-simulator-23.json) |
 | Bus Simulator 27 | 355086 | [355086-bus-simulator-27.json](./355086-bus-simulator-27.json) |
 | Bus Simulator 3D | 241060 | [241060-bus-simulator-3d.json](./241060-bus-simulator-3d.json) |
 | Bus Simulator City Ride | 210909 | [210909-bus-simulator-city-ride.json](./210909-bus-simulator-city-ride.json) |
