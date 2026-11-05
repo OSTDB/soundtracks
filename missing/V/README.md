@@ -932,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vasilis | 113489 | [113489-vasilis.json](./113489-vasilis.json) |
 | Vasilisa | 378525 | [378525-vasilisa.json](./378525-vasilisa.json) |
 | Vasilisa the Beautiful | 360566 | [360566-vasilisa-the-beautiful.json](./360566-vasilisa-the-beautiful.json) |
+| Vasilisa the Wise | 258290 | [258290-vasilisa-the-wise.json](./258290-vasilisa-the-wise.json) |
 | Vasilisas Torment | 264524 | [264524-vasilisas-torment.json](./264524-vasilisas-torment.json) |
 | Vaska | 396663 | [396663-vaska.json](./396663-vaska.json) |
 | Vassoul | 384251 | [384251-vassoul.json](./384251-vassoul.json) |
