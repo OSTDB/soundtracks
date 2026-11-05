@@ -1260,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Epoch: Tombs of the Erased | 341008 | [341008-last-epoch-tombs-of-the-erased.json](./341008-last-epoch-tombs-of-the-erased.json) |
 | Last Epoch: Twilight Fox | 286563 | [286563-last-epoch-twilight-fox.json](./286563-last-epoch-twilight-fox.json) |
 | Last Equinox: Winds of Change | 255388 | [255388-last-equinox-winds-of-change.json](./255388-last-equinox-winds-of-change.json) |
+| Last Escape: Dead Complex | 276553 | [276553-last-escape-dead-complex.json](./276553-last-escape-dead-complex.json) |
 | Last Escort 2: Shin'ya no Amai Ibara | 220570 | [220570-last-escort-2-shinya-no-amai-ibara.json](./220570-last-escort-2-shinya-no-amai-ibara.json) |
 | Last Escort: Kokuchou Special Night | 220567 | [220567-last-escort-kokuchou-special-night.json](./220567-last-escort-kokuchou-special-night.json) |
 | Last Escort: Shin'ya no Kokuchou Monogatari | 220566 | [220566-last-escort-shinya-no-kokuchou-monogatari.json](./220566-last-escort-shinya-no-kokuchou-monogatari.json) |
@@ -9585,6 +9586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Lander | 118546 | [118546-lunar-lander.json](./118546-lunar-lander.json) |
 | Lunar Lander | 16973 | [16973-lunar-lander.json](./16973-lunar-lander.json) |
 | Lunar Lander | 187373 | [187373-lunar-lander.json](./187373-lunar-lander.json) |
+| Lunar Lander | 276532 | [276532-lunar-lander.json](./276532-lunar-lander.json) |
 | Lunar Lander | 9128 | [9128-lunar-lander.json](./9128-lunar-lander.json) |
 | Lunar Lander Beyond | 260301 | [260301-lunar-lander-beyond.json](./260301-lunar-lander-beyond.json) |
 | Lunar Lander Beyond: Deluxe Edition | 284477 | [284477-lunar-lander-beyond-deluxe-edition.json](./284477-lunar-lander-beyond-deluxe-edition.json) |
