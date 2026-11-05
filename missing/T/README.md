@@ -8671,6 +8671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eliminator | 24704 | [24704-the-eliminator.json](./24704-the-eliminator.json) |
 | The Elision Effect | 273415 | [273415-the-elision-effect.json](./273415-the-elision-effect.json) |
 | The Elite Grand Enigma | 422845 | [422845-the-elite-grand-enigma.json](./422845-the-elite-grand-enigma.json) |
+| The Elite of Mboa | 260491 | [260491-the-elite-of-mboa.json](./260491-the-elite-of-mboa.json) |
 | The Elm Game | 171868 | [171868-the-elm-game.json](./171868-the-elm-game.json) |
 | The Elven Forest VR | 384633 | [384633-the-elven-forest-vr.json](./384633-the-elven-forest-vr.json) |
 | The Elysian Field | 153976 | [153976-the-elysian-field.json](./153976-the-elysian-field.json) |
@@ -10629,6 +10630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House | 17440 | [17440-the-house.json](./17440-the-house.json) |
 | The House | 195921 | [195921-the-house.json](./195921-the-house.json) |
 | The House | 240315 | [240315-the-house.json](./240315-the-house.json) |
+| The House | 260467 | [260467-the-house.json](./260467-the-house.json) |
 | The House | 265280 | [265280-the-house.json](./265280-the-house.json) |
 | The House | 331052 | [331052-the-house.json](./331052-the-house.json) |
 | The House | 352303 | [352303-the-house.json](./352303-the-house.json) |
@@ -18446,6 +18448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wavy Tube Man Chronicles | 64172 | [64172-the-wavy-tube-man-chronicles.json](./64172-the-wavy-tube-man-chronicles.json) |
 | The Way | 19480 | [19480-the-way.json](./19480-the-way.json) |
 | The Way | 251177 | [251177-the-way.json](./251177-the-way.json) |
+| The Way | 260454 | [260454-the-way.json](./260454-the-way.json) |
 | The Way Back Home: Sinister Night | 218829 | [218829-the-way-back-home-sinister-night.json](./218829-the-way-back-home-sinister-night.json) |
 | The Way Down | 357734 | [357734-the-way-down.json](./357734-the-way-down.json) |
 | The Way Home | 166721 | [166721-the-way-home.json](./166721-the-way-home.json) |
@@ -29509,6 +29512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trax: Build it Race it | 105939 | [105939-trax-build-it-race-it.json](./105939-trax-build-it-race-it.json) |
 | Trax: The Robot Wars | 62160 | [62160-trax-the-robot-wars.json](./62160-trax-the-robot-wars.json) |
 | Traxion | 257688 | [257688-traxion.json](./257688-traxion.json) |
+| Traxion 2 | 260481 | [260481-traxion-2.json](./260481-traxion-2.json) |
 | Traxion 3000 | 319663 | [319663-traxion-3000.json](./319663-traxion-3000.json) |
 | TraxWorld | 190167 | [190167-traxworld.json](./190167-traxworld.json) |
 | Traxx | 94505 | [94505-traxx.json](./94505-traxx.json) |
