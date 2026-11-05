@@ -1917,6 +1917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranveer vs. Wild With Bear Grylls | 256869 | [256869-ranveer-vs-wild-with-bear-grylls.json](./256869-ranveer-vs-wild-with-bear-grylls.json) |
 | Ranx | 77645 | [77645-ranx.json](./77645-ranx.json) |
 | Rap Attack: 2pacalypse Now | 92683 | [92683-rap-attack-2pacalypse-now.json](./92683-rap-attack-2pacalypse-now.json) |
+| Rap Attack! | 251928 | [251928-rap-attack.json](./251928-rap-attack.json) |
 | Rap Basketball | 37870 | [37870-rap-basketball.json](./37870-rap-basketball.json) |
 | Rap Jam: Volume One | 44458 | [44458-rap-jam-volume-one.json](./44458-rap-jam-volume-one.json) |
 | Rap Pop Jump Core | 303999 | [303999-rap-pop-jump-core.json](./303999-rap-pop-jump-core.json) |
@@ -7265,6 +7266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridiculous Marathon | 54756 | [54756-ridiculous-marathon.json](./54756-ridiculous-marathon.json) |
 | Ridiculous RPG | 232041 | [232041-ridiculous-rpg.json](./232041-ridiculous-rpg.json) |
 | Ridiculous Rugby | 107593 | [107593-ridiculous-rugby.json](./107593-ridiculous-rugby.json) |
+| Ridiculous Rush | 251895 | [251895-ridiculous-rush.json](./251895-ridiculous-rush.json) |
 | Ridiculous Shipping | 331317 | [331317-ridiculous-shipping.json](./331317-ridiculous-shipping.json) |
 | Ridiculous Space Battles | 349222 | [349222-ridiculous-space-battles.json](./349222-ridiculous-space-battles.json) |
 | Ridiculous Triathlon | 250408 | [250408-ridiculous-triathlon.json](./250408-ridiculous-triathlon.json) |
@@ -12370,6 +12372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Ranker | 197722 | [197722-rune-ranker.json](./197722-rune-ranker.json) |
 | Rune Rhetoric | 280902 | [280902-rune-rhetoric.json](./280902-rune-rhetoric.json) |
 | Rune Seeker | 301295 | [301295-rune-seeker.json](./301295-rune-seeker.json) |
+| Rune Song | 251934 | [251934-rune-song.json](./251934-rune-song.json) |
 | Rune Stones | 304656 | [304656-rune-stones.json](./304656-rune-stones.json) |
 | Rune Sword | 175676 | [175676-rune-sword.json](./175676-rune-sword.json) |
 | Rune Tavern | 407341 | [407341-rune-tavern.json](./407341-rune-tavern.json) |
@@ -12435,6 +12438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runeseekers | 381699 | [381699-runeseekers.json](./381699-runeseekers.json) |
 | Runeseekers 2 | 381721 | [381721-runeseekers-2.json](./381721-runeseekers-2.json) |
 | Runeshard | 56272 | [56272-runeshard.json](./56272-runeshard.json) |
+| RuneShroom | 251917 | [251917-runeshroom.json](./251917-runeshroom.json) |
 | RuneSmith | 403385 | [403385-runesmith.json](./403385-runesmith.json) |
 | Runestone | 92894 | [92894-runestone.json](./92894-runestone.json) |
 | Runestone Heroes | 56879 | [56879-runestone-heroes.json](./56879-runestone-heroes.json) |
