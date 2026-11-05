@@ -5949,6 +5949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Eternal Quest | 283526 | [283526-heroes-of-eternal-quest.json](./283526-heroes-of-eternal-quest.json) |
 | Heroes of Fantasia | 168656 | [168656-heroes-of-fantasia.json](./168656-heroes-of-fantasia.json) |
 | Heroes of Flatlandia | 174597 | [174597-heroes-of-flatlandia.json](./174597-heroes-of-flatlandia.json) |
+| Heroes of Fortune | 279416 | [279416-heroes-of-fortune.json](./279416-heroes-of-fortune.json) |
 | Heroes of Gaia | 63867 | [63867-heroes-of-gaia.json](./63867-heroes-of-gaia.json) |
 | Heroes of Hammerwatch II | 319818 | [319818-heroes-of-hammerwatch-ii.json](./319818-heroes-of-hammerwatch-ii.json) |
 | Heroes of Hammerwatch II: Celestial Ruins | 411671 | [411671-heroes-of-hammerwatch-ii-celestial-ruins.json](./411671-heroes-of-hammerwatch-ii-celestial-ruins.json) |
@@ -9263,6 +9264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: Lone Stargazer | 279722 | [279722-honkai-impact-3rd-lone-stargazer.json](./279722-honkai-impact-3rd-lone-stargazer.json) |
 | Honkai Impact 3rd: Moonshade Epic | 276424 | [276424-honkai-impact-3rd-moonshade-epic.json](./276424-honkai-impact-3rd-moonshade-epic.json) |
 | Honkai Impact 3rd: Ninja's Noir | 281572 | [281572-honkai-impact-3rd-ninjas-noir.json](./281572-honkai-impact-3rd-ninjas-noir.json) |
+| Honkai Impact 3rd: Outworld Traveler | 279424 | [279424-honkai-impact-3rd-outworld-traveler.json](./279424-honkai-impact-3rd-outworld-traveler.json) |
 | Honkai Impact 3rd: Part 2 - Extinguished Starlight and Rekindled Fire | 269737 | [269737-honkai-impact-3rd-part-2-extinguished-starlight-and-rekindled-fire.json](./269737-honkai-impact-3rd-part-2-extinguished-starlight-and-rekindled-fire.json) |
 | Honkai Impact 3rd: Passage to New Dawns | 393908 | [393908-honkai-impact-3rd-passage-to-new-dawns.json](./393908-honkai-impact-3rd-passage-to-new-dawns.json) |
 | Honkai Impact 3rd: Planetary Rewind | 319450 | [319450-honkai-impact-3rd-planetary-rewind.json](./319450-honkai-impact-3rd-planetary-rewind.json) |
@@ -9275,6 +9277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: Rosemary's Nocturne | 279716 | [279716-honkai-impact-3rd-rosemarys-nocturne.json](./279716-honkai-impact-3rd-rosemarys-nocturne.json) |
 | Honkai Impact 3rd: Roving Among Clouds | 340972 | [340972-honkai-impact-3rd-roving-among-clouds.json](./340972-honkai-impact-3rd-roving-among-clouds.json) |
 | Honkai Impact 3rd: Silverwing: Beyond | 276498 | [276498-honkai-impact-3rd-silverwing-beyond.json](./276498-honkai-impact-3rd-silverwing-beyond.json) |
+| Honkai Impact 3rd: Starbound Painter | 279423 | [279423-honkai-impact-3rd-starbound-painter.json](./279423-honkai-impact-3rd-starbound-painter.json) |
 | Honkai Impact 3rd: Starlit Sanctum | 279723 | [279723-honkai-impact-3rd-starlit-sanctum.json](./279723-honkai-impact-3rd-starlit-sanctum.json) |
 | Honkai Impact 3rd: Stars Derailed | 322783 | [322783-honkai-impact-3rd-stars-derailed.json](./322783-honkai-impact-3rd-stars-derailed.json) |
 | Honkai Impact 3rd: Stygian Nymph | 281574 | [281574-honkai-impact-3rd-stygian-nymph.json](./281574-honkai-impact-3rd-stygian-nymph.json) |
@@ -9283,6 +9286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: The Chrono and the Hare | 276421 | [276421-honkai-impact-3rd-the-chrono-and-the-hare.json](./276421-honkai-impact-3rd-the-chrono-and-the-hare.json) |
 | Honkai Impact 3rd: The Fleet Sets Sail | 361297 | [361297-honkai-impact-3rd-the-fleet-sets-sail.json](./361297-honkai-impact-3rd-the-fleet-sets-sail.json) |
 | Honkai Impact 3rd: The Light at Dream's End | 415396 | [415396-honkai-impact-3rd-the-light-at-dreams-end.json](./415396-honkai-impact-3rd-the-light-at-dreams-end.json) |
+| Honkai Impact 3rd: The Phantom of the Theater | 279429 | [279429-honkai-impact-3rd-the-phantom-of-the-theater.json](./279429-honkai-impact-3rd-the-phantom-of-the-theater.json) |
 | Honkai Impact 3rd: The Silver Wolf Awakens | 361398 | [361398-honkai-impact-3rd-the-silver-wolf-awakens.json](./361398-honkai-impact-3rd-the-silver-wolf-awakens.json) |
 | Honkai Impact 3rd: The Wings to Mars | 282498 | [282498-honkai-impact-3rd-the-wings-to-mars.json](./282498-honkai-impact-3rd-the-wings-to-mars.json) |
 | Honkai Impact 3rd: Undine's Phantasm | 281578 | [281578-honkai-impact-3rd-undines-phantasm.json](./281578-honkai-impact-3rd-undines-phantasm.json) |
@@ -11585,6 +11589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt the Wumpus | 11498 | [11498-hunt-the-wumpus.json](./11498-hunt-the-wumpus.json) |
 | Hunt the Wumpus | 310619 | [310619-hunt-the-wumpus.json](./310619-hunt-the-wumpus.json) |
 | Hunt them | 113473 | [113473-hunt-them.json](./113473-hunt-them.json) |
+| Hunt Together | 279395 | [279395-hunt-together.json](./279395-hunt-together.json) |
 | Hunt Zombies Together | 413135 | [413135-hunt-zombies-together.json](./413135-hunt-zombies-together.json) |
 | Hunt, Hunter, Hunted | 177751 | [177751-hunt-hunter-hunted.json](./177751-hunt-hunter-hunted.json) |
 | Hunt: Showdown - Bayou Wraith | 166067 | [166067-hunt-showdown-bayou-wraith.json](./166067-hunt-showdown-bayou-wraith.json) |
