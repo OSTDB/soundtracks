@@ -11893,6 +11893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domestic Defense | 158113 | [158113-domestic-defense.json](./158113-domestic-defense.json) |
 | Domestic Dog | 36006 | [36006-domestic-dog.json](./36006-domestic-dog.json) |
 | Domestic Dog Simulator | 60358 | [60358-domestic-dog-simulator.json](./60358-domestic-dog-simulator.json) |
+| Domestic Dreams and Robots | 264402 | [264402-domestic-dreams-and-robots.json](./264402-domestic-dreams-and-robots.json) |
 | Domestic Elementalism | 207217 | [207217-domestic-elementalism.json](./207217-domestic-elementalism.json) |
 | Domestic Revolt | 267271 | [267271-domestic-revolt.json](./267271-domestic-revolt.json) |
 | DomiCard | 107904 | [107904-domicard.json](./107904-domicard.json) |
@@ -18735,6 +18736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dyadem | 381352 | [381352-dyadem.json](./381352-dyadem.json) |
 | Dyadin | 84450 | [84450-dyadin.json](./84450-dyadin.json) |
 | Dyana Moto | 74671 | [74671-dyana-moto.json](./74671-dyana-moto.json) |
+| Dyatlov Canyon | 264393 | [264393-dyatlov-canyon.json](./264393-dyatlov-canyon.json) |
 | Dye | 27288 | [27288-dye.json](./27288-dye.json) |
 | Dye the Bunny | 245979 | [245979-dye-the-bunny.json](./245979-dye-the-bunny.json) |
 | Dye The Bunny 2 | 290826 | [290826-dye-the-bunny-2.json](./290826-dye-the-bunny-2.json) |
