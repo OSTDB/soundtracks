@@ -4459,6 +4459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Story | 200830 | [200830-knight-story.json](./200830-knight-story.json) |
 | Knight Terrors | 74546 | [74546-knight-terrors.json](./74546-knight-terrors.json) |
 | Knight Throde | 157071 | [157071-knight-throde.json](./157071-knight-throde.json) |
+| Knight Trail | 248955 | [248955-knight-trail.json](./248955-knight-trail.json) |
 | Knight Tyme | 12360 | [12360-knight-tyme.json](./12360-knight-tyme.json) |
 | Knight Versus Demon | 277518 | [277518-knight-versus-demon.json](./277518-knight-versus-demon.json) |
 | Knight vs Giant: The Broken Excalibur | 250419 | [250419-knight-vs-giant-the-broken-excalibur.json](./250419-knight-vs-giant-the-broken-excalibur.json) |
