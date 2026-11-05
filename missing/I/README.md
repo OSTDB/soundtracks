@@ -1562,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Police Tycoon | 169900 | [169900-idle-police-tycoon.json](./169900-idle-police-tycoon.json) |
 | Idle Portal Guardian | 118372 | [118372-idle-portal-guardian.json](./118372-idle-portal-guardian.json) |
 | Idle Power | 245351 | [245351-idle-power.json](./245351-idle-power.json) |
+| Idle Progress | 275942 | [275942-idle-progress.json](./275942-idle-progress.json) |
 | Idle Quest Giver | 247210 | [247210-idle-quest-giver.json](./247210-idle-quest-giver.json) |
 | Idle Quest Simulator | 390058 | [390058-idle-quest-simulator.json](./390058-idle-quest-simulator.json) |
 | Idle Racing GO: Car Clicker Tycoon | 113604 | [113604-idle-racing-go-car-clicker-tycoon.json](./113604-idle-racing-go-car-clicker-tycoon.json) |
@@ -3761,6 +3762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5299,6 +5301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion: Brain Craving | 33942 | [33942-invasion-brain-craving.json](./33942-invasion-brain-craving.json) |
 | Invasion: Family Ties | 246819 | [246819-invasion-family-ties.json](./246819-invasion-family-ties.json) |
 | Invasion: Neo Earth | 188423 | [188423-invasion-neo-earth.json](./188423-invasion-neo-earth.json) |
+| Invasion: Tales of Tower Defense | 275951 | [275951-invasion-tales-of-tower-defense.json](./275951-invasion-tales-of-tower-defense.json) |
 | Invasion!! | 202037 | [202037-invasion.json](./202037-invasion.json) |
 | Invasion. Lost in Time | 89684 | [89684-invasion-lost-in-time.json](./89684-invasion-lost-in-time.json) |
 | Invasive | 204952 | [204952-invasive.json](./204952-invasive.json) |
