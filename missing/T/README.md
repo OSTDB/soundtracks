@@ -20340,6 +20340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic Cat Dog | 366294 | [366294-tic-cat-dog.json](./366294-tic-cat-dog.json) |
 | Tic Tac | 362822 | [362822-tic-tac.json](./362822-tic-tac.json) |
 | Tic Tac Bow | 241226 | [241226-tic-tac-bow.json](./241226-tic-tac-bow.json) |
+| Tic Tac Drop | 282406 | [282406-tic-tac-drop.json](./282406-tic-tac-drop.json) |
 | Tic Tac Math Algebra | 109020 | [109020-tic-tac-math-algebra.json](./109020-tic-tac-math-algebra.json) |
 | Tic Tac Rogue | 376103 | [376103-tic-tac-rogue.json](./376103-tic-tac-rogue.json) |
 | Tic Tac Toe | 321433 | [321433-tic-tac-toe.json](./321433-tic-tac-toe.json) |
