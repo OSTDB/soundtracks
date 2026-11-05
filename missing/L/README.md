@@ -7638,6 +7638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lorna | 46936 | [46936-lorna.json](./46936-lorna.json) |
 | Lorne | 235754 | [235754-lorne.json](./235754-lorne.json) |
 | Lornsword Winter Chronicle | 117358 | [117358-lornsword-winter-chronicle.json](./117358-lornsword-winter-chronicle.json) |
+| Lorraine | 269894 | [269894-lorraine.json](./269894-lorraine.json) |
 | Lorsvale | 375998 | [375998-lorsvale.json](./375998-lorsvale.json) |
 | Lort | 345444 | [345444-lort.json](./345444-lort.json) |
 | Los Angeles 1985 | 358306 | [358306-los-angeles-1985.json](./358306-los-angeles-1985.json) |
