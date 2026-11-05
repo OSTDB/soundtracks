@@ -19547,6 +19547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mute Crimson+ | 11843 | [11843-mute-crimson.json](./11843-mute-crimson.json) |
 | Muted | 247899 | [247899-muted.json](./247899-muted.json) |
 | Muteki Kyoujin Rozario kai | 377611 | [377611-muteki-kyoujin-rozario-kai.json](./377611-muteki-kyoujin-rozario-kai.json) |
+| Muteki-Ou Tri-Zenon | 251309 | [251309-muteki-ou-tri-zenon.json](./251309-muteki-ou-tri-zenon.json) |
 | MuteX+ | 341952 | [341952-mutex.json](./341952-mutex.json) |
 | Mutilate-a-Doll 2 | 95937 | [95937-mutilate-a-doll-2.json](./95937-mutilate-a-doll-2.json) |
 | Mutiny | 256879 | [256879-mutiny.json](./256879-mutiny.json) |
@@ -20382,6 +20383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lady | 33134 | [33134-my-lady.json](./33134-my-lady.json) |
 | My Lady Juliet | 238406 | [238406-my-lady-juliet.json](./238406-my-lady-juliet.json) |
 | My Lady Sayo: Zettai Kunshu! Sayo-sama | 196175 | [196175-my-lady-sayo-zettai-kunshu-sayo-sama.json](./196175-my-lady-sayo-zettai-kunshu-sayo-sama.json) |
+| My Land | 251341 | [251341-my-land.json](./251341-my-land.json) |
 | My Land! | 234739 | [234739-my-land.json](./234739-my-land.json) |
 | My Landlord Is a Sadistic MILF | 418857 | [418857-my-landlord-is-a-sadistic-milf.json](./418857-my-landlord-is-a-sadistic-milf.json) |
 | My Last 20 | 348144 | [348144-my-last-20.json](./348144-my-last-20.json) |
