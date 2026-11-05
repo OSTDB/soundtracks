@@ -7310,6 +7310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nudist Beach Survival Simulator | 59150 | [59150-nudist-beach-survival-simulator.json](./59150-nudist-beach-survival-simulator.json) |
 | Nudist Beach Survival Simulator 2 | 171465 | [171465-nudist-beach-survival-simulator-2.json](./171465-nudist-beach-survival-simulator-2.json) |
 | Nudo | 210560 | [210560-nudo.json](./210560-nudo.json) |
+| Nudomatic | 248999 | [248999-nudomatic.json](./248999-nudomatic.json) |
 | Nuga-Cel! | 59163 | [59163-nuga-cel.json](./59163-nuga-cel.json) |
 | Nugatory | 399690 | [399690-nugatory.json](./399690-nugatory.json) |
 | Nugget & Penny: Adventure Machine | 121604 | [121604-nugget-and-penny-adventure-machine.json](./121604-nugget-and-penny-adventure-machine.json) |
@@ -7352,6 +7353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Null & Peta -Invasion of the Queen Bug- | 127372 | [127372-null-and-peta-invasion-of-the-queen-bug.json](./127372-null-and-peta-invasion-of-the-queen-bug.json) |
 | Null Bearing Redux | 309273 | [309273-null-bearing-redux.json](./309273-null-bearing-redux.json) |
 | Null Breach | 239151 | [239151-null-breach.json](./239151-null-breach.json) |
+| Null District | 248988 | [248988-null-district.json](./248988-null-district.json) |
 | Null Divide | 94034 | [94034-null-divide.json](./94034-null-divide.json) |
 | Null Drifter | 126989 | [126989-null-drifter.json](./126989-null-drifter.json) |
 | Null Event | 215788 | [215788-null-event.json](./215788-null-event.json) |
