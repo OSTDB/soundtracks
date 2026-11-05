@@ -11378,6 +11378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Factory | 127540 | [127540-human-factory.json](./127540-human-factory.json) |
 | Human Farm | 133347 | [133347-human-farm.json](./133347-human-farm.json) |
 | Human Farm | 375935 | [375935-human-farm.json](./375935-human-farm.json) |
+| Human Farm: Pratice Section | 260445 | [260445-human-farm-pratice-section.json](./260445-human-farm-pratice-section.json) |
 | Human Grand Prix III: F1 Triple Battle | 38172 | [38172-human-grand-prix-iii-f1-triple-battle.json](./38172-human-grand-prix-iii-f1-triple-battle.json) |
 | Human Grand Prix IV: F1 Dream Battle | 38171 | [38171-human-grand-prix-iv-f1-dream-battle.json](./38171-human-grand-prix-iv-f1-dream-battle.json) |
 | Human Heritage | 346177 | [346177-human-heritage.json](./346177-human-heritage.json) |
