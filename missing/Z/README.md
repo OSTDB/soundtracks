@@ -1691,6 +1691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Liminal Fishing | 347049 | [347049-zombie-liminal-fishing.json](./347049-zombie-liminal-fishing.json) |
 | Zombie Lines | 415928 | [415928-zombie-lines.json](./415928-zombie-lines.json) |
 | Zombie Lockdown Simulator | 361112 | [361112-zombie-lockdown-simulator.json](./361112-zombie-lockdown-simulator.json) |
+| Zombie Madness | 289130 | [289130-zombie-madness.json](./289130-zombie-madness.json) |
 | Zombie Madness: The Awakening | 408052 | [408052-zombie-madness-the-awakening.json](./408052-zombie-madness-the-awakening.json) |
 | Zombie Mansion | 218713 | [218713-zombie-mansion.json](./218713-zombie-mansion.json) |
 | Zombie Marbles | 375755 | [375755-zombie-marbles.json](./375755-zombie-marbles.json) |
@@ -2524,6 +2525,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZXC | 266803 | [266803-zxc.json](./266803-zxc.json) |
 | ZXD: Zombie Xtinction Defense | 328318 | [328318-zxd-zombie-xtinction-defense.json](./328318-zxd-zombie-xtinction-defense.json) |
 | ZXE-D: Legend of Plasmalite | 45071 | [45071-zxe-d-legend-of-plasmalite.json](./45071-zxe-d-legend-of-plasmalite.json) |
+| ZXFM | 289114 | [289114-zxfm.json](./289114-zxfm.json) |
+| ZXnake | 289127 | [289127-zxnake.json](./289127-zxnake.json) |
 | ZXombies! | 281532 | [281532-zxombies.json](./281532-zxombies.json) |
 | ZxZ | 307621 | [307621-zxz.json](./307621-zxz.json) |
 | Zybex | 47206 | [47206-zybex.json](./47206-zybex.json) |
