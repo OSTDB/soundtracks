@@ -5750,6 +5750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akasha | 250512 | [250512-akasha.json](./250512-akasha.json) |
 | Akasha Dreams | 257537 | [257537-akasha-dreams.json](./257537-akasha-dreams.json) |
 | Akashi | 229379 | [229379-akashi.json](./229379-akashi.json) |
+| Akashic Migraine | 261042 | [261042-akashic-migraine.json](./261042-akashic-migraine.json) |
 | Akashic Slingshot | 359867 | [359867-akashic-slingshot.json](./359867-akashic-slingshot.json) |
 | Akashicforce | 116199 | [116199-akashicforce.json](./116199-akashicforce.json) |
 | Akashicforce: Inundation of Brigade | 124441 | [124441-akashicforce-inundation-of-brigade.json](./124441-akashicforce-inundation-of-brigade.json) |
@@ -8703,6 +8704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amorous Professor Cherry | 72634 | [72634-amorous-professor-cherry.json](./72634-amorous-professor-cherry.json) |
 | Amorphous | 128658 | [128658-amorphous.json](./128658-amorphous.json) |
 | Amorphous | 265242 | [265242-amorphous.json](./265242-amorphous.json) |
+| Amorphous Euphoria | 261044 | [261044-amorphous-euphoria.json](./261044-amorphous-euphoria.json) |
 | Amortizer Off-Road | 118294 | [118294-amortizer-off-road.json](./118294-amortizer-off-road.json) |
 | Amos 4D Craft | 385672 | [385672-amos-4d-craft.json](./385672-amos-4d-craft.json) |
 | Amos Green's Final Repose | 198104 | [198104-amos-greens-final-repose.json](./198104-amos-greens-final-repose.json) |
@@ -10558,6 +10560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anorak City | 308468 | [308468-anorak-city.json](./308468-anorak-city.json) |
 | Anosognosia | 398584 | [398584-anosognosia.json](./398584-anosognosia.json) |
 | Another Adventure | 27776 | [27776-another-adventure.json](./27776-another-adventure.json) |
+| Another Adventure in NSMBU | 261013 | [261013-another-adventure-in-nsmbu.json](./261013-another-adventure-in-nsmbu.json) |
 | Another Apocalypse | 133742 | [133742-another-apocalypse.json](./133742-another-apocalypse.json) |
 | Another Attack 2: Weissensee | 270686 | [270686-another-attack-2-weissensee.json](./270686-another-attack-2-weissensee.json) |
 | Another Attack: Woudrichem War | 270685 | [270685-another-attack-woudrichem-war.json](./270685-another-attack-woudrichem-war.json) |
@@ -12223,6 +12226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Lightning Fighters | 147112 | [147112-arcade-archives-lightning-fighters.json](./147112-arcade-archives-lightning-fighters.json) |
 | Arcade Archives: Liquid Kids | 186561 | [186561-arcade-archives-liquid-kids.json](./186561-arcade-archives-liquid-kids.json) |
 | Arcade Archives: Mach Breakers | 365535 | [365535-arcade-archives-mach-breakers.json](./365535-arcade-archives-mach-breakers.json) |
+| Arcade Archives: Mad Shark | 261007 | [261007-arcade-archives-mad-shark.json](./261007-arcade-archives-mad-shark.json) |
 | Arcade Archives: Magical Speed | 237356 | [237356-arcade-archives-magical-speed.json](./237356-arcade-archives-magical-speed.json) |
 | Arcade Archives: MagMax | 99562 | [99562-arcade-archives-magmax.json](./99562-arcade-archives-magmax.json) |
 | Arcade Archives: Mappy | 186562 | [186562-arcade-archives-mappy.json](./186562-arcade-archives-mappy.json) |
