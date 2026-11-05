@@ -6021,6 +6021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Albedo | 14161 | [14161-albedo.json](./14161-albedo.json) |
 | Albedo | 185312 | [185312-albedo.json](./185312-albedo.json) |
 | Albedo and Cast of the Seven Godsends | 99482 | [99482-albedo-and-cast-of-the-seven-godsends.json](./99482-albedo-and-cast-of-the-seven-godsends.json) |
+| Albedo Carta | 269913 | [269913-albedo-carta.json](./269913-albedo-carta.json) |
 | Albedon Wars | 118222 | [118222-albedon-wars.json](./118222-albedon-wars.json) |
 | Albegas | 63214 | [63214-albegas.json](./63214-albegas.json) |
 | Alberi | 79628 | [79628-alberi.json](./79628-alberi.json) |
