@@ -1867,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Hunt | 388153 | [388153-santas-hunt.json](./388153-santas-hunt.json) |
 | Santa's Legacy | 391114 | [391114-santas-legacy.json](./391114-santas-legacy.json) |
 | Santa's Letters VR | 257066 | [257066-santas-letters-vr.json](./257066-santas-letters-vr.json) |
+| Santa's Monster Shootout | 250135 | [250135-santas-monster-shootout.json](./250135-santas-monster-shootout.json) |
 | Santa's Outback Bender | 257169 | [257169-santas-outback-bender.json](./257169-santas-outback-bender.json) |
 | Santa's Reindeer Run | 106367 | [106367-santas-reindeer-run.json](./106367-santas-reindeer-run.json) |
 | Santa's Salvation | 200040 | [200040-santas-salvation.json](./200040-santas-salvation.json) |
@@ -5634,6 +5635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sequence Jump | 361854 | [361854-sequence-jump.json](./361854-sequence-jump.json) |
 | Sequence Palladium | 246654 | [246654-sequence-palladium.json](./246654-sequence-palladium.json) |
 | Sequence Storm | 111533 | [111533-sequence-storm.json](./111533-sequence-storm.json) |
+| Sequentia | 250113 | [250113-sequentia.json](./250113-sequentia.json) |
 | Sequential | 291007 | [291007-sequential.json](./291007-sequential.json) |
 | Sequential Dungeon | 290213 | [290213-sequential-dungeon.json](./290213-sequential-dungeon.json) |
 | Sequester | 388041 | [388041-sequester.json](./388041-sequester.json) |
@@ -5677,6 +5679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serene | 160169 | [160169-serene.json](./160169-serene.json) |
 | Serene Asylum | 172740 | [172740-serene-asylum.json](./172740-serene-asylum.json) |
 | Serene Estates: Last Guy | 372677 | [372677-serene-estates-last-guy.json](./372677-serene-estates-last-guy.json) |
+| Serene Fusion | 250087 | [250087-serene-fusion.json](./250087-serene-fusion.json) |
 | Serene Hike | 246791 | [246791-serene-hike.json](./246791-serene-hike.json) |
 | Serene Seasons | 334027 | [334027-serene-seasons.json](./334027-serene-seasons.json) |
 | Serenestadt | 290880 | [290880-serenestadt.json](./290880-serenestadt.json) |
@@ -13923,6 +13926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SM64: Decades Later | 294611 | [294611-sm64-decades-later.json](./294611-sm64-decades-later.json) |
 | SM64: Last Impact | 132725 | [132725-sm64-last-impact.json](./132725-sm64-last-impact.json) |
 | SM64: Rocky Mountain Revisited | 256295 | [256295-sm64-rocky-mountain-revisited.json](./256295-sm64-rocky-mountain-revisited.json) |
+| SM64: The Green Comet | 250091 | [250091-sm64-the-green-comet.json](./250091-sm64-the-green-comet.json) |
 | SM64.z64 | 297540 | [297540-sm64-z64.json](./297540-sm64-z64.json) |
 | SM64CoOpDX | 307768 | [307768-sm64coopdx.json](./307768-sm64coopdx.json) |
 | SM64CoopDX: Kirby Deluxe! | 394592 | [394592-sm64coopdx-kirby-deluxe.json](./394592-sm64coopdx-kirby-deluxe.json) |
@@ -19333,6 +19337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -31247,6 +31252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario and the Cosmic Catalyst | 336107 | [336107-super-mario-and-the-cosmic-catalyst.json](./336107-super-mario-and-the-cosmic-catalyst.json) |
 | Super Mario and the Crystal Crescents | 314106 | [314106-super-mario-and-the-crystal-crescents.json](./314106-super-mario-and-the-crystal-crescents.json) |
 | Super Mario and the Cursed Castles | 135216 | [135216-super-mario-and-the-cursed-castles.json](./135216-super-mario-and-the-cursed-castles.json) |
+| Super Mario and the Grand Star | 250092 | [250092-super-mario-and-the-grand-star.json](./250092-super-mario-and-the-grand-star.json) |
 | Super Mario and the Koopa Power | 358441 | [358441-super-mario-and-the-koopa-power.json](./358441-super-mario-and-the-koopa-power.json) |
 | Super Mario and the Marvel Adventure | 135178 | [135178-super-mario-and-the-marvel-adventure.json](./135178-super-mario-and-the-marvel-adventure.json) |
 | Super Mario and the Monstrous Manor | 280824 | [280824-super-mario-and-the-monstrous-manor.json](./280824-super-mario-and-the-monstrous-manor.json) |
@@ -31532,6 +31538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Place | 273893 | [273893-super-mario-place.json](./273893-super-mario-place.json) |
 | Super Mario Prism | 320232 | [320232-super-mario-prism.json](./320232-super-mario-prism.json) |
 | Super Mario Prostate Exam | 323900 | [323900-super-mario-prostate-exam.json](./323900-super-mario-prostate-exam.json) |
+| Super Mario Rainbow Road | 250090 | [250090-super-mario-rainbow-road.json](./250090-super-mario-rainbow-road.json) |
 | Super Mario Rampage! | 334881 | [334881-super-mario-rampage.json](./334881-super-mario-rampage.json) |
 | Super Mario Redux | 281807 | [281807-super-mario-redux.json](./281807-super-mario-redux.json) |
 | Super Mario RPG 2 | 231474 | [231474-super-mario-rpg-2.json](./231474-super-mario-rpg-2.json) |
@@ -32012,6 +32019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pinball II: The Amazing Odyssey | 38272 | [38272-super-pinball-ii-the-amazing-odyssey.json](./38272-super-pinball-ii-the-amazing-odyssey.json) |
 | Super Pinball: Behind the Mask | 42455 | [42455-super-pinball-behind-the-mask.json](./42455-super-pinball-behind-the-mask.json) |
 | Super Ping Pong Trick Shot | 54959 | [54959-super-ping-pong-trick-shot.json](./54959-super-ping-pong-trick-shot.json) |
+| Super Pink Gold Peach 64 | 250086 | [250086-super-pink-gold-peach-64.json](./250086-super-pink-gold-peach-64.json) |
 | Super Pinkie World | 231496 | [231496-super-pinkie-world.json](./231496-super-pinkie-world.json) |
 | Super Pinkie World 2 | 231497 | [231497-super-pinkie-world-2.json](./231497-super-pinkie-world-2.json) |
 | Super Pinkie World 3 | 231498 | [231498-super-pinkie-world-3.json](./231498-super-pinkie-world-3.json) |
@@ -33330,6 +33338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperStar Pledis | 124619 | [124619-superstar-pledis.json](./124619-superstar-pledis.json) |
 | Superstar Shootout | 231631 | [231631-superstar-shootout.json](./231631-superstar-shootout.json) |
 | SuperStar Soccer | 73602 | [73602-superstar-soccer.json](./73602-superstar-soccer.json) |
+| SuperStar Stayc | 250121 | [250121-superstar-stayc.json](./250121-superstar-stayc.json) |
 | Superstar Streetz | 186318 | [186318-superstar-streetz.json](./186318-superstar-streetz.json) |
 | SuperStar Woollim | 137874 | [137874-superstar-woollim.json](./137874-superstar-woollim.json) |
 | Superstar YG | 178345 | [178345-superstar-yg.json](./178345-superstar-yg.json) |
@@ -35614,6 +35623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syphon Filter 3 | 4117 | [4117-syphon-filter-3.json](./4117-syphon-filter-3.json) |
 | Syphon Filter: Dark Mirror | 20764 | [20764-syphon-filter-dark-mirror.json](./20764-syphon-filter-dark-mirror.json) |
 | Syphon Filter: Logan's Shadow | 19430 | [19430-syphon-filter-logans-shadow.json](./19430-syphon-filter-logans-shadow.json) |
+| Syphon Filter: Logan's Shadow | 250106 | [250106-syphon-filter-logans-shadow.json](./250106-syphon-filter-logans-shadow.json) |
 | Syphon Filter: The Omega Strain | 20185 | [20185-syphon-filter-the-omega-strain.json](./20185-syphon-filter-the-omega-strain.json) |
 | Syr and the Stars' Revival | 399187 | [399187-syr-and-the-stars-revival.json](./399187-syr-and-the-stars-revival.json) |
 | Syrak: the War in the Middle-East | 193648 | [193648-syrak-the-war-in-the-middle-east.json](./193648-syrak-the-war-in-the-middle-east.json) |
