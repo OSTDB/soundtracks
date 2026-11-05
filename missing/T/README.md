@@ -15989,6 +15989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silent Bells | 292407 | [292407-the-silent-bells.json](./292407-the-silent-bells.json) |
 | The Silent Cartographer: Evolved | 375319 | [375319-the-silent-cartographer-evolved.json](./375319-the-silent-cartographer-evolved.json) |
 | The Silent City Chapter 1 | 252605 | [252605-the-silent-city-chapter-1.json](./252605-the-silent-city-chapter-1.json) |
+| The Silent Column | 293966 | [293966-the-silent-column.json](./293966-the-silent-column.json) |
 | The Silent Expedition Echo Protocol | 407468 | [407468-the-silent-expedition-echo-protocol.json](./407468-the-silent-expedition-echo-protocol.json) |
 | The Silent Forests | 289964 | [289964-the-silent-forests.json](./289964-the-silent-forests.json) |
 | The Silent Hill Collection | 43551 | [43551-the-silent-hill-collection.json](./43551-the-silent-hill-collection.json) |
