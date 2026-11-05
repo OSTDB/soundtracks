@@ -16264,6 +16264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonshine | 144799 | [144799-moonshine.json](./144799-moonshine.json) |
 | Moonshine and I: Sansevieria | 178525 | [178525-moonshine-and-i-sansevieria.json](./178525-moonshine-and-i-sansevieria.json) |
 | Moonshine Inc. | 191849 | [191849-moonshine-inc.json](./191849-moonshine-inc.json) |
+| Moonshine Inc. + Bio Inc. Redemption: Drinking Problem Deluxe Bundle | 296559 | [296559-moonshine-inc-bio-inc-redemption-drinking-problem-deluxe-bundle.json](./296559-moonshine-inc-bio-inc-redemption-drinking-problem-deluxe-bundle.json) |
 | Moonshine Madness | 304588 | [304588-moonshine-madness.json](./304588-moonshine-madness.json) |
 | Moonshine Maniacs: A Wild West Saga | 132221 | [132221-moonshine-maniacs-a-wild-west-saga.json](./132221-moonshine-maniacs-a-wild-west-saga.json) |
 | Moonshine Racers | 12686 | [12686-moonshine-racers.json](./12686-moonshine-racers.json) |
@@ -21067,6 +21068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Dungeon: Shiren the Wanderer | 78341 | [78341-mystery-dungeon-shiren-the-wanderer.json](./78341-mystery-dungeon-shiren-the-wanderer.json) |
 | Mystery Egg Shop Simulator | 391526 | [391526-mystery-egg-shop-simulator.json](./391526-mystery-egg-shop-simulator.json) |
 | Mystery Egyptian Kings | 102259 | [102259-mystery-egyptian-kings.json](./102259-mystery-egyptian-kings.json) |
+| Mystery Escape | 296568 | [296568-mystery-escape.json](./296568-mystery-escape.json) |
 | Mystery Escape Room Bundle | 320696 | [320696-mystery-escape-room-bundle.json](./320696-mystery-escape-room-bundle.json) |
 | Mystery Fun House | 18520 | [18520-mystery-fun-house.json](./18520-mystery-fun-house.json) |
 | Mystery Gold | 55862 | [55862-mystery-gold.json](./55862-mystery-gold.json) |
