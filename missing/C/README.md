@@ -3765,6 +3765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat and Isle of Stars | 375203 | [375203-cat-and-isle-of-stars.json](./375203-cat-and-isle-of-stars.json) |
 | Cat and Ladder Climb | 252877 | [252877-cat-and-ladder-climb.json](./252877-cat-and-ladder-climb.json) |
 | Cat And Life | 301620 | [301620-cat-and-life.json](./301620-cat-and-life.json) |
+| Cat and Mouse | 291280 | [291280-cat-and-mouse.json](./291280-cat-and-mouse.json) |
 | Cat and Rat | 405278 | [405278-cat-and-rat.json](./405278-cat-and-rat.json) |
 | Cat and Shadow and Death's Four Friends | 374070 | [374070-cat-and-shadow-and-deaths-four-friends.json](./374070-cat-and-shadow-and-deaths-four-friends.json) |
 | Cat and Watermouse | 216689 | [216689-cat-and-watermouse.json](./216689-cat-and-watermouse.json) |
@@ -4913,6 +4914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CB Chara Wars: Ushinawareta Gag | 38154 | [38154-cb-chara-wars-ushinawareta-gag.json](./38154-cb-chara-wars-ushinawareta-gag.json) |
 | CBeebies Playtime Island: Game | 321783 | [321783-cbeebies-playtime-island-game.json](./321783-cbeebies-playtime-island-game.json) |
 | CBM Draw Poker | 58566 | [58566-cbm-draw-poker.json](./58566-cbm-draw-poker.json) |
+| CBO TD | 291260 | [291260-cbo-td.json](./291260-cbo-td.json) |
 | Cbs: The Beginning | 392194 | [392194-cbs-the-beginning.json](./392194-cbs-the-beginning.json) |
 | CBT With Yuuka Kazami: Getting Help With Patchouli Knowledge | 182247 | [182247-cbt-with-yuuka-kazami-getting-help-with-patchouli-knowledge.json](./182247-cbt-with-yuuka-kazami-getting-help-with-patchouli-knowledge.json) |
 | CC & SH Smash Hits | 74303 | [74303-cc-and-sh-smash-hits.json](./74303-cc-and-sh-smash-hits.json) |
@@ -5438,6 +5440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chakan: The Forever Man | 18091 | [18091-chakan-the-forever-man.json](./18091-chakan-the-forever-man.json) |
 | Chakana | 322805 | [322805-chakana.json](./322805-chakana.json) |
 | Chakana | 377193 | [377193-chakana.json](./377193-chakana.json) |
+| Chakana, Gold of the Gods | 291285 | [291285-chakana-gold-of-the-gods.json](./291285-chakana-gold-of-the-gods.json) |
 | Chakravyuh | 133981 | [133981-chakravyuh.json](./133981-chakravyuh.json) |
 | Chakusin Melody Damon | 283823 | [283823-chakusin-melody-damon.json](./283823-chakusin-melody-damon.json) |
 | Chalet | 350943 | [350943-chalet.json](./350943-chalet.json) |
@@ -5670,6 +5673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champoo Club | 172200 | [172200-champoo-club.json](./172200-champoo-club.json) |
 | Champs TD | 210862 | [210862-champs-td.json](./210862-champs-td.json) |
 | Champs: Battlegrounds | 20117 | [20117-champs-battlegrounds.json](./20117-champs-battlegrounds.json) |
+| Champy the Useless Vampire | 291271 | [291271-champy-the-useless-vampire.json](./291271-champy-the-useless-vampire.json) |
 | Chamrosh | 207600 | [207600-chamrosh.json](./207600-chamrosh.json) |
 | Chanbara Fighter | 356283 | [356283-chanbara-fighter.json](./356283-chanbara-fighter.json) |
 | Chance | 387323 | [387323-chance.json](./387323-chance.json) |
@@ -9716,6 +9720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clean Attack! | 135025 | [135025-clean-attack.json](./135025-clean-attack.json) |
 | Clean Break | 360469 | [360469-clean-break.json](./360469-clean-break.json) |
 | Clean City Project | 292521 | [292521-clean-city-project.json](./292521-clean-city-project.json) |
+| Clean Corps | 291405 | [291405-clean-corps.json](./291405-clean-corps.json) |
 | Clean Cut | 275315 | [275315-clean-cut.json](./275315-clean-cut.json) |
 | Clean Energy Creatures | 223513 | [223513-clean-energy-creatures.json](./223513-clean-energy-creatures.json) |
 | Clean Freak! Perfect Cook! | 365166 | [365166-clean-freak-perfect-cook.json](./365166-clean-freak-perfect-cook.json) |
@@ -9981,6 +9986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicky Bunny | 411250 | [411250-clicky-bunny.json](./411250-clicky-bunny.json) |
 | Clicky Coven | 317990 | [317990-clicky-coven.json](./317990-clicky-coven.json) |
 | Clicky Islands | 388729 | [388729-clicky-islands.json](./388729-clicky-islands.json) |
+| Clickyland | 291296 | [291296-clickyland.json](./291296-clickyland.json) |
 | Clientele | 213020 | [213020-clientele.json](./213020-clientele.json) |
 | Clif Danger | 129401 | [129401-clif-danger.json](./129401-clif-danger.json) |
 | Cliff Empire | 99124 | [99124-cliff-empire.json](./99124-cliff-empire.json) |
@@ -19891,6 +19897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Units | 402103 | [402103-cyber-units.json](./402103-cyber-units.json) |
 | Cyber Utopia | 43508 | [43508-cyber-utopia.json](./43508-cyber-utopia.json) |
 | Cyber Village | 401905 | [401905-cyber-village.json](./401905-cyber-village.json) |
+| Cyber Volley | 291270 | [291270-cyber-volley.json](./291270-cyber-volley.json) |
 | Cyber VR | 51938 | [51938-cyber-vr.json](./51938-cyber-vr.json) |
 | Cyber War Apocalypse | 166934 | [166934-cyber-war-apocalypse.json](./166934-cyber-war-apocalypse.json) |
 | Cyber War: Cyberpunk Reborn | 174904 | [174904-cyber-war-cyberpunk-reborn.json](./174904-cyber-war-cyberpunk-reborn.json) |
