@@ -9951,6 +9951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Boyard 2022 | 199324 | [199324-fort-boyard-2022.json](./199324-fort-boyard-2022.json) |
 | Fort Boyard, le jeu | 268131 | [268131-fort-boyard-le-jeu.json](./268131-fort-boyard-le-jeu.json) |
 | Fort Boyard: La Légende | 400680 | [400680-fort-boyard-la-legende.json](./400680-fort-boyard-la-legende.json) |
+| Fort Boyard: Les défis du père Fouras | 295458 | [295458-fort-boyard-les-defis-du-pere-fouras.json](./295458-fort-boyard-les-defis-du-pere-fouras.json) |
 | Fort Boyard: Millennium | 310666 | [310666-fort-boyard-millennium.json](./310666-fort-boyard-millennium.json) |
 | Fort Boyard: Nouvelle Edition | 136117 | [136117-fort-boyard-nouvelle-edition.json](./136117-fort-boyard-nouvelle-edition.json) |
 | Fort Boyard: The Challenge | 388268 | [388268-fort-boyard-the-challenge.json](./388268-fort-boyard-the-challenge.json) |
