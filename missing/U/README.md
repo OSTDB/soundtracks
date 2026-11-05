@@ -1191,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UMS: The Universal Military Simulator | 37154 | [37154-ums-the-universal-military-simulator.json](./37154-ums-the-universal-military-simulator.json) |
 | UMS: The Universal Military Simulator - The American Civil War | 72459 | [72459-ums-the-universal-military-simulator-the-american-civil-war.json](./72459-ums-the-universal-military-simulator-the-american-civil-war.json) |
 | UMS: The Universal Military Simulator - Vietnam | 72460 | [72460-ums-the-universal-military-simulator-vietnam.json](./72460-ums-the-universal-military-simulator-vietnam.json) |
+| Umurangi Generation VR | 279410 | [279410-umurangi-generation-vr.json](./279410-umurangi-generation-vr.json) |
 | Umurangi Generation: Macro | 139015 | [139015-umurangi-generation-macro.json](./139015-umurangi-generation-macro.json) |
 | Umurangi Generation: Special Edition | 151766 | [151766-umurangi-generation-special-edition.json](./151766-umurangi-generation-special-edition.json) |
 | Un indien dans la ville | 117973 | [117973-un-indien-dans-la-ville.json](./117973-un-indien-dans-la-ville.json) |
@@ -1554,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Contract | 219533 | [219533-under-contract.json](./219533-under-contract.json) |
 | Under Control | 176795 | [176795-under-control.json](./176795-under-control.json) |
 | Under Control | 21325 | [21325-under-control.json](./21325-under-control.json) |
+| Under Cover | 279393 | [279393-under-cover.json](./279393-under-cover.json) |
 | Under Dead | 244725 | [244725-under-dead.json](./244725-under-dead.json) |
 | Under Defeat | 21015 | [21015-under-defeat.json](./21015-under-defeat.json) |
 | Under Defeat | 321604 | [321604-under-defeat.json](./321604-under-defeat.json) |
