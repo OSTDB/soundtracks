@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NAL Is Alive | 32482 | [32482-nal-is-alive.json](./32482-nal-is-alive.json) |
 | Nala Cat | 257779 | [257779-nala-cat.json](./257779-nala-cat.json) |
 | Nalani: Legacy of the Ancients | 341357 | [341357-nalani-legacy-of-the-ancients.json](./341357-nalani-legacy-of-the-ancients.json) |
+| Nali Chronicles | 261020 | [261020-nali-chronicles.json](./261020-nali-chronicles.json) |
 | Nalogi 2 | 96899 | [96899-nalogi-2.json](./96899-nalogi-2.json) |
 | Nam | 2534 | [2534-nam.json](./2534-nam.json) |
 | Nam | 26288 | [26288-nam.json](./26288-nam.json) |
@@ -3435,6 +3436,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NewCity | 274427 | [274427-newcity.json](./274427-newcity.json) |
 | Newcomer | 84280 | [84280-newcomer.json](./84280-newcomer.json) |
 | Newcomer: A Language Learning RPG | 250899 | [250899-newcomer-a-language-learning-rpg.json](./250899-newcomer-a-language-learning-rpg.json) |
+| Newdoom Community Project | 261016 | [261016-newdoom-community-project.json](./261016-newdoom-community-project.json) |
+| NewDoom Community Project II | 261017 | [261017-newdoom-community-project-ii.json](./261017-newdoom-community-project-ii.json) |
 | Newer Mario Kart Wii | 257275 | [257275-newer-mario-kart-wii.json](./257275-newer-mario-kart-wii.json) |
 | Newer Super Luigi Wii: Dark Moon - Reverse | 294789 | [294789-newer-super-luigi-wii-dark-moon-reverse.json](./294789-newer-super-luigi-wii-dark-moon-reverse.json) |
 | Newer Super Mario Bros. Wii Deluxe | 132846 | [132846-newer-super-mario-bros-wii-deluxe.json](./132846-newer-super-mario-bros-wii-deluxe.json) |
