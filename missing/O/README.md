@@ -1546,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olivia of the Deep | 425854 | [425854-olivia-of-the-deep.json](./425854-olivia-of-the-deep.json) |
 | Olivia Takes Ballet | 231377 | [231377-olivia-takes-ballet.json](./231377-olivia-takes-ballet.json) |
 | Olivia: The Witch's Magic Shop | 394462 | [394462-olivia-the-witchs-magic-shop.json](./394462-olivia-the-witchs-magic-shop.json) |
+| Olivia's Bad Day | 277102 | [277102-olivias-bad-day.json](./277102-olivias-bad-day.json) |
 | Olivia's Mystery | 44386 | [44386-olivias-mystery.json](./44386-olivias-mystery.json) |
 | Olivias Dream | 368030 | [368030-olivias-dream.json](./368030-olivias-dream.json) |
 | OliVR | 240769 | [240769-olivr.json](./240769-olivr.json) |
