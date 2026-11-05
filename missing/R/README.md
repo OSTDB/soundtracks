@@ -1443,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RainyCloud | 224542 | [224542-rainycloud.json](./224542-rainycloud.json) |
 | Rainyday | 67905 | [67905-rainyday.json](./67905-rainyday.json) |
 | RainyDay | 265243 | [265243-rainyday.json](./265243-rainyday.json) |
+| Raioh | 265303 | [265303-raioh.json](./265303-raioh.json) |
 | Raiohgar: Asuka and the King of Steel | 126816 | [126816-raiohgar-asuka-and-the-king-of-steel.json](./126816-raiohgar-asuka-and-the-king-of-steel.json) |
 | Raios Funde | 245012 | [245012-raios-funde.json](./245012-raios-funde.json) |
 | Raise | 216948 | [216948-raise.json](./216948-raise.json) |
@@ -3878,6 +3879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Leaves | 343285 | [343285-red-leaves.json](./343285-red-leaves.json) |
 | Red Letter Day 2 | 253043 | [253043-red-letter-day-2.json](./253043-red-letter-day-2.json) |
 | Red Light | 345432 | [345432-red-light.json](./345432-red-light.json) |
+| Red Lightning | 265451 | [265451-red-lightning.json](./265451-red-lightning.json) |
 | Red Lightning | 57630 | [57630-red-lightning.json](./57630-red-lightning.json) |
 | Red Line | 272888 | [272888-red-line.json](./272888-red-line.json) |
 | Red List Girls: Andean Flamingo | 236314 | [236314-red-list-girls-andean-flamingo.json](./236314-red-list-girls-andean-flamingo.json) |
