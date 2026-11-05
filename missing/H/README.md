@@ -2772,6 +2772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunting: The Rosefield Manor | 318994 | [318994-haunting-the-rosefield-manor.json](./318994-haunting-the-rosefield-manor.json) |
 | Hauntred Factory Skibidi Poppy Freedy | 267310 | [267310-hauntred-factory-skibidi-poppy-freedy.json](./267310-hauntred-factory-skibidi-poppy-freedy.json) |
 | Hauntrick | 334176 | [334176-hauntrick.json](./334176-hauntrick.json) |
+| Hauntsfield | 253112 | [253112-hauntsfield.json](./253112-hauntsfield.json) |
 | Hauntsgiving | 341129 | [341129-hauntsgiving.json](./341129-hauntsgiving.json) |
 | Hauntsters | 33872 | [33872-hauntsters.json](./33872-hauntsters.json) |
 | Hauntsville | 293335 | [293335-hauntsville.json](./293335-hauntsville.json) |
@@ -6630,6 +6631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi-5: Fun Club | 274992 | [274992-hi-5-fun-club.json](./274992-hi-5-fun-club.json) |
 | Hi-5: Let's Play | 259405 | [259405-hi-5-lets-play.json](./259405-hi-5-lets-play.json) |
 | Hi-Fi Roller | 384157 | [384157-hi-fi-roller.json](./384157-hi-fi-roller.json) |
+| Hi-Fi Rush: Arcade Challenge | 253108 | [253108-hi-fi-rush-arcade-challenge.json](./253108-hi-fi-rush-arcade-challenge.json) |
 | Hi-Fi Rush: Bossplay Costume Pack | 263126 | [263126-hi-fi-rush-bossplay-costume-pack.json](./263126-hi-fi-rush-bossplay-costume-pack.json) |
 | Hi-Fi Rush: Deluxe Edition | 233614 | [233614-hi-fi-rush-deluxe-edition.json](./233614-hi-fi-rush-deluxe-edition.json) |
 | Hi-Fi Rush: Teamplay Costume Pack | 275615 | [275615-hi-fi-rush-teamplay-costume-pack.json](./275615-hi-fi-rush-teamplay-costume-pack.json) |
