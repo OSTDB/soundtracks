@@ -3719,6 +3719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What the Hell | 263096 | [263096-what-the-hell.json](./263096-what-the-hell.json) |
 | What the hen! | 120244 | [120244-what-the-hen.json](./120244-what-the-hen.json) |
 | What the Luck? | 382857 | [382857-what-the-luck.json](./382857-what-the-luck.json) |
+| What The Pak?! | 292350 | [292350-what-the-pak.json](./292350-what-the-pak.json) |
 | What the Pho: restaurant startup stories | 132799 | [132799-what-the-pho-restaurant-startup-stories.json](./132799-what-the-pho-restaurant-startup-stories.json) |
 | What the Stars Forgot | 375983 | [375983-what-the-stars-forgot.json](./375983-what-the-stars-forgot.json) |
 | What The?! Party Trivia Game | 68245 | [68245-what-the-party-trivia-game.json](./68245-what-the-party-trivia-game.json) |
