@@ -402,6 +402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Facteroids | 173306 | [173306-facteroids.json](./173306-facteroids.json) |
 | Faction Reticent | 366125 | [366125-faction-reticent.json](./366125-faction-reticent.json) |
 | Faction Wars | 168317 | [168317-faction-wars.json](./168317-faction-wars.json) |
+| Faction Z | 251929 | [251929-faction-z.json](./251929-faction-z.json) |
 | Factions | 335375 | [335375-factions.json](./335375-factions.json) |
 | Factions | 375893 | [375893-factions.json](./375893-factions.json) |
 | Factor D | 200171 | [200171-factor-d.json](./200171-factor-d.json) |
@@ -12580,6 +12581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fru | 19917 | [19917-fru.json](./19917-fru.json) |
 | Fruboom | 315706 | [315706-fruboom.json](./315706-fruboom.json) |
 | Fruit | 134919 | [134919-fruit.json](./134919-fruit.json) |
+| Fruit 66 | 251903 | [251903-fruit-66.json](./251903-fruit-66.json) |
 | Fruit Adventure | 214487 | [214487-fruit-adventure.json](./214487-fruit-adventure.json) |
 | Fruit Adventure Returns | 332531 | [332531-fruit-adventure-returns.json](./332531-fruit-adventure-returns.json) |
 | Fruit am I? | 229194 | [229194-fruit-am-i.json](./229194-fruit-am-i.json) |
