@@ -6805,6 +6805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five New-Fangled Nights | 382958 | [382958-five-new-fangled-nights.json](./382958-five-new-fangled-nights.json) |
 | Five Nighs at Fairy's | 405066 | [405066-five-nighs-at-fairys.json](./405066-five-nighs-at-fairys.json) |
 | Five Night At Freddy's: Security Breach - Glamrock Factory | 269420 | [269420-five-night-at-freddys-security-breach-glamrock-factory.json](./269420-five-night-at-freddys-security-breach-glamrock-factory.json) |
+| Five Night At Lego World | 250124 | [250124-five-night-at-lego-world.json](./250124-five-night-at-lego-world.json) |
 | Five Night's at Freddy's: The Silver Eyes Fangame | 214429 | [214429-five-nights-at-freddys-the-silver-eyes-fangame.json](./214429-five-nights-at-freddys-the-silver-eyes-fangame.json) |
 | Five Nights At Amendoca's | 330092 | [330092-five-nights-at-amendocas.json](./330092-five-nights-at-amendocas.json) |
 | Five Nights at Backrooms: Waifu Edition | 277828 | [277828-five-nights-at-backrooms-waifu-edition.json](./277828-five-nights-at-backrooms-waifu-edition.json) |
@@ -6960,6 +6961,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Wario's 2 | 259362 | [259362-five-nights-at-warios-2.json](./259362-five-nights-at-warios-2.json) |
 | Five Nights at Wario's 3 | 259363 | [259363-five-nights-at-warios-3.json](./259363-five-nights-at-warios-3.json) |
 | Five Nights at Wario's 4 | 280770 | [280770-five-nights-at-warios-4.json](./280770-five-nights-at-warios-4.json) |
+| Five Nights At Your Mom's House | 250125 | [250125-five-nights-at-your-moms-house.json](./250125-five-nights-at-your-moms-house.json) |
+| Five Nights at Youtuber's | 250128 | [250128-five-nights-at-youtubers.json](./250128-five-nights-at-youtubers.json) |
 | Five Nights in Anime | 47051 | [47051-five-nights-in-anime.json](./47051-five-nights-in-anime.json) |
 | Five Nights In Saransk | 381257 | [381257-five-nights-in-saransk.json](./381257-five-nights-in-saransk.json) |
 | Five Nights in the Pizzeria: New Brand | 354003 | [354003-five-nights-in-the-pizzeria-new-brand.json](./354003-five-nights-in-the-pizzeria-new-brand.json) |
