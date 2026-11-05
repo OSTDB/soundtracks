@@ -526,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vambrace: Cold Soul | 111253 | [111253-vambrace-cold-soul.json](./111253-vambrace-cold-soul.json) |
 | Vamp Night | 148918 | [148918-vamp-night.json](./148918-vamp-night.json) |
 | Vamp: Lord of Blood | 174759 | [174759-vamp-lord-of-blood.json](./174759-vamp-lord-of-blood.json) |
+| Vampachi | 295948 | [295948-vampachi.json](./295948-vampachi.json) |
 | Vampir | 387578 | [387578-vampir.json](./387578-vampir.json) |
 | Vampir Kyuuketsuki Densetsu | 201080 | [201080-vampir-kyuuketsuki-densetsu.json](./201080-vampir-kyuuketsuki-densetsu.json) |
 | Vampir Nymph | 362720 | [362720-vampir-nymph.json](./362720-vampir-nymph.json) |
