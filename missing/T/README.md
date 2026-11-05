@@ -2936,6 +2936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Deathmatch: Classic | 363287 | [363287-team-deathmatch-classic.json](./363287-team-deathmatch-classic.json) |
 | Team Dehdehbon | 372629 | [372629-team-dehdehbon.json](./372629-team-dehdehbon.json) |
 | Team Delusional's Dusttale | 329654 | [329654-team-delusionals-dusttale.json](./329654-team-delusionals-dusttale.json) |
+| Team Disorder | 255467 | [255467-team-disorder.json](./255467-team-disorder.json) |
 | Team DK BMX | 206612 | [206612-team-dk-bmx.json](./206612-team-dk-bmx.json) |
 | Team F1 | 386525 | [386525-team-f1.json](./386525-team-f1.json) |
 | Team Five | 258327 | [258327-team-five.json](./258327-team-five.json) |
@@ -11644,6 +11645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lament of a Lifeless Star | 286029 | [286029-the-lament-of-a-lifeless-star.json](./286029-the-lament-of-a-lifeless-star.json) |
 | The Lampkeeper | 362150 | [362150-the-lampkeeper.json](./362150-the-lampkeeper.json) |
 | The Lamplighters League | 240893 | [240893-the-lamplighters-league.json](./240893-the-lamplighters-league.json) |
+| The Lamplighters League: Deluxe Edition | 255468 | [255468-the-lamplighters-league-deluxe-edition.json](./255468-the-lamplighters-league-deluxe-edition.json) |
 | The Lancaster Leak: Crisis at Call Center | 260586 | [260586-the-lancaster-leak-crisis-at-call-center.json](./260586-the-lancaster-leak-crisis-at-call-center.json) |
 | The Lancaster Leak: Entity Exam | 287920 | [287920-the-lancaster-leak-entity-exam.json](./287920-the-lancaster-leak-entity-exam.json) |
 | The Lancaster Leak: O'Brien State Park | 244412 | [244412-the-lancaster-leak-obrien-state-park.json](./244412-the-lancaster-leak-obrien-state-park.json) |
@@ -16112,6 +16114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silence Outside | 75928 | [75928-the-silence-outside.json](./75928-the-silence-outside.json) |
 | The Silence: Deep Sleep | 412889 | [412889-the-silence-deep-sleep.json](./412889-the-silence-deep-sleep.json) |
 | The Silence: The Forest | 411372 | [411372-the-silence-the-forest.json](./411372-the-silence-the-forest.json) |
+| The Silenct City Chapter Two | 255470 | [255470-the-silenct-city-chapter-two.json](./255470-the-silenct-city-chapter-two.json) |
 | The Silent Age | 11444 | [11444-the-silent-age.json](./11444-the-silent-age.json) |
 | The Silent Bells | 292407 | [292407-the-silent-bells.json](./292407-the-silent-bells.json) |
 | The Silent Cartographer: Evolved | 375319 | [375319-the-silent-cartographer-evolved.json](./375319-the-silent-cartographer-evolved.json) |
@@ -16632,6 +16635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Song of the Stars II | 284328 | [284328-the-song-of-the-stars-ii.json](./284328-the-song-of-the-stars-ii.json) |
 | The Song Of Will | 400543 | [400543-the-song-of-will.json](./400543-the-song-of-will.json) |
 | The Songbird Guild | 215721 | [215721-the-songbird-guild.json](./215721-the-songbird-guild.json) |
+| The Sophisticated Art of Friendship | 255469 | [255469-the-sophisticated-art-of-friendship.json](./255469-the-sophisticated-art-of-friendship.json) |
 | The Sophomore: Hartfeld Horror Story | 313618 | [313618-the-sophomore-hartfeld-horror-story.json](./313618-the-sophomore-hartfeld-horror-story.json) |
 | The Sopranos Poker | 57931 | [57931-the-sopranos-poker.json](./57931-the-sopranos-poker.json) |
 | The Sopranos: Road to Respect | 17248 | [17248-the-sopranos-road-to-respect.json](./17248-the-sopranos-road-to-respect.json) |
@@ -24093,6 +24097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Cooking: Ultimate Edition | 328804 | [328804-tokyo-cooking-ultimate-edition.json](./328804-tokyo-cooking-ultimate-edition.json) |
 | Tokyo Cop | 148506 | [148506-tokyo-cop.json](./148506-tokyo-cop.json) |
 | Tokyo Crash Mobs | 20171 | [20171-tokyo-crash-mobs.json](./20171-tokyo-crash-mobs.json) |
+| Tokyo Crazy Museum | 255426 | [255426-tokyo-crazy-museum.json](./255426-tokyo-crazy-museum.json) |
 | Tokyo Dark | 27531 | [27531-tokyo-dark.json](./27531-tokyo-dark.json) |
 | Tokyo Day | 399166 | [399166-tokyo-day.json](./399166-tokyo-day.json) |
 | Tokyo Debunker | 197035 | [197035-tokyo-debunker.json](./197035-tokyo-debunker.json) |
@@ -32183,6 +32188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twice Go! Go! Fightin' | 115763 | [115763-twice-go-go-fightin.json](./115763-twice-go-go-fightin.json) |
 | Twiddlefinger | 307551 | [307551-twiddlefinger.json](./307551-twiddlefinger.json) |
 | Twig & Flipper | 152453 | [152453-twig-and-flipper.json](./152453-twig-and-flipper.json) |
+| Twig Quest: Little Adventure | 255430 | [255430-twig-quest-little-adventure.json](./255430-twig-quest-little-adventure.json) |
 | Twig's Adventure 64 | 366473 | [366473-twigs-adventure-64.json](./366473-twigs-adventure-64.json) |
 | Twikkel.io | 133605 | [133605-twikkel-io.json](./133605-twikkel-io.json) |
 | Twilight | 206534 | [206534-twilight.json](./206534-twilight.json) |
