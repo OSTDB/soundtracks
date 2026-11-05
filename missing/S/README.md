@@ -2377,6 +2377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Twiks | 291726 | [291726-save-twiks.json](./291726-save-twiks.json) |
 | Save Us | 190931 | [190931-save-us.json](./190931-save-us.json) |
 | Save Us, Doctor Faust! | 416827 | [416827-save-us-doctor-faust.json](./416827-save-us-doctor-faust.json) |
+| Save Us: Hello Zombie | 297675 | [297675-save-us-hello-zombie.json](./297675-save-us-hello-zombie.json) |
 | Save You | 180390 | [180390-save-you.json](./180390-save-you.json) |
 | Save Your Chicks | 341965 | [341965-save-your-chicks.json](./341965-save-your-chicks.json) |
 | Save Your Crabies | 347500 | [347500-save-your-crabies.json](./347500-save-your-crabies.json) |
@@ -2949,6 +2950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Owner | 116045 | [116045-school-owner.json](./116045-school-owner.json) |
 | School Owner Simulator | 406932 | [406932-school-owner-simulator.json](./406932-school-owner-simulator.json) |
 | School Paranormal Laboratory | 294289 | [294289-school-paranormal-laboratory.json](./294289-school-paranormal-laboratory.json) |
+| School Party Craft | 297667 | [297667-school-party-craft.json](./297667-school-party-craft.json) |
 | School Quest | 393757 | [393757-school-quest.json](./393757-school-quest.json) |
 | School Race GP | 219281 | [219281-school-race-gp.json](./219281-school-race-gp.json) |
 | School Rendezvous | 97784 | [97784-school-rendezvous.json](./97784-school-rendezvous.json) |
@@ -4670,6 +4672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | See Me | 97903 | [97903-see-me.json](./97903-see-me.json) |
 | See No Evil | 17642 | [17642-see-no-evil.json](./17642-see-no-evil.json) |
 | See No Fear | 243046 | [243046-see-no-fear.json](./243046-see-no-fear.json) |
+| See The Sky | 297707 | [297707-see-the-sky.json](./297707-see-the-sky.json) |
 | See Thru: Need a Friend? | 305333 | [305333-see-thru-need-a-friend.json](./305333-see-thru-need-a-friend.json) |
 | See You In Desolation? | 190375 | [190375-see-you-in-desolation.json](./190375-see-you-in-desolation.json) |
 | See You Later | 235451 | [235451-see-you-later.json](./235451-see-you-later.json) |
@@ -14404,6 +14407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Challenge | 268021 | [268021-snake-challenge.json](./268021-snake-challenge.json) |
 | Snake Charmer | 359366 | [359366-snake-charmer.json](./359366-snake-charmer.json) |
 | Snake Charmer - TPS Snek | 81038 | [81038-snake-charmer-tps-snek.json](./81038-snake-charmer-tps-snek.json) |
+| Snake Clash! | 297704 | [297704-snake-clash.json](./297704-snake-clash.json) |
 | Snake Classic | 84014 | [84014-snake-classic.json](./84014-snake-classic.json) |
 | Snake Classic 3D Reborn | 384323 | [384323-snake-classic-3d-reborn.json](./384323-snake-classic-3d-reborn.json) |
 | Snake Coil: Puzzle Adventure | 390368 | [390368-snake-coil-puzzle-adventure.json](./390368-snake-coil-puzzle-adventure.json) |
@@ -18062,6 +18066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Machine | 351707 | [351707-soul-machine.json](./351707-soul-machine.json) |
 | Soul Master | 180288 | [180288-soul-master.json](./180288-soul-master.json) |
 | Soul Master | 66669 | [66669-soul-master.json](./66669-soul-master.json) |
+| Soul Mates | 297412 | [297412-soul-mates.json](./297412-soul-mates.json) |
 | Soul Mates | 340400 | [340400-soul-mates.json](./340400-soul-mates.json) |
 | Soul Maze | 212127 | [212127-soul-maze.json](./212127-soul-maze.json) |
 | Soul Maze | 388345 | [388345-soul-maze.json](./388345-soul-maze.json) |
@@ -19070,7 +19075,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -34171,6 +34175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweets Swap | 147097 | [147097-sweets-swap.json](./147097-sweets-swap.json) |
 | Sweets Swap Classic | 175821 | [175821-sweets-swap-classic.json](./175821-sweets-swap-classic.json) |
 | Sweets' Devil | 398596 | [398596-sweets-devil.json](./398596-sweets-devil.json) |
+| Sweetsdigger | 297705 | [297705-sweetsdigger.json](./297705-sweetsdigger.json) |
 | SweetXheart | 183286 | [183286-sweetxheart.json](./183286-sweetxheart.json) |
 | Sweety Girls | 258828 | [258828-sweety-girls.json](./258828-sweety-girls.json) |
 | Sweety Kitty | 219560 | [219560-sweety-kitty.json](./219560-sweety-kitty.json) |
