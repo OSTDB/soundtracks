@@ -1054,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Thunder: Su-39 Pack | 254068 | [254068-war-thunder-su-39-pack.json](./254068-war-thunder-su-39-pack.json) |
 | War Thunder: T-80U-E1 Bundle | 306494 | [306494-war-thunder-t-80u-e1-bundle.json](./306494-war-thunder-t-80u-e1-bundle.json) |
 | War Thunder: T29 Pack | 293762 | [293762-war-thunder-t29-pack.json](./293762-war-thunder-t29-pack.json) |
+| War Thunder: Tornado IDS WTD 61 Pack | 285820 | [285820-war-thunder-tornado-ids-wtd-61-pack.json](./285820-war-thunder-tornado-ids-wtd-61-pack.json) |
 | War Thunder: Two Fronts Bundle | 331505 | [331505-war-thunder-two-fronts-bundle.json](./331505-war-thunder-two-fronts-bundle.json) |
 | War Thunder: Type 90B "Fuji" Pack | 332080 | [332080-war-thunder-type-90b-fuji-pack.json](./332080-war-thunder-type-90b-fuji-pack.json) |
 | War Thunder: Type 96A Prototype Pack | 332055 | [332055-war-thunder-type-96a-prototype-pack.json](./332055-war-thunder-type-96a-prototype-pack.json) |
