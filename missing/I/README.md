@@ -944,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ICBM: Escalation | 274321 | [274321-icbm-escalation.json](./274321-icbm-escalation.json) |
 | ICBM: Escalation - Endless October | 372533 | [372533-icbm-escalation-endless-october.json](./372533-icbm-escalation-endless-october.json) |
 | Ice | 342173 | [342173-ice.json](./342173-ice.json) |
+| Ice Age | 280045 | [280045-ice-age.json](./280045-ice-age.json) |
 | Ice Age | 400477 | [400477-ice-age.json](./400477-ice-age.json) |
 | Ice Age | 6446 | [6446-ice-age.json](./6446-ice-age.json) |
 | Ice Age 2: The Meltdown | 248537 | [248537-ice-age-2-the-meltdown.json](./248537-ice-age-2-the-meltdown.json) |
@@ -3756,7 +3757,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -6518,6 +6518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Italian Night 1999 | 386393 | [386393-italian-night-1999.json](./386393-italian-night-1999.json) |
 | Italian Pizza Simulator | 391123 | [391123-italian-pizza-simulator.json](./391123-italian-pizza-simulator.json) |
 | Italian Street Food Simulator | 423403 | [423403-italian-street-food-simulator.json](./423403-italian-street-food-simulator.json) |
+| Italian Super Car | 280014 | [280014-italian-super-car.json](./280014-italian-super-car.json) |
 | Italo-Doom | 224529 | [224529-italo-doom.json](./224529-italo-doom.json) |
 | Italy '90 Soccer | 140489 | [140489-italy-90-soccer.json](./140489-italy-90-soccer.json) |
 | Italy 1990 | 85520 | [85520-italy-1990.json](./85520-italy-1990.json) |
