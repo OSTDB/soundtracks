@@ -607,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty 4: Modern Warfare - Limited Collector's Edition | 286606 | [286606-call-of-duty-4-modern-warfare-limited-collectors-edition.json](./286606-call-of-duty-4-modern-warfare-limited-collectors-edition.json) |
 | Call of Duty 4: Modern Warfare - Variety Map Pack | 292781 | [292781-call-of-duty-4-modern-warfare-variety-map-pack.json](./292781-call-of-duty-4-modern-warfare-variety-map-pack.json) |
 | Call of Duty 4: Promod | 250316 | [250316-call-of-duty-4-promod.json](./250316-call-of-duty-4-promod.json) |
+| Call of Duty 4: Spec-Ops | 292894 | [292894-call-of-duty-4-spec-ops.json](./292894-call-of-duty-4-spec-ops.json) |
 | Call of Duty 4: Survival Mode | 299136 | [299136-call-of-duty-4-survival-mode.json](./299136-call-of-duty-4-survival-mode.json) |
 | Call of Duty Classic | 43029 | [43029-call-of-duty-classic.json](./43029-call-of-duty-classic.json) |
 | Call of Duty Endowment (C.O.D.E.) Knight Recon: Tracer Pack | 310052 | [310052-call-of-duty-endowment-c-o-d-e-knight-recon-tracer-pack.json](./310052-call-of-duty-endowment-c-o-d-e-knight-recon-tracer-pack.json) |
@@ -4895,6 +4896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cazzarion: Portal Pilot | 305782 | [305782-cazzarion-portal-pilot.json](./305782-cazzarion-portal-pilot.json) |
 | Cazzarion: Robot Rush | 300994 | [300994-cazzarion-robot-rush.json](./300994-cazzarion-robot-rush.json) |
 | Cazzarion: Rocket Raid | 302234 | [302234-cazzarion-rocket-raid.json](./302234-cazzarion-rocket-raid.json) |
+| Cazzarion: Shellfish Frenzy | 292900 | [292900-cazzarion-shellfish-frenzy.json](./292900-cazzarion-shellfish-frenzy.json) |
 | Cazzarion: Shooting Gallery | 308603 | [308603-cazzarion-shooting-gallery.json](./308603-cazzarion-shooting-gallery.json) |
 | Cazzarion: Sky Flight | 300995 | [300995-cazzarion-sky-flight.json](./300995-cazzarion-sky-flight.json) |
 | Cazzarion: Space Ace | 293901 | [293901-cazzarion-space-ace.json](./293901-cazzarion-space-ace.json) |
@@ -13973,6 +13975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool army games for kids 6 year old and under boys | 100049 | [100049-cool-army-games-for-kids-6-year-old-and-under-boys.json](./100049-cool-army-games-for-kids-6-year-old-and-under-boys.json) |
 | Cool Ball | 92263 | [92263-cool-ball.json](./92263-cool-ball.json) |
 | Cool Boarders | 20728 | [20728-cool-boarders.json](./20728-cool-boarders.json) |
+| Cool Boarders | 292899 | [292899-cool-boarders.json](./292899-cool-boarders.json) |
 | Cool Boarders 2001 | 26135 | [26135-cool-boarders-2001.json](./26135-cool-boarders-2001.json) |
 | Cool Boarders 3 | 26130 | [26130-cool-boarders-3.json](./26130-cool-boarders-3.json) |
 | Cool Boarders 4 | 26131 | [26131-cool-boarders-4.json](./26131-cool-boarders-4.json) |
@@ -14621,6 +14624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Guerilla | 276388 | [276388-cosmic-guerilla.json](./276388-cosmic-guerilla.json) |
 | Cosmic Guerrilla | 39991 | [39991-cosmic-guerrilla.json](./39991-cosmic-guerrilla.json) |
 | Cosmic Gunslinger: Alien Outlaws | 274572 | [274572-cosmic-gunslinger-alien-outlaws.json](./274572-cosmic-gunslinger-alien-outlaws.json) |
+| Cosmic Hare | 292909 | [292909-cosmic-hare.json](./292909-cosmic-hare.json) |
 | Cosmic High Schooler | 358510 | [358510-cosmic-high-schooler.json](./358510-cosmic-high-schooler.json) |
 | Cosmic Highway | 63834 | [63834-cosmic-highway.json](./63834-cosmic-highway.json) |
 | Cosmic Holes | 240649 | [240649-cosmic-holes.json](./240649-cosmic-holes.json) |
@@ -15508,6 +15512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cracked | 265432 | [265432-cracked.json](./265432-cracked.json) |
 | Cracked Up | 164961 | [164961-cracked-up.json](./164961-cracked-up.json) |
 | Cracker | 304499 | [304499-cracker.json](./304499-cracker.json) |
+| Crackernuts | 293026 | [293026-crackernuts.json](./293026-crackernuts.json) |
 | Crackers Revenge | 41151 | [41151-crackers-revenge.json](./41151-crackers-revenge.json) |
 | Crackers Revenge II | 417478 | [417478-crackers-revenge-ii.json](./417478-crackers-revenge-ii.json) |
 | Crackers Revenge IV | 417480 | [417480-crackers-revenge-iv.json](./417480-crackers-revenge-iv.json) |
