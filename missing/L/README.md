@@ -1856,6 +1856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layered Ordeal | 356803 | [356803-layered-ordeal.json](./356803-layered-ordeal.json) |
 | Layermask | 402995 | [402995-layermask.json](./402995-layermask.json) |
 | Layers | 75098 | [75098-layers.json](./75098-layers.json) |
+| Layers Deep | 291279 | [291279-layers-deep.json](./291279-layers-deep.json) |
 | Layers of Bust | 405024 | [405024-layers-of-bust.json](./405024-layers-of-bust.json) |
 | Layers of Fear 2 | 239164 | [239164-layers-of-fear-2.json](./239164-layers-of-fear-2.json) |
 | Layers of Fear 3 | 390145 | [390145-layers-of-fear-3.json](./390145-layers-of-fear-3.json) |
@@ -2658,6 +2659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Skyfish 2 | 94965 | [94965-legend-of-the-skyfish-2.json](./94965-legend-of-the-skyfish-2.json) |
 | Legend of the Storm | 340911 | [340911-legend-of-the-storm.json](./340911-legend-of-the-storm.json) |
 | Legend of the Sword | 15248 | [15248-legend-of-the-sword.json](./15248-legend-of-the-sword.json) |
+| Legend of the Sword | 291205 | [291205-legend-of-the-sword.json](./291205-legend-of-the-sword.json) |
 | Legend of the Sword Saint | 340912 | [340912-legend-of-the-sword-saint.json](./340912-legend-of-the-sword-saint.json) |
 | Legend of the Sword: Hongwu Age | 267268 | [267268-legend-of-the-sword-hongwu-age.json](./267268-legend-of-the-sword-hongwu-age.json) |
 | Legend of the Tetrarchs | 117738 | [117738-legend-of-the-tetrarchs.json](./117738-legend-of-the-tetrarchs.json) |
@@ -9672,6 +9674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luobu | 271067 | [271067-luobu.json](./271067-luobu.json) |
 | Luòchén zhī Yù | 114382 | [114382-luochen-zhi-yu.json](./114382-luochen-zhi-yu.json) |
 | Luonnonvoimat | 390771 | [390771-luonnonvoimat.json](./390771-luonnonvoimat.json) |
+| LuoYang | 291278 | [291278-luoyang.json](./291278-luoyang.json) |
 | Lupa | 190319 | [190319-lupa.json](./190319-lupa.json) |
 | Lupin III | 290867 | [290867-lupin-iii.json](./290867-lupin-iii.json) |
 | Lupin III | 46760 | [46760-lupin-iii.json](./46760-lupin-iii.json) |
