@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kafka's Metamorphosis | 328219 | [328219-kafkas-metamorphosis.json](./328219-kafkas-metamorphosis.json) |
 | Kafkaesque: The Nightmare Trial | 311827 | [311827-kafkaesque-the-nightmare-trial.json](./311827-kafkaesque-the-nightmare-trial.json) |
 | Kagachi-sama Onagusame Tatematsurimasu: Netorare Mura Inya Hanashi | 82973 | [82973-kagachi-sama-onagusame-tatematsurimasu-netorare-mura-inya-hanashi.json](./82973-kagachi-sama-onagusame-tatematsurimasu-netorare-mura-inya-hanashi.json) |
+| Kagaku na Hatsumei to Hakken no Quiz | 264954 | [264954-kagaku-na-hatsumei-to-hakken-no-quiz.json](./264954-kagaku-na-hatsumei-to-hakken-no-quiz.json) |
 | Kagaku Ninja-Tai Gatchaman | 62233 | [62233-kagaku-ninja-tai-gatchaman.json](./62233-kagaku-ninja-tai-gatchaman.json) |
 | Kagami | 410415 | [410415-kagami.json](./410415-kagami.json) |
 | Kagami no Kuni no Legend | 256323 | [256323-kagami-no-kuni-no-legend.json](./256323-kagami-no-kuni-no-legend.json) |
@@ -6142,6 +6143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KurtzPel | 76064 | [76064-kurtzpel.json](./76064-kurtzpel.json) |
 | Kuru-kuru Action Kuru Pachi 6 | 220845 | [220845-kuru-kuru-action-kuru-pachi-6.json](./220845-kuru-kuru-action-kuru-pachi-6.json) |
 | Kuru-kuru Panic | 222816 | [222816-kuru-kuru-panic.json](./222816-kuru-kuru-panic.json) |
+| Kuru-kuru Puzzle Nihon no Rekishi | 264953 | [264953-kuru-kuru-puzzle-nihon-no-rekishi.json](./264953-kuru-kuru-puzzle-nihon-no-rekishi.json) |
 | Kuru-kuru Puzzle Sekai-shi B | 276465 | [276465-kuru-kuru-puzzle-sekai-shi-b.json](./276465-kuru-kuru-puzzle-sekai-shi-b.json) |
 | Kuruki-chan the Cat | 419958 | [419958-kuruki-chan-the-cat.json](./419958-kuruki-chan-the-cat.json) |
 | KuruKuru MaruMaru | 263956 | [263956-kurukuru-marumaru.json](./263956-kurukuru-marumaru.json) |
