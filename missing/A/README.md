@@ -2133,6 +2133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absurd Chess | 172982 | [172982-absurd-chess.json](./172982-absurd-chess.json) |
 | Absurd Story: Back Home | 259500 | [259500-absurd-story-back-home.json](./259500-absurd-story-back-home.json) |
 | Absurd Trolley Problems | 267592 | [267592-absurd-trolley-problems.json](./267592-absurd-trolley-problems.json) |
+| Absurdika | 248332 | [248332-absurdika.json](./248332-absurdika.json) |
 | Absurdika: Rebuild | 342800 | [342800-absurdika-rebuild.json](./342800-absurdika-rebuild.json) |
 | Absurdistan | 166671 | [166671-absurdistan.json](./166671-absurdistan.json) |
 | Absurdle | 280697 | [280697-absurdle.json](./280697-absurdle.json) |
@@ -2658,6 +2659,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aces Up! | 366399 | [366399-aces-up.json](./366399-aces-up.json) |
 | Aces Up! HD | 354961 | [354961-aces-up-hd.json](./354961-aces-up-hd.json) |
 | Aces: The Complete Collector's Edition | 206206 | [206206-aces-the-complete-collectors-edition.json](./206206-aces-the-complete-collectors-edition.json) |
+| AceSpeeder! | 248370 | [248370-acespeeder.json](./248370-acespeeder.json) |
+| AceSpeeder2 | 248369 | [248369-acespeeder2.json](./248369-acespeeder2.json) |
 | AceSurvivor | 379465 | [379465-acesurvivor.json](./379465-acesurvivor.json) |
 | Achaea, Dreams of Divine Lands | 11820 | [11820-achaea-dreams-of-divine-lands.json](./11820-achaea-dreams-of-divine-lands.json) |
 | Achaem | 104680 | [104680-achaem.json](./104680-achaem.json) |
@@ -9168,6 +9171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Spirits: Columbus' Legacy | 104503 | [104503-ancient-spirits-columbus-legacy.json](./104503-ancient-spirits-columbus-legacy.json) |
 | Ancient Stars | 277014 | [277014-ancient-stars.json](./277014-ancient-stars.json) |
 | Ancient Stories: Gods of Egypt | 119684 | [119684-ancient-stories-gods-of-egypt.json](./119684-ancient-stories-gods-of-egypt.json) |
+| Ancient Surfer 2 | 248275 | [248275-ancient-surfer-2.json](./248275-ancient-surfer-2.json) |
 | Ancient Swarm | 410345 | [410345-ancient-swarm.json](./410345-ancient-swarm.json) |
 | Ancient Sword Qimen Yanjia | 193824 | [193824-ancient-sword-qimen-yanjia.json](./193824-ancient-sword-qimen-yanjia.json) |
 | Ancient Taxi | 91557 | [91557-ancient-taxi.json](./91557-ancient-taxi.json) |
@@ -10388,6 +10392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1503: Royal Edition | 77223 | [77223-anno-1503-royal-edition.json](./77223-anno-1503-royal-edition.json) |
 | Anno 1503: Treasures, Monsters & Pirates | 8224 | [8224-anno-1503-treasures-monsters-and-pirates.json](./8224-anno-1503-treasures-monsters-and-pirates.json) |
 | Anno 1602 A.D. | 180271 | [180271-anno-1602-a-d.json](./180271-anno-1602-a-d.json) |
+| Anno 1602: Creation of a New World - Gold Edition | 248357 | [248357-anno-1602-creation-of-a-new-world-gold-edition.json](./248357-anno-1602-creation-of-a-new-world-gold-edition.json) |
 | Anno 1602: Creation of a New World - New Islands, New Adventure | 138084 | [138084-anno-1602-creation-of-a-new-world-new-islands-new-adventure.json](./138084-anno-1602-creation-of-a-new-world-new-islands-new-adventure.json) |
 | Anno 1602: Erschaffung einer Neuen Welt - Im Namen des Königs | 131277 | [131277-anno-1602-erschaffung-einer-neuen-welt-im-namen-des-konigs.json](./131277-anno-1602-erschaffung-einer-neuen-welt-im-namen-des-konigs.json) |
 | Anno 1602: History Edition | 136093 | [136093-anno-1602-history-edition.json](./136093-anno-1602-history-edition.json) |
@@ -12406,6 +12411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Task Force Harrier | 148323 | [148323-arcade-archives-task-force-harrier.json](./148323-arcade-archives-task-force-harrier.json) |
 | Arcade Archives: Tatakae! Big Fighter | 340833 | [340833-arcade-archives-tatakae-big-fighter.json](./340833-arcade-archives-tatakae-big-fighter.json) |
 | Arcade Archives: Tecmo Bowl | 147117 | [147117-arcade-archives-tecmo-bowl.json](./147117-arcade-archives-tecmo-bowl.json) |
+| Arcade Archives: Tecmo Knight | 248272 | [248272-arcade-archives-tecmo-knight.json](./248272-arcade-archives-tecmo-knight.json) |
 | Arcade Archives: Tecmo Stackers | 313224 | [313224-arcade-archives-tecmo-stackers.json](./313224-arcade-archives-tecmo-stackers.json) |
 | Arcade Archives: Terra Cresta | 99786 | [99786-arcade-archives-terra-cresta.json](./99786-arcade-archives-terra-cresta.json) |
 | Arcade Archives: Tetris - The Absolute: The Grand Master 2 Plus | 251538 | [251538-arcade-archives-tetris-the-absolute-the-grand-master-2-plus.json](./251538-arcade-archives-tetris-the-absolute-the-grand-master-2-plus.json) |
@@ -14600,6 +14606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascent | 140157 | [140157-ascent.json](./140157-ascent.json) |
 | Ascent | 155417 | [155417-ascent.json](./155417-ascent.json) |
 | Ascent | 185340 | [185340-ascent.json](./185340-ascent.json) |
+| Ascent | 248342 | [248342-ascent.json](./248342-ascent.json) |
 | Ascent | 330540 | [330540-ascent.json](./330540-ascent.json) |
 | Ascent DX | 336896 | [336896-ascent-dx.json](./336896-ascent-dx.json) |
 | Ascent Free-Roaming VR Experience | 129415 | [129415-ascent-free-roaming-vr-experience.json](./129415-ascent-free-roaming-vr-experience.json) |
