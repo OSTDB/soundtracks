@@ -13479,6 +13479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncing Slime: Impossible Levels | 343985 | [343985-bouncing-slime-impossible-levels.json](./343985-bouncing-slime-impossible-levels.json) |
 | Bouncing to the Top With Quantum Quacks | 392103 | [392103-bouncing-to-the-top-with-quantum-quacks.json](./392103-bouncing-to-the-top-with-quantum-quacks.json) |
 | Bouncing Traveler | 166838 | [166838-bouncing-traveler.json](./166838-bouncing-traveler.json) |
+| BouncingBalls | 290741 | [290741-bouncingballs.json](./290741-bouncingballs.json) |
 | Bouncy | 207170 | [207170-bouncy.json](./207170-bouncy.json) |
 | Bouncy Ball | 245201 | [245201-bouncy-ball.json](./245201-bouncy-ball.json) |
 | Bouncy Ball: The Impossible Tile Game | 93824 | [93824-bouncy-ball-the-impossible-tile-game.json](./93824-bouncy-ball-the-impossible-tile-game.json) |
@@ -17578,6 +17579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Tycoon Night and Day | 254077 | [254077-bus-tycoon-night-and-day.json](./254077-bus-tycoon-night-and-day.json) |
 | Bus World | 126333 | [126333-bus-world.json](./126333-bus-world.json) |
 | Bus-Simulator 2012 | 16700 | [16700-bus-simulator-2012.json](./16700-bus-simulator-2012.json) |
+| BUS: Bro U Survived | 290727 | [290727-bus-bro-u-survived.json](./290727-bus-bro-u-survived.json) |
 | Buscando a Bigotes | 417981 | [417981-buscando-a-bigotes.json](./417981-buscando-a-bigotes.json) |
 | Bush 1022 | 419643 | [419643-bush-1022.json](./419643-bush-1022.json) |
 | Bush Buck | 14356 | [14356-bush-buck.json](./14356-bush-buck.json) |
