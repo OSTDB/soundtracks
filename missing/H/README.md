@@ -1993,6 +1993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harem of Lust | 359765 | [359765-harem-of-lust.json](./359765-harem-of-lust.json) |
 | Harem of Nurses | 218137 | [218137-harem-of-nurses.json](./218137-harem-of-nurses.json) |
 | Harem Survivor | 294147 | [294147-harem-survivor.json](./294147-harem-survivor.json) |
+| Harem! Ranch Life | 265357 | [265357-harem-ranch-life.json](./265357-harem-ranch-life.json) |
 | HaremKingdom | 176095 | [176095-haremkingdom.json](./176095-haremkingdom.json) |
 | HaremMate | 22482 | [22482-haremmate.json](./22482-haremmate.json) |
 | HaremRoid VR | 279668 | [279668-haremroid-vr.json](./279668-haremroid-vr.json) |
@@ -5905,6 +5906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes & Generals: US Soldier Pack - Medium Tanker | 161906 | [161906-heroes-and-generals-us-soldier-pack-medium-tanker.json](./161906-heroes-and-generals-us-soldier-pack-medium-tanker.json) |
 | Heroes & Generals: US Super Pack | 161917 | [161917-heroes-and-generals-us-super-pack.json](./161917-heroes-and-generals-us-super-pack.json) |
 | Heroes & Legends: Conquerors of Kolhar | 17531 | [17531-heroes-and-legends-conquerors-of-kolhar.json](./17531-heroes-and-legends-conquerors-of-kolhar.json) |
+| Heroes & Redemption | 265358 | [265358-heroes-and-redemption.json](./265358-heroes-and-redemption.json) |
 | Heroes & Titans: Battle Arena | 60192 | [60192-heroes-and-titans-battle-arena.json](./60192-heroes-and-titans-battle-arena.json) |
 | Heroes & Villains Bundle | 164735 | [164735-heroes-and-villains-bundle.json](./164735-heroes-and-villains-bundle.json) |
 | Heroes 2: The Undead King | 70847 | [70847-heroes-2-the-undead-king.json](./70847-heroes-2-the-undead-king.json) |
@@ -9243,6 +9245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Twigs | 185376 | [185376-honey-twigs.json](./185376-honey-twigs.json) |
 | Honey Vibes | 287894 | [287894-honey-vibes.json](./287894-honey-vibes.json) |
 | Honey, I Joined a Cult | 99634 | [99634-honey-i-joined-a-cult.json](./99634-honey-i-joined-a-cult.json) |
+| Honey's Sweet Revenge | 265441 | [265441-honeys-sweet-revenge.json](./265441-honeys-sweet-revenge.json) |
 | Honeyblaster | 95436 | [95436-honeyblaster.json](./95436-honeyblaster.json) |
 | Honeybug | 347826 | [347826-honeybug.json](./347826-honeybug.json) |
 | Honeycomb Beat | 20685 | [20685-honeycomb-beat.json](./20685-honeycomb-beat.json) |
@@ -9516,6 +9519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoops Mania | 417382 | [417382-hoops-mania.json](./417382-hoops-mania.json) |
 | Hoops Puzzler | 187796 | [187796-hoops-puzzler.json](./187796-hoops-puzzler.json) |
 | Hoops VR | 32414 | [32414-hoops-vr.json](./32414-hoops-vr.json) |
+| Hoops World | 265355 | [265355-hoops-world.json](./265355-hoops-world.json) |
 | Hoops: Shut Up and Jam | 245294 | [245294-hoops-shut-up-and-jam.json](./245294-hoops-shut-up-and-jam.json) |
 | Hoops: Shut Up and Jam 2 | 245293 | [245293-hoops-shut-up-and-jam-2.json](./245293-hoops-shut-up-and-jam-2.json) |
 | Hoopworld | 21744 | [21744-hoopworld.json](./21744-hoopworld.json) |
