@@ -1938,6 +1938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMSI 2: Wuppertal Buslinie 639 | 155144 | [155144-omsi-2-wuppertal-buslinie-639.json](./155144-omsi-2-wuppertal-buslinie-639.json) |
 | OMSI 2: Yorkshire Counties | 155108 | [155108-omsi-2-yorkshire-counties.json](./155108-omsi-2-yorkshire-counties.json) |
 | OMSI: The Bus Simulator | 47037 | [47037-omsi-the-bus-simulator.json](./47037-omsi-the-bus-simulator.json) |
+| Omurice Next Time | 275958 | [275958-omurice-next-time.json](./275958-omurice-next-time.json) |
 | Omusubi | 304818 | [304818-omusubi.json](./304818-omusubi.json) |
 | Omut | 317184 | [317184-omut.json](./317184-omut.json) |
 | Omvorm | 109494 | [109494-omvorm.json](./109494-omvorm.json) |
