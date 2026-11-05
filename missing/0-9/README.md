@@ -3166,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7x7 | 98850 | [98850-7x7.json](./98850-7x7.json) |
 | 7Years | 311157 | [311157-7years.json](./311157-7years.json) |
 | 8 | 131206 | [131206-8.json](./131206-8.json) |
+| 8 & 9 Ballpocket | 278239 | [278239-8-and-9-ballpocket.json](./278239-8-and-9-ballpocket.json) |
 | 8 Ball | 14150 | [14150-8-ball.json](./14150-8-ball.json) |
 | 8 Ball | 90860 | [90860-8-ball.json](./90860-8-ball.json) |
 | 8 Ball 2 | 219515 | [219515-8-ball-2.json](./219515-8-ball-2.json) |
