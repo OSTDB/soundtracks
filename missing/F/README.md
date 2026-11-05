@@ -3268,6 +3268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fathom | 400599 | [400599-fathom.json](./400599-fathom.json) |
 | Fathom: The Game of Tiles | 70065 | [70065-fathom-the-game-of-tiles.json](./70065-fathom-the-game-of-tiles.json) |
 | Fathom's End | 396401 | [396401-fathoms-end.json](./396401-fathoms-end.json) |
+| Fathomless | 280009 | [280009-fathomless.json](./280009-fathomless.json) |
 | Fathomless | 415095 | [415095-fathomless.json](./415095-fathomless.json) |
 | Fathoms | 338287 | [338287-fathoms.json](./338287-fathoms.json) |
 | Fathoms | 415121 | [415121-fathoms.json](./415121-fathoms.json) |
@@ -8222,6 +8223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluff'n'Roll | 323516 | [323516-fluffnroll.json](./323516-fluffnroll.json) |
 | Fluff's Adventure: A Tale of Fur and Steel | 303992 | [303992-fluffs-adventure-a-tale-of-fur-and-steel.json](./303992-fluffs-adventure-a-tale-of-fur-and-steel.json) |
 | Fluffland | 183421 | [183421-fluffland.json](./183421-fluffland.json) |
+| Fluffles Rainy Day | 280027 | [280027-fluffles-rainy-day.json](./280027-fluffles-rainy-day.json) |
 | Flufftopia | 134696 | [134696-flufftopia.json](./134696-flufftopia.json) |
 | Flufftopia: Fluffmazing Edition | 386272 | [386272-flufftopia-fluffmazing-edition.json](./386272-flufftopia-fluffmazing-edition.json) |
 | Fluffwatch | 279506 | [279506-fluffwatch.json](./279506-fluffwatch.json) |
@@ -11602,6 +11604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Dustin' | 360892 | [360892-friday-night-dustin.json](./360892-friday-night-dustin.json) |
 | Friday Night Fever: Frenzy | 270506 | [270506-friday-night-fever-frenzy.json](./270506-friday-night-fever-frenzy.json) |
 | Friday Night Funk'n: Funkin' is Magic | 203223 | [203223-friday-night-funkn-funkin-is-magic.json](./203223-friday-night-funkn-funkin-is-magic.json) |
+| Friday Night Funkin Neo | 280040 | [280040-friday-night-funkin-neo.json](./280040-friday-night-funkin-neo.json) |
 | Friday Night Funkin vs. junim Cururu | 328236 | [328236-friday-night-funkin-vs-junim-cururu.json](./328236-friday-night-funkin-vs-junim-cururu.json) |
 | Friday Night Funkin: vs. Jeff | 242615 | [242615-friday-night-funkin-vs-jeff.json](./242615-friday-night-funkin-vs-jeff.json) |
 | Friday Night Funkin' 64 | 294774 | [294774-friday-night-funkin-64.json](./294774-friday-night-funkin-64.json) |
@@ -12064,6 +12067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggy Destroyer | 157711 | [157711-froggy-destroyer.json](./157711-froggy-destroyer.json) |
 | Froggy Drink Bar! | 329965 | [329965-froggy-drink-bar.json](./329965-froggy-drink-bar.json) |
 | Froggy Family Fort | 175963 | [175963-froggy-family-fort.json](./175963-froggy-family-fort.json) |
+| Froggy Froggy | 280026 | [280026-froggy-froggy.json](./280026-froggy-froggy.json) |
 | Froggy Jump | 52185 | [52185-froggy-jump.json](./52185-froggy-jump.json) |
 | Froggy Pot | 186121 | [186121-froggy-pot.json](./186121-froggy-pot.json) |
 | Froggy Quest | 197000 | [197000-froggy-quest.json](./197000-froggy-quest.json) |
