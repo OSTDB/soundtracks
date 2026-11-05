@@ -9693,6 +9693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sicaria | 289425 | [289425-sicaria.json](./289425-sicaria.json) |
 | Sichiken | 407213 | [407213-sichiken.json](./407213-sichiken.json) |
 | Sicier's Zweck | 117076 | [117076-siciers-zweck.json](./117076-siciers-zweck.json) |
+| Sicilie | 273185 | [273185-sicilie.json](./273185-sicilie.json) |
 | Sick | 168694 | [168694-sick.json](./168694-sick.json) |
 | Sick | 277612 | [277612-sick.json](./277612-sick.json) |
 | Sick Bricks | 23925 | [23925-sick-bricks.json](./23925-sick-bricks.json) |
@@ -12078,6 +12079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sklime: A Difficult Climbing Adventure | 322528 | [322528-sklime-a-difficult-climbing-adventure.json](./322528-sklime-a-difficult-climbing-adventure.json) |
 | Sknow | 118206 | [118206-sknow.json](./118206-sknow.json) |
 | Skogdal | 258565 | [258565-skogdal.json](./258565-skogdal.json) |
+| Skola | 273184 | [273184-skola.json](./273184-skola.json) |
 | Skolios | 243784 | [243784-skolios.json](./243784-skolios.json) |
 | Skollorn | 402502 | [402502-skollorn.json](./402502-skollorn.json) |
 | Skolly's Adventure | 272722 | [272722-skollys-adventure.json](./272722-skollys-adventure.json) |
