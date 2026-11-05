@@ -1180,6 +1180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ziggurat 2 | 139416 | [139416-ziggurat-2.json](./139416-ziggurat-2.json) |
 | Ziggurat 3D Chess | 52088 | [52088-ziggurat-3d-chess.json](./52088-ziggurat-3d-chess.json) |
 | Ziggy | 157325 | [157325-ziggy.json](./157325-ziggy.json) |
+| Ziggy | 251302 | [251302-ziggy.json](./251302-ziggy.json) |
 | Ziggy | 253461 | [253461-ziggy.json](./253461-ziggy.json) |
 | Ziggy Kids Racing | 246971 | [246971-ziggy-kids-racing.json](./246971-ziggy-kids-racing.json) |
 | Ziggy Putts | 58188 | [58188-ziggy-putts.json](./58188-ziggy-putts.json) |
