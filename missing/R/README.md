@@ -4873,6 +4873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reminiscience Overwrite | 184362 | [184362-reminiscience-overwrite.json](./184362-reminiscience-overwrite.json) |
 | Remission | 302090 | [302090-remission.json](./302090-remission.json) |
 | ReMix | 276642 | [276642-remix.json](./276642-remix.json) |
+| Remix Jam | 285261 | [285261-remix-jam.json](./285261-remix-jam.json) |
 | ReMix: Encore | 311815 | [311815-remix-encore.json](./311815-remix-encore.json) |
 | Remnant | 144676 | [144676-remnant.json](./144676-remnant.json) |
 | Remnant Frontier: Survival | 373001 | [373001-remnant-frontier-survival.json](./373001-remnant-frontier-survival.json) |
@@ -4921,6 +4922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remote Control Dandy | 77880 | [77880-remote-control-dandy.json](./77880-remote-control-dandy.json) |
 | Remote Control Dandy SF | 72951 | [72951-remote-control-dandy-sf.json](./72951-remote-control-dandy-sf.json) |
 | Remote Control Fun Airplanes | 104443 | [104443-remote-control-fun-airplanes.json](./104443-remote-control-fun-airplanes.json) |
+| Remote Control Shuriken | 285250 | [285250-remote-control-shuriken.json](./285250-remote-control-shuriken.json) |
 | Remote Island | 298082 | [298082-remote-island.json](./298082-remote-island.json) |
 | Remote Knights Online | 153401 | [153401-remote-knights-online.json](./153401-remote-knights-online.json) |
 | Remote Life | 121119 | [121119-remote-life.json](./121119-remote-life.json) |
@@ -11568,6 +11570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubber Duck Survival | 411556 | [411556-rubber-duck-survival.json](./411556-rubber-duck-survival.json) |
 | Rubber Ducky Massacre | 145876 | [145876-rubber-ducky-massacre.json](./145876-rubber-ducky-massacre.json) |
 | Rubber Head Bob | 314537 | [314537-rubber-head-bob.json](./314537-rubber-head-bob.json) |
+| Rubber Hose Rampage | 285259 | [285259-rubber-hose-rampage.json](./285259-rubber-hose-rampage.json) |
 | Rubber Man | 185131 | [185131-rubber-man.json](./185131-rubber-man.json) |
 | Rubber Ninjas | 75143 | [75143-rubber-ninjas.json](./75143-rubber-ninjas.json) |
 | Rubber Royale | 244269 | [244269-rubber-royale.json](./244269-rubber-royale.json) |
