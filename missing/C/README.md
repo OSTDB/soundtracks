@@ -15953,6 +15953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crawlies | 181840 | [181840-crawlies.json](./181840-crawlies.json) |
 | Crawlies Re-Hatched | 418719 | [418719-crawlies-re-hatched.json](./418719-crawlies-re-hatched.json) |
 | Crawling Angels | 374864 | [374864-crawling-angels.json](./374864-crawling-angels.json) |
+| Crawling Lab | 297101 | [297101-crawling-lab.json](./297101-crawling-lab.json) |
 | Crawling of the Dead | 121353 | [121353-crawling-of-the-dead.json](./121353-crawling-of-the-dead.json) |
 | Crawlspace | 179208 | [179208-crawlspace.json](./179208-crawlspace.json) |
 | Crawlspace | 252728 | [252728-crawlspace.json](./252728-crawlspace.json) |
@@ -17043,6 +17044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critical Damage | 24732 | [24732-critical-damage.json](./24732-critical-damage.json) |
 | Critical Depth | 43704 | [43704-critical-depth.json](./43704-critical-depth.json) |
 | Critical Descent | 386548 | [386548-critical-descent.json](./386548-critical-descent.json) |
+| Critical Failure | 297102 | [297102-critical-failure.json](./297102-critical-failure.json) |
 | Critical Failure: No Man's Land | 415977 | [415977-critical-failure-no-mans-land.json](./415977-critical-failure-no-mans-land.json) |
 | Critical Fishing | 293144 | [293144-critical-fishing.json](./293144-critical-fishing.json) |
 | Critical Gravity | 89088 | [89088-critical-gravity.json](./89088-critical-gravity.json) |
@@ -17571,6 +17573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown Clicker | 142145 | [142145-crown-clicker.json](./142145-crown-clicker.json) |
 | Crown Code Chronicles | 294285 | [294285-crown-code-chronicles.json](./294285-crown-code-chronicles.json) |
 | Crown Four Kingdoms | 124506 | [124506-crown-four-kingdoms.json](./124506-crown-four-kingdoms.json) |
+| Crown Jewelz | 297103 | [297103-crown-jewelz.json](./297103-crown-jewelz.json) |
 | Crown Land | 159844 | [159844-crown-land.json](./159844-crown-land.json) |
 | Crown of Arthain | 129812 | [129812-crown-of-arthain.json](./129812-crown-of-arthain.json) |
 | Crown of Ashes and Flames | 319113 | [319113-crown-of-ashes-and-flames.json](./319113-crown-of-ashes-and-flames.json) |
@@ -17787,6 +17790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader Kings III: Legacy of Persia | 243857 | [243857-crusader-kings-iii-legacy-of-persia.json](./243857-crusader-kings-iii-legacy-of-persia.json) |
 | Crusader Kings III: Legends of the Dead | 289167 | [289167-crusader-kings-iii-legends-of-the-dead.json](./289167-crusader-kings-iii-legends-of-the-dead.json) |
 | Crusader Kings III: Northern Lords | 164510 | [164510-crusader-kings-iii-northern-lords.json](./164510-crusader-kings-iii-northern-lords.json) |
+| Crusader Kings III: Roads to Power | 297104 | [297104-crusader-kings-iii-roads-to-power.json](./297104-crusader-kings-iii-roads-to-power.json) |
 | Crusader Kings III: Royal Court | 184511 | [184511-crusader-kings-iii-royal-court.json](./184511-crusader-kings-iii-royal-court.json) |
 | Crusader Kings III: Royal Edition | 188022 | [188022-crusader-kings-iii-royal-edition.json](./188022-crusader-kings-iii-royal-edition.json) |
 | Crusader Kings III: Tours and Tournaments | 240894 | [240894-crusader-kings-iii-tours-and-tournaments.json](./240894-crusader-kings-iii-tours-and-tournaments.json) |
@@ -18787,6 +18791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuckold Sex: Episode 6 | 371062 | [371062-cuckold-sex-episode-6.json](./371062-cuckold-sex-episode-6.json) |
 | Cuckold Sex: Episode 7 | 368525 | [368525-cuckold-sex-episode-7.json](./368525-cuckold-sex-episode-7.json) |
 | Cuckold Simulator | 146562 | [146562-cuckold-simulator.json](./146562-cuckold-simulator.json) |
+| Cuckold's Gym | 297106 | [297106-cuckolds-gym.json](./297106-cuckolds-gym.json) |
 | Cuckoldry Festival: Former Pro Wrestler Mother Trifled by the Huge Dick of her Son's Friend | 98497 | [98497-cuckoldry-festival-former-pro-wrestler-mother-trifled-by-the-huge-dick-of-her-sons-friend.json](./98497-cuckoldry-festival-former-pro-wrestler-mother-trifled-by-the-huge-dick-of-her-sons-friend.json) |
 | Cuckoo Castle | 135241 | [135241-cuckoo-castle.json](./135241-cuckoo-castle.json) |
 | Cuckoo Curling | 173394 | [173394-cuckoo-curling.json](./173394-cuckoo-curling.json) |
@@ -18847,6 +18852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culinary Wizard | 351528 | [351528-culinary-wizard.json](./351528-culinary-wizard.json) |
 | Culino | 174221 | [174221-culino.json](./174221-culino.json) |
 | Cull the Gods | 185487 | [185487-cull-the-gods.json](./185487-cull-the-gods.json) |
+| Culling of Normality | 297105 | [297105-culling-of-normality.json](./297105-culling-of-normality.json) |
 | Culling of the Cows | 52335 | [52335-culling-of-the-cows.json](./52335-culling-of-the-cows.json) |
 | Culot.io | 146486 | [146486-culot-io.json](./146486-culot-io.json) |
 | Cult | 68774 | [68774-cult.json](./68774-cult.json) |
