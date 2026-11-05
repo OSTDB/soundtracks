@@ -2063,6 +2063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaf Blower: City Cleaning Game | 219978 | [219978-leaf-blower-city-cleaning-game.json](./219978-leaf-blower-city-cleaning-game.json) |
 | Leaf Blowing Simulator | 290556 | [290556-leaf-blowing-simulator.json](./290556-leaf-blowing-simulator.json) |
 | Leaf Clicker: Grow Your Green Thumb! | 340908 | [340908-leaf-clicker-grow-your-green-thumb.json](./340908-leaf-clicker-grow-your-green-thumb.json) |
+| Leaf Fragments | 253649 | [253649-leaf-fragments.json](./253649-leaf-fragments.json) |
 | Leaf It Alone | 376206 | [376206-leaf-it-alone.json](./376206-leaf-it-alone.json) |
 | Leaf Me Alone | 168597 | [168597-leaf-me-alone.json](./168597-leaf-me-alone.json) |
 | Leaf Me Alone | 408086 | [408086-leaf-me-alone.json](./408086-leaf-me-alone.json) |
@@ -8748,6 +8749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love You till the End | 280320 | [280320-love-you-till-the-end.json](./280320-love-you-till-the-end.json) |
 | Love You to Pieces | 392914 | [392914-love-you-to-pieces.json](./392914-love-you-to-pieces.json) |
 | Love Yourself | 268343 | [268343-love-yourself.json](./268343-love-yourself.json) |
+| Love Yuri | 253655 | [253655-love-yuri.json](./253655-love-yuri.json) |
 | Love Zombie | 91652 | [91652-love-zombie.json](./91652-love-zombie.json) |
 | Love-Colored Memories | 412974 | [412974-love-colored-memories.json](./412974-love-colored-memories.json) |
 | Love, Aisle & Murder | 422838 | [422838-love-aisle-and-murder.json](./422838-love-aisle-and-murder.json) |
