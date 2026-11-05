@@ -2211,6 +2211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gateway to the Savage Frontier | 12113 | [12113-gateway-to-the-savage-frontier.json](./12113-gateway-to-the-savage-frontier.json) |
 | Gateways | 13662 | [13662-gateways.json](./13662-gateways.json) |
 | Gateworlds | 270155 | [270155-gateworlds.json](./270155-gateworlds.json) |
+| Gather | 247841 | [247841-gather.json](./247841-gather.json) |
 | Gather CCG | 401543 | [401543-gather-ccg.json](./401543-gather-ccg.json) |
 | Gather the Gems! | 100013 | [100013-gather-the-gems.json](./100013-gather-the-gems.json) |
 | Gathera | 405563 | [405563-gathera.json](./405563-gathera.json) |
@@ -10204,6 +10205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Commander | 36097 | [36097-guild-commander.json](./36097-guild-commander.json) |
 | Guild Encounters | 377623 | [377623-guild-encounters.json](./377623-guild-encounters.json) |
 | Guild Hall Adventures | 152803 | [152803-guild-hall-adventures.json](./152803-guild-hall-adventures.json) |
+| Guild Keeper | 247842 | [247842-guild-keeper.json](./247842-guild-keeper.json) |
 | Guild Loot | 120239 | [120239-guild-loot.json](./120239-guild-loot.json) |
 | Guild Master | 293605 | [293605-guild-master.json](./293605-guild-master.json) |
 | Guild Master Manager | 207200 | [207200-guild-master-manager.json](./207200-guild-master-manager.json) |
