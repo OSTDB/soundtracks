@@ -3816,6 +3816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pelagicland | 320177 | [320177-pelagicland.json](./320177-pelagicland.json) |
 | Pelagium Origins | 176633 | [176633-pelagium-origins.json](./176633-pelagium-origins.json) |
 | Pelago | 303984 | [303984-pelago.json](./303984-pelago.json) |
+| Pelagos: A Marine Adventure | 275398 | [275398-pelagos-a-marine-adventure.json](./275398-pelagos-a-marine-adventure.json) |
 | Pelé II: World Tournament Soccer | 4421 | [4421-pele-ii-world-tournament-soccer.json](./4421-pele-ii-world-tournament-soccer.json) |
 | Pelé: Soccer Legend | 234613 | [234613-pele-soccer-legend.json](./234613-pele-soccer-legend.json) |
 | Pelé! | 78098 | [78098-pele.json](./78098-pele.json) |
