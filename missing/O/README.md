@@ -3418,6 +3418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Kolpowitz | 273226 | [273226-operation-kolpowitz.json](./273226-operation-kolpowitz.json) |
 | Operation Kreep | 33418 | [33418-operation-kreep.json](./33418-operation-kreep.json) |
 | Operation Kyiv | 278254 | [278254-operation-kyiv.json](./278254-operation-kyiv.json) |
+| Operation Libra | 287465 | [287465-operation-libra.json](./287465-operation-libra.json) |
 | Operation Logic Bomb | 42653 | [42653-operation-logic-bomb.json](./42653-operation-logic-bomb.json) |
 | Operation Lone Wolf | 107834 | [107834-operation-lone-wolf.json](./107834-operation-lone-wolf.json) |
 | Operation Mania | 72959 | [72959-operation-mania.json](./72959-operation-mania.json) |
