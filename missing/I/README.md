@@ -246,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Frogs 5 | 339681 | [339681-i-commissioned-some-frogs-5.json](./339681-i-commissioned-some-frogs-5.json) |
 | I Commissioned Some Invisible People 0 | 292546 | [292546-i-commissioned-some-invisible-people-0.json](./292546-i-commissioned-some-invisible-people-0.json) |
 | I Commissioned Some Ladybugs | 244079 | [244079-i-commissioned-some-ladybugs.json](./244079-i-commissioned-some-ladybugs.json) |
+| I Commissioned Some Ladybugs 2 | 263850 | [263850-i-commissioned-some-ladybugs-2.json](./263850-i-commissioned-some-ladybugs-2.json) |
 | I Commissioned Some Ladybugs 3 | 287071 | [287071-i-commissioned-some-ladybugs-3.json](./287071-i-commissioned-some-ladybugs-3.json) |
 | I Commissioned Some Ladybugs 4 | 309449 | [309449-i-commissioned-some-ladybugs-4.json](./309449-i-commissioned-some-ladybugs-4.json) |
 | I Commissioned Some Letters | 271017 | [271017-i-commissioned-some-letters.json](./271017-i-commissioned-some-letters.json) |
@@ -3783,6 +3784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
