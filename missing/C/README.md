@@ -1946,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CaptMeow | 385832 | [385832-captmeow.json](./385832-captmeow.json) |
 | Captroon | 213248 | [213248-captroon.json](./213248-captroon.json) |
 | Capture | 104672 | [104672-capture.json](./104672-capture.json) |
+| Capture | 281217 | [281217-capture.json](./281217-capture.json) |
 | Capture | 72369 | [72369-capture.json](./72369-capture.json) |
 | Capture Corps: Archipelago | 217867 | [217867-capture-corps-archipelago.json](./217867-capture-corps-archipelago.json) |
 | Capture Creatures | 195252 | [195252-capture-creatures.json](./195252-capture-creatures.json) |
@@ -7770,6 +7771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou-Kousoku GranDoll | 68898 | [68898-chou-kousoku-grandoll.json](./68898-chou-kousoku-grandoll.json) |
 | Chougoukin Selections | 63946 | [63946-chougoukin-selections.json](./63946-chougoukin-selections.json) |
 | Chouji Meikyuu Legion | 302247 | [302247-chouji-meikyuu-legion.json](./302247-chouji-meikyuu-legion.json) |
+| Choujikuu Yousai Macross | 281161 | [281161-choujikuu-yousai-macross.json](./281161-choujikuu-yousai-macross.json) |
 | Choujikuu Yousai Macross | 39948 | [39948-choujikuu-yousai-macross.json](./39948-choujikuu-yousai-macross.json) |
 | Choujikuu Yousai Macross | 48673 | [48673-choujikuu-yousai-macross.json](./48673-choujikuu-yousai-macross.json) |
 | Choujikuu Yousai Macross | 66470 | [66470-choujikuu-yousai-macross.json](./66470-choujikuu-yousai-macross.json) |
@@ -8707,6 +8709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circus | 12944 | [12944-circus.json](./12944-circus.json) |
 | Circus | 206349 | [206349-circus.json](./206349-circus.json) |
 | Circus | 24690 | [24690-circus.json](./24690-circus.json) |
+| Circus | 281216 | [281216-circus.json](./281216-circus.json) |
 | Circus Atari | 78374 | [78374-circus-atari.json](./78374-circus-atari.json) |
 | Circus Attractions | 12003 | [12003-circus-attractions.json](./12003-circus-attractions.json) |
 | Circus Baby's Diner | 194384 | [194384-circus-babys-diner.json](./194384-circus-babys-diner.json) |
@@ -12203,6 +12206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comatose | 369778 | [369778-comatose.json](./369778-comatose.json) |
 | Comb Rider | 362415 | [362415-comb-rider.json](./362415-comb-rider.json) |
 | Combat | 131545 | [131545-combat.json](./131545-combat.json) |
+| Combat | 281214 | [281214-combat.json](./281214-combat.json) |
 | Combat | 300791 | [300791-combat.json](./300791-combat.json) |
 | Combat 3 | 309974 | [309974-combat-3.json](./309974-combat-3.json) |
 | Combat 3D | 295959 | [295959-combat-3d.json](./295959-combat-3d.json) |
@@ -16209,6 +16213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Click Thursday | 219746 | [219746-crazy-click-thursday.json](./219746-crazy-click-thursday.json) |
 | Crazy Climber | 218249 | [218249-crazy-climber.json](./218249-crazy-climber.json) |
 | Crazy Climber | 218251 | [218251-crazy-climber.json](./218251-crazy-climber.json) |
+| Crazy Climber | 281166 | [281166-crazy-climber.json](./281166-crazy-climber.json) |
 | Crazy Climber | 307266 | [307266-crazy-climber.json](./307266-crazy-climber.json) |
 | Crazy Climber | 347695 | [347695-crazy-climber.json](./347695-crazy-climber.json) |
 | Crazy Climber | 4611 | [4611-crazy-climber.json](./4611-crazy-climber.json) |
