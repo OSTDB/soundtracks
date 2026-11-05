@@ -1589,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Future: Blood Red States | 35251 | [35251-dark-future-blood-red-states.json](./35251-dark-future-blood-red-states.json) |
 | Dark Gates | 36166 | [36166-dark-gates.json](./36166-dark-gates.json) |
 | Dark Gaze: Curse of the Black Nazar | 279853 | [279853-dark-gaze-curse-of-the-black-nazar.json](./279853-dark-gaze-curse-of-the-black-nazar.json) |
+| Dark Gem Tower Defense | 274784 | [274784-dark-gem-tower-defense.json](./274784-dark-gem-tower-defense.json) |
 | Dark Ghost RPG | 96879 | [96879-dark-ghost-rpg.json](./96879-dark-ghost-rpg.json) |
 | Dark Gnome | 115946 | [115946-dark-gnome.json](./115946-dark-gnome.json) |
 | Dark Goddess of Destruction | 339364 | [339364-dark-goddess-of-destruction.json](./339364-dark-goddess-of-destruction.json) |
@@ -15014,6 +15015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonea | 326064 | [326064-dragonea.json](./326064-dragonea.json) |
 | Dragoneer's Aria | 24279 | [24279-dragoneers-aria.json](./24279-dragoneers-aria.json) |
 | Dragoneila | 145301 | [145301-dragoneila.json](./145301-dragoneila.json) |
+| Dragonero | 274779 | [274779-dragonero.json](./274779-dragonero.json) |
 | DragonFable | 92725 | [92725-dragonfable.json](./92725-dragonfable.json) |
 | Dragonfall | 296937 | [296937-dragonfall.json](./296937-dragonfall.json) |
 | Dragonfang - Drahn's Mystery Dungeon | 129006 | [129006-dragonfang-drahns-mystery-dungeon.json](./129006-dragonfang-drahns-mystery-dungeon.json) |
