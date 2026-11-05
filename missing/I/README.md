@@ -1173,6 +1173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ICode Stem Universe | 265154 | [265154-icode-stem-universe.json](./265154-icode-stem-universe.json) |
 | Icomania | 254358 | [254358-icomania.json](./254358-icomania.json) |
 | Icon | 399909 | [399909-icon.json](./399909-icon.json) |
+| Icon Pop Quiz | 269351 | [269351-icon-pop-quiz.json](./269351-icon-pop-quiz.json) |
 | Icon Tower Defense | 333384 | [333384-icon-tower-defense.json](./333384-icon-tower-defense.json) |
 | Icon_Survive | 340520 | [340520-icon-survive.json](./340520-icon-survive.json) |
 | Icon: Quest for the Ring | 26146 | [26146-icon-quest-for-the-ring.json](./26146-icon-quest-for-the-ring.json) |
@@ -6662,6 +6663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iwaihime | 15930 | [15930-iwaihime.json](./15930-iwaihime.json) |
 | Iwaihime: Extra Chapter - Musubihime | 168844 | [168844-iwaihime-extra-chapter-musubihime.json](./168844-iwaihime-extra-chapter-musubihime.json) |
 | Iwakutsugi | 356266 | [356266-iwakutsugi.json](./356266-iwakutsugi.json) |
+| iWarehouse: World Tour | 269346 | [269346-iwarehouse-world-tour.json](./269346-iwarehouse-world-tour.json) |
 | Iwatobi Penguin Rocky x Hopper | 185677 | [185677-iwatobi-penguin-rocky-x-hopper.json](./185677-iwatobi-penguin-rocky-x-hopper.json) |
 | Iwatobi Penguin Rocky x Hopper 2: Tantei Monogatari | 185678 | [185678-iwatobi-penguin-rocky-x-hopper-2-tantei-monogatari.json](./185678-iwatobi-penguin-rocky-x-hopper-2-tantei-monogatari.json) |
 | IWL: Interstellar Wrestling League | 363912 | [363912-iwl-interstellar-wrestling-league.json](./363912-iwl-interstellar-wrestling-league.json) |
