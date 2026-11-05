@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baba Is You: Baba Make Level | 334743 | [334743-baba-is-you-baba-make-level.json](./334743-baba-is-you-baba-make-level.json) |
 | Baba Is You: Jam Build | 383476 | [383476-baba-is-you-jam-build.json](./383476-baba-is-you-jam-build.json) |
 | Baba Yaga | 185857 | [185857-baba-yaga.json](./185857-baba-yaga.json) |
+| Baba Yaga | 297679 | [297679-baba-yaga.json](./297679-baba-yaga.json) |
 | Baba Yaga | 297990 | [297990-baba-yaga.json](./297990-baba-yaga.json) |
 | Baba Yaga | 330347 | [330347-baba-yaga.json](./330347-baba-yaga.json) |
 | Baba Yaga | 367181 | [367181-baba-yaga.json](./367181-baba-yaga.json) |
@@ -946,6 +947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -8179,6 +8181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birdcage | 338241 | [338241-birdcage.json](./338241-birdcage.json) |
 | Birdcage | 369520 | [369520-birdcage.json](./369520-birdcage.json) |
 | Birdcage (Oda al Pájaro) | 325262 | [325262-birdcage-oda-al-pajaro.json](./325262-birdcage-oda-al-pajaro.json) |
+| Birdcage Yard | 297695 | [297695-birdcage-yard.json](./297695-birdcage-yard.json) |
 | Birdfight | 303371 | [303371-birdfight.json](./303371-birdfight.json) |
 | Birdfull | 333567 | [333567-birdfull.json](./333567-birdfull.json) |
 | BirdGut | 117873 | [117873-birdgut.json](./117873-birdgut.json) |
@@ -10187,6 +10190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Hole | 40029 | [40029-block-hole.json](./40029-block-hole.json) |
 | Block Hopper | 283388 | [283388-block-hopper.json](./283388-block-hopper.json) |
 | Block In | 390148 | [390148-block-in.json](./390148-block-in.json) |
+| Block in the Lock | 297690 | [297690-block-in-the-lock.json](./297690-block-in-the-lock.json) |
 | Block it | 348714 | [348714-block-it.json](./348714-block-it.json) |
 | Block Jam | 323702 | [323702-block-jam.json](./323702-block-jam.json) |
 | Block Jam: Cute Edition | 332516 | [332516-block-jam-cute-edition.json](./332516-block-jam-cute-edition.json) |
@@ -16709,6 +16713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Looper | 180051 | [180051-bullet-looper.json](./180051-bullet-looper.json) |
 | Bullet Maniac | 237629 | [237629-bullet-maniac.json](./237629-bullet-maniac.json) |
 | Bullet Mark | 171851 | [171851-bullet-mark.json](./171851-bullet-mark.json) |
+| Bullet Master | 297676 | [297676-bullet-master.json](./297676-bullet-master.json) |
 | Bullet Noir | 317536 | [317536-bullet-noir.json](./317536-bullet-noir.json) |
 | Bullet Ouroboros | 391646 | [391646-bullet-ouroboros.json](./391646-bullet-ouroboros.json) |
 | Bullet Party | 43075 | [43075-bullet-party.json](./43075-bullet-party.json) |
