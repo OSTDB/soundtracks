@@ -748,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paintball War | 93965 | [93965-paintball-war.json](./93965-paintball-war.json) |
 | PaintBall War 2 | 154464 | [154464-paintball-war-2.json](./154464-paintball-war-2.json) |
 | Paintball with Friends | 195940 | [195940-paintball-with-friends.json](./195940-paintball-with-friends.json) |
+| Paintball: The Puzzle Game | 294347 | [294347-paintball-the-puzzle-game.json](./294347-paintball-the-puzzle-game.json) |
 | Paintballers: MLPB 2024 | 295344 | [295344-paintballers-mlpb-2024.json](./295344-paintballers-mlpb-2024.json) |
 | PaintballX | 172928 | [172928-paintballx.json](./172928-paintballx.json) |
 | Paintboss - Car Painting VR | 75909 | [75909-paintboss-car-painting-vr.json](./75909-paintboss-car-painting-vr.json) |
@@ -2785,6 +2786,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patapon Remastered | 26233 | [26233-patapon-remastered.json](./26233-patapon-remastered.json) |
 | Patapon Replay | 352488 | [352488-patapon-replay.json](./352488-patapon-replay.json) |
 | Patapon: Band Camp | 61092 | [61092-patapon-band-camp.json](./61092-patapon-band-camp.json) |
+| Patati Patatá: Laptop da Folia | 294487 | [294487-patati-patata-laptop-da-folia.json](./294487-patati-patata-laptop-da-folia.json) |
+| Patati Patatá: Laptop Infantil | 294485 | [294485-patati-patata-laptop-infantil.json](./294485-patati-patata-laptop-infantil.json) |
 | Patch | 391686 | [391686-patch.json](./391686-patch.json) |
 | Patch Catch | 256196 | [256196-patch-catch.json](./256196-patch-catch.json) |
 | Patch Quest | 141561 | [141561-patch-quest.json](./141561-patch-quest.json) |
@@ -4129,6 +4132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peppa Pig: Laptop Infantil | 297771 | [297771-peppa-pig-laptop-infantil.json](./297771-peppa-pig-laptop-infantil.json) |
 | Peppa Pig: Read and Play with Peppa | 274683 | [274683-peppa-pig-read-and-play-with-peppa.json](./274683-peppa-pig-read-and-play-with-peppa.json) |
 | Peppa Pig: Seasons | 86879 | [86879-peppa-pig-seasons.json](./86879-peppa-pig-seasons.json) |
+| Peppa Pig: Super Laptop | 294477 | [294477-peppa-pig-super-laptop.json](./294477-peppa-pig-super-laptop.json) |
 | Peppa Pig: The Game | 256219 | [256219-peppa-pig-the-game.json](./256219-peppa-pig-the-game.json) |
 | Peppa Pig: The Game | 50710 | [50710-peppa-pig-the-game.json](./50710-peppa-pig-the-game.json) |
 | Peppa Pig: The New House | 116405 | [116405-peppa-pig-the-new-house.json](./116405-peppa-pig-the-new-house.json) |
@@ -8699,6 +8703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizzicato Polka: Ensa Genya | 108833 | [108833-pizzicato-polka-ensa-genya.json](./108833-pizzicato-polka-ensa-genya.json) |
 | PJ Masks Power Heroes: Mighty Alliance | 282048 | [282048-pj-masks-power-heroes-mighty-alliance.json](./282048-pj-masks-power-heroes-mighty-alliance.json) |
 | PJ Masks Rush: Kart Racing | 105826 | [105826-pj-masks-rush-kart-racing.json](./105826-pj-masks-rush-kart-racing.json) |
+| PJ Masks: Hero Tech | 294478 | [294478-pj-masks-hero-tech.json](./294478-pj-masks-hero-tech.json) |
 | Pj Masks: Heroes of the Night | 148527 | [148527-pj-masks-heroes-of-the-night.json](./148527-pj-masks-heroes-of-the-night.json) |
 | PJ Masks: Heroes of the Night - Complete Edition | 214727 | [214727-pj-masks-heroes-of-the-night-complete-edition.json](./214727-pj-masks-heroes-of-the-night-complete-edition.json) |
 | PJ Masks: Heroes of the Night - Mischief on Mystery Mountain | 195772 | [195772-pj-masks-heroes-of-the-night-mischief-on-mystery-mountain.json](./195772-pj-masks-heroes-of-the-night-mischief-on-mystery-mountain.json) |
