@@ -493,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiketsu! Ultra Hero | 49799 | [49799-taiketsu-ultra-hero.json](./49799-taiketsu-ultra-hero.json) |
 | Taiko Drum Master | 37148 | [37148-taiko-drum-master.json](./37148-taiko-drum-master.json) |
 | Taiko Frenzy | 276824 | [276824-taiko-frenzy.json](./276824-taiko-frenzy.json) |
+| Taiko Frenzy: Mixed Reality Update | 279402 | [279402-taiko-frenzy-mixed-reality-update.json](./279402-taiko-frenzy-mixed-reality-update.json) |
 | Taiko no Tatsujin | 412075 | [412075-taiko-no-tatsujin.json](./412075-taiko-no-tatsujin.json) |
 | Taiko no Tatsujin 10 | 276420 | [276420-taiko-no-tatsujin-10.json](./276420-taiko-no-tatsujin-10.json) |
 | Taiko no Tatsujin 11 | 276422 | [276422-taiko-no-tatsujin-11.json](./276422-taiko-no-tatsujin-11.json) |
@@ -4337,6 +4338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra | 295236 | [295236-terra.json](./295236-terra.json) |
 | Terra Alia | 127597 | [127597-terra-alia.json](./127597-terra-alia.json) |
 | Terra Alia | 279404 | [279404-terra-alia.json](./279404-terra-alia.json) |
+| Terra Alia: Multiplayer | 279405 | [279405-terra-alia-multiplayer.json](./279405-terra-alia-multiplayer.json) |
 | Terra Atlantis | 152663 | [152663-terra-atlantis.json](./152663-terra-atlantis.json) |
 | Terra Avoider | 278508 | [278508-terra-avoider.json](./278508-terra-avoider.json) |
 | Terra Battle | 20060 | [20060-terra-battle.json](./20060-terra-battle.json) |
@@ -8838,6 +8840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Even More Incredible Machine | 70233 | [70233-the-even-more-incredible-machine.json](./70233-the-even-more-incredible-machine.json) |
 | The Event | 253479 | [253479-the-event.json](./253479-the-event.json) |
 | The Eventide | 411687 | [411687-the-eventide.json](./411687-the-eventide.json) |
+| The Events at Unity Farm: Magic & Melee | 279391 | [279391-the-events-at-unity-farm-magic-and-melee.json](./279391-the-events-at-unity-farm-magic-and-melee.json) |
 | The Ever-Beginning Tale | 171981 | [171981-the-ever-beginning-tale.json](./171981-the-ever-beginning-tale.json) |
 | The ever-changing case of the unpaid rent | 182689 | [182689-the-ever-changing-case-of-the-unpaid-rent.json](./182689-the-ever-changing-case-of-the-unpaid-rent.json) |
 | The Ever-Changing Jianghu | 280080 | [280080-the-ever-changing-jianghu.json](./280080-the-ever-changing-jianghu.json) |
@@ -22732,6 +22735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Arcade Racers | 201241 | [201241-tiny-arcade-racers.json](./201241-tiny-arcade-racers.json) |
 | Tiny Arcade Tetris | 234083 | [234083-tiny-arcade-tetris.json](./234083-tiny-arcade-tetris.json) |
 | Tiny Archers | 58105 | [58105-tiny-archers.json](./58105-tiny-archers.json) |
+| Tiny Archers: Adam’s Tale | 279399 | [279399-tiny-archers-adam-s-tale.json](./279399-tiny-archers-adam-s-tale.json) |
 | Tiny Arctic Hero | 379160 | [379160-tiny-arctic-hero.json](./379160-tiny-arctic-hero.json) |
 | Tiny Atolls | 230529 | [230529-tiny-atolls.json](./230529-tiny-atolls.json) |
 | Tiny Auto Knights | 338131 | [338131-tiny-auto-knights.json](./338131-tiny-auto-knights.json) |
