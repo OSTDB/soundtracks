@@ -930,6 +930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CalorieMate Liquid for Game Creators | 316719 | [316719-caloriemate-liquid-for-game-creators.json](./316719-caloriemate-liquid-for-game-creators.json) |
 | Calpria | 416686 | [416686-calpria.json](./416686-calpria.json) |
 | CalQ | 61569 | [61569-calq.json](./61569-calq.json) |
+| Calrivar Cluster | 286308 | [286308-calrivar-cluster.json](./286308-calrivar-cluster.json) |
 | Caltron 6-in-1 | 81250 | [81250-caltron-6-in-1.json](./81250-caltron-6-in-1.json) |
 | Calturin | 146624 | [146624-calturin.json](./146624-calturin.json) |
 | Calturin and Clone | 148883 | [148883-calturin-and-clone.json](./148883-calturin-and-clone.json) |
@@ -11215,6 +11216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coins Invaders | 188936 | [188936-coins-invaders.json](./188936-coins-invaders.json) |
 | Coins Muncher | 196610 | [196610-coins-muncher.json](./196610-coins-muncher.json) |
 | Coins Only! | 373113 | [373113-coins-only.json](./373113-coins-only.json) |
+| Coins, Crown & Cabal | 286342 | [286342-coins-crown-and-cabal.json](./286342-coins-crown-and-cabal.json) |
 | Coinsweeper | 385932 | [385932-coinsweeper.json](./385932-coinsweeper.json) |
 | Coiny Block | 98441 | [98441-coiny-block.json](./98441-coiny-block.json) |
 | Coke | 274842 | [274842-coke.json](./274842-coke.json) |
@@ -16568,6 +16570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creature Resort | 136985 | [136985-creature-resort.json](./136985-creature-resort.json) |
 | Creature Romances: Kokonoe Kokoro | 89726 | [89726-creature-romances-kokonoe-kokoro.json](./89726-creature-romances-kokonoe-kokoro.json) |
 | Creature Rumble | 260547 | [260547-creature-rumble.json](./260547-creature-rumble.json) |
+| Creature Summon: Showdown Moment | 286341 | [286341-creature-summon-showdown-moment.json](./286341-creature-summon-showdown-moment.json) |
 | Creature Venture | 24846 | [24846-creature-venture.json](./24846-creature-venture.json) |
 | Creaturemin | 313355 | [313355-creaturemin.json](./313355-creaturemin.json) |
 | Creatures | 11370 | [11370-creatures.json](./11370-creatures.json) |
