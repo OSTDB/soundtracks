@@ -1577,6 +1577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicbook AutoBattler: Contract | 337377 | [337377-magicbook-autobattler-contract.json](./337377-magicbook-autobattler-contract.json) |
 | MagicCar of Delicious | 297137 | [297137-magiccar-of-delicious.json](./297137-magiccar-of-delicious.json) |
 | MagicCraft | 224409 | [224409-magiccraft.json](./224409-magiccraft.json) |
+| MagicGirls Shooting!! | 285808 | [285808-magicgirls-shooting.json](./285808-magicgirls-shooting.json) |
 | Magichess | 424610 | [424610-magichess.json](./424610-magichess.json) |
 | Magician | 319093 | [319093-magician.json](./319093-magician.json) |
 | Magician | 397291 | [397291-magician.json](./397291-magician.json) |
@@ -4115,6 +4116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marisa and Alice's Trap Tower Remake | 63064 | [63064-marisa-and-alices-trap-tower-remake.json](./63064-marisa-and-alices-trap-tower-remake.json) |
 | Marisa Matrix | 227906 | [227906-marisa-matrix.json](./227906-marisa-matrix.json) |
 | Marisa no Kagi | 216288 | [216288-marisa-no-kagi.json](./216288-marisa-no-kagi.json) |
+| Marisa of Liartop Mountain | 285806 | [285806-marisa-of-liartop-mountain.json](./285806-marisa-of-liartop-mountain.json) |
 | Marisa of Liartop Mountain: Digital Deluxe Edition | 366784 | [366784-marisa-of-liartop-mountain-digital-deluxe-edition.json](./366784-marisa-of-liartop-mountain-digital-deluxe-edition.json) |
 | Marisa to 6tsu no Kinoko: New Super Marisa Land | 94145 | [94145-marisa-to-6tsu-no-kinoko-new-super-marisa-land.json](./94145-marisa-to-6tsu-no-kinoko-new-super-marisa-land.json) |
 | Marisa! Return The Book! | 371017 | [371017-marisa-return-the-book.json](./371017-marisa-return-the-book.json) |
@@ -8927,6 +8929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meowmentum | 312984 | [312984-meowmentum.json](./312984-meowmentum.json) |
 | Meowmewbug | 370151 | [370151-meowmewbug.json](./370151-meowmewbug.json) |
 | Meowmories | 406918 | [406918-meowmories.json](./406918-meowmories.json) |
+| Meowmunitions | 285812 | [285812-meowmunitions.json](./285812-meowmunitions.json) |
 | Meown | 348265 | [348265-meown.json](./348265-meown.json) |
 | Meowniverse | 391584 | [391584-meowniverse.json](./391584-meowniverse.json) |
 | Meowoof | 207854 | [207854-meowoof.json](./207854-meowoof.json) |
@@ -9739,6 +9742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metawork: Hotel Simulator | 243395 | [243395-metawork-hotel-simulator.json](./243395-metawork-hotel-simulator.json) |
 | MetaWorld | 31841 | [31841-metaworld.json](./31841-metaworld.json) |
 | Metaxia | 402425 | [402425-metaxia.json](./402425-metaxia.json) |
+| MetaZoo: Cryptid Clash | 285819 | [285819-metazoo-cryptid-clash.json](./285819-metazoo-cryptid-clash.json) |
 | Metazooa | 280703 | [280703-metazooa.json](./280703-metazooa.json) |
 | Metele Al Ordenata | 228548 | [228548-metele-al-ordenata.json](./228548-metele-al-ordenata.json) |
 | Metempsychosis | 104052 | [104052-metempsychosis.json](./104052-metempsychosis.json) |
