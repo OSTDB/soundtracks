@@ -4748,6 +4748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lighthouse | 267450 | [267450-lighthouse.json](./267450-lighthouse.json) |
 | Lighthouse | 270715 | [270715-lighthouse.json](./270715-lighthouse.json) |
 | Lighthouse | 412772 | [412772-lighthouse.json](./412772-lighthouse.json) |
+| Lighthouse Island | 270364 | [270364-lighthouse-island.json](./270364-lighthouse-island.json) |
 | Lighthouse Keeper | 143472 | [143472-lighthouse-keeper.json](./143472-lighthouse-keeper.json) |
 | Lighthouse of Better Days | 185386 | [185386-lighthouse-of-better-days.json](./185386-lighthouse-of-better-days.json) |
 | Lighthouse of Guiding Flames | 120933 | [120933-lighthouse-of-guiding-flames.json](./120933-lighthouse-of-guiding-flames.json) |
@@ -6210,6 +6211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Littlest Pet Shop | 4975 | [4975-littlest-pet-shop.json](./4975-littlest-pet-shop.json) |
 | Littlest Pet Shop 3: Biggest Stars - Pink Team | 122206 | [122206-littlest-pet-shop-3-biggest-stars-pink-team.json](./122206-littlest-pet-shop-3-biggest-stars-pink-team.json) |
 | Littlest Pet Shop 3: Biggest Stars - Purple Team | 122205 | [122205-littlest-pet-shop-3-biggest-stars-purple-team.json](./122205-littlest-pet-shop-3-biggest-stars-purple-team.json) |
+| Littlest Pet Shop Digital Pets | 270440 | [270440-littlest-pet-shop-digital-pets.json](./270440-littlest-pet-shop-digital-pets.json) |
 | Littlest Pet Shop Online | 91432 | [91432-littlest-pet-shop-online.json](./91432-littlest-pet-shop-online.json) |
 | Littlest Pet Shop: Biggest Adventure | 254485 | [254485-littlest-pet-shop-biggest-adventure.json](./254485-littlest-pet-shop-biggest-adventure.json) |
 | Littlest Pet Shop: City Friends | 48022 | [48022-littlest-pet-shop-city-friends.json](./48022-littlest-pet-shop-city-friends.json) |
@@ -6905,6 +6907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lolita 2 | 66128 | [66128-lolita-2.json](./66128-lolita-2.json) |
 | Lolita Errand 2 | 83331 | [83331-lolita-errand-2.json](./83331-lolita-errand-2.json) |
 | Lolita Expedition | 370885 | [370885-lolita-expedition.json](./370885-lolita-expedition.json) |
+| Lolita of Labyrinth | 270445 | [270445-lolita-of-labyrinth.json](./270445-lolita-of-labyrinth.json) |
 | Lollihop | 277811 | [277811-lollihop.json](./277811-lollihop.json) |
 | Lollipop | 198329 | [198329-lollipop.json](./198329-lollipop.json) |
 | Lollipop Chainsaw | 1284 | [1284-lollipop-chainsaw.json](./1284-lollipop-chainsaw.json) |
