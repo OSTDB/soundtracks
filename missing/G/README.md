@@ -889,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Killer | 287513 | [287513-galaxy-killer.json](./287513-galaxy-killer.json) |
 | Galaxy Kingdoms | 236214 | [236214-galaxy-kingdoms.json](./236214-galaxy-kingdoms.json) |
 | Galaxy Legend | 323136 | [323136-galaxy-legend.json](./323136-galaxy-legend.json) |
+| Galaxy Legion: Apotheosis | 296569 | [296569-galaxy-legion-apotheosis.json](./296569-galaxy-legion-apotheosis.json) |
 | Galaxy Life | 201559 | [201559-galaxy-life.json](./201559-galaxy-life.json) |
 | Galaxy Life | 324894 | [324894-galaxy-life.json](./324894-galaxy-life.json) |
 | Galaxy Mania | 309029 | [309029-galaxy-mania.json](./309029-galaxy-mania.json) |
