@@ -8083,6 +8083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Ultimate: Christmas 3 | 192139 | [192139-pixel-puzzles-ultimate-christmas-3.json](./192139-pixel-puzzles-ultimate-christmas-3.json) |
 | Pixel Puzzles Ultimate: Colorful 2 | 357885 | [357885-pixel-puzzles-ultimate-colorful-2.json](./357885-pixel-puzzles-ultimate-colorful-2.json) |
 | Pixel Puzzles Ultimate: Coral Reef | 162196 | [162196-pixel-puzzles-ultimate-coral-reef.json](./162196-pixel-puzzles-ultimate-coral-reef.json) |
+| Pixel Puzzles Ultimate: Custom Cars | 293429 | [293429-pixel-puzzles-ultimate-custom-cars.json](./293429-pixel-puzzles-ultimate-custom-cars.json) |
 | Pixel Puzzles Ultimate: Cyberpunk | 162139 | [162139-pixel-puzzles-ultimate-cyberpunk.json](./162139-pixel-puzzles-ultimate-cyberpunk.json) |
 | Pixel Puzzles Ultimate: Da Vinci | 162164 | [162164-pixel-puzzles-ultimate-da-vinci.json](./162164-pixel-puzzles-ultimate-da-vinci.json) |
 | Pixel Puzzles Ultimate: Desserts | 162117 | [162117-pixel-puzzles-ultimate-desserts.json](./162117-pixel-puzzles-ultimate-desserts.json) |
@@ -10284,6 +10285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogo Postman | 183463 | [183463-pogo-postman.json](./183463-pogo-postman.json) |
 | Pogo Quest | 391093 | [391093-pogo-quest.json](./391093-pogo-quest.json) |
 | Pogo Rage: The Awakening | 220649 | [220649-pogo-rage-the-awakening.json](./220649-pogo-rage-the-awakening.json) |
+| Pogo Rogue | 293565 | [293565-pogo-rogue.json](./293565-pogo-rogue.json) |
 | Pogo Stadium | 348525 | [348525-pogo-stadium.json](./348525-pogo-stadium.json) |
 | Pogo Stick Champion | 305567 | [305567-pogo-stick-champion.json](./305567-pogo-stick-champion.json) |
 | Pogo Stick: Ultimate Challenge | 342918 | [342918-pogo-stick-ultimate-challenge.json](./342918-pogo-stick-ultimate-challenge.json) |
@@ -18065,6 +18067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle: Lines and Knots - Levels Pack 1 | 163436 | [163436-puzzle-lines-and-knots-levels-pack-1.json](./163436-puzzle-lines-and-knots-levels-pack-1.json) |
 | Puzzle: Lines and Knots - Levels Pack 2 | 163437 | [163437-puzzle-lines-and-knots-levels-pack-2.json](./163437-puzzle-lines-and-knots-levels-pack-2.json) |
 | Puzzle: Lines and Knots - Levels Pack 3 | 163438 | [163438-puzzle-lines-and-knots-levels-pack-3.json](./163438-puzzle-lines-and-knots-levels-pack-3.json) |
+| Puzzle: Lines and Knots 2 | 293427 | [293427-puzzle-lines-and-knots-2.json](./293427-puzzle-lines-and-knots-2.json) |
 | Puzzle: Lines and Knots 2 - Free Levels Pack | 293426 | [293426-puzzle-lines-and-knots-2-free-levels-pack.json](./293426-puzzle-lines-and-knots-2-free-levels-pack.json) |
 | Puzzle: Nature | 195418 | [195418-puzzle-nature.json](./195418-puzzle-nature.json) |
 | Puzzle: Nature 2 | 213980 | [213980-puzzle-nature-2.json](./213980-puzzle-nature-2.json) |
