@@ -2555,6 +2555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards of Binokee | 207351 | [207351-cards-of-binokee.json](./207351-cards-of-binokee.json) |
 | Cards of Calling | 422144 | [422144-cards-of-calling.json](./422144-cards-of-calling.json) |
 | Cards of Chaos | 31624 | [31624-cards-of-chaos.json](./31624-cards-of-chaos.json) |
+| Cards of Clotho | 275964 | [275964-cards-of-clotho.json](./275964-cards-of-clotho.json) |
 | Cards of Cthulhu | 31146 | [31146-cards-of-cthulhu.json](./31146-cards-of-cthulhu.json) |
 | Cards of Curse | 97997 | [97997-cards-of-curse.json](./97997-cards-of-curse.json) |
 | Cards of Destiny | 264064 | [264064-cards-of-destiny.json](./264064-cards-of-destiny.json) |
@@ -8204,6 +8205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Ark: High Roller | 314900 | [314900-chrono-ark-high-roller.json](./314900-chrono-ark-high-roller.json) |
 | Chrono Ark: Summer Twilight | 310011 | [310011-chrono-ark-summer-twilight.json](./310011-chrono-ark-summer-twilight.json) |
 | Chrono Belt: Ayakashibito & Bullet Butlers Crossover Disc | 259484 | [259484-chrono-belt-ayakashibito-and-bullet-butlers-crossover-disc.json](./259484-chrono-belt-ayakashibito-and-bullet-butlers-crossover-disc.json) |
+| Chrono Bullet | 275974 | [275974-chrono-bullet.json](./275974-chrono-bullet.json) |
 | Chrono CCG | 381788 | [381788-chrono-ccg.json](./381788-chrono-ccg.json) |
 | Chrono Circle | 216287 | [216287-chrono-circle.json](./216287-chrono-circle.json) |
 | Chrono Clash: Fantasy Tactics | 114911 | [114911-chrono-clash-fantasy-tactics.json](./114911-chrono-clash-fantasy-tactics.json) |
@@ -16964,6 +16966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminal Archives: Murder in the Pages DLC | 294990 | [294990-criminal-archives-murder-in-the-pages-dlc.json](./294990-criminal-archives-murder-in-the-pages-dlc.json) |
 | Criminal Archives: Symphony of Death - Collector's Edition | 416772 | [416772-criminal-archives-symphony-of-death-collectors-edition.json](./416772-criminal-archives-symphony-of-death-collectors-edition.json) |
 | Criminal Attraction | 296673 | [296673-criminal-attraction.json](./296673-criminal-attraction.json) |
+| Criminal Behavior | 275945 | [275945-criminal-behavior.json](./275945-criminal-behavior.json) |
 | Criminal Bundle | 81971 | [81971-criminal-bundle.json](./81971-criminal-bundle.json) |
 | Criminal Case | 19328 | [19328-criminal-case.json](./19328-criminal-case.json) |
 | Criminal Case: Mysteries | 262385 | [262385-criminal-case-mysteries.json](./262385-criminal-case-mysteries.json) |
@@ -17121,6 +17124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis on the Planet of the Apes VR | 89552 | [89552-crisis-on-the-planet-of-the-apes-vr.json](./89552-crisis-on-the-planet-of-the-apes-vr.json) |
 | Crisis Point: Extinction | 140581 | [140581-crisis-point-extinction.json](./140581-crisis-point-extinction.json) |
 | Crisis Survivor | 244222 | [244222-crisis-survivor.json](./244222-crisis-survivor.json) |
+| Crisis Survivors | 275971 | [275971-crisis-survivors.json](./275971-crisis-survivors.json) |
 | Crisis Team: Ambulance Driver | 73703 | [73703-crisis-team-ambulance-driver.json](./73703-crisis-team-ambulance-driver.json) |
 | Crisis Theory | 144243 | [144243-crisis-theory.json](./144243-crisis-theory.json) |
 | Crisis VRigade 2 | 127862 | [127862-crisis-vrigade-2.json](./127862-crisis-vrigade-2.json) |
@@ -19156,6 +19160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cure Mate Club | 63875 | [63875-cure-mate-club.json](./63875-cure-mate-club.json) |
 | Cure Obsession | 168525 | [168525-cure-obsession.json](./168525-cure-obsession.json) |
 | Cure: A Hospital Simulator | 376110 | [376110-cure-a-hospital-simulator.json](./376110-cure-a-hospital-simulator.json) |
+| Cureocity | 275979 | [275979-cureocity.json](./275979-cureocity.json) |
 | Curfew | 259148 | [259148-curfew.json](./259148-curfew.json) |
 | Curfuffles | 255036 | [255036-curfuffles.json](./255036-curfuffles.json) |
 | Curilemu | 305090 | [305090-curilemu.json](./305090-curilemu.json) |
