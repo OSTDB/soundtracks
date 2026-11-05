@@ -1663,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egress Protocol | 327940 | [327940-egress-protocol.json](./327940-egress-protocol.json) |
 | Egress Protocol | 375856 | [375856-egress-protocol.json](./375856-egress-protocol.json) |
 | Egression | 201460 | [201460-egression.json](./201460-egression.json) |
+| Egression: The Lobby Runaround | 279406 | [279406-egression-the-lobby-runaround.json](./279406-egression-the-lobby-runaround.json) |
 | Egret II Mini: Arcade Memories Vol. I | 229835 | [229835-egret-ii-mini-arcade-memories-vol-i.json](./229835-egret-ii-mini-arcade-memories-vol-i.json) |
 | Egret II Mini: Arcade Memories Vol. II | 265645 | [265645-egret-ii-mini-arcade-memories-vol-ii.json](./265645-egret-ii-mini-arcade-memories-vol-ii.json) |
 | Egria: Guardian Sword II | 65726 | [65726-egria-guardian-sword-ii.json](./65726-egria-guardian-sword-ii.json) |
