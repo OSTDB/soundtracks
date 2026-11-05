@@ -3148,6 +3148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms Beyond: Ashes of the Fallen | 112086 | [112086-realms-beyond-ashes-of-the-fallen.json](./112086-realms-beyond-ashes-of-the-fallen.json) |
 | Realms Edge | 368568 | [368568-realms-edge.json](./368568-realms-edge.json) |
 | Realms Forgotten | 356161 | [356161-realms-forgotten.json](./356161-realms-forgotten.json) |
+| Realms of Age | 266586 | [266586-realms-of-age.json](./266586-realms-of-age.json) |
 | Realms of Alterra | 301275 | [301275-realms-of-alterra.json](./301275-realms-of-alterra.json) |
 | Realms of Alurya | 272333 | [272333-realms-of-alurya.json](./272333-realms-of-alurya.json) |
 | Realms of Antiquity: The Shattered Crown | 163275 | [163275-realms-of-antiquity-the-shattered-crown.json](./163275-realms-of-antiquity-the-shattered-crown.json) |
