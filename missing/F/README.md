@@ -7351,6 +7351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlatFatCat | 54333 | [54333-flatfatcat.json](./54333-flatfatcat.json) |
 | Flathead | 296482 | [296482-flathead.json](./296482-flathead.json) |
 | Flatinside Simulator | 384338 | [384338-flatinside-simulator.json](./384338-flatinside-simulator.json) |
+| Flatland | 272048 | [272048-flatland.json](./272048-flatland.json) |
 | Flatland Vol.1 | 123712 | [123712-flatland-vol-1.json](./123712-flatland-vol-1.json) |
 | Flatland Vol.2 | 140612 | [140612-flatland-vol-2.json](./140612-flatland-vol-2.json) |
 | Flatland: Fallen Angle | 5609 | [5609-flatland-fallen-angle.json](./5609-flatland-fallen-angle.json) |
