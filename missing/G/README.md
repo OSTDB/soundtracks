@@ -978,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxywars | 334423 | [334423-galaxywars.json](./334423-galaxywars.json) |
 | Galaxyz Neo | 385777 | [385777-galaxyz-neo.json](./385777-galaxyz-neo.json) |
 | Galazer Deluxe | 358965 | [358965-galazer-deluxe.json](./358965-galazer-deluxe.json) |
+| Galbadia | 272039 | [272039-galbadia.json](./272039-galbadia.json) |
 | Galbia Tales | 177380 | [177380-galbia-tales.json](./177380-galbia-tales.json) |
 | Galcon | 29041 | [29041-galcon.json](./29041-galcon.json) |
 | Galcon 2 | 36325 | [36325-galcon-2.json](./36325-galcon-2.json) |
@@ -6062,6 +6063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla | 75892 | [75892-godzilla.json](./75892-godzilla.json) |
 | Godzilla | 77247 | [77247-godzilla.json](./77247-godzilla.json) |
 | Godzilla | 7744 | [7744-godzilla.json](./7744-godzilla.json) |
+| Godzilla 1998 | 272049 | [272049-godzilla-1998.json](./272049-godzilla-1998.json) |
 | Godzilla and the Martians | 135573 | [135573-godzilla-and-the-martians.json](./135573-godzilla-and-the-martians.json) |
 | Godzilla Balls | 360118 | [360118-godzilla-balls.json](./360118-godzilla-balls.json) |
 | Godzilla Creepypasta | 143491 | [143491-godzilla-creepypasta.json](./143491-godzilla-creepypasta.json) |
@@ -9204,7 +9206,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim: Mystery of Wasules | 82719 | [82719-grim-mystery-of-wasules.json](./82719-grim-mystery-of-wasules.json) |
 | Grim's Gambit | 280936 | [280936-grims-gambit.json](./280936-grims-gambit.json) |
 | Grim's Princess | 299602 | [299602-grims-princess.json](./299602-grims-princess.json) |
+| Grimace Drop | 272056 | [272056-grimace-drop.json](./272056-grimace-drop.json) |
 | Grimace Run | 192796 | [192796-grimace-run.json](./192796-grimace-run.json) |
+| Grimace vs. Skibidi | 272055 | [272055-grimace-vs-skibidi.json](./272055-grimace-vs-skibidi.json) |
 | Grimace's Birthday | 369340 | [369340-grimaces-birthday.json](./369340-grimaces-birthday.json) |
 | Grimalkin: Solar Defense Force | 127669 | [127669-grimalkin-solar-defense-force.json](./127669-grimalkin-solar-defense-force.json) |
 | Grimante | 83975 | [83975-grimante.json](./83975-grimante.json) |
