@@ -7090,6 +7090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desi Adda: Games of India | 218634 | [218634-desi-adda-games-of-india.json](./218634-desi-adda-games-of-india.json) |
 | Desiderium | 415799 | [415799-desiderium.json](./415799-desiderium.json) |
 | Desierto | 327872 | [327872-desierto.json](./327872-desierto.json) |
+| Design & Conjure | 270984 | [270984-design-and-conjure.json](./270984-design-and-conjure.json) |
 | Design A Train | 106083 | [106083-design-a-train.json](./106083-design-a-train.json) |
 | Design Home | 54707 | [54707-design-home.json](./54707-design-home.json) |
 | Design It Girl! | 96306 | [96306-design-it-girl.json](./96306-design-it-girl.json) |
