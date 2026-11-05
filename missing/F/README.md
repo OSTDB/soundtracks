@@ -13300,6 +13300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furnish Master | 212816 | [212816-furnish-master.json](./212816-furnish-master.json) |
 | Furniture Assembler Simulator | 402351 | [402351-furniture-assembler-simulator.json](./402351-furniture-assembler-simulator.json) |
 | Furniture Busters | 211991 | [211991-furniture-busters.json](./211991-furniture-busters.json) |
+| Furniture Flipper Simulator 2023: Revive, Restoration & Creative Crafting | 276549 | [276549-furniture-flipper-simulator-2023-revive-restoration-and-creative-crafting.json](./276549-furniture-flipper-simulator-2023-revive-restoration-and-creative-crafting.json) |
 | Furniture Service | 340541 | [340541-furniture-service.json](./340541-furniture-service.json) |
 | Furniture World | 158919 | [158919-furniture-world.json](./158919-furniture-world.json) |
 | Furniture: Build & Repair | 288864 | [288864-furniture-build-and-repair.json](./288864-furniture-build-and-repair.json) |
