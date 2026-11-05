@@ -957,7 +957,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2005,6 +2004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandit | 69671 | [69671-bandit.json](./69671-bandit.json) |
 | Bandit Accountancy | 336923 | [336923-bandit-accountancy.json](./336923-bandit-accountancy.json) |
 | Bandit Bites | 240185 | [240185-bandit-bites.json](./240185-bandit-bites.json) |
+| Bandit Brawler | 253150 | [253150-bandit-brawler.json](./253150-bandit-brawler.json) |
 | Bandit Buster: Western | 319785 | [319785-bandit-buster-western.json](./319785-bandit-buster-western.json) |
 | Bandit Emblem | 215148 | [215148-bandit-emblem.json](./215148-bandit-emblem.json) |
 | Bandit Kings of Ancient China | 273085 | [273085-bandit-kings-of-ancient-china.json](./273085-bandit-kings-of-ancient-china.json) |
@@ -4531,6 +4531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bayern Munich Club Football 2005 | 267901 | [267901-bayern-munich-club-football-2005.json](./267901-bayern-munich-club-football-2005.json) |
 | Bayla Bunny | 32833 | [32833-bayla-bunny.json](./32833-bayla-bunny.json) |
 | Bayoen Syokin Sougaku 50,000 Yen Sohdatsu Quiz | 239569 | [239569-bayoen-syokin-sougaku-50-000-yen-sohdatsu-quiz.json](./239569-bayoen-syokin-sougaku-50-000-yen-sohdatsu-quiz.json) |
+| Bayoen Wars: Daimadou Senryaku Monogatari | 253124 | [253124-bayoen-wars-daimadou-senryaku-monogatari.json](./253124-bayoen-wars-daimadou-senryaku-monogatari.json) |
 | Bayonetta | 279337 | [279337-bayonetta.json](./279337-bayonetta.json) |
 | Bayonetta / Forza Motorsport 3 | 286973 | [286973-bayonetta-forza-motorsport-3.json](./286973-bayonetta-forza-motorsport-3.json) |
 | Bayonetta & Vanquish 10th Anniversary Bundle | 127258 | [127258-bayonetta-and-vanquish-10th-anniversary-bundle.json](./127258-bayonetta-and-vanquish-10th-anniversary-bundle.json) |
