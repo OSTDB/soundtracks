@@ -2965,7 +2965,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Batman | 213256 | [213256-lego-batman.json](./213256-lego-batman.json) |
 | LEGO Batman 2: DC Super Heroes | 196417 | [196417-lego-batman-2-dc-super-heroes.json](./196417-lego-batman-2-dc-super-heroes.json) |
 | LEGO Batman 2: DC Super Heroes | 6836 | [6836-lego-batman-2-dc-super-heroes.json](./6836-lego-batman-2-dc-super-heroes.json) |
+| Lego Batman 2: Heroes Character Pack | 264431 | [264431-lego-batman-2-heroes-character-pack.json](./264431-lego-batman-2-heroes-character-pack.json) |
 | LEGO Batman 3: Beyond Gotham | 7685 | [7685-lego-batman-3-beyond-gotham.json](./7685-lego-batman-3-beyond-gotham.json) |
+| LEGO Batman 3: Beyond Gotham - Arrow Pack | 264432 | [264432-lego-batman-3-beyond-gotham-arrow-pack.json](./264432-lego-batman-3-beyond-gotham-arrow-pack.json) |
 | LEGO Batman 3: Beyond Gotham - Batman 75th Anniversary | 168791 | [168791-lego-batman-3-beyond-gotham-batman-75th-anniversary.json](./168791-lego-batman-3-beyond-gotham-batman-75th-anniversary.json) |
 | LEGO Batman 3: Beyond Gotham - Dark Knight | 266232 | [266232-lego-batman-3-beyond-gotham-dark-knight.json](./266232-lego-batman-3-beyond-gotham-dark-knight.json) |
 | LEGO Batman 3: Beyond Gotham - Heroines and Villainesses Character Pack | 168790 | [168790-lego-batman-3-beyond-gotham-heroines-and-villainesses-character-pack.json](./168790-lego-batman-3-beyond-gotham-heroines-and-villainesses-character-pack.json) |
@@ -3122,6 +3124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Juniors | 88873 | [88873-lego-juniors.json](./88873-lego-juniors.json) |
 | LEGO Juniors Create & Cruise | 105878 | [105878-lego-juniors-create-and-cruise.json](./105878-lego-juniors-create-and-cruise.json) |
 | LEGO Jurassic World | 9918 | [9918-lego-jurassic-world.json](./9918-lego-jurassic-world.json) |
+| Lego Jurassic World DLC Pack | 264430 | [264430-lego-jurassic-world-dlc-pack.json](./264430-lego-jurassic-world-dlc-pack.json) |
 | LEGO Knights' Kingdom | 6498 | [6498-lego-knights-kingdom.json](./6498-lego-knights-kingdom.json) |
 | LEGO Legends of Chima: Laval's Journey | 6839 | [6839-lego-legends-of-chima-lavals-journey.json](./6839-lego-legends-of-chima-lavals-journey.json) |
 | LEGO Lord of the Rings: Elrond Edition | 89924 | [89924-lego-lord-of-the-rings-elrond-edition.json](./89924-lego-lord-of-the-rings-elrond-edition.json) |
@@ -3202,6 +3205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Star Wars: Microfighters | 288100 | [288100-lego-star-wars-microfighters.json](./288100-lego-star-wars-microfighters.json) |
 | LEGO Star Wars: The Complete Saga | 194935 | [194935-lego-star-wars-the-complete-saga.json](./194935-lego-star-wars-the-complete-saga.json) |
 | LEGO Star Wars: The Force Awakens - Deluxe Edition | 53271 | [53271-lego-star-wars-the-force-awakens-deluxe-edition.json](./53271-lego-star-wars-the-force-awakens-deluxe-edition.json) |
+| Lego Star Wars: The Force Awakens - Droids Character Pack | 264434 | [264434-lego-star-wars-the-force-awakens-droids-character-pack.json](./264434-lego-star-wars-the-force-awakens-droids-character-pack.json) |
 | LEGO Star Wars: The Force Awakens - Escape From Starkiller Base | 138165 | [138165-lego-star-wars-the-force-awakens-escape-from-starkiller-base.json](./138165-lego-star-wars-the-force-awakens-escape-from-starkiller-base.json) |
 | LEGO Star Wars: The Force Awakens - First Order Siege of Takodana | 138164 | [138164-lego-star-wars-the-force-awakens-first-order-siege-of-takodana.json](./138164-lego-star-wars-the-force-awakens-first-order-siege-of-takodana.json) |
 | LEGO Star Wars: The Force Awakens - Jabba's Palace Character Pack | 301547 | [301547-lego-star-wars-the-force-awakens-jabbas-palace-character-pack.json](./301547-lego-star-wars-the-force-awakens-jabbas-palace-character-pack.json) |
@@ -3257,6 +3261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO World Soccer | 273982 | [273982-lego-world-soccer.json](./273982-lego-world-soccer.json) |
 | LEGO Worlds | 10910 | [10910-lego-worlds.json](./10910-lego-worlds.json) |
 | Lego Worlds Showcase Collection #1 | 255377 | [255377-lego-worlds-showcase-collection-1.json](./255377-lego-worlds-showcase-collection-1.json) |
+| Lego Worlds: Agents Pack | 264426 | [264426-lego-worlds-agents-pack.json](./264426-lego-worlds-agents-pack.json) |
 | LEGO Worlds: Classic Space | 52110 | [52110-lego-worlds-classic-space.json](./52110-lego-worlds-classic-space.json) |
 | LEGO Worlds: Monster Pack | 205608 | [205608-lego-worlds-monster-pack.json](./205608-lego-worlds-monster-pack.json) |
 | LEGO: City Builder | 318792 | [318792-lego-city-builder.json](./318792-lego-city-builder.json) |
@@ -9014,6 +9019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucha Libre AAA: Héroes del Ring | 264875 | [264875-lucha-libre-aaa-heroes-del-ring.json](./264875-lucha-libre-aaa-heroes-del-ring.json) |
 | Lucha Libre AAA: Héroes del Ring | 7060 | [7060-lucha-libre-aaa-heroes-del-ring.json](./7060-lucha-libre-aaa-heroes-del-ring.json) |
 | Lucha Libre: Legend of the Mask | 317188 | [317188-lucha-libre-legend-of-the-mask.json](./317188-lucha-libre-legend-of-the-mask.json) |
+| Lucha Masters StickerMania | 264392 | [264392-lucha-masters-stickermania.json](./264392-lucha-masters-stickermania.json) |
 | Lucha Masters: Mighty Lucha | 297134 | [297134-lucha-masters-mighty-lucha.json](./297134-lucha-masters-mighty-lucha.json) |
 | Lucha Underground | 257260 | [257260-lucha-underground.json](./257260-lucha-underground.json) |
 | Luci RPG | 228678 | [228678-luci-rpg.json](./228678-luci-rpg.json) |
