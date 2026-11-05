@@ -1067,6 +1067,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nauruan Dominatrixes Are the Best | 392978 | [392978-nauruan-dominatrixes-are-the-best.json](./392978-nauruan-dominatrixes-are-the-best.json) |
 | Naus | 304916 | [304916-naus.json](./304916-naus.json) |
 | Nauseous Pines | 126906 | [126906-nauseous-pines.json](./126906-nauseous-pines.json) |
+| Nausicaä of the Valley of the Wind | 253694 | [253694-nausicaa-of-the-valley-of-the-wind.json](./253694-nausicaa-of-the-valley-of-the-wind.json) |
+| Nausicaä's Close Call | 253691 | [253691-nausicaas-close-call.json](./253691-nausicaas-close-call.json) |
 | Naut | 60452 | [60452-naut.json](./60452-naut.json) |
 | Nautical Dispute | 257856 | [257856-nautical-dispute.json](./257856-nautical-dispute.json) |
 | Nautical Dispute | 258261 | [258261-nautical-dispute.json](./258261-nautical-dispute.json) |
@@ -2975,6 +2977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Fall | 334187 | [334187-never-fall.json](./334187-never-fall.json) |
 | Never Forget | 395379 | [395379-never-forget.json](./395379-never-forget.json) |
 | Never Forget Me | 31168 | [31168-never-forget-me.json](./31168-never-forget-me.json) |
+| Never Forget to Nausicaä Game Forever | 253695 | [253695-never-forget-to-nausicaa-game-forever.json](./253695-never-forget-to-nausicaa-game-forever.json) |
 | Never Forgotten | 239639 | [239639-never-forgotten.json](./239639-never-forgotten.json) |
 | Never Give Up | 81183 | [81183-never-give-up.json](./81183-never-give-up.json) |
 | Never give up! | 30540 | [30540-never-give-up.json](./30540-never-give-up.json) |
