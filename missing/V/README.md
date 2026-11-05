@@ -1700,6 +1700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vexbox | 345249 | [345249-vexbox.json](./345249-vexbox.json) |
 | Vexbox | 351643 | [351643-vexbox.json](./351643-vexbox.json) |
 | Vexcell | 357715 | [357715-vexcell.json](./357715-vexcell.json) |
+| Vexed | 284163 | [284163-vexed.json](./284163-vexed.json) |
 | Vexed | 311947 | [311947-vexed.json](./311947-vexed.json) |
 | Vexed Heroes | 261419 | [261419-vexed-heroes.json](./261419-vexed-heroes.json) |
 | Vexius | 76677 | [76677-vexius.json](./76677-vexius.json) |
