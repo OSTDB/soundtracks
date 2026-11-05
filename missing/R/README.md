@@ -4208,6 +4208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReDrop | 347773 | [347773-redrop.json](./347773-redrop.json) |
 | Redrum | 209255 | [209255-redrum.json](./209255-redrum.json) |
 | Redrum | 237269 | [237269-redrum.json](./237269-redrum.json) |
+| Redrum Hotel | 274817 | [274817-redrum-hotel.json](./274817-redrum-hotel.json) |
 | Redrum: The Shining 2 | 341820 | [341820-redrum-the-shining-2.json](./341820-redrum-the-shining-2.json) |
 | Reds Adventure A Seasons New Beginning | 188767 | [188767-reds-adventure-a-seasons-new-beginning.json](./188767-reds-adventure-a-seasons-new-beginning.json) |
 | RedShift | 328963 | [328963-redshift.json](./328963-redshift.json) |
@@ -6604,6 +6605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rewind | 33621 | [33621-rewind.json](./33621-rewind.json) |
 | Rewind | 409829 | [409829-rewind.json](./409829-rewind.json) |
 | Rewind 99 | 374207 | [374207-rewind-99.json](./374207-rewind-99.json) |
+| Rewind And Reclaim | 274821 | [274821-rewind-and-reclaim.json](./274821-rewind-and-reclaim.json) |
 | Rewind Night | 390698 | [390698-rewind-night.json](./390698-rewind-night.json) |
 | Rewind or Die | 244116 | [244116-rewind-or-die.json](./244116-rewind-or-die.json) |
 | Rewind Time | 247116 | [247116-rewind-time.json](./247116-rewind-time.json) |
@@ -8164,6 +8166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riverboat Casino | 209164 | [209164-riverboat-casino.json](./209164-riverboat-casino.json) |
 | Riverflow | 252267 | [252267-riverflow.json](./252267-riverflow.json) |
 | Rivers Mahjong: China HD | 175556 | [175556-rivers-mahjong-china-hd.json](./175556-rivers-mahjong-china-hd.json) |
+| Rivers of Blood | 274789 | [274789-rivers-of-blood.json](./274789-rivers-of-blood.json) |
 | Rivers of Chaos | 296343 | [296343-rivers-of-chaos.json](./296343-rivers-of-chaos.json) |
 | Riverside | 84838 | [84838-riverside.json](./84838-riverside.json) |
 | Riverside Gals | 294099 | [294099-riverside-gals.json](./294099-riverside-gals.json) |
@@ -11094,6 +11097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotten Crop | 357749 | [357749-rotten-crop.json](./357749-rotten-crop.json) |
 | Rotten Dinner | 254092 | [254092-rotten-dinner.json](./254092-rotten-dinner.json) |
 | Rotten Escape | 101542 | [101542-rotten-escape.json](./101542-rotten-escape.json) |
+| Rotten Flesh | 274815 | [274815-rotten-flesh.json](./274815-rotten-flesh.json) |
 | Rotten Machines | 426453 | [426453-rotten-machines.json](./426453-rotten-machines.json) |
 | Rotten Stigma | 392181 | [392181-rotten-stigma.json](./392181-rotten-stigma.json) |
 | Rotten Sun | 183948 | [183948-rotten-sun.json](./183948-rotten-sun.json) |
