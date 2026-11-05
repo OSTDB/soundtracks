@@ -2047,6 +2047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-D Hunting 2010 | 27442 | [27442-3-d-hunting-2010.json](./27442-3-d-hunting-2010.json) |
 | 3-D Man | 83270 | [83270-3-d-man.json](./83270-3-d-man.json) |
 | 3-D Maze | 15576 | [15576-3-d-maze.json](./15576-3-d-maze.json) |
+| 3-D Pinball | 255435 | [255435-3-d-pinball.json](./255435-3-d-pinball.json) |
 | 3-D Tank Zone | 15579 | [15579-3-d-tank-zone.json](./15579-3-d-tank-zone.json) |
 | 3-D Tetris | 84680 | [84680-3-d-tetris.json](./84680-3-d-tetris.json) |
 | 3-D Tic-Tac-Toe | 80892 | [80892-3-d-tic-tac-toe.json](./80892-3-d-tic-tac-toe.json) |
@@ -3119,6 +3120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7-in-1 Brain Sharpness Bundle | 100635 | [100635-7-in-1-brain-sharpness-bundle.json](./100635-7-in-1-brain-sharpness-bundle.json) |
 | 7-minute HOP | 111509 | [111509-7-minute-hop.json](./111509-7-minute-hop.json) |
 | 7,62 Hard Life | 98372 | [98372-7-62-hard-life.json](./98372-7-62-hard-life.json) |
+| 7,62 High Calibre + 7,62 Hard Life | 255455 | [255455-7-62-high-calibre-7-62-hard-life.json](./255455-7-62-high-calibre-7-62-hard-life.json) |
 | 7,62 High Calibre, 7,62 Hard Life, Brigade E5: New Jagged Union Pack | 84123 | [84123-7-62-high-calibre-7-62-hard-life-brigade-e5-new-jagged-union-pack.json](./84123-7-62-high-calibre-7-62-hard-life-brigade-e5-new-jagged-union-pack.json) |
 | 7: Molmorth no Kiheitai | 70459 | [70459-7-molmorth-no-kiheitai.json](./70459-7-molmorth-no-kiheitai.json) |
 | 7:45, Densha Nite. | 285897 | [285897-7-45-densha-nite.json](./285897-7-45-densha-nite.json) |
@@ -3178,6 +3180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7th Dragon 2020-II | 11826 | [11826-7th-dragon-2020-ii.json](./11826-7th-dragon-2020-ii.json) |
 | 7th Dragon III Code: VFD | 11828 | [11828-7th-dragon-iii-code-vfd.json](./11828-7th-dragon-iii-code-vfd.json) |
 | 7th Floor | 305696 | [305696-7th-floor.json](./305696-7th-floor.json) |
+| 7th Memory | 255428 | [255428-7th-memory.json](./255428-7th-memory.json) |
 | 7th Sea: A Pirate's Pact | 113865 | [113865-7th-sea-a-pirates-pact.json](./113865-7th-sea-a-pirates-pact.json) |
 | 7th Sector: Museum | 172115 | [172115-7th-sector-museum.json](./172115-7th-sector-museum.json) |
 | 7th Serpent: Crossfire | 214930 | [214930-7th-serpent-crossfire.json](./214930-7th-serpent-crossfire.json) |
