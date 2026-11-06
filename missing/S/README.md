@@ -2373,6 +2373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Halloween | 75198 | [75198-save-the-halloween.json](./75198-save-the-halloween.json) |
 | Save the Hamsters | 63121 | [63121-save-the-hamsters.json](./63121-save-the-hamsters.json) |
 | Save the Humans | 53578 | [53578-save-the-humans.json](./53578-save-the-humans.json) |
+| Save the Kingdom | 227095 | [227095-save-the-kingdom.json](./227095-save-the-kingdom.json) |
 | Save the Knight | 308882 | [308882-save-the-knight.json](./308882-save-the-knight.json) |
 | Save the Lamb | 75001 | [75001-save-the-lamb.json](./75001-save-the-lamb.json) |
 | Save the Ninja Clan | 27299 | [27299-save-the-ninja-clan.json](./27299-save-the-ninja-clan.json) |
@@ -24979,6 +24980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight: Eye of the Storm | 155670 | [155670-starlight-eye-of-the-storm.json](./155670-starlight-eye-of-the-storm.json) |
 | StarLightRiders: HyperJump | 115331 | [115331-starlightriders-hyperjump.json](./115331-starlightriders-hyperjump.json) |
 | Starlike | 188236 | [188236-starlike.json](./188236-starlike.json) |
+| Starliner | 227094 | [227094-starliner.json](./227094-starliner.json) |
 | Starlines | 305956 | [305956-starlines.json](./305956-starlines.json) |
 | StarLines Inc. | 71281 | [71281-starlines-inc.json](./71281-starlines-inc.json) |
 | Starlink Battle For Atlas: Lance Starship Pack | 305232 | [305232-starlink-battle-for-atlas-lance-starship-pack.json](./305232-starlink-battle-for-atlas-lance-starship-pack.json) |
@@ -31679,6 +31681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario In Element World 2: The Master Hand Revenge | 267980 | [267980-super-mario-in-element-world-2-the-master-hand-revenge.json](./267980-super-mario-in-element-world-2-the-master-hand-revenge.json) |
 | Super Mario in Marooned on Mars! | 321451 | [321451-super-mario-in-marooned-on-mars.json](./321451-super-mario-in-marooned-on-mars.json) |
 | Super Mario In Peach's World | 341923 | [341923-super-mario-in-peachs-world.json](./341923-super-mario-in-peachs-world.json) |
+| Super Mario in Sonic 3 AIR | 227065 | [227065-super-mario-in-sonic-3-air.json](./227065-super-mario-in-sonic-3-air.json) |
 | Super Mario in: Yoshi's Revenge | 281808 | [281808-super-mario-in-yoshis-revenge.json](./281808-super-mario-in-yoshis-revenge.json) |
 | Super Mario Infinity 2: The Cursed Gem | 261142 | [261142-super-mario-infinity-2-the-cursed-gem.json](./261142-super-mario-infinity-2-the-cursed-gem.json) |
 | Super Mario Infinity: Mystery of the Magic Wand | 260850 | [260850-super-mario-infinity-mystery-of-the-magic-wand.json](./260850-super-mario-infinity-mystery-of-the-magic-wand.json) |
@@ -34085,6 +34088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivia.io | 137536 | [137536-survivia-io.json](./137536-survivia-io.json) |
 | Surviving Ceres | 290533 | [290533-surviving-ceres.json](./290533-surviving-ceres.json) |
 | Surviving Deponia | 252793 | [252793-surviving-deponia.json](./252793-surviving-deponia.json) |
+| Surviving Franchise Bundle | 227093 | [227093-surviving-franchise-bundle.json](./227093-surviving-franchise-bundle.json) |
 | Surviving High School | 67148 | [67148-surviving-high-school.json](./67148-surviving-high-school.json) |
 | Surviving Hunter | 257108 | [257108-surviving-hunter.json](./257108-surviving-hunter.json) |
 | Surviving Isolation | 384528 | [384528-surviving-isolation.json](./384528-surviving-isolation.json) |
