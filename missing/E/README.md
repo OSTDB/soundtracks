@@ -6030,6 +6030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Man: Village | 90817 | [90817-eternal-man-village.json](./90817-eternal-man-village.json) |
 | Eternal Mansion | 323743 | [323743-eternal-mansion.json](./323743-eternal-mansion.json) |
 | Eternal Match | 299361 | [299361-eternal-match.json](./299361-eternal-match.json) |
+| Eternal Maze | 213696 | [213696-eternal-maze.json](./213696-eternal-maze.json) |
 | Eternal Maze | 65836 | [65836-eternal-maze.json](./65836-eternal-maze.json) |
 | Eternal Melody | 166555 | [166555-eternal-melody.json](./166555-eternal-melody.json) |
 | Eternal Melody | 176115 | [176115-eternal-melody.json](./176115-eternal-melody.json) |
