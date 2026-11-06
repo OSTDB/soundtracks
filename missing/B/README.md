@@ -961,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4568,6 +4569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bayern Munich Club Football | 267885 | [267885-bayern-munich-club-football.json](./267885-bayern-munich-club-football.json) |
 | Bayern Munich Club Football 2005 | 267901 | [267901-bayern-munich-club-football-2005.json](./267901-bayern-munich-club-football-2005.json) |
 | Bayla Bunny | 32833 | [32833-bayla-bunny.json](./32833-bayla-bunny.json) |
+| Baylor Legend: Idle RPG | 212541 | [212541-baylor-legend-idle-rpg.json](./212541-baylor-legend-idle-rpg.json) |
 | Bayoen Syokin Sougaku 50,000 Yen Sohdatsu Quiz | 239569 | [239569-bayoen-syokin-sougaku-50-000-yen-sohdatsu-quiz.json](./239569-bayoen-syokin-sougaku-50-000-yen-sohdatsu-quiz.json) |
 | Bayoen Wars: Daimadou Senryaku Monogatari | 253124 | [253124-bayoen-wars-daimadou-senryaku-monogatari.json](./253124-bayoen-wars-daimadou-senryaku-monogatari.json) |
 | Bayonetta | 279337 | [279337-bayonetta.json](./279337-bayonetta.json) |
@@ -15156,6 +15158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BreakQuest | 20548 | [20548-breakquest.json](./20548-breakquest.json) |
 | Breakremental | 422532 | [422532-breakremental.json](./422532-breakremental.json) |
 | Breakthrough | 15686 | [15686-breakthrough.json](./15686-breakthrough.json) |
+| Breakthrough | 212555 | [212555-breakthrough.json](./212555-breakthrough.json) |
 | Breakthrough | 336686 | [336686-breakthrough.json](./336686-breakthrough.json) |
 | BreakThrough | 391866 | [391866-breakthrough.json](./391866-breakthrough.json) |
 | Breakthrough Gaming Activity Center: ZJ the Ball's Collect Stuff | 218189 | [218189-breakthrough-gaming-activity-center-zj-the-balls-collect-stuff.json](./218189-breakthrough-gaming-activity-center-zj-the-balls-collect-stuff.json) |
