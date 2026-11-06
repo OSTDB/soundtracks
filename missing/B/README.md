@@ -9052,6 +9052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Mesa: Military | 327903 | [327903-black-mesa-military.json](./327903-black-mesa-military.json) |
 | Black Mesa: Route to Evacuation - Part 1 | 374376 | [374376-black-mesa-route-to-evacuation-part-1.json](./374376-black-mesa-route-to-evacuation-part-1.json) |
 | Black Mesa: Xen | 229858 | [229858-black-mesa-xen.json](./229858-black-mesa-xen.json) |
+| Black Metal | 201380 | [201380-black-metal.json](./201380-black-metal.json) |
 | Black Metal Man 2 | 197686 | [197686-black-metal-man-2.json](./197686-black-metal-man-2.json) |
 | Black Mirror | 54699 | [54699-black-mirror.json](./54699-black-mirror.json) |
 | Black Mirror III: Final Fear | 10049 | [10049-black-mirror-iii-final-fear.json](./10049-black-mirror-iii-final-fear.json) |
@@ -11630,6 +11631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Night Laundromat | 322668 | [322668-blue-night-laundromat.json](./322668-blue-night-laundromat.json) |
 | Blue Ninja: Superhero Game | 275495 | [275495-blue-ninja-superhero-game.json](./275495-blue-ninja-superhero-game.json) |
 | Blue Notebook | 367159 | [367159-blue-notebook.json](./367159-blue-notebook.json) |
+| Blue Oak Bridge | 201368 | [201368-blue-oak-bridge.json](./201368-blue-oak-bridge.json) |
 | Blue Oath | 411791 | [411791-blue-oath.json](./411791-blue-oath.json) |
 | Blue Ocean | 294913 | [294913-blue-ocean.json](./294913-blue-ocean.json) |
 | Blue Oddities: The Final Chapter | 238429 | [238429-blue-oddities-the-final-chapter.json](./238429-blue-oddities-the-final-chapter.json) |
@@ -12407,6 +12409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb It 5 | 191116 | [191116-bomb-it-5.json](./191116-bomb-it-5.json) |
 | Bomb It 6 | 359198 | [359198-bomb-it-6.json](./359198-bomb-it-6.json) |
 | Bomb It 7 | 387553 | [387553-bomb-it-7.json](./387553-bomb-it-7.json) |
+| Bomb It! | 201386 | [201386-bomb-it.json](./201386-bomb-it.json) |
 | Bomb Jack | 265023 | [265023-bomb-jack.json](./265023-bomb-jack.json) |
 | Bomb Jack | 266941 | [266941-bomb-jack.json](./266941-bomb-jack.json) |
 | Bomb Jack | 266942 | [266942-bomb-jack.json](./266942-bomb-jack.json) |
@@ -14494,6 +14497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Braindead, Your Majesty | 108827 | [108827-braindead-your-majesty.json](./108827-braindead-your-majesty.json) |
 | Brainfuck | 110888 | [110888-brainfuck.json](./110888-brainfuck.json) |
 | Brainfuck Challenge | 350781 | [350781-brainfuck-challenge.json](./350781-brainfuck-challenge.json) |
+| Braingirl | 201337 | [201337-braingirl.json](./201337-braingirl.json) |
 | Brainium Solitaire | 87861 | [87861-brainium-solitaire.json](./87861-brainium-solitaire.json) |
 | Brainiversity | 87907 | [87907-brainiversity.json](./87907-brainiversity.json) |
 | Brainjogging for Kids | 88485 | [88485-brainjogging-for-kids.json](./88485-brainjogging-for-kids.json) |
@@ -18208,6 +18212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Button City | 136980 | [136980-button-city.json](./136980-button-city.json) |
 | Button City: Soccer Days | 252771 | [252771-button-city-soccer-days.json](./252771-button-city-soccer-days.json) |
 | Button Game: 10 Minutes War | 368484 | [368484-button-game-10-minutes-war.json](./368484-button-game-10-minutes-war.json) |
+| Button Lock 2: Star Carrier | 201355 | [201355-button-lock-2-star-carrier.json](./201355-button-lock-2-star-carrier.json) |
 | Button Man | 295280 | [295280-button-man.json](./295280-button-man.json) |
 | Button Men Online | 56173 | [56173-button-men-online.json](./56173-button-men-online.json) |
 | Button Music | 98996 | [98996-button-music.json](./98996-button-music.json) |
