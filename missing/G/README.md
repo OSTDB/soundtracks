@@ -7404,6 +7404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoSub | 78517 | [78517-gosub.json](./78517-gosub.json) |
 | GoSub 2 | 381161 | [381161-gosub-2.json](./381161-gosub-2.json) |
 | GoSupermodel | 347099 | [347099-gosupermodel.json](./347099-gosupermodel.json) |
+| GOT | 201374 | [201374-got.json](./201374-got.json) |
 | Got Cha Mini Game Festival 2 | 270598 | [270598-got-cha-mini-game-festival-2.json](./270598-got-cha-mini-game-festival-2.json) |
 | Got Got | 252569 | [252569-got-got.json](./252569-got-got.json) |
 | Got High | 290792 | [290792-got-high.json](./290792-got-high.json) |
