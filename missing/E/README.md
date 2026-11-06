@@ -2410,6 +2410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elena's Journal: To Atlantis | 247960 | [247960-elenas-journal-to-atlantis.json](./247960-elenas-journal-to-atlantis.json) |
 | Elena's Journal: Unfinished Expedition | 207789 | [207789-elenas-journal-unfinished-expedition.json](./207789-elenas-journal-unfinished-expedition.json) |
 | Elendia Ceus | 116054 | [116054-elendia-ceus.json](./116054-elendia-ceus.json) |
+| Elengard: Ascension | 216512 | [216512-elengard-ascension.json](./216512-elengard-ascension.json) |
 | Eleonor's Nightmares | 231175 | [231175-eleonors-nightmares.json](./231175-eleonors-nightmares.json) |
 | ElePaperAction | 295623 | [295623-elepaperaction.json](./295623-elepaperaction.json) |
 | ElePass: Only Elephants Can Unlock the Passcode | 317855 | [317855-elepass-only-elephants-can-unlock-the-passcode.json](./317855-elepass-only-elephants-can-unlock-the-passcode.json) |
