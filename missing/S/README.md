@@ -13127,6 +13127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepfall | 175280 | [175280-sleepfall.json](./175280-sleepfall.json) |
 | Sleepi Boi Can't Sleep | 206723 | [206723-sleepi-boi-cant-sleep.json](./206723-sleepi-boi-cant-sleep.json) |
 | Sleepin' Guy: Deluxe Edition | 188043 | [188043-sleepin-guy-deluxe-edition.json](./188043-sleepin-guy-deluxe-edition.json) |
+| Sleeping Alone | 241150 | [241150-sleeping-alone.json](./241150-sleeping-alone.json) |
 | Sleeping Beauty | 161593 | [161593-sleeping-beauty.json](./161593-sleeping-beauty.json) |
 | Sleeping Beauty X : The Legend of Tales | 175984 | [175984-sleeping-beauty-x-the-legend-of-tales.json](./175984-sleeping-beauty-x-the-legend-of-tales.json) |
 | Sleeping Beauty: The Kingdom of Lost Dreams | 320792 | [320792-sleeping-beauty-the-kingdom-of-lost-dreams.json](./320792-sleeping-beauty-the-kingdom-of-lost-dreams.json) |
@@ -32665,6 +32666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Snot Put | 326727 | [326727-super-snot-put.json](./326727-super-snot-put.json) |
 | Super Snow Fight | 35384 | [35384-super-snow-fight.json](./35384-super-snow-fight.json) |
 | Super Snowball Sunday | 74334 | [74334-super-snowball-sunday.json](./74334-super-snowball-sunday.json) |
+| Super Snowmobile Rally | 241121 | [241121-super-snowmobile-rally.json](./241121-super-snowmobile-rally.json) |
 | Super Soakdown | 245731 | [245731-super-soakdown.json](./245731-super-soakdown.json) |
 | Super Soccer | 172784 | [172784-super-soccer.json](./172784-super-soccer.json) |
 | Super Soccer | 235103 | [235103-super-soccer.json](./235103-super-soccer.json) |
@@ -33167,6 +33169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superheroes Fighting 3D | 108215 | [108215-superheroes-fighting-3d.json](./108215-superheroes-fighting-3d.json) |
 | Superheroes: Power of New Horizons Legacy | 324124 | [324124-superheroes-power-of-new-horizons-legacy.json](./324124-superheroes-power-of-new-horizons-legacy.json) |
 | Superhex.io | 321839 | [321839-superhex-io.json](./321839-superhex-io.json) |
+| Superhook | 241139 | [241139-superhook.json](./241139-superhook.json) |
 | Superhoops Basketball 2016 | 237579 | [237579-superhoops-basketball-2016.json](./237579-superhoops-basketball-2016.json) |
 | Superhot JP | 101188 | [101188-superhot-jp.json](./101188-superhot-jp.json) |
 | Superhot Prototype | 18119 | [18119-superhot-prototype.json](./18119-superhot-prototype.json) |
@@ -33253,6 +33256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superman | 68440 | [68440-superman.json](./68440-superman.json) |
 | Superman | 81521 | [81521-superman.json](./81521-superman.json) |
 | Superman Activity Center | 153678 | [153678-superman-activity-center.json](./153678-superman-activity-center.json) |
+| Superman Batman: Heroes United | 241106 | [241106-superman-batman-heroes-united.json](./241106-superman-batman-heroes-united.json) |
 | Superman in Supervillain Showdown | 220123 | [220123-superman-in-supervillain-showdown.json](./220123-superman-in-supervillain-showdown.json) |
 | Superman Returns: Fortress of Solitude | 19074 | [19074-superman-returns-fortress-of-solitude.json](./19074-superman-returns-fortress-of-solitude.json) |
 | Superman Returns: The Videogame | 47867 | [47867-superman-returns-the-videogame.json](./47867-superman-returns-the-videogame.json) |
