@@ -7912,6 +7912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alteratio | 374986 | [374986-alteratio.json](./374986-alteratio.json) |
 | Alteration | 180803 | [180803-alteration.json](./180803-alteration.json) |
 | Alteration | 379368 | [379368-alteration.json](./379368-alteration.json) |
+| Alterborn | 194738 | [194738-alterborn.json](./194738-alterborn.json) |
 | Altered | 117645 | [117645-altered.json](./117645-altered.json) |
 | Altered | 321823 | [321823-altered.json](./321823-altered.json) |
 | Altered Alma | 252856 | [252856-altered-alma.json](./252856-altered-alma.json) |
@@ -16664,7 +16665,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
