@@ -2678,6 +2678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way to a Vampire's Heart | 223845 | [223845-way-to-a-vampires-heart.json](./223845-way-to-a-vampires-heart.json) |
 | Way To Fall | 282247 | [282247-way-to-fall.json](./282247-way-to-fall.json) |
 | Way to Go! Bowling | 205893 | [205893-way-to-go-bowling.json](./205893-way-to-go-bowling.json) |
+| Way to the Cake | 207459 | [207459-way-to-the-cake.json](./207459-way-to-the-cake.json) |
 | Way to the Light | 267786 | [267786-way-to-the-light.json](./267786-way-to-the-light.json) |
 | Way to Town | 358466 | [358466-way-to-town.json](./358466-way-to-town.json) |
 | Way to Yaatra | 140604 | [140604-way-to-yaatra.json](./140604-way-to-yaatra.json) |
@@ -7280,6 +7281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodle Tree Adventures | 15325 | [15325-woodle-tree-adventures.json](./15325-woodle-tree-adventures.json) |
 | Woodle Tree Adventures Deluxe | 122354 | [122354-woodle-tree-adventures-deluxe.json](./122354-woodle-tree-adventures-deluxe.json) |
 | Woodle Tree Bundle | 173795 | [173795-woodle-tree-bundle.json](./173795-woodle-tree-bundle.json) |
+| Woodlock Manor | 207490 | [207490-woodlock-manor.json](./207490-woodlock-manor.json) |
 | Woodo | 145078 | [145078-woodo.json](./145078-woodo.json) |
 | Woodoku | 213694 | [213694-woodoku.json](./213694-woodoku.json) |
 | Woodpecker | 63638 | [63638-woodpecker.json](./63638-woodpecker.json) |
