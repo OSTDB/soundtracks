@@ -12505,6 +12505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don’t Trust | 405802 | [405802-don-t-trust.json](./405802-don-t-trust.json) |
 | Don’t Turn off the Light | 390080 | [390080-don-t-turn-off-the-light.json](./390080-don-t-turn-off-the-light.json) |
 | Don't Turn Your Back On The City | 256797 | [256797-dont-turn-your-back-on-the-city.json](./256797-dont-turn-your-back-on-the-city.json) |
+| Don't Underestimate Me | 223295 | [223295-dont-underestimate-me.json](./223295-dont-underestimate-me.json) |
 | Don't Wake God | 236456 | [236456-dont-wake-god.json](./236456-dont-wake-god.json) |
 | Don't Wake Kate! | 278772 | [278772-dont-wake-kate.json](./278772-dont-wake-kate.json) |
 | Don't Wake Roko | 378144 | [378144-dont-wake-roko.json](./378144-dont-wake-roko.json) |
@@ -13519,6 +13520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dotcom (.com) | 59515 | [59515-dotcom-com.json](./59515-dotcom-com.json) |
 | Dotcraft. | 106770 | [106770-dotcraft.json](./106770-dotcraft.json) |
 | DotDot | 253971 | [253971-dotdot.json](./253971-dotdot.json) |
+| DoTeam | 223205 | [223205-doteam.json](./223205-doteam.json) |
 | Doterminism | 200538 | [200538-doterminism.json](./200538-doterminism.json) |
 | Dotgeon | 237232 | [237232-dotgeon.json](./237232-dotgeon.json) |
 | DotLine | 109418 | [109418-dotline.json](./109418-dotline.json) |
@@ -13914,6 +13916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downfall to the Turnabout | 303757 | [303757-downfall-to-the-turnabout.json](./303757-downfall-to-the-turnabout.json) |
 | Downfall: A Slay the Spire Fan Expansion | 198469 | [198469-downfall-a-slay-the-spire-fan-expansion.json](./198469-downfall-a-slay-the-spire-fan-expansion.json) |
 | Downfall: Redux | 51750 | [51750-downfall-redux.json](./51750-downfall-redux.json) |
+| Downfallen | 223218 | [223218-downfallen.json](./223218-downfallen.json) |
 | Downforce | 22219 | [22219-downforce.json](./22219-downforce.json) |
 | Downforce | 248688 | [248688-downforce.json](./248688-downforce.json) |
 | Downhell | 274127 | [274127-downhell.json](./274127-downhell.json) |
@@ -18880,6 +18883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarf Quest | 50835 | [50835-dwarf-quest.json](./50835-dwarf-quest.json) |
 | Dwarf Shop | 130155 | [130155-dwarf-shop.json](./130155-dwarf-shop.json) |
 | Dwarf Slayer | 149502 | [149502-dwarf-slayer.json](./149502-dwarf-slayer.json) |
+| Dwarf Star | 223217 | [223217-dwarf-star.json](./223217-dwarf-star.json) |
 | Dwarf Sweeper | 377543 | [377543-dwarf-sweeper.json](./377543-dwarf-sweeper.json) |
 | Dwarf Swordsman | 110160 | [110160-dwarf-swordsman.json](./110160-dwarf-swordsman.json) |
 | Dwarf the Dungeonist | 407056 | [407056-dwarf-the-dungeonist.json](./407056-dwarf-the-dungeonist.json) |
