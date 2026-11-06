@@ -6881,6 +6881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's 4 | 11583 | [11583-five-nights-at-freddys-4.json](./11583-five-nights-at-freddys-4.json) |
 | Five Nights at Freddy's 4 | 241192 | [241192-five-nights-at-freddys-4.json](./241192-five-nights-at-freddys-4.json) |
 | Five Nights at Freddy's 4 | 312230 | [312230-five-nights-at-freddys-4.json](./312230-five-nights-at-freddys-4.json) |
+| Five Nights at Freddy's 4 VR | 231667 | [231667-five-nights-at-freddys-4-vr.json](./231667-five-nights-at-freddys-4-vr.json) |
 | Five Nights at Freddy's 4: Halloween Edition | 226410 | [226410-five-nights-at-freddys-4-halloween-edition.json](./226410-five-nights-at-freddys-4-halloween-edition.json) |
 | Five Nights at Freddy's 5 | 271717 | [271717-five-nights-at-freddys-5.json](./271717-five-nights-at-freddys-5.json) |
 | Five Nights at Freddy's 6: Freakshow | 285287 | [285287-five-nights-at-freddys-6-freakshow.json](./285287-five-nights-at-freddys-6-freakshow.json) |
@@ -9588,6 +9589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest of Long Shadows | 356676 | [356676-forest-of-long-shadows.json](./356676-forest-of-long-shadows.json) |
 | Forest of Perdition | 286024 | [286024-forest-of-perdition.json](./286024-forest-of-perdition.json) |
 | Forest of Perdition 2: The School Trip | 315057 | [315057-forest-of-perdition-2-the-school-trip.json](./315057-forest-of-perdition-2-the-school-trip.json) |
+| Forest of Relics | 231698 | [231698-forest-of-relics.json](./231698-forest-of-relics.json) |
 | Forest of Soul | 279141 | [279141-forest-of-soul.json](./279141-forest-of-soul.json) |
 | Forest of Strays | 261600 | [261600-forest-of-strays.json](./261600-forest-of-strays.json) |
 | Forest Of Terenu | 369875 | [369875-forest-of-terenu.json](./369875-forest-of-terenu.json) |
@@ -13094,6 +13096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fully Dogomatic | 301289 | [301289-fully-dogomatic.json](./301289-fully-dogomatic.json) |
 | Fully Loaded Collector's Pack - Awesomenauts Assemble! Game Bundle | 90662 | [90662-fully-loaded-collectors-pack-awesomenauts-assemble-game-bundle.json](./90662-fully-loaded-collectors-pack-awesomenauts-assemble-game-bundle.json) |
 | fullybroKen | 171359 | [171359-fullybroken.json](./171359-fullybroken.json) |
+| Fullybroken: Way Home | 231677 | [231677-fullybroken-way-home.json](./231677-fullybroken-way-home.json) |
 | fullybroKen#4 | 115640 | [115640-fullybroken-4.json](./115640-fullybroken-4.json) |
 | Fúlóng: Tiānyuán Jìnglèi | 124214 | [124214-fulong-tianyuan-jinglei.json](./124214-fulong-tianyuan-jinglei.json) |
 | Fuman Ghoul | 399007 | [399007-fuman-ghoul.json](./399007-fuman-ghoul.json) |
