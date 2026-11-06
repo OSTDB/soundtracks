@@ -1747,6 +1747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underfire | 157935 | [157935-underfire.json](./157935-underfire.json) |
 | Underflow | 101229 | [101229-underflow.json](./101229-underflow.json) |
 | Underfoot | 417209 | [417209-underfoot.json](./417209-underfoot.json) |
+| Underfoot Queens | 217054 | [217054-underfoot-queens.json](./217054-underfoot-queens.json) |
 | UnderForged | 414474 | [414474-underforged.json](./414474-underforged.json) |
 | Undergod | 276153 | [276153-undergod.json](./276153-undergod.json) |
 | Undergoes | 312993 | [312993-undergoes.json](./312993-undergoes.json) |
@@ -2876,6 +2877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Until It's Undone | 185345 | [185345-until-its-undone.json](./185345-until-its-undone.json) |
 | Until Last Breath | 148539 | [148539-until-last-breath.json](./148539-until-last-breath.json) |
 | Until Last Tomorrow | 224815 | [224815-until-last-tomorrow.json](./224815-until-last-tomorrow.json) |
+| Until Lights Out | 217059 | [217059-until-lights-out.json](./217059-until-lights-out.json) |
 | Until None Remain | 345765 | [345765-until-none-remain.json](./345765-until-none-remain.json) |
 | Until None Remain VR | 68365 | [68365-until-none-remain-vr.json](./68365-until-none-remain-vr.json) |
 | Until None Remain: Battle Royale VR | 74556 | [74556-until-none-remain-battle-royale-vr.json](./74556-until-none-remain-battle-royale-vr.json) |
