@@ -558,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xel: Breaking Time | 246632 | [246632-xel-breaking-time.json](./246632-xel-breaking-time.json) |
 | Xel: Breaking Time | 246756 | [246756-xel-breaking-time.json](./246756-xel-breaking-time.json) |
 | Xel: Complete Edition | 246633 | [246633-xel-complete-edition.json](./246633-xel-complete-edition.json) |
+| Xel: Save the World Edition | 210946 | [210946-xel-save-the-world-edition.json](./210946-xel-save-the-world-edition.json) |
 | Xelan Force | 277340 | [277340-xelan-force.json](./277340-xelan-force.json) |
 | Xelphi: Second Limit | 213894 | [213894-xelphi-second-limit.json](./213894-xelphi-second-limit.json) |
 | Xemo: Robot Sim | 30939 | [30939-xemo-robot-sim.json](./30939-xemo-robot-sim.json) |
