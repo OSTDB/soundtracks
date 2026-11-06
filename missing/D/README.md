@@ -8141,6 +8141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devils Wind Mine | 294156 | [294156-devils-wind-mine.json](./294156-devils-wind-mine.json) |
 | DevilShaft: TheTower | 116843 | [116843-devilshaft-thetower.json](./116843-devilshaft-thetower.json) |
 | DevilutionX | 242688 | [242688-devilutionx.json](./242688-devilutionx.json) |
+| Devin and the Celestial Necropolis | 218205 | [218205-devin-and-the-celestial-necropolis.json](./218205-devin-and-the-celestial-necropolis.json) |
 | Devinica | 253979 | [253979-devinica.json](./253979-devinica.json) |
 | Devious | 99156 | [99156-devious.json](./99156-devious.json) |
 | Devious Dungeon 2 | 68988 | [68988-devious-dungeon-2.json](./68988-devious-dungeon-2.json) |
