@@ -742,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare Collection | 136209 | [136209-call-of-duty-modern-warfare-collection.json](./136209-call-of-duty-modern-warfare-collection.json) |
 | Call of Duty: Modern Warfare II - Graffiti Tactical: Pro Pack | 257325 | [257325-call-of-duty-modern-warfare-ii-graffiti-tactical-pro-pack.json](./257325-call-of-duty-modern-warfare-ii-graffiti-tactical-pro-pack.json) |
 | Call of Duty: Modern Warfare II - Griffin: Pro Pack | 254759 | [254759-call-of-duty-modern-warfare-ii-griffin-pro-pack.json](./254759-call-of-duty-modern-warfare-ii-griffin-pro-pack.json) |
+| Call of Duty: Modern Warfare II - Season 01 | 225441 | [225441-call-of-duty-modern-warfare-ii-season-01.json](./225441-call-of-duty-modern-warfare-ii-season-01.json) |
 | Call of Duty: Modern Warfare II - Season 02 | 235080 | [235080-call-of-duty-modern-warfare-ii-season-02.json](./235080-call-of-duty-modern-warfare-ii-season-02.json) |
 | Call of Duty: Modern Warfare II - Season 03 | 243777 | [243777-call-of-duty-modern-warfare-ii-season-03.json](./243777-call-of-duty-modern-warfare-ii-season-03.json) |
 | Call of Duty: Modern Warfare II - Season 04 | 252460 | [252460-call-of-duty-modern-warfare-ii-season-04.json](./252460-call-of-duty-modern-warfare-ii-season-04.json) |
