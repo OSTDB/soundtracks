@@ -7554,6 +7554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates CSG Online | 20643 | [20643-pirates-csg-online.json](./20643-pirates-csg-online.json) |
 | Pirates Deck | 35643 | [35643-pirates-deck.json](./35643-pirates-deck.json) |
 | Pirates Girls | 148971 | [148971-pirates-girls.json](./148971-pirates-girls.json) |
+| Pirates Gold | 235539 | [235539-pirates-gold.json](./235539-pirates-gold.json) |
 | Pirates Golden Quest | 300854 | [300854-pirates-golden-quest.json](./300854-pirates-golden-quest.json) |
 | Pirates In Love | 232852 | [232852-pirates-in-love.json](./232852-pirates-in-love.json) |
 | Pirates in Love: Captain's Cut | 232853 | [232853-pirates-in-love-captains-cut.json](./232853-pirates-in-love-captains-cut.json) |
@@ -16042,6 +16043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Tokyo Dolls | 76143 | [76143-project-tokyo-dolls.json](./76143-project-tokyo-dolls.json) |
 | Project Toon Tanks | 132249 | [132249-project-toon-tanks.json](./132249-project-toon-tanks.json) |
 | Project Torrim | 180939 | [180939-project-torrim.json](./180939-project-torrim.json) |
+| Project Tower | 235578 | [235578-project-tower.json](./235578-project-tower.json) |
 | Project Treasure | 94761 | [94761-project-treasure.json](./94761-project-treasure.json) |
 | Project Trek | 193941 | [193941-project-trek.json](./193941-project-trek.json) |
 | Project TurboBlast | 327357 | [327357-project-turboblast.json](./327357-project-turboblast.json) |
@@ -16341,6 +16343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proper Tosser | 413493 | [413493-proper-tosser.json](./413493-proper-tosser.json) |
 | Property | 83593 | [83593-property.json](./83593-property.json) |
 | Property Brothers Home Design | 187801 | [187801-property-brothers-home-design.json](./187801-property-brothers-home-design.json) |
+| Property Pro | 235549 | [235549-property-pro.json](./235549-property-pro.json) |
 | Property Tycoon | 126184 | [126184-property-tycoon.json](./126184-property-tycoon.json) |
 | PropFight | 331438 | [331438-propfight.json](./331438-propfight.json) |
 | Prophan Escape | 274534 | [274534-prophan-escape.json](./274534-prophan-escape.json) |
