@@ -6646,6 +6646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pimp My Dungeon | 243959 | [243959-pimp-my-dungeon.json](./243959-pimp-my-dungeon.json) |
 | Pimp My Ride | 5098 | [5098-pimp-my-ride.json](./5098-pimp-my-ride.json) |
 | Pimp My Ride Street Racing | 274184 | [274184-pimp-my-ride-street-racing.json](./274184-pimp-my-ride-street-racing.json) |
+| Pimp My Water Gun | 221004 | [221004-pimp-my-water-gun.json](./221004-pimp-my-water-gun.json) |
 | Pimp Tight | 30550 | [30550-pimp-tight.json](./30550-pimp-tight.json) |
 | Pimp Up Dungeon | 358426 | [358426-pimp-up-dungeon.json](./358426-pimp-up-dungeon.json) |
 | Pimp's Quest | 387947 | [387947-pimps-quest.json](./387947-pimps-quest.json) |
