@@ -2829,6 +2829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jousty Dragons | 176190 | [176190-jousty-dragons.json](./176190-jousty-dragons.json) |
 | Jovian Drive | 343463 | [343463-jovian-drive.json](./343463-jovian-drive.json) |
 | Joy | 316859 | [316859-joy.json](./316859-joy.json) |
+| Joy and Me | 243458 | [243458-joy-and-me.json](./243458-joy-and-me.json) |
 | Joy Climb | 88020 | [88020-joy-climb.json](./88020-joy-climb.json) |
 | Joy e Toy | 248795 | [248795-joy-e-toy.json](./248795-joy-e-toy.json) |
 | Joy Exhibition | 56177 | [56177-joy-exhibition.json](./56177-joy-exhibition.json) |
