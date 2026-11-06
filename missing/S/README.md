@@ -5941,6 +5941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Setsugekka | 163363 | [163363-setsugekka.json](./163363-setsugekka.json) |
 | Setsuna ni Kakeru Koi Hanabi | 302683 | [302683-setsuna-ni-kakeru-koi-hanabi.json](./302683-setsuna-ni-kakeru-koi-hanabi.json) |
 | Setsuna ni Kakeru Koi Hanabi | 339821 | [339821-setsuna-ni-kakeru-koi-hanabi.json](./339821-setsuna-ni-kakeru-koi-hanabi.json) |
+| Setsuna no Tsumami Gui | 231665 | [231665-setsuna-no-tsumami-gui.json](./231665-setsuna-no-tsumami-gui.json) |
 | Setsunai | 77677 | [77677-setsunai.json](./77677-setsunai.json) |
 | Setteeh | 312883 | [312883-setteeh.json](./312883-setteeh.json) |
 | Settlands | 271593 | [271593-settlands.json](./271593-settlands.json) |
@@ -10712,6 +10713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimClassics: Maxis Collections 2 | 69711 | [69711-simclassics-maxis-collections-2.json](./69711-simclassics-maxis-collections-2.json) |
 | SimCoaster | 19422 | [19422-simcoaster.json](./19422-simcoaster.json) |
 | SimCopter | 1496 | [1496-simcopter.json](./1496-simcopter.json) |
+| SimCopter 64 | 231686 | [231686-simcopter-64.json](./231686-simcopter-64.json) |
 | SimDrive | 60881 | [60881-simdrive.json](./60881-simdrive.json) |
 | Sime is Back | 297854 | [297854-sime-is-back.json](./297854-sime-is-back.json) |
 | Sime Is Back 18+ | 380363 | [380363-sime-is-back-18.json](./380363-sime-is-back-18.json) |
@@ -31187,6 +31189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kids Racing: City Edition | 286860 | [286860-super-kids-racing-city-edition.json](./286860-super-kids-racing-city-edition.json) |
 | Super Kids Racing: Jungle Edition | 242412 | [242412-super-kids-racing-jungle-edition.json](./242412-super-kids-racing-jungle-edition.json) |
 | Super Kids Racing: Lava Edition | 286859 | [286859-super-kids-racing-lava-edition.json](./286859-super-kids-racing-lava-edition.json) |
+| Super Kids Racing: Mini Edition | 231697 | [231697-super-kids-racing-mini-edition.json](./231697-super-kids-racing-mini-edition.json) |
 | Super Kids Racing: Snow Edition | 249491 | [249491-super-kids-racing-snow-edition.json](./249491-super-kids-racing-snow-edition.json) |
 | Super Kids Racing: Theme Park Edition | 286861 | [286861-super-kids-racing-theme-park-edition.json](./286861-super-kids-racing-theme-park-edition.json) |
 | Super Kill-Boi 9000 | 215705 | [215705-super-kill-boi-9000.json](./215705-super-kill-boi-9000.json) |
@@ -31320,6 +31323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 3D Kart Deluxe | 265843 | [265843-super-mario-3d-kart-deluxe.json](./265843-super-mario-3d-kart-deluxe.json) |
 | Super Mario 3D World | 229339 | [229339-super-mario-3d-world.json](./229339-super-mario-3d-world.json) |
 | Super Mario 3D World + Bowser's Fury | 138227 | [138227-super-mario-3d-world-bowsers-fury.json](./138227-super-mario-3d-world-bowsers-fury.json) |
+| Super Mario 3D World and Nintendo Land Bundle | 231707 | [231707-super-mario-3d-world-and-nintendo-land-bundle.json](./231707-super-mario-3d-world-and-nintendo-land-bundle.json) |
 | Super Mario 3D World: Ghostly Glow | 313079 | [313079-super-mario-3d-world-ghostly-glow.json](./313079-super-mario-3d-world-ghostly-glow.json) |
 | Super Mario 4 | 160277 | [160277-super-mario-4.json](./160277-super-mario-4.json) |
 | Super Mario 4 Jugadores | 362159 | [362159-super-mario-4-jugadores.json](./362159-super-mario-4-jugadores.json) |
@@ -34322,6 +34326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzumiya Haruhi-chan no Mahjong | 61444 | [61444-suzumiya-haruhi-chan-no-mahjong.json](./61444-suzumiya-haruhi-chan-no-mahjong.json) |
 | Suzunaan on Fire | 127729 | [127729-suzunaan-on-fire.json](./127729-suzunaan-on-fire.json) |
 | Suzunone Seven! | 62265 | [62265-suzunone-seven.json](./62265-suzunone-seven.json) |
+| Suzy and freedom | 231682 | [231682-suzy-and-freedom.json](./231682-suzy-and-freedom.json) |
 | Suzy Burger | 151609 | [151609-suzy-burger.json](./151609-suzy-burger.json) |
 | Suzy Cube | 103247 | [103247-suzy-cube.json](./103247-suzy-cube.json) |
 | Suzy's Modular Run | 280025 | [280025-suzys-modular-run.json](./280025-suzys-modular-run.json) |
@@ -34993,6 +34998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switch Race | 306517 | [306517-switch-race.json](./306517-switch-race.json) |
 | Switch Range | 302004 | [302004-switch-range.json](./302004-switch-range.json) |
 | Switch Shapes | 406772 | [406772-switch-shapes.json](./406772-switch-shapes.json) |
+| Switch Sides | 231696 | [231696-switch-sides.json](./231696-switch-sides.json) |
 | Switch Sides 2: Sea Sandwich | 255037 | [255037-switch-sides-2-sea-sandwich.json](./255037-switch-sides-2-sea-sandwich.json) |
 | Switch the Darkness | 390449 | [390449-switch-the-darkness.json](./390449-switch-the-darkness.json) |
 | Switch the Track | 233693 | [233693-switch-the-track.json](./233693-switch-the-track.json) |
