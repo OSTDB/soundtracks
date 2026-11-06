@@ -2185,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Mechanic Simulator 2021: Dodge, Plymouth, Chrysler Remastered | 254278 | [254278-car-mechanic-simulator-2021-dodge-plymouth-chrysler-remastered.json](./254278-car-mechanic-simulator-2021-dodge-plymouth-chrysler-remastered.json) |
 | Car Mechanic Simulator 2021: Drag Racing | 225229 | [225229-car-mechanic-simulator-2021-drag-racing.json](./225229-car-mechanic-simulator-2021-drag-racing.json) |
 | Car Mechanic Simulator 2021: Ford Remastered DLC | 331811 | [331811-car-mechanic-simulator-2021-ford-remastered-dlc.json](./331811-car-mechanic-simulator-2021-ford-remastered-dlc.json) |
+| Car Mechanic Simulator 2021: Hot Rod Remastered | 195283 | [195283-car-mechanic-simulator-2021-hot-rod-remastered.json](./195283-car-mechanic-simulator-2021-hot-rod-remastered.json) |
 | Car Mechanic Simulator 2021: Jeep RAM Remastered | 296266 | [296266-car-mechanic-simulator-2021-jeep-ram-remastered.json](./296266-car-mechanic-simulator-2021-jeep-ram-remastered.json) |
 | Car Mechanic Simulator 2021: Mazda Remastered DLC | 331810 | [331810-car-mechanic-simulator-2021-mazda-remastered-dlc.json](./331810-car-mechanic-simulator-2021-mazda-remastered-dlc.json) |
 | Car Mechanic Simulator 2021: Mercedes-Benz Remastered DLC | 231841 | [231841-car-mechanic-simulator-2021-mercedes-benz-remastered-dlc.json](./231841-car-mechanic-simulator-2021-mercedes-benz-remastered-dlc.json) |
@@ -3255,6 +3256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Case Solved: The London Files | 392811 | [392811-case-solved-the-london-files.json](./392811-case-solved-the-london-files.json) |
 | Case White | 177768 | [177768-case-white.json](./177768-case-white.json) |
 | Case Zero | 306321 | [306321-case-zero.json](./306321-case-zero.json) |
+| Casebook 1899: The Leipzig Murders | 195304 | [195304-casebook-1899-the-leipzig-murders.json](./195304-casebook-1899-the-leipzig-murders.json) |
 | Casebook Trilogy: Special Edition | 67277 | [67277-casebook-trilogy-special-edition.json](./67277-casebook-trilogy-special-edition.json) |
 | Casebook: Episode 0 - The Missing Urn | 335437 | [335437-casebook-episode-0-the-missing-urn.json](./335437-casebook-episode-0-the-missing-urn.json) |
 | CaseCracker | 213713 | [213713-casecracker.json](./213713-casecracker.json) |
@@ -8957,6 +8959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circolour | 107239 | [107239-circolour.json](./107239-circolour.json) |
 | Circuit Artist | 338529 | [338529-circuit-artist.json](./338529-circuit-artist.json) |
 | Circuit Blasters | 221294 | [221294-circuit-blasters.json](./221294-circuit-blasters.json) |
+| Circuit Breaker | 195301 | [195301-circuit-breaker.json](./195301-circuit-breaker.json) |
 | Circuit Breaker | 261233 | [261233-circuit-breaker.json](./261233-circuit-breaker.json) |
 | Circuit Breaker | 364570 | [364570-circuit-breaker.json](./364570-circuit-breaker.json) |
 | Circuit Breakers | 135771 | [135771-circuit-breakers.json](./135771-circuit-breakers.json) |
@@ -14095,6 +14098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contract Revoked | 196502 | [196502-contract-revoked.json](./196502-contract-revoked.json) |
 | Contract Revoked: The Lost Chapters | 271237 | [271237-contract-revoked-the-lost-chapters.json](./271237-contract-revoked-the-lost-chapters.json) |
 | Contract Rush | 359879 | [359879-contract-rush.json](./359879-contract-rush.json) |
+| Contract Rush DX | 195329 | [195329-contract-rush-dx.json](./195329-contract-rush-dx.json) |
 | Contract Rush: Halloween Dress Up | 359882 | [359882-contract-rush-halloween-dress-up.json](./359882-contract-rush-halloween-dress-up.json) |
 | Contract Rush: Mission Sin | 359884 | [359884-contract-rush-mission-sin.json](./359884-contract-rush-mission-sin.json) |
 | Contract Sudoku | 277920 | [277920-contract-sudoku.json](./277920-contract-sudoku.json) |
@@ -14748,6 +14752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corma | 112620 | [112620-corma.json](./112620-corma.json) |
 | Corn | 309919 | [309919-corn.json](./309919-corn.json) |
 | Corn Buster | 42565 | [42565-corn-buster.json](./42565-corn-buster.json) |
+| Corn Defenders | 195288 | [195288-corn-defenders.json](./195288-corn-defenders.json) |
 | Corn Guard | 308737 | [308737-corn-guard.json](./308737-corn-guard.json) |
 | Corn Kidz 64 | 266118 | [266118-corn-kidz-64.json](./266118-corn-kidz-64.json) |
 | Corn Maze | 54893 | [54893-corn-maze.json](./54893-corn-maze.json) |
