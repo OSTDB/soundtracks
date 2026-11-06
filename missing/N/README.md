@@ -6933,6 +6933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Notes of Obsession | 56895 | [56895-notes-of-obsession.json](./56895-notes-of-obsession.json) |
 | Notes of Soul | 113343 | [113343-notes-of-soul.json](./113343-notes-of-soul.json) |
 | Notes of the Outskirts | 262255 | [262255-notes-of-the-outskirts.json](./262255-notes-of-the-outskirts.json) |
+| Notes of the Young Lady: In Turbulent Times | 237716 | [237716-notes-of-the-young-lady-in-turbulent-times.json](./237716-notes-of-the-young-lady-in-turbulent-times.json) |
 | Notes on a Mystery | 301474 | [301474-notes-on-a-mystery.json](./301474-notes-on-a-mystery.json) |
 | Notes on Crying | 181918 | [181918-notes-on-crying.json](./181918-notes-on-crying.json) |
 | Nother | 30899 | [30899-nother.json](./30899-nother.json) |
