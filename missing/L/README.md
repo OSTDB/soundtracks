@@ -9423,6 +9423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludo Anceint | 142938 | [142938-ludo-anceint.json](./142938-ludo-anceint.json) |
 | Ludo Blitz | 58751 | [58751-ludo-blitz.json](./58751-ludo-blitz.json) |
 | Ludo Club | 267502 | [267502-ludo-club.json](./267502-ludo-club.json) |
+| Ludo Game: Just Chill Out! | 199175 | [199175-ludo-game-just-chill-out.json](./199175-ludo-game-just-chill-out.json) |
 | Ludo King | 169778 | [169778-ludo-king.json](./169778-ludo-king.json) |
 | Ludo Live!: Heroes and Strategy | 242661 | [242661-ludo-live-heroes-and-strategy.json](./242661-ludo-live-heroes-and-strategy.json) |
 | Ludo Master | 54175 | [54175-ludo-master.json](./54175-ludo-master.json) |
@@ -9720,6 +9721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumo's Cat | 14303 | [14303-lumos-cat.json](./14303-lumos-cat.json) |
 | LumoraVR | 426456 | [426456-lumoravr.json](./426456-lumoravr.json) |
 | Lumos | 295613 | [295613-lumos.json](./295613-lumos.json) |
+| Lumote: Digital Deluxe Edition | 199189 | [199189-lumote-digital-deluxe-edition.json](./199189-lumote-digital-deluxe-edition.json) |
 | Lump Jump | 204994 | [204994-lump-jump.json](./204994-lump-jump.json) |
 | Lumpy | 158407 | [158407-lumpy.json](./158407-lumpy.json) |
 | Lumz | 232288 | [232288-lumz.json](./232288-lumz.json) |
