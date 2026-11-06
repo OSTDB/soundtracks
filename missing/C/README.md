@@ -9763,7 +9763,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Glory | 196408 | [196408-clash-of-glory.json](./196408-clash-of-glory.json) |
 | Clash of Irons: Blitzkrieg | 157483 | [157483-clash-of-irons-blitzkrieg.json](./157483-clash-of-irons-blitzkrieg.json) |
 | Clash of Kings | 15200 | [15200-clash-of-kings.json](./15200-clash-of-kings.json) |
+| Clash of Kings: The West | 194057 | [194057-clash-of-kings-the-west.json](./194057-clash-of-kings-the-west.json) |
 | Clash of Legends | 108178 | [108178-clash-of-legends.json](./108178-clash-of-legends.json) |
+| Clash of Legions: Total War | 194081 | [194081-clash-of-legions-total-war.json](./194081-clash-of-legions-total-war.json) |
 | Clash of Lords 2 | 38675 | [38675-clash-of-lords-2.json](./38675-clash-of-lords-2.json) |
 | Clash of Mafias | 60732 | [60732-clash-of-mafias.json](./60732-clash-of-mafias.json) |
 | Clash of Magic | 96461 | [96461-clash-of-magic.json](./96461-clash-of-magic.json) |
