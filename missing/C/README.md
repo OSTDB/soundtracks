@@ -1517,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canter Crossing | 276691 | [276691-canter-crossing.json](./276691-canter-crossing.json) |
 | Canterz Paranormies | 202508 | [202508-canterz-paranormies.json](./202508-canterz-paranormies.json) |
 | Canterz Paranormies 2 | 226281 | [226281-canterz-paranormies-2.json](./226281-canterz-paranormies-2.json) |
+| Cantina Royale | 214823 | [214823-cantina-royale.json](./214823-cantina-royale.json) |
 | Cantirium: God Slayer | 240726 | [240726-cantirium-god-slayer.json](./240726-cantirium-god-slayer.json) |
 | Canto I | 312784 | [312784-canto-i.json](./312784-canto-i.json) |
 | Cantrip | 186070 | [186070-cantrip.json](./186070-cantrip.json) |
@@ -11114,6 +11115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Name Teacher | 292307 | [292307-code-name-teacher.json](./292307-code-name-teacher.json) |
 | Code Name: Alteon | 334529 | [334529-code-name-alteon.json](./334529-code-name-alteon.json) |
 | Code Name: MA | 174835 | [174835-code-name-ma.json](./174835-code-name-ma.json) |
+| Code Name: Romance | 214838 | [214838-code-name-romance.json](./214838-code-name-romance.json) |
 | Code Name: Viper | 48069 | [48069-code-name-viper.json](./48069-code-name-viper.json) |
 | Code Name:X | 188334 | [188334-code-name-x.json](./188334-code-name-x.json) |
 | Code of Corruption | 374847 | [374847-code-of-corruption.json](./374847-code-of-corruption.json) |
