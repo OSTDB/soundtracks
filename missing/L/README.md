@@ -428,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ladder Box | 155888 | [155888-ladder-box.json](./155888-ladder-box.json) |
 | Ladder Climbing | 301818 | [301818-ladder-climbing.json](./301818-ladder-climbing.json) |
 | Ladder it Up! | 304640 | [304640-ladder-it-up.json](./304640-ladder-it-up.json) |
+| Ladder Larry | 220389 | [220389-ladder-larry.json](./220389-ladder-larry.json) |
 | Ladder Man | 70089 | [70089-ladder-man.json](./70089-ladder-man.json) |
 | Ladder Slasher | 56878 | [56878-ladder-slasher.json](./56878-ladder-slasher.json) |
 | Ladders by Powgi | 146927 | [146927-ladders-by-powgi.json](./146927-ladders-by-powgi.json) |
@@ -5080,6 +5081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lillie is the Keeper | 232396 | [232396-lillie-is-the-keeper.json](./232396-lillie-is-the-keeper.json) |
 | Lilliput Hero: Miniature World | 344241 | [344241-lilliput-hero-miniature-world.json](./344241-lilliput-hero-miniature-world.json) |
 | Lilliput Oukoku: Lillimoni to Issho-puni! | 49663 | [49663-lilliput-oukoku-lillimoni-to-issho-puni.json](./49663-lilliput-oukoku-lillimoni-to-issho-puni.json) |
+| Lillusion | 220390 | [220390-lillusion.json](./220390-lillusion.json) |
 | Lilly Adventure | 2218 | [2218-lilly-adventure.json](./2218-lilly-adventure.json) |
 | Lilly and Sasha: Guardian Angels | 34954 | [34954-lilly-and-sasha-guardian-angels.json](./34954-lilly-and-sasha-guardian-angels.json) |
 | Lilly and Sasha: Nexus of Souls | 35272 | [35272-lilly-and-sasha-nexus-of-souls.json](./35272-lilly-and-sasha-nexus-of-souls.json) |
@@ -5188,6 +5190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limes 235 | 415103 | [415103-limes-235.json](./415103-limes-235.json) |
 | Limestone | 322057 | [322057-limestone.json](./322057-limestone.json) |
 | Liminal | 105106 | [105106-liminal.json](./105106-liminal.json) |
+| Liminal | 220391 | [220391-liminal.json](./220391-liminal.json) |
 | Liminal | 344277 | [344277-liminal.json](./344277-liminal.json) |
 | Liminal 98 | 407790 | [407790-liminal-98.json](./407790-liminal-98.json) |
 | Liminal Aero | 399213 | [399213-liminal-aero.json](./399213-liminal-aero.json) |
@@ -5272,6 +5275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limsod | 177308 | [177308-limsod.json](./177308-limsod.json) |
 | Lin Zexu: No Smoking | 268892 | [268892-lin-zexu-no-smoking.json](./268892-lin-zexu-no-smoking.json) |
 | Lina: Witches of the Moon | 411578 | [411578-lina-witches-of-the-moon.json](./411578-lina-witches-of-the-moon.json) |
+| Linares: Bullet Fever | 220392 | [220392-linares-bullet-fever.json](./220392-linares-bullet-fever.json) |
 | Linch | 80978 | [80978-linch.json](./80978-linch.json) |
 | Lincity | 46721 | [46721-lincity.json](./46721-lincity.json) |
 | LinCity-NG | 145269 | [145269-lincity-ng.json](./145269-lincity-ng.json) |
@@ -5567,6 +5571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lion Heart Soushuu-hen | 207202 | [207202-lion-heart-soushuu-hen.json](./207202-lion-heart-soushuu-hen.json) |
 | Lion King 3 | 247408 | [247408-lion-king-3.json](./247408-lion-king-3.json) |
 | Lion King II | 203658 | [203658-lion-king-ii.json](./203658-lion-king-ii.json) |
+| Lion King Simulator | 220393 | [220393-lion-king-simulator.json](./220393-lion-king-simulator.json) |
 | Lion Pig: Frozen Run | 259238 | [259238-lion-pig-frozen-run.json](./259238-lion-pig-frozen-run.json) |
 | Lion Quest | 35277 | [35277-lion-quest.json](./35277-lion-quest.json) |
 | Lion Quest Infinity | 157519 | [157519-lion-quest-infinity.json](./157519-lion-quest-infinity.json) |
@@ -5713,6 +5718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Literally Free Will (From Prison) | 180750 | [180750-literally-free-will-from-prison.json](./180750-literally-free-will-from-prison.json) |
 | Literally Just Pixels On A Screen | 340922 | [340922-literally-just-pixels-on-a-screen.json](./340922-literally-just-pixels-on-a-screen.json) |
 | Litguy Adventure | 213390 | [213390-litguy-adventure.json](./213390-litguy-adventure.json) |
+| Litha and the Sunhouse | 220394 | [220394-litha-and-the-sunhouse.json](./220394-litha-and-the-sunhouse.json) |
 | Lithium | 369813 | [369813-lithium.json](./369813-lithium.json) |
 | Lithium City | 134543 | [134543-lithium-city.json](./134543-lithium-city.json) |
 | Lithium: Inmate 39 | 25876 | [25876-lithium-inmate-39.json](./25876-lithium-inmate-39.json) |
@@ -6305,6 +6311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Littlebird/TrueEyes | 241524 | [241524-littlebird-trueeyes.json](./241524-littlebird-trueeyes.json) |
 | LittleCity | 182091 | [182091-littlecity.json](./182091-littlecity.json) |
 | LittleHero | 204288 | [204288-littlehero.json](./204288-littlehero.json) |
+| Littlelands | 220395 | [220395-littlelands.json](./220395-littlelands.json) |
 | LittleMouseHero | 285912 | [285912-littlemousehero.json](./285912-littlemousehero.json) |
 | Littleroot Researchers | 195087 | [195087-littleroot-researchers.json](./195087-littleroot-researchers.json) |
 | LittleRunner | 387483 | [387483-littlerunner.json](./387483-littlerunner.json) |
@@ -6537,6 +6544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lkyt. | 207259 | [207259-lkyt.json](./207259-lkyt.json) |
 | Llama God | 179991 | [179991-llama-god.json](./179991-llama-god.json) |
 | Llama Legends | 394812 | [394812-llama-legends.json](./394812-llama-legends.json) |
+| Llama the Farm Drama | 220397 | [220397-llama-the-farm-drama.json](./220397-llama-the-farm-drama.json) |
 | Llama Villa | 129572 | [129572-llama-villa.json](./129572-llama-villa.json) |
 | LlamaCarrot | 202032 | [202032-llamacarrot.json](./202032-llamacarrot.json) |
 | Llamagotchi | 223597 | [223597-llamagotchi.json](./223597-llamagotchi.json) |
@@ -6593,6 +6601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loading Simulator | 252668 | [252668-loading-simulator.json](./252668-loading-simulator.json) |
 | Loading Story | 169144 | [169144-loading-story.json](./169144-loading-story.json) |
 | Loading Zone | 193469 | [193469-loading-zone.json](./193469-loading-zone.json) |
+| Loading... | 220398 | [220398-loading.json](./220398-loading.json) |
 | Loading... | 365761 | [365761-loading.json](./365761-loading.json) |
 | Loadout | 3224 | [3224-loadout.json](./3224-loadout.json) |
 | Loadout: Premium Edition | 118718 | [118718-loadout-premium-edition.json](./118718-loadout-premium-edition.json) |
@@ -6691,6 +6700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock's Quest | 46557 | [46557-locks-quest.json](./46557-locks-quest.json) |
 | Lockdown | 286791 | [286791-lockdown.json](./286791-lockdown.json) |
 | LockDown | 225705 | [225705-lockdown.json](./225705-lockdown.json) |
+| Lockdown 2024 | 220399 | [220399-lockdown-2024.json](./220399-lockdown-2024.json) |
 | Lockdown Hero | 167514 | [167514-lockdown-hero.json](./167514-lockdown-hero.json) |
 | Lockdown Lewd Up! | 159315 | [159315-lockdown-lewd-up.json](./159315-lockdown-lewd-up.json) |
 | Lockdown Opportunities | 333769 | [333769-lockdown-opportunities.json](./333769-lockdown-opportunities.json) |
@@ -6773,6 +6783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locomotive 2 | 66556 | [66556-locomotive-2.json](./66556-locomotive-2.json) |
 | Locomotive 4: Deluxe Edition | 54178 | [54178-locomotive-4-deluxe-edition.json](./54178-locomotive-4-deluxe-edition.json) |
 | LocoMotives | 116719 | [116719-locomotives.json](./116719-locomotives.json) |
+| Locomotorica: Staggering Ragdoll | 220400 | [220400-locomotorica-staggering-ragdoll.json](./220400-locomotorica-staggering-ragdoll.json) |
 | LocoPets | 311861 | [311861-locopets.json](./311861-locopets.json) |
 | LocoRoco 2 | 1461 | [1461-locoroco-2.json](./1461-locoroco-2.json) |
 | LocoRoco Cocoreccho | 1460 | [1460-locoroco-cocoreccho.json](./1460-locoroco-cocoreccho.json) |
@@ -6834,6 +6845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lofi Kitten | 266305 | [266305-lofi-kitten.json](./266305-lofi-kitten.json) |
 | Lofi Milk Delivery | 245921 | [245921-lofi-milk-delivery.json](./245921-lofi-milk-delivery.json) |
 | Lofi Ping Pong | 116187 | [116187-lofi-ping-pong.json](./116187-lofi-ping-pong.json) |
+| Lofi Waifu Jigsaw | 220401 | [220401-lofi-waifu-jigsaw.json](./220401-lofi-waifu-jigsaw.json) |
 | Lofi Witch Hatch | 407096 | [407096-lofi-witch-hatch.json](./407096-lofi-witch-hatch.json) |
 | Lofi Witch Hatch: Deluxe Edition | 409972 | [409972-lofi-witch-hatch-deluxe-edition.json](./409972-lofi-witch-hatch-deluxe-edition.json) |
 | Lofirunner | 332844 | [332844-lofirunner.json](./332844-lofirunner.json) |
@@ -7106,6 +7118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Traveler | 232947 | [232947-lone-traveler.json](./232947-lone-traveler.json) |
 | Lone Vessel | 67603 | [67603-lone-vessel.json](./67603-lone-vessel.json) |
 | Lone Voyage | 345648 | [345648-lone-voyage.json](./345648-lone-voyage.json) |
+| Lone Wolf | 220402 | [220402-lone-wolf.json](./220402-lone-wolf.json) |
 | Lone Wolf DS I: Flight From The Dark | 308379 | [308379-lone-wolf-ds-i-flight-from-the-dark.json](./308379-lone-wolf-ds-i-flight-from-the-dark.json) |
 | Lone Wolf DS II: Fire On The Water | 341970 | [341970-lone-wolf-ds-ii-fire-on-the-water.json](./341970-lone-wolf-ds-ii-fire-on-the-water.json) |
 | Lone Wolf DS III: The Caverns of Kalte | 341971 | [341971-lone-wolf-ds-iii-the-caverns-of-kalte.json](./341971-lone-wolf-ds-iii-the-caverns-of-kalte.json) |
@@ -7267,6 +7280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Longtail!! | 351080 | [351080-longtail.json](./351080-longtail.json) |
 | Longvinter | 152626 | [152626-longvinter.json](./152626-longvinter.json) |
 | Lonley, Lustful, Arrogant, Hateful | 172726 | [172726-lonley-lustful-arrogant-hateful.json](./172726-lonley-lustful-arrogant-hateful.json) |
+| LonlyToy | 220403 | [220403-lonlytoy.json](./220403-lonlytoy.json) |
 | Lonn | 135113 | [135113-lonn.json](./135113-lonn.json) |
 | LonQ! Highland in DS: Puu Puu Seijin Arawaru!! Shukketsu Dai-service! Onara no Saiten SP | 269826 | [269826-lonq-highland-in-ds-puu-puu-seijin-arawaru-shukketsu-dai-service-onara-no-saiten-sp.json](./269826-lonq-highland-in-ds-puu-puu-seijin-arawaru-shukketsu-dai-service-onara-no-saiten-sp.json) |
 | Lontra-Metragem | 237326 | [237326-lontra-metragem.json](./237326-lontra-metragem.json) |
