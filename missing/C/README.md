@@ -571,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call Hating | 207483 | [207483-call-hating.json](./207483-call-hating.json) |
 | Call Hating 2000 | 290497 | [290497-call-hating-2000.json](./290497-call-hating-2000.json) |
 | Call Me Cera | 163982 | [163982-call-me-cera.json](./163982-call-me-cera.json) |
+| Call Me Demon Lord | 196390 | [196390-call-me-demon-lord.json](./196390-call-me-demon-lord.json) |
 | Call Me Emperor | 221961 | [221961-call-me-emperor.json](./221961-call-me-emperor.json) |
 | Call Me Hero | 305924 | [305924-call-me-hero.json](./305924-call-me-hero.json) |
 | Call Me Skyfish | 54334 | [54334-call-me-skyfish.json](./54334-call-me-skyfish.json) |
@@ -3174,6 +3175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carvalho: Los Pájaros de Bangkok | 138790 | [138790-carvalho-los-pajaros-de-bangkok.json](./138790-carvalho-los-pajaros-de-bangkok.json) |
 | Carve | 5767 | [5767-carve.json](./5767-carve.json) |
 | Carve Jr. | 240967 | [240967-carve-jr.json](./240967-carve-jr.json) |
+| Carve Snowboarding | 196376 | [196376-carve-snowboarding.json](./196376-carve-snowboarding.json) |
 | Carve The Cave Together | 414602 | [414602-carve-the-cave-together.json](./414602-carve-the-cave-together.json) |
 | Carved Brink | 356881 | [356881-carved-brink.json](./356881-carved-brink.json) |
 | Carved In Stone | 321351 | [321351-carved-in-stone.json](./321351-carved-in-stone.json) |
@@ -9760,6 +9762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Magic | 96461 | [96461-clash-of-magic.json](./96461-clash-of-magic.json) |
 | Clash of Magic VR | 86626 | [86626-clash-of-magic-vr.json](./86626-clash-of-magic-vr.json) |
 | Clash of Magic: Spectator Mode | 99027 | [99027-clash-of-magic-spectator-mode.json](./99027-clash-of-magic-spectator-mode.json) |
+| Clash of Mushroom | 196356 | [196356-clash-of-mushroom.json](./196356-clash-of-mushroom.json) |
 | Clash of Panzer | 220159 | [220159-clash-of-panzer.json](./220159-clash-of-panzer.json) |
 | Clash of Puppets | 17892 | [17892-clash-of-puppets.json](./17892-clash-of-puppets.json) |
 | Clash of Robots | 50752 | [50752-clash-of-robots.json](./50752-clash-of-robots.json) |
@@ -11117,6 +11120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cockroach Clicker | 371337 | [371337-cockroach-clicker.json](./371337-cockroach-clicker.json) |
 | cockroach Planet Survival | 115528 | [115528-cockroach-planet-survival.json](./115528-cockroach-planet-survival.json) |
 | Cockroach Simulator | 31329 | [31329-cockroach-simulator.json](./31329-cockroach-simulator.json) |
+| Cockroach Simulator 2 | 196395 | [196395-cockroach-simulator-2.json](./196395-cockroach-simulator-2.json) |
 | Cockroach Simulator: Household Survivor | 240022 | [240022-cockroach-simulator-household-survivor.json](./240022-cockroach-simulator-household-survivor.json) |
 | Cockroach VR | 31361 | [31361-cockroach-vr.json](./31361-cockroach-vr.json) |
 | Cockroach! | 374319 | [374319-cockroach.json](./374319-cockroach.json) |
@@ -20476,6 +20480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Soldier | 251351 | [251351-cyber-soldier.json](./251351-cyber-soldier.json) |
 | Cyber Soldier Sharaku | 45934 | [45934-cyber-soldier-sharaku.json](./45934-cyber-soldier-sharaku.json) |
 | Cyber Souls | 238591 | [238591-cyber-souls.json](./238591-cyber-souls.json) |
+| Cyber Space | 196357 | [196357-cyber-space.json](./196357-cyber-space.json) |
 | Cyber Space Driver | 261055 | [261055-cyber-space-driver.json](./261055-cyber-space-driver.json) |
 | Cyber Speedway | 19740 | [19740-cyber-speedway.json](./19740-cyber-speedway.json) |
 | Cyber Spin | 42615 | [42615-cyber-spin.json](./42615-cyber-spin.json) |
