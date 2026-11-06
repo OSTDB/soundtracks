@@ -3981,6 +3981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letter From Heart Antique Shop | 374361 | [374361-letter-from-heart-antique-shop.json](./374361-letter-from-heart-antique-shop.json) |
 | Letter from Nadine | 374336 | [374336-letter-from-nadine.json](./374336-letter-from-nadine.json) |
 | Letter Hunter | 372516 | [372516-letter-hunter.json](./372516-letter-hunter.json) |
+| Letter Labyrinth | 229463 | [229463-letter-labyrinth.json](./229463-letter-labyrinth.json) |
 | Letter Land 2 | 97146 | [97146-letter-land-2.json](./97146-letter-land-2.json) |
 | Letter Lattice | 174190 | [174190-letter-lattice.json](./174190-letter-lattice.json) |
 | Letter League | 254445 | [254445-letter-league.json](./254445-letter-league.json) |
@@ -9091,6 +9092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lua Bingo | 87136 | [87136-lua-bingo.json](./87136-lua-bingo.json) |
 | Luànshì Yúnyān | 398456 | [398456-luanshi-yunyan.json](./398456-luanshi-yunyan.json) |
 | Luanti | 19437 | [19437-luanti.json](./19437-luanti.json) |
+| Luar | 229430 | [229430-luar.json](./229430-luar.json) |
 | Luberman and the Legend of Animals Warriors | 208580 | [208580-luberman-and-the-legend-of-animals-warriors.json](./208580-luberman-and-the-legend-of-animals-warriors.json) |
 | Luc Bernard's Reaper | 93601 | [93601-luc-bernards-reaper.json](./93601-luc-bernards-reaper.json) |
 | Luca no Puzzle de Daibouken! | 228606 | [228606-luca-no-puzzle-de-daibouken.json](./228606-luca-no-puzzle-de-daibouken.json) |
