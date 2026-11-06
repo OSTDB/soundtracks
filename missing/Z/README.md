@@ -2279,6 +2279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo-pocalypse | 396899 | [396899-zoo-pocalypse.json](./396899-zoo-pocalypse.json) |
 | Zoo's Mad | 187229 | [187229-zoos-mad.json](./187229-zoos-mad.json) |
 | Zoobles! Spring to Life! | 9753 | [9753-zoobles-spring-to-life.json](./9753-zoobles-spring-to-life.json) |
+| Zoocastle | 234991 | [234991-zoocastle.json](./234991-zoocastle.json) |
 | Zooclan | 394137 | [394137-zooclan.json](./394137-zooclan.json) |
 | Zoocube | 248467 | [248467-zoocube.json](./248467-zoocube.json) |
 | Zoocube | 248468 | [248468-zoocube.json](./248468-zoocube.json) |
