@@ -6956,6 +6956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythmetallic | 154890 | [154890-rhythmetallic.json](./154890-rhythmetallic.json) |
 | Rhythmetric | 364572 | [364572-rhythmetric.json](./364572-rhythmetric.json) |
 | Rhythmic Gymnastics Dream Team: Girls Dance | 103107 | [103107-rhythmic-gymnastics-dream-team-girls-dance.json](./103107-rhythmic-gymnastics-dream-team-girls-dance.json) |
+| Rhythmic Keyboard | 199692 | [199692-rhythmic-keyboard.json](./199692-rhythmic-keyboard.json) |
 | Rhythmic Retro Racer | 129664 | [129664-rhythmic-retro-racer.json](./129664-rhythmic-retro-racer.json) |
 | Rhythmic Star! | 43468 | [43468-rhythmic-star.json](./43468-rhythmic-star.json) |
 | Rhythmica | 74223 | [74223-rhythmica.json](./74223-rhythmica.json) |
@@ -12289,6 +12290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Man | 251641 | [251641-run-man.json](./251641-run-man.json) |
 | Run Mr. Bunny | 94879 | [94879-run-mr-bunny.json](./94879-run-mr-bunny.json) |
 | Run Mr. Robo! | 307872 | [307872-run-mr-robo.json](./307872-run-mr-robo.json) |
+| Run n Jump | 199685 | [199685-run-n-jump.json](./199685-run-n-jump.json) |
 | Run N' Gun | 195737 | [195737-run-n-gun.json](./195737-run-n-gun.json) |
 | Run Naked Woman Run | 112737 | [112737-run-naked-woman-run.json](./112737-run-naked-woman-run.json) |
 | Run Ninja Run | 190074 | [190074-run-ninja-run.json](./190074-run-ninja-run.json) |
