@@ -2244,6 +2244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 6: Gold Edition | 136403 | [136403-far-cry-6-gold-edition.json](./136403-far-cry-6-gold-edition.json) |
 | Far Cry 6: Limited Edition | 139867 | [139867-far-cry-6-limited-edition.json](./139867-far-cry-6-limited-edition.json) |
 | Far Cry 6: Lost Between Worlds | 228591 | [228591-far-cry-6-lost-between-worlds.json](./228591-far-cry-6-lost-between-worlds.json) |
+| Far Cry 6: Season Pass | 203510 | [203510-far-cry-6-season-pass.json](./203510-far-cry-6-season-pass.json) |
 | Far Cry 6: Ultimate Edition | 136404 | [136404-far-cry-6-ultimate-edition.json](./136404-far-cry-6-ultimate-edition.json) |
 | Far Cry 6: Yara Edition | 168549 | [168549-far-cry-6-yara-edition.json](./168549-far-cry-6-yara-edition.json) |
 | Far Cry Anthology Bundle | 188049 | [188049-far-cry-anthology-bundle.json](./188049-far-cry-anthology-bundle.json) |
@@ -10393,6 +10394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Chapter 2 - Season 8 | 171971 | [171971-fortnite-chapter-2-season-8.json](./171971-fortnite-chapter-2-season-8.json) |
 | Fortnite: Chapter 2 Remix | 321386 | [321386-fortnite-chapter-2-remix.json](./321386-fortnite-chapter-2-remix.json) |
 | Fortnite: Chapter 3 - Season 2: Resistance | 194664 | [194664-fortnite-chapter-3-season-2-resistance.json](./194664-fortnite-chapter-3-season-2-resistance.json) |
+| Fortnite: Chapter 3 - Season 3: Vibin' | 203486 | [203486-fortnite-chapter-3-season-3-vibin.json](./203486-fortnite-chapter-3-season-3-vibin.json) |
 | Fortnite: Chapter 3 - Season 4: Paradise | 218104 | [218104-fortnite-chapter-3-season-4-paradise.json](./218104-fortnite-chapter-3-season-4-paradise.json) |
 | Fortnite: Chapter 4 | 228328 | [228328-fortnite-chapter-4.json](./228328-fortnite-chapter-4.json) |
 | Fortnite: Chapter 4 - Season 2: Mega | 241495 | [241495-fortnite-chapter-4-season-2-mega.json](./241495-fortnite-chapter-4-season-2-mega.json) |
