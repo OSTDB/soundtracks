@@ -958,7 +958,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7466,6 +7465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Kahuna Reef 3 | 339615 | [339615-big-kahuna-reef-3.json](./339615-big-kahuna-reef-3.json) |
 | Big Kahuna Words | 91556 | [91556-big-kahuna-words.json](./91556-big-kahuna-words.json) |
 | Big Karnak | 39614 | [39614-big-karnak.json](./39614-big-karnak.json) |
+| Big Kids & Toddlers Educational Learning Games Collection Bundle 5-in-1 | 223752 | [223752-big-kids-and-toddlers-educational-learning-games-collection-bundle-5-in-1.json](./223752-big-kids-and-toddlers-educational-learning-games-collection-bundle-5-in-1.json) |
 | Big Kids Games Collection Bundle | 226330 | [226330-big-kids-games-collection-bundle.json](./226330-big-kids-games-collection-bundle.json) |
 | Big Kids Games Collection Bundle 6-in-1 Funny Educational Children & Toddler Learning Pack | 400071 | [400071-big-kids-games-collection-bundle-6-in-1-funny-educational-children-and-toddler-learning-pack.json](./400071-big-kids-games-collection-bundle-6-in-1-funny-educational-children-and-toddler-learning-pack.json) |
 | Big Klondike: Classic Solitaire | 168335 | [168335-big-klondike-classic-solitaire.json](./168335-big-klondike-classic-solitaire.json) |
@@ -7576,6 +7576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Win NHL | 59621 | [59621-big-win-nhl.json](./59621-big-win-nhl.json) |
 | Big Win Racing | 59622 | [59622-big-win-racing.json](./59622-big-win-racing.json) |
 | Big Win Soccer | 59624 | [59624-big-win-soccer.json](./59624-big-win-soccer.json) |
+| Big XXL Kids Games Collection Bundle 11-in-1 Educational Children Learning Fun | 223753 | [223753-big-xxl-kids-games-collection-bundle-11-in-1-educational-children-learning-fun.json](./223753-big-xxl-kids-games-collection-bundle-11-in-1-educational-children-learning-fun.json) |
 | Big Yeetus | 260096 | [260096-big-yeetus.json](./260096-big-yeetus.json) |
 | Big-Battle Tanks | 388220 | [388220-big-battle-tanks.json](./388220-big-battle-tanks.json) |
 | Big-Time Butter Baron | 313178 | [313178-big-time-butter-baron.json](./313178-big-time-butter-baron.json) |
