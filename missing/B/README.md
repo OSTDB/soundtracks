@@ -13477,6 +13477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottomless Block Barrage | 305738 | [305738-bottomless-block-barrage.json](./305738-bottomless-block-barrage.json) |
 | Bottomless Pitfall | 348879 | [348879-bottomless-pitfall.json](./348879-bottomless-pitfall.json) |
 | Bottoms Up | 176941 | [176941-bottoms-up.json](./176941-bottoms-up.json) |
+| Bottoms Up!: Part 1 | 238820 | [238820-bottoms-up-part-1.json](./238820-bottoms-up-part-1.json) |
 | Bottop | 329196 | [329196-bottop.json](./329196-bottop.json) |
 | Botty: Paper tales | 199242 | [199242-botty-paper-tales.json](./199242-botty-paper-tales.json) |
 | Botworld Adventure | 166452 | [166452-botworld-adventure.json](./166452-botworld-adventure.json) |
@@ -15663,6 +15664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Banners | 192839 | [192839-broken-banners.json](./192839-broken-banners.json) |
 | Broken Betrayal | 190921 | [190921-broken-betrayal.json](./190921-broken-betrayal.json) |
 | Broken Bird: Spread Your Wings | 210320 | [210320-broken-bird-spread-your-wings.json](./210320-broken-bird-spread-your-wings.json) |
+| Broken Blade: Airgetlam | 238830 | [238830-broken-blade-airgetlam.json](./238830-broken-blade-airgetlam.json) |
 | Broken Blades | 152787 | [152787-broken-blades.json](./152787-broken-blades.json) |
 | Broken Blue | 30404 | [30404-broken-blue.json](./30404-broken-blue.json) |
 | Broken Bots | 19681 | [19681-broken-bots.json](./19681-broken-bots.json) |
