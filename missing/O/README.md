@@ -1206,6 +1206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh So Lucky! Doctor : A Surgery Soap Opera | 131783 | [131783-oh-so-lucky-doctor-a-surgery-soap-opera.json](./131783-oh-so-lucky-doctor-a-surgery-soap-opera.json) |
 | Oh Tennis | 341847 | [341847-oh-tennis.json](./341847-oh-tennis.json) |
 | Oh That's Why | 381951 | [381951-oh-thats-why.json](./381951-oh-thats-why.json) |
+| Oh the Frustration: Dev Edition | 212561 | [212561-oh-the-frustration-dev-edition.json](./212561-oh-the-frustration-dev-edition.json) |
 | Oh the Humanity! | 311481 | [311481-oh-the-humanity.json](./311481-oh-the-humanity.json) |
 | Oh to be a ghost bringing a scarf to my beloved | 307696 | [307696-oh-to-be-a-ghost-bringing-a-scarf-to-my-beloved.json](./307696-oh-to-be-a-ghost-bringing-a-scarf-to-my-beloved.json) |
 | Oh Trap! | 113411 | [113411-oh-trap.json](./113411-oh-trap.json) |
@@ -1365,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okame | 101896 | [101896-okame.json](./101896-okame.json) |
 | Okami + Kunitsu-Gami Bundle | 331481 | [331481-okami-kunitsu-gami-bundle.json](./331481-okami-kunitsu-gami-bundle.json) |
 | Okami HD: Limited Edition | 136788 | [136788-okami-hd-limited-edition.json](./136788-okami-hd-limited-edition.json) |
+| Okami no Yume | 212566 | [212566-okami-no-yume.json](./212566-okami-no-yume.json) |
 | Okami Sequel | 325610 | [325610-okami-sequel.json](./325610-okami-sequel.json) |
 | Okamoto Ayako to Match Play Golf | 38163 | [38163-okamoto-ayako-to-match-play-golf.json](./38163-okamoto-ayako-to-match-play-golf.json) |
 | Okamoto Ayako to Match Play Golf | 38179 | [38179-okamoto-ayako-to-match-play-golf.json](./38179-okamoto-ayako-to-match-play-golf.json) |
@@ -2518,6 +2520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece Odyssey: Jewelry Pack | 312109 | [312109-one-piece-odyssey-jewelry-pack.json](./312109-one-piece-odyssey-jewelry-pack.json) |
 | One Piece Odyssey: Reunion of Memories | 252387 | [252387-one-piece-odyssey-reunion-of-memories.json](./252387-one-piece-odyssey-reunion-of-memories.json) |
 | One Piece Odyssey: Traveling Outfit Set | 238380 | [238380-one-piece-odyssey-traveling-outfit-set.json](./238380-one-piece-odyssey-traveling-outfit-set.json) |
+| One Piece Tetris | 212557 | [212557-one-piece-tetris.json](./212557-one-piece-tetris.json) |
 | One Piece Unlimited World Red: Chopper Edition | 223469 | [223469-one-piece-unlimited-world-red-chopper-edition.json](./223469-one-piece-unlimited-world-red-chopper-edition.json) |
 | One Piece: Ambition | 319610 | [319610-one-piece-ambition.json](./319610-one-piece-ambition.json) |
 | One Piece: Bon! Bon! Journey!! | 117667 | [117667-one-piece-bon-bon-journey.json](./117667-one-piece-bon-bon-journey.json) |
