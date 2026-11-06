@@ -1695,9 +1695,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Masterpieces: Big Cat Friends | 231219 | [231219-jigsaw-masterpieces-big-cat-friends.json](./231219-jigsaw-masterpieces-big-cat-friends.json) |
 | Jigsaw Masterpieces: Black Cats in a Cat Welfare Cafe / Kenta Igarashi | 238151 | [238151-jigsaw-masterpieces-black-cats-in-a-cat-welfare-cafe-kenta-igarashi.json](./238151-jigsaw-masterpieces-black-cats-in-a-cat-welfare-cafe-kenta-igarashi.json) |
 | Jigsaw Masterpieces: Cats and Friends on the Suetoshi Farm / Kenta Igarashi | 238309 | [238309-jigsaw-masterpieces-cats-and-friends-on-the-suetoshi-farm-kenta-igarashi.json](./238309-jigsaw-masterpieces-cats-and-friends-on-the-suetoshi-farm-kenta-igarashi.json) |
+| Jigsaw Masterpieces: Chihuahua - The Smallest Dog | 238270 | [238270-jigsaw-masterpieces-chihuahua-the-smallest-dog.json](./238270-jigsaw-masterpieces-chihuahua-the-smallest-dog.json) |
+| Jigsaw Masterpieces: Colorful Birds | 238266 | [238266-jigsaw-masterpieces-colorful-birds.json](./238266-jigsaw-masterpieces-colorful-birds.json) |
 | Jigsaw Masterpieces: Colorful Sweets | 226332 | [226332-jigsaw-masterpieces-colorful-sweets.json](./226332-jigsaw-masterpieces-colorful-sweets.json) |
+| Jigsaw Masterpieces: Colorful Town | 238267 | [238267-jigsaw-masterpieces-colorful-town.json](./238267-jigsaw-masterpieces-colorful-town.json) |
+| Jigsaw Masterpieces: Cute Lovely Cats | 238268 | [238268-jigsaw-masterpieces-cute-lovely-cats.json](./238268-jigsaw-masterpieces-cute-lovely-cats.json) |
+| Jigsaw Masterpieces: Cute Lovely Dogs | 238269 | [238269-jigsaw-masterpieces-cute-lovely-dogs.json](./238269-jigsaw-masterpieces-cute-lovely-dogs.json) |
 | Jigsaw Masterpieces: Fantastical Waterfalls | 199837 | [199837-jigsaw-masterpieces-fantastical-waterfalls.json](./199837-jigsaw-masterpieces-fantastical-waterfalls.json) |
+| Jigsaw Masterpieces: Fireworks and Nightscape | 238251 | [238251-jigsaw-masterpieces-fireworks-and-nightscape.json](./238251-jigsaw-masterpieces-fireworks-and-nightscape.json) |
+| Jigsaw Masterpieces: Flower Arrangement | 238249 | [238249-jigsaw-masterpieces-flower-arrangement.json](./238249-jigsaw-masterpieces-flower-arrangement.json) |
+| Jigsaw Masterpieces: Flower Garden | 238250 | [238250-jigsaw-masterpieces-flower-garden.json](./238250-jigsaw-masterpieces-flower-garden.json) |
 | Jigsaw Masterpieces: Flowers & Organisms | 204870 | [204870-jigsaw-masterpieces-flowers-and-organisms.json](./204870-jigsaw-masterpieces-flowers-and-organisms.json) |
+| Jigsaw Masterpieces: Fluffy Animals in Hokkaido / Kenta Igarashi | 238263 | [238263-jigsaw-masterpieces-fluffy-animals-in-hokkaido-kenta-igarashi.json](./238263-jigsaw-masterpieces-fluffy-animals-in-hokkaido-kenta-igarashi.json) |
+| Jigsaw Masterpieces: Fujiyama - Mountain Fuji | 238246 | [238246-jigsaw-masterpieces-fujiyama-mountain-fuji.json](./238246-jigsaw-masterpieces-fujiyama-mountain-fuji.json) |
 | Jigsaw Masterpieces: Hawaii - Most Beautiful Places in the World | 199836 | [199836-jigsaw-masterpieces-hawaii-most-beautiful-places-in-the-world.json](./199836-jigsaw-masterpieces-hawaii-most-beautiful-places-in-the-world.json) |
 | Jigsaw Masterpieces: Hokkaido - Most beautiful places in Japan | 199835 | [199835-jigsaw-masterpieces-hokkaido-most-beautiful-places-in-japan.json](./199835-jigsaw-masterpieces-hokkaido-most-beautiful-places-in-japan.json) |
 | Jigsaw Masterpieces: Iceland - Most Beautiful Places in the World | 231271 | [231271-jigsaw-masterpieces-iceland-most-beautiful-places-in-the-world.json](./231271-jigsaw-masterpieces-iceland-most-beautiful-places-in-the-world.json) |
