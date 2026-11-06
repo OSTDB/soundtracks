@@ -7892,6 +7892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Ex: Mankind Divided - Digital Deluxe Edition | 164802 | [164802-deus-ex-mankind-divided-digital-deluxe-edition.json](./164802-deus-ex-mankind-divided-digital-deluxe-edition.json) |
 | Deus Ex: Mankind Divided - System Rift | 24465 | [24465-deus-ex-mankind-divided-system-rift.json](./24465-deus-ex-mankind-divided-system-rift.json) |
 | Deus Ex: Mankind Divided - Tactical Pack | 374696 | [374696-deus-ex-mankind-divided-tactical-pack.json](./374696-deus-ex-mankind-divided-tactical-pack.json) |
+| Deus Ex: Nihilum | 213128 | [213128-deus-ex-nihilum.json](./213128-deus-ex-nihilum.json) |
 | Deus Ex: Revision | 23974 | [23974-deus-ex-revision.json](./23974-deus-ex-revision.json) |
 | Deus Ex: Special Limited Edition | 132079 | [132079-deus-ex-special-limited-edition.json](./132079-deus-ex-special-limited-edition.json) |
 | Deus Ex: The Conspiracy | 347125 | [347125-deus-ex-the-conspiracy.json](./347125-deus-ex-the-conspiracy.json) |
@@ -13935,6 +13936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downer Gyaruko-chan to Shippori Onsen Ryokou: H Shimakuri Yonpaku Itsuka no Tabi | 396931 | [396931-downer-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-yonpaku-itsuka-no-tabi.json](./396931-downer-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-yonpaku-itsuka-no-tabi.json) |
 | Downfall | 100346 | [100346-downfall.json](./100346-downfall.json) |
 | Downfall | 18189 | [18189-downfall.json](./18189-downfall.json) |
+| Downfall | 213124 | [213124-downfall.json](./213124-downfall.json) |
 | Downfall | 311951 | [311951-downfall.json](./311951-downfall.json) |
 | DownFall BattleGrounds | 159099 | [159099-downfall-battlegrounds.json](./159099-downfall-battlegrounds.json) |
 | Downfall Hearts | 258487 | [258487-downfall-hearts.json](./258487-downfall-hearts.json) |
@@ -14661,6 +14663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Xenoverse 2 - Deluxe Edition | 52947 | [52947-dragon-ball-xenoverse-2-deluxe-edition.json](./52947-dragon-ball-xenoverse-2-deluxe-edition.json) |
 | Dragon Ball: Xenoverse 2 - Extra DLC Pack 1 | 168747 | [168747-dragon-ball-xenoverse-2-extra-dlc-pack-1.json](./168747-dragon-ball-xenoverse-2-extra-dlc-pack-1.json) |
 | Dragon Ball: Xenoverse 2 - Extra DLC Pack 2 | 168748 | [168748-dragon-ball-xenoverse-2-extra-dlc-pack-2.json](./168748-dragon-ball-xenoverse-2-extra-dlc-pack-2.json) |
+| Dragon Ball: Xenoverse 2 - Extra DLC Pack 3 | 213086 | [213086-dragon-ball-xenoverse-2-extra-dlc-pack-3.json](./213086-dragon-ball-xenoverse-2-extra-dlc-pack-3.json) |
 | Dragon Ball: Xenoverse 2 - Extra DLC Pack 4 | 168749 | [168749-dragon-ball-xenoverse-2-extra-dlc-pack-4.json](./168749-dragon-ball-xenoverse-2-extra-dlc-pack-4.json) |
 | Dragon Ball: Xenoverse 2 - Extra Pass | 117657 | [117657-dragon-ball-xenoverse-2-extra-pass.json](./117657-dragon-ball-xenoverse-2-extra-pass.json) |
 | Dragon Ball: Xenoverse 2 - Future Saga: Chapter 1 | 302558 | [302558-dragon-ball-xenoverse-2-future-saga-chapter-1.json](./302558-dragon-ball-xenoverse-2-future-saga-chapter-1.json) |
@@ -14682,6 +14685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Xenoverse 2 - Super Pack 4 | 168746 | [168746-dragon-ball-xenoverse-2-super-pack-4.json](./168746-dragon-ball-xenoverse-2-super-pack-4.json) |
 | Dragon Ball: Xenoverse 2 - Super Pass | 117656 | [117656-dragon-ball-xenoverse-2-super-pass.json](./117656-dragon-ball-xenoverse-2-super-pass.json) |
 | Dragon Ball: Xenoverse 2 - Ultra Pack 1 | 168742 | [168742-dragon-ball-xenoverse-2-ultra-pack-1.json](./168742-dragon-ball-xenoverse-2-ultra-pack-1.json) |
+| Dragon Ball: Xenoverse 2 - Ultra Pack 2 | 213083 | [213083-dragon-ball-xenoverse-2-ultra-pack-2.json](./213083-dragon-ball-xenoverse-2-ultra-pack-2.json) |
 | Dragon Ball: Xenoverse 2 - Ultra Pack Set | 164822 | [164822-dragon-ball-xenoverse-2-ultra-pack-set.json](./164822-dragon-ball-xenoverse-2-ultra-pack-set.json) |
 | Dragon Ball: Xenoverse 2: Special Edition | 271831 | [271831-dragon-ball-xenoverse-2-special-edition.json](./271831-dragon-ball-xenoverse-2-special-edition.json) |
 | Dragon Ball: Xenoverse 3 | 387020 | [387020-dragon-ball-xenoverse-3.json](./387020-dragon-ball-xenoverse-3.json) |
