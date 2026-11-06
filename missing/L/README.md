@@ -4648,6 +4648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liftoff: Drone Racing - Deluxe Edition | 139829 | [139829-liftoff-drone-racing-deluxe-edition.json](./139829-liftoff-drone-racing-deluxe-edition.json) |
 | Liftopia: One more! | 228042 | [228042-liftopia-one-more.json](./228042-liftopia-one-more.json) |
 | Lifty! | 113581 | [113581-lifty.json](./113581-lifty.json) |
+| Liga | 210341 | [210341-liga.json](./210341-liga.json) |
 | Liga do Tempo | 290086 | [290086-liga-do-tempo.json](./290086-liga-do-tempo.json) |
 | Liga Ride | 425870 | [425870-liga-ride.json](./425870-liga-ride.json) |
 | Lighark | 270557 | [270557-lighark.json](./270557-lighark.json) |
@@ -5775,6 +5776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Bear Chef | 204509 | [204509-little-bear-chef.json](./204509-little-bear-chef.json) |
 | Little Bear Has Fun | 89053 | [89053-little-bear-has-fun.json](./89053-little-bear-has-fun.json) |
 | Little Bear Rainy Day Activities | 280772 | [280772-little-bear-rainy-day-activities.json](./280772-little-bear-rainy-day-activities.json) |
+| Little Bears | 210191 | [210191-little-bears.json](./210191-little-bears.json) |
 | Little Beetle Bottle Battle | 183016 | [183016-little-beetle-bottle-battle.json](./183016-little-beetle-bottle-battle.json) |
 | Little Betty: Gold Rush | 372997 | [372997-little-betty-gold-rush.json](./372997-little-betty-gold-rush.json) |
 | Little Big Adventure: Purple Empire | 339154 | [339154-little-big-adventure-purple-empire.json](./339154-little-big-adventure-purple-empire.json) |
@@ -7653,6 +7655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of Metal | 348121 | [348121-lord-of-metal.json](./348121-lord-of-metal.json) |
 | Lord of Mysteries | 373593 | [373593-lord-of-mysteries.json](./373593-lord-of-mysteries.json) |
 | Lord of Nazarick | 317316 | [317316-lord-of-nazarick.json](./317316-lord-of-nazarick.json) |
+| Lord of Nightmares | 210204 | [210204-lord-of-nightmares.json](./210204-lord-of-nightmares.json) |
 | Lord of Ogre | 365078 | [365078-lord-of-ogre.json](./365078-lord-of-ogre.json) |
 | Lord of Rigel | 33640 | [33640-lord-of-rigel.json](./33640-lord-of-rigel.json) |
 | Lord of Terror | 250490 | [250490-lord-of-terror.json](./250490-lord-of-terror.json) |
