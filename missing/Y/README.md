@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yamikko Troublemaker | 332752 | [332752-yamikko-troublemaker.json](./332752-yamikko-troublemaker.json) |
 | Yamikore Ryousangata Yamika no Collection: Dokitto Mune Kyun Jiraikei Yandere Joshi Rennai Galge | 233930 | [233930-yamikore-ryousangata-yamika-no-collection-dokitto-mune-kyun-jiraikei-yandere-joshi-rennai-galge.json](./233930-yamikore-ryousangata-yamika-no-collection-dokitto-mune-kyun-jiraikei-yandere-joshi-rennai-galge.json) |
 | Yaminabe Aries: Asu e no Chousenjou | 57913 | [57913-yaminabe-aries-asu-e-no-chousenjou.json](./57913-yaminabe-aries-asu-e-no-chousenjou.json) |
+| Yaminabe Kikaku | 218211 | [218211-yaminabe-kikaku.json](./218211-yaminabe-kikaku.json) |
 | Yamiyo ni Sasayaku: Tantei Sagara Kyouichirou | 215192 | [215192-yamiyo-ni-sasayaku-tantei-sagara-kyouichirou.json](./215192-yamiyo-ni-sasayaku-tantei-sagara-kyouichirou.json) |
 | Yamizome Liberator | 327834 | [327834-yamizome-liberator.json](./327834-yamizome-liberator.json) |
 | Yammix: Bubble Smash | 109988 | [109988-yammix-bubble-smash.json](./109988-yammix-bubble-smash.json) |
