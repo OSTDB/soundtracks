@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z Buster | 79566 | [79566-z-buster.json](./79566-z-buster.json) |
 | Z Collection | 52102 | [52102-z-collection.json](./52102-z-collection.json) |
 | Z Dawn | 103186 | [103186-z-dawn.json](./103186-z-dawn.json) |
+| Z Day Shootout | 240007 | [240007-z-day-shootout.json](./240007-z-day-shootout.json) |
 | Z Day: Hearts of Heroes | 105797 | [105797-z-day-hearts-of-heroes.json](./105797-z-day-hearts-of-heroes.json) |
 | Z Escape | 270462 | [270462-z-escape.json](./270462-z-escape.json) |
 | Z Escape: Complete Edition | 277911 | [277911-z-escape-complete-edition.json](./277911-z-escape-complete-edition.json) |
