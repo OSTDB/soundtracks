@@ -3281,6 +3281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino FunPak | 117931 | [117931-casino-funpak.json](./117931-casino-funpak.json) |
 | Casino Games | 358606 | [358606-casino-games.json](./358606-casino-games.json) |
 | Casino Games | 45656 | [45656-casino-games.json](./45656-casino-games.json) |
+| Casino Games Solitaire | 217659 | [217659-casino-games-solitaire.json](./217659-casino-games-solitaire.json) |
 | Casino Golf | 204283 | [204283-casino-golf.json](./204283-casino-golf.json) |
 | Casino Heist | 243587 | [243587-casino-heist.json](./243587-casino-heist.json) |
 | Casino Heist: Aruba | 327449 | [327449-casino-heist-aruba.json](./327449-casino-heist-aruba.json) |
@@ -6336,6 +6337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChatGladiators | 411104 | [411104-chatgladiators.json](./411104-chatgladiators.json) |
 | Chatle | 415433 | [415433-chatle.json](./415433-chatle.json) |
 | ChatPlay | 379185 | [379185-chatplay.json](./379185-chatplay.json) |
+| Chatseat | 217604 | [217604-chatseat.json](./217604-chatseat.json) |
 | ChatTDT: Tower Defense Twitch | 306678 | [306678-chattdt-tower-defense-twitch.json](./306678-chattdt-tower-defense-twitch.json) |
 | Chatter Challenge | 284814 | [284814-chatter-challenge.json](./284814-chatter-challenge.json) |
 | Chatteract | 138710 | [138710-chatteract.json](./138710-chatteract.json) |
@@ -9077,6 +9079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Piano Tunes Radio | 257084 | [257084-cities-skylines-piano-tunes-radio.json](./257084-cities-skylines-piano-tunes-radio.json) |
 | Cities: Skylines - Platinum Edition | 136082 | [136082-cities-skylines-platinum-edition.json](./136082-cities-skylines-platinum-edition.json) |
 | Cities: Skylines - PlayStation 4 Edition | 94074 | [94074-cities-skylines-playstation-4-edition.json](./94074-cities-skylines-playstation-4-edition.json) |
+| Cities: Skylines - Plazas & Promenades | 217643 | [217643-cities-skylines-plazas-and-promenades.json](./217643-cities-skylines-plazas-and-promenades.json) |
 | Cities: Skylines - Premium Edition | 75870 | [75870-cities-skylines-premium-edition.json](./75870-cities-skylines-premium-edition.json) |
 | Cities: Skylines - Premium Edition 2 | 119080 | [119080-cities-skylines-premium-edition-2.json](./119080-cities-skylines-premium-edition-2.json) |
 | Cities: Skylines - Race Day | 393462 | [393462-cities-skylines-race-day.json](./393462-cities-skylines-race-day.json) |
@@ -9960,6 +9963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clean it Up! | 335150 | [335150-clean-it-up.json](./335150-clean-it-up.json) |
 | Clean My Carpet: ASMR Washing | 228451 | [228451-clean-my-carpet-asmr-washing.json](./228451-clean-my-carpet-asmr-washing.json) |
 | Clean Paper | 239598 | [239598-clean-paper.json](./239598-clean-paper.json) |
+| Clean Robo | 217617 | [217617-clean-robo.json](./217617-clean-robo.json) |
 | Clean Slate | 149454 | [149454-clean-slate.json](./149454-clean-slate.json) |
 | Clean Stack | 333185 | [333185-clean-stack.json](./333185-clean-stack.json) |
 | Clean Sweep | 18159 | [18159-clean-sweep.json](./18159-clean-sweep.json) |
@@ -15100,6 +15104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Gang the Puzzle | 18382 | [18382-cosmo-gang-the-puzzle.json](./18382-cosmo-gang-the-puzzle.json) |
 | Cosmo Gang the Video | 39644 | [39644-cosmo-gang-the-video.json](./39644-cosmo-gang-the-video.json) |
 | Cosmo Gangs | 218225 | [218225-cosmo-gangs.json](./218225-cosmo-gangs.json) |
+| Cosmo Hunter | 217633 | [217633-cosmo-hunter.json](./217633-cosmo-hunter.json) |
 | Cosmo Knight Zion | 251147 | [251147-cosmo-knight-zion.json](./251147-cosmo-knight-zion.json) |
 | Cosmo Magnat | 337058 | [337058-cosmo-magnat.json](./337058-cosmo-magnat.json) |
 | Cosmo Mambo No. 5 | 304077 | [304077-cosmo-mambo-no-5.json](./304077-cosmo-mambo-no-5.json) |
