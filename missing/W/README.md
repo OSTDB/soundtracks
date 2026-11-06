@@ -6762,6 +6762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizzerd Quest | 287687 | [287687-wizzerd-quest.json](./287687-wizzerd-quest.json) |
 | Wizzerd Quest 2 | 296455 | [296455-wizzerd-quest-2.json](./296455-wizzerd-quest-2.json) |
 | Wizzo PopOut | 348824 | [348824-wizzo-popout.json](./348824-wizzo-popout.json) |
+| WJMax | 233848 | [233848-wjmax.json](./233848-wjmax.json) |
 | WKSP Rumble | 156880 | [156880-wksp-rumble.json](./156880-wksp-rumble.json) |
 | Władcy Ciemności | 85961 | [85961-w-adcy-ciemnosci.json](./85961-w-adcy-ciemnosci.json) |
 | Włatcy Móch Wrzód na Dópie | 94964 | [94964-w-atcy-moch-wrzod-na-dopie.json](./94964-w-atcy-moch-wrzod-na-dopie.json) |
