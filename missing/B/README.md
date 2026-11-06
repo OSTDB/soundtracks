@@ -325,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babyz | 205899 | [205899-babyz.json](./205899-babyz.json) |
 | Babyz: Your Virtual Bundle of Joy | 70343 | [70343-babyz-your-virtual-bundle-of-joy.json](./70343-babyz-your-virtual-bundle-of-joy.json) |
 | Baccarat | 348397 | [348397-baccarat.json](./348397-baccarat.json) |
+| Baccarat Corsair | 214258 | [214258-baccarat-corsair.json](./214258-baccarat-corsair.json) |
 | Baccarat Online: Baccarist | 350882 | [350882-baccarat-online-baccarist.json](./350882-baccarat-online-baccarist.json) |
 | Baccarist | 109979 | [109979-baccarist.json](./109979-baccarist.json) |
 | Bacchanalia | 227880 | [227880-bacchanalia.json](./227880-bacchanalia.json) |
@@ -960,7 +961,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -11314,6 +11314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloom Runner | 258175 | [258175-bloom-runner.json](./258175-bloom-runner.json) |
 | Bloom Thrice | 292434 | [292434-bloom-thrice.json](./292434-bloom-thrice.json) |
 | Bloom: Memories | 61558 | [61558-bloom-memories.json](./61558-bloom-memories.json) |
+| Bloom: Roots of Renewal | 214231 | [214231-bloom-roots-of-renewal.json](./214231-bloom-roots-of-renewal.json) |
 | Bloom: The Forest Burns | 132701 | [132701-bloom-the-forest-burns.json](./132701-bloom-the-forest-burns.json) |
 | Bloom! | 339601 | [339601-bloom.json](./339601-bloom.json) |
 | Bloom! A Bouquet for Everyone | 339602 | [339602-bloom-a-bouquet-for-everyone.json](./339602-bloom-a-bouquet-for-everyone.json) |
@@ -15430,6 +15431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bride Corruption | 225064 | [225064-bride-corruption.json](./225064-bride-corruption.json) |
 | Bride for the Princess | 158192 | [158192-bride-for-the-princess.json](./158192-bride-for-the-princess.json) |
 | Bride into the Cave | 273378 | [273378-bride-into-the-cave.json](./273378-bride-into-the-cave.json) |
+| Bride of Darkness | 214257 | [214257-bride-of-darkness.json](./214257-bride-of-darkness.json) |
 | Bride of Frankenstein | 39118 | [39118-bride-of-frankenstein.json](./39118-bride-of-frankenstein.json) |
 | Bride Of The Abyss | 400838 | [400838-bride-of-the-abyss.json](./400838-bride-of-the-abyss.json) |
 | Bride of the Full Moon | 254616 | [254616-bride-of-the-full-moon.json](./254616-bride-of-the-full-moon.json) |
@@ -17622,6 +17624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buried Beneath | 108849 | [108849-buried-beneath.json](./108849-buried-beneath.json) |
 | Buried Buck$ | 76595 | [76595-buried-buck.json](./76595-buried-buck.json) |
 | Buried Chambers | 129704 | [129704-buried-chambers.json](./129704-buried-chambers.json) |
+| Buried in Ice | 214269 | [214269-buried-in-ice.json](./214269-buried-in-ice.json) |
 | Buried Memories | 317448 | [317448-buried-memories.json](./317448-buried-memories.json) |
 | Buried Shards | 277760 | [277760-buried-shards.json](./277760-buried-shards.json) |
 | Buried Spirits | 383038 | [383038-buried-spirits.json](./383038-buried-spirits.json) |
