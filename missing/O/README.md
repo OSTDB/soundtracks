@@ -1246,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ohenro-San | 4051 | [4051-ohenro-san.json](./4051-ohenro-san.json) |
 | Ohenro-San: Hosshin no Dojo | 111996 | [111996-ohenro-san-hosshin-no-dojo.json](./111996-ohenro-san-hosshin-no-dojo.json) |
 | Ohimesama: Jiku wo Koeru | 97694 | [97694-ohimesama-jiku-wo-koeru.json](./97694-ohimesama-jiku-wo-koeru.json) |
+| Ohka Bots | 233831 | [233831-ohka-bots.json](./233831-ohka-bots.json) |
 | OHM 1 | 273570 | [273570-ohm-1.json](./273570-ohm-1.json) |
 | OHM 2 | 273571 | [273571-ohm-2.json](./273571-ohm-2.json) |
 | Ohmydollz | 344844 | [344844-ohmydollz.json](./344844-ohmydollz.json) |
@@ -2181,6 +2182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Billion Ducks | 408542 | [408542-one-billion-ducks.json](./408542-one-billion-ducks.json) |
 | One Bit | 48007 | [48007-one-bit.json](./48007-one-bit.json) |
 | One Bit Arena | 86762 | [86762-one-bit-arena.json](./86762-one-bit-arena.json) |
+| One Block: Puzzle Adventure | 233874 | [233874-one-block-puzzle-adventure.json](./233874-one-block-puzzle-adventure.json) |
 | One Boss One Fight | 323646 | [323646-one-boss-one-fight.json](./323646-one-boss-one-fight.json) |
 | One Box One Goal | 302879 | [302879-one-box-one-goal.json](./302879-one-box-one-goal.json) |
 | One Box, Blue Box | 364278 | [364278-one-box-blue-box.json](./364278-one-box-blue-box.json) |
