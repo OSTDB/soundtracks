@@ -1923,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior Boy | 164844 | [164844-warrior-boy.json](./164844-warrior-boy.json) |
 | Warrior Cats: Clans of the Forest | 412520 | [412520-warrior-cats-clans-of-the-forest.json](./412520-warrior-cats-clans-of-the-forest.json) |
 | Warrior Cats: Clans of the Forest - Prophecy Pack | 421804 | [421804-warrior-cats-clans-of-the-forest-prophecy-pack.json](./421804-warrior-cats-clans-of-the-forest-prophecy-pack.json) |
+| Warrior Cats: Untold Tales | 217630 | [217630-warrior-cats-untold-tales.json](./217630-warrior-cats-untold-tales.json) |
 | Warrior Chef | 270179 | [270179-warrior-chef.json](./270179-warrior-chef.json) |
 | Warrior Chess | 90389 | [90389-warrior-chess.json](./90389-warrior-chess.json) |
 | Warrior Clicker | 227492 | [227492-warrior-clicker.json](./227492-warrior-clicker.json) |
