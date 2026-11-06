@@ -5219,6 +5219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fortress: Idle Survival | 23276 | [23276-final-fortress-idle-survival.json](./23276-final-fortress-idle-survival.json) |
 | Final Frame | 133159 | [133159-final-frame.json](./133159-final-frame.json) |
 | Final Freeway | 257369 | [257369-final-freeway.json](./257369-final-freeway.json) |
+| Final Freeway 2R | 197997 | [197997-final-freeway-2r.json](./197997-final-freeway-2r.json) |
 | Final Fright | 211592 | [211592-final-fright.json](./211592-final-fright.json) |
 | Final Frog | 301399 | [301399-final-frog.json](./301399-final-frog.json) |
 | Final Front | 202443 | [202443-final-front.json](./202443-final-front.json) |
@@ -11367,6 +11368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frantic | 387920 | [387920-frantic.json](./387920-frantic.json) |
 | Frantic Birdies | 357849 | [357849-frantic-birdies.json](./357849-frantic-birdies.json) |
 | Frantic Dimension | 113514 | [113514-frantic-dimension.json](./113514-frantic-dimension.json) |
+| Frantic Fall | 197985 | [197985-frantic-fall.json](./197985-frantic-fall.json) |
 | Frantic Fanfic | 147175 | [147175-frantic-fanfic.json](./147175-frantic-fanfic.json) |
 | Frantic Flea | 42620 | [42620-frantic-flea.json](./42620-frantic-flea.json) |
 | Frantic Fred | 281669 | [281669-frantic-fred.json](./281669-frantic-fred.json) |
