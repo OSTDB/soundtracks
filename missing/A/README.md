@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bibelot: Y-Break | 332593 | [332593-a-bibelot-y-break.json](./332593-a-bibelot-y-break.json) |
 | A Bibelot: Y-Type | 324951 | [324951-a-bibelot-y-type.json](./324951-a-bibelot-y-type.json) |
 | A Bike Ride to the Creek | 266135 | [266135-a-bike-ride-to-the-creek.json](./266135-a-bike-ride-to-the-creek.json) |
+| A Bird Called Mike | 239420 | [239420-a-bird-called-mike.json](./239420-a-bird-called-mike.json) |
 | A Bird Hunt: Retro Bird Hunting Game | 175543 | [175543-a-bird-hunt-retro-bird-hunting-game.json](./175543-a-bird-hunt-retro-bird-hunting-game.json) |
 | A Bird Story | 8794 | [8794-a-bird-story.json](./8794-a-bird-story.json) |
 | A Bird's Tale | 207242 | [207242-a-birds-tale.json](./207242-a-birds-tale.json) |
@@ -3717,6 +3718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Dragon | 81821 | [81821-adventures-of-dragon.json](./81821-adventures-of-dragon.json) |
 | Adventures of Fluzz | 31449 | [31449-adventures-of-fluzz.json](./31449-adventures-of-fluzz.json) |
 | Adventures of forsenE: The Hobo Knight | 116699 | [116699-adventures-of-forsene-the-hobo-knight.json](./116699-adventures-of-forsene-the-hobo-knight.json) |
+| Adventures of Helio | 239399 | [239399-adventures-of-helio.json](./239399-adventures-of-helio.json) |
 | Adventures of Heroes | 65783 | [65783-adventures-of-heroes.json](./65783-adventures-of-heroes.json) |
 | Adventures of Isabelle Fine: Murder on Rails | 120057 | [120057-adventures-of-isabelle-fine-murder-on-rails.json](./120057-adventures-of-isabelle-fine-murder-on-rails.json) |
 | Adventures of Jack: Platformer | 58245 | [58245-adventures-of-jack-platformer.json](./58245-adventures-of-jack-platformer.json) |
@@ -12214,6 +12216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Dig Dug | 212615 | [212615-arcade-archives-dig-dug.json](./212615-arcade-archives-dig-dug.json) |
 | Arcade Archives: Dig Dug II | 245714 | [245714-arcade-archives-dig-dug-ii.json](./245714-arcade-archives-dig-dug-ii.json) |
 | Arcade Archives: Dinorex | 276863 | [276863-arcade-archives-dinorex.json](./276863-arcade-archives-dinorex.json) |
+| Arcade Archives: Don Doko Don | 239410 | [239410-arcade-archives-don-doko-don.json](./239410-arcade-archives-don-doko-don.json) |
 | Arcade Archives: Donkey Kong | 103362 | [103362-arcade-archives-donkey-kong.json](./103362-arcade-archives-donkey-kong.json) |
 | Arcade Archives: Donkey Kong 3 | 117018 | [117018-arcade-archives-donkey-kong-3.json](./117018-arcade-archives-donkey-kong-3.json) |
 | Arcade Archives: Donkey Kong Jr. | 113436 | [113436-arcade-archives-donkey-kong-jr.json](./113436-arcade-archives-donkey-kong-jr.json) |
@@ -12600,12 +12603,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Paradise | 145319 | [145319-arcade-paradise.json](./145319-arcade-paradise.json) |
 | Arcade Paradise Coin-Op Pack 1 | 231217 | [231217-arcade-paradise-coin-op-pack-1.json](./231217-arcade-paradise-coin-op-pack-1.json) |
 | Arcade Paradise VR | 279379 | [279379-arcade-paradise-vr.json](./279379-arcade-paradise-vr.json) |
+| Arcade Paradise: Coin-Op Pack 2 | 239404 | [239404-arcade-paradise-coin-op-pack-2.json](./239404-arcade-paradise-coin-op-pack-2.json) |
 | Arcade Paradise: CyberDance EuroMix | 224999 | [224999-arcade-paradise-cyberdance-euromix.json](./224999-arcade-paradise-cyberdance-euromix.json) |
 | Arcade Paradise: Digital Deluxe Edition | 213329 | [213329-arcade-paradise-digital-deluxe-edition.json](./213329-arcade-paradise-digital-deluxe-edition.json) |
 | Arcade Paradise: Empathy DLC | 225000 | [225000-arcade-paradise-empathy-dlc.json](./225000-arcade-paradise-empathy-dlc.json) |
 | Arcade Paradise: High Score Edition | 250174 | [250174-arcade-paradise-high-score-edition.json](./250174-arcade-paradise-high-score-edition.json) |
 | Arcade Paradise: Kung Fury - Street Rage | 230798 | [230798-arcade-paradise-kung-fury-street-rage.json](./230798-arcade-paradise-kung-fury-street-rage.json) |
+| Arcade Paradise: Penguin Push | 239403 | [239403-arcade-paradise-penguin-push.json](./239403-arcade-paradise-penguin-push.json) |
+| Arcade Paradise: R.O.G.E.R. | 239406 | [239406-arcade-paradise-r-o-g-e-r.json](./239406-arcade-paradise-r-o-g-e-r.json) |
 | Arcade Paradise: Smoke 'em DLC | 225001 | [225001-arcade-paradise-smoke-em-dlc.json](./225001-arcade-paradise-smoke-em-dlc.json) |
+| Arcade Paradise: Summer of Sports | 239402 | [239402-arcade-paradise-summer-of-sports.json](./239402-arcade-paradise-summer-of-sports.json) |
 | Arcade Paradise: Vostok Inc. Pinball | 250170 | [250170-arcade-paradise-vostok-inc-pinball.json](./250170-arcade-paradise-vostok-inc-pinball.json) |
 | Arcade Party | 241076 | [241076-arcade-party.json](./241076-arcade-party.json) |
 | Arcade Party Pak | 92977 | [92977-arcade-party-pak.json](./92977-arcade-party-pak.json) |
@@ -13936,6 +13943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arms Dealer | 17887 | [17887-arms-dealer.json](./17887-arms-dealer.json) |
 | Arms Dealer Simulator | 406056 | [406056-arms-dealer-simulator.json](./406056-arms-dealer-simulator.json) |
 | Arms Devicer S!! | 82895 | [82895-arms-devicer-s.json](./82895-arms-devicer-s.json) |
+| Arms Evolution: Zombie Destroyer | 239438 | [239438-arms-evolution-zombie-destroyer.json](./239438-arms-evolution-zombie-destroyer.json) |
 | Arms of God | 324148 | [324148-arms-of-god.json](./324148-arms-of-god.json) |
 | Arms of Telos | 65839 | [65839-arms-of-telos.json](./65839-arms-of-telos.json) |
 | Arms Race | 425844 | [425844-arms-race.json](./425844-arms-race.json) |
@@ -16449,6 +16457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
