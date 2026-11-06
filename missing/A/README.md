@@ -13907,6 +13907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armageddon Operation Dragon | 84978 | [84978-armageddon-operation-dragon.json](./84978-armageddon-operation-dragon.json) |
 | Armageddon Riders | 84152 | [84152-armageddon-riders.json](./84152-armageddon-riders.json) |
 | Armageddon Riders + Planets Under Attack Bundle | 99803 | [99803-armageddon-riders-planets-under-attack-bundle.json](./99803-armageddon-riders-planets-under-attack-bundle.json) |
+| Armageddon War: Old Era Wreckers | 199678 | [199678-armageddon-war-old-era-wreckers.json](./199678-armageddon-war-old-era-wreckers.json) |
 | Armageddon: For the Crimson Glory | 191374 | [191374-armageddon-for-the-crimson-glory.json](./191374-armageddon-for-the-crimson-glory.json) |
 | Armageddonica | 361832 | [361832-armageddonica.json](./361832-armageddonica.json) |
 | ArmageDoom | 201231 | [201231-armagedoom.json](./201231-armagedoom.json) |
@@ -16636,6 +16637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -18260,6 +18262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AyuPac | 222825 | [222825-ayupac.json](./222825-ayupac.json) |
 | Ayyylando | 219658 | [219658-ayyylando.json](./219658-ayyylando.json) |
 | AZ Rockets | 98891 | [98891-az-rockets.json](./98891-az-rockets.json) |
+| Aza: Zend vs. The Dark End | 199671 | [199671-aza-zend-vs-the-dark-end.json](./199671-aza-zend-vs-the-dark-end.json) |
 | Azada | 6747 | [6747-azada.json](./6747-azada.json) |
 | Azada: Ancient Magic | 64735 | [64735-azada-ancient-magic.json](./64735-azada-ancient-magic.json) |
 | Azada: Elementa | 63633 | [63633-azada-elementa.json](./63633-azada-elementa.json) |
