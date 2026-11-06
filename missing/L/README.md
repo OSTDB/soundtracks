@@ -5638,6 +5638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LIP! Lewd Idol Project Vol. 2 | 193266 | [193266-lip-lewd-idol-project-vol-2.json](./193266-lip-lewd-idol-project-vol-2.json) |
 | LIP! Lewd Idol Project Vol. 2: Hot Springs and Beach Episodes | 254576 | [254576-lip-lewd-idol-project-vol-2-hot-springs-and-beach-episodes.json](./254576-lip-lewd-idol-project-vol-2-hot-springs-and-beach-episodes.json) |
 | LIP! Lewd Idol Project Vol. 3 | 244620 | [244620-lip-lewd-idol-project-vol-3.json](./244620-lip-lewd-idol-project-vol-3.json) |
+| LIP! Lewd Idol Project Vol.1: Hot Springs and Beach Episodes | 195316 | [195316-lip-lewd-idol-project-vol-1-hot-springs-and-beach-episodes.json](./195316-lip-lewd-idol-project-vol-1-hot-springs-and-beach-episodes.json) |
 | Lipola | 94051 | [94051-lipola.json](./94051-lipola.json) |
 | Lips | 7050 | [7050-lips.json](./7050-lips.json) |
 | Lips Breaker | 332848 | [332848-lips-breaker.json](./332848-lips-breaker.json) |
