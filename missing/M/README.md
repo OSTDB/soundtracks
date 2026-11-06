@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maddening Overload | 60326 | [60326-maddening-overload.json](./60326-maddening-overload.json) |
 | Maddmadd | 381607 | [381607-maddmadd.json](./381607-maddmadd.json) |
 | Made | 142620 | [142620-made.json](./142620-made.json) |
+| Made Beaver | 217064 | [217064-made-beaver.json](./217064-made-beaver.json) |
 | Made For | 343241 | [343241-made-for.json](./343241-made-for.json) |
 | Made in Abyss: Binary Star Falling into Darkness | 146711 | [146711-made-in-abyss-binary-star-falling-into-darkness.json](./146711-made-in-abyss-binary-star-falling-into-darkness.json) |
 | Made in Abyss: Binary Star Falling into Darkness - Collector's Edition | 150144 | [150144-made-in-abyss-binary-star-falling-into-darkness-collectors-edition.json](./150144-made-in-abyss-binary-star-falling-into-darkness-collectors-edition.json) |
@@ -1806,6 +1807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnus Failure | 154243 | [154243-magnus-failure.json](./154243-magnus-failure.json) |
 | Magnus Imago | 188683 | [188683-magnus-imago.json](./188683-magnus-imago.json) |
 | Magnus Kingdom of Chess | 103897 | [103897-magnus-kingdom-of-chess.json](./103897-magnus-kingdom-of-chess.json) |
+| Magnus Positive Phototaxis | 217094 | [217094-magnus-positive-phototaxis.json](./217094-magnus-positive-phototaxis.json) |
 | Magnus Trainer - Learn & Train Chess | 95800 | [95800-magnus-trainer-learn-and-train-chess.json](./95800-magnus-trainer-learn-and-train-chess.json) |
 | Magnus Trilogy | 297726 | [297726-magnus-trilogy.json](./297726-magnus-trilogy.json) |
 | Magnussoft's Colossus Chess | 91540 | [91540-magnussofts-colossus-chess.json](./91540-magnussofts-colossus-chess.json) |
@@ -6645,6 +6647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechaLeague | 43116 | [43116-mechaleague.json](./43116-mechaleague.json) |
 | Mechamice | 377276 | [377276-mechamice.json](./377276-mechamice.json) |
 | Mechaneer Resta's Grand Adventure | 236785 | [236785-mechaneer-restas-grand-adventure.json](./236785-mechaneer-restas-grand-adventure.json) |
+| MechaNest | 217065 | [217065-mechanest.json](./217065-mechanest.json) |
 | Mechanibot | 188831 | [188831-mechanibot.json](./188831-mechanibot.json) |
 | Mechanic 8230 | 151107 | [151107-mechanic-8230.json](./151107-mechanic-8230.json) |
 | Mechanic 8230: Deluxe Edition | 252700 | [252700-mechanic-8230-deluxe-edition.json](./252700-mechanic-8230-deluxe-edition.json) |
@@ -15504,6 +15507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Brother | 287536 | [287536-monster-brother.json](./287536-monster-brother.json) |
 | Monster Bugs Eat People | 126189 | [126189-monster-bugs-eat-people.json](./126189-monster-bugs-eat-people.json) |
 | Monster Builder | 110216 | [110216-monster-builder.json](./110216-monster-builder.json) |
+| Monster Bullets | 217093 | [217093-monster-bullets.json](./217093-monster-bullets.json) |
 | Monster Burner | 64156 | [64156-monster-burner.json](./64156-monster-burner.json) |
 | Monster Business | 12685 | [12685-monster-business.json](./12685-monster-business.json) |
 | Monster Buster Club | 84602 | [84602-monster-buster-club.json](./84602-monster-buster-club.json) |
@@ -21762,6 +21766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Trackers: Train to Hellswich | 187965 | [187965-mystery-trackers-train-to-hellswich.json](./187965-mystery-trackers-train-to-hellswich.json) |
 | Mystery Trackers: Train to Hellswich - Collector's Edition | 169278 | [169278-mystery-trackers-train-to-hellswich-collectors-edition.json](./169278-mystery-trackers-train-to-hellswich-collectors-edition.json) |
 | Mystery Trackers: Winterpoint Tragedy | 57723 | [57723-mystery-trackers-winterpoint-tragedy.json](./57723-mystery-trackers-winterpoint-tragedy.json) |
+| Mystery Trails | 217073 | [217073-mystery-trails.json](./217073-mystery-trails.json) |
 | Mystery USA! - Fun Seek and Find Hidden Object Puzzles | 101391 | [101391-mystery-usa-fun-seek-and-find-hidden-object-puzzles.json](./101391-mystery-usa-fun-seek-and-find-hidden-object-puzzles.json) |
 | Mystery Valley | 228240 | [228240-mystery-valley.json](./228240-mystery-valley.json) |
 | Mystery Village: Shards of the past | 89636 | [89636-mystery-village-shards-of-the-past.json](./89636-mystery-village-shards-of-the-past.json) |
