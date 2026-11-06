@@ -12588,6 +12588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Pet | 296638 | [296638-running-pet.json](./296638-running-pet.json) |
 | Running Rich Racing | 234014 | [234014-running-rich-racing.json](./234014-running-rich-racing.json) |
 | Running Riot | 240743 | [240743-running-riot.json](./240743-running-riot.json) |
+| Running Robot Man 4 | 235534 | [235534-running-robot-man-4.json](./235534-running-robot-man-4.json) |
 | Running Rogue | 139371 | [139371-running-rogue.json](./139371-running-rogue.json) |
 | Running Sausage | 29214 | [29214-running-sausage.json](./29214-running-sausage.json) |
 | Running Shadow | 17985 | [17985-running-shadow.json](./17985-running-shadow.json) |
