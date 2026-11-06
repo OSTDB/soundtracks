@@ -3674,6 +3674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whale's Waldo | 180452 | [180452-whales-waldo.json](./180452-whales-waldo.json) |
 | Whalefall Haven | 349400 | [349400-whalefall-haven.json](./349400-whalefall-haven.json) |
 | Wham the Music Box | 45314 | [45314-wham-the-music-box.json](./45314-wham-the-music-box.json) |
+| Wham-o Frisbee Golf | 209571 | [209571-wham-o-frisbee-golf.json](./209571-wham-o-frisbee-golf.json) |
 | Whamble | 268812 | [268812-whamble.json](./268812-whamble.json) |
 | What a Ball | 225727 | [225727-what-a-ball.json](./225727-what-a-ball.json) |
 | What a Cluster Fight | 133130 | [133130-what-a-cluster-fight.json](./133130-what-a-cluster-fight.json) |
