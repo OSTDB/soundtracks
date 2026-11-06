@@ -5613,6 +5613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentree | 18281 | [18281-sentree.json](./18281-sentree.json) |
 | Sentris | 17445 | [17445-sentris.json](./17445-sentris.json) |
 | Sentry | 172054 | [172054-sentry.json](./172054-sentry.json) |
+| Sentry | 215424 | [215424-sentry.json](./215424-sentry.json) |
 | Sentry | 218164 | [218164-sentry.json](./218164-sentry.json) |
 | Sentry | 93428 | [93428-sentry.json](./93428-sentry.json) |
 | Sentry City | 197082 | [197082-sentry-city.json](./197082-sentry-city.json) |
@@ -9189,6 +9190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shop Mistress NTR | 379891 | [379891-shop-mistress-ntr.json](./379891-shop-mistress-ntr.json) |
 | Shop of Forgotten Memories | 298883 | [298883-shop-of-forgotten-memories.json](./298883-shop-of-forgotten-memories.json) |
 | Shop of Tentacles | 135433 | [135433-shop-of-tentacles.json](./135433-shop-of-tentacles.json) |
+| Shop of Things | 215433 | [215433-shop-of-things.json](./215433-shop-of-things.json) |
 | Shop Simulator | 326357 | [326357-shop-simulator.json](./326357-shop-simulator.json) |
 | Shop Simulator: Pet Shop | 320842 | [320842-shop-simulator-pet-shop.json](./320842-shop-simulator-pet-shop.json) |
 | Shop Simulator: Supermarket | 320721 | [320721-shop-simulator-supermarket.json](./320721-shop-simulator-supermarket.json) |
@@ -11700,6 +11702,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Blow: Bullet Rain | 294337 | [294337-six-blow-bullet-rain.json](./294337-six-blow-bullet-rain.json) |
 | Six Blow: Hatching Eggs | 287060 | [287060-six-blow-hatching-eggs.json](./287060-six-blow-hatching-eggs.json) |
 | Six Braves | 201588 | [201588-six-braves.json](./201588-six-braves.json) |
+| Six Braves: Assassin | 215450 | [215450-six-braves-assassin.json](./215450-six-braves-assassin.json) |
+| Six Braves: Enchanter | 215451 | [215451-six-braves-enchanter.json](./215451-six-braves-enchanter.json) |
+| Six Braves: Summoner | 215452 | [215452-six-braves-summoner.json](./215452-six-braves-summoner.json) |
+| Six Braves: Undead warlock | 215453 | [215453-six-braves-undead-warlock.json](./215453-six-braves-undead-warlock.json) |
 | Six Cabins in Serpent Ridge National Forest | 287221 | [287221-six-cabins-in-serpent-ridge-national-forest.json](./287221-six-cabins-in-serpent-ridge-national-forest.json) |
 | Six Card Golf | 202046 | [202046-six-card-golf.json](./202046-six-card-golf.json) |
 | Six Cats Under | 138471 | [138471-six-cats-under.json](./138471-six-cats-under.json) |
@@ -11777,6 +11783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sixtieth Kilometer | 33359 | [33359-sixtieth-kilometer.json](./33359-sixtieth-kilometer.json) |
 | Sixtieth Kilometer: Eightieth Kilometer | 171910 | [171910-sixtieth-kilometer-eightieth-kilometer.json](./171910-sixtieth-kilometer-eightieth-kilometer.json) |
 | Sixty Jumps to Ceres | 258479 | [258479-sixty-jumps-to-ceres.json](./258479-sixty-jumps-to-ceres.json) |
+| Sixty Second Heist | 215431 | [215431-sixty-second-heist.json](./215431-sixty-second-heist.json) |
 | Sixty Second Shooter Prime | 20056 | [20056-sixty-second-shooter-prime.json](./20056-sixty-second-shooter-prime.json) |
 | Sixty Words by Powgi | 206719 | [206719-sixty-words-by-powgi.json](./206719-sixty-words-by-powgi.json) |
 | Siyah: Initiation | 382565 | [382565-siyah-initiation.json](./382565-siyah-initiation.json) |
@@ -15996,6 +16003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoftAid | 94480 | [94480-softaid.json](./94480-softaid.json) |
 | Softball Tengoku | 48907 | [48907-softball-tengoku.json](./48907-softball-tengoku.json) |
 | Softball: Breakthrough Gaming Arcade | 204999 | [204999-softball-breakthrough-gaming-arcade.json](./204999-softball-breakthrough-gaming-arcade.json) |
+| Softball: Breakthrough Gaming Arcade - 2 Player Cooperation Edition | 215434 | [215434-softball-breakthrough-gaming-arcade-2-player-cooperation-edition.json](./215434-softball-breakthrough-gaming-arcade-2-player-cooperation-edition.json) |
 | Softball: Breakthrough Gaming Arcade - 3 Player Cooperation Edition | 218190 | [218190-softball-breakthrough-gaming-arcade-3-player-cooperation-edition.json](./218190-softball-breakthrough-gaming-arcade-3-player-cooperation-edition.json) |
 | Softball: Breakthrough Gaming Arcade - 4 Player Cooperation Edition | 213633 | [213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json](./213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json) |
 | Softie | 321304 | [321304-softie.json](./321304-softie.json) |
