@@ -4471,6 +4471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Pit | 347470 | [347470-terra-pit.json](./347470-terra-pit.json) |
 | Terra Probe | 83347 | [83347-terra-probe.json](./83347-terra-probe.json) |
 | Terra Pulse | 142433 | [142433-terra-pulse.json](./142433-terra-pulse.json) |
+| Terra Puzzle 3D | 199697 | [199697-terra-puzzle-3d.json](./199697-terra-puzzle-3d.json) |
 | Terra Randoma | 121411 | [121411-terra-randoma.json](./121411-terra-randoma.json) |
 | Terra Request | 383710 | [383710-terra-request.json](./383710-terra-request.json) |
 | Terra Revive | 311901 | [311901-terra-revive.json](./311901-terra-revive.json) |
@@ -13380,6 +13381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lot | 116317 | [116317-the-lot.json](./116317-the-lot.json) |
 | The Lotus | 187844 | [187844-the-lotus.json](./187844-the-lotus.json) |
 | The Lotus Eater | 184610 | [184610-the-lotus-eater.json](./184610-the-lotus-eater.json) |
+| The Lotus Holidays | 199715 | [199715-the-lotus-holidays.json](./199715-the-lotus-holidays.json) |
 | The Loud House: Outta Control | 194336 | [194336-the-loud-house-outta-control.json](./194336-the-loud-house-outta-control.json) |
 | The Love | 121942 | [121942-the-love.json](./121942-the-love.json) |
 | The Love Boat: Puzzle Cruise | 138678 | [138678-the-love-boat-puzzle-cruise.json](./138678-the-love-boat-puzzle-cruise.json) |
@@ -13676,6 +13678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Meating | 141111 | [141111-the-meating.json](./141111-the-meating.json) |
 | The Mech is on Fire | 184823 | [184823-the-mech-is-on-fire.json](./184823-the-mech-is-on-fire.json) |
 | The Mechsmith Run=Dim | 227976 | [227976-the-mechsmith-run-dim.json](./227976-the-mechsmith-run-dim.json) |
+| The Medical Examination Diary: The Exciting Days of Me and My Senpai | 199680 | [199680-the-medical-examination-diary-the-exciting-days-of-me-and-my-senpai.json](./199680-the-medical-examination-diary-the-exciting-days-of-me-and-my-senpai.json) |
 | The Medieval Doctor | 416825 | [416825-the-medieval-doctor.json](./416825-the-medieval-doctor.json) |
 | The Medieval Journey | 414755 | [414755-the-medieval-journey.json](./414755-the-medieval-journey.json) |
 | The Medium + Observer: System Redux + Darq: Complete Edition Bundle | 166687 | [166687-the-medium-observer-system-redux-darq-complete-edition-bundle.json](./166687-the-medium-observer-system-redux-darq-complete-edition-bundle.json) |
@@ -25814,6 +25817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Chaos Against Apathy | 387453 | [387453-total-chaos-against-apathy.json](./387453-total-chaos-against-apathy.json) |
 | Total Club Manager 2003 | 6211 | [6211-total-club-manager-2003.json](./6211-total-club-manager-2003.json) |
 | Total Club Manager 2004 | 6207 | [6207-total-club-manager-2004.json](./6207-total-club-manager-2004.json) |
+| Total Conflict: Resistance | 199677 | [199677-total-conflict-resistance.json](./199677-total-conflict-resistance.json) |
 | Total Conflict: Resistance - Eastern Airborne Forces | 304418 | [304418-total-conflict-resistance-eastern-airborne-forces.json](./304418-total-conflict-resistance-eastern-airborne-forces.json) |
 | Total Control | 256813 | [256813-total-control.json](./256813-total-control.json) |
 | Total Control | 288583 | [288583-total-control.json](./288583-total-control.json) |
@@ -29926,6 +29930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trashyard | 163192 | [163192-trashyard.json](./163192-trashyard.json) |
 | Trasta | 128978 | [128978-trasta.json](./128978-trasta.json) |
 | Tratel64 | 75207 | [75207-tratel64.json](./75207-tratel64.json) |
+| Tratritle | 199674 | [199674-tratritle.json](./199674-tratritle.json) |
 | Traulian: O Ultimo General | 293900 | [293900-traulian-o-ultimo-general.json](./293900-traulian-o-ultimo-general.json) |
 | Traum | 108888 | [108888-traum.json](./108888-traum.json) |
 | Traum | 89421 | [89421-traum.json](./89421-traum.json) |
