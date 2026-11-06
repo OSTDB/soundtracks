@@ -1059,6 +1059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Hockey | 57656 | [57656-ice-hockey.json](./57656-ice-hockey.json) |
 | Ice Hockey Club Manager 2005 | 25433 | [25433-ice-hockey-club-manager-2005.json](./25433-ice-hockey-club-manager-2005.json) |
 | Ice Hockey Slovakia 2011 | 85187 | [85187-ice-hockey-slovakia-2011.json](./85187-ice-hockey-slovakia-2011.json) |
+| Ice Hockey: Breakthrough Gaming Arcade | 199161 | [199161-ice-hockey-breakthrough-gaming-arcade.json](./199161-ice-hockey-breakthrough-gaming-arcade.json) |
 | Ice Hunter | 76249 | [76249-ice-hunter.json](./76249-ice-hunter.json) |
 | Ice Jump | 344240 | [344240-ice-jump.json](./344240-ice-jump.json) |
 | Ice King in Secret Santa | 339824 | [339824-ice-king-in-secret-santa.json](./339824-ice-king-in-secret-santa.json) |
@@ -4164,7 +4165,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Injection | 227053 | [227053-injection.json](./227053-injection.json) |
 | Injection | 60044 | [60044-injection.json](./60044-injection.json) |
 | Injection π 23: No Name, No Number | 121486 | [121486-injection-23-no-name-no-number.json](./121486-injection-23-no-name-no-number.json) |
+| Injection π 23: No Name, No Number - Complete Edition | 199164 | [199164-injection-23-no-name-no-number-complete-edition.json](./199164-injection-23-no-name-no-number-complete-edition.json) |
+| Injection π 23: No Name, No Number - Expansion Events | 199158 | [199158-injection-23-no-name-no-number-expansion-events.json](./199158-injection-23-no-name-no-number-expansion-events.json) |
 | Injection π23 'Tabula Rasa' | 404706 | [404706-injection-23-tabula-rasa.json](./404706-injection-23-tabula-rasa.json) |
+| Injection π23: Ars Regia | 199166 | [199166-injection-23-ars-regia.json](./199166-injection-23-ars-regia.json) |
 | Injection π23: No Name, No Number - Expansion Events | 274653 | [274653-injection-23-no-name-no-number-expansion-events.json](./274653-injection-23-no-name-no-number-expansion-events.json) |
 | Injured by space | 88147 | [88147-injured-by-space.json](./88147-injured-by-space.json) |
 | Injustice 2 Mobile | 76547 | [76547-injustice-2-mobile.json](./76547-injustice-2-mobile.json) |
@@ -6625,6 +6629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Full of Stars | 204098 | [204098-its-full-of-stars.json](./204098-its-full-of-stars.json) |
 | It's good to be a pirate | 110780 | [110780-its-good-to-be-a-pirate.json](./110780-its-good-to-be-a-pirate.json) |
 | It's Happening Again. | 241482 | [241482-its-happening-again.json](./241482-its-happening-again.json) |
+| It's Hard Being a Dog | 199138 | [199138-its-hard-being-a-dog.json](./199138-its-hard-being-a-dog.json) |
 | It's Hard Being a Meatball | 132808 | [132808-its-hard-being-a-meatball.json](./132808-its-hard-being-a-meatball.json) |
 | It's Harvest Time! | 169595 | [169595-its-harvest-time.json](./169595-its-harvest-time.json) |
 | It's Hasegawa-san!? | 370474 | [370474-its-hasegawa-san.json](./370474-its-hasegawa-san.json) |
