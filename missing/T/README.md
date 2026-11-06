@@ -15255,6 +15255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ramp | 159248 | [159248-the-ramp.json](./159248-the-ramp.json) |
 | The Ranch of Rivershine | 182113 | [182113-the-ranch-of-rivershine.json](./182113-the-ranch-of-rivershine.json) |
 | The Ranchers | 142498 | [142498-the-ranchers.json](./142498-the-ranchers.json) |
+| The Ranger: A Skyhopper Tale | 226542 | [226542-the-ranger-a-skyhopper-tale.json](./226542-the-ranger-a-skyhopper-tale.json) |
 | The Ranger: Border Hunt | 297848 | [297848-the-ranger-border-hunt.json](./297848-the-ranger-border-hunt.json) |
 | The Ransom of Atawallpa | 337644 | [337644-the-ransom-of-atawallpa.json](./337644-the-ransom-of-atawallpa.json) |
 | The Raphael Parable | 305306 | [305306-the-raphael-parable.json](./305306-the-raphael-parable.json) |
@@ -31822,6 +31823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tugboat Terror | 272715 | [272715-tugboat-terror.json](./272715-tugboat-terror.json) |
 | Tuggowar | 187225 | [187225-tuggowar.json](./187225-tuggowar.json) |
 | Tuggowar: Arsenal Management | 358260 | [358260-tuggowar-arsenal-management.json](./358260-tuggowar-arsenal-management.json) |
+| TuHou Remilia: Begin of Scarlet Family | 226543 | [226543-tuhou-remilia-begin-of-scarlet-family.json](./226543-tuhou-remilia-begin-of-scarlet-family.json) |
 | Tui Shou: Sokoban | 372023 | [372023-tui-shou-sokoban.json](./372023-tui-shou-sokoban.json) |
 | Tuin | 213904 | [213904-tuin.json](./213904-tuin.json) |
 | Tuiterland | 272144 | [272144-tuiterland.json](./272144-tuiterland.json) |
