@@ -2857,6 +2857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oni Zero: Fukkatsu | 166563 | [166563-oni-zero-fukkatsu.json](./166563-oni-zero-fukkatsu.json) |
 | Oni: Road to be the Mightiest Oni | 194944 | [194944-oni-road-to-be-the-mightiest-oni.json](./194944-oni-road-to-be-the-mightiest-oni.json) |
 | Oni's Tale | 323431 | [323431-onis-tale.json](./323431-onis-tale.json) |
+| Oniami | 236071 | [236071-oniami.json](./236071-oniami.json) |
 | Onibi | 298412 | [298412-onibi.json](./298412-onibi.json) |
 | Onibito Kiki | 324857 | [324857-onibito-kiki.json](./324857-onibito-kiki.json) |
 | OniBushi VR | 96641 | [96641-onibushi-vr.json](./96641-onibushi-vr.json) |
@@ -3260,6 +3261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opalescence | 211049 | [211049-opalescence.json](./211049-opalescence.json) |
 | Opaline | 35246 | [35246-opaline.json](./35246-opaline.json) |
 | Opec Idle | 168041 | [168041-opec-idle.json](./168041-opec-idle.json) |
+| Open At Nine | 236104 | [236104-open-at-nine.json](./236104-open-at-nine.json) |
 | Open Bar | 161712 | [161712-open-bar.json](./161712-open-bar.json) |
 | Open Bar | 58804 | [58804-open-bar.json](./58804-open-bar.json) |
 | Open Brush | 151999 | [151999-open-brush.json](./151999-open-brush.json) |
@@ -3877,6 +3879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orc Attack | 23944 | [23944-orc-attack.json](./23944-orc-attack.json) |
 | Orc Attack: Flatulent Rebellion | 7044 | [7044-orc-attack-flatulent-rebellion.json](./7044-orc-attack-flatulent-rebellion.json) |
 | Orc Colony | 119875 | [119875-orc-colony.json](./119875-orc-colony.json) |
+| Orc Covenant | 236076 | [236076-orc-covenant.json](./236076-orc-covenant.json) |
 | Orc Dungeon | 115294 | [115294-orc-dungeon.json](./115294-orc-dungeon.json) |
 | Orc Hunt | 186277 | [186277-orc-hunt.json](./186277-orc-hunt.json) |
 | Orc Hunter VR | 32275 | [32275-orc-hunter-vr.json](./32275-orc-hunter-vr.json) |
