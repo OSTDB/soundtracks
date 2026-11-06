@@ -4689,6 +4689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equinox | 13644 | [13644-equinox.json](./13644-equinox.json) |
 | Equinox | 197403 | [197403-equinox.json](./197403-equinox.json) |
 | Equinox | 203305 | [203305-equinox.json](./203305-equinox.json) |
+| Equinox | 222691 | [222691-equinox.json](./222691-equinox.json) |
 | Equinox | 224944 | [224944-equinox.json](./224944-equinox.json) |
 | Equinox | 264123 | [264123-equinox.json](./264123-equinox.json) |
 | Equinox | 329147 | [329147-equinox.json](./329147-equinox.json) |
@@ -7092,6 +7093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Maze 2: Lava Dungeon | 193292 | [193292-evil-maze-2-lava-dungeon.json](./193292-evil-maze-2-lava-dungeon.json) |
 | Evil Maze: The Enemy of Abyss | 174498 | [174498-evil-maze-the-enemy-of-abyss.json](./174498-evil-maze-the-enemy-of-abyss.json) |
 | Evil Minds: Dirty Charades! | 106346 | [106346-evil-minds-dirty-charades.json](./106346-evil-minds-dirty-charades.json) |
+| Evil Mineswifter | 222707 | [222707-evil-mineswifter.json](./222707-evil-mineswifter.json) |
 | Evil Mountains | 276675 | [276675-evil-mountains.json](./276675-evil-mountains.json) |
 | Evil Next Door | 217366 | [217366-evil-next-door.json](./217366-evil-next-door.json) |
 | Evil Night | 94718 | [94718-evil-night.json](./94718-evil-night.json) |
