@@ -499,6 +499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life 1 Anthology | 400309 | [400309-half-life-1-anthology.json](./400309-half-life-1-anthology.json) |
 | Half-Life 2 Beta Minimalist Mod | 140851 | [140851-half-life-2-beta-minimalist-mod.json](./140851-half-life-2-beta-minimalist-mod.json) |
 | Half-Life 2 Classic | 128657 | [128657-half-life-2-classic.json](./128657-half-life-2-classic.json) |
+| Half-Life 2 Mirrored | 221477 | [221477-half-life-2-mirrored.json](./221477-half-life-2-mirrored.json) |
 | Half-Life 2 RTX | 262537 | [262537-half-life-2-rtx.json](./262537-half-life-2-rtx.json) |
 | Half-Life 2 Substance | 366609 | [366609-half-life-2-substance.json](./366609-half-life-2-substance.json) |
 | Half-Life 2: Aftermath | 314127 | [314127-half-life-2-aftermath.json](./314127-half-life-2-aftermath.json) |
@@ -10411,6 +10412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Pot VR | 153004 | [153004-hot-pot-vr.json](./153004-hot-pot-vr.json) |
 | Hot Potato Online | 288009 | [288009-hot-potato-online.json](./288009-hot-potato-online.json) |
 | Hot Property | 393588 | [393588-hot-property.json](./393588-hot-property.json) |
+| Hot Pussy College | 221562 | [221562-hot-pussy-college.json](./221562-hot-pussy-college.json) |
 | Hot Pussy College 2 | 240737 | [240737-hot-pussy-college-2.json](./240737-hot-pussy-college-2.json) |
 | Hot Racing | 246461 | [246461-hot-racing.json](./246461-hot-racing.json) |
 | Hot Redheads | 271620 | [271620-hot-redheads.json](./271620-hot-redheads.json) |
