@@ -5218,6 +5218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aim Hero | 31547 | [31547-aim-hero.json](./31547-aim-hero.json) |
 | Aim in Space | 274513 | [274513-aim-in-space.json](./274513-aim-in-space.json) |
 | Aim Lab Mobile | 226768 | [226768-aim-lab-mobile.json](./226768-aim-lab-mobile.json) |
+| Aim Lab VR | 195846 | [195846-aim-lab-vr.json](./195846-aim-lab-vr.json) |
 | Aim Llama | 256191 | [256191-aim-llama.json](./256191-aim-llama.json) |
 | Aim Master | 110913 | [110913-aim-master.json](./110913-aim-master.json) |
 | Aim Master H | 169787 | [169787-aim-master-h.json](./169787-aim-master-h.json) |
@@ -8621,7 +8622,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: Halloween Paint Jobs Pack | 353401 | [353401-american-truck-simulator-halloween-paint-jobs-pack.json](./353401-american-truck-simulator-halloween-paint-jobs-pack.json) |
 | American Truck Simulator: Heavy Cargo Pack | 44120 | [44120-american-truck-simulator-heavy-cargo-pack.json](./44120-american-truck-simulator-heavy-cargo-pack.json) |
 | American Truck Simulator: Illinois | 348974 | [348974-american-truck-simulator-illinois.json](./348974-american-truck-simulator-illinois.json) |
+| American Truck Simulator: International 9900i | 195805 | [195805-american-truck-simulator-international-9900i.json](./195805-american-truck-simulator-international-9900i.json) |
 | American Truck Simulator: International LoneStar | 288629 | [288629-american-truck-simulator-international-lonestar.json](./288629-american-truck-simulator-international-lonestar.json) |
+| American Truck Simulator: International LT | 195814 | [195814-american-truck-simulator-international-lt.json](./195814-american-truck-simulator-international-lt.json) |
 | American Truck Simulator: Iowa | 348972 | [348972-american-truck-simulator-iowa.json](./348972-american-truck-simulator-iowa.json) |
 | American Truck Simulator: JCB Equipment Pack | 302496 | [302496-american-truck-simulator-jcb-equipment-pack.json](./302496-american-truck-simulator-jcb-equipment-pack.json) |
 | American Truck Simulator: Kansas | 233986 | [233986-american-truck-simulator-kansas.json](./233986-american-truck-simulator-kansas.json) |
@@ -10243,6 +10246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Fart Simulator | 397648 | [397648-anime-fart-simulator.json](./397648-anime-fart-simulator.json) |
 | Anime fashion show | 99500 | [99500-anime-fashion-show.json](./99500-anime-fashion-show.json) |
 | Anime Feet | 157857 | [157857-anime-feet.json](./157857-anime-feet.json) |
+| Anime Feet 2 | 195747 | [195747-anime-feet-2.json](./195747-anime-feet-2.json) |
 | Anime Feet Aim Trainer | 371231 | [371231-anime-feet-aim-trainer.json](./371231-anime-feet-aim-trainer.json) |
 | Anime Feet Boys: The Charm Finder Quest | 386558 | [386558-anime-feet-boys-the-charm-finder-quest.json](./386558-anime-feet-boys-the-charm-finder-quest.json) |
 | Anime Feet Girls: The Charm Finder Quest | 386557 | [386557-anime-feet-girls-the-charm-finder-quest.json](./386557-anime-feet-girls-the-charm-finder-quest.json) |
@@ -13684,6 +13688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark Area | 40016 | [40016-ark-area.json](./40016-ark-area.json) |
 | ARK BOX Unlimited | 30576 | [30576-ark-box-unlimited.json](./30576-ark-box-unlimited.json) |
 | Ark Bubble | 242562 | [242562-ark-bubble.json](./242562-ark-bubble.json) |
+| Ark Defender | 195821 | [195821-ark-defender.json](./195821-ark-defender.json) |
 | Ark Mobius | 169794 | [169794-ark-mobius.json](./169794-ark-mobius.json) |
 | Ark Noir | 82880 | [82880-ark-noir.json](./82880-ark-noir.json) |
 | Ark Nova | 338156 | [338156-ark-nova.json](./338156-ark-nova.json) |
@@ -16564,6 +16569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Shallie: Alchemists of the Dusk Sea DX | 122750 | [122750-atelier-shallie-alchemists-of-the-dusk-sea-dx.json](./122750-atelier-shallie-alchemists-of-the-dusk-sea-dx.json) |
 | Atelier Sophie 2: The Alchemist of the Mysterious Dream | 172822 | [172822-atelier-sophie-2-the-alchemist-of-the-mysterious-dream.json](./172822-atelier-sophie-2-the-alchemist-of-the-mysterious-dream.json) |
 | Atelier Sophie 2: The Alchemist of the Mysterious Dream - Digital Deluxe Edition | 221266 | [221266-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-digital-deluxe-edition.json](./221266-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-digital-deluxe-edition.json) |
+| Atelier Sophie 2: The Alchemist of the Mysterious Dream - Extra Area "Heartscape" | 195809 | [195809-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-extra-area-heartscape.json](./195809-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-extra-area-heartscape.json) |
 | Atelier Sophie 2: The Alchemist of the Mysterious Dream - Extra Area: Atelier Plachta | 199509 | [199509-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-extra-area-atelier-plachta.json](./199509-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-extra-area-atelier-plachta.json) |
 | Atelier Sophie 2: The Alchemist of the Mysterious Dream - Ultimate Edition | 199870 | [199870-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-ultimate-edition.json](./199870-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-ultimate-edition.json) |
 | Atelier Sophie: The Alchemist of the Mysterious Book | 12633 | [12633-atelier-sophie-the-alchemist-of-the-mysterious-book.json](./12633-atelier-sophie-the-alchemist-of-the-mysterious-book.json) |
