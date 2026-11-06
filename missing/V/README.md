@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacuum Pilot | 160254 | [160254-vacuum-pilot.json](./160254-vacuum-pilot.json) |
 | Vacuum Pilot 2 | 420557 | [420557-vacuum-pilot-2.json](./420557-vacuum-pilot-2.json) |
 | Vacuum Story | 204537 | [204537-vacuum-story.json](./204537-vacuum-story.json) |
+| Vacuum Warrior | 238829 | [238829-vacuum-warrior.json](./238829-vacuum-warrior.json) |
 | Vacuumania | 94334 | [94334-vacuumania.json](./94334-vacuumania.json) |
 | Vade Retro Satana | 366360 | [366360-vade-retro-satana.json](./366360-vade-retro-satana.json) |
 | Vade Retro: Exorcist | 216492 | [216492-vade-retro-exorcist.json](./216492-vade-retro-exorcist.json) |
@@ -203,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vagrant Hearts | 25470 | [25470-vagrant-hearts.json](./25470-vagrant-hearts.json) |
 | Vagrant Hearts 2 | 35480 | [35480-vagrant-hearts-2.json](./35480-vagrant-hearts-2.json) |
 | Vagrant Hearts Zero | 28938 | [28938-vagrant-hearts-zero.json](./28938-vagrant-hearts-zero.json) |
+| Vagrant Knight | 238806 | [238806-vagrant-knight.json](./238806-vagrant-knight.json) |
 | Vagrant Moon | 298617 | [298617-vagrant-moon.json](./298617-vagrant-moon.json) |
 | Vagrant Shifter | 286129 | [286129-vagrant-shifter.json](./286129-vagrant-shifter.json) |
 | Vagrant Story | 2216 | [2216-vagrant-story.json](./2216-vagrant-story.json) |
@@ -2426,6 +2428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VIP Shuttle | 116240 | [116240-vip-shuttle.json](./116240-vip-shuttle.json) |
 | VIP Spades | 84289 | [84289-vip-spades.json](./84289-vip-spades.json) |
 | Viper | 12901 | [12901-viper.json](./12901-viper.json) |
+| Viper | 238847 | [238847-viper.json](./238847-viper.json) |
 | Viper Patrol | 371551 | [371551-viper-patrol.json](./371551-viper-patrol.json) |
 | Viper Phase 1 | 39819 | [39819-viper-phase-1.json](./39819-viper-phase-1.json) |
 | Viper Racing | 937 | [937-viper-racing.json](./937-viper-racing.json) |
@@ -3490,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volleyball! | 109453 | [109453-volleyball.json](./109453-volleyball.json) |
 | Volleyborne: Unbound Horizons | 322076 | [322076-volleyborne-unbound-horizons.json](./322076-volleyborne-unbound-horizons.json) |
 | VolleyBrawl | 132502 | [132502-volleybrawl.json](./132502-volleybrawl.json) |
+| Volleydolls | 238824 | [238824-volleydolls.json](./238824-volleydolls.json) |
 | Volleyfire | 66618 | [66618-volleyfire.json](./66618-volleyfire.json) |
 | Volleying | 72413 | [72413-volleying.json](./72413-volleying.json) |
 | Volleyring | 274863 | [274863-volleyring.json](./274863-volleyring.json) |
