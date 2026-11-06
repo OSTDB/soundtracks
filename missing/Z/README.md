@@ -2199,6 +2199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zôo | 359764 | [359764-zoo.json](./359764-zoo.json) |
 | Zoo Adventure | 212427 | [212427-zoo-adventure.json](./212427-zoo-adventure.json) |
 | Zoo and Wild Animals Mod: Rebuilt | 249318 | [249318-zoo-and-wild-animals-mod-rebuilt.json](./249318-zoo-and-wild-animals-mod-rebuilt.json) |
+| Zoo Animals | 231684 | [231684-zoo-animals.json](./231684-zoo-animals.json) |
 | Zoo Animals ~ Touch, Look, Listen | 89706 | [89706-zoo-animals-touch-look-listen.json](./89706-zoo-animals-touch-look-listen.json) |
 | Zoo at Midnight | 312231 | [312231-zoo-at-midnight.json](./312231-zoo-at-midnight.json) |
 | Zoo Block | 334260 | [334260-zoo-block.json](./334260-zoo-block.json) |
