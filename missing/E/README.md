@@ -4432,6 +4432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Fun: Western Coaster | 169114 | [169114-epic-fun-western-coaster.json](./169114-epic-fun-western-coaster.json) |
 | Epic Game Maker | 105188 | [105188-epic-game-maker.json](./105188-epic-game-maker.json) |
 | Epic Game Theory | 110138 | [110138-epic-game-theory.json](./110138-epic-game-theory.json) |
+| Epic Hero | 235027 | [235027-epic-hero.json](./235027-epic-hero.json) |
 | Epic Heroes Battle Royal | 123271 | [123271-epic-heroes-battle-royal.json](./123271-epic-heroes-battle-royal.json) |
 | Epic Ice Cream | 421791 | [421791-epic-ice-cream.json](./421791-epic-ice-cream.json) |
 | Epic Idle Quest | 96187 | [96187-epic-idle-quest.json](./96187-epic-idle-quest.json) |
@@ -7667,6 +7668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exogenesis: The Erebus Cycle | 390518 | [390518-exogenesis-the-erebus-cycle.json](./390518-exogenesis-the-erebus-cycle.json) |
 | Exographer | 295106 | [295106-exographer.json](./295106-exographer.json) |
 | ExoHarvest | 320077 | [320077-exoharvest.json](./320077-exoharvest.json) |
+| ExoHunters: Galaxy | 235001 | [235001-exohunters-galaxy.json](./235001-exohunters-galaxy.json) |
 | Exoide-Z | 41756 | [41756-exoide-z.json](./41756-exoide-z.json) |
 | Exojet + | 41546 | [41546-exojet.json](./41546-exojet.json) |
 | ExolonFX | 298956 | [298956-exolonfx.json](./298956-exolonfx.json) |
