@@ -11623,6 +11623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apple Avengers | 106871 | [106871-apple-avengers.json](./106871-apple-avengers.json) |
 | Apple Bag | 280197 | [280197-apple-bag.json](./280197-apple-bag.json) |
 | Apple Bang! | 150046 | [150046-apple-bang.json](./150046-apple-bang.json) |
+| Apple Bowl | 233315 | [233315-apple-bowl.json](./233315-apple-bowl.json) |
 | Apple Catch | 317457 | [317457-apple-catch.json](./317457-apple-catch.json) |
 | Apple Cider Spider | 12254 | [12254-apple-cider-spider.json](./12254-apple-cider-spider.json) |
 | Apple Clicker | 314410 | [314410-apple-clicker.json](./314410-apple-clicker.json) |
@@ -18208,6 +18209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azurael's Circle: Chapter 5 | 168836 | [168836-azuraels-circle-chapter-5.json](./168836-azuraels-circle-chapter-5.json) |
 | Azuran Tales: Trials | 99165 | [99165-azuran-tales-trials.json](./99165-azuran-tales-trials.json) |
 | Azure | 150658 | [150658-azure.json](./150658-azure.json) |
+| Azure | 233339 | [233339-azure.json](./233339-azure.json) |
 | Azure '88 | 295425 | [295425-azure-88.json](./295425-azure-88.json) |
 | Azure Archipelago | 387394 | [387394-azure-archipelago.json](./387394-azure-archipelago.json) |
 | Azure Be Gone | 322396 | [322396-azure-be-gone.json](./322396-azure-be-gone.json) |
