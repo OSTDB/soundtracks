@@ -2243,6 +2243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mailbag Mayhem | 62191 | [62191-mailbag-mayhem.json](./62191-mailbag-mayhem.json) |
 | Mailbound | 345796 | [345796-mailbound.json](./345796-mailbound.json) |
 | Mailfrog | 178040 | [178040-mailfrog.json](./178040-mailfrog.json) |
+| Mailman | 203577 | [203577-mailman.json](./203577-mailman.json) |
 | MailPop | 249070 | [249070-mailpop.json](./249070-mailpop.json) |
 | MailRabit | 289260 | [289260-mailrabit.json](./289260-mailrabit.json) |
 | Mailstrom | 345239 | [345239-mailstrom.json](./345239-mailstrom.json) |
@@ -4535,6 +4536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martial Law | 168099 | [168099-martial-law.json](./168099-martial-law.json) |
 | Martial Law: Our Spring | 293863 | [293863-martial-law-our-spring.json](./293863-martial-law-our-spring.json) |
 | Martial Masters | 39386 | [39386-martial-masters.json](./39386-martial-masters.json) |
+| Martial Story | 203581 | [203581-martial-story.json](./203581-martial-story.json) |
 | Martial Tricks | 394133 | [394133-martial-tricks.json](./394133-martial-tricks.json) |
 | Martian Escape | 191117 | [191117-martian-escape.json](./191117-martian-escape.json) |
 | Martian Gothic: Unification | 24120 | [24120-martian-gothic-unification.json](./24120-martian-gothic-unification.json) |
@@ -5127,6 +5129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Illusion Express: Shuffle Games | 72941 | [72941-master-of-illusion-express-shuffle-games.json](./72941-master-of-illusion-express-shuffle-games.json) |
 | Master of Ives | 284879 | [284879-master-of-ives.json](./284879-master-of-ives.json) |
 | Master of Jewelry | 374031 | [374031-master-of-jewelry.json](./374031-master-of-jewelry.json) |
+| Master of Knights: Seven Trials | 203518 | [203518-master-of-knights-seven-trials.json](./203518-master-of-knights-seven-trials.json) |
 | Master of LinCard | 122624 | [122624-master-of-lincard.json](./122624-master-of-lincard.json) |
 | Master of Love | 309814 | [309814-master-of-love.json](./309814-master-of-love.json) |
 | Master of Luna | 249867 | [249867-master-of-luna.json](./249867-master-of-luna.json) |
@@ -6898,6 +6901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot 3 Parts Collection: Z Kara no Chousenjou | 92536 | [92536-medarot-3-parts-collection-z-kara-no-chousenjou.json](./92536-medarot-3-parts-collection-z-kara-no-chousenjou.json) |
 | Medarot 4: Kabuto Version | 91532 | [91532-medarot-4-kabuto-version.json](./91532-medarot-4-kabuto-version.json) |
 | Medarot 4: Kuwagata Version | 204235 | [204235-medarot-4-kuwagata-version.json](./204235-medarot-4-kuwagata-version.json) |
+| Medarot 5: Susutake-mura no Tenkousei - Kabuto Version | 203512 | [203512-medarot-5-susutake-mura-no-tenkousei-kabuto-version.json](./203512-medarot-5-susutake-mura-no-tenkousei-kabuto-version.json) |
 | Medarot 5: Susutake-mura no Tenkousei - Kuwagata Version | 91534 | [91534-medarot-5-susutake-mura-no-tenkousei-kuwagata-version.json](./91534-medarot-5-susutake-mura-no-tenkousei-kuwagata-version.json) |
 | Medarot 7: Kabuto Version | 138121 | [138121-medarot-7-kabuto-version.json](./138121-medarot-7-kabuto-version.json) |
 | Medarot 7: Kuwagata Version | 83882 | [83882-medarot-7-kuwagata-version.json](./83882-medarot-7-kuwagata-version.json) |
@@ -16451,6 +16455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moomin Midsummer Madness | 404859 | [404859-moomin-midsummer-madness.json](./404859-moomin-midsummer-madness.json) |
 | Moomin no Suteki na Present | 230276 | [230276-moomin-no-suteki-na-present.json](./230276-moomin-no-suteki-na-present.json) |
 | Moomin Under Sail | 114729 | [114729-moomin-under-sail.json](./114729-moomin-under-sail.json) |
+| Moomin: Welcome to Moominvalley | 203477 | [203477-moomin-welcome-to-moominvalley.json](./203477-moomin-welcome-to-moominvalley.json) |
 | Moomin's Tale | 49859 | [49859-moomins-tale.json](./49859-moomins-tale.json) |
 | Moomintroll: Winter's Warmth | 348272 | [348272-moomintroll-winters-warmth.json](./348272-moomintroll-winters-warmth.json) |
 | MooMoo.io | 111895 | [111895-moomoo-io.json](./111895-moomoo-io.json) |
@@ -21391,6 +21396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myeong Wol | 125894 | [125894-myeong-wol.json](./125894-myeong-wol.json) |
 | Myether | 184888 | [184888-myether.json](./184888-myether.json) |
 | myFishtank | 77583 | [77583-myfishtank.json](./77583-myfishtank.json) |
+| MyFloppy Online! | 203497 | [203497-myfloppy-online.json](./203497-myfloppy-online.json) |
 | MyGF: Another | 285060 | [285060-mygf-another.json](./285060-mygf-another.json) |
 | Mygnar | 151130 | [151130-mygnar.json](./151130-mygnar.json) |
 | Myha: Return to the Lost Island | 116558 | [116558-myha-return-to-the-lost-island.json](./116558-myha-return-to-the-lost-island.json) |
