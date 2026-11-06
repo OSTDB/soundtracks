@@ -4572,6 +4572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Discovery | 199457 | [199457-age-of-discovery.json](./199457-age-of-discovery.json) |
 | Age of DOOM | 218053 | [218053-age-of-doom.json](./218053-age-of-doom.json) |
 | Age Of Dynasties | 317827 | [317827-age-of-dynasties.json](./317827-age-of-dynasties.json) |
+| Age of Dynasties: Pharaoh | 208690 | [208690-age-of-dynasties-pharaoh.json](./208690-age-of-dynasties-pharaoh.json) |
 | Age of Dynasties: Shogun | 219260 | [219260-age-of-dynasties-shogun.json](./219260-age-of-dynasties-shogun.json) |
 | Age of Dynasty | 213428 | [213428-age-of-dynasty.json](./213428-age-of-dynasty.json) |
 | Age of Ember | 183853 | [183853-age-of-ember.json](./183853-age-of-ember.json) |
@@ -18123,6 +18124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axis Football League | 58041 | [58041-axis-football-league.json](./58041-axis-football-league.json) |
 | Axis Forward | 100930 | [100930-axis-forward.json](./100930-axis-forward.json) |
 | Axis Mundi | 26942 | [26942-axis-mundi.json](./26942-axis-mundi.json) |
+| Axis of Power | 208554 | [208554-axis-of-power.json](./208554-axis-of-power.json) |
 | Axis Shift | 366799 | [366799-axis-shift.json](./366799-axis-shift.json) |
 | Axium | 235091 | [235091-axium.json](./235091-axium.json) |
 | Axium's Box | 235453 | [235453-axiums-box.json](./235453-axiums-box.json) |
