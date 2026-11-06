@@ -834,6 +834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Jigsaw: Earth Chronicles 5 | 162995 | [162995-1001-jigsaw-earth-chronicles-5.json](./162995-1001-jigsaw-earth-chronicles-5.json) |
 | 1001 Jigsaw: Earth Chronicles 7 | 195443 | [195443-1001-jigsaw-earth-chronicles-7.json](./195443-1001-jigsaw-earth-chronicles-7.json) |
 | 1001 Jigsaw: Earth Chronicles 8 | 199582 | [199582-1001-jigsaw-earth-chronicles-8.json](./199582-1001-jigsaw-earth-chronicles-8.json) |
+| 1001 Jigsaw: Earth Chronicles 9 | 193044 | [193044-1001-jigsaw-earth-chronicles-9.json](./193044-1001-jigsaw-earth-chronicles-9.json) |
 | 1001 Jigsaw: Home Sweet Home - Back from Vacation | 188933 | [188933-1001-jigsaw-home-sweet-home-back-from-vacation.json](./188933-1001-jigsaw-home-sweet-home-back-from-vacation.json) |
 | 1001 Jigsaw: Home Sweet Home - Wedding Ceremony | 157963 | [157963-1001-jigsaw-home-sweet-home-wedding-ceremony.json](./157963-1001-jigsaw-home-sweet-home-wedding-ceremony.json) |
 | 1001 Jigsaw: Home Sweet Home 2 | 202729 | [202729-1001-jigsaw-home-sweet-home-2.json](./202729-1001-jigsaw-home-sweet-home-2.json) |
