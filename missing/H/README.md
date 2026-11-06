@@ -4412,6 +4412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty Pocket Camera | 207263 | [207263-hello-kitty-pocket-camera.json](./207263-hello-kitty-pocket-camera.json) |
 | Hello Kitty Racing Adventures | 279606 | [279606-hello-kitty-racing-adventures.json](./279606-hello-kitty-racing-adventures.json) |
 | Hello Kitty Skyland | 382441 | [382441-hello-kitty-skyland.json](./382441-hello-kitty-skyland.json) |
+| Hello Kitty Tamagotchi | 230066 | [230066-hello-kitty-tamagotchi.json](./230066-hello-kitty-tamagotchi.json) |
 | Hello Kitty to Dear Daniel no Dream Adventure | 57558 | [57558-hello-kitty-to-dear-daniel-no-dream-adventure.json](./57558-hello-kitty-to-dear-daniel-no-dream-adventure.json) |
 | Hello Kitty to Issho: Block Crash 1 2 3 | 63041 | [63041-hello-kitty-to-issho-block-crash-1-2-3.json](./63041-hello-kitty-to-issho-block-crash-1-2-3.json) |
 | Hello Kitty to Sekai Ryokou! Ironna Kuni he Odekake Shimashou! | 222307 | [222307-hello-kitty-to-sekai-ryokou-ironna-kuni-he-odekake-shimashou.json](./222307-hello-kitty-to-sekai-ryokou-ironna-kuni-he-odekake-shimashou.json) |
@@ -8087,6 +8088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hissatsu Pachinko Station 2 | 58320 | [58320-hissatsu-pachinko-station-2.json](./58320-hissatsu-pachinko-station-2.json) |
 | Hissatsu Pachinko Station 3 | 58316 | [58316-hissatsu-pachinko-station-3.json](./58316-hissatsu-pachinko-station-3.json) |
 | Hissatsu Pachinko Station Now | 97629 | [97629-hissatsu-pachinko-station-now.json](./97629-hissatsu-pachinko-station-now.json) |
+| Hissatsu Pachinko Station Now 5: GeGeGe no Kitaro | 230057 | [230057-hissatsu-pachinko-station-now-5-gegege-no-kitaro.json](./230057-hissatsu-pachinko-station-now-5-gegege-no-kitaro.json) |
 | Hissatsu Pachinko Station Now 8: Jarinko Chie | 133745 | [133745-hissatsu-pachinko-station-now-8-jarinko-chie.json](./133745-hissatsu-pachinko-station-now-8-jarinko-chie.json) |
 | Hissatsu Pachinko Station V2 | 137100 | [137100-hissatsu-pachinko-station-v2.json](./137100-hissatsu-pachinko-station-v2.json) |
 | Hissatsu Pachinko Station V5: Pink Lady | 97625 | [97625-hissatsu-pachinko-station-v5-pink-lady.json](./97625-hissatsu-pachinko-station-v5-pink-lady.json) |
