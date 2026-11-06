@@ -7960,6 +7960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto Online: San Andreas Mercenaries | 400331 | [400331-grand-theft-auto-online-san-andreas-mercenaries.json](./400331-grand-theft-auto-online-san-andreas-mercenaries.json) |
 | Grand Theft Auto Online: The Cayo Perico Heist | 239050 | [239050-grand-theft-auto-online-the-cayo-perico-heist.json](./239050-grand-theft-auto-online-the-cayo-perico-heist.json) |
 | Grand Theft Auto Online: The Chop Shop | 400332 | [400332-grand-theft-auto-online-the-chop-shop.json](./400332-grand-theft-auto-online-the-chop-shop.json) |
+| Grand Theft Auto Online: The Contract | 205198 | [205198-grand-theft-auto-online-the-contract.json](./205198-grand-theft-auto-online-the-contract.json) |
 | Grand Theft Auto Online: The Criminal Enterprises | 239052 | [239052-grand-theft-auto-online-the-criminal-enterprises.json](./239052-grand-theft-auto-online-the-criminal-enterprises.json) |
 | Grand Theft Auto Online: The Diamond Casino & Resort | 239055 | [239055-grand-theft-auto-online-the-diamond-casino-and-resort.json](./239055-grand-theft-auto-online-the-diamond-casino-and-resort.json) |
 | Grand Theft Auto Online: The Diamond Casino Heist | 398950 | [398950-grand-theft-auto-online-the-diamond-casino-heist.json](./398950-grand-theft-auto-online-the-diamond-casino-heist.json) |
