@@ -1145,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warbirds P-51 Mustang ACE | 254700 | [254700-warbirds-p-51-mustang-ace.json](./254700-warbirds-p-51-mustang-ace.json) |
 | WarBirds Red Baron | 50397 | [50397-warbirds-red-baron.json](./50397-warbirds-red-baron.json) |
 | Warbirds Red Baron 2012 | 53142 | [53142-warbirds-red-baron-2012.json](./53142-warbirds-red-baron-2012.json) |
+| Warbirds Spitfire | 224344 | [224344-warbirds-spitfire.json](./224344-warbirds-spitfire.json) |
 | Warbit | 33433 | [33433-warbit.json](./33433-warbit.json) |
 | Warbit Union | 184385 | [184385-warbit-union.json](./184385-warbit-union.json) |
 | Warbits | 90444 | [90444-warbits.json](./90444-warbits.json) |
@@ -9415,6 +9416,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wyrmspace Tactics | 380963 | [380963-wyrmspace-tactics.json](./380963-wyrmspace-tactics.json) |
 | Wyrmstooth | 313267 | [313267-wyrmstooth.json](./313267-wyrmstooth.json) |
 | Wyrmsun | 28362 | [28362-wyrmsun.json](./28362-wyrmsun.json) |
+| Wyrmsun: Brising Faction Flair Pack | 224390 | [224390-wyrmsun-brising-faction-flair-pack.json](./224390-wyrmsun-brising-faction-flair-pack.json) |
+| Wyrmsun: Frankish Faction Flair Pack | 224389 | [224389-wyrmsun-frankish-faction-flair-pack.json](./224389-wyrmsun-frankish-faction-flair-pack.json) |
+| Wyrmsun: Joruvellir Faction Flair Pack | 224388 | [224388-wyrmsun-joruvellir-faction-flair-pack.json](./224388-wyrmsun-joruvellir-faction-flair-pack.json) |
 | WyshBound | 337300 | [337300-wyshbound.json](./337300-wyshbound.json) |
 | Wytchsun: Elleros Origins | 117544 | [117544-wytchsun-elleros-origins.json](./117544-wytchsun-elleros-origins.json) |
 | Wyv and Keep: The Temple of the Lost Idol | 16847 | [16847-wyv-and-keep-the-temple-of-the-lost-idol.json](./16847-wyv-and-keep-the-temple-of-the-lost-idol.json) |
