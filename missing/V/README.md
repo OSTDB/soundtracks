@@ -685,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire: The Masquerade - Parliament of Knives: What Stares Back | 216855 | [216855-vampire-the-masquerade-parliament-of-knives-what-stares-back.json](./216855-vampire-the-masquerade-parliament-of-knives-what-stares-back.json) |
 | Vampire: The Masquerade - Reckoning of New York | 305291 | [305291-vampire-the-masquerade-reckoning-of-new-york.json](./305291-vampire-the-masquerade-reckoning-of-new-york.json) |
 | Vampire: The Masquerade - Shadows of New York Deluxe Edition | 154220 | [154220-vampire-the-masquerade-shadows-of-new-york-deluxe-edition.json](./154220-vampire-the-masquerade-shadows-of-new-york-deluxe-edition.json) |
+| Vampire: The Masquerade - Sins of the Sires | 193048 | [193048-vampire-the-masquerade-sins-of-the-sires.json](./193048-vampire-the-masquerade-sins-of-the-sires.json) |
 | Vampire: The Masquerade - Swansong Alternate Outfits Pack | 225608 | [225608-vampire-the-masquerade-swansong-alternate-outfits-pack.json](./225608-vampire-the-masquerade-swansong-alternate-outfits-pack.json) |
 | Vampire: The Masquerade - Swansong Artifacts Pack | 225612 | [225612-vampire-the-masquerade-swansong-artifacts-pack.json](./225612-vampire-the-masquerade-swansong-artifacts-pack.json) |
 | Vampire: The Masquerade - Swansong Victoria Ash | 225611 | [225611-vampire-the-masquerade-swansong-victoria-ash.json](./225611-vampire-the-masquerade-swansong-victoria-ash.json) |
@@ -1463,6 +1464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VenusBlood Ragnarok International | 348435 | [348435-venusblood-ragnarok-international.json](./348435-venusblood-ragnarok-international.json) |
 | Venusian Vengeance | 35704 | [35704-venusian-vengeance.json](./35704-venusian-vengeance.json) |
 | Venusville | 312829 | [312829-venusville.json](./312829-venusville.json) |
+| Ver | 193032 | [193032-ver.json](./193032-ver.json) |
 | Vera Blanc: Full Moon | 140912 | [140912-vera-blanc-full-moon.json](./140912-vera-blanc-full-moon.json) |
 | Vera Blanc: Ghost in the Castle | 142852 | [142852-vera-blanc-ghost-in-the-castle.json](./142852-vera-blanc-ghost-in-the-castle.json) |
 | Vera Blanc: Supernatural Mysteries | 306516 | [306516-vera-blanc-supernatural-mysteries.json](./306516-vera-blanc-supernatural-mysteries.json) |
@@ -3017,6 +3019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vitality | 213040 | [213040-vitality.json](./213040-vitality.json) |
 | Vitality Cranker | 230790 | [230790-vitality-cranker.json](./230790-vitality-cranker.json) |
 | Vitality Girl | 147409 | [147409-vitality-girl.json](./147409-vitality-girl.json) |
+| Vitality Girl II: Fire | 193022 | [193022-vitality-girl-ii-fire.json](./193022-vitality-girl-ii-fire.json) |
 | Vitality Girl III: Pixel | 195870 | [195870-vitality-girl-iii-pixel.json](./195870-vitality-girl-iii-pixel.json) |
 | Vitality Girl Ⅲ: Pixel - Night Action | 196157 | [196157-vitality-girl-iii-pixel-night-action.json](./196157-vitality-girl-iii-pixel-night-action.json) |
 | Vitam Finire | 251743 | [251743-vitam-finire.json](./251743-vitam-finire.json) |
@@ -4043,7 +4046,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Tomb's Secrets2 | 102248 | [102248-vr-tombs-secrets2.json](./102248-vr-tombs-secrets2.json) |
 | VR Tractor Farming | 248032 | [248032-vr-tractor-farming.json](./248032-vr-tractor-farming.json) |
 | VR Traffic Safety with Polly | 338564 | [338564-vr-traffic-safety-with-polly.json](./338564-vr-traffic-safety-with-polly.json) |
+| VR Training: Fire Safety | 193017 | [193017-vr-training-fire-safety.json](./193017-vr-training-fire-safety.json) |
 | VR Training: Hot Work | 193076 | [193076-vr-training-hot-work.json](./193076-vr-training-hot-work.json) |
+| VR Training: Lockout Tagout | 193015 | [193015-vr-training-lockout-tagout.json](./193015-vr-training-lockout-tagout.json) |
+| VR Training: Work At Height | 193014 | [193014-vr-training-work-at-height.json](./193014-vr-training-work-at-height.json) |
 | VR travel as a little tiny small dwarf | 252226 | [252226-vr-travel-as-a-little-tiny-small-dwarf.json](./252226-vr-travel-as-a-little-tiny-small-dwarf.json) |
 | VR Treasure Raider | 153383 | [153383-vr-treasure-raider.json](./153383-vr-treasure-raider.json) |
 | VR Triber | 74153 | [74153-vr-triber.json](./74153-vr-triber.json) |
