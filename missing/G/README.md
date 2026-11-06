@@ -828,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Ball | 96882 | [96882-galaxy-ball.json](./96882-galaxy-ball.json) |
 | Galaxy Ball Defender | 96886 | [96886-galaxy-ball-defender.json](./96886-galaxy-ball-defender.json) |
 | Galaxy Ballerina | 293415 | [293415-galaxy-ballerina.json](./293415-galaxy-ballerina.json) |
+| Galaxy Balls | 241110 | [241110-galaxy-balls.json](./241110-galaxy-balls.json) |
 | Galaxy Battle | 268326 | [268326-galaxy-battle.json](./268326-galaxy-battle.json) |
 | Galaxy Beam | 185506 | [185506-galaxy-beam.json](./185506-galaxy-beam.json) |
 | Galaxy Blaster | 56156 | [56156-galaxy-blaster.json](./56156-galaxy-blaster.json) |
@@ -9177,6 +9178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim | 379863 | [379863-grim.json](./379863-grim.json) |
 | Grim | 391785 | [391785-grim.json](./391785-grim.json) |
 | Grim Axiom | 357039 | [357039-grim-axiom.json](./357039-grim-axiom.json) |
+| Grim Ball | 241127 | [241127-grim-ball.json](./241127-grim-ball.json) |
 | Grim Blaster | 64778 | [64778-grim-blaster.json](./64778-grim-blaster.json) |
 | Grim Borough | 297238 | [297238-grim-borough.json](./297238-grim-borough.json) |
 | Grim Chronicles: Superior Sorcery | 416700 | [416700-grim-chronicles-superior-sorcery.json](./416700-grim-chronicles-superior-sorcery.json) |
