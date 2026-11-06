@@ -7697,6 +7697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitch Black Serenade | 177433 | [177433-pitch-black-serenade.json](./177433-pitch-black-serenade.json) |
 | Pitch Black: A Dusklight Story | 213338 | [213338-pitch-black-a-dusklight-story.json](./213338-pitch-black-a-dusklight-story.json) |
 | Pitch Deck | 204733 | [204733-pitch-deck.json](./204733-pitch-deck.json) |
+| Pitch Invaders | 239432 | [239432-pitch-invaders.json](./239432-pitch-invaders.json) |
 | Pitch Patter | 273657 | [273657-pitch-patter.json](./273657-pitch-patter.json) |
 | Pitch Perfect Ear Training | 104839 | [104839-pitch-perfect-ear-training.json](./104839-pitch-perfect-ear-training.json) |
 | Pitch Shift | 180676 | [180676-pitch-shift.json](./180676-pitch-shift.json) |
