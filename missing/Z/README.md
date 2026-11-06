@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaccaria Pinball: Solid-State Table Pack 2 | 237985 | [237985-zaccaria-pinball-solid-state-table-pack-2.json](./237985-zaccaria-pinball-solid-state-table-pack-2.json) |
 | Zaccaria Pinball: Solid-State Table Pack 3 | 411009 | [411009-zaccaria-pinball-solid-state-table-pack-3.json](./411009-zaccaria-pinball-solid-state-table-pack-3.json) |
 | Zaccaria Pinball: Space Shuttle 2016 Table | 158432 | [158432-zaccaria-pinball-space-shuttle-2016-table.json](./158432-zaccaria-pinball-space-shuttle-2016-table.json) |
+| Zaccaria Pinball: Space Shuttle Deluxe Pinball Table | 242327 | [242327-zaccaria-pinball-space-shuttle-deluxe-pinball-table.json](./242327-zaccaria-pinball-space-shuttle-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Space Shuttle Table | 158433 | [158433-zaccaria-pinball-space-shuttle-table.json](./158433-zaccaria-pinball-space-shuttle-table.json) |
 | Zaccaria Pinball: Spooky 2017 Table | 158444 | [158444-zaccaria-pinball-spooky-2017-table.json](./158444-zaccaria-pinball-spooky-2017-table.json) |
 | Zaccaria Pinball: Spooky Deluxe Pinball Table | 158474 | [158474-zaccaria-pinball-spooky-deluxe-pinball-table.json](./158474-zaccaria-pinball-spooky-deluxe-pinball-table.json) |
@@ -2289,6 +2290,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZooKeeper Simulator | 127218 | [127218-zookeeper-simulator.json](./127218-zookeeper-simulator.json) |
 | Zookeeper World | 170542 | [170542-zookeeper-world.json](./170542-zookeeper-world.json) |
 | Zookoban | 184365 | [184365-zookoban.json](./184365-zookoban.json) |
+| Zool | 242311 | [242311-zool.json](./242311-zool.json) |
+| Zool | 242313 | [242313-zool.json](./242313-zool.json) |
 | Zool 2 | 12238 | [12238-zool-2.json](./12238-zool-2.json) |
 | Zool: Ninja of the Nth Dimension | 2547 | [2547-zool-ninja-of-the-nth-dimension.json](./2547-zool-ninja-of-the-nth-dimension.json) |
 | Zoolax Nights: Evil Clowns | 69356 | [69356-zoolax-nights-evil-clowns.json](./69356-zoolax-nights-evil-clowns.json) |
