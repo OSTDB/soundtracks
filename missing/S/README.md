@@ -5401,6 +5401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Yaraideka | 289021 | [289021-sengoku-yaraideka.json](./289021-sengoku-yaraideka.json) |
 | Sengoku: A Time of Warriors and Demons | 165747 | [165747-sengoku-a-time-of-warriors-and-demons.json](./165747-sengoku-a-time-of-warriors-and-demons.json) |
 | Sengoku: Battle Royal | 292333 | [292333-sengoku-battle-royal.json](./292333-sengoku-battle-royal.json) |
+| Senha | 230667 | [230667-senha.json](./230667-senha.json) |
 | Senile Showdown: Arthfightus | 133613 | [133613-senile-showdown-arthfightus.json](./133613-senile-showdown-arthfightus.json) |
 | Senile Wizards | 259815 | [259815-senile-wizards.json](./259815-senile-wizards.json) |
 | Senile Zombies | 311180 | [311180-senile-zombies.json](./311180-senile-zombies.json) |
@@ -5827,6 +5828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serpent's Gaze | 380138 | [380138-serpents-gaze.json](./380138-serpents-gaze.json) |
 | Serpent's Wake | 263361 | [263361-serpents-wake.json](./263361-serpents-wake.json) |
 | Serpentes | 141594 | [141594-serpentes.json](./141594-serpentes.json) |
+| Serpentes | 230668 | [230668-serpentes.json](./230668-serpentes.json) |
 | Serpentes: Anniversary Edition | 403951 | [403951-serpentes-anniversary-edition.json](./403951-serpentes-anniversary-edition.json) |
 | Serpentine | 22769 | [22769-serpentine.json](./22769-serpentine.json) |
 | Serpico | 353816 | [353816-serpico.json](./353816-serpico.json) |
@@ -5921,6 +5923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Session: Skate Sim - Year Two Pack | 331911 | [331911-session-skate-sim-year-two-pack.json](./331911-session-skate-sim-year-two-pack.json) |
 | Session: Skate Sim Waterpark & Chris Cole | 357406 | [357406-session-skate-sim-waterpark-and-chris-cole.json](./357406-session-skate-sim-waterpark-and-chris-cole.json) |
 | Session: Skate Sim Year One & Two Edition | 331843 | [331843-session-skate-sim-year-one-and-two-edition.json](./331843-session-skate-sim-year-one-and-two-edition.json) |
+| Sessions | 230629 | [230629-sessions.json](./230629-sessions.json) |
 | Set 'N Det | 186861 | [186861-set-n-det.json](./186861-set-n-det.json) |
 | Set a Watch: Digital Edition | 341982 | [341982-set-a-watch-digital-edition.json](./341982-set-a-watch-digital-edition.json) |
 | Set Adrift | 374027 | [374027-set-adrift.json](./374027-set-adrift.json) |
@@ -15374,6 +15377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow! | 180771 | [180771-snow.json](./180771-snow.json) |
 | Snow! | 376566 | [376566-snow.json](./376566-snow.json) |
 | Snowball | 147827 | [147827-snowball.json](./147827-snowball.json) |
+| Snowball | 230669 | [230669-snowball.json](./230669-snowball.json) |
 | Snowball | 36843 | [36843-snowball.json](./36843-snowball.json) |
 | Snowball Bustout | 146737 | [146737-snowball-bustout.json](./146737-snowball-bustout.json) |
 | SnowBall Champions | 239632 | [239632-snowball-champions.json](./239632-snowball-champions.json) |
@@ -19454,7 +19458,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -29089,6 +29092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku | 224170 | [224170-sudoku.json](./224170-sudoku.json) |
 | Sudoku | 224171 | [224171-sudoku.json](./224171-sudoku.json) |
 | Sudoku | 230462 | [230462-sudoku.json](./230462-sudoku.json) |
+| Sudoku | 230670 | [230670-sudoku.json](./230670-sudoku.json) |
 | Sudoku | 232777 | [232777-sudoku.json](./232777-sudoku.json) |
 | Sudoku | 246366 | [246366-sudoku.json](./246366-sudoku.json) |
 | Sudoku | 259415 | [259415-sudoku.json](./259415-sudoku.json) |
