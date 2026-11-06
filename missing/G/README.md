@@ -5246,6 +5246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnaughty Gnomes | 346030 | [346030-gnaughty-gnomes.json](./346030-gnaughty-gnomes.json) |
 | Gnaw | 372037 | [372037-gnaw.json](./372037-gnaw.json) |
 | Gnilley | 261307 | [261307-gnilley.json](./261307-gnilley.json) |
+| Gninja Pig | 237129 | [237129-gninja-pig.json](./237129-gninja-pig.json) |
 | GnollHack | 199058 | [199058-gnollhack.json](./199058-gnollhack.json) |
 | Gnomael's Vampire | 184662 | [184662-gnomaels-vampire.json](./184662-gnomaels-vampire.json) |
 | Gnomageddon | 54650 | [54650-gnomageddon.json](./54650-gnomageddon.json) |
@@ -11268,6 +11269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gwan Moon High School: The Ghost Gate | 144011 | [144011-gwan-moon-high-school-the-ghost-gate.json](./144011-gwan-moon-high-school-the-ghost-gate.json) |
 | Gwarf | 294122 | [294122-gwarf.json](./294122-gwarf.json) |
 | GWARP | 395152 | [395152-gwarp.json](./395152-gwarp.json) |
+| Gwen the Hen 64 | 237180 | [237180-gwen-the-hen-64.json](./237180-gwen-the-hen-64.json) |
 | Gwen the Magic Nanny | 54076 | [54076-gwen-the-magic-nanny.json](./54076-gwen-the-magic-nanny.json) |
 | GwenBlade 2: Halloween | 340406 | [340406-gwenblade-2-halloween.json](./340406-gwenblade-2-halloween.json) |
 | GwenBlade Witcheresque | 389530 | [389530-gwenblade-witcheresque.json](./389530-gwenblade-witcheresque.json) |
@@ -11362,6 +11364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GyroCube VR | 109433 | [109433-gyrocube-vr.json](./109433-gyrocube-vr.json) |
 | Gyrodine | 39682 | [39682-gyrodine.json](./39682-gyrodine.json) |
 | Gyrodisc Super League | 18465 | [18465-gyrodisc-super-league.json](./18465-gyrodisc-super-league.json) |
+| GyroGunner | 237167 | [237167-gyrogunner.json](./237167-gyrogunner.json) |
 | Gyromite | 8578 | [8578-gyromite.json](./8578-gyromite.json) |
 | Gyron | 79623 | [79623-gyron.json](./79623-gyron.json) |
 | Gyron Arena | 14103 | [14103-gyron-arena.json](./14103-gyron-arena.json) |
