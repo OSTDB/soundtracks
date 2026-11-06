@@ -4091,6 +4091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Nightmare Unwanted Heritage | 278934 | [278934-deadly-nightmare-unwanted-heritage.json](./278934-deadly-nightmare-unwanted-heritage.json) |
 | Deadly Parkour | 295407 | [295407-deadly-parkour.json](./295407-deadly-parkour.json) |
 | Deadly Path | 118264 | [118264-deadly-path.json](./118264-deadly-path.json) |
+| Deadly Platform | 235559 | [235559-deadly-platform.json](./235559-deadly-platform.json) |
 | Deadly Premonition | 1276 | [1276-deadly-premonition.json](./1276-deadly-premonition.json) |
 | Deadly Premonition 2: A Blessing in Disguise | 122232 | [122232-deadly-premonition-2-a-blessing-in-disguise.json](./122232-deadly-premonition-2-a-blessing-in-disguise.json) |
 | Deadly Premonition Origins | 122234 | [122234-deadly-premonition-origins.json](./122234-deadly-premonition-origins.json) |
@@ -11937,6 +11938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dollshouse | 381939 | [381939-dollshouse.json](./381939-dollshouse.json) |
 | Dolly | 133894 | [133894-dolly.json](./133894-dolly.json) |
 | Dolly Wars: Auto Tactics | 224829 | [224829-dolly-wars-auto-tactics.json](./224829-dolly-wars-auto-tactics.json) |
+| Dolly Wars: Auto Tactics - Holiday Nightmares Campaign | 235584 | [235584-dolly-wars-auto-tactics-holiday-nightmares-campaign.json](./235584-dolly-wars-auto-tactics-holiday-nightmares-campaign.json) |
 | Dollyban | 422167 | [422167-dollyban.json](./422167-dollyban.json) |
 | Dolmen | 40102 | [40102-dolmen.json](./40102-dolmen.json) |
 | Dolmen | 75304 | [75304-dolmen.json](./75304-dolmen.json) |
@@ -12841,6 +12843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Wipeout | 390195 | [390195-doodle-wipeout.json](./390195-doodle-wipeout.json) |
 | Doodle Words | 90879 | [90879-doodle-words.json](./90879-doodle-words.json) |
 | Doodle World | 142429 | [142429-doodle-world.json](./142429-doodle-world.json) |
+| Doodle World: Deluxe | 235577 | [235577-doodle-world-deluxe.json](./235577-doodle-world-deluxe.json) |
 | Doodle World: Redrawn | 261150 | [261150-doodle-world-redrawn.json](./261150-doodle-world-redrawn.json) |
 | DoodleBob and the Magic Pencil | 341323 | [341323-doodlebob-and-the-magic-pencil.json](./341323-doodlebob-and-the-magic-pencil.json) |
 | DoodleBob and the Magic Pencil DX | 341325 | [341325-doodlebob-and-the-magic-pencil-dx.json](./341325-doodlebob-and-the-magic-pencil-dx.json) |
@@ -13854,6 +13857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down Word | 292506 | [292506-down-word.json](./292506-down-word.json) |
 | Down, the Serpent and the Sun | 191390 | [191390-down-the-serpent-and-the-sun.json](./191390-down-the-serpent-and-the-sun.json) |
 | Down. | 134994 | [134994-down.json](./134994-down.json) |
+| Downbass Warriors: Heroes of Maydamn | 235561 | [235561-downbass-warriors-heroes-of-maydamn.json](./235561-downbass-warriors-heroes-of-maydamn.json) |
 | Downbreak | 95578 | [95578-downbreak.json](./95578-downbreak.json) |
 | Downer Gyaruko-chan to Shippori Onsen Ryokou: H Shimakuri Yonpaku Itsuka no Tabi | 396931 | [396931-downer-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-yonpaku-itsuka-no-tabi.json](./396931-downer-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-yonpaku-itsuka-no-tabi.json) |
 | Downfall | 100346 | [100346-downfall.json](./100346-downfall.json) |
@@ -17544,6 +17548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dukeland | 273164 | [273164-dukeland.json](./273164-dukeland.json) |
 | Dukem Memorial Hospital | 270706 | [270706-dukem-memorial-hospital.json](./270706-dukem-memorial-hospital.json) |
 | Dukes of Hazzard 2 | 40653 | [40653-dukes-of-hazzard-2.json](./40653-dukes-of-hazzard-2.json) |
+| Dukes Up | 235565 | [235565-dukes-up.json](./235565-dukes-up.json) |
 | Duketroid | 308457 | [308457-duketroid.json](./308457-duketroid.json) |
 | DukeVR | 273214 | [273214-dukevr.json](./273214-dukevr.json) |
 | Dukkido | 330897 | [330897-dukkido.json](./330897-dukkido.json) |
@@ -18091,6 +18096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Redemption | 204691 | [204691-dungeon-redemption.json](./204691-dungeon-redemption.json) |
 | Dungeon Reels | 187833 | [187833-dungeon-reels.json](./187833-dungeon-reels.json) |
 | Dungeon Reels Tactics | 191714 | [191714-dungeon-reels-tactics.json](./191714-dungeon-reels-tactics.json) |
+| Dungeon Renovation Simulator | 235558 | [235558-dungeon-renovation-simulator.json](./235558-dungeon-renovation-simulator.json) |
 | Dungeon Renovators | 224654 | [224654-dungeon-renovators.json](./224654-dungeon-renovators.json) |
 | Dungeon Repeater | 410062 | [410062-dungeon-repeater.json](./410062-dungeon-repeater.json) |
 | Dungeon Restaurant | 253281 | [253281-dungeon-restaurant.json](./253281-dungeon-restaurant.json) |
