@@ -5139,6 +5139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PGA Tour Golf: The Monterey Courses | 206170 | [206170-pga-tour-golf-the-monterey-courses.json](./206170-pga-tour-golf-the-monterey-courses.json) |
 | PGA Tour Pro | 94514 | [94514-pga-tour-pro.json](./94514-pga-tour-pro.json) |
 | PGA Tour Pro: Classic Courses Volume 1 | 209980 | [209980-pga-tour-pro-classic-courses-volume-1.json](./209980-pga-tour-pro-classic-courses-volume-1.json) |
+| PGA Tour Pro: The Vegas Courses | 206991 | [206991-pga-tour-pro-the-vegas-courses.json](./206991-pga-tour-pro-the-vegas-courses.json) |
 | Ph0b0s | 207521 | [207521-ph0b0s.json](./207521-ph0b0s.json) |
 | Phá Kén: Khúc Điêu Linh | 318783 | [318783-pha-ken-khuc-ieu-linh.json](./318783-pha-ken-khuc-ieu-linh.json) |
 | Phage Wars | 154817 | [154817-phage-wars.json](./154817-phage-wars.json) |
