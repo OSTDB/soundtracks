@@ -154,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Became an Evil Witch that Cursed the Male Lead | 409843 | [409843-i-became-an-evil-witch-that-cursed-the-male-lead.json](./409843-i-became-an-evil-witch-that-cursed-the-male-lead.json) |
 | I Became Gay from Translating My New Roommate's Short Story | 182306 | [182306-i-became-gay-from-translating-my-new-roommates-short-story.json](./182306-i-became-gay-from-translating-my-new-roommates-short-story.json) |
 | I Believe in Capybara Supremacy! | 250992 | [250992-i-believe-in-capybara-supremacy.json](./250992-i-believe-in-capybara-supremacy.json) |
+| I Believe In Giants | 217068 | [217068-i-believe-in-giants.json](./217068-i-believe-in-giants.json) |
 | I Borrow | 150364 | [150364-i-borrow.json](./150364-i-borrow.json) |
 | I Bring The Chaos | 277934 | [277934-i-bring-the-chaos.json](./277934-i-bring-the-chaos.json) |
 | I Broke My Legs and Got Left Behind in a Burning Hospital | 381398 | [381398-i-broke-my-legs-and-got-left-behind-in-a-burning-hospital.json](./381398-i-broke-my-legs-and-got-left-behind-in-a-burning-hospital.json) |
@@ -1733,6 +1734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idleplex | 261270 | [261270-idleplex.json](./261270-idleplex.json) |
 | Idlequarium | 348707 | [348707-idlequarium.json](./348707-idlequarium.json) |
 | IdleQuest | 360543 | [360543-idlequest.json](./360543-idlequest.json) |
+| Idler Coaster | 217080 | [217080-idler-coaster.json](./217080-idler-coaster.json) |
 | Idlers and Dungeons | 78428 | [78428-idlers-and-dungeons.json](./78428-idlers-and-dungeons.json) |
 | Idlescape | 139325 | [139325-idlescape.json](./139325-idlescape.json) |
 | IdleTale | 340514 | [340514-idletale.json](./340514-idletale.json) |
@@ -5757,6 +5759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Dice | 352145 | [352145-iron-dice.json](./352145-iron-dice.json) |
 | Iron Dome | 228141 | [228141-iron-dome.json](./228141-iron-dome.json) |
 | Iron Door | 306310 | [306310-iron-door.json](./306310-iron-door.json) |
+| Iron Dungeon | 217096 | [217096-iron-dungeon.json](./217096-iron-dungeon.json) |
 | Iron Dusk Path of Honor | 366135 | [366135-iron-dusk-path-of-honor.json](./366135-iron-dusk-path-of-honor.json) |
 | Iron Emblem | 215765 | [215765-iron-emblem.json](./215765-iron-emblem.json) |
 | Iron Emblem: Gaiden | 353819 | [353819-iron-emblem-gaiden.json](./353819-iron-emblem-gaiden.json) |
