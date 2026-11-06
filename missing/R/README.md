@@ -2953,6 +2953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Life | 292273 | [292273-real-life.json](./292273-real-life.json) |
 | Real Life Day: Threesome | 313508 | [313508-real-life-day-threesome.json](./313508-real-life-day-threesome.json) |
 | Real Life Flappy Bird | 360627 | [360627-real-life-flappy-bird.json](./360627-real-life-flappy-bird.json) |
+| Real Life of Soldiers | 193008 | [193008-real-life-of-soldiers.json](./193008-real-life-of-soldiers.json) |
 | Real Life Plus Ver. Kaname Komatsuzaki | 133036 | [133036-real-life-plus-ver-kaname-komatsuzaki.json](./133036-real-life-plus-ver-kaname-komatsuzaki.json) |
 | Real Life Simulator | 407365 | [407365-real-life-simulator.json](./407365-real-life-simulator.json) |
 | Real Lives | 93439 | [93439-real-lives.json](./93439-real-lives.json) |
@@ -4192,6 +4193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redfall: Steelbook Launch Edition | 350534 | [350534-redfall-steelbook-launch-edition.json](./350534-redfall-steelbook-launch-edition.json) |
 | Redfir Hills | 304116 | [304116-redfir-hills.json](./304116-redfir-hills.json) |
 | Redfoot Bluefoot Dancing | 41965 | [41965-redfoot-bluefoot-dancing.json](./41965-redfoot-bluefoot-dancing.json) |
+| Redgar: The Space Viking | 193003 | [193003-redgar-the-space-viking.json](./193003-redgar-the-space-viking.json) |
 | Redhawk | 28440 | [28440-redhawk.json](./28440-redhawk.json) |
 | Redhawk Simulator | 326360 | [326360-redhawk-simulator.json](./326360-redhawk-simulator.json) |
 | Redhill Manor | 185303 | [185303-redhill-manor.json](./185303-redhill-manor.json) |
@@ -5898,6 +5900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resurrection | 94924 | [94924-resurrection.json](./94924-resurrection.json) |
 | Resurrection Core | 335267 | [335267-resurrection-core.json](./335267-resurrection-core.json) |
 | Resurrection Island: Love and Victory | 265570 | [265570-resurrection-island-love-and-victory.json](./265570-resurrection-island-love-and-victory.json) |
+| Resurrection of mind | 193038 | [193038-resurrection-of-mind.json](./193038-resurrection-of-mind.json) |
 | Resurrection of Santiago | 349385 | [349385-resurrection-of-santiago.json](./349385-resurrection-of-santiago.json) |
 | Resurrection of Soul Drain | 187902 | [187902-resurrection-of-soul-drain.json](./187902-resurrection-of-soul-drain.json) |
 | Resurrection: New Mexico - Collector's Edition | 125310 | [125310-resurrection-new-mexico-collectors-edition.json](./125310-resurrection-new-mexico-collectors-edition.json) |
