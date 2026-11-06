@@ -1120,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gambit | 328064 | [328064-gambit.json](./328064-gambit.json) |
 | Gambit | 403008 | [403008-gambit.json](./403008-gambit.json) |
 | Gambit Gardens | 415159 | [415159-gambit-gardens.json](./415159-gambit-gardens.json) |
+| Gambit Gun | 223294 | [223294-gambit-gun.json](./223294-gambit-gun.json) |
 | Gambit Heart | 100724 | [100724-gambit-heart.json](./100724-gambit-heart.json) |
 | Gambit Maestro | 385586 | [385586-gambit-maestro.json](./385586-gambit-maestro.json) |
 | Gambit Shifter: Surrealm | 322718 | [322718-gambit-shifter-surrealm.json](./322718-gambit-shifter-surrealm.json) |
@@ -9337,6 +9338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimante | 83975 | [83975-grimante.json](./83975-grimante.json) |
 | Grimbound | 273775 | [273775-grimbound.json](./273775-grimbound.json) |
 | Grimchester Needs A Doctor | 416830 | [416830-grimchester-needs-a-doctor.json](./416830-grimchester-needs-a-doctor.json) |
+| Grimdark Survivors | 223291 | [223291-grimdark-survivors.json](./223291-grimdark-survivors.json) |
 | Grimdoria | 278135 | [278135-grimdoria.json](./278135-grimdoria.json) |
 | Grime | 260887 | [260887-grime.json](./260887-grime.json) |
 | Grime & Gaslight | 134870 | [134870-grime-and-gaslight.json](./134870-grime-and-gaslight.json) |
