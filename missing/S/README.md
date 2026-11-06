@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saikyou Todai Shogi | 203548 | [203548-saikyou-todai-shogi.json](./203548-saikyou-todai-shogi.json) |
 | Saikyou Todai Shogi 2 | 203549 | [203549-saikyou-todai-shogi-2.json](./203549-saikyou-todai-shogi-2.json) |
 | Saikyou: Takada Nobuhiko | 42436 | [42436-saikyou-takada-nobuhiko.json](./42436-saikyou-takada-nobuhiko.json) |
+| Sail | 207464 | [207464-sail.json](./207464-sail.json) |
 | Sail and Sacrifice | 90310 | [90310-sail-and-sacrifice.json](./90310-sail-and-sacrifice.json) |
 | Sail Forth | 115491 | [115491-sail-forth.json](./115491-sail-forth.json) |
 | Sail Forth + Maelstrom Bundle | 284860 | [284860-sail-forth-maelstrom-bundle.json](./284860-sail-forth-maelstrom-bundle.json) |
@@ -6413,6 +6414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Girls | 111721 | [111721-sexy-girls.json](./111721-sexy-girls.json) |
 | Sexy Girls Puzzle | 109706 | [109706-sexy-girls-puzzle.json](./109706-sexy-girls-puzzle.json) |
 | Sexy Glasses | 349866 | [349866-sexy-glasses.json](./349866-sexy-glasses.json) |
+| Sexy Gym | 207477 | [207477-sexy-gym.json](./207477-sexy-gym.json) |
 | Sexy Hand | 401570 | [401570-sexy-hand.json](./401570-sexy-hand.json) |
 | Sexy Hand 2 | 401571 | [401571-sexy-hand-2.json](./401571-sexy-hand-2.json) |
 | Sexy Hentai Puzzle | 214189 | [214189-sexy-hentai-puzzle.json](./214189-sexy-hentai-puzzle.json) |
@@ -14174,6 +14176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Rockets Mahjongg | 208956 | [208956-small-rockets-mahjongg.json](./208956-small-rockets-mahjongg.json) |
 | Small Saga | 119278 | [119278-small-saga.json](./119278-small-saga.json) |
 | Small Santa Simulator | 326344 | [326344-small-santa-simulator.json](./326344-small-santa-simulator.json) |
+| Small Shop | 207549 | [207549-small-shop.json](./207549-small-shop.json) |
 | Small Sister | 105631 | [105631-small-sister.json](./105631-small-sister.json) |
 | Small Soldiers | 166528 | [166528-small-soldiers.json](./166528-small-soldiers.json) |
 | Small Soldiers | 200402 | [200402-small-soldiers.json](./200402-small-soldiers.json) |
@@ -19083,6 +19086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Ace | 5454 | [5454-space-ace.json](./5454-space-ace.json) |
 | Space Ace Assassin: Capital Galaxy | 401885 | [401885-space-ace-assassin-capital-galaxy.json](./401885-space-ace-assassin-capital-galaxy.json) |
 | Space Ace II: Borf's Revenge | 50265 | [50265-space-ace-ii-borfs-revenge.json](./50265-space-ace-ii-borfs-revenge.json) |
+| Space Aces | 207553 | [207553-space-aces.json](./207553-space-aces.json) |
 | Space Aces | 385895 | [385895-space-aces.json](./385895-space-aces.json) |
 | Space Adventure | 100187 | [100187-space-adventure.json](./100187-space-adventure.json) |
 | Space Adventure | 233389 | [233389-space-adventure.json](./233389-space-adventure.json) |
@@ -19575,7 +19579,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -27087,6 +27090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stoneveil | 376439 | [376439-stoneveil.json](./376439-stoneveil.json) |
 | Stoneveil | 377591 | [377591-stoneveil.json](./377591-stoneveil.json) |
 | Stoneville Manor | 366262 | [366262-stoneville-manor.json](./366262-stoneville-manor.json) |
+| Stoney's Adventure | 207608 | [207608-stoneys-adventure.json](./207608-stoneys-adventure.json) |
 | Stonga Bird | 233690 | [233690-stonga-bird.json](./233690-stonga-bird.json) |
 | Stonies | 86637 | [86637-stonies.json](./86637-stonies.json) |
 | Stonk Simulator | 353923 | [353923-stonk-simulator.json](./353923-stonk-simulator.json) |
@@ -30287,6 +30291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunsoft Mahjong Solitaire: Shanghai Legend | 276952 | [276952-sunsoft-mahjong-solitaire-shanghai-legend.json](./276952-sunsoft-mahjong-solitaire-shanghai-legend.json) |
 | Sunstone of Time | 421822 | [421822-sunstone-of-time.json](./421822-sunstone-of-time.json) |
 | Sunu Ikkibu: Din Nahu | 27377 | [27377-sunu-ikkibu-din-nahu.json](./27377-sunu-ikkibu-din-nahu.json) |
+| Sunville | 207548 | [207548-sunville.json](./207548-sunville.json) |
 | Sunward | 409346 | [409346-sunward.json](./409346-sunward.json) |
 | Sunwards | 138467 | [138467-sunwards.json](./138467-sunwards.json) |
 | Sunwave Hotel | 204192 | [204192-sunwave-hotel.json](./204192-sunwave-hotel.json) |
