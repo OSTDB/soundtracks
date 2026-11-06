@@ -9670,6 +9670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play Ball | 95401 | [95401-play-ball.json](./95401-play-ball.json) |
 | Play Boy | 93514 | [93514-play-boy.json](./93514-play-boy.json) |
 | Play Cards | 287543 | [287543-play-cards.json](./287543-play-cards.json) |
+| Play Chess Fritz 7 | 209572 | [209572-play-chess-fritz-7.json](./209572-play-chess-fritz-7.json) |
 | Play Chess with Lady Bongcloud | 255696 | [255696-play-chess-with-lady-bongcloud.json](./255696-play-chess-with-lady-bongcloud.json) |
 | Play Club | 22478 | [22478-play-club.json](./22478-play-club.json) |
 | Play Cubes with Uncle Billy | 84539 | [84539-play-cubes-with-uncle-billy.json](./84539-play-cubes-with-uncle-billy.json) |
@@ -11527,6 +11528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: Close Combat | 266866 | [266866-pokemon-close-combat.json](./266866-pokemon-close-combat.json) |
 | Pokémon: Cuerpo de Cristal | 307784 | [307784-pokemon-cuerpo-de-cristal.json](./307784-pokemon-cuerpo-de-cristal.json) |
 | Pokémon: Desert Bus | 313114 | [313114-pokemon-desert-bus.json](./313114-pokemon-desert-bus.json) |
+| Pokémon: Eclat Pourpre | 209799 | [209799-pokemon-eclat-pourpre.json](./209799-pokemon-eclat-pourpre.json) |
 | Pokémon: Emerald Backwards | 342184 | [342184-pokemon-emerald-backwards.json](./342184-pokemon-emerald-backwards.json) |
 | Pokemon: Evolved | 337426 | [337426-pokemon-evolved.json](./337426-pokemon-evolved.json) |
 | Pokémon: Final Legacy | 313406 | [313406-pokemon-final-legacy.json](./313406-pokemon-final-legacy.json) |
