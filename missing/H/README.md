@@ -4862,6 +4862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai DevilGirl | 228083 | [228083-hentai-devilgirl.json](./228083-hentai-devilgirl.json) |
 | Hentai Dgirls | 365425 | [365425-hentai-dgirls.json](./365425-hentai-dgirls.json) |
 | Hentai Direct-Her | 263192 | [263192-hentai-direct-her.json](./263192-hentai-direct-her.json) |
+| Hentai Doctor 2049 | 236085 | [236085-hentai-doctor-2049.json](./236085-hentai-doctor-2049.json) |
 | Hentai Dojo | 107111 | [107111-hentai-dojo.json](./107111-hentai-dojo.json) |
 | Hentai Dream | 208371 | [208371-hentai-dream.json](./208371-hentai-dream.json) |
 | Hentai Elf | 296686 | [296686-hentai-elf.json](./296686-hentai-elf.json) |
@@ -6372,6 +6373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexagon Tribute | 224458 | [224458-hexagon-tribute.json](./224458-hexagon-tribute.json) |
 | Hexagon Ultra VR | 291865 | [291865-hexagon-ultra-vr.json](./291865-hexagon-ultra-vr.json) |
 | Hexagon World | 160001 | [160001-hexagon-world.json](./160001-hexagon-world.json) |
+| Hexagonal | 236098 | [236098-hexagonal.json](./236098-hexagonal.json) |
 | Hexagonal Explods | 238729 | [238729-hexagonal-explods.json](./238729-hexagonal-explods.json) |
 | Hexagonal Tower | 195109 | [195109-hexagonal-tower.json](./195109-hexagonal-tower.json) |
 | Hexagoner | 286032 | [286032-hexagoner.json](./286032-hexagoner.json) |
@@ -6472,6 +6474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexcrawl | 413606 | [413606-hexcrawl.json](./413606-hexcrawl.json) |
 | Hexcross | 123806 | [123806-hexcross.json](./123806-hexcross.json) |
 | Hexcross | 344258 | [344258-hexcross.json](./344258-hexcross.json) |
+| HexDefense | 236103 | [236103-hexdefense.json](./236103-hexdefense.json) |
 | Hexdo | 312822 | [312822-hexdo.json](./312822-hexdo.json) |
 | Hexdoku | 164902 | [164902-hexdoku.json](./164902-hexdoku.json) |
 | Hexed | 178262 | [178262-hexed.json](./178262-hexed.json) |
@@ -7578,6 +7581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highscore Hunter Hodgepodge | 129412 | [129412-highscore-hunter-hodgepodge.json](./129412-highscore-hunter-hodgepodge.json) |
 | Highscore Processing Unit | 99645 | [99645-highscore-processing-unit.json](./99645-highscore-processing-unit.json) |
 | HighSpell | 341850 | [341850-highspell.json](./341850-highspell.json) |
+| Hightail | 236072 | [236072-hightail.json](./236072-hightail.json) |
 | Hightail | 369261 | [369261-hightail.json](./369261-hightail.json) |
 | Hightide | 215347 | [215347-hightide.json](./215347-hightide.json) |
 | HighVelocity Paintball | 112051 | [112051-highvelocity-paintball.json](./112051-highvelocity-paintball.json) |
@@ -8830,6 +8834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollywoodle | 325824 | [325824-hollywoodle.json](./325824-hollywoodle.json) |
 | Holmes from Homes | 257184 | [257184-holmes-from-homes.json](./257184-holmes-from-homes.json) |
 | Holmes Sherlock & Mycroft | 247367 | [247367-holmes-sherlock-and-mycroft.json](./247367-holmes-sherlock-and-mycroft.json) |
+| Holo & Veil | 236079 | [236079-holo-and-veil.json](./236079-holo-and-veil.json) |
 | Holo Arena: Death League | 217380 | [217380-holo-arena-death-league.json](./217380-holo-arena-death-league.json) |
 | Holo Bike 3D | 293670 | [293670-holo-bike-3d.json](./293670-holo-bike-3d.json) |
 | Holo Dungeon | 180144 | [180144-holo-dungeon.json](./180144-holo-dungeon.json) |
