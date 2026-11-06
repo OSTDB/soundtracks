@@ -5988,6 +5988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Grid | 348745 | [348745-retro-grid.json](./348745-retro-grid.json) |
 | Retro Gunner | 393021 | [393021-retro-gunner.json](./393021-retro-gunner.json) |
 | Retro Hacker | 90858 | [90858-retro-hacker.json](./90858-retro-hacker.json) |
+| Retro Highway | 241705 | [241705-retro-highway.json](./241705-retro-highway.json) |
 | Retro Highway | 96593 | [96593-retro-highway.json](./96593-retro-highway.json) |
 | Retro Horror Bundle | 378837 | [378837-retro-horror-bundle.json](./378837-retro-horror-bundle.json) |
 | Retro Horror Story | 318213 | [318213-retro-horror-story.json](./318213-retro-horror-story.json) |
@@ -9357,6 +9358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: PlayStation Plus Pack | 303035 | [303035-rocket-league-playstation-plus-pack.json](./303035-rocket-league-playstation-plus-pack.json) |
 | Rocket League: Revenge of the Battle-Cars | 202826 | [202826-rocket-league-revenge-of-the-battle-cars.json](./202826-rocket-league-revenge-of-the-battle-cars.json) |
 | Rocket League: Season 1 | 202392 | [202392-rocket-league-season-1.json](./202392-rocket-league-season-1.json) |
+| Rocket League: Season 10 | 241743 | [241743-rocket-league-season-10.json](./241743-rocket-league-season-10.json) |
 | Rocket League: Season 11 | 252378 | [252378-rocket-league-season-11.json](./252378-rocket-league-season-11.json) |
 | Rocket League: Season 12 | 265236 | [265236-rocket-league-season-12.json](./265236-rocket-league-season-12.json) |
 | Rocket League: Season 12 Elite Pack | 279414 | [279414-rocket-league-season-12-elite-pack.json](./279414-rocket-league-season-12-elite-pack.json) |
@@ -12355,6 +12357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Factory 3 Special: Another Episode Pack | 265077 | [265077-rune-factory-3-special-another-episode-pack.json](./265077-rune-factory-3-special-another-episode-pack.json) |
 | Rune Factory 3 Special: Digital Deluxe Edition | 261329 | [261329-rune-factory-3-special-digital-deluxe-edition.json](./261329-rune-factory-3-special-digital-deluxe-edition.json) |
 | Rune Factory 3 Special: Golden Memories Edition | 246244 | [246244-rune-factory-3-special-golden-memories-edition.json](./246244-rune-factory-3-special-golden-memories-edition.json) |
+| Rune Factory 3 Special: Limited Edition | 241713 | [241713-rune-factory-3-special-limited-edition.json](./241713-rune-factory-3-special-limited-edition.json) |
 | Rune Factory 3: A Fantasy Harvest Moon | 9640 | [9640-rune-factory-3-a-fantasy-harvest-moon.json](./9640-rune-factory-3-a-fantasy-harvest-moon.json) |
 | Rune Factory 4 | 6874 | [6874-rune-factory-4.json](./6874-rune-factory-4.json) |
 | Rune Factory 4 Special | 115278 | [115278-rune-factory-4-special.json](./115278-rune-factory-4-special.json) |
