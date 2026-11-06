@@ -21403,6 +21403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Trouble | 199935 | [199935-spider-trouble.json](./199935-spider-trouble.json) |
 | Spider Ultimate | 100738 | [100738-spider-ultimate.json](./100738-spider-ultimate.json) |
 | Spider Wars | 33209 | [33209-spider-wars.json](./33209-spider-wars.json) |
+| Spider-Cube | 233312 | [233312-spider-cube.json](./233312-spider-cube.json) |
 | Spider-Guy: Trapped in the Cheese Place | 291773 | [291773-spider-guy-trapped-in-the-cheese-place.json](./291773-spider-guy-trapped-in-the-cheese-place.json) |
 | Spider-Man | 19114 | [19114-spider-man.json](./19114-spider-man.json) |
 | Spider-Man | 198902 | [198902-spider-man.json](./198902-spider-man.json) |
@@ -31089,6 +31090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Portugal | 266808 | [266808-super-jigsaw-puzzle-generations-portugal.json](./266808-super-jigsaw-puzzle-generations-portugal.json) |
 | Super Jigsaw Puzzle: Generations - Puppies 2 | 353463 | [353463-super-jigsaw-puzzle-generations-puppies-2.json](./353463-super-jigsaw-puzzle-generations-puppies-2.json) |
 | Super Jigsaw Puzzle: Generations - Puppies Puzzles | 155633 | [155633-super-jigsaw-puzzle-generations-puppies-puzzles.json](./155633-super-jigsaw-puzzle-generations-puppies-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Random 5 | 233306 | [233306-super-jigsaw-puzzle-generations-random-5.json](./233306-super-jigsaw-puzzle-generations-random-5.json) |
 | Super Jigsaw Puzzle: Generations - Random Animals 3 | 244656 | [244656-super-jigsaw-puzzle-generations-random-animals-3.json](./244656-super-jigsaw-puzzle-generations-random-animals-3.json) |
 | Super Jigsaw Puzzle: Generations - Random Animals 4 | 304664 | [304664-super-jigsaw-puzzle-generations-random-animals-4.json](./304664-super-jigsaw-puzzle-generations-random-animals-4.json) |
 | Super Jigsaw Puzzle: Generations - Random Animals 5 | 354163 | [354163-super-jigsaw-puzzle-generations-random-animals-5.json](./354163-super-jigsaw-puzzle-generations-random-animals-5.json) |
