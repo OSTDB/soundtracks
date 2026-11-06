@@ -7582,6 +7582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone in Space | 271671 | [271671-alone-in-space.json](./271671-alone-in-space.json) |
 | Alone in Space | 33499 | [33499-alone-in-space.json](./33499-alone-in-space.json) |
 | Alone in the Backrooms | 420950 | [420950-alone-in-the-backrooms.json](./420950-alone-in-the-backrooms.json) |
+| Alone in the Crowd | 213107 | [213107-alone-in-the-crowd.json](./213107-alone-in-the-crowd.json) |
 | Alone in the Dark | 1956 | [1956-alone-in-the-dark.json](./1956-alone-in-the-dark.json) |
 | Alone in the Dark | 1958 | [1958-alone-in-the-dark.json](./1958-alone-in-the-dark.json) |
 | Alone in the Dark | 233171 | [233171-alone-in-the-dark.json](./233171-alone-in-the-dark.json) |
@@ -9780,6 +9781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry VS Android | 88075 | [88075-angry-vs-android.json](./88075-angry-vs-android.json) |
 | Angry World War 2 | 234070 | [234070-angry-world-war-2.json](./234070-angry-world-war-2.json) |
 | Angry Youth | 394281 | [394281-angry-youth.json](./394281-angry-youth.json) |
+| Angry Zombie Basket | 213078 | [213078-angry-zombie-basket.json](./213078-angry-zombie-basket.json) |
 | Angry Zombies | 88844 | [88844-angry-zombies.json](./88844-angry-zombies.json) |
 | Angrymals | 178364 | [178364-angrymals.json](./178364-angrymals.json) |
 | Angst | 216203 | [216203-angst.json](./216203-angst.json) |
@@ -16582,6 +16584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
