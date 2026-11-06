@@ -4977,6 +4977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petrifaction | 97825 | [97825-petrifaction.json](./97825-petrifaction.json) |
 | PetrifactionUnderRuin | 173993 | [173993-petrifactionunderruin.json](./173993-petrifactionunderruin.json) |
 | Petrifica | 336975 | [336975-petrifica.json](./336975-petrifica.json) |
+| Petrified | 201353 | [201353-petrified.json](./201353-petrified.json) |
 | Petrified Pawns | 318287 | [318287-petrified-pawns.json](./318287-petrified-pawns.json) |
 | Petrin | 273194 | [273194-petrin.json](./273194-petrin.json) |
 | Petris | 141595 | [141595-petris.json](./141595-petris.json) |
@@ -12830,6 +12831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poptank | 207083 | [207083-poptank.json](./207083-poptank.json) |
 | Poptile | 214620 | [214620-poptile.json](./214620-poptile.json) |
 | Poptropica | 148445 | [148445-poptropica.json](./148445-poptropica.json) |
+| Poptropica | 201389 | [201389-poptropica.json](./201389-poptropica.json) |
 | Poptropica | 66742 | [66742-poptropica.json](./66742-poptropica.json) |
 | Poptropica Adventures | 47928 | [47928-poptropica-adventures.json](./47928-poptropica-adventures.json) |
 | Poptropica Legacy | 390160 | [390160-poptropica-legacy.json](./390160-poptropica-legacy.json) |
