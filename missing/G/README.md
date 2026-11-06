@@ -3587,6 +3587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get_the_Key | 180124 | [180124-get-the-key.json](./180124-get-the-key.json) |
 | Get-'em-All Bundle | 136351 | [136351-get-em-all-bundle.json](./136351-get-em-all-bundle.json) |
 | Get-A-Grip Chip | 132314 | [132314-get-a-grip-chip.json](./132314-get-a-grip-chip.json) |
+| Get-A-Grip Chip and the Body Bugs | 194722 | [194722-get-a-grip-chip-and-the-body-bugs.json](./194722-get-a-grip-chip-and-the-body-bugs.json) |
 | GET! Boku no Mushi Tsukamaete | 49603 | [49603-get-boku-no-mushi-tsukamaete.json](./49603-get-boku-no-mushi-tsukamaete.json) |
 | Get! Monster | 240110 | [240110-get-monster.json](./240110-get-monster.json) |
 | Get!! Colonies | 67082 | [67082-get-colonies.json](./67082-get-colonies.json) |
@@ -8030,6 +8031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto: Rio de Janeiro | 163113 | [163113-grand-theft-auto-rio-de-janeiro.json](./163113-grand-theft-auto-rio-de-janeiro.json) |
 | Grand Theft Auto: San Andreas - Flame's Story | 320920 | [320920-grand-theft-auto-san-andreas-flames-story.json](./320920-grand-theft-auto-san-andreas-flames-story.json) |
 | Grand Theft Auto: San Andreas - The Definitive Edition | 178126 | [178126-grand-theft-auto-san-andreas-the-definitive-edition.json](./178126-grand-theft-auto-san-andreas-the-definitive-edition.json) |
+| Grand Theft Auto: San Andreas VR | 194698 | [194698-grand-theft-auto-san-andreas-vr.json](./194698-grand-theft-auto-san-andreas-vr.json) |
 | Grand Theft Auto: Sindacco Chronicles | 256515 | [256515-grand-theft-auto-sindacco-chronicles.json](./256515-grand-theft-auto-sindacco-chronicles.json) |
 | Grand Theft Auto: Stars and Stripes | 357202 | [357202-grand-theft-auto-stars-and-stripes.json](./357202-grand-theft-auto-stars-and-stripes.json) |
 | Grand Theft Auto: The Backstabber's Blues | 392433 | [392433-grand-theft-auto-the-backstabbers-blues.json](./392433-grand-theft-auto-the-backstabbers-blues.json) |
