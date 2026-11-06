@@ -2561,6 +2561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DataJack 2020 | 244318 | [244318-datajack-2020.json](./244318-datajack-2020.json) |
 | Datamine | 85074 | [85074-datamine.json](./85074-datamine.json) |
 | Dataminer | 183876 | [183876-dataminer.json](./183876-dataminer.json) |
+| Datascape | 196929 | [196929-datascape.json](./196929-datascape.json) |
 | Datascape | 96128 | [96128-datascape.json](./96128-datascape.json) |
 | Datasight | 220005 | [220005-datasight.json](./220005-datasight.json) |
 | Datastorm | 73131 | [73131-datastorm.json](./73131-datastorm.json) |
@@ -6183,6 +6184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delusion Out of Space | 247891 | [247891-delusion-out-of-space.json](./247891-delusion-out-of-space.json) |
 | Delusional | 211015 | [211015-delusional.json](./211015-delusional.json) |
 | Delusional | 377584 | [377584-delusional.json](./377584-delusional.json) |
+| Delusions of a Lost Soul | 196949 | [196949-delusions-of-a-lost-soul.json](./196949-delusions-of-a-lost-soul.json) |
 | Deluxe Flame Party Pack | 295446 | [295446-deluxe-flame-party-pack.json](./295446-deluxe-flame-party-pack.json) |
 | Deluxe Free Cell Solitaire | 86899 | [86899-deluxe-free-cell-solitaire.json](./86899-deluxe-free-cell-solitaire.json) |
 | Deluxe Galaga | 39026 | [39026-deluxe-galaga.json](./39026-deluxe-galaga.json) |
@@ -11693,6 +11695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogenstein | 335369 | [335369-dogenstein.json](./335369-dogenstein.json) |
 | DogeRift | 227965 | [227965-dogerift.json](./227965-dogerift.json) |
 | Dogfight | 147831 | [147831-dogfight.json](./147831-dogfight.json) |
+| Dogfight | 196924 | [196924-dogfight.json](./196924-dogfight.json) |
 | Dogfight 2187 | 13599 | [13599-dogfight-2187.json](./13599-dogfight-2187.json) |
 | Dogfight Darlings | 390322 | [390322-dogfight-darlings.json](./390322-dogfight-darlings.json) |
 | Dogfight Elite | 32539 | [32539-dogfight-elite.json](./32539-dogfight-elite.json) |
