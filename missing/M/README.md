@@ -5855,6 +5855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9655,6 +9656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Marines | 42497 | [42497-metal-marines.json](./42497-metal-marines.json) |
 | Metal Mars | 151506 | [151506-metal-mars.json](./151506-metal-mars.json) |
 | Metal Masters | 15262 | [15262-metal-masters.json](./15262-metal-masters.json) |
+| Metal Masters | 241733 | [241733-metal-masters.json](./241733-metal-masters.json) |
 | Metal Max | 48428 | [48428-metal-max.json](./48428-metal-max.json) |
 | Metal Max 2 | 37929 | [37929-metal-max-2.json](./37929-metal-max-2.json) |
 | Metal Max 2 Kai | 49690 | [49690-metal-max-2-kai.json](./49690-metal-max-2-kai.json) |
@@ -12936,6 +12938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mining Wizards | 379861 | [379861-mining-wizards.json](./379861-mining-wizards.json) |
 | Minion Bartender | 335030 | [335030-minion-bartender.json](./335030-minion-bartender.json) |
 | Minion Forest | 82333 | [82333-minion-forest.json](./82333-minion-forest.json) |
+| Minion Kart Multiplayer Racing | 241700 | [241700-minion-kart-multiplayer-racing.json](./241700-minion-kart-multiplayer-racing.json) |
 | Minion Mail | 139671 | [139671-minion-mail.json](./139671-minion-mail.json) |
 | Minion Masters | 27150 | [27150-minion-masters.json](./27150-minion-masters.json) |
 | Minion Masters + Mordar's Malediction DLC | 173163 | [173163-minion-masters-mordars-malediction-dlc.json](./173163-minion-masters-mordars-malediction-dlc.json) |
@@ -13101,6 +13104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minor Scale | 245827 | [245827-minor-scale.json](./245827-minor-scale.json) |
 | Minoria | 110121 | [110121-minoria.json](./110121-minoria.json) |
 | Minority Report: Everybody Runs | 248459 | [248459-minority-report-everybody-runs.json](./248459-minority-report-everybody-runs.json) |
+| Minos | 241701 | [241701-minos.json](./241701-minos.json) |
 | Minos | 370704 | [370704-minos.json](./370704-minos.json) |
 | Minos Dungeon | 349426 | [349426-minos-dungeon.json](./349426-minos-dungeon.json) |
 | Minos Starfighter VR | 104639 | [104639-minos-starfighter-vr.json](./104639-minos-starfighter-vr.json) |
