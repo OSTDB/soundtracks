@@ -1105,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Slider Z | 294403 | [294403-ice-slider-z.json](./294403-ice-slider-z.json) |
 | Ice Star | 150630 | [150630-ice-star.json](./150630-ice-star.json) |
 | Ice Star: Chapter 2 | 168842 | [168842-ice-star-chapter-2.json](./168842-ice-star-chapter-2.json) |
+| Ice Station Z | 195312 | [195312-ice-station-z.json](./195312-ice-station-z.json) |
 | Ice Sugar | 189119 | [189119-ice-sugar.json](./189119-ice-sugar.json) |
 | Ice Survival | 270783 | [270783-ice-survival.json](./270783-ice-survival.json) |
 | Ice Tales HD | 175518 | [175518-ice-tales-hd.json](./175518-ice-tales-hd.json) |
@@ -3658,6 +3659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infernium | 86337 | [86337-infernium.json](./86337-infernium.json) |
 | Inferno | 121614 | [121614-inferno.json](./121614-inferno.json) |
 | Inferno | 171962 | [171962-inferno.json](./171962-inferno.json) |
+| Inferno | 195325 | [195325-inferno.json](./195325-inferno.json) |
 | Inferno | 274190 | [274190-inferno.json](./274190-inferno.json) |
 | Inferno | 346092 | [346092-inferno.json](./346092-inferno.json) |
 | Inferno | 91849 | [91849-inferno.json](./91849-inferno.json) |
