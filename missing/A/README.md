@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bar Where Men Go To Be Turned Into Horses | 289163 | [289163-a-bar-where-men-go-to-be-turned-into-horses.json](./289163-a-bar-where-men-go-to-be-turned-into-horses.json) |
 | A Bard's Last Song | 244429 | [244429-a-bards-last-song.json](./244429-a-bards-last-song.json) |
 | A Bark in the Dark | 225289 | [225289-a-bark-in-the-dark.json](./225289-a-bark-in-the-dark.json) |
+| A Barren Wasteland | 200255 | [200255-a-barren-wasteland.json](./200255-a-barren-wasteland.json) |
 | A Bastard's Tale | 19944 | [19944-a-bastards-tale.json](./19944-a-bastards-tale.json) |
 | A Bear Family Adventure | 205966 | [205966-a-bear-family-adventure.json](./205966-a-bear-family-adventure.json) |
 | A Bear's Night Out | 124606 | [124606-a-bears-night-out.json](./124606-a-bears-night-out.json) |
@@ -5527,6 +5528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airbreak | 316035 | [316035-airbreak.json](./316035-airbreak.json) |
 | AirBuccaneers | 9134 | [9134-airbuccaneers.json](./9134-airbuccaneers.json) |
 | AirBurst | 77643 | [77643-airburst.json](./77643-airburst.json) |
+| AiRburst | 200239 | [200239-airburst.json](./200239-airburst.json) |
 | AirBurst Extreme | 71889 | [71889-airburst-extreme.json](./71889-airburst-extreme.json) |
 | Aircar | 121309 | [121309-aircar.json](./121309-aircar.json) |
 | Aircoaster | 66731 | [66731-aircoaster.json](./66731-aircoaster.json) |
@@ -5637,6 +5639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airplane Tycoon | 306638 | [306638-airplane-tycoon.json](./306638-airplane-tycoon.json) |
 | Airplane Tycoon: Evolution | 306640 | [306640-airplane-tycoon-evolution.json](./306640-airplane-tycoon-evolution.json) |
 | Airplane Tycoon: First Class | 306639 | [306639-airplane-tycoon-first-class.json](./306639-airplane-tycoon-first-class.json) |
+| AirPlane: Airline Tycoon | 200261 | [200261-airplane-airline-tycoon.json](./200261-airplane-airline-tycoon.json) |
 | Airplane! | 107657 | [107657-airplane.json](./107657-airplane.json) |
 | Airport | 14233 | [14233-airport.json](./14233-airport.json) |
 | Airport | 283155 | [283155-airport.json](./283155-airport.json) |
@@ -16253,6 +16256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asylum: Patient Zero | 337192 | [337192-asylum-patient-zero.json](./337192-asylum-patient-zero.json) |
 | Asym Altered Axis | 205794 | [205794-asym-altered-axis.json](./205794-asym-altered-axis.json) |
 | Asymm | 351559 | [351559-asymm.json](./351559-asymm.json) |
+| Asymmetric | 200213 | [200213-asymmetric.json](./200213-asymmetric.json) |
 | Asymmetric Ops | 118791 | [118791-asymmetric-ops.json](./118791-asymmetric-ops.json) |
 | Asymptote | 405889 | [405889-asymptote.json](./405889-asymptote.json) |
 | ASYNC Corp. | 93493 | [93493-async-corp.json](./93493-async-corp.json) |
@@ -16632,7 +16636,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
