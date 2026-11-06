@@ -3971,6 +3971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ferric Oxide | 299845 | [299845-ferric-oxide.json](./299845-ferric-oxide.json) |
 | Ferris Mueller's Day Off | 95319 | [95319-ferris-muellers-day-off.json](./95319-ferris-muellers-day-off.json) |
 | Ferris Wheel and the World's End | 398634 | [398634-ferris-wheel-and-the-worlds-end.json](./398634-ferris-wheel-and-the-worlds-end.json) |
+| Ferromon Together | 226050 | [226050-ferromon-together.json](./226050-ferromon-together.json) |
 | Ferroplasma | 130265 | [130265-ferroplasma.json](./130265-ferroplasma.json) |
 | FerroSlug | 218727 | [218727-ferroslug.json](./218727-ferroslug.json) |
 | Ferrule Instincts | 211952 | [211952-ferrule-instincts.json](./211952-ferrule-instincts.json) |
@@ -9380,6 +9381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Symphony: With All One's Heart Portable | 56809 | [56809-for-symphony-with-all-ones-heart-portable.json](./56809-for-symphony-with-all-ones-heart-portable.json) |
 | For the Birds VI | 283796 | [283796-for-the-birds-vi.json](./283796-for-the-birds-vi.json) |
 | For The Cat! Sorcerer's Revenge | 404012 | [404012-for-the-cat-sorcerers-revenge.json](./404012-for-the-cat-sorcerers-revenge.json) |
+| For the Crown | 226007 | [226007-for-the-crown.json](./226007-for-the-crown.json) |
 | For The Fatherland | 408123 | [408123-for-the-fatherland.json](./408123-for-the-fatherland.json) |
 | For the Fish in the Bottle | 402919 | [402919-for-the-fish-in-the-bottle.json](./402919-for-the-fish-in-the-bottle.json) |
 | For the Forge | 348403 | [348403-for-the-forge.json](./348403-for-the-forge.json) |
