@@ -1628,6 +1628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rallye Racing 97 | 73062 | [73062-rallye-racing-97.json](./73062-rallye-racing-97.json) |
 | Rallygator | 212053 | [212053-rallygator.json](./212053-rallygator.json) |
 | Rallyween | 376146 | [376146-rallyween.json](./376146-rallyween.json) |
+| Ralph and the Blue Ball | 220479 | [220479-ralph-and-the-blue-ball.json](./220479-ralph-and-the-blue-ball.json) |
 | Ralph Baer's Pinball! | 257666 | [257666-ralph-baers-pinball.json](./257666-ralph-baers-pinball.json) |
 | Ralph Breaks VR | 246638 | [246638-ralph-breaks-vr.json](./246638-ralph-breaks-vr.json) |
 | Ralsei Hwrot | 370385 | [370385-ralsei-hwrot.json](./370385-ralsei-hwrot.json) |
@@ -1857,6 +1858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Randungeon | 326073 | [326073-randungeon.json](./326073-randungeon.json) |
 | RanDungeon | 338856 | [338856-randungeon.json](./338856-randungeon.json) |
 | Randy & Manilla | 291327 | [291327-randy-and-manilla.json](./291327-randy-and-manilla.json) |
+| Randy Blaster 3D | 220480 | [220480-randy-blaster-3d.json](./220480-randy-blaster-3d.json) |
 | Randy in Sokobanland | 364357 | [364357-randy-in-sokobanland.json](./364357-randy-in-sokobanland.json) |
 | Randy the Racoon | 345061 | [345061-randy-the-racoon.json](./345061-randy-the-racoon.json) |
 | Randy's Adventure | 146621 | [146621-randys-adventure.json](./146621-randys-adventure.json) |
@@ -2523,6 +2525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Cars | 36386 | [36386-rc-cars.json](./36386-rc-cars.json) |
 | RC Club: AR Racing Simulator | 256130 | [256130-rc-club-ar-racing-simulator.json](./256130-rc-club-ar-racing-simulator.json) |
 | RC Daredevil | 70311 | [70311-rc-daredevil.json](./70311-rc-daredevil.json) |
+| RC Dash | 220481 | [220481-rc-dash.json](./220481-rc-dash.json) |
 | RC de GO! | 77793 | [77793-rc-de-go.json](./77793-rc-de-go.json) |
 | RC Death Race: Multiplayer | 392941 | [392941-rc-death-race-multiplayer.json](./392941-rc-death-race-multiplayer.json) |
 | RC Flight Simulator 2020 VR | 162748 | [162748-rc-flight-simulator-2020-vr.json](./162748-rc-flight-simulator-2020-vr.json) |
@@ -3336,6 +3339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel Galaxy | 11719 | [11719-rebel-galaxy.json](./11719-rebel-galaxy.json) |
 | Rebel Galaxy Outlaw | 107318 | [107318-rebel-galaxy-outlaw.json](./107318-rebel-galaxy-outlaw.json) |
 | Rebel Inc: Escalation - Dollars & Disasters | 237252 | [237252-rebel-inc-escalation-dollars-and-disasters.json](./237252-rebel-inc-escalation-dollars-and-disasters.json) |
+| Rebel Inc: Escalation - Sand & Secrets | 220482 | [220482-rebel-inc-escalation-sand-and-secrets.json](./220482-rebel-inc-escalation-sand-and-secrets.json) |
 | Rebel Inc. | 115206 | [115206-rebel-inc.json](./115206-rebel-inc.json) |
 | Rebel Infernal Path | 380793 | [380793-rebel-infernal-path.json](./380793-rebel-infernal-path.json) |
 | Rebel Kitsune | 177353 | [177353-rebel-kitsune.json](./177353-rebel-kitsune.json) |
@@ -3860,6 +3864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Fox and the Four Seasons | 148529 | [148529-red-fox-and-the-four-seasons.json](./148529-red-fox-and-the-four-seasons.json) |
 | Red Fox and the Four Seasons: Design My Forest | 212679 | [212679-red-fox-and-the-four-seasons-design-my-forest.json](./212679-red-fox-and-the-four-seasons-design-my-forest.json) |
 | Red Fox and the Four Seasons: Design My Forest 2 | 215895 | [215895-red-fox-and-the-four-seasons-design-my-forest-2.json](./215895-red-fox-and-the-four-seasons-design-my-forest-2.json) |
+| Red Fox and the Four Seasons: Typing Game | 220483 | [220483-red-fox-and-the-four-seasons-typing-game.json](./220483-red-fox-and-the-four-seasons-typing-game.json) |
 | Red Fox: Exploration on the the Red Fox Island | 358886 | [358886-red-fox-exploration-on-the-the-red-fox-island.json](./358886-red-fox-exploration-on-the-the-red-fox-island.json) |
 | Red Frame | 403320 | [403320-red-frame.json](./403320-red-frame.json) |
 | Red Frontier | 374885 | [374885-red-frontier.json](./374885-red-frontier.json) |
@@ -4615,6 +4620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reiko's Fragments | 125118 | [125118-reikos-fragments.json](./125118-reikos-fragments.json) |
 | Reikon Dungeon | 185153 | [185153-reikon-dungeon.json](./185153-reikon-dungeon.json) |
 | Reikon: Reawaken | 250987 | [250987-reikon-reawaken.json](./250987-reikon-reawaken.json) |
+| Reilla: Sweets Adventure | 220484 | [220484-reilla-sweets-adventure.json](./220484-reilla-sweets-adventure.json) |
 | Reimagine: The Game | 144271 | [144271-reimagine-the-game.json](./144271-reimagine-the-game.json) |
 | Reimei no Gakuen | 177871 | [177871-reimei-no-gakuen.json](./177871-reimei-no-gakuen.json) |
 | Reimei no Yu | 287313 | [287313-reimei-no-yu.json](./287313-reimei-no-yu.json) |
@@ -4822,6 +4828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relief | 404831 | [404831-relief.json](./404831-relief.json) |
 | Relief Pitcher | 39507 | [39507-relief-pitcher.json](./39507-relief-pitcher.json) |
 | Reliefs The Time of the Lemures | 95210 | [95210-reliefs-the-time-of-the-lemures.json](./95210-reliefs-the-time-of-the-lemures.json) |
+| Relieve | 220485 | [220485-relieve.json](./220485-relieve.json) |
 | Relieve | 277757 | [277757-relieve.json](./277757-relieve.json) |
 | Religious Idle | 101695 | [101695-religious-idle.json](./101695-religious-idle.json) |
 | Relik | 74151 | [74151-relik.json](./74151-relik.json) |
@@ -5031,6 +5038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remy Raccoon and the Lost Temple: Festive Frolics - Volume 1 | 393591 | [393591-remy-raccoon-and-the-lost-temple-festive-frolics-volume-1.json](./393591-remy-raccoon-and-the-lost-temple-festive-frolics-volume-1.json) |
 | Remy Raccoon and the Lost Temple: Festive Frolics - Volume 2 | 393592 | [393592-remy-raccoon-and-the-lost-temple-festive-frolics-volume-2.json](./393592-remy-raccoon-and-the-lost-temple-festive-frolics-volume-2.json) |
 | Remy Raccoon and the Lost Temple: Halloween Hijinks - Volume 1 | 393590 | [393590-remy-raccoon-and-the-lost-temple-halloween-hijinks-volume-1.json](./393590-remy-raccoon-and-the-lost-temple-halloween-hijinks-volume-1.json) |
+| Remy Raccoon and the Lost Temple: Halloween Hijinks - Volume 2 | 220486 | [220486-remy-raccoon-and-the-lost-temple-halloween-hijinks-volume-2.json](./220486-remy-raccoon-and-the-lost-temple-halloween-hijinks-volume-2.json) |
 | Remyadry | 104873 | [104873-remyadry.json](./104873-remyadry.json) |
 | Ren & Stimpy Happy, Happy, Joy, Joy Collection | 387373 | [387373-ren-and-stimpy-happy-happy-joy-joy-collection.json](./387373-ren-and-stimpy-happy-happy-joy-joy-collection.json) |
 | Ren & Stimpy: Match-Master | 273881 | [273881-ren-and-stimpy-match-master.json](./273881-ren-and-stimpy-match-master.json) |
@@ -11861,6 +11869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruff Times | 176662 | [176662-ruff-times.json](./176662-ruff-times.json) |
 | Ruff Trigger: The Vanocore Conspiracy | 20539 | [20539-ruff-trigger-the-vanocore-conspiracy.json](./20539-ruff-trigger-the-vanocore-conspiracy.json) |
 | Ruffed Up | 406106 | [406106-ruffed-up.json](./406106-ruffed-up.json) |
+| Ruffhouse VR Basketball Simulator | 220487 | [220487-ruffhouse-vr-basketball-simulator.json](./220487-ruffhouse-vr-basketball-simulator.json) |
 | RuffHousin | 178592 | [178592-ruffhousin.json](./178592-ruffhousin.json) |
 | Ruffian | 92858 | [92858-ruffian.json](./92858-ruffian.json) |
 | Ruffnauts: Planet Pals | 363151 | [363151-ruffnauts-planet-pals.json](./363151-ruffnauts-planet-pals.json) |
