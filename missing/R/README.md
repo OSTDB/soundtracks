@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R00m | 199862 | [199862-r00m.json](./199862-r00m.json) |
 | R0x | 182917 | [182917-r0x.json](./182917-r0x.json) |
 | R2 Online: Reign of Revolution | 91269 | [91269-r2-online-reign-of-revolution.json](./91269-r2-online-reign-of-revolution.json) |
+| R2-D2 Tamagotchi | 230072 | [230072-r2-d2-tamagotchi.json](./230072-r2-d2-tamagotchi.json) |
 | R20 Moe Bomberman | 198066 | [198066-r20-moe-bomberman.json](./198066-r20-moe-bomberman.json) |
 | R2Beat | 108993 | [108993-r2beat.json](./108993-r2beat.json) |
 | R2D Tank | 281176 | [281176-r2d-tank.json](./281176-r2d-tank.json) |
@@ -1752,6 +1753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rana Card | 345059 | [345059-rana-card.json](./345059-rana-card.json) |
 | Rana Neida | 303070 | [303070-rana-neida.json](./303070-rana-neida.json) |
 | Rana Rama | 30805 | [30805-rana-rama.json](./30805-rana-rama.json) |
+| Ranadinn | 230089 | [230089-ranadinn.json](./230089-ranadinn.json) |
 | Ranata the Frog and the Broken Forest | 229252 | [229252-ranata-the-frog-and-the-broken-forest.json](./229252-ranata-the-frog-and-the-broken-forest.json) |
 | Ranbu: Sangokushi Rumble | 231989 | [231989-ranbu-sangokushi-rumble.json](./231989-ranbu-sangokushi-rumble.json) |
 | Rance 01 | 388830 | [388830-rance-01.json](./388830-rance-01.json) |
@@ -2149,6 +2151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratio (Rat Patio) | 337382 | [337382-ratio-rat-patio.json](./337382-ratio-rat-patio.json) |
 | Rations, Please! | 176970 | [176970-rations-please.json](./176970-rations-please.json) |
 | Ratking | 271600 | [271600-ratking.json](./271600-ratking.json) |
+| Ratman | 230090 | [230090-ratman.json](./230090-ratman.json) |
 | Ratman! | 321612 | [321612-ratman.json](./321612-ratman.json) |
 | Ratocalypse | 381137 | [381137-ratocalypse.json](./381137-ratocalypse.json) |
 | Ratocalypse | 381543 | [381543-ratocalypse.json](./381543-ratocalypse.json) |
