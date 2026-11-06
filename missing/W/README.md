@@ -934,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Kings | 236207 | [236207-war-of-kings.json](./236207-war-of-kings.json) |
 | War of Legends | 306644 | [306644-war-of-legends.json](./306644-war-of-legends.json) |
 | War of Legions | 302995 | [302995-war-of-legions.json](./302995-war-of-legions.json) |
+| War of Mafia | 208115 | [208115-war-of-mafia.json](./208115-war-of-mafia.json) |
 | War of Nations | 323324 | [323324-war-of-nations.json](./323324-war-of-nations.json) |
 | War of Nerves! | 18826 | [18826-war-of-nerves.json](./18826-war-of-nerves.json) |
 | War of Ninja | 105728 | [105728-war-of-ninja.json](./105728-war-of-ninja.json) |
@@ -5059,6 +5060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Animals Transporter | 294334 | [294334-wild-animals-transporter.json](./294334-wild-animals-transporter.json) |
 | Wild Area | 237226 | [237226-wild-area.json](./237226-wild-area.json) |
 | Wild Arena | 31072 | [31072-wild-arena.json](./31072-wild-arena.json) |
+| Wild Arena Survivors | 208114 | [208114-wild-arena-survivors.json](./208114-wild-arena-survivors.json) |
 | Wild Arms | 1677 | [1677-wild-arms.json](./1677-wild-arms.json) |
 | Wild Arms | 205593 | [205593-wild-arms.json](./205593-wild-arms.json) |
 | Wild Arms 2 | 1678 | [1678-wild-arms-2.json](./1678-wild-arms-2.json) |
@@ -7090,6 +7092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Pets Join the Circus | 66734 | [66734-wonder-pets-join-the-circus.json](./66734-wonder-pets-join-the-circus.json) |
 | Wonder Pets!: Save the Puppy! | 205888 | [205888-wonder-pets-save-the-puppy.json](./205888-wonder-pets-save-the-puppy.json) |
 | Wonder Planet | 40245 | [40245-wonder-planet.json](./40245-wonder-planet.json) |
+| Wonder Planetes | 208113 | [208113-wonder-planetes.json](./208113-wonder-planetes.json) |
 | Wonder Planets | 196524 | [196524-wonder-planets.json](./196524-wonder-planets.json) |
 | Wonder Pot | 200355 | [200355-wonder-pot.json](./200355-wonder-pot.json) |
 | Wonder Project J2: Corlo no Mori no Josette | 47748 | [47748-wonder-project-j2-corlo-no-mori-no-josette.json](./47748-wonder-project-j2-corlo-no-mori-no-josette.json) |
@@ -8294,6 +8297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warships: Starter Pack - Ishizuchi | 223475 | [223475-world-of-warships-starter-pack-ishizuchi.json](./223475-world-of-warships-starter-pack-ishizuchi.json) |
 | World of Wimmelbild | 92610 | [92610-world-of-wimmelbild.json](./92610-world-of-wimmelbild.json) |
 | World of Wimmelbild Gold | 92503 | [92503-world-of-wimmelbild-gold.json](./92503-world-of-wimmelbild-gold.json) |
+| World of Witchcraft | 208112 | [208112-world-of-witchcraft.json](./208112-world-of-witchcraft.json) |
 | World of Wizard: The Mirror Kingdom | 57355 | [57355-world-of-wizard-the-mirror-kingdom.json](./57355-world-of-wizard-the-mirror-kingdom.json) |
 | World of Wizards | 82030 | [82030-world-of-wizards.json](./82030-world-of-wizards.json) |
 | World of Wonder | 147396 | [147396-world-of-wonder.json](./147396-world-of-wonder.json) |
