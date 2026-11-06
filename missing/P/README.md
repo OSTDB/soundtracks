@@ -3678,6 +3678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pearlessential | 337732 | [337732-pearlessential.json](./337732-pearlessential.json) |
 | Pearlglow Cafe: Sweet Crumb Kisses | 255571 | [255571-pearlglow-cafe-sweet-crumb-kisses.json](./255571-pearlglow-cafe-sweet-crumb-kisses.json) |
 | Pearls | 246501 | [246501-pearls.json](./246501-pearls.json) |
+| Pearls of Atlantis: The Cove | 227097 | [227097-pearls-of-atlantis-the-cove.json](./227097-pearls-of-atlantis-the-cove.json) |
 | Pearls of the Oceans | 164974 | [164974-pearls-of-the-oceans.json](./164974-pearls-of-the-oceans.json) |
 | Pearls of Wisdom | 384267 | [384267-pearls-of-wisdom.json](./384267-pearls-of-wisdom.json) |
 | PearPhone.io | 204814 | [204814-pearphone-io.json](./204814-pearphone-io.json) |
@@ -18079,6 +18080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle by Nikoli S: Yajirin | 251479 | [251479-puzzle-by-nikoli-s-yajirin.json](./251479-puzzle-by-nikoli-s-yajirin.json) |
 | Puzzle by Nikoli V: Slitherlink | 65164 | [65164-puzzle-by-nikoli-v-slitherlink.json](./65164-puzzle-by-nikoli-v-slitherlink.json) |
 | Puzzle by Nikoli V: Sudoku | 64936 | [64936-puzzle-by-nikoli-v-sudoku.json](./64936-puzzle-by-nikoli-v-sudoku.json) |
+| Puzzle by Nikoli W Akari | 227096 | [227096-puzzle-by-nikoli-w-akari.json](./227096-puzzle-by-nikoli-w-akari.json) |
 | Puzzle by Nikoli W Hashiwokakero | 236816 | [236816-puzzle-by-nikoli-w-hashiwokakero.json](./236816-puzzle-by-nikoli-w-hashiwokakero.json) |
 | Puzzle by Nikoli W Heyawake | 230827 | [230827-puzzle-by-nikoli-w-heyawake.json](./230827-puzzle-by-nikoli-w-heyawake.json) |
 | Puzzle by Nikoli W Hitori | 256430 | [256430-puzzle-by-nikoli-w-hitori.json](./256430-puzzle-by-nikoli-w-hitori.json) |
