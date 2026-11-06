@@ -773,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taisho Zombi Roman (Plus) | 150657 | [150657-taisho-zombi-roman-plus.json](./150657-taisho-zombi-roman-plus.json) |
 | Taishogun: The Rise of Emperor | 144551 | [144551-taishogun-the-rise-of-emperor.json](./144551-taishogun-the-rise-of-emperor.json) |
 | Taishou Kitan: Kotonoha Sakura | 218956 | [218956-taishou-kitan-kotonoha-sakura.json](./218956-taishou-kitan-kotonoha-sakura.json) |
+| Taishou Mebiusline | 204641 | [204641-taishou-mebiusline.json](./204641-taishou-mebiusline.json) |
 | Taishou Mebiusline Hitotsumi | 141897 | [141897-taishou-mebiusline-hitotsumi.json](./141897-taishou-mebiusline-hitotsumi.json) |
 | Taishou Mebiusline Portable | 256317 | [256317-taishou-mebiusline-portable.json](./256317-taishou-mebiusline-portable.json) |
 | Taishou Mebiusline Taizen | 222103 | [222103-taishou-mebiusline-taizen.json](./222103-taishou-mebiusline-taizen.json) |
@@ -10791,6 +10792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hour of the Rat | 129444 | [129444-the-hour-of-the-rat.json](./129444-the-hour-of-the-rat.json) |
 | The House | 17440 | [17440-the-house.json](./17440-the-house.json) |
 | The House | 195921 | [195921-the-house.json](./195921-the-house.json) |
+| The House | 204651 | [204651-the-house.json](./204651-the-house.json) |
 | The House | 240315 | [240315-the-house.json](./240315-the-house.json) |
 | The House | 260467 | [260467-the-house.json](./260467-the-house.json) |
 | The House | 265280 | [265280-the-house.json](./265280-the-house.json) |
@@ -33016,6 +33018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twister Mania | 20216 | [20216-twister-mania.json](./20216-twister-mania.json) |
 | Twister Road | 125251 | [125251-twister-road.json](./125251-twister-road.json) |
 | Twister: Mother of Charlotte | 73188 | [73188-twister-mother-of-charlotte.json](./73188-twister-mother-of-charlotte.json) |
+| Twister: Thanksgiving Throwdown | 204667 | [204667-twister-thanksgiving-throwdown.json](./204667-twister-thanksgiving-throwdown.json) |
 | Twistetchi | 230069 | [230069-twistetchi.json](./230069-twistetchi.json) |
 | Twistex | 262722 | [262722-twistex.json](./262722-twistex.json) |
 | Twisting Mower | 118025 | [118025-twisting-mower.json](./118025-twisting-mower.json) |
