@@ -16602,6 +16602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire XXX | 93375 | [93375-solitaire-xxx.json](./93375-solitaire-xxx.json) |
 | Solitaire, Spider & Freecell | 88427 | [88427-solitaire-spider-and-freecell.json](./88427-solitaire-spider-and-freecell.json) |
 | Solitaire: Beautiful Garden Season | 199579 | [199579-solitaire-beautiful-garden-season.json](./199579-solitaire-beautiful-garden-season.json) |
+| Solitaire: Classic Card Game | 223750 | [223750-solitaire-classic-card-game.json](./223750-solitaire-classic-card-game.json) |
 | Solitaire: Classic Card Games | 357184 | [357184-solitaire-classic-card-games.json](./357184-solitaire-classic-card-games.json) |
 | Solitaire: Classic Klondike Card Game | 88289 | [88289-solitaire-classic-klondike-card-game.json](./88289-solitaire-classic-klondike-card-game.json) |
 | Solitaire: Decked Out | 133855 | [133855-solitaire-decked-out.json](./133855-solitaire-decked-out.json) |
@@ -19492,6 +19493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -25947,6 +25949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Diver | 6891 | [6891-steel-diver.json](./6891-steel-diver.json) |
 | Steel Diver: Sub Wars | 62171 | [62171-steel-diver-sub-wars.json](./62171-steel-diver-sub-wars.json) |
 | Steel Division 2 | 106112 | [106112-steel-division-2.json](./106112-steel-division-2.json) |
+| Steel Division 2: Blood Feud in Transylvania | 223827 | [223827-steel-division-2-blood-feud-in-transylvania.json](./223827-steel-division-2-blood-feud-in-transylvania.json) |
 | Steel Division 2: Men of Steel | 260599 | [260599-steel-division-2-men-of-steel.json](./260599-steel-division-2-men-of-steel.json) |
 | Steel Division 2: Nemesis - Battle of Rimini | 143080 | [143080-steel-division-2-nemesis-battle-of-rimini.json](./143080-steel-division-2-nemesis-battle-of-rimini.json) |
 | Steel Division 2: Nemesis #1 - Sandomierz | 166413 | [166413-steel-division-2-nemesis-1-sandomierz.json](./166413-steel-division-2-nemesis-1-sandomierz.json) |
@@ -28044,6 +28047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Outlaws 2: Winner Takes All | 162246 | [162246-street-outlaws-2-winner-takes-all.json](./162246-street-outlaws-2-winner-takes-all.json) |
 | Street Outlaws 2: Winner Takes All - Blazing Freedom Bundle | 226698 | [226698-street-outlaws-2-winner-takes-all-blazing-freedom-bundle.json](./226698-street-outlaws-2-winner-takes-all-blazing-freedom-bundle.json) |
 | Street Outlaws 2: Winner Takes All - Digital Deluxe Edition | 173797 | [173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json](./173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json) |
+| Street Outlaws 2: Winner Takes All - Lizzy Musi Bundle | 223825 | [223825-street-outlaws-2-winner-takes-all-lizzy-musi-bundle.json](./223825-street-outlaws-2-winner-takes-all-lizzy-musi-bundle.json) |
 | Street Outlaws 2: Winner Takes All - Ryan Martin Bundle | 226709 | [226709-street-outlaws-2-winner-takes-all-ryan-martin-bundle.json](./226709-street-outlaws-2-winner-takes-all-ryan-martin-bundle.json) |
 | Street Outlaws 2: Winner Takes All - Steel Thunder Bundle | 226699 | [226699-street-outlaws-2-winner-takes-all-steel-thunder-bundle.json](./226699-street-outlaws-2-winner-takes-all-steel-thunder-bundle.json) |
 | Street Outlaws 2: Winner Takes All - The 70s Bundle | 225945 | [225945-street-outlaws-2-winner-takes-all-the-70s-bundle.json](./225945-street-outlaws-2-winner-takes-all-the-70s-bundle.json) |
@@ -31563,6 +31567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. 3 Alpha | 263935 | [263935-super-mario-bros-3-alpha.json](./263935-super-mario-bros-3-alpha.json) |
 | Super Mario Bros. 3 Game Watch | 172539 | [172539-super-mario-bros-3-game-watch.json](./172539-super-mario-bros-3-game-watch.json) |
 | Super Mario Bros. 3 X | 268361 | [268361-super-mario-bros-3-x.json](./268361-super-mario-bros-3-x.json) |
+| Super Mario Bros. 3: A New Journey | 223846 | [223846-super-mario-bros-3-a-new-journey.json](./223846-super-mario-bros-3-a-new-journey.json) |
 | Super Mario Bros. 3: Golden | 268360 | [268360-super-mario-bros-3-golden.json](./268360-super-mario-bros-3-golden.json) |
 | Super Mario Bros. 3: The Lost Levels | 239902 | [239902-super-mario-bros-3-the-lost-levels.json](./239902-super-mario-bros-3-the-lost-levels.json) |
 | Super Mario Bros. 3: Xmas Edition | 290333 | [290333-super-mario-bros-3-xmas-edition.json](./290333-super-mario-bros-3-xmas-edition.json) |
