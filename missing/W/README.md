@@ -737,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanna Sleep All Day, But | 389459 | [389459-wanna-sleep-all-day-but.json](./389459-wanna-sleep-all-day-but.json) |
 | Wanna Survive | 119809 | [119809-wanna-survive.json](./119809-wanna-survive.json) |
 | Wanna Wake Up? | 405466 | [405466-wanna-wake-up.json](./405466-wanna-wake-up.json) |
+| Wanna-Be a Dino Finder | 244004 | [244004-wanna-be-a-dino-finder.json](./244004-wanna-be-a-dino-finder.json) |
 | Wannabe Creators | 411401 | [411401-wannabe-creators.json](./411401-wannabe-creators.json) |
 | Wannabe Creators 2 | 411402 | [411402-wannabe-creators-2.json](./411402-wannabe-creators-2.json) |
 | Wannabe Galgame God!!! | 389964 | [389964-wannabe-galgame-god.json](./389964-wannabe-galgame-god.json) |
