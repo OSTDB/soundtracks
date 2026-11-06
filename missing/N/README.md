@@ -6397,6 +6397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Non Flying Soldiers | 54252 | [54252-non-flying-soldiers.json](./54252-non-flying-soldiers.json) |
 | Non Human | 245086 | [245086-non-human.json](./245086-non-human.json) |
 | Non Stop Driver | 305200 | [305200-non-stop-driver.json](./305200-non-stop-driver.json) |
+| Non-Binary | 207964 | [207964-non-binary.json](./207964-non-binary.json) |
 | Non-Compliant | 126575 | [126575-non-compliant.json](./126575-non-compliant.json) |
 | Non-Euclidean Minesweeper | 398902 | [398902-non-euclidean-minesweeper.json](./398902-non-euclidean-minesweeper.json) |
 | Non-League Manager | 419205 | [419205-non-league-manager.json](./419205-non-league-manager.json) |
