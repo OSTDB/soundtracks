@@ -3785,6 +3785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Game Cartridge Collection: Dungeon Grove | 385420 | [385420-infinite-game-cartridge-collection-dungeon-grove.json](./385420-infinite-game-cartridge-collection-dungeon-grove.json) |
 | Infinite Game Works Episode 0 | 36316 | [36316-infinite-game-works-episode-0.json](./36316-infinite-game-works-episode-0.json) |
 | Infinite Game Works Episode 1 | 36214 | [36214-infinite-game-works-episode-1.json](./36214-infinite-game-works-episode-1.json) |
+| Infinite Golf | 217605 | [217605-infinite-golf.json](./217605-infinite-golf.json) |
 | Infinite Golf | 56139 | [56139-infinite-golf.json](./56139-infinite-golf.json) |
 | Infinite Golf 2 | 153825 | [153825-infinite-golf-2.json](./153825-infinite-golf-2.json) |
 | Infinite Guitars | 133239 | [133239-infinite-guitars.json](./133239-infinite-guitars.json) |
