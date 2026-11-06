@@ -4258,6 +4258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pepper Pengui | 363046 | [363046-pepper-pengui.json](./363046-pepper-pengui.json) |
 | Pepper Rush | 382890 | [382890-pepper-rush.json](./382890-pepper-rush.json) |
 | Pepper the Giant Purple Dog | 386897 | [386897-pepper-the-giant-purple-dog.json](./386897-pepper-the-giant-purple-dog.json) |
+| Pepper: The Food Truck Hero | 194099 | [194099-pepper-the-food-truck-hero.json](./194099-pepper-the-food-truck-hero.json) |
 | Pepper's Castle | 195398 | [195398-peppers-castle.json](./195398-peppers-castle.json) |
 | Pepper's Puzzles | 52085 | [52085-peppers-puzzles.json](./52085-peppers-puzzles.json) |
 | Peppered | 129445 | [129445-peppered.json](./129445-peppered.json) |
@@ -6239,6 +6240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pie O'Clock! | 190965 | [190965-pie-oclock.json](./190965-pie-oclock.json) |
 | Pie Pie Cafeteria | 392248 | [392248-pie-pie-cafeteria.json](./392248-pie-pie-cafeteria.json) |
 | Pie-Man | 287026 | [287026-pie-man.json](./287026-pie-man.json) |
+| Pie.ai | 194066 | [194066-pie-ai.json](./194066-pie-ai.json) |
 | Pie's Ancient Europe | 405744 | [405744-pies-ancient-europe.json](./405744-pies-ancient-europe.json) |
 | Piece by Piece | 332318 | [332318-piece-by-piece.json](./332318-piece-by-piece.json) |
 | Piece by Piece | 332452 | [332452-piece-by-piece.json](./332452-piece-by-piece.json) |
@@ -10420,6 +10422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket no Naka no Doraemon | 37357 | [37357-pocket-no-naka-no-doraemon.json](./37357-pocket-no-naka-no-doraemon.json) |
 | Pocket Oasis | 251982 | [251982-pocket-oasis.json](./251982-pocket-oasis.json) |
 | Pocket of Horror | 344566 | [344566-pocket-of-horror.json](./344566-pocket-of-horror.json) |
+| Pocket of warrior | 194067 | [194067-pocket-of-warrior.json](./194067-pocket-of-warrior.json) |
 | Pocket Oracle | 345813 | [345813-pocket-oracle.json](./345813-pocket-oracle.json) |
 | Pocket Pack: Strategy Games | 84719 | [84719-pocket-pack-strategy-games.json](./84719-pocket-pack-strategy-games.json) |
 | Pocket Pack: Words & Numbers | 85346 | [85346-pocket-pack-words-and-numbers.json](./85346-pocket-pack-words-and-numbers.json) |
@@ -14652,6 +14655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Solitaire | 176897 | [176897-princess-solitaire.json](./176897-princess-solitaire.json) |
 | Princess Strike! | 63347 | [63347-princess-strike.json](./63347-princess-strike.json) |
 | Princess Survivors | 244672 | [244672-princess-survivors.json](./244672-princess-survivors.json) |
+| Princess Tale | 194070 | [194070-princess-tale.json](./194070-princess-tale.json) |
 | Princess to Be | 254941 | [254941-princess-to-be.json](./254941-princess-to-be.json) |
 | Princess Tomato in the Salad Kingdom | 48221 | [48221-princess-tomato-in-the-salad-kingdom.json](./48221-princess-tomato-in-the-salad-kingdom.json) |
 | Princess Trouble | 362017 | [362017-princess-trouble.json](./362017-princess-trouble.json) |
