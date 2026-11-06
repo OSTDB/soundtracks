@@ -1706,6 +1706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AAA Clock 2: Extended Edition | 314593 | [314593-aaa-clock-2-extended-edition.json](./314593-aaa-clock-2-extended-edition.json) |
 | AAA Clock 2: Jelly Clock | 314589 | [314589-aaa-clock-2-jelly-clock.json](./314589-aaa-clock-2-jelly-clock.json) |
 | AAA Clock 2: Premium Edition | 314591 | [314591-aaa-clock-2-premium-edition.json](./314591-aaa-clock-2-premium-edition.json) |
+| AAA Clock 2: Special Edition | 239968 | [239968-aaa-clock-2-special-edition.json](./239968-aaa-clock-2-special-edition.json) |
 | AAA Clock 2: Ultimate Edition | 314594 | [314594-aaa-clock-2-ultimate-edition.json](./314594-aaa-clock-2-ultimate-edition.json) |
 | AAA Clock 2: Vulca Clock | 314590 | [314590-aaa-clock-2-vulca-clock.json](./314590-aaa-clock-2-vulca-clock.json) |
 | AAA Clock: Extreme Amazing Edition | 328743 | [328743-aaa-clock-extreme-amazing-edition.json](./328743-aaa-clock-extreme-amazing-edition.json) |
