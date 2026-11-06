@@ -1148,6 +1148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandemia | 149517 | [149517-pandemia.json](./149517-pandemia.json) |
 | Pandemia: Virus Outbreak | 169589 | [169589-pandemia-virus-outbreak.json](./169589-pandemia-virus-outbreak.json) |
 | Pandemic | 147934 | [147934-pandemic.json](./147934-pandemic.json) |
+| Pandemic 1993 | 207555 | [207555-pandemic-1993.json](./207555-pandemic-1993.json) |
 | Pandemic 2.5 | 80264 | [80264-pandemic-2-5.json](./80264-pandemic-2-5.json) |
 | Pandemic Bunny | 149371 | [149371-pandemic-bunny.json](./149371-pandemic-bunny.json) |
 | Pandemic Express: Zombie Escape | 110294 | [110294-pandemic-express-zombie-escape.json](./110294-pandemic-express-zombie-escape.json) |
@@ -10043,6 +10044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ploko | 258282 | [258282-ploko.json](./258282-ploko.json) |
 | Plokoth | 133315 | [133315-plokoth.json](./133315-plokoth.json) |
 | Plong | 258190 | [258190-plong.json](./258190-plong.json) |
+| Plop Saga | 207478 | [207478-plop-saga.json](./207478-plop-saga.json) |
 | Plop, Fizz, Boom! | 297418 | [297418-plop-fizz-boom.json](./297418-plop-fizz-boom.json) |
 | Ploppy Pairs | 197245 | [197245-ploppy-pairs.json](./197245-ploppy-pairs.json) |
 | Plot | 68748 | [68748-plot.json](./68748-plot.json) |
@@ -10540,6 +10542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pog 5 | 165705 | [165705-pog-5.json](./165705-pog-5.json) |
 | Pog 6 | 188853 | [188853-pog-6.json](./188853-pog-6.json) |
 | Pog 7 | 190932 | [190932-pog-7.json](./190932-pog-7.json) |
+| Pog 8 | 207547 | [207547-pog-8.json](./207547-pog-8.json) |
 | Pog X | 226508 | [226508-pog-x.json](./226508-pog-x.json) |
 | Pog XL | 236891 | [236891-pog-xl.json](./236891-pog-xl.json) |
 | Pogger's Legends | 319641 | [319641-poggers-legends.json](./319641-poggers-legends.json) |
@@ -12839,6 +12842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poramid | 185438 | [185438-poramid.json](./185438-poramid.json) |
 | Porcelain Eyes | 186011 | [186011-porcelain-eyes.json](./186011-porcelain-eyes.json) |
 | Porcelain Heart | 410667 | [410667-porcelain-heart.json](./410667-porcelain-heart.json) |
+| Porcelain Mask | 207554 | [207554-porcelain-mask.json](./207554-porcelain-mask.json) |
 | Porcelain Panic | 86643 | [86643-porcelain-panic.json](./86643-porcelain-panic.json) |
 | Porcelain Tales | 186031 | [186031-porcelain-tales.json](./186031-porcelain-tales.json) |
 | Porcini | 148999 | [148999-porcini.json](./148999-porcini.json) |
@@ -18733,6 +18737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pylon Racer | 114886 | [114886-pylon-racer.json](./114886-pylon-racer.json) |
 | Pylon Town | 234192 | [234192-pylon-town.json](./234192-pylon-town.json) |
 | Pylon: Rogue | 27745 | [27745-pylon-rogue.json](./27745-pylon-rogue.json) |
+| Pylorus: Footsteps of Greed | 207545 | [207545-pylorus-footsteps-of-greed.json](./207545-pylorus-footsteps-of-greed.json) |
 | Pyme's Genocide | 182708 | [182708-pymes-genocide.json](./182708-pymes-genocide.json) |
 | PyNori | 336921 | [336921-pynori.json](./336921-pynori.json) |
 | Pyo | 177155 | [177155-pyo.json](./177155-pyo.json) |
