@@ -996,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaxinator | 373850 | [373850-vaxinator.json](./373850-vaxinator.json) |
 | Vaxine | 85911 | [85911-vaxine.json](./85911-vaxine.json) |
 | Vaxol: Heavy Armed Storming Vehicle | 41785 | [41785-vaxol-heavy-armed-storming-vehicle.json](./41785-vaxol-heavy-armed-storming-vehicle.json) |
+| Vaxomon | 199672 | [199672-vaxomon.json](./199672-vaxomon.json) |
 | Vay | 304287 | [304287-vay.json](./304287-vay.json) |
 | Vayan | 216494 | [216494-vayan.json](./216494-vayan.json) |
 | Vaygren: Lustful Temptation | 307173 | [307173-vaygren-lustful-temptation.json](./307173-vaygren-lustful-temptation.json) |
