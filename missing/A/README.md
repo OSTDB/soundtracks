@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Figure Met in a Shaded Wood | 59714 | [59714-a-figure-met-in-a-shaded-wood.json](./59714-a-figure-met-in-a-shaded-wood.json) |
 | A Final Delivery | 178903 | [178903-a-final-delivery.json](./178903-a-final-delivery.json) |
 | A Finality with Sheji | 113852 | [113852-a-finality-with-sheji.json](./113852-a-finality-with-sheji.json) |
+| A Fine Day for Reaping | 217615 | [217615-a-fine-day-for-reaping.json](./217615-a-fine-day-for-reaping.json) |
 | A Firefighter's Boxing Matches | 179136 | [179136-a-firefighters-boxing-matches.json](./179136-a-firefighters-boxing-matches.json) |
 | A Firelit Room | 196619 | [196619-a-firelit-room.json](./196619-a-firelit-room.json) |
 | A Firm Handshake | 176349 | [176349-a-firm-handshake.json](./176349-a-firm-handshake.json) |
@@ -763,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Lot of Asteroids | 185347 | [185347-a-lot-of-asteroids.json](./185347-a-lot-of-asteroids.json) |
 | A Lot of Universes | 135727 | [135727-a-lot-of-universes.json](./135727-a-lot-of-universes.json) |
 | A Lounge Somewhere | 352388 | [352388-a-lounge-somewhere.json](./352388-a-lounge-somewhere.json) |
+| A Love Colored Blackbird | 217611 | [217611-a-love-colored-blackbird.json](./217611-a-love-colored-blackbird.json) |
 | A Love Letter in Snowfall | 411049 | [411049-a-love-letter-in-snowfall.json](./411049-a-love-letter-in-snowfall.json) |
 | A Love Like Broken Glass | 410440 | [410440-a-love-like-broken-glass.json](./410440-a-love-like-broken-glass.json) |
 | A Love Story: My Best Friend | 334090 | [334090-a-love-story-my-best-friend.json](./334090-a-love-story-my-best-friend.json) |
@@ -1011,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Pointless Adventure | 213346 | [213346-a-pointless-adventure.json](./213346-a-pointless-adventure.json) |
 | A ponte | 231208 | [231208-a-ponte.json](./231208-a-ponte.json) |
 | A Porter Story | 365038 | [365038-a-porter-story.json](./365038-a-porter-story.json) |
+| A Portrait of Feathers | 217610 | [217610-a-portrait-of-feathers.json](./217610-a-portrait-of-feathers.json) |
 | A Postcard From Afthonia | 252069 | [252069-a-postcard-from-afthonia.json](./252069-a-postcard-from-afthonia.json) |
 | A Posteriori | 279809 | [279809-a-posteriori.json](./279809-a-posteriori.json) |
 | A Potion For Chamomile | 196859 | [196859-a-potion-for-chamomile.json](./196859-a-potion-for-chamomile.json) |
@@ -7285,6 +7288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Out War: Welcome to the Front | 263281 | [263281-all-out-war-welcome-to-the-front.json](./263281-all-out-war-welcome-to-the-front.json) |
 | All Over | 132234 | [132234-all-over.json](./132234-all-over.json) |
 | All Pigs Deserve to Burn in Hell | 58034 | [58034-all-pigs-deserve-to-burn-in-hell.json](./58034-all-pigs-deserve-to-burn-in-hell.json) |
+| All Pro Basketball | 217644 | [217644-all-pro-basketball.json](./217644-all-pro-basketball.json) |
 | All Pro Basketball | 217823 | [217823-all-pro-basketball.json](./217823-all-pro-basketball.json) |
 | All Quiet in the Trenches | 245905 | [245905-all-quiet-in-the-trenches.json](./245905-all-quiet-in-the-trenches.json) |
 | All Quiet Roads 4743 | 192715 | [192715-all-quiet-roads-4743.json](./192715-all-quiet-roads-4743.json) |
@@ -8492,6 +8496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Girl: Kit Mystery Challenge! | 47786 | [47786-american-girl-kit-mystery-challenge.json](./47786-american-girl-kit-mystery-challenge.json) |
 | American Girl: Kit's Mystery Challenge | 18246 | [18246-american-girl-kits-mystery-challenge.json](./18246-american-girl-kits-mystery-challenge.json) |
 | American Girl: Mia Goes For Great | 18245 | [18245-american-girl-mia-goes-for-great.json](./18245-american-girl-mia-goes-for-great.json) |
+| American Gladiators | 217646 | [217646-american-gladiators.json](./217646-american-gladiators.json) |
 | American Gladiators | 273030 | [273030-american-gladiators.json](./273030-american-gladiators.json) |
 | American Gladiators | 4377 | [4377-american-gladiators.json](./4377-american-gladiators.json) |
 | American Gold Rush | 417689 | [417689-american-gold-rush.json](./417689-american-gold-rush.json) |
@@ -11569,6 +11574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apollo 11 VR HD | 111144 | [111144-apollo-11-vr-hd.json](./111144-apollo-11-vr-hd.json) |
 | Apollo 11 VR HD: First Steps | 120713 | [120713-apollo-11-vr-hd-first-steps.json](./120713-apollo-11-vr-hd-first-steps.json) |
 | Apollo 13 | 199021 | [199021-apollo-13.json](./199021-apollo-13.json) |
+| Apollo 13 | 217647 | [217647-apollo-13.json](./217647-apollo-13.json) |
 | Apollo 13 | 257578 | [257578-apollo-13.json](./257578-apollo-13.json) |
 | Apollo 13: The Lost Tapes VR | 297538 | [297538-apollo-13-the-lost-tapes-vr.json](./297538-apollo-13-the-lost-tapes-vr.json) |
 | Apollo 18 | 13792 | [13792-apollo-18.json](./13792-apollo-18.json) |
