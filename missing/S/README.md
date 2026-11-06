@@ -7108,10 +7108,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shall we date?: Arabian Dreams Wildest Tales in Starry Nights | 225664 | [225664-shall-we-date-arabian-dreams-wildest-tales-in-starry-nights.json](./225664-shall-we-date-arabian-dreams-wildest-tales-in-starry-nights.json) |
 | Shall we date?: Become Elite | 225684 | [225684-shall-we-date-become-elite.json](./225684-shall-we-date-become-elite.json) |
 | Shall we date?: Blood in Roses | 199961 | [199961-shall-we-date-blood-in-roses.json](./199961-shall-we-date-blood-in-roses.json) |
+| Shall we date?: Castle Break | 225452 | [225452-shall-we-date-castle-break.json](./225452-shall-we-date-castle-break.json) |
 | Shall We Date?: Destiny Ninja | 181497 | [181497-shall-we-date-destiny-ninja.json](./181497-shall-we-date-destiny-ninja.json) |
 | Shall We Date?: Destiny Ninja 2 | 122928 | [122928-shall-we-date-destiny-ninja-2.json](./122928-shall-we-date-destiny-ninja-2.json) |
 | Shall we date?: Guard Me, Sherlock! | 225667 | [225667-shall-we-date-guard-me-sherlock.json](./225667-shall-we-date-guard-me-sherlock.json) |
+| Shall we date?: Guilty Alice | 225449 | [225449-shall-we-date-guilty-alice.json](./225449-shall-we-date-guilty-alice.json) |
 | Shall We Date?: Heian Love | 181521 | [181521-shall-we-date-heian-love.json](./181521-shall-we-date-heian-love.json) |
+| Shall we date?: Lost Island | 225448 | [225448-shall-we-date-lost-island.json](./225448-shall-we-date-lost-island.json) |
 | Shall we date?: Love, Mafia Dawn of the Don | 225673 | [225673-shall-we-date-love-mafia-dawn-of-the-don.json](./225673-shall-we-date-love-mafia-dawn-of-the-don.json) |
 | Shall we date?: Love, Mafia My Signore | 225674 | [225674-shall-we-date-love-mafia-my-signore.json](./225674-shall-we-date-love-mafia-my-signore.json) |
 | Shall we date?: Modern Cinderella | 225670 | [225670-shall-we-date-modern-cinderella.json](./225670-shall-we-date-modern-cinderella.json) |
@@ -7125,6 +7128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shall we date?: The World or You | 225681 | [225681-shall-we-date-the-world-or-you.json](./225681-shall-we-date-the-world-or-you.json) |
 | Shall We Date?: War of Prayers - Inori no Otome | 225662 | [225662-shall-we-date-war-of-prayers-inori-no-otome.json](./225662-shall-we-date-war-of-prayers-inori-no-otome.json) |
 | Shall we date?: We the Girls | 225671 | [225671-shall-we-date-we-the-girls.json](./225671-shall-we-date-we-the-girls.json) |
+| Shall we date?: Wizardess Heart | 225451 | [225451-shall-we-date-wizardess-heart.json](./225451-shall-we-date-wizardess-heart.json) |
 | Shall We Golf? | 238882 | [238882-shall-we-golf.json](./238882-shall-we-golf.json) |
 | Shallow Blue | 340599 | [340599-shallow-blue.json](./340599-shallow-blue.json) |
 | Shallow End | 293752 | [293752-shallow-end.json](./293752-shallow-end.json) |
@@ -7409,6 +7413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shardlight: Special Edition | 51912 | [51912-shardlight-special-edition.json](./51912-shardlight-special-edition.json) |
 | Shardpunk 2 | 378128 | [378128-shardpunk-2.json](./378128-shardpunk-2.json) |
 | Shardpunk: Verminfall - Rat Pack | 255149 | [255149-shardpunk-verminfall-rat-pack.json](./255149-shardpunk-verminfall-rat-pack.json) |
+| Shards | 225429 | [225429-shards.json](./225429-shards.json) |
 | Shards of Azuria | 32164 | [32164-shards-of-azuria.json](./32164-shards-of-azuria.json) |
 | Shards of Chaos | 187729 | [187729-shards-of-chaos.json](./187729-shards-of-chaos.json) |
 | Shards of Dread | 342526 | [342526-shards-of-dread.json](./342526-shards-of-dread.json) |
@@ -10173,6 +10178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigi: A Fart for Melusina | 75066 | [75066-sigi-a-fart-for-melusina.json](./75066-sigi-a-fart-for-melusina.json) |
 | Sigil | 113346 | [113346-sigil.json](./113346-sigil.json) |
 | Sigil | 121415 | [121415-sigil.json](./121415-sigil.json) |
+| Sigil | 225433 | [225433-sigil.json](./225433-sigil.json) |
 | Sigil | 313172 | [313172-sigil.json](./313172-sigil.json) |
 | Sigil II | 275462 | [275462-sigil-ii.json](./275462-sigil-ii.json) |
 | Sigil of Chaos | 309553 | [309553-sigil-of-chaos.json](./309553-sigil-of-chaos.json) |
@@ -10215,6 +10221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signal | 205094 | [205094-signal.json](./205094-signal.json) |
 | Signal | 270002 | [270002-signal.json](./270002-signal.json) |
 | Signal | 329155 | [329155-signal.json](./329155-signal.json) |
+| Signal & Echo: Iris is Missing | 225420 | [225420-signal-and-echo-iris-is-missing.json](./225420-signal-and-echo-iris-is-missing.json) |
 | Signal Control Simulator | 312424 | [312424-signal-control-simulator.json](./312424-signal-control-simulator.json) |
 | Signal Creek | 339922 | [339922-signal-creek.json](./339922-signal-creek.json) |
 | Signal Decay | 58715 | [58715-signal-decay.json](./58715-signal-decay.json) |
@@ -18593,6 +18600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulCalibur VI: Amy | 168723 | [168723-soulcalibur-vi-amy.json](./168723-soulcalibur-vi-amy.json) |
 | SoulCalibur VI: Cassandra | 168724 | [168724-soulcalibur-vi-cassandra.json](./168724-soulcalibur-vi-cassandra.json) |
 | SoulCalibur VI: Character Creation Set A | 225940 | [225940-soulcalibur-vi-character-creation-set-a.json](./225940-soulcalibur-vi-character-creation-set-a.json) |
+| SoulCalibur VI: Character Creation Set B | 225470 | [225470-soulcalibur-vi-character-creation-set-b.json](./225470-soulcalibur-vi-character-creation-set-b.json) |
 | SoulCalibur VI: Character Creation Set C | 225929 | [225929-soulcalibur-vi-character-creation-set-c.json](./225929-soulcalibur-vi-character-creation-set-c.json) |
 | SoulCalibur VI: Character Creation Set F | 224129 | [224129-soulcalibur-vi-character-creation-set-f.json](./224129-soulcalibur-vi-character-creation-set-f.json) |
 | SoulCalibur VI: Collector's Edition | 47071 | [47071-soulcalibur-vi-collectors-edition.json](./47071-soulcalibur-vi-collectors-edition.json) |
@@ -27201,6 +27209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of Nararale | 173026 | [173026-story-of-nararale.json](./173026-story-of-nararale.json) |
 | Story of one night | 117581 | [117581-story-of-one-night.json](./117581-story-of-one-night.json) |
 | Story of Sealed Steel | 384291 | [384291-story-of-sealed-steel.json](./384291-story-of-sealed-steel.json) |
+| Story of Season: Friends of Mineral Town - Digital Edition | 225473 | [225473-story-of-season-friends-of-mineral-town-digital-edition.json](./225473-story-of-season-friends-of-mineral-town-digital-edition.json) |
 | Story of Seasons | 8608 | [8608-story-of-seasons.json](./8608-story-of-seasons.json) |
 | Story of Seasons (Tentative Title) | 85534 | [85534-story-of-seasons-tentative-title.json](./85534-story-of-seasons-tentative-title.json) |
 | Story of Seasons Mobile | 116666 | [116666-story-of-seasons-mobile.json](./116666-story-of-seasons-mobile.json) |
@@ -27347,6 +27356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Creatures | 131759 | [131759-strange-creatures.json](./131759-strange-creatures.json) |
 | Strange Day | 365881 | [365881-strange-day.json](./365881-strange-day.json) |
 | Strange Days | 70810 | [70810-strange-days.json](./70810-strange-days.json) |
+| Strange Diary | 225436 | [225436-strange-diary.json](./225436-strange-diary.json) |
 | Strange Field Football | 145850 | [145850-strange-field-football.json](./145850-strange-field-football.json) |
 | Strange girl beside | 95137 | [95137-strange-girl-beside.json](./95137-strange-girl-beside.json) |
 | Strange Gravity | 177188 | [177188-strange-gravity.json](./177188-strange-gravity.json) |
@@ -32119,6 +32129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Nantucket World | 312875 | [312875-super-nantucket-world.json](./312875-super-nantucket-world.json) |
 | Super Nario World | 316627 | [316627-super-nario-world.json](./316627-super-nario-world.json) |
 | Super Naruto: Clash of Ninja! 4 | 249292 | [249292-super-naruto-clash-of-ninja-4.json](./249292-super-naruto-clash-of-ninja-4.json) |
+| Super Nasu Bros | 225439 | [225439-super-nasu-bros.json](./225439-super-nasu-bros.json) |
 | Super Nate Adventure | 138589 | [138589-super-nate-adventure.json](./138589-super-nate-adventure.json) |
 | Super Natural Dorm | 347762 | [347762-super-natural-dorm.json](./347762-super-natural-dorm.json) |
 | Super Naughty Maid | 119037 | [119037-super-naughty-maid.json](./119037-super-naughty-maid.json) |
@@ -32156,6 +32167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ninja Bundle | 284869 | [284869-super-ninja-bundle.json](./284869-super-ninja-bundle.json) |
 | Super Ninja Hero VR | 31164 | [31164-super-ninja-hero-vr.json](./31164-super-ninja-hero-vr.json) |
 | Super Ninja Meow Cat | 115165 | [115165-super-ninja-meow-cat.json](./115165-super-ninja-meow-cat.json) |
+| Super Ninja Miner | 225455 | [225455-super-ninja-miner.json](./225455-super-ninja-miner.json) |
 | Super Ninja Noodle Chef | 185598 | [185598-super-ninja-noodle-chef.json](./185598-super-ninja-noodle-chef.json) |
 | Super Ninja Square Attack | 87695 | [87695-super-ninja-square-attack.json](./87695-super-ninja-square-attack.json) |
 | Super Ninja-kun | 38271 | [38271-super-ninja-kun.json](./38271-super-ninja-kun.json) |
