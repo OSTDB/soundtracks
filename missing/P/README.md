@@ -1527,6 +1527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Animal Adventure | 204515 | [204515-paper-animal-adventure.json](./204515-paper-animal-adventure.json) |
 | Paper Anne | 89763 | [89763-paper-anne.json](./89763-paper-anne.json) |
 | Paper Attack | 227738 | [227738-paper-attack.json](./227738-paper-attack.json) |
+| Paper Bad | 224912 | [224912-paper-bad.json](./224912-paper-bad.json) |
 | Paper Baseball | 420781 | [420781-paper-baseball.json](./420781-paper-baseball.json) |
 | Paper Battlefield | 326929 | [326929-paper-battlefield.json](./326929-paper-battlefield.json) |
 | Paper Beast | 117293 | [117293-paper-beast.json](./117293-paper-beast.json) |
@@ -3723,6 +3724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pechka | 250802 | [250802-pechka.json](./250802-pechka.json) |
 | Pechowy Prezent | 91039 | [91039-pechowy-prezent.json](./91039-pechowy-prezent.json) |
 | Peck Peck's Garden | 243633 | [243633-peck-pecks-garden.json](./243633-peck-pecks-garden.json) |
+| Peck'Em | 224924 | [224924-peckem.json](./224924-peckem.json) |
 | Pecker | 244272 | [244272-pecker.json](./244272-pecker.json) |
 | Peckin' Pixels | 135692 | [135692-peckin-pixels.json](./135692-peckin-pixels.json) |
 | Pecking Order | 337778 | [337778-pecking-order.json](./337778-pecking-order.json) |
