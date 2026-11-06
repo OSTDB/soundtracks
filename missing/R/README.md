@@ -2604,6 +2604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RE: Alistair++ | 46942 | [46942-re-alistair.json](./46942-re-alistair.json) |
 | Re: Ashesz | 175016 | [175016-re-ashesz.json](./175016-re-ashesz.json) |
 | RE: Castle Defense | 130367 | [130367-re-castle-defense.json](./130367-re-castle-defense.json) |
+| Re: Collector | 202453 | [202453-re-collector.json](./202453-re-collector.json) |
 | RE: Crank Sim | 278570 | [278570-re-crank-sim.json](./278570-re-crank-sim.json) |
 | Re: Danganronpa Refresh Retreat | 304349 | [304349-re-danganronpa-refresh-retreat.json](./304349-re-danganronpa-refresh-retreat.json) |
 | Re: Dream | 290080 | [290080-re-dream.json](./290080-re-dream.json) |
@@ -8187,6 +8188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rivalia Online | 383048 | [383048-rivalia-online.json](./383048-rivalia-online.json) |
 | Rivalia: Dungeon Raiders | 211670 | [211670-rivalia-dungeon-raiders.json](./211670-rivalia-dungeon-raiders.json) |
 | Rivalry | 33817 | [33817-rivalry.json](./33817-rivalry.json) |
+| Rivalry warlord Sengoku | 202462 | [202462-rivalry-warlord-sengoku.json](./202462-rivalry-warlord-sengoku.json) |
 | Rivals | 139007 | [139007-rivals.json](./139007-rivals.json) |
 | Rivals at War | 59631 | [59631-rivals-at-war.json](./59631-rivals-at-war.json) |
 | Rivals at War: 2084 | 59630 | [59630-rivals-at-war-2084.json](./59630-rivals-at-war-2084.json) |
