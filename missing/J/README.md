@@ -2687,6 +2687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Josei no Hinkaku Juku DS | 268066 | [268066-josei-no-hinkaku-juku-ds.json](./268066-josei-no-hinkaku-juku-ds.json) |
 | Josephine and Friends | 204726 | [204726-josephine-and-friends.json](./204726-josephine-and-friends.json) |
 | Josephine at School | 204784 | [204784-josephine-at-school.json](./204784-josephine-at-school.json) |
+| Josephine on Holiday | 204743 | [204743-josephine-on-holiday.json](./204743-josephine-on-holiday.json) |
 | Josephine: Portrait of an Assassin | 73512 | [73512-josephine-portrait-of-an-assassin.json](./73512-josephine-portrait-of-an-assassin.json) |
 | Josh Journey: Darkness Totems | 139665 | [139665-josh-journey-darkness-totems.json](./139665-josh-journey-darkness-totems.json) |
 | Josh Powlison's Button: Mildly Remastered Edition | 303596 | [303596-josh-powlisons-button-mildly-remastered-edition.json](./303596-josh-powlisons-button-mildly-remastered-edition.json) |
