@@ -11519,6 +11519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Watch: The Throne's Duty | 379976 | [379976-royal-watch-the-thrones-duty.json](./379976-royal-watch-the-thrones-duty.json) |
 | Royal's Gambit | 347568 | [347568-royals-gambit.json](./347568-royals-gambit.json) |
 | Royale Archer VR | 142036 | [142036-royale-archer-vr.json](./142036-royale-archer-vr.json) |
+| Royale Battle: Warzone | 237170 | [237170-royale-battle-warzone.json](./237170-royale-battle-warzone.json) |
 | Royale Island Showdown | 167590 | [167590-royale-island-showdown.json](./167590-royale-island-showdown.json) |
 | Royale King | 270928 | [270928-royale-king.json](./270928-royale-king.json) |
 | Royale Storm Bowling | 116217 | [116217-royale-storm-bowling.json](./116217-royale-storm-bowling.json) |
