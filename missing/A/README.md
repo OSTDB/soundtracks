@@ -10913,6 +10913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ansatsu Kyoshitsu: Assassin Ikusei Keikaku!! | 59326 | [59326-ansatsu-kyoshitsu-assassin-ikusei-keikaku.json](./59326-ansatsu-kyoshitsu-assassin-ikusei-keikaku.json) |
 | Ansatsu Kyoshitsu: Korosensei Daihouimou!! | 60876 | [60876-ansatsu-kyoshitsu-korosensei-daihouimou.json](./60876-ansatsu-kyoshitsu-korosensei-daihouimou.json) |
 | Anseion | 245810 | [245810-anseion.json](./245810-anseion.json) |
+| Anshar 2: Hyperdrive | 196374 | [196374-anshar-2-hyperdrive.json](./196374-anshar-2-hyperdrive.json) |
 | Anshar Online | 119941 | [119941-anshar-online.json](./119941-anshar-online.json) |
 | AnShi | 132740 | [132740-anshi.json](./132740-anshi.json) |
 | Ansible | 111528 | [111528-ansible.json](./111528-ansible.json) |
@@ -12366,6 +12367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Earth Defense Force | 146843 | [146843-arcade-archives-earth-defense-force.json](./146843-arcade-archives-earth-defense-force.json) |
 | Arcade Archives: Elevator Action | 75702 | [75702-arcade-archives-elevator-action.json](./75702-arcade-archives-elevator-action.json) |
 | Arcade Archives: Emeraldia | 298583 | [298583-arcade-archives-emeraldia.json](./298583-arcade-archives-emeraldia.json) |
+| Arcade Archives: Empire City 1931 | 196364 | [196364-arcade-archives-empire-city-1931.json](./196364-arcade-archives-empire-city-1931.json) |
 | Arcade Archives: Escape Kids | 328448 | [328448-arcade-archives-escape-kids.json](./328448-arcade-archives-escape-kids.json) |
 | Arcade Archives: Excitebike | 68312 | [68312-arcade-archives-excitebike.json](./68312-arcade-archives-excitebike.json) |
 | Arcade Archives: Exerion | 75700 | [75700-arcade-archives-exerion.json](./75700-arcade-archives-exerion.json) |
@@ -16653,6 +16655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
