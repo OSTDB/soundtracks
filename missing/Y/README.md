@@ -1213,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Suck and I Hate You | 362413 | [362413-you-suck-and-i-hate-you.json](./362413-you-suck-and-i-hate-you.json) |
 | You Suck and I Hate You: Part 2 | 365360 | [365360-you-suck-and-i-hate-you-part-2.json](./365360-you-suck-and-i-hate-you-part-2.json) |
 | You Suck at Football | 363571 | [363571-you-suck-at-football.json](./363571-you-suck-at-football.json) |
+| You Sunk | 227605 | [227605-you-sunk.json](./227605-you-sunk.json) |
 | You Sure Wanna Drink This? | 346699 | [346699-you-sure-wanna-drink-this.json](./346699-you-sure-wanna-drink-this.json) |
 | You Versus 27 Elves | 116074 | [116074-you-versus-27-elves.json](./116074-you-versus-27-elves.json) |
 | You VS Drugs: Education & Prevention | 311316 | [311316-you-vs-drugs-education-and-prevention.json](./311316-you-vs-drugs-education-and-prevention.json) |
