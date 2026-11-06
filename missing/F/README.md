@@ -3582,6 +3582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fearless Fred and the Factory of Doom | 268740 | [268740-fearless-fred-and-the-factory-of-doom.json](./268740-fearless-fred-and-the-factory-of-doom.json) |
 | Fearless Night | 63679 | [63679-fearless-night.json](./63679-fearless-night.json) |
 | Fearless Pinocchio | 338068 | [338068-fearless-pinocchio.json](./338068-fearless-pinocchio.json) |
+| Fearless Rider | 199702 | [199702-fearless-rider.json](./199702-fearless-rider.json) |
 | Fearless Tigor | 114819 | [114819-fearless-tigor.json](./114819-fearless-tigor.json) |
 | Fearless Wheels | 103889 | [103889-fearless-wheels.json](./103889-fearless-wheels.json) |
 | Fearlyss | 177276 | [177276-fearlyss.json](./177276-fearlyss.json) |
@@ -7139,6 +7140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fix It: Home Improvement | 124987 | [124987-fix-it-home-improvement.json](./124987-fix-it-home-improvement.json) |
 | Fix It: Home Improvement Challenge | 50962 | [50962-fix-it-home-improvement-challenge.json](./50962-fix-it-home-improvement-challenge.json) |
 | Fix Me Fix You | 29301 | [29301-fix-me-fix-you.json](./29301-fix-me-fix-you.json) |
+| Fix Me Up: Hospital Edition | 199691 | [199691-fix-me-up-hospital-edition.json](./199691-fix-me-up-hospital-edition.json) |
 | Fix My Car: Classic Muscle | 96833 | [96833-fix-my-car-classic-muscle.json](./96833-fix-my-car-classic-muscle.json) |
 | Fix My Car: Custom Mods | 102630 | [102630-fix-my-car-custom-mods.json](./102630-fix-my-car-custom-mods.json) |
 | Fix My Car: Garage Wars - Furious Street Mechanics! | 70406 | [70406-fix-my-car-garage-wars-furious-street-mechanics.json](./70406-fix-my-car-garage-wars-furious-street-mechanics.json) |
@@ -13728,6 +13730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Sex: Poker | 212192 | [212192-furry-sex-poker.json](./212192-furry-sex-poker.json) |
 | Furry Sexy Girls | 375951 | [375951-furry-sexy-girls.json](./375951-furry-sexy-girls.json) |
 | Furry Shades of Gay | 165025 | [165025-furry-shades-of-gay.json](./165025-furry-shades-of-gay.json) |
+| Furry Shades of Gay 3: Still Gayer | 199703 | [199703-furry-shades-of-gay-3-still-gayer.json](./199703-furry-shades-of-gay-3-still-gayer.json) |
 | Furry Shakespeare: Dashing Dinosaurs & Sexy Centaurs | 240137 | [240137-furry-shakespeare-dashing-dinosaurs-and-sexy-centaurs.json](./240137-furry-shakespeare-dashing-dinosaurs-and-sexy-centaurs.json) |
 | Furry Shakespeare: Dashing Dinosaurs & Sexy Centaurs - The Meerkats from Arkham | 169040 | [169040-furry-shakespeare-dashing-dinosaurs-and-sexy-centaurs-the-meerkats-from-arkham.json](./169040-furry-shakespeare-dashing-dinosaurs-and-sexy-centaurs-the-meerkats-from-arkham.json) |
 | Furry Shakespeare: Dreamin' of One Lazy Dead Midsummer | 164600 | [164600-furry-shakespeare-dreamin-of-one-lazy-dead-midsummer.json](./164600-furry-shakespeare-dreamin-of-one-lazy-dead-midsummer.json) |
