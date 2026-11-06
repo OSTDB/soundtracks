@@ -2398,6 +2398,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Deere: Drive Green | 139805 | [139805-john-deere-drive-green.json](./139805-john-deere-drive-green.json) |
 | John Deere: Harvest in the Heartland | 20896 | [20896-john-deere-harvest-in-the-heartland.json](./20896-john-deere-harvest-in-the-heartland.json) |
 | John Deere: North American Farmer | 210130 | [210130-john-deere-north-american-farmer.json](./210130-john-deere-north-american-farmer.json) |
+| John Doe | 217606 | [217606-john-doe.json](./217606-john-doe.json) |
+| John Doe + | 217607 | [217607-john-doe.json](./217607-john-doe.json) |
 | John Dungeon | 81751 | [81751-john-dungeon.json](./81751-john-dungeon.json) |
 | John Elway in Space | 332214 | [332214-john-elway-in-space.json](./332214-john-elway-in-space.json) |
 | John Elway's Quarterback | 198782 | [198782-john-elways-quarterback.json](./198782-john-elways-quarterback.json) |
