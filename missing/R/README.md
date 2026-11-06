@@ -13084,6 +13084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryoufuu no Melt: Days in the Sanctuary | 44566 | [44566-ryoufuu-no-melt-days-in-the-sanctuary.json](./44566-ryoufuu-no-melt-days-in-the-sanctuary.json) |
 | Ryouki Enbu | 66650 | [66650-ryouki-enbu.json](./66650-ryouki-enbu.json) |
 | Ryouko Inoue Chatting Room | 93206 | [93206-ryouko-inoue-chatting-room.json](./93206-ryouko-inoue-chatting-room.json) |
+| Ryouri no Tetsujin: Kitchen Stadium Tour | 217595 | [217595-ryouri-no-tetsujin-kitchen-stadium-tour.json](./217595-ryouri-no-tetsujin-kitchen-stadium-tour.json) |
 | Ryse: Legendary Edition | 82422 | [82422-ryse-legendary-edition.json](./82422-ryse-legendary-edition.json) |
 | Rysen | 84055 | [84055-rysen.json](./84055-rysen.json) |
 | Rysen Dawn | 174899 | [174899-rysen-dawn.json](./174899-rysen-dawn.json) |
