@@ -3312,6 +3312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Without Reason | 124252 | [124252-jump-without-reason.json](./124252-jump-without-reason.json) |
 | Jump You+ | 332351 | [332351-jump-you.json](./332351-jump-you.json) |
 | Jump Yuusha | 222423 | [222423-jump-yuusha.json](./222423-jump-yuusha.json) |
+| Jump-Jump | 212018 | [212018-jump-jump.json](./212018-jump-jump.json) |
 | Jump, challenge 100 floors | 247662 | [247662-jump-challenge-100-floors.json](./247662-jump-challenge-100-floors.json) |
 | Jump, Dodge, Die, Repeat | 246821 | [246821-jump-dodge-die-repeat.json](./246821-jump-dodge-die-repeat.json) |
 | Jump, Froggy! Jump! | 286016 | [286016-jump-froggy-jump.json](./286016-jump-froggy-jump.json) |
