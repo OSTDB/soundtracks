@@ -22942,6 +22942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy x Anya: Operation Memories - Digital Deluxe Edition | 275446 | [275446-spy-x-anya-operation-memories-digital-deluxe-edition.json](./275446-spy-x-anya-operation-memories-digital-deluxe-edition.json) |
 | Spy x Anya: Operation Memories - Excited Outifit Pack | 308815 | [308815-spy-x-anya-operation-memories-excited-outifit-pack.json](./308815-spy-x-anya-operation-memories-excited-outifit-pack.json) |
 | Spy x Anya: Operation Memories - Thrilling Outfit Pack | 308816 | [308816-spy-x-anya-operation-memories-thrilling-outfit-pack.json](./308816-spy-x-anya-operation-memories-thrilling-outfit-pack.json) |
+| Spy x Family Tamagotchi | 230083 | [230083-spy-x-family-tamagotchi.json](./230083-spy-x-family-tamagotchi.json) |
 | Spy-der Pig | 297005 | [297005-spy-der-pig.json](./297005-spy-der-pig.json) |
 | Spy-Trek Adventure | 70060 | [70060-spy-trek-adventure.json](./70060-spy-trek-adventure.json) |
 | Spy's Demise | 23315 | [23315-spys-demise.json](./23315-spys-demise.json) |
