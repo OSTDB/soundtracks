@@ -11246,6 +11246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulator Pack: Gas Station Simulator and Treasure Hunter Simulator | 251110 | [251110-simulator-pack-gas-station-simulator-and-treasure-hunter-simulator.json](./251110-simulator-pack-gas-station-simulator-and-treasure-hunter-simulator.json) |
 | Simulator RKM | 373215 | [373215-simulator-rkm.json](./373215-simulator-rkm.json) |
 | Simulator Simulator | 128586 | [128586-simulator-simulator.json](./128586-simulator-simulator.json) |
+| Simulator XL Bundle | 197977 | [197977-simulator-xl-bundle.json](./197977-simulator-xl-bundle.json) |
 | Simulator Z | 277838 | [277838-simulator-z.json](./277838-simulator-z.json) |
 | Simulator: Parking Lot | 323510 | [323510-simulator-parking-lot.json](./323510-simulator-parking-lot.json) |
 | Simulatte: Coffee Shop Simulator | 186501 | [186501-simulatte-coffee-shop-simulator.json](./186501-simulatte-coffee-shop-simulator.json) |
@@ -13235,6 +13236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slayser | 238760 | [238760-slayser.json](./238760-slayser.json) |
 | SlaytheCube Remake | 133898 | [133898-slaythecube-remake.json](./133898-slaythecube-remake.json) |
 | Sled Bandit | 255731 | [255731-sled-bandit.json](./255731-sled-bandit.json) |
+| Sled Mayhem | 197998 | [197998-sled-mayhem.json](./197998-sled-mayhem.json) |
 | Sled Racer | 200378 | [200378-sled-racer.json](./200378-sled-racer.json) |
 | Sled Riders | 301003 | [301003-sled-riders.json](./301003-sled-riders.json) |
 | Sled Storm | 81484 | [81484-sled-storm.json](./81484-sled-storm.json) |
@@ -19926,6 +19928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Pirateer | 293039 | [293039-space-pirateer.json](./293039-space-pirateer.json) |
 | Space Pirates | 176837 | [176837-space-pirates.json](./176837-space-pirates.json) |
 | Space Pirates for Life | 241390 | [241390-space-pirates-for-life.json](./241390-space-pirates-for-life.json) |
+| Space Pixel Swarm | 198000 | [198000-space-pixel-swarm.json](./198000-space-pixel-swarm.json) |
 | Space Pizza | 263920 | [263920-space-pizza.json](./263920-space-pizza.json) |
 | Space Plane | 160216 | [160216-space-plane.json](./160216-space-plane.json) |
 | Space Planet Invader: Cosmic Power | 305788 | [305788-space-planet-invader-cosmic-power.json](./305788-space-planet-invader-cosmic-power.json) |
@@ -26817,6 +26820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Strikes: Conquer Fantasy World | 317870 | [317870-stickman-strikes-conquer-fantasy-world.json](./317870-stickman-strikes-conquer-fantasy-world.json) |
 | Stickman Super Athletics | 85390 | [85390-stickman-super-athletics.json](./85390-stickman-super-athletics.json) |
 | Stickman Synthwave Escape | 202733 | [202733-stickman-synthwave-escape.json](./202733-stickman-synthwave-escape.json) |
+| Stickman Tennis | 198010 | [198010-stickman-tennis.json](./198010-stickman-tennis.json) |
 | Stickman Trenches | 219377 | [219377-stickman-trenches.json](./219377-stickman-trenches.json) |
 | Stickman turbo destruiction | 349465 | [349465-stickman-turbo-destruiction.json](./349465-stickman-turbo-destruiction.json) |
 | Stickman Turbo Dismounting 3D | 95841 | [95841-stickman-turbo-dismounting-3d.json](./95841-stickman-turbo-dismounting-3d.json) |
