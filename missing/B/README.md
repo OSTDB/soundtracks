@@ -4859,6 +4859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeanShooter | 256359 | [256359-beanshooter.json](./256359-beanshooter.json) |
 | Beanstalk | 201424 | [201424-beanstalk.json](./201424-beanstalk.json) |
 | Beanstalker | 94648 | [94648-beanstalker.json](./94648-beanstalker.json) |
+| BeanWars | 244541 | [244541-beanwars.json](./244541-beanwars.json) |
 | Beany Bopper | 11138 | [11138-beany-bopper.json](./11138-beany-bopper.json) |
 | Bear Adventure | 370762 | [370762-bear-adventure.json](./370762-bear-adventure.json) |
 | Bear Adventures | 192591 | [192591-bear-adventures.json](./192591-bear-adventures.json) |
@@ -5682,6 +5683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Become A History Explorer | 251391 | [251391-become-a-history-explorer.json](./251391-become-a-history-explorer.json) |
 | Become a pig | 205244 | [205244-become-a-pig.json](./205244-become-a-pig.json) |
 | Become A science Explorer | 251392 | [251392-become-a-science-explorer.json](./251392-become-a-science-explorer.json) |
+| Become a Star | 244547 | [244547-become-a-star.json](./244547-become-a-star.json) |
 | Become an Adventurer | 281949 | [281949-become-an-adventurer.json](./281949-become-an-adventurer.json) |
 | Become Barista! | 349520 | [349520-become-barista.json](./349520-become-barista.json) |
 | Become Castellane in Another World | 290501 | [290501-become-castellane-in-another-world.json](./290501-become-castellane-in-another-world.json) |
@@ -15854,6 +15856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brothers: Clash of Fighters | 252152 | [252152-brothers-clash-of-fighters.json](./252152-brothers-clash-of-fighters.json) |
 | BrotherZ | 36963 | [36963-brotherz.json](./36963-brotherz.json) |
 | Broventure: The Wild Co-op | 332270 | [332270-broventure-the-wild-co-op.json](./332270-broventure-the-wild-co-op.json) |
+| Brown Bob | 244581 | [244581-brown-bob.json](./244581-brown-bob.json) |
 | Brown Dust & Puzzle | 196553 | [196553-brown-dust-and-puzzle.json](./196553-brown-dust-and-puzzle.json) |
 | Brown Dust II | 196549 | [196549-brown-dust-ii.json](./196549-brown-dust-ii.json) |
 | Brown Stories | 133719 | [133719-brown-stories.json](./133719-brown-stories.json) |
