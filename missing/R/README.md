@@ -7693,6 +7693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riptide GP2 | 16735 | [16735-riptide-gp2.json](./16735-riptide-gp2.json) |
 | Riptoff | 142367 | [142367-riptoff.json](./142367-riptoff.json) |
 | Ripukisu | 136692 | [136692-ripukisu.json](./136692-ripukisu.json) |
+| Riri & Coco | 240560 | [240560-riri-and-coco.json](./240560-riri-and-coco.json) |
 | Riri: Origin of Surabaya | 293341 | [293341-riri-origin-of-surabaya.json](./293341-riri-origin-of-surabaya.json) |
 | Ririka von Lustveil | 398912 | [398912-ririka-von-lustveil.json](./398912-ririka-von-lustveil.json) |
 | Riruka ha Ikue ni Yoru wo Irodoru | 375368 | [375368-riruka-ha-ikue-ni-yoru-wo-irodoru.json](./375368-riruka-ha-ikue-ni-yoru-wo-irodoru.json) |
