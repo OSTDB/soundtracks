@@ -5282,6 +5282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reproduction Man | 31755 | [31755-reproduction-man.json](./31755-reproduction-man.json) |
 | reProgram | 128633 | [128633-reprogram.json](./128633-reprogram.json) |
 | Repterra | 289659 | [289659-repterra.json](./289659-repterra.json) |
+| Reptile Breeder | 203505 | [203505-reptile-breeder.json](./203505-reptile-breeder.json) |
 | Reptile Chronicles | 275980 | [275980-reptile-chronicles.json](./275980-reptile-chronicles.json) |
 | Reptile Island | 386383 | [386383-reptile-island.json](./386383-reptile-island.json) |
 | Reptile Park VR | 253863 | [253863-reptile-park-vr.json](./253863-reptile-park-vr.json) |
@@ -11763,6 +11764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RTS Siege Up! | 201936 | [201936-rts-siege-up.json](./201936-rts-siege-up.json) |
 | RTS Tactical Warfare: Siege Survival | 292458 | [292458-rts-tactical-warfare-siege-survival.json](./292458-rts-tactical-warfare-siege-survival.json) |
 | RTX Red Rock | 22243 | [22243-rtx-red-rock.json](./22243-rtx-red-rock.json) |
+| RTX Sweeper | 203502 | [203502-rtx-sweeper.json](./203502-rtx-sweeper.json) |
 | Ru Lin Wai Shi Fan Jin | 258455 | [258455-ru-lin-wai-shi-fan-jin.json](./258455-ru-lin-wai-shi-fan-jin.json) |
 | Ruadh: Warbands | 210606 | [210606-ruadh-warbands.json](./210606-ruadh-warbands.json) |
 | Ruarua.ru | 369558 | [369558-ruarua-ru.json](./369558-ruarua-ru.json) |
