@@ -5916,6 +5916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Tower | 132746 | [132746-hero-tower.json](./132746-hero-tower.json) |
 | Hero Tower Wars | 340537 | [340537-hero-tower-wars.json](./340537-hero-tower-wars.json) |
 | Hero Trial | 261593 | [261593-hero-trial.json](./261593-hero-trial.json) |
+| Hero Unit | 200244 | [200244-hero-unit.json](./200244-hero-unit.json) |
 | Hero Village Simulator | 86467 | [86467-hero-village-simulator.json](./86467-hero-village-simulator.json) |
 | Hero vs. 1000 | 302044 | [302044-hero-vs-1000.json](./302044-hero-vs-1000.json) |
 | Hero Wars | 140571 | [140571-hero-wars.json](./140571-hero-wars.json) |
@@ -6577,6 +6578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexical | 240686 | [240686-hexical.json](./240686-hexical.json) |
 | HexiHashi | 150467 | [150467-hexihashi.json](./150467-hexihashi.json) |
 | Hexile | 105544 | [105544-hexile.json](./105544-hexile.json) |
+| Hexiled | 200225 | [200225-hexiled.json](./200225-hexiled.json) |
 | Hexillume | 271019 | [271019-hexillume.json](./271019-hexillume.json) |
 | Hexin : Space Chess Game | 102211 | [102211-hexin-space-chess-game.json](./102211-hexin-space-chess-game.json) |
 | Hexio | 157451 | [157451-hexio.json](./157451-hexio.json) |
@@ -8743,6 +8745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holey Moley | 270409 | [270409-holey-moley.json](./270409-holey-moley.json) |
 | Holey Moley | 40670 | [40670-holey-moley.json](./40670-holey-moley.json) |
 | Holey Moley | 58637 | [58637-holey-moley.json](./58637-holey-moley.json) |
+| Holey Moley: Asylum | 200221 | [200221-holey-moley-asylum.json](./200221-holey-moley-asylum.json) |
 | Holey Ship | 408186 | [408186-holey-ship.json](./408186-holey-ship.json) |
 | Holfraine | 132157 | [132157-holfraine.json](./132157-holfraine.json) |
 | HolgiMan | 94213 | [94213-holgiman.json](./94213-holgiman.json) |
