@@ -5899,6 +5899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -5948,6 +5949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | May Your Memory Be a Blessing | 308422 | [308422-may-your-memory-be-a-blessing.json](./308422-may-your-memory-be-a-blessing.json) |
 | May's Journey | 320058 | [320058-mays-journey.json](./320058-mays-journey.json) |
 | May's Mysteries: The Secret of Dragonville | 17928 | [17928-mays-mysteries-the-secret-of-dragonville.json](./17928-mays-mysteries-the-secret-of-dragonville.json) |
+| May's Mysteries: The Secret of Dragonville Remastered | 214272 | [214272-mays-mysteries-the-secret-of-dragonville-remastered.json](./214272-mays-mysteries-the-secret-of-dragonville-remastered.json) |
 | May's Mystery: Forbidden Memories | 21144 | [21144-mays-mystery-forbidden-memories.json](./21144-mays-mystery-forbidden-memories.json) |
 | May's Perfect Romance | 133212 | [133212-mays-perfect-romance.json](./133212-mays-perfect-romance.json) |
 | Maya Adventure | 235232 | [235232-maya-adventure.json](./235232-maya-adventure.json) |
@@ -9193,6 +9195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merchant of the Skies | 116056 | [116056-merchant-of-the-skies.json](./116056-merchant-of-the-skies.json) |
 | Merchant Prince | 19705 | [19705-merchant-prince.json](./19705-merchant-prince.json) |
 | Merchant Prince II | 73073 | [73073-merchant-prince-ii.json](./73073-merchant-prince-ii.json) |
+| Merchant Simulator | 214265 | [214265-merchant-simulator.json](./214265-merchant-simulator.json) |
 | Merchant to the Stars | 196612 | [196612-merchant-to-the-stars.json](./196612-merchant-to-the-stars.json) |
 | Merchant: Frozen Tome | 165943 | [165943-merchant-frozen-tome.json](./165943-merchant-frozen-tome.json) |
 | Merchant's Game | 164519 | [164519-merchants-game.json](./164519-merchants-game.json) |
@@ -16502,6 +16505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon War Meta | 298071 | [298071-moon-war-meta.json](./298071-moon-war-meta.json) |
 | Moon Wars | 287233 | [287233-moon-wars.json](./287233-moon-wars.json) |
 | Moon Watch | 315789 | [315789-moon-watch.json](./315789-moon-watch.json) |
+| Moon Whalers | 214245 | [214245-moon-whalers.json](./214245-moon-whalers.json) |
 | Moon Whistle | 166142 | [166142-moon-whistle.json](./166142-moon-whistle.json) |
 | Moon: Premium Edition | 136965 | [136965-moon-premium-edition.json](./136965-moon-premium-edition.json) |
 | Moon: Remix RPG Adventure | 73672 | [73672-moon-remix-rpg-adventure.json](./73672-moon-remix-rpg-adventure.json) |
