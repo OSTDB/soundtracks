@@ -1813,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magocracy | 70339 | [70339-magocracy.json](./70339-magocracy.json) |
 | Magocracy: Experimentation | 223342 | [223342-magocracy-experimentation.json](./223342-magocracy-experimentation.json) |
 | Magpie | 302162 | [302162-magpie.json](./302162-magpie.json) |
+| Magpie Dreams | 222692 | [222692-magpie-dreams.json](./222692-magpie-dreams.json) |
 | Magret & FaceDeBouc | 274574 | [274574-magret-and-facedebouc.json](./274574-magret-and-facedebouc.json) |
 | Magrunner: Dark Pulse | 8286 | [8286-magrunner-dark-pulse.json](./8286-magrunner-dark-pulse.json) |
 | MaguMagu Pro | 165074 | [165074-magumagu-pro.json](./165074-magumagu-pro.json) |
@@ -21144,6 +21145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Uncle Merlin: A Tale of Wizards in Space | 77918 | [77918-my-uncle-merlin-a-tale-of-wizards-in-space.json](./77918-my-uncle-merlin-a-tale-of-wizards-in-space.json) |
 | My Uncle's Garden | 229776 | [229776-my-uncles-garden.json](./229776-my-uncles-garden.json) |
 | My Uncle's Story | 287350 | [287350-my-uncles-story.json](./287350-my-uncles-story.json) |
+| My Undead Neighbors: The Awakening | 222680 | [222680-my-undead-neighbors-the-awakening.json](./222680-my-undead-neighbors-the-awakening.json) |
 | My Universe Collection | 279512 | [279512-my-universe-collection.json](./279512-my-universe-collection.json) |
 | My Universe Discovery Collection | 214002 | [214002-my-universe-discovery-collection.json](./214002-my-universe-discovery-collection.json) |
 | My Universe Discovery Collection 2 | 301535 | [301535-my-universe-discovery-collection-2.json](./301535-my-universe-discovery-collection-2.json) |
