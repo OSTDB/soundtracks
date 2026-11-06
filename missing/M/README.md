@@ -950,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magekeepers | 302359 | [302359-magekeepers.json](./302359-magekeepers.json) |
 | Magemania | 247364 | [247364-magemania.json](./247364-magemania.json) |
 | Magenta | 333771 | [333771-magenta.json](./333771-magenta.json) |
+| Magenta Arcade | 202976 | [202976-magenta-arcade.json](./202976-magenta-arcade.json) |
 | Magenta Arcade II | 373639 | [373639-magenta-arcade-ii.json](./373639-magenta-arcade-ii.json) |
 | Magenta Horizon: Neverending Harvest | 177708 | [177708-magenta-horizon-neverending-harvest.json](./177708-magenta-horizon-neverending-harvest.json) |
 | Magerealm: Rise of Chaos | 12874 | [12874-magerealm-rise-of-chaos.json](./12874-magerealm-rise-of-chaos.json) |
@@ -10531,6 +10532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Breaker | 234382 | [234382-micro-breaker.json](./234382-micro-breaker.json) |
 | Micro Car Crash Online Le Go! | 123943 | [123943-micro-car-crash-online-le-go.json](./123943-micro-car-crash-online-le-go.json) |
 | Micro Commandos | 71460 | [71460-micro-commandos.json](./71460-micro-commandos.json) |
+| Micro Drive Festa | 202885 | [202885-micro-drive-festa.json](./202885-micro-drive-festa.json) |
 | Micro Gamer Shinmy | 338130 | [338130-micro-gamer-shinmy.json](./338130-micro-gamer-shinmy.json) |
 | Micro Games for Playdade! | 266242 | [266242-micro-games-for-playdade.json](./266242-micro-games-for-playdade.json) |
 | Micro Games: Volume 1 | 258368 | [258368-micro-games-volume-1.json](./258368-micro-games-volume-1.json) |
@@ -13441,6 +13443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mircea | 320739 | [320739-mircea.json](./320739-mircea.json) |
 | Mircron Wars XR | 51726 | [51726-mircron-wars-xr.json](./51726-mircron-wars-xr.json) |
 | Mire | 199393 | [199393-mire.json](./199393-mire.json) |
+| Mire | 202893 | [202893-mire.json](./202893-mire.json) |
 | Mire | 339823 | [339823-mire.json](./339823-mire.json) |
 | Mirealle | 352390 | [352390-mirealle.json](./352390-mirealle.json) |
 | Mireglow | 413366 | [413366-mireglow.json](./413366-mireglow.json) |
@@ -18938,6 +18941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muffles' Life Sentence: Episode 3 | 344658 | [344658-muffles-life-sentence-episode-3.json](./344658-muffles-life-sentence-episode-3.json) |
 | Muffy Boy | 61271 | [61271-muffy-boy.json](./61271-muffy-boy.json) |
 | Mug | 322830 | [322830-mug.json](./322830-mug.json) |
+| Muga | 202889 | [202889-muga.json](./202889-muga.json) |
 | Mugalon Poker | 232351 | [232351-mugalon-poker.json](./232351-mugalon-poker.json) |
 | Mugamuchuu | 150166 | [150166-mugamuchuu.json](./150166-mugamuchuu.json) |
 | Mugen Abisu | 190959 | [190959-mugen-abisu.json](./190959-mugen-abisu.json) |
