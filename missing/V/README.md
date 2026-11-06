@@ -1596,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Versus: The Deathscapes | 157414 | [157414-versus-the-deathscapes.json](./157414-versus-the-deathscapes.json) |
 | Versus: The Elite Trials | 30025 | [30025-versus-the-elite-trials.json](./30025-versus-the-elite-trials.json) |
 | Versus: The Lost Ones | 34598 | [34598-versus-the-lost-ones.json](./34598-versus-the-lost-ones.json) |
+| Versus: Unfriendly Frenzy | 198008 | [198008-versus-unfriendly-frenzy.json](./198008-versus-unfriendly-frenzy.json) |
 | Versus. | 201700 | [201700-versus.json](./201700-versus.json) |
 | VertalStrike | 400892 | [400892-vertalstrike.json](./400892-vertalstrike.json) |
 | Vertex | 142255 | [142255-vertex.json](./142255-vertex.json) |
@@ -3730,6 +3731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel World | 88247 | [88247-voxel-world.json](./88247-voxel-world.json) |
 | Voxelantis | 413012 | [413012-voxelantis.json](./413012-voxelantis.json) |
 | Voxelaxy | 51967 | [51967-voxelaxy.json](./51967-voxelaxy.json) |
+| VoxelCity | 198002 | [198002-voxelcity.json](./198002-voxelcity.json) |
 | Voxeldom | 62180 | [62180-voxeldom.json](./62180-voxeldom.json) |
 | Voxelfield | 137581 | [137581-voxelfield.json](./137581-voxelfield.json) |
 | Voxelgram | 122807 | [122807-voxelgram.json](./122807-voxelgram.json) |
