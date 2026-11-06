@@ -184,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Collector | 171615 | [171615-waifu-collector.json](./171615-waifu-collector.json) |
 | Waifu Covered 2: Censored Edition | 392892 | [392892-waifu-covered-2-censored-edition.json](./392892-waifu-covered-2-censored-edition.json) |
 | Waifu Crush | 188522 | [188522-waifu-crush.json](./188522-waifu-crush.json) |
+| Waifu Desire | 226577 | [226577-waifu-desire.json](./226577-waifu-desire.json) |
 | Waifu Discovered 2: Medieval Fantasy | 375391 | [375391-waifu-discovered-2-medieval-fantasy.json](./375391-waifu-discovered-2-medieval-fantasy.json) |
 | Waifu Discovered 3: Cyberpunk Fantasy | 409881 | [409881-waifu-discovered-3-cyberpunk-fantasy.json](./409881-waifu-discovered-3-cyberpunk-fantasy.json) |
 | Waifu Fighter: Family Friendly | 236311 | [236311-waifu-fighter-family-friendly.json](./236311-waifu-fighter-family-friendly.json) |
@@ -2026,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wars Across the World: Estonia 1918 | 159624 | [159624-wars-across-the-world-estonia-1918.json](./159624-wars-across-the-world-estonia-1918.json) |
 | Wars Across the World: Eunus 133 | 205855 | [205855-wars-across-the-world-eunus-133.json](./205855-wars-across-the-world-eunus-133.json) |
 | Wars Across the World: Expanded Collection | 53922 | [53922-wars-across-the-world-expanded-collection.json](./53922-wars-across-the-world-expanded-collection.json) |
+| Wars Across the World: Finland 1808 | 226539 | [226539-wars-across-the-world-finland-1808.json](./226539-wars-across-the-world-finland-1808.json) |
 | Wars Across the World: Finland 1918 | 159600 | [159600-wars-across-the-world-finland-1918.json](./159600-wars-across-the-world-finland-1918.json) |
 | Wars Across the World: Franche-Comté 1636 | 155180 | [155180-wars-across-the-world-franche-comte-1636.json](./155180-wars-across-the-world-franche-comte-1636.json) |
 | Wars Across the World: Galicia 1914 | 155184 | [155184-wars-across-the-world-galicia-1914.json](./155184-wars-across-the-world-galicia-1914.json) |
@@ -3956,6 +3958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheels of Duty | 271553 | [271553-wheels-of-duty.json](./271553-wheels-of-duty.json) |
 | Wheels of Duty: Survival Modes | 271554 | [271554-wheels-of-duty-survival-modes.json](./271554-wheels-of-duty-survival-modes.json) |
 | Wheels of Fire | 70259 | [70259-wheels-of-fire.json](./70259-wheels-of-fire.json) |
+| Wheels of War | 226573 | [226573-wheels-of-war.json](./226573-wheels-of-war.json) |
 | Wheels on Fire | 233067 | [233067-wheels-on-fire.json](./233067-wheels-on-fire.json) |
 | Wheels on Fire | 78030 | [78030-wheels-on-fire.json](./78030-wheels-on-fire.json) |
 | Wheels on Impossible Ramp | 174887 | [174887-wheels-on-impossible-ramp.json](./174887-wheels-on-impossible-ramp.json) |
@@ -5625,6 +5628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windrunner | 412780 | [412780-windrunner.json](./412780-windrunner.json) |
 | Windrush Tales | 180269 | [180269-windrush-tales.json](./180269-windrush-tales.json) |
 | Winds & Leaves | 159284 | [159284-winds-and-leaves.json](./159284-winds-and-leaves.json) |
+| Winds of Arcana: Ruination | 226574 | [226574-winds-of-arcana-ruination.json](./226574-winds-of-arcana-ruination.json) |
 | Winds of Change | 95019 | [95019-winds-of-change.json](./95019-winds-of-change.json) |
 | Winds of Change - The Opening Act | 118812 | [118812-winds-of-change-the-opening-act.json](./118812-winds-of-change-the-opening-act.json) |
 | Winds of Destiny - Duels of the Magi | 39002 | [39002-winds-of-destiny-duels-of-the-magi.json](./39002-winds-of-destiny-duels-of-the-magi.json) |
@@ -5795,6 +5799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wingspan Oceania Deluxe Bundle | 331509 | [331509-wingspan-oceania-deluxe-bundle.json](./331509-wingspan-oceania-deluxe-bundle.json) |
 | Wingspan: Bird Pack - British Birds | 414782 | [414782-wingspan-bird-pack-british-birds.json](./414782-wingspan-bird-pack-british-birds.json) |
 | Wingspan: European Expansion | 197499 | [197499-wingspan-european-expansion.json](./197499-wingspan-european-expansion.json) |
+| Wingspan: Oceania Expansion | 226575 | [226575-wingspan-oceania-expansion.json](./226575-wingspan-oceania-expansion.json) |
 | Wingspan: Seasonal Decorative Pack 2 | 414783 | [414783-wingspan-seasonal-decorative-pack-2.json](./414783-wingspan-seasonal-decorative-pack-2.json) |
 | Wingspan: Special Edition | 154223 | [154223-wingspan-special-edition.json](./154223-wingspan-special-edition.json) |
 | Wingspan: The Board Game | 174266 | [174266-wingspan-the-board-game.json](./174266-wingspan-the-board-game.json) |
@@ -8739,6 +8744,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms: Ultimate Mayhem | 9333 | [9333-worms-ultimate-mayhem.json](./9333-worms-ultimate-mayhem.json) |
 | Worms: Ultimate Mayhem - Customization Pack | 225090 | [225090-worms-ultimate-mayhem-customization-pack.json](./225090-worms-ultimate-mayhem-customization-pack.json) |
 | Worms: Ultimate Mayhem - Deluxe Edition | 52112 | [52112-worms-ultimate-mayhem-deluxe-edition.json](./52112-worms-ultimate-mayhem-deluxe-edition.json) |
+| Worms: Ultimate Mayhem - Multiplayer Pack | 226569 | [226569-worms-ultimate-mayhem-multiplayer-pack.json](./226569-worms-ultimate-mayhem-multiplayer-pack.json) |
+| Worms: Ultimate Mayhem - Single Player Pack | 226570 | [226570-worms-ultimate-mayhem-single-player-pack.json](./226570-worms-ultimate-mayhem-single-player-pack.json) |
 | Worms? | 24714 | [24714-worms.json](./24714-worms.json) |
 | Wormskull | 143952 | [143952-wormskull.json](./143952-wormskull.json) |
 | Wormspell | 317981 | [317981-wormspell.json](./317981-wormspell.json) |
@@ -9228,6 +9235,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K21 | 132815 | [132815-wwe-2k21.json](./132815-wwe-2k21.json) |
 | WWE 2K22 | 145780 | [145780-wwe-2k22.json](./145780-wwe-2k22.json) |
 | WWE 2K22 SuperCharger | 231673 | [231673-wwe-2k22-supercharger.json](./231673-wwe-2k22-supercharger.json) |
+| WWE 2K22: Banzai Pack | 226571 | [226571-wwe-2k22-banzai-pack.json](./226571-wwe-2k22-banzai-pack.json) |
+| WWE 2K22: Clowning Around Pack | 226572 | [226572-wwe-2k22-clowning-around-pack.json](./226572-wwe-2k22-clowning-around-pack.json) |
 | WWE 2K22: Deluxe Edition | 188127 | [188127-wwe-2k22-deluxe-edition.json](./188127-wwe-2k22-deluxe-edition.json) |
 | WWE 2K22: Most Wanted Pack | 230986 | [230986-wwe-2k22-most-wanted-pack.json](./230986-wwe-2k22-most-wanted-pack.json) |
 | WWE 2K22: nWo 4-Life - Bonus Pack | 226115 | [226115-wwe-2k22-nwo-4-life-bonus-pack.json](./226115-wwe-2k22-nwo-4-life-bonus-pack.json) |
