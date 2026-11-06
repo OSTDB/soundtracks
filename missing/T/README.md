@@ -1608,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talparun | 268905 | [268905-talparun.json](./268905-talparun.json) |
 | Talsaluq: Tower of Infinity | 76301 | [76301-talsaluq-tower-of-infinity.json](./76301-talsaluq-tower-of-infinity.json) |
 | Talshard | 127821 | [127821-talshard.json](./127821-talshard.json) |
+| Talus | 226012 | [226012-talus.json](./226012-talus.json) |
 | Talus | 310875 | [310875-talus.json](./310875-talus.json) |
 | Talvisota: Icy Hell | 9095 | [9095-talvisota-icy-hell.json](./9095-talvisota-icy-hell.json) |
 | Talvisota: Winter War | 286414 | [286414-talvisota-winter-war.json](./286414-talvisota-winter-war.json) |
@@ -10492,6 +10493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heart of Tales | 177499 | [177499-the-heart-of-tales.json](./177499-the-heart-of-tales.json) |
 | The Heart of the Earth | 382842 | [382842-the-heart-of-the-earth.json](./382842-the-heart-of-the-earth.json) |
 | The Heart of the Earth | 44272 | [44272-the-heart-of-the-earth.json](./44272-the-heart-of-the-earth.json) |
+| The Heart of the Teddy Bear | 226049 | [226049-the-heart-of-the-teddy-bear.json](./226049-the-heart-of-the-teddy-bear.json) |
 | The Heart Pumps Clay | 122891 | [122891-the-heart-pumps-clay.json](./122891-the-heart-pumps-clay.json) |
 | The Heart's Illumination | 134859 | [134859-the-hearts-illumination.json](./134859-the-hearts-illumination.json) |
 | The Heartbeat | 149610 | [149610-the-heartbeat.json](./149610-the-heartbeat.json) |
@@ -10576,6 +10578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Herzbury Curse | 381351 | [381351-the-herzbury-curse.json](./381351-the-herzbury-curse.json) |
 | The Hi-Finesse: 2D | 25909 | [25909-the-hi-finesse-2d.json](./25909-the-hi-finesse-2d.json) |
 | The Hidden | 85437 | [85437-the-hidden.json](./85437-the-hidden.json) |
+| The Hidden and Unknown | 226040 | [226040-the-hidden-and-unknown.json](./226040-the-hidden-and-unknown.json) |
 | The Hidden Art of Innkeeping | 269192 | [269192-the-hidden-art-of-innkeeping.json](./269192-the-hidden-art-of-innkeeping.json) |
 | The Hidden Below | 9357 | [9357-the-hidden-below.json](./9357-the-hidden-below.json) |
 | The Hidden Dragon | 32157 | [32157-the-hidden-dragon.json](./32157-the-hidden-dragon.json) |
@@ -18965,6 +18968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Word is Not the Thing | 74468 | [74468-the-word-is-not-the-thing.json](./74468-the-word-is-not-the-thing.json) |
 | The Wordland Scape | 183807 | [183807-the-wordland-scape.json](./183807-the-wordland-scape.json) |
 | The Words Within | 191657 | [191657-the-words-within.json](./191657-the-words-within.json) |
+| The Work of Your Hands | 226054 | [226054-the-work-of-your-hands.json](./226054-the-work-of-your-hands.json) |
 | The World | 158923 | [158923-the-world.json](./158923-the-world.json) |
 | The World 21: Gambit Abyss | 379099 | [379099-the-world-21-gambit-abyss.json](./379099-the-world-21-gambit-abyss.json) |
 | The World 3: Rise of Demon | 91965 | [91965-the-world-3-rise-of-demon.json](./91965-the-world-3-rise-of-demon.json) |
