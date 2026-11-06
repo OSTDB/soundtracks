@@ -175,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaccaria Pinball: Shooting the Rapids | 156099 | [156099-zaccaria-pinball-shooting-the-rapids.json](./156099-zaccaria-pinball-shooting-the-rapids.json) |
 | Zaccaria Pinball: Shooting the Rapids - 2016 Table | 344575 | [344575-zaccaria-pinball-shooting-the-rapids-2016-table.json](./344575-zaccaria-pinball-shooting-the-rapids-2016-table.json) |
 | Zaccaria Pinball: Shooting the Rapids Deluxe Pinball Table | 349920 | [349920-zaccaria-pinball-shooting-the-rapids-deluxe-pinball-table.json](./349920-zaccaria-pinball-shooting-the-rapids-deluxe-pinball-table.json) |
+| Zaccaria Pinball: Shooting the Rapids Table | 206324 | [206324-zaccaria-pinball-shooting-the-rapids-table.json](./206324-zaccaria-pinball-shooting-the-rapids-table.json) |
 | Zaccaria Pinball: Soccer Kings Deluxe Pinball Table | 349917 | [349917-zaccaria-pinball-soccer-kings-deluxe-pinball-table.json](./349917-zaccaria-pinball-soccer-kings-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Soccer Kings Table | 158471 | [158471-zaccaria-pinball-soccer-kings-table.json](./158471-zaccaria-pinball-soccer-kings-table.json) |
 | Zaccaria Pinball: Solid-State Table Pack 2 | 237985 | [237985-zaccaria-pinball-solid-state-table-pack-2.json](./237985-zaccaria-pinball-solid-state-table-pack-2.json) |
