@@ -15593,6 +15593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rift Between Us | 258606 | [258606-the-rift-between-us.json](./258606-the-rift-between-us.json) |
 | The Riftbreaker | 115991 | [115991-the-riftbreaker.json](./115991-the-riftbreaker.json) |
 | The Riftbreaker: Complete Edition | 331254 | [331254-the-riftbreaker-complete-edition.json](./331254-the-riftbreaker-complete-edition.json) |
+| The Riftbreaker: Deluxe Edition | 210936 | [210936-the-riftbreaker-deluxe-edition.json](./210936-the-riftbreaker-deluxe-edition.json) |
 | The Riftbreaker: Heart of the Swamp | 263033 | [263033-the-riftbreaker-heart-of-the-swamp.json](./263033-the-riftbreaker-heart-of-the-swamp.json) |
 | The Riftbreaker: Into The Dark | 251317 | [251317-the-riftbreaker-into-the-dark.json](./251317-the-riftbreaker-into-the-dark.json) |
 | The Riftbreaker: World Expansion II | 220511 | [220511-the-riftbreaker-world-expansion-ii.json](./220511-the-riftbreaker-world-expansion-ii.json) |
@@ -24468,6 +24469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo School Girl | 289940 | [289940-tokyo-school-girl.json](./289940-tokyo-school-girl.json) |
 | Tokyo Shadow | 209609 | [209609-tokyo-shadow.json](./209609-tokyo-shadow.json) |
 | Tokyo Snap | 114919 | [114919-tokyo-snap.json](./114919-tokyo-snap.json) |
+| Tokyo Stories | 210817 | [210817-tokyo-stories.json](./210817-tokyo-stories.json) |
 | Tokyo Stranger | 220700 | [220700-tokyo-stranger.json](./220700-tokyo-stranger.json) |
 | Tokyo Tattoo Girls | 27260 | [27260-tokyo-tattoo-girls.json](./27260-tokyo-tattoo-girls.json) |
 | Tokyo Train 4 | 311452 | [311452-tokyo-train-4.json](./311452-tokyo-train-4.json) |
