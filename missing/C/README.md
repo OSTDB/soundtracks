@@ -6865,6 +6865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessers | 150357 | [150357-chessers.json](./150357-chessers.json) |
 | ChessFinity | 333331 | [333331-chessfinity.json](./333331-chessfinity.json) |
 | Chessformer | 163683 | [163683-chessformer.json](./163683-chessformer.json) |
+| ChessFourTwo | 213082 | [213082-chessfourtwo.json](./213082-chessfourtwo.json) |
 | ChessFriends.com | 131095 | [131095-chessfriends-com.json](./131095-chessfriends-com.json) |
 | Chessie Chicken | 195611 | [195611-chessie-chicken.json](./195611-chessie-chicken.json) |
 | Chessium: 3D Chess Battle | 271646 | [271646-chessium-3d-chess-battle.json](./271646-chessium-3d-chess-battle.json) |
@@ -14096,6 +14097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Convrgence | 269281 | [269281-convrgence.json](./269281-convrgence.json) |
 | Convrgence: Supporter Pack | 304461 | [304461-convrgence-supporter-pack.json](./304461-convrgence-supporter-pack.json) |
 | Conway | 282112 | [282112-conway.json](./282112-conway.json) |
+| Conway's Game of Life | 213117 | [213117-conways-game-of-life.json](./213117-conways-game-of-life.json) |
 | Conway's Game of Life | 77879 | [77879-conways-game-of-life.json](./77879-conways-game-of-life.json) |
 | CoogyLoop | 242567 | [242567-coogyloop.json](./242567-coogyloop.json) |
 | Cook and Play: Animal Friends | 366735 | [366735-cook-and-play-animal-friends.json](./366735-cook-and-play-animal-friends.json) |
@@ -18808,6 +18810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CTcity | 174088 | [174088-ctcity.json](./174088-ctcity.json) |
 | Ctesiphon | 349420 | [349420-ctesiphon.json](./349420-ctesiphon.json) |
 | CTGP Deluxe | 311038 | [311038-ctgp-deluxe.json](./311038-ctgp-deluxe.json) |
+| CTGP Nitro | 213104 | [213104-ctgp-nitro.json](./213104-ctgp-nitro.json) |
 | CTGP-7 | 209549 | [209549-ctgp-7.json](./209549-ctgp-7.json) |
 | CTGP-Universe | 232873 | [232873-ctgp-universe.json](./232873-ctgp-universe.json) |
 | Cthon | 29456 | [29456-cthon.json](./29456-cthon.json) |
