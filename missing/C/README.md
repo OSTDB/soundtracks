@@ -7520,6 +7520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | China Warrior | 42127 | [42127-china-warrior.json](./42127-china-warrior.json) |
 | China: Mao's legacy | 116880 | [116880-china-maos-legacy.json](./116880-china-maos-legacy.json) |
 | China: Mao's legacy - Bombard the Headquarters | 227715 | [227715-china-maos-legacy-bombard-the-headquarters.json](./227715-china-maos-legacy-bombard-the-headquarters.json) |
+| China: Mao's Legacy - Homeland or Death | 204049 | [204049-china-maos-legacy-homeland-or-death.json](./204049-china-maos-legacy-homeland-or-death.json) |
 | China: Mao's Legacy - Ways of Life | 290840 | [290840-china-maos-legacy-ways-of-life.json](./290840-china-maos-legacy-ways-of-life.json) |
 | China: The Forbidden City | 69629 | [69629-china-the-forbidden-city.json](./69629-china-the-forbidden-city.json) |
 | Chinami Holic | 387661 | [387661-chinami-holic.json](./387661-chinami-holic.json) |
