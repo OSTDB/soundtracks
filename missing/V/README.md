@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Adventures: Cruise Director 5 | 180009 | [180009-vacation-adventures-cruise-director-5.json](./180009-vacation-adventures-cruise-director-5.json) |
 | Vacation Adventures: Cruise Director 6 | 201597 | [201597-vacation-adventures-cruise-director-6.json](./201597-vacation-adventures-cruise-director-6.json) |
 | Vacation Adventures: Cruise Director 6 - Collector's Edition | 416159 | [416159-vacation-adventures-cruise-director-6-collectors-edition.json](./416159-vacation-adventures-cruise-director-6-collectors-edition.json) |
+| Vacation Adventures: Cruise Director 7 | 207476 | [207476-vacation-adventures-cruise-director-7.json](./207476-vacation-adventures-cruise-director-7.json) |
 | Vacation Adventures: Cruise Director 8 - Collector's Edition | 248015 | [248015-vacation-adventures-cruise-director-8-collectors-edition.json](./248015-vacation-adventures-cruise-director-8-collectors-edition.json) |
 | Vacation Adventures: Park Ranger | 85464 | [85464-vacation-adventures-park-ranger.json](./85464-vacation-adventures-park-ranger.json) |
 | Vacation Adventures: Park Ranger 10 | 169119 | [169119-vacation-adventures-park-ranger-10.json](./169119-vacation-adventures-park-ranger-10.json) |
@@ -4241,6 +4242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vulcanology: The MiniSeries Collection | 70165 | [70165-vulcanology-the-miniseries-collection.json](./70165-vulcanology-the-miniseries-collection.json) |
 | Vulcanus | 91843 | [91843-vulcanus.json](./91843-vulcanus.json) |
 | Vulcard | 351715 | [351715-vulcard.json](./351715-vulcard.json) |
+| Vulgaria | 207471 | [207471-vulgaria.json](./207471-vulgaria.json) |
 | Vulgord's Tower | 151292 | [151292-vulgords-tower.json](./151292-vulgords-tower.json) |
 | Vulgus | 25886 | [25886-vulgus.json](./25886-vulgus.json) |
 | Vulpin Adventures | 299360 | [299360-vulpin-adventures.json](./299360-vulpin-adventures.json) |
