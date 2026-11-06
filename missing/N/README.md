@@ -1918,6 +1918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neighbor | 144366 | [144366-neighbor.json](./144366-neighbor.json) |
 | Neighbor | 181842 | [181842-neighbor.json](./181842-neighbor.json) |
 | Neighbor Diana | 167172 | [167172-neighbor-diana.json](./167172-neighbor-diana.json) |
+| Neighbor Fight | 201378 | [201378-neighbor-fight.json](./201378-neighbor-fight.json) |
 | Neighbor from Nightmare | 95805 | [95805-neighbor-from-nightmare.json](./95805-neighbor-from-nightmare.json) |
 | Neighbor Master | 383461 | [383461-neighbor-master.json](./383461-neighbor-master.json) |
 | Neighbor Next Door | 309668 | [309668-neighbor-next-door.json](./309668-neighbor-next-door.json) |
@@ -4259,6 +4260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Lights | 26698 | [26698-night-lights.json](./26698-night-lights.json) |
 | Night Lights | 409018 | [409018-night-lights.json](./409018-night-lights.json) |
 | Night Lights: After Dark | 409019 | [409019-night-lights-after-dark.json](./409019-night-lights-after-dark.json) |
+| Night Loops | 201352 | [201352-night-loops.json](./201352-night-loops.json) |
 | Night Lurker | 403550 | [403550-night-lurker.json](./403550-night-lurker.json) |
 | Night Machine | 308033 | [308033-night-machine.json](./308033-night-machine.json) |
 | Night Magic | 109747 | [109747-night-magic.json](./109747-night-magic.json) |
