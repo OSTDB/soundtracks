@@ -10214,6 +10214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Classic Games Collection | 172397 | [172397-disney-classic-games-collection.json](./172397-disney-classic-games-collection.json) |
 | Disney Classic Games: Aladdin and The Lion King | 122082 | [122082-disney-classic-games-aladdin-and-the-lion-king.json](./122082-disney-classic-games-aladdin-and-the-lion-king.json) |
 | Disney Classic Games: Aladdin and The Lion King - The Jungle Book and More Aladdin Pack | 204668 | [204668-disney-classic-games-aladdin-and-the-lion-king-the-jungle-book-and-more-aladdin-pack.json](./204668-disney-classic-games-aladdin-and-the-lion-king-the-jungle-book-and-more-aladdin-pack.json) |
+| Disney Classic Games: Aladdin, The Lion King and The Jungle Book | 241721 | [241721-disney-classic-games-aladdin-the-lion-king-and-the-jungle-book.json](./241721-disney-classic-games-aladdin-the-lion-king-and-the-jungle-book.json) |
 | Disney Classics: Master Mouse - Show Time Quiz | 228447 | [228447-disney-classics-master-mouse-show-time-quiz.json](./228447-disney-classics-master-mouse-show-time-quiz.json) |
 | Disney Coloring Book | 290321 | [290321-disney-coloring-book.json](./290321-disney-coloring-book.json) |
 | Disney Crossy Road | 58672 | [58672-disney-crossy-road.json](./58672-disney-crossy-road.json) |
