@@ -15717,6 +15717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer | 172399 | [172399-soccer.json](./172399-soccer.json) |
 | Soccer | 172594 | [172594-soccer.json](./172594-soccer.json) |
 | Soccer | 18441 | [18441-soccer.json](./18441-soccer.json) |
+| Soccer | 217640 | [217640-soccer.json](./217640-soccer.json) |
 | Soccer | 217962 | [217962-soccer.json](./217962-soccer.json) |
 | Soccer | 243822 | [243822-soccer.json](./243822-soccer.json) |
 | Soccer | 245406 | [245406-soccer.json](./245406-soccer.json) |
@@ -16961,6 +16962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song of Horror: Episode 2 | 135149 | [135149-song-of-horror-episode-2.json](./135149-song-of-horror-episode-2.json) |
 | Song of Horror: One Shot Challenge | 273565 | [273565-song-of-horror-one-shot-challenge.json](./273565-song-of-horror-one-shot-challenge.json) |
 | Song of Iron | 132756 | [132756-song-of-iron.json](./132756-song-of-iron.json) |
+| Song of Iron II | 217637 | [217637-song-of-iron-ii.json](./217637-song-of-iron-ii.json) |
 | Song of Knightroid | 413933 | [413933-song-of-knightroid.json](./413933-song-of-knightroid.json) |
 | Song of Memories | 76655 | [76655-song-of-memories.json](./76655-song-of-memories.json) |
 | Song of Morus: Limbo Express | 347492 | [347492-song-of-morus-limbo-express.json](./347492-song-of-morus-limbo-express.json) |
@@ -19371,6 +19373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Fever | 39974 | [39974-space-fever.json](./39974-space-fever.json) |
 | Space Fever II | 356423 | [356423-space-fever-ii.json](./356423-space-fever-ii.json) |
 | Space Fight | 216763 | [216763-space-fight.json](./216763-space-fight.json) |
+| Space Fight | 217627 | [217627-space-fight.json](./217627-space-fight.json) |
 | Space Fight of Gun | 287344 | [287344-space-fight-of-gun.json](./287344-space-fight-of-gun.json) |
 | Space Fighter | 172531 | [172531-space-fighter.json](./172531-space-fighter.json) |
 | Space Fighter | 367708 | [367708-space-fighter.json](./367708-space-fighter.json) |
@@ -24315,6 +24318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Legends | 145883 | [145883-star-trek-legends.json](./145883-star-trek-legends.json) |
 | Star Trek: Legends - Complete Edition | 331851 | [331851-star-trek-legends-complete-edition.json](./331851-star-trek-legends-complete-edition.json) |
 | Star Trek: Legends - Spock Edition | 385209 | [385209-star-trek-legends-spock-edition.json](./385209-star-trek-legends-spock-edition.json) |
+| Star Trek: Lower Decks | 217598 | [217598-star-trek-lower-decks.json](./217598-star-trek-lower-decks.json) |
 | Star Trek: New Worlds | 19425 | [19425-star-trek-new-worlds.json](./19425-star-trek-new-worlds.json) |
 | Star Trek: Resurgence | 185255 | [185255-star-trek-resurgence.json](./185255-star-trek-resurgence.json) |
 | Star Trek: Secret of Vulcan Fury | 69125 | [69125-star-trek-secret-of-vulcan-fury.json](./69125-star-trek-secret-of-vulcan-fury.json) |
@@ -24580,6 +24584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Starfighter - Special Edition | 242773 | [242773-star-wars-starfighter-special-edition.json](./242773-star-wars-starfighter-special-edition.json) |
 | Star Wars: Super Bombad Racing | 18046 | [18046-star-wars-super-bombad-racing.json](./18046-star-wars-super-bombad-racing.json) |
 | Star Wars: Tales from the Galaxy's Edge | 134957 | [134957-star-wars-tales-from-the-galaxys-edge.json](./134957-star-wars-tales-from-the-galaxys-edge.json) |
+| Star Wars: Tales from the Galaxy’s Edge - Enhanced Edition | 217591 | [217591-star-wars-tales-from-the-galaxy-s-edge-enhanced-edition.json](./217591-star-wars-tales-from-the-galaxy-s-edge-enhanced-edition.json) |
 | Star Wars: Tales from the Galaxy's Edge - Last Call | 166008 | [166008-star-wars-tales-from-the-galaxys-edge-last-call.json](./166008-star-wars-tales-from-the-galaxys-edge-last-call.json) |
 | Star Wars: The Battle Above Coruscant | 75561 | [75561-star-wars-the-battle-above-coruscant.json](./75561-star-wars-the-battle-above-coruscant.json) |
 | Star Wars: The Battle for Hoth | 66424 | [66424-star-wars-the-battle-for-hoth.json](./66424-star-wars-the-battle-for-hoth.json) |
@@ -32920,6 +32925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Speed Machines | 47816 | [47816-super-speed-machines.json](./47816-super-speed-machines.json) |
 | Super Speed Race 64 | 136856 | [136856-super-speed-race-64.json](./136856-super-speed-race-64.json) |
 | Super Speed Race Jr. | 342139 | [342139-super-speed-race-jr.json](./342139-super-speed-race-jr.json) |
+| Super Speedway: Car Racing | 217658 | [217658-super-speedway-car-racing.json](./217658-super-speedway-car-racing.json) |
 | Super Spell Heroes | 106859 | [106859-super-spell-heroes.json](./106859-super-spell-heroes.json) |
 | Super Spelling Ducks | 280341 | [280341-super-spelling-ducks.json](./280341-super-spelling-ducks.json) |
 | Super Spike V'Ball | 48073 | [48073-super-spike-vball.json](./48073-super-spike-vball.json) |
