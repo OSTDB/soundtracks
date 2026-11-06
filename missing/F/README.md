@@ -12080,6 +12080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Corner | 293683 | [293683-frog-corner.json](./293683-frog-corner.json) |
 | Frog Daddy's Dash | 229255 | [229255-frog-daddys-dash.json](./229255-frog-daddys-dash.json) |
 | Frog Dares | 412136 | [412136-frog-dares.json](./412136-frog-dares.json) |
+| Frog Days | 225443 | [225443-frog-days.json](./225443-frog-days.json) |
 | Frog Demon | 113289 | [113289-frog-demon.json](./113289-frog-demon.json) |
 | Frog Detective -1 | 325675 | [325675-frog-detective-1.json](./325675-frog-detective-1.json) |
 | Frog Detective 2: The Case of the Invisible Wizard | 121338 | [121338-frog-detective-2-the-case-of-the-invisible-wizard.json](./121338-frog-detective-2-the-case-of-the-invisible-wizard.json) |
@@ -12282,6 +12283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogmaster | 268035 | [268035-frogmaster.json](./268035-frogmaster.json) |
 | Frogmonster | 187372 | [187372-frogmonster.json](./187372-frogmonster.json) |
 | Frogo | 208426 | [208426-frogo.json](./208426-frogo.json) |
+| Frogo 3 | 225444 | [225444-frogo-3.json](./225444-frogo-3.json) |
 | Frogo Jump | 293601 | [293601-frogo-jump.json](./293601-frogo-jump.json) |
 | Frogrammer | 349074 | [349074-frogrammer.json](./349074-frogrammer.json) |
 | Frogreign | 260558 | [260558-frogreign.json](./260558-frogreign.json) |
