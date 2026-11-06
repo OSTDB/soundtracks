@@ -10344,6 +10344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Mirror | 57894 | [57894-pocket-mirror.json](./57894-pocket-mirror.json) |
 | Pocket Mobsters | 63146 | [63146-pocket-mobsters.json](./63146-pocket-mobsters.json) |
 | Pocket Monster | 196530 | [196530-pocket-monster.json](./196530-pocket-monster.json) |
+| Pocket Monster | 213127 | [213127-pocket-monster.json](./213127-pocket-monster.json) |
 | Pocket Monster | 45692 | [45692-pocket-monster.json](./45692-pocket-monster.json) |
 | Pocket Monster II | 45691 | [45691-pocket-monster-ii.json](./45691-pocket-monster-ii.json) |
 | Pocket Monsters Advanced Generation: Minna de Pico Pokémon Waiwai Battle! | 63048 | [63048-pocket-monsters-advanced-generation-minna-de-pico-pokemon-waiwai-battle.json](./63048-pocket-monsters-advanced-generation-minna-de-pico-pokemon-waiwai-battle.json) |
