@@ -5116,6 +5116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seikimatsu Tanemaki Densetsu: Shoujo Yuugi - Ai Notameni Shine! | 67265 | [67265-seikimatsu-tanemaki-densetsu-shoujo-yuugi-ai-notameni-shine.json](./67265-seikimatsu-tanemaki-densetsu-shoujo-yuugi-ai-notameni-shine.json) |
 | Seikishi Melty Lovers | 372565 | [372565-seikishi-melty-lovers.json](./372565-seikishi-melty-lovers.json) |
 | Seiklus | 19116 | [19116-seiklus.json](./19116-seiklus.json) |
+| Seiko: High! Low! | 227639 | [227639-seiko-high-low.json](./227639-seiko-high-low.json) |
 | Seikoku 1092: Souhei-den | 351984 | [351984-seikoku-1092-souhei-den.json](./351984-seikoku-1092-souhei-den.json) |
 | Seilane | 92130 | [92130-seilane.json](./92130-seilane.json) |
 | Seimbein | 135877 | [135877-seimbein.json](./135877-seimbein.json) |
@@ -12474,6 +12475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Harrier: Alpha Code | 189044 | [189044-sky-harrier-alpha-code.json](./189044-sky-harrier-alpha-code.json) |
 | Sky Harvest | 258242 | [258242-sky-harvest.json](./258242-sky-harvest.json) |
 | Sky Haven | 82463 | [82463-sky-haven.json](./82463-sky-haven.json) |
+| Sky Haven Tycoon | 227628 | [227628-sky-haven-tycoon.json](./227628-sky-haven-tycoon.json) |
 | Sky Haven: AR Merge Adventure | 236696 | [236696-sky-haven-ar-merge-adventure.json](./236696-sky-haven-ar-merge-adventure.json) |
 | Sky Hawk | 93723 | [93723-sky-hawk.json](./93723-sky-hawk.json) |
 | Sky Hex | 261862 | [261862-sky-hex.json](./261862-sky-hex.json) |
@@ -22618,6 +22620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sportsman's Paradise 2 | 126293 | [126293-sportsmans-paradise-2.json](./126293-sportsmans-paradise-2.json) |
 | Sportvida CyberDash | 332914 | [332914-sportvida-cyberdash.json](./332914-sportvida-cyberdash.json) |
 | Sporty Games | 188899 | [188899-sporty-games.json](./188899-sporty-games.json) |
+| Sporty Peppers | 227621 | [227621-sporty-peppers.json](./227621-sporty-peppers.json) |
 | Spot | 119584 | [119584-spot.json](./119584-spot.json) |
 | Spot and His Friends | 208768 | [208768-spot-and-his-friends.json](./208768-spot-and-his-friends.json) |
 | Spot Challenge 3D | 379310 | [379310-spot-challenge-3d.json](./379310-spot-challenge-3d.json) |
@@ -23605,6 +23608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stan | 326277 | [326277-stan.json](./326277-stan.json) |
 | Stan James Original Free Kick Challenge | 324738 | [324738-stan-james-original-free-kick-challenge.json](./324738-stan-james-original-free-kick-challenge.json) |
 | Stan Lee's Verticus | 148860 | [148860-stan-lees-verticus.json](./148860-stan-lees-verticus.json) |
+| Stan Skates | 227649 | [227649-stan-skates.json](./227649-stan-skates.json) |
 | Stan's Magic Museum: Olympian Trouble | 367924 | [367924-stans-magic-museum-olympian-trouble.json](./367924-stans-magic-museum-olympian-trouble.json) |
 | StanÇact: Sexy Tenacious Girls | 264621 | [264621-stancact-sexy-tenacious-girls.json](./264621-stancact-sexy-tenacious-girls.json) |
 | Stancie | 105061 | [105061-stancie.json](./105061-stancie.json) |
@@ -31799,6 +31803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Sunshine Arcade 2 | 213038 | [213038-super-mario-sunshine-arcade-2.json](./213038-super-mario-sunshine-arcade-2.json) |
 | Super Mario Sunshine DS | 229217 | [229217-super-mario-sunshine-ds.json](./229217-super-mario-sunshine-ds.json) |
 | Super Mario Sunshine in Super Mario 64 | 235173 | [235173-super-mario-sunshine-in-super-mario-64.json](./235173-super-mario-sunshine-in-super-mario-64.json) |
+| Super Mario Sunshine Multiplayer | 227623 | [227623-super-mario-sunshine-multiplayer.json](./227623-super-mario-sunshine-multiplayer.json) |
 | Super Mario Sunshine Seaside | 281016 | [281016-super-mario-sunshine-seaside.json](./281016-super-mario-sunshine-seaside.json) |
 | Super Mario Surf | 324094 | [324094-super-mario-surf.json](./324094-super-mario-surf.json) |
 | Super Mario Terrestrial | 323053 | [323053-super-mario-terrestrial.json](./323053-super-mario-terrestrial.json) |
@@ -31809,6 +31814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Treasure World | 368158 | [368158-super-mario-treasure-world.json](./368158-super-mario-treasure-world.json) |
 | Super Mario Turd Collection | 322698 | [322698-super-mario-turd-collection.json](./322698-super-mario-turd-collection.json) |
 | Super Mario Ultimate | 259908 | [259908-super-mario-ultimate.json](./259908-super-mario-ultimate.json) |
+| Super Mario UniMaker | 227625 | [227625-super-mario-unimaker.json](./227625-super-mario-unimaker.json) |
 | Super Mario Universe | 314115 | [314115-super-mario-universe.json](./314115-super-mario-universe.json) |
 | Super Mario Universe Deluxe | 413228 | [413228-super-mario-universe-deluxe.json](./413228-super-mario-universe-deluxe.json) |
 | Super Mario Unleashed | 318455 | [318455-super-mario-unleashed.json](./318455-super-mario-unleashed.json) |
@@ -33389,6 +33395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superman | 81521 | [81521-superman.json](./81521-superman.json) |
 | Superman Activity Center | 153678 | [153678-superman-activity-center.json](./153678-superman-activity-center.json) |
 | Superman Batman: Heroes United | 241106 | [241106-superman-batman-heroes-united.json](./241106-superman-batman-heroes-united.json) |
+| Superman III | 227652 | [227652-superman-iii.json](./227652-superman-iii.json) |
 | Superman in Supervillain Showdown | 220123 | [220123-superman-in-supervillain-showdown.json](./220123-superman-in-supervillain-showdown.json) |
 | Superman Returns: Fortress of Solitude | 19074 | [19074-superman-returns-fortress-of-solitude.json](./19074-superman-returns-fortress-of-solitude.json) |
 | Superman Returns: The Videogame | 47867 | [47867-superman-returns-the-videogame.json](./47867-superman-returns-the-videogame.json) |
@@ -34271,6 +34278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushido | 400442 | [400442-sushido.json](./400442-sushido.json) |
 | Sushido | 65303 | [65303-sushido.json](./65303-sushido.json) |
 | Sushido vs. Zombies | 76523 | [76523-sushido-vs-zombies.json](./76523-sushido-vs-zombies.json) |
+| Sushiman | 227629 | [227629-sushiman.json](./227629-sushiman.json) |
 | Sushininjarobot TD | 345038 | [345038-sushininjarobot-td.json](./345038-sushininjarobot-td.json) |
 | SushiParty2 | 124238 | [124238-sushiparty2.json](./124238-sushiparty2.json) |
 | SushiVR | 158910 | [158910-sushivr.json](./158910-sushivr.json) |
