@@ -210,11 +210,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Battle Royale Chompionship | 327012 | [327012-pac-man-battle-royale-chompionship.json](./327012-pac-man-battle-royale-chompionship.json) |
 | Pac-Man Championship Edition | 204672 | [204672-pac-man-championship-edition.json](./204672-pac-man-championship-edition.json) |
 | Pac-Man Championship Edition 2 Plus | 85323 | [85323-pac-man-championship-edition-2-plus.json](./85323-pac-man-championship-edition-2-plus.json) |
+| Pac-Man Collection | 219433 | [219433-pac-man-collection.json](./219433-pac-man-collection.json) |
 | Pac-Man Collection | 308389 | [308389-pac-man-collection.json](./308389-pac-man-collection.json) |
 | Pac-Man Collection | 6528 | [6528-pac-man-collection.json](./6528-pac-man-collection.json) |
 | Pac-Man Collection | 80452 | [80452-pac-man-collection.json](./80452-pac-man-collection.json) |
 | Pac-Man Colour Handheld LCD Game | 219385 | [219385-pac-man-colour-handheld-lcd-game.json](./219385-pac-man-colour-handheld-lcd-game.json) |
 | Pac-Man Community | 234815 | [234815-pac-man-community.json](./234815-pac-man-community.json) |
+| Pac-Man Connect & Play | 219428 | [219428-pac-man-connect-and-play.json](./219428-pac-man-connect-and-play.json) |
 | Pac-Man Couchcade | 304234 | [304234-pac-man-couchcade.json](./304234-pac-man-couchcade.json) |
 | Pac-Man Dash! | 38692 | [38692-pac-man-dash.json](./38692-pac-man-dash.json) |
 | Pac-Man Desktop Arcade | 219388 | [219388-pac-man-desktop-arcade.json](./219388-pac-man-desktop-arcade.json) |
@@ -226,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Game Keyring | 219387 | [219387-pac-man-game-keyring.json](./219387-pac-man-game-keyring.json) |
 | Pac-Man Games | 220257 | [220257-pac-man-games.json](./220257-pac-man-games.json) |
 | Pac-Man Geo | 172697 | [172697-pac-man-geo.json](./172697-pac-man-geo.json) |
+| Pac-Man Giant Joystick | 219435 | [219435-pac-man-giant-joystick.json](./219435-pac-man-giant-joystick.json) |
 | Pac-Man in a Tin | 219374 | [219374-pac-man-in-a-tin.json](./219374-pac-man-in-a-tin.json) |
 | Pac-Man Kart Rally | 65233 | [65233-pac-man-kart-rally.json](./65233-pac-man-kart-rally.json) |
 | Pac-Man Maker | 28186 | [28186-pac-man-maker.json](./28186-pac-man-maker.json) |
@@ -235,6 +238,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Mega Tunnel Battle: Chomp Champs - Lunar Animals Pac | 300927 | [300927-pac-man-mega-tunnel-battle-chomp-champs-lunar-animals-pac.json](./300927-pac-man-mega-tunnel-battle-chomp-champs-lunar-animals-pac.json) |
 | Pac-Man Mega Tunnel Battle: Chomp Champs - Namco Pals Pac | 300926 | [300926-pac-man-mega-tunnel-battle-chomp-champs-namco-pals-pac.json](./300926-pac-man-mega-tunnel-battle-chomp-champs-namco-pals-pac.json) |
 | Pac-Man Megamix | 322106 | [322106-pac-man-megamix.json](./322106-pac-man-megamix.json) |
+| Pac-Man Micro Player | 219349 | [219349-pac-man-micro-player.json](./219349-pac-man-micro-player.json) |
+| Pac-Man Micro Player: 40th Anniversary Edition | 219358 | [219358-pac-man-micro-player-40th-anniversary-edition.json](./219358-pac-man-micro-player-40th-anniversary-edition.json) |
 | Pac-Man Museum | 25074 | [25074-pac-man-museum.json](./25074-pac-man-museum.json) |
 | Pac-Man Museum: Ms. Pac-Man DLC | 343386 | [343386-pac-man-museum-ms-pac-man-dlc.json](./343386-pac-man-museum-ms-pac-man-dlc.json) |
 | Pac-Man Museum+ | 182246 | [182246-pac-man-museum.json](./182246-pac-man-museum.json) |
@@ -250,6 +255,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man SDL | 334737 | [334737-pac-man-sdl.json](./334737-pac-man-sdl.json) |
 | Pac-Man Social | 64682 | [64682-pac-man-social.json](./64682-pac-man-social.json) |
 | Pac-Man SuperFast! | 321097 | [321097-pac-man-superfast.json](./321097-pac-man-superfast.json) |
+| Pac-Man Tamagotchi | 219346 | [219346-pac-man-tamagotchi.json](./219346-pac-man-tamagotchi.json) |
+| Pac-Man Tilt | 219361 | [219361-pac-man-tilt.json](./219361-pac-man-tilt.json) |
 | Pac-Man Tilt | 219389 | [219389-pac-man-tilt.json](./219389-pac-man-tilt.json) |
 | Pac-Man VR | 65001 | [65001-pac-man-vr.json](./65001-pac-man-vr.json) |
 | Pac-Man Vs. | 229452 | [229452-pac-man-vs.json](./229452-pac-man-vs.json) |
@@ -462,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacifish: Recast | 330090 | [330090-pacifish-recast.json](./330090-pacifish-recast.json) |
 | Pacifist Outside | 180591 | [180591-pacifist-outside.json](./180591-pacifist-outside.json) |
 | Pacifix War Iwo Jima | 231922 | [231922-pacifix-war-iwo-jima.json](./231922-pacifix-war-iwo-jima.json) |
+| Pacit | 219344 | [219344-pacit.json](./219344-pacit.json) |
 | Pack | 342659 | [342659-pack.json](./342659-pack.json) |
 | Pack 2 Games Pony Friends 2 + My Riding Stables: Life with Horses | 147465 | [147465-pack-2-games-pony-friends-2-my-riding-stables-life-with-horses.json](./147465-pack-2-games-pony-friends-2-my-riding-stables-life-with-horses.json) |
 | Pack 5 Action Games | 131155 | [131155-pack-5-action-games.json](./131155-pack-5-action-games.json) |
@@ -4097,6 +4105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penny-Punching Princess | 26009 | [26009-penny-punching-princess.json](./26009-penny-punching-princess.json) |
 | Penny's Path | 161608 | [161608-pennys-path.json](./161608-pennys-path.json) |
 | Pennzoil Build-N-Race: Speed Demons | 69092 | [69092-pennzoil-build-n-race-speed-demons.json](./69092-pennzoil-build-n-race-speed-demons.json) |
+| Penrose | 219368 | [219368-penrose.json](./219368-penrose.json) |
 | Penrose | 262681 | [262681-penrose.json](./262681-penrose.json) |
 | Penroses | 181880 | [181880-penroses.json](./181880-penroses.json) |
 | Pensate | 117025 | [117025-pensate.json](./117025-pensate.json) |
@@ -17169,6 +17178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulsator | 39130 | [39130-pulsator.json](./39130-pulsator.json) |
 | Pulse | 13359 | [13359-pulse.json](./13359-pulse.json) |
 | Pulse | 177421 | [177421-pulse.json](./177421-pulse.json) |
+| Pulse | 219372 | [219372-pulse.json](./219372-pulse.json) |
 | Pulse | 266480 | [266480-pulse.json](./266480-pulse.json) |
 | Pulse | 372810 | [372810-pulse.json](./372810-pulse.json) |
 | Pulse | 392257 | [392257-pulse.json](./392257-pulse.json) |
