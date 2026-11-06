@@ -2215,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PaRappa the Rapper: Stage 5 Music A | 324831 | [324831-parappa-the-rapper-stage-5-music-a.json](./324831-parappa-the-rapper-stage-5-music-a.json) |
 | Pararecords | 325020 | [325020-pararecords.json](./325020-pararecords.json) |
 | Pararena | 130356 | [130356-pararena.json](./130356-pararena.json) |
+| Pararomantic | 217609 | [217609-pararomantic.json](./217609-pararomantic.json) |
 | Parascientific Escape: Cruise in the Distant Seas | 52024 | [52024-parascientific-escape-cruise-in-the-distant-seas.json](./52024-parascientific-escape-cruise-in-the-distant-seas.json) |
 | Parascientific Escape: Gear Detective | 27195 | [27195-parascientific-escape-gear-detective.json](./27195-parascientific-escape-gear-detective.json) |
 | Parasensor | 347911 | [347911-parasensor.json](./347911-parasensor.json) |
