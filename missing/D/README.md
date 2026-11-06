@@ -7114,6 +7114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Hawk | 28486 | [28486-desert-hawk.json](./28486-desert-hawk.json) |
 | Desert Island 64 | 231508 | [231508-desert-island-64.json](./231508-desert-island-64.json) |
 | Desert Island Fishing | 56289 | [56289-desert-island-fishing.json](./56289-desert-island-fishing.json) |
+| Desert Island Survival | 212525 | [212525-desert-island-survival.json](./212525-desert-island-survival.json) |
 | Desert Journey | 214557 | [214557-desert-journey.json](./214557-desert-journey.json) |
 | Desert King 2 | 208918 | [208918-desert-king-2.json](./208918-desert-king-2.json) |
 | Desert Kingdom | 221611 | [221611-desert-kingdom.json](./221611-desert-kingdom.json) |
