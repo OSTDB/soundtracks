@@ -12272,6 +12272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skip Around The World: Finland | 310947 | [310947-skip-around-the-world-finland.json](./310947-skip-around-the-world-finland.json) |
 | Skip Beat! | 77070 | [77070-skip-beat.json](./77070-skip-beat.json) |
 | Skip Lake | 164045 | [164045-skip-lake.json](./164045-skip-lake.json) |
+| Skip Lake 2 | 205741 | [205741-skip-lake-2.json](./205741-skip-lake-2.json) |
 | Skip-Bo | 83471 | [83471-skip-bo.json](./83471-skip-bo.json) |
 | Skip-Bo | 83912 | [83912-skip-bo.json](./83912-skip-bo.json) |
 | Skip's Sanity | 99072 | [99072-skips-sanity.json](./99072-skips-sanity.json) |
@@ -19581,6 +19582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -36040,6 +36042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthwave Runner | 277519 | [277519-synthwave-runner.json](./277519-synthwave-runner.json) |
 | Synthwave Show Dawn | 403341 | [403341-synthwave-show-dawn.json](./403341-synthwave-show-dawn.json) |
 | Synthwave Tunnel | 333427 | [333427-synthwave-tunnel.json](./333427-synthwave-tunnel.json) |
+| SynthWaves | 205740 | [205740-synthwaves.json](./205740-synthwaves.json) |
 | Synzzball | 123499 | [123499-synzzball.json](./123499-synzzball.json) |
 | Syobon Action | 388561 | [388561-syobon-action.json](./388561-syobon-action.json) |
 | Syobon Action 2 HD | 365136 | [365136-syobon-action-2-hd.json](./365136-syobon-action-2-hd.json) |
