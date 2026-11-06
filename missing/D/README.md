@@ -3863,6 +3863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Space: Extraction | 985 | [985-dead-space-extraction.json](./985-dead-space-extraction.json) |
 | Dead Space: Flash | 315227 | [315227-dead-space-flash.json](./315227-dead-space-flash.json) |
 | Dead Space: Ignition | 20450 | [20450-dead-space-ignition.json](./20450-dead-space-ignition.json) |
+| Dead Space: Strange Transmissions Quest Pack | 233873 | [233873-dead-space-strange-transmissions-quest-pack.json](./233873-dead-space-strange-transmissions-quest-pack.json) |
 | Dead Spaceshot | 332919 | [332919-dead-spaceshot.json](./332919-dead-spaceshot.json) |
 | Dead Spawn | 121710 | [121710-dead-spawn.json](./121710-dead-spawn.json) |
 | Dead Spell | 400250 | [400250-dead-spell.json](./400250-dead-spell.json) |
@@ -8998,6 +8999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Anode Tamer/Cathode Tamer: Veedramon Version | 37554 | [37554-digimon-anode-tamer-cathode-tamer-veedramon-version.json](./37554-digimon-anode-tamer-cathode-tamer-veedramon-version.json) |
 | Digimon Battle | 66461 | [66461-digimon-battle.json](./66461-digimon-battle.json) |
 | Digimon Card Game Tutorial App | 313084 | [313084-digimon-card-game-tutorial-app.json](./313084-digimon-card-game-tutorial-app.json) |
+| Digimon Chronicles: The Alpha Chosen | 233849 | [233849-digimon-chronicles-the-alpha-chosen.json](./233849-digimon-chronicles-the-alpha-chosen.json) |
 | Digimon Collectors | 108999 | [108999-digimon-collectors.json](./108999-digimon-collectors.json) |
 | Digimon Color Monster Hunter 20th Edition | 335863 | [335863-digimon-color-monster-hunter-20th-edition.json](./335863-digimon-color-monster-hunter-20th-edition.json) |
 | Digimon Crystal Version II | 247401 | [247401-digimon-crystal-version-ii.json](./247401-digimon-crystal-version-ii.json) |
@@ -14455,6 +14457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z Life | 328039 | [328039-dragon-ball-z-life.json](./328039-dragon-ball-z-life.json) |
 | Dragon Ball Z Pong | 396069 | [396069-dragon-ball-z-pong.json](./396069-dragon-ball-z-pong.json) |
 | Dragon Ball Z Tournament | 141526 | [141526-dragon-ball-z-tournament.json](./141526-dragon-ball-z-tournament.json) |
+| Dragon Ball Z: A Batalha dos Deuses | 233843 | [233843-dragon-ball-z-a-batalha-dos-deuses.json](./233843-dragon-ball-z-a-batalha-dos-deuses.json) |
 | Dragon Ball Z: Atsumare! Goku's World | 230282 | [230282-dragon-ball-z-atsumare-gokus-world.json](./230282-dragon-ball-z-atsumare-gokus-world.json) |
 | Dragon Ball Z: Attack of the Saiyans | 21196 | [21196-dragon-ball-z-attack-of-the-saiyans.json](./21196-dragon-ball-z-attack-of-the-saiyans.json) |
 | Dragon Ball Z: Bakuretsu Impact | 66917 | [66917-dragon-ball-z-bakuretsu-impact.json](./66917-dragon-ball-z-bakuretsu-impact.json) |
