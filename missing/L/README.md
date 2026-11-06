@@ -4107,6 +4107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lever Simulator: Multiplayer | 291317 | [291317-lever-simulator-multiplayer.json](./291317-lever-simulator-multiplayer.json) |
 | Leverage Real Estate Simulator | 424635 | [424635-leverage-real-estate-simulator.json](./424635-leverage-real-estate-simulator.json) |
 | Leveron Space | 32761 | [32761-leveron-space.json](./32761-leveron-space.json) |
+| Levers | 226536 | [226536-levers.json](./226536-levers.json) |
 | Levers & Buttons | 116942 | [116942-levers-and-buttons.json](./116942-levers-and-buttons.json) |
 | Levers! | 200195 | [200195-levers.json](./200195-levers.json) |
 | Levi Chronicles | 121911 | [121911-levi-chronicles.json](./121911-levi-chronicles.json) |
