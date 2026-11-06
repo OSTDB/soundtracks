@@ -961,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -11135,6 +11136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodhound | 195382 | [195382-bloodhound.json](./195382-bloodhound.json) |
 | Bloodia | 118394 | [118394-bloodia.json](./118394-bloodia.json) |
 | Bloodicide | 262270 | [262270-bloodicide.json](./262270-bloodicide.json) |
+| Bloodied Fear | 199681 | [199681-bloodied-fear.json](./199681-bloodied-fear.json) |
 | BloodKeeper | 143037 | [143037-bloodkeeper.json](./143037-bloodkeeper.json) |
 | Bloodkill: Goreblast Overkill | 332642 | [332642-bloodkill-goreblast-overkill.json](./332642-bloodkill-goreblast-overkill.json) |
 | Bloodland | 169623 | [169623-bloodland.json](./169623-bloodland.json) |
@@ -12514,6 +12516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber Battle : Bomb Man Arena | 234440 | [234440-bomber-battle-bomb-man-arena.json](./234440-bomber-battle-bomb-man-arena.json) |
 | Bomber Bob | 14331 | [14331-bomber-bob.json](./14331-bomber-bob.json) |
 | Bomber Boing | 92358 | [92358-bomber-boing.json](./92358-bomber-boing.json) |
+| Bomber Boom | 199695 | [199695-bomber-boom.json](./199695-bomber-boom.json) |
 | Bomber Bother | 123950 | [123950-bomber-bother.json](./123950-bomber-bother.json) |
 | Bomber Buddies | 414067 | [414067-bomber-buddies.json](./414067-bomber-buddies.json) |
 | Bomber Cat Run | 317860 | [317860-bomber-cat-run.json](./317860-bomber-cat-run.json) |
@@ -13912,6 +13915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty Hunters | 188507 | [188507-bounty-hunters.json](./188507-bounty-hunters.json) |
 | Bounty Hunters | 265389 | [265389-bounty-hunters.json](./265389-bounty-hunters.json) |
 | Bounty Hunting Time | 255029 | [255029-bounty-hunting-time.json](./255029-bounty-hunting-time.json) |
+| Bounty of One | 199716 | [199716-bounty-of-one.json](./199716-bounty-of-one.json) |
 | Bounty of One: Panic in the Mines | 321957 | [321957-bounty-of-one-panic-in-the-mines.json](./321957-bounty-of-one-panic-in-the-mines.json) |
 | Bounty Off Road | 332884 | [332884-bounty-off-road.json](./332884-bounty-off-road.json) |
 | Bounty Pro Pulling | 410451 | [410451-bounty-pro-pulling.json](./410451-bounty-pro-pulling.json) |
