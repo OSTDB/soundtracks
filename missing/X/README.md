@@ -606,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenoblade Chronicles 2: Special Edition | 27298 | [27298-xenoblade-chronicles-2-special-edition.json](./27298-xenoblade-chronicles-2-special-edition.json) |
 | Xenoblade Chronicles 2: Torna - The Golden Country | 103340 | [103340-xenoblade-chronicles-2-torna-the-golden-country.json](./103340-xenoblade-chronicles-2-torna-the-golden-country.json) |
 | Xenoblade Chronicles 3 | 191411 | [191411-xenoblade-chronicles-3.json](./191411-xenoblade-chronicles-3.json) |
+| Xenoblade Chronicles 3 + Xenoblade Chronicles 3 Expansion Pass | 241167 | [241167-xenoblade-chronicles-3-xenoblade-chronicles-3-expansion-pass.json](./241167-xenoblade-chronicles-3-xenoblade-chronicles-3-expansion-pass.json) |
 | Xenoblade Chronicles 3 Randomizer | 380732 | [380732-xenoblade-chronicles-3-randomizer.json](./380732-xenoblade-chronicles-3-randomizer.json) |
 | Xenoblade Chronicles 3: DLC Wave 1 | 236666 | [236666-xenoblade-chronicles-3-dlc-wave-1.json](./236666-xenoblade-chronicles-3-dlc-wave-1.json) |
 | Xenoblade Chronicles 3: DLC Wave 2 | 236667 | [236667-xenoblade-chronicles-3-dlc-wave-2.json](./236667-xenoblade-chronicles-3-dlc-wave-2.json) |
