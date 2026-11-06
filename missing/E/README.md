@@ -4543,6 +4543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic War Legends | 234263 | [234263-epic-war-legends.json](./234263-epic-war-legends.json) |
 | Epic War Saga | 234262 | [234262-epic-war-saga.json](./234262-epic-war-saga.json) |
 | Epic War VI | 234264 | [234264-epic-war-vi.json](./234264-epic-war-vi.json) |
+| Epic Warrior: The Sword of Light | 224347 | [224347-epic-warrior-the-sword-of-light.json](./224347-epic-warrior-the-sword-of-light.json) |
 | Epic Word Search Collection | 85125 | [85125-epic-word-search-collection.json](./85125-epic-word-search-collection.json) |
 | Epic Word Search Holiday Special | 85123 | [85123-epic-word-search-holiday-special.json](./85123-epic-word-search-holiday-special.json) |
 | Epic World | 126970 | [126970-epic-world.json](./126970-epic-world.json) |
@@ -6774,6 +6775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everlong Swansong | 257086 | [257086-everlong-swansong.json](./257086-everlong-swansong.json) |
 | Everlords | 295299 | [295299-everlords.json](./295299-everlords.json) |
 | Everlost | 397695 | [397695-everlost.json](./397695-everlost.json) |
+| Everlove: Rose | 224346 | [224346-everlove-rose.json](./224346-everlove-rose.json) |
 | Everlune | 256056 | [256056-everlune.json](./256056-everlune.json) |
 | EverMatch | 237672 | [237672-evermatch.json](./237672-evermatch.json) |
 | EverMerge | 135600 | [135600-evermerge.json](./135600-evermerge.json) |
