@@ -8731,6 +8731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shipwreck Escape | 152827 | [152827-shipwreck-escape.json](./152827-shipwreck-escape.json) |
 | Shipwrecked | 265295 | [265295-shipwrecked.json](./265295-shipwrecked.json) |
 | Shipwrecked | 313859 | [313859-shipwrecked.json](./313859-shipwrecked.json) |
+| Shipwrecked 64 | 210339 | [210339-shipwrecked-64.json](./210339-shipwrecked-64.json) |
 | Shipwrecked 64 | 284041 | [284041-shipwrecked-64.json](./284041-shipwrecked-64.json) |
 | Shipwrecked Hamlet | 348518 | [348518-shipwrecked-hamlet.json](./348518-shipwrecked-hamlet.json) |
 | Shipwrecked Raft Survival | 347305 | [347305-shipwrecked-raft-survival.json](./347305-shipwrecked-raft-survival.json) |
@@ -19561,6 +19562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -22389,6 +22391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Flip or Flop | 273123 | [273123-spongebob-squarepants-flip-or-flop.json](./273123-spongebob-squarepants-flip-or-flop.json) |
 | SpongeBob SquarePants: Four Squared | 288190 | [288190-spongebob-squarepants-four-squared.json](./288190-spongebob-squarepants-four-squared.json) |
 | SpongeBob Squarepants: Idea Sponge | 307851 | [307851-spongebob-squarepants-idea-sponge.json](./307851-spongebob-squarepants-idea-sponge.json) |
+| SpongeBob SquarePants: Invasion of the Lava King | 210348 | [210348-spongebob-squarepants-invasion-of-the-lava-king.json](./210348-spongebob-squarepants-invasion-of-the-lava-king.json) |
 | SpongeBob SquarePants: JellyFish Dodge | 220116 | [220116-spongebob-squarepants-jellyfish-dodge.json](./220116-spongebob-squarepants-jellyfish-dodge.json) |
 | SpongeBob SquarePants: JellyFish Dodge | 220118 | [220118-spongebob-squarepants-jellyfish-dodge.json](./220118-spongebob-squarepants-jellyfish-dodge.json) |
 | SpongeBob SquarePants: Kash Dash | 218533 | [218533-spongebob-squarepants-kash-dash.json](./218533-spongebob-squarepants-kash-dash.json) |
@@ -24052,6 +24055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Maidens Chronicle: Definitive Edition | 169368 | [169368-star-maidens-chronicle-definitive-edition.json](./169368-star-maidens-chronicle-definitive-edition.json) |
 | Star Man | 403783 | [403783-star-man.json](./403783-star-man.json) |
 | Star Man 2: Reupgraded | 333958 | [333958-star-man-2-reupgraded.json](./333958-star-man-2-reupgraded.json) |
+| Star Man: Upgraded | 210345 | [210345-star-man-upgraded.json](./210345-star-man-upgraded.json) |
 | Star Mania | 108600 | [108600-star-mania.json](./108600-star-mania.json) |
 | Star Math: Interstellar Rogue 2 | 197578 | [197578-star-math-interstellar-rogue-2.json](./197578-star-math-interstellar-rogue-2.json) |
 | Star Matter | 148524 | [148524-star-matter.json](./148524-star-matter.json) |
@@ -27410,6 +27414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded Hearts | 184914 | [184914-stranded-hearts.json](./184914-stranded-hearts.json) |
 | Stranded II | 74098 | [74098-stranded-ii.json](./74098-stranded-ii.json) |
 | Stranded in Starlight | 348909 | [348909-stranded-in-starlight.json](./348909-stranded-in-starlight.json) |
+| Stranded in the Amazon | 210206 | [210206-stranded-in-the-amazon.json](./210206-stranded-in-the-amazon.json) |
 | Stranded In Time | 34884 | [34884-stranded-in-time.json](./34884-stranded-in-time.json) |
 | Stranded Near Nowhere | 102804 | [102804-stranded-near-nowhere.json](./102804-stranded-near-nowhere.json) |
 | Stranded Nightmare | 207367 | [207367-stranded-nightmare.json](./207367-stranded-nightmare.json) |
@@ -33370,7 +33375,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supercross Circuit | 44963 | [44963-supercross-circuit.json](./44963-supercross-circuit.json) |
 | Supercross Freestyle | 50069 | [50069-supercross-freestyle.json](./50069-supercross-freestyle.json) |
 | SuperCTF | 151123 | [151123-superctf.json](./151123-superctf.json) |
+| SuperDanny 2 | 210343 | [210343-superdanny-2.json](./210343-superdanny-2.json) |
 | SuperDanny Powered Up | 209272 | [209272-superdanny-powered-up.json](./209272-superdanny-powered-up.json) |
+| SuperDanny's Adventure | 210344 | [210344-superdannys-adventure.json](./210344-superdannys-adventure.json) |
 | Superdeflex | 256309 | [256309-superdeflex.json](./256309-superdeflex.json) |
 | Superdeluxe | 297000 | [297000-superdeluxe.json](./297000-superdeluxe.json) |
 | Superdetektiverne | 131918 | [131918-superdetektiverne.json](./131918-superdetektiverne.json) |
