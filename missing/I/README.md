@@ -3207,6 +3207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incubus Heart: Demon Love Redemption | 386192 | [386192-incubus-heart-demon-love-redemption.json](./386192-incubus-heart-demon-love-redemption.json) |
 | Incubus Quest | 264188 | [264188-incubus-quest.json](./264188-incubus-quest.json) |
 | Incubus: A ghost-hunters tale | 221683 | [221683-incubus-a-ghost-hunters-tale.json](./221683-incubus-a-ghost-hunters-tale.json) |
+| Incur Survival | 223814 | [223814-incur-survival.json](./223814-incur-survival.json) |
 | Incursion | 202515 | [202515-incursion.json](./202515-incursion.json) |
 | Incursion | 373819 | [373819-incursion.json](./373819-incursion.json) |
 | Incursion | 80792 | [80792-incursion.json](./80792-incursion.json) |
@@ -3840,7 +3841,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
