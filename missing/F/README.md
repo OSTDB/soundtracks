@@ -7356,6 +7356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Wings | 381022 | [381022-flappy-wings.json](./381022-flappy-wings.json) |
 | Flappy Zegeta | 56542 | [56542-flappy-zegeta.json](./56542-flappy-zegeta.json) |
 | Flappy: The Angry Bird | 144272 | [144272-flappy-the-angry-bird.json](./144272-flappy-the-angry-bird.json) |
+| Flappybird for MSX | 219427 | [219427-flappybird-for-msx.json](./219427-flappybird-for-msx.json) |
 | FlappyParrot | 369655 | [369655-flappyparrot.json](./369655-flappyparrot.json) |
 | FlappyU | 97074 | [97074-flappyu.json](./97074-flappyu.json) |
 | FlapTap Jo | 245756 | [245756-flaptap-jo.json](./245756-flaptap-jo.json) |
