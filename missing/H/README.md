@@ -12460,6 +12460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper's Quest 2: High Voltage | 316307 | [316307-hypers-quest-2-high-voltage.json](./316307-hypers-quest-2-high-voltage.json) |
 | Hyper's Quest Reborn | 316969 | [316969-hypers-quest-reborn.json](./316969-hypers-quest-reborn.json) |
 | Hyper's Quest: Mystic Warp | 316968 | [316968-hypers-quest-mystic-warp.json](./316968-hypers-quest-mystic-warp.json) |
+| Hyper//Echo | 206911 | [206911-hyper-echo.json](./206911-hyper-echo.json) |
 | Hyperaction | 152478 | [152478-hyperaction.json](./152478-hyperaction.json) |
 | Hyperacusis | 310327 | [310327-hyperacusis.json](./310327-hyperacusis.json) |
 | Hyperbahn | 236993 | [236993-hyperbahn.json](./236993-hyperbahn.json) |
