@@ -1871,6 +1871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABC Tangou Game | 345919 | [345919-abc-tangou-game.json](./345919-abc-tangou-game.json) |
 | ABC World | 285864 | [285864-abc-world.json](./285864-abc-world.json) |
 | ABC: Audioreactive Beat Circle | 138623 | [138623-abc-audioreactive-beat-circle.json](./138623-abc-audioreactive-beat-circle.json) |
+| ABC's & 123's | 231685 | [231685-abcs-and-123s.json](./231685-abcs-and-123s.json) |
 | ABC's Featuring the Jungle Jukebox | 392413 | [392413-abcs-featuring-the-jungle-jukebox.json](./392413-abcs-featuring-the-jungle-jukebox.json) |
 | Abcdef | 330374 | [330374-abcdef.json](./330374-abcdef.json) |
 | ABCs with Dally Dino: Preschool Kids Learn the Alphabet with A Fun Dinosaur Friend | 88854 | [88854-abcs-with-dally-dino-preschool-kids-learn-the-alphabet-with-a-fun-dinosaur-friend.json](./88854-abcs-with-dally-dino-preschool-kids-learn-the-alphabet-with-a-fun-dinosaur-friend.json) |
@@ -3666,6 +3667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure: The Inside Job | 60796 | [60796-adventure-the-inside-job.json](./60796-adventure-the-inside-job.json) |
 | Adventure: Welcome to the Genre | 165506 | [165506-adventure-welcome-to-the-genre.json](./165506-adventure-welcome-to-the-genre.json) |
 | Adventure's Calling | 235052 | [235052-adventures-calling.json](./235052-adventures-calling.json) |
+| Adventure's Pixel World | 231679 | [231679-adventures-pixel-world.json](./231679-adventures-pixel-world.json) |
 | Adventure4+ | 305199 | [305199-adventure4.json](./305199-adventure4.json) |
 | Adventureland | 2298 | [2298-adventureland.json](./2298-adventureland.json) |
 | AdventureQuest | 79499 | [79499-adventurequest.json](./79499-adventurequest.json) |
@@ -9547,6 +9549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angevillia | 197322 | [197322-angevillia.json](./197322-angevillia.json) |
 | Angie Magica | 391291 | [391291-angie-magica.json](./391291-angie-magica.json) |
 | Angira Online | 235715 | [235715-angira-online.json](./235715-angira-online.json) |
+| Angkara: The Horde | 231710 | [231710-angkara-the-horde.json](./231710-angkara-the-horde.json) |
 | Angkor 5: Volcano's Verge | 337845 | [337845-angkor-5-volcanos-verge.json](./337845-angkor-5-volcanos-verge.json) |
 | Angkor: Beginnings | 209699 | [209699-angkor-beginnings.json](./209699-angkor-beginnings.json) |
 | Angkor: Celebrations | 151437 | [151437-angkor-celebrations.json](./151437-angkor-celebrations.json) |
@@ -11692,6 +11695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appli Archives: Nippon Ichi Software Duologue | 56416 | [56416-appli-archives-nippon-ichi-software-duologue.json](./56416-appli-archives-nippon-ichi-software-duologue.json) |
 | Applied Energistics | 232627 | [232627-applied-energistics.json](./232627-applied-energistics.json) |
 | Applied Energistics 2 | 275742 | [275742-applied-energistics-2.json](./275742-applied-energistics-2.json) |
+| Apploid: Ballfare | 231687 | [231687-apploid-ballfare.json](./231687-apploid-ballfare.json) |
 | Appointment with Death | 316831 | [316831-appointment-with-death.json](./316831-appointment-with-death.json) |
 | Appointment With FEAR | 17700 | [17700-appointment-with-fear.json](./17700-appointment-with-fear.json) |
 | Appoooh | 39845 | [39845-appoooh.json](./39845-appoooh.json) |
