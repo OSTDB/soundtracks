@@ -11232,6 +11232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guts | 54925 | [54925-guts.json](./54925-guts.json) |
 | Guts 'n Goals | 116183 | [116183-guts-n-goals.json](./116183-guts-n-goals.json) |
 | Guts 'N Goals: Preseason | 137484 | [137484-guts-n-goals-preseason.json](./137484-guts-n-goals-preseason.json) |
+| Guts 'n Grunts | 235571 | [235571-guts-n-grunts.json](./235571-guts-n-grunts.json) |
 | Guts 'n Grunts Jr. | 386367 | [386367-guts-n-grunts-jr.json](./386367-guts-n-grunts-jr.json) |
 | Guts 'n Grunts Sr. | 397874 | [397874-guts-n-grunts-sr.json](./397874-guts-n-grunts-sr.json) |
 | Guts 'n' Garters in DNA Danger | 70029 | [70029-guts-n-garters-in-dna-danger.json](./70029-guts-n-garters-in-dna-danger.json) |
