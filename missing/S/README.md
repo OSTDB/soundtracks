@@ -2662,7 +2662,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scared Little Ghost | 253869 | [253869-scared-little-ghost.json](./253869-scared-little-ghost.json) |
 | Scared of Zombies | 371860 | [371860-scared-of-zombies.json](./371860-scared-of-zombies.json) |
 | Scared Puppies | 423909 | [423909-scared-puppies.json](./423909-scared-puppies.json) |
+| Scared Rider Xechs | 221472 | [221472-scared-rider-xechs.json](./221472-scared-rider-xechs.json) |
 | Scared Rider Xechs + Stardust Lovers | 322811 | [322811-scared-rider-xechs-stardust-lovers.json](./322811-scared-rider-xechs-stardust-lovers.json) |
+| Scared Rider Xechs Stardust Lovers | 221473 | [221473-scared-rider-xechs-stardust-lovers.json](./221473-scared-rider-xechs-stardust-lovers.json) |
 | Scared Tube | 213751 | [213751-scared-tube.json](./213751-scared-tube.json) |
 | Scaredy Cat | 296348 | [296348-scaredy-cat.json](./296348-scaredy-cat.json) |
 | Scaredy Cat | 364862 | [364862-scaredy-cat.json](./364862-scaredy-cat.json) |
@@ -12724,6 +12726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyforge | 7818 | [7818-skyforge.json](./7818-skyforge.json) |
 | Skyforge Trails | 401097 | [401097-skyforge-trails.json](./401097-skyforge-trails.json) |
 | Skyforge: Bounty Hunter Collector's Edition | 167666 | [167666-skyforge-bounty-hunter-collectors-edition.json](./167666-skyforge-bounty-hunter-collectors-edition.json) |
+| Skyforge: Firestarter Collector's Edition | 221572 | [221572-skyforge-firestarter-collectors-edition.json](./221572-skyforge-firestarter-collectors-edition.json) |
 | Skyformer | 257013 | [257013-skyformer.json](./257013-skyformer.json) |
 | Skyfort | 310170 | [310170-skyfort.json](./310170-skyfort.json) |
 | Skyfox | 15371 | [15371-skyfox.json](./15371-skyfox.json) |
@@ -13390,6 +13393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sliced | 290617 | [290617-sliced.json](./290617-sliced.json) |
 | Slicer!! | 100324 | [100324-slicer.json](./100324-slicer.json) |
 | Slices | 105870 | [105870-slices.json](./105870-slices.json) |
+| Slicing Slicing | 221482 | [221482-slicing-slicing.json](./221482-slicing-slicing.json) |
 | Slick | 63260 | [63260-slick.json](./63260-slick.json) |
 | Slick Racing Game | 149252 | [149252-slick-racing-game.json](./149252-slick-racing-game.json) |
 | Slick Shot | 337565 | [337565-slick-shot.json](./337565-slick-shot.json) |
@@ -26861,6 +26865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StockSim | 332623 | [332623-stocksim.json](./332623-stocksim.json) |
 | Stocksynd House | 128767 | [128767-stocksynd-house.json](./128767-stocksynd-house.json) |
 | Stockwave Online | 373042 | [373042-stockwave-online.json](./373042-stockwave-online.json) |
+| Stockwrk7 | 221475 | [221475-stockwrk7.json](./221475-stockwrk7.json) |
 | StoicScape | 289255 | [289255-stoicscape.json](./289255-stoicscape.json) |
 | Stoire | 38803 | [38803-stoire.json](./38803-stoire.json) |
 | Stoirs VR | 160156 | [160156-stoirs-vr.json](./160156-stoirs-vr.json) |
