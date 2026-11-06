@@ -1452,6 +1452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Gladius - Relics of War: Assault Pack | 153086 | [153086-warhammer-40-000-gladius-relics-of-war-assault-pack.json](./153086-warhammer-40-000-gladius-relics-of-war-assault-pack.json) |
 | Warhammer 40,000: Gladius - Relics of War: Chaos Space Marines | 124955 | [124955-warhammer-40-000-gladius-relics-of-war-chaos-space-marines.json](./124955-warhammer-40-000-gladius-relics-of-war-chaos-space-marines.json) |
 | Warhammer 40,000: Gladius - Relics of War: Craftworld Aeldari | 148965 | [148965-warhammer-40-000-gladius-relics-of-war-craftworld-aeldari.json](./148965-warhammer-40-000-gladius-relics-of-war-craftworld-aeldari.json) |
+| Warhammer 40,000: Gladius - Relics of War: Deluxe Edition | 210939 | [210939-warhammer-40-000-gladius-relics-of-war-deluxe-edition.json](./210939-warhammer-40-000-gladius-relics-of-war-deluxe-edition.json) |
 | Warhammer 40,000: Gladius - Relics of War: Escalation Pack | 223542 | [223542-warhammer-40-000-gladius-relics-of-war-escalation-pack.json](./223542-warhammer-40-000-gladius-relics-of-war-escalation-pack.json) |
 | Warhammer 40,000: Gladius - Relics of War: Firepower Pack | 250912 | [250912-warhammer-40-000-gladius-relics-of-war-firepower-pack.json](./250912-warhammer-40-000-gladius-relics-of-war-firepower-pack.json) |
 | Warhammer 40,000: Gladius - Relics of War: Fortification Pack | 153084 | [153084-warhammer-40-000-gladius-relics-of-war-fortification-pack.json](./153084-warhammer-40-000-gladius-relics-of-war-fortification-pack.json) |
@@ -3507,6 +3508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Western Adventure - Cowboy Revenge 3D | 99186 | [99186-western-adventure-cowboy-revenge-3d.json](./99186-western-adventure-cowboy-revenge-3d.json) |
 | Western Bank VR | 76678 | [76678-western-bank-vr.json](./76678-western-bank-vr.json) |
 | Western Bar | 346076 | [346076-western-bar.json](./346076-western-bar.json) |
+| Western City Renovator | 210966 | [210966-western-city-renovator.json](./210966-western-city-renovator.json) |
 | Western Cowboy Gun Fight 2 | 234439 | [234439-western-cowboy-gun-fight-2.json](./234439-western-cowboy-gun-fight-2.json) |
 | Western Death | 312614 | [312614-western-death.json](./312614-western-death.json) |
 | Western Dual Wield | 207750 | [207750-western-dual-wield.json](./207750-western-dual-wield.json) |
@@ -6376,6 +6378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchcraft U | 155652 | [155652-witchcraft-u.json](./155652-witchcraft-u.json) |
 | Witchcraft: Candy Hunt | 244910 | [244910-witchcraft-candy-hunt.json](./244910-witchcraft-candy-hunt.json) |
 | Witchcraft: Pandoras Box | 127248 | [127248-witchcraft-pandoras-box.json](./127248-witchcraft-pandoras-box.json) |
+| Witchcraft: The Lotus Elixir | 210931 | [210931-witchcraft-the-lotus-elixir.json](./210931-witchcraft-the-lotus-elixir.json) |
 | Witchcrafter | 365594 | [365594-witchcrafter.json](./365594-witchcrafter.json) |
 | Witchcrafter: Empire Legends | 140806 | [140806-witchcrafter-empire-legends.json](./140806-witchcrafter-empire-legends.json) |
 | Witchcrafty | 120920 | [120920-witchcrafty.json](./120920-witchcrafty.json) |
@@ -7149,6 +7152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderland | 377143 | [377143-wonderland.json](./377143-wonderland.json) |
 | Wonderland | 95460 | [95460-wonderland.json](./95460-wonderland.json) |
 | Wonderland Adventures | 145906 | [145906-wonderland-adventures.json](./145906-wonderland-adventures.json) |
+| Wonderland Adventures: Mysteries of Fire Island | 210813 | [210813-wonderland-adventures-mysteries-of-fire-island.json](./210813-wonderland-adventures-mysteries-of-fire-island.json) |
 | Wonderland Adventures: Planet of the Z-Bots | 229388 | [229388-wonderland-adventures-planet-of-the-z-bots.json](./229388-wonderland-adventures-planet-of-the-z-bots.json) |
 | Wonderland Dizzy | 152001 | [152001-wonderland-dizzy.json](./152001-wonderland-dizzy.json) |
 | Wonderland Mahjong | 415957 | [415957-wonderland-mahjong.json](./415957-wonderland-mahjong.json) |
