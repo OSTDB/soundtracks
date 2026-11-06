@@ -3669,6 +3669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GG Portrait: Akira Yuki | 46528 | [46528-gg-portrait-akira-yuki.json](./46528-gg-portrait-akira-yuki.json) |
 | GG Portrait: Pai-chan | 46602 | [46602-gg-portrait-pai-chan.json](./46602-gg-portrait-pai-chan.json) |
 | GG Puzzler | 368379 | [368379-gg-puzzler.json](./368379-gg-puzzler.json) |
+| GG-Party | 197437 | [197437-gg-party.json](./197437-gg-party.json) |
 | Gga | 173195 | [173195-gga.json](./173195-gga.json) |
 | Ggang! | 114914 | [114914-ggang.json](./114914-ggang.json) |
 | Ggg Collection | 170854 | [170854-ggg-collection.json](./170854-ggg-collection.json) |
@@ -5117,6 +5118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloombo | 422091 | [422091-gloombo.json](./422091-gloombo.json) |
 | Gloomfall | 336671 | [336671-gloomfall.json](./336671-gloomfall.json) |
 | Gloomgeons | 293059 | [293059-gloomgeons.json](./293059-gloomgeons.json) |
+| Gloomgrave | 197439 | [197439-gloomgrave.json](./197439-gloomgrave.json) |
 | Gloomhaven | 106803 | [106803-gloomhaven.json](./106803-gloomhaven.json) |
 | Gloomhaven: Gold Edition | 254681 | [254681-gloomhaven-gold-edition.json](./254681-gloomhaven-gold-edition.json) |
 | Gloomhaven: Jaws of the Lion | 197889 | [197889-gloomhaven-jaws-of-the-lion.json](./197889-gloomhaven-jaws-of-the-lion.json) |
@@ -9817,6 +9819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster: Wai Wai Party!!!!!: Hit Song + VTuber Pack 6 | 300944 | [300944-groove-coaster-wai-wai-party-hit-song-vtuber-pack-6.json](./300944-groove-coaster-wai-wai-party-hit-song-vtuber-pack-6.json) |
 | Groove Coaster: Xand-Roid | 361452 | [361452-groove-coaster-xand-roid.json](./361452-groove-coaster-xand-roid.json) |
 | Groove Defense | 385680 | [385680-groove-defense.json](./385680-groove-defense.json) |
+| Groove Fit Island!! | 197463 | [197463-groove-fit-island.json](./197463-groove-fit-island.json) |
 | Groove Fit Kingdom! | 135720 | [135720-groove-fit-kingdom.json](./135720-groove-fit-kingdom.json) |
 | Groove Galaxy | 58280 | [58280-groove-galaxy.json](./58280-groove-galaxy.json) |
 | Groove Gunner | 112778 | [112778-groove-gunner.json](./112778-groove-gunner.json) |
