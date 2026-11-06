@@ -3163,6 +3163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heads Up! Netflix Edition | 362897 | [362897-heads-up-netflix-edition.json](./362897-heads-up-netflix-edition.json) |
 | Heads Up! Phones Down Edition | 275797 | [275797-heads-up-phones-down-edition.json](./275797-heads-up-phones-down-edition.json) |
 | Heads Will Roll | 165919 | [165919-heads-will-roll.json](./165919-heads-will-roll.json) |
+| Heads Will Roll: Downfall | 197450 | [197450-heads-will-roll-downfall.json](./197450-heads-will-roll-downfall.json) |
 | Heads Will Roll: Reforged | 197592 | [197592-heads-will-roll-reforged.json](./197592-heads-will-roll-reforged.json) |
 | Heads Will Roll: Reforged - Happily Ever After | 286551 | [286551-heads-will-roll-reforged-happily-ever-after.json](./286551-heads-will-roll-reforged-happily-ever-after.json) |
 | Heads Will Roll: Reforged - Not a Hero | 296904 | [296904-heads-will-roll-reforged-not-a-hero.json](./296904-heads-will-roll-reforged-not-a-hero.json) |
@@ -8022,6 +8023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hinokakera the Fragments of Innocent Sinner Reinforced Edition | 146047 | [146047-hinokakera-the-fragments-of-innocent-sinner-reinforced-edition.json](./146047-hinokakera-the-fragments-of-innocent-sinner-reinforced-edition.json) |
 | Hinoken | 222794 | [222794-hinoken.json](./222794-hinoken.json) |
 | Hinomaruko | 122404 | [122404-hinomaruko.json](./122404-hinomaruko.json) |
+| Hinter | 197461 | [197461-hinter.json](./197461-hinter.json) |
 | Hinter Gittern Vol. II | 100143 | [100143-hinter-gittern-vol-ii.json](./100143-hinter-gittern-vol-ii.json) |
 | Hinterhalt | 74477 | [74477-hinterhalt.json](./74477-hinterhalt.json) |
 | Hinterhalt 2 | 110361 | [110361-hinterhalt-2.json](./110361-hinterhalt-2.json) |
@@ -9193,6 +9195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Store Simulator | 407486 | [407486-home-store-simulator.json](./407486-home-store-simulator.json) |
 | Home Story: 1971 | 101747 | [101747-home-story-1971.json](./101747-home-story-1971.json) |
 | Home Street: Dream House Sim | 90555 | [90555-home-street-dream-house-sim.json](./90555-home-street-dream-house-sim.json) |
+| Home Survival | 197471 | [197471-home-survival.json](./197471-home-survival.json) |
 | Home Sweet Home | 181631 | [181631-home-sweet-home.json](./181631-home-sweet-home.json) |
 | Home Sweet Home | 21793 | [21793-home-sweet-home.json](./21793-home-sweet-home.json) |
 | Home Sweet Home | 346116 | [346116-home-sweet-home.json](./346116-home-sweet-home.json) |
@@ -10353,6 +10356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hostile User Interface | 112794 | [112794-hostile-user-interface.json](./112794-hostile-user-interface.json) |
 | Hostile Waters | 308449 | [308449-hostile-waters.json](./308449-hostile-waters.json) |
 | Hosting Simulator: 2026 | 406312 | [406312-hosting-simulator-2026.json](./406312-hosting-simulator-2026.json) |
+| Hostlight | 197465 | [197465-hostlight.json](./197465-hostlight.json) |
 | Hostyle | 397700 | [397700-hostyle.json](./397700-hostyle.json) |
 | Hot & Hentai | 317548 | [317548-hot-and-hentai.json](./317548-hot-and-hentai.json) |
 | Hot & Hentai: Beach Yui | 324490 | [324490-hot-and-hentai-beach-yui.json](./324490-hot-and-hentai-beach-yui.json) |
