@@ -6429,6 +6429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Tamer | 168587 | [168587-demon-tamer.json](./168587-demon-tamer.json) |
 | Demon Throttle | 152206 | [152206-demon-throttle.json](./152206-demon-throttle.json) |
 | Demon Tomb | 212152 | [212152-demon-tomb.json](./212152-demon-tomb.json) |
+| Demon Tormentor | 244042 | [244042-demon-tormentor.json](./244042-demon-tormentor.json) |
 | Demon Turf: Bundle | 203723 | [203723-demon-turf-bundle.json](./203723-demon-turf-bundle.json) |
 | Demon Turf: Neon Splash | 197868 | [197868-demon-turf-neon-splash.json](./197868-demon-turf-neon-splash.json) |
 | Demon Turf: Queen's Edition | 341624 | [341624-demon-turf-queens-edition.json](./341624-demon-turf-queens-edition.json) |
@@ -6510,6 +6511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonic Mahjong | 346872 | [346872-demonic-mahjong.json](./346872-demonic-mahjong.json) |
 | Demonic Pack | 237462 | [237462-demonic-pack.json](./237462-demonic-pack.json) |
 | Demonic Suitors | 298918 | [298918-demonic-suitors.json](./298918-demonic-suitors.json) |
+| Demonic Supremacy | 244043 | [244043-demonic-supremacy.json](./244043-demonic-supremacy.json) |
 | Demonic Tales Bundle | 233016 | [233016-demonic-tales-bundle.json](./233016-demonic-tales-bundle.json) |
 | DemonicGuestVR | 30747 | [30747-demonicguestvr.json](./30747-demonicguestvr.json) |
 | Demonicute | 155672 | [155672-demonicute.json](./155672-demonicute.json) |
@@ -8013,6 +8015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Deck: Polar Night Falls | 284876 | [284876-devils-deck-polar-night-falls.json](./284876-devils-deck-polar-night-falls.json) |
 | Devil's Derby | 337494 | [337494-devils-derby.json](./337494-devils-derby.json) |
 | Devil's Dice | 412803 | [412803-devils-dice.json](./412803-devils-dice.json) |
+| Devil's Dive | 244014 | [244014-devils-dive.json](./244014-devils-dive.json) |
 | Devil's Dream | 149889 | [149889-devils-dream.json](./149889-devils-dream.json) |
 | Devil's Drizzle | 318133 | [318133-devils-drizzle.json](./318133-devils-drizzle.json) |
 | Devil's Dungeon | 190051 | [190051-devils-dungeon.json](./190051-devils-dungeon.json) |
@@ -9379,6 +9382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Dana: Dino Exhibit | 100697 | [100697-dino-dana-dino-exhibit.json](./100697-dino-dana-dino-exhibit.json) |
 | Dino Dash | 246189 | [246189-dino-dash.json](./246189-dino-dash.json) |
 | Dino Dash | 325987 | [325987-dino-dash.json](./325987-dino-dash.json) |
+| Dino Dash Party | 244017 | [244017-dino-dash-party.json](./244017-dino-dash-party.json) |
 | Dino Dave | 91549 | [91549-dino-dave.json](./91549-dino-dave.json) |
 | Dino Dave 2 | 80542 | [80542-dino-dave-2.json](./80542-dino-dave-2.json) |
 | Dino Dave in Sokoman | 150084 | [150084-dino-dave-in-sokoman.json](./150084-dino-dave-in-sokoman.json) |
@@ -11541,6 +11545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog's Muck Island | 203216 | [203216-dogs-muck-island.json](./203216-dogs-muck-island.json) |
 | Dog's Quest | 103454 | [103454-dogs-quest.json](./103454-dogs-quest.json) |
 | Dog's Walts | 408060 | [408060-dogs-walts.json](./408060-dogs-walts.json) |
+| Dog's World | 244037 | [244037-dogs-world.json](./244037-dogs-world.json) |
 | Dogchild | 59062 | [59062-dogchild.json](./59062-dogchild.json) |
 | Dogcoin | 54854 | [54854-dogcoin.json](./54854-dogcoin.json) |
 | DogDay | 92948 | [92948-dogday.json](./92948-dogday.json) |
@@ -15355,6 +15360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw and Color: Kawaii - Extended Edition | 231281 | [231281-draw-and-color-kawaii-extended-edition.json](./231281-draw-and-color-kawaii-extended-edition.json) |
 | Draw and Color: Kawaii - GOTY Edition | 255222 | [255222-draw-and-color-kawaii-goty-edition.json](./255222-draw-and-color-kawaii-goty-edition.json) |
 | Draw and Color: Kawaii - Happy Edition | 257730 | [257730-draw-and-color-kawaii-happy-edition.json](./257730-draw-and-color-kawaii-happy-edition.json) |
+| Draw and Color: Kawaii - Legendary Edition | 244050 | [244050-draw-and-color-kawaii-legendary-edition.json](./244050-draw-and-color-kawaii-legendary-edition.json) |
 | Draw and Color: Kawaii - Magnificent Edition | 268554 | [268554-draw-and-color-kawaii-magnificent-edition.json](./268554-draw-and-color-kawaii-magnificent-edition.json) |
 | Draw and Color: Kawaii - Platinum Edition | 247589 | [247589-draw-and-color-kawaii-platinum-edition.json](./247589-draw-and-color-kawaii-platinum-edition.json) |
 | Draw and Color: Kawaii - Special Edition | 231285 | [231285-draw-and-color-kawaii-special-edition.json](./231285-draw-and-color-kawaii-special-edition.json) |
@@ -18938,6 +18944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dyna Brothers 2 | 4547 | [4547-dyna-brothers-2.json](./4547-dyna-brothers-2.json) |
 | Dyna Knight | 114682 | [114682-dyna-knight.json](./114682-dyna-knight.json) |
 | Dyna Marisa 3D | 206571 | [206571-dyna-marisa-3d.json](./206571-dyna-marisa-3d.json) |
+| Dynablaster | 244024 | [244024-dynablaster.json](./244024-dynablaster.json) |
 | Dynablaster Revenge | 18445 | [18445-dynablaster-revenge.json](./18445-dynablaster-revenge.json) |
 | Dynabusters | 92413 | [92413-dynabusters.json](./92413-dynabusters.json) |
 | Dynacat | 196958 | [196958-dynacat.json](./196958-dynacat.json) |
