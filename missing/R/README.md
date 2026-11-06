@@ -6212,6 +6212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrowave Rider | 207606 | [207606-retrowave-rider.json](./207606-retrowave-rider.json) |
 | Retrowave Road | 149274 | [149274-retrowave-road.json](./149274-retrowave-road.json) |
 | Retrowave World | 258383 | [258383-retrowave-world.json](./258383-retrowave-world.json) |
+| Retrowave: Map Pack | 201390 | [201390-retrowave-map-pack.json](./201390-retrowave-map-pack.json) |
 | Retrozen | 298417 | [298417-retrozen.json](./298417-retrozen.json) |
 | Retruco 3D | 401508 | [401508-retruco-3d.json](./401508-retruco-3d.json) |
 | Retrys | 355576 | [355576-retrys.json](./355576-retrys.json) |
@@ -12661,6 +12662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running MrBeast | 229338 | [229338-running-mrbeast.json](./229338-running-mrbeast.json) |
 | Running Naked Simulator 2019 | 110810 | [110810-running-naked-simulator-2019.json](./110810-running-naked-simulator-2019.json) |
 | Running on Empty | 214266 | [214266-running-on-empty.json](./214266-running-on-empty.json) |
+| Running on Magic | 201367 | [201367-running-on-magic.json](./201367-running-on-magic.json) |
 | Running Out | 343227 | [343227-running-out.json](./343227-running-out.json) |
 | Running Out of Emptiness | 176643 | [176643-running-out-of-emptiness.json](./176643-running-out-of-emptiness.json) |
 | Running Out of Spice | 179143 | [179143-running-out-of-spice.json](./179143-running-out-of-spice.json) |
