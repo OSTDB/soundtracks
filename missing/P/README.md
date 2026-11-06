@@ -929,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paladins: Founder's Pack | 104446 | [104446-paladins-founders-pack.json](./104446-paladins-founders-pack.json) |
 | Paladins: Season 4 Champions Bundle | 263484 | [263484-paladins-season-4-champions-bundle.json](./263484-paladins-season-4-champions-bundle.json) |
 | PalaDog HD | 235148 | [235148-paladog-hd.json](./235148-paladog-hd.json) |
+| Paladog! | 198003 | [198003-paladog.json](./198003-paladog.json) |
 | Palais de Reine | 130397 | [130397-palais-de-reine.json](./130397-palais-de-reine.json) |
 | Palamedes | 40563 | [40563-palamedes.json](./40563-palamedes.json) |
 | Palamedes II: Star Twinkles | 48808 | [48808-palamedes-ii-star-twinkles.json](./48808-palamedes-ii-star-twinkles.json) |
@@ -2534,6 +2535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Part Time UFO | 75957 | [75957-part-time-ufo.json](./75957-part-time-ufo.json) |
 | Parthian Kings | 23963 | [23963-parthian-kings.json](./23963-parthian-kings.json) |
 | Partia | 233924 | [233924-partia.json](./233924-partia.json) |
+| Partia 2 | 197994 | [197994-partia-2.json](./197994-partia-2.json) |
 | Partia 3 | 197346 | [197346-partia-3.json](./197346-partia-3.json) |
 | Partial Control | 118358 | [118358-partial-control.json](./118358-partial-control.json) |
 | Partially Realio: Bittersweet 16 | 405983 | [405983-partially-realio-bittersweet-16.json](./405983-partially-realio-bittersweet-16.json) |
@@ -8054,6 +8056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Game Maker MV | 105410 | [105410-pixel-game-maker-mv.json](./105410-pixel-game-maker-mv.json) |
 | Pixel Game Maker Series Arcanion: The Mekanos Invasion | 409551 | [409551-pixel-game-maker-series-arcanion-the-mekanos-invasion.json](./409551-pixel-game-maker-series-arcanion-the-mekanos-invasion.json) |
 | Pixel Game Maker Series BombMachine Gunzohg | 231251 | [231251-pixel-game-maker-series-bombmachine-gunzohg.json](./231251-pixel-game-maker-series-bombmachine-gunzohg.json) |
+| Pixel Game Maker Series Dandan Z | 198011 | [198011-pixel-game-maker-series-dandan-z.json](./198011-pixel-game-maker-series-dandan-z.json) |
 | Pixel Game Maker Series LAB | 201085 | [201085-pixel-game-maker-series-lab.json](./201085-pixel-game-maker-series-lab.json) |
 | Pixel Game Maker Series MessiahEnd Refrain | 199930 | [199930-pixel-game-maker-series-messiahend-refrain.json](./199930-pixel-game-maker-series-messiahend-refrain.json) |
 | Pixel Game Maker Series Ninja Sneaking vs: Battle on the Couch | 264904 | [264904-pixel-game-maker-series-ninja-sneaking-vs-battle-on-the-couch.json](./264904-pixel-game-maker-series-ninja-sneaking-vs-battle-on-the-couch.json) |
