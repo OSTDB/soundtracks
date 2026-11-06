@@ -8247,6 +8247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bipolar: The Tube | 327671 | [327671-bipolar-the-tube.json](./327671-bipolar-the-tube.json) |
 | Bipt | 338239 | [338239-bipt.json](./338239-bipt.json) |
 | Bir Garip Diyar: Hatunum Nerede? | 346932 | [346932-bir-garip-diyar-hatunum-nerede.json](./346932-bir-garip-diyar-hatunum-nerede.json) |
+| Biraku Emblem | 222710 | [222710-biraku-emblem.json](./222710-biraku-emblem.json) |
 | Birb | 388699 | [388699-birb.json](./388699-birb.json) |
 | Birb Café | 200356 | [200356-birb-cafe.json](./200356-birb-cafe.json) |
 | Birb Game | 343803 | [343803-birb-game.json](./343803-birb-game.json) |
@@ -12065,6 +12066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BodyQuest | 146997 | [146997-bodyquest.json](./146997-bodyquest.json) |
 | Bodyrain | 293857 | [293857-bodyrain.json](./293857-bodyrain.json) |
 | BodyRecords | 340943 | [340943-bodyrecords.json](./340943-bodyrecords.json) |
+| Bodyslam | 222600 | [222600-bodyslam.json](./222600-bodyslam.json) |
 | BodySlam! | 180705 | [180705-bodyslam.json](./180705-bodyslam.json) |
 | Bodyworks Voyager: Mission in Anatomy | 74084 | [74084-bodyworks-voyager-mission-in-anatomy.json](./74084-bodyworks-voyager-mission-in-anatomy.json) |
 | Boeboeks: De Tocht Naar Opa Kakadoris | 334233 | [334233-boeboeks-de-tocht-naar-opa-kakadoris.json](./334233-boeboeks-de-tocht-naar-opa-kakadoris.json) |
@@ -15453,6 +15455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Race: Silly Edition | 362376 | [362376-bridge-race-silly-edition.json](./362376-bridge-race-silly-edition.json) |
 | Bridge Scorepad | 100690 | [100690-bridge-scorepad.json](./100690-bridge-scorepad.json) |
 | Bridge Strike | 124035 | [124035-bridge-strike.json](./124035-bridge-strike.json) |
+| Bridge Tactics | 222682 | [222682-bridge-tactics.json](./222682-bridge-tactics.json) |
 | Bridge the Gap! | 328446 | [328446-bridge-the-gap.json](./328446-bridge-the-gap.json) |
 | Bridge to Another World Remastered: Burnt Dreams | 397117 | [397117-bridge-to-another-world-remastered-burnt-dreams.json](./397117-bridge-to-another-world-remastered-burnt-dreams.json) |
 | Bridge to Another World Remastered: Burnt Dreams Collector's Edition | 362834 | [362834-bridge-to-another-world-remastered-burnt-dreams-collectors-edition.json](./362834-bridge-to-another-world-remastered-burnt-dreams-collectors-edition.json) |
