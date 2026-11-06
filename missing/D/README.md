@@ -9981,6 +9981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DisasterPR+ | 392484 | [392484-disasterpr.json](./392484-disasterpr.json) |
 | Disasters Escape: The Island | 251932 | [251932-disasters-escape-the-island.json](./251932-disasters-escape-the-island.json) |
 | Disastles Online | 398593 | [398593-disastles-online.json](./398593-disastles-online.json) |
+| Disastory | 205776 | [205776-disastory.json](./205776-disastory.json) |
 | Disastr_Blastr | 33839 | [33839-disastr-blastr.json](./33839-disastr-blastr.json) |
 | Disbelief | 354417 | [354417-disbelief.json](./354417-disbelief.json) |
 | Disc | 365671 | [365671-disc.json](./365671-disc.json) |
@@ -11583,6 +11584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog | 314401 | [314401-dog.json](./314401-dog.json) |
 | Dog Adventure | 187192 | [187192-dog-adventure.json](./187192-dog-adventure.json) |
 | Dog Adventure | 343612 | [343612-dog-adventure.json](./343612-dog-adventure.json) |
+| Dog Adventure Harmony | 205758 | [205758-dog-adventure-harmony.json](./205758-dog-adventure-harmony.json) |
 | Dog Agility 3D | 175506 | [175506-dog-agility-3d.json](./175506-dog-agility-3d.json) |
 | Dog and Bone Are Friends | 60455 | [60455-dog-and-bone-are-friends.json](./60455-dog-and-bone-are-friends.json) |
 | Dog And Goblin | 275748 | [275748-dog-and-goblin.json](./275748-dog-and-goblin.json) |
