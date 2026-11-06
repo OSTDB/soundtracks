@@ -3917,6 +3917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orca: a lenda dos mares | 261949 | [261949-orca-a-lenda-dos-mares.json](./261949-orca-a-lenda-dos-mares.json) |
 | OrcCraft | 97080 | [97080-orccraft.json](./97080-orccraft.json) |
 | Orcdom | 309794 | [309794-orcdom.json](./309794-orcdom.json) |
+| Orcen Axe | 223748 | [223748-orcen-axe.json](./223748-orcen-axe.json) |
 | Orch Star | 76615 | [76615-orch-star.json](./76615-orch-star.json) |
 | Orchard | 287538 | [287538-orchard.json](./287538-orchard.json) |
 | Orchard | 92511 | [92511-orchard.json](./92511-orchard.json) |
@@ -3949,6 +3950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orcs Must Die! 3: Tipping the Scales | 196475 | [196475-orcs-must-die-3-tipping-the-scales.json](./196475-orcs-must-die-3-tipping-the-scales.json) |
 | Orcs Must Die! By the Blade | 377658 | [377658-orcs-must-die-by-the-blade.json](./377658-orcs-must-die-by-the-blade.json) |
 | Orcs Must Die! Unchained | 9637 | [9637-orcs-must-die-unchained.json](./9637-orcs-must-die-unchained.json) |
+| Orcs Must Die! Unchained: Hero Bundle | 223824 | [223824-orcs-must-die-unchained-hero-bundle.json](./223824-orcs-must-die-unchained-hero-bundle.json) |
 | Orcs Must Die!: Artifacts of Power | 14540 | [14540-orcs-must-die-artifacts-of-power.json](./14540-orcs-must-die-artifacts-of-power.json) |
 | Orcs Must Die!: Lost Adventures | 14541 | [14541-orcs-must-die-lost-adventures.json](./14541-orcs-must-die-lost-adventures.json) |
 | Orcs Will Never Be Slaves | 323687 | [323687-orcs-will-never-be-slaves.json](./323687-orcs-will-never-be-slaves.json) |
