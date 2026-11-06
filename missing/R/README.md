@@ -806,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdoll Playground | 369746 | [369746-ragdoll-playground.json](./369746-ragdoll-playground.json) |
 | Ragdoll Playground Sandbox | 392261 | [392261-ragdoll-playground-sandbox.json](./392261-ragdoll-playground-sandbox.json) |
 | Ragdoll Racers | 166944 | [166944-ragdoll-racers.json](./166944-ragdoll-racers.json) |
+| Ragdoll Rage: Heroes Arena | 233862 | [233862-ragdoll-rage-heroes-arena.json](./233862-ragdoll-rage-heroes-arena.json) |
 | Ragdoll Rumble | 318990 | [318990-ragdoll-rumble.json](./318990-ragdoll-rumble.json) |
 | Ragdoll Slayer | 219646 | [219646-ragdoll-slayer.json](./219646-ragdoll-slayer.json) |
 | Ragdoll Toss | 179124 | [179124-ragdoll-toss.json](./179124-ragdoll-toss.json) |
@@ -4151,6 +4152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redemption's Guild | 76417 | [76417-redemptions-guild.json](./76417-redemptions-guild.json) |
 | Redemptoris: Isekai | 186079 | [186079-redemptoris-isekai.json](./186079-redemptoris-isekai.json) |
 | RedEx | 163956 | [163956-redex.json](./163956-redex.json) |
+| Redfall: Bite Back Edition | 233871 | [233871-redfall-bite-back-edition.json](./233871-redfall-bite-back-edition.json) |
 | Redfall: Steelbook Launch Edition | 350534 | [350534-redfall-steelbook-launch-edition.json](./350534-redfall-steelbook-launch-edition.json) |
 | Redfir Hills | 304116 | [304116-redfir-hills.json](./304116-redfir-hills.json) |
 | Redfoot Bluefoot Dancing | 41965 | [41965-redfoot-bluefoot-dancing.json](./41965-redfoot-bluefoot-dancing.json) |
@@ -4694,6 +4696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rektangle | 11239 | [11239-rektangle.json](./11239-rektangle.json) |
 | Rekuiemu Nikki | 257192 | [257192-rekuiemu-nikki.json](./257192-rekuiemu-nikki.json) |
 | Reky | 122329 | [122329-reky.json](./122329-reky.json) |
+| Reky + Brawl Chess | 233859 | [233859-reky-brawl-chess.json](./233859-reky-brawl-chess.json) |
 | Reky + Cyber Protocol | 231343 | [231343-reky-cyber-protocol.json](./231343-reky-cyber-protocol.json) |
 | Rela | 383454 | [383454-rela.json](./383454-rela.json) |
 | Relapse | 183746 | [183746-relapse.json](./183746-relapse.json) |
