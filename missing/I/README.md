@@ -1756,6 +1756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Hakken-den | 7905 | [7905-idol-hakken-den.json](./7905-idol-hakken-den.json) |
 | Idol Hanafuda Fan Club | 37664 | [37664-idol-hanafuda-fan-club.json](./37664-idol-hanafuda-fan-club.json) |
 | Idol Hands | 195711 | [195711-idol-hands.json](./195711-idol-hands.json) |
+| Idol Hands 2 | 207465 | [207465-idol-hands-2.json](./207465-idol-hands-2.json) |
 | Idol Hell | 212052 | [212052-idol-hell.json](./212052-idol-hell.json) |
 | Idol Hunter: Hentai | 211719 | [211719-idol-hunter-hentai.json](./211719-idol-hunter-hentai.json) |
 | Idol Incidents | 56317 | [56317-idol-incidents.json](./56317-idol-incidents.json) |
@@ -3854,6 +3855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
