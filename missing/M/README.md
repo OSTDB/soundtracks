@@ -5938,7 +5938,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -6438,6 +6437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me and My Cat's Island | 285915 | [285915-me-and-my-cats-island.json](./285915-me-and-my-cats-island.json) |
 | Me and My Dinosaur | 58696 | [58696-me-and-my-dinosaur.json](./58696-me-and-my-dinosaur.json) |
 | Me and My Dogs: Friends Forever | 67090 | [67090-me-and-my-dogs-friends-forever.json](./67090-me-and-my-dogs-friends-forever.json) |
+| Me and My Eldritch Parasite | 199675 | [199675-me-and-my-eldritch-parasite.json](./199675-me-and-my-eldritch-parasite.json) |
 | Me and My Shadow | 124037 | [124037-me-and-my-shadow.json](./124037-me-and-my-shadow.json) |
 | Me and the Key | 224972 | [224972-me-and-the-key.json](./224972-me-and-the-key.json) |
 | Me and the Key 2 | 225280 | [225280-me-and-the-key-2.json](./225280-me-and-the-key-2.json) |
