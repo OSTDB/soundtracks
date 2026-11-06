@@ -3882,6 +3882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's Your Story? | 88913 | [88913-whats-your-story.json](./88913-whats-your-story.json) |
 | What'Sub | 389941 | [389941-whatsub.json](./389941-whatsub.json) |
 | Whatcha Loopin At? | 364688 | [364688-whatcha-loopin-at.json](./364688-whatcha-loopin-at.json) |
+| Whatever | 199711 | [199711-whatever.json](./199711-whatever.json) |
 | Whatever It Takes | 400092 | [400092-whatever-it-takes.json](./400092-whatever-it-takes.json) |
 | Whatever We Decide to Call this Game | 313452 | [313452-whatever-we-decide-to-call-this-game.json](./313452-whatever-we-decide-to-call-this-game.json) |
 | Whateverland | 126594 | [126594-whateverland.json](./126594-whateverland.json) |
