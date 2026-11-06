@@ -1453,6 +1453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Apocalypse | 18053 | [18053-zombie-apocalypse.json](./18053-zombie-apocalypse.json) |
 | Zombie Apocalypse 2021 | 154381 | [154381-zombie-apocalypse-2021.json](./154381-zombie-apocalypse-2021.json) |
 | Zombie Apocalypse Mini Golf | 118606 | [118606-zombie-apocalypse-mini-golf.json](./118606-zombie-apocalypse-mini-golf.json) |
+| Zombie Apocalypse Survival Simulator | 221563 | [221563-zombie-apocalypse-survival-simulator.json](./221563-zombie-apocalypse-survival-simulator.json) |
 | Zombie Apocalypse Survivor | 291202 | [291202-zombie-apocalypse-survivor.json](./291202-zombie-apocalypse-survivor.json) |
 | Zombie Apocalypse Survivor | 99616 | [99616-zombie-apocalypse-survivor.json](./99616-zombie-apocalypse-survivor.json) |
 | Zombie Apocalypse: Bounty Hunter | 117441 | [117441-zombie-apocalypse-bounty-hunter.json](./117441-zombie-apocalypse-bounty-hunter.json) |
@@ -1574,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Cubes | 111169 | [111169-zombie-cubes.json](./111169-zombie-cubes.json) |
 | Zombie Cubes | 231997 | [231997-zombie-cubes.json](./231997-zombie-cubes.json) |
 | Zombie Cure Lab | 165153 | [165153-zombie-cure-lab.json](./165153-zombie-cure-lab.json) |
+| Zombie Dash | 221551 | [221551-zombie-dash.json](./221551-zombie-dash.json) |
 | Zombie Dash | 328390 | [328390-zombie-dash.json](./328390-zombie-dash.json) |
 | Zombie Dash | 377133 | [377133-zombie-dash.json](./377133-zombie-dash.json) |
 | Zombie Dead Smasher Shooter: Premium Edition | 283163 | [283163-zombie-dead-smasher-shooter-premium-edition.json](./283163-zombie-dead-smasher-shooter-premium-edition.json) |
