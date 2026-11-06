@@ -733,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odin's Fate | 425873 | [425873-odins-fate.json](./425873-odins-fate.json) |
 | Odin's Ring | 213443 | [213443-odins-ring.json](./213443-odins-ring.json) |
 | Odin's Tea Party | 226131 | [226131-odins-tea-party.json](./226131-odins-tea-party.json) |
+| Odinfall | 244574 | [244574-odinfall.json](./244574-odinfall.json) |
 | Odinochestvo Skufa | 387055 | [387055-odinochestvo-skufa.json](./387055-odinochestvo-skufa.json) |
 | Odiumfloreo | 371823 | [371823-odiumfloreo.json](./371823-odiumfloreo.json) |
 | Odo Odo Oddity | 143676 | [143676-odo-odo-oddity.json](./143676-odo-odo-oddity.json) |
@@ -1999,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On My Way Out | 365896 | [365896-on-my-way-out.json](./365896-on-my-way-out.json) |
 | On N Off | 246356 | [246356-on-n-off.json](./246356-on-n-off.json) |
 | On Pixels: A Lights Out Game | 172175 | [172175-on-pixels-a-lights-out-game.json](./172175-on-pixels-a-lights-out-game.json) |
+| On Point | 244543 | [244543-on-point.json](./244543-on-point.json) |
 | On Roads Between | 332954 | [332954-on-roads-between.json](./332954-on-roads-between.json) |
 | On Rusty Trails | 19479 | [19479-on-rusty-trails.json](./19479-on-rusty-trails.json) |
 | On S’en Grille Une? | 386879 | [386879-on-s-en-grille-une.json](./386879-on-s-en-grille-une.json) |
