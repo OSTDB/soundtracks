@@ -518,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fading Star Melody | 328098 | [328098-fading-star-melody.json](./328098-fading-star-melody.json) |
 | Fading Visage | 101622 | [101622-fading-visage.json](./101622-fading-visage.json) |
 | Fadó | 124188 | [124188-fado.json](./124188-fado.json) |
+| Fae & Fauna | 244566 | [244566-fae-and-fauna.json](./244566-fae-and-fauna.json) |
 | Fae Farm: Coasts of Croakia | 278681 | [278681-fae-farm-coasts-of-croakia.json](./278681-fae-farm-coasts-of-croakia.json) |
 | Fae Farm: Skies of Azoria | 331464 | [331464-fae-farm-skies-of-azoria.json](./331464-fae-farm-skies-of-azoria.json) |
 | Fae Line | 297072 | [297072-fae-line.json](./297072-fae-line.json) |
@@ -8826,6 +8827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food and Wood | 373293 | [373293-food-and-wood.json](./373293-food-and-wood.json) |
 | Food Battle: The Game | 200364 | [200364-food-battle-the-game.json](./200364-food-battle-the-game.json) |
 | Food Bomber | 107795 | [107795-food-bomber.json](./107795-food-bomber.json) |
+| Food Boy | 244533 | [244533-food-boy.json](./244533-food-boy.json) |
 | Food Cart Simulator | 346174 | [346174-food-cart-simulator.json](./346174-food-cart-simulator.json) |
 | Food Cart, Inc. | 349025 | [349025-food-cart-inc.json](./349025-food-cart-inc.json) |
 | Food Chain | 209464 | [209464-food-chain.json](./209464-food-chain.json) |
@@ -9778,6 +9780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Hill: The Wardrobe - Other Friends | 393167 | [393167-forgotten-hill-the-wardrobe-other-friends.json](./393167-forgotten-hill-the-wardrobe-other-friends.json) |
 | Forgotten Hope | 147234 | [147234-forgotten-hope.json](./147234-forgotten-hope.json) |
 | Forgotten Hope | 319675 | [319675-forgotten-hope.json](./319675-forgotten-hope.json) |
+| Forgotten House | 244569 | [244569-forgotten-house.json](./244569-forgotten-house.json) |
 | Forgotten Isle | 422067 | [422067-forgotten-isle.json](./422067-forgotten-isle.json) |
 | Forgotten Journey | 350352 | [350352-forgotten-journey.json](./350352-forgotten-journey.json) |
 | Forgotten Knight | 277124 | [277124-forgotten-knight.json](./277124-forgotten-knight.json) |
@@ -12232,6 +12235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From A to B | 239111 | [239111-from-a-to-b.json](./239111-from-a-to-b.json) |
 | From Ashes | 383594 | [383594-from-ashes.json](./383594-from-ashes.json) |
 | From Ashes | 56371 | [56371-from-ashes.json](./56371-from-ashes.json) |
+| From Ashes, Bloom | 244575 | [244575-from-ashes-bloom.json](./244575-from-ashes-bloom.json) |
 | From Atom to Modern | 368431 | [368431-from-atom-to-modern.json](./368431-from-atom-to-modern.json) |
 | From Basement with Love | 384057 | [384057-from-basement-with-love.json](./384057-from-basement-with-love.json) |
 | From Below | 415065 | [415065-from-below.json](./415065-from-below.json) |
