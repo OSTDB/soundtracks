@@ -2930,6 +2930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mancala Pro | 87863 | [87863-mancala-pro.json](./87863-mancala-pro.json) |
 | Mancala Snails | 321617 | [321617-mancala-snails.json](./321617-mancala-snails.json) |
 | Mancers of Magic | 295765 | [295765-mancers-of-magic.json](./295765-mancers-of-magic.json) |
+| Manchester Beat | 245104 | [245104-manchester-beat.json](./245104-manchester-beat.json) |
 | Manchester United | 72167 | [72167-manchester-united.json](./72167-manchester-united.json) |
 | Manchester United Championship Soccer | 42503 | [42503-manchester-united-championship-soccer.json](./42503-manchester-united-championship-soccer.json) |
 | Manchester United Club Football | 52013 | [52013-manchester-united-club-football.json](./52013-manchester-united-club-football.json) |
@@ -4820,6 +4821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maseylia: Echoes of the Past | 302107 | [302107-maseylia-echoes-of-the-past.json](./302107-maseylia-echoes-of-the-past.json) |
 | Mash | 100606 | [100606-mash.json](./100606-mash.json) |
 | Mash Gadget | 202049 | [202049-mash-gadget.json](./202049-mash-gadget.json) |
+| Mash Man | 245096 | [245096-mash-man.json](./245096-mash-man.json) |
 | Mash Motion: Sprint Rush | 397950 | [397950-mash-motion-sprint-rush.json](./397950-mash-motion-sprint-rush.json) |
 | Mash VP! Re:Vision | 319746 | [319746-mash-vp-re-vision.json](./319746-mash-vp-re-vision.json) |
 | Mash&Co | 119645 | [119645-mash-and-co.json](./119645-mash-and-co.json) |
@@ -7950,6 +7952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megalo Malady | 395711 | [395711-megalo-malady.json](./395711-megalo-malady.json) |
 | Megalo Polis | 18114 | [18114-megalo-polis.json](./18114-megalo-polis.json) |
 | Megalomaniac | 28280 | [28280-megalomaniac.json](./28280-megalomaniac.json) |
+| Megalonia | 245074 | [245074-megalonia.json](./245074-megalonia.json) |
 | Megaloot | 274998 | [274998-megaloot.json](./274998-megaloot.json) |
 | Megalophobia | 396338 | [396338-megalophobia.json](./396338-megalophobia.json) |
 | Megalopolis SOS | 138004 | [138004-megalopolis-sos.json](./138004-megalopolis-sos.json) |
@@ -8972,6 +8975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Menzoberranzan | 2515 | [2515-menzoberranzan.json](./2515-menzoberranzan.json) |
 | Meo+ | 249363 | [249363-meo.json](./249363-meo.json) |
 | Meomidorian Prince | 182739 | [182739-meomidorian-prince.json](./182739-meomidorian-prince.json) |
+| Meong | 245077 | [245077-meong.json](./245077-meong.json) |
 | Meong Puzzel | 188285 | [188285-meong-puzzel.json](./188285-meong-puzzel.json) |
 | Meongnyang Animal Hospital Companion Animal Health Guardian! | 234554 | [234554-meongnyang-animal-hospital-companion-animal-health-guardian.json](./234554-meongnyang-animal-hospital-companion-animal-health-guardian.json) |
 | Meor | 144609 | [144609-meor.json](./144609-meor.json) |
@@ -10428,6 +10432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Maniacs Racing | 44768 | [44768-micro-maniacs-racing.json](./44768-micro-maniacs-racing.json) |
 | Micro Mayhem | 115040 | [115040-micro-mayhem.json](./115040-micro-mayhem.json) |
 | Micro Maze | 252731 | [252731-micro-maze.json](./252731-micro-maze.json) |
+| Micro Mike | 245083 | [245083-micro-mike.json](./245083-micro-mike.json) |
 | Micro Miners | 74338 | [74338-micro-miners.json](./74338-micro-miners.json) |
 | Micro Monster Park | 105874 | [105874-micro-monster-park.json](./105874-micro-monster-park.json) |
 | Micro Monster Truck | 91352 | [91352-micro-monster-truck.json](./91352-micro-monster-truck.json) |
