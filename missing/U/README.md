@@ -883,6 +883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Off-Road Simulator 2019: Alaska | 113407 | [113407-ultra-off-road-simulator-2019-alaska.json](./113407-ultra-off-road-simulator-2019-alaska.json) |
 | Ultra Pig | 112614 | [112614-ultra-pig.json](./112614-ultra-pig.json) |
 | Ultra Pixel Survive | 243763 | [243763-ultra-pixel-survive.json](./243763-ultra-pixel-survive.json) |
+| Ultra Pro Wrestling | 236084 | [236084-ultra-pro-wrestling.json](./236084-ultra-pro-wrestling.json) |
 | Ultra Rainbow Bake Sale | 57969 | [57969-ultra-rainbow-bake-sale.json](./57969-ultra-rainbow-bake-sale.json) |
 | Ultra Realistic Mine | 416820 | [416820-ultra-realistic-mine.json](./416820-ultra-realistic-mine.json) |
 | Ultra Rhythm | 227876 | [227876-ultra-rhythm.json](./227876-ultra-rhythm.json) |
@@ -1814,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnderPoint | 378541 | [378541-underpoint.json](./378541-underpoint.json) |
 | Underpond | 376444 | [376444-underpond.json](./376444-underpond.json) |
 | Underponder | 151189 | [151189-underponder.json](./151189-underponder.json) |
+| Underpowered | 236096 | [236096-underpowered.json](./236096-underpowered.json) |
 | Underpowered Night Spooks | 292408 | [292408-underpowered-night-spooks.json](./292408-underpowered-night-spooks.json) |
 | Underquest | 250016 | [250016-underquest.json](./250016-underquest.json) |
 | UnderRaid | 56125 | [56125-underraid.json](./56125-underraid.json) |
