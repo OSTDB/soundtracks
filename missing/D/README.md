@@ -2210,6 +2210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkscrolls | 137648 | [137648-darkscrolls.json](./137648-darkscrolls.json) |
 | DarkSelf: Other Mind | 203568 | [203568-darkself-other-mind.json](./203568-darkself-other-mind.json) |
 | DarkShine | 356295 | [356295-darkshine.json](./356295-darkshine.json) |
+| Darkside | 243476 | [243476-darkside.json](./243476-darkside.json) |
 | Darkside | 60515 | [60515-darkside.json](./60515-darkside.json) |
 | Darkside | 78657 | [78657-darkside.json](./78657-darkside.json) |
 | Darkside Adventures: A Game with a Kitty 2 | 313564 | [313564-darkside-adventures-a-game-with-a-kitty-2.json](./313564-darkside-adventures-a-game-with-a-kitty-2.json) |
@@ -4895,6 +4896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decimal | 192659 | [192659-decimal.json](./192659-decimal.json) |
 | Decimals | 44355 | [44355-decimals.json](./44355-decimals.json) |
 | Decimals 2 | 44356 | [44356-decimals-2.json](./44356-decimals-2.json) |
+| Decimate Drive | 243460 | [243460-decimate-drive.json](./243460-decimate-drive.json) |
 | Decimated | 206358 | [206358-decimated.json](./206358-decimated.json) |
 | Decimation | 390437 | [390437-decimation.json](./390437-decimation.json) |
 | Decimation X | 66374 | [66374-decimation-x.json](./66374-decimation-x.json) |
@@ -10595,6 +10597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disposable Heroes | 146079 | [146079-disposable-heroes.json](./146079-disposable-heroes.json) |
 | Disposable heroes 2 : The curse that killed a queen | 173193 | [173193-disposable-heroes-2-the-curse-that-killed-a-queen.json](./173193-disposable-heroes-2-the-curse-that-killed-a-queen.json) |
 | Disposal Of Otherworldly Monsters | 271223 | [271223-disposal-of-otherworldly-monsters.json](./271223-disposal-of-otherworldly-monsters.json) |
+| Disposition | 243461 | [243461-disposition.json](./243461-disposition.json) |
 | Disposition | 318007 | [318007-disposition.json](./318007-disposition.json) |
 | Disputed Space | 40487 | [40487-disputed-space.json](./40487-disputed-space.json) |
 | Disquiet | 226736 | [226736-disquiet.json](./226736-disquiet.json) |
