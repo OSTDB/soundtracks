@@ -8495,6 +8495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey Fight Pro | 102579 | [102579-hockey-fight-pro.json](./102579-hockey-fight-pro.json) |
 | Hockey Fights | 93559 | [93559-hockey-fights.json](./93559-hockey-fights.json) |
 | Hockey Hockey Club | 315992 | [315992-hockey-hockey-club.json](./315992-hockey-hockey-club.json) |
+| Hockey Hysteria | 223839 | [223839-hockey-hysteria.json](./223839-hockey-hysteria.json) |
 | Hockey League Simulator | 15503 | [15503-hockey-league-simulator.json](./15503-hockey-league-simulator.json) |
 | Hockey League Simulator II | 15504 | [15504-hockey-league-simulator-ii.json](./15504-hockey-league-simulator-ii.json) |
 | Hockey Legacy Manager 25 | 340475 | [340475-hockey-legacy-manager-25.json](./340475-hockey-legacy-manager-25.json) |
@@ -11691,6 +11692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Cat Nonogram | 207862 | [207862-hungry-cat-nonogram.json](./207862-hungry-cat-nonogram.json) |
 | Hungry Cat Picross | 103384 | [103384-hungry-cat-picross.json](./103384-hungry-cat-picross.json) |
 | Hungry Cats | 276646 | [276646-hungry-cats.json](./276646-hungry-cats.json) |
+| Hungry Caveman | 223813 | [223813-hungry-caveman.json](./223813-hungry-caveman.json) |
 | Hungry Chicks: Battle Farm | 402265 | [402265-hungry-chicks-battle-farm.json](./402265-hungry-chicks-battle-farm.json) |
 | Hungry Corgi | 255728 | [255728-hungry-corgi.json](./255728-hungry-corgi.json) |
 | Hungry Corgis | 63527 | [63527-hungry-corgis.json](./63527-hungry-corgis.json) |
@@ -11728,6 +11730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Meem | 328179 | [328179-hungry-meem.json](./328179-hungry-meem.json) |
 | Hungry Monster | 241857 | [241857-hungry-monster.json](./241857-hungry-monster.json) |
 | Hungry Monster Food Rain | 356503 | [356503-hungry-monster-food-rain.json](./356503-hungry-monster-food-rain.json) |
+| Hungry Penguin | 223838 | [223838-hungry-penguin.json](./223838-hungry-penguin.json) |
 | Hungry Piggy Vs. Chicken | 99657 | [99657-hungry-piggy-vs-chicken.json](./99657-hungry-piggy-vs-chicken.json) |
 | Hungry Pigs | 206180 | [206180-hungry-pigs.json](./206180-hungry-pigs.json) |
 | Hungry Piranha Hunting - Shark Spear-fishing world | 104527 | [104527-hungry-piranha-hunting-shark-spear-fishing-world.json](./104527-hungry-piranha-hunting-shark-spear-fishing-world.json) |
