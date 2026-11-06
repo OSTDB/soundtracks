@@ -4434,6 +4434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OSR Unhinged | 91946 | [91946-osr-unhinged.json](./91946-osr-unhinged.json) |
 | Ossan Kyoushi no Joshikousei Tsuma ga Yarichin Danshi ni Netorareru Hanashi | 82996 | [82996-ossan-kyoushi-no-joshikousei-tsuma-ga-yarichin-danshi-ni-netorareru-hanashi.json](./82996-ossan-kyoushi-no-joshikousei-tsuma-ga-yarichin-danshi-ni-netorareru-hanashi.json) |
 | Osseous and Swordy | 263220 | [263220-osseous-and-swordy.json](./263220-osseous-and-swordy.json) |
+| Ossuarium | 230079 | [230079-ossuarium.json](./230079-ossuarium.json) |
 | Ostalgie: Disorder in Yugoslavia | 196151 | [196151-ostalgie-disorder-in-yugoslavia.json](./196151-ostalgie-disorder-in-yugoslavia.json) |
 | Ostalgie: Fall of the Curtain | 174152 | [174152-ostalgie-fall-of-the-curtain.json](./174152-ostalgie-fall-of-the-curtain.json) |
 | Ostalgie: The Berlin Wall | 90250 | [90250-ostalgie-the-berlin-wall.json](./90250-ostalgie-the-berlin-wall.json) |
@@ -4788,6 +4789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Journey: The Silent Voice | 355328 | [355328-our-journey-the-silent-voice.json](./355328-our-journey-the-silent-voice.json) |
 | Our Journeys: A Collection of Visual Novels | 129051 | [129051-our-journeys-a-collection-of-visual-novels.json](./129051-our-journeys-a-collection-of-visual-novels.json) |
 | Our Lady of Sorrow | 215035 | [215035-our-lady-of-sorrow.json](./215035-our-lady-of-sorrow.json) |
+| Our Lady of the Drowned Lake, Zero Reporter | 230081 | [230081-our-lady-of-the-drowned-lake-zero-reporter.json](./230081-our-lady-of-the-drowned-lake-zero-reporter.json) |
 | Our Land | 231130 | [231130-our-land.json](./231130-our-land.json) |
 | Our Last Conversation | 369295 | [369295-our-last-conversation.json](./369295-our-last-conversation.json) |
 | Our Last Dayz | 249711 | [249711-our-last-dayz.json](./249711-our-last-dayz.json) |
