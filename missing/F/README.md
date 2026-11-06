@@ -629,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairly Life | 90928 | [90928-fairly-life.json](./90928-fairly-life.json) |
 | Fairly Nude | 75575 | [75575-fairly-nude.json](./75575-fairly-nude.json) |
 | Fairly Nude | 75576 | [75576-fairly-nude.json](./75576-fairly-nude.json) |
+| Fairmoon Museum | 210964 | [210964-fairmoon-museum.json](./210964-fairmoon-museum.json) |
 | Fairspace | 17803 | [17803-fairspace.json](./17803-fairspace.json) |
 | Fairune | 386353 | [386353-fairune.json](./386353-fairune.json) |
 | Fairune 2 | 57297 | [57297-fairune-2.json](./57297-fairune-2.json) |
@@ -10826,6 +10827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Seals | 117469 | [117469-four-seals.json](./117469-four-seals.json) |
 | Four Seasons - A fan-created Avatar Game | 143730 | [143730-four-seasons-a-fan-created-avatar-game.json](./143730-four-seasons-a-fan-created-avatar-game.json) |
 | Four Seasons Around the World: Autumn in France | 341616 | [341616-four-seasons-around-the-world-autumn-in-france.json](./341616-four-seasons-around-the-world-autumn-in-france.json) |
+| Four Seasons Around the World: Spring in Japan | 210932 | [210932-four-seasons-around-the-world-spring-in-japan.json](./210932-four-seasons-around-the-world-spring-in-japan.json) |
 | Four Seasons Around the World: Winter in New York | 294389 | [294389-four-seasons-around-the-world-winter-in-new-york.json](./294389-four-seasons-around-the-world-winter-in-new-york.json) |
 | Four Seasons: Autumn | 387427 | [387427-four-seasons-autumn.json](./387427-four-seasons-autumn.json) |
 | Four seasons: Spring | 386808 | [386808-four-seasons-spring.json](./386808-four-seasons-spring.json) |
