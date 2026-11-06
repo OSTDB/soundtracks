@@ -2468,6 +2468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman: 30th Anniversary Edition | 389429 | [389429-rayman-30th-anniversary-edition.json](./389429-rayman-30th-anniversary-edition.json) |
 | Rayman: Hoodlums' Revenge | 1967 | [1967-rayman-hoodlums-revenge.json](./1967-rayman-hoodlums-revenge.json) |
 | Rayman: Slap, Flap, and Go! | 61277 | [61277-rayman-slap-flap-and-go.json](./61277-rayman-slap-flap-and-go.json) |
+| Rayman: The Dark Magician's Reign of Terror | 222592 | [222592-rayman-the-dark-magicians-reign-of-terror.json](./222592-rayman-the-dark-magicians-reign-of-terror.json) |
 | Rayman: The Dreamer's Boundary | 217782 | [217782-rayman-the-dreamers-boundary.json](./217782-rayman-the-dreamers-boundary.json) |
 | Raymond's Obstacle Course | 80976 | [80976-raymonds-obstacle-course.json](./80976-raymonds-obstacle-course.json) |
 | Raymundo Aventuras: The Definitive Edition | 290108 | [290108-raymundo-aventuras-the-definitive-edition.json](./290108-raymundo-aventuras-the-definitive-edition.json) |
@@ -9433,6 +9434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Man | 315331 | [315331-rocket-man.json](./315331-rocket-man.json) |
 | Rocket Mania | 195213 | [195213-rocket-mania.json](./195213-rocket-mania.json) |
 | Rocket Mania Deluxe | 27815 | [27815-rocket-mania-deluxe.json](./27815-rocket-mania-deluxe.json) |
+| Rocket Monsters | 222689 | [222689-rocket-monsters.json](./222689-rocket-monsters.json) |
 | Rocket of Whispers: Prologue | 107424 | [107424-rocket-of-whispers-prologue.json](./107424-rocket-of-whispers-prologue.json) |
 | Rocket Panda | 302425 | [302425-rocket-panda.json](./302425-rocket-panda.json) |
 | Rocket Panda Panic | 149818 | [149818-rocket-panda-panic.json](./149818-rocket-panda-panic.json) |
@@ -12099,6 +12101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumble in the Soup | 101883 | [101883-rumble-in-the-soup.json](./101883-rumble-in-the-soup.json) |
 | Rumble League | 126042 | [126042-rumble-league.json](./126042-rumble-league.json) |
 | Rumble Racing | 43280 | [43280-rumble-racing.json](./43280-rumble-racing.json) |
+| Rumble Rivals | 222688 | [222688-rumble-rivals.json](./222688-rumble-rivals.json) |
 | Rumble Road | 182026 | [182026-rumble-road.json](./182026-rumble-road.json) |
 | Rumble Road | 58666 | [58666-rumble-road.json](./58666-rumble-road.json) |
 | Rumble Roses XX | 7167 | [7167-rumble-roses-xx.json](./7167-rumble-roses-xx.json) |
@@ -12639,6 +12642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Wild | 44973 | [44973-running-wild.json](./44973-running-wild.json) |
 | Running With Dinosaurs | 103470 | [103470-running-with-dinosaurs.json](./103470-running-with-dinosaurs.json) |
 | Running With Rifles 2 | 359709 | [359709-running-with-rifles-2.json](./359709-running-with-rifles-2.json) |
+| Running With Rifles: Eastern Front | 222673 | [222673-running-with-rifles-eastern-front.json](./222673-running-with-rifles-eastern-front.json) |
 | RunningDead | 29650 | [29650-runningdead.json](./29650-runningdead.json) |
 | RunningJoe | 30716 | [30716-runningjoe.json](./30716-runningjoe.json) |
 | Runnordai | 254844 | [254844-runnordai.json](./254844-runnordai.json) |
@@ -12690,6 +12694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusa Odyssey | 159783 | [159783-rusa-odyssey.json](./159783-rusa-odyssey.json) |
 | Rush | 131541 | [131541-rush.json](./131541-rush.json) |
 | Rush | 200584 | [200584-rush.json](./200584-rush.json) |
+| Rush | 222675 | [222675-rush.json](./222675-rush.json) |
 | Rush | 272586 | [272586-rush.json](./272586-rush.json) |
 | Rush | 326737 | [326737-rush.json](./326737-rush.json) |
 | Rush | 7634 | [7634-rush.json](./7634-rush.json) |
@@ -12999,6 +13004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RUVN Contest Reboot | 292759 | [292759-ruvn-contest-reboot.json](./292759-ruvn-contest-reboot.json) |
 | Ruya | 106853 | [106853-ruya.json](./106853-ruya.json) |
 | Ruyn HD | 345565 | [345565-ruyn-hd.json](./345565-ruyn-hd.json) |
+| Ruza | 222696 | [222696-ruza.json](./222696-ruza.json) |
 | Ruzar: The Dark Stones | 310217 | [310217-ruzar-the-dark-stones.json](./310217-ruzar-the-dark-stones.json) |
 | Ruzh Delta Z | 35230 | [35230-ruzh-delta-z.json](./35230-ruzh-delta-z.json) |
 | Ruzzle | 58212 | [58212-ruzzle.json](./58212-ruzzle.json) |
