@@ -8883,6 +8883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Dug II: Trouble in Paradise | 389860 | [389860-dig-dug-ii-trouble-in-paradise.json](./389860-dig-dug-ii-trouble-in-paradise.json) |
 | Dig Dug Island: Minami no Jima no Pukapukapon | 315587 | [315587-dig-dug-island-minami-no-jima-no-pukapukapon.json](./315587-dig-dug-island-minami-no-jima-no-pukapukapon.json) |
 | Dig Dug New Frontier | 350575 | [350575-dig-dug-new-frontier.json](./350575-dig-dug-new-frontier.json) |
+| Dig Dug Remix | 229461 | [229461-dig-dug-remix.json](./229461-dig-dug-remix.json) |
 | Dig Dug Revival | 187086 | [187086-dig-dug-revival.json](./187086-dig-dug-revival.json) |
 | Dig Dug: Digging Strike | 47729 | [47729-dig-dug-digging-strike.json](./47729-dig-dug-digging-strike.json) |
 | Dig Dungeon: Roguelike | 233498 | [233498-dig-dungeon-roguelike.json](./233498-dig-dungeon-roguelike.json) |
@@ -11214,6 +11215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Unto Others | 177252 | [177252-do-unto-others.json](./177252-do-unto-others.json) |
 | Do Up | 365832 | [365832-do-up.json](./365832-do-up.json) |
 | Do Us Part | 276106 | [276106-do-us-part.json](./276106-do-us-part.json) |
+| Do What They Say | 229442 | [229442-do-what-they-say.json](./229442-do-what-they-say.json) |
 | Do You Even Brick?! | 401548 | [401548-do-you-even-brick.json](./401548-do-you-even-brick.json) |
 | Do You Even Forklift? | 347479 | [347479-do-you-even-forklift.json](./347479-do-you-even-forklift.json) |
 | Do You Have a Moment to Talk About Our Lord and Savior? | 336668 | [336668-do-you-have-a-moment-to-talk-about-our-lord-and-savior.json](./336668-do-you-have-a-moment-to-talk-about-our-lord-and-savior.json) |
@@ -12246,6 +12248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Eat Soap! | 60919 | [60919-dont-eat-soap.json](./60919-dont-eat-soap.json) |
 | Don’t Eat the Cashier! | 392432 | [392432-don-t-eat-the-cashier.json](./392432-don-t-eat-the-cashier.json) |
 | Don't Eat the Mushroom | 245620 | [245620-dont-eat-the-mushroom.json](./245620-dont-eat-the-mushroom.json) |
+| Don't Enter the Forest | 229444 | [229444-dont-enter-the-forest.json](./229444-dont-enter-the-forest.json) |
 | Don't Escape | 123697 | [123697-dont-escape.json](./123697-dont-escape.json) |
 | Don't Escape | 223670 | [223670-dont-escape.json](./223670-dont-escape.json) |
 | Don't Escape 2 | 123698 | [123698-dont-escape-2.json](./123698-dont-escape-2.json) |
@@ -12299,6 +12302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Get Tagged | 203667 | [203667-dont-get-tagged.json](./203667-dont-get-tagged.json) |
 | Don't Get the Job | 177870 | [177870-dont-get-the-job.json](./177870-dont-get-the-job.json) |
 | Don't Give Up on Me! | 238840 | [238840-dont-give-up-on-me.json](./238840-dont-give-up-on-me.json) |
+| Don't Give Up the Cat | 229450 | [229450-dont-give-up-the-cat.json](./229450-dont-give-up-the-cat.json) |
 | Don't Give Up: A Cynical Tale | 111141 | [111141-dont-give-up-a-cynical-tale.json](./111141-dont-give-up-a-cynical-tale.json) |
 | Don't Give Up: Not Ready to Die | 158530 | [158530-dont-give-up-not-ready-to-die.json](./158530-dont-give-up-not-ready-to-die.json) |
 | Don't Go | 267089 | [267089-dont-go.json](./267089-dont-go.json) |
@@ -15982,6 +15986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamfear | 414140 | [414140-dreamfear.json](./414140-dreamfear.json) |
 | Dreamflight VR | 35399 | [35399-dreamflight-vr.json](./35399-dreamflight-vr.json) |
 | DreamGallery | 131968 | [131968-dreamgallery.json](./131968-dreamgallery.json) |
+| Dreamgame | 229487 | [229487-dreamgame.json](./229487-dreamgame.json) |
 | Dreamgate | 130060 | [130060-dreamgate.json](./130060-dreamgate.json) |
 | DreamHack Beyond | 150568 | [150568-dreamhack-beyond.json](./150568-dreamhack-beyond.json) |
 | DreamHero | 373118 | [373118-dreamhero.json](./373118-dreamhero.json) |
@@ -18506,6 +18511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Kroz | 74092 | [74092-dungeons-of-kroz.json](./74092-dungeons-of-kroz.json) |
 | Dungeons of Legend: Cast Within | 115073 | [115073-dungeons-of-legend-cast-within.json](./115073-dungeons-of-legend-cast-within.json) |
 | Dungeons of Loot | 133989 | [133989-dungeons-of-loot.json](./133989-dungeons-of-loot.json) |
+| Dungeons of Moscow | 229445 | [229445-dungeons-of-moscow.json](./229445-dungeons-of-moscow.json) |
 | Dungeons of Mysteria | 184857 | [184857-dungeons-of-mysteria.json](./184857-dungeons-of-mysteria.json) |
 | Dungeons of Necromancers | 111412 | [111412-dungeons-of-necromancers.json](./111412-dungeons-of-necromancers.json) |
 | Dungeons of Paint | 351002 | [351002-dungeons-of-paint.json](./351002-dungeons-of-paint.json) |
