@@ -4218,6 +4218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield Armor | 105359 | [105359-battlefield-armor.json](./105359-battlefield-armor.json) |
 | BattleField BattleFront | 297373 | [297373-battlefield-battlefront.json](./297373-battlefield-battlefront.json) |
 | Battlefield Bundle | 83506 | [83506-battlefield-bundle.json](./83506-battlefield-bundle.json) |
+| Battlefield Cell | 212029 | [212029-battlefield-cell.json](./212029-battlefield-cell.json) |
 | Battlefield Germany | 13387 | [13387-battlefield-germany.json](./13387-battlefield-germany.json) |
 | Battlefield Hardline: Betrayal | 112639 | [112639-battlefield-hardline-betrayal.json](./112639-battlefield-hardline-betrayal.json) |
 | Battlefield Hardline: Criminal Activity | 18023 | [18023-battlefield-hardline-criminal-activity.json](./18023-battlefield-hardline-criminal-activity.json) |
