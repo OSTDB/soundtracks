@@ -3305,6 +3305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino FunPak | 117931 | [117931-casino-funpak.json](./117931-casino-funpak.json) |
 | Casino Games | 358606 | [358606-casino-games.json](./358606-casino-games.json) |
 | Casino Games | 45656 | [45656-casino-games.json](./45656-casino-games.json) |
+| Casino Games II | 206891 | [206891-casino-games-ii.json](./206891-casino-games-ii.json) |
 | Casino Games Solitaire | 217659 | [217659-casino-games-solitaire.json](./217659-casino-games-solitaire.json) |
 | Casino Golf | 204283 | [204283-casino-golf.json](./204283-casino-golf.json) |
 | Casino Heist | 243587 | [243587-casino-heist.json](./243587-casino-heist.json) |
@@ -3313,13 +3314,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Inc | 35438 | [35438-casino-inc.json](./35438-casino-inc.json) |
 | Casino Inc: The Management | 70951 | [70951-casino-inc-the-management.json](./70951-casino-inc-the-management.json) |
 | Casino Island Simulator | 312452 | [312452-casino-island-simulator.json](./312452-casino-island-simulator.json) |
+| Casino Island to Go | 206892 | [206892-casino-island-to-go.json](./206892-casino-island-to-go.json) |
+| Casino Jackpot | 206893 | [206893-casino-jackpot.json](./206893-casino-jackpot.json) |
 | Casino Kid | 48102 | [48102-casino-kid.json](./48102-casino-kid.json) |
 | Casino Kid II | 48101 | [48101-casino-kid-ii.json](./48101-casino-kid-ii.json) |
 | Casino League | 296035 | [296035-casino-league.json](./296035-casino-league.json) |
+| Casino Madness | 206894 | [206894-casino-madness.json](./206894-casino-madness.json) |
 | Casino Management Simulator | 292464 | [292464-casino-management-simulator.json](./292464-casino-management-simulator.json) |
 | Casino Manager Simulator | 326459 | [326459-casino-manager-simulator.json](./326459-casino-manager-simulator.json) |
+| Casino Master | 206895 | [206895-casino-master.json](./206895-casino-master.json) |
+| Casino Master 4.0 | 206896 | [206896-casino-master-4-0.json](./206896-casino-master-4-0.json) |
 | Casino Mega Collection | 372214 | [372214-casino-mega-collection.json](./372214-casino-mega-collection.json) |
 | Casino Mogul | 73759 | [73759-casino-mogul.json](./73759-casino-mogul.json) |
+| Casino Monte Carlo | 206897 | [206897-casino-monte-carlo.json](./206897-casino-monte-carlo.json) |
 | Casino Noir | 29607 | [29607-casino-noir.json](./29607-casino-noir.json) |
 | Casino of Time | 409857 | [409857-casino-of-time.json](./409857-casino-of-time.json) |
 | Casino Poker | 86596 | [86596-casino-poker.json](./86596-casino-poker.json) |
@@ -3333,11 +3340,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Simulator 2024 | 300450 | [300450-casino-simulator-2024.json](./300450-casino-simulator-2024.json) |
 | Casino Slot Machine | 41528 | [41528-casino-slot-machine.json](./41528-casino-slot-machine.json) |
 | Casino Slot Machines | 81794 | [81794-casino-slot-machines.json](./81794-casino-slot-machines.json) |
+| Casino Tournament of Champions | 206889 | [206889-casino-tournament-of-champions.json](./206889-casino-tournament-of-champions.json) |
 | Casino Tycoon | 130666 | [130666-casino-tycoon.json](./130666-casino-tycoon.json) |
 | Casino Tycoon | 302043 | [302043-casino-tycoon.json](./302043-casino-tycoon.json) |
 | Casino Tycoon Simulator | 189849 | [189849-casino-tycoon-simulator.json](./189849-casino-tycoon-simulator.json) |
 | Casino Tycoon Simulator | 308491 | [308491-casino-tycoon-simulator.json](./308491-casino-tycoon-simulator.json) |
 | Casino Tycoon: Sin & Win | 373348 | [373348-casino-tycoon-sin-and-win.json](./373348-casino-tycoon-sin-and-win.json) |
+| Casino VIP | 206898 | [206898-casino-vip.json](./206898-casino-vip.json) |
 | Casino World | 303087 | [303087-casino-world.json](./303087-casino-world.json) |
 | Casino! | 68727 | [68727-casino.json](./68727-casino.json) |
 | Casinolife Poker | 139239 | [139239-casinolife-poker.json](./139239-casinolife-poker.json) |
@@ -3630,6 +3639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Rush | 185145 | [185145-castle-rush.json](./185145-castle-rush.json) |
 | Castle Rush | 234046 | [234046-castle-rush.json](./234046-castle-rush.json) |
 | Castle Rush Zombies | 241620 | [241620-castle-rush-zombies.json](./241620-castle-rush-zombies.json) |
+| Castle Rustle | 206899 | [206899-castle-rustle.json](./206899-castle-rustle.json) |
 | Castle Secrets: Between Day and Night | 87998 | [87998-castle-secrets-between-day-and-night.json](./87998-castle-secrets-between-day-and-night.json) |
 | Castle Secrets: Hidden Object | 261323 | [261323-castle-secrets-hidden-object.json](./261323-castle-secrets-hidden-object.json) |
 | Castle Shikigami 2 | 4149 | [4149-castle-shikigami-2.json](./4149-castle-shikigami-2.json) |
@@ -3843,6 +3853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castrum Novum VR: Life in a Roman Colony | 224930 | [224930-castrum-novum-vr-life-in-a-roman-colony.json](./224930-castrum-novum-vr-life-in-a-roman-colony.json) |
 | Casual Birder | 151962 | [151962-casual-birder.json](./151962-casual-birder.json) |
 | Casual Coins | 197687 | [197687-casual-coins.json](./197687-casual-coins.json) |
+| Casual Combo Collection | 206902 | [206902-casual-combo-collection.json](./206902-casual-combo-collection.json) |
 | Casual Commando | 157714 | [157714-casual-commando.json](./157714-casual-commando.json) |
 | Casual Crusade | 267355 | [267355-casual-crusade.json](./267355-casual-crusade.json) |
 | Casual Desktop Game | 301412 | [301412-casual-desktop-game.json](./301412-casual-desktop-game.json) |
@@ -3853,6 +3864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casual Gaming Bundle | 223756 | [223756-casual-gaming-bundle.json](./223756-casual-gaming-bundle.json) |
 | Casual Golf | 165738 | [165738-casual-golf.json](./165738-casual-golf.json) |
 | Casual Mahjong | 293478 | [293478-casual-mahjong.json](./293478-casual-mahjong.json) |
+| Casual Mania! | 206903 | [206903-casual-mania.json](./206903-casual-mania.json) |
 | Casual Penalty | 100462 | [100462-casual-penalty.json](./100462-casual-penalty.json) |
 | Casual Pixel Warrior | 188910 | [188910-casual-pixel-warrior.json](./188910-casual-pixel-warrior.json) |
 | Casual Pro Wrestling | 189306 | [189306-casual-pro-wrestling.json](./189306-casual-pro-wrestling.json) |
@@ -4443,6 +4455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CatDog | 217951 | [217951-catdog.json](./217951-catdog.json) |
 | CatDog on Parade | 325082 | [325082-catdog-on-parade.json](./325082-catdog-on-parade.json) |
 | CatDog: Quest for the Golden Hydrant | 7569 | [7569-catdog-quest-for-the-golden-hydrant.json](./7569-catdog-quest-for-the-golden-hydrant.json) |
+| CatDog: Saving Mean Bob | 206905 | [206905-catdog-saving-mean-bob.json](./206905-catdog-saving-mean-bob.json) |
 | Cate P | 254629 | [254629-cate-p.json](./254629-cate-p.json) |
 | Cate West: The Velvet Keys | 200491 | [200491-cate-west-the-velvet-keys.json](./200491-cate-west-the-velvet-keys.json) |
 | Catechesis | 276693 | [276693-catechesis.json](./276693-catechesis.json) |
@@ -4463,6 +4476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caterpillar | 225381 | [225381-caterpillar.json](./225381-caterpillar.json) |
 | Caterpillar | 38482 | [38482-caterpillar.json](./38482-caterpillar.json) |
 | Caterpillar | 74708 | [74708-caterpillar.json](./74708-caterpillar.json) |
+| Caterpillar Construction Tycoon | 206906 | [206906-caterpillar-construction-tycoon.json](./206906-caterpillar-construction-tycoon.json) |
 | Caterpillar Construction Zone | 37283 | [37283-caterpillar-construction-zone.json](./37283-caterpillar-construction-zone.json) |
 | Caterpillar Crunch | 411108 | [411108-caterpillar-crunch.json](./411108-caterpillar-crunch.json) |
 | Caterpillar King | 384085 | [384085-caterpillar-king.json](./384085-caterpillar-king.json) |
@@ -5551,6 +5565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain Letter | 351365 | [351365-chain-letter.json](./351365-chain-letter.json) |
 | Chain Mail: Trip to the Panic World! | 97641 | [97641-chain-mail-trip-to-the-panic-world.json](./97641-chain-mail-trip-to-the-panic-world.json) |
 | Chain Ninja | 243577 | [243577-chain-ninja.json](./243577-chain-ninja.json) |
+| Chain of Command: Eastern Front | 206907 | [206907-chain-of-command-eastern-front.json](./206907-chain-of-command-eastern-front.json) |
 | Chain of Eroticism | 163400 | [163400-chain-of-eroticism.json](./163400-chain-of-eroticism.json) |
 | Chain Quest | 200106 | [200106-chain-quest.json](./200106-chain-quest.json) |
 | Chain Reaction | 13475 | [13475-chain-reaction.json](./13475-chain-reaction.json) |
@@ -5753,6 +5768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champion Cup Goal | 245185 | [245185-champion-cup-goal.json](./245185-champion-cup-goal.json) |
 | Champion Cup Goal 2 | 242220 | [242220-champion-cup-goal-2.json](./242220-champion-cup-goal-2.json) |
 | Champion Dragon Tournament: Z Warriors | 219877 | [219877-champion-dragon-tournament-z-warriors.json](./219877-champion-dragon-tournament-z-warriors.json) |
+| Champion Dreams: First to Ride | 206908 | [206908-champion-dreams-first-to-ride.json](./206908-champion-dreams-first-to-ride.json) |
 | Champion Eleven | 102861 | [102861-champion-eleven.json](./102861-champion-eleven.json) |
 | Champion Golf | 6087 | [6087-champion-golf.json](./6087-champion-golf.json) |
 | Champion Ice Hockey | 6088 | [6088-champion-ice-hockey.json](./6088-champion-ice-hockey.json) |
@@ -5819,12 +5835,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Bowling | 317525 | [317525-championship-bowling.json](./317525-championship-bowling.json) |
 | Championship Bowling | 388576 | [388576-championship-bowling.json](./388576-championship-bowling.json) |
 | Championship Chess | 56776 | [56776-championship-chess.json](./56776-championship-chess.json) |
+| Championship Darts | 206910 | [206910-championship-darts.json](./206910-championship-darts.json) |
 | Championship Foosball | 51017 | [51017-championship-foosball.json](./51017-championship-foosball.json) |
 | Championship Hockey | 19772 | [19772-championship-hockey.json](./19772-championship-hockey.json) |
+| Championship Horse Trainer | 206912 | [206912-championship-horse-trainer.json](./206912-championship-horse-trainer.json) |
 | Championship Jet Ski Simulator | 13477 | [13477-championship-jet-ski-simulator.json](./13477-championship-jet-ski-simulator.json) |
 | Championship Lode Runner | 273697 | [273697-championship-lode-runner.json](./273697-championship-lode-runner.json) |
 | Championship Lode Runner | 6091 | [6091-championship-lode-runner.json](./6091-championship-lode-runner.json) |
 | Championship Mah Jongg | 62504 | [62504-championship-mah-jongg.json](./62504-championship-mah-jongg.json) |
+| Championship Mah Jongg, Oriental Chess & Dominoes | 206913 | [206913-championship-mah-jongg-oriental-chess-and-dominoes.json](./206913-championship-mah-jongg-oriental-chess-and-dominoes.json) |
 | Championship Manager | 15208 | [15208-championship-manager.json](./15208-championship-manager.json) |
 | Championship Manager | 269426 | [269426-championship-manager.json](./269426-championship-manager.json) |
 | Championship Manager '93 | 11306 | [11306-championship-manager-93.json](./11306-championship-manager-93.json) |
@@ -5859,6 +5878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Pool | 4538 | [4538-championship-pool.json](./4538-championship-pool.json) |
 | Championship Pro-Am | 46228 | [46228-championship-pro-am.json](./46228-championship-pro-am.json) |
 | Championship Rally | 250300 | [250300-championship-rally.json](./250300-championship-rally.json) |
+| Championship Riding Star | 206914 | [206914-championship-riding-star.json](./206914-championship-riding-star.json) |
 | Championship Rugby Manager | 71223 | [71223-championship-rugby-manager.json](./71223-championship-rugby-manager.json) |
 | Championship Soccer | 46882 | [46882-championship-soccer.json](./46882-championship-soccer.json) |
 | Championship Soccer '94 | 165410 | [165410-championship-soccer-94.json](./165410-championship-soccer-94.json) |
@@ -6185,6 +6205,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlie Brown’s All-Stars | 291918 | [291918-charlie-brown-s-all-stars.json](./291918-charlie-brown-s-all-stars.json) |
 | Charlie Chaplin | 13480 | [13480-charlie-chaplin.json](./13480-charlie-chaplin.json) |
 | Charlie Charlie the Challenge and Game | 175076 | [175076-charlie-charlie-the-challenge-and-game.json](./175076-charlie-charlie-the-challenge-and-game.json) |
+| Charlie Church Mouse: 3D Bible Adventures | 206915 | [206915-charlie-church-mouse-3d-bible-adventures.json](./206915-charlie-church-mouse-3d-bible-adventures.json) |
+| Charlie Church Mouse: 3D Bible Adventures 2 | 206916 | [206916-charlie-church-mouse-3d-bible-adventures-2.json](./206916-charlie-church-mouse-3d-bible-adventures-2.json) |
+| Charlie Church Mouse: Early Elementary | 206917 | [206917-charlie-church-mouse-early-elementary.json](./206917-charlie-church-mouse-early-elementary.json) |
+| Charlie Church Mouse: Kindergarten | 206918 | [206918-charlie-church-mouse-kindergarten.json](./206918-charlie-church-mouse-kindergarten.json) |
+| Charlie Church Mouse: Preschool | 206919 | [206919-charlie-church-mouse-preschool.json](./206919-charlie-church-mouse-preschool.json) |
 | Charlie Foxtrot & The Galaxy of Tomorrow | 166692 | [166692-charlie-foxtrot-and-the-galaxy-of-tomorrow.json](./166692-charlie-foxtrot-and-the-galaxy-of-tomorrow.json) |
 | Charlie from the swamp | 152781 | [152781-charlie-from-the-swamp.json](./152781-charlie-from-the-swamp.json) |
 | Charlie II | 72264 | [72264-charlie-ii.json](./72264-charlie-ii.json) |
@@ -6203,6 +6228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlie's Adventure | 30487 | [30487-charlies-adventure.json](./30487-charlies-adventure.json) |
 | Charlie's Angels | 228920 | [228920-charlies-angels.json](./228920-charlies-angels.json) |
 | Charlie's Angels | 84336 | [84336-charlies-angels.json](./84336-charlies-angels.json) |
+| Charlie's Angels: Angel X | 206920 | [206920-charlies-angels-angel-x.json](./206920-charlies-angels-angel-x.json) |
 | Charlie's Angels: Road Cyclone | 23757 | [23757-charlies-angels-road-cyclone.json](./23757-charlies-angels-road-cyclone.json) |
 | Charlie's Conscious | 110638 | [110638-charlies-conscious.json](./110638-charlies-conscious.json) |
 | Charlie's Delivery | 219821 | [219821-charlies-delivery.json](./219821-charlies-delivery.json) |
@@ -6901,6 +6927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chesslands | 211996 | [211996-chesslands.json](./211996-chesslands.json) |
 | Chesslike | 284818 | [284818-chesslike.json](./284818-chesslike.json) |
 | ChessLocke | 144118 | [144118-chesslocke.json](./144118-chesslocke.json) |
+| Chessmaster | 206921 | [206921-chessmaster.json](./206921-chessmaster.json) |
 | Chessmaster | 23562 | [23562-chessmaster.json](./23562-chessmaster.json) |
 | Chessmaster | 23714 | [23714-chessmaster.json](./23714-chessmaster.json) |
 | Chessmaster | 343921 | [343921-chessmaster.json](./343921-chessmaster.json) |
@@ -10816,6 +10843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clue | 77150 | [77150-clue.json](./77150-clue.json) |
 | Clue / Mouse Trap / Perfection / Aggravation | 90926 | [90926-clue-mouse-trap-perfection-aggravation.json](./90926-clue-mouse-trap-perfection-aggravation.json) |
 | Clue Classic | 47075 | [47075-clue-classic.json](./47075-clue-classic.json) |
+| Clue Jr. SpyGlass Mysteries | 206978 | [206978-clue-jr-spyglass-mysteries.json](./206978-clue-jr-spyglass-mysteries.json) |
 | Clue Kaguya-sama: Love is War | 262363 | [262363-clue-kaguya-sama-love-is-war.json](./262363-clue-kaguya-sama-love-is-war.json) |
 | Clue Murder at Boddy Mansion | 28097 | [28097-clue-murder-at-boddy-mansion.json](./28097-clue-murder-at-boddy-mansion.json) |
 | Clue Solver | 105532 | [105532-clue-solver.json](./105532-clue-solver.json) |
@@ -10839,6 +10867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluefinders: Math Adventures - Mystery of the Himalayas | 66092 | [66092-cluefinders-math-adventures-mystery-of-the-himalayas.json](./66092-cluefinders-math-adventures-mystery-of-the-himalayas.json) |
 | ClueFinders: Mystery Mansion Arcade | 76183 | [76183-cluefinders-mystery-mansion-arcade.json](./76183-cluefinders-mystery-mansion-arcade.json) |
 | ClueFinders: The Incredible Toy Store Adventure | 72269 | [72269-cluefinders-the-incredible-toy-store-adventure.json](./72269-cluefinders-the-incredible-toy-store-adventure.json) |
+| Clueless | 206979 | [206979-clueless.json](./206979-clueless.json) |
 | Clueless Crew | 326663 | [326663-clueless-crew.json](./326663-clueless-crew.json) |
 | Clueless Crosswords | 244830 | [244830-clueless-crosswords.json](./244830-clueless-crosswords.json) |
 | Clueless: The CD-ROM | 69852 | [69852-clueless-the-cd-rom.json](./69852-clueless-the-cd-rom.json) |
@@ -11358,6 +11387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee For Cthulhu | 295232 | [295232-coffee-for-cthulhu.json](./295232-coffee-for-cthulhu.json) |
 | Coffee For Robots | 219740 | [219740-coffee-for-robots.json](./219740-coffee-for-robots.json) |
 | Coffee Fun | 228765 | [228765-coffee-fun.json](./228765-coffee-fun.json) |
+| Coffee House Chaos! | 206983 | [206983-coffee-house-chaos.json](./206983-coffee-house-chaos.json) |
 | Coffee Inc 2 | 193686 | [193686-coffee-inc-2.json](./193686-coffee-inc-2.json) |
 | Coffee Kiss | 179079 | [179079-coffee-kiss.json](./179079-coffee-kiss.json) |
 | Coffee Mafia | 112322 | [112322-coffee-mafia.json](./112322-coffee-mafia.json) |
@@ -12455,6 +12485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colpile | 67146 | [67146-colpile.json](./67146-colpile.json) |
 | Colt Canyon | 114074 | [114074-colt-canyon.json](./114074-colt-canyon.json) |
 | Colt-55 | 128430 | [128430-colt-55.json](./128430-colt-55.json) |
+| Colt's Wild West Shootout | 206986 | [206986-colts-wild-west-shootout.json](./206986-colts-wild-west-shootout.json) |
 | Colton Owen: Ace Attorney | 366872 | [366872-colton-owen-ace-attorney.json](./366872-colton-owen-ace-attorney.json) |
 | Colton Owen: After All's Over | 309993 | [309993-colton-owen-after-alls-over.json](./309993-colton-owen-after-alls-over.json) |
 | Colum and His Friends | 118346 | [118346-colum-and-his-friends.json](./118346-colum-and-his-friends.json) |
@@ -12488,10 +12519,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coma: Mortuary | 36321 | [36321-coma-mortuary.json](./36321-coma-mortuary.json) |
 | Coma:Mortuary | 17232 | [17232-coma-mortuary.json](./17232-coma-mortuary.json) |
 | Comanche | 121758 | [121758-comanche.json](./121758-comanche.json) |
+| Comanche | 206989 | [206989-comanche.json](./206989-comanche.json) |
 | Comanche 2 | 5610 | [5610-comanche-2.json](./5610-comanche-2.json) |
 | Comanche 3 | 643 | [643-comanche-3.json](./643-comanche-3.json) |
 | Comanche 4 | 4203 | [4203-comanche-4.json](./4203-comanche-4.json) |
 | Comanche CD | 94326 | [94326-comanche-cd.json](./94326-comanche-cd.json) |
+| Comanche Gold | 206990 | [206990-comanche-gold.json](./206990-comanche-gold.json) |
 | Comanche: Maximum Overkill | 7494 | [7494-comanche-maximum-overkill.json](./7494-comanche-maximum-overkill.json) |
 | Comanche: Maximum Overkill - Mission Disk 1 | 94240 | [94240-comanche-maximum-overkill-mission-disk-1.json](./94240-comanche-maximum-overkill-mission-disk-1.json) |
 | Comanche: Maximum Overkill - Over the Edge | 70320 | [70320-comanche-maximum-overkill-over-the-edge.json](./70320-comanche-maximum-overkill-over-the-edge.json) |
@@ -12506,6 +12539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat | 281214 | [281214-combat.json](./281214-combat.json) |
 | Combat | 300791 | [300791-combat.json](./300791-combat.json) |
 | Combat 3 | 309974 | [309974-combat-3.json](./309974-combat-3.json) |
+| Combat 3D | 206992 | [206992-combat-3d.json](./206992-combat-3d.json) |
 | Combat 3D | 295959 | [295959-combat-3d.json](./295959-combat-3d.json) |
 | Combat Ace | 43260 | [43260-combat-ace.json](./43260-combat-ace.json) |
 | Combat Actions: Vietnam | 108328 | [108328-combat-actions-vietnam.json](./108328-combat-actions-vietnam.json) |
@@ -12554,6 +12588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Medic: Special Ops | 70041 | [70041-combat-medic-special-ops.json](./70041-combat-medic-special-ops.json) |
 | Combat Mission 2 | 645 | [645-combat-mission-2.json](./645-combat-mission-2.json) |
 | Combat Mission 3: Afrika Korps | 47038 | [47038-combat-mission-3-afrika-korps.json](./47038-combat-mission-3-afrika-korps.json) |
+| Combat Mission 3: Afrika Korps Special Edition | 206994 | [206994-combat-mission-3-afrika-korps-special-edition.json](./206994-combat-mission-3-afrika-korps-special-edition.json) |
 | Combat Mission Afghanistan | 52518 | [52518-combat-mission-afghanistan.json](./52518-combat-mission-afghanistan.json) |
 | Combat Mission Anthology | 78011 | [78011-combat-mission-anthology.json](./78011-combat-mission-anthology.json) |
 | Combat Mission Cold War | 144154 | [144154-combat-mission-cold-war.json](./144154-combat-mission-cold-war.json) |
@@ -16389,6 +16424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrashOut Xtreme | 240715 | [240715-crashout-xtreme.json](./240715-crashout-xtreme.json) |
 | Crashtest | 151273 | [151273-crashtest.json](./151273-crashtest.json) |
 | CrashTV | 201616 | [201616-crashtv.json](./201616-crashtv.json) |
+| Crashword | 206924 | [206924-crashword.json](./206924-crashword.json) |
 | Crashy Cars! | 247178 | [247178-crashy-cars.json](./247178-crashy-cars.json) |
 | Crashy Cats | 112248 | [112248-crashy-cats.json](./112248-crashy-cats.json) |
 | Crashy Cops! | 104642 | [104642-crashy-cops.json](./104642-crashy-cops.json) |
