@@ -14764,6 +14764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snack World: Reloaded | 397927 | [397927-snack-world-reloaded.json](./397927-snack-world-reloaded.json) |
 | Snack World: The Dungeon Crawl - Gold | 28830 | [28830-snack-world-the-dungeon-crawl-gold.json](./28830-snack-world-the-dungeon-crawl-gold.json) |
 | Snackdown | 340359 | [340359-snackdown.json](./340359-snackdown.json) |
+| SnackHunter | 193047 | [193047-snackhunter.json](./193047-snackhunter.json) |
 | Snackjack | 54378 | [54378-snackjack.json](./54378-snackjack.json) |
 | Snacko | 130618 | [130618-snacko.json](./130618-snacko.json) |
 | Snackroach | 257251 | [257251-snackroach.json](./257251-snackroach.json) |
@@ -14961,6 +14962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnakeByte | 193470 | [193470-snakebyte.json](./193470-snakebyte.json) |
 | Snakecremental | 341463 | [341463-snakecremental.json](./341463-snakecremental.json) |
 | Snakeez | 69021 | [69021-snakeez.json](./69021-snakeez.json) |
+| SnakeGame | 193028 | [193028-snakegame.json](./193028-snakegame.json) |
 | Snakehaus | 274496 | [274496-snakehaus.json](./274496-snakehaus.json) |
 | SnakeLaw Island | 167375 | [167375-snakelaw-island.json](./167375-snakelaw-island.json) |
 | Snakelike | 113874 | [113874-snakelike.json](./113874-snakelike.json) |
@@ -16928,6 +16930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Someone's Outside | 303174 | [303174-someones-outside.json](./303174-someones-outside.json) |
 | Someplace Else | 136387 | [136387-someplace-else.json](./136387-someplace-else.json) |
 | Somer Assault | 44341 | [44341-somer-assault.json](./44341-somer-assault.json) |
+| Something | 193049 | [193049-something.json](./193049-something.json) |
 | Something | 360312 | [360312-something.json](./360312-something.json) |
 | Something a Little Super | 352844 | [352844-something-a-little-super.json](./352844-something-a-little-super.json) |
 | Something Amazing Room | 235411 | [235411-something-amazing-room.json](./235411-something-amazing-room.json) |
@@ -23821,6 +23824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stall | 372618 | [372618-stall.json](./372618-stall.json) |
 | Stallion Squad | 133779 | [133779-stallion-squad.json](./133779-stallion-squad.json) |
 | Stallions in America | 199117 | [199117-stallions-in-america.json](./199117-stallions-in-america.json) |
+| Stamp | 193009 | [193009-stamp.json](./193009-stamp.json) |
 | Stamp Boy | 118080 | [118080-stamp-boy.json](./118080-stamp-boy.json) |
 | Stamp Collector | 406140 | [406140-stamp-collector.json](./406140-stamp-collector.json) |
 | Stamp Smash | 82184 | [82184-stamp-smash.json](./82184-stamp-smash.json) |
@@ -34294,6 +34298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival: Revelation | 124225 | [124225-survival-revelation.json](./124225-survival-revelation.json) |
 | Survival: The Ultimate Challenge | 51243 | [51243-survival-the-ultimate-challenge.json](./51243-survival-the-ultimate-challenge.json) |
 | Survival: Wicked Forest | 102626 | [102626-survival-wicked-forest.json](./102626-survival-wicked-forest.json) |
+| Survival: Zombies aHead | 193050 | [193050-survival-zombies-ahead.json](./193050-survival-zombies-ahead.json) |
 | Survival.io | 424589 | [424589-survival-io.json](./424589-survival-io.json) |
 | Survival.io - Battle Royale | 101560 | [101560-survival-io-battle-royale.json](./101560-survival-io-battle-royale.json) |
 | Survivalcraft | 87025 | [87025-survivalcraft.json](./87025-survivalcraft.json) |
