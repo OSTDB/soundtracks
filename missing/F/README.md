@@ -1678,6 +1678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fan Tas Tic | 91441 | [91441-fan-tas-tic.json](./91441-fan-tas-tic.json) |
 | Fan Zhuan 21 Ke | 277316 | [277316-fan-zhuan-21-ke.json](./277316-fan-zhuan-21-ke.json) |
 | Fan'cie Veer! (Fish Are Nasty, Cake Is Excellent Vektor Evading Emblazed Rapture) | 105375 | [105375-fancie-veer-fish-are-nasty-cake-is-excellent-vektor-evading-emblazed-rapture.json](./105375-fancie-veer-fish-are-nasty-cake-is-excellent-vektor-evading-emblazed-rapture.json) |
+| Fanais Chess | 239996 | [239996-fanais-chess.json](./239996-fanais-chess.json) |
 | Fanastasis | 306010 | [306010-fanastasis.json](./306010-fanastasis.json) |
 | Fanatic Earth | 38496 | [38496-fanatic-earth.json](./38496-fanatic-earth.json) |
 | Fanatica | 204555 | [204555-fanatica.json](./204555-fanatica.json) |
@@ -5389,6 +5390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Difference: Spot it | 372160 | [372160-find-the-difference-spot-it.json](./372160-find-the-difference-spot-it.json) |
 | Find the Differences 3D | 348809 | [348809-find-the-differences-3d.json](./348809-find-the-differences-3d.json) |
 | Find the Differences Detective | 232174 | [232174-find-the-differences-detective.json](./232174-find-the-differences-detective.json) |
+| Find the Energy | 239971 | [239971-find-the-energy.json](./239971-find-the-energy.json) |
 | Find the exit | 180557 | [180557-find-the-exit.json](./180557-find-the-exit.json) |
 | Find the Four-Leaf Clover | 389055 | [389055-find-the-four-leaf-clover.json](./389055-find-the-four-leaf-clover.json) |
 | Find the Funny Mistake! | 395642 | [395642-find-the-funny-mistake.json](./395642-find-the-funny-mistake.json) |
@@ -6753,6 +6755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitness Fun | 56961 | [56961-fitness-fun.json](./56961-fitness-fun.json) |
 | Fitness Game: Romance Story | 256250 | [256250-fitness-game-romance-story.json](./256250-fitness-game-romance-story.json) |
 | Fitness Girl - Studio Coach | 86814 | [86814-fitness-girl-studio-coach.json](./86814-fitness-girl-studio-coach.json) |
+| Fitness Gym Bodybuilding Pump | 239997 | [239997-fitness-gym-bodybuilding-pump.json](./239997-fitness-gym-bodybuilding-pump.json) |
 | Fitness Party | 136887 | [136887-fitness-party.json](./136887-fitness-party.json) |
 | Fitness RPG | 273686 | [273686-fitness-rpg.json](./273686-fitness-rpg.json) |
 | Fitness Village | 114697 | [114697-fitness-village.json](./114697-fitness-village.json) |
@@ -6899,6 +6902,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's: NES | 366102 | [366102-five-nights-at-freddys-nes.json](./366102-five-nights-at-freddys-nes.json) |
 | Five Nights At Freddy's: Nightshift | 275905 | [275905-five-nights-at-freddys-nightshift.json](./275905-five-nights-at-freddys-nightshift.json) |
 | Five Nights at Freddy's: Pocket Horror | 275568 | [275568-five-nights-at-freddys-pocket-horror.json](./275568-five-nights-at-freddys-pocket-horror.json) |
+| Five Nights at Freddy's: Rewritten | 239962 | [239962-five-nights-at-freddys-rewritten.json](./239962-five-nights-at-freddys-rewritten.json) |
+| Five Nights at Freddy's: Rewritten - 87' | 239963 | [239963-five-nights-at-freddys-rewritten-87.json](./239963-five-nights-at-freddys-rewritten-87.json) |
 | Five Nights at Freddy's: Security Breach | 300353 | [300353-five-nights-at-freddys-security-breach.json](./300353-five-nights-at-freddys-security-breach.json) |
 | Five Nights at Freddy's: Security Breach - Chaos Mod | 263898 | [263898-five-nights-at-freddys-security-breach-chaos-mod.json](./263898-five-nights-at-freddys-security-breach-chaos-mod.json) |
 | Five Nights at Freddy's: Security Breach - Collector's Edition | 198389 | [198389-five-nights-at-freddys-security-breach-collectors-edition.json](./198389-five-nights-at-freddys-security-breach-collectors-edition.json) |
@@ -6948,6 +6953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at SCP | 274256 | [274256-five-nights-at-scp.json](./274256-five-nights-at-scp.json) |
 | Five Nights at Sexy's | 207700 | [207700-five-nights-at-sexys.json](./207700-five-nights-at-sexys.json) |
 | Five Nights At Shrek's Hotel 2 | 285255 | [285255-five-nights-at-shreks-hotel-2.json](./285255-five-nights-at-shreks-hotel-2.json) |
+| Five Nights at Sid's | 239965 | [239965-five-nights-at-sids.json](./239965-five-nights-at-sids.json) |
 | Five Nights at Silver Pine | 297079 | [297079-five-nights-at-silver-pine.json](./297079-five-nights-at-silver-pine.json) |
 | Five Nights At Skibidi Toilets | 311529 | [311529-five-nights-at-skibidi-toilets.json](./311529-five-nights-at-skibidi-toilets.json) |
 | Five Nights At Smog's Poutinerie | 236315 | [236315-five-nights-at-smogs-poutinerie.json](./236315-five-nights-at-smogs-poutinerie.json) |
