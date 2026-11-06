@@ -5856,6 +5856,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akiba's Trip: Hellbound & Debriefed | 119460 | [119460-akibas-trip-hellbound-and-debriefed.json](./119460-akibas-trip-hellbound-and-debriefed.json) |
 | Akiba's Trip: Hellbound & Debriefed - 10th Anniversary Edition | 146159 | [146159-akibas-trip-hellbound-and-debriefed-10th-anniversary-edition.json](./146159-akibas-trip-hellbound-and-debriefed-10th-anniversary-edition.json) |
 | Akiba's Trip: Undead & Undressed | 7268 | [7268-akibas-trip-undead-and-undressed.json](./7268-akibas-trip-undead-and-undressed.json) |
+| Akiba's Trip: Undead & Undressed - Director's Cut | 241171 | [241171-akibas-trip-undead-and-undressed-directors-cut.json](./241171-akibas-trip-undead-and-undressed-directors-cut.json) |
+| Akiba's Trip: Undead & Undressed - Director's Cut: Day 1 Edition | 241172 | [241172-akibas-trip-undead-and-undressed-directors-cut-day-1-edition.json](./241172-akibas-trip-undead-and-undressed-directors-cut-day-1-edition.json) |
 | Akiba's Trip: Undead & Undressed - Kati Route | 204503 | [204503-akibas-trip-undead-and-undressed-kati-route.json](./204503-akibas-trip-undead-and-undressed-kati-route.json) |
 | Akihabara Crash! 123 Stage + 1 | 110867 | [110867-akihabara-crash-123-stage-1.json](./110867-akihabara-crash-123-stage-1.json) |
 | Akihabara Dennou-gumi Pata Pies! | 247573 | [247573-akihabara-dennou-gumi-pata-pies.json](./247573-akihabara-dennou-gumi-pata-pies.json) |
