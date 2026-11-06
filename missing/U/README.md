@@ -808,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimator | 288549 | [288549-ultimator.json](./288549-ultimator.json) |
 | UltiMatt | 246929 | [246929-ultimatt.json](./246929-ultimatt.json) |
 | Ultimaze | 206716 | [206716-ultimaze.json](./206716-ultimaze.json) |
+| Ultimechs | 214252 | [214252-ultimechs.json](./214252-ultimechs.json) |
 | Ultimechs Spectator | 244068 | [244068-ultimechs-spectator.json](./244068-ultimechs-spectator.json) |
 | Ultimo Reino | 111993 | [111993-ultimo-reino.json](./111993-ultimo-reino.json) |
 | Ultimotion: Fitness | 220270 | [220270-ultimotion-fitness.json](./220270-ultimotion-fitness.json) |
