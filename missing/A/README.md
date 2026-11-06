@@ -2869,6 +2869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acting Lessons | 121823 | [121823-acting-lessons.json](./121823-acting-lessons.json) |
 | Acting Out | 401278 | [401278-acting-out.json](./401278-acting-out.json) |
 | Action 52 | 238205 | [238205-action-52.json](./238205-action-52.json) |
+| Action 52 | 245623 | [245623-action-52.json](./245623-action-52.json) |
 | Action 52 | 5340 | [5340-action-52.json](./5340-action-52.json) |
 | Action 69 | 118200 | [118200-action-69.json](./118200-action-69.json) |
 | Action Adventure | 341831 | [341831-action-adventure.json](./341831-action-adventure.json) |
@@ -2973,6 +2974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Activision Anthology: Remix Edition | 45979 | [45979-activision-anthology-remix-edition.json](./45979-activision-anthology-remix-edition.json) |
 | Activision Collection 1 | 379134 | [379134-activision-collection-1.json](./379134-activision-collection-1.json) |
 | Activision Collection 2 | 420008 | [420008-activision-collection-2.json](./420008-activision-collection-2.json) |
+| Activision Flashback Blast! | 245649 | [245649-activision-flashback-blast.json](./245649-activision-flashback-blast.json) |
 | Activision Game Vault: Volume 1 | 137499 | [137499-activision-game-vault-volume-1.json](./137499-activision-game-vault-volume-1.json) |
 | Activision Game Vault: Volume 3 | 59285 | [59285-activision-game-vault-volume-3.json](./59285-activision-game-vault-volume-3.json) |
 | Activision Hits Remixed | 23110 | [23110-activision-hits-remixed.json](./23110-activision-hits-remixed.json) |
@@ -16431,6 +16433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -17968,6 +17971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axolotl Swim | 389113 | [389113-axolotl-swim.json](./389113-axolotl-swim.json) |
 | Axom: Conquest | 333357 | [333357-axom-conquest.json](./333357-axom-conquest.json) |
 | Axon Hero | 217278 | [217278-axon-hero.json](./217278-axon-hero.json) |
+| Axon TD: Uprising | 245624 | [245624-axon-td-uprising.json](./245624-axon-td-uprising.json) |
 | Axona | 283969 | [283969-axona.json](./283969-axona.json) |
 | Axria Retro World | 124568 | [124568-axria-retro-world.json](./124568-axria-retro-world.json) |
 | AXS | 147663 | [147663-axs.json](./147663-axs.json) |
