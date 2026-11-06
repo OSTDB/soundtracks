@@ -4315,6 +4315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orzmic | 174689 | [174689-orzmic.json](./174689-orzmic.json) |
 | Os Cavaleiros do Zodíaco: A Guerra Galáctica | 278870 | [278870-os-cavaleiros-do-zodiaco-a-guerra-galactica.json](./278870-os-cavaleiros-do-zodiaco-a-guerra-galactica.json) |
 | Os Cavaleiros do Zodíaco: A Lenda do Santuário - Cosmo Cards | 282131 | [282131-os-cavaleiros-do-zodiaco-a-lenda-do-santuario-cosmo-cards.json](./282131-os-cavaleiros-do-zodiaco-a-lenda-do-santuario-cosmo-cards.json) |
+| Os Doze Trabalhos de Jongo | 230662 | [230662-os-doze-trabalhos-de-jongo.json](./230662-os-doze-trabalhos-de-jongo.json) |
 | Os Encolhidos | 242921 | [242921-os-encolhidos.json](./242921-os-encolhidos.json) |
 | Os Invasores do Futuro | 300447 | [300447-os-invasores-do-futuro.json](./300447-os-invasores-do-futuro.json) |
 | Os Invasores do Futuro 2 | 300448 | [300448-os-invasores-do-futuro-2.json](./300448-os-invasores-do-futuro-2.json) |
@@ -5355,6 +5356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OutSider | 297462 | [297462-outsider.json](./297462-outsider.json) |
 | Outsider Strategist | 90829 | [90829-outsider-strategist.json](./90829-outsider-strategist.json) |
 | Outsider: After Life | 155547 | [155547-outsider-after-life.json](./155547-outsider-after-life.json) |
+| Outsiders | 230663 | [230663-outsiders.json](./230663-outsiders.json) |
 | Outsiders | 325982 | [325982-outsiders.json](./325982-outsiders.json) |
 | Outsiders | 391871 | [391871-outsiders.json](./391871-outsiders.json) |
 | Outsiders & Insiders | 404024 | [404024-outsiders-and-insiders.json](./404024-outsiders-and-insiders.json) |
