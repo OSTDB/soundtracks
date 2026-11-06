@@ -3246,6 +3246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uranus | 161632 | [161632-uranus.json](./161632-uranus.json) |
 | Uranus | 168035 | [168035-uranus.json](./168035-uranus.json) |
 | Uranus | 313454 | [313454-uranus.json](./313454-uranus.json) |
+| Urapani! | 204661 | [204661-urapani.json](./204661-urapani.json) |
 | Urawaza Mahjong: Korette Tenwatte Yatsukai | 363966 | [363966-urawaza-mahjong-korette-tenwatte-yatsukai.json](./363966-urawaza-mahjong-korette-tenwatte-yatsukai.json) |
 | Urayama | 298619 | [298619-urayama.json](./298619-urayama.json) |
 | URB: Last Pixels Battle | 100845 | [100845-urb-last-pixels-battle.json](./100845-urb-last-pixels-battle.json) |
