@@ -14032,6 +14032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Chess | 89848 | [89848-army-chess.json](./89848-army-chess.json) |
 | Army Chess Super Online | 99110 | [99110-army-chess-super-online.json](./99110-army-chess-super-online.json) |
 | Army Clash | 295989 | [295989-army-clash.json](./295989-army-clash.json) |
+| Army Commander | 219961 | [219961-army-commander.json](./219961-army-commander.json) |
 | Army Corps of Hell | 8643 | [8643-army-corps-of-hell.json](./8643-army-corps-of-hell.json) |
 | Army Days | 13796 | [13796-army-days.json](./13796-army-days.json) |
 | Army Defence | 256519 | [256519-army-defence.json](./256519-army-defence.json) |
