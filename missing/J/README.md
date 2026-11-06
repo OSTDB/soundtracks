@@ -1767,6 +1767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle | 357883 | [357883-jigsaw-puzzle.json](./357883-jigsaw-puzzle.json) |
 | Jigsaw Puzzle | 359084 | [359084-jigsaw-puzzle.json](./359084-jigsaw-puzzle.json) |
 | Jigsaw Puzzle | 94953 | [94953-jigsaw-puzzle.json](./94953-jigsaw-puzzle.json) |
+| Jigsaw Puzzle Brawl BS Stars | 213077 | [213077-jigsaw-puzzle-brawl-bs-stars.json](./213077-jigsaw-puzzle-brawl-bs-stars.json) |
 | Jigsaw Puzzle Bug | 167672 | [167672-jigsaw-puzzle-bug.json](./167672-jigsaw-puzzle-bug.json) |
 | Jigsaw Puzzle by MobilityWare | 90982 | [90982-jigsaw-puzzle-by-mobilityware.json](./90982-jigsaw-puzzle-by-mobilityware.json) |
 | Jigsaw Puzzle Cats Kitten | 202765 | [202765-jigsaw-puzzle-cats-kitten.json](./202765-jigsaw-puzzle-cats-kitten.json) |
