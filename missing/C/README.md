@@ -11032,6 +11032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocobi Hospital | 221373 | [221373-cocobi-hospital.json](./221373-cocobi-hospital.json) |
 | Cocoboy | 377811 | [377811-cocoboy.json](./377811-cocoboy.json) |
 | Cocomelon: Laptop Infantil | 294484 | [294484-cocomelon-laptop-infantil.json](./294484-cocomelon-laptop-infantil.json) |
+| CoComelon: Play with JJ | 216551 | [216551-cocomelon-play-with-jj.json](./216551-cocomelon-play-with-jj.json) |
 | Cocommando | 393474 | [393474-cocommando.json](./393474-cocommando.json) |
 | Cocona World | 41257 | [41257-cocona-world.json](./41257-cocona-world.json) |
 | Coconut | 314302 | [314302-coconut.json](./314302-coconut.json) |
