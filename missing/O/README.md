@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obey | 20350 | [20350-obey.json](./20350-obey.json) |
 | Obey Her or Else | 248434 | [248434-obey-her-or-else.json](./248434-obey-her-or-else.json) |
 | Obey Me | 118205 | [118205-obey-me.json](./118205-obey-me.json) |
+| Obey Me: Complete Edition | 225468 | [225468-obey-me-complete-edition.json](./225468-obey-me-complete-edition.json) |
 | Obey Me! Nightbringer | 242916 | [242916-obey-me-nightbringer.json](./242916-obey-me-nightbringer.json) |
 | Obey Me! Sinner's Choice: Lucifer | 396555 | [396555-obey-me-sinners-choice-lucifer.json](./396555-obey-me-sinners-choice-lucifer.json) |
 | Obey Me! Till Death Do Us Part | 382870 | [382870-obey-me-till-death-do-us-part.json](./382870-obey-me-till-death-do-us-part.json) |
@@ -229,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oblitus Casa | 231425 | [231425-oblitus-casa.json](./231425-oblitus-casa.json) |
 | Oblitus Mortis | 336918 | [336918-oblitus-mortis.json](./336918-oblitus-mortis.json) |
 | Oblivio | 182771 | [182771-oblivio.json](./182771-oblivio.json) |
+| Oblivion | 225434 | [225434-oblivion.json](./225434-oblivion.json) |
 | Oblivion | 77199 | [77199-oblivion.json](./77199-oblivion.json) |
 | Oblivion Congee | 183579 | [183579-oblivion-congee.json](./183579-oblivion-congee.json) |
 | Oblivion Dreams | 375412 | [375412-oblivion-dreams.json](./375412-oblivion-dreams.json) |
@@ -5108,6 +5110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: The Nightmare Chronicles - Definitive Collection | 228940 | [228940-outbreak-the-nightmare-chronicles-definitive-collection.json](./228940-outbreak-the-nightmare-chronicles-definitive-collection.json) |
 | Outbreak: The Nightmare Chronicles - Definitive Edition | 164713 | [164713-outbreak-the-nightmare-chronicles-definitive-edition.json](./164713-outbreak-the-nightmare-chronicles-definitive-edition.json) |
 | Outbreak: The Nightmare Chronicles - Reinvestigated | 261362 | [261362-outbreak-the-nightmare-chronicles-reinvestigated.json](./261362-outbreak-the-nightmare-chronicles-reinvestigated.json) |
+| Outbreak: The Undying Collection | 225462 | [225462-outbreak-the-undying-collection.json](./225462-outbreak-the-undying-collection.json) |
 | Outbreak: Urban Jungle Collection | 331418 | [331418-outbreak-urban-jungle-collection.json](./331418-outbreak-urban-jungle-collection.json) |
 | Outbreak: Zombies For Days Collection | 308586 | [308586-outbreak-zombies-for-days-collection.json](./308586-outbreak-zombies-for-days-collection.json) |
 | Outbrk | 131609 | [131609-outbrk.json](./131609-outbrk.json) |
