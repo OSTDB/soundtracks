@@ -1697,6 +1697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fanais Chess | 239996 | [239996-fanais-chess.json](./239996-fanais-chess.json) |
 | Fanastasis | 306010 | [306010-fanastasis.json](./306010-fanastasis.json) |
 | Fanatic Earth | 38496 | [38496-fanatic-earth.json](./38496-fanatic-earth.json) |
+| Fanatic Zeal | 205742 | [205742-fanatic-zeal.json](./205742-fanatic-zeal.json) |
 | Fanatica | 204555 | [204555-fanatica.json](./204555-fanatica.json) |
 | Fanatical Basketball | 175725 | [175725-fanatical-basketball.json](./175725-fanatical-basketball.json) |
 | FanaticBlader | 115699 | [115699-fanaticblader.json](./115699-fanaticblader.json) |
@@ -2155,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Zone II: Opa-Opa no Namida | 48627 | [48627-fantasy-zone-ii-opa-opa-no-namida.json](./48627-fantasy-zone-ii-opa-opa-no-namida.json) |
 | Fantasy Zone II: The Tears of Opa-Opa | 388998 | [388998-fantasy-zone-ii-the-tears-of-opa-opa.json](./388998-fantasy-zone-ii-the-tears-of-opa-opa.json) |
 | Fantasy Zone: The Maze | 45658 | [45658-fantasy-zone-the-maze.json](./45658-fantasy-zone-the-maze.json) |
+| Fantasy Zoo | 205759 | [205759-fantasy-zoo.json](./205759-fantasy-zoo.json) |
 | Fantasy: Battle Simulator | 43950 | [43950-fantasy-battle-simulator.json](./43950-fantasy-battle-simulator.json) |
 | Fantasya | 232937 | [232937-fantasya.json](./232937-fantasya.json) |
 | FantasyGolf | 26387 | [26387-fantasygolf.json](./26387-fantasygolf.json) |
@@ -4316,6 +4318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 22: Ultimate Edition | 155101 | [155101-fifa-22-ultimate-edition.json](./155101-fifa-22-ultimate-edition.json) |
 | FIFA 23 | 205780 | [205780-fifa-23.json](./205780-fifa-23.json) |
 | FIFA 23 | 240456 | [240456-fifa-23.json](./240456-fifa-23.json) |
+| FIFA 23: Deluxe Edition | 205781 | [205781-fifa-23-deluxe-edition.json](./205781-fifa-23-deluxe-edition.json) |
 | FIFA 23: Legacy Edition | 210455 | [210455-fifa-23-legacy-edition.json](./210455-fifa-23-legacy-edition.json) |
 | FIFA 23: Ultimate Edition | 209811 | [209811-fifa-23-ultimate-edition.json](./209811-fifa-23-ultimate-edition.json) |
 | FIFA 99 | 699 | [699-fifa-99.json](./699-fifa-99.json) |
@@ -9088,6 +9091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football | 171272 | [171272-football.json](./171272-football.json) |
 | Football | 198632 | [198632-football.json](./198632-football.json) |
 | Football | 199023 | [199023-football.json](./199023-football.json) |
+| Football | 205771 | [205771-football.json](./205771-football.json) |
 | Football | 217830 | [217830-football.json](./217830-football.json) |
 | Football | 225529 | [225529-football.json](./225529-football.json) |
 | Football | 284440 | [284440-football.json](./284440-football.json) |
