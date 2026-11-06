@@ -4955,6 +4955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Friends | 145213 | [145213-tetris-friends.json](./145213-tetris-friends.json) |
 | Tetris Gems | 158991 | [158991-tetris-gems.json](./158991-tetris-gems.json) |
 | Tetris Giant | 92457 | [92457-tetris-giant.json](./92457-tetris-giant.json) |
+| Tetris Girls | 214242 | [214242-tetris-girls.json](./214242-tetris-girls.json) |
 | Tetris HD | 94129 | [94129-tetris-hd.json](./94129-tetris-hd.json) |
 | Tetris Illuminated Mega Screen | 233647 | [233647-tetris-illuminated-mega-screen.json](./233647-tetris-illuminated-mega-screen.json) |
 | Tetris Jr. | 218934 | [218934-tetris-jr.json](./218934-tetris-jr.json) |
@@ -6692,6 +6693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Boogie Man | 46987 | [46987-the-boogie-man.json](./46987-the-boogie-man.json) |
 | The Boohbah Zone | 299478 | [299478-the-boohbah-zone.json](./299478-the-boohbah-zone.json) |
 | The book by the blue | 288723 | [288723-the-book-by-the-blue.json](./288723-the-book-by-the-blue.json) |
+| The Book of Aaru | 214267 | [214267-the-book-of-aaru.json](./214267-the-book-of-aaru.json) |
 | The Book of Blood | 392172 | [392172-the-book-of-blood.json](./392172-the-book-of-blood.json) |
 | The Book of Buja | 305248 | [305248-the-book-of-buja.json](./305248-the-book-of-buja.json) |
 | The Book of Commands: Lost Symbol | 32894 | [32894-the-book-of-commands-lost-symbol.json](./32894-the-book-of-commands-lost-symbol.json) |
@@ -10633,6 +10635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hidden Room: Pyramid | 244383 | [244383-the-hidden-room-pyramid.json](./244383-the-hidden-room-pyramid.json) |
 | The Hidden Scrolls | 368805 | [368805-the-hidden-scrolls.json](./368805-the-hidden-scrolls.json) |
 | The Hidden: Source | 70647 | [70647-the-hidden-source.json](./70647-the-hidden-source.json) |
+| The Hideaway | 214240 | [214240-the-hideaway.json](./214240-the-hideaway.json) |
 | The Hierophant | 189288 | [189288-the-hierophant.json](./189288-the-hierophant.json) |
 | The High Desert | 345134 | [345134-the-high-desert.json](./345134-the-high-desert.json) |
 | The High Life | 374657 | [374657-the-high-life.json](./374657-the-high-life.json) |
@@ -12055,6 +12058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Matches | 213960 | [213960-the-last-matches.json](./213960-the-last-matches.json) |
 | The Last Maverick: Survival Raft Adventure | 95876 | [95876-the-last-maverick-survival-raft-adventure.json](./95876-the-last-maverick-survival-raft-adventure.json) |
 | The Last Meadow | 337897 | [337897-the-last-meadow.json](./337897-the-last-meadow.json) |
+| The Last Medic | 214262 | [214262-the-last-medic.json](./214262-the-last-medic.json) |
 | The Last Memory of a Burning Thought | 335655 | [335655-the-last-memory-of-a-burning-thought.json](./335655-the-last-memory-of-a-burning-thought.json) |
 | The Last Metal Shooter | 208815 | [208815-the-last-metal-shooter.json](./208815-the-last-metal-shooter.json) |
 | The Last Mile | 344793 | [344793-the-last-mile.json](./344793-the-last-mile.json) |
@@ -15098,6 +15102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prophecy | 12822 | [12822-the-prophecy.json](./12822-the-prophecy.json) |
 | The Prophecy of Horn | 349999 | [349999-the-prophecy-of-horn.json](./349999-the-prophecy-of-horn.json) |
 | The Prophecy of Statues | 109754 | [109754-the-prophecy-of-statues.json](./109754-the-prophecy-of-statues.json) |
+| The Proponent | 214234 | [214234-the-proponent.json](./214234-the-proponent.json) |
 | The Proposal | 310587 | [310587-the-proposal.json](./310587-the-proposal.json) |
 | The Prospector | 236105 | [236105-the-prospector.json](./236105-the-prospector.json) |
 | The Prospector Odyssey | 260550 | [260550-the-prospector-odyssey.json](./260550-the-prospector-odyssey.json) |
@@ -15320,6 +15325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ramen Shop | 378366 | [378366-the-ramen-shop.json](./378366-the-ramen-shop.json) |
 | The Ramen Stand | 298626 | [298626-the-ramen-stand.json](./298626-the-ramen-stand.json) |
 | The Ramp | 159248 | [159248-the-ramp.json](./159248-the-ramp.json) |
+| The Ramsey | 214256 | [214256-the-ramsey.json](./214256-the-ramsey.json) |
 | The Ranch of Rivershine | 182113 | [182113-the-ranch-of-rivershine.json](./182113-the-ranch-of-rivershine.json) |
 | The Ranchers | 142498 | [142498-the-ranchers.json](./142498-the-ranchers.json) |
 | The Ranger: A Skyhopper Tale | 226542 | [226542-the-ranger-a-skyhopper-tale.json](./226542-the-ranger-a-skyhopper-tale.json) |
@@ -15504,6 +15510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Restricted Archive | 273870 | [273870-the-restricted-archive.json](./273870-the-restricted-archive.json) |
 | The Restricted Index | 398539 | [398539-the-restricted-index.json](./398539-the-restricted-index.json) |
 | The Resurrected | 366314 | [366314-the-resurrected.json](./366314-the-resurrected.json) |
+| The Resurrection of Amelia: Across Two Worlds | 214268 | [214268-the-resurrection-of-amelia-across-two-worlds.json](./214268-the-resurrection-of-amelia-across-two-worlds.json) |
 | The Retrieval | 212062 | [212062-the-retrieval.json](./212062-the-retrieval.json) |
 | The Retro Exorcist | 401710 | [401710-the-retro-exorcist.json](./401710-the-retro-exorcist.json) |
 | The Retrospection of Tomorrow | 354750 | [354750-the-retrospection-of-tomorrow.json](./354750-the-retrospection-of-tomorrow.json) |
@@ -31122,6 +31129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropic Isle | 130866 | [130866-tropic-isle.json](./130866-tropic-isle.json) |
 | Tropic Jim's Sweet Island Adventure | 233132 | [233132-tropic-jims-sweet-island-adventure.json](./233132-tropic-jims-sweet-island-adventure.json) |
 | Tropica: Survival 1095 | 244396 | [244396-tropica-survival-1095.json](./244396-tropica-survival-1095.json) |
+| Tropical | 214261 | [214261-tropical.json](./214261-tropical.json) |
 | Tropical Air hockey | 129349 | [129349-tropical-air-hockey.json](./129349-tropical-air-hockey.json) |
 | Tropical Alien Massacre | 308329 | [308329-tropical-alien-massacre.json](./308329-tropical-alien-massacre.json) |
 | Tropical America | 173420 | [173420-tropical-america.json](./173420-tropical-america.json) |
@@ -32170,6 +32178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Fat | 236872 | [236872-turbo-fat.json](./236872-turbo-fat.json) |
 | Turbo Fiesta | 206069 | [206069-turbo-fiesta.json](./206069-turbo-fiesta.json) |
 | Turbo Finger Swipe | 9237 | [9237-turbo-finger-swipe.json](./9237-turbo-finger-swipe.json) |
+| Turbo Force | 214255 | [214255-turbo-force.json](./214255-turbo-force.json) |
 | Turbo Girl | 39140 | [39140-turbo-girl.json](./39140-turbo-girl.json) |
 | Turbo Golf Racing | 194736 | [194736-turbo-golf-racing.json](./194736-turbo-golf-racing.json) |
 | Turbo Golf Racing: Deep Space Bundle | 295641 | [295641-turbo-golf-racing-deep-space-bundle.json](./295641-turbo-golf-racing-deep-space-bundle.json) |
