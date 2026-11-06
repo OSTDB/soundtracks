@@ -3429,6 +3429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Medieval | 71795 | [71795-get-medieval.json](./71795-get-medieval.json) |
 | Get Money | 57049 | [57049-get-money.json](./57049-get-money.json) |
 | Get More Fries! | 306322 | [306322-get-more-fries.json](./306322-get-more-fries.json) |
+| Get Mouse | 233309 | [233309-get-mouse.json](./233309-get-mouse.json) |
 | Get Mushi Club: Minna no Konchuu Daizukan | 153816 | [153816-get-mushi-club-minna-no-konchuu-daizukan.json](./153816-get-mushi-club-minna-no-konchuu-daizukan.json) |
 | Get Off My Lawn | 236608 | [236608-get-off-my-lawn.json](./236608-get-off-my-lawn.json) |
 | Get Off My Lawn | 285276 | [285276-get-off-my-lawn.json](./285276-get-off-my-lawn.json) |
@@ -6174,6 +6175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoFish: Avoid the Dams | 252571 | [252571-gofish-avoid-the-dams.json](./252571-gofish-avoid-the-dams.json) |
 | GoFishing 3D | 119508 | [119508-gofishing-3d.json](./119508-gofishing-3d.json) |
 | GOG Adventure & Puzzle Bundle | 233352 | [233352-gog-adventure-and-puzzle-bundle.json](./233352-gog-adventure-and-puzzle-bundle.json) |
+| GOG Collection Shooter Pack | 233349 | [233349-gog-collection-shooter-pack.json](./233349-gog-collection-shooter-pack.json) |
 | GoGeez | 410296 | [410296-gogeez.json](./410296-gogeez.json) |
 | Gogetsuji Legends | 37341 | [37341-gogetsuji-legends.json](./37341-gogetsuji-legends.json) |
 | Gogh: Focus with Your Avatar | 333115 | [333115-gogh-focus-with-your-avatar.json](./333115-gogh-focus-with-your-avatar.json) |
@@ -7383,6 +7385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotouchi Kentei DS | 124018 | [124018-gotouchi-kentei-ds.json](./124018-gotouchi-kentei-ds.json) |
 | Gotouchi Tetsudou for Nintendo Switch | 136963 | [136963-gotouchi-tetsudou-for-nintendo-switch.json](./136963-gotouchi-tetsudou-for-nintendo-switch.json) |
 | Gotouchi Tetsudou: Gotouchi Chara to Nihon Zenkoku no Tabi | 71016 | [71016-gotouchi-tetsudou-gotouchi-chara-to-nihon-zenkoku-no-tabi.json](./71016-gotouchi-tetsudou-gotouchi-chara-to-nihon-zenkoku-no-tabi.json) |
+| Gotris | 233318 | [233318-gotris.json](./233318-gotris.json) |
 | Gotta Bounce | 272463 | [272463-gotta-bounce.json](./272463-gotta-bounce.json) |
 | Gotta Date Them All | 149720 | [149720-gotta-date-them-all.json](./149720-gotta-date-them-all.json) |
 | Gotta Eat the Plums! With William Carlos Williams | 182040 | [182040-gotta-eat-the-plums-with-william-carlos-williams.json](./182040-gotta-eat-the-plums-with-william-carlos-williams.json) |
@@ -7489,6 +7492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grabbed by the Ghoulies | 324860 | [324860-grabbed-by-the-ghoulies.json](./324860-grabbed-by-the-ghoulies.json) |
 | Grabbed by the Ghoulies | 5849 | [5849-grabbed-by-the-ghoulies.json](./5849-grabbed-by-the-ghoulies.json) |
 | Grabbers in the Woods | 294426 | [294426-grabbers-in-the-woods.json](./294426-grabbers-in-the-woods.json) |
+| Grabe 4x4 | 233310 | [233310-grabe-4x4.json](./233310-grabe-4x4.json) |
 | Grabit | 412373 | [412373-grabit.json](./412373-grabit.json) |
 | Grabitoons | 231049 | [231049-grabitoons.json](./231049-grabitoons.json) |
 | Grabity | 75073 | [75073-grabity.json](./75073-grabity.json) |
@@ -8450,6 +8454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Duck | 121815 | [121815-gravity-duck.json](./121815-gravity-duck.json) |
 | Gravity Error | 24041 | [24041-gravity-error.json](./24041-gravity-error.json) |
 | Gravity Escape | 128255 | [128255-gravity-escape.json](./128255-gravity-escape.json) |
+| Gravity Express | 233298 | [233298-gravity-express.json](./233298-gravity-express.json) |
 | Gravity Falls | 382577 | [382577-gravity-falls.json](./382577-gravity-falls.json) |
 | Gravity Falls: Legend of the Gnome Gemulets | 44014 | [44014-gravity-falls-legend-of-the-gnome-gemulets.json](./44014-gravity-falls-legend-of-the-gnome-gemulets.json) |
 | Gravity Falls: PinesQuest | 262126 | [262126-gravity-falls-pinesquest.json](./262126-gravity-falls-pinesquest.json) |
