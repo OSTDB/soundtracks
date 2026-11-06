@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Men: 101 - Attack Mod: Reflective Mode | 363559 | [363559-x-men-101-attack-mod-reflective-mode.json](./363559-x-men-101-attack-mod-reflective-mode.json) |
 | X-Men: 102 - Attack Mod: Super Speed | 363560 | [363560-x-men-102-attack-mod-super-speed.json](./363560-x-men-102-attack-mod-super-speed.json) |
 | X-Men: Battle of the Atom | 62782 | [62782-x-men-battle-of-the-atom.json](./62782-x-men-battle-of-the-atom.json) |
+| X-Men: Blackbird Battle | 245610 | [245610-x-men-blackbird-battle.json](./245610-x-men-blackbird-battle.json) |
 | X-Men: Children of the Atom | 39295 | [39295-x-men-children-of-the-atom.json](./39295-x-men-children-of-the-atom.json) |
 | X-Men: Destiny | 5302 | [5302-x-men-destiny.json](./5302-x-men-destiny.json) |
 | X-Men: Madness in Murderworld | 40949 | [40949-x-men-madness-in-murderworld.json](./40949-x-men-madness-in-murderworld.json) |
@@ -175,6 +176,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Men: Mutant Apocalypse | 42576 | [42576-x-men-mutant-apocalypse.json](./42576-x-men-mutant-apocalypse.json) |
 | X-Men: Mutant Wars | 49887 | [49887-x-men-mutant-wars.json](./49887-x-men-mutant-wars.json) |
 | X-Men: Next Dimension | 4577 | [4577-x-men-next-dimension.json](./4577-x-men-next-dimension.json) |
+| X-Men: Power Trainer | 245611 | [245611-x-men-power-trainer.json](./245611-x-men-power-trainer.json) |
+| X-Men: Sentinel Assault | 245612 | [245612-x-men-sentinel-assault.json](./245612-x-men-sentinel-assault.json) |
 | X-Men: The Official Game | 200902 | [200902-x-men-the-official-game.json](./200902-x-men-the-official-game.json) |
 | X-Men: The Official Game | 218615 | [218615-x-men-the-official-game.json](./218615-x-men-the-official-game.json) |
 | X-Men: The Official Game | 248534 | [248534-x-men-the-official-game.json](./248534-x-men-the-official-game.json) |
@@ -1030,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xump: The Final Run | 138434 | [138434-xump-the-final-run.json](./138434-xump-the-final-run.json) |
 | Xump: The Final Run | 153828 | [153828-xump-the-final-run.json](./153828-xump-the-final-run.json) |
 | Xurb | 292382 | [292382-xurb.json](./292382-xurb.json) |
+| Xuxa | 245613 | [245613-xuxa.json](./245613-xuxa.json) |
 | Xuxa | 281455 | [281455-xuxa.json](./281455-xuxa.json) |
 | Xuxa e os Duendes 2: No Caminho das Fadas | 185904 | [185904-xuxa-e-os-duendes-2-no-caminho-das-fadas.json](./185904-xuxa-e-os-duendes-2-no-caminho-das-fadas.json) |
 | XV | 212778 | [212778-xv.json](./212778-xv.json) |
