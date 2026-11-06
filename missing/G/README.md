@@ -718,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaga Legions DX | 10762 | [10762-galaga-legions-dx.json](./10762-galaga-legions-dx.json) |
 | Galaga Micro Player | 246301 | [246301-galaga-micro-player.json](./246301-galaga-micro-player.json) |
 | Galaga Remix | 21872 | [21872-galaga-remix.json](./21872-galaga-remix.json) |
+| Galaga Remix | 229455 | [229455-galaga-remix.json](./229455-galaga-remix.json) |
 | Galaga Wars | 58309 | [58309-galaga-wars.json](./58309-galaga-wars.json) |
 | Galaga Wars+ | 291975 | [291975-galaga-wars.json](./291975-galaga-wars.json) |
 | Galaga Wave Mixer | 339253 | [339253-galaga-wave-mixer.json](./339253-galaga-wave-mixer.json) |
@@ -1728,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gap Year! | 374871 | [374871-gap-year.json](./374871-gap-year.json) |
 | Gaping Little Red Riding Hood's Lewd Walking Around | 82600 | [82600-gaping-little-red-riding-hoods-lewd-walking-around.json](./82600-gaping-little-red-riding-hoods-lewd-walking-around.json) |
 | Gaplus | 21678 | [21678-gaplus.json](./21678-gaplus.json) |
+| Gaplus | 229460 | [229460-gaplus.json](./229460-gaplus.json) |
 | Gaplus Phalanx | 243830 | [243830-gaplus-phalanx.json](./243830-gaplus-phalanx.json) |
 | GapMan | 267223 | [267223-gapman.json](./267223-gapman.json) |
 | Gapper | 57674 | [57674-gapper.json](./57674-gapper.json) |
@@ -2233,6 +2235,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gatling Gears | 15134 | [15134-gatling-gears.json](./15134-gatling-gears.json) |
 | Gato | 19702 | [19702-gato.json](./19702-gato.json) |
 | Gator Brigade | 321565 | [321565-gator-brigade.json](./321565-gator-brigade.json) |
+| Gator Panic | 229458 | [229458-gator-panic.json](./229458-gator-panic.json) |
+| Gator Panic Remix | 229457 | [229457-gator-panic-remix.json](./229457-gator-panic-remix.json) |
 | Gator Parade | 123533 | [123533-gator-parade.json](./123533-gator-parade.json) |
 | Gatos contra el mundo | 299092 | [299092-gatos-contra-el-mundo.json](./299092-gatos-contra-el-mundo.json) |
 | Gatotag | 403924 | [403924-gatotag.json](./403924-gatotag.json) |
@@ -9525,6 +9529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grizzy & the Lemmings: Crazy Party | 410664 | [410664-grizzy-and-the-lemmings-crazy-party.json](./410664-grizzy-and-the-lemmings-crazy-party.json) |
 | Groaning Steel | 170541 | [170541-groaning-steel.json](./170541-groaning-steel.json) |
 | Grobda | 21687 | [21687-grobda.json](./21687-grobda.json) |
+| Grobda Remix | 229459 | [229459-grobda-remix.json](./229459-grobda-remix.json) |
 | Grobda Remix | 74986 | [74986-grobda-remix.json](./74986-grobda-remix.json) |
 | Grobnopolis \| Last Days | 363914 | [363914-grobnopolis-last-days.json](./363914-grobnopolis-last-days.json) |
 | Groceries and JumpScares | 253730 | [253730-groceries-and-jumpscares.json](./253730-groceries-and-jumpscares.json) |
