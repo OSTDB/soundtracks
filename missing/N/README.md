@@ -2223,6 +2223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Geo Cup '98 Plus | 75494 | [75494-neo-geo-cup-98-plus.json](./75494-neo-geo-cup-98-plus.json) |
 | Neo Geo Cup '98 Plus Color | 43976 | [43976-neo-geo-cup-98-plus-color.json](./43976-neo-geo-cup-98-plus-color.json) |
 | Neo Geo Cup '98: The Road to the Victory | 39529 | [39529-neo-geo-cup-98-the-road-to-the-victory.json](./39529-neo-geo-cup-98-the-road-to-the-victory.json) |
+| Neo Geo Mini | 215427 | [215427-neo-geo-mini.json](./215427-neo-geo-mini.json) |
 | Neo Geo Mini International | 213554 | [213554-neo-geo-mini-international.json](./213554-neo-geo-mini-international.json) |
 | Neo Golden Logres | 218154 | [218154-neo-golden-logres.json](./218154-neo-golden-logres.json) |
 | Neo Ha_Bits | 311493 | [311493-neo-ha-bits.json](./311493-neo-ha-bits.json) |
@@ -5820,6 +5821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Pineapple Left Behind | 11419 | [11419-no-pineapple-left-behind.json](./11419-no-pineapple-left-behind.json) |
 | No Place For Bravery | 23690 | [23690-no-place-for-bravery.json](./23690-no-place-for-bravery.json) |
 | No Place for the Dissident | 141136 | [141136-no-place-for-the-dissident.json](./141136-no-place-for-the-dissident.json) |
+| No Place Like | 215430 | [215430-no-place-like.json](./215430-no-place-like.json) |
 | No Place To Hide | 274855 | [274855-no-place-to-hide.json](./274855-no-place-to-hide.json) |
 | No Plan B | 132448 | [132448-no-plan-b.json](./132448-no-plan-b.json) |
 | No Play No Die | 233534 | [233534-no-play-no-die.json](./233534-no-play-no-die.json) |
