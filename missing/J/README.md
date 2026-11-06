@@ -2347,6 +2347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jogo da Nota | 409806 | [409806-jogo-da-nota.json](./409806-jogo-da-nota.json) |
 | Jogo de Bejos | 300525 | [300525-jogo-de-bejos.json](./300525-jogo-de-bejos.json) |
 | Jogo do Banquinho do Raul Gil | 222874 | [222874-jogo-do-banquinho-do-raul-gil.json](./222874-jogo-do-banquinho-do-raul-gil.json) |
+| Jogo dos 10 | 242905 | [242905-jogo-dos-10.json](./242905-jogo-dos-10.json) |
 | Jogo Justo on the Taxes Island | 65342 | [65342-jogo-justo-on-the-taxes-island.json](./65342-jogo-justo-on-the-taxes-island.json) |
 | Jogo Satanista para Praticar o Mal | 178443 | [178443-jogo-satanista-para-praticar-o-mal.json](./178443-jogo-satanista-para-praticar-o-mal.json) |
 | Johan | 403561 | [403561-johan.json](./403561-johan.json) |
