@@ -2908,6 +2908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geneticognito | 44173 | [44173-geneticognito.json](./44173-geneticognito.json) |
 | Genetos | 64187 | [64187-genetos.json](./64187-genetos.json) |
 | Genewars | 14455 | [14455-genewars.json](./14455-genewars.json) |
+| GeneWars | 216553 | [216553-genewars.json](./216553-genewars.json) |
 | Genfanad | 159346 | [159346-genfanad.json](./159346-genfanad.json) |
 | Gengar | 210568 | [210568-gengar.json](./210568-gengar.json) |
 | Genghis Khan | 269523 | [269523-genghis-khan.json](./269523-genghis-khan.json) |
