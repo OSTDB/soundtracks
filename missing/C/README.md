@@ -5837,6 +5837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chao Adventure | 331473 | [331473-chao-adventure.json](./331473-chao-adventure.json) |
 | Chao Adventure 2 | 225624 | [225624-chao-adventure-2.json](./225624-chao-adventure-2.json) |
 | Chao Adventure Legends | 331221 | [331221-chao-adventure-legends.json](./331221-chao-adventure-legends.json) |
+| Chao Bandstand | 243466 | [243466-chao-bandstand.json](./243466-chao-bandstand.json) |
 | Chao Dream Touch! Happy Anniversary | 122870 | [122870-chao-dream-touch-happy-anniversary.json](./122870-chao-dream-touch-happy-anniversary.json) |
 | Chao Extreme | 331372 | [331372-chao-extreme.json](./331372-chao-extreme.json) |
 | Chao Illust Club | 130714 | [130714-chao-illust-club.json](./130714-chao-illust-club.json) |
@@ -12841,6 +12842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Communication Logic Battle Daisessen | 55001 | [55001-communication-logic-battle-daisessen.json](./55001-communication-logic-battle-daisessen.json) |
 | Communion | 290724 | [290724-communion.json](./290724-communion.json) |
 | Communist Mutants from Space | 11154 | [11154-communist-mutants-from-space.json](./11154-communist-mutants-from-space.json) |
+| Communite | 243456 | [243456-communite.json](./243456-communite.json) |
 | Community Ball | 289541 | [289541-community-ball.json](./289541-community-ball.json) |
 | Community Build Project 2 | 273145 | [273145-community-build-project-2.json](./273145-community-build-project-2.json) |
 | Community Build Project 3 | 273146 | [273146-community-build-project-3.json](./273146-community-build-project-3.json) |
