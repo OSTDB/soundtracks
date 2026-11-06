@@ -957,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -11640,6 +11641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blueman | 329002 | [329002-blueman.json](./329002-blueman.json) |
 | Blueman | 392717 | [392717-blueman.json](./392717-blueman.json) |
 | Blueprint | 18804 | [18804-blueprint.json](./18804-blueprint.json) |
+| Blueprint 3D | 243470 | [243470-blueprint-3d.json](./243470-blueprint-3d.json) |
 | Blueprint Bob | 332948 | [332948-blueprint-bob.json](./332948-blueprint-bob.json) |
 | Blueprint Hell | 315782 | [315782-blueprint-hell.json](./315782-blueprint-hell.json) |
 | BluePrint Racer 4D | 68646 | [68646-blueprint-racer-4d.json](./68646-blueprint-racer-4d.json) |
@@ -13912,6 +13914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowser's Revenge 4 | 316124 | [316124-bowsers-revenge-4.json](./316124-bowsers-revenge-4.json) |
 | Bowser's Valley | 268009 | [268009-bowsers-valley.json](./268009-bowsers-valley.json) |
 | Bowsette | 161572 | [161572-bowsette.json](./161572-bowsette.json) |
+| Bowsette Cave Escape | 243468 | [243468-bowsette-cave-escape.json](./243468-bowsette-cave-escape.json) |
 | Bowslinger | 33088 | [33088-bowslinger.json](./33088-bowslinger.json) |
 | Box | 130782 | [130782-box.json](./130782-box.json) |
 | Box | 131332 | [131332-box.json](./131332-box.json) |
@@ -15079,6 +15082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breath of the Pasture | 368821 | [368821-breath-of-the-pasture.json](./368821-breath-of-the-pasture.json) |
 | Breath of the Wasteland | 155936 | [155936-breath-of-the-wasteland.json](./155936-breath-of-the-wasteland.json) |
 | Breath of the Waters: The Angler | 410937 | [410937-breath-of-the-waters-the-angler.json](./410937-breath-of-the-waters-the-angler.json) |
+| Breath of the Wild Multiplayer | 243459 | [243459-breath-of-the-wild-multiplayer.json](./243459-breath-of-the-wild-multiplayer.json) |
 | Breath of Warfare | 76277 | [76277-breath-of-warfare.json](./76277-breath-of-warfare.json) |
 | Breath: Toiki wa Akaneiro | 269675 | [269675-breath-toiki-wa-akaneiro.json](./269675-breath-toiki-wa-akaneiro.json) |
 | Breathbound | 372447 | [372447-breathbound.json](./372447-breathbound.json) |
