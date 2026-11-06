@@ -7189,6 +7189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Nardy | 264362 | [264362-long-nardy.json](./264362-long-nardy.json) |
 | Long Night | 16941 | [16941-long-night.json](./16941-long-night.json) |
 | Long Nights | 177732 | [177732-long-nights.json](./177732-long-nights.json) |
+| Long Nose Dog | 239425 | [239425-long-nose-dog.json](./239425-long-nose-dog.json) |
 | Long Puppy | 340855 | [340855-long-puppy.json](./340855-long-puppy.json) |
 | Long Road | 108233 | [108233-long-road.json](./108233-long-road.json) |
 | Long Road | 148914 | [148914-long-road.json](./148914-long-road.json) |
