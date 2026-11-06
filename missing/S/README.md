@@ -3023,6 +3023,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Simulator RPG | 195387 | [195387-school-simulator-rpg.json](./195387-school-simulator-rpg.json) |
 | School Trip | 181022 | [181022-school-trip.json](./181022-school-trip.json) |
 | School Tycoon | 9203 | [9203-school-tycoon.json](./9203-school-tycoon.json) |
+| School Wars | 218785 | [218785-school-wars.json](./218785-school-wars.json) |
+| School Wars: Sotsugyou Sensen | 218786 | [218786-school-wars-sotsugyou-sensen.json](./218786-school-wars-sotsugyou-sensen.json) |
 | School Years | 132045 | [132045-school-years.json](./132045-school-years.json) |
 | School Years: Episode 2 | 168052 | [168052-school-years-episode-2.json](./168052-school-years-episode-2.json) |
 | School: The Hardest RPG in Your Life | 263765 | [263765-school-the-hardest-rpg-in-your-life.json](./263765-school-the-hardest-rpg-in-your-life.json) |
@@ -8587,6 +8589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinsou Kaiten!! Wan-wan Umi Monogatari: Sanyo Pachinko Paradise DX | 351072 | [351072-shinsou-kaiten-wan-wan-umi-monogatari-sanyo-pachinko-paradise-dx.json](./351072-shinsou-kaiten-wan-wan-umi-monogatari-sanyo-pachinko-paradise-dx.json) |
 | Shinsou Noise: Jushin Tantei no Jikenbo | 111328 | [111328-shinsou-noise-jushin-tantei-no-jikenbo.json](./111328-shinsou-noise-jushin-tantei-no-jikenbo.json) |
 | Shinsou Seiki Elementia ~Kutsujoku no Sennou Saimin~ | 133246 | [133246-shinsou-seiki-elementia-kutsujoku-no-sennou-saimin.json](./133246-shinsou-seiki-elementia-kutsujoku-no-sennou-saimin.json) |
+| Shinsouban Clover no Kuni no Alice: Wonderful Wonder World | 218781 | [218781-shinsouban-clover-no-kuni-no-alice-wonderful-wonder-world.json](./218781-shinsouban-clover-no-kuni-no-alice-wonderful-wonder-world.json) |
 | Shinsouban Crimson Empire: Circumstances to Serve a Noble | 60957 | [60957-shinsouban-crimson-empire-circumstances-to-serve-a-noble.json](./60957-shinsouban-crimson-empire-circumstances-to-serve-a-noble.json) |
 | Shinsouban Heart no Kuni no Alice: Wonderful Wonder World | 130009 | [130009-shinsouban-heart-no-kuni-no-alice-wonderful-wonder-world.json](./130009-shinsouban-heart-no-kuni-no-alice-wonderful-wonder-world.json) |
 | Shinsouban Mahoutsukai to Goshujin-sama: Wizard and The Master | 60251 | [60251-shinsouban-mahoutsukai-to-goshujin-sama-wizard-and-the-master.json](./60251-shinsouban-mahoutsukai-to-goshujin-sama-wizard-and-the-master.json) |
@@ -19534,6 +19537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Intervention | 125748 | [125748-space-intervention.json](./125748-space-intervention.json) |
 | Space Intruder | 245403 | [245403-space-intruder.json](./245403-space-intruder.json) |
 | Space Intruders | 38923 | [38923-space-intruders.json](./38923-space-intruders.json) |
+| Space Invader | 218772 | [218772-space-invader.json](./218772-space-invader.json) |
 | Space Invader | 329469 | [329469-space-invader.json](./329469-space-invader.json) |
 | Space Invaders | 18133 | [18133-space-invaders.json](./18133-space-invaders.json) |
 | Space Invaders | 200391 | [200391-space-invaders.json](./200391-space-invaders.json) |
@@ -20399,6 +20403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacident | 251134 | [251134-spacident.json](./251134-spacident.json) |
 | Spacious Snake | 178274 | [178274-spacious-snake.json](./178274-spacious-snake.json) |
 | Spacy Shuffle Puck | 91520 | [91520-spacy-shuffle-puck.json](./91520-spacy-shuffle-puck.json) |
+| Spade no Kuni no Alice: Wonderful Black World | 218783 | [218783-spade-no-kuni-no-alice-wonderful-black-world.json](./218783-spade-no-kuni-no-alice-wonderful-black-world.json) |
 | Spade no Kuni no Alice: Wonderful White World | 148840 | [148840-spade-no-kuni-no-alice-wonderful-white-world.json](./148840-spade-no-kuni-no-alice-wonderful-white-world.json) |
 | Spades | 372227 | [372227-spades.json](./372227-spades.json) |
 | Spades | 62393 | [62393-spades.json](./62393-spades.json) |
@@ -32360,6 +32365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Producers | 98008 | [98008-super-producers.json](./98008-super-producers.json) |
 | Super Professor | 44275 | [44275-super-professor.json](./44275-super-professor.json) |
 | Super Psycho Baseball | 227421 | [227421-super-psycho-baseball.json](./227421-super-psycho-baseball.json) |
+| Super Puck Monster | 218774 | [218774-super-puck-monster.json](./218774-super-puck-monster.json) |
 | Super Pump | 369215 | [369215-super-pump.json](./369215-super-pump.json) |
 | Super Punch | 147959 | [147959-super-punch.json](./147959-super-punch.json) |
 | Super Punch Patrol | 139882 | [139882-super-punch-patrol.json](./139882-super-punch-patrol.json) |
