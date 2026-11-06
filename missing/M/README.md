@@ -6099,6 +6099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem Mansion | 143975 | [143975-mayhem-mansion.json](./143975-mayhem-mansion.json) |
 | Mayhem Masters | 128247 | [128247-mayhem-masters.json](./128247-mayhem-masters.json) |
 | Mayhem Motorsports Collection | 283208 | [283208-mayhem-motorsports-collection.json](./283208-mayhem-motorsports-collection.json) |
+| Mayhem on a Rainbow: VR | 195807 | [195807-mayhem-on-a-rainbow-vr.json](./195807-mayhem-on-a-rainbow-vr.json) |
 | Mayhem Pantera | 271807 | [271807-mayhem-pantera.json](./271807-mayhem-pantera.json) |
 | Mayhem Space Cinema | 158103 | [158103-mayhem-space-cinema.json](./158103-mayhem-space-cinema.json) |
 | Mayhem Survivors: Animals | 261312 | [261312-mayhem-survivors-animals.json](./261312-mayhem-survivors-animals.json) |
@@ -7152,6 +7153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medusa the Origin: Lost Dream of the Deep | 284324 | [284324-medusa-the-origin-lost-dream-of-the-deep.json](./284324-medusa-the-origin-lost-dream-of-the-deep.json) |
 | Medusa VN | 179943 | [179943-medusa-vn.json](./179943-medusa-vn.json) |
 | Medusa VR | 247181 | [247181-medusa-vr.json](./247181-medusa-vr.json) |
+| Medusa's Heart of Stone: Chapter 01 | 195816 | [195816-medusas-heart-of-stone-chapter-01.json](./195816-medusas-heart-of-stone-chapter-01.json) |
 | Medusa's Labyrinth | 33661 | [33661-medusas-labyrinth.json](./33661-medusas-labyrinth.json) |
 | Medusa's Labyrinth VR | 28178 | [28178-medusas-labyrinth-vr.json](./28178-medusas-labyrinth-vr.json) |
 | Medusa's Mini Mystery | 177513 | [177513-medusas-mini-mystery.json](./177513-medusas-mini-mystery.json) |
@@ -21580,6 +21582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious Legend | 275963 | [275963-mysterious-legend.json](./275963-mysterious-legend.json) |
 | Mysterious Mayan Madness | 269460 | [269460-mysterious-mayan-madness.json](./269460-mysterious-mayan-madness.json) |
 | Mysterious Mystery, EP 1: The Duo Dilemma | 293486 | [293486-mysterious-mystery-ep-1-the-duo-dilemma.json](./293486-mysterious-mystery-ep-1-the-duo-dilemma.json) |
+| Mysterious Night: The First Night | 195844 | [195844-mysterious-night-the-first-night.json](./195844-mysterious-night-the-first-night.json) |
 | Mysterious Place | 254282 | [254282-mysterious-place.json](./254282-mysterious-place.json) |
 | Mysterious Puzzles Collection: Nemezis, Schizm, Reah | 159686 | [159686-mysterious-puzzles-collection-nemezis-schizm-reah.json](./159686-mysterious-puzzles-collection-nemezis-schizm-reah.json) |
 | Mysterious Realms RPG | 75911 | [75911-mysterious-realms-rpg.json](./75911-mysterious-realms-rpg.json) |
