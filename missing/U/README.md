@@ -2429,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Faces | 381067 | [381067-unknown-faces.json](./381067-unknown-faces.json) |
 | Unknown Fluffy Object | 380450 | [380450-unknown-fluffy-object.json](./380450-unknown-fluffy-object.json) |
 | Unknown FPV: Drone Simulator | 251722 | [251722-unknown-fpv-drone-simulator.json](./251722-unknown-fpv-drone-simulator.json) |
+| Unknown Game Name | 194723 | [194723-unknown-game-name.json](./194723-unknown-game-name.json) |
 | Unknown Garden | 202198 | [202198-unknown-garden.json](./202198-unknown-garden.json) |
 | Unknown Hero | 371449 | [371449-unknown-hero.json](./371449-unknown-hero.json) |
 | Unknown Heroes Idle | 174809 | [174809-unknown-heroes-idle.json](./174809-unknown-heroes-idle.json) |
