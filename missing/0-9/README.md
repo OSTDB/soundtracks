@@ -2282,6 +2282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Bowling | 297677 | [297677-3d-bowling.json](./297677-3d-bowling.json) |
 | 3D Bowling Master | 105848 | [105848-3d-bowling-master.json](./105848-3d-bowling-master.json) |
 | 3D Bowling USA | 205830 | [205830-3d-bowling-usa.json](./205830-3d-bowling-usa.json) |
+| 3D Box Sokoban | 196359 | [196359-3d-box-sokoban.json](./196359-3d-box-sokoban.json) |
 | 3D Boxing | 12980 | [12980-3d-boxing.json](./12980-3d-boxing.json) |
 | 3D Breakthru | 14149 | [14149-3d-breakthru.json](./14149-3d-breakthru.json) |
 | 3D Brick Breaker Revolution | 66431 | [66431-3d-brick-breaker-revolution.json](./66431-3d-brick-breaker-revolution.json) |
