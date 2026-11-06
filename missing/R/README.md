@@ -3077,6 +3077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reality Falls | 110861 | [110861-reality-falls.json](./110861-reality-falls.json) |
 | Reality Fighters | 20732 | [20732-reality-fighters.json](./20732-reality-fighters.json) |
 | Reality Mod | 209539 | [209539-reality-mod.json](./209539-reality-mod.json) |
+| Reality Noclip: The Backrooms | 223221 | [223221-reality-noclip-the-backrooms.json](./223221-reality-noclip-the-backrooms.json) |
 | Reality Patrol | 265795 | [265795-reality-patrol.json](./265795-reality-patrol.json) |
 | Reality Raiders | 44216 | [44216-reality-raiders.json](./44216-reality-raiders.json) |
 | Reality Rash | 221094 | [221094-reality-rash.json](./221094-reality-rash.json) |
@@ -4093,6 +4094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redaction | 223399 | [223399-redaction.json](./223399-redaction.json) |
 | Redactionary | 336303 | [336303-redactionary.json](./336303-redactionary.json) |
 | Redactle | 197384 | [197384-redactle.json](./197384-redactle.json) |
+| Redactor | 223286 | [223286-redactor.json](./223286-redactor.json) |
 | Redash | 299364 | [299364-redash.json](./299364-redash.json) |
 | Redaxium | 163664 | [163664-redaxium.json](./163664-redaxium.json) |
 | Redaxium 2 | 207294 | [207294-redaxium-2.json](./207294-redaxium-2.json) |
