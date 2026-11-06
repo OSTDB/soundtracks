@@ -5118,6 +5118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limbo | 395367 | [395367-limbo.json](./395367-limbo.json) |
 | Limbo 64 | 109488 | [109488-limbo-64.json](./109488-limbo-64.json) |
 | Limbo Break | 406443 | [406443-limbo-break.json](./406443-limbo-break.json) |
+| Limbo Control | 244560 | [244560-limbo-control.json](./244560-limbo-control.json) |
 | Limbo Disco | 256952 | [256952-limbo-disco.json](./256952-limbo-disco.json) |
 | Limbo Line | 215223 | [215223-limbo-line.json](./215223-limbo-line.json) |
 | Limbo of the Lost | 50390 | [50390-limbo-of-the-lost.json](./50390-limbo-of-the-lost.json) |
@@ -5826,6 +5827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Eden | 260208 | [260208-little-eden.json](./260208-little-eden.json) |
 | Little Eidolons | 290296 | [290296-little-eidolons.json](./290296-little-eidolons.json) |
 | Little Einsteins | 231500 | [231500-little-einsteins.json](./231500-little-einsteins.json) |
+| Little Elf Tanks | 244563 | [244563-little-elf-tanks.json](./244563-little-elf-tanks.json) |
 | Little Fairy Dress Up | 332496 | [332496-little-fairy-dress-up.json](./332496-little-fairy-dress-up.json) |
 | Little Farm Island | 385326 | [385326-little-farm-island.json](./385326-little-farm-island.json) |
 | Little Fiefdom: Medieval | 390259 | [390259-little-fiefdom-medieval.json](./390259-little-fiefdom-medieval.json) |
@@ -5907,6 +5909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Kingdom | 10517 | [10517-little-kingdom.json](./10517-little-kingdom.json) |
 | Little Kingdom 2 | 30569 | [30569-little-kingdom-2.json](./30569-little-kingdom-2.json) |
 | Little Kingdom RTS | 349319 | [349319-little-kingdom-rts.json](./349319-little-kingdom-rts.json) |
+| Little Kingdoms | 244565 | [244565-little-kingdoms.json](./244565-little-kingdoms.json) |
 | Little Kingdoms: Chapters 1-3 | 262930 | [262930-little-kingdoms-chapters-1-3.json](./262930-little-kingdoms-chapters-1-3.json) |
 | Little Kite | 61892 | [61892-little-kite.json](./61892-little-kite.json) |
 | Little Kitten: My Favorite Cat | 200119 | [200119-little-kitten-my-favorite-cat.json](./200119-little-kitten-my-favorite-cat.json) |
