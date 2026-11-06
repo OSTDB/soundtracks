@@ -5902,6 +5902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ozon I | 40375 | [40375-ozon-i.json](./40375-ozon-i.json) |
 | Ozone | 208988 | [208988-ozone.json](./208988-ozone.json) |
 | Ozone Guardian | 139206 | [139206-ozone-guardian.json](./139206-ozone-guardian.json) |
+| Ozonia | 224881 | [224881-ozonia.json](./224881-ozonia.json) |
 | Ozonia 2 | 327203 | [327203-ozonia-2.json](./327203-ozonia-2.json) |
 | OzTales Pikeman | 164899 | [164899-oztales-pikeman.json](./164899-oztales-pikeman.json) |
 | Oztrich: An Adventure | 235829 | [235829-oztrich-an-adventure.json](./235829-oztrich-an-adventure.json) |
