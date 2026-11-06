@@ -5093,6 +5093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory of Thrones: War of Conquest | 100785 | [100785-glory-of-thrones-war-of-conquest.json](./100785-glory-of-thrones-war-of-conquest.json) |
 | Glory of War | 209664 | [209664-glory-of-war.json](./209664-glory-of-war.json) |
 | Glory On Pluto | 336126 | [336126-glory-on-pluto.json](./336126-glory-on-pluto.json) |
+| Glory or Dominance: The World of Kleiverog | 244555 | [244555-glory-or-dominance-the-world-of-kleiverog.json](./244555-glory-or-dominance-the-world-of-kleiverog.json) |
 | Glory Quest | 23198 | [23198-glory-quest.json](./23198-glory-quest.json) |
 | Glory Room | 242393 | [242393-glory-room.json](./242393-glory-room.json) |
 | Glory to the Heroes | 240744 | [240744-glory-to-the-heroes.json](./240744-glory-to-the-heroes.json) |
@@ -9437,6 +9438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gripper's Adventure | 89272 | [89272-grippers-adventure.json](./89272-grippers-adventure.json) |
 | Grippy | 177179 | [177179-grippy.json](./177179-grippy.json) |
 | Grippy | 378389 | [378389-grippy.json](./378389-grippy.json) |
+| Grippy Golf | 244553 | [244553-grippy-golf.json](./244553-grippy-golf.json) |
 | Gripshot | 340401 | [340401-gripshot.json](./340401-gripshot.json) |
 | Griptape Backbone | 29755 | [29755-griptape-backbone.json](./29755-griptape-backbone.json) |
 | Gris + Neva Bundle | 320697 | [320697-gris-neva-bundle.json](./320697-gris-neva-bundle.json) |
