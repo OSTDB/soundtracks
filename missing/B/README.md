@@ -961,7 +961,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2579,6 +2578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode Battler: Kincho-R | 338357 | [338357-barcode-battler-kincho-r.json](./338357-barcode-battler-kincho-r.json) |
 | Barcode Battler: Rarman | 338353 | [338353-barcode-battler-rarman.json](./338353-barcode-battler-rarman.json) |
 | Barcode Battler: U-Ronchan | 338354 | [338354-barcode-battler-u-ronchan.json](./338354-barcode-battler-u-ronchan.json) |
+| Barcode Fingermon | 200211 | [200211-barcode-fingermon.json](./200211-barcode-fingermon.json) |
 | Barcode Kingdom | 254695 | [254695-barcode-kingdom.json](./254695-barcode-kingdom.json) |
 | Barcode Knight | 173808 | [173808-barcode-knight.json](./173808-barcode-knight.json) |
 | Barcode Taisen Bardigun | 92607 | [92607-barcode-taisen-bardigun.json](./92607-barcode-taisen-bardigun.json) |
@@ -2943,6 +2943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Champion League 2019 | 220204 | [220204-baseball-champion-league-2019.json](./220204-baseball-champion-league-2019.json) |
 | Baseball Clash | 234457 | [234457-baseball-clash.json](./234457-baseball-clash.json) |
 | Baseball Dreams VR | 376270 | [376270-baseball-dreams-vr.json](./376270-baseball-dreams-vr.json) |
+| Baseball Everyday | 200254 | [200254-baseball-everyday.json](./200254-baseball-everyday.json) |
 | Baseball Fighter | 48615 | [48615-baseball-fighter.json](./48615-baseball-fighter.json) |
 | Baseball for the Tomy Tutor | 131456 | [131456-baseball-for-the-tomy-tutor.json](./131456-baseball-for-the-tomy-tutor.json) |
 | Baseball General Manager | 88555 | [88555-baseball-general-manager.json](./88555-baseball-general-manager.json) |
@@ -4379,6 +4380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleRush: US Special Forces | 170978 | [170978-battlerush-us-special-forces.json](./170978-battlerush-us-special-forces.json) |
 | BattleRush: USSR Army | 170981 | [170981-battlerush-ussr-army.json](./170981-battlerush-ussr-army.json) |
 | Battles Ages | 99754 | [99754-battles-ages.json](./99754-battles-ages.json) |
+| Battles and Castles | 200260 | [200260-battles-and-castles.json](./200260-battles-and-castles.json) |
 | Battles For Spain | 120869 | [120869-battles-for-spain.json](./120869-battles-for-spain.json) |
 | Battles Game | 370135 | [370135-battles-game.json](./370135-battles-game.json) |
 | Battles in Italy | 59495 | [59495-battles-in-italy.json](./59495-battles-in-italy.json) |
@@ -5405,6 +5407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat This Game To See Hot Lady | 396495 | [396495-beat-this-game-to-see-hot-lady.json](./396495-beat-this-game-to-see-hot-lady.json) |
 | Beat Tiles | 200762 | [200762-beat-tiles.json](./200762-beat-tiles.json) |
 | Beat Time | 91439 | [91439-beat-time.json](./91439-beat-time.json) |
+| Beat to West | 200256 | [200256-beat-to-west.json](./200256-beat-to-west.json) |
 | Beat Tokyo with Jimotoism | 339976 | [339976-beat-tokyo-with-jimotoism.json](./339976-beat-tokyo-with-jimotoism.json) |
 | Beat Typing | 308858 | [308858-beat-typing.json](./308858-beat-typing.json) |
 | Beat Up Bowser! | 328609 | [328609-beat-up-bowser.json](./328609-beat-up-bowser.json) |
