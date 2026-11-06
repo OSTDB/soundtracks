@@ -2769,6 +2769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are Not Alone | 229866 | [229866-we-are-not-alone.json](./229866-we-are-not-alone.json) |
 | We Are Not Alone | 256585 | [256585-we-are-not-alone.json](./256585-we-are-not-alone.json) |
 | We Are Not Alone: Contact | 312866 | [312866-we-are-not-alone-contact.json](./312866-we-are-not-alone-contact.json) |
+| We Are Not Free | 239966 | [239966-we-are-not-free.json](./239966-we-are-not-free.json) |
 | We Are OFK | 152177 | [152177-we-are-ofk.json](./152177-we-are-ofk.json) |
 | We Are Only Moving Towards Each Other | 299117 | [299117-we-are-only-moving-towards-each-other.json](./299117-we-are-only-moving-towards-each-other.json) |
 | We Are Out of Food, Milton. | 250323 | [250323-we-are-out-of-food-milton.json](./250323-we-are-out-of-food-milton.json) |
