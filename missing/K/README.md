@@ -4003,6 +4003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitaria Fables: Digital Deluxe Edition | 167180 | [167180-kitaria-fables-digital-deluxe-edition.json](./167180-kitaria-fables-digital-deluxe-edition.json) |
 | Kitaria Heroes: Force Bender | 38961 | [38961-kitaria-heroes-force-bender.json](./38961-kitaria-heroes-force-bender.json) |
 | Kitaru | 61428 | [61428-kitaru.json](./61428-kitaru.json) |
+| Kitball 20000 | 226042 | [226042-kitball-20000.json](./226042-kitball-20000.json) |
 | KitBashers 2: Multiplayer | 307027 | [307027-kitbashers-2-multiplayer.json](./307027-kitbashers-2-multiplayer.json) |
 | Kitbashers United | 307735 | [307735-kitbashers-united.json](./307735-kitbashers-united.json) |
 | Kitchen | 218719 | [218719-kitchen.json](./218719-kitchen.json) |
