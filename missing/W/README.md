@@ -7542,6 +7542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Wiz | 370359 | [370359-word-wiz.json](./370359-word-wiz.json) |
 | Word Wizard 3D | 84937 | [84937-word-wizard-3d.json](./84937-word-wizard-3d.json) |
 | Word Wonders: The Tower of Babel | 35465 | [35465-word-wonders-the-tower-of-babel.json](./35465-word-wonders-the-tower-of-babel.json) |
+| Word World | 235029 | [235029-word-world.json](./235029-word-world.json) |
 | Word Worm | 229344 | [229344-word-worm.json](./229344-word-worm.json) |
 | Word Worm | 361732 | [361732-word-worm.json](./361732-word-worm.json) |
 | Word Worth | 101083 | [101083-word-worth.json](./101083-word-worth.json) |
