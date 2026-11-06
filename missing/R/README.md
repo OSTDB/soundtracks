@@ -2561,6 +2561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re Angel | 74759 | [74759-re-angel.json](./74759-re-angel.json) |
 | Re Cation: Melty Healing | 391077 | [391077-re-cation-melty-healing.json](./391077-re-cation-melty-healing.json) |
 | Re Chii Suutaroka?: Mezameta Toki ga Shinu Toki da! | 196602 | [196602-re-chii-suutaroka-mezameta-toki-ga-shinu-toki-da.json](./196602-re-chii-suutaroka-mezameta-toki-ga-shinu-toki-da.json) |
+| RE Encryption | 226537 | [226537-re-encryption.json](./226537-re-encryption.json) |
 | Re into Another World | 291748 | [291748-re-into-another-world.json](./291748-re-into-another-world.json) |
 | Re Painter | 120838 | [120838-re-painter.json](./120838-re-painter.json) |
 | Re Parry | 179160 | [179160-re-parry.json](./179160-re-parry.json) |
@@ -4412,6 +4413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflections of Life: Sleep's Embrace - Collector's Edition | 362842 | [362842-reflections-of-life-sleeps-embrace-collectors-edition.json](./362842-reflections-of-life-sleeps-embrace-collectors-edition.json) |
 | Reflections of Life: Slipping Hope - Collector's Edition | 357155 | [357155-reflections-of-life-slipping-hope-collectors-edition.json](./357155-reflections-of-life-slipping-hope-collectors-edition.json) |
 | Reflections of Life: Spindle of Fate | 244479 | [244479-reflections-of-life-spindle-of-fate.json](./244479-reflections-of-life-spindle-of-fate.json) |
+| Reflections of Life: Spindle of Fate - Collector's Edition | 226541 | [226541-reflections-of-life-spindle-of-fate-collectors-edition.json](./226541-reflections-of-life-spindle-of-fate-collectors-edition.json) |
 | Reflections of Life: The Shattered Timeline - Collector's Edition | 307752 | [307752-reflections-of-life-the-shattered-timeline-collectors-edition.json](./307752-reflections-of-life-the-shattered-timeline-collectors-edition.json) |
 | Reflections of Life: Tree of Dreams - Collector's Edition | 107703 | [107703-reflections-of-life-tree-of-dreams-collectors-edition.json](./107703-reflections-of-life-tree-of-dreams-collectors-edition.json) |
 | Reflections of Life: Utopia - Collector's Edition | 132632 | [132632-reflections-of-life-utopia-collectors-edition.json](./132632-reflections-of-life-utopia-collectors-edition.json) |
