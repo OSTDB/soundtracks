@@ -995,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karian Cross | 40212 | [40212-karian-cross.json](./40212-karian-cross.json) |
 | Karim and the 60 Thieves | 348905 | [348905-karim-and-the-60-thieves.json](./348905-karim-and-the-60-thieves.json) |
 | Karin's Instruction | 292757 | [292757-karins-instruction.json](./292757-karins-instruction.json) |
+| Karisvale | 193033 | [193033-karisvale.json](./193033-karisvale.json) |
 | Karjala | 303606 | [303606-karjala.json](./303606-karjala.json) |
 | Karkaba | 395074 | [395074-karkaba.json](./395074-karkaba.json) |
 | Karl Boom | 126519 | [126519-karl-boom.json](./126519-karl-boom.json) |
@@ -1109,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kartofank VR | 72358 | [72358-kartofank-vr.json](./72358-kartofank-vr.json) |
 | Kartofelka | 80982 | [80982-kartofelka.json](./80982-kartofelka.json) |
 | Kartoffelpüree: Der Gemüse-Shooter | 100078 | [100078-kartoffelpuree-der-gemuse-shooter.json](./100078-kartoffelpuree-der-gemuse-shooter.json) |
+| Kartoffl | 193045 | [193045-kartoffl.json](./193045-kartoffl.json) |
 | Kartong | 38787 | [38787-kartong.json](./38787-kartong.json) |
 | Kartong - Death by Cardboard! | 77571 | [77571-kartong-death-by-cardboard.json](./77571-kartong-death-by-cardboard.json) |
 | Kartoon Racing: Singleplayer Multiplayer Racing | 213140 | [213140-kartoon-racing-singleplayer-multiplayer-racing.json](./213140-kartoon-racing-singleplayer-multiplayer-racing.json) |
@@ -3747,6 +3749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kintsugi: A Journey Through the Broken Pieces | 339927 | [339927-kintsugi-a-journey-through-the-broken-pieces.json](./339927-kintsugi-a-journey-through-the-broken-pieces.json) |
 | Kintsukuroi | 57744 | [57744-kintsukuroi.json](./57744-kintsukuroi.json) |
 | Kinu Shoku Ryuu Hana: Weaving The Blue Orient | 314448 | [314448-kinu-shoku-ryuu-hana-weaving-the-blue-orient.json](./314448-kinu-shoku-ryuu-hana-weaving-the-blue-orient.json) |
+| Kinzoku No Catana | 193036 | [193036-kinzoku-no-catana.json](./193036-kinzoku-no-catana.json) |
 | Kio's Adventure | 29084 | [29084-kios-adventure.json](./29084-kios-adventure.json) |
 | Kioh Gyoku | 123607 | [123607-kioh-gyoku.json](./123607-kioh-gyoku.json) |
 | Kioku | 309886 | [309886-kioku.json](./309886-kioku.json) |
