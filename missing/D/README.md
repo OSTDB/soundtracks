@@ -9305,6 +9305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension | 355177 | [355177-dimension.json](./355177-dimension.json) |
 | Dimension Ascent | 355596 | [355596-dimension-ascent.json](./355596-dimension-ascent.json) |
 | Dimension Core: Amethyst | 408442 | [408442-dimension-core-amethyst.json](./408442-dimension-core-amethyst.json) |
+| Dimension Dash | 193023 | [193023-dimension-dash.json](./193023-dimension-dash.json) |
 | Dimension Defenders | 405570 | [405570-dimension-defenders.json](./405570-dimension-defenders.json) |
 | Dimension Drifter | 107761 | [107761-dimension-drifter.json](./107761-dimension-drifter.json) |
 | Dimension Drive | 27327 | [27327-dimension-drive.json](./27327-dimension-drive.json) |
@@ -15080,6 +15081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Raja: ReRise | 402964 | [402964-dragon-raja-rerise.json](./402964-dragon-raja-rerise.json) |
 | Dragon Raja: The Farewell Passage | 411333 | [411333-dragon-raja-the-farewell-passage.json](./411333-dragon-raja-the-farewell-passage.json) |
 | Dragon Rancher | 356351 | [356351-dragon-rancher.json](./356351-dragon-rancher.json) |
+| Dragon Realms: Towers 'n' Dragons | 193026 | [193026-dragon-realms-towers-n-dragons.json](./193026-dragon-realms-towers-n-dragons.json) |
 | Dragon Riddler | 348661 | [348661-dragon-riddler.json](./348661-dragon-riddler.json) |
 | Dragon Riders | 411136 | [411136-dragon-riders.json](./411136-dragon-riders.json) |
 | Dragon Riders: Chronicles of Pern | 132134 | [132134-dragon-riders-chronicles-of-pern.json](./132134-dragon-riders-chronicles-of-pern.json) |
