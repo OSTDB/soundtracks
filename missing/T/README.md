@@ -4560,6 +4560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terraria 2 | 3021 | [3021-terraria-2.json](./3021-terraria-2.json) |
 | Terraria: Bigger and Boulder | 386978 | [386978-terraria-bigger-and-boulder.json](./386978-terraria-bigger-and-boulder.json) |
 | Terraria: Calamity Mod | 141229 | [141229-terraria-calamity-mod.json](./141229-terraria-calamity-mod.json) |
+| Terraria: Collector's Edition | 201885 | [201885-terraria-collectors-edition.json](./201885-terraria-collectors-edition.json) |
 | Terraria: Fargo's Souls Mod | 241156 | [241156-terraria-fargos-souls-mod.json](./241156-terraria-fargos-souls-mod.json) |
 | Terraria: Journey's End | 295662 | [295662-terraria-journeys-end.json](./295662-terraria-journeys-end.json) |
 | Terraria: Lunar Veil Mod | 361816 | [361816-terraria-lunar-veil-mod.json](./361816-terraria-lunar-veil-mod.json) |
