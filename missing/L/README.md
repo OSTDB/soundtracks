@@ -4899,6 +4899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightopus | 22316 | [22316-lightopus.json](./22316-lightopus.json) |
 | Lightout | 175388 | [175388-lightout.json](./175388-lightout.json) |
 | Lightout 2 | 201527 | [201527-lightout-2.json](./201527-lightout-2.json) |
+| Lightphobe | 204121 | [204121-lightphobe.json](./204121-lightphobe.json) |
 | LightPoint | 350601 | [350601-lightpoint.json](./350601-lightpoint.json) |
 | LightQb | 374799 | [374799-lightqb.json](./374799-lightqb.json) |
 | LightQuest | 180123 | [180123-lightquest.json](./180123-lightquest.json) |
@@ -5012,6 +5013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like Camping | 176248 | [176248-like-camping.json](./176248-like-camping.json) |
 | Like Clay | 29267 | [29267-like-clay.json](./29267-like-clay.json) |
 | Like Clockwork | 181924 | [181924-like-clockwork.json](./181924-like-clockwork.json) |
+| Like Dreamer | 204119 | [204119-like-dreamer.json](./204119-like-dreamer.json) |
 | Like Gulls Crying at the Dawn | 136226 | [136226-like-gulls-crying-at-the-dawn.json](./136226-like-gulls-crying-at-the-dawn.json) |
 | Like Life Every Hour | 56554 | [56554-like-life-every-hour.json](./56554-like-life-every-hour.json) |
 | Like No Other: The Legend Of The Twin Books | 211915 | [211915-like-no-other-the-legend-of-the-twin-books.json](./211915-like-no-other-the-legend-of-the-twin-books.json) |
@@ -7904,6 +7906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Between | 232914 | [232914-lost-between.json](./232914-lost-between.json) |
 | Lost Between the Lines | 224849 | [224849-lost-between-the-lines.json](./224849-lost-between-the-lines.json) |
 | Lost Beyond | 213542 | [213542-lost-beyond.json](./213542-lost-beyond.json) |
+| Lost Bits | 204127 | [204127-lost-bits.json](./204127-lost-bits.json) |
 | Lost Bits | 256702 | [256702-lost-bits.json](./256702-lost-bits.json) |
 | Lost Blade | 208171 | [208171-lost-blade.json](./208171-lost-blade.json) |
 | Lost Borderline | 97071 | [97071-lost-borderline.json](./97071-lost-borderline.json) |
