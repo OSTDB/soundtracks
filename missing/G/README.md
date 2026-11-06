@@ -5352,6 +5352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Beryllium! | 124658 | [124658-go-beryllium.json](./124658-go-beryllium.json) |
 | Go Bhop | 174751 | [174751-go-bhop.json](./174751-go-bhop.json) |
 | Go Big | 394220 | [394220-go-big.json](./394220-go-big.json) |
+| Go Bonkers! | 245114 | [245114-go-bonkers.json](./245114-go-bonkers.json) |
 | Go Cabbies!GB | 114189 | [114189-go-cabbies-gb.json](./114189-go-cabbies-gb.json) |
 | Go Carts | 297473 | [297473-go-carts.json](./297473-go-carts.json) |
 | Go Catch 'Em | 348523 | [348523-go-catch-em.json](./348523-go-catch-em.json) |
