@@ -6455,6 +6455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European Fishing | 10287 | [10287-european-fishing.json](./10287-european-fishing.json) |
 | European Football Champ | 39672 | [39672-european-football-champ.json](./39672-european-football-champ.json) |
 | European Football Champ | 42573 | [42573-european-football-champ.json](./42573-european-football-champ.json) |
+| European Football Dynasty 2023 | 217084 | [217084-european-football-dynasty-2023.json](./217084-european-football-dynasty-2023.json) |
 | European Games | 100112 | [100112-european-games.json](./100112-european-games.json) |
 | European Mystery: Flowers of Death - Collector's Edition | 89408 | [89408-european-mystery-flowers-of-death-collectors-edition.json](./89408-european-mystery-flowers-of-death-collectors-edition.json) |
 | European Mystery: Flowers of Death HD | 93827 | [93827-european-mystery-flowers-of-death-hd.json](./93827-european-mystery-flowers-of-death-hd.json) |
@@ -7284,6 +7285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolvedustry | 135623 | [135623-evolvedustry.json](./135623-evolvedustry.json) |
 | Evolver | 192592 | [192592-evolver.json](./192592-evolver.json) |
 | Evolver | 356224 | [356224-evolver.json](./356224-evolver.json) |
+| EvoMon | 217083 | [217083-evomon.json](./217083-evomon.json) |
 | Evons | 408718 | [408718-evons.json](./408718-evons.json) |
 | Evony | 77044 | [77044-evony.json](./77044-evony.json) |
 | Evony: The King's Return | 197880 | [197880-evony-the-kings-return.json](./197880-evony-the-kings-return.json) |
