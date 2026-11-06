@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L. Frank Baum's: The Wonderful Wizard of Oz | 64852 | [64852-l-frank-baums-the-wonderful-wizard-of-oz.json](./64852-l-frank-baums-the-wonderful-wizard-of-oz.json) |
 | L.3.3.T. | 248422 | [248422-l-3-3-t.json](./248422-l-3-3-t.json) |
 | L.A. 2 | 92125 | [92125-l-a-2.json](./92125-l-a-2.json) |
+| L.A. Blaster | 217620 | [217620-l-a-blaster.json](./217620-l-a-blaster.json) |
 | L.A. Crackdown | 55091 | [55091-l-a-crackdown.json](./55091-l-a-crackdown.json) |
 | L.A. Funk | 117299 | [117299-l-a-funk.json](./117299-l-a-funk.json) |
 | L.A. Machineguns: Rage of the Machines | 39478 | [39478-l-a-machineguns-rage-of-the-machines.json](./39478-l-a-machineguns-rage-of-the-machines.json) |
@@ -744,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Viewers | 204095 | [204095-land-of-viewers.json](./204095-land-of-viewers.json) |
 | Land of War: The Beginning | 122376 | [122376-land-of-war-the-beginning.json](./122376-land-of-war-the-beginning.json) |
 | Land of Warriors - Epic War | 100612 | [100612-land-of-warriors-epic-war.json](./100612-land-of-warriors-epic-war.json) |
+| Land of Wind and Shade | 217616 | [217616-land-of-wind-and-shade.json](./217616-land-of-wind-and-shade.json) |
 | Land of Zombies | 245777 | [245777-land-of-zombies.json](./245777-land-of-zombies.json) |
 | Land of Zombies | 302387 | [302387-land-of-zombies.json](./302387-land-of-zombies.json) |
 | Land of Zympaia | 132761 | [132761-land-of-zympaia.json](./132761-land-of-zympaia.json) |
