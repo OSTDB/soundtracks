@@ -1916,7 +1916,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Treasure Hunter HD | 354976 | [354976-jigsaw-treasure-hunter-hd.json](./354976-jigsaw-treasure-hunter-hd.json) |
 | Jigsaw USA | 328059 | [328059-jigsaw-usa.json](./328059-jigsaw-usa.json) |
 | Jigsaw With Animals | 163405 | [163405-jigsaw-with-animals.json](./163405-jigsaw-with-animals.json) |
+| Jigsaw With Mr. Bean | 227648 | [227648-jigsaw-with-mr-bean.json](./227648-jigsaw-with-mr-bean.json) |
 | Jigsaw With Salman Khan | 329311 | [329311-jigsaw-with-salman-khan.json](./329311-jigsaw-with-salman-khan.json) |
+| Jigsaw With Spider-Man | 227646 | [227646-jigsaw-with-spider-man.json](./227646-jigsaw-with-spider-man.json) |
 | Jigsaw World | 308926 | [308926-jigsaw-world.json](./308926-jigsaw-world.json) |
 | Jigsaw World | 53249 | [53249-jigsaw-world.json](./53249-jigsaw-world.json) |
 | Jigsaw World | 80812 | [80812-jigsaw-world.json](./80812-jigsaw-world.json) |
