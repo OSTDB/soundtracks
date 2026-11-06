@@ -1032,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 112th Seed | 138458 | [138458-112th-seed.json](./138458-112th-seed.json) |
 | 114 Miles to Doctor Noodles Farm | 250501 | [250501-114-miles-to-doctor-noodles-farm.json](./250501-114-miles-to-doctor-noodles-farm.json) |
 | 1166 | 29715 | [29715-1166.json](./29715-1166.json) |
+| 1187 | 214845 | [214845-1187.json](./214845-1187.json) |
 | 1187: Episode One | 121211 | [121211-1187-episode-one.json](./121211-1187-episode-one.json) |
 | 1187: Rogue Train | 121212 | [121212-1187-rogue-train.json](./121212-1187-rogue-train.json) |
 | 1193 Anno Domini: Merchants and Crusaders | 71494 | [71494-1193-anno-domini-merchants-and-crusaders.json](./71494-1193-anno-domini-merchants-and-crusaders.json) |
@@ -3179,6 +3180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 77 Oleander Avenue Ghost House Investigation | 205674 | [205674-77-oleander-avenue-ghost-house-investigation.json](./205674-77-oleander-avenue-ghost-house-investigation.json) |
 | 77: Beyond the Milky Way | 58053 | [58053-77-beyond-the-milky-way.json](./58053-77-beyond-the-milky-way.json) |
 | 771 | 416809 | [416809-771.json](./416809-771.json) |
+| 774 Deaths | 214862 | [214862-774-deaths.json](./214862-774-deaths.json) |
 | 7743 | 412624 | [412624-7743.json](./412624-7743.json) |
 | 777 Lucky Bingo | 247305 | [247305-777-lucky-bingo.json](./247305-777-lucky-bingo.json) |
 | 7776 II: Dwarven Greed | 122259 | [122259-7776-ii-dwarven-greed.json](./122259-7776-ii-dwarven-greed.json) |
