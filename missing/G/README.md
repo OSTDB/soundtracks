@@ -2076,6 +2076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gas Station Simulator, Airstrip DLC and Can Touch This DLC Bundle | 297455 | [297455-gas-station-simulator-airstrip-dlc-and-can-touch-this-dlc-bundle.json](./297455-gas-station-simulator-airstrip-dlc-and-can-touch-this-dlc-bundle.json) |
 | Gas Station Simulator, Airstrip DLC and Party Time DLC Bundle | 336439 | [336439-gas-station-simulator-airstrip-dlc-and-party-time-dlc-bundle.json](./336439-gas-station-simulator-airstrip-dlc-and-party-time-dlc-bundle.json) |
 | Gas Station Simulator, Can Touch This DLC and Party Time DLC Bundle | 343570 | [343570-gas-station-simulator-can-touch-this-dlc-and-party-time-dlc-bundle.json](./343570-gas-station-simulator-can-touch-this-dlc-and-party-time-dlc-bundle.json) |
+| Gas Station Simulator: Air Strip | 242865 | [242865-gas-station-simulator-air-strip.json](./242865-gas-station-simulator-air-strip.json) |
 | Gas Station Simulator: Can Touch This | 200839 | [200839-gas-station-simulator-can-touch-this.json](./200839-gas-station-simulator-can-touch-this.json) |
 | Gas Station Simulator: Can Touch This DLC | 298596 | [298596-gas-station-simulator-can-touch-this-dlc.json](./298596-gas-station-simulator-can-touch-this-dlc.json) |
 | Gas Station Simulator: Car Junkyard | 286557 | [286557-gas-station-simulator-car-junkyard.json](./286557-gas-station-simulator-car-junkyard.json) |
@@ -7258,6 +7259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoRogue | 199795 | [199795-gorogue.json](./199795-gorogue.json) |
 | Goronyan Puzzle: Nyanpi | 243267 | [243267-goronyan-puzzle-nyanpi.json](./243267-goronyan-puzzle-nyanpi.json) |
 | Gorotsuki Paradise | 390046 | [390046-gorotsuki-paradise.json](./390046-gorotsuki-paradise.json) |
+| Gorufoo | 242876 | [242876-gorufoo.json](./242876-gorufoo.json) |
 | Gorytale | 111798 | [111798-gorytale.json](./111798-gorytale.json) |
 | Goryuujin Electro | 384780 | [384780-goryuujin-electro.json](./384780-goryuujin-electro.json) |
 | Gos Castle Runner | 152601 | [152601-gos-castle-runner.json](./152601-gos-castle-runner.json) |
@@ -7445,6 +7447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GraalOnline Classic+ | 38871 | [38871-graalonline-classic.json](./38871-graalonline-classic.json) |
 | GraalOnline Era | 55842 | [55842-graalonline-era.json](./55842-graalonline-era.json) |
 | GraalOnline: Delteria | 82153 | [82153-graalonline-delteria.json](./82153-graalonline-delteria.json) |
+| Graamaseva | 242873 | [242873-graamaseva.json](./242873-graamaseva.json) |
 | Grab | 202813 | [202813-grab.json](./202813-grab.json) |
 | Grab 2 Coins | 328680 | [328680-grab-2-coins.json](./328680-grab-2-coins.json) |
 | Grab 50 Coins | 400264 | [400264-grab-50-coins.json](./400264-grab-50-coins.json) |
@@ -7809,6 +7812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Pskov Story | 74930 | [74930-grand-pskov-story.json](./74930-grand-pskov-story.json) |
 | Grand Rush VR: Highway Car Traffic Racing Simulator | 318268 | [318268-grand-rush-vr-highway-car-traffic-racing-simulator.json](./318268-grand-rush-vr-highway-car-traffic-racing-simulator.json) |
 | Grand Rush: Highway Car Traffic Racing Simulator | 312843 | [312843-grand-rush-highway-car-traffic-racing-simulator.json](./312843-grand-rush-highway-car-traffic-racing-simulator.json) |
+| Grand Sanctuary: Troth of Angel | 242883 | [242883-grand-sanctuary-troth-of-angel.json](./242883-grand-sanctuary-troth-of-angel.json) |
 | Grand Saudi Hajwala | 374678 | [374678-grand-saudi-hajwala.json](./374678-grand-saudi-hajwala.json) |
 | Grand Shooter | 336578 | [336578-grand-shooter.json](./336578-grand-shooter.json) |
 | Grand Slam | 20812 | [20812-grand-slam.json](./20812-grand-slam.json) |
