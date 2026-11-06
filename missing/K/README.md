@@ -2824,7 +2824,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4159,6 +4158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitto Zenbu Watashi no Sei | 243629 | [243629-kitto-zenbu-watashi-no-sei.json](./243629-kitto-zenbu-watashi-no-sei.json) |
 | Kitty & Friends: Blast of Fun | 239886 | [239886-kitty-and-friends-blast-of-fun.json](./239886-kitty-and-friends-blast-of-fun.json) |
 | Kitty Adventure | 163652 | [163652-kitty-adventure.json](./163652-kitty-adventure.json) |
+| Kitty Ball | 194686 | [194686-kitty-ball.json](./194686-kitty-ball.json) |
 | Kitty Burger | 392829 | [392829-kitty-burger.json](./392829-kitty-burger.json) |
 | Kitty Can Cook | 373162 | [373162-kitty-can-cook.json](./373162-kitty-can-cook.json) |
 | Kitty Cat Adventures Bundle | 385138 | [385138-kitty-cat-adventures-bundle.json](./385138-kitty-cat-adventures-bundle.json) |
@@ -5797,6 +5797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kreeps | 246826 | [246826-kreeps.json](./246826-kreeps.json) |
 | Kreepy Krawlers | 171468 | [171468-kreepy-krawlers.json](./171468-kreepy-krawlers.json) |
 | KreisReise | 118015 | [118015-kreisreise.json](./118015-kreisreise.json) |
+| Krek Da Frog | 194709 | [194709-krek-da-frog.json](./194709-krek-da-frog.json) |
 | Krell | 93032 | [93032-krell.json](./93032-krell.json) |
 | Kremlin 3D | 320717 | [320717-kremlin-3d.json](./320717-kremlin-3d.json) |
 | Kremling Krunch Game | 231663 | [231663-kremling-krunch-game.json](./231663-kremling-krunch-game.json) |
@@ -6228,6 +6229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurofune: descobrimentos portugueses | 278545 | [278545-kurofune-descobrimentos-portugueses.json](./278545-kurofune-descobrimentos-portugueses.json) |
 | Kurogane Hiroshi no Yosou Daisuki! Kachiuma Densetsu | 48794 | [48794-kurogane-hiroshi-no-yosou-daisuki-kachiuma-densetsu.json](./48794-kurogane-hiroshi-no-yosou-daisuki-kachiuma-densetsu.json) |
 | Kurogane Kaikijong | 336113 | [336113-kurogane-kaikijong.json](./336113-kurogane-kaikijong.json) |
+| Kurogane Kaikitan: Ichigoichie | 194739 | [194739-kurogane-kaikitan-ichigoichie.json](./194739-kurogane-kaikitan-ichigoichie.json) |
 | Kurogane no Linebarrels | 56748 | [56748-kurogane-no-linebarrels.json](./56748-kurogane-no-linebarrels.json) |
 | Kurohi | 397677 | [397677-kurohi.json](./397677-kurohi.json) |
 | Kurohige no Golf Shiyouyo | 49671 | [49671-kurohige-no-golf-shiyouyo.json](./49671-kurohige-no-golf-shiyouyo.json) |
