@@ -941,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haluz | 322784 | [322784-haluz.json](./322784-haluz.json) |
 | Haluz 2 | 322787 | [322787-haluz-2.json](./322787-haluz-2.json) |
 | HALVA Studio 2023 Bundle | 308618 | [308618-halva-studio-2023-bundle.json](./308618-halva-studio-2023-bundle.json) |
+| Halve | 217078 | [217078-halve.json](./217078-halve.json) |
 | Halver | 168662 | [168662-halver.json](./168662-halver.json) |
 | Halves | 235720 | [235720-halves.json](./235720-halves.json) |
 | Halzae: Heroes of Divinity | 112500 | [112500-halzae-heroes-of-divinity.json](./112500-halzae-heroes-of-divinity.json) |
@@ -1273,6 +1274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand of the Gods | 65837 | [65837-hand-of-the-gods.json](./65837-hand-of-the-gods.json) |
 | Hand of the Gods: Core Set Bundle | 90575 | [90575-hand-of-the-gods-core-set-bundle.json](./90575-hand-of-the-gods-core-set-bundle.json) |
 | Hand Physics Lab | 148704 | [148704-hand-physics-lab.json](./148704-hand-physics-lab.json) |
+| Hand Shadow | 217095 | [217095-hand-shadow.json](./217095-hand-shadow.json) |
 | Hand Simulator | 44143 | [44143-hand-simulator.json](./44143-hand-simulator.json) |
 | Hand Simulator: Aliens | 264579 | [264579-hand-simulator-aliens.json](./264579-hand-simulator-aliens.json) |
 | Hand Simulator: Rendezvous | 220031 | [220031-hand-simulator-rendezvous.json](./220031-hand-simulator-rendezvous.json) |
@@ -9385,6 +9387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honeydew | 303942 | [303942-honeydew.json](./303942-honeydew.json) |
 | HoneyHoneyHoney! | 164604 | [164604-honeyhoneyhoney.json](./164604-honeyhoneyhoney.json) |
 | HoneyLand | 167597 | [167597-honeyland.json](./167597-honeyland.json) |
+| Honeymancer | 217075 | [217075-honeymancer.json](./217075-honeymancer.json) |
 | Honeypot | 215785 | [215785-honeypot.json](./215785-honeypot.json) |
 | HoneySun | 260407 | [260407-honeysun.json](./260407-honeysun.json) |
 | HoneyWorks Premium Live | 144101 | [144101-honeyworks-premium-live.json](./144101-honeyworks-premium-live.json) |
@@ -10271,6 +10274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hospital Havoc | 85179 | [85179-hospital-havoc.json](./85179-hospital-havoc.json) |
 | Hospital Hustle | 52235 | [52235-hospital-hustle.json](./52235-hospital-hustle.json) |
 | Hospital of the Undead | 291914 | [291914-hospital-of-the-undead.json](./291914-hospital-of-the-undead.json) |
+| Hospital Renovator | 217079 | [217079-hospital-renovator.json](./217079-hospital-renovator.json) |
 | Hospital Romance: Anime Doctor Crush | 400178 | [400178-hospital-romance-anime-doctor-crush.json](./400178-hospital-romance-anime-doctor-crush.json) |
 | Hospital Tycoon | 10133 | [10133-hospital-tycoon.json](./10133-hospital-tycoon.json) |
 | Hospital Tycoon | 220171 | [220171-hospital-tycoon.json](./220171-hospital-tycoon.json) |
