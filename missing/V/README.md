@@ -3614,6 +3614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vorpal | 76166 | [76166-vorpal.json](./76166-vorpal.json) |
 | Vorrak | 24913 | [24913-vorrak.json](./24913-vorrak.json) |
 | Vortex | 168527 | [168527-vortex.json](./168527-vortex.json) |
+| Vortex | 210342 | [210342-vortex.json](./210342-vortex.json) |
 | Vortex | 324730 | [324730-vortex.json](./324730-vortex.json) |
 | Vortex | 411634 | [411634-vortex.json](./411634-vortex.json) |
 | Vortex | 417487 | [417487-vortex.json](./417487-vortex.json) |
