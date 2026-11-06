@@ -5523,6 +5523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overdrive Escape | 249296 | [249296-overdrive-escape.json](./249296-overdrive-escape.json) |
 | Overdrive II: Shadow Battle | 323169 | [323169-overdrive-ii-shadow-battle.json](./323169-overdrive-ii-shadow-battle.json) |
 | OverDrive infinite | 177260 | [177260-overdrive-infinite.json](./177260-overdrive-infinite.json) |
+| OverDrive Legends | 234428 | [234428-overdrive-legends.json](./234428-overdrive-legends.json) |
 | Overdrive Reloaded | 398382 | [398382-overdrive-reloaded.json](./398382-overdrive-reloaded.json) |
 | Overdrive Warfare: Premium Edition | 353357 | [353357-overdrive-warfare-premium-edition.json](./353357-overdrive-warfare-premium-edition.json) |
 | Overdriven | 94063 | [94063-overdriven.json](./94063-overdriven.json) |
