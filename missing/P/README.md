@@ -1984,6 +1984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ParaDive++ | 401812 | [401812-paradive.json](./401812-paradive.json) |
 | Paradize Project | 208418 | [208418-paradize-project.json](./208418-paradize-project.json) |
 | Paradox | 164872 | [164872-paradox.json](./164872-paradox.json) |
+| Paradox | 195842 | [195842-paradox.json](./195842-paradox.json) |
 | Paradox Boxing | 422478 | [422478-paradox-boxing.json](./422478-paradox-boxing.json) |
 | Paradox Error | 152161 | [152161-paradox-error.json](./152161-paradox-error.json) |
 | Paradox Escape Route | 125732 | [125732-paradox-escape-route.json](./125732-paradox-escape-route.json) |
@@ -7893,6 +7894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Art Bundle Vol. 1 | 132864 | [132864-pixel-art-bundle-vol-1.json](./132864-pixel-art-bundle-vol-1.json) |
 | Pixel Art Coloring Book 2 | 394280 | [394280-pixel-art-coloring-book-2.json](./394280-pixel-art-coloring-book-2.json) |
 | Pixel Art Monster: Color by Number | 391688 | [391688-pixel-art-monster-color-by-number.json](./391688-pixel-art-monster-color-by-number.json) |
+| Pixel Art School | 195808 | [195808-pixel-art-school.json](./195808-pixel-art-school.json) |
 | Pixel Art: Color by Number | 87040 | [87040-pixel-art-color-by-number.json](./87040-pixel-art-color-by-number.json) |
 | Pixel Art: Mash-Up | 155445 | [155445-pixel-art-mash-up.json](./155445-pixel-art-mash-up.json) |
 | Pixel Artist | 220876 | [220876-pixel-artist.json](./220876-pixel-artist.json) |
@@ -10622,6 +10624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogo3D | 259015 | [259015-pogo3d.json](./259015-pogo3d.json) |
 | PogoChamp | 142797 | [142797-pogochamp.json](./142797-pogochamp.json) |
 | Pogoduck | 243965 | [243965-pogoduck.json](./243965-pogoduck.json) |
+| Pogoman | 195833 | [195833-pogoman.json](./195833-pogoman.json) |
 | Pogoman | 362315 | [362315-pogoman.json](./362315-pogoman.json) |
 | Pogoman GO! | 80514 | [80514-pogoman-go.json](./80514-pogoman-go.json) |
 | Pogopa | 406855 | [406855-pogopa.json](./406855-pogopa.json) |
@@ -14851,6 +14854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Tycoon: Alcatraz | 14883 | [14883-prison-tycoon-alcatraz.json](./14883-prison-tycoon-alcatraz.json) |
 | Prison Tycoon: Under New Management | 152405 | [152405-prison-tycoon-under-new-management.json](./152405-prison-tycoon-under-new-management.json) |
 | Prison Tycoon: Under New Management - Bundle 1 | 214680 | [214680-prison-tycoon-under-new-management-bundle-1.json](./214680-prison-tycoon-under-new-management-bundle-1.json) |
+| Prison Tycoon: Under New Management - Maximum Security | 195848 | [195848-prison-tycoon-under-new-management-maximum-security.json](./195848-prison-tycoon-under-new-management-maximum-security.json) |
 | Prison Tycoon: Under New Management - Maximum Security | 196298 | [196298-prison-tycoon-under-new-management-maximum-security.json](./196298-prison-tycoon-under-new-management-maximum-security.json) |
 | Prison Wars | 193267 | [193267-prison-wars.json](./193267-prison-wars.json) |
 | Prison Wars | 336725 | [336725-prison-wars.json](./336725-prison-wars.json) |
