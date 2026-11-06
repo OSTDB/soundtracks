@@ -2064,6 +2064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks: The Crusades | 154405 | [154405-tanks-the-crusades.json](./154405-tanks-the-crusades.json) |
 | Tanks! | 353523 | [353523-tanks.json](./353523-tanks.json) |
 | Tanks!!! | 91260 | [91260-tanks.json](./91260-tanks.json) |
+| Tanks+: New Era | 237146 | [237146-tanks-new-era.json](./237146-tanks-new-era.json) |
 | Tanks2.DE | 115764 | [115764-tanks2-de.json](./115764-tanks2-de.json) |
 | Tanktics | 11780 | [11780-tanktics.json](./11780-tanktics.json) |
 | Tanktics: Computer game of Armored Combat on the Eastern Front | 71384 | [71384-tanktics-computer-game-of-armored-combat-on-the-eastern-front.json](./71384-tanktics-computer-game-of-armored-combat-on-the-eastern-front.json) |
@@ -2768,6 +2769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi Chaos | 140701 | [140701-taxi-chaos.json](./140701-taxi-chaos.json) |
 | Taxi Chaos 2 | 364153 | [364153-taxi-chaos-2.json](./364153-taxi-chaos-2.json) |
 | Taxi City | 127917 | [127917-taxi-city.json](./127917-taxi-city.json) |
+| Taxi Copter | 237150 | [237150-taxi-copter.json](./237150-taxi-copter.json) |
 | Taxi Crew Simulator | 418319 | [418319-taxi-crew-simulator.json](./418319-taxi-crew-simulator.json) |
 | Taxi Driver | 40483 | [40483-taxi-driver.json](./40483-taxi-driver.json) |
 | Taxi Driver | 91672 | [91672-taxi-driver.json](./91672-taxi-driver.json) |
@@ -9522,6 +9524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flower | 361747 | [361747-the-flower.json](./361747-the-flower.json) |
 | The Flower Collectors | 131930 | [131930-the-flower-collectors.json](./131930-the-flower-collectors.json) |
 | The Flower Inspector | 348889 | [348889-the-flower-inspector.json](./348889-the-flower-inspector.json) |
+| The flower of desire | 237166 | [237166-the-flower-of-desire.json](./237166-the-flower-of-desire.json) |
 | The Flower on Christmas Eve | 122052 | [122052-the-flower-on-christmas-eve.json](./122052-the-flower-on-christmas-eve.json) |
 | The Flowers of Robert Mapplethorpe | 141004 | [141004-the-flowers-of-robert-mapplethorpe.json](./141004-the-flowers-of-robert-mapplethorpe.json) |
 | The Flowertest | 341003 | [341003-the-flowertest.json](./341003-the-flowertest.json) |
@@ -11721,6 +11724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Land Beyond the Forest | 416757 | [416757-the-land-beyond-the-forest.json](./416757-the-land-beyond-the-forest.json) |
 | The Land Forgotten | 381730 | [381730-the-land-forgotten.json](./381730-the-land-forgotten.json) |
 | The Land of Alembrume | 204983 | [204983-the-land-of-alembrume.json](./204983-the-land-of-alembrume.json) |
+| The Land of Babel | 237130 | [237130-the-land-of-babel.json](./237130-the-land-of-babel.json) |
 | The Land of Crows | 126306 | [126306-the-land-of-crows.json](./126306-the-land-of-crows.json) |
 | The Land of Dasthir | 30898 | [30898-the-land-of-dasthir.json](./30898-the-land-of-dasthir.json) |
 | The Land of Exile | 125690 | [125690-the-land-of-exile.json](./125690-the-land-of-exile.json) |
@@ -26460,6 +26464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower 57 | 28302 | [28302-tower-57.json](./28302-tower-57.json) |
 | Tower 6: Last Signal | 425883 | [425883-tower-6-last-signal.json](./425883-tower-6-last-signal.json) |
 | Tower Accelerator | 379404 | [379404-tower-accelerator.json](./379404-tower-accelerator.json) |
+| Tower Alchemist: Defend Khaldoria | 237161 | [237161-tower-alchemist-defend-khaldoria.json](./237161-tower-alchemist-defend-khaldoria.json) |
 | Tower and Guardian | 54466 | [54466-tower-and-guardian.json](./54466-tower-and-guardian.json) |
 | Tower Arena | 118019 | [118019-tower-arena.json](./118019-tower-arena.json) |
 | Tower Arena Survive | 348022 | [348022-tower-arena-survive.json](./348022-tower-arena-survive.json) |
@@ -26840,6 +26845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towers of Twilight | 53835 | [53835-towers-of-twilight.json](./53835-towers-of-twilight.json) |
 | Towers Saga | 391719 | [391719-towers-saga.json](./391719-towers-saga.json) |
 | Towers That Don't Like Each Other | 51997 | [51997-towers-that-dont-like-each-other.json](./51997-towers-that-dont-like-each-other.json) |
+| Towers Together | 237169 | [237169-towers-together.json](./237169-towers-together.json) |
 | Towers Watch | 277916 | [277916-towers-watch.json](./277916-towers-watch.json) |
 | Towers, Turrets, Turtles | 236415 | [236415-towers-turrets-turtles.json](./236415-towers-turrets-turtles.json) |
 | Towerscape | 297422 | [297422-towerscape.json](./297422-towerscape.json) |
@@ -27580,6 +27586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 3 | 213113 | [213113-train-sim-world-3.json](./213113-train-sim-world-3.json) |
 | Train Sim World 3: Amtrak's Acela | 237944 | [237944-train-sim-world-3-amtraks-acela.json](./237944-train-sim-world-3-amtraks-acela.json) |
 | Train Sim World 3: Bahnstrecke Bremen - Oldenburg | 233357 | [233357-train-sim-world-3-bahnstrecke-bremen-oldenburg.json](./233357-train-sim-world-3-bahnstrecke-bremen-oldenburg.json) |
+| Train Sim World 3: Bahnstrecke Bremen - Oldenburg Route | 237158 | [237158-train-sim-world-3-bahnstrecke-bremen-oldenburg-route.json](./237158-train-sim-world-3-bahnstrecke-bremen-oldenburg-route.json) |
 | Train Sim World 3: Birmingham Cross-City Line - Lichfield: Bromsgrove & Redditch Route Add-On | 226688 | [226688-train-sim-world-3-birmingham-cross-city-line-lichfield-bromsgrove-and-redditch-route-add-on.json](./226688-train-sim-world-3-birmingham-cross-city-line-lichfield-bromsgrove-and-redditch-route-add-on.json) |
 | Train Sim World 3: Birmingham Standard Edition | 231364 | [231364-train-sim-world-3-birmingham-standard-edition.json](./231364-train-sim-world-3-birmingham-standard-edition.json) |
 | Train Sim World 3: BNSF SD70ACe | 242355 | [242355-train-sim-world-3-bnsf-sd70ace.json](./242355-train-sim-world-3-bnsf-sd70ace.json) |
@@ -29387,6 +29394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trap Labs | 74606 | [74606-trap-labs.json](./74606-trap-labs.json) |
 | Trap Legend | 156962 | [156962-trap-legend.json](./156962-trap-legend.json) |
 | Trap Master | 65000 | [65000-trap-master.json](./65000-trap-master.json) |
+| Trap of Musk: Arabia Night | 237152 | [237152-trap-of-musk-arabia-night.json](./237152-trap-of-musk-arabia-night.json) |
 | Trap of Musk: Asia Night | 235481 | [235481-trap-of-musk-asia-night.json](./235481-trap-of-musk-asia-night.json) |
 | Trap of Musk: Europe Night | 237046 | [237046-trap-of-musk-europe-night.json](./237046-trap-of-musk-europe-night.json) |
 | Trap Roller | 397188 | [397188-trap-roller.json](./397188-trap-roller.json) |
@@ -30967,6 +30975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trouble in Pacifica | 331288 | [331288-trouble-in-pacifica.json](./331288-trouble-in-pacifica.json) |
 | Trouble In Paradise | 272903 | [272903-trouble-in-paradise.json](./272903-trouble-in-paradise.json) |
 | Trouble in Potion High | 399707 | [399707-trouble-in-potion-high.json](./399707-trouble-in-potion-high.json) |
+| Trouble In Space | 237148 | [237148-trouble-in-space.json](./237148-trouble-in-space.json) |
 | Trouble in the Manor | 28577 | [28577-trouble-in-the-manor.json](./28577-trouble-in-the-manor.json) |
 | Trouble in Tornado Town | 226584 | [226584-trouble-in-tornado-town.json](./226584-trouble-in-tornado-town.json) |
 | Trouble in Warsaw | 326069 | [326069-trouble-in-warsaw.json](./326069-trouble-in-warsaw.json) |
@@ -32043,6 +32052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn Around | 344858 | [344858-turn-around.json](./344858-turn-around.json) |
 | Turn Around Turtle: Show and Tell | 206648 | [206648-turn-around-turtle-show-and-tell.json](./206648-turn-around-turtle-show-and-tell.json) |
 | Turn Back Now | 405844 | [405844-turn-back-now.json](./405844-turn-back-now.json) |
+| Turn Back the Clock: Hsinchu | 237143 | [237143-turn-back-the-clock-hsinchu.json](./237143-turn-back-the-clock-hsinchu.json) |
 | Turn Back The Powers Of Darkness | 350233 | [350233-turn-back-the-powers-of-darkness.json](./350233-turn-back-the-powers-of-darkness.json) |
 | Turn Based Boxing | 301220 | [301220-turn-based-boxing.json](./301220-turn-based-boxing.json) |
 | Turn By Turn Villain | 253820 | [253820-turn-by-turn-villain.json](./253820-turn-by-turn-villain.json) |
