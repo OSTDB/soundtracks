@@ -3461,6 +3461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lenny Loosejocks in Space | 199337 | [199337-lenny-loosejocks-in-space.json](./199337-lenny-loosejocks-in-space.json) |
 | Lenny! | 186343 | [186343-lenny.json](./186343-lenny.json) |
 | Lenny's Music Toons | 71995 | [71995-lennys-music-toons.json](./71995-lennys-music-toons.json) |
+| Lenny's Time Machine | 201908 | [201908-lennys-time-machine.json](./201908-lennys-time-machine.json) |
 | Lenocity Online | 382353 | [382353-lenocity-online.json](./382353-lenocity-online.json) |
 | Lenrual | 380692 | [380692-lenrual.json](./380692-lenrual.json) |
 | Lens | 349181 | [349181-lens.json](./349181-lens.json) |
@@ -3765,6 +3766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Play Curling!! | 194975 | [194975-lets-play-curling.json](./194975-lets-play-curling.json) |
 | Let's Play Duema! | 222270 | [222270-lets-play-duema.json](./222270-lets-play-duema.json) |
 | Let's Play Duema! 2022 | 222054 | [222054-lets-play-duema-2022.json](./222054-lets-play-duema-2022.json) |
+| Let's Play Flight Attendant | 201909 | [201909-lets-play-flight-attendant.json](./201909-lets-play-flight-attendant.json) |
 | Let's Play Garden | 50952 | [50952-lets-play-garden.json](./50952-lets-play-garden.json) |
 | Let's Play Jigsaw Puzzles | 231184 | [231184-lets-play-jigsaw-puzzles.json](./231184-lets-play-jigsaw-puzzles.json) |
 | Let's Play Jigsaw Puzzles: A Journey Across Continents | 263210 | [263210-lets-play-jigsaw-puzzles-a-journey-across-continents.json](./263210-lets-play-jigsaw-puzzles-a-journey-across-continents.json) |
@@ -3795,12 +3797,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Play! Oink Games: Nine Tiles | 241310 | [241310-lets-play-oink-games-nine-tiles.json](./241310-lets-play-oink-games-nine-tiles.json) |
 | Let's Play! Oink Games: Rafter Five | 275559 | [275559-lets-play-oink-games-rafter-five.json](./275559-lets-play-oink-games-rafter-five.json) |
 | Let's Play! Oink Games: Scout | 231238 | [231238-lets-play-oink-games-scout.json](./231238-lets-play-oink-games-scout.json) |
+| Let's Pretend Our World Is A Playground | 201910 | [201910-lets-pretend-our-world-is-a-playground.json](./201910-lets-pretend-our-world-is-a-playground.json) |
+| Let's Pretend Space is our play | 201911 | [201911-lets-pretend-space-is-our-play.json](./201911-lets-pretend-space-is-our-play.json) |
+| Let's Pretend the Past is our Playground | 201912 | [201912-lets-pretend-the-past-is-our-playground.json](./201912-lets-pretend-the-past-is-our-playground.json) |
+| Let's Pretend Vol. 3: Many Lands, Many Playgrounds | 201913 | [201913-lets-pretend-vol-3-many-lands-many-playgrounds.json](./201913-lets-pretend-vol-3-many-lands-many-playgrounds.json) |
 | Let's Puzzle | 189345 | [189345-lets-puzzle.json](./189345-lets-puzzle.json) |
 | Let's Puzzle: Celestial Wonders Pack | 298256 | [298256-lets-puzzle-celestial-wonders-pack.json](./298256-lets-puzzle-celestial-wonders-pack.json) |
 | Let's Puzzle: Verdant Realms Pack | 303671 | [303671-lets-puzzle-verdant-realms-pack.json](./303671-lets-puzzle-verdant-realms-pack.json) |
 | Let's Quip | 61896 | [61896-lets-quip.json](./61896-lets-quip.json) |
 | Let's Return Home Together | 350967 | [350967-lets-return-home-together.json](./350967-lets-return-home-together.json) |
 | Let's Ride: Horse & Pony | 209883 | [209883-lets-ride-horse-and-pony.json](./209883-lets-ride-horse-and-pony.json) |
+| Let's Ride: Horse Adventures | 201914 | [201914-lets-ride-horse-adventures.json](./201914-lets-ride-horse-adventures.json) |
+| Let's Ride: Horse Club the Saddle Show Mystery | 201916 | [201916-lets-ride-horse-club-the-saddle-show-mystery.json](./201916-lets-ride-horse-club-the-saddle-show-mystery.json) |
+| Let's Ride: Riding Star | 201918 | [201918-lets-ride-riding-star.json](./201918-lets-ride-riding-star.json) |
+| Let's Ride: The Rosemond Hill Collection | 201919 | [201919-lets-ride-the-rosemond-hill-collection.json](./201919-lets-ride-the-rosemond-hill-collection.json) |
 | Let's Ride! Best in Breed 3D | 60869 | [60869-lets-ride-best-in-breed-3d.json](./60869-lets-ride-best-in-breed-3d.json) |
 | Let's Ride! Championship Dreams | 72136 | [72136-lets-ride-championship-dreams.json](./72136-lets-ride-championship-dreams.json) |
 | Let's Ride! Friends Forever | 49668 | [49668-lets-ride-friends-forever.json](./49668-lets-ride-friends-forever.json) |
@@ -3902,6 +3912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Stack AR! | 104540 | [104540-lets-stack-ar.json](./104540-lets-stack-ar.json) |
 | Let's Talk About Me | 57648 | [57648-lets-talk-about-me.json](./57648-lets-talk-about-me.json) |
 | Let's Talk About Me Too | 78336 | [78336-lets-talk-about-me-too.json](./78336-lets-talk-about-me-too.json) |
+| Let's Talk About Me!: Some More | 201920 | [201920-lets-talk-about-me-some-more.json](./201920-lets-talk-about-me-some-more.json) |
 | Let's Tap | 4970 | [4970-lets-tap.json](./4970-lets-tap.json) |
 | Let's Tap: Tap Runner | 56899 | [56899-lets-tap-tap-runner.json](./56899-lets-tap-tap-runner.json) |
 | Let's Throoow! Street Basketball Simulator | 300869 | [300869-lets-throoow-street-basketball-simulator.json](./300869-lets-throoow-street-basketball-simulator.json) |
@@ -5540,6 +5551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Links E6: Course Pack 1 | 153464 | [153464-links-e6-course-pack-1.json](./153464-links-e6-course-pack-1.json) |
 | Links E6: Course Pack 3 | 153465 | [153465-links-e6-course-pack-3.json](./153465-links-e6-course-pack-3.json) |
 | Links Expansion Pack | 85753 | [85753-links-expansion-pack.json](./85753-links-expansion-pack.json) |
+| Links Expansion Pack Volume 2 | 201921 | [201921-links-expansion-pack-volume-2.json](./201921-links-expansion-pack-volume-2.json) |
 | Links Extreme | 68777 | [68777-links-extreme.json](./68777-links-extreme.json) |
 | Links LS 1999 | 772 | [772-links-ls-1999.json](./772-links-ls-1999.json) |
 | Links LS 2000 | 47120 | [47120-links-ls-2000.json](./47120-links-ls-2000.json) |
@@ -6341,6 +6353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LittleShadows | 116676 | [116676-littleshadows.json](./116676-littleshadows.json) |
 | Littlest Pet Shop | 353919 | [353919-littlest-pet-shop.json](./353919-littlest-pet-shop.json) |
 | Littlest Pet Shop | 4975 | [4975-littlest-pet-shop.json](./4975-littlest-pet-shop.json) |
+| Littlest Pet Shop 3: Biggest Stars - Blue Team | 201922 | [201922-littlest-pet-shop-3-biggest-stars-blue-team.json](./201922-littlest-pet-shop-3-biggest-stars-blue-team.json) |
 | Littlest Pet Shop 3: Biggest Stars - Pink Team | 122206 | [122206-littlest-pet-shop-3-biggest-stars-pink-team.json](./122206-littlest-pet-shop-3-biggest-stars-pink-team.json) |
 | Littlest Pet Shop 3: Biggest Stars - Purple Team | 122205 | [122205-littlest-pet-shop-3-biggest-stars-purple-team.json](./122205-littlest-pet-shop-3-biggest-stars-purple-team.json) |
 | Littlest Pet Shop Digital Pets | 270440 | [270440-littlest-pet-shop-digital-pets.json](./270440-littlest-pet-shop-digital-pets.json) |
@@ -8339,6 +8352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Secrets Ancient Mysteries | 25061 | [25061-lost-secrets-ancient-mysteries.json](./25061-lost-secrets-ancient-mysteries.json) |
 | Lost Secrets: Bermuda Triangle - Unsolved Mysteries | 209395 | [209395-lost-secrets-bermuda-triangle-unsolved-mysteries.json](./209395-lost-secrets-bermuda-triangle-unsolved-mysteries.json) |
 | Lost Secrets: Caribbean Explorer - Secrets of the Sea | 209396 | [209396-lost-secrets-caribbean-explorer-secrets-of-the-sea.json](./209396-lost-secrets-caribbean-explorer-secrets-of-the-sea.json) |
+| Lost Secrets: Dracula Mystery Trilogy - The Strange Case, The Myth of the Vampire, The Destruction of Evil | 201923 | [201923-lost-secrets-dracula-mystery-trilogy-the-strange-case-the-myth-of-the-vampire-the-destruction-of-evil.json](./201923-lost-secrets-dracula-mystery-trilogy-the-strange-case-the-myth-of-the-vampire-the-destruction-of-evil.json) |
 | Lost Secrets: Hollywood Mysteries | 209397 | [209397-lost-secrets-hollywood-mysteries.json](./209397-lost-secrets-hollywood-mysteries.json) |
 | Lost Secrets: November 1963 | 206728 | [206728-lost-secrets-november-1963.json](./206728-lost-secrets-november-1963.json) |
 | Lost Secrets: Vatican Mysteries | 209398 | [209398-lost-secrets-vatican-mysteries.json](./209398-lost-secrets-vatican-mysteries.json) |
@@ -9603,6 +9617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lume and the Shifting Void | 122952 | [122952-lume-and-the-shifting-void.json](./122952-lume-and-the-shifting-void.json) |
 | Lumeera and the Glow Reefs | 406803 | [406803-lumeera-and-the-glow-reefs.json](./406803-lumeera-and-the-glow-reefs.json) |
 | Lumen | 164330 | [164330-lumen.json](./164330-lumen.json) |
+| Lumen | 201924 | [201924-lumen.json](./201924-lumen.json) |
 | Lumen | 292608 | [292608-lumen.json](./292608-lumen.json) |
 | Lumen Climber | 417747 | [417747-lumen-climber.json](./417747-lumen-climber.json) |
 | Lumen Inferius | 311536 | [311536-lumen-inferius.json](./311536-lumen-inferius.json) |
