@@ -4388,6 +4388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminull Brigade | 325934 | [325934-terminull-brigade.json](./325934-terminull-brigade.json) |
 | Terminus | 171327 | [171327-terminus.json](./171327-terminus.json) |
 | Terminus | 352261 | [352261-terminus.json](./352261-terminus.json) |
+| Terminus Historia | 207484 | [207484-terminus-historia.json](./207484-terminus-historia.json) |
 | Terminus Machina | 230287 | [230287-terminus-machina.json](./230287-terminus-machina.json) |
 | Terminus: Survival | 120651 | [120651-terminus-survival.json](./120651-terminus-survival.json) |
 | Terminus: The Prison Planet | 36683 | [36683-terminus-the-prison-planet.json](./36683-terminus-the-prison-planet.json) |
@@ -5226,6 +5227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Sausage Museum Game | 350177 | [350177-that-sausage-museum-game.json](./350177-that-sausage-museum-game.json) |
 | That Smiling Game | 202963 | [202963-that-smiling-game.json](./202963-that-smiling-game.json) |
 | That Spongy Thing on Your Tongue | 184575 | [184575-that-spongy-thing-on-your-tongue.json](./184575-that-spongy-thing-on-your-tongue.json) |
+| That Stupid Game | 207467 | [207467-that-stupid-game.json](./207467-that-stupid-game.json) |
 | That Summer | 204256 | [204256-that-summer.json](./204256-that-summer.json) |
 | That Summer: Hannah's Summer Vacation | 398043 | [398043-that-summer-hannahs-summer-vacation.json](./398043-that-summer-hannahs-summer-vacation.json) |
 | That Time I Became Friends with The Royal Scuttlebug Family and Fell From Space | 304155 | [304155-that-time-i-became-friends-with-the-royal-scuttlebug-family-and-fell-from-space.json](./304155-that-time-i-became-friends-with-the-royal-scuttlebug-family-and-fell-from-space.json) |
@@ -7126,6 +7128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Caverns of Freitag | 21922 | [21922-the-caverns-of-freitag.json](./21922-the-caverns-of-freitag.json) |
 | The Caverns of Hammerfest | 55979 | [55979-the-caverns-of-hammerfest.json](./55979-the-caverns-of-hammerfest.json) |
 | The Caves | 179367 | [179367-the-caves.json](./179367-the-caves.json) |
+| The Cecil: The Journey Begins | 207491 | [207491-the-cecil-the-journey-begins.json](./207491-the-cecil-the-journey-begins.json) |
 | The Celebrated Race | 416971 | [416971-the-celebrated-race.json](./416971-the-celebrated-race.json) |
 | The Celestial Tales | 275689 | [275689-the-celestial-tales.json](./275689-the-celestial-tales.json) |
 | The Celestra | 191090 | [191090-the-celestra.json](./191090-the-celestra.json) |
@@ -7352,6 +7355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cloudberry Abyss | 402998 | [402998-the-cloudberry-abyss.json](./402998-the-cloudberry-abyss.json) |
 | The Clouds Travel Notes | 126376 | [126376-the-clouds-travel-notes.json](./126376-the-clouds-travel-notes.json) |
 | The Clown | 260975 | [260975-the-clown.json](./260975-the-clown.json) |
+| The Clown's Forest | 207485 | [207485-the-clowns-forest.json](./207485-the-clowns-forest.json) |
 | The Clown's Forest 2: Waking Shadows | 244362 | [244362-the-clowns-forest-2-waking-shadows.json](./244362-the-clowns-forest-2-waking-shadows.json) |
 | The Clown's Forest 3: Haunting Apparitions | 271906 | [271906-the-clowns-forest-3-haunting-apparitions.json](./271906-the-clowns-forest-3-haunting-apparitions.json) |
 | The Club | 6940 | [6940-the-club.json](./6940-the-club.json) |
@@ -13673,6 +13677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mercer Slough and You | 145622 | [145622-the-mercer-slough-and-you.json](./145622-the-mercer-slough-and-you.json) |
 | The Merchant Memoirs | 74233 | [74233-the-merchant-memoirs.json](./74233-the-merchant-memoirs.json) |
 | The Merchant's Eden | 372657 | [372657-the-merchants-eden.json](./372657-the-merchants-eden.json) |
+| The Merchant's Guide to the Kingdom | 207481 | [207481-the-merchants-guide-to-the-kingdom.json](./207481-the-merchants-guide-to-the-kingdom.json) |
 | The Mercury Man | 80879 | [80879-the-mercury-man.json](./80879-the-mercury-man.json) |
 | The Meridian Paradox | 419088 | [419088-the-meridian-paradox.json](./419088-the-meridian-paradox.json) |
 | The Meridian Shard | 55963 | [55963-the-meridian-shard.json](./55963-the-meridian-shard.json) |
@@ -24211,6 +24216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Together: Moon Escape | 366607 | [366607-together-moon-escape.json](./366607-together-moon-escape.json) |
 | Together: To Get Her | 121408 | [121408-together-to-get-her.json](./121408-together-to-get-her.json) |
 | Toggle | 156714 | [156714-toggle.json](./156714-toggle.json) |
+| Toggle Cube | 207551 | [207551-toggle-cube.json](./207551-toggle-cube.json) |
 | Toggle Tile | 331601 | [331601-toggle-tile.json](./331601-toggle-tile.json) |
 | Togglebot | 387707 | [387707-togglebot.json](./387707-togglebot.json) |
 | Togo Dave | 79027 | [79027-togo-dave.json](./79027-togo-dave.json) |
@@ -27381,6 +27387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traces of the Unknown | 286354 | [286354-traces-of-the-unknown.json](./286354-traces-of-the-unknown.json) |
 | Traceur's Dreamlab VR | 148820 | [148820-traceurs-dreamlab-vr.json](./148820-traceurs-dreamlab-vr.json) |
 | Trachi: Authority | 223290 | [223290-trachi-authority.json](./223290-trachi-authority.json) |
+| Trachi: Autonomy - InvAsion | 207488 | [207488-trachi-autonomy-invasion.json](./207488-trachi-autonomy-invasion.json) |
 | Tracing | 346209 | [346209-tracing.json](./346209-tracing.json) |
 | Tracing Decay | 211143 | [211143-tracing-decay.json](./211143-tracing-decay.json) |
 | Track | 168567 | [168567-track.json](./168567-track.json) |
