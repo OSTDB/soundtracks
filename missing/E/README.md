@@ -8010,6 +8010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exterminatus: Rival Species 2 | 350395 | [350395-exterminatus-rival-species-2.json](./350395-exterminatus-rival-species-2.json) |
 | Exterminium | 349878 | [349878-exterminium.json](./349878-exterminium.json) |
 | External | 370013 | [370013-external.json](./370013-external.json) |
+| External-Dimension: Mainframe | 224896 | [224896-external-dimension-mainframe.json](./224896-external-dimension-mainframe.json) |
 | ExTime: Primal Menace | 245922 | [245922-extime-primal-menace.json](./245922-extime-primal-menace.json) |
 | Extinct Forest | 379047 | [379047-extinct-forest.json](./379047-extinct-forest.json) |
 | eXtinction | 221978 | [221978-extinction.json](./221978-extinction.json) |
