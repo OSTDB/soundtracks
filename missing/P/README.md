@@ -8393,6 +8393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Quest: The Lost Gifts | 413681 | [413681-pixel-quest-the-lost-gifts.json](./413681-pixel-quest-the-lost-gifts.json) |
 | Pixel Quest: The Lost Idols | 413680 | [413680-pixel-quest-the-lost-idols.json](./413680-pixel-quest-the-lost-idols.json) |
 | Pixel Race Maker | 309443 | [309443-pixel-race-maker.json](./309443-pixel-race-maker.json) |
+| Pixel Race: Endless Retro Racing | 232243 | [232243-pixel-race-endless-retro-racing.json](./232243-pixel-race-endless-retro-racing.json) |
 | Pixel Rain | 406479 | [406479-pixel-rain.json](./406479-pixel-rain.json) |
 | Pixel Rampage | 358334 | [358334-pixel-rampage.json](./358334-pixel-rampage.json) |
 | Pixel Restorer | 312026 | [312026-pixel-restorer.json](./312026-pixel-restorer.json) |
@@ -10230,6 +10231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Garden | 367505 | [367505-pocket-garden.json](./367505-pocket-garden.json) |
 | Pocket GI Stable | 282470 | [282470-pocket-gi-stable.json](./282470-pocket-gi-stable.json) |
 | Pocket Girl: Uketsugareshi Kibou | 206543 | [206543-pocket-girl-uketsugareshi-kibou.json](./206543-pocket-girl-uketsugareshi-kibou.json) |
+| Pocket GM 3: Football Manager | 232244 | [232244-pocket-gm-3-football-manager.json](./232244-pocket-gm-3-football-manager.json) |
 | Pocket God | 46743 | [46743-pocket-god.json](./46743-pocket-god.json) |
 | Pocket God vs Desert Ashes | 17866 | [17866-pocket-god-vs-desert-ashes.json](./17866-pocket-god-vs-desert-ashes.json) |
 | Pocket God: Journey to Uranus | 97068 | [97068-pocket-god-journey-to-uranus.json](./97068-pocket-god-journey-to-uranus.json) |
