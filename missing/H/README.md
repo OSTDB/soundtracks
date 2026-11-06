@@ -1291,6 +1291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handle With Care.. | 330816 | [330816-handle-with-care.json](./330816-handle-with-care.json) |
 | Handlebar | 414270 | [414270-handlebar.json](./414270-handlebar.json) |
 | Handless Millionaire | 383473 | [383473-handless-millionaire.json](./383473-handless-millionaire.json) |
+| Handless show | 235580 | [235580-handless-show.json](./235580-handless-show.json) |
 | Handlime | 402439 | [402439-handlime.json](./402439-handlime.json) |
 | Handmancers | 260587 | [260587-handmancers.json](./260587-handmancers.json) |
 | Handpan | 178786 | [178786-handpan.json](./178786-handpan.json) |
@@ -3020,6 +3021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head AS Code Original Version | 143720 | [143720-head-as-code-original-version.json](./143720-head-as-code-original-version.json) |
 | Head Ball 2 | 99141 | [99141-head-ball-2.json](./99141-head-ball-2.json) |
 | Head Bangerz | 265761 | [265761-head-bangerz.json](./265761-head-bangerz.json) |
+| Head Basketball: Samir of Morocco | 235573 | [235573-head-basketball-samir-of-morocco.json](./235573-head-basketball-samir-of-morocco.json) |
 | Head Boxing | 90785 | [90785-head-boxing.json](./90785-head-boxing.json) |
 | Head Bumper: Editcraft | 164428 | [164428-head-bumper-editcraft.json](./164428-head-bumper-editcraft.json) |
 | Head Buster | 46314 | [46314-head-buster.json](./46314-head-buster.json) |
@@ -3067,6 +3069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head-to-Head Karate | 234219 | [234219-head-to-head-karate.json](./234219-head-to-head-karate.json) |
 | Head's Adventures: Chibichibi | 393116 | [393116-heads-adventures-chibichibi.json](./393116-heads-adventures-chibichibi.json) |
 | Headache | 182372 | [182372-headache.json](./182372-headache.json) |
+| HeadAche: Visual Novel | 235545 | [235545-headache-visual-novel.json](./235545-headache-visual-novel.json) |
 | Headball Soccer Deluxe | 119443 | [119443-headball-soccer-deluxe.json](./119443-headball-soccer-deluxe.json) |
 | Headbanger's Heaven: A Rock & Roll Adventure | 169893 | [169893-headbangers-heaven-a-rock-and-roll-adventure.json](./169893-headbangers-heaven-a-rock-and-roll-adventure.json) |
 | Headbangers Heaven | 250637 | [250637-headbangers-heaven.json](./250637-headbangers-heaven.json) |
@@ -11344,6 +11347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hug Arena | 334444 | [334444-hug-arena.json](./334444-hug-arena.json) |
 | Hug Factory | 403440 | [403440-hug-factory.json](./403440-hug-factory.json) |
 | Hug Me, Senpai! | 368519 | [368519-hug-me-senpai.json](./368519-hug-me-senpai.json) |
+| Hug Survivor | 235533 | [235533-hug-survivor.json](./235533-hug-survivor.json) |
 | Hug Your Mama | 397020 | [397020-hug-your-mama.json](./397020-hug-your-mama.json) |
 | Hugbot | 180695 | [180695-hugbot.json](./180695-hugbot.json) |
 | Huge | 156228 | [156228-huge.json](./156228-huge.json) |
@@ -11758,6 +11762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt: Showdown - Cold Blooded | 196100 | [196100-hunt-showdown-cold-blooded.json](./196100-hunt-showdown-cold-blooded.json) |
 | Hunt: Showdown - Deluxe Edition | 146115 | [146115-hunt-showdown-deluxe-edition.json](./146115-hunt-showdown-deluxe-edition.json) |
 | Hunt: Showdown - Fear the Reaper | 224219 | [224219-hunt-showdown-fear-the-reaper.json](./224219-hunt-showdown-fear-the-reaper.json) |
+| Hunt: Showdown - Frau Perchta | 235544 | [235544-hunt-showdown-frau-perchta.json](./235544-hunt-showdown-frau-perchta.json) |
 | Hunt: Showdown - Gold Edition | 146137 | [146137-hunt-showdown-gold-edition.json](./146137-hunt-showdown-gold-edition.json) |
 | Hunt: Showdown - Limited Bounty Hunter Edition | 229120 | [229120-hunt-showdown-limited-bounty-hunter-edition.json](./229120-hunt-showdown-limited-bounty-hunter-edition.json) |
 | Hunt: Showdown - Live by the Blade | 239508 | [239508-hunt-showdown-live-by-the-blade.json](./239508-hunt-showdown-live-by-the-blade.json) |
