@@ -2241,6 +2241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darksiders: Fury's Collection - War and Death | 28408 | [28408-darksiders-furys-collection-war-and-death.json](./28408-darksiders-furys-collection-war-and-death.json) |
 | Darksiders: Genesis - Nephilim Edition | 121201 | [121201-darksiders-genesis-nephilim-edition.json](./121201-darksiders-genesis-nephilim-edition.json) |
 | Darksiders: Warmastered Edition | 25081 | [25081-darksiders-warmastered-edition.json](./25081-darksiders-warmastered-edition.json) |
+| Darksite | 226024 | [226024-darksite.json](./226024-darksite.json) |
 | Darksong Chronicles | 107604 | [107604-darksong-chronicles.json](./107604-darksong-chronicles.json) |
 | DarkSpace | 209027 | [209027-darkspace.json](./209027-darkspace.json) |
 | DarkSpace | 23448 | [23448-darkspace.json](./23448-darkspace.json) |
@@ -4368,6 +4369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Bringer | 45869 | [45869-death-bringer.json](./45869-death-bringer.json) |
 | Death Burger | 364506 | [364506-death-burger.json](./364506-death-burger.json) |
 | Death by AI | 275250 | [275250-death-by-ai.json](./275250-death-by-ai.json) |
+| Death by Begonia | 226017 | [226017-death-by-begonia.json](./226017-death-by-begonia.json) |
 | Death By Chatter | 322934 | [322934-death-by-chatter.json](./322934-death-by-chatter.json) |
 | Death by Cube | 22977 | [22977-death-by-cube.json](./22977-death-by-cube.json) |
 | Death by Dark Shadows | 57665 | [57665-death-by-dark-shadows.json](./57665-death-by-dark-shadows.json) |
@@ -5322,6 +5324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sleep | 275944 | [275944-deep-sleep.json](./275944-deep-sleep.json) |
 | Deep Sleep | 380751 | [380751-deep-sleep.json](./380751-deep-sleep.json) |
 | Deep Sleep Trilogy | 123695 | [123695-deep-sleep-trilogy.json](./123695-deep-sleep-trilogy.json) |
+| Deep Sleep: Labyrinth of the Forsaken | 226011 | [226011-deep-sleep-labyrinth-of-the-forsaken.json](./226011-deep-sleep-labyrinth-of-the-forsaken.json) |
 | Deep Sleep: The Beggining | 291410 | [291410-deep-sleep-the-beggining.json](./291410-deep-sleep-the-beggining.json) |
 | Deep Snow Delivery | 320396 | [320396-deep-snow-delivery.json](./320396-deep-snow-delivery.json) |
 | Deep Sorrow | 74931 | [74931-deep-sorrow.json](./74931-deep-sorrow.json) |
@@ -6016,6 +6019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery INC: Large Cargo | 274759 | [274759-delivery-inc-large-cargo.json](./274759-delivery-inc-large-cargo.json) |
 | Delivery Issues | 369017 | [369017-delivery-issues.json](./369017-delivery-issues.json) |
 | Delivery Kore | 239769 | [239769-delivery-kore.json](./239769-delivery-kore.json) |
+| Delivery Man | 226005 | [226005-delivery-man.json](./226005-delivery-man.json) |
 | Delivery man simulator | 99628 | [99628-delivery-man-simulator.json](./99628-delivery-man-simulator.json) |
 | Delivery Mayhem | 296888 | [296888-delivery-mayhem.json](./296888-delivery-mayhem.json) |
 | Delivery Must Complete | 355102 | [355102-delivery-must-complete.json](./355102-delivery-must-complete.json) |
@@ -9529,6 +9533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Time Raiders | 388161 | [388161-dino-time-raiders.json](./388161-dino-time-raiders.json) |
 | Dino Tour VR | 286787 | [286787-dino-tour-vr.json](./286787-dino-tour-vr.json) |
 | Dino Tower Arena | 272768 | [272768-dino-tower-arena.json](./272768-dino-tower-arena.json) |
+| Dino Trauma | 226028 | [226028-dino-trauma.json](./226028-dino-trauma.json) |
 | Dino Tribe: New Era | 309366 | [309366-dino-tribe-new-era.json](./309366-dino-tribe-new-era.json) |
 | Dino Trumps | 112075 | [112075-dino-trumps.json](./112075-dino-trumps.json) |
 | Dino V. Xeno | 238382 | [238382-dino-v-xeno.json](./238382-dino-v-xeno.json) |
@@ -14307,6 +14312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draftula | 364615 | [364615-draftula.json](./364615-draftula.json) |
 | Draftycar | 254775 | [254775-draftycar.json](./254775-draftycar.json) |
 | Draftycar 2 | 351666 | [351666-draftycar-2.json](./351666-draftycar-2.json) |
+| Drag and Drop | 226045 | [226045-drag-and-drop.json](./226045-drag-and-drop.json) |
 | Drag and Drop Medieval | 304865 | [304865-drag-and-drop-medieval.json](./304865-drag-and-drop-medieval.json) |
 | Drag Battle | 249688 | [249688-drag-battle.json](./249688-drag-battle.json) |
 | Drag Battle Top Fuel | 192870 | [192870-drag-battle-top-fuel.json](./192870-drag-battle-top-fuel.json) |
