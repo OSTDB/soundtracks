@@ -8349,6 +8349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hivex | 409246 | [409246-hivex.json](./409246-hivex.json) |
 | Hix: Puzzle Islands | 146842 | [146842-hix-puzzle-islands.json](./146842-hix-puzzle-islands.json) |
 | HiYah! | 322832 | [322832-hiyah.json](./322832-hiyah.json) |
+| Hiyake no Omoide & Himekuri: Girls in Motion Puzzle Vol. 1 | 245615 | [245615-hiyake-no-omoide-and-himekuri-girls-in-motion-puzzle-vol-1.json](./245615-hiyake-no-omoide-and-himekuri-girls-in-motion-puzzle-vol-1.json) |
 | Hiyoshi Clinic | 341098 | [341098-hiyoshi-clinic.json](./341098-hiyoshi-clinic.json) |
 | Hiza no Ue no Partner: Kitty on Your Lap | 65494 | [65494-hiza-no-ue-no-partner-kitty-on-your-lap.json](./65494-hiza-no-ue-no-partner-kitty-on-your-lap.json) |
 | Hizca | 348929 | [348929-hizca.json](./348929-hizca.json) |
