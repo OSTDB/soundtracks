@@ -2893,6 +2893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Cards | 184896 | [184896-in-the-cards.json](./184896-in-the-cards.json) |
 | In the Chips | 307650 | [307650-in-the-chips.json](./307650-in-the-chips.json) |
 | In the Crags | 144683 | [144683-in-the-crags.json](./144683-in-the-crags.json) |
+| In the Dark | 220386 | [220386-in-the-dark.json](./220386-in-the-dark.json) |
 | In the Dark | 327429 | [327429-in-the-dark.json](./327429-in-the-dark.json) |
 | In the Dark | 50748 | [50748-in-the-dark.json](./50748-in-the-dark.json) |
 | In The Dark | 343581 | [343581-in-the-dark.json](./343581-in-the-dark.json) |
@@ -3841,7 +3842,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -3856,6 +3856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Sparkles | 125415 | [125415-infinite-sparkles.json](./125415-infinite-sparkles.json) |
 | Infinite Stairs | 231940 | [231940-infinite-stairs.json](./231940-infinite-stairs.json) |
 | Infinite Stars | 137271 | [137271-infinite-stars.json](./137271-infinite-stars.json) |
+| Infinite Stars: The Visual Novel | 220382 | [220382-infinite-stars-the-visual-novel.json](./220382-infinite-stars-the-visual-novel.json) |
 | Infinite Stratos 2: Ignition Hearts | 11832 | [11832-infinite-stratos-2-ignition-hearts.json](./11832-infinite-stratos-2-ignition-hearts.json) |
 | Infinite Stratos 2: Love and Purge | 11833 | [11833-infinite-stratos-2-love-and-purge.json](./11833-infinite-stratos-2-love-and-purge.json) |
 | Infinite Stratos: Versus Colors | 11834 | [11834-infinite-stratos-versus-colors.json](./11834-infinite-stratos-versus-colors.json) |
@@ -4293,6 +4294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inner Abyss | 227052 | [227052-inner-abyss.json](./227052-inner-abyss.json) |
 | Inner Ashes | 217007 | [217007-inner-ashes.json](./217007-inner-ashes.json) |
 | Inner Blade | 244753 | [244753-inner-blade.json](./244753-inner-blade.json) |
+| Inner Call | 220384 | [220384-inner-call.json](./220384-inner-call.json) |
 | Inner Chains | 12206 | [12206-inner-chains.json](./12206-inner-chains.json) |
 | Inner City Kids | 52245 | [52245-inner-city-kids.json](./52245-inner-city-kids.json) |
 | Inner Darkness | 275373 | [275373-inner-darkness.json](./275373-inner-darkness.json) |
@@ -4681,6 +4683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instinct | 27548 | [27548-instinct.json](./27548-instinct.json) |
 | Instinct | 286509 | [286509-instinct.json](./286509-instinct.json) |
 | Instinct Rush | 117821 | [117821-instinct-rush.json](./117821-instinct-rush.json) |
+| Instinct War | 220385 | [220385-instinct-war.json](./220385-instinct-war.json) |
 | Instinct: Survival | 118000 | [118000-instinct-survival.json](./118000-instinct-survival.json) |
 | Instinction | 143565 | [143565-instinction.json](./143565-instinction.json) |
 | Instruction | 285857 | [285857-instruction.json](./285857-instruction.json) |
