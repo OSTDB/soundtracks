@@ -2479,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkside: Decayed Soul Manipulation | 264793 | [264793-parkside-decayed-soul-manipulation.json](./264793-parkside-decayed-soul-manipulation.json) |
 | ParkTo | 215694 | [215694-parkto.json](./215694-parkto.json) |
 | Parkur 44 | 152843 | [152843-parkur-44.json](./152843-parkur-44.json) |
+| Parley Nightmare | 206392 | [206392-parley-nightmare.json](./206392-parley-nightmare.json) |
 | Parliament | 350474 | [350474-parliament.json](./350474-parliament.json) |
 | Parliament of Hell 1796 | 344487 | [344487-parliament-of-hell-1796.json](./344487-parliament-of-hell-1796.json) |
 | Parlor | 218806 | [218806-parlor.json](./218806-parlor.json) |
@@ -9987,6 +9988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleasure Delving | 395748 | [395748-pleasure-delving.json](./395748-pleasure-delving.json) |
 | Pleasure Goal | 39950 | [39950-pleasure-goal.json](./39950-pleasure-goal.json) |
 | Pleasure Kingdom | 190075 | [190075-pleasure-kingdom.json](./190075-pleasure-kingdom.json) |
+| Pleasure Party | 206318 | [206318-pleasure-party.json](./206318-pleasure-party.json) |
 | Pleasure Party 2 | 262000 | [262000-pleasure-party-2.json](./262000-pleasure-party-2.json) |
 | Pleasure Puzzle: Portrait | 109901 | [109901-pleasure-puzzle-portrait.json](./109901-pleasure-puzzle-portrait.json) |
 | Pleasure Puzzle:Workshop - Part 1 | 163468 | [163468-pleasure-puzzle-workshop-part-1.json](./163468-pleasure-puzzle-workshop-part-1.json) |
@@ -12698,6 +12700,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pope Simulator | 133205 | [133205-pope-simulator.json](./133205-pope-simulator.json) |
 | Pope-ye | 321214 | [321214-pope-ye.json](./321214-pope-ye.json) |
 | Popeye | 178809 | [178809-popeye.json](./178809-popeye.json) |
+| Popeye | 206328 | [206328-popeye.json](./206328-popeye.json) |
+| Popeye | 206332 | [206332-popeye.json](./206332-popeye.json) |
 | Popeye | 229982 | [229982-popeye.json](./229982-popeye.json) |
 | Popeye | 232703 | [232703-popeye.json](./232703-popeye.json) |
 | Popeye | 266839 | [266839-popeye.json](./266839-popeye.json) |
@@ -18081,6 +18085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle 26: The 7th Day | 252556 | [252556-puzzle-26-the-7th-day.json](./252556-puzzle-26-the-7th-day.json) |
 | Puzzle 3D | 88180 | [88180-puzzle-3d.json](./88180-puzzle-3d.json) |
 | Puzzle 9 | 175009 | [175009-puzzle-9.json](./175009-puzzle-9.json) |
+| Puzzle Action Rogue | 206396 | [206396-puzzle-action-rogue.json](./206396-puzzle-action-rogue.json) |
 | Puzzle Adventure | 347877 | [347877-puzzle-adventure.json](./347877-puzzle-adventure.json) |
 | Puzzle Adventure Blockle | 54529 | [54529-puzzle-adventure-blockle.json](./54529-puzzle-adventure-blockle.json) |
 | Puzzle Adventure: Mystery Clue | 194125 | [194125-puzzle-adventure-mystery-clue.json](./194125-puzzle-adventure-mystery-clue.json) |
