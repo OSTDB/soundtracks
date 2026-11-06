@@ -12069,6 +12069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Pixel Heroes | 169596 | [169596-color-pixel-heroes.json](./169596-color-pixel-heroes.json) |
 | Color Pixel Heroes: Expansion Pack 1 | 225006 | [225006-color-pixel-heroes-expansion-pack-1.json](./225006-color-pixel-heroes-expansion-pack-1.json) |
 | Color Pixel Heroes: Expansion Pack 2 | 225007 | [225007-color-pixel-heroes-expansion-pack-2.json](./225007-color-pixel-heroes-expansion-pack-2.json) |
+| Color Puyolin | 198610 | [198610-color-puyolin.json](./198610-color-puyolin.json) |
 | Color Puzzle | 230686 | [230686-color-puzzle.json](./230686-color-puzzle.json) |
 | Color Reflex Challenge | 253018 | [253018-color-reflex-challenge.json](./253018-color-reflex-challenge.json) |
 | Color Retro Racer: Miles Challenge | 81790 | [81790-color-retro-racer-miles-challenge.json](./81790-color-retro-racer-miles-challenge.json) |
@@ -12533,6 +12534,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Columnae: A Past Under Construction | 120519 | [120519-columnae-a-past-under-construction.json](./120519-columnae-a-past-under-construction.json) |
 | Columns | 117538 | [117538-columns.json](./117538-columns.json) |
 | Columns | 182891 | [182891-columns.json](./182891-columns.json) |
+| Columns | 198611 | [198611-columns.json](./198611-columns.json) |
+| Columns | 198612 | [198612-columns.json](./198612-columns.json) |
 | Columns | 284379 | [284379-columns.json](./284379-columns.json) |
 | Columns | 295958 | [295958-columns.json](./295958-columns.json) |
 | Columns | 311356 | [311356-columns.json](./311356-columns.json) |
