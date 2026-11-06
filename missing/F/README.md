@@ -950,6 +950,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall in Flowers | 331237 | [331237-fall-in-flowers.json](./331237-fall-in-flowers.json) |
 | Fall In Labyrinth | 167382 | [167382-fall-in-labyrinth.json](./167382-fall-in-labyrinth.json) |
 | Fall In Love - My Billionaire Boss | 120870 | [120870-fall-in-love-my-billionaire-boss.json](./120870-fall-in-love-my-billionaire-boss.json) |
+| Fall In Love 1 | 193556 | [193556-fall-in-love-1.json](./193556-fall-in-love-1.json) |
+| Fall In love 2 | 193557 | [193557-fall-in-love-2.json](./193557-fall-in-love-2.json) |
 | Fall in the Rift | 199342 | [199342-fall-in-the-rift.json](./199342-fall-in-the-rift.json) |
 | Fall into Decay | 253507 | [253507-fall-into-decay.json](./253507-fall-into-decay.json) |
 | Fall Into Insanity | 253746 | [253746-fall-into-insanity.json](./253746-fall-into-insanity.json) |
@@ -7146,6 +7148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fix Fixer | 253504 | [253504-fix-fixer.json](./253504-fix-fixer.json) |
 | Fix It: Home Improvement | 124987 | [124987-fix-it-home-improvement.json](./124987-fix-it-home-improvement.json) |
 | Fix It: Home Improvement Challenge | 50962 | [50962-fix-it-home-improvement-challenge.json](./50962-fix-it-home-improvement-challenge.json) |
+| Fix it: The Handyman Simulator | 193571 | [193571-fix-it-the-handyman-simulator.json](./193571-fix-it-the-handyman-simulator.json) |
 | Fix Me Fix You | 29301 | [29301-fix-me-fix-you.json](./29301-fix-me-fix-you.json) |
 | Fix Me Up: Hospital Edition | 199691 | [199691-fix-me-up-hospital-edition.json](./199691-fix-me-up-hospital-edition.json) |
 | Fix My Car: Classic Muscle | 96833 | [96833-fix-my-car-classic-muscle.json](./96833-fix-my-car-classic-muscle.json) |
@@ -12137,6 +12140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fritz & Chesster: Chess for Aliens | 356723 | [356723-fritz-and-chesster-chess-for-aliens.json](./356723-fritz-and-chesster-chess-for-aliens.json) |
 | Fritz & Chesster: Learn to Play Chess Vol. 1 | 209896 | [209896-fritz-and-chesster-learn-to-play-chess-vol-1.json](./209896-fritz-and-chesster-learn-to-play-chess-vol-1.json) |
 | Fritz & Chesster's Chess for Winners | 84182 | [84182-fritz-and-chessters-chess-for-winners.json](./84182-fritz-and-chessters-chess-for-winners.json) |
+| Fritz 18: Steam Edition | 193561 | [193561-fritz-18-steam-edition.json](./193561-fritz-18-steam-edition.json) |
 | Fritz 19: Steam Edition | 280203 | [280203-fritz-19-steam-edition.json](./280203-fritz-19-steam-edition.json) |
 | Fritz 5 | 281650 | [281650-fritz-5.json](./281650-fritz-5.json) |
 | Fritz 6 | 281655 | [281655-fritz-6.json](./281655-fritz-6.json) |
