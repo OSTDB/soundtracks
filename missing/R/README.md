@@ -8100,6 +8100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rival Commanders | 389478 | [389478-rival-commanders.json](./389478-rival-commanders.json) |
 | Rival Fire | 227168 | [227168-rival-fire.json](./227168-rival-fire.json) |
 | Rival Fury | 188648 | [188648-rival-fury.json](./188648-rival-fury.json) |
+| Rival Gears | 242882 | [242882-rival-gears.json](./242882-rival-gears.json) |
 | Rival Gears Racing | 262467 | [262467-rival-gears-racing.json](./262467-rival-gears-racing.json) |
 | Rival Goals | 272944 | [272944-rival-goals.json](./272944-rival-goals.json) |
 | Rival Kingdoms | 126044 | [126044-rival-kingdoms.json](./126044-rival-kingdoms.json) |
@@ -12270,6 +12271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run, Doodleguy! | 211293 | [211293-run-doodleguy.json](./211293-run-doodleguy.json) |
 | Run, Elric! | 379319 | [379319-run-elric.json](./379319-run-elric.json) |
 | Run, Goo, Run | 37544 | [37544-run-goo-run.json](./37544-run-goo-run.json) |
+| Run, Jesus Run! | 242900 | [242900-run-jesus-run.json](./242900-run-jesus-run.json) |
 | Run, Kitty! | 192771 | [192771-run-kitty.json](./192771-run-kitty.json) |
 | Run, my little pixel | 74215 | [74215-run-my-little-pixel.json](./74215-run-my-little-pixel.json) |
 | Run, Poo, Run! | 388967 | [388967-run-poo-run.json](./388967-run-poo-run.json) |
