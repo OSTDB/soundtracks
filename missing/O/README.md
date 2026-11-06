@@ -3504,6 +3504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Libra | 287465 | [287465-operation-libra.json](./287465-operation-libra.json) |
 | Operation Logic Bomb | 42653 | [42653-operation-logic-bomb.json](./42653-operation-logic-bomb.json) |
 | Operation Lone Wolf | 107834 | [107834-operation-lone-wolf.json](./107834-operation-lone-wolf.json) |
+| Operation Lovecraft: Fallen Doll | 196926 | [196926-operation-lovecraft-fallen-doll.json](./196926-operation-lovecraft-fallen-doll.json) |
 | Operation Mania | 72959 | [72959-operation-mania.json](./72959-operation-mania.json) |
 | Operation Marakudja | 289428 | [289428-operation-marakudja.json](./289428-operation-marakudja.json) |
 | Operation Market Garden: Drive on Arnhem, September 1944 | 25779 | [25779-operation-market-garden-drive-on-arnhem-september-1944.json](./25779-operation-market-garden-drive-on-arnhem-september-1944.json) |
@@ -5328,6 +5329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outposts of the Wasteland | 318869 | [318869-outposts-of-the-wasteland.json](./318869-outposts-of-the-wasteland.json) |
 | Outpour | 366406 | [366406-outpour.json](./366406-outpour.json) |
 | Output Pasture | 126799 | [126799-output-pasture.json](./126799-output-pasture.json) |
+| Outrace | 196941 | [196941-outrace.json](./196941-outrace.json) |
 | Outracer | 51575 | [51575-outracer.json](./51575-outracer.json) |
 | Outrage | 33144 | [33144-outrage.json](./33144-outrage.json) |
 | OutRage: Fight Fest | 262662 | [262662-outrage-fight-fest.json](./262662-outrage-fight-fest.json) |
