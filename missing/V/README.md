@@ -2319,6 +2319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vincent: Phantom of the G4 | 280725 | [280725-vincent-phantom-of-the-g4.json](./280725-vincent-phantom-of-the-g4.json) |
 | Vincent's Chocolate | 301923 | [301923-vincents-chocolate.json](./301923-vincents-chocolate.json) |
 | Vincent's Horror Story | 238650 | [238650-vincents-horror-story.json](./238650-vincents-horror-story.json) |
+| Vincents Dream | 219895 | [219895-vincents-dream.json](./219895-vincents-dream.json) |
 | Vincere Totus Astrum | 36266 | [36266-vincere-totus-astrum.json](./36266-vincere-totus-astrum.json) |
 | Vincit | 407067 | [407067-vincit.json](./407067-vincit.json) |
 | Vincula | 150275 | [150275-vincula.json](./150275-vincula.json) |
