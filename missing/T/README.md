@@ -10745,6 +10745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hookmarine | 261670 | [261670-the-hookmarine.json](./261670-the-hookmarine.json) |
 | The Hopebringer | 151114 | [151114-the-hopebringer.json](./151114-the-hopebringer.json) |
 | The Hopeless Few | 389974 | [389974-the-hopeless-few.json](./389974-the-hopeless-few.json) |
+| The Horace Trilogy | 205746 | [205746-the-horace-trilogy.json](./205746-the-horace-trilogy.json) |
 | The Horde for Android | 110068 | [110068-the-horde-for-android.json](./110068-the-horde-for-android.json) |
 | The Horde of Gorak | 419372 | [419372-the-horde-of-gorak.json](./419372-the-horde-of-gorak.json) |
 | The Horde Wants You Dead | 339881 | [339881-the-horde-wants-you-dead.json](./339881-the-horde-wants-you-dead.json) |
@@ -14514,6 +14515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Original Island | 215735 | [215735-the-original-island.json](./215735-the-original-island.json) |
 | The Original Mobile Games | 130882 | [130882-the-original-mobile-games.json](./130882-the-original-mobile-games.json) |
 | The Original Strife: Veteran Edition | 24603 | [24603-the-original-strife-veteran-edition.json](./24603-the-original-strife-veteran-edition.json) |
+| The Original Wizard | 205737 | [205737-the-original-wizard.json](./205737-the-original-wizard.json) |
 | The Orion Conspiracy | 23862 | [23862-the-orion-conspiracy.json](./23862-the-orion-conspiracy.json) |
 | The Orion Project | 58904 | [58904-the-orion-project.json](./58904-the-orion-project.json) |
 | The Orion Suns | 83534 | [83534-the-orion-suns.json](./83534-the-orion-suns.json) |
@@ -18820,6 +18822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Werewolf of Kitakyushu -Beast- | 83478 | [83478-the-werewolf-of-kitakyushu-beast.json](./83478-the-werewolf-of-kitakyushu-beast.json) |
 | The West | 23639 | [23639-the-west.json](./23639-the-west.json) |
 | The Western Hunter | 44210 | [44210-the-western-hunter.json](./44210-the-western-hunter.json) |
+| The Western Rooms | 205762 | [205762-the-western-rooms.json](./205762-the-western-rooms.json) |
 | The Westport Independent | 9106 | [9106-the-westport-independent.json](./9106-the-westport-independent.json) |
 | The Whale Island | 300652 | [300652-the-whale-island.json](./300652-the-whale-island.json) |
 | The Wheel | 185439 | [185439-the-wheel.json](./185439-the-wheel.json) |
@@ -19032,6 +19035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wizard Party | 277609 | [277609-the-wizard-party.json](./277609-the-wizard-party.json) |
 | The Wizard Sniffer | 123477 | [123477-the-wizard-sniffer.json](./123477-the-wizard-sniffer.json) |
 | The Wizard: WizHarder Edition | 141234 | [141234-the-wizard-wizharder-edition.json](./141234-the-wizard-wizharder-edition.json) |
+| The Wizard's Apprentice | 205783 | [205783-the-wizards-apprentice.json](./205783-the-wizards-apprentice.json) |
 | The Wizard’s Beans Or: A Short Period of Unplanned Internment | 350445 | [350445-the-wizard-s-beans-or-a-short-period-of-unplanned-internment.json](./350445-the-wizard-s-beans-or-a-short-period-of-unplanned-internment.json) |
 | The Wizard's Castle | 25127 | [25127-the-wizards-castle.json](./25127-the-wizards-castle.json) |
 | The Wizard's Dolly Break | 385941 | [385941-the-wizards-dolly-break.json](./385941-the-wizards-dolly-break.json) |
@@ -27313,6 +27317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Wars: Story of Heroes | 140321 | [140321-toy-wars-story-of-heroes.json](./140321-toy-wars-story-of-heroes.json) |
 | Toy-War: The Beginning | 111192 | [111192-toy-war-the-beginning.json](./111192-toy-war-the-beginning.json) |
 | Toy's Brawl | 340947 | [340947-toys-brawl.json](./340947-toys-brawl.json) |
+| Toy's Paradise | 205743 | [205743-toys-paradise.json](./205743-toys-paradise.json) |
 | Toy'sMarch | 314335 | [314335-toysmarch.json](./314335-toysmarch.json) |
 | Toy'sMarch2 | 314337 | [314337-toysmarch2.json](./314337-toysmarch2.json) |
 | Toya | 404934 | [404934-toya.json](./404934-toya.json) |
@@ -29920,6 +29925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Riddles: Trip to Italy | 41938 | [41938-travel-riddles-trip-to-italy.json](./41938-travel-riddles-trip-to-italy.json) |
 | Travel Sickness | 383628 | [383628-travel-sickness.json](./383628-travel-sickness.json) |
 | Travel the Countries | 154358 | [154358-travel-the-countries.json](./154358-travel-the-countries.json) |
+| Travel the Words | 205736 | [205736-travel-the-words.json](./205736-travel-the-words.json) |
 | Travel to Australia | 293160 | [293160-travel-to-australia.json](./293160-travel-to-australia.json) |
 | Travel to Brazil | 337584 | [337584-travel-to-brazil.json](./337584-travel-to-brazil.json) |
 | Travel to Canada | 315043 | [315043-travel-to-canada.json](./315043-travel-to-canada.json) |
