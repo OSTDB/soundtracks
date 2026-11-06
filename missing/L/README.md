@@ -1220,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Chick | 131827 | [131827-last-chick.json](./131827-last-chick.json) |
 | Last Chickenburg | 121447 | [121447-last-chickenburg.json](./121447-last-chickenburg.json) |
 | Last Christmas | 220542 | [220542-last-christmas.json](./220542-last-christmas.json) |
+| Last Colossus | 198014 | [198014-last-colossus.json](./198014-last-colossus.json) |
 | Last Command | 148673 | [148673-last-command.json](./148673-last-command.json) |
 | Last Command: B-Side | 376749 | [376749-last-command-b-side.json](./376749-last-command-b-side.json) |
 | Last Command: Extra Mode Pack | 263287 | [263287-last-command-extra-mode-pack.json](./263287-last-command-extra-mode-pack.json) |
