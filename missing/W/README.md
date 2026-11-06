@@ -2668,6 +2668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way on Where | 195740 | [195740-way-on-where.json](./195740-way-on-where.json) |
 | Way Out | 277702 | [277702-way-out.json](./277702-way-out.json) |
 | Way Out | 84080 | [84080-way-out.json](./84080-way-out.json) |
+| Way to a Vampire's Heart | 223845 | [223845-way-to-a-vampires-heart.json](./223845-way-to-a-vampires-heart.json) |
 | Way To Fall | 282247 | [282247-way-to-fall.json](./282247-way-to-fall.json) |
 | Way to Go! Bowling | 205893 | [205893-way-to-go-bowling.json](./205893-way-to-go-bowling.json) |
 | Way to the Light | 267786 | [267786-way-to-the-light.json](./267786-way-to-the-light.json) |
