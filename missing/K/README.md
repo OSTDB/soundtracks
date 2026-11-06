@@ -815,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kao the Kangaroo: A Well Good Bundle | 221695 | [221695-kao-the-kangaroo-a-well-good-bundle.json](./221695-kao-the-kangaroo-a-well-good-bundle.json) |
 | Kao the Kangaroo: Anniversary Edition | 248239 | [248239-kao-the-kangaroo-anniversary-edition.json](./248239-kao-the-kangaroo-anniversary-edition.json) |
 | Kao the Kangaroo: Bend the Roo'les | 247577 | [247577-kao-the-kangaroo-bend-the-rooles.json](./247577-kao-the-kangaroo-bend-the-rooles.json) |
+| Kao the Kangaroo: Kaollector Edition | 203514 | [203514-kao-the-kangaroo-kaollector-edition.json](./203514-kao-the-kangaroo-kaollector-edition.json) |
 | Kao the Kangaroo: Oh! Well | 221642 | [221642-kao-the-kangaroo-oh-well.json](./221642-kao-the-kangaroo-oh-well.json) |
 | Kao the Kangaroo: Round 2 | 3962 | [3962-kao-the-kangaroo-round-2.json](./3962-kao-the-kangaroo-round-2.json) |
 | Kao the Kangaroo: Summer Drip | 255089 | [255089-kao-the-kangaroo-summer-drip.json](./255089-kao-the-kangaroo-summer-drip.json) |
