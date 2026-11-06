@@ -5499,6 +5499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MatchMe: My Secret Crush | 299338 | [299338-matchme-my-secret-crush.json](./299338-matchme-my-secret-crush.json) |
 | Matchmension: House of Mist | 197915 | [197915-matchmension-house-of-mist.json](./197915-matchmension-house-of-mist.json) |
 | MatchMVP | 114651 | [114651-matchmvp.json](./114651-matchmvp.json) |
+| Matcho | 196906 | [196906-matcho.json](./196906-matcho.json) |
 | MatchOolu | 320525 | [320525-matchoolu.json](./320525-matchoolu.json) |
 | Matchpoint: Tennis Championships - Legends DLC | 227316 | [227316-matchpoint-tennis-championships-legends-dlc.json](./227316-matchpoint-tennis-championships-legends-dlc.json) |
 | Matchpoint: Tennis Championships - Legends Edition | 199628 | [199628-matchpoint-tennis-championships-legends-edition.json](./199628-matchpoint-tennis-championships-legends-edition.json) |
@@ -5778,6 +5779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maui The Shapeshifter | 314425 | [314425-maui-the-shapeshifter.json](./314425-maui-the-shapeshifter.json) |
 | Maui Wowie Cart | 105742 | [105742-maui-wowie-cart.json](./105742-maui-wowie-cart.json) |
 | Maui Wowie Smash Up | 105743 | [105743-maui-wowie-smash-up.json](./105743-maui-wowie-smash-up.json) |
+| Mauled | 196942 | [196942-mauled.json](./196942-mauled.json) |
 | Mauled | 239681 | [239681-mauled.json](./239681-mauled.json) |
 | Maumau and the Labyrinth | 330860 | [330860-maumau-and-the-labyrinth.json](./330860-maumau-and-the-labyrinth.json) |
 | Mauri Mursu's Hangover | 224609 | [224609-mauri-mursus-hangover.json](./224609-mauri-mursus-hangover.json) |
@@ -7183,6 +7185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet Bub: Bub to Eigo Tanken | 327596 | [327596-meet-bub-bub-to-eigo-tanken.json](./327596-meet-bub-bub-to-eigo-tanken.json) |
 | Meet Cute: A Sweet New Chapter | 337681 | [337681-meet-cute-a-sweet-new-chapter.json](./337681-meet-cute-a-sweet-new-chapter.json) |
 | Meet Cute: Cafe | 190701 | [190701-meet-cute-cafe.json](./190701-meet-cute-cafe.json) |
+| Meet Cute: Delivery | 196908 | [196908-meet-cute-delivery.json](./196908-meet-cute-delivery.json) |
 | Meet Cute: Dice and Destiny | 337683 | [337683-meet-cute-dice-and-destiny.json](./337683-meet-cute-dice-and-destiny.json) |
 | Meet Cute: Falling for You | 337682 | [337682-meet-cute-falling-for-you.json](./337682-meet-cute-falling-for-you.json) |
 | Meet Cute: Finding Love | 337680 | [337680-meet-cute-finding-love.json](./337680-meet-cute-finding-love.json) |
