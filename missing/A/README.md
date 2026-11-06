@@ -1361,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Train Mystery | 299682 | [299682-a-train-mystery.json](./299682-a-train-mystery.json) |
 | A Trans Man's Grindr DMs | 282106 | [282106-a-trans-mans-grindr-dms.json](./282106-a-trans-mans-grindr-dms.json) |
 | A Transitional Eve | 397044 | [397044-a-transitional-eve.json](./397044-a-transitional-eve.json) |
+| A Traveler to Unknown Thule | 237726 | [237726-a-traveler-to-unknown-thule.json](./237726-a-traveler-to-unknown-thule.json) |
 | A Traveler's Photo Album | 155301 | [155301-a-travelers-photo-album.json](./155301-a-travelers-photo-album.json) |
 | A Treat and Some Tricks | 312852 | [312852-a-treat-and-some-tricks.json](./312852-a-treat-and-some-tricks.json) |
 | A Trench Tale | 301461 | [301461-a-trench-tale.json](./301461-a-trench-tale.json) |
@@ -5056,6 +5057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI: Art Impostor | 219980 | [219980-ai-art-impostor.json](./219980-ai-art-impostor.json) |
 | AI: Rampage | 33611 | [33611-ai-rampage.json](./33611-ai-rampage.json) |
 | AI: The Somnium Files | 104971 | [104971-ai-the-somnium-files.json](./104971-ai-the-somnium-files.json) |
+| AI: The Somnium Files - Double Pack | 237754 | [237754-ai-the-somnium-files-double-pack.json](./237754-ai-the-somnium-files-double-pack.json) |
 | AI: The Somnium Files - Limited Edition | 136219 | [136219-ai-the-somnium-files-limited-edition.json](./136219-ai-the-somnium-files-limited-edition.json) |
 | AI: The Somnium Files - Nirvana Initiative | 153808 | [153808-ai-the-somnium-files-nirvana-initiative.json](./153808-ai-the-somnium-files-nirvana-initiative.json) |
 | AI.Cybercraft | 254031 | [254031-ai-cybercraft.json](./254031-ai-cybercraft.json) |
