@@ -5346,6 +5346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Defender | 379164 | [379164-air-defender.json](./379164-air-defender.json) |
 | Air Defenders | 219981 | [219981-air-defenders.json](./219981-air-defenders.json) |
 | Air Delivery | 285591 | [285591-air-delivery.json](./285591-air-delivery.json) |
+| Air Dip | 198004 | [198004-air-dip.json](./198004-air-dip.json) |
 | Air Drop | 318369 | [318369-air-drop.json](./318369-air-drop.json) |
 | Air Duel | 10445 | [10445-air-duel.json](./10445-air-duel.json) |
 | Air Duel: 80 Years of Dogfighting | 72528 | [72528-air-duel-80-years-of-dogfighting.json](./72528-air-duel-80-years-of-dogfighting.json) |
@@ -14298,6 +14299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrow Point | 108726 | [108726-arrow-point.json](./108726-arrow-point.json) |
 | Arrow Rain | 351122 | [351122-arrow-rain.json](./351122-arrow-rain.json) |
 | Arrow Snake | 135874 | [135874-arrow-snake.json](./135874-arrow-snake.json) |
+| Arrow Spam | 197986 | [197986-arrow-spam.json](./197986-arrow-spam.json) |
 | Arrow Survival: 15 Seconds | 372080 | [372080-arrow-survival-15-seconds.json](./372080-arrow-survival-15-seconds.json) |
 | Arrow Tap Puzzle | 416380 | [416380-arrow-tap-puzzle.json](./416380-arrow-tap-puzzle.json) |
 | Arrow Time U | 84768 | [84768-arrow-time-u.json](./84768-arrow-time-u.json) |
