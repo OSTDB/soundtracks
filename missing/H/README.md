@@ -4585,6 +4585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hells Bend on Wounded Knee | 248679 | [248679-hells-bend-on-wounded-knee.json](./248679-hells-bend-on-wounded-knee.json) |
 | Hells Divide | 121359 | [121359-hells-divide.json](./121359-hells-divide.json) |
 | Hells Gate | 182683 | [182683-hells-gate.json](./182683-hells-gate.json) |
+| Hellscape | 196915 | [196915-hellscape.json](./196915-hellscape.json) |
 | HellScape: Two Brothers | 128196 | [128196-hellscape-two-brothers.json](./128196-hellscape-two-brothers.json) |
 | Hellscaper | 394647 | [394647-hellscaper.json](./394647-hellscaper.json) |
 | Hellscreen | 89557 | [89557-hellscreen.json](./89557-hellscreen.json) |
@@ -8703,6 +8704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole in One Golf | 49924 | [49924-hole-in-one-golf.json](./49924-hole-in-one-golf.json) |
 | Hole in One Professional | 41795 | [41795-hole-in-one-professional.json](./41795-hole-in-one-professional.json) |
 | Hole in One Special | 41793 | [41793-hole-in-one-special.json](./41793-hole-in-one-special.json) |
+| Hole in the Clouds | 196904 | [196904-hole-in-the-clouds.json](./196904-hole-in-the-clouds.json) |
 | Hole in the Wall | 20119 | [20119-hole-in-the-wall.json](./20119-hole-in-the-wall.json) |
 | Hole in Won | 235909 | [235909-hole-in-won.json](./235909-hole-in-won.json) |
 | Hole io | 263553 | [263553-hole-io.json](./263553-hole-io.json) |
@@ -10070,6 +10072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Girl Puzzle | 112702 | [112702-horror-girl-puzzle.json](./112702-horror-girl-puzzle.json) |
 | Horror Girls | 382287 | [382287-horror-girls.json](./382287-horror-girls.json) |
 | Horror Golf | 423871 | [423871-horror-golf.json](./423871-horror-golf.json) |
+| Horror haze | 196936 | [196936-horror-haze.json](./196936-horror-haze.json) |
 | Horror High | 321289 | [321289-horror-high.json](./321289-horror-high.json) |
 | Horror Hospital | 29915 | [29915-horror-hospital.json](./29915-horror-hospital.json) |
 | Horror Hospital 2: Survival | 294536 | [294536-horror-hospital-2-survival.json](./294536-horror-hospital-2-survival.json) |
