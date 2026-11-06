@@ -2486,6 +2486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Capybara Happy | 335248 | [335248-make-capybara-happy.json](./335248-make-capybara-happy.json) |
 | Make Colors | 108724 | [108724-make-colors.json](./108724-make-colors.json) |
 | Make Dogs in Temple Jump 2020 | 257875 | [257875-make-dogs-in-temple-jump-2020.json](./257875-make-dogs-in-temple-jump-2020.json) |
+| Make Four With Mario | 231660 | [231660-make-four-with-mario.json](./231660-make-four-with-mario.json) |
 | Make Friends | 381118 | [381118-make-friends.json](./381118-make-friends.json) |
 | Make Haste! | 141771 | [141771-make-haste.json](./141771-make-haste.json) |
 | Make Her Real | 414407 | [414407-make-her-real.json](./414407-make-her-real.json) |
@@ -4128,6 +4129,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Early Years! Preschool Fun | 42500 | [42500-marios-early-years-preschool-fun.json](./42500-marios-early-years-preschool-fun.json) |
 | Mario's Egg | 318861 | [318861-marios-egg.json](./318861-marios-egg.json) |
 | Mario's Face | 175970 | [175970-marios-face.json](./175970-marios-face.json) |
+| Mario's Festive Jigsaw Jumble | 231659 | [231659-marios-festive-jigsaw-jumble.json](./231659-marios-festive-jigsaw-jumble.json) |
+| Mario's Festive Mix-up! | 231658 | [231658-marios-festive-mix-up.json](./231658-marios-festive-mix-up.json) |
 | Mario's Final Adventure Wii | 294772 | [294772-marios-final-adventure-wii.json](./294772-marios-final-adventure-wii.json) |
 | Mario's Final Adventure Wii Returns | 336105 | [336105-marios-final-adventure-wii-returns.json](./336105-marios-final-adventure-wii-returns.json) |
 | Mario's Game Gallery | 21624 | [21624-marios-game-gallery.json](./21624-marios-game-gallery.json) |
@@ -8958,6 +8961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mèngyá | 118031 | [118031-mengya.json](./118031-mengya.json) |
 | Menhera & Troll | 344713 | [344713-menhera-and-troll.json](./344713-menhera-and-troll.json) |
 | Menhera Farm | 360321 | [360321-menhera-farm.json](./360321-menhera-farm.json) |
+| Menhera Girls Ensemble: Needy Girlfriends | 231680 | [231680-menhera-girls-ensemble-needy-girlfriends.json](./231680-menhera-girls-ensemble-needy-girlfriends.json) |
 | Menhera Kanojo to Boku: Uwaki shitara Jinsei Shuuryou yo | 208936 | [208936-menhera-kanojo-to-boku-uwaki-shitara-jinsei-shuuryou-yo.json](./208936-menhera-kanojo-to-boku-uwaki-shitara-jinsei-shuuryou-yo.json) |
 | Menhera Ota-hime Circle: Needy Princess Nerd Club | 305286 | [305286-menhera-ota-hime-circle-needy-princess-nerd-club.json](./305286-menhera-ota-hime-circle-needy-princess-nerd-club.json) |
 | MenheRafflesia | 131584 | [131584-menherafflesia.json](./131584-menherafflesia.json) |
@@ -10067,6 +10071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid | 1101 | [1101-metroid.json](./1101-metroid.json) |
 | Metroid | 342602 | [342602-metroid.json](./342602-metroid.json) |
 | Metroid + Saving | 297703 | [297703-metroid-saving.json](./297703-metroid-saving.json) |
+| Metroid Blue | 231712 | [231712-metroid-blue.json](./231712-metroid-blue.json) |
 | Metroid Confrontation 2: Return to SR388 | 274984 | [274984-metroid-confrontation-2-return-to-sr388.json](./274984-metroid-confrontation-2-return-to-sr388.json) |
 | Metroid Defense | 323283 | [323283-metroid-defense.json](./323283-metroid-defense.json) |
 | Metroid Doom | 324011 | [324011-metroid-doom.json](./324011-metroid-doom.json) |
@@ -11733,6 +11738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millions of Billions of Suns | 398630 | [398630-millions-of-billions-of-suns.json](./398630-millions-of-billions-of-suns.json) |
 | Millions of Minions | 128203 | [128203-millions-of-minions.json](./128203-millions-of-minions.json) |
 | Millipede | 198820 | [198820-millipede.json](./198820-millipede.json) |
+| Millipede | 231670 | [231670-millipede.json](./231670-millipede.json) |
 | Millipede | 239135 | [239135-millipede.json](./239135-millipede.json) |
 | Millipede | 239487 | [239487-millipede.json](./239487-millipede.json) |
 | Millipede / Super Breakout / Lunar Lander | 78289 | [78289-millipede-super-breakout-lunar-lander.json](./78289-millipede-super-breakout-lunar-lander.json) |
