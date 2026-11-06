@@ -4812,6 +4812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caught On Camera | 284801 | [284801-caught-on-camera.json](./284801-caught-on-camera.json) |
 | Caught You Looking | 417271 | [417271-caught-you-looking.json](./417271-caught-you-looking.json) |
 | Cauldron | 13468 | [13468-cauldron.json](./13468-cauldron.json) |
+| Cauldron | 200235 | [200235-cauldron.json](./200235-cauldron.json) |
 | Cauldron | 284802 | [284802-cauldron.json](./284802-cauldron.json) |
 | Cauldron Caution | 309653 | [309653-cauldron-caution.json](./309653-cauldron-caution.json) |
 | Cauldron Chaos | 360333 | [360333-cauldron-chaos.json](./360333-cauldron-chaos.json) |
@@ -5680,6 +5681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chalk River | 322857 | [322857-chalk-river.json](./322857-chalk-river.json) |
 | Chalk Up! | 175184 | [175184-chalk-up.json](./175184-chalk-up.json) |
 | Chalkboard | 183279 | [183279-chalkboard.json](./183279-chalkboard.json) |
+| Chalkboard Pinball | 200243 | [200243-chalkboard-pinball.json](./200243-chalkboard-pinball.json) |
 | Chalkboard Sports Baseball | 80123 | [80123-chalkboard-sports-baseball.json](./80123-chalkboard-sports-baseball.json) |
 | Chalkboard Stunts | 63208 | [63208-chalkboard-stunts.json](./63208-chalkboard-stunts.json) |
 | Chalked | 90906 | [90906-chalked.json](./90906-chalked.json) |
@@ -8975,6 +8977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circular Defense | 284964 | [284964-circular-defense.json](./284964-circular-defense.json) |
 | Circular Fever | 284972 | [284972-circular-fever.json](./284972-circular-fever.json) |
 | Circular Logic Games | 264702 | [264702-circular-logic-games.json](./264702-circular-logic-games.json) |
+| Circulario | 200228 | [200228-circulario.json](./200228-circulario.json) |
 | Circularity | 56423 | [56423-circularity.json](./56423-circularity.json) |
 | Circulate | 52508 | [52508-circulate.json](./52508-circulate.json) |
 | Circulation | 295083 | [295083-circulation.json](./295083-circulation.json) |
@@ -9242,6 +9245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Blocks | 108037 | [108037-city-blocks.json](./108037-city-blocks.json) |
 | City Blocks | 183269 | [183269-city-blocks.json](./183269-city-blocks.json) |
 | City Bomber | 39304 | [39304-city-bomber.json](./39304-city-bomber.json) |
+| City Bucks | 200220 | [200220-city-bucks.json](./200220-city-bucks.json) |
 | City Builder | 101595 | [101595-city-builder.json](./101595-city-builder.json) |
 | City Builder | 51045 | [51045-city-builder.json](./51045-city-builder.json) |
 | City Builder 2016: County Mall | 219964 | [219964-city-builder-2016-county-mall.json](./219964-city-builder-2016-county-mall.json) |
@@ -18421,6 +18425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crush the Castle Players Pack | 399453 | [399453-crush-the-castle-players-pack.json](./399453-crush-the-castle-players-pack.json) |
 | Crush the Castle TD | 399451 | [399451-crush-the-castle-td.json](./399451-crush-the-castle-td.json) |
 | Crush the Industry | 158700 | [158700-crush-the-industry.json](./158700-crush-the-industry.json) |
+| Crush the Jelly | 200253 | [200253-crush-the-jelly.json](./200253-crush-the-jelly.json) |
 | Crush the Monsters: Cannon Game | 232398 | [232398-crush-the-monsters-cannon-game.json](./232398-crush-the-monsters-cannon-game.json) |
 | Crush the Numbers | 106269 | [106269-crush-the-numbers.json](./106269-crush-the-numbers.json) |
 | Crush the Rebellion! | 373136 | [373136-crush-the-rebellion.json](./373136-crush-the-rebellion.json) |
