@@ -2301,6 +2301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barback Blues: A Valhalla Story - Uttoushiki Hibi | 182777 | [182777-barback-blues-a-valhalla-story-uttoushiki-hibi.json](./182777-barback-blues-a-valhalla-story-uttoushiki-hibi.json) |
 | Barball | 401466 | [401466-barball.json](./401466-barball.json) |
 | Barbar Bar | 36828 | [36828-barbar-bar.json](./36828-barbar-bar.json) |
+| Barbara vs. Zombies | 232232 | [232232-barbara-vs-zombies.json](./232232-barbara-vs-zombies.json) |
 | Barbara-ian | 35006 | [35006-barbara-ian.json](./35006-barbara-ian.json) |
 | Barbarian | 206238 | [206238-barbarian.json](./206238-barbarian.json) |
 | Barbarian | 217448 | [217448-barbarian.json](./217448-barbarian.json) |
@@ -8725,6 +8726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitzee Magicals | 340221 | [340221-bitzee-magicals.json](./340221-bitzee-magicals.json) |
 | Bitzy | 183770 | [183770-bitzy.json](./183770-bitzy.json) |
 | BiuBiu Jungle | 118209 | [118209-biubiu-jungle.json](./118209-biubiu-jungle.json) |
+| Bivoj | 232263 | [232263-bivoj.json](./232263-bivoj.json) |
 | Biwar: Legend of Dragon Slayer | 204713 | [204713-biwar-legend-of-dragon-slayer.json](./204713-biwar-legend-of-dragon-slayer.json) |
 | Biz Builder Delux | 147773 | [147773-biz-builder-delux.json](./147773-biz-builder-delux.json) |
 | Biz Taiken Series: Kigyoudou | 59393 | [59393-biz-taiken-series-kigyoudou.json](./59393-biz-taiken-series-kigyoudou.json) |
@@ -9235,6 +9237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack Simulator 2025 | 359000 | [359000-blackjack-simulator-2025.json](./359000-blackjack-simulator-2025.json) |
 | Blackjack story | 180119 | [180119-blackjack-story.json](./180119-blackjack-story.json) |
 | Blackjack Tavern | 325071 | [325071-blackjack-tavern.json](./325071-blackjack-tavern.json) |
+| Blackjack Thunder | 232276 | [232276-blackjack-thunder.json](./232276-blackjack-thunder.json) |
 | Blackjack vs. Bunny Girls | 286076 | [286076-blackjack-vs-bunny-girls.json](./286076-blackjack-vs-bunny-girls.json) |
 | BlackJack Waifu Tour | 249576 | [249576-blackjack-waifu-tour.json](./249576-blackjack-waifu-tour.json) |
 | Blackjack Wars | 372984 | [372984-blackjack-wars.json](./372984-blackjack-wars.json) |
@@ -14116,6 +14119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing Wrestle | 277704 | [277704-boxing-wrestle.json](./277704-boxing-wrestle.json) |
 | Boxlife | 36262 | [36262-boxlife.json](./36262-boxlife.json) |
 | BoxLoop | 207542 | [207542-boxloop.json](./207542-boxloop.json) |
+| BoxLoop 2 | 232240 | [232240-boxloop-2.json](./232240-boxloop-2.json) |
 | BoxMaker | 52078 | [52078-boxmaker.json](./52078-boxmaker.json) |
 | Boxman | 267860 | [267860-boxman.json](./267860-boxman.json) |
 | Boxman Adventures | 203896 | [203896-boxman-adventures.json](./203896-boxman-adventures.json) |
@@ -14655,6 +14659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravely Second: End Layer - Deluxe Collector's Edition | 47664 | [47664-bravely-second-end-layer-deluxe-collectors-edition.json](./47664-bravely-second-end-layer-deluxe-collectors-edition.json) |
 | Bravely Second: The Ballad of the Three Cavaliers | 242899 | [242899-bravely-second-the-ballad-of-the-three-cavaliers.json](./242899-bravely-second-the-ballad-of-the-three-cavaliers.json) |
 | BraveMatch | 145965 | [145965-bravematch.json](./145965-bravematch.json) |
+| BraveNine Story | 232251 | [232251-bravenine-story.json](./232251-bravenine-story.json) |
 | BraverBots | 233032 | [233032-braverbots.json](./233032-braverbots.json) |
 | Bravers | 158915 | [158915-bravers.json](./158915-bravers.json) |
 | Bravery | 211141 | [211141-bravery.json](./211141-bravery.json) |
