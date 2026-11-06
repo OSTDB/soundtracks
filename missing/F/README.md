@@ -656,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Carrots | 276838 | [276838-fairy-carrots.json](./276838-fairy-carrots.json) |
 | Fairy Comedy: A Love Hard To Find | 275527 | [275527-fairy-comedy-a-love-hard-to-find.json](./275527-fairy-comedy-a-love-hard-to-find.json) |
 | Fairy Cubes | 207978 | [207978-fairy-cubes.json](./207978-fairy-cubes.json) |
+| Fairy Deer | 196400 | [196400-fairy-deer.json](./196400-fairy-deer.json) |
 | Fairy Elements | 214643 | [214643-fairy-elements.json](./214643-fairy-elements.json) |
 | Fairy Escape | 99632 | [99632-fairy-escape.json](./99632-fairy-escape.json) |
 | Fairy Fencer F | 9893 | [9893-fairy-fencer-f.json](./9893-fairy-fencer-f.json) |
@@ -7153,6 +7154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fix My Legs Doc | 215573 | [215573-fix-my-legs-doc.json](./215573-fix-my-legs-doc.json) |
 | Fix My Truck: Offroad Pickup | 104670 | [104670-fix-my-truck-offroad-pickup.json](./104670-fix-my-truck-offroad-pickup.json) |
 | Fix Race | 90187 | [90187-fix-race.json](./90187-fix-race.json) |
+| Fix the Item! | 196347 | [196347-fix-the-item.json](./196347-fix-the-item.json) |
 | Fix the Lab! | 265929 | [265929-fix-the-lab.json](./265929-fix-the-lab.json) |
 | Fix the Leaks | 253258 | [253258-fix-the-leaks.json](./253258-fix-the-leaks.json) |
 | Fix the Robot! | 306290 | [306290-fix-the-robot.json](./306290-fix-the-robot.json) |
