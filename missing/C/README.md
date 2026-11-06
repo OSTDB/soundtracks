@@ -4098,6 +4098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Needs | 244768 | [244768-cat-needs.json](./244768-cat-needs.json) |
 | Cat Nightmares: The Key | 315800 | [315800-cat-nightmares-the-key.json](./315800-cat-nightmares-the-key.json) |
 | Cat Ninja: The Quest for Magic Energy Crystals | 74706 | [74706-cat-ninja-the-quest-for-magic-energy-crystals.json](./74706-cat-ninja-the-quest-for-magic-energy-crystals.json) |
+| Cat Nips | 197459 | [197459-cat-nips.json](./197459-cat-nips.json) |
 | Cat No Wash! | 234484 | [234484-cat-no-wash.json](./234484-cat-no-wash.json) |
 | Cat Notebook | 114264 | [114264-cat-notebook.json](./114264-cat-notebook.json) |
 | Cat of Khronos | 182356 | [182356-cat-of-khronos.json](./182356-cat-of-khronos.json) |
@@ -6162,6 +6163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chapas GP | 270383 | [270383-chapas-gp.json](./270383-chapas-gp.json) |
 | Chapatriste | 307622 | [307622-chapatriste.json](./307622-chapatriste.json) |
 | Chapeau | 117169 | [117169-chapeau.json](./117169-chapeau.json) |
+| Chapel 3-D: The Ascent | 197469 | [197469-chapel-3-d-the-ascent.json](./197469-chapel-3-d-the-ascent.json) |
 | Chaperone | 276220 | [276220-chaperone.json](./276220-chaperone.json) |
 | Chapolim & Super Sam: a lenda dos super heróis | 252902 | [252902-chapolim-and-super-sam-a-lenda-dos-super-herois.json](./252902-chapolim-and-super-sam-a-lenda-dos-super-herois.json) |
 | Chapolim x Drácula: Um Duelo Assustador | 85983 | [85983-chapolim-x-dracula-um-duelo-assustador.json](./85983-chapolim-x-dracula-um-duelo-assustador.json) |
@@ -16518,6 +16520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crawling Angels | 374864 | [374864-crawling-angels.json](./374864-crawling-angels.json) |
 | Crawling Lab | 297101 | [297101-crawling-lab.json](./297101-crawling-lab.json) |
 | Crawling of the Dead | 121353 | [121353-crawling-of-the-dead.json](./121353-crawling-of-the-dead.json) |
+| Crawling Silence | 197453 | [197453-crawling-silence.json](./197453-crawling-silence.json) |
 | Crawlspace | 179208 | [179208-crawlspace.json](./179208-crawlspace.json) |
 | Crawlspace | 252728 | [252728-crawlspace.json](./252728-crawlspace.json) |
 | Crawlspace 2 | 231850 | [231850-crawlspace-2.json](./231850-crawlspace-2.json) |
