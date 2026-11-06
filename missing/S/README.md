@@ -671,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saiminjutsu o Tameshitara Onaji Mansion no Bakunyuu Hitozuma ga Ore no Mono ni Natta | 59195 | [59195-saiminjutsu-o-tameshitara-onaji-mansion-no-bakunyuu-hitozuma-ga-ore-no-mono-ni-natta.json](./59195-saiminjutsu-o-tameshitara-onaji-mansion-no-bakunyuu-hitozuma-ga-ore-no-mono-ni-natta.json) |
 | Saint | 94739 | [94739-saint.json](./94739-saint.json) |
 | Saint & Sinner | 332478 | [332478-saint-and-sinner.json](./332478-saint-and-sinner.json) |
+| Saint Ceri | 236596 | [236596-saint-ceri.json](./236596-saint-ceri.json) |
 | Saint Dragon | 12207 | [12207-saint-dragon.json](./12207-saint-dragon.json) |
 | Saint Emiliana | 132743 | [132743-saint-emiliana.json](./132743-saint-emiliana.json) |
 | Saint Estella Gakuin no Shichi-nin no Majo | 77937 | [77937-saint-estella-gakuin-no-shichi-nin-no-majo.json](./77937-saint-estella-gakuin-no-shichi-nin-no-majo.json) |
@@ -1150,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sam the Olympic Eagle: Rings | 349452 | [349452-sam-the-olympic-eagle-rings.json](./349452-sam-the-olympic-eagle-rings.json) |
 | Sam the Olympic Eagle: Torch | 349451 | [349451-sam-the-olympic-eagle-torch.json](./349451-sam-the-olympic-eagle-torch.json) |
 | Sam's Journey | 116801 | [116801-sams-journey.json](./116801-sams-journey.json) |
+| Sam's Last Nightmare | 236607 | [236607-sams-last-nightmare.json](./236607-sams-last-nightmare.json) |
 | Samabake! Scramble | 318056 | [318056-samabake-scramble.json](./318056-samabake-scramble.json) |
 | Samael | 117568 | [117568-samael.json](./117568-samael.json) |
 | Samael: The Legacy of Ophiuchus | 218718 | [218718-samael-the-legacy-of-ophiuchus.json](./218718-samael-the-legacy-of-ophiuchus.json) |
@@ -2940,6 +2942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scholar of the Arcane Arts | 188615 | [188615-scholar-of-the-arcane-arts.json](./188615-scholar-of-the-arcane-arts.json) |
 | Scholar of the First Sin Ascended Mod | 194759 | [194759-scholar-of-the-first-sin-ascended-mod.json](./194759-scholar-of-the-first-sin-ascended-mod.json) |
 | Scholar Quest | 175612 | [175612-scholar-quest.json](./175612-scholar-quest.json) |
+| Scholar's Mate | 236595 | [236595-scholars-mate.json](./236595-scholars-mate.json) |
 | Scholastic Animal Genius | 91744 | [91744-scholastic-animal-genius.json](./91744-scholastic-animal-genius.json) |
 | Scholastic Brain Play: Preschool - 1st Grade | 167276 | [167276-scholastic-brain-play-preschool-1st-grade.json](./167276-scholastic-brain-play-preschool-1st-grade.json) |
 | School 666 | 293488 | [293488-school-666.json](./293488-school-666.json) |
@@ -6271,6 +6274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Simulator: The Beach House | 247607 | [247607-sex-simulator-the-beach-house.json](./247607-sex-simulator-the-beach-house.json) |
 | Sex Simulator: The Cabin | 237282 | [237282-sex-simulator-the-cabin.json](./237282-sex-simulator-the-cabin.json) |
 | Sex Simulator: The Private Jet | 243330 | [243330-sex-simulator-the-private-jet.json](./243330-sex-simulator-the-private-jet.json) |
+| Sex Simulator: The Yacht | 236638 | [236638-sex-simulator-the-yacht.json](./236638-sex-simulator-the-yacht.json) |
 | Sex Simulator: Vampires | 276612 | [276612-sex-simulator-vampires.json](./276612-sex-simulator-vampires.json) |
 | Sex Simulator: Yoga Class | 257884 | [257884-sex-simulator-yoga-class.json](./257884-sex-simulator-yoga-class.json) |
 | Sex Simulator: Yoga Girls | 259949 | [259949-sex-simulator-yoga-girls.json](./259949-sex-simulator-yoga-girls.json) |
@@ -19420,7 +19424,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -27468,6 +27471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stratum Descent | 279015 | [279015-stratum-descent.json](./279015-stratum-descent.json) |
 | Stratus: Battle for the Sky | 35609 | [35609-stratus-battle-for-the-sky.json](./35609-stratus-battle-for-the-sky.json) |
 | Stravaeger | 424024 | [424024-stravaeger.json](./424024-stravaeger.json) |
+| Straw Hat Samurai | 236616 | [236616-straw-hat-samurai.json](./236616-straw-hat-samurai.json) |
 | Straw Hat Samurai: Duels | 101931 | [101931-straw-hat-samurai-duels.json](./101931-straw-hat-samurai-duels.json) |
 | Straw Path | 416675 | [416675-straw-path.json](./416675-straw-path.json) |
 | Strawberry | 339658 | [339658-strawberry.json](./339658-strawberry.json) |
@@ -29267,6 +29271,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Style | 148419 | [148419-sugar-style.json](./148419-sugar-style.json) |
 | Sugar Style: Complete Edition | 141892 | [141892-sugar-style-complete-edition.json](./141892-sugar-style-complete-edition.json) |
 | Sugar Sugar Rune: Heart Ga Ippai! Moegi Gakuen | 49811 | [49811-sugar-sugar-rune-heart-ga-ippai-moegi-gakuen.json](./49811-sugar-sugar-rune-heart-ga-ippai-moegi-gakuen.json) |
+| Sugar Sugar Rune: Koimo Osharemo Pick Up! | 236628 | [236628-sugar-sugar-rune-koimo-osharemo-pick-up.json](./236628-sugar-sugar-rune-koimo-osharemo-pick-up.json) |
+| Sugar Sugar Rune: Queen Shiken wa Dai Panic | 236633 | [236633-sugar-sugar-rune-queen-shiken-wa-dai-panic.json](./236633-sugar-sugar-rune-queen-shiken-wa-dai-panic.json) |
 | Sugar Sweet Temptation | 246774 | [246774-sugar-sweet-temptation.json](./246774-sugar-sweet-temptation.json) |
 | Sugar Tanks | 235434 | [235434-sugar-tanks.json](./235434-sugar-tanks.json) |
 | Sugar Tanks 2 | 290966 | [290966-sugar-tanks-2.json](./290966-sugar-tanks-2.json) |
@@ -30102,6 +30108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super 3D Maze 16 | 325983 | [325983-super-3d-maze-16.json](./325983-super-3d-maze-16.json) |
 | Super 3D Table Tennis | 147072 | [147072-super-3d-table-tennis.json](./147072-super-3d-table-tennis.json) |
 | Super 4 in 1 Multicart | 79511 | [79511-super-4-in-1-multicart.json](./79511-super-4-in-1-multicart.json) |
+| Super 56 | 236642 | [236642-super-56.json](./236642-super-56.json) |
 | Super 8 Football | 267552 | [267552-super-8-football.json](./267552-super-8-football.json) |
 | Super 80s World | 116013 | [116013-super-80s-world.json](./116013-super-80s-world.json) |
 | Super ACiD Block Attack | 82459 | [82459-super-acid-block-attack.json](./82459-super-acid-block-attack.json) |
