@@ -1757,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle Dreams: Tranquil Pack | 226859 | [226859-jigsaw-puzzle-dreams-tranquil-pack.json](./226859-jigsaw-puzzle-dreams-tranquil-pack.json) |
 | Jigsaw Puzzle DS: DS de Meguru Sekai Isan no Tabi | 269785 | [269785-jigsaw-puzzle-ds-ds-de-meguru-sekai-isan-no-tabi.json](./269785-jigsaw-puzzle-ds-ds-de-meguru-sekai-isan-no-tabi.json) |
 | Jigsaw Puzzle Express | 68547 | [68547-jigsaw-puzzle-express.json](./68547-jigsaw-puzzle-express.json) |
+| Jigsaw Puzzle Fever | 244045 | [244045-jigsaw-puzzle-fever.json](./244045-jigsaw-puzzle-fever.json) |
 | Jigsaw Puzzle Lovers | 235594 | [235594-jigsaw-puzzle-lovers.json](./235594-jigsaw-puzzle-lovers.json) |
 | Jigsaw Puzzle Nature | 272755 | [272755-jigsaw-puzzle-nature.json](./272755-jigsaw-puzzle-nature.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Aliens | 263223 | [263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json](./263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json) |
@@ -2746,6 +2747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to Kreisia | 68977 | [68977-journey-to-kreisia.json](./68977-journey-to-kreisia.json) |
 | Journey to Luonto | 75943 | [75943-journey-to-luonto.json](./75943-journey-to-luonto.json) |
 | Journey to Moonray | 158049 | [158049-journey-to-moonray.json](./158049-journey-to-moonray.json) |
+| Journey to Natsai | 244033 | [244033-journey-to-natsai.json](./244033-journey-to-natsai.json) |
 | Journey to New Atlantis | 127678 | [127678-journey-to-new-atlantis.json](./127678-journey-to-new-atlantis.json) |
 | Journey To Paradise | 411361 | [411361-journey-to-paradise.json](./411361-journey-to-paradise.json) |
 | Journey to Planet Earth | 128950 | [128950-journey-to-planet-earth.json](./128950-journey-to-planet-earth.json) |
@@ -3639,6 +3641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junk: The Legend of Junichi Kato | 164235 | [164235-junk-the-legend-of-junichi-kato.json](./164235-junk-the-legend-of-junichi-kato.json) |
 | Junk! | 345637 | [345637-junk.json](./345637-junk.json) |
 | Junkbot | 226067 | [226067-junkbot.json](./226067-junkbot.json) |
+| Junkbot Undercover | 244005 | [244005-junkbot-undercover.json](./244005-junkbot-undercover.json) |
 | Junkcity Factory Simulator | 326397 | [326397-junkcity-factory-simulator.json](./326397-junkcity-factory-simulator.json) |
 | Junkfood | 261958 | [261958-junkfood.json](./261958-junkfood.json) |
 | Junkfood 2: Summertime Slotter | 296185 | [296185-junkfood-2-summertime-slotter.json](./296185-junkfood-2-summertime-slotter.json) |
