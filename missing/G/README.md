@@ -4585,6 +4585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GiseiHero | 149096 | [149096-giseihero.json](./149096-giseihero.json) |
 | Giselle | 249703 | [249703-giselle.json](./249703-giselle.json) |
 | Gish | 8384 | [8384-gish.json](./8384-gish.json) |
+| Gish Reloaded | 227086 | [227086-gish-reloaded.json](./227086-gish-reloaded.json) |
 | Gish: The Mobile Game | 227031 | [227031-gish-the-mobile-game.json](./227031-gish-the-mobile-game.json) |
 | Gisselle's Adventure | 335737 | [335737-gisselles-adventure.json](./335737-gisselles-adventure.json) |
 | Git (Game Involving Triangles) | 295964 | [295964-git-game-involving-triangles.json](./295964-git-game-involving-triangles.json) |
@@ -7352,6 +7353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotham Knights: Heroic Assault | 281430 | [281430-gotham-knights-heroic-assault.json](./281430-gotham-knights-heroic-assault.json) |
 | Gotham Knights: Heroic Assault: The Kelvin Incident | 281563 | [281563-gotham-knights-heroic-assault-the-kelvin-incident.json](./281563-gotham-knights-heroic-assault-the-kelvin-incident.json) |
 | Gotham Knights: Special Edition | 324765 | [324765-gotham-knights-special-edition.json](./324765-gotham-knights-special-edition.json) |
+| Gotham Knights: Visionary Pack | 227103 | [227103-gotham-knights-visionary-pack.json](./227103-gotham-knights-visionary-pack.json) |
 | Gothams Industrial District | 273116 | [273116-gothams-industrial-district.json](./273116-gothams-industrial-district.json) |
 | Gothel | 259039 | [259039-gothel.json](./259039-gothel.json) |
 | Gothic 1 Remake | 148227 | [148227-gothic-1-remake.json](./148227-gothic-1-remake.json) |
