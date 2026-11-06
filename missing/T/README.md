@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T^2.5 | 169731 | [169731-t-2-5.json](./169731-t-2-5.json) |
 | T10X Car Simulator | 256718 | [256718-t10x-car-simulator.json](./256718-t10x-car-simulator.json) |
 | T1wre3: Noname | 329161 | [329161-t1wre3-noname.json](./329161-t1wre3-noname.json) |
+| T2: The Arcade Game | 242314 | [242314-t2-the-arcade-game.json](./242314-t2-the-arcade-game.json) |
 | T2048 | 304335 | [304335-t2048.json](./304335-t2048.json) |
 | T2SD | 131461 | [131461-t2sd.json](./131461-t2sd.json) |
 | T3 - Take the Turn | 109728 | [109728-t3-take-the-turn.json](./109728-t3-take-the-turn.json) |
@@ -5684,6 +5685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Ball | 159555 | [159555-the-amazing-ball.json](./159555-the-amazing-ball.json) |
 | The Amazing Bernard | 96657 | [96657-the-amazing-bernard.json](./96657-the-amazing-bernard.json) |
 | The Amazing Brain Train! | 21379 | [21379-the-amazing-brain-train.json](./21379-the-amazing-brain-train.json) |
+| The Amazing Circus | 242296 | [242296-the-amazing-circus.json](./242296-the-amazing-circus.json) |
 | The Amazing Crackpots Club! | 265282 | [265282-the-amazing-crackpots-club.json](./265282-the-amazing-crackpots-club.json) |
 | The Amazing Dare Dozen | 241471 | [241471-the-amazing-dare-dozen.json](./241471-the-amazing-dare-dozen.json) |
 | The Amazing Digital Circus Visual Novel: Candy Chaos | 364875 | [364875-the-amazing-digital-circus-visual-novel-candy-chaos.json](./364875-the-amazing-digital-circus-visual-novel-candy-chaos.json) |
@@ -20603,6 +20605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ticket to Ride: Nordic Countries | 154471 | [154471-ticket-to-ride-nordic-countries.json](./154471-ticket-to-ride-nordic-countries.json) |
 | Ticket to Ride: Nordic Expansion | 298025 | [298025-ticket-to-ride-nordic-expansion.json](./298025-ticket-to-ride-nordic-expansion.json) |
 | Ticket to Ride: Pennsylvania | 154468 | [154468-ticket-to-ride-pennsylvania.json](./154468-ticket-to-ride-pennsylvania.json) |
+| Ticket to Ride: Poland | 242331 | [242331-ticket-to-ride-poland.json](./242331-ticket-to-ride-poland.json) |
 | Ticket to Ride: Round the World Ticket | 276594 | [276594-ticket-to-ride-round-the-world-ticket.json](./276594-ticket-to-ride-round-the-world-ticket.json) |
 | Ticket to Ride: Switzerland | 53800 | [53800-ticket-to-ride-switzerland.json](./53800-ticket-to-ride-switzerland.json) |
 | Ticket to Ride: United Kingdom | 154469 | [154469-ticket-to-ride-united-kingdom.json](./154469-ticket-to-ride-united-kingdom.json) |
@@ -25892,6 +25895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TouchMaster DS | 21442 | [21442-touchmaster-ds.json](./21442-touchmaster-ds.json) |
 | TouchNothing | 305643 | [305643-touchnothing.json](./305643-touchnothing.json) |
 | TouchSports Tennis 2012 HD | 233744 | [233744-touchsports-tennis-2012-hd.json](./233744-touchsports-tennis-2012-hd.json) |
+| Touchstarved | 242298 | [242298-touchstarved.json](./242298-touchstarved.json) |
 | Touchtone | 15550 | [15550-touchtone.json](./15550-touchtone.json) |
 | Toufra | 262948 | [262948-toufra.json](./262948-toufra.json) |
 | Touge Challenge | 161344 | [161344-touge-challenge.json](./161344-touge-challenge.json) |
@@ -26489,6 +26493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Madness | 200275 | [200275-tower-madness.json](./200275-tower-madness.json) |
 | Tower Madness 2 | 88457 | [88457-tower-madness-2.json](./88457-tower-madness-2.json) |
 | Tower Math | 200307 | [200307-tower-math.json](./200307-tower-math.json) |
+| Tower Maze | 242295 | [242295-tower-maze.json](./242295-tower-maze.json) |
 | Tower Miners | 55790 | [55790-tower-miners.json](./55790-tower-miners.json) |
 | Tower Monster Rush | 309504 | [309504-tower-monster-rush.json](./309504-tower-monster-rush.json) |
 | Tower Networking Inc. | 310040 | [310040-tower-networking-inc.json](./310040-tower-networking-inc.json) |
@@ -30043,6 +30048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trial By Magic | 376809 | [376809-trial-by-magic.json](./376809-trial-by-magic.json) |
 | Trial by Teng: A Twilight Path Adventure | 118258 | [118258-trial-by-teng-a-twilight-path-adventure.json](./118258-trial-by-teng-a-twilight-path-adventure.json) |
 | Trial of Ariah | 372469 | [372469-trial-of-ariah.json](./372469-trial-of-ariah.json) |
+| Trial of Fours | 242329 | [242329-trial-of-fours.json](./242329-trial-of-fours.json) |
 | Trial of Greed | 353971 | [353971-trial-of-greed.json](./353971-trial-of-greed.json) |
 | Trial of Greed VR | 410861 | [410861-trial-of-greed-vr.json](./410861-trial-of-greed-vr.json) |
 | Trial of Sacrifice | 306418 | [306418-trial-of-sacrifice.json](./306418-trial-of-sacrifice.json) |
