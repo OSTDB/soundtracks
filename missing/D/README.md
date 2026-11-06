@@ -7903,6 +7903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Exia | 396741 | [396741-deus-exia.json](./396741-deus-exia.json) |
 | Deus Lo Veult | 146677 | [146677-deus-lo-veult.json](./146677-deus-lo-veult.json) |
 | Deus Machina Demonbane | 97094 | [97094-deus-machina-demonbane.json](./97094-deus-machina-demonbane.json) |
+| Deus Novum | 211495 | [211495-deus-novum.json](./211495-deus-novum.json) |
 | Deus Proxy | 291536 | [291536-deus-proxy.json](./291536-deus-proxy.json) |
 | Deus Vult | 139763 | [139763-deus-vult.json](./139763-deus-vult.json) |
 | Deus Vult | 38783 | [38783-deus-vult.json](./38783-deus-vult.json) |
@@ -8413,6 +8414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Rush | 261986 | [261986-diamond-rush.json](./261986-diamond-rush.json) |
 | Diamond Rush | 61842 | [61842-diamond-rush.json](./61842-diamond-rush.json) |
 | Diamond Skee-Ball | 209611 | [209611-diamond-skee-ball.json](./209611-diamond-skee-ball.json) |
+| Diamond Skeeball | 211496 | [211496-diamond-skeeball.json](./211496-diamond-skeeball.json) |
 | Diamond Stacks | 89624 | [89624-diamond-stacks.json](./89624-diamond-stacks.json) |
 | Diamond Star Adventure | 378294 | [378294-diamond-star-adventure.json](./378294-diamond-star-adventure.json) |
 | Diamond Sword, Wooden Sword | 321300 | [321300-diamond-sword-wooden-sword.json](./321300-diamond-sword-wooden-sword.json) |
@@ -8498,6 +8500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Eater | 329454 | [329454-dice-eater.json](./329454-dice-eater.json) |
 | Dice Fantasy | 242705 | [242705-dice-fantasy.json](./242705-dice-fantasy.json) |
 | Dice Fight | 232368 | [232368-dice-fight.json](./232368-dice-fight.json) |
+| Dice Gambit | 211497 | [211497-dice-gambit.json](./211497-dice-gambit.json) |
 | Dice Game | 226179 | [226179-dice-game.json](./226179-dice-game.json) |
 | Dice Goblin's Den | 392118 | [392118-dice-goblins-den.json](./392118-dice-goblins-den.json) |
 | Dice Goblins Clicker | 392864 | [392864-dice-goblins-clicker.json](./392864-dice-goblins-clicker.json) |
@@ -8660,6 +8663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dictator | 78955 | [78955-dictator.json](./78955-dictator.json) |
 | Dictator Simulator: Gradnar | 374789 | [374789-dictator-simulator-gradnar.json](./374789-dictator-simulator-gradnar.json) |
 | Dictator-chan island | 227139 | [227139-dictator-chan-island.json](./227139-dictator-chan-island.json) |
+| Dictator: Glory Fatherland | 211498 | [211498-dictator-glory-fatherland.json](./211498-dictator-glory-fatherland.json) |
 | Dictator: Rule the World | 104558 | [104558-dictator-rule-the-world.json](./104558-dictator-rule-the-world.json) |
 | Dictator's Creed | 212749 | [212749-dictators-creed.json](./212749-dictators-creed.json) |
 | Dictators:No Peace Countryballs | 129040 | [129040-dictators-no-peace-countryballs.json](./129040-dictators-no-peace-countryballs.json) |
@@ -9263,6 +9267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dima Rescues Ira | 75157 | [75157-dima-rescues-ira.json](./75157-dima-rescues-ira.json) |
 | Dimachaerus | 301248 | [301248-dimachaerus.json](./301248-dimachaerus.json) |
 | Dimahoo | 38527 | [38527-dimahoo.json](./38527-dimahoo.json) |
+| Dimakerus | 211499 | [211499-dimakerus.json](./211499-dimakerus.json) |
 | DimCom | 289184 | [289184-dimcom.json](./289184-dimcom.json) |
 | Dimday Red | 214389 | [214389-dimday-red.json](./214389-dimday-red.json) |
 | Dime City | 94565 | [94565-dime-city.json](./94565-dime-city.json) |
@@ -9308,6 +9313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimensional Dexterity | 252179 | [252179-dimensional-dexterity.json](./252179-dimensional-dexterity.json) |
 | Dimensional Dilemma | 330506 | [330506-dimensional-dilemma.json](./330506-dimensional-dilemma.json) |
 | Dimensional Double Shift | 317856 | [317856-dimensional-double-shift.json](./317856-dimensional-double-shift.json) |
+| Dimensional Drift | 211500 | [211500-dimensional-drift.json](./211500-dimensional-drift.json) |
 | Dimensional Fighter Epsilon3 | 62593 | [62593-dimensional-fighter-epsilon3.json](./62593-dimensional-fighter-epsilon3.json) |
 | Dimensional Fold | 360862 | [360862-dimensional-fold.json](./360862-dimensional-fold.json) |
 | Dimensional Gates | 373496 | [373496-dimensional-gates.json](./373496-dimensional-gates.json) |
@@ -9783,6 +9789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dire Wolf Game Room | 153133 | [153133-dire-wolf-game-room.json](./153133-dire-wolf-game-room.json) |
 | Dire: Flesh and Phobia | 278916 | [278916-dire-flesh-and-phobia.json](./278916-dire-flesh-and-phobia.json) |
 | Direct | 70706 | [70706-direct.json](./70706-direct.json) |
+| Direct Contact | 211504 | [211504-direct-contact.json](./211504-direct-contact.json) |
 | Direct Drive | 151992 | [151992-direct-drive.json](./151992-direct-drive.json) |
 | Direct Hit: Missile War | 17671 | [17671-direct-hit-missile-war.json](./17671-direct-hit-missile-war.json) |
 | Direct-X | 292146 | [292146-direct-x.json](./292146-direct-x.json) |
@@ -9986,6 +9993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Golf City | 350805 | [350805-disc-golf-city.json](./350805-disc-golf-city.json) |
 | Disc Golf Game | 89834 | [89834-disc-golf-game.json](./89834-disc-golf-game.json) |
 | Disc Golf Masters | 338053 | [338053-disc-golf-masters.json](./338053-disc-golf-masters.json) |
+| Disc Golf Online | 211503 | [211503-disc-golf-online.json](./211503-disc-golf-online.json) |
 | Disc Golf Rival | 221377 | [221377-disc-golf-rival.json](./221377-disc-golf-rival.json) |
 | Disc Golf to Go | 175399 | [175399-disc-golf-to-go.json](./175399-disc-golf-to-go.json) |
 | Disc Golf Valley | 146108 | [146108-disc-golf-valley.json](./146108-disc-golf-valley.json) |
@@ -10163,6 +10171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disengage the Simulator | 271536 | [271536-disengage-the-simulator.json](./271536-disengage-the-simulator.json) |
 | disfact Game Pack 1 | 405533 | [405533-disfact-game-pack-1.json](./405533-disfact-game-pack-1.json) |
 | disfact Game Pack 2 | 405543 | [405543-disfact-game-pack-2.json](./405543-disfact-game-pack-2.json) |
+| Disfigure | 211502 | [211502-disfigure.json](./211502-disfigure.json) |
 | Disgaea 1 Complete: Limited Edition | 201055 | [201055-disgaea-1-complete-limited-edition.json](./201055-disgaea-1-complete-limited-edition.json) |
 | Disgaea 2 PC | 32294 | [32294-disgaea-2-pc.json](./32294-disgaea-2-pc.json) |
 | Disgaea 2: Cursed Memories | 11694 | [11694-disgaea-2-cursed-memories.json](./11694-disgaea-2-cursed-memories.json) |
@@ -10843,6 +10852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dive Expedition: Complete Edition | 385197 | [385197-dive-expedition-complete-edition.json](./385197-dive-expedition-complete-edition.json) |
 | Dive Expedition: Plane Wreck DLC | 378971 | [378971-dive-expedition-plane-wreck-dlc.json](./378971-dive-expedition-plane-wreck-dlc.json) |
 | Dive Expedition: Sunken Ship DLC | 378970 | [378970-dive-expedition-sunken-ship-dlc.json](./378970-dive-expedition-sunken-ship-dlc.json) |
+| Dive Hard Dave | 211501 | [211501-dive-hard-dave.json](./211501-dive-hard-dave.json) |
 | Dive in the Past | 199911 | [199911-dive-in-the-past.json](./199911-dive-in-the-past.json) |
 | Dive Into The Survival | 340555 | [340555-dive-into-the-survival.json](./340555-dive-into-the-survival.json) |
 | Dive On | 264069 | [264069-dive-on.json](./264069-dive-on.json) |
@@ -18997,6 +19007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dyana Moto | 74671 | [74671-dyana-moto.json](./74671-dyana-moto.json) |
 | Dyatlov Canyon | 264393 | [264393-dyatlov-canyon.json](./264393-dyatlov-canyon.json) |
 | Dye | 27288 | [27288-dye.json](./27288-dye.json) |
+| Dye Hard | 211512 | [211512-dye-hard.json](./211512-dye-hard.json) |
 | Dye the Bunny | 245979 | [245979-dye-the-bunny.json](./245979-dye-the-bunny.json) |
 | Dye The Bunny 2 | 290826 | [290826-dye-the-bunny-2.json](./290826-dye-the-bunny-2.json) |
 | Dyebreaker | 349389 | [349389-dyebreaker.json](./349389-dyebreaker.json) |
@@ -19287,6 +19298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dystopian Drift | 125664 | [125664-dystopian-drift.json](./125664-dystopian-drift.json) |
 | Dystopian Nights | 119610 | [119610-dystopian-nights.json](./119610-dystopian-nights.json) |
 | Dystopian Pet Simulator | 389824 | [389824-dystopian-pet-simulator.json](./389824-dystopian-pet-simulator.json) |
+| Dystopians | 211511 | [211511-dystopians.json](./211511-dystopians.json) |
 | Dystopicon | 163134 | [163134-dystopicon.json](./163134-dystopicon.json) |
 | Dystopy | 30748 | [30748-dystopy.json](./30748-dystopy.json) |
 | Dystoria | 27387 | [27387-dystoria.json](./27387-dystoria.json) |
