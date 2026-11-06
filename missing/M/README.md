@@ -2040,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Xiāoxiāolè | 117683 | [117683-mahjong-xiaoxiaole.json](./117683-mahjong-xiaoxiaole.json) |
 | Mahjong Yin And Yang | 251356 | [251356-mahjong-yin-and-yang.json](./251356-mahjong-yin-and-yang.json) |
 | Mahjong: Dream C Club | 47431 | [47431-mahjong-dream-c-club.json](./47431-mahjong-dream-c-club.json) |
+| Mahjong: Legacy of the Toltecs | 238805 | [238805-mahjong-legacy-of-the-toltecs.json](./238805-mahjong-legacy-of-the-toltecs.json) |
 | Mahjong: Magic Casual Puzzle | 200461 | [200461-mahjong-magic-casual-puzzle.json](./200461-mahjong-magic-casual-puzzle.json) |
 | Mahjong: Magic Chips | 119619 | [119619-mahjong-magic-chips.json](./119619-mahjong-magic-chips.json) |
 | MahJong: Medieval Fantasy | 171511 | [171511-mahjong-medieval-fantasy.json](./171511-mahjong-medieval-fantasy.json) |
@@ -5857,7 +5858,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -19086,6 +19086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Is Game Over: Deal Killer | 255750 | [255750-murder-is-game-over-deal-killer.json](./255750-murder-is-game-over-deal-killer.json) |
 | Murder Is Game Over: Final Fright | 413217 | [413217-murder-is-game-over-final-fright.json](./413217-murder-is-game-over-final-fright.json) |
 | Murder Is Game Over: Murder Otaku | 338721 | [338721-murder-is-game-over-murder-otaku.json](./338721-murder-is-game-over-murder-otaku.json) |
+| Murder Is Game Over: Streaming Death | 238815 | [238815-murder-is-game-over-streaming-death.json](./238815-murder-is-game-over-streaming-death.json) |
 | Murder Is Game Over: The Blackinton Curse | 318208 | [318208-murder-is-game-over-the-blackinton-curse.json](./318208-murder-is-game-over-the-blackinton-curse.json) |
 | Murder Machine Mini | 115345 | [115345-murder-machine-mini.json](./115345-murder-machine-mini.json) |
 | Murder Makes Strange Deadfellows | 73320 | [73320-murder-makes-strange-deadfellows.json](./73320-murder-makes-strange-deadfellows.json) |
