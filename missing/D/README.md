@@ -616,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damion Shard: Ace Attorney | 302643 | [302643-damion-shard-ace-attorney.json](./302643-damion-shard-ace-attorney.json) |
 | Dämmerlicht | 29547 | [29547-dammerlicht.json](./29547-dammerlicht.json) |
 | Damn | 55616 | [55616-damn.json](./55616-damn.json) |
+| Damn Birds | 236626 | [236626-damn-birds.json](./236626-damn-birds.json) |
 | Damn Daniel Challenge | 332768 | [332768-damn-daniel-challenge.json](./332768-damn-daniel-challenge.json) |
 | Damn Daniel: Basket Game | 252818 | [252818-damn-daniel-basket-game.json](./252818-damn-daniel-basket-game.json) |
 | Damn Daniel: White Vans Adventure | 201236 | [201236-damn-daniel-white-vans-adventure.json](./201236-damn-daniel-white-vans-adventure.json) |
@@ -2752,6 +2753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Griseo | 236336 | [236336-dawn-of-griseo.json](./236336-dawn-of-griseo.json) |
 | Dawn of H'btakh | 46476 | [46476-dawn-of-hbtakh.json](./46476-dawn-of-hbtakh.json) |
 | Dawn of H'btakh: Get Lost and Die | 58487 | [58487-dawn-of-hbtakh-get-lost-and-die.json](./58487-dawn-of-hbtakh-get-lost-and-die.json) |
+| Dawn of Hell | 236604 | [236604-dawn-of-hell.json](./236604-dawn-of-hell.json) |
 | Dawn of Heroes | 19721 | [19721-dawn-of-heroes.json](./19721-dawn-of-heroes.json) |
 | Dawn of Hope: Thunder Daughter | 103870 | [103870-dawn-of-hope-thunder-daughter.json](./103870-dawn-of-hope-thunder-daughter.json) |
 | Dawn of Horror | 405800 | [405800-dawn-of-horror.json](./405800-dawn-of-horror.json) |
@@ -6257,6 +6259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition | 308335 | [308335-demolition.json](./308335-demolition.json) |
 | Demolition | 88709 | [88709-demolition.json](./88709-demolition.json) |
 | Demolition Ball | 102930 | [102930-demolition-ball.json](./102930-demolition-ball.json) |
+| Demolition City | 236609 | [236609-demolition-city.json](./236609-demolition-city.json) |
 | Demolition Company | 3175 | [3175-demolition-company.json](./3175-demolition-company.json) |
 | Demolition Company | 344435 | [344435-demolition-company.json](./344435-demolition-company.json) |
 | Demolition Company: Gold Edition | 23397 | [23397-demolition-company-gold-edition.json](./23397-demolition-company-gold-edition.json) |
@@ -9136,6 +9139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Paint: Paintball 2 | 67950 | [67950-digital-paint-paintball-2.json](./67950-digital-paint-paintball-2.json) |
 | Digital Paintball Redux | 117785 | [117785-digital-paintball-redux.json](./117785-digital-paintball-redux.json) |
 | Digital Partner | 37515 | [37515-digital-partner.json](./37515-digital-partner.json) |
+| Digital Pierrot Museum | 236593 | [236593-digital-pierrot-museum.json](./236593-digital-pierrot-museum.json) |
 | Digital Pinball: Last Gladiators | 19737 | [19737-digital-pinball-last-gladiators.json](./19737-digital-pinball-last-gladiators.json) |
 | Digital Pinball: Necronomicon | 45453 | [45453-digital-pinball-necronomicon.json](./45453-digital-pinball-necronomicon.json) |
 | Digital Processing | 400284 | [400284-digital-processing.json](./400284-digital-processing.json) |
@@ -11306,6 +11310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who Infinity: The Lady of the Lake | 164451 | [164451-doctor-who-infinity-the-lady-of-the-lake.json](./164451-doctor-who-infinity-the-lady-of-the-lake.json) |
 | Doctor Who Infinity: The Silent Streets of Barry Island | 164450 | [164450-doctor-who-infinity-the-silent-streets-of-barry-island.json](./164450-doctor-who-infinity-the-silent-streets-of-barry-island.json) |
 | Doctor Who Monster Invasion: Escape the Silence | 263532 | [263532-doctor-who-monster-invasion-escape-the-silence.json](./263532-doctor-who-monster-invasion-escape-the-silence.json) |
+| Doctor Who Trumps | 236635 | [236635-doctor-who-trumps.json](./236635-doctor-who-trumps.json) |
 | Doctor Who: An Unlikely Heist | 245024 | [245024-doctor-who-an-unlikely-heist.json](./245024-doctor-who-an-unlikely-heist.json) |
 | Doctor Who: Art Attack | 249279 | [249279-doctor-who-art-attack.json](./249279-doctor-who-art-attack.json) |
 | Doctor Who: Attack of the Graske | 234849 | [234849-doctor-who-attack-of-the-graske.json](./234849-doctor-who-attack-of-the-graske.json) |
@@ -19004,6 +19009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamite 100 | 66951 | [66951-dynamite-100.json](./66951-dynamite-100.json) |
 | Dynamite Alex | 31343 | [31343-dynamite-alex.json](./31343-dynamite-alex.json) |
 | Dynamite Baseball Naomi | 58424 | [58424-dynamite-baseball-naomi.json](./58424-dynamite-baseball-naomi.json) |
+| Dynamite Blast | 236630 | [236630-dynamite-blast.json](./236630-dynamite-blast.json) |
 | Dynamite Blue | 416795 | [416795-dynamite-blue.json](./416795-dynamite-blue.json) |
 | Dynamite Bomber | 266879 | [266879-dynamite-bomber.json](./266879-dynamite-bomber.json) |
 | Dynamite Cop | 36737 | [36737-dynamite-cop.json](./36737-dynamite-cop.json) |
