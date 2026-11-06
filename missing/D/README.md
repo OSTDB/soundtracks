@@ -16866,6 +16866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dropper | 135551 | [135551-dropper.json](./135551-dropper.json) |
 | Drops of God: Creating your Ambrosia | 291378 | [291378-drops-of-god-creating-your-ambrosia.json](./291378-drops-of-god-creating-your-ambrosia.json) |
 | DROPSHIP | 93925 | [93925-dropship.json](./93925-dropship.json) |
+| Dropship Commander | 225446 | [225446-dropship-commander.json](./225446-dropship-commander.json) |
 | Dropship: United Peace Force | 332159 | [332159-dropship-united-peace-force.json](./332159-dropship-united-peace-force.json) |
 | Dropship: United Peace Force | 44723 | [44723-dropship-united-peace-force.json](./44723-dropship-united-peace-force.json) |
 | Dropshipping Simulator | 155993 | [155993-dropshipping-simulator.json](./155993-dropshipping-simulator.json) |
