@@ -3158,6 +3158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | geoDefence Swarm | 23254 | [23254-geodefence-swarm.json](./23254-geodefence-swarm.json) |
 | geoDefense | 90909 | [90909-geodefense.json](./90909-geodefense.json) |
 | GeoDefense Swarm | 41499 | [41499-geodefense-swarm.json](./41499-geodefense-swarm.json) |
+| GeoDepths | 231161 | [231161-geodepths.json](./231161-geodepths.json) |
 | Geodessey | 111753 | [111753-geodessey.json](./111753-geodessey.json) |
 | GeoDiscover | 220809 | [220809-geodiscover.json](./220809-geodiscover.json) |
 | Geodyssey | 356017 | [356017-geodyssey.json](./356017-geodyssey.json) |
@@ -5221,6 +5222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glyph Chess | 384226 | [384226-glyph-chess.json](./384226-glyph-chess.json) |
 | Glyph Dentaku | 184833 | [184833-glyph-dentaku.json](./184833-glyph-dentaku.json) |
 | Glyph Gambit: Endgame | 398047 | [398047-glyph-gambit-endgame.json](./398047-glyph-gambit-endgame.json) |
+| Glyph Guesser | 231162 | [231162-glyph-guesser.json](./231162-glyph-guesser.json) |
 | Glyph VR | 151534 | [151534-glyph-vr.json](./151534-glyph-vr.json) |
 | Glyph-Bound: Kotodama | 211653 | [211653-glyph-bound-kotodama.json](./211653-glyph-bound-kotodama.json) |
 | Glypha III | 70919 | [70919-glypha-iii.json](./70919-glypha-iii.json) |
@@ -6940,6 +6942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Night, Rowan | 178564 | [178564-good-night-rowan.json](./178564-good-night-rowan.json) |
 | Good Pizza, Great Pizza: Bewitched Garden Set - Halloween 2022 | 272751 | [272751-good-pizza-great-pizza-bewitched-garden-set-halloween-2022.json](./272751-good-pizza-great-pizza-bewitched-garden-set-halloween-2022.json) |
 | Good Pizza, Great Pizza: Countryside Charm Set - Autumn 2022 | 276563 | [276563-good-pizza-great-pizza-countryside-charm-set-autumn-2022.json](./276563-good-pizza-great-pizza-countryside-charm-set-autumn-2022.json) |
+| Good Pizza, Great Pizza: Cyber Pizzeria Set | 231163 | [231163-good-pizza-great-pizza-cyber-pizzeria-set.json](./231163-good-pizza-great-pizza-cyber-pizzeria-set.json) |
 | Good Pizza, Great Pizza: Floral Nostalgia Set | 249302 | [249302-good-pizza-great-pizza-floral-nostalgia-set.json](./249302-good-pizza-great-pizza-floral-nostalgia-set.json) |
 | Good Pizza, Great Pizza: Mysterious Antiques Set - Halloween 2022 | 272752 | [272752-good-pizza-great-pizza-mysterious-antiques-set-halloween-2022.json](./272752-good-pizza-great-pizza-mysterious-antiques-set-halloween-2022.json) |
 | Good Pizza, Great Pizza: Orchid Dreams Set | 249303 | [249303-good-pizza-great-pizza-orchid-dreams-set.json](./249303-good-pizza-great-pizza-orchid-dreams-set.json) |
