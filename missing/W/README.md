@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wald-Guard | 413652 | [413652-wald-guard.json](./413652-wald-guard.json) |
 | Walden Horde | 159746 | [159746-walden-horde.json](./159746-walden-horde.json) |
 | Walden, a game | 103845 | [103845-walden-a-game.json](./103845-walden-a-game.json) |
+| Waldenses: In Search of Truth | 244558 | [244558-waldenses-in-search-of-truth.json](./244558-waldenses-in-search-of-truth.json) |
 | Waldo: In the Heart of the City | 381285 | [381285-waldo-in-the-heart-of-the-city.json](./381285-waldo-in-the-heart-of-the-city.json) |
 | Waldorf's Journey | 318474 | [318474-waldorfs-journey.json](./318474-waldorfs-journey.json) |
 | Waldsterben | 271332 | [271332-waldsterben.json](./271332-waldsterben.json) |
@@ -2266,6 +2267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watamelon's Adventure | 182731 | [182731-watamelons-adventure.json](./182731-watamelons-adventure.json) |
 | WatanOS | 208572 | [208572-watanos.json](./208572-watanos.json) |
 | Wataoma Extra | 97668 | [97668-wataoma-extra.json](./97668-wataoma-extra.json) |
+| Watarcade | 244546 | [244546-watarcade.json](./244546-watarcade.json) |
 | Wataru no Pinball | 284451 | [284451-wataru-no-pinball.json](./284451-wataru-no-pinball.json) |
 | Watashi Dake Ireba Mondainai Yo Ne | 222066 | [222066-watashi-dake-ireba-mondainai-yo-ne.json](./222066-watashi-dake-ireba-mondainai-yo-ne.json) |
 | Watashi ga Sekai wo Sukutta Hi | 408584 | [408584-watashi-ga-sekai-wo-sukutta-hi.json](./408584-watashi-ga-sekai-wo-sukutta-hi.json) |
