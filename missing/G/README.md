@@ -4292,6 +4292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginga Denshou: Galaxy Odyssey | 41301 | [41301-ginga-denshou-galaxy-odyssey.json](./41301-ginga-denshou-galaxy-odyssey.json) |
 | Ginga Eiyuu Densetsu | 48502 | [48502-ginga-eiyuu-densetsu.json](./48502-ginga-eiyuu-densetsu.json) |
 | Ginga Eiyuu Densetsu | 71896 | [71896-ginga-eiyuu-densetsu.json](./71896-ginga-eiyuu-densetsu.json) |
+| Ginga Eiyuu Densetsu II | 242338 | [242338-ginga-eiyuu-densetsu-ii.json](./242338-ginga-eiyuu-densetsu-ii.json) |
 | Ginga Eiyuu Densetsu III | 400830 | [400830-ginga-eiyuu-densetsu-iii.json](./400830-ginga-eiyuu-densetsu-iii.json) |
 | Ginga Eiyuu Densetsu III SP | 400831 | [400831-ginga-eiyuu-densetsu-iii-sp.json](./400831-ginga-eiyuu-densetsu-iii-sp.json) |
 | Ginga Eiyuu Densetsu: Senjutsu Simulation | 80806 | [80806-ginga-eiyuu-densetsu-senjutsu-simulation.json](./80806-ginga-eiyuu-densetsu-senjutsu-simulation.json) |
