@@ -6181,6 +6181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return of the Demons | 386337 | [386337-return-of-the-demons.json](./386337-return-of-the-demons.json) |
 | Return of the Dinosaurs | 147214 | [147214-return-of-the-dinosaurs.json](./147214-return-of-the-dinosaurs.json) |
 | Return of the Heir | 147674 | [147674-return-of-the-heir.json](./147674-return-of-the-heir.json) |
+| Return of the Host | 244576 | [244576-return-of-the-host.json](./244576-return-of-the-host.json) |
 | Return of the Invaders | 40072 | [40072-return-of-the-invaders.json](./40072-return-of-the-invaders.json) |
 | Return of the Mutant Camels | 40961 | [40961-return-of-the-mutant-camels.json](./40961-return-of-the-mutant-camels.json) |
 | Return of the Mutant Space Bats of Doom | 79514 | [79514-return-of-the-mutant-space-bats-of-doom.json](./79514-return-of-the-mutant-space-bats-of-doom.json) |
