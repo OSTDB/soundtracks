@@ -7565,6 +7565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highland Huntress | 302079 | [302079-highland-huntress.json](./302079-highland-huntress.json) |
 | Highland Panic | 248077 | [248077-highland-panic.json](./248077-highland-panic.json) |
 | Highland Solitaire | 209908 | [209908-highland-solitaire.json](./209908-highland-solitaire.json) |
+| Highland Spirit | 229453 | [229453-highland-spirit.json](./229453-highland-spirit.json) |
 | Highland Warriors | 9356 | [9356-highland-warriors.json](./9356-highland-warriors.json) |
 | Highlander | 28851 | [28851-highlander.json](./28851-highlander.json) |
 | Highlander: The Game | 120295 | [120295-highlander-the-game.json](./120295-highlander-the-game.json) |
