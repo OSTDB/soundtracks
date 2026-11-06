@@ -1103,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeopardy! Daily | 362068 | [362068-jeopardy-daily.json](./362068-jeopardy-daily.json) |
 | Jeopardy! Deluxe Edition | 198771 | [198771-jeopardy-deluxe-edition.json](./198771-jeopardy-deluxe-edition.json) |
 | Jeopardy! Deluxe Edition | 42512 | [42512-jeopardy-deluxe-edition.json](./42512-jeopardy-deluxe-edition.json) |
+| Jeopardy! Deluxe Edition Cartridge 1 | 205764 | [205764-jeopardy-deluxe-edition-cartridge-1.json](./205764-jeopardy-deluxe-edition-cartridge-1.json) |
 | Jeopardy! Deluxe Edition Cartridge 2 | 198778 | [198778-jeopardy-deluxe-edition-cartridge-2.json](./198778-jeopardy-deluxe-edition-cartridge-2.json) |
 | Jeopardy! New Sports Edition | 79544 | [79544-jeopardy-new-sports-edition.json](./79544-jeopardy-new-sports-edition.json) |
 | Jeopardy! Platinum Edition | 48978 | [48978-jeopardy-platinum-edition.json](./48978-jeopardy-platinum-edition.json) |
