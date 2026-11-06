@@ -10021,6 +10021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleavage | 92421 | [92421-cleavage.json](./92421-cleavage.json) |
 | Cleave | 346181 | [346181-cleave.json](./346181-cleave.json) |
 | Cleave Together: The Dragon King's Treasure | 287017 | [287017-cleave-together-the-dragon-kings-treasure.json](./287017-cleave-together-the-dragon-kings-treasure.json) |
+| Cleaver: Sideshow Circus | 222111 | [222111-cleaver-sideshow-circus.json](./222111-cleaver-sideshow-circus.json) |
 | Cleaving Caliber EX | 362435 | [362435-cleaving-caliber-ex.json](./362435-cleaving-caliber-ex.json) |
 | Cleimos | 260945 | [260945-cleimos.json](./260945-cleimos.json) |
 | Cleimos II | 260946 | [260946-cleimos-ii.json](./260946-cleimos-ii.json) |
@@ -15065,6 +15066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo and Yuuko: A Space Adventure | 178958 | [178958-cosmo-and-yuuko-a-space-adventure.json](./178958-cosmo-and-yuuko-a-space-adventure.json) |
 | Cosmo Angel | 92148 | [92148-cosmo-angel.json](./92148-cosmo-angel.json) |
 | Cosmo Arena | 418412 | [418412-cosmo-arena.json](./418412-cosmo-arena.json) |
+| Cosmo Battle XXX | 222124 | [222124-cosmo-battle-xxx.json](./222124-cosmo-battle-xxx.json) |
 | Cosmo Blaster | 236073 | [236073-cosmo-blaster.json](./236073-cosmo-blaster.json) |
 | Cosmo Cargo | 394499 | [394499-cosmo-cargo.json](./394499-cosmo-cargo.json) |
 | Cosmo Cats | 291360 | [291360-cosmo-cats.json](./291360-cosmo-cats.json) |
