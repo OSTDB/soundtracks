@@ -10851,6 +10851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Warrior: The Rider From Nowhere | 27537 | [27537-gun-warrior-the-rider-from-nowhere.json](./27537-gun-warrior-the-rider-from-nowhere.json) |
 | Gun Witch | 142183 | [142183-gun-witch.json](./142183-gun-witch.json) |
 | Gun X Gunner | 384153 | [384153-gun-x-gunner.json](./384153-gun-x-gunner.json) |
+| Gun Zombie: Halloween | 194054 | [194054-gun-zombie-halloween.json](./194054-gun-zombie-halloween.json) |
 | Gun-A-Gang 360° | 350591 | [350591-gun-a-gang-360.json](./350591-gun-a-gang-360.json) |
 | Gun-Reviper | 164067 | [164067-gun-reviper.json](./164067-gun-reviper.json) |
 | Gun-Running War Dogs | 52774 | [52774-gun-running-war-dogs.json](./52774-gun-running-war-dogs.json) |
