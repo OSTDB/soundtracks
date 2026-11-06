@@ -13772,6 +13772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double S.T.E.A.L.: The Second Clash | 63028 | [63028-double-s-t-e-a-l-the-second-clash.json](./63028-double-s-t-e-a-l-the-second-clash.json) |
 | Double Sequence: The Q-Virus Invasion | 47884 | [47884-double-sequence-the-q-virus-invasion.json](./47884-double-sequence-the-q-virus-invasion.json) |
 | Double Shot | 107857 | [107857-double-shot.json](./107857-double-shot.json) |
+| Double Shot Gals | 196361 | [196361-double-shot-gals.json](./196361-double-shot-gals.json) |
 | Double Shoulders | 338800 | [338800-double-shoulders.json](./338800-double-shoulders.json) |
 | Double sided: TriJam edition | 184425 | [184425-double-sided-trijam-edition.json](./184425-double-sided-trijam-edition.json) |
 | Double Smash Ninja | 246083 | [246083-double-smash-ninja.json](./246083-double-smash-ninja.json) |
