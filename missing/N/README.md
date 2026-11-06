@@ -3647,6 +3647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nexus: Quantum Industries | 414080 | [414080-nexus-quantum-industries.json](./414080-nexus-quantum-industries.json) |
 | Nexus: The Jupiter Incident | 14828 | [14828-nexus-the-jupiter-incident.json](./14828-nexus-the-jupiter-incident.json) |
 | Nexus: The Kingdom of the Winds | 80550 | [80550-nexus-the-kingdom-of-the-winds.json](./80550-nexus-the-kingdom-of-the-winds.json) |
+| Nexus: The Zoraidian Oracle | 202883 | [202883-nexus-the-zoraidian-oracle.json](./202883-nexus-the-zoraidian-oracle.json) |
 | NexusRPG | 416366 | [416366-nexusrpg.json](./416366-nexusrpg.json) |
 | Nexwar | 403168 | [403168-nexwar.json](./403168-nexwar.json) |
 | Nexzr | 42016 | [42016-nexzr.json](./42016-nexzr.json) |
