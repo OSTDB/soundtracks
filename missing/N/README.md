@@ -5313,6 +5313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninjamurai | 44521 | [44521-ninjamurai.json](./44521-ninjamurai.json) |
 | Ninjapple | 129666 | [129666-ninjapple.json](./129666-ninjapple.json) |
 | Ninjara Hoi! | 48407 | [48407-ninjara-hoi.json](./48407-ninjara-hoi.json) |
+| Ninjas Against the Machines | 193018 | [193018-ninjas-against-the-machines.json](./193018-ninjas-against-the-machines.json) |
 | Ninjas Busters: Whack A Ninja | 149712 | [149712-ninjas-busters-whack-a-ninja.json](./149712-ninjas-busters-whack-a-ninja.json) |
 | Ninjas in the Dungeon | 235658 | [235658-ninjas-in-the-dungeon.json](./235658-ninjas-in-the-dungeon.json) |
 | Ninjas Infinity | 339842 | [339842-ninjas-infinity.json](./339842-ninjas-infinity.json) |
