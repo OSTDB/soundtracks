@@ -719,6 +719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampiress: Eternal Duet | 349116 | [349116-vampiress-eternal-duet.json](./349116-vampiress-eternal-duet.json) |
 | Vampireville | 18892 | [18892-vampireville.json](./18892-vampireville.json) |
 | Vampireville: haunted castle adventure | 175295 | [175295-vampireville-haunted-castle-adventure.json](./175295-vampireville-haunted-castle-adventure.json) |
+| Vampiric Crown | 210970 | [210970-vampiric-crown.json](./210970-vampiric-crown.json) |
 | Vampiric Tower | 69853 | [69853-vampiric-tower.json](./69853-vampiric-tower.json) |
 | Vampiric Tower Remix | 236447 | [236447-vampiric-tower-remix.json](./236447-vampiric-tower-remix.json) |
 | Vampirii | 309434 | [309434-vampirii.json](./309434-vampirii.json) |
