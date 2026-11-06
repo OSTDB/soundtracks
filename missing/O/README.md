@@ -1699,6 +1699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Knockout: Punch Boxing | 302115 | [302115-omega-knockout-punch-boxing.json](./302115-omega-knockout-punch-boxing.json) |
 | Omega Labyrinth Life | 109284 | [109284-omega-labyrinth-life.json](./109284-omega-labyrinth-life.json) |
 | Omega Labyrinth Life: Additional Dungeon - Mystic Omega Spot | 238052 | [238052-omega-labyrinth-life-additional-dungeon-mystic-omega-spot.json](./238052-omega-labyrinth-life-additional-dungeon-mystic-omega-spot.json) |
+| Omega Labyrinth Life: Deluxe Edition | 220916 | [220916-omega-labyrinth-life-deluxe-edition.json](./220916-omega-labyrinth-life-deluxe-edition.json) |
 | Omega Labyrinth Z | 27512 | [27512-omega-labyrinth-z.json](./27512-omega-labyrinth-z.json) |
 | Omega Labyrinth Z: Limited Edition | 166184 | [166184-omega-labyrinth-z-limited-edition.json](./166184-omega-labyrinth-z-limited-edition.json) |
 | Omega Landing | 312264 | [312264-omega-landing.json](./312264-omega-landing.json) |
@@ -5682,6 +5683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Override: Mech City Brawl - Maestro | 161790 | [161790-override-mech-city-brawl-maestro.json](./161790-override-mech-city-brawl-maestro.json) |
 | Override: Mech City Brawl - Mirai | 161793 | [161793-override-mech-city-brawl-mirai.json](./161793-override-mech-city-brawl-mirai.json) |
 | Override: Mech City Brawl - Stardust | 161791 | [161791-override-mech-city-brawl-stardust.json](./161791-override-mech-city-brawl-stardust.json) |
+| Override: Mech City Brawl - Super Chared Edition | 220925 | [220925-override-mech-city-brawl-super-chared-edition.json](./220925-override-mech-city-brawl-super-chared-edition.json) |
 | Override: Mech City Brawl - Super Charged Mega Edition | 118568 | [118568-override-mech-city-brawl-super-charged-mega-edition.json](./118568-override-mech-city-brawl-super-charged-mega-edition.json) |
 | Overrider | 236375 | [236375-overrider.json](./236375-overrider.json) |
 | OverRider | 295146 | [295146-overrider.json](./295146-overrider.json) |
@@ -5748,6 +5750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overwatch 2: Pink Mercy Skin | 322629 | [322629-overwatch-2-pink-mercy-skin.json](./322629-overwatch-2-pink-mercy-skin.json) |
 | Overwatch 2: PlayStation Plus Mega Bundle | 316064 | [316064-overwatch-2-playstation-plus-mega-bundle.json](./316064-overwatch-2-playstation-plus-mega-bundle.json) |
 | Overwatch 2: Rose Gold Mercy Bundle | 322628 | [322628-overwatch-2-rose-gold-mercy-bundle.json](./322628-overwatch-2-rose-gold-mercy-bundle.json) |
+| Overwatch 2: Season 1 - Cyberpunk | 220932 | [220932-overwatch-2-season-1-cyberpunk.json](./220932-overwatch-2-season-1-cyberpunk.json) |
 | Overwatch 2: Season 10 - Venture Forth | 294507 | [294507-overwatch-2-season-10-venture-forth.json](./294507-overwatch-2-season-10-venture-forth.json) |
 | Overwatch 2: Season 11 - Super Mega Ultrawatch | 305394 | [305394-overwatch-2-season-11-super-mega-ultrawatch.json](./305394-overwatch-2-season-11-super-mega-ultrawatch.json) |
 | Overwatch 2: Season 13 - Spellbinder | 319357 | [319357-overwatch-2-season-13-spellbinder.json](./319357-overwatch-2-season-13-spellbinder.json) |
