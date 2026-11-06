@@ -583,6 +583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Getaway | 240825 | [240825-galactic-getaway.json](./240825-galactic-getaway.json) |
 | Galactic Gladiators | 186342 | [186342-galactic-gladiators.json](./186342-galactic-gladiators.json) |
 | Galactic Gladiators | 22488 | [22488-galactic-gladiators.json](./22488-galactic-gladiators.json) |
+| Galactic Gladiators | 238822 | [238822-galactic-gladiators.json](./238822-galactic-gladiators.json) |
 | Galactic Gladiators | 5473 | [5473-galactic-gladiators.json](./5473-galactic-gladiators.json) |
 | Galactic Glitch | 250761 | [250761-galactic-glitch.json](./250761-galactic-glitch.json) |
 | Galactic Glitch: Prologue | 211690 | [211690-galactic-glitch-prologue.json](./211690-galactic-glitch-prologue.json) |
@@ -2772,6 +2773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generalskie kotly | 404781 | [404781-generalskie-kotly.json](./404781-generalskie-kotly.json) |
 | Generation Exile | 305182 | [305182-generation-exile.json](./305182-generation-exile.json) |
 | Generation Girl Gotta Groove | 65916 | [65916-generation-girl-gotta-groove.json](./65916-generation-girl-gotta-groove.json) |
+| Generation N: Identity Included | 238812 | [238812-generation-n-identity-included.json](./238812-generation-n-identity-included.json) |
 | Generation Nova | 169802 | [169802-generation-nova.json](./169802-generation-nova.json) |
 | Generation of Chaos | 24274 | [24274-generation-of-chaos.json](./24274-generation-of-chaos.json) |
 | Generation of Chaos Exceed | 3930 | [3930-generation-of-chaos-exceed.json](./3930-generation-of-chaos-exceed.json) |
