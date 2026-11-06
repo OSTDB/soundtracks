@@ -911,6 +911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeam's Big Day | 185606 | [185606-jeams-big-day.json](./185606-jeams-big-day.json) |
 | Jean's Boutique | 197028 | [197028-jeans-boutique.json](./197028-jeans-boutique.json) |
 | Jean's Boutique 2 | 95912 | [95912-jeans-boutique-2.json](./95912-jeans-boutique-2.json) |
+| Jean's Boutique Deluxe | 207982 | [207982-jeans-boutique-deluxe.json](./207982-jeans-boutique-deluxe.json) |
 | Jean's Club | 197845 | [197845-jeans-club.json](./197845-jeans-club.json) |
 | Jean's Sundaeria | 90503 | [90503-jeans-sundaeria.json](./90503-jeans-sundaeria.json) |
 | Jeanne d'Arc | 11326 | [11326-jeanne-darc.json](./11326-jeanne-darc.json) |
@@ -2520,6 +2521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Join 4 | 232301 | [232301-join-4.json](./232301-join-4.json) |
 | Join It | 256246 | [256246-join-it.json](./256246-join-it.json) |
 | Join Rush Attack | 172945 | [172945-join-rush-attack.json](./172945-join-rush-attack.json) |
+| Join the Pack | 207988 | [207988-join-the-pack.json](./207988-join-the-pack.json) |
 | Join Tiles: Anatolian Game to Play | 260720 | [260720-join-tiles-anatolian-game-to-play.json](./260720-join-tiles-anatolian-game-to-play.json) |
 | Join Us | 370723 | [370723-join-us.json](./370723-join-us.json) |
 | Joinem | 40208 | [40208-joinem.json](./40208-joinem.json) |
