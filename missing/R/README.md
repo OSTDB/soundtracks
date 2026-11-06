@@ -4499,6 +4499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refund Me If You Can | 204074 | [204074-refund-me-if-you-can.json](./204074-refund-me-if-you-can.json) |
 | Refund Me If You Can: Lexy's Story | 234106 | [234106-refund-me-if-you-can-lexys-story.json](./234106-refund-me-if-you-can-lexys-story.json) |
 | Refuse & Reuse | 348296 | [348296-refuse-and-reuse.json](./348296-refuse-and-reuse.json) |
+| Refuse: Home Sweep Home | 210816 | [210816-refuse-home-sweep-home.json](./210816-refuse-home-sweep-home.json) |
 | Refuted Wind | 319343 | [319343-refuted-wind.json](./319343-refuted-wind.json) |
 | Regain Earth: First Strike | 139229 | [139229-regain-earth-first-strike.json](./139229-regain-earth-first-strike.json) |
 | Regalia: Of Men and Monarchs - Paragons and Pajamas | 172162 | [172162-regalia-of-men-and-monarchs-paragons-and-pajamas.json](./172162-regalia-of-men-and-monarchs-paragons-and-pajamas.json) |
@@ -7483,6 +7484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Right and Down Double Bundle | 294855 | [294855-right-and-down-double-bundle.json](./294855-right-and-down-double-bundle.json) |
 | Right Click To Activate Translator | 352362 | [352362-right-click-to-activate-translator.json](./352362-right-click-to-activate-translator.json) |
 | Right Click to Necromance | 175844 | [175844-right-click-to-necromance.json](./175844-right-click-to-necromance.json) |
+| Right Nice Party | 210956 | [210956-right-nice-party.json](./210956-right-nice-party.json) |
 | Right or Die! | 289240 | [289240-right-or-die.json](./289240-right-or-die.json) |
 | Right Side Up | 110006 | [110006-right-side-up.json](./110006-right-side-up.json) |
 | Right Swipes: Blast Date | 200735 | [200735-right-swipes-blast-date.json](./200735-right-swipes-blast-date.json) |
@@ -12298,6 +12300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Run Bird! | 296272 | [296272-run-run-bird.json](./296272-run-run-bird.json) |
 | Run Run Boy | 225073 | [225073-run-run-boy.json](./225073-run-run-boy.json) |
 | Run Run Iguana! | 403669 | [403669-run-run-iguana.json](./403669-run-run-iguana.json) |
+| Run Run Kyousoukyoku | 210821 | [210821-run-run-kyousoukyoku.json](./210821-run-run-kyousoukyoku.json) |
 | Run Run My Bride! | 309428 | [309428-run-run-my-bride.json](./309428-run-run-my-bride.json) |
 | Run Run Piñata | 187261 | [187261-run-run-pinata.json](./187261-run-run-pinata.json) |
 | Run Saber | 22358 | [22358-run-saber.json](./22358-run-saber.json) |
