@@ -11370,6 +11370,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Noodles: Turbo | 212792 | [212792-the-jumping-noodles-turbo.json](./212792-the-jumping-noodles-turbo.json) |
 | The Jumping Nuggets | 210922 | [210922-the-jumping-nuggets.json](./210922-the-jumping-nuggets.json) |
 | The Jumping Nuggets: Turbo | 210923 | [210923-the-jumping-nuggets-turbo.json](./210923-the-jumping-nuggets-turbo.json) |
+| The Jumping Onigiri | 229480 | [229480-the-jumping-onigiri.json](./229480-the-jumping-onigiri.json) |
+| The Jumping Onigiri: Turbo | 229481 | [229481-the-jumping-onigiri-turbo.json](./229481-the-jumping-onigiri-turbo.json) |
 | The Jumping Onion Ring | 329575 | [329575-the-jumping-onion-ring.json](./329575-the-jumping-onion-ring.json) |
 | The Jumping Orange | 340837 | [340837-the-jumping-orange.json](./340837-the-jumping-orange.json) |
 | The Jumping Orange 3 | 373563 | [373563-the-jumping-orange-3.json](./373563-the-jumping-orange-3.json) |
@@ -16705,6 +16707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Snowman | 275641 | [275641-the-snowman.json](./275641-the-snowman.json) |
 | The Snowman | 299435 | [299435-the-snowman.json](./299435-the-snowman.json) |
 | The Snowman and the Snowdog | 22200 | [22200-the-snowman-and-the-snowdog.json](./22200-the-snowman-and-the-snowdog.json) |
+| The Snowman Story | 229472 | [229472-the-snowman-story.json](./229472-the-snowman-story.json) |
 | The Snowman's Journey | 148762 | [148762-the-snowmans-journey.json](./148762-the-snowmans-journey.json) |
 | The Sob Island | 217119 | [217119-the-sob-island.json](./217119-the-sob-island.json) |
 | The Soccer Player Manager | 180478 | [180478-the-soccer-player-manager.json](./180478-the-soccer-player-manager.json) |
@@ -23617,6 +23620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TMNT: Splintered Fate Heroes Bundle | 370828 | [370828-tmnt-splintered-fate-heroes-bundle.json](./370828-tmnt-splintered-fate-heroes-bundle.json) |
 | TMNT: The Power of 4 | 146241 | [146241-tmnt-the-power-of-4.json](./146241-tmnt-the-power-of-4.json) |
 | tModLoader | 134157 | [134157-tmodloader.json](./134157-tmodloader.json) |
+| tModLoader 64Bit | 229438 | [229438-tmodloader-64bit.json](./229438-tmodloader-64bit.json) |
 | TModLoader: Metroid Mod | 332466 | [332466-tmodloader-metroid-mod.json](./332466-tmodloader-metroid-mod.json) |
 | TmPaint | 399044 | [399044-tmpaint.json](./399044-tmpaint.json) |
 | TMT 1 | 387164 | [387164-tmt-1.json](./387164-tmt-1.json) |
@@ -24889,6 +24893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonalities | 236240 | [236240-tonalities.json](./236240-tonalities.json) |
 | Tonari ni Kanojo no Iru Shiawase: Curious Queen - Limited Edition | 166993 | [166993-tonari-ni-kanojo-no-iru-shiawase-curious-queen-limited-edition.json](./166993-tonari-ni-kanojo-no-iru-shiawase-curious-queen-limited-edition.json) |
 | Tonari ni Kanojo no Iru Shiawase: I Fight with Summer | 219050 | [219050-tonari-ni-kanojo-no-iru-shiawase-i-fight-with-summer.json](./219050-tonari-ni-kanojo-no-iru-shiawase-i-fight-with-summer.json) |
+| Tonari ni Kanojo no Iru Shiawase: In First Snow With Her | 229437 | [229437-tonari-ni-kanojo-no-iru-shiawase-in-first-snow-with-her.json](./229437-tonari-ni-kanojo-no-iru-shiawase-in-first-snow-with-her.json) |
 | Tonari ni Kanojo no Iru Shiawase: In First Snow With Her - Premium Edition | 385851 | [385851-tonari-ni-kanojo-no-iru-shiawase-in-first-snow-with-her-premium-edition.json](./385851-tonari-ni-kanojo-no-iru-shiawase-in-first-snow-with-her-premium-edition.json) |
 | Tonari ni Kanojo no Iru Shiawase: Summer Surprise | 136648 | [136648-tonari-ni-kanojo-no-iru-shiawase-summer-surprise.json](./136648-tonari-ni-kanojo-no-iru-shiawase-summer-surprise.json) |
 | Tonari ni Kanojo no Iru Shiawase: Summer Surprise - Premium Edition | 136676 | [136676-tonari-ni-kanojo-no-iru-shiawase-summer-surprise-premium-edition.json](./136676-tonari-ni-kanojo-no-iru-shiawase-summer-surprise-premium-edition.json) |
