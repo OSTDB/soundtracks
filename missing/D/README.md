@@ -3961,6 +3961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Zed | 388038 | [388038-dead-zed.json](./388038-dead-zed.json) |
 | Dead Zombie | 386815 | [386815-dead-zombie.json](./386815-dead-zombie.json) |
 | Dead Zombie Shooter | 224070 | [224070-dead-zombie-shooter.json](./224070-dead-zombie-shooter.json) |
+| Dead Zone | 195309 | [195309-dead-zone.json](./195309-dead-zone.json) |
 | Dead Zone | 203555 | [203555-dead-zone.json](./203555-dead-zone.json) |
 | Dead Zone | 41278 | [41278-dead-zone.json](./41278-dead-zone.json) |
 | Dead Zone | 81176 | [81176-dead-zone.json](./81176-dead-zone.json) |
