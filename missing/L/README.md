@@ -630,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lament of the Yuppie | 226340 | [226340-lament-of-the-yuppie.json](./226340-lament-of-the-yuppie.json) |
 | Lamentations | 318699 | [318699-lamentations.json](./318699-lamentations.json) |
 | Lamento: Beyond the Void | 135483 | [135483-lamento-beyond-the-void.json](./135483-lamento-beyond-the-void.json) |
+| Lamento: Beyond the Void - Treasure Disc | 223844 | [223844-lamento-beyond-the-void-treasure-disc.json](./223844-lamento-beyond-the-void-treasure-disc.json) |
 | Laments of a Platinum Rose | 384199 | [384199-laments-of-a-platinum-rose.json](./384199-laments-of-a-platinum-rose.json) |
 | Lamentum | 115588 | [115588-lamentum.json](./115588-lamentum.json) |
 | Lamentum: Digital Deluxe | 336142 | [336142-lamentum-digital-deluxe.json](./336142-lamentum-digital-deluxe.json) |
@@ -7247,6 +7248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Longevity Yin and Yang | 375865 | [375865-longevity-yin-and-yang.json](./375865-longevity-yin-and-yang.json) |
 | Longeyed Proj. | 223429 | [223429-longeyed-proj.json](./223429-longeyed-proj.json) |
 | Longhaus | 178523 | [178523-longhaus.json](./178523-longhaus.json) |
+| LongHead | 223742 | [223742-longhead.json](./223742-longhead.json) |
 | Longjuice Squeeze | 325328 | [325328-longjuice-squeeze.json](./325328-longjuice-squeeze.json) |
 | Longleaf Valley | 248097 | [248097-longleaf-valley.json](./248097-longleaf-valley.json) |
 | Longmen | 352317 | [352317-longmen.json](./352317-longmen.json) |
