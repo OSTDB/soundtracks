@@ -2005,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HaremRoid VR | 279668 | [279668-haremroid-vr.json](./279668-haremroid-vr.json) |
 | Hareraiser II | 238889 | [238889-hareraiser-ii.json](./238889-hareraiser-ii.json) |
 | Hareraiser: Finale | 276008 | [276008-hareraiser-finale.json](./276008-hareraiser-finale.json) |
+| Hareraiser: Prelude | 238831 | [238831-hareraiser-prelude.json](./238831-hareraiser-prelude.json) |
 | Hareshi Moyakana | 274989 | [274989-hareshi-moyakana.json](./274989-hareshi-moyakana.json) |
 | Harezora Monogatari Again! | 332781 | [332781-harezora-monogatari-again.json](./332781-harezora-monogatari-again.json) |
 | Hargrave | 132429 | [132429-hargrave.json](./132429-hargrave.json) |
@@ -8224,6 +8225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman 3: The Sarajevo Six | 279033 | [279033-hitman-3-the-sarajevo-six.json](./279033-hitman-3-the-sarajevo-six.json) |
 | Hitman 3: The Splitter Pack | 357257 | [357257-hitman-3-the-splitter-pack.json](./357257-hitman-3-the-splitter-pack.json) |
 | Hitman 3: Trinity Pack | 224225 | [224225-hitman-3-trinity-pack.json](./224225-hitman-3-trinity-pack.json) |
+| Hitman 3: VR Access | 238852 | [238852-hitman-3-vr-access.json](./238852-hitman-3-vr-access.json) |
 | Hitman Absolution: Elite Edition | 53210 | [53210-hitman-absolution-elite-edition.json](./53210-hitman-absolution-elite-edition.json) |
 | Hitman Collection | 212588 | [212588-hitman-collection.json](./212588-hitman-collection.json) |
 | Hitman Collection | 74880 | [74880-hitman-collection.json](./74880-hitman-collection.json) |
