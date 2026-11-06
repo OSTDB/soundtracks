@@ -19296,6 +19296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | theBlu | 19067 | [19067-theblu.json](./19067-theblu.json) |
 | TheBoll | 345033 | [345033-theboll.json](./345033-theboll.json) |
 | TheBootCamp | 195219 | [195219-thebootcamp.json](./195219-thebootcamp.json) |
+| THEC64 Mini | 215425 | [215425-thec64-mini.json](./215425-thec64-mini.json) |
 | TheC64 Mini: Black Edition | 360591 | [360591-thec64-mini-black-edition.json](./360591-thec64-mini-black-edition.json) |
 | TheCube | 224935 | [224935-thecube.json](./224935-thecube.json) |
 | TheDawn | 141735 | [141735-thedawn.json](./141735-thedawn.json) |
@@ -29420,6 +29421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trans-Siberian Railway Simulator | 114950 | [114950-trans-siberian-railway-simulator.json](./114950-trans-siberian-railway-simulator.json) |
 | Trans': Boku to Atashi no Kyoukaisen | 412252 | [412252-trans-boku-to-atashi-no-kyoukaisen.json](./412252-trans-boku-to-atashi-no-kyoukaisen.json) |
 | Trans'2: Boku to Atashi to Koibito to | 228303 | [228303-trans2-boku-to-atashi-to-koibito-to.json](./228303-trans2-boku-to-atashi-to-koibito-to.json) |
+| Transaction Failed | 215426 | [215426-transaction-failed.json](./215426-transaction-failed.json) |
 | Transarctica | 10857 | [10857-transarctica.json](./10857-transarctica.json) |
 | Transatlantic Liners 1889 | 183805 | [183805-transatlantic-liners-1889.json](./183805-transatlantic-liners-1889.json) |
 | Transball | 47554 | [47554-transball.json](./47554-transball.json) |
