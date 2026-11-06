@@ -4355,6 +4355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars After Midnight | 151949 | [151949-mars-after-midnight.json](./151949-mars-after-midnight.json) |
 | Mars Alive | 119279 | [119279-mars-alive.json](./119279-mars-alive.json) |
 | Mars Assault: 3D Shooter | 294849 | [294849-mars-assault-3d-shooter.json](./294849-mars-assault-3d-shooter.json) |
+| Mars Attacks! | 217636 | [217636-mars-attacks.json](./217636-mars-attacks.json) |
 | Mars Attracts | 314419 | [314419-mars-attracts.json](./314419-mars-attracts.json) |
 | Mars Base | 194273 | [194273-mars-base.json](./194273-mars-base.json) |
 | Mars Base Alley | 390237 | [390237-mars-base-alley.json](./390237-mars-base-alley.json) |
