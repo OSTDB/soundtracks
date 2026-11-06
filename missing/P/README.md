@@ -8468,6 +8468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel to the West | 83964 | [83964-pixel-to-the-west.json](./83964-pixel-to-the-west.json) |
 | Pixel Top Down Shooter | 176345 | [176345-pixel-top-down-shooter.json](./176345-pixel-top-down-shooter.json) |
 | Pixel Town | 183872 | [183872-pixel-town.json](./183872-pixel-town.json) |
+| Pixel Town: Akanemachi Mystery | 236081 | [236081-pixel-town-akanemachi-mystery.json](./236081-pixel-town-akanemachi-mystery.json) |
 | Pixel Town: Akanemachi Mystery 2 | 244311 | [244311-pixel-town-akanemachi-mystery-2.json](./244311-pixel-town-akanemachi-mystery-2.json) |
 | Pixel Town: Akanemachi Sideshow | 298162 | [298162-pixel-town-akanemachi-sideshow.json](./298162-pixel-town-akanemachi-sideshow.json) |
 | Pixel Traffic: Circle Rush | 54875 | [54875-pixel-traffic-circle-rush.json](./54875-pixel-traffic-circle-rush.json) |
