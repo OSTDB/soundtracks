@@ -4875,6 +4875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MaryPark St. | 138666 | [138666-marypark-st.json](./138666-marypark-st.json) |
 | MarZ: Tactical Base Defense | 55408 | [55408-marz-tactical-base-defense.json](./55408-marz-tactical-base-defense.json) |
 | Marzia Lost In Space | 291868 | [291868-marzia-lost-in-space.json](./291868-marzia-lost-in-space.json) |
+| Marzipan Beef Reverser | 194697 | [194697-marzipan-beef-reverser.json](./194697-marzipan-beef-reverser.json) |
 | Marzu | 389584 | [389584-marzu.json](./389584-marzu.json) |
 | Masackra | 389692 | [389692-masackra.json](./389692-masackra.json) |
 | Masagoro | 153826 | [153826-masagoro.json](./153826-masagoro.json) |
@@ -5942,6 +5943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -10551,6 +10553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Breaker | 234382 | [234382-micro-breaker.json](./234382-micro-breaker.json) |
 | Micro Car Crash Online Le Go! | 123943 | [123943-micro-car-crash-online-le-go.json](./123943-micro-car-crash-online-le-go.json) |
 | Micro Commandos | 71460 | [71460-micro-commandos.json](./71460-micro-commandos.json) |
+| Micro Dash | 194703 | [194703-micro-dash.json](./194703-micro-dash.json) |
 | Micro Drive Festa | 202885 | [202885-micro-drive-festa.json](./202885-micro-drive-festa.json) |
 | Micro Gamer Shinmy | 338130 | [338130-micro-gamer-shinmy.json](./338130-micro-gamer-shinmy.json) |
 | Micro Games for Playdade! | 266242 | [266242-micro-games-for-playdade.json](./266242-micro-games-for-playdade.json) |
@@ -12933,6 +12936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Wheels | 83591 | [83591-mini-wheels.json](./83591-mini-wheels.json) |
 | Mini Wizards | 350581 | [350581-mini-wizards.json](./350581-mini-wizards.json) |
 | Mini Words | 125710 | [125710-mini-words.json](./125710-mini-words.json) |
+| Mini Words: Collection | 194748 | [194748-mini-words-collection.json](./194748-mini-words-collection.json) |
 | Mini Words: Polyglot | 169479 | [169479-mini-words-polyglot.json](./169479-mini-words-polyglot.json) |
 | Mini World | 71030 | [71030-mini-world.json](./71030-mini-world.json) |
 | Mini Worlds | 311893 | [311893-mini-worlds.json](./311893-mini-worlds.json) |
