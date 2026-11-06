@@ -10157,6 +10157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plunder Pirates | 60830 | [60830-plunder-pirates.json](./60830-plunder-pirates.json) |
 | Plunder Protocol | 420544 | [420544-plunder-protocol.json](./420544-plunder-protocol.json) |
 | Plunder Squad | 107797 | [107797-plunder-squad.json](./107797-plunder-squad.json) |
+| Plunder Struck | 196919 | [196919-plunder-struck.json](./196919-plunder-struck.json) |
 | Plunder: Scourge of the Sea | 260658 | [260658-plunder-scourge-of-the-sea.json](./260658-plunder-scourge-of-the-sea.json) |
 | Plunderball | 46570 | [46570-plunderball.json](./46570-plunderball.json) |
 | Plundered Hearts | 12621 | [12621-plundered-hearts.json](./12621-plundered-hearts.json) |
@@ -10165,6 +10166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plunderland | 118874 | [118874-plunderland.json](./118874-plunderland.json) |
 | PlunderPiece | 292404 | [292404-plunderpiece.json](./292404-plunderpiece.json) |
 | Plunge | 78780 | [78780-plunge.json](./78780-plunge.json) |
+| Plunge the Plumber | 196934 | [196934-plunge-the-plumber.json](./196934-plunge-the-plumber.json) |
 | Plunged | 261612 | [261612-plunged.json](./261612-plunged.json) |
 | Plungeez | 309499 | [309499-plungeez.json](./309499-plungeez.json) |
 | Plunger Boyz | 190148 | [190148-plunger-boyz.json](./190148-plunger-boyz.json) |
@@ -14066,6 +14068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Presidential Running Games | 292689 | [292689-presidential-running-games.json](./292689-presidential-running-games.json) |
 | Presidential Social Media Manager | 359345 | [359345-presidential-social-media-manager.json](./359345-presidential-social-media-manager.json) |
 | Presidential SpaceForce | 95780 | [95780-presidential-spaceforce.json](./95780-presidential-spaceforce.json) |
+| Presidents Fight | 196912 | [196912-presidents-fight.json](./196912-presidents-fight.json) |
 | Presidents Quizzer | 89588 | [89588-presidents-quizzer.json](./89588-presidents-quizzer.json) |
 | Presidents Tower Defense | 295158 | [295158-presidents-tower-defense.json](./295158-presidents-tower-defense.json) |
 | Presidents vs. Aliens | 175509 | [175509-presidents-vs-aliens.json](./175509-presidents-vs-aliens.json) |
@@ -15924,6 +15927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Kouvola | 358741 | [358741-project-kouvola.json](./358741-project-kouvola.json) |
 | Project Kunai | 188474 | [188474-project-kunai.json](./188474-project-kunai.json) |
 | Project Kunlun | 368051 | [368051-project-kunlun.json](./368051-project-kunlun.json) |
+| Project Kuragava | 196920 | [196920-project-kuragava.json](./196920-project-kuragava.json) |
 | Project Kyzen | 312960 | [312960-project-kyzen.json](./312960-project-kyzen.json) |
 | Project Labyrinth | 236515 | [236515-project-labyrinth.json](./236515-project-labyrinth.json) |
 | Project Lambda | 117291 | [117291-project-lambda.json](./117291-project-lambda.json) |
