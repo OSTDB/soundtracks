@@ -9977,6 +9977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side Pocket for WonderSwan | 37485 | [37485-side-pocket-for-wonderswan.json](./37485-side-pocket-for-wonderswan.json) |
 | Side Pocket: Special Edition | 209011 | [209011-side-pocket-special-edition.json](./209011-side-pocket-special-edition.json) |
 | Side Quest | 33765 | [33765-side-quest.json](./33765-side-quest.json) |
+| Side Scape | 233880 | [233880-side-scape.json](./233880-side-scape.json) |
 | Side Swap | 216263 | [216263-side-swap.json](./216263-side-swap.json) |
 | Side Swap 2D: Endless Fun | 232294 | [232294-side-swap-2d-endless-fun.json](./232294-side-swap-2d-endless-fun.json) |
 | Side Swipe | 60339 | [60339-side-swipe.json](./60339-side-swipe.json) |
@@ -15478,6 +15479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowRunner + Expeditions: A MudRunner Game Bundle | 398397 | [398397-snowrunner-expeditions-a-mudrunner-game-bundle.json](./398397-snowrunner-expeditions-a-mudrunner-game-bundle.json) |
 | SnowRunner + RoadCraft Loyalty Bundle | 398396 | [398396-snowrunner-roadcraft-loyalty-bundle.json](./398396-snowrunner-roadcraft-loyalty-bundle.json) |
 | SnowRunner: 1-Year Anniversary Edition | 237850 | [237850-snowrunner-1-year-anniversary-edition.json](./237850-snowrunner-1-year-anniversary-edition.json) |
+| SnowRunner: 2-Year Anniversary Edition | 233867 | [233867-snowrunner-2-year-anniversary-edition.json](./233867-snowrunner-2-year-anniversary-edition.json) |
 | SnowRunner: 3-Year Anniversary Edition | 230833 | [230833-snowrunner-3-year-anniversary-edition.json](./230833-snowrunner-3-year-anniversary-edition.json) |
 | SnowRunner: 4-Year Anniversary Edition | 284865 | [284865-snowrunner-4-year-anniversary-edition.json](./284865-snowrunner-4-year-anniversary-edition.json) |
 | SnowRunner: 5-Year Anniversary Edition | 397767 | [397767-snowrunner-5-year-anniversary-edition.json](./397767-snowrunner-5-year-anniversary-edition.json) |
@@ -19433,7 +19435,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -22453,6 +22454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sporeborne | 367535 | [367535-sporeborne.json](./367535-sporeborne.json) |
 | Sporestory | 271126 | [271126-sporestory.json](./271126-sporestory.json) |
 | Sporos | 203314 | [203314-sporos.json](./203314-sporos.json) |
+| Sport & Fun: Swimming | 233865 | [233865-sport-and-fun-swimming.json](./233865-sport-and-fun-swimming.json) |
 | Sport & Fun: Swimming - Amazing Edition | 283165 | [283165-sport-and-fun-swimming-amazing-edition.json](./283165-sport-and-fun-swimming-amazing-edition.json) |
 | Sport & Fun: Swimming - Complete + | 328836 | [328836-sport-and-fun-swimming-complete.json](./328836-sport-and-fun-swimming-complete.json) |
 | Sport & Fun: Swimming - Complete Edition | 260052 | [260052-sport-and-fun-swimming-complete-edition.json](./260052-sport-and-fun-swimming-complete-edition.json) |
@@ -27982,6 +27984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Racer | 49118 | [49118-street-racer.json](./49118-street-racer.json) |
 | Street Racer Underground | 139819 | [139819-street-racer-underground.json](./139819-street-racer-underground.json) |
 | Street Racer X Ace of Love | 206198 | [206198-street-racer-x-ace-of-love.json](./206198-street-racer-x-ace-of-love.json) |
+| Street Racers | 233863 | [233863-street-racers.json](./233863-street-racers.json) |
 | Street Racers: Hot Asphalt | 316837 | [316837-street-racers-hot-asphalt.json](./316837-street-racers-hot-asphalt.json) |
 | Street Racing 3D | 95736 | [95736-street-racing-3d.json](./95736-street-racing-3d.json) |
 | Street Racing EVO: Car & Moto | 383519 | [383519-street-racing-evo-car-and-moto.json](./383519-street-racing-evo-car-and-moto.json) |
@@ -34402,6 +34405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swap Machina | 240968 | [240968-swap-machina.json](./240968-swap-machina.json) |
 | Swap Motion | 316134 | [316134-swap-motion.json](./316134-swap-motion.json) |
 | Swap n Merge | 121509 | [121509-swap-n-merge.json](./121509-swap-n-merge.json) |
+| Swap Puzzles | 233864 | [233864-swap-puzzles.json](./233864-swap-puzzles.json) |
 | Swap Roles | 76400 | [76400-swap-roles.json](./76400-swap-roles.json) |
 | Swap Swamp | 372235 | [372235-swap-swamp.json](./372235-swap-swamp.json) |
 | Swap Swap | 110536 | [110536-swap-swap.json](./110536-swap-swap.json) |
