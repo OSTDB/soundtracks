@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.I.A.C.F.F Tale of the Cursed Chain | 325210 | [325210-l-i-a-c-f-f-tale-of-the-cursed-chain.json](./325210-l-i-a-c-f-f-tale-of-the-cursed-chain.json) |
 | L.I.F.E. Simulator | 329983 | [329983-l-i-f-e-simulator.json](./329983-l-i-f-e-simulator.json) |
 | L.O.C.K. | 144364 | [144364-l-o-c-k.json](./144364-l-o-c-k.json) |
+| L.O.L Surprise! B.B.s Born to Travel: On Vacay | 220917 | [220917-l-o-l-surprise-b-b-s-born-to-travel-on-vacay.json](./220917-l-o-l-surprise-b-b-s-born-to-travel-on-vacay.json) |
 | L.O.L. Surprise Ball Pop | 89778 | [89778-l-o-l-surprise-ball-pop.json](./89778-l-o-l-surprise-ball-pop.json) |
 | L.O.L. Surprise! B.B.s Born to Travel | 203810 | [203810-l-o-l-surprise-b-b-s-born-to-travel.json](./203810-l-o-l-surprise-b-b-s-born-to-travel.json) |
 | L.O.L. Surprise! Movie Night | 163146 | [163146-l-o-l-surprise-movie-night.json](./163146-l-o-l-surprise-movie-night.json) |
@@ -2597,6 +2598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Keepers | 111965 | [111965-legend-of-keepers.json](./111965-legend-of-keepers.json) |
 | Legend of Keepers Collection | 222226 | [222226-legend-of-keepers-collection.json](./222226-legend-of-keepers-collection.json) |
 | Legend of Keepers: Complete Edition | 225547 | [225547-legend-of-keepers-complete-edition.json](./225547-legend-of-keepers-complete-edition.json) |
+| Legend of Keepers: Deluxe Edition | 220941 | [220941-legend-of-keepers-deluxe-edition.json](./220941-legend-of-keepers-deluxe-edition.json) |
 | Legend of Keepers: Feed the Troll | 188528 | [188528-legend-of-keepers-feed-the-troll.json](./188528-legend-of-keepers-feed-the-troll.json) |
 | Legend of Keepers: Return of the Goddess | 152106 | [152106-legend-of-keepers-return-of-the-goddess.json](./152106-legend-of-keepers-return-of-the-goddess.json) |
 | Legend of Kingdoms | 224020 | [224020-legend-of-kingdoms.json](./224020-legend-of-kingdoms.json) |
@@ -6047,6 +6049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Nightmares II: Day 1 Edition | 139821 | [139821-little-nightmares-ii-day-1-edition.json](./139821-little-nightmares-ii-day-1-edition.json) |
 | Little Nightmares II: Deluxe Edition | 154511 | [154511-little-nightmares-ii-deluxe-edition.json](./154511-little-nightmares-ii-deluxe-edition.json) |
 | Little Nightmares II: Enhanced Edition | 323947 | [323947-little-nightmares-ii-enhanced-edition.json](./323947-little-nightmares-ii-enhanced-edition.json) |
+| Little Nightmares II: Special Edition | 220931 | [220931-little-nightmares-ii-special-edition.json](./220931-little-nightmares-ii-special-edition.json) |
 | Little Nightmares II: The Nome's Attic | 226785 | [226785-little-nightmares-ii-the-nomes-attic.json](./226785-little-nightmares-ii-the-nomes-attic.json) |
 | Little Nightmares II: TV Edition | 139822 | [139822-little-nightmares-ii-tv-edition.json](./139822-little-nightmares-ii-tv-edition.json) |
 | Little Nightmares III: Dark Six Costumes Set | 370223 | [370223-little-nightmares-iii-dark-six-costumes-set.json](./370223-little-nightmares-iii-dark-six-costumes-set.json) |
