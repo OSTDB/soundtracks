@@ -1735,6 +1735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantamon | 348794 | [348794-fantamon.json](./348794-fantamon.json) |
 | Fantashooting | 175088 | [175088-fantashooting.json](./175088-fantashooting.json) |
 | Fantashooting 2 | 208977 | [208977-fantashooting-2.json](./208977-fantashooting-2.json) |
+| Fantasia | 234990 | [234990-fantasia.json](./234990-fantasia.json) |
 | Fantasia | 38574 | [38574-fantasia.json](./38574-fantasia.json) |
 | Fantasia | 45587 | [45587-fantasia.json](./45587-fantasia.json) |
 | Fantasia II | 46519 | [46519-fantasia-ii.json](./46519-fantasia-ii.json) |
@@ -3022,6 +3023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat-Frumos & The Solomonar | 298541 | [298541-fat-frumos-and-the-solomonar.json](./298541-fat-frumos-and-the-solomonar.json) |
 | FAT-stronaut | 185352 | [185352-fat-stronaut.json](./185352-fat-stronaut.json) |
 | Fat[EX] Courier Simulator | 106652 | [106652-fat-ex-courier-simulator.json](./106652-fat-ex-courier-simulator.json) |
+| Fat69 | 235003 | [235003-fat69.json](./235003-fat69.json) |
 | Fata Deum | 122084 | [122084-fata-deum.json](./122084-fata-deum.json) |
 | Fata morgana no Yakata: Collected Edition | 86081 | [86081-fata-morgana-no-yakata-collected-edition.json](./86081-fata-morgana-no-yakata-collected-edition.json) |
 | Fatal Abyss | 70614 | [70614-fatal-abyss.json](./70614-fatal-abyss.json) |
@@ -13964,4 +13966,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fyte | 364825 | [364825-fyte.json](./364825-fyte.json) |
 | Fyz and Now in Olympic Games of Tartarus | 181694 | [181694-fyz-and-now-in-olympic-games-of-tartarus.json](./181694-fyz-and-now-in-olympic-games-of-tartarus.json) |
 | FZ: Formation Z | 389143 | [389143-fz-formation-z.json](./389143-fz-formation-z.json) |
+| FZ9: Timeshift | 235004 | [235004-fz9-timeshift.json](./235004-fz9-timeshift.json) |
 | FZDDR | 406700 | [406700-fzddr.json](./406700-fzddr.json) |
