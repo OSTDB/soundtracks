@@ -3209,9 +3209,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ookami Okami | 343046 | [343046-ookami-okami.json](./343046-ookami-okami.json) |
 | Ookami to Koushinryou: Boku to Holo no Ichi-nen | 123449 | [123449-ookami-to-koushinryou-boku-to-holo-no-ichi-nen.json](./123449-ookami-to-koushinryou-boku-to-holo-no-ichi-nen.json) |
 | Ookami to Koushinryou: Umi wo Wataru Kaze | 61433 | [61433-ookami-to-koushinryou-umi-wo-wataru-kaze.json](./61433-ookami-to-koushinryou-umi-wo-wataru-kaze.json) |
+| Ookami-kun | 216556 | [216556-ookami-kun.json](./216556-ookami-kun.json) |
 | Ookami-kun 3 | 216559 | [216559-ookami-kun-3.json](./216559-ookami-kun-3.json) |
 | Ookami-kun 4 | 216560 | [216560-ookami-kun-4.json](./216560-ookami-kun-4.json) |
 | Ookami-kun 5 | 216561 | [216561-ookami-kun-5.json](./216561-ookami-kun-5.json) |
+| Ookami-kun to Kabocha-kun | 216557 | [216557-ookami-kun-to-kabocha-kun.json](./216557-ookami-kun-to-kabocha-kun.json) |
 | Ookami-otoko Satsujin Jiken | 56755 | [56755-ookami-otoko-satsujin-jiken.json](./56755-ookami-otoko-satsujin-jiken.json) |
 | Ookeenga | 225842 | [225842-ookeenga.json](./225842-ookeenga.json) |
 | Ookibloks | 34516 | [34516-ookibloks.json](./34516-ookibloks.json) |
