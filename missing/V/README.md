@@ -821,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanishing Point: Tenshi no Kieta Machi | 308971 | [308971-vanishing-point-tenshi-no-kieta-machi.json](./308971-vanishing-point-tenshi-no-kieta-machi.json) |
 | Vanishing Realms | 18694 | [18694-vanishing-realms.json](./18694-vanishing-realms.json) |
 | Vanishing Realms: The Sundered Rift | 167244 | [167244-vanishing-realms-the-sundered-rift.json](./167244-vanishing-realms-the-sundered-rift.json) |
+| Vanishing Shadow | 243472 | [243472-vanishing-shadow.json](./243472-vanishing-shadow.json) |
 | Vanishing Starlight | 395337 | [395337-vanishing-starlight.json](./395337-vanishing-starlight.json) |
 | Vanitas | 137923 | [137923-vanitas.json](./137923-vanitas.json) |
 | Vanity | 273650 | [273650-vanity.json](./273650-vanity.json) |
@@ -1009,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VCTR-SCTR | 225596 | [225596-vctr-sctr.json](./225596-vctr-sctr.json) |
 | VCuber | 115366 | [115366-vcuber.json](./115366-vcuber.json) |
 | VDoll | 393852 | [393852-vdoll.json](./393852-vdoll.json) |
+| VDSC Battle Royal | 243487 | [243487-vdsc-battle-royal.json](./243487-vdsc-battle-royal.json) |
 | Vec Sports Boxing | 273284 | [273284-vec-sports-boxing.json](./273284-vec-sports-boxing.json) |
 | Vec-Man | 273908 | [273908-vec-man.json](./273908-vec-man.json) |
 | Veccol | 111535 | [111535-veccol.json](./111535-veccol.json) |
@@ -1115,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vega Motions: Project Unleashed | 126887 | [126887-vega-motions-project-unleashed.json](./126887-vega-motions-project-unleashed.json) |
 | Vega Strike | 46954 | [46954-vega-strike.json](./46954-vega-strike.json) |
 | Vegaman | 177162 | [177162-vegaman.json](./177162-vegaman.json) |
+| Vegan Challenge | 243477 | [243477-vegan-challenge.json](./243477-vegan-challenge.json) |
 | Vegangsters | 253304 | [253304-vegangsters.json](./253304-vegangsters.json) |
 | Vegas 21 | 245606 | [245606-vegas-21.json](./245606-vegas-21.json) |
 | Vegas Bandit | 77909 | [77909-vegas-bandit.json](./77909-vegas-bandit.json) |
@@ -1173,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VeggieTales: LarryBoy and the Bad Apple | 49374 | [49374-veggietales-larryboy-and-the-bad-apple.json](./49374-veggietales-larryboy-and-the-bad-apple.json) |
 | Veggy World | 51156 | [51156-veggy-world.json](./51156-veggy-world.json) |
 | Vegteria | 159524 | [159524-vegteria.json](./159524-vegteria.json) |
+| Vehicle Beat Zombie | 243478 | [243478-vehicle-beat-zombie.json](./243478-vehicle-beat-zombie.json) |
 | Vehicle Cavalier | 64199 | [64199-vehicle-cavalier.json](./64199-vehicle-cavalier.json) |
 | Vehicle Construction Kit | 375588 | [375588-vehicle-construction-kit.json](./375588-vehicle-construction-kit.json) |
 | Vehicle No. 4 | 364835 | [364835-vehicle-no-4.json](./364835-vehicle-no-4.json) |
@@ -1372,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vengeful Guardian: Moonrider | 213741 | [213741-vengeful-guardian-moonrider.json](./213741-vengeful-guardian-moonrider.json) |
 | Vengeful Heart | 120056 | [120056-vengeful-heart.json](./120056-vengeful-heart.json) |
 | Vengeful Rites | 103064 | [103064-vengeful-rites.json](./103064-vengeful-rites.json) |
+| Veni, Vidi, Vici | 243479 | [243479-veni-vidi-vici.json](./243479-veni-vidi-vici.json) |
 | Venial Sin | 396539 | [396539-venial-sin.json](./396539-venial-sin.json) |
 | Venice | 14810 | [14810-venice.json](./14810-venice.json) |
 | Venice Bridges | 268821 | [268821-venice-bridges.json](./268821-venice-bridges.json) |
@@ -1580,6 +1585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertex | 314185 | [314185-vertex.json](./314185-vertex.json) |
 | Vertex | 384677 | [384677-vertex.json](./384677-vertex.json) |
 | Vertex Dispenser | 15133 | [15133-vertex-dispenser.json](./15133-vertex-dispenser.json) |
+| Vertex Rush | 243480 | [243480-vertex-rush.json](./243480-vertex-rush.json) |
 | Vertex-1: Ainia | 418523 | [418523-vertex-1-ainia.json](./418523-vertex-1-ainia.json) |
 | Verti-Go Home! | 118690 | [118690-verti-go-home.json](./118690-verti-go-home.json) |
 | Vertiball | 86123 | [86123-vertiball.json](./86123-vertiball.json) |
@@ -1950,6 +1956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Game Trivia | 252597 | [252597-video-game-trivia.json](./252597-video-game-trivia.json) |
 | Video Game Tutorial | 365277 | [365277-video-game-tutorial.json](./365277-video-game-tutorial.json) |
 | Video Game: Super Corrida | 345627 | [345627-video-game-super-corrida.json](./345627-video-game-super-corrida.json) |
+| Video Horror Society: Anomaly | 243481 | [243481-video-horror-society-anomaly.json](./243481-video-horror-society-anomaly.json) |
 | Video Horror Society: Deathwire | 227720 | [227720-video-horror-society-deathwire.json](./227720-video-horror-society-deathwire.json) |
 | Video Horror Society: Reggie | 230976 | [230976-video-horror-society-reggie.json](./230976-video-horror-society-reggie.json) |
 | Video Horror Society: Ultrafan Founder's Pack | 230992 | [230992-video-horror-society-ultrafan-founders-pack.json](./230992-video-horror-society-ultrafan-founders-pack.json) |
