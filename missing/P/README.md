@@ -3863,6 +3863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pelican Harbor | 302057 | [302057-pelican-harbor.json](./302057-pelican-harbor.json) |
 | Pelican Post | 338966 | [338966-pelican-post.json](./338966-pelican-post.json) |
 | Pelikeeper | 381193 | [381193-pelikeeper.json](./381193-pelikeeper.json) |
+| Pellet Dodge | 232782 | [232782-pellet-dodge.json](./232782-pellet-dodge.json) |
 | Pellet Packer: Cookie Crunch | 270965 | [270965-pellet-packer-cookie-crunch.json](./270965-pellet-packer-cookie-crunch.json) |
 | Pellet Packer: Micro Munch | 270956 | [270956-pellet-packer-micro-munch.json](./270956-pellet-packer-micro-munch.json) |
 | Pellet Quest | 65426 | [65426-pellet-quest.json](./65426-pellet-quest.json) |
@@ -12821,6 +12822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PortaBoy+ | 246238 | [246238-portaboy.json](./246238-portaboy.json) |
 | Portal | 14546 | [14546-portal.json](./14546-portal.json) |
 | Portal | 311949 | [311949-portal.json](./311949-portal.json) |
+| Portal 1 Multiplayer | 232806 | [232806-portal-1-multiplayer.json](./232806-portal-1-multiplayer.json) |
 | Portal 2: Alive Again | 322239 | [322239-portal-2-alive-again.json](./322239-portal-2-alive-again.json) |
 | Portal 2: And the Abyss Gazes Back Part 1 | 183424 | [183424-portal-2-and-the-abyss-gazes-back-part-1.json](./183424-portal-2-and-the-abyss-gazes-back-part-1.json) |
 | Portal 2: Community Edition | 169962 | [169962-portal-2-community-edition.json](./169962-portal-2-community-edition.json) |
@@ -12904,6 +12906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal: The Flash Version | 11280 | [11280-portal-the-flash-version.json](./11280-portal-the-flash-version.json) |
 | Portal: The Flash Version MapPack | 306812 | [306812-portal-the-flash-version-mappack.json](./306812-portal-the-flash-version-mappack.json) |
 | PortalBox | 298216 | [298216-portalbox.json](./298216-portalbox.json) |
+| Portalize | 232796 | [232796-portalize.json](./232796-portalize.json) |
 | Portalnauts | 60589 | [60589-portalnauts.json](./60589-portalnauts.json) |
 | PortalOne Arcade | 181305 | [181305-portalone-arcade.json](./181305-portalone-arcade.json) |
 | Portals of P'Thaal | 142459 | [142459-portals-of-pthaal.json](./142459-portals-of-pthaal.json) |
