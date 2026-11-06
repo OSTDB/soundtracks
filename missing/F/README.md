@@ -5760,6 +5760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Awakening - Rogues Pack | 237419 | [237419-fire-emblem-awakening-rogues-pack.json](./237419-fire-emblem-awakening-rogues-pack.json) |
 | Fire Emblem: Awakening - Scramble Pack | 237422 | [237422-fire-emblem-awakening-scramble-pack.json](./237422-fire-emblem-awakening-scramble-pack.json) |
 | Fire Emblem: Awakening - Smash Pack | 237418 | [237418-fire-emblem-awakening-smash-pack.json](./237418-fire-emblem-awakening-smash-pack.json) |
+| Fire Emblem: Bells of Byelen | 228818 | [228818-fire-emblem-bells-of-byelen.json](./228818-fire-emblem-bells-of-byelen.json) |
 | Fire Emblem: Binding Blade Plus | 233604 | [233604-fire-emblem-binding-blade-plus.json](./233604-fire-emblem-binding-blade-plus.json) |
 | Fire Emblem: Blessed Heart | 214493 | [214493-fire-emblem-blessed-heart.json](./214493-fire-emblem-blessed-heart.json) |
 | Fire Emblem: Bloodlines | 322794 | [322794-fire-emblem-bloodlines.json](./322794-fire-emblem-bloodlines.json) |
@@ -11774,6 +11775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin' D-Sides | 198304 | [198304-friday-night-funkin-d-sides.json](./198304-friday-night-funkin-d-sides.json) |
 | Friday Night Funkin' D-Sides Redux | 392875 | [392875-friday-night-funkin-d-sides-redux.json](./392875-friday-night-funkin-d-sides-redux.json) |
 | Friday Night Funkin' Draw | 229466 | [229466-friday-night-funkin-draw.json](./229466-friday-night-funkin-draw.json) |
+| Friday Night Funkin' Indie Cross | 228814 | [228814-friday-night-funkin-indie-cross.json](./228814-friday-night-funkin-indie-cross.json) |
 | Friday Night Funkin' Lullaby | 198347 | [198347-friday-night-funkin-lullaby.json](./198347-friday-night-funkin-lullaby.json) |
 | Friday Night Funkin' Red Version: vs. Red | 322374 | [322374-friday-night-funkin-red-version-vs-red.json](./322374-friday-night-funkin-red-version-vs-red.json) |
 | Friday Night Funkin' Soft | 206928 | [206928-friday-night-funkin-soft.json](./206928-friday-night-funkin-soft.json) |
@@ -12609,6 +12611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen | 230335 | [230335-frozen.json](./230335-frozen.json) |
 | Frozen | 230377 | [230377-frozen.json](./230377-frozen.json) |
 | Frozen Bubble | 61702 | [61702-frozen-bubble.json](./61702-frozen-bubble.json) |
+| Frozen City | 228826 | [228826-frozen-city.json](./228826-frozen-city.json) |
 | Frozen Cortex | 16521 | [16521-frozen-cortex.json](./16521-frozen-cortex.json) |
 | Frozen Depths | 67632 | [67632-frozen-depths.json](./67632-frozen-depths.json) |
 | Frozen dirt | 134844 | [134844-frozen-dirt.json](./134844-frozen-dirt.json) |
