@@ -874,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Nanobot | 233124 | [233124-a-nanobot.json](./233124-a-nanobot.json) |
 | A Nasty Farm | 158350 | [158350-a-nasty-farm.json](./158350-a-nasty-farm.json) |
 | A Near Dawn | 74241 | [74241-a-near-dawn.json](./74241-a-near-dawn.json) |
+| A Neko Story | 221012 | [221012-a-neko-story.json](./221012-a-neko-story.json) |
 | A Nest for Us | 259499 | [259499-a-nest-for-us.json](./259499-a-nest-for-us.json) |
 | A Neverending Night | 183772 | [183772-a-neverending-night.json](./183772-a-neverending-night.json) |
 | A New Adventure: FaYoh 2 | 131374 | [131374-a-new-adventure-fayoh-2.json](./131374-a-new-adventure-fayoh-2.json) |
@@ -14338,6 +14339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Shop Simulator | 308593 | [308593-art-shop-simulator.json](./308593-art-shop-simulator.json) |
 | Art Spotting Co-op | 330501 | [330501-art-spotting-co-op.json](./330501-art-spotting-co-op.json) |
 | Art Sqool | 110421 | [110421-art-sqool.json](./110421-art-sqool.json) |
+| Art Sqool: Deluxe Edition | 220935 | [220935-art-sqool-deluxe-edition.json](./220935-art-sqool-deluxe-edition.json) |
 | Art Strikers | 316070 | [316070-art-strikers.json](./316070-art-strikers.json) |
 | Art Strip Poker | 96021 | [96021-art-strip-poker.json](./96021-art-strip-poker.json) |
 | Art Studio Simulator | 407346 | [407346-art-studio-simulator.json](./407346-art-studio-simulator.json) |
@@ -16539,6 +16541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
