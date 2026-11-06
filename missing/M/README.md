@@ -15224,6 +15224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mônica e a Guarda dos Coelhos | 112669 | [112669-monica-e-a-guarda-dos-coelhos.json](./112669-monica-e-a-guarda-dos-coelhos.json) |
 | Mônica em: o mundo perdido | 331780 | [331780-monica-em-o-mundo-perdido.json](./331780-monica-em-o-mundo-perdido.json) |
 | Mônica no Castelo do Dragão | 9557 | [9557-monica-no-castelo-do-dragao.json](./9557-monica-no-castelo-do-dragao.json) |
+| Monica the Story of Far Worlds | 197970 | [197970-monica-the-story-of-far-worlds.json](./197970-monica-the-story-of-far-worlds.json) |
 | Monica's Newlywed Life | 262754 | [262754-monicas-newlywed-life.json](./262754-monicas-newlywed-life.json) |
 | Monica's Paradox | 276222 | [276222-monicas-paradox.json](./276222-monicas-paradox.json) |
 | Monica's Revenge Tragedy | 171299 | [171299-monicas-revenge-tragedy.json](./171299-monicas-revenge-tragedy.json) |
@@ -21944,6 +21945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Marathon | 38579 | [38579-mystic-marathon.json](./38579-mystic-marathon.json) |
 | Mystic Mayhem | 64647 | [64647-mystic-mayhem.json](./64647-mystic-mayhem.json) |
 | Mystic Mayhem Unleashed | 121398 | [121398-mystic-mayhem-unleashed.json](./121398-mystic-mayhem-unleashed.json) |
+| Mystic Maze | 197981 | [197981-mystic-maze.json](./197981-mystic-maze.json) |
 | Mystic Melee | 33218 | [33218-mystic-melee.json](./33218-mystic-melee.json) |
 | Mystic Merchant | 348189 | [348189-mystic-merchant.json](./348189-mystic-merchant.json) |
 | Mystic Messenger | 27259 | [27259-mystic-messenger.json](./27259-mystic-messenger.json) |
