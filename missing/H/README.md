@@ -3706,6 +3706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hedge Fund Tycoon | 239779 | [239779-hedge-fund-tycoon.json](./239779-hedge-fund-tycoon.json) |
 | Hedgebomber Stories: A Shy Guy's Panic | 323675 | [323675-hedgebomber-stories-a-shy-guys-panic.json](./323675-hedgebomber-stories-a-shy-guys-panic.json) |
 | Hedgeborough | 390712 | [390712-hedgeborough.json](./390712-hedgeborough.json) |
+| Hedgehog Creek | 232238 | [232238-hedgehog-creek.json](./232238-hedgehog-creek.json) |
 | Hedgehog Destiny | 331744 | [331744-hedgehog-destiny.json](./331744-hedgehog-destiny.json) |
 | Hedgehog Launch | 234939 | [234939-hedgehog-launch.json](./234939-hedgehog-launch.json) |
 | Hedgehog Launch 2 | 234940 | [234940-hedgehog-launch-2.json](./234940-hedgehog-launch-2.json) |
@@ -4796,6 +4797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Casual Jigsaw: Vampires | 297118 | [297118-hentai-casual-jigsaw-vampires.json](./297118-hentai-casual-jigsaw-vampires.json) |
 | Hentai Casual Jigsaw: Witches | 245768 | [245768-hentai-casual-jigsaw-witches.json](./245768-hentai-casual-jigsaw-witches.json) |
 | Hentai Casual Jigsaw: Zombies | 301672 | [301672-hentai-casual-jigsaw-zombies.json](./301672-hentai-casual-jigsaw-zombies.json) |
+| Hentai Casual Slider | 232242 | [232242-hentai-casual-slider.json](./232242-hentai-casual-slider.json) |
 | Hentai Casual Slider 2 | 234736 | [234736-hentai-casual-slider-2.json](./234736-hentai-casual-slider-2.json) |
 | Hentai Casual Slider 3 | 240582 | [240582-hentai-casual-slider-3.json](./240582-hentai-casual-slider-3.json) |
 | Hentai Casual Swap | 239809 | [239809-hentai-casual-swap.json](./239809-hentai-casual-swap.json) |
