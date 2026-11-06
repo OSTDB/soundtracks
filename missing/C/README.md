@@ -351,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cage Grind | 417757 | [417757-cage-grind.json](./417757-cage-grind.json) |
 | Cage in My Head in My Cage in My Head in My | 389686 | [389686-cage-in-my-head-in-my-cage-in-my-head-in-my.json](./389686-cage-in-my-head-in-my-cage-in-my-head-in-my.json) |
 | Cage Me Not | 372631 | [372631-cage-me-not.json](./372631-cage-me-not.json) |
+| Cage of Etha | 217063 | [217063-cage-of-etha.json](./217063-cage-of-etha.json) |
 | Cage of Kurikaesu | 420498 | [420498-cage-of-kurikaesu.json](./420498-cage-of-kurikaesu.json) |
 | Cage of Roses | 303720 | [303720-cage-of-roses.json](./303720-cage-of-roses.json) |
 | Cage of the Succubi | 118012 | [118012-cage-of-the-succubi.json](./118012-cage-of-the-succubi.json) |
@@ -11331,6 +11332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Run | 210667 | [210667-coffee-run.json](./210667-coffee-run.json) |
 | Coffee Run | 74470 | [74470-coffee-run.json](./74470-coffee-run.json) |
 | Coffee Runner Black and Mocha | 119490 | [119490-coffee-runner-black-and-mocha.json](./119490-coffee-runner-black-and-mocha.json) |
+| Coffee Shop Simulator | 217070 | [217070-coffee-shop-simulator.json](./217070-coffee-shop-simulator.json) |
 | Coffee Shop Simulator | 356970 | [356970-coffee-shop-simulator.json](./356970-coffee-shop-simulator.json) |
 | Coffee Shop Tycoon | 35274 | [35274-coffee-shop-tycoon.json](./35274-coffee-shop-tycoon.json) |
 | Coffee Stack | 212506 | [212506-coffee-stack.json](./212506-coffee-stack.json) |
@@ -13685,6 +13687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Constellations | 397860 | [397860-constellations.json](./397860-constellations.json) |
 | Constellations: Beyond the Edges | 167256 | [167256-constellations-beyond-the-edges.json](./167256-constellations-beyond-the-edges.json) |
 | Constellations: Puzzles in the Sky | 195428 | [195428-constellations-puzzles-in-the-sky.json](./195428-constellations-puzzles-in-the-sky.json) |
+| Constelleum | 217099 | [217099-constelleum.json](./217099-constelleum.json) |
 | Consternation II | 169640 | [169640-consternation-ii.json](./169640-consternation-ii.json) |
 | Constitution | 83491 | [83491-constitution.json](./83491-constitution.json) |
 | Constricted VR | 29531 | [29531-constricted-vr.json](./29531-constricted-vr.json) |
@@ -14707,6 +14710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Collector | 341676 | [341676-corpse-collector.json](./341676-corpse-collector.json) |
 | Corpse Craft | 63753 | [63753-corpse-craft.json](./63753-corpse-craft.json) |
 | Corpse Disaster: Survivors | 238372 | [238372-corpse-disaster-survivors.json](./238372-corpse-disaster-survivors.json) |
+| Corpse Keeper | 217077 | [217077-corpse-keeper.json](./217077-corpse-keeper.json) |
 | Corpse Killer | 298551 | [298551-corpse-killer.json](./298551-corpse-killer.json) |
 | Corpse Killer | 5372 | [5372-corpse-killer.json](./5372-corpse-killer.json) |
 | Corpse Killer: 25th Anniversary Edition | 119715 | [119715-corpse-killer-25th-anniversary-edition.json](./119715-corpse-killer-25th-anniversary-edition.json) |
@@ -15767,6 +15771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Places | 82176 | [82176-cozy-places.json](./82176-cozy-places.json) |
 | Cozy Plates | 422018 | [422018-cozy-plates.json](./422018-cozy-plates.json) |
 | Cozy Puzzles | 390702 | [390702-cozy-puzzles.json](./390702-cozy-puzzles.json) |
+| Cozy Room | 217103 | [217103-cozy-room.json](./217103-cozy-room.json) |
 | Cozy Room Decorator | 269688 | [269688-cozy-room-decorator.json](./269688-cozy-room-decorator.json) |
 | Cozy Sanctuary | 337692 | [337692-cozy-sanctuary.json](./337692-cozy-sanctuary.json) |
 | Cozy Solitaire | 339330 | [339330-cozy-solitaire.json](./339330-cozy-solitaire.json) |
@@ -16016,6 +16021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crafty Fox | 181328 | [181328-crafty-fox.json](./181328-crafty-fox.json) |
 | Crafty Lands | 249462 | [249462-crafty-lands.json](./249462-crafty-lands.json) |
 | Crafty Racer | 285481 | [285481-crafty-racer.json](./285481-crafty-racer.json) |
+| Crafty Survivors | 217062 | [217062-crafty-survivors.json](./217062-crafty-survivors.json) |
 | Crafty Survivors: Wicked Winter | 414767 | [414767-crafty-survivors-wicked-winter.json](./414767-crafty-survivors-wicked-winter.json) |
 | CraftyCounty | 184349 | [184349-craftycounty.json](./184349-craftycounty.json) |
 | CragEx-5 | 346125 | [346125-cragex-5.json](./346125-cragex-5.json) |
@@ -20167,6 +20173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Chaser: Counterthrust | 101866 | [101866-cyber-chaser-counterthrust.json](./101866-cyber-chaser-counterthrust.json) |
 | Cyber Chess | 208844 | [208844-cyber-chess.json](./208844-cyber-chess.json) |
 | Cyber Chicken: Extreme Edition | 52847 | [52847-cyber-chicken-extreme-edition.json](./52847-cyber-chicken-extreme-edition.json) |
+| Cyber Chimps | 217071 | [217071-cyber-chimps.json](./217071-cyber-chimps.json) |
 | Cyber Circuit | 60840 | [60840-cyber-circuit.json](./60840-cyber-circuit.json) |
 | Cyber Citizen Shockman | 249236 | [249236-cyber-citizen-shockman.json](./249236-cyber-citizen-shockman.json) |
 | Cyber Citizen Shockman 2: A New Menace | 266339 | [266339-cyber-citizen-shockman-2-a-new-menace.json](./266339-cyber-citizen-shockman-2-a-new-menace.json) |
