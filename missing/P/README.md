@@ -9255,6 +9255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetary Plumbers | 242942 | [242942-planetary-plumbers.json](./242942-planetary-plumbers.json) |
 | Planetary Sanitations Inc. | 184812 | [184812-planetary-sanitations-inc.json](./184812-planetary-sanitations-inc.json) |
 | Planetary Settlers | 101340 | [101340-planetary-settlers.json](./101340-planetary-settlers.json) |
+| Planetary Strike | 237178 | [237178-planetary-strike.json](./237178-planetary-strike.json) |
 | Planetary Taxi | 279558 | [279558-planetary-taxi.json](./279558-planetary-taxi.json) |
 | Planetation | 148978 | [148978-planetation.json](./148978-planetation.json) |
 | PlanetBlight | 244132 | [244132-planetblight.json](./244132-planetblight.json) |
