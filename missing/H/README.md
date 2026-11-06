@@ -7925,6 +7925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Him | 258482 | [258482-him.json](./258482-him.json) |
 | Him & Her | 135652 | [135652-him-and-her.json](./135652-him-and-her.json) |
 | Him & Her 3 | 180980 | [180980-him-and-her-3.json](./180980-him-and-her-3.json) |
+| Him & Her Collection | 205221 | [205221-him-and-her-collection.json](./205221-him-and-her-collection.json) |
 | Him & Her: Her Challenges | 238195 | [238195-him-and-her-her-challenges.json](./238195-him-and-her-her-challenges.json) |
 | Him & I | 123545 | [123545-him-and-i.json](./123545-him-and-i.json) |
 | Him, the Smile & Bloom | 315911 | [315911-him-the-smile-and-bloom.json](./315911-him-the-smile-and-bloom.json) |
