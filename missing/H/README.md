@@ -3766,6 +3766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heir of the Dog | 260847 | [260847-heir-of-the-dog.json](./260847-heir-of-the-dog.json) |
 | Heir to the Queen | 358915 | [358915-heir-to-the-queen.json](./358915-heir-to-the-queen.json) |
 | Heiress II | 417969 | [417969-heiress-ii.json](./417969-heiress-ii.json) |
+| Heirloom | 239972 | [239972-heirloom.json](./239972-heirloom.json) |
 | Heirs | 329072 | [329072-heirs.json](./329072-heirs.json) |
 | Heirs and Graces | 32497 | [32497-heirs-and-graces.json](./32497-heirs-and-graces.json) |
 | Heirs of Heaven | 346237 | [346237-heirs-of-heaven.json](./346237-heirs-of-heaven.json) |
@@ -7315,6 +7316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide Zone | 374338 | [374338-hide-zone.json](./374338-hide-zone.json) |
 | Hide-a-neigh | 349189 | [349189-hide-a-neigh.json](./349189-hide-a-neigh.json) |
 | Hide-And-Seek | 86196 | [86196-hide-and-seek.json](./86196-hide-and-seek.json) |
+| Hide-n-Seek | 239992 | [239992-hide-n-seek.json](./239992-hide-n-seek.json) |
 | Hide.io | 102269 | [102269-hide-io.json](./102269-hide-io.json) |
 | Hide&Seek | 166425 | [166425-hide-and-seek.json](./166425-hide-and-seek.json) |
 | Hideandhunt | 204826 | [204826-hideandhunt.json](./204826-hideandhunt.json) |
@@ -9603,6 +9605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop Hop! Donut | 404370 | [404370-hop-hop-donut.json](./404370-hop-hop-donut.json) |
 | Hop Island | 270635 | [270635-hop-island.json](./270635-hop-island.json) |
 | Hop Man | 297870 | [297870-hop-man.json](./297870-hop-man.json) |
+| Hop Mania | 240013 | [240013-hop-mania.json](./240013-hop-mania.json) |
 | Hop n Pee Dreams VR | 259094 | [259094-hop-n-pee-dreams-vr.json](./259094-hop-n-pee-dreams-vr.json) |
 | Hop N' Drop | 265186 | [265186-hop-n-drop.json](./265186-hop-n-drop.json) |
 | Hop N' Swap | 340481 | [340481-hop-n-swap.json](./340481-hop-n-swap.json) |
