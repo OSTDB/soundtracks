@@ -3938,6 +3938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just A Walk In The Park | 253927 | [253927-just-a-walk-in-the-park.json](./253927-just-a-walk-in-the-park.json) |
 | Just Act Natural | 148161 | [148161-just-act-natural.json](./148161-just-act-natural.json) |
 | Just Act Natural: Museum | 295388 | [295388-just-act-natural-museum.json](./295388-just-act-natural-museum.json) |
+| Just Act Natural: Premium Version | 195317 | [195317-just-act-natural-premium-version.json](./195317-just-act-natural-premium-version.json) |
 | Just Alone | 34799 | [34799-just-alone.json](./34799-just-alone.json) |
 | Just an Ordinary Bike Ride | 403620 | [403620-just-an-ordinary-bike-ride.json](./403620-just-an-ordinary-bike-ride.json) |
 | Just Anomalies | 337582 | [337582-just-anomalies.json](./337582-just-anomalies.json) |
