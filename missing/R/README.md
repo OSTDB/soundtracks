@@ -4999,6 +4999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnants of Isolation | 28032 | [28032-remnants-of-isolation.json](./28032-remnants-of-isolation.json) |
 | Remnants of Naezith | 29520 | [29520-remnants-of-naezith.json](./29520-remnants-of-naezith.json) |
 | Remnants Of Nightfall | 301688 | [301688-remnants-of-nightfall.json](./301688-remnants-of-nightfall.json) |
+| Remnants of R'lyeh | 195825 | [195825-remnants-of-rlyeh.json](./195825-remnants-of-rlyeh.json) |
 | Remnants of Sin: Deck & Puzzle | 385352 | [385352-remnants-of-sin-deck-and-puzzle.json](./385352-remnants-of-sin-deck-and-puzzle.json) |
 | Remnants of Skystone | 270283 | [270283-remnants-of-skystone.json](./270283-remnants-of-skystone.json) |
 | Remnants of the Arcane | 32168 | [32168-remnants-of-the-arcane.json](./32168-remnants-of-the-arcane.json) |
