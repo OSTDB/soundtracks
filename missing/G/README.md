@@ -3198,6 +3198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeoJelly: in the Space | 279861 | [279861-geojelly-in-the-space.json](./279861-geojelly-in-the-space.json) |
 | GeoJet | 332886 | [332886-geojet.json](./332886-geojet.json) |
 | GeoLogic | 133138 | [133138-geologic.json](./133138-geologic.json) |
+| Geolosys | 226566 | [226566-geolosys.json](./226566-geolosys.json) |
 | Geom | 84515 | [84515-geom.json](./84515-geom.json) |
 | Geom | 93023 | [93023-geom.json](./93023-geom.json) |
 | Geom Cube | 44758 | [44758-geom-cube.json](./44758-geom-cube.json) |
@@ -4704,6 +4705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiator's Arena | 323104 | [323104-gladiators-arena.json](./323104-gladiators-arena.json) |
 | Gladiatori | 188893 | [188893-gladiatori.json](./188893-gladiatori.json) |
 | Gladiatorial Conquest: Battle Arena of Legends | 283266 | [283266-gladiatorial-conquest-battle-arena-of-legends.json](./283266-gladiatorial-conquest-battle-arena-of-legends.json) |
+| Gladiators and Glory | 226567 | [226567-gladiators-and-glory.json](./226567-gladiators-and-glory.json) |
 | Gladiators Battle | 321642 | [321642-gladiators-battle.json](./321642-gladiators-battle.json) |
 | Gladiators Idle | 340304 | [340304-gladiators-idle.json](./340304-gladiators-idle.json) |
 | Gladiators Manager | 155861 | [155861-gladiators-manager.json](./155861-gladiators-manager.json) |
@@ -9342,6 +9344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grime: Definitive Edition | 284491 | [284491-grime-definitive-edition.json](./284491-grime-definitive-edition.json) |
 | Grime: Tinge of Terror | 252363 | [252363-grime-tinge-of-terror.json](./252363-grime-tinge-of-terror.json) |
 | Grime&Gold | 345554 | [345554-grime-and-gold.json](./345554-grime-and-gold.json) |
+| Grimfield Mystery | 226568 | [226568-grimfield-mystery.json](./226568-grimfield-mystery.json) |
 | Grimfog: Dead Hand Path | 379641 | [379641-grimfog-dead-hand-path.json](./379641-grimfog-dead-hand-path.json) |
 | Grimgig Railway | 322156 | [322156-grimgig-railway.json](./322156-grimgig-railway.json) |
 | Grimgrad | 199612 | [199612-grimgrad.json](./199612-grimgrad.json) |
