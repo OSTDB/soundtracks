@@ -540,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zemsky Sobor | 376074 | [376074-zemsky-sobor.json](./376074-zemsky-sobor.json) |
 | ZemuRunner | 103980 | [103980-zemurunner.json](./103980-zemurunner.json) |
 | Zen | 180128 | [180128-zen.json](./180128-zen.json) |
+| Zen | 219883 | [219883-zen.json](./219883-zen.json) |
 | Zen 2212 A.D. | 275310 | [275310-zen-2212-a-d.json](./275310-zen-2212-a-d.json) |
 | Zen and the Art of Transhumanism | 146471 | [146471-zen-and-the-art-of-transhumanism.json](./146471-zen-and-the-art-of-transhumanism.json) |
 | Zen Beauty | 326256 | [326256-zen-beauty.json](./326256-zen-beauty.json) |
@@ -1043,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeroth Zone | 72133 | [72133-zeroth-zone.json](./72133-zeroth-zone.json) |
 | Zerouno Games Collection Pack 1 | 312066 | [312066-zerouno-games-collection-pack-1.json](./312066-zerouno-games-collection-pack-1.json) |
 | ZeroVector | 241638 | [241638-zerovector.json](./241638-zerovector.json) |
+| Zeroverse | 219875 | [219875-zeroverse.json](./219875-zeroverse.json) |
 | Zerowake Gates | 379943 | [379943-zerowake-gates.json](./379943-zerowake-gates.json) |
 | ZeroZap | 108892 | [108892-zerozap.json](./108892-zerozap.json) |
 | ZeroZeta | 361761 | [361761-zerozeta.json](./361761-zerozeta.json) |
