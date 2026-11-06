@@ -7282,6 +7282,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Soccer | 112128 | [112128-desktop-soccer.json](./112128-desktop-soccer.json) |
 | Desktop Soccer 2 | 225328 | [225328-desktop-soccer-2.json](./225328-desktop-soccer-2.json) |
 | Desktop Soccer 2: Nihon Daihyou Edition | 233925 | [233925-desktop-soccer-2-nihon-daihyou-edition.json](./233925-desktop-soccer-2-nihon-daihyou-edition.json) |
+| Desktop Soccer: DX Edition | 220939 | [220939-desktop-soccer-dx-edition.json](./220939-desktop-soccer-dx-edition.json) |
+| Desktop Soccer: Nihon Daihyou Edition | 220937 | [220937-desktop-soccer-nihon-daihyou-edition.json](./220937-desktop-soccer-nihon-daihyou-edition.json) |
 | Desktop Standing Card Plates | 394346 | [394346-desktop-standing-card-plates.json](./394346-desktop-standing-card-plates.json) |
 | Desktop Survivors 98 | 325702 | [325702-desktop-survivors-98.json](./325702-desktop-survivors-98.json) |
 | Desktop Table Tennis | 119524 | [119524-desktop-table-tennis.json](./119524-desktop-table-tennis.json) |
@@ -14560,6 +14562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Deluxe Edition | 237860 | [237860-dragon-ball-z-kakarot-a-new-power-awakens-set-deluxe-edition.json](./237860-dragon-ball-z-kakarot-a-new-power-awakens-set-deluxe-edition.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Goku's Next Journey | 288303 | [288303-dragon-ball-z-kakarot-a-new-power-awakens-set-gokus-next-journey.json](./288303-dragon-ball-z-kakarot-a-new-power-awakens-set-gokus-next-journey.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Legendary Edition | 232992 | [232992-dragon-ball-z-kakarot-a-new-power-awakens-set-legendary-edition.json](./232992-dragon-ball-z-kakarot-a-new-power-awakens-set-legendary-edition.json) |
+| Dragon Ball Z: Kakarot + A New Power Awakens Set - Ultimate Edition | 220921 | [220921-dragon-ball-z-kakarot-a-new-power-awakens-set-ultimate-edition.json](./220921-dragon-ball-z-kakarot-a-new-power-awakens-set-ultimate-edition.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set Season Pass 2 | 262157 | [262157-dragon-ball-z-kakarot-a-new-power-awakens-set-season-pass-2.json](./262157-dragon-ball-z-kakarot-a-new-power-awakens-set-season-pass-2.json) |
 | Dragon Ball Z: Legend of Z RPG | 314005 | [314005-dragon-ball-z-legend-of-z-rpg.json](./314005-dragon-ball-z-legend-of-z-rpg.json) |
 | Dragon Ball Z: Mission to Namek | 331064 | [331064-dragon-ball-z-mission-to-namek.json](./331064-dragon-ball-z-mission-to-namek.json) |
