@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth | 172387 | [172387-labyrinth.json](./172387-labyrinth.json) |
 | Labyrinth | 178288 | [178288-labyrinth.json](./178288-labyrinth.json) |
 | Labyrinth | 18211 | [18211-labyrinth.json](./18211-labyrinth.json) |
+| Labyrinth | 196939 | [196939-labyrinth.json](./196939-labyrinth.json) |
 | Labyrinth | 206701 | [206701-labyrinth.json](./206701-labyrinth.json) |
 | Labyrinth | 209820 | [209820-labyrinth.json](./209820-labyrinth.json) |
 | Labyrinth | 249273 | [249273-labyrinth.json](./249273-labyrinth.json) |
@@ -6982,6 +6983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logik | 204947 | [204947-logik.json](./204947-logik.json) |
 | LogiKing | 231051 | [231051-logiking.json](./231051-logiking.json) |
 | LogiKing: Level2 | 294048 | [294048-logiking-level2.json](./294048-logiking-level2.json) |
+| LogiNode | 196903 | [196903-loginode.json](./196903-loginode.json) |
 | LoginToShootingRangeInServer00 VR | 129416 | [129416-logintoshootingrangeinserver00-vr.json](./129416-logintoshootingrangeinserver00-vr.json) |
 | LogIQ Boost | 373650 | [373650-logiq-boost.json](./373650-logiq-boost.json) |
 | Logisch! - Die Denk-Boxx Vol. 1 | 81108 | [81108-logisch-die-denk-boxx-vol-1.json](./81108-logisch-die-denk-boxx-vol-1.json) |
@@ -8182,6 +8184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in the Sand | 215641 | [215641-lost-in-the-sand.json](./215641-lost-in-the-sand.json) |
 | Lost in the Secret! | 340126 | [340126-lost-in-the-secret.json](./340126-lost-in-the-secret.json) |
 | Lost In The Shadows | 250816 | [250816-lost-in-the-shadows.json](./250816-lost-in-the-shadows.json) |
+| Lost in the Space | 196952 | [196952-lost-in-the-space.json](./196952-lost-in-the-space.json) |
 | Lost in the Static | 71848 | [71848-lost-in-the-static.json](./71848-lost-in-the-static.json) |
 | Lost In The Store | 408064 | [408064-lost-in-the-store.json](./408064-lost-in-the-store.json) |
 | Lost in the Storm | 190022 | [190022-lost-in-the-storm.json](./190022-lost-in-the-storm.json) |
