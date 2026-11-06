@@ -4232,6 +4232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catan: Console Edition - Complete Collection | 303803 | [303803-catan-console-edition-complete-collection.json](./303803-catan-console-edition-complete-collection.json) |
 | Catan: Console Edition - Super Deluxe | 257426 | [257426-catan-console-edition-super-deluxe.json](./257426-catan-console-edition-super-deluxe.json) |
 | Catan: Console Edition - The Helpers | 275045 | [275045-catan-console-edition-the-helpers.json](./275045-catan-console-edition-the-helpers.json) |
+| Catan: Console Edition Deluxe | 239412 | [239412-catan-console-edition-deluxe.json](./239412-catan-console-edition-deluxe.json) |
 | Catan: Das Kartenspiel | 98936 | [98936-catan-das-kartenspiel.json](./98936-catan-das-kartenspiel.json) |
 | Catan: World Explorers | 139848 | [139848-catan-world-explorers.json](./139848-catan-world-explorers.json) |
 | Catana | 180993 | [180993-catana.json](./180993-catana.json) |
@@ -6956,6 +6957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chick City Construction | 174872 | [174872-chick-city-construction.json](./174872-chick-city-construction.json) |
 | Chick Clicker | 344995 | [344995-chick-clicker.json](./344995-chick-clicker.json) |
 | Chick Defender | 343057 | [343057-chick-defender.json](./343057-chick-defender.json) |
+| Chick Flick | 239398 | [239398-chick-flick.json](./239398-chick-flick.json) |
 | Chick Game | 373681 | [373681-chick-game.json](./373681-chick-game.json) |
 | Chick Invasion | 150939 | [150939-chick-invasion.json](./150939-chick-invasion.json) |
 | Chick Road Rage | 281993 | [281993-chick-road-rage.json](./281993-chick-road-rage.json) |
@@ -11254,6 +11256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Talk 1+2 Double Pack Edition | 270576 | [270576-coffee-talk-1-2-double-pack-edition.json](./270576-coffee-talk-1-2-double-pack-edition.json) |
 | Coffee Talk: Episode 2 - Hibiscus & Butterfly | 186528 | [186528-coffee-talk-episode-2-hibiscus-and-butterfly.json](./186528-coffee-talk-episode-2-hibiscus-and-butterfly.json) |
 | Coffee Talk: Tokyo | 314928 | [314928-coffee-talk-tokyo.json](./314928-coffee-talk-tokyo.json) |
+| Coffee Time! | 239424 | [239424-coffee-time.json](./239424-coffee-time.json) |
 | Coffee Trainer VR | 110095 | [110095-coffee-trainer-vr.json](./110095-coffee-trainer-vr.json) |
 | Coffee Tycoon | 73561 | [73561-coffee-tycoon.json](./73561-coffee-tycoon.json) |
 | Coffee VendoR | 113685 | [113685-coffee-vendor.json](./113685-coffee-vendor.json) |
@@ -16872,6 +16875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Credence Filter | 30472 | [30472-credence-filter.json](./30472-credence-filter.json) |
 | Creed Arena | 52324 | [52324-creed-arena.json](./52324-creed-arena.json) |
 | Creed: Rise to Glory | 102134 | [102134-creed-rise-to-glory.json](./102134-creed-rise-to-glory.json) |
+| Creed: Rise to Glory - Championship Edition | 239419 | [239419-creed-rise-to-glory-championship-edition.json](./239419-creed-rise-to-glory-championship-edition.json) |
 | Creekside Creep Invasion | 30671 | [30671-creekside-creep-invasion.json](./30671-creekside-creep-invasion.json) |
 | Creep | 133462 | [133462-creep.json](./133462-creep.json) |
 | Creep Kick | 310197 | [310197-creep-kick.json](./310197-creep-kick.json) |
