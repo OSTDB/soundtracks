@@ -849,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Combat 64 | 356271 | [356271-ultra-combat-64.json](./356271-ultra-combat-64.json) |
 | Ultra Cop | 322513 | [322513-ultra-cop.json](./322513-ultra-cop.json) |
 | Ultra Damage | 373121 | [373121-ultra-damage.json](./373121-ultra-damage.json) |
+| Ultra Dash | 200250 | [200250-ultra-dash.json](./200250-ultra-dash.json) |
 | Ultra Doggy | 277635 | [277635-ultra-doggy.json](./277635-ultra-doggy.json) |
 | Ultra Donkey Kong | 231473 | [231473-ultra-donkey-kong.json](./231473-ultra-donkey-kong.json) |
 | Ultra Dynasty Warriors | 44157 | [44157-ultra-dynasty-warriors.json](./44157-ultra-dynasty-warriors.json) |
@@ -1537,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Souls | 55496 | [55496-undead-souls.json](./55496-undead-souls.json) |
 | Undead Syndrome Episode 1 | 152019 | [152019-undead-syndrome-episode-1.json](./152019-undead-syndrome-episode-1.json) |
 | Undead Syndrome Episode 2 | 152020 | [152020-undead-syndrome-episode-2.json](./152020-undead-syndrome-episode-2.json) |
+| Undead Tower Crusade | 200246 | [200246-undead-tower-crusade.json](./200246-undead-tower-crusade.json) |
 | Undead Trail: Haunting Shadows | 304851 | [304851-undead-trail-haunting-shadows.json](./304851-undead-trail-haunting-shadows.json) |
 | Undead Tread | 374879 | [374879-undead-tread.json](./374879-undead-tread.json) |
 | Undead Under Night Rain | 199267 | [199267-undead-under-night-rain.json](./199267-undead-under-night-rain.json) |
