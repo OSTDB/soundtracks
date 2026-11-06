@@ -603,6 +603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lama Drama FPS | 122370 | [122370-lama-drama-fps.json](./122370-lama-drama-fps.json) |
 | Lamafox - Hide and Seek! | 200499 | [200499-lamafox-hide-and-seek.json](./200499-lamafox-hide-and-seek.json) |
 | Lamar: Idle Vlogger | 272098 | [272098-lamar-idle-vlogger.json](./272098-lamar-idle-vlogger.json) |
+| Lamarr Goes to the Zoo | 241735 | [241735-lamarr-goes-to-the-zoo.json](./241735-lamarr-goes-to-the-zoo.json) |
 | Lamb Chop & Friends | 198796 | [198796-lamb-chop-and-friends.json](./198796-lamb-chop-and-friends.json) |
 | Lamb Fountain and Dungeon | 208086 | [208086-lamb-fountain-and-dungeon.json](./208086-lamb-fountain-and-dungeon.json) |
 | Lamb to the Slaughter | 323553 | [323553-lamb-to-the-slaughter.json](./323553-lamb-to-the-slaughter.json) |
