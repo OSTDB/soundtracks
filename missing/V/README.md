@@ -3056,6 +3056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vivid Conceptions | 93152 | [93152-vivid-conceptions.json](./93152-vivid-conceptions.json) |
 | Vivid Intrusion | 399379 | [399379-vivid-intrusion.json](./399379-vivid-intrusion.json) |
 | Vivid Knight | 148301 | [148301-vivid-knight.json](./148301-vivid-knight.json) |
+| Vivid Relapse | 232239 | [232239-vivid-relapse.json](./232239-vivid-relapse.json) |
 | Vivid Spirit | 122012 | [122012-vivid-spirit.json](./122012-vivid-spirit.json) |
 | Vivid Surf | 171315 | [171315-vivid-surf.json](./171315-vivid-surf.json) |
 | Vivid Tale | 235817 | [235817-vivid-tale.json](./235817-vivid-tale.json) |
@@ -3308,6 +3309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Red | 376001 | [376001-void-red.json](./376001-void-red.json) |
 | Void Reforest | 382597 | [382597-void-reforest.json](./382597-void-reforest.json) |
 | Void Rifter XR | 232920 | [232920-void-rifter-xr.json](./232920-void-rifter-xr.json) |
+| Void Rogue | 232231 | [232231-void-rogue.json](./232231-void-rogue.json) |
 | Void Runner | 134982 | [134982-void-runner.json](./134982-void-runner.json) |
 | Void Runner | 259593 | [259593-void-runner.json](./259593-void-runner.json) |
 | Void Rush | 378602 | [378602-void-rush.json](./378602-void-rush.json) |
