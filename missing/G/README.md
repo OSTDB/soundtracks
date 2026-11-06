@@ -2164,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gasketball | 60316 | [60316-gasketball.json](./60316-gasketball.json) |
 | Gaslamp Cases 10: The Loch Ness Enigma | 336995 | [336995-gaslamp-cases-10-the-loch-ness-enigma.json](./336995-gaslamp-cases-10-the-loch-ness-enigma.json) |
 | Gaslamp Cases 2: The Haunted Village | 181119 | [181119-gaslamp-cases-2-the-haunted-village.json](./181119-gaslamp-cases-2-the-haunted-village.json) |
+| Gaslamp Cases 3: Ancient Secrets | 193039 | [193039-gaslamp-cases-3-ancient-secrets.json](./193039-gaslamp-cases-3-ancient-secrets.json) |
 | Gaslamp Cases 4: The Arcane Village | 294395 | [294395-gaslamp-cases-4-the-arcane-village.json](./294395-gaslamp-cases-4-the-arcane-village.json) |
 | Gaslamp Cases 5: The Dreadful City | 248917 | [248917-gaslamp-cases-5-the-dreadful-city.json](./248917-gaslamp-cases-5-the-dreadful-city.json) |
 | Gaslamp Cases 6: Haunted Waters | 294732 | [294732-gaslamp-cases-6-haunted-waters.json](./294732-gaslamp-cases-6-haunted-waters.json) |
@@ -8669,6 +8670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity's Edge | 386942 | [386942-gravitys-edge.json](./386942-gravitys-edge.json) |
 | Gravity+ | 84530 | [84530-gravity.json](./84530-gravity.json) |
 | GravityBall | 409647 | [409647-gravityball.json](./409647-gravityball.json) |
+| GravityPunk | 193042 | [193042-gravitypunk.json](./193042-gravitypunk.json) |
 | Gravityscape DX | 287590 | [287590-gravityscape-dx.json](./287590-gravityscape-dx.json) |
 | GravityTunnelVR | 52773 | [52773-gravitytunnelvr.json](./52773-gravitytunnelvr.json) |
 | Gravix | 196980 | [196980-gravix.json](./196980-gravix.json) |
@@ -9511,6 +9513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimoire Arena | 125328 | [125328-grimoire-arena.json](./125328-grimoire-arena.json) |
 | Grimoire Chronicles | 29165 | [29165-grimoire-chronicles.json](./29165-grimoire-chronicles.json) |
 | Grimoire Grapple | 386084 | [386084-grimoire-grapple.json](./386084-grimoire-grapple.json) |
+| Grimoire Groves | 193034 | [193034-grimoire-groves.json](./193034-grimoire-groves.json) |
 | Grimoire Limbo | 416334 | [416334-grimoire-limbo.json](./416334-grimoire-limbo.json) |
 | Grimoire Melody | 125599 | [125599-grimoire-melody.json](./125599-grimoire-melody.json) |
 | Grimoire of Blanks | 418214 | [418214-grimoire-of-blanks.json](./418214-grimoire-of-blanks.json) |
