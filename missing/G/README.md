@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaia Maker | 373599 | [373599-gaia-maker.json](./373599-gaia-maker.json) |
 | Gaia Master | 59153 | [59153-gaia-master.json](./59153-gaia-master.json) |
 | Gaia Master Duel Card Attacks | 79384 | [79384-gaia-master-duel-card-attacks.json](./79384-gaia-master-duel-card-attacks.json) |
+| Gaia Odyssey | 202898 | [202898-gaia-odyssey.json](./202898-gaia-odyssey.json) |
 | Gaia Online | 125884 | [125884-gaia-online.json](./125884-gaia-online.json) |
 | Gaia Project | 150247 | [150247-gaia-project.json](./150247-gaia-project.json) |
 | Gaia Saver: Hero Saidai no Sakusen | 42239 | [42239-gaia-saver-hero-saidai-no-sakusen.json](./42239-gaia-saver-hero-saidai-no-sakusen.json) |
@@ -512,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Bar Fight VR | 198447 | [198447-galactic-bar-fight-vr.json](./198447-galactic-bar-fight-vr.json) |
 | Galactic Battle | 73707 | [73707-galactic-battle.json](./73707-galactic-battle.json) |
 | Galactic Battles | 81951 | [81951-galactic-battles.json](./81951-galactic-battles.json) |
+| Galactic Beacon Brigade | 202890 | [202890-galactic-beacon-brigade.json](./202890-galactic-beacon-brigade.json) |
 | Galactic Blasters BR: Artist's Faith | 366568 | [366568-galactic-blasters-br-artists-faith.json](./366568-galactic-blasters-br-artists-faith.json) |
 | Galactic Blasters D: Future Darkness | 336165 | [336165-galactic-blasters-d-future-darkness.json](./336165-galactic-blasters-d-future-darkness.json) |
 | Galactic Blasters D2: Brilliant Supernova | 265931 | [265931-galactic-blasters-d2-brilliant-supernova.json](./265931-galactic-blasters-d2-brilliant-supernova.json) |
