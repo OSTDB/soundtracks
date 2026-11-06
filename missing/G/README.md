@@ -3925,6 +3925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Villa | 293574 | [293574-ghost-villa.json](./293574-ghost-villa.json) |
 | Ghost Village | 224237 | [224237-ghost-village.json](./224237-ghost-village.json) |
 | Ghost Voyage | 269837 | [269837-ghost-voyage.json](./269837-ghost-voyage.json) |
+| Ghost War | 213718 | [213718-ghost-war.json](./213718-ghost-war.json) |
 | Ghost Watchers | 189920 | [189920-ghost-watchers.json](./189920-ghost-watchers.json) |
 | Ghost Wave | 311037 | [311037-ghost-wave.json](./311037-ghost-wave.json) |
 | Ghost Whisperer | 10361 | [10361-ghost-whisperer.json](./10361-ghost-whisperer.json) |
