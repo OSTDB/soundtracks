@@ -3287,6 +3287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Fredbears | 394988 | [394988-welcome-to-fredbears.json](./394988-welcome-to-fredbears.json) |
 | Welcome to Fredbears | 394990 | [394990-welcome-to-fredbears.json](./394990-welcome-to-fredbears.json) |
 | Welcome to Freddy's | 254251 | [254251-welcome-to-freddys.json](./254251-welcome-to-freddys.json) |
+| Welcome to Free Will: Episode 1 | 195327 | [195327-welcome-to-free-will-episode-1.json](./195327-welcome-to-free-will-episode-1.json) |
 | Welcome to Free Will: Episode 3 | 237060 | [237060-welcome-to-free-will-episode-3.json](./237060-welcome-to-free-will-episode-3.json) |
 | Welcome to GameCube World!! | 175969 | [175969-welcome-to-gamecube-world.json](./175969-welcome-to-gamecube-world.json) |
 | Welcome to Genius High! | 208317 | [208317-welcome-to-genius-high.json](./208317-welcome-to-genius-high.json) |
