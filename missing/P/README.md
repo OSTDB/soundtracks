@@ -8458,6 +8458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Transit | 339296 | [339296-pixel-transit.json](./339296-pixel-transit.json) |
 | Pixel Traveler | 210392 | [210392-pixel-traveler.json](./210392-pixel-traveler.json) |
 | Pixel Traveler | 412059 | [412059-pixel-traveler.json](./412059-pixel-traveler.json) |
+| Pixel Tribe: Viking Kingdom | 244007 | [244007-pixel-tribe-viking-kingdom.json](./244007-pixel-tribe-viking-kingdom.json) |
 | Pixel Troopers | 351752 | [351752-pixel-troopers.json](./351752-pixel-troopers.json) |
 | Pixel Trouble | 192235 | [192235-pixel-trouble.json](./192235-pixel-trouble.json) |
 | Pixel Volley | 245632 | [245632-pixel-volley.json](./245632-pixel-volley.json) |
@@ -15386,6 +15387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Ants | 398506 | [398506-project-ants.json](./398506-project-ants.json) |
 | Project Antumbra | 50438 | [50438-project-antumbra.json](./50438-project-antumbra.json) |
 | Project Aphotic | 285327 | [285327-project-aphotic.json](./285327-project-aphotic.json) |
+| Project Apidom | 244022 | [244022-project-apidom.json](./244022-project-apidom.json) |
 | Project Apocalypse | 126798 | [126798-project-apocalypse.json](./126798-project-apocalypse.json) |
 | Project Apoceus | 274913 | [274913-project-apoceus.json](./274913-project-apoceus.json) |
 | Project Apparatus | 297192 | [297192-project-apparatus.json](./297192-project-apparatus.json) |
