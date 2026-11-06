@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C out | 37302 | [37302-c-out.json](./37302-c-out.json) |
 | C So! | 6095 | [6095-c-so.json](./6095-c-so.json) |
 | C ya laterrrr | 177817 | [177817-c-ya-laterrrr.json](./177817-c-ya-laterrrr.json) |
+| C-130 Hercules | 206326 | [206326-c-130-hercules.json](./206326-c-130-hercules.json) |
 | C-2048 | 41177 | [41177-c-2048.json](./41177-c-2048.json) |
 | C-4 | 165733 | [165733-c-4.json](./165733-c-4.json) |
 | C-Beams | 329295 | [329295-c-beams.json](./329295-c-beams.json) |
@@ -8405,6 +8406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Refugia | 213401 | [213401-chronicles-of-refugia.json](./213401-chronicles-of-refugia.json) |
 | Chronicles Of Sagrea | 287925 | [287925-chronicles-of-sagrea.json](./287925-chronicles-of-sagrea.json) |
 | Chronicles of Sarval: Bridges of Koni | 173052 | [173052-chronicles-of-sarval-bridges-of-koni.json](./173052-chronicles-of-sarval-bridges-of-koni.json) |
+| Chronicles of Tal'Dun: The Remainder | 206405 | [206405-chronicles-of-taldun-the-remainder.json](./206405-chronicles-of-taldun-the-remainder.json) |
 | Chronicles of TalDun: The Longing | 239787 | [239787-chronicles-of-taldun-the-longing.json](./239787-chronicles-of-taldun-the-longing.json) |
 | Chronicles of Teddy: Harmony of Exidus | 19391 | [19391-chronicles-of-teddy-harmony-of-exidus.json](./19391-chronicles-of-teddy-harmony-of-exidus.json) |
 | Chronicles of the Celestial Way | 347221 | [347221-chronicles-of-the-celestial-way.json](./347221-chronicles-of-the-celestial-way.json) |
@@ -11096,6 +11098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coco Block | 391595 | [391595-coco-block.json](./391595-coco-block.json) |
 | Coco Loco | 40158 | [40158-coco-loco.json](./40158-coco-loco.json) |
 | Coco Notes | 243644 | [243644-coco-notes.json](./243644-coco-notes.json) |
+| Coco Nutshake | 206315 | [206315-coco-nutshake.json](./206315-coco-nutshake.json) |
 | Coco Pony - My Dream Pet | 96305 | [96305-coco-pony-my-dream-pet.json](./96305-coco-pony-my-dream-pet.json) |
 | Coco to the Rescue | 230365 | [230365-coco-to-the-rescue.json](./230365-coco-to-the-rescue.json) |
 | Cocoa 2: Twenty Four Hour Parsley People | 178452 | [178452-cocoa-2-twenty-four-hour-parsley-people.json](./178452-cocoa-2-twenty-four-hour-parsley-people.json) |
@@ -11301,6 +11304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename Medusa | 395792 | [395792-codename-medusa.json](./395792-codename-medusa.json) |
 | Codename Nemesis | 113646 | [113646-codename-nemesis.json](./113646-codename-nemesis.json) |
 | Codename Prodigy | 156020 | [156020-codename-prodigy.json](./156020-codename-prodigy.json) |
+| Codename: Apocalypse | 206406 | [206406-codename-apocalypse.json](./206406-codename-apocalypse.json) |
 | Codename: Bakery Girl | 113467 | [113467-codename-bakery-girl.json](./113467-codename-bakery-girl.json) |
 | Codename: Black Crow | 372226 | [372226-codename-black-crow.json](./372226-codename-black-crow.json) |
 | Codename: Cupid | 238414 | [238414-codename-cupid.json](./238414-codename-cupid.json) |
@@ -11372,6 +11376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Bar Renovator | 216608 | [216608-coffee-bar-renovator.json](./216608-coffee-bar-renovator.json) |
 | Coffee Bar Simulator | 373269 | [373269-coffee-bar-simulator.json](./373269-coffee-bar-simulator.json) |
 | Coffee Brakes | 276207 | [276207-coffee-brakes.json](./276207-coffee-brakes.json) |
+| Coffee Break | 206303 | [206303-coffee-break.json](./206303-coffee-break.json) |
 | Coffee Break | 261180 | [261180-coffee-break.json](./261180-coffee-break.json) |
 | Coffee Break | 326214 | [326214-coffee-break.json](./326214-coffee-break.json) |
 | Coffee Break | 71743 | [71743-coffee-break.json](./71743-coffee-break.json) |
@@ -20308,6 +20313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Egg: Battle Champion | 58062 | [58062-cyber-egg-battle-champion.json](./58062-cyber-egg-battle-champion.json) |
 | Cyber Emoji Tale 2099 | 144004 | [144004-cyber-emoji-tale-2099.json](./144004-cyber-emoji-tale-2099.json) |
 | Cyber Empires | 70181 | [70181-cyber-empires.json](./70181-cyber-empires.json) |
+| Cyber Engine | 206305 | [206305-cyber-engine.json](./206305-cyber-engine.json) |
 | Cyber Escape | 93793 | [93793-cyber-escape.json](./93793-cyber-escape.json) |
 | Cyber Evolution | 359865 | [359865-cyber-evolution.json](./359865-cyber-evolution.json) |
 | Cyber Evolution | 372988 | [372988-cyber-evolution.json](./372988-cyber-evolution.json) |
