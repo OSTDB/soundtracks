@@ -134,11 +134,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maboroshi Tsukiyo | 128379 | [128379-maboroshi-tsukiyo.json](./128379-maboroshi-tsukiyo.json) |
 | Maboshi's Arcade | 21788 | [21788-maboshis-arcade.json](./21788-maboshis-arcade.json) |
 | Mabus 3000 | 245781 | [245781-mabus-3000.json](./245781-mabus-3000.json) |
+| Mac Attack | 210200 | [210200-mac-attack.json](./210200-mac-attack.json) |
 | Mac Biskwi Adventures | 169631 | [169631-mac-biskwi-adventures.json](./169631-mac-biskwi-adventures.json) |
 | Mac Pro Football | 36694 | [36694-mac-pro-football.json](./36694-mac-pro-football.json) |
 | Macabre | 201488 | [201488-macabre.json](./201488-macabre.json) |
 | Macabre | 34875 | [34875-macabre.json](./34875-macabre.json) |
 | Macabre Museum | 216685 | [216685-macabre-museum.json](./216685-macabre-museum.json) |
+| Macabre Mysteries: Curse of the Nightingale | 210198 | [210198-macabre-mysteries-curse-of-the-nightingale.json](./210198-macabre-mysteries-curse-of-the-nightingale.json) |
 | Macabre no Zantou: Remnants of the Macabre | 309363 | [309363-macabre-no-zantou-remnants-of-the-macabre.json](./309363-macabre-no-zantou-remnants-of-the-macabre.json) |
 | Macabre Ring 2: Mysterious Puppeteer | 295442 | [295442-macabre-ring-2-mysterious-puppeteer.json](./295442-macabre-ring-2-mysterious-puppeteer.json) |
 | Macabre Stage Vol. 1: Cursed Cartridge | 270998 | [270998-macabre-stage-vol-1-cursed-cartridge.json](./270998-macabre-stage-vol-1-cursed-cartridge.json) |
@@ -246,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MachineGunner2: Bullet Transcending | 365270 | [365270-machinegunner2-bullet-transcending.json](./365270-machinegunner2-bullet-transcending.json) |
 | MachineryWorld | 158118 | [158118-machineryworld.json](./158118-machineryworld.json) |
 | Machines at War 3 | 17485 | [17485-machines-at-war-3.json](./17485-machines-at-war-3.json) |
+| Machines Have Lucid Dreams | 210334 | [210334-machines-have-lucid-dreams.json](./210334-machines-have-lucid-dreams.json) |
 | Machines of Madness | 263032 | [263032-machines-of-madness.json](./263032-machines-of-madness.json) |
 | Machinicide | 196962 | [196962-machinicide.json](./196962-machinicide.json) |
 | Machinika Museum | 163777 | [163777-machinika-museum.json](./163777-machinika-museum.json) |
@@ -464,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madagascar 3: Europe's Most Wanted | 243270 | [243270-madagascar-3-europes-most-wanted.json](./243270-madagascar-3-europes-most-wanted.json) |
 | Madagascar 3: The Video Game | 19648 | [19648-madagascar-3-the-video-game.json](./19648-madagascar-3-the-video-game.json) |
 | Madagascar 3: The Video Game & The Croods: Prehistoric Party Combo Pack | 61836 | [61836-madagascar-3-the-video-game-and-the-croods-prehistoric-party-combo-pack.json](./61836-madagascar-3-the-video-game-and-the-croods-prehistoric-party-combo-pack.json) |
+| Madagascar Island Mania | 210202 | [210202-madagascar-island-mania.json](./210202-madagascar-island-mania.json) |
 | Madagascar Kartz | 309578 | [309578-madagascar-kartz.json](./309578-madagascar-kartz.json) |
 | Madagascar Kartz | 3767 | [3767-madagascar-kartz.json](./3767-madagascar-kartz.json) |
 | Madagascar Mini-Mayhem | 137609 | [137609-madagascar-mini-mayhem.json](./137609-madagascar-mini-mayhem.json) |
@@ -634,7 +638,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Made Up Chart | 415838 | [415838-made-up-chart.json](./415838-made-up-chart.json) |
 | Made VR | 380496 | [380496-made-vr.json](./380496-made-vr.json) |
 | Madela | 127859 | [127859-madela.json](./127859-madela.json) |
+| Madeline and the Magnificent Puppet Show: A Learning Journey | 210195 | [210195-madeline-and-the-magnificent-puppet-show-a-learning-journey.json](./210195-madeline-and-the-magnificent-puppet-show-a-learning-journey.json) |
 | Madeline: European Adventures | 210114 | [210114-madeline-european-adventures.json](./210114-madeline-european-adventures.json) |
+| Madeline: Thinking Games | 210194 | [210194-madeline-thinking-games.json](./210194-madeline-thinking-games.json) |
 | Mademoiselle Kshatriya | 367622 | [367622-mademoiselle-kshatriya.json](./367622-mademoiselle-kshatriya.json) |
 | MaDevil | 201402 | [201402-madevil.json](./201402-madevil.json) |
 | Madfarmer: Lost Kingdoms and Crazy Critters | 269372 | [269372-madfarmer-lost-kingdoms-and-crazy-critters.json](./269372-madfarmer-lost-kingdoms-and-crazy-critters.json) |
@@ -1725,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magna Mundi | 65047 | [65047-magna-mundi.json](./65047-magna-mundi.json) |
 | Magna Regna | 211926 | [211926-magna-regna.json](./211926-magna-regna.json) |
 | MagnaCarta 2 | 7061 | [7061-magnacarta-2.json](./7061-magnacarta-2.json) |
+| Magnaflux Runner | 210196 | [210196-magnaflux-runner.json](./210196-magnaflux-runner.json) |
 | Magnat | 365757 | [365757-magnat.json](./365757-magnat.json) |
 | Magnate: Robot Idle Tycoon | 268449 | [268449-magnate-robot-idle-tycoon.json](./268449-magnate-robot-idle-tycoon.json) |
 | Magnavale: Eternal Soul | 385270 | [385270-magnavale-eternal-soul.json](./385270-magnavale-eternal-soul.json) |
@@ -1919,6 +1926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Gakuen Touma Soushirou Toujou | 59429 | [59429-mahjong-gakuen-touma-soushirou-toujou.json](./59429-mahjong-gakuen-touma-soushirou-toujou.json) |
 | Mahjong Gakuen Touma Soushirou Toujou Mild | 37679 | [37679-mahjong-gakuen-touma-soushirou-toujou-mild.json](./37679-mahjong-gakuen-touma-soushirou-toujou-mild.json) |
 | Mahjong Garden | 366439 | [366439-mahjong-garden.json](./366439-mahjong-garden.json) |
+| Mahjong Garden Deluxe | 210199 | [210199-mahjong-garden-deluxe.json](./210199-mahjong-garden-deluxe.json) |
 | Mahjong Garden HD | 354979 | [354979-mahjong-garden-hd.json](./354979-mahjong-garden-hd.json) |
 | Mahjong Girl | 89013 | [89013-mahjong-girl.json](./89013-mahjong-girl.json) |
 | Mahjong Girl Kshity-Gurpa | 379045 | [379045-mahjong-girl-kshity-gurpa.json](./379045-mahjong-girl-kshity-gurpa.json) |
@@ -2062,16 +2070,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjongg 4 Deluxe | 24757 | [24757-mahjongg-4-deluxe.json](./24757-mahjongg-4-deluxe.json) |
 | Mahjongg Artifacts | 120513 | [120513-mahjongg-artifacts.json](./120513-mahjongg-artifacts.json) |
 | Mahjongg Artifacts: Chapter 2 | 66978 | [66978-mahjongg-artifacts-chapter-2.json](./66978-mahjongg-artifacts-chapter-2.json) |
+| Mahjongg Challenge | 210205 | [210205-mahjongg-challenge.json](./210205-mahjongg-challenge.json) |
 | Mahjongg Compilation | 91596 | [91596-mahjongg-compilation.json](./91596-mahjongg-compilation.json) |
 | Mahjongg Compilation | 91597 | [91597-mahjongg-compilation.json](./91597-mahjongg-compilation.json) |
 | Mahjongg DS | 91318 | [91318-mahjongg-ds.json](./91318-mahjongg-ds.json) |
+| Mahjongg Empire | 210203 | [210203-mahjongg-empire.json](./210203-mahjongg-empire.json) |
 | MahJongg Master 2 | 200882 | [200882-mahjongg-master-2.json](./200882-mahjongg-master-2.json) |
 | Mahjongg Master 3 | 93140 | [93140-mahjongg-master-3.json](./93140-mahjongg-master-3.json) |
 | MahJongg Master 4 | 200883 | [200883-mahjongg-master-4.json](./200883-mahjongg-master-4.json) |
+| MahJongg Master 6 | 210207 | [210207-mahjongg-master-6.json](./210207-mahjongg-master-6.json) |
 | Mahjongg Master: Egyptian Edition | 210209 | [210209-mahjongg-master-egyptian-edition.json](./210209-mahjongg-master-egyptian-edition.json) |
+| Mahjongg Mysteries: Ancient Egypt | 210197 | [210197-mahjongg-mysteries-ancient-egypt.json](./210197-mahjongg-mysteries-ancient-egypt.json) |
+| Mahjongg Platinum 5: Deluxe Edition | 210190 | [210190-mahjongg-platinum-5-deluxe-edition.json](./210190-mahjongg-platinum-5-deluxe-edition.json) |
 | Mahjongg Platinum Evolution Edition | 96762 | [96762-mahjongg-platinum-evolution-edition.json](./96762-mahjongg-platinum-evolution-edition.json) |
 | Mahjongg Sammlung | 91603 | [91603-mahjongg-sammlung.json](./91603-mahjongg-sammlung.json) |
 | Mahjongg The Ultimate Collection 2 | 108027 | [108027-mahjongg-the-ultimate-collection-2.json](./108027-mahjongg-the-ultimate-collection-2.json) |
+| Mahjongg XP Championship | 210193 | [210193-mahjongg-xp-championship.json](./210193-mahjongg-xp-championship.json) |
+| MahJongg: Tiles of Time | 210192 | [210192-mahjongg-tiles-of-time.json](./210192-mahjongg-tiles-of-time.json) |
 | Mahjongger | 93002 | [93002-mahjongger.json](./93002-mahjongger.json) |
 | MahjongPuzzle 8 | 358025 | [358025-mahjongpuzzle-8.json](./358025-mahjongpuzzle-8.json) |
 | MahjongSchool | 158226 | [158226-mahjongschool.json](./158226-mahjongschool.json) |
@@ -5903,6 +5918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -7696,6 +7712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Battle Network Legacy Collection Vol. 2: Custom Pet Pack Vol. 2 | 254838 | [254838-mega-man-battle-network-legacy-collection-vol-2-custom-pet-pack-vol-2.json](./254838-mega-man-battle-network-legacy-collection-vol-2-custom-pet-pack-vol-2.json) |
 | Mega Man Battle Network Mashup | 417326 | [417326-mega-man-battle-network-mashup.json](./417326-mega-man-battle-network-mashup.json) |
 | Mega Man CD: Rock Version | 323330 | [323330-mega-man-cd-rock-version.json](./323330-mega-man-cd-rock-version.json) |
+| Mega Man Christmas Carol | 210346 | [210346-mega-man-christmas-carol.json](./210346-mega-man-christmas-carol.json) |
 | Mega Man Christmas Carol 2 | 209265 | [209265-mega-man-christmas-carol-2.json](./209265-mega-man-christmas-carol-2.json) |
 | Mega Man Christmas Carol 3 | 209266 | [209266-mega-man-christmas-carol-3.json](./209266-mega-man-christmas-carol-3.json) |
 | Mega Man Christmas Carol Remix | 209264 | [209264-mega-man-christmas-carol-remix.json](./209264-mega-man-christmas-carol-remix.json) |
