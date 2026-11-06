@@ -9193,6 +9193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Drop | 347493 | [347493-lucky-drop.json](./347493-lucky-drop.json) |
 | Lucky Dungeon | 272954 | [272954-lucky-dungeon.json](./272954-lucky-dungeon.json) |
 | Lucky Farm | 309567 | [309567-lucky-farm.json](./309567-lucky-farm.json) |
+| Lucky Farmer | 238252 | [238252-lucky-farmer.json](./238252-lucky-farmer.json) |
 | Lucky Fat Cat Diner | 389507 | [389507-lucky-fat-cat-diner.json](./389507-lucky-fat-cat-diner.json) |
 | Lucky Fighter II | 321648 | [321648-lucky-fighter-ii.json](./321648-lucky-fighter-ii.json) |
 | Lucky Fish Bread | 190081 | [190081-lucky-fish-bread.json](./190081-lucky-fish-bread.json) |
