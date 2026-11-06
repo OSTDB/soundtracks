@@ -366,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Island | 184247 | [184247-mad-island.json](./184247-mad-island.json) |
 | Mad Island | 296959 | [296959-mad-island.json](./296959-mad-island.json) |
 | Mad Jyacer | 276250 | [276250-mad-jyacer.json](./276250-mad-jyacer.json) |
+| Mad King | 236056 | [236056-mad-king.json](./236056-mad-king.json) |
 | Mad King Redemption | 361874 | [361874-mad-king-redemption.json](./361874-mad-king-redemption.json) |
 | Mad King's Lair: Tome of Destruction | 266755 | [266755-mad-kings-lair-tome-of-destruction.json](./266755-mad-kings-lair-tome-of-destruction.json) |
 | Mad Lab Roulette | 362925 | [362925-mad-lab-roulette.json](./362925-mad-lab-roulette.json) |
@@ -5862,6 +5863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -5882,6 +5884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximus 2: Street Gladiators | 237237 | [237237-maximus-2-street-gladiators.json](./237237-maximus-2-street-gladiators.json) |
 | Maxit | 78372 | [78372-maxit.json](./78372-maxit.json) |
 | Mǎxìtuán zhī Yè | 154334 | [154334-maxituan-zhi-ye.json](./154334-maxituan-zhi-ye.json) |
+| Maxix Robotics | 236057 | [236057-maxix-robotics.json](./236057-maxix-robotics.json) |
 | Maxo Scringle's "Human Rocket" Mini-Type Rocket Golf | 402367 | [402367-maxo-scringles-human-rocket-mini-type-rocket-golf.json](./402367-maxo-scringles-human-rocket-mini-type-rocket-golf.json) |
 | Maxon Petting Simulator | 214991 | [214991-maxon-petting-simulator.json](./214991-maxon-petting-simulator.json) |
 | Maxoo 2 | 216412 | [216412-maxoo-2.json](./216412-maxoo-2.json) |
@@ -19235,6 +19238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muscle Car 76 | 210111 | [210111-muscle-car-76.json](./210111-muscle-car-76.json) |
 | Muscle Car Robot | 117178 | [117178-muscle-car-robot.json](./117178-muscle-car-robot.json) |
 | Muscle Champion: Kinnikutou Kessen | 4022 | [4022-muscle-champion-kinnikutou-kessen.json](./4022-muscle-champion-kinnikutou-kessen.json) |
+| Muscle Giants | 236059 | [236059-muscle-giants.json](./236059-muscle-giants.json) |
 | Muscle Girl Lisa: Training Diary | 310063 | [310063-muscle-girl-lisa-training-diary.json](./310063-muscle-girl-lisa-training-diary.json) |
 | Muscle March | 15914 | [15914-muscle-march.json](./15914-muscle-march.json) |
 | Muscle Memory Corruption | 178972 | [178972-muscle-memory-corruption.json](./178972-muscle-memory-corruption.json) |
