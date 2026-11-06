@@ -1539,6 +1539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking Caillou | 325678 | [325678-talking-caillou.json](./325678-talking-caillou.json) |
 | Talking Carl | 373242 | [373242-talking-carl.json](./373242-talking-carl.json) |
 | Talking Cat Emma Ballerina | 250138 | [250138-talking-cat-emma-ballerina.json](./250138-talking-cat-emma-ballerina.json) |
+| Talking Dogs: Into The Wilds VR | 237743 | [237743-talking-dogs-into-the-wilds-vr.json](./237743-talking-dogs-into-the-wilds-vr.json) |
 | Talking Ghostbusters II | 218434 | [218434-talking-ghostbusters-ii.json](./218434-talking-ghostbusters-ii.json) |
 | Talking Gina | 214350 | [214350-talking-gina.json](./214350-talking-gina.json) |
 | Talking Ginger | 326529 | [326529-talking-ginger.json](./326529-talking-ginger.json) |
@@ -8534,6 +8535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The DvD Idle Game | 373325 | [373325-the-dvd-idle-game.json](./373325-the-dvd-idle-game.json) |
 | The Dwarf | 257879 | [257879-the-dwarf.json](./257879-the-dwarf.json) |
 | The Dwarf Kingdom | 310903 | [310903-the-dwarf-kingdom.json](./310903-the-dwarf-kingdom.json) |
+| The Dwarf Kingdom: Magic World of War vs Orks and Dragon | 237724 | [237724-the-dwarf-kingdom-magic-world-of-war-vs-orks-and-dragon.json](./237724-the-dwarf-kingdom-magic-world-of-war-vs-orks-and-dragon.json) |
 | The Dwarf Run | 34654 | [34654-the-dwarf-run.json](./34654-the-dwarf-run.json) |
 | The Dwarves | 13164 | [13164-the-dwarves.json](./13164-the-dwarves.json) |
 | The Dwarves of Glistenveld | 117359 | [117359-the-dwarves-of-glistenveld.json](./117359-the-dwarves-of-glistenveld.json) |
@@ -31692,6 +31694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuda:Kuda | 244225 | [244225-tuda-kuda.json](./244225-tuda-kuda.json) |
 | Tuebor | 31482 | [31482-tuebor.json](./31482-tuebor.json) |
 | Tuesday Morning Quarterback | 247114 | [247114-tuesday-morning-quarterback.json](./247114-tuesday-morning-quarterback.json) |
+| Tuesday Morning. | 237753 | [237753-tuesday-morning.json](./237753-tuesday-morning.json) |
 | Tuff E Nuff | 46006 | [46006-tuff-e-nuff.json](./46006-tuff-e-nuff.json) |
 | Tuff Stuff | 317614 | [317614-tuff-stuff.json](./317614-tuff-stuff.json) |
 | Tuffy the Corgi and the Tower of Bones | 61402 | [61402-tuffy-the-corgi-and-the-tower-of-bones.json](./61402-tuffy-the-corgi-and-the-tower-of-bones.json) |
