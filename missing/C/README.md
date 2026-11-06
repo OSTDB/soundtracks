@@ -2176,6 +2176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Parking 2 | 232448 | [232448-car-parking-2.json](./232448-car-parking-2.json) |
 | Car Parking 2 | 323095 | [323095-car-parking-2.json](./323095-car-parking-2.json) |
 | Car Parking Adventure | 384283 | [384283-car-parking-adventure.json](./384283-car-parking-adventure.json) |
+| Car Parking Club | 224911 | [224911-car-parking-club.json](./224911-car-parking-club.json) |
 | Car Parking Game 3D - Real City Driving School | 83585 | [83585-car-parking-game-3d-real-city-driving-school.json](./83585-car-parking-game-3d-real-city-driving-school.json) |
 | Car Parking Games: Parking Jam | 208731 | [208731-car-parking-games-parking-jam.json](./208731-car-parking-games-parking-jam.json) |
 | Car Parking Legends: Deluxe Edition | 413577 | [413577-car-parking-legends-deluxe-edition.json](./413577-car-parking-legends-deluxe-edition.json) |
@@ -3477,6 +3478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Defender Saga | 300665 | [300665-castle-defender-saga.json](./300665-castle-defender-saga.json) |
 | Castle Defense | 182852 | [182852-castle-defense.json](./182852-castle-defense.json) |
 | Castle Defense | 277158 | [277158-castle-defense.json](./277158-castle-defense.json) |
+| Castle Defense Battles | 224894 | [224894-castle-defense-battles.json](./224894-castle-defense-battles.json) |
 | Castle Demolition VR | 55260 | [55260-castle-demolition-vr.json](./55260-castle-demolition-vr.json) |
 | Castle Destroyers | 238139 | [238139-castle-destroyers.json](./238139-castle-destroyers.json) |
 | Castle Dice | 200035 | [200035-castle-dice.json](./200035-castle-dice.json) |
@@ -3813,6 +3815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castrol Honda Superbike World Champions | 47086 | [47086-castrol-honda-superbike-world-champions.json](./47086-castrol-honda-superbike-world-champions.json) |
 | Castrol Honda World Superbike Team VTR | 278858 | [278858-castrol-honda-world-superbike-team-vtr.json](./278858-castrol-honda-world-superbike-team-vtr.json) |
 | Castrol Honda: World Superbike Team - Superbike Racing | 139243 | [139243-castrol-honda-world-superbike-team-superbike-racing.json](./139243-castrol-honda-world-superbike-team-superbike-racing.json) |
+| Castrum Novum VR: Life in a Roman Colony | 224930 | [224930-castrum-novum-vr-life-in-a-roman-colony.json](./224930-castrum-novum-vr-life-in-a-roman-colony.json) |
 | Casual Birder | 151962 | [151962-casual-birder.json](./151962-casual-birder.json) |
 | Casual Coins | 197687 | [197687-casual-coins.json](./197687-casual-coins.json) |
 | Casual Commando | 157714 | [157714-casual-commando.json](./157714-casual-commando.json) |
@@ -4115,6 +4118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Survivors | 289374 | [289374-cat-survivors.json](./289374-cat-survivors.json) |
 | Cat Swap Tiles | 187280 | [187280-cat-swap-tiles.json](./187280-cat-swap-tiles.json) |
 | Cat Syndicate: Istanbul | 327648 | [327648-cat-syndicate-istanbul.json](./327648-cat-syndicate-istanbul.json) |
+| Cat Tales | 224917 | [224917-cat-tales.json](./224917-cat-tales.json) |
 | Cat Tales: Fish | 403426 | [403426-cat-tales-fish.json](./403426-cat-tales-fish.json) |
 | Cat Tales: Premium Edition | 241396 | [241396-cat-tales-premium-edition.json](./241396-cat-tales-premium-edition.json) |
 | Cat Tiles: Matching Puzzle | 232377 | [232377-cat-tiles-matching-puzzle.json](./232377-cat-tiles-matching-puzzle.json) |
@@ -6094,6 +6098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charge! | 219101 | [219101-charge.json](./219101-charge.json) |
 | Charge! | 380071 | [380071-charge.json](./380071-charge.json) |
 | Charge! Tank Squad | 59392 | [59392-charge-tank-squad.json](./59392-charge-tank-squad.json) |
+| Charged: RC Racing | 224906 | [224906-charged-rc-racing.json](./224906-charged-rc-racing.json) |
 | Charged: RC Racing - Starter Edition | 247322 | [247322-charged-rc-racing-starter-edition.json](./247322-charged-rc-racing-starter-edition.json) |
 | Charged! | 258736 | [258736-charged.json](./258736-charged.json) |
 | Charger Escape | 383373 | [383373-charger-escape.json](./383373-charger-escape.json) |
