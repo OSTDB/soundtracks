@@ -6369,6 +6369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexa | 114390 | [114390-hexa.json](./114390-hexa.json) |
 | Hexa | 46868 | [46868-hexa.json](./46868-hexa.json) |
 | Hexa Attack Puzzle: Shoot n Merge Numbers | 133891 | [133891-hexa-attack-puzzle-shoot-n-merge-numbers.json](./133891-hexa-attack-puzzle-shoot-n-merge-numbers.json) |
+| Hexa Blocks DF | 213075 | [213075-hexa-blocks-df.json](./213075-hexa-blocks-df.json) |
 | Hexa Buzzle | 105845 | [105845-hexa-buzzle.json](./105845-hexa-buzzle.json) |
 | Hexa Castle | 389535 | [389535-hexa-castle.json](./389535-hexa-castle.json) |
 | Hexa Chippy | 376266 | [376266-hexa-chippy.json](./376266-hexa-chippy.json) |
@@ -10567,6 +10568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed: Game of the Year Edition | 218968 | [218968-hot-wheels-unleashed-game-of-the-year-edition.json](./218968-hot-wheels-unleashed-game-of-the-year-edition.json) |
 | Hot Wheels Unleashed: Looney Tunes | 209393 | [209393-hot-wheels-unleashed-looney-tunes.json](./209393-hot-wheels-unleashed-looney-tunes.json) |
 | Hot Wheels Unleashed: McLaren Senna | 195768 | [195768-hot-wheels-unleashed-mclaren-senna.json](./195768-hot-wheels-unleashed-mclaren-senna.json) |
+| Hot Wheels Unleashed: Monster Trucks | 213085 | [213085-hot-wheels-unleashed-monster-trucks.json](./213085-hot-wheels-unleashed-monster-trucks.json) |
 | Hot Wheels Unleashed: Night Burner | 195767 | [195767-hot-wheels-unleashed-night-burner.json](./195767-hot-wheels-unleashed-night-burner.json) |
 | Hot Wheels Unleashed: Pass Vol. 2 | 200835 | [200835-hot-wheels-unleashed-pass-vol-2.json](./200835-hot-wheels-unleashed-pass-vol-2.json) |
 | Hot Wheels Unleashed: Spongebob Racing Season | 264427 | [264427-hot-wheels-unleashed-spongebob-racing-season.json](./264427-hot-wheels-unleashed-spongebob-racing-season.json) |
@@ -11844,6 +11846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt: Showdown - Limited Bounty Hunter Edition | 229120 | [229120-hunt-showdown-limited-bounty-hunter-edition.json](./229120-hunt-showdown-limited-bounty-hunter-edition.json) |
 | Hunt: Showdown - Live by the Blade | 239508 | [239508-hunt-showdown-live-by-the-blade.json](./239508-hunt-showdown-live-by-the-blade.json) |
 | Hunt: Showdown - Meridian Turncoat | 196158 | [196158-hunt-showdown-meridian-turncoat.json](./196158-hunt-showdown-meridian-turncoat.json) |
+| Hunt: Showdown - Reap What You Sow | 213112 | [213112-hunt-showdown-reap-what-you-sow.json](./213112-hunt-showdown-reap-what-you-sow.json) |
 | Hunt: Showdown - The Concubine | 226206 | [226206-hunt-showdown-the-concubine.json](./226206-hunt-showdown-the-concubine.json) |
 | Hunt: Showdown - The Kid | 174538 | [174538-hunt-showdown-the-kid.json](./174538-hunt-showdown-the-kid.json) |
 | Hunt: Showdown - The Penitent | 239507 | [239507-hunt-showdown-the-penitent.json](./239507-hunt-showdown-the-penitent.json) |
