@@ -2456,6 +2456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eleutheria | 177344 | [177344-eleutheria.json](./177344-eleutheria.json) |
 | Elevate | 312715 | [312715-elevate.json](./312715-elevate.json) |
 | Elevated | 155027 | [155027-elevated.json](./155027-elevated.json) |
+| Elevated | 195826 | [195826-elevated.json](./195826-elevated.json) |
 | Elevated Dread | 232820 | [232820-elevated-dread.json](./232820-elevated-dread.json) |
 | Elevating Experience: The Game | 102673 | [102673-elevating-experience-the-game.json](./102673-elevating-experience-the-game.json) |
 | Elevation | 384134 | [384134-elevation.json](./384134-elevation.json) |
@@ -5268,6 +5269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Terror City | 142882 | [142882-escape-from-terror-city.json](./142882-escape-from-terror-city.json) |
 | Escape from Tethys | 103256 | [103256-escape-from-tethys.json](./103256-escape-from-tethys.json) |
 | Escape from the Abandoned Outpost | 273669 | [273669-escape-from-the-abandoned-outpost.json](./273669-escape-from-the-abandoned-outpost.json) |
+| Escape From the BadTrip: Episode 1 | 195843 | [195843-escape-from-the-badtrip-episode-1.json](./195843-escape-from-the-badtrip-episode-1.json) |
 | Escape from the Black Monolith | 386762 | [386762-escape-from-the-black-monolith.json](./386762-escape-from-the-black-monolith.json) |
 | Escape From The Boykisser | 298928 | [298928-escape-from-the-boykisser.json](./298928-escape-from-the-boykisser.json) |
 | Escape from the Cannibal Family | 301246 | [301246-escape-from-the-cannibal-family.json](./301246-escape-from-the-cannibal-family.json) |
