@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: Hostile Takeover | 252806 | [252806-half-life-hostile-takeover.json](./252806-half-life-hostile-takeover.json) |
 | Half-Life: Hour-Glass | 221794 | [221794-half-life-hour-glass.json](./221794-half-life-hour-glass.json) |
 | Half-Life: In Deep | 221858 | [221858-half-life-in-deep.json](./221858-half-life-in-deep.json) |
+| Half-Life: Induction | 214848 | [214848-half-life-induction.json](./214848-half-life-induction.json) |
 | Half-Life: Insecure | 377993 | [377993-half-life-insecure.json](./377993-half-life-insecure.json) |
 | Half-Life: Intolerable Threat | 222325 | [222325-half-life-intolerable-threat.json](./222325-half-life-intolerable-threat.json) |
 | Half-Life: Invasion | 196834 | [196834-half-life-invasion.json](./196834-half-life-invasion.json) |
@@ -607,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: Sum | 218736 | [218736-half-life-sum.json](./218736-half-life-sum.json) |
 | Half-Life: The Alpha Unit | 221883 | [221883-half-life-the-alpha-unit.json](./221883-half-life-the-alpha-unit.json) |
 | Half-Life: The Challenger Deep 2 | 196853 | [196853-half-life-the-challenger-deep-2.json](./196853-half-life-the-challenger-deep-2.json) |
+| Half-life: The Challenger Deep 2 Remake | 214846 | [214846-half-life-the-challenger-deep-2-remake.json](./214846-half-life-the-challenger-deep-2-remake.json) |
 | Half-Life: The Core | 222322 | [222322-half-life-the-core.json](./222322-half-life-the-core.json) |
 | Half-Life: The Evasion | 222287 | [222287-half-life-the-evasion.json](./222287-half-life-the-evasion.json) |
 | Half-Life: The Gate | 221910 | [221910-half-life-the-gate.json](./221910-half-life-the-gate.json) |
