@@ -1087,6 +1087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeus vs Monsters: Math Game for Kids | 33492 | [33492-zeus-vs-monsters-math-game-for-kids.json](./33492-zeus-vs-monsters-math-game-for-kids.json) |
 | Zeus vs. Monsters | 87540 | [87540-zeus-vs-monsters.json](./87540-zeus-vs-monsters.json) |
 | Zeus: Carnage Heart Second | 66186 | [66186-zeus-carnage-heart-second.json](./66186-zeus-carnage-heart-second.json) |
+| Zeus: God of Lightning | 244047 | [244047-zeus-god-of-lightning.json](./244047-zeus-god-of-lightning.json) |
 | Zeus: Master of Olympus | 958 | [958-zeus-master-of-olympus.json](./958-zeus-master-of-olympus.json) |
 | Zeverland | 376201 | [376201-zeverland.json](./376201-zeverland.json) |
 | Zewels | 250433 | [250433-zewels.json](./250433-zewels.json) |
@@ -1600,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Exodus: Safe Haven - Part Three | 192242 | [192242-zombie-exodus-safe-haven-part-three.json](./192242-zombie-exodus-safe-haven-part-three.json) |
 | Zombie Exodus: Safe Haven - Part Two | 171336 | [171336-zombie-exodus-safe-haven-part-two.json](./171336-zombie-exodus-safe-haven-part-two.json) |
 | Zombie Exodus: Safe Haven - Side Stories 2 | 291208 | [291208-zombie-exodus-safe-haven-side-stories-2.json](./291208-zombie-exodus-safe-haven-side-stories-2.json) |
+| Zombie Exterminator | 244034 | [244034-zombie-exterminator.json](./244034-zombie-exterminator.json) |
 | Zombie Fall: Survival Challenge | 315902 | [315902-zombie-fall-survival-challenge.json](./315902-zombie-fall-survival-challenge.json) |
 | Zombie Farm | 267549 | [267549-zombie-farm.json](./267549-zombie-farm.json) |
 | Zombie Farm 2 | 275455 | [275455-zombie-farm-2.json](./275455-zombie-farm-2.json) |
