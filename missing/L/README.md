@@ -6737,6 +6737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locked in for the Win | 379659 | [379659-locked-in-for-the-win.json](./379659-locked-in-for-the-win.json) |
 | Locked in Love: The Office | 407465 | [407465-locked-in-love-the-office.json](./407465-locked-in-love-the-office.json) |
 | Locked In Mind | 234774 | [234774-locked-in-mind.json](./234774-locked-in-mind.json) |
+| Locked in my Darkness | 212025 | [212025-locked-in-my-darkness.json](./212025-locked-in-my-darkness.json) |
 | Locked in my Darkness 2: The Room | 327368 | [327368-locked-in-my-darkness-2-the-room.json](./327368-locked-in-my-darkness-2-the-room.json) |
 | Locked in Temptation | 385810 | [385810-locked-in-temptation.json](./385810-locked-in-temptation.json) |
 | Locked In VR | 30342 | [30342-locked-in-vr.json](./30342-locked-in-vr.json) |
