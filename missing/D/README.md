@@ -9508,6 +9508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Survivors | 276211 | [276211-dino-survivors.json](./276211-dino-survivors.json) |
 | Dino Tales | 204286 | [204286-dino-tales.json](./204286-dino-tales.json) |
 | Dino Tamers | 146333 | [146333-dino-tamers.json](./146333-dino-tamers.json) |
+| Dino Terror 2: Jurassic Escape | 234424 | [234424-dino-terror-2-jurassic-escape.json](./234424-dino-terror-2-jurassic-escape.json) |
 | Dino Time Raiders | 388161 | [388161-dino-time-raiders.json](./388161-dino-time-raiders.json) |
 | Dino Tour VR | 286787 | [286787-dino-tour-vr.json](./286787-dino-tour-vr.json) |
 | Dino Tower Arena | 272768 | [272768-dino-tower-arena.json](./272768-dino-tower-arena.json) |
@@ -14717,6 +14718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Force | 2968 | [2968-dragon-force.json](./2968-dragon-force.json) |
 | Dragon Force II: Kamisarishi Daichi ni | 45461 | [45461-dragon-force-ii-kamisarishi-daichi-ni.json](./45461-dragon-force-ii-kamisarishi-daichi-ni.json) |
 | Dragon Force: The Day 3 | 65737 | [65737-dragon-force-the-day-3.json](./65737-dragon-force-the-day-3.json) |
+| Dragon Forest | 234408 | [234408-dragon-forest.json](./234408-dragon-forest.json) |
 | Dragon Forge | 128975 | [128975-dragon-forge.json](./128975-dragon-forge.json) |
 | Dragon Forge | 311708 | [311708-dragon-forge.json](./311708-dragon-forge.json) |
 | Dragon Friends: The Secret of Green Witch | 212453 | [212453-dragon-friends-the-secret-of-green-witch.json](./212453-dragon-friends-the-secret-of-green-witch.json) |
@@ -18612,6 +18614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duplex Lens | 414734 | [414734-duplex-lens.json](./414734-duplex-lens.json) |
 | Duplexer | 33832 | [33832-duplexer.json](./33832-duplexer.json) |
 | Dupli_City | 126966 | [126966-dupli-city.json](./126966-dupli-city.json) |
+| Duplicado | 234406 | [234406-duplicado.json](./234406-duplicado.json) |
 | Duplicate Dissolution | 294124 | [294124-duplicate-dissolution.json](./294124-duplicate-dissolution.json) |
 | dUpLicity ~Beyond the Lies~ | 36104 | [36104-duplicity-beyond-the-lies.json](./36104-duplicity-beyond-the-lies.json) |
 | Duplicity Loop | 278525 | [278525-duplicity-loop.json](./278525-duplicity-loop.json) |
