@@ -15399,6 +15399,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Island | 122586 | [122586-snow-island.json](./122586-snow-island.json) |
 | Snow Jewels Puzzle | 87134 | [87134-snow-jewels-puzzle.json](./87134-snow-jewels-puzzle.json) |
 | Snow Job | 4324 | [4324-snow-job.json](./4324-snow-job.json) |
+| Snow Journey | 211370 | [211370-snow-journey.json](./211370-snow-journey.json) |
+| Snow Journey: Nitro | 211371 | [211371-snow-journey-nitro.json](./211371-snow-journey-nitro.json) |
 | Snow Kids | 135888 | [135888-snow-kids.json](./135888-snow-kids.json) |
 | Snow Kingdom | 246544 | [246544-snow-kingdom.json](./246544-snow-kingdom.json) |
 | Snow Light | 17961 | [17961-snow-light.json](./17961-snow-light.json) |
