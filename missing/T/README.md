@@ -27769,18 +27769,41 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 2020: Tees Valley Line - Darlington: Saltburn-by-the-Sea Route | 156869 | [156869-train-sim-world-2020-tees-valley-line-darlington-saltburn-by-the-sea-route.json](./156869-train-sim-world-2020-tees-valley-line-darlington-saltburn-by-the-sea-route.json) |
 | Train Sim World 2020: West Somerset Railway Route | 156872 | [156872-train-sim-world-2020-west-somerset-railway-route.json](./156872-train-sim-world-2020-west-somerset-railway-route.json) |
 | Train Sim World 3 | 213113 | [213113-train-sim-world-3.json](./213113-train-sim-world-3.json) |
+| Train Sim World 3 S-Bahn Zentralschweiz: Luzern - Sursee Route | 215968 | [215968-train-sim-world-3-s-bahn-zentralschweiz-luzern-sursee-route.json](./215968-train-sim-world-3-s-bahn-zentralschweiz-luzern-sursee-route.json) |
 | Train Sim World 3: Amtrak's Acela | 237944 | [237944-train-sim-world-3-amtraks-acela.json](./237944-train-sim-world-3-amtraks-acela.json) |
 | Train Sim World 3: Bahnstrecke Bremen - Oldenburg | 233357 | [233357-train-sim-world-3-bahnstrecke-bremen-oldenburg.json](./233357-train-sim-world-3-bahnstrecke-bremen-oldenburg.json) |
 | Train Sim World 3: Bahnstrecke Bremen - Oldenburg Route | 237158 | [237158-train-sim-world-3-bahnstrecke-bremen-oldenburg-route.json](./237158-train-sim-world-3-bahnstrecke-bremen-oldenburg-route.json) |
+| Train Sim World 3: Bakerloo Line Route | 215995 | [215995-train-sim-world-3-bakerloo-line-route.json](./215995-train-sim-world-3-bakerloo-line-route.json) |
 | Train Sim World 3: Birmingham Cross-City Line - Lichfield: Bromsgrove & Redditch Route Add-On | 226688 | [226688-train-sim-world-3-birmingham-cross-city-line-lichfield-bromsgrove-and-redditch-route-add-on.json](./226688-train-sim-world-3-birmingham-cross-city-line-lichfield-bromsgrove-and-redditch-route-add-on.json) |
 | Train Sim World 3: Birmingham Standard Edition | 231364 | [231364-train-sim-world-3-birmingham-standard-edition.json](./231364-train-sim-world-3-birmingham-standard-edition.json) |
 | Train Sim World 3: BNSF SD70ACe | 242355 | [242355-train-sim-world-3-bnsf-sd70ace.json](./242355-train-sim-world-3-bnsf-sd70ace.json) |
+| Train Sim World 3: BR Class 31 Loco | 215996 | [215996-train-sim-world-3-br-class-31-loco.json](./215996-train-sim-world-3-br-class-31-loco.json) |
+| Train Sim World 3: BR Class 33 Loco | 215962 | [215962-train-sim-world-3-br-class-33-loco.json](./215962-train-sim-world-3-br-class-33-loco.json) |
+| Train Sim World 3: BR Class 52 Western Loco | 215963 | [215963-train-sim-world-3-br-class-52-western-loco.json](./215963-train-sim-world-3-br-class-52-western-loco.json) |
+| Train Sim World 3: Cajon Pass: Barstow - San Bernardino Route | 215973 | [215973-train-sim-world-3-cajon-pass-barstow-san-bernardino-route.json](./215973-train-sim-world-3-cajon-pass-barstow-san-bernardino-route.json) |
+| Train Sim World 3: Caltrain MP15DC Diesel Switcher Loco | 215997 | [215997-train-sim-world-3-caltrain-mp15dc-diesel-switcher-loco.json](./215997-train-sim-world-3-caltrain-mp15dc-diesel-switcher-loco.json) |
+| Train Sim World 3: Caltrain MP36PH-3C 'Baby Bullet' Loco | 215998 | [215998-train-sim-world-3-caltrain-mp36ph-3c-baby-bullet-loco.json](./215998-train-sim-world-3-caltrain-mp36ph-3c-baby-bullet-loco.json) |
+| Train Sim World 3: Cane Creek: Thompson - Potash Route | 215999 | [215999-train-sim-world-3-cane-creek-thompson-potash-route.json](./215999-train-sim-world-3-cane-creek-thompson-potash-route.json) |
+| Train Sim World 3: Class 20 'Chopper' | 215980 | [215980-train-sim-world-3-class-20-chopper.json](./215980-train-sim-world-3-class-20-chopper.json) |
+| Train Sim World 3: CSX C40-8W Loco | 215981 | [215981-train-sim-world-3-csx-c40-8w-loco.json](./215981-train-sim-world-3-csx-c40-8w-loco.json) |
+| Train Sim World 3: DB BR 101 Loco | 215982 | [215982-train-sim-world-3-db-br-101-loco.json](./215982-train-sim-world-3-db-br-101-loco.json) |
+| Train Sim World 3: DB BR 155 Loco | 215961 | [215961-train-sim-world-3-db-br-155-loco.json](./215961-train-sim-world-3-db-br-155-loco.json) |
+| Train Sim World 3: DB BR 187 Loco | 215983 | [215983-train-sim-world-3-db-br-187-loco.json](./215983-train-sim-world-3-db-br-187-loco.json) |
+| Train Sim World 3: DB BR 204 Loco | 215984 | [215984-train-sim-world-3-db-br-204-loco.json](./215984-train-sim-world-3-db-br-204-loco.json) |
+| Train Sim World 3: DB BR 363 Loco | 215985 | [215985-train-sim-world-3-db-br-363-loco.json](./215985-train-sim-world-3-db-br-363-loco.json) |
 | Train Sim World 3: DB BR 403 ICE 3 Railbow | 242356 | [242356-train-sim-world-3-db-br-403-ice-3-railbow.json](./242356-train-sim-world-3-db-br-403-ice-3-railbow.json) |
+| Train Sim World 3: DB G6 Diesel Shunter | 215986 | [215986-train-sim-world-3-db-g6-diesel-shunter.json](./215986-train-sim-world-3-db-g6-diesel-shunter.json) |
 | Train Sim World 3: Deluxe Edition + Loco Bundle | 234245 | [234245-train-sim-world-3-deluxe-edition-loco-bundle.json](./234245-train-sim-world-3-deluxe-edition-loco-bundle.json) |
 | Train Sim World 3: Dispolok BR 182 Add-On | 220712 | [220712-train-sim-world-3-dispolok-br-182-add-on.json](./220712-train-sim-world-3-dispolok-br-182-add-on.json) |
 | Train Sim World 3: Glossop Line - Manchester: Hadfield & Glossop Route | 254910 | [254910-train-sim-world-3-glossop-line-manchester-hadfield-and-glossop-route.json](./254910-train-sim-world-3-glossop-line-manchester-hadfield-and-glossop-route.json) |
+| Train Sim World 3: Harlem Line: Grand Central Terminal - North White Plains Route | 215987 | [215987-train-sim-world-3-harlem-line-grand-central-terminal-north-white-plains-route.json](./215987-train-sim-world-3-harlem-line-grand-central-terminal-north-white-plains-route.json) |
+| Train Sim World 3: Horseshoe Curve: Altoona - Johnstown & South Fork Route | 215992 | [215992-train-sim-world-3-horseshoe-curve-altoona-johnstown-and-south-fork-route.json](./215992-train-sim-world-3-horseshoe-curve-altoona-johnstown-and-south-fork-route.json) |
+| Train Sim World 3: Island Line 2022 - BR Class 484 EMU | 215988 | [215988-train-sim-world-3-island-line-2022-br-class-484-emu.json](./215988-train-sim-world-3-island-line-2022-br-class-484-emu.json) |
 | Train Sim World 3: Linke Rheinstrecke - Mainz: Koblenz Route | 241308 | [241308-train-sim-world-3-linke-rheinstrecke-mainz-koblenz-route.json](./241308-train-sim-world-3-linke-rheinstrecke-mainz-koblenz-route.json) |
+| Train Sim World 3: LIRR M3 EMU Loco | 215989 | [215989-train-sim-world-3-lirr-m3-emu-loco.json](./215989-train-sim-world-3-lirr-m3-emu-loco.json) |
 | Train Sim World 3: Loco Add-On Bundle 2 | 243233 | [243233-train-sim-world-3-loco-add-on-bundle-2.json](./243233-train-sim-world-3-loco-add-on-bundle-2.json) |
+| Train Sim World 3: London Underground 1938 Tube Stock EMU Loco | 215993 | [215993-train-sim-world-3-london-underground-1938-tube-stock-emu-loco.json](./215993-train-sim-world-3-london-underground-1938-tube-stock-emu-loco.json) |
+| Train Sim World 3: Nahverkehr Dresden -Riesa Route | 215990 | [215990-train-sim-world-3-nahverkehr-dresden-riesa-route.json](./215990-train-sim-world-3-nahverkehr-dresden-riesa-route.json) |
 | Train Sim World 3: New Journeys - CSX SD40 | 227133 | [227133-train-sim-world-3-new-journeys-csx-sd40.json](./227133-train-sim-world-3-new-journeys-csx-sd40.json) |
 | Train Sim World 3: New Journeys - S-Bahn Köln BR 423 | 227192 | [227192-train-sim-world-3-new-journeys-s-bahn-koln-br-423.json](./227192-train-sim-world-3-new-journeys-s-bahn-koln-br-423.json) |
 | Train Sim World 3: Niddertalbahn - Bad Vilbel - Stockheim Route Add-On | 269329 | [269329-train-sim-world-3-niddertalbahn-bad-vilbel-stockheim-route-add-on.json](./269329-train-sim-world-3-niddertalbahn-bad-vilbel-stockheim-route-add-on.json) |
@@ -27789,14 +27812,27 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 3: Peak Forest Railway - Ambergate - Chinley & Buxton | 273930 | [273930-train-sim-world-3-peak-forest-railway-ambergate-chinley-and-buxton.json](./273930-train-sim-world-3-peak-forest-railway-ambergate-chinley-and-buxton.json) |
 | Train Sim World 3: Rail Head Treatment Train Add-On | 220713 | [220713-train-sim-world-3-rail-head-treatment-train-add-on.json](./220713-train-sim-world-3-rail-head-treatment-train-add-on.json) |
 | Train Sim World 3: Rail Operations Group BR Class 37/7 | 242357 | [242357-train-sim-world-3-rail-operations-group-br-class-37-7.json](./242357-train-sim-world-3-rail-operations-group-br-class-37-7.json) |
+| Train Sim World 3: RhB Anniversary Collection | 215994 | [215994-train-sim-world-3-rhb-anniversary-collection.json](./215994-train-sim-world-3-rhb-anniversary-collection.json) |
+| Train Sim World 3: Rush Hour - Boston Sprinter Route | 215991 | [215991-train-sim-world-3-rush-hour-boston-sprinter-route.json](./215991-train-sim-world-3-rush-hour-boston-sprinter-route.json) |
+| Train Sim World 3: Rush Hour - London Commuter Route | 215966 | [215966-train-sim-world-3-rush-hour-london-commuter-route.json](./215966-train-sim-world-3-rush-hour-london-commuter-route.json) |
+| Train Sim World 3: Sand Patch Grade Route | 215967 | [215967-train-sim-world-3-sand-patch-grade-route.json](./215967-train-sim-world-3-sand-patch-grade-route.json) |
 | Train Sim World 3: Santa Fe F7 Add-On | 220715 | [220715-train-sim-world-3-santa-fe-f7-add-on.json](./220715-train-sim-world-3-santa-fe-f7-add-on.json) |
+| Train Sim World 3: Schnellfahrstrecke Kassel - Würzburg Route | 215974 | [215974-train-sim-world-3-schnellfahrstrecke-kassel-wurzburg-route.json](./215974-train-sim-world-3-schnellfahrstrecke-kassel-wurzburg-route.json) |
+| Train Sim World 3: Schnellfahrstrecke Köln-Aachen Route | 215969 | [215969-train-sim-world-3-schnellfahrstrecke-koln-aachen-route.json](./215969-train-sim-world-3-schnellfahrstrecke-koln-aachen-route.json) |
 | Train Sim World 3: ScotRail Express: Edinburgh - Glasgow Route | 232430 | [232430-train-sim-world-3-scotrail-express-edinburgh-glasgow-route.json](./232430-train-sim-world-3-scotrail-express-edinburgh-glasgow-route.json) |
+| Train Sim World 3: Sherman Hill: Cheyenne - Laramie Route | 215970 | [215970-train-sim-world-3-sherman-hill-cheyenne-laramie-route.json](./215970-train-sim-world-3-sherman-hill-cheyenne-laramie-route.json) |
+| Train Sim World 3: Southeastern Highspeed - London St Pancras: Ashford Intl & Faversham Route | 215975 | [215975-train-sim-world-3-southeastern-highspeed-london-st-pancras-ashford-intl-and-faversham-route.json](./215975-train-sim-world-3-southeastern-highspeed-london-st-pancras-ashford-intl-and-faversham-route.json) |
 | Train Sim World 3: Southeastern Super Starter Pack | 256312 | [256312-train-sim-world-3-southeastern-super-starter-pack.json](./256312-train-sim-world-3-southeastern-super-starter-pack.json) |
+| Train Sim World 3: Southern BR Class 313 EMU | 215965 | [215965-train-sim-world-3-southern-br-class-313-emu.json](./215965-train-sim-world-3-southern-br-class-313-emu.json) |
+| Train Sim World 3: Spirit of Steam: Liverpool Lime Street - Crewe Route | 215977 | [215977-train-sim-world-3-spirit-of-steam-liverpool-lime-street-crewe-route.json](./215977-train-sim-world-3-spirit-of-steam-liverpool-lime-street-crewe-route.json) |
+| Train Sim World 3: Tees Valley Line: Darlington - Saltburn-by-the-Sea | 215964 | [215964-train-sim-world-3-tees-valley-line-darlington-saltburn-by-the-sea.json](./215964-train-sim-world-3-tees-valley-line-darlington-saltburn-by-the-sea.json) |
+| Train Sim World 3: Tharandter Rampe: Dresden - Chemnitz Route | 215971 | [215971-train-sim-world-3-tharandter-rampe-dresden-chemnitz-route.json](./215971-train-sim-world-3-tharandter-rampe-dresden-chemnitz-route.json) |
 | Train Sim World 3: The Holiday Express - Runaway Elf | 237251 | [237251-train-sim-world-3-the-holiday-express-runaway-elf.json](./237251-train-sim-world-3-the-holiday-express-runaway-elf.json) |
 | Train Sim World 3: Union Pacific Heritage - Livery Collection | 237943 | [237943-train-sim-world-3-union-pacific-heritage-livery-collection.json](./237943-train-sim-world-3-union-pacific-heritage-livery-collection.json) |
 | Train Sim World 3: US Freight Bundle | 239257 | [239257-train-sim-world-3-us-freight-bundle.json](./239257-train-sim-world-3-us-freight-bundle.json) |
 | Train Sim World 3: US Passenger Bundle | 239255 | [239255-train-sim-world-3-us-passenger-bundle.json](./239255-train-sim-world-3-us-passenger-bundle.json) |
 | Train Sim World 3: US Super Bundle | 239256 | [239256-train-sim-world-3-us-super-bundle.json](./239256-train-sim-world-3-us-super-bundle.json) |
+| Train Sim World 3: West Cornwall Local: Penzance - St Austell & St Ives Route | 215972 | [215972-train-sim-world-3-west-cornwall-local-penzance-st-austell-and-st-ives-route.json](./215972-train-sim-world-3-west-cornwall-local-penzance-st-austell-and-st-ives-route.json) |
 | Train Sim World 3: West Somerset Railway | 225932 | [225932-train-sim-world-3-west-somerset-railway.json](./225932-train-sim-world-3-west-somerset-railway.json) |
 | Train Sim World 4: Antelope Valley Line - Los Angeles - Lancaster Route | 269324 | [269324-train-sim-world-4-antelope-valley-line-los-angeles-lancaster-route.json](./269324-train-sim-world-4-antelope-valley-line-los-angeles-lancaster-route.json) |
 | Train Sim World 4: Austrian Regional Edition | 268833 | [268833-train-sim-world-4-austrian-regional-edition.json](./268833-train-sim-world-4-austrian-regional-edition.json) |
