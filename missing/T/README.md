@@ -4815,6 +4815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tethernum | 60407 | [60407-tethernum.json](./60407-tethernum.json) |
 | Tetjis | 361756 | [361756-tetjis.json](./361756-tetjis.json) |
 | Tetnis | 93522 | [93522-tetnis.json](./93522-tetnis.json) |
+| Tetote x Connect | 213122 | [213122-tetote-x-connect.json](./213122-tetote-x-connect.json) |
 | Tetr.io: Season 2 | 363973 | [363973-tetr-io-season-2.json](./363973-tetr-io-season-2.json) |
 | Tetra Bash | 59742 | [59742-tetra-bash.json](./59742-tetra-bash.json) |
 | Tetra Block | 292774 | [292774-tetra-block.json](./292774-tetra-block.json) |
@@ -7254,6 +7255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chronicles of Narnia: The Lion, the Witch and the Wardrobe | 194238 | [194238-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.json](./194238-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.json) |
 | The Chronicles of Narnia: The Lion, the Witch and the Wardrobe | 3857 | [3857-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.json](./3857-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.json) |
 | The Chronicles of Narnia: The Voyage of the Dawn Treader | 185951 | [185951-the-chronicles-of-narnia-the-voyage-of-the-dawn-treader.json](./185951-the-chronicles-of-narnia-the-voyage-of-the-dawn-treader.json) |
+| The Chronicles of Nathan: The Maze Hunter | 213079 | [213079-the-chronicles-of-nathan-the-maze-hunter.json](./213079-the-chronicles-of-nathan-the-maze-hunter.json) |
 | The Chronicles of Noah's Ark | 105244 | [105244-the-chronicles-of-noahs-ark.json](./105244-the-chronicles-of-noahs-ark.json) |
 | The Chronicles of Nyanya | 68669 | [68669-the-chronicles-of-nyanya.json](./68669-the-chronicles-of-nyanya.json) |
 | The Chronicles of Overlord | 219550 | [219550-the-chronicles-of-overlord.json](./219550-the-chronicles-of-overlord.json) |
@@ -10656,6 +10658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hilltop Mansion | 149878 | [149878-the-hilltop-mansion.json](./149878-the-hilltop-mansion.json) |
 | The HinterLands | 33427 | [33427-the-hinterlands.json](./33427-the-hinterlands.json) |
 | The Hip Hop Dance Experience | 15561 | [15561-the-hip-hop-dance-experience.json](./15561-the-hip-hop-dance-experience.json) |
+| The Hippo G | 213088 | [213088-the-hippo-g.json](./213088-the-hippo-g.json) |
 | The History Channel: Alamo - Fight for Independence | 69651 | [69651-the-history-channel-alamo-fight-for-independence.json](./69651-the-history-channel-alamo-fight-for-independence.json) |
 | The History Channel: Battle for the Pacific | 4913 | [4913-the-history-channel-battle-for-the-pacific.json](./4913-the-history-channel-battle-for-the-pacific.json) |
 | The History Channel: Civil War - A Nation Divided | 7009 | [7009-the-history-channel-civil-war-a-nation-divided.json](./7009-the-history-channel-civil-war-a-nation-divided.json) |
@@ -14835,6 +14838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Piece | 276812 | [276812-the-piece.json](./276812-the-piece.json) |
 | The Pig Cow: Horizons of the New Valley | 362189 | [362189-the-pig-cow-horizons-of-the-new-valley.json](./362189-the-pig-cow-horizons-of-the-new-valley.json) |
 | The Pig D: Deluxe Edition | 225960 | [225960-the-pig-d-deluxe-edition.json](./225960-the-pig-d-deluxe-edition.json) |
+| The Pig Quiz | 213089 | [213089-the-pig-quiz.json](./213089-the-pig-quiz.json) |
 | The Pig: Money Is Time | 186183 | [186183-the-pig-money-is-time.json](./186183-the-pig-money-is-time.json) |
 | The Pigeon P | 198254 | [198254-the-pigeon-p.json](./198254-the-pigeon-p.json) |
 | The Pigeon Quiz | 219048 | [219048-the-pigeon-quiz.json](./219048-the-pigeon-quiz.json) |
@@ -25907,6 +25911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer II: Steps of Isha | 167631 | [167631-total-war-warhammer-ii-steps-of-isha.json](./167631-total-war-warhammer-ii-steps-of-isha.json) |
 | Total War: Warhammer III - Bhashiva | 402510 | [402510-total-war-warhammer-iii-bhashiva.json](./402510-total-war-warhammer-iii-bhashiva.json) |
 | Total War: Warhammer III - Blood for the Blood God III | 227239 | [227239-total-war-warhammer-iii-blood-for-the-blood-god-iii.json](./227239-total-war-warhammer-iii-blood-for-the-blood-god-iii.json) |
+| Total War: Warhammer III - Champions of Chaos | 213092 | [213092-total-war-warhammer-iii-champions-of-chaos.json](./213092-total-war-warhammer-iii-champions-of-chaos.json) |
 | Total War: Warhammer III - Forge of the Chaos Dwarfs | 241802 | [241802-total-war-warhammer-iii-forge-of-the-chaos-dwarfs.json](./241802-total-war-warhammer-iii-forge-of-the-chaos-dwarfs.json) |
 | Total War: Warhammer III - Immortal Empires | 203268 | [203268-total-war-warhammer-iii-immortal-empires.json](./203268-total-war-warhammer-iii-immortal-empires.json) |
 | Total War: Warhammer III - Limited Edition | 146143 | [146143-total-war-warhammer-iii-limited-edition.json](./146143-total-war-warhammer-iii-limited-edition.json) |
@@ -26366,6 +26371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Mukyuushi: Glory of Deep Skies | 246677 | [246677-touhou-mukyuushi-glory-of-deep-skies.json](./246677-touhou-mukyuushi-glory-of-deep-skies.json) |
 | Touhou Multi Scroll Shooting | 121337 | [121337-touhou-multi-scroll-shooting.json](./121337-touhou-multi-scroll-shooting.json) |
 | Touhou Multi Scroll Shooting 2 | 188965 | [188965-touhou-multi-scroll-shooting-2.json](./188965-touhou-multi-scroll-shooting-2.json) |
+| Touhou Mumyouken: Unorganized Heroes | 213130 | [213130-touhou-mumyouken-unorganized-heroes.json](./213130-touhou-mumyouken-unorganized-heroes.json) |
 | TouHou Music Recording | 188937 | [188937-touhou-music-recording.json](./188937-touhou-music-recording.json) |
 | Touhou Mutsuigeki: Concealed the Conclusion | 51266 | [51266-touhou-mutsuigeki-concealed-the-conclusion.json](./51266-touhou-mutsuigeki-concealed-the-conclusion.json) |
 | Touhou Mystery Reel | 192886 | [192886-touhou-mystery-reel.json](./192886-touhou-mystery-reel.json) |
@@ -27815,6 +27821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 3: DB BR 363 Loco | 215985 | [215985-train-sim-world-3-db-br-363-loco.json](./215985-train-sim-world-3-db-br-363-loco.json) |
 | Train Sim World 3: DB BR 403 ICE 3 Railbow | 242356 | [242356-train-sim-world-3-db-br-403-ice-3-railbow.json](./242356-train-sim-world-3-db-br-403-ice-3-railbow.json) |
 | Train Sim World 3: DB G6 Diesel Shunter | 215986 | [215986-train-sim-world-3-db-g6-diesel-shunter.json](./215986-train-sim-world-3-db-g6-diesel-shunter.json) |
+| Train Sim World 3: Deluxe Edition | 213114 | [213114-train-sim-world-3-deluxe-edition.json](./213114-train-sim-world-3-deluxe-edition.json) |
 | Train Sim World 3: Deluxe Edition + Loco Bundle | 234245 | [234245-train-sim-world-3-deluxe-edition-loco-bundle.json](./234245-train-sim-world-3-deluxe-edition-loco-bundle.json) |
 | Train Sim World 3: Dispolok BR 182 Add-On | 220712 | [220712-train-sim-world-3-dispolok-br-182-add-on.json](./220712-train-sim-world-3-dispolok-br-182-add-on.json) |
 | Train Sim World 3: Glossop Line - Manchester: Hadfield & Glossop Route | 254910 | [254910-train-sim-world-3-glossop-line-manchester-hadfield-and-glossop-route.json](./254910-train-sim-world-3-glossop-line-manchester-hadfield-and-glossop-route.json) |
