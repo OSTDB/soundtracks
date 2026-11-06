@@ -10291,6 +10291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sil and the Fading World | 331103 | [331103-sil-and-the-fading-world.json](./331103-sil-and-the-fading-world.json) |
 | Silah | 176195 | [176195-silah.json](./176195-silah.json) |
 | Silberheim Evolving Card Game | 393787 | [393787-silberheim-evolving-card-game.json](./393787-silberheim-evolving-card-game.json) |
+| Silen House | 217085 | [217085-silen-house.json](./217085-silen-house.json) |
 | Silence | 115840 | [115840-silence.json](./115840-silence.json) |
 | Silence Channel | 143593 | [143593-silence-channel.json](./143593-silence-channel.json) |
 | Silence Channel 2 | 218471 | [218471-silence-channel-2.json](./218471-silence-channel-2.json) |
