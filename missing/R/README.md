@@ -4141,6 +4141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redden | 83576 | [83576-redden.json](./83576-redden.json) |
 | Redden: 100denarii | 192064 | [192064-redden-100denarii.json](./192064-redden-100denarii.json) |
 | Reddie and the Redirected Walker: Module 01 - Alpha | 267261 | [267261-reddie-and-the-redirected-walker-module-01-alpha.json](./267261-reddie-and-the-redirected-walker-module-01-alpha.json) |
+| Reddish | 212023 | [212023-reddish.json](./212023-reddish.json) |
 | Reddoor | 213205 | [213205-reddoor.json](./213205-reddoor.json) |
 | Redeemart: A Convenient Apocalypse | 226448 | [226448-redeemart-a-convenient-apocalypse.json](./226448-redeemart-a-convenient-apocalypse.json) |
 | Redeemer's Run | 264562 | [264562-redeemers-run.json](./264562-redeemers-run.json) |
@@ -11341,6 +11342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoundRick: Brick Breaker | 251201 | [251201-roundrick-brick-breaker.json](./251201-roundrick-brick-breaker.json) |
 | RoundRunners Playground | 253608 | [253608-roundrunners-playground.json](./253608-roundrunners-playground.json) |
 | Rounds of Reckoning | 230794 | [230794-rounds-of-reckoning.json](./230794-rounds-of-reckoning.json) |
+| Rounds of Zombies | 212038 | [212038-rounds-of-zombies.json](./212038-rounds-of-zombies.json) |
 | Roundscape Adorevia | 82881 | [82881-roundscape-adorevia.json](./82881-roundscape-adorevia.json) |
 | RoundUrbs | 350413 | [350413-roundurbs.json](./350413-roundurbs.json) |
 | Roundy | 38919 | [38919-roundy.json](./38919-roundy.json) |
@@ -12979,6 +12981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty Prison: Horror | 420660 | [420660-rusty-prison-horror.json](./420660-rusty-prison-horror.json) |
 | Rusty Punk | 177923 | [177923-rusty-punk.json](./177923-rusty-punk.json) |
 | Rusty Rabbit | 267796 | [267796-rusty-rabbit.json](./267796-rusty-rabbit.json) |
+| Rusty Rangers | 211997 | [211997-rusty-rangers.json](./211997-rusty-rangers.json) |
 | Rusty Ride | 266794 | [266794-rusty-ride.json](./266794-rusty-ride.json) |
 | Rusty Rivets: Fix-it Adventures | 137495 | [137495-rusty-rivets-fix-it-adventures.json](./137495-rusty-rivets-fix-it-adventures.json) |
 | Rusty Road Racing | 324924 | [324924-rusty-road-racing.json](./324924-rusty-road-racing.json) |
