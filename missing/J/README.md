@@ -1509,6 +1509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Quest: The Sapphire Dragon | 210021 | [210021-jewel-quest-the-sapphire-dragon.json](./210021-jewel-quest-the-sapphire-dragon.json) |
 | Jewel Quest: The Sapphire Dragon | 85213 | [85213-jewel-quest-the-sapphire-dragon.json](./85213-jewel-quest-the-sapphire-dragon.json) |
 | Jewel Rotation | 38668 | [38668-jewel-rotation.json](./38668-jewel-rotation.json) |
+| Jewel Run | 223830 | [223830-jewel-run.json](./223830-jewel-run.json) |
 | Jewel Shooter | 10477 | [10477-jewel-shooter.json](./10477-jewel-shooter.json) |
 | Jewel Spirits | 347733 | [347733-jewel-spirits.json](./347733-jewel-spirits.json) |
 | Jewel Thief | 78923 | [78923-jewel-thief.json](./78923-jewel-thief.json) |
@@ -2396,6 +2397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Elway in Space | 332214 | [332214-john-elway-in-space.json](./332214-john-elway-in-space.json) |
 | John Elway's Quarterback | 198782 | [198782-john-elways-quarterback.json](./198782-john-elways-quarterback.json) |
 | John Elway's Team Quarterback | 40343 | [40343-john-elways-team-quarterback.json](./40343-john-elways-team-quarterback.json) |
+| John Fart: Text-iverse of Crazyness | 223755 | [223755-john-fart-text-iverse-of-crazyness.json](./223755-john-fart-text-iverse-of-crazyness.json) |
 | John Fox | 303595 | [303595-john-fox.json](./303595-john-fox.json) |
 | John Fury’s First Fury | 402497 | [402497-john-fury-s-first-fury.json](./402497-john-fury-s-first-fury.json) |
 | John Gleep | 410343 | [410343-john-gleep.json](./410343-john-gleep.json) |
