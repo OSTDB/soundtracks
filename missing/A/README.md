@@ -15707,6 +15707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Sever | 414337 | [414337-astral-sever.json](./414337-astral-sever.json) |
 | Astral Shipwright | 193198 | [193198-astral-shipwright.json](./193198-astral-shipwright.json) |
 | Astral Slider | 192262 | [192262-astral-slider.json](./192262-astral-slider.json) |
+| Astral Sorcery | 233837 | [233837-astral-sorcery.json](./233837-astral-sorcery.json) |
 | Astral Space | 189359 | [189359-astral-space.json](./189359-astral-space.json) |
 | Astral Stairways | 142993 | [142993-astral-stairways.json](./142993-astral-stairways.json) |
 | Astral Survivor | 345837 | [345837-astral-survivor.json](./345837-astral-survivor.json) |
@@ -16477,6 +16478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -17447,6 +17449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalan | 416943 | [416943-avalan.json](./416943-avalan.json) |
 | Avalanca | 250706 | [250706-avalanca.json](./250706-avalanca.json) |
 | Avalanche | 228674 | [228674-avalanche.json](./228674-avalanche.json) |
+| Avalanche | 233850 | [233850-avalanche.json](./233850-avalanche.json) |
 | Avalanche | 370979 | [370979-avalanche.json](./370979-avalanche.json) |
 | Avalanche | 46840 | [46840-avalanche.json](./46840-avalanche.json) |
 | Avalanche Escape | 313554 | [313554-avalanche-escape.json](./313554-avalanche-escape.json) |
