@@ -2476,6 +2476,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gefragt Gejagt | 163144 | [163144-gefragt-gejagt.json](./163144-gefragt-gejagt.json) |
 | Geg 2: Nazad v Budushchee | 303242 | [303242-geg-2-nazad-v-budushchee.json](./303242-geg-2-nazad-v-budushchee.json) |
 | GeGeGe no Kitaro | 166545 | [166545-gegege-no-kitaro.json](./166545-gegege-no-kitaro.json) |
+| GeGeGe no Kitaro | 230054 | [230054-gegege-no-kitaro.json](./230054-gegege-no-kitaro.json) |
+| GeGeGe no Kitaro | 230059 | [230059-gegege-no-kitaro.json](./230059-gegege-no-kitaro.json) |
 | GeGeGe no Kitaro 2: Yokai Gundan no Chousen | 48485 | [48485-gegege-no-kitaro-2-yokai-gundan-no-chousen.json](./48485-gegege-no-kitaro-2-yokai-gundan-no-chousen.json) |
 | GeGeGe no Kitaro: Fukkatsu! Tenma Daiou | 64106 | [64106-gegege-no-kitaro-fukkatsu-tenma-daiou.json](./64106-gegege-no-kitaro-fukkatsu-tenma-daiou.json) |
 | GeGeGe no Kitaro: Gyakushuu! Youma Daikessen | 43772 | [43772-gegege-no-kitaro-gyakushuu-youma-daikessen.json](./43772-gegege-no-kitaro-gyakushuu-youma-daikessen.json) |
@@ -2488,6 +2490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeGeGe no Kitaro: Yokai Daiundoukai | 64105 | [64105-gegege-no-kitaro-yokai-daiundoukai.json](./64105-gegege-no-kitaro-yokai-daiundoukai.json) |
 | GeGeGe no Kitaro: Yokai Donjara | 64107 | [64107-gegege-no-kitaro-yokai-donjara.json](./64107-gegege-no-kitaro-yokai-donjara.json) |
 | GeGeGe no Kitaro: Yokai Souzoushu Arawaru! | 64109 | [64109-gegege-no-kitaro-yokai-souzoushu-arawaru.json](./64109-gegege-no-kitaro-yokai-souzoushu-arawaru.json) |
+| GeGeGe no Kitaro: Yokai Yokochou | 230063 | [230063-gegege-no-kitaro-yokai-yokochou.json](./230063-gegege-no-kitaro-yokai-yokochou.json) |
 | Geheimprojekt DMSO | 84227 | [84227-geheimprojekt-dmso.json](./84227-geheimprojekt-dmso.json) |
 | Gehena | 192459 | [192459-gehena.json](./192459-gehena.json) |
 | Gehenna | 253953 | [253953-gehenna.json](./253953-gehenna.json) |
@@ -9538,6 +9541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grog 'n Glory | 291739 | [291739-grog-n-glory.json](./291739-grog-n-glory.json) |
 | Grogger | 289122 | [289122-grogger.json](./289122-grogger.json) |
 | Groggers! | 31122 | [31122-groggers.json](./31122-groggers.json) |
+| Grogu Tamagotchi | 230084 | [230084-grogu-tamagotchi.json](./230084-grogu-tamagotchi.json) |
 | Grok | 322763 | [322763-grok.json](./322763-grok.json) |
 | Grokai | 307031 | [307031-grokai.json](./307031-grokai.json) |
 | Grokit | 271204 | [271204-grokit.json](./271204-grokit.json) |
@@ -10162,6 +10166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guchio Rising Mountain | 365540 | [365540-guchio-rising-mountain.json](./365540-guchio-rising-mountain.json) |
 | Gude! Jump n Run | 160179 | [160179-gude-jump-n-run.json](./160179-gude-jump-n-run.json) |
 | Guderian | 28716 | [28716-guderian.json](./28716-guderian.json) |
+| Gudetama Tamagotchi | 230058 | [230058-gudetama-tamagotchi.json](./230058-gudetama-tamagotchi.json) |
 | Gudetama Tap! | 102118 | [102118-gudetama-tap.json](./102118-gudetama-tap.json) |
 | Gudetama Tap! Puzzle | 258874 | [258874-gudetama-tap-puzzle.json](./258874-gudetama-tap-puzzle.json) |
 | Gudetama: Hanjuku de Tanomuwa | 57560 | [57560-gudetama-hanjuku-de-tanomuwa.json](./57560-gudetama-hanjuku-de-tanomuwa.json) |
