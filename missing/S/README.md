@@ -7733,6 +7733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep and Gates | 347591 | [347591-sheep-and-gates.json](./347591-sheep-and-gates.json) |
 | Sheep Annoyer | 183886 | [183886-sheep-annoyer.json](./183886-sheep-annoyer.json) |
 | Sheep Collision | 116083 | [116083-sheep-collision.json](./116083-sheep-collision.json) |
+| Sheep Defense | 208704 | [208704-sheep-defense.json](./208704-sheep-defense.json) |
 | Sheep Dog | 410445 | [410445-sheep-dog.json](./410445-sheep-dog.json) |
 | Sheep Dreams Are Made of This | 59832 | [59832-sheep-dreams-are-made-of-this.json](./59832-sheep-dreams-are-made-of-this.json) |
 | Sheep for the Stars | 340722 | [340722-sheep-for-the-stars.json](./340722-sheep-for-the-stars.json) |
@@ -7857,6 +7858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelltered | 353359 | [353359-shelltered.json](./353359-shelltered.json) |
 | Shelltopia | 330311 | [330311-shelltopia.json](./330311-shelltopia.json) |
 | Shelly Duvall's It's A Bird's Life | 38820 | [38820-shelly-duvalls-its-a-birds-life.json](./38820-shelly-duvalls-its-a-birds-life.json) |
+| Shelly: My First Computer Game | 208703 | [208703-shelly-my-first-computer-game.json](./208703-shelly-my-first-computer-game.json) |
 | Shelter | 7832 | [7832-shelter.json](./7832-shelter.json) |
 | Shelter 13 | 414733 | [414733-shelter-13.json](./414733-shelter-13.json) |
 | Shelter 2 | 11795 | [11795-shelter-2.json](./11795-shelter-2.json) |
@@ -8964,6 +8966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shojo Calibur.io | 188390 | [188390-shojo-calibur-io.json](./188390-shojo-calibur-io.json) |
 | Shojo Warriors | 340375 | [340375-shojo-warriors.json](./340375-shojo-warriors.json) |
 | Shoka | 304075 | [304075-shoka.json](./304075-shoka.json) |
+| Shokendo | 208701 | [208701-shokendo.json](./208701-shokendo.json) |
 | Shoko | 296338 | [296338-shoko.json](./296338-shoko.json) |
 | Shokrok Throwdown | 73283 | [73283-shokrok-throwdown.json](./73283-shokrok-throwdown.json) |
 | Shoku Iku Series 1: Soreike! Anpanman: Sukikirai Nai Ko Genki na Ko! | 327607 | [327607-shoku-iku-series-1-soreike-anpanman-sukikirai-nai-ko-genki-na-ko.json](./327607-shoku-iku-series-1-soreike-anpanman-sukikirai-nai-ko-genki-na-ko.json) |
@@ -9148,6 +9151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Star Island | 194982 | [194982-shooting-star-island.json](./194982-shooting-star-island.json) |
 | Shooting Star Rockman Wave Transer | 352786 | [352786-shooting-star-rockman-wave-transer.json](./352786-shooting-star-rockman-wave-transer.json) |
 | Shooting Star VR | 246308 | [246308-shooting-star-vr.json](./246308-shooting-star-vr.json) |
+| Shooting Stars Pool | 208698 | [208698-shooting-stars-pool.json](./208698-shooting-stars-pool.json) |
 | Shooting Stars! | 19292 | [19292-shooting-stars.json](./19292-shooting-stars.json) |
 | Shooting Survival | 248149 | [248149-shooting-survival.json](./248149-shooting-survival.json) |
 | Shooting Trilogy | 61465 | [61465-shooting-trilogy.json](./61465-shooting-trilogy.json) |
@@ -9678,6 +9682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuffle 'n Slide | 96595 | [96595-shuffle-n-slide.json](./96595-shuffle-n-slide.json) |
 | Shuffle and K.O. | 249654 | [249654-shuffle-and-k-o.json](./249654-shuffle-and-k-o.json) |
 | Shuffle Board | 74726 | [74726-shuffle-board.json](./74726-shuffle-board.json) |
+| Shuffle Bump | 208696 | [208696-shuffle-bump.json](./208696-shuffle-bump.json) |
 | Shuffle Circle | 103552 | [103552-shuffle-circle.json](./103552-shuffle-circle.json) |
 | Shuffle Farm | 345568 | [345568-shuffle-farm.json](./345568-shuffle-farm.json) |
 | Shuffle in One | 259551 | [259551-shuffle-in-one.json](./259551-shuffle-in-one.json) |
@@ -9842,6 +9847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Si Kancil : The Adventurous Mouse Deer | 31207 | [31207-si-kancil-the-adventurous-mouse-deer.json](./31207-si-kancil-the-adventurous-mouse-deer.json) |
 | Sì Shèng Chuánshuō 1 | 117339 | [117339-si-sheng-chuanshuo-1.json](./117339-si-sheng-chuanshuo-1.json) |
 | Si-Ki | 397848 | [397848-si-ki.json](./397848-si-ki.json) |
+| SI4K Baseball | 208694 | [208694-si4k-baseball.json](./208694-si4k-baseball.json) |
 | Siam | 375495 | [375495-siam.json](./375495-siam.json) |
 | Siam Twinstick | 111714 | [111714-siam-twinstick.json](./111714-siam-twinstick.json) |
 | Siames: Puzzle Heritage Game | 214703 | [214703-siames-puzzle-heritage-game.json](./214703-siames-puzzle-heritage-game.json) |
@@ -9866,6 +9872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SIC-1 | 216526 | [216526-sic-1.json](./216526-sic-1.json) |
 | Sicari Remastered | 180986 | [180986-sicari-remastered.json](./180986-sicari-remastered.json) |
 | Sicaria | 289425 | [289425-sicaria.json](./289425-sicaria.json) |
+| Sich Tactics | 208553 | [208553-sich-tactics.json](./208553-sich-tactics.json) |
 | Sichiken | 407213 | [407213-sichiken.json](./407213-sichiken.json) |
 | Sicier's Zweck | 117076 | [117076-siciers-zweck.json](./117076-siciers-zweck.json) |
 | Sicilie | 273185 | [273185-sicilie.json](./273185-sicilie.json) |
@@ -10145,6 +10152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sierra Sports NFL Football Pro '99 | 22608 | [22608-sierra-sports-nfl-football-pro-99.json](./22608-sierra-sports-nfl-football-pro-99.json) |
 | Sierra Sports NFL Football Pro 2000 | 22609 | [22609-sierra-sports-nfl-football-pro-2000.json](./22609-sierra-sports-nfl-football-pro-2000.json) |
 | Sierra's 3-D Helicopter Simulator | 72087 | [72087-sierras-3-d-helicopter-simulator.json](./72087-sierras-3-d-helicopter-simulator.json) |
+| Sierra's Complete Chess | 208688 | [208688-sierras-complete-chess.json](./208688-sierras-complete-chess.json) |
 | Siesta Fiesta | 21667 | [21667-siesta-fiesta.json](./21667-siesta-fiesta.json) |
 | Siete Olas | 351563 | [351563-siete-olas.json](./351563-siete-olas.json) |
 | Sif and the Labyrinth | 190474 | [190474-sif-and-the-labyrinth.json](./190474-sif-and-the-labyrinth.json) |
@@ -10433,6 +10441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hunter Online | 3449 | [3449-silent-hunter-online.json](./3449-silent-hunter-online.json) |
 | Silent Hunter Patrol Disk | 85938 | [85938-silent-hunter-patrol-disk.json](./85938-silent-hunter-patrol-disk.json) |
 | Silent Hunter Patrol Disk #2 | 77311 | [77311-silent-hunter-patrol-disk-2.json](./77311-silent-hunter-patrol-disk-2.json) |
+| Silent Hunter: Commander's Edition | 208686 | [208686-silent-hunter-commanders-edition.json](./208686-silent-hunter-commanders-edition.json) |
 | Silent Infinity | 202366 | [202366-silent-infinity.json](./202366-silent-infinity.json) |
 | Silent Iron | 94866 | [94866-silent-iron.json](./94866-silent-iron.json) |
 | Silent Island | 181595 | [181595-silent-island.json](./181595-silent-island.json) |
@@ -14242,6 +14251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Junior Academy | 68504 | [68504-smart-junior-academy.json](./68504-smart-junior-academy.json) |
 | Smart Junior Academy - Spring | 76936 | [76936-smart-junior-academy-spring.json](./76936-smart-junior-academy-spring.json) |
 | Smart Kat | 114701 | [114701-smart-kat.json](./114701-smart-kat.json) |
+| Smart Kid's Mega Game Mix | 208685 | [208685-smart-kids-mega-game-mix.json](./208685-smart-kids-mega-game-mix.json) |
 | Smart Kid's: Gameclub | 124050 | [124050-smart-kids-gameclub.json](./124050-smart-kids-gameclub.json) |
 | Smart Kid's: Party Fun Pack | 124059 | [124059-smart-kids-party-fun-pack.json](./124059-smart-kids-party-fun-pack.json) |
 | Smart Mouse | 45680 | [45680-smart-mouse.json](./45680-smart-mouse.json) |
@@ -19562,7 +19572,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -19922,6 +19931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rescue | 70231 | [70231-space-rescue.json](./70231-space-rescue.json) |
 | Space Rescue in Jupiter | 274860 | [274860-space-rescue-in-jupiter.json](./274860-space-rescue-in-jupiter.json) |
 | Space Rescue: Code Pink | 169417 | [169417-space-rescue-code-pink.json](./169417-space-rescue-code-pink.json) |
+| Space Resistance | 208689 | [208689-space-resistance.json](./208689-space-resistance.json) |
 | Space Restaurant | 337722 | [337722-space-restaurant.json](./337722-space-restaurant.json) |
 | Space Revenge | 158217 | [158217-space-revenge.json](./158217-space-revenge.json) |
 | Space Revolver | 368825 | [368825-space-revolver.json](./368825-space-revolver.json) |
@@ -26335,6 +26345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Strider | 329505 | [329505-stellar-strider.json](./329505-stellar-strider.json) |
 | Stellar Stroll | 244323 | [244323-stellar-stroll.json](./244323-stellar-stroll.json) |
 | Stellar Survivor | 119476 | [119476-stellar-survivor.json](./119476-stellar-survivor.json) |
+| Stellar Sweeper | 208700 | [208700-stellar-sweeper.json](./208700-stellar-sweeper.json) |
 | Stellar Tactics | 26293 | [26293-stellar-tactics.json](./26293-stellar-tactics.json) |
 | Stellar Terminus | 318178 | [318178-stellar-terminus.json](./318178-stellar-terminus.json) |
 | Stellar Track | 18427 | [18427-stellar-track.json](./18427-stellar-track.json) |
@@ -26830,6 +26841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Be a Human | 192088 | [192088-still-be-a-human.json](./192088-still-be-a-human.json) |
 | Still Breathing | 418545 | [418545-still-breathing.json](./418545-still-breathing.json) |
 | Still Dark at Dawn | 111028 | [111028-still-dark-at-dawn.json](./111028-still-dark-at-dawn.json) |
+| Still Here | 208684 | [208684-still-here.json](./208684-still-here.json) |
 | Still Here | 97223 | [97223-still-here.json](./97223-still-here.json) |
 | Still Here: A Pip Adventure | 175035 | [175035-still-here-a-pip-adventure.json](./175035-still-here-a-pip-adventure.json) |
 | Still Here... A cute Adventure | 100773 | [100773-still-here-a-cute-adventure.json](./100773-still-here-a-cute-adventure.json) |
