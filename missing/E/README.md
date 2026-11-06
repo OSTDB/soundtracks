@@ -618,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eat Bananas | 213399 | [213399-eat-bananas.json](./213399-eat-bananas.json) |
 | Eat Colors | 190371 | [190371-eat-colors.json](./190371-eat-colors.json) |
 | Eat Fish 3D | 169716 | [169716-eat-fish-3d.json](./169716-eat-fish-3d.json) |
+| Eat Fish, Get Achievements | 214270 | [214270-eat-fish-get-achievements.json](./214270-eat-fish-get-achievements.json) |
 | Eat Girl | 133611 | [133611-eat-girl.json](./133611-eat-girl.json) |
 | Eat It | 414313 | [414313-eat-it.json](./414313-eat-it.json) |
 | Eat Lead: The Return of Matt Hazard | 574 | [574-eat-lead-the-return-of-matt-hazard.json](./574-eat-lead-the-return-of-matt-hazard.json) |
@@ -4165,6 +4166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enslaved: Odyssey to the West Premium Edition | 24192 | [24192-enslaved-odyssey-to-the-west-premium-edition.json](./24192-enslaved-odyssey-to-the-west-premium-edition.json) |
 | Ensnared | 297091 | [297091-ensnared.json](./297091-ensnared.json) |
 | Ensol | 253963 | [253963-ensol.json](./253963-ensol.json) |
+| Ensora | 214237 | [214237-ensora.json](./214237-ensora.json) |
 | Ensorak Riddle | 174533 | [174533-ensorak-riddle.json](./174533-ensorak-riddle.json) |
 | Ensou | 141212 | [141212-ensou.json](./141212-ensou.json) |
 | Enspell | 275145 | [275145-enspell.json](./275145-enspell.json) |
@@ -5727,6 +5729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eslander | 120993 | [120993-eslander.json](./120993-eslander.json) |
 | ESmart 2.0 | 269605 | [269605-esmart-2-0.json](./269605-esmart-2-0.json) |
 | ESMO: Esports Manager Online | 375291 | [375291-esmo-esports-manager-online.json](./375291-esmo-esports-manager-online.json) |
+| Esophaguys | 214229 | [214229-esophaguys.json](./214229-esophaguys.json) |
 | Esoria | 285900 | [285900-esoria.json](./285900-esoria.json) |
 | EsoTarot VR | 236270 | [236270-esotarot-vr.json](./236270-esotarot-vr.json) |
 | Esoterica Order | 311588 | [311588-esoterica-order.json](./311588-esoterica-order.json) |
