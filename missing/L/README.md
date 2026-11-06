@@ -2119,6 +2119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Empires | 224161 | [224161-league-of-empires.json](./224161-league-of-empires.json) |
 | League of Enthusiastic Losers | 157216 | [157216-league-of-enthusiastic-losers.json](./157216-league-of-enthusiastic-losers.json) |
 | League of Enthusiastic Losers + Brawl Chess | 228942 | [228942-league-of-enthusiastic-losers-brawl-chess.json](./228942-league-of-enthusiastic-losers-brawl-chess.json) |
+| League of Enthusiastic Losers + Clumsy Rush | 227099 | [227099-league-of-enthusiastic-losers-clumsy-rush.json](./227099-league-of-enthusiastic-losers-clumsy-rush.json) |
 | League of Enthusiastic Losers + Cyber Protocol | 228846 | [228846-league-of-enthusiastic-losers-cyber-protocol.json](./228846-league-of-enthusiastic-losers-cyber-protocol.json) |
 | League of Enthusiastic Losers: Complete Edition | 249558 | [249558-league-of-enthusiastic-losers-complete-edition.json](./249558-league-of-enthusiastic-losers-complete-edition.json) |
 | League of Enthusiastic Losers: Definitive Edition | 246645 | [246645-league-of-enthusiastic-losers-definitive-edition.json](./246645-league-of-enthusiastic-losers-definitive-edition.json) |
@@ -2553,6 +2554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Edda Brasil | 235639 | [235639-legend-of-edda-brasil.json](./235639-legend-of-edda-brasil.json) |
 | Legend of Eeeg | 107643 | [107643-legend-of-eeeg.json](./107643-legend-of-eeeg.json) |
 | Legend of Egypt: Jewels of the Gods | 275970 | [275970-legend-of-egypt-jewels-of-the-gods.json](./275970-legend-of-egypt-jewels-of-the-gods.json) |
+| Legend of Egypt: Pharaoh's Garden 2 - The Sacred Crocodile | 227100 | [227100-legend-of-egypt-pharaohs-garden-2-the-sacred-crocodile.json](./227100-legend-of-egypt-pharaohs-garden-2-the-sacred-crocodile.json) |
 | Legend of Egypt: Pharaohs Garden 2 - The sacred crocodile | 215339 | [215339-legend-of-egypt-pharaohs-garden-2-the-sacred-crocodile.json](./215339-legend-of-egypt-pharaohs-garden-2-the-sacred-crocodile.json) |
 | Legend of Empress | 255118 | [255118-legend-of-empress.json](./255118-legend-of-empress.json) |
 | Legend of Equip > Pants | 396346 | [396346-legend-of-equip-pants.json](./396346-legend-of-equip-pants.json) |
