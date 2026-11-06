@@ -11732,6 +11732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ru Lin Wai Shi Fan Jin | 258455 | [258455-ru-lin-wai-shi-fan-jin.json](./258455-ru-lin-wai-shi-fan-jin.json) |
 | Ruadh: Warbands | 210606 | [210606-ruadh-warbands.json](./210606-ruadh-warbands.json) |
 | Ruarua.ru | 369558 | [369558-ruarua-ru.json](./369558-ruarua-ru.json) |
+| Rubato | 222115 | [222115-rubato.json](./222115-rubato.json) |
 | Rubbadubbers | 335108 | [335108-rubbadubbers.json](./335108-rubbadubbers.json) |
 | Rubber | 217272 | [217272-rubber.json](./217272-rubber.json) |
 | Rubber Bandits | 139684 | [139684-rubber-bandits.json](./139684-rubber-bandits.json) |
