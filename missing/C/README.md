@@ -2079,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Detailing Cleaner Simulator | 288761 | [288761-car-detailing-cleaner-simulator.json](./288761-car-detailing-cleaner-simulator.json) |
 | Car Detailing Simulator | 182487 | [182487-car-detailing-simulator.json](./182487-car-detailing-simulator.json) |
 | Car Detailing Simulator VR | 267725 | [267725-car-detailing-simulator-vr.json](./267725-car-detailing-simulator-vr.json) |
+| Car Detailing Simulator: Track Day | 228215 | [228215-car-detailing-simulator-track-day.json](./228215-car-detailing-simulator-track-day.json) |
 | Car Down | 405038 | [405038-car-down.json](./405038-car-down.json) |
 | Car Drag Racing Simulator | 253227 | [253227-car-drag-racing-simulator.json](./253227-car-drag-racing-simulator.json) |
 | Car Drawing Game | 181806 | [181806-car-drawing-game.json](./181806-car-drawing-game.json) |
@@ -11581,6 +11582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colin the Cleaner | 84232 | [84232-colin-the-cleaner.json](./84232-colin-the-cleaner.json) |
 | Colina: Legacy | 35181 | [35181-colina-legacy.json](./35181-colina-legacy.json) |
 | Coliseum City Bride | 82750 | [82750-coliseum-city-bride.json](./82750-coliseum-city-bride.json) |
+| Collab Ball | 228207 | [228207-collab-ball.json](./228207-collab-ball.json) |
 | Collaborate | 184262 | [184262-collaborate.json](./184262-collaborate.json) |
 | Collage | 177037 | [177037-collage.json](./177037-collage.json) |
 | Collapse | 13505 | [13505-collapse.json](./13505-collapse.json) |
