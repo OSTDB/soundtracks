@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Manager | 390198 | [390198-racing-manager.json](./390198-racing-manager.json) |
 | Racing Manager 2014 | 9419 | [9419-racing-manager-2014.json](./9419-racing-manager-2014.json) |
 | Racing Mania 2 | 71722 | [71722-racing-mania-2.json](./71722-racing-mania-2.json) |
+| Racing Master | 212547 | [212547-racing-master.json](./212547-racing-master.json) |
 | Racing Megapack | 317964 | [317964-racing-megapack.json](./317964-racing-megapack.json) |
 | Racing Moto | 350770 | [350770-racing-moto.json](./350770-racing-moto.json) |
 | Racing Outlaws | 149166 | [149166-racing-outlaws.json](./149166-racing-outlaws.json) |
@@ -2708,6 +2709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re≒Connect Exit Loop | 288224 | [288224-re-connect-exit-loop.json](./288224-re-connect-exit-loop.json) |
 | RE0: VTuber Life | 370680 | [370680-re0-vtuber-life.json](./370680-re0-vtuber-life.json) |
 | Reach | 130790 | [130790-reach.json](./130790-reach.json) |
+| Reach | 212563 | [212563-reach.json](./212563-reach.json) |
 | Reach | 347893 | [347893-reach.json](./347893-reach.json) |
 | Reach 50 : Sexy Hentai Girls | 113312 | [113312-reach-50-sexy-hentai-girls.json](./113312-reach-50-sexy-hentai-girls.json) |
 | Reach Charon | 269561 | [269561-reach-charon.json](./269561-reach-charon.json) |
