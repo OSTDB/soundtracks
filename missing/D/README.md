@@ -6795,6 +6795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deprision | 325707 | [325707-deprision.json](./325707-deprision.json) |
 | Deprived | 390754 | [390754-deprived.json](./390754-deprived.json) |
 | Depth | 11291 | [11291-depth.json](./11291-depth.json) |
+| Depth | 228856 | [228856-depth.json](./228856-depth.json) |
 | Depth Ascend | 311644 | [311644-depth-ascend.json](./311644-depth-ascend.json) |
 | Depth Charge | 181549 | [181549-depth-charge.json](./181549-depth-charge.json) |
 | Depth Charge | 245127 | [245127-depth-charge.json](./245127-depth-charge.json) |
@@ -10298,6 +10299,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Friends | 47859 | [47859-disney-friends.json](./47859-disney-friends.json) |
 | Disney Frozen Adventures | 138679 | [138679-disney-frozen-adventures.json](./138679-disney-frozen-adventures.json) |
 | Disney Fun & Skills Pack | 85780 | [85780-disney-fun-and-skills-pack.json](./85780-disney-fun-and-skills-pack.json) |
+| Disney Game It! Classic Pals | 228812 | [228812-disney-game-it-classic-pals.json](./228812-disney-game-it-classic-pals.json) |
+| Disney Game It! Princess Pals | 228813 | [228813-disney-game-it-princess-pals.json](./228813-disney-game-it-princess-pals.json) |
 | Disney Game Shots: Sparamu | 324750 | [324750-disney-game-shots-sparamu.json](./324750-disney-game-shots-sparamu.json) |
 | Disney Golf | 19212 | [19212-disney-golf.json](./19212-disney-golf.json) |
 | Disney Heroes: Battle Mode | 96138 | [96138-disney-heroes-battle-mode.json](./96138-disney-heroes-battle-mode.json) |
@@ -10356,6 +10359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Princess: Pop-Up Story Adventures | 230373 | [230373-disney-princess-pop-up-story-adventures.json](./230373-disney-princess-pop-up-story-adventures.json) |
 | Disney Princess: Royal Adventure | 49411 | [49411-disney-princess-royal-adventure.json](./49411-disney-princess-royal-adventure.json) |
 | Disney Princess: Royal Horse Show | 50426 | [50426-disney-princess-royal-horse-show.json](./50426-disney-princess-royal-horse-show.json) |
+| Disney Princess: Sleeping Beauty - Tales of Enchantment | 228811 | [228811-disney-princess-sleeping-beauty-tales-of-enchantment.json](./228811-disney-princess-sleeping-beauty-tales-of-enchantment.json) |
 | Disney Princess: Suteki ni Lesson! Hiragana-Katakana | 58849 | [58849-disney-princess-suteki-ni-lesson-hiragana-katakana.json](./58849-disney-princess-suteki-ni-lesson-hiragana-katakana.json) |
 | Disney Princess: The Little Mermaid - Ariel's Princess Adventures | 137563 | [137563-disney-princess-the-little-mermaid-ariels-princess-adventures.json](./137563-disney-princess-the-little-mermaid-ariels-princess-adventures.json) |
 | Disney Princess: The Princess and the Frog | 230374 | [230374-disney-princess-the-princess-and-the-frog.json](./230374-disney-princess-the-princess-and-the-frog.json) |
@@ -11109,7 +11113,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DKC X Mario | 309141 | [309141-dkc-x-mario.json](./309141-dkc-x-mario.json) |
 | DKDC: Donkey Kong Distortion Country | 162830 | [162830-dkdc-donkey-kong-distortion-country.json](./162830-dkdc-donkey-kong-distortion-country.json) |
 | Dkls | 173276 | [173276-dkls.json](./173276-dkls.json) |
+| DKO: Divine Knockout - Founders Edition | 228850 | [228850-dko-divine-knockout-founders-edition.json](./228850-dko-divine-knockout-founders-edition.json) |
 | DKO: Divine Knockout - Starter Edition | 231338 | [231338-dko-divine-knockout-starter-edition.json](./231338-dko-divine-knockout-starter-edition.json) |
+| DKO: Divine Knockout - Ultimate Edition | 228847 | [228847-dko-divine-knockout-ultimate-edition.json](./228847-dko-divine-knockout-ultimate-edition.json) |
 | DLC Quest | 3004 | [3004-dlc-quest.json](./3004-dlc-quest.json) |
 | dlroW oiraM repuS | 145481 | [145481-dlrow-oiram-repus.json](./145481-dlrow-oiram-repus.json) |
 | DM with Me | 413691 | [413691-dm-with-me.json](./413691-dm-with-me.json) |
