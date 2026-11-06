@@ -1679,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2025: Battle for Fatherland | 72917 | [72917-2025-battle-for-fatherland.json](./72917-2025-battle-for-fatherland.json) |
 | 2025: Mosaic Retrospective | 396466 | [396466-2025-mosaic-retrospective.json](./396466-2025-mosaic-retrospective.json) |
 | 2025: Tobi | 328157 | [328157-2025-tobi.json](./328157-2025-tobi.json) |
+| 2027 | 213129 | [213129-2027.json](./213129-2027.json) |
 | 2029 Online | 27733 | [27733-2029-online.json](./27733-2029-online.json) |
 | 203 Game Pack | 273903 | [273903-203-game-pack.json](./273903-203-game-pack.json) |
 | 2032: A New Threat | 237207 | [237207-2032-a-new-threat.json](./237207-2032-a-new-threat.json) |
@@ -2879,6 +2880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Star Racing | 44820 | [44820-5-star-racing.json](./44820-5-star-racing.json) |
 | 5 Star Rio Resort | 38959 | [38959-5-star-rio-resort.json](./38959-5-star-rio-resort.json) |
 | 5 Star Wrestling | 63596 | [63596-5-star-wrestling.json](./63596-5-star-wrestling.json) |
+| 5 x Solitaire Collection | 213081 | [213081-5-x-solitaire-collection.json](./213081-5-x-solitaire-collection.json) |
 | 5 Years | 274126 | [274126-5-years.json](./274126-5-years.json) |
 | 5-fun go ni Igai na Ketsumatsu: Monochrome no Toshokan | 292032 | [292032-5-fun-go-ni-igai-na-ketsumatsu-monochrome-no-toshokan.json](./292032-5-fun-go-ni-igai-na-ketsumatsu-monochrome-no-toshokan.json) |
 | 5-Game Super Pak | 79754 | [79754-5-game-super-pak.json](./79754-5-game-super-pak.json) |
