@@ -948,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Jerk | 316739 | [316739-office-jerk.json](./316739-office-jerk.json) |
 | Office Jigsaw Puzzle - Work Environment | 89284 | [89284-office-jigsaw-puzzle-work-environment.json](./89284-office-jigsaw-puzzle-work-environment.json) |
 | Office Keeper | 412199 | [412199-office-keeper.json](./412199-office-keeper.json) |
+| Office Kissing | 239978 | [239978-office-kissing.json](./239978-office-kissing.json) |
 | Office Ladies | 411727 | [411727-office-ladies.json](./411727-office-ladies.json) |
 | Office Life | 154258 | [154258-office-life.json](./154258-office-life.json) |
 | Office Love Affair | 157708 | [157708-office-love-affair.json](./157708-office-love-affair.json) |
