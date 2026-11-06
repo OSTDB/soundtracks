@@ -948,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall into Decay | 253507 | [253507-fall-into-decay.json](./253507-fall-into-decay.json) |
 | Fall Into Insanity | 253746 | [253746-fall-into-insanity.json](./253746-fall-into-insanity.json) |
 | Fall Jo! | 232047 | [232047-fall-jo.json](./232047-fall-jo.json) |
+| Fall Minamo | 214847 | [214847-fall-minamo.json](./214847-fall-minamo.json) |
 | Fall Ninja | 268450 | [268450-fall-ninja.json](./268450-fall-ninja.json) |
 | Fall of Bali | 224296 | [224296-fall-of-bali.json](./224296-fall-of-bali.json) |
 | Fall of Gods | 240763 | [240763-fall-of-gods.json](./240763-fall-of-gods.json) |
@@ -8672,6 +8673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flyland Wars: 2 Not Yours Mine | 173785 | [173785-flyland-wars-2-not-yours-mine.json](./173785-flyland-wars-2-not-yours-mine.json) |
 | Flyland Wars: 3 Model Trains | 173041 | [173041-flyland-wars-3-model-trains.json](./173041-flyland-wars-3-model-trains.json) |
 | FlyManMissile | 368666 | [368666-flymanmissile.json](./368666-flymanmissile.json) |
+| FlyMe2theMoon | 214827 | [214827-flyme2themoon.json](./214827-flyme2themoon.json) |
 | Flynalny 2018 | 88131 | [88131-flynalny-2018.json](./88131-flynalny-2018.json) |
 | Flynguin Station | 121006 | [121006-flynguin-station.json](./121006-flynguin-station.json) |
 | Flynn & Freckles | 97346 | [97346-flynn-and-freckles.json](./97346-flynn-and-freckles.json) |
