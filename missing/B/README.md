@@ -957,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3637,6 +3638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Fighter | 55861 | [55861-battle-fighter.json](./55861-battle-fighter.json) |
 | Battle Fish | 335411 | [335411-battle-fish.json](./335411-battle-fish.json) |
 | Battle Fishing Masters | 190198 | [190198-battle-fishing-masters.json](./190198-battle-fishing-masters.json) |
+| Battle Flare | 234989 | [234989-battle-flare.json](./234989-battle-flare.json) |
 | Battle Fleet | 48586 | [48586-battle-fleet.json](./48586-battle-fleet.json) |
 | Battle Fleet | 91333 | [91333-battle-fleet.json](./91333-battle-fleet.json) |
 | Battle Fleet 2 | 36182 | [36182-battle-fleet-2.json](./36182-battle-fleet-2.json) |
@@ -10415,6 +10417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Puzzle Sudoku | 227380 | [227380-block-puzzle-sudoku.json](./227380-block-puzzle-sudoku.json) |
 | Block Puzzle Sudoku | 370361 | [370361-block-puzzle-sudoku.json](./370361-block-puzzle-sudoku.json) |
 | Block Puzzle Wood | 90538 | [90538-block-puzzle-wood.json](./90538-block-puzzle-wood.json) |
+| Block Puzzle Woody Origin | 235024 | [235024-block-puzzle-woody-origin.json](./235024-block-puzzle-woody-origin.json) |
 | Block Puzzle: Gem Legend | 232488 | [232488-block-puzzle-gem-legend.json](./232488-block-puzzle-gem-legend.json) |
 | Block Puzzle: Jewel Blast | 216134 | [216134-block-puzzle-jewel-blast.json](./216134-block-puzzle-jewel-blast.json) |
 | Block Puzzle: Star Finder | 103070 | [103070-block-puzzle-star-finder.json](./103070-block-puzzle-star-finder.json) |
@@ -15894,6 +15897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brown Bob | 244581 | [244581-brown-bob.json](./244581-brown-bob.json) |
 | Brown Dust & Puzzle | 196553 | [196553-brown-dust-and-puzzle.json](./196553-brown-dust-and-puzzle.json) |
 | Brown Dust II | 196549 | [196549-brown-dust-ii.json](./196549-brown-dust-ii.json) |
+| Brown Farm | 235016 | [235016-brown-farm.json](./235016-brown-farm.json) |
 | Brown Stories | 133719 | [133719-brown-stories.json](./133719-brown-stories.json) |
 | Brown Trouble | 295011 | [295011-brown-trouble.json](./295011-brown-trouble.json) |
 | Brownie's Adventure | 264671 | [264671-brownies-adventure.json](./264671-brownies-adventure.json) |
