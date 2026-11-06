@@ -3981,6 +3981,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerofly FS 2021 | 175172 | [175172-aerofly-fs-2021.json](./175172-aerofly-fs-2021.json) |
 | Aerofly FS 4 Flight Simulator | 204985 | [204985-aerofly-fs-4-flight-simulator.json](./204985-aerofly-fs-4-flight-simulator.json) |
 | Aerofly FS 4 Flight Simulator: Aircraft AddOn | 204990 | [204990-aerofly-fs-4-flight-simulator-aircraft-addon.json](./204990-aerofly-fs-4-flight-simulator-aircraft-addon.json) |
+| Aerofly FS 4 Flight Simulator: Scenery - Europe Part 1 | 207539 | [207539-aerofly-fs-4-flight-simulator-scenery-europe-part-1.json](./207539-aerofly-fs-4-flight-simulator-scenery-europe-part-1.json) |
+| Aerofly FS 4 Flight Simulator: Scenery - Europe Part 2 | 207550 | [207550-aerofly-fs-4-flight-simulator-scenery-europe-part-2.json](./207550-aerofly-fs-4-flight-simulator-scenery-europe-part-2.json) |
 | Aerofly FS Flight Simulator | 324211 | [324211-aerofly-fs-flight-simulator.json](./324211-aerofly-fs-flight-simulator.json) |
 | Aerofly RC 10: Expansion Pack 1 | 272742 | [272742-aerofly-rc-10-expansion-pack-1.json](./272742-aerofly-rc-10-expansion-pack-1.json) |
 | Aerofly RC 10: Expansion Pack 2 | 272741 | [272741-aerofly-rc-10-expansion-pack-2.json](./272741-aerofly-rc-10-expansion-pack-2.json) |
@@ -7576,6 +7578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone | 272639 | [272639-alone.json](./272639-alone.json) |
 | Alone | 97495 | [97495-alone.json](./97495-alone.json) |
 | Alone A Long | 324798 | [324798-alone-a-long.json](./324798-alone-a-long.json) |
+| Alone Again: The Countryside | 207607 | [207607-alone-again-the-countryside.json](./207607-alone-again-the-countryside.json) |
 | Alone Among The Stars | 316529 | [316529-alone-among-the-stars.json](./316529-alone-among-the-stars.json) |
 | Alone and Dangerous | 274323 | [274323-alone-and-dangerous.json](./274323-alone-and-dangerous.json) |
 | Alone but Strong | 369625 | [369625-alone-but-strong.json](./369625-alone-but-strong.json) |
@@ -10692,6 +10695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomie | 55548 | [55548-anomie.json](./55548-anomie.json) |
 | Anominal | 283913 | [283913-anominal.json](./283913-anominal.json) |
 | Anomyeowly | 397103 | [397103-anomyeowly.json](./397103-anomyeowly.json) |
+| Anon Hacker | 207544 | [207544-anon-hacker.json](./207544-anon-hacker.json) |
 | Anon's Neko Waifus | 276709 | [276709-anons-neko-waifus.json](./276709-anons-neko-waifus.json) |
 | Anonono. Kimi to Sugoshita Ano Hi Ano Toki Ano Mirai | 314654 | [314654-anonono-kimi-to-sugoshita-ano-hi-ano-toki-ano-mirai.json](./314654-anonono-kimi-to-sugoshita-ano-hi-ano-toki-ano-mirai.json) |
 | Anonymous Agony | 64317 | [64317-anonymous-agony.json](./64317-anonymous-agony.json) |
@@ -15643,6 +15647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids | 172788 | [172788-asteroids.json](./172788-asteroids.json) |
 | Asteroids | 178966 | [178966-asteroids.json](./178966-asteroids.json) |
 | Asteroids | 187250 | [187250-asteroids.json](./187250-asteroids.json) |
+| Asteroids | 207546 | [207546-asteroids.json](./207546-asteroids.json) |
 | Asteroids | 232695 | [232695-asteroids.json](./232695-asteroids.json) |
 | Asteroids | 239506 | [239506-asteroids.json](./239506-asteroids.json) |
 | Asteroids | 281233 | [281233-asteroids.json](./281233-asteroids.json) |
@@ -16597,6 +16602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
