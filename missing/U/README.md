@@ -2123,6 +2123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unheard | 109148 | [109148-unheard.json](./109148-unheard.json) |
 | Unheard Screams: King Leopold II's Rule Over the Congo | 35383 | [35383-unheard-screams-king-leopold-iis-rule-over-the-congo.json](./35383-unheard-screams-king-leopold-iis-rule-over-the-congo.json) |
 | Unheard: The Lethal Script | 228720 | [228720-unheard-the-lethal-script.json](./228720-unheard-the-lethal-script.json) |
+| Unheard: Voices of Crime Edition | 237752 | [237752-unheard-voices-of-crime-edition.json](./237752-unheard-voices-of-crime-edition.json) |
 | Unheil | 305429 | [305429-unheil.json](./305429-unheil.json) |
 | Unheim | 283083 | [283083-unheim.json](./283083-unheim.json) |
 | Unherd | 143590 | [143590-unherd.json](./143590-unherd.json) |
@@ -3274,6 +3275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Flow: Expansion Packs Collection | 237926 | [237926-urban-flow-expansion-packs-collection.json](./237926-urban-flow-expansion-packs-collection.json) |
 | Urban Flow: Extended Edition | 222191 | [222191-urban-flow-extended-edition.json](./222191-urban-flow-extended-edition.json) |
 | Urban Flow: Full Edition | 332506 | [332506-urban-flow-full-edition.json](./332506-urban-flow-full-edition.json) |
+| Urban Flow: Gold Edition | 237755 | [237755-urban-flow-gold-edition.json](./237755-urban-flow-gold-edition.json) |
 | Urban Flow: GOTY Edition | 278653 | [278653-urban-flow-goty-edition.json](./278653-urban-flow-goty-edition.json) |
 | Urban Flow: Grand Edition | 313215 | [313215-urban-flow-grand-edition.json](./313215-urban-flow-grand-edition.json) |
 | Urban Flow: Hero's Edition | 390908 | [390908-urban-flow-heros-edition.json](./390908-urban-flow-heros-edition.json) |
