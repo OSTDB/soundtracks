@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nack the Weasel | 330721 | [330721-nack-the-weasel.json](./330721-nack-the-weasel.json) |
 | Nada Asatarou / Kojima Takeo no Jissen Mahjong Kyoushitsu | 228566 | [228566-nada-asatarou-kojima-takeo-no-jissen-mahjong-kyoushitsu.json](./228566-nada-asatarou-kojima-takeo-no-jissen-mahjong-kyoushitsu.json) |
 | Naddagil: A Nordic Nightmare | 314026 | [314026-naddagil-a-nordic-nightmare.json](./314026-naddagil-a-nordic-nightmare.json) |
+| Nade Pro: Kisama mo Seiyuu Yattemiro! | 221471 | [221471-nade-pro-kisama-mo-seiyuu-yattemiro.json](./221471-nade-pro-kisama-mo-seiyuu-yattemiro.json) |
 | Nadia Training Plan | 97726 | [97726-nadia-training-plan.json](./97726-nadia-training-plan.json) |
 | Nadia Was Here | 28491 | [28491-nadia-was-here.json](./28491-nadia-was-here.json) |
 | Nadine in: Diamond in the Grave | 279725 | [279725-nadine-in-diamond-in-the-grave.json](./279725-nadine-in-diamond-in-the-grave.json) |
