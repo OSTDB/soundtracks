@@ -5822,6 +5822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beepers: Screaming Speedway | 217685 | [217685-beepers-screaming-speedway.json](./217685-beepers-screaming-speedway.json) |
 | Beepertron | 84239 | [84239-beepertron.json](./84239-beepertron.json) |
 | Beeps | 255511 | [255511-beeps.json](./255511-beeps.json) |
+| Beeps and Blips | 245103 | [245103-beeps-and-blips.json](./245103-beeps-and-blips.json) |
 | Beer & Plunder | 320868 | [320868-beer-and-plunder.json](./320868-beer-and-plunder.json) |
 | Beer and Rush: Non-VR Edition | 338226 | [338226-beer-and-rush-non-vr-edition.json](./338226-beer-and-rush-non-vr-edition.json) |
 | Beer Bar | 111867 | [111867-beer-bar.json](./111867-beer-bar.json) |
@@ -7803,6 +7804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billy the Kid Returns! | 27312 | [27312-billy-the-kid-returns.json](./27312-billy-the-kid-returns.json) |
 | Billy the Wizard: Rocket Broomstick Racing | 4717 | [4717-billy-the-wizard-rocket-broomstick-racing.json](./4717-billy-the-wizard-rocket-broomstick-racing.json) |
 | Billy Went to a Carnival | 359330 | [359330-billy-went-to-a-carnival.json](./359330-billy-went-to-a-carnival.json) |
+| Billy-Bob | 245099 | [245099-billy-bob.json](./245099-billy-bob.json) |
 | Billy's Boot Camp: Wii de Enjoy Diet! | 136884 | [136884-billys-boot-camp-wii-de-enjoy-diet.json](./136884-billys-boot-camp-wii-de-enjoy-diet.json) |
 | Billy's Bootcamp | 92601 | [92601-billys-bootcamp.json](./92601-billys-bootcamp.json) |
 | Billy's Game Show | 291301 | [291301-billys-game-show.json](./291301-billys-game-show.json) |
@@ -8650,6 +8652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BitRick's Venture | 333173 | [333173-bitricks-venture.json](./333173-bitricks-venture.json) |
 | Bitroom | 148925 | [148925-bitroom.json](./148925-bitroom.json) |
 | Bits & Bops | 202135 | [202135-bits-and-bops.json](./202135-bits-and-bops.json) |
+| Bits and Pieces | 245102 | [245102-bits-and-pieces.json](./245102-bits-and-pieces.json) |
 | Bits and Pieces | 277078 | [277078-bits-and-pieces.json](./277078-bits-and-pieces.json) |
 | Bits at Work | 338242 | [338242-bits-at-work.json](./338242-bits-at-work.json) |
 | Bits on the Fritz | 96782 | [96782-bits-on-the-fritz.json](./96782-bits-on-the-fritz.json) |
@@ -13295,6 +13298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boson X | 7730 | [7730-boson-x.json](./7730-boson-x.json) |
 | Bosorka | 223445 | [223445-bosorka.json](./223445-bosorka.json) |
 | Bosquet | 335387 | [335387-bosquet.json](./335387-bosquet.json) |
+| Boss | 245105 | [245105-boss.json](./245105-boss.json) |
 | Boss 101 | 34959 | [34959-boss-101.json](./34959-boss-101.json) |
 | Boss 101 with S.T.E.V.E. and Max | 59844 | [59844-boss-101-with-s-t-e-v-e-and-max.json](./59844-boss-101-with-s-t-e-v-e-and-max.json) |
 | Boss Barrage | 110986 | [110986-boss-barrage.json](./110986-boss-barrage.json) |
@@ -16230,6 +16234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Frog DX | 339711 | [339711-bubble-frog-dx.json](./339711-bubble-frog-dx.json) |
 | Bubble Ghost | 7802 | [7802-bubble-ghost.json](./7802-bubble-ghost.json) |
 | Bubble Ghost Remake | 250892 | [250892-bubble-ghost-remake.json](./250892-bubble-ghost-remake.json) |
+| Bubble Gum Rosie | 245082 | [245082-bubble-gum-rosie.json](./245082-bubble-gum-rosie.json) |
 | Bubble Gun 3D | 150690 | [150690-bubble-gun-3d.json](./150690-bubble-gun-3d.json) |
 | Bubble Guppies | 230336 | [230336-bubble-guppies.json](./230336-bubble-guppies.json) |
 | Bubble Guppies | 230344 | [230344-bubble-guppies.json](./230344-bubble-guppies.json) |
