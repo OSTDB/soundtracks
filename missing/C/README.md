@@ -3009,6 +3009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cars 2 | 230555 | [230555-cars-2.json](./230555-cars-2.json) |
 | Cars 2 Racing Beena: Mezase! World Champion! | 125323 | [125323-cars-2-racing-beena-mezase-world-champion.json](./125323-cars-2-racing-beena-mezase-world-champion.json) |
 | Cars 3: Driven to Win | 28075 | [28075-cars-3-driven-to-win.json](./28075-cars-3-driven-to-win.json) |
+| Cars and Guns 3D | 212415 | [212415-cars-and-guns-3d.json](./212415-cars-and-guns-3d.json) |
 | Cars and Trucks: preschool toddler learning games, learn shapes & colors | 90140 | [90140-cars-and-trucks-preschool-toddler-learning-games-learn-shapes-and-colors.json](./90140-cars-and-trucks-preschool-toddler-learning-games-learn-shapes-and-colors.json) |
 | Cars Arena | 111374 | [111374-cars-arena.json](./111374-cars-arena.json) |
 | Cars Mater-National Championship | 281853 | [281853-cars-mater-national-championship.json](./281853-cars-mater-national-championship.json) |
@@ -3035,6 +3036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carsteroids | 87760 | [87760-carsteroids.json](./87760-carsteroids.json) |
 | Cart by Cart | 406723 | [406723-cart-by-cart.json](./406723-cart-by-cart.json) |
 | Cart Capers | 335393 | [335393-cart-capers.json](./335393-cart-capers.json) |
+| Cart Crash | 212530 | [212530-cart-crash.json](./212530-cart-crash.json) |
 | Cart Crawlers | 184637 | [184637-cart-crawlers.json](./184637-cart-crawlers.json) |
 | Cart Farmer | 177743 | [177743-cart-farmer.json](./177743-cart-farmer.json) |
 | Cart Fury | 43275 | [43275-cart-fury.json](./43275-cart-fury.json) |
@@ -4731,6 +4733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cattlieb | 349851 | [349851-cattlieb.json](./349851-cattlieb.json) |
 | Catto Boi Forever | 398086 | [398086-catto-boi-forever.json](./398086-catto-boi-forever.json) |
 | Catto Chateau | 366387 | [366387-catto-chateau.json](./366387-catto-chateau.json) |
+| Catto Pew Pew! | 212527 | [212527-catto-pew-pew.json](./212527-catto-pew-pew.json) |
 | Catto Pew Pew! | 374320 | [374320-catto-pew-pew.json](./374320-catto-pew-pew.json) |
 | Catto's Post Office | 304835 | [304835-cattos-post-office.json](./304835-cattos-post-office.json) |
 | Cattopia | 351421 | [351421-cattopia.json](./351421-cattopia.json) |
@@ -4883,6 +4886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Story's Secret Santa | 185317 | [185317-cave-storys-secret-santa.json](./185317-cave-storys-secret-santa.json) |
 | Cave Story+ | 8214 | [8214-cave-story.json](./8214-cave-story.json) |
 | Cave Swing | 242564 | [242564-cave-swing.json](./242564-cave-swing.json) |
+| Cave Traveler | 212531 | [212531-cave-traveler.json](./212531-cave-traveler.json) |
 | Cave Up | 334848 | [334848-cave-up.json](./334848-cave-up.json) |
 | Cave Walker | 73226 | [73226-cave-walker.json](./73226-cave-walker.json) |
 | Cave Wonders | 195032 | [195032-cave-wonders.json](./195032-cave-wonders.json) |
@@ -6831,6 +6835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Valley 2 | 152577 | [152577-chess-valley-2.json](./152577-chess-valley-2.json) |
 | Chess vs. Chat | 203930 | [203930-chess-vs-chat.json](./203930-chess-vs-chat.json) |
 | Chess vs. The Axis of Evil | 52494 | [52494-chess-vs-the-axis-of-evil.json](./52494-chess-vs-the-axis-of-evil.json) |
+| Chess War | 212558 | [212558-chess-war.json](./212558-chess-war.json) |
 | Chess With Friends | 79921 | [79921-chess-with-friends.json](./79921-chess-with-friends.json) |
 | Chess With Idiots | 371978 | [371978-chess-with-idiots.json](./371978-chess-with-idiots.json) |
 | Chess with Lasers | 159223 | [159223-chess-with-lasers.json](./159223-chess-with-lasers.json) |
@@ -9359,6 +9364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Skaters: Run Boy, Run Girl! | 147596 | [147596-city-skaters-run-boy-run-girl.json](./147596-city-skaters-run-boy-run-girl.json) |
 | City Slicker | 12985 | [12985-city-slicker.json](./12985-city-slicker.json) |
 | City Slickers | 250647 | [250647-city-slickers.json](./250647-city-slickers.json) |
+| City Smash | 212532 | [212532-city-smash.json](./212532-city-smash.json) |
 | City Smasher | 196542 | [196542-city-smasher.json](./196542-city-smasher.json) |
 | City Sniper | 151007 | [151007-city-sniper.json](./151007-city-sniper.json) |
 | City Soarers | 183762 | [183762-city-soarers.json](./183762-city-soarers.json) |
@@ -9375,6 +9381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Takeover: Gentle Animals | 309086 | [309086-city-takeover-gentle-animals.json](./309086-city-takeover-gentle-animals.json) |
 | City Takeover: Wild Edition | 364096 | [364096-city-takeover-wild-edition.json](./364096-city-takeover-wild-edition.json) |
 | City Tales: Medieval Era | 324584 | [324584-city-tales-medieval-era.json](./324584-city-tales-medieval-era.json) |
+| City Taxi Driver | 212562 | [212562-city-taxi-driver.json](./212562-city-taxi-driver.json) |
 | City Trader | 94368 | [94368-city-trader.json](./94368-city-trader.json) |
 | City Traffic Car Driving Parking Career Simulator | 86958 | [86958-city-traffic-car-driving-parking-career-simulator.json](./86958-city-traffic-car-driving-parking-career-simulator.json) |
 | City Traffic Driver 2 | 215311 | [215311-city-traffic-driver-2.json](./215311-city-traffic-driver-2.json) |
@@ -12684,6 +12691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comet Force | 324877 | [324877-comet-force.json](./324877-comet-force.json) |
 | Comet Golf | 129738 | [129738-comet-golf.json](./129738-comet-golf.json) |
 | Comet Moon: The Journey Begins | 339845 | [339845-comet-moon-the-journey-begins.json](./339845-comet-moon-the-journey-begins.json) |
+| Comet Racer | 212418 | [212418-comet-racer.json](./212418-comet-racer.json) |
 | Comet Rogue | 323487 | [323487-comet-rogue.json](./323487-comet-rogue.json) |
 | Comet Summoner | 131942 | [131942-comet-summoner.json](./131942-comet-summoner.json) |
 | Comet Summoner Time Trial Version | 253759 | [253759-comet-summoner-time-trial-version.json](./253759-comet-summoner-time-trial-version.json) |
@@ -14318,6 +14326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking: Viva la Pizza! | 362380 | [362380-cooking-viva-la-pizza.json](./362380-cooking-viva-la-pizza.json) |
 | Cooking! Recipes on the Road | 230712 | [230712-cooking-recipes-on-the-road.json](./230712-cooking-recipes-on-the-road.json) |
 | Cookingdom | 420771 | [420771-cookingdom.json](./420771-cookingdom.json) |
+| CookingMemo | 212417 | [212417-cookingmemo.json](./212417-cookingmemo.json) |
 | Cookingo | 403623 | [403623-cookingo.json](./403623-cookingo.json) |
 | Cooks Girls | 367835 | [367835-cooks-girls.json](./367835-cooks-girls.json) |
 | Cookthulhu | 303427 | [303427-cookthulhu.json](./303427-cookthulhu.json) |
