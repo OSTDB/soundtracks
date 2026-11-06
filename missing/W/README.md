@@ -2093,6 +2093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarShip HD | 205010 | [205010-warship-hd.json](./205010-warship-hd.json) |
 | Warship Jolly Roger | 282250 | [282250-warship-jolly-roger.json](./282250-warship-jolly-roger.json) |
 | Warship Legend | 227813 | [227813-warship-legend.json](./227813-warship-legend.json) |
+| Warship Solitaire | 219896 | [219896-warship-solitaire.json](./219896-warship-solitaire.json) |
 | Warship Survival | 337743 | [337743-warship-survival.json](./337743-warship-survival.json) |
 | WarShip War Navy Fleet Combat | 255043 | [255043-warship-war-navy-fleet-combat.json](./255043-warship-war-navy-fleet-combat.json) |
 | Warship World War | 227731 | [227731-warship-world-war.json](./227731-warship-world-war.json) |
