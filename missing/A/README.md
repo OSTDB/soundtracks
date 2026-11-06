@@ -3464,6 +3464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure 3 | 305193 | [305193-adventure-3.json](./305193-adventure-3.json) |
 | Adventure 3: Mission Impossible | 41189 | [41189-adventure-3-mission-impossible.json](./41189-adventure-3-mission-impossible.json) |
 | Adventure 4: Wizards Academy | 52363 | [52363-adventure-4-wizards-academy.json](./52363-adventure-4-wizards-academy.json) |
+| Adventure Academia: The Fractured Continent | 203499 | [203499-adventure-academia-the-fractured-continent.json](./203499-adventure-academia-the-fractured-continent.json) |
 | Adventure Academia: The Fractured Continent - Additional Content Vol.1 Bundle | 231213 | [231213-adventure-academia-the-fractured-continent-additional-content-vol-1-bundle.json](./231213-adventure-academia-the-fractured-continent-additional-content-vol-1-bundle.json) |
 | Adventure Academia: The Fractured Continent - Additional Content Vol.2 Bundle | 231214 | [231214-adventure-academia-the-fractured-continent-additional-content-vol-2-bundle.json](./231214-adventure-academia-the-fractured-continent-additional-content-vol-2-bundle.json) |
 | Adventure Academia: The Fractured Continent - Additional Content Vol.3 Bundle | 231215 | [231215-adventure-academia-the-fractured-continent-additional-content-vol-3-bundle.json](./231215-adventure-academia-the-fractured-continent-additional-content-vol-3-bundle.json) |
@@ -7971,6 +7972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alum | 28576 | [28576-alum.json](./28576-alum.json) |
 | Aluminium City | 395819 | [395819-aluminium-city.json](./395819-aluminium-city.json) |
 | Alumni | 199763 | [199763-alumni.json](./199763-alumni.json) |
+| Aluna Rift | 203511 | [203511-aluna-rift.json](./203511-aluna-rift.json) |
 | Alundra | 1175 | [1175-alundra.json](./1175-alundra.json) |
 | Alundra 2: A New Legend Begins | 1176 | [1176-alundra-2-a-new-legend-begins.json](./1176-alundra-2-a-new-legend-begins.json) |
 | Alurwe: Ein Spaziergang durch Alt-Urfahr West | 117423 | [117423-alurwe-ein-spaziergang-durch-alt-urfahr-west.json](./117423-alurwe-ein-spaziergang-durch-alt-urfahr-west.json) |
@@ -10977,6 +10979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ante | 148868 | [148868-ante.json](./148868-ante.json) |
 | Ante Bellum | 355999 | [355999-ante-bellum.json](./355999-ante-bellum.json) |
 | Ante Holic | 221027 | [221027-ante-holic.json](./221027-ante-holic.json) |
+| Ante Mortem | 203482 | [203482-ante-mortem.json](./203482-ante-mortem.json) |
 | Ante Mortem | 269461 | [269461-ante-mortem.json](./269461-ante-mortem.json) |
 | Ante Mortem | 401716 | [401716-ante-mortem.json](./401716-ante-mortem.json) |
 | Ante Up: Texas Hold'em | 84760 | [84760-ante-up-texas-holdem.json](./84760-ante-up-texas-holdem.json) |
@@ -12567,6 +12570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: The Ninja Warriors | 99486 | [99486-arcade-archives-the-ninja-warriors.json](./99486-arcade-archives-the-ninja-warriors.json) |
 | Arcade Archives: The Return of Ishtar | 218552 | [218552-arcade-archives-the-return-of-ishtar.json](./218552-arcade-archives-the-return-of-ishtar.json) |
 | Arcade Archives: The Tin Star | 147102 | [147102-arcade-archives-the-tin-star.json](./147102-arcade-archives-the-tin-star.json) |
+| Arcade Archives: The Tower of Druaga | 203496 | [203496-arcade-archives-the-tower-of-druaga.json](./203496-arcade-archives-the-tower-of-druaga.json) |
 | Arcade Archives: Thunder Ceptor | 207107 | [207107-arcade-archives-thunder-ceptor.json](./207107-arcade-archives-thunder-ceptor.json) |
 | Arcade Archives: Thunder Ceptor II | 242052 | [242052-arcade-archives-thunder-ceptor-ii.json](./242052-arcade-archives-thunder-ceptor-ii.json) |
 | Arcade Archives: Thunder Cross | 147101 | [147101-arcade-archives-thunder-cross.json](./147101-arcade-archives-thunder-cross.json) |
@@ -16615,6 +16619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
