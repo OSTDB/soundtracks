@@ -5189,6 +5189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekiro: Shadows Die Twice - Collector's Edition | 103282 | [103282-sekiro-shadows-die-twice-collectors-edition.json](./103282-sekiro-shadows-die-twice-collectors-edition.json) |
 | Sekiro: Shadows Die Twice - Game of the Year Edition | 164664 | [164664-sekiro-shadows-die-twice-game-of-the-year-edition.json](./164664-sekiro-shadows-die-twice-game-of-the-year-edition.json) |
 | Sekiro: Shadows Die Twice - Game of the Year Edition | 365281 | [365281-sekiro-shadows-die-twice-game-of-the-year-edition.json](./365281-sekiro-shadows-die-twice-game-of-the-year-edition.json) |
+| Sekisai Puzzle Action | 235553 | [235553-sekisai-puzzle-action.json](./235553-sekisai-puzzle-action.json) |
 | Sekka the Gleam | 355204 | [355204-sekka-the-gleam.json](./355204-sekka-the-gleam.json) |
 | Sekrets of the Dungeon | 149489 | [149489-sekrets-of-the-dungeon.json](./149489-sekrets-of-the-dungeon.json) |
 | Sektori | 217363 | [217363-sektori.json](./217363-sektori.json) |
@@ -19427,7 +19428,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -26992,6 +26992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stories to Tell: Greyville Stay | 327935 | [327935-stories-to-tell-greyville-stay.json](./327935-stories-to-tell-greyville-stay.json) |
 | Stories to Tell: Run Away | 290477 | [290477-stories-to-tell-run-away.json](./290477-stories-to-tell-run-away.json) |
 | Stories Untold | 27094 | [27094-stories-untold.json](./27094-stories-untold.json) |
+| Stories Want to Be Told Storyone: Prophecy | 235557 | [235557-stories-want-to-be-told-storyone-prophecy.json](./235557-stories-want-to-be-told-storyone-prophecy.json) |
 | Stories: The Path of Destinies | 12815 | [12815-stories-the-path-of-destinies.json](./12815-stories-the-path-of-destinies.json) |
 | Stories: The Path of Destinies - Collector's Edition | 53674 | [53674-stories-the-path-of-destinies-collectors-edition.json](./53674-stories-the-path-of-destinies-collectors-edition.json) |
 | Stories: The Path of Destinies & Omensight Bundle | 225949 | [225949-stories-the-path-of-destinies-and-omensight-bundle.json](./225949-stories-the-path-of-destinies-and-omensight-bundle.json) |
@@ -33942,6 +33943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive in Angaria | 90125 | [90125-survive-in-angaria.json](./90125-survive-in-angaria.json) |
 | Survive in Angaria TWO | 108337 | [108337-survive-in-angaria-two.json](./108337-survive-in-angaria-two.json) |
 | Survive In Ankara | 303938 | [303938-survive-in-ankara.json](./303938-survive-in-ankara.json) |
+| Survive in Moldova | 235563 | [235563-survive-in-moldova.json](./235563-survive-in-moldova.json) |
 | Survive In Russia | 129631 | [129631-survive-in-russia.json](./129631-survive-in-russia.json) |
 | Survive in Space | 32707 | [32707-survive-in-space.json](./32707-survive-in-space.json) |
 | Survive In Strange World | 288810 | [288810-survive-in-strange-world.json](./288810-survive-in-strange-world.json) |
