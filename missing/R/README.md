@@ -1122,6 +1122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Route: The Story of Jozic | 199127 | [199127-rail-route-the-story-of-jozic.json](./199127-rail-route-the-story-of-jozic.json) |
 | Rail Simulator | 10740 | [10740-rail-simulator.json](./10740-rail-simulator.json) |
 | Rail Theory | 28773 | [28773-rail-theory.json](./28773-rail-theory.json) |
+| Rail Trail | 199173 | [199173-rail-trail.json](./199173-rail-trail.json) |
 | Rail Walkers | 197174 | [197174-rail-walkers.json](./197174-rail-walkers.json) |
 | Rail Wars! | 86197 | [86197-rail-wars.json](./86197-rail-wars.json) |
 | Rail Wars! Karuizawa Yori Satsui wo Nosete | 11791 | [11791-rail-wars-karuizawa-yori-satsui-wo-nosete.json](./11791-rail-wars-karuizawa-yori-satsui-wo-nosete.json) |
@@ -5962,6 +5963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReTrime | 414466 | [414466-retrime.json](./414466-retrime.json) |
 | Retris | 258360 | [258360-retris.json](./258360-retris.json) |
 | Retro | 171479 | [171479-retro.json](./171479-retro.json) |
+| Retro 4 | 199155 | [199155-retro-4.json](./199155-retro-4.json) |
 | Retro Abyss | 221677 | [221677-retro-abyss.json](./221677-retro-abyss.json) |
 | Retro Adventure | 308399 | [308399-retro-adventure.json](./308399-retro-adventure.json) |
 | Retro Adventurer | 344232 | [344232-retro-adventurer.json](./344232-retro-adventurer.json) |
@@ -7728,6 +7730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ripcord | 95419 | [95419-ripcord.json](./95419-ripcord.json) |
 | Ripened Tingle's Balloon Trip of Love | 25840 | [25840-ripened-tingles-balloon-trip-of-love.json](./25840-ripened-tingles-balloon-trip-of-love.json) |
 | Ripgraze | 415096 | [415096-ripgraze.json](./415096-ripgraze.json) |
+| Ripit Hook | 199145 | [199145-ripit-hook.json](./199145-ripit-hook.json) |
 | Ripley Remembered | 355842 | [355842-ripley-remembered.json](./355842-ripley-remembered.json) |
 | Ripley's Believe It or Not!: The Riddle of Master Lu | 12472 | [12472-ripleys-believe-it-or-not-the-riddle-of-master-lu.json](./12472-ripleys-believe-it-or-not-the-riddle-of-master-lu.json) |
 | Ripout | 150433 | [150433-ripout.json](./150433-ripout.json) |
