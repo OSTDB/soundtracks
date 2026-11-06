@@ -8033,6 +8033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkside Detective: A Fumble in the Dark - Tales of the Darkside | 222968 | [222968-the-darkside-detective-a-fumble-in-the-dark-tales-of-the-darkside.json](./222968-the-darkside-detective-a-fumble-in-the-dark-tales-of-the-darkside.json) |
 | The Darkside Detective: Series Edition | 164793 | [164793-the-darkside-detective-series-edition.json](./164793-the-darkside-detective-series-edition.json) |
 | The Daruma Challenge | 331279 | [331279-the-daruma-challenge.json](./331279-the-daruma-challenge.json) |
+| The Dasshutsu Game: Kiken na 5-tsu no Misshitsu | 222040 | [222040-the-dasshutsu-game-kiken-na-5-tsu-no-misshitsu.json](./222040-the-dasshutsu-game-kiken-na-5-tsu-no-misshitsu.json) |
 | The Dating Game | 291930 | [291930-the-dating-game.json](./291930-the-dating-game.json) |
 | The Dating Game | 65534 | [65534-the-dating-game.json](./65534-the-dating-game.json) |
 | The Daughter | 380589 | [380589-the-daughter.json](./380589-the-daughter.json) |
@@ -13755,6 +13756,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Misfortunes of a Nekomimi Catgirl Sorceress | 82914 | [82914-the-misfortunes-of-a-nekomimi-catgirl-sorceress.json](./82914-the-misfortunes-of-a-nekomimi-catgirl-sorceress.json) |
 | The Mishka Effect | 393274 | [393274-the-mishka-effect.json](./393274-the-mishka-effect.json) |
 | The Misshitsu kara no Dasshutsu 2 | 125774 | [125774-the-misshitsu-kara-no-dasshutsu-2.json](./125774-the-misshitsu-kara-no-dasshutsu-2.json) |
+| The Misshitsu kara no Dasshutsu: Celeb na Goutei-hen | 222045 | [222045-the-misshitsu-kara-no-dasshutsu-celeb-na-goutei-hen.json](./222045-the-misshitsu-kara-no-dasshutsu-celeb-na-goutei-hen.json) |
+| The Misshitsu kara no Dasshutsu: Fushigi na Kumadonaru Burger-hen | 222043 | [222043-the-misshitsu-kara-no-dasshutsu-fushigi-na-kumadonaru-burger-hen.json](./222043-the-misshitsu-kara-no-dasshutsu-fushigi-na-kumadonaru-burger-hen.json) |
+| The Misshitsu kara no Dasshutsu: Gakkou no Kyuukousha-hen | 222044 | [222044-the-misshitsu-kara-no-dasshutsu-gakkou-no-kyuukousha-hen.json](./222044-the-misshitsu-kara-no-dasshutsu-gakkou-no-kyuukousha-hen.json) |
+| The Misshitsu kara no Dasshutsu: Nangoku no Resort-hen | 222046 | [222046-the-misshitsu-kara-no-dasshutsu-nangoku-no-resort-hen.json](./222046-the-misshitsu-kara-no-dasshutsu-nangoku-no-resort-hen.json) |
+| The Misshitsu kara no Dasshutsu: Terebi Kyoku Micchaku 24-Ji-hen | 222037 | [222037-the-misshitsu-kara-no-dasshutsu-terebi-kyoku-micchaku-24-ji-hen.json](./222037-the-misshitsu-kara-no-dasshutsu-terebi-kyoku-micchaku-24-ji-hen.json) |
 | The Misshitsu kara no Dasshutsu: The Suiri Bangai-hen | 125778 | [125778-the-misshitsu-kara-no-dasshutsu-the-suiri-bangai-hen.json](./125778-the-misshitsu-kara-no-dasshutsu-the-suiri-bangai-hen.json) |
 | The Misshitsu kara no Dasshutsu: Unmei wo Tsunagu 35 no Nazo | 147327 | [147327-the-misshitsu-kara-no-dasshutsu-unmei-wo-tsunagu-35-no-nazo.json](./147327-the-misshitsu-kara-no-dasshutsu-unmei-wo-tsunagu-35-no-nazo.json) |
 | The Missing Daughter | 315408 | [315408-the-missing-daughter.json](./315408-the-missing-daughter.json) |
@@ -14251,6 +14257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Noose | 264478 | [264478-the-noose.json](./264478-the-noose.json) |
 | The Normal Day | 38997 | [38997-the-normal-day.json](./38997-the-normal-day.json) |
 | The Normal Turnabout | 310410 | [310410-the-normal-turnabout.json](./310410-the-normal-turnabout.json) |
+| The Noroi no Haibyouin: Tojikomerareta Kao no Nai Shoujo | 222047 | [222047-the-noroi-no-haibyouin-tojikomerareta-kao-no-nai-shoujo.json](./222047-the-noroi-no-haibyouin-tojikomerareta-kao-no-nai-shoujo.json) |
 | The North | 299771 | [299771-the-north.json](./299771-the-north.json) |
 | The North King | 130630 | [130630-the-north-king.json](./130630-the-north-king.json) |
 | The North Pole | 127227 | [127227-the-north-pole.json](./127227-the-north-pole.json) |
@@ -17345,6 +17352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tavern Online. | 214767 | [214767-the-tavern-online.json](./214767-the-tavern-online.json) |
 | The Tavern Tales: Medieval Simulator | 326341 | [326341-the-tavern-tales-medieval-simulator.json](./326341-the-tavern-tales-medieval-simulator.json) |
 | The Tawashi | 128416 | [128416-the-tawashi.json](./128416-the-tawashi.json) |
+| The Taxi: Boku ha Charisma Untenshu | 222041 | [222041-the-taxi-boku-ha-charisma-untenshu.json](./222041-the-taxi-boku-ha-charisma-untenshu.json) |
 | The Teacher Is My Mistress | 97770 | [97770-the-teacher-is-my-mistress.json](./97770-the-teacher-is-my-mistress.json) |
 | The Team Shell Hack | 314213 | [314213-the-team-shell-hack.json](./314213-the-team-shell-hack.json) |
 | The Tear | 115005 | [115005-the-tear.json](./115005-the-tear.json) |
@@ -18268,6 +18276,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Useless App | 322815 | [322815-the-useless-app.json](./322815-the-useless-app.json) |
 | The Useless Wizard | 372027 | [372027-the-useless-wizard.json](./372027-the-useless-wizard.json) |
 | The Usurper: The Mines Of Qyntarr | 15516 | [15516-the-usurper-the-mines-of-qyntarr.json](./15516-the-usurper-the-mines-of-qyntarr.json) |
+| The Uwaki Kareshi: Christmas Chuushi no Oshirase | 222038 | [222038-the-uwaki-kareshi-christmas-chuushi-no-oshirase.json](./222038-the-uwaki-kareshi-christmas-chuushi-no-oshirase.json) |
+| The Uwaki Kareshi: Kaseifu ga Kenta Uwaki Genba | 222039 | [222039-the-uwaki-kareshi-kaseifu-ga-kenta-uwaki-genba.json](./222039-the-uwaki-kareshi-kaseifu-ga-kenta-uwaki-genba.json) |
+| The Uwaki Kareshi: Uwaki no Daishou | 222036 | [222036-the-uwaki-kareshi-uwaki-no-daishou.json](./222036-the-uwaki-kareshi-uwaki-no-daishou.json) |
 | The Uzujigoku Massacre | 321305 | [321305-the-uzujigoku-massacre.json](./321305-the-uzujigoku-massacre.json) |
 | The V Anomaly | 390539 | [390539-the-v-anomaly.json](./390539-the-v-anomaly.json) |
 | The Vagabond Emperor | 157459 | [157459-the-vagabond-emperor.json](./157459-the-vagabond-emperor.json) |
