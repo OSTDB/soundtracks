@@ -13753,6 +13753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arma 3 Creator DLC: Western Sahara | 254840 | [254840-arma-3-creator-dlc-western-sahara.json](./254840-arma-3-creator-dlc-western-sahara.json) |
 | Arma 3 Karts | 54786 | [54786-arma-3-karts.json](./54786-arma-3-karts.json) |
 | Arma 3: Apex | 19547 | [19547-arma-3-apex.json](./19547-arma-3-apex.json) |
+| Arma 3: Art of War Charity Pack | 224348 | [224348-arma-3-art-of-war-charity-pack.json](./224348-arma-3-art-of-war-charity-pack.json) |
 | Arma 3: Contact | 121163 | [121163-arma-3-contact.json](./121163-arma-3-contact.json) |
 | Arma 3: Creator DLC - CSLA Iron Curtain | 168912 | [168912-arma-3-creator-dlc-csla-iron-curtain.json](./168912-arma-3-creator-dlc-csla-iron-curtain.json) |
 | Arma 3: Creator DLC - Reaction Forces | 293467 | [293467-arma-3-creator-dlc-reaction-forces.json](./293467-arma-3-creator-dlc-reaction-forces.json) |
@@ -13965,6 +13966,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored War | 277327 | [277327-armored-war.json](./277327-armored-war.json) |
 | Armored Warfare | 15853 | [15853-armored-warfare.json](./15853-armored-warfare.json) |
 | Armored Warfare: Assault | 88988 | [88988-armored-warfare-assault.json](./88988-armored-warfare-assault.json) |
+| Armored Warfare: BMPT Standard Pack | 224349 | [224349-armored-warfare-bmpt-standard-pack.json](./224349-armored-warfare-bmpt-standard-pack.json) |
+| Armored Warfare: Falcon General Pack | 224350 | [224350-armored-warfare-falcon-general-pack.json](./224350-armored-warfare-falcon-general-pack.json) |
+| Armored Warfare: Free Globalization Pack | 224351 | [224351-armored-warfare-free-globalization-pack.json](./224351-armored-warfare-free-globalization-pack.json) |
+| Armored Warfare: K21 General Pack | 224352 | [224352-armored-warfare-k21-general-pack.json](./224352-armored-warfare-k21-general-pack.json) |
+| Armored Warfare: Revolution General Pack | 224353 | [224353-armored-warfare-revolution-general-pack.json](./224353-armored-warfare-revolution-general-pack.json) |
 | Armored Warriors | 13688 | [13688-armored-warriors.json](./13688-armored-warriors.json) |
 | Armored Xpress | 149836 | [149836-armored-xpress.json](./149836-armored-xpress.json) |
 | Armorik the Viking: The Eight Conquests | 69172 | [69172-armorik-the-viking-the-eight-conquests.json](./69172-armorik-the-viking-the-eight-conquests.json) |
@@ -14849,6 +14855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of the Night | 121079 | [121079-ashes-of-the-night.json](./121079-ashes-of-the-night.json) |
 | Ashes of the Past | 271090 | [271090-ashes-of-the-past.json](./271090-ashes-of-the-past.json) |
 | Ashes of the Singularity II | 359885 | [359885-ashes-of-the-singularity-ii.json](./359885-ashes-of-the-singularity-ii.json) |
+| Ashes of the Singularity: Escalation - Co-Op Map Pack | 224354 | [224354-ashes-of-the-singularity-escalation-co-op-map-pack.json](./224354-ashes-of-the-singularity-escalation-co-op-map-pack.json) |
 | Ashes of the Singularity: Escalation - Core Worlds | 186880 | [186880-ashes-of-the-singularity-escalation-core-worlds.json](./186880-ashes-of-the-singularity-escalation-core-worlds.json) |
 | Ashes of the Singularity: Escalation - Gauntlet | 124815 | [124815-ashes-of-the-singularity-escalation-gauntlet.json](./124815-ashes-of-the-singularity-escalation-gauntlet.json) |
 | Ashes of the Singularity: Escalation - Gauntlet | 170302 | [170302-ashes-of-the-singularity-escalation-gauntlet.json](./170302-ashes-of-the-singularity-escalation-gauntlet.json) |
@@ -15142,6 +15149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Odyssey: Those Who Are Treasured | 325330 | [325330-assassins-creed-odyssey-those-who-are-treasured.json](./325330-assassins-creed-odyssey-those-who-are-treasured.json) |
 | Assassin's Creed Online: Alliance | 64765 | [64765-assassins-creed-online-alliance.json](./64765-assassins-creed-online-alliance.json) |
 | Assassin's Creed Origins + Odyssey Double Pack | 134215 | [134215-assassins-creed-origins-odyssey-double-pack.json](./134215-assassins-creed-origins-odyssey-double-pack.json) |
+| Assassin's Creed Origins: Deluxe Pack | 224357 | [224357-assassins-creed-origins-deluxe-pack.json](./224357-assassins-creed-origins-deluxe-pack.json) |
 | Assassin's Creed Origins: Horus Pack | 399353 | [399353-assassins-creed-origins-horus-pack.json](./399353-assassins-creed-origins-horus-pack.json) |
 | Assassin's Creed Origins: Season Pass | 399351 | [399351-assassins-creed-origins-season-pass.json](./399351-assassins-creed-origins-season-pass.json) |
 | Assassin's Creed Origins: Secrets of the First Pyramids | 327770 | [327770-assassins-creed-origins-secrets-of-the-first-pyramids.json](./327770-assassins-creed-origins-secrets-of-the-first-pyramids.json) |
@@ -15203,6 +15211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Freedom Cry | 3775 | [3775-assassins-creed-freedom-cry.json](./3775-assassins-creed-freedom-cry.json) |
 | Assassin's Creed: Heritage Collection | 43015 | [43015-assassins-creed-heritage-collection.json](./43015-assassins-creed-heritage-collection.json) |
 | Assassin's Creed: Liberation HD | 20864 | [20864-assassins-creed-liberation-hd.json](./20864-assassins-creed-liberation-hd.json) |
+| Assassin's Creed: Liberation HD - Bonus Pack | 224356 | [224356-assassins-creed-liberation-hd-bonus-pack.json](./224356-assassins-creed-liberation-hd-bonus-pack.json) |
 | Assassin's Creed: Limited Edition | 118124 | [118124-assassins-creed-limited-edition.json](./118124-assassins-creed-limited-edition.json) |
 | Assassin's Creed: Lost Legacy | 78709 | [78709-assassins-creed-lost-legacy.json](./78709-assassins-creed-lost-legacy.json) |
 | Assassin's Creed: Memories | 64759 | [64759-assassins-creed-memories.json](./64759-assassins-creed-memories.json) |
