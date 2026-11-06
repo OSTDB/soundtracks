@@ -5299,6 +5299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Rend | 379862 | [379862-phantom-rend.json](./379862-phantom-rend.json) |
 | Phantom Rift | 174351 | [174351-phantom-rift.json](./174351-phantom-rift.json) |
 | Phantom Rose | 117605 | [117605-phantom-rose.json](./117605-phantom-rose.json) |
+| Phantom Rose 2 Sapphire | 238172 | [238172-phantom-rose-2-sapphire.json](./238172-phantom-rose-2-sapphire.json) |
 | Phantom Rose Scarlet | 144106 | [144106-phantom-rose-scarlet.json](./144106-phantom-rose-scarlet.json) |
 | Phantom Sense VR | 171994 | [171994-phantom-sense-vr.json](./171994-phantom-sense-vr.json) |
 | Phantom Shift | 307598 | [307598-phantom-shift.json](./307598-phantom-shift.json) |
@@ -10261,6 +10262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Mine 3 | 77666 | [77666-pocket-mine-3.json](./77666-pocket-mine-3.json) |
 | Pocket Mini Golf | 132027 | [132027-pocket-mini-golf.json](./132027-pocket-mini-golf.json) |
 | Pocket Mini Golf 2 | 224987 | [224987-pocket-mini-golf-2.json](./224987-pocket-mini-golf-2.json) |
+| Pocket Mini Golf: Fairway | 238264 | [238264-pocket-mini-golf-fairway.json](./238264-pocket-mini-golf-fairway.json) |
 | Pocket Mini Golf: Hole in one | 238029 | [238029-pocket-mini-golf-hole-in-one.json](./238029-pocket-mini-golf-hole-in-one.json) |
 | Pocket Mirror | 57894 | [57894-pocket-mirror.json](./57894-pocket-mirror.json) |
 | Pocket Mobsters | 63146 | [63146-pocket-mobsters.json](./63146-pocket-mobsters.json) |
