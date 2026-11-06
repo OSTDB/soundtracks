@@ -1304,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Breakout | 234166 | [234166-rainbow-breakout.json](./234166-rainbow-breakout.json) |
 | Rainbow Brite: Journey to Rainbow Land | 283799 | [283799-rainbow-brite-journey-to-rainbow-land.json](./283799-rainbow-brite-journey-to-rainbow-land.json) |
 | Rainbow Canyon 2 | 332878 | [332878-rainbow-canyon-2.json](./332878-rainbow-canyon-2.json) |
+| Rainbow Cave Raid | 214860 | [214860-rainbow-cave-raid.json](./214860-rainbow-cave-raid.json) |
 | Rainbow City | 184571 | [184571-rainbow-city.json](./184571-rainbow-city.json) |
 | Rainbow Cloud: A Gay RPG | 347978 | [347978-rainbow-cloud-a-gay-rpg.json](./347978-rainbow-cloud-a-gay-rpg.json) |
 | Rainbow Color by Number | 100799 | [100799-rainbow-color-by-number.json](./100799-rainbow-color-by-number.json) |
@@ -2986,6 +2987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Soccer 2 | 91833 | [91833-real-soccer-2.json](./91833-real-soccer-2.json) |
 | Real Soccer 2007 | 116347 | [116347-real-soccer-2007.json](./116347-real-soccer-2007.json) |
 | Real Soccer 2008 | 93920 | [93920-real-soccer-2008.json](./93920-real-soccer-2008.json) |
+| Real Soccer 2008 3D | 214825 | [214825-real-soccer-2008-3d.json](./214825-real-soccer-2008-3d.json) |
 | Real Soccer 2009 | 20126 | [20126-real-soccer-2009.json](./20126-real-soccer-2009.json) |
 | Real Soccer 2010 | 67151 | [67151-real-soccer-2010.json](./67151-real-soccer-2010.json) |
 | Real Soccer 2011 | 116348 | [116348-real-soccer-2011.json](./116348-real-soccer-2011.json) |
@@ -13125,5 +13127,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryuuo no Oshigoto!: Limited Edition | 167073 | [167073-ryuuo-no-oshigoto-limited-edition.json](./167073-ryuuo-no-oshigoto-limited-edition.json) |
 | Ryuusei no Rockman: Denpa Henkan! On Air! | 139348 | [139348-ryuusei-no-rockman-denpa-henkan-on-air.json](./139348-ryuusei-no-rockman-denpa-henkan-on-air.json) |
 | Ryuusei-gou ni Notte | 259311 | [259311-ryuusei-gou-ni-notte.json](./259311-ryuusei-gou-ni-notte.json) |
+| Ryuuteki Gosennen: Dragons of China | 214812 | [214812-ryuuteki-gosennen-dragons-of-china.json](./214812-ryuuteki-gosennen-dragons-of-china.json) |
 | Ryzy Nyil | 394292 | [394292-ryzy-nyil.json](./394292-ryzy-nyil.json) |
 | RZR | 340676 | [340676-rzr.json](./340676-rzr.json) |
