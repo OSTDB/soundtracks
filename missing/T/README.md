@@ -4537,6 +4537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terraria: The Stars Above | 223034 | [223034-terraria-the-stars-above.json](./223034-terraria-the-stars-above.json) |
 | TerrariaCraft | 300699 | [300699-terrariacraft.json](./300699-terrariacraft.json) |
 | Terrarium | 360876 | [360876-terrarium.json](./360876-terrarium.json) |
+| Terrarium Builder | 235032 | [235032-terrarium-builder.json](./235032-terrarium-builder.json) |
 | Terrarium: Garden Idle | 116433 | [116433-terrarium-garden-idle.json](./116433-terrarium-garden-idle.json) |
 | Terrarium.live | 405646 | [405646-terrarium-live.json](./405646-terrarium-live.json) |
 | Terrarium/Aquarium | 182685 | [182685-terrarium-aquarium.json](./182685-terrarium-aquarium.json) |
@@ -12728,6 +12729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lemonade | 258517 | [258517-the-lemonade.json](./258517-the-lemonade.json) |
 | The Lemonade Stand Game | 397104 | [397104-the-lemonade-stand-game.json](./397104-the-lemonade-stand-game.json) |
 | The Leopard Catgirl in Miaoli | 125703 | [125703-the-leopard-catgirl-in-miaoli.json](./125703-the-leopard-catgirl-in-miaoli.json) |
+| The Leopard: Animal Simulator | 235005 | [235005-the-leopard-animal-simulator.json](./235005-the-leopard-animal-simulator.json) |
 | The Lesser Evil | 176507 | [176507-the-lesser-evil.json](./176507-the-lesser-evil.json) |
 | The Lesser Known Cities of Europe | 142359 | [142359-the-lesser-known-cities-of-europe.json](./142359-the-lesser-known-cities-of-europe.json) |
 | The Letter | 33062 | [33062-the-letter.json](./33062-the-letter.json) |
@@ -14813,6 +14815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Planner: Farming | 53764 | [53764-the-planner-farming.json](./53764-the-planner-farming.json) |
 | The Plant | 105135 | [105135-the-plant.json](./105135-the-plant.json) |
 | The Plant Shop | 381089 | [381089-the-plant-shop.json](./381089-the-plant-shop.json) |
+| The Platformer | 235030 | [235030-the-platformer.json](./235030-the-platformer.json) |
 | The Platformer Gun | 97085 | [97085-the-platformer-gun.json](./97085-the-platformer-gun.json) |
 | The Platypus' Search | 103116 | [103116-the-platypus-search.json](./103116-the-platypus-search.json) |
 | The Play | 216574 | [216574-the-play.json](./216574-the-play.json) |
@@ -19504,6 +19507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Call Me... The Skul | 70093 | [70093-they-call-me-the-skul.json](./70093-they-call-me-the-skul.json) |
 | They Came for Blood | 410055 | [410055-they-came-for-blood.json](./410055-they-came-for-blood.json) |
 | They Came for More Pasta | 345979 | [345979-they-came-for-more-pasta.json](./345979-they-came-for-more-pasta.json) |
+| They came for Uranus | 235006 | [235006-they-came-for-uranus.json](./235006-they-came-for-uranus.json) |
 | They Came From a Communist Planet | 125294 | [125294-they-came-from-a-communist-planet.json](./125294-they-came-from-a-communist-planet.json) |
 | They Came from Another Planet | 241752 | [241752-they-came-from-another-planet.json](./241752-they-came-from-another-planet.json) |
 | They Came From Below | 190409 | [190409-they-came-from-below.json](./190409-they-came-from-below.json) |
@@ -29650,6 +29654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Trivia | 305901 | [305901-travel-trivia.json](./305901-travel-trivia.json) |
 | Travel VR | 74924 | [74924-travel-vr.json](./74924-travel-vr.json) |
 | Travel With Dinosaurs | 351710 | [351710-travel-with-dinosaurs.json](./351710-travel-with-dinosaurs.json) |
+| Travel Words: Adventure story | 235021 | [235021-travel-words-adventure-story.json](./235021-travel-words-adventure-story.json) |
 | Traveler | 146599 | [146599-traveler.json](./146599-traveler.json) |
 | Traveler | 231589 | [231589-traveler.json](./231589-traveler.json) |
 | Traveler | 238969 | [238969-traveler.json](./238969-traveler.json) |
