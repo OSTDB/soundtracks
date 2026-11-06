@@ -9833,6 +9833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anima Flux | 249480 | [249480-anima-flux.json](./249480-anima-flux.json) |
 | Anima Forest | 166847 | [166847-anima-forest.json](./166847-anima-forest.json) |
 | Anima Gate of Memories: I & II Remaster | 346952 | [346952-anima-gate-of-memories-i-and-ii-remaster.json](./346952-anima-gate-of-memories-i-and-ii-remaster.json) |
+| Anima Island | 210965 | [210965-anima-island.json](./210965-anima-island.json) |
 | Anima Keeper | 291355 | [291355-anima-keeper.json](./291355-anima-keeper.json) |
 | Anima Mundi | 350000 | [350000-anima-mundi.json](./350000-anima-mundi.json) |
 | Anima of Quantmix | 200731 | [200731-anima-of-quantmix.json](./200731-anima-of-quantmix.json) |
@@ -11119,6 +11120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antlers | 395635 | [395635-antlers.json](./395635-antlers.json) |
 | Antlion Soccer | 290348 | [290348-antlion-soccer.json](./290348-antlion-soccer.json) |
 | Antlions Everywhere | 268034 | [268034-antlions-everywhere.json](./268034-antlions-everywhere.json) |
+| Antman 2 | 210820 | [210820-antman-2.json](./210820-antman-2.json) |
 | AntMe! | 138000 | [138000-antme.json](./138000-antme.json) |
 | Anton: Conversion Reversion | 326116 | [326116-anton-conversion-reversion.json](./326116-anton-conversion-reversion.json) |
 | Anton's Balloon Play! | 326113 | [326113-antons-balloon-play.json](./326113-antons-balloon-play.json) |
@@ -11356,10 +11358,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apathy: Gakkou de Atta Kowai Hanashi - 1995 Tokubetsu-hen | 319434 | [319434-apathy-gakkou-de-atta-kowai-hanashi-1995-tokubetsu-hen.json](./319434-apathy-gakkou-de-atta-kowai-hanashi-1995-tokubetsu-hen.json) |
 | Apathy: Gakkou de Atta Kowai Hanashi - Himitsu | 212257 | [212257-apathy-gakkou-de-atta-kowai-hanashi-himitsu.json](./212257-apathy-gakkou-de-atta-kowai-hanashi-himitsu.json) |
 | Apathy: Gakkou de Atta Kowai Hanashi - Kiwame | 212259 | [212259-apathy-gakkou-de-atta-kowai-hanashi-kiwame.json](./212259-apathy-gakkou-de-atta-kowai-hanashi-kiwame.json) |
+| Apathy: Gakkou de Atta Kowai Hanashi - Shinsei | 210823 | [210823-apathy-gakkou-de-atta-kowai-hanashi-shinsei.json](./210823-apathy-gakkou-de-atta-kowai-hanashi-shinsei.json) |
 | Apathy: Gakkou de Atta Kowai Hanashi - Shinsei 2 | 212256 | [212256-apathy-gakkou-de-atta-kowai-hanashi-shinsei-2.json](./212256-apathy-gakkou-de-atta-kowai-hanashi-shinsei-2.json) |
+| Apathy: Gakkou de Atta Kowai Hanashi - Visual Novel Version | 210818 | [210818-apathy-gakkou-de-atta-kowai-hanashi-visual-novel-version.json](./210818-apathy-gakkou-de-atta-kowai-hanashi-visual-novel-version.json) |
 | Apathy: Gakkou de Atta Kowai Hanashi 2008 - Vol.1 | 210826 | [210826-apathy-gakkou-de-atta-kowai-hanashi-2008-vol-1.json](./210826-apathy-gakkou-de-atta-kowai-hanashi-2008-vol-1.json) |
 | Apathy: Inaba Hyakumantetsu in Narugami Gakuen Reikaiki | 260980 | [260980-apathy-inaba-hyakumantetsu-in-narugami-gakuen-reikaiki.json](./260980-apathy-inaba-hyakumantetsu-in-narugami-gakuen-reikaiki.json) |
 | Apathy: Midnight Collection - Vol. 1 | 150056 | [150056-apathy-midnight-collection-vol-1.json](./150056-apathy-midnight-collection-vol-1.json) |
+| Apathy: Midnight Collection - Vol. 2 | 210819 | [210819-apathy-midnight-collection-vol-2.json](./210819-apathy-midnight-collection-vol-2.json) |
 | Apathy: Napoli no Otoko-tachi in Gakkou de Atta Kowai Hanashi | 212260 | [212260-apathy-napoli-no-otoko-tachi-in-gakkou-de-atta-kowai-hanashi.json](./212260-apathy-napoli-no-otoko-tachi-in-gakkou-de-atta-kowai-hanashi.json) |
 | Apathy: Narugami Gakuen Nana Fushigi | 206171 | [206171-apathy-narugami-gakuen-nana-fushigi.json](./206171-apathy-narugami-gakuen-nana-fushigi.json) |
 | Apathy: Rental Kazoku | 212254 | [212254-apathy-rental-kazoku.json](./212254-apathy-rental-kazoku.json) |
@@ -13546,6 +13551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aria: Aqua Ritmo | 56291 | [56291-aria-aqua-ritmo.json](./56291-aria-aqua-ritmo.json) |
 | Aria: Genesis | 234530 | [234530-aria-genesis.json](./234530-aria-genesis.json) |
 | ARia's Legacy | 102795 | [102795-arias-legacy.json](./102795-arias-legacy.json) |
+| Aria's Melody | 210967 | [210967-arias-melody.json](./210967-arias-melody.json) |
 | Aria's Small Adventure! | 249345 | [249345-arias-small-adventure.json](./249345-arias-small-adventure.json) |
 | Aria's Story | 101405 | [101405-arias-story.json](./101405-arias-story.json) |
 | Aria's Wing | 97188 | [97188-arias-wing.json](./97188-arias-wing.json) |
