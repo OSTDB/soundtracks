@@ -1010,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Trek | 285458 | [285458-galaxy-trek.json](./285458-galaxy-trek.json) |
 | Galaxy Trek | 80258 | [80258-galaxy-trek.json](./80258-galaxy-trek.json) |
 | Galaxy Trucker | 60538 | [60538-galaxy-trucker.json](./60538-galaxy-trucker.json) |
+| Galaxy Trucker Pocket | 200218 | [200218-galaxy-trucker-pocket.json](./200218-galaxy-trucker-pocket.json) |
 | Galaxy Union | 35402 | [35402-galaxy-union.json](./35402-galaxy-union.json) |
 | Galaxy War | 171857 | [171857-galaxy-war.json](./171857-galaxy-war.json) |
 | Galaxy War | 287514 | [287514-galaxy-war.json](./287514-galaxy-war.json) |
@@ -1468,6 +1469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game.exe | 153144 | [153144-game-exe.json](./153144-game-exe.json) |
 | Game.exe 2: Phantom Strike | 390382 | [390382-game-exe-2-phantom-strike.json](./390382-game-exe-2-phantom-strike.json) |
 | Gamebesh | 275387 | [275387-gamebesh.json](./275387-gamebesh.json) |
+| Gamebook | 200252 | [200252-gamebook.json](./200252-gamebook.json) |
 | Gamebook Adventures 10: Lords of Nurroth | 175166 | [175166-gamebook-adventures-10-lords-of-nurroth.json](./175166-gamebook-adventures-10-lords-of-nurroth.json) |
 | Gamebook Adventures 2: The Siege of the Necromancer | 64762 | [64762-gamebook-adventures-2-the-siege-of-the-necromancer.json](./64762-gamebook-adventures-2-the-siege-of-the-necromancer.json) |
 | Gamebook Adventures 3: Slaves of Rema | 64767 | [64767-gamebook-adventures-3-slaves-of-rema.json](./64767-gamebook-adventures-3-slaves-of-rema.json) |
@@ -9352,6 +9354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Potions | 272759 | [272759-grim-potions.json](./272759-grim-potions.json) |
 | Grim Prix | 266756 | [266756-grim-prix.json](./266756-grim-prix.json) |
 | Grim Quest | 195269 | [195269-grim-quest.json](./195269-grim-quest.json) |
+| Grim Quest: Origins | 200238 | [200238-grim-quest-origins.json](./200238-grim-quest-origins.json) |
 | Grim Realms | 164203 | [164203-grim-realms.json](./164203-grim-realms.json) |
 | Grim Reaper RPG | 134617 | [134617-grim-reaper-rpg.json](./134617-grim-reaper-rpg.json) |
 | Grim Repair | 176986 | [176986-grim-repair.json](./176986-grim-repair.json) |
