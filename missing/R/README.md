@@ -11089,6 +11089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rory Relay | 95769 | [95769-rory-relay.json](./95769-rory-relay.json) |
 | Rory's Restaurant: Origins | 188416 | [188416-rorys-restaurant-origins.json](./188416-rorys-restaurant-origins.json) |
 | Rory's Restaurant: Winter Rush | 190001 | [190001-rorys-restaurant-winter-rush.json](./190001-rorys-restaurant-winter-rush.json) |
+| Rorys Restaurant Deluxe | 195322 | [195322-rorys-restaurant-deluxe.json](./195322-rorys-restaurant-deluxe.json) |
 | Ros | 101631 | [101631-ros.json](./101631-ros.json) |
 | Rosa + Juliet | 382822 | [382822-rosa-juliet.json](./382822-rosa-juliet.json) |
 | Rosa Inferna | 398132 | [398132-rosa-inferna.json](./398132-rosa-inferna.json) |
