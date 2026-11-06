@@ -1401,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Web 3 | 108642 | [108642-rainbow-web-3.json](./108642-rainbow-web-3.json) |
 | Rainbow Witch | 250263 | [250263-rainbow-witch.json](./250263-rainbow-witch.json) |
 | Rainbow Yggdrasil | 188255 | [188255-rainbow-yggdrasil.json](./188255-rainbow-yggdrasil.json) |
+| Rainbowcore Hypernova | 244058 | [244058-rainbowcore-hypernova.json](./244058-rainbowcore-hypernova.json) |
 | Rainbows, Toilets & Unicorns | 131975 | [131975-rainbows-toilets-and-unicorns.json](./131975-rainbows-toilets-and-unicorns.json) |
 | Rainbows, Toilets & Unicorns: Entertainment Corp. | 171607 | [171607-rainbows-toilets-and-unicorns-entertainment-corp.json](./171607-rainbows-toilets-and-unicorns-entertainment-corp.json) |
 | Rainbows, Toilets & Unicorns: Influencerama | 171407 | [171407-rainbows-toilets-and-unicorns-influencerama.json](./171407-rainbows-toilets-and-unicorns-influencerama.json) |
@@ -5711,6 +5712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resourceful.World | 265544 | [265544-resourceful-world.json](./265544-resourceful-world.json) |
 | Resourcer | 245945 | [245945-resourcer.json](./245945-resourcer.json) |
 | ReSpaced | 332174 | [332174-respaced.json](./332174-respaced.json) |
+| Respark | 244053 | [244053-respark.json](./244053-respark.json) |
 | Respawn | 203851 | [203851-respawn.json](./203851-respawn.json) |
 | Respawn | 246796 | [246796-respawn.json](./246796-respawn.json) |
 | Respawn Kingdom: Team Shooter | 216057 | [216057-respawn-kingdom-team-shooter.json](./216057-respawn-kingdom-team-shooter.json) |
@@ -10174,6 +10176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolan's Quest | 56854 | [56854-rolans-quest.json](./56854-rolans-quest.json) |
 | Roland Ahoy! | 39147 | [39147-roland-ahoy.json](./39147-roland-ahoy.json) |
 | Roland Garros French Open 2000 | 94379 | [94379-roland-garros-french-open-2000.json](./94379-roland-garros-french-open-2000.json) |
+| Roland Garros French Open 2002 | 244012 | [244012-roland-garros-french-open-2002.json](./244012-roland-garros-french-open-2002.json) |
 | Roland Garros Paris 2005: Powered by Smash Court Tennis | 383415 | [383415-roland-garros-paris-2005-powered-by-smash-court-tennis.json](./383415-roland-garros-paris-2005-powered-by-smash-court-tennis.json) |
 | Roland garros tennis 2000 | 19155 | [19155-roland-garros-tennis-2000.json](./19155-roland-garros-tennis-2000.json) |
 | Roland Garros: French Open 2001 | 136617 | [136617-roland-garros-french-open-2001.json](./136617-roland-garros-french-open-2001.json) |
@@ -12334,6 +12337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Caster | 75149 | [75149-rune-caster.json](./75149-rune-caster.json) |
 | Rune Caves: Eternal Echo | 422469 | [422469-rune-caves-eternal-echo.json](./422469-rune-caves-eternal-echo.json) |
 | Rune Classic | 102113 | [102113-rune-classic.json](./102113-rune-classic.json) |
+| Rune Coliseum | 244013 | [244013-rune-coliseum.json](./244013-rune-coliseum.json) |
 | Rune Coliseum: Chained Warrior | 258351 | [258351-rune-coliseum-chained-warrior.json](./258351-rune-coliseum-chained-warrior.json) |
 | Rune Crystal: Adventure | 387470 | [387470-rune-crystal-adventure.json](./387470-rune-crystal-adventure.json) |
 | Rune Defender | 296676 | [296676-rune-defender.json](./296676-rune-defender.json) |
