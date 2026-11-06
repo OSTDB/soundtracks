@@ -810,6 +810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest 64 | 3580 | [3580-quest-64.json](./3580-quest-64.json) |
 | Quest 64 "French Vanilla" | 248305 | [248305-quest-64-french-vanilla.json](./248305-quest-64-french-vanilla.json) |
 | Quest 64: Hard Mode | 214948 | [214948-quest-64-hard-mode.json](./214948-quest-64-hard-mode.json) |
+| Quest Action 3D | 231139 | [231139-quest-action-3d.json](./231139-quest-action-3d.json) |
 | Quest Adventure | 133444 | [133444-quest-adventure.json](./133444-quest-adventure.json) |
 | Quest and Arena | 298521 | [298521-quest-and-arena.json](./298521-quest-and-arena.json) |
 | Quest Arrest | 141615 | [141615-quest-arrest.json](./141615-quest-arrest.json) |
