@@ -588,6 +588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hero's Guide to Gardening | 183410 | [183410-a-heros-guide-to-gardening.json](./183410-a-heros-guide-to-gardening.json) |
 | A Hero's Legacy | 270523 | [270523-a-heros-legacy.json](./270523-a-heros-legacy.json) |
 | A Hero's Quest pt1 | 213430 | [213430-a-heros-quest-pt1.json](./213430-a-heros-quest-pt1.json) |
+| A Hero's Rest: An RPG Town Simulator | 206356 | [206356-a-heros-rest-an-rpg-town-simulator.json](./206356-a-heros-rest-an-rpg-town-simulator.json) |
 | A Hero's wish | 215460 | [215460-a-heros-wish.json](./215460-a-heros-wish.json) |
 | A Heroine Story | 249856 | [249856-a-heroine-story.json](./249856-a-heroine-story.json) |
 | A Hexagon's Adventures | 184446 | [184446-a-hexagons-adventures.json](./184446-a-hexagons-adventures.json) |
@@ -5838,6 +5839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akapulka: The Rainbow | 201666 | [201666-akapulka-the-rainbow.json](./201666-akapulka-the-rainbow.json) |
 | Akari and the Abyss | 246013 | [246013-akari-and-the-abyss.json](./246013-akari-and-the-abyss.json) |
 | Akari by Nikoli | 84869 | [84869-akari-by-nikoli.json](./84869-akari-by-nikoli.json) |
+| Akari no Ouji to Kageri no Tou | 206393 | [206393-akari-no-ouji-to-kageri-no-tou.json](./206393-akari-no-ouji-to-kageri-no-tou.json) |
 | Akari: School Trip | 233654 | [233654-akari-school-trip.json](./233654-akari-school-trip.json) |
 | Akari: The Five Eyed Fox | 211026 | [211026-akari-the-five-eyed-fox.json](./211026-akari-the-five-eyed-fox.json) |
 | Akasen Gairo: Shouwa 33 Nen no Hatsuyuki | 153663 | [153663-akasen-gairo-shouwa-33-nen-no-hatsuyuki.json](./153663-akasen-gairo-shouwa-33-nen-no-hatsuyuki.json) |
