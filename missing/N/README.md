@@ -4484,6 +4484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nighthold | 324568 | [324568-nighthold.json](./324568-nighthold.json) |
 | Nighthold: Number 1 | 383985 | [383985-nighthold-number-1.json](./383985-nighthold-number-1.json) |
 | NightHover | 250835 | [250835-nighthover.json](./250835-nighthover.json) |
+| Nighthunt | 204635 | [204635-nighthunt.json](./204635-nighthunt.json) |
 | Nightin Cage | 351701 | [351701-nightin-cage.json](./351701-nightin-cage.json) |
 | Nightingale Downs | 74112 | [74112-nightingale-downs.json](./74112-nightingale-downs.json) |
 | Nightingale: Birth of the Alliance | 194990 | [194990-nightingale-birth-of-the-alliance.json](./194990-nightingale-birth-of-the-alliance.json) |
@@ -6620,6 +6621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norimono Banzai!!: Densha Daishuugou!! | 63956 | [63956-norimono-banzai-densha-daishuugou.json](./63956-norimono-banzai-densha-daishuugou.json) |
 | Norimono Banzai!!: Kuruma Daishuugou!! | 63957 | [63957-norimono-banzai-kuruma-daishuugou.json](./63957-norimono-banzai-kuruma-daishuugou.json) |
 | Norinori Rilakkuma Hit Song Ongaku | 279145 | [279145-norinori-rilakkuma-hit-song-ongaku.json](./279145-norinori-rilakkuma-hit-song-ongaku.json) |
+| Norland | 204646 | [204646-norland.json](./204646-norland.json) |
 | Norm Aethos Real | 325923 | [325923-norm-aethos-real.json](./325923-norm-aethos-real.json) |
 | Norm Koger's: The Operational Art of War III | 69928 | [69928-norm-kogers-the-operational-art-of-war-iii.json](./69928-norm-kogers-the-operational-art-of-war-iii.json) |
 | Norm of the North: Arctic Dash | 307971 | [307971-norm-of-the-north-arctic-dash.json](./307971-norm-of-the-north-arctic-dash.json) |
