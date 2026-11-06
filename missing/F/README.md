@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fables of the Kingdom III: Collector's Edition | 337251 | [337251-fables-of-the-kingdom-iii-collectors-edition.json](./337251-fables-of-the-kingdom-iii-collectors-edition.json) |
 | Fables of the Kingdom V: Collector's Edition | 337250 | [337250-fables-of-the-kingdom-v-collectors-edition.json](./337250-fables-of-the-kingdom-v-collectors-edition.json) |
 | Fablewood Chronicles | 413112 | [413112-fablewood-chronicles.json](./413112-fablewood-chronicles.json) |
+| Fabraz Presents Vol. 1 | 241719 | [241719-fabraz-presents-vol-1.json](./241719-fabraz-presents-vol-1.json) |
 | Fabric of Reality | 219767 | [219767-fabric-of-reality.json](./219767-fabric-of-reality.json) |
 | Fabrika Mortis | 313373 | [313373-fabrika-mortis.json](./313373-fabrika-mortis.json) |
 | FabStyle | 185897 | [185897-fabstyle.json](./185897-fabstyle.json) |
@@ -6879,6 +6880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's Franchise Bundle | 241461 | [241461-five-nights-at-freddys-franchise-bundle.json](./241461-five-nights-at-freddys-franchise-bundle.json) |
 | Five Nights at Freddy's Gameboy | 305749 | [305749-five-nights-at-freddys-gameboy.json](./305749-five-nights-at-freddys-gameboy.json) |
 | Five Nights At Freddy's Pixel Edition | 338143 | [338143-five-nights-at-freddys-pixel-edition.json](./338143-five-nights-at-freddys-pixel-edition.json) |
+| Five Nights at Freddy's Remake | 241732 | [241732-five-nights-at-freddys-remake.json](./241732-five-nights-at-freddys-remake.json) |
 | Five Nights at Freddy's Simulator | 263637 | [263637-five-nights-at-freddys-simulator.json](./263637-five-nights-at-freddys-simulator.json) |
 | Five Nights at Freddy's Soulless Look | 383375 | [383375-five-nights-at-freddys-soulless-look.json](./383375-five-nights-at-freddys-soulless-look.json) |
 | Five Nights at Freddy's Stars | 323074 | [323074-five-nights-at-freddys-stars.json](./323074-five-nights-at-freddys-stars.json) |
