@@ -3403,6 +3403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faylinn's Quest | 173840 | [173840-faylinns-quest.json](./173840-faylinns-quest.json) |
 | Fayrehaven | 340066 | [340066-fayrehaven.json](./340066-fayrehaven.json) |
 | Faz-Karts | 382962 | [382962-faz-karts.json](./382962-faz-karts.json) |
+| Fazbear Armageddon | 217612 | [217612-fazbear-armageddon.json](./217612-fazbear-armageddon.json) |
 | Fazbear Entertainment: Storage | 233963 | [233963-fazbear-entertainment-storage.json](./233963-fazbear-entertainment-storage.json) |
 | Fazbear Fright Attraction | 271054 | [271054-fazbear-fright-attraction.json](./271054-fazbear-fright-attraction.json) |
 | Fazbear in After | 321103 | [321103-fazbear-in-after.json](./321103-fazbear-in-after.json) |
@@ -5749,6 +5750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem Echoes: Shadows of Valentia | 26840 | [26840-fire-emblem-echoes-shadows-of-valentia.json](./26840-fire-emblem-echoes-shadows-of-valentia.json) |
 | Fire Emblem Echoes: Shadows of Valentia - Limited Edition | 136336 | [136336-fire-emblem-echoes-shadows-of-valentia-limited-edition.json](./136336-fire-emblem-echoes-shadows-of-valentia-limited-edition.json) |
 | Fire Emblem Engage Bundle | 278003 | [278003-fire-emblem-engage-bundle.json](./278003-fire-emblem-engage-bundle.json) |
+| Fire Emblem Engage: Divine Edition | 217629 | [217629-fire-emblem-engage-divine-edition.json](./217629-fire-emblem-engage-divine-edition.json) |
 | Fire Emblem Engage: Fell Xenologue | 246450 | [246450-fire-emblem-engage-fell-xenologue.json](./246450-fire-emblem-engage-fell-xenologue.json) |
 | Fire Emblem Fates: Anna on the Run | 229859 | [229859-fire-emblem-fates-anna-on-the-run.json](./229859-fire-emblem-fates-anna-on-the-run.json) |
 | Fire Emblem Fates: Before Awakening | 345241 | [345241-fire-emblem-fates-before-awakening.json](./345241-fire-emblem-fates-before-awakening.json) |
