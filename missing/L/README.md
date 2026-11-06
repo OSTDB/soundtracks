@@ -3739,6 +3739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Paint | 51031 | [51031-lets-paint.json](./51031-lets-paint.json) |
 | Let's Paint Toast | 352324 | [352324-lets-paint-toast.json](./352324-lets-paint-toast.json) |
 | Let's Park: Backyard Edition | 214185 | [214185-lets-park-backyard-edition.json](./214185-lets-park-backyard-edition.json) |
+| Let's Pet Pets | 231694 | [231694-lets-pet-pets.json](./231694-lets-pet-pets.json) |
 | Let's Pilates | 123346 | [123346-lets-pilates.json](./123346-lets-pilates.json) |
 | Let's Play Ballerina | 51068 | [51068-lets-play-ballerina.json](./51068-lets-play-ballerina.json) |
 | Let's Play Cards Baccarat | 340915 | [340915-lets-play-cards-baccarat.json](./340915-lets-play-cards-baccarat.json) |
@@ -6224,6 +6225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Witch in the Woods | 130577 | [130577-little-witch-in-the-woods.json](./130577-little-witch-in-the-woods.json) |
 | Little Witch Luana | 126647 | [126647-little-witch-luana.json](./126647-little-witch-luana.json) |
 | Little Witch Nobeta | 116781 | [116781-little-witch-nobeta.json](./116781-little-witch-nobeta.json) |
+| Little Witch Nobeta: Bunny and Bear Kigu Skin Bundle | 231674 | [231674-little-witch-nobeta-bunny-and-bear-kigu-skin-bundle.json](./231674-little-witch-nobeta-bunny-and-bear-kigu-skin-bundle.json) |
 | Little Witch Nobeta: Limited Edition | 205259 | [205259-little-witch-nobeta-limited-edition.json](./205259-little-witch-nobeta-limited-edition.json) |
 | Little Witch Parfait: Kuronekojirushi no Mahouya-san | 124645 | [124645-little-witch-parfait-kuronekojirushi-no-mahouya-san.json](./124645-little-witch-parfait-kuronekojirushi-no-mahouya-san.json) |
 | Little Witch Reinette: Swan no Namida Rhapsody | 124646 | [124646-little-witch-reinette-swan-no-namida-rhapsody.json](./124646-little-witch-reinette-swan-no-namida-rhapsody.json) |
@@ -8733,6 +8735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Pheromone | 205609 | [205609-love-pheromone.json](./205609-love-pheromone.json) |
 | Love Poem Written For a Fairy | 276575 | [276575-love-poem-written-for-a-fairy.json](./276575-love-poem-written-for-a-fairy.json) |
 | Love Potion | 272364 | [272364-love-potion.json](./272364-love-potion.json) |
+| Love Quest | 231678 | [231678-love-quest.json](./231678-love-quest.json) |
 | Love Quest | 37940 | [37940-love-quest.json](./37940-love-quest.json) |
 | Love Quest VR: Los Angeles | 369544 | [369544-love-quest-vr-los-angeles.json](./369544-love-quest-vr-los-angeles.json) |
 | Love Quest: Los Angeles | 303637 | [303637-love-quest-los-angeles.json](./303637-love-quest-los-angeles.json) |
@@ -9451,6 +9454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Requiem | 319091 | [319091-luigis-requiem.json](./319091-luigis-requiem.json) |
 | Luigi's Revenge Interactive | 370091 | [370091-luigis-revenge-interactive.json](./370091-luigis-revenge-interactive.json) |
 | Luigi's Spookful Quest | 313427 | [313427-luigis-spookful-quest.json](./313427-luigis-spookful-quest.json) |
+| Luigi's Word Jumble | 231661 | [231661-luigis-word-jumble.json](./231661-luigis-word-jumble.json) |
 | Luippy | 230957 | [230957-luippy.json](./230957-luippy.json) |
 | Luise and Secret Basement Rooms | 157705 | [157705-luise-and-secret-basement-rooms.json](./157705-luise-and-secret-basement-rooms.json) |
 | Luka Tim Incident | 318624 | [318624-luka-tim-incident.json](./318624-luka-tim-incident.json) |
