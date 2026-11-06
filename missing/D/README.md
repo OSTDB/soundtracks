@@ -3365,6 +3365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Dungeons & Dragons Edition | 305485 | [305485-dead-by-daylight-dungeons-and-dragons-edition.json](./305485-dead-by-daylight-dungeons-and-dragons-edition.json) |
 | Dead by Daylight: End Transmission | 253114 | [253114-dead-by-daylight-end-transmission.json](./253114-dead-by-daylight-end-transmission.json) |
 | Dead by Daylight: Five Nights at Freddy's | 350030 | [350030-dead-by-daylight-five-nights-at-freddys.json](./350030-dead-by-daylight-five-nights-at-freddys.json) |
+| Dead by Daylight: Forged in Fog Chapter | 227635 | [227635-dead-by-daylight-forged-in-fog-chapter.json](./227635-dead-by-daylight-forged-in-fog-chapter.json) |
 | Dead by Daylight: Ghost Face | 120510 | [120510-dead-by-daylight-ghost-face.json](./120510-dead-by-daylight-ghost-face.json) |
 | Dead by Daylight: Gold Edition | 282124 | [282124-dead-by-daylight-gold-edition.json](./282124-dead-by-daylight-gold-edition.json) |
 | Dead by Daylight: Headcase | 129400 | [129400-dead-by-daylight-headcase.json](./129400-dead-by-daylight-headcase.json) |
@@ -6953,6 +6954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dereology Chime | 409782 | [409782-dereology-chime.json](./409782-dereology-chime.json) |
 | DeResolution | 272189 | [272189-deresolution.json](./272189-deresolution.json) |
 | Derf Party | 303475 | [303475-derf-party.json](./303475-derf-party.json) |
+| Derision | 227630 | [227630-derision.json](./227630-derision.json) |
 | Deriva | 348329 | [348329-deriva.json](./348329-deriva.json) |
 | Dérive | 183412 | [183412-derive.json](./183412-derive.json) |
 | Deriver | 401714 | [401714-deriver.json](./401714-deriver.json) |
@@ -11724,6 +11726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dohyo Dreams: Rise to Yokozuna | 381604 | [381604-dohyo-dreams-rise-to-yokozuna.json](./381604-dohyo-dreams-rise-to-yokozuna.json) |
 | Doinaka Girls Utopia | 411245 | [411245-doinaka-girls-utopia.json](./411245-doinaka-girls-utopia.json) |
 | Doinglessness | 176741 | [176741-doinglessness.json](./176741-doinglessness.json) |
+| Doink! | 227626 | [227626-doink.json](./227626-doink.json) |
 | Dojagi: The Korean Pottery | 112371 | [112371-dojagi-the-korean-pottery.json](./112371-dojagi-the-korean-pottery.json) |
 | Dojini | 108041 | [108041-dojini.json](./108041-dojini.json) |
 | Dojo Assault | 249847 | [249847-dojo-assault.json](./249847-dojo-assault.json) |
