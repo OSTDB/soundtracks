@@ -13369,6 +13369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funeral Toll | 272837 | [272837-funeral-toll.json](./272837-funeral-toll.json) |
 | Funeralopolis: Last Days | 317500 | [317500-funeralopolis-last-days.json](./317500-funeralopolis-last-days.json) |
 | Funerama | 400090 | [400090-funerama.json](./400090-funerama.json) |
+| Funerary Services Marquez Paz | 197424 | [197424-funerary-services-marquez-paz.json](./197424-funerary-services-marquez-paz.json) |
 | Funereal Funeral Car | 104726 | [104726-funereal-funeral-car.json](./104726-funereal-funeral-car.json) |
 | Funfair | 348041 | [348041-funfair.json](./348041-funfair.json) |
 | Funfair Billionaire | 334493 | [334493-funfair-billionaire.json](./334493-funfair-billionaire.json) |
