@@ -15875,6 +15875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream League Soccer 2025 | 330832 | [330832-dream-league-soccer-2025.json](./330832-dream-league-soccer-2025.json) |
 | Dream League Soccer 2026 | 411784 | [411784-dream-league-soccer-2026.json](./411784-dream-league-soccer-2026.json) |
 | Dream Legends | 56237 | [56237-dream-legends.json](./56237-dream-legends.json) |
+| Dream Life | 206922 | [206922-dream-life.json](./206922-dream-life.json) |
 | Dream Life in the Country Side | 333010 | [333010-dream-life-in-the-country-side.json](./333010-dream-life-in-the-country-side.json) |
 | Dream Logic | 214119 | [214119-dream-logic.json](./214119-dream-logic.json) |
 | Dream Loser | 399263 | [399263-dream-loser.json](./399263-dream-loser.json) |
