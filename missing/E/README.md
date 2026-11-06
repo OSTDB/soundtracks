@@ -2271,6 +2271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Element Release: Water Territory | 292526 | [292526-element-release-water-territory.json](./292526-element-release-water-territory.json) |
 | Element Runner | 200352 | [200352-element-runner.json](./200352-element-runner.json) |
 | Element TD 2 | 129388 | [129388-element-td-2.json](./129388-element-td-2.json) |
+| Element TD 2: Mazing Expansion | 228198 | [228198-element-td-2-mazing-expansion.json](./228198-element-td-2-mazing-expansion.json) |
 | Element X | 160009 | [160009-element-x.json](./160009-element-x.json) |
 | Element Z | 120763 | [120763-element-z.json](./120763-element-z.json) |
 | Element147 | 98016 | [98016-element147.json](./98016-element147.json) |
