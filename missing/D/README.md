@@ -5886,6 +5886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious Dungeon | 211241 | [211241-delicious-dungeon.json](./211241-delicious-dungeon.json) |
 | Delicious Foods | 247252 | [247252-delicious-foods.json](./247252-delicious-foods.json) |
 | Delicious Fruitworld | 173309 | [173309-delicious-fruitworld.json](./173309-delicious-fruitworld.json) |
+| Delicious in Dungeon | 245638 | [245638-delicious-in-dungeon.json](./245638-delicious-in-dungeon.json) |
 | Delicious Letters | 176982 | [176982-delicious-letters.json](./176982-delicious-letters.json) |
 | Delicious Quest | 255580 | [255580-delicious-quest.json](./255580-delicious-quest.json) |
 | Delicious Vinyl DJ | 21778 | [21778-delicious-vinyl-dj.json](./21778-delicious-vinyl-dj.json) |
@@ -12188,6 +12189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Eat My Mind You Stupid Monsters! | 176422 | [176422-dont-eat-my-mind-you-stupid-monsters.json](./176422-dont-eat-my-mind-you-stupid-monsters.json) |
 | Don't Eat Soap! | 60919 | [60919-dont-eat-soap.json](./60919-dont-eat-soap.json) |
 | Don’t Eat the Cashier! | 392432 | [392432-don-t-eat-the-cashier.json](./392432-don-t-eat-the-cashier.json) |
+| Don't Eat the Mushroom | 245620 | [245620-dont-eat-the-mushroom.json](./245620-dont-eat-the-mushroom.json) |
 | Don't Escape | 123697 | [123697-dont-escape.json](./123697-dont-escape.json) |
 | Don't Escape | 223670 | [223670-dont-escape.json](./223670-dont-escape.json) |
 | Don't Escape 2 | 123698 | [123698-dont-escape-2.json](./123698-dont-escape-2.json) |
@@ -16530,6 +16532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving School 2016 | 89273 | [89273-driving-school-2016.json](./89273-driving-school-2016.json) |
 | Driving School 2017 | 98855 | [98855-driving-school-2017.json](./98855-driving-school-2017.json) |
 | Driving School 3D | 102104 | [102104-driving-school-3d.json](./102104-driving-school-3d.json) |
+| Driving School Classics 2019 | 245628 | [245628-driving-school-classics-2019.json](./245628-driving-school-classics-2019.json) |
 | Driving School Original | 120065 | [120065-driving-school-original.json](./120065-driving-school-original.json) |
 | Driving School Sim | 410826 | [410826-driving-school-sim.json](./410826-driving-school-sim.json) |
 | Driving School Simulator: EVO | 383520 | [383520-driving-school-simulator-evo.json](./383520-driving-school-simulator-evo.json) |
