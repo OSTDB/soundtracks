@@ -6588,6 +6588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Realm | 287684 | [287684-wizard-realm.json](./287684-wizard-realm.json) |
 | Wizard Recurse | 229269 | [229269-wizard-recurse.json](./229269-wizard-recurse.json) |
 | Wizard School Dropout | 416860 | [416860-wizard-school-dropout.json](./416860-wizard-school-dropout.json) |
+| Wizard Shrimp | 242874 | [242874-wizard-shrimp.json](./242874-wizard-shrimp.json) |
 | Wizard Slayer | 65309 | [65309-wizard-slayer.json](./65309-wizard-slayer.json) |
 | Wizard Slime | 113173 | [113173-wizard-slime.json](./113173-wizard-slime.json) |
 | Wizard Soup | 408812 | [408812-wizard-soup.json](./408812-wizard-soup.json) |
