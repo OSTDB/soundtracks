@@ -1636,6 +1636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigs4w3D: My Photos DLC | 305714 | [305714-jigs4w3d-my-photos-dlc.json](./305714-jigs4w3d-my-photos-dlc.json) |
 | Jigs4w3D: Puzzle Challenge | 305711 | [305711-jigs4w3d-puzzle-challenge.json](./305711-jigs4w3d-puzzle-challenge.json) |
 | Jigsaw | 149289 | [149289-jigsaw.json](./149289-jigsaw.json) |
+| Jigsaw | 245109 | [245109-jigsaw.json](./245109-jigsaw.json) |
 | Jigsaw | 7863 | [7863-jigsaw.json](./7863-jigsaw.json) |
 | Jigsaw 360 | 112490 | [112490-jigsaw-360.json](./112490-jigsaw-360.json) |
 | JigSaw Abundance | 147718 | [147718-jigsaw-abundance.json](./147718-jigsaw-abundance.json) |
