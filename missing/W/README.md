@@ -4349,6 +4349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whimel Academy | 275558 | [275558-whimel-academy.json](./275558-whimel-academy.json) |
 | Whimpact! | 378538 | [378538-whimpact.json](./378538-whimpact.json) |
 | Whimre | 252228 | [252228-whimre.json](./252228-whimre.json) |
+| Whimsical Heroes | 211485 | [211485-whimsical-heroes.json](./211485-whimsical-heroes.json) |
 | Whimsical Quest | 111421 | [111421-whimsical-quest.json](./111421-whimsical-quest.json) |
 | Whimsical Wizardry | 303964 | [303964-whimsical-wizardry.json](./303964-whimsical-wizardry.json) |
 | Whimsy | 126214 | [126214-whimsy.json](./126214-whimsy.json) |
