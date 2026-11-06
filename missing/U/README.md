@@ -2392,6 +2392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | University of Problems | 356442 | [356442-university-of-problems.json](./356442-university-of-problems.json) |
 | University Speedrun Simulator | 352505 | [352505-university-speedrun-simulator.json](./352505-university-speedrun-simulator.json) |
 | University Stories | 207657 | [207657-university-stories.json](./207657-university-stories.json) |
+| University Tycoon | 230630 | [230630-university-tycoon.json](./230630-university-tycoon.json) |
 | University Tycoon: The College Management Simulator | 312418 | [312418-university-tycoon-the-college-management-simulator.json](./312418-university-tycoon-the-college-management-simulator.json) |
 | Univocity | 339916 | [339916-univocity.json](./339916-univocity.json) |
 | UniWar | 91536 | [91536-uniwar.json](./91536-uniwar.json) |
