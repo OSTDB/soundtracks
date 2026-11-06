@@ -4720,6 +4720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiators: The Unconquered | 132535 | [132535-gladiators-the-unconquered.json](./132535-gladiators-the-unconquered.json) |
 | Gladiatory | 290896 | [290896-gladiatory.json](./290896-gladiatory.json) |
 | Gladiatus | 194814 | [194814-gladiatus.json](./194814-gladiatus.json) |
+| GladiEaters | 226026 | [226026-gladieaters.json](./226026-gladieaters.json) |
 | Gladihaters | 149405 | [149405-gladihaters.json](./149405-gladihaters.json) |
 | Gladihoppers | 103356 | [103356-gladihoppers.json](./103356-gladihoppers.json) |
 | Gladii | 158922 | [158922-gladii.json](./158922-gladii.json) |
@@ -5937,6 +5938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Simulator | 191570 | [191570-god-simulator.json](./191570-god-simulator.json) |
 | God Simulator | 31883 | [31883-god-simulator.json](./31883-god-simulator.json) |
 | God Sisters | 109161 | [109161-god-sisters.json](./109161-god-sisters.json) |
+| God Souls | 226056 | [226056-god-souls.json](./226056-god-souls.json) |
 | God Starfighter | 76956 | [76956-god-starfighter.json](./76956-god-starfighter.json) |
 | God Sword | 157497 | [157497-god-sword.json](./157497-god-sword.json) |
 | God Trials | 348421 | [348421-god-trials.json](./348421-god-trials.json) |
