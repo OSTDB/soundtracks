@@ -6370,6 +6370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witches & Vampires: The Secrets of Ashburry | 47813 | [47813-witches-and-vampires-the-secrets-of-ashburry.json](./47813-witches-and-vampires-the-secrets-of-ashburry.json) |
 | Witches & Woodlands | 275595 | [275595-witches-and-woodlands.json](./275595-witches-and-woodlands.json) |
 | Witches and Bandits and Swords (Oh My) | 147013 | [147013-witches-and-bandits-and-swords-oh-my.json](./147013-witches-and-bandits-and-swords-oh-my.json) |
+| Witches and Butchers | 226029 | [226029-witches-and-butchers.json](./226029-witches-and-butchers.json) |
 | Witches at Summer's End | 225518 | [225518-witches-at-summers-end.json](./225518-witches-at-summers-end.json) |
 | Witches Brew | 120574 | [120574-witches-brew.json](./120574-witches-brew.json) |
 | Witches Craft | 103956 | [103956-witches-craft.json](./103956-witches-craft.json) |
