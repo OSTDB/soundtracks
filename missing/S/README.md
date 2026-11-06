@@ -5552,6 +5552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentinels | 258334 | [258334-sentinels.json](./258334-sentinels.json) |
 | Sentinels | 27293 | [27293-sentinels.json](./27293-sentinels.json) |
 | Sentinels Inc. | 279255 | [279255-sentinels-inc.json](./279255-sentinels-inc.json) |
+| Sentinels of Earth-Prime | 244019 | [244019-sentinels-of-earth-prime.json](./244019-sentinels-of-earth-prime.json) |
 | Sentinels of Earth-Prime: Magical Mysteries Mini-Pack | 273672 | [273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json](./273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json) |
 | Sentinels of the Multiverse: Infernal Relics | 170411 | [170411-sentinels-of-the-multiverse-infernal-relics.json](./170411-sentinels-of-the-multiverse-infernal-relics.json) |
 | Sentinels of the Multiverse: Mini-Pack 1 | 170410 | [170410-sentinels-of-the-multiverse-mini-pack-1.json](./170410-sentinels-of-the-multiverse-mini-pack-1.json) |
@@ -19374,6 +19375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -28218,6 +28220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strip Pot | 13056 | [13056-strip-pot.json](./13056-strip-pot.json) |
 | Strip Slot Sonja | 379642 | [379642-strip-slot-sonja.json](./379642-strip-slot-sonja.json) |
 | Strip-Poker | 71934 | [71934-strip-poker.json](./71934-strip-poker.json) |
+| Strip'Em III | 244026 | [244026-stripem-iii.json](./244026-stripem-iii.json) |
 | Strip4 | 93182 | [93182-strip4.json](./93182-strip4.json) |
 | Stripe Physics | 95315 | [95315-stripe-physics.json](./95315-stripe-physics.json) |
 | Stripes | 305557 | [305557-stripes.json](./305557-stripes.json) |
