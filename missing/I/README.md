@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Level | 267956 | [267956-i-am-level.json](./267956-i-am-level.json) |
 | I am Lost | 285252 | [285252-i-am-lost.json](./285252-i-am-lost.json) |
 | I am Machine | 371877 | [371877-i-am-machine.json](./371877-i-am-machine.json) |
+| I Am Marble | 194058 | [194058-i-am-marble.json](./194058-i-am-marble.json) |
 | I Am Monkey | 372054 | [372054-i-am-monkey.json](./372054-i-am-monkey.json) |
 | I Am Mouse | 197085 | [197085-i-am-mouse.json](./197085-i-am-mouse.json) |
 | I am Neutron | 294172 | [294172-i-am-neutron.json](./294172-i-am-neutron.json) |
@@ -1569,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Mining Empire | 218700 | [218700-idle-mining-empire.json](./218700-idle-mining-empire.json) |
 | Idle Monkey Theorem | 386843 | [386843-idle-monkey-theorem.json](./386843-idle-monkey-theorem.json) |
 | Idle Monkeylogy | 165637 | [165637-idle-monkeylogy.json](./165637-idle-monkeylogy.json) |
+| Idle Monster | 194090 | [194090-idle-monster.json](./194090-idle-monster.json) |
 | Idle Monster TD: Evolved | 193654 | [193654-idle-monster-td-evolved.json](./193654-idle-monster-td-evolved.json) |
 | Idle Monster: Tower Defense | 138787 | [138787-idle-monster-tower-defense.json](./138787-idle-monster-tower-defense.json) |
 | Idle Monsters | 151815 | [151815-idle-monsters.json](./151815-idle-monsters.json) |
