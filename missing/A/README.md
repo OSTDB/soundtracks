@@ -17211,6 +17211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Austin Mini Racing | 90933 | [90933-austin-mini-racing.json](./90933-austin-mini-racing.json) |
 | Austin Powers Pinball | 222896 | [222896-austin-powers-pinball.json](./222896-austin-powers-pinball.json) |
 | Austin Powers Pinball | 45085 | [45085-austin-powers-pinball.json](./45085-austin-powers-pinball.json) |
+| Austin Powers: Mojo Rally | 218797 | [218797-austin-powers-mojo-rally.json](./218797-austin-powers-mojo-rally.json) |
 | Austin Powers: Oh, Behave! | 49890 | [49890-austin-powers-oh-behave.json](./49890-austin-powers-oh-behave.json) |
 | Austin Powers: Operation Trivia | 69746 | [69746-austin-powers-operation-trivia.json](./69746-austin-powers-operation-trivia.json) |
 | Austin Powers: Welcome to My Underground Lair! | 18385 | [18385-austin-powers-welcome-to-my-underground-lair.json](./18385-austin-powers-welcome-to-my-underground-lair.json) |
