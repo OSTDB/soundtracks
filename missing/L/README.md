@@ -8415,6 +8415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lot Lot | 40368 | [40368-lot-lot.json](./40368-lot-lot.json) |
 | Lot'zAmonsters | 107825 | [107825-lotzamonsters.json](./107825-lotzamonsters.json) |
 | Lotan | 185143 | [185143-lotan.json](./185143-lotan.json) |
+| LotAtc | 213717 | [213717-lotatc.json](./213717-lotatc.json) |
 | Lothar Matthäus Super Soccer | 42491 | [42491-lothar-matthaus-super-soccer.json](./42491-lothar-matthaus-super-soccer.json) |
 | Lotharus: Bacon, Ale & Repeat | 150865 | [150865-lotharus-bacon-ale-and-repeat.json](./150865-lotharus-bacon-ale-and-repeat.json) |
 | Lothgar Online | 56315 | [56315-lothgar-online.json](./56315-lothgar-online.json) |
@@ -9336,6 +9337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Star: Net Idol Meister | 44496 | [44496-lucky-star-net-idol-meister.json](./44496-lucky-star-net-idol-meister.json) |
 | Lucky Star: Ryouou Gakuen Outousai | 72617 | [72617-lucky-star-ryouou-gakuen-outousai.json](./72617-lucky-star-ryouou-gakuen-outousai.json) |
 | Lucky Star: Ryouou Gakuen Outousai - DX Pack | 214143 | [214143-lucky-star-ryouou-gakuen-outousai-dx-pack.json](./214143-lucky-star-ryouou-gakuen-outousai-dx-pack.json) |
+| Lucky Star: Ryouou Gakuen Outousai Portable | 213692 | [213692-lucky-star-ryouou-gakuen-outousai-portable.json](./213692-lucky-star-ryouou-gakuen-outousai-portable.json) |
 | Lucky Stars 2 | 89722 | [89722-lucky-stars-2.json](./89722-lucky-stars-2.json) |
 | Lucky Stars Video Slots | 175990 | [175990-lucky-stars-video-slots.json](./175990-lucky-stars-video-slots.json) |
 | Lucky Stars: Special Edition | 107711 | [107711-lucky-stars-special-edition.json](./107711-lucky-stars-special-edition.json) |
@@ -9775,6 +9777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Glow Stellar Dance | 278331 | [278331-lunar-glow-stellar-dance.json](./278331-lunar-glow-stellar-dance.json) |
 | Lunar Greenhouse | 311003 | [311003-lunar-greenhouse.json](./311003-lunar-greenhouse.json) |
 | Lunar Impact | 340506 | [340506-lunar-impact.json](./340506-lunar-impact.json) |
+| Lunar Jetman | 213715 | [213715-lunar-jetman.json](./213715-lunar-jetman.json) |
 | Lunar Jetman | 7852 | [7852-lunar-jetman.json](./7852-lunar-jetman.json) |
 | Lunar Journey | 142041 | [142041-lunar-journey.json](./142041-lunar-journey.json) |
 | Lunar Knights | 9887 | [9887-lunar-knights.json](./9887-lunar-knights.json) |
