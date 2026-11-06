@@ -3480,6 +3480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recall | 309570 | [309570-recall.json](./309570-recall.json) |
 | Recall News | 372978 | [372978-recall-news.json](./372978-recall-news.json) |
 | Recant | 268607 | [268607-recant.json](./268607-recant.json) |
+| ReCaptcha V4 | 241161 | [241161-recaptcha-v4.json](./241161-recaptcha-v4.json) |
 | Recapture the Castle | 173062 | [173062-recapture-the-castle.json](./173062-recapture-the-castle.json) |
 | ReCast FF3: War of the Magitek | 339255 | [339255-recast-ff3-war-of-the-magitek.json](./339255-recast-ff3-war-of-the-magitek.json) |
 | Recca no Honoo: Flame of Recca - Final Burning | 61445 | [61445-recca-no-honoo-flame-of-recca-final-burning.json](./61445-recca-no-honoo-flame-of-recca-final-burning.json) |
@@ -10864,6 +10865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooms | 260280 | [260280-rooms.json](./260280-rooms.json) |
 | Rooms | 265556 | [265556-rooms.json](./265556-rooms.json) |
 | Rooms | 388930 | [388930-rooms.json](./388930-rooms.json) |
+| Rooms of Doom | 241114 | [241114-rooms-of-doom.json](./241114-rooms-of-doom.json) |
 | Rooms of Dread | 232027 | [232027-rooms-of-dread.json](./232027-rooms-of-dread.json) |
 | Rooms Within | 226487 | [226487-rooms-within.json](./226487-rooms-within.json) |
 | Rooms: The Adventure of Anne & George | 110803 | [110803-rooms-the-adventure-of-anne-and-george.json](./110803-rooms-the-adventure-of-anne-and-george.json) |
@@ -12462,6 +12464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runes: Hidden Objects Puzzle Game | 312686 | [312686-runes-hidden-objects-puzzle-game.json](./312686-runes-hidden-objects-puzzle-game.json) |
 | Runes: The Forgotten Path | 33172 | [33172-runes-the-forgotten-path.json](./33172-runes-the-forgotten-path.json) |
 | RuneSage | 30935 | [30935-runesage.json](./30935-runesage.json) |
+| Runescape | 241152 | [241152-runescape.json](./241152-runescape.json) |
 | RuneScape | 5611 | [5611-runescape.json](./5611-runescape.json) |
 | RuneScape 2 | 362749 | [362749-runescape-2.json](./362749-runescape-2.json) |
 | RuneScape Classic | 138173 | [138173-runescape-classic.json](./138173-runescape-classic.json) |
