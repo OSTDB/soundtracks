@@ -5754,6 +5754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Inputs | 164913 | [164913-no-more-inputs.json](./164913-no-more-inputs.json) |
 | No More Kings | 134963 | [134963-no-more-kings.json](./134963-no-more-kings.json) |
 | No More Light | 151479 | [151479-no-more-light.json](./151479-no-more-light.json) |
+| No More Money | 232233 | [232233-no-more-money.json](./232233-no-more-money.json) |
 | No More Noise | 345402 | [345402-no-more-noise.json](./345402-no-more-noise.json) |
 | No More Pesticide | 389928 | [389928-no-more-pesticide.json](./389928-no-more-pesticide.json) |
 | No More Pop Music - Annihilation | 113145 | [113145-no-more-pop-music-annihilation.json](./113145-no-more-pop-music-annihilation.json) |
