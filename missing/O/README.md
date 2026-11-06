@@ -133,6 +133,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oatmeal | 159257 | [159257-oatmeal.json](./159257-oatmeal.json) |
 | Oba Doba | 238633 | [238633-oba-doba.json](./238633-oba-doba.json) |
 | Obake Nante Kowakunai JK vs. Gakkou Meikyuu | 397945 | [397945-obake-nante-kowakunai-jk-vs-gakkou-meikyuu.json](./397945-obake-nante-kowakunai-jk-vs-gakkou-meikyuu.json) |
+| Obake no Koushinkyoku | 228854 | [228854-obake-no-koushinkyoku.json](./228854-obake-no-koushinkyoku.json) |
+| Obake no Koushinkyoku 10th | 228859 | [228859-obake-no-koushinkyoku-10th.json](./228859-obake-no-koushinkyoku-10th.json) |
 | Obake no Q-Taro: Boku Kiechatta! | 218263 | [218263-obake-no-q-taro-boku-kiechatta.json](./218263-obake-no-q-taro-boku-kiechatta.json) |
 | Obake no Q-Taro: Oba Q Channel | 293908 | [293908-obake-no-q-taro-oba-q-channel.json](./293908-obake-no-q-taro-oba-q-channel.json) |
 | Obake no Q-Taro: Wan-wan Panic | 215139 | [215139-obake-no-q-taro-wan-wan-panic.json](./215139-obake-no-q-taro-wan-wan-panic.json) |
@@ -1407,6 +1409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oku-sama wa Moto Yariman -Besluted- | 82982 | [82982-oku-sama-wa-moto-yariman-besluted.json](./82982-oku-sama-wa-moto-yariman-besluted.json) |
 | Okubi | 214564 | [214564-okubi.json](./214564-okubi.json) |
 | Okugafuchi Shopping Arcade | 413104 | [413104-okugafuchi-shopping-arcade.json](./413104-okugafuchi-shopping-arcade.json) |
+| Okui | 228819 | [228819-okui.json](./228819-okui.json) |
 | Okuman Chouja | 78396 | [78396-okuman-chouja.json](./78396-okuman-chouja.json) |
 | Okuman Chouja Game: Nottori Daisakusen! | 49738 | [49738-okuman-chouja-game-nottori-daisakusen.json](./49738-okuman-chouja-game-nottori-daisakusen.json) |
 | Okuman Chouja II | 242520 | [242520-okuman-chouja-ii.json](./242520-okuman-chouja-ii.json) |
@@ -3187,6 +3190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oogies Chicken Quest | 399170 | [399170-oogies-chicken-quest.json](./399170-oogies-chicken-quest.json) |
 | OoglyBoogly | 396278 | [396278-ooglyboogly.json](./396278-ooglyboogly.json) |
 | Oogy: Can You Help | 190086 | [190086-oogy-can-you-help.json](./190086-oogy-can-you-help.json) |
+| Ooh and Aah's Coconutty Bowling | 228816 | [228816-ooh-and-aahs-coconutty-bowling.json](./228816-ooh-and-aahs-coconutty-bowling.json) |
 | Ooh, Aah, & You: Fetch-a-Fruit | 98316 | [98316-ooh-aah-and-you-fetch-a-fruit.json](./98316-ooh-aah-and-you-fetch-a-fruit.json) |
 | Ooka Ooka Adventure | 291732 | [291732-ooka-ooka-adventure.json](./291732-ooka-ooka-adventure.json) |
 | Ookami Game | 151847 | [151847-ookami-game.json](./151847-ookami-game.json) |
