@@ -5343,6 +5343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue at Rajini Island | 54317 | [54317-rescue-at-rajini-island.json](./54317-rescue-at-rajini-island.json) |
 | Rescue Bear Operation | 31743 | [31743-rescue-bear-operation.json](./31743-rescue-bear-operation.json) |
 | Rescue Cable | 272196 | [272196-rescue-cable.json](./272196-rescue-cable.json) |
+| Rescue Claw | 234992 | [234992-rescue-claw.json](./234992-rescue-claw.json) |
 | Rescue Copter | 44977 | [44977-rescue-copter.json](./44977-rescue-copter.json) |
 | Rescue Copter | 80861 | [80861-rescue-copter.json](./80861-rescue-copter.json) |
 | Rescue Dash: Time Management Simulator | 230927 | [230927-rescue-dash-time-management-simulator.json](./230927-rescue-dash-time-management-simulator.json) |
