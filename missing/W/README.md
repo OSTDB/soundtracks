@@ -1302,6 +1302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: Sanctuary | 202147 | [202147-warframe-sanctuary.json](./202147-warframe-sanctuary.json) |
 | Warframe: Shadows of the Dead | 200659 | [200659-warframe-shadows-of-the-dead.json](./200659-warframe-shadows-of-the-dead.json) |
 | Warframe: Sisters of Parvos | 198686 | [198686-warframe-sisters-of-parvos.json](./198686-warframe-sisters-of-parvos.json) |
+| Warframe: Sisters of Parvos Waverider Pack | 227081 | [227081-warframe-sisters-of-parvos-waverider-pack.json](./227081-warframe-sisters-of-parvos-waverider-pack.json) |
 | Warframe: Starter Weapon Pack | 353309 | [353309-warframe-starter-weapon-pack.json](./353309-warframe-starter-weapon-pack.json) |
 | Warframe: TennoCon 2024 Digital Pack | 294972 | [294972-warframe-tennocon-2024-digital-pack.json](./294972-warframe-tennocon-2024-digital-pack.json) |
 | Warframe: The Duviri Paradox | 204361 | [204361-warframe-the-duviri-paradox.json](./204361-warframe-the-duviri-paradox.json) |
