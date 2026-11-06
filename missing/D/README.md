@@ -15100,6 +15100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Slayer IV: Drasle Family | 19113 | [19113-dragon-slayer-iv-drasle-family.json](./19113-dragon-slayer-iv-drasle-family.json) |
 | Dragon Slayer: The Legend of Heroes | 5579 | [5579-dragon-slayer-the-legend-of-heroes.json](./5579-dragon-slayer-the-legend-of-heroes.json) |
 | Dragon Slayers | 123012 | [123012-dragon-slayers.json](./123012-dragon-slayers.json) |
+| Dragon Sleuth Brittany | 199717 | [199717-dragon-sleuth-brittany.json](./199717-dragon-sleuth-brittany.json) |
 | Dragon Snack | 362966 | [362966-dragon-snack.json](./362966-dragon-snack.json) |
 | Dragon Snack: From Ice to Ember | 399624 | [399624-dragon-snack-from-ice-to-ember.json](./399624-dragon-snack-from-ice-to-ember.json) |
 | Dragon Snakes | 118302 | [118302-dragon-snakes.json](./118302-dragon-snakes.json) |
