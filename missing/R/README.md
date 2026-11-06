@@ -8019,6 +8019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Zan: The Samurai Gunman | 44976 | [44976-rising-zan-the-samurai-gunman.json](./44976-rising-zan-the-samurai-gunman.json) |
 | Rising: Hungry Lizard | 165638 | [165638-rising-hungry-lizard.json](./165638-rising-hungry-lizard.json) |
 | Risk | 16458 | [16458-risk.json](./16458-risk.json) |
+| Risk | 201906 | [201906-risk.json](./201906-risk.json) |
 | Risk | 273189 | [273189-risk.json](./273189-risk.json) |
 | Risk | 82434 | [82434-risk.json](./82434-risk.json) |
 | Risk & Riches | 333646 | [333646-risk-and-riches.json](./333646-risk-and-riches.json) |
