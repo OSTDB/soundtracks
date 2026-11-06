@@ -4844,6 +4844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relocation Simulator | 293122 | [293122-relocation-simulator.json](./293122-relocation-simulator.json) |
 | Relumine | 174277 | [174277-relumine.json](./174277-relumine.json) |
 | Relyctum | 261439 | [261439-relyctum.json](./261439-relyctum.json) |
+| Rem | 225427 | [225427-rem.json](./225427-rem.json) |
 | REM Hemispheres | 408701 | [408701-rem-hemispheres.json](./408701-rem-hemispheres.json) |
 | Rem Psycho | 318334 | [318334-rem-psycho.json](./318334-rem-psycho.json) |
 | Rem Survival | 102077 | [102077-rem-survival.json](./102077-rem-survival.json) |
@@ -6809,6 +6810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhom Bus | 197231 | [197231-rhom-bus.json](./197231-rhom-bus.json) |
 | Rhombus | 370894 | [370894-rhombus.json](./370894-rhombus.json) |
 | Rhome | 130273 | [130273-rhome.json](./130273-rhome.json) |
+| Rhygar e os Soldados do Rei | 225442 | [225442-rhygar-e-os-soldados-do-rei.json](./225442-rhygar-e-os-soldados-do-rei.json) |
 | Rhyme Land | 306035 | [306035-rhyme-land.json](./306035-rhyme-land.json) |
 | Rhyme Player | 67037 | [67037-rhyme-player.json](./67037-rhyme-player.json) |
 | Rhyme Rider Kerorican | 37355 | [37355-rhyme-rider-kerorican.json](./37355-rhyme-rider-kerorican.json) |
