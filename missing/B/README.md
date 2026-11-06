@@ -3706,6 +3706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle for Wesnoth HD | 94778 | [94778-battle-for-wesnoth-hd.json](./94778-battle-for-wesnoth-hd.json) |
 | Battle for Wesnoth Legacy | 207873 | [207873-battle-for-wesnoth-legacy.json](./207873-battle-for-wesnoth-legacy.json) |
 | Battle Force | 386176 | [386176-battle-force.json](./386176-battle-force.json) |
+| Battle Forces | 213671 | [213671-battle-forces.json](./213671-battle-forces.json) |
 | Battle Forever | 32879 | [32879-battle-forever.json](./32879-battle-forever.json) |
 | Battle Formation | 218828 | [218828-battle-formation.json](./218828-battle-formation.json) |
 | Battle Fortress Defence | 200114 | [200114-battle-fortress-defence.json](./200114-battle-fortress-defence.json) |
@@ -3843,6 +3844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Elemental Burst | 222259 | [222259-battle-of-elemental-burst.json](./222259-battle-of-elemental-burst.json) |
 | Battle of Elemental Reboost | 97305 | [97305-battle-of-elemental-reboost.json](./97305-battle-of-elemental-reboost.json) |
 | Battle of Emperor Tian | 339114 | [339114-battle-of-emperor-tian.json](./339114-battle-of-emperor-tian.json) |
+| Battle of Empire | 213670 | [213670-battle-of-empire.json](./213670-battle-of-empire.json) |
 | Battle of Empires: 1914-1918 | 9892 | [9892-battle-of-empires-1914-1918.json](./9892-battle-of-empires-1914-1918.json) |
 | Battle of Empires: 1914-1918 - Battle of Cambrai | 168302 | [168302-battle-of-empires-1914-1918-battle-of-cambrai.json](./168302-battle-of-empires-1914-1918-battle-of-cambrai.json) |
 | Battle of Empires: 1914-1918 - Blazing Guns | 155390 | [155390-battle-of-empires-1914-1918-blazing-guns.json](./155390-battle-of-empires-1914-1918-blazing-guns.json) |
@@ -5717,6 +5719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Become a Great Artist in Just 10 Seconds | 139817 | [139817-become-a-great-artist-in-just-10-seconds.json](./139817-become-a-great-artist-in-just-10-seconds.json) |
 | Become A History Explorer | 251391 | [251391-become-a-history-explorer.json](./251391-become-a-history-explorer.json) |
 | Become a pig | 205244 | [205244-become-a-pig.json](./205244-become-a-pig.json) |
+| Become a Queen | 213675 | [213675-become-a-queen.json](./213675-become-a-queen.json) |
 | Become A science Explorer | 251392 | [251392-become-a-science-explorer.json](./251392-become-a-science-explorer.json) |
 | Become a Star | 244547 | [244547-become-a-star.json](./244547-become-a-star.json) |
 | Become an Adventurer | 281949 | [281949-become-an-adventurer.json](./281949-become-an-adventurer.json) |
@@ -9432,6 +9435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Flash Death | 151278 | [151278-blade-flash-death.json](./151278-blade-flash-death.json) |
 | Blade Force | 11860 | [11860-blade-force.json](./11860-blade-force.json) |
 | Blade Fury | 256946 | [256946-blade-fury.json](./256946-blade-fury.json) |
+| Blade Girl: Idle RPG | 213677 | [213677-blade-girl-idle-rpg.json](./213677-blade-girl-idle-rpg.json) |
 | Blade II | 22220 | [22220-blade-ii.json](./22220-blade-ii.json) |
 | Blade II: The Return of Evil | 57547 | [57547-blade-ii-the-return-of-evil.json](./57547-blade-ii-the-return-of-evil.json) |
 | Blade Jumper | 215486 | [215486-blade-jumper.json](./215486-blade-jumper.json) |
@@ -10329,6 +10333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Blowout | 30741 | [30741-block-blowout.json](./30741-block-blowout.json) |
 | Block Bot: Puzzle Journey | 312158 | [312158-block-bot-puzzle-journey.json](./312158-block-bot-puzzle-journey.json) |
 | Block Bounce | 368489 | [368489-block-bounce.json](./368489-block-bounce.json) |
+| Block Box Master Diamond | 213678 | [213678-block-box-master-diamond.json](./213678-block-box-master-diamond.json) |
 | Block Box Skyland Sword | 208729 | [208729-block-box-skyland-sword.json](./208729-block-box-skyland-sword.json) |
 | Block Boy | 311359 | [311359-block-boy.json](./311359-block-boy.json) |
 | Block Brain | 239885 | [239885-block-brain.json](./239885-block-brain.json) |
@@ -10403,6 +10408,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Fortress: Empires | 119483 | [119483-block-fortress-empires.json](./119483-block-fortress-empires.json) |
 | Block Fuse | 113326 | [113326-block-fuse.json](./113326-block-fuse.json) |
 | Block Gal | 38587 | [38587-block-gal.json](./38587-block-gal.json) |
+| Block Game Skyland Forrest | 213681 | [213681-block-game-skyland-forrest.json](./213681-block-game-skyland-forrest.json) |
+| Block Game: Mine, Craft and Drive | 213680 | [213680-block-game-mine-craft-and-drive.json](./213680-block-game-mine-craft-and-drive.json) |
 | Block Games:Avoid | 273764 | [273764-block-games-avoid.json](./273764-block-games-avoid.json) |
 | Block Gun | 255332 | [255332-block-gun.json](./255332-block-gun.json) |
 | Block Heads: Instakill | 108305 | [108305-block-heads-instakill.json](./108305-block-heads-instakill.json) |
@@ -10545,6 +10552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlockBawks | 293102 | [293102-blockbawks.json](./293102-blockbawks.json) |
 | BlockBlast Friend Edition | 412895 | [412895-blockblast-friend-edition.json](./412895-blockblast-friend-edition.json) |
 | BlockBlasters | 356548 | [356548-blockblasters.json](./356548-blockblasters.json) |
+| BlockBuild: Craft Your Dream World | 213679 | [213679-blockbuild-craft-your-dream-world.json](./213679-blockbuild-craft-your-dream-world.json) |
 | Blockbuster | 15677 | [15677-blockbuster.json](./15677-blockbuster.json) |
 | Blockbuster | 327740 | [327740-blockbuster.json](./327740-blockbuster.json) |
 | BlockBuster | 327741 | [327741-blockbuster.json](./327741-blockbuster.json) |
@@ -11523,6 +11531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Crow | 385822 | [385822-blue-crow.json](./385822-blue-crow.json) |
 | Blue Crystal | 116914 | [116914-blue-crystal.json](./116914-blue-crystal.json) |
 | Blue Delta | 350599 | [350599-blue-delta.json](./350599-blue-delta.json) |
+| Blue Demon Online | 213682 | [213682-blue-demon-online.json](./213682-blue-demon-online.json) |
 | Blue Detective: A Hotel in Scarlet | 400505 | [400505-blue-detective-a-hotel-in-scarlet.json](./400505-blue-detective-a-hotel-in-scarlet.json) |
 | Blue Diamonds Slot Machine | 217654 | [217654-blue-diamonds-slot-machine.json](./217654-blue-diamonds-slot-machine.json) |
 | Blue Dragon | 6923 | [6923-blue-dragon.json](./6923-blue-dragon.json) |
