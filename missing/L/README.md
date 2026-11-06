@@ -401,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lac-Pochette Centennial | 398508 | [398508-lac-pochette-centennial.json](./398508-lac-pochette-centennial.json) |
 | Lacerta | 323542 | [323542-lacerta.json](./323542-lacerta.json) |
 | Lacey's Flash Games | 334698 | [334698-laceys-flash-games.json](./334698-laceys-flash-games.json) |
+| Lachesis or Atropos | 240579 | [240579-lachesis-or-atropos.json](./240579-lachesis-or-atropos.json) |
 | Lack of Water | 173004 | [173004-lack-of-water.json](./173004-lack-of-water.json) |
 | Lackgirl I: Astra Inclinant, sed Non Obligant. | 243225 | [243225-lackgirl-i-astra-inclinant-sed-non-obligant.json](./243225-lackgirl-i-astra-inclinant-sed-non-obligant.json) |
 | Lackgirl II: De Docta Ignorantia | 314282 | [314282-lackgirl-ii-de-docta-ignorantia.json](./314282-lackgirl-ii-de-docta-ignorantia.json) |
