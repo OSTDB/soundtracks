@@ -5202,7 +5202,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of War: Rule of Power | 199451 | [199451-master-of-war-rule-of-power.json](./199451-master-of-war-rule-of-power.json) |
 | Master of Weapon | 4532 | [4532-master-of-weapon.json](./4532-master-of-weapon.json) |
 | Master of Wills | 125873 | [125873-master-of-wills.json](./125873-master-of-wills.json) |
+| Master Pinball | 230657 | [230657-master-pinball.json](./230657-master-pinball.json) |
 | Master Poker | 71886 | [71886-master-poker.json](./71886-master-poker.json) |
+| Master Pong | 230658 | [230658-master-pong.json](./230658-master-pong.json) |
 | Master Pyrox Wizard Smackdown | 102924 | [102924-master-pyrox-wizard-smackdown.json](./102924-master-pyrox-wizard-smackdown.json) |
 | Master Rallye | 44707 | [44707-master-rallye.json](./44707-master-rallye.json) |
 | Master Reboot | 10541 | [10541-master-reboot.json](./10541-master-reboot.json) |
@@ -8657,6 +8659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memória 3D | 290076 | [290076-memoria-3d.json](./290076-memoria-3d.json) |
 | Memoria Altera | 363127 | [363127-memoria-altera.json](./363127-memoria-altera.json) |
 | Memoria Arcana | 390572 | [390572-memoria-arcana.json](./390572-memoria-arcana.json) |
+| Memória Master | 230659 | [230659-memoria-master.json](./230659-memoria-master.json) |
 | Memoria Project | 193969 | [193969-memoria-project.json](./193969-memoria-project.json) |
 | Memoria VR | 311793 | [311793-memoria-vr.json](./311793-memoria-vr.json) |
 | Memoria Wake | 348349 | [348349-memoria-wake.json](./348349-memoria-wake.json) |
@@ -11850,6 +11853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mina & Michi | 152408 | [152408-mina-and-michi.json](./152408-mina-and-michi.json) |
 | Mina Mangkukulam | 223061 | [223061-mina-mangkukulam.json](./223061-mina-mangkukulam.json) |
 | Mina of the Pirates | 87802 | [87802-mina-of-the-pirates.json](./87802-mina-of-the-pirates.json) |
+| Mina Terrestre | 230660 | [230660-mina-terrestre.json](./230660-mina-terrestre.json) |
 | Mina the Hollower | 189781 | [189781-mina-the-hollower.json](./189781-mina-the-hollower.json) |
 | Mina the Hollower GBC Demake | 305750 | [305750-mina-the-hollower-gbc-demake.json](./305750-mina-the-hollower-gbc-demake.json) |
 | Mina's Garden | 280088 | [280088-minas-garden.json](./280088-minas-garden.json) |
@@ -12435,6 +12439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner's Delight + | 348597 | [348597-miners-delight.json](./348597-miners-delight.json) |
 | Miner's Hell | 158619 | [158619-miners-hell.json](./158619-miners-hell.json) |
 | Mineracer | 416819 | [416819-mineracer.json](./416819-mineracer.json) |
+| Minerador | 230661 | [230661-minerador.json](./230661-minerador.json) |
 | Mineral | 302438 | [302438-mineral.json](./302438-mineral.json) |
 | Mineral Defense | 326685 | [326685-mineral-defense.json](./326685-mineral-defense.json) |
 | Mineral Madness | 265829 | [265829-mineral-madness.json](./265829-mineral-madness.json) |
@@ -19336,6 +19341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushishi: Amefuru Sato | 147012 | [147012-mushishi-amefuru-sato.json](./147012-mushishi-amefuru-sato.json) |
 | Mushiverse: Online Boardgame | 309446 | [309446-mushiverse-online-boardgame.json](./309446-mushiverse-online-boardgame.json) |
 | Mushoku Tensei: Game ni Nattemo Honki Dasu | 174711 | [174711-mushoku-tensei-game-ni-nattemo-honki-dasu.json](./174711-mushoku-tensei-game-ni-nattemo-honki-dasu.json) |
+| Mushoku Tensei: Jobless Reincarnation - Quest of Memories | 230619 | [230619-mushoku-tensei-jobless-reincarnation-quest-of-memories.json](./230619-mushoku-tensei-jobless-reincarnation-quest-of-memories.json) |
 | Mushroam | 348387 | [348387-mushroam.json](./348387-mushroam.json) |
 | Mushroom | 309382 | [309382-mushroom.json](./309382-mushroom.json) |
 | Mushroom Agent | 235795 | [235795-mushroom-agent.json](./235795-mushroom-agent.json) |
