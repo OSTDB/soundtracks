@@ -11749,6 +11749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Tiger | 295746 | [295746-hungry-tiger.json](./295746-hungry-tiger.json) |
 | Hungry Wolf | 189910 | [189910-hungry-wolf.json](./189910-hungry-wolf.json) |
 | HungryMaster | 254258 | [254258-hungrymaster.json](./254258-hungrymaster.json) |
+| Huni Kuin: Beya Xinã Bena | 226009 | [226009-huni-kuin-beya-xina-bena.json](./226009-huni-kuin-beya-xina-bena.json) |
 | Huni Kuin: Yube Baitana | 162625 | [162625-huni-kuin-yube-baitana.json](./162625-huni-kuin-yube-baitana.json) |
 | HunieCam Studio | 19847 | [19847-huniecam-studio.json](./19847-huniecam-studio.json) |
 | HuniePop | 9655 | [9655-huniepop.json](./9655-huniepop.json) |
