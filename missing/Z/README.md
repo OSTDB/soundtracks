@@ -1879,6 +1879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Survival Online | 157491 | [157491-zombie-survival-online.json](./157491-zombie-survival-online.json) |
 | Zombie Survival: The Walking Pandemic | 300830 | [300830-zombie-survival-the-walking-pandemic.json](./300830-zombie-survival-the-walking-pandemic.json) |
 | Zombie Survival: Wasteland | 233397 | [233397-zombie-survival-wasteland.json](./233397-zombie-survival-wasteland.json) |
+| Zombie Survivals 18+ | 238816 | [238816-zombie-survivals-18.json](./238816-zombie-survivals-18.json) |
 | Zombie Survivor | 261414 | [261414-zombie-survivor.json](./261414-zombie-survivor.json) |
 | Zombie Survivor | 360682 | [360682-zombie-survivor.json](./360682-zombie-survivor.json) |
 | Zombie Survivor: Undead City Attack | 262002 | [262002-zombie-survivor-undead-city-attack.json](./262002-zombie-survivor-undead-city-attack.json) |
