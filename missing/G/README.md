@@ -1884,6 +1884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden of the Atom | 384819 | [384819-garden-of-the-atom.json](./384819-garden-of-the-atom.json) |
 | Garden of the Greek Goddesses: Aphrodite, Artemis & Athena Love Story. | 370809 | [370809-garden-of-the-greek-goddesses-aphrodite-artemis-and-athena-love-story.json](./370809-garden-of-the-greek-goddesses-aphrodite-artemis-and-athena-love-story.json) |
 | Garden of the Greek Gods: Zeus, Poseidon & Hades Love Story | 370810 | [370810-garden-of-the-greek-gods-zeus-poseidon-and-hades-love-story.json](./370810-garden-of-the-greek-gods-zeus-poseidon-and-hades-love-story.json) |
+| Garden of the Mind | 212030 | [212030-garden-of-the-mind.json](./212030-garden-of-the-mind.json) |
 | Garden of the Sea | 336717 | [336717-garden-of-the-sea.json](./336717-garden-of-the-sea.json) |
 | Garden of the Sea VR | 119339 | [119339-garden-of-the-sea-vr.json](./119339-garden-of-the-sea-vr.json) |
 | Garden of Wandering Souls | 327174 | [327174-garden-of-wandering-souls.json](./327174-garden-of-wandering-souls.json) |
