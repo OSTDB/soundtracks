@@ -1809,6 +1809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Commander's Conquest | 366566 | [366566-captain-commanders-conquest.json](./366566-captain-commanders-conquest.json) |
 | Captain Commando | 19821 | [19821-captain-commando.json](./19821-captain-commando.json) |
 | Captain Contraband | 129201 | [129201-captain-contraband.json](./129201-captain-contraband.json) |
+| Captain Contraption's Chocolate Factory | 244544 | [244544-captain-contraptions-chocolate-factory.json](./244544-captain-contraptions-chocolate-factory.json) |
 | Captain Contraption's Safari Park | 386975 | [386975-captain-contraptions-safari-park.json](./386975-captain-contraptions-safari-park.json) |
 | Captain Cook: Word Puzzle | 126253 | [126253-captain-cook-word-puzzle.json](./126253-captain-cook-word-puzzle.json) |
 | Captain Corgi: Planetary Problem Solver | 369090 | [369090-captain-corgi-planetary-problem-solver.json](./369090-captain-corgi-planetary-problem-solver.json) |
@@ -2058,6 +2059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Dealer Driver | 207881 | [207881-car-dealer-driver.json](./207881-car-dealer-driver.json) |
 | Car Dealer Garage Simulator 2026 | 393297 | [393297-car-dealer-garage-simulator-2026.json](./393297-car-dealer-garage-simulator-2026.json) |
 | Car Dealer Simulator: Retro Car for Sale | 413362 | [413362-car-dealer-simulator-retro-car-for-sale.json](./413362-car-dealer-simulator-retro-car-for-sale.json) |
+| Car Dealer's Life | 244534 | [244534-car-dealers-life.json](./244534-car-dealers-life.json) |
 | Car Dealership Business Simulator | 336414 | [336414-car-dealership-business-simulator.json](./336414-car-dealership-business-simulator.json) |
 | Car Dealership Simulator | 216183 | [216183-car-dealership-simulator.json](./216183-car-dealership-simulator.json) |
 | Car Dealership Simulator 2 | 348687 | [348687-car-dealership-simulator-2.json](./348687-car-dealership-simulator-2.json) |
@@ -5288,6 +5290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centipede & Millipede | 74408 | [74408-centipede-and-millipede.json](./74408-centipede-and-millipede.json) |
 | Centipede Channel F | 311682 | [311682-centipede-channel-f.json](./311682-centipede-channel-f.json) |
 | Centipede Chaos | 124434 | [124434-centipede-chaos.json](./124434-centipede-chaos.json) |
+| Centipede Gun | 244551 | [244551-centipede-gun.json](./244551-centipede-gun.json) |
 | Centipede Swarm | 409115 | [409115-centipede-swarm.json](./409115-centipede-swarm.json) |
 | Centipede X | 356282 | [356282-centipede-x.json](./356282-centipede-x.json) |
 | Centipede: Evolved | 329639 | [329639-centipede-evolved.json](./329639-centipede-evolved.json) |
@@ -16929,6 +16932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crepitations | 275210 | [275210-crepitations.json](./275210-crepitations.json) |
 | Crescendo | 176855 | [176855-crescendo.json](./176855-crescendo.json) |
 | Crescendo Of Dreams + Surmounting Terror | 271490 | [271490-crescendo-of-dreams-surmounting-terror.json](./271490-crescendo-of-dreams-surmounting-terror.json) |
+| Crescent Arcania | 244550 | [244550-crescent-arcania.json](./244550-crescent-arcania.json) |
 | Crescent Bay | 87811 | [87811-crescent-bay.json](./87811-crescent-bay.json) |
 | Crescent Bloom | 215095 | [215095-crescent-bloom.json](./215095-crescent-bloom.json) |
 | Crescent Cauldron Cafe | 215517 | [215517-crescent-cauldron-cafe.json](./215517-crescent-cauldron-cafe.json) |
@@ -20025,6 +20029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Cycles | 39829 | [39829-cyber-cycles.json](./39829-cyber-cycles.json) |
 | Cyber Daisenryaku | 69002 | [69002-cyber-daisenryaku.json](./69002-cyber-daisenryaku.json) |
 | Cyber Defense 2088 | 154896 | [154896-cyber-defense-2088.json](./154896-cyber-defense-2088.json) |
+| Cyber Detective | 244570 | [244570-cyber-detective.json](./244570-cyber-detective.json) |
 | Cyber Diver | 176721 | [176721-cyber-diver.json](./176721-cyber-diver.json) |
 | Cyber Dodge | 42054 | [42054-cyber-dodge.json](./42054-cyber-dodge.json) |
 | Cyber Doll | 71716 | [71716-cyber-doll.json](./71716-cyber-doll.json) |
