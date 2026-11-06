@@ -5408,6 +5408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Rance | 37138 | [37138-sengoku-rance.json](./37138-sengoku-rance.json) |
 | Sengoku Rance: Limited Edition | 185689 | [185689-sengoku-rance-limited-edition.json](./185689-sengoku-rance-limited-edition.json) |
 | Sengoku Rance: Sanbiki ga Kittari Tsuitari Moyashitari - Slash! Thrust! Burn! | 259312 | [259312-sengoku-rance-sanbiki-ga-kittari-tsuitari-moyashitari-slash-thrust-burn.json](./259312-sengoku-rance-sanbiki-ga-kittari-tsuitari-moyashitari-slash-thrust-burn.json) |
+| Sengoku Shura Soul | 214813 | [214813-sengoku-shura-soul.json](./214813-sengoku-shura-soul.json) |
 | Sengoku Taisen | 393579 | [393579-sengoku-taisen.json](./393579-sengoku-taisen.json) |
 | Sengoku Tenka Touitsu | 69195 | [69195-sengoku-tenka-touitsu.json](./69195-sengoku-tenka-touitsu.json) |
 | Sengoku Turb | 246940 | [246940-sengoku-turb.json](./246940-sengoku-turb.json) |
@@ -7138,6 +7139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shall we date?: Pirates Treasured Love in the Ocean | 225665 | [225665-shall-we-date-pirates-treasured-love-in-the-ocean.json](./225665-shall-we-date-pirates-treasured-love-in-the-ocean.json) |
 | Shall we date?: Pretty Awesome | 225683 | [225683-shall-we-date-pretty-awesome.json](./225683-shall-we-date-pretty-awesome.json) |
 | Shall we date?: Rewind | 225682 | [225682-shall-we-date-rewind.json](./225682-shall-we-date-rewind.json) |
+| Shall we date?: The Niflheim | 214842 | [214842-shall-we-date-the-niflheim.json](./214842-shall-we-date-the-niflheim.json) |
 | Shall we date?: The World or You | 225681 | [225681-shall-we-date-the-world-or-you.json](./225681-shall-we-date-the-world-or-you.json) |
 | Shall We Date?: War of Prayers - Inori no Otome | 225662 | [225662-shall-we-date-war-of-prayers-inori-no-otome.json](./225662-shall-we-date-war-of-prayers-inori-no-otome.json) |
 | Shall we date?: We the Girls | 225671 | [225671-shall-we-date-we-the-girls.json](./225671-shall-we-date-we-the-girls.json) |
@@ -8570,6 +8572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinseiki Evangelion: Koutetsu no Girlfriend | 23953 | [23953-shinseiki-evangelion-koutetsu-no-girlfriend.json](./23953-shinseiki-evangelion-koutetsu-no-girlfriend.json) |
 | Shinseiki Evangelion: Typing E-Keikaku | 61671 | [61671-shinseiki-evangelion-typing-e-keikaku.json](./61671-shinseiki-evangelion-typing-e-keikaku.json) |
 | Shinseiki Evangelion: Typing Hokan Keikaku | 209939 | [209939-shinseiki-evangelion-typing-hokan-keikaku.json](./209939-shinseiki-evangelion-typing-hokan-keikaku.json) |
+| Shinseiki GPX Cyber Formula | 214835 | [214835-shinseiki-gpx-cyber-formula.json](./214835-shinseiki-gpx-cyber-formula.json) |
 | Shinseiki GPX Cyber Formula | 58063 | [58063-shinseiki-gpx-cyber-formula.json](./58063-shinseiki-gpx-cyber-formula.json) |
 | Shinseiki GPX Cyber Formula - Aratanaru Chousensha | 313049 | [313049-shinseiki-gpx-cyber-formula-aratanaru-chousensha.json](./313049-shinseiki-gpx-cyber-formula-aratanaru-chousensha.json) |
 | Shinseiki GPX Cyber Formula Sin Drei Plus | 112516 | [112516-shinseiki-gpx-cyber-formula-sin-drei-plus.json](./112516-shinseiki-gpx-cyber-formula-sin-drei-plus.json) |
@@ -15206,6 +15209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Zombies | 227491 | [227491-sniper-zombies.json](./227491-sniper-zombies.json) |
 | Sniper: Art of Victory | 16948 | [16948-sniper-art-of-victory.json](./16948-sniper-art-of-victory.json) |
 | Sniper: Elite Shooter Squad | 283222 | [283222-sniper-elite-shooter-squad.json](./283222-sniper-elite-shooter-squad.json) |
+| Sniper: Ghost Warrior | 214824 | [214824-sniper-ghost-warrior.json](./214824-sniper-ghost-warrior.json) |
 | Sniper: Ghost Warrior - Gold Edition | 25360 | [25360-sniper-ghost-warrior-gold-edition.json](./25360-sniper-ghost-warrior-gold-edition.json) |
 | Sniper: Ghost Warrior - Second Strike | 53635 | [53635-sniper-ghost-warrior-second-strike.json](./53635-sniper-ghost-warrior-second-strike.json) |
 | Sniper: Ghost Warrior 2 | 1368 | [1368-sniper-ghost-warrior-2.json](./1368-sniper-ghost-warrior-2.json) |
@@ -28591,6 +28595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuck Together | 159562 | [159562-stuck-together.json](./159562-stuck-together.json) |
 | Stuck! | 177537 | [177537-stuck.json](./177537-stuck.json) |
 | Stuck? | 176967 | [176967-stuck.json](./176967-stuck.json) |
+| Student Council Guys | 214841 | [214841-student-council-guys.json](./214841-student-council-guys.json) |
 | Student Council Leader Auriel | 247524 | [247524-student-council-leader-auriel.json](./247524-student-council-leader-auriel.json) |
 | Student Council President Shizuka: Undercover Investigation into Neglectful Men's School | 82614 | [82614-student-council-president-shizuka-undercover-investigation-into-neglectful-mens-school.json](./82614-student-council-president-shizuka-undercover-investigation-into-neglectful-mens-school.json) |
 | Student Transfer | 191892 | [191892-student-transfer.json](./191892-student-transfer.json) |
@@ -31678,6 +31683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. Special | 77228 | [77228-super-mario-bros-special.json](./77228-super-mario-bros-special.json) |
 | Super Mario Bros. Special Remastered | 378501 | [378501-super-mario-bros-special-remastered.json](./378501-super-mario-bros-special-remastered.json) |
 | Super Mario Bros. Square Root 5 | 245621 | [245621-super-mario-bros-square-root-5.json](./245621-super-mario-bros-square-root-5.json) |
+| Super Mario Bros. Star Scramble | 214815 | [214815-super-mario-bros-star-scramble.json](./214815-super-mario-bros-star-scramble.json) |
 | Super Mario Bros. Star Scramble 2: Ghost Island | 215251 | [215251-super-mario-bros-star-scramble-2-ghost-island.json](./215251-super-mario-bros-star-scramble-2-ghost-island.json) |
 | Super Mario Bros. Star Scramble DX | 265069 | [265069-super-mario-bros-star-scramble-dx.json](./265069-super-mario-bros-star-scramble-dx.json) |
 | Super Mario Bros. Ultra Deluxe | 313059 | [313059-super-mario-bros-ultra-deluxe.json](./313059-super-mario-bros-ultra-deluxe.json) |
@@ -33448,6 +33454,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperLite 1500 Series: Fishing Club - Hama no Tsuri-hen | 382974 | [382974-superlite-1500-series-fishing-club-hama-no-tsuri-hen.json](./382974-superlite-1500-series-fishing-club-hama-no-tsuri-hen.json) |
 | SuperLite 1500 Series: Kaiteiban Mark Yazaki no Seiyou Senseijutsu | 382823 | [382823-superlite-1500-series-kaiteiban-mark-yazaki-no-seiyou-senseijutsu.json](./382823-superlite-1500-series-kaiteiban-mark-yazaki-no-seiyou-senseijutsu.json) |
 | SuperLite 1500 Series: Lode Runner 2 | 382928 | [382928-superlite-1500-series-lode-runner-2.json](./382928-superlite-1500-series-lode-runner-2.json) |
+| SuperLite 1500 Series: Nankuro | 214863 | [214863-superlite-1500-series-nankuro.json](./214863-superlite-1500-series-nankuro.json) |
+| SuperLite 1500 Series: Nankuro 2 | 214864 | [214864-superlite-1500-series-nankuro-2.json](./214864-superlite-1500-series-nankuro-2.json) |
+| SuperLite 1500 Series: Nankuro 3 | 214865 | [214865-superlite-1500-series-nankuro-3.json](./214865-superlite-1500-series-nankuro-3.json) |
+| SuperLite 1500 Series: Nankuro 4 | 214866 | [214866-superlite-1500-series-nankuro-4.json](./214866-superlite-1500-series-nankuro-4.json) |
 | SuperLite 1500 Series: Oekaki Puzzle 1 | 216565 | [216565-superlite-1500-series-oekaki-puzzle-1.json](./216565-superlite-1500-series-oekaki-puzzle-1.json) |
 | SuperLite 1500 Series: Oekaki Puzzle 2 | 216566 | [216566-superlite-1500-series-oekaki-puzzle-2.json](./216566-superlite-1500-series-oekaki-puzzle-2.json) |
 | SuperLite 1500 Series: Oekaki Puzzle 3 | 216567 | [216567-superlite-1500-series-oekaki-puzzle-3.json](./216567-superlite-1500-series-oekaki-puzzle-3.json) |
@@ -34962,6 +34972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweeter Yesterday | 262146 | [262146-sweeter-yesterday.json](./262146-sweeter-yesterday.json) |
 | Sweetest Monster | 300720 | [300720-sweetest-monster.json](./300720-sweetest-monster.json) |
 | Sweetest Thing | 85412 | [85412-sweetest-thing.json](./85412-sweetest-thing.json) |
+| Sweetest Valentine | 214809 | [214809-sweetest-valentine.json](./214809-sweetest-valentine.json) |
 | Sweetheart | 415166 | [415166-sweetheart.json](./415166-sweetheart.json) |
 | SweetHex: Celestial Encounters | 197516 | [197516-sweethex-celestial-encounters.json](./197516-sweethex-celestial-encounters.json) |
 | Sweetie Candy Maze: Blackberry | 412383 | [412383-sweetie-candy-maze-blackberry.json](./412383-sweetie-candy-maze-blackberry.json) |
