@@ -4289,6 +4289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marmalade Boy | 202585 | [202585-marmalade-boy.json](./202585-marmalade-boy.json) |
 | Marmalade Boy | 38339 | [38339-marmalade-boy.json](./38339-marmalade-boy.json) |
 | Marmalade Boy Herpit | 395103 | [395103-marmalade-boy-herpit.json](./395103-marmalade-boy-herpit.json) |
+| Marmalade breakout | 234995 | [234995-marmalade-breakout.json](./234995-marmalade-breakout.json) |
 | Marmargee Fighter Girl vs. Zombies & Monsters! | 290797 | [290797-marmargee-fighter-girl-vs-zombies-and-monsters.json](./290797-marmargee-fighter-girl-vs-zombies-and-monsters.json) |
 | Marmelade | 311426 | [311426-marmelade.json](./311426-marmelade.json) |
 | Marmoset | 189110 | [189110-marmoset.json](./189110-marmoset.json) |
@@ -17936,6 +17937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse Corp. | 139692 | [139692-mouse-corp.json](./139692-mouse-corp.json) |
 | Mouse Dream | 166772 | [166772-mouse-dream.json](./166772-mouse-dream.json) |
 | Mouse Dreams | 27805 | [27805-mouse-dreams.json](./27805-mouse-dreams.json) |
+| Mouse Games | 234986 | [234986-mouse-games.json](./234986-mouse-games.json) |
 | Mouse Hero | 157716 | [157716-mouse-hero.json](./157716-mouse-hero.json) |
 | Mouse House | 66984 | [66984-mouse-house.json](./66984-mouse-house.json) |
 | Mouse Hunter | 152565 | [152565-mouse-hunter.json](./152565-mouse-hunter.json) |
