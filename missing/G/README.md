@@ -1770,6 +1770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garbage Take Out Day | 353942 | [353942-garbage-take-out-day.json](./353942-garbage-take-out-day.json) |
 | Garbage Truck Driving Simulator | 256561 | [256561-garbage-truck-driving-simulator.json](./256561-garbage-truck-driving-simulator.json) |
 | Garbage Truck Sim Driver Simulator 26 | 394477 | [394477-garbage-truck-sim-driver-simulator-26.json](./394477-garbage-truck-sim-driver-simulator-26.json) |
+| Garbage Truck Simulator | 234414 | [234414-garbage-truck-simulator.json](./234414-garbage-truck-simulator.json) |
 | Garbage Truck Simulator | 80448 | [80448-garbage-truck-simulator.json](./80448-garbage-truck-simulator.json) |
 | Garbage Truck: Austin, TX | 101041 | [101041-garbage-truck-austin-tx.json](./101041-garbage-truck-austin-tx.json) |
 | Garbage Truck: Brushy Pick Up | 87273 | [87273-garbage-truck-brushy-pick-up.json](./87273-garbage-truck-brushy-pick-up.json) |
@@ -7364,6 +7365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic Virtual Tabletop | 285676 | [285676-gothic-virtual-tabletop.json](./285676-gothic-virtual-tabletop.json) |
 | Gothic: Complete Collection | 203046 | [203046-gothic-complete-collection.json](./203046-gothic-complete-collection.json) |
 | Gothic: Playable Teaser | 333956 | [333956-gothic-playable-teaser.json](./333956-gothic-playable-teaser.json) |
+| Gothic: The Dark Secrets | 234383 | [234383-gothic-the-dark-secrets.json](./234383-gothic-the-dark-secrets.json) |
 | Gothic: Universe Edition | 53073 | [53073-gothic-universe-edition.json](./53073-gothic-universe-edition.json) |
 | Gothica: The Devil's Shadow | 217257 | [217257-gothica-the-devils-shadow.json](./217257-gothica-the-devils-shadow.json) |
 | Gothicc Breaker | 93744 | [93744-gothicc-breaker.json](./93744-gothicc-breaker.json) |
@@ -10981,6 +10983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns & Ammo: Point of Impact Reloaded | 60843 | [60843-guns-and-ammo-point-of-impact-reloaded.json](./60843-guns-and-ammo-point-of-impact-reloaded.json) |
 | Guns & Bots | 304906 | [304906-guns-and-bots.json](./304906-guns-and-bots.json) |
 | Guns & Dragons | 403118 | [403118-guns-and-dragons.json](./403118-guns-and-dragons.json) |
+| Guns & Fishes | 234403 | [234403-guns-and-fishes.json](./234403-guns-and-fishes.json) |
 | Guns & Notes | 81876 | [81876-guns-and-notes.json](./81876-guns-and-notes.json) |
 | Guns 30 | 198476 | [198476-guns-30.json](./198476-guns-30.json) |
 | Guns 4 Hire | 117728 | [117728-guns-4-hire.json](./117728-guns-4-hire.json) |
