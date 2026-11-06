@@ -2729,6 +2729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elmo's Deep Sea Adventure | 71513 | [71513-elmos-deep-sea-adventure.json](./71513-elmos-deep-sea-adventure.json) |
 | Elmo's Kangaroo of the damned: Punishment Edition | 171404 | [171404-elmos-kangaroo-of-the-damned-punishment-edition.json](./171404-elmos-kangaroo-of-the-damned-punishment-edition.json) |
 | Elmo's Monster Maker HD | 89732 | [89732-elmos-monster-maker-hd.json](./89732-elmos-monster-maker-hd.json) |
+| Elmo's Preschool | 201886 | [201886-elmos-preschool.json](./201886-elmos-preschool.json) |
 | Elmo's Reading Basics | 392088 | [392088-elmos-reading-basics.json](./392088-elmos-reading-basics.json) |
 | Elnark no Zaihou | 48507 | [48507-elnark-no-zaihou.json](./48507-elnark-no-zaihou.json) |
 | Elo 1100 Chess | 192404 | [192404-elo-1100-chess.json](./192404-elo-1100-chess.json) |
@@ -7772,6 +7773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exorcist | 200360 | [200360-exorcist.json](./200360-exorcist.json) |
 | Exorcist | 411051 | [411051-exorcist.json](./411051-exorcist.json) |
 | Exorcist 2: Crow Magic | 236845 | [236845-exorcist-2-crow-magic.json](./236845-exorcist-2-crow-magic.json) |
+| Exorcist 3: Inception of Darkness | 201905 | [201905-exorcist-3-inception-of-darkness.json](./201905-exorcist-3-inception-of-darkness.json) |
 | Exorcist Fairy | 164084 | [164084-exorcist-fairy.json](./164084-exorcist-fairy.json) |
 | Exorcist Hotline | 399270 | [399270-exorcist-hotline.json](./399270-exorcist-hotline.json) |
 | Exorcist II | 209181 | [209181-exorcist-ii.json](./209181-exorcist-ii.json) |
