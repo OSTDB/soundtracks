@@ -6391,6 +6391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexagonal Explods | 238729 | [238729-hexagonal-explods.json](./238729-hexagonal-explods.json) |
 | Hexagonal Tower | 195109 | [195109-hexagonal-tower.json](./195109-hexagonal-tower.json) |
 | Hexagoner | 286032 | [286032-hexagoner.json](./286032-hexagoner.json) |
+| Hexagonos | 230653 | [230653-hexagonos.json](./230653-hexagonos.json) |
 | Hexagons | 83179 | [83179-hexagons.json](./83179-hexagons.json) |
 | Hexagourds | 182893 | [182893-hexagourds.json](./182893-hexagourds.json) |
 | Hexagroove: Tactical DJ | 123323 | [123323-hexagroove-tactical-dj.json](./123323-hexagroove-tactical-dj.json) |
@@ -8473,6 +8474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey Camp - Goaltender | 114930 | [114930-hockey-camp-goaltender.json](./114930-hockey-camp-goaltender.json) |
 | Hockey Classic 16 | 175252 | [175252-hockey-classic-16.json](./175252-hockey-classic-16.json) |
 | Hockey Club | 361733 | [361733-hockey-club.json](./361733-hockey-club.json) |
+| Hockey de mesa | 230654 | [230654-hockey-de-mesa.json](./230654-hockey-de-mesa.json) |
 | Hockey Fight Pro | 102579 | [102579-hockey-fight-pro.json](./102579-hockey-fight-pro.json) |
 | Hockey Fights | 93559 | [93559-hockey-fights.json](./93559-hockey-fights.json) |
 | Hockey Hockey Club | 315992 | [315992-hockey-hockey-club.json](./315992-hockey-hockey-club.json) |
