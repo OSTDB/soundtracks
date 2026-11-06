@@ -3056,6 +3056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Frame: Maiden of Black Water | 152397 | [152397-fatal-frame-maiden-of-black-water.json](./152397-fatal-frame-maiden-of-black-water.json) |
 | Fatal Frame: Maiden of Black Water - 20th Anniversary Celebration DLC | 238335 | [238335-fatal-frame-maiden-of-black-water-20th-anniversary-celebration-dlc.json](./238335-fatal-frame-maiden-of-black-water-20th-anniversary-celebration-dlc.json) |
 | Fatal Frame: Maiden of Black Water - Digital Deluxe Edition | 188050 | [188050-fatal-frame-maiden-of-black-water-digital-deluxe-edition.json](./188050-fatal-frame-maiden-of-black-water-digital-deluxe-edition.json) |
+| Fatal Frame: Mask of the Lunar Eclipse - Digital Deluxe Edition | 237757 | [237757-fatal-frame-mask-of-the-lunar-eclipse-digital-deluxe-edition.json](./237757-fatal-frame-mask-of-the-lunar-eclipse-digital-deluxe-edition.json) |
 | Fatal Frontier 1869 | 396362 | [396362-fatal-frontier-1869.json](./396362-fatal-frontier-1869.json) |
 | Fatal Fumes | 72273 | [72273-fatal-fumes.json](./72273-fatal-fumes.json) |
 | Fatal Fury | 71128 | [71128-fatal-fury.json](./71128-fatal-fury.json) |
@@ -4221,6 +4222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiery Arrow | 257876 | [257876-fiery-arrow.json](./257876-fiery-arrow.json) |
 | Fiery Disaster | 31031 | [31031-fiery-disaster.json](./31031-fiery-disaster.json) |
 | Fiery Melody | 180094 | [180094-fiery-melody.json](./180094-fiery-melody.json) |
+| Fiery Rivaz | 237720 | [237720-fiery-rivaz.json](./237720-fiery-rivaz.json) |
 | Fiesta | 51217 | [51217-fiesta.json](./51217-fiesta.json) |
 | Fiestas del Pueblo | 214897 | [214897-fiestas-del-pueblo.json](./214897-fiestas-del-pueblo.json) |
 | Fiete Match | 175273 | [175273-fiete-match.json](./175273-fiete-match.json) |
@@ -8915,6 +8917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Truck Tycoon: Asian Cuisine - Complete Edition | 238046 | [238046-food-truck-tycoon-asian-cuisine-complete-edition.json](./238046-food-truck-tycoon-asian-cuisine-complete-edition.json) |
 | Food Truck Tycoon: Asian Cuisine - Deluxe Edition | 204297 | [204297-food-truck-tycoon-asian-cuisine-deluxe-edition.json](./204297-food-truck-tycoon-asian-cuisine-deluxe-edition.json) |
 | Food Truck Tycoon: Asian Cuisine - Expansion Pack | 238262 | [238262-food-truck-tycoon-asian-cuisine-expansion-pack.json](./238262-food-truck-tycoon-asian-cuisine-expansion-pack.json) |
+| Food Truck Tycoon: Asian Cuisine - Gold Edition | 237767 | [237767-food-truck-tycoon-asian-cuisine-gold-edition.json](./237767-food-truck-tycoon-asian-cuisine-gold-edition.json) |
 | Food Truck Tycoon: Asian Cuisine Expansion Pack 2 | 199855 | [199855-food-truck-tycoon-asian-cuisine-expansion-pack-2.json](./199855-food-truck-tycoon-asian-cuisine-expansion-pack-2.json) |
 | Food Truck Tycoon: Co-op Edition | 247590 | [247590-food-truck-tycoon-co-op-edition.json](./247590-food-truck-tycoon-co-op-edition.json) |
 | Food Truck Tycoon: Complete Edition | 199845 | [199845-food-truck-tycoon-complete-edition.json](./199845-food-truck-tycoon-complete-edition.json) |
@@ -9009,6 +9012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football | 418383 | [418383-football.json](./418383-football.json) |
 | Football (for the TI 99/4A) | 92702 | [92702-football-for-the-ti-99-4a.json](./92702-football-for-the-ti-99-4a.json) |
 | Football 2 | 225530 | [225530-football-2.json](./225530-football-2.json) |
+| Football 2: Breakthrough Gaming Arcade | 237722 | [237722-football-2-breakthrough-gaming-arcade.json](./237722-football-2-breakthrough-gaming-arcade.json) |
 | Football 2019 | 220064 | [220064-football-2019.json](./220064-football-2019.json) |
 | Football 2024 Journey | 305408 | [305408-football-2024-journey.json](./305408-football-2024-journey.json) |
 | Football Academy | 124015 | [124015-football-academy.json](./124015-football-academy.json) |
