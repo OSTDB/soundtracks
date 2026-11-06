@@ -1233,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oha Suta Dance Dance Revolution | 245658 | [245658-oha-suta-dance-dance-revolution.json](./245658-oha-suta-dance-dance-revolution.json) |
 | Oha Suta Dance Dance Revolution GB | 246126 | [246126-oha-suta-dance-dance-revolution-gb.json](./246126-oha-suta-dance-dance-revolution-gb.json) |
 | Oha Suta: Yama-chan & Raymond | 228627 | [228627-oha-suta-yama-chan-and-raymond.json](./228627-oha-suta-yama-chan-and-raymond.json) |
+| Ohana Island: Blast & Build | 242318 | [242318-ohana-island-blast-and-build.json](./242318-ohana-island-blast-and-build.json) |
 | Ohanabatake no Flore | 332418 | [332418-ohanabatake-no-flore.json](./332418-ohanabatake-no-flore.json) |
 | Ohanaya-san Monogatari GBA | 49740 | [49740-ohanaya-san-monogatari-gba.json](./49740-ohanaya-san-monogatari-gba.json) |
 | Oharion | 413071 | [413071-oharion.json](./413071-oharion.json) |
