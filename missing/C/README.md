@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.H.A.I.N. | 140652 | [140652-c-h-a-i-n.json](./140652-c-h-a-i-n.json) |
 | C.H.A.I.N.G.E.D. | 252190 | [252190-c-h-a-i-n-g-e-d.json](./252190-c-h-a-i-n-g-e-d.json) |
 | C.H.A.O.S Tournament | 117726 | [117726-c-h-a-o-s-tournament.json](./117726-c-h-a-o-s-tournament.json) |
+| C.H.A.O.S. | 211490 | [211490-c-h-a-o-s.json](./211490-c-h-a-o-s.json) |
 | C.H.A.S.E.D. | 132413 | [132413-c-h-a-s-e-d.json](./132413-c-h-a-s-e-d.json) |
 | C.I.E.B The Backrooms Project | 265402 | [265402-c-i-e-b-the-backrooms-project.json](./265402-c-i-e-b-the-backrooms-project.json) |
 | C.I.T.Y. 2000 | 70022 | [70022-c-i-t-y-2000.json](./70022-c-i-t-y-2000.json) |
@@ -1129,6 +1130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campoca | 384005 | [384005-campoca.json](./384005-campoca.json) |
 | Camps | 293469 | [293469-camps.json](./293469-camps.json) |
 | Campsite Hustle | 373033 | [373033-campsite-hustle.json](./373033-campsite-hustle.json) |
+| Campsite Simulator | 211486 | [211486-campsite-simulator.json](./211486-campsite-simulator.json) |
 | Campus | 24998 | [24998-campus.json](./24998-campus.json) |
 | Campus Confidential | 384175 | [384175-campus-confidential.json](./384175-campus-confidential.json) |
 | Campus Fantasy | 329338 | [329338-campus-fantasy.json](./329338-campus-fantasy.json) |
@@ -1386,6 +1388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Stripe: Minarai Tenshi | 283327 | [283327-candy-stripe-minarai-tenshi.json](./283327-candy-stripe-minarai-tenshi.json) |
 | Candy Sugar Drop | 233475 | [233475-candy-sugar-drop.json](./233475-candy-sugar-drop.json) |
 | Candy Sugar Kingdom | 63029 | [63029-candy-sugar-kingdom.json](./63029-candy-sugar-kingdom.json) |
+| Candy Sweet | 211487 | [211487-candy-sweet.json](./211487-candy-sweet.json) |
 | Candy Thieves: Tale of Gnomes | 90577 | [90577-candy-thieves-tale-of-gnomes.json](./90577-candy-thieves-tale-of-gnomes.json) |
 | Candy Toys | 77762 | [77762-candy-toys.json](./77762-candy-toys.json) |
 | Candy Trail | 359335 | [359335-candy-trail.json](./359335-candy-trail.json) |
@@ -1445,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannibal Island: Survival | 266780 | [266780-cannibal-island-survival.json](./266780-cannibal-island-survival.json) |
 | Cannibal Lottery | 113571 | [113571-cannibal-lottery.json](./113571-cannibal-lottery.json) |
 | Cannibal Tales | 254001 | [254001-cannibal-tales.json](./254001-cannibal-tales.json) |
+| Cannibals | 211488 | [211488-cannibals.json](./211488-cannibals.json) |
 | Cannibals and Missionaries | 355524 | [355524-cannibals-and-missionaries.json](./355524-cannibals-and-missionaries.json) |
 | Cannon | 166034 | [166034-cannon.json](./166034-cannon.json) |
 | Cannon | 178038 | [178038-cannon.json](./178038-cannon.json) |
@@ -1722,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capitalism Lab | 27295 | [27295-capitalism-lab.json](./27295-capitalism-lab.json) |
 | Capitalism Plus | 9209 | [9209-capitalism-plus.json](./9209-capitalism-plus.json) |
 | Capitalist Misadventures | 358290 | [358290-capitalist-misadventures.json](./358290-capitalist-misadventures.json) |
+| Capitals | 211476 | [211476-capitals.json](./211476-capitals.json) |
 | Capitals | 60074 | [60074-capitals.json](./60074-capitals.json) |
 | Capitals Quizzer | 89582 | [89582-capitals-quizzer.json](./89582-capitals-quizzer.json) |
 | Capitals Quizzer: Countries Mode | 257440 | [257440-capitals-quizzer-countries-mode.json](./257440-capitals-quizzer-countries-mode.json) |
@@ -2479,6 +2484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardbot | 159819 | [159819-cardbot.json](./159819-cardbot.json) |
 | Cardbound Heroes | 399138 | [399138-cardbound-heroes.json](./399138-cardbound-heroes.json) |
 | Cardburners | 346229 | [346229-cardburners.json](./346229-cardburners.json) |
+| Cardbuster | 211477 | [211477-cardbuster.json](./211477-cardbuster.json) |
 | Cardcaptor Sakura: Clow Card Magic | 69577 | [69577-cardcaptor-sakura-clow-card-magic.json](./69577-cardcaptor-sakura-clow-card-magic.json) |
 | Cardcaptor Sakura: Happiness Memories | 107654 | [107654-cardcaptor-sakura-happiness-memories.json](./107654-cardcaptor-sakura-happiness-memories.json) |
 | Cardcaptor Sakura: Memory Key | 316006 | [316006-cardcaptor-sakura-memory-key.json](./316006-cardcaptor-sakura-memory-key.json) |
@@ -3168,6 +3174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CarX Street | 227960 | [227960-carx-street.json](./227960-carx-street.json) |
 | CarX Street: Sunset Speedway | 315228 | [315228-carx-street-sunset-speedway.json](./315228-carx-street-sunset-speedway.json) |
 | CaS-Puz: Camera Surface Puzzle | 261649 | [261649-cas-puz-camera-surface-puzzle.json](./261649-cas-puz-camera-surface-puzzle.json) |
+| Casa De Diamantes | 211478 | [211478-casa-de-diamantes.json](./211478-casa-de-diamantes.json) |
 | Casa dos Artistas | 163701 | [163701-casa-dos-artistas.json](./163701-casa-dos-artistas.json) |
 | Casa dos Ossos | 300054 | [300054-casa-dos-ossos.json](./300054-casa-dos-ossos.json) |
 | Casablanca ni Ai wo: Satsujinsha wa Jikuu o Koete | 97461 | [97461-casablanca-ni-ai-wo-satsujinsha-wa-jikuu-o-koete.json](./97461-casablanca-ni-ai-wo-satsujinsha-wa-jikuu-o-koete.json) |
@@ -3200,6 +3207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Case #9 | 74236 | [74236-case-9.json](./74236-case-9.json) |
 | Case 00: The Cannibal Boy | 150093 | [150093-case-00-the-cannibal-boy.json](./150093-case-00-the-cannibal-boy.json) |
 | Case 02: Paranormal Evil | 168577 | [168577-case-02-paranormal-evil.json](./168577-case-02-paranormal-evil.json) |
+| Case 03: True Cannibal Boy | 211479 | [211479-case-03-true-cannibal-boy.json](./211479-case-03-true-cannibal-boy.json) |
 | Case 1963 | 389678 | [389678-case-1963.json](./389678-case-1963.json) |
 | Case 2: Animatronics Survival | 99300 | [99300-case-2-animatronics-survival.json](./99300-case-2-animatronics-survival.json) |
 | Case 42: The Redwood Files | 370167 | [370167-case-42-the-redwood-files.json](./370167-case-42-the-redwood-files.json) |
@@ -4103,6 +4111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Search in Medieval Times | 246839 | [246839-cat-search-in-medieval-times.json](./246839-cat-search-in-medieval-times.json) |
 | Cat Search in The Wild West | 270526 | [270526-cat-search-in-the-wild-west.json](./270526-cat-search-in-the-wild-west.json) |
 | Cat Secretary | 292419 | [292419-cat-secretary.json](./292419-cat-secretary.json) |
+| Cat Seeker | 211492 | [211492-cat-seeker.json](./211492-cat-seeker.json) |
 | Cat Short Way | 296510 | [296510-cat-short-way.json](./296510-cat-short-way.json) |
 | Cat Sim Online: Play With Cats | 103863 | [103863-cat-sim-online-play-with-cats.json](./103863-cat-sim-online-play-with-cats.json) |
 | Cat Simulator | 18014 | [18014-cat-simulator.json](./18014-cat-simulator.json) |
@@ -4314,6 +4323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catbo | 311477 | [311477-catbo.json](./311477-catbo.json) |
 | CatBox | 273761 | [273761-catbox.json](./273761-catbox.json) |
 | Catboy Aim Trainer | 338497 | [338497-catboy-aim-trainer.json](./338497-catboy-aim-trainer.json) |
+| Catboy Crazy | 211489 | [211489-catboy-crazy.json](./211489-catboy-crazy.json) |
 | CatboyZoom | 301078 | [301078-catboyzoom.json](./301078-catboyzoom.json) |
 | CatBun Idle | 405625 | [405625-catbun-idle.json](./405625-catbun-idle.json) |
 | Catburglar | 110894 | [110894-catburglar.json](./110894-catburglar.json) |
@@ -5727,6 +5737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champion Baseball | 388244 | [388244-champion-baseball.json](./388244-champion-baseball.json) |
 | Champion Baseball | 6084 | [6084-champion-baseball.json](./6084-champion-baseball.json) |
 | Champion Baseball 2 | 313578 | [313578-champion-baseball-2.json](./313578-champion-baseball-2.json) |
+| Champion Battlegrounds | 211491 | [211491-champion-battlegrounds.json](./211491-champion-battlegrounds.json) |
 | Champion Billiards | 6085 | [6085-champion-billiards.json](./6085-champion-billiards.json) |
 | Champion Boxing | 6086 | [6086-champion-boxing.json](./6086-champion-boxing.json) |
 | Champion Cup Goal | 245185 | [245185-champion-cup-goal.json](./245185-champion-cup-goal.json) |
