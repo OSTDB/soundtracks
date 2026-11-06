@@ -943,6 +943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paleo: Rising Town | 139820 | [139820-paleo-rising-town.json](./139820-paleo-rising-town.json) |
 | Paleocalypse | 90217 | [90217-paleocalypse.json](./90217-paleocalypse.json) |
 | Paleon | 148991 | [148991-paleon.json](./148991-paleon.json) |
+| Paleophage | 236601 | [236601-paleophage.json](./236601-paleophage.json) |
 | Palesuckers | 268968 | [268968-palesuckers.json](./268968-palesuckers.json) |
 | Paletta | 133822 | [133822-paletta.json](./133822-paletta.json) |
 | Palette | 62668 | [62668-palette.json](./62668-palette.json) |
@@ -2917,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Sin: Greed | 107734 | [107734-path-of-sin-greed.json](./107734-path-of-sin-greed.json) |
 | Path of Soul | 258768 | [258768-path-of-soul.json](./258768-path-of-soul.json) |
 | Path of Survival | 412274 | [412274-path-of-survival.json](./412274-path-of-survival.json) |
+| Path of Survivors | 236597 | [236597-path-of-survivors.json](./236597-path-of-survivors.json) |
 | Path of Tengri | 202716 | [202716-path-of-tengri.json](./202716-path-of-tengri.json) |
 | Path of Thalanos | 123883 | [123883-path-of-thalanos.json](./123883-path-of-thalanos.json) |
 | Path of the Abyss | 216571 | [216571-path-of-the-abyss.json](./216571-path-of-the-abyss.json) |
@@ -5641,6 +5643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photo Girls: Raw Photo | 399784 | [399784-photo-girls-raw-photo.json](./399784-photo-girls-raw-photo.json) |
 | Photo Hunt - Spot the Differences | 104727 | [104727-photo-hunt-spot-the-differences.json](./104727-photo-hunt-spot-the-differences.json) |
 | Photo Kano | 77420 | [77420-photo-kano.json](./77420-photo-kano.json) |
+| Photo King | 236600 | [236600-photo-king.json](./236600-photo-king.json) |
 | Photo Phantasy | 47959 | [47959-photo-phantasy.json](./47959-photo-phantasy.json) |
 | Photo Phantasy: Spot the Differences | 58128 | [58128-photo-phantasy-spot-the-differences.json](./58128-photo-phantasy-spot-the-differences.json) |
 | Photo Quiz: 4 pics, 1 thing in common - what’s the word? | 232568 | [232568-photo-quiz-4-pics-1-thing-in-common-what-s-the-word.json](./232568-photo-quiz-4-pics-1-thing-in-common-what-s-the-word.json) |
