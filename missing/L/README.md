@@ -6567,6 +6567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loathsome Cleft | 313034 | [313034-loathsome-cleft.json](./313034-loathsome-cleft.json) |
 | Lobber | 257987 | [257987-lobber.json](./257987-lobber.json) |
 | Lobby Cam by Bryn Oh | 235468 | [235468-lobby-cam-by-bryn-oh.json](./235468-lobby-cam-by-bryn-oh.json) |
+| Lobby Loitering | 244006 | [244006-lobby-loitering.json](./244006-lobby-loitering.json) |
 | Lober Lobe | 311475 | [311475-lober-lobe.json](./311475-lober-lobe.json) |
 | Lobi y la Caza del Tesoro | 323770 | [323770-lobi-y-la-caza-del-tesoro.json](./323770-lobi-y-la-caza-del-tesoro.json) |
 | Lobo | 274668 | [274668-lobo.json](./274668-lobo.json) |
@@ -7796,6 +7797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Angel | 143466 | [143466-lost-angel.json](./143466-lost-angel.json) |
 | Lost Artifacts | 83182 | [83182-lost-artifacts.json](./83182-lost-artifacts.json) |
 | Lost Artifacts: Frozen Queen | 123484 | [123484-lost-artifacts-frozen-queen.json](./123484-lost-artifacts-frozen-queen.json) |
+| Lost Artifacts: Mysterious Book | 244020 | [244020-lost-artifacts-mysterious-book.json](./244020-lost-artifacts-mysterious-book.json) |
 | Lost Artifacts: Soulstone | 113320 | [113320-lost-artifacts-soulstone.json](./113320-lost-artifacts-soulstone.json) |
 | Lost Artifacts: The Ghost of Florence | 420583 | [420583-lost-artifacts-the-ghost-of-florence.json](./420583-lost-artifacts-the-ghost-of-florence.json) |
 | Lost Artifacts: The Ghost of Florence - Collector's Edition | 378352 | [378352-lost-artifacts-the-ghost-of-florence-collectors-edition.json](./378352-lost-artifacts-the-ghost-of-florence-collectors-edition.json) |
@@ -7910,6 +7912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Empire: Immortals | 21470 | [21470-lost-empire-immortals.json](./21470-lost-empire-immortals.json) |
 | Lost Entry | 395746 | [395746-lost-entry.json](./395746-lost-entry.json) |
 | Lost Epic | 150168 | [150168-lost-epic.json](./150168-lost-epic.json) |
+| Lost Epic: Premium Edition | 244049 | [244049-lost-epic-premium-edition.json](./244049-lost-epic-premium-edition.json) |
 | Lost Episodes Alone | 388365 | [388365-lost-episodes-alone.json](./388365-lost-episodes-alone.json) |
 | Lost Ethereal | 177930 | [177930-lost-ethereal.json](./177930-lost-ethereal.json) |
 | Lost Everything: Chapter 1 | 299161 | [299161-lost-everything-chapter-1.json](./299161-lost-everything-chapter-1.json) |
@@ -9751,6 +9754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunark | 119622 | [119622-lunark.json](./119622-lunark.json) |
 | Lunarrota | 198483 | [198483-lunarrota.json](./198483-lunarrota.json) |
 | Lunars | 217321 | [217321-lunars.json](./217321-lunars.json) |
+| Lunarwardens | 244056 | [244056-lunarwardens.json](./244056-lunarwardens.json) |
 | Lunatic | 141184 | [141184-lunatic.json](./141184-lunatic.json) |
 | Lunatic | 208651 | [208651-lunatic.json](./208651-lunatic.json) |
 | Lunatic Dawn | 66183 | [66183-lunatic-dawn.json](./66183-lunatic-dawn.json) |
