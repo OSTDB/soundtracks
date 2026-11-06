@@ -7764,6 +7764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pit-Fighter | 374990 | [374990-pit-fighter.json](./374990-pit-fighter.json) |
 | Pit-Fighter/Super Space Invaders | 78567 | [78567-pit-fighter-super-space-invaders.json](./78567-pit-fighter-super-space-invaders.json) |
 | Pit: The Bite-Sized Shooter | 331721 | [331721-pit-the-bite-sized-shooter.json](./331721-pit-the-bite-sized-shooter.json) |
+| Pitapat-Beat | 202908 | [202908-pitapat-beat.json](./202908-pitapat-beat.json) |
 | Pitball | 20723 | [20723-pitball.json](./20723-pitball.json) |
 | Pitball: Winter Waifus | 239218 | [239218-pitball-winter-waifus.json](./239218-pitball-winter-waifus.json) |
 | PitBots | 149895 | [149895-pitbots.json](./149895-pitbots.json) |
@@ -11188,6 +11189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Hyper Emerald | 397757 | [397757-pokemon-hyper-emerald.json](./397757-pokemon-hyper-emerald.json) |
 | Pokémon I Choose You Challenge | 198863 | [198863-pokemon-i-choose-you-challenge.json](./198863-pokemon-i-choose-you-challenge.json) |
 | Pokémon Iberia | 145370 | [145370-pokemon-iberia.json](./145370-pokemon-iberia.json) |
+| Pokémon Inclement Emerald | 202888 | [202888-pokemon-inclement-emerald.json](./202888-pokemon-inclement-emerald.json) |
 | Pokémon Infinite Fusion | 143761 | [143761-pokemon-infinite-fusion.json](./143761-pokemon-infinite-fusion.json) |
 | Pokémon Infinite Fusion 2: Hoenn | 406249 | [406249-pokemon-infinite-fusion-2-hoenn.json](./406249-pokemon-infinite-fusion-2-hoenn.json) |
 | Pokémon Infinite Heardle | 283399 | [283399-pokemon-infinite-heardle.json](./283399-pokemon-infinite-heardle.json) |
