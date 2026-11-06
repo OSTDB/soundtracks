@@ -2148,6 +2148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon a Time: Baba Yaga | 14785 | [14785-once-upon-a-time-baba-yaga.json](./14785-once-upon-a-time-baba-yaga.json) |
 | Once Upon A Time: Little Red Riding Hood | 57574 | [57574-once-upon-a-time-little-red-riding-hood.json](./57574-once-upon-a-time-little-red-riding-hood.json) |
 | Once Upon a Time... Life: Origins | 212171 | [212171-once-upon-a-time-life-origins.json](./212171-once-upon-a-time-life-origins.json) |
+| Once Upon a Tower | 239397 | [239397-once-upon-a-tower.json](./239397-once-upon-a-tower.json) |
 | Once Upon an All Hallow's Eve | 29718 | [29718-once-upon-an-all-hallows-eve.json](./29718-once-upon-an-all-hallows-eve.json) |
 | Once Upon an Electric Dream | 132802 | [132802-once-upon-an-electric-dream.json](./132802-once-upon-an-electric-dream.json) |
 | Once Upon an Island | 344857 | [344857-once-upon-an-island.json](./344857-once-upon-an-island.json) |
