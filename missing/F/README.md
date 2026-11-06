@@ -1901,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Forest | 372473 | [372473-fantasy-forest.json](./372473-fantasy-forest.json) |
 | Fantasy Forest Solitaire | 386128 | [386128-fantasy-forest-solitaire.json](./386128-fantasy-forest-solitaire.json) |
 | Fantasy Friends | 138035 | [138035-fantasy-friends.json](./138035-fantasy-friends.json) |
+| Fantasy Friends Collection | 218221 | [218221-fantasy-friends-collection.json](./218221-fantasy-friends-collection.json) |
 | Fantasy Friends: Dream Worlds | 314998 | [314998-fantasy-friends-dream-worlds.json](./314998-fantasy-friends-dream-worlds.json) |
 | Fantasy Friends: Under the Sea | 153817 | [153817-fantasy-friends-under-the-sea.json](./153817-fantasy-friends-under-the-sea.json) |
 | Fantasy Games | 319578 | [319578-fantasy-games.json](./319578-fantasy-games.json) |
@@ -4056,6 +4057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fever: Fight the Fever | 155837 | [155837-fever-fight-the-fever.json](./155837-fever-fight-the-fever.json) |
 | Feverdream: Rainbow Chaser | 333985 | [333985-feverdream-rainbow-chaser.json](./333985-feverdream-rainbow-chaser.json) |
 | Fevered Fantasy | 392308 | [392308-fevered-fantasy.json](./392308-fevered-fantasy.json) |
+| Feverfew | 218206 | [218206-feverfew.json](./218206-feverfew.json) |
 | Few Nights More | 147351 | [147351-few-nights-more.json](./147351-few-nights-more.json) |
 | Few Nights More: Genesis | 278940 | [278940-few-nights-more-genesis.json](./278940-few-nights-more-genesis.json) |
 | Few Shall Return | 337777 | [337777-few-shall-return.json](./337777-few-shall-return.json) |
@@ -4716,6 +4718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | File Tricks | 372719 | [372719-file-tricks.json](./372719-file-tricks.json) |
 | File://maniac | 118374 | [118374-file-maniac.json](./118374-file-maniac.json) |
 | FileKiller | 294215 | [294215-filekiller.json](./294215-filekiller.json) |
+| Filing Cistem | 218207 | [218207-filing-cistem.json](./218207-filing-cistem.json) |
 | Filiy Eclipse | 334597 | [334597-filiy-eclipse.json](./334597-filiy-eclipse.json) |
 | Fill & Cross: Christmas Riddles | 169788 | [169788-fill-and-cross-christmas-riddles.json](./169788-fill-and-cross-christmas-riddles.json) |
 | Fill & Cross: Pirate Riddles | 155013 | [155013-fill-and-cross-pirate-riddles.json](./155013-fill-and-cross-pirate-riddles.json) |
@@ -9048,6 +9051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foot2Rue Nicolas Anelka | 66988 | [66988-foot2rue-nicolas-anelka.json](./66988-foot2rue-nicolas-anelka.json) |
 | Footage | 302930 | [302930-footage.json](./302930-footage.json) |
 | Footage | 309453 | [309453-footage.json](./309453-footage.json) |
+| Footage 1985 | 218187 | [218187-footage-1985.json](./218187-footage-1985.json) |
 | Footage of the Battle | 283852 | [283852-footage-of-the-battle.json](./283852-footage-of-the-battle.json) |
 | Football | 115293 | [115293-football.json](./115293-football.json) |
 | Football | 131533 | [131533-football.json](./131533-football.json) |
@@ -9389,6 +9393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Political Lovers, a Little Utopia Sketch | 128612 | [128612-for-political-lovers-a-little-utopia-sketch.json](./128612-for-political-lovers-a-little-utopia-sketch.json) |
 | For Rent: Haunted House | 83600 | [83600-for-rent-haunted-house.json](./83600-for-rent-haunted-house.json) |
 | For Rest | 194376 | [194376-for-rest.json](./194376-for-rest.json) |
+| For Rest: Healing in Forest | 218208 | [218208-for-rest-healing-in-forest.json](./218208-for-rest-healing-in-forest.json) |
 | For Runner Night | 195720 | [195720-for-runner-night.json](./195720-for-runner-night.json) |
 | For Sale | 328269 | [328269-for-sale.json](./328269-for-sale.json) |
 | For Sparta | 144127 | [144127-for-sparta.json](./144127-for-sparta.json) |
