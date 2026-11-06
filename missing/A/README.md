@@ -2644,6 +2644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aceonline: DuelX | 95871 | [95871-aceonline-duelx.json](./95871-aceonline-duelx.json) |
 | Acephalic | 323622 | [323622-acephalic.json](./323622-acephalic.json) |
 | Acephalus | 139167 | [139167-acephalus.json](./139167-acephalus.json) |
+| Acerte o alvo | 230636 | [230636-acerte-o-alvo.json](./230636-acerte-o-alvo.json) |
 | Aces & Adventures | 203609 | [203609-aces-and-adventures.json](./203609-aces-and-adventures.json) |
 | Aces Gin Rummy | 70896 | [70896-aces-gin-rummy.json](./70896-aces-gin-rummy.json) |
 | Aces High | 91371 | [91371-aces-high.json](./91371-aces-high.json) |
@@ -11188,6 +11189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ao Oni | 46941 | [46941-ao-oni.json](./46941-ao-oni.json) |
 | Ao Oni 2 | 54708 | [54708-ao-oni-2.json](./54708-ao-oni-2.json) |
 | Ao Oni 3 | 137259 | [137259-ao-oni-3.json](./137259-ao-oni-3.json) |
+| Ao Oni 3D | 230627 | [230627-ao-oni-3d.json](./230627-ao-oni-3d.json) |
 | Ao Oni R | 320006 | [320006-ao-oni-r.json](./320006-ao-oni-r.json) |
 | Ao Oni X | 313275 | [313275-ao-oni-x.json](./313275-ao-oni-x.json) |
 | AO Tennis | 76726 | [76726-ao-tennis.json](./76726-ao-tennis.json) |
@@ -11813,6 +11815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquadelic GT | 17807 | [17807-aquadelic-gt.json](./17807-aquadelic-gt.json) |
 | Aquadine | 143584 | [143584-aquadine.json](./143584-aquadine.json) |
 | AquaDream | 330146 | [330146-aquadream.json](./330146-aquadream.json) |
+| Aquaduto | 230637 | [230637-aquaduto.json](./230637-aquaduto.json) |
 | AquaFantasia | 297786 | [297786-aquafantasia.json](./297786-aquafantasia.json) |
 | AquaHero | 237665 | [237665-aquahero.json](./237665-aquahero.json) |
 | Aqualife | 50021 | [50021-aqualife.json](./50021-aqualife.json) |
@@ -14120,6 +14123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ARPventure | 349649 | [349649-arpventure.json](./349649-arpventure.json) |
 | Arq Of The Abyss | 379085 | [379085-arq-of-the-abyss.json](./379085-arq-of-the-abyss.json) |
 | Arque Skies | 120537 | [120537-arque-skies.json](./120537-arque-skies.json) |
+| Arqueiro | 230638 | [230638-arqueiro.json](./230638-arqueiro.json) |
 | Arquelphos | 299803 | [299803-arquelphos.json](./299803-arquelphos.json) |
 | Arran: The Book of Heroes | 172519 | [172519-arran-the-book-of-heroes.json](./172519-arran-the-book-of-heroes.json) |
 | Arranged | 118798 | [118798-arranged.json](./118798-arranged.json) |
@@ -16180,6 +16184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atama no Kaiten no Training: Rubik's Cube & Chou Yuumei Puzzle Tachi | 269564 | [269564-atama-no-kaiten-no-training-rubiks-cube-and-chou-yuumei-puzzle-tachi.json](./269564-atama-no-kaiten-no-training-rubiks-cube-and-chou-yuumei-puzzle-tachi.json) |
 | Atama wo Kitaete Asobu Taisen Yajirushi Puzzle: Puppy Inu Vector One | 122991 | [122991-atama-wo-kitaete-asobu-taisen-yajirushi-puzzle-puppy-inu-vector-one.json](./122991-atama-wo-kitaete-asobu-taisen-yajirushi-puzzle-puppy-inu-vector-one.json) |
 | Atan | 283967 | [283967-atan.json](./283967-atan.json) |
+| Ataque dos vermes | 230639 | [230639-ataque-dos-vermes.json](./230639-ataque-dos-vermes.json) |
 | Ataque Marino | 113459 | [113459-ataque-marino.json](./113459-ataque-marino.json) |
 | Atarayo no Kanojo | 370558 | [370558-atarayo-no-kanojo.json](./370558-atarayo-no-kanojo.json) |
 | Atari | 220069 | [220069-atari.json](./220069-atari.json) |
@@ -17640,6 +17645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aventura de Luigi | 322003 | [322003-aventura-de-luigi.json](./322003-aventura-de-luigi.json) |
 | Aventura na Selva com Gilberto Barros | 145386 | [145386-aventura-na-selva-com-gilberto-barros.json](./145386-aventura-na-selva-com-gilberto-barros.json) |
 | Aventuras en la Manigua | 317190 | [317190-aventuras-en-la-manigua.json](./317190-aventuras-en-la-manigua.json) |
+| Aventuras na floresta | 230640 | [230640-aventuras-na-floresta.json](./230640-aventuras-na-floresta.json) |
 | Aventuras na Selva | 215309 | [215309-aventuras-na-selva.json](./215309-aventuras-na-selva.json) |
 | Avenue Escape | 390485 | [390485-avenue-escape.json](./390485-avenue-escape.json) |
 | Avenue Flo | 18878 | [18878-avenue-flo.json](./18878-avenue-flo.json) |
