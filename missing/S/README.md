@@ -11894,6 +11894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skelethrone: The Chronicles of Ericona | 228288 | [228288-skelethrone-the-chronicles-of-ericona.json](./228288-skelethrone-the-chronicles-of-ericona.json) |
 | Skelethrone: The Chronicles of Ericona - Complete Edition | 340744 | [340744-skelethrone-the-chronicles-of-ericona-complete-edition.json](./340744-skelethrone-the-chronicles-of-ericona-complete-edition.json) |
 | Skelethrone: The Chronicles of Ericona - The Jewel in the Skull | 343209 | [343209-skelethrone-the-chronicles-of-ericona-the-jewel-in-the-skull.json](./343209-skelethrone-the-chronicles-of-ericona-the-jewel-in-the-skull.json) |
+| Skelethrone: The Prey | 234405 | [234405-skelethrone-the-prey.json](./234405-skelethrone-the-prey.json) |
 | Skeleton Attack: Nightmare Awaken | 216739 | [216739-skeleton-attack-nightmare-awaken.json](./216739-skeleton-attack-nightmare-awaken.json) |
 | Skeleton Boomerang | 44177 | [44177-skeleton-boomerang.json](./44177-skeleton-boomerang.json) |
 | Skeleton Bros | 280042 | [280042-skeleton-bros.json](./280042-skeleton-bros.json) |
@@ -16568,6 +16569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire: Ultimate Collection | 66691 | [66691-solitaire-ultimate-collection.json](./66691-solitaire-ultimate-collection.json) |
 | Solitaire: Victorian Picnic | 99986 | [99986-solitaire-victorian-picnic.json](./99986-solitaire-victorian-picnic.json) |
 | Solitaire: Victorian Picnic 2 | 147031 | [147031-solitaire-victorian-picnic-2.json](./147031-solitaire-victorian-picnic-2.json) |
+| Solitaire: Wild Park | 234426 | [234426-solitaire-wild-park.json](./234426-solitaire-wild-park.json) |
 | Solitaire's Journey | 47022 | [47022-solitaires-journey.json](./47022-solitaires-journey.json) |
 | SolitaireX | 388039 | [388039-solitairex.json](./388039-solitairex.json) |
 | Solitairica | 24464 | [24464-solitairica.json](./24464-solitairica.json) |
@@ -19431,6 +19433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20822,6 +20825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Rumbler | 39407 | [39407-speed-rumbler.json](./39407-speed-rumbler.json) |
 | Speed Run | 304594 | [304594-speed-run.json](./304594-speed-run.json) |
 | Speed Runner | 246491 | [246491-speed-runner.json](./246491-speed-runner.json) |
+| Speed Rush Runners | 234415 | [234415-speed-rush-runners.json](./234415-speed-rush-runners.json) |
 | Speed Spin | 41097 | [41097-speed-spin.json](./41097-speed-spin.json) |
 | Speed Squared | 262568 | [262568-speed-squared.json](./262568-speed-squared.json) |
 | Speed Surge | 335271 | [335271-speed-surge.json](./335271-speed-surge.json) |
@@ -34717,6 +34721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Shine | 159825 | [159825-sweet-shine.json](./159825-sweet-shine.json) |
 | Sweet Shop | 376813 | [376813-sweet-shop.json](./376813-sweet-shop.json) |
 | Sweet Shop | 90376 | [90376-sweet-shop.json](./90376-sweet-shop.json) |
+| Sweet Sins 2 | 234417 | [234417-sweet-sins-2.json](./234417-sweet-sins-2.json) |
 | Sweet Sins: Kawaii Run | 245755 | [245755-sweet-sins-kawaii-run.json](./245755-sweet-sins-kawaii-run.json) |
 | Sweet Skullvivors | 279814 | [279814-sweet-skullvivors.json](./279814-sweet-skullvivors.json) |
 | Sweet Sky | 325897 | [325897-sweet-sky.json](./325897-sweet-sky.json) |
