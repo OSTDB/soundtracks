@@ -1045,6 +1045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Haven: Liberation Day | 154493 | [154493-fallen-haven-liberation-day.json](./154493-fallen-haven-liberation-day.json) |
 | Fallen Hearts | 128262 | [128262-fallen-hearts.json](./128262-fallen-hearts.json) |
 | Fallen Hero: Rebirth | 88044 | [88044-fallen-hero-rebirth.json](./88044-fallen-hero-rebirth.json) |
+| Fallen Hero: Retribution | 208548 | [208548-fallen-hero-retribution.json](./208548-fallen-hero-retribution.json) |
 | Fallen Heroes: Uro's Tale | 22129 | [22129-fallen-heroes-uros-tale.json](./22129-fallen-heroes-uros-tale.json) |
 | Fallen Hunter | 346362 | [346362-fallen-hunter.json](./346362-fallen-hunter.json) |
 | Fallen King | 294038 | [294038-fallen-king.json](./294038-fallen-king.json) |
@@ -2769,6 +2770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farol del Diablo (Devil's Lantern) | 347136 | [347136-farol-del-diablo-devils-lantern.json](./347136-farol-del-diablo-devils-lantern.json) |
 | Faron's Fate | 34311 | [34311-farons-fate.json](./34311-farons-fate.json) |
 | Farplane Relic | 110768 | [110768-farplane-relic.json](./110768-farplane-relic.json) |
+| Farpost 44 | 208542 | [208542-farpost-44.json](./208542-farpost-44.json) |
 | Farragnarok | 114773 | [114773-farragnarok.json](./114773-farragnarok.json) |
 | Farrealm: The Prince of Winds | 120427 | [120427-farrealm-the-prince-of-winds.json](./120427-farrealm-the-prince-of-winds.json) |
 | FarRock Dodgeball | 159567 | [159567-farrock-dodgeball.json](./159567-farrock-dodgeball.json) |
@@ -6903,6 +6905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Candy's 2 DX | 266215 | [266215-five-nights-at-candys-2-dx.json](./266215-five-nights-at-candys-2-dx.json) |
 | Five Nights at Candy's 3 | 45981 | [45981-five-nights-at-candys-3.json](./45981-five-nights-at-candys-3.json) |
 | Five Nights at Candy's 3 DX | 266218 | [266218-five-nights-at-candys-3-dx.json](./266218-five-nights-at-candys-3-dx.json) |
+| Five Nights at Candy's 4 | 208702 | [208702-five-nights-at-candys-4.json](./208702-five-nights-at-candys-4.json) |
 | Five Nights at Candy's DX | 266212 | [266212-five-nights-at-candys-dx.json](./266212-five-nights-at-candys-dx.json) |
 | Five Nights at Chuck E. Cheese's: Rebooted | 238433 | [238433-five-nights-at-chuck-e-cheeses-rebooted.json](./238433-five-nights-at-chuck-e-cheeses-rebooted.json) |
 | Five Nights at Cobson's | 280558 | [280558-five-nights-at-cobsons.json](./280558-five-nights-at-cobsons.json) |
@@ -9152,6 +9155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Heroes League | 342492 | [342492-football-heroes-league.json](./342492-football-heroes-league.json) |
 | Football Heroes Pro 2016 | 59730 | [59730-football-heroes-pro-2016.json](./59730-football-heroes-pro-2016.json) |
 | Football Highlights 2052 | 175096 | [175096-football-highlights-2052.json](./175096-football-highlights-2052.json) |
+| Football History Football Simulator | 208566 | [208566-football-history-football-simulator.json](./208566-football-history-football-simulator.json) |
 | Football International | 49079 | [49079-football-international.json](./49079-football-international.json) |
 | Football Keepy Uppy Champion | 252951 | [252951-football-keepy-uppy-champion.json](./252951-football-keepy-uppy-champion.json) |
 | Football Kicks | 231060 | [231060-football-kicks.json](./231060-football-kicks.json) |
