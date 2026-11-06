@@ -5653,6 +5653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa: Is Fearless | 172490 | [172490-lisa-is-fearless.json](./172490-lisa-is-fearless.json) |
 | Lisa: Paradise | 370093 | [370093-lisa-paradise.json](./370093-lisa-paradise.json) |
 | Lisa: The Bashful | 172484 | [172484-lisa-the-bashful.json](./172484-lisa-the-bashful.json) |
+| Lisa: The Clueless | 222113 | [222113-lisa-the-clueless.json](./222113-lisa-the-clueless.json) |
 | Lisa: The Doleful | 187119 | [187119-lisa-the-doleful.json](./187119-lisa-the-doleful.json) |
 | Lisa: The Downcast | 387510 | [387510-lisa-the-downcast.json](./387510-lisa-the-downcast.json) |
 | Lisa: The Gluttonous | 382794 | [382794-lisa-the-gluttonous.json](./382794-lisa-the-gluttonous.json) |
@@ -5671,6 +5672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa: The Unbreakable RPG | 215081 | [215081-lisa-the-unbreakable-rpg.json](./215081-lisa-the-unbreakable-rpg.json) |
 | Lisa: The Undone | 297621 | [297621-lisa-the-undone.json](./297621-lisa-the-undone.json) |
 | Lisa: The Wise | 220546 | [220546-lisa-the-wise.json](./220546-lisa-the-wise.json) |
+| Lisa: The Wishless | 222114 | [222114-lisa-the-wishless.json](./222114-lisa-the-wishless.json) |
 | Lisa: Timeless in Pointless - Drunkard's Paradise | 359332 | [359332-lisa-timeless-in-pointless-drunkards-paradise.json](./359332-lisa-timeless-in-pointless-drunkards-paradise.json) |
 | Lisa's Memory | 114192 | [114192-lisas-memory.json](./114192-lisas-memory.json) |
 | Lisc: Season 1 | 382008 | [382008-lisc-season-1.json](./382008-lisc-season-1.json) |
