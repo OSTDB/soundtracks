@@ -322,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred Dark | 327383 | [327383-sacred-dark.json](./327383-sacred-dark.json) |
 | Sacred Earth: Promise | 109766 | [109766-sacred-earth-promise.json](./109766-sacred-earth-promise.json) |
 | Sacred Earth: Reverie | 301360 | [301360-sacred-earth-reverie.json](./301360-sacred-earth-reverie.json) |
+| Sacred Ember | 223222 | [223222-sacred-ember.json](./223222-sacred-ember.json) |
 | Sacred Fire | 26559 | [26559-sacred-fire.json](./26559-sacred-fire.json) |
 | Sacred Forest | 297350 | [297350-sacred-forest.json](./297350-sacred-forest.json) |
 | Sacred Four | 86393 | [86393-sacred-four.json](./86393-sacred-four.json) |
@@ -8949,6 +8950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shonen Idle | 101908 | [101908-shonen-idle.json](./101908-shonen-idle.json) |
 | Shonen Jump's One Piece | 75755 | [75755-shonen-jumps-one-piece.json](./75755-shonen-jumps-one-piece.json) |
 | Shonen Jump's Shaman King: Master of Spirits 2 | 6591 | [6591-shonen-jumps-shaman-king-master-of-spirits-2.json](./6591-shonen-jumps-shaman-king-master-of-spirits-2.json) |
+| Shong | 223285 | [223285-shong.json](./223285-shong.json) |
 | Shoni Island | 306422 | [306422-shoni-island.json](./306422-shoni-island.json) |
 | Shoo, Box! | 157311 | [157311-shoo-box.json](./157311-shoo-box.json) |
 | Shoo, Naughty Little Monsters! | 407873 | [407873-shoo-naughty-little-monsters.json](./407873-shoo-naughty-little-monsters.json) |
@@ -13130,6 +13132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slayer Cat | 147362 | [147362-slayer-cat.json](./147362-slayer-cat.json) |
 | Slayer Knight | 297354 | [297354-slayer-knight.json](./297354-slayer-knight.json) |
 | Slayer Legend | 226766 | [226766-slayer-legend.json](./226766-slayer-legend.json) |
+| Slayer of Sin | 223204 | [223204-slayer-of-sin.json](./223204-slayer-of-sin.json) |
 | Slayer of Traitors | 101273 | [101273-slayer-of-traitors.json](./101273-slayer-of-traitors.json) |
 | Slayer Shock | 24646 | [24646-slayer-shock.json](./24646-slayer-shock.json) |
 | Slayer: The Demon Haunted World | 212150 | [212150-slayer-the-demon-haunted-world.json](./212150-slayer-the-demon-haunted-world.json) |
@@ -21125,6 +21128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellbound: Malachite Coven | 368150 | [368150-spellbound-malachite-coven.json](./368150-spellbound-malachite-coven.json) |
 | Spellbound! | 318020 | [318020-spellbound.json](./318020-spellbound.json) |
 | Spellbound! | 318021 | [318021-spellbound.json](./318021-spellbound.json) |
+| SpellBounders 2 | 223296 | [223296-spellbounders-2.json](./223296-spellbounders-2.json) |
 | Spellbreak: Chapter 3 - The Wardens | 182495 | [182495-spellbreak-chapter-3-the-wardens.json](./182495-spellbreak-chapter-3-the-wardens.json) |
 | Spellbreaker | 1949 | [1949-spellbreaker.json](./1949-spellbreaker.json) |
 | Spellbrew Express | 296361 | [296361-spellbrew-express.json](./296361-spellbrew-express.json) |
@@ -25681,6 +25685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Mayor | 60756 | [60756-stay-mayor.json](./60756-stay-mayor.json) |
 | Stay on Line: Line Runner | 240926 | [240926-stay-on-line-line-runner.json](./240926-stay-on-line-line-runner.json) |
 | Stay Out | 63813 | [63813-stay-out.json](./63813-stay-out.json) |
+| Stay Out of the Farm | 223220 | [223220-stay-out-of-the-farm.json](./223220-stay-out-of-the-farm.json) |
 | Stay Out of the House | 109668 | [109668-stay-out-of-the-house.json](./109668-stay-out-of-the-house.json) |
 | Stay Safe | 96481 | [96481-stay-safe.json](./96481-stay-safe.json) |
 | Stay Safe 2020 | 156977 | [156977-stay-safe-2020.json](./156977-stay-safe-2020.json) |
@@ -34203,6 +34208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor's End | 250451 | [250451-survivors-end.json](./250451-survivors-end.json) |
 | Survivor's Guilt: Survival | 252947 | [252947-survivors-guilt-survival.json](./252947-survivors-guilt-survival.json) |
 | Survivorman VR: The Descent | 224602 | [224602-survivorman-vr-the-descent.json](./224602-survivorman-vr-the-descent.json) |
+| Survivors | 223287 | [223287-survivors.json](./223287-survivors.json) |
 | Survivors | 265811 | [265811-survivors.json](./265811-survivors.json) |
 | Survivors | 291906 | [291906-survivors.json](./291906-survivors.json) |
 | Survivors | 292413 | [292413-survivors.json](./292413-survivors.json) |
