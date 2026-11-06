@@ -3417,10 +3417,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Cells: Action Game of the Year | 122268 | [122268-dead-cells-action-game-of-the-year.json](./122268-dead-cells-action-game-of-the-year.json) |
 | Dead Cells: Everyone is Here Vol. 2 | 225338 | [225338-dead-cells-everyone-is-here-vol-2.json](./225338-dead-cells-everyone-is-here-vol-2.json) |
 | Dead Cells: Everyone is Here! | 221962 | [221962-dead-cells-everyone-is-here.json](./221962-dead-cells-everyone-is-here.json) |
+| Dead Cells: Medley of Pain Bundle | 238272 | [238272-dead-cells-medley-of-pain-bundle.json](./238272-dead-cells-medley-of-pain-bundle.json) |
 | Dead Cells: Netflix Edition | 274723 | [274723-dead-cells-netflix-edition.json](./274723-dead-cells-netflix-edition.json) |
 | Dead Cells: Prisoner's Edition | 136322 | [136322-dead-cells-prisoners-edition.json](./136322-dead-cells-prisoners-edition.json) |
 | Dead Cells: Return to Castlevania | 228520 | [228520-dead-cells-return-to-castlevania.json](./228520-dead-cells-return-to-castlevania.json) |
 | Dead Cells: Return to Castlevania - Signature Edition | 387498 | [387498-dead-cells-return-to-castlevania-signature-edition.json](./387498-dead-cells-return-to-castlevania-signature-edition.json) |
+| Dead Cells: Return to Castlevania Bundle | 238273 | [238273-dead-cells-return-to-castlevania-bundle.json](./238273-dead-cells-return-to-castlevania-bundle.json) |
 | Dead Cells: Return to Castlevania Edition | 270582 | [270582-dead-cells-return-to-castlevania-edition.json](./270582-dead-cells-return-to-castlevania-edition.json) |
 | Dead Cells: Road to the Sea | 186533 | [186533-dead-cells-road-to-the-sea.json](./186533-dead-cells-road-to-the-sea.json) |
 | Dead Cells: The Bad Seed | 127256 | [127256-dead-cells-the-bad-seed.json](./127256-dead-cells-the-bad-seed.json) |
@@ -15383,6 +15385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw and Color: Kawaii - Legendary Edition | 244050 | [244050-draw-and-color-kawaii-legendary-edition.json](./244050-draw-and-color-kawaii-legendary-edition.json) |
 | Draw and Color: Kawaii - Magnificent Edition | 268554 | [268554-draw-and-color-kawaii-magnificent-edition.json](./268554-draw-and-color-kawaii-magnificent-edition.json) |
 | Draw and Color: Kawaii - Platinum Edition | 247589 | [247589-draw-and-color-kawaii-platinum-edition.json](./247589-draw-and-color-kawaii-platinum-edition.json) |
+| Draw and Color: Kawaii - Premium Edition | 238274 | [238274-draw-and-color-kawaii-premium-edition.json](./238274-draw-and-color-kawaii-premium-edition.json) |
 | Draw and Color: Kawaii - Special Edition | 231285 | [231285-draw-and-color-kawaii-special-edition.json](./231285-draw-and-color-kawaii-special-edition.json) |
 | Draw and Color: Kawaii - Superb Edition | 270293 | [270293-draw-and-color-kawaii-superb-edition.json](./270293-draw-and-color-kawaii-superb-edition.json) |
 | Draw and Color: Kawaii - Ultimate Edition | 226093 | [226093-draw-and-color-kawaii-ultimate-edition.json](./226093-draw-and-color-kawaii-ultimate-edition.json) |
