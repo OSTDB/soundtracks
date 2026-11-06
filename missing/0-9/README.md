@@ -1769,6 +1769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2099 Gravity Havoc | 262852 | [262852-2099-gravity-havoc.json](./262852-2099-gravity-havoc.json) |
 | 20b | 169819 | [169819-20b.json](./169819-20b.json) |
 | 20MTD: Emberpath | 275552 | [275552-20mtd-emberpath.json](./275552-20mtd-emberpath.json) |
+| 20Q | 214227 | [214227-20q.json](./214227-20q.json) |
 | 20Q | 320398 | [320398-20q.json](./320398-20q.json) |
 | 20Q Music: Rock and Pop | 324796 | [324796-20q-music-rock-and-pop.json](./324796-20q-music-rock-and-pop.json) |
 | 20Q: The Simpsons | 320399 | [320399-20q-the-simpsons.json](./320399-20q-the-simpsons.json) |
