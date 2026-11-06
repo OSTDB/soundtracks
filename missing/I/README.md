@@ -2070,6 +2070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikonoijoy Puzzle | 403117 | [403117-ikonoijoy-puzzle.json](./403117-ikonoijoy-puzzle.json) |
 | IKOU: Intelligenztrainer fur Kids | 269634 | [269634-ikou-intelligenztrainer-fur-kids.json](./269634-ikou-intelligenztrainer-fur-kids.json) |
 | Iktsua | 329930 | [329930-iktsua.json](./329930-iktsua.json) |
+| Iku Iku Succubus | 201360 | [201360-iku-iku-succubus.json](./201360-iku-iku-succubus.json) |
 | Ikuma: The Frozen Compass | 339619 | [339619-ikuma-the-frozen-compass.json](./339619-ikuma-the-frozen-compass.json) |
 | Ikun Go Go Go | 390628 | [390628-ikun-go-go-go.json](./390628-ikun-go-go-go.json) |
 | Ikun vs. Xhz | 407798 | [407798-ikun-vs-xhz.json](./407798-ikun-vs-xhz.json) |
