@@ -3205,6 +3205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indagator | 249390 | [249390-indagator.json](./249390-indagator.json) |
 | Inde Rally | 47090 | [47090-inde-rally.json](./47090-inde-rally.json) |
 | Indecent Desires | 211617 | [211617-indecent-desires.json](./211617-indecent-desires.json) |
+| Indecent Wife Hana: Gravure | 235582 | [235582-indecent-wife-hana-gravure.json](./235582-indecent-wife-hana-gravure.json) |
 | Indecision. | 83969 | [83969-indecision.json](./83969-indecision.json) |
 | Indect | 135062 | [135062-indect.json](./135062-indect.json) |
 | Indeep | 55503 | [55503-indeep.json](./55503-indeep.json) |
@@ -3816,6 +3817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
