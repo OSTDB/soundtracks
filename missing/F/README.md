@@ -1189,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Valiant: Loopy | 120012 | [120012-fallen-valiant-loopy.json](./120012-fallen-valiant-loopy.json) |
 | Fallen Vestige | 371194 | [371194-fallen-vestige.json](./371194-fallen-vestige.json) |
 | Fallen World | 148938 | [148938-fallen-world.json](./148938-fallen-world.json) |
+| Fallen World | 213101 | [213101-fallen-world.json](./213101-fallen-world.json) |
 | Fallen Worlds | 199749 | [199749-fallen-worlds.json](./199749-fallen-worlds.json) |
 | Fallen, the last light | 164267 | [164267-fallen-the-last-light.json](./164267-fallen-the-last-light.json) |
 | Fallen: A2P Protocol | 17890 | [17890-fallen-a2p-protocol.json](./17890-fallen-a2p-protocol.json) |
@@ -14012,6 +14013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuyu no Tsuma | 173438 | [173438-fuyu-no-tsuma.json](./173438-fuyu-no-tsuma.json) |
 | Fuyu Uso: Snow World End | 379634 | [379634-fuyu-uso-snow-world-end.json](./379634-fuyu-uso-snow-world-end.json) |
 | Fuyuiro no Muffler | 97742 | [97742-fuyuiro-no-muffler.json](./97742-fuyuiro-no-muffler.json) |
+| Fuyukara, Kururu. | 213134 | [213134-fuyukara-kururu.json](./213134-fuyukara-kururu.json) |
 | Fuyuu | 278801 | [278801-fuyuu.json](./278801-fuyuu.json) |
 | Fuyuzono Sacrifice | 287893 | [287893-fuyuzono-sacrifice.json](./287893-fuyuzono-sacrifice.json) |
 | Fuze Player | 221929 | [221929-fuze-player.json](./221929-fuze-player.json) |
