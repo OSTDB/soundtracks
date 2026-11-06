@@ -3806,6 +3806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5990,6 +5991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Janken Hero | 220039 | [220039-isekai-janken-hero.json](./220039-isekai-janken-hero.json) |
 | Isekai Junior Manager | 244077 | [244077-isekai-junior-manager.json](./244077-isekai-junior-manager.json) |
 | Isekai Mage | 345689 | [345689-isekai-mage.json](./345689-isekai-mage.json) |
+| Isekai Mario | 243450 | [243450-isekai-mario.json](./243450-isekai-mario.json) |
 | Isekai Mining Defense | 348229 | [348229-isekai-mining-defense.json](./348229-isekai-mining-defense.json) |
 | Isekai Musume Hatsujouchuu: Ore no Are wo Hamu-hamu Shimakuri!? | 194592 | [194592-isekai-musume-hatsujouchuu-ore-no-are-wo-hamu-hamu-shimakuri.json](./194592-isekai-musume-hatsujouchuu-ore-no-are-wo-hamu-hamu-shimakuri.json) |
 | Isekai Musume to Konkatsuchuu: Isekai Bride Hunting | 196828 | [196828-isekai-musume-to-konkatsuchuu-isekai-bride-hunting.json](./196828-isekai-musume-to-konkatsuchuu-isekai-bride-hunting.json) |
