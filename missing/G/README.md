@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakkyuu-ou Yamazaki: Yamazaki Oukoku Daifunsou! | 130351 | [130351-gakkyuu-ou-yamazaki-yamazaki-oukoku-daifunsou.json](./130351-gakkyuu-ou-yamazaki-yamazaki-oukoku-daifunsou.json) |
 | Gaku Ou: The Royal Seven Stars + Meteor | 399882 | [399882-gaku-ou-the-royal-seven-stars-meteor.json](./399882-gaku-ou-the-royal-seven-stars-meteor.json) |
 | Gakuen Alice: Doki-doki Fushigi Taiken | 49564 | [49564-gakuen-alice-doki-doki-fushigi-taiken.json](./49564-gakuen-alice-doki-doki-fushigi-taiken.json) |
+| Gakuen Alice: Kira-kira Memory Kiss | 204655 | [204655-gakuen-alice-kira-kira-memory-kiss.json](./204655-gakuen-alice-kira-kira-memory-kiss.json) |
 | Gakuen Alice: Waku-waku Happy Friends | 70676 | [70676-gakuen-alice-waku-waku-happy-friends.json](./70676-gakuen-alice-waku-waku-happy-friends.json) |
 | Gakuen Battle Fishers: Yoky Shiimono wa Tsure | 281424 | [281424-gakuen-battle-fishers-yoky-shiimono-wa-tsure.json](./281424-gakuen-battle-fishers-yoky-shiimono-wa-tsure.json) |
 | Gakuen Club | 31975 | [31975-gakuen-club.json](./31975-gakuen-club.json) |
@@ -1498,6 +1499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamedev simulator | 130958 | [130958-gamedev-simulator.json](./130958-gamedev-simulator.json) |
 | GameDev Trash | 260573 | [260573-gamedev-trash.json](./260573-gamedev-trash.json) |
 | GameDevDan vs Life | 87761 | [87761-gamedevdan-vs-life.json](./87761-gamedevdan-vs-life.json) |
+| Gamedle | 204658 | [204658-gamedle.json](./204658-gamedle.json) |
 | Gamedle | 401685 | [401685-gamedle.json](./401685-gamedle.json) |
 | Gamedog | 292842 | [292842-gamedog.json](./292842-gamedog.json) |
 | Gamefest Puzzle Classic | 209592 | [209592-gamefest-puzzle-classic.json](./209592-gamefest-puzzle-classic.json) |
@@ -4911,6 +4913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gliont Lights | 388260 | [388260-gliont-lights.json](./388260-gliont-lights.json) |
 | Glista | 84045 | [84045-glista.json](./84045-glista.json) |
 | Glisten to Your Heart: The Courage Within You | 170564 | [170564-glisten-to-your-heart-the-courage-within-you.json](./170564-glisten-to-your-heart-the-courage-within-you.json) |
+| Glistening | 204644 | [204644-glistening.json](./204644-glistening.json) |
 | Glisynth | 373145 | [373145-glisynth.json](./373145-glisynth.json) |
 | Glitch | 186709 | [186709-glitch.json](./186709-glitch.json) |
 | Glitch | 232137 | [232137-glitch.json](./232137-glitch.json) |
