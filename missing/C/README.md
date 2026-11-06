@@ -14550,6 +14550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core.Sys | 351094 | [351094-core-sys.json](./351094-core-sys.json) |
 | Coreborn | 215168 | [215168-coreborn.json](./215168-coreborn.json) |
 | CoreBreach | 176727 | [176727-corebreach.json](./176727-corebreach.json) |
+| Corebreaker | 219367 | [219367-corebreaker.json](./219367-corebreaker.json) |
 | Corecraft | 307107 | [307107-corecraft.json](./307107-corecraft.json) |
 | Coredump | 408440 | [408440-coredump.json](./408440-coredump.json) |
 | Coregrounds | 11344 | [11344-coregrounds.json](./11344-coregrounds.json) |
