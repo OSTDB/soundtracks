@@ -7271,6 +7271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Adventure: Trip to Europe 2 | 219376 | [219376-big-adventure-trip-to-europe-2.json](./219376-big-adventure-trip-to-europe-2.json) |
 | Big Adventure: Trip to Europe 2 - Collector's Edition | 219205 | [219205-big-adventure-trip-to-europe-2-collectors-edition.json](./219205-big-adventure-trip-to-europe-2-collectors-edition.json) |
 | Big Adventure: Trip to Europe 3 | 417375 | [417375-big-adventure-trip-to-europe-3.json](./417375-big-adventure-trip-to-europe-3.json) |
+| Big Adventure: Trip to Europe 3 - Collector's Edition | 221561 | [221561-big-adventure-trip-to-europe-3-collectors-edition.json](./221561-big-adventure-trip-to-europe-3-collectors-edition.json) |
 | Big Adventure: Trip to Europe 4 | 417376 | [417376-big-adventure-trip-to-europe-4.json](./417376-big-adventure-trip-to-europe-4.json) |
 | Big Adventure: Trip to Europe 4 - Collector's Edition | 244652 | [244652-big-adventure-trip-to-europe-4-collectors-edition.json](./244652-big-adventure-trip-to-europe-4-collectors-edition.json) |
 | Big Adventure: Trip to Europe 5 | 417377 | [417377-big-adventure-trip-to-europe-5.json](./417377-big-adventure-trip-to-europe-5.json) |
@@ -8706,6 +8707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitter End | 175682 | [175682-bitter-end.json](./175682-bitter-end.json) |
 | Bitter Exclusion | 281873 | [281873-bitter-exclusion.json](./281873-bitter-exclusion.json) |
 | Bitter Harvest | 391535 | [391535-bitter-harvest.json](./391535-bitter-harvest.json) |
+| Bitter Silver | 221560 | [221560-bitter-silver.json](./221560-bitter-silver.json) |
 | Bitter Sweet Memories | 177906 | [177906-bitter-sweet-memories.json](./177906-bitter-sweet-memories.json) |
 | Bitter Tides | 106404 | [106404-bitter-tides.json](./106404-bitter-tides.json) |
 | Bitter-Sweet Cohabitation | 241372 | [241372-bitter-sweet-cohabitation.json](./241372-bitter-sweet-cohabitation.json) |
@@ -8998,6 +9000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Market Bowling | 57643 | [57643-black-market-bowling.json](./57643-black-market-bowling.json) |
 | Black Market of Bulletphilia: 100th Black Market | 210247 | [210247-black-market-of-bulletphilia-100th-black-market.json](./210247-black-market-of-bulletphilia-100th-black-market.json) |
 | Black Mesa Inbound | 253030 | [253030-black-mesa-inbound.json](./253030-black-mesa-inbound.json) |
+| Black Mesa: Azure Sheep | 221556 | [221556-black-mesa-azure-sheep.json](./221556-black-mesa-azure-sheep.json) |
 | Black Mesa: Blue Shift | 196017 | [196017-black-mesa-blue-shift.json](./196017-black-mesa-blue-shift.json) |
 | Black Mesa: Classic | 283761 | [283761-black-mesa-classic.json](./283761-black-mesa-classic.json) |
 | Black Mesa: Definitive Edition | 229969 | [229969-black-mesa-definitive-edition.json](./229969-black-mesa-definitive-edition.json) |
@@ -12806,6 +12809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boo Men | 201498 | [201498-boo-men.json](./201498-boo-men.json) |
 | Boo: The World's Cutest Dog Game | 57909 | [57909-boo-the-worlds-cutest-dog-game.json](./57909-boo-the-worlds-cutest-dog-game.json) |
 | Boo! | 214883 | [214883-boo.json](./214883-boo.json) |
+| Boo! | 221559 | [221559-boo.json](./221559-boo.json) |
 | Boo! Are you scared? | 329128 | [329128-boo-are-you-scared.json](./329128-boo-are-you-scared.json) |
 | Boo! Are you scared? The Chests Game | 328964 | [328964-boo-are-you-scared-the-chests-game.json](./328964-boo-are-you-scared-the-chests-game.json) |
 | Boo's Balloons | 133106 | [133106-boos-balloons.json](./133106-boos-balloons.json) |
@@ -15505,6 +15509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brigador | 13361 | [13361-brigador.json](./13361-brigador.json) |
 | Brigador Killers | 119625 | [119625-brigador-killers.json](./119625-brigador-killers.json) |
 | Brigador: Up-Armored Edition | 154206 | [154206-brigador-up-armored-edition.json](./154206-brigador-up-armored-edition.json) |
+| Brigand: Battles | 221564 | [221564-brigand-battles.json](./221564-brigand-battles.json) |
 | Brigand: Nightmare | 314725 | [314725-brigand-nightmare.json](./314725-brigand-nightmare.json) |
 | Brigand: Oaxaca | 28045 | [28045-brigand-oaxaca.json](./28045-brigand-oaxaca.json) |
 | Brigand: Panama | 142756 | [142756-brigand-panama.json](./142756-brigand-panama.json) |
@@ -17838,6 +17843,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 21 | 146828 | [146828-bus-simulator-21.json](./146828-bus-simulator-21.json) |
 | Bus Simulator 21: Angel Shores Insider Skin Pack | 213848 | [213848-bus-simulator-21-angel-shores-insider-skin-pack.json](./213848-bus-simulator-21-angel-shores-insider-skin-pack.json) |
 | Bus Simulator 21: Day One Edition | 147006 | [147006-bus-simulator-21-day-one-edition.json](./147006-bus-simulator-21-day-one-edition.json) |
+| Bus Simulator 21: Easter Interior Pack | 221554 | [221554-bus-simulator-21-easter-interior-pack.json](./221554-bus-simulator-21-easter-interior-pack.json) |
+| Bus Simulator 21: Easter Skin Pack | 221553 | [221553-bus-simulator-21-easter-skin-pack.json](./221553-bus-simulator-21-easter-skin-pack.json) |
 | Bus Simulator 21: Extended Edition | 169245 | [169245-bus-simulator-21-extended-edition.json](./169245-bus-simulator-21-extended-edition.json) |
 | Bus Simulator 21: Iveco Bus Pack | 197557 | [197557-bus-simulator-21-iveco-bus-pack.json](./197557-bus-simulator-21-iveco-bus-pack.json) |
 | Bus Simulator 21: MAN Bus Pack | 213951 | [213951-bus-simulator-21-man-bus-pack.json](./213951-bus-simulator-21-man-bus-pack.json) |
