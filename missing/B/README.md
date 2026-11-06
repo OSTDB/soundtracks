@@ -1943,6 +1943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Ranch | 303267 | [303267-banana-ranch.json](./303267-banana-ranch.json) |
 | Banana Republic | 416053 | [416053-banana-republic.json](./416053-banana-republic.json) |
 | Banana Sbang | 271179 | [271179-banana-sbang.json](./271179-banana-sbang.json) |
+| Banana Shooter | 195285 | [195285-banana-shooter.json](./195285-banana-shooter.json) |
 | Banana Shop | 143534 | [143534-banana-shop.json](./143534-banana-shop.json) |
 | Banana Simulator | 312450 | [312450-banana-simulator.json](./312450-banana-simulator.json) |
 | Banana Slug Beach | 137255 | [137255-banana-slug-beach.json](./137255-banana-slug-beach.json) |
@@ -11165,6 +11166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodline: Last Royal Vampire | 208217 | [208217-bloodline-last-royal-vampire.json](./208217-bloodline-last-royal-vampire.json) |
 | BloodLines | 143363 | [143363-bloodlines.json](./143363-bloodlines.json) |
 | Bloodlines of Prima | 55374 | [55374-bloodlines-of-prima.json](./55374-bloodlines-of-prima.json) |
+| Bloodlines: Tales of brotherhood | 195324 | [195324-bloodlines-tales-of-brotherhood.json](./195324-bloodlines-tales-of-brotherhood.json) |
 | Bloodlines: The Alexa Holmes Chronicles | 65529 | [65529-bloodlines-the-alexa-holmes-chronicles.json](./65529-bloodlines-the-alexa-holmes-chronicles.json) |
 | BloodLoop | 350724 | [350724-bloodloop.json](./350724-bloodloop.json) |
 | Bloodlust | 22123 | [22123-bloodlust.json](./22123-bloodlust.json) |
