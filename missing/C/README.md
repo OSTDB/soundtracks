@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.R.E.E.P | 358863 | [358863-c-r-e-e-p.json](./358863-c-r-e-e-p.json) |
 | C.R.E.E.P.S | 34824 | [34824-c-r-e-e-p-s.json](./34824-c-r-e-e-p-s.json) |
 | C.R.O.W. Girl Trouble | 293995 | [293995-c-r-o-w-girl-trouble.json](./293995-c-r-o-w-girl-trouble.json) |
+| C.R.U.D.D.Y. | 210324 | [210324-c-r-u-d-d-y.json](./210324-c-r-u-d-d-y.json) |
 | C.S.S. Citadel VR | 32080 | [32080-c-s-s-citadel-vr.json](./32080-c-s-s-citadel-vr.json) |
 | C.T.R.: Cross The Road | 240202 | [240202-c-t-r-cross-the-road.json](./240202-c-t-r-cross-the-road.json) |
 | C.U.B.E | 412998 | [412998-c-u-b-e.json](./412998-c-u-b-e.json) |
@@ -368,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caged Garden Cock Robin | 120259 | [120259-caged-garden-cock-robin.json](./120259-caged-garden-cock-robin.json) |
 | Cages: Hidden Worlds | 406114 | [406114-cages-hidden-worlds.json](./406114-cages-hidden-worlds.json) |
 | Caging me Softly | 60611 | [60611-caging-me-softly.json](./60611-caging-me-softly.json) |
+| Cagio | 210325 | [210325-cagio.json](./210325-cagio.json) |
 | Cahier de Vacances pour Adultes | 269673 | [269673-cahier-de-vacances-pour-adultes.json](./269673-cahier-de-vacances-pour-adultes.json) |
 | Cahier de Vacances pour Adultes 2 | 269674 | [269674-cahier-de-vacances-pour-adultes-2.json](./269674-cahier-de-vacances-pour-adultes-2.json) |
 | Cahoots | 250305 | [250305-cahoots.json](./250305-cahoots.json) |
@@ -1193,6 +1195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can You Make It? | 230744 | [230744-can-you-make-it.json](./230744-can-you-make-it.json) |
 | Can You Reach 60 Seconds | 339940 | [339940-can-you-reach-60-seconds.json](./339940-can-you-reach-60-seconds.json) |
 | Can You Save the World? | 182902 | [182902-can-you-save-the-world.json](./182902-can-you-save-the-world.json) |
+| Can You Say My Name Again | 210326 | [210326-can-you-say-my-name-again.json](./210326-can-you-say-my-name-again.json) |
 | Can You See What I See?: Curfuffles Collectibles | 51399 | [51399-can-you-see-what-i-see-curfuffles-collectibles.json](./51399-can-you-see-what-i-see-curfuffles-collectibles.json) |
 | Can You See What I See?: Dream Machine | 312210 | [312210-can-you-see-what-i-see-dream-machine.json](./312210-can-you-see-what-i-see-dream-machine.json) |
 | Can You Survive the Scream House? | 419120 | [419120-can-you-survive-the-scream-house.json](./419120-can-you-survive-the-scream-house.json) |
@@ -3120,6 +3123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Network Speedway | 2810 | [2810-cartoon-network-speedway.json](./2810-cartoon-network-speedway.json) |
 | Cartoon Network TKO | 234704 | [234704-cartoon-network-tko.json](./234704-cartoon-network-tko.json) |
 | Cartoon Network Universe: FusionFall | 2811 | [2811-cartoon-network-universe-fusionfall.json](./2811-cartoon-network-universe-fusionfall.json) |
+| Cartoon Network Universe: Project Exonaut | 210353 | [210353-cartoon-network-universe-project-exonaut.json](./210353-cartoon-network-universe-project-exonaut.json) |
 | Cartoon Network: Battle Crashers | 254362 | [254362-cartoon-network-battle-crashers.json](./254362-cartoon-network-battle-crashers.json) |
 | Cartoon Network: Battle Crashers | 25795 | [25795-cartoon-network-battle-crashers.json](./25795-cartoon-network-battle-crashers.json) |
 | Cartoon Network: Block Party | 2809 | [2809-cartoon-network-block-party.json](./2809-cartoon-network-block-party.json) |
@@ -4484,6 +4488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catgirl Lover 2 | 122837 | [122837-catgirl-lover-2.json](./122837-catgirl-lover-2.json) |
 | Catgirl Lover Bundle | 230099 | [230099-catgirl-lover-bundle.json](./230099-catgirl-lover-bundle.json) |
 | Catgirl Magic: Fury Duel | 105653 | [105653-catgirl-magic-fury-duel.json](./105653-catgirl-magic-fury-duel.json) |
+| Catgirl Truckers | 210327 | [210327-catgirl-truckers.json](./210327-catgirl-truckers.json) |
 | Catgirls From My Sweet Dream | 215502 | [215502-catgirls-from-my-sweet-dream.json](./215502-catgirls-from-my-sweet-dream.json) |
 | Catgirls From My Sweet Dream: Neko Girls 18+ | 343613 | [343613-catgirls-from-my-sweet-dream-neko-girls-18.json](./343613-catgirls-from-my-sweet-dream-neko-girls-18.json) |
 | Catgotchi: Virtual Pet - Deluxe Edition | 249561 | [249561-catgotchi-virtual-pet-deluxe-edition.json](./249561-catgotchi-virtual-pet-deluxe-edition.json) |
@@ -8688,6 +8693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CIA | 25130 | [25130-cia.json](./25130-cia.json) |
 | CIA Operative: Solo Missions | 71228 | [71228-cia-operative-solo-missions.json](./71228-cia-operative-solo-missions.json) |
 | Ciao Bella: la Bella Romanza | 133957 | [133957-ciao-bella-la-bella-romanza.json](./133957-ciao-bella-la-bella-romanza.json) |
+| Ciao Nonna | 210329 | [210329-ciao-nonna.json](./210329-ciao-nonna.json) |
 | Ciao Pizza: Cooking Chaos | 415254 | [415254-ciao-pizza-cooking-chaos.json](./415254-ciao-pizza-cooking-chaos.json) |
 | Cibele | 14702 | [14702-cibele.json](./14702-cibele.json) |
 | Cicada Springs | 248714 | [248714-cicada-springs.json](./248714-cicada-springs.json) |
