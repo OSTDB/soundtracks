@@ -4823,6 +4823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavalier | 219225 | [219225-cavalier.json](./219225-cavalier.json) |
 | Cavalry Battle 3000 | 353896 | [353896-cavalry-battle-3000.json](./353896-cavalry-battle-3000.json) |
 | Cavalry Charge | 326296 | [326296-cavalry-charge.json](./326296-cavalry-charge.json) |
+| Cavalry Girls | 208568 | [208568-cavalry-girls.json](./208568-cavalry-girls.json) |
 | Cavatus | 215504 | [215504-cavatus.json](./215504-cavatus.json) |
 | Cave | 141816 | [141816-cave.json](./141816-cave.json) |
 | Cave Bad | 144105 | [144105-cave-bad.json](./144105-cave-bad.json) |
@@ -16877,6 +16878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Tower | 228666 | [228666-crazy-tower.json](./228666-crazy-tower.json) |
 | Crazy Tracer | 13707 | [13707-crazy-tracer.json](./13707-crazy-tracer.json) |
 | Crazy Tracker | 419085 | [419085-crazy-tracker.json](./419085-crazy-tracker.json) |
+| Crazy Traffic Racer | 208558 | [208558-crazy-traffic-racer.json](./208558-crazy-traffic-racer.json) |
 | Crazy Traffic: City Parking Simulator | 317925 | [317925-crazy-traffic-city-parking-simulator.json](./317925-crazy-traffic-city-parking-simulator.json) |
 | Crazy Train | 41759 | [41759-crazy-train.json](./41759-crazy-train.json) |
 | Crazy Trip | 254813 | [254813-crazy-trip.json](./254813-crazy-trip.json) |
