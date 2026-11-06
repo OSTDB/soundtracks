@@ -6057,6 +6057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Musume to Konkatsuchuu: Isekai Bride Hunting - Fia Edition | 219277 | [219277-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-fia-edition.json](./219277-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-fia-edition.json) |
 | Isekai Musume to Konkatsuchuu: Isekai Bride Hunting - Kullulu Edition | 227849 | [227849-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-kullulu-edition.json](./227849-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-kullulu-edition.json) |
 | Isekai Musume to Konkatsuchuu: Isekai Bride Hunting - Kuroro Edition | 225543 | [225543-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-kuroro-edition.json](./225543-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-kuroro-edition.json) |
+| Isekai Musume to Konkatsuchuu: Isekai Bride Hunting - Meir Edition | 219341 | [219341-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-meir-edition.json](./219341-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-meir-edition.json) |
 | Isekai Mystic World | 365933 | [365933-isekai-mystic-world.json](./365933-isekai-mystic-world.json) |
 | Isekai Neet Engineer Eiyuu ni Naru | 282670 | [282670-isekai-neet-engineer-eiyuu-ni-naru.json](./282670-isekai-neet-engineer-eiyuu-ni-naru.json) |
 | Isekai Revitalizer | 374445 | [374445-isekai-revitalizer.json](./374445-isekai-revitalizer.json) |
