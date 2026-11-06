@@ -1176,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hana Saki Work Spring! | 111649 | [111649-hana-saki-work-spring.json](./111649-hana-saki-work-spring.json) |
 | Hana Saku DS Gardening Life | 229262 | [229262-hana-saku-ds-gardening-life.json](./229262-hana-saku-ds-gardening-life.json) |
 | Hana Taaka Daka! | 38076 | [38076-hana-taaka-daka.json](./38076-hana-taaka-daka.json) |
+| Hana to Otome ni Shukufuku wo | 225459 | [225459-hana-to-otome-ni-shukufuku-wo.json](./225459-hana-to-otome-ni-shukufuku-wo.json) |
 | Hana to Otome ni Shukufuku wo Royal Bouquet | 60368 | [60368-hana-to-otome-ni-shukufuku-wo-royal-bouquet.json](./60368-hana-to-otome-ni-shukufuku-wo-royal-bouquet.json) |
 | Hana to Otome ni Shukufuku wo: Harukaze No Okurimono | 69054 | [69054-hana-to-otome-ni-shukufuku-wo-harukaze-no-okurimono.json](./69054-hana-to-otome-ni-shukufuku-wo-harukaze-no-okurimono.json) |
 | Hana to Ryuu | 352509 | [352509-hana-to-ryuu.json](./352509-hana-to-ryuu.json) |
@@ -10791,6 +10792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Build Flipper | 104584 | [104584-house-build-flipper.json](./104584-house-build-flipper.json) |
 | House Builder | 133448 | [133448-house-builder.json](./133448-house-builder.json) |
 | House Builder - Tiny Houses DLC | 393287 | [393287-house-builder-tiny-houses-dlc.json](./393287-house-builder-tiny-houses-dlc.json) |
+| House Builder & Tank Mechanic Simulator | 225456 | [225456-house-builder-and-tank-mechanic-simulator.json](./225456-house-builder-and-tank-mechanic-simulator.json) |
 | House Builder & Thief Simulator | 225479 | [225479-house-builder-and-thief-simulator.json](./225479-house-builder-and-thief-simulator.json) |
 | House Builder & Ultimate Fishing Simulator | 225831 | [225831-house-builder-and-ultimate-fishing-simulator.json](./225831-house-builder-and-ultimate-fishing-simulator.json) |
 | House Builder 2 | 343234 | [343234-house-builder-2.json](./343234-house-builder-2.json) |
