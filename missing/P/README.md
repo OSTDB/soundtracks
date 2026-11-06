@@ -2476,6 +2476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkur 44 | 152843 | [152843-parkur-44.json](./152843-parkur-44.json) |
 | Parliament | 350474 | [350474-parliament.json](./350474-parliament.json) |
 | Parliament of Hell 1796 | 344487 | [344487-parliament-of-hell-1796.json](./344487-parliament-of-hell-1796.json) |
+| Parlor | 218806 | [218806-parlor.json](./218806-parlor.json) |
 | Parlor Board 3D | 302317 | [302317-parlor-board-3d.json](./302317-parlor-board-3d.json) |
 | Parlor Mall | 353630 | [353630-parlor-mall.json](./353630-parlor-mall.json) |
 | Parlor! Mini | 37895 | [37895-parlor-mini.json](./37895-parlor-mini.json) |
@@ -11309,6 +11310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon RBGenesis+ | 327773 | [327773-pokemon-rbgenesis.json](./327773-pokemon-rbgenesis.json) |
 | Pokemon RE:Call | 314714 | [314714-pokemon-re-call.json](./314714-pokemon-re-call.json) |
 | Pokémon Re:Union | 270629 | [270629-pokemon-re-union.json](./270629-pokemon-re-union.json) |
+| Pokémon Realidea System | 218801 | [218801-pokemon-realidea-system.json](./218801-pokemon-realidea-system.json) |
 | Pokémon Reborn | 127326 | [127326-pokemon-reborn.json](./127326-pokemon-reborn.json) |
 | Pokémon Recharged Emerald | 333471 | [333471-pokemon-recharged-emerald.json](./333471-pokemon-recharged-emerald.json) |
 | Pokémon Recharged Pink | 352245 | [352245-pokemon-recharged-pink.json](./352245-pokemon-recharged-pink.json) |
@@ -12508,6 +12510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PooShooter: Toilet Invaders | 31672 | [31672-pooshooter-toilet-invaders.json](./31672-pooshooter-toilet-invaders.json) |
 | PooSky | 68615 | [68615-poosky.json](./68615-poosky.json) |
 | Pooties | 239988 | [239988-pooties.json](./239988-pooties.json) |
+| Pooyan | 218771 | [218771-pooyan.json](./218771-pooyan.json) |
 | Pooyan | 297493 | [297493-pooyan.json](./297493-pooyan.json) |
 | Pooyan | 4618 | [4618-pooyan.json](./4618-pooyan.json) |
 | Poozle Mania | 224974 | [224974-poozle-mania.json](./224974-poozle-mania.json) |
@@ -14105,6 +14108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Soldier Sailor Moon S | 316798 | [316798-pretty-soldier-sailor-moon-s.json](./316798-pretty-soldier-sailor-moon-s.json) |
 | Pretty Sweet! Healing Guardian | 312831 | [312831-pretty-sweet-healing-guardian.json](./312831-pretty-sweet-healing-guardian.json) |
 | Pretty Visitors | 229791 | [229791-pretty-visitors.json](./229791-pretty-visitors.json) |
+| Pretty x Cation | 218821 | [218821-pretty-x-cation.json](./218821-pretty-x-cation.json) |
 | Pretty x Cation 2 | 333415 | [333415-pretty-x-cation-2.json](./333415-pretty-x-cation-2.json) |
 | Pretty: Exotic | 385803 | [385803-pretty-exotic.json](./385803-pretty-exotic.json) |
 | Prettyboy Inc. is Hiring! | 318858 | [318858-prettyboy-inc-is-hiring.json](./318858-prettyboy-inc-is-hiring.json) |
@@ -14179,6 +14183,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Priklyucheniya Mishek Gammi | 210311 | [210311-priklyucheniya-mishek-gammi.json](./210311-priklyucheniya-mishek-gammi.json) |
 | Prim | 143333 | [143333-prim.json](./143333-prim.json) |
 | Prim Rogue | 93803 | [93803-prim-rogue.json](./93803-prim-rogue.json) |
+| Prima Doll Encore | 218825 | [218825-prima-doll-encore.json](./218825-prima-doll-encore.json) |
+| Prima Doll: Mumei Tenrei | 218777 | [218777-prima-doll-mumei-tenrei.json](./218777-prima-doll-mumei-tenrei.json) |
 | Prima Materia XXV | 349193 | [349193-prima-materia-xxv.json](./349193-prima-materia-xxv.json) |
 | Prima: First Rogues | 291233 | [291233-prima-first-rogues.json](./291233-prima-first-rogues.json) |
 | Primado Reig 103 | 305212 | [305212-primado-reig-103.json](./305212-primado-reig-103.json) |
