@@ -1920,6 +1920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abh | 173184 | [173184-abh.json](./173184-abh.json) |
 | Abha | 111036 | [111036-abha.json](./111036-abha.json) |
 | Abhay | 377430 | [377430-abhay.json](./377430-abhay.json) |
+| Abhorrent Light | 236067 | [236067-abhorrent-light.json](./236067-abhorrent-light.json) |
 | ABI-DOS | 293628 | [293628-abi-dos.json](./293628-abi-dos.json) |
 | Abi: A Robot's Tale | 88929 | [88929-abi-a-robots-tale.json](./88929-abi-a-robots-tale.json) |
 | Abide | 389091 | [389091-abide.json](./389091-abide.json) |
@@ -9973,6 +9974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Super Squad | 74598 | [74598-animal-super-squad.json](./74598-animal-super-squad.json) |
 | Animal Survival | 378364 | [378364-animal-survival.json](./378364-animal-survival.json) |
 | Animal Survival | 379369 | [379369-animal-survival.json](./379369-animal-survival.json) |
+| Animal Survivors | 236069 | [236069-animal-survivors.json](./236069-animal-survivors.json) |
 | Animal Tilt-A-Show | 376557 | [376557-animal-tilt-a-show.json](./376557-animal-tilt-a-show.json) |
 | Animal Times | 359341 | [359341-animal-times.json](./359341-animal-times.json) |
 | Animal Tower Battle | 314952 | [314952-animal-tower-battle.json](./314952-animal-tower-battle.json) |
@@ -11885,6 +11887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquascapers | 258345 | [258345-aquascapers.json](./258345-aquascapers.json) |
 | Aquascapes | 144353 | [144353-aquascapes.json](./144353-aquascapes.json) |
 | Aquascapes: Collector's Edition | 356136 | [356136-aquascapes-collectors-edition.json](./356136-aquascapes-collectors-edition.json) |
+| Aquascaping Designer | 236093 | [236093-aquascaping-designer.json](./236093-aquascaping-designer.json) |
 | AquaSpace | 51095 | [51095-aquaspace.json](./51095-aquaspace.json) |
 | Aquasplendere | 346208 | [346208-aquasplendere.json](./346208-aquasplendere.json) |
 | Aquasquad | 293246 | [293246-aquasquad.json](./293246-aquasquad.json) |
@@ -13026,6 +13029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archipeo | 407384 | [407384-archipeo.json](./407384-archipeo.json) |
 | ArchiTac | 131782 | [131782-architac.json](./131782-architac.json) |
 | Architect | 182900 | [182900-architect.json](./182900-architect.json) |
+| Architect | 236091 | [236091-architect.json](./236091-architect.json) |
 | Architect | 326623 | [326623-architect.json](./326623-architect.json) |
 | Architect Life: A House Design Simulator | 144766 | [144766-architect-life-a-house-design-simulator.json](./144766-architect-life-a-house-design-simulator.json) |
 | Architect of Ruin | 369990 | [369990-architect-of-ruin.json](./369990-architect-of-ruin.json) |
@@ -16467,7 +16471,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
