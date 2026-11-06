@@ -3132,6 +3132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tech48 | 92628 | [92628-tech48.json](./92628-tech48.json) |
 | TechAssault | 426455 | [426455-techassault.json](./426455-techassault.json) |
 | Techblox | 144900 | [144900-techblox.json](./144900-techblox.json) |
+| Techbrawlogy: Into the RoboDome | 244032 | [244032-techbrawlogy-into-the-robodome.json](./244032-techbrawlogy-into-the-robodome.json) |
 | TechCompliant | 58448 | [58448-techcompliant.json](./58448-techcompliant.json) |
 | TechGuardian: Territory Defense | 364138 | [364138-techguardian-territory-defense.json](./364138-techguardian-territory-defense.json) |
 | Techium Eclipse | 183508 | [183508-techium-eclipse.json](./183508-techium-eclipse.json) |
@@ -3808,6 +3809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temporal Purge: Z | 154378 | [154378-temporal-purge-z.json](./154378-temporal-purge-z.json) |
 | Temporal Riff | 215864 | [215864-temporal-riff.json](./215864-temporal-riff.json) |
 | Temporal Shift: Flow of Eternity | 316935 | [316935-temporal-shift-flow-of-eternity.json](./316935-temporal-shift-flow-of-eternity.json) |
+| Temporal Shore | 244016 | [244016-temporal-shore.json](./244016-temporal-shore.json) |
 | Temporal Sprint | 190439 | [190439-temporal-sprint.json](./190439-temporal-sprint.json) |
 | Temporal Storm X: Hyperspace Dream | 55798 | [55798-temporal-storm-x-hyperspace-dream.json](./55798-temporal-storm-x-hyperspace-dream.json) |
 | Temporal Tantrum | 269447 | [269447-temporal-tantrum.json](./269447-temporal-tantrum.json) |
@@ -16107,6 +16109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shooter Ball | 233386 | [233386-the-shooter-ball.json](./233386-the-shooter-ball.json) |
 | The Shooting & The Helicopter | 203395 | [203395-the-shooting-and-the-helicopter.json](./203395-the-shooting-and-the-helicopter.json) |
 | The Shooting Maguro | 156024 | [156024-the-shooting-maguro.json](./156024-the-shooting-maguro.json) |
+| The Shooting Range 3D: Shooting Gallery Simulator | 244048 | [244048-the-shooting-range-3d-shooting-gallery-simulator.json](./244048-the-shooting-range-3d-shooting-gallery-simulator.json) |
 | The Shopkeeper | 9481 | [9481-the-shopkeeper.json](./9481-the-shopkeeper.json) |
 | The Shopping List | 198373 | [198373-the-shopping-list.json](./198373-the-shopping-list.json) |
 | The Shore | 138862 | [138862-the-shore.json](./138862-the-shore.json) |
@@ -32799,6 +32802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twordle | 200060 | [200060-twordle.json](./200060-twordle.json) |
 | Twosheep.io | 274721 | [274721-twosheep-io.json](./274721-twosheep-io.json) |
 | TWP Spine of the World | 68419 | [68419-twp-spine-of-the-world.json](./68419-twp-spine-of-the-world.json) |
+| TWS: Training and War Simulation | 244027 | [244027-tws-training-and-war-simulation.json](./244027-tws-training-and-war-simulation.json) |
 | Twwwr | 141761 | [141761-twwwr.json](./141761-twwwr.json) |
 | Twyla | 260534 | [260534-twyla.json](./260534-twyla.json) |
 | TX Poker: Texas Holdem Online | 359912 | [359912-tx-poker-texas-holdem-online.json](./359912-tx-poker-texas-holdem-online.json) |
