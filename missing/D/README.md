@@ -3048,6 +3048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daytona Racing | 92623 | [92623-daytona-racing.json](./92623-daytona-racing.json) |
 | Daytona Rush | 233194 | [233194-daytona-rush.json](./233194-daytona-rush.json) |
 | Daytona USA | 17245 | [17245-daytona-usa.json](./17245-daytona-usa.json) |
+| Daytona USA | 198613 | [198613-daytona-usa.json](./198613-daytona-usa.json) |
 | Daytona USA | 22007 | [22007-daytona-usa.json](./22007-daytona-usa.json) |
 | Daytona USA 2: Battle on the Edge | 39291 | [39291-daytona-usa-2-battle-on-the-edge.json](./39291-daytona-usa-2-battle-on-the-edge.json) |
 | Daytona USA 2: Power Edition | 349356 | [349356-daytona-usa-2-power-edition.json](./349356-daytona-usa-2-power-edition.json) |
