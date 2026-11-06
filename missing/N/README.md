@@ -769,6 +769,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR 21: Ignition - 2022 Playoff Pack | 263288 | [263288-nascar-21-ignition-2022-playoff-pack.json](./263288-nascar-21-ignition-2022-playoff-pack.json) |
 | NASCAR 21: Ignition - 2022 Throwback Pack | 263314 | [263314-nascar-21-ignition-2022-throwback-pack.json](./263314-nascar-21-ignition-2022-throwback-pack.json) |
 | Nascar 21: Ignition - Day 1 Edition | 171271 | [171271-nascar-21-ignition-day-1-edition.json](./171271-nascar-21-ignition-day-1-edition.json) |
+| Nascar 21: Ignition - Patriotic Pack | 227083 | [227083-nascar-21-ignition-patriotic-pack.json](./227083-nascar-21-ignition-patriotic-pack.json) |
+| Nascar 21: Ignition - Throwback Pack | 227084 | [227084-nascar-21-ignition-throwback-pack.json](./227084-nascar-21-ignition-throwback-pack.json) |
 | NASCAR 21: Ignition - Victory Edition | 220801 | [220801-nascar-21-ignition-victory-edition.json](./220801-nascar-21-ignition-victory-edition.json) |
 | NASCAR 26 | 412990 | [412990-nascar-26.json](./412990-nascar-26.json) |
 | NASCAR 98 | 176683 | [176683-nascar-98.json](./176683-nascar-98.json) |
