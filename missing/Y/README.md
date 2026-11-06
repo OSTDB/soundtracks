@@ -907,6 +907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yooka-Laylee: Buddy Duo Pack | 154556 | [154556-yooka-laylee-buddy-duo-pack.json](./154556-yooka-laylee-buddy-duo-pack.json) |
 | Yooka-Laylee: Collector's Edition | 109236 | [109236-yooka-laylee-collectors-edition.json](./109236-yooka-laylee-collectors-edition.json) |
 | Yooka-Laylee: Deluxe Edition | 52104 | [52104-yooka-laylee-deluxe-edition.json](./52104-yooka-laylee-deluxe-edition.json) |
+| Yoomp! 64 | 196372 | [196372-yoomp-64.json](./196372-yoomp-64.json) |
 | Yoomurjak's Ring | 117716 | [117716-yoomurjaks-ring.json](./117716-yoomurjaks-ring.json) |
 | Yooperlite | 338214 | [338214-yooperlite.json](./338214-yooperlite.json) |
 | Yoostar | 62439 | [62439-yoostar.json](./62439-yoostar.json) |
