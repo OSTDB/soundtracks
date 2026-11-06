@@ -957,7 +957,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1360,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldo: The Elemental Temples | 241842 | [241842-baldo-the-elemental-temples.json](./241842-baldo-the-elemental-temples.json) |
 | Baldo: The Guardian Owls | 118873 | [118873-baldo-the-guardian-owls.json](./118873-baldo-the-guardian-owls.json) |
 | Baldo: The Guardian Owls - The Three Fairies Edition | 200682 | [200682-baldo-the-guardian-owls-the-three-fairies-edition.json](./200682-baldo-the-guardian-owls-the-three-fairies-edition.json) |
+| Baldo: The Three Fairies | 241760 | [241760-baldo-the-three-fairies.json](./241760-baldo-the-three-fairies.json) |
 | Baldo's Discovery | 376159 | [376159-baldos-discovery.json](./376159-baldos-discovery.json) |
 | Baldoo | 116822 | [116822-baldoo.json](./116822-baldoo.json) |
 | Baldr Bringer | 71194 | [71194-baldr-bringer.json](./71194-baldr-bringer.json) |
@@ -4686,6 +4686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be: Twin | 155712 | [155712-be-twin.json](./155712-be-twin.json) |
 | Be4-Ver-1 | 364363 | [364363-be4-ver-1.json](./364363-be4-ver-1.json) |
 | Beach anime day | 130238 | [130238-beach-anime-day.json](./130238-beach-anime-day.json) |
+| Beach Badminton | 241710 | [241710-beach-badminton.json](./241710-beach-badminton.json) |
 | Beach Ball Bounce Back | 391141 | [391141-beach-ball-bounce-back.json](./391141-beach-ball-bounce-back.json) |
 | Beach Bar Simulator | 347355 | [347355-beach-bar-simulator.json](./347355-beach-bar-simulator.json) |
 | Beach Bass | 334210 | [334210-beach-bass.json](./334210-beach-bass.json) |
@@ -5576,6 +5577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Dreamer | 58703 | [58703-beautiful-dreamer.json](./58703-beautiful-dreamer.json) |
 | Beautiful Escape Dolls | 351566 | [351566-beautiful-escape-dolls.json](./351566-beautiful-escape-dolls.json) |
 | Beautiful Escape: Dungeoneer | 214574 | [214574-beautiful-escape-dungeoneer.json](./214574-beautiful-escape-dungeoneer.json) |
+| Beautiful Feet Cabin | 241722 | [241722-beautiful-feet-cabin.json](./241722-beautiful-feet-cabin.json) |
 | Beautiful Girl | 368619 | [368619-beautiful-girl.json](./368619-beautiful-girl.json) |
 | Beautiful Girl Fight School | 130207 | [130207-beautiful-girl-fight-school.json](./130207-beautiful-girl-fight-school.json) |
 | Beautiful Girls on Campus: Memories of Youth | 420678 | [420678-beautiful-girls-on-campus-memories-of-youth.json](./420678-beautiful-girls-on-campus-memories-of-youth.json) |
@@ -8267,6 +8269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Hunter 2003: Legendary Hunting | 69525 | [69525-bird-hunter-2003-legendary-hunting.json](./69525-bird-hunter-2003-legendary-hunting.json) |
 | Bird Hunter: Upland Edition | 46952 | [46952-bird-hunter-upland-edition.json](./46952-bird-hunter-upland-edition.json) |
 | Bird Hunter: Wild Wings Edition | 73491 | [73491-bird-hunter-wild-wings-edition.json](./73491-bird-hunter-wild-wings-edition.json) |
+| Bird Jump! | 241709 | [241709-bird-jump.json](./241709-bird-jump.json) |
 | Bird Jumper | 299741 | [299741-bird-jumper.json](./299741-bird-jumper.json) |
 | Bird Kind | 384561 | [384561-bird-kind.json](./384561-bird-kind.json) |
 | Bird Knight | 246276 | [246276-bird-knight.json](./246276-bird-knight.json) |
@@ -13261,6 +13264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boris the Rocket | 139602 | [139602-boris-the-rocket.json](./139602-boris-the-rocket.json) |
 | Boris the Sloth | 192328 | [192328-boris-the-sloth.json](./192328-boris-the-sloth.json) |
 | Born 2 Run : Legend of Destiny | 118203 | [118203-born-2-run-legend-of-destiny.json](./118203-born-2-run-legend-of-destiny.json) |
+| Born Again | 241695 | [241695-born-again.json](./241695-born-again.json) |
 | Born Anew | 211257 | [211257-born-anew.json](./211257-born-anew.json) |
 | Born as a Pirate | 349513 | [349513-born-as-a-pirate.json](./349513-born-as-a-pirate.json) |
 | Born from the Soil | 385236 | [385236-born-from-the-soil.json](./385236-born-from-the-soil.json) |
