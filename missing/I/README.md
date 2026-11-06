@@ -2262,6 +2262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ImageFight | 86243 | [86243-imagefight.json](./86243-imagefight.json) |
 | ImageFight II | 86242 | [86242-imagefight-ii.json](./86242-imagefight-ii.json) |
 | Images Quiz | 243318 | [243318-images-quiz.json](./243318-images-quiz.json) |
+| ImageStriker | 200794 | [200794-imagestriker.json](./200794-imagestriker.json) |
 | ImageStriker2 | 230796 | [230796-imagestriker2.json](./230796-imagestriker2.json) |
 | Imagic 1-2-3 | 94495 | [94495-imagic-1-2-3.json](./94495-imagic-1-2-3.json) |
 | Imagicard: PAW Patrol | 137612 | [137612-imagicard-paw-patrol.json](./137612-imagicard-paw-patrol.json) |
