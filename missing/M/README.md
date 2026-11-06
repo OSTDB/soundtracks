@@ -5855,7 +5855,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -8143,6 +8142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megami Ibunroku Persona Digital Collection | 263596 | [263596-megami-ibunroku-persona-digital-collection.json](./263596-megami-ibunroku-persona-digital-collection.json) |
 | Megami Meguri | 222529 | [222529-megami-meguri.json](./222529-megami-meguri.json) |
 | Megami no Etsubo | 122926 | [122926-megami-no-etsubo.json](./122926-megami-no-etsubo.json) |
+| Megami no Ken: Werner no Shou | 242341 | [242341-megami-no-ken-werner-no-shou.json](./242341-megami-no-ken-werner-no-shou.json) |
 | Megami Paradise | 191464 | [191464-megami-paradise.json](./191464-megami-paradise.json) |
 | Megami Paradise 2 | 191465 | [191465-megami-paradise-2.json](./191465-megami-paradise-2.json) |
 | Megami Quest 2 | 202606 | [202606-megami-quest-2.json](./202606-megami-quest-2.json) |
@@ -10158,6 +10158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MetroRunner | 312634 | [312634-metrorunner.json](./312634-metrorunner.json) |
 | MetroSim: The Subway Simulator | 277598 | [277598-metrosim-the-subway-simulator.json](./277598-metrosim-the-subway-simulator.json) |
 | Metu Caligine | 169765 | [169765-metu-caligine.json](./169765-metu-caligine.json) |
+| Metys's Snow Wars | 242330 | [242330-metyss-snow-wars.json](./242330-metyss-snow-wars.json) |
 | Meu | 121259 | [121259-meu.json](./121259-meu.json) |
 | Meu mundo | 120919 | [120919-meu-mundo.json](./120919-meu-mundo.json) |
 | Meu Primeiro Laptop da Xuxa | 255339 | [255339-meu-primeiro-laptop-da-xuxa.json](./255339-meu-primeiro-laptop-da-xuxa.json) |
@@ -18233,6 +18234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Bean | 27581 | [27581-mr-bean.json](./27581-mr-bean.json) |
 | Mr Bean | 299837 | [299837-mr-bean.json](./299837-mr-bean.json) |
 | Mr Bean - Risky Ropes | 112132 | [112132-mr-bean-risky-ropes.json](./112132-mr-bean-risky-ropes.json) |
+| Mr Bean Solitaire Adventure | 242305 | [242305-mr-bean-solitaire-adventure.json](./242305-mr-bean-solitaire-adventure.json) |
 | Mr Bean: Around the World | 112140 | [112140-mr-bean-around-the-world.json](./112140-mr-bean-around-the-world.json) |
 | Mr Bean: Flying Teddy | 112139 | [112139-mr-bean-flying-teddy.json](./112139-mr-bean-flying-teddy.json) |
 | Mr Blaster | 41942 | [41942-mr-blaster.json](./41942-mr-blaster.json) |
