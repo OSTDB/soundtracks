@@ -4857,6 +4857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Elf | 296686 | [296686-hentai-elf.json](./296686-hentai-elf.json) |
 | Hentai Elf | 370973 | [370973-hentai-elf.json](./370973-hentai-elf.json) |
 | Hentai Elizabeth | 340432 | [340432-hentai-elizabeth.json](./340432-hentai-elizabeth.json) |
+| Hentai Ellie | 244535 | [244535-hentai-ellie.json](./244535-hentai-ellie.json) |
 | Hentai Emiko | 340433 | [340433-hentai-emiko.json](./340433-hentai-emiko.json) |
 | Hentai Energy | 177680 | [177680-hentai-energy.json](./177680-hentai-energy.json) |
 | Hentai Energy II | 177681 | [177681-hentai-energy-ii.json](./177681-hentai-energy-ii.json) |
@@ -7344,6 +7345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hifuu Bouenkyou | 222505 | [222505-hifuu-bouenkyou.json](./222505-hifuu-bouenkyou.json) |
 | Hifuu Fragment | 161330 | [161330-hifuu-fragment.json](./161330-hifuu-fragment.json) |
 | Hifuu Nightmare Diary: Violet Detector. | 107253 | [107253-hifuu-nightmare-diary-violet-detector.json](./107253-hifuu-nightmare-diary-violet-detector.json) |
+| Hifuu OS: Hack Into the Barrier | 244559 | [244559-hifuu-os-hack-into-the-barrier.json](./244559-hifuu-os-hack-into-the-barrier.json) |
 | Higan: Eruthyll | 216031 | [216031-higan-eruthyll.json](./216031-higan-eruthyll.json) |
 | Higanbana | 122634 | [122634-higanbana.json](./122634-higanbana.json) |
 | Higanbana | 308896 | [308896-higanbana.json](./308896-higanbana.json) |
