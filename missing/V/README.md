@@ -3196,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Arena | 155844 | [155844-void-arena.json](./155844-void-arena.json) |
 | Void Authority | 355041 | [355041-void-authority.json](./355041-void-authority.json) |
 | Void Blitzing | 236505 | [236505-void-blitzing.json](./236505-void-blitzing.json) |
+| Void Bound | 244055 | [244055-void-bound.json](./244055-void-bound.json) |
 | Void Breach | 127708 | [127708-void-breach.json](./127708-void-breach.json) |
 | Void Breaker | 333451 | [333451-void-breaker.json](./333451-void-breaker.json) |
 | Void Captains | 410395 | [410395-void-captains.json](./410395-void-captains.json) |
