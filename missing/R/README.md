@@ -6041,6 +6041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Racers | 364792 | [364792-retro-racers.json](./364792-retro-racers.json) |
 | Retro Racers 2 | 104960 | [104960-retro-racers-2.json](./104960-retro-racers-2.json) |
 | Retro Racing 2 | 373614 | [373614-retro-racing-2.json](./373614-retro-racing-2.json) |
+| Retro Racing Bundle | 223749 | [223749-retro-racing-bundle.json](./223749-retro-racing-bundle.json) |
 | Retro Racing City | 116860 | [116860-retro-racing-city.json](./116860-retro-racing-city.json) |
 | Retro Raider | 58504 | [58504-retro-raider.json](./58504-retro-raider.json) |
 | Retro Rail Go! | 351104 | [351104-retro-rail-go.json](./351104-retro-rail-go.json) |
