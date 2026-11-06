@@ -5353,6 +5353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Game: Fort Boyard Edition 2021 | 154787 | [154787-escape-game-fort-boyard-edition-2021.json](./154787-escape-game-fort-boyard-edition-2021.json) |
 | Escape Game: Galleria | 370420 | [370420-escape-game-galleria.json](./370420-escape-game-galleria.json) |
 | Escape Game: R00m 02 | 334094 | [334094-escape-game-r00m-02.json](./334094-escape-game-r00m-02.json) |
+| Escape Game: Rest room3 | 212543 | [212543-escape-game-rest-room3.json](./212543-escape-game-rest-room3.json) |
 | Escape Game: The Old Folk House | 288312 | [288312-escape-game-the-old-folk-house.json](./288312-escape-game-the-old-folk-house.json) |
 | Escape Game:The Kitty The Vacant Lot | 351229 | [351229-escape-game-the-kitty-the-vacant-lot.json](./351229-escape-game-the-kitty-the-vacant-lot.json) |
 | Escape Game:The Odd Crime Scene | 356977 | [356977-escape-game-the-odd-crime-scene.json](./356977-escape-game-the-odd-crime-scene.json) |
@@ -7783,6 +7784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exoterra: A Space Journey | 383102 | [383102-exoterra-a-space-journey.json](./383102-exoterra-a-space-journey.json) |
 | Exotic | 186847 | [186847-exotic.json](./186847-exotic.json) |
 | Exotic Kosmos | 258971 | [258971-exotic-kosmos.json](./258971-exotic-kosmos.json) |
+| Exotic Match | 212526 | [212526-exotic-match.json](./212526-exotic-match.json) |
 | Exotic Matter | 75107 | [75107-exotic-matter.json](./75107-exotic-matter.json) |
 | Exotic Traffic Racer: FastLane | 256738 | [256738-exotic-traffic-racer-fastlane.json](./256738-exotic-traffic-racer-fastlane.json) |
 | Exotica 2: Pet Shop Simulator | 285680 | [285680-exotica-2-pet-shop-simulator.json](./285680-exotica-2-pet-shop-simulator.json) |
