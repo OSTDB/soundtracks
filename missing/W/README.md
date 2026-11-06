@@ -1730,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlocks Deeds: Desolation horde | 282252 | [282252-warlocks-deeds-desolation-horde.json](./282252-warlocks-deeds-desolation-horde.json) |
 | Warlocks Deeds: Uncharted Realms | 275614 | [275614-warlocks-deeds-uncharted-realms.json](./275614-warlocks-deeds-uncharted-realms.json) |
 | Warlocks Entanglement | 172970 | [172970-warlocks-entanglement.json](./172970-warlocks-entanglement.json) |
+| Warlocks Quarry | 214254 | [214254-warlocks-quarry.json](./214254-warlocks-quarry.json) |
 | Warlocks Quarry: Random Worlds + Explorer | 243773 | [243773-warlocks-quarry-random-worlds-explorer.json](./243773-warlocks-quarry-random-worlds-explorer.json) |
 | Warlode | 400530 | [400530-warlode.json](./400530-warlode.json) |
 | Warlondor | 401740 | [401740-warlondor.json](./401740-warlondor.json) |
@@ -7940,6 +7941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Fantasy: DigiWar | 336125 | [336125-world-fantasy-digiwar.json](./336125-world-fantasy-digiwar.json) |
 | World Fighting | 203263 | [203263-world-fighting.json](./203263-world-fighting.json) |
 | World Fighting "The Ishu Kakatou Waza" | 67045 | [67045-world-fighting-the-ishu-kakatou-waza.json](./67045-world-fighting-the-ishu-kakatou-waza.json) |
+| World Fighting Soccer 22 | 214235 | [214235-world-fighting-soccer-22.json](./214235-world-fighting-soccer-22.json) |
 | World Flags Quiz | 99357 | [99357-world-flags-quiz.json](./99357-world-flags-quiz.json) |
 | World Flight | 218854 | [218854-world-flight.json](./218854-world-flight.json) |
 | World Flipper | 130653 | [130653-world-flipper.json](./130653-world-flipper.json) |
