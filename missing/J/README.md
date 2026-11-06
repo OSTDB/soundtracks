@@ -1422,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Hunter : Lost Temple | 105853 | [105853-jewel-hunter-lost-temple.json](./105853-jewel-hunter-lost-temple.json) |
 | Jewel Jungle Temple | 104579 | [104579-jewel-jungle-temple.json](./104579-jewel-jungle-temple.json) |
 | Jewel Legends: Atlantis | 87522 | [87522-jewel-legends-atlantis.json](./87522-jewel-legends-atlantis.json) |
+| Jewel Legends: Atlantis & Jewel Legends: Magical Kingdom | 201884 | [201884-jewel-legends-atlantis-and-jewel-legends-magical-kingdom.json](./201884-jewel-legends-atlantis-and-jewel-legends-magical-kingdom.json) |
 | Jewel Legends: Magical Kingdom | 87085 | [87085-jewel-legends-magical-kingdom.json](./87085-jewel-legends-magical-kingdom.json) |
 | Jewel Legends: Tree of Life | 85206 | [85206-jewel-legends-tree-of-life.json](./85206-jewel-legends-tree-of-life.json) |
 | Jewel Link Chronicles: Mountains of Madness | 65458 | [65458-jewel-link-chronicles-mountains-of-madness.json](./65458-jewel-link-chronicles-mountains-of-madness.json) |
