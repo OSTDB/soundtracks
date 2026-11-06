@@ -4407,6 +4407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perihelion: Rogue Orbit | 409845 | [409845-perihelion-rogue-orbit.json](./409845-perihelion-rogue-orbit.json) |
 | Perihelion: The Prophecy | 72287 | [72287-perihelion-the-prophecy.json](./72287-perihelion-the-prophecy.json) |
 | Perika Game | 302739 | [302739-perika-game.json](./302739-perika-game.json) |
+| Perikoto | 244548 | [244548-perikoto.json](./244548-perikoto.json) |
 | Peril | 177036 | [177036-peril.json](./177036-peril.json) |
 | Peril | 197786 | [197786-peril.json](./197786-peril.json) |
 | Peril | 320208 | [320208-peril.json](./320208-peril.json) |
