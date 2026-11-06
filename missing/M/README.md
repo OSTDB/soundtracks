@@ -5077,6 +5077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Ninja | 15539 | [15539-master-ninja.json](./15539-master-ninja.json) |
 | Master Ninja: Shuriken Killer | 278330 | [278330-master-ninja-shuriken-killer.json](./278330-master-ninja-shuriken-killer.json) |
 | Master of 4 Swords | 360666 | [360666-master-of-4-swords.json](./360666-master-of-4-swords.json) |
+| Master of A Secret Dream World | 213701 | [213701-master-of-a-secret-dream-world.json](./213701-master-of-a-secret-dream-world.json) |
 | Master of Alchemy | 10540 | [10540-master-of-alchemy.json](./10540-master-of-alchemy.json) |
 | Master of Alchemy - Rise of the Mechanologists | 54208 | [54208-master-of-alchemy-rise-of-the-mechanologists.json](./54208-master-of-alchemy-rise-of-the-mechanologists.json) |
 | Master of Bow | 328449 | [328449-master-of-bow.json](./328449-master-of-bow.json) |
