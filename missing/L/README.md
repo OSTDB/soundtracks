@@ -737,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of the Dead: Road to Fiddler's Green | 5900 | [5900-land-of-the-dead-road-to-fiddlers-green.json](./5900-land-of-the-dead-road-to-fiddlers-green.json) |
 | Land of the Druids | 379843 | [379843-land-of-the-druids.json](./379843-land-of-the-druids.json) |
 | Land of the Lost: Crystal Adventure | 68042 | [68042-land-of-the-lost-crystal-adventure.json](./68042-land-of-the-lost-crystal-adventure.json) |
+| Land of the Mage Lords | 208551 | [208551-land-of-the-mage-lords.json](./208551-land-of-the-mage-lords.json) |
 | Land of the Survivors | 249028 | [249028-land-of-the-survivors.json](./249028-land-of-the-survivors.json) |
 | Land of the Vikings | 211376 | [211376-land-of-the-vikings.json](./211376-land-of-the-vikings.json) |
 | Land of the Vikings: Dage Island | 316374 | [316374-land-of-the-vikings-dage-island.json](./316374-land-of-the-vikings-dage-island.json) |
@@ -8027,6 +8028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost girl's [diary] | 33473 | [33473-lost-girls-diary.json](./33473-lost-girls-diary.json) |
 | Lost God | 24939 | [24939-lost-god.json](./24939-lost-god.json) |
 | Lost Gold | 156065 | [156065-lost-gold.json](./156065-lost-gold.json) |
+| Lost Gray | 208561 | [208561-lost-gray.json](./208561-lost-gray.json) |
 | Lost Grimoires 1-3 | 185983 | [185983-lost-grimoires-1-3.json](./185983-lost-grimoires-1-3.json) |
 | Lost Grimoires 2: Shard of Mystery | 29961 | [29961-lost-grimoires-2-shard-of-mystery.json](./29961-lost-grimoires-2-shard-of-mystery.json) |
 | Lost Grimoires 3: The Forgotten Well | 76939 | [76939-lost-grimoires-3-the-forgotten-well.json](./76939-lost-grimoires-3-the-forgotten-well.json) |
