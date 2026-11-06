@@ -2667,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barista Life Simulator 2026 | 391255 | [391255-barista-life-simulator-2026.json](./391255-barista-life-simulator-2026.json) |
 | Barista Master: Café Empire | 333713 | [333713-barista-master-cafe-empire.json](./333713-barista-master-cafe-empire.json) |
 | Barista Simulator | 216630 | [216630-barista-simulator.json](./216630-barista-simulator.json) |
+| Barista: Rise and Grind | 210963 | [210963-barista-rise-and-grind.json](./210963-barista-rise-and-grind.json) |
 | Barista: Take Away | 207533 | [207533-barista-take-away.json](./207533-barista-take-away.json) |
 | Barji Kart | 223065 | [223065-barji-kart.json](./223065-barji-kart.json) |
 | Bark & Blade | 420015 | [420015-bark-and-blade.json](./420015-bark-and-blade.json) |
