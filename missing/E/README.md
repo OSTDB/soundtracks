@@ -3843,6 +3843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless War 6 | 234924 | [234924-endless-war-6.json](./234924-endless-war-6.json) |
 | Endless War 7 | 234926 | [234926-endless-war-7.json](./234926-endless-war-7.json) |
 | Endless Wave | 75068 | [75068-endless-wave.json](./75068-endless-wave.json) |
+| Endless Waves Survival | 201369 | [201369-endless-waves-survival.json](./201369-endless-waves-survival.json) |
 | Endless Winter | 36970 | [36970-endless-winter.json](./36970-endless-winter.json) |
 | Endless World | 106312 | [106312-endless-world.json](./106312-endless-world.json) |
 | Endless Zombie Tower | 151172 | [151172-endless-zombie-tower.json](./151172-endless-zombie-tower.json) |
@@ -8124,6 +8125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Bike X | 213142 | [213142-extreme-bike-x.json](./213142-extreme-bike-x.json) |
 | Extreme Bikers | 234473 | [234473-extreme-bikers.json](./234473-extreme-bikers.json) |
 | Extreme Bullrider | 71846 | [71846-extreme-bullrider.json](./71846-extreme-bullrider.json) |
+| Extreme Burger Defense | 201342 | [201342-extreme-burger-defense.json](./201342-extreme-burger-defense.json) |
 | Extreme Bus Driver 2024 | 261401 | [261401-extreme-bus-driver-2024.json](./261401-extreme-bus-driver-2024.json) |
 | Extreme Bus Driver Simulator | 261763 | [261763-extreme-bus-driver-simulator.json](./261763-extreme-bus-driver-simulator.json) |
 | Extreme Car Drift Simulator | 234197 | [234197-extreme-car-drift-simulator.json](./234197-extreme-car-drift-simulator.json) |
