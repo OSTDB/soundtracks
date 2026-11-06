@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gadget: Invention, Travel & Adventure | 73567 | [73567-gadget-invention-travel-and-adventure.json](./73567-gadget-invention-travel-and-adventure.json) |
 | Gadget: Past as Future | 131905 | [131905-gadget-past-as-future.json](./131905-gadget-past-as-future.json) |
 | Gadgeteer | 103264 | [103264-gadgeteer.json](./103264-gadgeteer.json) |
+| Gadgets: Design It, Build It, Play It | 209584 | [209584-gadgets-design-it-build-it-play-it.json](./209584-gadgets-design-it-build-it-play-it.json) |
 | Gadkiy Ya 2 | 210318 | [210318-gadkiy-ya-2.json](./210318-gadkiy-ya-2.json) |
 | Gado Fight | 132222 | [132222-gado-fight.json](./132222-gado-fight.json) |
 | Gadurin | 137496 | [137496-gadurin.json](./137496-gadurin.json) |
@@ -947,6 +948,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy of Drones | 54495 | [54495-galaxy-of-drones.json](./54495-galaxy-of-drones.json) |
 | Galaxy of Games Platinum Edition | 205916 | [205916-galaxy-of-games-platinum-edition.json](./205916-galaxy-of-games-platinum-edition.json) |
 | Galaxy of Games Red Edition | 205918 | [205918-galaxy-of-games-red-edition.json](./205918-galaxy-of-games-red-edition.json) |
+| Galaxy of Games: Yellow Edition | 209587 | [209587-galaxy-of-games-yellow-edition.json](./209587-galaxy-of-games-yellow-edition.json) |
+| Galaxy of MahJongg | 209588 | [209588-galaxy-of-mahjongg.json](./209588-galaxy-of-mahjongg.json) |
 | Galaxy of Pen and Paper +1 Edition | 205270 | [205270-galaxy-of-pen-and-paper-1-edition.json](./205270-galaxy-of-pen-and-paper-1-edition.json) |
 | Galaxy of Trian | 175182 | [175182-galaxy-of-trian.json](./175182-galaxy-of-trian.json) |
 | Galaxy of Trian Board Game | 85603 | [85603-galaxy-of-trian-board-game.json](./85603-galaxy-of-trian-board-game.json) |
@@ -5958,7 +5961,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of War III: Remastered | 19959 | [19959-god-of-war-iii-remastered.json](./19959-god-of-war-iii-remastered.json) |
 | God of War Laufey | 404063 | [404063-god-of-war-laufey.json](./404063-god-of-war-laufey.json) |
 | God of War Laufey: Digital Deluxe Edition | 420579 | [420579-god-of-war-laufey-digital-deluxe-edition.json](./420579-god-of-war-laufey-digital-deluxe-edition.json) |
+| God of War Ragnarök: Collector's Edition | 209805 | [209805-god-of-war-ragnarok-collectors-edition.json](./209805-god-of-war-ragnarok-collectors-edition.json) |
 | God of War Ragnarök: Digital Deluxe Edition | 222603 | [222603-god-of-war-ragnarok-digital-deluxe-edition.json](./222603-god-of-war-ragnarok-digital-deluxe-edition.json) |
+| God of War Ragnarök: Jötnar Edition | 209806 | [209806-god-of-war-ragnarok-jotnar-edition.json](./209806-god-of-war-ragnarok-jotnar-edition.json) |
+| God of War Ragnarök: Launch Edition | 209807 | [209807-god-of-war-ragnarok-launch-edition.json](./209807-god-of-war-ragnarok-launch-edition.json) |
 | God of War Remake | 389450 | [389450-god-of-war-remake.json](./389450-god-of-war-remake.json) |
 | God of War Sons of Sparta: Digital Deluxe Edition | 407463 | [407463-god-of-war-sons-of-sparta-digital-deluxe-edition.json](./407463-god-of-war-sons-of-sparta-digital-deluxe-edition.json) |
 | God of War Trilogy | 44653 | [44653-god-of-war-trilogy.json](./44653-god-of-war-trilogy.json) |
@@ -10294,6 +10300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess Their Answer | 316105 | [316105-guess-their-answer.json](./316105-guess-their-answer.json) |
 | Guess Where You Are | 320164 | [320164-guess-where-you-are.json](./320164-guess-where-you-are.json) |
 | Guess who ? | 104929 | [104929-guess-who.json](./104929-guess-who.json) |
+| Guess Who? | 209783 | [209783-guess-who.json](./209783-guess-who.json) |
 | Guess Who? | 331927 | [331927-guess-who.json](./331927-guess-who.json) |
 | Guess Who? Fire Emblem: Three Houses Edition! | 176916 | [176916-guess-who-fire-emblem-three-houses-edition.json](./176916-guess-who-fire-emblem-three-houses-edition.json) |
 | Guess Word | 104345 | [104345-guess-word.json](./104345-guess-word.json) |
@@ -10657,6 +10664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gummibär Mobile Game | 321276 | [321276-gummibar-mobile-game.json](./321276-gummibar-mobile-game.json) |
 | Gummy Bear Idle: No Job, Just Jelly | 369160 | [369160-gummy-bear-idle-no-job-just-jelly.json](./369160-gummy-bear-idle-no-job-just-jelly.json) |
 | Gummy Bear Mafia | 330493 | [330493-gummy-bear-mafia.json](./330493-gummy-bear-mafia.json) |
+| Gummy Bears Mini Golf | 209784 | [209784-gummy-bears-mini-golf.json](./209784-gummy-bears-mini-golf.json) |
 | Gummy Bears Mini Golf | 85169 | [85169-gummy-bears-mini-golf.json](./85169-gummy-bears-mini-golf.json) |
 | Gummy Bears Minigolf | 47722 | [47722-gummy-bears-minigolf.json](./47722-gummy-bears-minigolf.json) |
 | Gummy Bears: Magical Medallion | 50628 | [50628-gummy-bears-magical-medallion.json](./50628-gummy-bears-magical-medallion.json) |
@@ -11306,7 +11314,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gus and the Cyberbuds: Sing, Play & Paint-A-Long | 282237 | [282237-gus-and-the-cyberbuds-sing-play-and-paint-a-long.json](./282237-gus-and-the-cyberbuds-sing-play-and-paint-a-long.json) |
 | Gus and the Cyberbuds: Stellar Game Center! | 282381 | [282381-gus-and-the-cyberbuds-stellar-game-center.json](./282381-gus-and-the-cyberbuds-stellar-game-center.json) |
 | Gus Game | 310881 | [310881-gus-game.json](./310881-gus-game.json) |
+| Gus Goes to Cyberopolis | 209785 | [209785-gus-goes-to-cyberopolis.json](./209785-gus-goes-to-cyberopolis.json) |
+| Gus Goes to CyberStone Park | 209786 | [209786-gus-goes-to-cyberstone-park.json](./209786-gus-goes-to-cyberstone-park.json) |
 | Gus Goes to Cybertown | 282236 | [282236-gus-goes-to-cybertown.json](./282236-gus-goes-to-cybertown.json) |
+| Gus Goes to Kooky Carnival | 209787 | [209787-gus-goes-to-kooky-carnival.json](./209787-gus-goes-to-kooky-carnival.json) |
 | Gus Track Adventures VR | 28672 | [28672-gus-track-adventures-vr.json](./28672-gus-track-adventures-vr.json) |
 | Gus's Feed Sort | 246529 | [246529-guss-feed-sort.json](./246529-guss-feed-sort.json) |
 | Gusano Go | 183860 | [183860-gusano-go.json](./183860-gusano-go.json) |
