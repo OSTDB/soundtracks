@@ -5588,6 +5588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender | 150104 | [150104-defender.json](./150104-defender.json) |
 | Defender | 154321 | [154321-defender.json](./154321-defender.json) |
 | Defender | 198721 | [198721-defender.json](./198721-defender.json) |
+| Defender | 218773 | [218773-defender.json](./218773-defender.json) |
 | Defender | 228072 | [228072-defender.json](./228072-defender.json) |
 | Defender | 239136 | [239136-defender.json](./239136-defender.json) |
 | Defender | 278240 | [278240-defender.json](./278240-defender.json) |
@@ -8736,6 +8737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Hard | 245290 | [245290-die-hard.json](./245290-die-hard.json) |
 | Die Hard | 47188 | [47188-die-hard.json](./47188-die-hard.json) |
 | Die Hard | 72331 | [72331-die-hard.json](./72331-die-hard.json) |
+| Die Hard 2: Die Harder | 218796 | [218796-die-hard-2-die-harder.json](./218796-die-hard-2-die-harder.json) |
 | Die Hard 2: Die Harder | 245291 | [245291-die-hard-2-die-harder.json](./245291-die-hard-2-die-harder.json) |
 | Die Hard 64 | 136862 | [136862-die-hard-64.json](./136862-die-hard-64.json) |
 | Die Hard Arcade | 39527 | [39527-die-hard-arcade.json](./39527-die-hard-arcade.json) |
@@ -8880,6 +8882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Dirt | 278462 | [278462-dig-dirt.json](./278462-dig-dirt.json) |
 | Dig Dogs: Streetbusters | 50160 | [50160-dig-dogs-streetbusters.json](./50160-dig-dogs-streetbusters.json) |
 | Dig Down | 368689 | [368689-dig-down.json](./368689-dig-down.json) |
+| Dig Dug | 218770 | [218770-dig-dug.json](./218770-dig-dug.json) |
 | Dig Dug | 218860 | [218860-dig-dug.json](./218860-dig-dug.json) |
 | Dig Dug | 218861 | [218861-dig-dug.json](./218861-dig-dug.json) |
 | Dig Dug | 218862 | [218862-dig-dug.json](./218862-dig-dug.json) |
