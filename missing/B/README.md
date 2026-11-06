@@ -957,7 +957,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3757,6 +3756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Kid: Fortress of Peril | 11145 | [11145-battle-kid-fortress-of-peril.json](./11145-battle-kid-fortress-of-peril.json) |
 | Battle Kingdom | 419147 | [419147-battle-kingdom.json](./419147-battle-kingdom.json) |
 | Battle Kitty | 322249 | [322249-battle-kitty.json](./322249-battle-kitty.json) |
+| Battle Konchuuden | 242867 | [242867-battle-konchuuden.json](./242867-battle-konchuuden.json) |
 | Battle Lane Vol. 5 | 40028 | [40028-battle-lane-vol-5.json](./40028-battle-lane-vol-5.json) |
 | Battle Leet | 265727 | [265727-battle-leet.json](./265727-battle-leet.json) |
 | Battle Legends | 144805 | [144805-battle-legends.json](./144805-battle-legends.json) |
@@ -14620,6 +14620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravely Default: Flying Fairy - HD Remaster | 338083 | [338083-bravely-default-flying-fairy-hd-remaster.json](./338083-bravely-default-flying-fairy-hd-remaster.json) |
 | Bravely Default: Flying Fairy Collector's Pack | 89878 | [89878-bravely-default-flying-fairy-collectors-pack.json](./89878-bravely-default-flying-fairy-collectors-pack.json) |
 | Bravely Second: End Layer - Deluxe Collector's Edition | 47664 | [47664-bravely-second-end-layer-deluxe-collectors-edition.json](./47664-bravely-second-end-layer-deluxe-collectors-edition.json) |
+| Bravely Second: The Ballad of the Three Cavaliers | 242899 | [242899-bravely-second-the-ballad-of-the-three-cavaliers.json](./242899-bravely-second-the-ballad-of-the-three-cavaliers.json) |
 | BraveMatch | 145965 | [145965-bravematch.json](./145965-bravematch.json) |
 | BraverBots | 233032 | [233032-braverbots.json](./233032-braverbots.json) |
 | Bravers | 158915 | [158915-bravers.json](./158915-bravers.json) |
@@ -15722,6 +15723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Skies | 181136 | [181136-broken-skies.json](./181136-broken-skies.json) |
 | Broken Sky | 147237 | [147237-broken-sky.json](./147237-broken-sky.json) |
 | Broken Soul | 245789 | [245789-broken-soul.json](./245789-broken-soul.json) |
+| Broken Spectre | 242871 | [242871-broken-spectre.json](./242871-broken-spectre.json) |
 | Broken Spell | 122422 | [122422-broken-spell.json](./122422-broken-spell.json) |
 | Broken Spell 2 | 129009 | [129009-broken-spell-2.json](./129009-broken-spell-2.json) |
 | Broken Spirit | 371256 | [371256-broken-spirit.json](./371256-broken-spirit.json) |
