@@ -1196,6 +1196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can't Be Touched | 252892 | [252892-cant-be-touched.json](./252892-cant-be-touched.json) |
 | Can't buy me love! | 363940 | [363940-cant-buy-me-love.json](./363940-cant-buy-me-love.json) |
 | Can't Drive This | 27097 | [27097-cant-drive-this.json](./27097-cant-drive-this.json) |
+| Can't Escape the Backrooms | 235546 | [235546-cant-escape-the-backrooms.json](./235546-cant-escape-the-backrooms.json) |
 | Can't Even See the Sky | 361922 | [361922-cant-even-see-the-sky.json](./361922-cant-even-see-the-sky.json) |
 | Can't Hold My Feelings | 403434 | [403434-cant-hold-my-feelings.json](./403434-cant-hold-my-feelings.json) |
 | Can't Let Go | 185841 | [185841-cant-let-go.json](./185841-cant-let-go.json) |
@@ -13383,6 +13384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connected Hearts: Hour of the Witch - Collector's Edition | 365708 | [365708-connected-hearts-hour-of-the-witch-collectors-edition.json](./365708-connected-hearts-hour-of-the-witch-collectors-edition.json) |
 | Connected Hearts: Hour of the Witch DLC | 360600 | [360600-connected-hearts-hour-of-the-witch-dlc.json](./360600-connected-hearts-hour-of-the-witch-dlc.json) |
 | Connected Hearts: The Full Moon Curse - Collector's Edition | 187847 | [187847-connected-hearts-the-full-moon-curse-collectors-edition.json](./187847-connected-hearts-the-full-moon-curse-collectors-edition.json) |
+| Connected Hearts: The Musketeers Saga - Collector's Edition | 235567 | [235567-connected-hearts-the-musketeers-saga-collectors-edition.json](./235567-connected-hearts-the-musketeers-saga-collectors-edition.json) |
 | Connected Hearts: The Musketeers Saga - DLC | 239149 | [239149-connected-hearts-the-musketeers-saga-dlc.json](./239149-connected-hearts-the-musketeers-saga-dlc.json) |
 | Connected through fate | 219227 | [219227-connected-through-fate.json](./219227-connected-through-fate.json) |
 | Connected Towers | 149864 | [149864-connected-towers.json](./149864-connected-towers.json) |
@@ -17479,6 +17481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croc's World Construction Kit (Level Maker) | 88729 | [88729-crocs-world-construction-kit-level-maker.json](./88729-crocs-world-construction-kit-level-maker.json) |
 | Croc's World Run | 115465 | [115465-crocs-world-run.json](./115465-crocs-world-run.json) |
 | CrocApoca!! Crocodile maiden at the End of the World | 133157 | [133157-crocapoca-crocodile-maiden-at-the-end-of-the-world.json](./133157-crocapoca-crocodile-maiden-at-the-end-of-the-world.json) |
+| Crochet Cavalcade | 235569 | [235569-crochet-cavalcade.json](./235569-crochet-cavalcade.json) |
 | Crock | 184390 | [184390-crock.json](./184390-crock.json) |
 | Crockpot | 306766 | [306766-crockpot.json](./306766-crockpot.json) |
 | Croco.Games | 342201 | [342201-croco-games.json](./342201-croco-games.json) |
