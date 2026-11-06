@@ -6319,6 +6319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rev'd Up Racing | 312195 | [312195-revd-up-racing.json](./312195-revd-up-racing.json) |
 | ReVamp | 394666 | [394666-revamp.json](./394666-revamp.json) |
 | Revamped | 260216 | [260216-revamped.json](./260216-revamped.json) |
+| Revans | 231145 | [231145-revans.json](./231145-revans.json) |
 | Revasion | 190870 | [190870-revasion.json](./190870-revasion.json) |
 | Reveal | 128814 | [128814-reveal.json](./128814-reveal.json) |
 | Reveal Fantasia | 112136 | [112136-reveal-fantasia.json](./112136-reveal-fantasia.json) |
@@ -7574,6 +7575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring: Infinity | 37495 | [37495-ring-infinity.json](./37495-ring-infinity.json) |
 | Ring^-27 | 130599 | [130599-ring-27.json](./130599-ring-27.json) |
 | Ringash | 244299 | [244299-ringash.json](./244299-ringash.json) |
+| Ringborn | 231146 | [231146-ringborn.json](./231146-ringborn.json) |
 | Ringbound | 397931 | [397931-ringbound.json](./397931-ringbound.json) |
 | Ringer | 324336 | [324336-ringer.json](./324336-ringer.json) |
 | Ringies | 34637 | [34637-ringies.json](./34637-ringies.json) |
@@ -9234,6 +9236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Rock Rock | 326105 | [326105-rock-rock-rock.json](./326105-rock-rock-rock.json) |
 | Rock Run | 103988 | [103988-rock-run.json](./103988-rock-run.json) |
 | Rock Runners | 23403 | [23403-rock-runners.json](./23403-rock-runners.json) |
+| Rock Rush | 231147 | [231147-rock-rush.json](./231147-rock-rush.json) |
 | Rock Scissor Paper | 262927 | [262927-rock-scissor-paper.json](./262927-rock-scissor-paper.json) |
 | Rock Show | 245700 | [245700-rock-show.json](./245700-rock-show.json) |
 | Rock Simulator | 127932 | [127932-rock-simulator.json](./127932-rock-simulator.json) |
@@ -10021,6 +10024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Sentry | 142987 | [142987-rogue-sentry.json](./142987-rogue-sentry.json) |
 | Rogue Shell | 395553 | [395553-rogue-shell.json](./395553-rogue-shell.json) |
 | Rogue Shift | 139630 | [139630-rogue-shift.json](./139630-rogue-shift.json) |
+| Rogue Ship | 231148 | [231148-rogue-ship.json](./231148-rogue-ship.json) |
 | Rogue Shooter: The FPS Roguelike | 17307 | [17307-rogue-shooter-the-fps-roguelike.json](./17307-rogue-shooter-the-fps-roguelike.json) |
 | Rogue Singularity | 34048 | [34048-rogue-singularity.json](./34048-rogue-singularity.json) |
 | Rogue Skies | 366869 | [366869-rogue-skies.json](./366869-rogue-skies.json) |
