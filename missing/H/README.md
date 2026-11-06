@@ -1378,6 +1378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hang Pilot | 307858 | [307858-hang-pilot.json](./307858-hang-pilot.json) |
 | Hang Up | 110649 | [110649-hang-up.json](./110649-hang-up.json) |
 | Hang up Street | 333092 | [333092-hang-up-street.json](./333092-hang-up-street.json) |
+| Hang-On | 198617 | [198617-hang-on.json](./198617-hang-on.json) |
 | Hang-On | 198633 | [198633-hang-on.json](./198633-hang-on.json) |
 | Hang-On | 364569 | [364569-hang-on.json](./364569-hang-on.json) |
 | Hang-On | 364571 | [364571-hang-on.json](./364571-hang-on.json) |
