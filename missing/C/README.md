@@ -4184,6 +4184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat&Line | 134405 | [134405-cat-and-line.json](./134405-cat-and-line.json) |
 | Cat&rooms | 119711 | [119711-cat-and-rooms.json](./119711-cat-and-rooms.json) |
 | Cata-Bomb | 412437 | [412437-cata-bomb.json](./412437-cata-bomb.json) |
+| Catabasis | 221007 | [221007-catabasis.json](./221007-catabasis.json) |
 | Cataclismo | 250162 | [250162-cataclismo.json](./250162-cataclismo.json) |
 | Cataclismo: The Old Kingdom | 411100 | [411100-cataclismo-the-old-kingdom.json](./411100-cataclismo-the-old-kingdom.json) |
 | Cataclysm | 250651 | [250651-cataclysm.json](./250651-cataclysm.json) |
@@ -16128,6 +16129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot Blast! | 285253 | [285253-crash-bandicoot-blast.json](./285253-crash-bandicoot-blast.json) |
 | Crash Bandicoot Collectors' Edition | 43683 | [43683-crash-bandicoot-collectors-edition.json](./43683-crash-bandicoot-collectors-edition.json) |
 | Crash Bandicoot Flash | 228752 | [228752-crash-bandicoot-flash.json](./228752-crash-bandicoot-flash.json) |
+| Crash Bandicoot N. Sane Trilogy: Bonus Edition | 220940 | [220940-crash-bandicoot-n-sane-trilogy-bonus-edition.json](./220940-crash-bandicoot-n-sane-trilogy-bonus-edition.json) |
 | Crash Bandicoot N. Sane Trilogy: Future Tense | 229857 | [229857-crash-bandicoot-n-sane-trilogy-future-tense.json](./229857-crash-bandicoot-n-sane-trilogy-future-tense.json) |
 | Crash Bandicoot N. Sane Trilogy: Stormy Ascent | 229856 | [229856-crash-bandicoot-n-sane-trilogy-stormy-ascent.json](./229856-crash-bandicoot-n-sane-trilogy-stormy-ascent.json) |
 | Crash Bandicoot N.Finite | 374279 | [374279-crash-bandicoot-n-finite.json](./374279-crash-bandicoot-n-finite.json) |
