@@ -821,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Chariots: Royal Legion | 43503 | [43503-war-chariots-royal-legion.json](./43503-war-chariots-royal-legion.json) |
 | War Chess | 93410 | [93410-war-chess.json](./93410-war-chess.json) |
 | War Church | 271805 | [271805-war-church.json](./271805-war-church.json) |
+| War Commander | 202434 | [202434-war-commander.json](./202434-war-commander.json) |
 | War crime | 82815 | [82815-war-crime.json](./82815-war-crime.json) |
 | War Cube | 31342 | [31342-war-cube.json](./31342-war-cube.json) |
 | War Diary | 2620 | [2620-war-diary.json](./2620-war-diary.json) |
@@ -4734,6 +4735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Is The Killer: Episode IV | 304356 | [304356-who-is-the-killer-episode-iv.json](./304356-who-is-the-killer-episode-iv.json) |
 | Who is the Liar? | 156929 | [156929-who-is-the-liar.json](./156929-who-is-the-liar.json) |
 | Who is the New Maid? | 246076 | [246076-who-is-the-new-maid.json](./246076-who-is-the-new-maid.json) |
+| Who is the Red Queen? | 202474 | [202474-who-is-the-red-queen.json](./202474-who-is-the-red-queen.json) |
 | Who is There? | 221761 | [221761-who-is-there.json](./221761-who-is-there.json) |
 | Who Is This Man | 113570 | [113570-who-is-this-man.json](./113570-who-is-this-man.json) |
 | Who Is You | 123549 | [123549-who-is-you.json](./123549-who-is-you.json) |
