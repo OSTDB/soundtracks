@@ -1305,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veloria: The Knot of Candles | 331277 | [331277-veloria-the-knot-of-candles.json](./331277-veloria-the-knot-of-candles.json) |
 | Velorys | 419856 | [419856-velorys.json](./419856-velorys.json) |
 | Veloz | 238927 | [238927-veloz.json](./238927-veloz.json) |
+| Velsabor | 241173 | [241173-velsabor.json](./241173-velsabor.json) |
 | Velucity | 155656 | [155656-velucity.json](./155656-velucity.json) |
 | Velucity: O2Jam Pack 1 | 170381 | [170381-velucity-o2jam-pack-1.json](./170381-velucity-o2jam-pack-1.json) |
 | Velumortis | 123202 | [123202-velumortis.json](./123202-velumortis.json) |
