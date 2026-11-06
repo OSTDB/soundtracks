@@ -799,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Mask's Tale | 306997 | [306997-a-masks-tale.json](./306997-a-masks-tale.json) |
 | A Mass of Dead | 16924 | [16924-a-mass-of-dead.json](./16924-a-mass-of-dead.json) |
 | A Match Made In Hell | 402863 | [402863-a-match-made-in-hell.json](./402863-a-match-made-in-hell.json) |
+| A Match with a Succubus Witch | 201881 | [201881-a-match-with-a-succubus-witch.json](./201881-a-match-with-a-succubus-witch.json) |
 | A Matching Game | 299810 | [299810-a-matching-game.json](./299810-a-matching-game.json) |
 | A Matter of Caos: Episode 1 | 102001 | [102001-a-matter-of-caos-episode-1.json](./102001-a-matter-of-caos-episode-1.json) |
 | A Matter of Caos: Episode 2 | 101990 | [101990-a-matter-of-caos-episode-2.json](./101990-a-matter-of-caos-episode-2.json) |
@@ -4439,6 +4440,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AfterQuest | 394314 | [394314-afterquest.json](./394314-afterquest.json) |
 | Afterschool : Reel Danger | 361913 | [361913-afterschool-reel-danger.json](./361913-afterschool-reel-danger.json) |
 | Afterschool Adventurers Club | 235398 | [235398-afterschool-adventurers-club.json](./235398-afterschool-adventurers-club.json) |
+| Afterschool Mystery Club: 13 Creepy Chambers | 201904 | [201904-afterschool-mystery-club-13-creepy-chambers.json](./201904-afterschool-mystery-club-13-creepy-chambers.json) |
+| Afterschool Mystery Club: 13 Rooms of Doom | 201903 | [201903-afterschool-mystery-club-13-rooms-of-doom.json](./201903-afterschool-mystery-club-13-rooms-of-doom.json) |
 | Afterschool! Survival Club | 193798 | [193798-afterschool-survival-club.json](./193798-afterschool-survival-club.json) |
 | Aftershock | 346183 | [346183-aftershock.json](./346183-aftershock.json) |
 | Aftershock | 376846 | [376846-aftershock.json](./376846-aftershock.json) |
@@ -10825,6 +10828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Runner | 55214 | [55214-another-runner.json](./55214-another-runner.json) |
 | Another SameGame | 64434 | [64434-another-samegame.json](./64434-another-samegame.json) |
 | Another Shadow | 237468 | [237468-another-shadow.json](./237468-another-shadow.json) |
+| Another Side | 201872 | [201872-another-side.json](./201872-another-side.json) |
 | Another Sight | 186835 | [186835-another-sight.json](./186835-another-sight.json) |
 | Another Sight | 90146 | [90146-another-sight.json](./90146-another-sight.json) |
 | Another Sight: Hodge's Journey | 111691 | [111691-another-sight-hodges-journey.json](./111691-another-sight-hodges-journey.json) |
@@ -16623,6 +16627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
