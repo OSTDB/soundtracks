@@ -342,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Hate You, Please Suffer | 182051 | [182051-i-hate-you-please-suffer.json](./182051-i-hate-you-please-suffer.json) |
 | I Hate Zombies | 232890 | [232890-i-hate-zombies.json](./232890-i-hate-zombies.json) |
 | I Have a Dream | 255703 | [255703-i-have-a-dream.json](./255703-i-have-a-dream.json) |
+| I Have A Fear | 229468 | [229468-i-have-a-fear.json](./229468-i-have-a-fear.json) |
 | I Have a Sect in the Mountains | 374903 | [374903-i-have-a-sect-in-the-mountains.json](./374903-i-have-a-sect-in-the-mountains.json) |
 | I Have an Adventure House | 417345 | [417345-i-have-an-adventure-house.json](./417345-i-have-an-adventure-house.json) |
 | I Have an Item | 384113 | [384113-i-have-an-item.json](./384113-i-have-an-item.json) |
@@ -480,6 +481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Remember the Light | 152864 | [152864-i-remember-the-light.json](./152864-i-remember-the-light.json) |
 | I Remember the Rain | 223669 | [223669-i-remember-the-rain.json](./223669-i-remember-the-rain.json) |
 | I Remember This Dream | 314905 | [314905-i-remember-this-dream.json](./314905-i-remember-this-dream.json) |
+| I Rented a Boat | 229469 | [229469-i-rented-a-boat.json](./229469-i-rented-a-boat.json) |
 | I ride a Scooter | 117444 | [117444-i-ride-a-scooter.json](./117444-i-ride-a-scooter.json) |
 | I Saw a Flying Saucer | 369092 | [369092-i-saw-a-flying-saucer.json](./369092-i-saw-a-flying-saucer.json) |
 | I Saw A Strange Little Man | 301368 | [301368-i-saw-a-strange-little-man.json](./301368-i-saw-a-strange-little-man.json) |
@@ -3830,7 +3832,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5128,6 +5129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Circle | 128410 | [128410-into-the-circle.json](./128410-into-the-circle.json) |
 | Into the Core | 118429 | [118429-into-the-core.json](./118429-into-the-core.json) |
 | Into The Corner | 339112 | [339112-into-the-corner.json](./339112-into-the-corner.json) |
+| Into the Crops | 229471 | [229471-into-the-crops.json](./229471-into-the-crops.json) |
 | Into the Crypt | 212129 | [212129-into-the-crypt.json](./212129-into-the-crypt.json) |
 | Into the Crypt | 395983 | [395983-into-the-crypt.json](./395983-into-the-crypt.json) |
 | Into the Cthulhu Mythology | 187848 | [187848-into-the-cthulhu-mythology.json](./187848-into-the-cthulhu-mythology.json) |
