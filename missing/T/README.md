@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Tennis | 325358 | [325358-table-tennis.json](./325358-table-tennis.json) |
 | Table Tennis Championship | 25463 | [25463-table-tennis-championship.json](./25463-table-tennis-championship.json) |
 | Table Tennis Infinity | 85420 | [85420-table-tennis-infinity.json](./85420-table-tennis-infinity.json) |
+| Table Tennis League | 239416 | [239416-table-tennis-league.json](./239416-table-tennis-league.json) |
 | Table Tennis Pro | 155421 | [155421-table-tennis-pro.json](./155421-table-tennis-pro.json) |
 | Table Tennis Simulation | 72076 | [72076-table-tennis-simulation.json](./72076-table-tennis-simulation.json) |
 | Table Tennis Star | 58654 | [58654-table-tennis-star.json](./58654-table-tennis-star.json) |
@@ -1026,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Swords: Mystery Scroll | 83544 | [83544-tale-of-swords-mystery-scroll.json](./83544-tale-of-swords-mystery-scroll.json) |
 | Tale of the Bear and the Beech Tree | 398347 | [398347-tale-of-the-bear-and-the-beech-tree.json](./398347-tale-of-the-bear-and-the-beech-tree.json) |
 | Tale of the Bullet Knight | 358730 | [358730-tale-of-the-bullet-knight.json](./358730-tale-of-the-bullet-knight.json) |
+| Tale of the Fallen Onmyoji | 239448 | [239448-tale-of-the-fallen-onmyoji.json](./239448-tale-of-the-fallen-onmyoji.json) |
 | Tale of the Fragmented Star: Single Fragment Version | 109477 | [109477-tale-of-the-fragmented-star-single-fragment-version.json](./109477-tale-of-the-fragmented-star-single-fragment-version.json) |
 | Tale of the Gallant Jiraiya | 179388 | [179388-tale-of-the-gallant-jiraiya.json](./179388-tale-of-the-gallant-jiraiya.json) |
 | Tale of the Ice Staff | 106848 | [106848-tale-of-the-ice-staff.json](./106848-tale-of-the-ice-staff.json) |
@@ -9761,6 +9763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Annie | 246003 | [246003-the-game-of-annie.json](./246003-the-game-of-annie.json) |
 | The Game of Bionic Goat | 339099 | [339099-the-game-of-bionic-goat.json](./339099-the-game-of-bionic-goat.json) |
 | The Game Of Death | 276156 | [276156-the-game-of-death.json](./276156-the-game-of-death.json) |
+| The Game of Dots. | 239427 | [239427-the-game-of-dots.json](./239427-the-game-of-dots.json) |
 | The Game of Dungeons | 146632 | [146632-the-game-of-dungeons.json](./146632-the-game-of-dungeons.json) |
 | The Game of Fourtune | 207591 | [207591-the-game-of-fourtune.json](./207591-the-game-of-fourtune.json) |
 | The Game of Harmony | 117976 | [117976-the-game-of-harmony.json](./117976-the-game-of-harmony.json) |
@@ -12948,6 +12951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Long Reach | 41812 | [41812-the-long-reach.json](./41812-the-long-reach.json) |
 | The Long Return | 117351 | [117351-the-long-return.json](./117351-the-long-return.json) |
 | The Long Run | 136230 | [136230-the-long-run.json](./136230-the-long-run.json) |
+| The Long Siege | 239428 | [239428-the-long-siege.json](./239428-the-long-siege.json) |
 | The Long Sky VR | 132790 | [132790-the-long-sky-vr.json](./132790-the-long-sky-vr.json) |
 | The Long Survival | 414793 | [414793-the-long-survival.json](./414793-the-long-survival.json) |
 | The Long Tale | 342144 | [342144-the-long-tale.json](./342144-the-long-tale.json) |
@@ -20270,6 +20274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Frame | 169402 | [169402-through-the-frame.json](./169402-through-the-frame.json) |
 | Through the Galaxy | 312129 | [312129-through-the-galaxy.json](./312129-through-the-galaxy.json) |
 | Through the Helios | 148849 | [148849-through-the-helios.json](./148849-through-the-helios.json) |
+| Through the Hoop | 239442 | [239442-through-the-hoop.json](./239442-through-the-hoop.json) |
 | Through the Lens | 392977 | [392977-through-the-lens.json](./392977-through-the-lens.json) |
 | Through the Looking Glass | 71709 | [71709-through-the-looking-glass.json](./71709-through-the-looking-glass.json) |
 | Through the Manor | 406320 | [406320-through-the-manor.json](./406320-through-the-manor.json) |
