@@ -8217,6 +8217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DF: Death Fighter | 56210 | [56210-df-death-fighter.json](./56210-df-death-fighter.json) |
 | DFClicker | 396731 | [396731-dfclicker.json](./396731-dfclicker.json) |
 | Dfiance | 323371 | [323371-dfiance.json](./323371-dfiance.json) |
+| DFL 2 | 228206 | [228206-dfl-2.json](./228206-dfl-2.json) |
 | DFP: Disappear From Polizia | 373098 | [373098-dfp-disappear-from-polizia.json](./373098-dfp-disappear-from-polizia.json) |
 | Dfragmente | 76555 | [76555-dfragmente.json](./76555-dfragmente.json) |
 | Dfuse | 314423 | [314423-dfuse.json](./314423-dfuse.json) |
