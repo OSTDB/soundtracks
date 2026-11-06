@@ -2155,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Fish | 318620 | [318620-viking-fish.json](./318620-viking-fish.json) |
 | Viking Frontiers | 286113 | [286113-viking-frontiers.json](./286113-viking-frontiers.json) |
 | Viking Ghost | 62002 | [62002-viking-ghost.json](./62002-viking-ghost.json) |
+| Viking Gods | 224345 | [224345-viking-gods.json](./224345-viking-gods.json) |
 | Viking Heroes 2 | 159496 | [159496-viking-heroes-2.json](./159496-viking-heroes-2.json) |
 | Viking Heroes 4 | 252319 | [252319-viking-heroes-4.json](./252319-viking-heroes-4.json) |
 | Viking Heroes 5 | 286232 | [286232-viking-heroes-5.json](./286232-viking-heroes-5.json) |
