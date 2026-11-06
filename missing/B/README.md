@@ -961,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -9872,6 +9873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaze Out | 94698 | [94698-blaze-out.json](./94698-blaze-out.json) |
 | Blaze Revolutions | 130068 | [130068-blaze-revolutions.json](./130068-blaze-revolutions.json) |
 | Blaze Rush | 330569 | [330569-blaze-rush.json](./330569-blaze-rush.json) |
+| Blaze the Cat in Sonic the Hedgehog | 203483 | [203483-blaze-the-cat-in-sonic-the-hedgehog.json](./203483-blaze-the-cat-in-sonic-the-hedgehog.json) |
 | Blaze Union + Knights in the Nightmare Remastered Collection | 410803 | [410803-blaze-union-knights-in-the-nightmare-remastered-collection.json](./410803-blaze-union-knights-in-the-nightmare-remastered-collection.json) |
 | Blaze Union: Story to Reach the Future | 251467 | [251467-blaze-union-story-to-reach-the-future.json](./251467-blaze-union-story-to-reach-the-future.json) |
 | Blaze! Love To The Top | 284167 | [284167-blaze-love-to-the-top.json](./284167-blaze-love-to-the-top.json) |
@@ -16591,6 +16593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buck and the Cursed Cartridge | 376636 | [376636-buck-and-the-cursed-cartridge.json](./376636-buck-and-the-cursed-cartridge.json) |
 | Buck Blastem | 322987 | [322987-buck-blastem.json](./322987-buck-blastem.json) |
 | Buck Borris in Action | 152842 | [152842-buck-borris-in-action.json](./152842-buck-borris-in-action.json) |
+| Buck Bradley 2 | 203580 | [203580-buck-bradley-2.json](./203580-buck-bradley-2.json) |
 | Buck Bradley: Comic Adventure | 133213 | [133213-buck-bradley-comic-adventure.json](./133213-buck-bradley-comic-adventure.json) |
 | Buck Fever | 51007 | [51007-buck-fever.json](./51007-buck-fever.json) |
 | Buck Rogers: Countdown to Doomsday | 2436 | [2436-buck-rogers-countdown-to-doomsday.json](./2436-buck-rogers-countdown-to-doomsday.json) |
@@ -18271,6 +18274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzz!: Quiz World | 7284 | [7284-buzz-quiz-world.json](./7284-buzz-quiz-world.json) |
 | Buzz!: The Pop Quiz | 21360 | [21360-buzz-the-pop-quiz.json](./21360-buzz-the-pop-quiz.json) |
 | Buzzard Bait | 25353 | [25353-buzzard-bait.json](./25353-buzzard-bait.json) |
+| Buzzed | 203490 | [203490-buzzed.json](./203490-buzzed.json) |
 | Buzzed! Trivia | 133700 | [133700-buzzed-trivia.json](./133700-buzzed-trivia.json) |
 | Buzzin | 415054 | [415054-buzzin.json](./415054-buzzin.json) |
 | Buzzing Cars | 221925 | [221925-buzzing-cars.json](./221925-buzzing-cars.json) |
