@@ -1037,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xuhivan's Autonomous Cube | 216479 | [216479-xuhivans-autonomous-cube.json](./216479-xuhivans-autonomous-cube.json) |
 | Xulaph Kaizo World | 267926 | [267926-xulaph-kaizo-world.json](./267926-xulaph-kaizo-world.json) |
 | Xump 2: Back to Space | 311040 | [311040-xump-2-back-to-space.json](./311040-xump-2-back-to-space.json) |
+| Xump Jump | 211373 | [211373-xump-jump.json](./211373-xump-jump.json) |
 | Xump: The Final Run | 138434 | [138434-xump-the-final-run.json](./138434-xump-the-final-run.json) |
 | Xump: The Final Run | 153828 | [153828-xump-the-final-run.json](./153828-xump-the-final-run.json) |
 | Xurb | 292382 | [292382-xurb.json](./292382-xurb.json) |
