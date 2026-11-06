@@ -8871,6 +8871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Bird: Tori-tachi no Tooboe | 392745 | [392745-black-bird-tori-tachi-no-tooboe.json](./392745-black-bird-tori-tachi-no-tooboe.json) |
 | Black Blade | 149845 | [149845-black-blade.json](./149845-black-blade.json) |
 | Black Blade | 293097 | [293097-black-blade.json](./293097-black-blade.json) |
+| Black Block Blast | 197993 | [197993-black-block-blast.json](./197993-black-block-blast.json) |
 | Black blood | 132781 | [132781-black-blood.json](./132781-black-blood.json) |
 | Black Blood | 379357 | [379357-black-blood.json](./379357-black-blood.json) |
 | Black Blue | 118548 | [118548-black-blue.json](./118548-black-blue.json) |
@@ -12585,6 +12586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman Act:Zero Mobile Type | 198195 | [198195-bomberman-act-zero-mobile-type.json](./198195-bomberman-act-zero-mobile-type.json) |
 | Bomberman B-Daman | 42545 | [42545-bomberman-b-daman.json](./42545-bomberman-b-daman.json) |
 | Bomberman Baseball | 198051 | [198051-bomberman-baseball.json](./198051-bomberman-baseball.json) |
+| Bomberman Blast | 197975 | [197975-bomberman-blast.json](./197975-bomberman-blast.json) |
 | Bomberman Blast | 50701 | [50701-bomberman-blast.json](./50701-bomberman-blast.json) |
 | Bomberman Blitz | 67318 | [67318-bomberman-blitz.json](./67318-bomberman-blitz.json) |
 | Bomberman Chains | 198050 | [198050-bomberman-chains.json](./198050-bomberman-chains.json) |
@@ -12614,6 +12616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman Kart 3D | 198040 | [198040-bomberman-kart-3d.json](./198040-bomberman-kart-3d.json) |
 | Bomberman Kart DX | 94366 | [94366-bomberman-kart-dx.json](./94366-bomberman-kart-dx.json) |
 | Bomberman Kart Special Mini | 198190 | [198190-bomberman-kart-special-mini.json](./198190-bomberman-kart-special-mini.json) |
+| Bomberman Land | 197973 | [197973-bomberman-land.json](./197973-bomberman-land.json) |
 | Bomberman Land | 21613 | [21613-bomberman-land.json](./21613-bomberman-land.json) |
 | Bomberman Land | 77674 | [77674-bomberman-land.json](./77674-bomberman-land.json) |
 | Bomberman Land 2 | 3834 | [3834-bomberman-land-2.json](./3834-bomberman-land-2.json) |
@@ -12631,6 +12634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman Next Gotochi Kanto-hen | 198063 | [198063-bomberman-next-gotochi-kanto-hen.json](./198063-bomberman-next-gotochi-kanto-hen.json) |
 | Bomberman Next Gotochi Kinki-hen | 198064 | [198064-bomberman-next-gotochi-kinki-hen.json](./198064-bomberman-next-gotochi-kinki-hen.json) |
 | Bomberman Nightmare | 142492 | [142492-bomberman-nightmare.json](./142492-bomberman-nightmare.json) |
+| Bomberman Online Japan | 197976 | [197976-bomberman-online-japan.json](./197976-bomberman-online-japan.json) |
 | Bomberman Pinball | 198054 | [198054-bomberman-pinball.json](./198054-bomberman-pinball.json) |
 | Bomberman Planet Vol. 1 | 198057 | [198057-bomberman-planet-vol-1.json](./198057-bomberman-planet-vol-1.json) |
 | Bomberman Quest | 49837 | [49837-bomberman-quest.json](./49837-bomberman-quest.json) |
@@ -12647,6 +12651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman: Bakufuu Sentai Bomberman | 59395 | [59395-bomberman-bakufuu-sentai-bomberman.json](./59395-bomberman-bakufuu-sentai-bomberman.json) |
 | Bomberman: Disney Stitch Edition | 198061 | [198061-bomberman-disney-stitch-edition.json](./198061-bomberman-disney-stitch-edition.json) |
 | Bomberman: Panic Bomber | 162409 | [162409-bomberman-panic-bomber.json](./162409-bomberman-panic-bomber.json) |
+| Bomberman: Panic Bomber | 197988 | [197988-bomberman-panic-bomber.json](./197988-bomberman-panic-bomber.json) |
 | Bomberman: Panic Bomber | 39663 | [39663-bomberman-panic-bomber.json](./39663-bomberman-panic-bomber.json) |
 | Bomberman: Party Edition | 18786 | [18786-bomberman-party-edition.json](./18786-bomberman-party-edition.json) |
 | Bomberman: Users Battle | 42055 | [42055-bomberman-users-battle.json](./42055-bomberman-users-battle.json) |
