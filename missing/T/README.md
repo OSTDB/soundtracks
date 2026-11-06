@@ -4460,6 +4460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Traveler | 383104 | [383104-terra-traveler.json](./383104-terra-traveler.json) |
 | Terra Trilogy | 143771 | [143771-terra-trilogy.json](./143771-terra-trilogy.json) |
 | Terra Ventura | 154074 | [154074-terra-ventura.json](./154074-terra-ventura.json) |
+| Terra: A Terraria Demake | 219369 | [219369-terra-a-terraria-demake.json](./219369-terra-a-terraria-demake.json) |
 | Terra: Battle for the Outland | 145949 | [145949-terra-battle-for-the-outland.json](./145949-terra-battle-for-the-outland.json) |
 | Terra: Destino Final | 250212 | [250212-terra-destino-final.json](./250212-terra-destino-final.json) |
 | Terra7 | 335180 | [335180-terra7.json](./335180-terra7.json) |
@@ -6279,6 +6280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle of Polytopia: Ai-Mo | 371519 | [371519-the-battle-of-polytopia-ai-mo.json](./371519-the-battle-of-polytopia-ai-mo.json) |
 | The Battle of Polytopia: All Special Tribes | 219477 | [219477-the-battle-of-polytopia-all-special-tribes.json](./219477-the-battle-of-polytopia-all-special-tribes.json) |
 | The Battle of Polytopia: Anzala | 366863 | [366863-the-battle-of-polytopia-anzala.json](./366863-the-battle-of-polytopia-anzala.json) |
+| The Battle of Polytopia: Aquarion | 219338 | [219338-the-battle-of-polytopia-aquarion.json](./219338-the-battle-of-polytopia-aquarion.json) |
 | The Battle of Polytopia: Aumux | 371524 | [371524-the-battle-of-polytopia-aumux.json](./371524-the-battle-of-polytopia-aumux.json) |
 | The Battle of Polytopia: Baergøff | 366861 | [366861-the-battle-of-polytopia-baerg-ff.json](./366861-the-battle-of-polytopia-baerg-ff.json) |
 | The Battle of Polytopia: Cultists | 371525 | [371525-the-battle-of-polytopia-cultists.json](./371525-the-battle-of-polytopia-cultists.json) |
@@ -23083,6 +23085,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Aquarium: Social Fishkeeping | 292329 | [292329-tiny-aquarium-social-fishkeeping.json](./292329-tiny-aquarium-social-fishkeeping.json) |
 | Tiny Arcade Racers | 201241 | [201241-tiny-arcade-racers.json](./201241-tiny-arcade-racers.json) |
 | Tiny Arcade Tetris | 234083 | [234083-tiny-arcade-tetris.json](./234083-tiny-arcade-tetris.json) |
+| Tiny Arcade: Atari 2600 | 219362 | [219362-tiny-arcade-atari-2600.json](./219362-tiny-arcade-atari-2600.json) |
+| Tiny Arcade: Ms. Pac-Man | 219348 | [219348-tiny-arcade-ms-pac-man.json](./219348-tiny-arcade-ms-pac-man.json) |
+| Tiny Arcade: Ms. Pac-Man/Galaga | 219352 | [219352-tiny-arcade-ms-pac-man-galaga.json](./219352-tiny-arcade-ms-pac-man-galaga.json) |
+| Tiny Arcade: Pac-Man | 219347 | [219347-tiny-arcade-pac-man.json](./219347-tiny-arcade-pac-man.json) |
+| Tiny Arcade: Pac-Man - Table Top Edition | 219354 | [219354-tiny-arcade-pac-man-table-top-edition.json](./219354-tiny-arcade-pac-man-table-top-edition.json) |
 | Tiny Archers | 58105 | [58105-tiny-archers.json](./58105-tiny-archers.json) |
 | Tiny Archers: Adam’s Tale | 279399 | [279399-tiny-archers-adam-s-tale.json](./279399-tiny-archers-adam-s-tale.json) |
 | Tiny Arctic Hero | 379160 | [379160-tiny-arctic-hero.json](./379160-tiny-arctic-hero.json) |
@@ -26428,6 +26435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Yumejikuu: Phantasmagoria of Dim. Dream | 45965 | [45965-touhou-yumejikuu-phantasmagoria-of-dim-dream.json](./45965-touhou-yumejikuu-phantasmagoria-of-dim-dream.json) |
 | Touhou Yuuyajaku -Solar Eclipse Night- | 335062 | [335062-touhou-yuuyajaku-solar-eclipse-night.json](./335062-touhou-yuuyajaku-solar-eclipse-night.json) |
 | Touhou: Blossom Blade | 380520 | [380520-touhou-blossom-blade.json](./380520-touhou-blossom-blade.json) |
+| Touhou: Dreamland of Infinity | 219356 | [219356-touhou-dreamland-of-infinity.json](./219356-touhou-dreamland-of-infinity.json) |
 | Touhou: Fading Illusion | 228201 | [228201-touhou-fading-illusion.json](./228201-touhou-fading-illusion.json) |
 | Touhou: Fading Illusion - Destitute Chapter | 293834 | [293834-touhou-fading-illusion-destitute-chapter.json](./293834-touhou-fading-illusion-destitute-chapter.json) |
 | Touhou: Fading Illusion - Underworld Chapter | 356185 | [356185-touhou-fading-illusion-underworld-chapter.json](./356185-touhou-fading-illusion-underworld-chapter.json) |
