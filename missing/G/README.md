@@ -2379,6 +2379,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear.Club Unlimited 3: Customization Pack | 385184 | [385184-gear-club-unlimited-3-customization-pack.json](./385184-gear-club-unlimited-3-customization-pack.json) |
 | Gear.Club Unlimited 3: Deluxe Edition | 385200 | [385200-gear-club-unlimited-3-deluxe-edition.json](./385200-gear-club-unlimited-3-deluxe-edition.json) |
 | Gear.Club Unlimited 3: Performance Cars Pack | 385183 | [385183-gear-club-unlimited-3-performance-cars-pack.json](./385183-gear-club-unlimited-3-performance-cars-pack.json) |
+| Gear.Club Unlimited: Limited Edition Cars Pack 1 | 238247 | [238247-gear-club-unlimited-limited-edition-cars-pack-1.json](./238247-gear-club-unlimited-limited-edition-cars-pack-1.json) |
+| Gear.Club Unlimited: Limited Edition Cars Pack 2 | 238248 | [238248-gear-club-unlimited-limited-edition-cars-pack-2.json](./238248-gear-club-unlimited-limited-edition-cars-pack-2.json) |
+| Gear.Club Unlimited: Premium Cars Pack | 238259 | [238259-gear-club-unlimited-premium-cars-pack.json](./238259-gear-club-unlimited-premium-cars-pack.json) |
 | Gear.Club Unlimited: Super Cars Pack | 238212 | [238212-gear-club-unlimited-super-cars-pack.json](./238212-gear-club-unlimited-super-cars-pack.json) |
 | Gearbits | 258457 | [258457-gearbits.json](./258457-gearbits.json) |
 | Gearbits: Gear Angels | 287029 | [287029-gearbits-gear-angels.json](./287029-gearbits-gear-angels.json) |
