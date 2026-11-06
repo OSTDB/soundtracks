@@ -5954,6 +5954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Way Out | 310165 | [310165-no-way-out.json](./310165-no-way-out.json) |
 | No Way Out | 344273 | [344273-no-way-out.json](./344273-no-way-out.json) |
 | No Way to Die | 214308 | [214308-no-way-to-die.json](./214308-no-way-to-die.json) |
+| No Way Up | 201874 | [201874-no-way-up.json](./201874-no-way-up.json) |
 | No Wings Required | 394322 | [394322-no-wings-required.json](./394322-no-wings-required.json) |
 | No Words to Speak With | 176782 | [176782-no-words-to-speak-with.json](./176782-no-words-to-speak-with.json) |
 | No World Dreamers: Sticky Zeitgeist | 354753 | [354753-no-world-dreamers-sticky-zeitgeist.json](./354753-no-world-dreamers-sticky-zeitgeist.json) |
@@ -6581,6 +6582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nora Wanna Rise | 291709 | [291709-nora-wanna-rise.json](./291709-nora-wanna-rise.json) |
 | Nora: Forest Nights | 298654 | [298654-nora-forest-nights.json](./298654-nora-forest-nights.json) |
 | Nora: In Search of Hidden Ingredients | 306334 | [306334-nora-in-search-of-hidden-ingredients.json](./306334-nora-in-search-of-hidden-ingredients.json) |
+| Nora: The Wannabe Alchemist | 201876 | [201876-nora-the-wannabe-alchemist.json](./201876-nora-the-wannabe-alchemist.json) |
 | Nora: The Wannabe Alchemist + Mosaic Chronicles Deluxe | 305413 | [305413-nora-the-wannabe-alchemist-mosaic-chronicles-deluxe.json](./305413-nora-the-wannabe-alchemist-mosaic-chronicles-deluxe.json) |
 | Nora's AdventurEscape | 188227 | [188227-noras-adventurescape.json](./188227-noras-adventurescape.json) |
 | Nora's Dream | 200732 | [200732-noras-dream.json](./200732-noras-dream.json) |
