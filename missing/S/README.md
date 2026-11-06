@@ -2359,6 +2359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Girl | 108382 | [108382-save-the-girl.json](./108382-save-the-girl.json) |
 | Save the Girl | 190825 | [190825-save-the-girl.json](./190825-save-the-girl.json) |
 | Save the Girl | 367387 | [367387-save-the-girl.json](./367387-save-the-girl.json) |
+| Save the Girls | 238821 | [238821-save-the-girls.json](./238821-save-the-girls.json) |
 | Save the girls Action | 150469 | [150469-save-the-girls-action.json](./150469-save-the-girls-action.json) |
 | Save the Goombas | 318938 | [318938-save-the-goombas.json](./318938-save-the-goombas.json) |
 | Save the Halloween | 75198 | [75198-save-the-halloween.json](./75198-save-the-halloween.json) |
@@ -11363,6 +11364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sink | 169656 | [169656-sink.json](./169656-sink.json) |
 | Sink Again | 140383 | [140383-sink-again.json](./140383-sink-again.json) |
 | Sink and Score | 373658 | [373658-sink-and-score.json](./373658-sink-and-score.json) |
+| Sink or Swim | 238836 | [238836-sink-or-swim.json](./238836-sink-or-swim.json) |
 | Sink Sub Pro | 379984 | [379984-sink-sub-pro.json](./379984-sink-sub-pro.json) |
 | Sink the Fish | 282539 | [282539-sink-the-fish.json](./282539-sink-the-fish.json) |
 | Sink the Fish: Spy Kit | 282542 | [282542-sink-the-fish-spy-kit.json](./282542-sink-the-fish-spy-kit.json) |
@@ -12006,6 +12008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Girl Superstar | 88799 | [88799-ski-girl-superstar.json](./88799-ski-girl-superstar.json) |
 | Ski Hard: Lorsbruck 1978 | 83965 | [83965-ski-hard-lorsbruck-1978.json](./83965-ski-hard-lorsbruck-1978.json) |
 | Ski Hunt | 40796 | [40796-ski-hunt.json](./40796-ski-hunt.json) |
+| Ski Jump 18 | 238826 | [238826-ski-jump-18.json](./238826-ski-jump-18.json) |
 | Ski Jump Challange 2024 | 280671 | [280671-ski-jump-challange-2024.json](./280671-ski-jump-challange-2024.json) |
 | Ski Jump Challenge | 143546 | [143546-ski-jump-challenge.json](./143546-ski-jump-challenge.json) |
 | Ski Jump International v2 | 342080 | [342080-ski-jump-international-v2.json](./342080-ski-jump-international-v2.json) |
@@ -14585,6 +14588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnackTimeActionGame | 371593 | [371593-snacktimeactiongame.json](./371593-snacktimeactiongame.json) |
 | Snacktorio | 244121 | [244121-snacktorio.json](./244121-snacktorio.json) |
 | Snacky Tower | 207665 | [207665-snacky-tower.json](./207665-snacky-tower.json) |
+| Snafu | 238833 | [238833-snafu.json](./238833-snafu.json) |
 | Snafu | 5697 | [5697-snafu.json](./5697-snafu.json) |
 | Snafubar | 386438 | [386438-snafubar.json](./386438-snafubar.json) |
 | Snägäri Pinball | 388765 | [388765-snagari-pinball.json](./388765-snagari-pinball.json) |
@@ -16572,6 +16576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitune | 28266 | [28266-solitune.json](./28266-solitune.json) |
 | Solium Infernum | 92627 | [92627-solium-infernum.json](./92627-solium-infernum.json) |
 | Solium Infernum: Belphegor, Paragon of Impiety | 298101 | [298101-solium-infernum-belphegor-paragon-of-impiety.json](./298101-solium-infernum-belphegor-paragon-of-impiety.json) |
+| Solium Infernum: Rectification | 238837 | [238837-solium-infernum-rectification.json](./238837-solium-infernum-rectification.json) |
 | Solivagant | 262840 | [262840-solivagant.json](./262840-solivagant.json) |
 | Sollarion | 238586 | [238586-sollarion.json](./238586-sollarion.json) |
 | Sollire | 316530 | [316530-sollire.json](./316530-sollire.json) |
@@ -21517,6 +21522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider: The Video Game | 45034 | [45034-spider-the-video-game.json](./45034-spider-the-video-game.json) |
 | Spider! | 107042 | [107042-spider.json](./107042-spider.json) |
 | Spider's Hollow | 184358 | [184358-spiders-hollow.json](./184358-spiders-hollow.json) |
+| Spider's Web | 238841 | [238841-spiders-web.json](./238841-spiders-web.json) |
 | Spider+ | 87187 | [87187-spider.json](./87187-spider.json) |
 | SpiderAttack | 237808 | [237808-spiderattack.json](./237808-spiderattack.json) |
 | Spiderbot | 22264 | [22264-spiderbot.json](./22264-spiderbot.json) |
@@ -32365,6 +32371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen: Scramble Commander the 2nd | 76970 | [76970-super-robot-taisen-scramble-commander-the-2nd.json](./76970-super-robot-taisen-scramble-commander-the-2nd.json) |
 | Super Robot War X | 342999 | [342999-super-robot-war-x.json](./342999-super-robot-war-x.json) |
 | Super Robot Wars 30 | 152371 | [152371-super-robot-wars-30.json](./152371-super-robot-wars-30.json) |
+| Super Robot Wars 30: DLC 2 | 238811 | [238811-super-robot-wars-30-dlc-2.json](./238811-super-robot-wars-30-dlc-2.json) |
 | Super Robot Wars 30: Limited Edition | 155096 | [155096-super-robot-wars-30-limited-edition.json](./155096-super-robot-wars-30-limited-edition.json) |
 | Super Robot Wars BX | 79337 | [79337-super-robot-wars-bx.json](./79337-super-robot-wars-bx.json) |
 | Super Robot Wars IV Scramble | 240917 | [240917-super-robot-wars-iv-scramble.json](./240917-super-robot-wars-iv-scramble.json) |
