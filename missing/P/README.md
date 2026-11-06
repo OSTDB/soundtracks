@@ -3638,6 +3638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peak: The Dillydally Update | 375509 | [375509-peak-the-dillydally-update.json](./375509-peak-the-dillydally-update.json) |
 | Peak: The Final Ascent | 412529 | [412529-peak-the-final-ascent.json](./412529-peak-the-final-ascent.json) |
 | Peak: The Mesa Update | 363305 | [363305-peak-the-mesa-update.json](./363305-peak-the-mesa-update.json) |
+| Peak.53 | 233308 | [233308-peak-53.json](./233308-peak-53.json) |
 | Peak’s Edge | 365118 | [365118-peak-s-edge.json](./365118-peak-s-edge.json) |
 | Peaked Climbing | 360550 | [360550-peaked-climbing.json](./360550-peaked-climbing.json) |
 | Peaks of Yore | 238690 | [238690-peaks-of-yore.json](./238690-peaks-of-yore.json) |
@@ -10383,6 +10384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Universe : Create Your Community | 55624 | [55624-pocket-universe-create-your-community.json](./55624-pocket-universe-create-your-community.json) |
 | Pocket Usatama Easter 2019 Edition | 230130 | [230130-pocket-usatama-easter-2019-edition.json](./230130-pocket-usatama-easter-2019-edition.json) |
 | Pocket Vampire Girl | 341401 | [341401-pocket-vampire-girl.json](./341401-pocket-vampire-girl.json) |
+| Pocket Vikings | 233299 | [233299-pocket-vikings.json](./233299-pocket-vikings.json) |
 | Pocket Volleyball | 180494 | [180494-pocket-volleyball.json](./180494-pocket-volleyball.json) |
 | Pocket Waifu: Desktop Pet | 384611 | [384611-pocket-waifu-desktop-pet.json](./384611-pocket-waifu-desktop-pet.json) |
 | Pocket Waifu: Rekindled | 259117 | [259117-pocket-waifu-rekindled.json](./259117-pocket-waifu-rekindled.json) |
