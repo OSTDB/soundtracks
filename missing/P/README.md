@@ -9138,6 +9138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Quiz: Learn & Discover - Mystery & Myth | 227773 | [227773-planet-quiz-learn-and-discover-mystery-and-myth.json](./227773-planet-quiz-learn-and-discover-mystery-and-myth.json) |
 | Planet Quiz: Learn & Discover - Trivia | 227782 | [227782-planet-quiz-learn-and-discover-trivia.json](./227782-planet-quiz-learn-and-discover-trivia.json) |
 | Planet R-12 | 26522 | [26522-planet-r-12.json](./26522-planet-r-12.json) |
+| Planet Racer | 241145 | [241145-planet-racer.json](./241145-planet-racer.json) |
 | Planet Racing | 165908 | [165908-planet-racing.json](./165908-planet-racing.json) |
 | Planet Rescue: Animal Emergency | 139116 | [139116-planet-rescue-animal-emergency.json](./139116-planet-rescue-animal-emergency.json) |
 | Planet Rescue: Wildlife Vet | 149267 | [149267-planet-rescue-wildlife-vet.json](./149267-planet-rescue-wildlife-vet.json) |
@@ -13519,6 +13520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerpuff Girls: Mojo Jojo's Pet Project | 8009 | [8009-powerpuff-girls-mojo-jojos-pet-project.json](./8009-powerpuff-girls-mojo-jojos-pet-project.json) |
 | Powerpuff Girls: Mojo's Pet Project | 19427 | [19427-powerpuff-girls-mojos-pet-project.json](./19427-powerpuff-girls-mojos-pet-project.json) |
 | Powerpuff Girls: Pillow Fight | 203083 | [203083-powerpuff-girls-pillow-fight.json](./203083-powerpuff-girls-pillow-fight.json) |
+| Powerpuff Girls: Power Surf | 241140 | [241140-powerpuff-girls-power-surf.json](./241140-powerpuff-girls-power-surf.json) |
 | Powerpuff Girls: Zom-B-Gone! | 203061 | [203061-powerpuff-girls-zom-b-gone.json](./203061-powerpuff-girls-zom-b-gone.json) |
 | Powers | 254470 | [254470-powers.json](./254470-powers.json) |
 | Powers of Hex | 230943 | [230943-powers-of-hex.json](./230943-powers-of-hex.json) |
