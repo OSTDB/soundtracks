@@ -10305,6 +10305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clocker | 110816 | [110816-clocker.json](./110816-clocker.json) |
 | Clockfall | 391888 | [391888-clockfall.json](./391888-clockfall.json) |
 | Clocking In to Fight a Lich in Another Realm | 347594 | [347594-clocking-in-to-fight-a-lich-in-another-realm.json](./347594-clocking-in-to-fight-a-lich-in-another-realm.json) |
+| Clockmachine Chaos | 240570 | [240570-clockmachine-chaos.json](./240570-clockmachine-chaos.json) |
 | Clockmaker | 242306 | [242306-clockmaker.json](./242306-clockmaker.json) |
 | Clocknockers | 190393 | [190393-clocknockers.json](./190393-clocknockers.json) |
 | Clocknockers 2 | 193088 | [193088-clocknockers-2.json](./193088-clocknockers-2.json) |
@@ -11608,6 +11609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Bound: Arctic Adventure | 237482 | [237482-college-bound-arctic-adventure.json](./237482-college-bound-arctic-adventure.json) |
 | College Bound: Episode 3 | 196091 | [196091-college-bound-episode-3.json](./196091-college-bound-episode-3.json) |
 | College Bound: Episode 4 | 207504 | [207504-college-bound-episode-4.json](./207504-college-bound-episode-4.json) |
+| College Bound: Episode 5 | 240581 | [240581-college-bound-episode-5.json](./240581-college-bound-episode-5.json) |
 | College Bowl | 249183 | [249183-college-bowl.json](./249183-college-bowl.json) |
 | College Brawl 2 | 233505 | [233505-college-brawl-2.json](./233505-college-brawl-2.json) |
 | College Craze | 210863 | [210863-college-craze.json](./210863-college-craze.json) |
