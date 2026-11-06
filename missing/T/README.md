@@ -22660,6 +22660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Strike | 405153 | [405153-time-strike.json](./405153-time-strike.json) |
 | Time Stripper | 57633 | [57633-time-stripper.json](./57633-time-stripper.json) |
 | Time Surfer | 22175 | [22175-time-surfer.json](./22175-time-surfer.json) |
+| Time Survivors | 232241 | [232241-time-survivors.json](./232241-time-survivors.json) |
 | Time Survivors: Chapter 0 | 258108 | [258108-time-survivors-chapter-0.json](./258108-time-survivors-chapter-0.json) |
 | Time Tails | 159509 | [159509-time-tails.json](./159509-time-tails.json) |
 | Time Takers | 361861 | [361861-time-takers.json](./361861-time-takers.json) |
@@ -27361,6 +27362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic Panic London | 343799 | [343799-traffic-panic-london.json](./343799-traffic-panic-london.json) |
 | Traffic Puzzle | 216113 | [216113-traffic-puzzle.json](./216113-traffic-puzzle.json) |
 | Traffic Race 3D 2 | 303323 | [303323-traffic-race-3d-2.json](./303323-traffic-race-3d-2.json) |
+| Traffic Race 3D: Highway | 232252 | [232252-traffic-race-3d-highway.json](./232252-traffic-race-3d-highway.json) |
 | Traffic Racer | 83217 | [83217-traffic-racer.json](./83217-traffic-racer.json) |
 | Traffic Racer Crash | 123481 | [123481-traffic-racer-crash.json](./123481-traffic-racer-crash.json) |
 | Traffic Racer Highway Online | 250350 | [250350-traffic-racer-highway-online.json](./250350-traffic-racer-highway-online.json) |
@@ -28041,6 +28043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Plus: Keihan Denki Tetsudou | 92244 | [92244-train-simulator-plus-keihan-denki-tetsudou.json](./92244-train-simulator-plus-keihan-denki-tetsudou.json) |
 | Train Simulator Plus: Kyoto-shiei Chikatetsu Karasuma-sen & Kinki-nippon Tetsudou Kyoto-sen | 92248 | [92248-train-simulator-plus-kyoto-shiei-chikatetsu-karasuma-sen-and-kinki-nippon-tetsudou-kyoto-sen.json](./92248-train-simulator-plus-kyoto-shiei-chikatetsu-karasuma-sen-and-kinki-nippon-tetsudou-kyoto-sen.json) |
 | Train Simulator Plus: Odakyu Dentetsu Odawara-sen 2 | 92246 | [92246-train-simulator-plus-odakyu-dentetsu-odawara-sen-2.json](./92246-train-simulator-plus-odakyu-dentetsu-odawara-sen-2.json) |
+| Train Simulator PRO USA | 232256 | [232256-train-simulator-pro-usa.json](./232256-train-simulator-pro-usa.json) |
 | Train Simulator Real: The Keihin Kyuukou | 79179 | [79179-train-simulator-real-the-keihin-kyuukou.json](./79179-train-simulator-real-the-keihin-kyuukou.json) |
 | Train Simulator VR | 74679 | [74679-train-simulator-vr.json](./74679-train-simulator-vr.json) |
 | Train Simulator: Albula Line: St Moritz - Thusis Route Add-On | 156444 | [156444-train-simulator-albula-line-st-moritz-thusis-route-add-on.json](./156444-train-simulator-albula-line-st-moritz-thusis-route-add-on.json) |
@@ -30143,6 +30146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trial By Magic | 376809 | [376809-trial-by-magic.json](./376809-trial-by-magic.json) |
 | Trial by Teng: A Twilight Path Adventure | 118258 | [118258-trial-by-teng-a-twilight-path-adventure.json](./118258-trial-by-teng-a-twilight-path-adventure.json) |
 | Trial of Ariah | 372469 | [372469-trial-of-ariah.json](./372469-trial-of-ariah.json) |
+| Trial of Dragon | 232245 | [232245-trial-of-dragon.json](./232245-trial-of-dragon.json) |
 | Trial of Fours | 242329 | [242329-trial-of-fours.json](./242329-trial-of-fours.json) |
 | Trial of Greed | 353971 | [353971-trial-of-greed.json](./353971-trial-of-greed.json) |
 | Trial of Greed VR | 410861 | [410861-trial-of-greed-vr.json](./410861-trial-of-greed-vr.json) |
@@ -30583,6 +30587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trip's Voyage: Gem Rush | 309122 | [309122-trips-voyage-gem-rush.json](./309122-trips-voyage-gem-rush.json) |
 | TriPeaks | 282148 | [282148-tripeaks.json](./282148-tripeaks.json) |
 | TriPeaks Solitaire | 370438 | [370438-tripeaks-solitaire.json](./370438-tripeaks-solitaire.json) |
+| Tripeaks Solitaire Classic | 232272 | [232272-tripeaks-solitaire-classic.json](./232272-tripeaks-solitaire-classic.json) |
 | Tripeaks Solitaire Multi | 103099 | [103099-tripeaks-solitaire-multi.json](./103099-tripeaks-solitaire-multi.json) |
 | TriPeaks Solitaire: Card Game | 89185 | [89185-tripeaks-solitaire-card-game.json](./89185-tripeaks-solitaire-card-game.json) |
 | Tripgate | 142866 | [142866-tripgate.json](./142866-tripgate.json) |
