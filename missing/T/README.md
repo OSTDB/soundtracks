@@ -2887,6 +2887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TCG Master Trader | 368362 | [368362-tcg-master-trader.json](./368362-tcg-master-trader.json) |
 | TCG Multiplayer Card Shop Simulator | 322643 | [322643-tcg-multiplayer-card-shop-simulator.json](./322643-tcg-multiplayer-card-shop-simulator.json) |
 | TCG One | 149983 | [149983-tcg-one.json](./149983-tcg-one.json) |
+| TCG World | 193544 | [193544-tcg-world.json](./193544-tcg-world.json) |
 | Tcheco in the Castle of Lucio | 35037 | [35037-tcheco-in-the-castle-of-lucio.json](./35037-tcheco-in-the-castle-of-lucio.json) |
 | Tchia: Kepler Customization Pack | 243232 | [243232-tchia-kepler-customization-pack.json](./243232-tchia-kepler-customization-pack.json) |
 | Tchia: Oléti Edition | 239605 | [239605-tchia-oleti-edition.json](./239605-tchia-oleti-edition.json) |
@@ -3914,6 +3915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten Thousand Immortals | 284287 | [284287-ten-thousand-immortals.json](./284287-ten-thousand-immortals.json) |
 | Ten trials of Archer | 175200 | [175200-ten-trials-of-archer.json](./175200-ten-trials-of-archer.json) |
 | Ten Trials of Babel 2: Tower and Aurora | 372682 | [372682-ten-trials-of-babel-2-tower-and-aurora.json](./372682-ten-trials-of-babel-2-tower-and-aurora.json) |
+| Ten Trials of Babel: The Doppelganger Maze | 193562 | [193562-ten-trials-of-babel-the-doppelganger-maze.json](./193562-ten-trials-of-babel-the-doppelganger-maze.json) |
 | Ten-chan Party! | 108264 | [108264-ten-chan-party.json](./108264-ten-chan-party.json) |
 | Ten: Ten Rooms, Ten Seconds | 189000 | [189000-ten-ten-rooms-ten-seconds.json](./189000-ten-ten-rooms-ten-seconds.json) |
 | Ten++ | 374132 | [374132-ten.json](./374132-ten.json) |
@@ -6018,6 +6020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Asafo Journey | 220672 | [220672-the-asafo-journey.json](./220672-the-asafo-journey.json) |
 | The Ascension of the Lamb | 287452 | [287452-the-ascension-of-the-lamb.json](./287452-the-ascension-of-the-lamb.json) |
 | The Ascent of the Gothic Tower | 228967 | [228967-the-ascent-of-the-gothic-tower.json](./228967-the-ascent-of-the-gothic-tower.json) |
+| The Ascent: Cyber Edition | 193530 | [193530-the-ascent-cyber-edition.json](./193530-the-ascent-cyber-edition.json) |
 | The Ascent: Cyber Heist | 213148 | [213148-the-ascent-cyber-heist.json](./213148-the-ascent-cyber-heist.json) |
 | The Ascent: CyberSec Pack | 276306 | [276306-the-ascent-cybersec-pack.json](./276306-the-ascent-cybersec-pack.json) |
 | The Ascent: Ultimate Edition | 417184 | [417184-the-ascent-ultimate-edition.json](./417184-the-ascent-ultimate-edition.json) |
@@ -7960,6 +7963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Daring Mermaid Expedition | 33519 | [33519-the-daring-mermaid-expedition.json](./33519-the-daring-mermaid-expedition.json) |
 | The Dark | 140576 | [140576-the-dark.json](./140576-the-dark.json) |
 | The Dark | 167371 | [167371-the-dark.json](./167371-the-dark.json) |
+| The Dark | 193521 | [193521-the-dark.json](./193521-the-dark.json) |
 | The Dark | 330651 | [330651-the-dark.json](./330651-the-dark.json) |
 | The Dark Arrival: Shadows of the Past | 343269 | [343269-the-dark-arrival-shadows-of-the-past.json](./343269-the-dark-arrival-shadows-of-the-past.json) |
 | The Dark Book | 248713 | [248713-the-dark-book.json](./248713-the-dark-book.json) |
@@ -30716,6 +30720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trick Shot | 40625 | [40625-trick-shot.json](./40625-trick-shot.json) |
 | Trick Shot | 87820 | [87820-trick-shot.json](./87820-trick-shot.json) |
 | Trick Shot Bowling | 87311 | [87311-trick-shot-bowling.json](./87311-trick-shot-bowling.json) |
+| Trick Shot Ping Pong | 193555 | [193555-trick-shot-ping-pong.json](./193555-trick-shot-ping-pong.json) |
 | Trick Solitaire | 337265 | [337265-trick-solitaire.json](./337265-trick-solitaire.json) |
 | Trick the Ninjalinos | 359438 | [359438-trick-the-ninjalinos.json](./359438-trick-the-ninjalinos.json) |
 | Trick Trap | 46874 | [46874-trick-trap.json](./46874-trick-trap.json) |
@@ -32196,6 +32201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tulpa | 36170 | [36170-tulpa.json](./36170-tulpa.json) |
 | Tulpa the Unseen Lover | 414136 | [414136-tulpa-the-unseen-lover.json](./414136-tulpa-the-unseen-lover.json) |
 | Tuma-7 | 141842 | [141842-tuma-7.json](./141842-tuma-7.json) |
+| Tumble | 193523 | [193523-tumble.json](./193523-tumble.json) |
 | Tumble | 237268 | [237268-tumble.json](./237268-tumble.json) |
 | Tumble | 25088 | [25088-tumble.json](./25088-tumble.json) |
 | Tumble Baby | 182521 | [182521-tumble-baby.json](./182521-tumble-baby.json) |
@@ -32685,6 +32691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TUS | 160201 | [160201-tus.json](./160201-tus.json) |
 | Tuscany Hotel | 106759 | [106759-tuscany-hotel.json](./106759-tuscany-hotel.json) |
 | Tusk of Spirit | 157358 | [157358-tusk-of-spirit.json](./157358-tusk-of-spirit.json) |
+| Tusmo | 193528 | [193528-tusmo.json](./193528-tusmo.json) |
 | Tusmox | 381412 | [381412-tusmox.json](./381412-tusmox.json) |
 | Tussle Works | 422050 | [422050-tussle-works.json](./422050-tussle-works.json) |
 | Tut Tut Vroom Vroom | 388694 | [388694-tut-tut-vroom-vroom.json](./388694-tut-tut-vroom-vroom.json) |
