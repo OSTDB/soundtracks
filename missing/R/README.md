@@ -10229,6 +10229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll For Initiative | 193644 | [193644-roll-for-initiative.json](./193644-roll-for-initiative.json) |
 | Roll for Order: Sort Every Set! | 420315 | [420315-roll-for-order-sort-every-set.json](./420315-roll-for-order-sort-every-set.json) |
 | Roll for the Galaxy | 138508 | [138508-roll-for-the-galaxy.json](./138508-roll-for-the-galaxy.json) |
+| Roll Freak | 238807 | [238807-roll-freak.json](./238807-roll-freak.json) |
 | Roll in the Hole | 64670 | [64670-roll-in-the-hole.json](./64670-roll-in-the-hole.json) |
 | Roll It to the End | 244718 | [244718-roll-it-to-the-end.json](./244718-roll-it-to-the-end.json) |
 | Roll Me Home | 271381 | [271381-roll-me-home.json](./271381-roll-me-home.json) |
@@ -12186,6 +12187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Gun Die Ultimate | 118083 | [118083-run-gun-die-ultimate.json](./118083-run-gun-die-ultimate.json) |
 | Run Gun Robots | 184935 | [184935-run-gun-robots.json](./184935-run-gun-robots.json) |
 | Run Gun Sports | 86649 | [86649-run-gun-sports.json](./86649-run-gun-sports.json) |
+| Run Gun ZR | 238804 | [238804-run-gun-zr.json](./238804-run-gun-zr.json) |
 | Run Hare Run | 201955 | [201955-run-hare-run.json](./201955-run-hare-run.json) |
 | Run Higher | 309717 | [309717-run-higher.json](./309717-run-higher.json) |
 | Run Hunter Run | 96086 | [96086-run-hunter-run.json](./96086-run-hunter-run.json) |
