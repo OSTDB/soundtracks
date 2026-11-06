@@ -662,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madland | 121598 | [121598-madland.json](./121598-madland.json) |
 | Madman | 272280 | [272280-madman.json](./272280-madman.json) |
 | MadMan | 193053 | [193053-madman.json](./193053-madman.json) |
+| Madman Catcher | 204116 | [204116-madman-catcher.json](./204116-madman-catcher.json) |
 | Madman's Dice | 374801 | [374801-madmans-dice.json](./374801-madmans-dice.json) |
 | Madman's Maze | 351521 | [351521-madmans-maze.json](./351521-madmans-maze.json) |
 | Madness | 30519 | [30519-madness.json](./30519-madness.json) |
@@ -2210,6 +2211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maiden's Exhibition: Shoujo-tachi no Danmaku Tenrankai | 278867 | [278867-maidens-exhibition-shoujo-tachi-no-danmaku-tenrankai.json](./278867-maidens-exhibition-shoujo-tachi-no-danmaku-tenrankai.json) |
 | Maiden's Extreme Fist 'Bun-ga-rua' | 360112 | [360112-maidens-extreme-fist-bun-ga-rua.json](./360112-maidens-extreme-fist-bun-ga-rua.json) |
 | Maiden's Reception: Shoujo-tachi no Danmaku Hirouen | 252579 | [252579-maidens-reception-shoujo-tachi-no-danmaku-hirouen.json](./252579-maidens-reception-shoujo-tachi-no-danmaku-hirouen.json) |
+| Maidenless | 204061 | [204061-maidenless.json](./204061-maidenless.json) |
 | Maidens of a Hollow Dream | 90257 | [90257-maidens-of-a-hollow-dream.json](./90257-maidens-of-a-hollow-dream.json) |
 | Maidens of the Ocean Solitaire | 164926 | [164926-maidens-of-the-ocean-solitaire.json](./164926-maidens-of-the-ocean-solitaire.json) |
 | MaidGardener | 253904 | [253904-maidgardener.json](./253904-maidgardener.json) |
@@ -5087,6 +5089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Head | 138451 | [138451-master-head.json](./138451-master-head.json) |
 | Master Heroes | 231555 | [231555-master-heroes.json](./231555-master-heroes.json) |
 | Master Karateka | 49077 | [49077-master-karateka.json](./49077-master-karateka.json) |
+| Master Key | 204048 | [204048-master-key.json](./204048-master-key.json) |
 | Master Labyrinth | 45915 | [45915-master-labyrinth.json](./45915-master-labyrinth.json) |
 | Master Lander | 187299 | [187299-master-lander.json](./187299-master-lander.json) |
 | Master Leaf Blower | 317024 | [317024-master-leaf-blower.json](./317024-master-leaf-blower.json) |
@@ -5927,7 +5930,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -6520,6 +6522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meat & Greed | 203546 | [203546-meat-and-greed.json](./203546-meat-and-greed.json) |
 | Meat and Metal | 261761 | [261761-meat-and-metal.json](./261761-meat-and-metal.json) |
 | Meat Beating: No More Horny | 156640 | [156640-meat-beating-no-more-horny.json](./156640-meat-beating-no-more-horny.json) |
+| Meat Beating: The Second Coming | 204047 | [204047-meat-beating-the-second-coming.json](./204047-meat-beating-the-second-coming.json) |
 | Meat Boy | 92427 | [92427-meat-boy.json](./92427-meat-boy.json) |
 | Meat boy (map pack) | 354462 | [354462-meat-boy-map-pack.json](./354462-meat-boy-map-pack.json) |
 | Meat Cannon Golf | 106660 | [106660-meat-cannon-golf.json](./106660-meat-cannon-golf.json) |
@@ -6666,6 +6669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechabellum | 240897 | [240897-mechabellum.json](./240897-mechabellum.json) |
 | MechaBlade Hero | 307039 | [307039-mechablade-hero.json](./307039-mechablade-hero.json) |
 | MechaBlight | 390625 | [390625-mechablight.json](./390625-mechablight.json) |
+| Mechabot Defender | 204046 | [204046-mechabot-defender.json](./204046-mechabot-defender.json) |
 | Mechaccountant | 362235 | [362235-mechaccountant.json](./362235-mechaccountant.json) |
 | Mechachain | 276738 | [276738-mechachain.json](./276738-mechachain.json) |
 | Mechaconda | 348593 | [348593-mechaconda.json](./348593-mechaconda.json) |
@@ -8862,6 +8866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Holder: The Colors | 332162 | [332162-memory-holder-the-colors.json](./332162-memory-holder-the-colors.json) |
 | Memory Holder: Winds of Freedom | 339549 | [339549-memory-holder-winds-of-freedom.json](./339549-memory-holder-winds-of-freedom.json) |
 | Memory Holders: The Colors II | 392171 | [392171-memory-holders-the-colors-ii.json](./392171-memory-holders-the-colors-ii.json) |
+| Memory Hunters | 204039 | [204039-memory-hunters.json](./204039-memory-hunters.json) |
 | Memory I | 68610 | [68610-memory-i.json](./68610-memory-i.json) |
 | Memory II / Melodie | 72371 | [72371-memory-ii-melodie.json](./72371-memory-ii-melodie.json) |
 | Memory Illusions | 157199 | [157199-memory-illusions.json](./157199-memory-illusions.json) |
@@ -8921,6 +8926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Puzzle: Futanari Doctor | 204945 | [204945-memory-puzzle-futanari-doctor.json](./204945-memory-puzzle-futanari-doctor.json) |
 | Memory Puzzle: Futanari Gym | 368623 | [368623-memory-puzzle-futanari-gym.json](./368623-memory-puzzle-futanari-gym.json) |
 | Memory Puzzle: Futanari Massage | 213778 | [213778-memory-puzzle-futanari-massage.json](./213778-memory-puzzle-futanari-massage.json) |
+| Memory Puzzle: Futanari Mistress | 204040 | [204040-memory-puzzle-futanari-mistress.json](./204040-memory-puzzle-futanari-mistress.json) |
 | Memory Puzzle: Futanari Threesome | 286494 | [286494-memory-puzzle-futanari-threesome.json](./286494-memory-puzzle-futanari-threesome.json) |
 | Memory Puzzle: Hentai Angels | 286465 | [286465-memory-puzzle-hentai-angels.json](./286465-memory-puzzle-hentai-angels.json) |
 | Memory Puzzle: Mile High Fun | 225192 | [225192-memory-puzzle-mile-high-fun.json](./225192-memory-puzzle-mile-high-fun.json) |
@@ -9586,6 +9592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metabolis | 237277 | [237277-metabolis.json](./237277-metabolis.json) |
 | Metabolis | 423284 | [423284-metabolis.json](./423284-metabolis.json) |
 | Metabrawl | 363135 | [363135-metabrawl.json](./363135-metabrawl.json) |
+| MetaCard: The Turing Test | 204041 | [204041-metacard-the-turing-test.json](./204041-metacard-the-turing-test.json) |
 | Metacell: Genesis Arcade | 147233 | [147233-metacell-genesis-arcade.json](./147233-metacell-genesis-arcade.json) |
 | MetaChampions | 131988 | [131988-metachampions.json](./131988-metachampions.json) |
 | Metachromium | 164239 | [164239-metachromium.json](./164239-metachromium.json) |
@@ -11367,6 +11374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might of Merchants | 216691 | [216691-might-of-merchants.json](./216691-might-of-merchants.json) |
 | Might of the Meek | 413877 | [413877-might-of-the-meek.json](./413877-might-of-the-meek.json) |
 | Might of the Stones | 193621 | [193621-might-of-the-stones.json](./193621-might-of-the-stones.json) |
+| Might'n Mow'em | 204042 | [204042-mightn-mowem.json](./204042-mightn-mowem.json) |
 | Mightier | 341696 | [341696-mightier.json](./341696-mightier.json) |
 | Mightier | 50136 | [50136-mightier.json](./50136-mightier.json) |
 | Mightreya | 314489 | [314489-mightreya.json](./314489-mightreya.json) |
@@ -11577,6 +11585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miko Gakkou: Second Year | 36169 | [36169-miko-gakkou-second-year.json](./36169-miko-gakkou-second-year.json) |
 | Miko Girls | 353581 | [353581-miko-girls.json](./353581-miko-girls.json) |
 | Miko Kanna Noukin Taimaki | 82738 | [82738-miko-kanna-noukin-taimaki.json](./82738-miko-kanna-noukin-taimaki.json) |
+| Miko Melee | 204043 | [204043-miko-melee.json](./204043-miko-melee.json) |
 | Miko Miko Nurse | 321402 | [321402-miko-miko-nurse.json](./321402-miko-miko-nurse.json) |
 | Miko Mole | 32631 | [32631-miko-mole.json](./32631-miko-mole.json) |
 | Miko Monogatari! | 222277 | [222277-miko-monogatari.json](./222277-miko-monogatari.json) |
@@ -12169,6 +12178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Boss Simulator | 212892 | [212892-mine-boss-simulator.json](./212892-mine-boss-simulator.json) |
 | Mine Breaker Simulator 2026 | 386372 | [386372-mine-breaker-simulator-2026.json](./386372-mine-breaker-simulator-2026.json) |
 | Mine Cards | 182866 | [182866-mine-cards.json](./182866-mine-cards.json) |
+| Mine Clash | 204044 | [204044-mine-clash.json](./204044-mine-clash.json) |
 | Mine Click | 358288 | [358288-mine-click.json](./358288-mine-click.json) |
 | Mine Clicker: Base Craft Building Game | 335010 | [335010-mine-clicker-base-craft-building-game.json](./335010-mine-clicker-base-craft-building-game.json) |
 | Mine Combat | 213819 | [213819-mine-combat.json](./213819-mine-combat.json) |
@@ -12858,6 +12868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Sports | 244693 | [244693-mini-sports.json](./244693-mini-sports.json) |
 | Mini Sports Collection | 84633 | [84633-mini-sports-collection.json](./84633-mini-sports-collection.json) |
 | Mini Star Bakery | 223288 | [223288-mini-star-bakery.json](./223288-mini-star-bakery.json) |
+| Mini Star Fishing | 204045 | [204045-mini-star-fishing.json](./204045-mini-star-fishing.json) |
 | Mini Star Imposters | 285419 | [285419-mini-star-imposters.json](./285419-mini-star-imposters.json) |
 | Mini Star Math | 294088 | [294088-mini-star-math.json](./294088-mini-star-math.json) |
 | Mini Star Quest | 344948 | [344948-mini-star-quest.json](./344948-mini-star-quest.json) |
@@ -20241,6 +20252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dream Garage | 374007 | [374007-my-dream-garage.json](./374007-my-dream-garage.json) |
 | My Dream Girl | 173841 | [173841-my-dream-girl.json](./173841-my-dream-girl.json) |
 | My Dream Girls | 173836 | [173836-my-dream-girls.json](./173836-my-dream-girls.json) |
+| My Dream is a Lost Memory | 204126 | [204126-my-dream-is-a-lost-memory.json](./204126-my-dream-is-a-lost-memory.json) |
 | My Dream is to Be a Model, Not a Maid! | 212806 | [212806-my-dream-is-to-be-a-model-not-a-maid.json](./212806-my-dream-is-to-be-a-model-not-a-maid.json) |
 | My Dream Job: Babysitter | 206768 | [206768-my-dream-job-babysitter.json](./206768-my-dream-job-babysitter.json) |
 | My Dream Job: How I Survived Job Hunting in Animation | 178684 | [178684-my-dream-job-how-i-survived-job-hunting-in-animation.json](./178684-my-dream-job-how-i-survived-job-hunting-in-animation.json) |
