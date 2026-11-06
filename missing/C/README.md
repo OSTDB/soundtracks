@@ -774,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Vanguard - Season Three | 202690 | [202690-call-of-duty-vanguard-season-three.json](./202690-call-of-duty-vanguard-season-three.json) |
 | Call of Duty: Vanguard - Season Two | 202689 | [202689-call-of-duty-vanguard-season-two.json](./202689-call-of-duty-vanguard-season-two.json) |
 | Call of Duty: Vanguard - Ultimate Edition | 170047 | [170047-call-of-duty-vanguard-ultimate-edition.json](./170047-call-of-duty-vanguard-ultimate-edition.json) |
+| Call of Duty: Vietnam | 240014 | [240014-call-of-duty-vietnam.json](./240014-call-of-duty-vietnam.json) |
 | Call of Duty: Warchest | 240503 | [240503-call-of-duty-warchest.json](./240503-call-of-duty-warchest.json) |
 | Call of Duty: Warzone | 131800 | [131800-call-of-duty-warzone.json](./131800-call-of-duty-warzone.json) |
 | Call of Duty: Warzone | 217815 | [217815-call-of-duty-warzone.json](./217815-call-of-duty-warzone.json) |
@@ -6074,6 +6075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chariot: Royal Gadget Pack | 252764 | [252764-chariot-royal-gadget-pack.json](./252764-chariot-royal-gadget-pack.json) |
 | Chariots of War | 23708 | [23708-chariots-of-war.json](./23708-chariots-of-war.json) |
 | Charisma | 313445 | [313445-charisma.json](./313445-charisma.json) |
+| Charles | 239990 | [239990-charles.json](./239990-charles.json) |
 | Charles Haunted Mansion | 265519 | [265519-charles-haunted-mansion.json](./265519-charles-haunted-mansion.json) |
 | Charles the Bee | 258641 | [258641-charles-the-bee.json](./258641-charles-the-bee.json) |
 | Charles: The Full Story | 281991 | [281991-charles-the-full-story.json](./281991-charles-the-full-story.json) |
@@ -13319,6 +13321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect | 350064 | [350064-connect.json](./350064-connect.json) |
 | Connect - colorful casual game | 101120 | [101120-connect-colorful-casual-game.json](./101120-connect-colorful-casual-game.json) |
 | connect - Virtual Home | 84140 | [84140-connect-virtual-home.json](./84140-connect-virtual-home.json) |
+| Connect & Pop | 239989 | [239989-connect-and-pop.json](./239989-connect-and-pop.json) |
 | Connect 4 | 79945 | [79945-connect-4.json](./79945-connect-4.json) |
 | Connect 4 Deluxe | 205623 | [205623-connect-4-deluxe.json](./205623-connect-4-deluxe.json) |
 | Connect 4 Faces: Match & Play | 232389 | [232389-connect-4-faces-match-and-play.json](./232389-connect-4-faces-match-and-play.json) |
