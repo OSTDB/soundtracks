@@ -23,9 +23,9 @@ The most popular games still missing a soundtrack. Click **Add it**, fill in the
 | 9 | **Need for Speed** | [🔎 Find on Spotify](https://open.spotify.com/search/Need%20for%20Speed%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/N/10965-need-for-speed.json) |
 | 10 | **Sid Meier's Civilization** | [🔎 Find on Spotify](https://open.spotify.com/search/Sid%20Meier's%20Civilization%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/S/902-sid-meiers-civilization.json) |
 | 11 | **Europa Universalis IV** | [🔎 Find on Spotify](https://open.spotify.com/search/Europa%20Universalis%20IV%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/E/1904-europa-universalis-iv.json) |
-| 12 | **Counter-Strike: Condition Zero** | [🔎 Find on Spotify](https://open.spotify.com/search/Counter-Strike%3A%20Condition%20Zero%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/297-counter-strike-condition-zero.json) |
-| 13 | **LEGO Star Wars: The Video Game** | [🔎 Find on Spotify](https://open.spotify.com/search/LEGO%20Star%20Wars%3A%20The%20Video%20Game%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/L/2681-lego-star-wars-the-video-game.json) |
-| 14 | **Tomb Raider: Anniversary** | [🔎 Find on Spotify](https://open.spotify.com/search/Tomb%20Raider%3A%20Anniversary%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/T/1162-tomb-raider-anniversary.json) |
+| 12 | **Tomb Raider: Anniversary** | [🔎 Find on Spotify](https://open.spotify.com/search/Tomb%20Raider%3A%20Anniversary%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/T/1162-tomb-raider-anniversary.json) |
+| 13 | **Counter-Strike: Condition Zero** | [🔎 Find on Spotify](https://open.spotify.com/search/Counter-Strike%3A%20Condition%20Zero%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/297-counter-strike-condition-zero.json) |
+| 14 | **LEGO Star Wars: The Video Game** | [🔎 Find on Spotify](https://open.spotify.com/search/LEGO%20Star%20Wars%3A%20The%20Video%20Game%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/L/2681-lego-star-wars-the-video-game.json) |
 | 15 | **Resident Evil: Revelations 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Resident%20Evil%3A%20Revelations%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/R/7725-resident-evil-revelations-2.json) |
 | 16 | **Divinity: Original Sin** | [🔎 Find on Spotify](https://open.spotify.com/search/Divinity%3A%20Original%20Sin%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/5082-divinity-original-sin.json) |
 | 17 | **Crusader Kings II** | [🔎 Find on Spotify](https://open.spotify.com/search/Crusader%20Kings%20II%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/2918-crusader-kings-ii.json) |
@@ -67,20 +67,20 @@ The most popular games still missing a soundtrack. Click **Add it**, fill in the
 
 | **[A](./A/README.md)** | **[B](./B/README.md)** | **[C](./C/README.md)** | **[D](./D/README.md)** | **[E](./E/README.md)** | **[F](./F/README.md)** | **[G](./G/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 18190 games | 18180 games | 20636 games | 19139 games | 8360 games | 13923 games | 11350 games |
+| 18191 games | 18183 games | 20640 games | 19146 games | 8361 games | 13924 games | 11352 games |
 
 | **[H](./H/README.md)** | **[I](./I/README.md)** | **[J](./J/README.md)** | **[K](./K/README.md)** | **[L](./L/README.md)** | **[M](./M/README.md)** | **[N](./N/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 12613 games | 6824 games | 4225 games | 6384 games | 10079 games | 21961 games | 7717 games |
+| 12614 games | 6825 games | 4228 games | 6383 games | 10083 games | 21964 games | 7717 games |
 
 | **[O](./O/README.md)** | **[P](./P/README.md)** | **[Q](./Q/README.md)** | **[R](./R/README.md)** | **[S](./S/README.md)** | **[T](./T/README.md)** | **[U](./U/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 5874 games | 18669 games | 1284 games | 13034 games | 35771 games | 32994 games | 3636 games |
+| 5874 games | 18671 games | 1284 games | 13038 games | 35774 games | 32998 games | 3637 games |
 
 | **[V](./V/README.md)** | **[W](./W/README.md)** | **[X](./X/README.md)** | **[Y](./Y/README.md)** | **[Z](./Z/README.md)** | **[0-9](./0-9/README.md)** |
 | --- | --- | --- | --- | --- | --- |
-| 4236 games | 9364 games | 1079 games | 2142 games | 2584 games | 3564 games |
+| 4237 games | 9365 games | 1079 games | 2142 games | 2586 games | 3564 games |
 
 ---
 
-_313812 games missing a soundtrack · last updated 2026-11-06T00:34:37.914Z_
+_313860 games missing a soundtrack · last updated 2026-11-06T00:48:49.548Z_
