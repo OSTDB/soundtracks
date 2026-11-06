@@ -8936,6 +8936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circus Challenge | 296316 | [296316-circus-challenge.json](./296316-circus-challenge.json) |
 | Circus Charlie | 25692 | [25692-circus-charlie.json](./25692-circus-charlie.json) |
 | Circus Convoy | 376721 | [376721-circus-convoy.json](./376721-circus-convoy.json) |
+| Circus Electrique: Deluxe Edition | 210935 | [210935-circus-electrique-deluxe-edition.json](./210935-circus-electrique-deluxe-edition.json) |
 | Circus Empire | 21490 | [21490-circus-empire.json](./21490-circus-empire.json) |
 | Circus Games | 12004 | [12004-circus-games.json](./12004-circus-games.json) |
 | Circus Games | 159042 | [159042-circus-games.json](./159042-circus-games.json) |
@@ -12678,6 +12679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Come to Jesus | 179726 | [179726-come-to-jesus.json](./179726-come-to-jesus.json) |
 | Come To My Party! | 404091 | [404091-come-to-my-party.json](./404091-come-to-my-party.json) |
 | Come To Play | 370293 | [370293-come-to-play.json](./370293-come-to-play.json) |
+| Come Together | 210951 | [210951-come-together.json](./210951-come-together.json) |
 | Come Towards Me. | 371129 | [371129-come-towards-me.json](./371129-come-towards-me.json) |
 | Come with Me | 147401 | [147401-come-with-me.json](./147401-come-with-me.json) |
 | Come-Frutas | 403313 | [403313-come-frutas.json](./403313-come-frutas.json) |
@@ -15264,6 +15266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cossack and Magic | 164187 | [164187-cossack-and-magic.json](./164187-cossack-and-magic.json) |
 | Cossacks 3 | 13215 | [13215-cossacks-3.json](./13215-cossacks-3.json) |
 | Cossacks 3: Days of Brilliance | 51742 | [51742-cossacks-3-days-of-brilliance.json](./51742-cossacks-3-days-of-brilliance.json) |
+| Cossacks 3: Digital Deluxe | 210940 | [210940-cossacks-3-digital-deluxe.json](./210940-cossacks-3-digital-deluxe.json) |
 | Cossacks 3: Guardians of the Highlands | 51763 | [51763-cossacks-3-guardians-of-the-highlands.json](./51763-cossacks-3-guardians-of-the-highlands.json) |
 | Cossacks 3: Path to Grandeur | 51762 | [51762-cossacks-3-path-to-grandeur.json](./51762-cossacks-3-path-to-grandeur.json) |
 | Cossacks 3: Rise to Glory | 51761 | [51761-cossacks-3-rise-to-glory.json](./51761-cossacks-3-rise-to-glory.json) |
