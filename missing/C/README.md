@@ -1420,6 +1420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannabis Farmer Strain Master | 159481 | [159481-cannabis-farmer-strain-master.json](./159481-cannabis-farmer-strain-master.json) |
 | Cannabis Store Simulator | 359338 | [359338-cannabis-store-simulator.json](./359338-cannabis-store-simulator.json) |
 | Cannabiz: Weed Shop Owner | 391640 | [391640-cannabiz-weed-shop-owner.json](./391640-cannabiz-weed-shop-owner.json) |
+| Cannelé & Nomnom: Defective Agency | 242904 | [242904-cannele-and-nomnom-defective-agency.json](./242904-cannele-and-nomnom-defective-agency.json) |
 | Cannery Vale | 216339 | [216339-cannery-vale.json](./216339-cannery-vale.json) |
 | Cannibal | 104785 | [104785-cannibal.json](./104785-cannibal.json) |
 | Cannibal | 299444 | [299444-cannibal.json](./299444-cannibal.json) |
@@ -15521,6 +15522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboyana | 72896 | [72896-cowboyana.json](./72896-cowboyana.json) |
 | Cowboys | 387462 | [387462-cowboys.json](./387462-cowboys.json) |
 | Cowboys & Aliens | 344313 | [344313-cowboys-and-aliens.json](./344313-cowboys-and-aliens.json) |
+| Cowboys & Rustlers | 242884 | [242884-cowboys-and-rustlers.json](./242884-cowboys-and-rustlers.json) |
 | Cowboys & Zombies VR | 226185 | [226185-cowboys-and-zombies-vr.json](./226185-cowboys-and-zombies-vr.json) |
 | Cowboys Galaxy Adventures | 193823 | [193823-cowboys-galaxy-adventures.json](./193823-cowboys-galaxy-adventures.json) |
 | Cowboys n' Stuff | 169386 | [169386-cowboys-n-stuff.json](./169386-cowboys-n-stuff.json) |
