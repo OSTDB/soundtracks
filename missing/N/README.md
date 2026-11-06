@@ -4335,6 +4335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Project | 303974 | [303974-night-project.json](./303974-night-project.json) |
 | Night Pump | 399005 | [399005-night-pump.json](./399005-night-pump.json) |
 | Night Pump: A Horror Game Remake | 402239 | [402239-night-pump-a-horror-game-remake.json](./402239-night-pump-a-horror-game-remake.json) |
+| Night Racer | 196938 | [196938-night-racer.json](./196938-night-racer.json) |
 | Night Racer: Street Racing 3D | 241827 | [241827-night-racer-street-racing-3d.json](./241827-night-racer-street-racing-3d.json) |
 | Night Racing: Miami Street Traffic Racer | 106004 | [106004-night-racing-miami-street-traffic-racer.json](./106004-night-racing-miami-street-traffic-racer.json) |
 | Night Raid | 291021 | [291021-night-raid.json](./291021-night-raid.json) |
@@ -6267,6 +6268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nodge Pre-Alpha | 76697 | [76697-nodge-pre-alpha.json](./76697-nodge-pre-alpha.json) |
 | Nodrog's Fortress | 182463 | [182463-nodrogs-fortress.json](./182463-nodrogs-fortress.json) |
 | Nodwar | 378906 | [378906-nodwar.json](./378906-nodwar.json) |
+| Nodyssey | 196937 | [196937-nodyssey.json](./196937-nodyssey.json) |
 | Noel 3: Mission on the Line | 107624 | [107624-noel-3-mission-on-the-line.json](./107624-noel-3-mission-on-the-line.json) |
 | Noel 3: Not Digital | 336305 | [336305-noel-3-not-digital.json](./336305-noel-3-not-digital.json) |
 | Noel the Mortal Fate | 192026 | [192026-noel-the-mortal-fate.json](./192026-noel-the-mortal-fate.json) |
