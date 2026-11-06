@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obrii | 371028 | [371028-obrii.json](./371028-obrii.json) |
 | Obrum | 406129 | [406129-obrum.json](./406129-obrum.json) |
 | Obsccurus Somulum | 335236 | [335236-obsccurus-somulum.json](./335236-obsccurus-somulum.json) |
+| Obscene Mansion | 223279 | [223279-obscene-mansion.json](./223279-obscene-mansion.json) |
 | Obscula | 341293 | [341293-obscula.json](./341293-obscula.json) |
 | Obscura | 162841 | [162841-obscura.json](./162841-obscura.json) |
 | Obscura | 213178 | [213178-obscura.json](./213178-obscura.json) |
@@ -3496,6 +3497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Red Dragon | 75665 | [75665-operation-red-dragon.json](./75665-operation-red-dragon.json) |
 | Operation Remode | 333354 | [333354-operation-remode.json](./333354-operation-remode.json) |
 | Operation S | 186805 | [186805-operation-s.json](./186805-operation-s.json) |
+| Operation Satoshi | 223278 | [223278-operation-satoshi.json](./223278-operation-satoshi.json) |
 | Operation Save Anna | 369551 | [369551-operation-save-anna.json](./369551-operation-save-anna.json) |
 | Operation Sci-Fi: Hentai Girls | 349301 | [349301-operation-sci-fi-hentai-girls.json](./349301-operation-sci-fi-hentai-girls.json) |
 | Operation Scorched Earth | 402153 | [402153-operation-scorched-earth.json](./402153-operation-scorched-earth.json) |
