@@ -5107,6 +5107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celeste: Into The Jungle | 353715 | [353715-celeste-into-the-jungle.json](./353715-celeste-into-the-jungle.json) |
 | Celeste: The D-Sides Pack | 281897 | [281897-celeste-the-d-sides-pack.json](./281897-celeste-the-d-sides-pack.json) |
 | Celeste.smc | 249550 | [249550-celeste-smc.json](./249550-celeste-smc.json) |
+| Celesteia | 242309 | [242309-celesteia.json](./242309-celesteia.json) |
 | Celestia | 183432 | [183432-celestia.json](./183432-celestia.json) |
 | Celestia | 351356 | [351356-celestia.json](./351356-celestia.json) |
 | Celestia Ultimate | 249475 | [249475-celestia-ultimate.json](./249475-celestia-ultimate.json) |
@@ -10299,6 +10300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clocker | 110816 | [110816-clocker.json](./110816-clocker.json) |
 | Clockfall | 391888 | [391888-clockfall.json](./391888-clockfall.json) |
 | Clocking In to Fight a Lich in Another Realm | 347594 | [347594-clocking-in-to-fight-a-lich-in-another-realm.json](./347594-clocking-in-to-fight-a-lich-in-another-realm.json) |
+| Clockmaker | 242306 | [242306-clockmaker.json](./242306-clockmaker.json) |
 | Clocknockers | 190393 | [190393-clocknockers.json](./190393-clocknockers.json) |
 | Clocknockers 2 | 193088 | [193088-clocknockers-2.json](./193088-clocknockers-2.json) |
 | ClockOut | 296716 | [296716-clockout.json](./296716-clockout.json) |
@@ -11186,6 +11188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codeyssey | 386080 | [386080-codeyssey.json](./386080-codeyssey.json) |
 | Coding Day | 302094 | [302094-coding-day.json](./302094-coding-day.json) |
 | Coding for Carrots | 77733 | [77733-coding-for-carrots.json](./77733-coding-for-carrots.json) |
+| Coding Robo | 242299 | [242299-coding-robo.json](./242299-coding-robo.json) |
 | Coding With Doc | 372594 | [372594-coding-with-doc.json](./372594-coding-with-doc.json) |
 | CodStar | 316147 | [316147-codstar.json](./316147-codstar.json) |
 | Cody's Nightmare | 260526 | [260526-codys-nightmare.json](./260526-codys-nightmare.json) |
@@ -17178,6 +17181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminalist | 320120 | [320120-criminalist.json](./320120-criminalist.json) |
 | Criminally Overdue | 179055 | [179055-criminally-overdue.json](./179055-criminally-overdue.json) |
 | Criminally Yours | 347085 | [347085-criminally-yours.json](./347085-criminally-yours.json) |
+| Criminals Within | 242323 | [242323-criminals-within.json](./242323-criminals-within.json) |
 | CrimSaw | 337402 | [337402-crimsaw.json](./337402-crimsaw.json) |
 | Crimson | 343262 | [343262-crimson.json](./343262-crimson.json) |
 | Crimson Alliance | 21147 | [21147-crimson-alliance.json](./21147-crimson-alliance.json) |
