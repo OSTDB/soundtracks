@@ -6631,6 +6631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blue and the Grey | 47013 | [47013-the-blue-and-the-grey.json](./47013-the-blue-and-the-grey.json) |
 | The Blue Bedroom | 180847 | [180847-the-blue-bedroom.json](./180847-the-blue-bedroom.json) |
 | The Blue Box | 99686 | [99686-the-blue-box.json](./99686-the-blue-box.json) |
+| The Blue Cat | 216513 | [216513-the-blue-cat.json](./216513-the-blue-cat.json) |
 | The Blue Chamber | 247540 | [247540-the-blue-chamber.json](./247540-the-blue-chamber.json) |
 | The Blue Contestant | 124530 | [124530-the-blue-contestant.json](./124530-the-blue-contestant.json) |
 | The Blue Crystal Rod | 38183 | [38183-the-blue-crystal-rod.json](./38183-the-blue-crystal-rod.json) |
@@ -6790,6 +6791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Brave Hearts II: False Skies | 415480 | [415480-the-brave-hearts-ii-false-skies.json](./415480-the-brave-hearts-ii-false-skies.json) |
 | The Brave Little Cloud | 275828 | [275828-the-brave-little-cloud.json](./275828-the-brave-little-cloud.json) |
 | The Brave Little Pigs | 332344 | [332344-the-brave-little-pigs.json](./332344-the-brave-little-pigs.json) |
+| The brave loves the body of the devil | 216511 | [216511-the-brave-loves-the-body-of-the-devil.json](./216511-the-brave-loves-the-body-of-the-devil.json) |
 | The Brave Mouse | 51513 | [51513-the-brave-mouse.json](./51513-the-brave-mouse.json) |
 | The Brave Never Alone | 351109 | [351109-the-brave-never-alone.json](./351109-the-brave-never-alone.json) |
 | The Brave New World | 272042 | [272042-the-brave-new-world.json](./272042-the-brave-new-world.json) |
@@ -7902,6 +7904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dance of Maple Leaves | 346670 | [346670-the-dance-of-maple-leaves.json](./346670-the-dance-of-maple-leaves.json) |
 | The Dance of the Little Water Drops | 104669 | [104669-the-dance-of-the-little-water-drops.json](./104669-the-dance-of-the-little-water-drops.json) |
 | The Dancer: Definitive Edition | 211666 | [211666-the-dancer-definitive-edition.json](./211666-the-dancer-definitive-edition.json) |
+| The Dancer: Definitive Edition - Revolution | 216510 | [216510-the-dancer-definitive-edition-revolution.json](./216510-the-dancer-definitive-edition-revolution.json) |
 | The Dancer's Lullaby | 346889 | [346889-the-dancers-lullaby.json](./346889-the-dancers-lullaby.json) |
 | The Dandelion Girl: Don't You Remember Me? | 120527 | [120527-the-dandelion-girl-dont-you-remember-me.json](./120527-the-dandelion-girl-dont-you-remember-me.json) |
 | The Danger Zone | 244425 | [244425-the-danger-zone.json](./244425-the-danger-zone.json) |
@@ -9008,6 +9011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Exchange Student: Episode 1 - First Day in Sweden | 77908 | [77908-the-exchange-student-episode-1-first-day-in-sweden.json](./77908-the-exchange-student-episode-1-first-day-in-sweden.json) |
 | The Exchange Student: Episode 2 - Point Club | 72024 | [72024-the-exchange-student-episode-2-point-club.json](./72024-the-exchange-student-episode-2-point-club.json) |
 | The Exclusion Zone Online | 153925 | [153925-the-exclusion-zone-online.json](./153925-the-exclusion-zone-online.json) |
+| The Excrawlers | 216514 | [216514-the-excrawlers.json](./216514-the-excrawlers.json) |
 | The Execution of Anne Boleyn | 171843 | [171843-the-execution-of-anne-boleyn.json](./171843-the-execution-of-anne-boleyn.json) |
 | The Executioner | 89375 | [89375-the-executioner.json](./89375-the-executioner.json) |
 | The Executioner: Prologue | 51993 | [51993-the-executioner-prologue.json](./51993-the-executioner-prologue.json) |
@@ -10874,6 +10878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunt for the Lost Treasure | 88284 | [88284-the-hunt-for-the-lost-treasure.json](./88284-the-hunt-for-the-lost-treasure.json) |
 | The Hunt for the Lost Treasure 2 | 290007 | [290007-the-hunt-for-the-lost-treasure-2.json](./290007-the-hunt-for-the-lost-treasure-2.json) |
 | The Hunt for the Red Cthulhu | 231571 | [231571-the-hunt-for-the-red-cthulhu.json](./231571-the-hunt-for-the-red-cthulhu.json) |
+| The Hunt of the Blood Moon | 216515 | [216515-the-hunt-of-the-blood-moon.json](./216515-the-hunt-of-the-blood-moon.json) |
 | The Hunted | 215741 | [215741-the-hunted.json](./215741-the-hunted.json) |
 | The Hunted | 28786 | [28786-the-hunted.json](./28786-the-hunted.json) |
 | The Hunted | 344261 | [344261-the-hunted.json](./344261-the-hunted.json) |
@@ -10898,6 +10903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hurricane of the Varstray: Collateral hazard | 34088 | [34088-the-hurricane-of-the-varstray-collateral-hazard.json](./34088-the-hurricane-of-the-varstray-collateral-hazard.json) |
 | The Hurt in Secret | 369550 | [369550-the-hurt-in-secret.json](./369550-the-hurt-in-secret.json) |
 | The Hust Banhmi | 410628 | [410628-the-hust-banhmi.json](./410628-the-hust-banhmi.json) |
+| The Hustle | 216516 | [216516-the-hustle.json](./216516-the-hustle.json) |
 | The Hustle: Detroit Streets | 73266 | [73266-the-hustle-detroit-streets.json](./73266-the-hustle-detroit-streets.json) |
 | The Hustlers | 306412 | [306412-the-hustlers.json](./306412-the-hustlers.json) |
 | The Hydra | 194230 | [194230-the-hydra.json](./194230-the-hydra.json) |
@@ -11664,6 +11670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King's Odyssey | 185470 | [185470-the-kings-odyssey.json](./185470-the-kings-odyssey.json) |
 | The King's Request | 103193 | [103193-the-kings-request.json](./103193-the-kings-request.json) |
 | The King's Side Castle | 418590 | [418590-the-kings-side-castle.json](./418590-the-kings-side-castle.json) |
+| The King's Tournament | 216517 | [216517-the-kings-tournament.json](./216517-the-kings-tournament.json) |
 | The King's Wish | 270852 | [270852-the-kings-wish.json](./270852-the-kings-wish.json) |
 | The Kingdom of Christmas: Santa's Elves | 328474 | [328474-the-kingdom-of-christmas-santas-elves.json](./328474-the-kingdom-of-christmas-santas-elves.json) |
 | The Kingdom of Galanor | 169837 | [169837-the-kingdom-of-galanor.json](./169837-the-kingdom-of-galanor.json) |
@@ -12877,6 +12884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lightning Girl | 372275 | [372275-the-lightning-girl.json](./372275-the-lightning-girl.json) |
 | The Lightning Over Pear Acre Road | 138186 | [138186-the-lightning-over-pear-acre-road.json](./138186-the-lightning-over-pear-acre-road.json) |
 | The Lightning Struck Orphan | 345152 | [345152-the-lightning-struck-orphan.json](./345152-the-lightning-struck-orphan.json) |
+| The Lightnwatchers | 216518 | [216518-the-lightnwatchers.json](./216518-the-lightnwatchers.json) |
 | The Lightseeker | 381288 | [381288-the-lightseeker.json](./381288-the-lightseeker.json) |
 | The Lightshield Report | 302141 | [302141-the-lightshield-report.json](./302141-the-lightshield-report.json) |
 | The Lik | 223369 | [223369-the-lik.json](./223369-the-lik.json) |
@@ -14570,6 +14578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Overseer | 306445 | [306445-the-overseer.json](./306445-the-overseer.json) |
 | The Oversight Bureau | 373507 | [373507-the-oversight-bureau.json](./373507-the-oversight-bureau.json) |
 | The Overtaken | 177822 | [177822-the-overtaken.json](./177822-the-overtaken.json) |
+| The Overthrow | 216507 | [216507-the-overthrow.json](./216507-the-overthrow.json) |
 | The Owl House: Witch's Apprentice | 297588 | [297588-the-owl-house-witchs-apprentice.json](./297588-the-owl-house-witchs-apprentice.json) |
 | The Owl Quest | 155870 | [155870-the-owl-quest.json](./155870-the-owl-quest.json) |
 | The Owl-Woman Oracle | 177929 | [177929-the-owl-woman-oracle.json](./177929-the-owl-woman-oracle.json) |
@@ -14734,6 +14743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pepper Prince: Episode 2 - The Sadness | 174493 | [174493-the-pepper-prince-episode-2-the-sadness.json](./174493-the-pepper-prince-episode-2-the-sadness.json) |
 | The Pepper Prince: Episode 3 - Into Thin Air | 302136 | [302136-the-pepper-prince-episode-3-into-thin-air.json](./302136-the-pepper-prince-episode-3-into-thin-air.json) |
 | The Pepper Prince: Episode 4 - Lover's Peak | 302137 | [302137-the-pepper-prince-episode-4-lovers-peak.json](./302137-the-pepper-prince-episode-4-lovers-peak.json) |
+| The Pepper Prince: Episode 5 - A Royal Descent | 216506 | [216506-the-pepper-prince-episode-5-a-royal-descent.json](./216506-the-pepper-prince-episode-5-a-royal-descent.json) |
 | The Pepper Prince: Prologue | 302135 | [302135-the-pepper-prince-prologue.json](./302135-the-pepper-prince-prologue.json) |
 | The Pepper Prince: Seasoning Pass (Episode 2-5) | 302467 | [302467-the-pepper-prince-seasoning-pass-episode-2-5.json](./302467-the-pepper-prince-seasoning-pass-episode-2-5.json) |
 | The Peresmeshnik | 136800 | [136800-the-peresmeshnik.json](./136800-the-peresmeshnik.json) |
@@ -18236,6 +18246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unknown Strain | 292444 | [292444-the-unknown-strain.json](./292444-the-unknown-strain.json) |
 | The Unlife of Gorlak | 271391 | [271391-the-unlife-of-gorlak.json](./271391-the-unlife-of-gorlak.json) |
 | The Unlit Sun | 336737 | [336737-the-unlit-sun.json](./336737-the-unlit-sun.json) |
+| The Unluckiest Man | 216505 | [216505-the-unluckiest-man.json](./216505-the-unluckiest-man.json) |
 | The UnMaking | 191722 | [191722-the-unmaking.json](./191722-the-unmaking.json) |
 | The Unmarked | 153353 | [153353-the-unmarked.json](./153353-the-unmarked.json) |
 | The Unnamed Game | 152983 | [152983-the-unnamed-game.json](./152983-the-unnamed-game.json) |
