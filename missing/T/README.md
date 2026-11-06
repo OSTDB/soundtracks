@@ -4387,6 +4387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminator 3: Rise of the Machines | 6196 | [6196-terminator-3-rise-of-the-machines.json](./6196-terminator-3-rise-of-the-machines.json) |
 | Terminator 3: War of the Machines | 47069 | [47069-terminator-3-war-of-the-machines.json](./47069-terminator-3-war-of-the-machines.json) |
 | Terminator Genisys: Future War | 212534 | [212534-terminator-genisys-future-war.json](./212534-terminator-genisys-future-war.json) |
+| Terminator Genisys: Guardian | 194098 | [194098-terminator-genisys-guardian.json](./194098-terminator-genisys-guardian.json) |
 | Terminator Salvation | 142768 | [142768-terminator-salvation.json](./142768-terminator-salvation.json) |
 | Terminator Salvation: Fight for the Future | 115311 | [115311-terminator-salvation-fight-for-the-future.json](./115311-terminator-salvation-fight-for-the-future.json) |
 | Terminator: Arena | 370370 | [370370-terminator-arena.json](./370370-terminator-arena.json) |
@@ -20599,6 +20600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throwing Stone | 167534 | [167534-throwing-stone.json](./167534-throwing-stone.json) |
 | Thrown | 404604 | [404604-thrown.json](./404604-thrown.json) |
 | Thru the City | 291941 | [291941-thru-the-city.json](./291941-thru-the-city.json) |
+| Thrud | 194092 | [194092-thrud.json](./194092-thrud.json) |
 | Thrunt XL | 111483 | [111483-thrunt-xl.json](./111483-thrunt-xl.json) |
 | Thrunt! | 134682 | [134682-thrunt.json](./134682-thrunt.json) |
 | Thrushbriar Hall | 111031 | [111031-thrushbriar-hall.json](./111031-thrushbriar-hall.json) |
@@ -33482,6 +33484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typo! | 323488 | [323488-typo.json](./323488-typo.json) |
 | TypoGun | 93364 | [93364-typogun.json](./93364-typogun.json) |
 | Typomagical | 358232 | [358232-typomagical.json](./358232-typomagical.json) |
+| Typoman Mobile | 194082 | [194082-typoman-mobile.json](./194082-typoman-mobile.json) |
 | Typoman: Revised | 52993 | [52993-typoman-revised.json](./52993-typoman-revised.json) |
 | Typomancer in the Feather's Way | 174261 | [174261-typomancer-in-the-feathers-way.json](./174261-typomancer-in-the-feathers-way.json) |
 | Typos and Brains | 179893 | [179893-typos-and-brains.json](./179893-typos-and-brains.json) |
