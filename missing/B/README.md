@@ -1996,6 +1996,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Band-kun | 170248 | [170248-band-kun.json](./170248-band-kun.json) |
 | Bandage on my right cheek | 28087 | [28087-bandage-on-my-right-cheek.json](./28087-bandage-on-my-right-cheek.json) |
 | Bandai Golf: Challenge Pebble Beach | 9285 | [9285-bandai-golf-challenge-pebble-beach.json](./9285-bandai-golf-challenge-pebble-beach.json) |
+| Bandai Namco Arcade Blast! | 219432 | [219432-bandai-namco-arcade-blast.json](./219432-bandai-namco-arcade-blast.json) |
+| Bandai Namco Flashback Blast! | 219431 | [219431-bandai-namco-flashback-blast.json](./219431-bandai-namco-flashback-blast.json) |
 | Bandai Namco Flashback Blast! | 245650 | [245650-bandai-namco-flashback-blast.json](./245650-bandai-namco-flashback-blast.json) |
 | Bandai Namco Games Presents: J Legend Retsuden | 136907 | [136907-bandai-namco-games-presents-j-legend-retsuden.json](./136907-bandai-namco-games-presents-j-legend-retsuden.json) |
 | Bandai Namco Games Presents: J Legend Retsuden | 63114 | [63114-bandai-namco-games-presents-j-legend-retsuden.json](./63114-bandai-namco-games-presents-j-legend-retsuden.json) |
@@ -7779,6 +7781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billiard Japonais | 92291 | [92291-billiard-japonais.json](./92291-billiard-japonais.json) |
 | Billiard of Chaos | 274308 | [274308-billiard-of-chaos.json](./274308-billiard-of-chaos.json) |
 | Billiard Rampage | 389682 | [389682-billiard-rampage.json](./389682-billiard-rampage.json) |
+| Billiard: Classic 8 Ball Pool | 219340 | [219340-billiard-classic-8-ball-pool.json](./219340-billiard-classic-8-ball-pool.json) |
 | Billiard: VR | 30197 | [30197-billiard-vr.json](./30197-billiard-vr.json) |
 | Billiards | 362425 | [362425-billiards.json](./362425-billiards.json) |
 | Billiards | 55636 | [55636-billiards.json](./55636-billiards.json) |
