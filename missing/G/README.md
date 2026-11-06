@@ -1540,6 +1540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamer 2 | 124608 | [124608-gamer-2.json](./124608-gamer-2.json) |
 | Gamer Cafe | 233451 | [233451-gamer-cafe.json](./233451-gamer-cafe.json) |
 | Gamer Den | 177928 | [177928-gamer-den.json](./177928-gamer-den.json) |
+| Gamer Girl | 200778 | [200778-gamer-girl.json](./200778-gamer-girl.json) |
 | Gamer Girls 2 | 162842 | [162842-gamer-girls-2.json](./162842-gamer-girls-2.json) |
 | Gamer Girls: Cyberpunk 2069 | 286461 | [286461-gamer-girls-cyberpunk-2069.json](./286461-gamer-girls-cyberpunk-2069.json) |
 | Gamer Girls: Dating Sim | 199729 | [199729-gamer-girls-dating-sim.json](./199729-gamer-girls-dating-sim.json) |
@@ -2693,6 +2694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemfire | 14501 | [14501-gemfire.json](./14501-gemfire.json) |
 | Gemibears | 233997 | [233997-gemibears.json](./233997-gemibears.json) |
 | Gemini | 139404 | [139404-gemini.json](./139404-gemini.json) |
+| Gemini | 200761 | [200761-gemini.json](./200761-gemini.json) |
 | Gemini | 86115 | [86115-gemini.json](./86115-gemini.json) |
 | Gemini Arms | 145546 | [145546-gemini-arms.json](./145546-gemini-arms.json) |
 | Gemini Chase | 223223 | [223223-gemini-chase.json](./223223-gemini-chase.json) |
@@ -6257,6 +6259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goethe's Last Laugh | 376569 | [376569-goethes-last-laugh.json](./376569-goethes-last-laugh.json) |
 | Goetia | 18454 | [18454-goetia.json](./18454-goetia.json) |
 | Goetia 1 | 257293 | [257293-goetia-1.json](./257293-goetia-1.json) |
+| Goetia 2 | 200803 | [200803-goetia-2.json](./200803-goetia-2.json) |
 | Goetia: The Infinite Tower | 222511 | [222511-goetia-the-infinite-tower.json](./222511-goetia-the-infinite-tower.json) |
 | GoetiaX | 145665 | [145665-goetiax.json](./145665-goetiax.json) |
 | Goetita: Turn-based City | 215582 | [215582-goetita-turn-based-city.json](./215582-goetita-turn-based-city.json) |
@@ -10685,8 +10688,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumdrop Gladiator | 381354 | [381354-gumdrop-gladiator.json](./381354-gumdrop-gladiator.json) |
 | Gumdrops | 185331 | [185331-gumdrops.json](./185331-gumdrops.json) |
 | Gummibär Mobile Game | 321276 | [321276-gummibar-mobile-game.json](./321276-gummibar-mobile-game.json) |
+| Gummy Bear Aqua Park | 200777 | [200777-gummy-bear-aqua-park.json](./200777-gummy-bear-aqua-park.json) |
 | Gummy Bear Idle: No Job, Just Jelly | 369160 | [369160-gummy-bear-idle-no-job-just-jelly.json](./369160-gummy-bear-idle-no-job-just-jelly.json) |
 | Gummy Bear Mafia | 330493 | [330493-gummy-bear-mafia.json](./330493-gummy-bear-mafia.json) |
+| Gummy Bear Runner | 200776 | [200776-gummy-bear-runner.json](./200776-gummy-bear-runner.json) |
 | Gummy Bears Mini Golf | 209784 | [209784-gummy-bears-mini-golf.json](./209784-gummy-bears-mini-golf.json) |
 | Gummy Bears Mini Golf | 85169 | [85169-gummy-bears-mini-golf.json](./85169-gummy-bears-mini-golf.json) |
 | Gummy Bears Minigolf | 47722 | [47722-gummy-bears-minigolf.json](./47722-gummy-bears-minigolf.json) |
