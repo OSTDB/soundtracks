@@ -5882,7 +5882,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -10306,6 +10305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miami Chase | 85920 | [85920-miami-chase.json](./85920-miami-chase.json) |
 | Miami Cruise | 105087 | [105087-miami-cruise.json](./105087-miami-cruise.json) |
 | Miami Horizon 2077 | 238735 | [238735-miami-horizon-2077.json](./238735-miami-horizon-2077.json) |
+| Miami Hotel Sim | 226004 | [226004-miami-hotel-sim.json](./226004-miami-hotel-sim.json) |
 | Miami Law | 20281 | [20281-miami-law.json](./20281-miami-law.json) |
 | Miami Menace | 409229 | [409229-miami-menace.json](./409229-miami-menace.json) |
 | Miami Nights 2: The City Is Yours | 145915 | [145915-miami-nights-2-the-city-is-yours.json](./145915-miami-nights-2-the-city-is-yours.json) |
@@ -20059,6 +20059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dangerous Life | 156700 | [156700-my-dangerous-life.json](./156700-my-dangerous-life.json) |
 | My Dark Eden | 325372 | [325372-my-dark-eden.json](./325372-my-dark-eden.json) |
 | My Darkest Moment | 188312 | [188312-my-darkest-moment.json](./188312-my-darkest-moment.json) |
+| My Darkest Witch | 226038 | [226038-my-darkest-witch.json](./226038-my-darkest-witch.json) |
 | My Dating Agency | 307910 | [307910-my-dating-agency.json](./307910-my-dating-agency.json) |
 | My Daughter In Family Ai | 322996 | [322996-my-daughter-in-family-ai.json](./322996-my-daughter-in-family-ai.json) |
 | My Daughter is a Cultist! SE | 273680 | [273680-my-daughter-is-a-cultist-se.json](./273680-my-daughter-is-a-cultist-se.json) |
