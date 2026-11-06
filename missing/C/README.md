@@ -19240,6 +19240,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubey vs. the Universe | 244370 | [244370-cubey-vs-the-universe.json](./244370-cubey-vs-the-universe.json) |
 | Cubey: Blockbyte | 361383 | [361383-cubey-blockbyte.json](./361383-cubey-blockbyte.json) |
 | Cubey: Hexfall | 379315 | [379315-cubey-hexfall.json](./379315-cubey-hexfall.json) |
+| Cubey's Adventures Classic | 200805 | [200805-cubeys-adventures-classic.json](./200805-cubeys-adventures-classic.json) |
+| Cubey's Adventures Rewritten | 200808 | [200808-cubeys-adventures-rewritten.json](./200808-cubeys-adventures-rewritten.json) |
 | CubeyCollect | 387741 | [387741-cubeycollect.json](./387741-cubeycollect.json) |
 | CubeZ | 17658 | [17658-cubez.json](./17658-cubez.json) |
 | CUBG: Car unknown battlegrounds | 120994 | [120994-cubg-car-unknown-battlegrounds.json](./120994-cubg-car-unknown-battlegrounds.json) |
@@ -20616,6 +20618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybernetic Fault | 161369 | [161369-cybernetic-fault.json](./161369-cybernetic-fault.json) |
 | Cybernetic Hi-School | 73628 | [73628-cybernetic-hi-school.json](./73628-cybernetic-hi-school.json) |
 | Cybernetic Hi-School Part 2: Highway Buster | 70080 | [70080-cybernetic-hi-school-part-2-highway-buster.json](./70080-cybernetic-hi-school-part-2-highway-buster.json) |
+| Cybernetic Moon Horse 2071 | 200771 | [200771-cybernetic-moon-horse-2071.json](./200771-cybernetic-moon-horse-2071.json) |
 | Cybernetic Seduction: Season 1 | 384890 | [384890-cybernetic-seduction-season-1.json](./384890-cybernetic-seduction-season-1.json) |
 | Cybernetica: fallen city | 164253 | [164253-cybernetica-fallen-city.json](./164253-cybernetica-fallen-city.json) |
 | Cybernetica: Final | 190738 | [190738-cybernetica-final.json](./190738-cybernetica-final.json) |
