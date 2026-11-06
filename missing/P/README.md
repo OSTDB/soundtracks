@@ -7984,6 +7984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Game Maker Series: Angel's Blood | 225331 | [225331-pixel-game-maker-series-angels-blood.json](./225331-pixel-game-maker-series-angels-blood.json) |
 | Pixel Game Maker Series: Angel's Gear | 257714 | [257714-pixel-game-maker-series-angels-gear.json](./257714-pixel-game-maker-series-angels-gear.json) |
 | Pixel Game Maker Series: Cat and Castle | 288314 | [288314-pixel-game-maker-series-cat-and-castle.json](./288314-pixel-game-maker-series-cat-and-castle.json) |
+| Pixel Game Maker Series: Cat and Tower | 233868 | [233868-pixel-game-maker-series-cat-and-tower.json](./233868-pixel-game-maker-series-cat-and-tower.json) |
 | Pixel Game Maker Series: Chrotopia | 320460 | [320460-pixel-game-maker-series-chrotopia.json](./320460-pixel-game-maker-series-chrotopia.json) |
 | Pixel Game Maker Series: Clam Knight | 214686 | [214686-pixel-game-maker-series-clam-knight.json](./214686-pixel-game-maker-series-clam-knight.json) |
 | Pixel Game Maker Series: Giri Jump Extreme | 343554 | [343554-pixel-game-maker-series-giri-jump-extreme.json](./343554-pixel-game-maker-series-giri-jump-extreme.json) |
@@ -14602,6 +14603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Architect: Second Chances | 148519 | [148519-prison-architect-second-chances.json](./148519-prison-architect-second-chances.json) |
 | Prison Architect: Total Lockdown Bundle | 164789 | [164789-prison-architect-total-lockdown-bundle.json](./164789-prison-architect-total-lockdown-bundle.json) |
 | Prison Architect: Undead | 220790 | [220790-prison-architect-undead.json](./220790-prison-architect-undead.json) |
+| Prison Architect: Xbox 360 Edition | 233856 | [233856-prison-architect-xbox-360-edition.json](./233856-prison-architect-xbox-360-edition.json) |
 | Prison Architect: Xbox One Edition | 82430 | [82430-prison-architect-xbox-one-edition.json](./82430-prison-architect-xbox-one-edition.json) |
 | Prison Ball: Full Blown | 167214 | [167214-prison-ball-full-blown.json](./167214-prison-ball-full-blown.json) |
 | Prison Ball: Full Blown - Cheyenne Storm | 167221 | [167221-prison-ball-full-blown-cheyenne-storm.json](./167221-prison-ball-full-blown-cheyenne-storm.json) |
