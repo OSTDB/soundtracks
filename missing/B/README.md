@@ -948,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Name | 98000 | [98000-bad-name.json](./98000-bad-name.json) |
 | Bad Nerd | 360090 | [360090-bad-nerd.json](./360090-bad-nerd.json) |
 | Bad News Baseball | 9167 | [9167-bad-news-baseball.json](./9167-bad-news-baseball.json) |
+| Bad Night: First Incursion | 215470 | [215470-bad-night-first-incursion.json](./215470-bad-night-first-incursion.json) |
 | Bad North | 78550 | [78550-bad-north.json](./78550-bad-north.json) |
 | Bad North: Jotunn Edition | 302647 | [302647-bad-north-jotunn-edition.json](./302647-bad-north-jotunn-edition.json) |
 | Bad North: Jotunn Edition - Deluxe Edition | 124968 | [124968-bad-north-jotunn-edition-deluxe-edition.json](./124968-bad-north-jotunn-edition-deluxe-edition.json) |
@@ -3158,6 +3159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baspetball | 346584 | [346584-baspetball.json](./346584-baspetball.json) |
 | Bass Angler Championship | 220537 | [220537-bass-angler-championship.json](./220537-bass-angler-championship.json) |
 | Bass Avenger | 130845 | [130845-bass-avenger.json](./130845-bass-avenger.json) |
+| Bass Blasters | 215471 | [215471-bass-blasters.json](./215471-bass-blasters.json) |
 | Bass Cat: Learn to Read Music | 90382 | [90382-bass-cat-learn-to-read-music.json](./90382-bass-cat-learn-to-read-music.json) |
 | Bass Class | 145246 | [145246-bass-class.json](./145246-bass-class.json) |
 | Bass Defense | 309538 | [309538-bass-defense.json](./309538-bass-defense.json) |
@@ -4050,6 +4052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Support: Deluxe Edition | 256110 | [256110-battle-support-deluxe-edition.json](./256110-battle-support-deluxe-edition.json) |
 | Battle Support: Ultimate Edition | 256109 | [256109-battle-support-ultimate-edition.json](./256109-battle-support-ultimate-edition.json) |
 | Battle Supremacy | 26895 | [26895-battle-supremacy.json](./26895-battle-supremacy.json) |
+| Battle Survival in Space | 215472 | [215472-battle-survival-in-space.json](./215472-battle-survival-in-space.json) |
 | Battle Survive Hentai | 126399 | [126399-battle-survive-hentai.json](./126399-battle-survive-hentai.json) |
 | Battle Sweeper | 139250 | [139250-battle-sweeper.json](./139250-battle-sweeper.json) |
 | Battle Synth | 398126 | [398126-battle-synth.json](./398126-battle-synth.json) |
@@ -4819,6 +4822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beacon | 242575 | [242575-beacon.json](./242575-beacon.json) |
 | Beacon of Havoc | 283982 | [283982-beacon-of-havoc.json](./283982-beacon-of-havoc.json) |
 | Beacon of Hope | 346661 | [346661-beacon-of-hope.json](./346661-beacon-of-hope.json) |
+| Beacon of Neyda | 215473 | [215473-beacon-of-neyda.json](./215473-beacon-of-neyda.json) |
 | Beacon of the Bellrock | 283981 | [283981-beacon-of-the-bellrock.json](./283981-beacon-of-the-bellrock.json) |
 | Beacon Patrol | 245848 | [245848-beacon-patrol.json](./245848-beacon-patrol.json) |
 | Beacon Pines: Collector's Edition | 218692 | [218692-beacon-pines-collectors-edition.json](./218692-beacon-pines-collectors-edition.json) |
@@ -5774,6 +5778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bee & Flower | 41691 | [41691-bee-and-flower.json](./41691-bee-and-flower.json) |
 | Bee 52 | 48106 | [48106-bee-52.json](./48106-bee-52.json) |
 | Bee Careful! | 357674 | [357674-bee-careful.json](./357674-bee-careful.json) |
+| Bee Craft | 215474 | [215474-bee-craft.json](./215474-bee-craft.json) |
 | Bee Eliminator | 247066 | [247066-bee-eliminator.json](./247066-bee-eliminator.json) |
 | Bee Farming | 175281 | [175281-bee-farming.json](./175281-bee-farming.json) |
 | Bee Fighting | 247014 | [247014-bee-fighting.json](./247014-bee-fighting.json) |
@@ -13668,6 +13673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Out Blitz | 206468 | [206468-bounce-out-blitz.json](./206468-bounce-out-blitz.json) |
 | Bounce Paradise | 225418 | [225418-bounce-paradise.json](./225418-bounce-paradise.json) |
 | Bounce Quest | 357694 | [357694-bounce-quest.json](./357694-bounce-quest.json) |
+| Bounce racing car | 215476 | [215476-bounce-racing-car.json](./215476-bounce-racing-car.json) |
 | Bounce Rescue! | 82327 | [82327-bounce-rescue.json](./82327-bounce-rescue.json) |
 | Bounce Restart | 177203 | [177203-bounce-restart.json](./177203-bounce-restart.json) |
 | Bounce Shot | 262460 | [262460-bounce-shot.json](./262460-bounce-shot.json) |
@@ -13952,6 +13958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling Fever: Value Edition | 336438 | [336438-bowling-fever-value-edition.json](./336438-bowling-fever-value-edition.json) |
 | Bowling Game 3D | 88584 | [88584-bowling-game-3d.json](./88584-bowling-game-3d.json) |
 | Bowling Game 3D HD | 103131 | [103131-bowling-game-3d-hd.json](./103131-bowling-game-3d-hd.json) |
+| Bowling Hills | 215475 | [215475-bowling-hills.json](./215475-bowling-hills.json) |
 | Bowling in a Skate Park | 309002 | [309002-bowling-in-a-skate-park.json](./309002-bowling-in-a-skate-park.json) |
 | Bowling is a Fun Game | 134333 | [134333-bowling-is-a-fun-game.json](./134333-bowling-is-a-fun-game.json) |
 | Bowling Islands | 234616 | [234616-bowling-islands.json](./234616-bowling-islands.json) |
@@ -14998,6 +15005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Time! | 29813 | [29813-break-time.json](./29813-break-time.json) |
 | Break Ultimate | 241614 | [241614-break-ultimate.json](./241614-break-ultimate.json) |
 | Break Up | 245545 | [245545-break-up.json](./245545-break-up.json) |
+| Break Up! and Find Love | 215429 | [215429-break-up-and-find-love.json](./215429-break-up-and-find-love.json) |
 | Break Wall 8bit | 97170 | [97170-break-wall-8bit.json](./97170-break-wall-8bit.json) |
 | Break Wolf | 320239 | [320239-break-wolf.json](./320239-break-wolf.json) |
 | Break_In | 35527 | [35527-break-in.json](./35527-break-in.json) |
