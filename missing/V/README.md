@@ -2352,6 +2352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vintage Records from Hell | 202616 | [202616-vintage-records-from-hell.json](./202616-vintage-records-from-hell.json) |
 | Vintage VR | 32749 | [32749-vintage-vr.json](./32749-vintage-vr.json) |
 | Vintergard | 354654 | [354654-vintergard.json](./354654-vintergard.json) |
+| Vinterget | 244562 | [244562-vinterget.json](./244562-vinterget.json) |
 | Vinterkyla: Shattered Realms | 349052 | [349052-vinterkyla-shattered-realms.json](./349052-vinterkyla-shattered-realms.json) |
 | Vinyl | 35299 | [35299-vinyl.json](./35299-vinyl.json) |
 | Vinyl Freak: Unsorted | 419996 | [419996-vinyl-freak-unsorted.json](./419996-vinyl-freak-unsorted.json) |
