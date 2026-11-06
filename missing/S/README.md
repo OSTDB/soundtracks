@@ -1298,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Brothers | 328185 | [328185-samurai-brothers.json](./328185-samurai-brothers.json) |
 | Samurai Cat | 150440 | [150440-samurai-cat.json](./150440-samurai-cat.json) |
 | Samurai Cats | 131363 | [131363-samurai-cats.json](./131363-samurai-cats.json) |
+| Samurai Challenge | 195748 | [195748-samurai-challenge.json](./195748-samurai-challenge.json) |
 | Samurai Champloo: Sidetracked | 19625 | [19625-samurai-champloo-sidetracked.json](./19625-samurai-champloo-sidetracked.json) |
 | Samurai Chess | 149571 | [149571-samurai-chess.json](./149571-samurai-chess.json) |
 | Samurai Conqueror | 374830 | [374830-samurai-conqueror.json](./374830-samurai-conqueror.json) |
@@ -9099,6 +9100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot! | 263409 | [263409-shoot.json](./263409-shoot.json) |
 | Shoot! & Ahhhhh | 385816 | [385816-shoot-and-ahhhhh.json](./385816-shoot-and-ahhhhh.json) |
 | Shoot! VR | 230948 | [230948-shoot-vr.json](./230948-shoot-vr.json) |
+| Shoot. Kill. Repeat | 195832 | [195832-shoot-kill-repeat.json](./195832-shoot-kill-repeat.json) |
 | Shoot. Push. Repeat. | 157081 | [157081-shoot-push-repeat.json](./157081-shoot-push-repeat.json) |
 | Shoot'n'Scroll 3D | 109875 | [109875-shootnscroll-3d.json](./109875-shootnscroll-3d.json) |
 | Shoot'n'Shell | 339306 | [339306-shootnshell.json](./339306-shootnshell.json) |
@@ -15152,6 +15154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniks | 121518 | [121518-sniks.json](./121518-sniks.json) |
 | Snip It! | 292247 | [292247-snip-it.json](./292247-snip-it.json) |
 | Snipe Hunt | 198313 | [198313-snipe-hunt.json](./198313-snipe-hunt.json) |
+| Sniper | 195845 | [195845-sniper.json](./195845-sniper.json) |
 | Sniper | 287559 | [287559-sniper.json](./287559-sniper.json) |
 | Sniper 3D | 311780 | [311780-sniper-3d.json](./311780-sniper-3d.json) |
 | Sniper 3D: Fun FPS Shooting | 87378 | [87378-sniper-3d-fun-fps-shooting.json](./87378-sniper-3d-fun-fps-shooting.json) |
@@ -20947,6 +20950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectrum Valley | 184132 | [184132-spectrum-valley.json](./184132-spectrum-valley.json) |
 | Spectrum VR | 151381 | [151381-spectrum-vr.json](./151381-spectrum-vr.json) |
 | Spectrum: First Light | 35827 | [35827-spectrum-first-light.json](./35827-spectrum-first-light.json) |
+| SpectrumGames | 195813 | [195813-spectrumgames.json](./195813-spectrumgames.json) |
 | SpectrumTap | 41501 | [41501-spectrumtap.json](./41501-spectrumtap.json) |
 | Speculum Mortis | 69531 | [69531-speculum-mortis.json](./69531-speculum-mortis.json) |
 | Speculum Mortis: Regret | 159222 | [159222-speculum-mortis-regret.json](./159222-speculum-mortis-regret.json) |
@@ -23310,6 +23314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Jump | 106377 | [106377-square-jump.json](./106377-square-jump.json) |
 | Square Jump | 340175 | [340175-square-jump.json](./340175-square-jump.json) |
 | Square Keeper | 201481 | [201481-square-keeper.json](./201481-square-keeper.json) |
+| Square Knight | 195819 | [195819-square-knight.json](./195819-square-knight.json) |
 | Square Life | 233367 | [233367-square-life.json](./233367-square-life.json) |
 | Square Logic | 269206 | [269206-square-logic.json](./269206-square-logic.json) |
 | Square Love | 359554 | [359554-square-love.json](./359554-square-love.json) |
@@ -35800,6 +35805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symbiotic Love | 159361 | [159361-symbiotic-love.json](./159361-symbiotic-love.json) |
 | Symble | 324850 | [324850-symble.json](./324850-symble.json) |
 | Symbol | 229930 | [229930-symbol.json](./229930-symbol.json) |
+| Symbol Games Horror Bundle | 195812 | [195812-symbol-games-horror-bundle.json](./195812-symbol-games-horror-bundle.json) |
 | Symbol Link | 264219 | [264219-symbol-link.json](./264219-symbol-link.json) |
 | Symbol of Sacrifice | 288710 | [288710-symbol-of-sacrifice.json](./288710-symbol-of-sacrifice.json) |
 | Symbol Sudoku | 221101 | [221101-symbol-sudoku.json](./221101-symbol-sudoku.json) |
