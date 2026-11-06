@@ -733,6 +733,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xevious 3D | 23394 | [23394-xevious-3d.json](./23394-xevious-3d.json) |
 | Xevious 3D/G | 20133 | [20133-xevious-3d-g.json](./20133-xevious-3d-g.json) |
 | Xevious 3D/G+ | 220149 | [220149-xevious-3d-g.json](./220149-xevious-3d-g.json) |
+| Xevious Arrangement | 229441 | [229441-xevious-arrangement.json](./229441-xevious-arrangement.json) |
+| Xevious Resurrection | 229454 | [229454-xevious-resurrection.json](./229454-xevious-resurrection.json) |
 | Xevious: Fardraut Densetsu | 38074 | [38074-xevious-fardraut-densetsu.json](./38074-xevious-fardraut-densetsu.json) |
 | Xevious: Fardraut Saga | 68878 | [68878-xevious-fardraut-saga.json](./68878-xevious-fardraut-saga.json) |
 | Xevious: Gamp no Nazo wa Subete Toketa!? | 287669 | [287669-xevious-gamp-no-nazo-wa-subete-toketa.json](./287669-xevious-gamp-no-nazo-wa-subete-toketa.json) |
