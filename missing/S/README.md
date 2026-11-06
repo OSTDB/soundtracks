@@ -14723,6 +14723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snack Machine Change | 356576 | [356576-snack-machine-change.json](./356576-snack-machine-change.json) |
 | Snack Pack 3: Trick or Treat | 275317 | [275317-snack-pack-3-trick-or-treat.json](./275317-snack-pack-3-trick-or-treat.json) |
 | Snack Scoffer | 198515 | [198515-snack-scoffer.json](./198515-snack-scoffer.json) |
+| Snack Stall | 200789 | [200789-snack-stall.json](./200789-snack-stall.json) |
 | Snack Time for Caterpillar | 239622 | [239622-snack-time-for-caterpillar.json](./239622-snack-time-for-caterpillar.json) |
 | Snack World: Reloaded | 397927 | [397927-snack-world-reloaded.json](./397927-snack-world-reloaded.json) |
 | Snack World: The Dungeon Crawl - Gold | 28830 | [28830-snack-world-the-dungeon-crawl-gold.json](./28830-snack-world-the-dungeon-crawl-gold.json) |
@@ -33181,6 +33182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Supermarket | 124547 | [124547-super-supermarket.json](./124547-super-supermarket.json) |
 | Super Surf Bros | 128609 | [128609-super-surf-bros.json](./128609-super-surf-bros.json) |
 | Super Sus | 198201 | [198201-super-sus.json](./198201-super-sus.json) |
+| Super Sushi Pinball | 200781 | [200781-super-sushi-pinball.json](./200781-super-sushi-pinball.json) |
 | Super Sushi Roll | 219575 | [219575-super-sushi-roll.json](./219575-super-sushi-roll.json) |
 | Super Sushi Smackdown | 257787 | [257787-super-sushi-smackdown.json](./257787-super-sushi-smackdown.json) |
 | Super Swap! | 54414 | [54414-super-swap.json](./54414-super-swap.json) |
@@ -34002,6 +34004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surge the Rabbit | 336999 | [336999-surge-the-rabbit.json](./336999-surge-the-rabbit.json) |
 | Surge Unlimited | 417669 | [417669-surge-unlimited.json](./417669-surge-unlimited.json) |
 | Surgeball | 148167 | [148167-surgeball.json](./148167-surgeball.json) |
+| Surgeon Life: A Hospital Simulator | 200813 | [200813-surgeon-life-a-hospital-simulator.json](./200813-surgeon-life-a-hospital-simulator.json) |
 | Surgeon Simulator 2 | 127355 | [127355-surgeon-simulator-2.json](./127355-surgeon-simulator-2.json) |
 | Surgeon Simulator 2 Launch Bundle | 166689 | [166689-surgeon-simulator-2-launch-bundle.json](./166689-surgeon-simulator-2-launch-bundle.json) |
 | Surgeon Simulator 2: Deluxe Edition | 227355 | [227355-surgeon-simulator-2-deluxe-edition.json](./227355-surgeon-simulator-2-deluxe-edition.json) |
