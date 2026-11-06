@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yesterday | 81188 | [81188-yesterday.json](./81188-yesterday.json) |
 | Yesterday the D-Gate | 165497 | [165497-yesterday-the-d-gate.json](./165497-yesterday-the-d-gate.json) |
 | Yesterday, the World Ended | 184052 | [184052-yesterday-the-world-ended.json](./184052-yesterday-the-world-ended.json) |
+| Yesterday! | 200231 | [200231-yesterday.json](./200231-yesterday.json) |
 | Yesterday's Crossroads | 344456 | [344456-yesterdays-crossroads.json](./344456-yesterdays-crossroads.json) |
 | Yesterday's Meat | 387021 | [387021-yesterdays-meat.json](./387021-yesterdays-meat.json) |
 | Yesterday's News | 302415 | [302415-yesterdays-news.json](./302415-yesterdays-news.json) |
