@@ -2724,6 +2724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carious Weltling II | 111553 | [111553-carious-weltling-ii.json](./111553-carious-weltling-ii.json) |
 | Carist | 407896 | [407896-carist.json](./407896-carist.json) |
 | CarJacker: Hotwired and Gone! | 66365 | [66365-carjacker-hotwired-and-gone.json](./66365-carjacker-hotwired-and-gone.json) |
+| CarKour | 237168 | [237168-carkour.json](./237168-carkour.json) |
 | Carl | 176233 | [176233-carl.json](./176233-carl.json) |
 | Carl Currency, Expert Exchanger | 229345 | [229345-carl-currency-expert-exchanger.json](./229345-carl-currency-expert-exchanger.json) |
 | Carl jii-san no Sora Tobu Ie | 222455 | [222455-carl-jii-san-no-sora-tobu-ie.json](./222455-carl-jii-san-no-sora-tobu-ie.json) |
@@ -14918,6 +14919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Monsters 2 Enclaves Dawn | 195264 | [195264-cosmic-monsters-2-enclaves-dawn.json](./195264-cosmic-monsters-2-enclaves-dawn.json) |
 | Cosmic Osmo and the Worlds Beyond the Mackerel | 16200 | [16200-cosmic-osmo-and-the-worlds-beyond-the-mackerel.json](./16200-cosmic-osmo-and-the-worlds-beyond-the-mackerel.json) |
 | Cosmic Outpost | 303738 | [303738-cosmic-outpost.json](./303738-cosmic-outpost.json) |
+| Cosmic Overdrive | 237160 | [237160-cosmic-overdrive.json](./237160-cosmic-overdrive.json) |
 | Cosmic Panic | 267726 | [267726-cosmic-panic.json](./267726-cosmic-panic.json) |
 | Cosmic Paradox: Noire | 290621 | [290621-cosmic-paradox-noire.json](./290621-cosmic-paradox-noire.json) |
 | Cosmic Parkour: Infinite Journey | 305672 | [305672-cosmic-parkour-infinite-journey.json](./305672-cosmic-parkour-infinite-journey.json) |
@@ -15097,6 +15099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmos Quest: The Origin | 395857 | [395857-cosmos-quest-the-origin.json](./395857-cosmos-quest-the-origin.json) |
 | Cosmos Remake | 179032 | [179032-cosmos-remake.json](./179032-cosmos-remake.json) |
 | Cosmos Rings | 197752 | [197752-cosmos-rings.json](./197752-cosmos-rings.json) |
+| Cosmos Survivors | 237164 | [237164-cosmos-survivors.json](./237164-cosmos-survivors.json) |
 | Cosmos X2 | 85054 | [85054-cosmos-x2.json](./85054-cosmos-x2.json) |
 | Cosmos: Stella Returns | 263981 | [263981-cosmos-stella-returns.json](./263981-cosmos-stella-returns.json) |
 | Cosmosa | 117548 | [117548-cosmosa.json](./117548-cosmosa.json) |
