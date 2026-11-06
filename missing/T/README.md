@@ -4380,6 +4380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Termite | 377177 | [377177-termite.json](./377177-termite.json) |
 | Termite Man | 327380 | [327380-termite-man.json](./327380-termite-man.json) |
 | Termo99 | 417342 | [417342-termo99.json](./417342-termo99.json) |
+| TermoVerse Chronicles | 228827 | [228827-termoverse-chronicles.json](./228827-termoverse-chronicles.json) |
 | Terms and Conditions | 128815 | [128815-terms-and-conditions.json](./128815-terms-and-conditions.json) |
 | Ternion | 236757 | [236757-ternion.json](./236757-ternion.json) |
 | Ternox Games 4-in-1 Bundle | 362379 | [362379-ternox-games-4-in-1-bundle.json](./362379-ternox-games-4-in-1-bundle.json) |
@@ -5494,6 +5495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Capitano Navarro | 51512 | [51512-the-adventures-of-capitano-navarro.json](./51512-the-adventures-of-capitano-navarro.json) |
 | The Adventures of Captain Becky | 311710 | [311710-the-adventures-of-captain-becky.json](./311710-the-adventures-of-captain-becky.json) |
 | The Adventures of Captain Potato | 107396 | [107396-the-adventures-of-captain-potato.json](./107396-the-adventures-of-captain-potato.json) |
+| The Adventures of Catto Boi | 228831 | [228831-the-adventures-of-catto-boi.json](./228831-the-adventures-of-catto-boi.json) |
 | The Adventures of Catto Boi | 306897 | [306897-the-adventures-of-catto-boi.json](./306897-the-adventures-of-catto-boi.json) |
 | The Adventures of Clive McMulligan on Planet Zeta Four | 94774 | [94774-the-adventures-of-clive-mcmulligan-on-planet-zeta-four.json](./94774-the-adventures-of-clive-mcmulligan-on-planet-zeta-four.json) |
 | The Adventures of Crackhead Jack: Overdose Edition | 141156 | [141156-the-adventures-of-crackhead-jack-overdose-edition.json](./141156-the-adventures-of-crackhead-jack-overdose-edition.json) |
@@ -9796,6 +9798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Life / Yahtzee / Payday | 137695 | [137695-the-game-of-life-yahtzee-payday.json](./137695-the-game-of-life-yahtzee-payday.json) |
 | The Game of Life 2: Age of Giants World | 171591 | [171591-the-game-of-life-2-age-of-giants-world.json](./171591-the-game-of-life-2-age-of-giants-world.json) |
 | The Game of Life 2: Complete Collection | 238044 | [238044-the-game-of-life-2-complete-collection.json](./238044-the-game-of-life-2-complete-collection.json) |
+| The Game of Life 2: Deluxe Life Bundle | 228848 | [228848-the-game-of-life-2-deluxe-life-bundle.json](./228848-the-game-of-life-2-deluxe-life-bundle.json) |
 | The Game of Life 2: El Dorado | 256002 | [256002-the-game-of-life-2-el-dorado.json](./256002-the-game-of-life-2-el-dorado.json) |
 | The Game of Life 2: Fairytale Kingdom World | 171608 | [171608-the-game-of-life-2-fairytale-kingdom-world.json](./171608-the-game-of-life-2-fairytale-kingdom-world.json) |
 | The Game of Life 2: Frozen Lands World | 171516 | [171516-the-game-of-life-2-frozen-lands-world.json](./171516-the-game-of-life-2-frozen-lands-world.json) |
@@ -27294,6 +27297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tractor Farming Simulator 3D | 300844 | [300844-tractor-farming-simulator-3d.json](./300844-tractor-farming-simulator-3d.json) |
 | Tractor Hero | 247435 | [247435-tractor-hero.json](./247435-tractor-hero.json) |
 | Tractor Journey | 223154 | [223154-tractor-journey.json](./223154-tractor-journey.json) |
+| Tractor Journey: Nitro | 228864 | [228864-tractor-journey-nitro.json](./228864-tractor-journey-nitro.json) |
 | Tractor Racers | 392288 | [392288-tractor-racers.json](./392288-tractor-racers.json) |
 | Tractor Racing ( 3D Heavy Monster Truck Race Game on Dirt Track ) | 102577 | [102577-tractor-racing-3d-heavy-monster-truck-race-game-on-dirt-track.json](./102577-tractor-racing-3d-heavy-monster-truck-race-game-on-dirt-track.json) |
 | Tractor Racing Simulation | 142748 | [142748-tractor-racing-simulation.json](./142748-tractor-racing-simulation.json) |
