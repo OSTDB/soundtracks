@@ -3402,6 +3402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Nicolas Cage | 252477 | [252477-dead-by-daylight-nicolas-cage.json](./252477-dead-by-daylight-nicolas-cage.json) |
 | Dead by Daylight: Of Flesh and Mud Chapter | 76222 | [76222-dead-by-daylight-of-flesh-and-mud-chapter.json](./76222-dead-by-daylight-of-flesh-and-mud-chapter.json) |
 | Dead by Daylight: Old Wounds Pack | 283185 | [283185-dead-by-daylight-old-wounds-pack.json](./283185-dead-by-daylight-old-wounds-pack.json) |
+| Dead by Daylight: Portrait of a Murder Chapter | 193520 | [193520-dead-by-daylight-portrait-of-a-murder-chapter.json](./193520-dead-by-daylight-portrait-of-a-murder-chapter.json) |
 | Dead by Daylight: Resident Evil - Carlos Oliveira | 358420 | [358420-dead-by-daylight-resident-evil-carlos-oliveira.json](./358420-dead-by-daylight-resident-evil-carlos-oliveira.json) |
 | Dead by Daylight: Resident Evil - Chris Redfield | 358419 | [358419-dead-by-daylight-resident-evil-chris-redfield.json](./358419-dead-by-daylight-resident-evil-chris-redfield.json) |
 | Dead by Daylight: Resident Evil - Claire Redfield | 358416 | [358416-dead-by-daylight-resident-evil-claire-redfield.json](./358416-dead-by-daylight-resident-evil-claire-redfield.json) |
