@@ -9283,6 +9283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge ETO | 274553 | [274553-merge-eto.json](./274553-merge-eto.json) |
 | Merge Fellas | 281409 | [281409-merge-fellas.json](./281409-merge-fellas.json) |
 | Merge Fighting: Hit Fight Game | 216039 | [216039-merge-fighting-hit-fight-game.json](./216039-merge-fighting-hit-fight-game.json) |
+| Merge Flower | 214828 | [214828-merge-flower.json](./214828-merge-flower.json) |
 | Merge Friends | 299405 | [299405-merge-friends.json](./299405-merge-friends.json) |
 | Merge Games Adventure Bundle | 275044 | [275044-merge-games-adventure-bundle.json](./275044-merge-games-adventure-bundle.json) |
 | Merge Games Adventure Bundle 2 | 274897 | [274897-merge-games-adventure-bundle-2.json](./274897-merge-games-adventure-bundle-2.json) |
@@ -10937,6 +10938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microtrip | 344909 | [344909-microtrip.json](./344909-microtrip.json) |
 | Microvania | 332744 | [332744-microvania.json](./332744-microvania.json) |
 | MicroVolts Surge | 16263 | [16263-microvolts-surge.json](./16263-microvolts-surge.json) |
+| Microvolts: Recharged | 214856 | [214856-microvolts-recharged.json](./214856-microvolts-recharged.json) |
 | Microwasp Seekers | 189899 | [189899-microwasp-seekers.json](./189899-microwasp-seekers.json) |
 | Microwave | 282957 | [282957-microwave.json](./282957-microwave.json) |
 | Microwave Simulator | 390366 | [390366-microwave-simulator.json](./390366-microwave-simulator.json) |
@@ -12960,6 +12962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniLife: Tournament | 257960 | [257960-minilife-tournament.json](./257960-minilife-tournament.json) |
 | Minim | 178877 | [178877-minim.json](./178877-minim.json) |
 | Minima | 183358 | [183358-minima.json](./183358-minima.json) |
+| Minima | 214861 | [214861-minima.json](./214861-minima.json) |
 | Minima | 293652 | [293652-minima.json](./293652-minima.json) |
 | Minima | 380160 | [380160-minima.json](./380160-minima.json) |
 | Minimal | 33392 | [33392-minimal.json](./33392-minimal.json) |
@@ -18366,6 +18369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Crab | 57146 | [57146-mr-crab.json](./57146-mr-crab.json) |
 | Mr Donald | 348006 | [348006-mr-donald.json](./348006-mr-donald.json) |
 | Mr Fish's Awful Adventure | 181174 | [181174-mr-fishs-awful-adventure.json](./181174-mr-fishs-awful-adventure.json) |
+| Mr Flap | 214817 | [214817-mr-flap.json](./214817-mr-flap.json) |
 | Mr Flippers Out For Vengeance | 278668 | [278668-mr-flippers-out-for-vengeance.json](./278668-mr-flippers-out-for-vengeance.json) |
 | Mr Future Ninja! | 110213 | [110213-mr-future-ninja.json](./110213-mr-future-ninja.json) |
 | Mr Giggle | 138201 | [138201-mr-giggle.json](./138201-mr-giggle.json) |
