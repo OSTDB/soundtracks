@@ -1253,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qūlíngshī | 128957 | [128957-qulingshi.json](./128957-qulingshi.json) |
 | Qullusrent3 | 307758 | [307758-qullusrent3.json](./307758-qullusrent3.json) |
 | Qumino | 381924 | [381924-qumino.json](./381924-qumino.json) |
+| Qump Jump | 218188 | [218188-qump-jump.json](./218188-qump-jump.json) |
 | Quo | 202014 | [202014-quo.json](./202014-quo.json) |
 | Quo | 206237 | [206237-quo.json](./206237-quo.json) |
 | Quo Vadis | 25828 | [25828-quo-vadis.json](./25828-quo-vadis.json) |
