@@ -2745,6 +2745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reactivated | 117378 | [117378-reactivated.json](./117378-reactivated.json) |
 | Reactoid | 44336 | [44336-reactoid.json](./44336-reactoid.json) |
 | Reactor | 18545 | [18545-reactor.json](./18545-reactor.json) |
+| Reactor | 202884 | [202884-reactor.json](./202884-reactor.json) |
 | Reactor 09 | 123596 | [123596-reactor-09.json](./123596-reactor-09.json) |
 | Reactor Critical | 406651 | [406651-reactor-critical.json](./406651-reactor-critical.json) |
 | Reactor Tech 2 | 163975 | [163975-reactor-tech-2.json](./163975-reactor-tech-2.json) |
@@ -4821,6 +4822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relicborn | 197212 | [197212-relicborn.json](./197212-relicborn.json) |
 | Relicfall | 415078 | [415078-relicfall.json](./415078-relicfall.json) |
 | RelicMerge | 130074 | [130074-relicmerge.json](./130074-relicmerge.json) |
+| Relics | 202896 | [202896-relics.json](./202896-relics.json) |
 | Relics 2: The Crusader's Tomb | 195236 | [195236-relics-2-the-crusaders-tomb.json](./195236-relics-2-the-crusaders-tomb.json) |
 | Relics of ancestors | 161334 | [161334-relics-of-ancestors.json](./161334-relics-of-ancestors.json) |
 | Relics of Aurelia | 322027 | [322027-relics-of-aurelia.json](./322027-relics-of-aurelia.json) |
@@ -11139,6 +11141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rosepine Hotel | 390991 | [390991-rosepine-hotel.json](./390991-rosepine-hotel.json) |
 | Roses and Gems | 34359 | [34359-roses-and-gems.json](./34359-roses-and-gems.json) |
 | Roses Shoot Red, Violets Shoot Blue | 334167 | [334167-roses-shoot-red-violets-shoot-blue.json](./334167-roses-shoot-red-violets-shoot-blue.json) |
+| Roses Will Rise | 202903 | [202903-roses-will-rise.json](./202903-roses-will-rise.json) |
 | Roses&Heart | 104262 | [104262-roses-and-heart.json](./104262-roses-and-heart.json) |
 | Rosetia: A First Contact Simulation | 211616 | [211616-rosetia-a-first-contact-simulation.json](./211616-rosetia-a-first-contact-simulation.json) |
 | Rosetta | 228013 | [228013-rosetta.json](./228013-rosetta.json) |
