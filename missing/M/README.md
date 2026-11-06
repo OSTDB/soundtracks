@@ -445,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Tower Tycoon | 107423 | [107423-mad-tower-tycoon.json](./107423-mad-tower-tycoon.json) |
 | Mad Trapper | 210845 | [210845-mad-trapper.json](./210845-mad-trapper.json) |
 | Mad Trax | 46442 | [46442-mad-trax.json](./46442-mad-trax.json) |
+| Mad Truck 2 | 207976 | [207976-mad-truck-2.json](./207976-mad-truck-2.json) |
 | Mad Truck Challenge | 252316 | [252316-mad-truck-challenge.json](./252316-mad-truck-challenge.json) |
 | Mad TV | 14719 | [14719-mad-tv.json](./14719-mad-tv.json) |
 | Mad TV 2 | 92915 | [92915-mad-tv-2.json](./92915-mad-tv-2.json) |
@@ -5922,6 +5923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -19394,6 +19396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muscle March | 15914 | [15914-muscle-march.json](./15914-muscle-march.json) |
 | Muscle Memory Corruption | 178972 | [178972-muscle-memory-corruption.json](./178972-muscle-memory-corruption.json) |
 | Muscle Ninja VR | 266475 | [266475-muscle-ninja-vr.json](./266475-muscle-ninja-vr.json) |
+| Muscle Princess 2 | 207991 | [207991-muscle-princess-2.json](./207991-muscle-princess-2.json) |
 | Muscle Princess 3 | 212820 | [212820-muscle-princess-3.json](./212820-muscle-princess-3.json) |
 | Muscle Ranking GB2: Mezase! Muscle Champion | 228583 | [228583-muscle-ranking-gb2-mezase-muscle-champion.json](./228583-muscle-ranking-gb2-mezase-muscle-champion.json) |
 | Muscle Ranking Vol. 3: Saikyou no Challenger Tanjou! | 209614 | [209614-muscle-ranking-vol-3-saikyou-no-challenger-tanjou.json](./209614-muscle-ranking-vol-3-saikyou-no-challenger-tanjou.json) |
