@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-In-Time | 242407 | [242407-pac-in-time.json](./242407-pac-in-time.json) |
 | Pac-It | 282365 | [282365-pac-it.json](./282365-pac-it.json) |
 | Pac-Jr. | 284388 | [284388-pac-jr.json](./284388-pac-jr.json) |
+| Pac-Junior | 218233 | [218233-pac-junior.json](./218233-pac-junior.json) |
 | Pac-Kong | 40581 | [40581-pac-kong.json](./40581-pac-kong.json) |
 | Pac-Laby 3D | 266250 | [266250-pac-laby-3d.json](./266250-pac-laby-3d.json) |
 | Pac-Land | 218351 | [218351-pac-land.json](./218351-pac-land.json) |
@@ -11487,6 +11488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Wilting Y | 213977 | [213977-pokemon-wilting-y.json](./213977-pokemon-wilting-y.json) |
 | Pokémon Winds | 393105 | [393105-pokemon-winds.json](./393105-pokemon-winds.json) |
 | Pokémon XD: Gale of Darkness | 2724 | [2724-pokemon-xd-gale-of-darkness.json](./2724-pokemon-xd-gale-of-darkness.json) |
+| Pokémon Xenoverse: Per Aspera Ad Astra | 218201 | [218201-pokemon-xenoverse-per-aspera-ad-astra.json](./218201-pokemon-xenoverse-per-aspera-ad-astra.json) |
 | Pokémon Yellow Legacy | 300522 | [300522-pokemon-yellow-legacy.json](./300522-pokemon-yellow-legacy.json) |
 | Pokémon Yellow: Cramorant Edition | 251360 | [251360-pokemon-yellow-cramorant-edition.json](./251360-pokemon-yellow-cramorant-edition.json) |
 | Pokémon Z | 314724 | [314724-pokemon-z.json](./314724-pokemon-z.json) |
@@ -17940,6 +17942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Pop Fever DX | 251499 | [251499-puyo-pop-fever-dx.json](./251499-puyo-pop-fever-dx.json) |
 | Puyo Puyo | 146876 | [146876-puyo-puyo.json](./146876-puyo-puyo.json) |
 | Puyo Puyo | 198647 | [198647-puyo-puyo.json](./198647-puyo-puyo.json) |
+| Puyo Puyo | 218197 | [218197-puyo-puyo.json](./218197-puyo-puyo.json) |
 | Puyo Puyo | 249773 | [249773-puyo-puyo.json](./249773-puyo-puyo.json) |
 | Puyo Puyo 2 | 84798 | [84798-puyo-puyo-2.json](./84798-puyo-puyo-2.json) |
 | Puyo Puyo 7 | 50727 | [50727-puyo-puyo-7.json](./50727-puyo-puyo-7.json) |
