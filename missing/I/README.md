@@ -4420,6 +4420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insane Orb | 234394 | [234394-insane-orb.json](./234394-insane-orb.json) |
 | Insane Road | 37404 | [37404-insane-road.json](./37404-insane-road.json) |
 | Insane Rules | 284615 | [284615-insane-rules.json](./284615-insane-rules.json) |
+| Insane Town | 210971 | [210971-insane-town.json](./210971-insane-town.json) |
 | Insane West | 117564 | [117564-insane-west.json](./117564-insane-west.json) |
 | Insanely Twisted Shadow Planet | 6168 | [6168-insanely-twisted-shadow-planet.json](./6168-insanely-twisted-shadow-planet.json) |
 | Insania | 132738 | [132738-insania.json](./132738-insania.json) |
