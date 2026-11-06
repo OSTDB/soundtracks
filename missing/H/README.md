@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack 7 | 306868 | [306868-hack-7.json](./306868-hack-7.json) |
 | Hack 8 | 367689 | [367689-hack-8.json](./367689-hack-8.json) |
 | Hack and Climb | 332284 | [332284-hack-and-climb.json](./332284-hack-and-climb.json) |
+| Hack and Shoot Heroes | 231164 | [231164-hack-and-shoot-heroes.json](./231164-hack-and-shoot-heroes.json) |
 | Hack and Slash Fury | 329207 | [329207-hack-and-slash-fury.json](./329207-hack-and-slash-fury.json) |
 | Hack And Slash Fury: Battalion Armor | 334515 | [334515-hack-and-slash-fury-battalion-armor.json](./334515-hack-and-slash-fury-battalion-armor.json) |
 | Hack And Slash Fury: Car Armor | 334514 | [334514-hack-and-slash-fury-car-armor.json](./334514-hack-and-slash-fury-car-armor.json) |
@@ -6575,6 +6576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexplore | 8310 | [8310-hexplore.json](./8310-hexplore.json) |
 | HeXpunk | 343246 | [343246-hexpunk.json](./343246-hexpunk.json) |
 | Hexrite | 271020 | [271020-hexrite.json](./271020-hexrite.json) |
+| Hexrogue | 231168 | [231168-hexrogue.json](./231168-hexrogue.json) |
 | Hexroll | 337779 | [337779-hexroll.json](./337779-hexroll.json) |
 | HexRoller | 253015 | [253015-hexroller.json](./253015-hexroller.json) |
 | Hexseeker | 289285 | [289285-hexseeker.json](./289285-hexseeker.json) |
@@ -7654,6 +7656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Roads Racer | 390499 | [390499-highway-roads-racer.json](./390499-highway-roads-racer.json) |
 | Highway Runners | 200269 | [200269-highway-runners.json](./200269-highway-runners.json) |
 | Highway Sniper Shooter | 107545 | [107545-highway-sniper-shooter.json](./107545-highway-sniper-shooter.json) |
+| Highway Speeder | 231167 | [231167-highway-speeder.json](./231167-highway-speeder.json) |
 | Highway Terror | 322600 | [322600-highway-terror.json](./322600-highway-terror.json) |
 | Highway to Heal | 344445 | [344445-highway-to-heal.json](./344445-highway-to-heal.json) |
 | Highway to Hell-th | 413748 | [413748-highway-to-hell-th.json](./413748-highway-to-hell-th.json) |
@@ -7806,6 +7809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hike | 147703 | [147703-hike.json](./147703-hike.json) |
 | Hike Adventures | 287164 | [287164-hike-adventures.json](./287164-hike-adventures.json) |
 | Hike Haven | 333735 | [333735-hike-haven.json](./333735-hike-haven.json) |
+| Hike Isle | 231166 | [231166-hike-isle.json](./231166-hike-isle.json) |
 | Hike Trip | 232444 | [232444-hike-trip.json](./232444-hike-trip.json) |
 | Hike Valley | 231319 | [231319-hike-valley.json](./231319-hike-valley.json) |
 | Hikeback | 176492 | [176492-hikeback.json](./176492-hikeback.json) |
