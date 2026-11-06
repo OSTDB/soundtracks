@@ -691,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandersong | 23851 | [23851-wandersong.json](./23851-wandersong.json) |
 | Wandervania | 330483 | [330483-wandervania.json](./330483-wandervania.json) |
 | WanderVR | 220526 | [220526-wandervr.json](./220526-wandervr.json) |
+| Wanderzone | 202987 | [202987-wanderzone.json](./202987-wanderzone.json) |
 | Wandfall | 377247 | [377247-wandfall.json](./377247-wandfall.json) |
 | Wandness | 298158 | [298158-wandness.json](./298158-wandness.json) |
 | Wandrill | 348789 | [348789-wandrill.json](./348789-wandrill.json) |
@@ -4745,6 +4746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Killed the Streamer? | 260645 | [260645-who-killed-the-streamer.json](./260645-who-killed-the-streamer.json) |
 | Who Knows Where They're Going | 184053 | [184053-who-knows-where-theyre-going.json](./184053-who-knows-where-theyre-going.json) |
 | Who Let The Chickens Out? | 268820 | [268820-who-let-the-chickens-out.json](./268820-who-let-the-chickens-out.json) |
+| Who Let the Critters Out?! | 202989 | [202989-who-let-the-critters-out.json](./202989-who-let-the-critters-out.json) |
 | Who Let the Frog Out | 275508 | [275508-who-let-the-frog-out.json](./275508-who-let-the-frog-out.json) |
 | Who Made This | 338369 | [338369-who-made-this.json](./338369-who-made-this.json) |
 | Who Made this Art? Human or AI | 286652 | [286652-who-made-this-art-human-or-ai.json](./286652-who-made-this-art-human-or-ai.json) |
@@ -6394,6 +6396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witches & Woodlands | 275595 | [275595-witches-and-woodlands.json](./275595-witches-and-woodlands.json) |
 | Witches and Bandits and Swords (Oh My) | 147013 | [147013-witches-and-bandits-and-swords-oh-my.json](./147013-witches-and-bandits-and-swords-oh-my.json) |
 | Witches and Butchers | 226029 | [226029-witches-and-butchers.json](./226029-witches-and-butchers.json) |
+| Witches and Stitches | 202991 | [202991-witches-and-stitches.json](./202991-witches-and-stitches.json) |
 | Witches at Summer's End | 225518 | [225518-witches-at-summers-end.json](./225518-witches-at-summers-end.json) |
 | Witches Brew | 120574 | [120574-witches-brew.json](./120574-witches-brew.json) |
 | Witches Craft | 103956 | [103956-witches-craft.json](./103956-witches-craft.json) |
@@ -6538,6 +6541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Within the Threes | 184604 | [184604-within-the-threes.json](./184604-within-the-threes.json) |
 | Within the Unknown | 279090 | [279090-within-the-unknown.json](./279090-within-the-unknown.json) |
 | Within the Vault | 304518 | [304518-within-the-vault.json](./304518-within-the-vault.json) |
+| Within the Walls | 202992 | [202992-within-the-walls.json](./202992-within-the-walls.json) |
 | Within Whispers: The Fall | 61652 | [61652-within-whispers-the-fall.json](./61652-within-whispers-the-fall.json) |
 | Within Yourself | 273762 | [273762-within-yourself.json](./273762-within-yourself.json) |
 | Within: Hannah's Journey | 304011 | [304011-within-hannahs-journey.json](./304011-within-hannahs-journey.json) |
