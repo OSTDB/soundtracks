@@ -11090,6 +11090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Arcade Orchestra | 423241 | [423241-midnight-arcade-orchestra.json](./423241-midnight-arcade-orchestra.json) |
 | Midnight Arrow | 239725 | [239725-midnight-arrow.json](./239725-midnight-arrow.json) |
 | Midnight at Blackwood Manor | 370150 | [370150-midnight-at-blackwood-manor.json](./370150-midnight-at-blackwood-manor.json) |
+| Midnight at Forest | 193546 | [193546-midnight-at-forest.json](./193546-midnight-at-forest.json) |
 | Midnight at the Disco | 265325 | [265325-midnight-at-the-disco.json](./265325-midnight-at-the-disco.json) |
 | Midnight at the Red Light | 41948 | [41948-midnight-at-the-red-light.json](./41948-midnight-at-the-red-light.json) |
 | Midnight at the Red Light : An Investigation | 82601 | [82601-midnight-at-the-red-light-an-investigation.json](./82601-midnight-at-the-red-light-an-investigation.json) |
@@ -14575,6 +14576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modavuj Multiplayer Market Simulator | 392946 | [392946-modavuj-multiplayer-market-simulator.json](./392946-modavuj-multiplayer-market-simulator.json) |
 | Modavuj Platform | 369631 | [369631-modavuj-platform.json](./369631-modavuj-platform.json) |
 | Modavuj: Forest Camp | 413149 | [413149-modavuj-forest-camp.json](./413149-modavuj-forest-camp.json) |
+| ModBots | 193577 | [193577-modbots.json](./193577-modbots.json) |
 | Mode | 61659 | [61659-mode.json](./61659-mode.json) |
 | Model 3 Test Drive | 96057 | [96057-model-3-test-drive.json](./96057-model-3-test-drive.json) |
 | Model Academy | 84606 | [84606-model-academy.json](./84606-model-academy.json) |
