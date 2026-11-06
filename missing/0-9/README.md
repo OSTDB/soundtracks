@@ -750,6 +750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100% Orange Juice: Princess Pack | 223815 | [223815-100-orange-juice-princess-pack.json](./223815-100-orange-juice-princess-pack.json) |
 | 100% Orange Juice: Railway Runners Pack | 164474 | [164474-100-orange-juice-railway-runners-pack.json](./164474-100-orange-juice-railway-runners-pack.json) |
 | 100% Orange Juice: Sham & Sherry | 164477 | [164477-100-orange-juice-sham-and-sherry.json](./164477-100-orange-juice-sham-and-sherry.json) |
+| 100% Orange Juice: Shifu & Reika Character Pack | 201356 | [201356-100-orange-juice-shifu-and-reika-character-pack.json](./201356-100-orange-juice-shifu-and-reika-character-pack.json) |
 | 100% Orange Juice: Sweet Gods Pack | 263064 | [263064-100-orange-juice-sweet-gods-pack.json](./263064-100-orange-juice-sweet-gods-pack.json) |
 | 100% Orange Juice: Syura & Nanako | 164473 | [164473-100-orange-juice-syura-and-nanako.json](./164473-100-orange-juice-syura-and-nanako.json) |
 | 100% Orange Juice: Tsih & Tequila | 164453 | [164453-100-orange-juice-tsih-and-tequila.json](./164453-100-orange-juice-tsih-and-tequila.json) |
@@ -1249,6 +1250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 16: The Ultimate 15 Puzzle | 357974 | [357974-16-the-ultimate-15-puzzle.json](./357974-16-the-ultimate-15-puzzle.json) |
 | 1630: The Thirty Years' War | 244700 | [244700-1630-the-thirty-years-war.json](./244700-1630-the-thirty-years-war.json) |
 | 164: The Relentless Climb | 379073 | [379073-164-the-relentless-climb.json](./379073-164-the-relentless-climb.json) |
+| 1651 | 201383 | [201383-1651.json](./201383-1651.json) |
 | 1666: Amsterdam | 404693 | [404693-1666-amsterdam.json](./404693-1666-amsterdam.json) |
 | 16Bit Rhythm Land | 213860 | [213860-16bit-rhythm-land.json](./213860-16bit-rhythm-land.json) |
 | 16bit Trader | 26837 | [26837-16bit-trader.json](./26837-16bit-trader.json) |
