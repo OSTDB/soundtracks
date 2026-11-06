@@ -3964,6 +3964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Lemieux Hockey | 4441 | [4441-mario-lemieux-hockey.json](./4441-mario-lemieux-hockey.json) |
 | Mario Lost In Space | 384109 | [384109-mario-lost-in-space.json](./384109-mario-lost-in-space.json) |
 | Mario Mania | 218089 | [218089-mario-mania.json](./218089-mario-mania.json) |
+| Mario Mania | 227619 | [227619-mario-mania.json](./227619-mario-mania.json) |
 | Mario Moto | 381747 | [381747-mario-moto.json](./381747-mario-moto.json) |
 | Mario Motors | 231507 | [231507-mario-motors.json](./231507-mario-motors.json) |
 | Mario Movie Game | 318554 | [318554-mario-movie-game.json](./318554-mario-movie-game.json) |
@@ -5495,6 +5496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Ascension | 252527 | [252527-math-ascension.json](./252527-math-ascension.json) |
 | Math Attack | 367509 | [367509-math-attack.json](./367509-math-attack.json) |
 | Math Balance: Pre-algebra game for kids | 97141 | [97141-math-balance-pre-algebra-game-for-kids.json](./97141-math-balance-pre-algebra-game-for-kids.json) |
+| Math Ball | 227631 | [227631-math-ball.json](./227631-math-ball.json) |
 | Math Baseball | 230437 | [230437-math-baseball.json](./230437-math-baseball.json) |
 | Math Basketball | 97063 | [97063-math-basketball.json](./97063-math-basketball.json) |
 | Math Be Nimble: Brain Training | 265425 | [265425-math-be-nimble-brain-training.json](./265425-math-be-nimble-brain-training.json) |
@@ -15405,6 +15407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monst | 404184 | [404184-monst.json](./404184-monst.json) |
 | Monsta Bounce | 240923 | [240923-monsta-bounce.json](./240923-monsta-bounce.json) |
 | Monsta Infinite Tapwar | 235259 | [235259-monsta-infinite-tapwar.json](./235259-monsta-infinite-tapwar.json) |
+| Monsta Tapwar | 227654 | [227654-monsta-tapwar.json](./227654-monsta-tapwar.json) |
 | Monstabox | 334134 | [334134-monstabox.json](./334134-monstabox.json) |
 | MonstaFish | 79190 | [79190-monstafish.json](./79190-monstafish.json) |
 | Monstania | 42486 | [42486-monstania.json](./42486-monstania.json) |
