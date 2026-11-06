@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man's Pixel Bash | 219391 | [219391-pac-mans-pixel-bash.json](./219391-pac-mans-pixel-bash.json) |
 | PAC-MANGAMES | 131311 | [131311-pac-mangames.json](./131311-pac-mangames.json) |
 | Pac-Mania | 174623 | [174623-pac-mania.json](./174623-pac-mania.json) |
+| Pac-Mania | 225431 | [225431-pac-mania.json](./225431-pac-mania.json) |
 | Pac-Mania | 284365 | [284365-pac-mania.json](./284365-pac-mania.json) |
 | Pac-Mania | 284465 | [284465-pac-mania.json](./284465-pac-mania.json) |
 | Pac-Mania | 284466 | [284466-pac-mania.json](./284466-pac-mania.json) |
@@ -9450,6 +9451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies: Garden Warfare - Zomboss Down | 305818 | [305818-plants-vs-zombies-garden-warfare-zomboss-down.json](./305818-plants-vs-zombies-garden-warfare-zomboss-down.json) |
 | Plants vs. Zombies: Garden Warfare 2 | 11148 | [11148-plants-vs-zombies-garden-warfare-2.json](./11148-plants-vs-zombies-garden-warfare-2.json) |
 | Plants vs. Zombies: Garden Warfare 2 - Deluxe Edition | 81997 | [81997-plants-vs-zombies-garden-warfare-2-deluxe-edition.json](./81997-plants-vs-zombies-garden-warfare-2-deluxe-edition.json) |
+| Plants vs. Zombies: Garden Warfare 2 - No-Brainerz Upgrade | 225460 | [225460-plants-vs-zombies-garden-warfare-2-no-brainerz-upgrade.json](./225460-plants-vs-zombies-garden-warfare-2-no-brainerz-upgrade.json) |
 | Plants vs. Zombies: GOTY Edition | 20546 | [20546-plants-vs-zombies-goty-edition.json](./20546-plants-vs-zombies-goty-edition.json) |
 | Plants vs. Zombies: Heroes | 25230 | [25230-plants-vs-zombies-heroes.json](./25230-plants-vs-zombies-heroes.json) |
 | Plants vs. Zombies: Match | 287877 | [287877-plants-vs-zombies-match.json](./287877-plants-vs-zombies-match.json) |
@@ -13591,6 +13593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerpuff Girls: Pillow Fight | 203083 | [203083-powerpuff-girls-pillow-fight.json](./203083-powerpuff-girls-pillow-fight.json) |
 | Powerpuff Girls: Power Surf | 241140 | [241140-powerpuff-girls-power-surf.json](./241140-powerpuff-girls-power-surf.json) |
 | Powerpuff Girls: Zom-B-Gone! | 203061 | [203061-powerpuff-girls-zom-b-gone.json](./203061-powerpuff-girls-zom-b-gone.json) |
+| PowerPutt Legend | 225432 | [225432-powerputt-legend.json](./225432-powerputt-legend.json) |
 | Powers | 254470 | [254470-powers.json](./254470-powers.json) |
 | Powers of Hex | 230943 | [230943-powers-of-hex.json](./230943-powers-of-hex.json) |
 | PowerShift | 242673 | [242673-powershift.json](./242673-powershift.json) |
@@ -14093,6 +14096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Previous Tenant | 152208 | [152208-previous-tenant.json](./152208-previous-tenant.json) |
 | Prey 2 | 525 | [525-prey-2.json](./525-prey-2.json) |
 | Prey at the Altar | 300360 | [300360-prey-at-the-altar.json](./300360-prey-at-the-altar.json) |
+| Prey Evil | 225437 | [225437-prey-evil.json](./225437-prey-evil.json) |
 | Prey Invasion | 67860 | [67860-prey-invasion.json](./67860-prey-invasion.json) |
 | Prey of the Night | 325626 | [325626-prey-of-the-night.json](./325626-prey-of-the-night.json) |
 | Prey the Stars | 21337 | [21337-prey-the-stars.json](./21337-prey-the-stars.json) |
@@ -17497,6 +17501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pups & Purrs Animal Hospital and Pups & Purrs Pet Shop Bundle | 308629 | [308629-pups-and-purrs-animal-hospital-and-pups-and-purrs-pet-shop-bundle.json](./308629-pups-and-purrs-animal-hospital-and-pups-and-purrs-pet-shop-bundle.json) |
 | Pups & Purrs Pet Shop | 145491 | [145491-pups-and-purrs-pet-shop.json](./145491-pups-and-purrs-pet-shop.json) |
 | Pups Treats | 359412 | [359412-pups-treats.json](./359412-pups-treats.json) |
+| PuPu's Adventure Park | 225440 | [225440-pupus-adventure-park.json](./225440-pupus-adventure-park.json) |
 | Puputan Legend VR | 192633 | [192633-puputan-legend-vr.json](./192633-puputan-legend-vr.json) |
 | Purah's Lab | 279688 | [279688-purahs-lab.json](./279688-purahs-lab.json) |
 | Puramai Wars V | 143992 | [143992-puramai-wars-v.json](./143992-puramai-wars-v.json) |
@@ -18092,6 +18097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle by Nikoli W Hitori | 256430 | [256430-puzzle-by-nikoli-w-hitori.json](./256430-puzzle-by-nikoli-w-hitori.json) |
 | Puzzle by Nikoli W Kakuro | 262657 | [262657-puzzle-by-nikoli-w-kakuro.json](./262657-puzzle-by-nikoli-w-kakuro.json) |
 | Puzzle by Nikoli W Masyu | 241175 | [241175-puzzle-by-nikoli-w-masyu.json](./241175-puzzle-by-nikoli-w-masyu.json) |
+| Puzzle by Nikoli W Museum | 225475 | [225475-puzzle-by-nikoli-w-museum.json](./225475-puzzle-by-nikoli-w-museum.json) |
 | Puzzle by Nikoli W Numberlink | 250118 | [250118-puzzle-by-nikoli-w-numberlink.json](./250118-puzzle-by-nikoli-w-numberlink.json) |
 | Puzzle by Nikoli W Nurikabe | 228843 | [228843-puzzle-by-nikoli-w-nurikabe.json](./228843-puzzle-by-nikoli-w-nurikabe.json) |
 | Puzzle by Nikoli W Shikaku | 245627 | [245627-puzzle-by-nikoli-w-shikaku.json](./245627-puzzle-by-nikoli-w-shikaku.json) |
