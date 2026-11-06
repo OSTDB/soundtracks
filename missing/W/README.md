@@ -2123,6 +2123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warspace | 242065 | [242065-warspace.json](./242065-warspace.json) |
 | Warspace | 421426 | [421426-warspace.json](./421426-warspace.json) |
 | Warspace 2 | 158652 | [158652-warspace-2.json](./158652-warspace-2.json) |
+| Warspace.io | 194681 | [194681-warspace-io.json](./194681-warspace-io.json) |
 | WarSpawn | 344335 | [344335-warspawn.json](./344335-warspawn.json) |
 | Warspear Online | 68475 | [68475-warspear-online.json](./68475-warspear-online.json) |
 | Warspear Online | 87077 | [87077-warspear-online.json](./87077-warspear-online.json) |
@@ -5040,6 +5041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wiki-Go | 426459 | [426459-wiki-go.json](./426459-wiki-go.json) |
 | Wiki's Wild Ride | 261759 | [261759-wikis-wild-ride.json](./261759-wikis-wild-ride.json) |
 | WikiAdventure | 143253 | [143253-wikiadventure.json](./143253-wikiadventure.json) |
+| WikiArena | 194710 | [194710-wikiarena.json](./194710-wikiarena.json) |
 | WikiAsteroids | 386928 | [386928-wikiasteroids.json](./386928-wikiasteroids.json) |
 | WikiGame | 318710 | [318710-wikigame.json](./318710-wikigame.json) |
 | WikiMasters | 419615 | [419615-wikimasters.json](./419615-wikimasters.json) |
