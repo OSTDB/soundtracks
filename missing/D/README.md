@@ -2254,6 +2254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darksword: Battle Eternity | 252955 | [252955-darksword-battle-eternity.json](./252955-darksword-battle-eternity.json) |
 | Darksword: Nephilim | 296883 | [296883-darksword-nephilim.json](./296883-darksword-nephilim.json) |
 | Darksy's Adventure | 242604 | [242604-darksys-adventure.json](./242604-darksys-adventure.json) |
+| Darksyne | 245115 | [245115-darksyne.json](./245115-darksyne.json) |
 | DarkTide | 204955 | [204955-darktide.json](./204955-darktide.json) |
 | Darkula | 119481 | [119481-darkula.json](./119481-darkula.json) |
 | Darkwaronline | 191658 | [191658-darkwaronline.json](./191658-darkwaronline.json) |
@@ -3014,6 +3015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dayshift at Freddy's | 198465 | [198465-dayshift-at-freddys.json](./198465-dayshift-at-freddys.json) |
 | Dayshift at Freddy's 2: Electric Boogaloo | 211382 | [211382-dayshift-at-freddys-2-electric-boogaloo.json](./211382-dayshift-at-freddys-2-electric-boogaloo.json) |
 | Dayshift at Freddy's 3 | 216206 | [216206-dayshift-at-freddys-3.json](./216206-dayshift-at-freddys-3.json) |
+| Daytona | 245119 | [245119-daytona.json](./245119-daytona.json) |
 | Daytona Championship USA | 57333 | [57333-daytona-championship-usa.json](./57333-daytona-championship-usa.json) |
 | Daytona Racing | 92623 | [92623-daytona-racing.json](./92623-daytona-racing.json) |
 | Daytona Rush | 233194 | [233194-daytona-rush.json](./233194-daytona-rush.json) |
@@ -5045,6 +5047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dedalium | 199418 | [199418-dedalium.json](./199418-dedalium.json) |
 | Dedalo | 328732 | [328732-dedalo.json](./328732-dedalo.json) |
 | Dedalus | 138998 | [138998-dedalus.json](./138998-dedalus.json) |
+| Dedant | 245106 | [245106-dedant.json](./245106-dedant.json) |
 | Dedede Daggers | 183910 | [183910-dedede-daggers.json](./183910-dedede-daggers.json) |
 | Dedede's Drum Dash Deluxe | 61319 | [61319-dededes-drum-dash-deluxe.json](./61319-dededes-drum-dash-deluxe.json) |
 | Dededeball | 395701 | [395701-dededeball.json](./395701-dededeball.json) |
@@ -19075,6 +19078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynatron Mission | 14046 | [14046-dynatron-mission.json](./14046-dynatron-mission.json) |
 | Dynetzzle Extended | 20101 | [20101-dynetzzle-extended.json](./20101-dynetzzle-extended.json) |
 | Dyno Adventure | 31399 | [31399-dyno-adventure.json](./31399-dyno-adventure.json) |
+| Dyno Tennis | 245116 | [245116-dyno-tennis.json](./245116-dyno-tennis.json) |
 | DynoBlaze | 350144 | [350144-dynoblaze.json](./350144-dynoblaze.json) |
 | Dynogems | 42826 | [42826-dynogems.json](./42826-dynogems.json) |
 | Dynomite Deluxe | 71301 | [71301-dynomite-deluxe.json](./71301-dynomite-deluxe.json) |
