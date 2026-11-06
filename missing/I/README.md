@@ -1532,6 +1532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Intergalactic Factory | 221127 | [221127-idle-intergalactic-factory.json](./221127-idle-intergalactic-factory.json) |
 | Idle Interstellar Factory 2 | 234522 | [234522-idle-interstellar-factory-2.json](./234522-idle-interstellar-factory-2.json) |
 | Idle Inventor: Factory Tycoon | 167288 | [167288-idle-inventor-factory-tycoon.json](./167288-idle-inventor-factory-tycoon.json) |
+| Idle Iron Knight | 196355 | [196355-idle-iron-knight.json](./196355-idle-iron-knight.json) |
 | Idle Keep | 405434 | [405434-idle-keep.json](./405434-idle-keep.json) |
 | Idle Kitchen Tycoon | 237642 | [237642-idle-kitchen-tycoon.json](./237642-idle-kitchen-tycoon.json) |
 | Idle Kitties Online | 314316 | [314316-idle-kitties-online.json](./314316-idle-kitties-online.json) |
