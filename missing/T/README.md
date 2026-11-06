@@ -1839,6 +1839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Arkade | 24849 | [24849-tank-arkade.json](./24849-tank-arkade.json) |
 | Tank Army Battle Simulator | 102734 | [102734-tank-army-battle-simulator.json](./102734-tank-army-battle-simulator.json) |
 | Tank Army: Fast Fingers Shmup | 175366 | [175366-tank-army-fast-fingers-shmup.json](./175366-tank-army-fast-fingers-shmup.json) |
+| Tank Assault | 214818 | [214818-tank-assault.json](./214818-tank-assault.json) |
 | Tank Assault X | 29633 | [29633-tank-assault-x.json](./29633-tank-assault-x.json) |
 | Tank Attack | 217693 | [217693-tank-attack.json](./217693-tank-attack.json) |
 | Tank Attack | 273913 | [273913-tank-attack.json](./273913-tank-attack.json) |
@@ -5270,6 +5271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That's the Spirit | 57354 | [57354-thats-the-spirit.json](./57354-thats-the-spirit.json) |
 | That's You! | 37141 | [37141-thats-you.json](./37141-thats-you.json) |
 | Thatcher's Techbase | 164080 | [164080-thatchers-techbase.json](./164080-thatchers-techbase.json) |
+| Thatcher's Techbase: Arcade Edition | 214821 | [214821-thatchers-techbase-arcade-edition.json](./214821-thatchers-techbase-arcade-edition.json) |
 | Thatre of Pain | 234474 | [234474-thatre-of-pain.json](./234474-thatre-of-pain.json) |
 | Thaumcraft | 232786 | [232786-thaumcraft.json](./232786-thaumcraft.json) |
 | Thaumistry: In Charm's Way | 27280 | [27280-thaumistry-in-charms-way.json](./27280-thaumistry-in-charms-way.json) |
@@ -7284,6 +7286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Citadel of Sinners | 271810 | [271810-the-citadel-of-sinners.json](./271810-the-citadel-of-sinners.json) |
 | The Citizen | 296374 | [296374-the-citizen.json](./296374-the-citizen.json) |
 | The Citizen Kane of Video Games | 225271 | [225271-the-citizen-kane-of-video-games.json](./225271-the-citizen-kane-of-video-games.json) |
+| The Citizen Part II | 214850 | [214850-the-citizen-part-ii.json](./214850-the-citizen-part-ii.json) |
 | The City Must Grow | 180243 | [180243-the-city-must-grow.json](./180243-the-city-must-grow.json) |
 | The City of Damned Children | 257164 | [257164-the-city-of-damned-children.json](./257164-the-city-of-damned-children.json) |
 | The City of Fury | 260642 | [260642-the-city-of-fury.json](./260642-the-city-of-fury.json) |
@@ -11389,6 +11392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Churros | 218284 | [218284-the-jumping-churros.json](./218284-the-jumping-churros.json) |
 | The Jumping Churros: Turbo | 218285 | [218285-the-jumping-churros-turbo.json](./218285-the-jumping-churros-turbo.json) |
 | The Jumping Coffee | 214700 | [214700-the-jumping-coffee.json](./214700-the-jumping-coffee.json) |
+| The Jumping Coffee: Turbo | 214832 | [214832-the-jumping-coffee-turbo.json](./214832-the-jumping-coffee-turbo.json) |
 | The Jumping Cookie | 228592 | [228592-the-jumping-cookie.json](./228592-the-jumping-cookie.json) |
 | The Jumping Cookie: Turbo | 228593 | [228593-the-jumping-cookie-turbo.json](./228593-the-jumping-cookie-turbo.json) |
 | The Jumping Donut | 315810 | [315810-the-jumping-donut.json](./315810-the-jumping-donut.json) |
@@ -11835,6 +11839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Adventure | 331756 | [331756-the-last-adventure.json](./331756-the-last-adventure.json) |
 | The Last Airbender | 27458 | [27458-the-last-airbender.json](./27458-the-last-airbender.json) |
 | The Last Airbender | 7983 | [7983-the-last-airbender.json](./7983-the-last-airbender.json) |
+| The Last Alchemist | 214839 | [214839-the-last-alchemist.json](./214839-the-last-alchemist.json) |
 | The Last Among The Dead | 351762 | [351762-the-last-among-the-dead.json](./351762-the-last-among-the-dead.json) |
 | The Last AntLion | 120753 | [120753-the-last-antlion.json](./120753-the-last-antlion.json) |
 | The Last Aura | 120871 | [120871-the-last-aura.json](./120871-the-last-aura.json) |
@@ -12209,6 +12214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Stand Legacy Collection | 158727 | [158727-the-last-stand-legacy-collection.json](./158727-the-last-stand-legacy-collection.json) |
 | The Last Stand: Aftermath | 133375 | [133375-the-last-stand-aftermath.json](./133375-the-last-stand-aftermath.json) |
 | The Last Stand: Union City | 61586 | [61586-the-last-stand-union-city.json](./61586-the-last-stand-union-city.json) |
+| The Last Star | 214810 | [214810-the-last-star.json](./214810-the-last-star.json) |
 | The Last Star Walker: Season 1 | 385793 | [385793-the-last-star-walker-season-1.json](./385793-the-last-star-walker-season-1.json) |
 | The Last Starfighter | 282069 | [282069-the-last-starfighter.json](./282069-the-last-starfighter.json) |
 | The Last Starfighter | 71759 | [71759-the-last-starfighter.json](./71759-the-last-starfighter.json) |
@@ -16957,6 +16963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spring | 183215 | [183215-the-spring.json](./183215-the-spring.json) |
 | The Spring | 366312 | [366312-the-spring.json](./366312-the-spring.json) |
 | The Springlock: Aftermath | 315504 | [315504-the-springlock-aftermath.json](./315504-the-springlock-aftermath.json) |
+| The Sprucecape Mod | 214851 | [214851-the-sprucecape-mod.json](./214851-the-sprucecape-mod.json) |
 | The SpudFather | 302329 | [302329-the-spudfather.json](./302329-the-spudfather.json) |
 | The Spy | 94115 | [94115-the-spy.json](./94115-the-spy.json) |
 | The Spy I Married | 327991 | [327991-the-spy-i-married.json](./327991-the-spy-i-married.json) |
@@ -26456,6 +26463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Yumejikuu: Phantasmagoria of Dim. Dream | 45965 | [45965-touhou-yumejikuu-phantasmagoria-of-dim-dream.json](./45965-touhou-yumejikuu-phantasmagoria-of-dim-dream.json) |
 | Touhou Yuuyajaku -Solar Eclipse Night- | 335062 | [335062-touhou-yuuyajaku-solar-eclipse-night.json](./335062-touhou-yuuyajaku-solar-eclipse-night.json) |
 | Touhou: Blossom Blade | 380520 | [380520-touhou-blossom-blade.json](./380520-touhou-blossom-blade.json) |
+| Touhou: Combinations With You | 214819 | [214819-touhou-combinations-with-you.json](./214819-touhou-combinations-with-you.json) |
 | Touhou: Dreamland of Infinity | 219356 | [219356-touhou-dreamland-of-infinity.json](./219356-touhou-dreamland-of-infinity.json) |
 | Touhou: Fading Illusion | 228201 | [228201-touhou-fading-illusion.json](./228201-touhou-fading-illusion.json) |
 | Touhou: Fading Illusion - Destitute Chapter | 293834 | [293834-touhou-fading-illusion-destitute-chapter.json](./293834-touhou-fading-illusion-destitute-chapter.json) |
