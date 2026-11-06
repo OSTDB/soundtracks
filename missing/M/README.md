@@ -11808,6 +11808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milo's Quest | 360286 | [360286-milos-quest.json](./360286-milos-quest.json) |
 | Milo's Tiny Fish Pond | 414169 | [414169-milos-tiny-fish-pond.json](./414169-milos-tiny-fish-pond.json) |
 | Milon no Hoshizora Shabon: Puzzle Kumikyoku | 97681 | [97681-milon-no-hoshizora-shabon-puzzle-kumikyoku.json](./97681-milon-no-hoshizora-shabon-puzzle-kumikyoku.json) |
+| Milon's Secret Castle | 218778 | [218778-milons-secret-castle.json](./218778-milons-secret-castle.json) |
 | Milon's Secret Castle | 48081 | [48081-milons-secret-castle.json](./48081-milons-secret-castle.json) |
 | Milon's Secret Hell | 323347 | [323347-milons-secret-hell.json](./323347-milons-secret-hell.json) |
 | Milosc | 213532 | [213532-milosc.json](./213532-milosc.json) |
@@ -15139,6 +15140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monica's Paradox | 276222 | [276222-monicas-paradox.json](./276222-monicas-paradox.json) |
 | Monica's Revenge Tragedy | 171299 | [171299-monicas-revenge-tragedy.json](./171299-monicas-revenge-tragedy.json) |
 | Monigote Fantasy | 184971 | [184971-monigote-fantasy.json](./184971-monigote-fantasy.json) |
+| Monika After Story | 218780 | [218780-monika-after-story.json](./218780-monika-after-story.json) |
 | Monique: Passion Hôtesse de Caisse | 203076 | [203076-monique-passion-hotesse-de-caisse.json](./203076-monique-passion-hotesse-de-caisse.json) |
 | Monishiri Quiz Taiko no Kyouryuu | 276466 | [276466-monishiri-quiz-taiko-no-kyouryuu.json](./276466-monishiri-quiz-taiko-no-kyouryuu.json) |
 | Monitoball | 418637 | [418637-monitoball.json](./418637-monitoball.json) |
@@ -16455,6 +16457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Observatory Melanie | 250602 | [250602-moon-observatory-melanie.json](./250602-moon-observatory-melanie.json) |
 | Moon Patrol | 12314 | [12314-moon-patrol.json](./12314-moon-patrol.json) |
 | Moon Patrol | 198824 | [198824-moon-patrol.json](./198824-moon-patrol.json) |
+| Moon Patrol | 218769 | [218769-moon-patrol.json](./218769-moon-patrol.json) |
 | Moon Patrol | 280784 | [280784-moon-patrol.json](./280784-moon-patrol.json) |
 | Moon Patrol | 282070 | [282070-moon-patrol.json](./282070-moon-patrol.json) |
 | Moon Patrol | 287080 | [287080-moon-patrol.json](./287080-moon-patrol.json) |
