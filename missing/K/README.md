@@ -694,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kandyland | 261742 | [261742-kandyland.json](./261742-kandyland.json) |
 | Kane | 18888 | [18888-kane.json](./18888-kane.json) |
 | Kane & Lynch 2: Dog Days | 488 | [488-kane-and-lynch-2-dog-days.json](./488-kane-and-lynch-2-dog-days.json) |
+| Kane & Lynch 2: Dog Days - Complete Edition | 210948 | [210948-kane-and-lynch-2-dog-days-complete-edition.json](./210948-kane-and-lynch-2-dog-days-complete-edition.json) |
 | Kane & Lynch 2: Dog Days - Multiplayer Masks Pack | 164424 | [164424-kane-and-lynch-2-dog-days-multiplayer-masks-pack.json](./164424-kane-and-lynch-2-dog-days-multiplayer-masks-pack.json) |
 | Kane & Lynch 2: Dog Days - The Doggie Bag | 164410 | [164410-kane-and-lynch-2-dog-days-the-doggie-bag.json](./164410-kane-and-lynch-2-dog-days-the-doggie-bag.json) |
 | Kane & Lynch Collection | 53243 | [53243-kane-and-lynch-collection.json](./53243-kane-and-lynch-collection.json) |
@@ -4884,6 +4885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koa and the Five Pirates of Mara | 197486 | [197486-koa-and-the-five-pirates-of-mara.json](./197486-koa-and-the-five-pirates-of-mara.json) |
 | Koa and the Five Pirates of Mara: Collector's Edition | 254818 | [254818-koa-and-the-five-pirates-of-mara-collectors-edition.json](./254818-koa-and-the-five-pirates-of-mara-collectors-edition.json) |
 | Koa: A Gluttonous Wizard | 215335 | [215335-koa-a-gluttonous-wizard.json](./215335-koa-a-gluttonous-wizard.json) |
+| Koa: The Forgotten Gods | 210812 | [210812-koa-the-forgotten-gods.json](./210812-koa-the-forgotten-gods.json) |
 | Koakuma | 222787 | [222787-koakuma.json](./222787-koakuma.json) |
 | Koakuma Nurse no Itazura Karte: Kangoshi Kanojo to no Dousei Seikatsu | 402718 | [402718-koakuma-nurse-no-itazura-karte-kangoshi-kanojo-to-no-dousei-seikatsu.json](./402718-koakuma-nurse-no-itazura-karte-kangoshi-kanojo-to-no-dousei-seikatsu.json) |
 | Koala Kids | 34981 | [34981-koala-kids.json](./34981-koala-kids.json) |
