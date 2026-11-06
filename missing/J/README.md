@@ -935,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jefe, La Cuenta | 310679 | [310679-jefe-la-cuenta.json](./310679-jefe-la-cuenta.json) |
 | Jeff Gordon XS Racing | 49888 | [49888-jeff-gordon-xs-racing.json](./49888-jeff-gordon-xs-racing.json) |
 | Jeff Gordon's Du Pont Pacesetter Games | 198770 | [198770-jeff-gordons-du-pont-pacesetter-games.json](./198770-jeff-gordons-du-pont-pacesetter-games.json) |
+| Jeff Logar | 209804 | [209804-jeff-logar.json](./209804-jeff-logar.json) |
 | Jeff Space | 237598 | [237598-jeff-space.json](./237598-jeff-space.json) |
 | Jeff the Janitor | 337491 | [337491-jeff-the-janitor.json](./337491-jeff-the-janitor.json) |
 | Jeff the Killer | 376137 | [376137-jeff-the-killer.json](./376137-jeff-the-killer.json) |
