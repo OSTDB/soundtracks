@@ -2022,6 +2022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garin Game: Curse of Revival Ceremony | 214747 | [214747-garin-game-curse-of-revival-ceremony.json](./214747-garin-game-curse-of-revival-ceremony.json) |
 | Garisani Detective Agency | 406571 | [406571-garisani-detective-agency.json](./406571-garisani-detective-agency.json) |
 | Garland Boy | 327187 | [327187-garland-boy.json](./327187-garland-boy.json) |
+| Garlant: My Story | 207480 | [207480-garlant-my-story.json](./207480-garlant-my-story.json) |
 | Garlic | 132685 | [132685-garlic.json](./132685-garlic.json) |
 | Garlic Builder | 263985 | [263985-garlic-builder.json](./263985-garlic-builder.json) |
 | Garlock Online | 34785 | [34785-garlock-online.json](./34785-garlock-online.json) |
@@ -7246,6 +7247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoPogo | 235681 | [235681-gopogo.json](./235681-gopogo.json) |
 | GOR - Gorilla Office Rampage! | 128802 | [128802-gor-gorilla-office-rampage.json](./128802-gor-gorilla-office-rampage.json) |
 | Gor Lab | 321155 | [321155-gor-lab.json](./321155-gor-lab.json) |
+| Gor3 | 207475 | [207475-gor3.json](./207475-gor3.json) |
 | Goraku-Ou Tango! | 281521 | [281521-goraku-ou-tango.json](./281521-goraku-ou-tango.json) |
 | Goraku-Ou Tango! | 37506 | [37506-goraku-ou-tango.json](./37506-goraku-ou-tango.json) |
 | Gorasul: Legacy of the Dragon | 22053 | [22053-gorasul-legacy-of-the-dragon.json](./22053-gorasul-legacy-of-the-dragon.json) |
