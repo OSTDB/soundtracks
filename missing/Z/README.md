@@ -455,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeewolf | 12629 | [12629-zeewolf.json](./12629-zeewolf.json) |
 | Zeewolf 2: Wild Justice | 28516 | [28516-zeewolf-2-wild-justice.json](./28516-zeewolf-2-wild-justice.json) |
 | Zefira | 119000 | [119000-zefira.json](./119000-zefira.json) |
+| Zefyr: A Thief's Melody | 211507 | [211507-zefyr-a-thiefs-melody.json](./211507-zefyr-a-thiefs-melody.json) |
 | ZeGame | 19346 | [19346-zegame.json](./19346-zegame.json) |
 | Zegapain NOT | 68015 | [68015-zegapain-not.json](./68015-zegapain-not.json) |
 | Zegapain XOR | 68017 | [68017-zegapain-xor.json](./68017-zegapain-xor.json) |
