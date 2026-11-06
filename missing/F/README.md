@@ -900,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Cat | 410306 | [410306-fall-cat.json](./410306-fall-cat.json) |
 | Fall Cleaning | 272165 | [272165-fall-cleaning.json](./272165-fall-cleaning.json) |
 | Fall Damage for Project+ | 343409 | [343409-fall-damage-for-project.json](./343409-fall-damage-for-project.json) |
+| Fall Dice | 226563 | [226563-fall-dice.json](./226563-fall-dice.json) |
 | Fall Down | 40791 | [40791-fall-down.json](./40791-fall-down.json) |
 | Fall Down | 95432 | [95432-fall-down.json](./95432-fall-down.json) |
 | Fall Down | 96230 | [96230-fall-down.json](./96230-fall-down.json) |
@@ -1176,6 +1177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Spirit | 188518 | [188518-fallen-spirit.json](./188518-fallen-spirit.json) |
 | Fallen Star | 322177 | [322177-fallen-star.json](./322177-fallen-star.json) |
 | Fallen Starborn | 401042 | [401042-fallen-starborn.json](./401042-fallen-starborn.json) |
+| Fallen Stars | 226564 | [226564-fallen-stars.json](./226564-fallen-stars.json) |
 | Fallen Survivors | 244921 | [244921-fallen-survivors.json](./244921-fallen-survivors.json) |
 | Fallen Sword II | 422027 | [422027-fallen-sword-ii.json](./422027-fallen-sword-ii.json) |
 | Fallen Symphony | 258903 | [258903-fallen-symphony.json](./258903-fallen-symphony.json) |
@@ -3482,6 +3484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear of Faith | 414514 | [414514-fear-of-faith.json](./414514-fear-of-faith.json) |
 | Fear of Fear | 294292 | [294292-fear-of-fear.json](./294292-fear-of-fear.json) |
 | Fear of Hot Water Ghost | 335685 | [335685-fear-of-hot-water-ghost.json](./335685-fear-of-hot-water-ghost.json) |
+| Fear of Mine | 226560 | [226560-fear-of-mine.json](./226560-fear-of-mine.json) |
 | Fear of Reptiles: Chapter 1 | 404595 | [404595-fear-of-reptiles-chapter-1.json](./404595-fear-of-reptiles-chapter-1.json) |
 | Fear of Sleep | 391107 | [391107-fear-of-sleep.json](./391107-fear-of-sleep.json) |
 | Fear of the dark | 185499 | [185499-fear-of-the-dark.json](./185499-fear-of-the-dark.json) |
@@ -4215,6 +4218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiend Hunter | 42000 | [42000-fiend-hunter.json](./42000-fiend-hunter.json) |
 | Fiend Hunter | 55897 | [55897-fiend-hunter.json](./55897-fiend-hunter.json) |
 | Fiend Legion | 110393 | [110393-fiend-legion.json](./110393-fiend-legion.json) |
+| Fiend's Archive | 226561 | [226561-fiends-archive.json](./226561-fiends-archive.json) |
 | Fiend's Isle | 144739 | [144739-fiends-isle.json](./144739-fiends-isle.json) |
 | Fiendish Freddy's Big Top O' Fun | 12095 | [12095-fiendish-freddys-big-top-o-fun.json](./12095-fiendish-freddys-big-top-o-fun.json) |
 | Fiendish Thieves | 156998 | [156998-fiendish-thieves.json](./156998-fiendish-thieves.json) |
@@ -5518,6 +5522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Felicia | 208335 | [208335-finding-felicia.json](./208335-finding-felicia.json) |
 | Finding Fern | 239659 | [239659-finding-fern.json](./239659-finding-fern.json) |
 | Finding Fido: The Journey | 150978 | [150978-finding-fido-the-journey.json](./150978-finding-fido-the-journey.json) |
+| Finding Fifi | 226562 | [226562-finding-fifi.json](./226562-finding-fifi.json) |
 | Finding Frankie 2 | 404932 | [404932-finding-frankie-2.json](./404932-finding-frankie-2.json) |
 | Finding Hannah | 237954 | [237954-finding-hannah.json](./237954-finding-hannah.json) |
 | Finding Heart | 109911 | [109911-finding-heart.json](./109911-finding-heart.json) |
@@ -6113,6 +6118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firestorm | 14070 | [14070-firestorm.json](./14070-firestorm.json) |
 | Firestorm | 239088 | [239088-firestorm.json](./239088-firestorm.json) |
 | Firestorm Deadland | 253365 | [253365-firestorm-deadland.json](./253365-firestorm-deadland.json) |
+| Firestorm: Deep Dive | 226558 | [226558-firestorm-deep-dive.json](./226558-firestorm-deep-dive.json) |
 | Firestriker | 42553 | [42553-firestriker.json](./42553-firestriker.json) |
 | Fireteam | 195394 | [195394-fireteam.json](./195394-fireteam.json) |
 | Fireteam Rogue | 42244 | [42244-fireteam-rogue.json](./42244-fireteam-rogue.json) |
@@ -6120,6 +6126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FireTrap | 40943 | [40943-firetrap.json](./40943-firetrap.json) |
 | FireTry | 128450 | [128450-firetry.json](./128450-firetry.json) |
 | FireTry: Capture the Flag | 167850 | [167850-firetry-capture-the-flag.json](./167850-firetry-capture-the-flag.json) |
+| FireTry: Cars Pack | 226559 | [226559-firetry-cars-pack.json](./226559-firetry-cars-pack.json) |
 | Firewall | 230955 | [230955-firewall.json](./230955-firewall.json) |
 | Firewall Ultra | 215777 | [215777-firewall-ultra.json](./215777-firewall-ultra.json) |
 | Firewall Zero Hour | 76966 | [76966-firewall-zero-hour.json](./76966-firewall-zero-hour.json) |
@@ -13856,6 +13863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future City Coaster | 93753 | [93753-future-city-coaster.json](./93753-future-city-coaster.json) |
 | Future Classics: 1986 Edition | 61840 | [61840-future-classics-1986-edition.json](./61840-future-classics-1986-edition.json) |
 | Future Cop: LAPD | 11235 | [11235-future-cop-lapd.json](./11235-future-cop-lapd.json) |
+| Future Daoshi | 226565 | [226565-future-daoshi.json](./226565-future-daoshi.json) |
 | Future Fighter | 304139 | [304139-future-fighter.json](./304139-future-fighter.json) |
 | Future Flappy | 89290 | [89290-future-flappy.json](./89290-future-flappy.json) |
 | Future Flash | 280952 | [280952-future-flash.json](./280952-future-flash.json) |
