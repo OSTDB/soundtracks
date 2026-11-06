@@ -474,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyrie: Journey to Midgard | 165671 | [165671-valkyrie-journey-to-midgard.json](./165671-valkyrie-journey-to-midgard.json) |
 | Valkyrius | 9434 | [9434-valkyrius.json](./9434-valkyrius.json) |
 | Valla | 394379 | [394379-valla.json](./394379-valla.json) |
+| Valledi | 223209 | [223209-valledi.json](./223209-valledi.json) |
 | Vallen | 241955 | [241955-vallen.json](./241955-vallen.json) |
 | Valletine against Darkne | 159811 | [159811-valletine-against-darkne.json](./159811-valletine-against-darkne.json) |
 | Valley | 377295 | [377295-valley.json](./377295-valley.json) |
@@ -3834,6 +3835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Dinosaur Village | 282027 | [282027-vr-dinosaur-village.json](./282027-vr-dinosaur-village.json) |
 | VR Disc Golf | 32338 | [32338-vr-disc-golf.json](./32338-vr-disc-golf.json) |
 | VR Dodgeball Trainer | 191895 | [191895-vr-dodgeball-trainer.json](./191895-vr-dodgeball-trainer.json) |
+| VR Dragon Flight | 223215 | [223215-vr-dragon-flight.json](./223215-vr-dragon-flight.json) |
 | VR Driver School | 288490 | [288490-vr-driver-school.json](./288490-vr-driver-school.json) |
 | VR Drivers | 68512 | [68512-vr-drivers.json](./68512-vr-drivers.json) |
 | VR Drum Studio | 54534 | [54534-vr-drum-studio.json](./54534-vr-drum-studio.json) |
@@ -4245,6 +4247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vultures | 41140 | [41140-vultures.json](./41140-vultures.json) |
 | Vultures: Scavengers of Death | 261864 | [261864-vultures-scavengers-of-death.json](./261864-vultures-scavengers-of-death.json) |
 | Vump Jump | 210927 | [210927-vump-jump.json](./210927-vump-jump.json) |
+| Vuosterávdnjái | 223202 | [223202-vuosteravdnjai.json](./223202-vuosteravdnjai.json) |
 | Vupechat | 340125 | [340125-vupechat.json](./340125-vupechat.json) |
 | Vuzzl - Create Animated Jigsaw Puzzles | 95527 | [95527-vuzzl-create-animated-jigsaw-puzzles.json](./95527-vuzzl-create-animated-jigsaw-puzzles.json) |
 | Vvintercore | 398119 | [398119-vvintercore.json](./398119-vvintercore.json) |
