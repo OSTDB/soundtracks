@@ -1388,6 +1388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Trip to Yugoslavia: Director's Cut | 30888 | [30888-a-trip-to-yugoslavia-directors-cut.json](./30888-a-trip-to-yugoslavia-directors-cut.json) |
 | A True Story | 258043 | [258043-a-true-story.json](./258043-a-true-story.json) |
 | A True Western Romance | 212650 | [212650-a-true-western-romance.json](./212650-a-true-western-romance.json) |
+| A Turd: The Game | 205213 | [205213-a-turd-the-game.json](./205213-a-turd-the-game.json) |
 | A Turd's Life | 89975 | [89975-a-turds-life.json](./89975-a-turds-life.json) |
 | A Turnabout Called Justice | 306606 | [306606-a-turnabout-called-justice.json](./306606-a-turnabout-called-justice.json) |
 | A Turnabout On Rails | 308541 | [308541-a-turnabout-on-rails.json](./308541-a-turnabout-on-rails.json) |
@@ -2589,6 +2590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat 7: Skies Unknown - Ten Million Relief Plan | 164583 | [164583-ace-combat-7-skies-unknown-ten-million-relief-plan.json](./164583-ace-combat-7-skies-unknown-ten-million-relief-plan.json) |
 | Ace Combat 7: Skies Unknown - Top Gun: Maverick Aircraft Set | 203860 | [203860-ace-combat-7-skies-unknown-top-gun-maverick-aircraft-set.json](./203860-ace-combat-7-skies-unknown-top-gun-maverick-aircraft-set.json) |
 | Ace Combat 7: Skies Unknown - Top Gun: Maverick Edition | 204084 | [204084-ace-combat-7-skies-unknown-top-gun-maverick-edition.json](./204084-ace-combat-7-skies-unknown-top-gun-maverick-edition.json) |
+| Ace Combat 7: Skies Unknown - Top Gun: Maverick Ultimate Edition | 205250 | [205250-ace-combat-7-skies-unknown-top-gun-maverick-ultimate-edition.json](./205250-ace-combat-7-skies-unknown-top-gun-maverick-ultimate-edition.json) |
 | Ace Combat 7: Skies Unknown - Ultimate Edition | 282547 | [282547-ace-combat-7-skies-unknown-ultimate-edition.json](./282547-ace-combat-7-skies-unknown-ultimate-edition.json) |
 | Ace Combat 7: Skies Unknown - Unexpected Visitor | 164584 | [164584-ace-combat-7-skies-unknown-unexpected-visitor.json](./164584-ace-combat-7-skies-unknown-unexpected-visitor.json) |
 | Ace Combat 7: Skies Unknown – XFA-27 Set | 225383 | [225383-ace-combat-7-skies-unknown-xfa-27-set.json](./225383-ace-combat-7-skies-unknown-xfa-27-set.json) |
@@ -4603,6 +4605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires III: Definitive Edition | 55057 | [55057-age-of-empires-iii-definitive-edition.json](./55057-age-of-empires-iii-definitive-edition.json) |
 | Age of Empires III: Definitive Edition - Knights of the Mediterranean | 202424 | [202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json](./202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json) |
 | Age of Empires III: Definitive Edition - Mexico Civilization | 193234 | [193234-age-of-empires-iii-definitive-edition-mexico-civilization.json](./193234-age-of-empires-iii-definitive-edition-mexico-civilization.json) |
+| Age of Empires III: Definitive Edition - The Complete History | 205251 | [205251-age-of-empires-iii-definitive-edition-the-complete-history.json](./205251-age-of-empires-iii-definitive-edition-the-complete-history.json) |
 | Age of Empires III: Definitive Edition - United States Civilization | 164609 | [164609-age-of-empires-iii-definitive-edition-united-states-civilization.json](./164609-age-of-empires-iii-definitive-edition-united-states-civilization.json) |
 | Age of Empires III: Definitive Edition – Hero Cosmetic Pack: Lizzie | 265617 | [265617-age-of-empires-iii-definitive-edition-hero-cosmetic-pack-lizzie.json](./265617-age-of-empires-iii-definitive-edition-hero-cosmetic-pack-lizzie.json) |
 | Age of Empires III: Gold Edition | 50919 | [50919-age-of-empires-iii-gold-edition.json](./50919-age-of-empires-iii-gold-edition.json) |
@@ -12516,6 +12519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Solomon's Key | 99564 | [99564-arcade-archives-solomons-key.json](./99564-arcade-archives-solomons-key.json) |
 | Arcade Archives: Space Cruiser | 165601 | [165601-arcade-archives-space-cruiser.json](./165601-arcade-archives-space-cruiser.json) |
 | Arcade Archives: Space Invaders Part II | 385156 | [385156-arcade-archives-space-invaders-part-ii.json](./385156-arcade-archives-space-invaders-part-ii.json) |
+| Arcade Archives: Space Seeker | 205219 | [205219-arcade-archives-space-seeker.json](./205219-arcade-archives-space-seeker.json) |
 | Arcade Archives: Spinal Breakers | 349573 | [349573-arcade-archives-spinal-breakers.json](./349573-arcade-archives-spinal-breakers.json) |
 | Arcade Archives: Splatter House | 254628 | [254628-arcade-archives-splatter-house.json](./254628-arcade-archives-splatter-house.json) |
 | Arcade Archives: Star Force | 75707 | [75707-arcade-archives-star-force.json](./75707-arcade-archives-star-force.json) |
