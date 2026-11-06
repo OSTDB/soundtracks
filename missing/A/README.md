@@ -4577,6 +4577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires Mobile | 280839 | [280839-age-of-empires-mobile.json](./280839-age-of-empires-mobile.json) |
 | Age of Empires Mobile: PC Edition | 408535 | [408535-age-of-empires-mobile-pc-edition.json](./408535-age-of-empires-mobile-pc-edition.json) |
 | Age of Empires Online: Celeste Fan Project | 131926 | [131926-age-of-empires-online-celeste-fan-project.json](./131926-age-of-empires-online-celeste-fan-project.json) |
+| Age of Empires: 25th Anniversary Collection | 227089 | [227089-age-of-empires-25th-anniversary-collection.json](./227089-age-of-empires-25th-anniversary-collection.json) |
 | Age of Empires: Castle Siege | 8575 | [8575-age-of-empires-castle-siege.json](./8575-age-of-empires-castle-siege.json) |
 | Age of Empires: Collector's Edition | 50321 | [50321-age-of-empires-collectors-edition.json](./50321-age-of-empires-collectors-edition.json) |
 | Age of Empires: Gold Edition | 47076 | [47076-age-of-empires-gold-edition.json](./47076-age-of-empires-gold-edition.json) |
