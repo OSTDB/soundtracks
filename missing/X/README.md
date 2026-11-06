@@ -927,6 +927,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xorple | 86555 | [86555-xorple.json](./86555-xorple.json) |
 | Xoru | 324973 | [324973-xoru.json](./324973-xoru.json) |
 | Xotic | 15085 | [15085-xotic.json](./15085-xotic.json) |
+| Xotic: Pipe Works Expansion Pack | 224385 | [224385-xotic-pipe-works-expansion-pack.json](./224385-xotic-pipe-works-expansion-pack.json) |
+| Xotic: Temple Crypt Expansion Pack | 224384 | [224384-xotic-temple-crypt-expansion-pack.json](./224384-xotic-temple-crypt-expansion-pack.json) |
+| Xotic: Warp Field Expansion Pack | 224383 | [224383-xotic-warp-field-expansion-pack.json](./224383-xotic-warp-field-expansion-pack.json) |
 | Xoxo Academy | 184314 | [184314-xoxo-academy.json](./184314-xoxo-academy.json) |
 | XOXO Blood Droplets | 111606 | [111606-xoxo-blood-droplets.json](./111606-xoxo-blood-droplets.json) |
 | XOXO Droplets | 28678 | [28678-xoxo-droplets.json](./28678-xoxo-droplets.json) |
