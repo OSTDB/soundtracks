@@ -609,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nari Kids Park: Kaitou Sentai Lupinranger VS Keisatsu Sentai Patoranger | 109263 | [109263-nari-kids-park-kaitou-sentai-lupinranger-vs-keisatsu-sentai-patoranger.json](./109263-nari-kids-park-kaitou-sentai-lupinranger-vs-keisatsu-sentai-patoranger.json) |
 | Nari Kids Park: Ultraman R/B | 109264 | [109264-nari-kids-park-ultraman-r-b.json](./109264-nari-kids-park-ultraman-r-b.json) |
 | Naribikimura | 311114 | [311114-naribikimura.json](./311114-naribikimura.json) |
+| Narin: The Orange Room | 206317 | [206317-narin-the-orange-room.json](./206317-narin-the-orange-room.json) |
 | Narinig Mo Ba? | 416098 | [416098-narinig-mo-ba.json](./416098-narinig-mo-ba.json) |
 | Narisokonai Eiyuuden: Taiyou to Tsuki no Monogatari | 67878 | [67878-narisokonai-eiyuuden-taiyou-to-tsuki-no-monogatari.json](./67878-narisokonai-eiyuuden-taiyou-to-tsuki-no-monogatari.json) |
 | Narisokonai Snow White | 333413 | [333413-narisokonai-snow-white.json](./333413-narisokonai-snow-white.json) |
@@ -2234,6 +2235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Junk City | 258341 | [258341-neo-junk-city.json](./258341-neo-junk-city.json) |
 | Neo Mario Galaxy | 262669 | [262669-neo-mario-galaxy.json](./262669-neo-mario-galaxy.json) |
 | Neo Mo.co | 402467 | [402467-neo-mo-co.json](./402467-neo-mo-co.json) |
+| Neo Molkky VR | 206399 | [206399-neo-molkky-vr.json](./206399-neo-molkky-vr.json) |
 | Neo Monstrum: Origins | 209808 | [209808-neo-monstrum-origins.json](./209808-neo-monstrum-origins.json) |
 | Neo Mr. Do! | 39540 | [39540-neo-mr-do.json](./39540-neo-mr-do.json) |
 | Neo Mystery Bonus | 43979 | [43979-neo-mystery-bonus.json](./43979-neo-mystery-bonus.json) |
@@ -2633,6 +2635,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeoQuest | 229025 | [229025-neoquest.json](./229025-neoquest.json) |
 | NeoQuest II | 229026 | [229026-neoquest-ii.json](./229026-neoquest-ii.json) |
 | Neorude | 56360 | [56360-neorude.json](./56360-neorude.json) |
+| Neorude 2 | 206308 | [206308-neorude-2.json](./206308-neorude-2.json) |
+| Neorude: Kizamareta Monshou | 206311 | [206311-neorude-kizamareta-monshou.json](./206311-neorude-kizamareta-monshou.json) |
 | Neos Aires 2070: Sunday Comes First | 182753 | [182753-neos-aires-2070-sunday-comes-first.json](./182753-neos-aires-2070-sunday-comes-first.json) |
 | Neos VR | 125161 | [125161-neos-vr.json](./125161-neos-vr.json) |
 | Neosaurs | 197659 | [197659-neosaurs.json](./197659-neosaurs.json) |
@@ -5384,6 +5388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo Mini Classics: Tetris | 203115 | [203115-nintendo-mini-classics-tetris.json](./203115-nintendo-mini-classics-tetris.json) |
 | Nintendo Mini Classics: The Smurfs | 206378 | [206378-nintendo-mini-classics-the-smurfs.json](./206378-nintendo-mini-classics-the-smurfs.json) |
 | Nintendo Mini Classics: UEFA Euro 2008 | 206389 | [206389-nintendo-mini-classics-uefa-euro-2008.json](./206389-nintendo-mini-classics-uefa-euro-2008.json) |
+| Nintendo Mini Classics: Yu-Gi-Oh! | 206390 | [206390-nintendo-mini-classics-yu-gi-oh.json](./206390-nintendo-mini-classics-yu-gi-oh.json) |
 | Nintendo Mini Classics: Zelda | 206370 | [206370-nintendo-mini-classics-zelda.json](./206370-nintendo-mini-classics-zelda.json) |
 | Nintendo MP3 Player | 300369 | [300369-nintendo-mp3-player.json](./300369-nintendo-mp3-player.json) |
 | Nintendo Nightmare Deluxe | 313341 | [313341-nintendo-nightmare-deluxe.json](./313341-nintendo-nightmare-deluxe.json) |
