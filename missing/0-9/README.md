@@ -2753,6 +2753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4am | 413418 | [413418-4am.json](./413418-4am.json) |
 | 4Below | 389691 | [389691-4below.json](./389691-4below.json) |
 | 4Blox | 365466 | [365466-4blox.json](./365466-4blox.json) |
+| 4D Chess | 197969 | [197969-4d-chess.json](./197969-4d-chess.json) |
 | 4D Games | 266077 | [266077-4d-games.json](./266077-4d-games.json) |
 | 4D Golf | 219511 | [219511-4d-golf.json](./219511-4d-golf.json) |
 | 4D Miner | 203052 | [203052-4d-miner.json](./203052-4d-miner.json) |
