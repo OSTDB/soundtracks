@@ -1863,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Simulator | 150278 | [150278-zombie-simulator.json](./150278-zombie-simulator.json) |
 | Zombie Skape | 84968 | [84968-zombie-skape.json](./84968-zombie-skape.json) |
 | Zombie Slapper | 220648 | [220648-zombie-slapper.json](./220648-zombie-slapper.json) |
+| Zombie Slaughter VR | 199696 | [199696-zombie-slaughter-vr.json](./199696-zombie-slaughter-vr.json) |
 | Zombie Slaughter: Dead Zone | 317882 | [317882-zombie-slaughter-dead-zone.json](./317882-zombie-slaughter-dead-zone.json) |
 | Zombie Slayer | 166713 | [166713-zombie-slayer.json](./166713-zombie-slayer.json) |
 | Zombie Slayer Diox | 84967 | [84967-zombie-slayer-diox.json](./84967-zombie-slayer-diox.json) |
