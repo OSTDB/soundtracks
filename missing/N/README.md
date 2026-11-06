@@ -858,6 +858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nasty Nines | 103843 | [103843-nasty-nines.json](./103843-nasty-nines.json) |
 | Nasty Rogue | 127573 | [127573-nasty-rogue.json](./127573-nasty-rogue.json) |
 | Nasty Rogue 2 | 264695 | [264695-nasty-rogue-2.json](./264695-nasty-rogue-2.json) |
+| Nasu Pinball | 225438 | [225438-nasu-pinball.json](./225438-nasu-pinball.json) |
 | Nasubi Room | 360622 | [360622-nasubi-room.json](./360622-nasubi-room.json) |
 | Nasway | 37434 | [37434-nasway.json](./37434-nasway.json) |
 | Nat Geo Challenge! Wild Life | 21573 | [21573-nat-geo-challenge-wild-life.json](./21573-nat-geo-challenge-wild-life.json) |
@@ -4326,6 +4327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Security | 245793 | [245793-night-security.json](./245793-night-security.json) |
 | Night Seeker | 378911 | [378911-night-seeker.json](./378911-night-seeker.json) |
 | Night Shift | 125262 | [125262-night-shift.json](./125262-night-shift.json) |
+| Night Shift | 225430 | [225430-night-shift.json](./225430-night-shift.json) |
 | Night Shift | 311609 | [311609-night-shift.json](./311609-night-shift.json) |
 | Night Shift | 376829 | [376829-night-shift.json](./376829-night-shift.json) |
 | Night Shift | 80254 | [80254-night-shift.json](./80254-night-shift.json) |
