@@ -2431,6 +2431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Polo | 346104 | [346104-water-polo.json](./346104-water-polo.json) |
 | Water Power | 261410 | [261410-water-power.json](./261410-water-power.json) |
 | Water Rain | 158077 | [158077-water-rain.json](./158077-water-rain.json) |
+| Water Rapids | 213709 | [213709-water-rapids.json](./213709-water-rapids.json) |
 | Water Search | 224753 | [224753-water-search.json](./224753-water-search.json) |
 | Water Ski | 117410 | [117410-water-ski.json](./117410-water-ski.json) |
 | Water Ski | 40712 | [40712-water-ski.json](./40712-water-ski.json) |
@@ -6764,6 +6765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizarducks and the Lost Hat | 287683 | [287683-wizarducks-and-the-lost-hat.json](./287683-wizarducks-and-the-lost-hat.json) |
 | WizardWare | 400983 | [400983-wizardware.json](./400983-wizardware.json) |
 | WizardWars.Online | 273763 | [273763-wizardwars-online.json](./273763-wizardwars-online.json) |
+| Wizarre | 213720 | [213720-wizarre.json](./213720-wizarre.json) |
 | Wizavior | 255392 | [255392-wizavior.json](./255392-wizavior.json) |
 | Wizball | 12234 | [12234-wizball.json](./12234-wizball.json) |
 | WizBall | 415127 | [415127-wizball.json](./415127-wizball.json) |
@@ -7266,6 +7268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodle Tree Adventures Deluxe | 122354 | [122354-woodle-tree-adventures-deluxe.json](./122354-woodle-tree-adventures-deluxe.json) |
 | Woodle Tree Bundle | 173795 | [173795-woodle-tree-bundle.json](./173795-woodle-tree-bundle.json) |
 | Woodo | 145078 | [145078-woodo.json](./145078-woodo.json) |
+| Woodoku | 213694 | [213694-woodoku.json](./213694-woodoku.json) |
 | Woodpecker | 63638 | [63638-woodpecker.json](./63638-woodpecker.json) |
 | Woodroid HD+ | 233742 | [233742-woodroid-hd.json](./233742-woodroid-hd.json) |
 | Woodrot | 357037 | [357037-woodrot.json](./357037-woodrot.json) |
@@ -7398,6 +7401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Cross - Word Cheese | 107582 | [107582-word-cross-word-cheese.json](./107582-word-cross-word-cheese.json) |
 | Word Cross Farm: Search Games | 100655 | [100655-word-cross-farm-search-games.json](./100655-word-cross-farm-search-games.json) |
 | Word Crossy: A crossword game | 88767 | [88767-word-crossy-a-crossword-game.json](./88767-word-crossy-a-crossword-game.json) |
+| Word Crush | 213689 | [213689-word-crush.json](./213689-word-crush.json) |
 | Word Crush | 78150 | [78150-word-crush.json](./78150-word-crush.json) |
 | Word Crush Hidden | 154911 | [154911-word-crush-hidden.json](./154911-word-crush-hidden.json) |
 | Word Crystal | 195197 | [195197-word-crystal.json](./195197-word-crystal.json) |
