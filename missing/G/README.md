@@ -860,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Enemies | 412066 | [412066-galaxy-enemies.json](./412066-galaxy-enemies.json) |
 | Galaxy Exodus | 420218 | [420218-galaxy-exodus.json](./420218-galaxy-exodus.json) |
 | Galaxy Express Chaldea | 339113 | [339113-galaxy-express-chaldea.json](./339113-galaxy-express-chaldea.json) |
+| Galaxy Feud | 245639 | [245639-galaxy-feud.json](./245639-galaxy-feud.json) |
 | Galaxy Fight Club | 198340 | [198340-galaxy-fight-club.json](./198340-galaxy-fight-club.json) |
 | Galaxy Fight: Universal Warriors | 39531 | [39531-galaxy-fight-universal-warriors.json](./39531-galaxy-fight-universal-warriors.json) |
 | Galaxy Fighter | 90526 | [90526-galaxy-fighter.json](./90526-galaxy-fighter.json) |
@@ -5545,6 +5546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goal 94 | 78065 | [78065-goal-94.json](./78065-goal-94.json) |
 | Goal and Crossbones | 178649 | [178649-goal-and-crossbones.json](./178649-goal-and-crossbones.json) |
 | Goal FH | 217879 | [217879-goal-fh.json](./217879-goal-fh.json) |
+| Goal Finger | 245631 | [245631-goal-finger.json](./245631-goal-finger.json) |
 | Goal II | 48286 | [48286-goal-ii.json](./48286-goal-ii.json) |
 | Goal IV | 339779 | [339779-goal-iv.json](./339779-goal-iv.json) |
 | Goal Keeper | 287519 | [287519-goal-keeper.json](./287519-goal-keeper.json) |
