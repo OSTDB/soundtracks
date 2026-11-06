@@ -1940,10 +1940,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa: No. 1 Striker | 385802 | [385802-captain-tsubasa-no-1-striker.json](./385802-captain-tsubasa-no-1-striker.json) |
 | Captain Tsubasa: Ougon Sedai no Chousen | 65166 | [65166-captain-tsubasa-ougon-sedai-no-chousen.json](./65166-captain-tsubasa-ougon-sedai-no-chousen.json) |
 | Captain Tsubasa: Rise of New Champions | 128769 | [128769-captain-tsubasa-rise-of-new-champions.json](./128769-captain-tsubasa-rise-of-new-champions.json) |
+| Captain Tsubasa: Rise of New Champions - Carlos Bara | 226546 | [226546-captain-tsubasa-rise-of-new-champions-carlos-bara.json](./226546-captain-tsubasa-rise-of-new-champions-carlos-bara.json) |
 | Captain Tsubasa: Rise of New Champions - Deluxe Edition | 136032 | [136032-captain-tsubasa-rise-of-new-champions-deluxe-edition.json](./136032-captain-tsubasa-rise-of-new-champions-deluxe-edition.json) |
 | Captain Tsubasa: Rise of New Champions - Deluxe Month 1 Edition | 139942 | [139942-captain-tsubasa-rise-of-new-champions-deluxe-month-1-edition.json](./139942-captain-tsubasa-rise-of-new-champions-deluxe-month-1-edition.json) |
 | Captain Tsubasa: Rise of New Champions - Digital Ultimate Edition | 267226 | [267226-captain-tsubasa-rise-of-new-champions-digital-ultimate-edition.json](./267226-captain-tsubasa-rise-of-new-champions-digital-ultimate-edition.json) |
 | Captain Tsubasa: Rise of New Champions - Juan Diaz Mission | 214543 | [214543-captain-tsubasa-rise-of-new-champions-juan-diaz-mission.json](./214543-captain-tsubasa-rise-of-new-champions-juan-diaz-mission.json) |
+| Captain Tsubasa: Rise of New Champions - Jun Misugi | 226547 | [226547-captain-tsubasa-rise-of-new-champions-jun-misugi.json](./226547-captain-tsubasa-rise-of-new-champions-jun-misugi.json) |
+| Captain Tsubasa: Rise of New Champions - Kojiro Hyuga | 226548 | [226548-captain-tsubasa-rise-of-new-champions-kojiro-hyuga.json](./226548-captain-tsubasa-rise-of-new-champions-kojiro-hyuga.json) |
 | Captain Tsubasa: Rise of New Champions - Special Edition | 139856 | [139856-captain-tsubasa-rise-of-new-champions-special-edition.json](./139856-captain-tsubasa-rise-of-new-champions-special-edition.json) |
 | Captain Tsubasa: Rise of New Champions - Tachibana Brothers Mission | 214542 | [214542-captain-tsubasa-rise-of-new-champions-tachibana-brothers-mission.json](./214542-captain-tsubasa-rise-of-new-champions-tachibana-brothers-mission.json) |
 | Captain Tsubasa: Rise of New Champions - Tsubasa Ozora Mission | 214544 | [214544-captain-tsubasa-rise-of-new-champions-tsubasa-ozora-mission.json](./214544-captain-tsubasa-rise-of-new-champions-tsubasa-ozora-mission.json) |
@@ -10848,6 +10851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CM-SS13 | 386923 | [386923-cm-ss13.json](./386923-cm-ss13.json) |
 | CM32 | 315571 | [315571-cm32.json](./315571-cm32.json) |
 | CMD 2048 | 107791 | [107791-cmd-2048.json](./107791-cmd-2048.json) |
+| Cmd Error | 226549 | [226549-cmd-error.json](./226549-cmd-error.json) |
 | Cmoar VR Cinema | 31318 | [31318-cmoar-vr-cinema.json](./31318-cmoar-vr-cinema.json) |
 | CMSR | 247124 | [247124-cmsr.json](./247124-cmsr.json) |
 | CMT Presents: Karaoke Revolution Country | 81142 | [81142-cmt-presents-karaoke-revolution-country.json](./81142-cmt-presents-karaoke-revolution-country.json) |
@@ -11093,6 +11097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Reactors | 330142 | [330142-code-reactors.json](./330142-code-reactors.json) |
 | Code Red | 101757 | [101757-code-red.json](./101757-code-red.json) |
 | Code Red | 224083 | [224083-code-red.json](./224083-code-red.json) |
+| Code Red | 226550 | [226550-code-red.json](./226550-code-red.json) |
 | Code Red | 292455 | [292455-code-red.json](./292455-code-red.json) |
 | Code Rivals | 211126 | [211126-code-rivals.json](./211126-code-rivals.json) |
 | Code Romantic | 105104 | [105104-code-romantic.json](./105104-code-romantic.json) |
@@ -19768,6 +19773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursorcana | 343240 | [343240-cursorcana.json](./343240-cursorcana.json) |
 | CursorLublub | 334207 | [334207-cursorlublub.json](./334207-cursorlublub.json) |
 | Cursors.io | 133703 | [133703-cursors-io.json](./133703-cursors-io.json) |
+| Curt Maddox | 226557 | [226557-curt-maddox.json](./226557-curt-maddox.json) |
 | Curtain | 159075 | [159075-curtain.json](./159075-curtain.json) |
 | Curtain Call | 197133 | [197133-curtain-call.json](./197133-curtain-call.json) |
 | Curtain Call | 319673 | [319673-curtain-call.json](./319673-curtain-call.json) |
