@@ -5703,6 +5703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoatUp | 93491 | [93491-goatup.json](./93491-goatup.json) |
 | GoatUp 2 | 22195 | [22195-goatup-2.json](./22195-goatup-2.json) |
 | Gob | 146080 | [146080-gob.json](./146080-gob.json) |
+| Gob | 214834 | [214834-gob.json](./214834-gob.json) |
 | Gob | 320129 | [320129-gob.json](./320129-gob.json) |
 | Gob | 415231 | [415231-gob.json](./415231-gob.json) |
 | Gob Johnson's Downhill Marmalade | 333169 | [333169-gob-johnsons-downhill-marmalade.json](./333169-gob-johnsons-downhill-marmalade.json) |
@@ -6342,6 +6343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Digger | 13723 | [13723-gold-digger.json](./13723-gold-digger.json) |
 | Gold Digger | 147994 | [147994-gold-digger.json](./147994-gold-digger.json) |
 | Gold Digger Maze | 105380 | [105380-gold-digger-maze.json](./105380-gold-digger-maze.json) |
+| Gold Digger: The Lost Mines | 214811 | [214811-gold-digger-the-lost-mines.json](./214811-gold-digger-the-lost-mines.json) |
 | Gold Digger: The Simulator | 315835 | [315835-gold-digger-the-simulator.json](./315835-gold-digger-the-simulator.json) |
 | Gold Diggers | 155833 | [155833-gold-diggers.json](./155833-gold-diggers.json) |
 | Gold Drill | 215688 | [215688-gold-drill.json](./215688-gold-drill.json) |
@@ -10649,6 +10651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gummy Bears: Magical Medallion | 50628 | [50628-gummy-bears-magical-medallion.json](./50628-gummy-bears-magical-medallion.json) |
 | Gummy Drop! | 86822 | [86822-gummy-drop.json](./86822-gummy-drop.json) |
 | Gummy Invaders | 412945 | [412945-gummy-invaders.json](./412945-gummy-invaders.json) |
+| Gummy Jump | 214840 | [214840-gummy-jump.json](./214840-gummy-jump.json) |
 | Gummy Jump 2 | 321496 | [321496-gummy-jump-2.json](./321496-gummy-jump-2.json) |
 | Gummy Nightmares | 305743 | [305743-gummy-nightmares.json](./305743-gummy-nightmares.json) |
 | Gummy Slide | 251236 | [251236-gummy-slide.json](./251236-gummy-slide.json) |
