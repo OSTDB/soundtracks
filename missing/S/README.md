@@ -8770,6 +8770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shitsurensha Doumei | 411965 | [411965-shitsurensha-doumei.json](./411965-shitsurensha-doumei.json) |
 | Shitting Pigeon | 268244 | [268244-shitting-pigeon.json](./268244-shitting-pigeon.json) |
 | Shitty Cactus | 129450 | [129450-shitty-cactus.json](./129450-shitty-cactus.json) |
+| Shitty Fish: High Speed Combat Arena | 236064 | [236064-shitty-fish-high-speed-combat-arena.json](./236064-shitty-fish-high-speed-combat-arena.json) |
 | Shitty Game | 374645 | [374645-shitty-game.json](./374645-shitty-game.json) |
 | Shivah | 7418 | [7418-shivah.json](./7418-shivah.json) |
 | Shiver | 325717 | [325717-shiver.json](./325717-shiver.json) |
@@ -14168,6 +14169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smartphone | 418818 | [418818-smartphone.json](./418818-smartphone.json) |
 | Smartphone Tycoon 2 | 335809 | [335809-smartphone-tycoon-2.json](./335809-smartphone-tycoon-2.json) |
 | Smartplant | 336752 | [336752-smartplant.json](./336752-smartplant.json) |
+| SmartSoules | 236102 | [236102-smartsoules.json](./236102-smartsoules.json) |
 | Smartsquid | 243732 | [243732-smartsquid.json](./243732-smartsquid.json) |
 | Smarty | 130360 | [130360-smarty.json](./130360-smarty.json) |
 | Smarty Labs | 410999 | [410999-smarty-labs.json](./410999-smarty-labs.json) |
@@ -15291,6 +15293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Fight | 246543 | [246543-snow-fight.json](./246543-snow-fight.json) |
 | Snow Fight | 316096 | [316096-snow-fight.json](./316096-snow-fight.json) |
 | Snow Fighters | 151562 | [151562-snow-fighters.json](./151562-snow-fighters.json) |
+| Snow Folks | 236063 | [236063-snow-folks.json](./236063-snow-folks.json) |
 | Snow Forest | 352295 | [352295-snow-forest.json](./352295-snow-forest.json) |
 | Snow Fortress | 26592 | [26592-snow-fortress.json](./26592-snow-fortress.json) |
 | Snow Fortress 2 | 258592 | [258592-snow-fortress-2.json](./258592-snow-fortress-2.json) |
@@ -19424,6 +19427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
