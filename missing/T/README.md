@@ -682,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails on Lost Lands | 334729 | [334729-tails-on-lost-lands.json](./334729-tails-on-lost-lands.json) |
 | Tails Quest 2: A Tale of Love | 246729 | [246729-tails-quest-2-a-tale-of-love.json](./246729-tails-quest-2-a-tale-of-love.json) |
 | Tails Race | 246728 | [246728-tails-race.json](./246728-tails-race.json) |
+| Tails Sky Adventure | 198601 | [198601-tails-sky-adventure.json](./198601-tails-sky-adventure.json) |
 | Tails to the Rescue | 330308 | [330308-tails-to-the-rescue.json](./330308-tails-to-the-rescue.json) |
 | Tails: Cosmic Rush 2.0 | 332459 | [332459-tails-cosmic-rush-2-0.json](./332459-tails-cosmic-rush-2-0.json) |
 | Tails: The Game | 330706 | [330706-tails-the-game.json](./330706-tails-the-game.json) |
@@ -690,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails' Nightmare | 278076 | [278076-tails-nightmare.json](./278076-tails-nightmare.json) |
 | Tails' Nightmare 2 | 307584 | [307584-tails-nightmare-2.json](./307584-tails-nightmare-2.json) |
 | Tails' Picross | 321400 | [321400-tails-picross.json](./321400-tails-picross.json) |
+| Tails' Skypatrol | 198593 | [198593-tails-skypatrol.json](./198593-tails-skypatrol.json) |
 | Tails' Skypatrol | 45796 | [45796-tails-skypatrol.json](./45796-tails-skypatrol.json) |
 | Tails' Skypatrol GG2SMS | 308197 | [308197-tails-skypatrol-gg2sms.json](./308197-tails-skypatrol-gg2sms.json) |
 | TailScape: The corgi’s Advendture | 325836 | [325836-tailscape-the-corgi-s-advendture.json](./325836-tailscape-the-corgi-s-advendture.json) |
@@ -20628,6 +20630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder and Line-ing | 389707 | [389707-thunder-and-line-ing.json](./389707-thunder-and-line-ing.json) |
 | Thunder Bella the Cloud Chaser | 183186 | [183186-thunder-bella-the-cloud-chaser.json](./183186-thunder-bella-the-cloud-chaser.json) |
 | Thunder Blade | 12862 | [12862-thunder-blade.json](./12862-thunder-blade.json) |
+| Thunder Blade | 198620 | [198620-thunder-blade.json](./198620-thunder-blade.json) |
 | Thunder Blast Man | 50057 | [50057-thunder-blast-man.json](./50057-thunder-blast-man.json) |
 | Thunder Blaster Man | 48463 | [48463-thunder-blaster-man.json](./48463-thunder-blaster-man.json) |
 | Thunder Boy | 55186 | [55186-thunder-boy.json](./55186-thunder-boy.json) |
