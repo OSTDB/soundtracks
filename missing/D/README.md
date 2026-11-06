@@ -6421,6 +6421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Ultimate Edition | 270470 | [270470-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-ultimate-edition.json](./270470-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-ultimate-edition.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Zenitsu Agatsuma (Infinity Castle) Character Pack | 376257 | [376257-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-zenitsu-agatsuma-infinity-castle-character-pack.json](./376257-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-zenitsu-agatsuma-infinity-castle-character-pack.json) |
 | Demon Source | 168586 | [168586-demon-source.json](./168586-demon-source.json) |
+| Demon Speakeasy | 242337 | [242337-demon-speakeasy.json](./242337-demon-speakeasy.json) |
 | Demon Spore | 190422 | [190422-demon-spore.json](./190422-demon-spore.json) |
 | Demon Stalkers | 54711 | [54711-demon-stalkers.json](./54711-demon-stalkers.json) |
 | Demon Stick | 376051 | [376051-demon-stick.json](./376051-demon-stick.json) |
@@ -17619,6 +17620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dune II: The Building of a Dynasty | 86 | [86-dune-ii-the-building-of-a-dynasty.json](./86-dune-ii-the-building-of-a-dynasty.json) |
 | Dune Legacy | 134535 | [134535-dune-legacy.json](./134535-dune-legacy.json) |
 | Dune MUD | 228880 | [228880-dune-mud.json](./228880-dune-mud.json) |
+| Dune of the Desert | 242334 | [242334-dune-of-the-desert.json](./242334-dune-of-the-desert.json) |
 | Dune Raider | 377839 | [377839-dune-raider.json](./377839-dune-raider.json) |
 | Dune Rider | 13710 | [13710-dune-rider.json](./13710-dune-rider.json) |
 | Dune Sea | 120414 | [120414-dune-sea.json](./120414-dune-sea.json) |
