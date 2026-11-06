@@ -4831,6 +4831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightfire Defense | 207585 | [207585-lightfire-defense.json](./207585-lightfire-defense.json) |
 | Lightfish | 16271 | [16271-lightfish.json](./16271-lightfish.json) |
 | Lightforce | 28823 | [28823-lightforce.json](./28823-lightforce.json) |
+| Lightforce Ninja | 218193 | [218193-lightforce-ninja.json](./218193-lightforce-ninja.json) |
 | Lightform | 81633 | [81633-lightform.json](./81633-lightform.json) |
 | LightGone | 294374 | [294374-lightgone.json](./294374-lightgone.json) |
 | Lighthaze World | 197264 | [197264-lighthaze-world.json](./197264-lighthaze-world.json) |
