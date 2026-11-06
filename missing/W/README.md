@@ -5209,6 +5209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Unknown | 29472 | [29472-wild-unknown.json](./29472-wild-unknown.json) |
 | Wild Varmint Bounty Hunter | 118220 | [118220-wild-varmint-bounty-hunter.json](./118220-wild-varmint-bounty-hunter.json) |
 | Wild Warfare | 17598 | [17598-wild-warfare.json](./17598-wild-warfare.json) |
+| Wild Water Adrenaline featuring Salomon | 218799 | [218799-wild-water-adrenaline-featuring-salomon.json](./218799-wild-water-adrenaline-featuring-salomon.json) |
 | Wild Web | 359553 | [359553-wild-web.json](./359553-wild-web.json) |
 | Wild West | 187144 | [187144-wild-west.json](./187144-wild-west.json) |
 | Wild West | 215648 | [215648-wild-west.json](./215648-wild-west.json) |
