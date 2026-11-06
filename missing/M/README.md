@@ -14501,6 +14501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobius | 104646 | [104646-mobius.json](./104646-mobius.json) |
 | Mobius Band | 217491 | [217491-mobius-band.json](./217491-mobius-band.json) |
 | Möbius Drive | 408867 | [408867-mobius-drive.json](./408867-mobius-drive.json) |
+| Mobius Evolution | 198574 | [198574-mobius-evolution.json](./198574-mobius-evolution.json) |
 | Mobius Final Fantasy | 21628 | [21628-mobius-final-fantasy.json](./21628-mobius-final-fantasy.json) |
 | Mobius Final Fantasy: Warrior of Despair | 259336 | [259336-mobius-final-fantasy-warrior-of-despair.json](./259336-mobius-final-fantasy-warrior-of-despair.json) |
 | Möbius Front '83 | 140436 | [140436-mobius-front-83.json](./140436-mobius-front-83.json) |
