@@ -454,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oceanarium Fishing | 390067 | [390067-oceanarium-fishing.json](./390067-oceanarium-fishing.json) |
 | Oceanarium World | 291549 | [291549-oceanarium-world.json](./291549-oceanarium-world.json) |
 | Oceanborn : Survival on Raft | 102255 | [102255-oceanborn-survival-on-raft.json](./102255-oceanborn-survival-on-raft.json) |
+| Oceancatch | 235562 | [235562-oceancatch.json](./235562-oceancatch.json) |
 | OceanCraft | 156955 | [156955-oceancraft.json](./156955-oceancraft.json) |
 | OceanDive | 94369 | [94369-oceandive.json](./94369-oceandive.json) |
 | Oceanhorn | 22117 | [22117-oceanhorn.json](./22117-oceanhorn.json) |
@@ -941,6 +942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Fever | 223993 | [223993-office-fever.json](./223993-office-fever.json) |
 | Office Fight | 270963 | [270963-office-fight.json](./270963-office-fight.json) |
 | Office Freakout | 25107 | [25107-office-freakout.json](./25107-office-freakout.json) |
+| Office Girls and Games | 235568 | [235568-office-girls-and-games.json](./235568-office-girls-and-games.json) |
 | Office Hero | 382516 | [382516-office-hero.json](./382516-office-hero.json) |
 | Office Hours | 403076 | [403076-office-hours.json](./403076-office-hours.json) |
 | Office Hurdles | 268019 | [268019-office-hurdles.json](./268019-office-hurdles.json) |
@@ -1887,6 +1889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMSI 2: Citybus O305G | 155153 | [155153-omsi-2-citybus-o305g.json](./155153-omsi-2-citybus-o305g.json) |
 | OMSI 2: Citybus o530 | 286545 | [286545-omsi-2-citybus-o530.json](./286545-omsi-2-citybus-o530.json) |
 | OMSI 2: Citybus S31X | 213326 | [213326-omsi-2-citybus-s31x.json](./213326-omsi-2-citybus-s31x.json) |
+| Omsi 2: Coach O560 Series | 235543 | [235543-omsi-2-coach-o560-series.json](./235543-omsi-2-coach-o560-series.json) |
 | OMSI 2: Coachbus 250Next | 174139 | [174139-omsi-2-coachbus-250next.json](./174139-omsi-2-coachbus-250next.json) |
 | Omsi 2: Digibus Mirage | 235831 | [235831-omsi-2-digibus-mirage.json](./235831-omsi-2-digibus-mirage.json) |
 | OMSI 2: Digibus Phantom | 155114 | [155114-omsi-2-digibus-phantom.json](./155114-omsi-2-digibus-phantom.json) |
@@ -2648,6 +2651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Synth | 114059 | [114059-one-synth.json](./114059-one-synth.json) |
 | One Tank to Rule Them All | 86333 | [86333-one-tank-to-rule-them-all.json](./86333-one-tank-to-rule-them-all.json) |
 | One Tap | 265239 | [265239-one-tap.json](./265239-one-tap.json) |
+| One Tap Golf VR | 235566 | [235566-one-tap-golf-vr.json](./235566-one-tap-golf-vr.json) |
 | One Tap Rally | 237736 | [237736-one-tap-rally.json](./237736-one-tap-rally.json) |
 | One Thousand and One Days | 182969 | [182969-one-thousand-and-one-days.json](./182969-one-thousand-and-one-days.json) |
 | One Thousand and One Nights | 264222 | [264222-one-thousand-and-one-nights.json](./264222-one-thousand-and-one-nights.json) |
@@ -5883,6 +5887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ozymandias: Aegean Sea | 235986 | [235986-ozymandias-aegean-sea.json](./235986-ozymandias-aegean-sea.json) |
 | Ozymandias: Complete Edition | 378858 | [378858-ozymandias-complete-edition.json](./378858-ozymandias-complete-edition.json) |
 | Ozymandias: Deluxe Edition | 259524 | [259524-ozymandias-deluxe-edition.json](./259524-ozymandias-deluxe-edition.json) |
+| Ozymandias: Indonesia | 235555 | [235555-ozymandias-indonesia.json](./235555-ozymandias-indonesia.json) |
 | Ozymandias: Mesoamerica | 232436 | [232436-ozymandias-mesoamerica.json](./232436-ozymandias-mesoamerica.json) |
 | Ozymandias: The Andes | 236800 | [236800-ozymandias-the-andes.json](./236800-ozymandias-the-andes.json) |
 | Ozymandias: The World | 236446 | [236446-ozymandias-the-world.json](./236446-ozymandias-the-world.json) |
