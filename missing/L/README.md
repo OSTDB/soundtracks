@@ -2803,6 +2803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends Esport Manager | 348765 | [348765-legends-esport-manager.json](./348765-legends-esport-manager.json) |
 | Legends Flashback Blast! | 245653 | [245653-legends-flashback-blast.json](./245653-legends-flashback-blast.json) |
 | Legends from Lacoytas: The First Seeker | 201556 | [201556-legends-from-lacoytas-the-first-seeker.json](./201556-legends-from-lacoytas-the-first-seeker.json) |
+| Legends Mod | 233842 | [233842-legends-mod.json](./233842-legends-mod.json) |
 | Legends of 100 Heroes | 174669 | [174669-legends-of-100-heroes.json](./174669-legends-of-100-heroes.json) |
 | Legends of Aden | 298674 | [298674-legends-of-aden.json](./298674-legends-of-aden.json) |
 | Legends of Aethereus | 10509 | [10509-legends-of-aethereus.json](./10509-legends-of-aethereus.json) |
@@ -4343,6 +4344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lidar Survival | 253917 | [253917-lidar-survival.json](./253917-lidar-survival.json) |
 | Lidar.exe | 213883 | [213883-lidar-exe.json](./213883-lidar-exe.json) |
 | LiDiA | 142147 | [142147-lidia.json](./142147-lidia.json) |
+| Lido: The Puzzle Hero | 233878 | [233878-lido-the-puzzle-hero.json](./233878-lido-the-puzzle-hero.json) |
 | Lidraughts | 321663 | [321663-lidraughts.json](./321663-lidraughts.json) |
 | Lie of Caelum | 225209 | [225209-lie-of-caelum.json](./225209-lie-of-caelum.json) |
 | Lie of Caelum: Spirit | 238834 | [238834-lie-of-caelum-spirit.json](./238834-lie-of-caelum-spirit.json) |
@@ -4582,6 +4584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifeline: Halfway to Infinity | 56888 | [56888-lifeline-halfway-to-infinity.json](./56888-lifeline-halfway-to-infinity.json) |
 | Lifeline: Silent Night | 39254 | [39254-lifeline-silent-night.json](./39254-lifeline-silent-night.json) |
 | Lifeline: Whiteout | 57911 | [57911-lifeline-whiteout.json](./57911-lifeline-whiteout.json) |
+| Lifeline: Whiteout 2 | 233833 | [233833-lifeline-whiteout-2.json](./233833-lifeline-whiteout-2.json) |
 | Lifelong | 262851 | [262851-lifelong.json](./262851-lifelong.json) |
 | LifePaths | 414351 | [414351-lifepaths.json](./414351-lifepaths.json) |
 | Liferaft: Zero | 56329 | [56329-liferaft-zero.json](./56329-liferaft-zero.json) |
