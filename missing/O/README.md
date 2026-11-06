@@ -2832,6 +2832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OnePiece Puzzles | 118887 | [118887-onepiece-puzzles.json](./118887-onepiece-puzzles.json) |
 | OneRoom | 375930 | [375930-oneroom.json](./375930-oneroom.json) |
 | Ones and Zeroes | 104813 | [104813-ones-and-zeroes.json](./104813-ones-and-zeroes.json) |
+| Ones! | 200249 | [200249-ones.json](./200249-ones.json) |
 | Ones! | 232385 | [232385-ones.json](./232385-ones.json) |
 | OneSamurai: Dusk | 58096 | [58096-onesamurai-dusk.json](./58096-onesamurai-dusk.json) |
 | onEscapee | 93044 | [93044-onescapee.json](./93044-onescapee.json) |
