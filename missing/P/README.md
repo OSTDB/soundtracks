@@ -532,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Packs World 2 | 98826 | [98826-packs-world-2.json](./98826-packs-world-2.json) |
 | Packy & Marlon | 42475 | [42475-packy-and-marlon.json](./42475-packy-and-marlon.json) |
 | PacMac Deluxe | 146224 | [146224-pacmac-deluxe.json](./146224-pacmac-deluxe.json) |
+| Pacmaga | 214249 | [214249-pacmaga.json](./214249-pacmaga.json) |
 | Pacmaga 2 | 217916 | [217916-pacmaga-2.json](./217916-pacmaga-2.json) |
 | Pacman Club | 289882 | [289882-pacman-club.json](./289882-pacman-club.json) |
 | Pacman Cube | 230500 | [230500-pacman-cube.json](./230500-pacman-cube.json) |
@@ -3504,6 +3505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PBA Bowling 2 | 94674 | [94674-pba-bowling-2.json](./94674-pba-bowling-2.json) |
 | PBA Bowling Challenge | 88864 | [88864-pba-bowling-challenge.json](./88864-pba-bowling-challenge.json) |
 | PBA Pro Bowling 2021 | 142172 | [142172-pba-pro-bowling-2021.json](./142172-pba-pro-bowling-2021.json) |
+| PBA Pro Bowling 2023 | 214247 | [214247-pba-pro-bowling-2023.json](./214247-pba-pro-bowling-2023.json) |
 | PBA Pro Bowling 2026 | 369592 | [369592-pba-pro-bowling-2026.json](./369592-pba-pro-bowling-2026.json) |
 | PBA Pro Bowling 2027 | 416842 | [416842-pba-pro-bowling-2027.json](./416842-pba-pro-bowling-2027.json) |
 | PBA Tour Bowling 2001 | 92946 | [92946-pba-tour-bowling-2001.json](./92946-pba-tour-bowling-2001.json) |
@@ -4112,6 +4114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penrose | 219368 | [219368-penrose.json](./219368-penrose.json) |
 | Penrose | 262681 | [262681-penrose.json](./262681-penrose.json) |
 | Penroses | 181880 | [181880-penroses.json](./181880-penroses.json) |
+| Pens: Ballad of the Erasers | 214271 | [214271-pens-ballad-of-the-erasers.json](./214271-pens-ballad-of-the-erasers.json) |
 | Pensate | 117025 | [117025-pensate.json](./117025-pensate.json) |
 | Pense Bem | 230665 | [230665-pense-bem.json](./230665-pense-bem.json) |
 | Pense Bem | 305889 | [305889-pense-bem.json](./305889-pense-bem.json) |
@@ -11353,6 +11356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Sacred Gold | 145626 | [145626-pokemon-sacred-gold.json](./145626-pokemon-sacred-gold.json) |
 | Pokèmon Saffron Version | 401292 | [401292-pokemon-saffron-version.json](./401292-pokemon-saffron-version.json) |
 | Pokémon Sage | 250200 | [250200-pokemon-sage.json](./250200-pokemon-sage.json) |
+| Pokémon Saiph | 214220 | [214220-pokemon-saiph.json](./214220-pokemon-saiph.json) |
 | Pokemon Saiph 2 | 272886 | [272886-pokemon-saiph-2.json](./272886-pokemon-saiph-2.json) |
 | Pokémon Sapphire Version | 342998 | [342998-pokemon-sapphire-version.json](./342998-pokemon-sapphire-version.json) |
 | Pokémon Sapphire Version | 355533 | [355533-pokemon-sapphire-version.json](./355533-pokemon-sapphire-version.json) |
@@ -11386,6 +11390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Sodateyasan Mini | 92306 | [92306-pokemon-sodateyasan-mini.json](./92306-pokemon-sodateyasan-mini.json) |
 | Pokémon Solar Eclipse | 399594 | [399594-pokemon-solar-eclipse.json](./399594-pokemon-solar-eclipse.json) |
 | Pokémon Sombras de Arceus | 314718 | [314718-pokemon-sombras-de-arceus.json](./314718-pokemon-sombras-de-arceus.json) |
+| Pokémon Sors | 214221 | [214221-pokemon-sors.json](./214221-pokemon-sors.json) |
 | Pokémon Sors 2 | 360194 | [360194-pokemon-sors-2.json](./360194-pokemon-sors-2.json) |
 | Pokémon SoulGold | 414034 | [414034-pokemon-soulgold.json](./414034-pokemon-soulgold.json) |
 | Pokémon Soulstones | 221276 | [221276-pokemon-soulstones.json](./221276-pokemon-soulstones.json) |
@@ -14059,6 +14064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Agent | 311561 | [311561-pretty-agent.json](./311561-pretty-agent.json) |
 | Pretty Angel | 127092 | [127092-pretty-angel.json](./127092-pretty-angel.json) |
 | Pretty Ballerina Dancer | 87015 | [87015-pretty-ballerina-dancer.json](./87015-pretty-ballerina-dancer.json) |
+| Pretty Bird | 214248 | [214248-pretty-bird.json](./214248-pretty-bird.json) |
 | Pretty Bird 2 | 216309 | [216309-pretty-bird-2.json](./216309-pretty-bird-2.json) |
 | Pretty Bird 3 | 217810 | [217810-pretty-bird-3.json](./217810-pretty-bird-3.json) |
 | Pretty Bird 4 | 217811 | [217811-pretty-bird-4.json](./217811-pretty-bird-4.json) |
