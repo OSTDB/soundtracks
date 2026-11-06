@@ -2085,6 +2085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tano's Fate | 104932 | [104932-tanos-fate.json](./104932-tanos-fate.json) |
 | Tanokai Chapter 1 | 178571 | [178571-tanokai-chapter-1.json](./178571-tanokai-chapter-1.json) |
 | Tanoth | 52019 | [52019-tanoth.json](./52019-tanoth.json) |
+| Tanques! | 230671 | [230671-tanques.json](./230671-tanques.json) |
 | Tansaikigou: Sec Life, Monochrome Cube | 376603 | [376603-tansaikigou-sec-life-monochrome-cube.json](./376603-tansaikigou-sec-life-monochrome-cube.json) |
 | Tansaki Katamichi no Uchuu Tansaku | 206453 | [206453-tansaki-katamichi-no-uchuu-tansaku.json](./206453-tansaki-katamichi-no-uchuu-tansaku.json) |
 | Tǎnshuài de Xiǎohóngmào hé Ài Shuōhuǎng de Láng | 128330 | [128330-tanshuai-de-xiaohongmao-he-ai-shuohuang-de-lang.json](./128330-tanshuai-de-xiaohongmao-he-ai-shuohuang-de-lang.json) |
@@ -9702,6 +9703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Frog Game | 156823 | [156823-the-frog-game.json](./156823-the-frog-game.json) |
 | The Frog Game Amazing Simulator | 100861 | [100861-the-frog-game-amazing-simulator.json](./100861-the-frog-game-amazing-simulator.json) |
 | The Frog Prince | 149224 | [149224-the-frog-prince.json](./149224-the-frog-prince.json) |
+| The Frog Prince | 230635 | [230635-the-frog-prince.json](./230635-the-frog-prince.json) |
 | The Frog That Leapt Too Far | 381667 | [381667-the-frog-that-leapt-too-far.json](./381667-the-frog-that-leapt-too-far.json) |
 | The Frog’s Adventure | 401538 | [401538-the-frog-s-adventure.json](./401538-the-frog-s-adventure.json) |
 | The Froglings | 338305 | [338305-the-froglings.json](./338305-the-froglings.json) |
@@ -23051,6 +23053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Chills: Not From Ear | 395024 | [395024-tiny-chills-not-from-ear.json](./395024-tiny-chills-not-from-ear.json) |
 | Tiny Circuits | 347448 | [347448-tiny-circuits.json](./347448-tiny-circuits.json) |
 | Tiny Circumstance | 296209 | [296209-tiny-circumstance.json](./296209-tiny-circumstance.json) |
+| Tiny Civilization | 230647 | [230647-tiny-civilization.json](./230647-tiny-civilization.json) |
 | Tiny Clusters | 177477 | [177477-tiny-clusters.json](./177477-tiny-clusters.json) |
 | Tiny Combat Arcade | 184867 | [184867-tiny-combat-arcade.json](./184867-tiny-combat-arcade.json) |
 | Tiny Combat Arena | 154015 | [154015-tiny-combat-arena.json](./154015-tiny-combat-arena.json) |
