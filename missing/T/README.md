@@ -5007,6 +5007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetsujin 28-gou | 37474 | [37474-tetsujin-28-gou.json](./37474-tetsujin-28-gou.json) |
 | Tetsujin 28-Gou | 227116 | [227116-tetsujin-28-gou.json](./227116-tetsujin-28-gou.json) |
 | Tetsujou no Reigyo | 395110 | [395110-tetsujou-no-reigyo.json](./395110-tetsujou-no-reigyo.json) |
+| Tetsuman Gaiden | 242861 | [242861-tetsuman-gaiden.json](./242861-tetsuman-gaiden.json) |
 | Tetsumi Mahjong | 266004 | [266004-tetsumi-mahjong.json](./266004-tetsumi-mahjong.json) |
 | Tetsumo Party | 119554 | [119554-tetsumo-party.json](./119554-tetsumo-party.json) |
 | Tetsuo Gaiden | 46565 | [46565-tetsuo-gaiden.json](./46565-tetsuo-gaiden.json) |
@@ -8419,6 +8420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dream Machine: The Definitive Edition | 400858 | [400858-the-dream-machine-the-definitive-edition.json](./400858-the-dream-machine-the-definitive-edition.json) |
 | The Dream Observatory | 318148 | [318148-the-dream-observatory.json](./318148-the-dream-observatory.json) |
 | The Dream Of A Cockspur | 276570 | [276570-the-dream-of-a-cockspur.json](./276570-the-dream-of-a-cockspur.json) |
+| The Dream of Cocoon | 242881 | [242881-the-dream-of-cocoon.json](./242881-the-dream-of-cocoon.json) |
 | The Dream of Shadowlands | 142170 | [142170-the-dream-of-shadowlands.json](./142170-the-dream-of-shadowlands.json) |
 | The Dream of Shadowlands: Episode 2 | 174071 | [174071-the-dream-of-shadowlands-episode-2.json](./174071-the-dream-of-shadowlands-episode-2.json) |
 | The Dream of the Limbo | 298601 | [298601-the-dream-of-the-limbo.json](./298601-the-dream-of-the-limbo.json) |
@@ -12797,6 +12799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Line TD | 275335 | [275335-the-line-td.json](./275335-the-line-td.json) |
 | The Line Zen | 295977 | [295977-the-line-zen.json](./295977-the-line-zen.json) |
 | The Line: The Other Path | 171345 | [171345-the-line-the-other-path.json](./171345-the-line-the-other-path.json) |
+| The Linear RPG | 242870 | [242870-the-linear-rpg.json](./242870-the-linear-rpg.json) |
 | The Lingering: Graveyard Visit | 350804 | [350804-the-lingering-graveyard-visit.json](./350804-the-lingering-graveyard-visit.json) |
 | The Lingering: Last Customer | 336532 | [336532-the-lingering-last-customer.json](./336532-the-lingering-last-customer.json) |
 | The Links at Spanish Bay: PGA Tour 96 Championship Course | 206632 | [206632-the-links-at-spanish-bay-pga-tour-96-championship-course.json](./206632-the-links-at-spanish-bay-pga-tour-96-championship-course.json) |
@@ -14605,6 +14608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Penguins of Madagascar: Mission Madness | 231385 | [231385-the-penguins-of-madagascar-mission-madness.json](./231385-the-penguins-of-madagascar-mission-madness.json) |
 | The Penguins of Madagascar: Operation Plushy Rescue | 230396 | [230396-the-penguins-of-madagascar-operation-plushy-rescue.json](./230396-the-penguins-of-madagascar-operation-plushy-rescue.json) |
 | The Penguins of Madagascar: Race for 1st Place! | 138067 | [138067-the-penguins-of-madagascar-race-for-1st-place.json](./138067-the-penguins-of-madagascar-race-for-1st-place.json) |
+| The Penguins of Madagascar: The Helmet | 242848 | [242848-the-penguins-of-madagascar-the-helmet.json](./242848-the-penguins-of-madagascar-the-helmet.json) |
 | The Penjikent Creature | 288036 | [288036-the-penjikent-creature.json](./288036-the-penjikent-creature.json) |
 | The Pentest | 220509 | [220509-the-pentest.json](./220509-the-pentest.json) |
 | The Penumbra Collection | 51891 | [51891-the-penumbra-collection.json](./51891-the-penumbra-collection.json) |
@@ -17553,6 +17557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of Mimi | 338770 | [338770-the-tower-of-mimi.json](./338770-the-tower-of-mimi.json) |
 | The Tower of Muuda | 232105 | [232105-the-tower-of-muuda.json](./232105-the-tower-of-muuda.json) |
 | The Tower of Shadows | 347232 | [347232-the-tower-of-shadows.json](./347232-the-tower-of-shadows.json) |
+| The Tower of Silka | 242889 | [242889-the-tower-of-silka.json](./242889-the-tower-of-silka.json) |
 | The Tower of the Elephant | 146199 | [146199-the-tower-of-the-elephant.json](./146199-the-tower-of-the-elephant.json) |
 | The Tower Of The Gods | 329981 | [329981-the-tower-of-the-gods.json](./329981-the-tower-of-the-gods.json) |
 | The Tower of the Spells | 257456 | [257456-the-tower-of-the-spells.json](./257456-the-tower-of-the-spells.json) |
