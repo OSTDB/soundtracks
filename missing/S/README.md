@@ -1812,6 +1812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Gamepaper | 340664 | [340664-santa-gamepaper.json](./340664-santa-gamepaper.json) |
 | Santa Gift Master | 293312 | [293312-santa-gift-master.json](./293312-santa-gift-master.json) |
 | Santa Girl | 384587 | [384587-santa-girl.json](./384587-santa-girl.json) |
+| Santa Goes Skiing | 239440 | [239440-santa-goes-skiing.json](./239440-santa-goes-skiing.json) |
 | Santa Holiday Puzzle | 379395 | [379395-santa-holiday-puzzle.json](./379395-santa-holiday-puzzle.json) |
 | Santa in search of toys | 113691 | [113691-santa-in-search-of-toys.json](./113691-santa-in-search-of-toys.json) |
 | Santa in the Ucube City | 282420 | [282420-santa-in-the-ucube-city.json](./282420-santa-in-the-ucube-city.json) |
@@ -5476,6 +5477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sensei, Issho ni Kitekuremasu ka? | 285876 | [285876-sensei-issho-ni-kitekuremasu-ka.json](./285876-sensei-issho-ni-kitekuremasu-ka.json) |
 | Sensei! I Like You So Much! | 303953 | [303953-sensei-i-like-you-so-much.json](./303953-sensei-i-like-you-so-much.json) |
 | Senseless | 312725 | [312725-senseless.json](./312725-senseless.json) |
+| SenSense | 239414 | [239414-sensense.json](./239414-sensense.json) |
 | Senses in Decay | 259432 | [259432-senses-in-decay.json](./259432-senses-in-decay.json) |
 | Senses: Midnight | 153980 | [153980-senses-midnight.json](./153980-senses-midnight.json) |
 | Sensha SP | 222290 | [222290-sensha-sp.json](./222290-sensha-sp.json) |
@@ -14740,6 +14742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Vs Colours | 108446 | [108446-snake-vs-colours.json](./108446-snake-vs-colours.json) |
 | Snake vs Snake | 110801 | [110801-snake-vs-snake.json](./110801-snake-vs-snake.json) |
 | Snake vs. Block | 54619 | [54619-snake-vs-block.json](./54619-snake-vs-block.json) |
+| Snake Walk | 239422 | [239422-snake-walk.json](./239422-snake-walk.json) |
 | Snake Warriors: Training | 118913 | [118913-snake-warriors-training.json](./118913-snake-warriors-training.json) |
 | Snake World! | 104510 | [104510-snake-world.json](./104510-snake-world.json) |
 | Snake Xenzia | 133868 | [133868-snake-xenzia.json](./133868-snake-xenzia.json) |
@@ -17994,6 +17997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soopah Doopah Poopah | 138151 | [138151-soopah-doopah-poopah.json](./138151-soopah-doopah-poopah.json) |
 | Sooper Fighterz: 24 Hour Challenge | 184228 | [184228-sooper-fighterz-24-hour-challenge.json](./184228-sooper-fighterz-24-hour-challenge.json) |
 | Sooper Wooper 64 | 379143 | [379143-sooper-wooper-64.json](./379143-sooper-wooper-64.json) |
+| Soorimo River | 239426 | [239426-soorimo-river.json](./239426-soorimo-river.json) |
 | Soot | 198500 | [198500-soot.json](./198500-soot.json) |
 | Soot | 231085 | [231085-soot.json](./231085-soot.json) |
 | Soothing Farmer | 216894 | [216894-soothing-farmer.json](./216894-soothing-farmer.json) |
@@ -19400,7 +19404,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20703,6 +20706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed 3: Grand Prix | 139877 | [139877-speed-3-grand-prix.json](./139877-speed-3-grand-prix.json) |
 | Speed and Scream | 29535 | [29535-speed-and-scream.json](./29535-speed-and-scream.json) |
 | Speed Ball | 40121 | [40121-speed-ball.json](./40121-speed-ball.json) |
+| Speed Basketball | 239435 | [239435-speed-basketball.json](./239435-speed-basketball.json) |
 | Speed Bike Racing | 250657 | [250657-speed-bike-racing.json](./250657-speed-bike-racing.json) |
 | Speed Blazers | 38989 | [38989-speed-blazers.json](./38989-speed-blazers.json) |
 | Speed Boat | 217689 | [217689-speed-boat.json](./217689-speed-boat.json) |
@@ -31163,6 +31167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Lion King | 203656 | [203656-super-lion-king.json](./203656-super-lion-king.json) |
 | Super Liquid Soccer | 190414 | [190414-super-liquid-soccer.json](./190414-super-liquid-soccer.json) |
 | Super Little Acorns 3D Turbo | 23523 | [23523-super-little-acorns-3d-turbo.json](./23523-super-little-acorns-3d-turbo.json) |
+| Super Little Jogger | 239433 | [239433-super-little-jogger.json](./239433-super-little-jogger.json) |
 | Super Little Miss A.D.D. World | 277110 | [277110-super-little-miss-a-d-d-world.json](./277110-super-little-miss-a-d-d-world.json) |
 | Super Live Stadium | 301384 | [301384-super-live-stadium.json](./301384-super-live-stadium.json) |
 | Super Lobster Run | 126984 | [126984-super-lobster-run.json](./126984-super-lobster-run.json) |
