@@ -2483,6 +2483,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make a Doll | 178842 | [178842-make-a-doll.json](./178842-make-a-doll.json) |
 | Make a Friend | 201828 | [201828-make-a-friend.json](./201828-make-a-friend.json) |
 | Make A Fun Awesome Boss 3: Friendship Always Best | 304216 | [304216-make-a-fun-awesome-boss-3-friendship-always-best.json](./304216-make-a-fun-awesome-boss-3-friendship-always-best.json) |
+| Make a Good 24 Hour Mega Man Level | 209235 | [209235-make-a-good-24-hour-mega-man-level.json](./209235-make-a-good-24-hour-mega-man-level.json) |
+| Make a Good 48 Hour Mega Man Level | 209236 | [209236-make-a-good-48-hour-mega-man-level.json](./209236-make-a-good-48-hour-mega-man-level.json) |
 | Make a Good Level Contest X3: The Movie - The Contest: The Game | 304213 | [304213-make-a-good-level-contest-x3-the-movie-the-contest-the-game.json](./304213-make-a-good-level-contest-x3-the-movie-the-contest-the-game.json) |
 | Make a Good Mega Man Level Contest | 192401 | [192401-make-a-good-mega-man-level-contest.json](./192401-make-a-good-mega-man-level-contest.json) |
 | Make a Good Mega Man Level Contest 2 | 192402 | [192402-make-a-good-mega-man-level-contest-2.json](./192402-make-a-good-mega-man-level-contest-2.json) |
@@ -5354,6 +5356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mata Yume no Naka de | 205239 | [205239-mata-yume-no-naka-de.json](./205239-mata-yume-no-naka-de.json) |
 | Mata, Itsuka. | 201309 | [201309-mata-itsuka.json](./201309-mata-itsuka.json) |
 | Matadouro: Grindhouse | 283395 | [283395-matadouro-grindhouse.json](./283395-matadouro-grindhouse.json) |
+| Matamarcianos | 209243 | [209243-matamarcianos.json](./209243-matamarcianos.json) |
 | Matantei Loki Ragnarok: Gensou no Labyrinth | 49698 | [49698-matantei-loki-ragnarok-gensou-no-labyrinth.json](./49698-matantei-loki-ragnarok-gensou-no-labyrinth.json) |
 | Matar Gente Rica de Skate | 281254 | [281254-matar-gente-rica-de-skate.json](./281254-matar-gente-rica-de-skate.json) |
 | Match | 119019 | [119019-match.json](./119019-match.json) |
@@ -5918,7 +5921,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -7885,6 +7887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man: Day in the Limelight 2 | 209262 | [209262-mega-man-day-in-the-limelight-2.json](./209262-mega-man-day-in-the-limelight-2.json) |
 | Mega Man: Day in the Limelight 3 | 323040 | [323040-mega-man-day-in-the-limelight-3.json](./323040-mega-man-day-in-the-limelight-3.json) |
 | Mega Man: Dr Wily Visits Indonesia | 356694 | [356694-mega-man-dr-wily-visits-indonesia.json](./356694-mega-man-dr-wily-visits-indonesia.json) |
+| Mega Man: Dr. Wily's Final Attack | 209245 | [209245-mega-man-dr-wilys-final-attack.json](./209245-mega-man-dr-wilys-final-attack.json) |
 | Mega Man: Dual Override | 381249 | [381249-mega-man-dual-override.json](./381249-mega-man-dual-override.json) |
 | Mega Man: Four Hounds | 215172 | [215172-mega-man-four-hounds.json](./215172-mega-man-four-hounds.json) |
 | Mega Man: Indonesian Artifact | 210506 | [210506-mega-man-indonesian-artifact.json](./210506-mega-man-indonesian-artifact.json) |
@@ -11975,6 +11978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Games | 33393 | [33393-mind-games.json](./33393-mind-games.json) |
 | Mind Games | 81416 | [81416-mind-games.json](./81416-mind-games.json) |
 | Mind Grind | 62397 | [62397-mind-grind.json](./62397-mind-grind.json) |
+| Mind Habits | 209233 | [209233-mind-habits.json](./209233-mind-habits.json) |
 | Mind Her Manor | 312325 | [312325-mind-her-manor.json](./312325-mind-her-manor.json) |
 | Mind Hunt | 220444 | [220444-mind-hunt.json](./220444-mind-hunt.json) |
 | Mind if I drop in? | 176288 | [176288-mind-if-i-drop-in.json](./176288-mind-if-i-drop-in.json) |
@@ -13435,6 +13439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Backrooms | 418617 | [418617-mirror-backrooms.json](./418617-mirror-backrooms.json) |
 | Mirror Beauty | 213105 | [213105-mirror-beauty.json](./213105-mirror-beauty.json) |
 | Mirror Broken | 215600 | [215600-mirror-broken.json](./215600-mirror-broken.json) |
+| Mirror Chains | 209240 | [209240-mirror-chains.json](./209240-mirror-chains.json) |
 | Mirror Devil World | 247282 | [247282-mirror-devil-world.json](./247282-mirror-devil-world.json) |
 | Mirror Drop | 99153 | [99153-mirror-drop.json](./99153-mirror-drop.json) |
 | Mirror Forge | 188825 | [188825-mirror-forge.json](./188825-mirror-forge.json) |
