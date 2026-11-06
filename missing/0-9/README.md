@@ -1388,6 +1388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1994 Tune-up Community Project | 326910 | [326910-1994-tune-up-community-project.json](./326910-1994-tune-up-community-project.json) |
 | 1994Pool+ | 2375 | [2375-1994pool.json](./2375-1994pool.json) |
 | 1995Card+ | 295238 | [295238-1995card.json](./295238-1995card.json) |
+| 1997 | 207473 | [207473-1997.json](./207473-1997.json) |
 | 1997 Reloaded | 405044 | [405044-1997-reloaded.json](./405044-1997-reloaded.json) |
 | 1998 | 178550 | [178550-1998.json](./178550-1998.json) |
 | 1998: The Toll Keeper Story | 343429 | [343429-1998-the-toll-keeper-story.json](./343429-1998-the-toll-keeper-story.json) |
