@@ -4232,6 +4232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juurru | 241839 | [241839-juurru.json](./241839-juurru.json) |
 | Juuryoku Shisen-shou | 206352 | [206352-juuryoku-shisen-shou.json](./206352-juuryoku-shisen-shou.json) |
 | Juusanshi Engi: Engetsu Sangokuden 1 & 2 | 136758 | [136758-juusanshi-engi-engetsu-sangokuden-1-and-2.json](./136758-juusanshi-engi-engetsu-sangokuden-1-and-2.json) |
+| Juushin Rogus | 234397 | [234397-juushin-rogus.json](./234397-juushin-rogus.json) |
 | Juutatsu Kihei Drag-Arms | 366495 | [366495-juutatsu-kihei-drag-arms.json](./366495-juutatsu-kihei-drag-arms.json) |
 | Juuyoku no Jousai | 134624 | [134624-juuyoku-no-jousai.json](./134624-juuyoku-no-jousai.json) |
 | Juuzaengi: Engetsu Sangoku Den 1 & 2 | 135859 | [135859-juuzaengi-engetsu-sangoku-den-1-and-2.json](./135859-juuzaengi-engetsu-sangoku-den-1-and-2.json) |
