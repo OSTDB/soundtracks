@@ -3286,6 +3286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mappy | 293754 | [293754-mappy.json](./293754-mappy.json) |
 | Mappy | 313132 | [313132-mappy.json](./313132-mappy.json) |
 | Mappy | 322526 | [322526-mappy.json](./322526-mappy.json) |
+| Mappy Arrangement | 229443 | [229443-mappy-arrangement.json](./229443-mappy-arrangement.json) |
 | Mappy Atari | 321213 | [321213-mappy-atari.json](./321213-mappy-atari.json) |
 | Mappy Kids | 48625 | [48625-mappy-kids.json](./48625-mappy-kids.json) |
 | Mappy Micro Player | 304231 | [304231-mappy-micro-player.json](./304231-mappy-micro-player.json) |
@@ -5879,6 +5880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -7730,6 +7732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man World 2 GBC Edition | 306589 | [306589-mega-man-world-2-gbc-edition.json](./306589-mega-man-world-2-gbc-edition.json) |
 | Mega Man World 3 DX | 315770 | [315770-mega-man-world-3-dx.json](./315770-mega-man-world-3-dx.json) |
 | Mega Man World 4 DX | 326554 | [326554-mega-man-world-4-dx.json](./326554-mega-man-world-4-dx.json) |
+| Mega Man World 5 DX | 229427 | [229427-mega-man-world-5-dx.json](./229427-mega-man-world-5-dx.json) |
 | Mega Man World: Dr. Wily's Revenge GBC | 263619 | [263619-mega-man-world-dr-wilys-revenge-gbc.json](./263619-mega-man-world-dr-wilys-revenge-gbc.json) |
 | Mega Man X | 270237 | [270237-mega-man-x.json](./270237-mega-man-x.json) |
 | Mega Man X | 88645 | [88645-mega-man-x.json](./88645-mega-man-x.json) |
@@ -9401,6 +9404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merror | 374641 | [374641-merror.json](./374641-merror.json) |
 | Merry Bear | 285958 | [285958-merry-bear.json](./285958-merry-bear.json) |
 | Merry Bunny Garden | 371824 | [371824-merry-bunny-garden.json](./371824-merry-bunny-garden.json) |
+| Merry Christmas, Alfred Robbins | 229424 | [229424-merry-christmas-alfred-robbins.json](./229424-merry-christmas-alfred-robbins.json) |
 | Merry Christmas: Snowball Bubble | 187495 | [187495-merry-christmas-snowball-bubble.json](./187495-merry-christmas-snowball-bubble.json) |
 | Merry Clickmas | 23683 | [23683-merry-clickmas.json](./23683-merry-clickmas.json) |
 | Merry Cook | 367934 | [367934-merry-cook.json](./367934-merry-cook.json) |
@@ -17809,6 +17813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotorStorm: Pacific Rift - Voodoo Signature Livery | 278294 | [278294-motorstorm-pacific-rift-voodoo-signature-livery.json](./278294-motorstorm-pacific-rift-voodoo-signature-livery.json) |
 | MotoRun | 166739 | [166739-motorun.json](./166739-motorun.json) |
 | Motos | 21692 | [21692-motos.json](./21692-motos.json) |
+| Motos Arrangement | 229448 | [229448-motos-arrangement.json](./229448-motos-arrangement.json) |
 | Motoscafo | 376546 | [376546-motoscafo.json](./376546-motoscafo.json) |
 | Motoshow Idle | 212433 | [212433-motoshow-idle.json](./212433-motoshow-idle.json) |
 | MotoX | 224638 | [224638-motox.json](./224638-motox.json) |
