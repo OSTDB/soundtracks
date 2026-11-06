@@ -3003,6 +3003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judge Judy: Crossword Puzzles | 333295 | [333295-judge-judy-crossword-puzzles.json](./333295-judge-judy-crossword-puzzles.json) |
 | Judge of Hasoon | 296928 | [296928-judge-of-hasoon.json](./296928-judge-of-hasoon.json) |
 | Judge Sim | 397266 | [397266-judge-sim.json](./397266-judge-sim.json) |
+| Judgeball: Lethal Arena | 207486 | [207486-judgeball-lethal-arena.json](./207486-judgeball-lethal-arena.json) |
 | Judged: A Court Simulator | 112365 | [112365-judged-a-court-simulator.json](./112365-judged-a-court-simulator.json) |
 | Judgement | 182838 | [182838-judgement.json](./182838-judgement.json) |
 | Judgement | 335650 | [335650-judgement.json](./335650-judgement.json) |
