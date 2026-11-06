@@ -2244,6 +2244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Turf Masters | 20323 | [20323-neo-turf-masters.json](./20323-neo-turf-masters.json) |
 | Neo Turf Masters | 392403 | [392403-neo-turf-masters.json](./392403-neo-turf-masters.json) |
 | Neo Turf Masters Scotland | 400237 | [400237-neo-turf-masters-scotland.json](./400237-neo-turf-masters-scotland.json) |
+| Neo Utopia Project | 228858 | [228858-neo-utopia-project.json](./228858-neo-utopia-project.json) |
 | Neo XYX | 45814 | [45814-neo-xyx.json](./45814-neo-xyx.json) |
 | Neo-Brutalism of Tomorrow | 176644 | [176644-neo-brutalism-of-tomorrow.json](./176644-neo-brutalism-of-tomorrow.json) |
 | Neo-Gensokyo Zero | 184860 | [184860-neo-gensokyo-zero.json](./184860-neo-gensokyo-zero.json) |
