@@ -14852,6 +14852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breached | 18845 | [18845-breached.json](./18845-breached.json) |
 | Breached | 281967 | [281967-breached.json](./281967-breached.json) |
 | Breacher Story | 113456 | [113456-breacher-story.json](./113456-breacher-story.json) |
+| Breachers | 227642 | [227642-breachers.json](./227642-breachers.json) |
 | Breachers: Clone Projector Update | 335128 | [335128-breachers-clone-projector-update.json](./335128-breachers-clone-projector-update.json) |
 | Breaching Harkon | 382555 | [382555-breaching-harkon.json](./382555-breaching-harkon.json) |
 | Breachway | 215481 | [215481-breachway.json](./215481-breachway.json) |
