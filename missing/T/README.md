@@ -1987,6 +1987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Warfare: Operation Pugilist | 155088 | [155088-tank-warfare-operation-pugilist.json](./155088-tank-warfare-operation-pugilist.json) |
 | Tank Warfare: Tunisia 1943 | 28214 | [28214-tank-warfare-tunisia-1943.json](./28214-tank-warfare-tunisia-1943.json) |
 | Tank Wars | 18946 | [18946-tank-wars.json](./18946-tank-wars.json) |
+| Tank Wars | 213691 | [213691-tank-wars.json](./213691-tank-wars.json) |
 | Tank Wars | 352345 | [352345-tank-wars.json](./352345-tank-wars.json) |
 | Tank Wars | 85827 | [85827-tank-wars.json](./85827-tank-wars.json) |
 | Tank Wars: Anniversary Edition | 75588 | [75588-tank-wars-anniversary-edition.json](./75588-tank-wars-anniversary-edition.json) |
@@ -4964,6 +4965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Keyring Arcade | 234080 | [234080-tetris-keyring-arcade.json](./234080-tetris-keyring-arcade.json) |
 | Tetris Kiwamemichi | 137623 | [137623-tetris-kiwamemichi.json](./137623-tetris-kiwamemichi.json) |
 | Tetris Kuromi Sanrio Key Chain Game Console | 321551 | [321551-tetris-kuromi-sanrio-key-chain-game-console.json](./321551-tetris-kuromi-sanrio-key-chain-game-console.json) |
+| Tetris Mania | 213708 | [213708-tetris-mania.json](./213708-tetris-mania.json) |
 | Tetris Mario Bros. | 250321 | [250321-tetris-mario-bros.json](./250321-tetris-mario-bros.json) |
 | Tetris Max | 144033 | [144033-tetris-max.json](./144033-tetris-max.json) |
 | Tetris MicroCard | 234081 | [234081-tetris-microcard.json](./234081-tetris-microcard.json) |
@@ -5640,6 +5642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Aegis Saga | 131749 | [131749-the-aegis-saga.json](./131749-the-aegis-saga.json) |
 | The Aeon Fall | 398188 | [398188-the-aeon-fall.json](./398188-the-aeon-fall.json) |
 | The Aeronautics Quiz MK 2 | 69766 | [69766-the-aeronautics-quiz-mk-2.json](./69766-the-aeronautics-quiz-mk-2.json) |
+| The Aether | 213699 | [213699-the-aether.json](./213699-the-aether.json) |
 | The Aether II | 245708 | [245708-the-aether-ii.json](./245708-the-aether-ii.json) |
 | The Aetherlight: Chronicles of the Resistance | 58583 | [58583-the-aetherlight-chronicles-of-the-resistance.json](./58583-the-aetherlight-chronicles-of-the-resistance.json) |
 | The Aethra Chronicles, Volume One: Celystra's Bane | 70125 | [70125-the-aethra-chronicles-volume-one-celystras-bane.json](./70125-the-aethra-chronicles-volume-one-celystras-bane.json) |
@@ -12717,6 +12720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Sage Knight | 323756 | [323756-the-legend-of-zelda-sage-knight.json](./323756-the-legend-of-zelda-sage-knight.json) |
 | The Legend of Zelda: Sands of Time | 326156 | [326156-the-legend-of-zelda-sands-of-time.json](./326156-the-legend-of-zelda-sands-of-time.json) |
 | The Legend of Zelda: Second Wind | 149979 | [149979-the-legend-of-zelda-second-wind.json](./149979-the-legend-of-zelda-second-wind.json) |
+| The Legend of Zelda: Secrets of the Past | 213706 | [213706-the-legend-of-zelda-secrets-of-the-past.json](./213706-the-legend-of-zelda-secrets-of-the-past.json) |
 | The Legend of Zelda: Shadow Mirror | 324001 | [324001-the-legend-of-zelda-shadow-mirror.json](./324001-the-legend-of-zelda-shadow-mirror.json) |
 | The Legend of Zelda: Shadow of Night | 218079 | [218079-the-legend-of-zelda-shadow-of-night.json](./218079-the-legend-of-zelda-shadow-of-night.json) |
 | The Legend of Zelda: Shattered Dimensions | 323212 | [323212-the-legend-of-zelda-shattered-dimensions.json](./323212-the-legend-of-zelda-shattered-dimensions.json) |
@@ -17273,6 +17277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Swine | 137693 | [137693-the-swine.json](./137693-the-swine.json) |
 | The Switch-Worker | 184490 | [184490-the-switch-worker.json](./184490-the-switch-worker.json) |
 | The Swoop 64 | 145429 | [145429-the-swoop-64.json](./145429-the-swoop-64.json) |
+| The Sword | 213690 | [213690-the-sword.json](./213690-the-sword.json) |
 | The Sword | 28531 | [28531-the-sword.json](./28531-the-sword.json) |
 | The Sword and Peachblossom | 202639 | [202639-the-sword-and-peachblossom.json](./202639-the-sword-and-peachblossom.json) |
 | The Sword and the Fish | 233661 | [233661-the-sword-and-the-fish.json](./233661-the-sword-and-the-fish.json) |
@@ -27191,6 +27196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Racer | 46369 | [46369-toy-racer.json](./46369-toy-racer.json) |
 | Toy Racer Turbo Wheels: Playground Zone | 261610 | [261610-toy-racer-turbo-wheels-playground-zone.json](./261610-toy-racer-turbo-wheels-playground-zone.json) |
 | Toy Raid | 68254 | [68254-toy-raid.json](./68254-toy-raid.json) |
+| Toy Rider: Racing Game | 213698 | [213698-toy-rider-racing-game.json](./213698-toy-rider-racing-game.json) |
 | Toy Road Constructor | 111601 | [111601-toy-road-constructor.json](./111601-toy-road-constructor.json) |
 | Toy Robo Force | 54896 | [54896-toy-robo-force.json](./54896-toy-robo-force.json) |
 | Toy Robot | 126582 | [126582-toy-robot.json](./126582-toy-robot.json) |
@@ -29855,6 +29861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Mosaics 8: Breathtaking Seoul | 147126 | [147126-travel-mosaics-8-breathtaking-seoul.json](./147126-travel-mosaics-8-breathtaking-seoul.json) |
 | Travel Mosaics 9: Mysterious Prague | 147127 | [147127-travel-mosaics-9-mysterious-prague.json](./147127-travel-mosaics-9-mysterious-prague.json) |
 | Travel Mosaics: A Paris Tour | 126487 | [126487-travel-mosaics-a-paris-tour.json](./126487-travel-mosaics-a-paris-tour.json) |
+| Travel of Heroes | 213697 | [213697-travel-of-heroes.json](./213697-travel-of-heroes.json) |
 | Travel Pack! | 361849 | [361849-travel-pack.json](./361849-travel-pack.json) |
 | Travel Riddles: Mahjong | 106588 | [106588-travel-riddles-mahjong.json](./106588-travel-riddles-mahjong.json) |
 | Travel Riddles: Trip to France | 41937 | [41937-travel-riddles-trip-to-france.json](./41937-travel-riddles-trip-to-france.json) |
