@@ -5516,6 +5516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her Apartment | 323898 | [323898-her-apartment.json](./323898-her-apartment.json) |
 | Her Beautiful Dream | 255441 | [255441-her-beautiful-dream.json](./255441-her-beautiful-dream.json) |
 | Her Deliverance | 321017 | [321017-her-deliverance.json](./321017-her-deliverance.json) |
+| Her Feet | 236599 | [236599-her-feet.json](./236599-her-feet.json) |
 | Her Heart, Anew | 419951 | [419951-her-heart-anew.json](./419951-her-heart-anew.json) |
 | Her Heart's Desire: A Landlord Epic | 224235 | [224235-her-hearts-desire-a-landlord-epic.json](./224235-her-hearts-desire-a-landlord-epic.json) |
 | Her Knights | 78735 | [78735-her-knights.json](./78735-her-knights.json) |
@@ -7312,6 +7313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide the Body | 88137 | [88137-hide-the-body.json](./88137-hide-the-body.json) |
 | Hide The Corpse | 306936 | [306936-hide-the-corpse.json](./306936-hide-the-corpse.json) |
 | Hide The Corpse: Gusimir Mansion | 380564 | [380564-hide-the-corpse-gusimir-mansion.json](./380564-hide-the-corpse-gusimir-mansion.json) |
+| Hide the Fart | 236623 | [236623-hide-the-fart.json](./236623-hide-the-fart.json) |
 | Hide Time | 235713 | [235713-hide-time.json](./235713-hide-time.json) |
 | Hide Time | 327767 | [327767-hide-time.json](./327767-hide-time.json) |
 | Hide Time: Chapter 2 | 248911 | [248911-hide-time-chapter-2.json](./248911-hide-time-chapter-2.json) |
@@ -9066,6 +9068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Restoration VR | 264772 | [264772-home-restoration-vr.json](./264772-home-restoration-vr.json) |
 | Home Run | 18414 | [18414-home-run.json](./18414-home-run.json) |
 | Home Run | 79021 | [79021-home-run.json](./79021-home-run.json) |
+| Home Run Boy | 236640 | [236640-home-run-boy.json](./236640-home-run-boy.json) |
 | Home Run Derby | 73330 | [73330-home-run-derby.json](./73330-home-run-derby.json) |
 | Home Run Derby VR | 100337 | [100337-home-run-derby-vr.json](./100337-home-run-derby-vr.json) |
 | Home Run Derby: vs Fairy Tales | 255582 | [255582-home-run-derby-vs-fairy-tales.json](./255582-home-run-derby-vs-fairy-tales.json) |
