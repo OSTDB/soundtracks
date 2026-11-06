@@ -6238,6 +6238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Belpaese: Homecoming | 68491 | [68491-belpaese-homecoming.json](./68491-belpaese-homecoming.json) |
 | Belt Action Collection | 136308 | [136308-belt-action-collection.json](./136308-belt-action-collection.json) |
 | Belt Colony | 214951 | [214951-belt-colony.json](./214951-belt-colony.json) |
+| Beltane: A strange encounter at Duloe - Stone Circle | 206329 | [206329-beltane-a-strange-encounter-at-duloe-stone-circle.json](./206329-beltane-a-strange-encounter-at-duloe-stone-circle.json) |
 | Beltex | 207637 | [207637-beltex.json](./207637-beltex.json) |
 | Beltion: Beyond Ritual | 267177 | [267177-beltion-beyond-ritual.json](./267177-beltion-beyond-ritual.json) |
 | Beltlife: Prospector | 391084 | [391084-beltlife-prospector.json](./391084-beltlife-prospector.json) |
@@ -9685,6 +9686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Flock | 181216 | [181216-blast-flock.json](./181216-blast-flock.json) |
 | Blast Force | 123616 | [123616-blast-force.json](./123616-blast-force.json) |
 | Blast Frenzy | 301509 | [301509-blast-frenzy.json](./301509-blast-frenzy.json) |
+| Blast from the Past! | 206299 | [206299-blast-from-the-past.json](./206299-blast-from-the-past.json) |
 | Blast Hopper | 284011 | [284011-blast-hopper.json](./284011-blast-hopper.json) |
 | Blast in the Past | 295612 | [295612-blast-in-the-past.json](./295612-blast-in-the-past.json) |
 | Blast It | 245549 | [245549-blast-it.json](./245549-blast-it.json) |
@@ -9693,6 +9695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Lacrosse | 44876 | [44876-blast-lacrosse.json](./44876-blast-lacrosse.json) |
 | Blast Lander | 74125 | [74125-blast-lander.json](./74125-blast-lander.json) |
 | Blast Linkers | 399616 | [399616-blast-linkers.json](./399616-blast-linkers.json) |
+| Blast Miner! | 206300 | [206300-blast-miner.json](./206300-blast-miner.json) |
 | Blast Monkeys | 300527 | [300527-blast-monkeys.json](./300527-blast-monkeys.json) |
 | Blast Motors | 235298 | [235298-blast-motors.json](./235298-blast-motors.json) |
 | Blast Off | 136855 | [136855-blast-off.json](./136855-blast-off.json) |
@@ -9765,6 +9768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasterball 2: Revolution | 73203 | [73203-blasterball-2-revolution.json](./73203-blasterball-2-revolution.json) |
 | Blasterball 2: Revolution | 73221 | [73221-blasterball-2-revolution.json](./73221-blasterball-2-revolution.json) |
 | Blasterball 3 | 205983 | [205983-blasterball-3.json](./205983-blasterball-3.json) |
+| Blasterball Wild | 206297 | [206297-blasterball-wild.json](./206297-blasterball-wild.json) |
 | BlasterBeat | 169654 | [169654-blasterbeat.json](./169654-blasterbeat.json) |
 | Blasterbug: Last Bug Standing | 414844 | [414844-blasterbug-last-bug-standing.json](./414844-blasterbug-last-bug-standing.json) |
 | Blastercell | 29146 | [29146-blastercell.json](./29146-blastercell.json) |
@@ -10143,6 +10147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blindy | 125187 | [125187-blindy.json](./125187-blindy.json) |
 | Blinest | 228731 | [228731-blinest.json](./228731-blinest.json) |
 | Bling Bling Bankruptcy | 363943 | [363943-bling-bling-bankruptcy.json](./363943-bling-bling-bankruptcy.json) |
+| Bling-O | 206301 | [206301-bling-o.json](./206301-bling-o.json) |
 | Bling: Fortune Memories | 351525 | [351525-bling-fortune-memories.json](./351525-bling-fortune-memories.json) |
 | Blink | 100297 | [100297-blink.json](./100297-blink.json) |
 | Blink | 27800 | [27800-blink.json](./27800-blink.json) |
@@ -11400,6 +11405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloons TD Battles | 33501 | [33501-bloons-td-battles.json](./33501-bloons-td-battles.json) |
 | Bloons TDX | 138135 | [138135-bloons-tdx.json](./138135-bloons-tdx.json) |
 | Bloonz Toonz | 36275 | [36275-bloonz-toonz.json](./36275-bloonz-toonz.json) |
+| Blooop | 206321 | [206321-blooop.json](./206321-blooop.json) |
 | Bloop | 182984 | [182984-bloop.json](./182984-bloop.json) |
 | Bloop | 28846 | [28846-bloop.json](./28846-bloop.json) |
 | Bloop | 348024 | [348024-bloop.json](./348024-bloop.json) |
@@ -12719,6 +12725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bone Marrow: Console Edition | 164700 | [164700-bone-marrow-console-edition.json](./164700-bone-marrow-console-edition.json) |
 | Bone Mayhem | 146877 | [146877-bone-mayhem.json](./146877-bone-mayhem.json) |
 | Bone Meal | 294366 | [294366-bone-meal.json](./294366-bone-meal.json) |
+| Bone Monkeys vs. Dinosaurs | 206322 | [206322-bone-monkeys-vs-dinosaurs.json](./206322-bone-monkeys-vs-dinosaurs.json) |
 | Bone n' Gone | 333877 | [333877-bone-n-gone.json](./333877-bone-n-gone.json) |
 | Bone Sniffer! | 318477 | [318477-bone-sniffer.json](./318477-bone-sniffer.json) |
 | Bone Souls | 359038 | [359038-bone-souls.json](./359038-bone-souls.json) |
@@ -16913,6 +16920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build If You Can | 23978 | [23978-build-if-you-can.json](./23978-build-if-you-can.json) |
 | Build in Time | 146489 | [146489-build-in-time.json](./146489-build-in-time.json) |
 | Build It | 108620 | [108620-build-it.json](./108620-build-it.json) |
+| Build It Green: Back to the Beach | 206323 | [206323-build-it-green-back-to-the-beach.json](./206323-build-it-green-back-to-the-beach.json) |
 | Build It: Miami Beach Resort | 341017 | [341017-build-it-miami-beach-resort.json](./341017-build-it-miami-beach-resort.json) |
 | Build It!: Das Bauhaus | 14352 | [14352-build-it-das-bauhaus.json](./14352-build-it-das-bauhaus.json) |
 | Build Lands | 201239 | [201239-build-lands.json](./201239-build-lands.json) |
@@ -17005,6 +17013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buki Buki! | 184837 | [184837-buki-buki.json](./184837-buki-buki.json) |
 | Bukkaku | 159186 | [159186-bukkaku.json](./159186-bukkaku.json) |
 | BuKnight: The Order of the Golden Crest | 316103 | [316103-buknight-the-order-of-the-golden-crest.json](./316103-buknight-the-order-of-the-golden-crest.json) |
+| Buku Brain Blast | 206325 | [206325-buku-brain-blast.json](./206325-buku-brain-blast.json) |
 | Buku Dominoes | 92230 | [92230-buku-dominoes.json](./92230-buku-dominoes.json) |
 | Buku Sudoku | 74407 | [74407-buku-sudoku.json](./74407-buku-sudoku.json) |
 | Buku Sudoku Mahjongg Kakuro | 206693 | [206693-buku-sudoku-mahjongg-kakuro.json](./206693-buku-sudoku-mahjongg-kakuro.json) |
@@ -17557,6 +17566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Bots Inc. | 365101 | [365101-burger-bots-inc.json](./365101-burger-bots-inc.json) |
 | Burger Bounce | 347494 | [347494-burger-bounce.json](./347494-burger-bounce.json) |
 | Burger Boy | 66986 | [66986-burger-boy.json](./66986-burger-boy.json) |
+| Burger Break | 206310 | [206310-burger-break.json](./206310-burger-break.json) |
 | Burger Butt | 216703 | [216703-burger-butt.json](./216703-burger-butt.json) |
 | Burger Cats | 58574 | [58574-burger-cats.json](./58574-burger-cats.json) |
 | Burger Chase | 13826 | [13826-burger-chase.json](./13826-burger-chase.json) |
