@@ -1768,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garbage Pail Kids: The Game | 110049 | [110049-garbage-pail-kids-the-game.json](./110049-garbage-pail-kids-the-game.json) |
 | Garbage Scow Captain | 317813 | [317813-garbage-scow-captain.json](./317813-garbage-scow-captain.json) |
 | Garbage Take Out Day | 353942 | [353942-garbage-take-out-day.json](./353942-garbage-take-out-day.json) |
+| Garbage Truck City Tycoon | 232257 | [232257-garbage-truck-city-tycoon.json](./232257-garbage-truck-city-tycoon.json) |
 | Garbage Truck Driving Simulator | 256561 | [256561-garbage-truck-driving-simulator.json](./256561-garbage-truck-driving-simulator.json) |
 | Garbage Truck Sim Driver Simulator 26 | 394477 | [394477-garbage-truck-sim-driver-simulator-26.json](./394477-garbage-truck-sim-driver-simulator-26.json) |
 | Garbage Truck Simulator | 234414 | [234414-garbage-truck-simulator.json](./234414-garbage-truck-simulator.json) |
@@ -5379,6 +5380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Cycling | 364056 | [364056-go-cycling.json](./364056-go-cycling.json) |
 | Go Deep Or Go Home | 285484 | [285484-go-deep-or-go-home.json](./285484-go-deep-or-go-home.json) |
 | Go Diego! Go: Save the Animal Families! | 72997 | [72997-go-diego-go-save-the-animal-families.json](./72997-go-diego-go-save-the-animal-families.json) |
+| Go Domino | 232271 | [232271-go-domino.json](./232271-go-domino.json) |
 | Go Far Away | 130077 | [130077-go-far-away.json](./130077-go-far-away.json) |
 | Go Far, M.I.N.G. | 417983 | [417983-go-far-m-i-n-g.json](./417983-go-far-m-i-n-g.json) |
 | Go Fetch! | 186133 | [186133-go-fetch.json](./186133-go-fetch.json) |
