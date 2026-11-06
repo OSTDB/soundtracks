@@ -7745,6 +7745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep Quest | 340379 | [340379-sheep-quest.json](./340379-sheep-quest.json) |
 | Sheep Running | 347039 | [347039-sheep-running.json](./347039-sheep-running.json) |
 | Sheep Seeker | 327652 | [327652-sheep-seeker.json](./327652-sheep-seeker.json) |
+| Sheep Sheep 3tiles | 219955 | [219955-sheep-sheep-3tiles.json](./219955-sheep-sheep-3tiles.json) |
 | Sheep Sheep Wolf | 112246 | [112246-sheep-sheep-wolf.json](./112246-sheep-sheep-wolf.json) |
 | Sheep Simulator AR | 248265 | [248265-sheep-simulator-ar.json](./248265-sheep-simulator-ar.json) |
 | Sheep Split | 413383 | [413383-sheep-split.json](./413383-sheep-split.json) |
@@ -30870,6 +30871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Flying Vroom Vroom | 374030 | [374030-super-flying-vroom-vroom.json](./374030-super-flying-vroom-vroom.json) |
 | Super Food Frenzy | 187543 | [187543-super-food-frenzy.json](./187543-super-food-frenzy.json) |
 | Super Foosball | 129719 | [129719-super-foosball.json](./129719-super-foosball.json) |
+| Super Footbag - World Champion 8 Bit Sports | 219900 | [219900-super-footbag-world-champion-8-bit-sports.json](./219900-super-footbag-world-champion-8-bit-sports.json) |
 | Super Football | 94923 | [94923-super-football.json](./94923-super-football.json) |
 | Super Football Champ | 39945 | [39945-super-football-champ.json](./39945-super-football-champ.json) |
 | Super Football Sunday | 94401 | [94401-super-football-sunday.json](./94401-super-football-sunday.json) |
@@ -34127,6 +34129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive: The AI | 350922 | [350922-survive-the-ai.json](./350922-survive-the-ai.json) |
 | Survive: The Alien Tracing | 360203 | [360203-survive-the-alien-tracing.json](./360203-survive-the-alien-tracing.json) |
 | Survive: The King Killer | 86588 | [86588-survive-the-king-killer.json](./86588-survive-the-king-killer.json) |
+| Survive: The Lost Lands | 219899 | [219899-survive-the-lost-lands.json](./219899-survive-the-lost-lands.json) |
 | Survive! Mola mola! | 151640 | [151640-survive-mola-mola.json](./151640-survive-mola-mola.json) |
 | Survive.io Battle Ground | 100139 | [100139-survive-io-battle-ground.json](./100139-survive-io-battle-ground.json) |
 | Survived | 126811 | [126811-survived.json](./126811-survived.json) |
