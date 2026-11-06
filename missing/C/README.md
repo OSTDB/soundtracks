@@ -3038,6 +3038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartapli: Fold Quest | 386834 | [386834-cartapli-fold-quest.json](./386834-cartapli-fold-quest.json) |
 | Cartas contra tugas | 343036 | [343036-cartas-contra-tugas.json](./343036-cartas-contra-tugas.json) |
 | Cartas de Coisas | 325623 | [325623-cartas-de-coisas.json](./325623-cartas-de-coisas.json) |
+| Cartastrophe | 236066 | [236066-cartastrophe.json](./236066-cartastrophe.json) |
 | Carte Blanche | 333559 | [333559-carte-blanche.json](./333559-carte-blanche.json) |
 | Carte Primus | 172453 | [172453-carte-primus.json](./172453-carte-primus.json) |
 | Carteado | 371974 | [371974-carteado.json](./371974-carteado.json) |
@@ -3398,6 +3399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caster's Trap | 130339 | [130339-casters-trap.json](./130339-casters-trap.json) |
 | CasterLords | 120116 | [120116-casterlords.json](./120116-casterlords.json) |
 | Castillo: Shattered Mirrors | 328846 | [328846-castillo-shattered-mirrors.json](./328846-castillo-shattered-mirrors.json) |
+| Castillo: The Nine Circles | 236082 | [236082-castillo-the-nine-circles.json](./236082-castillo-the-nine-circles.json) |
 | Castillon | 332247 | [332247-castillon.json](./332247-castillon.json) |
 | Casting Away | 318271 | [318271-casting-away.json](./318271-casting-away.json) |
 | Casting Clicker | 367202 | [367202-casting-clicker.json](./367202-casting-clicker.json) |
@@ -10014,6 +10016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cliché Adventure | 159712 | [159712-cliche-adventure.json](./159712-cliche-adventure.json) |
 | Cliché Quest | 397603 | [397603-cliche-quest.json](./397603-cliche-quest.json) |
 | Click & Click | 118633 | [118633-click-and-click.json](./118633-click-and-click.json) |
+| Click & Cum | 236100 | [236100-click-and-cum.json](./236100-click-and-cum.json) |
 | Click Adventure | 364144 | [364144-click-adventure.json](./364144-click-adventure.json) |
 | Click and Collect | 199349 | [199349-click-and-collect.json](./199349-click-and-collect.json) |
 | Click and Conquer | 342682 | [342682-click-and-conquer.json](./342682-click-and-conquer.json) |
@@ -10076,6 +10079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click To Clear | 284821 | [284821-click-to-clear.json](./284821-click-to-clear.json) |
 | Click to Continue | 343847 | [343847-click-to-continue.json](./343847-click-to-continue.json) |
 | Click To Eleven | 298656 | [298656-click-to-eleven.json](./298656-click-to-eleven.json) |
+| Click to Escape | 236095 | [236095-click-to-escape.json](./236095-click-to-escape.json) |
 | Click to Obsolete | 413167 | [413167-click-to-obsolete.json](./413167-click-to-obsolete.json) |
 | Click to Punch | 349102 | [349102-click-to-punch.json](./349102-click-to-punch.json) |
 | Click to Sail | 218703 | [218703-click-to-sail.json](./218703-click-to-sail.json) |
@@ -12005,6 +12009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorful Boi 2 | 340831 | [340831-colorful-boi-2.json](./340831-colorful-boi-2.json) |
 | Colorful Colore | 147609 | [147609-colorful-colore.json](./147609-colorful-colore.json) |
 | Colorful Critter | 218144 | [218144-colorful-critter.json](./218144-colorful-critter.json) |
+| Colorful Dotlines | 236060 | [236060-colorful-dotlines.json](./236060-colorful-dotlines.json) |
 | Colorful Ghost | 311165 | [311165-colorful-ghost.json](./311165-colorful-ghost.json) |
 | Colorful Katana | 285432 | [285432-colorful-katana.json](./285432-colorful-katana.json) |
 | Colorful Life | 30178 | [30178-colorful-life.json](./30178-colorful-life.json) |
@@ -15002,6 +15007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo and Yuuko: A Space Adventure | 178958 | [178958-cosmo-and-yuuko-a-space-adventure.json](./178958-cosmo-and-yuuko-a-space-adventure.json) |
 | Cosmo Angel | 92148 | [92148-cosmo-angel.json](./92148-cosmo-angel.json) |
 | Cosmo Arena | 418412 | [418412-cosmo-arena.json](./418412-cosmo-arena.json) |
+| Cosmo Blaster | 236073 | [236073-cosmo-blaster.json](./236073-cosmo-blaster.json) |
 | Cosmo Cargo | 394499 | [394499-cosmo-cargo.json](./394499-cosmo-cargo.json) |
 | Cosmo Cats | 291360 | [291360-cosmo-cats.json](./291360-cosmo-cats.json) |
 | Cosmo Chaser | 120015 | [120015-cosmo-chaser.json](./120015-cosmo-chaser.json) |
@@ -18527,6 +18533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal in Carnations | 358303 | [358303-crystal-in-carnations.json](./358303-crystal-in-carnations.json) |
 | Crystal Journey | 260193 | [260193-crystal-journey.json](./260193-crystal-journey.json) |
 | Crystal Journey: Lum's Adventure | 266620 | [266620-crystal-journey-lums-adventure.json](./266620-crystal-journey-lums-adventure.json) |
+| Crystal Keepers | 236097 | [236097-crystal-keepers.json](./236097-crystal-keepers.json) |
 | Crystal Key 2: The Far Realm | 25419 | [25419-crystal-key-2-the-far-realm.json](./25419-crystal-key-2-the-far-realm.json) |
 | Crystal Kingdom | 62818 | [62818-crystal-kingdom.json](./62818-crystal-kingdom.json) |
 | Crystal Kingdom Dizzy | 12020 | [12020-crystal-kingdom-dizzy.json](./12020-crystal-kingdom-dizzy.json) |
