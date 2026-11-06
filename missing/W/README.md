@@ -4081,6 +4081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where in the U.S.A. Is Carmen Sandiego? | 313289 | [313289-where-in-the-u-s-a-is-carmen-sandiego.json](./313289-where-in-the-u-s-a-is-carmen-sandiego.json) |
 | Where in the USA is Carmen Sandiego? (Enhanced) | 66348 | [66348-where-in-the-usa-is-carmen-sandiego-enhanced.json](./66348-where-in-the-usa-is-carmen-sandiego-enhanced.json) |
 | Where in the World is Carmen Sandiego? | 172318 | [172318-where-in-the-world-is-carmen-sandiego.json](./172318-where-in-the-world-is-carmen-sandiego.json) |
+| Where in the World Is Carmen Sandiego? | 242316 | [242316-where-in-the-world-is-carmen-sandiego.json](./242316-where-in-the-world-is-carmen-sandiego.json) |
 | Where in the World Is Carmen Sandiego? | 251 | [251-where-in-the-world-is-carmen-sandiego.json](./251-where-in-the-world-is-carmen-sandiego.json) |
 | Where in the World Is Carmen Sandiego? | 299326 | [299326-where-in-the-world-is-carmen-sandiego.json](./299326-where-in-the-world-is-carmen-sandiego.json) |
 | Where in the World Is Carmen Sandiego? | 367753 | [367753-where-in-the-world-is-carmen-sandiego.json](./367753-where-in-the-world-is-carmen-sandiego.json) |
@@ -8579,6 +8580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worldwide Soccer 2 | 47112 | [47112-worldwide-soccer-2.json](./47112-worldwide-soccer-2.json) |
 | Worldwide Soccer: Sega International Victory Goal Edition | 19755 | [19755-worldwide-soccer-sega-international-victory-goal-edition.json](./19755-worldwide-soccer-sega-international-victory-goal-edition.json) |
 | Worldwide Sports Fishing | 117556 | [117556-worldwide-sports-fishing.json](./117556-worldwide-sports-fishing.json) |
+| WorldWide Warfare League of Cities | 242300 | [242300-worldwide-warfare-league-of-cities.json](./242300-worldwide-warfare-league-of-cities.json) |
 | Worldy Cup | 31854 | [31854-worldy-cup.json](./31854-worldy-cup.json) |
 | Worm | 366923 | [366923-worm.json](./366923-worm.json) |
 | Worm | 92255 | [92255-worm.json](./92255-worm.json) |
