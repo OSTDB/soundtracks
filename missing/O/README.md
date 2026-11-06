@@ -844,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of the Devil: Episode 3 | 383566 | [383566-of-the-devil-episode-3.json](./383566-of-the-devil-episode-3.json) |
 | Of The Lilies | 341078 | [341078-of-the-lilies.json](./341078-of-the-lilies.json) |
 | Of the Red, the Light, and the Ayakashi Tsuzuri | 62190 | [62190-of-the-red-the-light-and-the-ayakashi-tsuzuri.json](./62190-of-the-red-the-light-and-the-ayakashi-tsuzuri.json) |
+| Of Them That Have a Name | 243457 | [243457-of-them-that-have-a-name.json](./243457-of-them-that-have-a-name.json) |
 | Of Three Plantagenets | 271848 | [271848-of-three-plantagenets.json](./271848-of-three-plantagenets.json) |
 | Off | 24930 | [24930-off.json](./24930-off.json) |
 | Off | 326638 | [326638-off.json](./326638-off.json) |
