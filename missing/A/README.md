@@ -10957,6 +10957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antecrypt | 176341 | [176341-antecrypt.json](./176341-antecrypt.json) |
 | Antediluvial: Yalroc Island | 404645 | [404645-antediluvial-yalroc-island.json](./404645-antediluvial-yalroc-island.json) |
 | Antediluvian | 271251 | [271251-antediluvian.json](./271251-antediluvian.json) |
+| Anteform | 214867 | [214867-anteform.json](./214867-anteform.json) |
 | Antegods | 34252 | [34252-antegods.json](./34252-antegods.json) |
 | Antenna | 28342 | [28342-antenna.json](./28342-antenna.json) |
 | Antenna Dilemma | 363159 | [363159-antenna-dilemma.json](./363159-antenna-dilemma.json) |
@@ -16150,6 +16151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asuka 120% Special Burning Fest. | 80267 | [80267-asuka-120-special-burning-fest.json](./80267-asuka-120-special-burning-fest.json) |
 | Asuka Idol Journey | 399410 | [399410-asuka-idol-journey.json](./399410-asuka-idol-journey.json) |
 | Asuka x Redline Reverie | 405510 | [405510-asuka-x-redline-reverie.json](./405510-asuka-x-redline-reverie.json) |
+| Asuka-san ha Nabikanai | 214859 | [214859-asuka-san-ha-nabikanai.json](./214859-asuka-san-ha-nabikanai.json) |
 | Asuka-san ha Nabikanai | 251635 | [251635-asuka-san-ha-nabikanai.json](./251635-asuka-san-ha-nabikanai.json) |
 | Asuka: The Ascent | 340840 | [340840-asuka-the-ascent.json](./340840-asuka-the-ascent.json) |
 | Asunder | 76283 | [76283-asunder.json](./76283-asunder.json) |
