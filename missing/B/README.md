@@ -437,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to the Edo | 307963 | [307963-back-to-the-edo.json](./307963-back-to-the-edo.json) |
 | Back to the Egg! | 55742 | [55742-back-to-the-egg.json](./55742-back-to-the-egg.json) |
 | Back to the Fooker: Zombie Fooker 2 | 273820 | [273820-back-to-the-fooker-zombie-fooker-2.json](./273820-back-to-the-fooker-zombie-fooker-2.json) |
+| Back to the Future | 217648 | [217648-back-to-the-future.json](./217648-back-to-the-future.json) |
 | Back to the Future | 8516 | [8516-back-to-the-future.json](./8516-back-to-the-future.json) |
 | Back to the Future | 8518 | [8518-back-to-the-future.json](./8518-back-to-the-future.json) |
 | Back to the Future III | 218360 | [218360-back-to-the-future-iii.json](./218360-back-to-the-future-iii.json) |
@@ -7235,14 +7236,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bicolor Bird | 296196 | [296196-bicolor-bird.json](./296196-bicolor-bird.json) |
 | BiColor: Lazy Eye Game Trainer | 360672 | [360672-bicolor-lazy-eye-game-trainer.json](./360672-bicolor-lazy-eye-game-trainer.json) |
 | Bicqlo Vader | 125216 | [125216-bicqlo-vader.json](./125216-bicqlo-vader.json) |
+| Bicycle Black Jack | 217649 | [217649-bicycle-black-jack.json](./217649-bicycle-black-jack.json) |
 | Bicycle Board Games | 128445 | [128445-bicycle-board-games.json](./128445-bicycle-board-games.json) |
 | Bicycle Casino | 5747 | [5747-bicycle-casino.json](./5747-bicycle-casino.json) |
+| Bicycle Casino Slots | 217650 | [217650-bicycle-casino-slots.json](./217650-bicycle-casino-slots.json) |
 | Bicycle Challage: Wastelands | 211453 | [211453-bicycle-challage-wastelands.json](./211453-bicycle-challage-wastelands.json) |
 | Bicycle Mechanic Simulator | 211101 | [211101-bicycle-mechanic-simulator.json](./211101-bicycle-mechanic-simulator.json) |
 | Bicycle Pinochle | 73344 | [73344-bicycle-pinochle.json](./73344-bicycle-pinochle.json) |
+| Bicycle Poker | 217651 | [217651-bicycle-poker.json](./217651-bicycle-poker.json) |
 | Bicycle Quiz & Riding | 411147 | [411147-bicycle-quiz-and-riding.json](./411147-bicycle-quiz-and-riding.json) |
 | Bicycle Rider Simulator | 195612 | [195612-bicycle-rider-simulator.json](./195612-bicycle-rider-simulator.json) |
+| Bicycle Scratch Poker | 217652 | [217652-bicycle-scratch-poker.json](./217652-bicycle-scratch-poker.json) |
 | Bicycle Solitaire | 205911 | [205911-bicycle-solitaire.json](./205911-bicycle-solitaire.json) |
+| Bicycle Solitaire | 217653 | [217653-bicycle-solitaire.json](./217653-bicycle-solitaire.json) |
 | Bicycle Solitaire | 85948 | [85948-bicycle-solitaire.json](./85948-bicycle-solitaire.json) |
 | Bicycle Tour | 234606 | [234606-bicycle-tour.json](./234606-bicycle-tour.json) |
 | BicycleSim | 211100 | [211100-bicyclesim.json](./211100-bicyclesim.json) |
@@ -11508,6 +11514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Crystal | 116914 | [116914-blue-crystal.json](./116914-blue-crystal.json) |
 | Blue Delta | 350599 | [350599-blue-delta.json](./350599-blue-delta.json) |
 | Blue Detective: A Hotel in Scarlet | 400505 | [400505-blue-detective-a-hotel-in-scarlet.json](./400505-blue-detective-a-hotel-in-scarlet.json) |
+| Blue Diamonds Slot Machine | 217654 | [217654-blue-diamonds-slot-machine.json](./217654-blue-diamonds-slot-machine.json) |
 | Blue Dragon | 6923 | [6923-blue-dragon.json](./6923-blue-dragon.json) |
 | Blue Dragon | 79116 | [79116-blue-dragon.json](./79116-blue-dragon.json) |
 | Blue Dragon Plus | 19939 | [19939-blue-dragon-plus.json](./19939-blue-dragon-plus.json) |
@@ -11835,6 +11842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boardwalk Casino | 38627 | [38627-boardwalk-casino.json](./38627-boardwalk-casino.json) |
 | Boardwalk Memories | 191565 | [191565-boardwalk-memories.json](./191565-boardwalk-memories.json) |
 | Boardwalk Sea Ball | 366410 | [366410-boardwalk-sea-ball.json](./366410-boardwalk-sea-ball.json) |
+| Boardz Freestyle Frenzy | 217655 | [217655-boardz-freestyle-frenzy.json](./217655-boardz-freestyle-frenzy.json) |
 | Boars in Rome | 380833 | [380833-boars-in-rome.json](./380833-boars-in-rome.json) |
 | Boat Adventure | 99635 | [99635-boat-adventure.json](./99635-boat-adventure.json) |
 | Boat Builder: Andy's Story | 224597 | [224597-boat-builder-andys-story.json](./224597-boat-builder-andys-story.json) |
@@ -12624,6 +12632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomight | 99443 | [99443-bomight.json](./99443-bomight.json) |
 | BomjMan | 120746 | [120746-bomjman.json](./120746-bomjman.json) |
 | Bommy | 396293 | [396293-bommy.json](./396293-bommy.json) |
+| Boms Away! | 217656 | [217656-boms-away.json](./217656-boms-away.json) |
 | Bomsy | 74681 | [74681-bomsy.json](./74681-bomsy.json) |
 | Bomtiles | 126228 | [126228-bomtiles.json](./126228-bomtiles.json) |
 | Bon Appecheese | 352379 | [352379-bon-appecheese.json](./352379-bon-appecheese.json) |
@@ -13884,6 +13893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowl Bound College Football | 34541 | [34541-bowl-bound-college-football.json](./34541-bowl-bound-college-football.json) |
 | Bowl Faster | 244409 | [244409-bowl-faster.json](./244409-bowl-faster.json) |
 | Bowl VR | 32315 | [32315-bowl-vr.json](./32315-bowl-vr.json) |
+| Bowl-A-Rama | 217657 | [217657-bowl-a-rama.json](./217657-bowl-a-rama.json) |
 | Bowl-Ed Over | 123236 | [123236-bowl-ed-over.json](./123236-bowl-ed-over.json) |
 | Bowl-O-Rama | 40271 | [40271-bowl-o-rama.json](./40271-bowl-o-rama.json) |
 | Bowlatro | 369521 | [369521-bowlatro.json](./369521-bowlatro.json) |
