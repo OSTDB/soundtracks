@@ -2064,6 +2064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmony | 371452 | [371452-harmony.json](./371452-harmony.json) |
 | Harmony 2 | 175050 | [175050-harmony-2.json](./175050-harmony-2.json) |
 | Harmony in the Wild | 346717 | [346717-harmony-in-the-wild.json](./346717-harmony-in-the-wild.json) |
+| Harmony Islands | 237179 | [237179-harmony-islands.json](./237179-harmony-islands.json) |
 | Harmony of Fear | 337207 | [337207-harmony-of-fear.json](./337207-harmony-of-fear.json) |
 | Harmony Overture | 199997 | [199997-harmony-overture.json](./199997-harmony-overture.json) |
 | Harmony Summer Hardpack Tape 11-in-1 | 279203 | [279203-harmony-summer-hardpack-tape-11-in-1.json](./279203-harmony-summer-hardpack-tape-11-in-1.json) |
@@ -3804,6 +3805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heist: The Score | 61135 | [61135-heist-the-score.json](./61135-heist-the-score.json) |
 | Heist! | 78287 | [78287-heist.json](./78287-heist.json) |
 | Heist.exe | 350880 | [350880-heist-exe.json](./350880-heist-exe.json) |
+| Heistfest | 237136 | [237136-heistfest.json](./237136-heistfest.json) |
 | HeistGeist | 211182 | [211182-heistgeist.json](./211182-heistgeist.json) |
 | Heisting | 294241 | [294241-heisting.json](./294241-heisting.json) |
 | Heisting: Arsenal | 294847 | [294847-heisting-arsenal.json](./294847-heisting-arsenal.json) |
