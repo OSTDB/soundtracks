@@ -8621,6 +8621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold the Core | 403779 | [403779-hold-the-core.json](./403779-hold-the-core.json) |
 | Hold the Door | 244742 | [244742-hold-the-door.json](./244742-hold-the-door.json) |
 | Hold the Dots! | 153044 | [153044-hold-the-dots.json](./153044-hold-the-dots.json) |
+| Hold the Line | 220377 | [220377-hold-the-line.json](./220377-hold-the-line.json) |
 | Hold The Line | 395363 | [395363-hold-the-line.json](./395363-hold-the-line.json) |
 | Hold The Line | 408209 | [408209-hold-the-line.json](./408209-hold-the-line.json) |
 | Hold the Line: The American Revolution | 55518 | [55518-hold-the-line-the-american-revolution.json](./55518-hold-the-line-the-american-revolution.json) |
@@ -9587,6 +9588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hook, Line, and Axe | 360652 | [360652-hook-line-and-axe.json](./360652-hook-line-and-axe.json) |
 | Hook, Line, and Spelunker | 214730 | [214730-hook-line-and-spelunker.json](./214730-hook-line-and-spelunker.json) |
 | Hook: Complete Edition | 340742 | [340742-hook-complete-edition.json](./340742-hook-complete-edition.json) |
+| Hook&Loop | 220378 | [220378-hook-and-loop.json](./220378-hook-and-loop.json) |
 | Hookah Haze | 278806 | [278806-hookah-haze.json](./278806-hookah-haze.json) |
 | Hookbots | 112138 | [112138-hookbots.json](./112138-hookbots.json) |
 | HookCat | 159267 | [159267-hookcat.json](./159267-hookcat.json) |
@@ -9832,6 +9834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HorD: High or Die | 83590 | [83590-hord-high-or-die.json](./83590-hord-high-or-die.json) |
 | Horde | 177191 | [177191-horde.json](./177191-horde.json) |
 | Horde | 179898 | [179898-horde.json](./179898-horde.json) |
+| Horde | 220379 | [220379-horde.json](./220379-horde.json) |
 | Horde Arena | 334304 | [334304-horde-arena.json](./334304-horde-arena.json) |
 | Horde Attack | 55664 | [55664-horde-attack.json](./55664-horde-attack.json) |
 | Horde Circuit | 420504 | [420504-horde-circuit.json](./420504-horde-circuit.json) |
@@ -9968,6 +9971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horobi Kuchiru Sekai ni Tsuioku no Hanataba wo: Present For You | 401167 | [401167-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo-present-for-you.json](./401167-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo-present-for-you.json) |
 | Horoboshi-hime | 320826 | [320826-horoboshi-hime.json](./320826-horoboshi-hime.json) |
 | Hororo Meguru's Bing!! Ball | 292974 | [292974-hororo-megurus-bing-ball.json](./292974-hororo-megurus-bing-ball.json) |
+| Horoscopicus | 220380 | [220380-horoscopicus.json](./220380-horoscopicus.json) |
 | HoRoyal: Hololive Battle Royal | 403080 | [403080-horoyal-hololive-battle-royal.json](./403080-horoyal-hololive-battle-royal.json) |
 | Horrher | 362993 | [362993-horrher.json](./362993-horrher.json) |
 | Horrible Area | 277710 | [277710-horrible-area.json](./277710-horrible-area.json) |
@@ -10190,6 +10194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horst: Der Ultimatives Rollenspiel | 285437 | [285437-horst-der-ultimatives-rollenspiel.json](./285437-horst-der-ultimatives-rollenspiel.json) |
 | Horta Maluca | 416490 | [416490-horta-maluca.json](./416490-horta-maluca.json) |
 | Hortal | 251139 | [251139-hortal.json](./251139-hortal.json) |
+| Horticular | 220381 | [220381-horticular.json](./220381-horticular.json) |
 | Horticular: Complete Edition | 395680 | [395680-horticular-complete-edition.json](./395680-horticular-complete-edition.json) |
 | Horticular: Frozen Frontier | 395687 | [395687-horticular-frozen-frontier.json](./395687-horticular-frozen-frontier.json) |
 | Horton Genetics: Breach | 414260 | [414260-horton-genetics-breach.json](./414260-horton-genetics-breach.json) |
