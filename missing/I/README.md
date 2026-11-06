@@ -4598,6 +4598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inspection | 294188 | [294188-inspection.json](./294188-inspection.json) |
 | Inspection Report | 309923 | [309923-inspection-report.json](./309923-inspection-report.json) |
 | Inspector | 123958 | [123958-inspector.json](./123958-inspector.json) |
+| Inspector Detective: Private Eye | 223281 | [223281-inspector-detective-private-eye.json](./223281-inspector-detective-private-eye.json) |
 | Inspector Douglas's Diary | 316634 | [316634-inspector-douglass-diary.json](./316634-inspector-douglass-diary.json) |
 | Inspector Gadget | 198766 | [198766-inspector-gadget.json](./198766-inspector-gadget.json) |
 | Inspector Gadget | 198767 | [198767-inspector-gadget.json](./198767-inspector-gadget.json) |
@@ -6593,6 +6594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Kooky + Brawl Chess | 233861 | [233861-its-kooky-brawl-chess.json](./233861-its-kooky-brawl-chess.json) |
 | It's Kooky + Cyber Protocol | 231344 | [231344-its-kooky-cyber-protocol.json](./231344-its-kooky-cyber-protocol.json) |
 | It's Literally Just Mowing | 210675 | [210675-its-literally-just-mowing.json](./210675-its-literally-just-mowing.json) |
+| It's Locked | 223299 | [223299-its-locked.json](./223299-its-locked.json) |
 | It's Locked | 407791 | [407791-its-locked.json](./407791-its-locked.json) |
 | It's Mealtime! | 145505 | [145505-its-mealtime.json](./145505-its-mealtime.json) |
 | It's Mealtime! | 167247 | [167247-its-mealtime.json](./167247-its-mealtime.json) |
