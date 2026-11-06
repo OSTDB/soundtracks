@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tailor Tales - Aiden Plus | 305544 | [305544-tailor-tales-aiden-plus.json](./305544-tailor-tales-aiden-plus.json) |
 | Tailor Tales Cottina | 383320 | [383320-tailor-tales-cottina.json](./383320-tailor-tales-cottina.json) |
 | Tailor Tales: Caine Plus | 257550 | [257550-tailor-tales-caine-plus.json](./257550-tailor-tales-caine-plus.json) |
+| Tailor Tales: Dimitri Plus | 195321 | [195321-tailor-tales-dimitri-plus.json](./195321-tailor-tales-dimitri-plus.json) |
 | Tailor Tales: Eeyok Plus | 399054 | [399054-tailor-tales-eeyok-plus.json](./399054-tailor-tales-eeyok-plus.json) |
 | Tailor Tales: Gray Plus | 305543 | [305543-tailor-tales-gray-plus.json](./305543-tailor-tales-gray-plus.json) |
 | Tailor Tales: James Plus | 257551 | [257551-tailor-tales-james-plus.json](./257551-tailor-tales-james-plus.json) |
@@ -5407,6 +5408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The A.Typical RPG | 125185 | [125185-the-a-typical-rpg.json](./125185-the-a-typical-rpg.json) |
 | The A500 Mini | 275245 | [275245-the-a500-mini.json](./275245-the-a500-mini.json) |
 | The Abandoned | 174471 | [174471-the-abandoned.json](./174471-the-abandoned.json) |
+| The Abandoned | 195299 | [195299-the-abandoned.json](./195299-the-abandoned.json) |
 | The Abandoned Factory | 276396 | [276396-the-abandoned-factory.json](./276396-the-abandoned-factory.json) |
 | The Abandoned House | 321441 | [321441-the-abandoned-house.json](./321441-the-abandoned-house.json) |
 | The Abandoned House in Yeongdeok | 399073 | [399073-the-abandoned-house-in-yeongdeok.json](./399073-the-abandoned-house-in-yeongdeok.json) |
@@ -19454,6 +19456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - Medved-Taiga | 154341 | [154341-thehunter-call-of-the-wild-medved-taiga.json](./154341-thehunter-call-of-the-wild-medved-taiga.json) |
 | TheHunter: Call of the Wild - Medved-Taiga Cosmetic Pack | 271134 | [271134-thehunter-call-of-the-wild-medved-taiga-cosmetic-pack.json](./271134-thehunter-call-of-the-wild-medved-taiga-cosmetic-pack.json) |
 | TheHunter: Call of the Wild - Mississippi Acres Cosmetic Pack | 280369 | [280369-thehunter-call-of-the-wild-mississippi-acres-cosmetic-pack.json](./280369-thehunter-call-of-the-wild-mississippi-acres-cosmetic-pack.json) |
+| TheHunter: Call of the Wild - Mississippi Acres Preserve | 195313 | [195313-thehunter-call-of-the-wild-mississippi-acres-preserve.json](./195313-thehunter-call-of-the-wild-mississippi-acres-preserve.json) |
 | TheHunter: Call of the Wild - Mississippi Acres Preserve Cosmetic Pack | 331917 | [331917-thehunter-call-of-the-wild-mississippi-acres-preserve-cosmetic-pack.json](./331917-thehunter-call-of-the-wild-mississippi-acres-preserve-cosmetic-pack.json) |
 | TheHunter: Call of the Wild - Modern Rifle Pack | 206793 | [206793-thehunter-call-of-the-wild-modern-rifle-pack.json](./206793-thehunter-call-of-the-wild-modern-rifle-pack.json) |
 | TheHunter: Call of the Wild - New England Mountains | 227336 | [227336-thehunter-call-of-the-wild-new-england-mountains.json](./227336-thehunter-call-of-the-wild-new-england-mountains.json) |
@@ -19703,6 +19706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theseus and the Minotaur | 24904 | [24904-theseus-and-the-minotaur.json](./24904-theseus-and-the-minotaur.json) |
 | Theseus Protocol | 216694 | [216694-theseus-protocol.json](./216694-theseus-protocol.json) |
 | Theseus: Journey to Athens | 114092 | [114092-theseus-journey-to-athens.json](./114092-theseus-journey-to-athens.json) |
+| Theseus: Mythological Hero | 195315 | [195315-theseus-mythological-hero.json](./195315-theseus-mythological-hero.json) |
 | TheShooterGame | 101283 | [101283-theshootergame.json](./101283-theshootergame.json) |
 | Thesis of Love | 370073 | [370073-thesis-of-love.json](./370073-thesis-of-love.json) |
 | Thesis: Purple Locus | 343192 | [343192-thesis-purple-locus.json](./343192-thesis-purple-locus.json) |
@@ -33185,6 +33189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Eyes | 175271 | [175271-two-eyes.json](./175271-two-eyes.json) |
 | Two Eyes: Nonogram | 292820 | [292820-two-eyes-nonogram.json](./292820-two-eyes-nonogram.json) |
 | Two Faced | 300719 | [300719-two-faced.json](./300719-two-faced.json) |
+| Two Falls: Nishu Takuashina | 195300 | [195300-two-falls-nishu-takuashina.json](./195300-two-falls-nishu-takuashina.json) |
 | Two Fates | 298431 | [298431-two-fates.json](./298431-two-fates.json) |
 | Two For One | 118299 | [118299-two-for-one.json](./118299-two-for-one.json) |
 | Two Girls Make a Game | 178536 | [178536-two-girls-make-a-game.json](./178536-two-girls-make-a-game.json) |
