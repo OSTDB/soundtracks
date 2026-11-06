@@ -6562,6 +6562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chernobyl Inferno | 159515 | [159515-chernobyl-inferno.json](./159515-chernobyl-inferno.json) |
 | Chernobyl Trap | 193660 | [193660-chernobyl-trap.json](./193660-chernobyl-trap.json) |
 | Chernobyl VR Project | 20092 | [20092-chernobyl-vr-project.json](./20092-chernobyl-vr-project.json) |
+| Chernobyl: Death May Die | 238819 | [238819-chernobyl-death-may-die.json](./238819-chernobyl-death-may-die.json) |
 | Chernobyl: Escape from Pripyat | 335952 | [335952-chernobyl-escape-from-pripyat.json](./335952-chernobyl-escape-from-pripyat.json) |
 | Chernobyl: Nuclear Power Plant Simulation | 54710 | [54710-chernobyl-nuclear-power-plant-simulation.json](./54710-chernobyl-nuclear-power-plant-simulation.json) |
 | Chernobyl: Origins | 196666 | [196666-chernobyl-origins.json](./196666-chernobyl-origins.json) |
@@ -8918,6 +8919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities in Motion 2: European Vehicle Pack | 151423 | [151423-cities-in-motion-2-european-vehicle-pack.json](./151423-cities-in-motion-2-european-vehicle-pack.json) |
 | Cities in Motion 2: Lofty Landmarks | 151422 | [151422-cities-in-motion-2-lofty-landmarks.json](./151422-cities-in-motion-2-lofty-landmarks.json) |
 | Cities in Motion 2: Marvellous Monorails | 52730 | [52730-cities-in-motion-2-marvellous-monorails.json](./52730-cities-in-motion-2-marvellous-monorails.json) |
+| Cities in Motion 2: Metro Madness | 238810 | [238810-cities-in-motion-2-metro-madness.json](./238810-cities-in-motion-2-metro-madness.json) |
 | Cities in Motion 2: Olden Times | 151426 | [151426-cities-in-motion-2-olden-times.json](./151426-cities-in-motion-2-olden-times.json) |
 | Cities in Motion 2: Players Choice Vehicle Pack | 151425 | [151425-cities-in-motion-2-players-choice-vehicle-pack.json](./151425-cities-in-motion-2-players-choice-vehicle-pack.json) |
 | Cities in Motion 2: Trekking Trolleys | 52727 | [52727-cities-in-motion-2-trekking-trolleys.json](./52727-cities-in-motion-2-trekking-trolleys.json) |
@@ -12595,6 +12597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comets Wake | 76918 | [76918-comets-wake.json](./76918-comets-wake.json) |
 | CometSoldier | 256107 | [256107-cometsoldier.json](./256107-cometsoldier.json) |
 | CometStriker | 55766 | [55766-cometstriker.json](./55766-cometstriker.json) |
+| CometStriker DX | 238813 | [238813-cometstriker-dx.json](./238813-cometstriker-dx.json) |
 | Comfort | 134414 | [134414-comfort.json](./134414-comfort.json) |
 | Comfort | 195880 | [195880-comfort.json](./195880-comfort.json) |
 | Comfort Zone | 266724 | [266724-comfort-zone.json](./266724-comfort-zone.json) |
