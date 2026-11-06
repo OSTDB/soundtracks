@@ -3246,6 +3246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oops, No Floor! | 421179 | [421179-oops-no-floor.json](./421179-oops-no-floor.json) |
 | Oops! All Greyboxes! | 262548 | [262548-oops-all-greyboxes.json](./262548-oops-all-greyboxes.json) |
 | Oops! All Gyarus! | 294991 | [294991-oops-all-gyarus.json](./294991-oops-all-gyarus.json) |
+| Oops! All Keys | 214868 | [214868-oops-all-keys.json](./214868-oops-all-keys.json) |
 | Oops! All Techbase | 259493 | [259493-oops-all-techbase.json](./259493-oops-all-techbase.json) |
 | Oops! Inc. Emergency Center | 395044 | [395044-oops-inc-emergency-center.json](./395044-oops-inc-emergency-center.json) |
 | Oops! No Brakes | 181618 | [181618-oops-no-brakes.json](./181618-oops-no-brakes.json) |
