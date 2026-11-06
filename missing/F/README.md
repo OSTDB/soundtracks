@@ -9862,6 +9862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Roads | 262940 | [262940-forgotten-roads.json](./262940-forgotten-roads.json) |
 | Forgotten Runiverse | 275661 | [275661-forgotten-runiverse.json](./275661-forgotten-runiverse.json) |
 | Forgotten Saga | 145572 | [145572-forgotten-saga.json](./145572-forgotten-saga.json) |
+| Forgotten School | 229447 | [229447-forgotten-school.json](./229447-forgotten-school.json) |
 | Forgotten Seas | 233582 | [233582-forgotten-seas.json](./233582-forgotten-seas.json) |
 | Forgotten Signal: Portal | 348389 | [348389-forgotten-signal-portal.json](./348389-forgotten-signal-portal.json) |
 | Forgotten Skies | 300465 | [300465-forgotten-skies.json](./300465-forgotten-skies.json) |
@@ -11772,6 +11773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin' Corruption: Reimagined! | 202580 | [202580-friday-night-funkin-corruption-reimagined.json](./202580-friday-night-funkin-corruption-reimagined.json) |
 | Friday Night Funkin' D-Sides | 198304 | [198304-friday-night-funkin-d-sides.json](./198304-friday-night-funkin-d-sides.json) |
 | Friday Night Funkin' D-Sides Redux | 392875 | [392875-friday-night-funkin-d-sides-redux.json](./392875-friday-night-funkin-d-sides-redux.json) |
+| Friday Night Funkin' Draw | 229466 | [229466-friday-night-funkin-draw.json](./229466-friday-night-funkin-draw.json) |
 | Friday Night Funkin' Lullaby | 198347 | [198347-friday-night-funkin-lullaby.json](./198347-friday-night-funkin-lullaby.json) |
 | Friday Night Funkin' Red Version: vs. Red | 322374 | [322374-friday-night-funkin-red-version-vs-red.json](./322374-friday-night-funkin-red-version-vs-red.json) |
 | Friday Night Funkin' Soft | 206928 | [206928-friday-night-funkin-soft.json](./206928-friday-night-funkin-soft.json) |
