@@ -5923,7 +5923,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -11253,6 +11252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Witch | 244228 | [244228-midnight-witch.json](./244228-midnight-witch.json) |
 | Midnight Witch Starlight | 261090 | [261090-midnight-witch-starlight.json](./261090-midnight-witch-starlight.json) |
 | Midnight Yammy 8-Bit Trickster Show | 377556 | [377556-midnight-yammy-8-bit-trickster-show.json](./377556-midnight-yammy-8-bit-trickster-show.json) |
+| Midnight Zone | 207466 | [207466-midnight-zone.json](./207466-midnight-zone.json) |
 | Midnight: Submersion | 181111 | [181111-midnight-submersion.json](./181111-midnight-submersion.json) |
 | Midnight. Swordfight. | 59699 | [59699-midnight-swordfight.json](./59699-midnight-swordfight.json) |
 | Midnight's Bell | 319647 | [319647-midnights-bell.json](./319647-midnights-bell.json) |
@@ -13884,6 +13884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mist Gears | 107142 | [107142-mist-gears.json](./107142-mist-gears.json) |
 | Mist Guard | 207346 | [207346-mist-guard.json](./207346-mist-guard.json) |
 | Mist Hunter | 114067 | [114067-mist-hunter.json](./114067-mist-hunter.json) |
+| Mist Monkey: Wanderer | 207461 | [207461-mist-monkey-wanderer.json](./207461-mist-monkey-wanderer.json) |
 | Mist of Chaos | 7368 | [7368-mist-of-chaos.json](./7368-mist-of-chaos.json) |
 | Mist of the Dark | 60059 | [60059-mist-of-the-dark.json](./60059-mist-of-the-dark.json) |
 | Mist of the Undead | 148484 | [148484-mist-of-the-undead.json](./148484-mist-of-the-undead.json) |
@@ -16249,6 +16250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters University | 137564 | [137564-monsters-university.json](./137564-monsters-university.json) |
 | Monsters University | 404650 | [404650-monsters-university.json](./404650-monsters-university.json) |
 | Monsters University: Hide and Sneak | 205615 | [205615-monsters-university-hide-and-sneak.json](./205615-monsters-university-hide-and-sneak.json) |
+| Monsters Versus Pals | 207460 | [207460-monsters-versus-pals.json](./207460-monsters-versus-pals.json) |
 | Monsters vs. Aliens | 248558 | [248558-monsters-vs-aliens.json](./248558-monsters-vs-aliens.json) |
 | Monsters vs. Aliens | 248559 | [248559-monsters-vs-aliens.json](./248559-monsters-vs-aliens.json) |
 | Monsters vs. Aliens | 5021 | [5021-monsters-vs-aliens.json](./5021-monsters-vs-aliens.json) |
