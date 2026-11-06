@@ -928,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Night With: Succubus | 331291 | [331291-a-night-with-succubus.json](./331291-a-night-with-succubus.json) |
 | A Night With: SuperHero | 371043 | [371043-a-night-with-superhero.json](./371043-a-night-with-superhero.json) |
 | A Nightmare on Elm Street | 129595 | [129595-a-nightmare-on-elm-street.json](./129595-a-nightmare-on-elm-street.json) |
+| A Nightmare on Elm Street | 238844 | [238844-a-nightmare-on-elm-street.json](./238844-a-nightmare-on-elm-street.json) |
 | A Nightmare on Elm Street | 40935 | [40935-a-nightmare-on-elm-street.json](./40935-a-nightmare-on-elm-street.json) |
 | A Nightmare on Elm Street: Son of a Hundred Maniacs | 176824 | [176824-a-nightmare-on-elm-street-son-of-a-hundred-maniacs.json](./176824-a-nightmare-on-elm-street-son-of-a-hundred-maniacs.json) |
 | A Nightmare on Sesame Street | 178902 | [178902-a-nightmare-on-sesame-street.json](./178902-a-nightmare-on-sesame-street.json) |
@@ -9094,6 +9095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Battle: The Aztecs | 326753 | [326753-ancient-battle-the-aztecs.json](./326753-ancient-battle-the-aztecs.json) |
 | Ancient Beast | 132866 | [132866-ancient-beast.json](./132866-ancient-beast.json) |
 | Ancient Board Game Collection | 199201 | [199201-ancient-board-game-collection.json](./199201-ancient-board-game-collection.json) |
+| Ancient Bricks | 238838 | [238838-ancient-bricks.json](./238838-ancient-bricks.json) |
 | Ancient Charm | 130069 | [130069-ancient-charm.json](./130069-ancient-charm.json) |
 | Ancient Cities | 79134 | [79134-ancient-cities.json](./79134-ancient-cities.json) |
 | Ancient Code VR | 59867 | [59867-ancient-code-vr.json](./59867-ancient-code-vr.json) |
@@ -14576,6 +14578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asameshimae Nyanko | 44450 | [44450-asameshimae-nyanko.json](./44450-asameshimae-nyanko.json) |
 | Asami Escape | 314809 | [314809-asami-escape.json](./314809-asami-escape.json) |
 | Asantria | 373486 | [373486-asantria.json](./373486-asantria.json) |
+| Asari Nanami's Star Fishing | 238850 | [238850-asari-nanamis-star-fishing.json](./238850-asari-nanamis-star-fishing.json) |
 | Asatsugutori | 163145 | [163145-asatsugutori.json](./163145-asatsugutori.json) |
 | Asbak | 303896 | [303896-asbak.json](./303896-asbak.json) |
 | Asbury Pines | 258480 | [258480-asbury-pines.json](./258480-asbury-pines.json) |
