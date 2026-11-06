@@ -6431,6 +6431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonogram: Girl's Sweets | 220454 | [220454-nonogram-girls-sweets.json](./220454-nonogram-girls-sweets.json) |
 | Nonogram: Girl's Sweets II | 228090 | [228090-nonogram-girls-sweets-ii.json](./228090-nonogram-girls-sweets-ii.json) |
 | Nonogram: Kawaii Cuties | 212966 | [212966-nonogram-kawaii-cuties.json](./212966-nonogram-kawaii-cuties.json) |
+| Nonogram: Kawaii Cuties 2nd | 226544 | [226544-nonogram-kawaii-cuties-2nd.json](./226544-nonogram-kawaii-cuties-2nd.json) |
 | Nonogram: Master's Legacy | 111030 | [111030-nonogram-masters-legacy.json](./111030-nonogram-masters-legacy.json) |
 | Nonogram: Master's Legacy - The Classic Pack | 349413 | [349413-nonogram-masters-legacy-the-classic-pack.json](./349413-nonogram-masters-legacy-the-classic-pack.json) |
 | Nonogram: Master's Legacy - The Greatest Pack | 161739 | [161739-nonogram-masters-legacy-the-greatest-pack.json](./161739-nonogram-masters-legacy-the-greatest-pack.json) |
