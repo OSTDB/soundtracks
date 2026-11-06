@@ -3666,6 +3666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whacky Ball | 243712 | [243712-whacky-ball.json](./243712-whacky-ball.json) |
 | Whacky Golf | 161578 | [161578-whacky-golf.json](./161578-whacky-golf.json) |
 | Whacky Park | 216796 | [216796-whacky-park.json](./216796-whacky-park.json) |
+| Whale | 193580 | [193580-whale.json](./193580-whale.json) |
 | Whale Eater | 183981 | [183981-whale-eater.json](./183981-whale-eater.json) |
 | Whale Fall | 255458 | [255458-whale-fall.json](./255458-whale-fall.json) |
 | Whale Flesh | 331053 | [331053-whale-flesh.json](./331053-whale-flesh.json) |
@@ -4474,6 +4475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispered Secrets: Song of Sorrow - Collector's Edition | 361251 | [361251-whispered-secrets-song-of-sorrow-collectors-edition.json](./361251-whispered-secrets-song-of-sorrow-collectors-edition.json) |
 | Whispered Secrets: The Story of Tideville | 139782 | [139782-whispered-secrets-the-story-of-tideville.json](./139782-whispered-secrets-the-story-of-tideville.json) |
 | Whispered Secrets: Tying the Knot | 268927 | [268927-whispered-secrets-tying-the-knot.json](./268927-whispered-secrets-tying-the-knot.json) |
+| Whispered Secrets: Tying the Knot - Collector's Edition | 193550 | [193550-whispered-secrets-tying-the-knot-collectors-edition.json](./193550-whispered-secrets-tying-the-knot-collectors-edition.json) |
 | Whispered Stories: Sandman | 175803 | [175803-whispered-stories-sandman.json](./175803-whispered-stories-sandman.json) |
 | Whispering Abyss | 216829 | [216829-whispering-abyss.json](./216829-whispering-abyss.json) |
 | Whispering Age | 311535 | [311535-whispering-age.json](./311535-whispering-age.json) |
@@ -4664,6 +4666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White-Water Domo | 68060 | [68060-white-water-domo.json](./68060-white-water-domo.json) |
 | White: Invasion | 297983 | [297983-white-invasion.json](./297983-white-invasion.json) |
 | WhiteBird | 119670 | [119670-whitebird.json](./119670-whitebird.json) |
+| Whiteboyz Wit Attitude: The Pursuit of Money | 193548 | [193548-whiteboyz-wit-attitude-the-pursuit-of-money.json](./193548-whiteboyz-wit-attitude-the-pursuit-of-money.json) |
 | WhiteClothes | 247941 | [247941-whiteclothes.json](./247941-whiteclothes.json) |
 | Whitedary | 400700 | [400700-whitedary.json](./400700-whitedary.json) |
 | Whitehaven | 152683 | [152683-whitehaven.json](./152683-whitehaven.json) |
@@ -8607,6 +8610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worldend Heroes | 364826 | [364826-worldend-heroes.json](./364826-worldend-heroes.json) |
 | Worldforge: Construct & Destroy | 413125 | [413125-worldforge-construct-and-destroy.json](./413125-worldforge-construct-and-destroy.json) |
 | WorldGuessr | 315679 | [315679-worldguessr.json](./315679-worldguessr.json) |
+| Worldle | 193524 | [193524-worldle.json](./193524-worldle.json) |
 | Worldless | 214709 | [214709-worldless.json](./214709-worldless.json) |
 | Worldless - Mercenaries | 127598 | [127598-worldless-mercenaries.json](./127598-worldless-mercenaries.json) |
 | Worldly: Country & Maps Quiz | 406058 | [406058-worldly-country-and-maps-quiz.json](./406058-worldly-country-and-maps-quiz.json) |
