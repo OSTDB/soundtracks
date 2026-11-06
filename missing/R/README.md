@@ -3878,6 +3878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Frontier 2 | 133026 | [133026-red-frontier-2.json](./133026-red-frontier-2.json) |
 | Red Frost | 125588 | [125588-red-frost.json](./125588-red-frost.json) |
 | Red Frozen | 149207 | [149207-red-frozen.json](./149207-red-frozen.json) |
+| Red Fury | 208555 | [208555-red-fury.json](./208555-red-fury.json) |
 | Red Galaxy | 156534 | [156534-red-galaxy.json](./156534-red-galaxy.json) |
 | Red Galaxy | 418869 | [418869-red-galaxy.json](./418869-red-galaxy.json) |
 | Red Game Without a Great Name | 15038 | [15038-red-game-without-a-great-name.json](./15038-red-game-without-a-great-name.json) |
