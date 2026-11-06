@@ -11445,6 +11445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kharzov Effect | 322134 | [322134-the-kharzov-effect.json](./322134-the-kharzov-effect.json) |
 | The Kids Puzzle | 85922 | [85922-the-kids-puzzle.json](./85922-the-kids-puzzle.json) |
 | The Kids We Were | 148238 | [148238-the-kids-we-were.json](./148238-the-kids-we-were.json) |
+| The Kill Kar II: Revenge | 234389 | [234389-the-kill-kar-ii-revenge.json](./234389-the-kill-kar-ii-revenge.json) |
 | The Kill Zone | 235827 | [235827-the-kill-zone.json](./235827-the-kill-zone.json) |
 | The Killbox: Arena Combat | 74293 | [74293-the-killbox-arena-combat.json](./74293-the-killbox-arena-combat.json) |
 | The Killbox: Arena Combat US | 86976 | [86976-the-killbox-arena-combat-us.json](./86976-the-killbox-arena-combat-us.json) |
@@ -23450,6 +23451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanfall 3 | 77418 | [77418-titanfall-3.json](./77418-titanfall-3.json) |
 | Titanfall Frontline | 26790 | [26790-titanfall-frontline.json](./26790-titanfall-frontline.json) |
 | Titanfall Frontline | 400292 | [400292-titanfall-frontline.json](./400292-titanfall-frontline.json) |
+| Titanfall Legends | 234393 | [234393-titanfall-legends.json](./234393-titanfall-legends.json) |
 | Titanfall: Assault | 28443 | [28443-titanfall-assault.json](./28443-titanfall-assault.json) |
 | Titanfall: Deluxe Edition | 83876 | [83876-titanfall-deluxe-edition.json](./83876-titanfall-deluxe-edition.json) |
 | Titanfall: Expedition | 21647 | [21647-titanfall-expedition.json](./21647-titanfall-expedition.json) |
