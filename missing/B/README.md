@@ -1419,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball | 140884 | [140884-ball.json](./140884-ball.json) |
 | Ball | 231388 | [231388-ball.json](./231388-ball.json) |
 | Ball | 231735 | [231735-ball.json](./231735-ball.json) |
+| Ball | 232790 | [232790-ball.json](./232790-ball.json) |
 | Ball | 246991 | [246991-ball.json](./246991-ball.json) |
 | Ball | 311446 | [311446-ball.json](./311446-ball.json) |
 | Ball | 356422 | [356422-ball.json](./356422-ball.json) |
@@ -2610,6 +2611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bardi: Real Viking | 344875 | [344875-bardi-real-viking.json](./344875-bardi-real-viking.json) |
 | Bardic: Quest for Love | 270100 | [270100-bardic-quest-for-love.json](./270100-bardic-quest-for-love.json) |
 | Bardo | 109727 | [109727-bardo.json](./109727-bardo.json) |
+| Bardy's Maze: The World's First Zard-PG | 232804 | [232804-bardys-maze-the-worlds-first-zard-pg.json](./232804-bardys-maze-the-worlds-first-zard-pg.json) |
 | Bardysh: Kromeford no Juunin | 167075 | [167075-bardysh-kromeford-no-juunin.json](./167075-bardysh-kromeford-no-juunin.json) |
 | Bare Butt Boxing | 197269 | [197269-bare-butt-boxing.json](./197269-bare-butt-boxing.json) |
 | Bare Knuckle III | 151541 | [151541-bare-knuckle-iii.json](./151541-bare-knuckle-iii.json) |
