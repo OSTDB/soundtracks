@@ -2219,6 +2219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rave: Ultimate Battle | 63349 | [63349-rave-ultimate-battle.json](./63349-rave-ultimate-battle.json) |
 | Ravelle: Last Draw | 387011 | [387011-ravelle-last-draw.json](./387011-ravelle-last-draw.json) |
 | Raven | 197173 | [197173-raven.json](./197173-raven.json) |
+| Raven Estate | 216539 | [216539-raven-estate.json](./216539-raven-estate.json) |
 | Raven Fighter | 285429 | [285429-raven-fighter.json](./285429-raven-fighter.json) |
 | Raven Go! | 280639 | [280639-raven-go.json](./280639-raven-go.json) |
 | Raven Gold | 329065 | [329065-raven-gold.json](./329065-raven-gold.json) |
@@ -4059,6 +4060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Tractor Tycoon | 114070 | [114070-red-tractor-tycoon.json](./114070-red-tractor-tycoon.json) |
 | Red Trees Rail. CO | 305925 | [305925-red-trees-rail-co.json](./305925-red-trees-rail-co.json) |
 | Red Triangle Super Collection | 192154 | [192154-red-triangle-super-collection.json](./192154-red-triangle-super-collection.json) |
+| Red Trigger 2 | 216538 | [216538-red-trigger-2.json](./216538-red-trigger-2.json) |
 | Red Turn: The Road to Berlin 1943-45 | 22646 | [22646-red-turn-the-road-to-berlin-1943-45.json](./22646-red-turn-the-road-to-berlin-1943-45.json) |
 | Red Valley | 199389 | [199389-red-valley.json](./199389-red-valley.json) |
 | Red Vanilla 2 | 366733 | [366733-red-vanilla-2.json](./366733-red-vanilla-2.json) |
@@ -5402,6 +5404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Mary: Manor Renovation | 227949 | [227949-rescue-mary-manor-renovation.json](./227949-rescue-mary-manor-renovation.json) |
 | Rescue Mission | 18140 | [18140-rescue-mission.json](./18140-rescue-mission.json) |
 | Rescue my Queen! | 140998 | [140998-rescue-my-queen.json](./140998-rescue-my-queen.json) |
+| Rescue Operations Simulator | 216537 | [216537-rescue-operations-simulator.json](./216537-rescue-operations-simulator.json) |
 | Rescue Ops: Wildfire | 349412 | [349412-rescue-ops-wildfire.json](./349412-rescue-ops-wildfire.json) |
 | Rescue Pets | 359221 | [359221-rescue-pets.json](./359221-rescue-pets.json) |
 | Rescue Pets: My ePets | 252120 | [252120-rescue-pets-my-epets.json](./252120-rescue-pets-my-epets.json) |
