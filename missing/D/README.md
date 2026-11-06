@@ -3862,7 +3862,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Space 3: Awakened | 10173 | [10173-dead-space-3-awakened.json](./10173-dead-space-3-awakened.json) |
 | Dead Space 3: Enervator | 165944 | [165944-dead-space-3-enervator.json](./165944-dead-space-3-enervator.json) |
 | Dead Space 3: Limited Edition | 44604 | [44604-dead-space-3-limited-edition.json](./44604-dead-space-3-limited-edition.json) |
+| Dead Space 3: Sharpshooter Pack | 224340 | [224340-dead-space-3-sharpshooter-pack.json](./224340-dead-space-3-sharpshooter-pack.json) |
+| Dead Space 3: Tundra Recon Pack | 224341 | [224341-dead-space-3-tundra-recon-pack.json](./224341-dead-space-3-tundra-recon-pack.json) |
 | Dead Space 3: Ultimate Edition | 99930 | [99930-dead-space-3-ultimate-edition.json](./99930-dead-space-3-ultimate-edition.json) |
+| Dead Space 3: Witness the Truth Pack | 224342 | [224342-dead-space-3-witness-the-truth-pack.json](./224342-dead-space-3-witness-the-truth-pack.json) |
 | Dead Space Collection | 371743 | [371743-dead-space-collection.json](./371743-dead-space-collection.json) |
 | Dead Space Demake | 245167 | [245167-dead-space-demake.json](./245167-dead-space-demake.json) |
 | Dead Space Nokia | 323812 | [323812-dead-space-nokia.json](./323812-dead-space-nokia.json) |
