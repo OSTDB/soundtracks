@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.C. Bot Inc. | 33097 | [33097-r-c-bot-inc.json](./33097-r-c-bot-inc.json) |
 | R.C. Grand Prix | 46336 | [46336-r-c-grand-prix.json](./46336-r-c-grand-prix.json) |
 | R.C. Pro-Am | 9155 | [9155-r-c-pro-am.json](./9155-r-c-pro-am.json) |
+| R.C.T. Eizou Play | 243471 | [243471-r-c-t-eizou-play.json](./243471-r-c-t-eizou-play.json) |
 | R.E.A.C.T | 195595 | [195595-r-e-a-c-t.json](./195595-r-e-a-c-t.json) |
 | R.E.E.L. | 133367 | [133367-r-e-e-l.json](./133367-r-e-e-l.json) |
 | R.E.M. scape | 178432 | [178432-r-e-m-scape.json](./178432-r-e-m-scape.json) |
