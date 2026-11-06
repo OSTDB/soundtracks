@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P.W. Project Witch | 327156 | [327156-p-w-project-witch.json](./327156-p-w-project-witch.json) |
 | P'radikus Conflict | 73467 | [73467-pradikus-conflict.json](./73467-pradikus-conflict.json) |
 | P0 | 159517 | [159517-p0.json](./159517-p0.json) |
+| p0nd | 242893 | [242893-p0nd.json](./242893-p0nd.json) |
 | P1 Select | 139803 | [139803-p1-select.json](./139803-p1-select.json) |
 | P1: Anchor Light | 363808 | [363808-p1-anchor-light.json](./363808-p1-anchor-light.json) |
 | P1441vr | 186851 | [186851-p1441vr.json](./186851-p1441vr.json) |
@@ -9753,6 +9754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playnicky | 221068 | [221068-playnicky.json](./221068-playnicky.json) |
 | Playover | 391444 | [391444-playover.json](./391444-playover.json) |
 | PlayPark StreetBallers | 249691 | [249691-playpark-streetballers.json](./249691-playpark-streetballers.json) |
+| PlayPen | 242902 | [242902-playpen.json](./242902-playpen.json) |
 | Playroom Invasion TD | 264646 | [264646-playroom-invasion-td.json](./264646-playroom-invasion-td.json) |
 | Playroom Racer | 268329 | [268329-playroom-racer.json](./268329-playroom-racer.json) |
 | Playroom Racer 2 | 259028 | [259028-playroom-racer-2.json](./259028-playroom-racer-2.json) |
@@ -11370,6 +11372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Unite: Season 2 | 194418 | [194418-pokemon-unite-season-2.json](./194418-pokemon-unite-season-2.json) |
 | Pokémon Unite: Season 3 | 194420 | [194420-pokemon-unite-season-3.json](./194420-pokemon-unite-season-3.json) |
 | Pokémon Uranium | 24949 | [24949-pokemon-uranium.json](./24949-pokemon-uranium.json) |
+| Pokémon Vanguard | 242897 | [242897-pokemon-vanguard.json](./242897-pokemon-vanguard.json) |
 | Pokémon Vanishing Point | 318563 | [318563-pokemon-vanishing-point.json](./318563-pokemon-vanishing-point.json) |
 | Pokémon Velvet: Special Hatenna Edition | 337422 | [337422-pokemon-velvet-special-hatenna-edition.json](./337422-pokemon-velvet-special-hatenna-edition.json) |
 | Pokémon Version Violette | 401803 | [401803-pokemon-version-violette.json](./401803-pokemon-version-violette.json) |
@@ -13141,6 +13144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potions, Please! | 381186 | [381186-potions-please.json](./381186-potions-please.json) |
 | Potions: A Curious Tale | 22554 | [22554-potions-a-curious-tale.json](./22554-potions-a-curious-tale.json) |
 | Potionworm | 350304 | [350304-potionworm.json](./350304-potionworm.json) |
+| Poto & Cabenga | 242903 | [242903-poto-and-cabenga.json](./242903-poto-and-cabenga.json) |
 | Potpourrii | 21799 | [21799-potpourrii.json](./21799-potpourrii.json) |
 | Potrick Snap | 341004 | [341004-potrick-snap.json](./341004-potrick-snap.json) |
 | Potrick Snap 2 | 341012 | [341012-potrick-snap-2.json](./341012-potrick-snap-2.json) |
