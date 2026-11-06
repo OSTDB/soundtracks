@@ -4273,6 +4273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HellFight | 265793 | [265793-hellfight.json](./265793-hellfight.json) |
 | Hellfighter | 92458 | [92458-hellfighter.json](./92458-hellfighter.json) |
 | Hellfire | 19503 | [19503-hellfire.json](./19503-hellfire.json) |
+| Hellfire | 212020 | [212020-hellfire.json](./212020-hellfire.json) |
 | Hellfire | 274129 | [274129-hellfire.json](./274129-hellfire.json) |
 | Hellfire | 319022 | [319022-hellfire.json](./319022-hellfire.json) |
 | Hellfire | 321796 | [321796-hellfire.json](./321796-hellfire.json) |
@@ -5191,6 +5192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Mosaique Fix-IT Shoppe | 139429 | [139429-hentai-mosaique-fix-it-shoppe.json](./139429-hentai-mosaique-fix-it-shoppe.json) |
 | Hentai Mosaique Neko Waifus | 167807 | [167807-hentai-mosaique-neko-waifus.json](./167807-hentai-mosaique-neko-waifus.json) |
 | Hentai Mosaique Puzzle | 113283 | [113283-hentai-mosaique-puzzle.json](./113283-hentai-mosaique-puzzle.json) |
+| Hentai Mosaique Vip Room | 212040 | [212040-hentai-mosaique-vip-room.json](./212040-hentai-mosaique-vip-room.json) |
 | Hentai Most Wanted | 366501 | [366501-hentai-most-wanted.json](./366501-hentai-most-wanted.json) |
 | Hentai Nana | 296947 | [296947-hentai-nana.json](./296947-hentai-nana.json) |
 | Hentai Natsuki | 340441 | [340441-hentai-natsuki.json](./340441-hentai-natsuki.json) |
@@ -9273,6 +9275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homesteader | 62660 | [62660-homesteader.json](./62660-homesteader.json) |
 | Homestuck: Strife Project | 392326 | [392326-homestuck-strife-project.json](./392326-homestuck-strife-project.json) |
 | Hometown Farm | 208191 | [208191-hometown-farm.json](./208191-hometown-farm.json) |
+| Hometown Hero | 212015 | [212015-hometown-hero.json](./212015-hometown-hero.json) |
 | Hometown Poker Hero | 54085 | [54085-hometown-poker-hero.json](./54085-hometown-poker-hero.json) |
 | Hometown Store | 385637 | [385637-hometown-store.json](./385637-hometown-store.json) |
 | Hometown Story | 6808 | [6808-hometown-story.json](./6808-hometown-story.json) |
