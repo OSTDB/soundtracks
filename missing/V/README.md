@@ -4084,6 +4084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRiking | 261506 | [261506-vriking.json](./261506-vriking.json) |
 | VRIQ | 29082 | [29082-vriq.json](./29082-vriq.json) |
 | Vritra | 125651 | [125651-vritra.json](./125651-vritra.json) |
+| Vritra Hexa | 225454 | [225454-vritra-hexa.json](./225454-vritra-hexa.json) |
 | Vritra: Complete Edition | 107917 | [107917-vritra-complete-edition.json](./107917-vritra-complete-edition.json) |
 | VRkanoid | 188457 | [188457-vrkanoid.json](./188457-vrkanoid.json) |
 | VRKraft | 160143 | [160143-vrkraft.json](./160143-vrkraft.json) |
