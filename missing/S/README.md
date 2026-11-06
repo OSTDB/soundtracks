@@ -8200,6 +8200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Fortune Quest: Shokutaku no Kishi-tachi | 419773 | [419773-shin-fortune-quest-shokutaku-no-kishi-tachi.json](./419773-shin-fortune-quest-shokutaku-no-kishi-tachi.json) |
 | Shin Fumi Ikemen Ouoku Kinjirareta Koi | 229027 | [229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json](./229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json) |
 | Shin Fushigi no Kuni no Alice | 424633 | [424633-shin-fushigi-no-kuni-no-alice.json](./424633-shin-fushigi-no-kuni-no-alice.json) |
+| Shin Galaxy: Alpha War | 224920 | [224920-shin-galaxy-alpha-war.json](./224920-shin-galaxy-alpha-war.json) |
 | Shin Galaxy: Engage | 259598 | [259598-shin-galaxy-engage.json](./259598-shin-galaxy-engage.json) |
 | Shin Gouketsuji Ichizoku: Bonnou no Kaihou | 71914 | [71914-shin-gouketsuji-ichizoku-bonnou-no-kaihou.json](./71914-shin-gouketsuji-ichizoku-bonnou-no-kaihou.json) |
 | Shin Gundam Musou | 52832 | [52832-shin-gundam-musou.json](./52832-shin-gundam-musou.json) |
@@ -11280,6 +11281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Single Line | 225366 | [225366-single-line.json](./225366-single-line.json) |
 | Single Malt Apocalypse | 258336 | [258336-single-malt-apocalypse.json](./258336-single-malt-apocalypse.json) |
 | Single Player Tarkov | 314711 | [314711-single-player-tarkov.json](./314711-single-player-tarkov.json) |
+| Single Player: Horror | 224902 | [224902-single-player-horror.json](./224902-single-player-horror.json) |
 | Single Scoop | 357002 | [357002-single-scoop.json](./357002-single-scoop.json) |
 | Single Spark | 346389 | [346389-single-spark.json](./346389-single-spark.json) |
 | Single-handedly Challenge Ultimate World | 329095 | [329095-single-handedly-challenge-ultimate-world.json](./329095-single-handedly-challenge-ultimate-world.json) |
@@ -12615,6 +12617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Taxi: GMO Armageddon | 54370 | [54370-sky-taxi-gmo-armageddon.json](./54370-sky-taxi-gmo-armageddon.json) |
 | Sky the Scraper | 256338 | [256338-sky-the-scraper.json](./256338-sky-the-scraper.json) |
 | Sky to Fly: Soulless Leviathan | 33143 | [33143-sky-to-fly-soulless-leviathan.json](./33143-sky-to-fly-soulless-leviathan.json) |
+| Sky Tomb | 224927 | [224927-sky-tomb.json](./224927-sky-tomb.json) |
 | Sky Tower | 34625 | [34625-sky-tower.json](./34625-sky-tower.json) |
 | Sky Tracers | 111298 | [111298-sky-tracers.json](./111298-sky-tracers.json) |
 | Sky Track | 54372 | [54372-sky-track.json](./54372-sky-track.json) |
@@ -19111,6 +19114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Bomb | 120417 | [120417-space-bomb.json](./120417-space-bomb.json) |
 | Space Bomber | 39418 | [39418-space-bomber.json](./39418-space-bomber.json) |
 | Space Borders: Alien Encounter | 175051 | [175051-space-borders-alien-encounter.json](./175051-space-borders-alien-encounter.json) |
+| Space Bot | 224888 | [224888-space-bot.json](./224888-space-bot.json) |
 | Space Bots | 95774 | [95774-space-bots.json](./95774-space-bots.json) |
 | Space Bounce | 178984 | [178984-space-bounce.json](./178984-space-bounce.json) |
 | Space Bouncer | 314691 | [314691-space-bouncer.json](./314691-space-bouncer.json) |
@@ -20896,6 +20900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Truck Racing | 147638 | [147638-speed-truck-racing.json](./147638-speed-truck-racing.json) |
 | Speed Tube Racer | 200202 | [200202-speed-tube-racer.json](./200202-speed-tube-racer.json) |
 | Speed Up | 105331 | [105331-speed-up.json](./105331-speed-up.json) |
+| Speed Up | 224900 | [224900-speed-up.json](./224900-speed-up.json) |
 | Speed Vortex | 377020 | [377020-speed-vortex.json](./377020-speed-vortex.json) |
 | Speed X: Extreme 3D Car Racing | 251211 | [251211-speed-x-extreme-3d-car-racing.json](./251211-speed-x-extreme-3d-car-racing.json) |
 | Speed Zone | 51130 | [51130-speed-zone.json](./51130-speed-zone.json) |
@@ -33944,6 +33949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival In Africa | 167474 | [167474-survival-in-africa.json](./167474-survival-in-africa.json) |
 | Survival in Draconia | 309468 | [309468-survival-in-draconia.json](./309468-survival-in-draconia.json) |
 | Survival in Snow | 247818 | [247818-survival-in-snow.json](./247818-survival-in-snow.json) |
+| Survival in the Backrooms | 224905 | [224905-survival-in-the-backrooms.json](./224905-survival-in-the-backrooms.json) |
 | Survival in Three Kingdoms | 115803 | [115803-survival-in-three-kingdoms.json](./115803-survival-in-three-kingdoms.json) |
 | Survival Island | 201672 | [201672-survival-island.json](./201672-survival-island.json) |
 | Survival Island | 40690 | [40690-survival-island.json](./40690-survival-island.json) |
@@ -34135,6 +34141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving the Aftermath: Forgotten Tracks | 242332 | [242332-surviving-the-aftermath-forgotten-tracks.json](./242332-surviving-the-aftermath-forgotten-tracks.json) |
 | Surviving the Aftermath: New Alliances | 203382 | [203382-surviving-the-aftermath-new-alliances.json](./203382-surviving-the-aftermath-new-alliances.json) |
 | Surviving the Aftermath: Rebirth | 240901 | [240901-surviving-the-aftermath-rebirth.json](./240901-surviving-the-aftermath-rebirth.json) |
+| Surviving the Aftermath: Shattered Hope | 224907 | [224907-surviving-the-aftermath-shattered-hope.json](./224907-surviving-the-aftermath-shattered-hope.json) |
 | Surviving the Aftermath: Ultimate Colony Edition | 188054 | [188054-surviving-the-aftermath-ultimate-colony-edition.json](./188054-surviving-the-aftermath-ultimate-colony-edition.json) |
 | Surviving the Apocalypse Is More Fun When There’s Sex | 301658 | [301658-surviving-the-apocalypse-is-more-fun-when-there-s-sex.json](./301658-surviving-the-apocalypse-is-more-fun-when-there-s-sex.json) |
 | Surviving the Fall | 238569 | [238569-surviving-the-fall.json](./238569-surviving-the-fall.json) |
