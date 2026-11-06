@@ -3912,6 +3912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fentanyl Edition | 327411 | [327411-fentanyl-edition.json](./327411-fentanyl-edition.json) |
 | Feodika | 382777 | [382777-feodika.json](./382777-feodika.json) |
 | Fer.al | 134534 | [134534-fer-al.json](./134534-fer-al.json) |
+| Fera Knight | 212000 | [212000-fera-knight.json](./212000-fera-knight.json) |
 | Feral | 192323 | [192323-feral.json](./192323-feral.json) |
 | Feral Absence | 413785 | [413785-feral-absence.json](./413785-feral-absence.json) |
 | Feral Attraction | 425875 | [425875-feral-attraction.json](./425875-feral-attraction.json) |
