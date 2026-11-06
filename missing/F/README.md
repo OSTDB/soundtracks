@@ -5990,6 +5990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Trap | 39551 | [39551-fire-trap.json](./39551-fire-trap.json) |
 | Fire Truck | 143172 | [143172-fire-truck.json](./143172-fire-truck.json) |
 | Fire Truck | 40039 | [40039-fire-truck.json](./40039-fire-truck.json) |
+| Fire Truck Simulator | 204022 | [204022-fire-truck-simulator.json](./204022-fire-truck-simulator.json) |
 | Fire Truck: Airport Rescue | 96909 | [96909-fire-truck-airport-rescue.json](./96909-fire-truck-airport-rescue.json) |
 | Fire Trump: Air Combat VR | 171362 | [171362-fire-trump-air-combat-vr.json](./171362-fire-trump-air-combat-vr.json) |
 | Fire Up Together | 416103 | [416103-fire-up-together.json](./416103-fire-up-together.json) |
@@ -9271,6 +9272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Seasons | 239117 | [239117-football-seasons.json](./239117-football-seasons.json) |
 | Football Showdown 2 | 240870 | [240870-football-showdown-2.json](./240870-football-showdown-2.json) |
 | Football Simulation Shoot Game | 220060 | [220060-football-simulation-shoot-game.json](./220060-football-simulation-shoot-game.json) |
+| Football Simulator | 204023 | [204023-football-simulator.json](./204023-football-simulator.json) |
 | Football Squad | 309424 | [309424-football-squad.json](./309424-football-squad.json) |
 | Football Star Life 23/24 | 260152 | [260152-football-star-life-23-24.json](./260152-football-star-life-23-24.json) |
 | Football Stars Legend 24 | 261888 | [261888-football-stars-legend-24.json](./261888-football-stars-legend-24.json) |
@@ -9678,6 +9680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest of Relics | 231698 | [231698-forest-of-relics.json](./231698-forest-of-relics.json) |
 | Forest of Soul | 279141 | [279141-forest-of-soul.json](./279141-forest-of-soul.json) |
 | Forest of Strays | 261600 | [261600-forest-of-strays.json](./261600-forest-of-strays.json) |
+| Forest of Tails: Arena | 204024 | [204024-forest-of-tails-arena.json](./204024-forest-of-tails-arena.json) |
 | Forest Of Terenu | 369875 | [369875-forest-of-terenu.json](./369875-forest-of-terenu.json) |
 | Forest of the Abyss 2 | 98458 | [98458-forest-of-the-abyss-2.json](./98458-forest-of-the-abyss-2.json) |
 | Forest of the Dead | 133060 | [133060-forest-of-the-dead.json](./133060-forest-of-the-dead.json) |
@@ -9740,6 +9743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foretales | 195096 | [195096-foretales.json](./195096-foretales.json) |
 | Foretales: Deluxe Edition | 218690 | [218690-foretales-deluxe-edition.json](./218690-foretales-deluxe-edition.json) |
 | Forever Ago | 136299 | [136299-forever-ago.json](./136299-forever-ago.json) |
+| Forever Alone | 204025 | [204025-forever-alone.json](./204025-forever-alone.json) |
 | Forever and Ever | 167478 | [167478-forever-and-ever.json](./167478-forever-and-ever.json) |
 | Forever and Ever | 274790 | [274790-forever-and-ever.json](./274790-forever-and-ever.json) |
 | Forever and One More Day | 272112 | [272112-forever-and-one-more-day.json](./272112-forever-and-one-more-day.json) |
@@ -12979,6 +12983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuck You Witch | 293818 | [293818-fuck-you-witch.json](./293818-fuck-you-witch.json) |
 | Fuck's Quest II | 406475 | [406475-fucks-quest-ii.json](./406475-fucks-quest-ii.json) |
 | Fucked by the Princesses of the Realm | 372488 | [372488-fucked-by-the-princesses-of-the-realm.json](./372488-fucked-by-the-princesses-of-the-realm.json) |
+| Fucking Hell | 204026 | [204026-fucking-hell.json](./204026-fucking-hell.json) |
 | Fuckling | 192750 | [192750-fuckling.json](./192750-fuckling.json) |
 | Fucksweeper | 306272 | [306272-fucksweeper.json](./306272-fucksweeper.json) |
 | Fucus | 298197 | [298197-fucus.json](./298197-fucus.json) |
@@ -13631,6 +13636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Company | 347345 | [347345-furry-company.json](./347345-furry-company.json) |
 | Furry Cosplay | 340270 | [340270-furry-cosplay.json](./340270-furry-cosplay.json) |
 | Furry Cyberfucker | 196171 | [196171-furry-cyberfucker.json](./196171-furry-cyberfucker.json) |
+| Furry Cyberfucker II | 204029 | [204029-furry-cyberfucker-ii.json](./204029-furry-cyberfucker-ii.json) |
 | Furry Cybersex | 204431 | [204431-furry-cybersex.json](./204431-furry-cybersex.json) |
 | Furry Defenders​​ | 381176 | [381176-furry-defenders.json](./381176-furry-defenders.json) |
 | Furry Dream | 236118 | [236118-furry-dream.json](./236118-furry-dream.json) |
@@ -13892,6 +13898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futanari Sex: Naughty Massage | 203847 | [203847-futanari-sex-naughty-massage.json](./203847-futanari-sex-naughty-massage.json) |
 | Futanari Sex: Naughty Visit | 368124 | [368124-futanari-sex-naughty-visit.json](./368124-futanari-sex-naughty-visit.json) |
 | Futanari Sex: Office Whores | 368123 | [368123-futanari-sex-office-whores.json](./368123-futanari-sex-office-whores.json) |
+| Futanari Sex: Pool Party | 204030 | [204030-futanari-sex-pool-party.json](./204030-futanari-sex-pool-party.json) |
 | Futanari Sex: The Birthday Massage | 204834 | [204834-futanari-sex-the-birthday-massage.json](./204834-futanari-sex-the-birthday-massage.json) |
 | Futanari Sex: The Fertility Doctor | 368122 | [368122-futanari-sex-the-fertility-doctor.json](./368122-futanari-sex-the-fertility-doctor.json) |
 | Futanari Sex: The Gym | 203539 | [203539-futanari-sex-the-gym.json](./203539-futanari-sex-the-gym.json) |
