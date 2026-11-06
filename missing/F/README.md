@@ -7261,6 +7261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flap Legends | 272447 | [272447-flap-legends.json](./272447-flap-legends.json) |
 | Flapbound | 251094 | [251094-flapbound.json](./251094-flapbound.json) |
 | FlapDeath | 389672 | [389672-flapdeath.json](./389672-flapdeath.json) |
+| Flapee Bird | 214223 | [214223-flapee-bird.json](./214223-flapee-bird.json) |
 | FlapOTron | 58760 | [58760-flapotron.json](./58760-flapotron.json) |
 | Flapp & Zegeta | 58124 | [58124-flapp-and-zegeta.json](./58124-flapp-and-zegeta.json) |
 | Flappatron | 120392 | [120392-flappatron.json](./120392-flappatron.json) |
@@ -9678,6 +9679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Survival | 109382 | [109382-forest-survival.json](./109382-forest-survival.json) |
 | Forest Survival | 381032 | [381032-forest-survival.json](./381032-forest-survival.json) |
 | Forest Swords | 257152 | [257152-forest-swords.json](./257152-forest-swords.json) |
+| Forest Terror 2 | 214236 | [214236-forest-terror-2.json](./214236-forest-terror-2.json) |
 | Forest Time | 373517 | [373517-forest-time.json](./373517-forest-time.json) |
 | Forest Tower Defense | 215578 | [215578-forest-tower-defense.json](./215578-forest-tower-defense.json) |
 | Forest Walk | 311142 | [311142-forest-walk.json](./311142-forest-walk.json) |
@@ -12319,6 +12321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogmaster | 268035 | [268035-frogmaster.json](./268035-frogmaster.json) |
 | Frogmonster | 187372 | [187372-frogmonster.json](./187372-frogmonster.json) |
 | Frogo | 208426 | [208426-frogo.json](./208426-frogo.json) |
+| Frogo 2 | 214251 | [214251-frogo-2.json](./214251-frogo-2.json) |
 | Frogo 3 | 225444 | [225444-frogo-3.json](./225444-frogo-3.json) |
 | Frogo Jump | 293601 | [293601-frogo-jump.json](./293601-frogo-jump.json) |
 | Frogrammer | 349074 | [349074-frogrammer.json](./349074-frogrammer.json) |
@@ -13180,6 +13183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fumiko! | 27194 | [27194-fumiko.json](./27194-fumiko.json) |
 | Fumo | 236212 | [236212-fumo.json](./236212-fumo.json) |
 | Fumo | 289231 | [289231-fumo.json](./289231-fumo.json) |
+| Fump Jump | 214250 | [214250-fump-jump.json](./214250-fump-jump.json) |
 | Fumpers | 234246 | [234246-fumpers.json](./234246-fumpers.json) |
 | Fumpers 2: Dual Realms | 384508 | [384508-fumpers-2-dual-realms.json](./384508-fumpers-2-dual-realms.json) |
 | Fun | 360738 | [360738-fun.json](./360738-fun.json) |
