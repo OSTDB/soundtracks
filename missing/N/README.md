@@ -6810,6 +6810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nostromo | 272134 | [272134-nostromo.json](./272134-nostromo.json) |
 | Nostromo's Run | 274197 | [274197-nostromos-run.json](./274197-nostromos-run.json) |
 | Nosy | 205112 | [205112-nosy.json](./205112-nosy.json) |
+| Nosy Little Fly | 214244 | [214244-nosy-little-fly.json](./214244-nosy-little-fly.json) |
 | Not 4 Usual Games | 182912 | [182912-not-4-usual-games.json](./182912-not-4-usual-games.json) |
 | Not A Banana: Capybara | 312610 | [312610-not-a-banana-capybara.json](./312610-not-a-banana-capybara.json) |
 | Not a Creature Was Stirring... | 177435 | [177435-not-a-creature-was-stirring.json](./177435-not-a-creature-was-stirring.json) |
