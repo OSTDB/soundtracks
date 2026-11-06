@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V Lights | 216498 | [216498-v-lights.json](./216498-v-lights.json) |
 | V Mahjong | 131144 | [131144-v-mahjong.json](./131144-v-mahjong.json) |
 | V nekotorom tsarstve | 379324 | [379324-v-nekotorom-tsarstve.json](./379324-v-nekotorom-tsarstve.json) |
+| V or B | 228820 | [228820-v-or-b.json](./228820-v-or-b.json) |
 | V pod''ezde | 116844 | [116844-v-podezde.json](./116844-v-podezde.json) |
 | V poiskakh Atlantidy | 111215 | [111215-v-poiskakh-atlantidy.json](./111215-v-poiskakh-atlantidy.json) |
 | V Prototype | 122613 | [122613-v-prototype.json](./122613-v-prototype.json) |
@@ -2031,6 +2032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Videogame 12 Jogos | 287573 | [287573-videogame-12-jogos.json](./287573-videogame-12-jogos.json) |
 | Videogame Heardle | 203193 | [203193-videogame-heardle.json](./203193-videogame-heardle.json) |
 | Videogames! The Videogame Trivia Videogame | 64217 | [64217-videogames-the-videogame-trivia-videogame.json](./64217-videogames-the-videogame-trivia-videogame.json) |
+| VideoHeroeS | 228857 | [228857-videoheroes.json](./228857-videoheroes.json) |
 | VideoHole: Episode 1 | 132757 | [132757-videohole-episode-1.json](./132757-videohole-episode-1.json) |
 | VideoHole: Episode II | 235886 | [235886-videohole-episode-ii.json](./235886-videohole-episode-ii.json) |
 | Videokid | 92954 | [92954-videokid.json](./92954-videokid.json) |
