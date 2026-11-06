@@ -1287,6 +1287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: Angels of the Zariman - Chrysalith Pack | 223706 | [223706-warframe-angels-of-the-zariman-chrysalith-pack.json](./223706-warframe-angels-of-the-zariman-chrysalith-pack.json) |
 | Warframe: Angels of the Zariman - Emergence Pack | 223707 | [223707-warframe-angels-of-the-zariman-emergence-pack.json](./223707-warframe-angels-of-the-zariman-emergence-pack.json) |
 | Warframe: Archwing | 202145 | [202145-warframe-archwing.json](./202145-warframe-archwing.json) |
+| Warframe: Call of the Tempestarii | 198622 | [198622-warframe-call-of-the-tempestarii.json](./198622-warframe-call-of-the-tempestarii.json) |
 | Warframe: Chains of Harrow | 198495 | [198495-warframe-chains-of-harrow.json](./198495-warframe-chains-of-harrow.json) |
 | Warframe: Cumulus Collection | 282251 | [282251-warframe-cumulus-collection.json](./282251-warframe-cumulus-collection.json) |
 | Warframe: Dante Chronicles Pack | 294148 | [294148-warframe-dante-chronicles-pack.json](./294148-warframe-dante-chronicles-pack.json) |
@@ -1312,6 +1313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: Sisters of Parvos Waverider Pack | 227081 | [227081-warframe-sisters-of-parvos-waverider-pack.json](./227081-warframe-sisters-of-parvos-waverider-pack.json) |
 | Warframe: Starter Weapon Pack | 353309 | [353309-warframe-starter-weapon-pack.json](./353309-warframe-starter-weapon-pack.json) |
 | Warframe: TennoCon 2024 Digital Pack | 294972 | [294972-warframe-tennocon-2024-digital-pack.json](./294972-warframe-tennocon-2024-digital-pack.json) |
+| Warframe: The Deadlock Protocol | 198578 | [198578-warframe-the-deadlock-protocol.json](./198578-warframe-the-deadlock-protocol.json) |
 | Warframe: The Duviri Paradox | 204361 | [204361-warframe-the-duviri-paradox.json](./204361-warframe-the-duviri-paradox.json) |
 | Warframe: The Jovian Concord | 198496 | [198496-warframe-the-jovian-concord.json](./198496-warframe-the-jovian-concord.json) |
 | Warframe: The Mad Cephalon | 201162 | [201162-warframe-the-mad-cephalon.json](./201162-warframe-the-mad-cephalon.json) |
