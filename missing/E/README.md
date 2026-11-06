@@ -1237,6 +1237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of Book | 130229 | [130229-edge-of-book.json](./130229-edge-of-book.json) |
 | Edge of Chaos | 112081 | [112081-edge-of-chaos.json](./112081-edge-of-chaos.json) |
 | Edge of Collapse | 214387 | [214387-edge-of-collapse.json](./214387-edge-of-collapse.json) |
+| Edge of Combat | 196345 | [196345-edge-of-combat.json](./196345-edge-of-combat.json) |
 | Edge of Dawn | 135799 | [135799-edge-of-dawn.json](./135799-edge-of-dawn.json) |
 | Edge of Dead: Under a Uranium Sky | 150597 | [150597-edge-of-dead-under-a-uranium-sky.json](./150597-edge-of-dead-under-a-uranium-sky.json) |
 | Edge of Death | 282173 | [282173-edge-of-death.json](./282173-edge-of-death.json) |
@@ -2661,6 +2662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elium: Prison Escape | 83953 | [83953-elium-prison-escape.json](./83953-elium-prison-escape.json) |
 | Elixia | 133757 | [133757-elixia.json](./133757-elixia.json) |
 | Elixir | 145607 | [145607-elixir.json](./145607-elixir.json) |
+| Elixir | 196378 | [196378-elixir.json](./196378-elixir.json) |
 | Elixir Emporium | 317297 | [317297-elixir-emporium.json](./317297-elixir-emporium.json) |
 | Elixir of Immortality II: The League of Immortality | 101451 | [101451-elixir-of-immortality-ii-the-league-of-immortality.json](./101451-elixir-of-immortality-ii-the-league-of-immortality.json) |
 | Elixir of Life | 151098 | [151098-elixir-of-life.json](./151098-elixir-of-life.json) |
@@ -8241,6 +8243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Tactics | 71402 | [71402-extreme-tactics.json](./71402-extreme-tactics.json) |
 | Extreme Tag! | 240793 | [240793-extreme-tag.json](./240793-extreme-tag.json) |
 | Extreme Tax Masters | 194768 | [194768-extreme-tax-masters.json](./194768-extreme-tax-masters.json) |
+| Extreme Tennis | 196385 | [196385-extreme-tennis.json](./196385-extreme-tennis.json) |
 | Extreme Tennis | 23134 | [23134-extreme-tennis.json](./23134-extreme-tennis.json) |
 | Extreme Truck Parking Simulator Game | 252321 | [252321-extreme-truck-parking-simulator-game.json](./252321-extreme-truck-parking-simulator-game.json) |
 | Extreme Truck Stunts | 219403 | [219403-extreme-truck-stunts.json](./219403-extreme-truck-stunts.json) |
