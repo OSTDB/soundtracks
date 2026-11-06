@@ -5427,6 +5427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Flower Name Game | 231988 | [231988-korean-flower-name-game.json](./231988-korean-flower-name-game.json) |
 | Korean Monorail Panorama Line Hwagaesan | 378809 | [378809-korean-monorail-panorama-line-hwagaesan.json](./378809-korean-monorail-panorama-line-hwagaesan.json) |
 | Korean Monorail Panorama Line Soisan | 386194 | [386194-korean-monorail-panorama-line-soisan.json](./386194-korean-monorail-panorama-line-soisan.json) |
+| Korean Political Fighters: 2ND | 224922 | [224922-korean-political-fighters-2nd.json](./224922-korean-political-fighters-2nd.json) |
 | Korean Rail Celesti Express ITX-MAUM Taebaek Line | 374896 | [374896-korean-rail-celesti-express-itx-maum-taebaek-line.json](./374896-korean-rail-celesti-express-itx-maum-taebaek-line.json) |
 | Korean Rail Driving Tour: LRT Busan-Gimhae | 303617 | [303617-korean-rail-driving-tour-lrt-busan-gimhae.json](./303617-korean-rail-driving-tour-lrt-busan-gimhae.json) |
 | Korean Rail Driving Tour: LRT Uijeongbu | 292361 | [292361-korean-rail-driving-tour-lrt-uijeongbu.json](./292361-korean-rail-driving-tour-lrt-uijeongbu.json) |
