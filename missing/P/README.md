@@ -7823,6 +7823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pix'Hard | 320579 | [320579-pixhard.json](./320579-pixhard.json) |
 | Pix'n Love Rush | 42815 | [42815-pixn-love-rush.json](./42815-pixn-love-rush.json) |
 | Pix3D | 84819 | [84819-pix3d.json](./84819-pix3d.json) |
+| Pixacrea | 217097 | [217097-pixacrea.json](./217097-pixacrea.json) |
 | Pixadom | 317582 | [317582-pixadom.json](./317582-pixadom.json) |
 | Pixal Bitsonia | 419208 | [419208-pixal-bitsonia.json](./419208-pixal-bitsonia.json) |
 | Pixalo | 61310 | [61310-pixalo.json](./61310-pixalo.json) |
@@ -8078,6 +8079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Harvester | 372189 | [372189-pixel-harvester.json](./372189-pixel-harvester.json) |
 | Pixel Head Soccer | 148741 | [148741-pixel-head-soccer.json](./148741-pixel-head-soccer.json) |
 | Pixel Hentai Mosaic | 103789 | [103789-pixel-hentai-mosaic.json](./103789-pixel-hentai-mosaic.json) |
+| Pixel Heroes | 217067 | [217067-pixel-heroes.json](./217067-pixel-heroes.json) |
 | Pixel Heroes Adventure | 338660 | [338660-pixel-heroes-adventure.json](./338660-pixel-heroes-adventure.json) |
 | Pixel Heroes: Byte & Magic | 10699 | [10699-pixel-heroes-byte-and-magic.json](./10699-pixel-heroes-byte-and-magic.json) |
 | Pixel Heroes: Mega Byte & Magic | 178807 | [178807-pixel-heroes-mega-byte-and-magic.json](./178807-pixel-heroes-mega-byte-and-magic.json) |
@@ -11972,6 +11974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poltergeist Prodigy | 332203 | [332203-poltergeist-prodigy.json](./332203-poltergeist-prodigy.json) |
 | Poltergeist Watcher | 298661 | [298661-poltergeist-watcher.json](./298661-poltergeist-watcher.json) |
 | Poltergeist: A Pixelated Horror | 17855 | [17855-poltergeist-a-pixelated-horror.json](./17855-poltergeist-a-pixelated-horror.json) |
+| Polterguys | 217098 | [217098-polterguys.json](./217098-polterguys.json) |
 | Polterheist | 29421 | [29421-polterheist.json](./29421-polterheist.json) |
 | Polterparty | 374768 | [374768-polterparty.json](./374768-polterparty.json) |
 | Polterquest | 345027 | [345027-polterquest.json](./345027-polterquest.json) |
@@ -13066,6 +13069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post Hero: Bedbeard's Revenge | 392395 | [392395-post-hero-bedbeards-revenge.json](./392395-post-hero-bedbeards-revenge.json) |
 | Post Human W.A.R | 28256 | [28256-post-human-w-a-r.json](./28256-post-human-w-a-r.json) |
 | Post Impact | 395188 | [395188-post-impact.json](./395188-post-impact.json) |
+| Post Industrial Renovator | 217069 | [217069-post-industrial-renovator.json](./217069-post-industrial-renovator.json) |
 | Post Master | 10714 | [10714-post-master.json](./10714-post-master.json) |
 | Post Memory | 318530 | [318530-post-memory.json](./318530-post-memory.json) |
 | Post Mortem | 14359 | [14359-post-mortem.json](./14359-post-mortem.json) |
