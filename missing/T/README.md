@@ -2703,6 +2703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taurus VR | 127776 | [127776-taurus-vr.json](./127776-taurus-vr.json) |
 | Taurus War | 290701 | [290701-taurus-war.json](./290701-taurus-war.json) |
 | Tavenier | 81420 | [81420-tavenier.json](./81420-tavenier.json) |
+| Tavern Brawl: Tactics | 239981 | [239981-tavern-brawl-tactics.json](./239981-tavern-brawl-tactics.json) |
 | Tavern Cards | 129098 | [129098-tavern-cards.json](./129098-tavern-cards.json) |
 | Tavern Crawl | 192234 | [192234-tavern-crawl.json](./192234-tavern-crawl.json) |
 | Tavern Crawler | 177362 | [177362-tavern-crawler.json](./177362-tavern-crawler.json) |
@@ -9267,6 +9268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fierce Livid | 271764 | [271764-the-fierce-livid.json](./271764-the-fierce-livid.json) |
 | The Fiery Crater | 268474 | [268474-the-fiery-crater.json](./268474-the-fiery-crater.json) |
 | The Fiery Descent | 268475 | [268475-the-fiery-descent.json](./268475-the-fiery-descent.json) |
+| The Fifteen Puzzle | 239980 | [239980-the-fifteen-puzzle.json](./239980-the-fifteen-puzzle.json) |
 | The Fifteenth: A Pluvial Prelude | 406565 | [406565-the-fifteenth-a-pluvial-prelude.json](./406565-the-fifteenth-a-pluvial-prelude.json) |
 | The Fifth Ark | 175701 | [175701-the-fifth-ark.json](./175701-the-fifth-ark.json) |
 | The Fifth Bell | 370770 | [370770-the-fifth-bell.json](./370770-the-fifth-bell.json) |
@@ -11664,6 +11666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lab and Dungeons | 275403 | [275403-the-lab-and-dungeons.json](./275403-the-lab-and-dungeons.json) |
 | The Lab Thing | 267813 | [267813-the-lab-thing.json](./267813-the-lab-thing.json) |
 | The Lab: Escape Room | 204847 | [204847-the-lab-escape-room.json](./204847-the-lab-escape-room.json) |
+| The Labyrinth | 239979 | [239979-the-labyrinth.json](./239979-the-labyrinth.json) |
 | The Labyrinth | 312740 | [312740-the-labyrinth.json](./312740-the-labyrinth.json) |
 | The Labyrinth | 37407 | [37407-the-labyrinth.json](./37407-the-labyrinth.json) |
 | The Labyrinth Adventure of Demons | 195255 | [195255-the-labyrinth-adventure-of-demons.json](./195255-the-labyrinth-adventure-of-demons.json) |
@@ -12063,6 +12066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Root | 244542 | [244542-the-last-root.json](./244542-the-last-root.json) |
 | The Last Rose | 287739 | [287739-the-last-rose.json](./287739-the-last-rose.json) |
 | The Last Run: Dead Zombie Shooter | 209142 | [209142-the-last-run-dead-zombie-shooter.json](./209142-the-last-run-dead-zombie-shooter.json) |
+| The Last Runner | 239975 | [239975-the-last-runner.json](./239975-the-last-runner.json) |
 | The Last Running Hero | 188011 | [188011-the-last-running-hero.json](./188011-the-last-running-hero.json) |
 | The Last Sacrifice: A King's Past | 225679 | [225679-the-last-sacrifice-a-kings-past.json](./225679-the-last-sacrifice-a-kings-past.json) |
 | The Last Sacrifice: Blood King's Beloved | 225678 | [225678-the-last-sacrifice-blood-kings-beloved.json](./225678-the-last-sacrifice-blood-kings-beloved.json) |
@@ -20110,6 +20114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Legions: Erosion of the Abyss | 346569 | [346569-three-legions-erosion-of-the-abyss.json](./346569-three-legions-erosion-of-the-abyss.json) |
 | Three Lesbians in a Barrow | 134524 | [134524-three-lesbians-in-a-barrow.json](./134524-three-lesbians-in-a-barrow.json) |
 | Three life | 106399 | [106399-three-life.json](./106399-three-life.json) |
+| Three Lilies and Their Ghost Stories | 240016 | [240016-three-lilies-and-their-ghost-stories.json](./240016-three-lilies-and-their-ghost-stories.json) |
 | Three Lions | 249151 | [249151-three-lions.json](./249151-three-lions.json) |
 | Three Lions | 385966 | [385966-three-lions.json](./385966-three-lions.json) |
 | Three Little Bears | 123852 | [123852-three-little-bears.json](./123852-three-little-bears.json) |
