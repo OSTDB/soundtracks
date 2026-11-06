@@ -4441,6 +4441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty: Big City Dreams | 3686 | [3686-hello-kitty-big-city-dreams.json](./3686-hello-kitty-big-city-dreams.json) |
 | Hello Kitty: Bubblegum Girlfriends | 209878 | [209878-hello-kitty-bubblegum-girlfriends.json](./209878-hello-kitty-bubblegum-girlfriends.json) |
 | Hello Kitty: Carrot Story | 206192 | [206192-hello-kitty-carrot-story.json](./206192-hello-kitty-carrot-story.json) |
+| Hello Kitty: Doki-doki Doubutsuen | 218237 | [218237-hello-kitty-doki-doki-doubutsuen.json](./218237-hello-kitty-doki-doki-doubutsuen.json) |
 | Hello Kitty: Dream Carnival | 209879 | [209879-hello-kitty-dream-carnival.json](./209879-hello-kitty-dream-carnival.json) |
 | Hello Kitty: Fantasy Theater | 188262 | [188262-hello-kitty-fantasy-theater.json](./188262-hello-kitty-fantasy-theater.json) |
 | Hello Kitty: Happy Happy Family | 83209 | [83209-hello-kitty-happy-happy-family.json](./83209-hello-kitty-happy-happy-family.json) |
@@ -7303,6 +7304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiddenverse: Divided Kingdom | 223140 | [223140-hiddenverse-divided-kingdom.json](./223140-hiddenverse-divided-kingdom.json) |
 | Hiddenverse: Kingdom Fall | 291418 | [291418-hiddenverse-kingdom-fall.json](./291418-hiddenverse-kingdom-fall.json) |
 | Hiddenverse: Ominous Opus | 156677 | [156677-hiddenverse-ominous-opus.json](./156677-hiddenverse-ominous-opus.json) |
+| Hiddenverse: Tale of Ariadna | 218228 | [218228-hiddenverse-tale-of-ariadna.json](./218228-hiddenverse-tale-of-ariadna.json) |
 | Hiddenverse: The Iron Tower | 209652 | [209652-hiddenverse-the-iron-tower.json](./209652-hiddenverse-the-iron-tower.json) |
 | Hide | 183997 | [183997-hide.json](./183997-hide.json) |
 | Hide | 282234 | [282234-hide.json](./282234-hide.json) |
@@ -8597,8 +8599,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hokuto no Ken Online | 64170 | [64170-hokuto-no-ken-online.json](./64170-hokuto-no-ken-online.json) |
 | Hokuto no Ken Part-2 | 45601 | [45601-hokuto-no-ken-part-2.json](./45601-hokuto-no-ken-part-2.json) |
 | Hokuto no Ken: Hokuto Shinken Denshousha no Michi | 171769 | [171769-hokuto-no-ken-hokuto-shinken-denshousha-no-michi.json](./171769-hokuto-no-ken-hokuto-shinken-denshousha-no-michi.json) |
+| Hokuto no Ken: Hokuto vs. Nanto Taiketsu 5 | 218239 | [218239-hokuto-no-ken-hokuto-vs-nanto-taiketsu-5.json](./218239-hokuto-no-ken-hokuto-vs-nanto-taiketsu-5.json) |
 | Hokuto no Ken: Raou Gaiden - Ten no Haou | 38476 | [38476-hokuto-no-ken-raou-gaiden-ten-no-haou.json](./38476-hokuto-no-ken-raou-gaiden-ten-no-haou.json) |
 | Hokuto no Ken: Seikimatsu Kyuuseishu Densetsu | 44883 | [44883-hokuto-no-ken-seikimatsu-kyuuseishu-densetsu.json](./44883-hokuto-no-ken-seikimatsu-kyuuseishu-densetsu.json) |
+| Hokuto no Ken: Senretsu! Hokuto Shingeki | 218238 | [218238-hokuto-no-ken-senretsu-hokuto-shingeki.json](./218238-hokuto-no-ken-senretsu-hokuto-shingeki.json) |
 | Hokuto no Ken: Shin Seikimatsu Kyuuseishu Densetsu | 313283 | [313283-hokuto-no-ken-shin-seikimatsu-kyuuseishu-densetsu.json](./313283-hokuto-no-ken-shin-seikimatsu-kyuuseishu-densetsu.json) |
 | Hokuto no Ken: Shinpan no Sousousei Kengo Retsuden | 77991 | [77991-hokuto-no-ken-shinpan-no-sousousei-kengo-retsuden.json](./77991-hokuto-no-ken-shinpan-no-sousousei-kengo-retsuden.json) |
 | Hokuto no Ken: Violence Gekiga Adventure | 64195 | [64195-hokuto-no-ken-violence-gekiga-adventure.json](./64195-hokuto-no-ken-violence-gekiga-adventure.json) |
