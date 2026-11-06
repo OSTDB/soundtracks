@@ -4238,6 +4238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marisa and Alice's Trap Tower Remake | 63064 | [63064-marisa-and-alices-trap-tower-remake.json](./63064-marisa-and-alices-trap-tower-remake.json) |
 | Marisa Matrix | 227906 | [227906-marisa-matrix.json](./227906-marisa-matrix.json) |
 | Marisa no Kagi | 216288 | [216288-marisa-no-kagi.json](./216288-marisa-no-kagi.json) |
+| Marisa no Kagi +Plus! | 204744 | [204744-marisa-no-kagi-plus.json](./204744-marisa-no-kagi-plus.json) |
 | Marisa of Liartop Mountain | 285806 | [285806-marisa-of-liartop-mountain.json](./285806-marisa-of-liartop-mountain.json) |
 | Marisa of Liartop Mountain: Digital Deluxe Edition | 366784 | [366784-marisa-of-liartop-mountain-digital-deluxe-edition.json](./366784-marisa-of-liartop-mountain-digital-deluxe-edition.json) |
 | Marisa to 6tsu no Kinoko: New Super Marisa Land | 94145 | [94145-marisa-to-6tsu-no-kinoko-new-super-marisa-land.json](./94145-marisa-to-6tsu-no-kinoko-new-super-marisa-land.json) |
@@ -9670,6 +9671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear & Metal Gear 2: Solid Snake | 254684 | [254684-metal-gear-and-metal-gear-2-solid-snake.json](./254684-metal-gear-and-metal-gear-2-solid-snake.json) |
 | Metal Gear 2: Solid Snake | 307496 | [307496-metal-gear-2-solid-snake.json](./307496-metal-gear-2-solid-snake.json) |
 | Metal Gear 2: Solid Snake | 377 | [377-metal-gear-2-solid-snake.json](./377-metal-gear-2-solid-snake.json) |
+| Metal Gear 20th Anniversary: Metal Gear Solid Collection | 204734 | [204734-metal-gear-20th-anniversary-metal-gear-solid-collection.json](./204734-metal-gear-20th-anniversary-metal-gear-solid-collection.json) |
 | Metal Gear Acid | 12211 | [12211-metal-gear-acid.json](./12211-metal-gear-acid.json) |
 | Metal Gear Acid 2 | 9886 | [9886-metal-gear-acid-2.json](./9886-metal-gear-acid-2.json) |
 | Metal Gear Acid 2 Mobile | 221558 | [221558-metal-gear-acid-2-mobile.json](./221558-metal-gear-acid-2-mobile.json) |
@@ -14995,6 +14997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momoe Link | 183052 | [183052-momoe-link.json](./183052-momoe-link.json) |
 | Momogatari | 258526 | [258526-momogatari.json](./258526-momogatari.json) |
 | Momogical | 181683 | [181683-momogical.json](./181683-momogical.json) |
+| Momoinc | 204662 | [204662-momoinc.json](./204662-momoinc.json) |
 | Momoiro Closet | 95173 | [95173-momoiro-closet.json](./95173-momoiro-closet.json) |
 | Momoiro Nurse | 97623 | [97623-momoiro-nurse.json](./97623-momoiro-nurse.json) |
 | Momoiro Okami no Honoka-san: Ikenai, O-mo-te-na-shi | 416025 | [416025-momoiro-okami-no-honoka-san-ikenai-o-mo-te-na-shi.json](./416025-momoiro-okami-no-honoka-san-ikenai-o-mo-te-na-shi.json) |
@@ -16919,6 +16922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More Objects Mod | 315011 | [315011-more-objects-mod.json](./315011-more-objects-mod.json) |
 | More of a Kind | 185597 | [185597-more-of-a-kind.json](./185597-more-of-a-kind.json) |
 | More or Less | 261256 | [261256-more-or-less.json](./261256-more-or-less.json) |
+| More Ore | 204739 | [204739-more-ore.json](./204739-more-ore.json) |
 | More Ore | 217493 | [217493-more-ore.json](./217493-more-ore.json) |
 | More Orke | 279490 | [279490-more-orke.json](./279490-more-orke.json) |
 | More Panda: Slot Creator | 329165 | [329165-more-panda-slot-creator.json](./329165-more-panda-slot-creator.json) |
@@ -17597,6 +17601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother: Beyond Bounds | 315107 | [315107-mother-beyond-bounds.json](./315107-mother-beyond-bounds.json) |
 | Mother: Encore | 259272 | [259272-mother-encore.json](./259272-mother-encore.json) |
 | Mother: Invasion from the Unknown | 378199 | [378199-mother-invasion-from-the-unknown.json](./378199-mother-invasion-from-the-unknown.json) |
+| Mother: Photographic Beginnings | 204663 | [204663-mother-photographic-beginnings.json](./204663-mother-photographic-beginnings.json) |
 | Mother: Rebound | 315103 | [315103-mother-rebound.json](./315103-mother-rebound.json) |
 | Mother: Russia | 315095 | [315095-mother-russia.json](./315095-mother-russia.json) |
 | Mother's Day Journey | 308301 | [308301-mothers-day-journey.json](./308301-mothers-day-journey.json) |
