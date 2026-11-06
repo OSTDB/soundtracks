@@ -2234,6 +2234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Junk City | 258341 | [258341-neo-junk-city.json](./258341-neo-junk-city.json) |
 | Neo Mario Galaxy | 262669 | [262669-neo-mario-galaxy.json](./262669-neo-mario-galaxy.json) |
 | Neo Mo.co | 402467 | [402467-neo-mo-co.json](./402467-neo-mo-co.json) |
+| Neo Monstrum: Origins | 209808 | [209808-neo-monstrum-origins.json](./209808-neo-monstrum-origins.json) |
 | Neo Mr. Do! | 39540 | [39540-neo-mr-do.json](./39540-neo-mr-do.json) |
 | Neo Mystery Bonus | 43979 | [43979-neo-mystery-bonus.json](./43979-neo-mystery-bonus.json) |
 | Neo Nectaris | 42009 | [42009-neo-nectaris.json](./42009-neo-nectaris.json) |
