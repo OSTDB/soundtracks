@@ -1616,6 +1616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamma Collexion | 80129 | [80129-gamma-collexion.json](./80129-gamma-collexion.json) |
 | Gamma Force in Pit of a Thousand Screams | 59854 | [59854-gamma-force-in-pit-of-a-thousand-screams.json](./59854-gamma-force-in-pit-of-a-thousand-screams.json) |
 | Gamma Goblins | 59664 | [59664-gamma-goblins.json](./59664-gamma-goblins.json) |
+| Gamma IV | 199154 | [199154-gamma-iv.json](./199154-gamma-iv.json) |
 | Gamma Labs | 263413 | [263413-gamma-labs.json](./263413-gamma-labs.json) |
 | Gamma Nocturne 1 | 211698 | [211698-gamma-nocturne-1.json](./211698-gamma-nocturne-1.json) |
 | Gamma Protocol | 285592 | [285592-gamma-protocol.json](./285592-gamma-protocol.json) |
