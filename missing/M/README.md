@@ -12810,6 +12810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniBikers | 34085 | [34085-minibikers.json](./34085-minibikers.json) |
 | MiniBikers: The game of mini racing motorbikes | 87299 | [87299-minibikers-the-game-of-mini-racing-motorbikes.json](./87299-minibikers-the-game-of-mini-racing-motorbikes.json) |
 | Miniblox | 384485 | [384485-miniblox.json](./384485-miniblox.json) |
+| MiniBob | 238278 | [238278-minibob.json](./238278-minibob.json) |
 | MiniBotz | 31929 | [31929-minibotz.json](./31929-minibotz.json) |
 | Minibuilder | 352182 | [352182-minibuilder.json](./352182-minibuilder.json) |
 | Minibus Simulator | 407372 | [407372-minibus-simulator.json](./407372-minibus-simulator.json) |
