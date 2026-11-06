@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obsession | 184056 | [184056-obsession.json](./184056-obsession.json) |
 | Obsession | 268658 | [268658-obsession.json](./268658-obsession.json) |
 | Obsessive Love Adventure Utsuro's Diary | 151680 | [151680-obsessive-love-adventure-utsuros-diary.json](./151680-obsessive-love-adventure-utsuros-diary.json) |
+| Obsessive Revenge | 195284 | [195284-obsessive-revenge.json](./195284-obsessive-revenge.json) |
 | Obsideo | 163148 | [163148-obsideo.json](./163148-obsideo.json) |
 | Obsidian | 141705 | [141705-obsidian.json](./141705-obsidian.json) |
 | Obsidian Catalyst | 342924 | [342924-obsidian-catalyst.json](./342924-obsidian-catalyst.json) |
