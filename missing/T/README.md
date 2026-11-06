@@ -8669,6 +8669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls: Legends - Return to Clockwork City | 76423 | [76423-the-elder-scrolls-legends-return-to-clockwork-city.json](./76423-the-elder-scrolls-legends-return-to-clockwork-city.json) |
 | The Elder Tales | 264606 | [264606-the-elder-tales.json](./264606-the-elder-tales.json) |
 | The Elder Trolls V: Pierim | 135462 | [135462-the-elder-trolls-v-pierim.json](./135462-the-elder-trolls-v-pierim.json) |
+| The Elderseed | 244571 | [244571-the-elderseed.json](./244571-the-elderseed.json) |
 | The Eldritch Ascent | 374787 | [374787-the-eldritch-ascent.json](./374787-the-eldritch-ascent.json) |
 | The Eldritch Monarch | 324692 | [324692-the-eldritch-monarch.json](./324692-the-eldritch-monarch.json) |
 | The Eldritch Zookeeper | 43074 | [43074-the-eldritch-zookeeper.json](./43074-the-eldritch-zookeeper.json) |
@@ -12041,6 +12042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Rolling Hero | 80939 | [80939-the-last-rolling-hero.json](./80939-the-last-rolling-hero.json) |
 | The Last Roman Village | 113837 | [113837-the-last-roman-village.json](./113837-the-last-roman-village.json) |
 | The Last Roman Village 2 | 211988 | [211988-the-last-roman-village-2.json](./211988-the-last-roman-village-2.json) |
+| The Last Root | 244542 | [244542-the-last-root.json](./244542-the-last-root.json) |
 | The Last Rose | 287739 | [287739-the-last-rose.json](./287739-the-last-rose.json) |
 | The Last Run: Dead Zombie Shooter | 209142 | [209142-the-last-run-dead-zombie-shooter.json](./209142-the-last-run-dead-zombie-shooter.json) |
 | The Last Running Hero | 188011 | [188011-the-last-running-hero.json](./188011-the-last-running-hero.json) |
@@ -14469,6 +14471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Painter's Playground | 75604 | [75604-the-painters-playground.json](./75604-the-painters-playground.json) |
 | The Painting | 319557 | [319557-the-painting.json](./319557-the-painting.json) |
 | The Painting of Gustavo Repaintend | 383167 | [383167-the-painting-of-gustavo-repaintend.json](./383167-the-painting-of-gustavo-repaintend.json) |
+| The Pair Annihilation | 244539 | [244539-the-pair-annihilation.json](./244539-the-pair-annihilation.json) |
 | The Palace of Fear | 309192 | [309192-the-palace-of-fear.json](./309192-the-palace-of-fear.json) |
 | The Palace of Unrest | 231404 | [231404-the-palace-of-unrest.json](./231404-the-palace-of-unrest.json) |
 | The Palace on the Hill | 153430 | [153430-the-palace-on-the-hill.json](./153430-the-palace-on-the-hill.json) |
@@ -17928,6 +17931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Twilight Zone | 12804 | [12804-the-twilight-zone.json](./12804-the-twilight-zone.json) |
 | The Twilight Zone II: Final Dreams | 274008 | [274008-the-twilight-zone-ii-final-dreams.json](./274008-the-twilight-zone-ii-final-dreams.json) |
 | The Twilight Zone VR | 204339 | [204339-the-twilight-zone-vr.json](./204339-the-twilight-zone-vr.json) |
+| The Twin Paradox | 244545 | [244545-the-twin-paradox.json](./244545-the-twin-paradox.json) |
 | The Twins | 128337 | [128337-the-twins.json](./128337-the-twins.json) |
 | The Twins | 324870 | [324870-the-twins.json](./324870-the-twins.json) |
 | The Twins: Ninja War Legends | 299194 | [299194-the-twins-ninja-war-legends.json](./299194-the-twins-ninja-war-legends.json) |
@@ -18664,6 +18668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Will of Dr. Frankenstein | 66715 | [66715-the-will-of-dr-frankenstein.json](./66715-the-will-of-dr-frankenstein.json) |
 | The will of space | 271567 | [271567-the-will-of-space.json](./271567-the-will-of-space.json) |
 | The Williams Family Sacrifice | 385860 | [385860-the-williams-family-sacrifice.json](./385860-the-williams-family-sacrifice.json) |
+| The Willow Man | 244557 | [244557-the-willow-man.json](./244557-the-willow-man.json) |
 | The Wilting Amaranth | 102416 | [102416-the-wilting-amaranth.json](./102416-the-wilting-amaranth.json) |
 | The Wind and the Wisp | 359994 | [359994-the-wind-and-the-wisp.json](./359994-the-wind-and-the-wisp.json) |
 | The Wind and Wilting Blossom | 121773 | [121773-the-wind-and-wilting-blossom.json](./121773-the-wind-and-wilting-blossom.json) |
@@ -24227,6 +24232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Underground Killer | 213420 | [213420-tokyo-underground-killer.json](./213420-tokyo-underground-killer.json) |
 | Tokyo Wall-gai | 220301 | [220301-tokyo-wall-gai.json](./220301-tokyo-wall-gai.json) |
 | Tokyo Walled City | 402258 | [402258-tokyo-walled-city.json](./402258-tokyo-walled-city.json) |
+| Tokyo Waning Moon | 244567 | [244567-tokyo-waning-moon.json](./244567-tokyo-waning-moon.json) |
 | Tokyo Warfare | 32427 | [32427-tokyo-warfare.json](./32427-tokyo-warfare.json) |
 | Tokyo Wizard | 106838 | [106838-tokyo-wizard.json](./106838-tokyo-wizard.json) |
 | Tokyo Xanadu | 11455 | [11455-tokyo-xanadu.json](./11455-tokyo-xanadu.json) |
@@ -26524,6 +26530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Hero | 314204 | [314204-tower-of-hero.json](./314204-tower-of-hero.json) |
 | Tower of Hidden Waifus | 276142 | [276142-tower-of-hidden-waifus.json](./276142-tower-of-hidden-waifus.json) |
 | Tower of Jank | 373790 | [373790-tower-of-jank.json](./373790-tower-of-jank.json) |
+| Tower of Kalemonvo | 244538 | [244538-tower-of-kalemonvo.json](./244538-tower-of-kalemonvo.json) |
 | Tower Of Lies | 291520 | [291520-tower-of-lies.json](./291520-tower-of-lies.json) |
 | Tower of Lust | 385408 | [385408-tower-of-lust.json](./385408-tower-of-lust.json) |
 | Tower of Lust | 68329 | [68329-tower-of-lust.json](./68329-tower-of-lust.json) |
