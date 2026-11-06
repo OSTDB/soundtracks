@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lacey's Flash Games | 334698 | [334698-laceys-flash-games.json](./334698-laceys-flash-games.json) |
 | Lachesis or Atropos | 240579 | [240579-lachesis-or-atropos.json](./240579-lachesis-or-atropos.json) |
 | Lack of Water | 173004 | [173004-lack-of-water.json](./173004-lack-of-water.json) |
+| Lackadaisium | 234384 | [234384-lackadaisium.json](./234384-lackadaisium.json) |
 | Lackgirl I: Astra Inclinant, sed Non Obligant. | 243225 | [243225-lackgirl-i-astra-inclinant-sed-non-obligant.json](./243225-lackgirl-i-astra-inclinant-sed-non-obligant.json) |
 | Lackgirl II: De Docta Ignorantia | 314282 | [314282-lackgirl-ii-de-docta-ignorantia.json](./314282-lackgirl-ii-de-docta-ignorantia.json) |
 | Lacrimal Eye | 312713 | [312713-lacrimal-eye.json](./312713-lacrimal-eye.json) |
@@ -3751,6 +3752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Play Jigsaw Puzzles: Canada | 260541 | [260541-lets-play-jigsaw-puzzles-canada.json](./260541-lets-play-jigsaw-puzzles-canada.json) |
 | Let's Play Jigsaw Puzzles: Flowers | 240766 | [240766-lets-play-jigsaw-puzzles-flowers.json](./240766-lets-play-jigsaw-puzzles-flowers.json) |
 | Let's Play Jigsaw Puzzles: France | 240750 | [240750-lets-play-jigsaw-puzzles-france.json](./240750-lets-play-jigsaw-puzzles-france.json) |
+| Let's Play Jigsaw Puzzles: Greece & Turkey | 234409 | [234409-lets-play-jigsaw-puzzles-greece-and-turkey.json](./234409-lets-play-jigsaw-puzzles-greece-and-turkey.json) |
 | Let's Play Jigsaw Puzzles: Happy Holidays 2023 | 279543 | [279543-lets-play-jigsaw-puzzles-happy-holidays-2023.json](./279543-lets-play-jigsaw-puzzles-happy-holidays-2023.json) |
 | Let's Play Jigsaw Puzzles: Japan | 231183 | [231183-lets-play-jigsaw-puzzles-japan.json](./231183-lets-play-jigsaw-puzzles-japan.json) |
 | Let's Play Jigsaw Puzzles: Nordics | 240651 | [240651-lets-play-jigsaw-puzzles-nordics.json](./240651-lets-play-jigsaw-puzzles-nordics.json) |
@@ -8323,6 +8325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Wing | 75371 | [75371-lost-wing.json](./75371-lost-wing.json) |
 | Lost Wish: In the Desperate World | 195482 | [195482-lost-wish-in-the-desperate-world.json](./195482-lost-wish-in-the-desperate-world.json) |
 | Lost with Dinosaurs | 55633 | [55633-lost-with-dinosaurs.json](./55633-lost-with-dinosaurs.json) |
+| Lost With You | 234410 | [234410-lost-with-you.json](./234410-lost-with-you.json) |
 | Lost Within | 154758 | [154758-lost-within.json](./154758-lost-within.json) |
 | Lost Within | 23959 | [23959-lost-within.json](./23959-lost-within.json) |
 | Lost Word of Jenny: Ushinawareta Message | 48434 | [48434-lost-word-of-jenny-ushinawareta-message.json](./48434-lost-word-of-jenny-ushinawareta-message.json) |
