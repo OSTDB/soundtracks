@@ -718,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tainted Keep | 39782 | [39782-tainted-keep.json](./39782-tainted-keep.json) |
 | Tainted Pools | 347362 | [347362-tainted-pools.json](./347362-tainted-pools.json) |
 | Tainted Tide | 424658 | [424658-tainted-tide.json](./424658-tainted-tide.json) |
+| Tainted Treasure | 245637 | [245637-tainted-treasure.json](./245637-tainted-treasure.json) |
 | Tainy okeana | 367908 | [367908-tainy-okeana.json](./367908-tainy-okeana.json) |
 | Taipan! | 131518 | [131518-taipan.json](./131518-taipan.json) |
 | Taipei | 72147 | [72147-taipei.json](./72147-taipei.json) |
@@ -10566,6 +10567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The History of Everything | 415205 | [415205-the-history-of-everything.json](./415205-the-history-of-everything.json) |
 | The History of Fruit | 268471 | [268471-the-history-of-fruit.json](./268471-the-history-of-fruit.json) |
 | The History of Magic Tower: Opening | 309354 | [309354-the-history-of-magic-tower-opening.json](./309354-the-history-of-magic-tower-opening.json) |
+| The Hit Car | 245634 | [245634-the-hit-car.json](./245634-the-hit-car.json) |
 | The Hive | 125291 | [125291-the-hive.json](./125291-the-hive.json) |
 | The Hive | 17889 | [17889-the-hive.json](./17889-the-hive.json) |
 | The Hive | 242803 | [242803-the-hive.json](./242803-the-hive.json) |
@@ -18153,6 +18155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vampire Lord of Valea Noapte | 179519 | [179519-the-vampire-lord-of-valea-noapte.json](./179519-the-vampire-lord-of-valea-noapte.json) |
 | The Vampire Regent | 167537 | [167537-the-vampire-regent.json](./167537-the-vampire-regent.json) |
 | The Vampire's Bride: A Bride Who Gets Married to Vampdoll | 334894 | [334894-the-vampires-bride-a-bride-who-gets-married-to-vampdoll.json](./334894-the-vampires-bride-a-bride-who-gets-married-to-vampdoll.json) |
+| The Vampire(?) Detective and the Case of the Lying Maid | 245625 | [245625-the-vampire-detective-and-the-case-of-the-lying-maid.json](./245625-the-vampire-detective-and-the-case-of-the-lying-maid.json) |
 | The Vampires | 215316 | [215316-the-vampires.json](./215316-the-vampires.json) |
 | The Van Game | 212596 | [212596-the-van-game.json](./212596-the-van-game.json) |
 | The Van of Justice | 189914 | [189914-the-van-of-justice.json](./189914-the-van-of-justice.json) |
@@ -19629,6 +19632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Think or Die Collection Pack | 312097 | [312097-think-or-die-collection-pack.json](./312097-think-or-die-collection-pack.json) |
 | Think Quick! | 69222 | [69222-think-quick.json](./69222-think-quick.json) |
 | Think Shift | 250386 | [250386-think-shift.json](./250386-think-shift.json) |
+| Think Tank | 245598 | [245598-think-tank.json](./245598-think-tank.json) |
 | Think Tap Turn | 100815 | [100815-think-tap-turn.json](./100815-think-tap-turn.json) |
 | Think to Die 2 | 31016 | [31016-think-to-die-2.json](./31016-think-to-die-2.json) |
 | Think to Die 3 | 29071 | [29071-think-to-die-3.json](./29071-think-to-die-3.json) |
@@ -19853,6 +19857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thnt | 204331 | [204331-thnt.json](./204331-thnt.json) |
 | THO Simulator | 188086 | [188086-tho-simulator.json](./188086-tho-simulator.json) |
 | Thoko | 336825 | [336825-thoko.json](./336825-thoko.json) |
+| Thomas & Friends | 245599 | [245599-thomas-and-friends.json](./245599-thomas-and-friends.json) |
 | Thomas & Friends Minis | 95887 | [95887-thomas-and-friends-minis.json](./95887-thomas-and-friends-minis.json) |
 | Thomas & Friends: A Day at the Races | 2590 | [2590-thomas-and-friends-a-day-at-the-races.json](./2590-thomas-and-friends-a-day-at-the-races.json) |
 | Thomas & Friends: Building the New Line | 23780 | [23780-thomas-and-friends-building-the-new-line.json](./23780-thomas-and-friends-building-the-new-line.json) |
@@ -24474,6 +24479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Thumb | 206766 | [206766-tom-thumb.json](./206766-tom-thumb.json) |
 | Tom vs. Jerry: The Chase Is On! | 269769 | [269769-tom-vs-jerry-the-chase-is-on.json](./269769-tom-vs-jerry-the-chase-is-on.json) |
 | Tom's Adventure | 202668 | [202668-toms-adventure.json](./202668-toms-adventure.json) |
+| Tom's Adventure | 245600 | [245600-toms-adventure.json](./245600-toms-adventure.json) |
 | Tom's Adventure | 367838 | [367838-toms-adventure.json](./367838-toms-adventure.json) |
 | Tom's Mansion | 76322 | [76322-toms-mansion.json](./76322-toms-mansion.json) |
 | TomaDo! | 391137 | [391137-tomado.json](./391137-tomado.json) |
@@ -25815,6 +25821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Pets: Dogs | 67947 | [67947-touch-pets-dogs.json](./67947-touch-pets-dogs.json) |
 | Touch Point Tennis | 249248 | [249248-touch-point-tennis.json](./249248-touch-point-tennis.json) |
 | Touch Pong | 86712 | [86712-touch-pong.json](./86712-touch-pong.json) |
+| Touch Racing 2 | 245630 | [245630-touch-racing-2.json](./245630-touch-racing-2.json) |
 | Touch Racing Nitro | 42843 | [42843-touch-racing-nitro.json](./42843-touch-racing-nitro.json) |
 | Touch Rummy HD | 96539 | [96539-touch-rummy-hd.json](./96539-touch-rummy-hd.json) |
 | Touch Screen Backgammon | 280661 | [280661-touch-screen-backgammon.json](./280661-touch-screen-backgammon.json) |
@@ -25836,6 +25843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touchdown | 346102 | [346102-touchdown.json](./346102-touchdown.json) |
 | Touchdown Fever II | 293316 | [293316-touchdown-fever-ii.json](./293316-touchdown-fever-ii.json) |
 | Touchdown Football | 12345 | [12345-touchdown-football.json](./12345-touchdown-football.json) |
+| Touchdown Football | 245601 | [245601-touchdown-football.json](./245601-touchdown-football.json) |
 | Touchdown Hero: New Season | 90886 | [90886-touchdown-hero-new-season.json](./90886-touchdown-hero-new-season.json) |
 | Touchdown Pinball | 129804 | [129804-touchdown-pinball.json](./129804-touchdown-pinball.json) |
 | TouchDown Rush | 235151 | [235151-touchdown-rush.json](./235151-touchdown-rush.json) |
@@ -29778,6 +29786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Stack | 107296 | [107296-treasure-stack.json](./107296-treasure-stack.json) |
 | Treasure Star | 247746 | [247746-treasure-star.json](./247746-treasure-star.json) |
 | Treasure Strike | 62110 | [62110-treasure-strike.json](./62110-treasure-strike.json) |
+| Treasure Submarine | 245640 | [245640-treasure-submarine.json](./245640-treasure-submarine.json) |
 | Treasure Tech | 140468 | [140468-treasure-tech.json](./140468-treasure-tech.json) |
 | Treasure Temples | 188792 | [188792-treasure-temples.json](./188792-treasure-temples.json) |
 | Treasure Tides | 402050 | [402050-treasure-tides.json](./402050-treasure-tides.json) |
@@ -29966,6 +29975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tri Survive | 338103 | [338103-tri-survive.json](./338103-tri-survive.json) |
 | Tri Wing | 88248 | [88248-tri-wing.json](./88248-tri-wing.json) |
 | Tri Zone | 130869 | [130869-tri-zone.json](./130869-tri-zone.json) |
+| Tri-1 | 245602 | [245602-tri-1.json](./245602-tri-1.json) |
 | Tri-bo | 381124 | [381124-tri-bo.json](./381124-tri-bo.json) |
 | Tri-Element | 65573 | [65573-tri-element.json](./65573-tri-element.json) |
 | Tri-Ger | 135440 | [135440-tri-ger.json](./135440-tri-ger.json) |
@@ -30751,6 +30761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tron: Journey to the MCP | 58564 | [58564-tron-journey-to-the-mcp.json](./58564-tron-journey-to-the-mcp.json) |
 | Tron: Solar Sailer | 5698 | [5698-tron-solar-sailer.json](./5698-tron-solar-sailer.json) |
 | Tronic | 73163 | [73163-tronic.json](./73163-tronic.json) |
+| Tronica GK 10: Goal Keeper | 245603 | [245603-tronica-gk-10-goal-keeper.json](./245603-tronica-gk-10-goal-keeper.json) |
 | Tronika | 58147 | [58147-tronika.json](./58147-tronika.json) |
 | Tronix Carnival Games | 330061 | [330061-tronix-carnival-games.json](./330061-tronix-carnival-games.json) |
 | Trooops! | 403325 | [403325-trooops.json](./403325-trooops.json) |
@@ -32125,6 +32136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtle's Quest | 106229 | [106229-turtles-quest.json](./106229-turtles-quest.json) |
 | TurtlePop: Journey to Freedom | 89568 | [89568-turtlepop-journey-to-freedom.json](./89568-turtlepop-journey-to-freedom.json) |
 | Turtles | 23686 | [23686-turtles.json](./23686-turtles.json) |
+| Turtles | 245604 | [245604-turtles.json](./245604-turtles.json) |
 | Turtles | 281200 | [281200-turtles.json](./281200-turtles.json) |
 | Turtles | 346135 | [346135-turtles.json](./346135-turtles.json) |
 | Turtles vs Zombies | 103841 | [103841-turtles-vs-zombies.json](./103841-turtles-vs-zombies.json) |
