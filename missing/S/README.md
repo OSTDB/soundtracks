@@ -4766,6 +4766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | See No Fear | 243046 | [243046-see-no-fear.json](./243046-see-no-fear.json) |
 | See The Sky | 297707 | [297707-see-the-sky.json](./297707-see-the-sky.json) |
 | See Thru: Need a Friend? | 305333 | [305333-see-thru-need-a-friend.json](./305333-see-thru-need-a-friend.json) |
+| See Ya Later! | 226019 | [226019-see-ya-later.json](./226019-see-ya-later.json) |
 | See You In Desolation? | 190375 | [190375-see-you-in-desolation.json](./190375-see-you-in-desolation.json) |
 | See You Later | 235451 | [235451-see-you-later.json](./235451-see-you-later.json) |
 | See You on the Other Side | 180188 | [180188-see-you-on-the-other-side.json](./180188-see-you-on-the-other-side.json) |
@@ -9647,6 +9648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuffle Pix | 133311 | [133311-shuffle-pix.json](./133311-shuffle-pix.json) |
 | Shuffle Quest | 318115 | [318115-shuffle-quest.json](./318115-shuffle-quest.json) |
 | Shuffle Sword | 355096 | [355096-shuffle-sword.json](./355096-shuffle-sword.json) |
+| Shuffle Tactics | 226023 | [226023-shuffle-tactics.json](./226023-shuffle-tactics.json) |
 | Shuffle to Fortune | 140991 | [140991-shuffle-to-fortune.json](./140991-shuffle-to-fortune.json) |
 | Shuffle World | 123980 | [123980-shuffle-world.json](./123980-shuffle-world.json) |
 | Shuffle! | 31127 | [31127-shuffle.json](./31127-shuffle.json) |
@@ -11550,6 +11552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siren Head: Stranded | 309120 | [309120-siren-head-stranded.json](./309120-siren-head-stranded.json) |
 | Siren Head: The 8 Pages | 322928 | [322928-siren-head-the-8-pages.json](./322928-siren-head-the-8-pages.json) |
 | Siren Head: The Arrival | 312360 | [312360-siren-head-the-arrival.json](./312360-siren-head-the-arrival.json) |
+| Siren Head: The Horror Experience | 226006 | [226006-siren-head-the-horror-experience.json](./226006-siren-head-the-horror-experience.json) |
 | Siren Head: The Siren's Forest | 157431 | [157431-siren-head-the-sirens-forest.json](./157431-siren-head-the-sirens-forest.json) |
 | Siren Sands | 350418 | [350418-siren-sands.json](./350418-siren-sands.json) |
 | Siren: Blood Curse | 7457 | [7457-siren-blood-curse.json](./7457-siren-blood-curse.json) |
@@ -12096,6 +12099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski-Street Serenade | 393372 | [393372-ski-street-serenade.json](./393372-ski-street-serenade.json) |
 | Ski-World Simulator | 36395 | [36395-ski-world-simulator.json](./36395-ski-world-simulator.json) |
 | Ski-World Simulator 2012 | 54364 | [54364-ski-world-simulator-2012.json](./54364-ski-world-simulator-2012.json) |
+| Ski3 | 226032 | [226032-ski3.json](./226032-ski3.json) |
 | Skibi's Castle TD 2 | 348357 | [348357-skibis-castle-td-2.json](./348357-skibis-castle-td-2.json) |
 | Skibidi | 329090 | [329090-skibidi.json](./329090-skibidi.json) |
 | Skibidi Backrooms | 273427 | [273427-skibidi-backrooms.json](./273427-skibidi-backrooms.json) |
@@ -18345,6 +18349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul | 76174 | [76174-soul.json](./76174-soul.json) |
 | Soul & Sword | 42533 | [42533-soul-and-sword.json](./42533-soul-and-sword.json) |
 | Soul #531 | 292497 | [292497-soul-531.json](./292497-soul-531.json) |
+| Soul After | 226018 | [226018-soul-after.json](./226018-soul-after.json) |
 | Soul Ampz | 326911 | [326911-soul-ampz.json](./326911-soul-ampz.json) |
 | Soul Apocalypto | 358927 | [358927-soul-apocalypto.json](./358927-soul-apocalypto.json) |
 | Soul Ark: Brave and Fate | 199948 | [199948-soul-ark-brave-and-fate.json](./199948-soul-ark-brave-and-fate.json) |
@@ -19475,7 +19480,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21687,6 +21691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Fun | 404005 | [404005-spin-fun.json](./404005-spin-fun.json) |
 | Spin Hero | 298130 | [298130-spin-hero.json](./298130-spin-hero.json) |
 | Spin Jam | 24129 | [24129-spin-jam.json](./24129-spin-jam.json) |
+| Spin Kick Ninjas | 226027 | [226027-spin-kick-ninjas.json](./226027-spin-kick-ninjas.json) |
 | Spin Master | 39959 | [39959-spin-master.json](./39959-spin-master.json) |
 | Spin Off 2 | 54381 | [54381-spin-off-2.json](./54381-spin-off-2.json) |
 | Spin or Die | 311247 | [311247-spin-or-die.json](./311247-spin-or-die.json) |
@@ -34112,6 +34117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving Skeleton Island | 262968 | [262968-surviving-skeleton-island.json](./262968-surviving-skeleton-island.json) |
 | Surviving Soldier | 249749 | [249749-surviving-soldier.json](./249749-surviving-soldier.json) |
 | Surviving Space | 148916 | [148916-surviving-space.json](./148916-surviving-space.json) |
+| Surviving the Abyss | 226057 | [226057-surviving-the-abyss.json](./226057-surviving-the-abyss.json) |
 | Surviving the Aftermath | 123251 | [123251-surviving-the-aftermath.json](./123251-surviving-the-aftermath.json) |
 | Surviving the Aftermath: Day One Edition | 143041 | [143041-surviving-the-aftermath-day-one-edition.json](./143041-surviving-the-aftermath-day-one-edition.json) |
 | Surviving the Aftermath: Forgotten Tracks | 242332 | [242332-surviving-the-aftermath-forgotten-tracks.json](./242332-surviving-the-aftermath-forgotten-tracks.json) |
