@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Age | 280045 | [280045-ice-age.json](./280045-ice-age.json) |
 | Ice Age | 400477 | [400477-ice-age.json](./400477-ice-age.json) |
 | Ice Age | 6446 | [6446-ice-age.json](./6446-ice-age.json) |
+| Ice Age 2: Arctic Slide | 241107 | [241107-ice-age-2-arctic-slide.json](./241107-ice-age-2-arctic-slide.json) |
 | Ice Age 2: The Meltdown | 248537 | [248537-ice-age-2-the-meltdown.json](./248537-ice-age-2-the-meltdown.json) |
 | Ice Age 2: The Meltdown | 248538 | [248538-ice-age-2-the-meltdown.json](./248538-ice-age-2-the-meltdown.json) |
 | Ice Age 2: The Meltdown | 3952 | [3952-ice-age-2-the-meltdown.json](./3952-ice-age-2-the-meltdown.json) |
