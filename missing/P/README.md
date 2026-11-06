@@ -1217,6 +1217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panel de Pon | 84157 | [84157-panel-de-pon.json](./84157-panel-de-pon.json) |
 | Panel de Pon Event '98 | 134466 | [134466-panel-de-pon-event-98.json](./134466-panel-de-pon-event-98.json) |
 | Panel de Pon GB | 150108 | [150108-panel-de-pon-gb.json](./150108-panel-de-pon-gb.json) |
+| Panel de Pon GB Restoration | 193539 | [193539-panel-de-pon-gb-restoration.json](./193539-panel-de-pon-gb-restoration.json) |
 | Panel de Pon: Event Version | 150105 | [150105-panel-de-pon-event-version.json](./150105-panel-de-pon-event-version.json) |
 | Panel de Pon: Event Version 2 | 150106 | [150106-panel-de-pon-event-version-2.json](./150106-panel-de-pon-event-version-2.json) |
 | Panel Flux | 269112 | [269112-panel-flux.json](./269112-panel-flux.json) |
@@ -1855,6 +1856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papyrus : La Vengeance d'Aker | 56874 | [56874-papyrus-la-vengeance-daker.json](./56874-papyrus-la-vengeance-daker.json) |
 | Papyrus: Le Secret de la Cité Perdue | 56866 | [56866-papyrus-le-secret-de-la-cite-perdue.json](./56866-papyrus-le-secret-de-la-cite-perdue.json) |
 | Paqman | 308984 | [308984-paqman.json](./308984-paqman.json) |
+| Paquerette Down the Bunburrows | 193565 | [193565-paquerette-down-the-bunburrows.json](./193565-paquerette-down-the-bunburrows.json) |
 | Par 1 Golf | 200103 | [200103-par-1-golf.json](./200103-par-1-golf.json) |
 | Par 1 Golf 10 | 200181 | [200181-par-1-golf-10.json](./200181-par-1-golf-10.json) |
 | Par 1 Golf 3 | 175591 | [175591-par-1-golf-3.json](./175591-par-1-golf-3.json) |
@@ -1907,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradigm City | 121382 | [121382-paradigm-city.json](./121382-paradigm-city.json) |
 | Paradigm Island | 285976 | [285976-paradigm-island.json](./285976-paradigm-island.json) |
 | Paradigm Overhaul | 291762 | [291762-paradigm-overhaul.json](./291762-paradigm-overhaul.json) |
+| Paradigm Paradox | 193535 | [193535-paradigm-paradox.json](./193535-paradigm-paradox.json) |
 | Paradigm Shift | 153126 | [153126-paradigm-shift.json](./153126-paradigm-shift.json) |
 | Paradigm Shift | 9240 | [9240-paradigm-shift.json](./9240-paradigm-shift.json) |
 | Paradigm: Reboot | 193887 | [193887-paradigm-reboot.json](./193887-paradigm-reboot.json) |
@@ -2581,6 +2584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Arena: Board Game Battler | 133801 | [133801-party-arena-board-game-battler.json](./133801-party-arena-board-game-battler.json) |
 | Party Ball | 60069 | [60069-party-ball.json](./60069-party-ball.json) |
 | Party Bingo | 117614 | [117614-party-bingo.json](./117614-party-bingo.json) |
+| Party Bots | 193540 | [193540-party-bots.json](./193540-party-bots.json) |
 | Party Box | 383796 | [383796-party-box.json](./383796-party-box.json) |
 | Party Bros. | 263936 | [263936-party-bros.json](./263936-party-bros.json) |
 | Party Bunch | 212423 | [212423-party-bunch.json](./212423-party-bunch.json) |
@@ -8869,6 +8873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Death | 207541 | [207541-pizza-death.json](./207541-pizza-death.json) |
 | Pizza Deathlivery | 347717 | [347717-pizza-deathlivery.json](./347717-pizza-deathlivery.json) |
 | Pizza Deliciozo | 54286 | [54286-pizza-deliciozo.json](./54286-pizza-deliciozo.json) |
+| Pizza Delivery 3000 | 193576 | [193576-pizza-delivery-3000.json](./193576-pizza-delivery-3000.json) |
 | Pizza Delivery Bagel | 209676 | [209676-pizza-delivery-bagel.json](./209676-pizza-delivery-bagel.json) |
 | Pizza Delivery Boy | 50972 | [50972-pizza-delivery-boy.json](./50972-pizza-delivery-boy.json) |
 | Pizza Delivery in a Storm | 319185 | [319185-pizza-delivery-in-a-storm.json](./319185-pizza-delivery-in-a-storm.json) |
