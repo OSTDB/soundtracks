@@ -6884,6 +6884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Expedition: New Adventures Steve and Victoria | 249232 | [249232-hidden-expedition-new-adventures-steve-and-victoria.json](./249232-hidden-expedition-new-adventures-steve-and-victoria.json) |
 | Hidden Expedition: Smithsonian Castle | 187950 | [187950-hidden-expedition-smithsonian-castle.json](./187950-hidden-expedition-smithsonian-castle.json) |
 | Hidden Expedition: Smithsonian Hope Diamond | 187955 | [187955-hidden-expedition-smithsonian-hope-diamond.json](./187955-hidden-expedition-smithsonian-hope-diamond.json) |
+| Hidden Expedition: Smithsonian Hope Diamond - Collector's Edition | 201882 | [201882-hidden-expedition-smithsonian-hope-diamond-collectors-edition.json](./201882-hidden-expedition-smithsonian-hope-diamond-collectors-edition.json) |
 | Hidden Expedition: The Curse of Mithridates | 97312 | [97312-hidden-expedition-the-curse-of-mithridates.json](./97312-hidden-expedition-the-curse-of-mithridates.json) |
 | Hidden Expedition: The Eternal Emperor | 140035 | [140035-hidden-expedition-the-eternal-emperor.json](./140035-hidden-expedition-the-eternal-emperor.json) |
 | Hidden Expedition: The Fountain of Youth | 101961 | [101961-hidden-expedition-the-fountain-of-youth.json](./101961-hidden-expedition-the-fountain-of-youth.json) |
@@ -7303,6 +7304,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Wings and Paws | 304620 | [304620-hidden-wings-and-paws.json](./304620-hidden-wings-and-paws.json) |
 | Hidden Winter Cats: Bonus Level | 291353 | [291353-hidden-winter-cats-bonus-level.json](./291353-hidden-winter-cats-bonus-level.json) |
 | Hidden Winter Things | 324242 | [324242-hidden-winter-things.json](./324242-hidden-winter-things.json) |
+| Hidden Wonders of the Depths 2 | 201915 | [201915-hidden-wonders-of-the-depths-2.json](./201915-hidden-wonders-of-the-depths-2.json) |
+| Hidden Wonders of the Depths 3: Atlantis Adventure | 201917 | [201917-hidden-wonders-of-the-depths-3-atlantis-adventure.json](./201917-hidden-wonders-of-the-depths-3-atlantis-adventure.json) |
+| Hidden Wonders of the Depths II and Hidden Wonders of the Depths III: Atlantis Adventure | 201902 | [201902-hidden-wonders-of-the-depths-ii-and-hidden-wonders-of-the-depths-iii-atlantis-adventure.json](./201902-hidden-wonders-of-the-depths-ii-and-hidden-wonders-of-the-depths-iii-atlantis-adventure.json) |
 | Hidden Words | 170534 | [170534-hidden-words.json](./170534-hidden-words.json) |
 | Hidden Words and Pictures Game | 108490 | [108490-hidden-words-and-pictures-game.json](./108490-hidden-words-and-pictures-game.json) |
 | Hidden Words! | 241336 | [241336-hidden-words.json](./241336-hidden-words.json) |
@@ -7342,6 +7346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide & Dance! | 146759 | [146759-hide-and-dance.json](./146759-hide-and-dance.json) |
 | Hide & Hold Out - H2o | 20463 | [20463-hide-and-hold-out-h2o.json](./20463-hide-and-hold-out-h2o.json) |
 | Hide & Scream | 394085 | [394085-hide-and-scream.json](./394085-hide-and-scream.json) |
+| Hide & Secret: Cliff hanger Castle | 201888 | [201888-hide-and-secret-cliff-hanger-castle.json](./201888-hide-and-secret-cliff-hanger-castle.json) |
 | Hide & Seek | 413861 | [413861-hide-and-seek.json](./413861-hide-and-seek.json) |
 | Hide & Seek World | 188552 | [188552-hide-and-seek-world.json](./188552-hide-and-seek-world.json) |
 | Hide & Spook: The Haunted Alchemist | 32722 | [32722-hide-and-spook-the-haunted-alchemist.json](./32722-hide-and-spook-the-haunted-alchemist.json) |
