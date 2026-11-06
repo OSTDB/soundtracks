@@ -3803,6 +3803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple Run: Treasure Hunters | 233503 | [233503-temple-run-treasure-hunters.json](./233503-temple-run-treasure-hunters.json) |
 | Temple Ryda | 23337 | [23337-temple-ryda.json](./23337-temple-ryda.json) |
 | Temple Scramble | 111525 | [111525-temple-scramble.json](./111525-temple-scramble.json) |
+| Temple Trashers | 223292 | [223292-temple-trashers.json](./223292-temple-trashers.json) |
 | Temple with Traps | 167166 | [167166-temple-with-traps.json](./167166-temple-with-traps.json) |
 | Temple2 | 268921 | [268921-temple2.json](./268921-temple2.json) |
 | TempleFight | 148113 | [148113-templefight.json](./148113-templefight.json) |
@@ -4276,6 +4277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terebron | 165681 | [165681-terebron.json](./165681-terebron.json) |
 | Teredor | 255529 | [255529-teredor.json](./255529-teredor.json) |
 | Terep 2 | 92786 | [92786-terep-2.json](./92786-terep-2.json) |
+| Teresa Moontyners: In the Lair of the Beast | 223213 | [223213-teresa-moontyners-in-the-lair-of-the-beast.json](./223213-teresa-moontyners-in-the-lair-of-the-beast.json) |
 | Terezi Pyrope: Ace Attorney | 304032 | [304032-terezi-pyrope-ace-attorney.json](./304032-terezi-pyrope-ace-attorney.json) |
 | Terfenstein 3D | 224571 | [224571-terfenstein-3d.json](./224571-terfenstein-3d.json) |
 | Teri Mix | 77951 | [77951-teri-mix.json](./77951-teri-mix.json) |
@@ -6681,6 +6683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Death for Dummies | 273643 | [273643-the-book-of-death-for-dummies.json](./273643-the-book-of-death-for-dummies.json) |
 | The Book of Desires | 33874 | [33874-the-book-of-desires.json](./33874-the-book-of-desires.json) |
 | The Book of Distance | 161568 | [161568-the-book-of-distance.json](./161568-the-book-of-distance.json) |
+| The Book of Fredley | 223216 | [223216-the-book-of-fredley.json](./223216-the-book-of-fredley.json) |
 | The Book of Good | 288724 | [288724-the-book-of-good.json](./288724-the-book-of-good.json) |
 | The Book of Living Magic | 350149 | [350149-the-book-of-living-magic.json](./350149-the-book-of-living-magic.json) |
 | The Book of Lulu | 281295 | [281295-the-book-of-lulu.json](./281295-the-book-of-lulu.json) |
@@ -11244,6 +11247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jak and Daxter Bundle | 76868 | [76868-the-jak-and-daxter-bundle.json](./76868-the-jak-and-daxter-bundle.json) |
 | The Janitor | 275402 | [275402-the-janitor.json](./275402-the-janitor.json) |
 | The Janitor | 32006 | [32006-the-janitor.json](./32006-the-janitor.json) |
+| The Janus Problem | 223289 | [223289-the-janus-problem.json](./223289-the-janus-problem.json) |
 | The Japanese Calligraphy | 321854 | [321854-the-japanese-calligraphy.json](./321854-the-japanese-calligraphy.json) |
 | The Jeffy Game | 244891 | [244891-the-jeffy-game.json](./244891-the-jeffy-game.json) |
 | The Jekoos | 113543 | [113543-the-jekoos.json](./113543-the-jekoos.json) |
@@ -11980,6 +11984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Human In The Universe | 318881 | [318881-the-last-human-in-the-universe.json](./318881-the-last-human-in-the-universe.json) |
 | The Last Human Touch | 335032 | [335032-the-last-human-touch.json](./335032-the-last-human-touch.json) |
 | The Last Human: Go! | 278942 | [278942-the-last-human-go.json](./278942-the-last-human-go.json) |
+| The Last Humble Bee | 223214 | [223214-the-last-humble-bee.json](./223214-the-last-humble-bee.json) |
 | The Last Hunt | 86613 | [86613-the-last-hunt.json](./86613-the-last-hunt.json) |
 | The Last Inca | 71771 | [71771-the-last-inca.json](./71771-the-last-inca.json) |
 | The Last Inquisition | 398375 | [398375-the-last-inquisition.json](./398375-the-last-inquisition.json) |
@@ -27262,6 +27267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traces of Gods | 372097 | [372097-traces-of-gods.json](./372097-traces-of-gods.json) |
 | Traces of the Unknown | 286354 | [286354-traces-of-the-unknown.json](./286354-traces-of-the-unknown.json) |
 | Traceur's Dreamlab VR | 148820 | [148820-traceurs-dreamlab-vr.json](./148820-traceurs-dreamlab-vr.json) |
+| Trachi: Authority | 223290 | [223290-trachi-authority.json](./223290-trachi-authority.json) |
 | Tracing | 346209 | [346209-tracing.json](./346209-tracing.json) |
 | Tracing Decay | 211143 | [211143-tracing-decay.json](./211143-tracing-decay.json) |
 | Track | 168567 | [168567-track.json](./168567-track.json) |
