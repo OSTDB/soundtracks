@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jade Cocoon 2 | 18079 | [18079-jade-cocoon-2.json](./18079-jade-cocoon-2.json) |
 | Jade Cocoon: Story of the Tamamayu | 45000 | [45000-jade-cocoon-story-of-the-tamamayu.json](./45000-jade-cocoon-story-of-the-tamamayu.json) |
 | Jade Dynasty 2 | 193785 | [193785-jade-dynasty-2.json](./193785-jade-dynasty-2.json) |
+| Jade Dynasty: New Fantasy | 196386 | [196386-jade-dynasty-new-fantasy.json](./196386-jade-dynasty-new-fantasy.json) |
 | Jade Dynasty: Vengeance | 66443 | [66443-jade-dynasty-vengeance.json](./66443-jade-dynasty-vengeance.json) |
 | Jade Earth | 141255 | [141255-jade-earth.json](./141255-jade-earth.json) |
 | Jade Empire | 5867 | [5867-jade-empire.json](./5867-jade-empire.json) |
@@ -2231,6 +2232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jitter | 298668 | [298668-jitter.json](./298668-jitter.json) |
 | Jitter Games | 324147 | [324147-jitter-games.json](./324147-jitter-games.json) |
 | Jītuì Guàishòu | 114957 | [114957-jitui-guaishou.json](./114957-jitui-guaishou.json) |
+| Jiu Li | 196391 | [196391-jiu-li.json](./196391-jiu-li.json) |
 | Jiǔdiàn | 109864 | [109864-jiudian.json](./109864-jiudian.json) |
 | Jiǔguǎn Zhànzhēng | 414119 | [414119-jiuguan-zhanzheng.json](./414119-jiuguan-zhanzheng.json) |
 | Jiǔlóng Mahjong | 104539 | [104539-jiulong-mahjong.json](./104539-jiulong-mahjong.json) |
