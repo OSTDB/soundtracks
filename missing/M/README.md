@@ -415,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Road: Apocalyptic Shooter Survival Killer | 251597 | [251597-mad-road-apocalyptic-shooter-survival-killer.json](./251597-mad-road-apocalyptic-shooter-survival-killer.json) |
 | Mad Rocket: Fog of War | 111758 | [111758-mad-rocket-fog-of-war.json](./111758-mad-rocket-fog-of-war.json) |
 | Mad Room No.3 | 333193 | [333193-mad-room-no-3.json](./333193-mad-room-no-3.json) |
+| Mad Runner | 215438 | [215438-mad-runner.json](./215438-mad-runner.json) |
 | Mad Scientist: Dr. Eureka | 24200 | [24200-mad-scientist-dr-eureka.json](./24200-mad-scientist-dr-eureka.json) |
 | Mad Shark | 322211 | [322211-mad-shark.json](./322211-mad-shark.json) |
 | Mad Shark | 40258 | [40258-mad-shark.json](./40258-mad-shark.json) |
