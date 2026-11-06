@@ -6630,6 +6630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pin Crasher | 258989 | [258989-pin-crasher.json](./258989-pin-crasher.json) |
 | Pin Hockey: Ice Arena | 140409 | [140409-pin-hockey-ice-arena.json](./140409-pin-hockey-ice-arena.json) |
 | Pin Pong | 18155 | [18155-pin-pong.json](./18155-pin-pong.json) |
+| Pin Pull | 235022 | [235022-pin-pull.json](./235022-pin-pull.json) |
 | Pin Rescue | 227549 | [227549-pin-rescue.json](./227549-pin-rescue.json) |
 | Pin Strike | 315807 | [315807-pin-strike.json](./315807-pin-strike.json) |
 | Pin Strike 2 | 375421 | [375421-pin-strike-2.json](./375421-pin-strike-2.json) |
@@ -8519,6 +8520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelburg | 345055 | [345055-pixelburg.json](./345055-pixelburg.json) |
 | PixelCraft Game | 100929 | [100929-pixelcraft-game.json](./100929-pixelcraft-game.json) |
 | PixelCraft VR | 126542 | [126542-pixelcraft-vr.json](./126542-pixelcraft-vr.json) |
+| Pixeled | 235028 | [235028-pixeled.json](./235028-pixeled.json) |
 | Pixelegend | 346615 | [346615-pixelegend.json](./346615-pixelegend.json) |
 | Pixelfence | 128982 | [128982-pixelfence.json](./128982-pixelfence.json) |
 | Pixelfest | 417975 | [417975-pixelfest.json](./417975-pixelfest.json) |
@@ -14256,6 +14258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PRIN-C1 | 317155 | [317155-prin-c1.json](./317155-prin-c1.json) |
 | Prin-quest | 364489 | [364489-prin-quest.json](./364489-prin-quest.json) |
 | Prince & Excalibur | 174309 | [174309-prince-and-excalibur.json](./174309-prince-and-excalibur.json) |
+| Prince Adamajapanahiko x Princess | 235033 | [235033-prince-adamajapanahiko-x-princess.json](./235033-prince-adamajapanahiko-x-princess.json) |
 | Prince Adventures | 293855 | [293855-prince-adventures.json](./293855-prince-adventures.json) |
 | Prince Akazaka x Princess | 220653 | [220653-prince-akazaka-x-princess.json](./220653-prince-akazaka-x-princess.json) |
 | Prince Charmless | 178542 | [178542-prince-charmless.json](./178542-prince-charmless.json) |
