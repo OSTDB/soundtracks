@@ -795,6 +795,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxia Conquestum | 55241 | [55241-galaxia-conquestum.json](./55241-galaxia-conquestum.json) |
 | Galaxia Reloaded | 175175 | [175175-galaxia-reloaded.json](./175175-galaxia-reloaded.json) |
 | Galaxian | 143370 | [143370-galaxian.json](./143370-galaxian.json) |
+| Galaxian | 218227 | [218227-galaxian.json](./218227-galaxian.json) |
+| Galaxian | 218232 | [218232-galaxian.json](./218232-galaxian.json) |
 | Galaxian | 218319 | [218319-galaxian.json](./218319-galaxian.json) |
 | Galaxian | 239166 | [239166-galaxian.json](./239166-galaxian.json) |
 | Galaxian | 277242 | [277242-galaxian.json](./277242-galaxian.json) |
@@ -3154,6 +3156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gentleman's Proposal | 357121 | [357121-gentlemans-proposal.json](./357121-gentlemans-proposal.json) |
 | Gentlemen Dispute | 136086 | [136086-gentlemen-dispute.json](./136086-gentlemen-dispute.json) |
 | Gentlemen of Fortune: Maelstrom | 176651 | [176651-gentlemen-of-fortune-maelstrom.json](./176651-gentlemen-of-fortune-maelstrom.json) |
+| Gentlemen of the Row | 218198 | [218198-gentlemen-of-the-row.json](./218198-gentlemen-of-the-row.json) |
 | Gentlemen! | 10359 | [10359-gentlemen.json](./10359-gentlemen.json) |
 | Gentlemen's Club | 286415 | [286415-gentlemens-club.json](./286415-gentlemens-club.json) |
 | Gentlemen's Puzzle Club | 252254 | [252254-gentlemens-puzzle-club.json](./252254-gentlemens-puzzle-club.json) |
@@ -6210,6 +6213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla: Strike Zone | 61543 | [61543-godzilla-strike-zone.json](./61543-godzilla-strike-zone.json) |
 | Godzilla: The Atomar Nightmare | 135595 | [135595-godzilla-the-atomar-nightmare.json](./135595-godzilla-the-atomar-nightmare.json) |
 | Godzilla: The Game | 8731 | [8731-godzilla-the-game.json](./8731-godzilla-the-game.json) |
+| Godzilla: The King of the Monsters | 218230 | [218230-godzilla-the-king-of-the-monsters.json](./218230-godzilla-the-king-of-the-monsters.json) |
 | Godzilla: The Series | 75893 | [75893-godzilla-the-series.json](./75893-godzilla-the-series.json) |
 | Godzone 6 | 401926 | [401926-godzone-6.json](./401926-godzone-6.json) |
 | Goeland: Seagull Adventure | 292994 | [292994-goeland-seagull-adventure.json](./292994-goeland-seagull-adventure.json) |
@@ -10877,6 +10881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Robot | 47534 | [47534-gundam-robot.json](./47534-gundam-robot.json) |
 | Gundam Rogue Orbit | 404690 | [404690-gundam-rogue-orbit.json](./404690-gundam-rogue-orbit.json) |
 | Gundam Side Story 0079: Rise From the Ashes | 45859 | [45859-gundam-side-story-0079-rise-from-the-ashes.json](./45859-gundam-side-story-0079-rise-from-the-ashes.json) |
+| Gundam Space Combat 3-in-1 | 218236 | [218236-gundam-space-combat-3-in-1.json](./218236-gundam-space-combat-3-in-1.json) |
 | Gundam Spirits | 226760 | [226760-gundam-spirits.json](./226760-gundam-spirits.json) |
 | Gundam Supreme Battle | 174903 | [174903-gundam-supreme-battle.json](./174903-gundam-supreme-battle.json) |
 | Gundam Tactics: Mobility Fleet 0079 | 289744 | [289744-gundam-tactics-mobility-fleet-0079.json](./289744-gundam-tactics-mobility-fleet-0079.json) |
