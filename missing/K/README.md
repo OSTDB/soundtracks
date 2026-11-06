@@ -916,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karaoke Studio | 79252 | [79252-karaoke-studio.json](./79252-karaoke-studio.json) |
 | Karaoke Studio Senyou Cassette Vol. 1 | 267750 | [267750-karaoke-studio-senyou-cassette-vol-1.json](./267750-karaoke-studio-senyou-cassette-vol-1.json) |
 | Karaoke Studio Senyou Cassette Vol. 2 | 267751 | [267751-karaoke-studio-senyou-cassette-vol-2.json](./267751-karaoke-studio-senyou-cassette-vol-2.json) |
+| Karapath | 217091 | [217091-karapath.json](./217091-karapath.json) |
 | Karapuchi | 82581 | [82581-karapuchi.json](./82581-karapuchi.json) |
 | Karaski: What Goes Up... | 33962 | [33962-karaski-what-goes-up.json](./33962-karaski-what-goes-up.json) |
 | Karasu Meltdown! | 277166 | [277166-karasu-meltdown.json](./277166-karasu-meltdown.json) |
