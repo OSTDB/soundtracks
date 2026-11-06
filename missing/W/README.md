@@ -3864,6 +3864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whatnever | 348782 | [348782-whatnever.json](./348782-whatnever.json) |
 | WhatRogue: Exile Land | 319760 | [319760-whatrogue-exile-land.json](./319760-whatrogue-exile-land.json) |
 | Whatsamusic | 228599 | [228599-whatsamusic.json](./228599-whatsamusic.json) |
+| WhatsSlot Halloween | 232269 | [232269-whatsslot-halloween.json](./232269-whatsslot-halloween.json) |
 | Whatta Frogs? | 381648 | [381648-whatta-frogs.json](./381648-whatta-frogs.json) |
 | Whatta Horrible Year | 182695 | [182695-whatta-horrible-year.json](./182695-whatta-horrible-year.json) |
 | WHC: The Game About Witch Hunter's Moving Castle You've Been So Long Waiting For | 87984 | [87984-whc-the-game-about-witch-hunters-moving-castle-youve-been-so-long-waiting-for.json](./87984-whc-the-game-about-witch-hunters-moving-castle-youve-been-so-long-waiting-for.json) |
@@ -4153,6 +4154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Is My Pet? | 417359 | [417359-where-is-my-pet.json](./417359-where-is-my-pet.json) |
 | Where is My Son? | 390143 | [390143-where-is-my-son.json](./390143-where-is-my-son.json) |
 | Where is Paradise? | 174057 | [174057-where-is-paradise.json](./174057-where-is-paradise.json) |
+| Where is Ploppy? | 232261 | [232261-where-is-ploppy.json](./232261-where-is-ploppy.json) |
 | Where is Santa? | 113401 | [113401-where-is-santa.json](./113401-where-is-santa.json) |
 | Where is Starlingdive | 414527 | [414527-where-is-starlingdive.json](./414527-where-is-starlingdive.json) |
 | Where is the Beach | 114354 | [114354-where-is-the-beach.json](./114354-where-is-the-beach.json) |
@@ -5014,6 +5016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wiktor TD | 178426 | [178426-wiktor-td.json](./178426-wiktor-td.json) |
 | Wil | 96844 | [96844-wil.json](./96844-wil.json) |
 | Wilberforce: The Sorcerer's Apprentice | 73201 | [73201-wilberforce-the-sorcerers-apprentice.json](./73201-wilberforce-the-sorcerers-apprentice.json) |
+| Wilbler Park | 232235 | [232235-wilbler-park.json](./232235-wilbler-park.json) |
 | Wilbur Scoville’s 151st Birthday | 375817 | [375817-wilbur-scoville-s-151st-birthday.json](./375817-wilbur-scoville-s-151st-birthday.json) |
 | Wilbur Soot's Incelbur | 329306 | [329306-wilbur-soots-incelbur.json](./329306-wilbur-soots-incelbur.json) |
 | Wilbur's Quest | 152659 | [152659-wilburs-quest.json](./152659-wilburs-quest.json) |
