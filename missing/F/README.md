@@ -3998,6 +3998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Festival Tycoon | 138468 | [138468-festival-tycoon.json](./138468-festival-tycoon.json) |
 | Festival Tycoon: Water for All! | 226701 | [226701-festival-tycoon-water-for-all.json](./226701-festival-tycoon-water-for-all.json) |
 | Festivals: Headliners | 173949 | [173949-festivals-headliners.json](./173949-festivals-headliners.json) |
+| Festive Finds: Happy Holidays Calendar | 227609 | [227609-festive-finds-happy-holidays-calendar.json](./227609-festive-finds-happy-holidays-calendar.json) |
 | Festive Themed Santa Killer Simulator | 408120 | [408120-festive-themed-santa-killer-simulator.json](./408120-festive-themed-santa-killer-simulator.json) |
 | Fetch | 206052 | [206052-fetch.json](./206052-fetch.json) |
 | Fetch | 30730 | [30730-fetch.json](./30730-fetch.json) |
@@ -11775,6 +11776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin vs. junim Cururu | 328236 | [328236-friday-night-funkin-vs-junim-cururu.json](./328236-friday-night-funkin-vs-junim-cururu.json) |
 | Friday Night Funkin: vs. Jeff | 242615 | [242615-friday-night-funkin-vs-jeff.json](./242615-friday-night-funkin-vs-jeff.json) |
 | Friday Night Funkin' 64 | 294774 | [294774-friday-night-funkin-64.json](./294774-friday-night-funkin-64.json) |
+| Friday Night Funkin' B-Side Remixes | 227638 | [227638-friday-night-funkin-b-side-remixes.json](./227638-friday-night-funkin-b-side-remixes.json) |
 | Friday Night Funkin' Battle Waifu | 205627 | [205627-friday-night-funkin-battle-waifu.json](./205627-friday-night-funkin-battle-waifu.json) |
 | Friday Night Funkin' Corruption: Reimagined! | 202580 | [202580-friday-night-funkin-corruption-reimagined.json](./202580-friday-night-funkin-corruption-reimagined.json) |
 | Friday Night Funkin' D-Sides | 198304 | [198304-friday-night-funkin-d-sides.json](./198304-friday-night-funkin-d-sides.json) |
@@ -13557,6 +13559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Heroes | 150431 | [150431-furry-heroes.json](./150431-furry-heroes.json) |
 | Furry Hitler | 205664 | [205664-furry-hitler.json](./205664-furry-hitler.json) |
 | Furry Holes | 280662 | [280662-furry-holes.json](./280662-furry-holes.json) |
+| Furry Immersion | 227608 | [227608-furry-immersion.json](./227608-furry-immersion.json) |
 | Furry Killer | 226143 | [226143-furry-killer.json](./226143-furry-killer.json) |
 | Furry Love | 266571 | [266571-furry-love.json](./266571-furry-love.json) |
 | Furry Love & Sex | 221197 | [221197-furry-love-and-sex.json](./221197-furry-love-and-sex.json) |
