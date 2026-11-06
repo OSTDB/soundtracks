@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Combat | 255040 | [255040-racing-combat.json](./255040-racing-combat.json) |
 | Racing Course | 247067 | [247067-racing-course.json](./247067-racing-course.json) |
 | Racing Damashii | 49067 | [49067-racing-damashii.json](./49067-racing-damashii.json) |
+| Racing Days | 242343 | [242343-racing-days.json](./242343-racing-days.json) |
 | Racing Days R | 209742 | [209742-racing-days-r.json](./209742-racing-days-r.json) |
 | Racing Destruction Set | 25892 | [25892-racing-destruction-set.json](./25892-racing-destruction-set.json) |
 | Racing Djani 2 | 156050 | [156050-racing-djani-2.json](./156050-racing-djani-2.json) |
@@ -8666,6 +8667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Dolphin Escape | 385419 | [385419-robo-dolphin-escape.json](./385419-robo-dolphin-escape.json) |
 | Robo Dome | 320243 | [320243-robo-dome.json](./320243-robo-dome.json) |
 | Robo Encryption | 87943 | [87943-robo-encryption.json](./87943-robo-encryption.json) |
+| Robo Frenzy | 242328 | [242328-robo-frenzy.json](./242328-robo-frenzy.json) |
 | Robo Gauntlet | 156720 | [156720-robo-gauntlet.json](./156720-robo-gauntlet.json) |
 | Robo Go | 165715 | [165715-robo-go.json](./165715-robo-go.json) |
 | Robo Hop | 399787 | [399787-robo-hop.json](./399787-robo-hop.json) |
@@ -12201,6 +12203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Ninja Run | 394143 | [394143-run-ninja-run.json](./394143-run-ninja-run.json) |
 | Run Ninja Run 2 | 394144 | [394144-run-ninja-run-2.json](./394144-run-ninja-run-2.json) |
 | Run of Mydan | 38336 | [38336-run-of-mydan.json](./38336-run-of-mydan.json) |
+| Run On Home | 242333 | [242333-run-on-home.json](./242333-run-on-home.json) |
 | Run or Boom | 215927 | [215927-run-or-boom.json](./215927-run-or-boom.json) |
 | Run or Die | 14721 | [14721-run-or-die.json](./14721-run-or-die.json) |
 | Run or Die | 378405 | [378405-run-or-die.json](./378405-run-or-die.json) |
@@ -12548,6 +12551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Fred | 294531 | [294531-running-fred.json](./294531-running-fred.json) |
 | Running Girl | 305722 | [305722-running-girl.json](./305722-running-girl.json) |
 | Running Gods | 32231 | [32231-running-gods.json](./32231-running-gods.json) |
+| Running Guys | 242301 | [242301-running-guys.json](./242301-running-guys.json) |
 | Running High | 43769 | [43769-running-high.json](./43769-running-high.json) |
 | Running Horror | 386813 | [386813-running-horror.json](./386813-running-horror.json) |
 | Running in the Y2K | 200506 | [200506-running-in-the-y2k.json](./200506-running-in-the-y2k.json) |
