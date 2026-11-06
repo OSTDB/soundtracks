@@ -4643,6 +4643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Trips | 124611 | [124611-death-trips.json](./124611-death-trips.json) |
 | Death Under Tuscan Skies: A Dana Knightstone Novel | 257829 | [257829-death-under-tuscan-skies-a-dana-knightstone-novel.json](./257829-death-under-tuscan-skies-a-dana-knightstone-novel.json) |
 | Death Under Tuscan Skies: A Dana Knightstone Novel - Collector's Edition | 257830 | [257830-death-under-tuscan-skies-a-dana-knightstone-novel-collectors-edition.json](./257830-death-under-tuscan-skies-a-dana-knightstone-novel-collectors-edition.json) |
+| Death Unphased | 236077 | [236077-death-unphased.json](./236077-death-unphased.json) |
 | Death Upon An Austrian Sonata: A Dana Knightstone Novel | 132803 | [132803-death-upon-an-austrian-sonata-a-dana-knightstone-novel.json](./132803-death-upon-an-austrian-sonata-a-dana-knightstone-novel.json) |
 | Death Upon Us | 150615 | [150615-death-upon-us.json](./150615-death-upon-us.json) |
 | Death Valley | 291744 | [291744-death-valley.json](./291744-death-valley.json) |
@@ -16901,6 +16902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Druid's Tale: Crystal Cave | 61653 | [61653-druids-tale-crystal-cave.json](./61653-druids-tale-crystal-cave.json) |
 | Druids: Battle of Magic | 24719 | [24719-druids-battle-of-magic.json](./24719-druids-battle-of-magic.json) |
 | Druidstone: The Secret of the Menhir Forest | 28142 | [28142-druidstone-the-secret-of-the-menhir-forest.json](./28142-druidstone-the-secret-of-the-menhir-forest.json) |
+| Druidwalker | 236061 | [236061-druidwalker.json](./236061-druidwalker.json) |
 | Drum Beat Jump | 232102 | [232102-drum-beat-jump.json](./232102-drum-beat-jump.json) |
 | Drum Blaster 3 | 50233 | [50233-drum-blaster-3.json](./50233-drum-blaster-3.json) |
 | Drum Box | 187360 | [187360-drum-box.json](./187360-drum-box.json) |
@@ -17608,6 +17610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dummy Never Fails | 234902 | [234902-dummy-never-fails.json](./234902-dummy-never-fails.json) |
 | Dummy Never Fails 2 | 234903 | [234903-dummy-never-fails-2.json](./234903-dummy-never-fails-2.json) |
 | Dummy Pirates | 235171 | [235171-dummy-pirates.json](./235171-dummy-pirates.json) |
+| Dummy Pirates: Ocean Tales | 236078 | [236078-dummy-pirates-ocean-tales.json](./236078-dummy-pirates-ocean-tales.json) |
 | Dummy Test | 100911 | [100911-dummy-test.json](./100911-dummy-test.json) |
 | Dummy! | 113339 | [113339-dummy.json](./113339-dummy.json) |
 | DummyDoodle | 303494 | [303494-dummydoodle.json](./303494-dummydoodle.json) |
