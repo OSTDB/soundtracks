@@ -5916,6 +5916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Etera | 306237 | [306237-etera.json](./306237-etera.json) |
 | Eterium | 17102 | [17102-eterium.json](./17102-eterium.json) |
 | Eterna: Heroes Fall | 139639 | [139639-eterna-heroes-fall.json](./139639-eterna-heroes-fall.json) |
+| Eternal | 218203 | [218203-eternal.json](./218203-eternal.json) |
 | Eternal | 303056 | [303056-eternal.json](./303056-eternal.json) |
 | Eternal | 357727 | [357727-eternal.json](./357727-eternal.json) |
 | Eternal Acid Rain | 280559 | [280559-eternal-acid-rain.json](./280559-eternal-acid-rain.json) |
