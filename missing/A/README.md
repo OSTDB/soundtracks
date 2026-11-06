@@ -2117,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolution of the Dead | 345661 | [345661-absolution-of-the-dead.json](./345661-absolution-of-the-dead.json) |
 | Absølve | 388778 | [388778-abs-lve.json](./388778-abs-lve.json) |
 | Absolved | 389697 | [389697-absolved.json](./389697-absolved.json) |
+| Absolver: Adalian Forest Pack | 223817 | [223817-absolver-adalian-forest-pack.json](./223817-absolver-adalian-forest-pack.json) |
 | Absolver: Deluxe Edition | 52555 | [52555-absolver-deluxe-edition.json](./52555-absolver-deluxe-edition.json) |
 | Absolver: Downfall | 105421 | [105421-absolver-downfall.json](./105421-absolver-downfall.json) |
 | Absolver: Special Reserve edition | 74318 | [74318-absolver-special-reserve-edition.json](./74318-absolver-special-reserve-edition.json) |
@@ -2467,6 +2468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accordion | 14204 | [14204-accordion.json](./14204-accordion.json) |
 | Accounting | 25251 | [25251-accounting.json](./25251-accounting.json) |
 | Accounting+ | 76881 | [76881-accounting.json](./76881-accounting.json) |
+| Accounts of Abydos | 223818 | [223818-accounts-of-abydos.json](./223818-accounts-of-abydos.json) |
 | Accretion | 342680 | [342680-accretion.json](./342680-accretion.json) |
 | AccrO | 148800 | [148800-accro.json](./148800-accro.json) |
 | AccuBow VR | 337792 | [337792-accubow-vr.json](./337792-accubow-vr.json) |
@@ -2851,6 +2853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across The Obelisk: Sands of Ulminin | 261934 | [261934-across-the-obelisk-sands-of-ulminin.json](./261934-across-the-obelisk-sands-of-ulminin.json) |
 | Across the Obelisk: Shores of Sahti | 357778 | [357778-across-the-obelisk-shores-of-sahti.json](./357778-across-the-obelisk-shores-of-sahti.json) |
 | Across the Obelisk: Sigrun, the Valkyrie | 357779 | [357779-across-the-obelisk-sigrun-the-valkyrie.json](./357779-across-the-obelisk-sigrun-the-valkyrie.json) |
+| Across the Obelisk: Spooky Night in Senenthia | 223819 | [223819-across-the-obelisk-spooky-night-in-senenthia.json](./223819-across-the-obelisk-spooky-night-in-senenthia.json) |
 | Across the Obelisk: Starter Set | 292920 | [292920-across-the-obelisk-starter-set.json](./292920-across-the-obelisk-starter-set.json) |
 | Across the Obelisk: The Wolf Wars | 240895 | [240895-across-the-obelisk-the-wolf-wars.json](./240895-across-the-obelisk-the-wolf-wars.json) |
 | Across the Obelisk: Tulah, the Spider Queen | 357780 | [357780-across-the-obelisk-tulah-the-spider-queen.json](./357780-across-the-obelisk-tulah-the-spider-queen.json) |
@@ -4824,6 +4827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agents of Mayhem: Johnny Gat | 118271 | [118271-agents-of-mayhem-johnny-gat.json](./118271-agents-of-mayhem-johnny-gat.json) |
 | Agents of Mayhem: Lazarus | 118270 | [118270-agents-of-mayhem-lazarus.json](./118270-agents-of-mayhem-lazarus.json) |
 | Agents of Mayhem: Lazarus Agent Pack | 169936 | [169936-agents-of-mayhem-lazarus-agent-pack.json](./169936-agents-of-mayhem-lazarus-agent-pack.json) |
+| Agents of Mayhem: Safeword Agent Pack | 223828 | [223828-agents-of-mayhem-safeword-agent-pack.json](./223828-agents-of-mayhem-safeword-agent-pack.json) |
 | Agents of Mayhem: Total Mayhem Bundle | 83756 | [83756-agents-of-mayhem-total-mayhem-bundle.json](./83756-agents-of-mayhem-total-mayhem-bundle.json) |
 | Agents of Shadow | 357803 | [357803-agents-of-shadow.json](./357803-agents-of-shadow.json) |
 | Agents of SomeCompany | 253374 | [253374-agents-of-somecompany.json](./253374-agents-of-somecompany.json) |
@@ -6645,6 +6649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Arcade Classic | 330694 | [330694-alien-arcade-classic.json](./330694-alien-arcade-classic.json) |
 | Alien Archeologist | 411075 | [411075-alien-archeologist.json](./411075-alien-archeologist.json) |
 | Alien Arena | 39532 | [39532-alien-arena.json](./39532-alien-arena.json) |
+| Alien Arena: Map Pack 6 | 223822 | [223822-alien-arena-map-pack-6.json](./223822-alien-arena-map-pack-6.json) |
 | Alien Arena: Warriors of Mars | 51937 | [51937-alien-arena-warriors-of-mars.json](./51937-alien-arena-warriors-of-mars.json) |
 | Alien Arena: Warriors Of Mars - Map Pack 1 | 168014 | [168014-alien-arena-warriors-of-mars-map-pack-1.json](./168014-alien-arena-warriors-of-mars-map-pack-1.json) |
 | Alien Arena: Warriors Of Mars - Map Pack 2 | 168015 | [168015-alien-arena-warriors-of-mars-map-pack-2.json](./168015-alien-arena-warriors-of-mars-map-pack-2.json) |
@@ -7014,8 +7019,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens vs. Ghosts | 208331 | [208331-aliens-vs-ghosts.json](./208331-aliens-vs-ghosts.json) |
 | Aliens vs. Predator | 560 | [560-aliens-vs-predator.json](./560-aliens-vs-predator.json) |
 | Aliens vs. Predator Collection | 52587 | [52587-aliens-vs-predator-collection.json](./52587-aliens-vs-predator-collection.json) |
+| Aliens vs. Predator: Bughunt Map Pack | 223834 | [223834-aliens-vs-predator-bughunt-map-pack.json](./223834-aliens-vs-predator-bughunt-map-pack.json) |
 | Aliens vs. Predator: Requiem | 21675 | [21675-aliens-vs-predator-requiem.json](./21675-aliens-vs-predator-requiem.json) |
 | Aliens vs. Predator: Requiem - Combat Evolved | 343377 | [343377-aliens-vs-predator-requiem-combat-evolved.json](./343377-aliens-vs-predator-requiem-combat-evolved.json) |
+| Aliens vs. Predator: Swarm Map Pack | 223835 | [223835-aliens-vs-predator-swarm-map-pack.json](./223835-aliens-vs-predator-swarm-map-pack.json) |
 | Aliens Want Our Mascot?! | 393291 | [393291-aliens-want-our-mascot.json](./393291-aliens-want-our-mascot.json) |
 | Aliens, Plasma Guns & Chewing Gum | 305385 | [305385-aliens-plasma-guns-and-chewing-gum.json](./305385-aliens-plasma-guns-and-chewing-gum.json) |
 | Aliens: A Comic Book Adventure | 2169 | [2169-aliens-a-comic-book-adventure.json](./2169-aliens-a-comic-book-adventure.json) |
@@ -7031,9 +7038,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens: Colonial Marines - Sawed-off Double Barrel Shotgun | 118186 | [118186-aliens-colonial-marines-sawed-off-double-barrel-shotgun.json](./118186-aliens-colonial-marines-sawed-off-double-barrel-shotgun.json) |
 | Aliens: Colonial Marines - Sharp Sticks | 118187 | [118187-aliens-colonial-marines-sharp-sticks.json](./118187-aliens-colonial-marines-sharp-sticks.json) |
 | Aliens: Dark Descent - Lethe Recon Pack | 367093 | [367093-aliens-dark-descent-lethe-recon-pack.json](./367093-aliens-dark-descent-lethe-recon-pack.json) |
+| Aliens: Fireteam Elite - Endeavor Veteran Pack | 223832 | [223832-aliens-fireteam-elite-endeavor-veteran-pack.json](./223832-aliens-fireteam-elite-endeavor-veteran-pack.json) |
+| Aliens: Fireteam Elite - Frontier Freelancer Pack | 223831 | [223831-aliens-fireteam-elite-frontier-freelancer-pack.json](./223831-aliens-fireteam-elite-frontier-freelancer-pack.json) |
 | Aliens: Fireteam Elite - Hardened Marine Pack | 247755 | [247755-aliens-fireteam-elite-hardened-marine-pack.json](./247755-aliens-fireteam-elite-hardened-marine-pack.json) |
 | Aliens: Fireteam Elite - Into the Hive Edition | 201027 | [201027-aliens-fireteam-elite-into-the-hive-edition.json](./201027-aliens-fireteam-elite-into-the-hive-edition.json) |
 | Aliens: Fireteam Elite - Pathogen | 204435 | [204435-aliens-fireteam-elite-pathogen.json](./204435-aliens-fireteam-elite-pathogen.json) |
+| Aliens: Fireteam Elite - UACM Frontline Pack | 223833 | [223833-aliens-fireteam-elite-uacm-frontline-pack.json](./223833-aliens-fireteam-elite-uacm-frontline-pack.json) |
 | Aliens: Fireteam Elite - Ultimate Edition | 215559 | [215559-aliens-fireteam-elite-ultimate-edition.json](./215559-aliens-fireteam-elite-ultimate-edition.json) |
 | Aliens: Fireteam Elite 2 | 400824 | [400824-aliens-fireteam-elite-2.json](./400824-aliens-fireteam-elite-2.json) |
 | Aliens: Infestation | 20606 | [20606-aliens-infestation.json](./20606-aliens-infestation.json) |
@@ -10478,6 +10488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1800: Gold Edition Year 4 | 197662 | [197662-anno-1800-gold-edition-year-4.json](./197662-anno-1800-gold-edition-year-4.json) |
 | Anno 1800: Holiday Pack | 227395 | [227395-anno-1800-holiday-pack.json](./227395-anno-1800-holiday-pack.json) |
 | Anno 1800: Industrial Immersion Bundle | 317367 | [317367-anno-1800-industrial-immersion-bundle.json](./317367-anno-1800-industrial-immersion-bundle.json) |
+| Anno 1800: Industrial Zone Pack | 223836 | [223836-anno-1800-industrial-zone-pack.json](./223836-anno-1800-industrial-zone-pack.json) |
 | Anno 1800: Land of Lions | 151061 | [151061-anno-1800-land-of-lions.json](./151061-anno-1800-land-of-lions.json) |
 | Anno 1800: National Park Pack | 262527 | [262527-anno-1800-national-park-pack.json](./262527-anno-1800-national-park-pack.json) |
 | Anno 1800: New World Rising | 197351 | [197351-anno-1800-new-world-rising.json](./197351-anno-1800-new-world-rising.json) |
@@ -10498,6 +10509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1800: The Passage | 121765 | [121765-anno-1800-the-passage.json](./121765-anno-1800-the-passage.json) |
 | Anno 1800: Tourist Season | 151204 | [151204-anno-1800-tourist-season.json](./151204-anno-1800-tourist-season.json) |
 | Anno 1800: Vehicle Liveries Pack | 227418 | [227418-anno-1800-vehicle-liveries-pack.json](./227418-anno-1800-vehicle-liveries-pack.json) |
+| Anno 1800: Vibrant Cities Pack | 223837 | [223837-anno-1800-vibrant-cities-pack.json](./223837-anno-1800-vibrant-cities-pack.json) |
 | Anno 2070 DLC Complete Pack | 362774 | [362774-anno-2070-dlc-complete-pack.json](./362774-anno-2070-dlc-complete-pack.json) |
 | Anno 2070: Bonus Edition | 180261 | [180261-anno-2070-bonus-edition.json](./180261-anno-2070-bonus-edition.json) |
 | Anno 2070: Complete Edition | 52401 | [52401-anno-2070-complete-edition.json](./52401-anno-2070-complete-edition.json) |
@@ -16516,7 +16528,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -17907,6 +17918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Pea 2 | 126998 | [126998-awesome-pea-2.json](./126998-awesome-pea-2.json) |
 | Awesome Pea 3 | 265551 | [265551-awesome-pea-3.json](./265551-awesome-pea-3.json) |
 | Awesome Pea Collection | 138459 | [138459-awesome-pea-collection.json](./138459-awesome-pea-collection.json) |
+| Awesome Platformers Bundle | 223751 | [223751-awesome-platformers-bundle.json](./223751-awesome-platformers-bundle.json) |
 | Awesome Possum Kicks Dr. Machino's Butt | 46240 | [46240-awesome-possum-kicks-dr-machinos-butt.json](./46240-awesome-possum-kicks-dr-machinos-butt.json) |
 | Awesome Seaquest | 101909 | [101909-awesome-seaquest.json](./101909-awesome-seaquest.json) |
 | Awesome Shapes | 62411 | [62411-awesome-shapes.json](./62411-awesome-shapes.json) |
