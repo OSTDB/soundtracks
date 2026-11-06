@@ -8827,6 +8827,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiver | 325717 | [325717-shiver.json](./325717-shiver.json) |
 | Shiver | 83877 | [83877-shiver.json](./83877-shiver.json) |
 | Shiver 3D | 152771 | [152771-shiver-3d.json](./152771-shiver-3d.json) |
+| Shiver: Moonlit Grove | 214225 | [214225-shiver-moonlit-grove.json](./214225-shiver-moonlit-grove.json) |
+| Shiver: Moonlit Grove - Collector’s Edition | 214226 | [214226-shiver-moonlit-grove-collector-s-edition.json](./214226-shiver-moonlit-grove-collector-s-edition.json) |
 | Shiver: Poltergeist | 139739 | [139739-shiver-poltergeist.json](./139739-shiver-poltergeist.json) |
 | Shiver: Poltergeist - Collector's Edition | 30895 | [30895-shiver-poltergeist-collectors-edition.json](./30895-shiver-poltergeist-collectors-edition.json) |
 | Shiver: The Lily's Requiem | 139740 | [139740-shiver-the-lilys-requiem.json](./139740-shiver-the-lilys-requiem.json) |
@@ -19545,6 +19547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
