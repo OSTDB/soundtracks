@@ -961,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1487,6 +1488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Game | 75197 | [75197-ball-game.json](./75197-ball-game.json) |
 | Ball Game Remix | 217510 | [217510-ball-game-remix.json](./217510-ball-game-remix.json) |
 | Ball Gates | 102105 | [102105-ball-gates.json](./102105-ball-gates.json) |
+| Ball Go Home | 207556 | [207556-ball-go-home.json](./207556-ball-go-home.json) |
 | Ball Grabbers | 100482 | [100482-ball-grabbers.json](./100482-ball-grabbers.json) |
 | Ball Guys : Stumble & Fall | 393130 | [393130-ball-guys-stumble-and-fall.json](./393130-ball-guys-stumble-and-fall.json) |
 | Ball Hentai Puzzle | 273359 | [273359-ball-hentai-puzzle.json](./273359-ball-hentai-puzzle.json) |
@@ -3894,6 +3896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Puppets | 66616 | [66616-battle-of-puppets.json](./66616-battle-of-puppets.json) |
 | Battle of Rebels | 266972 | [266972-battle-of-rebels.json](./266972-battle-of-rebels.json) |
 | Battle of Ships 3D: Naval War | 88703 | [88703-battle-of-ships-3d-naval-war.json](./88703-battle-of-ships-3d-naval-war.json) |
+| Battle of Tanks | 207468 | [207468-battle-of-tanks.json](./207468-battle-of-tanks.json) |
 | Battle of Tarlis | 259587 | [259587-battle-of-tarlis.json](./259587-battle-of-tarlis.json) |
 | Battle of the Bulge | 13384 | [13384-battle-of-the-bulge.json](./13384-battle-of-the-bulge.json) |
 | Battle of the Bulge | 54654 | [54654-battle-of-the-bulge.json](./54654-battle-of-the-bulge.json) |
@@ -14359,6 +14362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Drain | 210268 | [210268-brain-drain.json](./210268-brain-drain.json) |
 | Brain Drain | 319857 | [319857-brain-drain.json](./319857-brain-drain.json) |
 | Brain Escape | 267488 | [267488-brain-escape.json](./267488-brain-escape.json) |
+| Brain Exam with Benefits 2 | 207489 | [207489-brain-exam-with-benefits-2.json](./207489-brain-exam-with-benefits-2.json) |
 | Brain Exercises With Dr. Kawashima | 20278 | [20278-brain-exercises-with-dr-kawashima.json](./20278-brain-exercises-with-dr-kawashima.json) |
 | Brain Explode | 358737 | [358737-brain-explode.json](./358737-brain-explode.json) |
 | Brain Frame | 142612 | [142612-brain-frame.json](./142612-brain-frame.json) |
