@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ugly Meter | 91842 | [91842-ugly-meter.json](./91842-ugly-meter.json) |
 | UglyDolls: An Imperfect Adventure | 115313 | [115313-uglydolls-an-imperfect-adventure.json](./115313-uglydolls-an-imperfect-adventure.json) |
 | Ugmania | 368675 | [368675-ugmania.json](./368675-ugmania.json) |
+| Ugo Volt | 200770 | [200770-ugo-volt.json](./200770-ugo-volt.json) |
 | Ugokasou! Chibi Kyara Koubou | 222060 | [222060-ugokasou-chibi-kyara-koubou.json](./222060-ugokasou-chibi-kyara-koubou.json) |
 | Ugoku E Ver. 2.0: Aryol | 44427 | [44427-ugoku-e-ver-2-0-aryol.json](./44427-ugoku-e-ver-2-0-aryol.json) |
 | Ugoku Sushi Bar | 395584 | [395584-ugoku-sushi-bar.json](./395584-ugoku-sushi-bar.json) |
@@ -1416,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncle Chop's Rocket Shop: Deluxe Edition | 327460 | [327460-uncle-chops-rocket-shop-deluxe-edition.json](./327460-uncle-chops-rocket-shop-deluxe-edition.json) |
 | Uncle Chuck Incorporated | 319871 | [319871-uncle-chuck-incorporated.json](./319871-uncle-chuck-incorporated.json) |
 | Uncle Clyde's Consonant Slides | 285868 | [285868-uncle-clydes-consonant-slides.json](./285868-uncle-clydes-consonant-slides.json) |
+| Uncle Heff | 200788 | [200788-uncle-heff.json](./200788-uncle-heff.json) |
 | Uncle Henry's Playhouse | 20197 | [20197-uncle-henrys-playhouse.json](./20197-uncle-henrys-playhouse.json) |
 | Uncle Kenny: The Game | 241264 | [241264-uncle-kenny-the-game.json](./241264-uncle-kenny-the-game.json) |
 | Uncle Lee’s Cookbook: Five Recipes for Disaster | 373161 | [373161-uncle-lee-s-cookbook-five-recipes-for-disaster.json](./373161-uncle-lee-s-cookbook-five-recipes-for-disaster.json) |
