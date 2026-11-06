@@ -3529,6 +3529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Over Here | 34715 | [34715-get-over-here.json](./34715-get-over-here.json) |
 | Get Over Here! | 286794 | [286794-get-over-here.json](./286794-get-over-here.json) |
 | Get Packed | 119248 | [119248-get-packed.json](./119248-get-packed.json) |
+| Get Packed: Couch Chaos | 198012 | [198012-get-packed-couch-chaos.json](./198012-get-packed-couch-chaos.json) |
 | Get Packed: Fully Loaded | 152278 | [152278-get-packed-fully-loaded.json](./152278-get-packed-fully-loaded.json) |
 | Get Puzzled! | 69043 | [69043-get-puzzled.json](./69043-get-puzzled.json) |
 | Get Puzzled! | 69061 | [69061-get-puzzled.json](./69061-get-puzzled.json) |
@@ -6441,6 +6442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Strike | 88650 | [88650-gold-strike.json](./88650-gold-strike.json) |
 | Gold Taker | 239112 | [239112-gold-taker.json](./239112-gold-taker.json) |
 | Gold Up | 405619 | [405619-gold-up.json](./405619-gold-up.json) |
+| Gold Wiper | 197966 | [197966-gold-wiper.json](./197966-gold-wiper.json) |
 | Gold, Silver, Bronze | 70300 | [70300-gold-silver-bronze.json](./70300-gold-silver-bronze.json) |
 | Gold's Gym Dance Workout | 51074 | [51074-golds-gym-dance-workout.json](./51074-golds-gym-dance-workout.json) |
 | Goldbeard | 24547 | [24547-goldbeard.json](./24547-goldbeard.json) |
@@ -9667,6 +9669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grønland | 271023 | [271023-gr-nland.json](./271023-gr-nland.json) |
 | Groob | 249945 | [249945-groob.json](./249945-groob.json) |
 | Grood | 90116 | [90116-grood.json](./90116-grood.json) |
+| Grooh | 197995 | [197995-grooh.json](./197995-grooh.json) |
 | Groomer | 115695 | [115695-groomer.json](./115695-groomer.json) |
 | Grooming Adventure | 111972 | [111972-grooming-adventure.json](./111972-grooming-adventure.json) |
 | Groon groon, babey! | 176216 | [176216-groon-groon-babey.json](./176216-groon-groon-babey.json) |
@@ -10430,6 +10433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guildmaker | 405855 | [405855-guildmaker.json](./405855-guildmaker.json) |
 | Guildmaster Story | 115475 | [115475-guildmaster-story.json](./115475-guildmaster-story.json) |
 | Guildmaster: Gratuitous Subtitle | 141021 | [141021-guildmaster-gratuitous-subtitle.json](./141021-guildmaster-gratuitous-subtitle.json) |
+| Guildmasters | 197990 | [197990-guildmasters.json](./197990-guildmasters.json) |
 | GuildMestar | 276665 | [276665-guildmestar.json](./276665-guildmestar.json) |
 | Guildrun | 410290 | [410290-guildrun.json](./410290-guildrun.json) |
 | Guilds n Glory | 213001 | [213001-guilds-n-glory.json](./213001-guilds-n-glory.json) |
