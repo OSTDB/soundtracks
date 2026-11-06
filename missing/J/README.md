@@ -2651,6 +2651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jordan vs. Bird: One on One | 361783 | [361783-jordan-vs-bird-one-on-one.json](./361783-jordan-vs-bird-one-on-one.json) |
 | JordGlobe | 402322 | [402322-jordglobe.json](./402322-jordglobe.json) |
 | Jordi & Oslo: The Lost Tail | 303593 | [303593-jordi-and-oslo-the-lost-tail.json](./303593-jordi-and-oslo-the-lost-tail.json) |
+| Jordy x Tamagotchi | 230067 | [230067-jordy-x-tamagotchi.json](./230067-jordy-x-tamagotchi.json) |
 | Jorel's Brother and the Most Important Game of the Galaxy | 207334 | [207334-jorels-brother-and-the-most-important-game-of-the-galaxy.json](./207334-jorels-brother-and-the-most-important-game-of-the-galaxy.json) |
 | Jorel's Brother and the Most Important Game of the Galaxy: Chapter 1 - Take Control | 253296 | [253296-jorels-brother-and-the-most-important-game-of-the-galaxy-chapter-1-take-control.json](./253296-jorels-brother-and-the-most-important-game-of-the-galaxy-chapter-1-take-control.json) |
 | Jorel's Brother and the Most Important Game of the Galaxy: Chapter 2 - The Lustrous of the Universe | 253311 | [253311-jorels-brother-and-the-most-important-game-of-the-galaxy-chapter-2-the-lustrous-of-the-universe.json](./253311-jorels-brother-and-the-most-important-game-of-the-galaxy-chapter-2-the-lustrous-of-the-universe.json) |
@@ -3081,6 +3082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jujutsu Kaisen: Cursed Clash - Ultimate Edition | 276325 | [276325-jujutsu-kaisen-cursed-clash-ultimate-edition.json](./276325-jujutsu-kaisen-cursed-clash-ultimate-edition.json) |
 | Jujutsu Kaisen: Phantom Parade | 174523 | [174523-jujutsu-kaisen-phantom-parade.json](./174523-jujutsu-kaisen-phantom-parade.json) |
 | Jujutsu: Shibuya Incident | 398741 | [398741-jujutsu-shibuya-incident.json](./398741-jujutsu-shibuya-incident.json) |
+| Jujutsutchi | 230075 | [230075-jujutsutchi.json](./230075-jujutsutchi.json) |
 | Jujutsutchi 0 | 230186 | [230186-jujutsutchi-0.json](./230186-jujutsutchi-0.json) |
 | Jukai Maze | 387051 | [387051-jukai-maze.json](./387051-jukai-maze.json) |
 | Jukaya | 180587 | [180587-jukaya.json](./180587-jukaya.json) |
@@ -3842,6 +3844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic World Evolution: Raptor Squad Skin Collection | 152606 | [152606-jurassic-world-evolution-raptor-squad-skin-collection.json](./152606-jurassic-world-evolution-raptor-squad-skin-collection.json) |
 | Jurassic World Evolution: Return to Jurassic Park | 140515 | [140515-jurassic-world-evolution-return-to-jurassic-park.json](./140515-jurassic-world-evolution-return-to-jurassic-park.json) |
 | Jurassic World Revealed | 104259 | [104259-jurassic-world-revealed.json](./104259-jurassic-world-revealed.json) |
+| Jurassic World Tamagotchi | 230077 | [230077-jurassic-world-tamagotchi.json](./230077-jurassic-world-tamagotchi.json) |
 | Jurassic World VRSE | 315071 | [315071-jurassic-world-vrse.json](./315071-jurassic-world-vrse.json) |
 | Jurassic World: Aftermath - Part 2 | 165398 | [165398-jurassic-world-aftermath-part-2.json](./165398-jurassic-world-aftermath-part-2.json) |
 | Jurassic World: Camp Cretaceous - Escape the Enclosure | 148378 | [148378-jurassic-world-camp-cretaceous-escape-the-enclosure.json](./148378-jurassic-world-camp-cretaceous-escape-the-enclosure.json) |
