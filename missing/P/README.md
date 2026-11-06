@@ -5142,12 +5142,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasmal: City of Darkness | 18793 | [18793-phantasmal-city-of-darkness.json](./18793-phantasmal-city-of-darkness.json) |
 | Phantasmat | 22114 | [22114-phantasmat.json](./22114-phantasmat.json) |
 | Phantasmat: Behind the Mask | 102544 | [102544-phantasmat-behind-the-mask.json](./102544-phantasmat-behind-the-mask.json) |
+| Phantasmat: Behind the Mask - Collector’s Edition | 228235 | [228235-phantasmat-behind-the-mask-collector-s-edition.json](./228235-phantasmat-behind-the-mask-collector-s-edition.json) |
 | Phantasmat: Collector's Edition | 17280 | [17280-phantasmat-collectors-edition.json](./17280-phantasmat-collectors-edition.json) |
 | Phantasmat: Crucible Peak | 140316 | [140316-phantasmat-crucible-peak.json](./140316-phantasmat-crucible-peak.json) |
 | Phantasmat: Crucible Peak - Collector's Edition | 31066 | [31066-phantasmat-crucible-peak-collectors-edition.json](./31066-phantasmat-crucible-peak-collectors-edition.json) |
+| Phantasmat: Curse of the Mist - Collector's Edition | 228241 | [228241-phantasmat-curse-of-the-mist-collectors-edition.json](./228241-phantasmat-curse-of-the-mist-collectors-edition.json) |
 | Phantasmat: Death in Hardcover | 187924 | [187924-phantasmat-death-in-hardcover.json](./187924-phantasmat-death-in-hardcover.json) |
 | Phantasmat: Death in Hardcover - Collector’s Edition | 234556 | [234556-phantasmat-death-in-hardcover-collector-s-edition.json](./234556-phantasmat-death-in-hardcover-collector-s-edition.json) |
 | Phantasmat: Déjà Vu - Collector's Edition | 234555 | [234555-phantasmat-deja-vu-collectors-edition.json](./234555-phantasmat-deja-vu-collectors-edition.json) |
+| Phantasmat: Insidious Dreams - Collector’s Edition | 228239 | [228239-phantasmat-insidious-dreams-collector-s-edition.json](./228239-phantasmat-insidious-dreams-collector-s-edition.json) |
+| Phantasmat: Mournful Loch - Collector's Edition | 228238 | [228238-phantasmat-mournful-loch-collectors-edition.json](./228238-phantasmat-mournful-loch-collectors-edition.json) |
+| Phantasmat: Reign of Shadows - Collector’s Edition | 228237 | [228237-phantasmat-reign-of-shadows-collector-s-edition.json](./228237-phantasmat-reign-of-shadows-collector-s-edition.json) |
 | Phantasmat: Remains of Buried Memories - Collector's Edition | 234557 | [234557-phantasmat-remains-of-buried-memories-collectors-edition.json](./234557-phantasmat-remains-of-buried-memories-collectors-edition.json) |
 | Phantasmat: The Dread of Oakville | 101551 | [101551-phantasmat-the-dread-of-oakville.json](./101551-phantasmat-the-dread-of-oakville.json) |
 | Phantasmat: The Dread of Oakville - Collector's Edition | 110156 | [110156-phantasmat-the-dread-of-oakville-collectors-edition.json](./110156-phantasmat-the-dread-of-oakville-collectors-edition.json) |
@@ -5155,6 +5160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasmat: The Endless Night - Collector's Edition | 28594 | [28594-phantasmat-the-endless-night-collectors-edition.json](./28594-phantasmat-the-endless-night-collectors-edition.json) |
 | Phantasmat: The Endless Night HD | 108258 | [108258-phantasmat-the-endless-night-hd.json](./108258-phantasmat-the-endless-night-hd.json) |
 | Phantasmat: Town of Lost Hope | 104402 | [104402-phantasmat-town-of-lost-hope.json](./104402-phantasmat-town-of-lost-hope.json) |
+| Phantasmat: Town of Lost Hope - Collector’s Edition | 228236 | [228236-phantasmat-town-of-lost-hope-collector-s-edition.json](./228236-phantasmat-town-of-lost-hope-collector-s-edition.json) |
 | Phantasms: Maledictus | 335206 | [335206-phantasms-maledictus.json](./335206-phantasms-maledictus.json) |
 | Phantasos | 297919 | [297919-phantasos.json](./297919-phantasos.json) |
 | Phantasos Now | 363059 | [363059-phantasos-now.json](./363059-phantasos-now.json) |
@@ -6217,6 +6223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piecrust | 311699 | [311699-piecrust.json](./311699-piecrust.json) |
 | Pieklo | 274135 | [274135-pieklo.json](./274135-pieklo.json) |
 | Pien | 144144 | [144144-pien.json](./144144-pien.json) |
+| Pien & Paon Plus | 228216 | [228216-pien-and-paon-plus.json](./228216-pien-and-paon-plus.json) |
 | PiePlex | 402950 | [402950-pieplex.json](./402950-pieplex.json) |
 | Pier Game | 340543 | [340543-pier-game.json](./340543-pier-game.json) |
 | Pier Pressure | 141532 | [141532-pier-pressure.json](./141532-pier-pressure.json) |
@@ -11995,6 +12002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Racing | 173290 | [173290-poly-racing.json](./173290-poly-racing.json) |
 | Poly Runner VR | 19038 | [19038-poly-runner-vr.json](./19038-poly-runner-vr.json) |
 | Poly S.A.E. | 185541 | [185541-poly-s-a-e.json](./185541-poly-s-a-e.json) |
+| Poly Shooter | 228200 | [228200-poly-shooter.json](./228200-poly-shooter.json) |
 | Poly Shooting Simulator | 277886 | [277886-poly-shooting-simulator.json](./277886-poly-shooting-simulator.json) |
 | Poly Skies | 199230 | [199230-poly-skies.json](./199230-poly-skies.json) |
 | Poly Smash | 240617 | [240617-poly-smash.json](./240617-poly-smash.json) |
