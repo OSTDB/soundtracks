@@ -595,6 +595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Dooty | 252457 | [252457-call-of-dooty.json](./252457-call-of-dooty.json) |
 | Call of Dooty II: Green Ops | 252458 | [252458-call-of-dooty-ii-green-ops.json](./252458-call-of-dooty-ii-green-ops.json) |
 | Call of Dooty III: Spectres | 252459 | [252459-call-of-dooty-iii-spectres.json](./252459-call-of-dooty-iii-spectres.json) |
+| Call of Dragons | 230103 | [230103-call-of-dragons.json](./230103-call-of-dragons.json) |
 | Call of Duty | 322845 | [322845-call-of-duty.json](./322845-call-of-duty.json) |
 | Call of Duty 2 | 119160 | [119160-call-of-duty-2.json](./119160-call-of-duty-2.json) |
 | Call of Duty 2 | 294571 | [294571-call-of-duty-2.json](./294571-call-of-duty-2.json) |
@@ -4444,6 +4445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catgirl Chess | 338500 | [338500-catgirl-chess.json](./338500-catgirl-chess.json) |
 | Catgirl Lover | 127927 | [127927-catgirl-lover.json](./127927-catgirl-lover.json) |
 | Catgirl Lover 2 | 122837 | [122837-catgirl-lover-2.json](./122837-catgirl-lover-2.json) |
+| Catgirl Lover Bundle | 230099 | [230099-catgirl-lover-bundle.json](./230099-catgirl-lover-bundle.json) |
 | Catgirl Magic: Fury Duel | 105653 | [105653-catgirl-magic-fury-duel.json](./105653-catgirl-magic-fury-duel.json) |
 | Catgirls From My Sweet Dream | 215502 | [215502-catgirls-from-my-sweet-dream.json](./215502-catgirls-from-my-sweet-dream.json) |
 | Catgirls From My Sweet Dream: Neko Girls 18+ | 343613 | [343613-catgirls-from-my-sweet-dream-neko-girls-18.json](./343613-catgirls-from-my-sweet-dream-neko-girls-18.json) |
@@ -7766,6 +7768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chop Chef | 359323 | [359323-chop-chef.json](./359323-chop-chef.json) |
 | Chop Chop Caveman | 256384 | [256384-chop-chop-caveman.json](./256384-chop-chop-caveman.json) |
 | Chop Chop for the Old God | 390324 | [390324-chop-chop-for-the-old-god.json](./390324-chop-chop-for-the-old-god.json) |
+| Chop Chop Guys | 230096 | [230096-chop-chop-guys.json](./230096-chop-chop-guys.json) |
 | Chop Chop Hockey | 97055 | [97055-chop-chop-hockey.json](./97055-chop-chop-hockey.json) |
 | Chop Chop Inc. | 398967 | [398967-chop-chop-inc.json](./398967-chop-chop-inc.json) |
 | Chop Chop Kicker | 232489 | [232489-chop-chop-kicker.json](./232489-chop-chop-kicker.json) |
