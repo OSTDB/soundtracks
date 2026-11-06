@@ -19400,6 +19400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult Master: Ultraman ni Miserarete | 60529 | [60529-cult-master-ultraman-ni-miserarete.json](./60529-cult-master-ultraman-ni-miserarete.json) |
 | Cult Nation | 388360 | [388360-cult-nation.json](./388360-cult-nation.json) |
 | Cult ni Kibishii Gal: Cult vs. Gal | 285361 | [285361-cult-ni-kibishii-gal-cult-vs-gal.json](./285361-cult-ni-kibishii-gal-cult-vs-gal.json) |
+| Cult of Babel | 209794 | [209794-cult-of-babel.json](./209794-cult-of-babel.json) |
 | Cult Of Blood | 319965 | [319965-cult-of-blood.json](./319965-cult-of-blood.json) |
 | Cult of Five | 381923 | [381923-cult-of-five.json](./381923-cult-of-five.json) |
 | Cult of Flies | 346868 | [346868-cult-of-flies.json](./346868-cult-of-flies.json) |
