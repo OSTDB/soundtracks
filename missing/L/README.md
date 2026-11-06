@@ -1741,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lavender | 186625 | [186625-lavender.json](./186625-lavender.json) |
 | Lavender Field | 347353 | [347353-lavender-field.json](./347353-lavender-field.json) |
 | Lavender Laboratories | 184050 | [184050-lavender-laboratories.json](./184050-lavender-laboratories.json) |
+| Lavender Link | 243464 | [243464-lavender-link.json](./243464-lavender-link.json) |
 | Lavender Memories | 303309 | [303309-lavender-memories.json](./303309-lavender-memories.json) |
 | Lavender Quartz Kyoukai Hyoudou | 360036 | [360036-lavender-quartz-kyoukai-hyoudou.json](./360036-lavender-quartz-kyoukai-hyoudou.json) |
 | Lavender Station | 404205 | [404205-lavender-station.json](./404205-lavender-station.json) |
@@ -3277,6 +3278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO The Robot Chronicles | 234218 | [234218-lego-the-robot-chronicles.json](./234218-lego-the-robot-chronicles.json) |
 | LEGO Tower | 119579 | [119579-lego-tower.json](./119579-lego-tower.json) |
 | LEGO Universe | 21092 | [21092-lego-universe.json](./21092-lego-universe.json) |
+| LEGO World Builder | 243462 | [243462-lego-world-builder.json](./243462-lego-world-builder.json) |
 | LEGO World Builder 2 | 243690 | [243690-lego-world-builder-2.json](./243690-lego-world-builder-2.json) |
 | LEGO World Soccer | 273982 | [273982-lego-world-soccer.json](./273982-lego-world-soccer.json) |
 | LEGO Worlds | 10910 | [10910-lego-worlds.json](./10910-lego-worlds.json) |
