@@ -747,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecco the Dolphin | 5378 | [5378-ecco-the-dolphin.json](./5378-ecco-the-dolphin.json) |
 | Ecco the Dolphin CD | 409123 | [409123-ecco-the-dolphin-cd.json](./409123-ecco-the-dolphin-cd.json) |
 | Ecco the Dolphin: Defender of the Future | 9188 | [9188-ecco-the-dolphin-defender-of-the-future.json](./9188-ecco-the-dolphin-defender-of-the-future.json) |
+| Ecco: The Last Whisper | 196907 | [196907-ecco-the-last-whisper.json](./196907-ecco-the-last-whisper.json) |
 | Ecco: The Tides of Time | 237314 | [237314-ecco-the-tides-of-time.json](./237314-ecco-the-tides-of-time.json) |
 | Ecco: The Tides of Time | 5379 | [5379-ecco-the-tides-of-time.json](./5379-ecco-the-tides-of-time.json) |
 | ECH8 | 395554 | [395554-ech8.json](./395554-ech8.json) |
@@ -3905,6 +3906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endure Island | 213976 | [213976-endure-island.json](./213976-endure-island.json) |
 | Endure or Perish | 288223 | [288223-endure-or-perish.json](./288223-endure-or-perish.json) |
 | Endure the Swarm | 297425 | [297425-endure-the-swarm.json](./297425-endure-the-swarm.json) |
+| Enduring Dreamers: Freya | 196914 | [196914-enduring-dreamers-freya.json](./196914-enduring-dreamers-freya.json) |
 | Enduring Mountain | 213999 | [213999-enduring-mountain.json](./213999-enduring-mountain.json) |
 | Endurium | 157338 | [157338-endurium.json](./157338-endurium.json) |
 | Enduro | 18669 | [18669-enduro.json](./18669-enduro.json) |
