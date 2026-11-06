@@ -9077,6 +9077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MeowGun: Hell Denizen | 244190 | [244190-meowgun-hell-denizen.json](./244190-meowgun-hell-denizen.json) |
 | Meowhiss the Snake | 292761 | [292761-meowhiss-the-snake.json](./292761-meowhiss-the-snake.json) |
 | Meowingtons Simulator | 326384 | [326384-meowingtons-simulator.json](./326384-meowingtons-simulator.json) |
+| Meowjiro | 224909 | [224909-meowjiro.json](./224909-meowjiro.json) |
 | Meowk and Frocco | 118799 | [118799-meowk-and-frocco.json](./118799-meowk-and-frocco.json) |
 | Meowker: Desktop Cat Companion | 396494 | [396494-meowker-desktop-cat-companion.json](./396494-meowker-desktop-cat-companion.json) |
 | Meowland: Island Farm | 337558 | [337558-meowland-island-farm.json](./337558-meowland-island-farm.json) |
@@ -12744,6 +12745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Pond Farm: Frogs & Lilypads | 406154 | [406154-mini-pond-farm-frogs-and-lilypads.json](./406154-mini-pond-farm-frogs-and-lilypads.json) |
 | Mini Prince | 145286 | [145286-mini-prince.json](./145286-mini-prince.json) |
 | Mini Push | 412302 | [412302-mini-push.json](./412302-mini-push.json) |
+| Mini Putt | 224887 | [224887-mini-putt.json](./224887-mini-putt.json) |
 | Mini Putt | 320098 | [320098-mini-putt.json](./320098-mini-putt.json) |
 | Mini Putt Camelot | 196420 | [196420-mini-putt-camelot.json](./196420-mini-putt-camelot.json) |
 | Mini Puzzle Balls | 147784 | [147784-mini-puzzle-balls.json](./147784-mini-puzzle-balls.json) |
@@ -16258,6 +16260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Montezuma's Revenge: The 40th Anniversary Edition | 330130 | [330130-montezumas-revenge-the-40th-anniversary-edition.json](./330130-montezumas-revenge-the-40th-anniversary-edition.json) |
 | Montgolfier Brothers' Test Flight | 413027 | [413027-montgolfier-brothers-test-flight.json](./413027-montgolfier-brothers-test-flight.json) |
 | Montgomery Fox and the Case of the Diamond Necklace | 226322 | [226322-montgomery-fox-and-the-case-of-the-diamond-necklace.json](./226322-montgomery-fox-and-the-case-of-the-diamond-necklace.json) |
+| Montgomery Fox and the Case of the Missing Ballerinas | 224913 | [224913-montgomery-fox-and-the-case-of-the-missing-ballerinas.json](./224913-montgomery-fox-and-the-case-of-the-missing-ballerinas.json) |
 | Montgomery Fox and the Revenge of Victor Draven | 226321 | [226321-montgomery-fox-and-the-revenge-of-victor-draven.json](./226321-montgomery-fox-and-the-revenge-of-victor-draven.json) |
 | Monthly Dystopia | 232397 | [232397-monthly-dystopia.json](./232397-monthly-dystopia.json) |
 | Monthly Entertainment | 297662 | [297662-monthly-entertainment.json](./297662-monthly-entertainment.json) |
