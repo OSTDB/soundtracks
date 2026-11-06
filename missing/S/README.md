@@ -2178,6 +2178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturn | 313467 | [313467-saturn.json](./313467-saturn.json) |
 | Saturn 94 | 414135 | [414135-saturn-94.json](./414135-saturn-94.json) |
 | Saturn Bomberman | 28393 | [28393-saturn-bomberman.json](./28393-saturn-bomberman.json) |
+| Saturn Menace | 201366 | [201366-saturn-menace.json](./201366-saturn-menace.json) |
 | Saturn Quest: Blast Effect | 142188 | [142188-saturn-quest-blast-effect.json](./142188-saturn-quest-blast-effect.json) |
 | Saturn Quest: R.U.N.E. 3000 | 221169 | [221169-saturn-quest-r-u-n-e-3000.json](./221169-saturn-quest-r-u-n-e-3000.json) |
 | Saturn Quest: Shadow of Planetus | 132792 | [132792-saturn-quest-shadow-of-planetus.json](./132792-saturn-quest-shadow-of-planetus.json) |
@@ -18548,6 +18549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Injector Commando | 322603 | [322603-soul-injector-commando.json](./322603-soul-injector-commando.json) |
 | Soul Interface | 302382 | [302382-soul-interface.json](./302382-soul-interface.json) |
 | Soul Island | 116743 | [116743-soul-island.json](./116743-soul-island.json) |
+| Soul Janitor | 201365 | [201365-soul-janitor.json](./201365-soul-janitor.json) |
 | Soul Journey | 202115 | [202115-soul-journey.json](./202115-soul-journey.json) |
 | Soul King | 213453 | [213453-soul-king.json](./213453-soul-king.json) |
 | Soul King: Out of the Box | 298109 | [298109-soul-king-out-of-the-box.json](./298109-soul-king-out-of-the-box.json) |
@@ -30303,6 +30305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunshine & Overcast | 119595 | [119595-sunshine-and-overcast.json](./119595-sunshine-and-overcast.json) |
 | Sunshine Acres | 25002 | [25002-sunshine-acres.json](./25002-sunshine-acres.json) |
 | Sunshine Complex | 272123 | [272123-sunshine-complex.json](./272123-sunshine-complex.json) |
+| Sunshine Days | 201351 | [201351-sunshine-days.json](./201351-sunshine-days.json) |
 | Sunshine Farm | 333005 | [333005-sunshine-farm.json](./333005-sunshine-farm.json) |
 | Sunshine Gravy: Fall | 364842 | [364842-sunshine-gravy-fall.json](./364842-sunshine-gravy-fall.json) |
 | Sunshine Heavy Industries | 146834 | [146834-sunshine-heavy-industries.json](./146834-sunshine-heavy-industries.json) |
@@ -32413,6 +32416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Peko 35 | 266904 | [266904-super-peko-35.json](./266904-super-peko-35.json) |
 | Super Penguin Ball & Chain | 343433 | [343433-super-penguin-ball-and-chain.json](./343433-super-penguin-ball-and-chain.json) |
 | Super People | 158813 | [158813-super-people.json](./158813-super-people.json) |
+| Super Perils of Baking | 201384 | [201384-super-perils-of-baking.json](./201384-super-perils-of-baking.json) |
 | Super Perspective | 65841 | [65841-super-perspective.json](./65841-super-perspective.json) |
 | Super Pet Hero | 245758 | [245758-super-pet-hero.json](./245758-super-pet-hero.json) |
 | Super Phantasy Fighters | 323101 | [323101-super-phantasy-fighters.json](./323101-super-phantasy-fighters.json) |
@@ -33924,6 +33928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surf Riders | 44962 | [44962-surf-riders.json](./44962-surf-riders.json) |
 | Surf Rocket Racers | 45842 | [45842-surf-rocket-racers.json](./45842-surf-rocket-racers.json) |
 | Surf Safari | 201980 | [201980-surf-safari.json](./201980-surf-safari.json) |
+| Surf's Up | 201349 | [201349-surfs-up.json](./201349-surfs-up.json) |
 | Surf's Up | 248517 | [248517-surfs-up.json](./248517-surfs-up.json) |
 | Surf's Up | 248518 | [248518-surfs-up.json](./248518-surfs-up.json) |
 | Surf's Up | 283113 | [283113-surfs-up.json](./283113-surfs-up.json) |
