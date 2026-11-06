@@ -1629,6 +1629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark History | 375504 | [375504-dark-history.json](./375504-dark-history.json) |
 | Dark Home | 154892 | [154892-dark-home.json](./154892-dark-home.json) |
 | Dark Honor | 403652 | [403652-dark-honor.json](./403652-dark-honor.json) |
+| Dark Hood | 197433 | [197433-dark-hood.json](./197433-dark-hood.json) |
 | Dark Hope | 116785 | [116785-dark-hope.json](./116785-dark-hope.json) |
 | Dark Horizon | 19639 | [19639-dark-horizon.json](./19639-dark-horizon.json) |
 | Dark Horizons: Lore | 332670 | [332670-dark-horizons-lore.json](./332670-dark-horizons-lore.json) |
@@ -2466,6 +2467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dashing Dodgems | 122932 | [122932-dashing-dodgems.json](./122932-dashing-dodgems.json) |
 | Dashing Mariachis | 199419 | [199419-dashing-mariachis.json](./199419-dashing-mariachis.json) |
 | Dashing Nineties: R.M.D. | 43143 | [43143-dashing-nineties-r-m-d.json](./43143-dashing-nineties-r-m-d.json) |
+| Dashing Orange | 197452 | [197452-dashing-orange.json](./197452-dashing-orange.json) |
 | Dashing Pixels | 136484 | [136484-dashing-pixels.json](./136484-dashing-pixels.json) |
 | Dashkin | 83187 | [83187-dashkin.json](./83187-dashkin.json) |
 | Dashlab | 302023 | [302023-dashlab.json](./302023-dashlab.json) |
@@ -10746,6 +10748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dissolving | 118821 | [118821-dissolving.json](./118821-dissolving.json) |
 | Dissolving Disarray | 324292 | [324292-dissolving-disarray.json](./324292-dissolving-disarray.json) |
 | Dissolving Gallery | 398288 | [398288-dissolving-gallery.json](./398288-dissolving-gallery.json) |
+| Dissonance | 197454 | [197454-dissonance.json](./197454-dissonance.json) |
 | Dissonance: An Interactive Novelette | 34029 | [34029-dissonance-an-interactive-novelette.json](./34029-dissonance-an-interactive-novelette.json) |
 | Dissonant | 386551 | [386551-dissonant.json](./386551-dissonant.json) |
 | Dissonators | 292475 | [292475-dissonators.json](./292475-dissonators.json) |
@@ -16317,6 +16320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreeg | 357747 | [357747-dreeg.json](./357747-dreeg.json) |
 | Dreem Ascension | 393506 | [393506-dreem-ascension.json](./393506-dreem-ascension.json) |
 | Dreeps | 79115 | [79115-dreeps.json](./79115-dreeps.json) |
+| Dreg Cannon | 197460 | [197460-dreg-cannon.json](./197460-dreg-cannon.json) |
 | Dreggon | 183318 | [183318-dreggon.json](./183318-dreggon.json) |
 | DREGS | 409618 | [409618-dregs.json](./409618-dregs.json) |
 | Drehmal: Apotheosis | 336548 | [336548-drehmal-apotheosis.json](./336548-drehmal-apotheosis.json) |
@@ -17689,6 +17693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duketroid | 308457 | [308457-duketroid.json](./308457-duketroid.json) |
 | DukeVR | 273214 | [273214-dukevr.json](./273214-dukevr.json) |
 | Dukkido | 330897 | [330897-dukkido.json](./330897-dukkido.json) |
+| Duks | 197446 | [197446-duks.json](./197446-duks.json) |
 | Dukstale | 409099 | [409099-dukstale.json](./409099-dukstale.json) |
 | Dulat | 416350 | [416350-dulat.json](./416350-dulat.json) |
 | Dulce et Decorum | 195202 | [195202-dulce-et-decorum.json](./195202-dulce-et-decorum.json) |
