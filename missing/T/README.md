@@ -6288,6 +6288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle Cats POP! | 19898 | [19898-the-battle-cats-pop.json](./19898-the-battle-cats-pop.json) |
 | The Battle Cats Unite! | 113359 | [113359-the-battle-cats-unite.json](./113359-the-battle-cats-unite.json) |
 | The Battle for Christmas | 326210 | [326210-the-battle-for-christmas.json](./326210-the-battle-for-christmas.json) |
+| The Battle for Mata-Nui | 203503 | [203503-the-battle-for-mata-nui.json](./203503-the-battle-for-mata-nui.json) |
 | The Battle for Murk | 102884 | [102884-the-battle-for-murk.json](./102884-the-battle-for-murk.json) |
 | The Battle for Sector 219 | 33184 | [33184-the-battle-for-sector-219.json](./33184-the-battle-for-sector-219.json) |
 | The Battle for the Hut | 99671 | [99671-the-battle-for-the-hut.json](./99671-the-battle-for-the-hut.json) |
@@ -24198,6 +24199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tofu Dream | 358734 | [358734-tofu-dream.json](./358734-tofu-dream.json) |
 | Tofu Drifter | 234600 | [234600-tofu-drifter.json](./234600-tofu-drifter.json) |
 | Tofu Escape | 192575 | [192575-tofu-escape.json](./192575-tofu-escape.json) |
+| Tofu Girl | 203476 | [203476-tofu-girl.json](./203476-tofu-girl.json) |
 | Tofu Go! 2: The Onsen Adventure | 242206 | [242206-tofu-go-2-the-onsen-adventure.json](./242206-tofu-go-2-the-onsen-adventure.json) |
 | Tofu Pudding Simulator | 114871 | [114871-tofu-pudding-simulator.json](./114871-tofu-pudding-simulator.json) |
 | Tofu Run: Remastered | 350364 | [350364-tofu-run-remastered.json](./350364-tofu-run-remastered.json) |
