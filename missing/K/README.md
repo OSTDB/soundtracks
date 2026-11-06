@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiki Gensou Yumemonogatari: Kaijuu Kitan Ouja-den | 110137 | [110137-kaiki-gensou-yumemonogatari-kaijuu-kitan-ouja-den.json](./110137-kaiki-gensou-yumemonogatari-kaijuu-kitan-ouja-den.json) |
 | Kaiki Sando | 282243 | [282243-kaiki-sando.json](./282243-kaiki-sando.json) |
 | Kaiki: Okujou no Yuurei to Akuma no Gishiki | 283853 | [283853-kaiki-okujou-no-yuurei-to-akuma-no-gishiki.json](./283853-kaiki-okujou-no-yuurei-to-akuma-no-gishiki.json) |
+| Kaikiken | 218802 | [218802-kaikiken.json](./218802-kaikiken.json) |
 | Kaikyuu Karane Kotoba | 206381 | [206381-kaikyuu-karane-kotoba.json](./206381-kaikyuu-karane-kotoba.json) |
 | Kaikyuu no Eshi | 239678 | [239678-kaikyuu-no-eshi.json](./239678-kaikyuu-no-eshi.json) |
 | Kaila | 236606 | [236606-kaila.json](./236606-kaila.json) |
@@ -5128,6 +5129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kola Аbyss | 377643 | [377643-kola-byss.json](./377643-kola-byss.json) |
 | Kolb Antarctica Experience | 96830 | [96830-kolb-antarctica-experience.json](./96830-kolb-antarctica-experience.json) |
 | Koler | 236196 | [236196-koler.json](./236196-koler.json) |
+| Kolf | 218779 | [218779-kolf.json](./218779-kolf.json) |
 | Kolhii Champions AU | 213314 | [213314-kolhii-champions-au.json](./213314-kolhii-champions-au.json) |
 | Kolibri | 19733 | [19733-kolibri.json](./19733-kolibri.json) |
 | Koliquest | 146243 | [146243-koliquest.json](./146243-koliquest.json) |
