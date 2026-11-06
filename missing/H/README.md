@@ -4786,6 +4786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Casual Jigsaw: Witches | 245768 | [245768-hentai-casual-jigsaw-witches.json](./245768-hentai-casual-jigsaw-witches.json) |
 | Hentai Casual Jigsaw: Zombies | 301672 | [301672-hentai-casual-jigsaw-zombies.json](./301672-hentai-casual-jigsaw-zombies.json) |
 | Hentai Casual Slider 2 | 234736 | [234736-hentai-casual-slider-2.json](./234736-hentai-casual-slider-2.json) |
+| Hentai Casual Slider 3 | 240582 | [240582-hentai-casual-slider-3.json](./240582-hentai-casual-slider-3.json) |
 | Hentai Casual Swap | 239809 | [239809-hentai-casual-swap.json](./239809-hentai-casual-swap.json) |
 | Hentai Casual Swap 2 | 246015 | [246015-hentai-casual-swap-2.json](./246015-hentai-casual-swap-2.json) |
 | Hentai Casual Swap 3 | 371402 | [371402-hentai-casual-swap-3.json](./371402-hentai-casual-swap-3.json) |
@@ -5236,6 +5237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Puzzle? Not Again.... | 366510 | [366510-hentai-puzzle-not-again.json](./366510-hentai-puzzle-not-again.json) |
 | Hentai Puzzles | 96468 | [96468-hentai-puzzles.json](./96468-hentai-puzzles.json) |
 | Hentai Puzzles: Attack on Tight Panties | 245767 | [245767-hentai-puzzles-attack-on-tight-panties.json](./245767-hentai-puzzles-attack-on-tight-panties.json) |
+| Hentai Puzzles: The Origin | 240591 | [240591-hentai-puzzles-the-origin.json](./240591-hentai-puzzles-the-origin.json) |
 | Hentai Queens | 149431 | [149431-hentai-queens.json](./149431-hentai-queens.json) |
 | Hentai Reality 3 | 400177 | [400177-hentai-reality-3.json](./400177-hentai-reality-3.json) |
 | Hentai Reina | 399965 | [399965-hentai-reina.json](./399965-hentai-reina.json) |
@@ -5692,6 +5694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermit's Tic-Tac-Toe | 243608 | [243608-hermits-tic-tac-toe.json](./243608-hermits-tic-tac-toe.json) |
 | Hermitage Strange Case Files | 99435 | [99435-hermitage-strange-case-files.json](./99435-hermitage-strange-case-files.json) |
 | Hermitage: Strange Case Files | 130256 | [130256-hermitage-strange-case-files.json](./130256-hermitage-strange-case-files.json) |
+| Hermitcraft TCG | 240552 | [240552-hermitcraft-tcg.json](./240552-hermitcraft-tcg.json) |
 | Hero | 313746 | [313746-hero.json](./313746-hero.json) |
 | Hero | 32462 | [32462-hero.json](./32462-hero.json) |
 | Hero | 345952 | [345952-hero.json](./345952-hero.json) |
@@ -10359,6 +10362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Rubber | 15230 | [15230-hot-rubber.json](./15230-hot-rubber.json) |
 | Hot Runback: VR Runner | 68656 | [68656-hot-runback-vr-runner.json](./68656-hot-runback-vr-runner.json) |
 | Hot Sauna | 368110 | [368110-hot-sauna.json](./368110-hot-sauna.json) |
+| Hot Secretary Puzzle | 240608 | [240608-hot-secretary-puzzle.json](./240608-hot-secretary-puzzle.json) |
 | Hot Sento Girls and love | 208869 | [208869-hot-sento-girls-and-love.json](./208869-hot-sento-girls-and-love.json) |
 | Hot Shocker | 40055 | [40055-hot-shocker.json](./40055-hot-shocker.json) |
 | Hot Shot | 317877 | [317877-hot-shot.json](./317877-hot-shot.json) |
@@ -12049,6 +12053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyakka Yakou | 60953 | [60953-hyakka-yakou.json](./60953-hyakka-yakou.json) |
 | Hyakkano: 100 Girlfriends | 408167 | [408167-hyakkano-100-girlfriends.json](./408167-hyakkano-100-girlfriends.json) |
 | Hyakki Fantasia Mini Game Selection Vol.1 | 396119 | [396119-hyakki-fantasia-mini-game-selection-vol-1.json](./396119-hyakki-fantasia-mini-game-selection-vol-1.json) |
+| Hyakki Rinne | 240566 | [240566-hyakki-rinne.json](./240566-hyakki-rinne.json) |
 | Hyakki Ryouran no Yakata x Kawarazaki-ke no Ichizoku | 77868 | [77868-hyakki-ryouran-no-yakata-x-kawarazaki-ke-no-ichizoku.json](./77868-hyakki-ryouran-no-yakata-x-kawarazaki-ke-no-ichizoku.json) |
 | Hyakki Yako Survivor | 331332 | [331332-hyakki-yako-survivor.json](./331332-hyakki-yako-survivor.json) |
 | Hyakki Yako: OH&S | 259289 | [259289-hyakki-yako-oh-and-s.json](./259289-hyakki-yako-oh-and-s.json) |
