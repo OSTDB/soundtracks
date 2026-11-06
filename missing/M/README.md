@@ -5865,6 +5865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -10420,6 +10421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Battles | 233172 | [233172-micro-battles.json](./233172-micro-battles.json) |
 | Micro Battles 2 | 235137 | [235137-micro-battles-2.json](./235137-micro-battles-2.json) |
 | Micro Battles 3 | 240845 | [240845-micro-battles-3.json](./240845-micro-battles-3.json) |
+| Micro Breaker | 234382 | [234382-micro-breaker.json](./234382-micro-breaker.json) |
 | Micro Car Crash Online Le Go! | 123943 | [123943-micro-car-crash-online-le-go.json](./123943-micro-car-crash-online-le-go.json) |
 | Micro Commandos | 71460 | [71460-micro-commandos.json](./71460-micro-commandos.json) |
 | Micro Gamer Shinmy | 338130 | [338130-micro-gamer-shinmy.json](./338130-micro-gamer-shinmy.json) |
@@ -11301,6 +11303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Kingdom | 360638 | [360638-mighty-kingdom.json](./360638-mighty-kingdom.json) |
 | Mighty Knight | 364230 | [364230-mighty-knight.json](./364230-mighty-knight.json) |
 | Mighty Knight Legacy | 275339 | [275339-mighty-knight-legacy.json](./275339-mighty-knight-legacy.json) |
+| Mighty Mage | 234404 | [234404-mighty-mage.json](./234404-mighty-mage.json) |
 | Mighty Magus | 379614 | [379614-mighty-magus.json](./379614-mighty-magus.json) |
 | Mighty Mahjong | 406111 | [406111-mighty-mahjong.json](./406111-mighty-mahjong.json) |
 | Mighty Marbles | 258441 | [258441-mighty-marbles.json](./258441-mighty-marbles.json) |
@@ -20966,6 +20969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sweet Bully | 206027 | [206027-my-sweet-bully.json](./206027-my-sweet-bully.json) |
 | My Sweet Confession | 133047 | [133047-my-sweet-confession.json](./133047-my-sweet-confession.json) |
 | My Sweet Devil 3: Ring | 97695 | [97695-my-sweet-devil-3-ring.json](./97695-my-sweet-devil-3-ring.json) |
+| My Sweet Devilish Maids | 234387 | [234387-my-sweet-devilish-maids.json](./234387-my-sweet-devilish-maids.json) |
 | My Sweet Herbivore High | 231421 | [231421-my-sweet-herbivore-high.json](./231421-my-sweet-herbivore-high.json) |
 | My Sweet High School Memories | 214915 | [214915-my-sweet-high-school-memories.json](./214915-my-sweet-high-school-memories.json) |
 | My Sweet Home Dungeon | 299199 | [299199-my-sweet-home-dungeon.json](./299199-my-sweet-home-dungeon.json) |
