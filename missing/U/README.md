@@ -1128,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umi Tsuri Mejin: Suzuki-hen | 37773 | [37773-umi-tsuri-mejin-suzuki-hen.json](./37773-umi-tsuri-mejin-suzuki-hen.json) |
 | Umichan Sorani | 201147 | [201147-umichan-sorani.json](./201147-umichan-sorani.json) |
 | Umidorino Gaku no Seishin Kanteiroku | 308879 | [308879-umidorino-gaku-no-seishin-kanteiroku.json](./308879-umidorino-gaku-no-seishin-kanteiroku.json) |
+| Umigame | 226579 | [226579-umigame.json](./226579-umigame.json) |
 | Umigari | 372200 | [372200-umigari.json](./372200-umigari.json) |
 | Umihara Kawase | 15928 | [15928-umihara-kawase.json](./15928-umihara-kawase.json) |
 | Umihara Kawase BaZooKa! | 122352 | [122352-umihara-kawase-bazooka.json](./122352-umihara-kawase-bazooka.json) |
@@ -1465,6 +1466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncrowned | 281909 | [281909-uncrowned.json](./281909-uncrowned.json) |
 | Unctrl | 320302 | [320302-unctrl.json](./320302-unctrl.json) |
 | Uncult | 264203 | [264203-uncult.json](./264203-uncult.json) |
+| Uncured | 226580 | [226580-uncured.json](./226580-uncured.json) |
 | Uncursed | 329491 | [329491-uncursed.json](./329491-uncursed.json) |
 | Uncursed | 331985 | [331985-uncursed.json](./331985-uncursed.json) |
 | Uncutetifying Danny | 298770 | [298770-uncutetifying-danny.json](./298770-uncutetifying-danny.json) |
@@ -2117,6 +2119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unhack | 35978 | [35978-unhack.json](./35978-unhack.json) |
 | Unhack 2 | 33530 | [33530-unhack-2.json](./33530-unhack-2.json) |
 | Unhack: Destruction | 172365 | [172365-unhack-destruction.json](./172365-unhack-destruction.json) |
+| Unhackable | 226581 | [226581-unhackable.json](./226581-unhackable.json) |
 | Unhallowed | 256834 | [256834-unhallowed.json](./256834-unhallowed.json) |
 | Unhallowed: The Cabin | 96235 | [96235-unhallowed-the-cabin.json](./96235-unhallowed-the-cabin.json) |
 | Unhappening | 397909 | [397909-unhappening.json](./397909-unhappening.json) |
