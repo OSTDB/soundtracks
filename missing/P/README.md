@@ -5081,6 +5081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PGA Tour 2K21: Baller Edition | 176792 | [176792-pga-tour-2k21-baller-edition.json](./176792-pga-tour-2k21-baller-edition.json) |
 | PGA Tour 2K21: Deluxe Edition | 136291 | [136291-pga-tour-2k21-deluxe-edition.json](./136291-pga-tour-2k21-deluxe-edition.json) |
 | PGA Tour 2K21: Digital Deluxe Edition | 164831 | [164831-pga-tour-2k21-digital-deluxe-edition.json](./164831-pga-tour-2k21-digital-deluxe-edition.json) |
+| PGA Tour 2K23 x NBA 2K23 Bundle | 228849 | [228849-pga-tour-2k23-x-nba-2k23-bundle.json](./228849-pga-tour-2k23-x-nba-2k23-bundle.json) |
 | PGA Tour 2K23: Deluxe Edition | 214136 | [214136-pga-tour-2k23-deluxe-edition.json](./214136-pga-tour-2k23-deluxe-edition.json) |
 | PGA TOUR 2K23: Michael Jordan Bonus Pack | 263260 | [263260-pga-tour-2k23-michael-jordan-bonus-pack.json](./263260-pga-tour-2k23-michael-jordan-bonus-pack.json) |
 | PGA Tour 2K23: Style & Swing Pack | 307973 | [307973-pga-tour-2k23-style-and-swing-pack.json](./307973-pga-tour-2k23-style-and-swing-pack.json) |
@@ -18074,6 +18075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle by Nikoli W Kakuro | 262657 | [262657-puzzle-by-nikoli-w-kakuro.json](./262657-puzzle-by-nikoli-w-kakuro.json) |
 | Puzzle by Nikoli W Masyu | 241175 | [241175-puzzle-by-nikoli-w-masyu.json](./241175-puzzle-by-nikoli-w-masyu.json) |
 | Puzzle by Nikoli W Numberlink | 250118 | [250118-puzzle-by-nikoli-w-numberlink.json](./250118-puzzle-by-nikoli-w-numberlink.json) |
+| Puzzle by Nikoli W Nurikabe | 228843 | [228843-puzzle-by-nikoli-w-nurikabe.json](./228843-puzzle-by-nikoli-w-nurikabe.json) |
 | Puzzle by Nikoli W Shikaku | 245627 | [245627-puzzle-by-nikoli-w-shikaku.json](./245627-puzzle-by-nikoli-w-shikaku.json) |
 | Puzzle by Nikoli W Slitherlink | 225476 | [225476-puzzle-by-nikoli-w-slitherlink.json](./225476-puzzle-by-nikoli-w-slitherlink.json) |
 | Puzzle by Nikoli W Yajilin | 251395 | [251395-puzzle-by-nikoli-w-yajilin.json](./251395-puzzle-by-nikoli-w-yajilin.json) |
