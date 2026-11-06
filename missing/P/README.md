@@ -3017,6 +3017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathfinder: Wrath of the Righteous - Through the Ashes | 198351 | [198351-pathfinder-wrath-of-the-righteous-through-the-ashes.json](./198351-pathfinder-wrath-of-the-righteous-through-the-ashes.json) |
 | Pathfinder: Wrath of the Righteous - Visitors from Morta | 315995 | [315995-pathfinder-wrath-of-the-righteous-visitors-from-morta.json](./315995-pathfinder-wrath-of-the-righteous-visitors-from-morta.json) |
 | Pathfinders | 134450 | [134450-pathfinders.json](./134450-pathfinders.json) |
+| Pathfinders: Lost at Sea | 222718 | [222718-pathfinders-lost-at-sea.json](./222718-pathfinders-lost-at-sea.json) |
 | Pathfinders: Memories | 133051 | [133051-pathfinders-memories.json](./133051-pathfinders-memories.json) |
 | Pathless Maze TD | 352293 | [352293-pathless-maze-td.json](./352293-pathless-maze-td.json) |
 | Pathless Woods | 172705 | [172705-pathless-woods.json](./172705-pathless-woods.json) |
@@ -12323,6 +12324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poobo | 383160 | [383160-poobo.json](./383160-poobo.json) |
 | Poochie Puppy | 347074 | [347074-poochie-puppy.json](./347074-poochie-puppy.json) |
 | Poochy & Yoshi's Woolly World | 27033 | [27033-poochy-and-yoshis-woolly-world.json](./27033-poochy-and-yoshis-woolly-world.json) |
+| Poochy's Mix-Up | 222687 | [222687-poochys-mix-up.json](./222687-poochys-mix-up.json) |
 | Poodle Clicker | 309391 | [309391-poodle-clicker.json](./309391-poodle-clicker.json) |
 | Poodle Jump! | 368997 | [368997-poodle-jump.json](./368997-poodle-jump.json) |
 | Poodle Kick | 391608 | [391608-poodle-kick.json](./391608-poodle-kick.json) |
@@ -16567,6 +16569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protolife: Other Side | 244889 | [244889-protolife-other-side.json](./244889-protolife-other-side.json) |
 | Protologic | 10430 | [10430-protologic.json](./10430-protologic.json) |
 | Proton & Electron | 373788 | [373788-proton-and-electron.json](./373788-proton-and-electron.json) |
+| Proton Bus Simulator | 222602 | [222602-proton-bus-simulator.json](./222602-proton-bus-simulator.json) |
 | Proton Bus Simulator Road | 219822 | [219822-proton-bus-simulator-road.json](./219822-proton-bus-simulator-road.json) |
 | Proton Pulse + | 56526 | [56526-proton-pulse.json](./56526-proton-pulse.json) |
 | Proton VR | 392133 | [392133-proton-vr.json](./392133-proton-vr.json) |
