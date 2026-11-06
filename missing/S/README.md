@@ -7910,6 +7910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelter of Sursur 2 | 350606 | [350606-shelter-of-sursur-2.json](./350606-shelter-of-sursur-2.json) |
 | Shelter SCG | 175056 | [175056-shelter-scg.json](./175056-shelter-scg.json) |
 | Shelter War | 141458 | [141458-shelter-war.json](./141458-shelter-war.json) |
+| Shelter Zero | 194068 | [194068-shelter-zero.json](./194068-shelter-zero.json) |
 | Shelter: Complete Edition | 53600 | [53600-shelter-complete-edition.json](./53600-shelter-complete-edition.json) |
 | Shelter: The Heart Edition | 53599 | [53599-shelter-the-heart-edition.json](./53599-shelter-the-heart-edition.json) |
 | Sheltered 2 | 152285 | [152285-sheltered-2.json](./152285-sheltered-2.json) |
@@ -10162,6 +10163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege Survival: Gloria Victis | 145242 | [145242-siege-survival-gloria-victis.json](./145242-siege-survival-gloria-victis.json) |
 | Siege the Day | 148782 | [148782-siege-the-day.json](./148782-siege-the-day.json) |
 | Siege Worlds | 218301 | [218301-siege-worlds.json](./218301-siege-worlds.json) |
+| Siege: Apocalypse | 194060 | [194060-siege-apocalypse.json](./194060-siege-apocalypse.json) |
 | Siege: The Card Game | 33895 | [33895-siege-the-card-game.json](./33895-siege-the-card-game.json) |
 | Siege: Titan Wars | 56185 | [56185-siege-titan-wars.json](./56185-siege-titan-wars.json) |
 | Siege: World War II | 233404 | [233404-siege-world-war-ii.json](./233404-siege-world-war-ii.json) |
@@ -19662,7 +19664,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20124,6 +20125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Slalom | 6138 | [6138-space-slalom.json](./6138-space-slalom.json) |
 | Space Slaughter | 242875 | [242875-space-slaughter.json](./242875-space-slaughter.json) |
 | Space Slayer | 26793 | [26793-space-slayer.json](./26793-space-slayer.json) |
+| Space Slime: Rancher's Adventure | 194072 | [194072-space-slime-ranchers-adventure.json](./194072-space-slime-ranchers-adventure.json) |
 | Space Slingshot VR | 95198 | [95198-space-slingshot-vr.json](./95198-space-slingshot-vr.json) |
 | Space Slurpies | 142211 | [142211-space-slurpies.json](./142211-space-slurpies.json) |
 | Space Smack! | 171074 | [171074-space-smack.json](./171074-space-smack.json) |
@@ -22257,6 +22259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splash Basketball Online | 116443 | [116443-splash-basketball-online.json](./116443-splash-basketball-online.json) |
 | Splash Carnival | 290210 | [290210-splash-carnival.json](./290210-splash-carnival.json) |
 | Splash Damage: Survive if you can | 41504 | [41504-splash-damage-survive-if-you-can.json](./41504-splash-damage-survive-if-you-can.json) |
+| Splash Dance | 194063 | [194063-splash-dance.json](./194063-splash-dance.json) |
 | Splash Dino | 297839 | [297839-splash-dino.json](./297839-splash-dino.json) |
 | Splash Dino 2 | 309719 | [309719-splash-dino-2.json](./309719-splash-dino-2.json) |
 | Splash Divers | 395524 | [395524-splash-divers.json](./395524-splash-divers.json) |
@@ -34315,6 +34318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive in Angaria TWO | 108337 | [108337-survive-in-angaria-two.json](./108337-survive-in-angaria-two.json) |
 | Survive In Ankara | 303938 | [303938-survive-in-ankara.json](./303938-survive-in-ankara.json) |
 | Survive in Moldova | 235563 | [235563-survive-in-moldova.json](./235563-survive-in-moldova.json) |
+| Survive in Paradise | 194071 | [194071-survive-in-paradise.json](./194071-survive-in-paradise.json) |
 | Survive In Russia | 129631 | [129631-survive-in-russia.json](./129631-survive-in-russia.json) |
 | Survive in Space | 32707 | [32707-survive-in-space.json](./32707-survive-in-space.json) |
 | Survive In Strange World | 288810 | [288810-survive-in-strange-world.json](./288810-survive-in-strange-world.json) |
