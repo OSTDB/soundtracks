@@ -2106,6 +2106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekopon | 295979 | [295979-nekopon.json](./295979-nekopon.json) |
 | Nekopter | 156018 | [156018-nekopter.json](./156018-nekopter.json) |
 | Nekoroid | 152144 | [152144-nekoroid.json](./152144-nekoroid.json) |
+| Nekosan | 217614 | [217614-nekosan.json](./217614-nekosan.json) |
 | NekoSpin | 330095 | [330095-nekospin.json](./330095-nekospin.json) |
 | Nekoto | 296594 | [296594-nekoto.json](./296594-nekoto.json) |
 | Nekour | 138501 | [138501-nekour.json](./138501-nekour.json) |
@@ -6957,6 +6958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Notebook Entries Vol.1 | 215623 | [215623-notebook-entries-vol-1.json](./215623-notebook-entries-vol-1.json) |
 | Notebook Ninja Fights | 144751 | [144751-notebook-ninja-fights.json](./144751-notebook-ninja-fights.json) |
 | Notebook Workshop | 406205 | [406205-notebook-workshop.json](./406205-notebook-workshop.json) |
+| NotEel! | 217632 | [217632-noteel.json](./217632-noteel.json) |
 | Notemon | 117467 | [117467-notemon.json](./117467-notemon.json) |
 | Notes From Province | 212965 | [212965-notes-from-province.json](./212965-notes-from-province.json) |
 | Notes of Hearts | 251296 | [251296-notes-of-hearts.json](./251296-notes-of-hearts.json) |
