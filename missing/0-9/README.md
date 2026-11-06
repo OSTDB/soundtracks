@@ -1198,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 15 Minutes Dungeon | 255026 | [255026-15-minutes-dungeon.json](./255026-15-minutes-dungeon.json) |
 | 15 Minutes to the End of the World | 352101 | [352101-15-minutes-to-the-end-of-the-world.json](./352101-15-minutes-to-the-end-of-the-world.json) |
 | 15 Move Hole Puzzle | 94162 | [94162-15-move-hole-puzzle.json](./94162-15-move-hole-puzzle.json) |
+| 15 Puzzle | 213712 | [213712-15-puzzle.json](./213712-15-puzzle.json) |
 | 15 Puzzle | 245120 | [245120-15-puzzle.json](./245120-15-puzzle.json) |
 | 15 Puzzle | 268864 | [268864-15-puzzle.json](./268864-15-puzzle.json) |
 | 15 Puzzle | 282592 | [282592-15-puzzle.json](./282592-15-puzzle.json) |
@@ -2307,6 +2308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Dotty | 8523 | [8523-3d-dotty.json](./8523-3d-dotty.json) |
 | 3D Double Dealing Character | 173961 | [173961-3d-double-dealing-character.json](./173961-3d-double-dealing-character.json) |
 | 3D Dragon Castle | 205837 | [205837-3d-dragon-castle.json](./205837-3d-dragon-castle.json) |
+| 3D Driving Class | 213668 | [213668-3d-driving-class.json](./213668-3d-driving-class.json) |
 | 3D Driving School | 52544 | [52544-3d-driving-school.json](./52544-3d-driving-school.json) |
 | 3D Ecco the Dolphin | 84666 | [84666-3d-ecco-the-dolphin.json](./84666-3d-ecco-the-dolphin.json) |
 | 3d Engineers | 35889 | [35889-3d-engineers.json](./35889-3d-engineers.json) |
