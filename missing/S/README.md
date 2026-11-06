@@ -3983,6 +3983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Monkeys | 419846 | [419846-sea-monkeys.json](./419846-sea-monkeys.json) |
 | Sea Monster | 92823 | [92823-sea-monster.json](./92823-sea-monster.json) |
 | Sea Monster Attacks Hunter | 176446 | [176446-sea-monster-attacks-hunter.json](./176446-sea-monster-attacks-hunter.json) |
+| Sea Monster Simulator | 239987 | [239987-sea-monster-simulator.json](./239987-sea-monster-simulator.json) |
 | Sea Monsters: A Prehistoric Adventure | 206650 | [206650-sea-monsters-a-prehistoric-adventure.json](./206650-sea-monsters-a-prehistoric-adventure.json) |
 | Sea Monsters: A Prehistoric Adventure | 21480 | [21480-sea-monsters-a-prehistoric-adventure.json](./21480-sea-monsters-a-prehistoric-adventure.json) |
 | Sea of Brave: Aidan Adventure | 270125 | [270125-sea-of-brave-aidan-adventure.json](./270125-sea-of-brave-aidan-adventure.json) |
@@ -12905,6 +12906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slappingrot | 383120 | [383120-slappingrot.json](./383120-slappingrot.json) |
 | Slappy Ass | 111121 | [111121-slappy-ass.json](./111121-slappy-ass.json) |
 | Slappy Board | 216886 | [216886-slappy-board.json](./216886-slappy-board.json) |
+| Slappy Limbs | 239986 | [239986-slappy-limbs.json](./239986-slappy-limbs.json) |
 | Slappy Paddles | 250181 | [250181-slappy-paddles.json](./250181-slappy-paddles.json) |
 | Slappyball | 146346 | [146346-slappyball.json](./146346-slappyball.json) |
 | Slapshot | 120904 | [120904-slapshot.json](./120904-slapshot.json) |
@@ -15749,6 +15751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Star Manager | 108467 | [108467-soccer-star-manager.json](./108467-soccer-star-manager.json) |
 | Soccer Star: 2022 Football Cup | 221359 | [221359-soccer-star-2022-football-cup.json](./221359-soccer-star-2022-football-cup.json) |
 | Soccer Stars | 38059 | [38059-soccer-stars.json](./38059-soccer-stars.json) |
+| Soccer Stars: Football Kick | 239985 | [239985-soccer-stars-football-kick.json](./239985-soccer-stars-football-kick.json) |
 | Soccer Story | 213264 | [213264-soccer-story.json](./213264-soccer-story.json) |
 | Soccer Sumos | 200143 | [200143-soccer-sumos.json](./200143-soccer-sumos.json) |
 | Soccer Super Star | 235119 | [235119-soccer-super-star.json](./235119-soccer-super-star.json) |
@@ -20765,6 +20768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed NFL | 289009 | [289009-speed-nfl.json](./289009-speed-nfl.json) |
 | Speed Night | 278689 | [278689-speed-night.json](./278689-speed-night.json) |
 | Speed of Doom | 139026 | [139026-speed-of-doom.json](./139026-speed-of-doom.json) |
+| Speed on the Grid | 239984 | [239984-speed-on-the-grid.json](./239984-speed-on-the-grid.json) |
 | Speed or Death | 254053 | [254053-speed-or-death.json](./254053-speed-or-death.json) |
 | Speed Overflow | 306537 | [306537-speed-overflow.json](./306537-speed-overflow.json) |
 | Speed Plumber | 290270 | [290270-speed-plumber.json](./290270-speed-plumber.json) |
@@ -24563,6 +24567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starblade | 138827 | [138827-starblade.json](./138827-starblade.json) |
 | StarBlade Alpha | 59118 | [59118-starblade-alpha.json](./59118-starblade-alpha.json) |
 | Starblast | 68515 | [68515-starblast.json](./68515-starblast.json) |
+| Starblast: 3D Wars | 239969 | [239969-starblast-3d-wars.json](./239969-starblast-3d-wars.json) |
 | Starblast: Retro Wars | 190367 | [190367-starblast-retro-wars.json](./190367-starblast-retro-wars.json) |
 | Starblaze | 42133 | [42133-starblaze.json](./42133-starblaze.json) |
 | Starblazer | 112773 | [112773-starblazer.json](./112773-starblazer.json) |
@@ -26460,6 +26465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Backflip Killer zone | 89596 | [89596-stickman-backflip-killer-zone.json](./89596-stickman-backflip-killer-zone.json) |
 | Stickman Badminton | 313547 | [313547-stickman-badminton.json](./313547-stickman-badminton.json) |
 | Stickman Base Jumper | 108645 | [108645-stickman-base-jumper.json](./108645-stickman-base-jumper.json) |
+| Stickman Basketball Blitz | 239983 | [239983-stickman-basketball-blitz.json](./239983-stickman-basketball-blitz.json) |
 | Stickman Battle War | 231893 | [231893-stickman-battle-war.json](./231893-stickman-battle-war.json) |
 | Stickman Battlefields | 39226 | [39226-stickman-battlefields.json](./39226-stickman-battlefields.json) |
 | Stickman Bike: Pro Ride | 378403 | [378403-stickman-bike-pro-ride.json](./378403-stickman-bike-pro-ride.json) |
@@ -27731,6 +27737,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter II | 198927 | [198927-street-fighter-ii.json](./198927-street-fighter-ii.json) |
 | Street Fighter II | 198928 | [198928-street-fighter-ii.json](./198928-street-fighter-ii.json) |
 | Street Fighter II | 231006 | [231006-street-fighter-ii.json](./231006-street-fighter-ii.json) |
+| Street Fighter II | 240000 | [240000-street-fighter-ii.json](./240000-street-fighter-ii.json) |
+| Street Fighter II | 240001 | [240001-street-fighter-ii.json](./240001-street-fighter-ii.json) |
+| Street Fighter II | 240002 | [240002-street-fighter-ii.json](./240002-street-fighter-ii.json) |
+| Street Fighter II | 240003 | [240003-street-fighter-ii.json](./240003-street-fighter-ii.json) |
+| Street Fighter II | 240004 | [240004-street-fighter-ii.json](./240004-street-fighter-ii.json) |
 | Street Fighter II | 276082 | [276082-street-fighter-ii.json](./276082-street-fighter-ii.json) |
 | Street Fighter II | 321621 | [321621-street-fighter-ii.json](./321621-street-fighter-ii.json) |
 | Street Fighter II | 321622 | [321622-street-fighter-ii.json](./321622-street-fighter-ii.json) |
@@ -34878,6 +34889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swire Future | 158125 | [158125-swire-future.json](./158125-swire-future.json) |
 | Swirl - The Ice Cream Saga | 106220 | [106220-swirl-the-ice-cream-saga.json](./106220-swirl-the-ice-cream-saga.json) |
 | Swiscape | 131765 | [131765-swiscape.json](./131765-swiscape.json) |
+| Swish | 239982 | [239982-swish.json](./239982-swish.json) |
 | Swish Ball Clicker | 405591 | [405591-swish-ball-clicker.json](./405591-swish-ball-clicker.json) |
 | Swish Ball! | 238934 | [238934-swish-ball.json](./238934-swish-ball.json) |
 | Swiss Alps Jigsaw Puzzles | 158529 | [158529-swiss-alps-jigsaw-puzzles.json](./158529-swiss-alps-jigsaw-puzzles.json) |
