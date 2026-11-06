@@ -2675,6 +2675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scared Rider Xechs + Stardust Lovers | 322811 | [322811-scared-rider-xechs-stardust-lovers.json](./322811-scared-rider-xechs-stardust-lovers.json) |
 | Scared Rider Xechs Stardust Lovers | 221473 | [221473-scared-rider-xechs-stardust-lovers.json](./221473-scared-rider-xechs-stardust-lovers.json) |
 | Scared Tube | 213751 | [213751-scared-tube.json](./213751-scared-tube.json) |
+| Scaredom | 199187 | [199187-scaredom.json](./199187-scaredom.json) |
 | Scaredy Cat | 296348 | [296348-scaredy-cat.json](./296348-scaredy-cat.json) |
 | Scaredy Cat | 364862 | [364862-scaredy-cat.json](./364862-scaredy-cat.json) |
 | Scares on Halloween | 123601 | [123601-scares-on-halloween.json](./123601-scares-on-halloween.json) |
@@ -10380,6 +10381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Castle | 212491 | [212491-silent-castle.json](./212491-silent-castle.json) |
 | Silent Castle | 399717 | [399717-silent-castle.json](./399717-silent-castle.json) |
 | Silent Cause | 287238 | [287238-silent-cause.json](./287238-silent-cause.json) |
+| Silent Chain | 199192 | [199192-silent-chain.json](./199192-silent-chain.json) |
 | Silent Code | 301622 | [301622-silent-code.json](./301622-silent-code.json) |
 | Silent Crossing | 25868 | [25868-silent-crossing.json](./25868-silent-crossing.json) |
 | Silent Debuggers | 44343 | [44343-silent-debuggers.json](./44343-silent-debuggers.json) |
@@ -16050,6 +16052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soft cookie | 114438 | [114438-soft-cookie.json](./114438-soft-cookie.json) |
 | Soft de Hard na Monogatari | 112039 | [112039-soft-de-hard-na-monogatari.json](./112039-soft-de-hard-na-monogatari.json) |
 | Soft de Hard na Monogatari 2 | 112034 | [112034-soft-de-hard-na-monogatari-2.json](./112034-soft-de-hard-na-monogatari-2.json) |
+| Soft Drift | 199185 | [199185-soft-drift.json](./199185-soft-drift.json) |
 | Soft Drizzle | 177527 | [177527-soft-drizzle.json](./177527-soft-drizzle.json) |
 | Soft Drizzle: B-Track | 183175 | [183175-soft-drizzle-b-track.json](./183175-soft-drizzle-b-track.json) |
 | Soft Earth | 143457 | [143457-soft-earth.json](./143457-soft-earth.json) |
@@ -17622,6 +17625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Origins Plus: Expansion Pack | 254493 | [254493-sonic-origins-plus-expansion-pack.json](./254493-sonic-origins-plus-expansion-pack.json) |
 | Sonic Origins Pocket Edition | 336373 | [336373-sonic-origins-pocket-edition.json](./336373-sonic-origins-pocket-edition.json) |
 | Sonic Origins Ultrafix | 361623 | [361623-sonic-origins-ultrafix.json](./361623-sonic-origins-ultrafix.json) |
+| Sonic Origins: Digital Deluxe Edition | 199190 | [199190-sonic-origins-digital-deluxe-edition.json](./199190-sonic-origins-digital-deluxe-edition.json) |
 | Sonic Origins: Premium Fun Pack | 254492 | [254492-sonic-origins-premium-fun-pack.json](./254492-sonic-origins-premium-fun-pack.json) |
 | Sonic Outbound | 266515 | [266515-sonic-outbound.json](./266515-sonic-outbound.json) |
 | Sonic Overdrive | 266513 | [266513-sonic-overdrive.json](./266513-sonic-overdrive.json) |
@@ -26484,6 +26488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stelloop | 232818 | [232818-stelloop.json](./232818-stelloop.json) |
 | StellwerkSim | 314847 | [314847-stellwerksim.json](./314847-stellwerksim.json) |
 | Stem | 24944 | [24944-stem.json](./24944-stem.json) |
+| Stench Mechanics | 199191 | [199191-stench-mechanics.json](./199191-stench-mechanics.json) |
 | Stencil Art | 147621 | [147621-stencil-art.json](./147621-stencil-art.json) |
 | Stendhal | 176198 | [176198-stendhal.json](./176198-stendhal.json) |
 | Steno Arcade | 33369 | [33369-steno-arcade.json](./33369-steno-arcade.json) |
