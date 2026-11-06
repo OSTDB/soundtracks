@@ -1252,6 +1252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Super Mario Thing | 278626 | [278626-a-super-mario-thing.json](./278626-a-super-mario-thing.json) |
 | A Superplanet Called KG | 374899 | [374899-a-superplanet-called-kg.json](./374899-a-superplanet-called-kg.json) |
 | A Surgery Beyond The Heart | 301231 | [301231-a-surgery-beyond-the-heart.json](./301231-a-surgery-beyond-the-heart.json) |
+| A Symmetric Escape | 237162 | [237162-a-symmetric-escape.json](./237162-a-symmetric-escape.json) |
 | A Taça Mágica | 242127 | [242127-a-taca-magica.json](./242127-a-taca-magica.json) |
 | A Tag Knight | 196575 | [196575-a-tag-knight.json](./196575-a-tag-knight.json) |
 | A Tale About Flowers | 188501 | [188501-a-tale-about-flowers.json](./188501-a-tale-about-flowers.json) |
@@ -1827,6 +1828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abarenbou Tengu | 215127 | [215127-abarenbou-tengu.json](./215127-abarenbou-tengu.json) |
 | Abashed | 329610 | [329610-abashed.json](./329610-abashed.json) |
 | Abasralsa | 81962 | [81962-abasralsa.json](./81962-abasralsa.json) |
+| Abathor | 237174 | [237174-abathor.json](./237174-abathor.json) |
 | Abathor: Collector's Edition | 284479 | [284479-abathor-collectors-edition.json](./284479-abathor-collectors-edition.json) |
 | Abatron | 25556 | [25556-abatron.json](./25556-abatron.json) |
 | Abattoir: Cow Escape | 390354 | [390354-abattoir-cow-escape.json](./390354-abattoir-cow-escape.json) |
@@ -11406,6 +11408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aphelion Episode Two: Wings of Omega | 66165 | [66165-aphelion-episode-two-wings-of-omega.json](./66165-aphelion-episode-two-wings-of-omega.json) |
 | Aphelion Headhunters | 248089 | [248089-aphelion-headhunters.json](./248089-aphelion-headhunters.json) |
 | Aphelion: Deluxe Edition | 405851 | [405851-aphelion-deluxe-edition.json](./405851-aphelion-deluxe-edition.json) |
+| Aphotic | 237163 | [237163-aphotic.json](./237163-aphotic.json) |
 | Aphotic Descent | 245898 | [245898-aphotic-descent.json](./245898-aphotic-descent.json) |
 | Aphrodite Evolve Weapons Survivor: Greek Gods Versus Heaven | 404261 | [404261-aphrodite-evolve-weapons-survivor-greek-gods-versus-heaven.json](./404261-aphrodite-evolve-weapons-survivor-greek-gods-versus-heaven.json) |
 | Aphrodite's Bathhouse | 364091 | [364091-aphrodites-bathhouse.json](./364091-aphrodites-bathhouse.json) |
@@ -16462,7 +16465,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
