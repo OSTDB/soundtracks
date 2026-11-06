@@ -3311,6 +3311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empress of the Deep 3: Legacy of the Phoenix | 294209 | [294209-empress-of-the-deep-3-legacy-of-the-phoenix.json](./294209-empress-of-the-deep-3-legacy-of-the-phoenix.json) |
 | Empress of the Deep: The Darkest Secret | 17368 | [17368-empress-of-the-deep-the-darkest-secret.json](./17368-empress-of-the-deep-the-darkest-secret.json) |
 | Empress's Choice | 245047 | [245047-empresss-choice.json](./245047-empresss-choice.json) |
+| Emprise | 237171 | [237171-emprise.json](./237171-emprise.json) |
 | Empronix Game | 369027 | [369027-empronix-game.json](./369027-empronix-game.json) |
 | Emptiness | 286876 | [286876-emptiness.json](./286876-emptiness.json) |
 | Emptiness Sire | 332426 | [332426-emptiness-sire.json](./332426-emptiness-sire.json) |
@@ -4194,6 +4195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enter The Night | 271102 | [271102-enter-the-night.json](./271102-enter-the-night.json) |
 | Enter the Room | 90232 | [90232-enter-the-room.json](./90232-enter-the-room.json) |
 | Enter the Skinja | 183082 | [183082-enter-the-skinja.json](./183082-enter-the-skinja.json) |
+| Enter the Slayer | 237156 | [237156-enter-the-slayer.json](./237156-enter-the-slayer.json) |
 | Enter the Titan | 284402 | [284402-enter-the-titan.json](./284402-enter-the-titan.json) |
 | Enter the Void to the Holy Mountain | 306970 | [306970-enter-the-void-to-the-holy-mountain.json](./306970-enter-the-void-to-the-holy-mountain.json) |
 | Enter: The Grinch | 282622 | [282622-enter-the-grinch.json](./282622-enter-the-grinch.json) |
@@ -7498,6 +7500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exiles | 382136 | [382136-exiles.json](./382136-exiles.json) |
 | Exiles of Embermark | 95549 | [95549-exiles-of-embermark.json](./95549-exiles-of-embermark.json) |
 | Exilio | 218712 | [218712-exilio.json](./218712-exilio.json) |
+| Exilium | 237135 | [237135-exilium.json](./237135-exilium.json) |
 | Exilium | 258318 | [258318-exilium.json](./258318-exilium.json) |
 | Eximius: Seize the Frontline | 96094 | [96094-eximius-seize-the-frontline.json](./96094-eximius-seize-the-frontline.json) |
 | Eximius: Seize the Frontline - Exclusive Callsign Pack: Kings of Frontline | 230989 | [230989-eximius-seize-the-frontline-exclusive-callsign-pack-kings-of-frontline.json](./230989-eximius-seize-the-frontline-exclusive-callsign-pack-kings-of-frontline.json) |
