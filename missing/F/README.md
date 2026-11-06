@@ -2173,6 +2173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasyland | 97083 | [97083-fantasyland.json](./97083-fantasyland.json) |
 | Fantasyland 2041 A.D. | 282635 | [282635-fantasyland-2041-a-d.json](./282635-fantasyland-2041-a-d.json) |
 | Fantasyland: All Heroes | 170313 | [170313-fantasyland-all-heroes.json](./170313-fantasyland-all-heroes.json) |
+| Fantasylandia World | 195823 | [195823-fantasylandia-world.json](./195823-fantasylandia-world.json) |
 | Fantasynth | 54726 | [54726-fantasynth.json](./54726-fantasynth.json) |
 | Fantasynth One | 157548 | [157548-fantasynth-one.json](./157548-fantasynth-one.json) |
 | Fantatale | 193791 | [193791-fantatale.json](./193791-fantatale.json) |
@@ -5404,6 +5405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find El Chupacabra | 359393 | [359393-find-el-chupacabra.json](./359393-find-el-chupacabra.json) |
 | Find Exit | 190024 | [190024-find-exit.json](./190024-find-exit.json) |
 | Find Food | 246329 | [246329-find-food.json](./246329-find-food.json) |
+| Find Her in Dungeon | 195841 | [195841-find-her-in-dungeon.json](./195841-find-her-in-dungeon.json) |
 | Find Hidden Objects - Spot It! | 387469 | [387469-find-hidden-objects-spot-it.json](./387469-find-hidden-objects-spot-it.json) |
 | Find Him | 292771 | [292771-find-him.json](./292771-find-him.json) |
 | Find HQ: Police Station | 331123 | [331123-find-hq-police-station.json](./331123-find-hq-police-station.json) |
@@ -7740,6 +7742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fliggles Rescue Adventure | 259557 | [259557-fliggles-rescue-adventure.json](./259557-fliggles-rescue-adventure.json) |
 | Flight 666 | 270570 | [270570-flight-666.json](./270570-flight-666.json) |
 | Flight 732 | 87932 | [87932-flight-732.json](./87932-flight-732.json) |
+| Flight 737: Maximum | 195810 | [195810-flight-737-maximum.json](./195810-flight-737-maximum.json) |
 | Flight 74 | 152730 | [152730-flight-74.json](./152730-flight-74.json) |
 | Flight 787 - Advanced | 32843 | [32843-flight-787-advanced.json](./32843-flight-787-advanced.json) |
 | Flight 787: Advanced | 197630 | [197630-flight-787-advanced.json](./197630-flight-787-advanced.json) |
@@ -9617,6 +9620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foreign Gravity | 114640 | [114640-foreign-gravity.json](./114640-foreign-gravity.json) |
 | Foreign Legion: Buckets of Blood | 7521 | [7521-foreign-legion-buckets-of-blood.json](./7521-foreign-legion-buckets-of-blood.json) |
 | Foreign Sun | 289984 | [289984-foreign-sun.json](./289984-foreign-sun.json) |
+| Foreigner Teacher | 195806 | [195806-foreigner-teacher.json](./195806-foreigner-teacher.json) |
 | Foreman for Real | 19741 | [19741-foreman-for-real.json](./19741-foreman-for-real.json) |
 | Foreman for Real | 370892 | [370892-foreman-for-real.json](./370892-foreman-for-real.json) |
 | Foreman for Real | 370893 | [370893-foreman-for-real.json](./370893-foreman-for-real.json) |
@@ -13248,6 +13252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fully Dogomatic | 301289 | [301289-fully-dogomatic.json](./301289-fully-dogomatic.json) |
 | Fully Loaded Collector's Pack - Awesomenauts Assemble! Game Bundle | 90662 | [90662-fully-loaded-collectors-pack-awesomenauts-assemble-game-bundle.json](./90662-fully-loaded-collectors-pack-awesomenauts-assemble-game-bundle.json) |
 | fullybroKen | 171359 | [171359-fullybroken.json](./171359-fullybroken.json) |
+| FullyBroken: Old Dawn | 195830 | [195830-fullybroken-old-dawn.json](./195830-fullybroken-old-dawn.json) |
 | Fullybroken: Way Home | 231677 | [231677-fullybroken-way-home.json](./231677-fullybroken-way-home.json) |
 | fullybroKen#4 | 115640 | [115640-fullybroken-4.json](./115640-fullybroken-4.json) |
 | Fúlóng: Tiānyuán Jìnglèi | 124214 | [124214-fulong-tianyuan-jinglei.json](./124214-fulong-tianyuan-jinglei.json) |
