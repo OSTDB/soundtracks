@@ -7193,6 +7193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Vietnam 3: Sweet Revenge | 401603 | [401603-lonely-vietnam-3-sweet-revenge.json](./401603-lonely-vietnam-3-sweet-revenge.json) |
 | Lonely White | 212993 | [212993-lonely-white.json](./212993-lonely-white.json) |
 | Lonely Wolf Treat | 95919 | [95919-lonely-wolf-treat.json](./95919-lonely-wolf-treat.json) |
+| Lonely Wolf Treat: The Complete Series | 218775 | [218775-lonely-wolf-treat-the-complete-series.json](./218775-lonely-wolf-treat-the-complete-series.json) |
 | Lonely Yuri | 63652 | [63652-lonely-yuri.json](./63652-lonely-yuri.json) |
 | Lonelyland VR | 105988 | [105988-lonelyland-vr.json](./105988-lonelyland-vr.json) |
 | LonelyMe | 274359 | [274359-lonelyme.json](./274359-lonelyme.json) |
