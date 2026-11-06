@@ -1652,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi Mesutchi | 229872 | [229872-tamagotchi-mesutchi.json](./229872-tamagotchi-mesutchi.json) |
 | Tamagotchi Mini | 229970 | [229970-tamagotchi-mini.json](./229970-tamagotchi-mini.json) |
 | Tamagotchi Music Star | 229957 | [229957-tamagotchi-music-star.json](./229957-tamagotchi-music-star.json) |
+| Tamagotchi Nano | 230055 | [230055-tamagotchi-nano.json](./230055-tamagotchi-nano.json) |
 | Tamagotchi Nano Colorful Detective Conan | 304044 | [304044-tamagotchi-nano-colorful-detective-conan.json](./304044-tamagotchi-nano-colorful-detective-conan.json) |
 | Tamagotchi Nano Colorful Hololive Fantasitchi | 320984 | [320984-tamagotchi-nano-colorful-hololive-fantasitchi.json](./320984-tamagotchi-nano-colorful-hololive-fantasitchi.json) |
 | Tamagotchi Nano Peanuts | 348959 | [348959-tamagotchi-nano-peanuts.json](./348959-tamagotchi-nano-peanuts.json) |
@@ -1668,8 +1669,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi Ocean | 229510 | [229510-tamagotchi-ocean.json](./229510-tamagotchi-ocean.json) |
 | Tamagotchi Osutchi | 229842 | [229842-tamagotchi-osutchi.json](./229842-tamagotchi-osutchi.json) |
 | Tamagotchi Paradise | 346804 | [346804-tamagotchi-paradise.json](./346804-tamagotchi-paradise.json) |
+| Tamagotchi Pix | 230051 | [230051-tamagotchi-pix.json](./230051-tamagotchi-pix.json) |
 | Tamagotchi Plaza | 337030 | [337030-tamagotchi-plaza.json](./337030-tamagotchi-plaza.json) |
 | Tamagotchi Plaza: Nintendo Switch 2 Edition | 338111 | [338111-tamagotchi-plaza-nintendo-switch-2-edition.json](./338111-tamagotchi-plaza-nintendo-switch-2-edition.json) |
+| Tamagotchi Smart | 230053 | [230053-tamagotchi-smart.json](./230053-tamagotchi-smart.json) |
 | Tamagotchi Town | 37792 | [37792-tamagotchi-town.json](./37792-tamagotchi-town.json) |
 | Tamagotchi: Party On! | 5211 | [5211-tamagotchi-party-on.json](./5211-tamagotchi-party-on.json) |
 | Tamagotchi! Seishun no Dream School | 77621 | [77621-tamagotchi-seishun-no-dream-school.json](./77621-tamagotchi-seishun-no-dream-school.json) |
@@ -5877,6 +5880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Arab League of Misfits | 412531 | [412531-the-arab-league-of-misfits.json](./412531-the-arab-league-of-misfits.json) |
 | The Arab Republic of Taghia | 125681 | [125681-the-arab-republic-of-taghia.json](./125681-the-arab-republic-of-taghia.json) |
 | The Arc of Yesod | 28437 | [28437-the-arc-of-yesod.json](./28437-the-arc-of-yesod.json) |
+| The Arcade | 230073 | [230073-the-arcade.json](./230073-the-arcade.json) |
 | The Arcade Machine | 21836 | [21836-the-arcade-machine.json](./21836-the-arcade-machine.json) |
 | The Arcade Tower | 194373 | [194373-the-arcade-tower.json](./194373-the-arcade-tower.json) |
 | The Arcadia of Wulin | 155346 | [155346-the-arcadia-of-wulin.json](./155346-the-arcadia-of-wulin.json) |
@@ -12506,6 +12510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of The Sacred Stone EX | 371336 | [371336-the-legend-of-the-sacred-stone-ex.json](./371336-the-legend-of-the-sacred-stone-ex.json) |
 | The Legend of the Soulforce: Heroes of the Abyss | 204183 | [204183-the-legend-of-the-soulforce-heroes-of-the-abyss.json](./204183-the-legend-of-the-soulforce-heroes-of-the-abyss.json) |
 | The Legend of the Spirit Bird | 172520 | [172520-the-legend-of-the-spirit-bird.json](./172520-the-legend-of-the-spirit-bird.json) |
+| The Legend of the Spirit Orbs | 230050 | [230050-the-legend-of-the-spirit-orbs.json](./230050-the-legend-of-the-spirit-orbs.json) |
 | The Legend of The Tolteks | 25365 | [25365-the-legend-of-the-tolteks.json](./25365-the-legend-of-the-tolteks.json) |
 | The Legend of the Tolteks Gold | 66560 | [66560-the-legend-of-the-tolteks-gold.json](./66560-the-legend-of-the-tolteks-gold.json) |
 | The Legend of the War Axe | 190129 | [190129-the-legend-of-the-war-axe.json](./190129-the-legend-of-the-war-axe.json) |
@@ -23373,6 +23378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TinySRPG 2 | 83275 | [83275-tinysrpg-2.json](./83275-tinysrpg-2.json) |
 | TinySRPG 3 | 83276 | [83276-tinysrpg-3.json](./83276-tinysrpg-3.json) |
 | Tinysss! | 216293 | [216293-tinysss.json](./216293-tinysss.json) |
+| TinyTan Tamagotchi | 230080 | [230080-tinytan-tamagotchi.json](./230080-tinytan-tamagotchi.json) |
 | TinyTiny | 235820 | [235820-tinytiny.json](./235820-tinytiny.json) |
 | Tinytopia | 131947 | [131947-tinytopia.json](./131947-tinytopia.json) |
 | Tinyverse | 181362 | [181362-tinyverse.json](./181362-tinyverse.json) |
@@ -26424,6 +26430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tour of Neverland | 146886 | [146886-tour-of-neverland.json](./146886-tour-of-neverland.json) |
 | Tour Party: Sotsugyou Ryokou ni Ikou | 203050 | [203050-tour-party-sotsugyou-ryokou-ni-ikou.json](./203050-tour-party-sotsugyou-ryokou-ni-ikou.json) |
 | Tour: Chess Puzzles | 358009 | [358009-tour-chess-puzzles.json](./358009-tour-chess-puzzles.json) |
+| Tourabutchi | 230078 | [230078-tourabutchi.json](./230078-tourabutchi.json) |
 | Touring | 252895 | [252895-touring.json](./252895-touring.json) |
 | Touring Car Champions | 2405 | [2405-touring-car-champions.json](./2405-touring-car-champions.json) |
 | Touring Car Racer | 94513 | [94513-touring-car-racer.json](./94513-touring-car-racer.json) |
@@ -27101,6 +27108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Story Racer | 18944 | [18944-toy-story-racer.json](./18944-toy-story-racer.json) |
 | Toy Story Racer | 404086 | [404086-toy-story-racer.json](./404086-toy-story-racer.json) |
 | Toy Story Survivor | 231890 | [231890-toy-story-survivor.json](./231890-toy-story-survivor.json) |
+| Toy Story Tamagotchi | 230076 | [230076-toy-story-tamagotchi.json](./230076-toy-story-tamagotchi.json) |
 | Toy Story: Free! Interactive DVD-ROM | 325573 | [325573-toy-story-free-interactive-dvd-rom.json](./325573-toy-story-free-interactive-dvd-rom.json) |
 | Toy Stunt Bike | 85452 | [85452-toy-stunt-bike.json](./85452-toy-stunt-bike.json) |
 | Toy Stunt Bike 2 | 65396 | [65396-toy-stunt-bike-2.json](./65396-toy-stunt-bike-2.json) |
@@ -32731,6 +32739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twister Mania | 20216 | [20216-twister-mania.json](./20216-twister-mania.json) |
 | Twister Road | 125251 | [125251-twister-road.json](./125251-twister-road.json) |
 | Twister: Mother of Charlotte | 73188 | [73188-twister-mother-of-charlotte.json](./73188-twister-mother-of-charlotte.json) |
+| Twistetchi | 230069 | [230069-twistetchi.json](./230069-twistetchi.json) |
 | Twistex | 262722 | [262722-twistex.json](./262722-twistex.json) |
 | Twisting Mower | 118025 | [118025-twisting-mower.json](./118025-twisting-mower.json) |
 | Twistingo | 205981 | [205981-twistingo.json](./205981-twistingo.json) |
