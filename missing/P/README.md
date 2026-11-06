@@ -335,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacfish | 204799 | [204799-pacfish.json](./204799-pacfish.json) |
 | PachaMama | 186272 | [186272-pachamama.json](./186272-pachamama.json) |
 | Pachansky Mathematics 2+2=8 | 393454 | [393454-pachansky-mathematics-2-2-8.json](./393454-pachansky-mathematics-2-2-8.json) |
+| Pachi Pachi 2: On a Roll | 205222 | [205222-pachi-pachi-2-on-a-roll.json](./205222-pachi-pachi-2-on-a-roll.json) |
 | Pachi Pachi Saga | 212703 | [212703-pachi-pachi-saga.json](./212703-pachi-pachi-saga.json) |
 | Pachi Pachi: On a Roll | 143696 | [143696-pachi-pachi-on-a-roll.json](./143696-pachi-pachi-on-a-roll.json) |
 | Pachi Para 15: Super Sea in Okinawa 2 | 65538 | [65538-pachi-para-15-super-sea-in-okinawa-2.json](./65538-pachi-para-15-super-sea-in-okinawa-2.json) |
