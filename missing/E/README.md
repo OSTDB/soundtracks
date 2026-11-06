@@ -2502,6 +2502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elex II | 55147 | [55147-elex-ii.json](./55147-elex-ii.json) |
 | Elex II: Collector's Edition | 181638 | [181638-elex-ii-collectors-edition.json](./181638-elex-ii-collectors-edition.json) |
 | ELEX: Collector's Edition | 51995 | [51995-elex-collectors-edition.json](./51995-elex-collectors-edition.json) |
+| Elexi | 207966 | [207966-elexi.json](./207966-elexi.json) |
 | Elf | 12061 | [12061-elf.json](./12061-elf.json) |
 | Elf | 12580 | [12580-elf.json](./12580-elf.json) |
 | Elf Adventure | 282715 | [282715-elf-adventure.json](./282715-elf-adventure.json) |
@@ -3531,6 +3532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End Gate: The Last Passenger | 311612 | [311612-end-gate-the-last-passenger.json](./311612-end-gate-the-last-passenger.json) |
 | End Matter | 175265 | [175265-end-matter.json](./175265-end-matter.json) |
 | End of Abyss | 347637 | [347637-end-of-abyss.json](./347637-end-of-abyss.json) |
+| End of Aspiration | 207977 | [207977-end-of-aspiration.json](./207977-end-of-aspiration.json) |
 | End of Days | 151183 | [151183-end-of-days.json](./151183-end-of-days.json) |
 | End of Days | 63740 | [63740-end-of-days.json](./63740-end-of-days.json) |
 | End of Despair | 199354 | [199354-end-of-despair.json](./199354-end-of-despair.json) |
