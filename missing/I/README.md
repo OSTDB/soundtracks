@@ -890,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ibasket Manager 3: Online Basketball Manager | 340500 | [340500-ibasket-manager-3-online-basketball-manager.json](./340500-ibasket-manager-3-online-basketball-manager.json) |
 | Ibatic | 187188 | [187188-ibatic.json](./187188-ibatic.json) |
 | Iberia | 298787 | [298787-iberia.json](./298787-iberia.json) |
+| Ibis AM | 242890 | [242890-ibis-am.json](./242890-ibis-am.json) |
 | Ibix the Viking | 13250 | [13250-ibix-the-viking.json](./13250-ibix-the-viking.json) |
 | Ibiza Beach Party | 340341 | [340341-ibiza-beach-party.json](./340341-ibiza-beach-party.json) |
 | Ibiza Madness: Zombie vs. Demons | 406503 | [406503-ibiza-madness-zombie-vs-demons.json](./406503-ibiza-madness-zombie-vs-demons.json) |
@@ -3312,6 +3313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiemon VS Zombies | 60313 | [60313-indiemon-vs-zombies.json](./60313-indiemon-vs-zombies.json) |
 | Indiemon: Earth Nation - Villain Version | 62721 | [62721-indiemon-earth-nation-villain-version.json](./62721-indiemon-earth-nation-villain-version.json) |
 | Indiepocalypse #1 | 240975 | [240975-indiepocalypse-1.json](./240975-indiepocalypse-1.json) |
+| Indiepocalypse #2 | 242892 | [242892-indiepocalypse-2.json](./242892-indiepocalypse-2.json) |
 | Indiepocalypse #3 | 248808 | [248808-indiepocalypse-3.json](./248808-indiepocalypse-3.json) |
 | Indiepocalypse #32 | 362681 | [362681-indiepocalypse-32.json](./362681-indiepocalypse-32.json) |
 | Indiepocalypse #33 | 362682 | [362682-indiepocalypse-33.json](./362682-indiepocalypse-33.json) |
@@ -3806,7 +3808,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
