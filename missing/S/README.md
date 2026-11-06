@@ -18445,6 +18445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul device | 278365 | [278365-soul-device.json](./278365-soul-device.json) |
 | Soul Devourer | 259853 | [259853-soul-devourer.json](./259853-soul-devourer.json) |
 | Soul Dimension | 99732 | [99732-soul-dimension.json](./99732-soul-dimension.json) |
+| Soul Dog TD | 215958 | [215958-soul-dog-td.json](./215958-soul-dog-td.json) |
 | Soul Drifter | 265476 | [265476-soul-drifter.json](./265476-soul-drifter.json) |
 | Soul Eater | 292399 | [292399-soul-eater.json](./292399-soul-eater.json) |
 | Soul Eater: Battle Resonance | 44527 | [44527-soul-eater-battle-resonance.json](./44527-soul-eater-battle-resonance.json) |
