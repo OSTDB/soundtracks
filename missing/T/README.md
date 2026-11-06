@@ -8025,6 +8025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Day | 242631 | [242631-the-day.json](./242631-the-day.json) |
 | The Day After: Origins | 76384 | [76384-the-day-after-origins.json](./76384-the-day-after-origins.json) |
 | The Day Before | 142901 | [142901-the-day-before.json](./142901-the-day-before.json) |
+| The Day Before You Gone | 235556 | [235556-the-day-before-you-gone.json](./235556-the-day-before-you-gone.json) |
 | The Day I Became a Bird | 390967 | [390967-the-day-i-became-a-bird.json](./390967-the-day-i-became-a-bird.json) |
 | The Day I Went Away For a While | 128790 | [128790-the-day-i-went-away-for-a-while.json](./128790-the-day-i-went-away-for-a-while.json) |
 | The Day in a Life of a Dayfly | 357461 | [357461-the-day-in-a-life-of-a-dayfly.json](./357461-the-day-in-a-life-of-a-dayfly.json) |
@@ -11629,6 +11630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kitty in The Spaceship | 256593 | [256593-the-kitty-in-the-spaceship.json](./256593-the-kitty-in-the-spaceship.json) |
 | The Kitty in the Trapping Garden | 273316 | [273316-the-kitty-in-the-trapping-garden.json](./273316-the-kitty-in-the-trapping-garden.json) |
 | The Klaxo Radio Hour | 122846 | [122846-the-klaxo-radio-hour.json](./122846-the-klaxo-radio-hour.json) |
+| The Klown | 235570 | [235570-the-klown.json](./235570-the-klown.json) |
 | The Knife of the Traitor | 178802 | [178802-the-knife-of-the-traitor.json](./178802-the-knife-of-the-traitor.json) |
 | The Knife Sharpener | 395617 | [395617-the-knife-sharpener.json](./395617-the-knife-sharpener.json) |
 | The Knight | 234449 | [234449-the-knight.json](./234449-the-knight.json) |
@@ -11870,6 +11872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Elf | 414786 | [414786-the-last-elf.json](./414786-the-last-elf.json) |
 | The Last Errant | 396934 | [396934-the-last-errant.json](./396934-the-last-errant.json) |
 | The Last Error | 32855 | [32855-the-last-error.json](./32855-the-last-error.json) |
+| The Last Escape | 235581 | [235581-the-last-escape.json](./235581-the-last-escape.json) |
 | The Last Escape of Yeti | 120132 | [120132-the-last-escape-of-yeti.json](./120132-the-last-escape-of-yeti.json) |
 | The Last Exam | 244210 | [244210-the-last-exam.json](./244210-the-last-exam.json) |
 | The Last Exodus | 261687 | [261687-the-last-exodus.json](./261687-the-last-exodus.json) |
@@ -20333,6 +20336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThrowDown | 351778 | [351778-throwdown.json](./351778-throwdown.json) |
 | Throwdown Boxing 2 | 175228 | [175228-throwdown-boxing-2.json](./175228-throwdown-boxing-2.json) |
 | Thrower Defense | 415898 | [415898-thrower-defense.json](./415898-thrower-defense.json) |
+| Throwia | 235575 | [235575-throwia.json](./235575-throwia.json) |
 | Throwing Master | 226591 | [226591-throwing-master.json](./226591-throwing-master.json) |
 | Throwing Punches | 182394 | [182394-throwing-punches.json](./182394-throwing-punches.json) |
 | Throwing Stone | 167534 | [167534-throwing-stone.json](./167534-throwing-stone.json) |
@@ -23838,6 +23842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toast Time: Smash Up! | 112079 | [112079-toast-time-smash-up.json](./112079-toast-time-smash-up.json) |
 | Toast! | 23987 | [23987-toast.json](./23987-toast.json) |
 | Toasted! | 188101 | [188101-toasted.json](./188101-toasted.json) |
+| Toaster Arena | 235579 | [235579-toaster-arena.json](./235579-toaster-arena.json) |
 | Toaster Defense | 157144 | [157144-toaster-defense.json](./157144-toaster-defense.json) |
 | Toaster Jam | 29524 | [29524-toaster-jam.json](./29524-toaster-jam.json) |
 | Toasterball | 111301 | [111301-toasterball.json](./111301-toasterball.json) |
@@ -27301,6 +27306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic | 312583 | [312583-traffic.json](./312583-traffic.json) |
 | Traffic | 319601 | [319601-traffic.json](./319601-traffic.json) |
 | Traffic | 92787 | [92787-traffic.json](./92787-traffic.json) |
+| Traffic Brains 2 | 235560 | [235560-traffic-brains-2.json](./235560-traffic-brains-2.json) |
 | Traffic Chase | 173303 | [173303-traffic-chase.json](./173303-traffic-chase.json) |
 | Traffic City | 169476 | [169476-traffic-city.json](./169476-traffic-city.json) |
 | Traffic Command | 150900 | [150900-traffic-command.json](./150900-traffic-command.json) |
@@ -28527,6 +28533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: Legacy of the Burlington Northern II | 205509 | [205509-trainz-plus-legacy-of-the-burlington-northern-ii.json](./205509-trainz-plus-legacy-of-the-burlington-northern-ii.json) |
 | Trainz Plus: LMS/NSR Wagon Pack 1 | 285515 | [285515-trainz-plus-lms-nsr-wagon-pack-1.json](./285515-trainz-plus-lms-nsr-wagon-pack-1.json) |
 | Trainz Plus: Lone Pine Branch | 205565 | [205565-trainz-plus-lone-pine-branch.json](./205565-trainz-plus-lone-pine-branch.json) |
+| Trainz Plus: Midwestern Rails | 235538 | [235538-trainz-plus-midwestern-rails.json](./235538-trainz-plus-midwestern-rails.json) |
 | Trainz Plus: Milton Valley Railroad | 306107 | [306107-trainz-plus-milton-valley-railroad.json](./306107-trainz-plus-milton-valley-railroad.json) |
 | Trainz Plus: Mine & Field railway | 205559 | [205559-trainz-plus-mine-and-field-railway.json](./205559-trainz-plus-mine-and-field-railway.json) |
 | Trainz Plus: Model Trainz - Chicago | 331622 | [331622-trainz-plus-model-trainz-chicago.json](./331622-trainz-plus-model-trainz-chicago.json) |
@@ -32996,6 +33003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typing Break | 373079 | [373079-typing-break.json](./373079-typing-break.json) |
 | Typing Bullets | 251727 | [251727-typing-bullets.json](./251727-typing-bullets.json) |
 | Typing Champ 1987 | 185346 | [185346-typing-champ-1987.json](./185346-typing-champ-1987.json) |
+| Typing de Ai wo Tsutae yo | 235548 | [235548-typing-de-ai-wo-tsutae-yo.json](./235548-typing-de-ai-wo-tsutae-yo.json) |
 | Typing Farmer | 392323 | [392323-typing-farmer.json](./392323-typing-farmer.json) |
 | Typing Faster | 125928 | [125928-typing-faster.json](./125928-typing-faster.json) |
 | Typing Fingers | 167352 | [167352-typing-fingers.json](./167352-typing-fingers.json) |
