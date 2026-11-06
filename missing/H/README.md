@@ -2478,6 +2478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatris | 265017 | [265017-hatris.json](./265017-hatris.json) |
 | Hatris | 40063 | [40063-hatris.json](./40063-hatris.json) |
 | Hats and Guns | 334215 | [334215-hats-and-guns.json](./334215-hats-and-guns.json) |
+| Hats and Hand Grenades: Capture the Hat | 227068 | [227068-hats-and-hand-grenades-capture-the-hat.json](./227068-hats-and-hand-grenades-capture-the-hat.json) |
 | Hats Are Not Allowed | 159892 | [159892-hats-are-not-allowed.json](./159892-hats-are-not-allowed.json) |
 | Hatsujou Saimin Appli: Shikyuu ni Todoku Chakushin'on | 108868 | [108868-hatsujou-saimin-appli-shikyuu-ni-todoku-chakushinon.json](./108868-hatsujou-saimin-appli-shikyuu-ni-todoku-chakushinon.json) |
 | Hatsujou Sprinkle | 107270 | [107270-hatsujou-sprinkle.json](./107270-hatsujou-sprinkle.json) |
@@ -3076,6 +3077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head-to-Head Karate | 234219 | [234219-head-to-head-karate.json](./234219-head-to-head-karate.json) |
 | Head's Adventures: Chibichibi | 393116 | [393116-heads-adventures-chibichibi.json](./393116-heads-adventures-chibichibi.json) |
 | Headache | 182372 | [182372-headache.json](./182372-headache.json) |
+| Headache | 227067 | [227067-headache.json](./227067-headache.json) |
 | HeadAche: Visual Novel | 235545 | [235545-headache-visual-novel.json](./235545-headache-visual-novel.json) |
 | Headball Soccer Deluxe | 119443 | [119443-headball-soccer-deluxe.json](./119443-headball-soccer-deluxe.json) |
 | Headbanger's Heaven: A Rock & Roll Adventure | 169893 | [169893-headbangers-heaven-a-rock-and-roll-adventure.json](./169893-headbangers-heaven-a-rock-and-roll-adventure.json) |
@@ -3224,6 +3226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Love Power Temple | 194754 | [194754-heart-love-power-temple.json](./194754-heart-love-power-temple.json) |
 | Heart Maze | 40994 | [40994-heart-maze.json](./40994-heart-maze.json) |
 | Heart no Kuni no Alice: Wonderful Twin World | 218642 | [218642-heart-no-kuni-no-alice-wonderful-twin-world.json](./218642-heart-no-kuni-no-alice-wonderful-twin-world.json) |
+| Heart of a Bird in a Cage: After Story | 227066 | [227066-heart-of-a-bird-in-a-cage-after-story.json](./227066-heart-of-a-bird-in-a-cage-after-story.json) |
 | Heart of a Knight | 322078 | [322078-heart-of-a-knight.json](./322078-heart-of-a-knight.json) |
 | Heart of a Warrior | 190072 | [190072-heart-of-a-warrior.json](./190072-heart-of-a-warrior.json) |
 | Heart of Africa | 13874 | [13874-heart-of-africa.json](./13874-heart-of-africa.json) |
@@ -4576,6 +4579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helluva Boss Flaming Fashion | 228821 | [228821-helluva-boss-flaming-fashion.json](./228821-helluva-boss-flaming-fashion.json) |
 | Helluva Brawl | 341387 | [341387-helluva-brawl.json](./341387-helluva-brawl.json) |
 | Helluva Brawl | 342257 | [342257-helluva-brawl.json](./342257-helluva-brawl.json) |
+| Hellventure | 227063 | [227063-hellventure.json](./227063-hellventure.json) |
 | Hellver | 129692 | [129692-hellver.json](./129692-hellver.json) |
 | Hellvivors | 217317 | [217317-hellvivors.json](./217317-hellvivors.json) |
 | Hellwalker: Gremory | 389667 | [389667-hellwalker-gremory.json](./389667-hellwalker-gremory.json) |
@@ -6294,6 +6298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hevel Isle | 398526 | [398526-hevel-isle.json](./398526-hevel-isle.json) |
 | Hevn | 26427 | [26427-hevn.json](./26427-hevn.json) |
 | HewDraw Remix | 242804 | [242804-hewdraw-remix.json](./242804-hewdraw-remix.json) |
+| Hex | 227064 | [227064-hex.json](./227064-hex.json) |
 | Hex | 308383 | [308383-hex.json](./308383-hex.json) |
 | Hex | 320617 | [320617-hex.json](./320617-hex.json) |
 | Hex | 322575 | [322575-hex.json](./322575-hex.json) |
@@ -8298,6 +8303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman: Episode 6 - Hokkaido | 91025 | [91025-hitman-episode-6-hokkaido.json](./91025-hitman-episode-6-hokkaido.json) |
 | Hitman: Freelancer | 323712 | [323712-hitman-freelancer.json](./323712-hitman-freelancer.json) |
 | Hitman: Game of the Year Edition | 74878 | [74878-hitman-game-of-the-year-edition.json](./74878-hitman-game-of-the-year-edition.json) |
+| Hitman: GOTY Legacy Pack | 227079 | [227079-hitman-goty-legacy-pack.json](./227079-hitman-goty-legacy-pack.json) |
 | Hitman: GOTY Outfit Bundle | 76415 | [76415-hitman-goty-outfit-bundle.json](./76415-hitman-goty-outfit-bundle.json) |
 | Hitman: Patient Zero | 76414 | [76414-hitman-patient-zero.json](./76414-hitman-patient-zero.json) |
 | Hitman: Sniper | 19488 | [19488-hitman-sniper.json](./19488-hitman-sniper.json) |
@@ -9221,6 +9227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homerun Heroes: Starstrikers | 382115 | [382115-homerun-heroes-starstrikers.json](./382115-homerun-heroes-starstrikers.json) |
 | Homerun Hitters | 66766 | [66766-homerun-hitters.json](./66766-homerun-hitters.json) |
 | Homerun King - Pro Baseball | 39011 | [39011-homerun-king-pro-baseball.json](./39011-homerun-king-pro-baseball.json) |
+| Homerun Miko | 227059 | [227059-homerun-miko.json](./227059-homerun-miko.json) |
 | Homerun Touchdown 2017 | 137588 | [137588-homerun-touchdown-2017.json](./137588-homerun-touchdown-2017.json) |
 | Homerun: Spin-Off Forever | 342815 | [342815-homerun-spin-off-forever.json](./342815-homerun-spin-off-forever.json) |
 | Homescapes | 68316 | [68316-homescapes.json](./68316-homescapes.json) |
@@ -10295,6 +10302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot and Lovely 5 | 211053 | [211053-hot-and-lovely-5.json](./211053-hot-and-lovely-5.json) |
 | Hot And Lovely Waifu XXII | 318430 | [318430-hot-and-lovely-waifu-xxii.json](./318430-hot-and-lovely-waifu-xxii.json) |
 | Hot And Lovely XXII | 318431 | [318431-hot-and-lovely-xxii.json](./318431-hot-and-lovely-xxii.json) |
+| Hot and Lovely: Charm | 227060 | [227060-hot-and-lovely-charm.json](./227060-hot-and-lovely-charm.json) |
 | Hot And Lovely: Dream | 296911 | [296911-hot-and-lovely-dream.json](./296911-hot-and-lovely-dream.json) |
 | Hot and Lovely: Purple | 384884 | [384884-hot-and-lovely-purple.json](./384884-hot-and-lovely-purple.json) |
 | Hot and Lovely: Purple Lust | 389768 | [389768-hot-and-lovely-purple-lust.json](./389768-hot-and-lovely-purple-lust.json) |
@@ -10874,6 +10882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Fear | 133178 | [133178-house-of-fear.json](./133178-house-of-fear.json) |
 | House of Fear: Cursed Souls | 228686 | [228686-house-of-fear-cursed-souls.json](./228686-house-of-fear-cursed-souls.json) |
 | House of Fun | 311943 | [311943-house-of-fun.json](./311943-house-of-fun.json) |
+| House of Ghosts | 227061 | [227061-house-of-ghosts.json](./227061-house-of-ghosts.json) |
 | House of Ghosts and Cats | 329232 | [329232-house-of-ghosts-and-cats.json](./329232-house-of-ghosts-and-cats.json) |
 | House of God | 168713 | [168713-house-of-god.json](./168713-house-of-god.json) |
 | House of Golf | 125252 | [125252-house-of-golf.json](./125252-house-of-golf.json) |
