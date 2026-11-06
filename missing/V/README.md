@@ -1333,6 +1333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venari | 128434 | [128434-venari.json](./128434-venari.json) |
 | Venari | 305637 | [305637-venari.json](./305637-venari.json) |
 | Venatio | 188073 | [188073-venatio.json](./188073-venatio.json) |
+| Venator | 233324 | [233324-venator.json](./233324-venator.json) |
 | Venator | 271550 | [271550-venator.json](./271550-venator.json) |
 | Venator Universe | 323494 | [323494-venator-universe.json](./323494-venator-universe.json) |
 | Venatrix | 267369 | [267369-venatrix.json](./267369-venatrix.json) |
@@ -1695,6 +1696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vestiges: Fallen Tribes | 273566 | [273566-vestiges-fallen-tribes.json](./273566-vestiges-fallen-tribes.json) |
 | Vestigia | 417980 | [417980-vestigia.json](./417980-vestigia.json) |
 | Vestigia: Joust | 364706 | [364706-vestigia-joust.json](./364706-vestigia-joust.json) |
+| Vestigial | 233325 | [233325-vestigial.json](./233325-vestigial.json) |
 | Vestigios | 414032 | [414032-vestigios.json](./414032-vestigios.json) |
 | Vestria Story | 193940 | [193940-vestria-story.json](./193940-vestria-story.json) |
 | Vestron | 93018 | [93018-vestron.json](./93018-vestron.json) |
@@ -3578,6 +3580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voodoom | 312561 | [312561-voodoom.json](./312561-voodoom.json) |
 | Voody Hex | 391326 | [391326-voody-hex.json](./391326-voody-hex.json) |
 | Voor de Kroon | 193251 | [193251-voor-de-kroon.json](./193251-voor-de-kroon.json) |
+| Vor Terra | 233326 | [233326-vor-terra.json](./233326-vor-terra.json) |
 | Voracious | 118148 | [118148-voracious.json](./118148-voracious.json) |
 | Voracious | 351770 | [351770-voracious.json](./351770-voracious.json) |
 | Voracity | 412752 | [412752-voracity.json](./412752-voracity.json) |
