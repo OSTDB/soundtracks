@@ -958,6 +958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3242,6 +3243,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bat-L-Blocks | 92616 | [92616-bat-l-blocks.json](./92616-bat-l-blocks.json) |
 | Bat-Rush | 372963 | [372963-bat-rush.json](./372963-bat-rush.json) |
 | BataGacha! | 121031 | [121031-batagacha.json](./121031-batagacha.json) |
+| Batalha animal | 230641 | [230641-batalha-animal.json](./230641-batalha-animal.json) |
+| Batalha no mar | 230642 | [230642-batalha-no-mar.json](./230642-batalha-no-mar.json) |
 | Batalia | 145247 | [145247-batalia.json](./145247-batalia.json) |
 | Batalj | 112225 | [112225-batalj.json](./112225-batalj.json) |
 | Batalla de Arquitectos | 353307 | [353307-batalla-de-arquitectos.json](./353307-batalla-de-arquitectos.json) |
@@ -12226,6 +12229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bokura: Planet | 318275 | [318275-bokura-planet.json](./318275-bokura-planet.json) |
 | BokuRobo: Boxed Cell Robot Armies | 195368 | [195368-bokurobo-boxed-cell-robot-armies.json](./195368-bokurobo-boxed-cell-robot-armies.json) |
 | Bola | 92445 | [92445-bola.json](./92445-bola.json) |
+| Bolas e Cores | 230643 | [230643-bolas-e-cores.json](./230643-bolas-e-cores.json) |
 | Bold | 243680 | [243680-bold.json](./243680-bold.json) |
 | Bold Blade | 81010 | [81010-bold-blade.json](./81010-bold-blade.json) |
 | Bold Moves | 249384 | [249384-bold-moves.json](./249384-bold-moves.json) |
@@ -12238,6 +12242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolero | 331797 | [331797-bolero.json](./331797-bolero.json) |
 | Bolf | 125066 | [125066-bolf.json](./125066-bolf.json) |
 | Bolf: A Golfoxing Game | 341825 | [341825-bolf-a-golfoxing-game.json](./341825-bolf-a-golfoxing-game.json) |
+| Bolhas | 230644 | [230644-bolhas.json](./230644-bolhas.json) |
 | Bolide | 332757 | [332757-bolide.json](./332757-bolide.json) |
 | BoliKa | 328072 | [328072-bolika.json](./328072-bolika.json) |
 | Bolix | 300382 | [300382-bolix.json](./300382-bolix.json) |
@@ -12399,6 +12404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombe | 230363 | [230363-bombe.json](./230363-bombe.json) |
 | Bombe à Rebours | 176637 | [176637-bombe-a-rebours.json](./176637-bombe-a-rebours.json) |
 | Bombeiro Mascarado | 183966 | [183966-bombeiro-mascarado.json](./183966-bombeiro-mascarado.json) |
+| Bombeiros | 230645 | [230645-bombeiros.json](./230645-bombeiros.json) |
 | Bomber | 131104 | [131104-bomber.json](./131104-bomber.json) |
 | Bomber | 171464 | [171464-bomber.json](./171464-bomber.json) |
 | Bomber | 230682 | [230682-bomber.json](./230682-bomber.json) |
