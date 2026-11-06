@@ -9604,6 +9604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgotten City | 297448 | [297448-the-forgotten-city.json](./297448-the-forgotten-city.json) |
 | The Forgotten City: Cloud Version | 173145 | [173145-the-forgotten-city-cloud-version.json](./173145-the-forgotten-city-cloud-version.json) |
 | The Forgotten City: Digital Collector's Edition | 167179 | [167179-the-forgotten-city-digital-collectors-edition.json](./167179-the-forgotten-city-digital-collectors-edition.json) |
+| The Forgotten Concluder | 238276 | [238276-the-forgotten-concluder.json](./238276-the-forgotten-concluder.json) |
 | The Forgotten Deity | 330664 | [330664-the-forgotten-deity.json](./330664-the-forgotten-deity.json) |
 | The Forgotten Demons | 197195 | [197195-the-forgotten-demons.json](./197195-the-forgotten-demons.json) |
 | The Forgotten Dungeon | 179309 | [179309-the-forgotten-dungeon.json](./179309-the-forgotten-dungeon.json) |
@@ -12349,6 +12350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails of Cold Steel II | 13558 | [13558-the-legend-of-heroes-trails-of-cold-steel-ii.json](./13558-the-legend-of-heroes-trails-of-cold-steel-ii.json) |
 | The Legend of Heroes: Trails of Cold Steel II - All Ride-Alongs | 124812 | [124812-the-legend-of-heroes-trails-of-cold-steel-ii-all-ride-alongs.json](./124812-the-legend-of-heroes-trails-of-cold-steel-ii-all-ride-alongs.json) |
 | The Legend of Heroes: Trails of Cold Steel II - Relentless Edition | 167087 | [167087-the-legend-of-heroes-trails-of-cold-steel-ii-relentless-edition.json](./167087-the-legend-of-heroes-trails-of-cold-steel-ii-relentless-edition.json) |
+| The Legend of Heroes: Trails of Cold Steel III - Digital Deluxe Edition | 238167 | [238167-the-legend-of-heroes-trails-of-cold-steel-iii-digital-deluxe-edition.json](./238167-the-legend-of-heroes-trails-of-cold-steel-iii-digital-deluxe-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel III - Digital Limited Edition | 169217 | [169217-the-legend-of-heroes-trails-of-cold-steel-iii-digital-limited-edition.json](./169217-the-legend-of-heroes-trails-of-cold-steel-iii-digital-limited-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel III - Early Enrollment Edition | 136071 | [136071-the-legend-of-heroes-trails-of-cold-steel-iii-early-enrollment-edition.json](./136071-the-legend-of-heroes-trails-of-cold-steel-iii-early-enrollment-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel III - Kiseki Box | 136744 | [136744-the-legend-of-heroes-trails-of-cold-steel-iii-kiseki-box.json](./136744-the-legend-of-heroes-trails-of-cold-steel-iii-kiseki-box.json) |
@@ -23117,6 +23119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Metal | 24974 | [24974-tiny-metal.json](./24974-tiny-metal.json) |
 | Tiny Metal 2 | 370273 | [370273-tiny-metal-2.json](./370273-tiny-metal-2.json) |
 | Tiny Metal: Full Metal Rumble | 116201 | [116201-tiny-metal-full-metal-rumble.json](./116201-tiny-metal-full-metal-rumble.json) |
+| Tiny Metal: Full Metal Rumble - Caesar's Rescue | 238261 | [238261-tiny-metal-full-metal-rumble-caesars-rescue.json](./238261-tiny-metal-full-metal-rumble-caesars-rescue.json) |
 | Tiny Metal: Full Metal Rumble - Caeser's Rescue | 172126 | [172126-tiny-metal-full-metal-rumble-caesers-rescue.json](./172126-tiny-metal-full-metal-rumble-caesers-rescue.json) |
 | Tiny Metal: Will of the Shogun | 165045 | [165045-tiny-metal-will-of-the-shogun.json](./165045-tiny-metal-will-of-the-shogun.json) |
 | Tiny Mite | 412319 | [412319-tiny-mite.json](./412319-tiny-mite.json) |
@@ -27921,6 +27924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Bangladesh | 375890 | [375890-train-simulator-bangladesh.json](./375890-train-simulator-bangladesh.json) |
 | Train Simulator Classic | 198295 | [198295-train-simulator-classic.json](./198295-train-simulator-classic.json) |
 | Train Simulator Classic: Amtrak AEM-7 | 286547 | [286547-train-simulator-classic-amtrak-aem-7.json](./286547-train-simulator-classic-amtrak-aem-7.json) |
+| Train Simulator Classic: Amtrak P40DC Loco | 238275 | [238275-train-simulator-classic-amtrak-p40dc-loco.json](./238275-train-simulator-classic-amtrak-p40dc-loco.json) |
 | Train Simulator Classic: Bernina Pass Scenario Pack 01 | 262718 | [262718-train-simulator-classic-bernina-pass-scenario-pack-01.json](./262718-train-simulator-classic-bernina-pass-scenario-pack-01.json) |
 | Train Simulator Classic: BN Wagon Pack 01 | 226264 | [226264-train-simulator-classic-bn-wagon-pack-01.json](./226264-train-simulator-classic-bn-wagon-pack-01.json) |
 | Train Simulator Classic: Boston & Albany - Boston - Springfield Route Add-On | 357395 | [357395-train-simulator-classic-boston-and-albany-boston-springfield-route-add-on.json](./357395-train-simulator-classic-boston-and-albany-boston-springfield-route-add-on.json) |
@@ -30441,6 +30445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trine 2: Goblin Menace | 20837 | [20837-trine-2-goblin-menace.json](./20837-trine-2-goblin-menace.json) |
 | Trine 4: Definitive Edition | 347277 | [347277-trine-4-definitive-edition.json](./347277-trine-4-definitive-edition.json) |
 | Trine 4: Melody of Mystery | 152036 | [152036-trine-4-melody-of-mystery.json](./152036-trine-4-melody-of-mystery.json) |
+| Trine 4: The Nightmare Prince - Toby's Dream | 238166 | [238166-trine-4-the-nightmare-prince-tobys-dream.json](./238166-trine-4-the-nightmare-prince-tobys-dream.json) |
 | Trine 5: A Clockwork Conspiracy | 245390 | [245390-trine-5-a-clockwork-conspiracy.json](./245390-trine-5-a-clockwork-conspiracy.json) |
 | Trine Bundle | 142369 | [142369-trine-bundle.json](./142369-trine-bundle.json) |
 | Trine Classic Collection | 383137 | [383137-trine-classic-collection.json](./383137-trine-classic-collection.json) |
