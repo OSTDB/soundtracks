@@ -7272,6 +7272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chill of Death's: Breath | 269280 | [269280-chill-of-deaths-breath.json](./269280-chill-of-deaths-breath.json) |
 | Chill Out | 105696 | [105696-chill-out.json](./105696-chill-out.json) |
 | Chill Out | 181625 | [181625-chill-out.json](./181625-chill-out.json) |
+| Chill Out | 245072 | [245072-chill-out.json](./245072-chill-out.json) |
 | Chill Out | 335474 | [335474-chill-out.json](./335474-chill-out.json) |
 | Chill Out | 413050 | [413050-chill-out.json](./413050-chill-out.json) |
 | Chill Panda | 142837 | [142837-chill-panda.json](./142837-chill-panda.json) |
@@ -9172,6 +9173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Death | 274453 | [274453-city-of-death.json](./274453-city-of-death.json) |
 | City of Despair: Shadows Over Tokyo | 388252 | [388252-city-of-despair-shadows-over-tokyo.json](./388252-city-of-despair-shadows-over-tokyo.json) |
 | City of Dolorosa | 348319 | [348319-city-of-dolorosa.json](./348319-city-of-dolorosa.json) |
+| City of Doom | 245101 | [245101-city-of-doom.json](./245101-city-of-doom.json) |
 | City of Dusk | 246951 | [246951-city-of-dusk.json](./246951-city-of-dusk.json) |
 | City of Edges | 116752 | [116752-city-of-edges.json](./116752-city-of-edges.json) |
 | City of Elves | 223321 | [223321-city-of-elves.json](./223321-city-of-elves.json) |
@@ -16632,6 +16634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Shooters 2 | 204475 | [204475-crazy-shooters-2.json](./204475-crazy-shooters-2.json) |
 | Crazy Shopping | 123966 | [123966-crazy-shopping.json](./123966-crazy-shopping.json) |
 | Crazy Shot | 12414 | [12414-crazy-shot.json](./12414-crazy-shot.json) |
+| Crazy Shuffle | 245089 | [245089-crazy-shuffle.json](./245089-crazy-shuffle.json) |
 | Crazy Simulator | 128230 | [128230-crazy-simulator.json](./128230-crazy-simulator.json) |
 | Crazy Skies: Endless Arcade Flyer | 175560 | [175560-crazy-skies-endless-arcade-flyer.json](./175560-crazy-skies-endless-arcade-flyer.json) |
 | Crazy Snake | 234807 | [234807-crazy-snake.json](./234807-crazy-snake.json) |
@@ -18181,6 +18184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CRW: Counter Revolution War | 61554 | [61554-crw-counter-revolution-war.json](./61554-crw-counter-revolution-war.json) |
 | Cry Babies: Magic Tears - The Big Game | 254223 | [254223-cry-babies-magic-tears-the-big-game.json](./254223-cry-babies-magic-tears-the-big-game.json) |
 | Cry Baby | 190846 | [190846-cry-baby.json](./190846-cry-baby.json) |
+| Cry Baby | 245087 | [245087-cry-baby.json](./245087-cry-baby.json) |
 | Cry From the Abyss | 379086 | [379086-cry-from-the-abyss.json](./379086-cry-from-the-abyss.json) |
 | Cry of Athena | 158506 | [158506-cry-of-athena.json](./158506-cry-of-athena.json) |
 | Cry of Monster | 367403 | [367403-cry-of-monster.json](./367403-cry-of-monster.json) |
