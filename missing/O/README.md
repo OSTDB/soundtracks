@@ -4977,6 +4977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Sync: Complete Cherry Bomb Edition | 397166 | [397166-out-of-sync-complete-cherry-bomb-edition.json](./397166-out-of-sync-complete-cherry-bomb-edition.json) |
 | Out of Sync: Crescendo | 397169 | [397169-out-of-sync-crescendo.json](./397169-out-of-sync-crescendo.json) |
 | Out of the Blocks | 62723 | [62723-out-of-the-blocks.json](./62723-out-of-the-blocks.json) |
+| Out of the Blue | 210336 | [210336-out-of-the-blue.json](./210336-out-of-the-blue.json) |
 | Out of the Cube | 219626 | [219626-out-of-the-cube.json](./219626-out-of-the-cube.json) |
 | Out of the Deathmount | 231505 | [231505-out-of-the-deathmount.json](./231505-out-of-the-deathmount.json) |
 | Out of the ground | 226202 | [226202-out-of-the-ground.json](./226202-out-of-the-ground.json) |
