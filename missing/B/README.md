@@ -961,7 +961,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1206,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | baKno Chess | 87149 | [87149-bakno-chess.json](./87149-bakno-chess.json) |
 | Bako | 190934 | [190934-bako.json](./190934-bako.json) |
 | Bakobako | 341832 | [341832-bakobako.json](./341832-bakobako.json) |
+| Bakso Simulator | 205755 | [205755-bakso-simulator.json](./205755-bakso-simulator.json) |
 | Bakso Simulator 2 | 324721 | [324721-bakso-simulator-2.json](./324721-bakso-simulator-2.json) |
 | Baktinet | 340028 | [340028-baktinet.json](./340028-baktinet.json) |
 | Baku Baku | 19665 | [19665-baku-baku.json](./19665-baku-baku.json) |
@@ -4398,6 +4398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleSail | 391974 | [391974-battlesail.json](./391974-battlesail.json) |
 | Battlescar: Punk Was Invented By Girls | 171452 | [171452-battlescar-punk-was-invented-by-girls.json](./171452-battlescar-punk-was-invented-by-girls.json) |
 | Battleship | 154988 | [154988-battleship.json](./154988-battleship.json) |
+| Battleship | 205779 | [205779-battleship.json](./205779-battleship.json) |
 | Battleship | 218315 | [218315-battleship.json](./218315-battleship.json) |
 | Battleship | 220787 | [220787-battleship.json](./220787-battleship.json) |
 | Battleship | 22445 | [22445-battleship.json](./22445-battleship.json) |
@@ -9987,6 +9988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleed: Arcade Arena Shooter | 256033 | [256033-bleed-arcade-arena-shooter.json](./256033-bleed-arcade-arena-shooter.json) |
 | Bleed: Deluxe Edition | 118954 | [118954-bleed-deluxe-edition.json](./118954-bleed-deluxe-edition.json) |
 | Bleeding | 394632 | [394632-bleeding.json](./394632-bleeding.json) |
+| Bleeding Abyss | 205760 | [205760-bleeding-abyss.json](./205760-bleeding-abyss.json) |
 | Bleeding Border | 34250 | [34250-bleeding-border.json](./34250-bleeding-border.json) |
 | Bleeding Canvas | 248729 | [248729-bleeding-canvas.json](./248729-bleeding-canvas.json) |
 | Bleeding Code | 328968 | [328968-bleeding-code.json](./328968-bleeding-code.json) |
@@ -16110,6 +16112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal Heretic RPG | 198680 | [198680-brutal-heretic-rpg.json](./198680-brutal-heretic-rpg.json) |
 | Brutal Hexen RPG | 198681 | [198681-brutal-hexen-rpg.json](./198681-brutal-hexen-rpg.json) |
 | Brutal Inventions | 88003 | [88003-brutal-inventions.json](./88003-brutal-inventions.json) |
+| Brutal Japan | 205751 | [205751-brutal-japan.json](./205751-brutal-japan.json) |
 | Brutal John 2 | 199287 | [199287-brutal-john-2.json](./199287-brutal-john-2.json) |
 | Brutal Katana | 304832 | [304832-brutal-katana.json](./304832-brutal-katana.json) |
 | Brutal Mario | 132862 | [132862-brutal-mario.json](./132862-brutal-mario.json) |
@@ -16421,6 +16424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Milf | 297360 | [297360-bubble-milf.json](./297360-bubble-milf.json) |
 | Bubble Mix | 87083 | [87083-bubble-mix.json](./87083-bubble-mix.json) |
 | Bubble Mix 3 in 1 Plus | 90685 | [90685-bubble-mix-3-in-1-plus.json](./90685-bubble-mix-3-in-1-plus.json) |
+| Bubble Night | 205752 | [205752-bubble-night.json](./205752-bubble-night.json) |
 | Bubble People | 173265 | [173265-bubble-people.json](./173265-bubble-people.json) |
 | Bubble Pig | 175106 | [175106-bubble-pig.json](./175106-bubble-pig.json) |
 | Bubble Piles | 241615 | [241615-bubble-piles.json](./241615-bubble-piles.json) |
