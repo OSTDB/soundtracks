@@ -3467,6 +3467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volcanic Bird: Bird Quest | 278883 | [278883-volcanic-bird-bird-quest.json](./278883-volcanic-bird-bird-quest.json) |
 | Volcanic Blocks | 108335 | [108335-volcanic-blocks.json](./108335-volcanic-blocks.json) |
 | Volcanic Blocks | 146918 | [146918-volcanic-blocks.json](./146918-volcanic-blocks.json) |
+| Volcanic Core | 204021 | [204021-volcanic-core.json](./204021-volcanic-core.json) |
 | Volcanic Field 2 | 85477 | [85477-volcanic-field-2.json](./85477-volcanic-field-2.json) |
 | Volcanic Planet | 297242 | [297242-volcanic-planet.json](./297242-volcanic-planet.json) |
 | Volcano | 13768 | [13768-volcano.json](./13768-volcano.json) |
