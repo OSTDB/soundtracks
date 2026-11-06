@@ -7251,6 +7251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chiral Night: Rhythm Carnival | 230197 | [230197-the-chiral-night-rhythm-carnival.json](./230197-the-chiral-night-rhythm-carnival.json) |
 | The Choco Of Dunkers 2003 | 97488 | [97488-the-choco-of-dunkers-2003.json](./97488-the-choco-of-dunkers-2003.json) |
 | The Choice of Life: Middle Ages 2 | 150348 | [150348-the-choice-of-life-middle-ages-2.json](./150348-the-choice-of-life-middle-ages-2.json) |
+| The Choice VR | 193041 | [193041-the-choice-vr.json](./193041-the-choice-vr.json) |
 | The Choicer Voicer | 307223 | [307223-the-choicer-voicer.json](./307223-the-choicer-voicer.json) |
 | The Choices Of Priori | 412546 | [412546-the-choices-of-priori.json](./412546-the-choices-of-priori.json) |
 | The Choreographist | 140564 | [140564-the-choreographist.json](./140564-the-choreographist.json) |
@@ -14865,6 +14866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Persistence Enhanced | 146151 | [146151-the-persistence-enhanced.json](./146151-the-persistence-enhanced.json) |
 | The Person Living Next Door | 409509 | [409509-the-person-living-next-door.json](./409509-the-person-living-next-door.json) |
 | The Personal Reasons | 217476 | [217476-the-personal-reasons.json](./217476-the-personal-reasons.json) |
+| The Pest | 193035 | [193035-the-pest.json](./193035-the-pest.json) |
 | The Pet Squad | 332810 | [332810-the-pet-squad.json](./332810-the-pet-squad.json) |
 | the Peter Navarre Crecy Evaluation | 77729 | [77729-the-peter-navarre-crecy-evaluation.json](./77729-the-peter-navarre-crecy-evaluation.json) |
 | The Petrified King | 232548 | [232548-the-petrified-king.json](./232548-the-petrified-king.json) |
@@ -30858,6 +30860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triggerman | 43555 | [43555-triggerman.json](./43555-triggerman.json) |
 | Triggerun | 105713 | [105713-triggerun.json](./105713-triggerun.json) |
 | Triggore | 182913 | [182913-triggore.json](./182913-triggore.json) |
+| Trigo | 193021 | [193021-trigo.json](./193021-trigo.json) |
 | Trigodpats RPG | 387413 | [387413-trigodpats-rpg.json](./387413-trigodpats-rpg.json) |
 | Trigon | 103077 | [103077-trigon.json](./103077-trigon.json) |
 | Trigon: Space Story | 144562 | [144562-trigon-space-story.json](./144562-trigon-space-story.json) |
@@ -30934,6 +30937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trinity VR | 111991 | [111991-trinity-vr.json](./111991-trinity-vr.json) |
 | Trinity x Calamity: Midara na Shitsuke to Owaru Sekai | 133245 | [133245-trinity-x-calamity-midara-na-shitsuke-to-owaru-sekai.json](./133245-trinity-x-calamity-midara-na-shitsuke-to-owaru-sekai.json) |
 | Trinity: Souls of Zill O'll | 7475 | [7475-trinity-souls-of-zill-oll.json](./7475-trinity-souls-of-zill-oll.json) |
+| TrinityS | 193002 | [193002-trinitys.json](./193002-trinitys.json) |
 | Trinium Wars | 18923 | [18923-trinium-wars.json](./18923-trinium-wars.json) |
 | Trinket | 114653 | [114653-trinket.json](./114653-trinket.json) |
 | Trinket Bag Maker | 382569 | [382569-trinket-bag-maker.json](./382569-trinket-bag-maker.json) |
