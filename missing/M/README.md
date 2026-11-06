@@ -14030,6 +14030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miya Might Break | 390138 | [390138-miya-might-break.json](./390138-miya-might-break.json) |
 | Miya's Everyday Joy of Cooking | 202144 | [202144-miyas-everyday-joy-of-cooking.json](./202144-miyas-everyday-joy-of-cooking.json) |
 | Miyaji Shachou no Pachinko Fan: Shouri Sengen 2 | 37925 | [37925-miyaji-shachou-no-pachinko-fan-shouri-sengen-2.json](./37925-miyaji-shachou-no-pachinko-fan-shouri-sengen-2.json) |
+| Miyako | 222119 | [222119-miyako.json](./222119-miyako.json) |
 | Miyako: Awayuki no Utage | 181498 | [181498-miyako-awayuki-no-utage.json](./181498-miyako-awayuki-no-utage.json) |
 | Miyako: Tsukiyomi no Yume | 62939 | [62939-miyako-tsukiyomi-no-yume.json](./62939-miyako-tsukiyomi-no-yume.json) |
 | Miyamori | 21965 | [21965-miyamori.json](./21965-miyamori.json) |
