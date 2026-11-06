@@ -8056,6 +8056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shienryu | 92074 | [92074-shienryu.json](./92074-shienryu.json) |
 | Shieven | 330376 | [330376-shieven.json](./330376-shieven.json) |
 | Shift | 181920 | [181920-shift.json](./181920-shift.json) |
+| Shift | 228862 | [228862-shift.json](./228862-shift.json) |
 | Shift | 32446 | [32446-shift.json](./32446-shift.json) |
 | SHiFT | 144517 | [144517-shift.json](./144517-shift.json) |
 | Shift 0 | 352204 | [352204-shift-0.json](./352204-shift-0.json) |
@@ -11160,6 +11161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulo | 374766 | [374766-simulo.json](./374766-simulo.json) |
 | SimuLove! vol. 1 | 309438 | [309438-simulove-vol-1.json](./309438-simulove-vol-1.json) |
 | Simultaneous Control | 196476 | [196476-simultaneous-control.json](./196476-simultaneous-control.json) |
+| Simulyator Odinochestva V Russkoy Derevne | 228853 | [228853-simulyator-odinochestva-v-russkoy-derevne.json](./228853-simulyator-odinochestva-v-russkoy-derevne.json) |
 | SimuSex | 94335 | [94335-simusex.json](./94335-simusex.json) |
 | Simutek I | 74707 | [74707-simutek-i.json](./74707-simutek-i.json) |
 | Simutrans | 33717 | [33717-simutrans.json](./33717-simutrans.json) |
@@ -14263,6 +14265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Out Colony | 373130 | [373130-smash-out-colony.json](./373130-smash-out-colony.json) |
 | Smash Out! | 81175 | [81175-smash-out.json](./81175-smash-out.json) |
 | Smash Pixel Racing | 33154 | [33154-smash-pixel-racing.json](./33154-smash-pixel-racing.json) |
+| Smash Point | 228824 | [228824-smash-point.json](./228824-smash-point.json) |
 | Smash Puck | 128885 | [128885-smash-puck.json](./128885-smash-puck.json) |
 | Smash Realm | 402941 | [402941-smash-realm.json](./402941-smash-realm.json) |
 | Smash Remix | 132637 | [132637-smash-remix.json](./132637-smash-remix.json) |
@@ -19460,7 +19463,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -26787,6 +26789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StixWorld | 76141 | [76141-stixworld.json](./76141-stixworld.json) |
 | STLD Redux: Episode 02 | 34895 | [34895-stld-redux-episode-02.json](./34895-stld-redux-episode-02.json) |
 | Stlthscpe | 284320 | [284320-stlthscpe.json](./284320-stlthscpe.json) |
+| Stock Car | 228833 | [228833-stock-car.json](./228833-stock-car.json) |
 | Stock Car Crash | 43523 | [43523-stock-car-crash.json](./43523-stock-car-crash.json) |
 | Stock Car Extreme | 16966 | [16966-stock-car-extreme.json](./16966-stock-car-extreme.json) |
 | Stock Car Racer | 279216 | [279216-stock-car-racer.json](./279216-stock-car-racer.json) |
@@ -26836,6 +26839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stomp | 27294 | [27294-stomp.json](./27294-stomp.json) |
 | Stomp | 91539 | [91539-stomp.json](./91539-stomp.json) |
 | Stomp and the Sword of Miracles | 356053 | [356053-stomp-and-the-sword-of-miracles.json](./356053-stomp-and-the-sword-of-miracles.json) |
+| Stomp Plonk | 228832 | [228832-stomp-plonk.json](./228832-stomp-plonk.json) |
 | Stomper | 182990 | [182990-stomper.json](./182990-stomper.json) |
 | Stomper | 313867 | [313867-stomper.json](./313867-stomper.json) |
 | Stompgame | 380977 | [380977-stompgame.json](./380977-stompgame.json) |
