@@ -1597,11 +1597,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Arcade 2nd Stadium: A.K.A Magic Sword | 204755 | [204755-capcom-arcade-2nd-stadium-a-k-a-magic-sword.json](./204755-capcom-arcade-2nd-stadium-a-k-a-magic-sword.json) |
 | Capcom Arcade 2nd Stadium: A.K.A The King of Dragons | 204769 | [204769-capcom-arcade-2nd-stadium-a-k-a-the-king-of-dragons.json](./204769-capcom-arcade-2nd-stadium-a-k-a-the-king-of-dragons.json) |
 | Capcom Arcade 2nd Stadium: A.K.A Vampire Savior - The Lord of Vampire | 204763 | [204763-capcom-arcade-2nd-stadium-a-k-a-vampire-savior-the-lord-of-vampire.json](./204763-capcom-arcade-2nd-stadium-a-k-a-vampire-savior-the-lord-of-vampire.json) |
+| Capcom Arcade 2nd Stadium: Black Tiger | 204749 | [204749-capcom-arcade-2nd-stadium-black-tiger.json](./204749-capcom-arcade-2nd-stadium-black-tiger.json) |
 | Capcom Arcade 2nd Stadium: Bundle 1 | 204757 | [204757-capcom-arcade-2nd-stadium-bundle-1.json](./204757-capcom-arcade-2nd-stadium-bundle-1.json) |
 | Capcom Arcade 2nd Stadium: Capcom Sports Club | 204762 | [204762-capcom-arcade-2nd-stadium-capcom-sports-club.json](./204762-capcom-arcade-2nd-stadium-capcom-sports-club.json) |
 | Capcom Arcade 2nd Stadium: Darkstalkers - The Night Warriors | 204775 | [204775-capcom-arcade-2nd-stadium-darkstalkers-the-night-warriors.json](./204775-capcom-arcade-2nd-stadium-darkstalkers-the-night-warriors.json) |
 | Capcom Arcade 2nd Stadium: Eco Fighters | 204773 | [204773-capcom-arcade-2nd-stadium-eco-fighters.json](./204773-capcom-arcade-2nd-stadium-eco-fighters.json) |
 | Capcom Arcade 2nd Stadium: Gan Sumoku | 204758 | [204758-capcom-arcade-2nd-stadium-gan-sumoku.json](./204758-capcom-arcade-2nd-stadium-gan-sumoku.json) |
+| Capcom Arcade 2nd Stadium: Hissatsu Buraiken | 204748 | [204748-capcom-arcade-2nd-stadium-hissatsu-buraiken.json](./204748-capcom-arcade-2nd-stadium-hissatsu-buraiken.json) |
+| Capcom Arcade 2nd Stadium: Hyper Dyne Side Arms | 204747 | [204747-capcom-arcade-2nd-stadium-hyper-dyne-side-arms.json](./204747-capcom-arcade-2nd-stadium-hyper-dyne-side-arms.json) |
 | Capcom Arcade 2nd Stadium: Hyper Street Fighter II - The Anniversary Edition | 204759 | [204759-capcom-arcade-2nd-stadium-hyper-street-fighter-ii-the-anniversary-edition.json](./204759-capcom-arcade-2nd-stadium-hyper-street-fighter-ii-the-anniversary-edition.json) |
 | Capcom Arcade 2nd Stadium: Last Duel | 204753 | [204753-capcom-arcade-2nd-stadium-last-duel.json](./204753-capcom-arcade-2nd-stadium-last-duel.json) |
 | Capcom Arcade 2nd Stadium: Mega Man - The Power Battle | 204767 | [204767-capcom-arcade-2nd-stadium-mega-man-the-power-battle.json](./204767-capcom-arcade-2nd-stadium-mega-man-the-power-battle.json) |
@@ -1611,12 +1614,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Arcade 2nd Stadium: Pnickies | 204774 | [204774-capcom-arcade-2nd-stadium-pnickies.json](./204774-capcom-arcade-2nd-stadium-pnickies.json) |
 | Capcom Arcade 2nd Stadium: Rally 2011 Led Storm | 204754 | [204754-capcom-arcade-2nd-stadium-rally-2011-led-storm.json](./204754-capcom-arcade-2nd-stadium-rally-2011-led-storm.json) |
 | Capcom Arcade 2nd Stadium: Saturday Night Slam Masters | 204772 | [204772-capcom-arcade-2nd-stadium-saturday-night-slam-masters.json](./204772-capcom-arcade-2nd-stadium-saturday-night-slam-masters.json) |
+| Capcom Arcade 2nd Stadium: Savage Bees | 204745 | [204745-capcom-arcade-2nd-stadium-savage-bees.json](./204745-capcom-arcade-2nd-stadium-savage-bees.json) |
+| Capcom Arcade 2nd Stadium: Street Fighter | 204750 | [204750-capcom-arcade-2nd-stadium-street-fighter.json](./204750-capcom-arcade-2nd-stadium-street-fighter.json) |
 | Capcom Arcade 2nd Stadium: Street Fighter Alpha - Warriors' Dreams | 204777 | [204777-capcom-arcade-2nd-stadium-street-fighter-alpha-warriors-dreams.json](./204777-capcom-arcade-2nd-stadium-street-fighter-alpha-warriors-dreams.json) |
 | Capcom Arcade 2nd Stadium: Street Fighter Alpha 2 | 204766 | [204766-capcom-arcade-2nd-stadium-street-fighter-alpha-2.json](./204766-capcom-arcade-2nd-stadium-street-fighter-alpha-2.json) |
 | Capcom Arcade 2nd Stadium: Street Fighter Alpha 3 | 204760 | [204760-capcom-arcade-2nd-stadium-street-fighter-alpha-3.json](./204760-capcom-arcade-2nd-stadium-street-fighter-alpha-3.json) |
 | Capcom Arcade 2nd Stadium: Super Gem Fighter Mini Mix | 204761 | [204761-capcom-arcade-2nd-stadium-super-gem-fighter-mini-mix.json](./204761-capcom-arcade-2nd-stadium-super-gem-fighter-mini-mix.json) |
 | Capcom Arcade 2nd Stadium: Super Puzzle Fighter II Turbo | 204765 | [204765-capcom-arcade-2nd-stadium-super-puzzle-fighter-ii-turbo.json](./204765-capcom-arcade-2nd-stadium-super-puzzle-fighter-ii-turbo.json) |
+| Capcom Arcade 2nd Stadium: The Speed Rumbler | 204746 | [204746-capcom-arcade-2nd-stadium-the-speed-rumbler.json](./204746-capcom-arcade-2nd-stadium-the-speed-rumbler.json) |
 | Capcom Arcade 2nd Stadium: Three Wonders | 204768 | [204768-capcom-arcade-2nd-stadium-three-wonders.json](./204768-capcom-arcade-2nd-stadium-three-wonders.json) |
+| Capcom Arcade 2nd Stadium: Tiger Road | 204751 | [204751-capcom-arcade-2nd-stadium-tiger-road.json](./204751-capcom-arcade-2nd-stadium-tiger-road.json) |
 | Capcom Arcade Cabinet | 18821 | [18821-capcom-arcade-cabinet.json](./18821-capcom-arcade-cabinet.json) |
 | Capcom Arcade Cabinet: 1984 Collection | 21890 | [21890-capcom-arcade-cabinet-1984-collection.json](./21890-capcom-arcade-cabinet-1984-collection.json) |
 | Capcom Arcade Hits Volume 1 | 64489 | [64489-capcom-arcade-hits-volume-1.json](./64489-capcom-arcade-hits-volume-1.json) |
