@@ -957,7 +957,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6726,6 +6725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beta Massage Parlor Simulator | 390691 | [390691-beta-massage-parlor-simulator.json](./390691-beta-massage-parlor-simulator.json) |
 | Beta Max | 270027 | [270027-beta-max.json](./270027-beta-max.json) |
 | Beta Runner | 47989 | [47989-beta-runner.json](./47989-beta-runner.json) |
+| Beta-Sixdouze | 236099 | [236099-beta-sixdouze.json](./236099-beta-sixdouze.json) |
 | Betaman 2000: Special Edition | 330521 | [330521-betaman-2000-special-edition.json](./330521-betaman-2000-special-edition.json) |
 | Betasuppe | 68968 | [68968-betasuppe.json](./68968-betasuppe.json) |
 | BetDog Cards | 425458 | [425458-betdog-cards.json](./425458-betdog-cards.json) |
