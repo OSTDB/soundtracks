@@ -1009,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karma - A Visual Novel About A Dystopia. | 124192 | [124192-karma-a-visual-novel-about-a-dystopia.json](./124192-karma-a-visual-novel-about-a-dystopia.json) |
 | Karma City Police | 132198 | [132198-karma-city-police.json](./132198-karma-city-police.json) |
 | Karma Clicker | 342551 | [342551-karma-clicker.json](./342551-karma-clicker.json) |
+| Karma Collector | 215976 | [215976-karma-collector.json](./215976-karma-collector.json) |
 | Karma Crown | 189944 | [189944-karma-crown.json](./189944-karma-crown.json) |
 | Karma Exorcist | 399955 | [399955-karma-exorcist.json](./399955-karma-exorcist.json) |
 | Karma Flow 2: Tears of a Ghost | 164997 | [164997-karma-flow-2-tears-of-a-ghost.json](./164997-karma-flow-2-tears-of-a-ghost.json) |
@@ -4997,6 +4998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi Garden | 290851 | [290851-koi-garden.json](./290851-koi-garden.json) |
 | Koi ha Balance: Tatoeba K-kun no Tabou na Ichinichi-hen | 134463 | [134463-koi-ha-balance-tatoeba-k-kun-no-tabou-na-ichinichi-hen.json](./134463-koi-ha-balance-tatoeba-k-kun-no-tabou-na-ichinichi-hen.json) |
 | Koi Hai Tunnel | 280878 | [280878-koi-hai-tunnel.json](./280878-koi-hai-tunnel.json) |
+| Koi hi Kogaruru Kamikakushi | 215959 | [215959-koi-hi-kogaruru-kamikakushi.json](./215959-koi-hi-kogaruru-kamikakushi.json) |
 | Koi Iro Rabian Doll | 191693 | [191693-koi-iro-rabian-doll.json](./191693-koi-iro-rabian-doll.json) |
 | Koi Koi Mahjong | 43964 | [43964-koi-koi-mahjong.json](./43964-koi-koi-mahjong.json) |
 | Koi Land | 306268 | [306268-koi-land.json](./306268-koi-land.json) |
