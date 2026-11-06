@@ -2200,6 +2200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Rental Simulator | 235903 | [235903-car-rental-simulator.json](./235903-car-rental-simulator.json) |
 | Car Rental Simulator | 380054 | [380054-car-rental-simulator.json](./380054-car-rental-simulator.json) |
 | Car Rush I | 254387 | [254387-car-rush-i.json](./254387-car-rush-i.json) |
+| Car Rush II | 245629 | [245629-car-rush-ii.json](./245629-car-rush-ii.json) |
 | Car Saler Simulator 2023 | 267347 | [267347-car-saler-simulator-2023.json](./267347-car-saler-simulator-2023.json) |
 | Car Sales Simulator | 403738 | [403738-car-sales-simulator.json](./403738-car-sales-simulator.json) |
 | Car Sales Simulator | 407368 | [407368-car-sales-simulator.json](./407368-car-sales-simulator.json) |
@@ -6438,6 +6439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheetahmen | 243939 | [243939-cheetahmen.json](./243939-cheetahmen.json) |
 | Cheetahmen | 245125 | [245125-cheetahmen.json](./245125-cheetahmen.json) |
 | Cheetahmen II | 8062 | [8062-cheetahmen-ii.json](./8062-cheetahmen-ii.json) |
+| Cheetahmen III | 245622 | [245622-cheetahmen-iii.json](./245622-cheetahmen-iii.json) |
 | Cheezure | 316094 | [316094-cheezure.json](./316094-cheezure.json) |
 | Chef | 128575 | [128575-chef.json](./128575-chef.json) |
 | Chef | 231729 | [231729-chef.json](./231729-chef.json) |
@@ -13373,6 +13375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquela | 286605 | [286605-conquela.json](./286605-conquela.json) |
 | Conquer | 83821 | [83821-conquer.json](./83821-conquer.json) |
 | Conquer and Breed the Demon Queen | 160057 | [160057-conquer-and-breed-the-demon-queen.json](./160057-conquer-and-breed-the-demon-queen.json) |
+| Conquer Antarctica | 245618 | [245618-conquer-antarctica.json](./245618-conquer-antarctica.json) |
 | Conquer City Wars | 100333 | [100333-conquer-city-wars.json](./100333-conquer-city-wars.json) |
 | Conquer Countries | 387397 | [387397-conquer-countries.json](./387397-conquer-countries.json) |
 | Conquer Humanity | 225687 | [225687-conquer-humanity.json](./225687-conquer-humanity.json) |
@@ -20412,6 +20415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberstrike 2 | 22810 | [22810-cyberstrike-2.json](./22810-cyberstrike-2.json) |
 | CyberStrike Chronicles | 258634 | [258634-cyberstrike-chronicles.json](./258634-cyberstrike-chronicles.json) |
 | Cyberswine | 73086 | [73086-cyberswine.json](./73086-cyberswine.json) |
+| CyberTac | 245644 | [245644-cybertac.json](./245644-cybertac.json) |
 | CyberTaxi | 140602 | [140602-cybertaxi.json](./140602-cybertaxi.json) |
 | CyberTaxi: Lunatic Nights | 296388 | [296388-cybertaxi-lunatic-nights.json](./296388-cybertaxi-lunatic-nights.json) |
 | CyberTD | 221120 | [221120-cybertd.json](./221120-cybertd.json) |
