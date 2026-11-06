@@ -1351,6 +1351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Shampoo | 153879 | [153879-samurai-shampoo.json](./153879-samurai-shampoo.json) |
 | Samurai Shaver | 177442 | [177442-samurai-shaver.json](./177442-samurai-shaver.json) |
 | Samurai Shodown | 191471 | [191471-samurai-shodown.json](./191471-samurai-shodown.json) |
+| Samurai Shodown | 242326 | [242326-samurai-shodown.json](./242326-samurai-shodown.json) |
 | Samurai Shodown | 422681 | [422681-samurai-shodown.json](./422681-samurai-shodown.json) |
 | Samurai Shodown 64 | 19990 | [19990-samurai-shodown-64.json](./19990-samurai-shodown-64.json) |
 | Samurai Shodown 64: Warriors Rage | 19991 | [19991-samurai-shodown-64-warriors-rage.json](./19991-samurai-shodown-64-warriors-rage.json) |
@@ -3427,6 +3428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Short Story | 409333 | [409333-scp-short-story.json](./409333-scp-short-story.json) |
 | SCP: Site Director | 305674 | [305674-scp-site-director.json](./305674-scp-site-director.json) |
 | SCP: Site-19 | 242246 | [242246-scp-site-19.json](./242246-scp-site-19.json) |
+| SCP: Site-19 | 242325 | [242325-scp-site-19.json](./242325-scp-site-19.json) |
 | SCP: Submerged | 223253 | [223253-scp-submerged.json](./223253-scp-submerged.json) |
 | SCP: The Beginning | 390659 | [390659-scp-the-beginning.json](./390659-scp-the-beginning.json) |
 | SCP: The Endurance | 228377 | [228377-scp-the-endurance.json](./228377-scp-the-endurance.json) |
@@ -19383,7 +19385,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -22248,6 +22249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob's Atlantis SquarePantis SquareOff | 286583 | [286583-spongebobs-atlantis-squarepantis-squareoff.json](./286583-spongebobs-atlantis-squarepantis-squareoff.json) |
 | SpongeBob's Big Adventures | 286879 | [286879-spongebobs-big-adventures.json](./286879-spongebobs-big-adventures.json) |
 | SpongeBob's Boating Bash | 284106 | [284106-spongebobs-boating-bash.json](./284106-spongebobs-boating-bash.json) |
+| SpongeBob's Crossword | 242342 | [242342-spongebobs-crossword.json](./242342-spongebobs-crossword.json) |
 | SpongeBob's Game Frenzy | 88949 | [88949-spongebobs-game-frenzy.json](./88949-spongebobs-game-frenzy.json) |
 | SpongeBob’s Idle Adventures | 266907 | [266907-spongebob-s-idle-adventures.json](./266907-spongebob-s-idle-adventures.json) |
 | SpongeBob's Pizza Toss | 326710 | [326710-spongebobs-pizza-toss.json](./326710-spongebobs-pizza-toss.json) |
@@ -33960,6 +33962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving Space | 148916 | [148916-surviving-space.json](./148916-surviving-space.json) |
 | Surviving the Aftermath | 123251 | [123251-surviving-the-aftermath.json](./123251-surviving-the-aftermath.json) |
 | Surviving the Aftermath: Day One Edition | 143041 | [143041-surviving-the-aftermath-day-one-edition.json](./143041-surviving-the-aftermath-day-one-edition.json) |
+| Surviving the Aftermath: Forgotten Tracks | 242332 | [242332-surviving-the-aftermath-forgotten-tracks.json](./242332-surviving-the-aftermath-forgotten-tracks.json) |
 | Surviving the Aftermath: New Alliances | 203382 | [203382-surviving-the-aftermath-new-alliances.json](./203382-surviving-the-aftermath-new-alliances.json) |
 | Surviving the Aftermath: Rebirth | 240901 | [240901-surviving-the-aftermath-rebirth.json](./240901-surviving-the-aftermath-rebirth.json) |
 | Surviving the Aftermath: Ultimate Colony Edition | 188054 | [188054-surviving-the-aftermath-ultimate-colony-edition.json](./188054-surviving-the-aftermath-ultimate-colony-edition.json) |
@@ -35711,6 +35714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syphon Filter 3 | 231777 | [231777-syphon-filter-3.json](./231777-syphon-filter-3.json) |
 | Syphon Filter 3 | 4117 | [4117-syphon-filter-3.json](./4117-syphon-filter-3.json) |
 | Syphon Filter: Dark Mirror | 20764 | [20764-syphon-filter-dark-mirror.json](./20764-syphon-filter-dark-mirror.json) |
+| Syphon Filter: Dark Mirror | 242307 | [242307-syphon-filter-dark-mirror.json](./242307-syphon-filter-dark-mirror.json) |
 | Syphon Filter: Logan's Shadow | 19430 | [19430-syphon-filter-logans-shadow.json](./19430-syphon-filter-logans-shadow.json) |
 | Syphon Filter: Logan's Shadow | 250106 | [250106-syphon-filter-logans-shadow.json](./250106-syphon-filter-logans-shadow.json) |
 | Syphon Filter: The Omega Strain | 20185 | [20185-syphon-filter-the-omega-strain.json](./20185-syphon-filter-the-omega-strain.json) |
