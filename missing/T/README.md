@@ -1324,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Symphonia Chronicles | 7464 | [7464-tales-of-symphonia-chronicles.json](./7464-tales-of-symphonia-chronicles.json) |
 | Tales Of Symphonia Chronicles: Collector's Edition | 42960 | [42960-tales-of-symphonia-chronicles-collectors-edition.json](./42960-tales-of-symphonia-chronicles-collectors-edition.json) |
 | Tales of Symphonia Remastered | 217564 | [217564-tales-of-symphonia-remastered.json](./217564-tales-of-symphonia-remastered.json) |
+| Tales of Symphonia Remastered: Chosen Edition | 218219 | [218219-tales-of-symphonia-remastered-chosen-edition.json](./218219-tales-of-symphonia-remastered-chosen-edition.json) |
 | Tales of Symphonia: Dawn of the New World | 222629 | [222629-tales-of-symphonia-dawn-of-the-new-world.json](./222629-tales-of-symphonia-dawn-of-the-new-world.json) |
 | Tales of Symphonia: Dawn of the New World | 5210 | [5210-tales-of-symphonia-dawn-of-the-new-world.json](./5210-tales-of-symphonia-dawn-of-the-new-world.json) |
 | Tales of Tarium: Awakening from the Ashes | 213538 | [213538-tales-of-tarium-awakening-from-the-ashes.json](./213538-tales-of-tarium-awakening-from-the-ashes.json) |
@@ -15254,6 +15255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rabbit Hole Principle | 120352 | [120352-the-rabbit-hole-principle.json](./120352-the-rabbit-hole-principle.json) |
 | The Rabbit's Scroll | 204114 | [204114-the-rabbits-scroll.json](./204114-the-rabbits-scroll.json) |
 | The Rabbit's Shadow | 360074 | [360074-the-rabbits-shadow.json](./360074-the-rabbits-shadow.json) |
+| The Raccoon Who Lost Their Shape | 218204 | [218204-the-raccoon-who-lost-their-shape.json](./218204-the-raccoon-who-lost-their-shape.json) |
 | The Race | 171802 | [171802-the-race.json](./171802-the-race.json) |
 | The Race Against Time | 39132 | [39132-the-race-against-time.json](./39132-the-race-against-time.json) |
 | The Race for the White House | 9372 | [9372-the-race-for-the-white-house.json](./9372-the-race-for-the-white-house.json) |
