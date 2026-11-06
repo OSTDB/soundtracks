@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of the Void | 118610 | [118610-call-of-the-void.json](./118610-call-of-the-void.json) |
 | Call of the Void | 299714 | [299714-call-of-the-void.json](./299714-call-of-the-void.json) |
 | Call of the VoYD Genesis | 255816 | [255816-call-of-the-voyd-genesis.json](./255816-call-of-the-voyd-genesis.json) |
+| Call of the Wild: The Angler | 205775 | [205775-call-of-the-wild-the-angler.json](./205775-call-of-the-wild-the-angler.json) |
 | Call of the Wild: The Angler - Deluxe Edition | 264133 | [264133-call-of-the-wild-the-angler-deluxe-edition.json](./264133-call-of-the-wild-the-angler-deluxe-edition.json) |
 | Call of the Wild: The Angler - Japan Fishing Reserve | 331812 | [331812-call-of-the-wild-the-angler-japan-fishing-reserve.json](./331812-call-of-the-wild-the-angler-japan-fishing-reserve.json) |
 | Call of the Wild: The Angler - LakePal Bait Boat Pack | 318443 | [318443-call-of-the-wild-the-angler-lakepal-bait-boat-pack.json](./318443-call-of-the-wild-the-angler-lakepal-bait-boat-pack.json) |
