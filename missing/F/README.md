@@ -7602,6 +7602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flex Disc Golf | 268303 | [268303-flex-disc-golf.json](./268303-flex-disc-golf.json) |
 | Flex hooks | 147889 | [147889-flex-hooks.json](./147889-flex-hooks.json) |
 | Flex Riders | 310832 | [310832-flex-riders.json](./310832-flex-riders.json) |
+| Flexbox Zombies | 222717 | [222717-flexbox-zombies.json](./222717-flexbox-zombies.json) |
 | Flexibility and Girls | 147979 | [147979-flexibility-and-girls.json](./147979-flexibility-and-girls.json) |
 | Flexible Frosty | 325332 | [325332-flexible-frosty.json](./325332-flexible-frosty.json) |
 | Flexible Survival | 60023 | [60023-flexible-survival.json](./60023-flexible-survival.json) |
@@ -10918,6 +10919,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FoxWolf Saga | 400659 | [400659-foxwolf-saga.json](./400659-foxwolf-saga.json) |
 | Foxx Fights Back | 13851 | [13851-foxx-fights-back.json](./13851-foxx-fights-back.json) |
 | Foxxel Quest | 339297 | [339297-foxxel-quest.json](./339297-foxxel-quest.json) |
+| Foxy | 222690 | [222690-foxy.json](./222690-foxy.json) |
+| Foxy 2 | 222716 | [222716-foxy-2.json](./222716-foxy-2.json) |
 | Foxy Dumplings | 386440 | [386440-foxy-dumplings.json](./386440-foxy-dumplings.json) |
 | Foxy Furry Lady of the Forest | 82919 | [82919-foxy-furry-lady-of-the-forest.json](./82919-foxy-furry-lady-of-the-forest.json) |
 | Foxy Go Go Go! | 397232 | [397232-foxy-go-go-go.json](./397232-foxy-go-go-go.json) |
@@ -12785,6 +12788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Postal Service | 119777 | [119777-fruit-postal-service.json](./119777-fruit-postal-service.json) |
 | Fruit Punch | 115415 | [115415-fruit-punch.json](./115415-fruit-punch.json) |
 | Fruit Row | 149717 | [149717-fruit-row.json](./149717-fruit-row.json) |
+| Fruit Salad | 222674 | [222674-fruit-salad.json](./222674-fruit-salad.json) |
 | Fruit Salad | 273892 | [273892-fruit-salad.json](./273892-fruit-salad.json) |
 | Fruit Salad Theory | 186807 | [186807-fruit-salad-theory.json](./186807-fruit-salad-theory.json) |
 | Fruit Salon | 314108 | [314108-fruit-salon.json](./314108-fruit-salon.json) |
