@@ -5996,6 +5996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu Jumpu | 200303 | [200303-kung-fu-jumpu.json](./200303-kung-fu-jumpu.json) |
 | Kung Fu Kid | 36898 | [36898-kung-fu-kid.json](./36898-kung-fu-kid.json) |
 | Kung Fu Legend | 117344 | [117344-kung-fu-legend.json](./117344-kung-fu-legend.json) |
+| Kung Fu Panda | 241109 | [241109-kung-fu-panda.json](./241109-kung-fu-panda.json) |
 | Kung Fu Panda | 320387 | [320387-kung-fu-panda.json](./320387-kung-fu-panda.json) |
 | Kung Fu Panda | 4964 | [4964-kung-fu-panda.json](./4964-kung-fu-panda.json) |
 | Kung Fu Panda 2 | 200906 | [200906-kung-fu-panda-2.json](./200906-kung-fu-panda-2.json) |
