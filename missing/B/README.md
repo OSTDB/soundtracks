@@ -957,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -16129,6 +16130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BSMP | 394877 | [394877-bsmp.json](./394877-bsmp.json) |
 | BSurfing | 163733 | [163733-bsurfing.json](./163733-bsurfing.json) |
 | BT Biplanes Online | 367187 | [367187-bt-biplanes-online.json](./367187-bt-biplanes-online.json) |
+| BT21 Pop Star | 242317 | [242317-bt21-pop-star.json](./242317-bt21-pop-star.json) |
 | BTank | 203898 | [203898-btank.json](./203898-btank.json) |
 | BTD: BTD | 258500 | [258500-btd-btd.json](./258500-btd-btd.json) |
 | BTS Cooking On | 313982 | [313982-bts-cooking-on.json](./313982-bts-cooking-on.json) |
@@ -17878,6 +17880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bust Out | 174878 | [174878-bust-out.json](./174878-bust-out.json) |
 | Bust-A-Bloc | 43509 | [43509-bust-a-bloc.json](./43509-bust-a-bloc.json) |
 | Bust-a-Loop | 182133 | [182133-bust-a-loop.json](./182133-bust-a-loop.json) |
+| Bust-A-Move | 242321 | [242321-bust-a-move.json](./242321-bust-a-move.json) |
 | Bust-A-Move | 246391 | [246391-bust-a-move.json](./246391-bust-a-move.json) |
 | Bust-A-Move | 28391 | [28391-bust-a-move.json](./28391-bust-a-move.json) |
 | Bust-a-Move '99 | 44958 | [44958-bust-a-move-99.json](./44958-bust-a-move-99.json) |
