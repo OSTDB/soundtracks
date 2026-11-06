@@ -4459,6 +4459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightfall | 60020 | [60020-nightfall.json](./60020-nightfall.json) |
 | Nightfall | 80403 | [80403-nightfall.json](./80403-nightfall.json) |
 | Nightfall Cafe | 350033 | [350033-nightfall-cafe.json](./350033-nightfall-cafe.json) |
+| Nightfall Comes | 197451 | [197451-nightfall-comes.json](./197451-nightfall-comes.json) |
 | Nightfall Conquest | 290725 | [290725-nightfall-conquest.json](./290725-nightfall-conquest.json) |
 | Nightfall Empress | 402896 | [402896-nightfall-empress.json](./402896-nightfall-empress.json) |
 | Nightfall Hacker | 127578 | [127578-nightfall-hacker.json](./127578-nightfall-hacker.json) |
