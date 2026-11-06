@@ -2385,6 +2385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Pocket Pool | 92272 | [92272-3d-pocket-pool.json](./92272-3d-pocket-pool.json) |
 | 3D Pong | 176772 | [176772-3d-pong.json](./176772-3d-pong.json) |
 | 3D Pool All Stars | 92596 | [92596-3d-pool-all-stars.json](./92596-3d-pool-all-stars.json) |
+| 3D Pool Ball: Infinity | 227088 | [227088-3d-pool-ball-infinity.json](./227088-3d-pool-ball-infinity.json) |
 | 3D Pool Game | 88273 | [88273-3d-pool-game.json](./88273-3d-pool-game.json) |
 | 3D Pool: Billiards & Snooker | 205948 | [205948-3d-pool-billiards-and-snooker.json](./205948-3d-pool-billiards-and-snooker.json) |
 | 3D Power Drift | 84659 | [84659-3d-power-drift.json](./84659-3d-power-drift.json) |
