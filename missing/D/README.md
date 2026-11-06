@@ -2941,6 +2941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daybringer | 133058 | [133058-daybringer.json](./133058-daybringer.json) |
 | Daycare Descent | 256909 | [256909-daycare-descent.json](./256909-daycare-descent.json) |
 | Daycare Dungeon | 324947 | [324947-daycare-dungeon.json](./324947-daycare-dungeon.json) |
+| Daycare Nightmare | 208683 | [208683-daycare-nightmare.json](./208683-daycare-nightmare.json) |
 | Daycare Of Happy Children | 380583 | [380583-daycare-of-happy-children.json](./380583-daycare-of-happy-children.json) |
 | DayD Time Mayhem TD | 101195 | [101195-dayd-time-mayhem-td.json](./101195-dayd-time-mayhem-td.json) |
 | DayD: Through Time | 105300 | [105300-dayd-through-time.json](./105300-dayd-through-time.json) |
@@ -4520,6 +4521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Knight | 343460 | [343460-death-knight.json](./343460-death-knight.json) |
 | Death Knights of Krynn | 12041 | [12041-death-knights-of-krynn.json](./12041-death-knights-of-krynn.json) |
 | Death Lap | 174550 | [174550-death-lap.json](./174550-death-lap.json) |
+| Death Leak | 208678 | [208678-death-leak.json](./208678-death-leak.json) |
 | Death Lease | 266076 | [266076-death-lease.json](./266076-death-lease.json) |
 | Death Life: Beyond Purgatory | 264019 | [264019-death-life-beyond-purgatory.json](./264019-death-life-beyond-purgatory.json) |
 | Death Live | 123472 | [123472-death-live.json](./123472-death-live.json) |
