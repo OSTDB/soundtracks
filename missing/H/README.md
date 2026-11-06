@@ -9882,6 +9882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horgihugh and Friends | 193534 | [193534-horgihugh-and-friends.json](./193534-horgihugh-and-friends.json) |
 | Horizon | 102699 | [102699-horizon.json](./102699-horizon.json) |
 | Horizon | 16513 | [16513-horizon.json](./16513-horizon.json) |
+| Horizon | 213688 | [213688-horizon.json](./213688-horizon.json) |
 | Horizon | 350058 | [350058-horizon.json](./350058-horizon.json) |
 | Horizon 1990 | 399171 | [399171-horizon-1990.json](./399171-horizon-1990.json) |
 | Horizon Beyond | 121592 | [121592-horizon-beyond.json](./121592-horizon-beyond.json) |
