@@ -11919,6 +11919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Simp Club | 245885 | [245885-doki-simp-club.json](./245885-doki-simp-club.json) |
 | Doki x Doki Sasete!! | 202815 | [202815-doki-x-doki-sasete.json](./202815-doki-x-doki-sasete.json) |
 | Doki-doki Cooking Series 2: Gourmet Kitchen - Suteki na Obentou | 138030 | [138030-doki-doki-cooking-series-2-gourmet-kitchen-suteki-na-obentou.json](./138030-doki-doki-cooking-series-2-gourmet-kitchen-suteki-na-obentou.json) |
+| Doki-doki Idol Star Seeker Remix | 200796 | [200796-doki-doki-idol-star-seeker-remix.json](./200796-doki-doki-idol-star-seeker-remix.json) |
 | Doki-doki Literature Club! GB Version | 279818 | [279818-doki-doki-literature-club-gb-version.json](./279818-doki-doki-literature-club-gb-version.json) |
 | Doki-doki Majo Shinpan 2 Duo | 21456 | [21456-doki-doki-majo-shinpan-2-duo.json](./21456-doki-doki-majo-shinpan-2-duo.json) |
 | Doki-doki on Air | 166576 | [166576-doki-doki-on-air.json](./166576-doki-doki-on-air.json) |
