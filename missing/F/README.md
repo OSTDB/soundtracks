@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fablewood Chronicles | 413112 | [413112-fablewood-chronicles.json](./413112-fablewood-chronicles.json) |
 | Fabraz Presents Vol. 1 | 241719 | [241719-fabraz-presents-vol-1.json](./241719-fabraz-presents-vol-1.json) |
 | Fabric of Reality | 219767 | [219767-fabric-of-reality.json](./219767-fabric-of-reality.json) |
+| Fábrica de chocolate | 230652 | [230652-fabrica-de-chocolate.json](./230652-fabrica-de-chocolate.json) |
 | Fabrika Mortis | 313373 | [313373-fabrika-mortis.json](./313373-fabrika-mortis.json) |
 | FabStyle | 185897 | [185897-fabstyle.json](./185897-fabstyle.json) |
 | Fabula Mortis | 17792 | [17792-fabula-mortis.json](./17792-fabula-mortis.json) |
@@ -2114,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Warlord | 329477 | [329477-fantasy-warlord.json](./329477-fantasy-warlord.json) |
 | Fantasy Wars | 7332 | [7332-fantasy-wars.json](./7332-fantasy-wars.json) |
 | Fantasy Wars: Endless Heroes | 390601 | [390601-fantasy-wars-endless-heroes.json](./390601-fantasy-wars-endless-heroes.json) |
+| Fantasy Westward Journey | 230626 | [230626-fantasy-westward-journey.json](./230626-fantasy-westward-journey.json) |
 | Fantasy World | 68687 | [68687-fantasy-world.json](./68687-fantasy-world.json) |
 | Fantasy World Manager | 339042 | [339042-fantasy-world-manager.json](./339042-fantasy-world-manager.json) |
 | Fantasy World Online Tycoon | 132209 | [132209-fantasy-world-online-tycoon.json](./132209-fantasy-world-online-tycoon.json) |
@@ -8156,6 +8158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Florist Business Simulator | 311215 | [311215-florist-business-simulator.json](./311215-florist-business-simulator.json) |
 | Florist Shop | 44070 | [44070-florist-shop.json](./44070-florist-shop.json) |
 | Floristry | 68956 | [68956-floristry.json](./68956-floristry.json) |
+| Florr.io | 230633 | [230633-florr-io.json](./230633-florr-io.json) |
 | Florus | 183802 | [183802-florus.json](./183802-florus.json) |
 | Floss | 371841 | [371841-floss.json](./371841-floss.json) |
 | Flotilla | 8396 | [8396-flotilla.json](./8396-flotilla.json) |
