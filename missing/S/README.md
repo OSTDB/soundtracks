@@ -552,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sago Mini Forest Flyer | 200108 | [200108-sago-mini-forest-flyer.json](./200108-sago-mini-forest-flyer.json) |
 | Sago Mini Trips+ | 355989 | [355989-sago-mini-trips.json](./355989-sago-mini-trips.json) |
 | Sagrada | 132490 | [132490-sagrada.json](./132490-sagrada.json) |
+| Sagres | 213121 | [213121-sagres.json](./213121-sagres.json) |
 | Sahara Storms WWIII | 239713 | [239713-sahara-storms-wwiii.json](./239713-sahara-storms-wwiii.json) |
 | Sahara's Underworld | 367744 | [367744-saharas-underworld.json](./367744-saharas-underworld.json) |
 | Sahir: Shiv of Memories | 372737 | [372737-sahir-shiv-of-memories.json](./372737-sahir-shiv-of-memories.json) |
@@ -6617,6 +6618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Fighter | 5524 | [5524-shadow-fighter.json](./5524-shadow-fighter.json) |
 | Shadow Fighter Legend | 105859 | [105859-shadow-fighter-legend.json](./105859-shadow-fighter-legend.json) |
 | Shadow Fold | 417456 | [417456-shadow-fold.json](./417456-shadow-fold.json) |
+| Shadow Force | 213106 | [213106-shadow-force.json](./213106-shadow-force.json) |
 | Shadow Force | 77660 | [77660-shadow-force.json](./77660-shadow-force.json) |
 | Shadow Force: Razor Unit | 23461 | [23461-shadow-force-razor-unit.json](./23461-shadow-force-razor-unit.json) |
 | Shadow Gadget | 263833 | [263833-shadow-gadget.json](./263833-shadow-gadget.json) |
@@ -8509,6 +8511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShinNaZuki | 355196 | [355196-shinnazuki.json](./355196-shinnazuki.json) |
 | Shinnyuushain Tooru-Kun | 6133 | [6133-shinnyuushain-tooru-kun.json](./6133-shinnyuushain-tooru-kun.json) |
 | Shinobi | 10219 | [10219-shinobi.json](./10219-shinobi.json) |
+| Shinobi | 213084 | [213084-shinobi.json](./213084-shinobi.json) |
 | Shinobi | 307860 | [307860-shinobi.json](./307860-shinobi.json) |
 | Shinobi | 309488 | [309488-shinobi.json](./309488-shinobi.json) |
 | Shinobi | 339235 | [339235-shinobi.json](./339235-shinobi.json) |
@@ -19547,7 +19550,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -19936,6 +19938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rogue | 23279 | [23279-space-rogue.json](./23279-space-rogue.json) |
 | Space Roguelike Adventure | 190386 | [190386-space-roguelike-adventure.json](./190386-space-roguelike-adventure.json) |
 | Space Roller Coaster VR | 103058 | [103058-space-roller-coaster-vr.json](./103058-space-roller-coaster-vr.json) |
+| Space Route | 213091 | [213091-space-route.json](./213091-space-route.json) |
 | Space Routine | 131799 | [131799-space-routine.json](./131799-space-routine.json) |
 | Space RPG 3 | 99407 | [99407-space-rpg-3.json](./99407-space-rpg-3.json) |
 | Space Run | 202768 | [202768-space-run.json](./202768-space-run.json) |
@@ -20018,6 +20021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Sprint | 38903 | [38903-space-sprint.json](./38903-space-sprint.json) |
 | Space Sprinter VR | 160098 | [160098-space-sprinter-vr.json](./160098-space-sprinter-vr.json) |
 | Space Sprouts | 292560 | [292560-space-sprouts.json](./292560-space-sprouts.json) |
+| Space Spy | 213108 | [213108-space-spy.json](./213108-space-spy.json) |
 | Space Squad Survival | 346725 | [346725-space-squad-survival.json](./346725-space-squad-survival.json) |
 | Space Squadron | 160208 | [160208-space-squadron.json](./160208-space-squadron.json) |
 | Space Squadron | 281173 | [281173-space-squadron.json](./281173-space-squadron.json) |
@@ -25319,6 +25323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starry Moon Island: Tank Advance MP08 | 190614 | [190614-starry-moon-island-tank-advance-mp08.json](./190614-starry-moon-island-tank-advance-mp08.json) |
 | Starry Moon Island: Tank Advance MP09 | 190612 | [190612-starry-moon-island-tank-advance-mp09.json](./190612-starry-moon-island-tank-advance-mp09.json) |
 | Starry Moon Island: Tank Advance MP10 | 190615 | [190615-starry-moon-island-tank-advance-mp10.json](./190615-starry-moon-island-tank-advance-mp10.json) |
+| Starry Navigator | 213111 | [213111-starry-navigator.json](./213111-starry-navigator.json) |
 | Starry Night | 246493 | [246493-starry-night.json](./246493-starry-night.json) |
 | Starry Night | 397818 | [397818-starry-night.json](./397818-starry-night.json) |
 | Starry Nights: Helix | 30868 | [30868-starry-nights-helix.json](./30868-starry-nights-helix.json) |
@@ -32094,6 +32099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid: Less Linear Edition | 219087 | [219087-super-metroid-less-linear-edition.json](./219087-super-metroid-less-linear-edition.json) |
 | Super Metroid: Lost World | 213139 | [213139-super-metroid-lost-world.json](./213139-super-metroid-lost-world.json) |
 | Super Metroid: Map Rando | 237534 | [237534-super-metroid-map-rando.json](./237534-super-metroid-map-rando.json) |
+| Super Metroid: Nature | 213135 | [213135-super-metroid-nature.json](./213135-super-metroid-nature.json) |
 | Super Metroid: Opposition | 255372 | [255372-super-metroid-opposition.json](./255372-super-metroid-opposition.json) |
 | Super Metroid: Phazon | 42524 | [42524-super-metroid-phazon.json](./42524-super-metroid-phazon.json) |
 | Super Metroid: Polarity | 213144 | [213144-super-metroid-polarity.json](./213144-super-metroid-polarity.json) |
@@ -34195,6 +34201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survived | 126811 | [126811-survived.json](./126811-survived.json) |
 | Survived | 151052 | [151052-survived.json](./151052-survived.json) |
 | Survived By | 55218 | [55218-survived-by.json](./55218-survived-by.json) |
+| Survivers | 213118 | [213118-survivers.json](./213118-survivers.json) |
 | Survivesmith | 346628 | [346628-survivesmith.json](./346628-survivesmith.json) |
 | Survivia.io | 137536 | [137536-survivia-io.json](./137536-survivia-io.json) |
 | Surviving Ceres | 290533 | [290533-surviving-ceres.json](./290533-surviving-ceres.json) |
@@ -34202,6 +34209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving Franchise Bundle | 227093 | [227093-surviving-franchise-bundle.json](./227093-surviving-franchise-bundle.json) |
 | Surviving High School | 67148 | [67148-surviving-high-school.json](./67148-surviving-high-school.json) |
 | Surviving Hunter | 257108 | [257108-surviving-hunter.json](./257108-surviving-hunter.json) |
+| Surviving in the Wood | 213080 | [213080-surviving-in-the-wood.json](./213080-surviving-in-the-wood.json) |
 | Surviving Isolation | 384528 | [384528-surviving-isolation.json](./384528-surviving-isolation.json) |
 | Surviving Mars | 28574 | [28574-surviving-mars.json](./28574-surviving-mars.json) |
 | Surviving Mars: All New In Bundle | 227392 | [227392-surviving-mars-all-new-in-bundle.json](./227392-surviving-mars-all-new-in-bundle.json) |
