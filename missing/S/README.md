@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Gamer | 57032 | [57032-sakura-gamer.json](./57032-sakura-gamer.json) |
 | Sakura Gamer 2 | 127212 | [127212-sakura-gamer-2.json](./127212-sakura-gamer-2.json) |
 | Sakura Gozen | 391440 | [391440-sakura-gozen.json](./391440-sakura-gozen.json) |
+| Sakura Gym Girls | 237172 | [237172-sakura-gym-girls.json](./237172-sakura-gym-girls.json) |
 | Sakura Halloween | 135891 | [135891-sakura-halloween.json](./135891-sakura-halloween.json) |
 | Sakura Haven | 335012 | [335012-sakura-haven.json](./335012-sakura-haven.json) |
 | Sakura High School Love Story | 299884 | [299884-sakura-high-school-love-story.json](./299884-sakura-high-school-love-story.json) |
@@ -4246,6 +4247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seas of Fortune | 120964 | [120964-seas-of-fortune.json](./120964-seas-of-fortune.json) |
 | Seas of Kahtaone | 260300 | [260300-seas-of-kahtaone.json](./260300-seas-of-kahtaone.json) |
 | Seas of Raesenia | 351366 | [351366-seas-of-raesenia.json](./351366-seas-of-raesenia.json) |
+| Seas of Strife | 237139 | [237139-seas-of-strife.json](./237139-seas-of-strife.json) |
 | Seascape Paradiso | 304321 | [304321-seascape-paradiso.json](./304321-seascape-paradiso.json) |
 | Seashell | 195692 | [195692-seashell.json](./195692-seashell.json) |
 | Seashell Isle | 356536 | [356536-seashell-isle.json](./356536-seashell-isle.json) |
@@ -4790,6 +4792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeders Puzzle Reboot | 123411 | [123411-seeders-puzzle-reboot.json](./123411-seeders-puzzle-reboot.json) |
 | SeedHero | 342709 | [342709-seedhero.json](./342709-seedhero.json) |
 | Seeding The Wasteland | 406735 | [406735-seeding-the-wasteland.json](./406735-seeding-the-wasteland.json) |
+| Seedless Light | 237149 | [237149-seedless-light.json](./237149-seedless-light.json) |
 | Seedling | 62421 | [62421-seedling.json](./62421-seedling.json) |
 | Seedlings | 192625 | [192625-seedlings.json](./192625-seedlings.json) |
 | Seedrun | 373062 | [373062-seedrun.json](./373062-seedrun.json) |
@@ -9220,6 +9223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shores of Vaelithar | 380353 | [380353-shores-of-vaelithar.json](./380353-shores-of-vaelithar.json) |
 | Shores Unknown | 116689 | [116689-shores-unknown.json](./116689-shores-unknown.json) |
 | Shoresy: Legends of the North | 156832 | [156832-shoresy-legends-of-the-north.json](./156832-shoresy-legends-of-the-north.json) |
+| Shori Conquest | 237175 | [237175-shori-conquest.json](./237175-shori-conquest.json) |
 | Shorkie Software presents: Proto | 248964 | [248964-shorkie-software-presents-proto.json](./248964-shorkie-software-presents-proto.json) |
 | Short 'n Quick | 274203 | [274203-short-n-quick.json](./274203-short-n-quick.json) |
 | Short 'n Quick 2 | 274204 | [274204-short-n-quick-2.json](./274204-short-n-quick-2.json) |
@@ -15666,6 +15670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Battle Royale | 108973 | [108973-soccer-battle-royale.json](./108973-soccer-battle-royale.json) |
 | Soccer Battle Royale | 180476 | [180476-soccer-battle-royale.json](./180476-soccer-battle-royale.json) |
 | Soccer Battles | 170251 | [170251-soccer-battles.json](./170251-soccer-battles.json) |
+| Soccer Board | 237144 | [237144-soccer-board.json](./237144-soccer-board.json) |
 | Soccer Boss | 190209 | [190209-soccer-boss.json](./190209-soccer-boss.json) |
 | Soccer Brawl | 39843 | [39843-soccer-brawl.json](./39843-soccer-brawl.json) |
 | Soccer Bros | 325227 | [325227-soccer-bros.json](./325227-soccer-bros.json) |
@@ -15961,6 +15966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokobalien | 211129 | [211129-sokobalien.json](./211129-sokobalien.json) |
 | Sokoball of Osaka | 64679 | [64679-sokoball-of-osaka.json](./64679-sokoball-of-osaka.json) |
 | Sokoban | 19573 | [19573-sokoban.json](./19573-sokoban.json) |
+| Sokoban | 237142 | [237142-sokoban.json](./237142-sokoban.json) |
 | Sokoban | 305555 | [305555-sokoban.json](./305555-sokoban.json) |
 | Sokoban | 306039 | [306039-sokoban.json](./306039-sokoban.json) |
 | Sokoban | 328911 | [328911-sokoban.json](./328911-sokoban.json) |
@@ -16220,6 +16226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solarland | 212459 | [212459-solarland.json](./212459-solarland.json) |
 | Solarmax | 388044 | [388044-solarmax.json](./388044-solarmax.json) |
 | Solarmax III | 228132 | [228132-solarmax-iii.json](./228132-solarmax-iii.json) |
+| Solaro | 237157 | [237157-solaro.json](./237157-solaro.json) |
 | Solaroids: Prologue | 29314 | [29314-solaroids-prologue.json](./29314-solaroids-prologue.json) |
 | Solarpower | 118766 | [118766-solarpower.json](./118766-solarpower.json) |
 | Solarpunk: Failed States | 187288 | [187288-solarpunk-failed-states.json](./187288-solarpunk-failed-states.json) |
@@ -19413,6 +19420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -22799,6 +22807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spunky Dungeon | 341997 | [341997-spunky-dungeon.json](./341997-spunky-dungeon.json) |
 | Spunky: Gangster Simulator | 164993 | [164993-spunky-gangster-simulator.json](./164993-spunky-gangster-simulator.json) |
 | Spur.world | 401190 | [401190-spur-world.json](./401190-spur-world.json) |
+| Spurdo :D | 237140 | [237140-spurdo-d.json](./237140-spurdo-d.json) |
 | Sputnik | 168701 | [168701-sputnik.json](./168701-sputnik.json) |
 | Sputnik Eyes | 97757 | [97757-sputnik-eyes.json](./97757-sputnik-eyes.json) |
 | SPV3 | 125649 | [125649-spv3.json](./125649-spv3.json) |
@@ -28668,6 +28677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SUBG: Surgical Battlegrounds Multiplayer | 175039 | [175039-subg-surgical-battlegrounds-multiplayer.json](./175039-subg-surgical-battlegrounds-multiplayer.json) |
 | SubGlobal | 59725 | [59725-subglobal.json](./59725-subglobal.json) |
 | Subject | 131341 | [131341-subject.json](./131341-subject.json) |
+| Subject | 237177 | [237177-subject.json](./237177-subject.json) |
 | Subject 26 | 178497 | [178497-subject-26.json](./178497-subject-26.json) |
 | Subject 264 | 30959 | [30959-subject-264.json](./30959-subject-264.json) |
 | Subject 33 | 379313 | [379313-subject-33.json](./379313-subject-33.json) |
