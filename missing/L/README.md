@@ -2561,6 +2561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Fae | 16262 | [16262-legend-of-fae.json](./16262-legend-of-fae.json) |
 | Legend of Faerghail | 12664 | [12664-legend-of-faerghail.json](./12664-legend-of-faerghail.json) |
 | Legend of Fairies | 73814 | [73814-legend-of-fairies.json](./73814-legend-of-fairies.json) |
+| Legend of Feather | 227659 | [227659-legend-of-feather.json](./227659-legend-of-feather.json) |
 | Legend of Fighters | 62670 | [62670-legend-of-fighters.json](./62670-legend-of-fighters.json) |
 | Legend of Fighters: Duel Star | 252960 | [252960-legend-of-fighters-duel-star.json](./252960-legend-of-fighters-duel-star.json) |
 | Legend of Frog | 327576 | [327576-legend-of-frog.json](./327576-legend-of-frog.json) |
@@ -3835,6 +3836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 2022: Chinese Version | 215361 | [215361-lets-sing-2022-chinese-version.json](./215361-lets-sing-2022-chinese-version.json) |
 | Let's Sing 2022: French Version | 175978 | [175978-lets-sing-2022-french-version.json](./175978-lets-sing-2022-french-version.json) |
 | Let's Sing 2022: Platinum Edition | 185980 | [185980-lets-sing-2022-platinum-edition.json](./185980-lets-sing-2022-platinum-edition.json) |
+| Let's Sing 2023 with German Hits | 227612 | [227612-lets-sing-2023-with-german-hits.json](./227612-lets-sing-2023-with-german-hits.json) |
 | Let's Sing 2023: Best of 80's vol. 1 Song Pack | 257727 | [257727-lets-sing-2023-best-of-80s-vol-1-song-pack.json](./257727-lets-sing-2023-best-of-80s-vol-1-song-pack.json) |
 | Let's Sing 2023: Best of 80's vol. 2 Song Pack | 257729 | [257729-lets-sing-2023-best-of-80s-vol-2-song-pack.json](./257729-lets-sing-2023-best-of-80s-vol-2-song-pack.json) |
 | Let's Sing 2023: Best of 80's vol. 3 Song Pack | 257728 | [257728-lets-sing-2023-best-of-80s-vol-3-song-pack.json](./257728-lets-sing-2023-best-of-80s-vol-3-song-pack.json) |
@@ -6230,6 +6232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Witch Luana | 126647 | [126647-little-witch-luana.json](./126647-little-witch-luana.json) |
 | Little Witch Nobeta | 116781 | [116781-little-witch-nobeta.json](./116781-little-witch-nobeta.json) |
 | Little Witch Nobeta: Bunny and Bear Kigu Skin Bundle | 231674 | [231674-little-witch-nobeta-bunny-and-bear-kigu-skin-bundle.json](./231674-little-witch-nobeta-bunny-and-bear-kigu-skin-bundle.json) |
+| Little Witch Nobeta: Day One Edition | 227615 | [227615-little-witch-nobeta-day-one-edition.json](./227615-little-witch-nobeta-day-one-edition.json) |
 | Little Witch Nobeta: Limited Edition | 205259 | [205259-little-witch-nobeta-limited-edition.json](./205259-little-witch-nobeta-limited-edition.json) |
 | Little Witch Parfait: Kuronekojirushi no Mahouya-san | 124645 | [124645-little-witch-parfait-kuronekojirushi-no-mahouya-san.json](./124645-little-witch-parfait-kuronekojirushi-no-mahouya-san.json) |
 | Little Witch Reinette: Swan no Namida Rhapsody | 124646 | [124646-little-witch-reinette-swan-no-namida-rhapsody.json](./124646-little-witch-reinette-swan-no-namida-rhapsody.json) |
