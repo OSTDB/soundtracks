@@ -3179,6 +3179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate's Masquerade | 334310 | [334310-fates-masquerade.json](./334310-fates-masquerade.json) |
 | Fate's Reflection Tthe Case of Detective Kotomu | 348793 | [348793-fates-reflection-tthe-case-of-detective-kotomu.json](./348793-fates-reflection-tthe-case-of-detective-kotomu.json) |
 | Fate's Ultimatum for Destiny | 364854 | [364854-fates-ultimatum-for-destiny.json](./364854-fates-ultimatum-for-destiny.json) |
+| Fate/Empire of Dirt | 232783 | [232783-fate-empire-of-dirt.json](./232783-fate-empire-of-dirt.json) |
 | Fate/Empire of Dirt: Made in Heaven | 382874 | [382874-fate-empire-of-dirt-made-in-heaven.json](./382874-fate-empire-of-dirt-made-in-heaven.json) |
 | Fate/Extella Link | 55137 | [55137-fate-extella-link.json](./55137-fate-extella-link.json) |
 | Fate/Extella Link: Digital Deluxe Edition | 119067 | [119067-fate-extella-link-digital-deluxe-edition.json](./119067-fate-extella-link-digital-deluxe-edition.json) |
@@ -7128,6 +7129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flagi | 215574 | [215574-flagi.json](./215574-flagi.json) |
 | Flagle | 246245 | [246245-flagle.json](./246245-flagle.json) |
 | Flagle | 246246 | [246246-flagle.json](./246246-flagle.json) |
+| Flagman | 232792 | [232792-flagman.json](./232792-flagman.json) |
 | Flagman | 76972 | [76972-flagman.json](./76972-flagman.json) |
 | Flags For Friends | 177882 | [177882-flags-for-friends.json](./177882-flags-for-friends.json) |
 | Flagship | 61563 | [61563-flagship.json](./61563-flagship.json) |
