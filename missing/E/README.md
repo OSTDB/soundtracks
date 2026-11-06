@@ -2747,6 +2747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elodya | 271087 | [271087-elodya.json](./271087-elodya.json) |
 | Elohim Eternal: Exodus | 339741 | [339741-elohim-eternal-exodus.json](./339741-elohim-eternal-exodus.json) |
 | Elohim Eternal: The Babel Code | 190358 | [190358-elohim-eternal-the-babel-code.json](./190358-elohim-eternal-the-babel-code.json) |
+| Elon | 193572 | [193572-elon.json](./193572-elon.json) |
 | Elon and Friends: Easter Pack | 340737 | [340737-elon-and-friends-easter-pack.json](./340737-elon-and-friends-easter-pack.json) |
 | Elon and the Divine Proof | 326066 | [326066-elon-and-the-divine-proof.json](./326066-elon-and-the-divine-proof.json) |
 | Elon Musk Simulator 2 | 111886 | [111886-elon-musk-simulator-2.json](./111886-elon-musk-simulator-2.json) |
@@ -4739,6 +4740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ER | 69779 | [69779-er.json](./69779-er.json) |
 | Er-Spectro | 81769 | [81769-er-spectro.json](./81769-er-spectro.json) |
 | Era | 83940 | [83940-era.json](./83940-era.json) |
+| Era Dream Chapter: I | 193566 | [193566-era-dream-chapter-i.json](./193566-era-dream-chapter-i.json) |
 | Era of Celestials | 106899 | [106899-era-of-celestials.json](./106899-era-of-celestials.json) |
 | Era of Combat: Boxing | 189055 | [189055-era-of-combat-boxing.json](./189055-era-of-combat-boxing.json) |
 | Era of Darkness | 287735 | [287735-era-of-darkness.json](./287735-era-of-darkness.json) |
