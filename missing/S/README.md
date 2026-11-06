@@ -1406,6 +1406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Sword Stage | 236784 | [236784-samurai-sword-stage.json](./236784-samurai-sword-stage.json) |
 | Samurai Sword VR | 27699 | [27699-samurai-sword-vr.json](./27699-samurai-sword-vr.json) |
 | Samurai Tactics | 187744 | [187744-samurai-tactics.json](./187744-samurai-tactics.json) |
+| Samurai Tiger | 207973 | [207973-samurai-tiger.json](./207973-samurai-tiger.json) |
 | Samurai Trilogy | 37177 | [37177-samurai-trilogy.json](./37177-samurai-trilogy.json) |
 | Samurai Unicorn | 218856 | [218856-samurai-unicorn.json](./218856-samurai-unicorn.json) |
 | Samurai VR | 251758 | [251758-samurai-vr.json](./251758-samurai-vr.json) |
@@ -14924,6 +14925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakes and Ladders Championship | 349810 | [349810-snakes-and-ladders-championship.json](./349810-snakes-and-ladders-championship.json) |
 | Snakes and Ladders Game | 108721 | [108721-snakes-and-ladders-game.json](./108721-snakes-and-ladders-game.json) |
 | Snakes and Ladders NoLimits | 232285 | [232285-snakes-and-ladders-nolimits.json](./232285-snakes-and-ladders-nolimits.json) |
+| Snakes and Ladders!! | 207984 | [207984-snakes-and-ladders.json](./207984-snakes-and-ladders.json) |
 | Snakes in Hibernation | 396205 | [396205-snakes-in-hibernation.json](./396205-snakes-in-hibernation.json) |
 | Snakes LTD | 265921 | [265921-snakes-ltd.json](./265921-snakes-ltd.json) |
 | Snakes LTD VR | 264010 | [264010-snakes-ltd-vr.json](./264010-snakes-ltd-vr.json) |
@@ -19271,6 +19273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Colony HD | 51901 | [51901-space-colony-hd.json](./51901-space-colony-hd.json) |
 | Space Combat | 294265 | [294265-space-combat.json](./294265-space-combat.json) |
 | Space Combat | 70197 | [70197-space-combat.json](./70197-space-combat.json) |
+| Space Combat Simulator | 207972 | [207972-space-combat-simulator.json](./207972-space-combat-simulator.json) |
 | Space Combat Simulator | 292677 | [292677-space-combat-simulator.json](./292677-space-combat-simulator.json) |
 | Space Combat: Galaxy Wars | 255726 | [255726-space-combat-galaxy-wars.json](./255726-space-combat-galaxy-wars.json) |
 | Space Command Battleship | 262071 | [262071-space-command-battleship.json](./262071-space-command-battleship.json) |
@@ -19572,6 +19575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -24015,6 +24019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Gun | 348780 | [348780-star-gun.json](./348780-star-gun.json) |
 | Star Gun | 365838 | [365838-star-gun.json](./365838-star-gun.json) |
 | Star gunner | 40795 | [40795-star-gunner.json](./40795-star-gunner.json) |
+| Star Gunner AR | 207971 | [207971-star-gunner-ar.json](./207971-star-gunner-ar.json) |
 | Star Hacker | 197364 | [197364-star-hacker.json](./197364-star-hacker.json) |
 | Star Hammer Tactics | 52860 | [52860-star-hammer-tactics.json](./52860-star-hammer-tactics.json) |
 | Star Hammer: The Vanguard Prophecy | 36049 | [36049-star-hammer-the-vanguard-prophecy.json](./36049-star-hammer-the-vanguard-prophecy.json) |
@@ -27658,6 +27663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stratos | 125700 | [125700-stratos.json](./125700-stratos.json) |
 | Stratos | 24896 | [24896-stratos.json](./24896-stratos.json) |
 | Stratoscape | 126944 | [126944-stratoscape.json](./126944-stratoscape.json) |
+| Stratosfall | 207980 | [207980-stratosfall.json](./207980-stratosfall.json) |
 | Stratoskirmish | 234582 | [234582-stratoskirmish.json](./234582-stratoskirmish.json) |
 | Stratosphere Defense | 197856 | [197856-stratosphere-defense.json](./197856-stratosphere-defense.json) |
 | Stratosphere Fight | 253702 | [253702-stratosphere-fight.json](./253702-stratosphere-fight.json) |
@@ -33064,6 +33070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Stardust Portable | 234021 | [234021-super-stardust-portable.json](./234021-super-stardust-portable.json) |
 | Super Stardust Ultra VR | 24982 | [24982-super-stardust-ultra-vr.json](./24982-super-stardust-ultra-vr.json) |
 | Super Starfish | 105423 | [105423-super-starfish.json](./105423-super-starfish.json) |
+| Super Starship 3 | 207974 | [207974-super-starship-3.json](./207974-super-starship-3.json) |
 | Super Stay Out of the House | 251478 | [251478-super-stay-out-of-the-house.json](./251478-super-stay-out-of-the-house.json) |
 | Super Stealball | 67083 | [67083-super-stealball.json](./67083-super-stealball.json) |
 | Super SteamPuff | 22382 | [22382-super-steampuff.json](./22382-super-steampuff.json) |
