@@ -4873,6 +4873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris | 215386 | [215386-tetris.json](./215386-tetris.json) |
 | Tetris | 215387 | [215387-tetris.json](./215387-tetris.json) |
 | Tetris | 221969 | [221969-tetris.json](./221969-tetris.json) |
+| Tetris | 236647 | [236647-tetris.json](./236647-tetris.json) |
 | Tetris | 241151 | [241151-tetris.json](./241151-tetris.json) |
 | Tetris | 241761 | [241761-tetris.json](./241761-tetris.json) |
 | Tetris | 270420 | [270420-tetris.json](./270420-tetris.json) |
@@ -10559,6 +10560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hidden Game Society | 150254 | [150254-the-hidden-game-society.json](./150254-the-hidden-game-society.json) |
 | The Hidden Ghost | 195483 | [195483-the-hidden-ghost.json](./195483-the-hidden-ghost.json) |
 | The Hidden Object Collection | 146730 | [146730-the-hidden-object-collection.json](./146730-the-hidden-object-collection.json) |
+| The Hidden Object Guru | 236629 | [236629-the-hidden-object-guru.json](./236629-the-hidden-object-guru.json) |
 | The Hidden Object Mystery Game | 97047 | [97047-the-hidden-object-mystery-game.json](./97047-the-hidden-object-mystery-game.json) |
 | The Hidden Object Show | 53744 | [53744-the-hidden-object-show.json](./53744-the-hidden-object-show.json) |
 | The Hidden Object Show Seasons 1 & 2 | 207010 | [207010-the-hidden-object-show-seasons-1-and-2.json](./207010-the-hidden-object-show-seasons-1-and-2.json) |
@@ -15283,6 +15285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Recurrence | 289968 | [289968-the-recurrence.json](./289968-the-recurrence.json) |
 | The Recursive Dollhouse | 176918 | [176918-the-recursive-dollhouse.json](./176918-the-recursive-dollhouse.json) |
 | The Red | 249030 | [249030-the-red.json](./249030-the-red.json) |
+| The Red Abyss: Deep Below | 236639 | [236639-the-red-abyss-deep-below.json](./236639-the-red-abyss-deep-below.json) |
 | The Red Baron | 111660 | [111660-the-red-baron.json](./111660-the-red-baron.json) |
 | The Red Bell’s Lament | 276734 | [276734-the-red-bell-s-lament.json](./276734-the-red-bell-s-lament.json) |
 | The Red Beret | 278948 | [278948-the-red-beret.json](./278948-the-red-beret.json) |
@@ -25799,7 +25802,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totem 2 | 204851 | [204851-totem-2.json](./204851-totem-2.json) |
 | Totem City | 124017 | [124017-totem-city.json](./124017-totem-city.json) |
 | Totem Clash | 338956 | [338956-totem-clash.json](./338956-totem-clash.json) |
+| Totem Destroyer | 236634 | [236634-totem-destroyer.json](./236634-totem-destroyer.json) |
 | Totem Destroyer | 250715 | [250715-totem-destroyer.json](./250715-totem-destroyer.json) |
+| Totem Destroyer 2 | 236611 | [236611-totem-destroyer-2.json](./236611-totem-destroyer-2.json) |
 | Totem Force | 115983 | [115983-totem-force.json](./115983-totem-force.json) |
 | Totem Runner | 64391 | [64391-totem-runner.json](./64391-totem-runner.json) |
 | Totem Smash | 344235 | [344235-totem-smash.json](./344235-totem-smash.json) |
