@@ -100,11 +100,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zac's Batting Academy | 234595 | [234595-zacs-batting-academy.json](./234595-zacs-batting-academy.json) |
 | Zaccaria Pinball | 33463 | [33463-zaccaria-pinball.json](./33463-zaccaria-pinball.json) |
 | Zaccaria Pinball: 40 Retro Tables | 158496 | [158496-zaccaria-pinball-40-retro-tables.json](./158496-zaccaria-pinball-40-retro-tables.json) |
+| Zaccaria Pinball: Achievement Table Pack | 224377 | [224377-zaccaria-pinball-achievement-table-pack.json](./224377-zaccaria-pinball-achievement-table-pack.json) |
 | Zaccaria Pinball: Aerobatics Table | 158490 | [158490-zaccaria-pinball-aerobatics-table.json](./158490-zaccaria-pinball-aerobatics-table.json) |
 | Zaccaria Pinball: Blackbelt 2018 Table | 158475 | [158475-zaccaria-pinball-blackbelt-2018-table.json](./158475-zaccaria-pinball-blackbelt-2018-table.json) |
 | Zaccaria Pinball: Blackbelt Deluxe Pinball Table | 349924 | [349924-zaccaria-pinball-blackbelt-deluxe-pinball-table.json](./349924-zaccaria-pinball-blackbelt-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Blackbelt Table | 158494 | [158494-zaccaria-pinball-blackbelt-table.json](./158494-zaccaria-pinball-blackbelt-table.json) |
 | Zaccaria Pinball: Blood West Table Pack | 395458 | [395458-zaccaria-pinball-blood-west-table-pack.json](./395458-zaccaria-pinball-blood-west-table-pack.json) |
+| Zaccaria Pinball: Bronze Pack | 224378 | [224378-zaccaria-pinball-bronze-pack.json](./224378-zaccaria-pinball-bronze-pack.json) |
 | Zaccaria Pinball: Chernobylite Table Pack | 395457 | [395457-zaccaria-pinball-chernobylite-table-pack.json](./395457-zaccaria-pinball-chernobylite-table-pack.json) |
 | Zaccaria Pinball: Cine Star Deluxe Pinball Table | 158478 | [158478-zaccaria-pinball-cine-star-deluxe-pinball-table.json](./158478-zaccaria-pinball-cine-star-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Cine Star Table | 158486 | [158486-zaccaria-pinball-cine-star-table.json](./158486-zaccaria-pinball-cine-star-table.json) |
@@ -1465,8 +1467,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Army 4: Dead War - American Sea Captain Character | 155454 | [155454-zombie-army-4-dead-war-american-sea-captain-character.json](./155454-zombie-army-4-dead-war-american-sea-captain-character.json) |
 | Zombie Army 4: Dead War - Deluxe Edition | 129784 | [129784-zombie-army-4-dead-war-deluxe-edition.json](./129784-zombie-army-4-dead-war-deluxe-edition.json) |
 | Zombie Army 4: Dead War - French Resistance Fighter Character | 155452 | [155452-zombie-army-4-dead-war-french-resistance-fighter-character.json](./155452-zombie-army-4-dead-war-french-resistance-fighter-character.json) |
+| Zombie Army 4: Dead War - Horror Headgear Pack | 224386 | [224386-zombie-army-4-dead-war-horror-headgear-pack.json](./224386-zombie-army-4-dead-war-horror-headgear-pack.json) |
+| Zombie Army 4: Dead War - Lee No. 4 Bolt-Action Rifle Bundle | 224369 | [224369-zombie-army-4-dead-war-lee-no-4-bolt-action-rifle-bundle.json](./224369-zombie-army-4-dead-war-lee-no-4-bolt-action-rifle-bundle.json) |
 | Zombie Army 4: Dead War - Left 4 Dead Bundle | 199894 | [199894-zombie-army-4-dead-war-left-4-dead-bundle.json](./199894-zombie-army-4-dead-war-left-4-dead-bundle.json) |
 | Zombie Army 4: Dead War - Left 4 Dead Character Pack 1 | 155449 | [155449-zombie-army-4-dead-war-left-4-dead-character-pack-1.json](./155449-zombie-army-4-dead-war-left-4-dead-character-pack-1.json) |
+| Zombie Army 4: Dead War - Left 4 Dead Character Pack 2 | 224370 | [224370-zombie-army-4-dead-war-left-4-dead-character-pack-2.json](./224370-zombie-army-4-dead-war-left-4-dead-character-pack-2.json) |
+| Zombie Army 4: Dead War - M1903 Springfield Rifle Bundle | 224376 | [224376-zombie-army-4-dead-war-m1903-springfield-rifle-bundle.json](./224376-zombie-army-4-dead-war-m1903-springfield-rifle-bundle.json) |
+| Zombie Army 4: Dead War - M1934 Pistol Bundle | 224371 | [224371-zombie-army-4-dead-war-m1934-pistol-bundle.json](./224371-zombie-army-4-dead-war-m1934-pistol-bundle.json) |
 | Zombie Army 4: Dead War - Mission 1: Terror Lab | 141055 | [141055-zombie-army-4-dead-war-mission-1-terror-lab.json](./141055-zombie-army-4-dead-war-mission-1-terror-lab.json) |
 | Zombie Army 4: Dead War - Mission 2: Blood Count | 133936 | [133936-zombie-army-4-dead-war-mission-2-blood-count.json](./133936-zombie-army-4-dead-war-mission-2-blood-count.json) |
 | Zombie Army 4: Dead War - Mission 3: Deeper than Hell | 141056 | [141056-zombie-army-4-dead-war-mission-3-deeper-than-hell.json](./141056-zombie-army-4-dead-war-mission-3-deeper-than-hell.json) |
@@ -1477,12 +1484,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Army 4: Dead War - Mission 8: Abaddon Asylum | 154774 | [154774-zombie-army-4-dead-war-mission-8-abaddon-asylum.json](./154774-zombie-army-4-dead-war-mission-8-abaddon-asylum.json) |
 | Zombie Army 4: Dead War - Mission 9: Return to Hell | 162621 | [162621-zombie-army-4-dead-war-mission-9-return-to-hell.json](./162621-zombie-army-4-dead-war-mission-9-return-to-hell.json) |
 | Zombie Army 4: Dead War - Mission 9: Return to Hell | 163352 | [163352-zombie-army-4-dead-war-mission-9-return-to-hell.json](./163352-zombie-army-4-dead-war-mission-9-return-to-hell.json) |
+| Zombie Army 4: Dead War - Mortar Shotgun Bundle | 224372 | [224372-zombie-army-4-dead-war-mortar-shotgun-bundle.json](./224372-zombie-army-4-dead-war-mortar-shotgun-bundle.json) |
+| Zombie Army 4: Dead War - Nagant M1895 Pistol Bundle | 224373 | [224373-zombie-army-4-dead-war-nagant-m1895-pistol-bundle.json](./224373-zombie-army-4-dead-war-nagant-m1895-pistol-bundle.json) |
 | Zombie Army 4: Dead War - Paratrooper Zombie Character | 155451 | [155451-zombie-army-4-dead-war-paratrooper-zombie-character.json](./155451-zombie-army-4-dead-war-paratrooper-zombie-character.json) |
+| Zombie Army 4: Dead War - PPSH Submachine Gun Bundle | 224374 | [224374-zombie-army-4-dead-war-ppsh-submachine-gun-bundle.json](./224374-zombie-army-4-dead-war-ppsh-submachine-gun-bundle.json) |
 | Zombie Army 4: Dead War - Ragnarök | 200437 | [200437-zombie-army-4-dead-war-ragnarok.json](./200437-zombie-army-4-dead-war-ragnarok.json) |
 | Zombie Army 4: Dead War - Ragnarök Campaign & Character Pack | 201579 | [201579-zombie-army-4-dead-war-ragnarok-campaign-and-character-pack.json](./201579-zombie-army-4-dead-war-ragnarok-campaign-and-character-pack.json) |
 | Zombie Army 4: Dead War - Renegade Officer Character | 155453 | [155453-zombie-army-4-dead-war-renegade-officer-character.json](./155453-zombie-army-4-dead-war-renegade-officer-character.json) |
+| Zombie Army 4: Dead War - Repeater Rifle Bundle | 224375 | [224375-zombie-army-4-dead-war-repeater-rifle-bundle.json](./224375-zombie-army-4-dead-war-repeater-rifle-bundle.json) |
+| Zombie Army 4: Dead War - Sten MK2 SMG Bundle | 224368 | [224368-zombie-army-4-dead-war-sten-mk2-smg-bundle.json](./224368-zombie-army-4-dead-war-sten-mk2-smg-bundle.json) |
+| Zombie Army 4: Dead War - Strange Brigade Headgear Pack | 224367 | [224367-zombie-army-4-dead-war-strange-brigade-headgear-pack.json](./224367-zombie-army-4-dead-war-strange-brigade-headgear-pack.json) |
 | Zombie Army 4: Dead War - Super Deluxe Edition | 129783 | [129783-zombie-army-4-dead-war-super-deluxe-edition.json](./129783-zombie-army-4-dead-war-super-deluxe-edition.json) |
+| Zombie Army 4: Dead War - SVT-38 Rifle Bundle | 224366 | [224366-zombie-army-4-dead-war-svt-38-rifle-bundle.json](./224366-zombie-army-4-dead-war-svt-38-rifle-bundle.json) |
 | Zombie Army 4: Dead War - Undead Airman Character | 155450 | [155450-zombie-army-4-dead-war-undead-airman-character.json](./155450-zombie-army-4-dead-war-undead-airman-character.json) |
+| Zombie Army 4: Dead War - Wehrmacht P08 Pistol Bundle | 224365 | [224365-zombie-army-4-dead-war-wehrmacht-p08-pistol-bundle.json](./224365-zombie-army-4-dead-war-wehrmacht-p08-pistol-bundle.json) |
+| Zombie Army 4: Dead War - WWII Headgear Pack | 224364 | [224364-zombie-army-4-dead-war-wwii-headgear-pack.json](./224364-zombie-army-4-dead-war-wwii-headgear-pack.json) |
+| Zombie Army 4: Dead War - Zombie Headgear Pack | 224363 | [224363-zombie-army-4-dead-war-zombie-headgear-pack.json](./224363-zombie-army-4-dead-war-zombie-headgear-pack.json) |
 | Zombie Army Trilogy | 20871 | [20871-zombie-army-trilogy.json](./20871-zombie-army-trilogy.json) |
 | Zombie Army VR | 288444 | [288444-zombie-army-vr.json](./288444-zombie-army-vr.json) |
 | Zombie Assault: Resurgence | 392214 | [392214-zombie-assault-resurgence.json](./392214-zombie-assault-resurgence.json) |
@@ -1594,6 +1611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Drift | 149521 | [149521-zombie-drift.json](./149521-zombie-drift.json) |
 | Zombie Driver | 20668 | [20668-zombie-driver.json](./20668-zombie-driver.json) |
 | Zombie Driver HD | 9051 | [9051-zombie-driver-hd.json](./9051-zombie-driver-hd.json) |
+| Zombie Driver HD: Apocalypse Pack | 224387 | [224387-zombie-driver-hd-apocalypse-pack.json](./224387-zombie-driver-hd-apocalypse-pack.json) |
 | Zombie Driver HD: Burning Garden of Slaughter | 156206 | [156206-zombie-driver-hd-burning-garden-of-slaughter.json](./156206-zombie-driver-hd-burning-garden-of-slaughter.json) |
 | Zombie Driver: Immortal Edition | 120268 | [120268-zombie-driver-immortal-edition.json](./120268-zombie-driver-immortal-edition.json) |
 | Zombie Driver: Ultimate Edition | 20229 | [20229-zombie-driver-ultimate-edition.json](./20229-zombie-driver-ultimate-edition.json) |
