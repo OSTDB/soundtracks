@@ -3338,6 +3338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teen Titans Battle Blitz | 144130 | [144130-teen-titans-battle-blitz.json](./144130-teen-titans-battle-blitz.json) |
 | Teen Titans Go! Arcade | 59358 | [59358-teen-titans-go-arcade.json](./59358-teen-titans-go-arcade.json) |
 | Teen Titans Go! Drillionaire | 204194 | [204194-teen-titans-go-drillionaire.json](./204194-teen-titans-go-drillionaire.json) |
+| Teen Titans: Calling All Titans | 210351 | [210351-teen-titans-calling-all-titans.json](./210351-teen-titans-calling-all-titans.json) |
 | Teen Witches Academy | 207163 | [207163-teen-witches-academy.json](./207163-teen-witches-academy.json) |
 | Teenage Blob | 135438 | [135438-teenage-blob.json](./135438-teenage-blob.json) |
 | Teenage Blob: Paperperson - The First Single | 170868 | [170868-teenage-blob-paperperson-the-first-single.json](./170868-teenage-blob-paperperson-the-first-single.json) |
@@ -9138,6 +9139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fairly OddParents Wishology: Chapter 1 - The Chosen One! | 395745 | [395745-the-fairly-oddparents-wishology-chapter-1-the-chosen-one.json](./395745-the-fairly-oddparents-wishology-chapter-1-the-chosen-one.json) |
 | The Fairly OddParents Wishology: Chapter 2 - The Darkness' Revenge! | 395747 | [395747-the-fairly-oddparents-wishology-chapter-2-the-darkness-revenge.json](./395747-the-fairly-oddparents-wishology-chapter-2-the-darkness-revenge.json) |
 | The Fairly OddParents Wishology: Chapter 3 - The Return of the Chosen One! | 395749 | [395749-the-fairly-oddparents-wishology-chapter-3-the-return-of-the-chosen-one.json](./395749-the-fairly-oddparents-wishology-chapter-3-the-return-of-the-chosen-one.json) |
+| The Fairly OddParents: Battle of the Futurebots | 210350 | [210350-the-fairly-oddparents-battle-of-the-futurebots.json](./210350-the-fairly-oddparents-battle-of-the-futurebots.json) |
 | The Fairly OddParents: Big Superhero Wish | 321804 | [321804-the-fairly-oddparents-big-superhero-wish.json](./321804-the-fairly-oddparents-big-superhero-wish.json) |
 | The Fairly OddParents: Breakin' da Rules | 243198 | [243198-the-fairly-oddparents-breakin-da-rules.json](./243198-the-fairly-oddparents-breakin-da-rules.json) |
 | The Fairly OddParents: Breakin' da Rules | 332195 | [332195-the-fairly-oddparents-breakin-da-rules.json](./332195-the-fairly-oddparents-breakin-da-rules.json) |
@@ -12751,6 +12753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: The Hunter's Song | 327776 | [327776-the-legend-of-zelda-the-hunters-song.json](./327776-the-legend-of-zelda-the-hunters-song.json) |
 | The Legend of Zelda: The Hylian Frontier | 324002 | [324002-the-legend-of-zelda-the-hylian-frontier.json](./324002-the-legend-of-zelda-the-hylian-frontier.json) |
 | The Legend of Zelda: The Hylian Phoenix | 324012 | [324012-the-legend-of-zelda-the-hylian-phoenix.json](./324012-the-legend-of-zelda-the-hylian-phoenix.json) |
+| The Legend of Zelda: The Lampshade of No Real Significance | 210328 | [210328-the-legend-of-zelda-the-lampshade-of-no-real-significance.json](./210328-the-legend-of-zelda-the-lampshade-of-no-real-significance.json) |
 | The Legend of Zelda: The Mini Quest | 275620 | [275620-the-legend-of-zelda-the-mini-quest.json](./275620-the-legend-of-zelda-the-mini-quest.json) |
 | The Legend of Zelda: The Minish Cap Randomizer | 288697 | [288697-the-legend-of-zelda-the-minish-cap-randomizer.json](./288697-the-legend-of-zelda-the-minish-cap-randomizer.json) |
 | The Legend of Zelda: The Missing Link | 136392 | [136392-the-legend-of-zelda-the-missing-link.json](./136392-the-legend-of-zelda-the-missing-link.json) |
@@ -18878,6 +18881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wind and the Wisp | 359994 | [359994-the-wind-and-the-wisp.json](./359994-the-wind-and-the-wisp.json) |
 | The Wind and Wilting Blossom | 121773 | [121773-the-wind-and-wilting-blossom.json](./121773-the-wind-and-wilting-blossom.json) |
 | The Wind Road | 103314 | [103314-the-wind-road.json](./103314-the-wind-road.json) |
+| The Wind Waker Rewritten | 210340 | [210340-the-wind-waker-rewritten.json](./210340-the-wind-waker-rewritten.json) |
 | The Wind: A Story of Surrender | 152838 | [152838-the-wind-a-story-of-surrender.json](./152838-the-wind-a-story-of-surrender.json) |
 | The Wind's Disciple | 265935 | [265935-the-winds-disciple.json](./265935-the-winds-disciple.json) |
 | The Wind's Path | 333078 | [333078-the-winds-path.json](./333078-the-winds-path.json) |
@@ -30826,6 +30830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Breakout | 56195 | [56195-triple-breakout.json](./56195-triple-breakout.json) |
 | Triple Bubble | 307579 | [307579-triple-bubble.json](./307579-triple-bubble.json) |
 | Triple Canopy no Majo | 235936 | [235936-triple-canopy-no-majo.json](./235936-triple-canopy-no-majo.json) |
+| Triple Comando | 210352 | [210352-triple-comando.json](./210352-triple-comando.json) |
 | Triple Command | 42158 | [42158-triple-command.json](./42158-triple-command.json) |
 | Triple Crown Championship Snowboarding | 50732 | [50732-triple-crown-championship-snowboarding.json](./50732-triple-crown-championship-snowboarding.json) |
 | Triple Dungeon | 157476 | [157476-triple-dungeon.json](./157476-triple-dungeon.json) |
