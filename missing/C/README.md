@@ -18838,6 +18838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Rider | 160210 | [160210-crystal-rider.json](./160210-crystal-rider.json) |
 | Crystal Riders VR | 236393 | [236393-crystal-riders-vr.json](./236393-crystal-riders-vr.json) |
 | Crystal Rift | 15198 | [15198-crystal-rift.json](./15198-crystal-rift.json) |
+| Crystal Road: Vale of Memories | 193568 | [193568-crystal-road-vale-of-memories.json](./193568-crystal-road-vale-of-memories.json) |
 | Crystal Saga: Origins | 46945 | [46945-crystal-saga-origins.json](./46945-crystal-saga-origins.json) |
 | Crystal Sequence | 151015 | [151015-crystal-sequence.json](./151015-crystal-sequence.json) |
 | Crystal Shard Adventure Bundle | 30646 | [30646-crystal-shard-adventure-bundle.json](./30646-crystal-shard-adventure-bundle.json) |
