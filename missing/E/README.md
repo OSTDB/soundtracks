@@ -1733,6 +1733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eigenstate | 176470 | [176470-eigenstate.json](./176470-eigenstate.json) |
 | Eigenstate | 426437 | [426437-eigenstate.json](./426437-eigenstate.json) |
 | Eight | 163756 | [163756-eight.json](./163756-eight.json) |
+| Eight | 229446 | [229446-eight.json](./229446-eight.json) |
 | Eight Ball | 93592 | [93592-eight-ball.json](./93592-eight-ball.json) |
 | Eight Balls | 263814 | [263814-eight-balls.json](./263814-eight-balls.json) |
 | Eight Characters, a Number, and a Happy Ending | 57507 | [57507-eight-characters-a-number-and-a-happy-ending.json](./57507-eight-characters-a-number-and-a-happy-ending.json) |
@@ -8188,6 +8189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Warfare Revenge | 76605 | [76605-extreme-warfare-revenge.json](./76605-extreme-warfare-revenge.json) |
 | Extreme Watersports | 73179 | [73179-extreme-watersports.json](./73179-extreme-watersports.json) |
 | Extreme Winter Sports | 62244 | [62244-extreme-winter-sports.json](./62244-extreme-winter-sports.json) |
+| Extreme Wrestling | 229473 | [229473-extreme-wrestling.json](./229473-extreme-wrestling.json) |
 | Extreme-G 3 | 4580 | [4580-extreme-g-3.json](./4580-extreme-g-3.json) |
 | Extreme: Rise of the Triad | 9980 | [9980-extreme-rise-of-the-triad.json](./9980-extreme-rise-of-the-triad.json) |
 | Extreme! 2-Choice Flag Quiz | 343719 | [343719-extreme-2-choice-flag-quiz.json](./343719-extreme-2-choice-flag-quiz.json) |
