@@ -4549,6 +4549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare in San Vicente | 419786 | [419786-nightmare-in-san-vicente.json](./419786-nightmare-in-san-vicente.json) |
 | Nightmare in Squidville | 255627 | [255627-nightmare-in-squidville.json](./255627-nightmare-in-squidville.json) |
 | Nightmare in the Dark | 40992 | [40992-nightmare-in-the-dark.json](./40992-nightmare-in-the-dark.json) |
+| Nightmare Inside | 227610 | [227610-nightmare-inside.json](./227610-nightmare-inside.json) |
 | Nightmare Invasion | 352749 | [352749-nightmare-invasion.json](./352749-nightmare-invasion.json) |
 | Nightmare Journey | 331056 | [331056-nightmare-journey.json](./331056-nightmare-journey.json) |
 | Nightmare Journey 1135 | 402555 | [402555-nightmare-journey-1135.json](./402555-nightmare-journey-1135.json) |
@@ -7408,6 +7409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Null: Remastered | 392719 | [392719-null-remastered.json](./392719-null-remastered.json) |
 | Null.Process | 358844 | [358844-null-process.json](./358844-null-process.json) |
 | Nulla Via | 390023 | [390023-nulla-via.json](./390023-nulla-via.json) |
+| NullCat | 227644 | [227644-nullcat.json](./227644-nullcat.json) |
 | Nullis | 391314 | [391314-nullis.json](./391314-nullis.json) |
 | Nullmaze | 158415 | [158415-nullmaze.json](./158415-nullmaze.json) |
 | Nullpoint Crisis | 362744 | [362744-nullpoint-crisis.json](./362744-nullpoint-crisis.json) |
