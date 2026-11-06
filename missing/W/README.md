@@ -2913,6 +2913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We're Here, Papa | 410922 | [410922-were-here-papa.json](./410922-were-here-papa.json) |
 | We're in the Same Boat | 399704 | [399704-were-in-the-same-boat.json](./399704-were-in-the-same-boat.json) |
 | We’re In Trouble | 405340 | [405340-we-re-in-trouble.json](./405340-we-re-in-trouble.json) |
+| We're Party Together! | 237145 | [237145-were-party-together.json](./237145-were-party-together.json) |
 | We're Tethered Together | 269195 | [269195-were-tethered-together.json](./269195-were-tethered-together.json) |
 | We'reWolves | 270645 | [270645-werewolves.json](./270645-werewolves.json) |
 | Weable | 54467 | [54467-weable.json](./54467-weable.json) |
