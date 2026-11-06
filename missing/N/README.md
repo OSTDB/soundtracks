@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Museum Remix | 5047 | [5047-namco-museum-remix.json](./5047-namco-museum-remix.json) |
 | Namco Museum Virtual Arcade | 7097 | [7097-namco-museum-virtual-arcade.json](./7097-namco-museum-virtual-arcade.json) |
 | Namco Museum Vol. 1 | 20611 | [20611-namco-museum-vol-1.json](./20611-namco-museum-vol-1.json) |
+| Namco Museum Vol. 1 | 229451 | [229451-namco-museum-vol-1.json](./229451-namco-museum-vol-1.json) |
 | Namco Museum Vol. 2 | 20259 | [20259-namco-museum-vol-2.json](./20259-namco-museum-vol-2.json) |
 | Namco Museum Vol. 3 | 20613 | [20613-namco-museum-vol-3.json](./20613-namco-museum-vol-3.json) |
 | Namco Museum Vol. 4 | 39934 | [39934-namco-museum-vol-4.json](./39934-namco-museum-vol-4.json) |
@@ -4508,6 +4509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Cafe VII | 339177 | [339177-nightmare-cafe-vii.json](./339177-nightmare-cafe-vii.json) |
 | Nightmare Cafe VIII | 339178 | [339178-nightmare-cafe-viii.json](./339178-nightmare-cafe-viii.json) |
 | Nightmare Cafe X | 339180 | [339180-nightmare-cafe-x.json](./339180-nightmare-cafe-x.json) |
+| Nightmare Castle | 229428 | [229428-nightmare-castle.json](./229428-nightmare-castle.json) |
 | Nightmare Cave | 121964 | [121964-nightmare-cave.json](./121964-nightmare-cave.json) |
 | Nightmare Circus | 327111 | [327111-nightmare-circus.json](./327111-nightmare-circus.json) |
 | Nightmare Class Project | 390137 | [390137-nightmare-class-project.json](./390137-nightmare-class-project.json) |
