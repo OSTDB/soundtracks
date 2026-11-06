@@ -903,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Machines: Tanks Battle Game | 260867 | [260867-war-machines-tanks-battle-game.json](./260867-war-machines-tanks-battle-game.json) |
 | War Mahjong | 254405 | [254405-war-mahjong.json](./254405-war-mahjong.json) |
 | War Maze | 272712 | [272712-war-maze.json](./272712-war-maze.json) |
+| War Mines Collection | 199182 | [199182-war-mines-collection.json](./199182-war-mines-collection.json) |
 | War Mines: WW1 | 152721 | [152721-war-mines-ww1.json](./152721-war-mines-ww1.json) |
 | War Mongrels | 138062 | [138062-war-mongrels.json](./138062-war-mongrels.json) |
 | War Mongrels: Renegade Edition | 243864 | [243864-war-mongrels-renegade-edition.json](./243864-war-mongrels-renegade-edition.json) |
