@@ -4690,6 +4690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Wonders 4: Empires & Ashes | 259051 | [259051-age-of-wonders-4-empires-and-ashes.json](./259051-age-of-wonders-4-empires-and-ashes.json) |
 | Age of Wonders 4: Expansion Pass | 293731 | [293731-age-of-wonders-4-expansion-pass.json](./293731-age-of-wonders-4-expansion-pass.json) |
 | Age of Wonders 4: Herald of Glory | 371134 | [371134-age-of-wonders-4-herald-of-glory.json](./371134-age-of-wonders-4-herald-of-glory.json) |
+| Age of Wonders 4: Premium Edition | 240573 | [240573-age-of-wonders-4-premium-edition.json](./240573-age-of-wonders-4-premium-edition.json) |
 | Age of Wonders 4: Primal Fury | 288837 | [288837-age-of-wonders-4-primal-fury.json](./288837-age-of-wonders-4-primal-fury.json) |
 | Age of Wonders 4: Rise from Ruin | 371022 | [371022-age-of-wonders-4-rise-from-ruin.json](./371022-age-of-wonders-4-rise-from-ruin.json) |
 | Age of Wonders 4: Secrets of the Archmages | 371021 | [371021-age-of-wonders-4-secrets-of-the-archmages.json](./371021-age-of-wonders-4-secrets-of-the-archmages.json) |
@@ -6581,6 +6582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice's Wonderland: Cast in Shadow | 296067 | [296067-alices-wonderland-cast-in-shadow.json](./296067-alices-wonderland-cast-in-shadow.json) |
 | Alice's Wonderland: Cast in Shadow - Collector's Edition | 357108 | [357108-alices-wonderland-cast-in-shadow-collectors-edition.json](./357108-alices-wonderland-cast-in-shadow-collectors-edition.json) |
 | Alice's World | 303135 | [303135-alices-world.json](./303135-alices-world.json) |
+| Alice=Alice | 240565 | [240565-alice-alice.json](./240565-alice-alice.json) |
 | Alicemare | 26138 | [26138-alicemare.json](./26138-alicemare.json) |
 | Alicia Griffith: Lakeside Murder | 30050 | [30050-alicia-griffith-lakeside-murder.json](./30050-alicia-griffith-lakeside-murder.json) |
 | Alicia Online | 60233 | [60233-alicia-online.json](./60233-alicia-online.json) |
@@ -7876,6 +7878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AltspaceVR | 34369 | [34369-altspacevr.json](./34369-altspacevr.json) |
 | Altus 24 | 22168 | [22168-altus-24.json](./22168-altus-24.json) |
 | Altushka + | 368073 | [368073-altushka.json](./368073-altushka.json) |
+| Altwaldheim 2: Town in Trouble | 240604 | [240604-altwaldheim-2-town-in-trouble.json](./240604-altwaldheim-2-town-in-trouble.json) |
 | Alty's Dinner | 390762 | [390762-altys-dinner.json](./390762-altys-dinner.json) |
 | Alucinod | 118422 | [118422-alucinod.json](./118422-alucinod.json) |
 | Alühn | 320332 | [320332-aluhn.json](./320332-aluhn.json) |
@@ -9167,6 +9170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Rush 2 | 98762 | [98762-ancient-rush-2.json](./98762-ancient-rush-2.json) |
 | Ancient Russian Life Simulator | 278177 | [278177-ancient-russian-life-simulator.json](./278177-ancient-russian-life-simulator.json) |
 | Ancient Sacrifice | 236297 | [236297-ancient-sacrifice.json](./236297-ancient-sacrifice.json) |
+| Ancient Saga: Vikings Journey | 240594 | [240594-ancient-saga-vikings-journey.json](./240594-ancient-saga-vikings-journey.json) |
 | Ancient Saga: Vikings Journey - End of the story | 246860 | [246860-ancient-saga-vikings-journey-end-of-the-story.json](./246860-ancient-saga-vikings-journey-end-of-the-story.json) |
 | Ancient Savo | 303161 | [303161-ancient-savo.json](./303161-ancient-savo.json) |
 | Ancient Scroll | 303162 | [303162-ancient-scroll.json](./303162-ancient-scroll.json) |
@@ -15436,6 +15440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid | 80931 | [80931-asteroid.json](./80931-asteroid.json) |
 | Asteroid : Space Defence | 90425 | [90425-asteroid-space-defence.json](./90425-asteroid-space-defence.json) |
 | Asteroid 69 | 387096 | [387096-asteroid-69.json](./387096-asteroid-69.json) |
+| Asteroid Arcade | 240601 | [240601-asteroid-arcade.json](./240601-asteroid-arcade.json) |
 | Asteroid Arena | 190060 | [190060-asteroid-arena.json](./190060-asteroid-arena.json) |
 | Asteroid Belt | 15602 | [15602-asteroid-belt.json](./15602-asteroid-belt.json) |
 | Asteroid Blaster | 178960 | [178960-asteroid-blaster.json](./178960-asteroid-blaster.json) |
