@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives 39: Flyhight Cloudia IV - Eien no Kizuna | 222155 | [222155-g-mode-archives-39-flyhight-cloudia-iv-eien-no-kizuna.json](./222155-g-mode-archives-39-flyhight-cloudia-iv-eien-no-kizuna.json) |
 | G-Mode Archives 40: Kamura - Kamigami to Chigiri Shisha | 222154 | [222154-g-mode-archives-40-kamura-kamigami-to-chigiri-shisha.json](./222154-g-mode-archives-40-kamura-kamigami-to-chigiri-shisha.json) |
 | G-Mode Archives 41: Izumi Jiken File Vol. 1 - Shiosai-hen | 222153 | [222153-g-mode-archives-41-izumi-jiken-file-vol-1-shiosai-hen.json](./222153-g-mode-archives-41-izumi-jiken-file-vol-1-shiosai-hen.json) |
+| G-Mode Archives 42: Izumi Jiken File Vol. 2 - Tasogare-hen | 222151 | [222151-g-mode-archives-42-izumi-jiken-file-vol-2-tasogare-hen.json](./222151-g-mode-archives-42-izumi-jiken-file-vol-2-tasogare-hen.json) |
 | G-Mode Archives 43: Izumi Jiken File Vol. 3 - Yujuku-hen | 221732 | [221732-g-mode-archives-43-izumi-jiken-file-vol-3-yujuku-hen.json](./221732-g-mode-archives-43-izumi-jiken-file-vol-3-yujuku-hen.json) |
 | G-Mode Archives 44: Dragon x Dragon | 241041 | [241041-g-mode-archives-44-dragon-x-dragon.json](./241041-g-mode-archives-44-dragon-x-dragon.json) |
 | G-Mode Archives 45: Chura-umi Monogatari | 251464 | [251464-g-mode-archives-45-chura-umi-monogatari.json](./251464-g-mode-archives-45-chura-umi-monogatari.json) |
@@ -93,6 +94,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Armored Core Mobile Mission | 342805 | [342805-g-mode-archives-armored-core-mobile-mission.json](./342805-g-mode-archives-armored-core-mobile-mission.json) |
 | G-Mode Archives+: Bokujou Monogatari Mobile - Life & Love | 315678 | [315678-g-mode-archives-bokujou-monogatari-mobile-life-and-love.json](./315678-g-mode-archives-bokujou-monogatari-mobile-life-and-love.json) |
 | G-Mode Archives+: Bokujou Monogatari Mobile - Minori no Shima | 340310 | [340310-g-mode-archives-bokujou-monogatari-mobile-minori-no-shima.json](./340310-g-mode-archives-bokujou-monogatari-mobile-minori-no-shima.json) |
+| G-Mode Archives+: Burari Sekai Untei | 222139 | [222139-g-mode-archives-burari-sekai-untei.json](./222139-g-mode-archives-burari-sekai-untei.json) |
+| G-Mode Archives+: City Connection Rocket | 222137 | [222137-g-mode-archives-city-connection-rocket.json](./222137-g-mode-archives-city-connection-rocket.json) |
+| G-Mode Archives+: Danmaku Kentei Shiken - DaiOuJou-hen | 222146 | [222146-g-mode-archives-danmaku-kentei-shiken-daioujou-hen.json](./222146-g-mode-archives-danmaku-kentei-shiken-daioujou-hen.json) |
 | G-Mode Archives+: Danmaku Kentei Shiken - Ketsui-Hen | 214712 | [214712-g-mode-archives-danmaku-kentei-shiken-ketsui-hen.json](./214712-g-mode-archives-danmaku-kentei-shiken-ketsui-hen.json) |
 | G-Mode Archives+: Digital Devil Saga Avatar Tuner - A's Test Server | 394291 | [394291-g-mode-archives-digital-devil-saga-avatar-tuner-as-test-server.json](./394291-g-mode-archives-digital-devil-saga-avatar-tuner-as-test-server.json) |
 | G-Mode Archives+: DoDonPachi DaiOuJou DX | 196066 | [196066-g-mode-archives-dodonpachi-daioujou-dx.json](./196066-g-mode-archives-dodonpachi-daioujou-dx.json) |
@@ -101,15 +105,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Fujidou Ryuunosuke Tantei Nikki Vol.3 - Ruiiro no Suiren: Gosai Ryuudensetsu Renzoku Satsujin-jiken | 271519 | [271519-g-mode-archives-fujidou-ryuunosuke-tantei-nikki-vol-3-ruiiro-no-suiren-gosai-ryuudensetsu-renzoku-satsujin-jiken.json](./271519-g-mode-archives-fujidou-ryuunosuke-tantei-nikki-vol-3-ruiiro-no-suiren-gosai-ryuudensetsu-renzoku-satsujin-jiken.json) |
 | G-Mode Archives+: Game Tengoku | 253228 | [253228-g-mode-archives-game-tengoku.json](./253228-g-mode-archives-game-tengoku.json) |
 | G-Mode Archives+: Idol Janshi Suchie-Pai | 256268 | [256268-g-mode-archives-idol-janshi-suchie-pai.json](./256268-g-mode-archives-idol-janshi-suchie-pai.json) |
+| G-Mode Archives+: Idol Janshi Suchie-Pai - Milky no Yabou | 222150 | [222150-g-mode-archives-idol-janshi-suchie-pai-milky-no-yabou.json](./222150-g-mode-archives-idol-janshi-suchie-pai-milky-no-yabou.json) |
+| G-Mode Archives+: Ketsui - Kizuna Jigoku-tachi DX | 222143 | [222143-g-mode-archives-ketsui-kizuna-jigoku-tachi-dx.json](./222143-g-mode-archives-ketsui-kizuna-jigoku-tachi-dx.json) |
 | G-Mode Archives+: Kishinden Strike-G- | 412402 | [412402-g-mode-archives-kishinden-strike-g.json](./412402-g-mode-archives-kishinden-strike-g.json) |
 | G-Mode Archives+: Lost Chronicle | 410819 | [410819-g-mode-archives-lost-chronicle.json](./410819-g-mode-archives-lost-chronicle.json) |
 | G-Mode Archives+: Lost Savior | 423973 | [423973-g-mode-archives-lost-savior.json](./423973-g-mode-archives-lost-savior.json) |
 | G-Mode Archives+: Majin Tensei - Blind Thinker | 274663 | [274663-g-mode-archives-majin-tensei-blind-thinker.json](./274663-g-mode-archives-majin-tensei-blind-thinker.json) |
+| G-Mode Archives+: Maou ga Ochiru Hi | 222140 | [222140-g-mode-archives-maou-ga-ochiru-hi.json](./222140-g-mode-archives-maou-ga-ochiru-hi.json) |
 | G-Mode Archives+: Megami Ibunroku Persona - Iku no Tou-hen | 266570 | [266570-g-mode-archives-megami-ibunroku-persona-iku-no-tou-hen.json](./266570-g-mode-archives-megami-ibunroku-persona-iku-no-tou-hen.json) |
+| G-Mode Archives+: Megami Tensei Gaiden - Shinyaku Last Bible | 222132 | [222132-g-mode-archives-megami-tensei-gaiden-shinyaku-last-bible.json](./222132-g-mode-archives-megami-tensei-gaiden-shinyaku-last-bible.json) |
+| G-Mode Archives+: Megami Tensei Gaiden - Shinyaku Last Bible II - Hajimari no Fukuin | 222133 | [222133-g-mode-archives-megami-tensei-gaiden-shinyaku-last-bible-ii-hajimari-no-fukuin.json](./222133-g-mode-archives-megami-tensei-gaiden-shinyaku-last-bible-ii-hajimari-no-fukuin.json) |
 | G-Mode Archives+: Megami Tensei Gaiden - Shinyaku Last Bible III - Mugen no Eiyuu | 227706 | [227706-g-mode-archives-megami-tensei-gaiden-shinyaku-last-bible-iii-mugen-no-eiyuu.json](./227706-g-mode-archives-megami-tensei-gaiden-shinyaku-last-bible-iii-mugen-no-eiyuu.json) |
+| G-Mode Archives+: Mikuni Field Combat | 222130 | [222130-g-mode-archives-mikuni-field-combat.json](./222130-g-mode-archives-mikuni-field-combat.json) |
 | G-Mode Archives+: Moe Pro - Moero!! Pro Yakyuu | 260682 | [260682-g-mode-archives-moe-pro-moero-pro-yakyuu.json](./260682-g-mode-archives-moe-pro-moero-pro-yakyuu.json) |
+| G-Mode Archives+: Momoko 1200% | 222129 | [222129-g-mode-archives-momoko-1200.json](./222129-g-mode-archives-momoko-1200.json) |
 | G-Mode Archives+: Momoko no Kasei Bowling - La Mars Cup | 266172 | [266172-g-mode-archives-momoko-no-kasei-bowling-la-mars-cup.json](./266172-g-mode-archives-momoko-no-kasei-bowling-la-mars-cup.json) |
 | G-Mode Archives+: Monstre Waltz | 388382 | [388382-g-mode-archives-monstre-waltz.json](./388382-g-mode-archives-monstre-waltz.json) |
+| G-Mode Archives+: Ninja Jajamaru-kun - Ranbu | 222138 | [222138-g-mode-archives-ninja-jajamaru-kun-ranbu.json](./222138-g-mode-archives-ninja-jajamaru-kun-ranbu.json) |
 | G-Mode Archives+: Pac-Man | 407079 | [407079-g-mode-archives-pac-man.json](./407079-g-mode-archives-pac-man.json) |
 | G-Mode Archives+: Persona 3: Aegis The First Mission | 298527 | [298527-g-mode-archives-persona-3-aegis-the-first-mission.json](./298527-g-mode-archives-persona-3-aegis-the-first-mission.json) |
 | G-Mode Archives+: Ridge Racer | 416050 | [416050-g-mode-archives-ridge-racer.json](./416050-g-mode-archives-ridge-racer.json) |
@@ -126,11 +138,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Tantei Kibugawa Ryousuke Jiken-bo vol.11 - Ane no Kabe | 251473 | [251473-g-mode-archives-tantei-kibugawa-ryousuke-jiken-bo-vol-11-ane-no-kabe.json](./251473-g-mode-archives-tantei-kibugawa-ryousuke-jiken-bo-vol-11-ane-no-kabe.json) |
 | G-Mode Archives+: Tantei Kibugawa Ryousuke Jiken-tan Vol. 14 - Rasen no Kan Satsujin Jiken | 295849 | [295849-g-mode-archives-tantei-kibugawa-ryousuke-jiken-tan-vol-14-rasen-no-kan-satsujin-jiken.json](./295849-g-mode-archives-tantei-kibugawa-ryousuke-jiken-tan-vol-14-rasen-no-kan-satsujin-jiken.json) |
 | G-Mode Archives+: Tantei Kibukawa Ryousuke Jiken-bo vol.12 - Nakanai Irainjin | 251474 | [251474-g-mode-archives-tantei-kibukawa-ryousuke-jiken-bo-vol-12-nakanai-irainjin.json](./251474-g-mode-archives-tantei-kibukawa-ryousuke-jiken-bo-vol-12-nakanai-irainjin.json) |
+| G-Mode Archives+: Tantei Kibukawa Ryousuke Jiken-tan Vol. 1 - Kamen Gensou Satsujin Jiken | 222135 | [222135-g-mode-archives-tantei-kibukawa-ryousuke-jiken-tan-vol-1-kamen-gensou-satsujin-jiken.json](./222135-g-mode-archives-tantei-kibukawa-ryousuke-jiken-tan-vol-1-kamen-gensou-satsujin-jiken.json) |
+| G-Mode Archives+: Tantei Kibukawa Ryousuke Jiken-tan Vol. 10 - Eigou-kai Jiken | 222131 | [222131-g-mode-archives-tantei-kibukawa-ryousuke-jiken-tan-vol-10-eigou-kai-jiken.json](./222131-g-mode-archives-tantei-kibukawa-ryousuke-jiken-tan-vol-10-eigou-kai-jiken.json) |
 | G-Mode Archives+: Tantei Kibukawa Ryousuke Jiken-tan Vol. 15 - Ouma ga toki no Kyoushikyoku | 340308 | [340308-g-mode-archives-tantei-kibukawa-ryousuke-jiken-tan-vol-15-ouma-ga-toki-no-kyoushikyoku.json](./340308-g-mode-archives-tantei-kibukawa-ryousuke-jiken-tan-vol-15-ouma-ga-toki-no-kyoushikyoku.json) |
 | G-Mode Archives+: Tantei Kibukawa Ryousuke Jiken-tan Vol. 16 - Awayuki ha Hi no Kanashimi | 340309 | [340309-g-mode-archives-tantei-kibukawa-ryousuke-jiken-tan-vol-16-awayuki-ha-hi-no-kanashimi.json](./340309-g-mode-archives-tantei-kibukawa-ryousuke-jiken-tan-vol-16-awayuki-ha-hi-no-kanashimi.json) |
+| G-Mode Archives+: Tantei Kibukawa Ryousuke Jiken-tan Vol. 2 - Kairoukan Satsujin Jiken | 222134 | [222134-g-mode-archives-tantei-kibukawa-ryousuke-jiken-tan-vol-2-kairoukan-satsujin-jiken.json](./222134-g-mode-archives-tantei-kibukawa-ryousuke-jiken-tan-vol-2-kairoukan-satsujin-jiken.json) |
+| G-Mode Archives+: Tantei Kibukawa Ryousuke Jiken-tan Vol. 3 - Shisha no Rakuen | 222136 | [222136-g-mode-archives-tantei-kibukawa-ryousuke-jiken-tan-vol-3-shisha-no-rakuen.json](./222136-g-mode-archives-tantei-kibukawa-ryousuke-jiken-tan-vol-3-shisha-no-rakuen.json) |
+| G-Mode Archives+: Tantei Kibukawa Ryousuke Jiken-tan Vol. 4 - Shirasagi ni Aka no Hane | 222142 | [222142-g-mode-archives-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json](./222142-g-mode-archives-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json) |
+| G-Mode Archives+: Tantei Kibukawa Ryousuke Jiken-tan Vol. 5 - Kurai Hako no Ue | 222149 | [222149-g-mode-archives-tantei-kibukawa-ryousuke-jiken-tan-vol-5-kurai-hako-no-ue.json](./222149-g-mode-archives-tantei-kibukawa-ryousuke-jiken-tan-vol-5-kurai-hako-no-ue.json) |
+| G-Mode Archives+: Tantei Kibukawa Ryousuke Jiken-tan Vol. 6 - Tsuikou Saku Jiken | 222145 | [222145-g-mode-archives-tantei-kibukawa-ryousuke-jiken-tan-vol-6-tsuikou-saku-jiken.json](./222145-g-mode-archives-tantei-kibukawa-ryousuke-jiken-tan-vol-6-tsuikou-saku-jiken.json) |
+| G-Mode Archives+: Tantei Kibukawa Ryousuke Jiken-tan Vol. 7 - Otonari Keiji no Sousa Memo | 222128 | [222128-g-mode-archives-tantei-kibukawa-ryousuke-jiken-tan-vol-7-otonari-keiji-no-sousa-memo.json](./222128-g-mode-archives-tantei-kibukawa-ryousuke-jiken-tan-vol-7-otonari-keiji-no-sousa-memo.json) |
+| G-Mode Archives+: Tantei Kibukawa Ryousuke Jiken-tan Vol. 8 - Kamen Genei Satsujin Jiken | 222147 | [222147-g-mode-archives-tantei-kibukawa-ryousuke-jiken-tan-vol-8-kamen-genei-satsujin-jiken.json](./222147-g-mode-archives-tantei-kibukawa-ryousuke-jiken-tan-vol-8-kamen-genei-satsujin-jiken.json) |
+| G-Mode Archives+: Tantei Kibukawa Ryousuke Jiken-tan Vol. 9 - Samidare ha Nibiiro no Shirabe | 222148 | [222148-g-mode-archives-tantei-kibukawa-ryousuke-jiken-tan-vol-9-samidare-ha-nibiiro-no-shirabe.json](./222148-g-mode-archives-tantei-kibukawa-ryousuke-jiken-tan-vol-9-samidare-ha-nibiiro-no-shirabe.json) |
 | G-Mode Archives+: Tantei Kibukawa Ryousuke Jikenbo Vol. 13 - Tasogare ha Ruri no Tsuioki | 279118 | [279118-g-mode-archives-tantei-kibukawa-ryousuke-jikenbo-vol-13-tasogare-ha-ruri-no-tsuioki.json](./279118-g-mode-archives-tantei-kibukawa-ryousuke-jikenbo-vol-13-tasogare-ha-ruri-no-tsuioki.json) |
 | G-Mode Archives+: Tantei Kibukawa Ryousuke Jikentan Vol. 17 - Midoumaru-tei Jiken | 413150 | [413150-g-mode-archives-tantei-kibukawa-ryousuke-jikentan-vol-17-midoumaru-tei-jiken.json](./413150-g-mode-archives-tantei-kibukawa-ryousuke-jikentan-vol-17-midoumaru-tei-jiken.json) |
 | G-Mode Archives+: Todo Ryuunosuke Tantei Nikki vol.1 - Kohakuiro no Igon: Seiyou Karuta Renzoku Satsujin Jiken | 251475 | [251475-g-mode-archives-todo-ryuunosuke-tantei-nikki-vol-1-kohakuiro-no-igon-seiyou-karuta-renzoku-satsujin-jiken.json](./251475-g-mode-archives-todo-ryuunosuke-tantei-nikki-vol-1-kohakuiro-no-igon-seiyou-karuta-renzoku-satsujin-jiken.json) |
+| G-Mode Archives+: Tondemo Nishibuuki 2 - Paris Boutard Rally | 222144 | [222144-g-mode-archives-tondemo-nishibuuki-2-paris-boutard-rally.json](./222144-g-mode-archives-tondemo-nishibuuki-2-paris-boutard-rally.json) |
 | G-Netix | 92830 | [92830-g-netix.json](./92830-g-netix.json) |
 | G-Nome | 78909 | [78909-g-nome.json](./78909-g-nome.json) |
 | G-Police | 8305 | [8305-g-police.json](./8305-g-police.json) |
@@ -421,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakuen Hyoryuu Senki | 191872 | [191872-gakuen-hyoryuu-senki.json](./191872-gakuen-hyoryuu-senki.json) |
 | Gakuen Hyouryuu Senki Dai 2 Wa | 191873 | [191873-gakuen-hyouryuu-senki-dai-2-wa.json](./191873-gakuen-hyouryuu-senki-dai-2-wa.json) |
 | Gakuen Idolmaster | 300789 | [300789-gakuen-idolmaster.json](./300789-gakuen-idolmaster.json) |
+| Gakuen K: Wonderful School Days | 222120 | [222120-gakuen-k-wonderful-school-days.json](./222120-gakuen-k-wonderful-school-days.json) |
 | Gakuen K: Wonderful School Days - V Edition | 108826 | [108826-gakuen-k-wonderful-school-days-v-edition.json](./108826-gakuen-k-wonderful-school-days-v-edition.json) |
 | Gakuen Rensenki | 221598 | [221598-gakuen-rensenki.json](./221598-gakuen-rensenki.json) |
 | Gakuen Senki | 251188 | [251188-gakuen-senki.json](./251188-gakuen-senki.json) |
