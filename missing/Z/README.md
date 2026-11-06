@@ -1409,6 +1409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombastic | 394985 | [394985-zombastic.json](./394985-zombastic.json) |
 | ZomBay | 287002 | [287002-zombay.json](./287002-zombay.json) |
 | ZombCube | 305975 | [305975-zombcube.json](./305975-zombcube.json) |
+| Zombeast | 242859 | [242859-zombeast.json](./242859-zombeast.json) |
 | Zombeat | 79946 | [79946-zombeat.json](./79946-zombeat.json) |
 | Zombecks | 107573 | [107573-zombecks.json](./107573-zombecks.json) |
 | Zombeer | 16815 | [16815-zombeer.json](./16815-zombeer.json) |
