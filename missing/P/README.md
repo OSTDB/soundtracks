@@ -1158,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandoland | 306675 | [306675-pandoland.json](./306675-pandoland.json) |
 | Pandora | 15334 | [15334-pandora.json](./15334-pandora.json) |
 | Pandora | 238499 | [238499-pandora.json](./238499-pandora.json) |
+| Pandora | 240593 | [240593-pandora.json](./240593-pandora.json) |
 | Pandora | 249207 | [249207-pandora.json](./249207-pandora.json) |
 | Pandora | 255144 | [255144-pandora.json](./255144-pandora.json) |
 | Pandora Galaxy | 156987 | [156987-pandora-galaxy.json](./156987-pandora-galaxy.json) |
@@ -3672,6 +3673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peas! Animated Sudoku | 296217 | [296217-peas-animated-sudoku.json](./296217-peas-animated-sudoku.json) |
 | Peasant | 309470 | [309470-peasant.json](./309470-peasant.json) |
 | Peasant Dream: Ascension | 377782 | [377782-peasant-dream-ascension.json](./377782-peasant-dream-ascension.json) |
+| Peasant Kingdom | 240602 | [240602-peasant-kingdom.json](./240602-peasant-kingdom.json) |
 | Peasant Knight | 76708 | [76708-peasant-knight.json](./76708-peasant-knight.json) |
 | Peasant Nightmare | 364012 | [364012-peasant-nightmare.json](./364012-peasant-nightmare.json) |
 | Peasant or Rebel? | 390071 | [390071-peasant-or-rebel.json](./390071-peasant-or-rebel.json) |
@@ -12782,6 +12784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Port Traventor | 184881 | [184881-port-traventor.json](./184881-port-traventor.json) |
 | Porta Nubi | 400670 | [400670-porta-nubi.json](./400670-porta-nubi.json) |
 | Porta-Tower | 260203 | [260203-porta-tower.json](./260203-porta-tower.json) |
+| Portaball | 240564 | [240564-portaball.json](./240564-portaball.json) |
 | Portabellows | 247780 | [247780-portabellows.json](./247780-portabellows.json) |
 | Portability | 159769 | [159769-portability.json](./159769-portability.json) |
 | Portable Farm | 164162 | [164162-portable-farm.json](./164162-portable-farm.json) |
@@ -13594,6 +13597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PPD | 380180 | [380180-ppd.json](./380180-ppd.json) |
 | PPDD | 121266 | [121266-ppdd.json](./121266-ppdd.json) |
 | Ppoi: Hitonatsu no Keiken | 203373 | [203373-ppoi-hitonatsu-no-keiken.json](./203373-ppoi-hitonatsu-no-keiken.json) |
+| Pporite | 240599 | [240599-pporite.json](./240599-pporite.json) |
 | PPP | 259093 | [259093-ppp.json](./259093-ppp.json) |
 | Pppoker | 410010 | [410010-pppoker.json](./410010-pppoker.json) |
 | PQ: Practical Intelligence Quotient | 46019 | [46019-pq-practical-intelligence-quotient.json](./46019-pq-practical-intelligence-quotient.json) |
