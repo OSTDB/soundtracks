@@ -5941,6 +5941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Art of Knuckle Sandwich | 55291 | [55291-the-art-of-knuckle-sandwich.json](./55291-the-art-of-knuckle-sandwich.json) |
 | The Art of Murder | 91354 | [91354-the-art-of-murder.json](./91354-the-art-of-murder.json) |
 | The Art of Tortoise Walking | 403187 | [403187-the-art-of-tortoise-walking.json](./403187-the-art-of-tortoise-walking.json) |
+| The Art of War: Card Game | 231128 | [231128-the-art-of-war-card-game.json](./231128-the-art-of-war-card-game.json) |
 | THE ART: Metamorphosis | 123492 | [123492-the-art-metamorphosis.json](./123492-the-art-metamorphosis.json) |
 | The Artefacts lost in the Galaxy | 128158 | [128158-the-artefacts-lost-in-the-galaxy.json](./128158-the-artefacts-lost-in-the-galaxy.json) |
 | The Artifact of Ancients | 301838 | [301838-the-artifact-of-ancients.json](./301838-the-artifact-of-ancients.json) |
@@ -17187,6 +17188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sword of Ianna | 221902 | [221902-the-sword-of-ianna.json](./221902-the-sword-of-ianna.json) |
 | The Sword of Rhivenia | 197048 | [197048-the-sword-of-rhivenia.json](./197048-the-sword-of-rhivenia.json) |
 | The Sword of Zedek | 356674 | [356674-the-sword-of-zedek.json](./356674-the-sword-of-zedek.json) |
+| The Sword That Kills Christmas | 231116 | [231116-the-sword-that-kills-christmas.json](./231116-the-sword-that-kills-christmas.json) |
 | The Sword Witch's Apprentice | 351037 | [351037-the-sword-witchs-apprentice.json](./351037-the-sword-witchs-apprentice.json) |
 | The Swordbearer | 204329 | [204329-the-swordbearer.json](./204329-the-swordbearer.json) |
 | The Swords | 57720 | [57720-the-swords.json](./57720-the-swords.json) |
@@ -27179,6 +27181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tr4sh Rebuffed | 394605 | [394605-tr4sh-rebuffed.json](./394605-tr4sh-rebuffed.json) |
 | Trabi Racer | 305348 | [305348-trabi-racer.json](./305348-trabi-racer.json) |
 | Trabi vs. Zombies: Apocalypse VR | 233073 | [233073-trabi-vs-zombies-apocalypse-vr.json](./233073-trabi-vs-zombies-apocalypse-vr.json) |
+| Tracadie Bird Shit | 231117 | [231117-tracadie-bird-shit.json](./231117-tracadie-bird-shit.json) |
 | Trace | 92662 | [92662-trace.json](./92662-trace.json) |
 | Trace 2 | 103654 | [103654-trace-2.json](./103654-trace-2.json) |
 | Trace Blackout: The Perfect Crime Mystery | 401119 | [401119-trace-blackout-the-perfect-crime-mystery.json](./401119-trace-blackout-the-perfect-crime-mystery.json) |
@@ -28158,6 +28161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Konstanz-Villingen Route Add-On | 156388 | [156388-train-simulator-konstanz-villingen-route-add-on.json](./156388-train-simulator-konstanz-villingen-route-add-on.json) |
 | Train Simulator: Kyushu Shinkansen | 92250 | [92250-train-simulator-kyushu-shinkansen.json](./92250-train-simulator-kyushu-shinkansen.json) |
 | Train Simulator: LGV: Marseille - Avignon Route Add-On | 156356 | [156356-train-simulator-lgv-marseille-avignon-route-add-on.json](./156356-train-simulator-lgv-marseille-avignon-route-add-on.json) |
+| Train Simulator: LIRR M3 EMU | 231120 | [231120-train-simulator-lirr-m3-emu.json](./231120-train-simulator-lirr-m3-emu.json) |
 | Train Simulator: Liverpool-Manchester Route Add-On | 156442 | [156442-train-simulator-liverpool-manchester-route-add-on.json](./156442-train-simulator-liverpool-manchester-route-add-on.json) |
 | Train Simulator: Livonia Division: Monroe - Subdivision Route Add-On | 156370 | [156370-train-simulator-livonia-division-monroe-subdivision-route-add-on.json](./156370-train-simulator-livonia-division-monroe-subdivision-route-add-on.json) |
 | Train Simulator: LMS Rebuilt Royal Scot Steam Loco Add-On | 162022 | [162022-train-simulator-lms-rebuilt-royal-scot-steam-loco-add-on.json](./162022-train-simulator-lms-rebuilt-royal-scot-steam-loco-add-on.json) |
@@ -28610,6 +28614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: Pro Train - SD40-2 Loco Bundle 4 | 306105 | [306105-trainz-plus-pro-train-sd40-2-loco-bundle-4.json](./306105-trainz-plus-pro-train-sd40-2-loco-bundle-4.json) |
 | Trainz Plus: Pro Train - Sequoia Valley | 306106 | [306106-trainz-plus-pro-train-sequoia-valley.json](./306106-trainz-plus-pro-train-sequoia-valley.json) |
 | Trainz Plus: Pro Train - TGV Duplex | 212240 | [212240-trainz-plus-pro-train-tgv-duplex.json](./212240-trainz-plus-pro-train-tgv-duplex.json) |
+| Trainz Plus: Pro Train Brocken Railway | 231121 | [231121-trainz-plus-pro-train-brocken-railway.json](./231121-trainz-plus-pro-train-brocken-railway.json) |
 | Trainz Plus: Pro Train Class 68 DRS | 207366 | [207366-trainz-plus-pro-train-class-68-drs.json](./207366-trainz-plus-pro-train-class-68-drs.json) |
 | Trainz Plus: Pro Train DB/DR Auxiliary Train | 237946 | [237946-trainz-plus-pro-train-db-dr-auxiliary-train.json](./237946-trainz-plus-pro-train-db-dr-auxiliary-train.json) |
 | Trainz Plus: Pro Train: NS Heritage Loco Bundle 1 | 324267 | [324267-trainz-plus-pro-train-ns-heritage-loco-bundle-1.json](./324267-trainz-plus-pro-train-ns-heritage-loco-bundle-1.json) |
@@ -28807,6 +28812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2019: Pro Train - SD40-2 Loco Bundle 1 | 289475 | [289475-trainz-railroad-simulator-2019-pro-train-sd40-2-loco-bundle-1.json](./289475-trainz-railroad-simulator-2019-pro-train-sd40-2-loco-bundle-1.json) |
 | Trainz Railroad Simulator 2019: Pro Train - SD40-2 Loco Bundle 2 | 292666 | [292666-trainz-railroad-simulator-2019-pro-train-sd40-2-loco-bundle-2.json](./292666-trainz-railroad-simulator-2019-pro-train-sd40-2-loco-bundle-2.json) |
 | Trainz Railroad Simulator 2019: Pro Train - TGV Duplex | 212242 | [212242-trainz-railroad-simulator-2019-pro-train-tgv-duplex.json](./212242-trainz-railroad-simulator-2019-pro-train-tgv-duplex.json) |
+| Trainz Railroad Simulator 2019: Pro Train Brocken Railway | 231119 | [231119-trainz-railroad-simulator-2019-pro-train-brocken-railway.json](./231119-trainz-railroad-simulator-2019-pro-train-brocken-railway.json) |
 | Trainz Railroad Simulator 2019: Pro Train Class 68 DRS | 207364 | [207364-trainz-railroad-simulator-2019-pro-train-class-68-drs.json](./207364-trainz-railroad-simulator-2019-pro-train-class-68-drs.json) |
 | Trainz Railroad Simulator 2019: Pro Train DB/DR Auxiliary Train | 237947 | [237947-trainz-railroad-simulator-2019-pro-train-db-dr-auxiliary-train.json](./237947-trainz-railroad-simulator-2019-pro-train-db-dr-auxiliary-train.json) |
 | Trainz Railroad Simulator 2019: Pro Trainz TEE Rheingold | 153099 | [153099-trainz-railroad-simulator-2019-pro-trainz-tee-rheingold.json](./153099-trainz-railroad-simulator-2019-pro-trainz-tee-rheingold.json) |
@@ -28997,6 +29003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2022: Pro Train - SD40-2 Loco Bundle 1 | 289476 | [289476-trainz-railroad-simulator-2022-pro-train-sd40-2-loco-bundle-1.json](./289476-trainz-railroad-simulator-2022-pro-train-sd40-2-loco-bundle-1.json) |
 | Trainz Railroad Simulator 2022: Pro Train - SD40-2 Loco Bundle 2 | 292667 | [292667-trainz-railroad-simulator-2022-pro-train-sd40-2-loco-bundle-2.json](./292667-trainz-railroad-simulator-2022-pro-train-sd40-2-loco-bundle-2.json) |
 | Trainz Railroad Simulator 2022: Pro Train - TGV Duplex | 212241 | [212241-trainz-railroad-simulator-2022-pro-train-tgv-duplex.json](./212241-trainz-railroad-simulator-2022-pro-train-tgv-duplex.json) |
+| Trainz Railroad Simulator 2022: Pro Train Brocken Railway | 231118 | [231118-trainz-railroad-simulator-2022-pro-train-brocken-railway.json](./231118-trainz-railroad-simulator-2022-pro-train-brocken-railway.json) |
 | Trainz Railroad Simulator 2022: Pro Train Class 68 DRS | 207365 | [207365-trainz-railroad-simulator-2022-pro-train-class-68-drs.json](./207365-trainz-railroad-simulator-2022-pro-train-class-68-drs.json) |
 | Trainz Railroad Simulator 2022: Pro Train DB/DR Auxiliary Train | 237945 | [237945-trainz-railroad-simulator-2022-pro-train-db-dr-auxiliary-train.json](./237945-trainz-railroad-simulator-2022-pro-train-db-dr-auxiliary-train.json) |
 | Trainz Railroad Simulator 2022: Pro Train: BNSF Loco Bundle 1 | 393724 | [393724-trainz-railroad-simulator-2022-pro-train-bnsf-loco-bundle-1.json](./393724-trainz-railroad-simulator-2022-pro-train-bnsf-loco-bundle-1.json) |
