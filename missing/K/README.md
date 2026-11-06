@@ -840,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kapitan Pronin: Odin protiv vseh | 202199 | [202199-kapitan-pronin-odin-protiv-vseh.json](./202199-kapitan-pronin-odin-protiv-vseh.json) |
 | Kapka The Game | 416014 | [416014-kapka-the-game.json](./416014-kapka-the-game.json) |
 | Kaporanga | 396454 | [396454-kaporanga.json](./396454-kaporanga.json) |
+| Kapow Pets | 211367 | [211367-kapow-pets.json](./211367-kapow-pets.json) |
 | Kappa Nittori-chan | 205790 | [205790-kappa-nittori-chan.json](./205790-kappa-nittori-chan.json) |
 | Kappa no Kai-kata: How to Breed Kappas | 335977 | [335977-kappa-no-kai-kata-how-to-breed-kappas.json](./335977-kappa-no-kai-kata-how-to-breed-kappas.json) |
 | Kappa Quest | 338296 | [338296-kappa-quest.json](./338296-kappa-quest.json) |
