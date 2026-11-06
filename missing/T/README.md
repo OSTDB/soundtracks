@@ -26060,6 +26060,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Artificial Dream in Arcadia | 228758 | [228758-touhou-artificial-dream-in-arcadia.json](./228758-touhou-artificial-dream-in-arcadia.json) |
 | Touhou Asked | 109351 | [109351-touhou-asked.json](./109351-touhou-asked.json) |
 | Touhou Baisyunyado: Soap of Royal Road | 138029 | [138029-touhou-baisyunyado-soap-of-royal-road.json](./138029-touhou-baisyunyado-soap-of-royal-road.json) |
+| Touhou Big Big Battle: Character Pack 1 | 224362 | [224362-touhou-big-big-battle-character-pack-1.json](./224362-touhou-big-big-battle-character-pack-1.json) |
+| Touhou Big Big Battle: Character Pack 1.5 | 224361 | [224361-touhou-big-big-battle-character-pack-1-5.json](./224361-touhou-big-big-battle-character-pack-1-5.json) |
+| Touhou Big Big Battle: Character Pack 2 | 224360 | [224360-touhou-big-big-battle-character-pack-2.json](./224360-touhou-big-big-battle-character-pack-2.json) |
+| Touhou Big Big Battle: Character Pack 2.3 | 224359 | [224359-touhou-big-big-battle-character-pack-2-3.json](./224359-touhou-big-big-battle-character-pack-2-3.json) |
+| Touhou Big Big Battle: Character Pack 2.5 | 224358 | [224358-touhou-big-big-battle-character-pack-2-5.json](./224358-touhou-big-big-battle-character-pack-2-5.json) |
 | Touhou Big Big Battle: The Justice | 210216 | [210216-touhou-big-big-battle-the-justice.json](./210216-touhou-big-big-battle-the-justice.json) |
 | Touhou Blooming Chaos 2 | 153523 | [153523-touhou-blooming-chaos-2.json](./153523-touhou-blooming-chaos-2.json) |
 | Touhou Blooming Chaos 2: Chara Pack 1 | 170962 | [170962-touhou-blooming-chaos-2-chara-pack-1.json](./170962-touhou-blooming-chaos-2-chara-pack-1.json) |
