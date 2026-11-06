@@ -1373,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Match 3 | 191012 | [191012-candy-match-3.json](./191012-candy-match-3.json) |
 | Candy Match Forever | 128808 | [128808-candy-match-forever.json](./128808-candy-match-forever.json) |
 | Candy Merged | 103559 | [103559-candy-merged.json](./103559-candy-merged.json) |
+| Candy Monsters | 193037 | [193037-candy-monsters.json](./193037-candy-monsters.json) |
 | Candy Mountain Massacre | 270206 | [270206-candy-mountain-massacre.json](./270206-candy-mountain-massacre.json) |
 | Candy Mountain Massacre 2 | 270207 | [270207-candy-mountain-massacre-2.json](./270207-candy-mountain-massacre-2.json) |
 | Candy Mountain Massacre: Revenge | 331959 | [331959-candy-mountain-massacre-revenge.json](./331959-candy-mountain-massacre-revenge.json) |
@@ -17564,6 +17565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Survival | 89635 | [89635-crimson-survival.json](./89635-crimson-survival.json) |
 | Crimson Sword Saga: The Peloran Wars | 32183 | [32183-crimson-sword-saga-the-peloran-wars.json](./32183-crimson-sword-saga-the-peloran-wars.json) |
 | Crimson System: VɅΔ Protocol | 361073 | [361073-crimson-system-v-protocol.json](./361073-crimson-system-v-protocol.json) |
+| Crimson Tactics: The Rise of The White Banner | 193046 | [193046-crimson-tactics-the-rise-of-the-white-banner.json](./193046-crimson-tactics-the-rise-of-the-white-banner.json) |
 | Crimson Tale | 334656 | [334656-crimson-tale.json](./334656-crimson-tale.json) |
 | Crimson Tears | 22300 | [22300-crimson-tears.json](./22300-crimson-tears.json) |
 | Crimson Temple | 304544 | [304544-crimson-temple.json](./304544-crimson-temple.json) |
