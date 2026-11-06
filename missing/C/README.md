@@ -3550,6 +3550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Formers | 154026 | [154026-castle-formers.json](./154026-castle-formers.json) |
 | Castle Frankenstein | 391290 | [391290-castle-frankenstein.json](./391290-castle-frankenstein.json) |
 | Castle Golgotha | 274268 | [274268-castle-golgotha.json](./274268-castle-golgotha.json) |
+| Castle Greyrot | 202442 | [202442-castle-greyrot.json](./202442-castle-greyrot.json) |
 | Castle Grimholt | 142252 | [142252-castle-grimholt.json](./142252-castle-grimholt.json) |
 | Castle Guard | 42152 | [42152-castle-guard.json](./42152-castle-guard.json) |
 | Castle Guard: Tower Defence | 212637 | [212637-castle-guard-tower-defence.json](./212637-castle-guard-tower-defence.json) |
@@ -4934,6 +4935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Swing | 242564 | [242564-cave-swing.json](./242564-cave-swing.json) |
 | Cave Traveler | 212531 | [212531-cave-traveler.json](./212531-cave-traveler.json) |
 | Cave Up | 334848 | [334848-cave-up.json](./334848-cave-up.json) |
+| Cave VR | 202444 | [202444-cave-vr.json](./202444-cave-vr.json) |
 | Cave Walker | 73226 | [73226-cave-walker.json](./73226-cave-walker.json) |
 | Cave Wonders | 195032 | [195032-cave-wonders.json](./195032-cave-wonders.json) |
 | Cave! Cave! Deus Videt. | 388940 | [388940-cave-cave-deus-videt.json](./388940-cave-cave-deus-videt.json) |
@@ -14099,6 +14101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contraptions 3 | 255187 | [255187-contraptions-3.json](./255187-contraptions-3.json) |
 | Contraptions Collection | 282051 | [282051-contraptions-collection.json](./282051-contraptions-collection.json) |
 | Contraria | 356957 | [356957-contraria.json](./356957-contraria.json) |
+| Contrast | 202470 | [202470-contrast.json](./202470-contrast.json) |
 | Contrast | 383509 | [383509-contrast.json](./383509-contrast.json) |
 | Contrast | 3839 | [3839-contrast.json](./3839-contrast.json) |
 | Contrast Tunnel | 150942 | [150942-contrast-tunnel.json](./150942-contrast-tunnel.json) |
@@ -20367,6 +20370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Knights: Flashpoint | 129596 | [129596-cyber-knights-flashpoint.json](./129596-cyber-knights-flashpoint.json) |
 | Cyber Lab | 379029 | [379029-cyber-lab.json](./379029-cyber-lab.json) |
 | Cyber Lancer | 210572 | [210572-cyber-lancer.json](./210572-cyber-lancer.json) |
+| Cyber League Football | 202459 | [202459-cyber-league-football.json](./202459-cyber-league-football.json) |
 | Cyber Lemur | 150749 | [150749-cyber-lemur.json](./150749-cyber-lemur.json) |
 | Cyber Loop | 301617 | [301617-cyber-loop.json](./301617-cyber-loop.json) |
 | Cyber Lounge Tycoon | 190401 | [190401-cyber-lounge-tycoon.json](./190401-cyber-lounge-tycoon.json) |
