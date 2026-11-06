@@ -1808,6 +1808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Claus Jr. Advance | 49338 | [49338-santa-claus-jr-advance.json](./49338-santa-claus-jr-advance.json) |
 | Santa Claus no Takara-bako | 41250 | [41250-santa-claus-no-takara-bako.json](./41250-santa-claus-no-takara-bako.json) |
 | Santa Claus Saves The Earth | 49237 | [49237-santa-claus-saves-the-earth.json](./49237-santa-claus-saves-the-earth.json) |
+| Santa Claus: Breakthrough Gaming Arcade | 229475 | [229475-santa-claus-breakthrough-gaming-arcade.json](./229475-santa-claus-breakthrough-gaming-arcade.json) |
 | Santa Claws | 50224 | [50224-santa-claws.json](./50224-santa-claws.json) |
 | Santa Clicker Tycoon | 209630 | [209630-santa-clicker-tycoon.json](./209630-santa-clicker-tycoon.json) |
 | Santa Draw Ride | 243725 | [243725-santa-draw-ride.json](./243725-santa-draw-ride.json) |
@@ -2495,6 +2496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sawmania | 355124 | [355124-sawmania.json](./355124-sawmania.json) |
 | Sawmill | 312894 | [312894-sawmill.json](./312894-sawmill.json) |
 | Sawmill Simulator | 389735 | [389735-sawmill-simulator.json](./389735-sawmill-simulator.json) |
+| Sawnic | 229422 | [229422-sawnic.json](./229422-sawnic.json) |
 | Saxophight | 177222 | [177222-saxophight.json](./177222-saxophight.json) |
 | Say a Prayer | 304327 | [304327-say-a-prayer.json](./304327-say-a-prayer.json) |
 | Say Cheese | 312157 | [312157-say-cheese.json](./312157-say-cheese.json) |
@@ -19458,6 +19460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -24877,6 +24880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stargazer | 35173 | [35173-stargazer.json](./35173-stargazer.json) |
 | Stargazer Christmas | 30685 | [30685-stargazer-christmas.json](./30685-stargazer-christmas.json) |
 | Stargazer program | 99070 | [99070-stargazer-program.json](./99070-stargazer-program.json) |
+| Stargazer: Dreams of the Star | 229470 | [229470-stargazer-dreams-of-the-star.json](./229470-stargazer-dreams-of-the-star.json) |
 | StarGazers | 245873 | [245873-stargazers.json](./245873-stargazers.json) |
 | Stargazing | 261426 | [261426-stargazing.json](./261426-stargazing.json) |
 | StarGazing | 145288 | [145288-stargazing.json](./145288-stargazing.json) |
