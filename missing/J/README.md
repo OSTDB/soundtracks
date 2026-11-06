@@ -92,8 +92,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.League Winning Eleven 10 + Europe League 06-07 | 136813 | [136813-j-league-winning-eleven-10-europe-league-06-07.json](./136813-j-league-winning-eleven-10-europe-league-06-07.json) |
 | J.League Winning Eleven 2007 Club Championship | 220998 | [220998-j-league-winning-eleven-2007-club-championship.json](./220998-j-league-winning-eleven-2007-club-championship.json) |
 | J.League Winning Eleven 2008 Club Championship | 220999 | [220999-j-league-winning-eleven-2008-club-championship.json](./220999-j-league-winning-eleven-2008-club-championship.json) |
+| J.League Winning Eleven 2009 Club Championship | 221000 | [221000-j-league-winning-eleven-2009-club-championship.json](./221000-j-league-winning-eleven-2009-club-championship.json) |
+| J.League Winning Eleven 2010 Club Championship | 221001 | [221001-j-league-winning-eleven-2010-club-championship.json](./221001-j-league-winning-eleven-2010-club-championship.json) |
+| J.League Winning Eleven 5 | 220943 | [220943-j-league-winning-eleven-5.json](./220943-j-league-winning-eleven-5.json) |
 | J.League Winning Eleven 6 | 220997 | [220997-j-league-winning-eleven-6.json](./220997-j-league-winning-eleven-6.json) |
+| J.League Winning Eleven 8: Asia Championship | 220945 | [220945-j-league-winning-eleven-8-asia-championship.json](./220945-j-league-winning-eleven-8-asia-championship.json) |
 | J.League Winning Eleven 9: Asia Championship | 220948 | [220948-j-league-winning-eleven-9-asia-championship.json](./220948-j-league-winning-eleven-9-asia-championship.json) |
+| J.League Winning Eleven Tactics | 221002 | [221002-j-league-winning-eleven-tactics.json](./221002-j-league-winning-eleven-tactics.json) |
 | J.League Winning Goal | 48459 | [48459-j-league-winning-goal.json](./48459-j-league-winning-goal.json) |
 | J.R.R. Tolkien's Lord of the Rings: Volume 1 | 81467 | [81467-j-r-r-tolkiens-lord-of-the-rings-volume-1.json](./81467-j-r-r-tolkiens-lord-of-the-rings-volume-1.json) |
 | J.R.R. Tolkien's Riders of Rohan | 78742 | [78742-j-r-r-tolkiens-riders-of-rohan.json](./78742-j-r-r-tolkiens-riders-of-rohan.json) |
