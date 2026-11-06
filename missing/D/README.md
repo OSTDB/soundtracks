@@ -1204,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danse Macabre: Thin Ice | 139754 | [139754-danse-macabre-thin-ice.json](./139754-danse-macabre-thin-ice.json) |
 | Danse Macabre: Thin Ice - Collector's Edition | 22076 | [22076-danse-macabre-thin-ice-collectors-edition.json](./22076-danse-macabre-thin-ice-collectors-edition.json) |
 | Dānshēngǒu de Zuìhòu Jīhuì | 130962 | [130962-danshengou-de-zuihou-jihui.json](./130962-danshengou-de-zuihou-jihui.json) |
+| Danshikou de Atta Kowai Hanashi | 210822 | [210822-danshikou-de-atta-kowai-hanashi.json](./210822-danshikou-de-atta-kowai-hanashi.json) |
 | Dante: RPG Construction Tool | 63511 | [63511-dante-rpg-construction-tool.json](./63511-dante-rpg-construction-tool.json) |
 | Dante's Cowboy | 258456 | [258456-dantes-cowboy.json](./258456-dantes-cowboy.json) |
 | Dante's Hotel | 152821 | [152821-dantes-hotel.json](./152821-dantes-hotel.json) |
@@ -6283,6 +6284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolish & Build | 135607 | [135607-demolish-and-build.json](./135607-demolish-and-build.json) |
 | Demolish & Build 2017 | 24941 | [24941-demolish-and-build-2017.json](./24941-demolish-and-build-2017.json) |
 | Demolish & Build 2018 | 90102 | [90102-demolish-and-build-2018.json](./90102-demolish-and-build-2018.json) |
+| Demolish & Build 3 | 210952 | [210952-demolish-and-build-3.json](./210952-demolish-and-build-3.json) |
 | Demolish & Build 3: Excavator Playground | 211557 | [211557-demolish-and-build-3-excavator-playground.json](./211557-demolish-and-build-3-excavator-playground.json) |
 | Demolish & Build Classic | 231580 | [231580-demolish-and-build-classic.json](./231580-demolish-and-build-classic.json) |
 | Demolish & Build VR | 195904 | [195904-demolish-and-build-vr.json](./195904-demolish-and-build-vr.json) |
