@@ -1426,6 +1426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hank: Drowning on Dry Land | 195168 | [195168-hank-drowning-on-dry-land.json](./195168-hank-drowning-on-dry-land.json) |
 | Hank: Straightjacket | 232458 | [232458-hank-straightjacket.json](./232458-hank-straightjacket.json) |
 | Hank: The Great Unraveling | 258398 | [258398-hank-the-great-unraveling.json](./258398-hank-the-great-unraveling.json) |
+| Hank's Quest for Soup | 228203 | [228203-hanks-quest-for-soup.json](./228203-hanks-quest-for-soup.json) |
 | Hank's Voyage | 144908 | [144908-hanks-voyage.json](./144908-hanks-voyage.json) |
 | Hankou Shashin: Shibarareta Shoujo-tachi no Mita Mono ha? | 112567 | [112567-hankou-shashin-shibarareta-shoujo-tachi-no-mita-mono-ha.json](./112567-hankou-shashin-shibarareta-shoujo-tachi-no-mita-mono-ha.json) |
 | Hanna Barbera's Cartoon Carnival | 45939 | [45939-hanna-barberas-cartoon-carnival.json](./45939-hanna-barberas-cartoon-carnival.json) |
@@ -2123,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harriet: From Slave to Hero | 195440 | [195440-harriet-from-slave-to-hero.json](./195440-harriet-from-slave-to-hero.json) |
 | Harrow | 265698 | [265698-harrow.json](./265698-harrow.json) |
 | Harrowed Ground | 278258 | [278258-harrowed-ground.json](./278258-harrowed-ground.json) |
+| Harrowed Halls: Hell’s Thistle - Collector’s Edition | 228228 | [228228-harrowed-halls-hell-s-thistle-collector-s-edition.json](./228228-harrowed-halls-hell-s-thistle-collector-s-edition.json) |
 | Harrowed Halls: Lakeview Lane | 139198 | [139198-harrowed-halls-lakeview-lane.json](./139198-harrowed-halls-lakeview-lane.json) |
 | Harrowed Halls: Lakeview Lane - Collector's Edition | 126282 | [126282-harrowed-halls-lakeview-lane-collectors-edition.json](./126282-harrowed-halls-lakeview-lane-collectors-edition.json) |
 | Harrowed World: Dracula Fallen | 362870 | [362870-harrowed-world-dracula-fallen.json](./362870-harrowed-world-dracula-fallen.json) |
@@ -2747,6 +2749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Streamer | 331236 | [331236-haunted-streamer.json](./331236-haunted-streamer.json) |
 | Haunted Theme Park Hidden Object | 99503 | [99503-haunted-theme-park-hidden-object.json](./99503-haunted-theme-park-hidden-object.json) |
 | Haunted Things | 271034 | [271034-haunted-things.json](./271034-haunted-things.json) |
+| Haunted Train: Clashing Worlds - Collector’s Edition | 228229 | [228229-haunted-train-clashing-worlds-collector-s-edition.json](./228229-haunted-train-clashing-worlds-collector-s-edition.json) |
 | Haunted Train: Frozen in Time | 140032 | [140032-haunted-train-frozen-in-time.json](./140032-haunted-train-frozen-in-time.json) |
 | Haunted Train: Frozen in Time - Collector's Edition | 76478 | [76478-haunted-train-frozen-in-time-collectors-edition.json](./76478-haunted-train-frozen-in-time-collectors-edition.json) |
 | Haunted Train: Spirits of Charon | 140033 | [140033-haunted-train-spirits-of-charon.json](./140033-haunted-train-spirits-of-charon.json) |
