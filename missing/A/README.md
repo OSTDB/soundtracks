@@ -1159,6 +1159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Slightly Different Backrooms | 295537 | [295537-a-slightly-different-backrooms.json](./295537-a-slightly-different-backrooms.json) |
 | A Slime and a Civil War | 236502 | [236502-a-slime-and-a-civil-war.json](./236502-a-slime-and-a-civil-war.json) |
 | A Slime at Midnight | 416326 | [416326-a-slime-at-midnight.json](./416326-a-slime-at-midnight.json) |
+| A Slime In Time | 227602 | [227602-a-slime-in-time.json](./227602-a-slime-in-time.json) |
 | A Slime's Quest for Freedom | 136181 | [136181-a-slimes-quest-for-freedom.json](./136181-a-slimes-quest-for-freedom.json) |
 | A Slime's Test for Intelligence | 212660 | [212660-a-slimes-test-for-intelligence.json](./212660-a-slimes-test-for-intelligence.json) |
 | A Slit of Joy | 195076 | [195076-a-slit-of-joy.json](./195076-a-slit-of-joy.json) |
@@ -6110,6 +6111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Albert's Journey | 219659 | [219659-alberts-journey.json](./219659-alberts-journey.json) |
 | Albino Lullaby: Episode 1 | 19019 | [19019-albino-lullaby-episode-1.json](./19019-albino-lullaby-episode-1.json) |
 | Albino Lullaby: Episode 3 | 238615 | [238615-albino-lullaby-episode-3.json](./238615-albino-lullaby-episode-3.json) |
+| Albion Online: Beyond the Veil | 227616 | [227616-albion-online-beyond-the-veil.json](./227616-albion-online-beyond-the-veil.json) |
 | Albion Online: Dragonfire | 415306 | [415306-albion-online-dragonfire.json](./415306-albion-online-dragonfire.json) |
 | Alboite | 288678 | [288678-alboite.json](./288678-alboite.json) |
 | Alborada | 266322 | [266322-alborada.json](./266322-alborada.json) |
@@ -15810,6 +15812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Bugz Revenge | 51091 | [51091-astro-bugz-revenge.json](./51091-astro-bugz-revenge.json) |
 | Astro Burn | 350037 | [350037-astro-burn.json](./350037-astro-burn.json) |
 | Astro Busters | 342985 | [342985-astro-busters.json](./342985-astro-busters.json) |
+| Astro Cat | 227640 | [227640-astro-cat.json](./227640-astro-cat.json) |
 | Astro Chase | 12304 | [12304-astro-chase.json](./12304-astro-chase.json) |
 | Astro Chase | 282088 | [282088-astro-chase.json](./282088-astro-chase.json) |
 | Astro Chase 3D | 107639 | [107639-astro-chase-3d.json](./107639-astro-chase-3d.json) |
