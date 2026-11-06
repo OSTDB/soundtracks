@@ -5971,6 +5971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Asfrixa | 192822 | [192822-the-asfrixa.json](./192822-the-asfrixa.json) |
 | The Ash Remembers | 415267 | [415267-the-ash-remembers.json](./415267-the-ash-remembers.json) |
 | The Ashen Oz | 389497 | [389497-the-ashen-oz.json](./389497-the-ashen-oz.json) |
+| The Asher Asylum | 227604 | [227604-the-asher-asylum.json](./227604-the-asher-asylum.json) |
 | The Ashes of the Fallen Fires | 181132 | [181132-the-ashes-of-the-fallen-fires.json](./181132-the-ashes-of-the-fallen-fires.json) |
 | The Asmodian Princesses and the Witch in the Forest | 199088 | [199088-the-asmodian-princesses-and-the-witch-in-the-forest.json](./199088-the-asmodian-princesses-and-the-witch-in-the-forest.json) |
 | The Assailant's Arrival | 254659 | [254659-the-assailants-arrival.json](./254659-the-assailants-arrival.json) |
@@ -17274,6 +17275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tales of Bearsworth Manor: Puzzling Pages | 85446 | [85446-the-tales-of-bearsworth-manor-puzzling-pages.json](./85446-the-tales-of-bearsworth-manor-puzzling-pages.json) |
 | The Tales of Bingwood: Chapter I - To Save a Princess | 113472 | [113472-the-tales-of-bingwood-chapter-i-to-save-a-princess.json](./113472-the-tales-of-bingwood-chapter-i-to-save-a-princess.json) |
 | The Tales of Epicton Kingdom | 120648 | [120648-the-tales-of-epicton-kingdom.json](./120648-the-tales-of-epicton-kingdom.json) |
+| The Tales of Imjin War | 227658 | [227658-the-tales-of-imjin-war.json](./227658-the-tales-of-imjin-war.json) |
 | The Tales of Redbox: An Escape From Desire | 149377 | [149377-the-tales-of-redbox-an-escape-from-desire.json](./149377-the-tales-of-redbox-an-escape-from-desire.json) |
 | The Tales of the Magical Space Dough: Rebaked | 379439 | [379439-the-tales-of-the-magical-space-dough-rebaked.json](./379439-the-tales-of-the-magical-space-dough-rebaked.json) |
 | The Tales of Wonderlend | 379441 | [379441-the-tales-of-wonderlend.json](./379441-the-tales-of-wonderlend.json) |
@@ -18737,6 +18739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wicked Witch of the West | 314766 | [314766-the-wicked-witch-of-the-west.json](./314766-the-wicked-witch-of-the-west.json) |
 | The Wickers House | 415728 | [415728-the-wickers-house.json](./415728-the-wickers-house.json) |
 | The Wickie | 157131 | [157131-the-wickie.json](./157131-the-wickie.json) |
+| The Widow's Boutique | 227634 | [227634-the-widows-boutique.json](./227634-the-widows-boutique.json) |
 | The Widow's Shadow | 271212 | [271212-the-widows-shadow.json](./271212-the-widows-shadow.json) |
 | The Wiggles: Wiggle Bay | 206228 | [206228-the-wiggles-wiggle-bay.json](./206228-the-wiggles-wiggle-bay.json) |
 | The Wiki Game | 130699 | [130699-the-wiki-game.json](./130699-the-wiki-game.json) |
@@ -26144,6 +26147,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Genso Wanderer: Limited Edition | 168553 | [168553-touhou-genso-wanderer-limited-edition.json](./168553-touhou-genso-wanderer-limited-edition.json) |
 | Touhou Genso Wanderer: Lotus Labyrinth | 100675 | [100675-touhou-genso-wanderer-lotus-labyrinth.json](./100675-touhou-genso-wanderer-lotus-labyrinth.json) |
 | Touhou Genso Wanderer: Lotus Labyrinth - Lotus Friends | 212591 | [212591-touhou-genso-wanderer-lotus-labyrinth-lotus-friends.json](./212591-touhou-genso-wanderer-lotus-labyrinth-lotus-friends.json) |
+| Touhou Genso Wanderer: Lotus Labyrinth - Miko Rabbit-chan 1-gou | 227624 | [227624-touhou-genso-wanderer-lotus-labyrinth-miko-rabbit-chan-1-gou.json](./227624-touhou-genso-wanderer-lotus-labyrinth-miko-rabbit-chan-1-gou.json) |
+| Touhou Genso Wanderer: Lotus Labyrinth - Reimu Hakurei Blue | 227622 | [227622-touhou-genso-wanderer-lotus-labyrinth-reimu-hakurei-blue.json](./227622-touhou-genso-wanderer-lotus-labyrinth-reimu-hakurei-blue.json) |
 | Touhou Genso Wanderer: Lotus Labyrinth R | 173124 | [173124-touhou-genso-wanderer-lotus-labyrinth-r.json](./173124-touhou-genso-wanderer-lotus-labyrinth-r.json) |
 | Touhou Genso Wanderer: Lotus Labyrinth R - Lotus Friends | 207155 | [207155-touhou-genso-wanderer-lotus-labyrinth-r-lotus-friends.json](./207155-touhou-genso-wanderer-lotus-labyrinth-r-lotus-friends.json) |
 | Touhou Genso Wanderer: Lotus Labyrinth R - Wily Beast and Weakest Creature Friends | 207154 | [207154-touhou-genso-wanderer-lotus-labyrinth-r-wily-beast-and-weakest-creature-friends.json](./207154-touhou-genso-wanderer-lotus-labyrinth-r-wily-beast-and-weakest-creature-friends.json) |
@@ -26255,6 +26260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Mystia's Izakaya DLC 4 Pack: Garden of the Sun & Shining Needle Castle | 301315 | [301315-touhou-mystias-izakaya-dlc-4-pack-garden-of-the-sun-and-shining-needle-castle.json](./301315-touhou-mystias-izakaya-dlc-4-pack-garden-of-the-sun-and-shining-needle-castle.json) |
 | Touhou Mystia's Izakaya DLC1 Pack: Forest of Magic & Youkai Mountain | 209735 | [209735-touhou-mystias-izakaya-dlc1-pack-forest-of-magic-and-youkai-mountain.json](./209735-touhou-mystias-izakaya-dlc1-pack-forest-of-magic-and-youkai-mountain.json) |
 | Touhou Mystia's Izakaya DLC5 Pack: Makai & Lunar Capital | 301317 | [301317-touhou-mystias-izakaya-dlc5-pack-makai-and-lunar-capital.json](./301317-touhou-mystias-izakaya-dlc5-pack-makai-and-lunar-capital.json) |
+| Touhou Mystia's Izakaya: DLC 3 Pack - Myouren Temple & Divine Spirit Mausoleum | 227607 | [227607-touhou-mystias-izakaya-dlc-3-pack-myouren-temple-and-divine-spirit-mausoleum.json](./227607-touhou-mystias-izakaya-dlc-3-pack-myouren-temple-and-divine-spirit-mausoleum.json) |
 | TouHou Nil Soul | 114801 | [114801-touhou-nil-soul.json](./114801-touhou-nil-soul.json) |
 | Touhou Pants Contest | 111365 | [111365-touhou-pants-contest.json](./111365-touhou-pants-contest.json) |
 | Touhou Perfect Sakura Fantastica | 212732 | [212732-touhou-perfect-sakura-fantastica.json](./212732-touhou-perfect-sakura-fantastica.json) |
@@ -31039,6 +31045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropico 6: Festival | 165412 | [165412-tropico-6-festival.json](./165412-tropico-6-festival.json) |
 | Tropico 6: Going Viral | 268934 | [268934-tropico-6-going-viral.json](./268934-tropico-6-going-viral.json) |
 | Tropico 6: Lobbyistico | 155171 | [155171-tropico-6-lobbyistico.json](./155171-tropico-6-lobbyistico.json) |
+| Tropico 6: New Frontiers | 227611 | [227611-tropico-6-new-frontiers.json](./227611-tropico-6-new-frontiers.json) |
 | Tropico 6: Next Gen Edition | 191496 | [191496-tropico-6-next-gen-edition.json](./191496-tropico-6-next-gen-edition.json) |
 | Tropico 6: Nintendo Switch Starter Bundle | 283202 | [283202-tropico-6-nintendo-switch-starter-bundle.json](./283202-tropico-6-nintendo-switch-starter-bundle.json) |
 | Tropico 6: Return to Nature | 334642 | [334642-tropico-6-return-to-nature.json](./334642-tropico-6-return-to-nature.json) |
