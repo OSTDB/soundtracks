@@ -14539,6 +14539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smith's Chronicles | 358868 | [358868-smiths-chronicles.json](./358868-smiths-chronicles.json) |
 | Smithereens! | 22412 | [22412-smithereens.json](./22412-smithereens.json) |
 | Smithing Master | 297615 | [297615-smithing-master.json](./297615-smithing-master.json) |
+| Smiths & Legends | 204132 | [204132-smiths-and-legends.json](./204132-smiths-and-legends.json) |
 | SmithStory II | 193879 | [193879-smithstory-ii.json](./193879-smithstory-ii.json) |
 | Smithworks | 204603 | [204603-smithworks.json](./204603-smithworks.json) |
 | Smithy | 32486 | [32486-smithy.json](./32486-smithy.json) |
@@ -19591,7 +19592,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -19761,6 +19761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Mash | 366877 | [366877-space-mash.json](./366877-space-mash.json) |
 | Space Master | 292440 | [292440-space-master.json](./292440-space-master.json) |
 | Space Max | 236975 | [236975-space-max.json](./236975-space-max.json) |
+| Space Maxwell: Arcade | 204130 | [204130-space-maxwell-arcade.json](./204130-space-maxwell-arcade.json) |
 | Space Mayhem | 113039 | [113039-space-mayhem.json](./113039-space-mayhem.json) |
 | Space Maze | 103021 | [103021-space-maze.json](./103021-space-maze.json) |
 | Space Maze | 260322 | [260322-space-maze.json](./260322-space-maze.json) |
@@ -30184,6 +30185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunny Day Sky | 397853 | [397853-sunny-day-sky.json](./397853-sunny-day-sky.json) |
 | Sunny Fairy | 151678 | [151678-sunny-fairy.json](./151678-sunny-fairy.json) |
 | Sunny Girl | 252265 | [252265-sunny-girl.json](./252265-sunny-girl.json) |
+| Sunny Grove | 204125 | [204125-sunny-grove.json](./204125-sunny-grove.json) |
 | Sunny Hillride | 10931 | [10931-sunny-hillride.json](./10931-sunny-hillride.json) |
 | Sunny Love | 367618 | [367618-sunny-love.json](./367618-sunny-love.json) |
 | Sunny Memories | 226353 | [226353-sunny-memories.json](./226353-sunny-memories.json) |
