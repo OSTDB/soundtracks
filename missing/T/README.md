@@ -4052,6 +4052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis 2003 | 23712 | [23712-tennis-2003.json](./23712-tennis-2003.json) |
 | Tennis 2024 Simulator | 280149 | [280149-tennis-2024-simulator.json](./280149-tennis-2024-simulator.json) |
 | Tennis 2K2 | 45843 | [45843-tennis-2k2.json](./45843-tennis-2k2.json) |
+| Tennis Ace | 195829 | [195829-tennis-ace.json](./195829-tennis-ace.json) |
 | Tennis Ace | 46111 | [46111-tennis-ace.json](./46111-tennis-ace.json) |
 | Tennis Addict | 206215 | [206215-tennis-addict.json](./206215-tennis-addict.json) |
 | Tennis Antics | 54426 | [54426-tennis-antics.json](./54426-tennis-antics.json) |
@@ -16139,6 +16140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | the Sequence | 20036 | [20036-the-sequence.json](./20036-the-sequence.json) |
 | The Sequence | 33425 | [33425-the-sequence.json](./33425-the-sequence.json) |
 | The Sequence 2 | 106766 | [106766-the-sequence-2.json](./106766-the-sequence-2.json) |
+| The Sequence 2 | 195836 | [195836-the-sequence-2.json](./195836-the-sequence-2.json) |
 | The Sequencer | 393950 | [393950-the-sequencer.json](./393950-the-sequencer.json) |
 | The Serf's Tale | 72640 | [72640-the-serfs-tale.json](./72640-the-serfs-tale.json) |
 | The Serial Adventures of Dick Jack BB! | 176441 | [176441-the-serial-adventures-of-dick-jack-bb.json](./176441-the-serial-adventures-of-dick-jack-bb.json) |
@@ -16721,6 +16723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sinking Structure, Clione, and Lost Child: Log-1 | 193443 | [193443-the-sinking-structure-clione-and-lost-child-log-1.json](./193443-the-sinking-structure-clione-and-lost-child-log-1.json) |
 | The Sinking Structure, Clione, and Lost Child: Log-2 | 193610 | [193610-the-sinking-structure-clione-and-lost-child-log-2.json](./193610-the-sinking-structure-clione-and-lost-child-log-2.json) |
 | The Sinking Structure, Clione, and Lost Child: Log-3 | 192419 | [192419-the-sinking-structure-clione-and-lost-child-log-3.json](./192419-the-sinking-structure-clione-and-lost-child-log-3.json) |
+| The Sinking Structure, Clione, and Lost Child: Log4 | 195803 | [195803-the-sinking-structure-clione-and-lost-child-log4.json](./195803-the-sinking-structure-clione-and-lost-child-log4.json) |
 | The Sinking Structure, Clione, and Lost Child: Log5 | 195225 | [195225-the-sinking-structure-clione-and-lost-child-log5.json](./195225-the-sinking-structure-clione-and-lost-child-log5.json) |
 | The Sins | 267573 | [267573-the-sins.json](./267573-the-sins.json) |
 | The Sintonia Chronicles | 348129 | [348129-the-sintonia-chronicles.json](./348129-the-sintonia-chronicles.json) |
@@ -17695,6 +17698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Three Stooges: Treasure Hunt Hijinks | 65184 | [65184-the-three-stooges-treasure-hunt-hijinks.json](./65184-the-three-stooges-treasure-hunt-hijinks.json) |
 | The Three Vegan Entrepreneurs | 376142 | [376142-the-three-vegan-entrepreneurs.json](./376142-the-three-vegan-entrepreneurs.json) |
 | The Three-Body Problem | 135694 | [135694-the-three-body-problem.json](./135694-the-three-body-problem.json) |
+| The Threshold Dweller | 195835 | [195835-the-threshold-dweller.json](./195835-the-threshold-dweller.json) |
 | The Thrill of Combat | 242925 | [242925-the-thrill-of-combat.json](./242925-the-thrill-of-combat.json) |
 | The Thrill of the Fight 2 | 329781 | [329781-the-thrill-of-the-fight-2.json](./329781-the-thrill-of-the-fight-2.json) |
 | The Throne | 144329 | [144329-the-throne.json](./144329-the-throne.json) |
@@ -18938,6 +18942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wild Thornberrys: Chimp Chase | 49373 | [49373-the-wild-thornberrys-chimp-chase.json](./49373-the-wild-thornberrys-chimp-chase.json) |
 | The Wild Thornberrys' Animal Adventures | 8014 | [8014-the-wild-thornberrys-animal-adventures.json](./8014-the-wild-thornberrys-animal-adventures.json) |
 | The Wild West | 47889 | [47889-the-wild-west.json](./47889-the-wild-west.json) |
+| The Wilds | 195831 | [195831-the-wilds.json](./195831-the-wilds.json) |
 | The Wilds of Dacrima: Field Notes from a Poorly Supervised Alchemist and his Clockwork Robot Companion | 126856 | [126856-the-wilds-of-dacrima-field-notes-from-a-poorly-supervised-alchemist-and-his-clockwork-robot-companion.json](./126856-the-wilds-of-dacrima-field-notes-from-a-poorly-supervised-alchemist-and-his-clockwork-robot-companion.json) |
 | The Will | 232766 | [232766-the-will.json](./232766-the-will.json) |
 | The Will 2 - The Castle 1999 | 124682 | [124682-the-will-2-the-castle-1999.json](./124682-the-will-2-the-castle-1999.json) |
@@ -23359,6 +23364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Invaders | 92501 | [92501-tiny-invaders.json](./92501-tiny-invaders.json) |
 | Tiny Island | 204301 | [204301-tiny-island.json](./204301-tiny-island.json) |
 | Tiny Island Survival | 187809 | [187809-tiny-island-survival.json](./187809-tiny-island-survival.json) |
+| Tiny Islands | 195815 | [195815-tiny-islands.json](./195815-tiny-islands.json) |
 | Tiny Isle | 374794 | [374794-tiny-isle.json](./374794-tiny-isle.json) |
 | Tiny Jar Farm | 384864 | [384864-tiny-jar-farm.json](./384864-tiny-jar-farm.json) |
 | Tiny Jukebox | 279857 | [279857-tiny-jukebox.json](./279857-tiny-jukebox.json) |
@@ -32910,6 +32916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Kickers | 232129 | [232129-twin-kickers.json](./232129-twin-kickers.json) |
 | Twin Kingdom Valley | 12971 | [12971-twin-kingdom-valley.json](./12971-twin-kingdom-valley.json) |
 | Twin Legend | 400098 | [400098-twin-legend.json](./400098-twin-legend.json) |
+| Twin Mind: Ghost Hunter - Collector's Edition | 195849 | [195849-twin-mind-ghost-hunter-collectors-edition.json](./195849-twin-mind-ghost-hunter-collectors-edition.json) |
 | Twin Mind: Murderous Jealousy | 294752 | [294752-twin-mind-murderous-jealousy.json](./294752-twin-mind-murderous-jealousy.json) |
 | Twin Mind: Murderous Jealousy - Collector's Edition | 170197 | [170197-twin-mind-murderous-jealousy-collectors-edition.json](./170197-twin-mind-murderous-jealousy-collectors-edition.json) |
 | Twin Mind: Nobody's Here | 228076 | [228076-twin-mind-nobodys-here.json](./228076-twin-mind-nobodys-here.json) |
