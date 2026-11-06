@@ -879,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Card Game | 404064 | [404064-galaxy-card-game.json](./404064-galaxy-card-game.json) |
 | Galaxy Cat | 201953 | [201953-galaxy-cat.json](./201953-galaxy-cat.json) |
 | Galaxy Citizen | 202538 | [202538-galaxy-citizen.json](./202538-galaxy-citizen.json) |
+| Galaxy Citizen: Beginning | 202468 | [202468-galaxy-citizen-beginning.json](./202468-galaxy-citizen-beginning.json) |
 | Galaxy Cleaners: Dracula's Castle | 385431 | [385431-galaxy-cleaners-draculas-castle.json](./385431-galaxy-cleaners-draculas-castle.json) |
 | Galaxy Cocoa | 363573 | [363573-galaxy-cocoa.json](./363573-galaxy-cocoa.json) |
 | Galaxy Combat Wargames | 32393 | [32393-galaxy-combat-wargames.json](./32393-galaxy-combat-wargames.json) |
@@ -8395,6 +8396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravezone Arena | 382827 | [382827-gravezone-arena.json](./382827-gravezone-arena.json) |
 | Gravi Dot | 91909 | [91909-gravi-dot.json](./91909-gravi-dot.json) |
 | Gravia | 106428 | [106428-gravia.json](./106428-gravia.json) |
+| Graviators | 202460 | [202460-graviators.json](./202460-graviators.json) |
 | Gravibots | 309613 | [309613-gravibots.json](./309613-gravibots.json) |
 | GraviCat | 409872 | [409872-gravicat.json](./409872-gravicat.json) |
 | GraviChess | 384240 | [384240-gravichess.json](./384240-gravichess.json) |
