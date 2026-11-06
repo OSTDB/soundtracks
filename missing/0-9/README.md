@@ -721,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100,000 Games | 67177 | [67177-100-000-games.json](./67177-100-000-games.json) |
 | 100! | 99089 | [99089-100.json](./99089-100.json) |
 | 100% Accurate Youtuber Simulator | 376884 | [376884-100-accurate-youtuber-simulator.json](./376884-100-accurate-youtuber-simulator.json) |
+| 100% Challenge | 243469 | [243469-100-challenge.json](./243469-100-challenge.json) |
 | 100% Complete | 413678 | [413678-100-complete.json](./413678-100-complete.json) |
 | 100% Golf | 246270 | [246270-100-golf.json](./246270-100-golf.json) |
 | 100% Hidden Objects | 88626 | [88626-100-hidden-objects.json](./88626-100-hidden-objects.json) |
@@ -1913,6 +1914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2in1: Musik fur Kids + Englisch macht Spass | 269532 | [269532-2in1-musik-fur-kids-englisch-macht-spass.json](./269532-2in1-musik-fur-kids-englisch-macht-spass.json) |
 | 2K Ball N' Brawl | 155095 | [155095-2k-ball-n-brawl.json](./155095-2k-ball-n-brawl.json) |
 | 2K Drive | 22192 | [22192-2k-drive.json](./22192-2k-drive.json) |
+| 2K Essentials Collection | 243463 | [243463-2k-essentials-collection.json](./243463-2k-essentials-collection.json) |
 | 2K Games Pack | 319564 | [319564-2k-games-pack.json](./319564-2k-games-pack.json) |
 | 2K Invaders | 304239 | [304239-2k-invaders.json](./304239-2k-invaders.json) |
 | 2K Shells | 328033 | [328033-2k-shells.json](./328033-2k-shells.json) |
