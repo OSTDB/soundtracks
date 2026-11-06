@@ -3194,6 +3194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Techno Prank | 345553 | [345553-techno-prank.json](./345553-techno-prank.json) |
 | Techno Tanks | 146223 | [146223-techno-tanks.json](./146223-techno-tanks.json) |
 | Techno Tower Defense | 169101 | [169101-techno-tower-defense.json](./169101-techno-tower-defense.json) |
+| Techno Trancer | 197996 | [197996-techno-trancer.json](./197996-techno-trancer.json) |
 | Techno: 2Kill | 391766 | [391766-techno-2kill.json](./391766-techno-2kill.json) |
 | Techno: The Gamma Project | 331976 | [331976-techno-the-gamma-project.json](./331976-techno-the-gamma-project.json) |
 | Technobabylon: Birthright | 260051 | [260051-technobabylon-birthright.json](./260051-technobabylon-birthright.json) |
@@ -17786,6 +17787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of Cabin: Cabin Panic | 92139 | [92139-the-tower-of-cabin-cabin-panic.json](./92139-the-tower-of-cabin-cabin-panic.json) |
 | The Tower of Druaga | 239167 | [239167-the-tower-of-druaga.json](./239167-the-tower-of-druaga.json) |
 | The Tower of Eden | 346153 | [346153-the-tower-of-eden.json](./346153-the-tower-of-eden.json) |
+| The Tower of Egbert | 197982 | [197982-the-tower-of-egbert.json](./197982-the-tower-of-egbert.json) |
 | The Tower of Elements | 35074 | [35074-the-tower-of-elements.json](./35074-the-tower-of-elements.json) |
 | The Tower of Five Hearts | 111402 | [111402-the-tower-of-five-hearts.json](./111402-the-tower-of-five-hearts.json) |
 | The Tower of Luminus | 217494 | [217494-the-tower-of-luminus.json](./217494-the-tower-of-luminus.json) |
@@ -23430,6 +23432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Robo Puzzles | 204133 | [204133-tiny-robo-puzzles.json](./204133-tiny-robo-puzzles.json) |
 | Tiny Robots Recharged | 167830 | [167830-tiny-robots-recharged.json](./167830-tiny-robots-recharged.json) |
 | Tiny Robots: Portal Escape | 297201 | [297201-tiny-robots-portal-escape.json](./297201-tiny-robots-portal-escape.json) |
+| Tiny Rogue | 197991 | [197991-tiny-rogue.json](./197991-tiny-rogue.json) |
 | Tiny Rogues | 215217 | [215217-tiny-rogues.json](./215217-tiny-rogues.json) |
 | Tiny Room | 393716 | [393716-tiny-room.json](./393716-tiny-room.json) |
 | Tiny Room 2 | 393734 | [393734-tiny-room-2.json](./393734-tiny-room-2.json) |
@@ -23437,6 +23440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Room Stories: Town Mystery | 122907 | [122907-tiny-room-stories-town-mystery.json](./122907-tiny-room-stories-town-mystery.json) |
 | Tiny Royale | 119240 | [119240-tiny-royale.json](./119240-tiny-royale.json) |
 | Tiny RTS | 421831 | [421831-tiny-rts.json](./421831-tiny-rts.json) |
+| Tiny Runner | 198001 | [198001-tiny-runner.json](./198001-tiny-runner.json) |
 | Tiny Sea Adventure | 58557 | [58557-tiny-sea-adventure.json](./58557-tiny-sea-adventure.json) |
 | Tiny Settlers | 241744 | [241744-tiny-settlers.json](./241744-tiny-settlers.json) |
 | Tiny Shadows Interwoven Hearts | 374078 | [374078-tiny-shadows-interwoven-hearts.json](./374078-tiny-shadows-interwoven-hearts.json) |
@@ -23632,6 +23636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tireless Pig | 219653 | [219653-tireless-pig.json](./219653-tireless-pig.json) |
 | Tireless: Prepare For the Adrenaline | 103279 | [103279-tireless-prepare-for-the-adrenaline.json](./103279-tireless-prepare-for-the-adrenaline.json) |
 | Tiresmoke | 103862 | [103862-tiresmoke.json](./103862-tiresmoke.json) |
+| Tireur de Couleur | 197983 | [197983-tireur-de-couleur.json](./197983-tireur-de-couleur.json) |
 | Tiris | 363646 | [363646-tiris.json](./363646-tiris.json) |
 | Tirkiss ~Princess Shade~ | 60530 | [60530-tirkiss-princess-shade.json](./60530-tirkiss-princess-shade.json) |
 | Tirsy's Tale | 207611 | [207611-tirsys-tale.json](./207611-tirsys-tale.json) |
