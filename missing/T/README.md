@@ -12729,6 +12729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Ocarina of Time 3D Randomizer | 335717 | [335717-the-legend-of-zelda-ocarina-of-time-3d-randomizer.json](./335717-the-legend-of-zelda-ocarina-of-time-3d-randomizer.json) |
 | The Legend of Zelda: Ocarina of Time Online | 198341 | [198341-the-legend-of-zelda-ocarina-of-time-online.json](./198341-the-legend-of-zelda-ocarina-of-time-online.json) |
 | The Legend of Zelda: Ocarina of Time Randomizer | 203116 | [203116-the-legend-of-zelda-ocarina-of-time-randomizer.json](./203116-the-legend-of-zelda-ocarina-of-time-randomizer.json) |
+| The Legend of Zelda: Oni Link Begins | 202978 | [202978-the-legend-of-zelda-oni-link-begins.json](./202978-the-legend-of-zelda-oni-link-begins.json) |
 | The Legend of Zelda: Oracle of Ages | 1041 | [1041-the-legend-of-zelda-oracle-of-ages.json](./1041-the-legend-of-zelda-oracle-of-ages.json) |
 | The Legend of Zelda: Oracle of Ages Randomizer | 242025 | [242025-the-legend-of-zelda-oracle-of-ages-randomizer.json](./242025-the-legend-of-zelda-oracle-of-ages-randomizer.json) |
 | The Legend of Zelda: Oracle of Life Online | 324095 | [324095-the-legend-of-zelda-oracle-of-life-online.json](./324095-the-legend-of-zelda-oracle-of-life-online.json) |
@@ -12789,6 +12790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Threads of Despair | 323274 | [323274-the-legend-of-zelda-threads-of-despair.json](./323274-the-legend-of-zelda-threads-of-despair.json) |
 | The Legend of Zelda: Time Crystal | 323062 | [323062-the-legend-of-zelda-time-crystal.json](./323062-the-legend-of-zelda-time-crystal.json) |
 | The Legend of Zelda: Time Lost | 314132 | [314132-the-legend-of-zelda-time-lost.json](./314132-the-legend-of-zelda-time-lost.json) |
+| The Legend of Zelda: Time to Triumph | 202979 | [202979-the-legend-of-zelda-time-to-triumph.json](./202979-the-legend-of-zelda-time-to-triumph.json) |
 | The Legend of Zelda: Time Walker | 323277 | [323277-the-legend-of-zelda-time-walker.json](./323277-the-legend-of-zelda-time-walker.json) |
 | The Legend of Zelda: Tri Force Heroes | 11194 | [11194-the-legend-of-zelda-tri-force-heroes.json](./11194-the-legend-of-zelda-tri-force-heroes.json) |
 | The Legend of Zelda: Trident of Power | 262254 | [262254-the-legend-of-zelda-trident-of-power.json](./262254-the-legend-of-zelda-trident-of-power.json) |
@@ -16713,6 +16715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sky Crawlers: Innocent Aces | 5160 | [5160-the-sky-crawlers-innocent-aces.json](./5160-the-sky-crawlers-innocent-aces.json) |
 | The Sky House | 305341 | [305341-the-sky-house.json](./305341-the-sky-house.json) |
 | The Sky is Falling! | 124421 | [124421-the-sky-is-falling.json](./124421-the-sky-is-falling.json) |
+| The Sky Left Us | 202980 | [202980-the-sky-left-us.json](./202980-the-sky-left-us.json) |
 | The Sky May Be | 252213 | [252213-the-sky-may-be.json](./252213-the-sky-may-be.json) |
 | The Sky Project: Land of Noris | 418547 | [418547-the-sky-project-land-of-noris.json](./418547-the-sky-project-land-of-noris.json) |
 | The Skylia Prophecy | 141585 | [141585-the-skylia-prophecy.json](./141585-the-skylia-prophecy.json) |
@@ -25682,6 +25685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tornuffalo | 31156 | [31156-tornuffalo.json](./31156-tornuffalo.json) |
 | Tornuffalo: Full-Body Action with Vive Trackers | 170191 | [170191-tornuffalo-full-body-action-with-vive-trackers.json](./170191-tornuffalo-full-body-action-with-vive-trackers.json) |
 | Tornuktu | 191554 | [191554-tornuktu.json](./191554-tornuktu.json) |
+| Toro | 202982 | [202982-toro.json](./202982-toro.json) |
 | Toro | 34099 | [34099-toro.json](./34099-toro.json) |
 | Toro and Friends: Onsen Town | 119233 | [119233-toro-and-friends-onsen-town.json](./119233-toro-and-friends-onsen-town.json) |
 | Toro Farcito e la maledizione della Piramide | 394691 | [394691-toro-farcito-e-la-maledizione-della-piramide.json](./394691-toro-farcito-e-la-maledizione-della-piramide.json) |
@@ -26460,6 +26464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Rock Maiden FC | 202936 | [202936-touhou-rock-maiden-fc.json](./202936-touhou-rock-maiden-fc.json) |
 | Touhou Rock Maiden FC 2: History's Greatest Sermon!! | 203652 | [203652-touhou-rock-maiden-fc-2-historys-greatest-sermon.json](./203652-touhou-rock-maiden-fc-2-historys-greatest-sermon.json) |
 | Touhou Rock Maiden FC 3: Little Native Goddess's Revival | 386119 | [386119-touhou-rock-maiden-fc-3-little-native-goddesss-revival.json](./386119-touhou-rock-maiden-fc-3-little-native-goddesss-revival.json) |
+| Touhou Rock Maiden: Houraisan Kaguya no Yabou!? | 202905 | [202905-touhou-rock-maiden-houraisan-kaguya-no-yabou.json](./202905-touhou-rock-maiden-houraisan-kaguya-no-yabou.json) |
 | Touhou Rououmu | 240557 | [240557-touhou-rououmu.json](./240557-touhou-rououmu.json) |
 | Touhou Saibanmu: Rookie Attorney Legendry | 318963 | [318963-touhou-saibanmu-rookie-attorney-legendry.json](./318963-touhou-saibanmu-rookie-attorney-legendry.json) |
 | Touhou Saikotan: Servants of Harvest Wish | 246678 | [246678-touhou-saikotan-servants-of-harvest-wish.json](./246678-touhou-saikotan-servants-of-harvest-wish.json) |
@@ -28670,6 +28675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainsanity | 361333 | [361333-trainsanity.json](./361333-trainsanity.json) |
 | Trainscape | 43175 | [43175-trainscape.json](./43175-trainscape.json) |
 | Trainslation | 157331 | [157331-trainslation.json](./157331-trainslation.json) |
+| Trainsmission | 202984 | [202984-trainsmission.json](./202984-trainsmission.json) |
 | Trainspotting Simulator | 117555 | [117555-trainspotting-simulator.json](./117555-trainspotting-simulator.json) |
 | TrainStation: Game on Rails | 74852 | [74852-trainstation-game-on-rails.json](./74852-trainstation-game-on-rails.json) |
 | TrainTastic | 272900 | [272900-traintastic.json](./272900-traintastic.json) |
@@ -29979,6 +29985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel With Dinosaurs | 351710 | [351710-travel-with-dinosaurs.json](./351710-travel-with-dinosaurs.json) |
 | Travel Words: Adventure story | 235021 | [235021-travel-words-adventure-story.json](./235021-travel-words-adventure-story.json) |
 | Traveler | 146599 | [146599-traveler.json](./146599-traveler.json) |
+| Traveler | 202985 | [202985-traveler.json](./202985-traveler.json) |
 | Traveler | 231589 | [231589-traveler.json](./231589-traveler.json) |
 | Traveler | 238969 | [238969-traveler.json](./238969-traveler.json) |
 | Traveler Eternal Night | 288566 | [288566-traveler-eternal-night.json](./288566-traveler-eternal-night.json) |
