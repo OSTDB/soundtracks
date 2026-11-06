@@ -1617,6 +1617,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Sport | 113446 | [113446-rally-sport.json](./113446-rally-sport.json) |
 | Rally TS | 406194 | [406194-rally-ts.json](./406194-rally-ts.json) |
 | Rally-X | 18620 | [18620-rally-x.json](./18620-rally-x.json) |
+| Rally-X Arrangement | 229440 | [229440-rally-x-arrangement.json](./229440-rally-x-arrangement.json) |
+| Rally-X Remix | 229456 | [229456-rally-x-remix.json](./229456-rally-x-remix.json) |
 | Rally-X Rumble | 62035 | [62035-rally-x-rumble.json](./62035-rally-x-rumble.json) |
 | Rally: The Final Round of the World Rally Championship | 214983 | [214983-rally-the-final-round-of-the-world-rally-championship.json](./214983-rally-the-final-round-of-the-world-rally-championship.json) |
 | Rally45 | 89279 | [89279-rally45.json](./89279-rally45.json) |
@@ -10738,6 +10740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ronny & Julia | 399389 | [399389-ronny-and-julia.json](./399389-ronny-and-julia.json) |
 | Ronny Runs Around Robots | 53526 | [53526-ronny-runs-around-robots.json](./53526-ronny-runs-around-robots.json) |
 | Ronny's Climb | 291079 | [291079-ronnys-climb.json](./291079-ronnys-climb.json) |
+| RonRon | 229462 | [229462-ronron.json](./229462-ronron.json) |
 | Ronshade | 264639 | [264639-ronshade.json](./264639-ronshade.json) |
 | Rontgard | 398553 | [398553-rontgard.json](./398553-rontgard.json) |
 | Ronza | 370781 | [370781-ronza.json](./370781-ronza.json) |
