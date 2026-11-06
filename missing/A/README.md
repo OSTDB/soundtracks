@@ -12683,6 +12683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Gamer Classic | 202791 | [202791-arcade-gamer-classic.json](./202791-arcade-gamer-classic.json) |
 | Arcade Gamer Classic | 202792 | [202792-arcade-gamer-classic.json](./202792-arcade-gamer-classic.json) |
 | Arcade Gamer Classic | 202793 | [202793-arcade-gamer-classic.json](./202793-arcade-gamer-classic.json) |
+| Arcade Gamer Portable | 202886 | [202886-arcade-gamer-portable.json](./202886-arcade-gamer-portable.json) |
 | Arcade Games Collection | 368265 | [368265-arcade-games-collection.json](./368265-arcade-games-collection.json) |
 | Arcade Gears: Image Fight & X Multiply | 43756 | [43756-arcade-gears-image-fight-and-x-multiply.json](./43756-arcade-gears-image-fight-and-x-multiply.json) |
 | Arcade Gold featuring Pac-Man | 219420 | [219420-arcade-gold-featuring-pac-man.json](./219420-arcade-gold-featuring-pac-man.json) |
