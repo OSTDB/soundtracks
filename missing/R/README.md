@@ -4760,6 +4760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relay | 376814 | [376814-relay.json](./376814-relay.json) |
 | RelayCars | 113521 | [113521-relaycars.json](./113521-relaycars.json) |
 | Relayer | 113594 | [113594-relayer.json](./113594-relayer.json) |
+| Relayer Advanced | 221481 | [221481-relayer-advanced.json](./221481-relayer-advanced.json) |
 | Relayer Advanced: Definitive Edition | 370821 | [370821-relayer-advanced-definitive-edition.json](./370821-relayer-advanced-definitive-edition.json) |
 | Relayer: Limited Edition | 172776 | [172776-relayer-limited-edition.json](./172776-relayer-limited-edition.json) |
 | Release Me | 310173 | [310173-release-me.json](./310173-release-me.json) |
@@ -8290,6 +8291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RMaze | 201420 | [201420-rmaze.json](./201420-rmaze.json) |
 | RMF's Ragdoll Physics Experiments | 344800 | [344800-rmfs-ragdoll-physics-experiments.json](./344800-rmfs-ragdoll-physics-experiments.json) |
 | RMX Real Motocross | 147133 | [147133-rmx-real-motocross.json](./147133-rmx-real-motocross.json) |
+| RndMaze | 221567 | [221567-rndmaze.json](./221567-rndmaze.json) |
 | RNFF: Running Naked in a Field of Flowers | 69544 | [69544-rnff-running-naked-in-a-field-of-flowers.json](./69544-rnff-running-naked-in-a-field-of-flowers.json) |
 | RNG & Yuri | 228867 | [228867-rng-and-yuri.json](./228867-rng-and-yuri.json) |
 | Rng Arena: Fate Fight | 374873 | [374873-rng-arena-fate-fight.json](./374873-rng-arena-fate-fight.json) |
