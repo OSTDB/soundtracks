@@ -4447,6 +4447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflex on Go! | 320071 | [320071-reflex-on-go.json](./320071-reflex-on-go.json) |
 | Reflex Point | 19707 | [19707-reflex-point.json](./19707-reflex-point.json) |
 | Reflex Run | 390190 | [390190-reflex-run.json](./390190-reflex-run.json) |
+| Reflex Runner | 218824 | [218824-reflex-runner.json](./218824-reflex-runner.json) |
 | Reflex Rush | 411236 | [411236-reflex-rush.json](./411236-reflex-rush.json) |
 | Reflex Strike - Reaction Time Counter | 101050 | [101050-reflex-strike-reaction-time-counter.json](./101050-reflex-strike-reaction-time-counter.json) |
 | Reflex Unit 2 | 147697 | [147697-reflex-unit-2.json](./147697-reflex-unit-2.json) |
