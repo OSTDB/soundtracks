@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obelisk | 130194 | [130194-obelisk.json](./130194-obelisk.json) |
 | Obelisk | 391668 | [391668-obelisk.json](./391668-obelisk.json) |
 | Obelix | 71703 | [71703-obelix.json](./71703-obelix.json) |
+| Obelixes Tower Defense | 204054 | [204054-obelixes-tower-defense.json](./204054-obelixes-tower-defense.json) |
 | Obelus Manor | 374844 | [374844-obelus-manor.json](./374844-obelus-manor.json) |
 | Oben | 154889 | [154889-oben.json](./154889-oben.json) |
 | Obenseuer | 111983 | [111983-obenseuer.json](./111983-obenseuer.json) |
@@ -366,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Occult PreRaise | 74980 | [74980-occult-preraise.json](./74980-occult-preraise.json) |
 | Occult Raise | 43110 | [43110-occult-raise.json](./43110-occult-raise.json) |
 | Occult ReRaise | 54860 | [54860-occult-reraise.json](./54860-occult-reraise.json) |
+| Occult Rewrite | 204053 | [204053-occult-rewrite.json](./204053-occult-rewrite.json) |
 | Occult Secrets of the Third Reich on Mars | 257158 | [257158-occult-secrets-of-the-third-reich-on-mars.json](./257158-occult-secrets-of-the-third-reich-on-mars.json) |
 | Occult: Satanic interrogation | 174574 | [174574-occult-satanic-interrogation.json](./174574-occult-satanic-interrogation.json) |
 | Occult: Scarlet Elegy | 404973 | [404973-occult-scarlet-elegy.json](./404973-occult-scarlet-elegy.json) |
@@ -414,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Express | 54253 | [54253-ocean-express.json](./54253-ocean-express.json) |
 | Ocean Fishooter | 381737 | [381737-ocean-fishooter.json](./381737-ocean-fishooter.json) |
 | Ocean Gap | 285446 | [285446-ocean-gap.json](./285446-ocean-gap.json) |
+| Ocean Hell | 204052 | [204052-ocean-hell.json](./204052-ocean-hell.json) |
 | Ocean Is Home | 224782 | [224782-ocean-is-home.json](./224782-ocean-is-home.json) |
 | Ocean Is Home: Survival Island | 86793 | [86793-ocean-is-home-survival-island.json](./86793-ocean-is-home-survival-island.json) |
 | Ocean Keeper Co-op | 371840 | [371840-ocean-keeper-co-op.json](./371840-ocean-keeper-co-op.json) |
@@ -3456,6 +3459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Dartness | 378187 | [378187-operation-dartness.json](./378187-operation-dartness.json) |
 | Operation Deadbolt | 365744 | [365744-operation-deadbolt.json](./365744-operation-deadbolt.json) |
 | Operation Deep Magic: Cryptanalysis | 128258 | [128258-operation-deep-magic-cryptanalysis.json](./128258-operation-deep-magic-cryptanalysis.json) |
+| Operation Defensive! | 204051 | [204051-operation-defensive.json](./204051-operation-defensive.json) |
 | Operation Desert Road | 74234 | [74234-operation-desert-road.json](./74234-operation-desert-road.json) |
 | Operation DogFight | 95396 | [95396-operation-dogfight.json](./95396-operation-dogfight.json) |
 | Operation Echo | 228919 | [228919-operation-echo.json](./228919-operation-echo.json) |
@@ -5383,6 +5387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outside the Grid | 161544 | [161544-outside-the-grid.json](./161544-outside-the-grid.json) |
 | Outside the home | 176249 | [176249-outside-the-home.json](./176249-outside-the-home.json) |
 | Outside the Realm | 85320 | [85320-outside-the-realm.json](./85320-outside-the-realm.json) |
+| Outside the Window | 204050 | [204050-outside-the-window.json](./204050-outside-the-window.json) |
 | Outside World | 54906 | [54906-outside-world.json](./54906-outside-world.json) |
 | Outside World: Remembered | 98325 | [98325-outside-world-remembered.json](./98325-outside-world-remembered.json) |
 | Outside: Stray Cat | 185453 | [185453-outside-stray-cat.json](./185453-outside-stray-cat.json) |
