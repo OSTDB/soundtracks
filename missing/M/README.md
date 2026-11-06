@@ -1238,6 +1238,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Paths HD | 263584 | [263584-magic-paths-hd.json](./263584-magic-paths-hd.json) |
 | Magic Patrol Envoy | 311135 | [311135-magic-patrol-envoy.json](./311135-magic-patrol-envoy.json) |
 | Magic Pearls | 70059 | [70059-magic-pearls.json](./70059-magic-pearls.json) |
+| Magic Pen | 236614 | [236614-magic-pen.json](./236614-magic-pen.json) |
+| Magic Pen 2 | 236615 | [236615-magic-pen-2.json](./236615-magic-pen-2.json) |
 | Magic Pen Color Book | 187488 | [187488-magic-pen-color-book.json](./187488-magic-pen-color-book.json) |
 | Magic Pen Tracing Book | 400061 | [400061-magic-pen-tracing-book.json](./400061-magic-pen-tracing-book.json) |
 | Magic Pengel: The Quest for Color | 11357 | [11357-magic-pengel-the-quest-for-color.json](./11357-magic-pengel-the-quest-for-color.json) |
@@ -5860,7 +5862,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -7066,6 +7067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medville | 276634 | [276634-medville.json](./276634-medville.json) |
 | Meeblings | 214498 | [214498-meeblings.json](./214498-meeblings.json) |
 | Meeblings | 389192 | [389192-meeblings.json](./389192-meeblings.json) |
+| Meeblings 2 | 236612 | [236612-meeblings-2.json](./236612-meeblings-2.json) |
 | Meeblings: Player Pack | 389189 | [389189-meeblings-player-pack.json](./389189-meeblings-player-pack.json) |
 | Meebzork | 282627 | [282627-meebzork.json](./282627-meebzork.json) |
 | MeecheenMe | 189862 | [189862-meecheenme.json](./189862-meecheenme.json) |
@@ -7883,6 +7885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Serval | 224750 | [224750-mega-serval.json](./224750-mega-serval.json) |
 | Mega Shoot | 398127 | [398127-mega-shoot.json](./398127-mega-shoot.json) |
 | Mega Shooter: Shoot em up | 100922 | [100922-mega-shooter-shoot-em-up.json](./100922-mega-shooter-shoot-em-up.json) |
+| Mega Snaileeyo Adventure | 236598 | [236598-mega-snaileeyo-adventure.json](./236598-mega-snaileeyo-adventure.json) |
 | Mega Snake | 256613 | [256613-mega-snake.json](./256613-mega-snake.json) |
 | Mega Snake: 16-Bit Edition | 412598 | [412598-mega-snake-16-bit-edition.json](./412598-mega-snake-16-bit-edition.json) |
 | Mega Snake: highly addictive | 232602 | [232602-mega-snake-highly-addictive.json](./232602-mega-snake-highly-addictive.json) |
@@ -10421,6 +10424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Hexagon | 41156 | [41156-micro-hexagon.json](./41156-micro-hexagon.json) |
 | Micro Invasion | 68554 | [68554-micro-invasion.json](./68554-micro-invasion.json) |
 | Micro Knight 4 | 195996 | [195996-micro-knight-4.json](./195996-micro-knight-4.json) |
+| Micro Life | 236627 | [236627-micro-life.json](./236627-micro-life.json) |
 | Micro Machines | 250468 | [250468-micro-machines.json](./250468-micro-machines.json) |
 | Micro Machines | 250469 | [250469-micro-machines.json](./250469-micro-machines.json) |
 | Micro Machines | 250470 | [250470-micro-machines.json](./250470-micro-machines.json) |
