@@ -243,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hade: Forbidden Levels | 172092 | [172092-hade-forbidden-levels.json](./172092-hade-forbidden-levels.json) |
 | Hadean Lands | 18654 | [18654-hadean-lands.json](./18654-hadean-lands.json) |
 | Hadean Tactics | 133361 | [133361-hadean-tactics.json](./133361-hadean-tactics.json) |
+| Hadelia Quest | 233304 | [233304-hadelia-quest.json](./233304-hadelia-quest.json) |
 | Hadephobia | 260957 | [260957-hadephobia.json](./260957-hadephobia.json) |
 | Hades | 80529 | [80529-hades.json](./80529-hades.json) |
 | Hades 2 | 134619 | [134619-hades-2.json](./134619-hades-2.json) |
