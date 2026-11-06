@@ -5194,6 +5194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Nureta Puzzle Cyberpunk | 163557 | [163557-hentai-nureta-puzzle-cyberpunk.json](./163557-hentai-nureta-puzzle-cyberpunk.json) |
 | Hentai Nureta Puzzle Mythica | 157898 | [157898-hentai-nureta-puzzle-mythica.json](./157898-hentai-nureta-puzzle-mythica.json) |
 | Hentai Nureta Puzzle Power Girls | 163559 | [163559-hentai-nureta-puzzle-power-girls.json](./163559-hentai-nureta-puzzle-power-girls.json) |
+| Hentai Nurse | 226534 | [226534-hentai-nurse.json](./226534-hentai-nurse.json) |
 | Hentai Nurse | 296945 | [296945-hentai-nurse.json](./296945-hentai-nurse.json) |
 | Hentai Nurse | 322720 | [322720-hentai-nurse.json](./322720-hentai-nurse.json) |
 | Hentai Octoq Puzzle | 368570 | [368570-hentai-octoq-puzzle.json](./368570-hentai-octoq-puzzle.json) |
@@ -9560,6 +9561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hook & Roll | 401738 | [401738-hook-and-roll.json](./401738-hook-and-roll.json) |
 | Hook 2 | 192626 | [192626-hook-2.json](./192626-hook-2.json) |
 | Hook Champ | 67249 | [67249-hook-champ.json](./67249-hook-champ.json) |
+| Hook Escaper | 226532 | [226532-hook-escaper.json](./226532-hook-escaper.json) |
 | Hook it, Drift it, Race it | 180490 | [180490-hook-it-drift-it-race-it.json](./180490-hook-it-drift-it-race-it.json) |
 | Hook Line & Sinker | 284780 | [284780-hook-line-and-sinker.json](./284780-hook-line-and-sinker.json) |
 | Hook Line and Sniper | 319365 | [319365-hook-line-and-sniper.json](./319365-hook-line-and-sniper.json) |
@@ -10226,10 +10228,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshizora Navi | 92412 | [92412-hoshizora-navi.json](./92412-hoshizora-navi.json) |
 | Hoshizora no Comic Garden | 70660 | [70660-hoshizora-no-comic-garden.json](./70660-hoshizora-no-comic-garden.json) |
 | Hoshizora no Memoria -Eternal Heart- | 61404 | [61404-hoshizora-no-memoria-eternal-heart.json](./61404-hoshizora-no-memoria-eternal-heart.json) |
+| Hoshizora no Memoria Eternal Heart HD | 226538 | [226538-hoshizora-no-memoria-eternal-heart-hd.json](./226538-hoshizora-no-memoria-eternal-heart-hd.json) |
 | Hoshizora no Memoria: Wish Upon a Shooting Star HD | 312361 | [312361-hoshizora-no-memoria-wish-upon-a-shooting-star-hd.json](./312361-hoshizora-no-memoria-wish-upon-a-shooting-star-hd.json) |
 | Hoshizora Tensei Another Sky | 259709 | [259709-hoshizora-tensei-another-sky.json](./259709-hoshizora-tensei-another-sky.json) |
 | Hoshizora Testudou to Shiro no Tabi | 147405 | [147405-hoshizora-testudou-to-shiro-no-tabi.json](./147405-hoshizora-testudou-to-shiro-no-tabi.json) |
 | Hospice | 55161 | [55161-hospice.json](./55161-hospice.json) |
+| Hospice Vol. 1 | 226531 | [226531-hospice-vol-1.json](./226531-hospice-vol-1.json) |
 | Hospital | 261662 | [261662-hospital.json](./261662-hospital.json) |
 | Hospital & Animal Care Collection: 3 Game Bundle | 394568 | [394568-hospital-and-animal-care-collection-3-game-bundle.json](./394568-hospital-and-animal-care-collection-3-game-bundle.json) |
 | Hospital 9 | 123818 | [123818-hospital-9.json](./123818-hospital-9.json) |
