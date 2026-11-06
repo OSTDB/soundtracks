@@ -5843,6 +5843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resting Island | 362194 | [362194-resting-island.json](./362194-resting-island.json) |
 | Restitched | 147290 | [147290-restitched.json](./147290-restitched.json) |
 | Restless Dreams | 308284 | [308284-restless-dreams.json](./308284-restless-dreams.json) |
+| Restless Dungeon | 194084 | [194084-restless-dungeon.json](./194084-restless-dungeon.json) |
 | Restless Grounds | 340698 | [340698-restless-grounds.json](./340698-restless-grounds.json) |
 | Restless Hero | 121939 | [121939-restless-hero.json](./121939-restless-hero.json) |
 | Restless I | 391816 | [391816-restless-i.json](./391816-restless-i.json) |
