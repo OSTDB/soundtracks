@@ -2848,6 +2848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day Dream | 284233 | [284233-day-dream.json](./284233-day-dream.json) |
 | Day Hard | 222413 | [222413-day-hard.json](./222413-day-hard.json) |
 | Day In | 374202 | [374202-day-in.json](./374202-day-in.json) |
+| Day In Day Out | 244549 | [244549-day-in-day-out.json](./244549-day-in-day-out.json) |
 | Day In Dementia | 103170 | [103170-day-in-dementia.json](./103170-day-in-dementia.json) |
 | Day in the Life | 177323 | [177323-day-in-the-life.json](./177323-day-in-the-life.json) |
 | Day in the Life of a Harpy | 126877 | [126877-day-in-the-life-of-a-harpy.json](./126877-day-in-the-life-of-a-harpy.json) |
@@ -7308,6 +7309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desperate game | 82050 | [82050-desperate-game.json](./82050-desperate-game.json) |
 | Desperate Gods | 63167 | [63167-desperate-gods.json](./63167-desperate-gods.json) |
 | Desperate Housewives: The Game | 18516 | [18516-desperate-housewives-the-game.json](./18516-desperate-housewives-the-game.json) |
+| Desperate Island | 244561 | [244561-desperate-island.json](./244561-desperate-island.json) |
 | Desperate Place | 335290 | [335290-desperate-place.json](./335290-desperate-place.json) |
 | Desperate Skeleton | 238470 | [238470-desperate-skeleton.json](./238470-desperate-skeleton.json) |
 | Desperate Survival | 239712 | [239712-desperate-survival.json](./239712-desperate-survival.json) |
@@ -7853,6 +7855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deutschland sucht den Superstar | 130904 | [130904-deutschland-sucht-den-superstar.json](./130904-deutschland-sucht-den-superstar.json) |
 | Dev Guy | 35720 | [35720-dev-guy.json](./35720-dev-guy.json) |
 | Dev Inc | 152835 | [152835-dev-inc.json](./152835-dev-inc.json) |
+| Dev_Hell | 244583 | [244583-dev-hell.json](./244583-dev-hell.json) |
 | Dev_me | 111945 | [111945-dev-me.json](./111945-dev-me.json) |
 | Deva | 403684 | [403684-deva.json](./403684-deva.json) |
 | Deva: The Haunted Game | 148513 | [148513-deva-the-haunted-game.json](./148513-deva-the-haunted-game.json) |
