@@ -1450,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg | 285669 | [285669-egg.json](./285669-egg.json) |
 | Egg | 305447 | [305447-egg.json](./305447-egg.json) |
 | Egg | 349788 | [349788-egg.json](./349788-egg.json) |
+| Egg Ascent | 199718 | [199718-egg-ascent.json](./199718-egg-ascent.json) |
 | Egg Baby | 353757 | [353757-egg-baby.json](./353757-egg-baby.json) |
 | Egg Blast | 375478 | [375478-egg-blast.json](./375478-egg-blast.json) |
 | Egg Bunny 2 | 199387 | [199387-egg-bunny-2.json](./199387-egg-bunny-2.json) |
@@ -3651,6 +3652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Boss Fight | 163762 | [163762-endless-boss-fight.json](./163762-endless-boss-fight.json) |
 | Endless Bounce | 414571 | [414571-endless-bounce.json](./414571-endless-bounce.json) |
 | Endless Bounty | 135645 | [135645-endless-bounty.json](./135645-endless-bounty.json) |
+| Endless Bullet Heaven | 199694 | [199694-endless-bullet-heaven.json](./199694-endless-bullet-heaven.json) |
 | Endless Bundle | 335610 | [335610-endless-bundle.json](./335610-endless-bundle.json) |
 | Endless Car Chase | 116773 | [116773-endless-car-chase.json](./116773-endless-car-chase.json) |
 | Endless Casual Drive | 301276 | [301276-endless-casual-drive.json](./301276-endless-casual-drive.json) |
@@ -5048,6 +5050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Code - Coding Adventure | 97190 | [97190-escape-code-coding-adventure.json](./97190-escape-code-coding-adventure.json) |
 | Escape Condition | 219255 | [219255-escape-condition.json](./219255-escape-condition.json) |
 | Escape Covid Camp | 233568 | [233568-escape-covid-camp.json](./233568-escape-covid-camp.json) |
+| Escape Dark Tunnels | 199673 | [199673-escape-dark-tunnels.json](./199673-escape-dark-tunnels.json) |
 | Escape Darkness | 290550 | [290550-escape-darkness.json](./290550-escape-darkness.json) |
 | Escape Dash Journey | 347876 | [347876-escape-dash-journey.json](./347876-escape-dash-journey.json) |
 | Escape Dead Earth | 129036 | [129036-escape-dead-earth.json](./129036-escape-dead-earth.json) |
