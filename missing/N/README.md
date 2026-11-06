@@ -5264,6 +5264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninjabread Man | 5077 | [5077-ninjabread-man.json](./5077-ninjabread-man.json) |
 | Ninjabread Man: Blades of Fury | 307782 | [307782-ninjabread-man-blades-of-fury.json](./307782-ninjabread-man-blades-of-fury.json) |
 | Ninjabun | 322626 | [322626-ninjabun.json](./322626-ninjabun.json) |
+| NinjaFall | 223206 | [223206-ninjafall.json](./223206-ninjafall.json) |
 | NinjaFT | 237426 | [237426-ninjaft.json](./237426-ninjaft.json) |
 | NinjaGo Endless Runner | 59303 | [59303-ninjago-endless-runner.json](./59303-ninjago-endless-runner.json) |
 | Ninjahtic | 34887 | [34887-ninjahtic.json](./34887-ninjahtic.json) |
