@@ -11561,6 +11561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XV | 113104 | [113104-the-king-of-fighters-xv.json](./113104-the-king-of-fighters-xv.json) |
 | The King Of Fighters XV: Character - Hinako Shijo | 276643 | [276643-the-king-of-fighters-xv-character-hinako-shijo.json](./276643-the-king-of-fighters-xv-character-hinako-shijo.json) |
 | The King of Fighters XV: Character - Najd | 260881 | [260881-the-king-of-fighters-xv-character-najd.json](./260881-the-king-of-fighters-xv-character-najd.json) |
+| The King of Fighters XV: Character - Shingo Yabuki | 231703 | [231703-the-king-of-fighters-xv-character-shingo-yabuki.json](./231703-the-king-of-fighters-xv-character-shingo-yabuki.json) |
 | The King of Fighters XV: Character "Sylvie Paula Paula" | 249759 | [249759-the-king-of-fighters-xv-character-sylvie-paula-paula.json](./249759-the-king-of-fighters-xv-character-sylvie-paula-paula.json) |
 | The King of Fighters XV: Characters - Kim Kaphwan | 243761 | [243761-the-king-of-fighters-xv-characters-kim-kaphwan.json](./243761-the-king-of-fighters-xv-characters-kim-kaphwan.json) |
 | The King of Fighters XV: Characters Mature & Vice | 317839 | [317839-the-king-of-fighters-xv-characters-mature-and-vice.json](./317839-the-king-of-fighters-xv-characters-mature-and-vice.json) |
@@ -13430,6 +13431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Manse on Soracca | 128283 | [128283-the-manse-on-soracca.json](./128283-the-manse-on-soracca.json) |
 | The Mansion | 106145 | [106145-the-mansion.json](./106145-the-mansion.json) |
 | The Mansion | 159683 | [159683-the-mansion.json](./159683-the-mansion.json) |
+| The Mansion of Evil | 231666 | [231666-the-mansion-of-evil.json](./231666-the-mansion-of-evil.json) |
 | The Mansion of Hidden Souls | 45522 | [45522-the-mansion-of-hidden-souls.json](./45522-the-mansion-of-hidden-souls.json) |
 | The Mansion of The Macabre | 328470 | [328470-the-mansion-of-the-macabre.json](./328470-the-mansion-of-the-macabre.json) |
 | The Mansions of Shadows | 196978 | [196978-the-mansions-of-shadows.json](./196978-the-mansions-of-shadows.json) |
@@ -18981,6 +18983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World of Golden Eggs: Norinori Rhythm-kei | 165340 | [165340-the-world-of-golden-eggs-norinori-rhythm-kei.json](./165340-the-world-of-golden-eggs-norinori-rhythm-kei.json) |
 | The World of Japanese Tea Through the Way of Tea | 349583 | [349583-the-world-of-japanese-tea-through-the-way-of-tea.json](./349583-the-world-of-japanese-tea-through-the-way-of-tea.json) |
 | The World of Kungfu: Dragon and Eagle | 156090 | [156090-the-world-of-kungfu-dragon-and-eagle.json](./156090-the-world-of-kungfu-dragon-and-eagle.json) |
+| The World of Legend | 231681 | [231681-the-world-of-legend.json](./231681-the-world-of-legend.json) |
 | The World of Legend VR | 75824 | [75824-the-world-of-legend-vr.json](./75824-the-world-of-legend-vr.json) |
 | The World of Magic | 174728 | [174728-the-world-of-magic.json](./174728-the-world-of-magic.json) |
 | The World of Magic: IMO | 57926 | [57926-the-world-of-magic-imo.json](./57926-the-world-of-magic-imo.json) |
