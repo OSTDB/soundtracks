@@ -4727,6 +4727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Security Guy vs. AI: The Dawn of AI | 157374 | [157374-security-guy-vs-ai-the-dawn-of-ai.json](./157374-security-guy-vs-ai-the-dawn-of-ai.json) |
 | Security Simulator: Nightshift | 312434 | [312434-security-simulator-nightshift.json](./312434-security-simulator-nightshift.json) |
 | Security: The Horrible Nights | 298319 | [298319-security-the-horrible-nights.json](./298319-security-the-horrible-nights.json) |
+| SecurityCraft | 232784 | [232784-securitycraft.json](./232784-securitycraft.json) |
 | Sedap! A Culinary Adventure | 273429 | [273429-sedap-a-culinary-adventure.json](./273429-sedap-a-culinary-adventure.json) |
 | Sedecktion | 297213 | [297213-sedecktion.json](./297213-sedecktion.json) |
 | Sedecordle | 194881 | [194881-sedecordle.json](./194881-sedecordle.json) |
@@ -11569,6 +11570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sister Ray | 327245 | [327245-sister-ray.json](./327245-sister-ray.json) |
 | Sister Red | 385867 | [385867-sister-red.json](./385867-sister-red.json) |
 | Sister Slave: Faithful Girl's Slave Training | 83230 | [83230-sister-slave-faithful-girls-slave-training.json](./83230-sister-slave-faithful-girls-slave-training.json) |
+| Sister Sonic | 232767 | [232767-sister-sonic.json](./232767-sister-sonic.json) |
 | Sister Splash | 205999 | [205999-sister-splash.json](./205999-sister-splash.json) |
 | Sister Square's Escape | 101098 | [101098-sister-squares-escape.json](./101098-sister-squares-escape.json) |
 | Sister Travel | 111718 | [111718-sister-travel.json](./111718-sister-travel.json) |
@@ -13736,6 +13738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slipstream | 358437 | [358437-slipstream.json](./358437-slipstream.json) |
 | Slipstream 5000 | 7148 | [7148-slipstream-5000.json](./7148-slipstream-5000.json) |
 | Slipstream Vector | 414055 | [414055-slipstream-vector.json](./414055-slipstream-vector.json) |
+| Slipstream: Rogue Space | 232793 | [232793-slipstream-rogue-space.json](./232793-slipstream-rogue-space.json) |
 | Sliptime Sleuth | 132698 | [132698-sliptime-sleuth.json](./132698-sliptime-sleuth.json) |
 | Slipuzzle | 175225 | [175225-slipuzzle.json](./175225-slipuzzle.json) |
 | SlipVector | 412342 | [412342-slipvector.json](./412342-slipvector.json) |
@@ -17030,6 +17033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic 2006 2D | 352302 | [352302-sonic-2006-2d.json](./352302-sonic-2006-2d.json) |
 | Sonic 2011 | 301380 | [301380-sonic-2011.json](./301380-sonic-2011.json) |
 | Sonic 2099 | 266711 | [266711-sonic-2099.json](./266711-sonic-2099.json) |
+| Sonic 20th Anniversary | 232772 | [232772-sonic-20th-anniversary.json](./232772-sonic-20th-anniversary.json) |
 | Sonic 3 & Amy Rose | 201293 | [201293-sonic-3-and-amy-rose.json](./201293-sonic-3-and-amy-rose.json) |
 | Sonic 3 & Knuckles Battle Race | 277230 | [277230-sonic-3-and-knuckles-battle-race.json](./277230-sonic-3-and-knuckles-battle-race.json) |
 | Sonic 3 & Knuckles: Deluxe | 330320 | [330320-sonic-3-and-knuckles-deluxe.json](./330320-sonic-3-and-knuckles-deluxe.json) |
@@ -17221,12 +17225,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Core | 130038 | [130038-sonic-core.json](./130038-sonic-core.json) |
 | Sonic Core | 332596 | [332596-sonic-core.json](./332596-sonic-core.json) |
 | Sonic Crackers | 45753 | [45753-sonic-crackers.json](./45753-sonic-crackers.json) |
+| Sonic Cricket | 232774 | [232774-sonic-cricket.json](./232774-sonic-cricket.json) |
 | Sonic Darts | 261252 | [261252-sonic-darts.json](./261252-sonic-darts.json) |
 | Sonic Dash | 19506 | [19506-sonic-dash.json](./19506-sonic-dash.json) |
 | Sonic Dash | 330299 | [330299-sonic-dash.json](./330299-sonic-dash.json) |
 | Sonic Dash 2: Sonic Boom | 38695 | [38695-sonic-dash-2-sonic-boom.json](./38695-sonic-dash-2-sonic-boom.json) |
 | Sonic Dash Quiz | 261292 | [261292-sonic-dash-quiz.json](./261292-sonic-dash-quiz.json) |
 | Sonic Dash Remastered 3 | 321079 | [321079-sonic-dash-remastered-3.json](./321079-sonic-dash-remastered-3.json) |
+| Sonic Dash S | 232771 | [232771-sonic-dash-s.json](./232771-sonic-dash-s.json) |
 | Sonic Dash: 3D Endless Runner | 351758 | [351758-sonic-dash-3d-endless-runner.json](./351758-sonic-dash-3d-endless-runner.json) |
 | Sonic Dash+ | 254488 | [254488-sonic-dash.json](./254488-sonic-dash.json) |
 | Sonic Daybreak | 370215 | [370215-sonic-daybreak.json](./370215-sonic-daybreak.json) |
@@ -17369,6 +17375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Involution | 326553 | [326553-sonic-involution.json](./326553-sonic-involution.json) |
 | Sonic Island: Lost Paradise | 317512 | [317512-sonic-island-lost-paradise.json](./317512-sonic-island-lost-paradise.json) |
 | Sonic Islands | 368089 | [368089-sonic-islands.json](./368089-sonic-islands.json) |
+| Sonic J | 232775 | [232775-sonic-j.json](./232775-sonic-j.json) |
 | Sonic Jam | 133930 | [133930-sonic-jam.json](./133930-sonic-jam.json) |
 | Sonic Jam | 72129 | [72129-sonic-jam.json](./72129-sonic-jam.json) |
 | Sonic Jam 6 | 163154 | [163154-sonic-jam-6.json](./163154-sonic-jam-6.json) |
@@ -17645,6 +17652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic SpeedStars | 417667 | [417667-sonic-speedstars.json](./417667-sonic-speedstars.json) |
 | Sonic Spike | 44340 | [44340-sonic-spike.json](./44340-sonic-spike.json) |
 | Sonic Spinball: Life Savers | 274722 | [274722-sonic-spinball-life-savers.json](./274722-sonic-spinball-life-savers.json) |
+| Sonic Sports | 232765 | [232765-sonic-sports.json](./232765-sonic-sports.json) |
 | Sonic Stage Collection | 335626 | [335626-sonic-stage-collection.json](./335626-sonic-stage-collection.json) |
 | Sonic Stars | 331865 | [331865-sonic-stars.json](./331865-sonic-stars.json) |
 | Sonic Stash | 330093 | [330093-sonic-stash.json](./330093-sonic-stash.json) |
@@ -17716,6 +17724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog 3 | 375301 | [375301-sonic-the-hedgehog-3.json](./375301-sonic-the-hedgehog-3.json) |
 | Sonic the Hedgehog 3 & Knuckles | 11219 | [11219-sonic-the-hedgehog-3-and-knuckles.json](./11219-sonic-the-hedgehog-3-and-knuckles.json) |
 | Sonic the Hedgehog 3 & Knuckles | 206597 | [206597-sonic-the-hedgehog-3-and-knuckles.json](./206597-sonic-the-hedgehog-3-and-knuckles.json) |
+| Sonic the Hedgehog 3 Limited Edition | 232768 | [232768-sonic-the-hedgehog-3-limited-edition.json](./232768-sonic-the-hedgehog-3-limited-edition.json) |
 | Sonic the Hedgehog 3: Race with Team Sonic | 327693 | [327693-sonic-the-hedgehog-3-race-with-team-sonic.json](./327693-sonic-the-hedgehog-3-race-with-team-sonic.json) |
 | Sonic the Hedgehog 3D | 144907 | [144907-sonic-the-hedgehog-3d.json](./144907-sonic-the-hedgehog-3d.json) |
 | Sonic the Hedgehog 4 Remastered | 332614 | [332614-sonic-the-hedgehog-4-remastered.json](./332614-sonic-the-hedgehog-4-remastered.json) |
@@ -29065,6 +29074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku | 224170 | [224170-sudoku.json](./224170-sudoku.json) |
 | Sudoku | 224171 | [224171-sudoku.json](./224171-sudoku.json) |
 | Sudoku | 230462 | [230462-sudoku.json](./230462-sudoku.json) |
+| Sudoku | 232777 | [232777-sudoku.json](./232777-sudoku.json) |
 | Sudoku | 246366 | [246366-sudoku.json](./246366-sudoku.json) |
 | Sudoku | 259415 | [259415-sudoku.json](./259415-sudoku.json) |
 | Sudoku | 263395 | [263395-sudoku.json](./263395-sudoku.json) |
@@ -31635,6 +31645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Kart 20XX: Enhanced Edition | 313417 | [313417-super-mario-kart-20xx-enhanced-edition.json](./313417-super-mario-kart-20xx-enhanced-edition.json) |
 | Super Mario Kart 8 | 198451 | [198451-super-mario-kart-8.json](./198451-super-mario-kart-8.json) |
 | Super Mario Kart DS | 198450 | [198450-super-mario-kart-ds.json](./198450-super-mario-kart-ds.json) |
+| Super Mario Kart Featuring Retro HD & CDX | 232758 | [232758-super-mario-kart-featuring-retro-hd-and-cdx.json](./232758-super-mario-kart-featuring-retro-hd-and-cdx.json) |
 | Super Mario Kart Horizons | 302715 | [302715-super-mario-kart-horizons.json](./302715-super-mario-kart-horizons.json) |
 | Super Mario Kart in Sonic Mania+ | 317419 | [317419-super-mario-kart-in-sonic-mania.json](./317419-super-mario-kart-in-sonic-mania.json) |
 | Super Mario Kart NES | 250038 | [250038-super-mario-kart-nes.json](./250038-super-mario-kart-nes.json) |
@@ -32634,6 +32645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Melee: Tourney Floats | 342701 | [342701-super-smash-bros-melee-tourney-floats.json](./342701-super-smash-bros-melee-tourney-floats.json) |
 | Super Smash Bros. Melee: Yoshi's Forest | 390287 | [390287-super-smash-bros-melee-yoshis-forest.json](./390287-super-smash-bros-melee-yoshis-forest.json) |
 | Super Smash Bros. Open | 269059 | [269059-super-smash-bros-open.json](./269059-super-smash-bros-open.json) |
+| Super Smash Bros. Rumble | 232799 | [232799-super-smash-bros-rumble.json](./232799-super-smash-bros-rumble.json) |
 | Super Smash Bros. Sonic 2 Mod | 173085 | [173085-super-smash-bros-sonic-2-mod.json](./173085-super-smash-bros-sonic-2-mod.json) |
 | Super Smash Bros. Ultimate - Piranha Plant | 136383 | [136383-super-smash-bros-ultimate-piranha-plant.json](./136383-super-smash-bros-ultimate-piranha-plant.json) |
 | Super Smash Bros. Ultimate: Akaza Moveset | 395017 | [395017-super-smash-bros-ultimate-akaza-moveset.json](./395017-super-smash-bros-ultimate-akaza-moveset.json) |
