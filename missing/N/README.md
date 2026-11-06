@@ -7568,6 +7568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nun Attack: Run & Gun | 38993 | [38993-nun-attack-run-and-gun.json](./38993-nun-attack-run-and-gun.json) |
 | Nun Massacre | 112215 | [112215-nun-massacre.json](./112215-nun-massacre.json) |
 | Nun of Your Business | 364975 | [364975-nun-of-your-business.json](./364975-nun-of-your-business.json) |
+| Nun with a Gun | 224934 | [224934-nun-with-a-gun.json](./224934-nun-with-a-gun.json) |
 | Nun&Gun | 278386 | [278386-nun-and-gun.json](./278386-nun-and-gun.json) |
 | Nunchuck Charlie: A Love Story | 286611 | [286611-nunchuck-charlie-a-love-story.json](./286611-nunchuck-charlie-a-love-story.json) |
 | Nunholy | 297164 | [297164-nunholy.json](./297164-nunholy.json) |
