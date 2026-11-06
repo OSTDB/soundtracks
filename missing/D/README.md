@@ -14365,6 +14365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Age II: All-Class Item Pack | 367423 | [367423-dragon-age-ii-all-class-item-pack.json](./367423-dragon-age-ii-all-class-item-pack.json) |
 | Dragon Age II: All-Class Item Pack II | 367424 | [367424-dragon-age-ii-all-class-item-pack-ii.json](./367424-dragon-age-ii-all-class-item-pack-ii.json) |
 | Dragon Age II: Bioware Signature Edition | 141834 | [141834-dragon-age-ii-bioware-signature-edition.json](./141834-dragon-age-ii-bioware-signature-edition.json) |
+| Dragon Age II: DLC Bundle | 227076 | [227076-dragon-age-ii-dlc-bundle.json](./227076-dragon-age-ii-dlc-bundle.json) |
 | Dragon Age II: Mage Item Pack | 368135 | [368135-dragon-age-ii-mage-item-pack.json](./368135-dragon-age-ii-mage-item-pack.json) |
 | Dragon Age II: Mage Item Pack II | 368142 | [368142-dragon-age-ii-mage-item-pack-ii.json](./368142-dragon-age-ii-mage-item-pack-ii.json) |
 | Dragon Age II: Rogue Item Pack | 368134 | [368134-dragon-age-ii-rogue-item-pack.json](./368134-dragon-age-ii-rogue-item-pack.json) |
@@ -18014,6 +18015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Mana | 339577 | [339577-dungeon-mana.json](./339577-dungeon-mana.json) |
 | Dungeon Manager ZV - Collection | 52936 | [52936-dungeon-manager-zv-collection.json](./52936-dungeon-manager-zv-collection.json) |
 | Dungeon Manager ZV 2 | 29739 | [29739-dungeon-manager-zv-2.json](./29739-dungeon-manager-zv-2.json) |
+| Dungeon Manager ZV 2: Expansion Pack | 227075 | [227075-dungeon-manager-zv-2-expansion-pack.json](./227075-dungeon-manager-zv-2-expansion-pack.json) |
 | Dungeon Manager ZV: Resurrection | 55446 | [55446-dungeon-manager-zv-resurrection.json](./55446-dungeon-manager-zv-resurrection.json) |
 | Dungeon Mania | 252153 | [252153-dungeon-mania.json](./252153-dungeon-mania.json) |
 | Dungeon Marathon | 52295 | [52295-dungeon-marathon.json](./52295-dungeon-marathon.json) |
@@ -19129,6 +19131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 7: Xtreme Legends - Definitive Edition | 113386 | [113386-dynasty-warriors-7-xtreme-legends-definitive-edition.json](./113386-dynasty-warriors-7-xtreme-legends-definitive-edition.json) |
 | Dynasty Warriors 8 | 6976 | [6976-dynasty-warriors-8.json](./6976-dynasty-warriors-8.json) |
 | Dynasty Warriors 8: Empires | 13669 | [13669-dynasty-warriors-8-empires.json](./13669-dynasty-warriors-8-empires.json) |
+| Dynasty Warriors 8: Empires - Castle and Scenario Pack | 227074 | [227074-dynasty-warriors-8-empires-castle-and-scenario-pack.json](./227074-dynasty-warriors-8-empires-castle-and-scenario-pack.json) |
 | Dynasty Warriors 8: Empires - Castle Pack | 263310 | [263310-dynasty-warriors-8-empires-castle-pack.json](./263310-dynasty-warriors-8-empires-castle-pack.json) |
 | Dynasty Warriors 8: Empires - Free Alliances Version | 221032 | [221032-dynasty-warriors-8-empires-free-alliances-version.json](./221032-dynasty-warriors-8-empires-free-alliances-version.json) |
 | Dynasty Warriors 8: Wang Yuanji 'Rorona' Costume | 306771 | [306771-dynasty-warriors-8-wang-yuanji-rorona-costume.json](./306771-dynasty-warriors-8-wang-yuanji-rorona-costume.json) |
