@@ -961,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -9428,6 +9429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade | 8719 | [8719-blade.json](./8719-blade.json) |
 | Blade & Bones | 31781 | [31781-blade-and-bones.json](./31781-blade-and-bones.json) |
 | Blade & Sorcery | 111474 | [111474-blade-and-sorcery.json](./111474-blade-and-sorcery.json) |
+| Blade & Sorcery: Nomad | 196375 | [196375-blade-and-sorcery-nomad.json](./196375-blade-and-sorcery-nomad.json) |
 | Blade & Soul | 16741 | [16741-blade-and-soul.json](./16741-blade-and-soul.json) |
 | Blade & Soul 2 | 145841 | [145841-blade-and-soul-2.json](./145841-blade-and-soul-2.json) |
 | Blade & Soul Heroes | 347649 | [347649-blade-and-soul-heroes.json](./347649-blade-and-soul-heroes.json) |
@@ -12242,6 +12244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bojan | 406672 | [406672-bojan.json](./406672-bojan.json) |
 | Bok | 187149 | [187149-bok.json](./187149-bok.json) |
 | Bok-Bok: A Chicken Dating Sim | 148930 | [148930-bok-bok-a-chicken-dating-sim.json](./148930-bok-bok-a-chicken-dating-sim.json) |
+| Bok-Bok: Hen Tie Club | 196401 | [196401-bok-bok-hen-tie-club.json](./196401-bok-bok-hen-tie-club.json) |
 | BoKe Travelog | 292128 | [292128-boke-travelog.json](./292128-boke-travelog.json) |
 | Bokeh Adventure | 342561 | [342561-bokeh-adventure.json](./342561-bokeh-adventure.json) |
 | Bokehme | 201761 | [201761-bokehme.json](./201761-bokehme.json) |
@@ -16831,6 +16834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BuGarden | 392302 | [392302-bugarden.json](./392302-bugarden.json) |
 | Bugatron | 69332 | [69332-bugatron.json](./69332-bugatron.json) |
 | Bugatron Worlds | 307267 | [307267-bugatron-worlds.json](./307267-bugatron-worlds.json) |
+| BugBits | 196368 | [196368-bugbits.json](./196368-bugbits.json) |
 | Bugbomber | 41170 | [41170-bugbomber.json](./41170-bugbomber.json) |
 | Bugboy | 329080 | [329080-bugboy.json](./329080-bugboy.json) |
 | BugBurgh | 305268 | [305268-bugburgh.json](./305268-bugburgh.json) |
@@ -17907,6 +17911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burst Space | 279086 | [279086-burst-space.json](./279086-burst-space.json) |
 | Burst Squad | 169729 | [169729-burst-squad.json](./169729-burst-squad.json) |
 | Burst the Game | 28929 | [28929-burst-the-game.json](./28929-burst-the-game.json) |
+| Burst Witch | 196350 | [196350-burst-witch.json](./196350-burst-witch.json) |
 | Burst! | 321409 | [321409-burst.json](./321409-burst.json) |
 | Bursting Balloons | 281237 | [281237-bursting-balloons.json](./281237-bursting-balloons.json) |
 | Burstly | 74742 | [74742-burstly.json](./74742-burstly.json) |
