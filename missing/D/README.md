@@ -2362,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darwins Trash | 370149 | [370149-darwins-trash.json](./370149-darwins-trash.json) |
 | Darxanadon | 188781 | [188781-darxanadon.json](./188781-darxanadon.json) |
 | DarXide | 45877 | [45877-darxide.json](./45877-darxide.json) |
+| Darxwift | 217072 | [217072-darxwift.json](./217072-darxwift.json) |
 | Darza's Dominion | 56308 | [56308-darzas-dominion.json](./56308-darzas-dominion.json) |
 | Das Auge des Horus | 77248 | [77248-das-auge-des-horus.json](./77248-das-auge-des-horus.json) |
 | Das Balkonzimmer | 141415 | [141415-das-balkonzimmer.json](./141415-das-balkonzimmer.json) |
@@ -7833,6 +7834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detonate | 63056 | [63056-detonate.json](./63056-detonate.json) |
 | Detonation | 119563 | [119563-detonation.json](./119563-detonation.json) |
 | Detonation Racing | 165105 | [165105-detonation-racing.json](./165105-detonation-racing.json) |
+| Detonation Sauce University | 217102 | [217102-detonation-sauce-university.json](./217102-detonation-sauce-university.json) |
 | Detonator | 263477 | [263477-detonator.json](./263477-detonator.json) |
 | Detonator | 92369 | [92369-detonator.json](./92369-detonator.json) |
 | Detour | 372079 | [372079-detour.json](./372079-detour.json) |
@@ -9243,6 +9245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diluvium | 64890 | [64890-diluvium.json](./64890-diluvium.json) |
 | Dim | 329686 | [329686-dim.json](./329686-dim.json) |
 | Dim Glow | 158193 | [158193-dim-glow.json](./158193-dim-glow.json) |
+| Dim Tower | 217074 | [217074-dim-tower.json](./217074-dim-tower.json) |
 | Dim X: Dimensional Explorer | 354576 | [354576-dim-x-dimensional-explorer.json](./354576-dim-x-dimensional-explorer.json) |
 | Dim: A Light in the Dark | 181594 | [181594-dim-a-light-in-the-dark.json](./181594-dim-a-light-in-the-dark.json) |
 | Dima Rescues Ira | 75157 | [75157-dima-rescues-ira.json](./75157-dima-rescues-ira.json) |
