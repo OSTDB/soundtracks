@@ -12592,6 +12592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Classics | 282489 | [282489-arcade-classics.json](./282489-arcade-classics.json) |
 | Arcade Classics | 77144 | [77144-arcade-classics.json](./77144-arcade-classics.json) |
 | Arcade Classics: Ms. Pac-Man | 219386 | [219386-arcade-classics-ms-pac-man.json](./219386-arcade-classics-ms-pac-man.json) |
+| Arcade Classics: Pac-Man | 219343 | [219343-arcade-classics-pac-man.json](./219343-arcade-classics-pac-man.json) |
 | Arcade Classics: Seawolf II and Gun Fight | 130282 | [130282-arcade-classics-seawolf-ii-and-gun-fight.json](./130282-arcade-classics-seawolf-ii-and-gun-fight.json) |
 | Arcade Classics: Starfire and Fire One | 410003 | [410003-arcade-classics-starfire-and-fire-one.json](./410003-arcade-classics-starfire-and-fire-one.json) |
 | Arcade Classics: Super Breakout / Battlezone | 79702 | [79702-arcade-classics-super-breakout-battlezone.json](./79702-arcade-classics-super-breakout-battlezone.json) |
@@ -13676,6 +13677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkanoid: Chinese Edition | 268493 | [268493-arkanoid-chinese-edition.json](./268493-arkanoid-chinese-edition.json) |
 | Arkanoid: Doh It Again | 42636 | [42636-arkanoid-doh-it-again.json](./42636-arkanoid-doh-it-again.json) |
 | Arkanoid: Eternal Battle | 204506 | [204506-arkanoid-eternal-battle.json](./204506-arkanoid-eternal-battle.json) |
+| Arkanoid: Eternal Battle - Limited Edition | 219425 | [219425-arkanoid-eternal-battle-limited-edition.json](./219425-arkanoid-eternal-battle-limited-edition.json) |
 | Arkanoid: Revenge of Doh | 11756 | [11756-arkanoid-revenge-of-doh.json](./11756-arkanoid-revenge-of-doh.json) |
 | Arkanoid: Revenge of Doh | 282802 | [282802-arkanoid-revenge-of-doh.json](./282802-arkanoid-revenge-of-doh.json) |
 | ArkanoidSmoking | 54452 | [54452-arkanoidsmoking.json](./54452-arkanoidsmoking.json) |
@@ -16315,6 +16317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Recharged: Volume One | 324499 | [324499-atari-recharged-volume-one.json](./324499-atari-recharged-volume-one.json) |
 | Atari Recharged: Volume Two | 324500 | [324500-atari-recharged-volume-two.json](./324500-atari-recharged-volume-two.json) |
 | Atari Retro Handheld Console | 277413 | [277413-atari-retro-handheld-console.json](./277413-atari-retro-handheld-console.json) |
+| Atari Retro Handheld Console: Pac-Man Edition | 219357 | [219357-atari-retro-handheld-console-pac-man-edition.json](./219357-atari-retro-handheld-console-pac-man-edition.json) |
 | Atari Revival | 93395 | [93395-atari-revival.json](./93395-atari-revival.json) |
 | Atari Soccer | 40014 | [40014-atari-soccer.json](./40014-atari-soccer.json) |
 | Atari Tabletops Collection #1 | 251345 | [251345-atari-tabletops-collection-1.json](./251345-atari-tabletops-collection-1.json) |
@@ -17458,6 +17461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autumn Rail | 374326 | [374326-autumn-rail.json](./374326-autumn-rail.json) |
 | Autumn Romance | 191039 | [191039-autumn-romance.json](./191039-autumn-romance.json) |
 | Autumn Soil | 184998 | [184998-autumn-soil.json](./184998-autumn-soil.json) |
+| Autumn Spirit | 219363 | [219363-autumn-spirit.json](./219363-autumn-spirit.json) |
 | Autumn Walk | 63883 | [63883-autumn-walk.json](./63883-autumn-walk.json) |
 | Autumn war | 331289 | [331289-autumn-war.json](./331289-autumn-war.json) |
 | Autumn War: Survivor | 378005 | [378005-autumn-war-survivor.json](./378005-autumn-war-survivor.json) |
