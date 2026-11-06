@@ -2771,6 +2771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsolved Case: Fatal Clue | 236721 | [236721-unsolved-case-fatal-clue.json](./236721-unsolved-case-fatal-clue.json) |
 | Unsolved Case: Fatal Clue - Collector's Edition | 235801 | [235801-unsolved-case-fatal-clue-collectors-edition.json](./235801-unsolved-case-fatal-clue-collectors-edition.json) |
 | Unsolved Case: Killer Popularity DLC | 289325 | [289325-unsolved-case-killer-popularity-dlc.json](./289325-unsolved-case-killer-popularity-dlc.json) |
+| Unsolved Case: Murderous Script - Collector's Edition | 242294 | [242294-unsolved-case-murderous-script-collectors-edition.json](./242294-unsolved-case-murderous-script-collectors-edition.json) |
 | Unsolved Case: Murderous Script - DLC | 243054 | [243054-unsolved-case-murderous-script-dlc.json](./243054-unsolved-case-murderous-script-dlc.json) |
 | Unsolved Case: The Scarlet Hyacinth | 416162 | [416162-unsolved-case-the-scarlet-hyacinth.json](./416162-unsolved-case-the-scarlet-hyacinth.json) |
 | Unsolved Case: The Scarlet Hyacinth - Collector's Edition | 256273 | [256273-unsolved-case-the-scarlet-hyacinth-collectors-edition.json](./256273-unsolved-case-the-scarlet-hyacinth-collectors-edition.json) |
