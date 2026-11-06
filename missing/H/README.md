@@ -2937,6 +2937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazard Prone | 414053 | [414053-hazard-prone.json](./414053-hazard-prone.json) |
 | Hazard Protocol | 280335 | [280335-hazard-protocol.json](./280335-hazard-protocol.json) |
 | Hazard Run | 25805 | [25805-hazard-run.json](./25805-hazard-run.json) |
+| Hazard School: Bully Fight | 234430 | [234430-hazard-school-bully-fight.json](./234430-hazard-school-bully-fight.json) |
 | Hazard Versus | 353393 | [353393-hazard-versus.json](./353393-hazard-versus.json) |
 | Hazard Voyage | 420491 | [420491-hazard-voyage.json](./420491-hazard-voyage.json) |
 | Hazard: Let Us Out! | 346336 | [346336-hazard-let-us-out.json](./346336-hazard-let-us-out.json) |
