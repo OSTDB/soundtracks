@@ -6238,6 +6238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Cry: Horror House | 233460 | [233460-witch-cry-horror-house.json](./233460-witch-cry-horror-house.json) |
 | Witch Dance | 396645 | [396645-witch-dance.json](./396645-witch-dance.json) |
 | Witch Day | 421603 | [421603-witch-day.json](./421603-witch-day.json) |
+| Witch Effect | 229486 | [229486-witch-effect.json](./229486-witch-effect.json) |
 | Witch Elixir | 149370 | [149370-witch-elixir.json](./149370-witch-elixir.json) |
 | Witch Epoch | 203528 | [203528-witch-epoch.json](./203528-witch-epoch.json) |
 | Witch Explorer | 185923 | [185923-witch-explorer.json](./185923-witch-explorer.json) |
