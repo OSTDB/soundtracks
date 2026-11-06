@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row IV: Super Dangerous Wad Wad Edition (aka the Million Dollar Pack) | 21862 | [21862-saints-row-iv-super-dangerous-wad-wad-edition-aka-the-million-dollar-pack.json](./21862-saints-row-iv-super-dangerous-wad-wad-edition-aka-the-million-dollar-pack.json) |
 | Saints Row Ultimate Franchise | 25500 | [25500-saints-row-ultimate-franchise.json](./25500-saints-row-ultimate-franchise.json) |
 | Saints Row: Chicken Dinner Cosmetic Pack | 307150 | [307150-saints-row-chicken-dinner-cosmetic-pack.json](./307150-saints-row-chicken-dinner-cosmetic-pack.json) |
+| Saints Row: Day One Edition | 203507 | [203507-saints-row-day-one-edition.json](./203507-saints-row-day-one-edition.json) |
 | Saints Row: Dead Island 2 - Cosmetic Pack | 307139 | [307139-saints-row-dead-island-2-cosmetic-pack.json](./307139-saints-row-dead-island-2-cosmetic-pack.json) |
 | Saints Row: Double Pack | 144125 | [144125-saints-row-double-pack.json](./144125-saints-row-double-pack.json) |
 | Saints Row: Drive-By | 77307 | [77307-saints-row-drive-by.json](./77307-saints-row-drive-by.json) |
@@ -4223,6 +4224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search All: Balls | 291475 | [291475-search-all-balls.json](./291475-search-all-balls.json) |
 | Search All: Berries | 192377 | [192377-search-all-berries.json](./192377-search-all-berries.json) |
 | Search All: Birds | 203623 | [203623-search-all-birds.json](./203623-search-all-birds.json) |
+| Search All: Bitcoin | 203590 | [203590-search-all-bitcoin.json](./203590-search-all-bitcoin.json) |
 | Search All: Bones | 387338 | [387338-search-all-bones.json](./387338-search-all-bones.json) |
 | Search All: Buds | 219613 | [219613-search-all-buds.json](./219613-search-all-buds.json) |
 | Search All: Cactuses | 192374 | [192374-search-all-cactuses.json](./192374-search-all-cactuses.json) |
@@ -17828,6 +17830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog | 150029 | [150029-sonic-the-hedgehog.json](./150029-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 197617 | [197617-sonic-the-hedgehog.json](./197617-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 198248 | [198248-sonic-the-hedgehog.json](./198248-sonic-the-hedgehog.json) |
+| Sonic the Hedgehog | 203489 | [203489-sonic-the-hedgehog.json](./203489-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 207208 | [207208-sonic-the-hedgehog.json](./207208-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 210300 | [210300-sonic-the-hedgehog.json](./210300-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 239066 | [239066-sonic-the-hedgehog.json](./239066-sonic-the-hedgehog.json) |
@@ -18200,6 +18203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sophont | 99431 | [99431-sophont.json](./99431-sophont.json) |
 | Sophstar | 157973 | [157973-sophstar.json](./157973-sophstar.json) |
 | Soporfall | 328374 | [328374-soporfall.json](./328374-soporfall.json) |
+| Soppel | 203585 | [203585-soppel.json](./203585-soppel.json) |
 | Sopwith VR | 113601 | [113601-sopwith-vr.json](./113601-sopwith-vr.json) |
 | Sopwith: The Author's Edition | 73126 | [73126-sopwith-the-authors-edition.json](./73126-sopwith-the-authors-edition.json) |
 | Sor.Op: Dark Shades | 355883 | [355883-sor-op-dark-shades.json](./355883-sor-op-dark-shades.json) |
@@ -22173,6 +22177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spitting Image | 13081 | [13081-spitting-image.json](./13081-spitting-image.json) |
 | Spitting Z | 156517 | [156517-spitting-z.json](./156517-spitting-z.json) |
 | Spl-t | 59279 | [59279-spl-t.json](./59279-spl-t.json) |
+| Splait Rage | 203588 | [203588-splait-rage.json](./203588-splait-rage.json) |
 | Splash | 170363 | [170363-splash.json](./170363-splash.json) |
 | Splash | 224940 | [224940-splash.json](./224940-splash.json) |
 | Splash | 384564 | [384564-splash.json](./384564-splash.json) |
