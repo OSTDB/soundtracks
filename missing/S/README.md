@@ -5327,6 +5327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Send In The Clown | 424041 | [424041-send-in-the-clown.json](./424041-send-in-the-clown.json) |
 | Send In The Vampires | 386344 | [386344-send-in-the-vampires.json](./386344-send-in-the-vampires.json) |
 | Send It: The Game | 277833 | [277833-send-it-the-game.json](./277833-send-it-the-game.json) |
+| Send the Egg | 212550 | [212550-send-the-egg.json](./212550-send-the-egg.json) |
 | Send them to the sky | 130227 | [130227-send-them-to-the-sky.json](./130227-send-them-to-the-sky.json) |
 | Send You a Link | 229654 | [229654-send-you-a-link.json](./229654-send-you-a-link.json) |
 | Senda Salvaje | 272301 | [272301-senda-salvaje.json](./272301-senda-salvaje.json) |
@@ -7668,6 +7669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaylushay Treasure Expedition | 275715 | [275715-shaylushay-treasure-expedition.json](./275715-shaylushay-treasure-expedition.json) |
 | Shaype | 139158 | [139158-shaype.json](./139158-shaype.json) |
 | Shazabi and the Cantina Catacombs | 230542 | [230542-shazabi-and-the-cantina-catacombs.json](./230542-shazabi-and-the-cantina-catacombs.json) |
+| She Awaits | 212564 | [212564-she-awaits.json](./212564-she-awaits.json) |
 | She Could Fly: Documentary Escape Game | 304853 | [304853-she-could-fly-documentary-escape-game.json](./304853-she-could-fly-documentary-escape-game.json) |
 | She Couldn't Do Anything | 401048 | [401048-she-couldnt-do-anything.json](./401048-she-couldnt-do-anything.json) |
 | She Danced in the Wind Like a Holographic Dream Before the World Died | 390004 | [390004-she-danced-in-the-wind-like-a-holographic-dream-before-the-world-died.json](./390004-she-danced-in-the-wind-like-a-holographic-dream-before-the-world-died.json) |
@@ -12990,6 +12992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slap Fight MD | 4521 | [4521-slap-fight-md.json](./4521-slap-fight-md.json) |
 | Slap Happy Rhythm Busters | 44861 | [44861-slap-happy-rhythm-busters.json](./44861-slap-happy-rhythm-busters.json) |
 | Slap Happy Sam | 93943 | [93943-slap-happy-sam.json](./93943-slap-happy-sam.json) |
+| Slap Kings | 212529 | [212529-slap-kings.json](./212529-slap-kings.json) |
 | Slap Shooter | 97977 | [97977-slap-shooter.json](./97977-slap-shooter.json) |
 | Slap Shot | 41102 | [41102-slap-shot.json](./41102-slap-shot.json) |
 | Slap Shot | 81281 | [81281-slap-shot.json](./81281-slap-shot.json) |
@@ -16922,6 +16925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somnium | 166502 | [166502-somnium.json](./166502-somnium.json) |
 | Somnium | 201329 | [201329-somnium.json](./201329-somnium.json) |
 | Somnium | 302810 | [302810-somnium.json](./302810-somnium.json) |
+| Somnium Angelus | 212567 | [212567-somnium-angelus.json](./212567-somnium-angelus.json) |
 | Somnium Eleven | 191876 | [191876-somnium-eleven.json](./191876-somnium-eleven.json) |
 | Somnium Shore | 158183 | [158183-somnium-shore.json](./158183-somnium-shore.json) |
 | Somnium Space | 107400 | [107400-somnium-space.json](./107400-somnium-space.json) |
@@ -18696,6 +18700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulfly | 214145 | [214145-soulfly.json](./214145-soulfly.json) |
 | SoulForge | 348379 | [348379-soulforge.json](./348379-soulforge.json) |
 | Soulforge: Lost Path | 353880 | [353880-soulforge-lost-path.json](./353880-soulforge-lost-path.json) |
+| Soulforged | 212416 | [212416-soulforged.json](./212416-soulforged.json) |
 | Soulframe | 209643 | [209643-soulframe.json](./209643-soulframe.json) |
 | SoulFrost | 90653 | [90653-soulfrost.json](./90653-soulfrost.json) |
 | SoulfulLand | 126604 | [126604-soulfulland.json](./126604-soulfulland.json) |
@@ -20084,6 +20089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Tail: Every Journey Leads Home - Deluxe Edition | 241400 | [241400-space-tail-every-journey-leads-home-deluxe-edition.json](./241400-space-tail-every-journey-leads-home-deluxe-edition.json) |
 | Space Tail: Every Journey Leads Home - Ultimate Edition | 241327 | [241327-space-tail-every-journey-leads-home-ultimate-edition.json](./241327-space-tail-every-journey-leads-home-ultimate-edition.json) |
 | Space Tail: Homecoming | 230820 | [230820-space-tail-homecoming.json](./230820-space-tail-homecoming.json) |
+| Space Tail: Lost in the Sands | 212528 | [212528-space-tail-lost-in-the-sands.json](./212528-space-tail-lost-in-the-sands.json) |
 | Space Takeover: Over City | 245340 | [245340-space-takeover-over-city.json](./245340-space-takeover-over-city.json) |
 | Space Tales | 259033 | [259033-space-tales.json](./259033-space-tales.json) |
 | Space Tanks | 214453 | [214453-space-tanks.json](./214453-space-tanks.json) |
@@ -36083,4 +36089,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Szen | 114364 | [114364-szen.json](./114364-szen.json) |
 | Szikra | 309826 | [309826-szikra.json](./309826-szikra.json) |
 | sZone Online | 36250 | [36250-szone-online.json](./36250-szone-online.json) |
+| Szrot | 212559 | [212559-szrot.json](./212559-szrot.json) |
 | Szybowcowa '87 | 237050 | [237050-szybowcowa-87.json](./237050-szybowcowa-87.json) |
