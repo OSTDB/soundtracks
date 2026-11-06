@@ -4274,6 +4274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gin and Wall | 412365 | [412365-gin-and-wall.json](./412365-gin-and-wall.json) |
 | Gin Champion | 46581 | [46581-gin-champion.json](./46581-gin-champion.json) |
 | Gin no Eclipse | 204556 | [204556-gin-no-eclipse.json](./204556-gin-no-eclipse.json) |
+| Gin no Kanmuri Ao no Namida | 241715 | [241715-gin-no-kanmuri-ao-no-namida.json](./241715-gin-no-kanmuri-ao-no-namida.json) |
 | Gin Rummy | 179597 | [179597-gin-rummy.json](./179597-gin-rummy.json) |
 | Gin Rummy | 377838 | [377838-gin-rummy.json](./377838-gin-rummy.json) |
 | Gin Rummy | 62392 | [62392-gin-rummy.json](./62392-gin-rummy.json) |
@@ -10878,6 +10879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunkid 99 | 116197 | [116197-gunkid-99.json](./116197-gunkid-99.json) |
 | GunKinger Bonanza | 22016 | [22016-gunkinger-bonanza.json](./22016-gunkinger-bonanza.json) |
 | Gunkour | 150085 | [150085-gunkour.json](./150085-gunkour.json) |
+| Gunkprotocol | 241767 | [241767-gunkprotocol.json](./241767-gunkprotocol.json) |
 | Gunless | 84262 | [84262-gunless.json](./84262-gunless.json) |
 | Gunlimb | 80115 | [80115-gunlimb.json](./80115-gunlimb.json) |
 | GunLives Shooting | 241808 | [241808-gunlives-shooting.json](./241808-gunlives-shooting.json) |
