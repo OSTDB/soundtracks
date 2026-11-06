@@ -1182,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Shadows | 60779 | [60779-fallen-shadows.json](./60779-fallen-shadows.json) |
 | Fallen Sky Online | 110655 | [110655-fallen-sky-online.json](./110655-fallen-sky-online.json) |
 | Fallen Spirit | 188518 | [188518-fallen-spirit.json](./188518-fallen-spirit.json) |
+| Fallen Star | 202892 | [202892-fallen-star.json](./202892-fallen-star.json) |
 | Fallen Star | 322177 | [322177-fallen-star.json](./322177-fallen-star.json) |
 | Fallen Starborn | 401042 | [401042-fallen-starborn.json](./401042-fallen-starborn.json) |
 | Fallen Stars | 226564 | [226564-fallen-stars.json](./226564-fallen-stars.json) |
@@ -2145,6 +2146,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Worlds Bundle | 125134 | [125134-fantasy-worlds-bundle.json](./125134-fantasy-worlds-bundle.json) |
 | Fantasy Zone | 18292 | [18292-fantasy-zone.json](./18292-fantasy-zone.json) |
 | Fantasy Zone | 198630 | [198630-fantasy-zone.json](./198630-fantasy-zone.json) |
+| Fantasy Zone | 202909 | [202909-fantasy-zone.json](./202909-fantasy-zone.json) |
+| Fantasy Zone | 202913 | [202913-fantasy-zone.json](./202913-fantasy-zone.json) |
 | Fantasy Zone | 202914 | [202914-fantasy-zone.json](./202914-fantasy-zone.json) |
 | Fantasy Zone | 202915 | [202915-fantasy-zone.json](./202915-fantasy-zone.json) |
 | Fantasy Zone | 206230 | [206230-fantasy-zone.json](./206230-fantasy-zone.json) |
@@ -2154,7 +2157,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Zone | 6684 | [6684-fantasy-zone.json](./6684-fantasy-zone.json) |
 | Fantasy Zone II | 6687 | [6687-fantasy-zone-ii.json](./6687-fantasy-zone-ii.json) |
 | Fantasy Zone II: Opa-Opa no Namida | 48627 | [48627-fantasy-zone-ii-opa-opa-no-namida.json](./48627-fantasy-zone-ii-opa-opa-no-namida.json) |
+| Fantasy Zone II: The Tears of Opa-Opa | 202907 | [202907-fantasy-zone-ii-the-tears-of-opa-opa.json](./202907-fantasy-zone-ii-the-tears-of-opa-opa.json) |
 | Fantasy Zone II: The Tears of Opa-Opa | 388998 | [388998-fantasy-zone-ii-the-tears-of-opa-opa.json](./388998-fantasy-zone-ii-the-tears-of-opa-opa.json) |
+| Fantasy Zone Neo Classic | 202910 | [202910-fantasy-zone-neo-classic.json](./202910-fantasy-zone-neo-classic.json) |
+| Fantasy Zone P1 | 202912 | [202912-fantasy-zone-p1.json](./202912-fantasy-zone-p1.json) |
+| Fantasy Zone: Boss no Gyakushuu | 202911 | [202911-fantasy-zone-boss-no-gyakushuu.json](./202911-fantasy-zone-boss-no-gyakushuu.json) |
 | Fantasy Zone: The Maze | 45658 | [45658-fantasy-zone-the-maze.json](./45658-fantasy-zone-the-maze.json) |
 | Fantasy Zoo | 205759 | [205759-fantasy-zoo.json](./205759-fantasy-zoo.json) |
 | Fantasy: Battle Simulator | 43950 | [43950-fantasy-battle-simulator.json](./43950-fantasy-battle-simulator.json) |
