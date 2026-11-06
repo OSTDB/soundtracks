@@ -5188,6 +5188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Striker! | 96854 | [96854-ninja-striker.json](./96854-ninja-striker.json) |
 | Ninja Suffering | 181786 | [181786-ninja-suffering.json](./181786-ninja-suffering.json) |
 | Ninja Sukafu | 181788 | [181788-ninja-sukafu.json](./181788-ninja-sukafu.json) |
+| Ninja Survivors Online | 242880 | [242880-ninja-survivors-online.json](./242880-ninja-survivors-online.json) |
 | Ninja Tag | 59996 | [59996-ninja-tag.json](./59996-ninja-tag.json) |
 | Ninja Taro | 49034 | [49034-ninja-taro.json](./49034-ninja-taro.json) |
 | Ninja TD | 200189 | [200189-ninja-td.json](./200189-ninja-td.json) |
@@ -6743,6 +6744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NosTale | 55220 | [55220-nostale.json](./55220-nostale.json) |
 | Nostalgia | 135469 | [135469-nostalgia.json](./135469-nostalgia.json) |
 | Nostalgia | 21904 | [21904-nostalgia.json](./21904-nostalgia.json) |
+| Nostalgia | 242864 | [242864-nostalgia.json](./242864-nostalgia.json) |
 | Nostalgia | 360584 | [360584-nostalgia.json](./360584-nostalgia.json) |
 | Nostalgia 1907 | 5407 | [5407-nostalgia-1907.json](./5407-nostalgia-1907.json) |
 | Nostalgia 2 | 268787 | [268787-nostalgia-2.json](./268787-nostalgia-2.json) |
