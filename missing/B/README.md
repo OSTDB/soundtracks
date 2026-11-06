@@ -13631,6 +13631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Original | 344928 | [344928-bounce-original.json](./344928-bounce-original.json) |
 | Bounce Out | 92676 | [92676-bounce-out.json](./92676-bounce-out.json) |
 | Bounce Out Blitz | 206468 | [206468-bounce-out-blitz.json](./206468-bounce-out-blitz.json) |
+| Bounce Paradise | 225418 | [225418-bounce-paradise.json](./225418-bounce-paradise.json) |
 | Bounce Quest | 357694 | [357694-bounce-quest.json](./357694-bounce-quest.json) |
 | Bounce Rescue! | 82327 | [82327-bounce-rescue.json](./82327-bounce-rescue.json) |
 | Bounce Restart | 177203 | [177203-bounce-restart.json](./177203-bounce-restart.json) |
