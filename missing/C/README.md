@@ -3978,6 +3978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Guardian | 319201 | [319201-cat-guardian.json](./319201-cat-guardian.json) |
 | Cat Gunner | 356273 | [356273-cat-gunner.json](./356273-cat-gunner.json) |
 | Cat Herder | 219736 | [219736-cat-herder.json](./219736-cat-herder.json) |
+| Cat Herders: Couch Coop Cat Corralling! | 223300 | [223300-cat-herders-couch-coop-cat-corralling.json](./223300-cat-herders-couch-coop-cat-corralling.json) |
 | Cat Heroes | 299394 | [299394-cat-heroes.json](./299394-cat-heroes.json) |
 | Cat Hits the Deck | 406209 | [406209-cat-hits-the-deck.json](./406209-cat-hits-the-deck.json) |
 | Cat Home | 349086 | [349086-cat-home.json](./349086-cat-home.json) |
@@ -11927,6 +11928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color of Love | 339410 | [339410-color-of-love.json](./339410-color-of-love.json) |
 | Color of My Sound: Volume 1 | 309534 | [309534-color-of-my-sound-volume-1.json](./309534-color-of-my-sound-volume-1.json) |
 | Color Oil | 74710 | [74710-color-oil.json](./74710-color-oil.json) |
+| Color Pals | 223301 | [223301-color-pals.json](./223301-color-pals.json) |
 | Color Party | 105186 | [105186-color-party.json](./105186-color-party.json) |
 | Color Path | 96466 | [96466-color-path.json](./96466-color-path.json) |
 | Color Patterns | 369688 | [369688-color-patterns.json](./369688-color-patterns.json) |
@@ -16552,6 +16554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Donuts | 206413 | [206413-crazy-donuts.json](./206413-crazy-donuts.json) |
 | Crazy Dreamz: Best Of | 90076 | [90076-crazy-dreamz-best-of.json](./90076-crazy-dreamz-best-of.json) |
 | Crazy Dreamz: MagiCats Edition | 55255 | [55255-crazy-dreamz-magicats-edition.json](./55255-crazy-dreamz-magicats-edition.json) |
+| Crazy Drift | 223298 | [223298-crazy-drift.json](./223298-crazy-drift.json) |
 | Crazy Driller | 175259 | [175259-crazy-driller.json](./175259-crazy-driller.json) |
 | Crazy Driver | 119479 | [119479-crazy-driver.json](./119479-crazy-driver.json) |
 | Crazy Driver | 230634 | [230634-crazy-driver.json](./230634-crazy-driver.json) |
@@ -18875,6 +18878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Defense | 113574 | [113574-cube-defense.json](./113574-cube-defense.json) |
 | Cube Destroyer | 33577 | [33577-cube-destroyer.json](./33577-cube-destroyer.json) |
 | Cube DOA | 120363 | [120363-cube-doa.json](./120363-cube-doa.json) |
+| Cube Dodge | 223302 | [223302-cube-dodge.json](./223302-cube-dodge.json) |
 | Cube Dodger 3D | 384821 | [384821-cube-dodger-3d.json](./384821-cube-dodger-3d.json) |
 | Cube Droid Holiday Special | 360110 | [360110-cube-droid-holiday-special.json](./360110-cube-droid-holiday-special.json) |
 | Cube Droid Saves the Galaxy | 327774 | [327774-cube-droid-saves-the-galaxy.json](./327774-cube-droid-saves-the-galaxy.json) |
@@ -19627,6 +19631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed | 376637 | [376637-cursed.json](./376637-cursed.json) |
 | Cursed 2 | 196786 | [196786-cursed-2.json](./196786-cursed-2.json) |
 | Cursed 3 | 213534 | [213534-cursed-3.json](./213534-cursed-3.json) |
+| Cursed Angel: Time Paradox | 223283 | [223283-cursed-angel-time-paradox.json](./223283-cursed-angel-time-paradox.json) |
 | Cursed Apartment | 321951 | [321951-cursed-apartment.json](./321951-cursed-apartment.json) |
 | Cursed Armor | 106507 | [106507-cursed-armor.json](./106507-cursed-armor.json) |
 | Cursed Baby | 325831 | [325831-cursed-baby.json](./325831-cursed-baby.json) |
