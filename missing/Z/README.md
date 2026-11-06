@@ -906,6 +906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Escape: Zero Time Dilemma - Limited Watch Bonus Edition | 89890 | [89890-zero-escape-zero-time-dilemma-limited-watch-bonus-edition.json](./89890-zero-escape-zero-time-dilemma-limited-watch-bonus-edition.json) |
 | Zero Factory | 312496 | [312496-zero-factory.json](./312496-zero-factory.json) |
 | Zero Fantasy: Kanon | 122610 | [122610-zero-fantasy-kanon.json](./122610-zero-fantasy-kanon.json) |
+| Zero Fiction | 194093 | [194093-zero-fiction.json](./194093-zero-fiction.json) |
 | Zero Fighter | 345917 | [345917-zero-fighter.json](./345917-zero-fighter.json) |
 | Zero Fighter | 385714 | [385714-zero-fighter.json](./385714-zero-fighter.json) |
 | Zero Fill | 418733 | [418733-zero-fill.json](./418733-zero-fill.json) |
@@ -2081,6 +2082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies, Aliens and Guns | 265465 | [265465-zombies-aliens-and-guns.json](./265465-zombies-aliens-and-guns.json) |
 | Zombies, Run! | 65192 | [65192-zombies-run.json](./65192-zombies-run.json) |
 | Zombies: Faulty Towers | 121327 | [121327-zombies-faulty-towers.json](./121327-zombies-faulty-towers.json) |
+| Zombies: The Escape | 194055 | [194055-zombies-the-escape.json](./194055-zombies-the-escape.json) |
 | Zombies: The Last Survivor | 194820 | [194820-zombies-the-last-survivor.json](./194820-zombies-the-last-survivor.json) |
 | Zombies! | 168564 | [168564-zombies.json](./168564-zombies.json) |
 | Zombies! | 335649 | [335649-zombies.json](./335649-zombies.json) |
