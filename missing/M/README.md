@@ -6275,6 +6275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Tanks | 252222 | [252222-maze-tanks.json](./252222-maze-tanks.json) |
 | Maze TD Battleground | 302554 | [302554-maze-td-battleground.json](./302554-maze-td-battleground.json) |
 | Maze the Quest | 197029 | [197029-maze-the-quest.json](./197029-maze-the-quest.json) |
+| Maze to the old castle | 195293 | [195293-maze-to-the-old-castle.json](./195293-maze-to-the-old-castle.json) |
 | Maze Trials | 67601 | [67601-maze-trials.json](./67601-maze-trials.json) |
 | Maze Twister | 191820 | [191820-maze-twister.json](./191820-maze-twister.json) |
 | Maze Up! | 74243 | [74243-maze-up.json](./74243-maze-up.json) |
@@ -9325,6 +9326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Block Puzzle | 306541 | [306541-merge-block-puzzle.json](./306541-merge-block-puzzle.json) |
 | Merge Castle | 233448 | [233448-merge-castle.json](./233448-merge-castle.json) |
 | Merge Catgirl | 210316 | [210316-merge-catgirl.json](./210316-merge-catgirl.json) |
+| Merge Cats: Idle Game | 195287 | [195287-merge-cats-idle-game.json](./195287-merge-cats-idle-game.json) |
 | Merge Chess | 172007 | [172007-merge-chess.json](./172007-merge-chess.json) |
 | Merge Chicken | 116894 | [116894-merge-chicken.json](./116894-merge-chicken.json) |
 | Merge Circle | 262342 | [262342-merge-circle.json](./262342-merge-circle.json) |
@@ -15733,6 +15735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girl Saga: Fallen Heroes | 341330 | [341330-monster-girl-saga-fallen-heroes.json](./341330-monster-girl-saga-fallen-heroes.json) |
 | Monster Girl Therapy | 399575 | [399575-monster-girl-therapy.json](./399575-monster-girl-therapy.json) |
 | Monster Girl's Labyrinth | 210470 | [210470-monster-girls-labyrinth.json](./210470-monster-girls-labyrinth.json) |
+| Monster Girls and the Mysterious Adventure 2 | 195290 | [195290-monster-girls-and-the-mysterious-adventure-2.json](./195290-monster-girls-and-the-mysterious-adventure-2.json) |
 | Monster Girls Salon Dress Up | 106895 | [106895-monster-girls-salon-dress-up.json](./106895-monster-girls-salon-dress-up.json) |
 | Monster Girls Survival & Craft 2040 | 421361 | [421361-monster-girls-survival-and-craft-2040.json](./421361-monster-girls-survival-and-craft-2040.json) |
 | Monster Girls You-Ki Chan | 131748 | [131748-monster-girls-you-ki-chan.json](./131748-monster-girls-you-ki-chan.json) |
@@ -19540,6 +19543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Doom | 389747 | [389747-mushroom-doom.json](./389747-mushroom-doom.json) |
 | Mushroom Empire | 381664 | [381664-mushroom-empire.json](./381664-mushroom-empire.json) |
 | Mushroom Forest | 382881 | [382881-mushroom-forest.json](./382881-mushroom-forest.json) |
+| Mushroom Garden Prime | 195332 | [195332-mushroom-garden-prime.json](./195332-mushroom-garden-prime.json) |
 | Mushroom Guardian | 100362 | [100362-mushroom-guardian.json](./100362-mushroom-guardian.json) |
 | Mushroom Heaven | 202807 | [202807-mushroom-heaven.json](./202807-mushroom-heaven.json) |
 | Mushroom Hunt | 145673 | [145673-mushroom-hunt.json](./145673-mushroom-hunt.json) |
