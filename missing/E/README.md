@@ -6009,6 +6009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Dread 2 | 126955 | [126955-eternal-dread-2.json](./126955-eternal-dread-2.json) |
 | Eternal Dread 3 | 236111 | [236111-eternal-dread-3.json](./236111-eternal-dread-3.json) |
 | Eternal Dreamers | 140609 | [140609-eternal-dreamers.json](./140609-eternal-dreamers.json) |
+| Eternal Dreamers: ShirA.I., the Newscaster | 195305 | [195305-eternal-dreamers-shira-i-the-newscaster.json](./195305-eternal-dreamers-shira-i-the-newscaster.json) |
 | Eternal Dreamers: Sylfie, the Electric | 193242 | [193242-eternal-dreamers-sylfie-the-electric.json](./193242-eternal-dreamers-sylfie-the-electric.json) |
 | Eternal Dungeon | 140589 | [140589-eternal-dungeon.json](./140589-eternal-dungeon.json) |
 | Eternal Eden | 6766 | [6766-eternal-eden.json](./6766-eternal-eden.json) |
@@ -7602,6 +7603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit | 21938 | [21938-exit.json](./21938-exit.json) |
 | Exit 13 Gallery Escape | 291243 | [291243-exit-13-gallery-escape.json](./291243-exit-13-gallery-escape.json) |
 | Exit 19 | 184602 | [184602-exit-19.json](./184602-exit-19.json) |
+| Exit 2 | 195319 | [195319-exit-2.json](./195319-exit-2.json) |
 | Exit 2: Directions | 43146 | [43146-exit-2-directions.json](./43146-exit-2-directions.json) |
 | Exit 3: Painter | 75497 | [75497-exit-3-painter.json](./75497-exit-3-painter.json) |
 | Exit 4: Portal | 80951 | [80951-exit-4-portal.json](./80951-exit-4-portal.json) |
