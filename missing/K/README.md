@@ -4456,7 +4456,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Lobster | 346239 | [346239-knight-lobster.json](./346239-knight-lobster.json) |
 | Knight Lolita | 303615 | [303615-knight-lolita.json](./303615-knight-lolita.json) |
 | Knight Lore | 12359 | [12359-knight-lore.json](./12359-knight-lore.json) |
+| Knight Lore | 214831 | [214831-knight-lore.json](./214831-knight-lore.json) |
 | Knight Lore | 309338 | [309338-knight-lore.json](./309338-knight-lore.json) |
+| Knight Lore Remake | 214830 | [214830-knight-lore-remake.json](./214830-knight-lore-remake.json) |
 | Knight Maker | 175741 | [175741-knight-maker.json](./175741-knight-maker.json) |
 | Knight Move | 339229 | [339229-knight-move.json](./339229-knight-move.json) |
 | Knight Move | 41270 | [41270-knight-move.json](./41270-knight-move.json) |
@@ -5964,6 +5966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuiper Roulette | 375116 | [375116-kuiper-roulette.json](./375116-kuiper-roulette.json) |
 | Kuis Iseng Kaesang | 303108 | [303108-kuis-iseng-kaesang.json](./303108-kuis-iseng-kaesang.json) |
 | Kuizu! Batounea! | 411565 | [411565-kuizu-batounea.json](./411565-kuizu-batounea.json) |
+| Kujaku-ou | 214836 | [214836-kujaku-ou.json](./214836-kujaku-ou.json) |
 | Kujaku-ou 2 | 45550 | [45550-kujaku-ou-2.json](./45550-kujaku-ou-2.json) |
 | Kujaku-ou II | 48439 | [48439-kujaku-ou-ii.json](./48439-kujaku-ou-ii.json) |
 | Kujibiki Unbalance: Kaichou Onegai Smash Fight | 165564 | [165564-kujibiki-unbalance-kaichou-onegai-smash-fight.json](./165564-kujibiki-unbalance-kaichou-onegai-smash-fight.json) |
