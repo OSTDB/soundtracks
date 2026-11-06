@@ -2933,6 +2933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emberwood | 251723 | [251723-emberwood.json](./251723-emberwood.json) |
 | Emberzone | 169340 | [169340-emberzone.json](./169340-emberzone.json) |
 | Emblem of Gundam | 66595 | [66595-emblem-of-gundam.json](./66595-emblem-of-gundam.json) |
+| Emblem of Valor | 236602 | [236602-emblem-of-valor.json](./236602-emblem-of-valor.json) |
 | Emblem Tale: Heros | 200270 | [200270-emblem-tale-heros.json](./200270-emblem-tale-heros.json) |
 | Emblem Wordle | 410099 | [410099-emblem-wordle.json](./410099-emblem-wordle.json) |
 | Emblems: Sunless Vow | 294291 | [294291-emblems-sunless-vow.json](./294291-emblems-sunless-vow.json) |
@@ -6031,6 +6032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Prowl | 333462 | [333462-eternal-prowl.json](./333462-eternal-prowl.json) |
 | Eternal Puppet | 291394 | [291394-eternal-puppet.json](./291394-eternal-puppet.json) |
 | Eternal Quest | 154266 | [154266-eternal-quest.json](./154266-eternal-quest.json) |
+| Eternal Quest | 236644 | [236644-eternal-quest.json](./236644-eternal-quest.json) |
 | Eternal Quest | 43353 | [43353-eternal-quest.json](./43353-eternal-quest.json) |
 | Eternal Radiance | 128856 | [128856-eternal-radiance.json](./128856-eternal-radiance.json) |
 | Eternal Rain | 306273 | [306273-eternal-rain.json](./306273-eternal-rain.json) |
