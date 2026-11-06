@@ -2164,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RatPark | 206355 | [206355-ratpark.json](./206355-ratpark.json) |
 | Ratropolis | 121270 | [121270-ratropolis.json](./121270-ratropolis.json) |
 | Rats for Breakfast | 126999 | [126999-rats-for-breakfast.json](./126999-rats-for-breakfast.json) |
+| Rats in a Cage | 217092 | [217092-rats-in-a-cage.json](./217092-rats-in-a-cage.json) |
 | Rats Invasion | 96673 | [96673-rats-invasion.json](./96673-rats-invasion.json) |
 | Rats Invasion 2 | 86889 | [86889-rats-invasion-2.json](./86889-rats-invasion-2.json) |
 | Rats Invasion 3 - Physics Puzzle Game | 87203 | [87203-rats-invasion-3-physics-puzzle-game.json](./87203-rats-invasion-3-physics-puzzle-game.json) |
@@ -10245,6 +10246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Role in the Hole | 20595 | [20595-role-in-the-hole.json](./20595-role-in-the-hole.json) |
 | Role Model AI | 243517 | [243517-role-model-ai.json](./243517-role-model-ai.json) |
 | Role of Hex | 144876 | [144876-role-of-hex.json](./144876-role-of-hex.json) |
+| Role of Remains | 217056 | [217056-role-of-remains.json](./217056-role-of-remains.json) |
 | Role Player: Ikura Shimai no Nenmaku Portrait - Gurigucha Live | 413743 | [413743-role-player-ikura-shimai-no-nenmaku-portrait-gurigucha-live.json](./413743-role-player-ikura-shimai-no-nenmaku-portrait-gurigucha-live.json) |
 | Role Player: Okayu Shimai no Nenmaku Portrait - Gurigucha Live | 413742 | [413742-role-player-okayu-shimai-no-nenmaku-portrait-gurigucha-live.json](./413742-role-player-okayu-shimai-no-nenmaku-portrait-gurigucha-live.json) |
 | Roles & Dice | 367307 | [367307-roles-and-dice.json](./367307-roles-and-dice.json) |
