@@ -1673,6 +1673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy New Year Clicker | 76490 | [76490-happy-new-year-clicker.json](./76490-happy-new-year-clicker.json) |
 | Happy New Year, Zeliria! | 148996 | [148996-happy-new-year-zeliria.json](./148996-happy-new-year-zeliria.json) |
 | Happy New Year, Zeliria!: Dragon! | 291055 | [291055-happy-new-year-zeliria-dragon.json](./291055-happy-new-year-zeliria-dragon.json) |
+| Happy New Year, Zeliria!: Let's take another walk! | 195323 | [195323-happy-new-year-zeliria-lets-take-another-walk.json](./195323-happy-new-year-zeliria-lets-take-another-walk.json) |
 | Happy Night | 280767 | [280767-happy-night.json](./280767-happy-night.json) |
 | Happy Nonogram | 102510 | [102510-happy-nonogram.json](./102510-happy-nonogram.json) |
 | Happy Nuclear | 369704 | [369704-happy-nuclear.json](./369704-happy-nuclear.json) |
@@ -3434,6 +3435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartrender | 258725 | [258725-heartrender.json](./258725-heartrender.json) |
 | Hearts | 88690 | [88690-hearts.json](./88690-hearts.json) |
 | Hearts & Hexes | 191906 | [191906-hearts-and-hexes.json](./191906-hearts-and-hexes.json) |
+| Hearts 3D Premium | 195330 | [195330-hearts-3d-premium.json](./195330-hearts-3d-premium.json) |
 | Hearts by Dodofox | 100334 | [100334-hearts-by-dodofox.json](./100334-hearts-by-dodofox.json) |
 | Hearts by Webfoot | 108286 | [108286-hearts-by-webfoot.json](./108286-hearts-by-webfoot.json) |
 | Hearts Card Game | 87145 | [87145-hearts-card-game.json](./87145-hearts-card-game.json) |
