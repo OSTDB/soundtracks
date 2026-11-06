@@ -649,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamu's Offering | 149232 | [149232-kamus-offering.json](./149232-kamus-offering.json) |
 | Kamui | 10983 | [10983-kamui.json](./10983-kamui.json) |
 | Kamura: Kamigami to Chigiri Shisha | 292095 | [292095-kamura-kamigami-to-chigiri-shisha.json](./292095-kamura-kamigami-to-chigiri-shisha.json) |
+| Kamyla and the Scarlet Mage | 212036 | [212036-kamyla-and-the-scarlet-mage.json](./212036-kamyla-and-the-scarlet-mage.json) |
 | Kana | 303607 | [303607-kana.json](./303607-kana.json) |
 | Kana Heroes | 307022 | [307022-kana-heroes.json](./307022-kana-heroes.json) |
 | Kana Ka-Boom | 272756 | [272756-kana-ka-boom.json](./272756-kana-ka-boom.json) |
@@ -2812,6 +2813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
