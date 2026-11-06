@@ -5273,6 +5273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wilderness: A Survival Adventure | 25888 | [25888-wilderness-a-survival-adventure.json](./25888-wilderness-a-survival-adventure.json) |
 | Wilderness: Survival | 336678 | [336678-wilderness-survival.json](./336678-wilderness-survival.json) |
 | WildestDreams | 109204 | [109204-wildestdreams.json](./109204-wildestdreams.json) |
+| Wildfire | 245607 | [245607-wildfire.json](./245607-wildfire.json) |
 | Wildfire | 263518 | [263518-wildfire.json](./263518-wildfire.json) |
 | Wildfire | 33813 | [33813-wildfire.json](./33813-wildfire.json) |
 | Wildfire | 372768 | [372768-wildfire.json](./372768-wildfire.json) |
@@ -7838,6 +7839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Cup Italia '90 | 263351 | [263351-world-cup-italia-90.json](./263351-world-cup-italia-90.json) |
 | World Cup Manager | 86221 | [86221-world-cup-manager.json](./86221-world-cup-manager.json) |
 | World Cup of Pool | 47963 | [47963-world-cup-of-pool.json](./47963-world-cup-of-pool.json) |
+| World Cup Soccer | 245608 | [245608-world-cup-soccer.json](./245608-world-cup-soccer.json) |
 | World Cup USA 94 | 217942 | [217942-world-cup-usa-94.json](./217942-world-cup-usa-94.json) |
 | World Cup USA 94 | 349268 | [349268-world-cup-usa-94.json](./349268-world-cup-usa-94.json) |
 | World Cup USA 94 | 365668 | [365668-world-cup-usa-94.json](./365668-world-cup-usa-94.json) |
@@ -9290,6 +9292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWF Wrestlemania: Steel Cage Challenge | 46331 | [46331-wwf-wrestlemania-steel-cage-challenge.json](./46331-wwf-wrestlemania-steel-cage-challenge.json) |
 | WWF WrestleMania: The Arcade Game | 4546 | [4546-wwf-wrestlemania-the-arcade-game.json](./4546-wwf-wrestlemania-the-arcade-game.json) |
 | WWF: Super Wrestlemania | 45566 | [45566-wwf-super-wrestlemania.json](./45566-wwf-super-wrestlemania.json) |
+| WWF: World Wrestling Federation | 245609 | [245609-wwf-world-wrestling-federation.json](./245609-wwf-world-wrestling-federation.json) |
 | WWI Medic | 71605 | [71605-wwi-medic.json](./71605-wwi-medic.json) |
 | WWI: Aces of the Sky | 9392 | [9392-wwi-aces-of-the-sky.json](./9392-wwi-aces-of-the-sky.json) |
 | WWI: The First DogFighters | 179130 | [179130-wwi-the-first-dogfighters.json](./179130-wwi-the-first-dogfighters.json) |
