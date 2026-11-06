@@ -6036,6 +6036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Character Sheets, Please | 209941 | [209941-character-sheets-please.json](./209941-character-sheets-please.json) |
 | Charade Maniacs | 69343 | [69343-charade-maniacs.json](./69343-charade-maniacs.json) |
 | Charade Maniacs for Nintendo Switch | 201618 | [201618-charade-maniacs-for-nintendo-switch.json](./201618-charade-maniacs-for-nintendo-switch.json) |
+| Charade Maniacs: Day One Edition | 241717 | [241717-charade-maniacs-day-one-edition.json](./241717-charade-maniacs-day-one-edition.json) |
 | Charade Maniacs: Limited Edition | 265936 | [265936-charade-maniacs-limited-edition.json](./265936-charade-maniacs-limited-edition.json) |
 | Charades Movie One | 391933 | [391933-charades-movie-one.json](./391933-charades-movie-one.json) |
 | Charades Taboo Game | 100145 | [100145-charades-taboo-game.json](./100145-charades-taboo-game.json) |
@@ -9039,6 +9040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citizen Sleeper 2: Starward Vector - Deluxe Edition | 383422 | [383422-citizen-sleeper-2-starward-vector-deluxe-edition.json](./383422-citizen-sleeper-2-starward-vector-deluxe-edition.json) |
 | Citizen Sleeper: Deluxe Edition | 200501 | [200501-citizen-sleeper-deluxe-edition.json](./200501-citizen-sleeper-deluxe-edition.json) |
 | Citizen Sleeper: Episode - Flux | 210738 | [210738-citizen-sleeper-episode-flux.json](./210738-citizen-sleeper-episode-flux.json) |
+| Citizen Sleeper: Episode - Purge | 241751 | [241751-citizen-sleeper-episode-purge.json](./241751-citizen-sleeper-episode-purge.json) |
 | Citizen Sleeper: Episode - Refuge | 223060 | [223060-citizen-sleeper-episode-refuge.json](./223060-citizen-sleeper-episode-refuge.json) |
 | Citizen Sleeper: Helion Collection | 330406 | [330406-citizen-sleeper-helion-collection.json](./330406-citizen-sleeper-helion-collection.json) |
 | Citizen Vigilante | 410862 | [410862-citizen-vigilante.json](./410862-citizen-vigilante.json) |
@@ -9927,6 +9929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleanup Crew | 286088 | [286088-cleanup-crew.json](./286088-cleanup-crew.json) |
 | Cleanup On Aisle 3 | 414428 | [414428-cleanup-on-aisle-3.json](./414428-cleanup-on-aisle-3.json) |
 | Cleanup Project | 255256 | [255256-cleanup-project.json](./255256-cleanup-project.json) |
+| Clear Can | 241708 | [241708-clear-can.json](./241708-clear-can.json) |
 | Clear for Action | 24675 | [24675-clear-for-action.json](./24675-clear-for-action.json) |
 | Clear Mosaic | 253990 | [253990-clear-mosaic.json](./253990-clear-mosaic.json) |
 | Clear Office | 338080 | [338080-clear-office.json](./338080-clear-office.json) |
@@ -16909,6 +16912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Fishing | 370740 | [370740-creepy-fishing.json](./370740-creepy-fishing.json) |
 | Creepy Forest | 224613 | [224613-creepy-forest.json](./224613-creepy-forest.json) |
 | Creepy Halloween Differences | 234172 | [234172-creepy-halloween-differences.json](./234172-creepy-halloween-differences.json) |
+| Creepy Nights at Freddy's | 241729 | [241729-creepy-nights-at-freddys.json](./241729-creepy-nights-at-freddys.json) |
 | Creepy Person | 365542 | [365542-creepy-person.json](./365542-creepy-person.json) |
 | Creepy Pomni | 316022 | [316022-creepy-pomni.json](./316022-creepy-pomni.json) |
 | Creepy Races | 44192 | [44192-creepy-races.json](./44192-creepy-races.json) |
@@ -18935,6 +18939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubeRun | 89268 | [89268-cuberun.json](./89268-cuberun.json) |
 | CubeRun 2 | 242444 | [242444-cuberun-2.json](./242444-cuberun-2.json) |
 | Cuberuns | 210631 | [210631-cuberuns.json](./210631-cuberuns.json) |
+| Cubes | 241707 | [241707-cubes.json](./241707-cubes.json) |
 | Cubes | 247072 | [247072-cubes.json](./247072-cubes.json) |
 | Cubes | 84030 | [84030-cubes.json](./84030-cubes.json) |
 | Cubes and More Cubes | 180221 | [180221-cubes-and-more-cubes.json](./180221-cubes-and-more-cubes.json) |
