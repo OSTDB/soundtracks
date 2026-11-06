@@ -4322,6 +4322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch & Release | 103032 | [103032-catch-and-release.json](./103032-catch-and-release.json) |
 | Catch 23 | 13467 | [13467-catch-23.json](./13467-catch-23.json) |
 | Catch a Cat for 60 Seconds | 149793 | [149793-catch-a-cat-for-60-seconds.json](./149793-catch-a-cat-for-60-seconds.json) |
+| Catch a Coke | 218226 | [218226-catch-a-coke.json](./218226-catch-a-coke.json) |
 | Catch A Dot | 57429 | [57429-catch-a-dot.json](./57429-catch-a-dot.json) |
 | Catch a Falling Star | 33285 | [33285-catch-a-falling-star.json](./33285-catch-a-falling-star.json) |
 | Catch a Lover | 29543 | [29543-catch-a-lover.json](./29543-catch-a-lover.json) |
@@ -15098,6 +15099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Flow | 154852 | [154852-cosmo-flow.json](./154852-cosmo-flow.json) |
 | Cosmo Gang the Puzzle | 18382 | [18382-cosmo-gang-the-puzzle.json](./18382-cosmo-gang-the-puzzle.json) |
 | Cosmo Gang the Video | 39644 | [39644-cosmo-gang-the-video.json](./39644-cosmo-gang-the-video.json) |
+| Cosmo Gangs | 218225 | [218225-cosmo-gangs.json](./218225-cosmo-gangs.json) |
 | Cosmo Knight Zion | 251147 | [251147-cosmo-knight-zion.json](./251147-cosmo-knight-zion.json) |
 | Cosmo Magnat | 337058 | [337058-cosmo-magnat.json](./337058-cosmo-magnat.json) |
 | Cosmo Mambo No. 5 | 304077 | [304077-cosmo-mambo-no-5.json](./304077-cosmo-mambo-no-5.json) |
@@ -16872,6 +16874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creamy Mami: Futari no Rondo | 184477 | [184477-creamy-mami-futari-no-rondo.json](./184477-creamy-mami-futari-no-rondo.json) |
 | CreArt: Painting by Numbers | 393417 | [393417-creart-painting-by-numbers.json](./393417-creart-painting-by-numbers.json) |
 | Creas | 149202 | [149202-creas.json](./149202-creas.json) |
+| Create | 218200 | [218200-create.json](./218200-create.json) |
 | Create & Conquer | 305771 | [305771-create-and-conquer.json](./305771-create-and-conquer.json) |
 | Create a Pop Sensation | 369695 | [369695-create-a-pop-sensation.json](./369695-create-a-pop-sensation.json) |
 | Create a Ride | 407516 | [407516-create-a-ride.json](./407516-create-a-ride.json) |
@@ -17981,6 +17984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowd Control | 103548 | [103548-crowd-control.json](./103548-crowd-control.json) |
 | Crowd Control VR | 295788 | [295788-crowd-control-vr.json](./295788-crowd-control-vr.json) |
 | Crowd Diver | 291819 | [291819-crowd-diver.json](./291819-crowd-diver.json) |
+| Crowd Evolution! | 218199 | [218199-crowd-evolution.json](./218199-crowd-evolution.json) |
 | Crowd Favorites | 416509 | [416509-crowd-favorites.json](./416509-crowd-favorites.json) |
 | Crowd King | 185106 | [185106-crowd-king.json](./185106-crowd-king.json) |
 | Crowd Medieval City War | 236522 | [236522-crowd-medieval-city-war.json](./236522-crowd-medieval-city-war.json) |
