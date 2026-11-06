@@ -6350,6 +6350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchcrafter | 365594 | [365594-witchcrafter.json](./365594-witchcrafter.json) |
 | Witchcrafter: Empire Legends | 140806 | [140806-witchcrafter-empire-legends.json](./140806-witchcrafter-empire-legends.json) |
 | Witchcrafty | 120920 | [120920-witchcrafty.json](./120920-witchcrafty.json) |
+| Witchery | 232807 | [232807-witchery.json](./232807-witchery.json) |
 | Witches | 68406 | [68406-witches.json](./68406-witches.json) |
 | Witches & Vampires Ghost Pirates of Ashburry | 47812 | [47812-witches-and-vampires-ghost-pirates-of-ashburry.json](./47812-witches-and-vampires-ghost-pirates-of-ashburry.json) |
 | Witches & Vampires: The Secrets of Ashburry | 47813 | [47813-witches-and-vampires-the-secrets-of-ashburry.json](./47813-witches-and-vampires-the-secrets-of-ashburry.json) |
