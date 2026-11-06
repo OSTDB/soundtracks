@@ -1757,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Janshi Suchie-Pai Mecha Genteiban: Hatsubai 5 Shuunen (Toku) Package | 85821 | [85821-idol-janshi-suchie-pai-mecha-genteiban-hatsubai-5-shuunen-toku-package.json](./85821-idol-janshi-suchie-pai-mecha-genteiban-hatsubai-5-shuunen-toku-package.json) |
 | Idol Janshi Suchie-Pai Special | 4305 | [4305-idol-janshi-suchie-pai-special.json](./4305-idol-janshi-suchie-pai-special.json) |
 | Idol Janshi Suchie-Pai: Milky no Yabou | 299296 | [299296-idol-janshi-suchie-pai-milky-no-yabou.json](./299296-idol-janshi-suchie-pai-milky-no-yabou.json) |
+| Idol Janshi Suchie-Pai: Saturn Tribute | 237764 | [237764-idol-janshi-suchie-pai-saturn-tribute.json](./237764-idol-janshi-suchie-pai-saturn-tribute.json) |
 | Idol Janshi Suchie-Pai: Saturn Tribute - Limited Edition | 233951 | [233951-idol-janshi-suchie-pai-saturn-tribute-limited-edition.json](./233951-idol-janshi-suchie-pai-saturn-tribute-limited-edition.json) |
 | Idol Janshi wo Tsukucchaou | 92138 | [92138-idol-janshi-wo-tsukucchaou.json](./92138-idol-janshi-wo-tsukucchaou.json) |
 | Idol Keeper | 158339 | [158339-idol-keeper.json](./158339-idol-keeper.json) |
@@ -2873,6 +2874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Box | 237655 | [237655-in-the-box.json](./237655-in-the-box.json) |
 | In the Building: Cats | 226363 | [226363-in-the-building-cats.json](./226363-in-the-building-cats.json) |
 | In the Building: Cats 3 | 235397 | [235397-in-the-building-cats-3.json](./235397-in-the-building-cats-3.json) |
+| In the Building: Hamsters | 237721 | [237721-in-the-building-hamsters.json](./237721-in-the-building-hamsters.json) |
 | In the Bush | 173843 | [173843-in-the-bush.json](./173843-in-the-bush.json) |
 | In the Cards | 184896 | [184896-in-the-cards.json](./184896-in-the-cards.json) |
 | In the Chips | 307650 | [307650-in-the-chips.json](./307650-in-the-chips.json) |
@@ -3616,6 +3618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inferno Climber | 33761 | [33761-inferno-climber.json](./33761-inferno-climber.json) |
 | Inferno Climber: Reborn | 95833 | [95833-inferno-climber-reborn.json](./95833-inferno-climber-reborn.json) |
 | Inferno Frontier | 340751 | [340751-inferno-frontier.json](./340751-inferno-frontier.json) |
+| Inferno Legend | 237737 | [237737-inferno-legend.json](./237737-inferno-legend.json) |
 | Inferno Meltdown | 266867 | [266867-inferno-meltdown.json](./266867-inferno-meltdown.json) |
 | Inferno Pathways | 347564 | [347564-inferno-pathways.json](./347564-inferno-pathways.json) |
 | Inferno Protocol | 381679 | [381679-inferno-protocol.json](./381679-inferno-protocol.json) |
