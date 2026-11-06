@@ -2723,6 +2723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gems Kingdom | 111604 | [111604-gems-kingdom.json](./111604-gems-kingdom.json) |
 | Gems n' Ropes | 184724 | [184724-gems-n-ropes.json](./184724-gems-n-ropes.json) |
 | Gems of Amazon | 146509 | [146509-gems-of-amazon.json](./146509-gems-of-amazon.json) |
+| Gems of Destiny: Homeless Dwarf | 204027 | [204027-gems-of-destiny-homeless-dwarf.json](./204027-gems-of-destiny-homeless-dwarf.json) |
 | Gems of Destiny: Magic Rescue | 416696 | [416696-gems-of-destiny-magic-rescue.json](./416696-gems-of-destiny-magic-rescue.json) |
 | Gems of Egypt | 395773 | [395773-gems-of-egypt.json](./395773-gems-of-egypt.json) |
 | Gems Of Evolution | 278917 | [278917-gems-of-evolution.json](./278917-gems-of-evolution.json) |
@@ -3741,6 +3742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Follows | 191224 | [191224-ghost-follows.json](./191224-ghost-follows.json) |
 | Ghost For Hire | 295310 | [295310-ghost-for-hire.json](./295310-ghost-for-hire.json) |
 | Ghost Girl Ghussy: XXXL Edition | 271042 | [271042-ghost-girl-ghussy-xxxl-edition.json](./271042-ghost-girl-ghussy-xxxl-edition.json) |
+| Ghost Girl Lasling | 204035 | [204035-ghost-girl-lasling.json](./204035-ghost-girl-lasling.json) |
 | Ghost Golfing | 350721 | [350721-ghost-golfing.json](./350721-ghost-golfing.json) |
 | Ghost Grab 3000 | 116547 | [116547-ghost-grab-3000.json](./116547-ghost-grab-3000.json) |
 | Ghost Grimoire | 178949 | [178949-ghost-grimoire.json](./178949-ghost-grimoire.json) |
@@ -5190,6 +5192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory to Ukraine! | 286304 | [286304-glory-to-ukraine.json](./286304-glory-to-ukraine.json) |
 | Glory Wall! | 393838 | [393838-glory-wall.json](./393838-glory-wall.json) |
 | Glory Warrior: Lord of Darkness | 32963 | [32963-glory-warrior-lord-of-darkness.json](./32963-glory-warrior-lord-of-darkness.json) |
+| Glory's Fools | 204033 | [204033-glorys-fools.json](./204033-glorys-fools.json) |
 | Glory's Witness | 161407 | [161407-glorys-witness.json](./161407-glorys-witness.json) |
 | Glossolalia | 396992 | [396992-glossolalia.json](./396992-glossolalia.json) |
 | Glove on Fight | 56983 | [56983-glove-on-fight.json](./56983-glove-on-fight.json) |
@@ -6050,6 +6053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goddess Legion | 347739 | [347739-goddess-legion.json](./347739-goddess-legion.json) |
 | Goddess of Card War | 148995 | [148995-goddess-of-card-war.json](./148995-goddess-of-card-war.json) |
 | Goddess of Card War 2 | 202518 | [202518-goddess-of-card-war-2.json](./202518-goddess-of-card-war-2.json) |
+| Goddess of Card War 2: DLC-1 | 204032 | [204032-goddess-of-card-war-2-dlc-1.json](./204032-goddess-of-card-war-2-dlc-1.json) |
 | Goddess of Card War: DLC-1 | 170420 | [170420-goddess-of-card-war-dlc-1.json](./170420-goddess-of-card-war-dlc-1.json) |
 | Goddess of Card War: DLC-2 | 170419 | [170419-goddess-of-card-war-dlc-2.json](./170419-goddess-of-card-war-dlc-2.json) |
 | Goddess of Fate | 370054 | [370054-goddess-of-fate.json](./370054-goddess-of-fate.json) |
@@ -6066,6 +6070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goddess of War Ashley | 144222 | [144222-goddess-of-war-ashley.json](./144222-goddess-of-war-ashley.json) |
 | Goddess of War Ashley II | 193131 | [193131-goddess-of-war-ashley-ii.json](./193131-goddess-of-war-ashley-ii.json) |
 | Goddess of War Essa | 195179 | [195179-goddess-of-war-essa.json](./195179-goddess-of-war-essa.json) |
+| Goddess of War Essa II | 204031 | [204031-goddess-of-war-essa-ii.json](./204031-goddess-of-war-essa-ii.json) |
 | Goddess Order | 174685 | [174685-goddess-order.json](./174685-goddess-order.json) |
 | Goddess Paradise | 369768 | [369768-goddess-paradise.json](./369768-goddess-paradise.json) |
 | Goddess Scroll: Brave Star | 396211 | [396211-goddess-scroll-brave-star.json](./396211-goddess-scroll-brave-star.json) |
@@ -6342,6 +6347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gol Show | 248822 | [248822-gol-show.json](./248822-gol-show.json) |
 | GOL:Legend | 99581 | [99581-gol-legend.json](./99581-gol-legend.json) |
 | Golazo! | 122408 | [122408-golazo.json](./122408-golazo.json) |
+| Golazo! 2 | 204038 | [204038-golazo-2.json](./204038-golazo-2.json) |
 | Golazo! 2: Pixel Stars | 243236 | [243236-golazo-2-pixel-stars.json](./243236-golazo-2-pixel-stars.json) |
 | Golazo! 2: Qatar International Stars | 223772 | [223772-golazo-2-qatar-international-stars.json](./223772-golazo-2-qatar-international-stars.json) |
 | Golazo! 2: Soccer Cup 2022 | 223790 | [223790-golazo-2-soccer-cup-2022.json](./223790-golazo-2-soccer-cup-2022.json) |
@@ -7335,6 +7341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorilla Simulator | 396017 | [396017-gorilla-simulator.json](./396017-gorilla-simulator.json) |
 | Gorilla Slot Infinity | 326704 | [326704-gorilla-slot-infinity.json](./326704-gorilla-slot-infinity.json) |
 | Gorilla Smash City Attack Game | 274185 | [274185-gorilla-smash-city-attack-game.json](./274185-gorilla-smash-city-attack-game.json) |
+| Gorilla Soccer | 204037 | [204037-gorilla-soccer.json](./204037-gorilla-soccer.json) |
 | Gorilla Tag | 143228 | [143228-gorilla-tag.json](./143228-gorilla-tag.json) |
 | Gorilla Tag Contagion | 409988 | [409988-gorilla-tag-contagion.json](./409988-gorilla-tag-contagion.json) |
 | Gorilla Unko | 387627 | [387627-gorilla-unko.json](./387627-gorilla-unko.json) |
@@ -8063,6 +8070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandiose | 154581 | [154581-grandiose.json](./154581-grandiose.json) |
 | Grandis Adventures | 333313 | [333313-grandis-adventures.json](./333313-grandis-adventures.json) |
 | Grandma | 193676 | [193676-grandma.json](./193676-grandma.json) |
+| Grandma | 204036 | [204036-grandma.json](./204036-grandma.json) |
 | GrandMa Badass | 150914 | [150914-grandma-badass.json](./150914-grandma-badass.json) |
 | Grandma Cleaning Simulator: Family Business Tycoon | 308510 | [308510-grandma-cleaning-simulator-family-business-tycoon.json](./308510-grandma-cleaning-simulator-family-business-tycoon.json) |
 | Grandma Don't Click That! | 292938 | [292938-grandma-dont-click-that.json](./292938-grandma-dont-click-that.json) |
