@@ -2734,6 +2734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killjoy Hunter Yuuko | 123809 | [123809-killjoy-hunter-yuuko.json](./123809-killjoy-hunter-yuuko.json) |
 | Killmage | 292452 | [292452-killmage.json](./292452-killmage.json) |
 | Killmaiden | 295895 | [295895-killmaiden.json](./295895-killmaiden.json) |
+| Killmist Enclave | 244579 | [244579-killmist-enclave.json](./244579-killmist-enclave.json) |
 | Killon | 261718 | [261718-killon.json](./261718-killon.json) |
 | Killover | 361815 | [361815-killover.json](./361815-killover.json) |
 | Killpaku! | 321380 | [321380-killpaku.json](./321380-killpaku.json) |
@@ -4715,6 +4716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knock on the Occult Door | 374817 | [374817-knock-on-the-occult-door.json](./374817-knock-on-the-occult-door.json) |
 | Knock on the Window | 333306 | [333306-knock-on-the-window.json](./333306-knock-on-the-window.json) |
 | Knock Out!! | 40231 | [40231-knock-out.json](./40231-knock-out.json) |
+| Knock the Bloody Door Down | 244568 | [244568-knock-the-bloody-door-down.json](./244568-knock-the-bloody-door-down.json) |
 | Knock-a-Block | 58171 | [58171-knock-a-block.json](./58171-knock-a-block.json) |
 | Knock-knock | 13153 | [13153-knock-knock.json](./13153-knock-knock.json) |
 | Knock'Em Out | 224637 | [224637-knockem-out.json](./224637-knockem-out.json) |
