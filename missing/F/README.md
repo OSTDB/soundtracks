@@ -5375,6 +5375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Beer | 409198 | [409198-find-the-beer.json](./409198-find-the-beer.json) |
 | Find the Birds | 230912 | [230912-find-the-birds.json](./230912-find-the-birds.json) |
 | Find the Bug | 234076 | [234076-find-the-bug.json](./234076-find-the-bug.json) |
+| Find The Candy | 245645 | [245645-find-the-candy.json](./245645-find-the-candy.json) |
 | Find the Cat | 321200 | [321200-find-the-cat.json](./321200-find-the-cat.json) |
 | Find The Cat | 310438 | [310438-find-the-cat.json](./310438-find-the-cat.json) |
 | Find the Cat: Nightmare | 391604 | [391604-find-the-cat-nightmare.json](./391604-find-the-cat-nightmare.json) |
