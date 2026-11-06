@@ -15272,6 +15272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault on the Necrospire | 32804 | [32804-assault-on-the-necrospire.json](./32804-assault-on-the-necrospire.json) |
 | Assault Ops | 59734 | [59734-assault-ops.json](./59734-assault-ops.json) |
 | Assault Ops: Warzone | 59741 | [59741-assault-ops-warzone.json](./59741-assault-ops-warzone.json) |
+| Assault Plus | 229464 | [229464-assault-plus.json](./229464-assault-plus.json) |
 | Assault Rei Play | 109004 | [109004-assault-rei-play.json](./109004-assault-rei-play.json) |
 | Assault Rigs | 15476 | [15476-assault-rigs.json](./15476-assault-rigs.json) |
 | Assault Sector | 245875 | [245875-assault-sector.json](./245875-assault-sector.json) |
@@ -16491,7 +16492,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
