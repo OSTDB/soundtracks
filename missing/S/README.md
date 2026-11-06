@@ -3804,6 +3804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scythe X | 137667 | [137667-scythe-x.json](./137667-scythe-x.json) |
 | Scythe: Digital Edition - Invaders from Afar | 154948 | [154948-scythe-digital-edition-invaders-from-afar.json](./154948-scythe-digital-edition-invaders-from-afar.json) |
 | Scytheful | 344689 | [344689-scytheful.json](./344689-scytheful.json) |
+| ScytheKick | 241698 | [241698-scythekick.json](./241698-scythekick.json) |
 | SD Battle Oozumou: Heisei Hero Basho | 48300 | [48300-sd-battle-oozumou-heisei-hero-basho.json](./48300-sd-battle-oozumou-heisei-hero-basho.json) |
 | SD F-1 Grand Prix | 38328 | [38328-sd-f-1-grand-prix.json](./38328-sd-f-1-grand-prix.json) |
 | SD Fighters | 39564 | [39564-sd-fighters.json](./39564-sd-fighters.json) |
@@ -11528,6 +11529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sísifo va lentin | 395959 | [395959-sisifo-va-lentin.json](./395959-sisifo-va-lentin.json) |
 | Sissa's Path | 211116 | [211116-sissas-path.json](./211116-sissas-path.json) |
 | Sissy's Magical Ponycorn Adventure | 65919 | [65919-sissys-magical-ponycorn-adventure.json](./65919-sissys-magical-ponycorn-adventure.json) |
+| Sister | 241694 | [241694-sister.json](./241694-sister.json) |
 | Sister Adventure | 123919 | [123919-sister-adventure.json](./123919-sister-adventure.json) |
 | Sister Lace | 385953 | [385953-sister-lace.json](./385953-sister-lace.json) |
 | Sister Lesson | 416016 | [416016-sister-lesson.json](./416016-sister-lesson.json) |
@@ -13246,6 +13248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slenderman Must Die: Chapter 8 | 321110 | [321110-slenderman-must-die-chapter-8.json](./321110-slenderman-must-die-chapter-8.json) |
 | Slenderman Must Die: Survivors | 321122 | [321122-slenderman-must-die-survivors.json](./321122-slenderman-must-die-survivors.json) |
 | Slenderman Saw Game | 385596 | [385596-slenderman-saw-game.json](./385596-slenderman-saw-game.json) |
+| Slenderman vs. Freddy the Fazbear | 241740 | [241740-slenderman-vs-freddy-the-fazbear.json](./241740-slenderman-vs-freddy-the-fazbear.json) |
 | Slenderman: Shadow of the Forest | 340551 | [340551-slenderman-shadow-of-the-forest.json](./340551-slenderman-shadow-of-the-forest.json) |
 | Slenderman: The Game | 79818 | [79818-slenderman-the-game.json](./79818-slenderman-the-game.json) |
 | SlenderMan's Forest | 99338 | [99338-slendermans-forest.json](./99338-slendermans-forest.json) |
@@ -19385,6 +19388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
