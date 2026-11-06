@@ -3995,6 +3995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When Ski Lifts Go Wrong | 111908 | [111908-when-ski-lifts-go-wrong.json](./111908-when-ski-lifts-go-wrong.json) |
 | When Stars Collide | 364519 | [364519-when-stars-collide.json](./364519-when-stars-collide.json) |
 | When Stuffed Animals Attack! | 203103 | [203103-when-stuffed-animals-attack.json](./203103-when-stuffed-animals-attack.json) |
+| When Sword Sinks Into Flowers | 237717 | [237717-when-sword-sinks-into-flowers.json](./237717-when-sword-sinks-into-flowers.json) |
 | When Tails Gets Bored | 228460 | [228460-when-tails-gets-bored.json](./228460-when-tails-gets-bored.json) |
 | When Tails Gets Bored: Special Edition | 330795 | [330795-when-tails-gets-bored-special-edition.json](./330795-when-tails-gets-bored-special-edition.json) |
 | When Team3 Gets Bored | 330091 | [330091-when-team3-gets-bored.json](./330091-when-team3-gets-bored.json) |
@@ -4713,6 +4714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Must Die | 33112 | [33112-who-must-die.json](./33112-who-must-die.json) |
 | Who Needs to Study? | 371209 | [371209-who-needs-to-study.json](./371209-who-needs-to-study.json) |
 | Who owns the kangaroo? | 71215 | [71215-who-owns-the-kangaroo.json](./71215-who-owns-the-kangaroo.json) |
+| Who Run the City | 237748 | [237748-who-run-the-city.json](./237748-who-run-the-city.json) |
 | Who said Meow | 53125 | [53125-who-said-meow.json](./53125-who-said-meow.json) |
 | Who Said This in Conference | 91176 | [91176-who-said-this-in-conference.json](./91176-who-said-this-in-conference.json) |
 | Who Shot James R. Burnside? | 302493 | [302493-who-shot-james-r-burnside.json](./302493-who-shot-james-r-burnside.json) |
