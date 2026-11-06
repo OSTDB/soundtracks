@@ -4550,6 +4550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Othello World | 42515 | [42515-othello-world.json](./42515-othello-world.json) |
 | Othello World II: Yume to Michi e no Chousen | 54949 | [54949-othello-world-ii-yume-to-michi-e-no-chousen.json](./54949-othello-world-ii-yume-to-michi-e-no-chousen.json) |
 | Othello: Battle Royale | 346513 | [346513-othello-battle-royale.json](./346513-othello-battle-royale.json) |
+| Othello: Daynight Time Clash | 200785 | [200785-othello-daynight-time-clash.json](./200785-othello-daynight-time-clash.json) |
 | Othello! Japan | 306858 | [306858-othello-japan.json](./306858-othello-japan.json) |
 | Other | 197274 | [197274-other.json](./197274-other.json) |
 | Other Life | 145873 | [145873-other-life.json](./145873-other-life.json) |
