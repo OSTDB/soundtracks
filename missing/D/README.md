@@ -322,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daft Jump! | 108222 | [108222-daft-jump.json](./108222-daft-jump.json) |
 | DaGame | 146238 | [146238-dagame.json](./146238-dagame.json) |
 | Dagat-i Kal Kal Kal | 63262 | [63262-dagat-i-kal-kal-kal.json](./63262-dagat-i-kal-kal-kal.json) |
+| Dagdak Knights: Idle RPG | 219957 | [219957-dagdak-knights-idle-rpg.json](./219957-dagdak-knights-idle-rpg.json) |
 | Dagdrom | 183468 | [183468-dagdrom.json](./183468-dagdrom.json) |
 | Dagdrøm | 223260 | [223260-dagdr-m.json](./223260-dagdr-m.json) |
 | DaGeDar | 47924 | [47924-dagedar.json](./47924-dagedar.json) |
@@ -2831,6 +2832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawngate | 11327 | [11327-dawngate.json](./11327-dawngate.json) |
 | Dawning Evil | 331088 | [331088-dawning-evil.json](./331088-dawning-evil.json) |
 | Dawning Subaru, and The Owl lurking in the twilight. | 317706 | [317706-dawning-subaru-and-the-owl-lurking-in-the-twilight.json](./317706-dawning-subaru-and-the-owl-lurking-in-the-twilight.json) |
+| Dawnlands | 219960 | [219960-dawnlands.json](./219960-dawnlands.json) |
 | Dawnmaker | 291853 | [291853-dawnmaker.json](./291853-dawnmaker.json) |
 | DawnOfCombat | 260630 | [260630-dawnofcombat.json](./260630-dawnofcombat.json) |
 | Dawnsbury Days | 278910 | [278910-dawnsbury-days.json](./278910-dawnsbury-days.json) |
@@ -4582,6 +4584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Race 2020 | 147717 | [147717-death-race-2020.json](./147717-death-race-2020.json) |
 | Death Race 2600 | 414099 | [414099-death-race-2600.json](./414099-death-race-2600.json) |
 | Death Race Outer Space | 239676 | [239676-death-race-outer-space.json](./239676-death-race-outer-space.json) |
+| Death Race: Shooter Game | 219873 | [219873-death-race-shooter-game.json](./219873-death-race-shooter-game.json) |
 | Death Rally | 18121 | [18121-death-rally.json](./18121-death-rally.json) |
 | Death Rally | 665 | [665-death-rally.json](./665-death-rally.json) |
 | Death Ration: Back to 19XX | 258321 | [258321-death-ration-back-to-19xx.json](./258321-death-ration-back-to-19xx.json) |
@@ -19206,6 +19209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynatron Mission | 14046 | [14046-dynatron-mission.json](./14046-dynatron-mission.json) |
 | Dynetzzle Extended | 20101 | [20101-dynetzzle-extended.json](./20101-dynetzzle-extended.json) |
 | Dyno Adventure | 31399 | [31399-dyno-adventure.json](./31399-dyno-adventure.json) |
+| Dyno Master | 219951 | [219951-dyno-master.json](./219951-dyno-master.json) |
 | Dyno Tennis | 245116 | [245116-dyno-tennis.json](./245116-dyno-tennis.json) |
 | DynoBlaze | 350144 | [350144-dynoblaze.json](./350144-dynoblaze.json) |
 | Dynogems | 42826 | [42826-dynogems.json](./42826-dynogems.json) |
