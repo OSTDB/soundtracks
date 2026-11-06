@@ -14119,6 +14119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box It! 2 | 361995 | [361995-box-it-2.json](./361995-box-it-2.json) |
 | Box Kid Adventures | 128453 | [128453-box-kid-adventures.json](./128453-box-kid-adventures.json) |
 | Box King | 337297 | [337297-box-king.json](./337297-box-king.json) |
+| Box Knight | 196940 | [196940-box-knight.json](./196940-box-knight.json) |
 | Box Labyrinth | 120080 | [120080-box-labyrinth.json](./120080-box-labyrinth.json) |
 | Box Logistics | 186502 | [186502-box-logistics.json](./186502-box-logistics.json) |
 | Box Maker | 247396 | [247396-box-maker.json](./247396-box-maker.json) |
@@ -14305,6 +14306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boyard | 273188 | [273188-boyard.json](./273188-boyard.json) |
 | Boyband Hell | 288177 | [288177-boyband-hell.json](./288177-boyband-hell.json) |
 | Boyce the Voice | 285369 | [285369-boyce-the-voice.json](./285369-boyce-the-voice.json) |
+| Boyfiends | 196947 | [196947-boyfiends.json](./196947-boyfiends.json) |
 | Boyfriend Dungeon: Secret Weapons | 228681 | [228681-boyfriend-dungeon-secret-weapons.json](./228681-boyfriend-dungeon-secret-weapons.json) |
 | Boyfriend Exorcist | 265535 | [265535-boyfriend-exorcist.json](./265535-boyfriend-exorcist.json) |
 | Boyfriend Kari Kirameki Note | 100066 | [100066-boyfriend-kari-kirameki-note.json](./100066-boyfriend-kari-kirameki-note.json) |
