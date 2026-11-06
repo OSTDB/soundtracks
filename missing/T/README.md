@@ -4546,8 +4546,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terraria: Lunar Veil Mod | 361816 | [361816-terraria-lunar-veil-mod.json](./361816-terraria-lunar-veil-mod.json) |
 | Terraria: Mod of Redemption | 223036 | [223036-terraria-mod-of-redemption.json](./223036-terraria-mod-of-redemption.json) |
 | Terraria: Otherworld | 25677 | [25677-terraria-otherworld.json](./25677-terraria-otherworld.json) |
+| Terraria: Spirit Mod | 222686 | [222686-terraria-spirit-mod.json](./222686-terraria-spirit-mod.json) |
 | Terraria: Split Mod | 223035 | [223035-terraria-split-mod.json](./223035-terraria-split-mod.json) |
 | Terraria: The Stars Above | 223034 | [223034-terraria-the-stars-above.json](./223034-terraria-the-stars-above.json) |
+| Terraria: Thorium Mod | 222685 | [222685-terraria-thorium-mod.json](./222685-terraria-thorium-mod.json) |
 | TerrariaCraft | 300699 | [300699-terrariacraft.json](./300699-terrariacraft.json) |
 | Terrarium | 360876 | [360876-terrarium.json](./360876-terrarium.json) |
 | Terrarium Builder | 235032 | [235032-terrarium-builder.json](./235032-terrarium-builder.json) |
@@ -5028,6 +5030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetsudou Nippon! Rosen Tabi: Aizu Tetsudou‑hen | 221946 | [221946-tetsudou-nippon-rosen-tabi-aizu-tetsudou-hen.json](./221946-tetsudou-nippon-rosen-tabi-aizu-tetsudou-hen.json) |
 | Tetsudou Nippon! Rosen Tabi: Akechi Tetsudou-hen | 241971 | [241971-tetsudou-nippon-rosen-tabi-akechi-tetsudou-hen.json](./241971-tetsudou-nippon-rosen-tabi-akechi-tetsudou-hen.json) |
 | Tetsudou Nippon! Rosen Tabi: Kikansha Thomas-hen - Ooigawa Tetsudou wo Hashirou! | 221731 | [221731-tetsudou-nippon-rosen-tabi-kikansha-thomas-hen-ooigawa-tetsudou-wo-hashirou.json](./221731-tetsudou-nippon-rosen-tabi-kikansha-thomas-hen-ooigawa-tetsudou-wo-hashirou.json) |
+| Tetsudou Seminar: Oote Shitetsu-hen | 222711 | [222711-tetsudou-seminar-oote-shitetsu-hen.json](./222711-tetsudou-seminar-oote-shitetsu-hen.json) |
 | Tetsudou-ou | 48880 | [48880-tetsudou-ou.json](./48880-tetsudou-ou.json) |
 | Tetsudou-ou '96: Ikuze Okuban Chouja | 62953 | [62953-tetsudou-ou-96-ikuze-okuban-chouja.json](./62953-tetsudou-ou-96-ikuze-okuban-chouja.json) |
 | Tetsudou-ou 2: Sekai Seifuku no Yabou | 62952 | [62952-tetsudou-ou-2-sekai-seifuku-no-yabou.json](./62952-tetsudou-ou-2-sekai-seifuku-no-yabou.json) |
@@ -5492,6 +5495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Bluke Bifton: Chapter 1 | 158380 | [158380-the-adventures-of-bluke-bifton-chapter-1.json](./158380-the-adventures-of-bluke-bifton-chapter-1.json) |
 | The Adventures of Bond... Basildon Bond | 41149 | [41149-the-adventures-of-bond-basildon-bond.json](./41149-the-adventures-of-bond-basildon-bond.json) |
 | The Adventures of Boney Joe | 182675 | [182675-the-adventures-of-boney-joe.json](./182675-the-adventures-of-boney-joe.json) |
+| The Adventures of Bouapha: Spooky Castle | 222714 | [222714-the-adventures-of-bouapha-spooky-castle.json](./222714-the-adventures-of-bouapha-spooky-castle.json) |
 | The Adventures of Bruce Flea | 258474 | [258474-the-adventures-of-bruce-flea.json](./258474-the-adventures-of-bruce-flea.json) |
 | The Adventures of Bryan Scott | 172541 | [172541-the-adventures-of-bryan-scott.json](./172541-the-adventures-of-bryan-scott.json) |
 | The Adventures of Buckaroo Banzai: Across the Eighth Dimension | 2299 | [2299-the-adventures-of-buckaroo-banzai-across-the-eighth-dimension.json](./2299-the-adventures-of-buckaroo-banzai-across-the-eighth-dimension.json) |
@@ -9251,6 +9255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fast and The Furious | 21383 | [21383-the-fast-and-the-furious.json](./21383-the-fast-and-the-furious.json) |
 | The Fast and the Furious & 2 Fast 2 Furious | 301503 | [301503-the-fast-and-the-furious-and-2-fast-2-furious.json](./301503-the-fast-and-the-furious-and-2-fast-2-furious.json) |
 | The Fast and The Furious: Super Bikes | 72919 | [72919-the-fast-and-the-furious-super-bikes.json](./72919-the-fast-and-the-furious-super-bikes.json) |
+| The Fast and The Furious: Tokyo | 222719 | [222719-the-fast-and-the-furious-tokyo.json](./222719-the-fast-and-the-furious-tokyo.json) |
 | The Fast Journey | 276309 | [276309-the-fast-journey.json](./276309-the-fast-journey.json) |
 | The Fastest Fist | 30912 | [30912-the-fastest-fist.json](./30912-the-fastest-fist.json) |
 | The Fat Cat Fest | 332317 | [332317-the-fat-cat-fest.json](./332317-the-fat-cat-fest.json) |
@@ -13438,6 +13443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mammoth: A Cave Painting | 75768 | [75768-the-mammoth-a-cave-painting.json](./75768-the-mammoth-a-cave-painting.json) |
 | The Man Called Merc | 55045 | [55045-the-man-called-merc.json](./55045-the-man-called-merc.json) |
 | The Man From Fugue State | 171847 | [171847-the-man-from-fugue-state.json](./171847-the-man-from-fugue-state.json) |
+| The Man From the Window | 222700 | [222700-the-man-from-the-window.json](./222700-the-man-from-the-window.json) |
 | The Man from the Window 2 | 272352 | [272352-the-man-from-the-window-2.json](./272352-the-man-from-the-window-2.json) |
 | The Man From U.N.C.L.E. - Mission: Berlin | 175019 | [175019-the-man-from-u-n-c-l-e-mission-berlin.json](./175019-the-man-from-u-n-c-l-e-mission-berlin.json) |
 | The Man I Love | 388807 | [388807-the-man-i-love.json](./388807-the-man-i-love.json) |
@@ -13908,6 +13914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Movie Trivia Challenge | 102100 | [102100-the-movie-trivia-challenge.json](./102100-the-movie-trivia-challenge.json) |
 | The Movies: Stunts and Effects | 3023 | [3023-the-movies-stunts-and-effects.json](./3023-the-movies-stunts-and-effects.json) |
 | The Mr. Rabbit Magic Show | 342205 | [342205-the-mr-rabbit-magic-show.json](./342205-the-mr-rabbit-magic-show.json) |
+| The Mucus Empire | 222677 | [222677-the-mucus-empire.json](./222677-the-mucus-empire.json) |
 | The Mujo | 235163 | [235163-the-mujo.json](./235163-the-mujo.json) |
 | The Müll Littoral | 134530 | [134530-the-mull-littoral.json](./134530-the-mull-littoral.json) |
 | The Mulldoon Legacy | 60025 | [60025-the-mulldoon-legacy.json](./60025-the-mulldoon-legacy.json) |
