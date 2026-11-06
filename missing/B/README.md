@@ -5403,6 +5403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Them Up: Box Simulator | 234626 | [234626-beat-them-up-box-simulator.json](./234626-beat-them-up-box-simulator.json) |
 | Beat Them Up: Street Fight Band Simulator | 251598 | [251598-beat-them-up-street-fight-band-simulator.json](./251598-beat-them-up-street-fight-band-simulator.json) |
 | Beat This Game To See Hot Lady | 396495 | [396495-beat-this-game-to-see-hot-lady.json](./396495-beat-this-game-to-see-hot-lady.json) |
+| Beat Tiles | 200762 | [200762-beat-tiles.json](./200762-beat-tiles.json) |
 | Beat Time | 91439 | [91439-beat-time.json](./91439-beat-time.json) |
 | Beat Tokyo with Jimotoism | 339976 | [339976-beat-tokyo-with-jimotoism.json](./339976-beat-tokyo-with-jimotoism.json) |
 | Beat Typing | 308858 | [308858-beat-typing.json](./308858-beat-typing.json) |
@@ -5989,6 +5990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before the Fall | 411540 | [411540-before-the-fall.json](./411540-before-the-fall.json) |
 | Before the Great | 136706 | [136706-before-the-great.json](./136706-before-the-great.json) |
 | Before the Green Moon | 240988 | [240988-before-the-green-moon.json](./240988-before-the-green-moon.json) |
+| Before the Kingdom Falls | 200783 | [200783-before-the-kingdom-falls.json](./200783-before-the-kingdom-falls.json) |
 | Before the Last Hour | 200428 | [200428-before-the-last-hour.json](./200428-before-the-last-hour.json) |
 | Before the Legacy | 71165 | [71165-before-the-legacy.json](./71165-before-the-legacy.json) |
 | Before The Mine | 281958 | [281958-before-the-mine.json](./281958-before-the-mine.json) |
@@ -6601,6 +6603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berry Mayhem | 158546 | [158546-berry-mayhem.json](./158546-berry-mayhem.json) |
 | Berry People | 237762 | [237762-berry-people.json](./237762-berry-people.json) |
 | Berry Tree | 68726 | [68726-berry-tree.json](./68726-berry-tree.json) |
+| Berrywitched | 200792 | [200792-berrywitched.json](./200792-berrywitched.json) |
 | Berrywitched! | 330215 | [330215-berrywitched.json](./330215-berrywitched.json) |
 | Berrywitched! The Harvest | 374169 | [374169-berrywitched-the-harvest.json](./374169-berrywitched-the-harvest.json) |
 | Berserk and the Band of the Hawk | 19765 | [19765-berserk-and-the-band-of-the-hawk.json](./19765-berserk-and-the-band-of-the-hawk.json) |
