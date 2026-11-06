@@ -14897,6 +14897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Disco | 150883 | [150883-cosmic-disco.json](./150883-cosmic-disco.json) |
 | Cosmic Distortion | 412281 | [412281-cosmic-distortion.json](./412281-cosmic-distortion.json) |
 | Cosmic DJ | 14400 | [14400-cosmic-dj.json](./14400-cosmic-dj.json) |
+| Cosmic Dream | 229429 | [229429-cosmic-dream.json](./229429-cosmic-dream.json) |
 | Cosmic Dream | 380091 | [380091-cosmic-dream.json](./380091-cosmic-dream.json) |
 | Cosmic Dust & Rust | 32635 | [32635-cosmic-dust-and-rust.json](./32635-cosmic-dust-and-rust.json) |
 | Cosmic Epsilon | 48689 | [48689-cosmic-epsilon.json](./48689-cosmic-epsilon.json) |
