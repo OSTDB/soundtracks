@@ -1436,6 +1436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Efpiyes | 234045 | [234045-efpiyes.json](./234045-efpiyes.json) |
 | EFPSE/EFPSECE Games Practice | 400564 | [400564-efpse-efpsece-games-practice.json](./400564-efpse-efpsece-games-practice.json) |
 | Efteling Tycoon | 210077 | [210077-efteling-tycoon.json](./210077-efteling-tycoon.json) |
+| Eftu | 197436 | [197436-eftu.json](./197436-eftu.json) |
 | EGA Coloring Book | 330270 | [330270-ega-coloring-book.json](./330270-ega-coloring-book.json) |
 | EGA Trek | 50303 | [50303-ega-trek.json](./50303-ega-trek.json) |
 | EGA-Roids | 130850 | [130850-ega-roids.json](./130850-ega-roids.json) |
@@ -3093,6 +3094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emi's Country Store and Farm | 218582 | [218582-emis-country-store-and-farm.json](./218582-emis-country-store-and-farm.json) |
 | Emi's Solo Ghost Hunting | 350954 | [350954-emis-solo-ghost-hunting.json](./350954-emis-solo-ghost-hunting.json) |
 | Emi's Solo Ghost Hunting 2 | 408020 | [408020-emis-solo-ghost-hunting-2.json](./408020-emis-solo-ghost-hunting-2.json) |
+| Emiko's Pledge 2 | 197466 | [197466-emikos-pledge-2.json](./197466-emikos-pledge-2.json) |
 | Emiko's Pledge 3 | 211635 | [211635-emikos-pledge-3.json](./211635-emikos-pledge-3.json) |
 | Emiko's Pledge 4 | 306393 | [306393-emikos-pledge-4.json](./306393-emikos-pledge-4.json) |
 | Emil Chronicle Online | 263690 | [263690-emil-chronicle-online.json](./263690-emil-chronicle-online.json) |
@@ -4111,6 +4113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enionax | 206298 | [206298-enionax.json](./206298-enionax.json) |
 | Enishia and the Binding Brand | 275520 | [275520-enishia-and-the-binding-brand.json](./275520-enishia-and-the-binding-brand.json) |
 | Enjaulados | 361285 | [361285-enjaulados.json](./361285-enjaulados.json) |
+| Enjoy | 197430 | [197430-enjoy.json](./197430-enjoy.json) |
 | Enjoy Amoy & Sisters | 404874 | [404874-enjoy-amoy-and-sisters.json](./404874-enjoy-amoy-and-sisters.json) |
 | Enjoy Summer Maximum | 418860 | [418860-enjoy-summer-maximum.json](./418860-enjoy-summer-maximum.json) |
 | Enjoy the Diner | 250232 | [250232-enjoy-the-diner.json](./250232-enjoy-the-diner.json) |
@@ -6722,6 +6725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everbloom | 178663 | [178663-everbloom.json](./178663-everbloom.json) |
 | Everblue | 37082 | [37082-everblue.json](./37082-everblue.json) |
 | Everblue 2 | 9656 | [9656-everblue-2.json](./9656-everblue-2.json) |
+| Everburning | 197423 | [197423-everburning.json](./197423-everburning.json) |
 | Evercade Alpha Mega Man Bartop Arcade | 304227 | [304227-evercade-alpha-mega-man-bartop-arcade.json](./304227-evercade-alpha-mega-man-bartop-arcade.json) |
 | Evercade Alpha Street Fighter Bartop Arcade | 304226 | [304226-evercade-alpha-street-fighter-bartop-arcade.json](./304226-evercade-alpha-street-fighter-bartop-arcade.json) |
 | Evercade Alpha Taito Bartop Arcade | 346796 | [346796-evercade-alpha-taito-bartop-arcade.json](./346796-evercade-alpha-taito-bartop-arcade.json) |
