@@ -4244,6 +4244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After All Enema Masochist Daughter Miki | 82932 | [82932-after-all-enema-masochist-daughter-miki.json](./82932-after-all-enema-masochist-daughter-miki.json) |
 | After Armageddon Gaiden: Majuu Toushouden Eclipse | 46396 | [46396-after-armageddon-gaiden-majuu-toushouden-eclipse.json](./46396-after-armageddon-gaiden-majuu-toushouden-eclipse.json) |
 | After Burner | 113199 | [113199-after-burner.json](./113199-after-burner.json) |
+| After Burner | 198606 | [198606-after-burner.json](./198606-after-burner.json) |
 | After Burner | 365007 | [365007-after-burner.json](./365007-after-burner.json) |
 | After Burner | 365008 | [365008-after-burner.json](./365008-after-burner.json) |
 | After Burner | 365088 | [365088-after-burner.json](./365088-after-burner.json) |
@@ -7913,6 +7914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altered Alma | 252856 | [252856-altered-alma.json](./252856-altered-alma.json) |
 | Altered Anomalies | 322994 | [322994-altered-anomalies.json](./322994-altered-anomalies.json) |
 | Altered Beast | 19411 | [19411-altered-beast.json](./19411-altered-beast.json) |
+| Altered Beast | 198615 | [198615-altered-beast.json](./198615-altered-beast.json) |
 | Altered Beast | 200151 | [200151-altered-beast.json](./200151-altered-beast.json) |
 | Altered Beast | 202939 | [202939-altered-beast.json](./202939-altered-beast.json) |
 | Altered Beast | 202941 | [202941-altered-beast.json](./202941-altered-beast.json) |
@@ -8281,6 +8283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing repair | 120691 | [120691-amazing-repair.json](./120691-amazing-repair.json) |
 | Amazing Runner | 41510 | [41510-amazing-runner.json](./41510-amazing-runner.json) |
 | Amazing Soccer 2013 | 99146 | [99146-amazing-soccer-2013.json](./99146-amazing-soccer-2013.json) |
+| Amazing Sonic | 198603 | [198603-amazing-sonic.json](./198603-amazing-sonic.json) |
 | Amazing Sonic Scene Creator 2 | 320630 | [320630-amazing-sonic-scene-creator-2.json](./320630-amazing-sonic-scene-creator-2.json) |
 | Amazing Space | 258210 | [258210-amazing-space.json](./258210-amazing-space.json) |
 | Amazing Space Frog 2018 | 95289 | [95289-amazing-space-frog-2018.json](./95289-amazing-space-frog-2018.json) |
@@ -8915,6 +8918,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amusement Park: Jumping Kid | 203385 | [203385-amusement-park-jumping-kid.json](./203385-amusement-park-jumping-kid.json) |
 | Amusement Planet Phantasmagoria | 133627 | [133627-amusement-planet-phantasmagoria.json](./133627-amusement-planet-phantasmagoria.json) |
 | Amusia | 311187 | [311187-amusia.json](./311187-amusia.json) |
+| Amy & Rouge Tennis | 198596 | [198596-amy-and-rouge-tennis.json](./198596-amy-and-rouge-tennis.json) |
+| Amy & Rouge Volleyball | 198595 | [198595-amy-and-rouge-volleyball.json](./198595-amy-and-rouge-volleyball.json) |
 | Amy & Trip in Sonic the Hedgehog 2 | 361499 | [361499-amy-and-trip-in-sonic-the-hedgehog-2.json](./361499-amy-and-trip-in-sonic-the-hedgehog-2.json) |
 | Amy Adventure | 331108 | [331108-amy-adventure.json](./331108-amy-adventure.json) |
 | Amy Bubble Burst | 331753 | [331753-amy-bubble-burst.json](./331753-amy-bubble-burst.json) |
@@ -11498,6 +11503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Legends: PlayStation Plus Play Pack | 325861 | [325861-apex-legends-playstation-plus-play-pack.json](./325861-apex-legends-playstation-plus-play-pack.json) |
 | Apex Legends: Prodigy | 342775 | [342775-apex-legends-prodigy.json](./342775-apex-legends-prodigy.json) |
 | Apex Legends: Revelry | 236655 | [236655-apex-legends-revelry.json](./236655-apex-legends-revelry.json) |
+| Apex Legends: Saviors | 198605 | [198605-apex-legends-saviors.json](./198605-apex-legends-saviors.json) |
 | Apex Legends: Season 5 | 133259 | [133259-apex-legends-season-5.json](./133259-apex-legends-season-5.json) |
 | Apex Legends: Season 6 | 136736 | [136736-apex-legends-season-6.json](./136736-apex-legends-season-6.json) |
 | Apex Legends: Season 7 | 140448 | [140448-apex-legends-season-7.json](./140448-apex-legends-season-7.json) |
