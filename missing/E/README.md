@@ -5035,6 +5035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Capyland | 312620 | [312620-escape-capyland.json](./312620-escape-capyland.json) |
 | Escape Cataclysm | 400726 | [400726-escape-cataclysm.json](./400726-escape-cataclysm.json) |
 | Escape Chase Monster | 219254 | [219254-escape-chase-monster.json](./219254-escape-chase-monster.json) |
+| Escape Chase Zombie | 208549 | [208549-escape-chase-zombie.json](./208549-escape-chase-zombie.json) |
 | Escape Chronicles | 241384 | [241384-escape-chronicles.json](./241384-escape-chronicles.json) |
 | Escape Code - Coding Adventure | 97190 | [97190-escape-code-coding-adventure.json](./97190-escape-code-coding-adventure.json) |
 | Escape Condition | 219255 | [219255-escape-condition.json](./219255-escape-condition.json) |
@@ -8285,6 +8286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye of the Match | 393659 | [393659-eye-of-the-match.json](./393659-eye-of-the-match.json) |
 | Eye of the Moon | 177434 | [177434-eye-of-the-moon.json](./177434-eye-of-the-moon.json) |
 | Eye of the Owl | 34051 | [34051-eye-of-the-owl.json](./34051-eye-of-the-owl.json) |
+| Eye of the Portal | 208552 | [208552-eye-of-the-portal.json](./208552-eye-of-the-portal.json) |
 | Eye of the Storm | 12587 | [12587-eye-of-the-storm.json](./12587-eye-of-the-storm.json) |
 | Eye of the Storm | 299731 | [299731-eye-of-the-storm.json](./299731-eye-of-the-storm.json) |
 | Eye of the Summoner | 302771 | [302771-eye-of-the-summoner.json](./302771-eye-of-the-summoner.json) |
