@@ -2288,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap knife VIP | 105959 | [105959-tap-knife-vip.json](./105959-tap-knife-vip.json) |
 | Tap Knight: Idle Adventure | 200326 | [200326-tap-knight-idle-adventure.json](./200326-tap-knight-idle-adventure.json) |
 | Tap Knights: Heroes & Monsters | 86942 | [86942-tap-knights-heroes-and-monsters.json](./86942-tap-knights-heroes-and-monsters.json) |
+| Tap Legends: Tactics RPG | 219962 | [219962-tap-legends-tactics-rpg.json](./219962-tap-legends-tactics-rpg.json) |
 | Tap Master | 239038 | [239038-tap-master.json](./239038-tap-master.json) |
 | Tap Master: Mondrian | 333581 | [333581-tap-master-mondrian.json](./333581-tap-master-mondrian.json) |
 | Tap My Katamari | 26991 | [26991-tap-my-katamari.json](./26991-tap-my-katamari.json) |
@@ -2423,6 +2424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tapper Basic | 297607 | [297607-tapper-basic.json](./297607-tapper-basic.json) |
 | Tapper World Tour | 66079 | [66079-tapper-world-tour.json](./66079-tapper-world-tour.json) |
 | Tapper's Fiefdom | 393491 | [393491-tappers-fiefdom.json](./393491-tappers-fiefdom.json) |
+| Tappi Bear All in 1 | 219898 | [219898-tappi-bear-all-in-1.json](./219898-tappi-bear-all-in-1.json) |
 | Tappingo | 23517 | [23517-tappingo.json](./23517-tappingo.json) |
 | Tapple: Idle Clicker | 314240 | [314240-tapple-idle-clicker.json](./314240-tapple-idle-clicker.json) |
 | TapPlease | 107046 | [107046-tapplease.json](./107046-tapplease.json) |
@@ -11614,6 +11616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XV: Omega Edition | 185982 | [185982-the-king-of-fighters-xv-omega-edition.json](./185982-the-king-of-fighters-xv-omega-edition.json) |
 | The King of Fighters XV: Omega Rugal | 323408 | [323408-the-king-of-fighters-xv-omega-rugal.json](./323408-the-king-of-fighters-xv-omega-rugal.json) |
 | The King of Fighters XV: Team Garou | 195801 | [195801-the-king-of-fighters-xv-team-garou.json](./195801-the-king-of-fighters-xv-team-garou.json) |
+| The King of Fighters XV: Team Samurai | 219886 | [219886-the-king-of-fighters-xv-team-samurai.json](./219886-the-king-of-fighters-xv-team-samurai.json) |
 | The King of Fighters XV: Ultimate Edition | 331253 | [331253-the-king-of-fighters-xv-ultimate-edition.json](./331253-the-king-of-fighters-xv-ultimate-edition.json) |
 | The King of Fighters-A 2012 | 38737 | [38737-the-king-of-fighters-a-2012.json](./38737-the-king-of-fighters-a-2012.json) |
 | The King of Fighters: AFK | 364038 | [364038-the-king-of-fighters-afk.json](./364038-the-king-of-fighters-afk.json) |
@@ -14248,6 +14251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The No Goblin Complete Collection | 53767 | [53767-the-no-goblin-complete-collection.json](./53767-the-no-goblin-complete-collection.json) |
 | The No No Man | 316412 | [316412-the-no-no-man.json](./316412-the-no-no-man.json) |
 | The Node | 391425 | [391425-the-node.json](./391425-the-node.json) |
+| The Nodus | 219897 | [219897-the-nodus.json](./219897-the-nodus.json) |
 | The Noexistencen of You and Me | 325916 | [325916-the-noexistencen-of-you-and-me.json](./325916-the-noexistencen-of-you-and-me.json) |
 | The Noid's Super Pizza Shootout | 342587 | [342587-the-noids-super-pizza-shootout.json](./342587-the-noids-super-pizza-shootout.json) |
 | The Noise's Jam-Packed Radical Mini Mayhem! | 316590 | [316590-the-noises-jam-packed-radical-mini-mayhem.json](./316590-the-noises-jam-packed-radical-mini-mayhem.json) |
@@ -15916,6 +15920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret Cove | 113444 | [113444-the-secret-cove.json](./113444-the-secret-cove.json) |
 | The Secret Diary of Adrian Mole Aged 13 3/4 | 26357 | [26357-the-secret-diary-of-adrian-mole-aged-13-3-4.json](./26357-the-secret-diary-of-adrian-mole-aged-13-3-4.json) |
 | The Secret Door | 235616 | [235616-the-secret-door.json](./235616-the-secret-door.json) |
+| The Secret Elevator: Remastered | 219885 | [219885-the-secret-elevator-remastered.json](./219885-the-secret-elevator-remastered.json) |
 | The Secret Fake Ring | 352327 | [352327-the-secret-fake-ring.json](./352327-the-secret-fake-ring.json) |
 | The Secret Ingredient is... | 254988 | [254988-the-secret-ingredient-is.json](./254988-the-secret-ingredient-is.json) |
 | The Secret Installation | 271315 | [271315-the-secret-installation.json](./271315-the-secret-installation.json) |
@@ -22363,6 +22368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Cities 2 | 325630 | [325630-tile-cities-2.json](./325630-tile-cities-2.json) |
 | Tile Connect Master: Match fun | 294506 | [294506-tile-connect-master-match-fun.json](./294506-tile-connect-master-match-fun.json) |
 | Tile Connect: Onet Match | 171473 | [171473-tile-connect-onet-match.json](./171473-tile-connect-onet-match.json) |
+| Tile Connect: Tile Match Game | 219956 | [219956-tile-connect-tile-match-game.json](./219956-tile-connect-tile-match-game.json) |
 | Tile Conqueror | 123920 | [123920-tile-conqueror.json](./123920-tile-conqueror.json) |
 | Tile Conquest | 424597 | [424597-tile-conquest.json](./424597-tile-conquest.json) |
 | Tile Cross | 300723 | [300723-tile-cross.json](./300723-tile-cross.json) |
@@ -22387,6 +22393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Tale | 204975 | [204975-tile-tale.json](./204975-tile-tale.json) |
 | Tile Tale | 266150 | [266150-tile-tale.json](./266150-tile-tale.json) |
 | Tile Tale | 412942 | [412942-tile-tale.json](./412942-tile-tale.json) |
+| Tile Tales | 219891 | [219891-tile-tales.json](./219891-tile-tales.json) |
 | Tile Tales: Pirate | 325250 | [325250-tile-tales-pirate.json](./325250-tile-tales-pirate.json) |
 | Tile Tempest | 373338 | [373338-tile-tempest.json](./373338-tile-tempest.json) |
 | Tile Tides | 351537 | [351537-tile-tides.json](./351537-tile-tides.json) |
@@ -22448,6 +22455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tilt | 100102 | [100102-tilt.json](./100102-tilt.json) |
 | Tilt | 286132 | [286132-tilt.json](./286132-tilt.json) |
 | Tilt | 77727 | [77727-tilt.json](./77727-tilt.json) |
+| Tilt and Roll | 219890 | [219890-tilt-and-roll.json](./219890-tilt-and-roll.json) |
 | Tilt Brush | 36215 | [36215-tilt-brush.json](./36215-tilt-brush.json) |
 | Tilt Frog | 286055 | [286055-tilt-frog.json](./286055-tilt-frog.json) |
 | Tilt It! Golf | 405331 | [405331-tilt-it-golf.json](./405331-tilt-it-golf.json) |
@@ -22698,6 +22706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Pilot Demake | 303780 | [303780-time-pilot-demake.json](./303780-time-pilot-demake.json) |
 | Time Princess | 142715 | [142715-time-princess.json](./142715-time-princess.json) |
 | Time Raiders | 208321 | [208321-time-raiders.json](./208321-time-raiders.json) |
+| Time Raiders | 219889 | [219889-time-raiders.json](./219889-time-raiders.json) |
 | Time Raiders | 252232 | [252232-time-raiders.json](./252232-time-raiders.json) |
 | Time Ramesside | 9050 | [9050-time-ramesside.json](./9050-time-ramesside.json) |
 | Time Ramesside (A New Reckoning) | 36351 | [36351-time-ramesside-a-new-reckoning.json](./36351-time-ramesside-a-new-reckoning.json) |
@@ -26723,6 +26732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Guns: Special Edition | 106230 | [106230-tower-of-guns-special-edition.json](./106230-tower-of-guns-special-edition.json) |
 | Tower of Hanoi | 188579 | [188579-tower-of-hanoi.json](./188579-tower-of-hanoi.json) |
 | Tower of Hanoi | 306294 | [306294-tower-of-hanoi.json](./306294-tower-of-hanoi.json) |
+| Tower of Hanoi Puzzle | 219893 | [219893-tower-of-hanoi-puzzle.json](./219893-tower-of-hanoi-puzzle.json) |
 | Tower of Heresy | 127799 | [127799-tower-of-heresy.json](./127799-tower-of-heresy.json) |
 | Tower of Hermes | 298776 | [298776-tower-of-hermes.json](./298776-tower-of-hermes.json) |
 | Tower of Hero | 314204 | [314204-tower-of-hero.json](./314204-tower-of-hero.json) |
@@ -33041,6 +33051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TwoPlay Mahjong | 115020 | [115020-twoplay-mahjong.json](./115020-twoplay-mahjong.json) |
 | Twordle | 200060 | [200060-twordle.json](./200060-twordle.json) |
 | Twosheep.io | 274721 | [274721-twosheep-io.json](./274721-twosheep-io.json) |
+| TwoTime Portal | 219894 | [219894-twotime-portal.json](./219894-twotime-portal.json) |
 | TWP Spine of the World | 68419 | [68419-twp-spine-of-the-world.json](./68419-twp-spine-of-the-world.json) |
 | TWS: Training and War Simulation | 244027 | [244027-tws-training-and-war-simulation.json](./244027-tws-training-and-war-simulation.json) |
 | Twwwr | 141761 | [141761-twwwr.json](./141761-twwwr.json) |
