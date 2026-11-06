@@ -4335,6 +4335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gingerbread Story | 95642 | [95642-gingerbread-story.json](./95642-gingerbread-story.json) |
 | GingerSnap | 316184 | [316184-gingersnap.json](./316184-gingersnap.json) |
 | Giniro no Tou | 416051 | [416051-giniro-no-tou.json](./416051-giniro-no-tou.json) |
+| Ginka | 230622 | [230622-ginka.json](./230622-ginka.json) |
 | Ginka: After | 307343 | [307343-ginka-after.json](./307343-ginka-after.json) |
 | Ginkgo | 144975 | [144975-ginkgo.json](./144975-ginkgo.json) |
 | Ginnung | 224238 | [224238-ginnung.json](./224238-ginnung.json) |
