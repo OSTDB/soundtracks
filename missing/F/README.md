@@ -2682,6 +2682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 22: Year 1 Season Pass | 206528 | [206528-farming-simulator-22-year-1-season-pass.json](./206528-farming-simulator-22-year-1-season-pass.json) |
 | Farming Simulator 22: Zetor 25 K | 206527 | [206527-farming-simulator-22-zetor-25-k.json](./206527-farming-simulator-22-zetor-25-k.json) |
 | Farming Simulator 23 Mobile | 250936 | [250936-farming-simulator-23-mobile.json](./250936-farming-simulator-23-mobile.json) |
+| Farming Simulator 23: Nintendo Switch Edition | 239447 | [239447-farming-simulator-23-nintendo-switch-edition.json](./239447-farming-simulator-23-nintendo-switch-edition.json) |
 | Farming Simulator 25 | 306822 | [306822-farming-simulator-25.json](./306822-farming-simulator-25.json) |
 | Farming Simulator 25: Highlands Fishing Edition | 352917 | [352917-farming-simulator-25-highlands-fishing-edition.json](./352917-farming-simulator-25-highlands-fishing-edition.json) |
 | Farming Simulator 25: Highlands Fishing Expansion | 352887 | [352887-farming-simulator-25-highlands-fishing-expansion.json](./352887-farming-simulator-25-highlands-fishing-expansion.json) |
@@ -2971,6 +2972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fastlane Bowling | 152932 | [152932-fastlane-bowling.json](./152932-fastlane-bowling.json) |
 | Fastlane Pinball | 73889 | [73889-fastlane-pinball.json](./73889-fastlane-pinball.json) |
 | FastLane Street Racer | 262466 | [262466-fastlane-street-racer.json](./262466-fastlane-street-racer.json) |
+| Fastlaners | 239408 | [239408-fastlaners.json](./239408-fastlaners.json) |
 | Fastlife | 383445 | [383445-fastlife.json](./383445-fastlife.json) |
 | Fastone Pyramid | 388297 | [388297-fastone-pyramid.json](./388297-fastone-pyramid.json) |
 | FastPack | 293443 | [293443-fastpack.json](./293443-fastpack.json) |
@@ -6400,6 +6402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisher's Wharf | 261395 | [261395-fishers-wharf.json](./261395-fishers-wharf.json) |
 | Fisherman | 326247 | [326247-fisherman.json](./326247-fisherman.json) |
 | Fisherman Classic | 155306 | [155306-fisherman-classic.json](./155306-fisherman-classic.json) |
+| Fisherman Fisher | 239434 | [239434-fisherman-fisher.json](./239434-fisherman-fisher.json) |
 | Fisherman Simulator | 318694 | [318694-fisherman-simulator.json](./318694-fisherman-simulator.json) |
 | Fisherman: Idle Fishing Clicker | 183814 | [183814-fisherman-idle-fishing-clicker.json](./183814-fisherman-idle-fishing-clicker.json) |
 | Fisherman's Bait 2: Big Ol' Bass | 44944 | [44944-fishermans-bait-2-big-ol-bass.json](./44944-fishermans-bait-2-big-ol-bass.json) |
@@ -7280,6 +7283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Monkey | 325099 | [325099-flappy-monkey.json](./325099-flappy-monkey.json) |
 | Flappy Monster | 187908 | [187908-flappy-monster.json](./187908-flappy-monster.json) |
 | Flappy Navalny | 137665 | [137665-flappy-navalny.json](./137665-flappy-navalny.json) |
+| Flappy Nyan | 239418 | [239418-flappy-nyan.json](./239418-flappy-nyan.json) |
 | Flappy Octane | 174159 | [174159-flappy-octane.json](./174159-flappy-octane.json) |
 | Flappy Outside | 262222 | [262222-flappy-outside.json](./262222-flappy-outside.json) |
 | Flappy Person | 173213 | [173213-flappy-person.json](./173213-flappy-person.json) |
@@ -9025,6 +9029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Challenges | 233459 | [233459-football-challenges.json](./233459-football-challenges.json) |
 | Football Champ | 39481 | [39481-football-champ.json](./39481-football-champ.json) |
 | Football City | 260624 | [260624-football-city.json](./260624-football-city.json) |
+| Football Clash: Soccer | 239441 | [239441-football-clash-soccer.json](./239441-football-clash-soccer.json) |
 | Football Club | 187058 | [187058-football-club.json](./187058-football-club.json) |
 | Football Club 2019-2023 | 282705 | [282705-football-club-2019-2023.json](./282705-football-club-2019-2023.json) |
 | Football Club Builder | 409577 | [409577-football-club-builder.json](./409577-football-club-builder.json) |
@@ -11098,6 +11103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragroom: Defenders | 190094 | [190094-fragroom-defenders.json](./190094-fragroom-defenders.json) |
 | Fragsurf | 130123 | [130123-fragsurf.json](./130123-fragsurf.json) |
 | Frail Faces | 154586 | [154586-frail-faces.json](./154586-frail-faces.json) |
+| Frail Hearts Collection | 239405 | [239405-frail-hearts-collection.json](./239405-frail-hearts-collection.json) |
 | Frail Keep | 411376 | [411376-frail-keep.json](./411376-frail-keep.json) |
 | Frail Shells | 59638 | [59638-frail-shells.json](./59638-frail-shells.json) |
 | Frak | 257472 | [257472-frak.json](./257472-frak.json) |
@@ -11605,6 +11611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeze Line | 423266 | [423266-freeze-line.json](./423266-freeze-line.json) |
 | Freeze the Core | 187292 | [187292-freeze-the-core.json](./187292-freeze-the-core.json) |
 | Freeze the Time | 187429 | [187429-freeze-the-time.json](./187429-freeze-the-time.json) |
+| Freeze Whiz | 239436 | [239436-freeze-whiz.json](./239436-freeze-whiz.json) |
 | Freeze: The Escape | 79902 | [79902-freeze-the-escape.json](./79902-freeze-the-escape.json) |
 | Freeze! 2: Brothers | 59476 | [59476-freeze-2-brothers.json](./59476-freeze-2-brothers.json) |
 | Freeze64 Christmas Game | 281530 | [281530-freeze64-christmas-game.json](./281530-freeze64-christmas-game.json) |
