@@ -6299,6 +6299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Alive | 323526 | [323526-demon-alive.json](./323526-demon-alive.json) |
 | Demon Attack | 309342 | [309342-demon-attack.json](./309342-demon-attack.json) |
 | Demon Attack | 5670 | [5670-demon-attack.json](./5670-demon-attack.json) |
+| Demon Blade | 235012 | [235012-demon-blade.json](./235012-demon-blade.json) |
 | Demon Blast | 132212 | [132212-demon-blast.json](./132212-demon-blast.json) |
 | Demon Bluff | 341980 | [341980-demon-bluff.json](./341980-demon-bluff.json) |
 | Demon Burst | 396713 | [396713-demon-burst.json](./396713-demon-burst.json) |
@@ -6892,6 +6893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derby Jockey 2 | 38137 | [38137-derby-jockey-2.json](./38137-derby-jockey-2.json) |
 | Derby Jockey: Kishou he no Michi | 60463 | [60463-derby-jockey-kishou-he-no-michi.json](./60463-derby-jockey-kishou-he-no-michi.json) |
 | Derby Jockey: Kishu-ou he no Michi | 44417 | [44417-derby-jockey-kishu-ou-he-no-michi.json](./44417-derby-jockey-kishu-ou-he-no-michi.json) |
+| Derby King | 235002 | [235002-derby-king.json](./235002-derby-king.json) |
 | Derby Life: Ranch & Race | 415104 | [415104-derby-life-ranch-and-race.json](./415104-derby-life-ranch-and-race.json) |
 | Derby Madness | 297532 | [297532-derby-madness.json](./297532-derby-madness.json) |
 | Derby Musou | 61544 | [61544-derby-musou.json](./61544-derby-musou.json) |
@@ -11407,6 +11409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge Spree X | 318526 | [318526-dodge-spree-x.json](./318526-dodge-spree-x.json) |
 | Dodge That Anvil | 209117 | [209117-dodge-that-anvil.json](./209117-dodge-that-anvil.json) |
 | Dodge that, Ronald! | 312832 | [312832-dodge-that-ronald.json](./312832-dodge-that-ronald.json) |
+| Dodge the Ball | 234984 | [234984-dodge-the-ball.json](./234984-dodge-the-ball.json) |
 | Dodge the Creeps | 344390 | [344390-dodge-the-creeps.json](./344390-dodge-the-creeps.json) |
 | Dodge the Wall! | 117466 | [117466-dodge-the-wall.json](./117466-dodge-the-wall.json) |
 | Dodge These Asteroids | 353961 | [353961-dodge-these-asteroids.json](./353961-dodge-these-asteroids.json) |
