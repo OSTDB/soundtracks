@@ -840,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xīn zhī Kǎn | 111379 | [111379-xin-zhi-kan.json](./111379-xin-zhi-kan.json) |
 | Xing Chess | 53100 | [53100-xing-chess.json](./53100-xing-chess.json) |
 | Xing Kakuro | 53099 | [53099-xing-kakuro.json](./53099-xing-kakuro.json) |
+| Xīng zhī Chuánshuō | 196921 | [196921-xing-zhi-chuanshuo.json](./196921-xing-zhi-chuanshuo.json) |
 | Xing: The Land Beyond | 36300 | [36300-xing-the-land-beyond.json](./36300-xing-the-land-beyond.json) |
 | Xingchenbian Online | 367952 | [367952-xingchenbian-online.json](./367952-xingchenbian-online.json) |
 | Xìngcúnzhě Lèyuán | 165655 | [165655-xingcunzhe-leyuan.json](./165655-xingcunzhe-leyuan.json) |
