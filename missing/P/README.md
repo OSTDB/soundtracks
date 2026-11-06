@@ -1897,6 +1897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parachute Drop | 191447 | [191447-parachute-drop.json](./191447-parachute-drop.json) |
 | Parachute Frog | 95900 | [95900-parachute-frog.json](./95900-parachute-frog.json) |
 | Parachute Ninja | 232671 | [232671-parachute-ninja.json](./232671-parachute-ninja.json) |
+| Parachuter | 193011 | [193011-parachuter.json](./193011-parachuter.json) |
 | Paracom | 384535 | [384535-paracom.json](./384535-paracom.json) |
 | Paracreat | 199304 | [199304-paracreat.json](./199304-paracreat.json) |
 | Paradaice | 151083 | [151083-paradaice.json](./151083-paradaice.json) |
@@ -3779,6 +3780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pedreiro polar | 230715 | [230715-pedreiro-polar.json](./230715-pedreiro-polar.json) |
 | Pedro | 314289 | [314289-pedro.json](./314289-pedro.json) |
 | Pedro | 52008 | [52008-pedro.json](./52008-pedro.json) |
+| Pedro and Sofia's Nuclear Winter | 193004 | [193004-pedro-and-sofias-nuclear-winter.json](./193004-pedro-and-sofias-nuclear-winter.json) |
 | Pedro Kicks Back | 108932 | [108932-pedro-kicks-back.json](./108932-pedro-kicks-back.json) |
 | Pedro Land DX | 203576 | [203576-pedro-land-dx.json](./203576-pedro-land-dx.json) |
 | Pedro of Brazil | 265471 | [265471-pedro-of-brazil.json](./265471-pedro-of-brazil.json) |
@@ -5976,6 +5978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pick My Heart Chapter 2 | 324131 | [324131-pick-my-heart-chapter-2.json](./324131-pick-my-heart-chapter-2.json) |
 | Pick Pack Pup | 151974 | [151974-pick-pack-pup.json](./151974-pick-pack-pup.json) |
 | Pick Race 3D | 345707 | [345707-pick-race-3d.json](./345707-pick-race-3d.json) |
+| Pick the Lock | 193029 | [193029-pick-the-lock.json](./193029-pick-the-lock.json) |
 | Pick the Star | 290323 | [290323-pick-the-star.json](./290323-pick-the-star.json) |
 | Pick Three!!! | 396238 | [396238-pick-three.json](./396238-pick-three.json) |
 | Pick Up | 94362 | [94362-pick-up.json](./94362-pick-up.json) |
@@ -6271,6 +6274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pieces I: A Maskros Nebula Game | 296503 | [296503-pieces-i-a-maskros-nebula-game.json](./296503-pieces-i-a-maskros-nebula-game.json) |
 | Pieces of Beauty | 174069 | [174069-pieces-of-beauty.json](./174069-pieces-of-beauty.json) |
 | Pieces of Beauty 2 | 190173 | [190173-pieces-of-beauty-2.json](./190173-pieces-of-beauty-2.json) |
+| Pieces of Beauty 3 | 193031 | [193031-pieces-of-beauty-3.json](./193031-pieces-of-beauty-3.json) |
 | Pieces of Cake | 181256 | [181256-pieces-of-cake.json](./181256-pieces-of-cake.json) |
 | Pieces of Eight | 96677 | [96677-pieces-of-eight.json](./96677-pieces-of-eight.json) |
 | Pieces of Me | 318759 | [318759-pieces-of-me.json](./318759-pieces-of-me.json) |
@@ -7569,6 +7573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Island | 406902 | [406902-pirate-island.json](./406902-pirate-island.json) |
 | Pirate Island Mini Golf VR | 150875 | [150875-pirate-island-mini-golf-vr.json](./150875-pirate-island-mini-golf-vr.json) |
 | Pirate Island Survival Simulator 3D | 351038 | [351038-pirate-island-survival-simulator-3d.json](./351038-pirate-island-survival-simulator-3d.json) |
+| Pirate Jam | 193024 | [193024-pirate-jam.json](./193024-pirate-jam.json) |
 | Pirate Jam: Space DLC | 280331 | [280331-pirate-jam-space-dlc.json](./280331-pirate-jam-space-dlc.json) |
 | Pirate Jigsaw | 156095 | [156095-pirate-jigsaw.json](./156095-pirate-jigsaw.json) |
 | Pirate Jigsaw 2 | 98778 | [98778-pirate-jigsaw-2.json](./98778-pirate-jigsaw-2.json) |
@@ -10081,6 +10086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plinkomancy | 389199 | [389199-plinkomancy.json](./389199-plinkomancy.json) |
 | Plith | 10706 | [10706-plith.json](./10706-plith.json) |
 | Plobania 47/B | 400286 | [400286-plobania-47-b.json](./400286-plobania-47-b.json) |
+| Ploc | 193013 | [193013-ploc.json](./193013-ploc.json) |
 | Plock | 203022 | [203022-plock.json](./203022-plock.json) |
 | Plodding Recovery | 409321 | [409321-plodding-recovery.json](./409321-plodding-recovery.json) |
 | Ploid | 159682 | [159682-ploid.json](./159682-ploid.json) |
@@ -16084,6 +16090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Prison | 157190 | [157190-project-prison.json](./157190-project-prison.json) |
 | Project Progressive | 335406 | [335406-project-progressive.json](./335406-project-progressive.json) |
 | Project Proxima | 250185 | [250185-project-proxima.json](./250185-project-proxima.json) |
+| Project Psycho | 193012 | [193012-project-psycho.json](./193012-project-psycho.json) |
 | Project Ptocheia | 179573 | [179573-project-ptocheia.json](./179573-project-ptocheia.json) |
 | Project Pulsation | 53482 | [53482-project-pulsation.json](./53482-project-pulsation.json) |
 | Project Pulse | 166946 | [166946-project-pulse.json](./166946-project-pulse.json) |
@@ -16405,6 +16412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Solace | 160021 | [160021-project-solace.json](./160021-project-solace.json) |
 | Project: Space Station | 26242 | [26242-project-space-station.json](./26242-project-space-station.json) |
 | Project: Special Forces | 163864 | [163864-project-special-forces.json](./163864-project-special-forces.json) |
+| Project: Sphere | 193019 | [193019-project-sphere.json](./193019-project-sphere.json) |
 | Project: Spread | 208140 | [208140-project-spread.json](./208140-project-spread.json) |
 | Project: Starfighter | 62147 | [62147-project-starfighter.json](./62147-project-starfighter.json) |
 | Project: Station | 380434 | [380434-project-station.json](./380434-project-station.json) |
