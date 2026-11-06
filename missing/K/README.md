@@ -2793,7 +2793,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -2993,6 +2992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Bandido | 22136 | [22136-king-bandido.json](./22136-king-bandido.json) |
 | King Battle | 82342 | [82342-king-battle.json](./82342-king-battle.json) |
 | King Boo | 190020 | [190020-king-boo.json](./190020-king-boo.json) |
+| King Boo's Dream Invasion | 242846 | [242846-king-boos-dream-invasion.json](./242846-king-boos-dream-invasion.json) |
 | King Boo's Revenge PC | 378293 | [378293-king-boos-revenge-pc.json](./378293-king-boos-revenge-pc.json) |
 | King Boo's Seven Towers | 313302 | [313302-king-boos-seven-towers.json](./313302-king-boos-seven-towers.json) |
 | King Bundle | 279218 | [279218-king-bundle.json](./279218-king-bundle.json) |
@@ -3663,6 +3663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinnikuman | 138764 | [138764-kinnikuman.json](./138764-kinnikuman.json) |
 | Kinnikuman II: Tatakae! Ramenman | 346032 | [346032-kinnikuman-ii-tatakae-ramenman.json](./346032-kinnikuman-ii-tatakae-ramenman.json) |
 | Kinnikuman III: Ougon no Mask-hen | 346034 | [346034-kinnikuman-iii-ougon-no-mask-hen.json](./346034-kinnikuman-iii-ougon-no-mask-hen.json) |
+| Kinnikuman Muscle Fight | 242856 | [242856-kinnikuman-muscle-fight.json](./242856-kinnikuman-muscle-fight.json) |
 | Kinnikuman Muscle Grand Prix Max | 66662 | [66662-kinnikuman-muscle-grand-prix-max.json](./66662-kinnikuman-muscle-grand-prix-max.json) |
 | Kinnikuman Muscle Grand Prix Max 2: Tokumori | 242912 | [242912-kinnikuman-muscle-grand-prix-max-2-tokumori.json](./242912-kinnikuman-muscle-grand-prix-max-2-tokumori.json) |
 | Kinnikuman Muscle Grand Prix Max 2: Tokumori | 65999 | [65999-kinnikuman-muscle-grand-prix-max-2-tokumori.json](./65999-kinnikuman-muscle-grand-prix-max-2-tokumori.json) |
@@ -4703,6 +4704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knoblins | 303217 | [303217-knoblins.json](./303217-knoblins.json) |
 | Knobswitch | 99533 | [99533-knobswitch.json](./99533-knobswitch.json) |
 | Knock 'Em Down! Bowling | 114201 | [114201-knock-em-down-bowling.json](./114201-knock-em-down-bowling.json) |
+| Knock 'Em Downs | 242851 | [242851-knock-em-downs.json](./242851-knock-em-downs.json) |
 | Knock 'Em Downs: Worlds Fair | 209826 | [209826-knock-em-downs-worlds-fair.json](./209826-knock-em-downs-worlds-fair.json) |
 | Knock & Run | 249243 | [249243-knock-and-run.json](./249243-knock-and-run.json) |
 | Knock Harder | 120953 | [120953-knock-harder.json](./120953-knock-harder.json) |
