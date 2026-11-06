@@ -16773,6 +16773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mordhau: Diamond Edition | 331263 | [331263-mordhau-diamond-edition.json](./331263-mordhau-diamond-edition.json) |
 | Mordhau: Gold Edition | 256429 | [256429-mordhau-gold-edition.json](./256429-mordhau-gold-edition.json) |
 | Mordhau: Platinum Edition | 305495 | [305495-mordhau-platinum-edition.json](./305495-mordhau-platinum-edition.json) |
+| Mordheim: City of the Damned - Complete DLC Pack | 227078 | [227078-mordheim-city-of-the-damned-complete-dlc-pack.json](./227078-mordheim-city-of-the-damned-complete-dlc-pack.json) |
 | Mordheim: City of the Damned - Complete Edition | 121424 | [121424-mordheim-city-of-the-damned-complete-edition.json](./121424-mordheim-city-of-the-damned-complete-edition.json) |
 | Mordheim: City of the Damned - Doomweaver | 53373 | [53373-mordheim-city-of-the-damned-doomweaver.json](./53373-mordheim-city-of-the-damned-doomweaver.json) |
 | Mordheim: City of the Damned - Hired Swords Bundle 1 | 238873 | [238873-mordheim-city-of-the-damned-hired-swords-bundle-1.json](./238873-mordheim-city-of-the-damned-hired-swords-bundle-1.json) |
