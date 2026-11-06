@@ -4555,6 +4555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Nursery | 183549 | [183549-nightmare-nursery.json](./183549-nightmare-nursery.json) |
 | Nightmare Nursery | 277430 | [277430-nightmare-nursery.json](./277430-nightmare-nursery.json) |
 | Nightmare of Decay | 195478 | [195478-nightmare-of-decay.json](./195478-nightmare-of-decay.json) |
+| Nightmare of Gemstone | 244580 | [244580-nightmare-of-gemstone.json](./244580-nightmare-of-gemstone.json) |
 | Nightmare of Melanie | 108345 | [108345-nightmare-of-melanie.json](./108345-nightmare-of-melanie.json) |
 | Nightmare of Nady | 236906 | [236906-nightmare-of-nady.json](./236906-nightmare-of-nady.json) |
 | Nightmare of Santa Claus | 54912 | [54912-nightmare-of-santa-claus.json](./54912-nightmare-of-santa-claus.json) |
