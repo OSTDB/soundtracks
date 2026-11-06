@@ -67,20 +67,20 @@ The most popular games still missing a soundtrack. Click **Add it**, fill in the
 
 | **[A](./A/README.md)** | **[B](./B/README.md)** | **[C](./C/README.md)** | **[D](./D/README.md)** | **[E](./E/README.md)** | **[F](./F/README.md)** | **[G](./G/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 18348 games | 18321 games | 20821 games | 19286 games | 8401 games | 14062 games | 11473 games |
+| 18351 games | 18322 games | 20824 games | 19290 games | 8403 games | 14064 games | 11476 games |
 
 | **[H](./H/README.md)** | **[I](./I/README.md)** | **[J](./J/README.md)** | **[K](./K/README.md)** | **[L](./L/README.md)** | **[M](./M/README.md)** | **[N](./N/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 12725 games | 6900 games | 4276 games | 6446 games | 10173 games | 22123 games | 7768 games |
+| 12728 games | 6901 games | 4277 games | 6447 games | 10173 games | 22126 games | 7772 games |
 
 | **[O](./O/README.md)** | **[P](./P/README.md)** | **[Q](./Q/README.md)** | **[R](./R/README.md)** | **[S](./S/README.md)** | **[T](./T/README.md)** | **[U](./U/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 5931 games | 18834 games | 1295 games | 13125 games | 36070 games | 33341 games | 3661 games |
+| 5931 games | 18835 games | 1295 games | 13126 games | 36078 games | 33348 games | 3661 games |
 
 | **[V](./V/README.md)** | **[W](./W/README.md)** | **[X](./X/README.md)** | **[Y](./Y/README.md)** | **[Z](./Z/README.md)** | **[0-9](./0-9/README.md)** |
 | --- | --- | --- | --- | --- | --- |
-| 4274 games | 9442 games | 1086 games | 2158 games | 2627 games | 3593 games |
+| 4274 games | 9443 games | 1086 games | 2159 games | 2627 games | 3595 games |
 
 ---
 
-_316560 games missing a soundtrack · last updated 2026-11-06T14:18:56.078Z_
+_316612 games missing a soundtrack · last updated 2026-11-06T14:35:19.557Z_
