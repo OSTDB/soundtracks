@@ -11613,6 +11613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freja | 268280 | [268280-freja.json](./268280-freja.json) |
 | Fremd Wagen: Mod Chaos | 391960 | [391960-fremd-wagen-mod-chaos.json](./391960-fremd-wagen-mod-chaos.json) |
 | Fremdganger: The Cheating Demon | 240297 | [240297-fremdganger-the-cheating-demon.json](./240297-fremdganger-the-cheating-demon.json) |
+| French Baker | 245075 | [245075-french-baker.json](./245075-french-baker.json) |
 | French Crime | 132048 | [132048-french-crime.json](./132048-french-crime.json) |
 | French Fries Pusher Friends | 285937 | [285937-french-fries-pusher-friends.json](./285937-french-fries-pusher-friends.json) |
 | French Meat | 143290 | [143290-french-meat.json](./143290-french-meat.json) |
@@ -13881,6 +13882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuzoroi no Lemon | 402552 | [402552-fuzoroi-no-lemon.json](./402552-fuzoroi-no-lemon.json) |
 | Fuzz | 240718 | [240718-fuzz.json](./240718-fuzz.json) |
 | Fuzz & Dizzy: Part-time Heroes | 348826 | [348826-fuzz-and-dizzy-part-time-heroes.json](./348826-fuzz-and-dizzy-part-time-heroes.json) |
+| Fuzz Power | 245090 | [245090-fuzz-power.json](./245090-fuzz-power.json) |
 | Fuzzball | 69573 | [69573-fuzzball.json](./69573-fuzzball.json) |
 | FuzzBall | 140938 | [140938-fuzzball.json](./140938-fuzzball.json) |
 | Fuzzee Fever | 72942 | [72942-fuzzee-fever.json](./72942-fuzzee-fever.json) |
