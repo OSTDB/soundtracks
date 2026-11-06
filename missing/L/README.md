@@ -1734,6 +1734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lauren's visit | 108066 | [108066-laurens-visit.json](./108066-laurens-visit.json) |
 | Laurie Anderson's Puppet Motel | 172408 | [172408-laurie-andersons-puppet-motel.json](./172408-laurie-andersons-puppet-motel.json) |
 | Laurum Online | 124544 | [124544-laurum-online.json](./124544-laurum-online.json) |
+| Lava Crew | 208003 | [208003-lava-crew.json](./208003-lava-crew.json) |
 | Lava Escape Mine | 168712 | [168712-lava-escape-mine.json](./168712-lava-escape-mine.json) |
 | Lava Fever | 22786 | [22786-lava-fever.json](./22786-lava-fever.json) |
 | Lava Friends | 176186 | [176186-lava-friends.json](./176186-lava-friends.json) |
@@ -6172,6 +6173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Rock, MI | 203379 | [203379-little-rock-mi.json](./203379-little-rock-mi.json) |
 | Little Rocket Girl | 62250 | [62250-little-rocket-girl.json](./62250-little-rocket-girl.json) |
 | Little Rocketman | 263420 | [263420-little-rocketman.json](./263420-little-rocketman.json) |
+| Little Rockets | 207975 | [207975-little-rockets.json](./207975-little-rockets.json) |
 | Little Rooms | 341173 | [341173-little-rooms.json](./341173-little-rooms.json) |
 | Little Runmo | 275803 | [275803-little-runmo.json](./275803-little-runmo.json) |
 | Little Samson | 375604 | [375604-little-samson.json](./375604-little-samson.json) |
@@ -6773,6 +6775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loco Launcher | 189355 | [189355-loco-launcher.json](./189355-loco-launcher.json) |
 | Loco Limbo | 304833 | [304833-loco-limbo.json](./304833-loco-limbo.json) |
 | Loco Loco | 58326 | [58326-loco-loco.json](./58326-loco-loco.json) |
+| Loco Looper | 207999 | [207999-loco-looper.json](./207999-loco-looper.json) |
 | Loco Mania | 61477 | [61477-loco-mania.json](./61477-loco-mania.json) |
 | LOCO Online | 361771 | [361771-loco-online.json](./361771-loco-online.json) |
 | Loco Parentis | 117810 | [117810-loco-parentis.json](./117810-loco-parentis.json) |
