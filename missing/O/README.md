@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obscura | 213178 | [213178-obscura.json](./213178-obscura.json) |
 | Obscura | 341492 | [341492-obscura.json](./341492-obscura.json) |
 | Obscurant | 175520 | [175520-obscurant.json](./175520-obscurant.json) |
+| Obscurant | 195837 | [195837-obscurant.json](./195837-obscurant.json) |
 | ObsCure | 5941 | [5941-obscure.json](./5941-obscure.json) |
 | Obscure Chronicle of Dynastia | 392217 | [392217-obscure-chronicle-of-dynastia.json](./392217-obscure-chronicle-of-dynastia.json) |
 | Obscure Chronicle of Dynasty | 257504 | [257504-obscure-chronicle-of-dynasty.json](./257504-obscure-chronicle-of-dynasty.json) |
