@@ -1599,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Kingdom: Scam Centre Simulator | 346251 | [346251-under-kingdom-scam-centre-simulator.json](./346251-under-kingdom-scam-centre-simulator.json) |
 | Under Leaves | 28236 | [28236-under-leaves.json](./28236-under-leaves.json) |
 | Under Lock | 142265 | [142265-under-lock.json](./142265-under-lock.json) |
+| Under Maintenance | 215428 | [215428-under-maintenance.json](./215428-under-maintenance.json) |
 | Under Mythos | 419966 | [419966-under-mythos.json](./419966-under-mythos.json) |
 | Under Night In-Birth | 190982 | [190982-under-night-in-birth.json](./190982-under-night-in-birth.json) |
 | Under Night In-Birth Exe:Late[cl-r] - Collector's Edition | 136316 | [136316-under-night-in-birth-exe-late-cl-r-collectors-edition.json](./136316-under-night-in-birth-exe-late-cl-r-collectors-edition.json) |
