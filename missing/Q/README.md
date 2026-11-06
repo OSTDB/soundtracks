@@ -1070,6 +1070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuietMansion1 | 152307 | [152307-quietmansion1.json](./152307-quietmansion1.json) |
 | QuietMansion2 | 221779 | [221779-quietmansion2.json](./221779-quietmansion2.json) |
 | Quietus | 242906 | [242906-quietus.json](./242906-quietus.json) |
+| Quietus Allurment | 214826 | [214826-quietus-allurment.json](./214826-quietus-allurment.json) |
 | Quietus Euphony | 374046 | [374046-quietus-euphony.json](./374046-quietus-euphony.json) |
 | Quiiiz | 304204 | [304204-quiiiz.json](./304204-quiiiz.json) |
 | Quijote: Quest for Glory | 195364 | [195364-quijote-quest-for-glory.json](./195364-quijote-quest-for-glory.json) |
