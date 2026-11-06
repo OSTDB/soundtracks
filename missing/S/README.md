@@ -3952,6 +3952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Blade | 193781 | [193781-sea-blade.json](./193781-sea-blade.json) |
 | Sea Blast | 91729 | [91729-sea-blast.json](./91729-sea-blast.json) |
 | Sea Blindness | 343428 | [343428-sea-blindness.json](./343428-sea-blindness.json) |
+| Sea Boy | 222723 | [222723-sea-boy.json](./222723-sea-boy.json) |
 | Sea Bubble | 121329 | [121329-sea-bubble.json](./121329-sea-bubble.json) |
 | Sea Bubble Burst | 205833 | [205833-sea-bubble-burst.json](./205833-sea-bubble-burst.json) |
 | Sea Bunnies | 350568 | [350568-sea-bunnies.json](./350568-sea-bunnies.json) |
@@ -16210,6 +16211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Fox | 18708 | [18708-solar-fox.json](./18708-solar-fox.json) |
 | Solar Gladiators | 135447 | [135447-solar-gladiators.json](./135447-solar-gladiators.json) |
 | Solar Gun | 51558 | [51558-solar-gun.json](./51558-solar-gun.json) |
+| Solar Invasion | 222599 | [222599-solar-invasion.json](./222599-solar-invasion.json) |
 | Solar Jetman: Hunt for the Golden Warpship | 7853 | [7853-solar-jetman-hunt-for-the-golden-warpship.json](./7853-solar-jetman-hunt-for-the-golden-warpship.json) |
 | Solar Kingdoms: Human Survival | 295568 | [295568-solar-kingdoms-human-survival.json](./295568-solar-kingdoms-human-survival.json) |
 | Solar Knight | 367821 | [367821-solar-knight.json](./367821-solar-knight.json) |
@@ -16974,6 +16976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songbringer: The Trial of Ren | 165014 | [165014-songbringer-the-trial-of-ren.json](./165014-songbringer-the-trial-of-ren.json) |
 | Songless | 402309 | [402309-songless.json](./402309-songless.json) |
 | Songless | 409608 | [409608-songless.json](./409608-songless.json) |
+| Songlio | 222683 | [222683-songlio.json](./222683-songlio.json) |
 | SongPop | 231455 | [231455-songpop.json](./231455-songpop.json) |
 | SongPop Classic | 88775 | [88775-songpop-classic.json](./88775-songpop-classic.json) |
 | SongPop Live | 383182 | [383182-songpop-live.json](./383182-songpop-live.json) |
@@ -17101,6 +17104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic 3D Blast | 202966 | [202966-sonic-3d-blast.json](./202966-sonic-3d-blast.json) |
 | Sonic 3D Blast | 202967 | [202967-sonic-3d-blast.json](./202967-sonic-3d-blast.json) |
 | Sonic 3D Blast | 9476 | [9476-sonic-3d-blast.json](./9476-sonic-3d-blast.json) |
+| Sonic 3D Blast 5 | 222703 | [222703-sonic-3d-blast-5.json](./222703-sonic-3d-blast-5.json) |
 | Sonic 3D Blast Xtreme | 335160 | [335160-sonic-3d-blast-xtreme.json](./335160-sonic-3d-blast-xtreme.json) |
 | Sonic 3D Blast: Director's Cut | 129174 | [129174-sonic-3d-blast-directors-cut.json](./129174-sonic-3d-blast-directors-cut.json) |
 | Sonic 3D Blitz | 334067 | [334067-sonic-3d-blitz.json](./334067-sonic-3d-blitz.json) |
@@ -31657,6 +31661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Dream World | 277077 | [277077-super-mario-dream-world.json](./277077-super-mario-dream-world.json) |
 | Super Mario DX | 210709 | [210709-super-mario-dx.json](./210709-super-mario-dx.json) |
 | Super Mario Dynamo | 320230 | [320230-super-mario-dynamo.json](./320230-super-mario-dynamo.json) |
+| Super Mario Eclipse | 222597 | [222597-super-mario-eclipse.json](./222597-super-mario-eclipse.json) |
 | Super Mario Eclipse | 320228 | [320228-super-mario-eclipse.json](./320228-super-mario-eclipse.json) |
 | Super Mario Endgame | 323586 | [323586-super-mario-endgame.json](./323586-super-mario-endgame.json) |
 | Super Mario Epic | 323814 | [323814-super-mario-epic.json](./323814-super-mario-epic.json) |
