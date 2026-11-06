@@ -1903,6 +1903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Planet | 198714 | [198714-captain-planet.json](./198714-captain-planet.json) |
 | Captain Planet | 69790 | [69790-captain-planet.json](./69790-captain-planet.json) |
 | Captain Planet and the Planeteers | 11991 | [11991-captain-planet-and-the-planeteers.json](./11991-captain-planet-and-the-planeteers.json) |
+| Captain Planet and the Planeteers | 203494 | [203494-captain-planet-and-the-planeteers.json](./203494-captain-planet-and-the-planeteers.json) |
 | Captain Planet and the Planeteers | 4384 | [4384-captain-planet-and-the-planeteers.json](./4384-captain-planet-and-the-planeteers.json) |
 | Captain Planet and the Robots of Zarm | 417539 | [417539-captain-planet-and-the-robots-of-zarm.json](./417539-captain-planet-and-the-robots-of-zarm.json) |
 | Captain Pogo | 399917 | [399917-captain-pogo.json](./399917-captain-pogo.json) |
@@ -4856,6 +4857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Blast | 59633 | [59633-cave-blast.json](./59633-cave-blast.json) |
 | Cave Bowling | 87262 | [87262-cave-bowling.json](./87262-cave-bowling.json) |
 | Cave Brawlers | 82034 | [82034-cave-brawlers.json](./82034-cave-brawlers.json) |
+| Cave Buster | 203586 | [203586-cave-buster.json](./203586-cave-buster.json) |
 | Cave Chaos | 250612 | [250612-cave-chaos.json](./250612-cave-chaos.json) |
 | Cave Chaos 2 | 276105 | [276105-cave-chaos-2.json](./276105-cave-chaos-2.json) |
 | Cave Coaster | 35207 | [35207-cave-coaster.json](./35207-cave-coaster.json) |
@@ -9445,6 +9447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Takeover: Wild Edition | 364096 | [364096-city-takeover-wild-edition.json](./364096-city-takeover-wild-edition.json) |
 | City Tales: Medieval Era | 324584 | [324584-city-tales-medieval-era.json](./324584-city-tales-medieval-era.json) |
 | City Taxi Driver | 212562 | [212562-city-taxi-driver.json](./212562-city-taxi-driver.json) |
+| City Things | 203583 | [203583-city-things.json](./203583-city-things.json) |
 | City Trader | 94368 | [94368-city-trader.json](./94368-city-trader.json) |
 | City Traffic Car Driving Parking Career Simulator | 86958 | [86958-city-traffic-car-driving-parking-career-simulator.json](./86958-city-traffic-car-driving-parking-career-simulator.json) |
 | City Traffic Driver 2 | 215311 | [215311-city-traffic-driver-2.json](./215311-city-traffic-driver-2.json) |
@@ -10723,6 +10726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudy & Stormy: Pawtastic Adventure | 333911 | [333911-cloudy-and-stormy-pawtastic-adventure.json](./333911-cloudy-and-stormy-pawtastic-adventure.json) |
 | Cloudy Day | 361267 | [361267-cloudy-day.json](./361267-cloudy-day.json) |
 | Cloudy Days | 236949 | [236949-cloudy-days.json](./236949-cloudy-days.json) |
+| Cloudy Super Mario Bros. U | 203475 | [203475-cloudy-super-mario-bros-u.json](./203475-cloudy-super-mario-bros-u.json) |
 | Cloudy Super Mario Bros. U 2 | 204221 | [204221-cloudy-super-mario-bros-u-2.json](./204221-cloudy-super-mario-bros-u-2.json) |
 | Cloudy Valley | 284826 | [284826-cloudy-valley.json](./284826-cloudy-valley.json) |
 | Cloudy with a Chance of Kittens | 345140 | [345140-cloudy-with-a-chance-of-kittens.json](./345140-cloudy-with-a-chance-of-kittens.json) |
@@ -14432,6 +14436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Cucumber Cricket Manager | 311270 | [311270-cool-cucumber-cricket-manager.json](./311270-cool-cucumber-cricket-manager.json) |
 | Cool Cycling | 359742 | [359742-cool-cycling.json](./359742-cool-cycling.json) |
 | Cool Forts Prevail | 176472 | [176472-cool-forts-prevail.json](./176472-cool-forts-prevail.json) |
+| Cool Game | 203587 | [203587-cool-game.json](./203587-cool-game.json) |
 | Cool Game Pack | 409563 | [409563-cool-game-pack.json](./409563-cool-game-pack.json) |
 | Cool Go | 301282 | [301282-cool-go.json](./301282-cool-go.json) |
 | Cool Herders | 45813 | [45813-cool-herders.json](./45813-cool-herders.json) |
@@ -19821,6 +19826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Dungeon | 190017 | [190017-cursed-dungeon.json](./190017-cursed-dungeon.json) |
 | Cursed Enigma: Priest and Prayers | 278276 | [278276-cursed-enigma-priest-and-prayers.json](./278276-cursed-enigma-priest-and-prayers.json) |
 | Cursed Enigma: The Midnight Apartment | 294103 | [294103-cursed-enigma-the-midnight-apartment.json](./294103-cursed-enigma-the-midnight-apartment.json) |
+| Cursed Exped | 203474 | [203474-cursed-exped.json](./203474-cursed-exped.json) |
 | Cursed Fables: A Gilded Rose - Collector's Edition | 338782 | [338782-cursed-fables-a-gilded-rose-collectors-edition.json](./338782-cursed-fables-a-gilded-rose-collectors-edition.json) |
 | Cursed Fables: A Voice to Die For | 417773 | [417773-cursed-fables-a-voice-to-die-for.json](./417773-cursed-fables-a-voice-to-die-for.json) |
 | Cursed Fables: A Voice to Die For - Collector's Edition | 260422 | [260422-cursed-fables-a-voice-to-die-for-collectors-edition.json](./260422-cursed-fables-a-voice-to-die-for-collectors-edition.json) |
@@ -20526,6 +20532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybercum 2069 | 305763 | [305763-cybercum-2069.json](./305763-cybercum-2069.json) |
 | CyberCum: Pussy Attack! | 243164 | [243164-cybercum-pussy-attack.json](./243164-cybercum-pussy-attack.json) |
 | CyberDeck: The Cyberpunk Roguelike Deckbuilder | 406742 | [406742-cyberdeck-the-cyberpunk-roguelike-deckbuilder.json](./406742-cyberdeck-the-cyberpunk-roguelike-deckbuilder.json) |
+| Cyberdekay | 203493 | [203493-cyberdekay.json](./203493-cyberdekay.json) |
 | Cyberdelic | 275757 | [275757-cyberdelic.json](./275757-cyberdelic.json) |
 | Cyberdillo | 39014 | [39014-cyberdillo.json](./39014-cyberdillo.json) |
 | Cyberdimension Neptunia: 4 Goddesses Online | 26402 | [26402-cyberdimension-neptunia-4-goddesses-online.json](./26402-cyberdimension-neptunia-4-goddesses-online.json) |
