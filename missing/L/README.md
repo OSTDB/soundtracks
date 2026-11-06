@@ -7990,6 +7990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Cosmonauts ARG | 109366 | [109366-lost-cosmonauts-arg.json](./109366-lost-cosmonauts-arg.json) |
 | Lost Crab​ | 417663 | [417663-lost-crab.json](./417663-lost-crab.json) |
 | Lost Crew | 31462 | [31462-lost-crew.json](./31462-lost-crew.json) |
+| Lost Crusade II | 194080 | [194080-lost-crusade-ii.json](./194080-lost-crusade-ii.json) |
 | Lost Crypts | 94759 | [94759-lost-crypts.json](./94759-lost-crypts.json) |
 | Lost Crystals | 257427 | [257427-lost-crystals.json](./257427-lost-crystals.json) |
 | Lost Cube | 156619 | [156619-lost-cube.json](./156619-lost-cube.json) |
@@ -8372,6 +8373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Sector | 216629 | [216629-lost-sector.json](./216629-lost-sector.json) |
 | Lost Sector Online | 62815 | [62815-lost-sector-online.json](./62815-lost-sector-online.json) |
 | Lost Seed | 361637 | [361637-lost-seed.json](./361637-lost-seed.json) |
+| Lost Shadow: Dark Knight | 194051 | [194051-lost-shadow-dark-knight.json](./194051-lost-shadow-dark-knight.json) |
 | Lost Shadows | 319909 | [319909-lost-shadows.json](./319909-lost-shadows.json) |
 | Lost Shipwreck | 72367 | [72367-lost-shipwreck.json](./72367-lost-shipwreck.json) |
 | Lost Skies | 250163 | [250163-lost-skies.json](./250163-lost-skies.json) |
