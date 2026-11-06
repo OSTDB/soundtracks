@@ -1792,6 +1792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandon02 | 129084 | [129084-abandon02.json](./129084-abandon02.json) |
 | Abandoned | 165148 | [165148-abandoned.json](./165148-abandoned.json) |
 | Abandoned | 184599 | [184599-abandoned.json](./184599-abandoned.json) |
+| Abandoned | 234999 | [234999-abandoned.json](./234999-abandoned.json) |
 | Abandoned | 295781 | [295781-abandoned.json](./295781-abandoned.json) |
 | Abandoned | 343778 | [343778-abandoned.json](./343778-abandoned.json) |
 | Abandoned | 409889 | [409889-abandoned.json](./409889-abandoned.json) |
@@ -6885,6 +6886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien street battle | 129675 | [129675-alien-street-battle.json](./129675-alien-street-battle.json) |
 | Alien Strike | 76228 | [76228-alien-strike.json](./76228-alien-strike.json) |
 | Alien Strike: Blasting the Intruders | 305974 | [305974-alien-strike-blasting-the-intruders.json](./305974-alien-strike-blasting-the-intruders.json) |
+| Alien Survivors | 234987 | [234987-alien-survivors.json](./234987-alien-survivors.json) |
 | Alien Survivors: To Starship Resurrection | 300768 | [300768-alien-survivors-to-starship-resurrection.json](./300768-alien-survivors-to-starship-resurrection.json) |
 | Alien Swarm | 7598 | [7598-alien-swarm.json](./7598-alien-swarm.json) |
 | Alien Swarm: Reactive Drop | 27523 | [27523-alien-swarm-reactive-drop.json](./27523-alien-swarm-reactive-drop.json) |
@@ -10836,6 +10838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant Detective 2 | 129372 | [129372-ant-detective-2.json](./129372-ant-detective-2.json) |
 | Ant Eater | 23172 | [23172-ant-eater.json](./23172-ant-eater.json) |
 | Ant Empire | 109705 | [109705-ant-empire.json](./109705-ant-empire.json) |
+| Ant Evolution 2: Ant Simulator | 234997 | [234997-ant-evolution-2-ant-simulator.json](./234997-ant-evolution-2-ant-simulator.json) |
 | Ant Farm Simulator | 277847 | [277847-ant-farm-simulator.json](./277847-ant-farm-simulator.json) |
 | Ant Fight | 245287 | [245287-ant-fight.json](./245287-ant-fight.json) |
 | Ant Force | 155854 | [155854-ant-force.json](./155854-ant-force.json) |
@@ -11875,6 +11878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarium Land: Platinum Edition | 385193 | [385193-aquarium-land-platinum-edition.json](./385193-aquarium-land-platinum-edition.json) |
 | Aquarium Land: Puppy | 303338 | [303338-aquarium-land-puppy.json](./303338-aquarium-land-puppy.json) |
 | Aquarium Land: Puppy Edition | 280599 | [280599-aquarium-land-puppy-edition.json](./280599-aquarium-land-puppy-edition.json) |
+| Aquarium Match3 Mania | 235017 | [235017-aquarium-match3-mania.json](./235017-aquarium-match3-mania.json) |
 | Aquarium Pairs | 96578 | [96578-aquarium-pairs.json](./96578-aquarium-pairs.json) |
 | Aquarium Shop | 146919 | [146919-aquarium-shop.json](./146919-aquarium-shop.json) |
 | Aquarium Travels | 152642 | [152642-aquarium-travels.json](./152642-aquarium-travels.json) |
@@ -16471,6 +16475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
