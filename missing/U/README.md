@@ -2963,6 +2963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unto the Aurora | 344999 | [344999-unto-the-aurora.json](./344999-unto-the-aurora.json) |
 | Unto the End | 37146 | [37146-unto-the-end.json](./37146-unto-the-end.json) |
 | Unto the End: Special Edition | 154218 | [154218-unto-the-end-special-edition.json](./154218-unto-the-end-special-edition.json) |
+| Unto the Night | 202986 | [202986-unto-the-night.json](./202986-unto-the-night.json) |
 | Untold | 184415 | [184415-untold.json](./184415-untold.json) |
 | Untold Atlas | 218836 | [218836-untold-atlas.json](./218836-untold-atlas.json) |
 | Untold Cases: Stillwater Lake | 390356 | [390356-untold-cases-stillwater-lake.json](./390356-untold-cases-stillwater-lake.json) |
