@@ -4091,6 +4091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts in the Toybox: Chapter 1 | 99479 | [99479-ghosts-in-the-toybox-chapter-1.json](./99479-ghosts-in-the-toybox-chapter-1.json) |
 | Ghosts Keep Out | 407793 | [407793-ghosts-keep-out.json](./407793-ghosts-keep-out.json) |
 | Ghosts of Aliens | 255617 | [255617-ghosts-of-aliens.json](./255617-ghosts-of-aliens.json) |
+| Ghosts of Hollow Creek | 196950 | [196950-ghosts-of-hollow-creek.json](./196950-ghosts-of-hollow-creek.json) |
 | Ghosts of Memories | 59000 | [59000-ghosts-of-memories.json](./59000-ghosts-of-memories.json) |
 | Ghosts of Miami | 51422 | [51422-ghosts-of-miami.json](./51422-ghosts-of-miami.json) |
 | Ghosts of Mistwood | 61960 | [61960-ghosts-of-mistwood.json](./61960-ghosts-of-mistwood.json) |
