@@ -482,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oceanum Mortis | 120810 | [120810-oceanum-mortis.json](./120810-oceanum-mortis.json) |
 | Oceanview Mall | 336450 | [336450-oceanview-mall.json](./336450-oceanview-mall.json) |
 | Oceanwork | 147010 | [147010-oceanwork.json](./147010-oceanwork.json) |
+| Ocelot Sunrise | 226013 | [226013-ocelot-sunrise.json](./226013-ocelot-sunrise.json) |
 | Ocero 3D | 341497 | [341497-ocero-3d.json](./341497-ocero-3d.json) |
 | Och Noe: Thegame | 305719 | [305719-och-noe-thegame.json](./305719-och-noe-thegame.json) |
 | Ocha no Ma Battle | 299030 | [299030-ocha-no-ma-battle.json](./299030-ocha-no-ma-battle.json) |
@@ -2267,6 +2268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Fine Tourney | 277982 | [277982-one-fine-tourney.json](./277982-one-fine-tourney.json) |
 | One Finger Death Punch | 8360 | [8360-one-finger-death-punch.json](./8360-one-finger-death-punch.json) |
 | One for the road | 176262 | [176262-one-for-the-road.json](./176262-one-for-the-road.json) |
+| One For Two | 226033 | [226033-one-for-two.json](./226033-one-for-two.json) |
 | One Giant Hole | 371869 | [371869-one-giant-hole.json](./371869-one-giant-hole.json) |
 | One Giant Leap | 31735 | [31735-one-giant-leap.json](./31735-one-giant-leap.json) |
 | One Girl Army | 324699 | [324699-one-girl-army.json](./324699-one-girl-army.json) |
@@ -3271,6 +3273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opaldune | 288787 | [288787-opaldune.json](./288787-opaldune.json) |
 | Opalescence | 211049 | [211049-opalescence.json](./211049-opalescence.json) |
 | Opaline | 35246 | [35246-opaline.json](./35246-opaline.json) |
+| Opaloid Kingdom | 226025 | [226025-opaloid-kingdom.json](./226025-opaloid-kingdom.json) |
 | Opec Idle | 168041 | [168041-opec-idle.json](./168041-opec-idle.json) |
 | Open At Nine | 236104 | [236104-open-at-nine.json](./236104-open-at-nine.json) |
 | Open Bar | 161712 | [161712-open-bar.json](./161712-open-bar.json) |
