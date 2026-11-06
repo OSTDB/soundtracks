@@ -4388,6 +4388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catchup | 250153 | [250153-catchup.json](./250153-catchup.json) |
 | CatchWord | 71420 | [71420-catchword.json](./71420-catchword.json) |
 | Catchy Cheese | 240105 | [240105-catchy-cheese.json](./240105-catchy-cheese.json) |
+| Catchy Chips | 232260 | [232260-catchy-chips.json](./232260-catchy-chips.json) |
 | Catchy Crystals | 19386 | [19386-catchy-crystals.json](./19386-catchy-crystals.json) |
 | Catchy Tunes | 96772 | [96772-catchy-tunes.json](./96772-catchy-tunes.json) |
 | CatCity: Smash | 59040 | [59040-catcity-smash.json](./59040-catcity-smash.json) |
@@ -15817,6 +15818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crackdown | 2896 | [2896-crackdown.json](./2896-crackdown.json) |
 | Crackdown 2 | 2897 | [2897-crackdown-2.json](./2897-crackdown-2.json) |
 | Crackdown 2: Project Sunburst | 66445 | [66445-crackdown-2-project-sunburst.json](./66445-crackdown-2-project-sunburst.json) |
+| Cracké Rush Endless Run & Fun | 232254 | [232254-cracke-rush-endless-run-and-fun.json](./232254-cracke-rush-endless-run-and-fun.json) |
 | Cracked | 214929 | [214929-cracked.json](./214929-cracked.json) |
 | Cracked | 261769 | [261769-cracked.json](./261769-cracked.json) |
 | Cracked | 265432 | [265432-cracked.json](./265432-cracked.json) |
@@ -17054,6 +17056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cribbage Forever | 90023 | [90023-cribbage-forever.json](./90023-cribbage-forever.json) |
 | Cribbage HD | 91118 | [91118-cribbage-hd.json](./91118-cribbage-hd.json) |
 | Cribbage JD | 144781 | [144781-cribbage-jd.json](./144781-cribbage-jd.json) |
+| Cribbage Live | 232277 | [232277-cribbage-live.json](./232277-cribbage-live.json) |
 | Cribbage Premium | 88595 | [88595-cribbage-premium.json](./88595-cribbage-premium.json) |
 | Cribbage Pro | 141872 | [141872-cribbage-pro.json](./141872-cribbage-pro.json) |
 | Cribbage Quest | 52328 | [52328-cribbage-quest.json](./52328-cribbage-quest.json) |
