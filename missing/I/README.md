@@ -3151,6 +3151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incredible Puzzle | 224037 | [224037-incredible-puzzle.json](./224037-incredible-puzzle.json) |
 | Incredible Shrinking Sphere | 13071 | [13071-incredible-shrinking-sphere.json](./13071-incredible-shrinking-sphere.json) |
 | Incrediblock: Brick-Breaker | 59203 | [59203-incrediblock-brick-breaker.json](./59203-incrediblock-brick-breaker.json) |
+| IncrediBots 2 | 236610 | [236610-incredibots-2.json](./236610-incredibots-2.json) |
 | Incredibous Shells | 328060 | [328060-incredibous-shells.json](./328060-incredibous-shells.json) |
 | IncrediBubble | 328581 | [328581-incredibubble.json](./328581-incredibubble.json) |
 | Incredibug | 361255 | [361255-incredibug.json](./361255-incredibug.json) |
