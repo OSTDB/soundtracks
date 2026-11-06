@@ -4205,6 +4205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search All: Dogs | 289716 | [289716-search-all-dogs.json](./289716-search-all-dogs.json) |
 | Search All: Flies | 285713 | [285713-search-all-flies.json](./285713-search-all-flies.json) |
 | Search All: Foxes | 191008 | [191008-search-all-foxes.json](./191008-search-all-foxes.json) |
+| Search All: Fruits | 240583 | [240583-search-all-fruits.json](./240583-search-all-fruits.json) |
 | Search All: Keys | 219614 | [219614-search-all-keys.json](./219614-search-all-keys.json) |
 | Search All: Lollipops | 289714 | [289714-search-all-lollipops.json](./289714-search-all-lollipops.json) |
 | Search All: Mice | 219615 | [219615-search-all-mice.json](./219615-search-all-mice.json) |
@@ -7126,6 +7127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaman: Spirithunter | 110281 | [110281-shaman-spirithunter.json](./110281-shaman-spirithunter.json) |
 | Shaman's Mask of the Rune Magic | 296234 | [296234-shamans-mask-of-the-rune-magic.json](./296234-shamans-mask-of-the-rune-magic.json) |
 | Shamania | 310495 | [310495-shamania.json](./310495-shamania.json) |
+| Shambhala Gateway | 240580 | [240580-shambhala-gateway.json](./240580-shambhala-gateway.json) |
 | Shambled Spiral | 168112 | [168112-shambled-spiral.json](./168112-shambled-spiral.json) |
 | Shamblers Castle | 217697 | [217697-shamblers-castle.json](./217697-shamblers-castle.json) |
 | Shambles | 139259 | [139259-shambles.json](./139259-shambles.json) |
@@ -7457,6 +7459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharkey's 3D Pool | 11873 | [11873-sharkeys-3d-pool.json](./11873-sharkeys-3d-pool.json) |
 | Sharkey's Moll | 73156 | [73156-sharkeys-moll.json](./73156-sharkeys-moll.json) |
 | Sharkey's Shootout | 91401 | [91401-sharkeys-shootout.json](./91401-sharkeys-shootout.json) |
+| SharkKing | 240586 | [240586-sharkking.json](./240586-sharkking.json) |
 | Sharknado VR: Arcade Edition | 197404 | [197404-sharknado-vr-arcade-edition.json](./197404-sharknado-vr-arcade-edition.json) |
 | Sharknado VR: Eye of the Storm | 110288 | [110288-sharknado-vr-eye-of-the-storm.json](./110288-sharknado-vr-eye-of-the-storm.json) |
 | Sharknado: The Video Game | 133675 | [133675-sharknado-the-video-game.json](./133675-sharknado-the-video-game.json) |
@@ -11753,6 +11756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate Fish | 318004 | [318004-skate-fish.json](./318004-skate-fish.json) |
 | Skate Forever | 151497 | [151497-skate-forever.json](./151497-skate-forever.json) |
 | Skate Hooligans | 182546 | [182546-skate-hooligans.json](./182546-skate-hooligans.json) |
+| Skate Horse | 240589 | [240589-skate-horse.json](./240589-skate-horse.json) |
 | Skate It | 352870 | [352870-skate-it.json](./352870-skate-it.json) |
 | Skate It | 5157 | [5157-skate-it.json](./5157-skate-it.json) |
 | Skate Jam | 251207 | [251207-skate-jam.json](./251207-skate-jam.json) |
@@ -12017,6 +12021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Racing 2006 - Featuring Hermann Maier | 63086 | [63086-ski-racing-2006-featuring-hermann-maier.json](./63086-ski-racing-2006-featuring-hermann-maier.json) |
 | Ski Region Simulator | 36429 | [36429-ski-region-simulator.json](./36429-ski-region-simulator.json) |
 | Ski Region Simulator 2012 | 3177 | [3177-ski-region-simulator-2012.json](./3177-ski-region-simulator-2012.json) |
+| Ski Resort Driver | 240574 | [240574-ski-resort-driver.json](./240574-ski-resort-driver.json) |
 | Ski Resort Extreme | 51400 | [51400-ski-resort-extreme.json](./51400-ski-resort-extreme.json) |
 | Ski Resort Mogul | 54363 | [54363-ski-resort-mogul.json](./54363-ski-resort-mogul.json) |
 | Ski Resort Tycoon | 71289 | [71289-ski-resort-tycoon.json](./71289-ski-resort-tycoon.json) |
@@ -13398,6 +13403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sliding Puzzle Space | 106551 | [106551-sliding-puzzle-space.json](./106551-sliding-puzzle-space.json) |
 | Sliding Puzzles | 270388 | [270388-sliding-puzzles.json](./270388-sliding-puzzles.json) |
 | Sliding Seas | 174584 | [174584-sliding-seas.json](./174584-sliding-seas.json) |
+| Sliding Swords | 240600 | [240600-sliding-swords.json](./240600-sliding-swords.json) |
 | Sliding Tiles | 314222 | [314222-sliding-tiles.json](./314222-sliding-tiles.json) |
 | Sliding-Block Puzzles | 92426 | [92426-sliding-block-puzzles.json](./92426-sliding-block-puzzles.json) |
 | Slidungeon | 150401 | [150401-slidungeon.json](./150401-slidungeon.json) |
@@ -13841,6 +13847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slotter Up Mania | 65302 | [65302-slotter-up-mania.json](./65302-slotter-up-mania.json) |
 | Slottoki | 423976 | [423976-slottoki.json](./423976-slottoki.json) |
 | Slottso Party | 79574 | [79574-slottso-party.json](./79574-slottso-party.json) |
+| SlovSurvival | 240588 | [240588-slovsurvival.json](./240588-slovsurvival.json) |
 | Slow and Steady | 157486 | [157486-slow-and-steady.json](./157486-slow-and-steady.json) |
 | Slow Burn | 313870 | [313870-slow-burn.json](./313870-slow-burn.json) |
 | Slow Down | 180673 | [180673-slow-down.json](./180673-slow-down.json) |
@@ -16567,6 +16574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solnox: Grimoire of Seasons | 302321 | [302321-solnox-grimoire-of-seasons.json](./302321-solnox-grimoire-of-seasons.json) |
 | Solo | 145987 | [145987-solo.json](./145987-solo.json) |
 | Solo | 185292 | [185292-solo.json](./185292-solo.json) |
+| Solo | 240562 | [240562-solo.json](./240562-solo.json) |
 | Solo | 277771 | [277771-solo.json](./277771-solo.json) |
 | Solo | 28315 | [28315-solo.json](./28315-solo.json) |
 | Solo Chess | 372985 | [372985-solo-chess.json](./372985-solo-chess.json) |
@@ -23336,6 +23344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack Graffiti | 368196 | [368196-stack-graffiti.json](./368196-stack-graffiti.json) |
 | Stack Gun Heroes | 59298 | [59298-stack-gun-heroes.json](./59298-stack-gun-heroes.json) |
 | Stack Haven | 389940 | [389940-stack-haven.json](./389940-stack-haven.json) |
+| Stack Island | 240597 | [240597-stack-island.json](./240597-stack-island.json) |
 | Stack It | 216749 | [216749-stack-it.json](./216749-stack-it.json) |
 | Stack Jump | 87657 | [87657-stack-jump.json](./87657-stack-jump.json) |
 | Stack Machines | 232434 | [232434-stack-machines.json](./232434-stack-machines.json) |
@@ -33050,6 +33059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super-X | 46861 | [46861-super-x.json](./46861-super-x.json) |
 | Super: Taxi Simulation | 285692 | [285692-super-taxi-simulation.json](./285692-super-taxi-simulation.json) |
 | Super/Human Identity | 164052 | [164052-super-human-identity.json](./164052-super-human-identity.json) |
+| Super1337 | 240559 | [240559-super1337.json](./240559-super1337.json) |
 | Superation | 293505 | [293505-superation.json](./293505-superation.json) |
 | Superball | 117000 | [117000-superball.json](./117000-superball.json) |
 | Superball Mario: Neutral Special | 324634 | [324634-superball-mario-neutral-special.json](./324634-superball-mario-neutral-special.json) |
