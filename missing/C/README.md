@@ -5824,6 +5824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Change: A Homeless Survival Experience - Living City Expansion | 199664 | [199664-change-a-homeless-survival-experience-living-city-expansion.json](./199664-change-a-homeless-survival-experience-living-city-expansion.json) |
 | Changeable Guardian Estique | 283375 | [283375-changeable-guardian-estique.json](./283375-changeable-guardian-estique.json) |
 | Changeling | 113896 | [113896-changeling.json](./113896-changeling.json) |
+| Changeling Charade | 234413 | [234413-changeling-charade.json](./234413-changeling-charade.json) |
 | Changeling VR | 370158 | [370158-changeling-vr.json](./370158-changeling-vr.json) |
 | Changelog | 360569 | [360569-changelog.json](./360569-changelog.json) |
 | Changeover: Decisions | 96244 | [96244-changeover-decisions.json](./96244-changeover-decisions.json) |
@@ -13333,6 +13334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conjuror's Eye | 88069 | [88069-conjurors-eye.json](./88069-conjurors-eye.json) |
 | Conjury | 275739 | [275739-conjury.json](./275739-conjury.json) |
 | Conjury of Nature | 100536 | [100536-conjury-of-nature.json](./100536-conjury-of-nature.json) |
+| Conjury Revell | 234412 | [234412-conjury-revell.json](./234412-conjury-revell.json) |
 | Conker: Live & Reloaded | 1425 | [1425-conker-live-and-reloaded.json](./1425-conker-live-and-reloaded.json) |
 | Conker's Bad Fur Day | 1286 | [1286-conkers-bad-fur-day.json](./1286-conkers-bad-fur-day.json) |
 | Conker's Bad Fur Day: Reloaded | 421201 | [421201-conkers-bad-fur-day-reloaded.json](./421201-conkers-bad-fur-day-reloaded.json) |
@@ -18995,6 +18997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubes and More Cubes | 180221 | [180221-cubes-and-more-cubes.json](./180221-cubes-and-more-cubes.json) |
 | Cubes Control | 256167 | [256167-cubes-control.json](./256167-cubes-control.json) |
 | Cubes Crush Legend | 174819 | [174819-cubes-crush-legend.json](./174819-cubes-crush-legend.json) |
+| Cubes Empire Champions | 234423 | [234423-cubes-empire-champions.json](./234423-cubes-empire-champions.json) |
 | Cubes of Death | 190326 | [190326-cubes-of-death.json](./190326-cubes-of-death.json) |
 | Cubes on the floor | 176161 | [176161-cubes-on-the-floor.json](./176161-cubes-on-the-floor.json) |
 | Cubes Problem | 347102 | [347102-cubes-problem.json](./347102-cubes-problem.json) |
