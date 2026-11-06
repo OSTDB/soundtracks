@@ -4310,6 +4310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After School Grounds | 379498 | [379498-after-school-grounds.json](./379498-after-school-grounds.json) |
 | After School Murder Club!! | 150251 | [150251-after-school-murder-club.json](./150251-after-school-murder-club.json) |
 | After School Romance | 299497 | [299497-after-school-romance.json](./299497-after-school-romance.json) |
+| After School Simulator | 194078 | [194078-after-school-simulator.json](./194078-after-school-simulator.json) |
 | After School: A Vocaloid RPG | 178202 | [178202-after-school-a-vocaloid-rpg.json](./178202-after-school-a-vocaloid-rpg.json) |
 | After School: Full Horror Game | 233469 | [233469-after-school-full-horror-game.json](./233469-after-school-full-horror-game.json) |
 | After Solitary | 223864 | [223864-after-solitary.json](./223864-after-solitary.json) |
@@ -5146,6 +5147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aidan in Danger | 296281 | [296281-aidan-in-danger.json](./296281-aidan-in-danger.json) |
 | Aidas Strange Christmas | 165507 | [165507-aidas-strange-christmas.json](./165507-aidas-strange-christmas.json) |
 | Aiden | 84025 | [84025-aiden.json](./84025-aiden.json) |
+| Aiden: The Savior! | 194095 | [194095-aiden-the-savior.json](./194095-aiden-the-savior.json) |
 | AIDS Awareness | 260803 | [260803-aids-awareness.json](./260803-aids-awareness.json) |
 | AIDS Watashi o Aishite... Jin'ai Seijin | 230204 | [230204-aids-watashi-o-aishite-jinai-seijin.json](./230204-aids-watashi-o-aishite-jinai-seijin.json) |
 | Aidsmoji: The Forbidden Fruit | 86307 | [86307-aidsmoji-the-forbidden-fruit.json](./86307-aidsmoji-the-forbidden-fruit.json) |
@@ -6886,6 +6888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Nah'Topsy | 289888 | [289888-alien-nahtopsy.json](./289888-alien-nahtopsy.json) |
 | Alien Nations | 11259 | [11259-alien-nations.json](./11259-alien-nations.json) |
 | Alien Nations Mission Pack | 73810 | [73810-alien-nations-mission-pack.json](./73810-alien-nations-mission-pack.json) |
+| Alien no Tamago | 194052 | [194052-alien-no-tamago.json](./194052-alien-no-tamago.json) |
 | Alien Odyssey | 50325 | [50325-alien-odyssey.json](./50325-alien-odyssey.json) |
 | Alien Olympics | 73317 | [73317-alien-olympics.json](./73317-alien-olympics.json) |
 | Alien Olympics 2044 AD | 7750 | [7750-alien-olympics-2044-ad.json](./7750-alien-olympics-2044-ad.json) |
@@ -10787,6 +10790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Crabs Treasure Prototype | 371331 | [371331-another-crabs-treasure-prototype.json](./371331-another-crabs-treasure-prototype.json) |
 | Another Crusade | 135681 | [135681-another-crusade.json](./135681-another-crusade.json) |
 | Another Day | 179003 | [179003-another-day.json](./179003-another-day.json) |
+| Another Day | 194097 | [194097-another-day.json](./194097-another-day.json) |
 | Another Day | 254143 | [254143-another-day.json](./254143-another-day.json) |
 | Another Day As President | 394440 | [394440-another-day-as-president.json](./394440-another-day-as-president.json) |
 | Another Day in Hell | 341663 | [341663-another-day-in-hell.json](./341663-another-day-in-hell.json) |
@@ -16665,6 +16669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
