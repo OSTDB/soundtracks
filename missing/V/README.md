@@ -1585,6 +1585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Versus One | 391755 | [391755-versus-one.json](./391755-versus-one.json) |
 | Versus Pixels Battle 3D | 103109 | [103109-versus-pixels-battle-3d.json](./103109-versus-pixels-battle-3d.json) |
 | Versus Purgatory | 305687 | [305687-versus-purgatory.json](./305687-versus-purgatory.json) |
+| Versus Tactics | 209237 | [209237-versus-tactics.json](./209237-versus-tactics.json) |
 | Versus Umbra | 165493 | [165493-versus-umbra.json](./165493-versus-umbra.json) |
 | Versus Vampire | 257923 | [257923-versus-vampire.json](./257923-versus-vampire.json) |
 | Versus World | 82466 | [82466-versus-world.json](./82466-versus-world.json) |
