@@ -11629,6 +11629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold in the Dark | 180062 | [180062-cold-in-the-dark.json](./180062-cold-in-the-dark.json) |
 | Cold Iron | 60199 | [60199-cold-iron.json](./60199-cold-iron.json) |
 | Cold Iron: Quick Draw Western Duels | 30768 | [30768-cold-iron-quick-draw-western-duels.json](./30768-cold-iron-quick-draw-western-duels.json) |
+| Cold Land | 201371 | [201371-cold-land.json](./201371-cold-land.json) |
 | Cold Lazarus | 289276 | [289276-cold-lazarus.json](./289276-cold-lazarus.json) |
 | Cold Light | 271857 | [271857-cold-light.json](./271857-cold-light.json) |
 | Cold Massacre | 220585 | [220585-cold-massacre.json](./220585-cold-massacre.json) |
