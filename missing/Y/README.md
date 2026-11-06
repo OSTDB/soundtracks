@@ -468,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yellow Eyes | 339039 | [339039-yellow-eyes.json](./339039-yellow-eyes.json) |
 | Yellow Fins | 147815 | [147815-yellow-fins.json](./147815-yellow-fins.json) |
 | Yellow Fins HD | 89574 | [89574-yellow-fins-hd.json](./89574-yellow-fins-hd.json) |
+| Yellow History | 237155 | [237155-yellow-history.json](./237155-yellow-history.json) |
 | Yellow House | 309512 | [309512-yellow-house.json](./309512-yellow-house.json) |
 | Yellow Lemon | 92149 | [92149-yellow-lemon.json](./92149-yellow-lemon.json) |
 | Yellow Ninja's Extreme Zero | 401572 | [401572-yellow-ninjas-extreme-zero.json](./401572-yellow-ninjas-extreme-zero.json) |
