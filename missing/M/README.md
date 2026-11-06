@@ -3065,6 +3065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manhattan Dolls | 265329 | [265329-manhattan-dolls.json](./265329-manhattan-dolls.json) |
 | Manhattan Requiem | 349955 | [349955-manhattan-requiem.json](./349955-manhattan-requiem.json) |
 | Manhole | 100229 | [100229-manhole.json](./100229-manhole.json) |
+| Manhole | 206334 | [206334-manhole.json](./206334-manhole.json) |
 | Manhole | 231719 | [231719-manhole.json](./231719-manhole.json) |
 | Manhole | 232789 | [232789-manhole.json](./232789-manhole.json) |
 | Manhole-e: Classic Version | 92847 | [92847-manhole-e-classic-version.json](./92847-manhole-e-classic-version.json) |
@@ -3626,6 +3627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marine Buster | 45969 | [45969-marine-buster.json](./45969-marine-buster.json) |
 | Marine Chan | 97846 | [97846-marine-chan.json](./97846-marine-chan.json) |
 | Marine Glory | 253491 | [253491-marine-glory.json](./253491-marine-glory.json) |
+| Marine Hearts | 206402 | [206402-marine-hearts.json](./206402-marine-hearts.json) |
 | Marine Heavy Gunner | 54211 | [54211-marine-heavy-gunner.json](./54211-marine-heavy-gunner.json) |
 | Marine Heavy Gunner: Vietnam | 27563 | [27563-marine-heavy-gunner-vietnam.json](./27563-marine-heavy-gunner-vietnam.json) |
 | Marine Park Empire | 17298 | [17298-marine-park-empire.json](./17298-marine-park-empire.json) |
@@ -4149,6 +4151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Bombs Away | 131938 | [131938-marios-bombs-away.json](./131938-marios-bombs-away.json) |
 | Mario's Brewery | 64820 | [64820-marios-brewery.json](./64820-marios-brewery.json) |
 | Mario's Carnival Quest | 307903 | [307903-marios-carnival-quest.json](./307903-marios-carnival-quest.json) |
+| Mario's Cement Factory | 206327 | [206327-marios-cement-factory.json](./206327-marios-cement-factory.json) |
 | Mario's Cement Factory | 231746 | [231746-marios-cement-factory.json](./231746-marios-cement-factory.json) |
 | Mario's Cement Factory | 67940 | [67940-marios-cement-factory.json](./67940-marios-cement-factory.json) |
 | Mario's Cement Factory C64 | 289585 | [289585-marios-cement-factory-c64.json](./289585-marios-cement-factory-c64.json) |
@@ -8847,6 +8850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory for Kids | 251522 | [251522-memory-for-kids.json](./251522-memory-for-kids.json) |
 | Memory Fragment | 263501 | [263501-memory-fragment.json](./263501-memory-fragment.json) |
 | Memory games for kids 4+ | 88831 | [88831-memory-games-for-kids-4.json](./88831-memory-games-for-kids-4.json) |
+| Memory ghost | 206397 | [206397-memory-ghost.json](./206397-memory-ghost.json) |
 | Memory Ghosts | 308229 | [308229-memory-ghosts.json](./308229-memory-ghosts.json) |
 | Memory Girl + | 327909 | [327909-memory-girl.json](./327909-memory-girl.json) |
 | Memory Grove | 189195 | [189195-memory-grove.json](./189195-memory-grove.json) |
@@ -12925,6 +12929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miniature Golf | 18415 | [18415-miniature-golf.json](./18415-miniature-golf.json) |
 | Miniature Golf | 217679 | [217679-miniature-golf.json](./217679-miniature-golf.json) |
 | Miniature Golf | 239511 | [239511-miniature-golf.json](./239511-miniature-golf.json) |
+| Miniature Land: Four Seasons | 206391 | [206391-miniature-land-four-seasons.json](./206391-miniature-land-four-seasons.json) |
 | Miniature Legends | 395238 | [395238-miniature-legends.json](./395238-miniature-legends.json) |
 | Miniature Mania | 395709 | [395709-miniature-mania.json](./395709-miniature-mania.json) |
 | Miniature Mayhem! | 262931 | [262931-miniature-mayhem.json](./262931-miniature-mayhem.json) |
