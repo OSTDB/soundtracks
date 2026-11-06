@@ -3666,6 +3666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vox Populi: Spain 2023 | 258042 | [258042-vox-populi-spain-2023.json](./258042-vox-populi-spain-2023.json) |
 | Vox Populi: USA 2024 | 309464 | [309464-vox-populi-usa-2024.json](./309464-vox-populi-usa-2024.json) |
 | Vox Siege | 216665 | [216665-vox-siege.json](./216665-vox-siege.json) |
+| Voxabular P.I: Penny's First Case | 214263 | [214263-voxabular-p-i-pennys-first-case.json](./214263-voxabular-p-i-pennys-first-case.json) |
 | Voxatron | 51288 | [51288-voxatron.json](./51288-voxatron.json) |
 | Voxel - 3D Color by Number | 95094 | [95094-voxel-3d-color-by-number.json](./95094-voxel-3d-color-by-number.json) |
 | Voxel Battle Simulator | 145843 | [145843-voxel-battle-simulator.json](./145843-voxel-battle-simulator.json) |
