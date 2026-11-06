@@ -720,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I.Q Remix+: Intelligent Qube | 78295 | [78295-i-q-remix-intelligent-qube.json](./78295-i-q-remix-intelligent-qube.json) |
 | I.R.P. Intelligent Rackety Paradise | 239532 | [239532-i-r-p-intelligent-rackety-paradise.json](./239532-i-r-p-intelligent-rackety-paradise.json) |
 | I.Rule | 208402 | [208402-i-rule.json](./208402-i-rule.json) |
+| I.S.A. Calendar Photoshoot 2023 | 239395 | [239395-i-s-a-calendar-photoshoot-2023.json](./239395-i-s-a-calendar-photoshoot-2023.json) |
 | I.S.I.S. | 316922 | [316922-i-s-i-s.json](./316922-i-s-i-s.json) |
 | I.T Never Ends | 388373 | [388373-i-t-never-ends.json](./388373-i-t-never-ends.json) |
 | I'd Cross the World for You | 176394 | [176394-id-cross-the-world-for-you.json](./176394-id-cross-the-world-for-you.json) |
@@ -3810,6 +3811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
