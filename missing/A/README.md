@@ -3530,6 +3530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Island 3 | 8737 | [8737-adventure-island-3.json](./8737-adventure-island-3.json) |
 | Adventure Island II | 6471 | [6471-adventure-island-ii.json](./6471-adventure-island-ii.json) |
 | Adventure Island II: Aliens in Paradise | 84885 | [84885-adventure-island-ii-aliens-in-paradise.json](./84885-adventure-island-ii-aliens-in-paradise.json) |
+| Adventure Island Merge | 234416 | [234416-adventure-island-merge.json](./234416-adventure-island-merge.json) |
 | Adventure Island: The Beginning | 50697 | [50697-adventure-island-the-beginning.json](./50697-adventure-island-the-beginning.json) |
 | Adventure Jam | 379483 | [379483-adventure-jam.json](./379483-adventure-jam.json) |
 | Adventure Jampilation | 379482 | [379482-adventure-jampilation.json](./379482-adventure-jampilation.json) |
@@ -5621,6 +5622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Renovator | 174580 | [174580-airport-renovator.json](./174580-airport-renovator.json) |
 | Airport Renovator Simulator | 267295 | [267295-airport-renovator-simulator.json](./267295-airport-renovator-simulator.json) |
 | Airport Run | 268016 | [268016-airport-run.json](./268016-airport-run.json) |
+| Airport Rush 3D | 234432 | [234432-airport-rush-3d.json](./234432-airport-rush-3d.json) |
 | Airport Scanner | 91172 | [91172-airport-scanner.json](./91172-airport-scanner.json) |
 | Airport Security Sucks! | 397694 | [397694-airport-security-sucks.json](./397694-airport-security-sucks.json) |
 | Airport Service Simulator | 204979 | [204979-airport-service-simulator.json](./204979-airport-service-simulator.json) |
@@ -16475,7 +16477,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
