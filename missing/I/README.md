@@ -2312,6 +2312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imagine: Cheerleader | 7928 | [7928-imagine-cheerleader.json](./7928-imagine-cheerleader.json) |
 | Imagine: Detective | 7939 | [7939-imagine-detective.json](./7939-imagine-detective.json) |
 | Imagine: Family Doctor | 7930 | [7930-imagine-family-doctor.json](./7930-imagine-family-doctor.json) |
+| Imagine: Fashion Designer | 197987 | [197987-imagine-fashion-designer.json](./197987-imagine-fashion-designer.json) |
 | Imagine: Fashion Designer | 402557 | [402557-imagine-fashion-designer.json](./402557-imagine-fashion-designer.json) |
 | Imagine: Fashion Designer | 7911 | [7911-imagine-fashion-designer.json](./7911-imagine-fashion-designer.json) |
 | Imagine: Fashion Designer New York | 7918 | [7918-imagine-fashion-designer-new-york.json](./7918-imagine-fashion-designer-new-york.json) |
@@ -5185,6 +5186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Dark | 229514 | [229514-into-the-dark.json](./229514-into-the-dark.json) |
 | Into the Dark | 271339 | [271339-into-the-dark.json](./271339-into-the-dark.json) |
 | Into the Dark | 6613 | [6613-into-the-dark.json](./6613-into-the-dark.json) |
+| Into the Dark: Narakan | 198009 | [198009-into-the-dark-narakan.json](./198009-into-the-dark-narakan.json) |
 | Into the Darkness VR | 220141 | [220141-into-the-darkness-vr.json](./220141-into-the-darkness-vr.json) |
 | Into the Dataswarm | 363144 | [363144-into-the-dataswarm.json](./363144-into-the-dataswarm.json) |
 | Into the Dead | 20911 | [20911-into-the-dead.json](./20911-into-the-dead.json) |
