@@ -2638,6 +2638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bargain Basement | 293251 | [293251-bargain-basement.json](./293251-bargain-basement.json) |
 | Bargain Blocz | 235745 | [235745-bargain-blocz.json](./235745-bargain-blocz.json) |
 | Bargain Hunter | 110350 | [110350-bargain-hunter.json](./110350-bargain-hunter.json) |
+| Bargain Invaders | 231671 | [231671-bargain-invaders.json](./231671-bargain-invaders.json) |
 | Bargain Platfomer | 220352 | [220352-bargain-platfomer.json](./220352-bargain-platfomer.json) |
 | Bargain Puzzle Grid | 272786 | [272786-bargain-puzzle-grid.json](./272786-bargain-puzzle-grid.json) |
 | Bargain Toader | 230935 | [230935-bargain-toader.json](./230935-bargain-toader.json) |
@@ -9128,6 +9129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Walls | 415190 | [415190-black-walls.json](./415190-black-walls.json) |
 | Black Well Devil | 410331 | [410331-black-well-devil.json](./410331-black-well-devil.json) |
 | Black Werewolf | 293099 | [293099-black-werewolf.json](./293099-black-werewolf.json) |
+| Black White Bear | 231699 | [231699-black-white-bear.json](./231699-black-white-bear.json) |
 | Black Widow | 18455 | [18455-black-widow.json](./18455-black-widow.json) |
 | Black Widow: Looking for Love | 220874 | [220874-black-widow-looking-for-love.json](./220874-black-widow-looking-for-love.json) |
 | Black Witchcraft | 60800 | [60800-black-witchcraft.json](./60800-black-witchcraft.json) |
