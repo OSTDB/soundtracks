@@ -2572,6 +2572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impasse | 317205 | [317205-impasse.json](./317205-impasse.json) |
 | Impasse Journey: Kaohsiung Chapter | 284378 | [284378-impasse-journey-kaohsiung-chapter.json](./284378-impasse-journey-kaohsiung-chapter.json) |
 | Impassioned Fowl | 179544 | [179544-impassioned-fowl.json](./179544-impassioned-fowl.json) |
+| Impasto | 201896 | [201896-impasto.json](./201896-impasto.json) |
 | Impavidvm | 158527 | [158527-impavidvm.json](./158527-impavidvm.json) |
 | Impawlse | 303575 | [303575-impawlse.json](./303575-impawlse.json) |
 | Impeached 2 | 253921 | [253921-impeached-2.json](./253921-impeached-2.json) |
@@ -3858,6 +3859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5425,6 +5427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion Survivors | 335212 | [335212-invasion-survivors.json](./335212-invasion-survivors.json) |
 | Invasion To Cane | 275469 | [275469-invasion-to-cane.json](./275469-invasion-to-cane.json) |
 | Invasion UAC | 257528 | [257528-invasion-uac.json](./257528-invasion-uac.json) |
+| Invasion Vill | 201873 | [201873-invasion-vill.json](./201873-invasion-vill.json) |
 | Invasion VS | 58640 | [58640-invasion-vs.json](./58640-invasion-vs.json) |
 | Invasion Waves | 200578 | [200578-invasion-waves.json](./200578-invasion-waves.json) |
 | Invasion Zero | 114239 | [114239-invasion-zero.json](./114239-invasion-zero.json) |
