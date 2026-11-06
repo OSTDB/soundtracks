@@ -1585,6 +1585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tall Infinity | 45062 | [45062-tall-infinity.json](./45062-tall-infinity.json) |
 | Tall Man Run | 208953 | [208953-tall-man-run.json](./208953-tall-man-run.json) |
 | Tall Poppy | 172550 | [172550-tall-poppy.json](./172550-tall-poppy.json) |
+| Tall Poppy 2 | 212006 | [212006-tall-poppy-2.json](./212006-tall-poppy-2.json) |
 | Tall Ships: Age of Sail | 256537 | [256537-tall-ships-age-of-sail.json](./256537-tall-ships-age-of-sail.json) |
 | Tall Tales | 239139 | [239139-tall-tales.json](./239139-tall-tales.json) |
 | Tall Trails | 252784 | [252784-tall-trails.json](./252784-tall-trails.json) |
@@ -2824,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi! | 9454 | [9454-taxi.json](./9454-taxi.json) |
 | Taxi3: Extreme Rush | 94928 | [94928-taxi3-extreme-rush.json](./94928-taxi3-extreme-rush.json) |
 | Taxidermy | 127828 | [127828-taxidermy.json](./127828-taxidermy.json) |
+| Taxinaut | 211889 | [211889-taxinaut.json](./211889-taxinaut.json) |
 | TaxingTiles | 277937 | [277937-taxingtiles.json](./277937-taxingtiles.json) |
 | TaxMan | 19478 | [19478-taxman.json](./19478-taxman.json) |
 | Tay Son Dynasty | 256343 | [256343-tay-son-dynasty.json](./256343-tay-son-dynasty.json) |
@@ -11922,6 +11924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Days of the Third Age | 356169 | [356169-the-last-days-of-the-third-age.json](./356169-the-last-days-of-the-third-age.json) |
 | The Last DeadEnd | 100575 | [100575-the-last-deadend.json](./100575-the-last-deadend.json) |
 | The Last Deathbound | 127014 | [127014-the-last-deathbound.json](./127014-the-last-deathbound.json) |
+| The Last Defender | 212016 | [212016-the-last-defender.json](./212016-the-last-defender.json) |
 | The Last Defense | 195393 | [195393-the-last-defense.json](./195393-the-last-defense.json) |
 | The Last Defense TD | 194971 | [194971-the-last-defense-td.json](./194971-the-last-defense-td.json) |
 | The Last Defense! | 154264 | [154264-the-last-defense.json](./154264-the-last-defense.json) |
@@ -15346,6 +15349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Raphael Parable | 305306 | [305306-the-raphael-parable.json](./305306-the-raphael-parable.json) |
 | The Rapid Treasure Escape | 176325 | [176325-the-rapid-treasure-escape.json](./176325-the-rapid-treasure-escape.json) |
 | The Raptured | 289967 | [289967-the-raptured.json](./289967-the-raptured.json) |
+| The Rat Plague | 212024 | [212024-the-rat-plague.json](./212024-the-rat-plague.json) |
 | The Ratchelor Season 2 | 191517 | [191517-the-ratchelor-season-2.json](./191517-the-ratchelor-season-2.json) |
 | The Ratchelor Season 3: Rats in the City | 279804 | [279804-the-ratchelor-season-3-rats-in-the-city.json](./279804-the-ratchelor-season-3-rats-in-the-city.json) |
 | The Ratchelor: A Rat Dating Sim | 143502 | [143502-the-ratchelor-a-rat-dating-sim.json](./143502-the-ratchelor-a-rat-dating-sim.json) |
@@ -28806,6 +28810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: PREG Bmnopux 003 | 205515 | [205515-trainz-plus-preg-bmnopux-003.json](./205515-trainz-plus-preg-bmnopux-003.json) |
 | Trainz Plus: Pro Train - Class 68 Chiltern Railways | 205538 | [205538-trainz-plus-pro-train-class-68-chiltern-railways.json](./205538-trainz-plus-pro-train-class-68-chiltern-railways.json) |
 | Trainz Plus: Pro Train - Class 68 TPN | 205546 | [205546-trainz-plus-pro-train-class-68-tpn.json](./205546-trainz-plus-pro-train-class-68-tpn.json) |
+| Trainz Plus: Pro Train - DB BR Class 85 001 | 211887 | [211887-trainz-plus-pro-train-db-br-class-85-001.json](./211887-trainz-plus-pro-train-db-br-class-85-001.json) |
 | Trainz Plus: Pro Train - F-Series: FAA Container | 280142 | [280142-trainz-plus-pro-train-f-series-faa-container.json](./280142-trainz-plus-pro-train-f-series-faa-container.json) |
 | Trainz Plus: Pro Train - Hamburg Flyer SVT 877 | 236958 | [236958-trainz-plus-pro-train-hamburg-flyer-svt-877.json](./236958-trainz-plus-pro-train-hamburg-flyer-svt-877.json) |
 | Trainz Plus: Pro Train - SD40-2 Loco Bundle 1 | 289477 | [289477-trainz-plus-pro-train-sd40-2-loco-bundle-1.json](./289477-trainz-plus-pro-train-sd40-2-loco-bundle-1.json) |
@@ -32728,6 +32733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Cobra II | 39297 | [39297-twin-cobra-ii.json](./39297-twin-cobra-ii.json) |
 | Twin Colliders | 339058 | [339058-twin-colliders.json](./339058-twin-colliders.json) |
 | Twin Copters | 287567 | [287567-twin-copters.json](./287567-twin-copters.json) |
+| Twin Cores | 212010 | [212010-twin-cores.json](./212010-twin-cores.json) |
 | Twin Coves | 169315 | [169315-twin-coves.json](./169315-twin-coves.json) |
 | Twin Dragon | 2536 | [2536-twin-dragon.json](./2536-twin-dragon.json) |
 | Twin Dragons | 159356 | [159356-twin-dragons.json](./159356-twin-dragons.json) |
