@@ -1997,6 +1997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Hentai Girl: Beach Match-3 | 241280 | [241280-neko-hentai-girl-beach-match-3.json](./241280-neko-hentai-girl-beach-match-3.json) |
 | Neko Journey | 190462 | [190462-neko-journey.json](./190462-neko-journey.json) |
 | Neko Kitchen | 359552 | [359552-neko-kitchen.json](./359552-neko-kitchen.json) |
+| Neko Loop | 230100 | [230100-neko-loop.json](./230100-neko-loop.json) |
 | Neko Michi | 385601 | [385601-neko-michi.json](./385601-neko-michi.json) |
 | Neko Miko Kaibyo Shioki No Emaki | 406901 | [406901-neko-miko-kaibyo-shioki-no-emaki.json](./406901-neko-miko-kaibyo-shioki-no-emaki.json) |
 | Neko Miko Onryou Toubatsu Emaki | 244997 | [244997-neko-miko-onryou-toubatsu-emaki.json](./244997-neko-miko-onryou-toubatsu-emaki.json) |
@@ -5134,6 +5135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Origin | 274811 | [274811-ninja-origin.json](./274811-ninja-origin.json) |
 | Ninja Otedama R | 240729 | [240729-ninja-otedama-r.json](./240729-ninja-otedama-r.json) |
 | Ninja Pac Man | 66382 | [66382-ninja-pac-man.json](./66382-ninja-pac-man.json) |
+| Ninja Painter | 230064 | [230064-ninja-painter.json](./230064-ninja-painter.json) |
 | Ninja Painter 2 | 238965 | [238965-ninja-painter-2.json](./238965-ninja-painter-2.json) |
 | Ninja Party | 246005 | [246005-ninja-party.json](./246005-ninja-party.json) |
 | Ninja Party | 340839 | [340839-ninja-party.json](./340839-ninja-party.json) |
