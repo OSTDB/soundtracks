@@ -10775,6 +10775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clown Around | 284727 | [284727-clown-around.json](./284727-clown-around.json) |
 | Clown Art | 267856 | [267856-clown-art.json](./267856-clown-art.json) |
 | Clown Ball | 368228 | [368228-clown-ball.json](./368228-clown-ball.json) |
+| Clown Café | 196945 | [196945-clown-cafe.json](./196945-clown-cafe.json) |
 | Clown Camp | 346081 | [346081-clown-camp.json](./346081-clown-camp.json) |
 | Clown Car vs. The War | 401381 | [401381-clown-car-vs-the-war.json](./401381-clown-car-vs-the-war.json) |
 | Clown For Speed | 205852 | [205852-clown-for-speed.json](./205852-clown-for-speed.json) |
@@ -10903,6 +10904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clueless | 206979 | [206979-clueless.json](./206979-clueless.json) |
 | Clueless Crew | 326663 | [326663-clueless-crew.json](./326663-clueless-crew.json) |
 | Clueless Crosswords | 244830 | [244830-clueless-crosswords.json](./244830-clueless-crosswords.json) |
+| Clueless Fashion | 196946 | [196946-clueless-fashion.json](./196946-clueless-fashion.json) |
 | Clueless: The CD-ROM | 69852 | [69852-clueless-the-cd-rom.json](./69852-clueless-the-cd-rom.json) |
 | Clues By Sam | 352878 | [352878-clues-by-sam.json](./352878-clues-by-sam.json) |
 | ClueSweeper | 281262 | [281262-cluesweeper.json](./281262-cluesweeper.json) |
@@ -15378,6 +15380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Costa's Classic Cosmic Pizzas | 156137 | [156137-costas-classic-cosmic-pizzas.json](./156137-costas-classic-cosmic-pizzas.json) |
 | Costly Adventure | 247735 | [247735-costly-adventure.json](./247735-costly-adventure.json) |
 | Costrutto | 191266 | [191266-costrutto.json](./191266-costrutto.json) |
+| Costume Clash | 196953 | [196953-costume-clash.json](./196953-costume-clash.json) |
 | Costume Curse | 326218 | [326218-costume-curse.json](./326218-costume-curse.json) |
 | Costume Fighter | 278275 | [278275-costume-fighter.json](./278275-costume-fighter.json) |
 | Costume Kingdom | 139696 | [139696-costume-kingdom.json](./139696-costume-kingdom.json) |
@@ -20922,6 +20925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyphernaut | 222798 | [222798-cyphernaut.json](./222798-cyphernaut.json) |
 | Cypherpunk Essentials | 163651 | [163651-cypherpunk-essentials.json](./163651-cypherpunk-essentials.json) |
 | Cyphers | 62633 | [62633-cyphers.json](./62633-cyphers.json) |
+| Cyphers Game | 196923 | [196923-cyphers-game.json](./196923-cyphers-game.json) |
 | Cyphers Game VR | 200976 | [200976-cyphers-game-vr.json](./200976-cyphers-game-vr.json) |
 | Cypress Inheritance: The Beginning | 16937 | [16937-cypress-inheritance-the-beginning.json](./16937-cypress-inheritance-the-beginning.json) |
 | Cypress Legacy | 328097 | [328097-cypress-legacy.json](./328097-cypress-legacy.json) |
