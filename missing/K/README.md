@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kagami: An Odyssey in Japanese Language Learning | 284190 | [284190-kagami-an-odyssey-in-japanese-language-learning.json](./284190-kagami-an-odyssey-in-japanese-language-learning.json) |
 | Kagamihara/Justice | 222256 | [222256-kagamihara-justice.json](./222256-kagamihara-justice.json) |
 | Kagaribi | 398118 | [398118-kagaribi.json](./398118-kagaribi.json) |
+| Kagawa Manao to Futari de Shogi | 221469 | [221469-kagawa-manao-to-futari-de-shogi.json](./221469-kagawa-manao-to-futari-de-shogi.json) |
 | Kage | 400586 | [400586-kage.json](./400586-kage.json) |
 | Kage Fumazu | 98056 | [98056-kage-fumazu.json](./98056-kage-fumazu.json) |
 | Kage-chara Love-Com | 253668 | [253668-kage-chara-love-com.json](./253668-kage-chara-love-com.json) |
@@ -4914,6 +4915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kodama Battles | 233332 | [233332-kodama-battles.json](./233332-kodama-battles.json) |
 | Kodama: Slumber of the Gods | 404612 | [404612-kodama-slumber-of-the-gods.json](./404612-kodama-slumber-of-the-gods.json) |
 | Kodamachi | 262022 | [262022-kodamachi.json](./262022-kodamachi.json) |
+| Kodawari Ramen Kan | 221468 | [221468-kodawari-ramen-kan.json](./221468-kodawari-ramen-kan.json) |
 | Kodawari Saihai Simulation: Ocha no Ma Pro Yakyuu DS | 122959 | [122959-kodawari-saihai-simulation-ocha-no-ma-pro-yakyuu-ds.json](./122959-kodawari-saihai-simulation-ocha-no-ma-pro-yakyuu-ds.json) |
 | Kodawari Saihai Simulation: Ocha no Ma Pro Yakyuu DS 2010 Nendo-ban | 124528 | [124528-kodawari-saihai-simulation-ocha-no-ma-pro-yakyuu-ds-2010-nendo-ban.json](./124528-kodawari-saihai-simulation-ocha-no-ma-pro-yakyuu-ds-2010-nendo-ban.json) |
 | Kode Zero | 362252 | [362252-kode-zero.json](./362252-kode-zero.json) |
