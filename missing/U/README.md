@@ -2451,6 +2451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Terminal | 393826 | [393826-unknown-terminal.json](./393826-unknown-terminal.json) |
 | Unknown Variable 2: Raven's Ridge | 278222 | [278222-unknown-variable-2-ravens-ridge.json](./278222-unknown-variable-2-ravens-ridge.json) |
 | Unknown Woods | 148458 | [148458-unknown-woods.json](./148458-unknown-woods.json) |
+| Unknown: Evolution | 219963 | [219963-unknown-evolution.json](./219963-unknown-evolution.json) |
 | Unknown: Raven Field | 344904 | [344904-unknown-raven-field.json](./344904-unknown-raven-field.json) |
 | Unknown's Survival: Player Battlegrounds | 111360 | [111360-unknowns-survival-player-battlegrounds.json](./111360-unknowns-survival-player-battlegrounds.json) |
 | Unknowz | 350317 | [350317-unknowz.json](./350317-unknowz.json) |
@@ -3117,6 +3118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upgrade the game 2 | 118655 | [118655-upgrade-the-game-2.json](./118655-upgrade-the-game-2.json) |
 | Upgrade the game 3: Spaceship | 251078 | [251078-upgrade-the-game-3-spaceship.json](./251078-upgrade-the-game-3-spaceship.json) |
 | Upgrade VR | 192550 | [192550-upgrade-vr.json](./192550-upgrade-vr.json) |
+| Upgrade Your Weapon: Shooter | 219959 | [219959-upgrade-your-weapon-shooter.json](./219959-upgrade-your-weapon-shooter.json) |
 | Upgrade! Inc. | 394309 | [394309-upgrade-inc.json](./394309-upgrade-inc.json) |
 | Upgraded | 338582 | [338582-upgraded.json](./338582-upgraded.json) |
 | Upgrades & Enemies | 362271 | [362271-upgrades-and-enemies.json](./362271-upgrades-and-enemies.json) |
