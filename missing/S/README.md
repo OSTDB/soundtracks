@@ -8042,6 +8042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shi's Summer Battle | 360683 | [360683-shis-summer-battle.json](./360683-shis-summer-battle.json) |
 | Shia LaBeouf: Meme Master Dating Simulator | 12076 | [12076-shia-labeouf-meme-master-dating-simulator.json](./12076-shia-labeouf-meme-master-dating-simulator.json) |
 | Shiawase Kazoku-bu | 422204 | [422204-shiawase-kazoku-bu.json](./422204-shiawase-kazoku-bu.json) |
+| Shiawase no Moto | 206398 | [206398-shiawase-no-moto.json](./206398-shiawase-no-moto.json) |
 | Shiawase Shou no Kanrinin-san | 136792 | [136792-shiawase-shou-no-kanrinin-san.json](./136792-shiawase-shou-no-kanrinin-san.json) |
 | Shiba Army | 186410 | [186410-shiba-army.json](./186410-shiba-army.json) |
 | Shiba Boop! | 397016 | [397016-shiba-boop.json](./397016-shiba-boop.json) |
@@ -15318,6 +15319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoop Dogg Cruisin' | 225651 | [225651-snoop-dogg-cruisin.json](./225651-snoop-dogg-cruisin.json) |
 | Snooper Troops: Case #2 - The Case of the Disappearing Dolphin | 78945 | [78945-snooper-troops-case-2-the-case-of-the-disappearing-dolphin.json](./78945-snooper-troops-case-2-the-case-of-the-disappearing-dolphin.json) |
 | Snoopy | 145235 | [145235-snoopy.json](./145235-snoopy.json) |
+| Snoopy | 206330 | [206330-snoopy.json](./206330-snoopy.json) |
 | Snoopy | 363623 | [363623-snoopy.json](./363623-snoopy.json) |
 | Snoopy | 363624 | [363624-snoopy.json](./363624-snoopy.json) |
 | Snoopy | 410060 | [410060-snoopy.json](./410060-snoopy.json) |
@@ -19579,7 +19581,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20132,6 +20133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space to Interrogate | 177801 | [177801-space-to-interrogate.json](./177801-space-to-interrogate.json) |
 | Space to Investigate | 179702 | [179702-space-to-investigate.json](./179702-space-to-investigate.json) |
 | Space Toads Mayhem | 25799 | [25799-space-toads-mayhem.json](./25799-space-toads-mayhem.json) |
+| Space Tonjiru | 206400 | [206400-space-tonjiru.json](./206400-space-tonjiru.json) |
 | Space Tourist | 332754 | [332754-space-tourist.json](./332754-space-tourist.json) |
 | Space Tournament | 260292 | [260292-space-tournament.json](./260292-space-tournament.json) |
 | Space Tow Truck | 143912 | [143912-space-tow-truck.json](./143912-space-tow-truck.json) |
@@ -36047,6 +36049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syobon Action: New Something | 320876 | [320876-syobon-action-new-something.json](./320876-syobon-action-new-something.json) |
 | Syobon No Action Special | 369764 | [369764-syobon-no-action-special.json](./369764-syobon-no-action-special.json) |
 | Syon | 296383 | [296383-syon.json](./296383-syon.json) |
+| Syphon Filter | 206307 | [206307-syphon-filter.json](./206307-syphon-filter.json) |
 | Syphon Filter | 4115 | [4115-syphon-filter.json](./4115-syphon-filter.json) |
 | Syphon Filter 2 | 218372 | [218372-syphon-filter-2.json](./218372-syphon-filter-2.json) |
 | Syphon Filter 2 | 4116 | [4116-syphon-filter-2.json](./4116-syphon-filter-2.json) |
