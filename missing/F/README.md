@@ -1508,6 +1508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Basic v3 | 360522 | [360522-family-basic-v3.json](./360522-family-basic-v3.json) |
 | Family Bible Quest | 335322 | [335322-family-bible-quest.json](./335322-family-bible-quest.json) |
 | Family Billiards | 161760 | [161760-family-billiards.json](./161760-family-billiards.json) |
+| Family Board Games | 194749 | [194749-family-board-games.json](./194749-family-board-games.json) |
 | Family Board Games Bundle | 284702 | [284702-family-board-games-bundle.json](./284702-family-board-games-bundle.json) |
 | Family Bowling | 135648 | [135648-family-bowling.json](./135648-family-bowling.json) |
 | Family Bundle | 223759 | [223759-family-bundle.json](./223759-family-bundle.json) |
@@ -1842,6 +1843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy 5 | 94647 | [94647-fantasy-5.json](./94647-fantasy-5.json) |
 | Fantasy 6 Pack | 86035 | [86035-fantasy-6-pack.json](./86035-fantasy-6-pack.json) |
 | Fantasy Adventure | 156145 | [156145-fantasy-adventure.json](./156145-fantasy-adventure.json) |
+| Fantasy All Stars | 194678 | [194678-fantasy-all-stars.json](./194678-fantasy-all-stars.json) |
 | Fantasy Amusement Park II | 385971 | [385971-fantasy-amusement-park-ii.json](./385971-fantasy-amusement-park-ii.json) |
 | Fantasy and Girls | 367166 | [367166-fantasy-and-girls.json](./367166-fantasy-and-girls.json) |
 | Fantasy Aquarium | 319878 | [319878-fantasy-aquarium.json](./319878-fantasy-aquarium.json) |
@@ -9017,6 +9019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Stylist: Design Game | 214672 | [214672-food-stylist-design-game.json](./214672-food-stylist-design-game.json) |
 | Food Truck Business Simulator | 343531 | [343531-food-truck-business-simulator.json](./343531-food-truck-business-simulator.json) |
 | Food Truck Chef | 105841 | [105841-food-truck-chef.json](./105841-food-truck-chef.json) |
+| Food Truck Empire | 194743 | [194743-food-truck-empire.json](./194743-food-truck-empire.json) |
 | Food Truck Monopoly | 348875 | [348875-food-truck-monopoly.json](./348875-food-truck-monopoly.json) |
 | Food Truck Rush | 109237 | [109237-food-truck-rush.json](./109237-food-truck-rush.json) |
 | Food Truck Shop Simulator | 350537 | [350537-food-truck-shop-simulator.json](./350537-food-truck-shop-simulator.json) |
