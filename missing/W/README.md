@@ -2628,6 +2628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of the Dogg | 20109 | [20109-way-of-the-dogg.json](./20109-way-of-the-dogg.json) |
 | Way of the Exploding Stick | 290866 | [290866-way-of-the-exploding-stick.json](./290866-way-of-the-exploding-stick.json) |
 | Way of the Hunter 2 | 383019 | [383019-way-of-the-hunter-2.json](./383019-way-of-the-hunter-2.json) |
+| Way of the Hunter: Aurora Shores | 239446 | [239446-way-of-the-hunter-aurora-shores.json](./239446-way-of-the-hunter-aurora-shores.json) |
 | Way of the Hunter: Elite Edition | 207091 | [207091-way-of-the-hunter-elite-edition.json](./207091-way-of-the-hunter-elite-edition.json) |
 | Way of the Hunter: Free UTV | 403804 | [403804-way-of-the-hunter-free-utv.json](./403804-way-of-the-hunter-free-utv.json) |
 | Way of the Hunter: Hunter's Pack | 325657 | [325657-way-of-the-hunter-hunters-pack.json](./325657-way-of-the-hunter-hunters-pack.json) |
@@ -4130,6 +4131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Is My Cat? | 242947 | [242947-where-is-my-cat.json](./242947-where-is-my-cat.json) |
 | Where Is My Crown? | 242451 | [242451-where-is-my-crown.json](./242451-where-is-my-crown.json) |
 | Where Is My Family | 118792 | [118792-where-is-my-family.json](./118792-where-is-my-family.json) |
+| Where is My Glasses ? | 239417 | [239417-where-is-my-glasses.json](./239417-where-is-my-glasses.json) |
 | Where Is My Hammer: Destroy Everything! | 177189 | [177189-where-is-my-hammer-destroy-everything.json](./177189-where-is-my-hammer-destroy-everything.json) |
 | Where Is My Hat? | 345652 | [345652-where-is-my-hat.json](./345652-where-is-my-hat.json) |
 | Where is My Home? | 410996 | [410996-where-is-my-home.json](./410996-where-is-my-home.json) |
