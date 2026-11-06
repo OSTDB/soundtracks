@@ -1354,6 +1354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eeeek Abyss | 235811 | [235811-eeeek-abyss.json](./235811-eeeek-abyss.json) |
 | Eek! The Cat | 42613 | [42613-eek-the-cat.json](./42613-eek-the-cat.json) |
 | EEK3 Virtual Show Floor | 145630 | [145630-eek3-virtual-show-floor.json](./145630-eek3-virtual-show-floor.json) |
+| EekoWorld | 234400 | [234400-eekoworld.json](./234400-eekoworld.json) |
 | Eel Game | 361295 | [361295-eel-game.json](./361295-eel-game.json) |
 | Eel on Mask | 392752 | [392752-eel-on-mask.json](./392752-eel-on-mask.json) |
 | Eelah | 190893 | [190893-eelah.json](./190893-eelah.json) |
@@ -2808,6 +2809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elves | 295940 | [295940-elves.json](./295940-elves.json) |
 | Elves '87 | 246233 | [246233-elves-87.json](./246233-elves-87.json) |
 | Elves Adventure | 31972 | [31972-elves-adventure.json](./31972-elves-adventure.json) |
+| Elves and Ornaments | 234399 | [234399-elves-and-ornaments.json](./234399-elves-and-ornaments.json) |
 | Elves Castle and Secrets | 233900 | [233900-elves-castle-and-secrets.json](./233900-elves-castle-and-secrets.json) |
 | Elves Christmas Hentai Puzzle | 217197 | [217197-elves-christmas-hentai-puzzle.json](./217197-elves-christmas-hentai-puzzle.json) |
 | Elves Fantasy: Hentai Puzzle | 208229 | [208229-elves-fantasy-hentai-puzzle.json](./208229-elves-fantasy-hentai-puzzle.json) |
@@ -4058,6 +4060,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigmas da Escuridão | 254992 | [254992-enigmas-da-escuridao.json](./254992-enigmas-da-escuridao.json) |
 | EnigmaSand | 152035 | [152035-enigmasand.json](./152035-enigmasand.json) |
 | Enigmash | 249647 | [249647-enigmash.json](./249647-enigmash.json) |
+| Enigmata | 234391 | [234391-enigmata.json](./234391-enigmata.json) |
+| Enigmata 2: Genu's Revenge | 234392 | [234392-enigmata-2-genus-revenge.json](./234392-enigmata-2-genus-revenge.json) |
 | Enigmata: Stellar War | 118317 | [118317-enigmata-stellar-war.json](./118317-enigmata-stellar-war.json) |
 | Enigmatic Worlds | 265361 | [265361-enigmatic-worlds.json](./265361-enigmatic-worlds.json) |
 | Enigmatica 2: Expert | 255663 | [255663-enigmatica-2-expert.json](./255663-enigmatica-2-expert.json) |
