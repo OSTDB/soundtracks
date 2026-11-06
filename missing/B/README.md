@@ -3528,6 +3528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Bands: Rock & Roll Deckbuilder | 155551 | [155551-battle-bands-rock-and-roll-deckbuilder.json](./155551-battle-bands-rock-and-roll-deckbuilder.json) |
 | Battle Barn: Tactics | 190054 | [190054-battle-barn-tactics.json](./190054-battle-barn-tactics.json) |
 | Battle Baseball | 143913 | [143913-battle-baseball.json](./143913-battle-baseball.json) |
+| Battle Baseball | 218826 | [218826-battle-baseball.json](./218826-battle-baseball.json) |
 | Battle Beach | 323068 | [323068-battle-beach.json](./323068-battle-beach.json) |
 | Battle Bean | 291239 | [291239-battle-bean.json](./291239-battle-bean.json) |
 | Battle Bears 1 Mac | 88639 | [88639-battle-bears-1-mac.json](./88639-battle-bears-1-mac.json) |
@@ -3624,6 +3625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Disc | 120895 | [120895-battle-disc.json](./120895-battle-disc.json) |
 | Battle Disc | 380018 | [380018-battle-disc.json](./380018-battle-disc.json) |
 | Battle Dodge Ball 3 | 56519 | [56519-battle-dodge-ball-3.json](./56519-battle-dodge-ball-3.json) |
+| Battle Dodge Ball II | 218827 | [218827-battle-dodge-ball-ii.json](./218827-battle-dodge-ball-ii.json) |
 | Battle Dodgeball | 38350 | [38350-battle-dodgeball.json](./38350-battle-dodgeball.json) |
 | Battle Dodgeball 3 | 269423 | [269423-battle-dodgeball-3.json](./269423-battle-dodgeball-3.json) |
 | Battle Dodgeball II | 42293 | [42293-battle-dodgeball-ii.json](./42293-battle-dodgeball-ii.json) |
@@ -3700,6 +3702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle for Wesnoth Legacy | 207873 | [207873-battle-for-wesnoth-legacy.json](./207873-battle-for-wesnoth-legacy.json) |
 | Battle Force | 386176 | [386176-battle-force.json](./386176-battle-force.json) |
 | Battle Forever | 32879 | [32879-battle-forever.json](./32879-battle-forever.json) |
+| Battle Formation | 218828 | [218828-battle-formation.json](./218828-battle-formation.json) |
 | Battle Fortress Defence | 200114 | [200114-battle-fortress-defence.json](./200114-battle-fortress-defence.json) |
 | Battle Frenzy | 5361 | [5361-battle-frenzy.json](./5361-battle-frenzy.json) |
 | Battle Frenzy Collection | 328570 | [328570-battle-frenzy-collection.json](./328570-battle-frenzy-collection.json) |
