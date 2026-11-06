@@ -5364,6 +5364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildwood | 171855 | [171855-wildwood.json](./171855-wildwood.json) |
 | Wildwood | 279754 | [279754-wildwood.json](./279754-wildwood.json) |
 | Wildwood Down | 264519 | [264519-wildwood-down.json](./264519-wildwood-down.json) |
+| Wildwood: A Town Building Game | 238814 | [238814-wildwood-a-town-building-game.json](./238814-wildwood-a-town-building-game.json) |
 | Wildwood: Graveyard Defense | 217539 | [217539-wildwood-graveyard-defense.json](./217539-wildwood-graveyard-defense.json) |
 | Wildwood: Hearth & Horizon | 287693 | [287693-wildwood-hearth-and-horizon.json](./287693-wildwood-hearth-and-horizon.json) |
 | WildWorlds: Zyxaranth's Domain | 418738 | [418738-wildworlds-zyxaranths-domain.json](./418738-wildworlds-zyxaranths-domain.json) |
