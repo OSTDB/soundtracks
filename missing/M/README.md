@@ -5854,7 +5854,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -14229,6 +14228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam AGE: Cosmic Drive | 75722 | [75722-mobile-suit-gundam-age-cosmic-drive.json](./75722-mobile-suit-gundam-age-cosmic-drive.json) |
 | Mobile Suit Gundam AGE: Universe Accel | 75721 | [75721-mobile-suit-gundam-age-universe-accel.json](./75721-mobile-suit-gundam-age-universe-accel.json) |
 | Mobile Suit Gundam Extreme Versus 2 Cross Boost | 265951 | [265951-mobile-suit-gundam-extreme-versus-2-cross-boost.json](./265951-mobile-suit-gundam-extreme-versus-2-cross-boost.json) |
+| Mobile Suit Gundam Extreme Vs. 2 OverBoost | 243465 | [243465-mobile-suit-gundam-extreme-vs-2-overboost.json](./243465-mobile-suit-gundam-extreme-vs-2-overboost.json) |
 | Mobile Suit Gundam Federation vs. Zeon | 43311 | [43311-mobile-suit-gundam-federation-vs-zeon.json](./43311-mobile-suit-gundam-federation-vs-zeon.json) |
 | Mobile Suit Gundam Gihren's Greed: Blood of Zeon | 75726 | [75726-mobile-suit-gundam-gihrens-greed-blood-of-zeon.json](./75726-mobile-suit-gundam-gihrens-greed-blood-of-zeon.json) |
 | Mobile Suit Gundam Gihren's Greed: The fear of Axis | 56745 | [56745-mobile-suit-gundam-gihrens-greed-the-fear-of-axis.json](./56745-mobile-suit-gundam-gihrens-greed-the-fear-of-axis.json) |
