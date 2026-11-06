@@ -2851,6 +2851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bart's Quest For TV | 317310 | [317310-barts-quest-for-tv.json](./317310-barts-quest-for-tv.json) |
 | Bartender Hustle | 153899 | [153899-bartender-hustle.json](./153899-bartender-hustle.json) |
 | Bartender Life Simulator | 390052 | [390052-bartender-life-simulator.json](./390052-bartender-life-simulator.json) |
+| Bartender Simulator | 217058 | [217058-bartender-simulator.json](./217058-bartender-simulator.json) |
 | Bartender Simulator & Fast Food Van Simulator 2026 | 413374 | [413374-bartender-simulator-and-fast-food-van-simulator-2026.json](./413374-bartender-simulator-and-fast-food-van-simulator-2026.json) |
 | Bartender Simulator 2026 | 388070 | [388070-bartender-simulator-2026.json](./388070-bartender-simulator-2026.json) |
 | Bartender VR Simulator | 74216 | [74216-bartender-vr-simulator.json](./74216-bartender-vr-simulator.json) |
@@ -6192,6 +6193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Belly Bumpers | 298168 | [298168-belly-bumpers.json](./298168-belly-bumpers.json) |
 | Belly Dance Girl | 367028 | [367028-belly-dance-girl.json](./367028-belly-dance-girl.json) |
 | BellyBots | 32329 | [32329-bellybots.json](./32329-bellybots.json) |
+| Belonging | 217061 | [217061-belonging.json](./217061-belonging.json) |
 | Belongings | 158707 | [158707-belongings.json](./158707-belongings.json) |
 | Belote 3 in 1 | 326263 | [326263-belote-3-in-1.json](./326263-belote-3-in-1.json) |
 | Beloved Beatrice | 274278 | [274278-beloved-beatrice.json](./274278-beloved-beatrice.json) |
