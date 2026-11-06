@@ -5986,6 +5986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nob War: The Elves | 235243 | [235243-nob-war-the-elves.json](./235243-nob-war-the-elves.json) |
 | Nobby the Aardvark | 125181 | [125181-nobby-the-aardvark.json](./125181-nobby-the-aardvark.json) |
 | Nobelia | 224950 | [224950-nobelia.json](./224950-nobelia.json) |
+| Nobetsu Maku Nashi | 222693 | [222693-nobetsu-maku-nashi.json](./222693-nobetsu-maku-nashi.json) |
 | Nobk Overlay | 314199 | [314199-nobk-overlay.json](./314199-nobk-overlay.json) |
 | Noble | 176975 | [176975-noble.json](./176975-noble.json) |
 | Noble Armada: Lost Worlds | 107897 | [107897-noble-armada-lost-worlds.json](./107897-noble-armada-lost-worlds.json) |
@@ -7331,6 +7332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Throne 3D | 375427 | [375427-nuclear-throne-3d.json](./375427-nuclear-throne-3d.json) |
 | Nuclear Throne Together | 176694 | [176694-nuclear-throne-together.json](./176694-nuclear-throne-together.json) |
 | Nuclear Throne Together: Hard Mode | 176720 | [176720-nuclear-throne-together-hard-mode.json](./176720-nuclear-throne-together-hard-mode.json) |
+| Nuclear Throne Ultra | 222590 | [222590-nuclear-throne-ultra.json](./222590-nuclear-throne-ultra.json) |
 | Nuclear Throne: Territorial Expansion | 176701 | [176701-nuclear-throne-territorial-expansion.json](./176701-nuclear-throne-territorial-expansion.json) |
 | Nuclear Tides | 333435 | [333435-nuclear-tides.json](./333435-nuclear-tides.json) |
 | Nuclear Titbit | 113375 | [113375-nuclear-titbit.json](./113375-nuclear-titbit.json) |
