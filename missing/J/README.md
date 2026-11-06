@@ -548,6 +548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jamie's Mod | 221669 | [221669-jamies-mod.json](./221669-jamies-mod.json) |
 | Jamjam | 343716 | [343716-jamjam.json](./343716-jamjam.json) |
 | JamLegend | 93992 | [93992-jamlegend.json](./93992-jamlegend.json) |
+| Jamm | 195839 | [195839-jamm.json](./195839-jamm.json) |
 | Jammed | 407151 | [407151-jammed.json](./407151-jammed.json) |
 | Jammer | 67972 | [67972-jammer.json](./67972-jammer.json) |
 | Jammer Dash | 314807 | [314807-jammer-dash.json](./314807-jammer-dash.json) |
