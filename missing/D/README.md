@@ -1722,6 +1722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Night | 33742 | [33742-dark-night.json](./33742-dark-night.json) |
 | Dark Night Endless Tales: Bitter Forest | 403971 | [403971-dark-night-endless-tales-bitter-forest.json](./403971-dark-night-endless-tales-bitter-forest.json) |
 | Dark Night Maze | 232938 | [232938-dark-night-maze.json](./232938-dark-night-maze.json) |
+| Dark Night with Floppa | 237727 | [237727-dark-night-with-floppa.json](./237727-dark-night-with-floppa.json) |
 | Dark Nights | 138769 | [138769-dark-nights.json](./138769-dark-nights.json) |
 | Dark Nights with Poe and Munro | 118668 | [118668-dark-nights-with-poe-and-munro.json](./118668-dark-nights-with-poe-and-munro.json) |
 | Dark Nights: Reflections | 397602 | [397602-dark-nights-reflections.json](./397602-dark-nights-reflections.json) |
@@ -1765,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Parables: The Swan Princess and The Dire Tree | 139795 | [139795-dark-parables-the-swan-princess-and-the-dire-tree.json](./139795-dark-parables-the-swan-princess-and-the-dire-tree.json) |
 | Dark Parables: The Thief and the Tinderbox | 139796 | [139796-dark-parables-the-thief-and-the-tinderbox.json](./139796-dark-parables-the-thief-and-the-tinderbox.json) |
 | Dark Parables: The Thief and the Tinderbox - Collector's Edition | 31064 | [31064-dark-parables-the-thief-and-the-tinderbox-collectors-edition.json](./31064-dark-parables-the-thief-and-the-tinderbox-collectors-edition.json) |
+| Dark Paradise Nigelopia: Mini Mix | 237745 | [237745-dark-paradise-nigelopia-mini-mix.json](./237745-dark-paradise-nigelopia-mini-mix.json) |
 | Dark Passage | 291886 | [291886-dark-passage.json](./291886-dark-passage.json) |
 | Dark Passenger - An experimental audio game | 24071 | [24071-dark-passenger-an-experimental-audio-game.json](./24071-dark-passenger-an-experimental-audio-game.json) |
 | Dark Passion: Anime Match Puzzles | 332490 | [332490-dark-passion-anime-match-puzzles.json](./332490-dark-passion-anime-match-puzzles.json) |
