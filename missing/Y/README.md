@@ -1007,6 +1007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yosumin! | 9309 | [9309-yosumin.json](./9309-yosumin.json) |
 | Yots | 408062 | [408062-yots.json](./408062-yots.json) |
 | Yotsume God | 202709 | [202709-yotsume-god.json](./202709-yotsume-god.json) |
+| Yotsume God: Reunion | 193025 | [193025-yotsume-god-reunion.json](./193025-yotsume-god-reunion.json) |
 | Yotsunoha | 401170 | [401170-yotsunoha.json](./401170-yotsunoha.json) |
 | Yotsunoha ~A Journey of Sincerity~ | 140528 | [140528-yotsunoha-a-journey-of-sincerity.json](./140528-yotsunoha-a-journey-of-sincerity.json) |
 | You | 372568 | [372568-you.json](./372568-you.json) |
