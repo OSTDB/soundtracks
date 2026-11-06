@@ -8221,6 +8221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei V: A Goddess in Training | 238054 | [238054-shin-megami-tensei-v-a-goddess-in-training.json](./238054-shin-megami-tensei-v-a-goddess-in-training.json) |
 | Shin Megami Tensei V: Digital Deluxe Edition | 238340 | [238340-shin-megami-tensei-v-digital-deluxe-edition.json](./238340-shin-megami-tensei-v-digital-deluxe-edition.json) |
 | Shin Megami Tensei V: Fall of Man Premium Edition | 153640 | [153640-shin-megami-tensei-v-fall-of-man-premium-edition.json](./153640-shin-megami-tensei-v-fall-of-man-premium-edition.json) |
+| Shin Megami Tensei V: Return of the True Demon | 238173 | [238173-shin-megami-tensei-v-return-of-the-true-demon.json](./238173-shin-megami-tensei-v-return-of-the-true-demon.json) |
 | Shin Megami Tensei V: Steelbook Launch Edition | 153639 | [153639-shin-megami-tensei-v-steelbook-launch-edition.json](./153639-shin-megami-tensei-v-steelbook-launch-edition.json) |
 | Shin Megami Tensei V: The Rage of a Queen | 238058 | [238058-shin-megami-tensei-v-the-rage-of-a-queen.json](./238058-shin-megami-tensei-v-the-rage-of-a-queen.json) |
 | Shin Megami Tensei V: Vengeance - Demon Subquest: Holy Will and Profane Dissent | 297317 | [297317-shin-megami-tensei-v-vengeance-demon-subquest-holy-will-and-profane-dissent.json](./297317-shin-megami-tensei-v-vengeance-demon-subquest-holy-will-and-profane-dissent.json) |
@@ -19552,6 +19553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Light | 309727 | [309727-space-light.json](./309727-space-light.json) |
 | Space Lines | 246085 | [246085-space-lines.json](./246085-space-lines.json) |
 | Space Lines: A Puzzle Arcade Game | 200359 | [200359-space-lines-a-puzzle-arcade-game.json](./200359-space-lines-a-puzzle-arcade-game.json) |
+| Space Lines: A Puzzle Arcade Game - Extra Levels! | 238171 | [238171-space-lines-a-puzzle-arcade-game-extra-levels.json](./238171-space-lines-a-puzzle-arcade-game-extra-levels.json) |
 | Space Lines: Ultimate Edition | 245975 | [245975-space-lines-ultimate-edition.json](./245975-space-lines-ultimate-edition.json) |
 | Space Lint | 132423 | [132423-space-lint.json](./132423-space-lint.json) |
 | Space Lords | 182390 | [182390-space-lords.json](./182390-space-lords.json) |
@@ -20174,6 +20176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacelair | 114444 | [114444-spacelair.json](./114444-spacelair.json) |
 | Spaceland: Cooperative | 170524 | [170524-spaceland-cooperative.json](./170524-spaceland-cooperative.json) |
 | Spaceland: Frontier | 195785 | [195785-spaceland-frontier.json](./195785-spaceland-frontier.json) |
+| Spaceland: New Adventures | 238170 | [238170-spaceland-new-adventures.json](./238170-spaceland-new-adventures.json) |
 | Spaceland: Sci-Fi Indie Tactics | 117052 | [117052-spaceland-sci-fi-indie-tactics.json](./117052-spaceland-sci-fi-indie-tactics.json) |
 | Spacelandia | 169599 | [169599-spacelandia.json](./169599-spacelandia.json) |
 | Spacelane Express | 377027 | [377027-spacelane-express.json](./377027-spacelane-express.json) |
