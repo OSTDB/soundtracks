@@ -243,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Classic Collection Vol. 2 | 56389 | [56389-namco-classic-collection-vol-2.json](./56389-namco-classic-collection-vol-2.json) |
 | Namco Classic Fighter Collection | 43282 | [43282-namco-classic-fighter-collection.json](./43282-namco-classic-fighter-collection.json) |
 | Namco Classic II | 48413 | [48413-namco-classic-ii.json](./48413-namco-classic-ii.json) |
+| Namco Classics Vol. 1 | 219430 | [219430-namco-classics-vol-1.json](./219430-namco-classics-vol-1.json) |
 | Namco classics volume 1 | 37331 | [37331-namco-classics-volume-1.json](./37331-namco-classics-volume-1.json) |
 | Namco classics volume 2 | 37328 | [37328-namco-classics-volume-2.json](./37328-namco-classics-volume-2.json) |
 | Namco Collection Vol. 1 | 220251 | [220251-namco-collection-vol-1.json](./220251-namco-collection-vol-1.json) |
@@ -3227,6 +3228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Jersey Transit | 133901 | [133901-new-jersey-transit.json](./133901-new-jersey-transit.json) |
 | New Jinsei Game | 409842 | [409842-new-jinsei-game.json](./409842-new-jinsei-game.json) |
 | New Joe & Mac: Caveman Ninja | 215620 | [215620-new-joe-and-mac-caveman-ninja.json](./215620-new-joe-and-mac-caveman-ninja.json) |
+| New Joe & Mac: Caveman Ninja - T-Rex Edition | 219437 | [219437-new-joe-and-mac-caveman-ninja-t-rex-edition.json](./219437-new-joe-and-mac-caveman-ninja-t-rex-edition.json) |
 | New Journey to the West | 320543 | [320543-new-journey-to-the-west.json](./320543-new-journey-to-the-west.json) |
 | New Kids Nitro Racer | 334419 | [334419-new-kids-nitro-racer.json](./334419-new-kids-nitro-racer.json) |
 | New Kind of Adventure | 35089 | [35089-new-kind-of-adventure.json](./35089-new-kind-of-adventure.json) |
