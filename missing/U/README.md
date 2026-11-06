@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraworld Exodus | 36184 | [36184-ultraworld-exodus.json](./36184-ultraworld-exodus.json) |
 | Ultrazone | 268223 | [268223-ultrazone.json](./268223-ultrazone.json) |
 | Ultreia | 154798 | [154798-ultreia.json](./154798-ultreia.json) |
+| Ultreia: Deluxe Edition | 233869 | [233869-ultreia-deluxe-edition.json](./233869-ultreia-deluxe-edition.json) |
 | Ultreia: Enhanced Edition | 316384 | [316384-ultreia-enhanced-edition.json](./316384-ultreia-enhanced-edition.json) |
 | Ultreïa: Night of the Eclipse | 338594 | [338594-ultreia-night-of-the-eclipse.json](./338594-ultreia-night-of-the-eclipse.json) |
 | Ultris: The Ultimate Tetris | 14520 | [14520-ultris-the-ultimate-tetris.json](./14520-ultris-the-ultimate-tetris.json) |
@@ -1731,6 +1732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnderDread | 24361 | [24361-underdread.json](./24361-underdread.json) |
 | Underdrown | 379949 | [379949-underdrown.json](./379949-underdrown.json) |
 | UnderDungeon | 219525 | [219525-underdungeon.json](./219525-underdungeon.json) |
+| UnderDungeon + Clumsy Rush | 233860 | [233860-underdungeon-clumsy-rush.json](./233860-underdungeon-clumsy-rush.json) |
 | UnderDungeon + Cyber Protocol | 237570 | [237570-underdungeon-cyber-protocol.json](./237570-underdungeon-cyber-protocol.json) |
 | UnderDungeon: Deluxe Edition | 250367 | [250367-underdungeon-deluxe-edition.json](./250367-underdungeon-deluxe-edition.json) |
 | UnderEarth | 35066 | [35066-underearth.json](./35066-underearth.json) |
