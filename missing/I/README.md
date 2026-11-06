@@ -2654,6 +2654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Important things | 412569 | [412569-important-things.json](./412569-important-things.json) |
 | Impossaball | 36859 | [36859-impossaball.json](./36859-impossaball.json) |
 | Impossamole | 12611 | [12611-impossamole.json](./12611-impossamole.json) |
+| Impossiball | 224889 | [224889-impossiball.json](./224889-impossiball.json) |
 | Impossiball | 26641 | [26641-impossiball.json](./26641-impossiball.json) |
 | Impossible | 272198 | [272198-impossible.json](./272198-impossible.json) |
 | Impossible Bottles | 105407 | [105407-impossible-bottles.json](./105407-impossible-bottles.json) |
