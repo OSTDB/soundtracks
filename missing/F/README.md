@@ -1590,6 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family House | 373232 | [373232-family-house.json](./373232-family-house.json) |
 | Family Igo: Super Strong | 83472 | [83472-family-igo-super-strong.json](./83472-family-igo-super-strong.json) |
 | Family in Puzzle House | 261163 | [261163-family-in-puzzle-house.json](./261163-family-in-puzzle-house.json) |
+| Family Is Nothing | 217066 | [217066-family-is-nothing.json](./217066-family-is-nothing.json) |
 | Family Jigsaw Puzzle: Classic Mosaic Puzzles | 255188 | [255188-family-jigsaw-puzzle-classic-mosaic-puzzles.json](./255188-family-jigsaw-puzzle-classic-mosaic-puzzles.json) |
 | Family Jockey | 268128 | [268128-family-jockey.json](./268128-family-jockey.json) |
 | Family Jockey | 63542 | [63542-family-jockey.json](./63542-family-jockey.json) |
@@ -4045,6 +4046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feudalism | 34945 | [34945-feudalism.json](./34945-feudalism.json) |
 | Feudalism II | 234915 | [234915-feudalism-ii.json](./234915-feudalism-ii.json) |
 | Feudalism III | 281586 | [281586-feudalism-iii.json](./281586-feudalism-iii.json) |
+| Feudums | 217086 | [217086-feudums.json](./217086-feudums.json) |
 | Feuerwache: Mission - Leben retten | 81479 | [81479-feuerwache-mission-leben-retten.json](./81479-feuerwache-mission-leben-retten.json) |
 | Feuerwehr 3D | 93448 | [93448-feuerwehr-3d.json](./93448-feuerwehr-3d.json) |
 | Fever | 235588 | [235588-fever.json](./235588-fever.json) |
@@ -4175,6 +4177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field Goal | 172656 | [172656-field-goal.json](./172656-field-goal.json) |
 | Field Goal Contest | 64250 | [64250-field-goal-contest.json](./64250-field-goal-contest.json) |
 | Field Hospital: Dr. Taylor's Story | 135728 | [135728-field-hospital-dr-taylors-story.json](./135728-field-hospital-dr-taylors-story.json) |
+| Field of Arms: Tactics | 217076 | [217076-field-of-arms-tactics.json](./217076-field-of-arms-tactics.json) |
 | Field of Enemies | 374058 | [374058-field-of-enemies.json](./374058-field-of-enemies.json) |
 | Field of Fate | 184622 | [184622-field-of-fate.json](./184622-field-of-fate.json) |
 | Field of Fire | 25616 | [25616-field-of-fire.json](./25616-field-of-fire.json) |
@@ -5994,6 +5997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firebird | 287023 | [287023-firebird.json](./287023-firebird.json) |
 | Firebird - Steam version | 95281 | [95281-firebird-steam-version.json](./95281-firebird-steam-version.json) |
 | Firebird - The Unfinished | 99215 | [99215-firebird-the-unfinished.json](./99215-firebird-the-unfinished.json) |
+| Firebird: Legend of the Crystal Goddesses | 217104 | [217104-firebird-legend-of-the-crystal-goddesses.json](./217104-firebird-legend-of-the-crystal-goddesses.json) |
 | Firebird: Tale of the Stolen Light | 381017 | [381017-firebird-tale-of-the-stolen-light.json](./381017-firebird-tale-of-the-stolen-light.json) |
 | Firebirds | 58422 | [58422-firebirds.json](./58422-firebirds.json) |
 | Fireblaster | 69256 | [69256-fireblaster.json](./69256-fireblaster.json) |
@@ -9283,6 +9287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Footy Ball: Pass Pass Soccer | 246271 | [246271-footy-ball-pass-pass-soccer.json](./246271-footy-ball-pass-pass-soccer.json) |
 | Footy Bash | 271909 | [271909-footy-bash.json](./271909-footy-bash.json) |
 | Footy Fanatic | 79107 | [79107-footy-fanatic.json](./79107-footy-fanatic.json) |
+| Footy Showdown | 217082 | [217082-footy-showdown.json](./217082-footy-showdown.json) |
 | FootyKitDle | 304250 | [304250-footykitdle.json](./304250-footykitdle.json) |
 | Foqus | 46609 | [46609-foqus.json](./46609-foqus.json) |
 | For a Better Country | 121373 | [121373-for-a-better-country.json](./121373-for-a-better-country.json) |
@@ -9467,6 +9472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden Love | 322115 | [322115-forbidden-love.json](./322115-forbidden-love.json) |
 | Forbidden Love | 376871 | [376871-forbidden-love.json](./376871-forbidden-love.json) |
 | Forbidden Magic | 253947 | [253947-forbidden-magic.json](./253947-forbidden-magic.json) |
+| Forbidden Memories | 217089 | [217089-forbidden-memories.json](./217089-forbidden-memories.json) |
 | Forbidden myths | 213544 | [213544-forbidden-myths.json](./213544-forbidden-myths.json) |
 | Forbidden Ninja Scroll: Kunoichi Training | 211766 | [211766-forbidden-ninja-scroll-kunoichi-training.json](./211766-forbidden-ninja-scroll-kunoichi-training.json) |
 | Forbidden Offering | 346737 | [346737-forbidden-offering.json](./346737-forbidden-offering.json) |
