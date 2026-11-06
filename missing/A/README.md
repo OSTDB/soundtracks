@@ -5749,6 +5749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AK-xolotl: Together | 330585 | [330585-ak-xolotl-together.json](./330585-ak-xolotl-together.json) |
 | AK-xolotl: Wars | 336705 | [336705-ak-xolotl-wars.json](./336705-ak-xolotl-wars.json) |
 | Aka | 159823 | [159823-aka.json](./159823-aka.json) |
+| Aka & Blue Type-R | 225453 | [225453-aka-and-blue-type-r.json](./225453-aka-and-blue-type-r.json) |
 | Aka Manto | 121558 | [121558-aka-manto.json](./121558-aka-manto.json) |
 | Aka Ninja VR | 151087 | [151087-aka-ninja-vr.json](./151087-aka-ninja-vr.json) |
 | Aka no Sekai | 151528 | [151528-aka-no-sekai.json](./151528-aka-no-sekai.json) |
