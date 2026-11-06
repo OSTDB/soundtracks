@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Variator | 400703 | [400703-variator.json](./400703-variator.json) |
 | Varicella | 9519 | [9519-varicella.json](./9519-varicella.json) |
 | VariDungeon | 307350 | [307350-varidungeon.json](./307350-varidungeon.json) |
+| Variety Mecha | 196352 | [196352-variety-mecha.json](./196352-variety-mecha.json) |
 | Variety Pack | 332773 | [332773-variety-pack.json](./332773-variety-pack.json) |
 | Varion | 87960 | [87960-varion.json](./87960-varion.json) |
 | Various Daylife | 122319 | [122319-various-daylife.json](./122319-various-daylife.json) |
@@ -1445,6 +1446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venus Looks for Jupiter | 200829 | [200829-venus-looks-for-jupiter.json](./200829-venus-looks-for-jupiter.json) |
 | Venus Meets Venus | 128592 | [128592-venus-meets-venus.json](./128592-venus-meets-venus.json) |
 | Venus One: Galactic Overlords | 253602 | [253602-venus-one-galactic-overlords.json](./253602-venus-one-galactic-overlords.json) |
+| Venus Patrol | 196369 | [196369-venus-patrol.json](./196369-venus-patrol.json) |
 | Venus Project | 60430 | [60430-venus-project.json](./60430-venus-project.json) |
 | Venus Puzzles | 272572 | [272572-venus-puzzles.json](./272572-venus-puzzles.json) |
 | Venus Scrumble | 174734 | [174734-venus-scrumble.json](./174734-venus-scrumble.json) |
