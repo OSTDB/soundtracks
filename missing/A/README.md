@@ -1299,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Technician's Nightmare | 280677 | [280677-a-technicians-nightmare.json](./280677-a-technicians-nightmare.json) |
 | A Tempting Life with My Neighbor | 420679 | [420679-a-tempting-life-with-my-neighbor.json](./420679-a-tempting-life-with-my-neighbor.json) |
 | A Test Before Jianghu | 235278 | [235278-a-test-before-jianghu.json](./235278-a-test-before-jianghu.json) |
+| A Thesis for Truth | 245112 | [245112-a-thesis-for-truth.json](./245112-a-thesis-for-truth.json) |
 | A Thief's Legacy | 52562 | [52562-a-thiefs-legacy.json](./52562-a-thiefs-legacy.json) |
 | A Thief's Quest | 328933 | [328933-a-thiefs-quest.json](./328933-a-thiefs-quest.json) |
 | A Thin Line | 28030 | [28030-a-thin-line.json](./28030-a-thin-line.json) |
@@ -16499,6 +16500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atmocity | 90077 | [90077-atmocity.json](./90077-atmocity.json) |
 | Atmoids | 92833 | [92833-atmoids.json](./92833-atmoids.json) |
 | Atmos | 398400 | [398400-atmos.json](./398400-atmos.json) |
+| Atmos Quake | 245076 | [245076-atmos-quake.json](./245076-atmos-quake.json) |
 | Atmos: Holodeck Training | 124457 | [124457-atmos-holodeck-training.json](./124457-atmos-holodeck-training.json) |
 | Atmosfar | 244677 | [244677-atmosfar.json](./244677-atmosfar.json) |
 | Atmosfear: The Third Dimension | 324940 | [324940-atmosfear-the-third-dimension.json](./324940-atmosfear-the-third-dimension.json) |
