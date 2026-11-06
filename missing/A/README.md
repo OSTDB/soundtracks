@@ -3611,6 +3611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Series | 80367 | [80367-adventure-series.json](./80367-adventure-series.json) |
 | Adventure Sketchers: Draw, Play, Create | 230338 | [230338-adventure-sketchers-draw-play-create.json](./230338-adventure-sketchers-draw-play-create.json) |
 | Adventure Slime | 122073 | [122073-adventure-slime.json](./122073-adventure-slime.json) |
+| Adventure Slots HD: Titan's of Las Vegas Fortune Casino | 232266 | [232266-adventure-slots-hd-titans-of-las-vegas-fortune-casino.json](./232266-adventure-slots-hd-titans-of-las-vegas-fortune-casino.json) |
 | Adventure Smasher | 181168 | [181168-adventure-smasher.json](./181168-adventure-smasher.json) |
 | Adventure Springs Bakery | 414173 | [414173-adventure-springs-bakery.json](./414173-adventure-springs-bakery.json) |
 | Adventure Story | 265404 | [265404-adventure-story.json](./265404-adventure-story.json) |
@@ -9370,6 +9371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel | 299800 | [299800-angel.json](./299800-angel.json) |
 | Angel Adventures | 238403 | [238403-angel-adventures.json](./238403-angel-adventures.json) |
 | Angel and Devil, Ninja, Sushi, Tempura, Panda and the Statue of Liberty | 108389 | [108389-angel-and-devil-ninja-sushi-tempura-panda-and-the-statue-of-liberty.json](./108389-angel-and-devil-ninja-sushi-tempura-panda-and-the-statue-of-liberty.json) |
+| Angel Archer Run: The Lost Temple of Oz | 232264 | [232264-angel-archer-run-the-lost-temple-of-oz.json](./232264-angel-archer-run-the-lost-temple-of-oz.json) |
 | Angel at Dusk | 149805 | [149805-angel-at-dusk.json](./149805-angel-at-dusk.json) |
 | Angel Beats! 1st Beat | 11414 | [11414-angel-beats-1st-beat.json](./11414-angel-beats-1st-beat.json) |
 | Angel Beats! Operation Wars | 125640 | [125640-angel-beats-operation-wars.json](./125640-angel-beats-operation-wars.json) |
