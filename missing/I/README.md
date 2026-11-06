@@ -513,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Spy Mystery | 69891 | [69891-i-spy-mystery.json](./69891-i-spy-mystery.json) |
 | I Spy School Days | 247469 | [247469-i-spy-school-days.json](./247469-i-spy-school-days.json) |
 | I Spy Spooky Mansion | 19844 | [19844-i-spy-spooky-mansion.json](./19844-i-spy-spooky-mansion.json) |
+| I Spy Spooky Mansion | 238835 | [238835-i-spy-spooky-mansion.json](./238835-i-spy-spooky-mansion.json) |
 | I Spy Spooky Mansion Deluxe | 141372 | [141372-i-spy-spooky-mansion-deluxe.json](./141372-i-spy-spooky-mansion-deluxe.json) |
 | I Spy Treasure Hunt | 73852 | [73852-i-spy-treasure-hunt.json](./73852-i-spy-treasure-hunt.json) |
 | I Spy Universe | 47783 | [47783-i-spy-universe.json](./47783-i-spy-universe.json) |
@@ -4639,6 +4640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instead; Ghost Suburb | 280911 | [280911-instead-ghost-suburb.json](./280911-instead-ghost-suburb.json) |
 | Instead: Ghost Suburb | 199979 | [199979-instead-ghost-suburb.json](./199979-instead-ghost-suburb.json) |
 | Instinct | 103041 | [103041-instinct.json](./103041-instinct.json) |
+| Instinct | 238832 | [238832-instinct.json](./238832-instinct.json) |
 | Instinct | 27548 | [27548-instinct.json](./27548-instinct.json) |
 | Instinct | 286509 | [286509-instinct.json](./286509-instinct.json) |
 | Instinct Rush | 117821 | [117821-instinct-rush.json](./117821-instinct-rush.json) |
