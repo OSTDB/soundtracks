@@ -1257,6 +1257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Defenders | 173045 | [173045-last-defenders.json](./173045-last-defenders.json) |
 | Last Defense | 397508 | [397508-last-defense.json](./397508-last-defense.json) |
 | Last Definitive Fantasy | 340897 | [340897-last-definitive-fantasy.json](./340897-last-definitive-fantasy.json) |
+| Last Devil | 194688 | [194688-last-devil.json](./194688-last-devil.json) |
 | Last Dino Standing | 282984 | [282984-last-dino-standing.json](./282984-last-dino-standing.json) |
 | Last Dive: Echo Trench | 405764 | [405764-last-dive-echo-trench.json](./405764-last-dive-echo-trench.json) |
 | Last Dolls | 382318 | [382318-last-dolls.json](./382318-last-dolls.json) |
