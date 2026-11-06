@@ -4438,6 +4438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death End Re;Quest Code Z | 292873 | [292873-death-end-re-quest-code-z.json](./292873-death-end-re-quest-code-z.json) |
 | Death End Re;Quest: Deluxe Bundle | 114010 | [114010-death-end-re-quest-deluxe-bundle.json](./114010-death-end-re-quest-deluxe-bundle.json) |
 | Death End Re;Quest: Dungeon Re;Quest Pack | 223547 | [223547-death-end-re-quest-dungeon-re-quest-pack.json](./223547-death-end-re-quest-dungeon-re-quest-pack.json) |
+| Death end re;Quest: Rook's Traveler Set | 223826 | [223826-death-end-re-quest-rooks-traveler-set.json](./223826-death-end-re-quest-rooks-traveler-set.json) |
 | Death Ephemera | 365951 | [365951-death-ephemera.json](./365951-death-ephemera.json) |
 | Death Escape | 148495 | [148495-death-escape.json](./148495-death-escape.json) |
 | Death Everywhere, So Save Paranoiacally | 397401 | [397401-death-everywhere-so-save-paranoiacally.json](./397401-death-everywhere-so-save-paranoiacally.json) |
@@ -6792,6 +6793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depopulation | 75398 | [75398-depopulation.json](./75398-depopulation.json) |
 | Deported 2: Build That Wall | 112784 | [112784-deported-2-build-that-wall.json](./112784-deported-2-build-that-wall.json) |
 | Deported: Drain the Swamp | 111422 | [111422-deported-drain-the-swamp.json](./111422-deported-drain-the-swamp.json) |
+| Depot Dungeons | 223821 | [223821-depot-dungeons.json](./223821-depot-dungeons.json) |
 | DepotDash | 385363 | [385363-depotdash.json](./385363-depotdash.json) |
 | DepowerBall | 126607 | [126607-depowerball.json](./126607-depowerball.json) |
 | Deppart Prototype | 256802 | [256802-deppart-prototype.json](./256802-deppart-prototype.json) |
@@ -19158,6 +19160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 8: Zhao Yun 'Ibuki' Costume | 306779 | [306779-dynasty-warriors-8-zhao-yun-ibuki-costume.json](./306779-dynasty-warriors-8-zhao-yun-ibuki-costume.json) |
 | Dynasty Warriors 9 Mobile | 116235 | [116235-dynasty-warriors-9-mobile.json](./116235-dynasty-warriors-9-mobile.json) |
 | Dynasty Warriors 9 with Bonus | 90690 | [90690-dynasty-warriors-9-with-bonus.json](./90690-dynasty-warriors-9-with-bonus.json) |
+| Dynasty Warriors 9: Additional Scenarios Pack | 223820 | [223820-dynasty-warriors-9-additional-scenarios-pack.json](./223820-dynasty-warriors-9-additional-scenarios-pack.json) |
 | Dynasty Warriors 9: Complete Edition | 199637 | [199637-dynasty-warriors-9-complete-edition.json](./199637-dynasty-warriors-9-complete-edition.json) |
 | Dynasty Warriors 9: Digital Deluxe Edition | 118662 | [118662-dynasty-warriors-9-digital-deluxe-edition.json](./118662-dynasty-warriors-9-digital-deluxe-edition.json) |
 | Dynasty Warriors 9: Empires | 139126 | [139126-dynasty-warriors-9-empires.json](./139126-dynasty-warriors-9-empires.json) |
