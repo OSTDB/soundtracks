@@ -8882,6 +8882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PJ Masks: Moonlight Heroes | 237649 | [237649-pj-masks-moonlight-heroes.json](./237649-pj-masks-moonlight-heroes.json) |
 | PJ Masks: Time to be a Hero | 137539 | [137539-pj-masks-time-to-be-a-hero.json](./137539-pj-masks-time-to-be-a-hero.json) |
 | Pjsloth1 | 308320 | [308320-pjsloth1.json](./308320-pjsloth1.json) |
+| PK Girls | 231711 | [231711-pk-girls.json](./231711-pk-girls.json) |
 | PK Scramble | 93521 | [93521-pk-scramble.json](./93521-pk-scramble.json) |
 | PK War | 367610 | [367610-pk-war.json](./367610-pk-war.json) |
 | Pk2022 | 188505 | [188505-pk2022.json](./188505-pk2022.json) |
@@ -11018,6 +11019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Eternal X | 233652 | [233652-pokemon-eternal-x.json](./233652-pokemon-eternal-x.json) |
 | Pokémon Evol | 314729 | [314729-pokemon-evol.json](./314729-pokemon-evol.json) |
 | Pokémon Existence | 314730 | [314730-pokemon-existence.json](./314730-pokemon-existence.json) |
+| Pokémon Factory Adventure | 231683 | [231683-pokemon-factory-adventure.json](./231683-pokemon-factory-adventure.json) |
 | Pokémon Fairies | 272077 | [272077-pokemon-fairies.json](./272077-pokemon-fairies.json) |
 | Pokémon Feuergrün Edition | 205126 | [205126-pokemon-feuergrun-edition.json](./205126-pokemon-feuergrun-edition.json) |
 | Pokemon Find The Alphabets | 324527 | [324527-pokemon-find-the-alphabets.json](./324527-pokemon-find-the-alphabets.json) |
@@ -11211,6 +11213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Pinball Generations | 259768 | [259768-pokemon-pinball-generations.json](./259768-pokemon-pinball-generations.json) |
 | Pokémon Pinball Mini | 66030 | [66030-pokemon-pinball-mini.json](./66030-pokemon-pinball-mini.json) |
 | Pokémon Pinball: Ruby & Sapphire | 4069 | [4069-pokemon-pinball-ruby-and-sapphire.json](./4069-pokemon-pinball-ruby-and-sapphire.json) |
+| Pokémon Pink | 231706 | [231706-pokemon-pink.json](./231706-pokemon-pink.json) |
 | Pokémon Pisces Version | 313075 | [313075-pokemon-pisces-version.json](./313075-pokemon-pisces-version.json) |
 | Pokémon Plasma | 415074 | [415074-pokemon-plasma.json](./415074-pokemon-plasma.json) |
 | Pokémon Plastic Pyrite | 409024 | [409024-pokemon-plastic-pyrite.json](./409024-pokemon-plastic-pyrite.json) |
@@ -13079,6 +13082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postmortem Hero | 184111 | [184111-postmortem-hero.json](./184111-postmortem-hero.json) |
 | Postmortem: One must Die | 10715 | [10715-postmortem-one-must-die.json](./10715-postmortem-one-must-die.json) |
 | Postmortem: One Must Die (Extended Cut) | 30257 | [30257-postmortem-one-must-die-extended-cut.json](./30257-postmortem-one-must-die-extended-cut.json) |
+| Postmouse | 231675 | [231675-postmouse.json](./231675-postmouse.json) |
 | PostPet DS: Yumemiru Momo to Fushigi no Pen | 67121 | [67121-postpet-ds-yumemiru-momo-to-fushigi-no-pen.json](./67121-postpet-ds-yumemiru-momo-to-fushigi-no-pen.json) |
 | Postponed | 398301 | [398301-postponed.json](./398301-postponed.json) |
 | PostScriptum | 360043 | [360043-postscriptum.json](./360043-postscriptum.json) |
