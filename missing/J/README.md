@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack | 369658 | [369658-jack.json](./369658-jack.json) |
 | Jack 'n' Hat | 149790 | [149790-jack-n-hat.json](./149790-jack-n-hat.json) |
 | Jack & Bob Remastered | 316308 | [316308-jack-and-bob-remastered.json](./316308-jack-and-bob-remastered.json) |
+| Jack & Detective | 197468 | [197468-jack-and-detective.json](./197468-jack-and-detective.json) |
 | Jack & Detectives: Black Magic Expansion | 364562 | [364562-jack-and-detectives-black-magic-expansion.json](./364562-jack-and-detectives-black-magic-expansion.json) |
 | Jack & the Beanstalk | 284214 | [284214-jack-and-the-beanstalk.json](./284214-jack-and-the-beanstalk.json) |
 | Jack & the Creepy Castle | 68923 | [68923-jack-and-the-creepy-castle.json](./68923-jack-and-the-creepy-castle.json) |
@@ -810,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jason: Coming of Age | 344882 | [344882-jason-coming-of-age.json](./344882-jason-coming-of-age.json) |
 | Jason's Gem | 36916 | [36916-jasons-gem.json](./36916-jasons-gem.json) |
 | Jasper and the City of Lights | 211237 | [211237-jasper-and-the-city-of-lights.json](./211237-jasper-and-the-city-of-lights.json) |
+| Jasper Vice: Legends Untold | 197425 | [197425-jasper-vice-legends-untold.json](./197425-jasper-vice-legends-untold.json) |
 | Jasper! | 92971 | [92971-jasper.json](./92971-jasper.json) |
 | Jasper's Dream | 220044 | [220044-jaspers-dream.json](./220044-jaspers-dream.json) |
 | Jasper's Island | 274978 | [274978-jaspers-island.json](./274978-jaspers-island.json) |
