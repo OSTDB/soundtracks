@@ -1880,6 +1880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABC Search with Me | 198072 | [198072-abc-search-with-me.json](./198072-abc-search-with-me.json) |
 | ABC Search With Me: Adventure Bundle | 199851 | [199851-abc-search-with-me-adventure-bundle.json](./199851-abc-search-with-me-adventure-bundle.json) |
 | ABC Search with Me: Animal Pack | 199885 | [199885-abc-search-with-me-animal-pack.json](./199885-abc-search-with-me-animal-pack.json) |
+| ABC Search With Me: Extended Edition | 199109 | [199109-abc-search-with-me-extended-edition.json](./199109-abc-search-with-me-extended-edition.json) |
 | ABC Search with Me: Food Pack | 199849 | [199849-abc-search-with-me-food-pack.json](./199849-abc-search-with-me-food-pack.json) |
 | ABC Search with Me: Sea Animal Pack | 199850 | [199850-abc-search-with-me-sea-animal-pack.json](./199850-abc-search-with-me-sea-animal-pack.json) |
 | ABC Search with Me: Zodiac Pack | 199848 | [199848-abc-search-with-me-zodiac-pack.json](./199848-abc-search-with-me-zodiac-pack.json) |
@@ -7114,6 +7115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alienxplode | 185272 | [185272-alienxplode.json](./185272-alienxplode.json) |
 | Alienz | 116399 | [116399-alienz.json](./116399-alienz.json) |
 | Alienz! | 338921 | [338921-alienz.json](./338921-alienz.json) |
+| Alienzix | 199162 | [199162-alienzix.json](./199162-alienzix.json) |
 | Alienzix: CyberNet | 330938 | [330938-alienzix-cybernet.json](./330938-alienzix-cybernet.json) |
 | Aliex | 14244 | [14244-aliex.json](./14244-aliex.json) |
 | ALife | 351765 | [351765-alife.json](./351765-alife.json) |
@@ -8208,6 +8210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazething | 154020 | [154020-amazething.json](./154020-amazething.json) |
 | Amazin' George 2 | 187662 | [187662-amazin-george-2.json](./187662-amazin-george-2.json) |
 | Amazin' George 2: Digital Deluxe | 212279 | [212279-amazin-george-2-digital-deluxe.json](./212279-amazin-george-2-digital-deluxe.json) |
+| Amazin' George Remastered | 199176 | [199176-amazin-george-remastered.json](./199176-amazin-george-remastered.json) |
 | Amazin' Lumo | 207895 | [207895-amazin-lumo.json](./207895-amazin-lumo.json) |
 | Amazin' Mage | 270867 | [270867-amazin-mage.json](./270867-amazin-mage.json) |
 | Amazing Adventures Around the World | 15711 | [15711-amazing-adventures-around-the-world.json](./15711-amazing-adventures-around-the-world.json) |
@@ -12378,6 +12381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Galaga '88 | 247421 | [247421-arcade-archives-galaga-88.json](./247421-arcade-archives-galaga-88.json) |
 | Arcade Archives: Galaxian | 227697 | [227697-arcade-archives-galaxian.json](./227697-arcade-archives-galaxian.json) |
 | Arcade Archives: Gangbusters | 340530 | [340530-arcade-archives-gangbusters.json](./340530-arcade-archives-gangbusters.json) |
+| Arcade Archives: Gaplus | 199165 | [199165-arcade-archives-gaplus.json](./199165-arcade-archives-gaplus.json) |
 | Arcade Archives: Gee Bee | 371413 | [371413-arcade-archives-gee-bee.json](./371413-arcade-archives-gee-bee.json) |
 | Arcade Archives: Gemini Wing | 146343 | [146343-arcade-archives-gemini-wing.json](./146343-arcade-archives-gemini-wing.json) |
 | Arcade Archives: Golf | 125054 | [125054-arcade-archives-golf.json](./125054-arcade-archives-golf.json) |
@@ -12635,6 +12639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Xevious | 172432 | [172432-arcade-archives-xevious.json](./172432-arcade-archives-xevious.json) |
 | Arcade Archives: XX Mission | 129194 | [129194-arcade-archives-xx-mission.json](./129194-arcade-archives-xx-mission.json) |
 | Arcade Archives: Yie Ar Kung-Fu | 125660 | [125660-arcade-archives-yie-ar-kung-fu.json](./125660-arcade-archives-yie-ar-kung-fu.json) |
+| Arcade Archives: Youkai Douchuki | 199157 | [199157-arcade-archives-youkai-douchuki.json](./199157-arcade-archives-youkai-douchuki.json) |
 | Arcade Archives: Zero Team | 147098 | [147098-arcade-archives-zero-team.json](./147098-arcade-archives-zero-team.json) |
 | Arcade Archives: Zing Zing Zip | 265707 | [265707-arcade-archives-zing-zing-zip.json](./265707-arcade-archives-zing-zing-zip.json) |
 | Arcade Asteroids | 276526 | [276526-arcade-asteroids.json](./276526-arcade-asteroids.json) |
