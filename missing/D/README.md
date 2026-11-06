@@ -4893,6 +4893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | December 25, 2016 | 266143 | [266143-december-25-2016.json](./266143-december-25-2016.json) |
 | December 3rd | 392758 | [392758-december-3rd.json](./392758-december-3rd.json) |
 | Decending Horror | 325985 | [325985-decending-horror.json](./325985-decending-horror.json) |
+| Decent Checkers | 232812 | [232812-decent-checkers.json](./232812-decent-checkers.json) |
 | Decent Into Sector 32 | 165641 | [165641-decent-into-sector-32.json](./165641-decent-into-sector-32.json) |
 | Decently Bad Tower Defense | 158034 | [158034-decently-bad-tower-defense.json](./158034-decently-bad-tower-defense.json) |
 | Deceptiive Love Ballad The Blasphemer | 386840 | [386840-deceptiive-love-ballad-the-blasphemer.json](./386840-deceptiive-love-ballad-the-blasphemer.json) |
@@ -13758,6 +13759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doubutsurishii SP | 354374 | [354374-doubutsurishii-sp.json](./354374-doubutsurishii-sp.json) |
 | Douche Bag | 51735 | [51735-douche-bag.json](./51735-douche-bag.json) |
 | Douche Defender | 63362 | [63362-douche-defender.json](./63362-douche-defender.json) |
+| Douchebag Life | 232785 | [232785-douchebag-life.json](./232785-douchebag-life.json) |
 | Douchebag Workout 2 | 331814 | [331814-douchebag-workout-2.json](./331814-douchebag-workout-2.json) |
 | Douchebag: Ultimate Bro Pack | 366107 | [366107-douchebag-ultimate-bro-pack.json](./366107-douchebag-ultimate-bro-pack.json) |
 | Doudas Danger | 203625 | [203625-doudas-danger.json](./203625-doudas-danger.json) |
