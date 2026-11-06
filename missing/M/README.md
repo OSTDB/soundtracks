@@ -1376,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Wand | 27326 | [27326-magic-wand.json](./27326-magic-wand.json) |
 | Magic Wand | 311811 | [311811-magic-wand.json](./311811-magic-wand.json) |
 | Magic Wand | 377306 | [377306-magic-wand.json](./377306-magic-wand.json) |
+| Magic War | 201375 | [201375-magic-war.json](./201375-magic-war.json) |
 | Magic War Legends | 410880 | [410880-magic-war-legends.json](./410880-magic-war-legends.json) |
 | Magic Wardrobe | 203818 | [203818-magic-wardrobe.json](./203818-magic-wardrobe.json) |
 | Magic Wars | 254472 | [254472-magic-wars.json](./254472-magic-wars.json) |
@@ -3115,6 +3116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manic Miner Engine | 256206 | [256206-manic-miner-engine.json](./256206-manic-miner-engine.json) |
 | Manic Miner: Neighbours - Allana Truman | 329994 | [329994-manic-miner-neighbours-allana-truman.json](./329994-manic-miner-neighbours-allana-truman.json) |
 | Manic Miner: Super Pre-School Edition | 329992 | [329992-manic-miner-super-pre-school-edition.json](./329992-manic-miner-super-pre-school-edition.json) |
+| Manic Miners | 201343 | [201343-manic-miners.json](./201343-manic-miners.json) |
 | Manic Miners | 31839 | [31839-manic-miners.json](./31839-manic-miners.json) |
 | Manic Monkey Mayhem | 68233 | [68233-manic-monkey-mayhem.json](./68233-manic-monkey-mayhem.json) |
 | Manic Panic Ghosts | 97676 | [97676-manic-panic-ghosts.json](./97676-manic-panic-ghosts.json) |
@@ -5935,7 +5937,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -13391,6 +13392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miraculous: Rise of the Sphinx - Ultimate Edition | 223565 | [223565-miraculous-rise-of-the-sphinx-ultimate-edition.json](./223565-miraculous-rise-of-the-sphinx-ultimate-edition.json) |
 | Miraculum: The Last Revelation | 63927 | [63927-miraculum-the-last-revelation.json](./63927-miraculum-the-last-revelation.json) |
 | Mirador | 116939 | [116939-mirador.json](./116939-mirador.json) |
+| Mirador | 201385 | [201385-mirador.json](./201385-mirador.json) |
 | Mirage | 141409 | [141409-mirage.json](./141409-mirage.json) |
 | Mirage | 247761 | [247761-mirage.json](./247761-mirage.json) |
 | Mirage | 371353 | [371353-mirage.json](./371353-mirage.json) |
@@ -17344,6 +17346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat: Unchained | 1615 | [1615-mortal-kombat-unchained.json](./1615-mortal-kombat-unchained.json) |
 | Mortal Kombat: Warrior Kenshi | 388955 | [388955-mortal-kombat-warrior-kenshi.json](./388955-mortal-kombat-warrior-kenshi.json) |
 | Mortal Manor | 81888 | [81888-mortal-manor.json](./81888-mortal-manor.json) |
+| Mortal Meal | 201387 | [201387-mortal-meal.json](./201387-mortal-meal.json) |
 | Mortal Mechanism | 362225 | [362225-mortal-mechanism.json](./362225-mortal-mechanism.json) |
 | Mortal Mythos: Island of Fairies | 386553 | [386553-mortal-mythos-island-of-fairies.json](./386553-mortal-mythos-island-of-fairies.json) |
 | Mortal Online | 17188 | [17188-mortal-online.json](./17188-mortal-online.json) |
@@ -21465,6 +21468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MySims | 201339 | [201339-mysims.json](./201339-mysims.json) |
 | MySims | 2689 | [2689-mysims.json](./2689-mysims.json) |
 | MySims | 50787 | [50787-mysims.json](./50787-mysims.json) |
+| MySims Agents | 201340 | [201340-mysims-agents.json](./201340-mysims-agents.json) |
 | MySims Agents | 5035 | [5035-mysims-agents.json](./5035-mysims-agents.json) |
 | MySims Camera | 67631 | [67631-mysims-camera.json](./67631-mysims-camera.json) |
 | MySims Collection | 51057 | [51057-mysims-collection.json](./51057-mysims-collection.json) |
