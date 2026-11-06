@@ -5722,6 +5722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resogun: Heroes | 20327 | [20327-resogun-heroes.json](./20327-resogun-heroes.json) |
 | Resolutiion | 121996 | [121996-resolutiion.json](./121996-resolutiion.json) |
 | Resolution 101 | 15355 | [15355-resolution-101.json](./15355-resolution-101.json) |
+| Resonance | 210332 | [210332-resonance.json](./210332-resonance.json) |
 | Resonance | 215322 | [215322-resonance.json](./215322-resonance.json) |
 | Resonance | 276280 | [276280-resonance.json](./276280-resonance.json) |
 | Resonance | 6327 | [6327-resonance.json](./6327-resonance.json) |
