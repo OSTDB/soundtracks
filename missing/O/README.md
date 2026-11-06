@@ -4794,6 +4794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Life: Beginnings & Always - Derek's Story | 216140 | [216140-our-life-beginnings-and-always-dereks-story.json](./216140-our-life-beginnings-and-always-dereks-story.json) |
 | Our Life: Now & Forever | 187392 | [187392-our-life-now-and-forever.json](./187392-our-life-now-and-forever.json) |
 | Our Light Affliction: Spider's Covenant | 408537 | [408537-our-light-affliction-spiders-covenant.json](./408537-our-light-affliction-spiders-covenant.json) |
+| Our Little Chase | 231702 | [231702-our-little-chase.json](./231702-our-little-chase.json) |
 | Our Long Walk Home | 283815 | [283815-our-long-walk-home.json](./283815-our-long-walk-home.json) |
 | Our Love Will Grow | 33946 | [33946-our-love-will-grow.json](./33946-our-love-will-grow.json) |
 | Our Lovely Escape | 111878 | [111878-our-lovely-escape.json](./111878-our-lovely-escape.json) |
