@@ -5864,6 +5864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Eleven Online | 220995 | [220995-winning-eleven-online.json](./220995-winning-eleven-online.json) |
 | Winning Eleven Online 2014 | 220996 | [220996-winning-eleven-online-2014.json](./220996-winning-eleven-online-2014.json) |
 | Winning Eleven Play Maker 2010: Aoki Samurai no Chousen | 268207 | [268207-winning-eleven-play-maker-2010-aoki-samurai-no-chousen.json](./268207-winning-eleven-play-maker-2010-aoki-samurai-no-chousen.json) |
+| Winning Eleven Tactics: European Club Soccer | 221003 | [221003-winning-eleven-tactics-european-club-soccer.json](./221003-winning-eleven-tactics-european-club-soccer.json) |
 | Winning Eleven: Pro Evolution Soccer 2007 | 220951 | [220951-winning-eleven-pro-evolution-soccer-2007.json](./220951-winning-eleven-pro-evolution-soccer-2007.json) |
 | Winning Eleven: Pro Evolution Soccer 2007 | 220952 | [220952-winning-eleven-pro-evolution-soccer-2007.json](./220952-winning-eleven-pro-evolution-soccer-2007.json) |
 | Winning Eleven: Pro Evolution Soccer 2007 | 2484 | [2484-winning-eleven-pro-evolution-soccer-2007.json](./2484-winning-eleven-pro-evolution-soccer-2007.json) |
@@ -8369,6 +8370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Soccer: Winning Eleven 6 International | 72574 | [72574-world-soccer-winning-eleven-6-international.json](./72574-world-soccer-winning-eleven-6-international.json) |
 | World Soccer: Winning Eleven 7 | 77321 | [77321-world-soccer-winning-eleven-7.json](./77321-world-soccer-winning-eleven-7.json) |
 | World Soccer: Winning Eleven 7 International | 936 | [936-world-soccer-winning-eleven-7-international.json](./936-world-soccer-winning-eleven-7-international.json) |
+| World Soccer: Winning Eleven 8 - Liveware Evolution | 220946 | [220946-world-soccer-winning-eleven-8-liveware-evolution.json](./220946-world-soccer-winning-eleven-8-liveware-evolution.json) |
 | World Soccer: Winning Eleven 8 International | 47354 | [47354-world-soccer-winning-eleven-8-international.json](./47354-world-soccer-winning-eleven-8-international.json) |
 | World Soccer: Winning Eleven 9 | 72967 | [72967-world-soccer-winning-eleven-9.json](./72967-world-soccer-winning-eleven-9.json) |
 | World Spin | 260044 | [260044-world-spin.json](./260044-world-spin.json) |
