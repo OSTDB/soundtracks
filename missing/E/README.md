@@ -6719,6 +6719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everchanging | 157153 | [157153-everchanging.json](./157153-everchanging.json) |
 | EverChest: Pamalos Chronicles | 319917 | [319917-everchest-pamalos-chronicles.json](./319917-everchest-pamalos-chronicles.json) |
 | Evercore Heroes: Ascension | 248841 | [248841-evercore-heroes-ascension.json](./248841-evercore-heroes-ascension.json) |
+| EverCrawl | 204657 | [204657-evercrawl.json](./204657-evercrawl.json) |
 | Everdale | 165321 | [165321-everdale.json](./165321-everdale.json) |
 | Everdark Tower | 121744 | [121744-everdark-tower.json](./121744-everdark-tower.json) |
 | Everdark: Undead Apocalypse | 366590 | [366590-everdark-undead-apocalypse.json](./366590-everdark-undead-apocalypse.json) |
