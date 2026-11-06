@@ -6208,6 +6208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Counselor | 301650 | [301650-sex-counselor.json](./301650-sex-counselor.json) |
 | Sex Cruise VR | 417406 | [417406-sex-cruise-vr.json](./417406-sex-cruise-vr.json) |
 | Sex Dating Trip | 187161 | [187161-sex-dating-trip.json](./187161-sex-dating-trip.json) |
+| Sex Diary: A Slutty Anniversary | 193551 | [193551-sex-diary-a-slutty-anniversary.json](./193551-sex-diary-a-slutty-anniversary.json) |
 | Sex Diary: Double Trouble Teacher | 286532 | [286532-sex-diary-double-trouble-teacher.json](./286532-sex-diary-double-trouble-teacher.json) |
 | Sex Diary: Futanari Jail | 286533 | [286533-sex-diary-futanari-jail.json](./286533-sex-diary-futanari-jail.json) |
 | Sex Diary: Futanari Massage | 368094 | [368094-sex-diary-futanari-massage.json](./368094-sex-diary-futanari-massage.json) |
@@ -7153,6 +7154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaky Grounds: Tragedy | 270653 | [270653-shaky-grounds-tragedy.json](./270653-shaky-grounds-tragedy.json) |
 | Shaky Structures | 180811 | [180811-shaky-structures.json](./180811-shaky-structures.json) |
 | Shaky Summit | 80179 | [80179-shaky-summit.json](./80179-shaky-summit.json) |
+| Shale Hill Secrets | 193559 | [193559-shale-hill-secrets.json](./193559-shale-hill-secrets.json) |
 | Shalguy | 373024 | [373024-shalguy.json](./373024-shalguy.json) |
 | Shall we date? Eternal Vows: Love Beyond Time | 221885 | [221885-shall-we-date-eternal-vows-love-beyond-time.json](./221885-shall-we-date-eternal-vows-love-beyond-time.json) |
 | Shall we date? Love Tangle: Finding my Better Half | 225661 | [225661-shall-we-date-love-tangle-finding-my-better-half.json](./225661-shall-we-date-love-tangle-finding-my-better-half.json) |
@@ -10249,6 +10251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigh of the Abyss: Shadow Bonds | 190313 | [190313-sigh-of-the-abyss-shadow-bonds.json](./190313-sigh-of-the-abyss-shadow-bonds.json) |
 | Sighchology Research Lab | 127534 | [127534-sighchology-research-lab.json](./127534-sighchology-research-lab.json) |
 | SIght | 243649 | [243649-sight.json](./243649-sight.json) |
+| Sight and Sound Town | 193570 | [193570-sight-and-sound-town.json](./193570-sight-and-sound-town.json) |
 | Sight Blight | 249726 | [249726-sight-blight.json](./249726-sight-blight.json) |
 | Sight Insomnia | 364381 | [364381-sight-insomnia.json](./364381-sight-insomnia.json) |
 | Sight Of The Victim: Passenger 23 | 335631 | [335631-sight-of-the-victim-passenger-23.json](./335631-sight-of-the-victim-passenger-23.json) |
@@ -15254,6 +15257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Ghost Warrior Contracts 2: Butcher's Banquet | 159362 | [159362-sniper-ghost-warrior-contracts-2-butchers-banquet.json](./159362-sniper-ghost-warrior-contracts-2-butchers-banquet.json) |
 | Sniper Ghost Warrior Contracts 2: Complete Edition | 197352 | [197352-sniper-ghost-warrior-contracts-2-complete-edition.json](./197352-sniper-ghost-warrior-contracts-2-complete-edition.json) |
 | Sniper Ghost Warrior Contracts 2: Deluxe Arsenal Edition | 164690 | [164690-sniper-ghost-warrior-contracts-2-deluxe-arsenal-edition.json](./164690-sniper-ghost-warrior-contracts-2-deluxe-arsenal-edition.json) |
+| Sniper Ghost Warrior Contracts 2: Elite Edition | 193537 | [193537-sniper-ghost-warrior-contracts-2-elite-edition.json](./193537-sniper-ghost-warrior-contracts-2-elite-edition.json) |
 | Sniper Ghost Warrior Contracts: Arsenal Pack | 370318 | [370318-sniper-ghost-warrior-contracts-arsenal-pack.json](./370318-sniper-ghost-warrior-contracts-arsenal-pack.json) |
 | Sniper Ghost Warrior Contracts: Complete Edition | 141649 | [141649-sniper-ghost-warrior-contracts-complete-edition.json](./141649-sniper-ghost-warrior-contracts-complete-edition.json) |
 | Sniper Ghost Warrior Contracts: Full Arsenal Edition | 199639 | [199639-sniper-ghost-warrior-contracts-full-arsenal-edition.json](./199639-sniper-ghost-warrior-contracts-full-arsenal-edition.json) |
@@ -19215,6 +19219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Assault | 42134 | [42134-space-assault.json](./42134-space-assault.json) |
 | Space Assistance | 207573 | [207573-space-assistance.json](./207573-space-assistance.json) |
 | Space Asteroid Shooter | 55649 | [55649-space-asteroid-shooter.json](./55649-space-asteroid-shooter.json) |
+| Space Attack | 193575 | [193575-space-attack.json](./193575-space-attack.json) |
 | Space Attack | 343565 | [343565-space-attack.json](./343565-space-attack.json) |
 | Space Attack | 38573 | [38573-space-attack.json](./38573-space-attack.json) |
 | Space Attack | 66909 | [66909-space-attack.json](./66909-space-attack.json) |
@@ -22179,6 +22184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits Mirror​:​ Digital Possessed | 251348 | [251348-spirits-mirror-digital-possessed.json](./251348-spirits-mirror-digital-possessed.json) |
 | Spirits of Baciu | 313917 | [313917-spirits-of-baciu.json](./313917-spirits-of-baciu.json) |
 | Spirits of Carter Mansion | 189053 | [189053-spirits-of-carter-mansion.json](./189053-spirits-of-carter-mansion.json) |
+| Spirits of Freedom | 193579 | [193579-spirits-of-freedom.json](./193579-spirits-of-freedom.json) |
 | Spirits of Light | 188455 | [188455-spirits-of-light.json](./188455-spirits-of-light.json) |
 | Spirits of Lunara | 383364 | [383364-spirits-of-lunara.json](./383364-spirits-of-lunara.json) |
 | Spirits of Metropolis | 54392 | [54392-spirits-of-metropolis.json](./54392-spirits-of-metropolis.json) |
@@ -24331,6 +24337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Saga: One - Beyond the Boundary | 2894 | [2894-star-saga-one-beyond-the-boundary.json](./2894-star-saga-one-beyond-the-boundary.json) |
 | Star Saga: Two - The Clathran Menace | 57662 | [57662-star-saga-two-the-clathran-menace.json](./57662-star-saga-two-the-clathran-menace.json) |
 | Star Sailors | 378737 | [378737-star-sailors.json](./378737-star-sailors.json) |
+| Star Salvager | 193552 | [193552-star-salvager.json](./193552-star-salvager.json) |
 | Star Saver | 27315 | [27315-star-saver.json](./27315-star-saver.json) |
 | Star Saviors | 17661 | [17661-star-saviors.json](./17661-star-saviors.json) |
 | Star Scandal | 298894 | [298894-star-scandal.json](./298894-star-scandal.json) |
@@ -34307,6 +34314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive - Wilderness Survival | 58795 | [58795-survive-wilderness-survival.json](./58795-survive-wilderness-survival.json) |
 | Survive & Craft | 223520 | [223520-survive-and-craft.json](./223520-survive-and-craft.json) |
 | Survive 10 Minutes Please | 201323 | [201323-survive-10-minutes-please.json](./201323-survive-10-minutes-please.json) |
+| Survive 4 Pleasure | 193554 | [193554-survive-4-pleasure.json](./193554-survive-4-pleasure.json) |
 | Survive after hell | 160068 | [160068-survive-after-hell.json](./160068-survive-after-hell.json) |
 | Survive and Revenge | 236285 | [236285-survive-and-revenge.json](./236285-survive-and-revenge.json) |
 | Survive Another Day | 214106 | [214106-survive-another-day.json](./214106-survive-another-day.json) |
@@ -35880,6 +35888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symploke: Legend of Gustavo Bueno - Chapter 2 | 81159 | [81159-symploke-legend-of-gustavo-bueno-chapter-2.json](./81159-symploke-legend-of-gustavo-bueno-chapter-2.json) |
 | Symploke: Legend of Gustavo Bueno - Chapter 3 | 114303 | [114303-symploke-legend-of-gustavo-bueno-chapter-3.json](./114303-symploke-legend-of-gustavo-bueno-chapter-3.json) |
 | Symposium of Grief | 183385 | [183385-symposium-of-grief.json](./183385-symposium-of-grief.json) |
+| Symptom of Love | 193564 | [193564-symptom-of-love.json](./193564-symptom-of-love.json) |
 | Symptoms of Deceit | 323729 | [323729-symptoms-of-deceit.json](./323729-symptoms-of-deceit.json) |
 | Symptoms of Infection | 406211 | [406211-symptoms-of-infection.json](./406211-symptoms-of-infection.json) |
 | Symulator Farmy 2016 | 380494 | [380494-symulator-farmy-2016.json](./380494-symulator-farmy-2016.json) |
