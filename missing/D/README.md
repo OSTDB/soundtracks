@@ -1360,6 +1360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Atlas: Infernum | 213434 | [213434-dark-atlas-infernum.json](./213434-dark-atlas-infernum.json) |
 | Dark Auction | 264359 | [264359-dark-auction.json](./264359-dark-auction.json) |
 | Dark Avenger | 38510 | [38510-dark-avenger.json](./38510-dark-avenger.json) |
+| Dark Avenger X | 194069 | [194069-dark-avenger-x.json](./194069-dark-avenger-x.json) |
 | Dark Awake: The King Has No Name | 52183 | [52183-dark-awake-the-king-has-no-name.json](./52183-dark-awake-the-king-has-no-name.json) |
 | Dark Bestiary | 117565 | [117565-dark-bestiary.json](./117565-dark-bestiary.json) |
 | Dark Blocks | 167517 | [167517-dark-blocks.json](./167517-dark-blocks.json) |
@@ -3794,6 +3795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Raid | 140516 | [140516-dead-raid.json](./140516-dead-raid.json) |
 | Dead Raid | 249686 | [249686-dead-raid.json](./249686-dead-raid.json) |
 | Dead Rails | 335356 | [335356-dead-rails.json](./335356-dead-rails.json) |
+| Dead Rain 2: Tree Virus | 194087 | [194087-dead-rain-2-tree-virus.json](./194087-dead-rain-2-tree-virus.json) |
 | Dead Rampage | 101996 | [101996-dead-rampage.json](./101996-dead-rampage.json) |
 | Dead Realm | 11596 | [11596-dead-realm.json](./11596-dead-realm.json) |
 | Dead Reckoner | 406220 | [406220-dead-reckoner.json](./406220-dead-reckoner.json) |
@@ -18047,6 +18049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Fellowship | 187776 | [187776-dungeon-fellowship.json](./187776-dungeon-fellowship.json) |
 | Dungeon Fighter Live: Fall of Hendon Myre | 65266 | [65266-dungeon-fighter-live-fall-of-hendon-myre.json](./65266-dungeon-fighter-live-fall-of-hendon-myre.json) |
 | Dungeon Fighter Online | 26606 | [26606-dungeon-fighter-online.json](./26606-dungeon-fighter-online.json) |
+| Dungeon Fighter Online M | 194079 | [194079-dungeon-fighter-online-m.json](./194079-dungeon-fighter-online-m.json) |
 | Dungeon Flowy | 320612 | [320612-dungeon-flowy.json](./320612-dungeon-flowy.json) |
 | Dungeon Forge | 373181 | [373181-dungeon-forge.json](./373181-dungeon-forge.json) |
 | Dungeon Frontier | 130294 | [130294-dungeon-frontier.json](./130294-dungeon-frontier.json) |
@@ -19227,6 +19230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Detective | 249943 | [249943-dynasty-detective.json](./249943-dynasty-detective.json) |
 | Dynasty Feud | 27080 | [27080-dynasty-feud.json](./27080-dynasty-feud.json) |
 | Dynasty Feud: The Night Party | 171406 | [171406-dynasty-feud-the-night-party.json](./171406-dynasty-feud-the-night-party.json) |
+| Dynasty Heroes: Romance Samkok | 194061 | [194061-dynasty-heroes-romance-samkok.json](./194061-dynasty-heroes-romance-samkok.json) |
 | Dynasty Legends: Warriors Unite | 240887 | [240887-dynasty-legends-warriors-unite.json](./240887-dynasty-legends-warriors-unite.json) |
 | Dynasty of Shadows | 251131 | [251131-dynasty-of-shadows.json](./251131-dynasty-of-shadows.json) |
 | Dynasty of the Sands | 128949 | [128949-dynasty-of-the-sands.json](./128949-dynasty-of-the-sands.json) |
