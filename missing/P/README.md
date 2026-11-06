@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Arcade Golf | 311667 | [311667-pac-man-arcade-golf.json](./311667-pac-man-arcade-golf.json) |
 | Pac-Man Arrangement | 178228 | [178228-pac-man-arrangement.json](./178228-pac-man-arrangement.json) |
 | Pac-Man Arrangement | 178408 | [178408-pac-man-arrangement.json](./178408-pac-man-arrangement.json) |
+| Pac-Man Arrangement Plus | 229449 | [229449-pac-man-arrangement-plus.json](./229449-pac-man-arrangement-plus.json) |
 | Pac-Man Battle Royale | 66485 | [66485-pac-man-battle-royale.json](./66485-pac-man-battle-royale.json) |
 | Pac-Man Battle Royale Chompionship | 327012 | [327012-pac-man-battle-royale-chompionship.json](./327012-pac-man-battle-royale-chompionship.json) |
 | Pac-Man Championship Edition | 204672 | [204672-pac-man-championship-edition.json](./204672-pac-man-championship-edition.json) |
@@ -251,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man SuperFast! | 321097 | [321097-pac-man-superfast.json](./321097-pac-man-superfast.json) |
 | Pac-Man Tilt | 219389 | [219389-pac-man-tilt.json](./219389-pac-man-tilt.json) |
 | Pac-Man VR | 65001 | [65001-pac-man-vr.json](./65001-pac-man-vr.json) |
+| Pac-Man Vs. | 229452 | [229452-pac-man-vs.json](./229452-pac-man-vs.json) |
 | Pac-Man Vs. | 4062 | [4062-pac-man-vs.json](./4062-pac-man-vs.json) |
 | Pac-Man vs. & Pac-Man World 2 | 349360 | [349360-pac-man-vs-and-pac-man-world-2.json](./349360-pac-man-vs-and-pac-man-world-2.json) |
 | Pac-Man World | 6530 | [6530-pac-man-world.json](./6530-pac-man-world.json) |
@@ -14009,6 +14011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Bird 6 | 217813 | [217813-pretty-bird-6.json](./217813-pretty-bird-6.json) |
 | Pretty Bird 7 | 222799 | [222799-pretty-bird-7.json](./222799-pretty-bird-7.json) |
 | Pretty Bird 8 | 227114 | [227114-pretty-bird-8.json](./227114-pretty-bird-8.json) |
+| Pretty Bird 9 | 229476 | [229476-pretty-bird-9.json](./229476-pretty-bird-9.json) |
 | Pretty Bubble: Flappy Adventures | 253247 | [253247-pretty-bubble-flappy-adventures.json](./253247-pretty-bubble-flappy-adventures.json) |
 | Pretty Chaser | 269601 | [269601-pretty-chaser.json](./269601-pretty-chaser.json) |
 | Pretty Coo' | 305081 | [305081-pretty-coo.json](./305081-pretty-coo.json) |
