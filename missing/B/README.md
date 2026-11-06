@@ -961,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1990,6 +1991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Band of Crusaders | 339234 | [339234-band-of-crusaders.json](./339234-band-of-crusaders.json) |
 | Band of Defenders | 56110 | [56110-band-of-defenders.json](./56110-band-of-defenders.json) |
 | Band of Drones | 35578 | [35578-band-of-drones.json](./35578-band-of-drones.json) |
+| Band of Mercenaries | 201898 | [201898-band-of-mercenaries.json](./201898-band-of-mercenaries.json) |
 | Band of Monsters | 38950 | [38950-band-of-monsters.json](./38950-band-of-monsters.json) |
 | Band of Outlaws | 54491 | [54491-band-of-outlaws.json](./54491-band-of-outlaws.json) |
 | Band Saga | 60563 | [60563-band-saga.json](./60563-band-saga.json) |
