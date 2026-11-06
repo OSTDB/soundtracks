@@ -3839,6 +3839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -6560,6 +6561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's About the Journey | 121548 | [121548-its-about-the-journey.json](./121548-its-about-the-journey.json) |
 | It's All About the Journey | 176162 | [176162-its-all-about-the-journey.json](./176162-its-all-about-the-journey.json) |
 | It's All Connected | 276654 | [276654-its-all-connected.json](./276654-its-all-connected.json) |
+| It's All In Your Head | 226043 | [226043-its-all-in-your-head.json](./226043-its-all-in-your-head.json) |
 | It's all in your mind | 181394 | [181394-its-all-in-your-mind.json](./181394-its-all-in-your-mind.json) |
 | It's All Over | 353769 | [353769-its-all-over.json](./353769-its-all-over.json) |
 | It's Always Monday | 26222 | [26222-its-always-monday.json](./26222-its-always-monday.json) |
