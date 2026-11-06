@@ -8723,6 +8723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiraha Kirameku Koi Shirabe | 194531 | [194531-shiraha-kirameku-koi-shirabe.json](./194531-shiraha-kirameku-koi-shirabe.json) |
 | Shiraha Kirameku Koi Shirabe | 268335 | [268335-shiraha-kirameku-koi-shirabe.json](./268335-shiraha-kirameku-koi-shirabe.json) |
 | Shirahana no Ori - Hiiro no Kakera 4 | 139109 | [139109-shirahana-no-ori-hiiro-no-kakera-4.json](./139109-shirahana-no-ori-hiiro-no-kakera-4.json) |
+| Shiratsuyu no Kai | 222121 | [222121-shiratsuyu-no-kai.json](./222121-shiratsuyu-no-kai.json) |
 | Shirazu Yama | 196886 | [196886-shirazu-yama.json](./196886-shirazu-yama.json) |
 | Shire Scopes | 255126 | [255126-shire-scopes.json](./255126-shire-scopes.json) |
 | Shiren Monsters: Netsal | 63224 | [63224-shiren-monsters-netsal.json](./63224-shiren-monsters-netsal.json) |
