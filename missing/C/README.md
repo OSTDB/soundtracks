@@ -3460,6 +3460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caster | 9793 | [9793-caster.json](./9793-caster.json) |
 | Caster's Trap | 130339 | [130339-casters-trap.json](./130339-casters-trap.json) |
 | CasterLords | 120116 | [120116-casterlords.json](./120116-casterlords.json) |
+| Castillo: Shattered Mirror | 195850 | [195850-castillo-shattered-mirror.json](./195850-castillo-shattered-mirror.json) |
 | Castillo: Shattered Mirrors | 328846 | [328846-castillo-shattered-mirrors.json](./328846-castillo-shattered-mirrors.json) |
 | Castillo: The Nine Circles | 236082 | [236082-castillo-the-nine-circles.json](./236082-castillo-the-nine-circles.json) |
 | Castillon | 332247 | [332247-castillon.json](./332247-castillon.json) |
@@ -15749,6 +15750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cow Defender | 97441 | [97441-cow-defender.json](./97441-cow-defender.json) |
 | Cow Evolution | 203205 | [203205-cow-evolution.json](./203205-cow-evolution.json) |
 | Cow Girl 2 | 235931 | [235931-cow-girl-2.json](./235931-cow-girl-2.json) |
+| Cow Girls | 195847 | [195847-cow-girls.json](./195847-cow-girls.json) |
 | Cow Girls 3 Stories | 252515 | [252515-cow-girls-3-stories.json](./252515-cow-girls-3-stories.json) |
 | Cow Hunter | 200371 | [200371-cow-hunter.json](./200371-cow-hunter.json) |
 | Cow Life Sim RPG | 281348 | [281348-cow-life-sim-rpg.json](./281348-cow-life-sim-rpg.json) |
@@ -19878,6 +19880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Fables: Twisted Tower | 247419 | [247419-cursed-fables-twisted-tower.json](./247419-cursed-fables-twisted-tower.json) |
 | Cursed Fables: Twisted Tower - Collector's Edition | 236203 | [236203-cursed-fables-twisted-tower-collectors-edition.json](./236203-cursed-fables-twisted-tower-collectors-edition.json) |
 | Cursed Fables: White as Snow | 417775 | [417775-cursed-fables-white-as-snow.json](./417775-cursed-fables-white-as-snow.json) |
+| Cursed Fables: White as Snow - Collector's Edition | 195804 | [195804-cursed-fables-white-as-snow-collectors-edition.json](./195804-cursed-fables-white-as-snow-collectors-edition.json) |
 | Cursed Fates: The Headless Horseman - Collector's Edition | 417777 | [417777-cursed-fates-the-headless-horseman-collectors-edition.json](./417777-cursed-fates-the-headless-horseman-collectors-edition.json) |
 | Cursed Frontier | 374572 | [374572-cursed-frontier.json](./374572-cursed-frontier.json) |
 | Cursed Gem | 129411 | [129411-cursed-gem.json](./129411-cursed-gem.json) |
