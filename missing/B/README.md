@@ -7455,6 +7455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Drug | 192587 | [192587-big-drug.json](./192587-big-drug.json) |
 | Big Drunk Satanic Massacre | 75067 | [75067-big-drunk-satanic-massacre.json](./75067-big-drunk-satanic-massacre.json) |
 | Big Ear Detective | 291897 | [291897-big-ear-detective.json](./291897-big-ear-detective.json) |
+| Big Earth | 205217 | [205217-big-earth.json](./205217-big-earth.json) |
 | Big Entrepreneur | 227373 | [227373-big-entrepreneur.json](./227373-big-entrepreneur.json) |
 | Big Family Games | 51000 | [51000-big-family-games.json](./51000-big-family-games.json) |
 | Big Farm | 77777 | [77777-big-farm.json](./77777-big-farm.json) |
@@ -13919,6 +13920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bourgeois Megawad | 262987 | [262987-bourgeois-megawad.json](./262987-bourgeois-megawad.json) |
 | Boushoku no Gaburion: The Good Eater | 206038 | [206038-boushoku-no-gaburion-the-good-eater.json](./206038-boushoku-no-gaburion-the-good-eater.json) |
 | Bousou! Orient Kyuukou | 91758 | [91758-bousou-orient-kyuukou.json](./91758-bousou-orient-kyuukou.json) |
+| Bout | 205212 | [205212-bout.json](./205212-bout.json) |
 | Boutique Boulevard | 341069 | [341069-boutique-boulevard.json](./341069-boutique-boulevard.json) |
 | Boutique Builder Simulator | 337580 | [337580-boutique-builder-simulator.json](./337580-boutique-builder-simulator.json) |
 | Bovine Battles | 292511 | [292511-bovine-battles.json](./292511-bovine-battles.json) |
@@ -14795,6 +14797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawl | 28092 | [28092-brawl.json](./28092-brawl.json) |
 | Brawl Arena Shooter | 414385 | [414385-brawl-arena-shooter.json](./414385-brawl-arena-shooter.json) |
 | Brawl Arena: Arcade Shooter | 308645 | [308645-brawl-arena-arcade-shooter.json](./308645-brawl-arena-arcade-shooter.json) |
+| Brawl Battles | 205277 | [205277-brawl-battles.json](./205277-brawl-battles.json) |
 | Brawl Bolts | 114743 | [114743-brawl-bolts.json](./114743-brawl-bolts.json) |
 | Brawl Boys | 234354 | [234354-brawl-boys.json](./234354-brawl-boys.json) |
 | Brawl Brothers | 42639 | [42639-brawl-brothers.json](./42639-brawl-brothers.json) |
