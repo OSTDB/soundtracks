@@ -463,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyrie Profile Niffynee | 189996 | [189996-valkyrie-profile-niffynee.json](./189996-valkyrie-profile-niffynee.json) |
 | Valkyrie Profile: Covenant of the Plume | 6579 | [6579-valkyrie-profile-covenant-of-the-plume.json](./6579-valkyrie-profile-covenant-of-the-plume.json) |
 | Valkyrie Profile: Lenneth | 22756 | [22756-valkyrie-profile-lenneth.json](./22756-valkyrie-profile-lenneth.json) |
+| Valkyrie Profile: Lenneth | 229482 | [229482-valkyrie-profile-lenneth.json](./229482-valkyrie-profile-lenneth.json) |
 | Valkyrie Rising: Hordes of Ragnarök | 361860 | [361860-valkyrie-rising-hordes-of-ragnarok.json](./361860-valkyrie-rising-hordes-of-ragnarok.json) |
 | Valkyrie Saga | 280437 | [280437-valkyrie-saga.json](./280437-valkyrie-saga.json) |
 | Valkyrie Spirits | 189991 | [189991-valkyrie-spirits.json](./189991-valkyrie-spirits.json) |
@@ -1228,6 +1229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veinless Property | 144362 | [144362-veinless-property.json](./144362-veinless-property.json) |
 | Veinrider | 377275 | [377275-veinrider.json](./377275-veinrider.json) |
 | Veins | 213467 | [213467-veins.json](./213467-veins.json) |
+| Veins | 229485 | [229485-veins.json](./229485-veins.json) |
 | Veins Like Tapeworms | 300502 | [300502-veins-like-tapeworms.json](./300502-veins-like-tapeworms.json) |
 | Veins of Darkness | 334294 | [334294-veins-of-darkness.json](./334294-veins-of-darkness.json) |
 | Vekarra | 423282 | [423282-vekarra.json](./423282-vekarra.json) |
