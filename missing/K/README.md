@@ -4869,12 +4869,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KnuckleFighter-X | 172691 | [172691-knucklefighter-x.json](./172691-knucklefighter-x.json) |
 | KnuckleFighter-XPlus | 172694 | [172694-knucklefighter-xplus.json](./172694-knucklefighter-xplus.json) |
 | Knuckleheads | 282806 | [282806-knuckleheads.json](./282806-knuckleheads.json) |
+| Knuckles Baseball | 198600 | [198600-knuckles-baseball.json](./198600-knuckles-baseball.json) |
 | Knuckles Generation | 330526 | [330526-knuckles-generation.json](./330526-knuckles-generation.json) |
 | Knuckles Minehunt | 326839 | [326839-knuckles-minehunt.json](./326839-knuckles-minehunt.json) |
+| Knuckles Soccer | 198591 | [198591-knuckles-soccer.json](./198591-knuckles-soccer.json) |
 | Knuckles the Echidna in Sonic the Hedgehog | 129185 | [129185-knuckles-the-echidna-in-sonic-the-hedgehog.json](./129185-knuckles-the-echidna-in-sonic-the-hedgehog.json) |
 | Knuckles the Echidna in Sonic the Hedgehog | 264457 | [264457-knuckles-the-echidna-in-sonic-the-hedgehog.json](./264457-knuckles-the-echidna-in-sonic-the-hedgehog.json) |
 | Knuckles the Echidna in Sonic the Hedgehog 2 | 135370 | [135370-knuckles-the-echidna-in-sonic-the-hedgehog-2.json](./135370-knuckles-the-echidna-in-sonic-the-hedgehog-2.json) |
 | Knuckles The Echidna: Burrow Trouble | 317199 | [317199-knuckles-the-echidna-burrow-trouble.json](./317199-knuckles-the-echidna-burrow-trouble.json) |
+| Knuckles Treasure Hunt | 198594 | [198594-knuckles-treasure-hunt.json](./198594-knuckles-treasure-hunt.json) |
 | Knuckles Treasure Hunt | 325852 | [325852-knuckles-treasure-hunt.json](./325852-knuckles-treasure-hunt.json) |
 | Knuckles' Chaotix | 19762 | [19762-knuckles-chaotix.json](./19762-knuckles-chaotix.json) |
 | Knuckles' Emerald Hunt | 129184 | [129184-knuckles-emerald-hunt.json](./129184-knuckles-emerald-hunt.json) |
