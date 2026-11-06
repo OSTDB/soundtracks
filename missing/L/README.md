@@ -7008,6 +7008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lollipop Chainsaw | 1284 | [1284-lollipop-chainsaw.json](./1284-lollipop-chainsaw.json) |
 | Lollipop Chainsaw RePop: Nintendo Switch 2 Edition | 401101 | [401101-lollipop-chainsaw-repop-nintendo-switch-2-edition.json](./401101-lollipop-chainsaw-repop-nintendo-switch-2-edition.json) |
 | Lollipop Chainsaw: Premium Edition | 268855 | [268855-lollipop-chainsaw-premium-edition.json](./268855-lollipop-chainsaw-premium-edition.json) |
+| Lollipop Land | 230625 | [230625-lollipop-land.json](./230625-lollipop-land.json) |
 | Lollipop: Summer! | 217202 | [217202-lollipop-summer.json](./217202-lollipop-summer.json) |
 | LolliPop: The Best Indie Game | 149496 | [149496-lollipop-the-best-indie-game.json](./149496-lollipop-the-best-indie-game.json) |
 | Lollipop! | 159882 | [159882-lollipop.json](./159882-lollipop.json) |
