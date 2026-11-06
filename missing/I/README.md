@@ -2334,6 +2334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imagine: Teacher - Class Trip | 7938 | [7938-imagine-teacher-class-trip.json](./7938-imagine-teacher-class-trip.json) |
 | Imagine: Zookeeper | 7943 | [7943-imagine-zookeeper.json](./7943-imagine-zookeeper.json) |
 | Imagined Leviathans | 156204 | [156204-imagined-leviathans.json](./156204-imagined-leviathans.json) |
+| Imaginefield 2042 | 219864 | [219864-imaginefield-2042.json](./219864-imaginefield-2042.json) |
 | Imaginext: Battle Castle | 209431 | [209431-imaginext-battle-castle.json](./209431-imaginext-battle-castle.json) |
 | Imaginstruments | 18979 | [18979-imaginstruments.json](./18979-imaginstruments.json) |
 | Imaginytes | 327950 | [327950-imaginytes.json](./327950-imaginytes.json) |
@@ -2430,6 +2431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Farmer: System’s Mandate | 374540 | [374540-immortal-farmer-system-s-mandate.json](./374540-immortal-farmer-system-s-mandate.json) |
 | Immortal Game | 235339 | [235339-immortal-game.json](./235339-immortal-game.json) |
 | Immortal Girl | 128005 | [128005-immortal-girl.json](./128005-immortal-girl.json) |
+| Immortal Guns | 219866 | [219866-immortal-guns.json](./219866-immortal-guns.json) |
 | Immortal Hero | 158209 | [158209-immortal-hero.json](./158209-immortal-hero.json) |
 | Immortal Hero | 194131 | [194131-immortal-hero.json](./194131-immortal-hero.json) |
 | Immortal Heroes | 75712 | [75712-immortal-heroes.json](./75712-immortal-heroes.json) |
@@ -3842,6 +3844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
