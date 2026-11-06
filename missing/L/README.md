@@ -1907,6 +1907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazer Cops | 40539 | [40539-lazer-cops.json](./40539-lazer-cops.json) |
 | Lazer Cycle | 8399 | [8399-lazer-cycle.json](./8399-lazer-cycle.json) |
 | Lazer Force | 53161 | [53161-lazer-force.json](./53161-lazer-force.json) |
+| Lazer League | 245098 | [245098-lazer-league.json](./245098-lazer-league.json) |
 | Lazer Maze | 285056 | [285056-lazer-maze.json](./285056-lazer-maze.json) |
 | Lazer Rush Reloaded | 270994 | [270994-lazer-rush-reloaded.json](./270994-lazer-rush-reloaded.json) |
 | Lazer Tag | 54536 | [54536-lazer-tag.json](./54536-lazer-tag.json) |
@@ -6981,6 +6982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lollipop: Summer! | 217202 | [217202-lollipop-summer.json](./217202-lollipop-summer.json) |
 | LolliPop: The Best Indie Game | 149496 | [149496-lollipop-the-best-indie-game.json](./149496-lollipop-the-best-indie-game.json) |
 | Lollipop! | 159882 | [159882-lollipop.json](./159882-lollipop.json) |
+| Lollipops | 245092 | [245092-lollipops.json](./245092-lollipops.json) |
 | Lolly Joe | 33660 | [33660-lolly-joe.json](./33660-lolly-joe.json) |
 | Lolly Pang VR | 110523 | [110523-lolly-pang-vr.json](./110523-lolly-pang-vr.json) |
 | Lollypop | 9762 | [9762-lollypop.json](./9762-lollypop.json) |
