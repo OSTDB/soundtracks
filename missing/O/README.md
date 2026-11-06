@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obake no Q-Taro: Wan-wan Panic | 215139 | [215139-obake-no-q-taro-wan-wan-panic.json](./215139-obake-no-q-taro-wan-wan-panic.json) |
 | Obakeidoro 2: Chase & Seek | 338107 | [338107-obakeidoro-2-chase-and-seek.json](./338107-obakeidoro-2-chase-and-seek.json) |
 | Obakeidoro!: Castlevania Collaboration Character DLC Bundle | 223806 | [223806-obakeidoro-castlevania-collaboration-character-dlc-bundle.json](./223806-obakeidoro-castlevania-collaboration-character-dlc-bundle.json) |
+| Obakeidoro!: Character DLC Bundle | 238271 | [238271-obakeidoro-character-dlc-bundle.json](./238271-obakeidoro-character-dlc-bundle.json) |
 | Obakeidoro!: Character DLC Bundle 2 | 223807 | [223807-obakeidoro-character-dlc-bundle-2.json](./223807-obakeidoro-character-dlc-bundle-2.json) |
 | Obakeidoro!: Character DLC Bundle 3 | 212616 | [212616-obakeidoro-character-dlc-bundle-3.json](./212616-obakeidoro-character-dlc-bundle-3.json) |
 | Obakenori | 329042 | [329042-obakenori.json](./329042-obakenori.json) |
@@ -2226,6 +2227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Deck Dungeon: Cinder Plains | 163258 | [163258-one-deck-dungeon-cinder-plains.json](./163258-one-deck-dungeon-cinder-plains.json) |
 | One Deck Dungeon: Fanatic | 163253 | [163253-one-deck-dungeon-fanatic.json](./163253-one-deck-dungeon-fanatic.json) |
 | One Deck Dungeon: Forest of Shadows | 163256 | [163256-one-deck-dungeon-forest-of-shadows.json](./163256-one-deck-dungeon-forest-of-shadows.json) |
+| One Deck Dungeon: Forest of Shadows & Abyssal Depths | 238243 | [238243-one-deck-dungeon-forest-of-shadows-and-abyssal-depths.json](./238243-one-deck-dungeon-forest-of-shadows-and-abyssal-depths.json) |
 | One Deck Dungeon: Phoenix's Den | 163252 | [163252-one-deck-dungeon-phoenixs-den.json](./163252-one-deck-dungeon-phoenixs-den.json) |
 | One Deck Dungeon: Phoenix's Den | 163254 | [163254-one-deck-dungeon-phoenixs-den.json](./163254-one-deck-dungeon-phoenixs-den.json) |
 | One Deck Dungeon: Witch | 163259 | [163259-one-deck-dungeon-witch.json](./163259-one-deck-dungeon-witch.json) |
