@@ -5923,6 +5923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Hats | 155880 | [155880-little-hats.json](./155880-little-hats.json) |
 | Little Hawk | 36772 | [36772-little-hawk.json](./36772-little-hawk.json) |
 | Little Hearts | 166833 | [166833-little-hearts.json](./166833-little-hearts.json) |
+| Little Hellions | 214253 | [214253-little-hellions.json](./214253-little-hellions.json) |
 | Little Helper Cafe | 358353 | [358353-little-helper-cafe.json](./358353-little-helper-cafe.json) |
 | Little Helper Cafe: Sugar Cubes | 400167 | [400167-little-helper-cafe-sugar-cubes.json](./400167-little-helper-cafe-sugar-cubes.json) |
 | Little Helper of the House Kitchen | 255050 | [255050-little-helper-of-the-house-kitchen.json](./255050-little-helper-of-the-house-kitchen.json) |
@@ -6858,6 +6859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lofi Waifu Jigsaw | 220401 | [220401-lofi-waifu-jigsaw.json](./220401-lofi-waifu-jigsaw.json) |
 | Lofi Witch Hatch | 407096 | [407096-lofi-witch-hatch.json](./407096-lofi-witch-hatch.json) |
 | Lofi Witch Hatch: Deluxe Edition | 409972 | [409972-lofi-witch-hatch-deluxe-edition.json](./409972-lofi-witch-hatch-deluxe-edition.json) |
+| Lofi: A Year to Fulfill my Dream.mp3 | 214260 | [214260-lofi-a-year-to-fulfill-my-dream-mp3.json](./214260-lofi-a-year-to-fulfill-my-dream-mp3.json) |
 | Lofirunner | 332844 | [332844-lofirunner.json](./332844-lofirunner.json) |
 | Loft is in the air | 315798 | [315798-loft-is-in-the-air.json](./315798-loft-is-in-the-air.json) |
 | Loftia | 252774 | [252774-loftia.json](./252774-loftia.json) |
