@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saber Punks | 152309 | [152309-saber-punks.json](./152309-saber-punks.json) |
 | Saber Rider and the Star Sheriffs | 66399 | [66399-saber-rider-and-the-star-sheriffs.json](./66399-saber-rider-and-the-star-sheriffs.json) |
 | Saber Ship | 213462 | [213462-saber-ship.json](./213462-saber-ship.json) |
+| Saber Slash | 235008 | [235008-saber-slash.json](./235008-saber-slash.json) |
 | Saber Style | 154974 | [154974-saber-style.json](./154974-saber-style.json) |
 | Saber Survivors | 328452 | [328452-saber-survivors.json](./328452-saber-survivors.json) |
 | Saber y Ganar | 294653 | [294653-saber-y-ganar.json](./294653-saber-y-ganar.json) |
@@ -9170,6 +9171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoppigeons | 181749 | [181749-shoppigeons.json](./181749-shoppigeons.json) |
 | Shopping Benfica | 298426 | [298426-shopping-benfica.json](./298426-shopping-benfica.json) |
 | Shopping Cart Defense | 233198 | [233198-shopping-cart-defense.json](./233198-shopping-cart-defense.json) |
+| Shopping Cart Hero | 234985 | [234985-shopping-cart-hero.json](./234985-shopping-cart-hero.json) |
 | Shopping Cart Hero 2 | 388042 | [388042-shopping-cart-hero-2.json](./388042-shopping-cart-hero-2.json) |
 | Shopping Cart Pusher | 414831 | [414831-shopping-cart-pusher.json](./414831-shopping-cart-pusher.json) |
 | Shopping Center Tycoon | 110003 | [110003-shopping-center-tycoon.json](./110003-shopping-center-tycoon.json) |
@@ -18473,6 +18475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Slayers | 145650 | [145650-soul-slayers.json](./145650-soul-slayers.json) |
 | Soul Smith of the Kingdom | 99019 | [99019-soul-smith-of-the-kingdom.json](./99019-soul-smith-of-the-kingdom.json) |
 | Soul Song | 202333 | [202333-soul-song.json](./202333-soul-song.json) |
+| Soul Spa: Hot Aura | 235018 | [235018-soul-spa-hot-aura.json](./235018-soul-spa-hot-aura.json) |
 | Soul Stalker | 235736 | [235736-soul-stalker.json](./235736-soul-stalker.json) |
 | Soul Stealer | 176669 | [176669-soul-stealer.json](./176669-soul-stealer.json) |
 | Soul Stitcher | 270484 | [270484-soul-stitcher.json](./270484-soul-stitcher.json) |
@@ -21889,6 +21892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit: Stallion of the Cimarron - Forever Free | 80314 | [80314-spirit-stallion-of-the-cimarron-forever-free.json](./80314-spirit-stallion-of-the-cimarron-forever-free.json) |
 | Spirit's Embrace | 54219 | [54219-spirits-embrace.json](./54219-spirits-embrace.json) |
 | Spirita Battler | 280375 | [280375-spirita-battler.json](./280375-spirita-battler.json) |
+| SpiritBall Fever | 235014 | [235014-spiritball-fever.json](./235014-spiritball-fever.json) |
 | Spiritbound: The Goddess's Quest | 415183 | [415183-spiritbound-the-goddesss-quest.json](./415183-spiritbound-the-goddesss-quest.json) |
 | Spirited Heart | 61536 | [61536-spirited-heart.json](./61536-spirited-heart.json) |
 | Spirited Heart Deluxe | 17286 | [17286-spirited-heart-deluxe.json](./17286-spirited-heart-deluxe.json) |
@@ -23079,6 +23083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Valley | 200051 | [200051-square-valley.json](./200051-square-valley.json) |
 | Square vs Triangles | 156054 | [156054-square-vs-triangles.json](./156054-square-vs-triangles.json) |
 | Square vs Triangles | 164739 | [164739-square-vs-triangles.json](./164739-square-vs-triangles.json) |
+| Square Wars | 235007 | [235007-square-wars.json](./235007-square-wars.json) |
 | Square Wave | 246779 | [246779-square-wave.json](./246779-square-wave.json) |
 | Square Weapons Dungeon | 122026 | [122026-square-weapons-dungeon.json](./122026-square-weapons-dungeon.json) |
 | Square Word: Back to Work | 260545 | [260545-square-word-back-to-work.json](./260545-square-word-back-to-work.json) |
@@ -23215,6 +23220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squidward Tentacles Jigsaw | 320895 | [320895-squidward-tentacles-jigsaw.json](./320895-squidward-tentacles-jigsaw.json) |
 | Squidward Tractor | 320896 | [320896-squidward-tractor.json](./320896-squidward-tractor.json) |
 | Squidward's Suicide | 164757 | [164757-squidwards-suicide.json](./164757-squidwards-suicide.json) |
+| Squidy Journey | 235023 | [235023-squidy-journey.json](./235023-squidy-journey.json) |
 | Squiggle Drop | 234099 | [234099-squiggle-drop.json](./234099-squiggle-drop.json) |
 | Squigley | 291724 | [291724-squigley.json](./291724-squigley.json) |
 | Squigs | 79750 | [79750-squigs.json](./79750-squigs.json) |
@@ -28168,6 +28174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike of Horror | 112856 | [112856-strike-of-horror.json](./112856-strike-of-horror.json) |
 | Strike of Kings | 56465 | [56465-strike-of-kings.json](./56465-strike-of-kings.json) |
 | Strike of Nations: Empire of Steel | 120238 | [120238-strike-of-nations-empire-of-steel.json](./120238-strike-of-nations-empire-of-steel.json) |
+| Strike Ops | 235011 | [235011-strike-ops.json](./235011-strike-ops.json) |
 | Strike Pack | 409514 | [409514-strike-pack.json](./409514-strike-pack.json) |
 | Strike Point | 44964 | [44964-strike-point.json](./44964-strike-point.json) |
 | Strike Pose | 239618 | [239618-strike-pose.json](./239618-strike-pose.json) |
