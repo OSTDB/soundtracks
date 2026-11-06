@@ -597,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yggdra Unison: Seiken Buyuuden | 67852 | [67852-yggdra-unison-seiken-buyuuden.json](./67852-yggdra-unison-seiken-buyuuden.json) |
 | Yggdrasil | 411786 | [411786-yggdrasil.json](./411786-yggdrasil.json) |
 | Yggdrasil 2: Awakening | 249173 | [249173-yggdrasil-2-awakening.json](./249173-yggdrasil-2-awakening.json) |
+| Yggdrasil Chronicles: A Tale of Cindrivia | 233340 | [233340-yggdrasil-chronicles-a-tale-of-cindrivia.json](./233340-yggdrasil-chronicles-a-tale-of-cindrivia.json) |
 | Yggdrasil Defenders | 358279 | [358279-yggdrasil-defenders.json](./358279-yggdrasil-defenders.json) |
 | Yggdrasil Jigsaw Puzzle | 116825 | [116825-yggdrasil-jigsaw-puzzle.json](./116825-yggdrasil-jigsaw-puzzle.json) |
 | Yggdrasill | 251851 | [251851-yggdrasill.json](./251851-yggdrasill.json) |
@@ -1013,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You and Me | 200348 | [200348-you-and-me.json](./200348-you-and-me.json) |
 | You and Me and Her: A Love Story | 133256 | [133256-you-and-me-and-her-a-love-story.json](./133256-you-and-me-and-her-a-love-story.json) |
 | You and Not You | 134281 | [134281-you-and-not-you.json](./134281-you-and-not-you.json) |
+| You and the Night | 233344 | [233344-you-and-the-night.json](./233344-you-and-the-night.json) |
 | You Are 100k Light Years Away | 252933 | [252933-you-are-100k-light-years-away.json](./252933-you-are-100k-light-years-away.json) |
 | You Are A Bird | 130147 | [130147-you-are-a-bird.json](./130147-you-are-a-bird.json) |
 | You Are A Chat AI | 303124 | [303124-you-are-a-chat-ai.json](./303124-you-are-a-chat-ai.json) |
@@ -1168,6 +1170,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Have to Go to Work | 176421 | [176421-you-have-to-go-to-work.json](./176421-you-have-to-go-to-work.json) |
 | You Have to Play This Game | 167472 | [167472-you-have-to-play-this-game.json](./167472-you-have-to-play-this-game.json) |
 | You Have to Win the Game | 7556 | [7556-you-have-to-win-the-game.json](./7556-you-have-to-win-the-game.json) |
+| You Just Died | 233342 | [233342-you-just-died.json](./233342-you-just-died.json) |
+| You Just Don't Get Stars Like These Back Home | 233346 | [233346-you-just-dont-get-stars-like-these-back-home.json](./233346-you-just-dont-get-stars-like-these-back-home.json) |
 | You Know My Name? | 312507 | [312507-you-know-my-name.json](./312507-you-know-my-name.json) |
 | You Know The Drill | 322212 | [322212-you-know-the-drill.json](./322212-you-know-the-drill.json) |
 | You Know The Drill | 362980 | [362980-you-know-the-drill.json](./362980-you-know-the-drill.json) |
