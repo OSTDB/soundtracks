@@ -1779,6 +1779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanrio Characters Miracle Match: Magical Onigokko | 334648 | [334648-sanrio-characters-miracle-match-magical-onigokko.json](./334648-sanrio-characters-miracle-match-magical-onigokko.json) |
 | Sanrio Characters Picross | 97222 | [97222-sanrio-characters-picross.json](./97222-sanrio-characters-picross.json) |
 | Sanrio Characters x Tetris | 208279 | [208279-sanrio-characters-x-tetris.json](./208279-sanrio-characters-x-tetris.json) |
+| Sanrio Characters: Miracle Match | 204737 | [204737-sanrio-characters-miracle-match.json](./204737-sanrio-characters-miracle-match.json) |
 | Sanrio Cup: Pon-pon Volley | 48639 | [48639-sanrio-cup-pon-pon-volley.json](./48639-sanrio-cup-pon-pon-volley.json) |
 | Sanrio Danshi: Watashi, Koi Wo, Shirimashita | 229031 | [229031-sanrio-danshi-watashi-koi-wo-shirimashita.json](./229031-sanrio-danshi-watashi-koi-wo-shirimashita.json) |
 | Sanrio Kawaii Me Live! | 408855 | [408855-sanrio-kawaii-me-live.json](./408855-sanrio-kawaii-me-live.json) |
@@ -8156,6 +8157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shigatari | 55307 | [55307-shigatari.json](./55307-shigatari.json) |
 | Shigatsu Boujitsu, Hana Kudaru Yoru | 398357 | [398357-shigatsu-boujitsu-hana-kudaru-yoru.json](./398357-shigatsu-boujitsu-hana-kudaru-yoru.json) |
 | Shigatsu Youka | 275642 | [275642-shigatsu-youka.json](./275642-shigatsu-youka.json) |
+| Shigatsubaka-tachi no Utage | 204659 | [204659-shigatsubaka-tachi-no-utage.json](./204659-shigatsubaka-tachi-no-utage.json) |
 | Shigeru Planet | 266869 | [266869-shigeru-planet.json](./266869-shigeru-planet.json) |
 | Shih Ho | 184767 | [184767-shih-ho.json](./184767-shih-ho.json) |
 | Shihori Escape | 125859 | [125859-shihori-escape.json](./125859-shihori-escape.json) |
@@ -20305,6 +20307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceCorn | 35000 | [35000-spacecorn.json](./35000-spacecorn.json) |
 | SpaceCorp: 2025-2300AD | 352297 | [352297-spacecorp-2025-2300ad.json](./352297-spacecorp-2025-2300ad.json) |
 | SpaceCorps XXX | 215180 | [215180-spacecorps-xxx.json](./215180-spacecorps-xxx.json) |
+| Spacecraft | 204652 | [204652-spacecraft.json](./204652-spacecraft.json) |
 | Spacecraft | 55389 | [55389-spacecraft.json](./55389-spacecraft.json) |
 | SpaceCraft | 324574 | [324574-spacecraft.json](./324574-spacecraft.json) |
 | Spacecraft Tactics | 274038 | [274038-spacecraft-tactics.json](./274038-spacecraft-tactics.json) |
@@ -29109,6 +29112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subway Simulator 2025: City Train | 343559 | [343559-subway-simulator-2025-city-train.json](./343559-subway-simulator-2025-city-train.json) |
 | Subway Simulator: Moscow Train | 171903 | [171903-subway-simulator-moscow-train.json](./171903-subway-simulator-moscow-train.json) |
 | Subway Simulator: Underground Train Ride | 253844 | [253844-subway-simulator-underground-train-ride.json](./253844-subway-simulator-underground-train-ride.json) |
+| Subway Skating Surfers 3D | 204649 | [204649-subway-skating-surfers-3d.json](./204649-subway-skating-surfers-3d.json) |
 | Subway Sprint Girl | 328723 | [328723-subway-sprint-girl.json](./328723-subway-sprint-girl.json) |
 | Subway Surfers | 251589 | [251589-subway-surfers.json](./251589-subway-surfers.json) |
 | Subway Surfers 2018 - Pet vs Police | 103450 | [103450-subway-surfers-2018-pet-vs-police.json](./103450-subway-surfers-2018-pet-vs-police.json) |
@@ -30391,6 +30395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Animal Royale: Season 1 | 204882 | [204882-super-animal-royale-season-1.json](./204882-super-animal-royale-season-1.json) |
 | Super Animal Royale: Season 2 | 204883 | [204883-super-animal-royale-season-2.json](./204883-super-animal-royale-season-2.json) |
 | Super Animal Royale: Season 3 | 204884 | [204884-super-animal-royale-season-3.json](./204884-super-animal-royale-season-3.json) |
+| Super Animal Royale: Season 4 | 204741 | [204741-super-animal-royale-season-4.json](./204741-super-animal-royale-season-4.json) |
 | Super Animal Royale: Starter Pack Bundle - Seasons 0-4 | 375198 | [375198-super-animal-royale-starter-pack-bundle-seasons-0-4.json](./375198-super-animal-royale-starter-pack-bundle-seasons-0-4.json) |
 | Super Animal Royale: Starter Pack Bundle - Seasons 5-9 | 375199 | [375199-super-animal-royale-starter-pack-bundle-seasons-5-9.json](./375199-super-animal-royale-starter-pack-bundle-seasons-5-9.json) |
 | Super Animal Soccer | 382536 | [382536-super-animal-soccer.json](./382536-super-animal-soccer.json) |
@@ -35839,6 +35844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synergia: Sunrise | 253393 | [253393-synergia-sunrise.json](./253393-synergia-sunrise.json) |
 | Synergism | 150569 | [150569-synergism.json](./150569-synergism.json) |
 | Synergy | 18818 | [18818-synergy.json](./18818-synergy.json) |
+| Synergy | 204647 | [204647-synergy.json](./204647-synergy.json) |
 | Synergy of Serra | 255644 | [255644-synergy-of-serra.json](./255644-synergy-of-serra.json) |
 | Synergy Strike | 373204 | [373204-synergy-strike.json](./373204-synergy-strike.json) |
 | Synesthesia | 337105 | [337105-synesthesia.json](./337105-synesthesia.json) |
