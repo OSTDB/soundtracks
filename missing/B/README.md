@@ -5646,6 +5646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Sakura: Volleyball Club | 284861 | [284861-beautiful-sakura-volleyball-club.json](./284861-beautiful-sakura-volleyball-club.json) |
 | Beautiful Summer | 367578 | [367578-beautiful-summer.json](./367578-beautiful-summer.json) |
 | Beautiful Ugly | 343375 | [343375-beautiful-ugly.json](./343375-beautiful-ugly.json) |
+| Beautiful Ukraine | 199169 | [199169-beautiful-ukraine.json](./199169-beautiful-ukraine.json) |
 | Beautiful Warrior Hibiki's Captive Violation Days | 82828 | [82828-beautiful-warrior-hibikis-captive-violation-days.json](./82828-beautiful-warrior-hibikis-captive-violation-days.json) |
 | Beautiful World | 133624 | [133624-beautiful-world.json](./133624-beautiful-world.json) |
 | Beautify Day | 117606 | [117606-beautify-day.json](./117606-beautify-day.json) |
@@ -6701,6 +6702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Mayor | 329070 | [329070-best-mayor.json](./329070-best-mayor.json) |
 | Best Miner | 151507 | [151507-best-miner.json](./151507-best-miner.json) |
 | Best Mobile Games 5-in-1 | 400060 | [400060-best-mobile-games-5-in-1.json](./400060-best-mobile-games-5-in-1.json) |
+| Best Month Ever! | 199183 | [199183-best-month-ever.json](./199183-best-month-ever.json) |
 | Best Multiplayer and Co-op 6-in-1 Bundle | 266341 | [266341-best-multiplayer-and-co-op-6-in-1-bundle.json](./266341-best-multiplayer-and-co-op-6-in-1-bundle.json) |
 | Best of Arcade Games | 8664 | [8664-best-of-arcade-games.json](./8664-best-of-arcade-games.json) |
 | Best of Arcade Games DS | 197897 | [197897-best-of-arcade-games-ds.json](./197897-best-of-arcade-games-ds.json) |
@@ -10649,6 +10651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlockMill | 249266 | [249266-blockmill.json](./249266-blockmill.json) |
 | Blocknator | 194993 | [194993-blocknator.json](./194993-blocknator.json) |
 | Blockon | 413789 | [413789-blockon.json](./413789-blockon.json) |
+| BlockOn! | 199150 | [199150-blockon.json](./199150-blockon.json) |
 | Blockor.io | 56443 | [56443-blockor-io.json](./56443-blockor-io.json) |
 | Blockour | 184382 | [184382-blockour.json](./184382-blockour.json) |
 | Blockout | 10208 | [10208-blockout.json](./10208-blockout.json) |
@@ -15189,6 +15192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout Birdie Panic 2 | 278662 | [278662-breakout-birdie-panic-2.json](./278662-breakout-birdie-panic-2.json) |
 | Breakout Birdie Puzzle | 278660 | [278660-breakout-birdie-puzzle.json](./278660-breakout-birdie-puzzle.json) |
 | Breakout Birdie Puzzle 2 | 278659 | [278659-breakout-birdie-puzzle-2.json](./278659-breakout-birdie-puzzle-2.json) |
+| Breakout Bricks | 199167 | [199167-breakout-bricks.json](./199167-breakout-bricks.json) |
 | Breakout Defense | 56207 | [56207-breakout-defense.json](./56207-breakout-defense.json) |
 | Breakout Defense 2 | 77368 | [77368-breakout-defense-2.json](./77368-breakout-defense-2.json) |
 | Breakout Epilepsia | 343286 | [343286-breakout-epilepsia.json](./343286-breakout-epilepsia.json) |
@@ -16127,6 +16131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal Doom: Black Edition | 198656 | [198656-brutal-doom-black-edition.json](./198656-brutal-doom-black-edition.json) |
 | Brutal Doom: Hell on Earth - Starter Pack | 198658 | [198658-brutal-doom-hell-on-earth-starter-pack.json](./198658-brutal-doom-hell-on-earth-starter-pack.json) |
 | Brutal Doom: Kickass Edition | 198660 | [198660-brutal-doom-kickass-edition.json](./198660-brutal-doom-kickass-edition.json) |
+| Brutal Doom: Overpowered | 199156 | [199156-brutal-doom-overpowered.json](./199156-brutal-doom-overpowered.json) |
 | Brutal Doom: Platinum | 198675 | [198675-brutal-doom-platinum.json](./198675-brutal-doom-platinum.json) |
 | Brutal Doom: Power Fantasy | 198662 | [198662-brutal-doom-power-fantasy.json](./198662-brutal-doom-power-fantasy.json) |
 | Brutal Doom: Project Brutality | 198667 | [198667-brutal-doom-project-brutality.json](./198667-brutal-doom-project-brutality.json) |
@@ -17597,6 +17602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Bounce | 347494 | [347494-burger-bounce.json](./347494-burger-bounce.json) |
 | Burger Boy | 66986 | [66986-burger-boy.json](./66986-burger-boy.json) |
 | Burger Break | 206310 | [206310-burger-break.json](./206310-burger-break.json) |
+| Burger Break: Head to Head | 199163 | [199163-burger-break-head-to-head.json](./199163-burger-break-head-to-head.json) |
 | Burger Butt | 216703 | [216703-burger-butt.json](./216703-burger-butt.json) |
 | Burger Cats | 58574 | [58574-burger-cats.json](./58574-burger-cats.json) |
 | Burger Chase | 13826 | [13826-burger-chase.json](./13826-burger-chase.json) |
