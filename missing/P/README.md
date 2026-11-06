@@ -4535,6 +4535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persephone Volumes 1 to 3 | 262274 | [262274-persephone-volumes-1-to-3.json](./262274-persephone-volumes-1-to-3.json) |
 | Perseus | 274767 | [274767-perseus.json](./274767-perseus.json) |
 | Perseus & Andromeda | 24696 | [24696-perseus-and-andromeda.json](./24696-perseus-and-andromeda.json) |
+| Perseus: Titan Slayer | 222042 | [222042-perseus-titan-slayer.json](./222042-perseus-titan-slayer.json) |
 | Persevera | 264685 | [264685-persevera.json](./264685-persevera.json) |
 | Perseverance | 149218 | [149218-perseverance.json](./149218-perseverance.json) |
 | Perseverance: Complete Edition | 233679 | [233679-perseverance-complete-edition.json](./233679-perseverance-complete-edition.json) |
