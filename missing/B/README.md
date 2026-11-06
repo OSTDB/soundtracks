@@ -11588,6 +11588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Orchid: Interactive Story | 222730 | [222730-blue-orchid-interactive-story.json](./222730-blue-orchid-interactive-story.json) |
 | Blue Portals | 219156 | [219156-blue-portals.json](./219156-blue-portals.json) |
 | Blue Powder Grey Smoke | 362429 | [362429-blue-powder-grey-smoke.json](./362429-blue-powder-grey-smoke.json) |
+| Blue Print | 216550 | [216550-blue-print.json](./216550-blue-print.json) |
 | Blue Rabbit | 149975 | [149975-blue-rabbit.json](./149975-blue-rabbit.json) |
 | Blue rabbit a world of shapes and lost colors | 195263 | [195263-blue-rabbit-a-world-of-shapes-and-lost-colors.json](./195263-blue-rabbit-a-world-of-shapes-and-lost-colors.json) |
 | Blue Rabbits Climate Chaos | 286870 | [286870-blue-rabbits-climate-chaos.json](./286870-blue-rabbits-climate-chaos.json) |
