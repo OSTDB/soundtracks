@@ -1856,6 +1856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omnivael: Chronicles of the realm | 274763 | [274763-omnivael-chronicles-of-the-realm.json](./274763-omnivael-chronicles-of-the-realm.json) |
 | Omniwar | 109168 | [109168-omniwar.json](./109168-omniwar.json) |
 | Omnn | 338304 | [338304-omnn.json](./338304-omnn.json) |
+| Omochabako no Kuni no Alice: Wonderful Wonder World | 218782 | [218782-omochabako-no-kuni-no-alice-wonderful-wonder-world.json](./218782-omochabako-no-kuni-no-alice-wonderful-wonder-world.json) |
 | Omochapon | 305080 | [305080-omochapon.json](./305080-omochapon.json) |
 | OmOchim | 415098 | [415098-omochim.json](./415098-omochim.json) |
 | Omoi o Sasageru Otome no Melody | 82496 | [82496-omoi-o-sasageru-otome-no-melody.json](./82496-omoi-o-sasageru-otome-no-melody.json) |
