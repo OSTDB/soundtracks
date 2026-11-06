@@ -3071,6 +3071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teapot Poppers | 146915 | [146915-teapot-poppers.json](./146915-teapot-poppers.json) |
 | Tear and the Library of Labyrinths | 169618 | [169618-tear-and-the-library-of-labyrinths.json](./169618-tear-and-the-library-of-labyrinths.json) |
 | Tear Down the Wall | 93329 | [93329-tear-down-the-wall.json](./93329-tear-down-the-wall.json) |
+| Tear Factory | 217088 | [217088-tear-factory.json](./217088-tear-factory.json) |
 | Tear of Time: Lost Memory | 192783 | [192783-tear-of-time-lost-memory.json](./192783-tear-of-time-lost-memory.json) |
 | Tear of Titans | 199319 | [199319-tear-of-titans.json](./199319-tear-of-titans.json) |
 | Tear Ring Saga | 43872 | [43872-tear-ring-saga.json](./43872-tear-ring-saga.json) |
@@ -12266,6 +12267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Wizard | 106140 | [106140-the-last-wizard.json](./106140-the-last-wizard.json) |
 | The Last Wizard: A Goblin Detective Mystery | 389956 | [389956-the-last-wizard-a-goblin-detective-mystery.json](./389956-the-last-wizard-a-goblin-detective-mystery.json) |
 | The Last Word | 53755 | [53755-the-last-word.json](./53755-the-last-word.json) |
+| The Last World | 217060 | [217060-the-last-world.json](./217060-the-last-world.json) |
 | The Last World | 275821 | [275821-the-last-world.json](./275821-the-last-world.json) |
 | The Last Worlds: Crossed Souls | 374130 | [374130-the-last-worlds-crossed-souls.json](./374130-the-last-worlds-crossed-souls.json) |
 | The Last Wulin | 156148 | [156148-the-last-wulin.json](./156148-the-last-wulin.json) |
