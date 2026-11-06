@@ -13839,6 +13839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futuridium EP | 88752 | [88752-futuridium-ep.json](./88752-futuridium-ep.json) |
 | Futuridium EP Deluxe | 8500 | [8500-futuridium-ep-deluxe.json](./8500-futuridium-ep-deluxe.json) |
 | Futurion | 401204 | [401204-futurion.json](./401204-futurion.json) |
+| Futuructa: Merge the Future | 244008 | [244008-futuructa-merge-the-future.json](./244008-futuructa-merge-the-future.json) |
 | Futurust | 56294 | [56294-futurust.json](./56294-futurust.json) |
 | Futwatch | 69349 | [69349-futwatch.json](./69349-futwatch.json) |
 | Fuu | 393493 | [393493-fuu.json](./393493-fuu.json) |
