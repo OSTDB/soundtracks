@@ -7609,6 +7609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crew: Wild Run Edition | 166227 | [166227-the-crew-wild-run-edition.json](./166227-the-crew-wild-run-edition.json) |
 | The Cricket C | 230301 | [230301-the-cricket-c.json](./230301-the-cricket-c.json) |
 | The Criminal | 383398 | [383398-the-criminal.json](./383398-the-criminal.json) |
+| The Crimping | 238808 | [238808-the-crimping.json](./238808-the-crimping.json) |
 | The Crims | 195999 | [195999-the-crims.json](./195999-the-crims.json) |
 | The Crimson Call | 339211 | [339211-the-crimson-call.json](./339211-the-crimson-call.json) |
 | The Crimson Crown | 15532 | [15532-the-crimson-crown.json](./15532-the-crimson-crown.json) |
@@ -19979,6 +19980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thoru Yamamoto's Mole Hole | 272480 | [272480-thoru-yamamotos-mole-hole.json](./272480-thoru-yamamotos-mole-hole.json) |
 | Those Chosen By God | 122574 | [122574-those-chosen-by-god.json](./122574-those-chosen-by-god.json) |
 | Those Damn Aliens VR | 29937 | [29937-those-damn-aliens-vr.json](./29937-those-damn-aliens-vr.json) |
+| Those Darn Brothers!!! | 238843 | [238843-those-darn-brothers.json](./238843-those-darn-brothers.json) |
 | Those Darn Nipples! | 60979 | [60979-those-darn-nipples.json](./60979-those-darn-nipples.json) |
 | Those Days | 179024 | [179024-those-days.json](./179024-those-days.json) |
 | Those Days | 306209 | [306209-those-days.json](./306209-those-days.json) |
@@ -24141,6 +24143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokimeki Taisen | 191861 | [191861-tokimeki-taisen.json](./191861-tokimeki-taisen.json) |
 | Tokimeter | 322951 | [322951-tokimeter.json](./322951-tokimeter.json) |
 | Tokio | 72164 | [72164-tokio.json](./72164-tokio.json) |
+| Tokio: Tokyo-to Dai 24-ku | 238845 | [238845-tokio-tokyo-to-dai-24-ku.json](./238845-tokio-tokyo-to-dai-24-ku.json) |
 | Tokiros | 348810 | [348810-tokiros.json](./348810-tokiros.json) |
 | Tokki | 220699 | [220699-tokki.json](./220699-tokki.json) |
 | Tokkun Fighting Soccer | 349434 | [349434-tokkun-fighting-soccer.json](./349434-tokkun-fighting-soccer.json) |
@@ -29016,6 +29019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz: A New Era - Andrushivka: Vinnitsa UZ | 162630 | [162630-trainz-a-new-era-andrushivka-vinnitsa-uz.json](./162630-trainz-a-new-era-andrushivka-vinnitsa-uz.json) |
 | Trainz: A New Era - ATSF GP38-2 Santa FE 2 Pack | 162677 | [162677-trainz-a-new-era-atsf-gp38-2-santa-fe-2-pack.json](./162677-trainz-a-new-era-atsf-gp38-2-santa-fe-2-pack.json) |
 | Trainz: A New Era - Avmz Intercity 71 | 162632 | [162632-trainz-a-new-era-avmz-intercity-71.json](./162632-trainz-a-new-era-avmz-intercity-71.json) |
+| Trainz: A New Era - Bidye Traction Railroad | 238817 | [238817-trainz-a-new-era-bidye-traction-railroad.json](./238817-trainz-a-new-era-bidye-traction-railroad.json) |
 | Trainz: A New Era - Blue Comet | 162659 | [162659-trainz-a-new-era-blue-comet.json](./162659-trainz-a-new-era-blue-comet.json) |
 | Trainz: A New Era - BNSF GE Dash-9 44CW Warbonnet | 162686 | [162686-trainz-a-new-era-bnsf-ge-dash-9-44cw-warbonnet.json](./162686-trainz-a-new-era-bnsf-ge-dash-9-44cw-warbonnet.json) |
 | Trainz: A New Era - BNSF GP38-2 Pumpkins 2 Pack | 162636 | [162636-trainz-a-new-era-bnsf-gp38-2-pumpkins-2-pack.json](./162636-trainz-a-new-era-bnsf-gp38-2-pumpkins-2-pack.json) |
@@ -31927,6 +31931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Pug DX | 31698 | [31698-turbo-pug-dx.json](./31698-turbo-pug-dx.json) |
 | Turbo Pulse Race | 310494 | [310494-turbo-pulse-race.json](./310494-turbo-pulse-race.json) |
 | Turbo Racing | 215133 | [215133-turbo-racing.json](./215133-turbo-racing.json) |
+| Turbo Racing | 238801 | [238801-turbo-racing.json](./238801-turbo-racing.json) |
 | Turbo Skiddy Racing | 146848 | [146848-turbo-skiddy-racing.json](./146848-turbo-skiddy-racing.json) |
 | Turbo Sliders | 78299 | [78299-turbo-sliders.json](./78299-turbo-sliders.json) |
 | Turbo Sliders Unlimited | 188595 | [188595-turbo-sliders-unlimited.json](./188595-turbo-sliders-unlimited.json) |
