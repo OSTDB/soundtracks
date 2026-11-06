@@ -7456,6 +7456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharknado: The Video Game | 133675 | [133675-sharknado-the-video-game.json](./133675-sharknado-the-video-game.json) |
 | Sharkphobia | 243653 | [243653-sharkphobia.json](./243653-sharkphobia.json) |
 | Sharks | 239708 | [239708-sharks.json](./239708-sharks.json) |
+| Sharks | 245073 | [245073-sharks.json](./245073-sharks.json) |
 | Sharks | 245132 | [245132-sharks.json](./245132-sharks.json) |
 | Sharks 3D | 328305 | [328305-sharks-3d.json](./328305-sharks-3d.json) |
 | Sharks and Minnows | 340956 | [340956-sharks-and-minnows.json](./340956-sharks-and-minnows.json) |
@@ -9026,6 +9027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Gallery | 18587 | [18587-shooting-gallery.json](./18587-shooting-gallery.json) |
 | Shooting Gallery | 218543 | [218543-shooting-gallery.json](./218543-shooting-gallery.json) |
 | Shooting Gallery | 229910 | [229910-shooting-gallery.json](./229910-shooting-gallery.json) |
+| Shooting Gallery | 245091 | [245091-shooting-gallery.json](./245091-shooting-gallery.json) |
 | Shooting Gallery | 68566 | [68566-shooting-gallery.json](./68566-shooting-gallery.json) |
 | Shooting Gallery for Playdate | 230786 | [230786-shooting-gallery-for-playdate.json](./230786-shooting-gallery-for-playdate.json) |
 | Shooting Gallery Mayhem | 117516 | [117516-shooting-gallery-mayhem.json](./117516-shooting-gallery-mayhem.json) |
@@ -9978,6 +9980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sideway New York | 16273 | [16273-sideway-new-york.json](./16273-sideway-new-york.json) |
 | Sidewinder | 159249 | [159249-sidewinder.json](./159249-sidewinder.json) |
 | Sidewinder | 22558 | [22558-sidewinder.json](./22558-sidewinder.json) |
+| Sidewinder | 245118 | [245118-sidewinder.json](./245118-sidewinder.json) |
 | SideWinder | 12850 | [12850-sidewinder.json](./12850-sidewinder.json) |
 | Sidewinder 2 | 66656 | [66656-sidewinder-2.json](./66656-sidewinder-2.json) |
 | SideWinder II | 12767 | [12767-sidewinder-ii.json](./12767-sidewinder-ii.json) |
@@ -12929,6 +12932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slasher: Origins | 319761 | [319761-slasher-origins.json](./319761-slasher-origins.json) |
 | Slasher's Keep | 76256 | [76256-slashers-keep.json](./76256-slashers-keep.json) |
 | SlasherRPG | 224515 | [224515-slasherrpg.json](./224515-slasherrpg.json) |
+| Slashers | 245088 | [245088-slashers.json](./245088-slashers.json) |
 | Slashers: Great Circus | 220701 | [220701-slashers-great-circus.json](./220701-slashers-great-circus.json) |
 | Slashers: The Power Battle | 61970 | [61970-slashers-the-power-battle.json](./61970-slashers-the-power-battle.json) |
 | Slashes | 276086 | [276086-slashes.json](./276086-slashes.json) |
@@ -16635,6 +16639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sombras | 261304 | [261304-sombras.json](./261304-sombras.json) |
 | Sombras: Negative Frames | 406115 | [406115-sombras-negative-frames.json](./406115-sombras-negative-frames.json) |
 | Sombrero: Spaghetti Western Mayhem | 20758 | [20758-sombrero-spaghetti-western-mayhem.json](./20758-sombrero-spaghetti-western-mayhem.json) |
+| Sombreros | 245094 | [245094-sombreros.json](./245094-sombreros.json) |
 | Sombreros | 68114 | [68114-sombreros.json](./68114-sombreros.json) |
 | Some Assembly Required | 293380 | [293380-some-assembly-required.json](./293380-some-assembly-required.json) |
 | Some Assembly Required | 343827 | [343827-some-assembly-required.json](./343827-some-assembly-required.json) |
@@ -19154,6 +19159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Dragon: Year of the Dragon | 279403 | [279403-space-dragon-year-of-the-dragon.json](./279403-space-dragon-year-of-the-dragon.json) |
 | Space Dragons | 188618 | [188618-space-dragons.json](./188618-space-dragons.json) |
 | Space Dream | 41962 | [41962-space-dream.json](./41962-space-dream.json) |
+| Space Dreams | 245079 | [245079-space-dreams.json](./245079-space-dreams.json) |
 | Space Drifters 2D | 35036 | [35036-space-drifters-2d.json](./35036-space-drifters-2d.json) |
 | Space Drilling Station | 250028 | [250028-space-drilling-station.json](./250028-space-drilling-station.json) |
 | Space Drone | 379311 | [379311-space-drone.json](./379311-space-drone.json) |
@@ -22571,6 +22577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spray Paint Simulator | 322702 | [322702-spray-paint-simulator.json](./322702-spray-paint-simulator.json) |
 | Spray Trace | 422480 | [422480-spray-trace.json](./422480-spray-trace.json) |
 | Spread Eagle Cross the Block! | 144611 | [144611-spread-eagle-cross-the-block.json](./144611-spread-eagle-cross-the-block.json) |
+| Spread Fire | 245081 | [245081-spread-fire.json](./245081-spread-fire.json) |
 | Spread Out! Hold Naar' Havok | 273632 | [273632-spread-out-hold-naar-havok.json](./273632-spread-out-hold-naar-havok.json) |
 | Spread The Love | 369846 | [369846-spread-the-love.json](./369846-spread-the-love.json) |
 | Spread: Transmission | 241387 | [241387-spread-transmission.json](./241387-spread-transmission.json) |
@@ -26947,6 +26954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm of Darkness | 233500 | [233500-storm-of-darkness.json](./233500-storm-of-darkness.json) |
 | Storm of Idigidragon | 58503 | [58503-storm-of-idigidragon.json](./58503-storm-of-idigidragon.json) |
 | Storm of Jigsaw Puzzles | 109654 | [109654-storm-of-jigsaw-puzzles.json](./109654-storm-of-jigsaw-puzzles.json) |
+| Storm Over the Desert | 245095 | [245095-storm-over-the-desert.json](./245095-storm-over-the-desert.json) |
 | Storm over the Pacific | 17420 | [17420-storm-over-the-pacific.json](./17420-storm-over-the-pacific.json) |
 | Storm over Thyrion | 386849 | [386849-storm-over-thyrion.json](./386849-storm-over-thyrion.json) |
 | Storm Racer G | 125823 | [125823-storm-racer-g.json](./125823-storm-racer-g.json) |
@@ -27572,6 +27580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streaq | 175603 | [175603-streaq.json](./175603-streaq.json) |
 | Streatham Hill Stories | 346467 | [346467-streatham-hill-stories.json](./346467-streatham-hill-stories.json) |
 | Strect | 413725 | [413725-strect.json](./413725-strect.json) |
+| Streemerz | 245080 | [245080-streemerz.json](./245080-streemerz.json) |
 | Streemerz | 62522 | [62522-streemerz.json](./62522-streemerz.json) |
 | Streep | 312785 | [312785-streep.json](./312785-streep.json) |
 | Street & Girls | 382285 | [382285-street-and-girls.json](./382285-street-and-girls.json) |
