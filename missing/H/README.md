@@ -9242,6 +9242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homeless Pigeon | 177321 | [177321-homeless-pigeon.json](./177321-homeless-pigeon.json) |
 | Homeless Simulator 2 | 118416 | [118416-homeless-simulator-2.json](./118416-homeless-simulator-2.json) |
 | Homeless Story 2: Police Mayhem | 367919 | [367919-homeless-story-2-police-mayhem.json](./367919-homeless-story-2-police-mayhem.json) |
+| Homeless: Life Simulator | 207987 | [207987-homeless-life-simulator.json](./207987-homeless-life-simulator.json) |
 | Homelessvania | 362999 | [362999-homelessvania.json](./362999-homelessvania.json) |
 | Homemade TCG | 199504 | [199504-homemade-tcg.json](./199504-homemade-tcg.json) |
 | Homeostasis | 389444 | [389444-homeostasis.json](./389444-homeostasis.json) |
