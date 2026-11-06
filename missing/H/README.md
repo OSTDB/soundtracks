@@ -548,6 +548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: 25th Anniversary Update | 277523 | [277523-half-life-25th-anniversary-update.json](./277523-half-life-25th-anniversary-update.json) |
 | Half-Life: Abeyance | 221789 | [221789-half-life-abeyance.json](./221789-half-life-abeyance.json) |
 | Half-Life: Absolute Zero | 168931 | [168931-half-life-absolute-zero.json](./168931-half-life-absolute-zero.json) |
+| Half-Life: Alyx - Levitation | 204648 | [204648-half-life-alyx-levitation.json](./204648-half-life-alyx-levitation.json) |
 | Half-Life: Alyx - Return to Rapture | 395625 | [395625-half-life-alyx-return-to-rapture.json](./395625-half-life-alyx-return-to-rapture.json) |
 | Half-Life: Anti-Climax | 128194 | [128194-half-life-anti-climax.json](./128194-half-life-anti-climax.json) |
 | Half-Life: Before | 30369 | [30369-half-life-before.json](./30369-half-life-before.json) |
@@ -7443,6 +7444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higgs Boson: Puzzle Collection | 344492 | [344492-higgs-boson-puzzle-collection.json](./344492-higgs-boson-puzzle-collection.json) |
 | Higgs Boson: Timed Puzzle | 173238 | [173238-higgs-boson-timed-puzzle.json](./173238-higgs-boson-timed-puzzle.json) |
 | High & Low: Aim! 26 Consecutive Wins! | 151941 | [151941-high-and-low-aim-26-consecutive-wins.json](./151941-high-and-low-aim-26-consecutive-wins.json) |
+| High & Low: The Game - Another World | 204738 | [204738-high-and-low-the-game-another-world.json](./204738-high-and-low-the-game-another-world.json) |
 | High $take$ by Dick Francis | 79887 | [79887-high-take-by-dick-francis.json](./79887-high-take-by-dick-francis.json) |
 | High Above | 336155 | [336155-high-above.json](./336155-high-above.json) |
 | High and Dry | 236116 | [236116-high-and-dry.json](./236116-high-and-dry.json) |
