@@ -2576,6 +2576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date A Live: Rio Reincarnation - Deluxe Edition | 227387 | [227387-date-a-live-rio-reincarnation-deluxe-edition.json](./227387-date-a-live-rio-reincarnation-deluxe-edition.json) |
 | Date A Live: Rio Reincarnation HD - Limited Edition | 96104 | [96104-date-a-live-rio-reincarnation-hd-limited-edition.json](./96104-date-a-live-rio-reincarnation-hd-limited-edition.json) |
 | Date A Live: Spirit Pledge | 125935 | [125935-date-a-live-spirit-pledge.json](./125935-date-a-live-spirit-pledge.json) |
+| Date Ariane Remastered | 202478 | [202478-date-ariane-remastered.json](./202478-date-ariane-remastered.json) |
 | Date Banger | 326191 | [326191-date-banger.json](./326191-date-banger.json) |
 | Date de Blackjack | 401060 | [401060-date-de-blackjack.json](./401060-date-de-blackjack.json) |
 | Date Everything!: Lavish DLC | 345712 | [345712-date-everything-lavish-dlc.json](./345712-date-everything-lavish-dlc.json) |
@@ -6282,6 +6283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Democracy 4: Console Edition | 300737 | [300737-democracy-4-console-edition.json](./300737-democracy-4-console-edition.json) |
 | Democracy 4: Country Pack | 262796 | [262796-democracy-4-country-pack.json](./262796-democracy-4-country-pack.json) |
 | Democracy 4: Event Pack | 242020 | [242020-democracy-4-event-pack.json](./242020-democracy-4-event-pack.json) |
+| Democracy 4: Voting Systems | 202451 | [202451-democracy-4-voting-systems.json](./202451-democracy-4-voting-systems.json) |
 | Democracy Manifest | 410499 | [410499-democracy-manifest.json](./410499-democracy-manifest.json) |
 | Democracy: The Board Game | 232492 | [232492-democracy-the-board-game.json](./232492-democracy-the-board-game.json) |
 | Democratic Socialism Simulator | 131780 | [131780-democratic-socialism-simulator.json](./131780-democratic-socialism-simulator.json) |
@@ -6576,6 +6578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeMonkey | 302122 | [302122-demonkey.json](./302122-demonkey.json) |
 | Demonlisher | 17813 | [17813-demonlisher.json](./17813-demonlisher.json) |
 | Demonlore | 152568 | [152568-demonlore.json](./152568-demonlore.json) |
+| Demonoire | 202456 | [202456-demonoire.json](./202456-demonoire.json) |
 | Demonologist | 241332 | [241332-demonologist.json](./241332-demonologist.json) |
 | Demonology 101 | 281209 | [281209-demonology-101.json](./281209-demonology-101.json) |
 | Demonology: Incubus - Chapter 5 | 319659 | [319659-demonology-incubus-chapter-5.json](./319659-demonology-incubus-chapter-5.json) |
@@ -6597,7 +6600,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demons are coming! | 278160 | [278160-demons-are-coming.json](./278160-demons-are-coming.json) |
 | Demons Are Coming!: Forged in Battle | 362220 | [362220-demons-are-coming-forged-in-battle.json](./362220-demons-are-coming-forged-in-battle.json) |
 | Demons Ate My Neighbors! | 138676 | [138676-demons-ate-my-neighbors.json](./138676-demons-ate-my-neighbors.json) |
+| Demons Crusher | 202450 | [202450-demons-crusher.json](./202450-demons-crusher.json) |
 | Demons Gate | 131425 | [131425-demons-gate.json](./131425-demons-gate.json) |
+| Demons Happened | 202466 | [202466-demons-happened.json](./202466-demons-happened.json) |
 | Demons Infernalize | 243376 | [243376-demons-infernalize.json](./243376-demons-infernalize.json) |
 | Demons Never Lie | 117303 | [117303-demons-never-lie.json](./117303-demons-never-lie.json) |
 | Demons of Asteborg | 142485 | [142485-demons-of-asteborg.json](./142485-demons-of-asteborg.json) |
@@ -17108,6 +17113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunk n Puke | 394135 | [394135-drunk-n-puke.json](./394135-drunk-n-puke.json) |
 | Drunk or Baby | 403622 | [403622-drunk-or-baby.json](./403622-drunk-or-baby.json) |
 | Drunk or Dead | 29830 | [29830-drunk-or-dead.json](./29830-drunk-or-dead.json) |
+| Drunk or Dead 2 | 202447 | [202447-drunk-or-dead-2.json](./202447-drunk-or-dead-2.json) |
 | Drunk or Dead: On the Road | 174495 | [174495-drunk-or-dead-on-the-road.json](./174495-drunk-or-dead-on-the-road.json) |
 | Drunk Puppet | 110354 | [110354-drunk-puppet.json](./110354-drunk-puppet.json) |
 | Drunk ride | 123874 | [123874-drunk-ride.json](./123874-drunk-ride.json) |
