@@ -2642,6 +2642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Corny Maize | 178906 | [178906-haunted-corny-maize.json](./178906-haunted-corny-maize.json) |
 | Haunted Dawn: The Zombie Apocalypse | 150267 | [150267-haunted-dawn-the-zombie-apocalypse.json](./150267-haunted-dawn-the-zombie-apocalypse.json) |
 | Haunted Domains | 54078 | [54078-haunted-domains.json](./54078-haunted-domains.json) |
+| Haunted Dorm | 194085 | [194085-haunted-dorm.json](./194085-haunted-dorm.json) |
 | Haunted Dungeons: Hyakki Castle | 110831 | [110831-haunted-dungeons-hyakki-castle.json](./110831-haunted-dungeons-hyakki-castle.json) |
 | Haunted Elevator | 309914 | [309914-haunted-elevator.json](./309914-haunted-elevator.json) |
 | Haunted Escape: Wrath of Victoria | 62759 | [62759-haunted-escape-wrath-of-victoria.json](./62759-haunted-escape-wrath-of-victoria.json) |
