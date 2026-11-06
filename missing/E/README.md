@@ -3624,6 +3624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ending Way | 189198 | [189198-ending-way.json](./189198-ending-way.json) |
 | Endings | 165668 | [165668-endings.json](./165668-endings.json) |
 | Endix | 396999 | [396999-endix.json](./396999-endix.json) |
+| Endlanders: First Encounter | 210357 | [210357-endlanders-first-encounter.json](./210357-endlanders-first-encounter.json) |
 | Endless | 74796 | [74796-endless.json](./74796-endless.json) |
 | Endless Adventure | 200287 | [200287-endless-adventure.json](./200287-endless-adventure.json) |
 | Endless Ages | 69777 | [69777-endless-ages.json](./69777-endless-ages.json) |
@@ -4922,6 +4923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Error 259 | 285927 | [285927-error-259.json](./285927-error-259.json) |
 | Error 44 | 214443 | [214443-error-44.json](./214443-error-44.json) |
 | Error Codes | 325654 | [325654-error-codes.json](./325654-error-codes.json) |
+| Error Found | 210337 | [210337-error-found.json](./210337-error-found.json) |
 | Error Loop | 329948 | [329948-error-loop.json](./329948-error-loop.json) |
 | Error Map not Found | 253698 | [253698-error-map-not-found.json](./253698-error-map-not-found.json) |
 | Error_Boy.exe | 276255 | [276255-error-boy-exe.json](./276255-error-boy-exe.json) |
