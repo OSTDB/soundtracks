@@ -5703,6 +5703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champion Boxing | 6086 | [6086-champion-boxing.json](./6086-champion-boxing.json) |
 | Champion Cup Goal | 245185 | [245185-champion-cup-goal.json](./245185-champion-cup-goal.json) |
 | Champion Cup Goal 2 | 242220 | [242220-champion-cup-goal-2.json](./242220-champion-cup-goal-2.json) |
+| Champion Dragon Tournament: Z Warriors | 219877 | [219877-champion-dragon-tournament-z-warriors.json](./219877-champion-dragon-tournament-z-warriors.json) |
 | Champion Eleven | 102861 | [102861-champion-eleven.json](./102861-champion-eleven.json) |
 | Champion Golf | 6087 | [6087-champion-golf.json](./6087-champion-golf.json) |
 | Champion Ice Hockey | 6088 | [6088-champion-ice-hockey.json](./6088-champion-ice-hockey.json) |
@@ -9142,6 +9143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Bomber | 39304 | [39304-city-bomber.json](./39304-city-bomber.json) |
 | City Builder | 101595 | [101595-city-builder.json](./101595-city-builder.json) |
 | City Builder | 51045 | [51045-city-builder.json](./51045-city-builder.json) |
+| City Builder 2016: County Mall | 219964 | [219964-city-builder-2016-county-mall.json](./219964-city-builder-2016-county-mall.json) |
 | City Builder Pro | 391239 | [391239-city-builder-pro.json](./391239-city-builder-pro.json) |
 | City Bus | 64846 | [64846-city-bus.json](./64846-city-bus.json) |
 | City Bus Driver Simulator | 215511 | [215511-city-bus-driver-simulator.json](./215511-city-bus-driver-simulator.json) |
