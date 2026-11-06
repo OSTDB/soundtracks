@@ -4168,6 +4168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seal Hunter | 360325 | [360325-seal-hunter.json](./360325-seal-hunter.json) |
 | Seal M | 267580 | [267580-seal-m.json](./267580-seal-m.json) |
 | Seal of Evil | 14586 | [14586-seal-of-evil.json](./14586-seal-of-evil.json) |
+| Seal of Evil | 195294 | [195294-seal-of-evil.json](./195294-seal-of-evil.json) |
 | Seal of Fate | 369855 | [369855-seal-of-fate.json](./369855-seal-of-fate.json) |
 | Seal of Magic | 355186 | [355186-seal-of-magic.json](./355186-seal-of-magic.json) |
 | Seal of Shadows | 410237 | [410237-seal-of-shadows.json](./410237-seal-of-shadows.json) |
@@ -4632,6 +4633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of Great Queens: Old Tower - Collector's Edition | 416508 | [416508-secrets-of-great-queens-old-tower-collectors-edition.json](./416508-secrets-of-great-queens-old-tower-collectors-edition.json) |
 | Secrets of Grindea | 8436 | [8436-secrets-of-grindea.json](./8436-secrets-of-grindea.json) |
 | Secrets of Magic 2: Witches and Wizards | 68599 | [68599-secrets-of-magic-2-witches-and-wizards.json](./68599-secrets-of-magic-2-witches-and-wizards.json) |
+| Secrets of Magic 5: Back to School | 195303 | [195303-secrets-of-magic-5-back-to-school.json](./195303-secrets-of-magic-5-back-to-school.json) |
 | Secrets of Magic: The Book of Spells | 33245 | [33245-secrets-of-magic-the-book-of-spells.json](./33245-secrets-of-magic-the-book-of-spells.json) |
 | Secrets of Magic: The Book of Spells & Secrets of Magic 2: Witches and Wizards - Double Pack | 140915 | [140915-secrets-of-magic-the-book-of-spells-and-secrets-of-magic-2-witches-and-wizards-double-pack.json](./140915-secrets-of-magic-the-book-of-spells-and-secrets-of-magic-2-witches-and-wizards-double-pack.json) |
 | Secrets of Me | 31974 | [31974-secrets-of-me.json](./31974-secrets-of-me.json) |
@@ -9110,6 +9112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooter Buddies | 159530 | [159530-shooter-buddies.json](./159530-shooter-buddies.json) |
 | Shooter Bundle: Ghost Assassin, Hotline, Water Blast, Shadowblade, Yori's Journey | 356823 | [356823-shooter-bundle-ghost-assassin-hotline-water-blast-shadowblade-yoris-journey.json](./356823-shooter-bundle-ghost-assassin-hotline-water-blast-shadowblade-yoris-journey.json) |
 | Shooter Dual Pack I Necromunda: Hired Gun + Space Hulk: Deathwing - Enhanced Edition | 194260 | [194260-shooter-dual-pack-i-necromunda-hired-gun-space-hulk-deathwing-enhanced-edition.json](./194260-shooter-dual-pack-i-necromunda-hired-gun-space-hulk-deathwing-enhanced-edition.json) |
+| Shooter Engine | 195318 | [195318-shooter-engine.json](./195318-shooter-engine.json) |
 | Shooter for Dummies | 166923 | [166923-shooter-for-dummies.json](./166923-shooter-for-dummies.json) |
 | Shooter Game | 107871 | [107871-shooter-game.json](./107871-shooter-game.json) |
 | Shooter League | 191443 | [191443-shooter-league.json](./191443-shooter-league.json) |
@@ -11778,6 +11781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Dots | 99710 | [99710-six-dots.json](./99710-six-dots.json) |
 | Six Ears | 266029 | [266029-six-ears.json](./266029-six-ears.json) |
 | Six F and Six 0 | 151660 | [151660-six-f-and-six-0.json](./151660-six-f-and-six-0.json) |
+| Six Faces: Overpower | 195297 | [195297-six-faces-overpower.json](./195297-six-faces-overpower.json) |
 | Six Feet Under | 31397 | [31397-six-feet-under.json](./31397-six-feet-under.json) |
 | Six Flags Fun Park | 206039 | [206039-six-flags-fun-park.json](./206039-six-flags-fun-park.json) |
 | Six Flags Fun Park | 85164 | [85164-six-flags-fun-park.json](./85164-six-flags-fun-park.json) |
@@ -14196,6 +14200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Cave Action | 391941 | [391941-small-cave-action.json](./391941-small-cave-action.json) |
 | Small Cell | 224657 | [224657-small-cell.json](./224657-small-cell.json) |
 | Small Crystal | 192200 | [192200-small-crystal.json](./192200-small-crystal.json) |
+| Small Dark House Survival | 195286 | [195286-small-dark-house-survival.json](./195286-small-dark-house-survival.json) |
 | Small Demon | 280107 | [280107-small-demon.json](./280107-small-demon.json) |
 | Small Dragon Big Appetite | 340360 | [340360-small-dragon-big-appetite.json](./340360-small-dragon-big-appetite.json) |
 | Small Hero Survive | 301624 | [301624-small-hero-survive.json](./301624-small-hero-survive.json) |
@@ -16119,6 +16124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sojourner | 54901 | [54901-sojourner.json](./54901-sojourner.json) |
 | SojournVR | 74259 | [74259-sojournvr.json](./74259-sojournvr.json) |
 | Sok Max | 82364 | [82364-sok-max.json](./82364-sok-max.json) |
+| Sok Max Pro | 195307 | [195307-sok-max-pro.json](./195307-sok-max-pro.json) |
 | Sok Min | 96888 | [96888-sok-min.json](./96888-sok-min.json) |
 | Sok Min: Pro | 196129 | [196129-sok-min-pro.json](./196129-sok-min-pro.json) |
 | Sok Pro | 139622 | [139622-sok-pro.json](./139622-sok-pro.json) |
@@ -24222,6 +24228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Periphery | 354202 | [354202-star-periphery.json](./354202-star-periphery.json) |
 | Star Phantom | 136240 | [136240-star-phantom.json](./136240-star-phantom.json) |
 | Star Phoenix | 30469 | [30469-star-phoenix.json](./30469-star-phoenix.json) |
+| Star Pilot | 195295 | [195295-star-pilot.json](./195295-star-pilot.json) |
 | Star Pilot | 72613 | [72613-star-pilot.json](./72613-star-pilot.json) |
 | Star Pixie | 153938 | [153938-star-pixie.json](./153938-star-pixie.json) |
 | Star Plantation | 56213 | [56213-star-plantation.json](./56213-star-plantation.json) |
@@ -29059,6 +29066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submarine Survivor | 318350 | [318350-submarine-survivor.json](./318350-submarine-survivor.json) |
 | Submarine Terror | 269205 | [269205-submarine-terror.json](./269205-submarine-terror.json) |
 | Submarine Titans | 93354 | [93354-submarine-titans.json](./93354-submarine-titans.json) |
+| Submarine war | 195296 | [195296-submarine-war.json](./195296-submarine-war.json) |
 | Submarine War | 154007 | [154007-submarine-war.json](./154007-submarine-war.json) |
 | Submarine Wars | 198651 | [198651-submarine-wars.json](./198651-submarine-wars.json) |
 | SubmarineCraft | 113183 | [113183-submarinecraft.json](./113183-submarinecraft.json) |
@@ -30083,6 +30091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumtune | 236399 | [236399-sumtune.json](./236399-sumtune.json) |
 | Sumy Shelltris: Iceblocks 1 | 197388 | [197388-sumy-shelltris-iceblocks-1.json](./197388-sumy-shelltris-iceblocks-1.json) |
 | Sumy Shelltris: Iceblocks 2 | 181055 | [181055-sumy-shelltris-iceblocks-2.json](./181055-sumy-shelltris-iceblocks-2.json) |
+| Sumy Shelltris: Iceblocks 3 | 195302 | [195302-sumy-shelltris-iceblocks-3.json](./195302-sumy-shelltris-iceblocks-3.json) |
 | Sun Breed | 264037 | [264037-sun-breed.json](./264037-sun-breed.json) |
 | Sun City | 310176 | [310176-sun-city.json](./310176-sun-city.json) |
 | Sun Down | 238583 | [238583-sun-down.json](./238583-sun-down.json) |
@@ -34543,6 +34552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Striker: The Way of Sushido | 37179 | [37179-sushi-striker-the-way-of-sushido.json](./37179-sushi-striker-the-way-of-sushido.json) |
 | Sushi Supply Co. | 145308 | [145308-sushi-supply-co.json](./145308-sushi-supply-co.json) |
 | Sushi Surf: Endless Run Fun | 196592 | [196592-sushi-surf-endless-run-fun.json](./196592-sushi-surf-endless-run-fun.json) |
+| Sushi the Cat | 195333 | [195333-sushi-the-cat.json](./195333-sushi-the-cat.json) |
 | Sushi Time | 10426 | [10426-sushi-time.json](./10426-sushi-time.json) |
 | Sushi Time! | 115985 | [115985-sushi-time.json](./115985-sushi-time.json) |
 | Sushi Time!: Complete Edition | 199840 | [199840-sushi-time-complete-edition.json](./199840-sushi-time-complete-edition.json) |
