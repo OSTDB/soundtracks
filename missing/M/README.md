@@ -4995,6 +4995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Blaster | 268078 | [268078-master-blaster.json](./268078-master-blaster.json) |
 | Master Blaster | 292779 | [292779-master-blaster.json](./292779-master-blaster.json) |
 | Master Blaster VR | 149851 | [149851-master-blaster-vr.json](./149851-master-blaster-vr.json) |
+| Master Blaze | 242869 | [242869-master-blaze.json](./242869-master-blaze.json) |
 | Master Boy | 172352 | [172352-master-boy.json](./172352-master-boy.json) |
 | Master Break | 177553 | [177553-master-break.json](./177553-master-break.json) |
 | Master Builder | 18579 | [18579-master-builder.json](./18579-master-builder.json) |
@@ -5854,6 +5855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -14085,6 +14087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB The Show 21: Jackie Robinson Edition | 146034 | [146034-mlb-the-show-21-jackie-robinson-edition.json](./146034-mlb-the-show-21-jackie-robinson-edition.json) |
 | MLB The Show 22: Digital Deluxe Edition | 196514 | [196514-mlb-the-show-22-digital-deluxe-edition.json](./196514-mlb-the-show-22-digital-deluxe-edition.json) |
 | MLB The Show 22: MVP Edition | 196516 | [196516-mlb-the-show-22-mvp-edition.json](./196516-mlb-the-show-22-mvp-edition.json) |
+| MLB The Show 23: The Captain Edition | 242888 | [242888-mlb-the-show-23-the-captain-edition.json](./242888-mlb-the-show-23-the-captain-edition.json) |
 | MLB The Show 24: Digital Deluxe Edition | 286200 | [286200-mlb-the-show-24-digital-deluxe-edition.json](./286200-mlb-the-show-24-digital-deluxe-edition.json) |
 | MLB The Show 24: MVP Edition | 286201 | [286201-mlb-the-show-24-mvp-edition.json](./286201-mlb-the-show-24-mvp-edition.json) |
 | MLB The Show 25 | 329844 | [329844-mlb-the-show-25.json](./329844-mlb-the-show-25.json) |
