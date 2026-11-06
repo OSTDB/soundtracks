@@ -3631,6 +3631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Blade HD: Limited Edition | 166279 | [166279-ghost-blade-hd-limited-edition.json](./166279-ghost-blade-hd-limited-edition.json) |
 | Ghost Blast | 250562 | [250562-ghost-blast.json](./250562-ghost-blast.json) |
 | Ghost Blast | 335775 | [335775-ghost-blast.json](./335775-ghost-blast.json) |
+| Ghost Blitz | 239413 | [239413-ghost-blitz.json](./239413-ghost-blitz.json) |
 | Ghost Blood | 165152 | [165152-ghost-blood.json](./165152-ghost-blood.json) |
 | Ghost Blood | 391320 | [391320-ghost-blood.json](./391320-ghost-blood.json) |
 | Ghost Bros | 224236 | [224236-ghost-bros.json](./224236-ghost-bros.json) |
@@ -11358,6 +11359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyroscope | 13866 | [13866-gyroscope.json](./13866-gyroscope.json) |
 | GyroSphere Trials | 52264 | [52264-gyrosphere-trials.json](./52264-gyrosphere-trials.json) |
 | Gyrostarr | 21791 | [21791-gyrostarr.json](./21791-gyrostarr.json) |
+| Gyrotate | 239415 | [239415-gyrotate.json](./239415-gyrotate.json) |
 | Gyrotechnics | 315404 | [315404-gyrotechnics.json](./315404-gyrotechnics.json) |
 | Gyruss | 12308 | [12308-gyruss.json](./12308-gyruss.json) |
 | Gyruss | 281033 | [281033-gyruss.json](./281033-gyruss.json) |
