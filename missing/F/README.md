@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.O.X.: Flame of Xenocide | 196546 | [196546-f-o-x-flame-of-xenocide.json](./196546-f-o-x-flame-of-xenocide.json) |
 | F.R.A.G.G. | 306809 | [306809-f-r-a-g-g.json](./306809-f-r-a-g-g.json) |
 | F.R.A.X: Blackout | 403127 | [403127-f-r-a-x-blackout.json](./403127-f-r-a-x-blackout.json) |
+| F.R.O.G.: Frantic Rush of Green | 209578 | [209578-f-r-o-g-frantic-rush-of-green.json](./209578-f-r-o-g-frantic-rush-of-green.json) |
 | F.U.B.A.R | 149243 | [149243-f-u-b-a-r.json](./149243-f-u-b-a-r.json) |
 | F*ck Stalin | 286056 | [286056-f-ck-stalin.json](./286056-f-ck-stalin.json) |
 | F*ck the HELL out | 337150 | [337150-f-ck-the-hell-out.json](./337150-f-ck-the-hell-out.json) |
@@ -862,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falcon 3.0: Hornet - Naval Strike Fighter | 78024 | [78024-falcon-3-0-hornet-naval-strike-fighter.json](./78024-falcon-3-0-hornet-naval-strike-fighter.json) |
 | Falcon 3.0: MiG-29 | 85897 | [85897-falcon-3-0-mig-29.json](./85897-falcon-3-0-mig-29.json) |
 | Falcon 4.0 | 33853 | [33853-falcon-4-0.json](./33853-falcon-4-0.json) |
+| Falcon 4.0 Gold: Operation Infinite Resolve | 209241 | [209241-falcon-4-0-gold-operation-infinite-resolve.json](./209241-falcon-4-0-gold-operation-infinite-resolve.json) |
 | Falcon 4.0: Allied Force | 695 | [695-falcon-4-0-allied-force.json](./695-falcon-4-0-allied-force.json) |
 | Falcon Age | 107212 | [107212-falcon-age.json](./107212-falcon-age.json) |
 | Falcon Beertender | 198148 | [198148-falcon-beertender.json](./198148-falcon-beertender.json) |
@@ -1555,6 +1557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Feud Cartridge #2 | 203239 | [203239-family-feud-cartridge-2.json](./203239-family-feud-cartridge-2.json) |
 | Family Feud Cartridge #3 | 198738 | [198738-family-feud-cartridge-3.json](./198738-family-feud-cartridge-3.json) |
 | Family Feud HD | 90067 | [90067-family-feud-hd.json](./90067-family-feud-hd.json) |
+| Family Feud II | 209244 | [209244-family-feud-ii.json](./209244-family-feud-ii.json) |
 | Family Feud Live! | 91127 | [91127-family-feud-live.json](./91127-family-feud-live.json) |
 | Family Feud: 2010 Edition | 324085 | [324085-family-feud-2010-edition.json](./324085-family-feud-2010-edition.json) |
 | Family Feud: 2012 Edition | 6678 | [6678-family-feud-2012-edition.json](./6678-family-feud-2012-edition.json) |
@@ -12084,9 +12087,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fritz Chess 13 | 25054 | [25054-fritz-chess-13.json](./25054-fritz-chess-13.json) |
 | Fritz Chess 14 | 17050 | [17050-fritz-chess-14.json](./17050-fritz-chess-14.json) |
 | Fritz Chess 17 Steam Edition | 162708 | [162708-fritz-chess-17-steam-edition.json](./162708-fritz-chess-17-steam-edition.json) |
+| Fritz Chess Twelfth Edition | 209576 | [209576-fritz-chess-twelfth-edition.json](./209576-fritz-chess-twelfth-edition.json) |
+| Fritz Chess: Grandmaster 11 | 209573 | [209573-fritz-chess-grandmaster-11.json](./209573-fritz-chess-grandmaster-11.json) |
+| Fritz Chess: Grandmaster Challenge III | 209574 | [209574-fritz-chess-grandmaster-challenge-iii.json](./209574-fritz-chess-grandmaster-challenge-iii.json) |
 | Fritz for Fun 13 | 17949 | [17949-fritz-for-fun-13.json](./17949-fritz-for-fun-13.json) |
 | Fritz Mobile | 60385 | [60385-fritz-mobile.json](./60385-fritz-mobile.json) |
 | Fritz: Don't Call Me a Chess Bot | 251396 | [251396-fritz-dont-call-me-a-chess-bot.json](./251396-fritz-dont-call-me-a-chess-bot.json) |
+| Fritz: Grandmaster Challenge | 209577 | [209577-fritz-grandmaster-challenge.json](./209577-fritz-grandmaster-challenge.json) |
 | Fritz: Your Chess Coach | 262648 | [262648-fritz-your-chess-coach.json](./262648-fritz-your-chess-coach.json) |
 | Fritz&Chesster: learn to play chess Vol. 1 - Edition 2023 | 249044 | [249044-fritz-and-chesster-learn-to-play-chess-vol-1-edition-2023.json](./249044-fritz-and-chesster-learn-to-play-chess-vol-1-edition-2023.json) |
 | FritzChess 15 | 33899 | [33899-fritzchess-15.json](./33899-fritzchess-15.json) |
@@ -12148,6 +12155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Fractions | 18723 | [18723-frog-fractions.json](./18723-frog-fractions.json) |
 | Frog Fractions: Game of the Decade Edition | 129299 | [129299-frog-fractions-game-of-the-decade-edition.json](./129299-frog-fractions-game-of-the-decade-edition.json) |
 | Frog Frenzy | 87707 | [87707-frog-frenzy.json](./87707-frog-frenzy.json) |
+| Frog Frenzy 2 | 209579 | [209579-frog-frenzy-2.json](./209579-frog-frenzy-2.json) |
 | Frog Galaxy Survivor | 314734 | [314734-frog-galaxy-survivor.json](./314734-frog-galaxy-survivor.json) |
 | Frog Game for You | 227908 | [227908-frog-game-for-you.json](./227908-frog-game-for-you.json) |
 | Frog Gift | 229261 | [229261-frog-gift.json](./229261-frog-gift.json) |
@@ -12256,6 +12264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger | 341890 | [341890-frogger.json](./341890-frogger.json) |
 | Frogger | 6795 | [6795-frogger.json](./6795-frogger.json) |
 | Frogger 2 | 111559 | [111559-frogger-2.json](./111559-frogger-2.json) |
+| Frogger 2 | 209575 | [209575-frogger-2.json](./209575-frogger-2.json) |
 | Frogger 2 Remake | 335157 | [335157-frogger-2-remake.json](./335157-frogger-2-remake.json) |
 | Frogger 2: Swampy's Revenge | 11466 | [11466-frogger-2-swampys-revenge.json](./11466-frogger-2-swampys-revenge.json) |
 | Frogger 3D | 6772 | [6772-frogger-3d.json](./6772-frogger-3d.json) |
@@ -12500,6 +12509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Page Sports: Baseball Pro '98 | 100133 | [100133-front-page-sports-baseball-pro-98.json](./100133-front-page-sports-baseball-pro-98.json) |
 | Front Page Sports: Football Pro '95 | 77041 | [77041-front-page-sports-football-pro-95.json](./77041-front-page-sports-football-pro-95.json) |
 | Front Page Sports: Golf | 71046 | [71046-front-page-sports-golf.json](./71046-front-page-sports-golf.json) |
+| Front Page Sports: Golf - Black Diamond Ranch | 209581 | [209581-front-page-sports-golf-black-diamond-ranch.json](./209581-front-page-sports-golf-black-diamond-ranch.json) |
 | Front Page Sports: Ski Racing | 63115 | [63115-front-page-sports-ski-racing.json](./63115-front-page-sports-ski-racing.json) |
 | Front Page Sports: Trophy Bass 2 - Northern Lakes | 68963 | [68963-front-page-sports-trophy-bass-2-northern-lakes.json](./68963-front-page-sports-trophy-bass-2-northern-lakes.json) |
 | Front Page Sports: Trophy Rivers | 69872 | [69872-front-page-sports-trophy-rivers.json](./69872-front-page-sports-trophy-rivers.json) |
@@ -12795,6 +12805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Language Opinions | 128637 | [128637-fruit-language-opinions.json](./128637-fruit-language-opinions.json) |
 | Fruit Legacy | 192217 | [192217-fruit-legacy.json](./192217-fruit-legacy.json) |
 | Fruit Link Go 3 | 89585 | [89585-fruit-link-go-3.json](./89585-fruit-link-go-3.json) |
+| Fruit Lockers 2: The Enchanting Island | 209582 | [209582-fruit-lockers-2-the-enchanting-island.json](./209582-fruit-lockers-2-the-enchanting-island.json) |
 | Fruit Lockers Reborn! 2 | 114318 | [114318-fruit-lockers-reborn-2.json](./114318-fruit-lockers-reborn-2.json) |
 | Fruit Logic | 233923 | [233923-fruit-logic.json](./233923-fruit-logic.json) |
 | Fruit Loops | 271999 | [271999-fruit-loops.json](./271999-fruit-loops.json) |
@@ -13922,6 +13933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Classics: 1986 Edition | 61840 | [61840-future-classics-1986-edition.json](./61840-future-classics-1986-edition.json) |
 | Future Cop: LAPD | 11235 | [11235-future-cop-lapd.json](./11235-future-cop-lapd.json) |
 | Future Daoshi | 226565 | [226565-future-daoshi.json](./226565-future-daoshi.json) |
+| Future Fight | 209583 | [209583-future-fight.json](./209583-future-fight.json) |
 | Future Fighter | 304139 | [304139-future-fighter.json](./304139-future-fighter.json) |
 | Future Flappy | 89290 | [89290-future-flappy.json](./89290-future-flappy.json) |
 | Future Flash | 280952 | [280952-future-flash.json](./280952-future-flash.json) |
