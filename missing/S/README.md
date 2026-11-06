@@ -13304,6 +13304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepy Squares | 243726 | [243726-sleepy-squares.json](./243726-sleepy-squares.json) |
 | Sleepy Sunday | 152834 | [152834-sleepy-sunday.json](./152834-sleepy-sunday.json) |
 | Sleepy Time Jack: Digital Talking Body Pillow | 259116 | [259116-sleepy-time-jack-digital-talking-body-pillow.json](./259116-sleepy-time-jack-digital-talking-body-pillow.json) |
+| Sleepytime Village | 212013 | [212013-sleepytime-village.json](./212013-sleepytime-village.json) |
 | Sleeve Shock | 257956 | [257956-sleeve-shock.json](./257956-sleeve-shock.json) |
 | Sleigh Strikers | 279257 | [279257-sleigh-strikers.json](./279257-sleigh-strikers.json) |
 | Sleigher | 244810 | [244810-sleigher.json](./244810-sleigher.json) |
@@ -18589,6 +18590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Shuffler | 326786 | [326786-soul-shuffler.json](./326786-soul-shuffler.json) |
 | Soul Sipper | 307632 | [307632-soul-sipper.json](./307632-soul-sipper.json) |
 | Soul Slasher | 353781 | [353781-soul-slasher.json](./353781-soul-slasher.json) |
+| Soul Slayer | 212007 | [212007-soul-slayer.json](./212007-soul-slayer.json) |
 | Soul Slayers | 145650 | [145650-soul-slayers.json](./145650-soul-slayers.json) |
 | Soul Smith of the Kingdom | 99019 | [99019-soul-smith-of-the-kingdom.json](./99019-soul-smith-of-the-kingdom.json) |
 | Soul Song | 202333 | [202333-soul-song.json](./202333-soul-song.json) |
@@ -20435,6 +20437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacewar | 181938 | [181938-spacewar.json](./181938-spacewar.json) |
 | SpacewAR Uprising | 101415 | [101415-spacewar-uprising.json](./101415-spacewar-uprising.json) |
 | Spacewar! | 11301 | [11301-spacewar.json](./11301-spacewar.json) |
+| Spaceward Cosmic Conflict | 212021 | [212021-spaceward-cosmic-conflict.json](./212021-spaceward-cosmic-conflict.json) |
 | Spaceward Ho! | 47296 | [47296-spaceward-ho.json](./47296-spaceward-ho.json) |
 | Spaceward Ho! IV | 79700 | [79700-spaceward-ho-iv.json](./79700-spaceward-ho-iv.json) |
 | Spacewars: Interstellar Empire | 57758 | [57758-spacewars-interstellar-empire.json](./57758-spacewars-interstellar-empire.json) |
@@ -21287,6 +21290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellmeister | 391767 | [391767-spellmeister.json](./391767-spellmeister.json) |
 | Spellomancer | 335343 | [335343-spellomancer.json](./335343-spellomancer.json) |
 | SpellPix | 95692 | [95692-spellpix.json](./95692-spellpix.json) |
+| Spellpowder: Uprising | 212028 | [212028-spellpowder-uprising.json](./212028-spellpowder-uprising.json) |
 | SpellPunk VR | 132543 | [132543-spellpunk-vr.json](./132543-spellpunk-vr.json) |
 | Spellrazor | 177340 | [177340-spellrazor.json](./177340-spellrazor.json) |
 | SpellRogue: Supporter Pack | 310094 | [310094-spellrogue-supporter-pack.json](./310094-spellrogue-supporter-pack.json) |
@@ -28200,6 +28204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StreetPass Mii Plaza | 80022 | [80022-streetpass-mii-plaza.json](./80022-streetpass-mii-plaza.json) |
 | Streets Ablaze | 97175 | [97175-streets-ablaze.json](./97175-streets-ablaze.json) |
 | Streets At Midnight | 179857 | [179857-streets-at-midnight.json](./179857-streets-at-midnight.json) |
+| Streets of Chaos | 212019 | [212019-streets-of-chaos.json](./212019-streets-of-chaos.json) |
 | Streets of Fear | 351754 | [351754-streets-of-fear.json](./351754-streets-of-fear.json) |
 | Streets of Fortuna | 305186 | [305186-streets-of-fortuna.json](./305186-streets-of-fortuna.json) |
 | Streets of Fury EX | 20151 | [20151-streets-of-fury-ex.json](./20151-streets-of-fury-ex.json) |
@@ -28557,6 +28562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stronghold: Warlords - Rise of the Shogun Campaign | 186877 | [186877-stronghold-warlords-rise-of-the-shogun-campaign.json](./186877-stronghold-warlords-rise-of-the-shogun-campaign.json) |
 | Stronghold: Warlords - Special Edition | 154182 | [154182-stronghold-warlords-special-edition.json](./154182-stronghold-warlords-special-edition.json) |
 | Stronghold: Warlords - The Mongol Empire Campaign | 186879 | [186879-stronghold-warlords-the-mongol-empire-campaign.json](./186879-stronghold-warlords-the-mongol-empire-campaign.json) |
+| Stronghold's Dungeon | 212035 | [212035-strongholds-dungeon.json](./212035-strongholds-dungeon.json) |
 | Stronghold2D | 183858 | [183858-stronghold2d.json](./183858-stronghold2d.json) |
 | Strongloween: The Escape | 192424 | [192424-strongloween-the-escape.json](./192424-strongloween-the-escape.json) |
 | Strontium Dog and the Death Gauntlet | 313333 | [313333-strontium-dog-and-the-death-gauntlet.json](./313333-strontium-dog-and-the-death-gauntlet.json) |
@@ -31252,6 +31258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Puppies 2 | 353463 | [353463-super-jigsaw-puzzle-generations-puppies-2.json](./353463-super-jigsaw-puzzle-generations-puppies-2.json) |
 | Super Jigsaw Puzzle: Generations - Puppies Puzzles | 155633 | [155633-super-jigsaw-puzzle-generations-puppies-puzzles.json](./155633-super-jigsaw-puzzle-generations-puppies-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Random 5 | 233306 | [233306-super-jigsaw-puzzle-generations-random-5.json](./233306-super-jigsaw-puzzle-generations-random-5.json) |
+| Super Jigsaw Puzzle: Generations - Random Animals 2 | 211886 | [211886-super-jigsaw-puzzle-generations-random-animals-2.json](./211886-super-jigsaw-puzzle-generations-random-animals-2.json) |
 | Super Jigsaw Puzzle: Generations - Random Animals 3 | 244656 | [244656-super-jigsaw-puzzle-generations-random-animals-3.json](./244656-super-jigsaw-puzzle-generations-random-animals-3.json) |
 | Super Jigsaw Puzzle: Generations - Random Animals 4 | 304664 | [304664-super-jigsaw-puzzle-generations-random-animals-4.json](./304664-super-jigsaw-puzzle-generations-random-animals-4.json) |
 | Super Jigsaw Puzzle: Generations - Random Animals 5 | 354163 | [354163-super-jigsaw-puzzle-generations-random-animals-5.json](./354163-super-jigsaw-puzzle-generations-random-animals-5.json) |
