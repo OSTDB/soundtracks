@@ -5880,7 +5880,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -12223,6 +12222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Cow Tools | 352156 | [352156-minecraft-cow-tools.json](./352156-minecraft-cow-tools.json) |
 | Minecraft: Cybersafe AI: Dig Deeper | 332581 | [332581-minecraft-cybersafe-ai-dig-deeper.json](./332581-minecraft-cybersafe-ai-dig-deeper.json) |
 | Minecraft: Dairycraft | 366815 | [366815-minecraft-dairycraft.json](./366815-minecraft-dairycraft.json) |
+| Minecraft: Deluxe Collection | 228852 | [228852-minecraft-deluxe-collection.json](./228852-minecraft-deluxe-collection.json) |
 | Minecraft: Deluxe Collection DLC | 228890 | [228890-minecraft-deluxe-collection-dlc.json](./228890-minecraft-deluxe-collection-dlc.json) |
 | Minecraft: Deluxe Collection for PC | 350618 | [350618-minecraft-deluxe-collection-for-pc.json](./350618-minecraft-deluxe-collection-for-pc.json) |
 | Minecraft: Disney - Worlds of Adventure | 262539 | [262539-minecraft-disney-worlds-of-adventure.json](./262539-minecraft-disney-worlds-of-adventure.json) |
@@ -13721,6 +13721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Mars | 263479 | [263479-mission-mars.json](./263479-mission-mars.json) |
 | Mission Mars Mobile | 213047 | [213047-mission-mars-mobile.json](./213047-mission-mars-mobile.json) |
 | Mission Massive Migration | 177735 | [177735-mission-massive-migration.json](./177735-mission-massive-migration.json) |
+| Mission NAR-6 | 228839 | [228839-mission-nar-6.json](./228839-mission-nar-6.json) |
 | Mission of Hero | 89424 | [89424-mission-of-hero.json](./89424-mission-of-hero.json) |
 | Mission Omega | 31183 | [31183-mission-omega.json](./31183-mission-omega.json) |
 | Mission on the Planet | 360725 | [360725-mission-on-the-planet.json](./360725-mission-on-the-planet.json) |
