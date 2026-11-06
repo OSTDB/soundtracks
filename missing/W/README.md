@@ -563,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waltz and Jam | 288479 | [288479-waltz-and-jam.json](./288479-waltz-and-jam.json) |
 | Waltz of the Wizard | 119994 | [119994-waltz-of-the-wizard.json](./119994-waltz-of-the-wizard.json) |
 | Waluigi World | 381751 | [381751-waluigi-world.json](./381751-waluigi-world.json) |
+| Waluigi's Foot Fault | 231705 | [231705-waluigis-foot-fault.json](./231705-waluigis-foot-fault.json) |
 | Waluigi's Road to Glory: Horlogic Will Go On | 260819 | [260819-waluigis-road-to-glory-horlogic-will-go-on.json](./260819-waluigis-road-to-glory-horlogic-will-go-on.json) |
 | Waluigi's Taco Stand | 135227 | [135227-waluigis-taco-stand.json](./135227-waluigis-taco-stand.json) |
 | Waluigi's Wadventure | 269772 | [269772-waluigis-wadventure.json](./269772-waluigis-wadventure.json) |
@@ -2943,6 +2944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weapon Hacker | 133377 | [133377-weapon-hacker.json](./133377-weapon-hacker.json) |
 | Weapon Master | 389853 | [389853-weapon-master.json](./389853-weapon-master.json) |
 | Weapon Meister | 282220 | [282220-weapon-meister.json](./282220-weapon-meister.json) |
+| Weapon Merge | 231692 | [231692-weapon-merge.json](./231692-weapon-merge.json) |
 | Weapon Mix | 289902 | [289902-weapon-mix.json](./289902-weapon-mix.json) |
 | Weapon of Choice DX | 154991 | [154991-weapon-of-choice-dx.json](./154991-weapon-of-choice-dx.json) |
 | Weapon Party | 277977 | [277977-weapon-party.json](./277977-weapon-party.json) |
@@ -9221,6 +9223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K20: SmackDown! 20th Anniversary Edition | 136276 | [136276-wwe-2k20-smackdown-20th-anniversary-edition.json](./136276-wwe-2k20-smackdown-20th-anniversary-edition.json) |
 | WWE 2K21 | 132815 | [132815-wwe-2k21.json](./132815-wwe-2k21.json) |
 | WWE 2K22 | 145780 | [145780-wwe-2k22.json](./145780-wwe-2k22.json) |
+| WWE 2K22 SuperCharger | 231673 | [231673-wwe-2k22-supercharger.json](./231673-wwe-2k22-supercharger.json) |
 | WWE 2K22: Deluxe Edition | 188127 | [188127-wwe-2k22-deluxe-edition.json](./188127-wwe-2k22-deluxe-edition.json) |
 | WWE 2K22: Most Wanted Pack | 230986 | [230986-wwe-2k22-most-wanted-pack.json](./230986-wwe-2k22-most-wanted-pack.json) |
 | WWE 2K22: nWo 4-Life - Bonus Pack | 226115 | [226115-wwe-2k22-nwo-4-life-bonus-pack.json](./226115-wwe-2k22-nwo-4-life-bonus-pack.json) |
