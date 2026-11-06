@@ -5650,6 +5650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WindStop Strategy | 385567 | [385567-windstop-strategy.json](./385567-windstop-strategy.json) |
 | Windstorm Double Pack | 259705 | [259705-windstorm-double-pack.json](./259705-windstorm-double-pack.json) |
 | Windstorm: An Unexpected Arrival | 116679 | [116679-windstorm-an-unexpected-arrival.json](./116679-windstorm-an-unexpected-arrival.json) |
+| Windstorm: An Unexpected Arrival | 219342 | [219342-windstorm-an-unexpected-arrival.json](./219342-windstorm-an-unexpected-arrival.json) |
 | Windstorm: Double Pack | 259539 | [259539-windstorm-double-pack.json](./259539-windstorm-double-pack.json) |
 | Windstorm: Start of a Great Friendship | 186557 | [186557-windstorm-start-of-a-great-friendship.json](./186557-windstorm-start-of-a-great-friendship.json) |
 | Windstorm: Start of a Great Friendship - Remastered | 295730 | [295730-windstorm-start-of-a-great-friendship-remastered.json](./295730-windstorm-start-of-a-great-friendship-remastered.json) |
