@@ -816,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakigake!! Otokojuku: Shippuu Ichi Gou Sei | 48674 | [48674-sakigake-otokojuku-shippuu-ichi-gou-sei.json](./48674-sakigake-otokojuku-shippuu-ichi-gou-sei.json) |
 | SakiMizu Life | 300326 | [300326-sakimizu-life.json](./300326-sakimizu-life.json) |
 | Sakimori | 405703 | [405703-sakimori.json](./405703-sakimori.json) |
+| Sakin II | 242868 | [242868-sakin-ii.json](./242868-sakin-ii.json) |
 | Saku Saku: Love Blooms with the Cherry Blossoms | 72366 | [72366-saku-saku-love-blooms-with-the-cherry-blossoms.json](./72366-saku-saku-love-blooms-with-the-cherry-blossoms.json) |
 | Saku the Covert Agent | 310181 | [310181-saku-the-covert-agent.json](./310181-saku-the-covert-agent.json) |
 | Sakumon | 412956 | [412956-sakumon.json](./412956-sakumon.json) |
@@ -5331,6 +5332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Block Bashi | 151711 | [151711-sengoku-block-bashi.json](./151711-sengoku-block-bashi.json) |
 | Sengoku Bushidou: Daiyabou no Maki | 308883 | [308883-sengoku-bushidou-daiyabou-no-maki.json](./308883-sengoku-bushidou-daiyabou-no-maki.json) |
 | Sengoku Cannon for Nintendo Switch | 110869 | [110869-sengoku-cannon-for-nintendo-switch.json](./110869-sengoku-cannon-for-nintendo-switch.json) |
+| Sengoku Cyber: Fujimaru Jigoku-hen | 242847 | [242847-sengoku-cyber-fujimaru-jigoku-hen.json](./242847-sengoku-cyber-fujimaru-jigoku-hen.json) |
 | Sengoku Denshou | 48632 | [48632-sengoku-denshou.json](./48632-sengoku-denshou.json) |
 | Sengoku Dynasty | 192664 | [192664-sengoku-dynasty.json](./192664-sengoku-dynasty.json) |
 | Sengoku Dynasty: Sakura Edition | 406331 | [406331-sengoku-dynasty-sakura-edition.json](./406331-sengoku-dynasty-sakura-edition.json) |
@@ -8525,6 +8527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinshou Ikemen Ooku | 239014 | [239014-shinshou-ikemen-ooku.json](./239014-shinshou-ikemen-ooku.json) |
 | Shinshou Sange: Chiru Hana | 384248 | [384248-shinshou-sange-chiru-hana.json](./384248-shinshou-sange-chiru-hana.json) |
 | Shinshuku Taisen: It's a Noni! | 123622 | [123622-shinshuku-taisen-its-a-noni.json](./123622-shinshuku-taisen-its-a-noni.json) |
+| Shinsoku Igodou | 242866 | [242866-shinsoku-igodou.json](./242866-shinsoku-igodou.json) |
 | Shinsou Kaiten!! Wan-wan Umi Monogatari: Sanyo Pachinko Paradise DX | 351072 | [351072-shinsou-kaiten-wan-wan-umi-monogatari-sanyo-pachinko-paradise-dx.json](./351072-shinsou-kaiten-wan-wan-umi-monogatari-sanyo-pachinko-paradise-dx.json) |
 | Shinsou Noise: Jushin Tantei no Jikenbo | 111328 | [111328-shinsou-noise-jushin-tantei-no-jikenbo.json](./111328-shinsou-noise-jushin-tantei-no-jikenbo.json) |
 | Shinsou Seiki Elementia ~Kutsujoku no Sennou Saimin~ | 133246 | [133246-shinsou-seiki-elementia-kutsujoku-no-sennou-saimin.json](./133246-shinsou-seiki-elementia-kutsujoku-no-sennou-saimin.json) |
@@ -9023,6 +9026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Chicken Brutal Suckers | 123971 | [123971-shooting-chicken-brutal-suckers.json](./123971-shooting-chicken-brutal-suckers.json) |
 | Shooting Chicken Insanity Chickens | 110171 | [110171-shooting-chicken-insanity-chickens.json](./110171-shooting-chicken-insanity-chickens.json) |
 | Shooting Chicken Revenge | 65298 | [65298-shooting-chicken-revenge.json](./65298-shooting-chicken-revenge.json) |
+| Shooting Command | 242886 | [242886-shooting-command.json](./242886-shooting-command.json) |
 | Shooting Covid | 195713 | [195713-shooting-covid.json](./195713-shooting-covid.json) |
 | Shooting Disappearing | 288357 | [288357-shooting-disappearing.json](./288357-shooting-disappearing.json) |
 | Shooting Donut | 279472 | [279472-shooting-donut.json](./279472-shooting-donut.json) |
@@ -10454,6 +10458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silicon Magic: Umareru Mae Kara Anata Senyou?! | 77954 | [77954-silicon-magic-umareru-mae-kara-anata-senyou.json](./77954-silicon-magic-umareru-mae-kara-anata-senyou.json) |
 | Silicon Rising | 128041 | [128041-silicon-rising.json](./128041-silicon-rising.json) |
 | Silicon Scars | 382829 | [382829-silicon-scars.json](./382829-silicon-scars.json) |
+| Silicon Scream | 242887 | [242887-silicon-scream.json](./242887-silicon-scream.json) |
 | Silicon Valley Inside the Hacker Hostel VR | 108166 | [108166-silicon-valley-inside-the-hacker-hostel-vr.json](./108166-silicon-valley-inside-the-hacker-hostel-vr.json) |
 | Silicon Valley Investor | 149204 | [149204-silicon-valley-investor.json](./149204-silicon-valley-investor.json) |
 | Silicon War: Blitz | 295520 | [295520-silicon-war-blitz.json](./295520-silicon-war-blitz.json) |
@@ -19378,6 +19383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -19829,6 +19835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Simulator HD - Planet Flight | 95529 | [95529-space-simulator-hd-planet-flight.json](./95529-space-simulator-hd-planet-flight.json) |
 | Space Sirens 2: Megababes from Ajia | 73459 | [73459-space-sirens-2-megababes-from-ajia.json](./73459-space-sirens-2-megababes-from-ajia.json) |
 | Space Slalom | 6138 | [6138-space-slalom.json](./6138-space-slalom.json) |
+| Space Slaughter | 242875 | [242875-space-slaughter.json](./242875-space-slaughter.json) |
 | Space Slayer | 26793 | [26793-space-slayer.json](./26793-space-slayer.json) |
 | Space Slingshot VR | 95198 | [95198-space-slingshot-vr.json](./95198-space-slingshot-vr.json) |
 | Space Slurpies | 142211 | [142211-space-slurpies.json](./142211-space-slurpies.json) |
@@ -21284,6 +21291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Derby | 120370 | [120370-spider-derby.json](./120370-spider-derby.json) |
 | Spider Disco | 183818 | [183818-spider-disco.json](./183818-spider-disco.json) |
 | Spider Escape | 359464 | [359464-spider-escape.json](./359464-spider-escape.json) |
+| Spider Evolution | 242879 | [242879-spider-evolution.json](./242879-spider-evolution.json) |
 | Spider Fear | 130914 | [130914-spider-fear.json](./130914-spider-fear.json) |
 | Spider Fighter | 18530 | [18530-spider-fighter.json](./18530-spider-fighter.json) |
 | Spider Fighter 2 | 221361 | [221361-spider-fighter-2.json](./221361-spider-fighter-2.json) |
@@ -21517,6 +21525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spielbahn | 266311 | [266311-spielbahn.json](./266311-spielbahn.json) |
 | Spies & Soldiers | 132796 | [132796-spies-and-soldiers.json](./132796-spies-and-soldiers.json) |
 | Spies in the Night | 256770 | [256770-spies-in-the-night.json](./256770-spies-in-the-night.json) |
+| Spies Spies Spies | 242857 | [242857-spies-spies-spies.json](./242857-spies-spies-spies.json) |
 | Spiiiders | 61596 | [61596-spiiiders.json](./61596-spiiiders.json) |
 | Spikair Volleyball | 188995 | [188995-spikair-volleyball.json](./188995-spikair-volleyball.json) |
 | Spike | 174628 | [174628-spike.json](./174628-spike.json) |
