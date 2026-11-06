@@ -9978,6 +9978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula 2025: Grand Prix Heroes | 371815 | [371815-formula-2025-grand-prix-heroes.json](./371815-formula-2025-grand-prix-heroes.json) |
 | Formula 2025: Grand Prix Legends | 345711 | [345711-formula-2025-grand-prix-legends.json](./345711-formula-2025-grand-prix-legends.json) |
 | Formula 2026: Rise of Legends | 401728 | [401728-formula-2026-rise-of-legends.json](./401728-formula-2026-rise-of-legends.json) |
+| Formula 2707: All Stars Kombat | 237176 | [237176-formula-2707-all-stars-kombat.json](./237176-formula-2707-all-stars-kombat.json) |
 | Formula 2D: Steer To Persevere | 212833 | [212833-formula-2d-steer-to-persevere.json](./212833-formula-2d-steer-to-persevere.json) |
 | Formula 500 | 230861 | [230861-formula-500.json](./230861-formula-500.json) |
 | Formula Auto Sport Racing | 372042 | [372042-formula-auto-sport-racing.json](./372042-formula-auto-sport-racing.json) |
@@ -10941,6 +10942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fracas | 321414 | [321414-fracas.json](./321414-fracas.json) |
 | Fracctal Monsters | 239544 | [239544-fracctal-monsters.json](./239544-fracctal-monsters.json) |
 | Fracctal TCG | 370305 | [370305-fracctal-tcg.json](./370305-fracctal-tcg.json) |
+| Frack the World | 237173 | [237173-frack-the-world.json](./237173-frack-the-world.json) |
 | Frackin' Universe | 279760 | [279760-frackin-universe.json](./279760-frackin-universe.json) |
 | Fractal | 30192 | [30192-fractal.json](./30192-fractal.json) |
 | Fractal | 381036 | [381036-fractal.json](./381036-fractal.json) |
