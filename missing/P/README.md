@@ -4064,6 +4064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguino | 365853 | [365853-penguino.json](./365853-penguino.json) |
 | Penguins & Friends: Hey! That's My Fish! | 69132 | [69132-penguins-and-friends-hey-thats-my-fish.json](./69132-penguins-and-friends-hey-thats-my-fish.json) |
 | Penguins Arena: Sedna's World | 15779 | [15779-penguins-arena-sednas-world.json](./15779-penguins-arena-sednas-world.json) |
+| Penguins Can Fly | 204117 | [204117-penguins-can-fly.json](./204117-penguins-can-fly.json) |
 | Penguins Luv Melons | 267532 | [267532-penguins-luv-melons.json](./267532-penguins-luv-melons.json) |
 | Penguins of Madagascar | 50738 | [50738-penguins-of-madagascar.json](./50738-penguins-of-madagascar.json) |
 | Penguins of the North | 121545 | [121545-penguins-of-the-north.json](./121545-penguins-of-the-north.json) |
@@ -7672,6 +7673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates Plundarrr | 50728 | [50728-pirates-plundarrr.json](./50728-pirates-plundarrr.json) |
 | Pirates Republic | 235942 | [235942-pirates-republic.json](./235942-pirates-republic.json) |
 | Pirates Slayer | 336666 | [336666-pirates-slayer.json](./336666-pirates-slayer.json) |
+| Pirates Things | 204118 | [204118-pirates-things.json](./204118-pirates-things.json) |
 | Pirates Treasure II | 128312 | [128312-pirates-treasure-ii.json](./128312-pirates-treasure-ii.json) |
 | Pirates vs Corsairs: Davy Jones's Gold | 35613 | [35613-pirates-vs-corsairs-davy-joness-gold.json](./35613-pirates-vs-corsairs-davy-joness-gold.json) |
 | Pirates vs monkeys | 162851 | [162851-pirates-vs-monkeys.json](./162851-pirates-vs-monkeys.json) |
@@ -9393,6 +9395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planisphere 2 | 296197 | [296197-planisphere-2.json](./296197-planisphere-2.json) |
 | Planitis | 212290 | [212290-planitis.json](./212290-planitis.json) |
 | Plank | 391082 | [391082-plank.json](./391082-plank.json) |
+| Plank Builders | 204120 | [204120-plank-builders.json](./204120-plank-builders.json) |
 | Plank not included | 29311 | [29311-plank-not-included.json](./29311-plank-not-included.json) |
 | Plank Road | 202558 | [202558-plank-road.json](./202558-plank-road.json) |
 | Plank! | 105913 | [105913-plank.json](./105913-plank.json) |
