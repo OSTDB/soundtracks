@@ -3024,6 +3024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Webbed | 139458 | [139458-webbed.json](./139458-webbed.json) |
 | WebbVR: The James Webb Space Telescope Virtual Experience | 111631 | [111631-webbvr-the-james-webb-space-telescope-virtual-experience.json](./111631-webbvr-the-james-webb-space-telescope-virtual-experience.json) |
 | Webcam Love | 338387 | [338387-webcam-love.json](./338387-webcam-love.json) |
+| Webcam Sex | 236062 | [236062-webcam-sex.json](./236062-webcam-sex.json) |
 | WebConfessional | 422150 | [422150-webconfessional.json](./422150-webconfessional.json) |
 | Webcott Dungeon | 244326 | [244326-webcott-dungeon.json](./244326-webcott-dungeon.json) |
 | WebCraft | 282219 | [282219-webcraft.json](./282219-webcraft.json) |
@@ -5077,6 +5078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Game Hunter VR | 30608 | [30608-wild-game-hunter-vr.json](./30608-wild-game-hunter-vr.json) |
 | Wild Goo Chase | 44223 | [44223-wild-goo-chase.json](./44223-wild-goo-chase.json) |
 | Wild Growth | 331389 | [331389-wild-growth.json](./331389-wild-growth.json) |
+| Wild Growth TD | 236075 | [236075-wild-growth-td.json](./236075-wild-growth-td.json) |
 | Wild Guardians | 120218 | [120218-wild-guardians.json](./120218-wild-guardians.json) |
 | Wild Gun | 160078 | [160078-wild-gun.json](./160078-wild-gun.json) |
 | Wild Gunman | 16980 | [16980-wild-gunman.json](./16980-wild-gunman.json) |
