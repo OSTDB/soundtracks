@@ -18240,6 +18240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azu Plus | 181558 | [181558-azu-plus.json](./181558-azu-plus.json) |
 | Azu Quiz Daioh | 98059 | [98059-azu-quiz-daioh.json](./98059-azu-quiz-daioh.json) |
 | Azu-Beach | 140485 | [140485-azu-beach.json](./140485-azu-beach.json) |
+| Azu-Cola | 222109 | [222109-azu-cola.json](./222109-azu-cola.json) |
 | Azu-Tama | 222183 | [222183-azu-tama.json](./222183-azu-tama.json) |
 | AzuFight: Taisen Shiyo | 222541 | [222541-azufight-taisen-shiyo.json](./222541-azufight-taisen-shiyo.json) |
 | Azul Baronis | 331992 | [331992-azul-baronis.json](./331992-azul-baronis.json) |
