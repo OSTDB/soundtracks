@@ -973,6 +973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Raiders | 287789 | [287789-galaxy-raiders.json](./287789-galaxy-raiders.json) |
 | Galaxy Ranger | 39356 | [39356-galaxy-ranger.json](./39356-galaxy-ranger.json) |
 | Galaxy Reavers | 24411 | [24411-galaxy-reavers.json](./24411-galaxy-reavers.json) |
+| Galaxy Revo | 213103 | [213103-galaxy-revo.json](./213103-galaxy-revo.json) |
 | Galaxy Revo 2 | 238118 | [238118-galaxy-revo-2.json](./238118-galaxy-revo-2.json) |
 | Galaxy Revo: Remake | 247488 | [247488-galaxy-revo-remake.json](./247488-galaxy-revo-remake.json) |
 | Galaxy Roll | 358429 | [358429-galaxy-roll.json](./358429-galaxy-roll.json) |
@@ -3123,6 +3124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genso Suikogaiden Volume 2: Duel at the Crystal Valley | 1457 | [1457-genso-suikogaiden-volume-2-duel-at-the-crystal-valley.json](./1457-genso-suikogaiden-volume-2-duel-at-the-crystal-valley.json) |
 | Genso Yonbaiken: Tenshi no Daigyakushu | 207177 | [207177-genso-yonbaiken-tenshi-no-daigyakushu.json](./207177-genso-yonbaiken-tenshi-no-daigyakushu.json) |
 | Gensokishi Online | 267589 | [267589-gensokishi-online.json](./267589-gensokishi-online.json) |
+| Gensokyo Daisenso | 213120 | [213120-gensokyo-daisenso.json](./213120-gensokyo-daisenso.json) |
 | Gensokyo Defenders | 96386 | [96386-gensokyo-defenders.json](./96386-gensokyo-defenders.json) |
 | Gensokyo Ninja Warrior | 134845 | [134845-gensokyo-ninja-warrior.json](./134845-gensokyo-ninja-warrior.json) |
 | Gensokyo no Nazo | 62253 | [62253-gensokyo-no-nazo.json](./62253-gensokyo-no-nazo.json) |
@@ -5536,6 +5538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GO Series: Tower of Deus | 84499 | [84499-go-series-tower-of-deus.json](./84499-go-series-tower-of-deus.json) |
 | GO Series: Undead Storm | 84498 | [84498-go-series-undead-storm.json](./84498-go-series-undead-storm.json) |
 | Go Slimey Go! | 325219 | [325219-go-slimey-go.json](./325219-go-slimey-go.json) |
+| Go Slo | 213093 | [213093-go-slo.json](./213093-go-slo.json) |
 | Go Soccer | 246445 | [246445-go-soccer.json](./246445-go-soccer.json) |
 | Go Some Balls: Only Up and Getting Over It | 276668 | [276668-go-some-balls-only-up-and-getting-over-it.json](./276668-go-some-balls-only-up-and-getting-over-it.json) |
 | Go Team Yeah | 185463 | [185463-go-team-yeah.json](./185463-go-team-yeah.json) |
