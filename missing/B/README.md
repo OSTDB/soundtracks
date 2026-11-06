@@ -957,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1700,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon guy | 89368 | [89368-balloon-guy.json](./89368-balloon-guy.json) |
 | Balloon Head | 317296 | [317296-balloon-head.json](./317296-balloon-head.json) |
 | Balloon Hit HD | 88727 | [88727-balloon-hit-hd.json](./88727-balloon-hit-hd.json) |
+| Balloon in a Wasteland | 236637 | [236637-balloon-in-a-wasteland.json](./236637-balloon-in-a-wasteland.json) |
 | Balloon Jerks | 319990 | [319990-balloon-jerks.json](./319990-balloon-jerks.json) |
 | Balloon Jump | 152877 | [152877-balloon-jump.json](./152877-balloon-jump.json) |
 | Balloon Kid | 3682 | [3682-balloon-kid.json](./3682-balloon-kid.json) |
@@ -17063,6 +17065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulletstorm: Full Clip Edition Duke Nukem Bundle | 83507 | [83507-bulletstorm-full-clip-edition-duke-nukem-bundle.json](./83507-bulletstorm-full-clip-edition-duke-nukem-bundle.json) |
 | Bulletstorm: Limited Edition | 46640 | [46640-bulletstorm-limited-edition.json](./46640-bulletstorm-limited-edition.json) |
 | Bulletstorm: Lite | 212310 | [212310-bulletstorm-lite.json](./212310-bulletstorm-lite.json) |
+| Bullettime Fighting | 236621 | [236621-bullettime-fighting.json](./236621-bullettime-fighting.json) |
 | BulletVille | 137591 | [137591-bulletville.json](./137591-bulletville.json) |
 | Bulletz | 275111 | [275111-bulletz.json](./275111-bulletz.json) |
 | Bullezine | 266106 | [266106-bullezine.json](./266106-bullezine.json) |
@@ -18074,6 +18077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buy Hyacinths | 214008 | [214008-buy-hyacinths.json](./214008-buy-hyacinths.json) |
 | Buy Low Sell High | 109707 | [109707-buy-low-sell-high.json](./109707-buy-low-sell-high.json) |
 | Buy Me Some Soup | 188682 | [188682-buy-me-some-soup.json](./188682-buy-me-some-soup.json) |
+| Buy My Snake Oil | 236645 | [236645-buy-my-snake-oil.json](./236645-buy-my-snake-oil.json) |
 | Buy Sell | 374158 | [374158-buy-sell.json](./374158-buy-sell.json) |
 | Buyhads | 169872 | [169872-buyhads.json](./169872-buyhads.json) |
 | Buying Tomato | 394869 | [394869-buying-tomato.json](./394869-buying-tomato.json) |
