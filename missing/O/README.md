@@ -1410,6 +1410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oktoberfest Break | 187684 | [187684-oktoberfest-break.json](./187684-oktoberfest-break.json) |
 | Oktoberfest Break: Head to Head | 214518 | [214518-oktoberfest-break-head-to-head.json](./214518-oktoberfest-break-head-to-head.json) |
 | Oktoberfest Fun | 218191 | [218191-oktoberfest-fun.json](./218191-oktoberfest-fun.json) |
+| Oktoberfest Run | 202906 | [202906-oktoberfest-run.json](./202906-oktoberfest-run.json) |
 | Oktoberfest Wiesn-Gaudi | 125168 | [125168-oktoberfest-wiesn-gaudi.json](./125168-oktoberfest-wiesn-gaudi.json) |
 | Oktoberfest: The Official Game | 67682 | [67682-oktoberfest-the-official-game.json](./67682-oktoberfest-the-official-game.json) |
 | Oktogone Melee | 153076 | [153076-oktogone-melee.json](./153076-oktogone-melee.json) |
@@ -2057,6 +2058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On the Other Side | 247927 | [247927-on-the-other-side.json](./247927-on-the-other-side.json) |
 | On the Path | 30493 | [30493-on-the-path.json](./30493-on-the-path.json) |
 | On the Peril of Parrots | 216968 | [216968-on-the-peril-of-parrots.json](./216968-on-the-peril-of-parrots.json) |
+| On the Q.T. | 202990 | [202990-on-the-q-t.json](./202990-on-the-q-t.json) |
 | On the Road | 179664 | [179664-on-the-road.json](./179664-on-the-road.json) |
 | On the Road | 225522 | [225522-on-the-road.json](./225522-on-the-road.json) |
 | On the Run | 361697 | [361697-on-the-run.json](./361697-on-the-run.json) |
