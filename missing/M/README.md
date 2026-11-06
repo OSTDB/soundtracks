@@ -5938,6 +5938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9518,6 +9519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mesektet | 418543 | [418543-mesektet.json](./418543-mesektet.json) |
 | MesetaMiner: CodeName | 173973 | [173973-mesetaminer-codename.json](./173973-mesetaminer-codename.json) |
 | Meseugaki Yeong-ae-nim! | 232426 | [232426-meseugaki-yeong-ae-nim.json](./232426-meseugaki-yeong-ae-nim.json) |
+| Mesh NG | 200241 | [200241-mesh-ng.json](./200241-mesh-ng.json) |
 | Mesh Replica | 296684 | [296684-mesh-replica.json](./296684-mesh-replica.json) |
 | Meshchera | 415882 | [415882-meshchera.json](./415882-meshchera.json) |
 | Meshimase Haramase | 97524 | [97524-meshimase-haramase.json](./97524-meshimase-haramase.json) |
@@ -9896,6 +9898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal War | 242008 | [242008-metal-war.json](./242008-metal-war.json) |
 | Metal War Online: Retribution | 34156 | [34156-metal-war-online-retribution.json](./34156-metal-war-online-retribution.json) |
 | Metal Wars 2 | 196627 | [196627-metal-wars-2.json](./196627-metal-wars-2.json) |
+| Metal Wars 3 | 200248 | [200248-metal-wars-3.json](./200248-metal-wars-3.json) |
 | Metal Wolf | 109171 | [109171-metal-wolf.json](./109171-metal-wolf.json) |
 | Metal Wolf Chaos XD | 103304 | [103304-metal-wolf-chaos-xd.json](./103304-metal-wolf-chaos-xd.json) |
 | Metal World: Street Scraps | 201145 | [201145-metal-world-street-scraps.json](./201145-metal-world-street-scraps.json) |
