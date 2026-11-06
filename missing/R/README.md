@@ -11984,6 +11984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruiner 2 | 393936 | [393936-ruiner-2.json](./393936-ruiner-2.json) |
 | Ruinic | 128144 | [128144-ruinic.json](./128144-ruinic.json) |
 | Ruins | 183198 | [183198-ruins.json](./183198-ruins.json) |
+| Ruins | 224933 | [224933-ruins.json](./224933-ruins.json) |
 | Ruins | 94178 | [94178-ruins.json](./94178-ruins.json) |
 | Ruins & Switch | 192357 | [192357-ruins-and-switch.json](./192357-ruins-and-switch.json) |
 | Ruins Climber | 123243 | [123243-ruins-climber.json](./123243-ruins-climber.json) |
