@@ -2641,6 +2641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of Heroes | 159839 | [159839-way-of-heroes.json](./159839-way-of-heroes.json) |
 | Way of Madness | 371261 | [371261-way-of-madness.json](./371261-way-of-madness.json) |
 | Way of Redemption | 58744 | [58744-way-of-redemption.json](./58744-way-of-redemption.json) |
+| Way of Retribution: Awakening | 194089 | [194089-way-of-retribution-awakening.json](./194089-way-of-retribution-awakening.json) |
 | Way of Retribution: Legend of Abyss | 197339 | [197339-way-of-retribution-legend-of-abyss.json](./197339-way-of-retribution-legend-of-abyss.json) |
 | Way of Robot | 356301 | [356301-way-of-robot.json](./356301-way-of-robot.json) |
 | Way of Tanks | 246253 | [246253-way-of-tanks.json](./246253-way-of-tanks.json) |
@@ -6535,6 +6536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Withers | 166570 | [166570-withers.json](./166570-withers.json) |
 | Witherspring Wilds | 391858 | [391858-witherspring-wilds.json](./391858-witherspring-wilds.json) |
 | Within | 126195 | [126195-within.json](./126195-within.json) |
+| Within | 194086 | [194086-within.json](./194086-within.json) |
 | Within | 240050 | [240050-within.json](./240050-within.json) |
 | Within | 377145 | [377145-within.json](./377145-within.json) |
 | Within | 391217 | [391217-within.json](./391217-within.json) |
@@ -7149,6 +7151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WonderCat Adventures | 34924 | [34924-wondercat-adventures.json](./34924-wondercat-adventures.json) |
 | WonderCell | 274868 | [274868-wondercell.json](./274868-wondercell.json) |
 | WonderEnd 0 | 341258 | [341258-wonderend-0.json](./341258-wonderend-0.json) |
+| Wonderers: Eternal World | 194056 | [194056-wonderers-eternal-world.json](./194056-wonderers-eternal-world.json) |
 | Wonderfall | 361645 | [361645-wonderfall.json](./361645-wonderfall.json) |
 | Wonderful Dizzy | 141687 | [141687-wonderful-dizzy.json](./141687-wonderful-dizzy.json) |
 | Wonderful Duck | 182991 | [182991-wonderful-duck.json](./182991-wonderful-duck.json) |
