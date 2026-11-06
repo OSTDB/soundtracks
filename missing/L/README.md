@@ -7528,6 +7528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looterkings | 22383 | [22383-looterkings.json](./22383-looterkings.json) |
 | Lootfest | 35351 | [35351-lootfest.json](./35351-lootfest.json) |
 | Lootfest Wars | 83945 | [83945-lootfest-wars.json](./83945-lootfest-wars.json) |
+| Lootfest2 | 233348 | [233348-lootfest2.json](./233348-lootfest2.json) |
 | Lootimals | 369547 | [369547-lootimals.json](./369547-lootimals.json) |
 | Lootist | 316735 | [316735-lootist.json](./316735-lootist.json) |
 | Lootkeeper: Tidy Up the Loot | 423872 | [423872-lootkeeper-tidy-up-the-loot.json](./423872-lootkeeper-tidy-up-the-loot.json) |
