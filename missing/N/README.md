@@ -841,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nash Racing Pursuit 2 | 409606 | [409606-nash-racing-pursuit-2.json](./409606-nash-racing-pursuit-2.json) |
 | Nash Racing: 70 Seconds Left | 367163 | [367163-nash-racing-70-seconds-left.json](./367163-nash-racing-70-seconds-left.json) |
 | Nash Racing: Battle | 294069 | [294069-nash-racing-battle.json](./294069-nash-racing-battle.json) |
+| Nash Racing: Pursuit | 226031 | [226031-nash-racing-pursuit.json](./226031-nash-racing-pursuit.json) |
 | NashBored | 113449 | [113449-nashbored.json](./113449-nashbored.json) |
 | Nashi-jiru Busha! Funasshi vs. Dragons | 222481 | [222481-nashi-jiru-busha-funasshi-vs-dragons.json](./222481-nashi-jiru-busha-funasshi-vs-dragons.json) |
 | Nashijiru Action! Funassyi no Yukai na Ohanassyi | 222508 | [222508-nashijiru-action-funassyi-no-yukai-na-ohanassyi.json](./222508-nashijiru-action-funassyi-no-yukai-na-ohanassyi.json) |
@@ -1979,6 +1980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Beach | 153068 | [153068-neko-beach.json](./153068-neko-beach.json) |
 | Neko Bento | 324136 | [324136-neko-bento.json](./324136-neko-bento.json) |
 | Neko Bento 2 | 362206 | [362206-neko-bento-2.json](./362206-neko-bento-2.json) |
+| Neko Cafe | 226022 | [226022-neko-cafe.json](./226022-neko-cafe.json) |
 | Neko Café Stories | 369697 | [369697-neko-cafe-stories.json](./369697-neko-cafe-stories.json) |
 | Neko Candy Shop | 169143 | [169143-neko-candy-shop.json](./169143-neko-candy-shop.json) |
 | Neko Chan | 161596 | [161596-neko-chan.json](./161596-neko-chan.json) |
@@ -3172,6 +3174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Citizen | 224690 | [224690-new-citizen.json](./224690-new-citizen.json) |
 | New Club Penguin | 246088 | [246088-new-club-penguin.json](./246088-new-club-penguin.json) |
 | New Colony | 129521 | [129521-new-colony.json](./129521-new-colony.json) |
+| New Cycle | 226008 | [226008-new-cycle.json](./226008-new-cycle.json) |
 | New Danganronpa: Paint the Town Nude | 411318 | [411318-new-danganronpa-paint-the-town-nude.json](./411318-new-danganronpa-paint-the-town-nude.json) |
 | New Dawn | 168074 | [168074-new-dawn.json](./168074-new-dawn.json) |
 | New Dawn | 25819 | [25819-new-dawn.json](./25819-new-dawn.json) |
@@ -3924,6 +3927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nice To Yeet You | 309761 | [309761-nice-to-yeet-you.json](./309761-nice-to-yeet-you.json) |
 | Nice Try! | 129229 | [129229-nice-try.json](./129229-nice-try.json) |
 | Nice Way | 76689 | [76689-nice-way.json](./76689-nice-way.json) |
+| Nicely Dicely | 226020 | [226020-nicely-dicely.json](./226020-nicely-dicely.json) |
 | Niche: A Genetics Survival Game | 33572 | [33572-niche-a-genetics-survival-game.json](./33572-niche-a-genetics-survival-game.json) |
 | Niche: Breed and Evolve | 174298 | [174298-niche-breed-and-evolve.json](./174298-niche-breed-and-evolve.json) |
 | Nichibutsu Arcade Classics | 38165 | [38165-nichibutsu-arcade-classics.json](./38165-nichibutsu-arcade-classics.json) |
@@ -7305,6 +7309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Meltdown | 358234 | [358234-nuclear-meltdown.json](./358234-nuclear-meltdown.json) |
 | Nuclear Nick | 125891 | [125891-nuclear-nick.json](./125891-nuclear-nick.json) |
 | Nuclear Nightmare | 297163 | [297163-nuclear-nightmare.json](./297163-nuclear-nightmare.json) |
+| Nuclear Option | 226030 | [226030-nuclear-option.json](./226030-nuclear-option.json) |
 | Nuclear Outrun | 234601 | [234601-nuclear-outrun.json](./234601-nuclear-outrun.json) |
 | Nuclear Pack | 273200 | [273200-nuclear-pack.json](./273200-nuclear-pack.json) |
 | Nuclear Pizza War | 63200 | [63200-nuclear-pizza-war.json](./63200-nuclear-pizza-war.json) |
