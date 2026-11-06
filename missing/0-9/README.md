@@ -1456,6 +1456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 For 2: Connect the Numbers Puzzle | 101112 | [101112-2-for-2-connect-the-numbers-puzzle.json](./101112-2-for-2-connect-the-numbers-puzzle.json) |
 | 2 Foxes and the Puzzling Forest | 185095 | [185095-2-foxes-and-the-puzzling-forest.json](./185095-2-foxes-and-the-puzzling-forest.json) |
 | 2 Game Collector Pack: 99 Action Arcade & Ultimate Riders | 365018 | [365018-2-game-collector-pack-99-action-arcade-and-ultimate-riders.json](./365018-2-game-collector-pack-99-action-arcade-and-ultimate-riders.json) |
+| 2 Game Pack I Hallowed Legends: Samhain & Hallowed Legends: Templar | 209789 | [209789-2-game-pack-i-hallowed-legends-samhain-and-hallowed-legends-templar.json](./209789-2-game-pack-i-hallowed-legends-samhain-and-hallowed-legends-templar.json) |
 | 2 Game Pack I Haunted Hotel: Eclipse & Haunted Hotel: Ancient Bane | 201816 | [201816-2-game-pack-i-haunted-hotel-eclipse-and-haunted-hotel-ancient-bane.json](./201816-2-game-pack-i-haunted-hotel-eclipse-and-haunted-hotel-ancient-bane.json) |
 | 2 Games I MediEvil & C-12: Final Resistance | 214662 | [214662-2-games-i-medievil-and-c-12-final-resistance.json](./214662-2-games-i-medievil-and-c-12-final-resistance.json) |
 | 2 Games In 1 Double Pack I Hot Wheels: World Race + Hot Wheels: Velocity X | 82101 | [82101-2-games-in-1-double-pack-i-hot-wheels-world-race-hot-wheels-velocity-x.json](./82101-2-games-in-1-double-pack-i-hot-wheels-world-race-hot-wheels-velocity-x.json) |
