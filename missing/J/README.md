@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jackson | 40192 | [40192-jackson.json](./40192-jackson.json) |
 | Jacktus Green: The Fluffy, the Spiky and the Spicy | 208826 | [208826-jacktus-green-the-fluffy-the-spiky-and-the-spicy.json](./208826-jacktus-green-the-fluffy-the-spiky-and-the-spicy.json) |
 | Jacky Lucky | 56806 | [56806-jacky-lucky.json](./56806-jacky-lucky.json) |
+| Jacky's Hidden Items | 232259 | [232259-jackys-hidden-items.json](./232259-jackys-hidden-items.json) |
 | Jacmena | 391789 | [391789-jacmena.json](./391789-jacmena.json) |
 | Jacob | 33314 | [33314-jacob.json](./33314-jacob.json) |
 | Jacob Jazz's Tamarindo's Freaking Dinner | 378811 | [378811-jacob-jazzs-tamarindos-freaking-dinner.json](./378811-jacob-jazzs-tamarindos-freaking-dinner.json) |
@@ -960,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jellipop Match | 214104 | [214104-jellipop-match.json](./214104-jellipop-match.json) |
 | Jellitito | 340770 | [340770-jellitito.json](./340770-jellitito.json) |
 | Jello | 200353 | [200353-jello.json](./200353-jello.json) |
+| Jello Bubbles: Pop Color Balls | 232258 | [232258-jello-bubbles-pop-color-balls.json](./232258-jello-bubbles-pop-color-balls.json) |
 | Jello Run | 292911 | [292911-jello-run.json](./292911-jello-run.json) |
 | JelloTetrix | 320125 | [320125-jellotetrix.json](./320125-jellotetrix.json) |
 | Jelly | 163886 | [163886-jelly.json](./163886-jelly.json) |
@@ -3533,6 +3535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jung Rhythm | 55856 | [55856-jung-rhythm.json](./55856-jung-rhythm.json) |
 | Jung's Labyrinth | 149562 | [149562-jungs-labyrinth.json](./149562-jungs-labyrinth.json) |
 | Jungbung's Adventure 2 | 367730 | [367730-jungbungs-adventure-2.json](./367730-jungbungs-adventure-2.json) |
+| Jungi Mania | 232275 | [232275-jungi-mania.json](./232275-jungi-mania.json) |
 | Jungla Gráfica | 323126 | [323126-jungla-grafica.json](./323126-jungla-grafica.json) |
 | Jungle Adventure | 14140 | [14140-jungle-adventure.json](./14140-jungle-adventure.json) |
 | Jungle Adventure | 322073 | [322073-jungle-adventure.json](./322073-jungle-adventure.json) |
