@@ -4634,6 +4634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light and Dance VR | 29904 | [29904-light-and-dance-vr.json](./29904-light-and-dance-vr.json) |
 | Light and Embers | 168660 | [168660-light-and-embers.json](./168660-light-and-embers.json) |
 | Light and Shadow | 335739 | [335739-light-and-shadow.json](./335739-light-and-shadow.json) |
+| Light and Shadow: Doppelganger | 235540 | [235540-light-and-shadow-doppelganger.json](./235540-light-and-shadow-doppelganger.json) |
 | Light and Shadow: Schatten über Empyria | 295902 | [295902-light-and-shadow-schatten-uber-empyria.json](./295902-light-and-shadow-schatten-uber-empyria.json) |
 | Light and Shadows: Pocket Islands | 265751 | [265751-light-and-shadows-pocket-islands.json](./265751-light-and-shadows-pocket-islands.json) |
 | Light and Sneak | 373745 | [373745-light-and-sneak.json](./373745-light-and-sneak.json) |
@@ -7206,6 +7207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Since The Eschaton | 319072 | [319072-long-since-the-eschaton.json](./319072-long-since-the-eschaton.json) |
 | Long Sky | 115793 | [115793-long-sky.json](./115793-long-sky.json) |
 | Long Star | 131618 | [131618-long-star.json](./131618-long-star.json) |
+| Long Steel | 235537 | [235537-long-steel.json](./235537-long-steel.json) |
 | Long Story Short | 264750 | [264750-long-story-short.json](./264750-long-story-short.json) |
 | Long Time No See | 143477 | [143477-long-time-no-see.json](./143477-long-time-no-see.json) |
 | Long Trip | 285827 | [285827-long-trip.json](./285827-long-trip.json) |
