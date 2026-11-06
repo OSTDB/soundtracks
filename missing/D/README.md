@@ -12039,6 +12039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominator Idle | 235879 | [235879-dominator-idle.json](./235879-dominator-idle.json) |
 | Dominatrix Simulator: Threshold | 110824 | [110824-dominatrix-simulator-threshold.json](./110824-dominatrix-simulator-threshold.json) |
 | Dominay | 211962 | [211962-dominay.json](./211962-dominay.json) |
+| Domine o Território | 230649 | [230649-domine-o-territorio.json](./230649-domine-o-territorio.json) |
 | Domineon 2 | 139655 | [139655-domineon-2.json](./139655-domineon-2.json) |
 | Domini | 353065 | [353065-domini.json](./353065-domini.json) |
 | Dominic Cranes's Dreamscape Mystery | 210211 | [210211-dominic-craness-dreamscape-mystery.json](./210211-dominic-craness-dreamscape-mystery.json) |
@@ -12077,6 +12078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino | 77152 | [77152-domino.json](./77152-domino.json) |
 | Domino | 81081 | [81081-domino.json](./81081-domino.json) |
 | Domino | 88838 | [88838-domino.json](./88838-domino.json) |
+| Dominó | 230650 | [230650-domino.json](./230650-domino.json) |
 | Dominó | 364434 | [364434-domino.json](./364434-domino.json) |
 | Domino Clicker | 295802 | [295802-domino-clicker.json](./295802-domino-clicker.json) |
 | Domino Club | 275266 | [275266-domino-club.json](./275266-domino-club.json) |
@@ -14042,6 +14044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Kobushi's Labyrinthine Laboratory | 190976 | [190976-dr-kobushis-labyrinthine-laboratory.json](./190976-dr-kobushis-labyrinthine-laboratory.json) |
 | Dr. Kyanta | 372649 | [372649-dr-kyanta.json](./372649-dr-kyanta.json) |
 | Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist | 14872 | [14872-dr-langeskov-the-tiger-and-the-terribly-cursed-emerald-a-whirlwind-heist.json](./14872-dr-langeskov-the-tiger-and-the-terribly-cursed-emerald-a-whirlwind-heist.json) |
+| Dr. Limpeza | 230651 | [230651-dr-limpeza.json](./230651-dr-limpeza.json) |
 | Dr. Lunatic Supreme with Cheese | 79739 | [79739-dr-lunatic-supreme-with-cheese.json](./79739-dr-lunatic-supreme-with-cheese.json) |
 | Dr. Lunatic Supreme With Steam | 264664 | [264664-dr-lunatic-supreme-with-steam.json](./264664-dr-lunatic-supreme-with-steam.json) |
 | Dr. Lynch: Grave Secrets | 64718 | [64718-dr-lynch-grave-secrets.json](./64718-dr-lynch-grave-secrets.json) |
