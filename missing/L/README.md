@@ -6116,6 +6116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Nightmares: Tengu Mask | 274646 | [274646-little-nightmares-tengu-mask.json](./274646-little-nightmares-tengu-mask.json) |
 | Little Nightmares: The Depths | 36834 | [36834-little-nightmares-the-depths.json](./36834-little-nightmares-the-depths.json) |
 | Little Nightmares: The Residence | 36837 | [36837-little-nightmares-the-residence.json](./36837-little-nightmares-the-residence.json) |
+| Little Ninja | 196398 | [196398-little-ninja.json](./196398-little-ninja.json) |
 | Little Ninja Brothers | 26599 | [26599-little-ninja-brothers.json](./26599-little-ninja-brothers.json) |
 | Little Noah: Scion of Paradise | 206809 | [206809-little-noah-scion-of-paradise.json](./206809-little-noah-scion-of-paradise.json) |
 | Little Noah: Scion of Paradise - Avatar, Lilliput, and Accessory Pack | 223577 | [223577-little-noah-scion-of-paradise-avatar-lilliput-and-accessory-pack.json](./223577-little-noah-scion-of-paradise-avatar-lilliput-and-accessory-pack.json) |
@@ -9475,6 +9476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luft Gears | 377060 | [377060-luft-gears.json](./377060-luft-gears.json) |
 | Luft: Onward and Upward | 96307 | [96307-luft-onward-and-upward.json](./96307-luft-onward-and-upward.json) |
 | Luftrausers | 5628 | [5628-luftrausers.json](./5628-luftrausers.json) |
+| LuftrauserZ | 196370 | [196370-luftrauserz.json](./196370-luftrauserz.json) |
 | Luftwaffe Commander | 22840 | [22840-luftwaffe-commander.json](./22840-luftwaffe-commander.json) |
 | Luftwaffe: Doitsu Kuugun o Shiki Seyo | 66014 | [66014-luftwaffe-doitsu-kuugun-o-shiki-seyo.json](./66014-luftwaffe-doitsu-kuugun-o-shiki-seyo.json) |
 | Lufulus' Creatures | 129000 | [129000-lufulus-creatures.json](./129000-lufulus-creatures.json) |
