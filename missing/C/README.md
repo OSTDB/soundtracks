@@ -4345,6 +4345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch the Chiken | 397599 | [397599-catch-the-chiken.json](./397599-catch-the-chiken.json) |
 | Catch the Clown II | 331897 | [331897-catch-the-clown-ii.json](./331897-catch-the-clown-ii.json) |
 | Catch the Donut | 164276 | [164276-catch-the-donut.json](./164276-catch-the-donut.json) |
+| Catch the Dragon | 228836 | [228836-catch-the-dragon.json](./228836-catch-the-dragon.json) |
 | Catch the Dustling | 329077 | [329077-catch-the-dustling.json](./329077-catch-the-dustling.json) |
 | Catch the Egg | 277666 | [277666-catch-the-egg.json](./277666-catch-the-egg.json) |
 | Catch the Fish | 418907 | [418907-catch-the-fish.json](./418907-catch-the-fish.json) |
@@ -5371,6 +5372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Century: Age of Ashes - Rimeblood Premium Edition | 259607 | [259607-century-age-of-ashes-rimeblood-premium-edition.json](./259607-century-age-of-ashes-rimeblood-premium-edition.json) |
 | Century: Age of Ashes - Skaltir Apostate Pack | 262742 | [262742-century-age-of-ashes-skaltir-apostate-pack.json](./262742-century-age-of-ashes-skaltir-apostate-pack.json) |
 | Century: Age of Ashes - Stormraiser Premium Edition | 218451 | [218451-century-age-of-ashes-stormraiser-premium-edition.json](./218451-century-age-of-ashes-stormraiser-premium-edition.json) |
+| Century: Age of Ashes - Strength of Jaarlandt Edition | 228845 | [228845-century-age-of-ashes-strength-of-jaarlandt-edition.json](./228845-century-age-of-ashes-strength-of-jaarlandt-edition.json) |
 | Century: Age of Ashes - The Journeyer Edition | 218492 | [218492-century-age-of-ashes-the-journeyer-edition.json](./218492-century-age-of-ashes-the-journeyer-edition.json) |
 | Century: Age of Ashes - Thornweaver Premium Edition | 242475 | [242475-century-age-of-ashes-thornweaver-premium-edition.json](./242475-century-age-of-ashes-thornweaver-premium-edition.json) |
 | Century: Age of Ashes - Thornweaver Premium Pack | 256402 | [256402-century-age-of-ashes-thornweaver-premium-pack.json](./256402-century-age-of-ashes-thornweaver-premium-pack.json) |
@@ -6626,6 +6628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cherry Poke Prison | 63610 | [63610-cherry-poke-prison.json](./63610-cherry-poke-prison.json) |
 | Cherry Rescue! | 181852 | [181852-cherry-rescue.json](./181852-cherry-rescue.json) |
 | Cherry School World | 296728 | [296728-cherry-school-world.json](./296728-cherry-school-world.json) |
+| Cherry Tale | 228866 | [228866-cherry-tale.json](./228866-cherry-tale.json) |
 | Cherry Tower | 281040 | [281040-cherry-tower.json](./281040-cherry-tower.json) |
 | Cherry Tree High Girls' Fight | 33094 | [33094-cherry-tree-high-girls-fight.json](./33094-cherry-tree-high-girls-fight.json) |
 | Cherry Tree High I! My! Girls! | 36156 | [36156-cherry-tree-high-i-my-girls.json](./36156-cherry-tree-high-i-my-girls.json) |
