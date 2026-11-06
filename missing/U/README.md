@@ -1039,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultratron | 14327 | [14327-ultratron.json](./14327-ultratron.json) |
 | Ultraverse Prime | 46407 | [46407-ultraverse-prime.json](./46407-ultraverse-prime.json) |
 | Ultraviolet | 287149 | [287149-ultraviolet.json](./287149-ultraviolet.json) |
+| Ultraviolet Dawn | 239974 | [239974-ultraviolet-dawn.json](./239974-ultraviolet-dawn.json) |
 | Ultrawings | 27323 | [27323-ultrawings.json](./27323-ultrawings.json) |
 | Ultrawings 2 | 173019 | [173019-ultrawings-2.json](./173019-ultrawings-2.json) |
 | Ultrawings Flat | 113038 | [113038-ultrawings-flat.json](./113038-ultrawings-flat.json) |
