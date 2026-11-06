@@ -9369,6 +9369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Craze 3D | 30669 | [30669-rocket-craze-3d.json](./30669-rocket-craze-3d.json) |
 | Rocket Crowbar | 307353 | [307353-rocket-crowbar.json](./307353-rocket-crowbar.json) |
 | Rocket Dodge | 108219 | [108219-rocket-dodge.json](./108219-rocket-dodge.json) |
+| Rocket Drift | 205754 | [205754-rocket-drift.json](./205754-rocket-drift.json) |
 | Rocket Drift - Extreme gravity adventure | 25582 | [25582-rocket-drift-extreme-gravity-adventure.json](./25582-rocket-drift-extreme-gravity-adventure.json) |
 | Rocket Engineer | 297204 | [297204-rocket-engineer.json](./297204-rocket-engineer.json) |
 | Rocket Escape | 226940 | [226940-rocket-escape.json](./226940-rocket-escape.json) |
