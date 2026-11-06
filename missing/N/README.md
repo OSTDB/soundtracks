@@ -4432,7 +4432,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightfall House | 324726 | [324726-nightfall-house.json](./324726-nightfall-house.json) |
 | Nightfall Main Game Plus VR | 53418 | [53418-nightfall-main-game-plus-vr.json](./53418-nightfall-main-game-plus-vr.json) |
 | Nightfall Mysteries: Asylum Conspiracy | 125304 | [125304-nightfall-mysteries-asylum-conspiracy.json](./125304-nightfall-mysteries-asylum-conspiracy.json) |
+| Nightfall Mysteries: Black Heart - Collector’s Edition | 228233 | [228233-nightfall-mysteries-black-heart-collector-s-edition.json](./228233-nightfall-mysteries-black-heart-collector-s-edition.json) |
 | Nightfall Mysteries: Curse of the Opera | 125308 | [125308-nightfall-mysteries-curse-of-the-opera.json](./125308-nightfall-mysteries-curse-of-the-opera.json) |
+| Nightfall Mysteries: Haunted by the Past - Collector's Edition | 228234 | [228234-nightfall-mysteries-haunted-by-the-past-collectors-edition.json](./228234-nightfall-mysteries-haunted-by-the-past-collectors-edition.json) |
 | Nightfall of the Dead | 361083 | [361083-nightfall-of-the-dead.json](./361083-nightfall-of-the-dead.json) |
 | NightFall Shade | 285418 | [285418-nightfall-shade.json](./285418-nightfall-shade.json) |
 | Nightfall Terror: Trails of the Dead | 318558 | [318558-nightfall-terror-trails-of-the-dead.json](./318558-nightfall-terror-trails-of-the-dead.json) |
