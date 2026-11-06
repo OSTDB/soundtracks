@@ -2504,6 +2504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Tanx | 93378 | [93378-3d-tanx.json](./93378-3d-tanx.json) |
 | 3D Tennis | 260858 | [260858-3d-tennis.json](./260858-3d-tennis.json) |
 | 3D Thunder Ceptor II | 146255 | [146255-3d-thunder-ceptor-ii.json](./146255-3d-thunder-ceptor-ii.json) |
+| 3D Thunder Force III | 202924 | [202924-3d-thunder-force-iii.json](./202924-3d-thunder-force-iii.json) |
 | 3D Tic Tac Toe | 366976 | [366976-3d-tic-tac-toe.json](./366976-3d-tic-tac-toe.json) |
 | 3D Tic-Tac-Toe | 421224 | [421224-3d-tic-tac-toe.json](./421224-3d-tic-tac-toe.json) |
 | 3D Tower | 75313 | [75313-3d-tower.json](./75313-3d-tower.json) |
