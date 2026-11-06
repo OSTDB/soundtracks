@@ -10208,6 +10208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blob | 322498 | [322498-blob.json](./322498-blob.json) |
 | Blob | 348045 | [348045-blob.json](./348045-blob.json) |
 | Blob Attack | 338812 | [338812-blob-attack.json](./338812-blob-attack.json) |
+| Blob Beats | 230095 | [230095-blob-beats.json](./230095-blob-beats.json) |
 | Blob Boy | 191518 | [191518-blob-boy.json](./191518-blob-boy.json) |
 | Blob Command | 265668 | [265668-blob-command.json](./265668-blob-command.json) |
 | Blob Command: New Attack | 265669 | [265669-blob-command-new-attack.json](./265669-blob-command-new-attack.json) |
@@ -11536,6 +11537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Light | 318370 | [318370-blue-light.json](./318370-blue-light.json) |
 | Blue Lightning | 12364 | [12364-blue-lightning.json](./12364-blue-lightning.json) |
 | Blue Lightning | 74903 | [74903-blue-lightning.json](./74903-blue-lightning.json) |
+| Blue Lock Project: World Champion | 230094 | [230094-blue-lock-project-world-champion.json](./230094-blue-lock-project-world-champion.json) |
 | Blue Madonna | 52473 | [52473-blue-madonna.json](./52473-blue-madonna.json) |
 | Blue Maiden | 247944 | [247944-blue-maiden.json](./247944-blue-maiden.json) |
 | Blue Man Adventure | 412516 | [412516-blue-man-adventure.json](./412516-blue-man-adventure.json) |
@@ -11920,6 +11922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boba Boyz | 258270 | [258270-boba-boyz.json](./258270-boba-boyz.json) |
 | Boba Cafe Simulator | 346644 | [346644-boba-cafe-simulator.json](./346644-boba-cafe-simulator.json) |
 | Boba Monsters | 309140 | [309140-boba-monsters.json](./309140-boba-monsters.json) |
+| Boba Simulator | 230091 | [230091-boba-simulator.json](./230091-boba-simulator.json) |
 | Boba Tale | 199622 | [199622-boba-tale.json](./199622-boba-tale.json) |
 | Boba Tea Merge | 356522 | [356522-boba-tea-merge.json](./356522-boba-tea-merge.json) |
 | Boba Tea Shop Simulator | 244236 | [244236-boba-tea-shop-simulator.json](./244236-boba-tea-shop-simulator.json) |
@@ -16180,6 +16183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BSurfing | 163733 | [163733-bsurfing.json](./163733-bsurfing.json) |
 | BT Biplanes Online | 367187 | [367187-bt-biplanes-online.json](./367187-bt-biplanes-online.json) |
 | BT21 Pop Star | 242317 | [242317-bt21-pop-star.json](./242317-bt21-pop-star.json) |
+| BT21 Tamagotchi | 230070 | [230070-bt21-tamagotchi.json](./230070-bt21-tamagotchi.json) |
 | BTank | 203898 | [203898-btank.json](./203898-btank.json) |
 | BTD: BTD | 258500 | [258500-btd-btd.json](./258500-btd-btd.json) |
 | BTS Cooking On | 313982 | [313982-bts-cooking-on.json](./313982-bts-cooking-on.json) |
