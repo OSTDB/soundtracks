@@ -1231,6 +1231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuizMania | 320156 | [320156-quizmania.json](./320156-quizmania.json) |
 | QuizMasters | 408423 | [408423-quizmasters.json](./408423-quizmasters.json) |
 | QuizMi | 318989 | [318989-quizmi.json](./318989-quizmi.json) |
+| QuizPig | 232262 | [232262-quizpig.json](./232262-quizpig.json) |
 | QuizPoker: Mix of Quiz and Poker | 185972 | [185972-quizpoker-mix-of-quiz-and-poker.json](./185972-quizpoker-mix-of-quiz-and-poker.json) |
 | Quiztastic | 342281 | [342281-quiztastic.json](./342281-quiztastic.json) |
 | Quiztopia: The Ultimate Trivia | 312136 | [312136-quiztopia-the-ultimate-trivia.json](./312136-quiztopia-the-ultimate-trivia.json) |
