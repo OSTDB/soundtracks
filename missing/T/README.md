@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taika | 306425 | [306425-taika.json](./306425-taika.json) |
 | Taiker | 26547 | [26547-taiker.json](./26547-taiker.json) |
 | Taiketsu Rumi-Zu! | 122944 | [122944-taiketsu-rumi-zu.json](./122944-taiketsu-rumi-zu.json) |
+| Taiketsu! Rooms | 217596 | [217596-taiketsu-rooms.json](./217596-taiketsu-rooms.json) |
 | Taiketsu! Ultra Hero | 49799 | [49799-taiketsu-ultra-hero.json](./49799-taiketsu-ultra-hero.json) |
 | Taiko Drum Master | 37148 | [37148-taiko-drum-master.json](./37148-taiko-drum-master.json) |
 | Taiko Frenzy | 276824 | [276824-taiko-frenzy.json](./276824-taiko-frenzy.json) |
@@ -2918,6 +2919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tea for the Soul | 386497 | [386497-tea-for-the-soul.json](./386497-tea-for-the-soul.json) |
 | Tea Garden Simulator | 139647 | [139647-tea-garden-simulator.json](./139647-tea-garden-simulator.json) |
 | Tea House Simulator | 326338 | [326338-tea-house-simulator.json](./326338-tea-house-simulator.json) |
+| Tea Party Zombie Must Die | 217600 | [217600-tea-party-zombie-must-die.json](./217600-tea-party-zombie-must-die.json) |
 | Tea Society of a Witch | 72664 | [72664-tea-society-of-a-witch.json](./72664-tea-society-of-a-witch.json) |
 | Tea Talk | 298198 | [298198-tea-talk.json](./298198-tea-talk.json) |
 | Tea Time | 195964 | [195964-tea-time.json](./195964-tea-time.json) |
@@ -13856,6 +13858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moon Night | 51962 | [51962-the-moon-night.json](./51962-the-moon-night.json) |
 | The Moon or Bust! | 112522 | [112522-the-moon-or-bust.json](./112522-the-moon-or-bust.json) |
 | The Moon Relax | 165021 | [165021-the-moon-relax.json](./165021-the-moon-relax.json) |
+| The Moon Watch | 217588 | [217588-the-moon-watch.json](./217588-the-moon-watch.json) |
 | The Moonflower | 248007 | [248007-the-moonflower.json](./248007-the-moonflower.json) |
 | The Moonlight Circus | 199235 | [199235-the-moonlight-circus.json](./199235-the-moonlight-circus.json) |
 | The Moonlight Motel | 148870 | [148870-the-moonlight-motel.json](./148870-the-moonlight-motel.json) |
