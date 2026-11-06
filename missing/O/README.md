@@ -927,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off-world Prospecting | 347365 | [347365-off-world-prospecting.json](./347365-off-world-prospecting.json) |
 | Off-World Relocation | 253361 | [253361-off-world-relocation.json](./253361-off-world-relocation.json) |
 | Offcoast | 161560 | [161560-offcoast.json](./161560-offcoast.json) |
+| Offenders | 201875 | [201875-offenders.json](./201875-offenders.json) |
 | Offendron Warrior | 114267 | [114267-offendron-warrior.json](./114267-offendron-warrior.json) |
 | Offensive | 80277 | [80277-offensive.json](./80277-offensive.json) |
 | Offensive Combat: Redux! | 54697 | [54697-offensive-combat-redux.json](./54697-offensive-combat-redux.json) |
