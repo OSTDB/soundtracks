@@ -8142,6 +8142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit N 'Rush | 125355 | [125355-hit-n-rush.json](./125355-hit-n-rush.json) |
 | Hit N Descent | 179921 | [179921-hit-n-descent.json](./179921-hit-n-descent.json) |
 | Hit n' Bit | 319010 | [319010-hit-n-bit.json](./319010-hit-n-bit.json) |
+| Hit n' Run: Highway Demolition | 239429 | [239429-hit-n-run-highway-demolition.json](./239429-hit-n-run-highway-demolition.json) |
 | Hit Ninja | 85183 | [85183-hit-ninja.json](./85183-hit-ninja.json) |
 | Hit of Chernobyl | 316567 | [316567-hit-of-chernobyl.json](./316567-hit-of-chernobyl.json) |
 | Hit Single | 299720 | [299720-hit-single.json](./299720-hit-single.json) |
