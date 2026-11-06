@@ -729,6 +729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoga Master Collection | 310439 | [310439-yoga-master-collection.json](./310439-yoga-master-collection.json) |
 | Yoga Master: Deluxe Edition | 237849 | [237849-yoga-master-deluxe-edition.json](./237849-yoga-master-deluxe-edition.json) |
 | Yoga Master: Dreams Fantasy Bundle | 237911 | [237911-yoga-master-dreams-fantasy-bundle.json](./237911-yoga-master-dreams-fantasy-bundle.json) |
+| Yoga Master: Dreams Fantasy Pack 1 | 238265 | [238265-yoga-master-dreams-fantasy-pack-1.json](./238265-yoga-master-dreams-fantasy-pack-1.json) |
 | Yoga Master: Magic Atmosphere Bundle | 237910 | [237910-yoga-master-magic-atmosphere-bundle.json](./237910-yoga-master-magic-atmosphere-bundle.json) |
 | Yoga Master: Magic Atmosphere Pack 1 | 238447 | [238447-yoga-master-magic-atmosphere-pack-1.json](./238447-yoga-master-magic-atmosphere-pack-1.json) |
 | Yoga Master: Meditation Studio | 238048 | [238048-yoga-master-meditation-studio.json](./238048-yoga-master-meditation-studio.json) |
