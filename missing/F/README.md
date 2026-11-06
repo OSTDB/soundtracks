@@ -11535,6 +11535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom! | 172422 | [172422-freedom.json](./172422-freedom.json) |
 | Freedom! Do or Die | 168122 | [168122-freedom-do-or-die.json](./168122-freedom-do-or-die.json) |
 | Freedom's Eye | 188984 | [188984-freedoms-eye.json](./188984-freedoms-eye.json) |
+| Freedom's Twilight | 236646 | [236646-freedoms-twilight.json](./236646-freedoms-twilight.json) |
 | FreedomBot | 391577 | [391577-freedombot.json](./391577-freedombot.json) |
 | Freedome Farmers | 358586 | [358586-freedome-farmers.json](./358586-freedome-farmers.json) |
 | Freedoom | 109266 | [109266-freedoom.json](./109266-freedoom.json) |
