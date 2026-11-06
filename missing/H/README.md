@@ -12167,6 +12167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HxHxH = Hajimari wa H kara: Daisuki Dakara, Daikirai! | 108920 | [108920-hxhxh-hajimari-wa-h-kara-daisuki-dakara-daikirai.json](./108920-hxhxh-hajimari-wa-h-kara-daisuki-dakara-daikirai.json) |
 | Hyacinth | 225747 | [225747-hyacinth.json](./225747-hyacinth.json) |
 | Hyacinthus | 120942 | [120942-hyacinthus.json](./120942-hyacinthus.json) |
+| Hyakka Girl | 206394 | [206394-hyakka-girl.json](./206394-hyakka-girl.json) |
 | Hyakka Ryoran Master Samurai Chronicles | 408853 | [408853-hyakka-ryoran-master-samurai-chronicles.json](./408853-hyakka-ryoran-master-samurai-chronicles.json) |
 | Hyakka Ryouran Elixir | 60776 | [60776-hyakka-ryouran-elixir.json](./60776-hyakka-ryouran-elixir.json) |
 | Hyakka Ryouran Elixir: Record of Torenia Revival | 248788 | [248788-hyakka-ryouran-elixir-record-of-torenia-revival.json](./248788-hyakka-ryouran-elixir-record-of-torenia-revival.json) |
