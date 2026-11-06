@@ -4431,6 +4431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars: War Logs | 1830 | [1830-mars-war-logs.json](./1830-mars-war-logs.json) |
 | Mars4 | 266175 | [266175-mars4.json](./266175-mars4.json) |
 | Marsaction: Infinite Ambition | 219870 | [219870-marsaction-infinite-ambition.json](./219870-marsaction-infinite-ambition.json) |
+| Marscape | 210973 | [210973-marscape.json](./210973-marscape.json) |
 | Marscapes | 188274 | [188274-marscapes.json](./188274-marscapes.json) |
 | MarsCity3026 | 406242 | [406242-marscity3026.json](./406242-marscity3026.json) |
 | Marsel: The Alien Clown | 245920 | [245920-marsel-the-alien-clown.json](./245920-marsel-the-alien-clown.json) |
@@ -4499,6 +4500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martial Arts Tycoon: Brazil | 253906 | [253906-martial-arts-tycoon-brazil.json](./253906-martial-arts-tycoon-brazil.json) |
 | Martial Arts: Capoeira | 10539 | [10539-martial-arts-capoeira.json](./10539-martial-arts-capoeira.json) |
 | Martial Arts: God of War | 294271 | [294271-martial-arts-god-of-war.json](./294271-martial-arts-god-of-war.json) |
+| Martial Beat | 210810 | [210810-martial-beat.json](./210810-martial-beat.json) |
 | Martial Beat 2 | 292033 | [292033-martial-beat-2.json](./292033-martial-beat-2.json) |
 | Martial Cards | 185863 | [185863-martial-cards.json](./185863-martial-cards.json) |
 | Martial Champion | 39544 | [39544-martial-champion.json](./39544-martial-champion.json) |
@@ -16558,6 +16560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoonFall: Butterfly Lovers | 190099 | [190099-moonfall-butterfly-lovers.json](./190099-moonfall-butterfly-lovers.json) |
 | Moonfang | 175751 | [175751-moonfang.json](./175751-moonfang.json) |
 | Moonfell: The Tides of Aether | 349388 | [349388-moonfell-the-tides-of-aether.json](./349388-moonfell-the-tides-of-aether.json) |
+| MoonFire: A Seeker's Saga | 210960 | [210960-moonfire-a-seekers-saga.json](./210960-moonfire-a-seekers-saga.json) |
 | Moonflower | 224580 | [224580-moonflower.json](./224580-moonflower.json) |
 | Moonfrost | 319876 | [319876-moonfrost.json](./319876-moonfrost.json) |
 | Moongrave | 370889 | [370889-moongrave.json](./370889-moongrave.json) |
