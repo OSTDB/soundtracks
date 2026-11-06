@@ -1053,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offroad Truck Racing | 174005 | [174005-offroad-truck-racing.json](./174005-offroad-truck-racing.json) |
 | Offroad Truck Simulator | 308505 | [308505-offroad-truck-simulator.json](./308505-offroad-truck-simulator.json) |
 | Offroad Truck Simulator: Heavy Duty Challenge | 165381 | [165381-offroad-truck-simulator-heavy-duty-challenge.json](./165381-offroad-truck-simulator-heavy-duty-challenge.json) |
+| Offroad Unchained | 207979 | [207979-offroad-unchained.json](./207979-offroad-unchained.json) |
 | Offroad VR | 278962 | [278962-offroad-vr.json](./278962-offroad-vr.json) |
 | Offroad: Dead Planet | 189874 | [189874-offroad-dead-planet.json](./189874-offroad-dead-planet.json) |
 | Offroad: VR | 31092 | [31092-offroad-vr.json](./31092-offroad-vr.json) |
