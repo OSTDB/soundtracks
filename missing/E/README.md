@@ -7892,6 +7892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expert Laser Man | 120879 | [120879-expert-laser-man.json](./120879-expert-laser-man.json) |
 | Expert on Domestication | 152850 | [152850-expert-on-domestication.json](./152850-expert-on-domestication.json) |
 | Expert Puzzles & Mazes | 285257 | [285257-expert-puzzles-and-mazes.json](./285257-expert-puzzles-and-mazes.json) |
+| Expert's Las Vegas Casino and Devil's Island Pinball | 206890 | [206890-experts-las-vegas-casino-and-devils-island-pinball.json](./206890-experts-las-vegas-casino-and-devils-island-pinball.json) |
 | Expest | 265611 | [265611-expest.json](./265611-expest.json) |
 | Exphelius: Arena | 126847 | [126847-exphelius-arena.json](./126847-exphelius-arena.json) |
 | Exphysia | 292218 | [292218-exphysia.json](./292218-exphysia.json) |
