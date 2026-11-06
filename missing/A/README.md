@@ -2619,6 +2619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace of Wands | 321410 | [321410-ace-of-wands.json](./321410-ace-of-wands.json) |
 | Ace of Words | 34543 | [34543-ace-of-words.json](./34543-ace-of-words.json) |
 | Ace Online | 78841 | [78841-ace-online.json](./78841-ace-online.json) |
+| Ace Pilot Europe | 223212 | [223212-ace-pilot-europe.json](./223212-ace-pilot-europe.json) |
 | Ace Pilot Pacific | 283877 | [283877-ace-pilot-pacific.json](./283877-ace-pilot-pacific.json) |
 | Ace Prosecutor Zero | 303022 | [303022-ace-prosecutor-zero.json](./303022-ace-prosecutor-zero.json) |
 | Ace Racer | 174905 | [174905-ace-racer.json](./174905-ace-racer.json) |
@@ -2987,6 +2988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Active Ragdoll | 177676 | [177676-active-ragdoll.json](./177676-active-ragdoll.json) |
 | Active Soccer 2 | 197234 | [197234-active-soccer-2.json](./197234-active-soccer-2.json) |
 | Active Soccer 2019 | 117537 | [117537-active-soccer-2019.json](./117537-active-soccer-2019.json) |
+| Active Soccer 3 | 223304 | [223304-active-soccer-3.json](./223304-active-soccer-3.json) |
 | Active Worlds | 66993 | [66993-active-worlds.json](./66993-active-worlds.json) |
 | Activision | 220071 | [220071-activision.json](./220071-activision.json) |
 | Activision Anthology | 301430 | [301430-activision-anthology.json](./301430-activision-anthology.json) |
@@ -3810,6 +3812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advise the King | 229941 | [229941-advise-the-king.json](./229941-advise-the-king.json) |
 | Advisor: Elderly Paradigm | 383081 | [383081-advisor-elderly-paradigm.json](./383081-advisor-elderly-paradigm.json) |
 | Advisors at the End of the Universe | 122184 | [122184-advisors-at-the-end-of-the-universe.json](./122184-advisors-at-the-end-of-the-universe.json) |
+| AdvLite | 223282 | [223282-advlite.json](./223282-advlite.json) |
 | AE Mini Game Collection | 279599 | [279599-ae-mini-game-collection.json](./279599-ae-mini-game-collection.json) |
 | AE Supernatural | 165774 | [165774-ae-supernatural.json](./165774-ae-supernatural.json) |
 | AE86 Eurobeat Drift | 154284 | [154284-ae86-eurobeat-drift.json](./154284-ae86-eurobeat-drift.json) |
@@ -15263,6 +15266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassination Classroom: Koro-Sensei's Great Besiegement!! | 64206 | [64206-assassination-classroom-koro-senseis-great-besiegement.json](./64206-assassination-classroom-koro-senseis-great-besiegement.json) |
 | Assassination Station | 54985 | [54985-assassination-station.json](./54985-assassination-station.json) |
 | Assassins Arena | 348897 | [348897-assassins-arena.json](./348897-assassins-arena.json) |
+| Assassins Guild | 223207 | [223207-assassins-guild.json](./223207-assassins-guild.json) |
 | Assassins of Darkness | 244596 | [244596-assassins-of-darkness.json](./244596-assassins-of-darkness.json) |
 | Assassins Unleashed: The Apocalypse | 296492 | [296492-assassins-unleashed-the-apocalypse.json](./296492-assassins-unleashed-the-apocalypse.json) |
 | Assassins vs Pirates | 19176 | [19176-assassins-vs-pirates.json](./19176-assassins-vs-pirates.json) |
