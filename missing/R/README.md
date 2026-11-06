@@ -11439,6 +11439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxy Raccoon's Pinball Panic: Manic Miners | 318353 | [318353-roxy-raccoons-pinball-panic-manic-miners.json](./318353-roxy-raccoons-pinball-panic-manic-miners.json) |
 | Roxy Raccoon's Pinball Panic: Medieval Mayhem | 259594 | [259594-roxy-raccoons-pinball-panic-medieval-mayhem.json](./259594-roxy-raccoons-pinball-panic-medieval-mayhem.json) |
 | Roxy Raccoon's Pinball Panic: Paradise Parks | 311787 | [311787-roxy-raccoons-pinball-panic-paradise-parks.json](./311787-roxy-raccoons-pinball-panic-paradise-parks.json) |
+| Roxy Raccoon's Pinball Panic: Pirate Palooza | 216000 | [216000-roxy-raccoons-pinball-panic-pirate-palooza.json](./216000-roxy-raccoons-pinball-panic-pirate-palooza.json) |
 | Roxy Raccoon's Pinball Panic: Prehistoric Paradise | 289538 | [289538-roxy-raccoons-pinball-panic-prehistoric-paradise.json](./289538-roxy-raccoons-pinball-panic-prehistoric-paradise.json) |
 | Roxy Raccoon's Pinball Panic: Retro Revival | 289863 | [289863-roxy-raccoons-pinball-panic-retro-revival.json](./289863-roxy-raccoons-pinball-panic-retro-revival.json) |
 | Roxy Raccoon's Pinball Panic: Roman Renaissance | 354197 | [354197-roxy-raccoons-pinball-panic-roman-renaissance.json](./354197-roxy-raccoons-pinball-panic-roman-renaissance.json) |
