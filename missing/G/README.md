@@ -1343,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Thrones: Winter is Coming | 114007 | [114007-game-of-thrones-winter-is-coming.json](./114007-game-of-thrones-winter-is-coming.json) |
 | Game of Vampires: Twilight Sun | 300265 | [300265-game-of-vampires-twilight-sun.json](./300265-game-of-vampires-twilight-sun.json) |
 | Game of War: Fire Age | 8685 | [8685-game-of-war-fire-age.json](./8685-game-of-war-fire-age.json) |
+| Game of Whores | 240561 | [240561-game-of-whores.json](./240561-game-of-whores.json) |
 | Game Over | 13854 | [13854-game-over.json](./13854-game-over.json) |
 | Game Over | 193065 | [193065-game-over.json](./193065-game-over.json) |
 | Game Over Gopher | 336924 | [336924-game-over-gopher.json](./336924-game-over-gopher.json) |
@@ -3054,6 +3055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genshin Impact: Windblume's Breath | 257478 | [257478-genshin-impact-windblumes-breath.json](./257478-genshin-impact-windblumes-breath.json) |
 | Genshindle | 243769 | [243769-genshindle.json](./243769-genshindle.json) |
 | Gensmak! | 228047 | [228047-gensmak.json](./228047-gensmak.json) |
+| Gensmak! Food Fight! | 240554 | [240554-gensmak-food-fight.json](./240554-gensmak-food-fight.json) |
 | Genso Chronicles | 286881 | [286881-genso-chronicles.json](./286881-genso-chronicles.json) |
 | Genso Flood Front | 214768 | [214768-genso-flood-front.json](./214768-genso-flood-front.json) |
 | Genso Manège | 306084 | [306084-genso-manege.json](./306084-genso-manege.json) |
@@ -3995,6 +3997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts 4 Everybody | 132421 | [132421-ghosts-4-everybody.json](./132421-ghosts-4-everybody.json) |
 | Ghosts and Apples | 180963 | [180963-ghosts-and-apples.json](./180963-ghosts-and-apples.json) |
 | Ghosts and Bureaucracy | 133064 | [133064-ghosts-and-bureaucracy.json](./133064-ghosts-and-bureaucracy.json) |
+| Ghosts from the House of Flesh | 240576 | [240576-ghosts-from-the-house-of-flesh.json](./240576-ghosts-from-the-house-of-flesh.json) |
 | Ghosts I-IV for Quake | 131580 | [131580-ghosts-i-iv-for-quake.json](./131580-ghosts-i-iv-for-quake.json) |
 | Ghosts in the Garden | 307630 | [307630-ghosts-in-the-garden.json](./307630-ghosts-in-the-garden.json) |
 | Ghosts in the Toybox: Chapter 1 | 99479 | [99479-ghosts-in-the-toybox-chapter-1.json](./99479-ghosts-in-the-toybox-chapter-1.json) |
