@@ -3369,6 +3369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Witch | 335770 | [335770-void-witch.json](./335770-void-witch.json) |
 | Void Wizard | 280133 | [280133-void-wizard.json](./280133-void-wizard.json) |
 | Void-Dogs | 180578 | [180578-void-dogs.json](./180578-void-dogs.json) |
+| Void-X | 207998 | [207998-void-x.json](./207998-void-x.json) |
 | Void: Edge of Existence | 235847 | [235847-void-edge-of-existence.json](./235847-void-edge-of-existence.json) |
 | Void: Emma | 359534 | [359534-void-emma.json](./359534-void-emma.json) |
 | Void: Icarus | 365254 | [365254-void-icarus.json](./365254-void-icarus.json) |
