@@ -267,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wake the Royalty | 236631 | [236631-wake-the-royalty.json](./236631-wake-the-royalty.json) |
 | Wake Up | 178453 | [178453-wake-up.json](./178453-wake-up.json) |
 | Wake Up | 22435 | [22435-wake-up.json](./22435-wake-up.json) |
+| Wake Up | 233327 | [233327-wake-up.json](./233327-wake-up.json) |
 | Wake Up | 250752 | [250752-wake-up.json](./250752-wake-up.json) |
 | Wake Up and Jump! | 392480 | [392480-wake-up-and-jump.json](./392480-wake-up-and-jump.json) |
 | Wake Up Before You Get Killed, Minions! | 321872 | [321872-wake-up-before-you-get-killed-minions.json](./321872-wake-up-before-you-get-killed-minions.json) |
@@ -626,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanderer's Shade | 310183 | [310183-wanderers-shade.json](./310183-wanderers-shade.json) |
 | Wanderers | 148734 | [148734-wanderers.json](./148734-wanderers.json) |
 | Wanderers | 185030 | [185030-wanderers.json](./185030-wanderers.json) |
+| Wanderers | 233328 | [233328-wanderers.json](./233328-wanderers.json) |
 | Wanderers | 377158 | [377158-wanderers.json](./377158-wanderers.json) |
 | Wanderers.io | 178085 | [178085-wanderers-io.json](./178085-wanderers-io.json) |
 | Wanderers' Outpost | 406687 | [406687-wanderers-outpost.json](./406687-wanderers-outpost.json) |
@@ -2145,6 +2147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warui Kami | 225501 | [225501-warui-kami.json](./225501-warui-kami.json) |
 | WarUniverse | 123614 | [123614-waruniverse.json](./123614-waruniverse.json) |
 | WarWest | 112336 | [112336-warwest.json](./112336-warwest.json) |
+| WarWizard | 233329 | [233329-warwizard.json](./233329-warwizard.json) |
 | Waryong Three Kingdoms | 208741 | [208741-waryong-three-kingdoms.json](./208741-waryong-three-kingdoms.json) |
 | Warzone | 308473 | [308473-warzone.json](./308473-warzone.json) |
 | Warzone | 80966 | [80966-warzone.json](./80966-warzone.json) |
@@ -3202,6 +3205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weiss Schwarz Portable: Boost Schwarz | 269506 | [269506-weiss-schwarz-portable-boost-schwarz.json](./269506-weiss-schwarz-portable-boost-schwarz.json) |
 | Weiter | 190900 | [190900-weiter.json](./190900-weiter.json) |
 | WeJam | 119678 | [119678-wejam.json](./119678-wejam.json) |
+| WekaInvaders | 233320 | [233320-wekainvaders.json](./233320-wekainvaders.json) |
 | Wekele Wordle | 329557 | [329557-wekele-wordle.json](./329557-wekele-wordle.json) |
 | Wéko The Mask Gatherer | 270724 | [270724-weko-the-mask-gatherer.json](./270724-weko-the-mask-gatherer.json) |
 | Welcome | 183928 | [183928-welcome.json](./183928-welcome.json) |
@@ -3209,6 +3213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome | 92277 | [92277-welcome.json](./92277-welcome.json) |
 | Welcome Above | 111225 | [111225-welcome-above.json](./111225-welcome-above.json) |
 | Welcome Archaeology Enthusiast | 183250 | [183250-welcome-archaeology-enthusiast.json](./183250-welcome-archaeology-enthusiast.json) |
+| Welcome Azrael | 233330 | [233330-welcome-azrael.json](./233330-welcome-azrael.json) |
 | Welcome Back | 153992 | [153992-welcome-back.json](./153992-welcome-back.json) |
 | Welcome Back to 2007 2 | 107376 | [107376-welcome-back-to-2007-2.json](./107376-welcome-back-to-2007-2.json) |
 | Welcome Back to Aeris | 423886 | [423886-welcome-back-to-aeris.json](./423886-welcome-back-to-aeris.json) |
@@ -3700,6 +3705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What has become of us.. | 232009 | [232009-what-has-become-of-us.json](./232009-what-has-become-of-us.json) |
 | What Has Come Before | 211796 | [211796-what-has-come-before.json](./211796-what-has-come-before.json) |
 | What Heart Heard Of, Ghost Guessed | 230389 | [230389-what-heart-heard-of-ghost-guessed.json](./230389-what-heart-heard-of-ghost-guessed.json) |
+| What I Heard | 233331 | [233331-what-i-heard.json](./233331-what-i-heard.json) |
 | What I left behind | 184054 | [184054-what-i-left-behind.json](./184054-what-i-left-behind.json) |
 | What if Adventure Time was a 3D Anime | 234038 | [234038-what-if-adventure-time-was-a-3d-anime.json](./234038-what-if-adventure-time-was-a-3d-anime.json) |
 | What If George Washington Was a Girl? | 212581 | [212581-what-if-george-washington-was-a-girl.json](./212581-what-if-george-washington-was-a-girl.json) |
@@ -4069,6 +4075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Christmas Elves? | 275816 | [275816-where-christmas-elves.json](./275816-where-christmas-elves.json) |
 | Where Control Ends | 405564 | [405564-where-control-ends.json](./405564-where-control-ends.json) |
 | Where Did I Put It? | 223472 | [223472-where-did-i-put-it.json](./223472-where-did-i-put-it.json) |
+| Where Did the Humans Go? | 233333 | [233333-where-did-the-humans-go.json](./233333-where-did-the-humans-go.json) |
 | Where Do I Fit? | 177489 | [177489-where-do-i-fit.json](./177489-where-do-i-fit.json) |
 | Where Does Art Go When It Dies? | 285289 | [285289-where-does-art-go-when-it-dies.json](./285289-where-does-art-go-when-it-dies.json) |
 | Where Dragon Spirits | 295485 | [295485-where-dragon-spirits.json](./295485-where-dragon-spirits.json) |
@@ -4221,6 +4228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's Baby | 107932 | [107932-wheres-baby.json](./107932-wheres-baby.json) |
 | Where's Fido? | 278995 | [278995-wheres-fido.json](./278995-wheres-fido.json) |
 | Where's Home? | 131828 | [131828-wheres-home.json](./131828-wheres-home.json) |
+| Where's Mom | 233334 | [233334-wheres-mom.json](./233334-wheres-mom.json) |
 | Where's My Avocado? | 112240 | [112240-wheres-my-avocado.json](./112240-wheres-my-avocado.json) |
 | Where's my Bara Deck? | 342006 | [342006-wheres-my-bara-deck.json](./342006-wheres-my-bara-deck.json) |
 | Where's My Bara Deck? Hardcastle | 393834 | [393834-wheres-my-bara-deck-hardcastle.json](./393834-wheres-my-bara-deck-hardcastle.json) |
@@ -5525,6 +5533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WinBack: Covert Operations | 47680 | [47680-winback-covert-operations.json](./47680-winback-covert-operations.json) |
 | Wincars Racer | 33292 | [33292-wincars-racer.json](./33292-wincars-racer.json) |
 | Winch it Out | 300387 | [300387-winch-it-out.json](./300387-winch-it-out.json) |
+| Winchester | 233335 | [233335-winchester.json](./233335-winchester.json) |
 | WinCrypt | 83441 | [83441-wincrypt.json](./83441-wincrypt.json) |
 | Wind and Bird | 284298 | [284298-wind-and-bird.json](./284298-wind-and-bird.json) |
 | Wind and Mist | 253007 | [253007-wind-and-mist.json](./253007-wind-and-mist.json) |
@@ -8802,6 +8811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrack: Reclamation | 344806 | [344806-wrack-reclamation.json](./344806-wrack-reclamation.json) |
 | Wrain | 302348 | [302348-wrain.json](./302348-wrain.json) |
 | Wraith | 125994 | [125994-wraith.json](./125994-wraith.json) |
+| Wraith | 233337 | [233337-wraith.json](./233337-wraith.json) |
 | Wraith | 288450 | [288450-wraith.json](./288450-wraith.json) |
 | Wraith | 383758 | [383758-wraith.json](./383758-wraith.json) |
 | Wraith | 72505 | [72505-wraith.json](./72505-wraith.json) |
