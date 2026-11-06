@@ -1852,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Kaon | 27566 | [27566-captain-kaon.json](./27566-captain-kaon.json) |
 | Captain Knick Knack | 210641 | [210641-captain-knick-knack.json](./210641-captain-knick-knack.json) |
 | Captain Laserhawk: The G.A.M.E. | 283390 | [283390-captain-laserhawk-the-g-a-m-e.json](./283390-captain-laserhawk-the-g-a-m-e.json) |
+| Captain Legend | 235026 | [235026-captain-legend.json](./235026-captain-legend.json) |
 | Captain Love!! | 137322 | [137322-captain-love.json](./137322-captain-love.json) |
 | Captain Lycop: Invasion of the Heters | 31385 | [31385-captain-lycop-invasion-of-the-heters.json](./31385-captain-lycop-invasion-of-the-heters.json) |
 | Captain MaCaw | 110165 | [110165-captain-macaw.json](./110165-captain-macaw.json) |
@@ -2057,6 +2058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Constructor | 169834 | [169834-car-constructor.json](./169834-car-constructor.json) |
 | Car Cops | 247218 | [247218-car-cops.json](./247218-car-cops.json) |
 | Car Crash Couch Party | 83586 | [83586-car-crash-couch-party.json](./83586-car-crash-couch-party.json) |
+| Car Crash Multiplayer | 235000 | [235000-car-crash-multiplayer.json](./235000-car-crash-multiplayer.json) |
 | Car Crash Online | 105162 | [105162-car-crash-online.json](./105162-car-crash-online.json) |
 | Car Crash Racing: Stunt Master | 231977 | [231977-car-crash-racing-stunt-master.json](./231977-car-crash-racing-stunt-master.json) |
 | Car Crush Racing Simulator | 132508 | [132508-car-crush-racing-simulator.json](./132508-car-crush-racing-simulator.json) |
@@ -3515,6 +3517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Kellmore | 342814 | [342814-castle-kellmore.json](./342814-castle-kellmore.json) |
 | Castle Kingdom Wars | 238490 | [238490-castle-kingdom-wars.json](./238490-castle-kingdom-wars.json) |
 | Castle Kong | 122786 | [122786-castle-kong.json](./122786-castle-kong.json) |
+| Castle Line Wars | 235025 | [235025-castle-line-wars.json](./235025-castle-line-wars.json) |
 | Castle Master | 11994 | [11994-castle-master.json](./11994-castle-master.json) |
 | Castle Master II: The Crypt | 11995 | [11995-castle-master-ii-the-crypt.json](./11995-castle-master-ii-the-crypt.json) |
 | Castle Master TD | 270165 | [270165-castle-master-td.json](./270165-castle-master-td.json) |
@@ -3850,6 +3853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat and Dog Salon: Joyful Pets | 87166 | [87166-cat-and-dog-salon-joyful-pets.json](./87166-cat-and-dog-salon-joyful-pets.json) |
 | Cat and Fish | 187648 | [187648-cat-and-fish.json](./187648-cat-and-fish.json) |
 | Cat and Ghostly Road | 114073 | [114073-cat-and-ghostly-road.json](./114073-cat-and-ghostly-road.json) |
+| Cat and Ghosts | 234994 | [234994-cat-and-ghosts.json](./234994-cat-and-ghosts.json) |
 | Cat and Isle of Stars | 375203 | [375203-cat-and-isle-of-stars.json](./375203-cat-and-isle-of-stars.json) |
 | Cat and Ladder Climb | 252877 | [252877-cat-and-ladder-climb.json](./252877-cat-and-ladder-climb.json) |
 | Cat And Life | 301620 | [301620-cat-and-life.json](./301620-cat-and-life.json) |
@@ -3898,6 +3902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Clicker | 337840 | [337840-cat-clicker.json](./337840-cat-clicker.json) |
 | Cat Clinic Simulator: Vet Hospital | 364075 | [364075-cat-clinic-simulator-vet-hospital.json](./364075-cat-clinic-simulator-vet-hospital.json) |
 | Cat Colony Crisis | 157962 | [157962-cat-colony-crisis.json](./157962-cat-colony-crisis.json) |
+| Cat Commandos | 235009 | [235009-cat-commandos.json](./235009-cat-commandos.json) |
 | Cat Cosmic Puzzle | 347317 | [347317-cat-cosmic-puzzle.json](./347317-cat-cosmic-puzzle.json) |
 | Cat Couple | 334804 | [334804-cat-couple.json](./334804-cat-couple.json) |
 | Cat Craft | 404190 | [404190-cat-craft.json](./404190-cat-craft.json) |
@@ -7439,6 +7444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Parents | 86430 | [86430-chinese-parents.json](./86430-chinese-parents.json) |
 | Chinese PigLoad | 385728 | [385728-chinese-pigload.json](./385728-chinese-pigload.json) |
 | Chinese Pope Door | 264677 | [264677-chinese-pope-door.json](./264677-chinese-pope-door.json) |
+| Chinese Rail SIm | 235031 | [235031-chinese-rail-sim.json](./235031-chinese-rail-sim.json) |
 | Chinese SimpleLife | 236413 | [236413-chinese-simplelife.json](./236413-chinese-simplelife.json) |
 | Chinese Souls: Hua Garden | 90614 | [90614-chinese-souls-hua-garden.json](./90614-chinese-souls-hua-garden.json) |
 | Chinese Street Food Legend | 393987 | [393987-chinese-street-food-legend.json](./393987-chinese-street-food-legend.json) |
@@ -8124,6 +8130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmasdius | 63887 | [63887-christmasdius.json](./63887-christmasdius.json) |
 | Christmasjong | 243578 | [243578-christmasjong.json](./243578-christmasjong.json) |
 | Christmastry | 55620 | [55620-christmastry.json](./55620-christmastry.json) |
+| Christmasville Blaster Saga | 235019 | [235019-christmasville-blaster-saga.json](./235019-christmasville-blaster-saga.json) |
 | Christmasville: The Missing Santa Adventures | 89195 | [89195-christmasville-the-missing-santa-adventures.json](./89195-christmasville-the-missing-santa-adventures.json) |
 | Christminster | 60021 | [60021-christminster.json](./60021-christminster.json) |
 | Christopher Columbus is an Idiot | 57436 | [57436-christopher-columbus-is-an-idiot.json](./57436-christopher-columbus-is-an-idiot.json) |
@@ -11538,6 +11545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colette's Fall Festival | 384481 | [384481-colettes-fall-festival.json](./384481-colettes-fall-festival.json) |
 | Colette's Sugar Madness | 109765 | [109765-colettes-sugar-madness.json](./109765-colettes-sugar-madness.json) |
 | Colibrium: Zen Colour Matching | 107139 | [107139-colibrium-zen-colour-matching.json](./107139-colibrium-zen-colour-matching.json) |
+| Colin McRae Rally | 235015 | [235015-colin-mcrae-rally.json](./235015-colin-mcrae-rally.json) |
 | Colin McRae Rally 2.0 | 235185 | [235185-colin-mcrae-rally-2-0.json](./235185-colin-mcrae-rally-2-0.json) |
 | Colin McRae Rally 2.0 | 642 | [642-colin-mcrae-rally-2-0.json](./642-colin-mcrae-rally-2-0.json) |
 | Colin McRae Rally 2005 | 175916 | [175916-colin-mcrae-rally-2005.json](./175916-colin-mcrae-rally-2005.json) |
