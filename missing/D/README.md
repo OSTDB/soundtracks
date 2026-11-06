@@ -12104,6 +12104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominating the Skies | 162412 | [162412-dominating-the-skies.json](./162412-dominating-the-skies.json) |
 | Domination | 167914 | [167914-domination.json](./167914-domination.json) |
 | Domination Earth | 106010 | [106010-domination-earth.json](./106010-domination-earth.json) |
+| Domination Wars | 208002 | [208002-domination-wars.json](./208002-domination-wars.json) |
 | Domination: War of Nations | 232981 | [232981-domination-war-of-nations.json](./232981-domination-war-of-nations.json) |
 | DomiNations | 39257 | [39257-dominations.json](./39257-dominations.json) |
 | Dominator | 13601 | [13601-dominator.json](./13601-dominator.json) |
@@ -18110,6 +18111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Minesweeper | 275745 | [275745-dungeon-minesweeper.json](./275745-dungeon-minesweeper.json) |
 | Dungeon Mini | 109975 | [109975-dungeon-mini.json](./109975-dungeon-mini.json) |
 | Dungeon Misfits | 387423 | [387423-dungeon-misfits.json](./387423-dungeon-misfits.json) |
+| Dungeon Monsters | 207986 | [207986-dungeon-monsters.json](./207986-dungeon-monsters.json) |
 | Dungeon Mori | 338000 | [338000-dungeon-mori.json](./338000-dungeon-mori.json) |
 | Dungeon Munchies | 114484 | [114484-dungeon-munchies.json](./114484-dungeon-munchies.json) |
 | Dungeon Munchies: Collector's Edition | 289355 | [289355-dungeon-munchies-collectors-edition.json](./289355-dungeon-munchies-collectors-edition.json) |
