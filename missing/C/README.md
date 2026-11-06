@@ -2089,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Escape | 88602 | [88602-car-escape.json](./88602-car-escape.json) |
 | Car Escape 1-5 | 88697 | [88697-car-escape-1-5.json](./88697-car-escape-1-5.json) |
 | Car Factory | 259914 | [259914-car-factory.json](./259914-car-factory.json) |
+| Car Factory Driver | 233866 | [233866-car-factory-driver.json](./233866-car-factory-driver.json) |
 | Car Factory Simulator | 232166 | [232166-car-factory-simulator.json](./232166-car-factory-simulator.json) |
 | Car Factory Tycoon | 230372 | [230372-car-factory-tycoon.json](./230372-car-factory-tycoon.json) |
 | Car Fighter | 47539 | [47539-car-fighter.json](./47539-car-fighter.json) |
@@ -4209,6 +4210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catacombs of the Yokai | 192647 | [192647-catacombs-of-the-yokai.json](./192647-catacombs-of-the-yokai.json) |
 | Catacombs Pack | 154420 | [154420-catacombs-pack.json](./154420-catacombs-pack.json) |
 | Catacombs: The Asper Case | 235854 | [235854-catacombs-the-asper-case.json](./235854-catacombs-the-asper-case.json) |
+| Catacombs: The Beginning | 233884 | [233884-catacombs-the-beginning.json](./233884-catacombs-the-beginning.json) |
 | Catacracks | 408400 | [408400-catacracks.json](./408400-catacracks.json) |
 | Cataegis : The White Wind | 35920 | [35920-cataegis-the-white-wind.json](./35920-cataegis-the-white-wind.json) |
 | Catafalque | 191615 | [191615-catafalque.json](./191615-catafalque.json) |
@@ -4664,6 +4666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats vs. Dogs: Military Mission | 324185 | [324185-cats-vs-dogs-military-mission.json](./324185-cats-vs-dogs-military-mission.json) |
 | Cats vs. Ghosts | 281981 | [281981-cats-vs-ghosts.json](./281981-cats-vs-ghosts.json) |
 | Cats vs. Rats | 372029 | [372029-cats-vs-rats.json](./372029-cats-vs-rats.json) |
+| Cats War | 233836 | [233836-cats-war.json](./233836-cats-war.json) |
 | Cats War | 303723 | [303723-cats-war.json](./303723-cats-war.json) |
 | Cats Warriors | 157941 | [157941-cats-warriors.json](./157941-cats-warriors.json) |
 | Cats With Guns | 328962 | [328962-cats-with-guns.json](./328962-cats-with-guns.json) |
@@ -6025,6 +6028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaotic Cats | 362988 | [362988-chaotic-cats.json](./362988-chaotic-cats.json) |
 | Chaotic Conflicts | 292937 | [292937-chaotic-conflicts.json](./292937-chaotic-conflicts.json) |
 | Chaotic Customer | 301120 | [301120-chaotic-customer.json](./301120-chaotic-customer.json) |
+| Chaotic Era | 233844 | [233844-chaotic-era.json](./233844-chaotic-era.json) |
 | Chaotic Good Boy | 295149 | [295149-chaotic-good-boy.json](./295149-chaotic-good-boy.json) |
 | Chaotic Loop | 202650 | [202650-chaotic-loop.json](./202650-chaotic-loop.json) |
 | Chaotic Pursuit | 259857 | [259857-chaotic-pursuit.json](./259857-chaotic-pursuit.json) |
@@ -7352,6 +7356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimeral Fantasy | 223506 | [223506-chimeral-fantasy.json](./223506-chimeral-fantasy.json) |
 | Chimeraland | 174589 | [174589-chimeraland.json](./174589-chimeraland.json) |
 | Chimeras: Blinding Love | 104427 | [104427-chimeras-blinding-love.json](./104427-chimeras-blinding-love.json) |
+| Chimeras: Blinding Love - Collector's Edition | 233883 | [233883-chimeras-blinding-love-collectors-edition.json](./233883-chimeras-blinding-love-collectors-edition.json) |
 | Chimeras: Cherished Serpent | 417543 | [417543-chimeras-cherished-serpent.json](./417543-chimeras-cherished-serpent.json) |
 | Chimeras: Cherished Serpent - Collector's Edition | 170216 | [170216-chimeras-cherished-serpent-collectors-edition.json](./170216-chimeras-cherished-serpent-collectors-edition.json) |
 | Chimeras: Cursed and Forgotten | 103977 | [103977-chimeras-cursed-and-forgotten.json](./103977-chimeras-cursed-and-forgotten.json) |
@@ -12625,6 +12630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comfwee Café | 393517 | [393517-comfwee-cafe.json](./393517-comfwee-cafe.json) |
 | Comfy Corners: Unpack and Decorate | 399656 | [399656-comfy-corners-unpack-and-decorate.json](./399656-comfy-corners-unpack-and-decorate.json) |
 | Comfy Cosmos | 339897 | [339897-comfy-cosmos.json](./339897-comfy-cosmos.json) |
+| Comfy Cozy | 233839 | [233839-comfy-cozy.json](./233839-comfy-cozy.json) |
 | Comfy Girl | 360608 | [360608-comfy-girl.json](./360608-comfy-girl.json) |
 | Comic 5trike | 148935 | [148935-comic-5trike.json](./148935-comic-5trike.json) |
 | Comic Bakery | 13831 | [13831-comic-bakery.json](./13831-comic-bakery.json) |
@@ -17354,6 +17360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis Core: Final Fantasy VII - Collector's Edition | 141504 | [141504-crisis-core-final-fantasy-vii-collectors-edition.json](./141504-crisis-core-final-fantasy-vii-collectors-edition.json) |
 | Crisis Core: Final Fantasy VII - Reunion | 205201 | [205201-crisis-core-final-fantasy-vii-reunion.json](./205201-crisis-core-final-fantasy-vii-reunion.json) |
 | Crisis Core: Final Fantasy VII: Reunion - Digital Deluxe Edition | 220439 | [220439-crisis-core-final-fantasy-vii-reunion-digital-deluxe-edition.json](./220439-crisis-core-final-fantasy-vii-reunion-digital-deluxe-edition.json) |
+| Crisis Evil 2 | 233854 | [233854-crisis-evil-2.json](./233854-crisis-evil-2.json) |
 | Crisis Force | 48652 | [48652-crisis-force.json](./48652-crisis-force.json) |
 | Crisis Heart Brawlers: Clash at Otakon | 64681 | [64681-crisis-heart-brawlers-clash-at-otakon.json](./64681-crisis-heart-brawlers-clash-at-otakon.json) |
 | Crisis in the Aegean Sea | 127320 | [127320-crisis-in-the-aegean-sea.json](./127320-crisis-in-the-aegean-sea.json) |
