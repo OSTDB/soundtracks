@@ -2792,6 +2792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are Not Alone: Contact | 312866 | [312866-we-are-not-alone-contact.json](./312866-we-are-not-alone-contact.json) |
 | We Are Not Free | 239966 | [239966-we-are-not-free.json](./239966-we-are-not-free.json) |
 | We Are OFK | 152177 | [152177-we-are-ofk.json](./152177-we-are-ofk.json) |
+| We Are One | 200815 | [200815-we-are-one.json](./200815-we-are-one.json) |
 | We Are Only Moving Towards Each Other | 299117 | [299117-we-are-only-moving-towards-each-other.json](./299117-we-are-only-moving-towards-each-other.json) |
 | We Are Out of Food, Milton. | 250323 | [250323-we-are-out-of-food-milton.json](./250323-we-are-out-of-food-milton.json) |
 | We Are Poems | 243833 | [243833-we-are-poems.json](./243833-we-are-poems.json) |
@@ -4228,6 +4229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where the Water Tastes Like Wine | 15823 | [15823-where-the-water-tastes-like-wine.json](./15823-where-the-water-tastes-like-wine.json) |
 | Where the Water Tastes Like Wine: Xbox Edition | 134369 | [134369-where-the-water-tastes-like-wine-xbox-edition.json](./134369-where-the-water-tastes-like-wine-xbox-edition.json) |
 | Where the Water Waits | 402747 | [402747-where-the-water-waits.json](./402747-where-the-water-waits.json) |
+| Where the Wild Things Are | 200809 | [200809-where-the-wild-things-are.json](./200809-where-the-wild-things-are.json) |
 | Where the Wild Things Are | 5278 | [5278-where-the-wild-things-are.json](./5278-where-the-wild-things-are.json) |
 | Where there once was sand | 315802 | [315802-where-there-once-was-sand.json](./315802-where-there-once-was-sand.json) |
 | Where There's a Mask | 423234 | [423234-where-theres-a-mask.json](./423234-where-theres-a-mask.json) |
@@ -5434,6 +5436,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will Not Let Me Go | 138139 | [138139-will-not-let-me-go.json](./138139-will-not-let-me-go.json) |
 | Will O Wing | 412433 | [412433-will-o-wing.json](./412433-will-o-wing.json) |
 | Will O Wisp | 347567 | [347567-will-o-wisp.json](./347567-will-o-wisp.json) |
+| Will o' Wisp DS | 200799 | [200799-will-o-wisp-ds.json](./200799-will-o-wisp-ds.json) |
+| Will o' Wisp Portable | 200798 | [200798-will-o-wisp-portable.json](./200798-will-o-wisp-portable.json) |
+| Will o'Wisp: Easter no Kiseki | 200797 | [200797-will-owisp-easter-no-kiseki.json](./200797-will-owisp-easter-no-kiseki.json) |
 | Will of Destiny | 372811 | [372811-will-of-destiny.json](./372811-will-of-destiny.json) |
 | Will of Nen | 234436 | [234436-will-of-nen.json](./234436-will-of-nen.json) |
 | Will of Steel | 23810 | [23810-will-of-steel.json](./23810-will-of-steel.json) |
@@ -8542,6 +8547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Warfare & Economic | 171427 | [171427-world-warfare-and-economic.json](./171427-world-warfare-and-economic.json) |
 | World Wars | 40244 | [40244-world-wars.json](./40244-world-wars.json) |
 | World Wide Love!: Sekai Seifuku Kanojo Fandisc | 375364 | [375364-world-wide-love-sekai-seifuku-kanojo-fandisc.json](./375364-world-wide-love-sekai-seifuku-kanojo-fandisc.json) |
+| World Witches: United Front | 200763 | [200763-world-witches-united-front.json](./200763-world-witches-united-front.json) |
 | World Without Reason | 284410 | [284410-world-without-reason.json](./284410-world-without-reason.json) |
 | World Without Time | 390214 | [390214-world-without-time.json](./390214-world-without-time.json) |
 | World Wonders Hidden Histories 3 | 364105 | [364105-world-wonders-hidden-histories-3.json](./364105-world-wonders-hidden-histories-3.json) |
