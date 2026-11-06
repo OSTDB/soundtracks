@@ -688,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lancen Adventure | 321814 | [321814-lancen-adventure.json](./321814-lancen-adventure.json) |
 | Lancer Lords | 251150 | [251150-lancer-lords.json](./251150-lancer-lords.json) |
 | Lancer Tactics | 375255 | [375255-lancer-tactics.json](./375255-lancer-tactics.json) |
+| Land Above Sea Below | 197434 | [197434-land-above-sea-below.json](./197434-land-above-sea-below.json) |
 | Land Air Sea Warfare HD | 109017 | [109017-land-air-sea-warfare-hd.json](./109017-land-air-sea-warfare-hd.json) |
 | Land Before Time: Adventure Valley | 318945 | [318945-land-before-time-adventure-valley.json](./318945-land-before-time-adventure-valley.json) |
 | Land Builder | 341810 | [341810-land-builder.json](./341810-land-builder.json) |
@@ -4606,6 +4607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifeblood | 103357 | [103357-lifeblood.json](./103357-lifeblood.json) |
 | Lifeboat | 145218 | [145218-lifeboat.json](./145218-lifeboat.json) |
 | Lifeboat | 363308 | [363308-lifeboat.json](./363308-lifeboat.json) |
+| Lifecraft | 197427 | [197427-lifecraft.json](./197427-lifecraft.json) |
 | Lifecycles of the Traveler Spider | 390575 | [390575-lifecycles-of-the-traveler-spider.json](./390575-lifecycles-of-the-traveler-spider.json) |
 | LifeDev | 258470 | [258470-lifedev.json](./258470-lifedev.json) |
 | Lifeflame Compendium | 150040 | [150040-lifeflame-compendium.json](./150040-lifeflame-compendium.json) |
@@ -7498,6 +7500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopical | 175602 | [175602-loopical.json](./175602-loopical.json) |
 | Looping | 18511 | [18511-looping.json](./18511-looping.json) |
 | Looping Art Museum | 302975 | [302975-looping-art-museum.json](./302975-looping-art-museum.json) |
+| Looping Bravery | 197442 | [197442-looping-bravery.json](./197442-looping-bravery.json) |
 | Looping Doors: Diner | 342487 | [342487-looping-doors-diner.json](./342487-looping-doors-diner.json) |
 | Looping Doors: Subway | 342488 | [342488-looping-doors-subway.json](./342488-looping-doors-subway.json) |
 | Looplash | 400209 | [400209-looplash.json](./400209-looplash.json) |
