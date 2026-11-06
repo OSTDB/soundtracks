@@ -5654,6 +5654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Aethra Chronicles, Volume One: Celystra's Bane | 70125 | [70125-the-aethra-chronicles-volume-one-celystras-bane.json](./70125-the-aethra-chronicles-volume-one-celystras-bane.json) |
 | The Afterglow of Grisaia | 32956 | [32956-the-afterglow-of-grisaia.json](./32956-the-afterglow-of-grisaia.json) |
 | The Afterlife Cafe | 367948 | [367948-the-afterlife-cafe.json](./367948-the-afterlife-cafe.json) |
+| The Aftermath | 209800 | [209800-the-aftermath.json](./209800-the-aftermath.json) |
 | The Aftermath: Unnatural Selection | 127011 | [127011-the-aftermath-unnatural-selection.json](./127011-the-aftermath-unnatural-selection.json) |
 | The Afterwoods | 72352 | [72352-the-afterwoods.json](./72352-the-afterwoods.json) |
 | The Age of Bhaarat | 342228 | [342228-the-age-of-bhaarat.json](./342228-the-age-of-bhaarat.json) |
@@ -23957,6 +23958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toad | 94345 | [94345-toad.json](./94345-toad.json) |
 | Toad and the Ancient Keys | 321449 | [321449-toad-and-the-ancient-keys.json](./321449-toad-and-the-ancient-keys.json) |
 | Toad in SMB1 | 198470 | [198470-toad-in-smb1.json](./198470-toad-in-smb1.json) |
+| Toad In the Hole | 209798 | [209798-toad-in-the-hole.json](./209798-toad-in-the-hole.json) |
 | Toad Line | 89701 | [89701-toad-line.json](./89701-toad-line.json) |
 | Toad Mountain | 101681 | [101681-toad-mountain.json](./101681-toad-mountain.json) |
 | Toad on Fire | 139482 | [139482-toad-on-fire.json](./139482-toad-on-fire.json) |
@@ -30251,6 +30253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treflix: Mini Games | 329433 | [329433-treflix-mini-games.json](./329433-treflix-mini-games.json) |
 | Treis Zoes | 129080 | [129080-treis-zoes.json](./129080-treis-zoes.json) |
 | Trek to Yomi: Deluxe Edition | 234208 | [234208-trek-to-yomi-deluxe-edition.json](./234208-trek-to-yomi-deluxe-edition.json) |
+| Trek to Yomi: Ultimate Edition | 209803 | [209803-trek-to-yomi-ultimate-edition.json](./209803-trek-to-yomi-ultimate-edition.json) |
 | Trek Trivia | 100103 | [100103-trek-trivia.json](./100103-trek-trivia.json) |
 | Trek: Travel Around the World | 105083 | [105083-trek-travel-around-the-world.json](./105083-trek-travel-around-the-world.json) |
 | Trek73 | 16975 | [16975-trek73.json](./16975-trek73.json) |
