@@ -9834,6 +9834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Future is Ours | 339200 | [339200-the-future-is-ours.json](./339200-the-future-is-ours.json) |
 | The Future Project | 190140 | [190140-the-future-project.json](./190140-the-future-project.json) |
 | The Future Radio and the Artificial Pigeons | 220663 | [220663-the-future-radio-and-the-artificial-pigeons.json](./220663-the-future-radio-and-the-artificial-pigeons.json) |
+| The Future You've Been Dreaming Of | 199179 | [199179-the-future-youve-been-dreaming-of.json](./199179-the-future-youve-been-dreaming-of.json) |
 | The Futurist | 181355 | [181355-the-futurist.json](./181355-the-futurist.json) |
 | The Gal Mahjong | 124074 | [124074-the-gal-mahjong.json](./124074-the-gal-mahjong.json) |
 | The Galactic Aquarium | 67832 | [67832-the-galactic-aquarium.json](./67832-the-galactic-aquarium.json) |
@@ -20057,6 +20058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is hard for me | 176255 | [176255-this-is-hard-for-me.json](./176255-this-is-hard-for-me.json) |
 | This is Hell | 221356 | [221356-this-is-hell.json](./221356-this-is-hell.json) |
 | This Is How U Look Saying This Shit | 277597 | [277597-this-is-how-u-look-saying-this-shit.json](./277597-this-is-how-u-look-saying-this-shit.json) |
+| This is Infinity | 199137 | [199137-this-is-infinity.json](./199137-this-is-infinity.json) |
 | This is Interesting | 338943 | [338943-this-is-interesting.json](./338943-this-is-interesting.json) |
 | This is Just to Say | 201345 | [201345-this-is-just-to-say.json](./201345-this-is-just-to-say.json) |
 | This is Kiko | 333202 | [333202-this-is-kiko.json](./333202-this-is-kiko.json) |
@@ -23040,6 +23042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Times of Lore | 12486 | [12486-times-of-lore.json](./12486-times-of-lore.json) |
 | Times of Survival | 311152 | [311152-times-of-survival.json](./311152-times-of-survival.json) |
 | Times Of War | 253428 | [253428-times-of-war.json](./253428-times-of-war.json) |
+| Times Table Hunt | 199140 | [199140-times-table-hunt.json](./199140-times-table-hunt.json) |
 | Times Tables Games | 305977 | [305977-times-tables-games.json](./305977-times-tables-games.json) |
 | Times Trials | 244245 | [244245-times-trials.json](./244245-times-trials.json) |
 | Times Turn | 185132 | [185132-times-turn.json](./185132-times-turn.json) |
