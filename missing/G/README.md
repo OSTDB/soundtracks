@@ -6453,6 +6453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Apple | 298802 | [298802-golden-apple.json](./298802-golden-apple.json) |
 | Golden Arrow | 277647 | [277647-golden-arrow.json](./277647-golden-arrow.json) |
 | Golden Arrow | 367760 | [367760-golden-arrow.json](./367760-golden-arrow.json) |
+| Golden Axe | 198616 | [198616-golden-axe.json](./198616-golden-axe.json) |
 | Golden Axe | 279631 | [279631-golden-axe.json](./279631-golden-axe.json) |
 | Golden Axe | 305875 | [305875-golden-axe.json](./305875-golden-axe.json) |
 | Golden Axe Classics | 202829 | [202829-golden-axe-classics.json](./202829-golden-axe-classics.json) |
