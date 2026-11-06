@@ -17723,6 +17723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tiger T | 210668 | [210668-the-tiger-t.json](./210668-the-tiger-t.json) |
 | The Time Game | 310054 | [310054-the-time-game.json](./310054-the-time-game.json) |
 | The Time Has Come | 177873 | [177873-the-time-has-come.json](./177873-the-time-has-come.json) |
+| The Time I Have Left | 194735 | [194735-the-time-i-have-left.json](./194735-the-time-i-have-left.json) |
 | The Time Machine | 24689 | [24689-the-time-machine.json](./24689-the-time-machine.json) |
 | The Time Machine | 278354 | [278354-the-time-machine.json](./278354-the-time-machine.json) |
 | The Time Machine: Trapped in Time | 93704 | [93704-the-time-machine-trapped-in-time.json](./93704-the-time-machine-trapped-in-time.json) |
@@ -26684,6 +26685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tour de France 2019 | 119526 | [119526-tour-de-france-2019.json](./119526-tour-de-france-2019.json) |
 | Tour de France 2020 | 133775 | [133775-tour-de-france-2020.json](./133775-tour-de-france-2020.json) |
 | Tour de France 2021 | 145311 | [145311-tour-de-france-2021.json](./145311-tour-de-france-2021.json) |
+| Tour de France 2022 | 194716 | [194716-tour-de-france-2022.json](./194716-tour-de-france-2022.json) |
 | Tour de France 2023 | 241243 | [241243-tour-de-france-2023.json](./241243-tour-de-france-2023.json) |
 | Tour de France 2024 | 288855 | [288855-tour-de-france-2024.json](./288855-tour-de-france-2024.json) |
 | Tour de France 2024: Cycling Kit Pack | 316373 | [316373-tour-de-france-2024-cycling-kit-pack.json](./316373-tour-de-france-2024-cycling-kit-pack.json) |
@@ -27232,6 +27234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Townkins | 103524 | [103524-townkins.json](./103524-townkins.json) |
 | Townkins: Wonderland Village | 103667 | [103667-townkins-wonderland-village.json](./103667-townkins-wonderland-village.json) |
 | Townland | 291292 | [291292-townland.json](./291292-townland.json) |
+| Townlore | 194680 | [194680-townlore.json](./194680-townlore.json) |
 | Townlore 2.0 | 299480 | [299480-townlore-2-0.json](./299480-townlore-2-0.json) |
 | Townopolis Romopolis Megapolis Collection | 53836 | [53836-townopolis-romopolis-megapolis-collection.json](./53836-townopolis-romopolis-megapolis-collection.json) |
 | Towns | 28041 | [28041-towns.json](./28041-towns.json) |
@@ -27824,6 +27827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Misconductor | 390727 | [390727-train-misconductor.json](./390727-train-misconductor.json) |
 | Train No. 7 | 163960 | [163960-train-no-7.json](./163960-train-no-7.json) |
 | Train of Afterlife | 35939 | [35939-train-of-afterlife.json](./35939-train-of-afterlife.json) |
+| Train of the Century | 194695 | [194695-train-of-the-century.json](./194695-train-of-the-century.json) |
 | Train Operator 377 | 226589 | [226589-train-operator-377.json](./226589-train-operator-377.json) |
 | Train Planet | 288572 | [288572-train-planet.json](./288572-train-planet.json) |
 | Train Plus 2 | 386378 | [386378-train-plus-2.json](./386378-train-plus-2.json) |
@@ -31702,6 +31706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True or False: Owl Rescue | 172364 | [172364-true-or-false-owl-rescue.json](./172364-true-or-false-owl-rescue.json) |
 | True or False: The World | 407276 | [407276-true-or-false-the-world.json](./407276-true-or-false-the-world.json) |
 | True Pinball | 9131 | [9131-true-pinball.json](./9131-true-pinball.json) |
+| True Racing | 194684 | [194684-true-racing.json](./194684-true-racing.json) |
 | True Remembrance: Kioku no Kakera | 64241 | [64241-true-remembrance-kioku-no-kakera.json](./64241-true-remembrance-kioku-no-kakera.json) |
 | True Reporter | 110292 | [110292-true-reporter.json](./110292-true-reporter.json) |
 | True Reporter: Mystery of Mistwood | 278000 | [278000-true-reporter-mystery-of-mistwood.json](./278000-true-reporter-mystery-of-mistwood.json) |
