@@ -1761,6 +1761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetic: Cage Closed | 20888 | [20888-magnetic-cage-closed.json](./20888-magnetic-cage-closed.json) |
 | Magnetica | 20526 | [20526-magnetica.json](./20526-magnetica.json) |
 | Magnetica Twist | 21826 | [21826-magnetica-twist.json](./21826-magnetica-twist.json) |
+| Magnetik | 237746 | [237746-magnetik.json](./237746-magnetik.json) |
 | Magnetis | 16082 | [16082-magnetis.json](./16082-magnetis.json) |
 | Magnetism | 262129 | [262129-magnetism.json](./262129-magnetism.json) |
 | Magnetism | 82566 | [82566-magnetism.json](./82566-magnetism.json) |
@@ -14096,6 +14097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB The Show 21: Jackie Robinson Edition | 146034 | [146034-mlb-the-show-21-jackie-robinson-edition.json](./146034-mlb-the-show-21-jackie-robinson-edition.json) |
 | MLB The Show 22: Digital Deluxe Edition | 196514 | [196514-mlb-the-show-22-digital-deluxe-edition.json](./196514-mlb-the-show-22-digital-deluxe-edition.json) |
 | MLB The Show 22: MVP Edition | 196516 | [196516-mlb-the-show-22-mvp-edition.json](./196516-mlb-the-show-22-mvp-edition.json) |
+| MLB The Show 23: Digital Deluxe Edition | 237756 | [237756-mlb-the-show-23-digital-deluxe-edition.json](./237756-mlb-the-show-23-digital-deluxe-edition.json) |
 | MLB The Show 23: The Captain Edition | 242888 | [242888-mlb-the-show-23-the-captain-edition.json](./242888-mlb-the-show-23-the-captain-edition.json) |
 | MLB The Show 24: Digital Deluxe Edition | 286200 | [286200-mlb-the-show-24-digital-deluxe-edition.json](./286200-mlb-the-show-24-digital-deluxe-edition.json) |
 | MLB The Show 24: MVP Edition | 286201 | [286201-mlb-the-show-24-mvp-edition.json](./286201-mlb-the-show-24-mvp-edition.json) |
@@ -20596,6 +20598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lovely Flower | 373659 | [373659-my-lovely-flower.json](./373659-my-lovely-flower.json) |
 | My Lovely Girls | 382492 | [382492-my-lovely-girls.json](./382492-my-lovely-girls.json) |
 | My Lovely Noblewomen | 148339 | [148339-my-lovely-noblewomen.json](./148339-my-lovely-noblewomen.json) |
+| My Lovely Pets | 237747 | [237747-my-lovely-pets.json](./237747-my-lovely-pets.json) |
 | My Lovely Pets 2: Collector's Edition | 255286 | [255286-my-lovely-pets-2-collectors-edition.json](./255286-my-lovely-pets-2-collectors-edition.json) |
 | My Lovely Pets: Collector's Edition | 237556 | [237556-my-lovely-pets-collectors-edition.json](./237556-my-lovely-pets-collectors-edition.json) |
 | My Lovely Pony | 54224 | [54224-my-lovely-pony.json](./54224-my-lovely-pony.json) |
