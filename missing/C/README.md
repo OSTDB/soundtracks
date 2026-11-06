@@ -5025,6 +5025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CDL for a UFO | 386115 | [386115-cdl-for-a-ufo.json](./386115-cdl-for-a-ufo.json) |
 | CDO2: Dungeon Defense | 256574 | [256574-cdo2-dungeon-defense.json](./256574-cdo2-dungeon-defense.json) |
 | Ceana the Wraithress | 314951 | [314951-ceana-the-wraithress.json](./314951-ceana-the-wraithress.json) |
+| Cease To Breathe | 244035 | [244035-cease-to-breathe.json](./244035-cease-to-breathe.json) |
 | Ceaseless | 207737 | [207737-ceaseless.json](./207737-ceaseless.json) |
 | Ceaseless | 380069 | [380069-ceaseless.json](./380069-ceaseless.json) |
 | Ceaseless Night | 221041 | [221041-ceaseless-night.json](./221041-ceaseless-night.json) |
@@ -8044,6 +8045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Solitaire | 175578 | [175578-christmas-solitaire.json](./175578-christmas-solitaire.json) |
 | Christmas Sort Puzzle | 367372 | [367372-christmas-sort-puzzle.json](./367372-christmas-sort-puzzle.json) |
 | Christmas Soul | 372805 | [372805-christmas-soul.json](./372805-christmas-soul.json) |
+| Christmas Squirt! | 244025 | [244025-christmas-squirt.json](./244025-christmas-squirt.json) |
 | Christmas Store: Santa's Supermarket Simulator | 326468 | [326468-christmas-store-santas-supermarket-simulator.json](./326468-christmas-store-santas-supermarket-simulator.json) |
 | Christmas Stories: A Christmas Carol | 139768 | [139768-christmas-stories-a-christmas-carol.json](./139768-christmas-stories-a-christmas-carol.json) |
 | Christmas Stories: A Little Prince | 187911 | [187911-christmas-stories-a-little-prince.json](./187911-christmas-stories-a-little-prince.json) |
@@ -8325,6 +8327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Quest | 14179 | [14179-chrono-quest.json](./14179-chrono-quest.json) |
 | Chrono Quest II | 14180 | [14180-chrono-quest-ii.json](./14180-chrono-quest-ii.json) |
 | Chrono Ressurection | 263448 | [263448-chrono-ressurection.json](./263448-chrono-ressurection.json) |
+| Chrono Rift | 244039 | [244039-chrono-rift.json](./244039-chrono-rift.json) |
 | Chrono Seoul | 379411 | [379411-chrono-seoul.json](./379411-chrono-seoul.json) |
 | Chrono Spin | 390176 | [390176-chrono-spin.json](./390176-chrono-spin.json) |
 | Chrono Stranded | 363659 | [363659-chrono-stranded.json](./363659-chrono-stranded.json) |
@@ -19194,6 +19197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult of Flies | 346868 | [346868-cult-of-flies.json](./346868-cult-of-flies.json) |
 | Cult of Lily | 383586 | [383586-cult-of-lily.json](./383586-cult-of-lily.json) |
 | Cult of Persona | 339354 | [339354-cult-of-persona.json](./339354-cult-of-persona.json) |
+| Cult of Personality | 244029 | [244029-cult-of-personality.json](./244029-cult-of-personality.json) |
 | Cult of Pin | 351132 | [351132-cult-of-pin.json](./351132-cult-of-pin.json) |
 | Cult of Shadows | 374069 | [374069-cult-of-shadows.json](./374069-cult-of-shadows.json) |
 | Cult of the Abyss | 122391 | [122391-cult-of-the-abyss.json](./122391-cult-of-the-abyss.json) |
