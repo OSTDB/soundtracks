@@ -7338,6 +7338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide & Seek | 413861 | [413861-hide-and-seek.json](./413861-hide-and-seek.json) |
 | Hide & Seek World | 188552 | [188552-hide-and-seek-world.json](./188552-hide-and-seek-world.json) |
 | Hide & Spook: The Haunted Alchemist | 32722 | [32722-hide-and-spook-the-haunted-alchemist.json](./32722-hide-and-spook-the-haunted-alchemist.json) |
+| Hide Alone | 208560 | [208560-hide-alone.json](./208560-hide-alone.json) |
 | Hide and Fuse | 412742 | [412742-hide-and-fuse.json](./412742-hide-and-fuse.json) |
 | Hide and go boom | 86505 | [86505-hide-and-go-boom.json](./86505-hide-and-go-boom.json) |
 | Hide and Luig | 385411 | [385411-hide-and-luig.json](./385411-hide-and-luig.json) |
