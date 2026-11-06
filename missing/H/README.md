@@ -5584,6 +5584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her Age, My Sex, Your Location | 354813 | [354813-her-age-my-sex-your-location.json](./354813-her-age-my-sex-your-location.json) |
 | Her Apartment | 323898 | [323898-her-apartment.json](./323898-her-apartment.json) |
 | Her Beautiful Dream | 255441 | [255441-her-beautiful-dream.json](./255441-her-beautiful-dream.json) |
+| Her Choice | 194690 | [194690-her-choice.json](./194690-her-choice.json) |
 | Her Deliverance | 321017 | [321017-her-deliverance.json](./321017-her-deliverance.json) |
 | Her Feet | 236599 | [236599-her-feet.json](./236599-her-feet.json) |
 | Her Heart, Anew | 419951 | [419951-her-heart-anew.json](./419951-her-heart-anew.json) |
