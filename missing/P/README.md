@@ -3771,6 +3771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pedro | 314289 | [314289-pedro.json](./314289-pedro.json) |
 | Pedro | 52008 | [52008-pedro.json](./52008-pedro.json) |
 | Pedro Kicks Back | 108932 | [108932-pedro-kicks-back.json](./108932-pedro-kicks-back.json) |
+| Pedro Land DX | 203576 | [203576-pedro-land-dx.json](./203576-pedro-land-dx.json) |
 | Pedro of Brazil | 265471 | [265471-pedro-of-brazil.json](./265471-pedro-of-brazil.json) |
 | Pedro's Adventures in Spanish | 159161 | [159161-pedros-adventures-in-spanish.json](./159161-pedros-adventures-in-spanish.json) |
 | Pedros Eggventure | 367650 | [367650-pedros-eggventure.json](./367650-pedros-eggventure.json) |
@@ -4922,6 +4923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter Penguin | 40677 | [40677-peter-penguin.json](./40677-peter-penguin.json) |
 | Peter Pepper's Ice Cream Factory | 73040 | [73040-peter-peppers-ice-cream-factory.json](./73040-peter-peppers-ice-cream-factory.json) |
 | Peter Rabbit Maze Mischief | 88192 | [88192-peter-rabbit-maze-mischief.json](./88192-peter-rabbit-maze-mischief.json) |
+| Peter Rabbit: Hidden World | 203478 | [203478-peter-rabbit-hidden-world.json](./203478-peter-rabbit-hidden-world.json) |
 | Peter Rabbit: Let's Go! | 104458 | [104458-peter-rabbit-lets-go.json](./104458-peter-rabbit-lets-go.json) |
 | Peter Rabbit's Number Garden | 208865 | [208865-peter-rabbits-number-garden.json](./208865-peter-rabbits-number-garden.json) |
 | Peter Shilton's Handball Maradona! | 73836 | [73836-peter-shiltons-handball-maradona.json](./73836-peter-shiltons-handball-maradona.json) |
@@ -17905,6 +17907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pussy | 381536 | [381536-pussy.json](./381536-pussy.json) |
 | Pussy 2 | 381539 | [381539-pussy-2.json](./381539-pussy-2.json) |
 | Pussy 3 | 381542 | [381542-pussy-3.json](./381542-pussy-3.json) |
+| Pussy 5 | 203579 | [203579-pussy-5.json](./203579-pussy-5.json) |
 | Pussy 6 | 213547 | [213547-pussy-6.json](./213547-pussy-6.json) |
 | Pussy Cum with Me | 370631 | [370631-pussy-cum-with-me.json](./370631-pussy-cum-with-me.json) |
 | Pussy Flip: Purrfect Reversi | 64822 | [64822-pussy-flip-purrfect-reversi.json](./64822-pussy-flip-purrfect-reversi.json) |
