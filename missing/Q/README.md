@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest Girl | 323243 | [323243-quest-girl.json](./323243-quest-girl.json) |
 | Quest Giver | 271917 | [271917-quest-giver.json](./271917-quest-giver.json) |
 | Quest Hunter | 32396 | [32396-quest-hunter.json](./32396-quest-hunter.json) |
+| Quest Hunter: Deluxe Edition | 228851 | [228851-quest-hunter-deluxe-edition.json](./228851-quest-hunter-deluxe-edition.json) |
 | Quest II | 93202 | [93202-quest-ii.json](./93202-quest-ii.json) |
 | Quest Industries | 293573 | [293573-quest-industries.json](./293573-quest-industries.json) |
 | Quest Machina | 285951 | [285951-quest-machina.json](./285951-quest-machina.json) |
