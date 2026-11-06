@@ -2393,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universe Wars | 298603 | [298603-universe-wars.json](./298603-universe-wars.json) |
 | Universe: Unknown | 73224 | [73224-universe-unknown.json](./73224-universe-unknown.json) |
 | Universe999999 | 150259 | [150259-universe999999.json](./150259-universe999999.json) |
+| UniverseV: Star Domination | 207967 | [207967-universev-star-domination.json](./207967-universev-star-domination.json) |
 | University | 252205 | [252205-university.json](./252205-university.json) |
 | University Days: Season 1 | 303060 | [303060-university-days-season-1.json](./303060-university-days-season-1.json) |
 | University Life Visual Novel | 371921 | [371921-university-life-visual-novel.json](./371921-university-life-visual-novel.json) |
