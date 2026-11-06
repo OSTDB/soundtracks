@@ -1804,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangram Collection: House Puzzle Pack | 357998 | [357998-tangram-collection-house-puzzle-pack.json](./357998-tangram-collection-house-puzzle-pack.json) |
 | Tangram Collection: Rabbit Puzzle Pack | 357997 | [357997-tangram-collection-rabbit-puzzle-pack.json](./357997-tangram-collection-rabbit-puzzle-pack.json) |
 | Tangram Collection: Tortoise Puzzle Pack | 357996 | [357996-tangram-collection-tortoise-puzzle-pack.json](./357996-tangram-collection-tortoise-puzzle-pack.json) |
+| Tangram Puzzle | 227092 | [227092-tangram-puzzle.json](./227092-tangram-puzzle.json) |
 | Tangram Puzzle Pro | 70605 | [70605-tangram-puzzle-pro.json](./70605-tangram-puzzle-pro.json) |
 | Tangram Puzzle: Shape Puzzle | 237625 | [237625-tangram-puzzle-shape-puzzle.json](./237625-tangram-puzzle-shape-puzzle.json) |
 | Tangram Style | 85422 | [85422-tangram-style.json](./85422-tangram-style.json) |
@@ -8913,6 +8914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Escapists 2: Game of the Year Edition | 121534 | [121534-the-escapists-2-game-of-the-year-edition.json](./121534-the-escapists-2-game-of-the-year-edition.json) |
 | The Escapists 2: Pocket Breakout | 114027 | [114027-the-escapists-2-pocket-breakout.json](./114027-the-escapists-2-pocket-breakout.json) |
 | The Escapists 2: Special Edition | 83775 | [83775-the-escapists-2-special-edition.json](./83775-the-escapists-2-special-edition.json) |
+| The Escapists DLC Bundle | 227091 | [227091-the-escapists-dlc-bundle.json](./227091-the-escapists-dlc-bundle.json) |
 | The Escapists: Alcatraz | 53732 | [53732-the-escapists-alcatraz.json](./53732-the-escapists-alcatraz.json) |
 | The Escapists: Complete Edition | 108196 | [108196-the-escapists-complete-edition.json](./108196-the-escapists-complete-edition.json) |
 | The Escapists: Duct Tapes Are Forever | 51927 | [51927-the-escapists-duct-tapes-are-forever.json](./51927-the-escapists-duct-tapes-are-forever.json) |
@@ -30441,6 +30443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Test 2018 | 105794 | [105794-tricky-test-2018.json](./105794-tricky-test-2018.json) |
 | Tricky Thief | 240180 | [240180-tricky-thief.json](./240180-tricky-thief.json) |
 | Tricky Towers: Galaxy Bricks | 403418 | [403418-tricky-towers-galaxy-bricks.json](./403418-tricky-towers-galaxy-bricks.json) |
+| Tricky Towers: Indie Friends Pack | 227058 | [227058-tricky-towers-indie-friends-pack.json](./227058-tricky-towers-indie-friends-pack.json) |
 | Tricky Tracks | 229335 | [229335-tricky-tracks.json](./229335-tricky-tracks.json) |
 | Tricky Tracks 2010 | 249710 | [249710-tricky-tracks-2010.json](./249710-tricky-tracks-2010.json) |
 | Tricky Trail RC | 30667 | [30667-tricky-trail-rc.json](./30667-tricky-trail-rc.json) |
