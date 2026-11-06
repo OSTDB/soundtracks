@@ -4966,7 +4966,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages Puyo Puyo | 113379 | [113379-sega-ages-puyo-puyo.json](./113379-sega-ages-puyo-puyo.json) |
 | Sega Ages Thunder Force AC | 110060 | [110060-sega-ages-thunder-force-ac.json](./110060-sega-ages-thunder-force-ac.json) |
 | Sega Ages Virtua Racing | 110062 | [110062-sega-ages-virtua-racing.json](./110062-sega-ages-virtua-racing.json) |
+| Sega Ages Vol. 1: Shukudai ga Tant-R | 205203 | [205203-sega-ages-vol-1-shukudai-ga-tant-r.json](./205203-sega-ages-vol-1-shukudai-ga-tant-r.json) |
+| Sega Ages Vol. 10: Power Drift | 205209 | [205209-sega-ages-vol-10-power-drift.json](./205209-sega-ages-vol-10-power-drift.json) |
 | Sega Ages Vol. 11: Phantasy Star Collection | 6533 | [6533-sega-ages-vol-11-phantasy-star-collection.json](./6533-sega-ages-vol-11-phantasy-star-collection.json) |
+| Sega Ages Vol. 12: Galaxy Force II | 205210 | [205210-sega-ages-vol-12-galaxy-force-ii.json](./205210-sega-ages-vol-12-galaxy-force-ii.json) |
+| Sega Ages Vol. 3: OutRun | 205205 | [205205-sega-ages-vol-3-outrun.json](./205205-sega-ages-vol-3-outrun.json) |
+| Sega Ages Vol. 4: After Burner II | 205206 | [205206-sega-ages-vol-4-after-burner-ii.json](./205206-sega-ages-vol-4-after-burner-ii.json) |
+| Sega Ages Vol. 5: Rouka ni Ichidant-R | 205207 | [205207-sega-ages-vol-5-rouka-ni-ichidant-r.json](./205207-sega-ages-vol-5-rouka-ni-ichidant-r.json) |
+| Sega Ages Vol. 6: Fantasy Zone | 205208 | [205208-sega-ages-vol-6-fantasy-zone.json](./205208-sega-ages-vol-6-fantasy-zone.json) |
 | Sega Ages Wonder Boy: Monster Land | 117160 | [117160-sega-ages-wonder-boy-monster-land.json](./117160-sega-ages-wonder-boy-monster-land.json) |
 | Sega Ages: Columns Arcade Collection | 63125 | [63125-sega-ages-columns-arcade-collection.json](./63125-sega-ages-columns-arcade-collection.json) |
 | Sega Ages: Gain Ground | 110058 | [110058-sega-ages-gain-ground.json](./110058-sega-ages-gain-ground.json) |
