@@ -5028,6 +5028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ren'Py Rhythm Game | 184387 | [184387-renpy-rhythm-game.json](./184387-renpy-rhythm-game.json) |
 | Ren's Demons I | 202681 | [202681-rens-demons-i.json](./202681-rens-demons-i.json) |
 | Rena and Elin | 106577 | [106577-rena-and-elin.json](./106577-rena-and-elin.json) |
+| Rena Game | 230628 | [230628-rena-game.json](./230628-rena-game.json) |
 | Renai 0 Kilometer | 61552 | [61552-renai-0-kilometer.json](./61552-renai-0-kilometer.json) |
 | Renai 0 Kilometer V | 216243 | [216243-renai-0-kilometer-v.json](./216243-renai-0-kilometer-v.json) |
 | Renai Bakudan | 337489 | [337489-renai-bakudan.json](./337489-renai-bakudan.json) |
