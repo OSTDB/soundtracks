@@ -4101,6 +4101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigmo 2 | 66614 | [66614-enigmo-2.json](./66614-enigmo-2.json) |
 | EnigmOn | 174328 | [174328-enigmon.json](./174328-enigmon.json) |
 | Enigmoon | 261257 | [261257-enigmoon.json](./261257-enigmoon.json) |
+| Enionax | 206298 | [206298-enionax.json](./206298-enionax.json) |
 | Enishia and the Binding Brand | 275520 | [275520-enishia-and-the-binding-brand.json](./275520-enishia-and-the-binding-brand.json) |
 | Enjaulados | 361285 | [361285-enjaulados.json](./361285-enjaulados.json) |
 | Enjoy Amoy & Sisters | 404874 | [404874-enjoy-amoy-and-sisters.json](./404874-enjoy-amoy-and-sisters.json) |
