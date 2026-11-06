@@ -4368,6 +4368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminator 3: Rise of the Machines | 204902 | [204902-terminator-3-rise-of-the-machines.json](./204902-terminator-3-rise-of-the-machines.json) |
 | Terminator 3: Rise of the Machines | 6196 | [6196-terminator-3-rise-of-the-machines.json](./6196-terminator-3-rise-of-the-machines.json) |
 | Terminator 3: War of the Machines | 47069 | [47069-terminator-3-war-of-the-machines.json](./47069-terminator-3-war-of-the-machines.json) |
+| Terminator Genisys: Future War | 212534 | [212534-terminator-genisys-future-war.json](./212534-terminator-genisys-future-war.json) |
 | Terminator Salvation | 142768 | [142768-terminator-salvation.json](./142768-terminator-salvation.json) |
 | Terminator Salvation: Fight for the Future | 115311 | [115311-terminator-salvation-fight-for-the-future.json](./115311-terminator-salvation-fight-for-the-future.json) |
 | Terminator: Arena | 370370 | [370370-terminator-arena.json](./370370-terminator-arena.json) |
@@ -5102,6 +5103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Text Express 2 | 385647 | [385647-text-express-2.json](./385647-text-express-2.json) |
 | Text Invaders | 359898 | [359898-text-invaders.json](./359898-text-invaders.json) |
 | Text me when you get home | 179890 | [179890-text-me-when-you-get-home.json](./179890-text-me-when-you-get-home.json) |
+| Text or Die | 212553 | [212553-text-or-die.json](./212553-text-or-die.json) |
 | Text RPG | 169740 | [169740-text-rpg.json](./169740-text-rpg.json) |
 | Text Tiles | 46564 | [46564-text-tiles.json](./46564-text-tiles.json) |
 | Text Twist Classic | 249956 | [249956-text-twist-classic.json](./249956-text-twist-classic.json) |
@@ -8228,6 +8230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Derailed | 333377 | [333377-the-derailed.json](./333377-the-derailed.json) |
 | The Derailed: Devour the Harvest | 413675 | [413675-the-derailed-devour-the-harvest.json](./413675-the-derailed-devour-the-harvest.json) |
 | The Descendant: Rest of Season | 174510 | [174510-the-descendant-rest-of-season.json](./174510-the-descendant-rest-of-season.json) |
+| The Descent | 212419 | [212419-the-descent.json](./212419-the-descent.json) |
 | The Descent | 212890 | [212890-the-descent.json](./212890-the-descent.json) |
 | The Descent | 231521 | [231521-the-descent.json](./231521-the-descent.json) |
 | The Descent | 278996 | [278996-the-descent.json](./278996-the-descent.json) |
@@ -10074,6 +10077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Godkiller: Chapter 1 | 163984 | [163984-the-godkiller-chapter-1.json](./163984-the-godkiller-chapter-1.json) |
 | The Gods | 38509 | [38509-the-gods.json](./38509-the-gods.json) |
 | The Gods Are Fickle | 224658 | [224658-the-gods-are-fickle.json](./224658-the-gods-are-fickle.json) |
+| The Gods Evening: Reverse | 212542 | [212542-the-gods-evening-reverse.json](./212542-the-gods-evening-reverse.json) |
 | The Gods Fabled: Soil Frontier | 229836 | [229836-the-gods-fabled-soil-frontier.json](./229836-the-gods-fabled-soil-frontier.json) |
 | The Gods: Uprising | 63036 | [63036-the-gods-uprising.json](./63036-the-gods-uprising.json) |
 | The Gold and Black Keys that Cannot Open | 251192 | [251192-the-gold-and-black-keys-that-cannot-open.json](./251192-the-gold-and-black-keys-that-cannot-open.json) |
