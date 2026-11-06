@@ -5821,6 +5821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max on the Moon | 209536 | [209536-max-on-the-moon.json](./209536-max-on-the-moon.json) |
 | Max Payne | 133860 | [133860-max-payne.json](./133860-max-payne.json) |
 | Max Payne | 196251 | [196251-max-payne.json](./196251-max-payne.json) |
+| Max Payne 1 & 2 Remake | 218209 | [218209-max-payne-1-and-2-remake.json](./218209-max-payne-1-and-2-remake.json) |
 | Max Payne 2 | 196252 | [196252-max-payne-2.json](./196252-max-payne-2.json) |
 | Max Payne 2: Mona the Assassin | 320154 | [320154-max-payne-2-mona-the-assassin.json](./320154-max-payne-2-mona-the-assassin.json) |
 | Max Payne 3: Special Edition | 42972 | [42972-max-payne-3-special-edition.json](./42972-max-payne-3-special-edition.json) |
@@ -21191,6 +21192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Universe: Interior Designer | 169235 | [169235-my-universe-interior-designer.json](./169235-my-universe-interior-designer.json) |
 | My Universe: My Baby | 136145 | [136145-my-universe-my-baby.json](./136145-my-universe-my-baby.json) |
 | My Universe: My Baby - New Edition | 170028 | [170028-my-universe-my-baby-new-edition.json](./170028-my-universe-my-baby-new-edition.json) |
+| My Universe: My Baby Dragon | 218222 | [218222-my-universe-my-baby-dragon.json](./218222-my-universe-my-baby-dragon.json) |
 | My Universe: Pet Clinic - Cats & Dogs | 139835 | [139835-my-universe-pet-clinic-cats-and-dogs.json](./139835-my-universe-pet-clinic-cats-and-dogs.json) |
 | My Universe: Pet Clinic - Cats & Dogs: Panda Edition | 210513 | [210513-my-universe-pet-clinic-cats-and-dogs-panda-edition.json](./210513-my-universe-pet-clinic-cats-and-dogs-panda-edition.json) |
 | My Universe: Pets Edition | 221949 | [221949-my-universe-pets-edition.json](./221949-my-universe-pets-edition.json) |
