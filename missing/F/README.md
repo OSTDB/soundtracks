@@ -655,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Elements | 214643 | [214643-fairy-elements.json](./214643-fairy-elements.json) |
 | Fairy Escape | 99632 | [99632-fairy-escape.json](./99632-fairy-escape.json) |
 | Fairy Fencer F | 9893 | [9893-fairy-fencer-f.json](./9893-fairy-fencer-f.json) |
+| Fairy Fencer F: Additional Fairy Pack | 227072 | [227072-fairy-fencer-f-additional-fairy-pack.json](./227072-fairy-fencer-f-additional-fairy-pack.json) |
 | Fairy Fencer F: Advent Dark Force - Deluxe Edition | 186883 | [186883-fairy-fencer-f-advent-dark-force-deluxe-edition.json](./186883-fairy-fencer-f-advent-dark-force-deluxe-edition.json) |
 | Fairy Fencer F: Advent Dark Force DLC Bundle | 227385 | [227385-fairy-fencer-f-advent-dark-force-dlc-bundle.json](./227385-fairy-fencer-f-advent-dark-force-dlc-bundle.json) |
 | Fairy Fencer F: Refrain Chord | 203092 | [203092-fairy-fencer-f-refrain-chord.json](./203092-fairy-fencer-f-refrain-chord.json) |
@@ -2639,6 +2640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 19: Grimme Equipment Pack | 166101 | [166101-farming-simulator-19-grimme-equipment-pack.json](./166101-farming-simulator-19-grimme-equipment-pack.json) |
 | Farming Simulator 19: Holmer Terra Variant DLC | 166100 | [166100-farming-simulator-19-holmer-terra-variant-dlc.json](./166100-farming-simulator-19-holmer-terra-variant-dlc.json) |
 | Farming Simulator 19: John Deere Cotton DLC | 166105 | [166105-farming-simulator-19-john-deere-cotton-dlc.json](./166105-farming-simulator-19-john-deere-cotton-dlc.json) |
+| Farming Simulator 19: Kverneland & Vicon Equipment Pack | 227080 | [227080-farming-simulator-19-kverneland-and-vicon-equipment-pack.json](./227080-farming-simulator-19-kverneland-and-vicon-equipment-pack.json) |
 | Farming Simulator 19: Platinum Edition | 121755 | [121755-farming-simulator-19-platinum-edition.json](./121755-farming-simulator-19-platinum-edition.json) |
 | Farming Simulator 19: Platinum Expansion | 227361 | [227361-farming-simulator-19-platinum-expansion.json](./227361-farming-simulator-19-platinum-expansion.json) |
 | Farming Simulator 19: Premium Edition | 139999 | [139999-farming-simulator-19-premium-edition.json](./139999-farming-simulator-19-premium-edition.json) |
@@ -6580,6 +6582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Sim World: Pro Tour - Bass Pro Shops Equipment Pack | 170476 | [170476-fishing-sim-world-pro-tour-bass-pro-shops-equipment-pack.json](./170476-fishing-sim-world-pro-tour-bass-pro-shops-equipment-pack.json) |
 | Fishing Sim World: Pro Tour - Big Fish Lure Pack | 156175 | [156175-fishing-sim-world-pro-tour-big-fish-lure-pack.json](./156175-fishing-sim-world-pro-tour-big-fish-lure-pack.json) |
 | Fishing Sim World: Pro Tour - Deluxe Edition | 228093 | [228093-fishing-sim-world-pro-tour-deluxe-edition.json](./228093-fishing-sim-world-pro-tour-deluxe-edition.json) |
+| Fishing Sim World: Pro Tour - Giant Carp Pack | 227073 | [227073-fishing-sim-world-pro-tour-giant-carp-pack.json](./227073-fishing-sim-world-pro-tour-giant-carp-pack.json) |
 | Fishing Sim World: Pro Tour - Gigantica Road Lake | 169970 | [169970-fishing-sim-world-pro-tour-gigantica-road-lake.json](./169970-fishing-sim-world-pro-tour-gigantica-road-lake.json) |
 | Fishing Sim World: Pro Tour - Jezioro Bestii | 170474 | [170474-fishing-sim-world-pro-tour-jezioro-bestii.json](./170474-fishing-sim-world-pro-tour-jezioro-bestii.json) |
 | Fishing Sim World: Pro Tour - Lago Del Mundo | 170477 | [170477-fishing-sim-world-pro-tour-lago-del-mundo.json](./170477-fishing-sim-world-pro-tour-lago-del-mundo.json) |
@@ -10358,6 +10361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Intrepid Engines Pack | 255445 | [255445-fortnite-intrepid-engines-pack.json](./255445-fortnite-intrepid-engines-pack.json) |
 | Fortnite: Kyran Aryk Crew Pack | 321446 | [321446-fortnite-kyran-aryk-crew-pack.json](./321446-fortnite-kyran-aryk-crew-pack.json) |
 | Fortnite: Lava Legends Pack | 227107 | [227107-fortnite-lava-legends-pack.json](./227107-fortnite-lava-legends-pack.json) |
+| Fortnite: Lok-Bot Pack | 227082 | [227082-fortnite-lok-bot-pack.json](./227082-fortnite-lok-bot-pack.json) |
 | Fortnite: Luminary Hypatia Starter Pack | 360188 | [360188-fortnite-luminary-hypatia-starter-pack.json](./360188-fortnite-luminary-hypatia-starter-pack.json) |
 | Fortnite: Magma Masters Pack | 227106 | [227106-fortnite-magma-masters-pack.json](./227106-fortnite-magma-masters-pack.json) |
 | Fortnite: Mainframe Break Pack | 255447 | [255447-fortnite-mainframe-break-pack.json](./255447-fortnite-mainframe-break-pack.json) |
@@ -10365,6 +10369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: May 2024 Fortnite Crew Pack | 303239 | [303239-fortnite-may-2024-fortnite-crew-pack.json](./303239-fortnite-may-2024-fortnite-crew-pack.json) |
 | Fortnite: Minty Legends Pack | 221948 | [221948-fortnite-minty-legends-pack.json](./221948-fortnite-minty-legends-pack.json) |
 | Fortnite: Raptor Royale Pack | 333588 | [333588-fortnite-raptor-royale-pack.json](./333588-fortnite-raptor-royale-pack.json) |
+| Fortnite: Robo-Kevin Pack | 227085 | [227085-fortnite-robo-kevin-pack.json](./227085-fortnite-robo-kevin-pack.json) |
 | Fortnite: Rogue Alias Pack | 305198 | [305198-fortnite-rogue-alias-pack.json](./305198-fortnite-rogue-alias-pack.json) |
 | Fortnite: Rogue Scout Pack | 369598 | [369598-fortnite-rogue-scout-pack.json](./369598-fortnite-rogue-scout-pack.json) |
 | Fortnite: Sapphire Hagiri Quest Pack | 254501 | [254501-fortnite-sapphire-hagiri-quest-pack.json](./254501-fortnite-sapphire-hagiri-quest-pack.json) |
@@ -10375,7 +10380,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Season 6 | 129874 | [129874-fortnite-season-6.json](./129874-fortnite-season-6.json) |
 | Fortnite: Season 8 | 129872 | [129872-fortnite-season-8.json](./129872-fortnite-season-8.json) |
 | Fortnite: Season 9 | 129871 | [129871-fortnite-season-9.json](./129871-fortnite-season-9.json) |
+| Fortnite: Shadows Rising Pack | 227105 | [227105-fortnite-shadows-rising-pack.json](./227105-fortnite-shadows-rising-pack.json) |
 | Fortnite: Storm-Wild Raven Starter Pack | 331701 | [331701-fortnite-storm-wild-raven-starter-pack.json](./331701-fortnite-storm-wild-raven-starter-pack.json) |
+| Fortnite: Summer Legends Pack | 227104 | [227104-fortnite-summer-legends-pack.json](./227104-fortnite-summer-legends-pack.json) |
 | Fortnite: The Final Reckoning Pack | 277521 | [277521-fortnite-the-final-reckoning-pack.json](./277521-fortnite-the-final-reckoning-pack.json) |
 | Fortnite: The High Stakes Club Pack | 267769 | [267769-fortnite-the-high-stakes-club-pack.json](./267769-fortnite-the-high-stakes-club-pack.json) |
 | Fortnite: The Laguna Pack | 255541 | [255541-fortnite-the-laguna-pack.json](./255541-fortnite-the-laguna-pack.json) |
@@ -13241,6 +13248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funfair Party | 94861 | [94861-funfair-party.json](./94861-funfair-party.json) |
 | Funfair Party Games | 85163 | [85163-funfair-party-games.json](./85163-funfair-party-games.json) |
 | Funfair Ride Simulator 3 | 32190 | [32190-funfair-ride-simulator-3.json](./32190-funfair-ride-simulator-3.json) |
+| Funfair Ride Simulator 3: Ride Pack 1 | 227069 | [227069-funfair-ride-simulator-3-ride-pack-1.json](./227069-funfair-ride-simulator-3-ride-pack-1.json) |
 | Funfair Ride Simulator 3: Ride Pack 2 | 162273 | [162273-funfair-ride-simulator-3-ride-pack-2.json](./162273-funfair-ride-simulator-3-ride-pack-2.json) |
 | Funfair Ride Simulator 3: Ride Pack 3 | 162272 | [162272-funfair-ride-simulator-3-ride-pack-3.json](./162272-funfair-ride-simulator-3-ride-pack-3.json) |
 | Funfair Ride Simulator 3: Ride Pack 4 | 162271 | [162271-funfair-ride-simulator-3-ride-pack-4.json](./162271-funfair-ride-simulator-3-ride-pack-4.json) |
@@ -13456,6 +13464,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furi: Onnamusha | 200436 | [200436-furi-onnamusha.json](./200436-furi-onnamusha.json) |
 | Furia de Weichafes | 250711 | [250711-furia-de-weichafes.json](./250711-furia-de-weichafes.json) |
 | Furidashi: Drift Cyber Sport | 74669 | [74669-furidashi-drift-cyber-sport.json](./74669-furidashi-drift-cyber-sport.json) |
+| Furidashi: Drift Cyber Sport - Premium Cars Pack 1 | 227071 | [227071-furidashi-drift-cyber-sport-premium-cars-pack-1.json](./227071-furidashi-drift-cyber-sport-premium-cars-pack-1.json) |
+| Furidashi: Drift Cyber Sport - Premium Cars Pack 2 | 227070 | [227070-furidashi-drift-cyber-sport-premium-cars-pack-2.json](./227070-furidashi-drift-cyber-sport-premium-cars-pack-2.json) |
 | Furies & Magazines: Episode 1 | 243563 | [243563-furies-and-magazines-episode-1.json](./243563-furies-and-magazines-episode-1.json) |
 | Furies: Last Escape | 181491 | [181491-furies-last-escape.json](./181491-furies-last-escape.json) |
 | Furikake Spacey | 216461 | [216461-furikake-spacey.json](./216461-furikake-spacey.json) |
