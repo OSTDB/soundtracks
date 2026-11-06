@@ -957,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1378,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldrsky: Core Defender | 202140 | [202140-baldrsky-core-defender.json](./202140-baldrsky-core-defender.json) |
 | Baldur's Gate | 376722 | [376722-baldurs-gate.json](./376722-baldurs-gate.json) |
 | Baldur's Gate 2 Complete | 415834 | [415834-baldurs-gate-2-complete.json](./415834-baldurs-gate-2-complete.json) |
+| Baldur's Gate 3: Collector's Edition | 239449 | [239449-baldurs-gate-3-collectors-edition.json](./239449-baldurs-gate-3-collectors-edition.json) |
 | Baldur's Gate 3: Deluxe Edition | 279660 | [279660-baldurs-gate-3-deluxe-edition.json](./279660-baldurs-gate-3-deluxe-edition.json) |
 | Baldur's Gate 3: Digital Deluxe Edition | 279884 | [279884-baldurs-gate-3-digital-deluxe-edition.json](./279884-baldurs-gate-3-digital-deluxe-edition.json) |
 | Baldur's Gate and Baldur's Gate II: Enhanced Editions | 124786 | [124786-baldurs-gate-and-baldurs-gate-ii-enhanced-editions.json](./124786-baldurs-gate-and-baldurs-gate-ii-enhanced-editions.json) |
@@ -3596,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Cross | 95412 | [95412-battle-cross.json](./95412-battle-cross.json) |
 | Battle Cruiser | 39772 | [39772-battle-cruiser.json](./39772-battle-cruiser.json) |
 | Battle Cruiser M-12 | 40241 | [40241-battle-cruiser-m-12.json](./40241-battle-cruiser-m-12.json) |
+| Battle Crush | 239400 | [239400-battle-crush.json](./239400-battle-crush.json) |
 | Battle Crusher | 66069 | [66069-battle-crusher.json](./66069-battle-crusher.json) |
 | Battle Crust | 33505 | [33505-battle-crust.json](./33505-battle-crust.json) |
 | Battle Cry of Freedom | 63551 | [63551-battle-cry-of-freedom.json](./63551-battle-cry-of-freedom.json) |
@@ -10622,6 +10625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky | 234699 | [234699-blocky.json](./234699-blocky.json) |
 | Blocky 6 | 233174 | [233174-blocky-6.json](./233174-blocky-6.json) |
 | Blocky Ball | 151040 | [151040-blocky-ball.json](./151040-blocky-ball.json) |
+| Blocky Balloons | 239401 | [239401-blocky-balloons.json](./239401-blocky-balloons.json) |
 | Blocky Bee | 26685 | [26685-blocky-bee.json](./26685-blocky-bee.json) |
 | Blocky Blast | 343011 | [343011-blocky-blast.json](./343011-blocky-blast.json) |
 | Blocky Cars In Real World | 175332 | [175332-blocky-cars-in-real-world.json](./175332-blocky-cars-in-real-world.json) |
@@ -10765,6 +10769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Bowl 2: Wood Elves | 52648 | [52648-blood-bowl-2-wood-elves.json](./52648-blood-bowl-2-wood-elves.json) |
 | Blood Bowl 3: Black Orcs Edition | 231577 | [231577-blood-bowl-3-black-orcs-edition.json](./231577-blood-bowl-3-black-orcs-edition.json) |
 | Blood Bowl 3: Brutal Edition | 142166 | [142166-blood-bowl-3-brutal-edition.json](./142166-blood-bowl-3-brutal-edition.json) |
+| Blood Bowl 3: Imperial Nobility Edition | 239411 | [239411-blood-bowl-3-imperial-nobility-edition.json](./239411-blood-bowl-3-imperial-nobility-edition.json) |
 | Blood Bowl III | 138137 | [138137-blood-bowl-iii.json](./138137-blood-bowl-iii.json) |
 | Blood Bowl III: Season 1 | 250909 | [250909-blood-bowl-iii-season-1.json](./250909-blood-bowl-iii-season-1.json) |
 | Blood Bowl III: Season 2 | 302463 | [302463-blood-bowl-iii-season-2.json](./302463-blood-bowl-iii-season-2.json) |
@@ -13680,6 +13685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy Jump Ball | 231974 | [231974-bouncy-jump-ball.json](./231974-bouncy-jump-ball.json) |
 | Bouncy Kingdoms | 397768 | [397768-bouncy-kingdoms.json](./397768-bouncy-kingdoms.json) |
 | Bouncy Mouse | 93947 | [93947-bouncy-mouse.json](./93947-bouncy-mouse.json) |
+| Bouncy Pirates | 239421 | [239421-bouncy-pirates.json](./239421-bouncy-pirates.json) |
 | Bouncy Pork Simulator | 339394 | [339394-bouncy-pork-simulator.json](./339394-bouncy-pork-simulator.json) |
 | Bouncy Ropes | 104429 | [104429-bouncy-ropes.json](./104429-bouncy-ropes.json) |
 | Bouncy Smash | 89184 | [89184-bouncy-smash.json](./89184-bouncy-smash.json) |
@@ -14127,6 +14133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxy Trial | 122334 | [122334-boxy-trial.json](./122334-boxy-trial.json) |
 | Boxyboy | 94912 | [94912-boxyboy.json](./94912-boxyboy.json) |
 | Boxzum | 84283 | [84283-boxzum.json](./84283-boxzum.json) |
+| Boy & Wheel | 239431 | [239431-boy-and-wheel.json](./239431-boy-and-wheel.json) |
 | Boy and the Seagull | 197649 | [197649-boy-and-the-seagull.json](./197649-boy-and-the-seagull.json) |
 | Boy Beats World | 127337 | [127337-boy-beats-world.json](./127337-boy-beats-world.json) |
 | Boy Goes to Space | 128584 | [128584-boy-goes-to-space.json](./128584-boy-goes-to-space.json) |
@@ -14405,6 +14412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Braise | 332996 | [332996-braise.json](./332996-braise.json) |
 | Braiser | 323593 | [323593-braiser.json](./323593-braiser.json) |
 | Brake Away | 178561 | [178561-brake-away.json](./178561-brake-away.json) |
+| Brake Away | 239443 | [239443-brake-away.json](./239443-brake-away.json) |
 | Brake or Break | 114716 | [114716-brake-or-break.json](./114716-brake-or-break.json) |
 | Brake to Die | 100844 | [100844-brake-to-die.json](./100844-brake-to-die.json) |
 | Brakeless | 410615 | [410615-brakeless.json](./410615-brakeless.json) |
@@ -14732,6 +14740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawler Friends | 58186 | [58186-brawler-friends.json](./58186-brawler-friends.json) |
 | Brawlers | 266240 | [266240-brawlers.json](./266240-brawlers.json) |
 | Brawlers of Duality | 310500 | [310500-brawlers-of-duality.json](./310500-brawlers-of-duality.json) |
+| Brawlerz Zombies | 239437 | [239437-brawlerz-zombies.json](./239437-brawlerz-zombies.json) |
 | Brawlerz: Nitro | 28433 | [28433-brawlerz-nitro.json](./28433-brawlerz-nitro.json) |
 | Brawlhalla BCX 2022 Pack | 230714 | [230714-brawlhalla-bcx-2022-pack.json](./230714-brawlhalla-bcx-2022-pack.json) |
 | Brawlhalla x Guacamelee Crossover | 342146 | [342146-brawlhalla-x-guacamelee-crossover.json](./342146-brawlhalla-x-guacamelee-crossover.json) |
