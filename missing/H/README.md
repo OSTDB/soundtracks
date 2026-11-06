@@ -6053,6 +6053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Never Die | 40511 | [40511-heroes-never-die.json](./40511-heroes-never-die.json) |
 | Heroes Never Die! | 227523 | [227523-heroes-never-die.json](./227523-heroes-never-die.json) |
 | Heroes Never Lose: Professor Puzzler's Perplexing Ploy | 11330 | [11330-heroes-never-lose-professor-puzzlers-perplexing-ploy.json](./11330-heroes-never-lose-professor-puzzlers-perplexing-ploy.json) |
+| Heroes of 71: Retaliation | 196358 | [196358-heroes-of-71-retaliation.json](./196358-heroes-of-71-retaliation.json) |
 | Heroes of a Broken Land | 17663 | [17663-heroes-of-a-broken-land.json](./17663-heroes-of-a-broken-land.json) |
 | Heroes of a Broken Land 2 | 114089 | [114089-heroes-of-a-broken-land-2.json](./114089-heroes-of-a-broken-land-2.json) |
 | Heroes of Abyss | 191160 | [191160-heroes-of-abyss.json](./191160-heroes-of-abyss.json) |
@@ -10055,6 +10056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Break: Head to Head | 214528 | [214528-horror-break-head-to-head.json](./214528-horror-break-head-to-head.json) |
 | Horror Bundle Vol. 1 | 147795 | [147795-horror-bundle-vol-1.json](./147795-horror-bundle-vol-1.json) |
 | Horror Bundle: 3 in 1 | 247584 | [247584-horror-bundle-3-in-1.json](./247584-horror-bundle-3-in-1.json) |
+| Horror Bundle: Paratopic + Fatum Betula | 196360 | [196360-horror-bundle-paratopic-fatum-betula.json](./196360-horror-bundle-paratopic-fatum-betula.json) |
 | Horror Cam | 278947 | [278947-horror-cam.json](./278947-horror-cam.json) |
 | Horror Camp | 350940 | [350940-horror-camp.json](./350940-horror-camp.json) |
 | Horror Cartridge Collection | 244897 | [244897-horror-cartridge-collection.json](./244897-horror-cartridge-collection.json) |
