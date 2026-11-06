@@ -8914,11 +8914,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Truck Tycoon: Asian Cuisine | 147922 | [147922-food-truck-tycoon-asian-cuisine.json](./147922-food-truck-tycoon-asian-cuisine.json) |
 | Food Truck Tycoon: Asian Cuisine - Complete Edition | 238046 | [238046-food-truck-tycoon-asian-cuisine-complete-edition.json](./238046-food-truck-tycoon-asian-cuisine-complete-edition.json) |
 | Food Truck Tycoon: Asian Cuisine - Deluxe Edition | 204297 | [204297-food-truck-tycoon-asian-cuisine-deluxe-edition.json](./204297-food-truck-tycoon-asian-cuisine-deluxe-edition.json) |
+| Food Truck Tycoon: Asian Cuisine - Expansion Pack | 238262 | [238262-food-truck-tycoon-asian-cuisine-expansion-pack.json](./238262-food-truck-tycoon-asian-cuisine-expansion-pack.json) |
 | Food Truck Tycoon: Asian Cuisine Expansion Pack 2 | 199855 | [199855-food-truck-tycoon-asian-cuisine-expansion-pack-2.json](./199855-food-truck-tycoon-asian-cuisine-expansion-pack-2.json) |
 | Food Truck Tycoon: Co-op Edition | 247590 | [247590-food-truck-tycoon-co-op-edition.json](./247590-food-truck-tycoon-co-op-edition.json) |
 | Food Truck Tycoon: Complete Edition | 199845 | [199845-food-truck-tycoon-complete-edition.json](./199845-food-truck-tycoon-complete-edition.json) |
 | Food Truck Tycoon: Couch Co-op Edition | 256616 | [256616-food-truck-tycoon-couch-co-op-edition.json](./256616-food-truck-tycoon-couch-co-op-edition.json) |
 | Food Truck Tycoon: Deluxe Edition | 221506 | [221506-food-truck-tycoon-deluxe-edition.json](./221506-food-truck-tycoon-deluxe-edition.json) |
+| Food Truck Tycoon: Expansion Pack | 238242 | [238242-food-truck-tycoon-expansion-pack.json](./238242-food-truck-tycoon-expansion-pack.json) |
 | Food Truck Tycoon: Expansion Pack 2 | 199838 | [199838-food-truck-tycoon-expansion-pack-2.json](./199838-food-truck-tycoon-expansion-pack-2.json) |
 | Food Truck Tycoon: GOTY Edition | 268556 | [268556-food-truck-tycoon-goty-edition.json](./268556-food-truck-tycoon-goty-edition.json) |
 | Food Truck Tycoon: Multiplayer Edition | 240407 | [240407-food-truck-tycoon-multiplayer-edition.json](./240407-food-truck-tycoon-multiplayer-edition.json) |
@@ -9888,6 +9890,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forklift Extreme Simulator | 239244 | [239244-forklift-extreme-simulator.json](./239244-forklift-extreme-simulator.json) |
 | Forklift Extreme Simulator 2 | 297522 | [297522-forklift-extreme-simulator-2.json](./297522-forklift-extreme-simulator-2.json) |
 | Forklift Extreme: Furniture Direct | 246034 | [246034-forklift-extreme-furniture-direct.json](./246034-forklift-extreme-furniture-direct.json) |
+| Forklift Extreme: Impound Lot | 238244 | [238244-forklift-extreme-impound-lot.json](./238244-forklift-extreme-impound-lot.json) |
+| Forklift Extreme: Military Storage | 238245 | [238245-forklift-extreme-military-storage.json](./238245-forklift-extreme-military-storage.json) |
 | Forklift Extreme: Santa's Workshop | 231287 | [231287-forklift-extreme-santas-workshop.json](./231287-forklift-extreme-santas-workshop.json) |
 | Forklift Extreme: Ultra DLC Pack | 252405 | [252405-forklift-extreme-ultra-dlc-pack.json](./252405-forklift-extreme-ultra-dlc-pack.json) |
 | Forklift Extreme: Ultra Edition | 252404 | [252404-forklift-extreme-ultra-edition.json](./252404-forklift-extreme-ultra-edition.json) |
