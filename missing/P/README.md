@@ -5844,6 +5844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pia Carrot e Youkoso!! 4 | 92254 | [92254-pia-carrot-e-youkoso-4.json](./92254-pia-carrot-e-youkoso-4.json) |
 | Pia Carrot e Youkoso!! G.O. | 72645 | [72645-pia-carrot-e-youkoso-g-o.json](./72645-pia-carrot-e-youkoso-g-o.json) |
 | Pia Carrot he Youkoso!! | 45955 | [45955-pia-carrot-he-youkoso.json](./45955-pia-carrot-he-youkoso.json) |
+| Pia Carrot he Youkoso!! 2 | 194720 | [194720-pia-carrot-he-youkoso-2.json](./194720-pia-carrot-he-youkoso-2.json) |
 | Pia Carrot he Youkoso!! 2 | 62748 | [62748-pia-carrot-he-youkoso-2.json](./62748-pia-carrot-he-youkoso-2.json) |
 | Pianista: The Legendary Virtuoso | 111040 | [111040-pianista-the-legendary-virtuoso.json](./111040-pianista-the-legendary-virtuoso.json) |
 | Pianistic | 159479 | [159479-pianistic.json](./159479-pianistic.json) |
@@ -9969,6 +9970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Duology | 189040 | [189040-please-duology.json](./189040-please-duology.json) |
 | Please Find Me | 120173 | [120173-please-find-me.json](./120173-please-find-me.json) |
 | Please Fix the Mess | 396700 | [396700-please-fix-the-mess.json](./396700-please-fix-the-mess.json) |
+| Please Fix the Road | 194704 | [194704-please-fix-the-road.json](./194704-please-fix-the-road.json) |
 | Please Follow | 134681 | [134681-please-follow.json](./134681-please-follow.json) |
 | Please Fuck Me My Sexy Neighbor | 385321 | [385321-please-fuck-me-my-sexy-neighbor.json](./385321-please-fuck-me-my-sexy-neighbor.json) |
 | Please Help Me! I'm Stuck In Esoteric Prime Number Hell! | 339869 | [339869-please-help-me-im-stuck-in-esoteric-prime-number-hell.json](./339869-please-help-me-im-stuck-in-esoteric-prime-number-hell.json) |
@@ -15035,6 +15037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Cycling Manager 2018 | 103062 | [103062-pro-cycling-manager-2018.json](./103062-pro-cycling-manager-2018.json) |
 | Pro Cycling Manager 2019 | 119029 | [119029-pro-cycling-manager-2019.json](./119029-pro-cycling-manager-2019.json) |
 | Pro Cycling Manager 2021 | 145325 | [145325-pro-cycling-manager-2021.json](./145325-pro-cycling-manager-2021.json) |
+| Pro Cycling Manager 2022 | 194715 | [194715-pro-cycling-manager-2022.json](./194715-pro-cycling-manager-2022.json) |
 | Pro Cycling Manager 2023 | 241245 | [241245-pro-cycling-manager-2023.json](./241245-pro-cycling-manager-2023.json) |
 | Pro Cycling Manager 2024 | 288856 | [288856-pro-cycling-manager-2024.json](./288856-pro-cycling-manager-2024.json) |
 | Pro Cycling Manager 25 | 347190 | [347190-pro-cycling-manager-25.json](./347190-pro-cycling-manager-25.json) |
@@ -17786,6 +17789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purplis Sandbox | 142623 | [142623-purplis-sandbox.json](./142623-purplis-sandbox.json) |
 | Purpose 1951 | 293583 | [293583-purpose-1951.json](./293583-purpose-1951.json) |
 | Purpose Calling | 295795 | [295795-purpose-calling.json](./295795-purpose-calling.json) |
+| Purpose: Versus | 194689 | [194689-purpose-versus.json](./194689-purpose-versus.json) |
 | Purpul Bandana | 55565 | [55565-purpul-bandana.json](./55565-purpul-bandana.json) |
 | Purr Bricks | 396012 | [396012-purr-bricks.json](./396012-purr-bricks.json) |
 | Purr Pals | 5110 | [5110-purr-pals.json](./5110-purr-pals.json) |
