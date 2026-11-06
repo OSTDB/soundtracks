@@ -12372,6 +12372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Pac & Pal | 215109 | [215109-arcade-archives-pac-and-pal.json](./215109-arcade-archives-pac-and-pal.json) |
 | Arcade Archives: Pac-Land | 196444 | [196444-arcade-archives-pac-land.json](./196444-arcade-archives-pac-land.json) |
 | Arcade Archives: Pac-Man | 172431 | [172431-arcade-archives-pac-man.json](./172431-arcade-archives-pac-man.json) |
+| Arcade Archives: Pac-Mania | 228863 | [228863-arcade-archives-pac-mania.json](./228863-arcade-archives-pac-mania.json) |
 | Arcade Archives: Penguin-Kun Wars | 129497 | [129497-arcade-archives-penguin-kun-wars.json](./129497-arcade-archives-penguin-kun-wars.json) |
 | Arcade Archives: Pettan Pyuu | 147115 | [147115-arcade-archives-pettan-pyuu.json](./147115-arcade-archives-pettan-pyuu.json) |
 | Arcade Archives: Phelios | 234631 | [234631-arcade-archives-phelios.json](./234631-arcade-archives-phelios.json) |
@@ -16492,6 +16493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
