@@ -3318,6 +3318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-Second Records | 379077 | [379077-8-second-records.json](./379077-8-second-records.json) |
 | 8:00 AM: Still Morning | 394616 | [394616-8-00-am-still-morning.json](./394616-8-00-am-still-morning.json) |
 | 8:11 | 186427 | [186427-8-11.json](./186427-8-11.json) |
+| 8/8/88 Needle AL | 199699 | [199699-8-8-88-needle-al.json](./199699-8-8-88-needle-al.json) |
 | 80 Days | 9053 | [9053-80-days.json](./9053-80-days.json) |
 | 80 Days & Overboard! | 212873 | [212873-80-days-and-overboard.json](./212873-80-days-and-overboard.json) |
 | 80.08 | 54444 | [54444-80-08.json](./54444-80-08.json) |
