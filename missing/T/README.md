@@ -2757,6 +2757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavern Tycoon: Brew & Brawl | 391758 | [391758-tavern-tycoon-brew-and-brawl.json](./391758-tavern-tycoon-brew-and-brawl.json) |
 | Tavern Ventures: Guilds & Tales | 298163 | [298163-tavern-ventures-guilds-and-tales.json](./298163-tavern-ventures-guilds-and-tales.json) |
 | Taverna | 335037 | [335037-taverna.json](./335037-taverna.json) |
+| Tavernacle! | 204131 | [204131-tavernacle.json](./204131-tavernacle.json) |
 | TavernHold | 361685 | [361685-tavernhold.json](./361685-tavernhold.json) |
 | Tavernia | 391212 | [391212-tavernia.json](./391212-tavernia.json) |
 | Tavernier | 31587 | [31587-tavernier.json](./31587-tavernier.json) |
@@ -15865,6 +15866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Samaritan Paradox | 18642 | [18642-the-samaritan-paradox.json](./18642-the-samaritan-paradox.json) |
 | The Same World 2 | 214022 | [214022-the-same-world-2.json](./214022-the-same-world-2.json) |
 | The Sand Dunes | 161613 | [161613-the-sand-dunes.json](./161613-the-sand-dunes.json) |
+| The Sand Knight | 204128 | [204128-the-sand-knight.json](./204128-the-sand-knight.json) |
 | The Sand Man | 81095 | [81095-the-sand-man.json](./81095-the-sand-man.json) |
 | The Sandbox | 16872 | [16872-the-sandbox.json](./16872-the-sandbox.json) |
 | The Sandbox | 182468 | [182468-the-sandbox.json](./182468-the-sandbox.json) |
