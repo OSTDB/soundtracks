@@ -15490,6 +15490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterix & Obelix XXL: Collection | 140168 | [140168-asterix-and-obelix-xxl-collection.json](./140168-asterix-and-obelix-xxl-collection.json) |
 | Asterix & Obelix XXL: Romastered | 138352 | [138352-asterix-and-obelix-xxl-romastered.json](./138352-asterix-and-obelix-xxl-romastered.json) |
 | Asterix & Obelix XXXL: The Ram From Hibernia | 208734 | [208734-asterix-and-obelix-xxxl-the-ram-from-hibernia.json](./208734-asterix-and-obelix-xxxl-the-ram-from-hibernia.json) |
+| Asterix & Obelix XXXL: The Ram From Hibernia - Collector's Edition | 218217 | [218217-asterix-and-obelix-xxxl-the-ram-from-hibernia-collectors-edition.json](./218217-asterix-and-obelix-xxxl-the-ram-from-hibernia-collectors-edition.json) |
 | Asterix & Obelix XXXL: The Ram From Hibernia - Day One Edition | 209810 | [209810-asterix-and-obelix-xxxl-the-ram-from-hibernia-day-one-edition.json](./209810-asterix-and-obelix-xxxl-the-ram-from-hibernia-day-one-edition.json) |
 | Asterix & Obelix XXXL: The Ram From Hibernia - Limited Edition | 208735 | [208735-asterix-and-obelix-xxxl-the-ram-from-hibernia-limited-edition.json](./208735-asterix-and-obelix-xxxl-the-ram-from-hibernia-limited-edition.json) |
 | Astérix & Obélix: Bash Them All! | 49254 | [49254-asterix-and-obelix-bash-them-all.json](./49254-asterix-and-obelix-bash-them-all.json) |
