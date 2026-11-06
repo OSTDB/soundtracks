@@ -4713,6 +4713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erannorth Chronicles | 164287 | [164287-erannorth-chronicles.json](./164287-erannorth-chronicles.json) |
 | Erannorth Chronicles: Ancient Ruins | 192263 | [192263-erannorth-chronicles-ancient-ruins.json](./192263-erannorth-chronicles-ancient-ruins.json) |
 | Erannorth Chronicles: Guilds and Secret Societies | 226806 | [226806-erannorth-chronicles-guilds-and-secret-societies.json](./226806-erannorth-chronicles-guilds-and-secret-societies.json) |
+| Erannorth Chronicles: Untold Tales and Legends | 238828 | [238828-erannorth-chronicles-untold-tales-and-legends.json](./238828-erannorth-chronicles-untold-tales-and-legends.json) |
 | Erannorth Reborn | 116711 | [116711-erannorth-reborn.json](./116711-erannorth-reborn.json) |
 | Erannorth Reborn: Blood Coven Rise | 168914 | [168914-erannorth-reborn-blood-coven-rise.json](./168914-erannorth-reborn-blood-coven-rise.json) |
 | Erannorth Reborn: Canticum Noctem | 168913 | [168913-erannorth-reborn-canticum-noctem.json](./168913-erannorth-reborn-canticum-noctem.json) |
