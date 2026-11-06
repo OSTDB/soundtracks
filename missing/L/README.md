@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LA Hollywood Zombies | 273633 | [273633-la-hollywood-zombies.json](./273633-la-hollywood-zombies.json) |
 | La Isla de lo Mono | 208467 | [208467-la-isla-de-lo-mono.json](./208467-la-isla-de-lo-mono.json) |
 | La Java du Privé | 350540 | [350540-la-java-du-prive.json](./350540-la-java-du-prive.json) |
+| La Jetée | 199682 | [199682-la-jetee.json](./199682-la-jetee.json) |
 | La Jupo Vania: The Game | 315326 | [315326-la-jupo-vania-the-game.json](./315326-la-jupo-vania-the-game.json) |
 | La La Land | 215005 | [215005-la-la-land.json](./215005-la-la-land.json) |
 | La La Land 2 | 215006 | [215006-la-la-land-2.json](./215006-la-la-land-2.json) |
@@ -4129,6 +4130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Level-ROM | 116804 | [116804-level-rom.json](./116804-level-rom.json) |
 | Leveleers | 348378 | [348378-leveleers.json](./348378-leveleers.json) |
 | Levelhead | 212695 | [212695-levelhead.json](./212695-levelhead.json) |
+| Leveling Up Girls in Another World | 199709 | [199709-leveling-up-girls-in-another-world.json](./199709-leveling-up-girls-in-another-world.json) |
 | LevelMergePuzzle | 297652 | [297652-levelmergepuzzle.json](./297652-levelmergepuzzle.json) |
 | Levels | 391700 | [391700-levels.json](./391700-levels.json) |
 | Levels+: Addictive Puzzle Game | 51407 | [51407-levels-addictive-puzzle-game.json](./51407-levels-addictive-puzzle-game.json) |
