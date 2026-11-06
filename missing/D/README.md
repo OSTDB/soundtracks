@@ -2321,6 +2321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DartMUD: Lands of Ferdarchi | 349935 | [349935-dartmud-lands-of-ferdarchi.json](./349935-dartmud-lands-of-ferdarchi.json) |
 | Dartoster | 179459 | [179459-dartoster.json](./179459-dartoster.json) |
 | Darts | 159273 | [159273-darts.json](./159273-darts.json) |
+| Darts | 215436 | [215436-darts.json](./215436-darts.json) |
 | Darts | 246170 | [246170-darts.json](./246170-darts.json) |
 | Darts | 246997 | [246997-darts.json](./246997-darts.json) |
 | Darts | 358830 | [358830-darts.json](./358830-darts.json) |
@@ -7538,11 +7539,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destropolis | 143587 | [143587-destropolis.json](./143587-destropolis.json) |
 | Destroy | 328290 | [328290-destroy.json](./328290-destroy.json) |
 | Destroy All Cars | 337203 | [337203-destroy-all-cars.json](./337203-destroy-all-cars.json) |
+| Destroy All Humans! | 215448 | [215448-destroy-all-humans.json](./215448-destroy-all-humans.json) |
+| Destroy All Humans! 2 | 215449 | [215449-destroy-all-humans-2.json](./215449-destroy-all-humans-2.json) |
 | Destroy All Humans! 2: Reprobed | 171214 | [171214-destroy-all-humans-2-reprobed.json](./171214-destroy-all-humans-2-reprobed.json) |
 | Destroy All Humans! 2: Reprobed - Challenge Accepted | 220596 | [220596-destroy-all-humans-2-reprobed-challenge-accepted.json](./220596-destroy-all-humans-2-reprobed-challenge-accepted.json) |
 | Destroy All Humans! 2: Reprobed - Dressed to Skill Edition | 203688 | [203688-destroy-all-humans-2-reprobed-dressed-to-skill-edition.json](./203688-destroy-all-humans-2-reprobed-dressed-to-skill-edition.json) |
 | Destroy All Humans! 2: Reprobed - Skin Pack | 248420 | [248420-destroy-all-humans-2-reprobed-skin-pack.json](./248420-destroy-all-humans-2-reprobed-skin-pack.json) |
 | Destroy All Humans! Big Willy Unleashed | 2716 | [2716-destroy-all-humans-big-willy-unleashed.json](./2716-destroy-all-humans-big-willy-unleashed.json) |
+| Destroy All Humans! Crypto Does Vegas | 215442 | [215442-destroy-all-humans-crypto-does-vegas.json](./215442-destroy-all-humans-crypto-does-vegas.json) |
 | Destroy All Humans! Path of the Furon | 2717 | [2717-destroy-all-humans-path-of-the-furon.json](./2717-destroy-all-humans-path-of-the-furon.json) |
 | Destroy All Humans!: Clone Carnage | 203364 | [203364-destroy-all-humans-clone-carnage.json](./203364-destroy-all-humans-clone-carnage.json) |
 | Destroy All Humans!: Crypto 137 Edition | 136110 | [136110-destroy-all-humans-crypto-137-edition.json](./136110-destroy-all-humans-crypto-137-edition.json) |
