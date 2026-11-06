@@ -6535,6 +6535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lizard Brain | 375283 | [375283-lizard-brain.json](./375283-lizard-brain.json) |
 | Lizard Crash | 25759 | [25759-lizard-crash.json](./25759-lizard-crash.json) |
 | Lizard Lady vs the Cats | 152856 | [152856-lizard-lady-vs-the-cats.json](./152856-lizard-lady-vs-the-cats.json) |
+| Lizard Lady vs. the Cats: Platinum Edition | 206306 | [206306-lizard-lady-vs-the-cats-platinum-edition.json](./206306-lizard-lady-vs-the-cats-platinum-edition.json) |
 | Lizard Noisemaker | 388078 | [388078-lizard-noisemaker.json](./388078-lizard-noisemaker.json) |
 | Lizard Quest | 229627 | [229627-lizard-quest.json](./229627-lizard-quest.json) |
 | Lizard Quest! | 244471 | [244471-lizard-quest.json](./244471-lizard-quest.json) |
@@ -9185,6 +9186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucha Masters StickerMania | 264392 | [264392-lucha-masters-stickermania.json](./264392-lucha-masters-stickermania.json) |
 | Lucha Masters: Mighty Lucha | 297134 | [297134-lucha-masters-mighty-lucha.json](./297134-lucha-masters-mighty-lucha.json) |
 | Lucha Underground | 257260 | [257260-lucha-underground.json](./257260-lucha-underground.json) |
+| Luche no Shuroku | 206401 | [206401-luche-no-shuroku.json](./206401-luche-no-shuroku.json) |
 | Luci RPG | 228678 | [228678-luci-rpg.json](./228678-luci-rpg.json) |
 | Lucia and the Possessed World | 266988 | [266988-lucia-and-the-possessed-world.json](./266988-lucia-and-the-possessed-world.json) |
 | Lucia Journey | 405831 | [405831-lucia-journey.json](./405831-lucia-journey.json) |
