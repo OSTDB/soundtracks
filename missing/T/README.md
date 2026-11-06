@@ -14049,6 +14049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Network | 21777 | [21777-the-network.json](./21777-the-network.json) |
 | The Neurochemical Conjob | 291396 | [291396-the-neurochemical-conjob.json](./291396-the-neurochemical-conjob.json) |
 | The Never Ending Game | 149359 | [149359-the-never-ending-game.json](./149359-the-never-ending-game.json) |
+| The Never Ending Game | 233345 | [233345-the-never-ending-game.json](./233345-the-never-ending-game.json) |
 | The Never-Ending Sleepover | 370785 | [370785-the-never-ending-sleepover.json](./370785-the-never-ending-sleepover.json) |
 | The Neverending Labyrinth | 165149 | [165149-the-neverending-labyrinth.json](./165149-the-neverending-labyrinth.json) |
 | The NeverEnding Story | 13020 | [13020-the-neverending-story.json](./13020-the-neverending-story.json) |
@@ -18748,6 +18749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Winning Secret of the Newbie Strategist Princess | 259171 | [259171-the-winning-secret-of-the-newbie-strategist-princess.json](./259171-the-winning-secret-of-the-newbie-strategist-princess.json) |
 | The Winter | 209684 | [209684-the-winter.json](./209684-the-winter.json) |
 | The Winter Games | 264346 | [264346-the-winter-games.json](./264346-the-winter-games.json) |
+| The Winter Rose | 233336 | [233336-the-winter-rose.json](./233336-the-winter-rose.json) |
 | The Winter Solstice | 70917 | [70917-the-winter-solstice.json](./70917-the-winter-solstice.json) |
 | The Winter Tower | 226439 | [226439-the-winter-tower.json](./226439-the-winter-tower.json) |
 | The Winter Wedding | 367680 | [367680-the-winter-wedding.json](./367680-the-winter-wedding.json) |
@@ -19061,6 +19063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Yellow Ladder | 123795 | [123795-the-yellow-ladder.json](./123795-the-yellow-ladder.json) |
 | The Yellow Moon's School: The Ghosts Day | 288618 | [288618-the-yellow-moons-school-the-ghosts-day.json](./288618-the-yellow-moons-school-the-ghosts-day.json) |
 | The Yellow Quiz | 114365 | [114365-the-yellow-quiz.json](./114365-the-yellow-quiz.json) |
+| The Yellow Rose Motel | 233338 | [233338-the-yellow-rose-motel.json](./233338-the-yellow-rose-motel.json) |
 | The Yellow Sign | 336342 | [336342-the-yellow-sign.json](./336342-the-yellow-sign.json) |
 | The Yokai's Curse | 288152 | [288152-the-yokais-curse.json](./288152-the-yokais-curse.json) |
 | The Yolk's on You | 40919 | [40919-the-yolks-on-you.json](./40919-the-yolks-on-you.json) |
