@@ -7465,6 +7465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Farm Story: Peaceful Nature Pack | 225070 | [225070-big-farm-story-peaceful-nature-pack.json](./225070-big-farm-story-peaceful-nature-pack.json) |
 | Big Farm Story: Pet Paradise Pack | 225068 | [225068-big-farm-story-pet-paradise-pack.json](./225068-big-farm-story-pet-paradise-pack.json) |
 | Big Farm Story: Shiver Night Pack | 225066 | [225066-big-farm-story-shiver-night-pack.json](./225066-big-farm-story-shiver-night-pack.json) |
+| Big Fat Awesome House Party | 204639 | [204639-big-fat-awesome-house-party.json](./204639-big-fat-awesome-house-party.json) |
 | Big Fat Battle | 244771 | [244771-big-fat-battle.json](./244771-big-fat-battle.json) |
 | Big Fat Battle: Big Pack | 280568 | [280568-big-fat-battle-big-pack.json](./280568-big-fat-battle-big-pack.json) |
 | Big Fat Battle: Starter Pack | 280569 | [280569-big-fat-battle-starter-pack.json](./280569-big-fat-battle-starter-pack.json) |
@@ -11449,6 +11450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blow & Fly | 189358 | [189358-blow-and-fly.json](./189358-blow-and-fly.json) |
 | Blow Away | 244885 | [244885-blow-away.json](./244885-blow-away.json) |
 | Blow Away Survivors | 250507 | [250507-blow-away-survivors.json](./250507-blow-away-survivors.json) |
+| Blow Everything Up | 204654 | [204654-blow-everything-up.json](./204654-blow-everything-up.json) |
 | Blow Fish Music Quiz | 195441 | [195441-blow-fish-music-quiz.json](./195441-blow-fish-music-quiz.json) |
 | Blow Fly2: Overlimit | 291295 | [291295-blow-fly2-overlimit.json](./291295-blow-fly2-overlimit.json) |
 | Blow it up | 150867 | [150867-blow-it-up.json](./150867-blow-it-up.json) |
