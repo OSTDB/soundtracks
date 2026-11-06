@@ -2699,6 +2699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Hotel: The Axiom Butcher - Collector's Edition | 171308 | [171308-haunted-hotel-the-axiom-butcher-collectors-edition.json](./171308-haunted-hotel-the-axiom-butcher-collectors-edition.json) |
 | Haunted Hotel: The Evil Inside | 105700 | [105700-haunted-hotel-the-evil-inside.json](./105700-haunted-hotel-the-evil-inside.json) |
 | Haunted Hotel: The Thirteenth | 182281 | [182281-haunted-hotel-the-thirteenth.json](./182281-haunted-hotel-the-thirteenth.json) |
+| Haunted Hotel: The Thirteenth - Collector's Edition | 195818 | [195818-haunted-hotel-the-thirteenth-collectors-edition.json](./195818-haunted-hotel-the-thirteenth-collectors-edition.json) |
 | Haunted Hotel: The X | 57725 | [57725-haunted-hotel-the-x.json](./57725-haunted-hotel-the-x.json) |
 | Haunted Hotel: The X - Collector's Edition | 154920 | [154920-haunted-hotel-the-x-collectors-edition.json](./154920-haunted-hotel-the-x-collectors-edition.json) |
 | Haunted Hour | 200120 | [200120-haunted-hour.json](./200120-haunted-hour.json) |
@@ -3233,6 +3234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Abyss | 197240 | [197240-heart-abyss.json](./197240-heart-abyss.json) |
 | Heart and Core | 295598 | [295598-heart-and-core.json](./295598-heart-and-core.json) |
 | Heart and Seoul | 30833 | [30833-heart-and-seoul.json](./30833-heart-and-seoul.json) |
+| Heart attack | 195820 | [195820-heart-attack.json](./195820-heart-attack.json) |
 | Heart Attack | 252376 | [252376-heart-attack.json](./252376-heart-attack.json) |
 | Heart Beat Clue | 291808 | [291808-heart-beat-clue.json](./291808-heart-beat-clue.json) |
 | Heart Cage | 266875 | [266875-heart-cage.json](./266875-heart-cage.json) |
@@ -8604,6 +8606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hogogeist | 157005 | [157005-hogogeist.json](./157005-hogogeist.json) |
 | Hogs of War | 8877 | [8877-hogs-of-war.json](./8877-hogs-of-war.json) |
 | Hogtie | 348335 | [348335-hogtie.json](./348335-hogtie.json) |
+| HoGuru Presents: The House With Too Many Zombies In It | 195840 | [195840-hoguru-presents-the-house-with-too-many-zombies-in-it.json](./195840-hoguru-presents-the-house-with-too-many-zombies-in-it.json) |
 | Hogvalord: The Ranch | 236389 | [236389-hogvalord-the-ranch.json](./236389-hogvalord-the-ranch.json) |
 | Hogwarts Legacy + Harry Potter: Quidditch Champions Deluxe Editions Bundle | 324208 | [324208-hogwarts-legacy-harry-potter-quidditch-champions-deluxe-editions-bundle.json](./324208-hogwarts-legacy-harry-potter-quidditch-champions-deluxe-editions-bundle.json) |
 | Hogwarts Legacy: Collector's Edition | 214875 | [214875-hogwarts-legacy-collectors-edition.json](./214875-hogwarts-legacy-collectors-edition.json) |
