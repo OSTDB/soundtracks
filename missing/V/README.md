@@ -2226,6 +2226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village | 266295 | [266295-village.json](./266295-village.json) |
 | Village & Monsters | 254655 | [254655-village-and-monsters.json](./254655-village-and-monsters.json) |
 | Village and Farm | 239617 | [239617-village-and-farm.json](./239617-village-and-farm.json) |
+| Village and the Witch | 237151 | [237151-village-and-the-witch.json](./237151-village-and-the-witch.json) |
 | Village Apothecary | 176126 | [176126-village-apothecary.json](./176126-village-apothecary.json) |
 | Village Arsonist | 177178 | [177178-village-arsonist.json](./177178-village-arsonist.json) |
 | Village Bus Driver Simulator | 125726 | [125726-village-bus-driver-simulator.json](./125726-village-bus-driver-simulator.json) |
