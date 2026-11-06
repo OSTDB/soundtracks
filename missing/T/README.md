@@ -8633,7 +8633,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Anthology | 23832 | [23832-the-elder-scrolls-anthology.json](./23832-the-elder-scrolls-anthology.json) |
 | The Elder Scrolls Bundle | 290975 | [290975-the-elder-scrolls-bundle.json](./290975-the-elder-scrolls-bundle.json) |
 | The Elder Scrolls II: Daggerfall | 53 | [53-the-elder-scrolls-ii-daggerfall.json](./53-the-elder-scrolls-ii-daggerfall.json) |
+| The Elder Scrolls III: Morrowind - Entertainers | 223843 | [223843-the-elder-scrolls-iii-morrowind-entertainers.json](./223843-the-elder-scrolls-iii-morrowind-entertainers.json) |
 | The Elder Scrolls III: Morrowind - Game of the Year Edition | 24775 | [24775-the-elder-scrolls-iii-morrowind-game-of-the-year-edition.json](./24775-the-elder-scrolls-iii-morrowind-game-of-the-year-edition.json) |
+| The Elder Scrolls III: Morrowind - Helm of Tohan | 223841 | [223841-the-elder-scrolls-iii-morrowind-helm-of-tohan.json](./223841-the-elder-scrolls-iii-morrowind-helm-of-tohan.json) |
+| The Elder Scrolls III: Morrowind - Master Index | 223842 | [223842-the-elder-scrolls-iii-morrowind-master-index.json](./223842-the-elder-scrolls-iii-morrowind-master-index.json) |
+| The Elder Scrolls III: Morrowind - Siege at Firemoth | 223840 | [223840-the-elder-scrolls-iii-morrowind-siege-at-firemoth.json](./223840-the-elder-scrolls-iii-morrowind-siege-at-firemoth.json) |
 | The Elder Scrolls III: Tribunal | 57 | [57-the-elder-scrolls-iii-tribunal.json](./57-the-elder-scrolls-iii-tribunal.json) |
 | The Elder Scrolls IV: Knights of the Nine | 7959 | [7959-the-elder-scrolls-iv-knights-of-the-nine.json](./7959-the-elder-scrolls-iv-knights-of-the-nine.json) |
 | The Elder Scrolls IV: Oblivion - Fighter's Stronghold | 120642 | [120642-the-elder-scrolls-iv-oblivion-fighters-stronghold.json](./120642-the-elder-scrolls-iv-oblivion-fighters-stronghold.json) |
@@ -10340,6 +10344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guardian of Nature | 252780 | [252780-the-guardian-of-nature.json](./252780-the-guardian-of-nature.json) |
 | The Guardian of the Evil | 82674 | [82674-the-guardian-of-the-evil.json](./82674-the-guardian-of-the-evil.json) |
 | The Guardian Shift | 313446 | [313446-the-guardian-shift.json](./313446-the-guardian-shift.json) |
+| The Guardian Stone | 223812 | [223812-the-guardian-stone.json](./223812-the-guardian-stone.json) |
 | The Guardians of Peace | 166409 | [166409-the-guardians-of-peace.json](./166409-the-guardians-of-peace.json) |
 | The Guardians of The Multiverse | 74830 | [74830-the-guardians-of-the-multiverse.json](./74830-the-guardians-of-the-multiverse.json) |
 | The Guardians of the Secret Garden | 349305 | [349305-the-guardians-of-the-secret-garden.json](./349305-the-guardians-of-the-secret-garden.json) |
@@ -15723,6 +15728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sacred Hero | 26872 | [26872-the-sacred-hero.json](./26872-the-sacred-hero.json) |
 | The Sacred Memory | 302323 | [302323-the-sacred-memory.json](./302323-the-sacred-memory.json) |
 | The Sacred Mirror of Kofun | 70081 | [70081-the-sacred-mirror-of-kofun.json](./70081-the-sacred-mirror-of-kofun.json) |
+| The Sacred Pools | 223823 | [223823-the-sacred-pools.json](./223823-the-sacred-pools.json) |
 | The Sacred Six Crystal: A Hero's Journey | 363640 | [363640-the-sacred-six-crystal-a-heros-journey.json](./363640-the-sacred-six-crystal-a-heros-journey.json) |
 | The Sacred Stone: A Story Adventure | 33777 | [33777-the-sacred-stone-a-story-adventure.json](./33777-the-sacred-stone-a-story-adventure.json) |
 | The Sacred Tears True | 9483 | [9483-the-sacred-tears-true.json](./9483-the-sacred-tears-true.json) |
