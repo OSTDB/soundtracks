@@ -12637,6 +12637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Memories | 303311 | [303311-running-memories.json](./303311-running-memories.json) |
 | Running MrBeast | 229338 | [229338-running-mrbeast.json](./229338-running-mrbeast.json) |
 | Running Naked Simulator 2019 | 110810 | [110810-running-naked-simulator-2019.json](./110810-running-naked-simulator-2019.json) |
+| Running on Empty | 214266 | [214266-running-on-empty.json](./214266-running-on-empty.json) |
 | Running Out | 343227 | [343227-running-out.json](./343227-running-out.json) |
 | Running Out of Emptiness | 176643 | [176643-running-out-of-emptiness.json](./176643-running-out-of-emptiness.json) |
 | Running Out of Spice | 179143 | [179143-running-out-of-spice.json](./179143-running-out-of-spice.json) |
