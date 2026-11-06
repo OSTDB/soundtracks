@@ -10250,6 +10250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of Victoria | 34882 | [34882-guardians-of-victoria.json](./34882-guardians-of-victoria.json) |
 | Guardians Planetfall | 380582 | [380582-guardians-planetfall.json](./380582-guardians-planetfall.json) |
 | Guardians Survival | 244307 | [244307-guardians-survival.json](./244307-guardians-survival.json) |
+| Guardians: Agents of Justice | 199676 | [199676-guardians-agents-of-justice.json](./199676-guardians-agents-of-justice.json) |
 | Guardians: Denjin Makai II | 46781 | [46781-guardians-denjin-makai-ii.json](./46781-guardians-denjin-makai-ii.json) |
 | Guardians: Royal Journey | 155003 | [155003-guardians-royal-journey.json](./155003-guardians-royal-journey.json) |
 | Guardians: Unite the Realms | 299417 | [299417-guardians-unite-the-realms.json](./299417-guardians-unite-the-realms.json) |
