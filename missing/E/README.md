@@ -5489,6 +5489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Simulator: Portal Escape Chamber | 261137 | [261137-escape-simulator-portal-escape-chamber.json](./261137-escape-simulator-portal-escape-chamber.json) |
 | Escape Simulator: PowerWash DLC | 306583 | [306583-escape-simulator-powerwash-dlc.json](./306583-escape-simulator-powerwash-dlc.json) |
 | Escape Simulator: Spy | 365719 | [365719-escape-simulator-spy.json](./365719-escape-simulator-spy.json) |
+| Escape Simulator: Steampunk | 202457 | [202457-escape-simulator-steampunk.json](./202457-escape-simulator-steampunk.json) |
 | Escape Simulator: The Talos Principle DLC | 321346 | [321346-escape-simulator-the-talos-principle-dlc.json](./321346-escape-simulator-the-talos-principle-dlc.json) |
 | Escape Simulator: Wild West | 221903 | [221903-escape-simulator-wild-west.json](./221903-escape-simulator-wild-west.json) |
 | Escape Space | 244625 | [244625-escape-space.json](./244625-escape-space.json) |
@@ -5699,6 +5700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eschaton | 199310 | [199310-eschaton.json](./199310-eschaton.json) |
 | Eschaton: Battle for Eternity | 385298 | [385298-eschaton-battle-for-eternity.json](./385298-eschaton-battle-for-eternity.json) |
 | Escherion | 155502 | [155502-escherion.json](./155502-escherion.json) |
+| Eschew | 202441 | [202441-eschew.json](./202441-eschew.json) |
 | Escoba | 384552 | [384552-escoba.json](./384552-escoba.json) |
 | Escoba Broom Cards Game | 331690 | [331690-escoba-broom-cards-game.json](./331690-escoba-broom-cards-game.json) |
 | Escom CD ROM Edition | 112656 | [112656-escom-cd-rom-edition.json](./112656-escom-cd-rom-edition.json) |
