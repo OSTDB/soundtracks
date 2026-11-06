@@ -885,6 +885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YonDelver | 201484 | [201484-yondelver.json](./201484-yondelver.json) |
 | Yonder World: Interview with the Void | 190067 | [190067-yonder-world-interview-with-the-void.json](./190067-yonder-world-interview-with-the-void.json) |
 | Yonder: The Cloud Catcher Chronicles | 27732 | [27732-yonder-the-cloud-catcher-chronicles.json](./27732-yonder-the-cloud-catcher-chronicles.json) |
+| Yonder: The Cloud Catcher Chronicles - Accessory Pack 1 | 224382 | [224382-yonder-the-cloud-catcher-chronicles-accessory-pack-1.json](./224382-yonder-the-cloud-catcher-chronicles-accessory-pack-1.json) |
 | Yonder: The Cloud Catcher Chronicles - Enhanced Edition | 171288 | [171288-yonder-the-cloud-catcher-chronicles-enhanced-edition.json](./171288-yonder-the-cloud-catcher-chronicles-enhanced-edition.json) |
 | Yonder: The Cloud Catcher Chronicles - Signature Edition | 146145 | [146145-yonder-the-cloud-catcher-chronicles-signature-edition.json](./146145-yonder-the-cloud-catcher-chronicles-signature-edition.json) |
 | Yondu's Journey | 241260 | [241260-yondus-journey.json](./241260-yondus-journey.json) |
@@ -1581,7 +1582,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys IV: Mask of the Sun | 15451 | [15451-ys-iv-mask-of-the-sun.json](./15451-ys-iv-mask-of-the-sun.json) |
 | Ys IV: The Dawn of Ys | 15452 | [15452-ys-iv-the-dawn-of-ys.json](./15452-ys-iv-the-dawn-of-ys.json) |
 | Ys IX: Monstrum Nox | 113431 | [113431-ys-ix-monstrum-nox.json](./113431-ys-ix-monstrum-nox.json) |
+| Ys IX: Monstrum Nox - Attachments Bundle | 224380 | [224380-ys-ix-monstrum-nox-attachments-bundle.json](./224380-ys-ix-monstrum-nox-attachments-bundle.json) |
 | Ys IX: Monstrum Nox - Collector's Box | 136695 | [136695-ys-ix-monstrum-nox-collectors-box.json](./136695-ys-ix-monstrum-nox-collectors-box.json) |
+| Ys IX: Monstrum Nox - Consumable Bundle | 224381 | [224381-ys-ix-monstrum-nox-consumable-bundle.json](./224381-ys-ix-monstrum-nox-consumable-bundle.json) |
 | Ys IX: Monstrum Nox - Crimson King's "Monstrum Troupe" Costume | 411011 | [411011-ys-ix-monstrum-nox-crimson-kings-monstrum-troupe-costume.json](./411011-ys-ix-monstrum-nox-crimson-kings-monstrum-troupe-costume.json) |
 | Ys IX: Monstrum Nox - Deluxe Edition | 222952 | [222952-ys-ix-monstrum-nox-deluxe-edition.json](./222952-ys-ix-monstrum-nox-deluxe-edition.json) |
 | Ys IX: Monstrum Nox - Doll's "Monstrum Troupe" Costume | 411012 | [411012-ys-ix-monstrum-nox-dolls-monstrum-troupe-costume.json](./411012-ys-ix-monstrum-nox-dolls-monstrum-troupe-costume.json) |
@@ -1591,6 +1594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys IX: Monstrum Nox - Hawk's "Monstrum Troupe" Costume | 411016 | [411016-ys-ix-monstrum-nox-hawks-monstrum-troupe-costume.json](./411016-ys-ix-monstrum-nox-hawks-monstrum-troupe-costume.json) |
 | Ys IX: Monstrum Nox - Launch Edition | 237908 | [237908-ys-ix-monstrum-nox-launch-edition.json](./237908-ys-ix-monstrum-nox-launch-edition.json) |
 | Ys IX: Monstrum Nox - Monstrum Musings Set | 411017 | [411017-ys-ix-monstrum-nox-monstrum-musings-set.json](./411017-ys-ix-monstrum-nox-monstrum-musings-set.json) |
+| Ys IX: Monstrum Nox - Monstrum Troupe Bundle | 224379 | [224379-ys-ix-monstrum-nox-monstrum-troupe-bundle.json](./224379-ys-ix-monstrum-nox-monstrum-troupe-bundle.json) |
 | Ys IX: Monstrum Nox - Monstrum Troupe Costume Bundle | 411018 | [411018-ys-ix-monstrum-nox-monstrum-troupe-costume-bundle.json](./411018-ys-ix-monstrum-nox-monstrum-troupe-costume-bundle.json) |
 | Ys IX: Monstrum Nox - Pact Edition | 136189 | [136189-ys-ix-monstrum-nox-pact-edition.json](./136189-ys-ix-monstrum-nox-pact-edition.json) |
 | Ys IX: Monstrum Nox - Renegade's "Monstrum Troupe" Costume | 411019 | [411019-ys-ix-monstrum-nox-renegades-monstrum-troupe-costume.json](./411019-ys-ix-monstrum-nox-renegades-monstrum-troupe-costume.json) |
