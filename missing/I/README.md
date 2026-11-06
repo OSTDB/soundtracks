@@ -3418,6 +3418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indoor Baseball | 330562 | [330562-indoor-baseball.json](./330562-indoor-baseball.json) |
 | Indoor Gardening Create Your Own Home Garden | 328515 | [328515-indoor-gardening-create-your-own-home-garden.json](./328515-indoor-gardening-create-your-own-home-garden.json) |
 | Indoor Haul | 311070 | [311070-indoor-haul.json](./311070-indoor-haul.json) |
+| Indoor Kickball | 218192 | [218192-indoor-kickball.json](./218192-indoor-kickball.json) |
 | Indoor Rock Climbing VR | 81757 | [81757-indoor-rock-climbing-vr.json](./81757-indoor-rock-climbing-vr.json) |
 | Indoor Soccer | 377951 | [377951-indoor-soccer.json](./377951-indoor-soccer.json) |
 | Indoor Soccer | 39839 | [39839-indoor-soccer.json](./39839-indoor-soccer.json) |
