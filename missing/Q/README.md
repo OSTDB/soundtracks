@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QR Dead | 320837 | [320837-qr-dead.json](./320837-qr-dead.json) |
 | QR Escape | 244606 | [244606-qr-escape.json](./244606-qr-escape.json) |
 | Qrabble | 339043 | [339043-qrabble.json](./339043-qrabble.json) |
+| Qrabbles | 193529 | [193529-qrabbles.json](./193529-qrabbles.json) |
 | Qrank | 94181 | [94181-qrank.json](./94181-qrank.json) |
 | Qreate | 356758 | [356758-qreate.json](./356758-qreate.json) |
 | Qrgan Quarter | 249305 | [249305-qrgan-quarter.json](./249305-qrgan-quarter.json) |
