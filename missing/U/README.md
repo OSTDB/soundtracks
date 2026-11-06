@@ -729,6 +729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Speed Run | 250710 | [250710-ultimate-speed-run.json](./250710-ultimate-speed-run.json) |
 | Ultimate Spider Hero | 81629 | [81629-ultimate-spider-hero.json](./81629-ultimate-spider-hero.json) |
 | Ultimate Spider-Man | 200911 | [200911-ultimate-spider-man.json](./200911-ultimate-spider-man.json) |
+| Ultimate Spider-Man | 224885 | [224885-ultimate-spider-man.json](./224885-ultimate-spider-man.json) |
 | Ultimate Spider-Man | 230193 | [230193-ultimate-spider-man.json](./230193-ultimate-spider-man.json) |
 | Ultimate Spider-Man | 249168 | [249168-ultimate-spider-man.json](./249168-ultimate-spider-man.json) |
 | Ultimate Spider-Man | 4225 | [4225-ultimate-spider-man.json](./4225-ultimate-spider-man.json) |
