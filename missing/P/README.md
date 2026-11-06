@@ -4161,6 +4161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peoplemon | 140920 | [140920-peoplemon.json](./140920-peoplemon.json) |
 | PeoplePackages | 74939 | [74939-peoplepackages.json](./74939-peoplepackages.json) |
 | Peopletale Online | 176790 | [176790-peopletale-online.json](./176790-peopletale-online.json) |
+| PeopleWillMoney | 242293 | [242293-peoplewillmoney.json](./242293-peoplewillmoney.json) |
 | Pep A Pig | 345769 | [345769-pep-a-pig.json](./345769-pep-a-pig.json) |
 | Pep-Pel | 212959 | [212959-pep-pel.json](./212959-pep-pel.json) |
 | Pepa's Adventure | 286326 | [286326-pepas-adventure.json](./286326-pepas-adventure.json) |
@@ -6797,6 +6798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Duel | 66642 | [66642-pinball-duel.json](./66642-pinball-duel.json) |
 | Pinball Dungeon | 177562 | [177562-pinball-dungeon.json](./177562-pinball-dungeon.json) |
 | PinBall Escape | 397282 | [397282-pinball-escape.json](./397282-pinball-escape.json) |
+| Pinball Fantasies | 242310 | [242310-pinball-fantasies.json](./242310-pinball-fantasies.json) |
 | Pinball Fantasies | 6023 | [6023-pinball-fantasies.json](./6023-pinball-fantasies.json) |
 | Pinball Fantasies Deluxe | 78624 | [78624-pinball-fantasies-deluxe.json](./78624-pinball-fantasies-deluxe.json) |
 | Pinball Fantastic | 107554 | [107554-pinball-fantastic.json](./107554-pinball-fantastic.json) |
@@ -8802,6 +8804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Shop Simulator | 348821 | [348821-pizza-shop-simulator.json](./348821-pizza-shop-simulator.json) |
 | Pizza Simulator Together | 326382 | [326382-pizza-simulator-together.json](./326382-pizza-simulator-together.json) |
 | Pizza Slice | 370982 | [370982-pizza-slice.json](./370982-pizza-slice.json) |
+| Pizza Snake | 242297 | [242297-pizza-snake.json](./242297-pizza-snake.json) |
 | Pizza Snake! | 202023 | [202023-pizza-snake.json](./202023-pizza-snake.json) |
 | Pizza Spy | 273438 | [273438-pizza-spy.json](./273438-pizza-spy.json) |
 | Pizza Syndicate | 373071 | [373071-pizza-syndicate.json](./373071-pizza-syndicate.json) |
@@ -10516,6 +10519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Point in Time | 403323 | [403323-point-in-time.json](./403323-point-in-time.json) |
 | Point of Attack 2.5 | 133269 | [133269-point-of-attack-2-5.json](./133269-point-of-attack-2-5.json) |
 | Point of Light | 186752 | [186752-point-of-light.json](./186752-point-of-light.json) |
+| Point of Mew | 242312 | [242312-point-of-mew.json](./242312-point-of-mew.json) |
 | Point of No Return | 86815 | [86815-point-of-no-return.json](./86815-point-of-no-return.json) |
 | Point of View | 140512 | [140512-point-of-view.json](./140512-point-of-view.json) |
 | Point Perfect | 10707 | [10707-point-perfect.json](./10707-point-perfect.json) |
