@@ -322,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Cat's World | 120910 | [120910-mad-cats-world.json](./120910-mad-cats-world.json) |
 | Mad CEO | 95973 | [95973-mad-ceo.json](./95973-mad-ceo.json) |
 | Mad Chess | 155921 | [155921-mad-chess.json](./155921-mad-chess.json) |
+| Mad City | 219366 | [219366-mad-city.json](./219366-mad-city.json) |
 | Mad City | 48575 | [48575-mad-city.json](./48575-mad-city.json) |
 | Mad Combat Marines | 32477 | [32477-mad-combat-marines.json](./32477-mad-combat-marines.json) |
 | Mad Cop 3 | 175371 | [175371-mad-cop-3.json](./175371-mad-cop-3.json) |
@@ -10466,6 +10467,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Adventure No. 2 Jungle Quest | 73117 | [73117-micro-adventure-no-2-jungle-quest.json](./73117-micro-adventure-no-2-jungle-quest.json) |
 | Micro Annihilation | 143519 | [143519-micro-annihilation.json](./143519-micro-annihilation.json) |
 | Micro Arcade Tetris | 234082 | [234082-micro-arcade-tetris.json](./234082-micro-arcade-tetris.json) |
+| Micro Arcade: Ms. Pac-Man | 219359 | [219359-micro-arcade-ms-pac-man.json](./219359-micro-arcade-ms-pac-man.json) |
+| Micro Arcade: Pac-Man | 219353 | [219353-micro-arcade-pac-man.json](./219353-micro-arcade-pac-man.json) |
 | Micro Battles | 233172 | [233172-micro-battles.json](./233172-micro-battles.json) |
 | Micro Battles 2 | 235137 | [235137-micro-battles-2.json](./235137-micro-battles-2.json) |
 | Micro Battles 3 | 240845 | [240845-micro-battles-3.json](./240845-micro-battles-3.json) |
@@ -18708,8 +18711,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Pac-Man | 213874 | [213874-ms-pac-man.json](./213874-ms-pac-man.json) |
 | Ms. Pac-Man | 213877 | [213877-ms-pac-man.json](./213877-ms-pac-man.json) |
 | Ms. Pac-Man | 219011 | [219011-ms-pac-man.json](./219011-ms-pac-man.json) |
+| Ms. Pac-Man | 219429 | [219429-ms-pac-man.json](./219429-ms-pac-man.json) |
 | Ms. Pac-Man for iPad | 88813 | [88813-ms-pac-man-for-ipad.json](./88813-ms-pac-man-for-ipad.json) |
 | Ms. Pac-Man Plus | 266918 | [266918-ms-pac-man-plus.json](./266918-ms-pac-man-plus.json) |
+| Ms. Pac-Man Pocket Player | 219350 | [219350-ms-pac-man-pocket-player.json](./219350-ms-pac-man-pocket-player.json) |
 | Ms. Pac-Man Returns | 302989 | [302989-ms-pac-man-returns.json](./302989-ms-pac-man-returns.json) |
 | Ms. Pac-Man: Maze Madness | 239193 | [239193-ms-pac-man-maze-madness.json](./239193-ms-pac-man-maze-madness.json) |
 | Ms. Pac-Man: Maze Madness | 3338 | [3338-ms-pac-man-maze-madness.json](./3338-ms-pac-man-maze-madness.json) |
@@ -18717,6 +18722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Pac-Man: Quest for the Golden Maze | 71475 | [71475-ms-pac-man-quest-for-the-golden-maze.json](./71475-ms-pac-man-quest-for-the-golden-maze.json) |
 | Ms. Pac-Man: Special Color Edition | 49834 | [49834-ms-pac-man-special-color-edition.json](./49834-ms-pac-man-special-color-edition.json) |
 | Ms. Pac-Man: Speedup | 308393 | [308393-ms-pac-man-speedup.json](./308393-ms-pac-man-speedup.json) |
+| Ms. Pac-Man/Galaga: Class of 1981 | 219351 | [219351-ms-pac-man-galaga-class-of-1981.json](./219351-ms-pac-man-galaga-class-of-1981.json) |
 | Ms. Rein! Give me your Approval please! | 355178 | [355178-ms-rein-give-me-your-approval-please.json](./355178-ms-rein-give-me-your-approval-please.json) |
 | Ms. Rufiia's Struggle for Repayment: To Be a Lewd Arcdaemon | 82882 | [82882-ms-rufiias-struggle-for-repayment-to-be-a-lewd-arcdaemon.json](./82882-ms-rufiias-struggle-for-repayment-to-be-a-lewd-arcdaemon.json) |
 | Ms. Space Fury | 40925 | [40925-ms-space-fury.json](./40925-ms-space-fury.json) |
