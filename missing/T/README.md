@@ -9820,6 +9820,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gate | 323315 | [323315-the-gate.json](./323315-the-gate.json) |
 | The Gate | 35727 | [35727-the-gate.json](./35727-the-gate.json) |
 | The Gate 2 | 221912 | [221912-the-gate-2.json](./221912-the-gate-2.json) |
+| The Gate II | 245078 | [245078-the-gate-ii.json](./245078-the-gate-ii.json) |
+| The Gate III | 245100 | [245100-the-gate-iii.json](./245100-the-gate-iii.json) |
 | The Gate Must Stand | 370107 | [370107-the-gate-must-stand.json](./370107-the-gate-must-stand.json) |
 | The Gate of Front: Monster Auction | 405290 | [405290-the-gate-of-front-monster-auction.json](./405290-the-gate-of-front-monster-auction.json) |
 | The Gate of The Good | 250089 | [250089-the-gate-of-the-good.json](./250089-the-gate-of-the-good.json) |
@@ -19448,6 +19450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They came from the Skies | 54197 | [54197-they-came-from-the-skies.json](./54197-they-came-from-the-skies.json) |
 | They Came From the Sky | 118328 | [118328-they-came-from-the-sky.json](./118328-they-came-from-the-sky.json) |
 | They Came From Venus | 282038 | [282038-they-came-from-venus.json](./282038-they-came-from-venus.json) |
+| They Came... | 245097 | [245097-they-came.json](./245097-they-came.json) |
 | They Can Fart | 295301 | [295301-they-can-fart.json](./295301-they-can-fart.json) |
 | They Can Hear Us | 280001 | [280001-they-can-hear-us.json](./280001-they-can-hear-us.json) |
 | They Can't Stop all of Us | 124393 | [124393-they-cant-stop-all-of-us.json](./124393-they-cant-stop-all-of-us.json) |
@@ -20288,6 +20291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrust Twist + Turn | 85986 | [85986-thrust-twist-turn.json](./85986-thrust-twist-turn.json) |
 | Thrusta | 26243 | [26243-thrusta.json](./26243-thrusta.json) |
 | Thrusta X | 236153 | [236153-thrusta-x.json](./236153-thrusta-x.json) |
+| Thrusters | 245070 | [245070-thrusters.json](./245070-thrusters.json) |
 | ThrustLander | 150443 | [150443-thrustlander.json](./150443-thrustlander.json) |
 | ThrustMe Too | 333373 | [333373-thrustme-too.json](./333373-thrustme-too.json) |
 | ThrustWorks | 156010 | [156010-thrustworks.json](./156010-thrustworks.json) |
@@ -22632,6 +22636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Walker: Dark World | 220520 | [220520-time-walker-dark-world.json](./220520-time-walker-dark-world.json) |
 | Time Warp | 116770 | [116770-time-warp.json](./116770-time-warp.json) |
 | Time Warp | 40597 | [40597-time-warp.json](./40597-time-warp.json) |
+| Time Warp Tickers | 245108 | [245108-time-warp-tickers.json](./245108-time-warp-tickers.json) |
 | Time Warpers | 110073 | [110073-time-warpers.json](./110073-time-warpers.json) |
 | Time Warrior | 221900 | [221900-time-warrior.json](./221900-time-warrior.json) |
 | Time Warrior Z VR | 116775 | [116775-time-warrior-z-vr.json](./116775-time-warrior-z-vr.json) |
