@@ -8338,6 +8338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyes of the Killer | 150095 | [150095-eyes-of-the-killer.json](./150095-eyes-of-the-killer.json) |
 | Eyes of the Night | 173231 | [173231-eyes-of-the-night.json](./173231-eyes-of-the-night.json) |
 | Eyes of the Sky | 340163 | [340163-eyes-of-the-sky.json](./340163-eyes-of-the-sky.json) |
+| Eyes of the Storm | 212032 | [212032-eyes-of-the-storm.json](./212032-eyes-of-the-storm.json) |
 | Eyes of War | 249913 | [249913-eyes-of-war.json](./249913-eyes-of-war.json) |
 | Eyes on Me | 385855 | [385855-eyes-on-me.json](./385855-eyes-on-me.json) |
 | Eyes On Me | 383577 | [383577-eyes-on-me.json](./383577-eyes-on-me.json) |
