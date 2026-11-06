@@ -5926,6 +5926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -17534,6 +17535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motel Styx | 215603 | [215603-motel-styx.json](./215603-motel-styx.json) |
 | Motelia | 405805 | [405805-motelia.json](./405805-motelia.json) |
 | MoteMancer | 338704 | [338704-motemancer.json](./338704-motemancer.json) |
+| Motenase! Nitori-chan | 205773 | [205773-motenase-nitori-chan.json](./205773-motenase-nitori-chan.json) |
 | Motesolo: No Girlfriend Since Birth | 140870 | [140870-motesolo-no-girlfriend-since-birth.json](./140870-motesolo-no-girlfriend-since-birth.json) |
 | Moth | 341424 | [341424-moth.json](./341424-moth.json) |
 | Moth Cry | 292353 | [292353-moth-cry.json](./292353-moth-cry.json) |
@@ -19631,6 +19633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musician | 41563 | [41563-musician.json](./41563-musician.json) |
 | Musician | 86748 | [86748-musician.json](./86748-musician.json) |
 | Musician Simulator | 308514 | [308514-musician-simulator.json](./308514-musician-simulator.json) |
+| Musicle | 205777 | [205777-musicle.json](./205777-musicle.json) |
 | Musicmenia | 314477 | [314477-musicmenia.json](./314477-musicmenia.json) |
 | MusicRunner | 374574 | [374574-musicrunner.json](./374574-musicrunner.json) |
 | Musicus! | 125432 | [125432-musicus.json](./125432-musicus.json) |
