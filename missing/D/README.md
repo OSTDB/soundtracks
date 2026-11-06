@@ -811,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance On | 54685 | [54685-dance-on.json](./54685-dance-on.json) |
 | Dance on Broadway | 2663 | [2663-dance-on-broadway.json](./2663-dance-on-broadway.json) |
 | Dance On Radar | 342801 | [342801-dance-on-radar.json](./342801-dance-on-radar.json) |
+| Dance on the Water | 222676 | [222676-dance-on-the-water.json](./222676-dance-on-the-water.json) |
 | Dance Paradise | 20169 | [20169-dance-paradise.json](./20169-dance-paradise.json) |
 | Dance Party | 247250 | [247250-dance-party.json](./247250-dance-party.json) |
 | Dance Party Crunkmas | 87230 | [87230-dance-party-crunkmas.json](./87230-dance-party-crunkmas.json) |
@@ -9303,6 +9304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimensione Sconosciuta | 405505 | [405505-dimensione-sconosciuta.json](./405505-dimensione-sconosciuta.json) |
 | Dimensionless | 241296 | [241296-dimensionless.json](./241296-dimensionless.json) |
 | Dimensions | 141810 | [141810-dimensions.json](./141810-dimensions.json) |
+| Dimensions | 222671 | [222671-dimensions.json](./222671-dimensions.json) |
 | Dimensions | 249474 | [249474-dimensions.json](./249474-dimensions.json) |
 | Dimensions 2 | 408955 | [408955-dimensions-2.json](./408955-dimensions-2.json) |
 | Dimensions of Mind | 328930 | [328930-dimensions-of-mind.json](./328930-dimensions-of-mind.json) |
@@ -16964,6 +16966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Druids: Battle of Magic | 24719 | [24719-druids-battle-of-magic.json](./24719-druids-battle-of-magic.json) |
 | Druidstone: The Secret of the Menhir Forest | 28142 | [28142-druidstone-the-secret-of-the-menhir-forest.json](./28142-druidstone-the-secret-of-the-menhir-forest.json) |
 | Druidwalker | 236061 | [236061-druidwalker.json](./236061-druidwalker.json) |
+| Druin Faust | 222725 | [222725-druin-faust.json](./222725-druin-faust.json) |
 | Drum Beat Jump | 232102 | [232102-drum-beat-jump.json](./232102-drum-beat-jump.json) |
 | Drum Blaster 3 | 50233 | [50233-drum-blaster-3.json](./50233-drum-blaster-3.json) |
 | Drum Box | 187360 | [187360-drum-box.json](./187360-drum-box.json) |
