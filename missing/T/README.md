@@ -11437,6 +11437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Gingerbread | 228330 | [228330-the-jumping-gingerbread.json](./228330-the-jumping-gingerbread.json) |
 | The Jumping Gingerbread: Turbo | 228331 | [228331-the-jumping-gingerbread-turbo.json](./228331-the-jumping-gingerbread-turbo.json) |
 | The Jumping Hot Dog | 204996 | [204996-the-jumping-hot-dog.json](./204996-the-jumping-hot-dog.json) |
+| The Jumping Hot Dog: Turbo | 206304 | [206304-the-jumping-hot-dog-turbo.json](./206304-the-jumping-hot-dog-turbo.json) |
 | The Jumping Ice Cream | 216357 | [216357-the-jumping-ice-cream.json](./216357-the-jumping-ice-cream.json) |
 | The Jumping Ice Cream: Turbo | 217808 | [217808-the-jumping-ice-cream-turbo.json](./217808-the-jumping-ice-cream-turbo.json) |
 | The Jumping Ice Cube | 315941 | [315941-the-jumping-ice-cube.json](./315941-the-jumping-ice-cube.json) |
@@ -23439,6 +23440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Tina's Wonderlands: Chaotic Great Edition | 169160 | [169160-tiny-tinas-wonderlands-chaotic-great-edition.json](./169160-tiny-tinas-wonderlands-chaotic-great-edition.json) |
 | Tiny Tina's Wonderlands: Coiled Captors | 204919 | [204919-tiny-tinas-wonderlands-coiled-captors.json](./204919-tiny-tinas-wonderlands-coiled-captors.json) |
 | Tiny Tina's Wonderlands: Glutton's Gamble | 205019 | [205019-tiny-tinas-wonderlands-gluttons-gamble.json](./205019-tiny-tinas-wonderlands-gluttons-gamble.json) |
+| Tiny Tina's Wonderlands: Molten Mirrors | 206302 | [206302-tiny-tinas-wonderlands-molten-mirrors.json](./206302-tiny-tinas-wonderlands-molten-mirrors.json) |
 | Tiny Tina's Wonderlands: Next Level Edition | 170024 | [170024-tiny-tinas-wonderlands-next-level-edition.json](./170024-tiny-tinas-wonderlands-next-level-edition.json) |
 | Tiny Tina's Wonderlands: Season Pass | 293727 | [293727-tiny-tinas-wonderlands-season-pass.json](./293727-tiny-tinas-wonderlands-season-pass.json) |
 | Tiny Tina's Wonderlands: Shattering Spectreglass | 222661 | [222661-tiny-tinas-wonderlands-shattering-spectreglass.json](./222661-tiny-tinas-wonderlands-shattering-spectreglass.json) |
