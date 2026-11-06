@@ -2694,6 +2694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo Transportation: Low Poly | 144914 | [144914-cargo-transportation-low-poly.json](./144914-cargo-transportation-low-poly.json) |
 | Cargo Truck Parking | 220191 | [220191-cargo-truck-parking.json](./220191-cargo-truck-parking.json) |
 | Cargo Truck Racer | 249043 | [249043-cargo-truck-racer.json](./249043-cargo-truck-racer.json) |
+| Cargo Truck Simulator 2023 | 237719 | [237719-cargo-truck-simulator-2023.json](./237719-cargo-truck-simulator-2023.json) |
 | Cargo-Bot | 318204 | [318204-cargo-bot.json](./318204-cargo-bot.json) |
 | Cargo, Please! | 395719 | [395719-cargo-please.json](./395719-cargo-please.json) |
 | Cargo: Co-Op Delivery Simulator in Post Apocalyptic World | 362761 | [362761-cargo-co-op-delivery-simulator-in-post-apocalyptic-world.json](./362761-cargo-co-op-delivery-simulator-in-post-apocalyptic-world.json) |
@@ -3102,6 +3103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Puzzler Bundle | 164728 | [164728-cartoon-puzzler-bundle.json](./164728-cartoon-puzzler-bundle.json) |
 | Cartoon Rage | 239216 | [239216-cartoon-rage.json](./239216-cartoon-rage.json) |
 | Cartoon Roach: Fun Ninja Game | 175599 | [175599-cartoon-roach-fun-ninja-game.json](./175599-cartoon-roach-fun-ninja-game.json) |
+| Cartoon Sprint 2 | 237739 | [237739-cartoon-sprint-2.json](./237739-cartoon-sprint-2.json) |
 | Cartoon Strike | 26144 | [26144-cartoon-strike.json](./26144-cartoon-strike.json) |
 | Cartoon Toolbox Starring Felix the Cat | 144002 | [144002-cartoon-toolbox-starring-felix-the-cat.json](./144002-cartoon-toolbox-starring-felix-the-cat.json) |
 | Cartoon Tower Defense | 186568 | [186568-cartoon-tower-defense.json](./186568-cartoon-tower-defense.json) |
