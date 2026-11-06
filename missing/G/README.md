@@ -10421,6 +10421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Hero | 1285 | [1285-guitar-hero.json](./1285-guitar-hero.json) |
 | Guitar Hero | 210101 | [210101-guitar-hero.json](./210101-guitar-hero.json) |
 | Guitar Hero & Guitar Hero II Dual Pack | 382160 | [382160-guitar-hero-and-guitar-hero-ii-dual-pack.json](./382160-guitar-hero-and-guitar-hero-ii-dual-pack.json) |
+| Guitar Hero 64 | 243467 | [243467-guitar-hero-64.json](./243467-guitar-hero-64.json) |
 | Guitar Hero 7 | 251431 | [251431-guitar-hero-7.json](./251431-guitar-hero-7.json) |
 | Guitar Hero Carabiner | 261387 | [261387-guitar-hero-carabiner.json](./261387-guitar-hero-carabiner.json) |
 | Guitar Hero Dual Pack: Guitar Hero II & Guitar Hero Aerosmith | 314957 | [314957-guitar-hero-dual-pack-guitar-hero-ii-and-guitar-hero-aerosmith.json](./314957-guitar-hero-dual-pack-guitar-hero-ii-and-guitar-hero-aerosmith.json) |
