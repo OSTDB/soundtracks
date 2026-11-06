@@ -3599,6 +3599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Island: Riptide - Special Edition | 42966 | [42966-dead-island-riptide-special-edition.json](./42966-dead-island-riptide-special-edition.json) |
 | Dead Island: Ryder White | 22874 | [22874-dead-island-ryder-white.json](./22874-dead-island-ryder-white.json) |
 | Dead Island: Survivors | 104961 | [104961-dead-island-survivors.json](./104961-dead-island-survivors.json) |
+| Dead Island: Zombie Hunter | 238818 | [238818-dead-island-zombie-hunter.json](./238818-dead-island-zombie-hunter.json) |
 | Dead Knight | 87859 | [87859-dead-knight.json](./87859-dead-knight.json) |
 | Dead Knight: Pocket Edition | 87858 | [87858-dead-knight-pocket-edition.json](./87858-dead-knight-pocket-edition.json) |
 | Dead Lab | 223661 | [223661-dead-lab.json](./223661-dead-lab.json) |
@@ -12269,6 +12270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Get Pinned | 26306 | [26306-dont-get-pinned.json](./26306-dont-get-pinned.json) |
 | Don't Get Tagged | 203667 | [203667-dont-get-tagged.json](./203667-dont-get-tagged.json) |
 | Don't Get the Job | 177870 | [177870-dont-get-the-job.json](./177870-dont-get-the-job.json) |
+| Don't Give Up on Me! | 238840 | [238840-dont-give-up-on-me.json](./238840-dont-give-up-on-me.json) |
 | Don't Give Up: A Cynical Tale | 111141 | [111141-dont-give-up-a-cynical-tale.json](./111141-dont-give-up-a-cynical-tale.json) |
 | Don't Give Up: Not Ready to Die | 158530 | [158530-dont-give-up-not-ready-to-die.json](./158530-dont-give-up-not-ready-to-die.json) |
 | Don't Go | 267089 | [267089-dont-go.json](./267089-dont-go.json) |
@@ -18533,6 +18535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunk Trickster 2 | 368453 | [368453-dunk-trickster-2.json](./368453-dunk-trickster-2.json) |
 | Dunk'n Roll | 178942 | [178942-dunkn-roll.json](./178942-dunkn-roll.json) |
 | Dunkadillo | 360760 | [360760-dunkadillo.json](./360760-dunkadillo.json) |
+| DunkDog Dreams | 238825 | [238825-dunkdog-dreams.json](./238825-dunkdog-dreams.json) |
 | Dunkeep | 203947 | [203947-dunkeep.json](./203947-dunkeep.json) |
 | Dunkehr | 141181 | [141181-dunkehr.json](./141181-dunkehr.json) |
 | Dunker.io | 233197 | [233197-dunker-io.json](./233197-dunker-io.json) |
