@@ -9740,6 +9740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Class of the Titans | 417807 | [417807-class-of-the-titans.json](./417807-class-of-the-titans.json) |
 | Class Reunion Chat Room | 239501 | [239501-class-reunion-chat-room.json](./239501-class-reunion-chat-room.json) |
 | Class Trip Crush | 238411 | [238411-class-trip-crush.json](./238411-class-trip-crush.json) |
+| Class Zero Seven | 212039 | [212039-class-zero-seven.json](./212039-class-zero-seven.json) |
 | Class4 (working title) | 131466 | [131466-class4-working-title.json](./131466-class4-working-title.json) |
 | ClassBoom | 372748 | [372748-classboom.json](./372748-classboom.json) |
 | Classic Action: Devilish | 47890 | [47890-classic-action-devilish.json](./47890-classic-action-devilish.json) |
@@ -20799,6 +20800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyra and the Beacon Path | 203962 | [203962-cyra-and-the-beacon-path.json](./203962-cyra-and-the-beacon-path.json) |
 | Cyrah's Ascent | 201558 | [201558-cyrahs-ascent.json](./201558-cyrahs-ascent.json) |
 | Cyraid | 48953 | [48953-cyraid.json](./48953-cyraid.json) |
+| Cyrano | 212026 | [212026-cyrano.json](./212026-cyrano.json) |
 | Cyrano Story | 133639 | [133639-cyrano-story.json](./133639-cyrano-story.json) |
 | Cyrcles | 180065 | [180065-cyrcles.json](./180065-cyrcles.json) |
 | Cyrgoth's Manor | 268890 | [268890-cyrgoths-manor.json](./268890-cyrgoths-manor.json) |
