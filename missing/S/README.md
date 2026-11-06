@@ -2796,6 +2796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Neighbor Survival | 100854 | [100854-scary-neighbor-survival.json](./100854-scary-neighbor-survival.json) |
 | Scary Nikki | 229668 | [229668-scary-nikki.json](./229668-scary-nikki.json) |
 | Scary Pictures: Yavez - Seven Deadly Sins | 235859 | [235859-scary-pictures-yavez-seven-deadly-sins.json](./235859-scary-pictures-yavez-seven-deadly-sins.json) |
+| Scary Pranks: The Horror Creed | 196392 | [196392-scary-pranks-the-horror-creed.json](./196392-scary-pranks-the-horror-creed.json) |
 | Scary Psycho Lady Simulator | 278376 | [278376-scary-psycho-lady-simulator.json](./278376-scary-psycho-lady-simulator.json) |
 | Scary Robber: Home Clash | 227484 | [227484-scary-robber-home-clash.json](./227484-scary-robber-home-clash.json) |
 | Scary School | 296762 | [296762-scary-school.json](./296762-scary-school.json) |
@@ -9444,6 +9445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoujo Minority: Nagusame no Ai | 194607 | [194607-shoujo-minority-nagusame-no-ai.json](./194607-shoujo-minority-nagusame-no-ai.json) |
 | Shoujo Shuryou no Suiri Ryouiki: Kogane Shima no Mitsuyaku | 153137 | [153137-shoujo-shuryou-no-suiri-ryouiki-kogane-shima-no-mitsuyaku.json](./153137-shoujo-shuryou-no-suiri-ryouiki-kogane-shima-no-mitsuyaku.json) |
 | Shoujo Taimashi Misato | 97739 | [97739-shoujo-taimashi-misato.json](./97739-shoujo-taimashi-misato.json) |
+| Shoujo Wars | 196346 | [196346-shoujo-wars.json](./196346-shoujo-wars.json) |
 | Shoujo Yoshitsune-den | 181501 | [181501-shoujo-yoshitsune-den.json](./181501-shoujo-yoshitsune-den.json) |
 | Should I Buy It? | 180818 | [180818-should-i-buy-it.json](./180818-should-i-buy-it.json) |
 | Should Shoot | 197714 | [197714-should-shoot.json](./197714-should-shoot.json) |
@@ -10480,6 +10482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Love | 237794 | [237794-silent-love.json](./237794-silent-love.json) |
 | Silent Mainland | 415809 | [415809-silent-mainland.json](./415809-silent-mainland.json) |
 | Silent Mementos | 372191 | [372191-silent-mementos.json](./372191-silent-mementos.json) |
+| Silent Mist | 196389 | [196389-silent-mist.json](./196389-silent-mist.json) |
 | Silent Mobius | 64742 | [64742-silent-mobius.json](./64742-silent-mobius.json) |
 | Silent Möbius | 401739 | [401739-silent-mobius.json](./401739-silent-mobius.json) |
 | Silent Mobius: Case - Titanic | 214432 | [214432-silent-mobius-case-titanic.json](./214432-silent-mobius-case-titanic.json) |
@@ -11645,6 +11648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siren Head: The Siren's Forest | 157431 | [157431-siren-head-the-sirens-forest.json](./157431-siren-head-the-sirens-forest.json) |
 | Siren Sands | 350418 | [350418-siren-sands.json](./350418-siren-sands.json) |
 | Siren: Blood Curse | 7457 | [7457-siren-blood-curse.json](./7457-siren-blood-curse.json) |
+| Siren's Call | 196402 | [196402-sirens-call.json](./196402-sirens-call.json) |
 | Siren's Call: Escape Velocity | 258728 | [258728-sirens-call-escape-velocity.json](./258728-sirens-call-escape-velocity.json) |
 | Siren's Call: Second Wind | 386087 | [386087-sirens-call-second-wind.json](./386087-sirens-call-second-wind.json) |
 | Siren's Serenade | 179529 | [179529-sirens-serenade.json](./179529-sirens-serenade.json) |
@@ -15386,6 +15390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snootz Math Trek | 301369 | [301369-snootz-math-trek.json](./301369-snootz-math-trek.json) |
 | Snooze Control | 416094 | [416094-snooze-control.json](./416094-snooze-control.json) |
 | Snooze or Lose | 276718 | [276718-snooze-or-lose.json](./276718-snooze-or-lose.json) |
+| Snooze: A Sleeping Adventure | 196399 | [196399-snooze-a-sleeping-adventure.json](./196399-snooze-a-sleeping-adventure.json) |
 | Snops Attack! Zombie Defense | 240495 | [240495-snops-attack-zombie-defense.json](./240495-snops-attack-zombie-defense.json) |
 | Snoring | 408057 | [408057-snoring.json](./408057-snoring.json) |
 | Snot | 195351 | [195351-snot.json](./195351-snot.json) |
@@ -19644,7 +19649,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -27165,6 +27169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stones of Sorrow | 35170 | [35170-stones-of-sorrow.json](./35170-stones-of-sorrow.json) |
 | Stones of the Revenant | 131987 | [131987-stones-of-the-revenant.json](./131987-stones-of-the-revenant.json) |
 | Stones of Yalmrith | 102944 | [102944-stones-of-yalmrith.json](./102944-stones-of-yalmrith.json) |
+| Stones Throw | 196371 | [196371-stones-throw.json](./196371-stones-throw.json) |
 | Stonescape | 156221 | [156221-stonescape.json](./156221-stonescape.json) |
 | Stoneshard | 28649 | [28649-stoneshard.json](./28649-stoneshard.json) |
 | StoneSpace | 376436 | [376436-stonespace.json](./376436-stonespace.json) |
@@ -30700,6 +30705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Captain 3D | 111485 | [111485-super-captain-3d.json](./111485-super-captain-3d.json) |
 | Super Captain Falcon 64 | 165286 | [165286-super-captain-falcon-64.json](./165286-super-captain-falcon-64.json) |
 | Super Captain Flying Robot City Rescue Mission | 96008 | [96008-super-captain-flying-robot-city-rescue-mission.json](./96008-super-captain-flying-robot-city-rescue-mission.json) |
+| Super Car Driver | 196383 | [196383-super-car-driver.json](./196383-super-car-driver.json) |
 | Super Car Driving Bugatti Divo | 296781 | [296781-super-car-driving-bugatti-divo.json](./296781-super-car-driving-bugatti-divo.json) |
 | Super Caronaut | 178626 | [178626-super-caronaut.json](./178626-super-caronaut.json) |
 | Super Carpark Walking Parking Simulator Turbo | 349796 | [349796-super-carpark-walking-parking-simulator-turbo.json](./349796-super-carpark-walking-parking-simulator-turbo.json) |
