@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sable Maze: Soul Catcher - Collector’s Edition | 97138 | [97138-sable-maze-soul-catcher-collector-s-edition.json](./97138-sable-maze-soul-catcher-collector-s-edition.json) |
 | Sable Maze: Sullivan River | 139727 | [139727-sable-maze-sullivan-river.json](./139727-sable-maze-sullivan-river.json) |
 | Sable Maze: Sullivan River - Collector's Edition | 30045 | [30045-sable-maze-sullivan-river-collectors-edition.json](./30045-sable-maze-sullivan-river-collectors-edition.json) |
+| Sable Maze: Sullivan River & Sable Maze: Norwich Caves | 201883 | [201883-sable-maze-sullivan-river-and-sable-maze-norwich-caves.json](./201883-sable-maze-sullivan-river-and-sable-maze-norwich-caves.json) |
 | Sable Maze: Twelve Fears | 140281 | [140281-sable-maze-twelve-fears.json](./140281-sable-maze-twelve-fears.json) |
 | Sable Maze: Twelve Fears - Collector's Edition | 110347 | [110347-sable-maze-twelve-fears-collectors-edition.json](./110347-sable-maze-twelve-fears-collectors-edition.json) |
 | Sable Maze: Twelve Fears HD - A Mystery Hidden Object Game | 88598 | [88598-sable-maze-twelve-fears-hd-a-mystery-hidden-object-game.json](./88598-sable-maze-twelve-fears-hd-a-mystery-hidden-object-game.json) |
@@ -6870,6 +6871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Wolf Mysteries: Bane of the Family - Collector's Edition | 76479 | [76479-shadow-wolf-mysteries-bane-of-the-family-collectors-edition.json](./76479-shadow-wolf-mysteries-bane-of-the-family-collectors-edition.json) |
 | Shadow Wolf Mysteries: Curse of the Full Moon | 139737 | [139737-shadow-wolf-mysteries-curse-of-the-full-moon.json](./139737-shadow-wolf-mysteries-curse-of-the-full-moon.json) |
 | Shadow Wolf Mysteries: Curse of the Full Moon - Collector's Edition | 36461 | [36461-shadow-wolf-mysteries-curse-of-the-full-moon-collectors-edition.json](./36461-shadow-wolf-mysteries-curse-of-the-full-moon-collectors-edition.json) |
+| Shadow Wolf Mysteries: Curse of the Full Moon & Shadow Wolf Mysteries: Bane of the Family | 201900 | [201900-shadow-wolf-mysteries-curse-of-the-full-moon-and-shadow-wolf-mysteries-bane-of-the-family.json](./201900-shadow-wolf-mysteries-curse-of-the-full-moon-and-shadow-wolf-mysteries-bane-of-the-family.json) |
 | Shadow Wolf Mysteries: Curse of Wolfhill | 89816 | [89816-shadow-wolf-mysteries-curse-of-wolfhill.json](./89816-shadow-wolf-mysteries-curse-of-wolfhill.json) |
 | Shadow Wolf Mysteries: Cursed Wedding | 139736 | [139736-shadow-wolf-mysteries-cursed-wedding.json](./139736-shadow-wolf-mysteries-cursed-wedding.json) |
 | Shadow Wolf Mysteries: Cursed Wedding - Collector's Edition | 99620 | [99620-shadow-wolf-mysteries-cursed-wedding-collectors-edition.json](./99620-shadow-wolf-mysteries-cursed-wedding-collectors-edition.json) |
@@ -10506,6 +10508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Scream | 236209 | [236209-silent-scream.json](./236209-silent-scream.json) |
 | Silent Scream 2 | 368512 | [368512-silent-scream-2.json](./368512-silent-scream-2.json) |
 | Silent Scream II: The Bride | 312211 | [312211-silent-scream-ii-the-bride.json](./312211-silent-scream-ii-the-bride.json) |
+| Silent Scream: The Dancer | 201887 | [201887-silent-scream-the-dancer.json](./201887-silent-scream-the-dancer.json) |
 | Silent Sector | 132554 | [132554-silent-sector.json](./132554-silent-sector.json) |
 | Silent Seeker | 209159 | [209159-silent-seeker.json](./209159-silent-seeker.json) |
 | Silent Service | 393329 | [393329-silent-service.json](./393329-silent-service.json) |
@@ -19600,7 +19603,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -25749,6 +25751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Station Memories | 216220 | [216220-station-memories.json](./216220-station-memories.json) |
 | Station Nexus | 406291 | [406291-station-nexus.json](./406291-station-nexus.json) |
 | Station Noctis | 338331 | [338331-station-noctis.json](./338331-station-noctis.json) |
+| Station Osirius | 201878 | [201878-station-osirius.json](./201878-station-osirius.json) |
 | Station Overseer | 194197 | [194197-station-overseer.json](./194197-station-overseer.json) |
 | Station Sabotage | 283770 | [283770-station-sabotage.json](./283770-station-sabotage.json) |
 | Station Spacewalk Game | 200954 | [200954-station-spacewalk-game.json](./200954-station-spacewalk-game.json) |
