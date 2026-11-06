@@ -7763,6 +7763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelley Duvall's It's a Bird's Life | 79294 | [79294-shelley-duvalls-its-a-birds-life.json](./79294-shelley-duvalls-its-a-birds-life.json) |
 | Shelley Duvall's Tales of Digby the Dog | 336740 | [336740-shelley-duvalls-tales-of-digby-the-dog.json](./336740-shelley-duvalls-tales-of-digby-the-dog.json) |
 | Shelley Manor | 315223 | [315223-shelley-manor.json](./315223-shelley-manor.json) |
+| Shelley's Haunted House | 244578 | [244578-shelleys-haunted-house.json](./244578-shelleys-haunted-house.json) |
 | ShellFire | 193826 | [193826-shellfire.json](./193826-shellfire.json) |
 | Shellguard: Starbound Expansion Remastered | 357316 | [357316-shellguard-starbound-expansion-remastered.json](./357316-shellguard-starbound-expansion-remastered.json) |
 | Shellie's Secret | 378169 | [378169-shellies-secret.json](./378169-shellies-secret.json) |
@@ -19345,6 +19346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hawks | 13035 | [13035-space-hawks.json](./13035-space-hawks.json) |
 | Space Hero 50 | 174569 | [174569-space-hero-50.json](./174569-space-hero-50.json) |
 | Space Hero Line | 43518 | [43518-space-hero-line.json](./43518-space-hero-line.json) |
+| Space Hero: Intergalactic Titan | 244552 | [244552-space-hero-intergalactic-titan.json](./244552-space-hero-intergalactic-titan.json) |
 | Space Hexcite: Maetel Legend EX | 49808 | [49808-space-hexcite-maetel-legend-ex.json](./49808-space-hexcite-maetel-legend-ex.json) |
 | Space Hitchhiker Stop | 360563 | [360563-space-hitchhiker-stop.json](./360563-space-hitchhiker-stop.json) |
 | Space Hodsola 2 | 105246 | [105246-space-hodsola-2.json](./105246-space-hodsola-2.json) |
@@ -19932,6 +19934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Travel Idle | 148480 | [148480-space-travel-idle.json](./148480-space-travel-idle.json) |
 | Space Travel Jigsaw Puzzles | 156943 | [156943-space-travel-jigsaw-puzzles.json](./156943-space-travel-jigsaw-puzzles.json) |
 | Space Traveler's Brain Creator | 285504 | [285504-space-travelers-brain-creator.json](./285504-space-travelers-brain-creator.json) |
+| Space Travellers | 244582 | [244582-space-travellers.json](./244582-space-travellers.json) |
 | Space Travelling | 120715 | [120715-space-travelling.json](./120715-space-travelling.json) |
 | Space Treasure Hunters | 372489 | [372489-space-treasure-hunters.json](./372489-space-treasure-hunters.json) |
 | Space Treasure Hunters part 2 | 372491 | [372491-space-treasure-hunters-part-2.json](./372491-space-treasure-hunters-part-2.json) |
@@ -25295,6 +25298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Start an Egg | 256043 | [256043-start-an-egg.json](./256043-start-an-egg.json) |
 | Start Blackthorn Castle | 94973 | [94973-start-blackthorn-castle.json](./94973-start-blackthorn-castle.json) |
 | Start From School | 148780 | [148780-start-from-school.json](./148780-start-from-school.json) |
+| Start Over | 244584 | [244584-start-over.json](./244584-start-over.json) |
 | Start Rescue the Enchanter | 87060 | [87060-start-rescue-the-enchanter.json](./87060-start-rescue-the-enchanter.json) |
 | Start Running | 291858 | [291858-start-running.json](./291858-start-running.json) |
 | Start Survey? | 177427 | [177427-start-survey.json](./177427-start-survey.json) |
@@ -30298,6 +30302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Caesars Palace | 9622 | [9622-super-caesars-palace.json](./9622-super-caesars-palace.json) |
 | Super Cakeboy | 240816 | [240816-super-cakeboy.json](./240816-super-cakeboy.json) |
 | Super Calm Bros. 3 | 214718 | [214718-super-calm-bros-3.json](./214718-super-calm-bros-3.json) |
+| Super Cambur: The Sacred Orbs | 244537 | [244537-super-cambur-the-sacred-orbs.json](./244537-super-cambur-the-sacred-orbs.json) |
 | Super Can Cannon | 149186 | [149186-super-can-cannon.json](./149186-super-can-cannon.json) |
 | Super Candle World | 391010 | [391010-super-candle-world.json](./391010-super-candle-world.json) |
 | Super Candy Ball: Color Clash | 235253 | [235253-super-candy-ball-color-clash.json](./235253-super-candy-ball-color-clash.json) |
