@@ -3761,6 +3761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxmons | 425869 | [425869-voxmons.json](./425869-voxmons.json) |
 | Voxorp | 178628 | [178628-voxorp.json](./178628-voxorp.json) |
 | Voxquarter | 366461 | [366461-voxquarter.json](./366461-voxquarter.json) |
+| Voxquest: The Firebird | 193574 | [193574-voxquest-the-firebird.json](./193574-voxquest-the-firebird.json) |
 | Voxrush | 211138 | [211138-voxrush.json](./211138-voxrush.json) |
 | VoxStory | 137887 | [137887-voxstory.json](./137887-voxstory.json) |
 | VoxSys | 247847 | [247847-voxsys.json](./247847-voxsys.json) |
