@@ -1608,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KeepShopkeeping 2 | 119628 | [119628-keepshopkeeping-2.json](./119628-keepshopkeeping-2.json) |
 | KeepUp Survival | 143688 | [143688-keepup-survival.json](./143688-keepup-survival.json) |
 | KeepUp Survival: Mountain Map | 293873 | [293873-keepup-survival-mountain-map.json](./293873-keepup-survival-mountain-map.json) |
+| KeepUp Survival: Red Desert Map | 200790 | [200790-keepup-survival-red-desert-map.json](./200790-keepup-survival-red-desert-map.json) |
 | KeepUp Survival: Tropical Island | 195345 | [195345-keepup-survival-tropical-island.json](./195345-keepup-survival-tropical-island.json) |
 | Keepy Up | 400344 | [400344-keepy-up.json](./400344-keepy-up.json) |
 | Keepy Uppy | 229353 | [229353-keepy-uppy.json](./229353-keepy-uppy.json) |
@@ -2821,6 +2822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -6403,6 +6405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyoto Tanoji Quest | 30420 | [30420-kyoto-tanoji-quest.json](./30420-kyoto-tanoji-quest.json) |
 | Kyotokei | 85236 | [85236-kyotokei.json](./85236-kyotokei.json) |
 | Kyou Kara Maou!: Hajimari no Tabi | 200991 | [200991-kyou-kara-maou-hajimari-no-tabi.json](./200991-kyou-kara-maou-hajimari-no-tabi.json) |
+| Kyou Kara Maou!: Ore-sama Quest | 200801 | [200801-kyou-kara-maou-ore-sama-quest.json](./200801-kyou-kara-maou-ore-sama-quest.json) |
 | Kyou kara Tsukaeru Hisshou Business Shinrigaku | 261376 | [261376-kyou-kara-tsukaeru-hisshou-business-shinrigaku.json](./261376-kyou-kara-tsukaeru-hisshou-business-shinrigaku.json) |
 | Kyou no Sekai: Crazy World | 166039 | [166039-kyou-no-sekai-crazy-world.json](./166039-kyou-no-sekai-crazy-world.json) |
 | Kyouai Renka | 285376 | [285376-kyouai-renka.json](./285376-kyouai-renka.json) |
