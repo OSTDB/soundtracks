@@ -11749,6 +11749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blukaty | 291241 | [291241-blukaty.json](./291241-blukaty.json) |
 | Bluma | 306410 | [306410-bluma.json](./306410-bluma.json) |
 | Blumen & Muster Puzzle: Echter Puzzlespass für Unterwegs | 252657 | [252657-blumen-and-muster-puzzle-echter-puzzlespass-fur-unterwegs.json](./252657-blumen-and-muster-puzzle-echter-puzzlespass-fur-unterwegs.json) |
+| Blumen Kranz | 214808 | [214808-blumen-kranz.json](./214808-blumen-kranz.json) |
 | Blumenmacht | 78913 | [78913-blumenmacht.json](./78913-blumenmacht.json) |
 | Blumgi Castle | 219262 | [219262-blumgi-castle.json](./219262-blumgi-castle.json) |
 | Blumgi Slime | 333995 | [333995-blumgi-slime.json](./333995-blumgi-slime.json) |
