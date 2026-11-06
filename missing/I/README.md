@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Expect You to Die: Home Sweet Home | 223146 | [223146-i-expect-you-to-die-home-sweet-home.json](./223146-i-expect-you-to-die-home-sweet-home.json) |
 | I face the darkness | 113141 | [113141-i-face-the-darkness.json](./113141-i-face-the-darkness.json) |
 | I Feel Fantastic | 217834 | [217834-i-feel-fantastic.json](./217834-i-feel-fantastic.json) |
+| I Feel the Need | 227062 | [227062-i-feel-the-need.json](./227062-i-feel-the-need.json) |
 | I Fell for Her | 400715 | [400715-i-fell-for-her.json](./400715-i-fell-for-her.json) |
 | I fell from Grace | 51718 | [51718-i-fell-from-grace.json](./51718-i-fell-from-grace.json) |
 | I Fell In Love With A Fantasy Farmer | 296609 | [296609-i-fell-in-love-with-a-fantasy-farmer.json](./296609-i-fell-in-love-with-a-fantasy-farmer.json) |
@@ -2145,6 +2146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illegal Excavation | 249880 | [249880-illegal-excavation.json](./249880-illegal-excavation.json) |
 | Illegal Football | 293055 | [293055-illegal-football.json](./293055-illegal-football.json) |
 | Illegal Mahjong | 272563 | [272563-illegal-mahjong.json](./272563-illegal-mahjong.json) |
+| Illegal Plantation | 227057 | [227057-illegal-plantation.json](./227057-illegal-plantation.json) |
 | Illegal Simulator | 302058 | [302058-illegal-simulator.json](./302058-illegal-simulator.json) |
 | Illie | 74950 | [74950-illie.json](./74950-illie.json) |
 | Illiteracy | 178489 | [178489-illiteracy.json](./178489-illiteracy.json) |
@@ -3457,6 +3459,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Industry Giant II | 16947 | [16947-industry-giant-ii.json](./16947-industry-giant-ii.json) |
 | Industry Giant: Expansion Set | 100137 | [100137-industry-giant-expansion-set.json](./100137-industry-giant-expansion-set.json) |
 | Industry Idle | 148408 | [148408-industry-idle.json](./148408-industry-idle.json) |
+| Industry Idle: Expansion Pack 1 | 227056 | [227056-industry-idle-expansion-pack-1.json](./227056-industry-idle-expansion-pack-1.json) |
+| Industry Idle: Expansion Pack 2 | 227055 | [227055-industry-idle-expansion-pack-2.json](./227055-industry-idle-expansion-pack-2.json) |
 | Industry Manager: Future Technologies | 25808 | [25808-industry-manager-future-technologies.json](./25808-industry-manager-future-technologies.json) |
 | Industry Mania | 181097 | [181097-industry-mania.json](./181097-industry-mania.json) |
 | Industry Transporters | 35102 | [35102-industry-transporters.json](./35102-industry-transporters.json) |
@@ -3494,6 +3498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inertia! | 94111 | [94111-inertia.json](./94111-inertia.json) |
 | Inertial Craft | 309953 | [309953-inertial-craft.json](./309953-inertial-craft.json) |
 | Inertial Drift | 127770 | [127770-inertial-drift.json](./127770-inertial-drift.json) |
+| Inertial Drift: Twilight Rivals | 227054 | [227054-inertial-drift-twilight-rivals.json](./227054-inertial-drift-twilight-rivals.json) |
 | Inertial Drift: Twilight Rivals Edition | 203517 | [203517-inertial-drift-twilight-rivals-edition.json](./203517-inertial-drift-twilight-rivals-edition.json) |
 | Inertix | 264974 | [264974-inertix.json](./264974-inertix.json) |
 | Ines | 340925 | [340925-ines.json](./340925-ines.json) |
@@ -4129,6 +4134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Initium | 342793 | [342793-initium.json](./342793-initium.json) |
 | Initium Legenda | 192972 | [192972-initium-legenda.json](./192972-initium-legenda.json) |
 | Inize Warrior | 242440 | [242440-inize-warrior.json](./242440-inize-warrior.json) |
+| Injection | 227053 | [227053-injection.json](./227053-injection.json) |
 | Injection | 60044 | [60044-injection.json](./60044-injection.json) |
 | Injection π 23: No Name, No Number | 121486 | [121486-injection-23-no-name-no-number.json](./121486-injection-23-no-name-no-number.json) |
 | Injection π23 'Tabula Rasa' | 404706 | [404706-injection-23-tabula-rasa.json](./404706-injection-23-tabula-rasa.json) |
@@ -4280,6 +4286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Innchanted | 138239 | [138239-innchanted.json](./138239-innchanted.json) |
 | Innecto | 87097 | [87097-innecto.json](./87097-innecto.json) |
 | Inner | 121487 | [121487-inner.json](./121487-inner.json) |
+| Inner Abyss | 227052 | [227052-inner-abyss.json](./227052-inner-abyss.json) |
 | Inner Ashes | 217007 | [217007-inner-ashes.json](./217007-inner-ashes.json) |
 | Inner Blade | 244753 | [244753-inner-blade.json](./244753-inner-blade.json) |
 | Inner Chains | 12206 | [12206-inner-chains.json](./12206-inner-chains.json) |
