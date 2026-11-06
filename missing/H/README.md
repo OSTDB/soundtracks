@@ -3227,6 +3227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hear Tell of Hauntings | 338726 | [338726-hear-tell-of-hauntings.json](./338726-hear-tell-of-hauntings.json) |
 | Hear The Bell Toll | 357719 | [357719-hear-the-bell-toll.json](./357719-hear-the-bell-toll.json) |
 | Heard of the Story? | 211791 | [211791-heard-of-the-story.json](./211791-heard-of-the-story.json) |
+| Heardle | 193526 | [193526-heardle.json](./193526-heardle.json) |
 | Hearing | 94131 | [94131-hearing.json](./94131-hearing.json) |
 | Hearing Voices | 405323 | [405323-hearing-voices.json](./405323-hearing-voices.json) |
 | Hearse Hero | 406119 | [406119-hearse-hero.json](./406119-hearse-hero.json) |
@@ -11413,6 +11414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HU-man Dungeons | 294963 | [294963-hu-man-dungeons.json](./294963-hu-man-dungeons.json) |
 | Hua Lian Yue Yi | 407197 | [407197-hua-lian-yue-yi.json](./407197-hua-lian-yue-yi.json) |
 | Hua Mulan | 94491 | [94491-hua-mulan.json](./94491-hua-mulan.json) |
+| Hua Mulan: A Chinese Learning Adventure | 193569 | [193569-hua-mulan-a-chinese-learning-adventure.json](./193569-hua-mulan-a-chinese-learning-adventure.json) |
 | Hua-Z | 397788 | [397788-hua-z.json](./397788-hua-z.json) |
 | Huáijiù Bǎn Sānguózhì Idle RPG | 369188 | [369188-huaijiu-ban-sanguozhi-idle-rpg.json](./369188-huaijiu-ban-sanguozhi-idle-rpg.json) |
 | Huàn Shì Lù | 369350 | [369350-huan-shi-lu.json](./369350-huan-shi-lu.json) |
