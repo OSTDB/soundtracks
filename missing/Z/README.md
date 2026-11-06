@@ -1439,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombi Mall | 421606 | [421606-zombi-mall.json](./421606-zombi-mall.json) |
 | Zombi Rockstar | 245844 | [245844-zombi-rockstar.json](./245844-zombi-rockstar.json) |
 | Zombiax Evil | 249600 | [249600-zombiax-evil.json](./249600-zombiax-evil.json) |
+| Zombicide: Tactics & Shotguns | 207958 | [207958-zombicide-tactics-and-shotguns.json](./207958-zombicide-tactics-and-shotguns.json) |
 | Zombidle | 70384 | [70384-zombidle.json](./70384-zombidle.json) |
 | Zombidle: Remonstered | 36968 | [36968-zombidle-remonstered.json](./36968-zombidle-remonstered.json) |
 | Zombie | 26894 | [26894-zombie.json](./26894-zombie.json) |
