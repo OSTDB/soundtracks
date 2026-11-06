@@ -9181,6 +9181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackfaun | 34279 | [34279-blackfaun.json](./34279-blackfaun.json) |
 | Blackfire Crusade | 403082 | [403082-blackfire-crusade.json](./403082-blackfire-crusade.json) |
 | Blackfoot Burrows | 110640 | [110640-blackfoot-burrows.json](./110640-blackfoot-burrows.json) |
+| BlackForge VR | 223219 | [223219-blackforge-vr.json](./223219-blackforge-vr.json) |
 | Blackfrost: The Long Dark 2 | 325596 | [325596-blackfrost-the-long-dark-2.json](./325596-blackfrost-the-long-dark-2.json) |
 | Blackgate | 138226 | [138226-blackgate.json](./138226-blackgate.json) |
 | BlackGate | 325837 | [325837-blackgate.json](./325837-blackgate.json) |
