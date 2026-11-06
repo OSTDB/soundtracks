@@ -1260,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zippy the Circle: Level 3 & Level 4 | 211378 | [211378-zippy-the-circle-level-3-and-level-4.json](./211378-zippy-the-circle-level-3-and-level-4.json) |
 | Zippy the Circle: Level 5, Level 6 & Level 7 | 211379 | [211379-zippy-the-circle-level-5-level-6-and-level-7.json](./211379-zippy-the-circle-level-5-level-6-and-level-7.json) |
 | Zippy the Circle: Level 8, Level 9, & Level 10 | 214695 | [214695-zippy-the-circle-level-8-level-9-and-level-10.json](./214695-zippy-the-circle-level-8-level-9-and-level-10.json) |
+| Zippy the Circle: Special | 229474 | [229474-zippy-the-circle-special.json](./229474-zippy-the-circle-special.json) |
 | Zippy the Porcupine | 18411 | [18411-zippy-the-porcupine.json](./18411-zippy-the-porcupine.json) |
 | Zippy Zombi | 73813 | [73813-zippy-zombi.json](./73813-zippy-zombi.json) |
 | Ziq | 105068 | [105068-ziq.json](./105068-ziq.json) |
