@@ -6057,6 +6057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Sphere | 81656 | [81656-retro-sphere.json](./81656-retro-sphere.json) |
 | Retro Sports Bundle | 154966 | [154966-retro-sports-bundle.json](./154966-retro-sports-bundle.json) |
 | Retro Style: Pixel Art Jigsaw Puzzles | 239063 | [239063-retro-style-pixel-art-jigsaw-puzzles.json](./239063-retro-style-pixel-art-jigsaw-puzzles.json) |
+| Retro Style: Pixel Art Jigsaw Puzzles - Expansion Pack 1 | 239970 | [239970-retro-style-pixel-art-jigsaw-puzzles-expansion-pack-1.json](./239970-retro-style-pixel-art-jigsaw-puzzles-expansion-pack-1.json) |
 | Retro Synthesis | 109715 | [109715-retro-synthesis.json](./109715-retro-synthesis.json) |
 | Retro Tank Arcade | 231563 | [231563-retro-tank-arcade.json](./231563-retro-tank-arcade.json) |
 | Retro Tanks | 130960 | [130960-retro-tanks.json](./130960-retro-tanks.json) |
@@ -8735,6 +8736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robocalypse: Beaver Defense | 69126 | [69126-robocalypse-beaver-defense.json](./69126-robocalypse-beaver-defense.json) |
 | Robocco Wars | 72649 | [72649-robocco-wars.json](./72649-robocco-wars.json) |
 | RoboCo | 121739 | [121739-roboco.json](./121739-roboco.json) |
+| Robocock | 240015 | [240015-robocock.json](./240015-robocock.json) |
 | RoboCock | 274454 | [274454-robocock.json](./274454-robocock.json) |
 | RoboCop | 112909 | [112909-robocop.json](./112909-robocop.json) |
 | RoboCop | 198282 | [198282-robocop.json](./198282-robocop.json) |
