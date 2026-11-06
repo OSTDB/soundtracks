@@ -3103,6 +3103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6th Dimension | 148532 | [148532-6th-dimension.json](./148532-6th-dimension.json) |
 | 6th Floor | 301589 | [301589-6th-floor.json](./301589-6th-floor.json) |
 | 7 | 34297 | [34297-7.json](./34297-7.json) |
+| 7 Angels | 196910 | [196910-7-angels.json](./196910-7-angels.json) |
 | 7 Ate 9 | 316435 | [316435-7-ate-9.json](./316435-7-ate-9.json) |
 | 7 Blades | 27622 | [27622-7-blades.json](./27622-7-blades.json) |
 | 7 Card Games | 84685 | [84685-7-card-games.json](./84685-7-card-games.json) |
