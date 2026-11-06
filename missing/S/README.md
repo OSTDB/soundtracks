@@ -6158,6 +6158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Adventure: The Board Game | 391944 | [391944-sex-adventure-the-board-game.json](./391944-sex-adventure-the-board-game.json) |
 | Sex Adventures: BDSM Dungeon | 219597 | [219597-sex-adventures-bdsm-dungeon.json](./219597-sex-adventures-bdsm-dungeon.json) |
 | Sex Adventures: Cuckold Gym | 226151 | [226151-sex-adventures-cuckold-gym.json](./226151-sex-adventures-cuckold-gym.json) |
+| Sex Adventures: Futanari BDSM | 196925 | [196925-sex-adventures-futanari-bdsm.json](./196925-sex-adventures-futanari-bdsm.json) |
 | Sex Adventures: Futanari Doctor | 286529 | [286529-sex-adventures-futanari-doctor.json](./286529-sex-adventures-futanari-doctor.json) |
 | Sex Adventures: Futanari Mistress | 384721 | [384721-sex-adventures-futanari-mistress.json](./384721-sex-adventures-futanari-mistress.json) |
 | Sex Adventures: GangBang Surprise | 219598 | [219598-sex-adventures-gangbang-surprise.json](./219598-sex-adventures-gangbang-surprise.json) |
@@ -6177,6 +6178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Adventures: The Office Slut | 392976 | [392976-sex-adventures-the-office-slut.json](./392976-sex-adventures-the-office-slut.json) |
 | Sex Adventures: The Pool Party | 213459 | [213459-sex-adventures-the-pool-party.json](./213459-sex-adventures-the-pool-party.json) |
 | Sex Adventures: The Secret Club | 286472 | [286472-sex-adventures-the-secret-club.json](./286472-sex-adventures-the-secret-club.json) |
+| Sex Adventures: The Spa | 196909 | [196909-sex-adventures-the-spa.json](./196909-sex-adventures-the-spa.json) |
 | Sex Adventures: Vampire Express Train | 224966 | [224966-sex-adventures-vampire-express-train.json](./224966-sex-adventures-vampire-express-train.json) |
 | Sex Advice Succubus | 239526 | [239526-sex-advice-succubus.json](./239526-sex-advice-succubus.json) |
 | Sex Airlines | 311576 | [311576-sex-airlines.json](./311576-sex-airlines.json) |
@@ -10739,6 +10741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Wire | 205033 | [205033-silver-wire.json](./205033-silver-wire.json) |
 | Silver's Adventure | 326552 | [326552-silvers-adventure.json](./326552-silvers-adventure.json) |
 | Silverball | 76466 | [76466-silverball.json](./76466-silverball.json) |
+| Silverblood | 196931 | [196931-silverblood.json](./196931-silverblood.json) |
 | Silverbrook: a Text-Based RPG | 404609 | [404609-silverbrook-a-text-based-rpg.json](./404609-silverbrook-a-text-based-rpg.json) |
 | SilverDollar | 101525 | [101525-silverdollar.json](./101525-silverdollar.json) |
 | Silverfall | 15718 | [15718-silverfall.json](./15718-silverfall.json) |
@@ -13101,6 +13104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slasher: Origins | 319761 | [319761-slasher-origins.json](./319761-slasher-origins.json) |
 | Slasher's Keep | 76256 | [76256-slashers-keep.json](./76256-slashers-keep.json) |
 | SlasherRPG | 224515 | [224515-slasherrpg.json](./224515-slasherrpg.json) |
+| Slashers | 196916 | [196916-slashers.json](./196916-slashers.json) |
 | Slashers | 245088 | [245088-slashers.json](./245088-slashers.json) |
 | Slashers: Great Circus | 220701 | [220701-slashers-great-circus.json](./220701-slashers-great-circus.json) |
 | Slashers: The Power Battle | 61970 | [61970-slashers-the-power-battle.json](./61970-slashers-the-power-battle.json) |
@@ -14200,6 +14204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Nights | 253397 | [253397-small-nights.json](./253397-small-nights.json) |
 | Small on Top | 245617 | [245617-small-on-top.json](./245617-small-on-top.json) |
 | Small People Defense | 236325 | [236325-small-people-defense.json](./236325-small-people-defense.json) |
+| Small Phrases Great stories | 196905 | [196905-small-phrases-great-stories.json](./196905-small-phrases-great-stories.json) |
 | Small Pile of Gibs | 402797 | [402797-small-pile-of-gibs.json](./402797-small-pile-of-gibs.json) |
 | Small Pixel | 105094 | [105094-small-pixel.json](./105094-small-pixel.json) |
 | Small Press Tycoon | 157102 | [157102-small-press-tycoon.json](./157102-small-press-tycoon.json) |
@@ -23507,6 +23512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirrels are going nuts | 197062 | [197062-squirrels-are-going-nuts.json](./197062-squirrels-are-going-nuts.json) |
 | Squirrels Forest Race | 310269 | [310269-squirrels-forest-race.json](./310269-squirrels-forest-race.json) |
 | Squirrels Gone Nuts | 290551 | [290551-squirrels-gone-nuts.json](./290551-squirrels-gone-nuts.json) |
+| Squirrels: Doomed City | 196943 | [196943-squirrels-doomed-city.json](./196943-squirrels-doomed-city.json) |
 | Squirreltopia | 36132 | [36132-squirreltopia.json](./36132-squirreltopia.json) |
 | SquirrelTower | 422648 | [422648-squirreltower.json](./422648-squirreltower.json) |
 | SquirrelWarz | 259694 | [259694-squirrelwarz.json](./259694-squirrelwarz.json) |
@@ -35605,6 +35611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords | 91396 | [91396-swords.json](./91396-swords.json) |
 | Swords & Adventures | 215703 | [215703-swords-and-adventures.json](./215703-swords-and-adventures.json) |
 | Swords & Bones | 144026 | [144026-swords-and-bones.json](./144026-swords-and-bones.json) |
+| Swords & Bones 2 | 196928 | [196928-swords-and-bones-2.json](./196928-swords-and-bones-2.json) |
 | Swords & Bones 3 | 235454 | [235454-swords-and-bones-3.json](./235454-swords-and-bones-3.json) |
 | Swords & Bones 4 | 296359 | [296359-swords-and-bones-4.json](./296359-swords-and-bones-4.json) |
 | Swords & Bones 5 | 360592 | [360592-swords-and-bones-5.json](./360592-swords-and-bones-5.json) |
