@@ -2865,6 +2865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elzypon | 386909 | [386909-elzypon.json](./386909-elzypon.json) |
 | Elzzup | 252876 | [252876-elzzup.json](./252876-elzzup.json) |
 | Em | 187163 | [187163-em.json](./187163-em.json) |
+| Em Busca dos Tesouros | 217589 | [217589-em-busca-dos-tesouros.json](./217589-em-busca-dos-tesouros.json) |
 | Em-A-Li | 127793 | [127793-em-a-li.json](./127793-em-a-li.json) |
 | Em-A-Zurvival | 143970 | [143970-em-a-zurvival.json](./143970-em-a-zurvival.json) |
 | EM: Shader Attack | 31354 | [31354-em-shader-attack.json](./31354-em-shader-attack.json) |
