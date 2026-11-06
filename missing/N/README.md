@@ -959,6 +959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsumegu | 59960 | [59960-natsumegu.json](./59960-natsumegu.json) |
 | Natsumi & Fuyuko: All That's Inbetween | 212802 | [212802-natsumi-and-fuyuko-all-thats-inbetween.json](./212802-natsumi-and-fuyuko-all-thats-inbetween.json) |
 | Natsumi and the Absurd Academy | 385841 | [385841-natsumi-and-the-absurd-academy.json](./385841-natsumi-and-the-absurd-academy.json) |
+| Natsumi Kokochi | 213095 | [213095-natsumi-kokochi.json](./213095-natsumi-kokochi.json) |
 | Natsuno-Kanata: Beyond Summer | 366723 | [366723-natsuno-kanata-beyond-summer.json](./366723-natsuno-kanata-beyond-summer.json) |
 | Natsuno-Kanata: Beyond the Summer | 171738 | [171738-natsuno-kanata-beyond-the-summer.json](./171738-natsuno-kanata-beyond-the-summer.json) |
 | Natsuyasumi | 327917 | [327917-natsuyasumi.json](./327917-natsuyasumi.json) |
@@ -2040,6 +2041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Tomo | 104255 | [104255-neko-tomo.json](./104255-neko-tomo.json) |
 | Neko Waifu | 367033 | [367033-neko-waifu.json](./367033-neko-waifu.json) |
 | Neko Yume | 166503 | [166503-neko-yume.json](./166503-neko-yume.json) |
+| Neko Yume Douchuuki | 213094 | [213094-neko-yume-douchuuki.json](./213094-neko-yume-douchuuki.json) |
 | Neko Zamurai | 128364 | [128364-neko-zamurai.json](./128364-neko-zamurai.json) |
 | Neko-chan's Club | 238803 | [238803-neko-chans-club.json](./238803-neko-chans-club.json) |
 | Neko-Mimi Sweet Housemates Vol. 2 | 405362 | [405362-neko-mimi-sweet-housemates-vol-2.json](./405362-neko-mimi-sweet-housemates-vol-2.json) |
@@ -4001,6 +4003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nickelodeon All-Star Brawl: StageHazardRemoverMod | 330977 | [330977-nickelodeon-all-star-brawl-stagehazardremovermod.json](./330977-nickelodeon-all-star-brawl-stagehazardremovermod.json) |
 | Nickelodeon All-Star Brawl: Turbo Mode | 330975 | [330975-nickelodeon-all-star-brawl-turbo-mode.json](./330975-nickelodeon-all-star-brawl-turbo-mode.json) |
 | Nickelodeon All-Star Brawl: Ultimate Edition | 225326 | [225326-nickelodeon-all-star-brawl-ultimate-edition.json](./225326-nickelodeon-all-star-brawl-ultimate-edition.json) |
+| Nickelodeon All-Star Brawl: Universe Pack | 213074 | [213074-nickelodeon-all-star-brawl-universe-pack.json](./213074-nickelodeon-all-star-brawl-universe-pack.json) |
 | Nickelodeon All-Star Brawl: Voice Acting and Items | 324641 | [324641-nickelodeon-all-star-brawl-voice-acting-and-items.json](./324641-nickelodeon-all-star-brawl-voice-acting-and-items.json) |
 | Nickelodeon Brain Bender Puzzles & Activities | 206474 | [206474-nickelodeon-brain-bender-puzzles-and-activities.json](./206474-nickelodeon-brain-bender-puzzles-and-activities.json) |
 | Nickelodeon Card Clash | 382944 | [382944-nickelodeon-card-clash.json](./382944-nickelodeon-card-clash.json) |
@@ -5010,6 +5013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Defense: Revenge | 234002 | [234002-ninja-defense-revenge.json](./234002-ninja-defense-revenge.json) |
 | Ninja Dojo | 181771 | [181771-ninja-dojo.json](./181771-ninja-dojo.json) |
 | Ninja Duck | 181770 | [181770-ninja-duck.json](./181770-ninja-duck.json) |
+| Ninja Ducks vs Pirate Pigs | 213109 | [213109-ninja-ducks-vs-pirate-pigs.json](./213109-ninja-ducks-vs-pirate-pigs.json) |
 | Ninja Dude vs. Zombies | 20334 | [20334-ninja-dude-vs-zombies.json](./20334-ninja-dude-vs-zombies.json) |
 | Ninja Dude vs. Zombies 2 | 117030 | [117030-ninja-dude-vs-zombies-2.json](./117030-ninja-dude-vs-zombies-2.json) |
 | Ninja Emaki | 37325 | [37325-ninja-emaki.json](./37325-ninja-emaki.json) |
