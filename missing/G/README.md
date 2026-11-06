@@ -351,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gadurin | 137496 | [137496-gadurin.json](./137496-gadurin.json) |
 | Gadvia | 223940 | [223940-gadvia.json](./223940-gadvia.json) |
 | Gaelco Arcade 1 | 149291 | [149291-gaelco-arcade-1.json](./149291-gaelco-arcade-1.json) |
+| Gaelco Arcade 2 | 203515 | [203515-gaelco-arcade-2.json](./203515-gaelco-arcade-2.json) |
 | Gaelic Football Laochra | 394897 | [394897-gaelic-football-laochra.json](./394897-gaelic-football-laochra.json) |
 | Gaelic Games: Football | 98973 | [98973-gaelic-games-football.json](./98973-gaelic-games-football.json) |
 | Gaelic Games: Football 2 | 57605 | [57605-gaelic-games-football-2.json](./57605-gaelic-games-football-2.json) |
@@ -421,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakkou de Atta Koii Hanashi | 212261 | [212261-gakkou-de-atta-koii-hanashi.json](./212261-gakkou-de-atta-koii-hanashi.json) |
 | Gakkou de Atta Kowai Hanashi | 44408 | [44408-gakkou-de-atta-kowai-hanashi.json](./44408-gakkou-de-atta-kowai-hanashi.json) |
 | Gakkou de Atta Kowai Hanashi S | 112565 | [112565-gakkou-de-atta-kowai-hanashi-s.json](./112565-gakkou-de-atta-kowai-hanashi-s.json) |
+| Gakkou no Kaidan | 203504 | [203504-gakkou-no-kaidan.json](./203504-gakkou-no-kaidan.json) |
 | Gakkou no Kaidan DS | 269606 | [269606-gakkou-no-kaidan-ds.json](./269606-gakkou-no-kaidan-ds.json) |
 | Gakkou no Kaidan: Hyakuyoubako no Fuuin | 49566 | [49566-gakkou-no-kaidan-hyakuyoubako-no-fuuin.json](./49566-gakkou-no-kaidan-hyakuyoubako-no-fuuin.json) |
 | Gakkou wo Tsukurou!! 2 | 363956 | [363956-gakkou-wo-tsukurou-2.json](./363956-gakkou-wo-tsukurou-2.json) |
