@@ -4091,6 +4091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Legend 2026 | 417283 | [417283-tennis-legend-2026.json](./417283-tennis-legend-2026.json) |
 | Tennis Life | 333532 | [333532-tennis-life.json](./333532-tennis-life.json) |
 | Tennis Manager 2021 | 148444 | [148444-tennis-manager-2021.json](./148444-tennis-manager-2021.json) |
+| Tennis Manager 2022 | 197470 | [197470-tennis-manager-2022.json](./197470-tennis-manager-2022.json) |
 | Tennis Manager 2024 | 298223 | [298223-tennis-manager-2024.json](./298223-tennis-manager-2024.json) |
 | Tennis Manager 25 | 338259 | [338259-tennis-manager-25.json](./338259-tennis-manager-25.json) |
 | Tennis Manager 26 | 398827 | [398827-tennis-manager-26.json](./398827-tennis-manager-26.json) |
@@ -9731,6 +9732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgotten Void | 101457 | [101457-the-forgotten-void.json](./101457-the-forgotten-void.json) |
 | The Forgotten World | 244348 | [244348-the-forgotten-world.json](./244348-the-forgotten-world.json) |
 | The Forgotten: It Begins | 73526 | [73526-the-forgotten-it-begins.json](./73526-the-forgotten-it-begins.json) |
+| The Forked Road | 197428 | [197428-the-forked-road.json](./197428-the-forked-road.json) |
 | The Forlorn | 415163 | [415163-the-forlorn.json](./415163-the-forlorn.json) |
 | The Forsaken Anthology: Obsession | 395262 | [395262-the-forsaken-anthology-obsession.json](./395262-the-forsaken-anthology-obsession.json) |
 | The Forsaken Ruins | 157911 | [157911-the-forsaken-ruins.json](./157911-the-forsaken-ruins.json) |
@@ -10129,6 +10131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Golden Mare | 364663 | [364663-the-golden-mare.json](./364663-the-golden-mare.json) |
 | The Golden Path of Plumeboom | 24736 | [24736-the-golden-path-of-plumeboom.json](./24736-the-golden-path-of-plumeboom.json) |
 | The Golden Pearl | 179142 | [179142-the-golden-pearl.json](./179142-the-golden-pearl.json) |
+| The Golden Rose: Book One | 197467 | [197467-the-golden-rose-book-one.json](./197467-the-golden-rose-book-one.json) |
 | The Golden Tile | 333811 | [333811-the-golden-tile.json](./333811-the-golden-tile.json) |
 | The Golden Time in High School | 201358 | [201358-the-golden-time-in-high-school.json](./201358-the-golden-time-in-high-school.json) |
 | The Golden Tower | 362911 | [362911-the-golden-tower.json](./362911-the-golden-tower.json) |
@@ -10476,6 +10479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hand | 40351 | [40351-the-hand.json](./40351-the-hand.json) |
 | The Hand is Faster than the Eye | 318227 | [318227-the-hand-is-faster-than-the-eye.json](./318227-the-hand-is-faster-than-the-eye.json) |
 | The Hand of Glory | 111103 | [111103-the-hand-of-glory.json](./111103-the-hand-of-glory.json) |
+| The Hand of Glory: The Blowtorch Files | 197455 | [197455-the-hand-of-glory-the-blowtorch-files.json](./197455-the-hand-of-glory-the-blowtorch-files.json) |
 | The Hand of Merlin: Deluxe Edition | 169164 | [169164-the-hand-of-merlin-deluxe-edition.json](./169164-the-hand-of-merlin-deluxe-edition.json) |
 | The Hand of Panda | 85436 | [85436-the-hand-of-panda.json](./85436-the-hand-of-panda.json) |
 | The Hand of the Crownbearer | 403718 | [403718-the-hand-of-the-crownbearer.json](./403718-the-hand-of-the-crownbearer.json) |
