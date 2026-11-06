@@ -4020,6 +4020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadlist | 387444 | [387444-deadlist.json](./387444-deadlist.json) |
 | Deadlivery Night | 375130 | [375130-deadlivery-night.json](./375130-deadlivery-night.json) |
 | DeadLock | 166073 | [166073-deadlock.json](./166073-deadlock.json) |
+| Deadlock Station | 240598 | [240598-deadlock-station.json](./240598-deadlock-station.json) |
 | Deadlock: Planetary Conquest | 10171 | [10171-deadlock-planetary-conquest.json](./10171-deadlock-planetary-conquest.json) |
 | Deadlocked | 177277 | [177277-deadlocked.json](./177277-deadlocked.json) |
 | Deadlocked | 197796 | [197796-deadlocked.json](./197796-deadlocked.json) |
@@ -7487,6 +7488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny6 | 83184 | [83184-destiny6.json](./83184-destiny6.json) |
 | Destoria: The Withering | 207801 | [207801-destoria-the-withering.json](./207801-destoria-the-withering.json) |
 | Destrega | 45225 | [45225-destrega.json](./45225-destrega.json) |
+| Destrium | 240592 | [240592-destrium.json](./240592-destrium.json) |
 | Destrobots | 135656 | [135656-destrobots.json](./135656-destrobots.json) |
 | Destroiders | 216673 | [216673-destroiders.json](./216673-destroiders.json) |
 | Destropolis | 143587 | [143587-destropolis.json](./143587-destropolis.json) |
@@ -8495,6 +8497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Saga | 364964 | [364964-dice-saga.json](./364964-dice-saga.json) |
 | Dice Soccer City | 248277 | [248277-dice-soccer-city.json](./248277-dice-soccer-city.json) |
 | Dice Strategy | 319742 | [319742-dice-strategy.json](./319742-dice-strategy.json) |
+| Dice Survivor | 240603 | [240603-dice-survivor.json](./240603-dice-survivor.json) |
 | Dice Tactics: Demon King Chapters 2, 3, 4 | 168835 | [168835-dice-tactics-demon-king-chapters-2-3-4.json](./168835-dice-tactics-demon-king-chapters-2-3-4.json) |
 | Dice Team | 373757 | [373757-dice-team.json](./373757-dice-team.json) |
 | Dice Throne Digital | 388981 | [388981-dice-throne-digital.json](./388981-dice-throne-digital.json) |
@@ -13351,6 +13354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doria & the Tide Song | 410378 | [410378-doria-and-the-tide-song.json](./410378-doria-and-the-tide-song.json) |
 | Dorian Morris Adventure | 110750 | [110750-dorian-morris-adventure.json](./110750-dorian-morris-adventure.json) |
 | Doriath | 15855 | [15855-doriath.json](./15855-doriath.json) |
+| Dorico no Toshokan | 240568 | [240568-dorico-no-toshokan.json](./240568-dorico-no-toshokan.json) |
 | Dorifto Challenge | 96623 | [96623-dorifto-challenge.json](./96623-dorifto-challenge.json) |
 | Dorifto! | 421208 | [421208-dorifto.json](./421208-dorifto.json) |
 | Doritos Crash Course Go! | 63573 | [63573-doritos-crash-course-go.json](./63573-doritos-crash-course-go.json) |
@@ -14658,6 +14662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Eclipse | 272997 | [272997-dragon-eclipse.json](./272997-dragon-eclipse.json) |
 | Dragon Egg! | 37722 | [37722-dragon-egg.json](./37722-dragon-egg.json) |
 | Dragon Empires | 91674 | [91674-dragon-empires.json](./91674-dragon-empires.json) |
+| Dragon Escape | 240596 | [240596-dragon-escape.json](./240596-dragon-escape.json) |
 | Dragon Essence: Color My World | 36964 | [36964-dragon-essence-color-my-world.json](./36964-dragon-essence-color-my-world.json) |
 | Dragon Eternity | 59981 | [59981-dragon-eternity.json](./59981-dragon-eternity.json) |
 | Dragon Evo | 188810 | [188810-dragon-evo.json](./188810-dragon-evo.json) |
@@ -17327,6 +17332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dude Simulator 2 | 105011 | [105011-dude-simulator-2.json](./105011-dude-simulator-2.json) |
 | Dude Simulator 3 | 144297 | [144297-dude-simulator-3.json](./144297-dude-simulator-3.json) |
 | Dude Simulator 4 | 164929 | [164929-dude-simulator-4.json](./164929-dude-simulator-4.json) |
+| Dude Simulator 5 | 240590 | [240590-dude-simulator-5.json](./240590-dude-simulator-5.json) |
 | Dude Simulator Six | 279551 | [279551-dude-simulator-six.json](./279551-dude-simulator-six.json) |
 | Dude The Dark Agent | 399691 | [399691-dude-the-dark-agent.json](./399691-dude-the-dark-agent.json) |
 | Dude Theft Wars | 96569 | [96569-dude-theft-wars.json](./96569-dude-theft-wars.json) |
