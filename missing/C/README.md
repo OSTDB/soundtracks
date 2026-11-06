@@ -3468,6 +3468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castillon | 332247 | [332247-castillon.json](./332247-castillon.json) |
 | Casting Away | 318271 | [318271-casting-away.json](./318271-casting-away.json) |
 | Casting Clicker | 367202 | [367202-casting-clicker.json](./367202-casting-clicker.json) |
+| Casting Hearts | 194699 | [194699-casting-hearts.json](./194699-casting-hearts.json) |
 | Casting Plz | 274778 | [274778-casting-plz.json](./274778-casting-plz.json) |
 | Casting Shadows | 256733 | [256733-casting-shadows.json](./256733-casting-shadows.json) |
 | Casting Whispers | 250815 | [250815-casting-whispers.json](./250815-casting-whispers.json) |
@@ -7751,6 +7752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocobo's Mystery Dungeon Every Buddy! | 109465 | [109465-chocobos-mystery-dungeon-every-buddy.json](./109465-chocobos-mystery-dungeon-every-buddy.json) |
 | Chocolat | 10429 | [10429-chocolat.json](./10429-chocolat.json) |
 | Chocolat Rush | 120789 | [120789-chocolat-rush.json](./120789-chocolat-rush.json) |
+| Chocolat: Maid Cafe "Curio" | 194712 | [194712-chocolat-maid-cafe-curio.json](./194712-chocolat-maid-cafe-curio.json) |
 | Chocolate | 54825 | [54825-chocolate.json](./54825-chocolate.json) |
 | Chocolate Cage | 283571 | [283571-chocolate-cage.json](./283571-chocolate-cage.json) |
 | Chocolate Cake | 397948 | [397948-chocolate-cake.json](./397948-chocolate-cake.json) |
@@ -8491,6 +8493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Crystal: Factory DLC | 253497 | [253497-chrono-crystal-factory-dlc.json](./253497-chrono-crystal-factory-dlc.json) |
 | Chrono Crystal: Giant Gate DLC | 253386 | [253386-chrono-crystal-giant-gate-dlc.json](./253386-chrono-crystal-giant-gate-dlc.json) |
 | Chrono Crystal: Hubert | 253664 | [253664-chrono-crystal-hubert.json](./253664-chrono-crystal-hubert.json) |
+| Chrono Days | 194747 | [194747-chrono-days.json](./194747-chrono-days.json) |
 | Chrono Gear: Warden of Time | 328907 | [328907-chrono-gear-warden-of-time.json](./328907-chrono-gear-warden-of-time.json) |
 | Chrono Ghost | 113417 | [113417-chrono-ghost.json](./113417-chrono-ghost.json) |
 | Chrono Hunter | 253190 | [253190-chrono-hunter.json](./253190-chrono-hunter.json) |
@@ -9812,6 +9815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClashofHunter | 130794 | [130794-clashofhunter.json](./130794-clashofhunter.json) |
 | Class 3, Third Grade | 330792 | [330792-class-3-third-grade.json](./330792-class-3-third-grade.json) |
 | Class B-Horror: Subway | 236308 | [236308-class-b-horror-subway.json](./236308-class-b-horror-subway.json) |
+| Class Escape | 194719 | [194719-class-escape.json](./194719-class-escape.json) |
 | Class Maid | 97774 | [97774-class-maid.json](./97774-class-maid.json) |
 | Class Notes | 319918 | [319918-class-notes.json](./319918-class-notes.json) |
 | Class of '09 | 152962 | [152962-class-of-09.json](./152962-class-of-09.json) |
@@ -14078,6 +14082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contraband Patrol Simulator | 364973 | [364973-contraband-patrol-simulator.json](./364973-contraband-patrol-simulator.json) |
 | Contraband Police - Crimson Fall | 381783 | [381783-contraband-police-crimson-fall.json](./381783-contraband-police-crimson-fall.json) |
 | Contrablade World | 197162 | [197162-contrablade-world.json](./197162-contrablade-world.json) |
+| Contrablade: Stadium Rush | 194674 | [194674-contrablade-stadium-rush.json](./194674-contrablade-stadium-rush.json) |
 | Contract | 131217 | [131217-contract.json](./131217-contract.json) |
 | Contract | 34305 | [34305-contract.json](./34305-contract.json) |
 | Contract Album | 379415 | [379415-contract-album.json](./379415-contract-album.json) |
@@ -16797,6 +16802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Goat | 405270 | [405270-crazy-goat.json](./405270-crazy-goat.json) |
 | Crazy Gobbler | 66728 | [66728-crazy-gobbler.json](./66728-crazy-gobbler.json) |
 | Crazy Golf | 13531 | [13531-crazy-golf.json](./13531-crazy-golf.json) |
+| Crazy Golf | 194683 | [194683-crazy-golf.json](./194683-crazy-golf.json) |
 | Crazy Golf Cat | 232896 | [232896-crazy-golf-cat.json](./232896-crazy-golf-cat.json) |
 | Crazy Golf Party | 343138 | [343138-crazy-golf-party.json](./343138-crazy-golf-party.json) |
 | Crazy Golf: World Tour | 43474 | [43474-crazy-golf-world-tour.json](./43474-crazy-golf-world-tour.json) |
