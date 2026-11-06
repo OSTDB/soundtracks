@@ -16477,6 +16477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Pirates | 120256 | [120256-bubble-pirates.json](./120256-bubble-pirates.json) |
 | Bubble Pong Pong | 278234 | [278234-bubble-pong-pong.json](./278234-bubble-pong-pong.json) |
 | Bubble Pop | 89466 | [89466-bubble-pop.json](./89466-bubble-pop.json) |
+| Bubble Pop It ASMR | 195838 | [195838-bubble-pop-it-asmr.json](./195838-bubble-pop-it-asmr.json) |
 | Bubble Pop Letters & Shapes | 213396 | [213396-bubble-pop-letters-and-shapes.json](./213396-bubble-pop-letters-and-shapes.json) |
 | Bubble Pop Math Challenge Gr. 1-2 Premium | 87255 | [87255-bubble-pop-math-challenge-gr-1-2-premium.json](./87255-bubble-pop-math-challenge-gr-1-2-premium.json) |
 | Bubble Pop: Shoot Bubbles | 97067 | [97067-bubble-pop-shoot-bubbles.json](./97067-bubble-pop-shoot-bubbles.json) |
