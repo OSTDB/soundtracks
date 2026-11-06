@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P-Kara | 59365 | [59365-p-kara.json](./59365-p-kara.json) |
 | P-O-X | 290312 | [290312-p-o-x.json](./290312-p-o-x.json) |
 | P-Pan | 391446 | [391446-p-pan.json](./391446-p-pan.json) |
+| P-Racing | 245619 | [245619-p-racing.json](./245619-p-racing.json) |
 | P-Robots | 93029 | [93029-p-robots.json](./93029-p-robots.json) |
 | P-Type | 282377 | [282377-p-type.json](./282377-p-type.json) |
 | P-Walker's Simulation | 36820 | [36820-p-walkers-simulation.json](./36820-p-walkers-simulation.json) |
@@ -5764,6 +5765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piano at 5 am Encore | 366722 | [366722-piano-at-5-am-encore.json](./366722-piano-at-5-am-encore.json) |
 | Piano Bar | 108368 | [108368-piano-bar.json](./108368-piano-bar.json) |
 | Piano Cat | 89638 | [89638-piano-cat.json](./89638-piano-cat.json) |
+| Piano City: Spring Music Festival Story | 245635 | [245635-piano-city-spring-music-festival-story.json](./245635-piano-city-spring-music-festival-story.json) |
 | Piano Game X | 101521 | [101521-piano-game-x.json](./101521-piano-game-x.json) |
 | Piano Game: Classic Music Song | 223987 | [223987-piano-game-classic-music-song.json](./223987-piano-game-classic-music-song.json) |
 | Piano Journey | 175091 | [175091-piano-journey.json](./175091-piano-journey.json) |
@@ -8457,6 +8459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Traveler | 412059 | [412059-pixel-traveler.json](./412059-pixel-traveler.json) |
 | Pixel Troopers | 351752 | [351752-pixel-troopers.json](./351752-pixel-troopers.json) |
 | Pixel Trouble | 192235 | [192235-pixel-trouble.json](./192235-pixel-trouble.json) |
+| Pixel Volley | 245632 | [245632-pixel-volley.json](./245632-pixel-volley.json) |
 | Pixel vs. Zombies | 381159 | [381159-pixel-vs-zombies.json](./381159-pixel-vs-zombies.json) |
 | Pixel Waifu: Escape From the Dark Corporation. The Telepathic Power of a Lovestruck Otaku | 398558 | [398558-pixel-waifu-escape-from-the-dark-corporation-the-telepathic-power-of-a-lovestruck-otaku.json](./398558-pixel-waifu-escape-from-the-dark-corporation-the-telepathic-power-of-a-lovestruck-otaku.json) |
 | Pixel War | 54855 | [54855-pixel-war.json](./54855-pixel-war.json) |
@@ -14137,6 +14140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prime Directive | 212676 | [212676-prime-directive.json](./212676-prime-directive.json) |
 | Prime Elements | 99403 | [99403-prime-elements.json](./99403-prime-elements.json) |
 | Prime Horror II | 215328 | [215328-prime-horror-ii.json](./215328-prime-horror-ii.json) |
+| Prime Jump | 245642 | [245642-prime-jump.json](./245642-prime-jump.json) |
 | Prime Minister's Questions: The Game | 64218 | [64218-prime-ministers-questions-the-game.json](./64218-prime-ministers-questions-the-game.json) |
 | Prime Monster | 391820 | [391820-prime-monster.json](./391820-prime-monster.json) |
 | Prime Mosaic | 337639 | [337639-prime-mosaic.json](./337639-prime-mosaic.json) |
@@ -17984,6 +17988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle by Nikoli W Kakuro | 262657 | [262657-puzzle-by-nikoli-w-kakuro.json](./262657-puzzle-by-nikoli-w-kakuro.json) |
 | Puzzle by Nikoli W Masyu | 241175 | [241175-puzzle-by-nikoli-w-masyu.json](./241175-puzzle-by-nikoli-w-masyu.json) |
 | Puzzle by Nikoli W Numberlink | 250118 | [250118-puzzle-by-nikoli-w-numberlink.json](./250118-puzzle-by-nikoli-w-numberlink.json) |
+| Puzzle by Nikoli W Shikaku | 245627 | [245627-puzzle-by-nikoli-w-shikaku.json](./245627-puzzle-by-nikoli-w-shikaku.json) |
 | Puzzle by Nikoli W Slitherlink | 225476 | [225476-puzzle-by-nikoli-w-slitherlink.json](./225476-puzzle-by-nikoli-w-slitherlink.json) |
 | Puzzle by Nikoli W Yajilin | 251395 | [251395-puzzle-by-nikoli-w-yajilin.json](./251395-puzzle-by-nikoli-w-yajilin.json) |
 | Puzzle by Nikoli W: Sudoku | 218511 | [218511-puzzle-by-nikoli-w-sudoku.json](./218511-puzzle-by-nikoli-w-sudoku.json) |
