@@ -3424,6 +3424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Busters | 405982 | [405982-castle-busters.json](./405982-castle-busters.json) |
 | Castle Cab | 347022 | [347022-castle-cab.json](./347022-castle-cab.json) |
 | Castle Cairn | 376098 | [376098-castle-cairn.json](./376098-castle-cairn.json) |
+| Castle Cannon | 236636 | [236636-castle-cannon.json](./236636-castle-cannon.json) |
 | Castle Capture Topkapi | 232447 | [232447-castle-capture-topkapi.json](./232447-castle-capture-topkapi.json) |
 | Castle Cardians | 160033 | [160033-castle-cardians.json](./160033-castle-cardians.json) |
 | Castle Cat 3 | 356074 | [356074-castle-cat-3.json](./356074-castle-cat-3.json) |
@@ -3614,6 +3615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Warriors | 238381 | [238381-castle-warriors.json](./238381-castle-warriors.json) |
 | Castle Wars | 192097 | [192097-castle-wars.json](./192097-castle-wars.json) |
 | Castle Wars | 403388 | [403388-castle-wars.json](./403388-castle-wars.json) |
+| Castle Wars 2 | 236619 | [236619-castle-wars-2.json](./236619-castle-wars-2.json) |
 | Castle Wars 2.5 | 101739 | [101739-castle-wars-2-5.json](./101739-castle-wars-2-5.json) |
 | Castle Wars VR | 38807 | [38807-castle-wars-vr.json](./38807-castle-wars-vr.json) |
 | Castle Wars: Legacy | 392372 | [392372-castle-wars-legacy.json](./392372-castle-wars-legacy.json) |
@@ -13578,6 +13580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conspiracy Field: Fog Shadow | 163879 | [163879-conspiracy-field-fog-shadow.json](./163879-conspiracy-field-fog-shadow.json) |
 | Conspiracy Girls | 158534 | [158534-conspiracy-girls.json](./158534-conspiracy-girls.json) |
 | Conspiracy Girls: The Madness of Madison Delaroux | 219228 | [219228-conspiracy-girls-the-madness-of-madison-delaroux.json](./219228-conspiracy-girls-the-madness-of-madison-delaroux.json) |
+| Conspiracy: Tower Defense | 236594 | [236594-conspiracy-tower-defense.json](./236594-conspiracy-tower-defense.json) |
 | Conspiracy: Weapons of Mass Destruction | 22310 | [22310-conspiracy-weapons-of-mass-destruction.json](./22310-conspiracy-weapons-of-mass-destruction.json) |
 | Conspiracy! | 151638 | [151638-conspiracy.json](./151638-conspiracy.json) |
 | Conspiration: Le défi des derniers rois | 386328 | [386328-conspiration-le-defi-des-derniers-rois.json](./386328-conspiration-le-defi-des-derniers-rois.json) |
