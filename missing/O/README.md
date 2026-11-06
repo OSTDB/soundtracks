@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obsidian Catalyst | 342924 | [342924-obsidian-catalyst.json](./342924-obsidian-catalyst.json) |
 | Obsidian Conflict | 142407 | [142407-obsidian-conflict.json](./142407-obsidian-conflict.json) |
 | Obsidian Crown | 124164 | [124164-obsidian-crown.json](./124164-obsidian-crown.json) |
+| Obsidian Legion | 212004 | [212004-obsidian-legion.json](./212004-obsidian-legion.json) |
 | Obsidian Moon | 357005 | [357005-obsidian-moon.json](./357005-obsidian-moon.json) |
 | Obsidian Prince | 138452 | [138452-obsidian-prince.json](./138452-obsidian-prince.json) |
 | Obsidienne | 185120 | [185120-obsidienne.json](./185120-obsidienne.json) |
@@ -2114,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once in the Evening | 379924 | [379924-once-in-the-evening.json](./379924-once-in-the-evening.json) |
 | Once in Yaissor | 30577 | [30577-once-in-yaissor.json](./30577-once-in-yaissor.json) |
 | Once in Yaissor 2 | 81763 | [81763-once-in-yaissor-2.json](./81763-once-in-yaissor-2.json) |
+| Once in Yaissor 3 | 212027 | [212027-once-in-yaissor-3.json](./212027-once-in-yaissor-3.json) |
 | Once Inside | 181368 | [181368-once-inside.json](./181368-once-inside.json) |
 | Once More | 127806 | [127806-once-more.json](./127806-once-more.json) |
 | Once On a Windswept Night | 29631 | [29631-once-on-a-windswept-night.json](./29631-once-on-a-windswept-night.json) |
