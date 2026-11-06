@@ -12357,6 +12357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Rastan Saga | 300731 | [300731-arcade-archives-rastan-saga.json](./300731-arcade-archives-rastan-saga.json) |
 | Arcade Archives: Rastan Saga II | 306525 | [306525-arcade-archives-rastan-saga-ii.json](./306525-arcade-archives-rastan-saga-ii.json) |
 | Arcade Archives: Rave Racer | 392771 | [392771-arcade-archives-rave-racer.json](./392771-arcade-archives-rave-racer.json) |
+| Arcade Archives: Rezon | 244021 | [244021-arcade-archives-rezon.json](./244021-arcade-archives-rezon.json) |
 | Arcade Archives: Ridge Racer | 347092 | [347092-arcade-archives-ridge-racer.json](./347092-arcade-archives-ridge-racer.json) |
 | Arcade Archives: Riot | 321501 | [321501-arcade-archives-riot.json](./321501-arcade-archives-riot.json) |
 | Arcade Archives: Roc'n Rope | 381795 | [381795-arcade-archives-rocn-rope.json](./381795-arcade-archives-rocn-rope.json) |
@@ -16434,7 +16435,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -17365,6 +17365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autumn's End | 420211 | [420211-autumns-end.json](./420211-autumns-end.json) |
 | Autumn's Journey | 114775 | [114775-autumns-journey.json](./114775-autumns-journey.json) |
 | Autumn's Treasures: The Jade Coin | 22119 | [22119-autumns-treasures-the-jade-coin.json](./22119-autumns-treasures-the-jade-coin.json) |
+| Auver | 244060 | [244060-auver.json](./244060-auver.json) |
 | AUX B | 57418 | [57418-aux-b.json](./57418-aux-b.json) |
 | Aux Battles | 419617 | [419617-aux-battles.json](./419617-aux-battles.json) |
 | Auxin | 267478 | [267478-auxin.json](./267478-auxin.json) |
