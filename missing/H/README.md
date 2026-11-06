@@ -3266,6 +3266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Rocket | 177410 | [177410-heart-rocket.json](./177410-heart-rocket.json) |
 | Heart Snatcher | 366392 | [366392-heart-snatcher.json](./366392-heart-snatcher.json) |
 | Heart to Heart | 114832 | [114832-heart-to-heart.json](./114832-heart-to-heart.json) |
+| Heart vs HP | 242302 | [242302-heart-vs-hp.json](./242302-heart-vs-hp.json) |
 | Heart World | 157329 | [157329-heart-world.json](./157329-heart-world.json) |
 | Heart-Lung Machine | 321733 | [321733-heart-lung-machine.json](./321733-heart-lung-machine.json) |
 | Heart-Pounding Dating Prep | 81870 | [81870-heart-pounding-dating-prep.json](./81870-heart-pounding-dating-prep.json) |
@@ -4669,6 +4670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Henry | 80642 | [80642-henry.json](./80642-henry.json) |
 | Henry Danger Crime Warp | 106933 | [106933-henry-danger-crime-warp.json](./106933-henry-danger-crime-warp.json) |
 | Henry Danger: Day of Danger | 242381 | [242381-henry-danger-day-of-danger.json](./242381-henry-danger-day-of-danger.json) |
+| Henry Halfhead | 242335 | [242335-henry-halfhead.json](./242335-henry-halfhead.json) |
 | Henry Mosse and the Wormhole Conspiracy | 125689 | [125689-henry-mosse-and-the-wormhole-conspiracy.json](./125689-henry-mosse-and-the-wormhole-conspiracy.json) |
 | Henry Stickmin: Breaking the Bank | 145662 | [145662-henry-stickmin-breaking-the-bank.json](./145662-henry-stickmin-breaking-the-bank.json) |
 | Henry Stickmin: Completing the Mission | 172315 | [172315-henry-stickmin-completing-the-mission.json](./172315-henry-stickmin-completing-the-mission.json) |
