@@ -9335,6 +9335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlanetSmith | 263777 | [263777-planetsmith.json](./263777-planetsmith.json) |
 | Planetstar Warrior | 290689 | [290689-planetstar-warrior.json](./290689-planetstar-warrior.json) |
 | Planeturem | 326259 | [326259-planeturem.json](./326259-planeturem.json) |
+| Planetwo | 227645 | [227645-planetwo.json](./227645-planetwo.json) |
 | PlanetX | 368004 | [368004-planetx.json](./368004-planetx.json) |
 | PlaneWorld | 399758 | [399758-planeworld.json](./399758-planeworld.json) |
 | Planisphere | 225686 | [225686-planisphere.json](./225686-planisphere.json) |
@@ -14152,6 +14153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primado Reig 103 | 305212 | [305212-primado-reig-103.json](./305212-primado-reig-103.json) |
 | Primage | 292969 | [292969-primage.json](./292969-primage.json) |
 | Primal | 11789 | [11789-primal.json](./11789-primal.json) |
+| Primal Age | 227603 | [227603-primal-age.json](./227603-primal-age.json) |
 | Primal Axis | 412103 | [412103-primal-axis.json](./412103-primal-axis.json) |
 | Primal Carnage: Evolution | 259812 | [259812-primal-carnage-evolution.json](./259812-primal-carnage-evolution.json) |
 | Primal Carnage: Extinction | 17804 | [17804-primal-carnage-extinction.json](./17804-primal-carnage-extinction.json) |
