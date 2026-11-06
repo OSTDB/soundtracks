@@ -5269,6 +5269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celtique | 244604 | [244604-celtique.json](./244604-celtique.json) |
 | CelV Run | 284813 | [284813-celv-run.json](./284813-celv-run.json) |
 | Cemantle & Pedantle | 194956 | [194956-cemantle-and-pedantle.json](./194956-cemantle-and-pedantle.json) |
+| Cement Factory | 232791 | [232791-cement-factory.json](./232791-cement-factory.json) |
 | Cement Factory | 367832 | [367832-cement-factory.json](./367832-cement-factory.json) |
 | Cement Truck | 105921 | [105921-cement-truck.json](./105921-cement-truck.json) |
 | Cemetary | 276401 | [276401-cemetary.json](./276401-cemetary.json) |
