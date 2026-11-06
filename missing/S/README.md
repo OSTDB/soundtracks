@@ -10164,6 +10164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sifu Kidnapped!: Adventure in the Women's Kingdom | 388687 | [388687-sifu-kidnapped-adventure-in-the-womens-kingdom.json](./388687-sifu-kidnapped-adventure-in-the-womens-kingdom.json) |
 | Sifu: Arenas | 240171 | [240171-sifu-arenas.json](./240171-sifu-arenas.json) |
 | Sifu: Deluxe Edition | 169165 | [169165-sifu-deluxe-edition.json](./169165-sifu-deluxe-edition.json) |
+| Sifu: Redemption Edition | 218218 | [218218-sifu-redemption-edition.json](./218218-sifu-redemption-edition.json) |
 | Sifu: Vengeance Edition | 191494 | [191494-sifu-vengeance-edition.json](./191494-sifu-vengeance-edition.json) |
 | Sifu's Quest | 371901 | [371901-sifus-quest.json](./371901-sifus-quest.json) |
 | Sifunight Fighters | 221711 | [221711-sifunight-fighters.json](./221711-sifunight-fighters.json) |
@@ -10584,6 +10585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silly Sausage in Meat Land | 74297 | [74297-silly-sausage-in-meat-land.json](./74297-silly-sausage-in-meat-land.json) |
 | Silly Sausage: Doggy Dessert | 56257 | [56257-silly-sausage-doggy-dessert.json](./56257-silly-sausage-doggy-dessert.json) |
 | Silly Scribbles | 285965 | [285965-silly-scribbles.json](./285965-silly-scribbles.json) |
+| Silly Seance | 218196 | [218196-silly-seance.json](./218196-silly-seance.json) |
 | Silly Skateboarding | 180698 | [180698-silly-skateboarding.json](./180698-silly-skateboarding.json) |
 | Silly Souls | 422809 | [422809-silly-souls.json](./422809-silly-souls.json) |
 | Silly Suspects | 309735 | [309735-silly-suspects.json](./309735-silly-suspects.json) |
@@ -15982,6 +15984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoftAid | 94480 | [94480-softaid.json](./94480-softaid.json) |
 | Softball Tengoku | 48907 | [48907-softball-tengoku.json](./48907-softball-tengoku.json) |
 | Softball: Breakthrough Gaming Arcade | 204999 | [204999-softball-breakthrough-gaming-arcade.json](./204999-softball-breakthrough-gaming-arcade.json) |
+| Softball: Breakthrough Gaming Arcade - 3 Player Cooperation Edition | 218190 | [218190-softball-breakthrough-gaming-arcade-3-player-cooperation-edition.json](./218190-softball-breakthrough-gaming-arcade-3-player-cooperation-edition.json) |
 | Softball: Breakthrough Gaming Arcade - 4 Player Cooperation Edition | 213633 | [213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json](./213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json) |
 | Softie | 321304 | [321304-softie.json](./321304-softie.json) |
 | Softly Placed | 379978 | [379978-softly-placed.json](./379978-softly-placed.json) |
@@ -19181,6 +19184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cats Saga: Chapter II | 196024 | [196024-space-cats-saga-chapter-ii.json](./196024-space-cats-saga-chapter-ii.json) |
 | Space Cats Tactics | 151688 | [151688-space-cats-tactics.json](./151688-space-cats-tactics.json) |
 | Space Cavern | 18502 | [18502-space-cavern.json](./18502-space-cavern.json) |
+| Space Centurion Gundam | 218229 | [218229-space-centurion-gundam.json](./218229-space-centurion-gundam.json) |
 | Space Challenge | 96640 | [96640-space-challenge.json](./96640-space-challenge.json) |
 | Space Channel 5 Game App | 214953 | [214953-space-channel-5-game-app.json](./214953-space-channel-5-game-app.json) |
 | Space Channel 5 VR: Arakata Dancing Show | 86453 | [86453-space-channel-5-vr-arakata-dancing-show.json](./86453-space-channel-5-vr-arakata-dancing-show.json) |
@@ -19446,6 +19450,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Grunts: Chrono Shard | 345099 | [345099-space-grunts-chrono-shard.json](./345099-space-grunts-chrono-shard.json) |
 | Space Guard | 78613 | [78613-space-guard.json](./78613-space-guard.json) |
 | Space Guardian | 246777 | [246777-space-guardian.json](./246777-space-guardian.json) |
+| Space Guardian Gundam | 218234 | [218234-space-guardian-gundam.json](./218234-space-guardian-gundam.json) |
+| Space Guardian Gundam | 218235 | [218235-space-guardian-gundam.json](./218235-space-guardian-gundam.json) |
 | Space Guerilla | 392974 | [392974-space-guerilla.json](./392974-space-guerilla.json) |
 | Space Gun | 12856 | [12856-space-gun.json](./12856-space-gun.json) |
 | Space Gun | 272928 | [272928-space-gun.json](./272928-space-gun.json) |
