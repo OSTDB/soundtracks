@@ -27456,6 +27456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranger Than Heaven: Collector's Edition | 405261 | [405261-stranger-than-heaven-collectors-edition.json](./405261-stranger-than-heaven-collectors-edition.json) |
 | Stranger Things | 327225 | [327225-stranger-things.json](./327225-stranger-things.json) |
 | Stranger Things 3: The Game | 108797 | [108797-stranger-things-3-the-game.json](./108797-stranger-things-3-the-game.json) |
+| Stranger Things Palace Arcade | 219355 | [219355-stranger-things-palace-arcade.json](./219355-stranger-things-palace-arcade.json) |
 | Stranger Things VR | 225668 | [225668-stranger-things-vr.json](./225668-stranger-things-vr.json) |
 | Stranger Things: 1984 | 72765 | [72765-stranger-things-1984.json](./72765-stranger-things-1984.json) |
 | Stranger Things: Puzzle Tales | 197248 | [197248-stranger-things-puzzle-tales.json](./197248-stranger-things-puzzle-tales.json) |
