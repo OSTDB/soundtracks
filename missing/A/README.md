@@ -14109,6 +14109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arms Dealer | 17887 | [17887-arms-dealer.json](./17887-arms-dealer.json) |
 | Arms Dealer Simulator | 406056 | [406056-arms-dealer-simulator.json](./406056-arms-dealer-simulator.json) |
 | Arms Devicer S!! | 82895 | [82895-arms-devicer-s.json](./82895-arms-devicer-s.json) |
+| Arms Doll | 196913 | [196913-arms-doll.json](./196913-arms-doll.json) |
 | Arms Evolution: Zombie Destroyer | 239438 | [239438-arms-evolution-zombie-destroyer.json](./239438-arms-evolution-zombie-destroyer.json) |
 | Arms of God | 324148 | [324148-arms-of-god.json](./324148-arms-of-god.json) |
 | Arms of Telos | 65839 | [65839-arms-of-telos.json](./65839-arms-of-telos.json) |
@@ -14187,6 +14188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army of Tentacles: Not A Cthulhu Dating Sim - Black Goat of the Woods Edition | 81822 | [81822-army-of-tentacles-not-a-cthulhu-dating-sim-black-goat-of-the-woods-edition.json](./81822-army-of-tentacles-not-a-cthulhu-dating-sim-black-goat-of-the-woods-edition.json) |
 | Army of Two | 996 | [996-army-of-two.json](./996-army-of-two.json) |
 | Army of Two: The 40th Day | 997 | [997-army-of-two-the-40th-day.json](./997-army-of-two-the-40th-day.json) |
+| Army Ops | 196902 | [196902-army-ops.json](./196902-army-ops.json) |
 | Army Racer | 52426 | [52426-army-racer.json](./52426-army-racer.json) |
 | Army Rage | 63889 | [63889-army-rage.json](./63889-army-rage.json) |
 | Army Ranger: Mogadishu | 52425 | [52425-army-ranger-mogadishu.json](./52425-army-ranger-mogadishu.json) |
