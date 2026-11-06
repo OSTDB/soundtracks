@@ -676,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Godmother's Pumpkin Surprise | 246527 | [246527-fairy-godmothers-pumpkin-surprise.json](./246527-fairy-godmothers-pumpkin-surprise.json) |
 | Fairy Hotel: Enchanted Kingdom | 417523 | [417523-fairy-hotel-enchanted-kingdom.json](./417523-fairy-hotel-enchanted-kingdom.json) |
 | Fairy Hunter | 249026 | [249026-fairy-hunter.json](./249026-fairy-hunter.json) |
+| Fairy in a Jar | 221008 | [221008-fairy-in-a-jar.json](./221008-fairy-in-a-jar.json) |
 | Fairy Jewels 2 | 52987 | [52987-fairy-jewels-2.json](./52987-fairy-jewels-2.json) |
 | Fairy Kingdom: Castle of Magic | 235284 | [235284-fairy-kingdom-castle-of-magic.json](./235284-fairy-kingdom-castle-of-magic.json) |
 | Fairy Kitty no Kaiun Jiten: Yousei no Kuni no Uranai Shugyou | 65521 | [65521-fairy-kitty-no-kaiun-jiten-yousei-no-kuni-no-uranai-shugyou.json](./65521-fairy-kitty-no-kaiun-jiten-yousei-no-kuni-no-uranai-shugyou.json) |
@@ -1743,6 +1744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasia | 38574 | [38574-fantasia.json](./38574-fantasia.json) |
 | Fantasia | 45587 | [45587-fantasia.json](./45587-fantasia.json) |
 | Fantasia II | 46519 | [46519-fantasia-ii.json](./46519-fantasia-ii.json) |
+| Fantasia Medieval | 220913 | [220913-fantasia-medieval.json](./220913-fantasia-medieval.json) |
 | Fantasia of the Wind | 74675 | [74675-fantasia-of-the-wind.json](./74675-fantasia-of-the-wind.json) |
 | Fantasia of the Wind 2 | 113654 | [113654-fantasia-of-the-wind-2.json](./113654-fantasia-of-the-wind-2.json) |
 | Fantasia Sango 1 | 188656 | [188656-fantasia-sango-1.json](./188656-fantasia-sango-1.json) |
@@ -8500,6 +8502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Me To The Moon | 369462 | [369462-fly-me-to-the-moon.json](./369462-fly-me-to-the-moon.json) |
 | Fly Me to the Stars | 241443 | [241443-fly-me-to-the-stars.json](./241443-fly-me-to-the-stars.json) |
 | Fly O'Clock | 20400 | [20400-fly-oclock.json](./20400-fly-oclock.json) |
+| Fly O'Clock: VS Edition | 220928 | [220928-fly-oclock-vs-edition.json](./220928-fly-oclock-vs-edition.json) |
 | Fly Or Die | 367058 | [367058-fly-or-die.json](./367058-fly-or-die.json) |
 | Fly Over! 100KM! Mountains! | 373677 | [373677-fly-over-100km-mountains.json](./373677-fly-over-100km-mountains.json) |
 | Fly Punch Boom: First Impact! | 132201 | [132201-fly-punch-boom-first-impact.json](./132201-fly-punch-boom-first-impact.json) |
