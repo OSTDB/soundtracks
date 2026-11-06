@@ -16038,6 +16038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cradle | 11341 | [11341-cradle.json](./11341-cradle.json) |
 | Cradle | 271719 | [271719-cradle.json](./271719-cradle.json) |
 | Cradle of Ash | 419628 | [419628-cradle-of-ash.json](./419628-cradle-of-ash.json) |
+| Cradle of Egypt | 201899 | [201899-cradle-of-egypt.json](./201899-cradle-of-egypt.json) |
 | Cradle of Egypt / Cradle of Persia | 201861 | [201861-cradle-of-egypt-cradle-of-persia.json](./201861-cradle-of-egypt-cradle-of-persia.json) |
 | Cradle of Egypt: Collector's Edition | 355549 | [355549-cradle-of-egypt-collectors-edition.json](./355549-cradle-of-egypt-collectors-edition.json) |
 | Cradle of Empires | 88749 | [88749-cradle-of-empires.json](./88749-cradle-of-empires.json) |
@@ -16329,6 +16330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Fever | 57178 | [57178-crash-fever.json](./57178-crash-fever.json) |
 | Crash Force | 26923 | [26923-crash-force.json](./26923-crash-force.json) |
 | Crash Fortress! + | 103173 | [103173-crash-fortress.json](./103173-crash-fortress.json) |
+| Crash Forts | 201877 | [201877-crash-forts.json](./201877-crash-forts.json) |
 | Crash Forts 2 | 205273 | [205273-crash-forts-2.json](./205273-crash-forts-2.json) |
 | Crash Garrett | 13529 | [13529-crash-garrett.json](./13529-crash-garrett.json) |
 | Crash it Smash it | 74758 | [74758-crash-it-smash-it.json](./74758-crash-it-smash-it.json) |
