@@ -410,6 +410,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakunetsu Pro Yakyuu Ganba League '93 | 38174 | [38174-hakunetsu-pro-yakyuu-ganba-league-93.json](./38174-hakunetsu-pro-yakyuu-ganba-league-93.json) |
 | Hakuoki Ibun: Berezinskii no Majo | 287896 | [287896-hakuoki-ibun-berezinskii-no-majo.json](./287896-hakuoki-ibun-berezinskii-no-majo.json) |
 | Hakuoki Kaikoroku | 163340 | [163340-hakuoki-kaikoroku.json](./163340-hakuoki-kaikoroku.json) |
+| Hakuoki Reimeiroku DS | 221017 | [221017-hakuoki-reimeiroku-ds.json](./221017-hakuoki-reimeiroku-ds.json) |
+| Hakuoki Reimeiroku Nagorigusa | 221018 | [221018-hakuoki-reimeiroku-nagorigusa.json](./221018-hakuoki-reimeiroku-nagorigusa.json) |
+| Hakuoki Reimeiroku Omohase Sora | 221019 | [221019-hakuoki-reimeiroku-omohase-sora.json](./221019-hakuoki-reimeiroku-omohase-sora.json) |
+| Hakuoki Reimeiroku Portable | 221016 | [221016-hakuoki-reimeiroku-portable.json](./221016-hakuoki-reimeiroku-portable.json) |
 | Hakuoki Shinkai Reimeiroku | 192025 | [192025-hakuoki-shinkai-reimeiroku.json](./192025-hakuoki-shinkai-reimeiroku.json) |
 | Hakuoki Shinkai Reimeiroku - Limited Edition | 283507 | [283507-hakuoki-shinkai-reimeiroku-limited-edition.json](./283507-hakuoki-shinkai-reimeiroku-limited-edition.json) |
 | Hakuoki Shinkai: Ginsei no Shou | 136838 | [136838-hakuoki-shinkai-ginsei-no-shou.json](./136838-hakuoki-shinkai-ginsei-no-shou.json) |
@@ -420,6 +424,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakuoki Yuugiroku 2: Matsuribayashi to Taishi-tachi | 221221 | [221221-hakuoki-yuugiroku-2-matsuribayashi-to-taishi-tachi.json](./221221-hakuoki-yuugiroku-2-matsuribayashi-to-taishi-tachi.json) |
 | Hakuoki Yuugiroku DS | 221219 | [221219-hakuoki-yuugiroku-ds.json](./221219-hakuoki-yuugiroku-ds.json) |
 | Hakuoki Yuugiroku Taishitachi no Daienkai | 124016 | [124016-hakuoki-yuugiroku-taishitachi-no-daienkai.json](./124016-hakuoki-yuugiroku-taishitachi-no-daienkai.json) |
+| Hakuoki Zuisouroku DS | 221014 | [221014-hakuoki-zuisouroku-ds.json](./221014-hakuoki-zuisouroku-ds.json) |
+| Hakuoki Zuisouroku Omokagebana | 221015 | [221015-hakuoki-zuisouroku-omokagebana.json](./221015-hakuoki-zuisouroku-omokagebana.json) |
+| Hakuoki Zuisouroku Portable | 221013 | [221013-hakuoki-zuisouroku-portable.json](./221013-hakuoki-zuisouroku-portable.json) |
 | Hakuoki: Chronicles of Wind and Blossom | 101066 | [101066-hakuoki-chronicles-of-wind-and-blossom.json](./101066-hakuoki-chronicles-of-wind-and-blossom.json) |
 | Hakuoki: Demon of the Fleeting Blossom | 17272 | [17272-hakuoki-demon-of-the-fleeting-blossom.json](./17272-hakuoki-demon-of-the-fleeting-blossom.json) |
 | Hakuoki: Edo Blossoms | 74563 | [74563-hakuoki-edo-blossoms.json](./74563-hakuoki-edo-blossoms.json) |
