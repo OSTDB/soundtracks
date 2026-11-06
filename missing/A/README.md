@@ -7064,6 +7064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens: The Roguelike | 73710 | [73710-aliens-the-roguelike.json](./73710-aliens-the-roguelike.json) |
 | Aliens: The Roguelike | 73712 | [73712-aliens-the-roguelike.json](./73712-aliens-the-roguelike.json) |
 | Aliens&Asteroids | 52767 | [52767-aliens-and-asteroids.json](./52767-aliens-and-asteroids.json) |
+| Alienstein | 217081 | [217081-alienstein.json](./217081-alienstein.json) |
 | AlienSunny | 393539 | [393539-aliensunny.json](./393539-aliensunny.json) |
 | Aliensurf | 71539 | [71539-aliensurf.json](./71539-aliensurf.json) |
 | AlienSurvival | 106129 | [106129-aliensurvival.json](./106129-aliensurvival.json) |
@@ -15930,6 +15931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Rescue | 63108 | [63108-astro-rescue.json](./63108-astro-rescue.json) |
 | Astro Rider | 126327 | [126327-astro-rider.json](./126327-astro-rider.json) |
 | Astro Ryders | 397514 | [397514-astro-ryders.json](./397514-astro-ryders.json) |
+| Astro Sailor | 217057 | [217057-astro-sailor.json](./217057-astro-sailor.json) |
 | Astro Sentai Jarbonder | 150924 | [150924-astro-sentai-jarbonder.json](./150924-astro-sentai-jarbonder.json) |
 | Astro Shooter | 95341 | [95341-astro-shooter.json](./95341-astro-shooter.json) |
 | Astro Smash 'n' Blast! | 233553 | [233553-astro-smash-n-blast.json](./233553-astro-smash-n-blast.json) |
@@ -16529,6 +16531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athena: Full Throttle | 55894 | [55894-athena-full-throttle.json](./55894-athena-full-throttle.json) |
 | Athena's Circus | 334505 | [334505-athenas-circus.json](./334505-athenas-circus.json) |
 | Athenian Acropolis | 74445 | [74445-athenian-acropolis.json](./74445-athenian-acropolis.json) |
+| Athenian Rhapsody | 217101 | [217101-athenian-rhapsody.json](./217101-athenian-rhapsody.json) |
 | Athenian Rhapsody: Thunder Goober's Personality Dungeon | 239772 | [239772-athenian-rhapsody-thunder-goobers-personality-dungeon.json](./239772-athenian-rhapsody-thunder-goobers-personality-dungeon.json) |
 | Athenor | 15849 | [15849-athenor.json](./15849-athenor.json) |
 | Ather: Chapter 1 | 96649 | [96649-ather-chapter-1.json](./96649-ather-chapter-1.json) |
