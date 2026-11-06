@@ -3128,6 +3128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gensokishi Online | 267589 | [267589-gensokishi-online.json](./267589-gensokishi-online.json) |
 | Gensokyo Daisenso | 213120 | [213120-gensokyo-daisenso.json](./213120-gensokyo-daisenso.json) |
 | Gensokyo Defenders | 96386 | [96386-gensokyo-defenders.json](./96386-gensokyo-defenders.json) |
+| Gensokyo Defenders Plus | 210333 | [210333-gensokyo-defenders-plus.json](./210333-gensokyo-defenders-plus.json) |
 | Gensokyo Ninja Warrior | 134845 | [134845-gensokyo-ninja-warrior.json](./134845-gensokyo-ninja-warrior.json) |
 | Gensokyo no Nazo | 62253 | [62253-gensokyo-no-nazo.json](./62253-gensokyo-no-nazo.json) |
 | Gensokyo Odyssey | 192364 | [192364-gensokyo-odyssey.json](./192364-gensokyo-odyssey.json) |
