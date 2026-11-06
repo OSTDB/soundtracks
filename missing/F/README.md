@@ -643,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy 2 | 216800 | [216800-fairy-2.json](./216800-fairy-2.json) |
 | Fairy and Devil | 155577 | [155577-fairy-and-devil.json](./155577-fairy-and-devil.json) |
 | Fairy Bakery Workshop | 182456 | [182456-fairy-bakery-workshop.json](./182456-fairy-bakery-workshop.json) |
+| Fairy Biography | 201377 | [201377-fairy-biography.json](./201377-fairy-biography.json) |
 | Fairy Biography 2: Confidante | 224302 | [224302-fairy-biography-2-confidante.json](./224302-fairy-biography-2-confidante.json) |
 | Fairy Biography 3: Obsession | 235542 | [235542-fairy-biography-3-obsession.json](./235542-fairy-biography-3-obsession.json) |
 | Fairy Biography 5: Demon | 285609 | [285609-fairy-biography-5-demon.json](./285609-fairy-biography-5-demon.json) |
@@ -10599,6 +10600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forward | 178014 | [178014-forward.json](./178014-forward.json) |
 | Forward | 99024 | [99024-forward.json](./99024-forward.json) |
 | Forward Assault | 140491 | [140491-forward-assault.json](./140491-forward-assault.json) |
+| Forward Defense | 201372 | [201372-forward-defense.json](./201372-forward-defense.json) |
 | Forward March: Attack! Deluxe | 25106 | [25106-forward-march-attack-deluxe.json](./25106-forward-march-attack-deluxe.json) |
 | Forward Motion | 366378 | [366378-forward-motion.json](./366378-forward-motion.json) |
 | Forward Team | 215579 | [215579-forward-team.json](./215579-forward-team.json) |
@@ -11191,6 +11193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragment of CISCD | 244357 | [244357-fragment-of-ciscd.json](./244357-fragment-of-ciscd.json) |
 | Fragment of Humanity | 224246 | [224246-fragment-of-humanity.json](./224246-fragment-of-humanity.json) |
 | Fragment of Marine | 114179 | [114179-fragment-of-marine.json](./114179-fragment-of-marine.json) |
+| Fragment time | 201388 | [201388-fragment-time.json](./201388-fragment-time.json) |
 | Fragment: A Story in Growing | 267279 | [267279-fragment-a-story-in-growing.json](./267279-fragment-a-story-in-growing.json) |
 | fragment:AM | 218146 | [218146-fragment-am.json](./218146-fragment-am.json) |
 | Fragment's Moonrise | 133052 | [133052-fragments-moonrise.json](./133052-fragments-moonrise.json) |
@@ -12786,6 +12789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen: Laptop Magic Tech | 294480 | [294480-frozen-laptop-magic-tech.json](./294480-frozen-laptop-magic-tech.json) |
 | Frozen: Olaf's Quest | 85088 | [85088-frozen-olafs-quest.json](./85088-frozen-olafs-quest.json) |
 | Frozen: Royal Castle | 306444 | [306444-frozen-royal-castle.json](./306444-frozen-royal-castle.json) |
+| Frozen: Special Delivery | 201338 | [201338-frozen-special-delivery.json](./201338-frozen-special-delivery.json) |
 | Frozenheim | 144594 | [144594-frozenheim.json](./144594-frozenheim.json) |
 | FrozenPizza | 270096 | [270096-frozenpizza.json](./270096-frozenpizza.json) |
 | Frozzd | 92913 | [92913-frozzd.json](./92913-frozzd.json) |
