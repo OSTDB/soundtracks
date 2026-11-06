@@ -1610,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrocosmos: There Is No God Up Here | 54763 | [54763-necrocosmos-there-is-no-god-up-here.json](./54763-necrocosmos-there-is-no-god-up-here.json) |
 | Necrocrisis | 208427 | [208427-necrocrisis.json](./208427-necrocrisis.json) |
 | Necrocyte | 426418 | [426418-necrocyte.json](./426418-necrocyte.json) |
+| Necrodemic | 231708 | [231708-necrodemic.json](./231708-necrodemic.json) |
 | Necrodepths | 274804 | [274804-necrodepths.json](./274804-necrodepths.json) |
 | Necrodome | 8694 | [8694-necrodome.json](./8694-necrodome.json) |
 | Necrodungeon | 358278 | [358278-necrodungeon.json](./358278-necrodungeon.json) |
