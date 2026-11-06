@@ -663,7 +663,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ebanashi: Kaiwa | 195216 | [195216-ebanashi-kaiwa.json](./195216-ebanashi-kaiwa.json) |
 | EBaseball MLB Pro Spirit | 321590 | [321590-ebaseball-mlb-pro-spirit.json](./321590-ebaseball-mlb-pro-spirit.json) |
 | eBaseball Pawafuru Puroyakyu 2020 | 136798 | [136798-ebaseball-pawafuru-puroyakyu-2020.json](./136798-ebaseball-pawafuru-puroyakyu-2020.json) |
+| eBaseball Pawafuru Puroyakyu 2020: Powerful Edition | 220927 | [220927-ebaseball-pawafuru-puroyakyu-2020-powerful-edition.json](./220927-ebaseball-pawafuru-puroyakyu-2020-powerful-edition.json) |
 | eBaseball Pawafuru Puroyakyu 2022 | 187105 | [187105-ebaseball-pawafuru-puroyakyu-2022.json](./187105-ebaseball-pawafuru-puroyakyu-2022.json) |
+| eBaseball Pawafuru Puroyakyu 2022: Powerful Edition | 220920 | [220920-ebaseball-pawafuru-puroyakyu-2022-powerful-edition.json](./220920-ebaseball-pawafuru-puroyakyu-2022-powerful-edition.json) |
 | eBaseball Professional Yakyuu Spirits 2021: Grand Slam | 143624 | [143624-ebaseball-professional-yakyuu-spirits-2021-grand-slam.json](./143624-ebaseball-professional-yakyuu-spirits-2021-grand-slam.json) |
 | EBaseball: Pro Spirit | 393762 | [393762-ebaseball-pro-spirit.json](./393762-ebaseball-pro-spirit.json) |
 | eBaseball: Pro Spirit 2026 | 410262 | [410262-ebaseball-pro-spirit-2026.json](./410262-ebaseball-pro-spirit-2026.json) |
