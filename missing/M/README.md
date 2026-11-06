@@ -3038,6 +3038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manhattan Requiem | 349955 | [349955-manhattan-requiem.json](./349955-manhattan-requiem.json) |
 | Manhole | 100229 | [100229-manhole.json](./100229-manhole.json) |
 | Manhole | 231719 | [231719-manhole.json](./231719-manhole.json) |
+| Manhole | 232789 | [232789-manhole.json](./232789-manhole.json) |
 | Manhole-e: Classic Version | 92847 | [92847-manhole-e-classic-version.json](./92847-manhole-e-classic-version.json) |
 | Manhunt | 1971 | [1971-manhunt.json](./1971-manhunt.json) |
 | Manhunt 2 | 1972 | [1972-manhunt-2.json](./1972-manhunt-2.json) |
@@ -3736,6 +3737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Eisouoku: Illusionary Blossom of Cranium Prayer | 216179 | [216179-mario-eisouoku-illusionary-blossom-of-cranium-prayer.json](./216179-mario-eisouoku-illusionary-blossom-of-cranium-prayer.json) |
 | Mario FA: Vanishing Colosseum | 322772 | [322772-mario-fa-vanishing-colosseum.json](./322772-mario-fa-vanishing-colosseum.json) |
 | Mario Family | 131985 | [131985-mario-family.json](./131985-mario-family.json) |
+| Mario Fighter III | 232794 | [232794-mario-fighter-iii.json](./232794-mario-fighter-iii.json) |
 | Mario for the Masses | 330716 | [330716-mario-for-the-masses.json](./330716-mario-for-the-masses.json) |
 | Mario Forever | 127882 | [127882-mario-forever.json](./127882-mario-forever.json) |
 | Mario Forever Block Party | 127881 | [127881-mario-forever-block-party.json](./127881-mario-forever-block-party.json) |
