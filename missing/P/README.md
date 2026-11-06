@@ -5639,6 +5639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phone Flipper Simulator | 390787 | [390787-phone-flipper-simulator.json](./390787-phone-flipper-simulator.json) |
 | Phone Story | 62455 | [62455-phone-story.json](./62455-phone-story.json) |
 | Phonequest | 134694 | [134694-phonequest.json](./134694-phonequest.json) |
+| Phones Not Allowed | 226044 | [226044-phones-not-allowed.json](./226044-phones-not-allowed.json) |
 | Phonetic | 193647 | [193647-phonetic.json](./193647-phonetic.json) |
 | Phonics de Minitsuku | 79088 | [79088-phonics-de-minitsuku.json](./79088-phonics-de-minitsuku.json) |
 | Phonics Fun with Biff, Chip & Kipper Vol. 1 | 61657 | [61657-phonics-fun-with-biff-chip-and-kipper-vol-1.json](./61657-phonics-fun-with-biff-chip-and-kipper-vol-1.json) |
@@ -5731,6 +5732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phucker in the Woods: Volume 0 | 184769 | [184769-phucker-in-the-woods-volume-0.json](./184769-phucker-in-the-woods-volume-0.json) |
 | Phy Lab | 410210 | [410210-phy-lab.json](./410210-phy-lab.json) |
 | Phyakh | 221168 | [221168-phyakh.json](./221168-phyakh.json) |
+| Phylakterion | 226036 | [226036-phylakterion.json](./226036-phylakterion.json) |
 | Phyllis, The Receptionist of The Guild | 369384 | [369384-phyllis-the-receptionist-of-the-guild.json](./369384-phyllis-the-receptionist-of-the-guild.json) |
 | Phyllosoma | 384763 | [384763-phyllosoma.json](./384763-phyllosoma.json) |
 | Phylomortis: Avant-Garde | 356636 | [356636-phylomortis-avant-garde.json](./356636-phylomortis-avant-garde.json) |
@@ -9417,6 +9419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies | 342044 | [342044-plants-vs-zombies.json](./342044-plants-vs-zombies.json) |
 | Plants vs. Zombies 2 Gardendless | 361106 | [361106-plants-vs-zombies-2-gardendless.json](./361106-plants-vs-zombies-2-gardendless.json) |
 | Plants vs. Zombies 2: A Journey Through Time and Space | 287879 | [287879-plants-vs-zombies-2-a-journey-through-time-and-space.json](./287879-plants-vs-zombies-2-a-journey-through-time-and-space.json) |
+| Plants vs. Zombies 2: Alternate UniverZ | 226055 | [226055-plants-vs-zombies-2-alternate-univerz.json](./226055-plants-vs-zombies-2-alternate-univerz.json) |
 | Plants vs. Zombies 2: First Person | 239964 | [239964-plants-vs-zombies-2-first-person.json](./239964-plants-vs-zombies-2-first-person.json) |
 | Plants vs. Zombies 2: Garden Rush | 272845 | [272845-plants-vs-zombies-2-garden-rush.json](./272845-plants-vs-zombies-2-garden-rush.json) |
 | Plants vs. Zombies 2: Into the Storm | 272546 | [272546-plants-vs-zombies-2-into-the-storm.json](./272546-plants-vs-zombies-2-into-the-storm.json) |
@@ -12625,6 +12628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popcorn Dragon | 65600 | [65600-popcorn-dragon.json](./65600-popcorn-dragon.json) |
 | Popcorn Fever | 308348 | [308348-popcorn-fever.json](./308348-popcorn-fever.json) |
 | Popcorn Popstars | 359519 | [359519-popcorn-popstars.json](./359519-popcorn-popstars.json) |
+| Popcorn Rocket | 226021 | [226021-popcorn-rocket.json](./226021-popcorn-rocket.json) |
 | Popcorn! | 312727 | [312727-popcorn.json](./312727-popcorn.json) |
 | Popcorn! | 97472 | [97472-popcorn.json](./97472-popcorn.json) |
 | PopCultured | 207225 | [207225-popcultured.json](./207225-popcultured.json) |
@@ -14510,6 +14514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Remedy: In A Heap of Trouble | 31463 | [31463-princess-remedy-in-a-heap-of-trouble.json](./31463-princess-remedy-in-a-heap-of-trouble.json) |
 | Princess Rescue | 46886 | [46886-princess-rescue.json](./46886-princess-rescue.json) |
 | Princess RPG | 196814 | [196814-princess-rpg.json](./196814-princess-rpg.json) |
+| Princess Ruby | 226052 | [226052-princess-ruby.json](./226052-princess-ruby.json) |
 | Princess Sahirah is a Spoiled Brat! | 46490 | [46490-princess-sahirah-is-a-spoiled-brat.json](./46490-princess-sahirah-is-a-spoiled-brat.json) |
 | Princess Sera Adventures | 188957 | [188957-princess-sera-adventures.json](./188957-princess-sera-adventures.json) |
 | Princess Serena ~Raid of Demon Legion~ | 55761 | [55761-princess-serena-raid-of-demon-legion.json](./55761-princess-serena-raid-of-demon-legion.json) |
