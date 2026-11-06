@@ -1532,6 +1532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youtubers Life | 19331 | [19331-youtubers-life.json](./19331-youtubers-life.json) |
 | Youtubers Life - Cooking Channel | 89533 | [89533-youtubers-life-cooking-channel.json](./89533-youtubers-life-cooking-channel.json) |
 | Youtubers Life 2 | 145776 | [145776-youtubers-life-2.json](./145776-youtubers-life-2.json) |
+| Youtubers Life: Fashion | 212413 | [212413-youtubers-life-fashion.json](./212413-youtubers-life-fashion.json) |
 | Youtubers Life: Gaming Channel | 88942 | [88942-youtubers-life-gaming-channel.json](./88942-youtubers-life-gaming-channel.json) |
 | Youtubers Life: OMG Edition | 111159 | [111159-youtubers-life-omg-edition.json](./111159-youtubers-life-omg-edition.json) |
 | Yóuxì Rénshēng: Xīnmó | 154332 | [154332-youxi-rensheng-xinmo.json](./154332-youxi-rensheng-xinmo.json) |
