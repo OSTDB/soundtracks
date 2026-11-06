@@ -961,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -12953,6 +12954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book of Travels | 122406 | [122406-book-of-travels.json](./122406-book-of-travels.json) |
 | Book of Yog | 126520 | [126520-book-of-yog.json](./126520-book-of-yog.json) |
 | Book Organizer | 405095 | [405095-book-organizer.json](./405095-book-organizer.json) |
+| Book Quest | 208565 | [208565-book-quest.json](./208565-book-quest.json) |
 | Book Recommendations | 207223 | [207223-book-recommendations.json](./207223-book-recommendations.json) |
 | Book Seeker | 121536 | [121536-book-seeker.json](./121536-book-seeker.json) |
 | Book Shooter | 348294 | [348294-book-shooter.json](./348294-book-shooter.json) |
@@ -17533,6 +17535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bureau of Contacts | 288669 | [288669-bureau-of-contacts.json](./288669-bureau-of-contacts.json) |
 | Bureaucracy | 12618 | [12618-bureaucracy.json](./12618-bureaucracy.json) |
 | Bureaucromancer | 408233 | [408233-bureaucromancer.json](./408233-bureaucromancer.json) |
+| Burg | 208562 | [208562-burg.json](./208562-burg.json) |
 | Burg Battle | 153391 | [153391-burg-battle.json](./153391-burg-battle.json) |
 | Burg Schreckenstein: Der Dieb von Burg Schreckenstein | 376559 | [376559-burg-schreckenstein-der-dieb-von-burg-schreckenstein.json](./376559-burg-schreckenstein-der-dieb-von-burg-schreckenstein.json) |
 | Burg's Buyout | 411262 | [411262-burgs-buyout.json](./411262-burgs-buyout.json) |
