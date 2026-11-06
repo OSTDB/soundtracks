@@ -4546,6 +4546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Castles | 319975 | [319975-age-of-castles.json](./319975-age-of-castles.json) |
 | Age of Castles: Snake War | 299342 | [299342-age-of-castles-snake-war.json](./299342-age-of-castles-snake-war.json) |
 | Age of Castles: Warlords | 35183 | [35183-age-of-castles-warlords.json](./35183-age-of-castles-warlords.json) |
+| Age of Caves: Idle Primitive | 212546 | [212546-age-of-caves-idle-primitive.json](./212546-age-of-caves-idle-primitive.json) |
 | Age of Chaos | 231979 | [231979-age-of-chaos.json](./231979-age-of-chaos.json) |
 | Age of Chaos: Legends | 193934 | [193934-age-of-chaos-legends.json](./193934-age-of-chaos-legends.json) |
 | Age of Chivalry | 18910 | [18910-age-of-chivalry.json](./18910-age-of-chivalry.json) |
@@ -9929,6 +9930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Farm Parking: Extended Edition | 283156 | [283156-animal-farm-parking-extended-edition.json](./283156-animal-farm-parking-extended-edition.json) |
 | Animal Farmland | 312652 | [312652-animal-farmland.json](./312652-animal-farmland.json) |
 | Animal Fight Club: Australia Export | 221022 | [221022-animal-fight-club-australia-export.json](./221022-animal-fight-club-australia-export.json) |
+| Animal Firework Shop | 212551 | [212551-animal-firework-shop.json](./212551-animal-firework-shop.json) |
 | Animal Football | 208375 | [208375-animal-football.json](./208375-animal-football.json) |
 | Animal Force | 104271 | [104271-animal-force.json](./104271-animal-force.json) |
 | Animal Frenzy | 256374 | [256374-animal-frenzy.json](./256374-animal-frenzy.json) |
@@ -13453,6 +13455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arfgaldt | 298525 | [298525-arfgaldt.json](./298525-arfgaldt.json) |
 | Argamasa | 266133 | [266133-argamasa.json](./266133-argamasa.json) |
 | Argebe | 333513 | [333513-argebe.json](./333513-argebe.json) |
+| Argent Twilight | 212539 | [212539-argent-twilight.json](./212539-argent-twilight.json) |
 | Argentum Forever | 337051 | [337051-argentum-forever.json](./337051-argentum-forever.json) |
 | Argentum Online | 176876 | [176876-argentum-online.json](./176876-argentum-online.json) |
 | Argentum Online | 93135 | [93135-argentum-online.json](./93135-argentum-online.json) |
