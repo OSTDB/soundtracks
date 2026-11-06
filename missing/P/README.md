@@ -2322,6 +2322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parity | 124243 | [124243-parity.json](./124243-parity.json) |
 | Parity Shot | 418311 | [418311-parity-shot.json](./418311-parity-shot.json) |
 | Parity Shot Integral | 305167 | [305167-parity-shot-integral.json](./305167-parity-shot-integral.json) |
+| Park | 226551 | [226551-park.json](./226551-park.json) |
 | Park a Lot | 324743 | [324743-park-a-lot.json](./324743-park-a-lot.json) |
 | Park After Dark | 199061 | [199061-park-after-dark.json](./199061-park-after-dark.json) |
 | Park Alien: A ludo in the space | 153496 | [153496-park-alien-a-ludo-in-the-space.json](./153496-park-alien-a-ludo-in-the-space.json) |
