@@ -6020,6 +6020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Knights Idle Adventure | 265746 | [265746-seven-knights-idle-adventure.json](./265746-seven-knights-idle-adventure.json) |
 | Seven Knights Re:Birth | 366551 | [366551-seven-knights-re-birth.json](./366551-seven-knights-re-birth.json) |
 | Seven Knights: Revolution | 188303 | [188303-seven-knights-revolution.json](./188303-seven-knights-revolution.json) |
+| Seven Knights: Special Edition | 220936 | [220936-seven-knights-special-edition.json](./220936-seven-knights-special-edition.json) |
 | Seven Knights: Time Wanderer | 140645 | [140645-seven-knights-time-wanderer.json](./140645-seven-knights-time-wanderer.json) |
 | Seven Knights: Time Wanderer - Casual Costume Set | 237931 | [237931-seven-knights-time-wanderer-casual-costume-set.json](./237931-seven-knights-time-wanderer-casual-costume-set.json) |
 | Seven Knights: Time Wanderer - Cosplay Costume Set | 237932 | [237932-seven-knights-time-wanderer-cosplay-costume-set.json](./237932-seven-knights-time-wanderer-cosplay-costume-set.json) |
@@ -19505,7 +19506,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -24537,6 +24537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Movie Battles II | 271416 | [271416-star-wars-movie-battles-ii.json](./271416-star-wars-movie-battles-ii.json) |
 | Star Wars: Movie Duels | 355148 | [355148-star-wars-movie-duels.json](./355148-star-wars-movie-duels.json) |
 | Star Wars: Obi-Wan | 5599 | [5599-star-wars-obi-wan.json](./5599-star-wars-obi-wan.json) |
+| Star Wars: Open World | 221020 | [221020-star-wars-open-world.json](./221020-star-wars-open-world.json) |
 | Star Wars: Original Trilogy | 220264 | [220264-star-wars-original-trilogy.json](./220264-star-wars-original-trilogy.json) |
 | Star Wars: Original Trilogy Game | 220266 | [220266-star-wars-original-trilogy-game.json](./220266-star-wars-original-trilogy-game.json) |
 | Star Wars: Outpost | 75087 | [75087-star-wars-outpost.json](./75087-star-wars-outpost.json) |
@@ -32274,6 +32275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Phantom Cat | 90979 | [90979-super-phantom-cat.json](./90979-super-phantom-cat.json) |
 | Super Phantom Cat 2 | 89718 | [89718-super-phantom-cat-2.json](./89718-super-phantom-cat-2.json) |
 | Super Phantom Cat: Remake | 117965 | [117965-super-phantom-cat-remake.json](./117965-super-phantom-cat-remake.json) |
+| Super Phantom Cat: Super Nyan Edition | 220933 | [220933-super-phantom-cat-super-nyan-edition.json](./220933-super-phantom-cat-super-nyan-edition.json) |
 | Super Pickleball Adventure | 329409 | [329409-super-pickleball-adventure.json](./329409-super-pickleball-adventure.json) |
 | Super Pickups | 43622 | [43622-super-pickups.json](./43622-super-pickups.json) |
 | Super Picture Cross | 272913 | [272913-super-picture-cross.json](./272913-super-picture-cross.json) |
@@ -32521,6 +32523,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen: Scramble Commander the 2nd | 76970 | [76970-super-robot-taisen-scramble-commander-the-2nd.json](./76970-super-robot-taisen-scramble-commander-the-2nd.json) |
 | Super Robot War X | 342999 | [342999-super-robot-war-x.json](./342999-super-robot-war-x.json) |
 | Super Robot Wars 30 | 152371 | [152371-super-robot-wars-30.json](./152371-super-robot-wars-30.json) |
+| Super Robot Wars 30: Digital Deluxe Edition | 220922 | [220922-super-robot-wars-30-digital-deluxe-edition.json](./220922-super-robot-wars-30-digital-deluxe-edition.json) |
+| Super Robot Wars 30: Digital Ultimate Edition | 220923 | [220923-super-robot-wars-30-digital-ultimate-edition.json](./220923-super-robot-wars-30-digital-ultimate-edition.json) |
 | Super Robot Wars 30: DLC 2 | 238811 | [238811-super-robot-wars-30-dlc-2.json](./238811-super-robot-wars-30-dlc-2.json) |
 | Super Robot Wars 30: Limited Edition | 155096 | [155096-super-robot-wars-30-limited-edition.json](./155096-super-robot-wars-30-limited-edition.json) |
 | Super Robot Wars BX | 79337 | [79337-super-robot-wars-bx.json](./79337-super-robot-wars-bx.json) |
