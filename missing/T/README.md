@@ -6725,6 +6725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bottle of the Heart | 371035 | [371035-the-bottle-of-the-heart.json](./371035-the-bottle-of-the-heart.json) |
 | The Bottom of the Sea | 397524 | [397524-the-bottom-of-the-sea.json](./397524-the-bottom-of-the-sea.json) |
 | The Bou: Special Edition | 278745 | [278745-the-bou-special-edition.json](./278745-the-bou-special-edition.json) |
+| The Bounce | 228221 | [228221-the-bounce.json](./228221-the-bounce.json) |
 | The Bouncer | 1349 | [1349-the-bouncer.json](./1349-the-bouncer.json) |
 | The Bouncing Ball | 195207 | [195207-the-bouncing-ball.json](./195207-the-bouncing-ball.json) |
 | The Bound of Time | 316084 | [316084-the-bound-of-time.json](./316084-the-bound-of-time.json) |
@@ -7557,6 +7558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crane Trials: Red Edition | 28662 | [28662-the-crane-trials-red-edition.json](./28662-the-crane-trials-red-edition.json) |
 | The Crank Gym | 230742 | [230742-the-crank-gym.json](./230742-the-crank-gym.json) |
 | The Crash: Storm Clouds of the Mind | 229564 | [229564-the-crash-storm-clouds-of-the-mind.json](./229564-the-crash-storm-clouds-of-the-mind.json) |
+| The Crawl | 228222 | [228222-the-crawl.json](./228222-the-crawl.json) |
 | The Crawler | 304159 | [304159-the-crawler.json](./304159-the-crawler.json) |
 | The Crawling Dead | 358799 | [358799-the-crawling-dead.json](./358799-the-crawling-dead.json) |
 | The Crayon Factory | 66962 | [66962-the-crayon-factory.json](./66962-the-crayon-factory.json) |
@@ -26353,6 +26355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Yumejikuu: Phantasmagoria of Dim. Dream | 45965 | [45965-touhou-yumejikuu-phantasmagoria-of-dim-dream.json](./45965-touhou-yumejikuu-phantasmagoria-of-dim-dream.json) |
 | Touhou Yuuyajaku -Solar Eclipse Night- | 335062 | [335062-touhou-yuuyajaku-solar-eclipse-night.json](./335062-touhou-yuuyajaku-solar-eclipse-night.json) |
 | Touhou: Blossom Blade | 380520 | [380520-touhou-blossom-blade.json](./380520-touhou-blossom-blade.json) |
+| Touhou: Fading Illusion | 228201 | [228201-touhou-fading-illusion.json](./228201-touhou-fading-illusion.json) |
 | Touhou: Fading Illusion - Destitute Chapter | 293834 | [293834-touhou-fading-illusion-destitute-chapter.json](./293834-touhou-fading-illusion-destitute-chapter.json) |
 | Touhou: Fading Illusion - Underworld Chapter | 356185 | [356185-touhou-fading-illusion-underworld-chapter.json](./356185-touhou-fading-illusion-underworld-chapter.json) |
 | Touhou: Fearless Frogslayer | 356088 | [356088-touhou-fearless-frogslayer.json](./356088-touhou-fearless-frogslayer.json) |
@@ -28609,6 +28612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: NR Class Locomotive - National Rail Mega Pack | 256378 | [256378-trainz-plus-nr-class-locomotive-national-rail-mega-pack.json](./256378-trainz-plus-nr-class-locomotive-national-rail-mega-pack.json) |
 | Trainz Plus: NS SD60E - 6963 GoRail | 205562 | [205562-trainz-plus-ns-sd60e-6963-gorail.json](./205562-trainz-plus-ns-sd60e-6963-gorail.json) |
 | Trainz Plus: NS SD60E - Horsehead | 205517 | [205517-trainz-plus-ns-sd60e-horsehead.json](./205517-trainz-plus-ns-sd60e-horsehead.json) |
+| Trainz Plus: NSW 81 Class SRA Pack | 228219 | [228219-trainz-plus-nsw-81-class-sra-pack.json](./228219-trainz-plus-nsw-81-class-sra-pack.json) |
 | Trainz Plus: NYC J3a-Dreyfuss streamlined Hudson | 205446 | [205446-trainz-plus-nyc-j3a-dreyfuss-streamlined-hudson.json](./205446-trainz-plus-nyc-j3a-dreyfuss-streamlined-hudson.json) |
 | Trainz Plus: Orient Express Trainset | 205481 | [205481-trainz-plus-orient-express-trainset.json](./205481-trainz-plus-orient-express-trainset.json) |
 | Trainz Plus: Pacific National 92 and 93 Class Locomotives | 205483 | [205483-trainz-plus-pacific-national-92-and-93-class-locomotives.json](./205483-trainz-plus-pacific-national-92-and-93-class-locomotives.json) |
@@ -28817,6 +28821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2019: NS SD60E - 6963 GoRail | 153239 | [153239-trainz-railroad-simulator-2019-ns-sd60e-6963-gorail.json](./153239-trainz-railroad-simulator-2019-ns-sd60e-6963-gorail.json) |
 | Trainz Railroad Simulator 2019: NS SD60E - Horsehead | 153238 | [153238-trainz-railroad-simulator-2019-ns-sd60e-horsehead.json](./153238-trainz-railroad-simulator-2019-ns-sd60e-horsehead.json) |
 | Trainz Railroad Simulator 2019: NS SD60E First Responders | 153098 | [153098-trainz-railroad-simulator-2019-ns-sd60e-first-responders.json](./153098-trainz-railroad-simulator-2019-ns-sd60e-first-responders.json) |
+| Trainz Railroad Simulator 2019: NSW 81 Class SRA Pack | 228217 | [228217-trainz-railroad-simulator-2019-nsw-81-class-sra-pack.json](./228217-trainz-railroad-simulator-2019-nsw-81-class-sra-pack.json) |
 | Trainz Railroad Simulator 2019: NYC J3a-Dreyfuss Streamlined Hudson | 167781 | [167781-trainz-railroad-simulator-2019-nyc-j3a-dreyfuss-streamlined-hudson.json](./167781-trainz-railroad-simulator-2019-nyc-j3a-dreyfuss-streamlined-hudson.json) |
 | Trainz Railroad Simulator 2019: Orient Express Trainset | 153205 | [153205-trainz-railroad-simulator-2019-orient-express-trainset.json](./153205-trainz-railroad-simulator-2019-orient-express-trainset.json) |
 | Trainz Railroad Simulator 2019: PKP/PREG Bdhpumn/B(16)mnopux Pack | 190714 | [190714-trainz-railroad-simulator-2019-pkp-preg-bdhpumn-b-16-mnopux-pack.json](./190714-trainz-railroad-simulator-2019-pkp-preg-bdhpumn-b-16-mnopux-pack.json) |
@@ -28998,6 +29003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2022: NS SD60E - 6920 Veterans Unit | 205417 | [205417-trainz-railroad-simulator-2022-ns-sd60e-6920-veterans-unit.json](./205417-trainz-railroad-simulator-2022-ns-sd60e-6920-veterans-unit.json) |
 | Trainz Railroad Simulator 2022: NS SD60E - 6963 GoRail | 205363 | [205363-trainz-railroad-simulator-2022-ns-sd60e-6963-gorail.json](./205363-trainz-railroad-simulator-2022-ns-sd60e-6963-gorail.json) |
 | Trainz Railroad Simulator 2022: NS SD60E - Horsehead Locomotive | 205352 | [205352-trainz-railroad-simulator-2022-ns-sd60e-horsehead-locomotive.json](./205352-trainz-railroad-simulator-2022-ns-sd60e-horsehead-locomotive.json) |
+| Trainz Railroad Simulator 2022: NSW 81 Class SRA Pack | 228218 | [228218-trainz-railroad-simulator-2022-nsw-81-class-sra-pack.json](./228218-trainz-railroad-simulator-2022-nsw-81-class-sra-pack.json) |
 | Trainz Railroad Simulator 2022: NYC J3a-Dreyfuss streamlined Hudson | 205305 | [205305-trainz-railroad-simulator-2022-nyc-j3a-dreyfuss-streamlined-hudson.json](./205305-trainz-railroad-simulator-2022-nyc-j3a-dreyfuss-streamlined-hudson.json) |
 | Trainz Railroad Simulator 2022: Orient Express Trainset | 205364 | [205364-trainz-railroad-simulator-2022-orient-express-trainset.json](./205364-trainz-railroad-simulator-2022-orient-express-trainset.json) |
 | Trainz Railroad Simulator 2022: Pacific National 92 and 93 Class Locomotives | 205388 | [205388-trainz-railroad-simulator-2022-pacific-national-92-and-93-class-locomotives.json](./205388-trainz-railroad-simulator-2022-pacific-national-92-and-93-class-locomotives.json) |
