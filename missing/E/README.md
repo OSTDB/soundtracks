@@ -2012,6 +2012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elden Ring: Shadow of the Erdtree Deluxe Edition | 287984 | [287984-elden-ring-shadow-of-the-erdtree-deluxe-edition.json](./287984-elden-ring-shadow-of-the-erdtree-deluxe-edition.json) |
 | Elden Ring: Shadow of the Erdtree Edition | 287975 | [287975-elden-ring-shadow-of-the-erdtree-edition.json](./287975-elden-ring-shadow-of-the-erdtree-edition.json) |
 | Elden Ring: Tarnished Edition | 338079 | [338079-elden-ring-tarnished-edition.json](./338079-elden-ring-tarnished-edition.json) |
+| Elden Shell: Mortal Ring | 194075 | [194075-elden-shell-mortal-ring.json](./194075-elden-shell-mortal-ring.json) |
 | Elden Sword | 371122 | [371122-elden-sword.json](./371122-elden-sword.json) |
 | Elden: Path of the Forgotten | 95139 | [95139-elden-path-of-the-forgotten.json](./95139-elden-path-of-the-forgotten.json) |
 | Elder Blaze | 242709 | [242709-elder-blaze.json](./242709-elder-blaze.json) |
@@ -4963,6 +4964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erth | 134673 | [134673-erth.json](./134673-erth.json) |
 | Ertha | 201958 | [201958-ertha.json](./201958-ertha.json) |
 | Ertugrul | 274772 | [274772-ertugrul.json](./274772-ertugrul.json) |
+| Ertugrul Gazi 3 | 194073 | [194073-ertugrul-gazi-3.json](./194073-ertugrul-gazi-3.json) |
 | ERTX 2080TI Mining clicker | 107518 | [107518-ertx-2080ti-mining-clicker.json](./107518-ertx-2080ti-mining-clicker.json) |
 | Erudite with friends | 387456 | [387456-erudite-with-friends.json](./387456-erudite-with-friends.json) |
 | Erulean Angel: Fantasy Commander | 351136 | [351136-erulean-angel-fantasy-commander.json](./351136-erulean-angel-fantasy-commander.json) |
