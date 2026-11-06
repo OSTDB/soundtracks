@@ -1203,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Thiz Spain: Silver Edition | 232716 | [232716-quiz-thiz-spain-silver-edition.json](./232716-quiz-thiz-spain-silver-edition.json) |
 | Quiz Thiz United Kingdom | 228371 | [228371-quiz-thiz-united-kingdom.json](./228371-quiz-thiz-united-kingdom.json) |
 | Quiz Thiz United Kingdom: Bronze Edition | 228767 | [228767-quiz-thiz-united-kingdom-bronze-edition.json](./228767-quiz-thiz-united-kingdom-bronze-edition.json) |
+| Quiz Thiz United Kingdom: Gold Edition | 229483 | [229483-quiz-thiz-united-kingdom-gold-edition.json](./229483-quiz-thiz-united-kingdom-gold-edition.json) |
 | Quiz Thiz United Kingdom: Silver Edition | 229169 | [229169-quiz-thiz-united-kingdom-silver-edition.json](./229169-quiz-thiz-united-kingdom-silver-edition.json) |
 | Quiz Thiz USA | 226091 | [226091-quiz-thiz-usa.json](./226091-quiz-thiz-usa.json) |
 | Quiz Thiz USA: Bronze Edition | 227128 | [227128-quiz-thiz-usa-bronze-edition.json](./227128-quiz-thiz-usa-bronze-edition.json) |
