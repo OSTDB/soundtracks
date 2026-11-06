@@ -3520,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom's Gambit | 264038 | [264038-kingdoms-gambit.json](./264038-kingdoms-gambit.json) |
 | Kingdom's Item Shop | 85228 | [85228-kingdoms-item-shop.json](./85228-kingdoms-item-shop.json) |
 | Kingdom's Life | 189177 | [189177-kingdoms-life.json](./189177-kingdoms-life.json) |
+| Kingdom's Life | 233350 | [233350-kingdoms-life.json](./233350-kingdoms-life.json) |
 | Kingdom's Return: Time-Eating Fruit and the Ancient Monster | 381111 | [381111-kingdoms-return-time-eating-fruit-and-the-ancient-monster.json](./381111-kingdoms-return-time-eating-fruit-and-the-ancient-monster.json) |
 | Kingdom's Return: Time-Eating Fruit and the Ancient Monster - "Azure Striker Gunvolt" Crossover Character Skin | 395690 | [395690-kingdoms-return-time-eating-fruit-and-the-ancient-monster-azure-striker-gunvolt-crossover-character-skin.json](./395690-kingdoms-return-time-eating-fruit-and-the-ancient-monster-azure-striker-gunvolt-crossover-character-skin.json) |
 | KingdomDefense | 172102 | [172102-kingdomdefense.json](./172102-kingdomdefense.json) |
@@ -4901,6 +4902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koco | 275845 | [275845-koco.json](./275845-koco.json) |
 | Kodama | 262067 | [262067-kodama.json](./262067-kodama.json) |
 | Kodama | 62050 | [62050-kodama.json](./62050-kodama.json) |
+| Kodama Battles | 233332 | [233332-kodama-battles.json](./233332-kodama-battles.json) |
 | Kodama: Slumber of the Gods | 404612 | [404612-kodama-slumber-of-the-gods.json](./404612-kodama-slumber-of-the-gods.json) |
 | Kodamachi | 262022 | [262022-kodamachi.json](./262022-kodamachi.json) |
 | Kodawari Saihai Simulation: Ocha no Ma Pro Yakyuu DS | 122959 | [122959-kodawari-saihai-simulation-ocha-no-ma-pro-yakyuu-ds.json](./122959-kodawari-saihai-simulation-ocha-no-ma-pro-yakyuu-ds.json) |
