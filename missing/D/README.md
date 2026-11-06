@@ -11652,6 +11652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doge Simulator | 76897 | [76897-doge-simulator.json](./76897-doge-simulator.json) |
 | Doge Storm | 360698 | [360698-doge-storm.json](./360698-doge-storm.json) |
 | Doge to the Moon | 149505 | [149505-doge-to-the-moon.json](./149505-doge-to-the-moon.json) |
+| Doge Trader | 212014 | [212014-doge-trader.json](./212014-doge-trader.json) |
 | DogeFight | 196508 | [196508-dogefight.json](./196508-dogefight.json) |
 | Dogeminer | 101938 | [101938-dogeminer.json](./101938-dogeminer.json) |
 | Dogeminer 2: Back 2 the Moon | 112046 | [112046-dogeminer-2-back-2-the-moon.json](./112046-dogeminer-2-back-2-the-moon.json) |
@@ -16968,6 +16969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drug Empire | 376459 | [376459-drug-empire.json](./376459-drug-empire.json) |
 | Drug Grower Simulator | 217508 | [217508-drug-grower-simulator.json](./217508-drug-grower-simulator.json) |
 | Drug Lord 2 | 71473 | [71473-drug-lord-2.json](./71473-drug-lord-2.json) |
+| Drug Lord Simulator | 212008 | [212008-drug-lord-simulator.json](./212008-drug-lord-simulator.json) |
 | Drug Lord Tycoon | 253546 | [253546-drug-lord-tycoon.json](./253546-drug-lord-tycoon.json) |
 | Drug Lords | 193228 | [193228-drug-lords.json](./193228-drug-lords.json) |
 | Drug Prince & Narcotic Girl for Nintendo Switch | 255630 | [255630-drug-prince-and-narcotic-girl-for-nintendo-switch.json](./255630-drug-prince-and-narcotic-girl-for-nintendo-switch.json) |
