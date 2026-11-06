@@ -1270,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand-Drawn Epic Adventures | 330437 | [330437-hand-drawn-epic-adventures.json](./330437-hand-drawn-epic-adventures.json) |
 | Hand-Holding Simulator | 326404 | [326404-hand-holding-simulator.json](./326404-hand-holding-simulator.json) |
 | Hand-me-downs | 373139 | [373139-hand-me-downs.json](./373139-hand-me-downs.json) |
+| Hand2Hand Project | 237731 | [237731-hand2hand-project.json](./237731-hand2hand-project.json) |
 | Handball | 18391 | [18391-handball.json](./18391-handball.json) |
 | Handball 16 | 34927 | [34927-handball-16.json](./34927-handball-16.json) |
 | Handball 17 | 31316 | [31316-handball-17.json](./31316-handball-17.json) |
@@ -6231,6 +6232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeroSurvival | 248148 | [248148-herosurvival.json](./248148-herosurvival.json) |
 | Herotome | 364377 | [364377-herotome.json](./364377-herotome.json) |
 | HeroTower | 259677 | [259677-herotower.json](./259677-herotower.json) |
+| HeroVerse | 237735 | [237735-heroverse.json](./237735-heroverse.json) |
 | HeroVersus | 239750 | [239750-heroversus.json](./239750-heroversus.json) |
 | HeroVersus: The Legend of Ki Masters | 113622 | [113622-heroversus-the-legend-of-ki-masters.json](./113622-heroversus-the-legend-of-ki-masters.json) |
 | HeroWarz | 62524 | [62524-herowarz.json](./62524-herowarz.json) |
@@ -8367,6 +8369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hix: Puzzle Islands | 146842 | [146842-hix-puzzle-islands.json](./146842-hix-puzzle-islands.json) |
 | HiYah! | 322832 | [322832-hiyah.json](./322832-hiyah.json) |
 | Hiyake no Omoide & Himekuri: Girls in Motion Puzzle Vol. 1 | 245615 | [245615-hiyake-no-omoide-and-himekuri-girls-in-motion-puzzle-vol-1.json](./245615-hiyake-no-omoide-and-himekuri-girls-in-motion-puzzle-vol-1.json) |
+| Hiyoku no Tori | 237758 | [237758-hiyoku-no-tori.json](./237758-hiyoku-no-tori.json) |
 | Hiyoshi Clinic | 341098 | [341098-hiyoshi-clinic.json](./341098-hiyoshi-clinic.json) |
 | Hiza no Ue no Partner: Kitty on Your Lap | 65494 | [65494-hiza-no-ue-no-partner-kitty-on-your-lap.json](./65494-hiza-no-ue-no-partner-kitty-on-your-lap.json) |
 | Hizca | 348929 | [348929-hizca.json](./348929-hizca.json) |
@@ -10999,6 +11002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoVRboard | 119472 | [119472-hovrboard.json](./119472-hovrboard.json) |
 | How | 241652 | [241652-how.json](./241652-how.json) |
 | How 2 Dreams | 224118 | [224118-how-2-dreams.json](./224118-how-2-dreams.json) |
+| How 2 Escape | 237741 | [237741-how-2-escape.json](./237741-how-2-escape.json) |
 | How 2 Escape Collection | 351230 | [351230-how-2-escape-collection.json](./351230-how-2-escape-collection.json) |
 | How 2 Escape: Lost Submarine | 335838 | [335838-how-2-escape-lost-submarine.json](./335838-how-2-escape-lost-submarine.json) |
 | How a Body Sounds | 338646 | [338646-how-a-body-sounds.json](./338646-how-a-body-sounds.json) |
