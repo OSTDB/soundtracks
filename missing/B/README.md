@@ -961,7 +961,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3801,6 +3800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Mages: Sign of Darkness | 17577 | [17577-battle-mages-sign-of-darkness.json](./17577-battle-mages-sign-of-darkness.json) |
 | Battle Magi | 402899 | [402899-battle-magi.json](./402899-battle-magi.json) |
 | Battle Mania Daiginjou | 45734 | [45734-battle-mania-daiginjou.json](./45734-battle-mania-daiginjou.json) |
+| Battle Map 2 | 207995 | [207995-battle-map-2.json](./207995-battle-map-2.json) |
 | Battle Map Studio | 190924 | [190924-battle-map-studio.json](./190924-battle-map-studio.json) |
 | Battle Master | 86222 | [86222-battle-master.json](./86222-battle-master.json) |
 | Battle Masters | 176871 | [176871-battle-masters.json](./176871-battle-masters.json) |
@@ -8085,6 +8085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biofall: Survival | 349519 | [349519-biofall-survival.json](./349519-biofall-survival.json) |
 | BioForge | 2213 | [2213-bioforge.json](./2213-bioforge.json) |
 | Bioframe: Outpost | 211099 | [211099-bioframe-outpost.json](./211099-bioframe-outpost.json) |
+| Biofrenzy HD | 207960 | [207960-biofrenzy-hd.json](./207960-biofrenzy-hd.json) |
 | BioFury | 277426 | [277426-biofury.json](./277426-biofury.json) |
 | BioFusion | 258546 | [258546-biofusion.json](./258546-biofusion.json) |
 | Biogenesis | 346732 | [346732-biogenesis.json](./346732-biogenesis.json) |
@@ -13049,6 +13050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Karts: Multiplayer Kart Racing | 144982 | [144982-boom-karts-multiplayer-kart-racing.json](./144982-boom-karts-multiplayer-kart-racing.json) |
 | Boom Land | 103148 | [103148-boom-land.json](./103148-boom-land.json) |
 | Boom Lift Operator | 298156 | [298156-boom-lift-operator.json](./298156-boom-lift-operator.json) |
+| Boom Mania | 208000 | [208000-boom-mania.json](./208000-boom-mania.json) |
 | Boom Pilot | 120643 | [120643-boom-pilot.json](./120643-boom-pilot.json) |
 | Boom Robots | 312094 | [312094-boom-robots.json](./312094-boom-robots.json) |
 | Boom Royale | 243592 | [243592-boom-royale.json](./243592-boom-royale.json) |
@@ -14210,6 +14212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxman | 267860 | [267860-boxman.json](./267860-boxman.json) |
 | Boxman Adventures | 203896 | [203896-boxman-adventures.json](./203896-boxman-adventures.json) |
 | Boxman in the World of the Wuuza Wizards | 318481 | [318481-boxman-in-the-world-of-the-wuuza-wizards.json](./318481-boxman-in-the-world-of-the-wuuza-wizards.json) |
+| BoxMan Rising | 207983 | [207983-boxman-rising.json](./207983-boxman-rising.json) |
 | Boxman's Struggle | 129366 | [129366-boxmans-struggle.json](./129366-boxmans-struggle.json) |
 | Boxmania | 304388 | [304388-boxmania.json](./304388-boxmania.json) |
 | Boxnauts | 248993 | [248993-boxnauts.json](./248993-boxnauts.json) |
