@@ -2703,6 +2703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reach Me | 76362 | [76362-reach-me.json](./76362-reach-me.json) |
 | Reach of the River | 419927 | [419927-reach-of-the-river.json](./419927-reach-of-the-river.json) |
 | Reach the Beat | 297900 | [297900-reach-the-beat.json](./297900-reach-the-beat.json) |
+| Reach the Hilltop | 236083 | [236083-reach-the-hilltop.json](./236083-reach-the-hilltop.json) |
 | Reach the light | 260871 | [260871-reach-the-light.json](./260871-reach-the-light.json) |
 | Reach the Moon! | 234741 | [234741-reach-the-moon.json](./234741-reach-the-moon.json) |
 | Reach the Sky | 110188 | [110188-reach-the-sky.json](./110188-reach-the-sky.json) |
@@ -7525,6 +7526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rin Kaihou Kudan no Igo Daidou | 37868 | [37868-rin-kaihou-kudan-no-igo-daidou.json](./37868-rin-kaihou-kudan-no-igo-daidou.json) |
 | Rin the Tamarin | 58542 | [58542-rin-the-tamarin.json](./58542-rin-the-tamarin.json) |
 | Rin: The Last Child | 199253 | [199253-rin-the-last-child.json](./199253-rin-the-last-child.json) |
+| Rina to Akumu no Kan | 236068 | [236068-rina-to-akumu-no-kan.json](./236068-rina-to-akumu-no-kan.json) |
 | Rina's Undercover Train Operation | 392306 | [392306-rinas-undercover-train-operation.json](./392306-rinas-undercover-train-operation.json) |
 | Rinbo | 310912 | [310912-rinbo.json](./310912-rinbo.json) |
 | Ring | 11308 | [11308-ring.json](./11308-ring.json) |
@@ -8968,6 +8970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Street Fighting Games | 304074 | [304074-robot-street-fighting-games.json](./304074-robot-street-fighting-games.json) |
 | Robot TD | 258917 | [258917-robot-td.json](./258917-robot-td.json) |
 | Robot terminator | 120704 | [120704-robot-terminator.json](./120704-robot-terminator.json) |
+| Robot Tormod | 236094 | [236094-robot-tormod.json](./236094-robot-tormod.json) |
 | Robot Transforming Gorilla Attack: Gorilla Games | 95797 | [95797-robot-transforming-gorilla-attack-gorilla-games.json](./95797-robot-transforming-gorilla-attack-gorilla-games.json) |
 | Robot Trivia Funtime | 301588 | [301588-robot-trivia-funtime.json](./301588-robot-trivia-funtime.json) |
 | Robot Unicorn Attack | 39214 | [39214-robot-unicorn-attack.json](./39214-robot-unicorn-attack.json) |
