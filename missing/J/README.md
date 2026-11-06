@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jade Guardian | 310186 | [310186-jade-guardian.json](./310186-jade-guardian.json) |
 | Jade Konoichi: Butterfly Legend | 97277 | [97277-jade-konoichi-butterfly-legend.json](./97277-jade-konoichi-butterfly-legend.json) |
 | Jade Legends: Immortal Realm | 304214 | [304214-jade-legends-immortal-realm.json](./304214-jade-legends-immortal-realm.json) |
+| Jade Order | 203582 | [203582-jade-order.json](./203582-jade-order.json) |
 | Jade Rousseau: The Secret Revelations | 18886 | [18886-jade-rousseau-the-secret-revelations.json](./18886-jade-rousseau-the-secret-revelations.json) |
 | Jade Shadows: Constellations | 408525 | [408525-jade-shadows-constellations.json](./408525-jade-shadows-constellations.json) |
 | Jade Spring | 349863 | [349863-jade-spring.json](./349863-jade-spring.json) |
@@ -2554,6 +2555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoJo's Bizarre Adventure: All Star Battle R - Digital Deluxe Edition | 218458 | [218458-jojos-bizarre-adventure-all-star-battle-r-digital-deluxe-edition.json](./218458-jojos-bizarre-adventure-all-star-battle-r-digital-deluxe-edition.json) |
 | JoJo’s Bizarre Adventure: All-Star Battle R | 194208 | [194208-jojo-s-bizarre-adventure-all-star-battle-r.json](./194208-jojo-s-bizarre-adventure-all-star-battle-r.json) |
 | JoJo's Bizarre Adventure: All-Star Battle R - Alternate World Diego | 253663 | [253663-jojos-bizarre-adventure-all-star-battle-r-alternate-world-diego.json](./253663-jojos-bizarre-adventure-all-star-battle-r-alternate-world-diego.json) |
+| JoJo's Bizarre Adventure: All-Star Battle R - Collector's Edition | 203508 | [203508-jojos-bizarre-adventure-all-star-battle-r-collectors-edition.json](./203508-jojos-bizarre-adventure-all-star-battle-r-collectors-edition.json) |
 | JoJo's Bizarre Adventure: All-Star Battle R - Digital Deluxe Edition | 204756 | [204756-jojos-bizarre-adventure-all-star-battle-r-digital-deluxe-edition.json](./204756-jojos-bizarre-adventure-all-star-battle-r-digital-deluxe-edition.json) |
 | JoJo’s Bizarre Adventure: All-Star Battle R - Digital Ultimate Edition | 253229 | [253229-jojo-s-bizarre-adventure-all-star-battle-r-digital-ultimate-edition.json](./253229-jojo-s-bizarre-adventure-all-star-battle-r-digital-ultimate-edition.json) |
 | JoJo's Bizarre Adventure: All-Star Battle R - Keicho Nijimura | 242545 | [242545-jojos-bizarre-adventure-all-star-battle-r-keicho-nijimura.json](./242545-jojos-bizarre-adventure-all-star-battle-r-keicho-nijimura.json) |
