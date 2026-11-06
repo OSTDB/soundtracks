@@ -920,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lanterns: The Harvest Festival | 45248 | [45248-lanterns-the-harvest-festival.json](./45248-lanterns-the-harvest-festival.json) |
 | Lanternwood | 375827 | [375827-lanternwood.json](./375827-lanternwood.json) |
 | LanthernStudio Paint | 131333 | [131333-lanthernstudio-paint.json](./131333-lanthernstudio-paint.json) |
+| LanVodis | 202895 | [202895-lanvodis.json](./202895-lanvodis.json) |
 | Lap of the Gods | 30210 | [30210-lap-of-the-gods.json](./30210-lap-of-the-gods.json) |
 | Lapidary: Jewel Craft Simulator | 291323 | [291323-lapidary-jewel-craft-simulator.json](./291323-lapidary-jewel-craft-simulator.json) |
 | Lapin | 161220 | [161220-lapin.json](./161220-lapin.json) |
@@ -8820,6 +8821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Sex & Fitness | 389649 | [389649-love-sex-and-fitness.json](./389649-love-sex-and-fitness.json) |
 | Love Sexlife | 97785 | [97785-love-sexlife.json](./97785-love-sexlife.json) |
 | Love Shore | 131561 | [131561-love-shore.json](./131561-love-shore.json) |
+| Love Signal: D-Mate | 202983 | [202983-love-signal-d-mate.json](./202983-love-signal-d-mate.json) |
 | Love Simulation | 99039 | [99039-love-simulation.json](./99039-love-simulation.json) |
 | Love Sniper | 63116 | [63116-love-sniper.json](./63116-love-sniper.json) |
 | Love Spell: The Starlight Update | 254503 | [254503-love-spell-the-starlight-update.json](./254503-love-spell-the-starlight-update.json) |
