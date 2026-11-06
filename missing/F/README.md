@@ -8685,6 +8685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNF: Spooky Mix | 365105 | [365105-fnf-spooky-mix.json](./365105-fnf-spooky-mix.json) |
 | FNF: V.S. Tabi Ex Boyfriend | 314513 | [314513-fnf-v-s-tabi-ex-boyfriend.json](./314513-fnf-v-s-tabi-ex-boyfriend.json) |
 | Fnvader | 311969 | [311969-fnvader.json](./311969-fnvader.json) |
+| Foad | 238809 | [238809-foad.json](./238809-foad.json) |
 | Foam | 138267 | [138267-foam.json](./138267-foam.json) |
 | FoamFix | 233698 | [233698-foamfix.json](./233698-foamfix.json) |
 | Foamstars: Season 1 | 284717 | [284717-foamstars-season-1.json](./284717-foamstars-season-1.json) |
@@ -11758,6 +11759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': D Side | 285244 | [285244-friday-night-funkin-d-side.json](./285244-friday-night-funkin-d-side.json) |
 | Friday Night Funkin': Elements of Insanity | 198303 | [198303-friday-night-funkin-elements-of-insanity.json](./198303-friday-night-funkin-elements-of-insanity.json) |
 | Friday Night Funkin': Halloween Hack | 228324 | [228324-friday-night-funkin-halloween-hack.json](./228324-friday-night-funkin-halloween-hack.json) |
+| Friday Night Funkin': Hazy River | 238842 | [238842-friday-night-funkin-hazy-river.json](./238842-friday-night-funkin-hazy-river.json) |
 | Friday Night Funkin': Hotline 024 | 201320 | [201320-friday-night-funkin-hotline-024.json](./201320-friday-night-funkin-hotline-024.json) |
 | Friday Night Funkin': Idol | 269294 | [269294-friday-night-funkin-idol.json](./269294-friday-night-funkin-idol.json) |
 | Friday Night Funkin': In the Galaxy | 228605 | [228605-friday-night-funkin-in-the-galaxy.json](./228605-friday-night-funkin-in-the-galaxy.json) |
