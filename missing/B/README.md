@@ -2047,6 +2047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bane Murrain | 271080 | [271080-bane-murrain.json](./271080-bane-murrain.json) |
 | Bane of Oakenshade | 323581 | [323581-bane-of-oakenshade.json](./323581-bane-of-oakenshade.json) |
 | Bane: Dawn of the Lost | 358743 | [358743-bane-dawn-of-the-lost.json](./358743-bane-dawn-of-the-lost.json) |
+| Baneball | 218195 | [218195-baneball.json](./218195-baneball.json) |
 | Banebush | 327141 | [327141-banebush.json](./327141-banebush.json) |
 | Baneseed | 184658 | [184658-baneseed.json](./184658-baneseed.json) |
 | Bang | 285674 | [285674-bang.json](./285674-bang.json) |
@@ -15123,6 +15124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakthrough | 15686 | [15686-breakthrough.json](./15686-breakthrough.json) |
 | Breakthrough | 336686 | [336686-breakthrough.json](./336686-breakthrough.json) |
 | BreakThrough | 391866 | [391866-breakthrough.json](./391866-breakthrough.json) |
+| Breakthrough Gaming Activity Center: ZJ the Ball's Collect Stuff | 218189 | [218189-breakthrough-gaming-activity-center-zj-the-balls-collect-stuff.json](./218189-breakthrough-gaming-activity-center-zj-the-balls-collect-stuff.json) |
 | Breakthrough in the Ardennes | 25618 | [25618-breakthrough-in-the-ardennes.json](./25618-breakthrough-in-the-ardennes.json) |
 | Breakthrough Mars | 285371 | [285371-breakthrough-mars.json](./285371-breakthrough-mars.json) |
 | BreakThrough Time | 392378 | [392378-breakthrough-time.json](./392378-breakthrough-time.json) |
