@@ -712,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galacticare: The Voice Beyond | 337495 | [337495-galacticare-the-voice-beyond.json](./337495-galacticare-the-voice-beyond.json) |
 | Galactico | 285561 | [285561-galactico.json](./285561-galactico.json) |
 | Galacticon | 189368 | [189368-galacticon.json](./189368-galacticon.json) |
+| Galacticorp | 208550 | [208550-galacticorp.json](./208550-galacticorp.json) |
 | Galacticraft | 232681 | [232681-galacticraft.json](./232681-galacticraft.json) |
 | Galacticverse | 275071 | [275071-galacticverse.json](./275071-galacticverse.json) |
 | Galactigun | 169128 | [169128-galactigun.json](./169128-galactigun.json) |
@@ -10106,6 +10107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GuardFortressVR | 298209 | [298209-guardfortressvr.json](./298209-guardfortressvr.json) |
 | GuardGrave | 275536 | [275536-guardgrave.json](./275536-guardgrave.json) |
 | Guardian | 15542 | [15542-guardian.json](./15542-guardian.json) |
+| Guardian | 208547 | [208547-guardian.json](./208547-guardian.json) |
 | Guardian | 290132 | [290132-guardian.json](./290132-guardian.json) |
 | Guardian | 360038 | [360038-guardian.json](./360038-guardian.json) |
 | Guardian | 37295 | [37295-guardian.json](./37295-guardian.json) |
