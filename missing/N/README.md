@@ -2578,6 +2578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neonimo | 187797 | [187797-neonimo.json](./187797-neonimo.json) |
 | Neonis | 121190 | [121190-neonis.json](./121190-neonis.json) |
 | NeonLore | 197916 | [197916-neonlore.json](./197916-neonlore.json) |
+| NeonNoir | 233832 | [233832-neonnoir.json](./233832-neonnoir.json) |
 | Neonoen | 120782 | [120782-neonoen.json](./120782-neonoen.json) |
 | NeoNoid | 414791 | [414791-neonoid.json](./414791-neonoid.json) |
 | NeoNomicon | 37005 | [37005-neonomicon.json](./37005-neonomicon.json) |
@@ -4898,6 +4899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine Rounds Rapid | 238718 | [238718-nine-rounds-rapid.json](./238718-nine-rounds-rapid.json) |
 | Nine Skies | 390650 | [390650-nine-skies.json](./390650-nine-skies.json) |
 | Nine Spaces | 406182 | [406182-nine-spaces.json](./406182-nine-spaces.json) |
+| Nine Tiles | 233876 | [233876-nine-tiles.json](./233876-nine-tiles.json) |
 | Nine to Five | 127353 | [127353-nine-to-five.json](./127353-nine-to-five.json) |
 | Nine To Five (am) | 318701 | [318701-nine-to-five-am.json](./318701-nine-to-five-am.json) |
 | Nine Trials | 114290 | [114290-nine-trials.json](./114290-nine-trials.json) |
