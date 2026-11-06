@@ -4081,8 +4081,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario vs. Donkey Kong 2: March of the Minis | 6506 | [6506-mario-vs-donkey-kong-2-march-of-the-minis.json](./6506-mario-vs-donkey-kong-2-march-of-the-minis.json) |
 | Mario vs. Donkey Kong 2: March of the Minis - Cannon Kaos | 231640 | [231640-mario-vs-donkey-kong-2-march-of-the-minis-cannon-kaos.json](./231640-mario-vs-donkey-kong-2-march-of-the-minis-cannon-kaos.json) |
 | Mario vs. Donkey Kong Card e+ | 220855 | [220855-mario-vs-donkey-kong-card-e.json](./220855-mario-vs-donkey-kong-card-e.json) |
+| Mario vs. Donkey Kong Card e+: Athletic | 233317 | [233317-mario-vs-donkey-kong-card-e-athletic.json](./233317-mario-vs-donkey-kong-card-e-athletic.json) |
+| Mario vs. Donkey Kong Card e+: Dangerous Flowers | 233321 | [233321-mario-vs-donkey-kong-card-e-dangerous-flowers.json](./233321-mario-vs-donkey-kong-card-e-dangerous-flowers.json) |
+| Mario vs. Donkey Kong Card e+: Dossun no Toride | 233319 | [233319-mario-vs-donkey-kong-card-e-dossun-no-toride.json](./233319-mario-vs-donkey-kong-card-e-dossun-no-toride.json) |
 | Mario vs. Donkey Kong Card e+: Hitasura Kawase! | 352408 | [352408-mario-vs-donkey-kong-card-e-hitasura-kawase.json](./352408-mario-vs-donkey-kong-card-e-hitasura-kawase.json) |
+| Mario vs. Donkey Kong Card e+: Laser Panic! | 233322 | [233322-mario-vs-donkey-kong-card-e-laser-panic.json](./233322-mario-vs-donkey-kong-card-e-laser-panic.json) |
+| Mario vs. Donkey Kong Card e+: Nagaai Michinori | 233316 | [233316-mario-vs-donkey-kong-card-e-nagaai-michinori.json](./233316-mario-vs-donkey-kong-card-e-nagaai-michinori.json) |
 | Mario vs. Donkey Kong Card e+: Osarete Susume! | 352410 | [352410-mario-vs-donkey-kong-card-e-osarete-susume.json](./352410-mario-vs-donkey-kong-card-e-osarete-susume.json) |
+| Mario vs. Donkey Kong Card e+: Tobiori Chuui! | 233314 | [233314-mario-vs-donkey-kong-card-e-tobiori-chuui.json](./233314-mario-vs-donkey-kong-card-e-tobiori-chuui.json) |
 | Mario vs. Donkey Kong-e: A Tricky Candle | 352405 | [352405-mario-vs-donkey-kong-e-a-tricky-candle.json](./352405-mario-vs-donkey-kong-e-a-tricky-candle.json) |
 | Mario vs. Donkey Kong-e: Boo in a Box | 352406 | [352406-mario-vs-donkey-kong-e-boo-in-a-box.json](./352406-mario-vs-donkey-kong-e-boo-in-a-box.json) |
 | Mario vs. Donkey Kong-e: Egg Attack | 352402 | [352402-mario-vs-donkey-kong-e-egg-attack.json](./352402-mario-vs-donkey-kong-e-egg-attack.json) |
@@ -4978,6 +4984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Massive Assault Network 2 | 9381 | [9381-massive-assault-network-2.json](./9381-massive-assault-network-2.json) |
 | Massive Assault: Phantom Renaissance | 9380 | [9380-massive-assault-phantom-renaissance.json](./9380-massive-assault-phantom-renaissance.json) |
 | Massive Attack | 214292 | [214292-massive-attack.json](./214292-massive-attack.json) |
+| Massive Cleavage vs Zombies | 233341 | [233341-massive-cleavage-vs-zombies.json](./233341-massive-cleavage-vs-zombies.json) |
 | Massive Collapse | 420977 | [420977-massive-collapse.json](./420977-massive-collapse.json) |
 | Massive Decks | 146833 | [146833-massive-decks.json](./146833-massive-decks.json) |
 | Massive Defense | 239740 | [239740-massive-defense.json](./239740-massive-defense.json) |
