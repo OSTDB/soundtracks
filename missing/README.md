@@ -59,28 +59,28 @@ The most popular games still missing a soundtrack. Click **Add it**, fill in the
 | 45 | **The Room** | [🔎 Find on Spotify](https://open.spotify.com/search/The%20Room%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/T/11625-the-room.json) |
 | 46 | **Life is Strange: True Colors** | [🔎 Find on Spotify](https://open.spotify.com/search/Life%20is%20Strange%3A%20True%20Colors%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/L/144765-life-is-strange-true-colors.json) |
 | 47 | **Starbound** | [🔎 Find on Spotify](https://open.spotify.com/search/Starbound%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/S/3019-starbound.json) |
-| 48 | **Dead Rising 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Dead%20Rising%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/496-dead-rising-2.json) |
-| 49 | **Devil May Cry 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Devil%20May%20Cry%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/135-devil-may-cry-2.json) |
-| 50 | **Pokémon Shield** | [🔎 Find on Spotify](https://open.spotify.com/search/Pok%C3%A9mon%20Shield%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/P/115653-pokemon-shield.json) |
+| 48 | **Deadpool** | [🔎 Find on Spotify](https://open.spotify.com/search/Deadpool%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/1919-deadpool.json) |
+| 49 | **Dead Rising 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Dead%20Rising%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/496-dead-rising-2.json) |
+| 50 | **Devil May Cry 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Devil%20May%20Cry%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/135-devil-may-cry-2.json) |
 
 ## Pick a letter
 
 | **[A](./A/README.md)** | **[B](./B/README.md)** | **[C](./C/README.md)** | **[D](./D/README.md)** | **[E](./E/README.md)** | **[F](./F/README.md)** | **[G](./G/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 18383 games | 18370 games | 20917 games | 19316 games | 8426 games | 14103 games | 11512 games |
+| 18387 games | 18373 games | 20924 games | 19321 games | 8428 games | 14105 games | 11514 games |
 
 | **[H](./H/README.md)** | **[I](./I/README.md)** | **[J](./J/README.md)** | **[K](./K/README.md)** | **[L](./L/README.md)** | **[M](./M/README.md)** | **[N](./N/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 12752 games | 6913 games | 4286 games | 6458 games | 10191 games | 22194 games | 7797 games |
+| 12752 games | 6914 games | 4288 games | 6459 games | 10192 games | 22200 games | 7797 games |
 
 | **[O](./O/README.md)** | **[P](./P/README.md)** | **[Q](./Q/README.md)** | **[R](./R/README.md)** | **[S](./S/README.md)** | **[T](./T/README.md)** | **[U](./U/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 5944 games | 18875 games | 1295 games | 13141 games | 36155 games | 33437 games | 3666 games |
+| 5944 games | 18878 games | 1296 games | 13143 games | 36160 games | 33439 games | 3666 games |
 
 | **[V](./V/README.md)** | **[W](./W/README.md)** | **[X](./X/README.md)** | **[Y](./Y/README.md)** | **[Z](./Z/README.md)** | **[0-9](./0-9/README.md)** |
 | --- | --- | --- | --- | --- | --- |
-| 4285 games | 9463 games | 1088 games | 2160 games | 2631 games | 3607 games |
+| 4286 games | 9463 games | 1088 games | 2160 games | 2631 games | 3607 games |
 
 ---
 
-_317365 games missing a soundtrack · last updated 2026-11-06T18:37:57.681Z_
+_317415 games missing a soundtrack · last updated 2026-11-06T18:50:00.148Z_
