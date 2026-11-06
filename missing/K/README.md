@@ -5782,6 +5782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krazy Kreatures | 10503 | [10503-krazy-kreatures.json](./10503-krazy-kreatures.json) |
 | Kreatur Bout | 391825 | [391825-kreatur-bout.json](./391825-kreatur-bout.json) |
 | KreatureKind | 152194 | [152194-kreaturekind.json](./152194-kreaturekind.json) |
+| Krebswelte | 199142 | [199142-krebswelte.json](./199142-krebswelte.json) |
 | Kredolis | 151143 | [151143-kredolis.json](./151143-kredolis.json) |
 | Kreed | 95498 | [95498-kreed.json](./95498-kreed.json) |
 | Kreed: Battle for Savitar | 69822 | [69822-kreed-battle-for-savitar.json](./69822-kreed-battle-for-savitar.json) |
