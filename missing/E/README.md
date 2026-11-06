@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E-Commerce Simulator 2025 | 329331 | [329331-e-commerce-simulator-2025.json](./329331-e-commerce-simulator-2025.json) |
 | E-Elementals | 208436 | [208436-e-elementals.json](./208436-e-elementals.json) |
 | E-FCC | 311742 | [311742-e-fcc.json](./311742-e-fcc.json) |
+| E-Girl Next Door | 211508 | [211508-e-girl-next-door.json](./211508-e-girl-next-door.json) |
 | E-Girl RoomMate | 290908 | [290908-e-girl-roommate.json](./290908-e-girl-roommate.json) |
 | E-gon Adventures | 340538 | [340538-e-gon-adventures.json](./340538-e-gon-adventures.json) |
 | E-mail clue | 200388 | [200388-e-mail-clue.json](./200388-e-mail-clue.json) |
@@ -1184,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden Survivors | 339300 | [339300-eden-survivors.json](./339300-eden-survivors.json) |
 | Eden Tactics | 325448 | [325448-eden-tactics.json](./325448-eden-tactics.json) |
 | Eden to Greeeen | 65183 | [65183-eden-to-greeeen.json](./65183-eden-to-greeeen.json) |
+| Eden Universe | 211510 | [211510-eden-universe.json](./211510-eden-universe.json) |
 | Eden Warrior | 303506 | [303506-eden-warrior.json](./303506-eden-warrior.json) |
 | Eden: A Genesis Through Time | 290722 | [290722-eden-a-genesis-through-time.json](./290722-eden-a-genesis-through-time.json) |
 | Eden: Create World | 370423 | [370423-eden-create-world.json](./370423-eden-create-world.json) |
@@ -1464,6 +1466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Fried Rice | 307268 | [307268-egg-fried-rice.json](./307268-egg-fried-rice.json) |
 | Egg Harvester | 409637 | [409637-egg-harvester.json](./409637-egg-harvester.json) |
 | Egg Head in Space | 232317 | [232317-egg-head-in-space.json](./232317-egg-head-in-space.json) |
+| Egg Hop | 211509 | [211509-egg-hop.json](./211509-egg-hop.json) |
 | Egg Hunt | 110375 | [110375-egg-hunt.json](./110375-egg-hunt.json) |
 | Egg Hunt | 46846 | [46846-egg-hunt.json](./46846-egg-hunt.json) |
 | Egg Hunt 2026: The Grand Eggspress | 412312 | [412312-egg-hunt-2026-the-grand-eggspress.json](./412312-egg-hunt-2026-the-grand-eggspress.json) |
@@ -2344,6 +2347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental War 2 | 159268 | [159268-elemental-war-2.json](./159268-elemental-war-2.json) |
 | Elemental War Clash | 343448 | [343448-elemental-war-clash.json](./343448-elemental-war-clash.json) |
 | Elemental War: Dawn of the Crystals | 236275 | [236275-elemental-war-dawn-of-the-crystals.json](./236275-elemental-war-dawn-of-the-crystals.json) |
+| Elemental Warriors | 211506 | [211506-elemental-warriors.json](./211506-elemental-warriors.json) |
 | Elemental World | 208039 | [208039-elemental-world.json](./208039-elemental-world.json) |
 | Elemental World | 311798 | [311798-elemental-world.json](./311798-elemental-world.json) |
 | Elemental World Part 1: Rise of the Guardians | 91443 | [91443-elemental-world-part-1-rise-of-the-guardians.json](./91443-elemental-world-part-1-rise-of-the-guardians.json) |
@@ -2453,6 +2457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevator | 381324 | [381324-elevator.json](./381324-elevator.json) |
 | Elevator | 390275 | [390275-elevator.json](./390275-elevator.json) |
 | Elevator | 58300 | [58300-elevator.json](./58300-elevator.json) |
+| Elevator 500 | 211505 | [211505-elevator-500.json](./211505-elevator-500.json) |
 | Elevator Action | 276516 | [276516-elevator-action.json](./276516-elevator-action.json) |
 | Elevator Action | 307821 | [307821-elevator-action.json](./307821-elevator-action.json) |
 | Elevator Action | 51241 | [51241-elevator-action.json](./51241-elevator-action.json) |
