@@ -6859,6 +6859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not My Tempo | 408128 | [408128-not-my-tempo.json](./408128-not-my-tempo.json) |
 | Not My War | 377669 | [377669-not-my-war.json](./377669-not-my-war.json) |
 | Not Not & Not Not 2 | 353584 | [353584-not-not-and-not-not-2.json](./353584-not-not-and-not-not-2.json) |
+| Not Not 2 | 239444 | [239444-not-not-2.json](./239444-not-not-2.json) |
 | Not Not 2: A Brain Challenge - Complete Edition | 349596 | [349596-not-not-2-a-brain-challenge-complete-edition.json](./349596-not-not-2-a-brain-challenge-complete-edition.json) |
 | Not Not 2: A Brain Challenge - Golden DLC | 343730 | [343730-not-not-2-a-brain-challenge-golden-dlc.json](./343730-not-not-2-a-brain-challenge-golden-dlc.json) |
 | Not Not 2: A Brain Challenge - Platinum DLC | 343731 | [343731-not-not-2-a-brain-challenge-platinum-dlc.json](./343731-not-not-2-a-brain-challenge-platinum-dlc.json) |
