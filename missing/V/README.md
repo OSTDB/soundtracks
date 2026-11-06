@@ -2312,6 +2312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Villainy | 370562 | [370562-villainy.json](./370562-villainy.json) |
 | Villion:Code | 387425 | [387425-villion-code.json](./387425-villion-code.json) |
 | Villnoire | 143562 | [143562-villnoire.json](./143562-villnoire.json) |
+| Villwars | 203575 | [203575-villwars.json](./203575-villwars.json) |
 | Vilmonic | 33104 | [33104-vilmonic.json](./33104-vilmonic.json) |
 | Vilomah | 215672 | [215672-vilomah.json](./215672-vilomah.json) |
 | Vilovejets | 413657 | [413657-vilovejets.json](./413657-vilovejets.json) |
