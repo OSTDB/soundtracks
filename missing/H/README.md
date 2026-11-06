@@ -11072,6 +11072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoverbike Joust | 176219 | [176219-hoverbike-joust.json](./176219-hoverbike-joust.json) |
 | Hoverboard Chase | 154081 | [154081-hoverboard-chase.json](./154081-hoverboard-chase.json) |
 | Hoverboard Hero | 237381 | [237381-hoverboard-hero.json](./237381-hoverboard-hero.json) |
+| Hoverboy | 207472 | [207472-hoverboy.json](./207472-hoverboy.json) |
 | Hovercab Station | 262994 | [262994-hovercab-station.json](./262994-hovercab-station.json) |
 | Hovercars 3077: Underground racing | 192436 | [192436-hovercars-3077-underground-racing.json](./192436-hovercars-3077-underground-racing.json) |
 | HoverCraft | 249137 | [249137-hovercraft.json](./249137-hovercraft.json) |
