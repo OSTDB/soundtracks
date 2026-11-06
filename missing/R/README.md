@@ -7708,6 +7708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ripout | 150433 | [150433-ripout.json](./150433-ripout.json) |
 | Ripped Pixel Dungeon | 313945 | [313945-ripped-pixel-dungeon.json](./313945-ripped-pixel-dungeon.json) |
 | Ripped/Apart | 133397 | [133397-ripped-apart.json](./133397-ripped-apart.json) |
+| Ripper | 219371 | [219371-ripper.json](./219371-ripper.json) |
 | Ripper | 6829 | [6829-ripper.json](./6829-ripper.json) |
 | Ripper Ribbit | 130899 | [130899-ripper-ribbit.json](./130899-ripper-ribbit.json) |
 | Ripper! | 24668 | [24668-ripper.json](./24668-ripper.json) |
