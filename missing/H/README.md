@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker Evolution: Hardcore Package Part 1 | 10394 | [10394-hacker-evolution-hardcore-package-part-1.json](./10394-hacker-evolution-hardcore-package-part-1.json) |
 | Hacker Evolution: Untold | 1024 | [1024-hacker-evolution-untold.json](./1024-hacker-evolution-untold.json) |
 | Hacker II: The Doomsday Papers | 12133 | [12133-hacker-ii-the-doomsday-papers.json](./12133-hacker-ii-the-doomsday-papers.json) |
+| Hacker life simulator | 205750 | [205750-hacker-life-simulator.json](./205750-hacker-life-simulator.json) |
 | Hacker Series | 31115 | [31115-hacker-series.json](./31115-hacker-series.json) |
 | Hacker Simulator | 178337 | [178337-hacker-simulator.json](./178337-hacker-simulator.json) |
 | Hacker the Beginning | 234585 | [234585-hacker-the-beginning.json](./234585-hacker-the-beginning.json) |
@@ -4737,6 +4738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Henry's Forgotten Performance | 295778 | [295778-henrys-forgotten-performance.json](./295778-henrys-forgotten-performance.json) |
 | Henry's Hoard | 354568 | [354568-henrys-hoard.json](./354568-henrys-hoard.json) |
 | Henshin MyBro! | 338627 | [338627-henshin-mybro.json](./338627-henshin-mybro.json) |
+| Henshinko! | 205757 | [205757-henshinko.json](./205757-henshinko.json) |
 | Hent-Ai Puzzle | 303669 | [303669-hent-ai-puzzle.json](./303669-hent-ai-puzzle.json) |
 | Hentai | 55752 | [55752-hentai.json](./55752-hentai.json) |
 | Hentai 15 Puzzle 2 | 236379 | [236379-hentai-15-puzzle-2.json](./236379-hentai-15-puzzle-2.json) |
@@ -6760,6 +6762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidalgo | 314641 | [314641-hidalgo.json](./314641-hidalgo.json) |
 | Hidamari no Sanatorium | 285374 | [285374-hidamari-no-sanatorium.json](./285374-hidamari-no-sanatorium.json) |
 | Hidden | 135586 | [135586-hidden.json](./135586-hidden.json) |
+| Hidden | 205747 | [205747-hidden.json](./205747-hidden.json) |
 | Hidden | 249789 | [249789-hidden.json](./249789-hidden.json) |
 | Hidden | 356384 | [356384-hidden.json](./356384-hidden.json) |
 | Hidden & Dangerous | 294 | [294-hidden-and-dangerous.json](./294-hidden-and-dangerous.json) |
@@ -9161,6 +9164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Safety Hotline: Seasonal Worker | 317001 | [317001-home-safety-hotline-seasonal-worker.json](./317001-home-safety-hotline-seasonal-worker.json) |
 | Home Security | 109338 | [109338-home-security.json](./109338-home-security.json) |
 | Home Sheep Home: Farmageddon Party Edition | 123322 | [123322-home-sheep-home-farmageddon-party-edition.json](./123322-home-sheep-home-farmageddon-party-edition.json) |
+| Home Sick | 205749 | [205749-home-sick.json](./205749-home-sick.json) |
 | Home Simulator | 292169 | [292169-home-simulator.json](./292169-home-simulator.json) |
 | Home Snatch | 311791 | [311791-home-snatch.json](./311791-home-snatch.json) |
 | Home Solo Car Racer | 202644 | [202644-home-solo-car-racer.json](./202644-home-solo-car-racer.json) |
