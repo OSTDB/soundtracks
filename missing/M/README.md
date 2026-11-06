@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macabre Mysteries: Curse of the Nightingale | 210198 | [210198-macabre-mysteries-curse-of-the-nightingale.json](./210198-macabre-mysteries-curse-of-the-nightingale.json) |
 | Macabre no Zantou: Remnants of the Macabre | 309363 | [309363-macabre-no-zantou-remnants-of-the-macabre.json](./309363-macabre-no-zantou-remnants-of-the-macabre.json) |
 | Macabre Ring 2: Mysterious Puppeteer | 295442 | [295442-macabre-ring-2-mysterious-puppeteer.json](./295442-macabre-ring-2-mysterious-puppeteer.json) |
+| Macabre Ring: Amalia's Story | 199149 | [199149-macabre-ring-amalias-story.json](./199149-macabre-ring-amalias-story.json) |
 | Macabre Stage Vol. 1: Cursed Cartridge | 270998 | [270998-macabre-stage-vol-1-cursed-cartridge.json](./270998-macabre-stage-vol-1-cursed-cartridge.json) |
 | Macadam: Futari Yogari | 66125 | [66125-macadam-futari-yogari.json](./66125-macadam-futari-yogari.json) |
 | Macaroni Houren-sou Interactive | 234183 | [234183-macaroni-houren-sou-interactive.json](./234183-macaroni-houren-sou-interactive.json) |
@@ -16144,6 +16145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Tamer | 397604 | [397604-monster-tamer.json](./397604-monster-tamer.json) |
 | Monster Tavern | 382776 | [382776-monster-tavern.json](./382776-monster-tavern.json) |
 | Monster TD | 405047 | [405047-monster-td.json](./405047-monster-td.json) |
+| Monster Toons | 199147 | [199147-monster-toons.json](./199147-monster-toons.json) |
 | Monster Tower | 348775 | [348775-monster-tower.json](./348775-monster-tower.json) |
 | Monster Tower | 388363 | [388363-monster-tower.json](./388363-monster-tower.json) |
 | Monster Tower Quest | 234516 | [234516-monster-tower-quest.json](./234516-monster-tower-quest.json) |
@@ -16638,6 +16640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonland | 57499 | [57499-moonland.json](./57499-moonland.json) |
 | Moonlander | 9129 | [9129-moonlander.json](./9129-moonlander.json) |
 | Moonlaw | 185874 | [185874-moonlaw.json](./185874-moonlaw.json) |
+| Moonleap | 199146 | [199146-moonleap.json](./199146-moonleap.json) |
 | Moonleap 2600 | 413685 | [413685-moonleap-2600.json](./413685-moonleap-2600.json) |
 | Moonleap GBC | 390335 | [390335-moonleap-gbc.json](./390335-moonleap-gbc.json) |
 | Moonleap Maker | 412890 | [412890-moonleap-maker.json](./412890-moonleap-maker.json) |
