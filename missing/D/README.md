@@ -6418,6 +6418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Slayer Akagi | 158937 | [158937-demon-slayer-akagi.json](./158937-demon-slayer-akagi.json) |
 | Demon Slayer Rome | 420343 | [420343-demon-slayer-rome.json](./420343-demon-slayer-rome.json) |
 | Demon Slayer Shion | 266073 | [266073-demon-slayer-shion.json](./266073-demon-slayer-shion.json) |
+| Demon Slayer Tamagotchi | 230065 | [230065-demon-slayer-tamagotchi.json](./230065-demon-slayer-tamagotchi.json) |
 | Demon Slayer Tamagotchi Hashira Gathering Version | 230137 | [230137-demon-slayer-tamagotchi-hashira-gathering-version.json](./230137-demon-slayer-tamagotchi-hashira-gathering-version.json) |
 | Demon Slayer Tamagotchi Yukaku Edition | 230141 | [230141-demon-slayer-tamagotchi-yukaku-edition.json](./230141-demon-slayer-tamagotchi-yukaku-edition.json) |
 | Demon Slayer: Kimetsu no Yaiba - Keppuu Kengeki Royale | 131963 | [131963-demon-slayer-kimetsu-no-yaiba-keppuu-kengeki-royale.json](./131963-demon-slayer-kimetsu-no-yaiba-keppuu-kengeki-royale.json) |
