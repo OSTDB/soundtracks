@@ -5750,6 +5750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Spider-Man: Lethal Foes | 42403 | [42403-the-amazing-spider-man-lethal-foes.json](./42403-the-amazing-spider-man-lethal-foes.json) |
 | The Amazing Spider-Man: Ultimate Edition | 23514 | [23514-the-amazing-spider-man-ultimate-edition.json](./23514-the-amazing-spider-man-ultimate-edition.json) |
 | The Amazing Spider-Man: Web of Fire | 45882 | [45882-the-amazing-spider-man-web-of-fire.json](./45882-the-amazing-spider-man-web-of-fire.json) |
+| The Amazing Spider-Man: Webslinger | 224884 | [224884-the-amazing-spider-man-webslinger.json](./224884-the-amazing-spider-man-webslinger.json) |
 | The Amazing T.K's Suburban Nightmares | 126864 | [126864-the-amazing-t-ks-suburban-nightmares.json](./126864-the-amazing-t-ks-suburban-nightmares.json) |
 | The Amazing Universe of the Psychotrons | 315610 | [315610-the-amazing-universe-of-the-psychotrons.json](./315610-the-amazing-universe-of-the-psychotrons.json) |
 | The Amazing Virtual Sea-Monkeys | 49267 | [49267-the-amazing-virtual-sea-monkeys.json](./49267-the-amazing-virtual-sea-monkeys.json) |
@@ -11359,6 +11360,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Cookie | 228592 | [228592-the-jumping-cookie.json](./228592-the-jumping-cookie.json) |
 | The Jumping Cookie: Turbo | 228593 | [228593-the-jumping-cookie-turbo.json](./228593-the-jumping-cookie-turbo.json) |
 | The Jumping Donut | 315810 | [315810-the-jumping-donut.json](./315810-the-jumping-donut.json) |
+| The Jumping Falafel | 224918 | [224918-the-jumping-falafel.json](./224918-the-jumping-falafel.json) |
+| The Jumping Falafel: Turbo | 224919 | [224919-the-jumping-falafel-turbo.json](./224919-the-jumping-falafel-turbo.json) |
 | The Jumping Food Catcher | 378487 | [378487-the-jumping-food-catcher.json](./378487-the-jumping-food-catcher.json) |
 | The Jumping Food Delivery | 359991 | [359991-the-jumping-food-delivery.json](./359991-the-jumping-food-delivery.json) |
 | The Jumping Food Memory | 266064 | [266064-the-jumping-food-memory.json](./266064-the-jumping-food-memory.json) |
@@ -12763,6 +12766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lesser Known Cities of Europe | 142359 | [142359-the-lesser-known-cities-of-europe.json](./142359-the-lesser-known-cities-of-europe.json) |
 | The Letter | 33062 | [33062-the-letter.json](./33062-the-letter.json) |
 | The Letter That Came Over Time | 386396 | [386396-the-letter-that-came-over-time.json](./386396-the-letter-that-came-over-time.json) |
+| The Letter: Classic Edition | 224891 | [224891-the-letter-classic-edition.json](./224891-the-letter-classic-edition.json) |
 | The Levels of Backrooms | 217462 | [217462-the-levels-of-backrooms.json](./217462-the-levels-of-backrooms.json) |
 | The Leverage Game | 263103 | [263103-the-leverage-game.json](./263103-the-leverage-game.json) |
 | The Leviathan's Fantasy | 268058 | [268058-the-leviathans-fantasy.json](./268058-the-leviathans-fantasy.json) |
@@ -14201,6 +14205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nine Rebirths | 326291 | [326291-the-nine-rebirths.json](./326291-the-nine-rebirths.json) |
 | The Nine Tailed Celestial Fox | 304548 | [304548-the-nine-tailed-celestial-fox.json](./304548-the-nine-tailed-celestial-fox.json) |
 | The Ninja | 12889 | [12889-the-ninja.json](./12889-the-ninja.json) |
+| The Ninja | 224886 | [224886-the-ninja.json](./224886-the-ninja.json) |
 | The Ninja | 346067 | [346067-the-ninja.json](./346067-the-ninja.json) |
 | The Ninja Gaiden as Interpreted by MiniMacro Sound | 311650 | [311650-the-ninja-gaiden-as-interpreted-by-minimacro-sound.json](./311650-the-ninja-gaiden-as-interpreted-by-minimacro-sound.json) |
 | The Ninja Kids | 41111 | [41111-the-ninja-kids.json](./41111-the-ninja-kids.json) |
@@ -15119,6 +15124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pyro Guy | 394352 | [394352-the-pyro-guy.json](./394352-the-pyro-guy.json) |
 | The Q - Live Trivia Network | 105863 | [105863-the-q-live-trivia-network.json](./105863-the-q-live-trivia-network.json) |
 | The Qaedon Wars - The Story Begins | 110829 | [110829-the-qaedon-wars-the-story-begins.json](./110829-the-qaedon-wars-the-story-begins.json) |
+| The Qin Empire | 224895 | [224895-the-qin-empire.json](./224895-the-qin-empire.json) |
 | The Qixia Diary | 391102 | [391102-the-qixia-diary.json](./391102-the-qixia-diary.json) |
 | The Quaddle Family Mysteries 1: The Case of the Scarce Scarab - Lobby / Kitchen | 278214 | [278214-the-quaddle-family-mysteries-1-the-case-of-the-scarce-scarab-lobby-kitchen.json](./278214-the-quaddle-family-mysteries-1-the-case-of-the-scarce-scarab-lobby-kitchen.json) |
 | The Quarantine | 327118 | [327118-the-quarantine.json](./327118-the-quarantine.json) |
@@ -17618,6 +17624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tovanian Stones | 361249 | [361249-the-tovanian-stones.json](./361249-the-tovanian-stones.json) |
 | The Tower | 117455 | [117455-the-tower.json](./117455-the-tower.json) |
 | The Tower | 138180 | [138180-the-tower.json](./138180-the-tower.json) |
+| The Tower | 224892 | [224892-the-tower.json](./224892-the-tower.json) |
 | The Tower | 238604 | [238604-the-tower.json](./238604-the-tower.json) |
 | The Tower | 282089 | [282089-the-tower.json](./282089-the-tower.json) |
 | The Tower | 366928 | [366928-the-tower.json](./366928-the-tower.json) |
@@ -23696,6 +23703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Be In Love With Girls Group | 289941 | [289941-to-be-in-love-with-girls-group.json](./289941-to-be-in-love-with-girls-group.json) |
 | To be on Top | 55023 | [55023-to-be-on-top.json](./55023-to-be-on-top.json) |
 | To Be or Not to Be | 17870 | [17870-to-be-or-not-to-be.json](./17870-to-be-or-not-to-be.json) |
+| To Be or Not to Be | 224929 | [224929-to-be-or-not-to-be.json](./224929-to-be-or-not-to-be.json) |
 | To Be Seen is To Be Loved | 397947 | [397947-to-be-seen-is-to-be-loved.json](./397947-to-be-seen-is-to-be-loved.json) |
 | To Be With You | 138677 | [138677-to-be-with-you.json](./138677-to-be-with-you.json) |
 | To Be With You | 152890 | [152890-to-be-with-you.json](./152890-to-be-with-you.json) |
@@ -27442,6 +27450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tragedy at Ashville Lane | 329459 | [329459-tragedy-at-ashville-lane.json](./329459-tragedy-at-ashville-lane.json) |
 | Tragedy in Reality | 282166 | [282166-tragedy-in-reality.json](./282166-tragedy-in-reality.json) |
 | Tragedy of Loneliness | 158614 | [158614-tragedy-of-loneliness.json](./158614-tragedy-of-loneliness.json) |
+| Tragedy of Medusa | 224908 | [224908-tragedy-of-medusa.json](./224908-tragedy-of-medusa.json) |
 | Tragedy of Prince Rupert | 50891 | [50891-tragedy-of-prince-rupert.json](./50891-tragedy-of-prince-rupert.json) |
 | Tragedy Theater | 260164 | [260164-tragedy-theater.json](./260164-tragedy-theater.json) |
 | Trago | 104066 | [104066-trago.json](./104066-trago.json) |
@@ -33023,6 +33032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyfortress: Tactical Typing | 161154 | [161154-tyfortress-tactical-typing.json](./161154-tyfortress-tactical-typing.json) |
 | Tyga | 303079 | [303079-tyga.json](./303079-tyga.json) |
 | Tyke and Sons Lumber Co. | 154241 | [154241-tyke-and-sons-lumber-co.json](./154241-tyke-and-sons-lumber-co.json) |
+| Tyken | 224921 | [224921-tyken.json](./224921-tyken.json) |
 | Tyko's Dying Together | 279245 | [279245-tykos-dying-together.json](./279245-tykos-dying-together.json) |
 | Tyler | 34770 | [34770-tyler.json](./34770-tyler.json) |
 | Tyler Tactics | 236953 | [236953-tyler-tactics.json](./236953-tyler-tactics.json) |
