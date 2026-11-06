@@ -6949,6 +6949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derby Owners Club: World Edition-EX | 68103 | [68103-derby-owners-club-world-edition-ex.json](./68103-derby-owners-club-world-edition-ex.json) |
 | Derby Quest: Horse Manager HD | 246429 | [246429-derby-quest-horse-manager-hd.json](./246429-derby-quest-horse-manager-hd.json) |
 | Derby Quiz: My Dream Horse | 167093 | [167093-derby-quiz-my-dream-horse.json](./167093-derby-quiz-my-dream-horse.json) |
+| Derby Racing: Xtreme Driver | 199172 | [199172-derby-racing-xtreme-driver.json](./199172-derby-racing-xtreme-driver.json) |
 | Derby Stallion | 137021 | [137021-derby-stallion.json](./137021-derby-stallion.json) |
 | Derby Stallion | 222487 | [222487-derby-stallion.json](./222487-derby-stallion.json) |
 | Derby Stallion (Tentative Title) | 85565 | [85565-derby-stallion-tentative-title.json](./85565-derby-stallion-tentative-title.json) |
