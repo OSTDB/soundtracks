@@ -3380,6 +3380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpin' Jupiter: Prelude | 135629 | [135629-jumpin-jupiter-prelude.json](./135629-jumpin-jupiter-prelude.json) |
 | Jumpin' Kid: Jack to Mame no Ki Monogatari | 48450 | [48450-jumpin-kid-jack-to-mame-no-ki-monogatari.json](./48450-jumpin-kid-jack-to-mame-no-ki-monogatari.json) |
 | Jumping Ball | 27608 | [27608-jumping-ball.json](./27608-jumping-ball.json) |
+| Jumping Bean Jamboree | 218186 | [218186-jumping-bean-jamboree.json](./218186-jumping-bean-jamboree.json) |
 | Jumping Boy | 322415 | [322415-jumping-boy.json](./322415-jumping-boy.json) |
 | Jumping Boy | 336422 | [336422-jumping-boy.json](./336422-jumping-boy.json) |
 | Jumping Boy | 362478 | [362478-jumping-boy.json](./362478-jumping-boy.json) |
@@ -4003,6 +4004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dance 2022: Deluxe Edition | 182474 | [182474-just-dance-2022-deluxe-edition.json](./182474-just-dance-2022-deluxe-edition.json) |
 | Just Dance 2022: Ultimate Edition | 196292 | [196292-just-dance-2022-ultimate-edition.json](./196292-just-dance-2022-ultimate-edition.json) |
 | Just Dance 2023 Edition | 250330 | [250330-just-dance-2023-edition.json](./250330-just-dance-2023-edition.json) |
+| Just Dance 2023 Edition: Special Edition | 218220 | [218220-just-dance-2023-edition-special-edition.json](./218220-just-dance-2023-edition-special-edition.json) |
 | Just Dance 2024 Edition | 252986 | [252986-just-dance-2024-edition.json](./252986-just-dance-2024-edition.json) |
 | Just Dance 2024 Edition: Deluxe Edition | 272411 | [272411-just-dance-2024-edition-deluxe-edition.json](./272411-just-dance-2024-edition-deluxe-edition.json) |
 | Just Dance 2024 Edition: Ultimate Edition | 272412 | [272412-just-dance-2024-edition-ultimate-edition.json](./272412-just-dance-2024-edition-ultimate-edition.json) |
