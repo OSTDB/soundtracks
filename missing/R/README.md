@@ -1470,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raise the Dead | 37021 | [37021-raise-the-dead.json](./37021-raise-the-dead.json) |
 | Raise the Flag | 274677 | [274677-raise-the-flag.json](./274677-raise-the-flag.json) |
 | Raise Your Own Clone | 32634 | [32634-raise-your-own-clone.json](./32634-raise-your-own-clone.json) |
+| Raise Your Tribe | 197440 | [197440-raise-your-tribe.json](./197440-raise-your-tribe.json) |
 | Raise-a-Wish | 404255 | [404255-raise-a-wish.json](./404255-raise-a-wish.json) |
 | Raise, Rise & Die | 416734 | [416734-raise-rise-and-die.json](./416734-raise-rise-and-die.json) |
 | Raise: Embrace the Future | 406561 | [406561-raise-embrace-the-future.json](./406561-raise-embrace-the-future.json) |
@@ -4890,6 +4891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remain At Your Desk | 401513 | [401513-remain-at-your-desk.json](./401513-remain-at-your-desk.json) |
 | Remain on Earth | 316135 | [316135-remain-on-earth.json](./316135-remain-on-earth.json) |
 | Remaining in a Dream | 30950 | [30950-remaining-in-a-dream.json](./30950-remaining-in-a-dream.json) |
+| Remains of Morrow | 197447 | [197447-remains-of-morrow.json](./197447-remains-of-morrow.json) |
 | Remains of Yith | 340007 | [340007-remains-of-yith.json](./340007-remains-of-yith.json) |
 | Remains: Echoes of Strength | 391127 | [391127-remains-echoes-of-strength.json](./391127-remains-echoes-of-strength.json) |
 | Remake Lover | 403194 | [403194-remake-lover.json](./403194-remake-lover.json) |
@@ -11402,6 +11404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rover Mechanic Challenge: ERC Competition | 168754 | [168754-rover-mechanic-challenge-erc-competition.json](./168754-rover-mechanic-challenge-erc-competition.json) |
 | Rover Mechanic Simulator | 128193 | [128193-rover-mechanic-simulator.json](./128193-rover-mechanic-simulator.json) |
 | Rover Mechanic Simulator: Perseverance Rover | 170991 | [170991-rover-mechanic-simulator-perseverance-rover.json](./170991-rover-mechanic-simulator-perseverance-rover.json) |
+| Rover Operator | 197435 | [197435-rover-operator.json](./197435-rover-operator.json) |
 | Rover Rescue | 10787 | [10787-rover-rescue.json](./10787-rover-rescue.json) |
 | Rover Simulator | 164210 | [164210-rover-simulator.json](./164210-rover-simulator.json) |
 | Rover The Dragonslayer | 32498 | [32498-rover-the-dragonslayer.json](./32498-rover-the-dragonslayer.json) |
