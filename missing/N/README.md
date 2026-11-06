@@ -5539,6 +5539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitro Kid | 204438 | [204438-nitro-kid.json](./204438-nitro-kid.json) |
 | Nitro Nation Online | 39221 | [39221-nitro-nation-online.json](./39221-nitro-nation-online.json) |
 | Nitro Nation Stories | 39222 | [39222-nitro-nation-stories.json](./39222-nitro-nation-stories.json) |
+| Nitro Nation VR | 195834 | [195834-nitro-nation-vr.json](./195834-nitro-nation-vr.json) |
 | Nitro Nation World Tour | 261519 | [261519-nitro-nation-world-tour.json](./261519-nitro-nation-world-tour.json) |
 | Nitro Nation: Drag Racing | 233762 | [233762-nitro-nation-drag-racing.json](./233762-nitro-nation-drag-racing.json) |
 | Nitro Racers | 220452 | [220452-nitro-racers.json](./220452-nitro-racers.json) |
