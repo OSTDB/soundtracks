@@ -2815,6 +2815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Good Company | 184906 | [184906-in-good-company.json](./184906-in-good-company.json) |
 | In Harness | 369083 | [369083-in-harness.json](./369083-in-harness.json) |
 | In Hazy Clouds | 212761 | [212761-in-hazy-clouds.json](./212761-in-hazy-clouds.json) |
+| In Heat: Lustful Nights | 206316 | [206316-in-heat-lustful-nights.json](./206316-in-heat-lustful-nights.json) |
 | In Her Eyes | 130131 | [130131-in-her-eyes.json](./130131-in-her-eyes.json) |
 | In Her Footsteps | 134910 | [134910-in-her-footsteps.json](./134910-in-her-footsteps.json) |
 | In Her Head | 276846 | [276846-in-her-head.json](./276846-in-her-head.json) |
