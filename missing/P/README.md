@@ -951,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palette Swap | 163993 | [163993-palette-swap.json](./163993-palette-swap.json) |
 | Palette: Glass Shard Mosaic | 410046 | [410046-palette-glass-shard-mosaic.json](./410046-palette-glass-shard-mosaic.json) |
 | Palettopia | 410334 | [410334-palettopia.json](./410334-palettopia.json) |
+| Palhaços | 230664 | [230664-palhacos.json](./230664-palhacos.json) |
 | Palhalla | 285921 | [285921-palhalla.json](./285921-palhalla.json) |
 | Palia: The Elderwood | 348035 | [348035-palia-the-elderwood.json](./348035-palia-the-elderwood.json) |
 | Palianytsia | 351388 | [351388-palianytsia.json](./351388-palianytsia.json) |
@@ -4088,6 +4089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penrose | 262681 | [262681-penrose.json](./262681-penrose.json) |
 | Penroses | 181880 | [181880-penroses.json](./181880-penroses.json) |
 | Pensate | 117025 | [117025-pensate.json](./117025-pensate.json) |
+| Pense Bem | 230665 | [230665-pense-bem.json](./230665-pense-bem.json) |
 | Pense Bem | 305889 | [305889-pense-bem.json](./305889-pense-bem.json) |
 | Pense Bem: animais | 305878 | [305878-pense-bem-animais.json](./305878-pense-bem-animais.json) |
 | Pense Bem: Artes | 305879 | [305879-pense-bem-artes.json](./305879-pense-bem-artes.json) |
