@@ -723,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanji de Go Go! | 408220 | [408220-kanji-de-go-go.json](./408220-kanji-de-go-go.json) |
 | Kanji de Go! | 323962 | [323962-kanji-de-go.json](./323962-kanji-de-go.json) |
 | Kanji de Go! Shueisha Manga-sai | 329228 | [329228-kanji-de-go-shueisha-manga-sai.json](./329228-kanji-de-go-shueisha-manga-sai.json) |
+| Kanji Drive | 231154 | [231154-kanji-drive.json](./231154-kanji-drive.json) |
 | Kanji Drop | 375912 | [375912-kanji-drop.json](./375912-kanji-drop.json) |
 | Kanji Gakusei | 170043 | [170043-kanji-gakusei.json](./170043-kanji-gakusei.json) |
 | Kanji in Motion | 368288 | [368288-kanji-in-motion.json](./368288-kanji-in-motion.json) |
@@ -862,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karakara 2 | 75797 | [75797-karakara-2.json](./75797-karakara-2.json) |
 | Karakia Shooter | 158139 | [158139-karakia-shooter.json](./158139-karakia-shooter.json) |
 | Karakuri Colosseum | 276216 | [276216-karakuri-colosseum.json](./276216-karakuri-colosseum.json) |
+| Karakuri Kengeki | 231153 | [231153-karakuri-kengeki.json](./231153-karakuri-kengeki.json) |
 | Karakuri Kengou Den Musashi Lord | 65436 | [65436-karakuri-kengou-den-musashi-lord.json](./65436-karakuri-kengou-den-musashi-lord.json) |
 | Karakuri Kengou Den Musashi Lord: Karakuri-jin Hashiru! | 48442 | [48442-karakuri-kengou-den-musashi-lord-karakuri-jin-hashiru.json](./48442-karakuri-kengou-den-musashi-lord-karakuri-jin-hashiru.json) |
 | Karakuri Kengou-den: Musashi Road - Harikiri Daishuugyou! | 346027 | [346027-karakuri-kengou-den-musashi-road-harikiri-daishuugyou.json](./346027-karakuri-kengou-den-musashi-road-harikiri-daishuugyou.json) |
@@ -2796,7 +2798,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3237,6 +3238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Game 2 | 416753 | [416753-kings-game-2.json](./416753-kings-game-2.json) |
 | King's Guard | 345539 | [345539-kings-guard.json](./345539-kings-guard.json) |
 | King's Guard TD | 32750 | [32750-kings-guard-td.json](./32750-kings-guard-td.json) |
+| King's Hand | 231152 | [231152-kings-hand.json](./231152-kings-hand.json) |
 | King's Hand | 385375 | [385375-kings-hand.json](./385375-kings-hand.json) |
 | King's Hand: Exotic Purgatory Pack | 230919 | [230919-kings-hand-exotic-purgatory-pack.json](./230919-kings-hand-exotic-purgatory-pack.json) |
 | King's Hand: Exotic Zeus Pack | 230920 | [230920-kings-hand-exotic-zeus-pack.json](./230920-kings-hand-exotic-zeus-pack.json) |
