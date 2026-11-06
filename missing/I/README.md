@@ -3853,7 +3853,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4290,6 +4289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InMomentum | 10435 | [10435-inmomentum.json](./10435-inmomentum.json) |
 | Inmortis | 122708 | [122708-inmortis.json](./122708-inmortis.json) |
 | Inn Hand | 325865 | [325865-inn-hand.json](./325865-inn-hand.json) |
+| Inn Keeper | 210335 | [210335-inn-keeper.json](./210335-inn-keeper.json) |
 | Inn Kreeper | 424018 | [424018-inn-kreeper.json](./424018-inn-kreeper.json) |
 | Inn Legend | 169604 | [169604-inn-legend.json](./169604-inn-legend.json) |
 | Inn Mage | 156608 | [156608-inn-mage.json](./156608-inn-mage.json) |
