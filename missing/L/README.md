@@ -1408,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Night in Church | 419133 | [419133-last-night-in-church.json](./419133-last-night-in-church.json) |
 | Last Night in Zombie Village | 231182 | [231182-last-night-in-zombie-village.json](./231182-last-night-in-zombie-village.json) |
 | Last Night of Winter | 154024 | [154024-last-night-of-winter.json](./154024-last-night-of-winter.json) |
+| Last Night on Actaeon | 237141 | [237141-last-night-on-actaeon.json](./237141-last-night-on-actaeon.json) |
 | Last Night Shift | 273471 | [273471-last-night-shift.json](./273471-last-night-shift.json) |
 | Last Ninja 2: Back with a Vengeance | 8401 | [8401-last-ninja-2-back-with-a-vengeance.json](./8401-last-ninja-2-back-with-a-vengeance.json) |
 | Last Ninja 3 | 8403 | [8403-last-ninja-3.json](./8403-last-ninja-3.json) |
@@ -8977,6 +8978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovingly Evil | 137879 | [137879-lovingly-evil.json](./137879-lovingly-evil.json) |
 | Lovish | 319894 | [319894-lovish.json](./319894-lovish.json) |
 | Lovixsama Sokoban Bundle | 168548 | [168548-lovixsama-sokoban-bundle.json](./168548-lovixsama-sokoban-bundle.json) |
+| Lovux | 237132 | [237132-lovux.json](./237132-lovux.json) |
 | Low and Furious | 270569 | [270569-low-and-furious.json](./270569-low-and-furious.json) |
 | Low Batt | 315222 | [315222-low-batt.json](./315222-low-batt.json) |
 | Low Battery | 354408 | [354408-low-battery.json](./354408-low-battery.json) |
