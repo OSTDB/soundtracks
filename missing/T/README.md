@@ -1146,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Arise: Premium Edition | 146339 | [146339-tales-of-arise-premium-edition.json](./146339-tales-of-arise-premium-edition.json) |
 | Tales of Arise: SAO Collaboration Pack | 259813 | [259813-tales-of-arise-sao-collaboration-pack.json](./259813-tales-of-arise-sao-collaboration-pack.json) |
 | Tales of Arise: Ultimate Edition | 169244 | [169244-tales-of-arise-ultimate-edition.json](./169244-tales-of-arise-ultimate-edition.json) |
+| Tales of Arise: Warring States Outfits Triple Pack - Female | 225474 | [225474-tales-of-arise-warring-states-outfits-triple-pack-female.json](./225474-tales-of-arise-warring-states-outfits-triple-pack-female.json) |
 | Tales of Asteria | 61863 | [61863-tales-of-asteria.json](./61863-tales-of-asteria.json) |
 | Tales of Autumn | 199753 | [199753-tales-of-autumn.json](./199753-tales-of-autumn.json) |
 | Tales of Beasteria | 127249 | [127249-tales-of-beasteria.json](./127249-tales-of-beasteria.json) |
@@ -3484,6 +3485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekkai Jousai no Haika | 398975 | [398975-tekkai-jousai-no-haika.json](./398975-tekkai-jousai-no-haika.json) |
 | Tekkaman Blade | 49135 | [49135-tekkaman-blade.json](./49135-tekkaman-blade.json) |
 | Tekken | 1242 | [1242-tekken.json](./1242-tekken.json) |
+| Tekken 2 | 225422 | [225422-tekken-2.json](./225422-tekken-2.json) |
 | Tekken 2 | 248207 | [248207-tekken-2.json](./248207-tekken-2.json) |
 | Tekken 2 / Soul Blade | 382530 | [382530-tekken-2-soul-blade.json](./382530-tekken-2-soul-blade.json) |
 | Tekken 3 | 369999 | [369999-tekken-3.json](./369999-tekken-3.json) |
@@ -16411,6 +16413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Cozy Bistro Kit | 303888 | [303888-the-sims-4-cozy-bistro-kit.json](./303888-the-sims-4-cozy-bistro-kit.json) |
 | The Sims 4: Cozy Kitsch Kit | 330389 | [330389-the-sims-4-cozy-kitsch-kit.json](./330389-the-sims-4-cozy-kitsch-kit.json) |
 | The Sims 4: Decor to the Max Kit | 195598 | [195598-the-sims-4-decor-to-the-max-kit.json](./195598-the-sims-4-decor-to-the-max-kit.json) |
+| The Sims 4: Decorator's Dream Bundle | 225466 | [225466-the-sims-4-decorators-dream-bundle.json](./225466-the-sims-4-decorators-dream-bundle.json) |
 | The Sims 4: Deluxe Party Edition | 85510 | [85510-the-sims-4-deluxe-party-edition.json](./85510-the-sims-4-deluxe-party-edition.json) |
 | The Sims 4: Desert Luxe Kit | 217801 | [217801-the-sims-4-desert-luxe-kit.json](./217801-the-sims-4-desert-luxe-kit.json) |
 | The Sims 4: Dine Out | 24373 | [24373-the-sims-4-dine-out.json](./24373-the-sims-4-dine-out.json) |
@@ -16420,6 +16423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Enchanted by Nature | 350995 | [350995-the-sims-4-enchanted-by-nature.json](./350995-the-sims-4-enchanted-by-nature.json) |
 | The Sims 4: Essential Glam Kit | 362300 | [362300-the-sims-4-essential-glam-kit.json](./362300-the-sims-4-essential-glam-kit.json) |
 | The Sims 4: Everyday Clutter Kit | 226792 | [226792-the-sims-4-everyday-clutter-kit.json](./226792-the-sims-4-everyday-clutter-kit.json) |
+| The Sims 4: Everyday Sims Bundle | 225463 | [225463-the-sims-4-everyday-sims-bundle.json](./225463-the-sims-4-everyday-sims-bundle.json) |
 | The Sims 4: Everyday Stuff Bundle | 159341 | [159341-the-sims-4-everyday-stuff-bundle.json](./159341-the-sims-4-everyday-stuff-bundle.json) |
 | The Sims 4: Extreme Violence | 259250 | [259250-the-sims-4-extreme-violence.json](./259250-the-sims-4-extreme-violence.json) |
 | The Sims 4: Fashion Street Kit | 178213 | [178213-the-sims-4-fashion-street-kit.json](./178213-the-sims-4-fashion-street-kit.json) |
@@ -16470,6 +16474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Party Essentials Kit | 296899 | [296899-the-sims-4-party-essentials-kit.json](./296899-the-sims-4-party-essentials-kit.json) |
 | The Sims 4: Pastel Pop Kit | 226791 | [226791-the-sims-4-pastel-pop-kit.json](./226791-the-sims-4-pastel-pop-kit.json) |
 | The Sims 4: Perfect Patio Stuff | 13148 | [13148-the-sims-4-perfect-patio-stuff.json](./13148-the-sims-4-perfect-patio-stuff.json) |
+| The Sims 4: Pet Lovers Bundle | 225465 | [225465-the-sims-4-pet-lovers-bundle.json](./225465-the-sims-4-pet-lovers-bundle.json) |
 | The Sims 4: Plus Cats & Dogs Bundle | 136109 | [136109-the-sims-4-plus-cats-and-dogs-bundle.json](./136109-the-sims-4-plus-cats-and-dogs-bundle.json) |
 | The Sims 4: Plus Eco Lifestyle Bundle | 166308 | [166308-the-sims-4-plus-eco-lifestyle-bundle.json](./166308-the-sims-4-plus-eco-lifestyle-bundle.json) |
 | The Sims 4: Plus Island Living Bundle | 136201 | [136201-the-sims-4-plus-island-living-bundle.json](./136201-the-sims-4-plus-island-living-bundle.json) |
@@ -19507,6 +19512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | These Robotic Hearts of Mine | 22920 | [22920-these-robotic-hearts-of-mine.json](./22920-these-robotic-hearts-of-mine.json) |
 | These Starless Skies | 409594 | [409594-these-starless-skies.json](./409594-these-starless-skies.json) |
 | These Thieving Hearts | 289966 | [289966-these-thieving-hearts.json](./289966-these-thieving-hearts.json) |
+| These Trees Are Spectral Fingers | 225450 | [225450-these-trees-are-spectral-fingers.json](./225450-these-trees-are-spectral-fingers.json) |
 | These Waves of Girls | 393842 | [393842-these-waves-of-girls.json](./393842-these-waves-of-girls.json) |
 | Theseis | 92339 | [92339-theseis.json](./92339-theseis.json) |
 | Theseus | 139912 | [139912-theseus.json](./139912-theseus.json) |
@@ -27298,6 +27304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tracks: The Train Set Game | 39748 | [39748-tracks-the-train-set-game.json](./39748-tracks-the-train-set-game.json) |
 | Tracks: The Train Set Game - Sci-Fi Pack | 225481 | [225481-tracks-the-train-set-game-sci-fi-pack.json](./225481-tracks-the-train-set-game-sci-fi-pack.json) |
 | Tracks: The Train Set Game - Suburban Pack | 225482 | [225482-tracks-the-train-set-game-suburban-pack.json](./225482-tracks-the-train-set-game-suburban-pack.json) |
+| Tracks: The Train Set Game - Toybox Bundle | 225458 | [225458-tracks-the-train-set-game-toybox-bundle.json](./225458-tracks-the-train-set-game-toybox-bundle.json) |
 | Tracks: Toybox Edition | 139928 | [139928-tracks-toybox-edition.json](./139928-tracks-toybox-edition.json) |
 | Tracksuit Manager | 74027 | [74027-tracksuit-manager.json](./74027-tracksuit-manager.json) |
 | Tracktopia | 333628 | [333628-tracktopia.json](./333628-tracktopia.json) |
