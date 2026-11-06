@@ -1862,7 +1862,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Battle: Blitzkrieg | 31041 | [31041-tank-battle-blitzkrieg.json](./31041-tank-battle-blitzkrieg.json) |
 | Tank Battle: East Front | 29059 | [29059-tank-battle-east-front.json](./29059-tank-battle-east-front.json) |
 | Tank Battle: East Front 1941 | 197886 | [197886-tank-battle-east-front-1941.json](./197886-tank-battle-east-front-1941.json) |
+| Tank Battle: East Front 1942 | 200234 | [200234-tank-battle-east-front-1942.json](./200234-tank-battle-east-front-1942.json) |
 | Tank Battle: East Front 1943 | 175335 | [175335-tank-battle-east-front-1943.json](./175335-tank-battle-east-front-1943.json) |
+| Tank Battle: East Front 1944 | 200227 | [200227-tank-battle-east-front-1944.json](./200227-tank-battle-east-front-1944.json) |
 | Tank Battle: Mini War | 200278 | [200278-tank-battle-mini-war.json](./200278-tank-battle-mini-war.json) |
 | Tank Battle: Normandy | 46849 | [46849-tank-battle-normandy.json](./46849-tank-battle-normandy.json) |
 | Tank Battle: North Africa | 32775 | [32775-tank-battle-north-africa.json](./32775-tank-battle-north-africa.json) |
@@ -2416,6 +2418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TapLab | 233088 | [233088-taplab.json](./233088-taplab.json) |
 | TapMan | 302993 | [302993-tapman.json](./302993-tapman.json) |
 | TapMazing | 372046 | [372046-tapmazing.json](./372046-tapmazing.json) |
+| TapMon Battle | 200257 | [200257-tapmon-battle.json](./200257-tapmon-battle.json) |
 | Tapnimals | 102687 | [102687-tapnimals.json](./102687-tapnimals.json) |
 | Tapocalypse | 30141 | [30141-tapocalypse.json](./30141-tapocalypse.json) |
 | Tapper | 307534 | [307534-tapper.json](./307534-tapper.json) |
@@ -4114,6 +4117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis On-Court | 253174 | [253174-tennis-on-court.json](./253174-tennis-on-court.json) |
 | Tennis Online Duel | 234241 | [234241-tennis-online-duel.json](./234241-tennis-online-duel.json) |
 | Tennis Open 2020 | 147604 | [147604-tennis-open-2020.json](./147604-tennis-open-2020.json) |
+| Tennis Pong! | 200229 | [200229-tennis-pong.json](./200229-tennis-pong.json) |
 | Tennis Pro '92 | 57387 | [57387-tennis-pro-92.json](./57387-tennis-pro-92.json) |
 | Tennis Pro Tour | 372190 | [372190-tennis-pro-tour.json](./372190-tennis-pro-tour.json) |
 | Tennis Pro Tournaments | 274737 | [274737-tennis-pro-tournaments.json](./274737-tennis-pro-tournaments.json) |
@@ -9899,6 +9903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game That Was Stolen From Me at Indiecade2019 | 396233 | [396233-the-game-that-was-stolen-from-me-at-indiecade2019.json](./396233-the-game-that-was-stolen-from-me-at-indiecade2019.json) |
 | The Game We All Have to Play | 129011 | [129011-the-game-we-all-have-to-play.json](./129011-the-game-we-all-have-to-play.json) |
 | The Game With No Name | 73673 | [73673-the-game-with-no-name.json](./73673-the-game-with-no-name.json) |
+| The Game: Play ... as long as you can! | 200251 | [200251-the-game-play-as-long-as-you-can.json](./200251-the-game-play-as-long-as-you-can.json) |
 | The Game: The Game | 393488 | [393488-the-game-the-game.json](./393488-the-game-the-game.json) |
 | The Games '92: España | 96508 | [96508-the-games-92-espana.json](./96508-the-games-92-espana.json) |
 | The Games People Play: Gin, Cribbage, Checkers, and Backgammon | 69927 | [69927-the-games-people-play-gin-cribbage-checkers-and-backgammon.json](./69927-the-games-people-play-gin-cribbage-checkers-and-backgammon.json) |
@@ -15290,12 +15295,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quest of Merravid | 12961 | [12961-the-quest-of-merravid.json](./12961-the-quest-of-merravid.json) |
 | The Quest of the Tiny Hero | 275134 | [275134-the-quest-of-the-tiny-hero.json](./275134-the-quest-of-the-tiny-hero.json) |
 | The Quest Trio | 124083 | [124083-the-quest-trio.json](./124083-the-quest-trio.json) |
+| The Quest: Asteroids | 200223 | [200223-the-quest-asteroids.json](./200223-the-quest-asteroids.json) |
 | The Quest: Caeworn Castle | 111332 | [111332-the-quest-caeworn-castle.json](./111332-the-quest-caeworn-castle.json) |
+| The Quest: Curse of Linmore | 200212 | [200212-the-quest-curse-of-linmore.json](./200212-the-quest-curse-of-linmore.json) |
 | The Quest: Deluxe Edition | 53770 | [53770-the-quest-deluxe-edition.json](./53770-the-quest-deluxe-edition.json) |
+| The Quest: Hero of Lukomorye II | 200222 | [200222-the-quest-hero-of-lukomorye-ii.json](./200222-the-quest-hero-of-lukomorye-ii.json) |
 | The Quest: Hero of Lukomorye IV | 205602 | [205602-the-quest-hero-of-lukomorye-iv.json](./205602-the-quest-hero-of-lukomorye-iv.json) |
 | The Quest: Hero of Lukomorye V | 200205 | [200205-the-quest-hero-of-lukomorye-v.json](./200205-the-quest-hero-of-lukomorye-v.json) |
 | The Quest: Islands of Ice and Fire | 154509 | [154509-the-quest-islands-of-ice-and-fire.json](./154509-the-quest-islands-of-ice-and-fire.json) |
 | The Quest: Macha's Curse | 90810 | [90810-the-quest-machas-curse.json](./90810-the-quest-machas-curse.json) |
+| The Quest: Mithril Horde | 200224 | [200224-the-quest-mithril-horde.json](./200224-the-quest-mithril-horde.json) |
 | The Quest: Mithril Horde II | 245179 | [245179-the-quest-mithril-horde-ii.json](./245179-the-quest-mithril-horde-ii.json) |
 | The Quest: Thor's Hammer | 36959 | [36959-the-quest-thors-hammer.json](./36959-the-quest-thors-hammer.json) |
 | The Questing | 204182 | [204182-the-questing.json](./204182-the-questing.json) |
@@ -15700,6 +15709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Roast: Coffee Shop Simulator | 350012 | [350012-the-roast-coffee-shop-simulator.json](./350012-the-roast-coffee-shop-simulator.json) |
 | The Robolovers | 172707 | [172707-the-robolovers.json](./172707-the-robolovers.json) |
 | The Robot Club | 67096 | [67096-the-robot-club.json](./67096-the-robot-club.json) |
+| The Robot Factory | 200240 | [200240-the-robot-factory.json](./200240-the-robot-factory.json) |
 | The Robot Girl Meets the Human! | 202486 | [202486-the-robot-girl-meets-the-human.json](./202486-the-robot-girl-meets-the-human.json) |
 | THE Robot Tsukurou Ze! | 69149 | [69149-the-robot-tsukurou-ze.json](./69149-the-robot-tsukurou-ze.json) |
 | The Roc | 220512 | [220512-the-roc.json](./220512-the-roc.json) |
@@ -20029,6 +20039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is a Refuge | 226419 | [226419-this-is-a-refuge.json](./226419-this-is-a-refuge.json) |
 | This is a Small Town | 260557 | [260557-this-is-a-small-town.json](./260557-this-is-a-small-town.json) |
 | This Is a Square! | 292931 | [292931-this-is-a-square.json](./292931-this-is-a-square.json) |
+| This Is a True Story | 200242 | [200242-this-is-a-true-story.json](./200242-this-is-a-true-story.json) |
 | This is a Work of Fiction | 242780 | [242780-this-is-a-work-of-fiction.json](./242780-this-is-a-work-of-fiction.json) |
 | This is Adam | 384560 | [384560-this-is-adam.json](./384560-this-is-adam.json) |
 | This Is Crying | 253127 | [253127-this-is-crying.json](./253127-this-is-crying.json) |
