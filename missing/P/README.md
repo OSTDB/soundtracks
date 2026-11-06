@@ -4797,6 +4797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PET Panic! | 290656 | [290656-pet-panic.json](./290656-pet-panic.json) |
 | Pet Paradise Story | 232171 | [232171-pet-paradise-story.json](./232171-pet-paradise-story.json) |
 | Pet Party | 115541 | [115541-pet-party.json](./115541-pet-party.json) |
+| Pet Pat | 221568 | [221568-pet-pat.json](./221568-pet-pat.json) |
 | Pet Peaves Monsters | 232168 | [232168-pet-peaves-monsters.json](./232168-pet-peaves-monsters.json) |
 | Pet Puzzle | 119025 | [119025-pet-puzzle.json](./119025-pet-puzzle.json) |
 | Pet Rescue Saga | 60077 | [60077-pet-rescue-saga.json](./60077-pet-rescue-saga.json) |
@@ -11175,6 +11176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Medallion Battle | 253683 | [253683-pokemon-medallion-battle.json](./253683-pokemon-medallion-battle.json) |
 | Pokémon Mega Evolution Aquamarine | 300428 | [300428-pokemon-mega-evolution-aquamarine.json](./300428-pokemon-mega-evolution-aquamarine.json) |
 | Pokémon Mega Get! | 59116 | [59116-pokemon-mega-get.json](./59116-pokemon-mega-get.json) |
+| Pokémon Mega Power | 221566 | [221566-pokemon-mega-power.json](./221566-pokemon-mega-power.json) |
 | Pokémon Mezastar | 253787 | [253787-pokemon-mezastar.json](./253787-pokemon-mezastar.json) |
 | Pokémon Mini Ambulation | 392331 | [392331-pokemon-mini-ambulation.json](./392331-pokemon-mini-ambulation.json) |
 | Pokémon Mini: Snorlax's Lunch Time | 144721 | [144721-pokemon-mini-snorlaxs-lunch-time.json](./144721-pokemon-mini-snorlaxs-lunch-time.json) |
@@ -11183,6 +11185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Modern Emerald | 283549 | [283549-pokemon-modern-emerald.json](./283549-pokemon-modern-emerald.json) |
 | Pokémon Moemon Emerald Version | 229058 | [229058-pokemon-moemon-emerald-version.json](./229058-pokemon-moemon-emerald-version.json) |
 | Pokémon Monomyth | 413611 | [413611-pokemon-monomyth.json](./413611-pokemon-monomyth.json) |
+| Pokémon Moon Black 2 | 221577 | [221577-pokemon-moon-black-2.json](./221577-pokemon-moon-black-2.json) |
 | Pokémon Mundo Misterioso: Relatos de una Phione | 241777 | [241777-pokemon-mundo-misterioso-relatos-de-una-phione.json](./241777-pokemon-mundo-misterioso-relatos-de-una-phione.json) |
 | Pokémon My Ass | 282740 | [282740-pokemon-my-ass.json](./282740-pokemon-my-ass.json) |
 | Pokémon Mystery Dungeon: Blue Rescue Team | 2320 | [2320-pokemon-mystery-dungeon-blue-rescue-team.json](./2320-pokemon-mystery-dungeon-blue-rescue-team.json) |
