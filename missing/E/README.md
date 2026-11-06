@@ -6775,6 +6775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evergreen: Cacti Expansion | 298326 | [298326-evergreen-cacti-expansion.json](./298326-evergreen-cacti-expansion.json) |
 | Evergreen: Mountain Life Simulator | 217252 | [217252-evergreen-mountain-life-simulator.json](./217252-evergreen-mountain-life-simulator.json) |
 | Evergreen: Pines Expansion | 298325 | [298325-evergreen-pines-expansion.json](./298325-evergreen-pines-expansion.json) |
+| Evergrow: Paper Forest | 200247 | [200247-evergrow-paper-forest.json](./200247-evergrow-paper-forest.json) |
 | Evergrow: Shards of Tomorrow | 337998 | [337998-evergrow-shards-of-tomorrow.json](./337998-evergrow-shards-of-tomorrow.json) |
 | Everguest: The Veiled Inn | 414751 | [414751-everguest-the-veiled-inn.json](./414751-everguest-the-veiled-inn.json) |
 | Everhaven | 311063 | [311063-everhaven.json](./311063-everhaven.json) |
