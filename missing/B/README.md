@@ -2082,6 +2082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bangai-O | 3443 | [3443-bangai-o.json](./3443-bangai-o.json) |
 | Bangai-O HD | 21783 | [21783-bangai-o-hd.json](./21783-bangai-o-hd.json) |
 | Bangai-O HD: Missile Fury | 91845 | [91845-bangai-o-hd-missile-fury.json](./91845-bangai-o-hd-missile-fury.json) |
+| Bangalore Auto | 239991 | [239991-bangalore-auto.json](./239991-bangalore-auto.json) |
 | BangBang PewPew | 193484 | [193484-bangbang-pewpew.json](./193484-bangbang-pewpew.json) |
 | BangBangShooting | 151141 | [151141-bangbangshooting.json](./151141-bangbangshooting.json) |
 | Banger Racer | 13373 | [13373-banger-racer.json](./13373-banger-racer.json) |
