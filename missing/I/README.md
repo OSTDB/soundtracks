@@ -3124,6 +3124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incog-Confine | 405846 | [405846-incog-confine.json](./405846-incog-confine.json) |
 | Incognito | 35782 | [35782-incognito.json](./35782-incognito.json) |
 | Incoherence | 207654 | [207654-incoherence.json](./207654-incoherence.json) |
+| Incoherence | 207994 | [207994-incoherence.json](./207994-incoherence.json) |
 | Incoherence | 277649 | [277649-incoherence.json](./277649-incoherence.json) |
 | Incoherence | 291573 | [291573-incoherence.json](./291573-incoherence.json) |
 | Incoherence: Dark Rooms | 380234 | [380234-incoherence-dark-rooms.json](./380234-incoherence-dark-rooms.json) |
@@ -3853,7 +3854,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
