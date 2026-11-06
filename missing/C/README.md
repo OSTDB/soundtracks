@@ -567,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call from the Abyss | 291179 | [291179-call-from-the-abyss.json](./291179-call-from-the-abyss.json) |
 | Call From the Darkness | 337465 | [337465-call-from-the-darkness.json](./337465-call-from-the-darkness.json) |
 | Call fur Help | 271647 | [271647-call-fur-help.json](./271647-call-fur-help.json) |
+| Call Hating | 207483 | [207483-call-hating.json](./207483-call-hating.json) |
 | Call Hating 2000 | 290497 | [290497-call-hating-2000.json](./290497-call-hating-2000.json) |
 | Call Me Cera | 163982 | [163982-call-me-cera.json](./163982-call-me-cera.json) |
 | Call Me Emperor | 221961 | [221961-call-me-emperor.json](./221961-call-me-emperor.json) |
@@ -2060,6 +2061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CapybaRun | 250739 | [250739-capybarun.json](./250739-capybarun.json) |
 | CapyBash | 392081 | [392081-capybash.json](./392081-capybash.json) |
 | Capybro | 263945 | [263945-capybro.json](./263945-capybro.json) |
+| Capytales: A Folk Adventure | 207482 | [207482-capytales-a-folk-adventure.json](./207482-capytales-a-folk-adventure.json) |
 | Capytopia | 248976 | [248976-capytopia.json](./248976-capytopia.json) |
 | Capyvarias | 390806 | [390806-capyvarias.json](./390806-capyvarias.json) |
 | Capyverse Odyssey | 379607 | [379607-capyverse-odyssey.json](./379607-capyverse-odyssey.json) |
@@ -5158,6 +5160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celebrity Smackdown | 389039 | [389039-celebrity-smackdown.json](./389039-celebrity-smackdown.json) |
 | Celebrity Sports Showdown | 4753 | [4753-celebrity-sports-showdown.json](./4753-celebrity-sports-showdown.json) |
 | Celephaïs Dead Cities | 373664 | [373664-celephais-dead-cities.json](./373664-celephais-dead-cities.json) |
+| Celeritas | 207487 | [207487-celeritas.json](./207487-celeritas.json) |
 | Celerity | 183396 | [183396-celerity.json](./183396-celerity.json) |
 | Celerity | 185903 | [185903-celerity.json](./185903-celerity.json) |
 | Celeros | 294351 | [294351-celeros.json](./294351-celeros.json) |
@@ -7454,6 +7457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimeras: Tune of Revenge | 63816 | [63816-chimeras-tune-of-revenge.json](./63816-chimeras-tune-of-revenge.json) |
 | Chimeras: Tune of Revenge - Collector's Edition | 30263 | [30263-chimeras-tune-of-revenge-collectors-edition.json](./30263-chimeras-tune-of-revenge-collectors-edition.json) |
 | Chimeras: Wailing Waters | 187915 | [187915-chimeras-wailing-waters.json](./187915-chimeras-wailing-waters.json) |
+| Chimeras: Wailing Waters - Collector's Edition | 207552 | [207552-chimeras-wailing-waters-collectors-edition.json](./207552-chimeras-wailing-waters-collectors-edition.json) |
 | Chimeras: What Wishes May Come | 187906 | [187906-chimeras-what-wishes-may-come.json](./187906-chimeras-what-wishes-may-come.json) |
 | Chimeras: What Wishes May Come - Collector's Edition | 166813 | [166813-chimeras-what-wishes-may-come-collectors-edition.json](./166813-chimeras-what-wishes-may-come-collectors-edition.json) |
 | Chimes: A Kinetic Novel | 184102 | [184102-chimes-a-kinetic-novel.json](./184102-chimes-a-kinetic-novel.json) |
@@ -7800,6 +7804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chonka | 142212 | [142212-chonka.json](./142212-chonka.json) |
 | Chonkers | 324792 | [324792-chonkers.json](./324792-chonkers.json) |
 | Chonky Cat | 407703 | [407703-chonky-cat.json](./407703-chonky-cat.json) |
+| Chonky: From Breakfast to Domination | 207492 | [207492-chonky-from-breakfast-to-domination.json](./207492-chonky-from-breakfast-to-domination.json) |
 | Chonkymon | 149035 | [149035-chonkymon.json](./149035-chonkymon.json) |
 | Choo Choo Crossing | 278722 | [278722-choo-choo-crossing.json](./278722-choo-choo-crossing.json) |
 | Choo Choo Minder | 252988 | [252988-choo-choo-minder.json](./252988-choo-choo-minder.json) |
@@ -18515,6 +18520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptical Path | 270542 | [270542-cryptical-path.json](./270542-cryptical-path.json) |
 | Cryptid | 253569 | [253569-cryptid.json](./253569-cryptid.json) |
 | Cryptid | 327188 | [327188-cryptid.json](./327188-cryptid.json) |
+| Cryptid Coffeehouse | 207474 | [207474-cryptid-coffeehouse.json](./207474-cryptid-coffeehouse.json) |
 | Cryptid Courting | 184901 | [184901-cryptid-courting.json](./184901-cryptid-courting.json) |
 | Cryptid Crew | 169634 | [169634-cryptid-crew.json](./169634-cryptid-crew.json) |
 | Cryptid Engine | 348861 | [348861-cryptid-engine.json](./348861-cryptid-engine.json) |
