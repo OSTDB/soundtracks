@@ -9191,6 +9191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercury Prime | 157675 | [157675-mercury-prime.json](./157675-mercury-prime.json) |
 | Mercury Race | 93733 | [93733-mercury-race.json](./93733-mercury-race.json) |
 | Mercury Rising | 332809 | [332809-mercury-rising.json](./332809-mercury-rising.json) |
+| Mercury Station | 232234 | [232234-mercury-station.json](./232234-mercury-station.json) |
 | Mercury: Cascade into Madness | 52257 | [52257-mercury-cascade-into-madness.json](./52257-mercury-cascade-into-madness.json) |
 | Mercy | 94470 | [94470-mercy.json](./94470-mercy.json) |
 | Mercy Incore | 388387 | [388387-mercy-incore.json](./388387-mercy-incore.json) |
@@ -9878,6 +9879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metaphysics | 313951 | [313951-metaphysics.json](./313951-metaphysics.json) |
 | Metapilot | 209476 | [209476-metapilot.json](./209476-metapilot.json) |
 | Metaplace | 78077 | [78077-metaplace.json](./78077-metaplace.json) |
+| Metarails | 232249 | [232249-metarails.json](./232249-metarails.json) |
 | Metarun | 234754 | [234754-metarun.json](./234754-metarun.json) |
 | MetaShooter | 211673 | [211673-metashooter.json](./211673-metashooter.json) |
 | MetaShot Smart Cricket | 395453 | [395453-metashot-smart-cricket.json](./395453-metashot-smart-cricket.json) |
@@ -11724,6 +11726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millionaire Manor, Robin's Quest, Escape the Lost Kingdom and the Hidden Object Show 2 | 209510 | [209510-millionaire-manor-robins-quest-escape-the-lost-kingdom-and-the-hidden-object-show-2.json](./209510-millionaire-manor-robins-quest-escape-the-lost-kingdom-and-the-hidden-object-show-2.json) |
 | Millionaire Obby | 401099 | [401099-millionaire-obby.json](./401099-millionaire-obby.json) |
 | Millionaire Quiz: Trivia Game | 415265 | [415265-millionaire-quiz-trivia-game.json](./415265-millionaire-quiz-trivia-game.json) |
+| Millionaire Show | 232267 | [232267-millionaire-show.json](./232267-millionaire-show.json) |
 | Millionaire Tycoon | 95921 | [95921-millionaire-tycoon.json](./95921-millionaire-tycoon.json) |
 | Millionaire Wedding - Lucky Bride Dress Up | 102537 | [102537-millionaire-wedding-lucky-bride-dress-up.json](./102537-millionaire-wedding-lucky-bride-dress-up.json) |
 | Millionaire: The Stock Market Simulation | 401794 | [401794-millionaire-the-stock-market-simulation.json](./401794-millionaire-the-stock-market-simulation.json) |
@@ -12060,6 +12063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine & Slash | 263856 | [263856-mine-and-slash.json](./263856-mine-and-slash.json) |
 | Mine Battles | 236971 | [236971-mine-battles.json](./236971-mine-battles.json) |
 | Mine Blast | 96758 | [96758-mine-blast.json](./96758-mine-blast.json) |
+| Mine Blast! | 232265 | [232265-mine-blast.json](./232265-mine-blast.json) |
 | Mine Blocks | 187023 | [187023-mine-blocks.json](./187023-mine-blocks.json) |
 | Mine Bombers | 14449 | [14449-mine-bombers.json](./14449-mine-bombers.json) |
 | Mine Boss Simulator | 212892 | [212892-mine-boss-simulator.json](./212892-mine-boss-simulator.json) |
@@ -12570,6 +12574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Crawler | 326077 | [326077-mini-crawler.json](./326077-mini-crawler.json) |
 | Mini Crossword | 384254 | [384254-mini-crossword.json](./384254-mini-crossword.json) |
 | Mini Crossword Puzzles | 233098 | [233098-mini-crossword-puzzles.json](./233098-mini-crossword-puzzles.json) |
+| Mini Crush Casino | 232274 | [232274-mini-crush-casino.json](./232274-mini-crush-casino.json) |
 | Mini Cup | 305861 | [305861-mini-cup.json](./305861-mini-cup.json) |
 | Mini Dash | 412330 | [412330-mini-dash.json](./412330-mini-dash.json) |
 | Mini Dash | 61052 | [61052-mini-dash.json](./61052-mini-dash.json) |
@@ -15046,6 +15051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Run | 197138 | [197138-money-run.json](./197138-money-run.json) |
 | Money Simulator | 304431 | [304431-money-simulator.json](./304431-money-simulator.json) |
 | Money Simulator: Brokeville | 379601 | [379601-money-simulator-brokeville.json](./379601-money-simulator-brokeville.json) |
+| Money Swipe | 232270 | [232270-money-swipe.json](./232270-money-swipe.json) |
 | Money Theft | 341249 | [341249-money-theft.json](./341249-money-theft.json) |
 | Money Town | 47294 | [47294-money-town.json](./47294-money-town.json) |
 | Money Trails | 406675 | [406675-money-trails.json](./406675-money-trails.json) |
