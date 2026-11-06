@@ -1906,6 +1906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Solitaire: Search for a Cure | 386139 | [386139-dark-solitaire-search-for-a-cure.json](./386139-dark-solitaire-search-for-a-cure.json) |
 | Dark Soul.Ace 2 | 341843 | [341843-dark-soul-ace-2.json](./341843-dark-soul-ace-2.json) |
 | Dark Souls Ascended | 194889 | [194889-dark-souls-ascended.json](./194889-dark-souls-ascended.json) |
+| Dark Souls II: Augur of Darkness | 194724 | [194724-dark-souls-ii-augur-of-darkness.json](./194724-dark-souls-ii-augur-of-darkness.json) |
 | Dark Souls II: Black Armor Edition | 222664 | [222664-dark-souls-ii-black-armor-edition.json](./222664-dark-souls-ii-black-armor-edition.json) |
 | Dark Souls II: Collector's Edition | 42988 | [42988-dark-souls-ii-collectors-edition.json](./42988-dark-souls-ii-collectors-edition.json) |
 | Dark Souls II: Crown of the Old Iron King | 22502 | [22502-dark-souls-ii-crown-of-the-old-iron-king.json](./22502-dark-souls-ii-crown-of-the-old-iron-king.json) |
@@ -4472,6 +4473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Flags | 374746 | [374746-death-flags.json](./374746-death-flags.json) |
 | Death Flash | 97251 | [97251-death-flash.json](./97251-death-flash.json) |
 | Death Flush | 140622 | [140622-death-flush.json](./140622-death-flush.json) |
+| Death Forest | 194701 | [194701-death-forest.json](./194701-death-forest.json) |
 | Death Forest Abyss | 379094 | [379094-death-forest-abyss.json](./379094-death-forest-abyss.json) |
 | Death Forest Echoes | 413018 | [413018-death-forest-echoes.json](./413018-death-forest-echoes.json) |
 | Death Forest Remake | 385158 | [385158-death-forest-remake.json](./385158-death-forest-remake.json) |
