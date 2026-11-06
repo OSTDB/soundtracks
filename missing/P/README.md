@@ -6256,6 +6256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pieces of the Kingdom | 377965 | [377965-pieces-of-the-kingdom.json](./377965-pieces-of-the-kingdom.json) |
 | Pieces of the Past | 293042 | [293042-pieces-of-the-past.json](./293042-pieces-of-the-past.json) |
 | Pieces to Find | 363130 | [363130-pieces-to-find.json](./363130-pieces-to-find.json) |
+| PieceWars | 205735 | [205735-piecewars.json](./205735-piecewars.json) |
 | Piecewise!: A Daily Puzzle Game! | 404593 | [404593-piecewise-a-daily-puzzle-game.json](./404593-piecewise-a-daily-puzzle-game.json) |
 | Piecework: The Jigsaw Museum | 421788 | [421788-piecework-the-jigsaw-museum.json](./421788-piecework-the-jigsaw-museum.json) |
 | PieClicker | 245740 | [245740-pieclicker.json](./245740-pieclicker.json) |
@@ -16314,6 +16315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Mirror | 233562 | [233562-project-mirror.json](./233562-project-mirror.json) |
 | Project: Mirror 2 | 418838 | [418838-project-mirror-2.json](./418838-project-mirror-2.json) |
 | Project: Mist | 272348 | [272348-project-mist.json](./272348-project-mist.json) |
+| Project: Name | 205756 | [205756-project-name.json](./205756-project-name.json) |
 | Project: Neo | 276618 | [276618-project-neo.json](./276618-project-neo.json) |
 | Project: Nightlight | 224650 | [224650-project-nightlight.json](./224650-project-nightlight.json) |
 | Project: Nitro | 172060 | [172060-project-nitro.json](./172060-project-nitro.json) |
