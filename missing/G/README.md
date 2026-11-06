@@ -11098,6 +11098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunslinger Girl Volume I | 43268 | [43268-gunslinger-girl-volume-i.json](./43268-gunslinger-girl-volume-i.json) |
 | Gunslinger Girl Volume II | 257270 | [257270-gunslinger-girl-volume-ii.json](./257270-gunslinger-girl-volume-ii.json) |
 | Gunslinger Girl Volume III | 252375 | [252375-gunslinger-girl-volume-iii.json](./252375-gunslinger-girl-volume-iii.json) |
+| Gunslinger Nova | 231695 | [231695-gunslinger-nova.json](./231695-gunslinger-nova.json) |
 | Gunslinger Solitaire | 296193 | [296193-gunslinger-solitaire.json](./296193-gunslinger-solitaire.json) |
 | Gunslinger Stratos | 19317 | [19317-gunslinger-stratos.json](./19317-gunslinger-stratos.json) |
 | Gunslinger Stratos Reloaded | 60591 | [60591-gunslinger-stratos-reloaded.json](./60591-gunslinger-stratos-reloaded.json) |
