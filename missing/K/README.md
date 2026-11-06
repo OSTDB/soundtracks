@@ -2800,7 +2800,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4937,7 +4936,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koegasuru | 341799 | [341799-koegasuru.json](./341799-koegasuru.json) |
 | Koen Hunter | 97769 | [97769-koen-hunter.json](./97769-koen-hunter.json) |
 | Koenchu! The Tale of the Voice Actress: You, the Sky, and that Summer | 82714 | [82714-koenchu-the-tale-of-the-voice-actress-you-the-sky-and-that-summer.json](./82714-koenchu-the-tale-of-the-voice-actress-you-the-sky-and-that-summer.json) |
+| Koezaru ha Akai Hana After Disc: Ayanasu Mirai | 222118 | [222118-koezaru-ha-akai-hana-after-disc-ayanasu-mirai.json](./222118-koezaru-ha-akai-hana-after-disc-ayanasu-mirai.json) |
 | Koezaru ha Akai Hana: Koi ha Tsuki ni Michibikareru | 130001 | [130001-koezaru-ha-akai-hana-koi-ha-tsuki-ni-michibikareru.json](./130001-koezaru-ha-akai-hana-koi-ha-tsuki-ni-michibikareru.json) |
+| Koezaru wa Akai Hana: Taiga ha Mirai wo Tsumugu | 222117 | [222117-koezaru-wa-akai-hana-taiga-ha-mirai-wo-tsumugu.json](./222117-koezaru-wa-akai-hana-taiga-ha-mirai-wo-tsumugu.json) |
 | KOF Chronicle | 117502 | [117502-kof-chronicle.json](./117502-kof-chronicle.json) |
 | KOF X Garou Densetsu | 63832 | [63832-kof-x-garou-densetsu.json](./63832-kof-x-garou-densetsu.json) |
 | Koffi Yellow Copter | 40797 | [40797-koffi-yellow-copter.json](./40797-koffi-yellow-copter.json) |
