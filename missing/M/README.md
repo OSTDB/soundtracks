@@ -4424,6 +4424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars: The New Eden | 215618 | [215618-mars-the-new-eden.json](./215618-mars-the-new-eden.json) |
 | Mars: War Logs | 1830 | [1830-mars-war-logs.json](./1830-mars-war-logs.json) |
 | Mars4 | 266175 | [266175-mars4.json](./266175-mars4.json) |
+| Marsaction: Infinite Ambition | 219870 | [219870-marsaction-infinite-ambition.json](./219870-marsaction-infinite-ambition.json) |
 | Marscapes | 188274 | [188274-marscapes.json](./188274-marscapes.json) |
 | MarsCity3026 | 406242 | [406242-marscity3026.json](./406242-marscity3026.json) |
 | Marsel: The Alien Clown | 245920 | [245920-marsel-the-alien-clown.json](./245920-marsel-the-alien-clown.json) |
@@ -5239,6 +5240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masterchef Cakes Edition | 217507 | [217507-masterchef-cakes-edition.json](./217507-masterchef-cakes-edition.json) |
 | Masterchef Chinese Food Edition | 195273 | [195273-masterchef-chinese-food-edition.json](./195273-masterchef-chinese-food-edition.json) |
 | Masterchef Ice Cream Edition | 220408 | [220408-masterchef-ice-cream-edition.json](./220408-masterchef-ice-cream-edition.json) |
+| MasterChef: Cook & Match | 219952 | [219952-masterchef-cook-and-match.json](./219952-masterchef-cook-and-match.json) |
 | MasterChef: Culinary Showdown | 319628 | [319628-masterchef-culinary-showdown.json](./319628-masterchef-culinary-showdown.json) |
 | MasterChef: Learn to Cook! | 299804 | [299804-masterchef-learn-to-cook.json](./299804-masterchef-learn-to-cook.json) |
 | MasterChef: Learn to Cook! - Complete Edition | 324375 | [324375-masterchef-learn-to-cook-complete-edition.json](./324375-masterchef-learn-to-cook-complete-edition.json) |
@@ -5891,7 +5893,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -14531,6 +14532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern FPS: Combat Sniper 3D | 106868 | [106868-modern-fps-combat-sniper-3d.json](./106868-modern-fps-combat-sniper-3d.json) |
 | Modern Game Tycoon | 189801 | [189801-modern-game-tycoon.json](./189801-modern-game-tycoon.json) |
 | Modern Girl's Refined Choices | 208937 | [208937-modern-girls-refined-choices.json](./208937-modern-girls-refined-choices.json) |
+| Modern Gun Shooting | 219953 | [219953-modern-gun-shooting.json](./219953-modern-gun-shooting.json) |
 | Modern Jet-Fighter : Air War | 107116 | [107116-modern-jet-fighter-air-war.json](./107116-modern-jet-fighter-air-war.json) |
 | Modern Life | 196594 | [196594-modern-life.json](./196594-modern-life.json) |
 | Modern Ludo | 175325 | [175325-modern-ludo.json](./175325-modern-ludo.json) |
