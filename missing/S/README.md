@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safari Cannon | 190108 | [190108-safari-cannon.json](./190108-safari-cannon.json) |
 | Safari Central | 95387 | [95387-safari-central.json](./95387-safari-central.json) |
 | Safari Chef | 249732 | [249732-safari-chef.json](./249732-safari-chef.json) |
+| Safari Chess | 245641 | [245641-safari-chess.json](./245641-safari-chess.json) |
 | Safari Grounds - The Wilpattu Leopard | 126264 | [126264-safari-grounds-the-wilpattu-leopard.json](./126264-safari-grounds-the-wilpattu-leopard.json) |
 | Safari Guns | 12758 | [12758-safari-guns.json](./12758-safari-guns.json) |
 | Safari Hunt | 94935 | [94935-safari-hunt.json](./94935-safari-hunt.json) |
@@ -14012,6 +14013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Maze | 311603 | [311603-small-maze.json](./311603-small-maze.json) |
 | Small Mouse Big House | 378402 | [378402-small-mouse-big-house.json](./378402-small-mouse-big-house.json) |
 | Small Nights | 253397 | [253397-small-nights.json](./253397-small-nights.json) |
+| Small on Top | 245617 | [245617-small-on-top.json](./245617-small-on-top.json) |
 | Small People Defense | 236325 | [236325-small-people-defense.json](./236325-small-people-defense.json) |
 | Small Pile of Gibs | 402797 | [402797-small-pile-of-gibs.json](./402797-small-pile-of-gibs.json) |
 | Small Pixel | 105094 | [105094-small-pixel.json](./105094-small-pixel.json) |
@@ -14588,6 +14590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail You Later | 365729 | [365729-snail-you-later.json](./365729-snail-you-later.json) |
 | Snail's Knock Out! | 301021 | [301021-snails-knock-out.json](./301021-snails-knock-out.json) |
 | Snailboy: Rise of Hermitron | 120353 | [120353-snailboy-rise-of-hermitron.json](./120353-snailboy-rise-of-hermitron.json) |
+| Snaileeyo Save Them | 245636 | [245636-snaileeyo-save-them.json](./245636-snaileeyo-save-them.json) |
 | Snailiad | 118309 | [118309-snailiad.json](./118309-snailiad.json) |
 | Snailiens | 30435 | [30435-snailiens.json](./30435-snailiens.json) |
 | SnailQuest | 207306 | [207306-snailquest.json](./207306-snailquest.json) |
@@ -15640,6 +15643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Cup: World League | 232135 | [232135-soccer-cup-world-league.json](./232135-soccer-cup-world-league.json) |
 | Soccer Defense | 231897 | [231897-soccer-defense.json](./231897-soccer-defense.json) |
 | Soccer Director | 141459 | [141459-soccer-director.json](./141459-soccer-director.json) |
+| Soccer Dribble Cup: High Score | 245633 | [245633-soccer-dribble-cup-high-score.json](./245633-soccer-dribble-cup-high-score.json) |
 | Soccer Empire: The Dream Begins | 256166 | [256166-soccer-empire-the-dream-begins.json](./256166-soccer-empire-the-dream-begins.json) |
 | Soccer Feeling | 59444 | [59444-soccer-feeling.json](./59444-soccer-feeling.json) |
 | Soccer Field Pro 3D | 338647 | [338647-soccer-field-pro-3d.json](./338647-soccer-field-pro-3d.json) |
@@ -19362,7 +19366,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20873,6 +20876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedy Guys | 268956 | [268956-speedy-guys.json](./268956-speedy-guys.json) |
 | Speedy Lander | 73603 | [73603-speedy-lander.json](./73603-speedy-lander.json) |
 | Speedy Rush | 174908 | [174908-speedy-rush.json](./174908-speedy-rush.json) |
+| Speedy Sparrow | 245646 | [245646-speedy-sparrow.json](./245646-speedy-sparrow.json) |
 | Speedy Spears | 216730 | [216730-speedy-spears.json](./216730-speedy-spears.json) |
 | Speedy Speedy Cat Slowly | 321424 | [321424-speedy-speedy-cat-slowly.json](./321424-speedy-speedy-cat-slowly.json) |
 | Speedy Stacks | 232030 | [232030-speedy-stacks.json](./232030-speedy-stacks.json) |
@@ -31412,6 +31416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. SNES Days 2 | 321585 | [321585-super-mario-bros-snes-days-2.json](./321585-super-mario-bros-snes-days-2.json) |
 | Super Mario Bros. Special | 77228 | [77228-super-mario-bros-special.json](./77228-super-mario-bros-special.json) |
 | Super Mario Bros. Special Remastered | 378501 | [378501-super-mario-bros-special-remastered.json](./378501-super-mario-bros-special-remastered.json) |
+| Super Mario Bros. Square Root 5 | 245621 | [245621-super-mario-bros-square-root-5.json](./245621-super-mario-bros-square-root-5.json) |
 | Super Mario Bros. Star Scramble 2: Ghost Island | 215251 | [215251-super-mario-bros-star-scramble-2-ghost-island.json](./215251-super-mario-bros-star-scramble-2-ghost-island.json) |
 | Super Mario Bros. Star Scramble DX | 265069 | [265069-super-mario-bros-star-scramble-dx.json](./265069-super-mario-bros-star-scramble-dx.json) |
 | Super Mario Bros. Ultra Deluxe | 313059 | [313059-super-mario-bros-ultra-deluxe.json](./313059-super-mario-bros-ultra-deluxe.json) |
