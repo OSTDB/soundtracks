@@ -6634,6 +6634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blood Mage by Daniel da Silva | 249238 | [249238-the-blood-mage-by-daniel-da-silva.json](./249238-the-blood-mage-by-daniel-da-silva.json) |
 | The Blood Mage II | 406486 | [406486-the-blood-mage-ii.json](./406486-the-blood-mage-ii.json) |
 | The Blood of Dawnwalker: Day 1 Edition | 416088 | [416088-the-blood-of-dawnwalker-day-1-edition.json](./416088-the-blood-of-dawnwalker-day-1-edition.json) |
+| The Blood of Yamin | 211475 | [211475-the-blood-of-yamin.json](./211475-the-blood-of-yamin.json) |
 | The Blood's Way | 364501 | [364501-the-bloods-way.json](./364501-the-bloods-way.json) |
 | The Bloodline | 123930 | [123930-the-bloodline.json](./123930-the-bloodline.json) |
 | The Bloody Cross | 342648 | [342648-the-bloody-cross.json](./342648-the-bloody-cross.json) |
@@ -32062,6 +32063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tumiki Fighters | 50414 | [50414-tumiki-fighters.json](./50414-tumiki-fighters.json) |
 | Tummy Bonbons: The Sweet Monster | 328315 | [328315-tummy-bonbons-the-sweet-monster.json](./328315-tummy-bonbons-the-sweet-monster.json) |
 | Tumor Necrosis Factor: Amen | 386716 | [386716-tumor-necrosis-factor-amen.json](./386716-tumor-necrosis-factor-amen.json) |
+| Tump Jump | 211372 | [211372-tump-jump.json](./211372-tump-jump.json) |
 | Tums: Battle of the Burn | 61430 | [61430-tums-battle-of-the-burn.json](./61430-tums-battle-of-the-burn.json) |
 | Tun Shi Tian Di III | 330523 | [330523-tun-shi-tian-di-iii.json](./330523-tun-shi-tian-di-iii.json) |
 | Tun Town 2 | 92327 | [92327-tun-town-2.json](./92327-tun-town-2.json) |
@@ -32584,6 +32586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TVhead | 217506 | [217506-tvhead.json](./217506-tvhead.json) |
 | TVhTk | 271945 | [271945-tvhtk.json](./271945-tvhtk.json) |
 | Tvinnr | 244811 | [244811-tvinnr.json](./244811-tvinnr.json) |
+| Tvö | 211369 | [211369-tvo.json](./211369-tvo.json) |
 | Tvori | 131876 | [131876-tvori.json](./131876-tvori.json) |
 | TVS Sample Box | 280248 | [280248-tvs-sample-box.json](./280248-tvs-sample-box.json) |
 | TVs: The Awakening | 210991 | [210991-tvs-the-awakening.json](./210991-tvs-the-awakening.json) |
