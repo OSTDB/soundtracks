@@ -2845,6 +2845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Catalonia | 118654 | [118654-legends-of-catalonia.json](./118654-legends-of-catalonia.json) |
 | Legends of Celestite: The All Bearer | 238802 | [238802-legends-of-celestite-the-all-bearer.json](./238802-legends-of-celestite-the-all-bearer.json) |
 | Legends of Cobalt Lake & District | 323648 | [323648-legends-of-cobalt-lake-and-district.json](./323648-legends-of-cobalt-lake-and-district.json) |
+| Legends of Crystal | 210959 | [210959-legends-of-crystal.json](./210959-legends-of-crystal.json) |
 | Legends of Dawn | 6858 | [6858-legends-of-dawn.json](./6858-legends-of-dawn.json) |
 | Legends of Destiny | 208390 | [208390-legends-of-destiny.json](./208390-legends-of-destiny.json) |
 | Legends of Dionysos | 234278 | [234278-legends-of-dionysos.json](./234278-legends-of-dionysos.json) |
