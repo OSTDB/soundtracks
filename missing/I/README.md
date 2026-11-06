@@ -449,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Maed a Gam3 W1th Z0mb1es 1n it!!!1 | 181112 | [181112-i-maed-a-gam3-w1th-z0mb1es-1n-it-1.json](./181112-i-maed-a-gam3-w1th-z0mb1es-1n-it-1.json) |
 | I Make Saints | 206926 | [206926-i-make-saints.json](./206926-i-make-saints.json) |
 | I Miss the Sunrise | 130895 | [130895-i-miss-the-sunrise.json](./130895-i-miss-the-sunrise.json) |
+| I Modo Mo Issho | 244003 | [244003-i-modo-mo-issho.json](./244003-i-modo-mo-issho.json) |
 | I Mother | 339629 | [339629-i-mother.json](./339629-i-mother.json) |
 | I Must Eat Chili Oil | 259735 | [259735-i-must-eat-chili-oil.json](./259735-i-must-eat-chili-oil.json) |
 | I must kill...: Fresh Meat | 34017 | [34017-i-must-kill-fresh-meat.json](./34017-i-must-kill-fresh-meat.json) |
@@ -690,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I, of the Mask | 26212 | [26212-i-of-the-mask.json](./26212-i-of-the-mask.json) |
 | I, Robot | 24633 | [24633-i-robot.json](./24633-i-robot.json) |
 | I, Robot | 335831 | [335831-i-robot.json](./335831-i-robot.json) |
+| I, the Forgotten One | 244061 | [244061-i-the-forgotten-one.json](./244061-i-the-forgotten-one.json) |
 | I, the I-piece | 175112 | [175112-i-the-i-piece.json](./175112-i-the-i-piece.json) |
 | I, Toaster | 258758 | [258758-i-toaster.json](./258758-i-toaster.json) |
 | I, W.O.M.A.N. | 188840 | [188840-i-w-o-m-a-n.json](./188840-i-w-o-m-a-n.json) |
