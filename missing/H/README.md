@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hai no Majutsushi | 137900 | [137900-hai-no-majutsushi.json](./137900-hai-no-majutsushi.json) |
 | Hai Shuuraku Tansaku | 261546 | [261546-hai-shuuraku-tansaku.json](./261546-hai-shuuraku-tansaku.json) |
 | Hai-Shin 2 | 290992 | [290992-hai-shin-2.json](./290992-hai-shin-2.json) |
+| Hai! Tetsuman-desu | 242860 | [242860-hai-tetsuman-desu.json](./242860-hai-tetsuman-desu.json) |
 | Hǎidǐ Xúnbǎo | 110136 | [110136-haidi-xunbao.json](./110136-haidi-xunbao.json) |
 | Haifa | 338098 | [338098-haifa.json](./338098-haifa.json) |
 | Haiiro no Umi nite Kimi wo Matsu | 285899 | [285899-haiiro-no-umi-nite-kimi-wo-matsu.json](./285899-haiiro-no-umi-nite-kimi-wo-matsu.json) |
