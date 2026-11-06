@@ -2560,6 +2560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Town | 62237 | [62237-farm-town.json](./62237-farm-town.json) |
 | Farm Tribe | 32783 | [32783-farm-tribe.json](./32783-farm-tribe.json) |
 | Farm Tribe: Dragon Island | 146484 | [146484-farm-tribe-dragon-island.json](./146484-farm-tribe-dragon-island.json) |
+| Farm Tycoon | 199177 | [199177-farm-tycoon.json](./199177-farm-tycoon.json) |
 | Farm Under Fire | 199377 | [199377-farm-under-fire.json](./199377-farm-under-fire.json) |
 | Farm Up | 87693 | [87693-farm-up.json](./87693-farm-up.json) |
 | Farm Vet | 357386 | [357386-farm-vet.json](./357386-farm-vet.json) |
