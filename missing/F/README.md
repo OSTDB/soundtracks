@@ -3012,6 +3012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Princess: Fat Roles | 276802 | [276802-fat-princess-fat-roles.json](./276802-fat-princess-fat-roles.json) |
 | Fat Princess: Fistful of Cake | 21752 | [21752-fat-princess-fistful-of-cake.json](./21752-fat-princess-fistful-of-cake.json) |
 | Fat Princess: Piece of Cake | 52212 | [52212-fat-princess-piece-of-cake.json](./52212-fat-princess-piece-of-cake.json) |
+| Fat Prisoner Simulator | 233834 | [233834-fat-prisoner-simulator.json](./233834-fat-prisoner-simulator.json) |
 | Fat Prisoner Simulator 2 | 370944 | [370944-fat-prisoner-simulator-2.json](./370944-fat-prisoner-simulator-2.json) |
 | Fat Prisoner Simulator 3 | 169156 | [169156-fat-prisoner-simulator-3.json](./169156-fat-prisoner-simulator-3.json) |
 | Fat Rain | 227740 | [227740-fat-rain.json](./227740-fat-rain.json) |
@@ -3045,6 +3046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Evidence: The Missing | 139774 | [139774-fatal-evidence-the-missing.json](./139774-fatal-evidence-the-missing.json) |
 | Fatal Evidence: The Missing - Collector's Edition | 132447 | [132447-fatal-evidence-the-missing-collectors-edition.json](./132447-fatal-evidence-the-missing-collectors-edition.json) |
 | Fatal Falls | 295825 | [295825-fatal-falls.json](./295825-fatal-falls.json) |
+| Fatal Fantasy VII | 233840 | [233840-fatal-fantasy-vii.json](./233840-fatal-fantasy-vii.json) |
 | Fatal Fight | 33318 | [33318-fatal-fight.json](./33318-fatal-fight.json) |
 | Fatal Flash | 98227 | [98227-fatal-flash.json](./98227-fatal-flash.json) |
 | Fatal Force: Earth Assault | 306000 | [306000-fatal-force-earth-assault.json](./306000-fatal-force-earth-assault.json) |
@@ -4984,6 +4986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VII Snowboarding | 127832 | [127832-final-fantasy-vii-snowboarding.json](./127832-final-fantasy-vii-snowboarding.json) |
 | Final Fantasy VII: Ever Crisis | 144040 | [144040-final-fantasy-vii-ever-crisis.json](./144040-final-fantasy-vii-ever-crisis.json) |
 | Final Fantasy VII: New Threat Mod | 144689 | [144689-final-fantasy-vii-new-threat-mod.json](./144689-final-fantasy-vii-new-threat-mod.json) |
+| Final Fantasy VII: Re-Imagined | 233846 | [233846-final-fantasy-vii-re-imagined.json](./233846-final-fantasy-vii-re-imagined.json) |
 | Final Fantasy VII: Regenesis | 394328 | [394328-final-fantasy-vii-regenesis.json](./394328-final-fantasy-vii-regenesis.json) |
 | Final Fantasy VII: The First Soldier | 144038 | [144038-final-fantasy-vii-the-first-soldier.json](./144038-final-fantasy-vii-the-first-soldier.json) |
 | Final Fantasy VIII Remastered | 119374 | [119374-final-fantasy-viii-remastered.json](./119374-final-fantasy-viii-remastered.json) |
