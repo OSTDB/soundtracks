@@ -5807,7 +5807,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mavericks 2: Resurrection of the Repliforce: | 350788 | [350788-mavericks-2-resurrection-of-the-repliforce.json](./350788-mavericks-2-resurrection-of-the-repliforce.json) |
 | Mavericks 3: Zero's Revenge | 350789 | [350789-mavericks-3-zeros-revenge.json](./350789-mavericks-3-zeros-revenge.json) |
 | Maverta | 181039 | [181039-maverta.json](./181039-maverta.json) |
+| Maverta City | 193051 | [193051-maverta-city.json](./193051-maverta-city.json) |
 | Maverta Island | 186844 | [186844-maverta-island.json](./186844-maverta-island.json) |
+| Maverta Muerte | 193030 | [193030-maverta-muerte.json](./193030-maverta-muerte.json) |
 | Mavi's Journey | 86586 | [86586-mavis-journey.json](./86586-mavis-journey.json) |
 | Mavis Beacon Teaches Typing Version 15 | 225834 | [225834-mavis-beacon-teaches-typing-version-15.json](./225834-mavis-beacon-teaches-typing-version-15.json) |
 | Mavis Beacon Teaches Typing Version 8 | 209541 | [209541-mavis-beacon-teaches-typing-version-8.json](./209541-mavis-beacon-teaches-typing-version-8.json) |
@@ -11985,6 +11987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mina the Hollower GBC Demake | 305750 | [305750-mina-the-hollower-gbc-demake.json](./305750-mina-the-hollower-gbc-demake.json) |
 | Mina's Garden | 280088 | [280088-minas-garden.json](./280088-minas-garden.json) |
 | Minable & Create | 155123 | [155123-minable-and-create.json](./155123-minable-and-create.json) |
+| Minabo: A Walk Through Life | 193007 | [193007-minabo-a-walk-through-life.json](./193007-minabo-a-walk-through-life.json) |
 | Minagara Oreru DS Origami | 288016 | [288016-minagara-oreru-ds-origami.json](./288016-minagara-oreru-ds-origami.json) |
 | Minakata Hakudou Toujou | 210835 | [210835-minakata-hakudou-toujou.json](./210835-minakata-hakudou-toujou.json) |
 | Minako: Beloved Wife in the Countryside | 295391 | [295391-minako-beloved-wife-in-the-countryside.json](./295391-minako-beloved-wife-in-the-countryside.json) |
