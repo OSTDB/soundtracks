@@ -294,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth 2 | 155663 | [155663-labyrinth-2.json](./155663-labyrinth-2.json) |
 | Labyrinth 2 | 96302 | [96302-labyrinth-2.json](./96302-labyrinth-2.json) |
 | Labyrinth 3 | 171066 | [171066-labyrinth-3.json](./171066-labyrinth-3.json) |
+| Labyrinth Brave | 212538 | [212538-labyrinth-brave.json](./212538-labyrinth-brave.json) |
 | Labyrinth City: Pierre the Maze Detective | 145786 | [145786-labyrinth-city-pierre-the-maze-detective.json](./145786-labyrinth-city-pierre-the-maze-detective.json) |
 | Labyrinth de Terre | 130509 | [130509-labyrinth-de-terre.json](./130509-labyrinth-de-terre.json) |
 | Labyrinth Deck | 184720 | [184720-labyrinth-deck.json](./184720-labyrinth-deck.json) |
@@ -5447,6 +5448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lingering Souls | 285412 | [285412-lingering-souls.json](./285412-lingering-souls.json) |
 | LingerToAlive | 231351 | [231351-lingertoalive.json](./231351-lingertoalive.json) |
 | Linggango | 383935 | [383935-linggango.json](./383935-linggango.json) |
+| Lingjian Mountain | 212548 | [212548-lingjian-mountain.json](./212548-lingjian-mountain.json) |
 | Língjiè Yì Wén Lù | 372425 | [372425-lingjie-yi-wen-lu.json](./372425-lingjie-yi-wen-lu.json) |
 | Língjiè Zhànxiàn | 127189 | [127189-lingjie-zhanxian.json](./127189-lingjie-zhanxian.json) |
 | Lingjing | 284963 | [284963-lingjing.json](./284963-lingjing.json) |
