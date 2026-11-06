@@ -6551,6 +6551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berry Hunt Survivors | 247779 | [247779-berry-hunt-survivors.json](./247779-berry-hunt-survivors.json) |
 | Berry Madness | 235180 | [235180-berry-madness.json](./235180-berry-madness.json) |
 | Berry Mayhem | 158546 | [158546-berry-mayhem.json](./158546-berry-mayhem.json) |
+| Berry People | 237762 | [237762-berry-people.json](./237762-berry-people.json) |
 | Berry Tree | 68726 | [68726-berry-tree.json](./68726-berry-tree.json) |
 | Berrywitched! | 330215 | [330215-berrywitched.json](./330215-berrywitched.json) |
 | Berrywitched! The Harvest | 374169 | [374169-berrywitched-the-harvest.json](./374169-berrywitched-the-harvest.json) |
