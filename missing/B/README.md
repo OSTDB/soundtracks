@@ -6481,6 +6481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bentley Bear’s Crystal Quest | 314440 | [314440-bentley-bear-s-crystal-quest.json](./314440-bentley-bear-s-crystal-quest.json) |
 | Bento Blocks | 380971 | [380971-bento-blocks.json](./380971-bento-blocks.json) |
 | Bento Bugs | 329354 | [329354-bento-bugs.json](./329354-bento-bugs.json) |
+| Bento Fujiyama Tamagoyaki | 233301 | [233301-bento-fujiyama-tamagoyaki.json](./233301-bento-fujiyama-tamagoyaki.json) |
 | Bento no Subarashisa wo Ano 2-do 3-do: Nama-ham to Yaki-udon Hen | 336179 | [336179-bento-no-subarashisa-wo-ano-2-do-3-do-nama-ham-to-yaki-udon-hen.json](./336179-bento-no-subarashisa-wo-ano-2-do-3-do-nama-ham-to-yaki-udon-hen.json) |
 | BentoBlox | 108913 | [108913-bentoblox.json](./108913-bentoblox.json) |
 | BentoBot | 102084 | [102084-bentobot.json](./102084-bentobot.json) |
@@ -17336,6 +17337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Hill Horror: Bunny Boiler | 147014 | [147014-bunny-hill-horror-bunny-boiler.json](./147014-bunny-hill-horror-bunny-boiler.json) |
 | Bunny Hop | 174124 | [174124-bunny-hop.json](./174124-bunny-hop.json) |
 | Bunny Hop | 90197 | [90197-bunny-hop.json](./90197-bunny-hop.json) |
+| Bunny Hop Hare Trigger | 233303 | [233303-bunny-hop-hare-trigger.json](./233303-bunny-hop-hare-trigger.json) |
 | Bunny Hop Hop | 345078 | [345078-bunny-hop-hop.json](./345078-bunny-hop-hop.json) |
 | Bunny Hop League | 28307 | [28307-bunny-hop-league.json](./28307-bunny-hop-league.json) |
 | Bunny Hop League: Map Pack 1 | 226275 | [226275-bunny-hop-league-map-pack-1.json](./226275-bunny-hop-league-map-pack-1.json) |
