@@ -1426,6 +1426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canfield Solitaire Collection | 211769 | [211769-canfield-solitaire-collection.json](./211769-canfield-solitaire-collection.json) |
 | Cang Loong City | 127572 | [127572-cang-loong-city.json](./127572-cang-loong-city.json) |
 | Cāng zhī Lù | 154897 | [154897-cang-zhi-lu.json](./154897-cang-zhi-lu.json) |
+| Cangaço | 202977 | [202977-cangaco.json](./202977-cangaco.json) |
 | Canghai Zhuansheng Tan | 348917 | [348917-canghai-zhuansheng-tan.json](./348917-canghai-zhuansheng-tan.json) |
 | Cānghóng Lèi: Nì Tiān Shénhuà | 394183 | [394183-canghong-lei-ni-tian-shenhua.json](./394183-canghong-lei-ni-tian-shenhua.json) |
 | CangLoong City | 101186 | [101186-cangloong-city.json](./101186-cangloong-city.json) |
@@ -4319,6 +4320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catana: Red Flowers | 380560 | [380560-catana-red-flowers.json](./380560-catana-red-flowers.json) |
 | Catanks | 409404 | [409404-catanks.json](./409404-catanks.json) |
 | catAnod | 96429 | [96429-catanod.json](./96429-catanod.json) |
+| Cataphract OI | 202894 | [202894-cataphract-oi.json](./202894-cataphract-oi.json) |
 | Cataplexy | 186826 | [186826-cataplexy.json](./186826-cataplexy.json) |
 | Catapole | 405489 | [405489-catapole.json](./405489-catapole.json) |
 | Catapult | 180599 | [180599-catapult.json](./180599-catapult.json) |
@@ -11074,6 +11076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cobra: Kokuryuu Ou no Densetsu | 74749 | [74749-cobra-kokuryuu-ou-no-densetsu.json](./74749-cobra-kokuryuu-ou-no-densetsu.json) |
 | Cobra: Kokuryuuou no Densetsu | 73724 | [73724-cobra-kokuryuuou-no-densetsu.json](./73724-cobra-kokuryuuou-no-densetsu.json) |
 | Cobra's Arc | 39110 | [39110-cobras-arc.json](./39110-cobras-arc.json) |
+| Coby Portable DVD Player | 202887 | [202887-coby-portable-dvd-player.json](./202887-coby-portable-dvd-player.json) |
 | Coca-Cola Happiness Factory - Mortar Men | 67815 | [67815-coca-cola-happiness-factory-mortar-men.json](./67815-coca-cola-happiness-factory-mortar-men.json) |
 | Coca-Cola Lawnmower | 329722 | [329722-coca-cola-lawnmower.json](./329722-coca-cola-lawnmower.json) |
 | Cocaine Dealer | 369903 | [369903-cocaine-dealer.json](./369903-cocaine-dealer.json) |
