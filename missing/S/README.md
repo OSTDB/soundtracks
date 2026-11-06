@@ -4143,6 +4143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seacorp Technologies | 108903 | [108903-seacorp-technologies.json](./108903-seacorp-technologies.json) |
 | SeaCret 1 | 352464 | [352464-seacret-1.json](./352464-seacret-1.json) |
 | Seacurity Breach | 109309 | [109309-seacurity-breach.json](./109309-seacurity-breach.json) |
+| SeaDogs of Nassau | 197464 | [197464-seadogs-of-nassau.json](./197464-seadogs-of-nassau.json) |
 | Seafarer | 296463 | [296463-seafarer.json](./296463-seafarer.json) |
 | Seafarer: The Ship Sim | 334351 | [334351-seafarer-the-ship-sim.json](./334351-seafarer-the-ship-sim.json) |
 | Seafarer's Gambit | 329172 | [329172-seafarers-gambit.json](./329172-seafarers-gambit.json) |
@@ -15869,6 +15870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Kids | 254853 | [254853-soccer-kids.json](./254853-soccer-kids.json) |
 | Soccer Kids Champions | 104723 | [104723-soccer-kids-champions.json](./104723-soccer-kids-champions.json) |
 | Soccer League | 182151 | [182151-soccer-league.json](./182151-soccer-league.json) |
+| Soccer League | 197448 | [197448-soccer-league.json](./197448-soccer-league.json) |
 | Soccer League: Winner's Cup | 48531 | [48531-soccer-league-winners-cup.json](./48531-soccer-league-winners-cup.json) |
 | Soccer Legends | 36018 | [36018-soccer-legends.json](./36018-soccer-legends.json) |
 | Soccer Lines | 241334 | [241334-soccer-lines.json](./241334-soccer-lines.json) |
@@ -17124,6 +17126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Yummy | 349040 | [349040-songs-of-yummy.json](./349040-songs-of-yummy.json) |
 | Songs2See Game | 90553 | [90553-songs2see-game.json](./90553-songs2see-game.json) |
 | Songtail: Whiskers of Destiny | 389740 | [389740-songtail-whiskers-of-destiny.json](./389740-songtail-whiskers-of-destiny.json) |
+| SongTrivia 2: Guess the song | 197449 | [197449-songtrivia-2-guess-the-song.json](./197449-songtrivia-2-guess-the-song.json) |
 | Sonia and the Hypnotic City | 150420 | [150420-sonia-and-the-hypnotic-city.json](./150420-sonia-and-the-hypnotic-city.json) |
 | Sonia no Daibouken: Mittsu no Hihou no Kakusareta Nazo! | 279509 | [279509-sonia-no-daibouken-mittsu-no-hihou-no-kakusareta-nazo.json](./279509-sonia-no-daibouken-mittsu-no-hihou-no-kakusareta-nazo.json) |
 | Sonic | 198585 | [198585-sonic.json](./198585-sonic.json) |
@@ -19636,6 +19639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21415,6 +21419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellsy | 388060 | [388060-spellsy.json](./388060-spellsy.json) |
 | Spellt | 232088 | [232088-spellt.json](./232088-spellt.json) |
 | SpellTanks | 236863 | [236863-spelltanks.json](./236863-spelltanks.json) |
+| SpellTome | 197445 | [197445-spelltome.json](./197445-spelltome.json) |
 | Spelltooth | 383063 | [383063-spelltooth.json](./383063-spelltooth.json) |
 | SpellTower | 41498 | [41498-spelltower.json](./41498-spelltower.json) |
 | SpellTower+ | 136455 | [136455-spelltower.json](./136455-spelltower.json) |
@@ -24977,6 +24982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardust Defenders | 251970 | [251970-stardust-defenders.json](./251970-stardust-defenders.json) |
 | Stardust Demon | 291687 | [291687-stardust-demon.json](./291687-stardust-demon.json) |
 | Stardust Escape | 373158 | [373158-stardust-escape.json](./373158-stardust-escape.json) |
+| Stardust Exile | 197462 | [197462-stardust-exile.json](./197462-stardust-exile.json) |
 | Stardust Falls | 134264 | [134264-stardust-falls.json](./134264-stardust-falls.json) |
 | Stardust Galaxy Warriors: Stellar Climax | 23957 | [23957-stardust-galaxy-warriors-stellar-climax.json](./23957-stardust-galaxy-warriors-stellar-climax.json) |
 | Stardust Kids | 300634 | [300634-stardust-kids.json](./300634-stardust-kids.json) |
@@ -26118,6 +26124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Core | 414134 | [414134-steel-core.json](./414134-steel-core.json) |
 | Steel Covenant | 339665 | [339665-steel-covenant.json](./339665-steel-covenant.json) |
 | Steel Crew | 158974 | [158974-steel-crew.json](./158974-steel-crew.json) |
+| Steel Deal | 197429 | [197429-steel-deal.json](./197429-steel-deal.json) |
 | Steel Defence | 374431 | [374431-steel-defence.json](./374431-steel-defence.json) |
 | Steel Defier | 211680 | [211680-steel-defier.json](./211680-steel-defier.json) |
 | Steel Diver | 6891 | [6891-steel-diver.json](./6891-steel-diver.json) |
