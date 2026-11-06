@@ -4133,6 +4133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leviathan: Warships | 10512 | [10512-leviathan-warships.json](./10512-leviathan-warships.json) |
 | Leviathan's Sword | 199478 | [199478-leviathans-sword.json](./199478-leviathans-sword.json) |
 | Levis Umbra | 241419 | [241419-levis-umbra.json](./241419-levis-umbra.json) |
+| Levistone Story | 219865 | [219865-levistone-story.json](./219865-levistone-story.json) |
 | Levitation Simulator | 187051 | [187051-levitation-simulator.json](./187051-levitation-simulator.json) |
 | Levitation Simulator 2 | 339382 | [339382-levitation-simulator-2.json](./339382-levitation-simulator-2.json) |
 | Lew Pulsipher's Doomstar | 32151 | [32151-lew-pulsiphers-doomstar.json](./32151-lew-pulsiphers-doomstar.json) |
