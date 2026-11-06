@@ -923,7 +923,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calm Down, Stalin VR | 286535 | [286535-calm-down-stalin-vr.json](./286535-calm-down-stalin-vr.json) |
 | Calm Down, Stalin: The First Person | 161351 | [161351-calm-down-stalin-the-first-person.json](./161351-calm-down-stalin-the-first-person.json) |
 | Calm Down, Will | 186471 | [186471-calm-down-will.json](./186471-calm-down-will.json) |
+| Calm Falls | 241163 | [241163-calm-falls.json](./241163-calm-falls.json) |
 | Calm Falls 2 | 241233 | [241233-calm-falls-2.json](./241233-calm-falls-2.json) |
+| Calm Falls Remaster | 241164 | [241164-calm-falls-remaster.json](./241164-calm-falls-remaster.json) |
 | Calm Forest | 185135 | [185135-calm-forest.json](./185135-calm-forest.json) |
 | Calm Girls | 158581 | [158581-calm-girls.json](./158581-calm-girls.json) |
 | Calm Horizon | 178295 | [178295-calm-horizon.json](./178295-calm-horizon.json) |
@@ -11146,11 +11148,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename: God | 305947 | [305947-codename-god.json](./305947-codename-god.json) |
 | Codename: Gordon | 11749 | [11749-codename-gordon.json](./11749-codename-gordon.json) |
 | Codename: Iceman | 1929 | [1929-codename-iceman.json](./1929-codename-iceman.json) |
+| Codename: Kids Next Door - Escape Mission | 241122 | [241122-codename-kids-next-door-escape-mission.json](./241122-codename-kids-next-door-escape-mission.json) |
 | Codename: Kids Next Door - Flight of the Hamsters | 234535 | [234535-codename-kids-next-door-flight-of-the-hamsters.json](./234535-codename-kids-next-door-flight-of-the-hamsters.json) |
 | Codename: Kids Next Door - Ice Creamed | 185822 | [185822-codename-kids-next-door-ice-creamed.json](./185822-codename-kids-next-door-ice-creamed.json) |
 | Codename: Kids Next Door - Numbuh Generator | 185823 | [185823-codename-kids-next-door-numbuh-generator.json](./185823-codename-kids-next-door-numbuh-generator.json) |
+| Codename: Kids Next Door - Operation R.A.I.L. | 241124 | [241124-codename-kids-next-door-operation-r-a-i-l.json](./241124-codename-kids-next-door-operation-r-a-i-l.json) |
 | Codename: Kids Next Door - Operation S.O.D.A. | 49159 | [49159-codename-kids-next-door-operation-s-o-d-a.json](./49159-codename-kids-next-door-operation-s-o-d-a.json) |
 | Codename: Kids Next Door - Operation S.T.A.R.T.U.P. | 185820 | [185820-codename-kids-next-door-operation-s-t-a-r-t-u-p.json](./185820-codename-kids-next-door-operation-s-t-a-r-t-u-p.json) |
+| Codename: Kids Next Door - Operation S.T.A.T. | 241123 | [241123-codename-kids-next-door-operation-s-t-a-t.json](./241123-codename-kids-next-door-operation-s-t-a-t.json) |
 | Codename: Kids Next Door - Operation T.R.I.C.K. or T.R.E.A.T. | 185825 | [185825-codename-kids-next-door-operation-t-r-i-c-k-or-t-r-e-a-t.json](./185825-codename-kids-next-door-operation-t-r-i-c-k-or-t-r-e-a-t.json) |
 | Codename: Kids Next Door - Operation: G.R.A.D.U.A.T.E.S. | 242161 | [242161-codename-kids-next-door-operation-g-r-a-d-u-a-t-e-s.json](./242161-codename-kids-next-door-operation-g-r-a-d-u-a-t-e-s.json) |
 | Codename: Kids Next Door - Operation: V.I.D.E.O.G.A.M.E. | 2812 | [2812-codename-kids-next-door-operation-v-i-d-e-o-g-a-m-e.json](./2812-codename-kids-next-door-operation-v-i-d-e-o-g-a-m-e.json) |
@@ -15477,6 +15482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covid: Survive the PlanDemic | 168085 | [168085-covid-survive-the-plandemic.json](./168085-covid-survive-the-plandemic.json) |
 | Covid: The Outbreak | 133007 | [133007-covid-the-outbreak.json](./133007-covid-the-outbreak.json) |
 | Covid19: Toilet Paper Run | 285531 | [285531-covid19-toilet-paper-run.json](./285531-covid19-toilet-paper-run.json) |
+| Cow & Chicken: Christmas in July | 241141 | [241141-cow-and-chicken-christmas-in-july.json](./241141-cow-and-chicken-christmas-in-july.json) |
 | Cow & Chicken: Super Cow Adventure | 391945 | [391945-cow-and-chicken-super-cow-adventure.json](./391945-cow-and-chicken-super-cow-adventure.json) |
 | Cow Abduction Frenzy | 405958 | [405958-cow-abduction-frenzy.json](./405958-cow-abduction-frenzy.json) |
 | Cow Catcher | 124594 | [124594-cow-catcher.json](./124594-cow-catcher.json) |
@@ -16006,6 +16012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash | 39514 | [39514-crash.json](./39514-crash.json) |
 | Crash 'n Burn | 95438 | [95438-crash-n-burn.json](./95438-crash-n-burn.json) |
 | Crash 'N' Burn | 5789 | [5789-crash-n-burn.json](./5789-crash-n-burn.json) |
+| Crash 'N' Burn Turbo | 241108 | [241108-crash-n-burn-turbo.json](./241108-crash-n-burn-turbo.json) |
 | Crash 'n' the Boys: Street Challenge | 48291 | [48291-crash-n-the-boys-street-challenge.json](./48291-crash-n-the-boys-street-challenge.json) |
 | Crash & Bump | 212807 | [212807-crash-and-bump.json](./212807-crash-and-bump.json) |
 | Crash & Burn | 257828 | [257828-crash-and-burn.json](./257828-crash-and-burn.json) |
@@ -17036,6 +17043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket Challenge | 85560 | [85560-cricket-challenge.json](./85560-cricket-challenge.json) |
 | Cricket Club | 81886 | [81886-cricket-club.json](./81886-cricket-club.json) |
 | Cricket Crazy | 13533 | [13533-cricket-crazy.json](./13533-cricket-crazy.json) |
+| Cricket Cup | 241113 | [241113-cricket-cup.json](./241113-cricket-cup.json) |
 | Cricket Heroes: VR | 295785 | [295785-cricket-heroes-vr.json](./295785-cricket-heroes-vr.json) |
 | Cricket League | 242218 | [242218-cricket-league.json](./242218-cricket-league.json) |
 | Cricket Manager 27 | 414308 | [414308-cricket-manager-27.json](./414308-cricket-manager-27.json) |
@@ -18098,6 +18106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader Kings III Content Creator Pack: Medieval Monuments | 352852 | [352852-crusader-kings-iii-content-creator-pack-medieval-monuments.json](./352852-crusader-kings-iii-content-creator-pack-medieval-monuments.json) |
 | Crusader Kings III Content Creator Pack: West Slavic Attire | 352854 | [352854-crusader-kings-iii-content-creator-pack-west-slavic-attire.json](./352854-crusader-kings-iii-content-creator-pack-west-slavic-attire.json) |
 | Crusader Kings III: All Under Heaven | 352849 | [352849-crusader-kings-iii-all-under-heaven.json](./352849-crusader-kings-iii-all-under-heaven.json) |
+| Crusader Kings III: Chapter I | 241169 | [241169-crusader-kings-iii-chapter-i.json](./241169-crusader-kings-iii-chapter-i.json) |
 | Crusader Kings III: Chapter IV | 352850 | [352850-crusader-kings-iii-chapter-iv.json](./352850-crusader-kings-iii-chapter-iv.json) |
 | Crusader Kings III: Content Creator Pack - North African Attire | 288053 | [288053-crusader-kings-iii-content-creator-pack-north-african-attire.json](./288053-crusader-kings-iii-content-creator-pack-north-african-attire.json) |
 | Crusader Kings III: Coronations | 352851 | [352851-crusader-kings-iii-coronations.json](./352851-crusader-kings-iii-coronations.json) |
