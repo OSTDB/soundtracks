@@ -4878,6 +4878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EroHPuzzle | 339763 | [339763-erohpuzzle.json](./339763-erohpuzzle.json) |
 | Eroica | 144525 | [144525-eroica.json](./144525-eroica.json) |
 | Erolyn Chan Fight | 113174 | [113174-erolyn-chan-fight.json](./113174-erolyn-chan-fight.json) |
+| Eronoctosis: Devote Yourself to Another | 205216 | [205216-eronoctosis-devote-yourself-to-another.json](./205216-eronoctosis-devote-yourself-to-another.json) |
 | Eronoctosis: Put Yourself Together | 163899 | [163899-eronoctosis-put-yourself-together.json](./163899-eronoctosis-put-yourself-together.json) |
 | Erophone | 156555 | [156555-erophone.json](./156555-erophone.json) |
 | Erophone:Re | 239715 | [239715-erophone-re.json](./239715-erophone-re.json) |
