@@ -6866,6 +6866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic Puzzle Rainbow Town | 252872 | [252872-logic-puzzle-rainbow-town.json](./252872-logic-puzzle-rainbow-town.json) |
 | Logic Quest 3D | 79759 | [79759-logic-quest-3d.json](./79759-logic-quest-3d.json) |
 | Logic Square | 228142 | [228142-logic-square.json](./228142-logic-square.json) |
+| Logic Town | 241126 | [241126-logic-town.json](./241126-logic-town.json) |
 | Logic Town: Country Fair | 290202 | [290202-logic-town-country-fair.json](./290202-logic-town-country-fair.json) |
 | Logic Town: Santa's Grotto | 279131 | [279131-logic-town-santas-grotto.json](./279131-logic-town-santas-grotto.json) |
 | Logic Town: The Library | 288063 | [288063-logic-town-the-library.json](./288063-logic-town-the-library.json) |
