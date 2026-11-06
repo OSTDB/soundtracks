@@ -1147,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 13 Steps | 211388 | [211388-13-steps.json](./211388-13-steps.json) |
 | 13 Thieves | 234074 | [234074-13-thieves.json](./234074-13-thieves.json) |
 | 13 Wood St | 152479 | [152479-13-wood-st.json](./152479-13-wood-st.json) |
+| 13 Wood St Remastered | 208692 | [208692-13-wood-st-remastered.json](./208692-13-wood-st-remastered.json) |
 | 13-Sai no Hello Work | 72584 | [72584-13-sai-no-hello-work.json](./72584-13-sai-no-hello-work.json) |
 | 13: Origin - Chapter One | 197399 | [197399-13-origin-chapter-one.json](./197399-13-origin-chapter-one.json) |
 | 13! | 87045 | [87045-13.json](./87045-13.json) |
