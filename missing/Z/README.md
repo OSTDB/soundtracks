@@ -2466,6 +2466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZPF | 308919 | [308919-zpf.json](./308919-zpf.json) |
 | ZPlague | 188981 | [188981-zplague.json](./188981-zplague.json) |
 | ZRoll | 33118 | [33118-zroll.json](./33118-zroll.json) |
+| Zruce Adventures | 194718 | [194718-zruce-adventures.json](./194718-zruce-adventures.json) |
 | ZRun | 95366 | [95366-zrun.json](./95366-zrun.json) |
 | zStrike | 97046 | [97046-zstrike.json](./97046-zstrike.json) |
 | ZSX4 Guitarpocalypse | 80375 | [80375-zsx4-guitarpocalypse.json](./80375-zsx4-guitarpocalypse.json) |
