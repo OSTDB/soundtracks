@@ -5900,7 +5900,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9325,6 +9324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Monsters | 233428 | [233428-merge-monsters.json](./233428-merge-monsters.json) |
 | Merge Numbers | 329197 | [329197-merge-numbers.json](./329197-merge-numbers.json) |
 | Merge Orbz | 401855 | [401855-merge-orbz.json](./401855-merge-orbz.json) |
+| Merge Pet: Magic Synthesis Game | 213076 | [213076-merge-pet-magic-synthesis-game.json](./213076-merge-pet-magic-synthesis-game.json) |
 | Merge Pineapple | 339286 | [339286-merge-pineapple.json](./339286-merge-pineapple.json) |
 | Merge Plane - Best Idle Game | 106477 | [106477-merge-plane-best-idle-game.json](./106477-merge-plane-best-idle-game.json) |
 | Merge Rainbow Friend | 224002 | [224002-merge-rainbow-friend.json](./224002-merge-rainbow-friend.json) |
@@ -13409,6 +13409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Angel's Paradise | 107702 | [107702-mirror-angels-paradise.json](./107702-mirror-angels-paradise.json) |
 | Mirror Atelier | 369351 | [369351-mirror-atelier.json](./369351-mirror-atelier.json) |
 | Mirror Backrooms | 418617 | [418617-mirror-backrooms.json](./418617-mirror-backrooms.json) |
+| Mirror Beauty | 213105 | [213105-mirror-beauty.json](./213105-mirror-beauty.json) |
 | Mirror Broken | 215600 | [215600-mirror-broken.json](./215600-mirror-broken.json) |
 | Mirror Devil World | 247282 | [247282-mirror-devil-world.json](./247282-mirror-devil-world.json) |
 | Mirror Drop | 99153 | [99153-mirror-drop.json](./99153-mirror-drop.json) |
@@ -16174,6 +16175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters | 13741 | [13741-monsters.json](./13741-monsters.json) |
 | Monsters | 151819 | [151819-monsters.json](./151819-monsters.json) |
 | Monsters | 314359 | [314359-monsters.json](./314359-monsters.json) |
+| Monsters 'N Trucks | 213090 | [213090-monsters-n-trucks.json](./213090-monsters-n-trucks.json) |
 | Monsters 'til Midnight | 236220 | [236220-monsters-til-midnight.json](./236220-monsters-til-midnight.json) |
 | Monsters & Anomaly | 112692 | [112692-monsters-and-anomaly.json](./112692-monsters-and-anomaly.json) |
 | Monsters & Memories | 233978 | [233978-monsters-and-memories.json](./233978-monsters-and-memories.json) |
@@ -16344,6 +16346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monument Builders: Rushmore | 58648 | [58648-monument-builders-rushmore.json](./58648-monument-builders-rushmore.json) |
 | Monument Builders: Statue of Liberty | 356134 | [356134-monument-builders-statue-of-liberty.json](./356134-monument-builders-statue-of-liberty.json) |
 | Monument Builders: Titanic | 295452 | [295452-monument-builders-titanic.json](./295452-monument-builders-titanic.json) |
+| Monument Journey | 213087 | [213087-monument-journey.json](./213087-monument-journey.json) |
 | Monument Journey: Nitro | 213898 | [213898-monument-journey-nitro.json](./213898-monument-journey-nitro.json) |
 | Monument Valley 1&2 Bundle | 341446 | [341446-monument-valley-1-and-2-bundle.json](./341446-monument-valley-1-and-2-bundle.json) |
 | Monument Valley II | 36749 | [36749-monument-valley-ii.json](./36749-monument-valley-ii.json) |
