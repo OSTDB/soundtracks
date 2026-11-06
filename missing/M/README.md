@@ -18367,6 +18367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Driller: DrillLand | 135546 | [135546-mr-driller-drillland.json](./135546-mr-driller-drillland.json) |
 | Mr. Drumstix' Music Studio | 69232 | [69232-mr-drumstix-music-studio.json](./69232-mr-drumstix-music-studio.json) |
 | Mr. Dubstep | 68322 | [68322-mr-dubstep.json](./68322-mr-dubstep.json) |
+| Mr. E | 240578 | [240578-mr-e.json](./240578-mr-e.json) |
 | Mr. Elevator | 337088 | [337088-mr-elevator.json](./337088-mr-elevator.json) |
 | Mr. Fast | 127751 | [127751-mr-fast.json](./127751-mr-fast.json) |
 | Mr. Fat's Chopstick Challenge | 410441 | [410441-mr-fats-chopstick-challenge.json](./410441-mr-fats-chopstick-challenge.json) |
@@ -20698,6 +20699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Newborn Santa: Grow A Christmas Baby | 256348 | [256348-my-newborn-santa-grow-a-christmas-baby.json](./256348-my-newborn-santa-grow-a-christmas-baby.json) |
 | My Newspaper | 217499 | [217499-my-newspaper.json](./217499-my-newspaper.json) |
 | My Next Life as a Bird | 274756 | [274756-my-next-life-as-a-bird.json](./274756-my-next-life-as-a-bird.json) |
+| My Next Life as a Villainess: All Routes Lead to Doom! | 240567 | [240567-my-next-life-as-a-villainess-all-routes-lead-to-doom.json](./240567-my-next-life-as-a-villainess-all-routes-lead-to-doom.json) |
 | My Next Life as a Villainess: All Routes Lead to Doom! - Pirates of the Disturbance | 191485 | [191485-my-next-life-as-a-villainess-all-routes-lead-to-doom-pirates-of-the-disturbance.json](./191485-my-next-life-as-a-villainess-all-routes-lead-to-doom-pirates-of-the-disturbance.json) |
 | My Next Life as a Villainess: All Routes Lead to Doom! - Pirates of the Disturbance: Day One Edition | 270177 | [270177-my-next-life-as-a-villainess-all-routes-lead-to-doom-pirates-of-the-disturbance-day-one-edition.json](./270177-my-next-life-as-a-villainess-all-routes-lead-to-doom-pirates-of-the-disturbance-day-one-edition.json) |
 | My Night Driving | 185308 | [185308-my-night-driving.json](./185308-my-night-driving.json) |
