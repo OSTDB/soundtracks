@@ -4014,6 +4014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nickelodeon Extreme Tennis | 194327 | [194327-nickelodeon-extreme-tennis.json](./194327-nickelodeon-extreme-tennis.json) |
 | Nickelodeon Fit | 50706 | [50706-nickelodeon-fit.json](./50706-nickelodeon-fit.json) |
 | Nickelodeon Game Builder: Fanboy & Chum Chum | 326001 | [326001-nickelodeon-game-builder-fanboy-and-chum-chum.json](./326001-nickelodeon-game-builder-fanboy-and-chum-chum.json) |
+| Nickelodeon Game Builder: SpongeBob SquarePants | 210356 | [210356-nickelodeon-game-builder-spongebob-squarepants.json](./210356-nickelodeon-game-builder-spongebob-squarepants.json) |
 | Nickelodeon Guts | 42478 | [42478-nickelodeon-guts.json](./42478-nickelodeon-guts.json) |
 | Nickelodeon Kart Racers | 106109 | [106109-nickelodeon-kart-racers.json](./106109-nickelodeon-kart-racers.json) |
 | Nickelodeon Kart Racers 2: Grand Prix | 134680 | [134680-nickelodeon-kart-racers-2-grand-prix.json](./134680-nickelodeon-kart-racers-2-grand-prix.json) |
