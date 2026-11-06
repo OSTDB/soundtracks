@@ -2730,6 +2730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo Master Transporter | 296714 | [296714-cargo-master-transporter.json](./296714-cargo-master-transporter.json) |
 | Cargo Protocol: Cyberpunk Trains | 414148 | [414148-cargo-protocol-cyberpunk-trains.json](./414148-cargo-protocol-cyberpunk-trains.json) |
 | Cargo Runner: Mars | 389050 | [389050-cargo-runner-mars.json](./389050-cargo-runner-mars.json) |
+| Cargo Rush | 197989 | [197989-cargo-rush.json](./197989-cargo-rush.json) |
 | Cargo Shop Simulator | 368208 | [368208-cargo-shop-simulator.json](./368208-cargo-shop-simulator.json) |
 | Cargo Simulator | 346190 | [346190-cargo-simulator.json](./346190-cargo-simulator.json) |
 | Cargo Simulator 2019: Turkey | 287030 | [287030-cargo-simulator-2019-turkey.json](./287030-cargo-simulator-2019-turkey.json) |
@@ -3637,6 +3638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Puzzlefort | 271814 | [271814-castle-puzzlefort.json](./271814-castle-puzzlefort.json) |
 | Castle Quest | 13997 | [13997-castle-quest.json](./13997-castle-quest.json) |
 | Castle Quest | 307104 | [307104-castle-quest.json](./307104-castle-quest.json) |
+| Castle Raid | 197984 | [197984-castle-raid.json](./197984-castle-raid.json) |
 | Castle Raid 2 | 197762 | [197762-castle-raid-2.json](./197762-castle-raid-2.json) |
 | Castle Rain | 320025 | [320025-castle-rain.json](./320025-castle-rain.json) |
 | Castle Ralf | 73088 | [73088-castle-ralf.json](./73088-castle-ralf.json) |
@@ -3715,6 +3717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CastleMiner Z | 9794 | [9794-castleminer-z.json](./9794-castleminer-z.json) |
 | CastleOfDuck | 193722 | [193722-castleofduck.json](./193722-castleofduck.json) |
 | CastleOn | 353881 | [353881-castleon.json](./353881-castleon.json) |
+| Castleparts | 198013 | [198013-castleparts.json](./198013-castleparts.json) |
 | Castlepoint | 189036 | [189036-castlepoint.json](./189036-castlepoint.json) |
 | Castlequest | 330925 | [330925-castlequest.json](./330925-castlequest.json) |
 | Castlequest | 48070 | [48070-castlequest.json](./48070-castlequest.json) |
@@ -5330,6 +5333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cells at Work | 213685 | [213685-cells-at-work.json](./213685-cells-at-work.json) |
 | Cells at Work: Battle | 174786 | [174786-cells-at-work-battle.json](./174786-cells-at-work-battle.json) |
 | Cells of Division | 406329 | [406329-cells-of-division.json](./406329-cells-of-division.json) |
+| CellSar | 197971 | [197971-cellsar.json](./197971-cellsar.json) |
 | Cellscape | 366205 | [366205-cellscape.json](./366205-cellscape.json) |
 | CellTD | 183879 | [183879-celltd.json](./183879-celltd.json) |
 | Cellular City | 304977 | [304977-cellular-city.json](./304977-cellular-city.json) |
@@ -15864,6 +15868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Gardener Simulator & House Renovator Simulator | 377273 | [377273-cozy-gardener-simulator-and-house-renovator-simulator.json](./377273-cozy-gardener-simulator-and-house-renovator-simulator.json) |
 | Cozy Grove | 144800 | [144800-cozy-grove.json](./144800-cozy-grove.json) |
 | Cozy Grove + New Neighbears Bundle | 199635 | [199635-cozy-grove-new-neighbears-bundle.json](./199635-cozy-grove-new-neighbears-bundle.json) |
+| Cozy Grove: New Neighbears | 197968 | [197968-cozy-grove-new-neighbears.json](./197968-cozy-grove-new-neighbears.json) |
 | Cozy Halloween | 339329 | [339329-cozy-halloween.json](./339329-cozy-halloween.json) |
 | Cozy Hamlets | 290441 | [290441-cozy-hamlets.json](./290441-cozy-hamlets.json) |
 | Cozy Harvest | 376458 | [376458-cozy-harvest.json](./376458-cozy-harvest.json) |
@@ -20375,6 +20380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Grannies | 307383 | [307383-cyber-grannies.json](./307383-cyber-grannies.json) |
 | Cyber Gun | 117382 | [117382-cyber-gun.json](./117382-cyber-gun.json) |
 | Cyber Gunner | 208095 | [208095-cyber-gunner.json](./208095-cyber-gunner.json) |
+| Cyber Hacker | 197980 | [197980-cyber-hacker.json](./197980-cyber-hacker.json) |
 | Cyber Hamster Tilt | 186049 | [186049-cyber-hamster-tilt.json](./186049-cyber-hamster-tilt.json) |
 | Cyber Heart | 247977 | [247977-cyber-heart.json](./247977-cyber-heart.json) |
 | Cyber Hearts Club | 311633 | [311633-cyber-hearts-club.json](./311633-cyber-hearts-club.json) |
