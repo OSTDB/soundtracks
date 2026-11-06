@@ -5165,6 +5165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Level Again | 113962 | [113962-that-level-again.json](./113962-that-level-again.json) |
 | That Level Again 2 | 144491 | [144491-that-level-again-2.json](./144491-that-level-again-2.json) |
 | That Level Again 3D | 320092 | [320092-that-level-again-3d.json](./320092-that-level-again-3d.json) |
+| That Lonesome Valley | 240569 | [240569-that-lonesome-valley.json](./240569-that-lonesome-valley.json) |
 | That New Diner | 327900 | [327900-that-new-diner.json](./327900-that-new-diner.json) |
 | That Night | 218733 | [218733-that-night.json](./218733-that-night.json) |
 | That One Celestial Night | 176495 | [176495-that-one-celestial-night.json](./176495-that-one-celestial-night.json) |
@@ -10323,6 +10324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gummiest Bear Challenge | 212073 | [212073-the-gummiest-bear-challenge.json](./212073-the-gummiest-bear-challenge.json) |
 | The Gun Game | 235247 | [235247-the-gun-game.json](./235247-the-gun-game.json) |
 | The Gun is Good | 254024 | [254024-the-gun-is-good.json](./254024-the-gun-is-good.json) |
+| The Gunslinger | 240595 | [240595-the-gunslinger.json](./240595-the-gunslinger.json) |
 | The Gunstringer | 7588 | [7588-the-gunstringer.json](./7588-the-gunstringer.json) |
 | The Gunstringer: El Diablo's 'Merican Adventure | 349729 | [349729-the-gunstringer-el-diablos-merican-adventure.json](./349729-the-gunstringer-el-diablos-merican-adventure.json) |
 | The Gunstringer: Real Big Shootin' | 349728 | [349728-the-gunstringer-real-big-shootin.json](./349728-the-gunstringer-real-big-shootin.json) |
@@ -12780,6 +12782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lighthouse Secrets | 348428 | [348428-the-lighthouse-secrets.json](./348428-the-lighthouse-secrets.json) |
 | The Lighting Ages | 339189 | [339189-the-lighting-ages.json](./339189-the-lighting-ages.json) |
 | The Lightkeeper | 215737 | [215737-the-lightkeeper.json](./215737-the-lightkeeper.json) |
+| The Lightkeeper | 240553 | [240553-the-lightkeeper.json](./240553-the-lightkeeper.json) |
 | The Lightkeepers | 377652 | [377652-the-lightkeepers.json](./377652-the-lightkeepers.json) |
 | The Lightless World | 289989 | [289989-the-lightless-world.json](./289989-the-lightless-world.json) |
 | The Lightning Girl | 372275 | [372275-the-lightning-girl.json](./372275-the-lightning-girl.json) |
@@ -23269,6 +23272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Wizard Tavern | 412388 | [412388-tiny-wizard-tavern.json](./412388-tiny-wizard-tavern.json) |
 | Tiny World | 117595 | [117595-tiny-world.json](./117595-tiny-world.json) |
 | Tiny World | 234586 | [234586-tiny-world.json](./234586-tiny-world.json) |
+| Tiny x Machinegun | 240563 | [240563-tiny-x-machinegun.json](./240563-tiny-x-machinegun.json) |
 | Tiny Zoo Friends | 368273 | [368273-tiny-zoo-friends.json](./368273-tiny-zoo-friends.json) |
 | Tiny-DDug | 267218 | [267218-tiny-ddug.json](./267218-tiny-ddug.json) |
 | Tiny-Doc | 352347 | [352347-tiny-doc.json](./352347-tiny-doc.json) |
@@ -26182,6 +26186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Rock Maiden FC | 202936 | [202936-touhou-rock-maiden-fc.json](./202936-touhou-rock-maiden-fc.json) |
 | Touhou Rock Maiden FC 2: History's Greatest Sermon!! | 203652 | [203652-touhou-rock-maiden-fc-2-historys-greatest-sermon.json](./203652-touhou-rock-maiden-fc-2-historys-greatest-sermon.json) |
 | Touhou Rock Maiden FC 3: Little Native Goddess's Revival | 386119 | [386119-touhou-rock-maiden-fc-3-little-native-goddesss-revival.json](./386119-touhou-rock-maiden-fc-3-little-native-goddesss-revival.json) |
+| Touhou Rououmu | 240557 | [240557-touhou-rououmu.json](./240557-touhou-rououmu.json) |
 | Touhou Saibanmu: Rookie Attorney Legendry | 318963 | [318963-touhou-saibanmu-rookie-attorney-legendry.json](./318963-touhou-saibanmu-rookie-attorney-legendry.json) |
 | Touhou Saikotan: Servants of Harvest Wish | 246678 | [246678-touhou-saikotan-servants-of-harvest-wish.json](./246678-touhou-saikotan-servants-of-harvest-wish.json) |
 | Touhou Scarlet Diabolique Fantastica | 302884 | [302884-touhou-scarlet-diabolique-fantastica.json](./302884-touhou-scarlet-diabolique-fantastica.json) |
@@ -27057,6 +27062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toycrafter | 387297 | [387297-toycrafter.json](./387297-toycrafter.json) |
 | Toyforming | 250273 | [250273-toyforming.json](./250273-toyforming.json) |
 | Toyful Wonderworld | 292453 | [292453-toyful-wonderworld.json](./292453-toyful-wonderworld.json) |
+| ToyLand | 240587 | [240587-toyland.json](./240587-toyland.json) |
 | Toyland Racer | 231847 | [231847-toyland-racer.json](./231847-toyland-racer.json) |
 | Toyland Racing | 73764 | [73764-toyland-racing.json](./73764-toyland-racing.json) |
 | Toyland Tussle | 352375 | [352375-toyland-tussle.json](./352375-toyland-tussle.json) |
