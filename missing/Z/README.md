@@ -424,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zecha Tactics | 142593 | [142593-zecha-tactics.json](./142593-zecha-tactics.json) |
 | Zector 7 | 299103 | [299103-zector-7.json](./299103-zector-7.json) |
 | Zed | 112831 | [112831-zed.json](./112831-zed.json) |
+| Zed | 227650 | [227650-zed.json](./227650-zed.json) |
 | Zed Blade | 39345 | [39345-zed-blade.json](./39345-zed-blade.json) |
 | Zed Patrol | 264185 | [264185-zed-patrol.json](./264185-zed-patrol.json) |
 | Zed Shot | 107041 | [107041-zed-shot.json](./107041-zed-shot.json) |
@@ -509,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelda's Adventure | 248106 | [248106-zeldas-adventure.json](./248106-zeldas-adventure.json) |
 | Zelda's Adventure | 8534 | [8534-zeldas-adventure.json](./8534-zeldas-adventure.json) |
 | Zelda's Adventure Remastered | 369314 | [369314-zeldas-adventure-remastered.json](./369314-zeldas-adventure-remastered.json) |
+| Zelda's Ballad | 227620 | [227620-zeldas-ballad.json](./227620-zeldas-ballad.json) |
 | Zelda's Birthday | 173087 | [173087-zeldas-birthday.json](./173087-zeldas-birthday.json) |
 | Zelda3 | 237542 | [237542-zelda3.json](./237542-zelda3.json) |
 | Zelda3: Cube | 252329 | [252329-zelda3-cube.json](./252329-zelda3-cube.json) |
