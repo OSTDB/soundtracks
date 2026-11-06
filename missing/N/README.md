@@ -302,6 +302,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Name that Sonic Tune | 326960 | [326960-name-that-sonic-tune.json](./326960-name-that-sonic-tune.json) |
 | Name that tune | 37323 | [37323-name-that-tune.json](./37323-name-that-tune.json) |
 | Name That Tune | 198833 | [198833-name-that-tune.json](./198833-name-that-tune.json) |
+| Name That Tune: Country & Western Hits | 205770 | [205770-name-that-tune-country-and-western-hits.json](./205770-name-that-tune-country-and-western-hits.json) |
+| Name That Tune: Music Cartridge | 205769 | [205769-name-that-tune-music-cartridge.json](./205769-name-that-tune-music-cartridge.json) |
 | Name That Tune: Pop Hits from the 60's-90's | 198834 | [198834-name-that-tune-pop-hits-from-the-60s-90s.json](./198834-name-that-tune-pop-hits-from-the-60s-90s.json) |
 | Name the Song Quiz | 84093 | [84093-name-the-song-quiz.json](./84093-name-the-song-quiz.json) |
 | Name This Game | 22838 | [22838-name-this-game.json](./22838-name-this-game.json) |
@@ -4244,6 +4246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Island | 120793 | [120793-night-island.json](./120793-night-island.json) |
 | Night Jackal | 133166 | [133166-night-jackal.json](./133166-night-jackal.json) |
 | Night Jackal: Blood Debt | 352487 | [352487-night-jackal-blood-debt.json](./352487-night-jackal-blood-debt.json) |
+| Night Janitor | 205738 | [205738-night-janitor.json](./205738-night-janitor.json) |
 | Night Keep | 311622 | [311622-night-keep.json](./311622-night-keep.json) |
 | Night Life | 13562 | [13562-night-life.json](./13562-night-life.json) |
 | Night Light | 206626 | [206626-night-light.json](./206626-night-light.json) |
@@ -7329,6 +7332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Empire | 203296 | [203296-nuclear-empire.json](./203296-nuclear-empire.json) |
 | Nuclear Engineer Tycoon | 414331 | [414331-nuclear-engineer-tycoon.json](./414331-nuclear-engineer-tycoon.json) |
 | Nuclear Epoch | 370864 | [370864-nuclear-epoch.json](./370864-nuclear-epoch.json) |
+| Nuclear Fighter | 205744 | [205744-nuclear-fighter.json](./205744-nuclear-fighter.json) |
 | Nuclear Frost | 244692 | [244692-nuclear-frost.json](./244692-nuclear-frost.json) |
 | Nuclear Gladiators 3000 | 273447 | [273447-nuclear-gladiators-3000.json](./273447-nuclear-gladiators-3000.json) |
 | Nuclear Hack INC. - War Simulator | 106889 | [106889-nuclear-hack-inc-war-simulator.json](./106889-nuclear-hack-inc-war-simulator.json) |
