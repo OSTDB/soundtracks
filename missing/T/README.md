@@ -2587,6 +2587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taskmaster | 67877 | [67877-taskmaster.json](./67877-taskmaster.json) |
 | Tasks for Two | 368277 | [368277-tasks-for-two.json](./368277-tasks-for-two.json) |
 | TaskTwist | 270553 | [270553-tasktwist.json](./270553-tasktwist.json) |
+| Tasmanian Devil | 241158 | [241158-tasmanian-devil.json](./241158-tasmanian-devil.json) |
 | Tasmon: Taskbar Monsters | 424015 | [424015-tasmon-taskbar-monsters.json](./424015-tasmon-taskbar-monsters.json) |
 | Tasogare | 313493 | [313493-tasogare.json](./313493-tasogare.json) |
 | Tasogare no Sinsemilla | 60444 | [60444-tasogare-no-sinsemilla.json](./60444-tasogare-no-sinsemilla.json) |
@@ -4521,6 +4522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terraria 2 | 3021 | [3021-terraria-2.json](./3021-terraria-2.json) |
 | Terraria: Bigger and Boulder | 386978 | [386978-terraria-bigger-and-boulder.json](./386978-terraria-bigger-and-boulder.json) |
 | Terraria: Calamity Mod | 141229 | [141229-terraria-calamity-mod.json](./141229-terraria-calamity-mod.json) |
+| Terraria: Fargo's Souls Mod | 241156 | [241156-terraria-fargos-souls-mod.json](./241156-terraria-fargos-souls-mod.json) |
 | Terraria: Journey's End | 295662 | [295662-terraria-journeys-end.json](./295662-terraria-journeys-end.json) |
 | Terraria: Lunar Veil Mod | 361816 | [361816-terraria-lunar-veil-mod.json](./361816-terraria-lunar-veil-mod.json) |
 | Terraria: Mod of Redemption | 223036 | [223036-terraria-mod-of-redemption.json](./223036-terraria-mod-of-redemption.json) |
@@ -4865,6 +4867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris | 215386 | [215386-tetris.json](./215386-tetris.json) |
 | Tetris | 215387 | [215387-tetris.json](./215387-tetris.json) |
 | Tetris | 221969 | [221969-tetris.json](./221969-tetris.json) |
+| Tetris | 241151 | [241151-tetris.json](./241151-tetris.json) |
 | Tetris | 241761 | [241761-tetris.json](./241761-tetris.json) |
 | Tetris | 270420 | [270420-tetris.json](./270420-tetris.json) |
 | Tetris | 280940 | [280940-tetris.json](./280940-tetris.json) |
@@ -25091,6 +25094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Burger | 117102 | [117102-top-burger.json](./117102-top-burger.json) |
 | Top Burger Shop Simulator | 326330 | [326330-top-burger-shop-simulator.json](./326330-top-burger-shop-simulator.json) |
 | Top Cat in Beverly Hills Cats | 71415 | [71415-top-cat-in-beverly-hills-cats.json](./71415-top-cat-in-beverly-hills-cats.json) |
+| Top Cat: Alley Cash | 241118 | [241118-top-cat-alley-cash.json](./241118-top-cat-alley-cash.json) |
 | Top Check | 331986 | [331986-top-check.json](./331986-top-check.json) |
 | Top Chef: The Game | 65350 | [65350-top-chef-the-game.json](./65350-top-chef-the-game.json) |
 | Top Classic Plaigarized | 319095 | [319095-top-classic-plaigarized.json](./319095-top-classic-plaigarized.json) |
@@ -31970,6 +31974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turf Wars: A Snail Escape | 207723 | [207723-turf-wars-a-snail-escape.json](./207723-turf-wars-a-snail-escape.json) |
 | Turgor Pressure | 177318 | [177318-turgor-pressure.json](./177318-turgor-pressure.json) |
 | Turi: Kaapora | 255483 | [255483-turi-kaapora.json](./255483-turi-kaapora.json) |
+| Turing Quest | 241142 | [241142-turing-quest.json](./241142-turing-quest.json) |
 | Turing Sandbox | 400448 | [400448-turing-sandbox.json](./400448-turing-sandbox.json) |
 | Turing Trial | 183987 | [183987-turing-trial.json](./183987-turing-trial.json) |
 | Turis Station | 244501 | [244501-turis-station.json](./244501-turis-station.json) |
