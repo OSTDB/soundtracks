@@ -1841,6 +1841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yum, Yum, Panda Fun | 95757 | [95757-yum-yum-panda-fun.json](./95757-yum-yum-panda-fun.json) |
 | Yum! Finger | 243710 | [243710-yum-finger.json](./243710-yum-finger.json) |
 | Yum's Farm | 375857 | [375857-yums-farm.json](./375857-yums-farm.json) |
+| Yuma | 236603 | [236603-yuma.json](./236603-yuma.json) |
 | Yuma Nest | 296960 | [296960-yuma-nest.json](./296960-yuma-nest.json) |
 | Yuma Will Burn | 212074 | [212074-yuma-will-burn.json](./212074-yuma-will-burn.json) |
 | Yumahorome: Toki wo Tometa Yakata de Asu wo Sagasu Maigo-tachi | 368643 | [368643-yumahorome-toki-wo-tometa-yakata-de-asu-wo-sagasu-maigo-tachi.json](./368643-yumahorome-toki-wo-tometa-yakata-de-asu-wo-sagasu-maigo-tachi.json) |
