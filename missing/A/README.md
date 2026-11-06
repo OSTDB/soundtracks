@@ -7540,6 +7540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ally Me or Vore | 397302 | [397302-ally-me-or-vore.json](./397302-ally-me-or-vore.json) |
 | Ally Racer | 138542 | [138542-ally-racer.json](./138542-ally-racer.json) |
 | AllYourArdu | 298954 | [298954-allyourardu.json](./298954-allyourardu.json) |
+| Alma | 200795 | [200795-alma.json](./200795-alma.json) |
 | Alma | 80915 | [80915-alma.json](./80915-alma.json) |
 | Alma and the Fragments of Cursed Memories | 328178 | [328178-alma-and-the-fragments-of-cursed-memories.json](./328178-alma-and-the-fragments-of-cursed-memories.json) |
 | Alma's Search | 416563 | [416563-almas-search.json](./416563-almas-search.json) |
@@ -11540,6 +11541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalipsis | 28319 | [28319-apocalipsis.json](./28319-apocalipsis.json) |
 | Apocalipsis: The Tree of the Knowledge of Good and Evil | 90073 | [90073-apocalipsis-the-tree-of-the-knowledge-of-good-and-evil.json](./90073-apocalipsis-the-tree-of-the-knowledge-of-good-and-evil.json) |
 | Apocalipsis: Wormwood Edition | 114206 | [114206-apocalipsis-wormwood-edition.json](./114206-apocalipsis-wormwood-edition.json) |
+| Apocalive | 200787 | [200787-apocalive.json](./200787-apocalive.json) |
 | Apocalyps zombie Race | 83997 | [83997-apocalyps-zombie-race.json](./83997-apocalyps-zombie-race.json) |
 | Apocalypse | 121273 | [121273-apocalypse.json](./121273-apocalypse.json) |
 | Apocalypse | 14260 | [14260-apocalypse.json](./14260-apocalypse.json) |
@@ -11842,6 +11844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apventure to Atlantis | 23291 | [23291-apventure-to-atlantis.json](./23291-apventure-to-atlantis.json) |
 | AQ First Contact | 158934 | [158934-aq-first-contact.json](./158934-aq-first-contact.json) |
 | Aqi 155 | 222369 | [222369-aqi-155.json](./222369-aqi-155.json) |
+| Aqorel | 200807 | [200807-aqorel.json](./200807-aqorel.json) |
 | AQRA Tenses: Learn English | 237280 | [237280-aqra-tenses-learn-english.json](./237280-aqra-tenses-learn-english.json) |
 | AQtion | 202662 | [202662-aqtion.json](./202662-aqtion.json) |
 | Aqua | 37278 | [37278-aqua.json](./37278-aqua.json) |
@@ -15987,6 +15990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Mission: Moon | 192811 | [192811-astro-mission-moon.json](./192811-astro-mission-moon.json) |
 | Astro Navigator | 15606 | [15606-astro-navigator.json](./15606-astro-navigator.json) |
 | Astro Ninja Man DX | 206600 | [206600-astro-ninja-man-dx.json](./206600-astro-ninja-man-dx.json) |
+| Astro Nut | 200779 | [200779-astro-nut.json](./200779-astro-nut.json) |
 | Astro Odyssey | 336510 | [336510-astro-odyssey.json](./336510-astro-odyssey.json) |
 | Astro Party | 103234 | [103234-astro-party.json](./103234-astro-party.json) |
 | Astro Party EX | 386777 | [386777-astro-party-ex.json](./386777-astro-party-ex.json) |
