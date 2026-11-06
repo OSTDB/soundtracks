@@ -5994,6 +5994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No.L85 | 148763 | [148763-no-l85.json](./148763-no-l85.json) |
 | No1Left | 34283 | [34283-no1left.json](./34283-no1left.json) |
 | Noa Noa! | 115029 | [115029-noa-noa.json](./115029-noa-noa.json) |
+| Noa Uchu Sanki | 196349 | [196349-noa-uchu-sanki.json](./196349-noa-uchu-sanki.json) |
 | Noa's Project | 212836 | [212836-noas-project.json](./212836-noas-project.json) |
 | Noah | 130260 | [130260-noah.json](./130260-noah.json) |
 | Noah | 252670 | [252670-noah.json](./252670-noah.json) |
