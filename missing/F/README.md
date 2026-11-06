@@ -8783,6 +8783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNaF: Wii U Edition | 357443 | [357443-fnaf-wii-u-edition.json](./357443-fnaf-wii-u-edition.json) |
 | FNAFB: Desk Fan's Particularly Unusual Journey - Refreshed Edition | 373849 | [373849-fnafb-desk-fans-particularly-unusual-journey-refreshed-edition.json](./373849-fnafb-desk-fans-particularly-unusual-journey-refreshed-edition.json) |
 | FNAFMIN | 358249 | [358249-fnafmin.json](./358249-fnafmin.json) |
+| FNF Big Chungus Mod Piano Tiles | 200775 | [200775-fnf-big-chungus-mod-piano-tiles.json](./200775-fnf-big-chungus-mod-piano-tiles.json) |
 | FNF Weekly | 314498 | [314498-fnf-weekly.json](./314498-fnf-weekly.json) |
 | FNF x Ace Attorney: Turnabout | 314044 | [314044-fnf-x-ace-attorney-turnabout.json](./314044-fnf-x-ace-attorney-turnabout.json) |
 | FNF: Executable Mania | 314507 | [314507-fnf-executable-mania.json](./314507-fnf-executable-mania.json) |
@@ -11902,6 +11903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': Banbuds vs. Reggie the Rat | 202337 | [202337-friday-night-funkin-banbuds-vs-reggie-the-rat.json](./202337-friday-night-funkin-banbuds-vs-reggie-the-rat.json) |
 | Friday Night Funkin': CG5 Edition | 224523 | [224523-friday-night-funkin-cg5-edition.json](./224523-friday-night-funkin-cg5-edition.json) |
 | Friday Night Funkin': D Side | 285244 | [285244-friday-night-funkin-d-side.json](./285244-friday-night-funkin-d-side.json) |
+| Friday Night Funkin': Dearest Double Date | 200806 | [200806-friday-night-funkin-dearest-double-date.json](./200806-friday-night-funkin-dearest-double-date.json) |
 | Friday Night Funkin': Elements of Insanity | 198303 | [198303-friday-night-funkin-elements-of-insanity.json](./198303-friday-night-funkin-elements-of-insanity.json) |
 | Friday Night Funkin': Halloween Hack | 228324 | [228324-friday-night-funkin-halloween-hack.json](./228324-friday-night-funkin-halloween-hack.json) |
 | Friday Night Funkin': Hazy River | 238842 | [238842-friday-night-funkin-hazy-river.json](./238842-friday-night-funkin-hazy-river.json) |
@@ -11929,6 +11931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': Vs 7 Grand Dad | 202611 | [202611-friday-night-funkin-vs-7-grand-dad.json](./202611-friday-night-funkin-vs-7-grand-dad.json) |
 | Friday Night Funkin': Vs Ankha | 186302 | [186302-friday-night-funkin-vs-ankha.json](./186302-friday-night-funkin-vs-ankha.json) |
 | Friday Night Funkin': VS Boykisser | 266414 | [266414-friday-night-funkin-vs-boykisser.json](./266414-friday-night-funkin-vs-boykisser.json) |
+| Friday Night Funkin': Vs Huggy Wuggy | 200793 | [200793-friday-night-funkin-vs-huggy-wuggy.json](./200793-friday-night-funkin-vs-huggy-wuggy.json) |
 | Friday Night Funkin': vs Impostor | 341839 | [341839-friday-night-funkin-vs-impostor.json](./341839-friday-night-funkin-vs-impostor.json) |
 | Friday Night Funkin': Vs Impostor | 202380 | [202380-friday-night-funkin-vs-impostor.json](./202380-friday-night-funkin-vs-impostor.json) |
 | Friday Night Funkin': VS Kacy | 208259 | [208259-friday-night-funkin-vs-kacy.json](./208259-friday-night-funkin-vs-kacy.json) |
