@@ -702,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madoromi Travel | 289225 | [289225-madoromi-travel.json](./289225-madoromi-travel.json) |
 | Madotsuki's Closet | 145675 | [145675-madotsukis-closet.json](./145675-madotsukis-closet.json) |
 | Madotsuki's Story | 229260 | [229260-madotsukis-story.json](./229260-madotsukis-story.json) |
+| Madotsuki's Story: Retrograde | 225435 | [225435-madotsukis-story-retrograde.json](./225435-madotsukis-story-retrograde.json) |
 | Madou Gakuin R | 46613 | [46613-madou-gakuin-r.json](./46613-madou-gakuin-r.json) |
 | Madou Monogatari | 252164 | [252164-madou-monogatari.json](./252164-madou-monogatari.json) |
 | Madou Monogatari | 57675 | [57675-madou-monogatari.json](./57675-madou-monogatari.json) |
@@ -6399,6 +6400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me, My Mech and I | 235649 | [235649-me-my-mech-and-i.json](./235649-me-my-mech-and-i.json) |
 | Me, the Drifter; Her, the Optimist | 392465 | [392465-me-the-drifter-her-the-optimist.json](./392465-me-the-drifter-her-the-optimist.json) |
 | Me2 | 329211 | [329211-me2.json](./329211-me2.json) |
+| Mea Culpa | 225424 | [225424-mea-culpa.json](./225424-mea-culpa.json) |
 | Mea’s Saifu Collection Party | 411618 | [411618-mea-s-saifu-collection-party.json](./411618-mea-s-saifu-collection-party.json) |
 | Mead & Glory | 374865 | [374865-mead-and-glory.json](./374865-mead-and-glory.json) |
 | Mead Crafter | 139122 | [139122-mead-crafter.json](./139122-mead-crafter.json) |
@@ -10527,6 +10529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro's Dilemma II | 398798 | [398798-micros-dilemma-ii.json](./398798-micros-dilemma-ii.json) |
 | Micro$oft Simulaattori | 98940 | [98940-micro-oft-simulaattori.json](./98940-micro-oft-simulaattori.json) |
 | Microarcade ApplePie | 223617 | [223617-microarcade-applepie.json](./223617-microarcade-applepie.json) |
+| Microarcade Rockwork | 225445 | [225445-microarcade-rockwork.json](./225445-microarcade-rockwork.json) |
 | Microball | 94617 | [94617-microball.json](./94617-microball.json) |
 | Microban | 362234 | [362234-microban.json](./362234-microban.json) |
 | Microbe Kombat | 281184 | [281184-microbe-kombat.json](./281184-microbe-kombat.json) |
@@ -11542,6 +11545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milanoir | 37852 | [37852-milanoir.json](./37852-milanoir.json) |
 | Milanoir: Special Edition | 28358 | [28358-milanoir-special-edition.json](./28358-milanoir-special-edition.json) |
 | Milcham: From the Ashes of Hearts | 319077 | [319077-milcham-from-the-ashes-of-hearts.json](./319077-milcham-from-the-ashes-of-hearts.json) |
+| Mild Dream | 225428 | [225428-mild-dream.json](./225428-mild-dream.json) |
 | Mildred's Tarot Battle | 291400 | [291400-mildreds-tarot-battle.json](./291400-mildreds-tarot-battle.json) |
 | MildTini | 196405 | [196405-mildtini.json](./196405-mildtini.json) |
 | Mile 27 | 413767 | [413767-mile-27.json](./413767-mile-27.json) |
@@ -18478,6 +18482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Lupin | 326972 | [326972-mr-lupin.json](./326972-mr-lupin.json) |
 | Mr. Magic | 169833 | [169833-mr-magic.json](./169833-mr-magic.json) |
 | Mr. Massagy | 31806 | [31806-mr-massagy.json](./31806-mr-massagy.json) |
+| Mr. Massagy: Mayo Edition | 225461 | [225461-mr-massagy-mayo-edition.json](./225461-mr-massagy-mayo-edition.json) |
 | Mr. Mat Hematic | 234572 | [234572-mr-mat-hematic.json](./234572-mr-mat-hematic.json) |
 | Mr. Maymunshine’s Christmas Land | 342216 | [342216-mr-maymunshine-s-christmas-land.json](./342216-mr-maymunshine-s-christmas-land.json) |
 | Mr. Maze | 112865 | [112865-mr-maze.json](./112865-mr-maze.json) |
@@ -20398,6 +20403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero One's Justice 2: Pack 7 Present Mic | 193195 | [193195-my-hero-ones-justice-2-pack-7-present-mic.json](./193195-my-hero-ones-justice-2-pack-7-present-mic.json) |
 | My Hero One's Justice 2: Pack 8 Kurogiri | 193194 | [193194-my-hero-ones-justice-2-pack-8-kurogiri.json](./193194-my-hero-ones-justice-2-pack-8-kurogiri.json) |
 | My Hero One's Justice 2: Plus Ultra Edition | 136147 | [136147-my-hero-ones-justice-2-plus-ultra-edition.json](./136147-my-hero-ones-justice-2-plus-ultra-edition.json) |
+| My Hero One's Justice 2: Villainous Wear Set | 225464 | [225464-my-hero-ones-justice-2-villainous-wear-set.json](./225464-my-hero-ones-justice-2-villainous-wear-set.json) |
 | My Hero One's Justice 2: Weekend Clothes 1-A Lively Set | 228025 | [228025-my-hero-ones-justice-2-weekend-clothes-1-a-lively-set.json](./228025-my-hero-ones-justice-2-weekend-clothes-1-a-lively-set.json) |
 | My Hero One's Justice 2: Weekend Clothes 1-A Serious Set | 225377 | [225377-my-hero-ones-justice-2-weekend-clothes-1-a-serious-set.json](./225377-my-hero-ones-justice-2-weekend-clothes-1-a-serious-set.json) |
 | My Hero One's Justice: Additional Mission - Gale | 168256 | [168256-my-hero-ones-justice-additional-mission-gale.json](./168256-my-hero-ones-justice-additional-mission-gale.json) |
