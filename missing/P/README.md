@@ -2538,6 +2538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Particle Accelerator | 62063 | [62063-particle-accelerator.json](./62063-particle-accelerator.json) |
 | Particle Clicker | 405676 | [405676-particle-clicker.json](./405676-particle-clicker.json) |
 | Particle Fleet: Emergence | 24821 | [24821-particle-fleet-emergence.json](./24821-particle-fleet-emergence.json) |
+| Particle Hearts | 208570 | [208570-particle-hearts.json](./208570-particle-hearts.json) |
 | Particle Mace | 17304 | [17304-particle-mace.json](./17304-particle-mace.json) |
 | Particle of God | 217223 | [217223-particle-of-god.json](./217223-particle-of-god.json) |
 | Particles | 262696 | [262696-particles.json](./262696-particles.json) |
@@ -7802,6 +7803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitman | 76178 | [76178-pitman.json](./76178-pitman.json) |
 | Pitstop Challenge | 25444 | [25444-pitstop-challenge.json](./25444-pitstop-challenge.json) |
 | Pitstop II | 24660 | [24660-pitstop-ii.json](./24660-pitstop-ii.json) |
+| Pitstop in Purgatory | 208564 | [208564-pitstop-in-purgatory.json](./208564-pitstop-in-purgatory.json) |
 | Pitta | 297976 | [297976-pitta.json](./297976-pitta.json) |
 | PitterPot | 110811 | [110811-pitterpot.json](./110811-pitterpot.json) |
 | Pittsfield | 98322 | [98322-pittsfield.json](./98322-pittsfield.json) |
@@ -9899,6 +9901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playtris | 201991 | [201991-playtris.json](./201991-playtris.json) |
 | Playtron | 56155 | [56155-playtron.json](./56155-playtron.json) |
 | PlayVille | 366253 | [366253-playville.json](./366253-playville.json) |
+| PlayWith | 208544 | [208544-playwith.json](./208544-playwith.json) |
 | Playworld Superheroes | 23230 | [23230-playworld-superheroes.json](./23230-playworld-superheroes.json) |
 | PlayZ | 170833 | [170833-playz.json](./170833-playz.json) |
 | Plaza Security | 306427 | [306427-plaza-security.json](./306427-plaza-security.json) |
