@@ -601,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wand of Fortune R2: Jikuu ni Shizumu Mokushiroku | 131916 | [131916-wand-of-fortune-r2-jikuu-ni-shizumu-mokushiroku.json](./131916-wand-of-fortune-r2-jikuu-ni-shizumu-mokushiroku.json) |
 | Wand of Fortune: Mirai he no Prologue | 218959 | [218959-wand-of-fortune-mirai-he-no-prologue.json](./218959-wand-of-fortune-mirai-he-no-prologue.json) |
 | Wand of Fortune: Mirai he no Prologue Portable | 218960 | [218960-wand-of-fortune-mirai-he-no-prologue-portable.json](./218960-wand-of-fortune-mirai-he-no-prologue-portable.json) |
+| Wand Out: A 3D Magical Gay Novel | 211891 | [211891-wand-out-a-3d-magical-gay-novel.json](./211891-wand-out-a-3d-magical-gay-novel.json) |
 | Wand Wars | 33992 | [33992-wand-wars.json](./33992-wand-wars.json) |
 | Wand Wars VR | 81727 | [81727-wand-wars-vr.json](./81727-wand-wars-vr.json) |
 | Wander | 10920 | [10920-wander.json](./10920-wander.json) |
@@ -2916,6 +2917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Will Be Gods | 342716 | [342716-we-will-be-gods.json](./342716-we-will-be-gods.json) |
 | We Wish You a Merry Christmas | 5277 | [5277-we-wish-you-a-merry-christmas.json](./5277-we-wish-you-a-merry-christmas.json) |
 | We, Junk Artists | 369043 | [369043-we-junk-artists.json](./369043-we-junk-artists.json) |
+| We. The Refugees: Ticket to Europe | 212022 | [212022-we-the-refugees-ticket-to-europe.json](./212022-we-the-refugees-ticket-to-europe.json) |
 | We. The Revolution | 27513 | [27513-we-the-revolution.json](./27513-we-the-revolution.json) |
 | We'll always have Paris | 164263 | [164263-well-always-have-paris.json](./164263-well-always-have-paris.json) |
 | We'll Be Alright | 310564 | [310564-well-be-alright.json](./310564-well-be-alright.json) |
@@ -4414,6 +4416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiskey Mafia: Frank's Story | 163172 | [163172-whiskey-mafia-franks-story.json](./163172-whiskey-mafia-franks-story.json) |
 | Whiskey Mafia: Leo's Family | 133141 | [133141-whiskey-mafia-leos-family.json](./133141-whiskey-mafia-leos-family.json) |
 | Whiskey-Four | 338373 | [338373-whiskey-four.json](./338373-whiskey-four.json) |
+| Whisky Bottler | 212017 | [212017-whisky-bottler.json](./212017-whisky-bottler.json) |
 | Whismie | 394472 | [394472-whismie.json](./394472-whismie.json) |
 | Whisper | 132706 | [132706-whisper.json](./132706-whisper.json) |
 | Whisper | 345953 | [345953-whisper.json](./345953-whisper.json) |
@@ -8468,6 +8471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War II: Sniper - Call to Victory | 138090 | [138090-world-war-ii-sniper-call-to-victory.json](./138090-world-war-ii-sniper-call-to-victory.json) |
 | World War II: Tank Commander | 205825 | [205825-world-war-ii-tank-commander.json](./205825-world-war-ii-tank-commander.json) |
 | World War II: TCG | 115174 | [115174-world-war-ii-tcg.json](./115174-world-war-ii-tcg.json) |
+| World War II: Underground | 212037 | [212037-world-war-ii-underground.json](./212037-world-war-ii-underground.json) |
 | World War Legion | 365590 | [365590-world-war-legion.json](./365590-world-war-legion.json) |
 | World War Next | 288093 | [288093-world-war-next.json](./288093-world-war-next.json) |
 | World War One | 21137 | [21137-world-war-one.json](./21137-world-war-one.json) |
