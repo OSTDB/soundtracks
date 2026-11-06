@@ -1441,6 +1441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hank: Drowning on Dry Land | 195168 | [195168-hank-drowning-on-dry-land.json](./195168-hank-drowning-on-dry-land.json) |
 | Hank: Straightjacket | 232458 | [232458-hank-straightjacket.json](./232458-hank-straightjacket.json) |
 | Hank: The Great Unraveling | 258398 | [258398-hank-the-great-unraveling.json](./258398-hank-the-great-unraveling.json) |
+| Hank'n Spank | 212536 | [212536-hankn-spank.json](./212536-hankn-spank.json) |
 | Hank's Quest for Soup | 228203 | [228203-hanks-quest-for-soup.json](./228203-hanks-quest-for-soup.json) |
 | Hank's Voyage | 144908 | [144908-hanks-voyage.json](./144908-hanks-voyage.json) |
 | Hankou Shashin: Shibarareta Shoujo-tachi no Mita Mono ha? | 112567 | [112567-hankou-shashin-shibarareta-shoujo-tachi-no-mita-mono-ha.json](./112567-hankou-shashin-shibarareta-shoujo-tachi-no-mita-mono-ha.json) |
