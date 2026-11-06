@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu or Laifu | 243750 | [243750-waifu-or-laifu.json](./243750-waifu-or-laifu.json) |
 | Waifu Packer | 234111 | [234111-waifu-packer.json](./234111-waifu-packer.json) |
 | Waifu Pogo Club | 390750 | [390750-waifu-pogo-club.json](./390750-waifu-pogo-club.json) |
+| Waifu Puzzles | 243482 | [243482-waifu-puzzles.json](./243482-waifu-puzzles.json) |
 | Waifu Quest 2 | 311813 | [311813-waifu-quest-2.json](./311813-waifu-quest-2.json) |
 | Waifu School | 106413 | [106413-waifu-school.json](./106413-waifu-school.json) |
 | Waifu Secret | 169835 | [169835-waifu-secret.json](./169835-waifu-secret.json) |
@@ -4600,6 +4601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Wall | 149582 | [149582-white-wall.json](./149582-white-wall.json) |
 | White Water | 231557 | [231557-white-water.json](./231557-white-water.json) |
 | White Witch | 346108 | [346108-white-witch.json](./346108-white-witch.json) |
+| White Wolf: Darkside Chronicles | 243483 | [243483-white-wolf-darkside-chronicles.json](./243483-white-wolf-darkside-chronicles.json) |
 | White Wolf: Treasure Hunter | 243612 | [243612-white-wolf-treasure-hunter.json](./243612-white-wolf-treasure-hunter.json) |
 | White Wolf: Treasure Hunter 2 | 273382 | [273382-white-wolf-treasure-hunter-2.json](./273382-white-wolf-treasure-hunter-2.json) |
 | White-Hot Puyolympic! | 253721 | [253721-white-hot-puyolympic.json](./253721-white-hot-puyolympic.json) |
@@ -6248,6 +6250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Play House | 372689 | [372689-witch-play-house.json](./372689-witch-play-house.json) |
 | Witch Please! | 325888 | [325888-witch-please.json](./325888-witch-please.json) |
 | Witch Potion | 221427 | [221427-witch-potion.json](./221427-witch-potion.json) |
+| Witch Race | 243473 | [243473-witch-race.json](./243473-witch-race.json) |
 | Witch Ring Meister | 116867 | [116867-witch-ring-meister.json](./116867-witch-ring-meister.json) |
 | Witch Rise | 235633 | [235633-witch-rise.json](./235633-witch-rise.json) |
 | Witch Rush | 228281 | [228281-witch-rush.json](./228281-witch-rush.json) |
@@ -6797,6 +6800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woim | 404431 | [404431-woim.json](./404431-woim.json) |
 | Wojak Rush | 232936 | [232936-wojak-rush.json](./232936-wojak-rush.json) |
 | Wojak This Game | 221633 | [221633-wojak-this-game.json](./221633-wojak-this-game.json) |
+| Wojak Wants Hentai | 243484 | [243484-wojak-wants-hentai.json](./243484-wojak-wants-hentai.json) |
 | Wojdan | 90488 | [90488-wojdan.json](./90488-wojdan.json) |
 | Wok Planet | 220628 | [220628-wok-planet.json](./220628-wok-planet.json) |
 | Wok This Way! | 399148 | [399148-wok-this-way.json](./399148-wok-this-way.json) |
@@ -9143,6 +9147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WW2 Z Range VR | 119712 | [119712-ww2-z-range-vr.json](./119712-ww2-z-range-vr.json) |
 | WW2 Zone War: Cold Warzone Ops | 269098 | [269098-ww2-zone-war-cold-warzone-ops.json](./269098-ww2-zone-war-cold-warzone-ops.json) |
 | WW2: Bunker Simulator | 123889 | [123889-ww2-bunker-simulator.json](./123889-ww2-bunker-simulator.json) |
+| WW2: Bunker Simulator - Hunting Wild | 243485 | [243485-ww2-bunker-simulator-hunting-wild.json](./243485-ww2-bunker-simulator-hunting-wild.json) |
 | WW2: Bunker Simulator - Origins | 307185 | [307185-ww2-bunker-simulator-origins.json](./307185-ww2-bunker-simulator-origins.json) |
 | Wwaves | 181900 | [181900-wwaves.json](./181900-wwaves.json) |
 | WWC: World Wrestling Championship | 46028 | [46028-wwc-world-wrestling-championship.json](./46028-wwc-world-wrestling-championship.json) |
