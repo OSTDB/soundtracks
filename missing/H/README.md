@@ -6026,6 +6026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes in the Sky | 66440 | [66440-heroes-in-the-sky.json](./66440-heroes-in-the-sky.json) |
 | Heroes in the Sky-Origin | 114198 | [114198-heroes-in-the-sky-origin.json](./114198-heroes-in-the-sky-origin.json) |
 | Heroes Legend: Sotalon Era | 181591 | [181591-heroes-legend-sotalon-era.json](./181591-heroes-legend-sotalon-era.json) |
+| Heroes Lineage | 210954 | [210954-heroes-lineage.json](./210954-heroes-lineage.json) |
 | Heroes Lore: Wind of Soltia | 323649 | [323649-heroes-lore-wind-of-soltia.json](./323649-heroes-lore-wind-of-soltia.json) |
 | Heroes Must Die | 32947 | [32947-heroes-must-die.json](./32947-heroes-must-die.json) |
 | Heroes Must Diee | 155877 | [155877-heroes-must-diee.json](./155877-heroes-must-diee.json) |
