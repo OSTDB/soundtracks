@@ -5942,7 +5942,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -16989,6 +16988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More Zombies | 234905 | [234905-more-zombies.json](./234905-more-zombies.json) |
 | More/Less | 351044 | [351044-more-less.json](./351044-more-less.json) |
 | Moreau | 111347 | [111347-moreau.json](./111347-moreau.json) |
+| Morels: Homestead | 196373 | [196373-morels-homestead.json](./196373-morels-homestead.json) |
 | Morels: Out of this World | 400984 | [400984-morels-out-of-this-world.json](./400984-morels-out-of-this-world.json) |
 | Morels: The Hunt 2 | 276531 | [276531-morels-the-hunt-2.json](./276531-morels-the-hunt-2.json) |
 | MoreMore | 39953 | [39953-moremore.json](./39953-moremore.json) |
@@ -17451,6 +17451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mos Speedrun | 92279 | [92279-mos-speedrun.json](./92279-mos-speedrun.json) |
 | Mos Speedrun 2 | 36158 | [36158-mos-speedrun-2.json](./36158-mos-speedrun-2.json) |
 | Mosa Lina | 258680 | [258680-mosa-lina.json](./258680-mosa-lina.json) |
+| Mosaic | 196367 | [196367-mosaic.json](./196367-mosaic.json) |
 | Mosaic 1% DLC | 155030 | [155030-mosaic-1-dlc.json](./155030-mosaic-1-dlc.json) |
 | Mosaic 1% Edition | 155031 | [155031-mosaic-1-edition.json](./155031-mosaic-1-edition.json) |
 | Mosaic Chronicles | 162850 | [162850-mosaic-chronicles.json](./162850-mosaic-chronicles.json) |
@@ -19619,6 +19620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Game | 376646 | [376646-music-game.json](./376646-music-game.json) |
 | Music Genius Pro / Stream | 409734 | [409734-music-genius-pro-stream.json](./409734-music-genius-pro-stream.json) |
 | Music Girl | 335741 | [335741-music-girl.json](./335741-music-girl.json) |
+| Music Girls | 196344 | [196344-music-girls.json](./196344-music-girls.json) |
 | Music GunGun! | 64963 | [64963-music-gungun.json](./64963-music-gungun.json) |
 | Music in Motion | 265745 | [265745-music-in-motion.json](./265745-music-in-motion.json) |
 | Music Inc | 232906 | [232906-music-inc.json](./232906-music-inc.json) |
