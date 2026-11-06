@@ -2279,6 +2279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssal Soul | 412810 | [412810-abyssal-soul.json](./412810-abyssal-soul.json) |
 | Abyssal Sun | 397737 | [397737-abyssal-sun.json](./397737-abyssal-sun.json) |
 | Abyssal Survivors | 272360 | [272360-abyssal-survivors.json](./272360-abyssal-survivors.json) |
+| Abyssal Sword | 213667 | [213667-abyssal-sword.json](./213667-abyssal-sword.json) |
 | Abyssal Trench | 341989 | [341989-abyssal-trench.json](./341989-abyssal-trench.json) |
 | AbyssalCraft | 232418 | [232418-abyssalcraft.json](./232418-abyssalcraft.json) |
 | Abyssalis | 421843 | [421843-abyssalis.json](./421843-abyssalis.json) |
@@ -12989,6 +12990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archangel: Hellfire | 36787 | [36787-archangel-hellfire.json](./36787-archangel-hellfire.json) |
 | Archangel: Hellfire - Fully Loaded | 171377 | [171377-archangel-hellfire-fully-loaded.json](./171377-archangel-hellfire-fully-loaded.json) |
 | Archangel: Nemesis | 149244 | [149244-archangel-nemesis.json](./149244-archangel-nemesis.json) |
+| ArchAngel: Zero | 213669 | [213669-archangel-zero.json](./213669-archangel-zero.json) |
 | ArcheAge | 6451 | [6451-archeage.json](./6451-archeage.json) |
 | ArcheAge Begins | 77607 | [77607-archeage-begins.json](./77607-archeage-begins.json) |
 | ArcheAge Chronicles | 317622 | [317622-archeage-chronicles.json](./317622-archeage-chronicles.json) |
