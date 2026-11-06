@@ -6020,6 +6020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Stealth | 247765 | [247765-winter-stealth.json](./247765-winter-stealth.json) |
 | Winter Supersports 92 | 57186 | [57186-winter-supersports-92.json](./57186-winter-supersports-92.json) |
 | Winter Survival | 188279 | [188279-winter-survival.json](./188279-winter-survival.json) |
+| Winter Survival | 206404 | [206404-winter-survival.json](./206404-winter-survival.json) |
 | Winter Survival Simulator | 309661 | [309661-winter-survival-simulator.json](./309661-winter-survival-simulator.json) |
 | Winter Survivor Protocol | 392125 | [392125-winter-survivor-protocol.json](./392125-winter-survivor-protocol.json) |
 | Winter Tramp | 201683 | [201683-winter-tramp.json](./201683-winter-tramp.json) |
