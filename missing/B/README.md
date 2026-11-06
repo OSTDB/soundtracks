@@ -958,7 +958,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -11597,6 +11596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Shutter | 367528 | [367528-blue-shutter.json](./367528-blue-shutter.json) |
 | Blue Sign | 412477 | [412477-blue-sign.json](./412477-blue-sign.json) |
 | Blue Skies | 63858 | [63858-blue-skies.json](./63858-blue-skies.json) |
+| Blue Sky | 231133 | [231133-blue-sky.json](./231133-blue-sky.json) |
 | Blue Sky | 89068 | [89068-blue-sky.json](./89068-blue-sky.json) |
 | Blue Sky Aces | 262808 | [262808-blue-sky-aces.json](./262808-blue-sky-aces.json) |
 | Blue Sky Arena | 208105 | [208105-blue-sky-arena.json](./208105-blue-sky-arena.json) |
