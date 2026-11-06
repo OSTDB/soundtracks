@@ -5161,6 +5161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Gulag | 132441 | [132441-escape-from-gulag.json](./132441-escape-from-gulag.json) |
 | Escape From Hadrian's Wall | 372603 | [372603-escape-from-hadrians-wall.json](./372603-escape-from-hadrians-wall.json) |
 | Escape from Haon Island | 339768 | [339768-escape-from-haon-island.json](./339768-escape-from-haon-island.json) |
+| Escape From Hard Drive | 193020 | [193020-escape-from-hard-drive.json](./193020-escape-from-hard-drive.json) |
 | Escape From Hata | 285466 | [285466-escape-from-hata.json](./285466-escape-from-hata.json) |
 | Escape from Heaven | 183808 | [183808-escape-from-heaven.json](./183808-escape-from-heaven.json) |
 | Escape from Helltowers | 346891 | [346891-escape-from-helltowers.json](./346891-escape-from-helltowers.json) |
