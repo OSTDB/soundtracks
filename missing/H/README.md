@@ -4807,6 +4807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai ChessKnight | 365417 | [365417-hentai-chessknight.json](./365417-hentai-chessknight.json) |
 | Hentai Chicks 2 | 149415 | [149415-hentai-chicks-2.json](./149415-hentai-chicks-2.json) |
 | Hentai Cho | 340428 | [340428-hentai-cho.json](./340428-hentai-cho.json) |
+| Hentai Christmas | 232802 | [232802-hentai-christmas.json](./232802-hentai-christmas.json) |
 | Hentai City | 301675 | [301675-hentai-city.json](./301675-hentai-city.json) |
 | Hentai Clara | 384583 | [384583-hentai-clara.json](./384583-hentai-clara.json) |
 | Hentai Class | 301673 | [301673-hentai-class.json](./301673-hentai-class.json) |
@@ -4898,6 +4899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Foot Fetish | 404940 | [404940-hentai-foot-fetish.json](./404940-hentai-foot-fetish.json) |
 | Hentai Forest | 110681 | [110681-hentai-forest.json](./110681-hentai-forest.json) |
 | Hentai Forever | 149425 | [149425-hentai-forever.json](./149425-hentai-forever.json) |
+| Hentai Fox | 232800 | [232800-hentai-fox.json](./232800-hentai-fox.json) |
 | Hentai Fox | 310938 | [310938-hentai-fox.json](./310938-hentai-fox.json) |
 | Hentai Frames | 381801 | [381801-hentai-frames.json](./381801-hentai-frames.json) |
 | Hentai Furry | 286401 | [286401-hentai-furry.json](./286401-hentai-furry.json) |
@@ -5396,6 +5398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Tanvi | 384692 | [384692-hentai-tanvi.json](./384692-hentai-tanvi.json) |
 | Hentai Temple | 104911 | [104911-hentai-temple.json](./104911-hentai-temple.json) |
 | Hentai Tentacle Survivors | 366522 | [366522-hentai-tentacle-survivors.json](./366522-hentai-tentacle-survivors.json) |
+| Hentai Tights | 232801 | [232801-hentai-tights.json](./232801-hentai-tights.json) |
 | Hentai Tights | 377283 | [377283-hentai-tights.json](./377283-hentai-tights.json) |
 | Hentai Time | 366523 | [366523-hentai-time.json](./366523-hentai-time.json) |
 | Hentai Travel | 384588 | [384588-hentai-travel.json](./384588-hentai-travel.json) |
