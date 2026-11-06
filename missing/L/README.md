@@ -4222,6 +4222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lián Yīxiē Xiǎo Qīngxīn de Lièqí Gùshì | 128313 | [128313-lian-yixie-xiao-qingxin-de-lieqi-gushi.json](./128313-lian-yixie-xiao-qingxin-de-lieqi-gushi.json) |
 | Liàn yǔ wèi xiē zhī yǔ | 367448 | [367448-lian-yu-wei-xie-zhi-yu.json](./367448-lian-yu-wei-xie-zhi-yu.json) |
 | Lianhai Billiards Club | 216785 | [216785-lianhai-billiards-club.json](./216785-lianhai-billiards-club.json) |
+| Lianliankan | 228208 | [228208-lianliankan.json](./228208-lianliankan.json) |
 | Liar & raiL FanDisk: Hotch Potch | 59171 | [59171-liar-and-rail-fandisk-hotch-potch.json](./59171-liar-and-rail-fandisk-hotch-potch.json) |
 | Liar Game | 334328 | [334328-liar-game.json](./334328-liar-game.json) |
 | Liar Jeannie in Crucifix Kingdom | 131339 | [131339-liar-jeannie-in-crucifix-kingdom.json](./131339-liar-jeannie-in-crucifix-kingdom.json) |
@@ -5672,6 +5673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisle Engle Heavy Distance | 253918 | [253918-lisle-engle-heavy-distance.json](./253918-lisle-engle-heavy-distance.json) |
 | Lisparuga | 176996 | [176996-lisparuga.json](./176996-lisparuga.json) |
 | Lisssn | 82335 | [82335-lisssn.json](./82335-lisssn.json) |
+| List | 228212 | [228212-list.json](./228212-list.json) |
 | List 118 | 263952 | [263952-list-118.json](./263952-list-118.json) |
 | List Animals Until Failure | 388370 | [388370-list-animals-until-failure.json](./388370-list-animals-until-failure.json) |
 | List-Runner | 276870 | [276870-list-runner.json](./276870-list-runner.json) |
