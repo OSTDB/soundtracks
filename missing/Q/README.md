@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadrapassel | 122774 | [122774-quadrapassel.json](./122774-quadrapassel.json) |
 | Quadrapong | 79040 | [79040-quadrapong.json](./79040-quadrapong.json) |
 | QuadraPop | 225827 | [225827-quadrapop.json](./225827-quadrapop.json) |
+| QuadraPop Robotic | 203488 | [203488-quadrapop-robotic.json](./203488-quadrapop-robotic.json) |
 | Quadrata | 208109 | [208109-quadrata.json](./208109-quadrata.json) |
 | Quadratank | 225595 | [225595-quadratank.json](./225595-quadratank.json) |
 | Quadratic Puzzle 1 | 369202 | [369202-quadratic-puzzle-1.json](./369202-quadratic-puzzle-1.json) |
