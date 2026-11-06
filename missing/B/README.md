@@ -957,7 +957,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6623,6 +6622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Elf | 169783 | [169783-best-elf.json](./169783-best-elf.json) |
 | Best Fiends | 59922 | [59922-best-fiends.json](./59922-best-fiends.json) |
 | Best Fiends Forever | 57363 | [57363-best-fiends-forever.json](./57363-best-fiends-forever.json) |
+| Best Fiends Stars | 234434 | [234434-best-fiends-stars.json](./234434-best-fiends-stars.json) |
 | Best Fighter | 283991 | [283991-best-fighter.json](./283991-best-fighter.json) |
 | Best Forklift Operator | 190338 | [190338-best-forklift-operator.json](./190338-best-forklift-operator.json) |
 | Best Friend | 133110 | [133110-best-friend.json](./133110-best-friend.json) |
@@ -6839,6 +6839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beverly Hills Cop | 11956 | [11956-beverly-hills-cop.json](./11956-beverly-hills-cop.json) |
 | Beverly Hills Cop | 77002 | [77002-beverly-hills-cop.json](./77002-beverly-hills-cop.json) |
 | Beverly Hills Models | 201264 | [201264-beverly-hills-models.json](./201264-beverly-hills-models.json) |
+| Beveron | 234401 | [234401-beveron.json](./234401-beveron.json) |
 | Beware | 102780 | [102780-beware.json](./102780-beware.json) |
 | Beware of Dog | 378883 | [378883-beware-of-dog.json](./378883-beware-of-dog.json) |
 | Beware of Falling Angels | 262982 | [262982-beware-of-falling-angels.json](./262982-beware-of-falling-angels.json) |
