@@ -868,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Rabbit | 207756 | [207756-rage-rabbit.json](./207756-rage-rabbit.json) |
 | Rage Racer PC | 414350 | [414350-rage-racer-pc.json](./414350-rage-racer-pc.json) |
 | Rage Racing 3D | 242799 | [242799-rage-racing-3d.json](./242799-rage-racing-3d.json) |
+| Rage Rally | 204650 | [204650-rage-rally.json](./204650-rage-rally.json) |
 | Rage Room | 81093 | [81093-rage-room.json](./81093-rage-room.json) |
 | Rage Runner | 9010 | [9010-rage-runner.json](./9010-rage-runner.json) |
 | Rage Simulator | 265612 | [265612-rage-simulator.json](./265612-rage-simulator.json) |
@@ -4054,6 +4055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Tanks vs Lizard | 418250 | [418250-red-tanks-vs-lizard.json](./418250-red-tanks-vs-lizard.json) |
 | Red Tape | 226968 | [226968-red-tape.json](./226968-red-tape.json) |
 | Red Tape Rampage | 391458 | [391458-red-tape-rampage.json](./391458-red-tape-rampage.json) |
+| Red Tears | 204665 | [204665-red-tears.json](./204665-red-tears.json) |
 | Red Tentacle | 53496 | [53496-red-tentacle.json](./53496-red-tentacle.json) |
 | Red Terror | 256208 | [256208-red-terror.json](./256208-red-terror.json) |
 | Red the Cook | 390770 | [390770-red-the-cook.json](./390770-red-the-cook.json) |
@@ -11276,6 +11278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotund Rebound | 117060 | [117060-rotund-rebound.json](./117060-rotund-rebound.json) |
 | Rotund Takeoff | 139303 | [139303-rotund-takeoff.json](./139303-rotund-takeoff.json) |
 | Rotund Zero | 137922 | [137922-rotund-zero.json](./137922-rotund-zero.json) |
+| Rotwood | 204633 | [204633-rotwood.json](./204633-rotwood.json) |
 | Rou Niu Yang Zhi Ji Hua | 161599 | [161599-rou-niu-yang-zhi-ji-hua.json](./161599-rou-niu-yang-zhi-ji-hua.json) |
 | Roubaga | 412763 | [412763-roubaga.json](./412763-roubaga.json) |
 | Rouen | 97935 | [97935-rouen.json](./97935-rouen.json) |
