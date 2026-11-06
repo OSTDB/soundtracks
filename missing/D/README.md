@@ -11981,6 +11981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolls' Domain | 305888 | [305888-dolls-domain.json](./305888-dolls-domain.json) |
 | Dollshouse | 381939 | [381939-dollshouse.json](./381939-dollshouse.json) |
 | Dolly | 133894 | [133894-dolly.json](./133894-dolly.json) |
+| Dolly Kanon Doki-doki Tokimeki Himitsu no Ongaku Katsudou Start Desu‼ | 220406 | [220406-dolly-kanon-doki-doki-tokimeki-himitsu-no-ongaku-katsudou-start-desu.json](./220406-dolly-kanon-doki-doki-tokimeki-himitsu-no-ongaku-katsudou-start-desu.json) |
 | Dolly Wars: Auto Tactics | 224829 | [224829-dolly-wars-auto-tactics.json](./224829-dolly-wars-auto-tactics.json) |
 | Dolly Wars: Auto Tactics - Holiday Nightmares Campaign | 235584 | [235584-dolly-wars-auto-tactics-holiday-nightmares-campaign.json](./235584-dolly-wars-auto-tactics-holiday-nightmares-campaign.json) |
 | Dollyban | 422167 | [422167-dollyban.json](./422167-dollyban.json) |
