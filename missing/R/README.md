@@ -9255,6 +9255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Defender | 26650 | [26650-rock-defender.json](./26650-rock-defender.json) |
 | Rock Digger | 312986 | [312986-rock-digger.json](./312986-rock-digger.json) |
 | Rock Flipper | 332808 | [332808-rock-flipper.json](./332808-rock-flipper.json) |
+| Rock Garden Deluxe | 193542 | [193542-rock-garden-deluxe.json](./193542-rock-garden-deluxe.json) |
 | Rock God Tycoon | 27336 | [27336-rock-god-tycoon.json](./27336-rock-god-tycoon.json) |
 | Rock Gods Tap Tour | 58140 | [58140-rock-gods-tap-tour.json](./58140-rock-gods-tap-tour.json) |
 | Rock Gunner | 356621 | [356621-rock-gunner.json](./356621-rock-gunner.json) |
@@ -10201,6 +10202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RogueMusk | 272942 | [272942-roguemusk.json](./272942-roguemusk.json) |
 | Roguenarok | 258778 | [258778-roguenarok.json](./258778-roguenarok.json) |
 | RogueOut | 258910 | [258910-rogueout.json](./258910-rogueout.json) |
+| RoguePG | 193573 | [193573-roguepg.json](./193573-roguepg.json) |
 | RoguePool | 392751 | [392751-roguepool.json](./392751-roguepool.json) |
 | Rogueria: Roguelikes X Tactics | 143585 | [143585-rogueria-roguelikes-x-tactics.json](./143585-rogueria-roguelikes-x-tactics.json) |
 | Roguerooms New Management | 420934 | [420934-roguerooms-new-management.json](./420934-roguerooms-new-management.json) |
