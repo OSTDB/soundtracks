@@ -359,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Hear the Forest | 414146 | [414146-i-hear-the-forest.json](./414146-i-hear-the-forest.json) |
 | I Hear Them | 398454 | [398454-i-hear-them.json](./398454-i-hear-them.json) |
 | I heard a dog barking | 177522 | [177522-i-heard-a-dog-barking.json](./177522-i-heard-a-dog-barking.json) |
+| I Heard There are Monsters Here | 240605 | [240605-i-heard-there-are-monsters-here.json](./240605-i-heard-there-are-monsters-here.json) |
 | I Heart Geeks! | 84456 | [84456-i-heart-geeks.json](./84456-i-heart-geeks.json) |
 | I Heart Shift | 67672 | [67672-i-heart-shift.json](./67672-i-heart-shift.json) |
 | I Hit You | 329059 | [329059-i-hit-you.json](./329059-i-hit-you.json) |
@@ -4792,6 +4793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intergalactic Ecstasy | 411057 | [411057-intergalactic-ecstasy.json](./411057-intergalactic-ecstasy.json) |
 | Intergalactic Fishing | 111754 | [111754-intergalactic-fishing.json](./111754-intergalactic-fishing.json) |
 | Intergalactic Galactic Dinosaur Banana | 85537 | [85537-intergalactic-galactic-dinosaur-banana.json](./85537-intergalactic-galactic-dinosaur-banana.json) |
+| Intergalactic Genocide | 240607 | [240607-intergalactic-genocide.json](./240607-intergalactic-genocide.json) |
 | Intergalactic Gus | 109482 | [109482-intergalactic-gus.json](./109482-intergalactic-gus.json) |
 | Intergalactic Juice Bar | 389848 | [389848-intergalactic-juice-bar.json](./389848-intergalactic-juice-bar.json) |
 | Intergalactic Mystery | 258913 | [258913-intergalactic-mystery.json](./258913-intergalactic-mystery.json) |
