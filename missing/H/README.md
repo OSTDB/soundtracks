@@ -8222,6 +8222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman Go: VR Edition | 23487 | [23487-hitman-go-vr-edition.json](./23487-hitman-go-vr-edition.json) |
 | Hitman HD Enhanced Collection | 113533 | [113533-hitman-hd-enhanced-collection.json](./113533-hitman-hd-enhanced-collection.json) |
 | Hitman HD Trilogy | 20749 | [20749-hitman-hd-trilogy.json](./20749-hitman-hd-trilogy.json) |
+| Hitman Party | 244018 | [244018-hitman-party.json](./244018-hitman-party.json) |
 | Hitman Reborn! | 174722 | [174722-hitman-reborn.json](./174722-hitman-reborn.json) |
 | Hitman Sniper: The Shadows | 144772 | [144772-hitman-sniper-the-shadows.json](./144772-hitman-sniper-the-shadows.json) |
 | Hitman Trilogy | 187552 | [187552-hitman-trilogy.json](./187552-hitman-trilogy.json) |
