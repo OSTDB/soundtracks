@@ -222,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quacky Oliver | 216945 | [216945-quacky-oliver.json](./216945-quacky-oliver.json) |
 | Quackyard | 414759 | [414759-quackyard.json](./414759-quackyard.json) |
 | Quacolé Tennis | 352305 | [352305-quacole-tennis.json](./352305-quacole-tennis.json) |
+| Quad | 241762 | [241762-quad.json](./241762-quad.json) |
 | Quad | 390985 | [390985-quad.json](./390985-quad.json) |
 | Quad Battle | 294254 | [294254-quad-battle.json](./294254-quad-battle.json) |
 | Quad Bike Crazy Driver | 292470 | [292470-quad-bike-crazy-driver.json](./292470-quad-bike-crazy-driver.json) |
@@ -1192,6 +1193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Thiz Germany: Bronze Edition | 242549 | [242549-quiz-thiz-germany-bronze-edition.json](./242549-quiz-thiz-germany-bronze-edition.json) |
 | Quiz Thiz Germany: Gold Edition | 242555 | [242555-quiz-thiz-germany-gold-edition.json](./242555-quiz-thiz-germany-gold-edition.json) |
 | Quiz Thiz Germany: Silver Edition | 242411 | [242411-quiz-thiz-germany-silver-edition.json](./242411-quiz-thiz-germany-silver-edition.json) |
+| Quiz Thiz Italy: Bronze Edition | 241693 | [241693-quiz-thiz-italy-bronze-edition.json](./241693-quiz-thiz-italy-bronze-edition.json) |
 | Quiz Thiz Italy: Gold Edition | 242166 | [242166-quiz-thiz-italy-gold-edition.json](./242166-quiz-thiz-italy-gold-edition.json) |
 | Quiz Thiz Italy: Silver Edition | 241858 | [241858-quiz-thiz-italy-silver-edition.json](./241858-quiz-thiz-italy-silver-edition.json) |
 | Quiz Thiz Spain | 232713 | [232713-quiz-thiz-spain.json](./232713-quiz-thiz-spain.json) |
