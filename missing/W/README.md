@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wake Out of Twilight | 150286 | [150286-wake-out-of-twilight.json](./150286-wake-out-of-twilight.json) |
 | Wake the Dead | 313864 | [313864-wake-the-dead.json](./313864-wake-the-dead.json) |
 | Wake the Dragon | 32069 | [32069-wake-the-dragon.json](./32069-wake-the-dragon.json) |
+| Wake the Royalty | 236631 | [236631-wake-the-royalty.json](./236631-wake-the-royalty.json) |
 | Wake Up | 178453 | [178453-wake-up.json](./178453-wake-up.json) |
 | Wake Up | 22435 | [22435-wake-up.json](./22435-wake-up.json) |
 | Wake Up | 250752 | [250752-wake-up.json](./250752-wake-up.json) |
@@ -5150,6 +5151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Russia | 379599 | [379599-wild-russia.json](./379599-wild-russia.json) |
 | Wild Safari Run | 96579 | [96579-wild-safari-run.json](./96579-wild-safari-run.json) |
 | Wild Script: Nature | 319348 | [319348-wild-script-nature.json](./319348-wild-script-nature.json) |
+| Wild Seas | 236605 | [236605-wild-seas.json](./236605-wild-seas.json) |
 | Wild Season | 47125 | [47125-wild-season.json](./47125-wild-season.json) |
 | Wild Seasons | 273383 | [273383-wild-seasons.json](./273383-wild-seasons.json) |
 | Wild Shape | 180311 | [180311-wild-shape.json](./180311-wild-shape.json) |
