@@ -2225,6 +2225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasocial | 240585 | [240585-parasocial.json](./240585-parasocial.json) |
 | Parasocial Climbing | 371745 | [371745-parasocial-climbing.json](./371745-parasocial-climbing.json) |
 | Parasocial! Paranoia! Paradise! | 326570 | [326570-parasocial-paranoia-paradise.json](./326570-parasocial-paranoia-paradise.json) |
+| Parasol | 237728 | [237728-parasol.json](./237728-parasol.json) |
 | Parasol Fall | 231632 | [231632-parasol-fall.json](./231632-parasol-fall.json) |
 | Parasol Henbee | 267754 | [267754-parasol-henbee.json](./267754-parasol-henbee.json) |
 | Parasol Henbee: Niji no Daibouken | 137369 | [137369-parasol-henbee-niji-no-daibouken.json](./137369-parasol-henbee-niji-no-daibouken.json) |
@@ -2535,6 +2536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Partless Ron | 155928 | [155928-partless-ron.json](./155928-partless-ron.json) |
 | Partner In TV!!! O-Uchi ni Wan-chan ga Yattekita | 327623 | [327623-partner-in-tv-o-uchi-ni-wan-chan-ga-yattekita.json](./327623-partner-in-tv-o-uchi-ni-wan-chan-ga-yattekita.json) |
 | Parts of the Elephant | 310483 | [310483-parts-of-the-elephant.json](./310483-parts-of-the-elephant.json) |
+| Parts Unknown | 237740 | [237740-parts-unknown.json](./237740-parts-unknown.json) |
 | Parts Unknown 2024 | 296866 | [296866-parts-unknown-2024.json](./296866-parts-unknown-2024.json) |
 | Partum Artifex | 186115 | [186115-partum-artifex.json](./186115-partum-artifex.json) |
 | Partway | 422092 | [422092-partway.json](./422092-partway.json) |
@@ -5970,6 +5972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pico Pico MicroMix | 182992 | [182992-pico-pico-micromix.json](./182992-pico-pico-micromix.json) |
 | Pico Pirates | 184068 | [184068-pico-pirates.json](./184068-pico-pirates.json) |
 | Pico Racer | 135776 | [135776-pico-racer.json](./135776-pico-racer.json) |
+| Pico Rally | 237738 | [237738-pico-rally.json](./237738-pico-rally.json) |
 | Pico Ru8ik | 383082 | [383082-pico-ru8ik.json](./383082-pico-ru8ik.json) |
 | Pico Sim Date 2 | 276253 | [276253-pico-sim-date-2.json](./276253-pico-sim-date-2.json) |
 | Pico Snail! Dream Castle | 152748 | [152748-pico-snail-dream-castle.json](./152748-pico-snail-dream-castle.json) |
@@ -7938,6 +7941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Exploration: Craft Edition | 101574 | [101574-pixel-exploration-craft-edition.json](./101574-pixel-exploration-craft-edition.json) |
 | Pixel Express | 107835 | [107835-pixel-express.json](./107835-pixel-express.json) |
 | Pixel Family Fun | 231067 | [231067-pixel-family-fun.json](./231067-pixel-family-fun.json) |
+| Pixel Family Fun: Deluxe Edition | 237766 | [237766-pixel-family-fun-deluxe-edition.json](./237766-pixel-family-fun-deluxe-edition.json) |
 | Pixel Family Fun: Extended Edition | 251599 | [251599-pixel-family-fun-extended-edition.json](./251599-pixel-family-fun-extended-edition.json) |
 | Pixel Family Fun: Ultimate Edition | 241411 | [241411-pixel-family-fun-ultimate-edition.json](./241411-pixel-family-fun-ultimate-edition.json) |
 | Pixel Fight | 132424 | [132424-pixel-fight.json](./132424-pixel-fight.json) |
@@ -11724,6 +11728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Blazel | 98018 | [98018-police-blazel.json](./98018-police-blazel.json) |
 | Police Border Contraband Patrol | 345359 | [345359-police-border-contraband-patrol.json](./345359-police-border-contraband-patrol.json) |
 | Police Bust | 195053 | [195053-police-bust.json](./195053-police-bust.json) |
+| Police Car Armored: Cop Simulator | 237765 | [237765-police-car-armored-cop-simulator.json](./237765-police-car-armored-cop-simulator.json) |
 | Police Car Chase | 334826 | [334826-police-car-chase.json](./334826-police-car-chase.json) |
 | Police Car Drift Simulator | 223986 | [223986-police-car-drift-simulator.json](./223986-police-car-drift-simulator.json) |
 | Police Car Driver: City Parking Simulator | 283237 | [283237-police-car-driver-city-parking-simulator.json](./283237-police-car-driver-city-parking-simulator.json) |
