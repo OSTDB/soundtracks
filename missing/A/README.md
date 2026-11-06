@@ -1136,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Simple Life | 300879 | [300879-a-simple-life.json](./300879-a-simple-life.json) |
 | A Simple Life with My Unobtrusive Sister | 373573 | [373573-a-simple-life-with-my-unobtrusive-sister.json](./373573-a-simple-life-with-my-unobtrusive-sister.json) |
 | A Simple Love Story | 25072 | [25072-a-simple-love-story.json](./25072-a-simple-love-story.json) |
+| A Simple Mistake | 221569 | [221569-a-simple-mistake.json](./221569-a-simple-mistake.json) |
 | A Simple Platformer | 339915 | [339915-a-simple-platformer.json](./339915-a-simple-platformer.json) |
 | A Simple Rage Kind of Game | 184790 | [184790-a-simple-rage-kind-of-game.json](./184790-a-simple-rage-kind-of-game.json) |
 | A Simple Request | 213247 | [213247-a-simple-request.json](./213247-a-simple-request.json) |
@@ -12521,6 +12522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Top Speed | 389060 | [389060-arcade-archives-top-speed.json](./389060-arcade-archives-top-speed.json) |
 | Arcade Archives: Touchdown Fever | 384202 | [384202-arcade-archives-touchdown-fever.json](./384202-arcade-archives-touchdown-fever.json) |
 | Arcade Archives: Touki Denshou Angel Eyes | 222390 | [222390-arcade-archives-touki-denshou-angel-eyes.json](./222390-arcade-archives-touki-denshou-angel-eyes.json) |
+| Arcade Archives: Toy Pop | 221570 | [221570-arcade-archives-toy-pop.json](./221570-arcade-archives-toy-pop.json) |
 | Arcade Archives: Track & Field | 122745 | [122745-arcade-archives-track-and-field.json](./122745-arcade-archives-track-and-field.json) |
 | Arcade Archives: Traverse USA | 75674 | [75674-arcade-archives-traverse-usa.json](./75674-arcade-archives-traverse-usa.json) |
 | Arcade Archives: Trio the Punch | 202769 | [202769-arcade-archives-trio-the-punch.json](./202769-arcade-archives-trio-the-punch.json) |
