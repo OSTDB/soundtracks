@@ -1110,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veecaloid Pop | 60194 | [60194-veecaloid-pop.json](./60194-veecaloid-pop.json) |
 | Veer | 34384 | [34384-veer.json](./34384-veer.json) |
 | Veg Out Crew | 158357 | [158357-veg-out-crew.json](./158357-veg-out-crew.json) |
+| Veg out Crew FPS | 211890 | [211890-veg-out-crew-fps.json](./211890-veg-out-crew-fps.json) |
 | Vega | 235272 | [235272-vega.json](./235272-vega.json) |
 | Vega Conflict | 23627 | [23627-vega-conflict.json](./23627-vega-conflict.json) |
 | Vega Conflict: Bastion Cruiser Pack | 168309 | [168309-vega-conflict-bastion-cruiser-pack.json](./168309-vega-conflict-bastion-cruiser-pack.json) |
@@ -3766,6 +3767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voyager | 237586 | [237586-voyager.json](./237586-voyager.json) |
 | Voyager | 284566 | [284566-voyager.json](./284566-voyager.json) |
 | Voyager | 346075 | [346075-voyager.json](./346075-voyager.json) |
+| Voyager 2 | 212034 | [212034-voyager-2.json](./212034-voyager-2.json) |
 | Voyager Battles | 309314 | [309314-voyager-battles.json](./309314-voyager-battles.json) |
 | Voyager EP | 308074 | [308074-voyager-ep.json](./308074-voyager-ep.json) |
 | Voyager I: Sabotage of the Robot Ship | 24848 | [24848-voyager-i-sabotage-of-the-robot-ship.json](./24848-voyager-i-sabotage-of-the-robot-ship.json) |
