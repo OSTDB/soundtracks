@@ -11076,6 +11076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code One Dispatch | 386315 | [386315-code-one-dispatch.json](./386315-code-one-dispatch.json) |
 | Code R | 125786 | [125786-code-r.json](./125786-code-r.json) |
 | Code R | 193858 | [193858-code-r.json](./193858-code-r.json) |
+| Code R.U.B.I.K. | 231169 | [231169-code-r-u-b-i-k.json](./231169-code-r-u-b-i-k.json) |
 | Code Racer | 289792 | [289792-code-racer.json](./289792-code-racer.json) |
 | Code Rapid | 344691 | [344691-code-rapid.json](./344691-code-rapid.json) |
 | Code Reactors | 330142 | [330142-code-reactors.json](./330142-code-reactors.json) |
