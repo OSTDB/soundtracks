@@ -6339,6 +6339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Catcher | 277661 | [277661-fish-catcher.json](./277661-fish-catcher.json) |
 | Fish Chips and Bombs | 311637 | [311637-fish-chips-and-bombs.json](./311637-fish-chips-and-bombs.json) |
 | Fish Combat: Arcade | 285312 | [285312-fish-combat-arcade.json](./285312-fish-combat-arcade.json) |
+| Fish Cymophis | 207469 | [207469-fish-cymophis.json](./207469-fish-cymophis.json) |
 | Fish Dude | 48946 | [48946-fish-dude.json](./48946-fish-dude.json) |
 | Fish Duel | 109686 | [109686-fish-duel.json](./109686-fish-duel.json) |
 | Fish Eater | 221344 | [221344-fish-eater.json](./221344-fish-eater.json) |
@@ -8944,6 +8945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Drive | 109721 | [109721-food-drive.json](./109721-food-drive.json) |
 | Food Dude | 242385 | [242385-food-dude.json](./242385-food-dude.json) |
 | Food Empire | 216743 | [216743-food-empire.json](./216743-food-empire.json) |
+| Food Factory | 207462 | [207462-food-factory.json](./207462-food-factory.json) |
 | Food Factory VR | 127020 | [127020-food-factory-vr.json](./127020-food-factory-vr.json) |
 | Food Fantasy | 104253 | [104253-food-fantasy.json](./104253-food-fantasy.json) |
 | Food Fight | 12325 | [12325-food-fight.json](./12325-food-fight.json) |
