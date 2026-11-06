@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Blaster Code Red | 85168 | [85168-galaxy-blaster-code-red.json](./85168-galaxy-blaster-code-red.json) |
 | Galaxy Boom - Defend Planet | 108487 | [108487-galaxy-boom-defend-planet.json](./108487-galaxy-boom-defend-planet.json) |
 | Galaxy Bowling | 101540 | [101540-galaxy-bowling.json](./101540-galaxy-bowling.json) |
+| Galaxy Bowling 3D Free | 219878 | [219878-galaxy-bowling-3d-free.json](./219878-galaxy-bowling-3d-free.json) |
 | Galaxy Brawl | 97439 | [97439-galaxy-brawl.json](./97439-galaxy-brawl.json) |
 | Galaxy Bricks | 274045 | [274045-galaxy-bricks.json](./274045-galaxy-bricks.json) |
 | Galaxy Burger | 295134 | [295134-galaxy-burger.json](./295134-galaxy-burger.json) |
