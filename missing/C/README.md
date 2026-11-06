@@ -3952,6 +3952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat From Hell 2 | 369364 | [369364-cat-from-hell-2.json](./369364-cat-from-hell-2.json) |
 | Cat From Hell: Cat Simulator | 338008 | [338008-cat-from-hell-cat-simulator.json](./338008-cat-from-hell-cat-simulator.json) |
 | Cat Fu Mi | 109388 | [109388-cat-fu-mi.json](./109388-cat-fu-mi.json) |
+| Cat Fun | 222589 | [222589-cat-fun.json](./222589-cat-fun.json) |
 | Cat Fusion Quest | 312759 | [312759-cat-fusion-quest.json](./312759-cat-fusion-quest.json) |
 | Cat Game | 207084 | [207084-cat-game.json](./207084-cat-game.json) |
 | Cat Game | 243081 | [243081-cat-game.json](./243081-cat-game.json) |
@@ -12413,6 +12414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Columns III | 14971 | [14971-columns-iii.json](./14971-columns-iii.json) |
 | Com__et | 267808 | [267808-com-et.json](./267808-com-et.json) |
 | Com2uS Pro Baseball V24 | 303176 | [303176-com2us-pro-baseball-v24.json](./303176-com2us-pro-baseball-v24.json) |
+| Coma | 222695 | [222695-coma.json](./222695-coma.json) |
 | Coma: A Mind Adventure | 64976 | [64976-coma-a-mind-adventure.json](./64976-coma-a-mind-adventure.json) |
 | Coma: Lost in the Maze | 186816 | [186816-coma-lost-in-the-maze.json](./186816-coma-lost-in-the-maze.json) |
 | Coma: Mortuary | 36321 | [36321-coma-mortuary.json](./36321-coma-mortuary.json) |
@@ -16005,6 +16007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cramped Map Collection | 294754 | [294754-cramped-map-collection.json](./294754-cramped-map-collection.json) |
 | Cramped Room of Death | 139616 | [139616-cramped-room-of-death.json](./139616-cramped-room-of-death.json) |
 | Cramunhão: A Sigil Tribute | 316941 | [316941-cramunhao-a-sigil-tribute.json](./316941-cramunhao-a-sigil-tribute.json) |
+| Cranberry Dream | 222694 | [222694-cranberry-dream.json](./222694-cranberry-dream.json) |
 | Crane Game Simulator | 224747 | [224747-crane-game-simulator.json](./224747-crane-game-simulator.json) |
 | Crane Logistics Simulator | 211699 | [211699-crane-logistics-simulator.json](./211699-crane-logistics-simulator.json) |
 | Crane Quandry | 101009 | [101009-crane-quandry.json](./101009-crane-quandry.json) |
@@ -16119,6 +16122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot 4: N. Hanced | 323730 | [323730-crash-bandicoot-4-n-hanced.json](./323730-crash-bandicoot-4-n-hanced.json) |
 | Crash Bandicoot Action Pack | 196663 | [196663-crash-bandicoot-action-pack.json](./196663-crash-bandicoot-action-pack.json) |
 | Crash Bandicoot and the Retro Dimension | 367688 | [367688-crash-bandicoot-and-the-retro-dimension.json](./367688-crash-bandicoot-and-the-retro-dimension.json) |
+| Crash Bandicoot Apocalypse | 222595 | [222595-crash-bandicoot-apocalypse.json](./222595-crash-bandicoot-apocalypse.json) |
 | Crash Bandicoot Blast! | 285253 | [285253-crash-bandicoot-blast.json](./285253-crash-bandicoot-blast.json) |
 | Crash Bandicoot Collectors' Edition | 43683 | [43683-crash-bandicoot-collectors-edition.json](./43683-crash-bandicoot-collectors-edition.json) |
 | Crash Bandicoot Flash | 228752 | [228752-crash-bandicoot-flash.json](./228752-crash-bandicoot-flash.json) |
@@ -16128,6 +16132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot Nitro Kart 2 | 21749 | [21749-crash-bandicoot-nitro-kart-2.json](./21749-crash-bandicoot-nitro-kart-2.json) |
 | Crash Bandicoot Nitro Kart 3D | 80155 | [80155-crash-bandicoot-nitro-kart-3d.json](./80155-crash-bandicoot-nitro-kart-3d.json) |
 | Crash Bandicoot Party Games | 210240 | [210240-crash-bandicoot-party-games.json](./210240-crash-bandicoot-party-games.json) |
+| Crash Bandicoot Psyched Out | 222594 | [222594-crash-bandicoot-psyched-out.json](./222594-crash-bandicoot-psyched-out.json) |
 | Crash Bandicoot World | 309165 | [309165-crash-bandicoot-world.json](./309165-crash-bandicoot-world.json) |
 | Crash Bandicoot: Atlasphere Bowling | 314656 | [314656-crash-bandicoot-atlasphere-bowling.json](./314656-crash-bandicoot-atlasphere-bowling.json) |
 | Crash Bandicoot: Back In Time | 245695 | [245695-crash-bandicoot-back-in-time.json](./245695-crash-bandicoot-back-in-time.json) |
