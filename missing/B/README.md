@@ -957,7 +957,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4709,6 +4708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Buggy Simulator | 13388 | [13388-beach-buggy-simulator.json](./13388-beach-buggy-simulator.json) |
 | Beach Bums | 307001 | [307001-beach-bums.json](./307001-beach-bums.json) |
 | Beach Buzzin Chopper | 42779 | [42779-beach-buzzin-chopper.json](./42779-beach-buzzin-chopper.json) |
+| Beach Cafe II: The Escape Room | 244044 | [244044-beach-cafe-ii-the-escape-room.json](./244044-beach-cafe-ii-the-escape-room.json) |
 | Beach Cafe III: The Escape Room | 266316 | [266316-beach-cafe-iii-the-escape-room.json](./266316-beach-cafe-iii-the-escape-room.json) |
 | Beach Cafe: Caribbean Sand | 232628 | [232628-beach-cafe-caribbean-sand.json](./232628-beach-cafe-caribbean-sand.json) |
 | Beach Cafe: Caribbean Sand | 232988 | [232988-beach-cafe-caribbean-sand.json](./232988-beach-cafe-caribbean-sand.json) |
@@ -10239,6 +10239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block | 172653 | [172653-block.json](./172653-block.json) |
 | Block 'Em | 278193 | [278193-block-em.json](./278193-block-em.json) |
 | Block ‘Em Sock ‘Em | 381135 | [381135-block-em-sock-em.json](./381135-block-em-sock-em.json) |
+| Block & Balls | 244015 | [244015-block-and-balls.json](./244015-block-and-balls.json) |
 | Block & Shot | 263976 | [263976-block-and-shot.json](./263976-block-and-shot.json) |
 | Block & Switch | 230480 | [230480-block-and-switch.json](./230480-block-and-switch.json) |
 | Block 1010: Colorful | 107073 | [107073-block-1010-colorful.json](./107073-block-1010-colorful.json) |
@@ -14940,6 +14941,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakfast Bar Tycoon: Discovery Edition | 320695 | [320695-breakfast-bar-tycoon-discovery-edition.json](./320695-breakfast-bar-tycoon-discovery-edition.json) |
 | Breakfast Bar Tycoon: Expansion Pack | 238017 | [238017-breakfast-bar-tycoon-expansion-pack.json](./238017-breakfast-bar-tycoon-expansion-pack.json) |
 | Breakfast Bar Tycoon: Expansion Pack 2 | 199829 | [199829-breakfast-bar-tycoon-expansion-pack-2.json](./199829-breakfast-bar-tycoon-expansion-pack-2.json) |
+| Breakfast Bar Tycoon: Multiplayer Edition | 244052 | [244052-breakfast-bar-tycoon-multiplayer-edition.json](./244052-breakfast-bar-tycoon-multiplayer-edition.json) |
+| Breakfast Bar Tycoon: Multiplayer Mode | 244051 | [244051-breakfast-bar-tycoon-multiplayer-mode.json](./244051-breakfast-bar-tycoon-multiplayer-mode.json) |
 | Breakfast Bar Tycoon: Premium Edition | 231220 | [231220-breakfast-bar-tycoon-premium-edition.json](./231220-breakfast-bar-tycoon-premium-edition.json) |
 | Breakfast Bar Tycoon: Super Edition | 315875 | [315875-breakfast-bar-tycoon-super-edition.json](./315875-breakfast-bar-tycoon-super-edition.json) |
 | Breakfast Bar Tycoon: Ultimate Edition | 298569 | [298569-breakfast-bar-tycoon-ultimate-edition.json](./298569-breakfast-bar-tycoon-ultimate-edition.json) |
