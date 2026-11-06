@@ -3671,6 +3671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junior League: Sports - Soccer | 187245 | [187245-junior-league-sports-soccer.json](./187245-junior-league-sports-soccer.json) |
 | Junior MithulBlox | 318495 | [318495-junior-mithulblox.json](./318495-junior-mithulblox.json) |
 | Junior Mystery Quest | 78609 | [78609-junior-mystery-quest.json](./78609-junior-mystery-quest.json) |
+| Junior Solutions | 204129 | [204129-junior-solutions.json](./204129-junior-solutions.json) |
 | Junior Sudoku (Easy Fun Puzzles) | 90200 | [90200-junior-sudoku-easy-fun-puzzles.json](./90200-junior-sudoku-easy-fun-puzzles.json) |
 | Junior's Revenge | 78039 | [78039-juniors-revenge.json](./78039-juniors-revenge.json) |
 | Juniper Burning | 280121 | [280121-juniper-burning.json](./280121-juniper-burning.json) |
