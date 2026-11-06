@@ -17191,6 +17191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puffle Paddle 3DS | 253797 | [253797-puffle-paddle-3ds.json](./253797-puffle-paddle-3ds.json) |
 | Pufflings: Journey Through a Fantasy World | 397921 | [397921-pufflings-journey-through-a-fantasy-world.json](./397921-pufflings-journey-through-a-fantasy-world.json) |
 | Puffmin Quest | 313354 | [313354-puffmin-quest.json](./313354-puffmin-quest.json) |
+| PuffPals: Island Skies | 198621 | [198621-puffpals-island-skies.json](./198621-puffpals-island-skies.json) |
 | Puffy Dog Puzzle | 379005 | [379005-puffy-dog-puzzle.json](./379005-puffy-dog-puzzle.json) |
 | Puffy no P.S. I Love You | 314219 | [314219-puffy-no-p-s-i-love-you.json](./314219-puffy-no-p-s-i-love-you.json) |
 | Puffy's Saga | 12725 | [12725-puffys-saga.json](./12725-puffys-saga.json) |
