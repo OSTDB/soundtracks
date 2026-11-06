@@ -8192,6 +8192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Animals Activity Center | 336615 | [336615-amazing-animals-activity-center.json](./336615-amazing-animals-activity-center.json) |
 | Amazing Bats | 234468 | [234468-amazing-bats.json](./234468-amazing-bats.json) |
 | Amazing Birds Hunter | 244085 | [244085-amazing-birds-hunter.json](./244085-amazing-birds-hunter.json) |
+| Amazing Bomberman | 211494 | [211494-amazing-bomberman.json](./211494-amazing-bomberman.json) |
 | Amazing Breaker | 65493 | [65493-amazing-breaker.json](./65493-amazing-breaker.json) |
 | Amazing Brick | 143297 | [143297-amazing-brick.json](./143297-amazing-brick.json) |
 | Amazing Brick Breaker | 126196 | [126196-amazing-brick-breaker.json](./126196-amazing-brick-breaker.json) |
