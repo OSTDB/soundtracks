@@ -3696,6 +3696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Guidance | 387922 | [387922-ghost-guidance.json](./387922-ghost-guidance.json) |
 | Ghost Gunners | 367822 | [367822-ghost-gunners.json](./367822-ghost-gunners.json) |
 | Ghost Guns | 122175 | [122175-ghost-guns.json](./122175-ghost-guns.json) |
+| Ghost Guy | 227632 | [227632-ghost-guy.json](./227632-ghost-guy.json) |
 | Ghost Hand | 264672 | [264672-ghost-hand.json](./264672-ghost-hand.json) |
 | Ghost Haunting | 360552 | [360552-ghost-haunting.json](./360552-ghost-haunting.json) |
 | Ghost Hide and Seek | 216037 | [216037-ghost-hide-and-seek.json](./216037-ghost-hide-and-seek.json) |
@@ -8041,6 +8042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandpurrents | 149469 | [149469-grandpurrents.json](./149469-grandpurrents.json) |
 | Grandslam Gamer Gold Collection | 379589 | [379589-grandslam-gamer-gold-collection.json](./379589-grandslam-gamer-gold-collection.json) |
 | Grandslam: The Tennis Tournament | 81410 | [81410-grandslam-the-tennis-tournament.json](./81410-grandslam-the-tennis-tournament.json) |
+| GrandTraveler | 227660 | [227660-grandtraveler.json](./227660-grandtraveler.json) |
 | Grandzenka | 208972 | [208972-grandzenka.json](./208972-grandzenka.json) |
 | Granew-Tou! Daibouken | 269940 | [269940-granew-tou-daibouken.json](./269940-granew-tou-daibouken.json) |
 | Grange Hill | 37299 | [37299-grange-hill.json](./37299-grange-hill.json) |
