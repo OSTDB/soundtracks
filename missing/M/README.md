@@ -3660,6 +3660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario + Wario Complete | 318037 | [318037-mario-wario-complete.json](./318037-mario-wario-complete.json) |
 | Mario 128 | 130354 | [130354-mario-128.json](./130354-mario-128.json) |
 | Mario 2Dyssey | 184321 | [184321-mario-2dyssey.json](./184321-mario-2dyssey.json) |
+| Mario 3 Oasis | 241160 | [241160-mario-3-oasis.json](./241160-mario-3-oasis.json) |
 | Mario 3: Vokrug Svyeta | 202673 | [202673-mario-3-vokrug-svyeta.json](./202673-mario-3-vokrug-svyeta.json) |
 | Mario 4: Kosmichyeskaya Odissyeya | 200539 | [200539-mario-4-kosmichyeskaya-odissyeya.json](./200539-mario-4-kosmichyeskaya-odissyeya.json) |
 | Mario 64 x Banjo Kazooie | 134018 | [134018-mario-64-x-banjo-kazooie.json](./134018-mario-64-x-banjo-kazooie.json) |
@@ -4762,6 +4763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvelous: Mouhitotsu no Takarajima | 15837 | [15837-marvelous-mouhitotsu-no-takarajima.json](./15837-marvelous-mouhitotsu-no-takarajima.json) |
 | Marvin Strikes Back! | 49854 | [49854-marvin-strikes-back.json](./49854-marvin-strikes-back.json) |
 | Marvin the Hatter | 116937 | [116937-marvin-the-hatter.json](./116937-marvin-the-hatter.json) |
+| Marvin the Martian vs. the Earth | 241129 | [241129-marvin-the-martian-vs-the-earth.json](./241129-marvin-the-martian-vs-the-earth.json) |
 | Marvin's Marvellous Adventure | 13052 | [13052-marvins-marvellous-adventure.json](./13052-marvins-marvellous-adventure.json) |
 | Marvin's Maze | 24631 | [24631-marvins-maze.json](./24631-marvins-maze.json) |
 | Marwan's Haunting | 258509 | [258509-marwans-haunting.json](./258509-marwans-haunting.json) |
@@ -11431,6 +11433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mike Tyson's Punch-Out!! SNES | 377739 | [377739-mike-tysons-punch-out-snes.json](./377739-mike-tysons-punch-out-snes.json) |
 | Mike V: Skateboard Party HD | 87709 | [87709-mike-v-skateboard-party-hd.json](./87709-mike-v-skateboard-party-hd.json) |
 | Mike was Cursed | 75763 | [75763-mike-was-cursed.json](./75763-mike-was-cursed.json) |
+| Mike, Lu & Og: Toy Builders | 241136 | [241136-mike-lu-and-og-toy-builders.json](./241136-mike-lu-and-og-toy-builders.json) |
 | Mike's Arcade | 227975 | [227975-mikes-arcade.json](./227975-mikes-arcade.json) |
 | Mike's Garden | 244421 | [244421-mikes-garden.json](./244421-mikes-garden.json) |
 | Mike's Lonely Journey | 286616 | [286616-mikes-lonely-journey.json](./286616-mikes-lonely-journey.json) |
@@ -15174,6 +15177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Wave | 383963 | [383963-monkey-wave.json](./383963-monkey-wave.json) |
 | Monkey Wrench | 78456 | [78456-monkey-wrench.json](./78456-monkey-wrench.json) |
 | Monkey-catching Game | 281476 | [281476-monkey-catching-game.json](./281476-monkey-catching-game.json) |
+| Monkey's Adventures | 241138 | [241138-monkeys-adventures.json](./241138-monkeys-adventures.json) |
 | Monkey's Life | 280112 | [280112-monkeys-life.json](./280112-monkeys-life.json) |
 | MonkeyKing Chaos: VR | 286007 | [286007-monkeyking-chaos-vr.json](./286007-monkeyking-chaos-vr.json) |
 | MonkeyKing VR | 29748 | [29748-monkeyking-vr.json](./29748-monkeyking-vr.json) |
@@ -20270,6 +20274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Grumpy Hyena! | 180444 | [180444-my-grumpy-hyena.json](./180444-my-grumpy-hyena.json) |
 | My Gyaru Girlfriend | 210609 | [210609-my-gyaru-girlfriend.json](./210609-my-gyaru-girlfriend.json) |
 | My Gym Mommy Treats Me Like A Kid | 393560 | [393560-my-gym-mommy-treats-me-like-a-kid.json](./393560-my-gym-mommy-treats-me-like-a-kid.json) |
+| My Gym Partner's a Monkey: Hall of the Wild | 241128 | [241128-my-gym-partners-a-monkey-hall-of-the-wild.json](./241128-my-gym-partners-a-monkey-hall-of-the-wild.json) |
 | My Gym: Fitness Studio Manager | 233473 | [233473-my-gym-fitness-studio-manager.json](./233473-my-gym-fitness-studio-manager.json) |
 | My Hamster Pet | 298539 | [298539-my-hamster-pet.json](./298539-my-hamster-pet.json) |
 | My Happy Place | 229774 | [229774-my-happy-place.json](./229774-my-happy-place.json) |
@@ -20924,6 +20929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Summer Drive | 342210 | [342210-my-summer-drive.json](./342210-my-summer-drive.json) |
 | My Summer Jobs: Dialing for Dreams! | 238513 | [238513-my-summer-jobs-dialing-for-dreams.json](./238513-my-summer-jobs-dialing-for-dreams.json) |
 | My Summer Love | 391596 | [391596-my-summer-love.json](./391596-my-summer-love.json) |
+| My Summertime Girlfriend | 241162 | [241162-my-summertime-girlfriend.json](./241162-my-summertime-girlfriend.json) |
 | My Sunny Resort | 98981 | [98981-my-sunny-resort.json](./98981-my-sunny-resort.json) |
 | My Super Defender | 112965 | [112965-my-super-defender.json](./112965-my-super-defender.json) |
 | My Super Tower 3 | 97087 | [97087-my-super-tower-3.json](./97087-my-super-tower-3.json) |
