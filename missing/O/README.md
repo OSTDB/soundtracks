@@ -3228,6 +3228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ooshige! Momohana Hanten | 227376 | [227376-ooshige-momohana-hanten.json](./227376-ooshige-momohana-hanten.json) |
 | OOTP Baseball Go 23 | 211280 | [211280-ootp-baseball-go-23.json](./211280-ootp-baseball-go-23.json) |
 | OOTP Baseball Go! | 141512 | [141512-ootp-baseball-go.json](./141512-ootp-baseball-go.json) |
+| Ooze | 245117 | [245117-ooze.json](./245117-ooze.json) |
 | Ooze Keeper | 318118 | [318118-ooze-keeper.json](./318118-ooze-keeper.json) |
 | Ooze Less | 340825 | [340825-ooze-less.json](./340825-ooze-less.json) |
 | Ooze Odyssey | 260231 | [260231-ooze-odyssey.json](./260231-ooze-odyssey.json) |
