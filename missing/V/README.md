@@ -2359,6 +2359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vindictus: Defying Fate | 289155 | [289155-vindictus-defying-fate.json](./289155-vindictus-defying-fate.json) |
 | Vindilis | 373088 | [373088-vindilis.json](./373088-vindilis.json) |
 | Vine | 128625 | [128625-vine.json](./128625-vine.json) |
+| Vine | 195298 | [195298-vine.json](./195298-vine.json) |
 | Vine Mapping Contest 2016 | 262280 | [262280-vine-mapping-contest-2016.json](./262280-vine-mapping-contest-2016.json) |
 | Vine Realms | 135907 | [135907-vine-realms.json](./135907-vine-realms.json) |
 | Vine Runners | 185514 | [185514-vine-runners.json](./185514-vine-runners.json) |
