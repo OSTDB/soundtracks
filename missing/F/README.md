@@ -3482,6 +3482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear of the Dark | 155403 | [155403-fear-of-the-dark.json](./155403-fear-of-the-dark.json) |
 | Fear of the Dark | 186487 | [186487-fear-of-the-dark.json](./186487-fear-of-the-dark.json) |
 | Fear Of The Dark | 308244 | [308244-fear-of-the-dark.json](./308244-fear-of-the-dark.json) |
+| Fear of The Undead: Rise of Evil | 231158 | [231158-fear-of-the-undead-rise-of-evil.json](./231158-fear-of-the-undead-rise-of-evil.json) |
 | Fear of The Unknown | 169810 | [169810-fear-of-the-unknown.json](./169810-fear-of-the-unknown.json) |
 | Fear of Traffic | 103564 | [103564-fear-of-traffic.json](./103564-fear-of-traffic.json) |
 | Fear or Evil: Nightmare Horror Scary Game Phobia 2023 Simulator Hunter Games | 241401 | [241401-fear-or-evil-nightmare-horror-scary-game-phobia-2023-simulator-hunter-games.json](./241401-fear-or-evil-nightmare-horror-scary-game-phobia-2023-simulator-hunter-games.json) |
@@ -5437,6 +5438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Way | 246444 | [246444-find-the-way.json](./246444-find-the-way.json) |
 | Find the Way Out Samurai! | 245878 | [245878-find-the-way-out-samurai.json](./245878-find-the-way-out-samurai.json) |
 | Find the Whales | 231179 | [231179-find-the-whales.json](./231179-find-the-whales.json) |
+| Find the Whales: Español | 231160 | [231160-find-the-whales-espanol.json](./231160-find-the-whales-espanol.json) |
 | Find This Pixel Anomaly | 320982 | [320982-find-this-pixel-anomaly.json](./320982-find-this-pixel-anomaly.json) |
 | Find this! | 54859 | [54859-find-this.json](./54859-find-this.json) |
 | Find Together on Stream | 289411 | [289411-find-together-on-stream.json](./289411-find-together-on-stream.json) |
