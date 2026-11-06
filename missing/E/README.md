@@ -1163,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden Crafters | 289691 | [289691-eden-crafters.json](./289691-eden-crafters.json) |
 | Eden Daho | 386516 | [386516-eden-daho.json](./386516-eden-daho.json) |
 | Eden Eternal | 46995 | [46995-eden-eternal.json](./46995-eden-eternal.json) |
+| Eden Eternal: Seikyou Densetsu | 240577 | [240577-eden-eternal-seikyou-densetsu.json](./240577-eden-eternal-seikyou-densetsu.json) |
 | Eden Falling | 74177 | [74177-eden-falling.json](./74177-eden-falling.json) |
 | Eden Gamma | 235793 | [235793-eden-gamma.json](./235793-eden-gamma.json) |
 | Eden Genesis | 280561 | [280561-eden-genesis.json](./280561-eden-genesis.json) |
