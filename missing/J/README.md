@@ -1336,6 +1336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetpack Joyride+ | 228869 | [228869-jetpack-joyride.json](./228869-jetpack-joyride.json) |
 | Jetpack Kiwi | 257813 | [257813-jetpack-kiwi.json](./257813-jetpack-kiwi.json) |
 | Jetpack Man | 312207 | [312207-jetpack-man.json](./312207-jetpack-man.json) |
+| Jetpack Pig | 234988 | [234988-jetpack-pig.json](./234988-jetpack-pig.json) |
 | Jetpack Porter | 30448 | [30448-jetpack-porter.json](./30448-jetpack-porter.json) |
 | Jetpack Race | 308519 | [308519-jetpack-race.json](./308519-jetpack-race.json) |
 | Jetpack Soccer | 241055 | [241055-jetpack-soccer.json](./241055-jetpack-soccer.json) |
@@ -2810,6 +2811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey's End | 32391 | [32391-journeys-end.json](./32391-journeys-end.json) |
 | Journey's Legend | 274501 | [274501-journeys-legend.json](./274501-journeys-legend.json) |
 | Journeyman | 236373 | [236373-journeyman.json](./236373-journeyman.json) |
+| Journeys: Romance Stories | 234996 | [234996-journeys-romance-stories.json](./234996-journeys-romance-stories.json) |
 | Joushou Mahjong Tenpai | 42423 | [42423-joushou-mahjong-tenpai.json](./42423-joushou-mahjong-tenpai.json) |
 | Joushou Mahjong Tenpai: Additional Data | 234782 | [234782-joushou-mahjong-tenpai-additional-data.json](./234782-joushou-mahjong-tenpai-additional-data.json) |
 | Joushou Mahjong Tenpai: Data | 234781 | [234781-joushou-mahjong-tenpai-data.json](./234781-joushou-mahjong-tenpai-data.json) |
