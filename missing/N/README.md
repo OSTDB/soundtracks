@@ -6765,6 +6765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northgard: The Viking Age Edition | 145535 | [145535-northgard-the-viking-age-edition.json](./145535-northgard-the-viking-age-edition.json) |
 | Northgard: Vordr, Clan of the Owl | 276976 | [276976-northgard-vordr-clan-of-the-owl.json](./276976-northgard-vordr-clan-of-the-owl.json) |
 | NorthHold | 395269 | [395269-northhold.json](./395269-northhold.json) |
+| Northland Heroes: The Missing Druid | 199705 | [199705-northland-heroes-the-missing-druid.json](./199705-northland-heroes-the-missing-druid.json) |
 | Northmark: Hour of the Wolf | 17532 | [17532-northmark-hour-of-the-wolf.json](./17532-northmark-hour-of-the-wolf.json) |
 | Northrealm Tribes | 281849 | [281849-northrealm-tribes.json](./281849-northrealm-tribes.json) |
 | NorthStar | 55207 | [55207-northstar.json](./55207-northstar.json) |
