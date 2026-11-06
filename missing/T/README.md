@@ -8927,6 +8927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Escapists | 9241 | [9241-the-escapists.json](./9241-the-escapists.json) |
 | The Escapists + The Escapists 2 | 138193 | [138193-the-escapists-the-escapists-2.json](./138193-the-escapists-the-escapists-2.json) |
 | The Escapists 2: Big Top Breakout | 155177 | [155177-the-escapists-2-big-top-breakout.json](./155177-the-escapists-2-big-top-breakout.json) |
+| The Escapists 2: Complete Edition | 220926 | [220926-the-escapists-2-complete-edition.json](./220926-the-escapists-2-complete-edition.json) |
 | The Escapists 2: Dungeons and Duct Tape | 155176 | [155176-the-escapists-2-dungeons-and-duct-tape.json](./155176-the-escapists-2-dungeons-and-duct-tape.json) |
 | The Escapists 2: Game of the Year Edition | 121534 | [121534-the-escapists-2-game-of-the-year-edition.json](./121534-the-escapists-2-game-of-the-year-edition.json) |
 | The Escapists 2: Pocket Breakout | 114027 | [114027-the-escapists-2-pocket-breakout.json](./114027-the-escapists-2-pocket-breakout.json) |
@@ -27055,6 +27056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Townsmen Racing | 198367 | [198367-townsmen-racing.json](./198367-townsmen-racing.json) |
 | Townsmen VR | 86445 | [86445-townsmen-vr.json](./86445-townsmen-vr.json) |
 | Townsmen: A Kingdom Rebuilt | 115912 | [115912-townsmen-a-kingdom-rebuilt.json](./115912-townsmen-a-kingdom-rebuilt.json) |
+| Townsmen: A Kingdom Rebuilt - Complete Edition | 220919 | [220919-townsmen-a-kingdom-rebuilt-complete-edition.json](./220919-townsmen-a-kingdom-rebuilt-complete-edition.json) |
 | Townsmen: A Kingdom Rebuilt - The Seaside Empire | 155067 | [155067-townsmen-a-kingdom-rebuilt-the-seaside-empire.json](./155067-townsmen-a-kingdom-rebuilt-the-seaside-empire.json) |
 | Townville, the Show | 132178 | [132178-townville-the-show.json](./132178-townville-the-show.json) |
 | Towny Bar | 325516 | [325516-towny-bar.json](./325516-towny-bar.json) |
@@ -31779,6 +31781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuri Sensei | 418609 | [418609-tsuri-sensei.json](./418609-tsuri-sensei.json) |
 | Tsuri Sensei 2 | 282706 | [282706-tsuri-sensei-2.json](./282706-tsuri-sensei-2.json) |
 | Tsuri Spirits: Tsutte Asoberu Suizokukan | 206813 | [206813-tsuri-spirits-tsutte-asoberu-suizokukan.json](./206813-tsuri-spirits-tsutte-asoberu-suizokukan.json) |
+| Tsuri Spirits: Tsutte Asoberu Suizokukan - Digital Deluxe Edition | 220924 | [220924-tsuri-spirits-tsutte-asoberu-suizokukan-digital-deluxe-edition.json](./220924-tsuri-spirits-tsutte-asoberu-suizokukan-digital-deluxe-edition.json) |
 | Tsuri Tarou | 37779 | [37779-tsuri-tarou.json](./37779-tsuri-tarou.json) |
 | Tsurikko Penta | 228358 | [228358-tsurikko-penta.json](./228358-tsurikko-penta.json) |
 | Tsurikkuma | 306727 | [306727-tsurikkuma.json](./306727-tsurikkuma.json) |
