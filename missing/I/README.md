@@ -1262,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ideabox | 125953 | [125953-ideabox.json](./125953-ideabox.json) |
 | Ideal | 340519 | [340519-ideal.json](./340519-ideal.json) |
 | Ideal Gas | 236755 | [236755-ideal-gas.json](./236755-ideal-gas.json) |
+| Ideal Nightmare | 212001 | [212001-ideal-nightmare.json](./212001-ideal-nightmare.json) |
 | Idemitsu: Space College - Easy Physics and Chemisty of Dangerous Goods | 122116 | [122116-idemitsu-space-college-easy-physics-and-chemisty-of-dangerous-goods.json](./122116-idemitsu-space-college-easy-physics-and-chemisty-of-dangerous-goods.json) |
 | Identifile | 319379 | [319379-identifile.json](./319379-identifile.json) |
 | Identikit | 210062 | [210062-identikit.json](./210062-identikit.json) |
@@ -6275,6 +6276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IslandPop Photo | 185553 | [185553-islandpop-photo.json](./185553-islandpop-photo.json) |
 | Islandry | 423952 | [423952-islandry.json](./423952-islandry.json) |
 | Islands | 176861 | [176861-islands.json](./176861-islands.json) |
+| Islands & Trains | 212033 | [212033-islands-and-trains.json](./212033-islands-and-trains.json) |
 | Islands and Ships logic puzzle | 232048 | [232048-islands-and-ships-logic-puzzle.json](./232048-islands-and-ships-logic-puzzle.json) |
 | Islands Might Fly | 255211 | [255211-islands-might-fly.json](./255211-islands-might-fly.json) |
 | Islands of Diamonds | 65371 | [65371-islands-of-diamonds.json](./65371-islands-of-diamonds.json) |
@@ -6753,6 +6755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itsutsu no Neito+ | 321244 | [321244-itsutsu-no-neito.json](./321244-itsutsu-no-neito.json) |
 | Itsy | 309898 | [309898-itsy.json](./309898-itsy.json) |
 | Itsy Blitzy | 107391 | [107391-itsy-blitzy.json](./107391-itsy-blitzy.json) |
+| ItsyRealm | 212012 | [212012-itsyrealm.json](./212012-itsyrealm.json) |
 | Ittle Dew | 7964 | [7964-ittle-dew.json](./7964-ittle-dew.json) |
 | Ittle Dew 2 | 11598 | [11598-ittle-dew-2.json](./11598-ittle-dew-2.json) |
 | Ittle Dew 2+ | 75286 | [75286-ittle-dew-2.json](./75286-ittle-dew-2.json) |
