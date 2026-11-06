@@ -2332,6 +2332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Abyss: Alter Ego | 172094 | [172094-neon-abyss-alter-ego.json](./172094-neon-abyss-alter-ego.json) |
 | Neon Abyss: Chrono Trap | 193164 | [193164-neon-abyss-chrono-trap.json](./193164-neon-abyss-chrono-trap.json) |
 | Neon Abyss: Deluxe Edition | 169182 | [169182-neon-abyss-deluxe-edition.json](./169182-neon-abyss-deluxe-edition.json) |
+| Neon Abyss: Infinity | 212552 | [212552-neon-abyss-infinity.json](./212552-neon-abyss-infinity.json) |
 | Neon Abyss: The Lovable Rogues Pack | 237993 | [237993-neon-abyss-the-lovable-rogues-pack.json](./237993-neon-abyss-the-lovable-rogues-pack.json) |
 | Neon Aileron | 110736 | [110736-neon-aileron.json](./110736-neon-aileron.json) |
 | Neon Apex: Beyond the Limit | 332863 | [332863-neon-apex-beyond-the-limit.json](./332863-neon-apex-beyond-the-limit.json) |
@@ -6161,6 +6162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noctemis | 85314 | [85314-noctemis.json](./85314-noctemis.json) |
 | Noctheria | 355058 | [355058-noctheria.json](./355058-noctheria.json) |
 | Nocthra | 414091 | [414091-nocthra.json](./414091-nocthra.json) |
+| Nocti | 212565 | [212565-nocti.json](./212565-nocti.json) |
 | Noctilucent: Before Dawn | 350394 | [350394-noctilucent-before-dawn.json](./350394-noctilucent-before-dawn.json) |
 | Noctiria | 409759 | [409759-noctiria.json](./409759-noctiria.json) |
 | Noctis | 426429 | [426429-noctis.json](./426429-noctis.json) |
@@ -7544,6 +7546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numbershark 5 | 286602 | [286602-numbershark-5.json](./286602-numbershark-5.json) |
 | Numbertron | 202714 | [202714-numbertron.json](./202714-numbertron.json) |
 | Numberzilla | 331380 | [331380-numberzilla.json](./331380-numberzilla.json) |
+| Numbic | 212560 | [212560-numbic.json](./212560-numbic.json) |
 | Numblast | 20282 | [20282-numblast.json](./20282-numblast.json) |
 | Numbo Jumbo | 57404 | [57404-numbo-jumbo.json](./57404-numbo-jumbo.json) |
 | Numbra | 346727 | [346727-numbra.json](./346727-numbra.json) |
