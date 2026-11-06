@@ -2822,7 +2822,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3792,6 +3791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirakira Stars Idol Project Nagisa | 152614 | [152614-kirakira-stars-idol-project-nagisa.json](./152614-kirakira-stars-idol-project-nagisa.json) |
 | Kirakira Stars Idol Project Reika | 153830 | [153830-kirakira-stars-idol-project-reika.json](./153830-kirakira-stars-idol-project-reika.json) |
 | Kirameki Paradise | 225372 | [225372-kirameki-paradise.json](./225372-kirameki-paradise.json) |
+| Kirameki School Life SP: The Wonder Years | 196944 | [196944-kirameki-school-life-sp-the-wonder-years.json](./196944-kirameki-school-life-sp-the-wonder-years.json) |
 | Kirara Fantasia | 82561 | [82561-kirara-fantasia.json](./82561-kirara-fantasia.json) |
 | Kirari Nangoku Komugiiro: Shiofuki Paradise he Youkoso! | 194584 | [194584-kirari-nangoku-komugiiro-shiofuki-paradise-he-youkoso.json](./194584-kirari-nangoku-komugiiro-shiofuki-paradise-he-youkoso.json) |
 | Kirarin Dash | 206582 | [206582-kirarin-dash.json](./206582-kirarin-dash.json) |
