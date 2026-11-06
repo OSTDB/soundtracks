@@ -662,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damsels in Distress | 276199 | [276199-damsels-in-distress.json](./276199-damsels-in-distress.json) |
 | Damsels in Distress | 404525 | [404525-damsels-in-distress.json](./404525-damsels-in-distress.json) |
 | Damzel | 91825 | [91825-damzel.json](./91825-damzel.json) |
+| Dan | 242885 | [242885-dan.json](./242885-dan.json) |
 | Dan Dare II: Mekon's Revenge | 13567 | [13567-dan-dare-ii-mekons-revenge.json](./13567-dan-dare-ii-mekons-revenge.json) |
 | Dan Dare III: The Escape | 12032 | [12032-dan-dare-iii-the-escape.json](./12032-dan-dare-iii-the-escape.json) |
 | Dan Dare: Pilot of the Future | 12989 | [12989-dan-dare-pilot-of-the-future.json](./12989-dan-dare-pilot-of-the-future.json) |
@@ -3249,6 +3250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De Blob 2 | 4796 | [4796-de-blob-2.json](./4796-de-blob-2.json) |
 | De Blob Online | 225354 | [225354-de-blob-online.json](./225354-de-blob-online.json) |
 | De Blob: Utrecht | 253718 | [253718-de-blob-utrecht.json](./253718-de-blob-utrecht.json) |
+| De Cara no Muro | 242901 | [242901-de-cara-no-muro.json](./242901-de-cara-no-muro.json) |
 | De Fobos y Deimos | 103966 | [103966-de-fobos-y-deimos.json](./103966-de-fobos-y-deimos.json) |
 | De griezelbus 1 | 98943 | [98943-de-griezelbus-1.json](./98943-de-griezelbus-1.json) |
 | De griezelbus 2 | 78322 | [78322-de-griezelbus-2.json](./78322-de-griezelbus-2.json) |
