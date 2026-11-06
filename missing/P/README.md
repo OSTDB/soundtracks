@@ -1940,6 +1940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Never | 100292 | [100292-paradise-never.json](./100292-paradise-never.json) |
 | Paradise Never: The Revolution Fails | 14398 | [14398-paradise-never-the-revolution-fails.json](./14398-paradise-never-the-revolution-fails.json) |
 | Paradise Nowhere | 250742 | [250742-paradise-nowhere.json](./250742-paradise-nowhere.json) |
+| Paradise of Desire | 231137 | [231137-paradise-of-desire.json](./231137-paradise-of-desire.json) |
 | Paradise of Freedom | 332539 | [332539-paradise-of-freedom.json](./332539-paradise-of-freedom.json) |
 | Paradise Quest | 68408 | [68408-paradise-quest.json](./68408-paradise-quest.json) |
 | Paradise Rescue | 230750 | [230750-paradise-rescue.json](./230750-paradise-rescue.json) |
@@ -5407,6 +5408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phase Edge | 53458 | [53458-phase-edge.json](./53458-phase-edge.json) |
 | Phase Line: Raider Assault | 239667 | [239667-phase-line-raider-assault.json](./239667-phase-line-raider-assault.json) |
 | Phase Nexus | 369379 | [369379-phase-nexus.json](./369379-phase-nexus.json) |
+| Phase Ninja | 231144 | [231144-phase-ninja.json](./231144-phase-ninja.json) |
 | Phase Paradox | 43436 | [43436-phase-paradox.json](./43436-phase-paradox.json) |
 | Phase Runner | 92490 | [92490-phase-runner.json](./92490-phase-runner.json) |
 | Phase Shift | 50165 | [50165-phase-shift.json](./50165-phase-shift.json) |
@@ -7171,6 +7173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pingwinek Kelvin | 142495 | [142495-pingwinek-kelvin.json](./142495-pingwinek-kelvin.json) |
 | Pingy the Ping Idle RPG | 409098 | [409098-pingy-the-ping-idle-rpg.json](./409098-pingy-the-ping-idle-rpg.json) |
 | Pinheads Bowling VR | 30430 | [30430-pinheads-bowling-vr.json](./30430-pinheads-bowling-vr.json) |
+| Pinhi! | 231143 | [231143-pinhi.json](./231143-pinhi.json) |
 | Pinhole Universe | 268273 | [268273-pinhole-universe.json](./268273-pinhole-universe.json) |
 | Pìnjìng de Kāiduān | 155969 | [155969-pinjing-de-kaiduan.json](./155969-pinjing-de-kaiduan.json) |
 | Pink | 142300 | [142300-pink.json](./142300-pink.json) |
@@ -7306,6 +7309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pip My Dice | 314288 | [314288-pip-my-dice.json](./314288-pip-my-dice.json) |
 | Pip Pepper Park Planner | 347116 | [347116-pip-pepper-park-planner.json](./347116-pip-pepper-park-planner.json) |
 | Pip Puzzle | 358032 | [358032-pip-puzzle.json](./358032-pip-puzzle.json) |
+| Pip X | 231142 | [231142-pip-x.json](./231142-pip-x.json) |
 | Pip XL | 234235 | [234235-pip-xl.json](./234235-pip-xl.json) |
 | Pip: Battle for the Arctic | 240723 | [240723-pip-battle-for-the-arctic.json](./240723-pip-battle-for-the-arctic.json) |
 | Pip! | 123445 | [123445-pip.json](./123445-pip.json) |
@@ -8449,6 +8453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Shrine: Jinja | 219913 | [219913-pixel-shrine-jinja.json](./219913-pixel-shrine-jinja.json) |
 | Pixel Skater | 190205 | [190205-pixel-skater.json](./190205-pixel-skater.json) |
 | Pixel Skater | 241699 | [241699-pixel-skater.json](./241699-pixel-skater.json) |
+| Pixel Slayer | 231141 | [231141-pixel-slayer.json](./231141-pixel-slayer.json) |
 | Pixel Sniper | 402343 | [402343-pixel-sniper.json](./402343-pixel-sniper.json) |
 | Pixel Soccer | 35814 | [35814-pixel-soccer.json](./35814-pixel-soccer.json) |
 | Pixel Space | 35182 | [35182-pixel-space.json](./35182-pixel-space.json) |
@@ -11971,6 +11976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Plaza: Farmer Pack | 317724 | [317724-poly-plaza-farmer-pack.json](./317724-poly-plaza-farmer-pack.json) |
 | Poly Puzzle: Animals | 235619 | [235619-poly-puzzle-animals.json](./235619-poly-puzzle-animals.json) |
 | Poly Puzzle: Birds | 367665 | [367665-poly-puzzle-birds.json](./367665-poly-puzzle-birds.json) |
+| Poly Puzzle: Butterflies | 231140 | [231140-poly-puzzle-butterflies.json](./231140-poly-puzzle-butterflies.json) |
 | Poly Puzzle: Dinosaurs | 221133 | [221133-poly-puzzle-dinosaurs.json](./221133-poly-puzzle-dinosaurs.json) |
 | Poly Puzzle: Dogs | 286418 | [286418-poly-puzzle-dogs.json](./286418-poly-puzzle-dogs.json) |
 | Poly Puzzle: Furries | 170229 | [170229-poly-puzzle-furries.json](./170229-poly-puzzle-furries.json) |
