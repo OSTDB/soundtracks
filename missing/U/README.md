@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFB 2: Fight & Wrestling Games | 251343 | [251343-ufb-2-fight-and-wrestling-games.json](./251343-ufb-2-fight-and-wrestling-games.json) |
 | UFC | 21720 | [21720-ufc.json](./21720-ufc.json) |
 | UFC 2009 Undisputed | 7227 | [7227-ufc-2009-undisputed.json](./7227-ufc-2009-undisputed.json) |
+| UFC 4: Fighter Bundle | 227087 | [227087-ufc-4-fighter-bundle.json](./227087-ufc-4-fighter-bundle.json) |
 | UFC 5: Deluxe Edition | 273592 | [273592-ufc-5-deluxe-edition.json](./273592-ufc-5-deluxe-edition.json) |
 | UFC Undisputed 2010 | 7228 | [7228-ufc-undisputed-2010.json](./7228-ufc-undisputed-2010.json) |
 | UFC Undisputed 3 | 7229 | [7229-ufc-undisputed-3.json](./7229-ufc-undisputed-3.json) |
