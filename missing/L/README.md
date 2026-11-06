@@ -9855,6 +9855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunatic Den | 250266 | [250266-lunatic-den.json](./250266-lunatic-den.json) |
 | Lunatic Fringe | 133956 | [133956-lunatic-fringe.json](./133956-lunatic-fringe.json) |
 | Lunatic Rave 2 | 79901 | [79901-lunatic-rave-2.json](./79901-lunatic-rave-2.json) |
+| Lunatic Viewer: Streamer Girl at Risk | 215979 | [215979-lunatic-viewer-streamer-girl-at-risk.json](./215979-lunatic-viewer-streamer-girl-at-risk.json) |
 | Lunavania | 317783 | [317783-lunavania.json](./317783-lunavania.json) |
 | Lunavoid | 356023 | [356023-lunavoid.json](./356023-lunavoid.json) |
 | Lunch A Palooza | 120623 | [120623-lunch-a-palooza.json](./120623-lunch-a-palooza.json) |
