@@ -2148,6 +2148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Zone | 202915 | [202915-fantasy-zone.json](./202915-fantasy-zone.json) |
 | Fantasy Zone | 206230 | [206230-fantasy-zone.json](./206230-fantasy-zone.json) |
 | Fantasy Zone | 206231 | [206231-fantasy-zone.json](./206231-fantasy-zone.json) |
+| Fantasy Zone | 206314 | [206314-fantasy-zone.json](./206314-fantasy-zone.json) |
 | Fantasy Zone | 215746 | [215746-fantasy-zone.json](./215746-fantasy-zone.json) |
 | Fantasy Zone | 6684 | [6684-fantasy-zone.json](./6684-fantasy-zone.json) |
 | Fantasy Zone II | 6687 | [6687-fantasy-zone-ii.json](./6687-fantasy-zone-ii.json) |
@@ -5715,6 +5716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firby | 400101 | [400101-firby.json](./400101-firby.json) |
 | Fire | 10321 | [10321-fire.json](./10321-fire.json) |
 | Fire | 152137 | [152137-fire.json](./152137-fire.json) |
+| Fire | 206333 | [206333-fire.json](./206333-fire.json) |
 | Fire | 231720 | [231720-fire.json](./231720-fire.json) |
 | Fire | 231721 | [231721-fire.json](./231721-fire.json) |
 | Fire | 371569 | [371569-fire.json](./371569-fire.json) |
