@@ -19579,6 +19579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -23069,6 +23070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy vs Spy | 289160 | [289160-spy-vs-spy.json](./289160-spy-vs-spy.json) |
 | Spy vs Spy | 9166 | [9166-spy-vs-spy.json](./9166-spy-vs-spy.json) |
 | Spy vs Spy III: Arctic Antics | 12773 | [12773-spy-vs-spy-iii-arctic-antics.json](./12773-spy-vs-spy-iii-arctic-antics.json) |
+| Spy Vs. Spy | 206980 | [206980-spy-vs-spy.json](./206980-spy-vs-spy.json) |
 | Spy vs. Spy 2 | 41163 | [41163-spy-vs-spy-2.json](./41163-spy-vs-spy-2.json) |
 | Spy vs. Spy 3 | 41162 | [41162-spy-vs-spy-3.json](./41162-spy-vs-spy-3.json) |
 | Spy vs. Spy II: The Island Caper | 12772 | [12772-spy-vs-spy-ii-the-island-caper.json](./12772-spy-vs-spy-ii-the-island-caper.json) |
@@ -24403,6 +24405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Starfleet Command - Orion Pirates | 79758 | [79758-star-trek-starfleet-command-orion-pirates.json](./79758-star-trek-starfleet-command-orion-pirates.json) |
 | Star Trek: Starfleet Command III | 19416 | [19416-star-trek-starfleet-command-iii.json](./19416-star-trek-starfleet-command-iii.json) |
 | Star Trek: Starfleet Command Volume II - Empires at War | 71404 | [71404-star-trek-starfleet-command-volume-ii-empires-at-war.json](./71404-star-trek-starfleet-command-volume-ii-empires-at-war.json) |
+| Star Trek: Starship Creator Deluxe | 206984 | [206984-star-trek-starship-creator-deluxe.json](./206984-star-trek-starship-creator-deluxe.json) |
 | Star Trek: Starship Creator Warp II | 71880 | [71880-star-trek-starship-creator-warp-ii.json](./71880-star-trek-starship-creator-warp-ii.json) |
 | Star Trek: Strategic Operations Simulator | 12319 | [12319-star-trek-strategic-operations-simulator.json](./12319-star-trek-strategic-operations-simulator.json) |
 | Star Trek: Strategic Operations Simulator | 282081 | [282081-star-trek-strategic-operations-simulator.json](./282081-star-trek-strategic-operations-simulator.json) |
