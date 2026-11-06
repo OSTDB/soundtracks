@@ -3366,6 +3366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemmings | 76216 | [76216-lemmings.json](./76216-lemmings.json) |
 | LemminGS | 240379 | [240379-lemmings.json](./240379-lemmings.json) |
 | Lemmings & Oh No! More Lemmings | 242242 | [242242-lemmings-and-oh-no-more-lemmings.json](./242242-lemmings-and-oh-no-more-lemmings.json) |
+| Lemmings & Oh No! More Lemmings | 242898 | [242898-lemmings-and-oh-no-more-lemmings.json](./242898-lemmings-and-oh-no-more-lemmings.json) |
 | Lemmings & Oh No! More Lemmings | 243377 | [243377-lemmings-and-oh-no-more-lemmings.json](./243377-lemmings-and-oh-no-more-lemmings.json) |
 | Lemmings & Oh No! More Lemmings | 243686 | [243686-lemmings-and-oh-no-more-lemmings.json](./243686-lemmings-and-oh-no-more-lemmings.json) |
 | Lemmings & Oh No! More Lemmings | 80535 | [80535-lemmings-and-oh-no-more-lemmings.json](./80535-lemmings-and-oh-no-more-lemmings.json) |
@@ -7272,6 +7273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loom | 267418 | [267418-loom.json](./267418-loom.json) |
 | Loom Path | 332831 | [332831-loom-path.json](./332831-loom-path.json) |
 | Loomchild | 418773 | [418773-loomchild.json](./418773-loomchild.json) |
+| Looming | 242895 | [242895-looming.json](./242895-looming.json) |
 | Looming Darkness | 177763 | [177763-looming-darkness.json](./177763-looming-darkness.json) |
 | Loona Landa | 271127 | [271127-loona-landa.json](./271127-loona-landa.json) |
 | Loondon | 91834 | [91834-loondon.json](./91834-loondon.json) |
@@ -8269,6 +8271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Sphear | 36534 | [36534-lost-sphear.json](./36534-lost-sphear.json) |
 | Lost Squad | 17129 | [17129-lost-squad.json](./17129-lost-squad.json) |
 | Lost Star | 298761 | [298761-lost-star.json](./298761-lost-star.json) |
+| Lost Star Saga | 242850 | [242850-lost-star-saga.json](./242850-lost-star-saga.json) |
 | Lost Station | 250866 | [250866-lost-station.json](./250866-lost-station.json) |
 | Lost Summoner Kitty | 80900 | [80900-lost-summoner-kitty.json](./80900-lost-summoner-kitty.json) |
 | Lost Sunday Comics | 192797 | [192797-lost-sunday-comics.json](./192797-lost-sunday-comics.json) |
