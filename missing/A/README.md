@@ -2794,6 +2794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AcidSpider | 205970 | [205970-acidspider.json](./205970-acidspider.json) |
 | Acies: Battle Runes | 142594 | [142594-acies-battle-runes.json](./142594-acies-battle-runes.json) |
 | Ack-Ack Attack! | 79318 | [79318-ack-ack-attack.json](./79318-ack-ack-attack.json) |
+| Ackeron | 207970 | [207970-ackeron.json](./207970-ackeron.json) |
 | Acko's Mach-Bike Race | 343701 | [343701-ackos-mach-bike-race.json](./343701-ackos-mach-bike-race.json) |
 | ACL Pro Cornhole | 211391 | [211391-acl-pro-cornhole.json](./211391-acl-pro-cornhole.json) |
 | Aclla: Taiyou no Miko to Sora no Shinpei | 138430 | [138430-aclla-taiyou-no-miko-to-sora-no-shinpei.json](./138430-aclla-taiyou-no-miko-to-sora-no-shinpei.json) |
@@ -5571,6 +5572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airline Boss | 289123 | [289123-airline-boss.json](./289123-airline-boss.json) |
 | Airline Commander | 106592 | [106592-airline-commander.json](./106592-airline-commander.json) |
 | Airline Commander: A Real Flight Experience | 106598 | [106598-airline-commander-a-real-flight-experience.json](./106598-airline-commander-a-real-flight-experience.json) |
+| Airline Director | 207985 | [207985-airline-director.json](./207985-airline-director.json) |
 | Airline Empire: Stewardess Simulator | 370786 | [370786-airline-empire-stewardess-simulator.json](./370786-airline-empire-stewardess-simulator.json) |
 | Airline Flight Attendant Simulator VR | 236016 | [236016-airline-flight-attendant-simulator-vr.json](./236016-airline-flight-attendant-simulator-vr.json) |
 | Airline Manager | 206104 | [206104-airline-manager.json](./206104-airline-manager.json) |
@@ -16595,7 +16597,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
