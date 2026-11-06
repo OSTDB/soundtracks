@@ -2386,6 +2386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universe II | 13089 | [13089-universe-ii.json](./13089-universe-ii.json) |
 | Universe in Fire | 29237 | [29237-universe-in-fire.json](./29237-universe-in-fire.json) |
 | Universe of Trials | 318789 | [318789-universe-of-trials.json](./318789-universe-of-trials.json) |
+| Universe Pandemic 2 | 198005 | [198005-universe-pandemic-2.json](./198005-universe-pandemic-2.json) |
 | Universe Prison | 147045 | [147045-universe-prison.json](./147045-universe-prison.json) |
 | Universe Quiz | 418406 | [418406-universe-quiz.json](./418406-universe-quiz.json) |
 | Universe Rhythm Shooting | 337606 | [337606-universe-rhythm-shooting.json](./337606-universe-rhythm-shooting.json) |
@@ -2806,6 +2807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsolved Mystery Club: Amelia Earhart | 120819 | [120819-unsolved-mystery-club-amelia-earhart.json](./120819-unsolved-mystery-club-amelia-earhart.json) |
 | Unsolved Mystery Club: Ancient Astronauts | 140256 | [140256-unsolved-mystery-club-ancient-astronauts.json](./140256-unsolved-mystery-club-ancient-astronauts.json) |
 | Unsolved Mystery Club: Ancient Astronauts - Collector's Edition | 120050 | [120050-unsolved-mystery-club-ancient-astronauts-collectors-edition.json](./120050-unsolved-mystery-club-ancient-astronauts-collectors-edition.json) |
+| Unsolved Riddles | 197978 | [197978-unsolved-riddles.json](./197978-unsolved-riddles.json) |
 | Unsolved Stories | 86535 | [86535-unsolved-stories.json](./86535-unsolved-stories.json) |
 | Unsorted Horror | 258669 | [258669-unsorted-horror.json](./258669-unsorted-horror.json) |
 | Unsorted VHS | 214425 | [214425-unsorted-vhs.json](./214425-unsorted-vhs.json) |
