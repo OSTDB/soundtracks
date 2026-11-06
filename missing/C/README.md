@@ -2213,6 +2213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Parking Multiplayer | 232563 | [232563-car-parking-multiplayer.json](./232563-car-parking-multiplayer.json) |
 | Car Parking Multiplayer 2 | 245213 | [245213-car-parking-multiplayer-2.json](./245213-car-parking-multiplayer-2.json) |
 | Car Parking Real Driving Sim | 274976 | [274976-car-parking-real-driving-sim.json](./274976-car-parking-real-driving-sim.json) |
+| Car Parking Simulator | 199184 | [199184-car-parking-simulator.json](./199184-car-parking-simulator.json) |
 | Car Parking Simulator 2024 | 267147 | [267147-car-parking-simulator-2024.json](./267147-car-parking-simulator-2024.json) |
 | Car Parking Simulator 3D Game | 105929 | [105929-car-parking-simulator-3d-game.json](./105929-car-parking-simulator-3d-game.json) |
 | Car Parking Simulator VR | 155910 | [155910-car-parking-simulator-vr.json](./155910-car-parking-simulator-vr.json) |
@@ -10506,6 +10507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clockwork Dreams | 169238 | [169238-clockwork-dreams.json](./169238-clockwork-dreams.json) |
 | Clockwork Dungeon | 165682 | [165682-clockwork-dungeon.json](./165682-clockwork-dungeon.json) |
 | Clockwork Empires | 9764 | [9764-clockwork-empires.json](./9764-clockwork-empires.json) |
+| Clockwork Kingdom | 199144 | [199144-clockwork-kingdom.json](./199144-clockwork-kingdom.json) |
 | Clockwork Knight | 19756 | [19756-clockwork-knight.json](./19756-clockwork-knight.json) |
 | Clockwork Knight 2 | 19717 | [19717-clockwork-knight-2.json](./19717-clockwork-knight-2.json) |
 | Clockwork Knight Puzzle | 300552 | [300552-clockwork-knight-puzzle.json](./300552-clockwork-knight-puzzle.json) |
@@ -13596,6 +13598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connection: The Nightmare Within | 258117 | [258117-connection-the-nightmare-within.json](./258117-connection-the-nightmare-within.json) |
 | Connections | 12413 | [12413-connections.json](./12413-connections.json) |
 | Connections | 315093 | [315093-connections.json](./315093-connections.json) |
+| Connecto | 199181 | [199181-connecto.json](./199181-connecto.json) |
 | ConnecTrade | 290303 | [290303-connectrade.json](./290303-connectrade.json) |
 | Connectris | 79232 | [79232-connectris.json](./79232-connectris.json) |
 | Connectrode | 232347 | [232347-connectrode.json](./232347-connectrode.json) |
@@ -19626,6 +19629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupid Bistro!! Max | 264333 | [264333-cupid-bistro-max.json](./264333-cupid-bistro-max.json) |
 | Cupid Date | 225264 | [225264-cupid-date.json](./225264-cupid-date.json) |
 | Cupid Island | 190448 | [190448-cupid-island.json](./190448-cupid-island.json) |
+| Cupid Kiss | 199139 | [199139-cupid-kiss.json](./199139-cupid-kiss.json) |
 | Cupid Nonogram | 182248 | [182248-cupid-nonogram.json](./182248-cupid-nonogram.json) |
 | Cupid Parasite | 136964 | [136964-cupid-parasite.json](./136964-cupid-parasite.json) |
 | Cupid Parasite: Day One Edition | 171287 | [171287-cupid-parasite-day-one-edition.json](./171287-cupid-parasite-day-one-edition.json) |
