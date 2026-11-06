@@ -651,6 +651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamm | 29600 | [29600-lamm.json](./29600-lamm.json) |
 | Lammana: The Looe Island Mystery | 132466 | [132466-lammana-the-looe-island-mystery.json](./132466-lammana-the-looe-island-mystery.json) |
 | Lamo | 121465 | [121465-lamo.json](./121465-lamo.json) |
+| Lamoneo | 201362 | [201362-lamoneo.json](./201362-lamoneo.json) |
 | Lamp and Vamp | 240111 | [240111-lamp-and-vamp.json](./240111-lamp-and-vamp.json) |
 | Lamp Head | 29284 | [29284-lamp-head.json](./29284-lamp-head.json) |
 | Lamp Man Down | 109379 | [109379-lamp-man-down.json](./109379-lamp-man-down.json) |
