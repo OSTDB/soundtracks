@@ -4990,6 +4990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages: Space Harrier | 109270 | [109270-sega-ages-space-harrier.json](./109270-sega-ages-space-harrier.json) |
 | Sega Arcade Gallery | 22241 | [22241-sega-arcade-gallery.json](./22241-sega-arcade-gallery.json) |
 | Sega Archives from U.S.A. vol. 1 | 56842 | [56842-sega-archives-from-u-s-a-vol-1.json](./56842-sega-archives-from-u-s-a-vol-1.json) |
+| Sega Archives from USA Vol. 3 | 202899 | [202899-sega-archives-from-usa-vol-3.json](./202899-sega-archives-from-usa-vol-3.json) |
 | Sega Astro City Mini | 245662 | [245662-sega-astro-city-mini.json](./245662-sega-astro-city-mini.json) |
 | Sega Astro City Mini V | 245664 | [245664-sega-astro-city-mini-v.json](./245664-sega-astro-city-mini-v.json) |
 | Sega Bass Fishing 2 | 45837 | [45837-sega-bass-fishing-2.json](./45837-sega-bass-fishing-2.json) |
@@ -5031,6 +5032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Master System Brawl | 266667 | [266667-sega-master-system-brawl.json](./266667-sega-master-system-brawl.json) |
 | Sega Mega Drive Portable Video Game Player | 202781 | [202781-sega-mega-drive-portable-video-game-player.json](./202781-sega-mega-drive-portable-video-game-player.json) |
 | Sega Mega Drive Portable Video Game Player: Streets of Rage Special Edition | 202782 | [202782-sega-mega-drive-portable-video-game-player-streets-of-rage-special-edition.json](./202782-sega-mega-drive-portable-video-game-player-streets-of-rage-special-edition.json) |
+| Sega Mega Pack | 202900 | [202900-sega-mega-pack.json](./202900-sega-mega-pack.json) |
 | Sega Net Mahjong MJ | 130811 | [130811-sega-net-mahjong-mj.json](./130811-sega-net-mahjong-mj.json) |
 | Sega Network Taisen Mahjong MJ2 | 165299 | [165299-sega-network-taisen-mahjong-mj2.json](./165299-sega-network-taisen-mahjong-mj2.json) |
 | Sega Network Taisen Mahjong MJ3 | 165300 | [165300-sega-network-taisen-mahjong-mj3.json](./165300-sega-network-taisen-mahjong-mj3.json) |
@@ -17913,6 +17915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog: Chaos Factor | 330963 | [330963-sonic-the-hedgehog-chaos-factor.json](./330963-sonic-the-hedgehog-chaos-factor.json) |
 | Sonic the Hedgehog: Chaos Spirits | 331396 | [331396-sonic-the-hedgehog-chaos-spirits.json](./331396-sonic-the-hedgehog-chaos-spirits.json) |
 | Sonic the Hedgehog: Character Pak | 198542 | [198542-sonic-the-hedgehog-character-pak.json](./198542-sonic-the-hedgehog-character-pak.json) |
+| Sonic the Hedgehog: Editable ROM EYX | 202891 | [202891-sonic-the-hedgehog-editable-rom-eyx.json](./202891-sonic-the-hedgehog-editable-rom-eyx.json) |
 | Sonic the Hedgehog: Egg on Toast Edition | 129183 | [129183-sonic-the-hedgehog-egg-on-toast-edition.json](./129183-sonic-the-hedgehog-egg-on-toast-edition.json) |
 | Sonic The Hedgehog: Electro Block | 313323 | [313323-sonic-the-hedgehog-electro-block.json](./313323-sonic-the-hedgehog-electro-block.json) |
 | Sonic the Hedgehog: Emerald Chaos | 331702 | [331702-sonic-the-hedgehog-emerald-chaos.json](./331702-sonic-the-hedgehog-emerald-chaos.json) |
