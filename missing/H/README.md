@@ -3931,6 +3931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helicopter 2.0 | 325871 | [325871-helicopter-2-0.json](./325871-helicopter-2-0.json) |
 | Helicopter 2015: Natural Disasters | 53184 | [53184-helicopter-2015-natural-disasters.json](./53184-helicopter-2015-natural-disasters.json) |
 | Helicopter 2022 | 220816 | [220816-helicopter-2022.json](./220816-helicopter-2022.json) |
+| Helicopter Black Shark Gunship | 198007 | [198007-helicopter-black-shark-gunship.json](./198007-helicopter-black-shark-gunship.json) |
 | Helicopter Escape 3D | 249679 | [249679-helicopter-escape-3d.json](./249679-helicopter-escape-3d.json) |
 | Helicopter Flight Simulator | 319980 | [319980-helicopter-flight-simulator.json](./319980-helicopter-flight-simulator.json) |
 | Helicopter Flight Simulator | 98685 | [98685-helicopter-flight-simulator.json](./98685-helicopter-flight-simulator.json) |
