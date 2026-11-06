@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kabobber | 40684 | [40684-kabobber.json](./40684-kabobber.json) |
 | KabochaFarm | 150970 | [150970-kabochafarm.json](./150970-kabochafarm.json) |
 | Kabod Online | 65209 | [65209-kabod-online.json](./65209-kabod-online.json) |
+| Kaboom | 219869 | [219869-kaboom.json](./219869-kaboom.json) |
 | Kaboom Farm | 412924 | [412924-kaboom-farm.json](./412924-kaboom-farm.json) |
 | Kaboom Swing | 179151 | [179151-kaboom-swing.json](./179151-kaboom-swing.json) |
 | Kaboom: The Suicide Bombing Game | 174111 | [174111-kaboom-the-suicide-bombing-game.json](./174111-kaboom-the-suicide-bombing-game.json) |
@@ -481,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kalpa: Cosmic Symphony - Origin Vol. 1 | 405002 | [405002-kalpa-cosmic-symphony-origin-vol-1.json](./405002-kalpa-cosmic-symphony-origin-vol-1.json) |
 | Kalpa: Cosmic Symphony - Origin Vol. 2 Pack | 405003 | [405003-kalpa-cosmic-symphony-origin-vol-2-pack.json](./405003-kalpa-cosmic-symphony-origin-vol-2-pack.json) |
 | Kalpa: The Sign of Omen | 238918 | [238918-kalpa-the-sign-of-omen.json](./238918-kalpa-the-sign-of-omen.json) |
+| Kalt | 219871 | [219871-kalt.json](./219871-kalt.json) |
 | Kalterkrieg | 356057 | [356057-kalterkrieg.json](./356057-kalterkrieg.json) |
 | Kalyskah: Jungle Trouble! | 219489 | [219489-kalyskah-jungle-trouble.json](./219489-kalyskah-jungle-trouble.json) |
 | Kalyzmyr | 191807 | [191807-kalyzmyr.json](./191807-kalyzmyr.json) |
@@ -1176,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katana | 216338 | [216338-katana.json](./216338-katana.json) |
 | Katana | 358917 | [358917-katana.json](./358917-katana.json) |
 | Katana Action | 57132 | [57132-katana-action.json](./57132-katana-action.json) |
+| Katana Arena | 219872 | [219872-katana-arena.json](./219872-katana-arena.json) |
 | Katana Dragon | 326631 | [326631-katana-dragon.json](./326631-katana-dragon.json) |
 | Katana Hime | 375486 | [375486-katana-hime.json](./375486-katana-hime.json) |
 | Katana Infinity | 246167 | [246167-katana-infinity.json](./246167-katana-infinity.json) |
@@ -1300,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Anime: Cute Boys Magic World | 409535 | [409535-kawaii-anime-cute-boys-magic-world.json](./409535-kawaii-anime-cute-boys-magic-world.json) |
 | Kawaii Anime: Cute Girls Magic World | 409685 | [409685-kawaii-anime-cute-girls-magic-world.json](./409685-kawaii-anime-cute-girls-magic-world.json) |
 | Kawaii Ano Ko ha Yousha toka Zenzen Shinai: Jiai no Youkou-hen | 376681 | [376681-kawaii-ano-ko-ha-yousha-toka-zenzen-shinai-jiai-no-youkou-hen.json](./376681-kawaii-ano-ko-ha-yousha-toka-zenzen-shinai-jiai-no-youkou-hen.json) |
+| Kawaii Asian Girls | 219874 | [219874-kawaii-asian-girls.json](./219874-kawaii-asian-girls.json) |
 | Kawaii Coloring Book | 104223 | [104223-kawaii-coloring-book.json](./104223-kawaii-coloring-book.json) |
 | Kawaii Dake ja Dame? | 238115 | [238115-kawaii-dake-ja-dame.json](./238115-kawaii-dake-ja-dame.json) |
 | Kawaii Deathu Desu | 120089 | [120089-kawaii-deathu-desu.json](./120089-kawaii-deathu-desu.json) |
@@ -1396,6 +1400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaz Ball | 81735 | [81735-kaz-ball.json](./81735-kaz-ball.json) |
 | Kaz: Pushing the Virtual Divide | 22147 | [22147-kaz-pushing-the-virtual-divide.json](./22147-kaz-pushing-the-virtual-divide.json) |
 | Kaz's Adventure | 207768 | [207768-kazs-adventure.json](./207768-kazs-adventure.json) |
+| Kaz's Adventure 2: Lost Souls | 219879 | [219879-kazs-adventure-2-lost-souls.json](./219879-kazs-adventure-2-lost-souls.json) |
 | Kazaam | 217676 | [217676-kazaam.json](./217676-kazaam.json) |
 | Kazak | 239685 | [239685-kazak.json](./239685-kazak.json) |
 | Kazakh ' Jack | 144941 | [144941-kazakh-jack.json](./144941-kazakh-jack.json) |
@@ -1520,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep on Mining!: Worlds | 393578 | [393578-keep-on-mining-worlds.json](./393578-keep-on-mining-worlds.json) |
 | Keep On Winning! | 397914 | [397914-keep-on-winning.json](./397914-keep-on-winning.json) |
 | Keep Out | 108846 | [108846-keep-out.json](./108846-keep-out.json) |
+| Keep Out: Black Protein | 219880 | [219880-keep-out-black-protein.json](./219880-keep-out-black-protein.json) |
 | Keep repairing and nobody sinks | 183715 | [183715-keep-repairing-and-nobody-sinks.json](./183715-keep-repairing-and-nobody-sinks.json) |
 | Keep Runnin | 304581 | [304581-keep-runnin.json](./304581-keep-runnin.json) |
 | Keep Running | 104071 | [104071-keep-running.json](./104071-keep-running.json) |
@@ -1624,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keikaku | 266574 | [266574-keikaku.json](./266574-keikaku.json) |
 | Keiko Everlasting | 102901 | [102901-keiko-everlasting.json](./102901-keiko-everlasting.json) |
 | Keiko-chan no Himitsu | 67373 | [67373-keiko-chan-no-himitsu.json](./67373-keiko-chan-no-himitsu.json) |
+| Keiko-san (47) my co-worker, is a single mother | 219881 | [219881-keiko-san-47-my-co-worker-is-a-single-mother.json](./219881-keiko-san-47-my-co-worker-is-a-single-mother.json) |
 | Keimagus | 177281 | [177281-keimagus.json](./177281-keimagus.json) |
 | Keine's Expanding Class! | 386435 | [386435-keines-expanding-class.json](./386435-keines-expanding-class.json) |
 | Keineged an nor | 181217 | [181217-keineged-an-nor.json](./181217-keineged-an-nor.json) |
@@ -2959,6 +2966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinetic Connection | 45272 | [45272-kinetic-connection.json](./45272-kinetic-connection.json) |
 | Kinetic Edge | 139524 | [139524-kinetic-edge.json](./139524-kinetic-edge.json) |
 | Kinetic Neo Ornate Bout | 374220 | [374220-kinetic-neo-ornate-bout.json](./374220-kinetic-neo-ornate-bout.json) |
+| Kinetic Storm | 219882 | [219882-kinetic-storm.json](./219882-kinetic-storm.json) |
 | Kinetic: Break All Limits | 236730 | [236730-kinetic-break-all-limits.json](./236730-kinetic-break-all-limits.json) |
 | Kinetica | 8236 | [8236-kinetica.json](./8236-kinetica.json) |
 | Kinetika | 419204 | [419204-kinetika.json](./419204-kinetika.json) |
@@ -4625,6 +4633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights Combo | 299403 | [299403-knights-combo.json](./299403-knights-combo.json) |
 | Knights Conquest | 123060 | [123060-knights-conquest.json](./123060-knights-conquest.json) |
 | Knights Contract | 7039 | [7039-knights-contract.json](./7039-knights-contract.json) |
+| Knights Crypt | 219884 | [219884-knights-crypt.json](./219884-knights-crypt.json) |
 | Knights End | 390270 | [390270-knights-end.json](./390270-knights-end.json) |
 | Knights Fight 2: New Blood | 188313 | [188313-knights-fight-2-new-blood.json](./188313-knights-fight-2-new-blood.json) |
 | Knights Hunt | 72501 | [72501-knights-hunt.json](./72501-knights-hunt.json) |
@@ -5276,6 +5285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konjiki no Gash Bell!!: Friends of Eternal Bonds | 283534 | [283534-konjiki-no-gash-bell-friends-of-eternal-bonds.json](./283534-konjiki-no-gash-bell-friends-of-eternal-bonds.json) |
 | Konjiki no Gashbell!! Yuujou no Zakeru: Dream Tag Tournament | 234808 | [234808-konjiki-no-gashbell-yuujou-no-zakeru-dream-tag-tournament.json](./234808-konjiki-no-gashbell-yuujou-no-zakeru-dream-tag-tournament.json) |
 | Konk World | 267910 | [267910-konk-world.json](./267910-konk-world.json) |
+| Konkan Coast Pirate Solutions | 219887 | [219887-konkan-coast-pirate-solutions.json](./219887-konkan-coast-pirate-solutions.json) |
 | Konkey Dong | 413215 | [413215-konkey-dong.json](./413215-konkey-dong.json) |
 | Konkey Dong | 413216 | [413216-konkey-dong.json](./413216-konkey-dong.json) |
 | Konkonkon | 337741 | [337741-konkonkon.json](./337741-konkonkon.json) |
@@ -5341,6 +5351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konung: Legend of the North | 10492 | [10492-konung-legend-of-the-north.json](./10492-konung-legend-of-the-north.json) |
 | Kony 2020 | 158343 | [158343-kony-2020.json](./158343-kony-2020.json) |
 | Konyok-Gorbunok | 180455 | [180455-konyok-gorbunok.json](./180455-konyok-gorbunok.json) |
+| Konzerthaus Berlin VR | 219888 | [219888-konzerthaus-berlin-vr.json](./219888-konzerthaus-berlin-vr.json) |
 | Koo & Yuu | 127580 | [127580-koo-and-yuu.json](./127580-koo-and-yuu.json) |
 | Koob Dog | 289777 | [289777-koob-dog.json](./289777-koob-dog.json) |
 | Koodbool | 308448 | [308448-koodbool.json](./308448-koodbool.json) |
@@ -5376,6 +5387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korea Dynasty | 231591 | [231591-korea-dynasty.json](./231591-korea-dynasty.json) |
 | Korea: Forgotten Conflict | 24186 | [24186-korea-forgotten-conflict.json](./24186-korea-forgotten-conflict.json) |
 | Korean Adventures in Russia | 156547 | [156547-korean-adventures-in-russia.json](./156547-korean-adventures-in-russia.json) |
+| Korean BBQ Simulator | 219892 | [219892-korean-bbq-simulator.json](./219892-korean-bbq-simulator.json) |
 | Korean Dominatrixes Are the Best | 385706 | [385706-korean-dominatrixes-are-the-best.json](./385706-korean-dominatrixes-are-the-best.json) |
 | Korean Drone Flying Tour Anmyeon Temple | 368755 | [368755-korean-drone-flying-tour-anmyeon-temple.json](./368755-korean-drone-flying-tour-anmyeon-temple.json) |
 | Korean Drone Flying Tour Ansan-si | 345971 | [345971-korean-drone-flying-tour-ansan-si.json](./345971-korean-drone-flying-tour-ansan-si.json) |
