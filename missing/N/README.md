@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanovoid | 244908 | [244908-nanovoid.json](./244908-nanovoid.json) |
 | Nanovor | 234177 | [234177-nanovor.json](./234177-nanovor.json) |
 | Nanowar | 181902 | [181902-nanowar.json](./181902-nanowar.json) |
+| NanoWar: Cells vs. Virus | 235541 | [235541-nanowar-cells-vs-virus.json](./235541-nanowar-cells-vs-virus.json) |
 | Nanowars | 138989 | [138989-nanowars.json](./138989-nanowars.json) |
 | Nanoworld | 126369 | [126369-nanoworld.json](./126369-nanoworld.json) |
 | Nanpure 10000 + Puzzle no Mado | 136971 | [136971-nanpure-10000-puzzle-no-mado.json](./136971-nanpure-10000-puzzle-no-mado.json) |
@@ -4514,6 +4515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Creatures | 341699 | [341699-nightmare-creatures.json](./341699-nightmare-creatures.json) |
 | Nightmare Delivery | 411670 | [411670-nightmare-delivery.json](./411670-nightmare-delivery.json) |
 | Nightmare Diary | 229703 | [229703-nightmare-diary.json](./229703-nightmare-diary.json) |
+| Nightmare Diary: Chapter One | 235576 | [235576-nightmare-diary-chapter-one.json](./235576-nightmare-diary-chapter-one.json) |
 | Nightmare Drive | 179679 | [179679-nightmare-drive.json](./179679-nightmare-drive.json) |
 | Nightmare Drive | 391655 | [391655-nightmare-drive.json](./391655-nightmare-drive.json) |
 | Nightmare Farm | 194343 | [194343-nightmare-farm.json](./194343-nightmare-farm.json) |
@@ -6832,6 +6834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not For Broadcast: Bits of Your Life | 240678 | [240678-not-for-broadcast-bits-of-your-life.json](./240678-not-for-broadcast-bits-of-your-life.json) |
 | Not For Broadcast: Complete Edition | 331858 | [331858-not-for-broadcast-complete-edition.json](./331858-not-for-broadcast-complete-edition.json) |
 | Not for Broadcast: Deluxe Edition | 242607 | [242607-not-for-broadcast-deluxe-edition.json](./242607-not-for-broadcast-deluxe-edition.json) |
+| Not For Broadcast: Live & Spooky | 235574 | [235574-not-for-broadcast-live-and-spooky.json](./235574-not-for-broadcast-live-and-spooky.json) |
 | Not For Broadcast: Season Pass | 243302 | [243302-not-for-broadcast-season-pass.json](./243302-not-for-broadcast-season-pass.json) |
 | Not For Broadcast: The Timeloop | 240693 | [240693-not-for-broadcast-the-timeloop.json](./240693-not-for-broadcast-the-timeloop.json) |
 | Not For You | 381698 | [381698-not-for-you.json](./381698-not-for-you.json) |
