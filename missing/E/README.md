@@ -1612,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egglia Rebirth | 187474 | [187474-egglia-rebirth.json](./187474-egglia-rebirth.json) |
 | Egglia: Legend of the Redcap | 48018 | [48018-egglia-legend-of-the-redcap.json](./48018-egglia-legend-of-the-redcap.json) |
 | Egglia: Legend of the Redcap Offline | 107144 | [107144-egglia-legend-of-the-redcap-offline.json](./107144-egglia-legend-of-the-redcap-offline.json) |
+| Egglien | 207493 | [207493-egglien.json](./207493-egglien.json) |
 | Egglings | 361848 | [361848-egglings.json](./361848-egglings.json) |
 | Egglomania | 175256 | [175256-egglomania.json](./175256-egglomania.json) |
 | Eggman | 309664 | [309664-eggman.json](./309664-eggman.json) |
