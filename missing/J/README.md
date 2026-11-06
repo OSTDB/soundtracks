@@ -3302,6 +3302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Up! Tiny Spaceman | 200121 | [200121-jump-up-tiny-spaceman.json](./200121-jump-up-tiny-spaceman.json) |
 | Jump Us | 187269 | [187269-jump-us.json](./187269-jump-us.json) |
 | Jump Warrior | 182799 | [182799-jump-warrior.json](./182799-jump-warrior.json) |
+| Jump Warrior | 220388 | [220388-jump-warrior.json](./220388-jump-warrior.json) |
 | Jump With Dragons | 158338 | [158338-jump-with-dragons.json](./158338-jump-with-dragons.json) |
 | Jump with Friends | 118131 | [118131-jump-with-friends.json](./118131-jump-with-friends.json) |
 | Jump Without Reason | 124252 | [124252-jump-without-reason.json](./124252-jump-without-reason.json) |
@@ -3383,6 +3384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping Boy | 336422 | [336422-jumping-boy.json](./336422-jumping-boy.json) |
 | Jumping Boy | 362478 | [362478-jumping-boy.json](./362478-jumping-boy.json) |
 | Jumping Bricks Ball | 193765 | [193765-jumping-bricks-ball.json](./193765-jumping-bricks-ball.json) |
+| Jumping Cat | 220387 | [220387-jumping-cat.json](./220387-jumping-cat.json) |
 | Jumping Challenge | 296927 | [296927-jumping-challenge.json](./296927-jumping-challenge.json) |
 | Jumping Cross | 40200 | [40200-jumping-cross.json](./40200-jumping-cross.json) |
 | Jumping Doduo | 69834 | [69834-jumping-doduo.json](./69834-jumping-doduo.json) |
