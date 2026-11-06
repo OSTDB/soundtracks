@@ -3923,6 +3923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GhostCry Hill | 216616 | [216616-ghostcry-hill.json](./216616-ghostcry-hill.json) |
 | Ghostdream | 30900 | [30900-ghostdream.json](./30900-ghostdream.json) |
 | Ghosted | 221033 | [221033-ghosted.json](./221033-ghosted.json) |
+| Ghosted | 239998 | [239998-ghosted.json](./239998-ghosted.json) |
 | Ghosted | 418760 | [418760-ghosted.json](./418760-ghosted.json) |
 | Ghosteez | 276936 | [276936-ghosteez.json](./276936-ghosteez.json) |
 | Ghostein | 302318 | [302318-ghostein.json](./302318-ghostein.json) |
@@ -9531,6 +9532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grooming Adventure | 111972 | [111972-grooming-adventure.json](./111972-grooming-adventure.json) |
 | Groon groon, babey! | 176216 | [176216-groon-groon-babey.json](./176216-groon-groon-babey.json) |
 | Grooove | 272346 | [272346-grooove.json](./272346-grooove.json) |
+| Groops | 239993 | [239993-groops.json](./239993-groops.json) |
 | Groov | 69161 | [69161-groov.json](./69161-groov.json) |
 | Groove Adventure Rave | 69328 | [69328-groove-adventure-rave.json](./69328-groove-adventure-rave.json) |
 | Groove Adventure Rave: Hikari to Yami no Daikessen | 49597 | [49597-groove-adventure-rave-hikari-to-yami-no-daikessen.json](./49597-groove-adventure-rave-hikari-to-yami-no-daikessen.json) |
