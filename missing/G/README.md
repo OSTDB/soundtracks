@@ -4188,6 +4188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giant Trucks Driving Simulator | 90355 | [90355-giant-trucks-driving-simulator.json](./90355-giant-trucks-driving-simulator.json) |
 | Giant Waifu Wash Simulator | 406570 | [406570-giant-waifu-wash-simulator.json](./406570-giant-waifu-wash-simulator.json) |
 | Giant Wishes | 256596 | [256596-giant-wishes.json](./256596-giant-wishes.json) |
+| Giant Worm Rider | 210958 | [210958-giant-worm-rider.json](./210958-giant-worm-rider.json) |
 | GiAnt: Warfare | 172118 | [172118-giant-warfare.json](./172118-giant-warfare.json) |
 | Giant's Chalice | 134877 | [134877-giants-chalice.json](./134877-giants-chalice.json) |
 | Giant’s Heart | 349948 | [349948-giant-s-heart.json](./349948-giant-s-heart.json) |
