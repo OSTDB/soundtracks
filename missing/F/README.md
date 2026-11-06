@@ -9429,6 +9429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden Clicker Party | 83495 | [83495-forbidden-clicker-party.json](./83495-forbidden-clicker-party.json) |
 | Forbidden Compass | 404206 | [404206-forbidden-compass.json](./404206-forbidden-compass.json) |
 | Forbidden Dojo | 239737 | [239737-forbidden-dojo.json](./239737-forbidden-dojo.json) |
+| Forbidden Escape | 223273 | [223273-forbidden-escape.json](./223273-forbidden-escape.json) |
 | Forbidden Fantasy | 322641 | [322641-forbidden-fantasy.json](./322641-forbidden-fantasy.json) |
 | Forbidden Forest | 13848 | [13848-forbidden-forest.json](./13848-forbidden-forest.json) |
 | Forbidden Forest 3 | 98206 | [98206-forbidden-forest-3.json](./98206-forbidden-forest-3.json) |
@@ -13543,6 +13544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Android Hentai | 211767 | [211767-furry-android-hentai.json](./211767-furry-android-hentai.json) |
 | Furry Angel Take In | 380358 | [380358-furry-angel-take-in.json](./380358-furry-angel-take-in.json) |
 | Furry Animals Bombing | 109745 | [109745-furry-animals-bombing.json](./109745-furry-animals-bombing.json) |
+| Furry Arena | 223211 | [223211-furry-arena.json](./223211-furry-arena.json) |
 | Furry Armpits | 367086 | [367086-furry-armpits.json](./367086-furry-armpits.json) |
 | Furry Backrooms | 291775 | [291775-furry-backrooms.json](./291775-furry-backrooms.json) |
 | Furry BDSM | 256988 | [256988-furry-bdsm.json](./256988-furry-bdsm.json) |
