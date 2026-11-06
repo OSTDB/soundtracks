@@ -11306,6 +11306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guru Meditation | 178091 | [178091-guru-meditation.json](./178091-guru-meditation.json) |
 | Guru-guru Garacters | 281537 | [281537-guru-guru-garacters.json](./281537-guru-guru-garacters.json) |
 | Guru-guru Garakutas | 228556 | [228556-guru-guru-garakutas.json](./228556-guru-guru-garakutas.json) |
+| Guru-guru Suika | 206331 | [206331-guru-guru-suika.json](./206331-guru-guru-suika.json) |
 | Guru-guru Town Hanamaru-kun | 281538 | [281538-guru-guru-town-hanamaru-kun.json](./281538-guru-guru-town-hanamaru-kun.json) |
 | Gurugedara | 61620 | [61620-gurugedara.json](./61620-gurugedara.json) |
 | Guruguru Animals | 96268 | [96268-guruguru-animals.json](./96268-guruguru-animals.json) |
