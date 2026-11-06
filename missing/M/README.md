@@ -5880,6 +5880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -6225,6 +6226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze: A VR Adventure | 160151 | [160151-maze-a-vr-adventure.json](./160151-maze-a-vr-adventure.json) |
 | Maze: Interim Odyssey | 345677 | [345677-maze-interim-odyssey.json](./345677-maze-interim-odyssey.json) |
 | Maze: Nightmare Realm | 102516 | [102516-maze-nightmare-realm.json](./102516-maze-nightmare-realm.json) |
+| Maze: Nightmare Realm - Collector’s Edition | 228231 | [228231-maze-nightmare-realm-collector-s-edition.json](./228231-maze-nightmare-realm-collector-s-edition.json) |
 | Maze: Path of Light | 322572 | [322572-maze-path-of-light.json](./322572-maze-path-of-light.json) |
 | Maze: Path of Light - Complete Edition | 358666 | [358666-maze-path-of-light-complete-edition.json](./358666-maze-path-of-light-complete-edition.json) |
 | Maze: Path of Light - Dusk Constellations | 354192 | [354192-maze-path-of-light-dusk-constellations.json](./354192-maze-path-of-light-dusk-constellations.json) |
@@ -6239,11 +6241,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze: Rising Trials | 309306 | [309306-maze-rising-trials.json](./309306-maze-rising-trials.json) |
 | Maze: Shadow of Light | 109562 | [109562-maze-shadow-of-light.json](./109562-maze-shadow-of-light.json) |
 | Maze: Sinister Play - Collector's Edition | 170215 | [170215-maze-sinister-play-collectors-edition.json](./170215-maze-sinister-play-collectors-edition.json) |
+| Maze: Stolen Minds - Collector’s Edition | 228232 | [228232-maze-stolen-minds-collector-s-edition.json](./228232-maze-stolen-minds-collector-s-edition.json) |
 | Maze: Subject 360 | 140189 | [140189-maze-subject-360.json](./140189-maze-subject-360.json) |
 | Maze: Subject 360 - Collector's Edition | 32785 | [32785-maze-subject-360-collectors-edition.json](./32785-maze-subject-360-collectors-edition.json) |
 | Maze: Subject 360 HD | 95346 | [95346-maze-subject-360-hd.json](./95346-maze-subject-360-hd.json) |
 | Maze: The Amazing Labyrinth | 103554 | [103554-maze-the-amazing-labyrinth.json](./103554-maze-the-amazing-labyrinth.json) |
 | Maze: The Broken Tower | 108693 | [108693-maze-the-broken-tower.json](./108693-maze-the-broken-tower.json) |
+| Maze: The Broken Tower - Collector’s Edition | 228230 | [228230-maze-the-broken-tower-collector-s-edition.json](./228230-maze-the-broken-tower-collector-s-edition.json) |
 | Maze: The Ritual | 182726 | [182726-maze-the-ritual.json](./182726-maze-the-ritual.json) |
 | Maze! | 279475 | [279475-maze.json](./279475-maze.json) |
 | Maze.io | 105807 | [105807-maze-io.json](./105807-maze-io.json) |
@@ -19383,6 +19387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Moonrise | 287780 | [287780-mushroom-moonrise.json](./287780-mushroom-moonrise.json) |
 | Mushroom Mountain | 248114 | [248114-mushroom-mountain.json](./248114-mushroom-mountain.json) |
 | Mushroom Musical | 208857 | [208857-mushroom-musical.json](./208857-mushroom-musical.json) |
+| Mushroom Musume | 228225 | [228225-mushroom-musume.json](./228225-mushroom-musume.json) |
 | Mushroom Nook | 390241 | [390241-mushroom-nook.json](./390241-mushroom-nook.json) |
 | Mushroom Oasis | 321644 | [321644-mushroom-oasis.json](./321644-mushroom-oasis.json) |
 | Mushroom Pancakes | 321538 | [321538-mushroom-pancakes.json](./321538-mushroom-pancakes.json) |
@@ -21697,6 +21702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Trackers: Train to Hellswich - Collector's Edition | 169278 | [169278-mystery-trackers-train-to-hellswich-collectors-edition.json](./169278-mystery-trackers-train-to-hellswich-collectors-edition.json) |
 | Mystery Trackers: Winterpoint Tragedy | 57723 | [57723-mystery-trackers-winterpoint-tragedy.json](./57723-mystery-trackers-winterpoint-tragedy.json) |
 | Mystery USA! - Fun Seek and Find Hidden Object Puzzles | 101391 | [101391-mystery-usa-fun-seek-and-find-hidden-object-puzzles.json](./101391-mystery-usa-fun-seek-and-find-hidden-object-puzzles.json) |
+| Mystery Valley | 228240 | [228240-mystery-valley.json](./228240-mystery-valley.json) |
 | Mystery Village: Shards of the past | 89636 | [89636-mystery-village-shards-of-the-past.json](./89636-mystery-village-shards-of-the-past.json) |
 | Mystery Voyage | 229777 | [229777-mystery-voyage.json](./229777-mystery-voyage.json) |
 | Mystery World Dizzy | 48890 | [48890-mystery-world-dizzy.json](./48890-mystery-world-dizzy.json) |
