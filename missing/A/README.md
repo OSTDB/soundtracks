@@ -3554,6 +3554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure in the Park | 230846 | [230846-adventure-in-the-park.json](./230846-adventure-in-the-park.json) |
 | Adventure in the Snow Globe | 365077 | [365077-adventure-in-the-snow-globe.json](./365077-adventure-in-the-snow-globe.json) |
 | Adventure in the Tower of Flight | 35295 | [35295-adventure-in-the-tower-of-flight.json](./35295-adventure-in-the-tower-of-flight.json) |
+| Adventure in Time | 205774 | [205774-adventure-in-time.json](./205774-adventure-in-time.json) |
 | Adventure In Vegas: Slot Machine | 84974 | [84974-adventure-in-vegas-slot-machine.json](./84974-adventure-in-vegas-slot-machine.json) |
 | Adventure in XX City 2: Finding BB | 314411 | [314411-adventure-in-xx-city-2-finding-bb.json](./314411-adventure-in-xx-city-2-finding-bb.json) |
 | Adventure Inlay | 139720 | [139720-adventure-inlay.json](./139720-adventure-inlay.json) |
@@ -13982,6 +13983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Aces | 333976 | [333976-armored-aces.json](./333976-armored-aces.json) |
 | Armored Acorns: Action Squirrel Squad | 56350 | [56350-armored-acorns-action-squirrel-squad.json](./56350-armored-acorns-action-squirrel-squad.json) |
 | Armored Animals: H1N1z | 86567 | [86567-armored-animals-h1n1z.json](./86567-armored-animals-h1n1z.json) |
+| Armored Battalion | 205753 | [205753-armored-battalion.json](./205753-armored-battalion.json) |
 | Armored Battle Crew | 111339 | [111339-armored-battle-crew.json](./111339-armored-battle-crew.json) |
 | Armored Brigade | 109035 | [109035-armored-brigade.json](./109035-armored-brigade.json) |
 | Armored Brigade Nation Pack: France - Belgium | 155059 | [155059-armored-brigade-nation-pack-france-belgium.json](./155059-armored-brigade-nation-pack-france-belgium.json) |
@@ -16604,7 +16606,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
