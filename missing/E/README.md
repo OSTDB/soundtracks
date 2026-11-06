@@ -2368,6 +2368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elementals | 130933 | [130933-elementals.json](./130933-elementals.json) |
 | Elementals Beta | 279043 | [279043-elementals-beta.json](./279043-elementals-beta.json) |
 | Elementals Reborn | 55484 | [55484-elementals-reborn.json](./55484-elementals-reborn.json) |
+| Elementals: Calm Skies | 199141 | [199141-elementals-calm-skies.json](./199141-elementals-calm-skies.json) |
 | Elementals: The Magic Key | 209679 | [209679-elementals-the-magic-key.json](./209679-elementals-the-magic-key.json) |
 | Elementalt Guardian | 372228 | [372228-elementalt-guardian.json](./372228-elementalt-guardian.json) |
 | Elementary Anatomy: With Story Mode | 369332 | [369332-elementary-anatomy-with-story-mode.json](./369332-elementary-anatomy-with-story-mode.json) |
