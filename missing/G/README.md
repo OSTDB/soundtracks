@@ -9264,6 +9264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: Threads of Destiny - Collector's Edition | 153228 | [153228-grim-tales-threads-of-destiny-collectors-edition.json](./153228-grim-tales-threads-of-destiny-collectors-edition.json) |
 | Grim Tales: Trace in Time | 187964 | [187964-grim-tales-trace-in-time.json](./187964-grim-tales-trace-in-time.json) |
 | Grim Tales: Trace in Time - Collector's Edition | 168166 | [168166-grim-tales-trace-in-time-collectors-edition.json](./168166-grim-tales-trace-in-time-collectors-edition.json) |
+| Grim Tides | 244031 | [244031-grim-tides.json](./244031-grim-tides.json) |
 | Grim Tranquility | 166477 | [166477-grim-tranquility.json](./166477-grim-tranquility.json) |
 | Grim Trials | 347439 | [347439-grim-trials.json](./347439-grim-trials.json) |
 | Grim Wanderings | 86552 | [86552-grim-wanderings.json](./86552-grim-wanderings.json) |
@@ -11296,6 +11297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gym Class: Basketball VR | 223143 | [223143-gym-class-basketball-vr.json](./223143-gym-class-basketball-vr.json) |
 | Gym Empire | 97267 | [97267-gym-empire.json](./97267-gym-empire.json) |
 | Gym Lifting Hero: Tile Master | 340527 | [340527-gym-lifting-hero-tile-master.json](./340527-gym-lifting-hero-tile-master.json) |
+| Gym Manager | 244028 | [244028-gym-manager.json](./244028-gym-manager.json) |
 | Gym Nights | 274487 | [274487-gym-nights.json](./274487-gym-nights.json) |
 | Gym or Jail? | 285254 | [285254-gym-or-jail.json](./285254-gym-or-jail.json) |
 | Gym Orgasm | 340407 | [340407-gym-orgasm.json](./340407-gym-orgasm.json) |
