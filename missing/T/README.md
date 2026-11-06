@@ -3439,6 +3439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Zombies: Invasion of the Alien Brain Thingys! | 21301 | [21301-teenage-zombies-invasion-of-the-alien-brain-thingys.json](./21301-teenage-zombies-invasion-of-the-alien-brain-thingys.json) |
 | Teenagent | 8285 | [8285-teenagent.json](./8285-teenagent.json) |
 | Teenager vs.Tropical Mutants | 108414 | [108414-teenager-vs-tropical-mutants.json](./108414-teenager-vs-tropical-mutants.json) |
+| TeenStyle Championship Cheerleading | 206909 | [206909-teenstyle-championship-cheerleading.json](./206909-teenstyle-championship-cheerleading.json) |
 | Teeny Dungeon | 245798 | [245798-teeny-dungeon.json](./245798-teeny-dungeon.json) |
 | Teeny Heist | 83556 | [83556-teeny-heist.json](./83556-teeny-heist.json) |
 | Teeny Tidy | 352152 | [352152-teeny-tidy.json](./352152-teeny-tidy.json) |
@@ -7918,6 +7919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dalmatians | 44847 | [44847-the-dalmatians.json](./44847-the-dalmatians.json) |
 | The Dalton Affair | 313730 | [313730-the-dalton-affair.json](./313730-the-dalton-affair.json) |
 | The Dam Busters | 13566 | [13566-the-dam-busters.json](./13566-the-dam-busters.json) |
+| The Dam Busters | 206987 | [206987-the-dam-busters.json](./206987-the-dam-busters.json) |
 | The Dam Nation | 211135 | [211135-the-dam-nation.json](./211135-the-dam-nation.json) |
 | The Dama | 101503 | [101503-the-dama.json](./101503-the-dama.json) |
 | The Damathos Clan | 157453 | [157453-the-damathos-clan.json](./157453-the-damathos-clan.json) |
@@ -8451,6 +8453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Downgeon | 137640 | [137640-the-downgeon.json](./137640-the-downgeon.json) |
 | The Dowsing | 369085 | [369085-the-dowsing.json](./369085-the-dowsing.json) |
 | The Dracula Files | 206187 | [206187-the-dracula-files.json](./206187-the-dracula-files.json) |
+| The Dracula Files | 206988 | [206988-the-dracula-files.json](./206988-the-dracula-files.json) |
 | The Drafting Table | 231645 | [231645-the-drafting-table.json](./231645-the-drafting-table.json) |
 | The Dragon and the Djinn | 189166 | [189166-the-dragon-and-the-djinn.json](./189166-the-dragon-and-the-djinn.json) |
 | The Dragon Apprentice | 196883 | [196883-the-dragon-apprentice.json](./196883-the-dragon-apprentice.json) |
@@ -11178,6 +11181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Insomnia Town | 182853 | [182853-the-insomnia-town.json](./182853-the-insomnia-town.json) |
 | The Inspector | 175911 | [175911-the-inspector.json](./175911-the-inspector.json) |
 | The Inspector | 407071 | [407071-the-inspector.json](./407071-the-inspector.json) |
+| The Institute and The Mystery of Meane Manor | 206993 | [206993-the-institute-and-the-mystery-of-meane-manor.json](./206993-the-institute-and-the-mystery-of-meane-manor.json) |
 | The Institute: A Becky Brogan Adventure | 125380 | [125380-the-institute-a-becky-brogan-adventure.json](./125380-the-institute-a-becky-brogan-adventure.json) |
 | The Instruction Manual | 202384 | [202384-the-instruction-manual.json](./202384-the-instruction-manual.json) |
 | The Instruments of Faith: Padua's Destiny | 197009 | [197009-the-instruments-of-faith-paduas-destiny.json](./197009-the-instruments-of-faith-paduas-destiny.json) |
@@ -17724,6 +17728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tovanian Stones | 361249 | [361249-the-tovanian-stones.json](./361249-the-tovanian-stones.json) |
 | The Tower | 117455 | [117455-the-tower.json](./117455-the-tower.json) |
 | The Tower | 138180 | [138180-the-tower.json](./138180-the-tower.json) |
+| The Tower | 206923 | [206923-the-tower.json](./206923-the-tower.json) |
 | The Tower | 224892 | [224892-the-tower.json](./224892-the-tower.json) |
 | The Tower | 238604 | [238604-the-tower.json](./238604-the-tower.json) |
 | The Tower | 282089 | [282089-the-tower.json](./282089-the-tower.json) |
@@ -18205,7 +18210,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimate Trivia CD | 72056 | [72056-the-ultimate-trivia-cd.json](./72056-the-ultimate-trivia-cd.json) |
 | The Ultimate Trivia Challenge | 74205 | [74205-the-ultimate-trivia-challenge.json](./74205-the-ultimate-trivia-challenge.json) |
 | The Ultimate Trivia Quiz | 98893 | [98893-the-ultimate-trivia-quiz.json](./98893-the-ultimate-trivia-quiz.json) |
+| The Ultimate Video Poker Experience | 206981 | [206981-the-ultimate-video-poker-experience.json](./206981-the-ultimate-video-poker-experience.json) |
 | The Ultimate VR Collection | 181490 | [181490-the-ultimate-vr-collection.json](./181490-the-ultimate-vr-collection.json) |
+| The Ultimate Wizardry Archives | 206982 | [206982-the-ultimate-wizardry-archives.json](./206982-the-ultimate-wizardry-archives.json) |
 | The Ultimatest Battle | 55692 | [55692-the-ultimatest-battle.json](./55692-the-ultimatest-battle.json) |
 | The Ultimatum: Choices | 326795 | [326795-the-ultimatum-choices.json](./326795-the-ultimatum-choices.json) |
 | The Ultra Code | 121294 | [121294-the-ultra-code.json](./121294-the-ultra-code.json) |
@@ -20374,6 +20381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threshold of Awakening | 272575 | [272575-threshold-of-awakening.json](./272575-threshold-of-awakening.json) |
 | Threshold of Judgement | 378159 | [378159-threshold-of-judgement.json](./378159-threshold-of-judgement.json) |
 | Threshold of Pain | 274219 | [274219-threshold-of-pain.json](./274219-threshold-of-pain.json) |
+| Threshold RPG | 206985 | [206985-threshold-rpg.json](./206985-threshold-rpg.json) |
 | Threshold Sector | 305644 | [305644-threshold-sector.json](./305644-threshold-sector.json) |
 | Threshold Warden | 414794 | [414794-threshold-warden.json](./414794-threshold-warden.json) |
 | Thrice | 321323 | [321323-thrice.json](./321323-thrice.json) |
