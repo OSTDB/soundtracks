@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 007 First Light: Gentleman Operator | 404672 | [404672-007-first-light-gentleman-operator.json](./404672-007-first-light-gentleman-operator.json) |
 | 007 First Light: Gleaming Lighter | 404671 | [404671-007-first-light-gleaming-lighter.json](./404671-007-first-light-gleaming-lighter.json) |
 | 007 First Light: Gleaming Pen | 404670 | [404670-007-first-light-gleaming-pen.json](./404670-007-first-light-gleaming-pen.json) |
+| 007 GoldenEye | 217634 | [217634-007-goldeneye.json](./217634-007-goldeneye.json) |
 | 007 Legends | 1649 | [1649-007-legends.json](./1649-007-legends.json) |
 | 007 Legends: Eve | 28725 | [28725-007-legends-eve.json](./28725-007-legends-eve.json) |
 | 007 Legends: Patrice | 28726 | [28726-007-legends-patrice.json](./28726-007-legends-patrice.json) |
@@ -2250,6 +2251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Atlas | 92624 | [92624-3d-atlas.json](./92624-3d-atlas.json) |
 | 3D Attack | 281225 | [281225-3d-attack.json](./281225-3d-attack.json) |
 | 3D Ball Blaster | 300007 | [300007-3d-ball-blaster.json](./300007-3d-ball-blaster.json) |
+| 3D Baseball | 217638 | [217638-3d-baseball.json](./217638-3d-baseball.json) |
 | 3D Basketball Champs Elite | 101467 | [101467-3d-basketball-champs-elite.json](./101467-3d-basketball-champs-elite.json) |
 | 3D Bat Attack | 75231 | [75231-3d-bat-attack.json](./75231-3d-bat-attack.json) |
 | 3D Battle Zone | 67681 | [67681-3d-battle-zone.json](./67681-3d-battle-zone.json) |
@@ -2310,10 +2312,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Escape Room: Mystic Manor | 348853 | [348853-3d-escape-room-mystic-manor.json](./348853-3d-escape-room-mystic-manor.json) |
 | 3D Fantasy Zone II W | 86818 | [86818-3d-fantasy-zone-ii-w.json](./86818-3d-fantasy-zone-ii-w.json) |
 | 3D Fast & Furious | 410226 | [410226-3d-fast-and-furious.json](./410226-3d-fast-and-furious.json) |
+| 3D Football | 217639 | [217639-3d-football.json](./217639-3d-football.json) |
 | 3D Football | 243754 | [243754-3d-football.json](./243754-3d-football.json) |
 | 3D Frog Feast | 101200 | [101200-3d-frog-feast.json](./101200-3d-frog-feast.json) |
 | 3D Frog Frenzy | 47046 | [47046-3d-frog-frenzy.json](./47046-3d-frog-frenzy.json) |
 | 3D Galax | 11872 | [11872-3d-galax.json](./11872-3d-galax.json) |
+| 3D Galaxx | 217641 | [217641-3d-galaxx.json](./217641-3d-galaxx.json) |
 | 3D Game Collection | 84663 | [84663-3d-game-collection.json](./84663-3d-game-collection.json) |
 | 3D Game Pack | 266189 | [266189-3d-game-pack.json](./266189-3d-game-pack.json) |
 | 3D Gear | 234587 | [234587-3d-gear.json](./234587-3d-gear.json) |
@@ -2478,6 +2482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Super Chess | 96073 | [96073-3d-super-chess.json](./96073-3d-super-chess.json) |
 | 3D Survivors | 263824 | [263824-3d-survivors.json](./263824-3d-survivors.json) |
 | 3D Tan | 257374 | [257374-3d-tan.json](./257374-3d-tan.json) |
+| 3D Tank Attack | 217642 | [217642-3d-tank-attack.json](./217642-3d-tank-attack.json) |
 | 3D Tanx | 93378 | [93378-3d-tanx.json](./93378-3d-tanx.json) |
 | 3D Tennis | 260858 | [260858-3d-tennis.json](./260858-3d-tennis.json) |
 | 3D Thunder Ceptor II | 146255 | [146255-3d-thunder-ceptor-ii.json](./146255-3d-thunder-ceptor-ii.json) |
