@@ -3727,6 +3727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Circle of the Moon - Card Mode | 219075 | [219075-castlevania-circle-of-the-moon-card-mode.json](./219075-castlevania-circle-of-the-moon-card-mode.json) |
 | Castlevania: Circle of the Moon GBC | 215764 | [215764-castlevania-circle-of-the-moon-gbc.json](./215764-castlevania-circle-of-the-moon-gbc.json) |
 | Castlevania: Circle of the Realm | 208308 | [208308-castlevania-circle-of-the-realm.json](./208308-castlevania-circle-of-the-realm.json) |
+| Castlevania: Contra Mode | 227656 | [227656-castlevania-contra-mode.json](./227656-castlevania-contra-mode.json) |
 | Castlevania: Curse of Darkness | 1137 | [1137-castlevania-curse-of-darkness.json](./1137-castlevania-curse-of-darkness.json) |
 | Castlevania: Dawn of Dissonance - A Juste Story Mode Hack | 173398 | [173398-castlevania-dawn-of-dissonance-a-juste-story-mode-hack.json](./173398-castlevania-dawn-of-dissonance-a-juste-story-mode-hack.json) |
 | Castlevania: Dawn of Sorrow | 1136 | [1136-castlevania-dawn-of-sorrow.json](./1136-castlevania-dawn-of-sorrow.json) |
@@ -8890,6 +8891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circus! | 289735 | [289735-circus.json](./289735-circus.json) |
 | CircusTroupe | 235779 | [235779-circustroupe.json](./235779-circustroupe.json) |
 | Circut's Edge | 277032 | [277032-circuts-edge.json](./277032-circuts-edge.json) |
+| Cirno Fumo: The Horror Game | 227641 | [227641-cirno-fumo-the-horror-game.json](./227641-cirno-fumo-the-horror-game.json) |
 | Cirno the Rice Fairy! | 134837 | [134837-cirno-the-rice-fairy.json](./134837-cirno-the-rice-fairy.json) |
 | Cirno! Lifts a Boulder | 386967 | [386967-cirno-lifts-a-boulder.json](./386967-cirno-lifts-a-boulder.json) |
 | Cirno's Battle of Faith | 152500 | [152500-cirnos-battle-of-faith.json](./152500-cirnos-battle-of-faith.json) |
