@@ -2359,6 +2359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majo | 413181 | [413181-majo.json](./413181-majo.json) |
 | Majo Koi Nikki Dragon x Caravan | 144670 | [144670-majo-koi-nikki-dragon-x-caravan.json](./144670-majo-koi-nikki-dragon-x-caravan.json) |
 | Majo Kuruibana: Daria + Lito-hen | 398013 | [398013-majo-kuruibana-daria-lito-hen.json](./398013-majo-kuruibana-daria-lito-hen.json) |
+| Majo Mail | 237134 | [237134-majo-mail.json](./237134-majo-mail.json) |
 | Majo no Furo Life | 265640 | [265640-majo-no-furo-life.json](./265640-majo-no-furo-life.json) |
 | Majo no Yakata | 231592 | [231592-majo-no-yakata.json](./231592-majo-no-yakata.json) |
 | Majo'ou | 218950 | [218950-majoou.json](./218950-majoou.json) |
@@ -5859,6 +5860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -6135,6 +6137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Monsters | 266111 | [266111-maze-monsters.json](./266111-maze-monsters.json) |
 | Maze Nightmare: Edge of Darkness | 379710 | [379710-maze-nightmare-edge-of-darkness.json](./379710-maze-nightmare-edge-of-darkness.json) |
 | Maze Ninja | 115141 | [115141-maze-ninja.json](./115141-maze-ninja.json) |
+| Maze Nuts | 237133 | [237133-maze-nuts.json](./237133-maze-nuts.json) |
 | Maze of Acheron | 172098 | [172098-maze-of-acheron.json](./172098-maze-of-acheron.json) |
 | Maze of Adventures | 81745 | [81745-maze-of-adventures.json](./81745-maze-of-adventures.json) |
 | Maze of Apocrypha | 287464 | [287464-maze-of-apocrypha.json](./287464-maze-of-apocrypha.json) |
@@ -19307,6 +19310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Cats 2 | 131758 | [131758-mushroom-cats-2.json](./131758-mushroom-cats-2.json) |
 | Mushroom Challenge | 169755 | [169755-mushroom-challenge.json](./169755-mushroom-challenge.json) |
 | Mushroom Collection | 284609 | [284609-mushroom-collection.json](./284609-mushroom-collection.json) |
+| Mushroom Collector Simulator | 237147 | [237147-mushroom-collector-simulator.json](./237147-mushroom-collector-simulator.json) |
 | Mushroom Crusher Extreme | 32155 | [32155-mushroom-crusher-extreme.json](./32155-mushroom-crusher-extreme.json) |
 | Mushroom Doom | 389747 | [389747-mushroom-doom.json](./389747-mushroom-doom.json) |
 | Mushroom Empire | 381664 | [381664-mushroom-empire.json](./381664-mushroom-empire.json) |
