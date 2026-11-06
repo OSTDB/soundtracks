@@ -5400,6 +5400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go | 379916 | [379916-go.json](./379916-go.json) |
 | Go 3D | 68624 | [68624-go-3d.json](./68624-go-3d.json) |
 | Go Ace It | 192198 | [192198-go-ace-it.json](./192198-go-ace-it.json) |
+| Go All Out | 221571 | [221571-go-all-out.json](./221571-go-all-out.json) |
 | Go All Out: Free to Play | 130190 | [130190-go-all-out-free-to-play.json](./130190-go-all-out-free-to-play.json) |
 | Go Ape Ship! | 376467 | [376467-go-ape-ship.json](./376467-go-ape-ship.json) |
 | Go Away, There's Kumis Over There! | 30893 | [30893-go-away-theres-kumis-over-there.json](./30893-go-away-theres-kumis-over-there.json) |
