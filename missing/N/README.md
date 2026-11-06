@@ -5302,6 +5302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninpek | 317577 | [317577-ninpek.json](./317577-ninpek.json) |
 | Ninpen Manmaru | 62714 | [62714-ninpen-manmaru.json](./62714-ninpen-manmaru.json) |
 | Ninpuchi! Cryptoninja Petit | 333933 | [333933-ninpuchi-cryptoninja-petit.json](./333933-ninpuchi-cryptoninja-petit.json) |
+| Ninquest | 235020 | [235020-ninquest.json](./235020-ninquest.json) |
 | Ninshi Masuta | 131617 | [131617-ninshi-masuta.json](./131617-ninshi-masuta.json) |
 | Nintaii | 38666 | [38666-nintaii.json](./38666-nintaii.json) |
 | Nintama Rantarou | 37741 | [37741-nintama-rantarou.json](./37741-nintama-rantarou.json) |
@@ -7027,6 +7028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Blitz | 34801 | [34801-nova-blitz.json](./34801-nova-blitz.json) |
 | Nova Chasers | 397094 | [397094-nova-chasers.json](./397094-nova-chasers.json) |
 | Nova City Original | 230270 | [230270-nova-city-original.json](./230270-nova-city-original.json) |
+| Nova Colony: Space Settlers | 235010 | [235010-nova-colony-space-settlers.json](./235010-nova-colony-space-settlers.json) |
 | Nova Core Chaos | 286105 | [286105-nova-core-chaos.json](./286105-nova-core-chaos.json) |
 | Nova Dash | 256530 | [256530-nova-dash.json](./256530-nova-dash.json) |
 | Nova Dawn: Overload | 347483 | [347483-nova-dawn-overload.json](./347483-nova-dawn-overload.json) |
