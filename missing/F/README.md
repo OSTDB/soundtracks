@@ -3170,6 +3170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate of the World: Migration | 159639 | [159639-fate-of-the-world-migration.json](./159639-fate-of-the-world-migration.json) |
 | Fate of Windshift | 154794 | [154794-fate-of-windshift.json](./154794-fate-of-windshift.json) |
 | Fate Seeker II | 182359 | [182359-fate-seeker-ii.json](./182359-fate-seeker-ii.json) |
+| Fate Seeker: Journey | 228213 | [228213-fate-seeker-journey.json](./228213-fate-seeker-journey.json) |
 | Fate Seeker: Mission | 304162 | [304162-fate-seeker-mission.json](./304162-fate-seeker-mission.json) |
 | Fate Tectonics | 35079 | [35079-fate-tectonics.json](./35079-fate-tectonics.json) |
 | Fate U.C.P | 42868 | [42868-fate-u-c-p.json](./42868-fate-u-c-p.json) |
@@ -3456,6 +3457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear for Sale: Mystery of McInroy Manor - Collector's Edition | 125646 | [125646-fear-for-sale-mystery-of-mcinroy-manor-collectors-edition.json](./125646-fear-for-sale-mystery-of-mcinroy-manor-collectors-edition.json) |
 | Fear For Sale: Nightmare Cinema - Collector’s Edition | 104216 | [104216-fear-for-sale-nightmare-cinema-collector-s-edition.json](./104216-fear-for-sale-nightmare-cinema-collector-s-edition.json) |
 | Fear For Sale: Phantom Tide - Collector’s Edition | 100065 | [100065-fear-for-sale-phantom-tide-collector-s-edition.json](./100065-fear-for-sale-phantom-tide-collector-s-edition.json) |
+| Fear for Sale: Sunnyvale Story - Collector’s Edition | 228227 | [228227-fear-for-sale-sunnyvale-story-collector-s-edition.json](./228227-fear-for-sale-sunnyvale-story-collector-s-edition.json) |
 | Fear for Sale: The 13 Keys - Collector's Edition | 93830 | [93830-fear-for-sale-the-13-keys-collectors-edition.json](./93830-fear-for-sale-the-13-keys-collectors-edition.json) |
 | Fear For Sale: The Curse of Whitefall - Collector's Edition | 283520 | [283520-fear-for-sale-the-curse-of-whitefall-collectors-edition.json](./283520-fear-for-sale-the-curse-of-whitefall-collectors-edition.json) |
 | Fear for Sale: The House on Black River | 101654 | [101654-fear-for-sale-the-house-on-black-river.json](./101654-fear-for-sale-the-house-on-black-river.json) |
@@ -4724,6 +4726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fill Missing Letters | 187977 | [187977-fill-missing-letters.json](./187977-fill-missing-letters.json) |
 | Fill Multicolor | 283380 | [283380-fill-multicolor.json](./283380-fill-multicolor.json) |
 | Fill one-line puzzle game | 88820 | [88820-fill-one-line-puzzle-game.json](./88820-fill-one-line-puzzle-game.json) |
+| Fill the Cup | 228220 | [228220-fill-the-cup.json](./228220-fill-the-cup.json) |
 | Fill The Cup | 315705 | [315705-fill-the-cup.json](./315705-fill-the-cup.json) |
 | Fill The Cup 3: Frost | 390801 | [390801-fill-the-cup-3-frost.json](./390801-fill-the-cup-3-frost.json) |
 | Fill the Fridge | 194161 | [194161-fill-the-fridge.json](./194161-fill-the-fridge.json) |
@@ -5882,6 +5885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire on the Mountain | 272696 | [272696-fire-on-the-mountain.json](./272696-fire-on-the-mountain.json) |
 | Fire One | 39515 | [39515-fire-one.json](./39515-fire-one.json) |
 | Fire Opal | 153875 | [153875-fire-opal.json](./153875-fire-opal.json) |
+| Fire Panic! | 228223 | [228223-fire-panic.json](./228223-fire-panic.json) |
 | Fire Path | 289818 | [289818-fire-path.json](./289818-fire-path.json) |
 | Fire Pit: Throw Things Into the Fire | 389688 | [389688-fire-pit-throw-things-into-the-fire.json](./389688-fire-pit-throw-things-into-the-fire.json) |
 | Fire Place | 109369 | [109369-fire-place.json](./109369-fire-place.json) |
@@ -7261,6 +7265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Bird Ultra | 368522 | [368522-flappy-bird-ultra.json](./368522-flappy-bird-ultra.json) |
 | Flappy Bird: Testing | 218071 | [218071-flappy-bird-testing.json](./218071-flappy-bird-testing.json) |
 | Flappy Bird: The Bird Game | 108615 | [108615-flappy-bird-the-bird-game.json](./108615-flappy-bird-the-bird-game.json) |
+| Flappy Birdie | 228224 | [228224-flappy-birdie.json](./228224-flappy-birdie.json) |
 | Flappy Birds 2 | 268501 | [268501-flappy-birds-2.json](./268501-flappy-birds-2.json) |
 | Flappy Box | 285478 | [285478-flappy-box.json](./285478-flappy-box.json) |
 | Flappy Boy | 305720 | [305720-flappy-boy.json](./305720-flappy-boy.json) |
