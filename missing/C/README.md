@@ -5326,7 +5326,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centifeed | 111494 | [111494-centifeed.json](./111494-centifeed.json) |
 | Centipede | 151643 | [151643-centipede.json](./151643-centipede.json) |
 | Centipede | 199424 | [199424-centipede.json](./199424-centipede.json) |
+| Centipede | 218800 | [218800-centipede.json](./218800-centipede.json) |
 | Centipede | 218804 | [218804-centipede.json](./218804-centipede.json) |
+| Centipede | 218805 | [218805-centipede.json](./218805-centipede.json) |
+| Centipede | 218807 | [218807-centipede.json](./218807-centipede.json) |
+| Centipede | 218808 | [218808-centipede.json](./218808-centipede.json) |
+| Centipede | 218809 | [218809-centipede.json](./218809-centipede.json) |
+| Centipede | 218810 | [218810-centipede.json](./218810-centipede.json) |
+| Centipede | 218812 | [218812-centipede.json](./218812-centipede.json) |
+| Centipede | 218813 | [218813-centipede.json](./218813-centipede.json) |
+| Centipede | 218814 | [218814-centipede.json](./218814-centipede.json) |
+| Centipede | 218815 | [218815-centipede.json](./218815-centipede.json) |
+| Centipede | 218817 | [218817-centipede.json](./218817-centipede.json) |
+| Centipede | 218818 | [218818-centipede.json](./218818-centipede.json) |
+| Centipede | 218819 | [218819-centipede.json](./218819-centipede.json) |
+| Centipede | 218820 | [218820-centipede.json](./218820-centipede.json) |
 | Centipede | 2235 | [2235-centipede.json](./2235-centipede.json) |
 | Centipede | 2237 | [2237-centipede.json](./2237-centipede.json) |
 | Centipede | 245541 | [245541-centipede.json](./245541-centipede.json) |
@@ -19801,6 +19815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursor Thief | 261893 | [261893-cursor-thief.json](./261893-cursor-thief.json) |
 | Cursor*10 | 29042 | [29042-cursor-10.json](./29042-cursor-10.json) |
 | Cursor*10: 2nd session | 246712 | [246712-cursor-10-2nd-session.json](./246712-cursor-10-2nd-session.json) |
+| Cursor0x0 | 218811 | [218811-cursor0x0.json](./218811-cursor0x0.json) |
 | Cursorcana | 343240 | [343240-cursorcana.json](./343240-cursorcana.json) |
 | CursorLublub | 334207 | [334207-cursorlublub.json](./334207-cursorlublub.json) |
 | Cursors.io | 133703 | [133703-cursors-io.json](./133703-cursors-io.json) |
