@@ -2648,6 +2648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Synth | 114059 | [114059-one-synth.json](./114059-one-synth.json) |
 | One Tank to Rule Them All | 86333 | [86333-one-tank-to-rule-them-all.json](./86333-one-tank-to-rule-them-all.json) |
 | One Tap | 265239 | [265239-one-tap.json](./265239-one-tap.json) |
+| One Tap Rally | 237736 | [237736-one-tap-rally.json](./237736-one-tap-rally.json) |
 | One Thousand and One Days | 182969 | [182969-one-thousand-and-one-days.json](./182969-one-thousand-and-one-days.json) |
 | One Thousand and One Nights | 264222 | [264222-one-thousand-and-one-nights.json](./264222-one-thousand-and-one-nights.json) |
 | One Thousand Lies | 19444 | [19444-one-thousand-lies.json](./19444-one-thousand-lies.json) |
