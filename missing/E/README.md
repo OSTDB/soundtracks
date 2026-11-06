@@ -741,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecclesia Online | 143452 | [143452-ecclesia-online.json](./143452-ecclesia-online.json) |
 | Ecco 2: Sentinels of the Universe | 19682 | [19682-ecco-2-sentinels-of-the-universe.json](./19682-ecco-2-sentinels-of-the-universe.json) |
 | Ecco Jr. | 6665 | [6665-ecco-jr.json](./6665-ecco-jr.json) |
+| Ecco the Dolphin | 198614 | [198614-ecco-the-dolphin.json](./198614-ecco-the-dolphin.json) |
 | Ecco the Dolphin | 237309 | [237309-ecco-the-dolphin.json](./237309-ecco-the-dolphin.json) |
 | Ecco the Dolphin | 388157 | [388157-ecco-the-dolphin.json](./388157-ecco-the-dolphin.json) |
 | Ecco the Dolphin | 5378 | [5378-ecco-the-dolphin.json](./5378-ecco-the-dolphin.json) |
@@ -6944,6 +6945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Every Grocery Store Has One Product That Binds Everything in a Unified Energy | 241222 | [241222-every-grocery-store-has-one-product-that-binds-everything-in-a-unified-energy.json](./241222-every-grocery-store-has-one-product-that-binds-everything-in-a-unified-energy.json) |
 | Every Hero | 315724 | [315724-every-hero.json](./315724-every-hero.json) |
 | Every Hue of You | 302954 | [302954-every-hue-of-you.json](./302954-every-hue-of-you.json) |
+| Every Letter | 198624 | [198624-every-letter.json](./198624-every-letter.json) |
 | Every Level Iggy! | 323064 | [323064-every-level-iggy.json](./323064-every-level-iggy.json) |
 | Every Morning My Alarm Clock Kills Me | 387001 | [387001-every-morning-my-alarm-clock-kills-me.json](./387001-every-morning-my-alarm-clock-kills-me.json) |
 | Every Second Counts | 13648 | [13648-every-second-counts.json](./13648-every-second-counts.json) |
