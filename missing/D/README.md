@@ -841,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance! Dance! Dance! | 132806 | [132806-dance-dance-dance.json](./132806-dance-dance-dance.json) |
 | Dance! Dance! Dance! | 339794 | [339794-dance-dance-dance.json](./339794-dance-dance-dance.json) |
 | Dance! It's Your Stage | 209000 | [209000-dance-its-your-stage.json](./209000-dance-its-your-stage.json) |
+| Danced in the Palm VR | 215978 | [215978-danced-in-the-palm-vr.json](./215978-danced-in-the-palm-vr.json) |
 | DanceDanceRevolution Kids | 314327 | [314327-dancedancerevolution-kids.json](./314327-dancedancerevolution-kids.json) |
 | DanceDanceRevolution: Classroom Edition | 208998 | [208998-dancedancerevolution-classroom-edition.json](./208998-dancedancerevolution-classroom-edition.json) |
 | DanceDouDoou | 264229 | [264229-dancedoudoou.json](./264229-dancedoudoou.json) |
