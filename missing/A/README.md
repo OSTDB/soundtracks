@@ -8758,6 +8758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Us: Ejected Edition | 155092 | [155092-among-us-ejected-edition.json](./155092-among-us-ejected-edition.json) |
 | Among Us: Impostor Edition | 155094 | [155094-among-us-impostor-edition.json](./155094-among-us-impostor-edition.json) |
 | Among Us: Ranked (Unofficial) | 365589 | [365589-among-us-ranked-unofficial.json](./365589-among-us-ranked-unofficial.json) |
+| Among Us: Submerged | 230098 | [230098-among-us-submerged.json](./230098-among-us-submerged.json) |
 | Among Us: The Fungle | 266689 | [266689-among-us-the-fungle.json](./266689-among-us-the-fungle.json) |
 | Among Us: The Tragedy of Ryohyukan | 239525 | [239525-among-us-the-tragedy-of-ryohyukan.json](./239525-among-us-the-tragedy-of-ryohyukan.json) |
 | Among Waifus | 155902 | [155902-among-waifus.json](./155902-among-waifus.json) |
