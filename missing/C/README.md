@@ -2465,6 +2465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardboard Hero | 277083 | [277083-cardboard-hero.json](./277083-cardboard-hero.json) |
 | Cardboard Invasion | 149167 | [149167-cardboard-invasion.json](./149167-cardboard-invasion.json) |
 | Cardboard Racers | 401378 | [401378-cardboard-racers.json](./401378-cardboard-racers.json) |
+| Cardboard Town | 226047 | [226047-cardboard-town.json](./226047-cardboard-town.json) |
 | Cardbob | 217216 | [217216-cardbob.json](./217216-cardbob.json) |
 | Cardborne | 390144 | [390144-cardborne.json](./390144-cardborne.json) |
 | Cardbot | 159819 | [159819-cardbot.json](./159819-cardbot.json) |
@@ -5485,6 +5486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain Corp | 351115 | [351115-chain-corp.json](./351115-chain-corp.json) |
 | Chain Crisis | 271288 | [271288-chain-crisis.json](./271288-chain-crisis.json) |
 | Chain Crusher | 124771 | [124771-chain-crusher.json](./124771-chain-crusher.json) |
+| Chain Detonation | 226053 | [226053-chain-detonation.json](./226053-chain-detonation.json) |
 | Chain Drop | 267728 | [267728-chain-drop.json](./267728-chain-drop.json) |
 | Chain Fury | 181756 | [181756-chain-fury.json](./181756-chain-fury.json) |
 | Chain Gun | 202033 | [202033-chain-gun.json](./202033-chain-gun.json) |
@@ -6772,6 +6774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Quest: From Pawn to Master | 356962 | [356962-chess-quest-from-pawn-to-master.json](./356962-chess-quest-from-pawn-to-master.json) |
 | Chess Remix | 259293 | [259293-chess-remix.json](./259293-chess-remix.json) |
 | Chess Royal | 142699 | [142699-chess-royal.json](./142699-chess-royal.json) |
+| Chess Royale | 226010 | [226010-chess-royale.json](./226010-chess-royale.json) |
 | Chess Royale | 330918 | [330918-chess-royale.json](./330918-chess-royale.json) |
 | Chess Rush | 122963 | [122963-chess-rush.json](./122963-chess-rush.json) |
 | Chess Simulator | 15212 | [15212-chess-simulator.json](./15212-chess-simulator.json) |
@@ -12701,6 +12704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comish Clicker - Idle Tycoon | 95822 | [95822-comish-clicker-idle-tycoon.json](./95822-comish-clicker-idle-tycoon.json) |
 | Comit in Cosmo Knight's Revenge | 112853 | [112853-comit-in-cosmo-knights-revenge.json](./112853-comit-in-cosmo-knights-revenge.json) |
 | Comit in Krater Returns | 112859 | [112859-comit-in-krater-returns.json](./112859-comit-in-krater-returns.json) |
+| Comit Legends | 226015 | [226015-comit-legends.json](./226015-comit-legends.json) |
 | Comit the Astrodian | 30842 | [30842-comit-the-astrodian.json](./30842-comit-the-astrodian.json) |
 | Comit the Astrodian 2 | 29408 | [29408-comit-the-astrodian-2.json](./29408-comit-the-astrodian-2.json) |
 | Comit the Astrodian 3 | 65821 | [65821-comit-the-astrodian-3.json](./65821-comit-the-astrodian-3.json) |
@@ -19322,6 +19326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult of the Lamb: Unholy Edition | 324380 | [324380-cult-of-the-lamb-unholy-edition.json](./324380-cult-of-the-lamb-unholy-edition.json) |
 | Cult of the Lamb: Unholy Pack Bundle | 324472 | [324472-cult-of-the-lamb-unholy-pack-bundle.json](./324472-cult-of-the-lamb-unholy-pack-bundle.json) |
 | Cult of the Lamb: Woolhaven | 361888 | [361888-cult-of-the-lamb-woolhaven.json](./361888-cult-of-the-lamb-woolhaven.json) |
+| Cult of the Mask | 226039 | [226039-cult-of-the-mask.json](./226039-cult-of-the-mask.json) |
 | Cult of the Red Heifer | 423955 | [423955-cult-of-the-red-heifer.json](./423955-cult-of-the-red-heifer.json) |
 | Cult of the Wind | 9816 | [9816-cult-of-the-wind.json](./9816-cult-of-the-wind.json) |
 | Cult Trials: Incarnation | 348009 | [348009-cult-trials-incarnation.json](./348009-cult-trials-incarnation.json) |
