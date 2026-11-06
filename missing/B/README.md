@@ -10378,6 +10378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Heads: Instakill | 108305 | [108305-block-heads-instakill.json](./108305-block-heads-instakill.json) |
 | Block Heist | 189893 | [189893-block-heist.json](./189893-block-heist.json) |
 | Block Hole | 40029 | [40029-block-hole.json](./40029-block-hole.json) |
+| Block Hopper | 224343 | [224343-block-hopper.json](./224343-block-hopper.json) |
 | Block Hopper | 283388 | [283388-block-hopper.json](./283388-block-hopper.json) |
 | Block In | 390148 | [390148-block-in.json](./390148-block-in.json) |
 | Block in the Lock | 297690 | [297690-block-in-the-lock.json](./297690-block-in-the-lock.json) |
