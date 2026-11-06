@@ -11354,6 +11354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Docking Bay | 374212 | [374212-docking-bay.json](./374212-docking-bay.json) |
 | Docking Donuts2 in 1 | 233225 | [233225-docking-donuts2-in-1.json](./233225-docking-donuts2-in-1.json) |
 | Docking Doom | 271991 | [271991-docking-doom.json](./271991-docking-doom.json) |
+| Docking Sequence | 197979 | [197979-docking-sequence.json](./197979-docking-sequence.json) |
 | Docking Ships | 250787 | [250787-docking-ships.json](./250787-docking-ships.json) |
 | Dockside Dreams: Fish & Cook Simulator | 373015 | [373015-dockside-dreams-fish-and-cook-simulator.json](./373015-dockside-dreams-fish-and-cook-simulator.json) |
 | DockYard | 161524 | [161524-dockyard.json](./161524-dockyard.json) |
@@ -12893,6 +12894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle God Blitz | 68341 | [68341-doodle-god-blitz.json](./68341-doodle-god-blitz.json) |
 | Doodle God Blitz HD | 106080 | [106080-doodle-god-blitz-hd.json](./106080-doodle-god-blitz-hd.json) |
 | Doodle God Bundle | 119072 | [119072-doodle-god-bundle.json](./119072-doodle-god-bundle.json) |
+| Doodle God Griddlers | 197992 | [197992-doodle-god-griddlers.json](./197992-doodle-god-griddlers.json) |
 | Doodle God HD | 88467 | [88467-doodle-god-hd.json](./88467-doodle-god-hd.json) |
 | Doodle God Solitaire | 294521 | [294521-doodle-god-solitaire.json](./294521-doodle-god-solitaire.json) |
 | Doodle God Ultimate Collection | 118153 | [118153-doodle-god-ultimate-collection.json](./118153-doodle-god-ultimate-collection.json) |
@@ -17852,6 +17854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Adventure | 344358 | [344358-dungeon-adventure.json](./344358-dungeon-adventure.json) |
 | Dungeon Adventure Gang | 272371 | [272371-dungeon-adventure-gang.json](./272371-dungeon-adventure-gang.json) |
 | Dungeon Adventure Island | 282168 | [282168-dungeon-adventure-island.json](./282168-dungeon-adventure-island.json) |
+| Dungeon Adventurer | 197965 | [197965-dungeon-adventurer.json](./197965-dungeon-adventurer.json) |
 | Dungeon Amanojaku | 204675 | [204675-dungeon-amanojaku.json](./204675-dungeon-amanojaku.json) |
 | Dungeon and Craft | 252517 | [252517-dungeon-and-craft.json](./252517-dungeon-and-craft.json) |
 | Dungeon And Darkness | 332562 | [332562-dungeon-and-darkness.json](./332562-dungeon-and-darkness.json) |
@@ -17979,6 +17982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Defenders: Warden Hero DLC | 364559 | [364559-dungeon-defenders-warden-hero-dlc.json](./364559-dungeon-defenders-warden-hero-dlc.json) |
 | Dungeon Defenders: Warping Core Challenge Mission Pack | 164346 | [164346-dungeon-defenders-warping-core-challenge-mission-pack.json](./164346-dungeon-defenders-warping-core-challenge-mission-pack.json) |
 | Dungeon Defense | 101216 | [101216-dungeon-defense.json](./101216-dungeon-defense.json) |
+| Dungeon Defense: The Gate | 198006 | [198006-dungeon-defense-the-gate.json](./198006-dungeon-defense-the-gate.json) |
 | Dungeon Delights | 422160 | [422160-dungeon-delights.json](./422160-dungeon-delights.json) |
 | Dungeon Delivery | 303132 | [303132-dungeon-delivery.json](./303132-dungeon-delivery.json) |
 | Dungeon Delver | 151135 | [151135-dungeon-delver.json](./151135-dungeon-delver.json) |
@@ -18703,6 +18707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunkin' Match-3 | 213195 | [213195-dunkin-match-3.json](./213195-dunkin-match-3.json) |
 | Dunkirk: The Forgotten Soldier | 380842 | [380842-dunkirk-the-forgotten-soldier.json](./380842-dunkirk-the-forgotten-soldier.json) |
 | Dunkle Manöver | 92851 | [92851-dunkle-manover.json](./92851-dunkle-manover.json) |
+| Dunkle Schatten | 197974 | [197974-dunkle-schatten.json](./197974-dunkle-schatten.json) |
 | Dunkle Schatten 3: Tod in der Südkurve | 124684 | [124684-dunkle-schatten-3-tod-in-der-sudkurve.json](./124684-dunkle-schatten-3-tod-in-der-sudkurve.json) |
 | DunkRatz | 120573 | [120573-dunkratz.json](./120573-dunkratz.json) |
 | Dunkshot | 41809 | [41809-dunkshot.json](./41809-dunkshot.json) |
