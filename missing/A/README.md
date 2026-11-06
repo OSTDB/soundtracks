@@ -588,6 +588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hero's Guide to Gardening | 183410 | [183410-a-heros-guide-to-gardening.json](./183410-a-heros-guide-to-gardening.json) |
 | A Hero's Legacy | 270523 | [270523-a-heros-legacy.json](./270523-a-heros-legacy.json) |
 | A Hero's Quest pt1 | 213430 | [213430-a-heros-quest-pt1.json](./213430-a-heros-quest-pt1.json) |
+| A Hero's wish | 215460 | [215460-a-heros-wish.json](./215460-a-heros-wish.json) |
 | A Heroine Story | 249856 | [249856-a-heroine-story.json](./249856-a-heroine-story.json) |
 | A Hexagon's Adventures | 184446 | [184446-a-hexagons-adventures.json](./184446-a-hexagons-adventures.json) |
 | A Hidden Mountain Factory | 318157 | [318157-a-hidden-mountain-factory.json](./318157-a-hidden-mountain-factory.json) |
@@ -1260,6 +1261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Super Mario Thing | 278626 | [278626-a-super-mario-thing.json](./278626-a-super-mario-thing.json) |
 | A Superplanet Called KG | 374899 | [374899-a-superplanet-called-kg.json](./374899-a-superplanet-called-kg.json) |
 | A Surgery Beyond The Heart | 301231 | [301231-a-surgery-beyond-the-heart.json](./301231-a-surgery-beyond-the-heart.json) |
+| A Survivor Girl | 215466 | [215466-a-survivor-girl.json](./215466-a-survivor-girl.json) |
 | A Symmetric Escape | 237162 | [237162-a-symmetric-escape.json](./237162-a-symmetric-escape.json) |
 | A Taça Mágica | 242127 | [242127-a-taca-magica.json](./242127-a-taca-magica.json) |
 | A Tag Knight | 196575 | [196575-a-tag-knight.json](./196575-a-tag-knight.json) |
@@ -1290,6 +1292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale of Paper: Unfolded Melody | 300441 | [300441-a-tale-of-paper-unfolded-melody.json](./300441-a-tale-of-paper-unfolded-melody.json) |
 | A Tale of Pirates: A Dummy Mutiny | 101306 | [101306-a-tale-of-pirates-a-dummy-mutiny.json](./101306-a-tale-of-pirates-a-dummy-mutiny.json) |
 | A Tale of Sand and Bone | 303898 | [303898-a-tale-of-sand-and-bone.json](./303898-a-tale-of-sand-and-bone.json) |
+| A Tale of Saviors: Garuda Academy | 215467 | [215467-a-tale-of-saviors-garuda-academy.json](./215467-a-tale-of-saviors-garuda-academy.json) |
 | A Tale of Shadows Fragments | 374066 | [374066-a-tale-of-shadows-fragments.json](./374066-a-tale-of-shadows-fragments.json) |
 | A Tale of Silent Depths | 292631 | [292631-a-tale-of-silent-depths.json](./292631-a-tale-of-silent-depths.json) |
 | A Tale of Survival | 61100 | [61100-a-tale-of-survival.json](./61100-a-tale-of-survival.json) |
@@ -1365,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tower's Will | 324249 | [324249-a-towers-will.json](./324249-a-towers-will.json) |
 | A Town Called Happenstance | 211084 | [211084-a-town-called-happenstance.json](./211084-a-town-called-happenstance.json) |
 | A tractor | 105073 | [105073-a-tractor.json](./105073-a-tractor.json) |
+| A Tragic Accidental Still Life | 215468 | [215468-a-tragic-accidental-still-life.json](./215468-a-tragic-accidental-still-life.json) |
 | A Trail of Ooze: Chapter 1 | 174094 | [174094-a-trail-of-ooze-chapter-1.json](./174094-a-trail-of-ooze-chapter-1.json) |
 | A Train Full of Money | 177769 | [177769-a-train-full-of-money.json](./177769-a-train-full-of-money.json) |
 | A Train Mystery | 299682 | [299682-a-train-mystery.json](./299682-a-train-mystery.json) |
@@ -1419,6 +1423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A View to a Kill: The Computer Game | 26117 | [26117-a-view-to-a-kill-the-computer-game.json](./26117-a-view-to-a-kill-the-computer-game.json) |
 | A Viking's Quest: The Lost Continent | 244389 | [244389-a-vikings-quest-the-lost-continent.json](./244389-a-vikings-quest-the-lost-continent.json) |
 | A Villain's Twisted Heart | 299006 | [299006-a-villains-twisted-heart.json](./299006-a-villains-twisted-heart.json) |
+| A Violent Revelry | 215469 | [215469-a-violent-revelry.json](./215469-a-violent-revelry.json) |
 | A Virus Named Tom | 3040 | [3040-a-virus-named-tom.json](./3040-a-virus-named-tom.json) |
 | A Visit to Friends | 173058 | [173058-a-visit-to-friends.json](./173058-a-visit-to-friends.json) |
 | A Visit to Sesame Street: Letters | 45945 | [45945-a-visit-to-sesame-street-letters.json](./45945-a-visit-to-sesame-street-letters.json) |
@@ -2739,6 +2744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Simulator | 131447 | [131447-achievement-simulator.json](./131447-achievement-simulator.json) |
 | Achievement Unlocked | 141697 | [141697-achievement-unlocked.json](./141697-achievement-unlocked.json) |
 | Achievement Unlocked 2 | 165420 | [165420-achievement-unlocked-2.json](./165420-achievement-unlocked-2.json) |
+| Achievements City | 215458 | [215458-achievements-city.json](./215458-achievements-city.json) |
 | Achikaps | 207823 | [207823-achikaps.json](./207823-achikaps.json) |
 | Achilles | 118129 | [118129-achilles.json](./118129-achilles.json) |
 | Achilles | 236613 | [236613-achilles.json](./236613-achilles.json) |
@@ -4628,6 +4634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Gladiators | 33545 | [33545-age-of-gladiators.json](./33545-age-of-gladiators.json) |
 | Age of Gladiators II | 41959 | [41959-age-of-gladiators-ii.json](./41959-age-of-gladiators-ii.json) |
 | Age of Gladiators II: Death League | 97851 | [97851-age-of-gladiators-ii-death-league.json](./97851-age-of-gladiators-ii-death-league.json) |
+| Age of Gladiators: Reforged | 215459 | [215459-age-of-gladiators-reforged.json](./215459-age-of-gladiators-reforged.json) |
 | Age of Goblins | 265403 | [265403-age-of-goblins.json](./265403-age-of-goblins.json) |
 | Age of Gods | 399092 | [399092-age-of-gods.json](./399092-age-of-gods.json) |
 | Age of Gods: Drakonis Faction | 399102 | [399102-age-of-gods-drakonis-faction.json](./399102-age-of-gods-drakonis-faction.json) |
@@ -6264,6 +6271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlcremieStudio | 319561 | [319561-alcremiestudio.json](./319561-alcremiestudio.json) |
 | Alcúdia | 165367 | [165367-alcudia.json](./165367-alcudia.json) |
 | Alcurio | 408572 | [408572-alcurio.json](./408572-alcurio.json) |
+| Alcyon Infinity | 215461 | [215461-alcyon-infinity.json](./215461-alcyon-infinity.json) |
 | Alcyone | 199752 | [199752-alcyone.json](./199752-alcyone.json) |
 | Alcyone | 383604 | [383604-alcyone.json](./383604-alcyone.json) |
 | Alcyone: The Last City | 118072 | [118072-alcyone-the-last-city.json](./118072-alcyone-the-last-city.json) |
@@ -8274,6 +8282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazon: Guardians of Eden | 2307 | [2307-amazon-guardians-of-eden.json](./2307-amazon-guardians-of-eden.json) |
 | Amazona Adventure | 279593 | [279593-amazona-adventure.json](./279593-amazona-adventure.json) |
 | Amazonia | 202189 | [202189-amazonia.json](./202189-amazonia.json) |
+| Amazônia | 215443 | [215443-amazonia.json](./215443-amazonia.json) |
 | Amazônia | 94492 | [94492-amazonia.json](./94492-amazonia.json) |
 | Amazônia Viva: Animais em Extinção | 303330 | [303330-amazonia-viva-animais-em-extincao.json](./303330-amazonia-viva-animais-em-extincao.json) |
 | Amazons vs Zombies | 400592 | [400592-amazons-vs-zombies.json](./400592-amazons-vs-zombies.json) |
@@ -8496,6 +8505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Football Champs | 108106 | [108106-american-football-champs.json](./108106-american-football-champs.json) |
 | American Football Game: Quarter Back Scramble | 130646 | [130646-american-football-game-quarter-back-scramble.json](./130646-american-football-game-quarter-back-scramble.json) |
 | American Football: Guns & Balls | 242461 | [242461-american-football-guns-and-balls.json](./242461-american-football-guns-and-balls.json) |
+| American Gangster: The Mobile Game | 215432 | [215432-american-gangster-the-mobile-game.json](./215432-american-gangster-the-mobile-game.json) |
 | American Girl: Dress Designer | 18244 | [18244-american-girl-dress-designer.json](./18244-american-girl-dress-designer.json) |
 | American Girl: Julie Finds a Way | 18241 | [18241-american-girl-julie-finds-a-way.json](./18241-american-girl-julie-finds-a-way.json) |
 | American Girl: Julie Saves the Eagles | 18242 | [18242-american-girl-julie-saves-the-eagles.json](./18242-american-girl-julie-saves-the-eagles.json) |
@@ -13587,6 +13597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aritana and the Harpy's Feather | 17660 | [17660-aritana-and-the-harpys-feather.json](./17660-aritana-and-the-harpys-feather.json) |
 | Aritana and the Twin Masks | 120865 | [120865-aritana-and-the-twin-masks.json](./120865-aritana-and-the-twin-masks.json) |
 | Aritas: The Demon Lord | 326294 | [326294-aritas-the-demon-lord.json](./326294-aritas-the-demon-lord.json) |
+| Arithal | 215463 | [215463-arithal.json](./215463-arithal.json) |
 | Arithmagic: Math Wizard Game | 197709 | [197709-arithmagic-math-wizard-game.json](./197709-arithmagic-math-wizard-game.json) |
 | Arithmetic | 331935 | [331935-arithmetic.json](./331935-arithmetic.json) |
 | Arithmetic Arena | 381874 | [381874-arithmetic-arena.json](./381874-arithmetic-arena.json) |
@@ -14020,6 +14031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armour-Geddon | 11915 | [11915-armour-geddon.json](./11915-armour-geddon.json) |
 | Armour-Geddon II: Codename Hellfire | 14267 | [14267-armour-geddon-ii-codename-hellfire.json](./14267-armour-geddon-ii-codename-hellfire.json) |
 | Armourdillo | 13805 | [13805-armourdillo.json](./13805-armourdillo.json) |
+| Armoured Cavalry: Operation Varkiri | 215464 | [215464-armoured-cavalry-operation-varkiri.json](./215464-armoured-cavalry-operation-varkiri.json) |
 | Armoured Commander | 56936 | [56936-armoured-commander.json](./56936-armoured-commander.json) |
 | Armoured Engines | 27486 | [27486-armoured-engines.json](./27486-armoured-engines.json) |
 | Armoured Onslaught | 129223 | [129223-armoured-onslaught.json](./129223-armoured-onslaught.json) |
@@ -14201,6 +14213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrogue | 297372 | [297372-arrogue.json](./297372-arrogue.json) |
 | Arrokoth | 260504 | [260504-arrokoth.json](./260504-arrokoth.json) |
 | Arrow | 131325 | [131325-arrow.json](./131325-arrow.json) |
+| Arrow | 215462 | [215462-arrow.json](./215462-arrow.json) |
 | Arrow a Row | 262248 | [262248-arrow-a-row.json](./262248-arrow-a-row.json) |
 | Arrow Bingo | 382773 | [382773-arrow-bingo.json](./382773-arrow-bingo.json) |
 | Arrow Busters | 97349 | [97349-arrow-busters.json](./97349-arrow-busters.json) |
@@ -15946,6 +15959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Tripper | 16265 | [16265-astro-tripper.json](./16265-astro-tripper.json) |
 | Astro Universe | 140969 | [140969-astro-universe.json](./140969-astro-universe.json) |
 | Astro Volleyball | 241823 | [241823-astro-volleyball.json](./241823-astro-volleyball.json) |
+| Astro VR | 215465 | [215465-astro-vr.json](./215465-astro-vr.json) |
 | Astro Warrior | 37176 | [37176-astro-warrior.json](./37176-astro-warrior.json) |
 | Astro Warrior/Pit Pot | 93584 | [93584-astro-warrior-pit-pot.json](./93584-astro-warrior-pit-pot.json) |
 | Astro Warriors | 284212 | [284212-astro-warriors.json](./284212-astro-warriors.json) |
