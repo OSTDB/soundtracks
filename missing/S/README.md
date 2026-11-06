@@ -631,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailing | 38928 | [38928-sailing.json](./38928-sailing.json) |
 | Sailing Alone: Aftermath | 312708 | [312708-sailing-alone-aftermath.json](./312708-sailing-alone-aftermath.json) |
 | Sailing Era | 223172 | [223172-sailing-era.json](./223172-sailing-era.json) |
+| Sailing Era: Adventure of 2233 | 231122 | [231122-sailing-era-adventure-of-2233.json](./231122-sailing-era-adventure-of-2233.json) |
 | Sailing Era: Edge of the World | 264959 | [264959-sailing-era-edge-of-the-world.json](./264959-sailing-era-edge-of-the-world.json) |
 | Sailing Simulator: Baltic Sea & Caribbean | 195998 | [195998-sailing-simulator-baltic-sea-and-caribbean.json](./195998-sailing-simulator-baltic-sea-and-caribbean.json) |
 | Sailing Stone | 189881 | [189881-sailing-stone.json](./189881-sailing-stone.json) |
@@ -3576,6 +3577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrapvival | 190150 | [190150-scrapvival.json](./190150-scrapvival.json) |
 | Scrapwings | 346352 | [346352-scrapwings.json](./346352-scrapwings.json) |
 | Scrapworks Simulator | 332951 | [332951-scrapworks-simulator.json](./332951-scrapworks-simulator.json) |
+| Scrapyard Arena | 231123 | [231123-scrapyard-arena.json](./231123-scrapyard-arena.json) |
 | Scrapyard Dog | 12338 | [12338-scrapyard-dog.json](./12338-scrapyard-dog.json) |
 | Scrapyard Dog | 234652 | [234652-scrapyard-dog.json](./234652-scrapyard-dog.json) |
 | Scrapyard Robot Rampage | 115010 | [115010-scrapyard-robot-rampage.json](./115010-scrapyard-robot-rampage.json) |
@@ -14118,6 +14120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smalles | 163021 | [163021-smalles.json](./163021-smalles.json) |
 | Smalls Island Woes | 177341 | [177341-smalls-island-woes.json](./177341-smalls-island-woes.json) |
 | SmallWorlds | 189287 | [189287-smallworlds.json](./189287-smallworlds.json) |
+| SmallZ | 231124 | [231124-smallz.json](./231124-smallz.json) |
 | Smapic | 286915 | [286915-smapic.json](./286915-smapic.json) |
 | Smart As... | 92456 | [92456-smart-as.json](./92456-smart-as.json) |
 | Smart Baby ABC Games: Toddler Kids Learning Apps | 87032 | [87032-smart-baby-abc-games-toddler-kids-learning-apps.json](./87032-smart-baby-abc-games-toddler-kids-learning-apps.json) |
@@ -14761,6 +14764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Real World | 133874 | [133874-snake-real-world.json](./133874-snake-real-world.json) |
 | Snake Rewind | 124445 | [124445-snake-rewind.json](./124445-snake-rewind.json) |
 | Snake Rivals | 138453 | [138453-snake-rivals.json](./138453-snake-rivals.json) |
+| Snake Robot | 231125 | [231125-snake-robot.json](./231125-snake-robot.json) |
 | Snake Roy | 210642 | [210642-snake-roy.json](./210642-snake-roy.json) |
 | Snake Seeker | 307634 | [307634-snake-seeker.json](./307634-snake-seeker.json) |
 | Snake Snafu | 180479 | [180479-snake-snafu.json](./180479-snake-snafu.json) |
@@ -19450,6 +19454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -24915,6 +24920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starleaf | 415960 | [415960-starleaf.json](./415960-starleaf.json) |
 | Starless | 204092 | [204092-starless.json](./204092-starless.json) |
 | Starless Abyss | 319573 | [319573-starless-abyss.json](./319573-starless-abyss.json) |
+| Starless Hotel | 231126 | [231126-starless-hotel.json](./231126-starless-hotel.json) |
 | Starless Night | 105614 | [105614-starless-night.json](./105614-starless-night.json) |
 | Starless Umbra | 348537 | [348537-starless-umbra.json](./348537-starless-umbra.json) |
 | Starless: Nymphomaniacs' Paradise | 19946 | [19946-starless-nymphomaniacs-paradise.json](./19946-starless-nymphomaniacs-paradise.json) |
@@ -25635,6 +25641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Sane | 294253 | [294253-stay-sane.json](./294253-stay-sane.json) |
 | Stay Silent | 114387 | [114387-stay-silent.json](./114387-stay-silent.json) |
 | Stay Still | 230470 | [230470-stay-still.json](./230470-stay-still.json) |
+| Stay Still | 231127 | [231127-stay-still.json](./231127-stay-still.json) |
 | Stay Still 2 | 264156 | [264156-stay-still-2.json](./264156-stay-still-2.json) |
 | Stay Tooned! | 13786 | [13786-stay-tooned.json](./13786-stay-tooned.json) |
 | Stay Up! | 275384 | [275384-stay-up.json](./275384-stay-up.json) |
@@ -34274,6 +34281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Susume! Kaizoku: Be Pirates! | 200661 | [200661-susume-kaizoku-be-pirates.json](./200661-susume-kaizoku-be-pirates.json) |
 | Susume! Taisen Puzzle Dama: Toukon! Marutama Chou | 136858 | [136858-susume-taisen-puzzle-dama-toukon-marutama-chou.json](./136858-susume-taisen-puzzle-dama-toukon-marutama-chou.json) |
 | Susume!! Mamotte Knight: Hime no Totsugeki Serenade | 112887 | [112887-susume-mamotte-knight-hime-no-totsugeki-serenade.json](./112887-susume-mamotte-knight-hime-no-totsugeki-serenade.json) |
+| Susurye of Shadows | 231129 | [231129-susurye-of-shadows.json](./231129-susurye-of-shadows.json) |
 | Sut | 271903 | [271903-sut.json](./271903-sut.json) |
 | Sutakomi: Star Communicator | 49804 | [49804-sutakomi-star-communicator.json](./49804-sutakomi-star-communicator.json) |
 | Suteki na Kanojo no Tsukurikata | 156919 | [156919-suteki-na-kanojo-no-tsukurikata.json](./156919-suteki-na-kanojo-no-tsukurikata.json) |
