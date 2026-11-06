@@ -4865,6 +4865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris | 215386 | [215386-tetris.json](./215386-tetris.json) |
 | Tetris | 215387 | [215387-tetris.json](./215387-tetris.json) |
 | Tetris | 221969 | [221969-tetris.json](./221969-tetris.json) |
+| Tetris | 241761 | [241761-tetris.json](./241761-tetris.json) |
 | Tetris | 270420 | [270420-tetris.json](./270420-tetris.json) |
 | Tetris | 280940 | [280940-tetris.json](./280940-tetris.json) |
 | Tetris | 281168 | [281168-tetris.json](./281168-tetris.json) |
@@ -11142,6 +11143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island of Thugs | 369698 | [369698-the-island-of-thugs.json](./369698-the-island-of-thugs.json) |
 | The Island Rescue | 236005 | [236005-the-island-rescue.json](./236005-the-island-rescue.json) |
 | The Island Story | 128175 | [128175-the-island-story.json](./128175-the-island-story.json) |
+| The Island: Brave Heart | 241697 | [241697-the-island-brave-heart.json](./241697-the-island-brave-heart.json) |
 | The Island: Escape Room | 289992 | [289992-the-island-escape-room.json](./289992-the-island-escape-room.json) |
 | The Island: Into the Mist | 173095 | [173095-the-island-into-the-mist.json](./173095-the-island-into-the-mist.json) |
 | The Island: King's Order | 164443 | [164443-the-island-kings-order.json](./164443-the-island-kings-order.json) |
@@ -19467,6 +19469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Came for Blood | 410055 | [410055-they-came-for-blood.json](./410055-they-came-for-blood.json) |
 | They Came for More Pasta | 345979 | [345979-they-came-for-more-pasta.json](./345979-they-came-for-more-pasta.json) |
 | They Came From a Communist Planet | 125294 | [125294-they-came-from-a-communist-planet.json](./125294-they-came-from-a-communist-planet.json) |
+| They Came from Another Planet | 241752 | [241752-they-came-from-another-planet.json](./241752-they-came-from-another-planet.json) |
 | They Came From Below | 190409 | [190409-they-came-from-below.json](./190409-they-came-from-below.json) |
 | They Came From Dimension X | 213978 | [213978-they-came-from-dimension-x.json](./213978-they-came-from-dimension-x.json) |
 | They Came from the Ground | 328620 | [328620-they-came-from-the-ground.json](./328620-they-came-from-the-ground.json) |
@@ -23144,6 +23147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Royale | 119240 | [119240-tiny-royale.json](./119240-tiny-royale.json) |
 | Tiny RTS | 421831 | [421831-tiny-rts.json](./421831-tiny-rts.json) |
 | Tiny Sea Adventure | 58557 | [58557-tiny-sea-adventure.json](./58557-tiny-sea-adventure.json) |
+| Tiny Settlers | 241744 | [241744-tiny-settlers.json](./241744-tiny-settlers.json) |
 | Tiny Shadows Interwoven Hearts | 374078 | [374078-tiny-shadows-interwoven-hearts.json](./374078-tiny-shadows-interwoven-hearts.json) |
 | Tiny Sheep: Pet Sim on a Farm | 232342 | [232342-tiny-sheep-pet-sim-on-a-farm.json](./232342-tiny-sheep-pet-sim-on-a-farm.json) |
 | Tiny Sheriff | 335217 | [335217-tiny-sheriff.json](./335217-tiny-sheriff.json) |
@@ -24788,6 +24792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomscape | 129570 | [129570-tomscape.json](./129570-tomscape.json) |
 | Tomte Trouble | 333661 | [333661-tomte-trouble.json](./333661-tomte-trouble.json) |
 | TomTom Adventures | 82851 | [82851-tomtom-adventures.json](./82851-tomtom-adventures.json) |
+| Tomy Bear | 241696 | [241696-tomy-bear.json](./241696-tomy-bear.json) |
 | Tomy Car Drive Shutsudou! Kinkyuu Sharyou-hen | 79319 | [79319-tomy-car-drive-shutsudou-kinkyuu-sharyou-hen.json](./79319-tomy-car-drive-shutsudou-kinkyuu-sharyou-hen.json) |
 | Tomyka Hero: Rescue Force DS | 124099 | [124099-tomyka-hero-rescue-force-ds.json](./124099-tomyka-hero-rescue-force-ds.json) |
 | Tomytronic 3D: Thundering Turbo | 218306 | [218306-tomytronic-3d-thundering-turbo.json](./218306-tomytronic-3d-thundering-turbo.json) |
