@@ -2824,6 +2824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Castile | 240636 | [240636-legends-of-castile.json](./240636-legends-of-castile.json) |
 | Legends of Catalonia | 118653 | [118653-legends-of-catalonia.json](./118653-legends-of-catalonia.json) |
 | Legends of Catalonia | 118654 | [118654-legends-of-catalonia.json](./118654-legends-of-catalonia.json) |
+| Legends of Celestite: The All Bearer | 238802 | [238802-legends-of-celestite-the-all-bearer.json](./238802-legends-of-celestite-the-all-bearer.json) |
 | Legends of Cobalt Lake & District | 323648 | [323648-legends-of-cobalt-lake-and-district.json](./323648-legends-of-cobalt-lake-and-district.json) |
 | Legends of Dawn | 6858 | [6858-legends-of-dawn.json](./6858-legends-of-dawn.json) |
 | Legends of Destiny | 208390 | [208390-legends-of-destiny.json](./208390-legends-of-destiny.json) |
@@ -2990,10 +2991,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Batman 3: Beyond Gotham | 7685 | [7685-lego-batman-3-beyond-gotham.json](./7685-lego-batman-3-beyond-gotham.json) |
 | LEGO Batman 3: Beyond Gotham - Arrow Pack | 264432 | [264432-lego-batman-3-beyond-gotham-arrow-pack.json](./264432-lego-batman-3-beyond-gotham-arrow-pack.json) |
 | LEGO Batman 3: Beyond Gotham - Batman 75th Anniversary | 168791 | [168791-lego-batman-3-beyond-gotham-batman-75th-anniversary.json](./168791-lego-batman-3-beyond-gotham-batman-75th-anniversary.json) |
+| LEGO Batman 3: Beyond Gotham - Bizarro | 238827 | [238827-lego-batman-3-beyond-gotham-bizarro.json](./238827-lego-batman-3-beyond-gotham-bizarro.json) |
 | LEGO Batman 3: Beyond Gotham - Dark Knight | 266232 | [266232-lego-batman-3-beyond-gotham-dark-knight.json](./266232-lego-batman-3-beyond-gotham-dark-knight.json) |
 | LEGO Batman 3: Beyond Gotham - Heroines and Villainesses Character Pack | 168790 | [168790-lego-batman-3-beyond-gotham-heroines-and-villainesses-character-pack.json](./168790-lego-batman-3-beyond-gotham-heroines-and-villainesses-character-pack.json) |
 | LEGO Batman 3: Beyond Gotham - Man of Steel | 168789 | [168789-lego-batman-3-beyond-gotham-man-of-steel.json](./168789-lego-batman-3-beyond-gotham-man-of-steel.json) |
 | LEGO Batman 3: Beyond Gotham - Premium Edition | 118897 | [118897-lego-batman-3-beyond-gotham-premium-edition.json](./118897-lego-batman-3-beyond-gotham-premium-edition.json) |
+| LEGO Batman 3: Beyond Gotham DLC - The Squad | 238823 | [238823-lego-batman-3-beyond-gotham-dlc-the-squad.json](./238823-lego-batman-3-beyond-gotham-dlc-the-squad.json) |
 | Lego Batman 3: Beyond Gotham Rainbow Character Pack | 254995 | [254995-lego-batman-3-beyond-gotham-rainbow-character-pack.json](./254995-lego-batman-3-beyond-gotham-rainbow-character-pack.json) |
 | LEGO Batman Trilogy | 125173 | [125173-lego-batman-trilogy.json](./125173-lego-batman-trilogy.json) |
 | LEGO Batman: Legacy of the Dark Knight - Arkham Trilogy Pack | 401703 | [401703-lego-batman-legacy-of-the-dark-knight-arkham-trilogy-pack.json](./401703-lego-batman-legacy-of-the-dark-knight-arkham-trilogy-pack.json) |
@@ -4338,6 +4341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LiDiA | 142147 | [142147-lidia.json](./142147-lidia.json) |
 | Lidraughts | 321663 | [321663-lidraughts.json](./321663-lidraughts.json) |
 | Lie of Caelum | 225209 | [225209-lie-of-caelum.json](./225209-lie-of-caelum.json) |
+| Lie of Caelum: Spirit | 238834 | [238834-lie-of-caelum-spirit.json](./238834-lie-of-caelum-spirit.json) |
 | Lie or Die | 176798 | [176798-lie-or-die.json](./176798-lie-or-die.json) |
 | LiEat: The Lie-Eating Dragon & the Vermilion Vampire | 115202 | [115202-lieat-the-lie-eating-dragon-and-the-vermilion-vampire.json](./115202-lieat-the-lie-eating-dragon-and-the-vermilion-vampire.json) |
 | Liebt Mich Nicht | 126021 | [126021-liebt-mich-nicht.json](./126021-liebt-mich-nicht.json) |
