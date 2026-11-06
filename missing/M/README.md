@@ -1761,6 +1761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetic Action | 364974 | [364974-magnetic-action.json](./364974-magnetic-action.json) |
 | Magnetic Billiards | 47276 | [47276-magnetic-billiards.json](./47276-magnetic-billiards.json) |
 | Magnetic Billiards: Blueprint | 22314 | [22314-magnetic-billiards-blueprint.json](./22314-magnetic-billiards-blueprint.json) |
+| Magnetic Bonds | 208563 | [208563-magnetic-bonds.json](./208563-magnetic-bonds.json) |
 | Magnetic By Nature | 17322 | [17322-magnetic-by-nature.json](./17322-magnetic-by-nature.json) |
 | Magnetic Crane | 70952 | [70952-magnetic-crane.json](./70952-magnetic-crane.json) |
 | Magnetic Daydream | 120756 | [120756-magnetic-daydream.json](./120756-magnetic-daydream.json) |
@@ -10103,6 +10104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Gravity | 310157 | [310157-metro-gravity.json](./310157-metro-gravity.json) |
 | Metro Manager LA | 224706 | [224706-metro-manager-la.json](./224706-metro-manager-la.json) |
 | Metro Mini Market Simulator | 365228 | [365228-metro-mini-market-simulator.json](./365228-metro-mini-market-simulator.json) |
+| Metro Mover | 208556 | [208556-metro-mover.json](./208556-metro-mover.json) |
 | Metro MP | 212211 | [212211-metro-mp.json](./212211-metro-mp.json) |
 | Metro PD: Close to You | 238426 | [238426-metro-pd-close-to-you.json](./238426-metro-pd-close-to-you.json) |
 | Metro Penguin Eutopia | 269977 | [269977-metro-penguin-eutopia.json](./269977-metro-penguin-eutopia.json) |
@@ -16655,6 +16657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlit Nights | 386146 | [386146-moonlit-nights.json](./386146-moonlit-nights.json) |
 | MoonLite | 417255 | [417255-moonlite.json](./417255-moonlite.json) |
 | MoonLost | 387344 | [387344-moonlost.json](./387344-moonlost.json) |
+| Moonman | 208569 | [208569-moonman.json](./208569-moonman.json) |
 | MoonMan Adventures | 305923 | [305923-moonman-adventures.json](./305923-moonman-adventures.json) |
 | Moonmist | 12448 | [12448-moonmist.json](./12448-moonmist.json) |
 | MoonNight Shift | 403078 | [403078-moonnight-shift.json](./403078-moonnight-shift.json) |
@@ -16662,6 +16665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoonPong: Tales of Epic Lunacy | 213376 | [213376-moonpong-tales-of-epic-lunacy.json](./213376-moonpong-tales-of-epic-lunacy.json) |
 | Moonport | 291147 | [291147-moonport.json](./291147-moonport.json) |
 | MoonQuest | 105112 | [105112-moonquest.json](./105112-moonquest.json) |
+| Moonrakers: Luminor | 208559 | [208559-moonrakers-luminor.json](./208559-moonrakers-luminor.json) |
 | Moonray | 133362 | [133362-moonray.json](./133362-moonray.json) |
 | Moonray: Battle Lands | 368045 | [368045-moonray-battle-lands.json](./368045-moonray-battle-lands.json) |
 | Moonring | 266774 | [266774-moonring.json](./266774-moonring.json) |
