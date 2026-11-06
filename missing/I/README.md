@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Chew, Therefore I Am | 400742 | [400742-i-chew-therefore-i-am.json](./400742-i-chew-therefore-i-am.json) |
 | I Ching | 308885 | [308885-i-ching.json](./308885-i-ching.json) |
 | I Come In Peace | 325386 | [325386-i-come-in-peace.json](./325386-i-come-in-peace.json) |
+| I Commissioned Some Bees | 202430 | [202430-i-commissioned-some-bees.json](./202430-i-commissioned-some-bees.json) |
 | I Commissioned Some Bees 0 | 211735 | [211735-i-commissioned-some-bees-0.json](./211735-i-commissioned-some-bees-0.json) |
 | I Commissioned Some Bees 10 | 224776 | [224776-i-commissioned-some-bees-10.json](./224776-i-commissioned-some-bees-10.json) |
 | I Commissioned Some Bees 13 | 270139 | [270139-i-commissioned-some-bees-13.json](./270139-i-commissioned-some-bees-13.json) |
@@ -3857,7 +3858,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -6381,6 +6381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isoland: Pumpkin Town | 319215 | [319215-isoland-pumpkin-town.json](./319215-isoland-pumpkin-town.json) |
 | Isoland: The Amusement Park | 141258 | [141258-isoland-the-amusement-park.json](./141258-isoland-the-amusement-park.json) |
 | Isolani | 22394 | [22394-isolani.json](./22394-isolani.json) |
+| Isolania | 202471 | [202471-isolania.json](./202471-isolania.json) |
 | Isolate | 192256 | [192256-isolate.json](./192256-isolate.json) |
 | Isolate Me! | 203589 | [203589-isolate-me.json](./203589-isolate-me.json) |
 | Isolated | 283144 | [283144-isolated.json](./283144-isolated.json) |
