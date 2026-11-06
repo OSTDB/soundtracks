@@ -7552,6 +7552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ally Me or Vore | 397302 | [397302-ally-me-or-vore.json](./397302-ally-me-or-vore.json) |
 | Ally Racer | 138542 | [138542-ally-racer.json](./138542-ally-racer.json) |
 | AllYourArdu | 298954 | [298954-allyourardu.json](./298954-allyourardu.json) |
+| Alma | 193522 | [193522-alma.json](./193522-alma.json) |
 | Alma | 200795 | [200795-alma.json](./200795-alma.json) |
 | Alma | 80915 | [80915-alma.json](./80915-alma.json) |
 | Alma and the Fragments of Cursed Memories | 328178 | [328178-alma-and-the-fragments-of-cursed-memories.json](./328178-alma-and-the-fragments-of-cursed-memories.json) |
@@ -7950,6 +7951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alternative Alliance Alpha | 347713 | [347713-alternative-alliance-alpha.json](./347713-alternative-alliance-alpha.json) |
 | Alternative Girls | 56798 | [56798-alternative-girls.json](./56798-alternative-girls.json) |
 | Alternative Girls 2 | 216215 | [216215-alternative-girls-2.json](./216215-alternative-girls-2.json) |
+| Alternative Punishment | 193553 | [193553-alternative-punishment.json](./193553-alternative-punishment.json) |
 | Alternative Shemevolution | 404836 | [404836-alternative-shemevolution.json](./404836-alternative-shemevolution.json) |
 | Alternator: Tactical Stealth Operations | 116881 | [116881-alternator-tactical-stealth-operations.json](./116881-alternator-tactical-stealth-operations.json) |
 | Alterniabound | 210362 | [210362-alterniabound.json](./210362-alterniabound.json) |
