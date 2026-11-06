@@ -4555,6 +4555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Iris | 419851 | [419851-white-iris.json](./419851-white-iris.json) |
 | White Island | 123398 | [123398-white-island.json](./123398-white-island.json) |
 | White Island | 301484 | [301484-white-island.json](./301484-white-island.json) |
+| White Island: Season 2 | 234422 | [234422-white-island-season-2.json](./234422-white-island-season-2.json) |
 | White Knight Chronicles | 7482 | [7482-white-knight-chronicles.json](./7482-white-knight-chronicles.json) |
 | White Knight Chronicles II | 314050 | [314050-white-knight-chronicles-ii.json](./314050-white-knight-chronicles-ii.json) |
 | White Knight Chronicles II | 7483 | [7483-white-knight-chronicles-ii.json](./7483-white-knight-chronicles-ii.json) |
@@ -5392,6 +5393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will O Wing | 412433 | [412433-will-o-wing.json](./412433-will-o-wing.json) |
 | Will O Wisp | 347567 | [347567-will-o-wisp.json](./347567-will-o-wisp.json) |
 | Will of Destiny | 372811 | [372811-will-of-destiny.json](./372811-will-of-destiny.json) |
+| Will of Nen | 234436 | [234436-will-of-nen.json](./234436-will-of-nen.json) |
 | Will of Steel | 23810 | [23810-will-of-steel.json](./23810-will-of-steel.json) |
 | Will the King Escape? | 345792 | [345792-will-the-king-escape.json](./345792-will-the-king-escape.json) |
 | Will The Man Get Frog | 284835 | [284835-will-the-man-get-frog.json](./284835-will-the-man-get-frog.json) |
@@ -6035,6 +6037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wintersands | 183851 | [183851-wintersands.json](./183851-wintersands.json) |
 | Wintersdawn in the Deep | 183591 | [183591-wintersdawn-in-the-deep.json](./183591-wintersdawn-in-the-deep.json) |
 | Wintersport | 68677 | [68677-wintersport.json](./68677-wintersport.json) |
+| Winterstate | 234418 | [234418-winterstate.json](./234418-winterstate.json) |
 | Winterstrike | 216008 | [216008-winterstrike.json](./216008-winterstrike.json) |
 | Wintertale | 371564 | [371564-wintertale.json](./371564-wintertale.json) |
 | WinterThunder | 224805 | [224805-winterthunder.json](./224805-winterthunder.json) |
