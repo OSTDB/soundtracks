@@ -4370,6 +4370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death by Game Show | 15486 | [15486-death-by-game-show.json](./15486-death-by-game-show.json) |
 | Death By Hamster | 262666 | [262666-death-by-hamster.json](./262666-death-by-hamster.json) |
 | Death by Hype | 307882 | [307882-death-by-hype.json](./307882-death-by-hype.json) |
+| Death By Misstep | 233311 | [233311-death-by-misstep.json](./233311-death-by-misstep.json) |
 | Death by Refund | 216670 | [216670-death-by-refund.json](./216670-death-by-refund.json) |
 | Death by Scrolling | 345153 | [345153-death-by-scrolling.json](./345153-death-by-scrolling.json) |
 | Death By Taxes | 414473 | [414473-death-by-taxes.json](./414473-death-by-taxes.json) |
@@ -11403,6 +11404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge Everything | 381367 | [381367-dodge-everything.json](./381367-dodge-everything.json) |
 | Dodge It | 369805 | [369805-dodge-it.json](./369805-dodge-it.json) |
 | Dodge It! | 165736 | [165736-dodge-it.json](./165736-dodge-it.json) |
+| Dodge It! Online | 233305 | [233305-dodge-it-online.json](./233305-dodge-it-online.json) |
 | Dodge Mania | 211151 | [211151-dodge-mania.json](./211151-dodge-mania.json) |
 | Dodge Master | 30120 | [30120-dodge-master.json](./30120-dodge-master.json) |
 | Dodge Racer | 282430 | [282430-dodge-racer.json](./282430-dodge-racer.json) |
