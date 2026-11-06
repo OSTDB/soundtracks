@@ -2352,6 +2352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farewell To Sunshower | 266079 | [266079-farewell-to-sunshower.json](./266079-farewell-to-sunshower.json) |
 | Farewell to the Universe | 177497 | [177497-farewell-to-the-universe.json](./177497-farewell-to-the-universe.json) |
 | Farewell, Bunny Boy | 341673 | [341673-farewell-bunny-boy.json](./341673-farewell-bunny-boy.json) |
+| Farewell, Eikon | 204666 | [204666-farewell-eikon.json](./204666-farewell-eikon.json) |
 | Farewell, My Dearest Love | 314063 | [314063-farewell-my-dearest-love.json](./314063-farewell-my-dearest-love.json) |
 | Farewell, We See Each Other for the Last Time..... | 348983 | [348983-farewell-we-see-each-other-for-the-last-time.json](./348983-farewell-we-see-each-other-for-the-last-time.json) |
 | Farewells | 217288 | [217288-farewells.json](./217288-farewells.json) |
@@ -8873,6 +8874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Folklore Reloaded | 379420 | [379420-folklore-reloaded.json](./379420-folklore-reloaded.json) |
 | Folklore: Shadows of the Shackled | 259460 | [259460-folklore-shadows-of-the-shackled.json](./259460-folklore-shadows-of-the-shackled.json) |
 | Folkloric Excursion | 159790 | [159790-folkloric-excursion.json](./159790-folkloric-excursion.json) |
+| Folklorist Diary: The Forgotten Treasure | 204736 | [204736-folklorist-diary-the-forgotten-treasure.json](./204736-folklorist-diary-the-forgotten-treasure.json) |
 | FolkOrigin | 292391 | [292391-folkorigin.json](./292391-folkorigin.json) |
 | Folktale | 215306 | [215306-folktale.json](./215306-folktale.json) |
 | Folktale Fury | 379422 | [379422-folktale-fury.json](./379422-folktale-fury.json) |
@@ -10549,6 +10551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune Quest: Dice wo Korogase | 42242 | [42242-fortune-quest-dice-wo-korogase.json](./42242-fortune-quest-dice-wo-korogase.json) |
 | Fortune Rewritten: Costume Pack 1 | 277939 | [277939-fortune-rewritten-costume-pack-1.json](./277939-fortune-rewritten-costume-pack-1.json) |
 | Fortune Seller | 361069 | [361069-fortune-seller.json](./361069-fortune-seller.json) |
+| Fortune Star Panic! | 204742 | [204742-fortune-star-panic.json](./204742-fortune-star-panic.json) |
 | Fortune Street | 19930 | [19930-fortune-street.json](./19930-fortune-street.json) |
 | Fortune Street 2: Rolling Again | 283405 | [283405-fortune-street-2-rolling-again.json](./283405-fortune-street-2-rolling-again.json) |
 | Fortune Street Smart | 64398 | [64398-fortune-street-smart.json](./64398-fortune-street-smart.json) |
