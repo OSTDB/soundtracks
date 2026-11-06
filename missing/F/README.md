@@ -9128,6 +9128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Academy Manager | 372745 | [372745-football-academy-manager.json](./372745-football-academy-manager.json) |
 | Football Academy Simulator | 420757 | [420757-football-academy-simulator.json](./420757-football-academy-simulator.json) |
 | Football Academy: Build and Prove Your Football Knowledge | 269818 | [269818-football-academy-build-and-prove-your-football-knowledge.json](./269818-football-academy-build-and-prove-your-football-knowledge.json) |
+| Football Agent | 200215 | [200215-football-agent.json](./200215-football-agent.json) |
 | Football Agent | 370452 | [370452-football-agent.json](./370452-football-agent.json) |
 | Football Basketball Soccer: 3 Games in One | 245475 | [245475-football-basketball-soccer-3-games-in-one.json](./245475-football-basketball-soccer-3-games-in-one.json) |
 | Football Battle | 187243 | [187243-football-battle.json](./187243-football-battle.json) |
@@ -10249,6 +10250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Solis: Terra Edition | 262225 | [262225-fort-solis-terra-edition.json](./262225-fort-solis-terra-edition.json) |
 | Fort Stars | 308171 | [308171-fort-stars.json](./308171-fort-stars.json) |
 | Fort Sumter | 118420 | [118420-fort-sumter.json](./118420-fort-sumter.json) |
+| Fort Sumter: Secession Crisis | 200258 | [200258-fort-sumter-secession-crisis.json](./200258-fort-sumter-secession-crisis.json) |
 | Fort Valen | 238501 | [238501-fort-valen.json](./238501-fort-valen.json) |
 | Fort Zombie | 27498 | [27498-fort-zombie.json](./27498-fort-zombie.json) |
 | Fort:Night Last Battleground Royale Survival | 95886 | [95886-fort-night-last-battleground-royale-survival.json](./95886-fort-night-last-battleground-royale-survival.json) |
@@ -10568,6 +10570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune Lover Trial Version: Keith Edition | 254934 | [254934-fortune-lover-trial-version-keith-edition.json](./254934-fortune-lover-trial-version-keith-edition.json) |
 | Fortune Lover Trial Version: Nicol Edition | 254936 | [254936-fortune-lover-trial-version-nicol-edition.json](./254936-fortune-lover-trial-version-nicol-edition.json) |
 | Fortune Miles Away | 250716 | [250716-fortune-miles-away.json](./250716-fortune-miles-away.json) |
+| Fortune Panda 2 | 200259 | [200259-fortune-panda-2.json](./200259-fortune-panda-2.json) |
 | Fortune Paradox | 405083 | [405083-fortune-paradox.json](./405083-fortune-paradox.json) |
 | Fortune Quest: Dice wo Korogase | 42242 | [42242-fortune-quest-dice-wo-korogase.json](./42242-fortune-quest-dice-wo-korogase.json) |
 | Fortune Rewritten: Costume Pack 1 | 277939 | [277939-fortune-rewritten-costume-pack-1.json](./277939-fortune-rewritten-costume-pack-1.json) |
@@ -12504,6 +12507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FromPulse | 62805 | [62805-frompulse.json](./62805-frompulse.json) |
 | FromTheEarth VR | 122172 | [122172-fromtheearth-vr.json](./122172-fromtheearth-vr.json) |
 | Frond Online | 307348 | [307348-frond-online.json](./307348-frond-online.json) |
+| Front Armies | 200230 | [200230-front-armies.json](./200230-front-armies.json) |
 | Front Edge | 296065 | [296065-front-edge.json](./296065-front-edge.json) |
 | Front Frontiers | 364771 | [364771-front-frontiers.json](./364771-front-frontiers.json) |
 | Front Line | 408293 | [408293-front-line.json](./408293-front-line.json) |
@@ -12828,6 +12832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Crawler | 117791 | [117791-fruit-crawler.json](./117791-fruit-crawler.json) |
 | Fruit Dating | 174502 | [174502-fruit-dating.json](./174502-fruit-dating.json) |
 | Fruit Defense | 323079 | [323079-fruit-defense.json](./323079-fruit-defense.json) |
+| Fruit Drops Part II | 200219 | [200219-fruit-drops-part-ii.json](./200219-fruit-drops-part-ii.json) |
 | Fruit Fall | 246333 | [246333-fruit-fall.json](./246333-fruit-fall.json) |
 | Fruit Fall | 57949 | [57949-fruit-fall.json](./57949-fruit-fall.json) |
 | Fruit Farm | 54048 | [54048-fruit-farm.json](./54048-fruit-farm.json) |
