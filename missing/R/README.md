@@ -1634,6 +1634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ralph and the Blue Ball | 220479 | [220479-ralph-and-the-blue-ball.json](./220479-ralph-and-the-blue-ball.json) |
 | Ralph Baer's Pinball! | 257666 | [257666-ralph-baers-pinball.json](./257666-ralph-baers-pinball.json) |
 | Ralph Breaks VR | 246638 | [246638-ralph-breaks-vr.json](./246638-ralph-breaks-vr.json) |
+| Ralph's Party RPG | 200784 | [200784-ralphs-party-rpg.json](./200784-ralphs-party-rpg.json) |
 | Ralsei Hwrot | 370385 | [370385-ralsei-hwrot.json](./370385-ralsei-hwrot.json) |
 | Ralsei's got a gun! | 175924 | [175924-ralseis-got-a-gun.json](./175924-ralseis-got-a-gun.json) |
 | RAM 1982 | 349953 | [349953-ram-1982.json](./349953-ram-1982.json) |
