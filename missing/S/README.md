@@ -6682,6 +6682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Mask | 75020 | [75020-shadow-of-the-mask.json](./75020-shadow-of-the-mask.json) |
 | Shadow of the Matrix | 361990 | [361990-shadow-of-the-matrix.json](./361990-shadow-of-the-matrix.json) |
 | Shadow of the Moonlight | 384232 | [384232-shadow-of-the-moonlight.json](./384232-shadow-of-the-moonlight.json) |
+| Shadow of the Night | 237718 | [237718-shadow-of-the-night.json](./237718-shadow-of-the-night.json) |
 | Shadow of the Night: Monsters | 256339 | [256339-shadow-of-the-night-monsters.json](./256339-shadow-of-the-night-monsters.json) |
 | Shadow of the Ninja | 9154 | [9154-shadow-of-the-ninja.json](./9154-shadow-of-the-ninja.json) |
 | Shadow of the Ninja Reborn | 262137 | [262137-shadow-of-the-ninja-reborn.json](./262137-shadow-of-the-ninja-reborn.json) |
@@ -13634,6 +13635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sling Kings: Supercharged Chess | 236020 | [236020-sling-kings-supercharged-chess.json](./236020-sling-kings-supercharged-chess.json) |
 | Sling Ming | 74400 | [74400-sling-ming.json](./74400-sling-ming.json) |
 | Sling Puzzle: Golf Master | 277731 | [277731-sling-puzzle-golf-master.json](./277731-sling-puzzle-golf-master.json) |
+| Sling Stars | 237732 | [237732-sling-stars.json](./237732-sling-stars.json) |
 | Sling-A-Thing | 279457 | [279457-sling-a-thing.json](./279457-sling-a-thing.json) |
 | Slingbot Survivors | 336465 | [336465-slingbot-survivors.json](./336465-slingbot-survivors.json) |
 | Slingbox | 371995 | [371995-slingbox.json](./371995-slingbox.json) |
@@ -18045,6 +18047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sora no Hiraketa Basho: Chord:OOC | 413830 | [413830-sora-no-hiraketa-basho-chord-ooc.json](./413830-sora-no-hiraketa-basho-chord-ooc.json) |
 | Sora no Iro, Mizu no Iro | 72718 | [72718-sora-no-iro-mizu-no-iro.json](./72718-sora-no-iro-mizu-no-iro.json) |
 | Sora no Otoshimono Forte: Dreamy Season | 62623 | [62623-sora-no-otoshimono-forte-dreamy-season.json](./62623-sora-no-otoshimono-forte-dreamy-season.json) |
+| Sora no Tsukurikata: Under the Same Sky, Over the Rainbow | 237763 | [237763-sora-no-tsukurikata-under-the-same-sky-over-the-rainbow.json](./237763-sora-no-tsukurikata-under-the-same-sky-over-the-rainbow.json) |
 | Sora o Aogite Kumo Takaku | 62733 | [62733-sora-o-aogite-kumo-takaku.json](./62733-sora-o-aogite-kumo-takaku.json) |
 | Sora to Kimi Iro | 275152 | [275152-sora-to-kimi-iro.json](./275152-sora-to-kimi-iro.json) |
 | Sora to Muku no 6-ki | 283583 | [283583-sora-to-muku-no-6-ki.json](./283583-sora-to-muku-no-6-ki.json) |
@@ -25226,6 +25229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarScraper | 148405 | [148405-starscraper.json](./148405-starscraper.json) |
 | Starsector | 18349 | [18349-starsector.json](./18349-starsector.json) |
 | Starseed | 150998 | [150998-starseed.json](./150998-starseed.json) |
+| Starseed | 237730 | [237730-starseed.json](./237730-starseed.json) |
 | Starseed Harmonies | 385553 | [385553-starseed-harmonies.json](./385553-starseed-harmonies.json) |
 | Starseed Pilgrim | 16317 | [16317-starseed-pilgrim.json](./16317-starseed-pilgrim.json) |
 | Starseed: Asnia Trigger | 294410 | [294410-starseed-asnia-trigger.json](./294410-starseed-asnia-trigger.json) |
@@ -29342,6 +29346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suicide Guy: The Lost Dreams | 254640 | [254640-suicide-guy-the-lost-dreams.json](./254640-suicide-guy-the-lost-dreams.json) |
 | Suicide Hero | 244279 | [244279-suicide-hero.json](./244279-suicide-hero.json) |
 | Suicide Mission | 18566 | [18566-suicide-mission.json](./18566-suicide-mission.json) |
+| Suicide Racing | 237734 | [237734-suicide-racing.json](./237734-suicide-racing.json) |
 | Suicide Run | 60054 | [60054-suicide-run.json](./60054-suicide-run.json) |
 | Suicide Runners | 269207 | [269207-suicide-runners.json](./269207-suicide-runners.json) |
 | Suicide Simulator | 292045 | [292045-suicide-simulator.json](./292045-suicide-simulator.json) |
@@ -35236,6 +35241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords & Bones: Extended Edition | 239494 | [239494-swords-and-bones-extended-edition.json](./239494-swords-and-bones-extended-edition.json) |
 | Swords & Bones: Premium Edition | 244819 | [244819-swords-and-bones-premium-edition.json](./244819-swords-and-bones-premium-edition.json) |
 | Swords & Bones: Special Edition | 242054 | [242054-swords-and-bones-special-edition.json](./242054-swords-and-bones-special-edition.json) |
+| Swords & Bones: Ultimate Edition | 237759 | [237759-swords-and-bones-ultimate-edition.json](./237759-swords-and-bones-ultimate-edition.json) |
 | Swords & Crossbones: An Epic Pirate Story | 34915 | [34915-swords-and-crossbones-an-epic-pirate-story.json](./34915-swords-and-crossbones-an-epic-pirate-story.json) |
 | Swords & Crystals | 268947 | [268947-swords-and-crystals.json](./268947-swords-and-crystals.json) |
 | Swords & Crystals: Dragon Hatchling Pet | 298185 | [298185-swords-and-crystals-dragon-hatchling-pet.json](./298185-swords-and-crystals-dragon-hatchling-pet.json) |
