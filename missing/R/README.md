@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.U.R.U.R.: Petit Prince | 59363 | [59363-r-u-r-u-r-petit-prince.json](./59363-r-u-r-u-r-petit-prince.json) |
 | R.U.S.E.: The Chimera Pack | 400743 | [400743-r-u-s-e-the-chimera-pack.json](./400743-r-u-s-e-the-chimera-pack.json) |
 | R.U.S.H.: Rival Ultimate Steel Hand | 395527 | [395527-r-u-s-h-rival-ultimate-steel-hand.json](./395527-r-u-s-h-rival-ultimate-steel-hand.json) |
+| R'lyeh | 196917 | [196917-rlyeh.json](./196917-rlyeh.json) |
 | R'lyeh Assault | 230194 | [230194-rlyeh-assault.json](./230194-rlyeh-assault.json) |
 | R(IV)P-1 | 399343 | [399343-r-iv-p-1.json](./399343-r-iv-p-1.json) |
 | R/A\W | 341548 | [341548-r-a-w.json](./341548-r-a-w.json) |
@@ -544,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rackets & Rivals | 48213 | [48213-rackets-and-rivals.json](./48213-rackets-and-rivals.json) |
 | Rackham's Shambala Adventure | 127523 | [127523-rackhams-shambala-adventure.json](./127523-rackhams-shambala-adventure.json) |
 | RackJacker | 163981 | [163981-rackjacker.json](./163981-rackjacker.json) |
+| Raconteur | 196932 | [196932-raconteur.json](./196932-raconteur.json) |
 | Racoon Escape 2: Warehouse Storage | 375118 | [375118-racoon-escape-2-warehouse-storage.json](./375118-racoon-escape-2-warehouse-storage.json) |
 | Racoon Lagoon | 128847 | [128847-racoon-lagoon.json](./128847-racoon-lagoon.json) |
 | Racoon the Thief | 256187 | [256187-racoon-the-thief.json](./256187-racoon-the-thief.json) |
