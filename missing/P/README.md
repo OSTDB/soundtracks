@@ -15631,6 +15631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Cube | 305920 | [305920-project-cube.json](./305920-project-cube.json) |
 | Project Cube | 69119 | [69119-project-cube.json](./69119-project-cube.json) |
 | Project Cybertronic | 120676 | [120676-project-cybertronic.json](./120676-project-cybertronic.json) |
+| Project D | 219958 | [219958-project-d.json](./219958-project-d.json) |
 | Project D | 255117 | [255117-project-d.json](./255117-project-d.json) |
 | Project D | 305783 | [305783-project-d.json](./305783-project-d.json) |
 | Project D: Human Risen | 126632 | [126632-project-d-human-risen.json](./126632-project-d-human-risen.json) |
@@ -17672,6 +17673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purranoia | 385218 | [385218-purranoia.json](./385218-purranoia.json) |
 | Purrate Adventure: Volcano Isle | 200382 | [200382-purrate-adventure-volcano-isle.json](./200382-purrate-adventure-volcano-isle.json) |
 | Purrates | 353799 | [353799-purrates.json](./353799-purrates.json) |
+| PurrChess | 219876 | [219876-purrchess.json](./219876-purrchess.json) |
 | Purrdy's Race | 335111 | [335111-purrdys-race.json](./335111-purrdys-race.json) |
 | Purrfect Alchemy | 337808 | [337808-purrfect-alchemy.json](./337808-purrfect-alchemy.json) |
 | Purrfect Apawcalypse: Ideal Finale!!! | 304124 | [304124-purrfect-apawcalypse-ideal-finale.json](./304124-purrfect-apawcalypse-ideal-finale.json) |
