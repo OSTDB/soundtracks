@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Dooty II: Green Ops | 252458 | [252458-call-of-dooty-ii-green-ops.json](./252458-call-of-dooty-ii-green-ops.json) |
 | Call of Dooty III: Spectres | 252459 | [252459-call-of-dooty-iii-spectres.json](./252459-call-of-dooty-iii-spectres.json) |
 | Call of Dragons | 230103 | [230103-call-of-dragons.json](./230103-call-of-dragons.json) |
+| Call of Dungeon: Devil's Quest | 207961 | [207961-call-of-dungeon-devils-quest.json](./207961-call-of-dungeon-devils-quest.json) |
 | Call of Dusk | 214246 | [214246-call-of-dusk.json](./214246-call-of-dusk.json) |
 | Call of Duty | 322845 | [322845-call-of-duty.json](./322845-call-of-duty.json) |
 | Call of Duty 2 | 119160 | [119160-call-of-duty-2.json](./119160-call-of-duty-2.json) |
@@ -16015,6 +16016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft the Mapcrafter: Gathering Magic Words | 151676 | [151676-craft-the-mapcrafter-gathering-magic-words.json](./151676-craft-the-mapcrafter-gathering-magic-words.json) |
 | Craft the World | 14554 | [14554-craft-the-world.json](./14554-craft-the-world.json) |
 | Craft the World: Dig with Friends | 51758 | [51758-craft-the-world-dig-with-friends.json](./51758-craft-the-world-dig-with-friends.json) |
+| Craft the World: Episodes Edition | 207989 | [207989-craft-the-world-episodes-edition.json](./207989-craft-the-world-episodes-edition.json) |
 | Craft the World: Grottoes | 125142 | [125142-craft-the-world-grottoes.json](./125142-craft-the-world-grottoes.json) |
 | Craft the World: Heart of Evil | 154959 | [154959-craft-the-world-heart-of-evil.json](./154959-craft-the-world-heart-of-evil.json) |
 | Craft The World: Invasion | 286536 | [286536-craft-the-world-invasion.json](./286536-craft-the-world-invasion.json) |
