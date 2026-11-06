@@ -465,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halcyon Sun: Episodes 1 & 2 | 24172 | [24172-halcyon-sun-episodes-1-and-2.json](./24172-halcyon-sun-episodes-1-and-2.json) |
 | Halcyon: The WaveBorn | 259053 | [259053-halcyon-the-waveborn.json](./259053-halcyon-the-waveborn.json) |
 | Haldion | 82913 | [82913-haldion.json](./82913-haldion.json) |
+| Haldor | 202902 | [202902-haldor.json](./202902-haldor.json) |
 | Halen: Ballad of the Blade Thief | 134002 | [134002-halen-ballad-of-the-blade-thief.json](./134002-halen-ballad-of-the-blade-thief.json) |
 | Haley's Story | 393580 | [393580-haleys-story.json](./393580-haleys-story.json) |
 | Half | 178472 | [178472-half.json](./178472-half.json) |
@@ -1196,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hana to Otome ni Shukufuku wo Royal Bouquet | 60368 | [60368-hana-to-otome-ni-shukufuku-wo-royal-bouquet.json](./60368-hana-to-otome-ni-shukufuku-wo-royal-bouquet.json) |
 | Hana to Otome ni Shukufuku wo: Harukaze No Okurimono | 69054 | [69054-hana-to-otome-ni-shukufuku-wo-harukaze-no-okurimono.json](./69054-hana-to-otome-ni-shukufuku-wo-harukaze-no-okurimono.json) |
 | Hana to Ryuu | 352509 | [352509-hana-to-ryuu.json](./352509-hana-to-ryuu.json) |
+| Hana Yori Dango: F4 to First Kiss | 202988 | [202988-hana-yori-dango-f4-to-first-kiss.json](./202988-hana-yori-dango-f4-to-first-kiss.json) |
 | Hana: Episode I | 263345 | [263345-hana-episode-i.json](./263345-hana-episode-i.json) |
 | Hana: Episode II | 263346 | [263346-hana-episode-ii.json](./263346-hana-episode-ii.json) |
 | Hana: Hide and Seek | 250529 | [250529-hana-hide-and-seek.json](./250529-hana-hide-and-seek.json) |
@@ -1303,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handball Pelota | 193773 | [193773-handball-pelota.json](./193773-handball-pelota.json) |
 | Handdogg | 185154 | [185154-handdogg.json](./185154-handdogg.json) |
 | Handgun Football | 391243 | [391243-handgun-football.json](./391243-handgun-football.json) |
+| Handheld Electronic Games | 202882 | [202882-handheld-electronic-games.json](./202882-handheld-electronic-games.json) |
 | Handheld Pinball - Robot, Pirate, & Holiday Themes | 108452 | [108452-handheld-pinball-robot-pirate-and-holiday-themes.json](./108452-handheld-pinball-robot-pirate-and-holiday-themes.json) |
 | Handicap Golf | 94661 | [94661-handicap-golf.json](./94661-handicap-golf.json) |
 | Handkerchief | 191627 | [191627-handkerchief.json](./191627-handkerchief.json) |
