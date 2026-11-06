@@ -961,7 +961,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1613,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BallCore | 283979 | [283979-ballcore.json](./283979-ballcore.json) |
 | Balldemic | 179304 | [179304-balldemic.json](./179304-balldemic.json) |
 | Balldventure | 226173 | [226173-balldventure.json](./226173-balldventure.json) |
+| Baller Blast | 197456 | [197456-baller-blast.json](./197456-baller-blast.json) |
 | Ballerburg | 129148 | [129148-ballerburg.json](./129148-ballerburg.json) |
 | Ballerburg: Castle Chaos | 43879 | [43879-ballerburg-castle-chaos.json](./43879-ballerburg-castle-chaos.json) |
 | Ballerina Magazine Dress Up | 95844 | [95844-ballerina-magazine-dress-up.json](./95844-ballerina-magazine-dress-up.json) |
@@ -12791,6 +12791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bones | 372636 | [372636-bones.json](./372636-bones.json) |
 | Bones 'n' Bullets | 118303 | [118303-bones-n-bullets.json](./118303-bones-n-bullets.json) |
 | Bones and Coins | 388776 | [388776-bones-and-coins.json](./388776-bones-and-coins.json) |
+| Bones and Magic | 197431 | [197431-bones-and-magic.json](./197431-bones-and-magic.json) |
 | Bones Beneath | 298073 | [298073-bones-beneath.json](./298073-bones-beneath.json) |
 | Bones game online | 63726 | [63726-bones-game-online.json](./63726-bones-game-online.json) |
 | Bones in the Boneyard | 319339 | [319339-bones-in-the-boneyard.json](./319339-bones-in-the-boneyard.json) |
@@ -13179,6 +13180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booom-Slang! | 309628 | [309628-booom-slang.json](./309628-booom-slang.json) |
 | Boooooooooobs | 211444 | [211444-boooooooooobs.json](./211444-boooooooooobs.json) |
 | Booooooooooooooounce | 163817 | [163817-booooooooooooooounce.json](./163817-booooooooooooooounce.json) |
+| Boooost!!!! | 197444 | [197444-boooost.json](./197444-boooost.json) |
 | Booox | 410222 | [410222-booox.json](./410222-booox.json) |
 | Boop a Cat | 303356 | [303356-boop-a-cat.json](./303356-boop-a-cat.json) |
 | Boopa Zap | 93550 | [93550-boopa-zap.json](./93550-boopa-zap.json) |
