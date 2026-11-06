@@ -1064,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Robot's Tiny Adventure | 329329 | [329329-a-robots-tiny-adventure.json](./329329-a-robots-tiny-adventure.json) |
 | A Rocket's Intensity | 247777 | [247777-a-rockets-intensity.json](./247777-a-rockets-intensity.json) |
 | A Rogue Escape | 142376 | [142376-a-rogue-escape.json](./142376-a-rogue-escape.json) |
+| A Role to Play | 224914 | [224914-a-role-to-play.json](./224914-a-role-to-play.json) |
 | A Romantic Murder | 299680 | [299680-a-romantic-murder.json](./299680-a-romantic-murder.json) |
 | A Room Beyond | 33421 | [33421-a-room-beyond.json](./33421-a-room-beyond.json) |
 | A Room With a Ghost Girl | 306426 | [306426-a-room-with-a-ghost-girl.json](./306426-a-room-with-a-ghost-girl.json) |
@@ -7465,6 +7466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alloys Over Flowers | 179044 | [179044-alloys-over-flowers.json](./179044-alloys-over-flowers.json) |
 | Allrams Höjdarspel | 383025 | [383025-allrams-hojdarspel.json](./383025-allrams-hojdarspel.json) |
 | Allspace | 114237 | [114237-allspace.json](./114237-allspace.json) |
+| Alltynex | 224915 | [224915-alltynex.json](./224915-alltynex.json) |
 | Allumeria | 362894 | [362894-allumeria.json](./362894-allumeria.json) |
 | Allumette | 33070 | [33070-allumette.json](./33070-allumette.json) |
 | Alluna and Brie | 117033 | [117033-alluna-and-brie.json](./117033-alluna-and-brie.json) |
@@ -12311,6 +12313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Ikki | 99567 | [99567-arcade-archives-ikki.json](./99567-arcade-archives-ikki.json) |
 | Arcade Archives: Image Fight | 119087 | [119087-arcade-archives-image-fight.json](./119087-arcade-archives-image-fight.json) |
 | Arcade Archives: In the Hunt | 125658 | [125658-arcade-archives-in-the-hunt.json](./125658-arcade-archives-in-the-hunt.json) |
+| Arcade Archives: Itazura Tenshi | 224916 | [224916-arcade-archives-itazura-tenshi.json](./224916-arcade-archives-itazura-tenshi.json) |
 | Arcade Archives: Jungler | 288004 | [288004-arcade-archives-jungler.json](./288004-arcade-archives-jungler.json) |
 | Arcade Archives: Juno First | 335981 | [335981-arcade-archives-juno-first.json](./335981-arcade-archives-juno-first.json) |
 | Arcade Archives: Kangaroo | 147108 | [147108-arcade-archives-kangaroo.json](./147108-arcade-archives-kangaroo.json) |
@@ -14923,6 +14926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashzel & The Power Dagger | 203602 | [203602-ashzel-and-the-power-dagger.json](./203602-ashzel-and-the-power-dagger.json) |
 | AsiaKingdom | 302343 | [302343-asiakingdom.json](./302343-asiakingdom.json) |
 | Asian Actors Wanted | 183243 | [183243-asian-actors-wanted.json](./183243-asian-actors-wanted.json) |
+| Asian Caprice | 224923 | [224923-asian-caprice.json](./224923-asian-caprice.json) |
 | Asian Cargo Sim | 224115 | [224115-asian-cargo-sim.json](./224115-asian-cargo-sim.json) |
 | Asian Dynamite | 39645 | [39645-asian-dynamite.json](./39645-asian-dynamite.json) |
 | Asian Foxes | 298609 | [298609-asian-foxes.json](./298609-asian-foxes.json) |
