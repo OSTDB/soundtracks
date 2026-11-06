@@ -2819,6 +2819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -6062,6 +6063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu Jumpu | 200303 | [200303-kung-fu-jumpu.json](./200303-kung-fu-jumpu.json) |
 | Kung Fu Kid | 36898 | [36898-kung-fu-kid.json](./36898-kung-fu-kid.json) |
 | Kung Fu Legend | 117344 | [117344-kung-fu-legend.json](./117344-kung-fu-legend.json) |
+| Kung Fu Legend | 204115 | [204115-kung-fu-legend.json](./204115-kung-fu-legend.json) |
 | Kung Fu Panda | 241109 | [241109-kung-fu-panda.json](./241109-kung-fu-panda.json) |
 | Kung Fu Panda | 320387 | [320387-kung-fu-panda.json](./320387-kung-fu-panda.json) |
 | Kung Fu Panda | 4964 | [4964-kung-fu-panda.json](./4964-kung-fu-panda.json) |
