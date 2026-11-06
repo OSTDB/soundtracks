@@ -433,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daily Dungeon Club | 216714 | [216714-daily-dungeon-club.json](./216714-daily-dungeon-club.json) |
 | Daily Espada | 34690 | [34690-daily-espada.json](./34690-daily-espada.json) |
 | Daily Hidden Object | 417780 | [417780-daily-hidden-object.json](./417780-daily-hidden-object.json) |
+| Daily Life With My Succubus Boss | 226555 | [226555-daily-life-with-my-succubus-boss.json](./226555-daily-life-with-my-succubus-boss.json) |
 | Daily Mah Jong | 95663 | [95663-daily-mah-jong.json](./95663-daily-mah-jong.json) |
 | Daily Quizz | 78701 | [78701-daily-quizz.json](./78701-daily-quizz.json) |
 | Daily Routine | 88136 | [88136-daily-routine.json](./88136-daily-routine.json) |
@@ -1306,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark 4799 | 359673 | [359673-dark-4799.json](./359673-dark-4799.json) |
 | Dark 7 | 310528 | [310528-dark-7.json](./310528-dark-7.json) |
 | Dark Abyss | 148283 | [148283-dark-abyss.json](./148283-dark-abyss.json) |
+| Dark Adaption | 226554 | [226554-dark-adaption.json](./226554-dark-adaption.json) |
 | Dark Adelita | 350419 | [350419-dark-adelita.json](./350419-dark-adelita.json) |
 | Dark Adventure | 38529 | [38529-dark-adventure.json](./38529-dark-adventure.json) |
 | Dark Aegis | 416790 | [416790-dark-aegis.json](./416790-dark-aegis.json) |
@@ -2003,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Train: Coupe | 51436 | [51436-dark-train-coupe.json](./51436-dark-train-coupe.json) |
 | Dark Traveller | 241952 | [241952-dark-traveller.json](./241952-dark-traveller.json) |
 | Dark Treasury | 151482 | [151482-dark-treasury.json](./151482-dark-treasury.json) |
+| Dark Tree | 226553 | [226553-dark-tree.json](./226553-dark-tree.json) |
 | Dark Trip | 324061 | [324061-dark-trip.json](./324061-dark-trip.json) |
 | Dark Umbra | 295793 | [295793-dark-umbra.json](./295793-dark-umbra.json) |
 | Dark Undergrowth | 402801 | [402801-dark-undergrowth.json](./402801-dark-undergrowth.json) |
@@ -2343,6 +2346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darum | 308030 | [308030-darum.json](./308030-darum.json) |
 | Daruman Busters | 77798 | [77798-daruman-busters.json](./77798-daruman-busters.json) |
 | Darumeshi Sports Store | 230306 | [230306-darumeshi-sports-store.json](./230306-darumeshi-sports-store.json) |
+| Darwake: Awakening from the Nightmare | 226552 | [226552-darwake-awakening-from-the-nightmare.json](./226552-darwake-awakening-from-the-nightmare.json) |
 | Darwin | 309853 | [309853-darwin.json](./309853-darwin.json) |
 | Darwin 4078 | 40047 | [40047-darwin-4078.json](./40047-darwin-4078.json) |
 | Darwin 4081 | 46187 | [46187-darwin-4081.json](./46187-darwin-4081.json) |
