@@ -6329,6 +6329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kwiks | 335519 | [335519-kwiks.json](./335519-kwiks.json) |
 | Kwirk | 48943 | [48943-kwirk.json](./48943-kwirk.json) |
 | KWRPG | 323967 | [323967-kwrpg.json](./323967-kwrpg.json) |
+| KWRPG Buster!! | 209238 | [209238-kwrpg-buster.json](./209238-kwrpg-buster.json) |
 | KWRPG Platformer Online | 323968 | [323968-kwrpg-platformer-online.json](./323968-kwrpg-platformer-online.json) |
 | KWRPGII | 323969 | [323969-kwrpgii.json](./323969-kwrpgii.json) |
 | KWRPGIII | 323922 | [323922-kwrpgiii.json](./323922-kwrpgiii.json) |
