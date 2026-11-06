@@ -961,7 +961,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3404,6 +3403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: The Brave and the Bold - Streets of Gotham: Full Throttle | 299322 | [299322-batman-the-brave-and-the-bold-streets-of-gotham-full-throttle.json](./299322-batman-the-brave-and-the-bold-streets-of-gotham-full-throttle.json) |
 | Batman: The Brave and the Bold - The Videogame | 343034 | [343034-batman-the-brave-and-the-bold-the-videogame.json](./343034-batman-the-brave-and-the-bold-the-videogame.json) |
 | Batman: The Brave and the Bold - The Videogame | 4707 | [4707-batman-the-brave-and-the-bold-the-videogame.json](./4707-batman-the-brave-and-the-bold-the-videogame.json) |
+| Batman: The Brave and the Bold Game Creator | 210354 | [210354-batman-the-brave-and-the-bold-game-creator.json](./210354-batman-the-brave-and-the-bold-game-creator.json) |
 | Batman: The Caped Crusader | 12401 | [12401-batman-the-caped-crusader.json](./12401-batman-the-caped-crusader.json) |
 | Batman: The Dark Knight | 283976 | [283976-batman-the-dark-knight.json](./283976-batman-the-dark-knight.json) |
 | Batman: The Enemy Within | 51525 | [51525-batman-the-enemy-within.json](./51525-batman-the-enemy-within.json) |
@@ -6349,6 +6349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10: Alien Experience | 196339 | [196339-ben-10-alien-experience.json](./196339-ben-10-alien-experience.json) |
 | Ben 10: Alien Force | 210256 | [210256-ben-10-alien-force.json](./210256-ben-10-alien-force.json) |
 | Ben 10: Alien Force | 2801 | [2801-ben-10-alien-force.json](./2801-ben-10-alien-force.json) |
+| Ben 10: Alien Force Game Creator | 210355 | [210355-ben-10-alien-force-game-creator.json](./210355-ben-10-alien-force-game-creator.json) |
 | Ben 10: Backpack | 363891 | [363891-ben-10-backpack.json](./363891-ben-10-backpack.json) |
 | Ben 10: Battle Ready | 114145 | [114145-ben-10-battle-ready.json](./114145-ben-10-battle-ready.json) |
 | Ben 10: Ben to the Rescue | 203084 | [203084-ben-10-ben-to-the-rescue.json](./203084-ben-10-ben-to-the-rescue.json) |
@@ -18280,6 +18281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | By the Numbers | 413892 | [413892-by-the-numbers.json](./413892-by-the-numbers.json) |
 | By the Numbers | 424651 | [424651-by-the-numbers.json](./424651-by-the-numbers.json) |
 | By the Pier | 207290 | [207290-by-the-pier.json](./207290-by-the-pier.json) |
+| By the World's Wind | 210323 | [210323-by-the-worlds-wind.json](./210323-by-the-worlds-wind.json) |
 | By Your Side | 134864 | [134864-by-your-side.json](./134864-by-your-side.json) |
 | Byakko: Shijin Butai Enrenki | 342755 | [342755-byakko-shijin-butai-enrenki.json](./342755-byakko-shijin-butai-enrenki.json) |
 | Byakuya Monogatari: Winchester-ke no Matsuei | 287633 | [287633-byakuya-monogatari-winchester-ke-no-matsuei.json](./287633-byakuya-monogatari-winchester-ke-no-matsuei.json) |
