@@ -4256,6 +4256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search All: UFO | 249800 | [249800-search-all-ufo.json](./249800-search-all-ufo.json) |
 | Search All: Veggies | 306025 | [306025-search-all-veggies.json](./306025-search-all-veggies.json) |
 | Search All: Worms | 231334 | [231334-search-all-worms.json](./231334-search-all-worms.json) |
+| Search and Rescue | 199683 | [199683-search-and-rescue.json](./199683-search-and-rescue.json) |
 | Search and Rescue 3 | 206641 | [206641-search-and-rescue-3.json](./206641-search-and-rescue-3.json) |
 | Search and Rescue: Dogs | 294959 | [294959-search-and-rescue-dogs.json](./294959-search-and-rescue-dogs.json) |
 | Search and Rescue: Mount Rainier National Park USA | 309295 | [309295-search-and-rescue-mount-rainier-national-park-usa.json](./309295-search-and-rescue-mount-rainier-national-park-usa.json) |
@@ -6907,6 +6908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowbound | 361621 | [361621-shadowbound.json](./361621-shadowbound.json) |
 | Shadowbound | 374076 | [374076-shadowbound.json](./374076-shadowbound.json) |
 | ShadowBox: Mausoleum of Natural History | 340601 | [340601-shadowbox-mausoleum-of-natural-history.json](./340601-shadowbox-mausoleum-of-natural-history.json) |
+| ShadowBringer | 199684 | [199684-shadowbringer.json](./199684-shadowbringer.json) |
 | ShadowCalls | 91034 | [91034-shadowcalls.json](./91034-shadowcalls.json) |
 | Shadowcaster | 268461 | [268461-shadowcaster.json](./268461-shadowcaster.json) |
 | ShadowCaster | 8691 | [8691-shadowcaster.json](./8691-shadowcaster.json) |
@@ -13745,6 +13747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimes! | 406485 | [406485-slimes.json](./406485-slimes.json) |
 | SlimeSlider | 188453 | [188453-slimeslider.json](./188453-slimeslider.json) |
 | Slimesphere | 136632 | [136632-slimesphere.json](./136632-slimesphere.json) |
+| Slimesventure: Your Destination | 199714 | [199714-slimesventure-your-destination.json](./199714-slimesventure-your-destination.json) |
 | SlimeTrials | 185607 | [185607-slimetrials.json](./185607-slimetrials.json) |
 | SlimeVille Online | 410585 | [410585-slimeville-online.json](./410585-slimeville-online.json) |
 | Slimeward | 373084 | [373084-slimeward.json](./373084-slimeward.json) |
@@ -18670,6 +18673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul War | 262889 | [262889-soul-war.json](./262889-soul-war.json) |
 | Soul Warden | 277990 | [277990-soul-warden.json](./277990-soul-warden.json) |
 | Soul Warden Professional Academy | 288829 | [288829-soul-warden-professional-academy.json](./288829-soul-warden-professional-academy.json) |
+| Soul Wargame | 199670 | [199670-soul-wargame.json](./199670-soul-wargame.json) |
 | Soul Warrior Battle | 231432 | [231432-soul-warrior-battle.json](./231432-soul-warrior-battle.json) |
 | Soul Wars | 112228 | [112228-soul-wars.json](./112228-soul-wars.json) |
 | Soul Wizards & Rogulite | 290933 | [290933-soul-wizards-and-rogulite.json](./290933-soul-wizards-and-rogulite.json) |
@@ -21200,6 +21204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Unbound | 417183 | [417183-spell-unbound.json](./417183-spell-unbound.json) |
 | Spell Weaver | 335381 | [335381-spell-weaver.json](./335381-spell-weaver.json) |
 | Spell Welders | 199501 | [199501-spell-welders.json](./199501-spell-welders.json) |
+| Spell Welders | 199689 | [199689-spell-welders.json](./199689-spell-welders.json) |
 | Spellagories | 208784 | [208784-spellagories.json](./208784-spellagories.json) |
 | Spellario | 171993 | [171993-spellario.json](./171993-spellario.json) |
 | Spellarium | 250164 | [250164-spellarium.json](./250164-spellarium.json) |
@@ -21280,6 +21285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellcrafter: The Path of Magic | 200298 | [200298-spellcrafter-the-path-of-magic.json](./200298-spellcrafter-the-path-of-magic.json) |
 | Spellcross: The Last Battle | 93405 | [93405-spellcross-the-last-battle.json](./93405-spellcross-the-last-battle.json) |
 | Spelldash | 197149 | [197149-spelldash.json](./197149-spelldash.json) |
+| Spellers | 199719 | [199719-spellers.json](./199719-spellers.json) |
 | Spellfall | 60072 | [60072-spellfall.json](./60072-spellfall.json) |
 | Spellfall: Last Mage Standing | 390025 | [390025-spellfall-last-mage-standing.json](./390025-spellfall-last-mage-standing.json) |
 | Spellfarers | 308580 | [308580-spellfarers.json](./308580-spellfarers.json) |
@@ -30188,6 +30194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunlight | 142217 | [142217-sunlight.json](./142217-sunlight.json) |
 | Sunlight In A Tin | 188602 | [188602-sunlight-in-a-tin.json](./188602-sunlight-in-a-tin.json) |
 | Sunlight Scream | 257738 | [257738-sunlight-scream.json](./257738-sunlight-scream.json) |
+| Sunline | 199686 | [199686-sunline.json](./199686-sunline.json) |
 | Sunlit | 229593 | [229593-sunlit.json](./229593-sunlit.json) |
 | Sunlit Trail: Complete Edition | 410674 | [410674-sunlit-trail-complete-edition.json](./410674-sunlit-trail-complete-edition.json) |
 | Sunlit's Star Fox Minihack | 233606 | [233606-sunlits-star-fox-minihack.json](./233606-sunlits-star-fox-minihack.json) |
@@ -35739,6 +35746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symbiosis | 302916 | [302916-symbiosis.json](./302916-symbiosis.json) |
 | Symbiosis | 326843 | [326843-symbiosis.json](./326843-symbiosis.json) |
 | Symbiote | 369458 | [369458-symbiote.json](./369458-symbiote.json) |
+| Symbiotic | 199701 | [199701-symbiotic.json](./199701-symbiotic.json) |
 | Symbiotic Love | 159361 | [159361-symbiotic-love.json](./159361-symbiotic-love.json) |
 | Symble | 324850 | [324850-symble.json](./324850-symble.json) |
 | Symbol | 229930 | [229930-symbol.json](./229930-symbol.json) |
