@@ -5388,6 +5388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invaders | 79070 | [79070-invaders.json](./79070-invaders.json) |
 | Invaders 1978 | 72081 | [72081-invaders-1978.json](./72081-invaders-1978.json) |
 | Invaders 360 | 271007 | [271007-invaders-360.json](./271007-invaders-360.json) |
+| Invaders from another dimension | 193560 | [193560-invaders-from-another-dimension.json](./193560-invaders-from-another-dimension.json) |
 | Invaders from Dimension X | 111348 | [111348-invaders-from-dimension-x.json](./111348-invaders-from-dimension-x.json) |
 | Invaders From Mars | 295970 | [295970-invaders-from-mars.json](./295970-invaders-from-mars.json) |
 | Invaders from the Third Dimension | 253524 | [253524-invaders-from-the-third-dimension.json](./253524-invaders-from-the-third-dimension.json) |
