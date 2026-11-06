@@ -958,7 +958,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4751,6 +4750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Head 2000 | 17451 | [17451-beach-head-2000.json](./17451-beach-head-2000.json) |
 | Beach Head: Desert War | 29003 | [29003-beach-head-desert-war.json](./29003-beach-head-desert-war.json) |
 | Beach Invasion 1915: Gallipoli | 347341 | [347341-beach-invasion-1915-gallipoli.json](./347341-beach-invasion-1915-gallipoli.json) |
+| Beach Invasion 1944 | 228204 | [228204-beach-invasion-1944.json](./228204-beach-invasion-1944.json) |
 | Beach Invasion 1945: Pacific | 247785 | [247785-beach-invasion-1945-pacific.json](./247785-beach-invasion-1945-pacific.json) |
 | Beach Island Deluxe | 212810 | [212810-beach-island-deluxe.json](./212810-beach-island-deluxe.json) |
 | Beach Landing | 307933 | [307933-beach-landing.json](./307933-beach-landing.json) |
