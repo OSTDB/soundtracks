@@ -8957,6 +8957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Equinox Hunt | 125368 | [125368-the-equinox-hunt.json](./125368-the-equinox-hunt.json) |
 | The ER: Patient Typhon | 146320 | [146320-the-er-patient-typhon.json](./146320-the-er-patient-typhon.json) |
 | The ER: Patient Typhon - SOS | 196095 | [196095-the-er-patient-typhon-sos.json](./196095-the-er-patient-typhon-sos.json) |
+| The Era of Overman | 196394 | [196394-the-era-of-overman.json](./196394-the-era-of-overman.json) |
 | The Era of Pioneers | 302924 | [302924-the-era-of-pioneers.json](./302924-the-era-of-pioneers.json) |
 | The Erased Student | 374201 | [374201-the-erased-student.json](./374201-the-erased-student.json) |
 | The Eraser | 183270 | [183270-the-eraser.json](./183270-the-eraser.json) |
@@ -15444,6 +15445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Real World | 218651 | [218651-the-real-world.json](./218651-the-real-world.json) |
 | The Realm | 207001 | [207001-the-realm.json](./207001-the-realm.json) |
 | The Realm | 292558 | [292558-the-realm.json](./292558-the-realm.json) |
+| The Realm of Crimson | 196351 | [196351-the-realm-of-crimson.json](./196351-the-realm-of-crimson.json) |
 | The Realm of Insight Compass | 253513 | [253513-the-realm-of-insight-compass.json](./253513-the-realm-of-insight-compass.json) |
 | The Realm of Keren: Exploratio | 174691 | [174691-the-realm-of-keren-exploratio.json](./174691-the-realm-of-keren-exploratio.json) |
 | The Realm of Parthoris | 261184 | [261184-the-realm-of-parthoris.json](./261184-the-realm-of-parthoris.json) |
@@ -24339,6 +24341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet Run | 110488 | [110488-toilet-run.json](./110488-toilet-run.json) |
 | Toilet Rush Draw: Poo and Pee | 231888 | [231888-toilet-rush-draw-poo-and-pee.json](./231888-toilet-rush-draw-poo-and-pee.json) |
 | Toilet Simulator | 111715 | [111715-toilet-simulator.json](./111715-toilet-simulator.json) |
+| Toilet Success | 196354 | [196354-toilet-success.json](./196354-toilet-success.json) |
 | Toilet Time - Mini Games | 88143 | [88143-toilet-time-mini-games.json](./88143-toilet-time-mini-games.json) |
 | Toilet Toss | 343391 | [343391-toilet-toss.json](./343391-toilet-toss.json) |
 | Toilet Treasures | 396525 | [396525-toilet-treasures.json](./396525-toilet-treasures.json) |
@@ -27270,6 +27273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toxin the Game | 114984 | [114984-toxin-the-game.json](./114984-toxin-the-game.json) |
 | Toxoplasma | 385339 | [385339-toxoplasma.json](./385339-toxoplasma.json) |
 | Toxtli & The Moon Jar | 349834 | [349834-toxtli-and-the-moon-jar.json](./349834-toxtli-and-the-moon-jar.json) |
+| Toy Army Men: Defense | 196348 | [196348-toy-army-men-defense.json](./196348-toy-army-men-defense.json) |
 | Toy Attack | 96915 | [96915-toy-attack.json](./96915-toy-attack.json) |
 | Toy Bizarre | 24685 | [24685-toy-bizarre.json](./24685-toy-bizarre.json) |
 | Toy Blast | 54986 | [54986-toy-blast.json](./54986-toy-blast.json) |
@@ -27604,6 +27608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trading Simulator | 290421 | [290421-trading-simulator.json](./290421-trading-simulator.json) |
 | Trading Towns | 297880 | [297880-trading-towns.json](./297880-trading-towns.json) |
 | TradingLife | 392961 | [392961-tradinglife.json](./392961-tradinglife.json) |
+| Traditional Braves | 196362 | [196362-traditional-braves.json](./196362-traditional-braves.json) |
 | Traditional Braves with Sess-AI 2.0 | 387668 | [387668-traditional-braves-with-sess-ai-2-0.json](./387668-traditional-braves-with-sess-ai-2-0.json) |
 | Traditional Chinese Medicine Simulator | 368720 | [368720-traditional-chinese-medicine-simulator.json](./368720-traditional-chinese-medicine-simulator.json) |
 | Traditional Story | 241460 | [241460-traditional-story.json](./241460-traditional-story.json) |
@@ -29974,6 +29979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traumada | 199363 | [199363-traumada.json](./199363-traumada.json) |
 | Traumakt-4.Sexe | 252035 | [252035-traumakt-4-sexe.json](./252035-traumakt-4-sexe.json) |
 | Traumata | 423395 | [423395-traumata.json](./423395-traumata.json) |
+| Traumatarium | 196366 | [196366-traumatarium.json](./196366-traumatarium.json) |
 | Traumatarium | 268457 | [268457-traumatarium.json](./268457-traumatarium.json) |
 | Traumatarium: Penitent | 307745 | [307745-traumatarium-penitent.json](./307745-traumatarium-penitent.json) |
 | Traumatic Syndrome | 132547 | [132547-traumatic-syndrome.json](./132547-traumatic-syndrome.json) |
@@ -30516,6 +30522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trial of the Gods: Siralim CCG | 133195 | [133195-trial-of-the-gods-siralim-ccg.json](./133195-trial-of-the-gods-siralim-ccg.json) |
 | Trial of the Tower God | 185290 | [185290-trial-of-the-tower-god.json](./185290-trial-of-the-tower-god.json) |
 | Trial of the Towers | 116763 | [116763-trial-of-the-towers.json](./116763-trial-of-the-towers.json) |
+| Trial of Titans | 196387 | [196387-trial-of-titans.json](./196387-trial-of-titans.json) |
 | Trial of Two | 152452 | [152452-trial-of-two.json](./152452-trial-of-two.json) |
 | Trial Takedown | 349798 | [349798-trial-takedown.json](./349798-trial-takedown.json) |
 | Trial Traction | 304852 | [304852-trial-traction.json](./304852-trial-traction.json) |
