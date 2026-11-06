@@ -553,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider: Seigi no Keifu | 61914 | [61914-kamen-rider-seigi-no-keifu.json](./61914-kamen-rider-seigi-no-keifu.json) |
 | Kamen Rider: Super Climax Heroes | 62705 | [62705-kamen-rider-super-climax-heroes.json](./62705-kamen-rider-super-climax-heroes.json) |
 | Kamen Rider: Travelers Senki | 61920 | [61920-kamen-rider-travelers-senki.json](./61920-kamen-rider-travelers-senki.json) |
+| Kamen Ridertchi | 230074 | [230074-kamen-ridertchi.json](./230074-kamen-ridertchi.json) |
 | Kameo 2 | 279663 | [279663-kameo-2.json](./279663-kameo-2.json) |
 | Kameo: Elements of Power | 7029 | [7029-kameo-elements-of-power.json](./7029-kameo-elements-of-power.json) |
 | Kamer | 129567 | [129567-kamer.json](./129567-kamer.json) |
@@ -1649,6 +1650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keiyaku Kanojo: Shinmai Kanojo to Hajimeru, Tottemo H de Pure na Renai Lesson | 409799 | [409799-keiyaku-kanojo-shinmai-kanojo-to-hajimeru-tottemo-h-de-pure-na-renai-lesson.json](./409799-keiyaku-kanojo-shinmai-kanojo-to-hajimeru-tottemo-h-de-pure-na-renai-lesson.json) |
 | Keizudo | 169395 | [169395-keizudo.json](./169395-keizudo.json) |
 | Kekcroc | 270241 | [270241-kekcroc.json](./270241-kekcroc.json) |
+| Kekcroc Forever | 230097 | [230097-kekcroc-forever.json](./230097-kekcroc-forever.json) |
 | Kekcroc's Pizza Delivery | 233128 | [233128-kekcrocs-pizza-delivery.json](./233128-kekcrocs-pizza-delivery.json) |
 | Keke in the Caves of Peril | 230262 | [230262-keke-in-the-caves-of-peril.json](./230262-keke-in-the-caves-of-peril.json) |
 | Keke Love Challenge | 105722 | [105722-keke-love-challenge.json](./105722-keke-love-challenge.json) |
@@ -2798,6 +2800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
