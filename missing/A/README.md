@@ -744,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Long Stroll | 126775 | [126775-a-long-stroll.json](./126775-a-long-stroll.json) |
 | A long Time | 158358 | [158358-a-long-time.json](./158358-a-long-time.json) |
 | A Long Time | 384292 | [384292-a-long-time.json](./384292-a-long-time.json) |
+| A Long Time Ago | 214238 | [214238-a-long-time-ago.json](./214238-a-long-time-ago.json) |
 | A Long Walk Home | 278325 | [278325-a-long-walk-home.json](./278325-a-long-walk-home.json) |
 | A Long Walk Home | 340859 | [340859-a-long-walk-home.json](./340859-a-long-walk-home.json) |
 | A Long Walk Home | 362232 | [362232-a-long-walk-home.json](./362232-a-long-walk-home.json) |
@@ -1927,6 +1928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abermore | 191621 | [191621-abermore.json](./191621-abermore.json) |
 | Aberrant Domain: Fog City | 420951 | [420951-aberrant-domain-fog-city.json](./420951-aberrant-domain-fog-city.json) |
 | Aberrant Nights | 304671 | [304671-aberrant-nights.json](./304671-aberrant-nights.json) |
+| Aberrant Rift | 214241 | [214241-aberrant-rift.json](./214241-aberrant-rift.json) |
 | Aberrate Inc. | 377431 | [377431-aberrate-inc.json](./377431-aberrate-inc.json) |
 | Aberration | 187259 | [187259-aberration.json](./187259-aberration.json) |
 | Aberration Analyst | 167393 | [167393-aberration-analyst.json](./167393-aberration-analyst.json) |
@@ -2858,6 +2860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across the Distant Skies | 337844 | [337844-across-the-distant-skies.json](./337844-across-the-distant-skies.json) |
 | Across the Galaxy: Infinite War | 216780 | [216780-across-the-galaxy-infinite-war.json](./216780-across-the-galaxy-infinite-war.json) |
 | Across the Galaxy: Stellar Dominator | 171500 | [171500-across-the-galaxy-stellar-dominator.json](./171500-across-the-galaxy-stellar-dominator.json) |
+| Across the Globe | 214243 | [214243-across-the-globe.json](./214243-across-the-globe.json) |
 | Across the Grooves | 121711 | [121711-across-the-grooves.json](./121711-across-the-grooves.json) |
 | Across the Moment | 29077 | [29077-across-the-moment.json](./29077-across-the-moment.json) |
 | Across the Obelisk: Bernard, the Alchemist | 357777 | [357777-across-the-obelisk-bernard-the-alchemist.json](./357777-across-the-obelisk-bernard-the-alchemist.json) |
@@ -16577,7 +16580,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
