@@ -3179,6 +3179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump City | 142087 | [142087-jump-city.json](./142087-jump-city.json) |
 | Jump Coaster | 40051 | [40051-jump-coaster.json](./40051-jump-coaster.json) |
 | Jump Dash | 131838 | [131838-jump-dash.json](./131838-jump-dash.json) |
+| Jump Dash Soar | 228226 | [228226-jump-dash-soar.json](./228226-jump-dash-soar.json) |
 | Jump de Pon | 235550 | [235550-jump-de-pon.json](./235550-jump-de-pon.json) |
 | Jump Doll Super | 175562 | [175562-jump-doll-super.json](./175562-jump-doll-super.json) |
 | Jump Doper | 114863 | [114863-jump-doper.json](./114863-jump-doper.json) |
