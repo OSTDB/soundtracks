@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daggerhood | 115426 | [115426-daggerhood.json](./115426-daggerhood.json) |
 | Daggers Cavern | 308469 | [308469-daggers-cavern.json](./308469-daggers-cavern.json) |
 | Dagon | 157176 | [157176-dagon.json](./157176-dagon.json) |
+| Dagon Ball Super: Lost Episode | 231690 | [231690-dagon-ball-super-lost-episode.json](./231690-dagon-ball-super-lost-episode.json) |
 | Dagon: The Little Glass Bottle | 234512 | [234512-dagon-the-little-glass-bottle.json](./234512-dagon-the-little-glass-bottle.json) |
 | Dagon: The Railway Horror | 266823 | [266823-dagon-the-railway-horror.json](./266823-dagon-the-railway-horror.json) |
 | Daguri: Gambling Apocalypse | 208657 | [208657-daguri-gambling-apocalypse.json](./208657-daguri-gambling-apocalypse.json) |
@@ -2973,6 +2974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daymare Town Complete Collection | 27237 | [27237-daymare-town-complete-collection.json](./27237-daymare-town-complete-collection.json) |
 | Daymare: 1994 Sandcastle - Limited Edition | 277376 | [277376-daymare-1994-sandcastle-limited-edition.json](./277376-daymare-1994-sandcastle-limited-edition.json) |
 | Days After | 169990 | [169990-days-after.json](./169990-days-after.json) |
+| Days Before the Festival | 231709 | [231709-days-before-the-festival.json](./231709-days-before-the-festival.json) |
 | Days End | 255495 | [255495-days-end.json](./255495-days-end.json) |
 | Days End: Becoming Blackbird | 256743 | [256743-days-end-becoming-blackbird.json](./256743-days-end-becoming-blackbird.json) |
 | Days Gone By | 127102 | [127102-days-gone-by.json](./127102-days-gone-by.json) |
@@ -10172,6 +10174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgraced: Western Warfare Pack | 249391 | [249391-disgraced-western-warfare-pack.json](./249391-disgraced-western-warfare-pack.json) |
 | Disguised Blessing | 332991 | [332991-disguised-blessing.json](./332991-disguised-blessing.json) |
 | Disguiser | 375215 | [375215-disguiser.json](./375215-disguiser.json) |
+| Disgusting Puzzle | 231676 | [231676-disgusting-puzzle.json](./231676-disgusting-puzzle.json) |
 | Disgusting Puzzle 2 | 232941 | [232941-disgusting-puzzle-2.json](./232941-disgusting-puzzle-2.json) |
 | Dish Puzzle | 300759 | [300759-dish-puzzle.json](./300759-dish-puzzle.json) |
 | Dish Puzzle For Toddlers | 102610 | [102610-dish-puzzle-for-toddlers.json](./102610-dish-puzzle-for-toddlers.json) |
