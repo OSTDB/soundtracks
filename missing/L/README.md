@@ -2119,6 +2119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Empires | 224161 | [224161-league-of-empires.json](./224161-league-of-empires.json) |
 | League of Enthusiastic Losers | 157216 | [157216-league-of-enthusiastic-losers.json](./157216-league-of-enthusiastic-losers.json) |
 | League of Enthusiastic Losers + Brawl Chess | 228942 | [228942-league-of-enthusiastic-losers-brawl-chess.json](./228942-league-of-enthusiastic-losers-brawl-chess.json) |
+| League of Enthusiastic Losers + Cyber Protocol | 228846 | [228846-league-of-enthusiastic-losers-cyber-protocol.json](./228846-league-of-enthusiastic-losers-cyber-protocol.json) |
 | League of Enthusiastic Losers: Complete Edition | 249558 | [249558-league-of-enthusiastic-losers-complete-edition.json](./249558-league-of-enthusiastic-losers-complete-edition.json) |
 | League of Enthusiastic Losers: Definitive Edition | 246645 | [246645-league-of-enthusiastic-losers-definitive-edition.json](./246645-league-of-enthusiastic-losers-definitive-edition.json) |
 | League of Enthusiastic Losers: Deluxe Edition | 222189 | [222189-league-of-enthusiastic-losers-deluxe-edition.json](./222189-league-of-enthusiastic-losers-deluxe-edition.json) |
@@ -7859,6 +7860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Bus | 376769 | [376769-lost-bus.json](./376769-lost-bus.json) |
 | Lost but Lucid | 213549 | [213549-lost-but-lucid.json](./213549-lost-but-lucid.json) |
 | Lost Call | 392195 | [392195-lost-call.json](./392195-lost-call.json) |
+| Lost Cartridge: Cold Read | 228835 | [228835-lost-cartridge-cold-read.json](./228835-lost-cartridge-cold-read.json) |
 | Lost Case: Monster Girl Takeover | 140578 | [140578-lost-case-monster-girl-takeover.json](./140578-lost-case-monster-girl-takeover.json) |
 | Lost Castle 2 | 263225 | [263225-lost-castle-2.json](./263225-lost-castle-2.json) |
 | Lost Castle: The Old Ones Awaken | 168060 | [168060-lost-castle-the-old-ones-awaken.json](./168060-lost-castle-the-old-ones-awaken.json) |
