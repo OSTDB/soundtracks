@@ -17392,6 +17392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ducky Dan | 94212 | [94212-ducky-dan.json](./94212-ducky-dan.json) |
 | Ducky Dash | 320761 | [320761-ducky-dash.json](./320761-ducky-dash.json) |
 | Ducky Dive | 232579 | [232579-ducky-dive.json](./232579-ducky-dive.json) |
+| Ducky Quacky | 222108 | [222108-ducky-quacky.json](./222108-ducky-quacky.json) |
 | Ducky Runners | 339574 | [339574-ducky-runners.json](./339574-ducky-runners.json) |
 | Ducky Sokoban | 185314 | [185314-ducky-sokoban.json](./185314-ducky-sokoban.json) |
 | Ducky: The Brave | 313577 | [313577-ducky-the-brave.json](./313577-ducky-the-brave.json) |
