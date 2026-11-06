@@ -6629,6 +6629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Hunter: The End of the Magic World | 283218 | [283218-wizard-hunter-the-end-of-the-magic-world.json](./283218-wizard-hunter-the-end-of-the-magic-world.json) |
 | Wizard King | 29840 | [29840-wizard-king.json](./29840-wizard-king.json) |
 | Wizard Lady | 248929 | [248929-wizard-lady.json](./248929-wizard-lady.json) |
+| Wizard Land | 205842 | [205842-wizard-land.json](./205842-wizard-land.json) |
 | Wizard Magic | 406272 | [406272-wizard-magic.json](./406272-wizard-magic.json) |
 | Wizard Man | 211927 | [211927-wizard-man.json](./211927-wizard-man.json) |
 | Wizard Mike | 195484 | [195484-wizard-mike.json](./195484-wizard-mike.json) |
@@ -8321,6 +8322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Process | 156600 | [156600-world-process.json](./156600-world-process.json) |
 | World Quest | 265764 | [265764-world-quest.json](./265764-world-quest.json) |
 | World Quiz | 153018 | [153018-world-quiz.json](./153018-world-quiz.json) |
+| World Racing | 205843 | [205843-world-racing.json](./205843-world-racing.json) |
 | World Racing '95 | 147430 | [147430-world-racing-95.json](./147430-world-racing-95.json) |
 | World Racing 2 | 20559 | [20559-world-racing-2.json](./20559-world-racing-2.json) |
 | World Racing 2: Champion Edition | 231399 | [231399-world-racing-2-champion-edition.json](./231399-world-racing-2-champion-edition.json) |
