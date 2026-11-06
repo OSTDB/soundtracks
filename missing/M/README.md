@@ -4940,6 +4940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass | 178447 | [178447-mass.json](./178447-mass.json) |
 | Mass Brawl | 256354 | [256354-mass-brawl.json](./256354-mass-brawl.json) |
 | Mass Conflict: Ignition | 309458 | [309458-mass-conflict-ignition.json](./309458-mass-conflict-ignition.json) |
+| Mass Creation Double Action Bundle | 223743 | [223743-mass-creation-double-action-bundle.json](./223743-mass-creation-double-action-bundle.json) |
 | Mass Destruction | 2613 | [2613-mass-destruction.json](./2613-mass-destruction.json) |
 | Mass Effect | 243928 | [243928-mass-effect.json](./243928-mass-effect.json) |
 | Mass Effect 2: Arrival | 13794 | [13794-mass-effect-2-arrival.json](./13794-mass-effect-2-arrival.json) |
@@ -5883,6 +5884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -13711,6 +13713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Attack | 42136 | [42136-mission-attack.json](./42136-mission-attack.json) |
 | Mission Biotech | 159792 | [159792-mission-biotech.json](./159792-mission-biotech.json) |
 | Mission Bravo | 295040 | [295040-mission-bravo.json](./295040-mission-bravo.json) |
+| Mission Commando | 223744 | [223744-mission-commando.json](./223744-mission-commando.json) |
 | Mission Control: NanoMech | 28585 | [28585-mission-control-nanomech.json](./28585-mission-control-nanomech.json) |
 | Mission Craft | 283402 | [283402-mission-craft.json](./283402-mission-craft.json) |
 | Mission Critical | 791 | [791-mission-critical.json](./791-mission-critical.json) |
@@ -18991,6 +18994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiverse Loot Hunter | 292586 | [292586-multiverse-loot-hunter.json](./292586-multiverse-loot-hunter.json) |
 | Multiverse Loot Hunter: Three Kingdoms | 320820 | [320820-multiverse-loot-hunter-three-kingdoms.json](./320820-multiverse-loot-hunter-three-kingdoms.json) |
 | Multiverse Racer | 185509 | [185509-multiverse-racer.json](./185509-multiverse-racer.json) |
+| Multiversepool | 223745 | [223745-multiversepool.json](./223745-multiversepool.json) |
 | MultiVersus: Founder's Pack - Deluxe Edition | 212309 | [212309-multiversus-founders-pack-deluxe-edition.json](./212309-multiversus-founders-pack-deluxe-edition.json) |
 | MultiVersus: Founder's Pack - Premium Edition | 212308 | [212308-multiversus-founders-pack-premium-edition.json](./212308-multiversus-founders-pack-premium-edition.json) |
 | MultiVersus: Founder's Pack - Standard Edition | 212307 | [212307-multiversus-founders-pack-standard-edition.json](./212307-multiversus-founders-pack-standard-edition.json) |
