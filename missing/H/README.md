@@ -387,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakkenkast | 311673 | [311673-hakkenkast.json](./311673-hakkenkast.json) |
 | Hako | 22468 | [22468-hako.json](./22468-hako.json) |
 | Hako Maze | 409686 | [409686-hako-maze.json](./409686-hako-maze.json) |
+| Hako no Naka | 218803 | [218803-hako-no-naka.json](./218803-hako-no-naka.json) |
 | Hako Tower | 393535 | [393535-hako-tower.json](./393535-hako-tower.json) |
 | HakoBoy! Hakozume Box | 81428 | [81428-hakoboy-hakozume-box.json](./81428-hakoboy-hakozume-box.json) |
 | Hakobune Kibau | 409336 | [409336-hakobune-kibau.json](./409336-hakobune-kibau.json) |
@@ -5926,6 +5927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero's Fever Dream | 255558 | [255558-heros-fever-dream.json](./255558-heros-fever-dream.json) |
 | Hero's Guild | 423304 | [423304-heros-guild.json](./423304-heros-guild.json) |
 | Hero's Hand | 335866 | [335866-heros-hand.json](./335866-heros-hand.json) |
+| Hero's Harem Guild | 218794 | [218794-heros-harem-guild.json](./218794-heros-harem-guild.json) |
 | Hero's Heart | 50485 | [50485-heros-heart.json](./50485-heros-heart.json) |
 | Hero's Hour 2 | 381190 | [381190-heros-hour-2.json](./381190-heros-hour-2.json) |
 | Hero's Hour: Deluxe Edition | 251551 | [251551-heros-hour-deluxe-edition.json](./251551-heros-hour-deluxe-edition.json) |
