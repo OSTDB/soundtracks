@@ -1658,6 +1658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Kingdom | 42317 | [42317-dark-kingdom.json](./42317-dark-kingdom.json) |
 | Dark Labyrinth | 348165 | [348165-dark-labyrinth.json](./348165-dark-labyrinth.json) |
 | Dark Lady | 368713 | [368713-dark-lady.json](./368713-dark-lady.json) |
+| Dark Lands | 213707 | [213707-dark-lands.json](./213707-dark-lands.json) |
 | Dark Law: Meaning of Death | 15898 | [15898-dark-law-meaning-of-death.json](./15898-dark-law-meaning-of-death.json) |
 | Dark Laws | 279134 | [279134-dark-laws.json](./279134-dark-laws.json) |
 | Dark Leaches | 403792 | [403792-dark-leaches.json](./403792-dark-leaches.json) |
@@ -2645,6 +2646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dating Under the Comet | 345595 | [345595-dating-under-the-comet.json](./345595-dating-under-the-comet.json) |
 | Dato of Srivijaya | 156679 | [156679-dato-of-srivijaya.json](./156679-dato-of-srivijaya.json) |
 | Dàtóu Zhūluójì | 158556 | [158556-datou-zhuluoji.json](./158556-datou-zhuluoji.json) |
+| Datsugoku Gokko | 213695 | [213695-datsugoku-gokko.json](./213695-datsugoku-gokko.json) |
 | Datswer | 35820 | [35820-datswer.json](./35820-datswer.json) |
 | Datura | 14527 | [14527-datura.json](./14527-datura.json) |
 | Datura Time | 219143 | [219143-datura-time.json](./219143-datura-time.json) |
