@@ -3880,6 +3880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeris | 288745 | [288745-aeris.json](./288745-aeris.json) |
 | Aeris & Zack | 157134 | [157134-aeris-and-zack.json](./157134-aeris-and-zack.json) |
 | Aero Battle | 158892 | [158892-aero-battle.json](./158892-aero-battle.json) |
+| Aero Chimera | 241759 | [241759-aero-chimera.json](./241759-aero-chimera.json) |
 | Aero Cosmos | 335094 | [335094-aero-cosmos.json](./335094-aero-cosmos.json) |
 | Aero Dancing F: Todoroki Tsubasa no Hatsu Hikou | 267381 | [267381-aero-dancing-f-todoroki-tsubasa-no-hatsu-hikou.json](./267381-aero-dancing-f-todoroki-tsubasa-no-hatsu-hikou.json) |
 | Aero Dancing I | 267380 | [267380-aero-dancing-i.json](./267380-aero-dancing-i.json) |
@@ -5449,6 +5450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airborne Motocross | 196639 | [196639-airborne-motocross.json](./196639-airborne-motocross.json) |
 | Airborne Ranger | 11891 | [11891-airborne-ranger.json](./11891-airborne-ranger.json) |
 | Airborne Ranger: FightOut | 340838 | [340838-airborne-ranger-fightout.json](./340838-airborne-ranger-fightout.json) |
+| AirBorne Sea | 241746 | [241746-airborne-sea.json](./241746-airborne-sea.json) |
 | Airborne Troops: Countdown to D-Day | 27451 | [27451-airborne-troops-countdown-to-d-day.json](./27451-airborne-troops-countdown-to-d-day.json) |
 | Airborne! | 95457 | [95457-airborne.json](./95457-airborne.json) |
 | Airbreak | 316035 | [316035-airbreak.json](./316035-airbreak.json) |
@@ -16439,7 +16441,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -17737,6 +17738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awaken | 183954 | [183954-awaken.json](./183954-awaken.json) |
 | Awaken | 227693 | [227693-awaken.json](./227693-awaken.json) |
 | Awaken | 27276 | [27276-awaken.json](./27276-awaken.json) |
+| Awaken Alone | 241750 | [241750-awaken-alone.json](./241750-awaken-alone.json) |
 | Awaken in Fear | 414439 | [414439-awaken-in-fear.json](./414439-awaken-in-fear.json) |
 | Awaken Infinity | 319841 | [319841-awaken-infinity.json](./319841-awaken-infinity.json) |
 | Awaken the Time | 132236 | [132236-awaken-the-time.json](./132236-awaken-the-time.json) |
@@ -17872,6 +17874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AX-1: Arabian Rhapsody | 91462 | [91462-ax-1-arabian-rhapsody.json](./91462-ax-1-arabian-rhapsody.json) |
 | AX-10: Outlaw | 91459 | [91459-ax-10-outlaw.json](./91459-ax-10-outlaw.json) |
 | AX-2: Uchuu Yusousen Nostromo | 91513 | [91513-ax-2-uchuu-yusousen-nostromo.json](./91513-ax-2-uchuu-yusousen-nostromo.json) |
+| AX-5: Orion / Quest | 241757 | [241757-ax-5-orion-quest.json](./241757-ax-5-orion-quest.json) |
 | AX-6: Powered Knight | 80218 | [80218-ax-6-powered-knight.json](./80218-ax-6-powered-knight.json) |
 | AX-7: Police & Gangster | 91461 | [91461-ax-7-police-and-gangster.json](./91461-ax-7-police-and-gangster.json) |
 | AX-8: Galaxy Mission | 91460 | [91460-ax-8-galaxy-mission.json](./91460-ax-8-galaxy-mission.json) |
