@@ -5134,6 +5134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rent-A-Hero No. 1 | 6002 | [6002-rent-a-hero-no-1.json](./6002-rent-a-hero-no-1.json) |
 | Rent-a-Vice | 100579 | [100579-rent-a-vice.json](./100579-rent-a-vice.json) |
 | Rental | 225523 | [225523-rental.json](./225523-rental.json) |
+| Rental Chan | 228823 | [228823-rental-chan.json](./228823-rental-chan.json) |
 | Rental Commander | 292955 | [292955-rental-commander.json](./292955-rental-commander.json) |
 | Rental House | 313336 | [313336-rental-house.json](./313336-rental-house.json) |
 | Rental Store Simulator | 326362 | [326362-rental-store-simulator.json](./326362-rental-store-simulator.json) |
@@ -12435,6 +12436,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Song | 251934 | [251934-rune-song.json](./251934-rune-song.json) |
 | Rune Stones | 304656 | [304656-rune-stones.json](./304656-rune-stones.json) |
 | Rune Sword | 175676 | [175676-rune-sword.json](./175676-rune-sword.json) |
+| Rune Tales : Underground | 228838 | [228838-rune-tales-underground.json](./228838-rune-tales-underground.json) |
+| Rune Tales: The Citadel | 228828 | [228828-rune-tales-the-citadel.json](./228828-rune-tales-the-citadel.json) |
 | Rune Tavern | 407341 | [407341-rune-tavern.json](./407341-rune-tavern.json) |
 | Rune Teller | 209731 | [209731-rune-teller.json](./209731-rune-teller.json) |
 | Rune the First Wanderer | 137909 | [137909-rune-the-first-wanderer.json](./137909-rune-the-first-wanderer.json) |
@@ -12603,6 +12606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Out of Spice | 179143 | [179143-running-out-of-spice.json](./179143-running-out-of-spice.json) |
 | Running Over Zombies | 204943 | [204943-running-over-zombies.json](./204943-running-over-zombies.json) |
 | Running Pet | 296638 | [296638-running-pet.json](./296638-running-pet.json) |
+| Running Pops | 228837 | [228837-running-pops.json](./228837-running-pops.json) |
 | Running Rich Racing | 234014 | [234014-running-rich-racing.json](./234014-running-rich-racing.json) |
 | Running Riot | 240743 | [240743-running-riot.json](./240743-running-riot.json) |
 | Running Robot Man 4 | 235534 | [235534-running-robot-man-4.json](./235534-running-robot-man-4.json) |
