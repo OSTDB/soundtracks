@@ -1874,6 +1874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Para: Rime of Zealot | 278900 | [278900-para-rime-of-zealot.json](./278900-para-rime-of-zealot.json) |
 | Para//ax | 186170 | [186170-para-ax.json](./186170-para-ax.json) |
 | Para//Llax | 413226 | [413226-para-llax.json](./413226-para-llax.json) |
+| Parabellum | 199712 | [199712-parabellum.json](./199712-parabellum.json) |
 | Parabellum Galaxia | 204158 | [204158-parabellum-galaxia.json](./204158-parabellum-galaxia.json) |
 | Parabellum: Artifacts of War | 400701 | [400701-parabellum-artifacts-of-war.json](./400701-parabellum-artifacts-of-war.json) |
 | Parable Academy | 346708 | [346708-parable-academy.json](./346708-parable-academy.json) |
@@ -3993,6 +3994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin | 287541 | [287541-penguin.json](./287541-penguin.json) |
 | Penguin | 345635 | [345635-penguin.json](./345635-penguin.json) |
 | Penguin | 393624 | [393624-penguin.json](./393624-penguin.json) |
+| Penguin Adventure | 199708 | [199708-penguin-adventure.json](./199708-penguin-adventure.json) |
 | Penguin Adventure | 37065 | [37065-penguin-adventure.json](./37065-penguin-adventure.json) |
 | Penguin Armada | 259650 | [259650-penguin-armada.json](./259650-penguin-armada.json) |
 | Penguin Ascension | 386903 | [386903-penguin-ascension.json](./386903-penguin-ascension.json) |
@@ -4271,6 +4273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pequeno Eu | 290082 | [290082-pequeno-eu.json](./290082-pequeno-eu.json) |
 | Pequod | 126449 | [126449-pequod.json](./126449-pequod.json) |
 | Per Aspera Test | 289441 | [289441-per-aspera-test.json](./289441-per-aspera-test.json) |
+| Per Aspera: Blue Mars | 199669 | [199669-per-aspera-blue-mars.json](./199669-per-aspera-blue-mars.json) |
 | Per Aspera: Buildings Paint Pack | 227011 | [227011-per-aspera-buildings-paint-pack.json](./227011-per-aspera-buildings-paint-pack.json) |
 | Per Aspera: Deluxe Edition | 154545 | [154545-per-aspera-deluxe-edition.json](./154545-per-aspera-deluxe-edition.json) |
 | Per Aspera: Green Mars | 196114 | [196114-per-aspera-green-mars.json](./196114-per-aspera-green-mars.json) |
@@ -10138,6 +10141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plunder & Pillage | 159212 | [159212-plunder-and-pillage.json](./159212-plunder-and-pillage.json) |
 | Plunder Ball | 275838 | [275838-plunder-ball.json](./275838-plunder-ball.json) |
 | Plunder Defense | 290198 | [290198-plunder-defense.json](./290198-plunder-defense.json) |
+| Plunder Dungeons | 199710 | [199710-plunder-dungeons.json](./199710-plunder-dungeons.json) |
 | Plunder Islands | 239486 | [239486-plunder-islands.json](./239486-plunder-islands.json) |
 | Plunder Kings | 114149 | [114149-plunder-kings.json](./114149-plunder-kings.json) |
 | Plunder Masters | 250789 | [250789-plunder-masters.json](./250789-plunder-masters.json) |
