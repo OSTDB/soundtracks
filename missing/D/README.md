@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dab's Not Dead | 158857 | [158857-dabs-not-dead.json](./158857-dabs-not-dead.json) |
 | Dabado | 109431 | [109431-dabado.json](./109431-dabado.json) |
 | Dabado Puzzles | 154093 | [154093-dabado-puzzles.json](./154093-dabado-puzzles.json) |
+| Dabble Worlds | 214829 | [214829-dabble-worlds.json](./214829-dabble-worlds.json) |
 | Dabble: A Fast Paced Word Game | 99716 | [99716-dabble-a-fast-paced-word-game.json](./99716-dabble-a-fast-paced-word-game.json) |
 | Dabda | 90615 | [90615-dabda.json](./90615-dabda.json) |
 | Dabman: Dabtastic Bundle | 112793 | [112793-dabman-dabtastic-bundle.json](./112793-dabman-dabtastic-bundle.json) |
@@ -3597,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Island 2: Character Pack - Silver Star Jacob | 304457 | [304457-dead-island-2-character-pack-silver-star-jacob.json](./304457-dead-island-2-character-pack-silver-star-jacob.json) |
 | Dead Island 2: Character Pack - Steel Horse Carla | 304452 | [304452-dead-island-2-character-pack-steel-horse-carla.json](./304452-dead-island-2-character-pack-steel-horse-carla.json) |
 | Dead Island 2: Character Pack - Venice Vogue Bruno | 304453 | [304453-dead-island-2-character-pack-venice-vogue-bruno.json](./304453-dead-island-2-character-pack-venice-vogue-bruno.json) |
+| Dead Island 2: Day One Edition | 214853 | [214853-dead-island-2-day-one-edition.json](./214853-dead-island-2-day-one-edition.json) |
 | Dead Island 2: Deluxe Edition | 214473 | [214473-dead-island-2-deluxe-edition.json](./214473-dead-island-2-deluxe-edition.json) |
 | Dead Island 2: Expansion Pass | 304449 | [304449-dead-island-2-expansion-pass.json](./304449-dead-island-2-expansion-pass.json) |
 | Dead Island 2: Gold Edition | 214472 | [214472-dead-island-2-gold-edition.json](./214472-dead-island-2-gold-edition.json) |
@@ -5160,6 +5162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Chalk: First Phase | 404081 | [404081-deep-chalk-first-phase.json](./404081-deep-chalk-first-phase.json) |
 | Deep Chalk: Second Phase | 404175 | [404175-deep-chalk-second-phase.json](./404175-deep-chalk-second-phase.json) |
 | Deep Chalk: Third Phase | 404191 | [404191-deep-chalk-third-phase.json](./404191-deep-chalk-third-phase.json) |
+| Deep City | 214857 | [214857-deep-city.json](./214857-deep-city.json) |
 | Deep City 2030 | 110234 | [110234-deep-city-2030.json](./110234-deep-city-2030.json) |
 | Deep Collision | 359283 | [359283-deep-collision.json](./359283-deep-collision.json) |
 | Deep Combat | 385933 | [385933-deep-combat.json](./385933-deep-combat.json) |
@@ -12053,6 +12056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domefender | 410927 | [410927-domefender.json](./410927-domefender.json) |
 | Domenation | 277858 | [277858-domenation.json](./277858-domenation.json) |
 | DomenyX Generations | 222744 | [222744-domenyx-generations.json](./222744-domenyx-generations.json) |
+| DomenyX vs. Coronavirus | 214869 | [214869-domenyx-vs-coronavirus.json](./214869-domenyx-vs-coronavirus.json) |
 | Domestic | 351983 | [351983-domestic.json](./351983-domestic.json) |
 | Domestic Defense | 158113 | [158113-domestic-defense.json](./158113-domestic-defense.json) |
 | Domestic Dog | 36006 | [36006-domestic-dog.json](./36006-domestic-dog.json) |
