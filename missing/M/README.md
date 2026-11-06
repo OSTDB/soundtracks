@@ -5943,7 +5943,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -11951,6 +11950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimic Warehouse | 346649 | [346649-mimic-warehouse.json](./346649-mimic-warehouse.json) |
 | MimiCries | 265324 | [265324-mimicries.json](./265324-mimicries.json) |
 | Mimicry | 166825 | [166825-mimicry.json](./166825-mimicry.json) |
+| Mimicry | 194053 | [194053-mimicry.json](./194053-mimicry.json) |
 | Mimicry | 342757 | [342757-mimicry.json](./342757-mimicry.json) |
 | Mimicry Man | 61570 | [61570-mimicry-man.json](./61570-mimicry-man.json) |
 | Mimicry! | 376827 | [376827-mimicry.json](./376827-mimicry.json) |
@@ -13629,6 +13629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misgiven | 258040 | [258040-misgiven.json](./258040-misgiven.json) |
 | Misguidead | 244586 | [244586-misguidead.json](./244586-misguidead.json) |
 | Misguided Remastered | 392322 | [392322-misguided-remastered.json](./392322-misguided-remastered.json) |
+| Misguided: Never Back Home | 194083 | [194083-misguided-never-back-home.json](./194083-misguided-never-back-home.json) |
 | Misha | 371009 | [371009-misha.json](./371009-misha.json) |
 | Misha | 414031 | [414031-misha.json](./414031-misha.json) |
 | Mishap 2: An Intentional Haunting - Collector's Edition | 54238 | [54238-mishap-2-an-intentional-haunting-collectors-edition.json](./54238-mishap-2-an-intentional-haunting-collectors-edition.json) |
@@ -14485,6 +14486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Gundam vs. Gundam Next | 75696 | [75696-mobile-suit-gundam-gundam-vs-gundam-next.json](./75696-mobile-suit-gundam-gundam-vs-gundam-next.json) |
 | Mobile Suit Gundam: Gundam vs. Gundam Next Plus | 75697 | [75697-mobile-suit-gundam-gundam-vs-gundam-next-plus.json](./75697-mobile-suit-gundam-gundam-vs-gundam-next-plus.json) |
 | Mobile Suit Gundam: Gundam vs. Zeta Gundam | 3964 | [3964-mobile-suit-gundam-gundam-vs-zeta-gundam.json](./3964-mobile-suit-gundam-gundam-vs-zeta-gundam.json) |
+| Mobile Suit Gundam: Iron-Blooded Orphans G | 194096 | [194096-mobile-suit-gundam-iron-blooded-orphans-g.json](./194096-mobile-suit-gundam-iron-blooded-orphans-g.json) |
 | Mobile Suit Gundam: Iron-Blooded Orphans Urd's Hunt | 113627 | [113627-mobile-suit-gundam-iron-blooded-orphans-urds-hunt.json](./113627-mobile-suit-gundam-iron-blooded-orphans-urds-hunt.json) |
 | Mobile Suit Gundam: Journey to Jaburo | 43461 | [43461-mobile-suit-gundam-journey-to-jaburo.json](./43461-mobile-suit-gundam-journey-to-jaburo.json) |
 | Mobile Suit Gundam: Last Shooting | 69763 | [69763-mobile-suit-gundam-last-shooting.json](./69763-mobile-suit-gundam-last-shooting.json) |
@@ -19183,6 +19185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mummification | 243063 | [243063-mummification.json](./243063-mummification.json) |
 | Mummmaster! | 150769 | [150769-mummmaster.json](./150769-mummmaster.json) |
 | Mummy Candies | 148857 | [148857-mummy-candies.json](./148857-mummy-candies.json) |
+| Mummy Hunter | 194088 | [194088-mummy-hunter.json](./194088-mummy-hunter.json) |
 | Mummy Madness | 185702 | [185702-mummy-madness.json](./185702-mummy-madness.json) |
 | Mummy Maze Deluxe | 62007 | [62007-mummy-maze-deluxe.json](./62007-mummy-maze-deluxe.json) |
 | Mummy on the run | 107687 | [107687-mummy-on-the-run.json](./107687-mummy-on-the-run.json) |
@@ -20596,6 +20599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero's One Justice 2: Itsuka Kendo Cheerleader Costume | 333233 | [333233-my-heros-one-justice-2-itsuka-kendo-cheerleader-costume.json](./333233-my-heros-one-justice-2-itsuka-kendo-cheerleader-costume.json) |
 | My Heroes | 188341 | [188341-my-heroes.json](./188341-my-heroes.json) |
 | My Heroes Ability | 399393 | [399393-my-heroes-ability.json](./399393-my-heroes-ability.json) |
+| My Heroes: Dungeon Raid | 194091 | [194091-my-heroes-dungeon-raid.json](./194091-my-heroes-dungeon-raid.json) |
 | My Heroes: SEA | 142426 | [142426-my-heroes-sea.json](./142426-my-heroes-sea.json) |
 | My Hidden Dreams | 339928 | [339928-my-hidden-dreams.json](./339928-my-hidden-dreams.json) |
 | My Hidden Pets: Find My Duck | 291420 | [291420-my-hidden-pets-find-my-duck.json](./291420-my-hidden-pets-find-my-duck.json) |
@@ -22105,6 +22109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth War II | 57156 | [57156-myth-war-ii.json](./57156-myth-war-ii.json) |
 | Myth: After the Stories | 413841 | [413841-myth-after-the-stories.json](./413841-myth-after-the-stories.json) |
 | Myth: Anthology | 72025 | [72025-myth-anthology.json](./72025-myth-anthology.json) |
+| Myth: Gods of Asgard | 194065 | [194065-myth-gods-of-asgard.json](./194065-myth-gods-of-asgard.json) |
 | Myth: History in the Making | 12187 | [12187-myth-history-in-the-making.json](./12187-myth-history-in-the-making.json) |
 | Myth: Make Your True Hero | 143702 | [143702-myth-make-your-true-hero.json](./143702-myth-make-your-true-hero.json) |
 | Myth: The Fallen Lords | 800 | [800-myth-the-fallen-lords.json](./800-myth-the-fallen-lords.json) |
