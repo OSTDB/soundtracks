@@ -5503,6 +5503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirAttack HD | 335055 | [335055-airattack-hd.json](./335055-airattack-hd.json) |
 | Airavat | 57916 | [57916-airavat.json](./57916-airavat.json) |
 | Airball | 146513 | [146513-airball.json](./146513-airball.json) |
+| Airball | 195291 | [195291-airball.json](./195291-airball.json) |
 | Airball | 2302 | [2302-airball.json](./2302-airball.json) |
 | Airballs | 278081 | [278081-airballs.json](./278081-airballs.json) |
 | AirBlade | 8231 | [8231-airblade.json](./8231-airblade.json) |
@@ -8212,6 +8213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazeing Lemons | 75901 | [75901-amazeing-lemons.json](./75901-amazeing-lemons.json) |
 | Amazeing Racer | 372647 | [372647-amazeing-racer.json](./372647-amazeing-racer.json) |
 | Amazething | 154020 | [154020-amazething.json](./154020-amazething.json) |
+| Amazin' George | 195308 | [195308-amazin-george.json](./195308-amazin-george.json) |
 | Amazin' George 2 | 187662 | [187662-amazin-george-2.json](./187662-amazin-george-2.json) |
 | Amazin' George 2: Digital Deluxe | 212279 | [212279-amazin-george-2-digital-deluxe.json](./212279-amazin-george-2-digital-deluxe.json) |
 | Amazin' George Remastered | 199176 | [199176-amazin-george-remastered.json](./199176-amazin-george-remastered.json) |
@@ -9296,6 +9298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Secrets: Voyage in Time | 202057 | [202057-ancient-secrets-voyage-in-time.json](./202057-ancient-secrets-voyage-in-time.json) |
 | Ancient Shadows: Awakening | 351121 | [351121-ancient-shadows-awakening.json](./351121-ancient-shadows-awakening.json) |
 | Ancient Siberia | 68471 | [68471-ancient-siberia.json](./68471-ancient-siberia.json) |
+| Ancient Soccer | 195320 | [195320-ancient-soccer.json](./195320-ancient-soccer.json) |
 | Ancient Society | 236624 | [236624-ancient-society.json](./236624-ancient-society.json) |
 | Ancient Souls Tamag | 167676 | [167676-ancient-souls-tamag.json](./167676-ancient-souls-tamag.json) |
 | Ancient Souls: Starship Renata | 172378 | [172378-ancient-souls-starship-renata.json](./172378-ancient-souls-starship-renata.json) |
