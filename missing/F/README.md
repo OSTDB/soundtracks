@@ -7385,6 +7385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flashlight | 85142 | [85142-flashlight.json](./85142-flashlight.json) |
 | Flashlight Party | 223936 | [223936-flashlight-party.json](./223936-flashlight-party.json) |
 | Flashlight Sim | 304602 | [304602-flashlight-sim.json](./304602-flashlight-sim.json) |
+| Flashloft's Slots | 232268 | [232268-flashlofts-slots.json](./232268-flashlofts-slots.json) |
 | Flashloop | 348337 | [348337-flashloop.json](./348337-flashloop.json) |
 | Flashman Gold | 275380 | [275380-flashman-gold.json](./275380-flashman-gold.json) |
 | Flashout 2 | 17357 | [17357-flashout-2.json](./17357-flashout-2.json) |
