@@ -650,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Storm | 264082 | [264082-galactic-storm.json](./264082-galactic-storm.json) |
 | Galactic Storm | 31460 | [31460-galactic-storm.json](./31460-galactic-storm.json) |
 | Galactic Story | 221190 | [221190-galactic-story.json](./221190-galactic-story.json) |
+| Galactic Strike | 237744 | [237744-galactic-strike.json](./237744-galactic-strike.json) |
 | Galactic Striker | 329174 | [329174-galactic-striker.json](./329174-galactic-striker.json) |
 | Galactic Taz Ball | 23643 | [23643-galactic-taz-ball.json](./23643-galactic-taz-ball.json) |
 | Galactic Thunderdome | 211536 | [211536-galactic-thunderdome.json](./211536-galactic-thunderdome.json) |
@@ -6734,6 +6735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golgo-13 2 - Kiseki no Dandou | 91928 | [91928-golgo-13-2-kiseki-no-dandou.json](./91928-golgo-13-2-kiseki-no-dandou.json) |
 | Golgo-13 3 - Juusei no Chinkonka | 91929 | [91929-golgo-13-3-juusei-no-chinkonka.json](./91929-golgo-13-3-juusei-no-chinkonka.json) |
 | Golgol runner | 183320 | [183320-golgol-runner.json](./183320-golgol-runner.json) |
+| Golgotha | 237749 | [237749-golgotha.json](./237749-golgotha.json) |
 | Golgothian | 423382 | [423382-golgothian.json](./423382-golgothian.json) |
 | Golgothica | 381323 | [381323-golgothica.json](./381323-golgothica.json) |
 | Goliath | 11080 | [11080-goliath.json](./11080-goliath.json) |
@@ -7452,6 +7454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GP-1 Part II | 42591 | [42591-gp-1-part-ii.json](./42591-gp-1-part-ii.json) |
 | Gpi | 171871 | [171871-gpi.json](./171871-gpi.json) |
 | Gpop.io | 230192 | [230192-gpop-io.json](./230192-gpop-io.json) |
+| GPRO: Classic Racing Manager | 237723 | [237723-gpro-classic-racing-manager.json](./237723-gpro-classic-racing-manager.json) |
 | GPS Monster Scouter | 372137 | [372137-gps-monster-scouter.json](./372137-gps-monster-scouter.json) |
 | GPU Inferno | 369910 | [369910-gpu-inferno.json](./369910-gpu-inferno.json) |
 | Gra & Vity | 173002 | [173002-gra-and-vity.json](./173002-gra-and-vity.json) |
@@ -8464,6 +8467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Grove | 409385 | [409385-gravity-grove.json](./409385-gravity-grove.json) |
 | Gravity Guy | 361723 | [361723-gravity-guy.json](./361723-gravity-guy.json) |
 | Gravity Guy 2 | 64142 | [64142-gravity-guy-2.json](./64142-gravity-guy-2.json) |
+| Gravity Guy Race | 237733 | [237733-gravity-guy-race.json](./237733-gravity-guy-race.json) |
 | Gravity Hook | 182716 | [182716-gravity-hook.json](./182716-gravity-hook.json) |
 | Gravity Hook HD | 76177 | [76177-gravity-hook-hd.json](./76177-gravity-hook-hd.json) |
 | Gravity Hop: Space Adventure | 111392 | [111392-gravity-hop-space-adventure.json](./111392-gravity-hop-space-adventure.json) |
@@ -11216,6 +11220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gut Fear Boundary | 393377 | [393377-gut-fear-boundary.json](./393377-gut-fear-boundary.json) |
 | Gutasaga | 257439 | [257439-gutasaga.json](./257439-gutasaga.json) |
 | Gutbuster | 351926 | [351926-gutbuster.json](./351926-gutbuster.json) |
+| Gutchan Bank | 237750 | [237750-gutchan-bank.json](./237750-gutchan-bank.json) |
 | Gute Zeiten Schlechte Zeiten Quiz | 281539 | [281539-gute-zeiten-schlechte-zeiten-quiz.json](./281539-gute-zeiten-schlechte-zeiten-quiz.json) |
 | Gütertrennung | 86017 | [86017-gutertrennung.json](./86017-gutertrennung.json) |
 | Gutfarm | 348700 | [348700-gutfarm.json](./348700-gutfarm.json) |
