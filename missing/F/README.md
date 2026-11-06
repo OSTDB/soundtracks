@@ -5959,6 +5959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Man: Incoming Storm | 210482 | [210482-fire-man-incoming-storm.json](./210482-fire-man-incoming-storm.json) |
 | Fire Me, I Insist | 356373 | [356373-fire-me-i-insist.json](./356373-fire-me-i-insist.json) |
 | Fire Mission | 188349 | [188349-fire-mission.json](./188349-fire-mission.json) |
+| Fire on Fight: Online Multiplayer Shooter | 193006 | [193006-fire-on-fight-online-multiplayer-shooter.json](./193006-fire-on-fight-online-multiplayer-shooter.json) |
 | Fire on the Mountain | 272696 | [272696-fire-on-the-mountain.json](./272696-fire-on-the-mountain.json) |
 | Fire One | 39515 | [39515-fire-one.json](./39515-fire-one.json) |
 | Fire Opal | 153875 | [153875-fire-opal.json](./153875-fire-opal.json) |
@@ -12613,6 +12614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontier Legends | 319390 | [319390-frontier-legends.json](./319390-frontier-legends.json) |
 | Frontier Mayhem | 301288 | [301288-frontier-mayhem.json](./301288-frontier-mayhem.json) |
 | Frontier Mech: Ash Walkers | 356075 | [356075-frontier-mech-ash-walkers.json](./356075-frontier-mech-ash-walkers.json) |
+| Frontier of Fortune | 193043 | [193043-frontier-of-fortune.json](./193043-frontier-of-fortune.json) |
 | Frontier of Madness | 261586 | [261586-frontier-of-madness.json](./261586-frontier-of-madness.json) |
 | Frontier Paladin | 292542 | [292542-frontier-paladin.json](./292542-frontier-paladin.json) |
 | Frontier Quest | 139637 | [139637-frontier-quest.json](./139637-frontier-quest.json) |
