@@ -9529,6 +9529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Tournament | 86583 | [86583-blade-tournament.json](./86583-blade-tournament.json) |
 | Blade Trick | 382547 | [382547-blade-trick.json](./382547-blade-trick.json) |
 | Blade vs. Undead | 339936 | [339936-blade-vs-undead.json](./339936-blade-vs-undead.json) |
+| Blade Walker | 193040 | [193040-blade-walker.json](./193040-blade-walker.json) |
 | Blade Warrior | 13406 | [13406-blade-warrior.json](./13406-blade-warrior.json) |
 | Blade Warrior | 14313 | [14313-blade-warrior.json](./14313-blade-warrior.json) |
 | Blade Warrior | 311029 | [311029-blade-warrior.json](./311029-blade-warrior.json) |
@@ -11323,6 +11324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Raid | 148878 | [148878-bloody-raid.json](./148878-bloody-raid.json) |
 | Bloody Rally Show | 139211 | [139211-bloody-rally-show.json](./139211-bloody-rally-show.json) |
 | Bloody Rally Simulator | 107842 | [107842-bloody-rally-simulator.json](./107842-bloody-rally-simulator.json) |
+| Bloody Rampage City | 193027 | [193027-bloody-rampage-city.json](./193027-bloody-rampage-city.json) |
 | Bloody Roads, California | 89781 | [89781-bloody-roads-california.json](./89781-bloody-roads-california.json) |
 | Bloody Roar | 2749 | [2749-bloody-roar.json](./2749-bloody-roar.json) |
 | Bloody Roar 3 | 3824 | [3824-bloody-roar-3.json](./3824-bloody-roar-3.json) |
@@ -15091,6 +15093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Through | 376830 | [376830-break-through.json](./376830-break-through.json) |
 | Break through 50 | 148468 | [148468-break-through-50.json](./148468-break-through-50.json) |
 | Break Through the Door | 365034 | [365034-break-through-the-door.json](./365034-break-through-the-door.json) |
+| Break Through the Illusion | 193010 | [193010-break-through-the-illusion.json](./193010-break-through-the-illusion.json) |
 | Break Thru the Wall | 213344 | [213344-break-thru-the-wall.json](./213344-break-thru-the-wall.json) |
 | Break Time: The National Pool Tour | 48103 | [48103-break-time-the-national-pool-tour.json](./48103-break-time-the-national-pool-tour.json) |
 | Break Time! | 29813 | [29813-break-time.json](./29813-break-time.json) |
@@ -16173,6 +16176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal MooD | 95589 | [95589-brutal-mood.json](./95589-brutal-mood.json) |
 | Brutal Orchestra | 185849 | [185849-brutal-orchestra.json](./185849-brutal-orchestra.json) |
 | Brutal Rage | 132657 | [132657-brutal-rage.json](./132657-brutal-rage.json) |
+| Brutal Rifters | 193005 | [193005-brutal-rifters.json](./193005-brutal-rifters.json) |
 | Brutal Runner | 81049 | [81049-brutal-runner.json](./81049-brutal-runner.json) |
 | Brutal Scales | 119704 | [119704-brutal-scales.json](./119704-brutal-scales.json) |
 | Brutal Sports Football | 14350 | [14350-brutal-sports-football.json](./14350-brutal-sports-football.json) |
