@@ -1402,6 +1402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oktoberfest | 318471 | [318471-oktoberfest.json](./318471-oktoberfest.json) |
 | Oktoberfest Break | 187684 | [187684-oktoberfest-break.json](./187684-oktoberfest-break.json) |
 | Oktoberfest Break: Head to Head | 214518 | [214518-oktoberfest-break-head-to-head.json](./214518-oktoberfest-break-head-to-head.json) |
+| Oktoberfest Fun | 218191 | [218191-oktoberfest-fun.json](./218191-oktoberfest-fun.json) |
 | Oktoberfest Wiesn-Gaudi | 125168 | [125168-oktoberfest-wiesn-gaudi.json](./125168-oktoberfest-wiesn-gaudi.json) |
 | Oktoberfest: The Official Game | 67682 | [67682-oktoberfest-the-official-game.json](./67682-oktoberfest-the-official-game.json) |
 | Oktogone Melee | 153076 | [153076-oktogone-melee.json](./153076-oktogone-melee.json) |
@@ -1876,6 +1877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omori x Yume Nikki Crossover Fangame | 300974 | [300974-omori-x-yume-nikki-crossover-fangame.json](./300974-omori-x-yume-nikki-crossover-fangame.json) |
 | Omori: The Dreamer | 341101 | [341101-omori-the-dreamer.json](./341101-omori-the-dreamer.json) |
 | Omoshiro Action: Ii Otona-tachi no Daibouken | 222251 | [222251-omoshiro-action-ii-otona-tachi-no-daibouken.json](./222251-omoshiro-action-ii-otona-tachi-no-daibouken.json) |
+| Omoshiro Sankaku Time Machine | 218224 | [218224-omoshiro-sankaku-time-machine.json](./218224-omoshiro-sankaku-time-machine.json) |
 | Omoshiroi Moro | 259826 | [259826-omoshiroi-moro.json](./259826-omoshiroi-moro.json) |
 | OmoTomO | 147752 | [147752-omotomo.json](./147752-omotomo.json) |
 | OMSI 2: Aachen | 155135 | [155135-omsi-2-aachen.json](./155135-omsi-2-aachen.json) |
@@ -2549,6 +2551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Nanatsu Shima no Daihihou | 75747 | [75747-one-piece-nanatsu-shima-no-daihihou.json](./75747-one-piece-nanatsu-shima-no-daihihou.json) |
 | One Piece: Niji no Shima Densetsu | 75741 | [75741-one-piece-niji-no-shima-densetsu.json](./75741-one-piece-niji-no-shima-densetsu.json) |
 | One Piece: Ocean's Dream! | 75750 | [75750-one-piece-oceans-dream.json](./75750-one-piece-oceans-dream.json) |
+| One Piece: Odyssey - Collector's Edition | 218216 | [218216-one-piece-odyssey-collectors-edition.json](./218216-one-piece-odyssey-collectors-edition.json) |
 | One Piece: Pirate Warriors + One Piece: Pirate Warriors 2 | 81477 | [81477-one-piece-pirate-warriors-one-piece-pirate-warriors-2.json](./81477-one-piece-pirate-warriors-one-piece-pirate-warriors-2.json) |
 | One Piece: Pirate Warriors 2 | 20857 | [20857-one-piece-pirate-warriors-2.json](./20857-one-piece-pirate-warriors-2.json) |
 | One Piece: Pirate Warriors 2 - Collector's Editon | 225688 | [225688-one-piece-pirate-warriors-2-collectors-editon.json](./225688-one-piece-pirate-warriors-2-collectors-editon.json) |
@@ -2622,6 +2625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Room: Prisoner's Dilemma | 304353 | [304353-one-room-prisoners-dilemma.json](./304353-one-room-prisoners-dilemma.json) |
 | One Room: Yui Hanasaka Memorial | 326122 | [326122-one-room-yui-hanasaka-memorial.json](./326122-one-room-yui-hanasaka-memorial.json) |
 | One Rotten Oath | 358376 | [358376-one-rotten-oath.json](./358376-one-rotten-oath.json) |
+| One Rule | 218194 | [218194-one-rule.json](./218194-one-rule.json) |
 | One S'More | 258706 | [258706-one-smore.json](./258706-one-smore.json) |
 | One Shade's Fate | 183782 | [183782-one-shades-fate.json](./183782-one-shades-fate.json) |
 | One Shell Straight to Hell | 141646 | [141646-one-shell-straight-to-hell.json](./141646-one-shell-straight-to-hell.json) |
@@ -3536,6 +3540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Wolf | 12190 | [12190-operation-wolf.json](./12190-operation-wolf.json) |
 | Operation Wolf 3 | 40377 | [40377-operation-wolf-3.json](./40377-operation-wolf-3.json) |
 | Operation Wolf Returns: First Mission | 218213 | [218213-operation-wolf-returns-first-mission.json](./218213-operation-wolf-returns-first-mission.json) |
+| Operation Wolf Returns: First Mission - D1 Edition | 218214 | [218214-operation-wolf-returns-first-mission-d1-edition.json](./218214-operation-wolf-returns-first-mission-d1-edition.json) |
 | Operation Wolf Returns: First Mission - Rescue Edition | 270583 | [270583-operation-wolf-returns-first-mission-rescue-edition.json](./270583-operation-wolf-returns-first-mission-rescue-edition.json) |
 | Operation Wolfenstein | 179472 | [179472-operation-wolfenstein.json](./179472-operation-wolfenstein.json) |
 | Operation Wolfsburg | 54266 | [54266-operation-wolfsburg.json](./54266-operation-wolfsburg.json) |
@@ -5803,6 +5808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ovorol | 345643 | [345643-ovorol.json](./345643-ovorol.json) |
 | OVR Dynamic Resolution | 319793 | [319793-ovr-dynamic-resolution.json](./319793-ovr-dynamic-resolution.json) |
 | Ovrdark: A Do Not Open Story | 258122 | [258122-ovrdark-a-do-not-open-story.json](./258122-ovrdark-a-do-not-open-story.json) |
+| Ovrlrd | 218223 | [218223-ovrlrd.json](./218223-ovrlrd.json) |
 | OVRshot | 84071 | [84071-ovrshot.json](./84071-ovrshot.json) |
 | Ovum City | 221428 | [221428-ovum-city.json](./221428-ovum-city.json) |
 | Ovus Nova | 185623 | [185623-ovus-nova.json](./185623-ovus-nova.json) |
