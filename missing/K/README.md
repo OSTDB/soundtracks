@@ -2800,7 +2800,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3042,6 +3041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Kong 2: Ikari no Megaton Punch | 48690 | [48690-king-kong-2-ikari-no-megaton-punch.json](./48690-king-kong-2-ikari-no-megaton-punch.json) |
 | King Kong 2: Yomigaeru Densetsu | 41689 | [41689-king-kong-2-yomigaeru-densetsu.json](./41689-king-kong-2-yomigaeru-densetsu.json) |
 | King Kong City Destroyer | 291478 | [291478-king-kong-city-destroyer.json](./291478-king-kong-city-destroyer.json) |
+| King Kong: The Official Mobile Game of the Movie | 227627 | [227627-king-kong-the-official-mobile-game-of-the-movie.json](./227627-king-kong-the-official-mobile-game-of-the-movie.json) |
 | King Krieg Survivors | 295683 | [295683-king-krieg-survivors.json](./295683-king-krieg-survivors.json) |
 | King Leo | 178782 | [178782-king-leo.json](./178782-king-leo.json) |
 | King Lucas | 26371 | [26371-king-lucas.json](./26371-king-lucas.json) |
