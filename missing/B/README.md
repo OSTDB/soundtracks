@@ -961,7 +961,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5415,6 +5414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Your Meat | 114107 | [114107-beat-your-meat.json](./114107-beat-your-meat.json) |
 | Beat Your Vegetables | 239222 | [239222-beat-your-vegetables.json](./239222-beat-your-vegetables.json) |
 | Beat, Heart, Beat | 322745 | [322745-beat-heart-beat.json](./322745-beat-heart-beat.json) |
+| Beat! After the Summer | 202433 | [202433-beat-after-the-summer.json](./202433-beat-after-the-summer.json) |
 | Beat!: After the Summer - Another Season Episode | 241326 | [241326-beat-after-the-summer-another-season-episode.json](./241326-beat-after-the-summer-another-season-episode.json) |
 | Beat.R. | 72484 | [72484-beat-r.json](./72484-beat-r.json) |
 | Beat.School: DJ Simulator | 125049 | [125049-beat-school-dj-simulator.json](./125049-beat-school-dj-simulator.json) |
@@ -5880,6 +5880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beer Belly Burt's Brew Biz | 93167 | [93167-beer-belly-burts-brew-biz.json](./93167-beer-belly-burts-brew-biz.json) |
 | Beer Break | 199391 | [199391-beer-break.json](./199391-beer-break.json) |
 | Beer Drinkin' Terrorist Hunter | 311681 | [311681-beer-drinkin-terrorist-hunter.json](./311681-beer-drinkin-terrorist-hunter.json) |
+| Beer Factory | 202476 | [202476-beer-factory.json](./202476-beer-factory.json) |
 | Beer Factory Crew | 293851 | [293851-beer-factory-crew.json](./293851-beer-factory-crew.json) |
 | Beer Gunner | 399251 | [399251-beer-gunner.json](./399251-beer-gunner.json) |
 | Beer League Hockey | 241809 | [241809-beer-league-hockey.json](./241809-beer-league-hockey.json) |
@@ -6143,6 +6144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bel & Poppy | 184979 | [184979-bel-and-poppy.json](./184979-bel-and-poppy.json) |
 | Bel's Fanfare | 385696 | [385696-bels-fanfare.json](./385696-bels-fanfare.json) |
 | Bela Kovacs and the Trail of Blood | 299758 | [299758-bela-kovacs-and-the-trail-of-blood.json](./299758-bela-kovacs-and-the-trail-of-blood.json) |
+| Belarus Simulator: Preemptive Strike | 202446 | [202446-belarus-simulator-preemptive-strike.json](./202446-belarus-simulator-preemptive-strike.json) |
 | Belegost | 391449 | [391449-belegost.json](./391449-belegost.json) |
 | Belial | 14295 | [14295-belial.json](./14295-belial.json) |
 | Belial Red | 236211 | [236211-belial-red.json](./236211-belial-red.json) |
