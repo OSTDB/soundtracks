@@ -13357,6 +13357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena: Maze of Death | 19694 | [19694-arena-maze-of-death.json](./19694-arena-maze-of-death.json) |
 | Arena.Xlsm | 125394 | [125394-arena-xlsm.json](./125394-arena-xlsm.json) |
 | Arena66 | 132195 | [132195-arena66.json](./132195-arena66.json) |
+| ArenaMania | 228205 | [228205-arenamania.json](./228205-arenamania.json) |
 | Arenas of Tanks | 201394 | [201394-arenas-of-tanks.json](./201394-arenas-of-tanks.json) |
 | ArenaWar | 275109 | [275109-arenawar.json](./275109-arenawar.json) |
 | Arengius | 132653 | [132653-arengius.json](./132653-arengius.json) |
@@ -13660,6 +13661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkem | 244684 | [244684-arkem.json](./244684-arkem.json) |
 | Arken | 177337 | [177337-arken.json](./177337-arken.json) |
 | Arker: The Legend of Ohm | 164864 | [164864-arker-the-legend-of-ohm.json](./164864-arker-the-legend-of-ohm.json) |
+| Arkero VR | 228202 | [228202-arkero-vr.json](./228202-arkero-vr.json) |
 | Arkfront | 182204 | [182204-arkfront.json](./182204-arkfront.json) |
 | Arkhaanis One | 310282 | [310282-arkhaanis-one.json](./310282-arkhaanis-one.json) |
 | Arkham Detective | 278178 | [278178-arkham-detective.json](./278178-arkham-detective.json) |
@@ -16493,7 +16495,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
