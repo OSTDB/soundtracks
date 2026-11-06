@@ -9093,6 +9093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Gunner | 105179 | [105179-grid-gunner.json](./105179-grid-gunner.json) |
 | Grid Iron 2 | 94220 | [94220-grid-iron-2.json](./94220-grid-iron-2.json) |
 | Grid Leaper | 167502 | [167502-grid-leaper.json](./167502-grid-leaper.json) |
+| Grid Legends: Enduring Spirit | 224925 | [224925-grid-legends-enduring-spirit.json](./224925-grid-legends-enduring-spirit.json) |
 | Grid Legends: Rise of Ravenwest | 226365 | [226365-grid-legends-rise-of-ravenwest.json](./226365-grid-legends-rise-of-ravenwest.json) |
 | GRID Legends: Valentin’s Classic Car-Nage | 239593 | [239593-grid-legends-valentin-s-classic-car-nage.json](./239593-grid-legends-valentin-s-classic-car-nage.json) |
 | Grid Legends: Winter Bash | 233685 | [233685-grid-legends-winter-bash.json](./233685-grid-legends-winter-bash.json) |
@@ -10084,6 +10085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian of the Demon Valley | 172685 | [172685-guardian-of-the-demon-valley.json](./172685-guardian-of-the-demon-valley.json) |
 | Guardian of the Future | 119773 | [119773-guardian-of-the-future.json](./119773-guardian-of-the-future.json) |
 | Guardian of the Grave | 340402 | [340402-guardian-of-the-grave.json](./340402-guardian-of-the-grave.json) |
+| Guardian of the Jungle | 224901 | [224901-guardian-of-the-jungle.json](./224901-guardian-of-the-jungle.json) |
 | Guardian of the Rebellion | 347096 | [347096-guardian-of-the-rebellion.json](./347096-guardian-of-the-rebellion.json) |
 | Guardian of the Sacred Seal | 386442 | [386442-guardian-of-the-sacred-seal.json](./386442-guardian-of-the-sacred-seal.json) |
 | Guardian of the Water Altar | 379183 | [379183-guardian-of-the-water-altar.json](./379183-guardian-of-the-water-altar.json) |
