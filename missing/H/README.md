@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haikei, Kanshu Hajimemashita | 135446 | [135446-haikei-kanshu-hajimemashita.json](./135446-haikei-kanshu-hajimemashita.json) |
 | Haiki | 141134 | [141134-haiki.json](./141134-haiki.json) |
 | Haiki Gas Circle | 151820 | [151820-haiki-gas-circle.json](./151820-haiki-gas-circle.json) |
+| Haiku Journey | 209788 | [209788-haiku-journey.json](./209788-haiku-journey.json) |
 | Haiku, and the Mother Virus | 336070 | [336070-haiku-and-the-mother-virus.json](./336070-haiku-and-the-mother-virus.json) |
 | Haiku, the Baby Robot | 231993 | [231993-haiku-the-baby-robot.json](./231993-haiku-the-baby-robot.json) |
 | Haikyu!! Fly High | 358744 | [358744-haikyu-fly-high.json](./358744-haikyu-fly-high.json) |
@@ -1435,6 +1436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanjuku Hero Tai 3D | 67366 | [67366-hanjuku-hero-tai-3d.json](./67366-hanjuku-hero-tai-3d.json) |
 | Hank | 271027 | [271027-hank.json](./271027-hank.json) |
 | Hank | 70118 | [70118-hank.json](./70118-hank.json) |
+| Hank Haney World Golf | 209790 | [209790-hank-haney-world-golf.json](./209790-hank-haney-world-golf.json) |
 | Hank Hill Smokes Marijuana | 335727 | [335727-hank-hill-smokes-marijuana.json](./335727-hank-hill-smokes-marijuana.json) |
 | Hank Loves the Beach | 240797 | [240797-hank-loves-the-beach.json](./240797-hank-loves-the-beach.json) |
 | Hank Shaw: Animal Investigator | 404004 | [404004-hank-shaw-animal-investigator.json](./404004-hank-shaw-animal-investigator.json) |
@@ -1880,6 +1882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Truck 2: King of the Road | 36987 | [36987-hard-truck-2-king-of-the-road.json](./36987-hard-truck-2-king-of-the-road.json) |
 | Hard Truck Apocalypse | 36458 | [36458-hard-truck-apocalypse.json](./36458-hard-truck-apocalypse.json) |
 | Hard Truck Apocalypse: Rise of Clans | 17170 | [17170-hard-truck-apocalypse-rise-of-clans.json](./17170-hard-truck-apocalypse-rise-of-clans.json) |
+| Hard Truck Tycoon | 209791 | [209791-hard-truck-tycoon.json](./209791-hard-truck-tycoon.json) |
 | Hard Truck: 18 Wheels of Steel | 50455 | [50455-hard-truck-18-wheels-of-steel.json](./50455-hard-truck-18-wheels-of-steel.json) |
 | Hard Truck: Road to Victory | 28143 | [28143-hard-truck-road-to-victory.json](./28143-hard-truck-road-to-victory.json) |
 | Hard Vacuum | 132627 | [132627-hard-vacuum.json](./132627-hard-vacuum.json) |
@@ -1987,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardwood Backgammon | 20501 | [20501-hardwood-backgammon.json](./20501-hardwood-backgammon.json) |
 | Hardwood Hearts | 20507 | [20507-hardwood-hearts.json](./20507-hardwood-hearts.json) |
 | Hardwood Rivals | 246260 | [246260-hardwood-rivals.json](./246260-hardwood-rivals.json) |
+| Hardwood Solitaire III | 209792 | [209792-hardwood-solitaire-iii.json](./209792-hardwood-solitaire-iii.json) |
 | Hardwood Solitaire IV | 109225 | [109225-hardwood-solitaire-iv.json](./109225-hardwood-solitaire-iv.json) |
 | Hardwork Simulator | 238879 | [238879-hardwork-simulator.json](./238879-hardwork-simulator.json) |
 | HardWorker Simulator | 187663 | [187663-hardworker-simulator.json](./187663-hardworker-simulator.json) |
@@ -2047,6 +2051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harley Pasternak's Hollywood Workout | 50963 | [50963-harley-pasternaks-hollywood-workout.json](./50963-harley-pasternaks-hollywood-workout.json) |
 | Harley-Davidson & L.A. Riders | 39479 | [39479-harley-davidson-and-l-a-riders.json](./39479-harley-davidson-and-l-a-riders.json) |
 | Harley-Davidson Motorcycles: Road to Daytona | 198752 | [198752-harley-davidson-motorcycles-road-to-daytona.json](./198752-harley-davidson-motorcycles-road-to-daytona.json) |
+| Harley-Davidson: Race Across America | 209795 | [209795-harley-davidson-race-across-america.json](./209795-harley-davidson-race-across-america.json) |
 | Harley-Davidson: Race Around the World | 80317 | [80317-harley-davidson-race-around-the-world.json](./80317-harley-davidson-race-around-the-world.json) |
 | Harley-Davidson: Race to the Rally | 66341 | [66341-harley-davidson-race-to-the-rally.json](./66341-harley-davidson-race-to-the-rally.json) |
 | Harley-Davidson: Road Trip | 50959 | [50959-harley-davidson-road-trip.json](./50959-harley-davidson-road-trip.json) |
@@ -2112,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harper and Lyre | 374539 | [374539-harper-and-lyre.json](./374539-harper-and-lyre.json) |
 | Harpman: Fight Against Evil | 114658 | [114658-harpman-fight-against-evil.json](./114658-harpman-fight-against-evil.json) |
 | Harpoon | 14874 | [14874-harpoon.json](./14874-harpoon.json) |
+| Harpoon | 209239 | [209239-harpoon.json](./209239-harpoon.json) |
 | Harpoon & Battleset 2 | 92827 | [92827-harpoon-and-battleset-2.json](./92827-harpoon-and-battleset-2.json) |
 | Harpoon Cat | 104835 | [104835-harpoon-cat.json](./104835-harpoon-cat.json) |
 | Harpoon Classic | 92996 | [92996-harpoon-classic.json](./92996-harpoon-classic.json) |
@@ -10195,6 +10201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Tales: Emerald Valley Ranch - Unicorn Tack Set | 371937 | [371937-horse-tales-emerald-valley-ranch-unicorn-tack-set.json](./371937-horse-tales-emerald-valley-ranch-unicorn-tack-set.json) |
 | Horse Vet 3D | 85181 | [85181-horse-vet-3d.json](./85181-horse-vet-3d.json) |
 | Horse World | 106123 | [106123-horse-world.json](./106123-horse-world.json) |
+| Horse-o-Chess | 209796 | [209796-horse-o-chess.json](./209796-horse-o-chess.json) |
 | HorseGame | 126324 | [126324-horsegame.json](./126324-horsegame.json) |
 | Horses | 265637 | [265637-horses.json](./265637-horses.json) |
 | Horses 2025 | 394645 | [394645-horses-2025.json](./394645-horses-2025.json) |
