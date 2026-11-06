@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Dunk Shooter | 360735 | [360735-ultimate-dunk-shooter.json](./360735-ultimate-dunk-shooter.json) |
 | Ultimate Fatal Octopus | 289232 | [289232-ultimate-fatal-octopus.json](./289232-ultimate-fatal-octopus.json) |
 | Ultimate Fight Manager 2016 | 33207 | [33207-ultimate-fight-manager-2016.json](./33207-ultimate-fight-manager-2016.json) |
+| Ultimate Fighters | 202435 | [202435-ultimate-fighters.json](./202435-ultimate-fighters.json) |
 | Ultimate Fighting Championship | 24176 | [24176-ultimate-fighting-championship.json](./24176-ultimate-fighting-championship.json) |
 | Ultimate Firefight Series | 327785 | [327785-ultimate-firefight-series.json](./327785-ultimate-firefight-series.json) |
 | Ultimate Fishing Online | 349247 | [349247-ultimate-fishing-online.json](./349247-ultimate-fishing-online.json) |
