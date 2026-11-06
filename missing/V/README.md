@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacoo: The Adventure in Garbage City | 223413 | [223413-vacoo-the-adventure-in-garbage-city.json](./223413-vacoo-the-adventure-in-garbage-city.json) |
 | Vactics | 202067 | [202067-vactics.json](./202067-vactics.json) |
 | VacuuBot: Home Cleaning Simulator | 378135 | [378135-vacuubot-home-cleaning-simulator.json](./378135-vacuubot-home-cleaning-simulator.json) |
+| Vacuum | 195824 | [195824-vacuum.json](./195824-vacuum.json) |
 | Vacuum | 274673 | [274673-vacuum.json](./274673-vacuum.json) |
 | Vacuum Balaena | 301791 | [301791-vacuum-balaena.json](./301791-vacuum-balaena.json) |
 | Vacuum Ball | 192820 | [192820-vacuum-ball.json](./192820-vacuum-ball.json) |
@@ -3628,6 +3629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vorpal | 76166 | [76166-vorpal.json](./76166-vorpal.json) |
 | Vorrak | 24913 | [24913-vorrak.json](./24913-vorrak.json) |
 | Vortex | 168527 | [168527-vortex.json](./168527-vortex.json) |
+| Vortex | 195827 | [195827-vortex.json](./195827-vortex.json) |
 | Vortex | 210342 | [210342-vortex.json](./210342-vortex.json) |
 | Vortex | 324730 | [324730-vortex.json](./324730-vortex.json) |
 | Vortex | 411634 | [411634-vortex.json](./411634-vortex.json) |
