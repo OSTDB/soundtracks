@@ -15907,6 +15907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Storm | 189047 | [189047-dream-storm.json](./189047-dream-storm.json) |
 | Dream Story: Origin | 116012 | [116012-dream-story-origin.json](./116012-dream-story-origin.json) |
 | Dream Survivors | 297085 | [297085-dream-survivors.json](./297085-dream-survivors.json) |
+| Dream Swing | 221565 | [221565-dream-swing.json](./221565-dream-swing.json) |
 | Dream Syndrome | 138269 | [138269-dream-syndrome.json](./138269-dream-syndrome.json) |
 | Dream Tactics | 211623 | [211623-dream-tactics.json](./211623-dream-tactics.json) |
 | Dream Tale | 36047 | [36047-dream-tale.json](./36047-dream-tale.json) |
