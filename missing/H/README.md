@@ -1635,6 +1635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Homes | 178932 | [178932-happy-homes.json](./178932-happy-homes.json) |
 | Happy Hoop Endless Journey | 339052 | [339052-happy-hoop-endless-journey.json](./339052-happy-hoop-endless-journey.json) |
 | Happy Hop | 413913 | [413913-happy-hop.json](./413913-happy-hop.json) |
+| Happy Hops | 199698 | [199698-happy-hops.json](./199698-happy-hops.json) |
 | Happy Horny Hell | 294070 | [294070-happy-horny-hell.json](./294070-happy-horny-hell.json) |
 | Happy Hospital | 305846 | [305846-happy-hospital.json](./305846-happy-hospital.json) |
 | Happy Hotel | 280793 | [280793-happy-hotel.json](./280793-happy-hotel.json) |
@@ -6200,6 +6201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Paradox | 216121 | [216121-heroes-paradox.json](./216121-heroes-paradox.json) |
 | Heroes Phantasia | 65495 | [65495-heroes-phantasia.json](./65495-heroes-phantasia.json) |
 | Heroes Quest Survival | 249909 | [249909-heroes-quest-survival.json](./249909-heroes-quest-survival.json) |
+| Heroes Rally | 199693 | [199693-heroes-rally.json](./199693-heroes-rally.json) |
 | Heroes Ravage | 114433 | [114433-heroes-ravage.json](./114433-heroes-ravage.json) |
 | Heroes Reborn: Enigma | 59663 | [59663-heroes-reborn-enigma.json](./59663-heroes-reborn-enigma.json) |
 | Heroes Rise Trilogy | 53192 | [53192-heroes-rise-trilogy.json](./53192-heroes-rise-trilogy.json) |
@@ -6566,6 +6568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexeract | 309840 | [309840-hexeract.json](./309840-hexeract.json) |
 | Hexes | 147416 | [147416-hexes.json](./147416-hexes.json) |
 | Hexes | 243780 | [243780-hexes.json](./243780-hexes.json) |
+| Hexfactory | 199688 | [199688-hexfactory.json](./199688-hexfactory.json) |
 | Hexfinder | 244647 | [244647-hexfinder.json](./244647-hexfinder.json) |
 | Hexforger | 295866 | [295866-hexforger.json](./295866-hexforger.json) |
 | Hexgarden | 415118 | [415118-hexgarden.json](./415118-hexgarden.json) |
