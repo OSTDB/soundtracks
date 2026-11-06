@@ -7701,6 +7701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Duel: Shinki Dungeon no Hihou | 50056 | [50056-gran-duel-shinki-dungeon-no-hihou.json](./50056-gran-duel-shinki-dungeon-no-hihou.json) |
 | Gran Empire | 149443 | [149443-gran-empire.json](./149443-gran-empire.json) |
 | Gran Empire: Amane | 204254 | [204254-gran-empire-amane.json](./204254-gran-empire-amane.json) |
+| Gran Prix Turbotalina | 193541 | [193541-gran-prix-turbotalina.json](./193541-gran-prix-turbotalina.json) |
 | Gran Saga | 130576 | [130576-gran-saga.json](./130576-gran-saga.json) |
 | Gran Saga Idle: Knights x Knights | 319994 | [319994-gran-saga-idle-knights-x-knights.json](./319994-gran-saga-idle-knights-x-knights.json) |
 | Gran Text Auto | 60046 | [60046-gran-text-auto.json](./60046-gran-text-auto.json) |
