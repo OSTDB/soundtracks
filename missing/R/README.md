@@ -8575,6 +8575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robbery Madness: Thief Games | 219782 | [219782-robbery-madness-thief-games.json](./219782-robbery-madness-thief-games.json) |
 | Robbery Rush | 315940 | [315940-robbery-rush.json](./315940-robbery-rush.json) |
 | Robbie | 225218 | [225218-robbie.json](./225218-robbie.json) |
+| Robbie and the Robots | 245111 | [245111-robbie-and-the-robots.json](./245111-robbie-and-the-robots.json) |
 | Robbie Swifthand and the Orb of Mysteries | 76404 | [76404-robbie-swifthand-and-the-orb-of-mysteries.json](./76404-robbie-swifthand-and-the-orb-of-mysteries.json) |
 | Robbie's Tale | 236890 | [236890-robbies-tale.json](./236890-robbies-tale.json) |
 | Robbing the Princess | 326034 | [326034-robbing-the-princess.json](./326034-robbing-the-princess.json) |
@@ -9318,6 +9319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Hunting | 312268 | [312268-rocket-hunting.json](./312268-rocket-hunting.json) |
 | Rocket in Space: Running Games | 233388 | [233388-rocket-in-space-running-games.json](./233388-rocket-in-space-running-games.json) |
 | Rocket Inc | 223426 | [223426-rocket-inc.json](./223426-rocket-inc.json) |
+| Rocket Jockey | 245085 | [245085-rocket-jockey.json](./245085-rocket-jockey.json) |
 | Rocket Jockey | 50137 | [50137-rocket-jockey.json](./50137-rocket-jockey.json) |
 | Rocket Jockeys | 148214 | [148214-rocket-jockeys.json](./148214-rocket-jockeys.json) |
 | Rocket Joust | 174183 | [174183-rocket-joust.json](./174183-rocket-joust.json) |
