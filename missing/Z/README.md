@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaccaria Pinball: Soccer Kings Table | 158471 | [158471-zaccaria-pinball-soccer-kings-table.json](./158471-zaccaria-pinball-soccer-kings-table.json) |
 | Zaccaria Pinball: Solid-State Table Pack 2 | 237985 | [237985-zaccaria-pinball-solid-state-table-pack-2.json](./237985-zaccaria-pinball-solid-state-table-pack-2.json) |
 | Zaccaria Pinball: Solid-State Table Pack 3 | 411009 | [411009-zaccaria-pinball-solid-state-table-pack-3.json](./411009-zaccaria-pinball-solid-state-table-pack-3.json) |
+| Zaccaria Pinball: Solid-State Tables Pack 1 | 208691 | [208691-zaccaria-pinball-solid-state-tables-pack-1.json](./208691-zaccaria-pinball-solid-state-tables-pack-1.json) |
 | Zaccaria Pinball: Space Shuttle 2016 Table | 158432 | [158432-zaccaria-pinball-space-shuttle-2016-table.json](./158432-zaccaria-pinball-space-shuttle-2016-table.json) |
 | Zaccaria Pinball: Space Shuttle Deluxe Pinball Table | 242327 | [242327-zaccaria-pinball-space-shuttle-deluxe-pinball-table.json](./242327-zaccaria-pinball-space-shuttle-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Space Shuttle Table | 158433 | [158433-zaccaria-pinball-space-shuttle-table.json](./158433-zaccaria-pinball-space-shuttle-table.json) |
