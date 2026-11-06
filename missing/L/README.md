@@ -4926,6 +4926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lights Out, Please | 128827 | [128827-lights-out-please.json](./128827-lights-out-please.json) |
 | Lights Out, Run | 394678 | [394678-lights-out-run.json](./394678-lights-out-run.json) |
 | Lights Out: Forgotten Past | 368719 | [368719-lights-out-forgotten-past.json](./368719-lights-out-forgotten-past.json) |
+| Lights Out: TPP Shooter | 216546 | [216546-lights-out-tpp-shooter.json](./216546-lights-out-tpp-shooter.json) |
 | Lights Out! | 376190 | [376190-lights-out.json](./376190-lights-out.json) |
 | Lights, Camera, Party! | 52543 | [52543-lights-camera-party.json](./52543-lights-camera-party.json) |
 | Lights! | 311983 | [311983-lights.json](./311983-lights.json) |
