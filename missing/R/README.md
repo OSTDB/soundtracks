@@ -3091,6 +3091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Really Dog: DLC | 282170 | [282170-really-dog-dlc.json](./282170-really-dog-dlc.json) |
 | Really Happy Mouse | 241409 | [241409-really-happy-mouse.json](./241409-really-happy-mouse.json) |
 | Really really auto chess | 183971 | [183971-really-really-auto-chess.json](./183971-really-really-auto-chess.json) |
+| Really Scary | 233347 | [233347-really-scary.json](./233347-really-scary.json) |
 | Really Simple Golf | 303712 | [303712-really-simple-golf.json](./303712-really-simple-golf.json) |
 | Really Trash Game | 137872 | [137872-really-trash-game.json](./137872-really-trash-game.json) |
 | Really Unique Space Shooter | 136237 | [136237-really-unique-space-shooter.json](./136237-really-unique-space-shooter.json) |
