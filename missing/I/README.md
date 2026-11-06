@@ -3853,6 +3853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5034,6 +5035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interplay Sports Baseball 2000 | 44735 | [44735-interplay-sports-baseball-2000.json](./44735-interplay-sports-baseball-2000.json) |
 | Interplay Sports Baseball 2000 | 94418 | [94418-interplay-sports-baseball-2000.json](./94418-interplay-sports-baseball-2000.json) |
 | Interplay's 10 Year Anthology: Classic Collection | 93381 | [93381-interplays-10-year-anthology-classic-collection.json](./93381-interplays-10-year-anthology-classic-collection.json) |
+| Interplay's Family Favorites | 209242 | [209242-interplays-family-favorites.json](./209242-interplays-family-favorites.json) |
 | Interplay's Learn to Program Basic | 371865 | [371865-interplays-learn-to-program-basic.json](./371865-interplays-learn-to-program-basic.json) |
 | Interplayer | 301906 | [301906-interplayer.json](./301906-interplayer.json) |
 | Interpoint | 115674 | [115674-interpoint.json](./115674-interpoint.json) |
