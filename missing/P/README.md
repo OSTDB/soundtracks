@@ -3497,6 +3497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payrates | 405522 | [405522-payrates.json](./405522-payrates.json) |
 | Payroll | 30710 | [30710-payroll.json](./30710-payroll.json) |
 | Payroll | 385391 | [385391-payroll.json](./385391-payroll.json) |
+| Pazaak Cantina | 204653 | [204653-pazaak-cantina.json](./204653-pazaak-cantina.json) |
 | Paze Knight Ellen and the Dungeon Town Sodom | 244482 | [244482-paze-knight-ellen-and-the-dungeon-town-sodom.json](./244482-paze-knight-ellen-and-the-dungeon-town-sodom.json) |
 | Pazing By | 152695 | [152695-pazing-by.json](./152695-pazing-by.json) |
 | Pazinko! | 369707 | [369707-pazinko.json](./369707-pazinko.json) |
@@ -8806,6 +8807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PiyoRide! | 393884 | [393884-piyoride.json](./393884-piyoride.json) |
 | PiyoShogi | 388512 | [388512-piyoshogi.json](./388512-piyoshogi.json) |
 | Piyotama | 21882 | [21882-piyotama.json](./21882-piyotama.json) |
+| Piyotan Oyashiki Sennyuu Daisakusen! | 204656 | [204656-piyotan-oyashiki-sennyuu-daisakusen.json](./204656-piyotan-oyashiki-sennyuu-daisakusen.json) |
 | Pizz'Amore | 304233 | [304233-pizzamore.json](./304233-pizzamore.json) |
 | Pizza Agent | 379948 | [379948-pizza-agent.json](./379948-pizza-agent.json) |
 | Pizza Apocalypse | 169748 | [169748-pizza-apocalypse.json](./169748-pizza-apocalypse.json) |
@@ -14397,6 +14399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Egypt | 404332 | [404332-prince-of-egypt.json](./404332-prince-of-egypt.json) |
 | Prince of Egypt | 416710 | [416710-prince-of-egypt.json](./416710-prince-of-egypt.json) |
 | Prince of Evil | 78911 | [78911-prince-of-evil.json](./78911-prince-of-evil.json) |
+| Prince of Persia | 204643 | [204643-prince-of-persia.json](./204643-prince-of-persia.json) |
 | Prince of Persia | 248579 | [248579-prince-of-persia.json](./248579-prince-of-persia.json) |
 | Prince of Persia | 249150 | [249150-prince-of-persia.json](./249150-prince-of-persia.json) |
 | Prince of Persia | 284765 | [284765-prince-of-persia.json](./284765-prince-of-persia.json) |
