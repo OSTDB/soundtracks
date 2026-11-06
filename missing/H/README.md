@@ -5187,6 +5187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Milf | 296908 | [296908-hentai-milf.json](./296908-hentai-milf.json) |
 | Hentai MILF Chloe | 293998 | [293998-hentai-milf-chloe.json](./293998-hentai-milf-chloe.json) |
 | Hentai Milf City | 371375 | [371375-hentai-milf-city.json](./371375-hentai-milf-city.json) |
+| Hentai Milf Quiz | 200774 | [200774-hentai-milf-quiz.json](./200774-hentai-milf-quiz.json) |
 | Hentai Milf Quiz 3 | 157897 | [157897-hentai-milf-quiz-3.json](./157897-hentai-milf-quiz-3.json) |
 | Hentai Milf Syndicate | 368076 | [368076-hentai-milf-syndicate.json](./368076-hentai-milf-syndicate.json) |
 | Hentai Milfs | 384595 | [384595-hentai-milfs.json](./384595-hentai-milfs.json) |
@@ -5461,6 +5462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai VR 18+ | 366524 | [366524-hentai-vr-18.json](./366524-hentai-vr-18.json) |
 | Hentai VR 3 | 147408 | [147408-hentai-vr-3.json](./147408-hentai-vr-3.json) |
 | Hentai VR 4 | 152620 | [152620-hentai-vr-4.json](./152620-hentai-vr-4.json) |
+| Hentai vs Virus: I Am Waifu | 200800 | [200800-hentai-vs-virus-i-am-waifu.json](./200800-hentai-vs-virus-i-am-waifu.json) |
 | Hentai vs. Evil | 146095 | [146095-hentai-vs-evil.json](./146095-hentai-vs-evil.json) |
 | Hentai vs. Furries | 164376 | [164376-hentai-vs-furries.json](./164376-hentai-vs-furries.json) |
 | Hentai vs. Orcs | 161388 | [161388-hentai-vs-orcs.json](./161388-hentai-vs-orcs.json) |
@@ -11224,6 +11226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Open a Locked Chest | 344282 | [344282-how-to-open-a-locked-chest.json](./344282-how-to-open-a-locked-chest.json) |
 | How to Play Craps - Tips and Strategies | 91050 | [91050-how-to-play-craps-tips-and-strategies.json](./91050-how-to-play-craps-tips-and-strategies.json) |
 | How to Punish a Witch | 163782 | [163782-how-to-punish-a-witch.json](./163782-how-to-punish-a-witch.json) |
+| How to Raise a Dragon | 200814 | [200814-how-to-raise-a-dragon.json](./200814-how-to-raise-a-dragon.json) |
 | How to Raise a Wolf Girl | 122825 | [122825-how-to-raise-a-wolf-girl.json](./122825-how-to-raise-a-wolf-girl.json) |
 | How to Ride Elevators Like a Human | 414761 | [414761-how-to-ride-elevators-like-a-human.json](./414761-how-to-ride-elevators-like-a-human.json) |
 | How to Say Goodbye | 126445 | [126445-how-to-say-goodbye.json](./126445-how-to-say-goodbye.json) |
