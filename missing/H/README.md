@@ -5256,6 +5256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Romance | 389169 | [389169-hentai-romance.json](./389169-hentai-romance.json) |
 | Hentai Room | 230781 | [230781-hentai-room.json](./230781-hentai-room.json) |
 | Hentai Roxy | 411067 | [411067-hentai-roxy.json](./411067-hentai-roxy.json) |
+| Hentai RPG: Isekai Journey | 234983 | [234983-hentai-rpg-isekai-journey.json](./234983-hentai-rpg-isekai-journey.json) |
 | Hentai Sake | 411070 | [411070-hentai-sake.json](./411070-hentai-sake.json) |
 | Hentai Saki | 389181 | [389181-hentai-saki.json](./389181-hentai-saki.json) |
 | Hentai Sakura | 286453 | [286453-hentai-sakura.json](./286453-hentai-sakura.json) |
