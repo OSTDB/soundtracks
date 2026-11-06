@@ -5768,6 +5768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Cows | 399063 | [399063-no-more-cows.json](./399063-no-more-cows.json) |
 | No More Deep | 346395 | [346395-no-more-deep.json](./346395-no-more-deep.json) |
 | No More Demon | 405755 | [405755-no-more-demon.json](./405755-no-more-demon.json) |
+| No More Fathers | 210955 | [210955-no-more-fathers.json](./210955-no-more-fathers.json) |
 | No More Future | 177912 | [177912-no-more-future.json](./177912-no-more-future.json) |
 | No More Grudges | 349053 | [349053-no-more-grudges.json](./349053-no-more-grudges.json) |
 | No More Heroes | 377191 | [377191-no-more-heroes.json](./377191-no-more-heroes.json) |
@@ -6678,6 +6679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | North Atlantic '86 | 23999 | [23999-north-atlantic-86.json](./23999-north-atlantic-86.json) |
 | North Atlantic Convoy Raider | 23997 | [23997-north-atlantic-convoy-raider.json](./23997-north-atlantic-convoy-raider.json) |
 | North Depths | 367459 | [367459-north-depths.json](./367459-north-depths.json) |
+| North Frontier | 210950 | [210950-north-frontier.json](./210950-north-frontier.json) |
 | North Hunt | 378130 | [378130-north-hunt.json](./378130-north-hunt.json) |
 | North Modding Company: Bergsbruk | 143689 | [143689-north-modding-company-bergsbruk.json](./143689-north-modding-company-bergsbruk.json) |
 | North of Iraq Part 1 | 128318 | [128318-north-of-iraq-part-1.json](./128318-north-of-iraq-part-1.json) |
