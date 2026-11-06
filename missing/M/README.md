@@ -3452,6 +3452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marbles Rush | 153819 | [153819-marbles-rush.json](./153819-marbles-rush.json) |
 | Marbles Temple: Zuma Back! | 68916 | [68916-marbles-temple-zuma-back.json](./68916-marbles-temple-zuma-back.json) |
 | Marblesared | 68371 | [68371-marblesared.json](./68371-marblesared.json) |
+| MarbleVerse | 220938 | [220938-marbleverse.json](./220938-marbleverse.json) |
 | Marbling Clear | 281248 | [281248-marbling-clear.json](./281248-marbling-clear.json) |
 | Marblize | 31142 | [31142-marblize.json](./31142-marblize.json) |
 | Marblob | 366343 | [366343-marblob.json](./366343-marblob.json) |
@@ -5885,7 +5886,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -11306,6 +11306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mightier | 50136 | [50136-mightier.json](./50136-mightier.json) |
 | Mightreya | 314489 | [314489-mightreya.json](./314489-mightreya.json) |
 | Mighty Action Heroes | 288660 | [288660-mighty-action-heroes.json](./288660-mighty-action-heroes.json) |
+| Mighty Action X | 221009 | [221009-mighty-action-x.json](./221009-mighty-action-x.json) |
 | Mighty Alpha Droid | 56384 | [56384-mighty-alpha-droid.json](./56384-mighty-alpha-droid.json) |
 | Mighty Aphid | 135156 | [135156-mighty-aphid.json](./135156-mighty-aphid.json) |
 | Mighty Aphid 2 | 231987 | [231987-mighty-aphid-2.json](./231987-mighty-aphid-2.json) |
@@ -16501,6 +16502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonchild | 252022 | [252022-moonchild.json](./252022-moonchild.json) |
 | Moonchild | 36180 | [36180-moonchild.json](./36180-moonchild.json) |
 | Moonchrome. | 382931 | [382931-moonchrome.json](./382931-moonchrome.json) |
+| Moonday | 221006 | [221006-moonday.json](./221006-moonday.json) |
 | MoonDigger | 83830 | [83830-moondigger.json](./83830-moondigger.json) |
 | Moondrop | 185019 | [185019-moondrop.json](./185019-moondrop.json) |
 | Moondrop Isle | 306861 | [306861-moondrop-isle.json](./306861-moondrop-isle.json) |
@@ -19004,6 +19006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiverse Idle | 390632 | [390632-multiverse-idle.json](./390632-multiverse-idle.json) |
 | Multiverse Loot Hunter | 292586 | [292586-multiverse-loot-hunter.json](./292586-multiverse-loot-hunter.json) |
 | Multiverse Loot Hunter: Three Kingdoms | 320820 | [320820-multiverse-loot-hunter-three-kingdoms.json](./320820-multiverse-loot-hunter-three-kingdoms.json) |
+| Multiverse Mercenaries | 220918 | [220918-multiverse-mercenaries.json](./220918-multiverse-mercenaries.json) |
 | Multiverse Racer | 185509 | [185509-multiverse-racer.json](./185509-multiverse-racer.json) |
 | Multiversepool | 223745 | [223745-multiversepool.json](./223745-multiversepool.json) |
 | MultiVersus: Founder's Pack - Deluxe Edition | 212309 | [212309-multiversus-founders-pack-deluxe-edition.json](./212309-multiversus-founders-pack-deluxe-edition.json) |
