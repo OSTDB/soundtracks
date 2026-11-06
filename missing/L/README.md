@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landfall | 56511 | [56511-landfall.json](./56511-landfall.json) |
 | Landfall Archives | 243542 | [243542-landfall-archives.json](./243542-landfall-archives.json) |
 | Landflix Odyssey | 86450 | [86450-landflix-odyssey.json](./86450-landflix-odyssey.json) |
+| LandFormer | 237729 | [237729-landformer.json](./237729-landformer.json) |
 | Landgrabbers | 95683 | [95683-landgrabbers.json](./95683-landgrabbers.json) |
 | Landinar: Into the Void | 99162 | [99162-landinar-into-the-void.json](./99162-landinar-into-the-void.json) |
 | Landing | 157863 | [157863-landing.json](./157863-landing.json) |
@@ -5932,6 +5933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Kong: Jungle Fun - Deluxe Edition | 227672 | [227672-little-kong-jungle-fun-deluxe-edition.json](./227672-little-kong-jungle-fun-deluxe-edition.json) |
 | Little Kong: Jungle Fun - Extended Edition | 231264 | [231264-little-kong-jungle-fun-extended-edition.json](./231264-little-kong-jungle-fun-extended-edition.json) |
 | Little Kong: Jungle Fun - Premium Edition | 239481 | [239481-little-kong-jungle-fun-premium-edition.json](./239481-little-kong-jungle-fun-premium-edition.json) |
+| Little Kong: Jungle Fun - Special Edition | 237760 | [237760-little-kong-jungle-fun-special-edition.json](./237760-little-kong-jungle-fun-special-edition.json) |
 | Little Kong: Jungle Fun - Ultimate Edition | 231265 | [231265-little-kong-jungle-fun-ultimate-edition.json](./231265-little-kong-jungle-fun-ultimate-edition.json) |
 | Little Lake | 422645 | [422645-little-lake.json](./422645-little-lake.json) |
 | Little Lamb | 262429 | [262429-little-lamb.json](./262429-little-lamb.json) |
@@ -6602,6 +6604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Local Area Dungeon | 356860 | [356860-local-area-dungeon.json](./356860-local-area-dungeon.json) |
 | Local Call for Death | 55834 | [55834-local-call-for-death.json](./55834-local-call-for-death.json) |
 | Local Network | 178019 | [178019-local-network.json](./178019-local-network.json) |
+| Local News with Cliff Rockslide | 237725 | [237725-local-news-with-cliff-rockslide.json](./237725-local-news-with-cliff-rockslide.json) |
 | Local Paper Small Town | 195181 | [195181-local-paper-small-town.json](./195181-local-paper-small-town.json) |
 | Local Zombies | 389712 | [389712-local-zombies.json](./389712-local-zombies.json) |
 | Localhost | 68110 | [68110-localhost.json](./68110-localhost.json) |
