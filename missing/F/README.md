@@ -654,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Card Rogue | 226503 | [226503-fairy-card-rogue.json](./226503-fairy-card-rogue.json) |
 | Fairy Carrots | 276838 | [276838-fairy-carrots.json](./276838-fairy-carrots.json) |
 | Fairy Comedy: A Love Hard To Find | 275527 | [275527-fairy-comedy-a-love-hard-to-find.json](./275527-fairy-comedy-a-love-hard-to-find.json) |
+| Fairy Cubes | 207978 | [207978-fairy-cubes.json](./207978-fairy-cubes.json) |
 | Fairy Elements | 214643 | [214643-fairy-elements.json](./214643-fairy-elements.json) |
 | Fairy Escape | 99632 | [99632-fairy-escape.json](./99632-fairy-escape.json) |
 | Fairy Fencer F | 9893 | [9893-fairy-fencer-f.json](./9893-fairy-fencer-f.json) |
@@ -3350,6 +3351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatum Betula + Moto Rush GT | 255257 | [255257-fatum-betula-moto-rush-gt.json](./255257-fatum-betula-moto-rush-gt.json) |
 | Fatum Betula + Urban Flow | 252702 | [252702-fatum-betula-urban-flow.json](./252702-fatum-betula-urban-flow.json) |
 | Fatum Metamorphosis: Void Divers | 178463 | [178463-fatum-metamorphosis-void-divers.json](./178463-fatum-metamorphosis-void-divers.json) |
+| Faty's Different World | 207996 | [207996-fatys-different-world.json](./207996-fatys-different-world.json) |
 | FAU-G: Fearless and United Guards | 138668 | [138668-fau-g-fearless-and-united-guards.json](./138668-fau-g-fearless-and-united-guards.json) |
 | Faucet VR | 89269 | [89269-faucet-vr.json](./89269-faucet-vr.json) |
 | Faul! | 194659 | [194659-faul.json](./194659-faul.json) |
