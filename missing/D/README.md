@@ -11540,6 +11540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodo Drop | 184707 | [184707-dodo-drop.json](./184707-dodo-drop.json) |
 | Dodo Duckie | 342305 | [342305-dodo-duckie.json](./342305-dodo-duckie.json) |
 | Dodo Fly: New World | 241824 | [241824-dodo-fly-new-world.json](./241824-dodo-fly-new-world.json) |
+| Dodo Life | 201361 | [201361-dodo-life.json](./201361-dodo-life.json) |
 | Dodo Peak | 124397 | [124397-dodo-peak.json](./124397-dodo-peak.json) |
 | Dodo Zombies | 417204 | [417204-dodo-zombies.json](./417204-dodo-zombies.json) |
 | DoDodge | 231330 | [231330-dododge.json](./231330-dododge.json) |
@@ -11850,6 +11851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Exit Music | 165138 | [165138-doki-doki-exit-music.json](./165138-doki-doki-exit-music.json) |
 | Doki Doki Exit Music Epilogue | 353423 | [353423-doki-doki-exit-music-epilogue.json](./353423-doki-doki-exit-music-epilogue.json) |
 | Doki Doki Exit Music: Redux | 201845 | [201845-doki-doki-exit-music-redux.json](./201845-doki-doki-exit-music-redux.json) |
+| Doki Doki Family: Toku Itaishitsu no Doki-doki Kazoku Seikatsu | 201370 | [201370-doki-doki-family-toku-itaishitsu-no-doki-doki-kazoku-seikatsu.json](./201370-doki-doki-family-toku-itaishitsu-no-doki-doki-kazoku-seikatsu.json) |
 | Doki Doki Fiendish | 332852 | [332852-doki-doki-fiendish.json](./332852-doki-doki-fiendish.json) |
 | Doki Doki First Love Club! | 153950 | [153950-doki-doki-first-love-club.json](./153950-doki-doki-first-love-club.json) |
 | Doki Doki Fleeting Feelings | 333842 | [333842-doki-doki-fleeting-feelings.json](./333842-doki-doki-fleeting-feelings.json) |
@@ -15990,6 +15992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Vacation Solitaire | 200964 | [200964-dream-vacation-solitaire.json](./200964-dream-vacation-solitaire.json) |
 | Dream Village | 390229 | [390229-dream-village.json](./390229-dream-village.json) |
 | Dream vs. Dream | 212764 | [212764-dream-vs-dream.json](./212764-dream-vs-dream.json) |
+| Dream Walk: Mortgage | 201391 | [201391-dream-walk-mortgage.json](./201391-dream-walk-mortgage.json) |
 | Dream Walk: Stolen Color | 215871 | [215871-dream-walk-stolen-color.json](./215871-dream-walk-stolen-color.json) |
 | Dream Walker | 365851 | [365851-dream-walker.json](./365851-dream-walker.json) |
 | Dream Walker | 385395 | [385395-dream-walker.json](./385395-dream-walker.json) |
@@ -16823,6 +16826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Swarm | 56357 | [56357-drone-swarm.json](./56357-drone-swarm.json) |
 | Drone Tactics | 21487 | [21487-drone-tactics.json](./21487-drone-tactics.json) |
 | Drone Tanks | 415111 | [415111-drone-tanks.json](./415111-drone-tanks.json) |
+| Drone Tinkerer | 201379 | [201379-drone-tinkerer.json](./201379-drone-tinkerer.json) |
 | Drone tracks | 121699 | [121699-drone-tracks.json](./121699-drone-tracks.json) |
 | Drone VR | 189807 | [189807-drone-vr.json](./189807-drone-vr.json) |
 | Drone Warfare | 81179 | [81179-drone-warfare.json](./81179-drone-warfare.json) |
