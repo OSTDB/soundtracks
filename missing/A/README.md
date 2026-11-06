@@ -3766,6 +3766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Ruby Rabbit | 211702 | [211702-adventures-of-ruby-rabbit.json](./211702-adventures-of-ruby-rabbit.json) |
 | Adventures of Sadukar: Chapter I | 168858 | [168858-adventures-of-sadukar-chapter-i.json](./168858-adventures-of-sadukar-chapter-i.json) |
 | Adventures of Samuel: The Worst Game Ever Made | 196160 | [196160-adventures-of-samuel-the-worst-game-ever-made.json](./196160-adventures-of-samuel-the-worst-game-ever-made.json) |
+| Adventures of Skye the Slime Maid | 226051 | [226051-adventures-of-skye-the-slime-maid.json](./226051-adventures-of-skye-the-slime-maid.json) |
 | Adventures of Squeak Bottoms | 262833 | [262833-adventures-of-squeak-bottoms.json](./262833-adventures-of-squeak-bottoms.json) |
 | Adventures of Steve the Cat | 244072 | [244072-adventures-of-steve-the-cat.json](./244072-adventures-of-steve-the-cat.json) |
 | Adventures of Tara | 393119 | [393119-adventures-of-tara.json](./393119-adventures-of-tara.json) |
@@ -4660,6 +4661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Pixels | 118261 | [118261-age-of-pixels.json](./118261-age-of-pixels.json) |
 | Age of Privateer | 303122 | [303122-age-of-privateer.json](./303122-age-of-privateer.json) |
 | Age of Procreation DX | 214340 | [214340-age-of-procreation-dx.json](./214340-age-of-procreation-dx.json) |
+| Age of Pyramids | 226016 | [226016-age-of-pyramids.json](./226016-age-of-pyramids.json) |
 | Age of Reforging: The Freelands | 171364 | [171364-age-of-reforging-the-freelands.json](./171364-age-of-reforging-the-freelands.json) |
 | Age of Respair | 350402 | [350402-age-of-respair.json](./350402-age-of-respair.json) |
 | Age of Rivals | 29383 | [29383-age-of-rivals.json](./29383-age-of-rivals.json) |
