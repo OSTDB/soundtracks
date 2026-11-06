@@ -8042,6 +8042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Logic | 405765 | [405765-devils-logic.json](./405765-devils-logic.json) |
 | Devil's Mansion | 267318 | [267318-devils-mansion.json](./267318-devils-mansion.json) |
 | Devil's Menu | 372588 | [372588-devils-menu.json](./372588-devils-menu.json) |
+| Devil's Peak Fury | 239994 | [239994-devils-peak-fury.json](./239994-devils-peak-fury.json) |
 | Devil's Peak Rally | 235124 | [235124-devils-peak-rally.json](./235124-devils-peak-rally.json) |
 | Devil’s Propose | 254609 | [254609-devil-s-propose.json](./254609-devil-s-propose.json) |
 | Devil's Revenge | 69855 | [69855-devils-revenge.json](./69855-devils-revenge.json) |
@@ -16247,6 +16248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Draft Destroy | 240927 | [240927-drift-draft-destroy.json](./240927-drift-draft-destroy.json) |
 | Drift Empire | 390257 | [390257-drift-empire.json](./390257-drift-empire.json) |
 | Drift Experience Japan | 234533 | [234533-drift-experience-japan.json](./234533-drift-experience-japan.json) |
+| Drift Experience Japan: Supporter Edition | 239973 | [239973-drift-experience-japan-supporter-edition.json](./239973-drift-experience-japan-supporter-edition.json) |
 | Drift Force Xtreme: Ultimate Car Simulator 2024 | 292915 | [292915-drift-force-xtreme-ultimate-car-simulator-2024.json](./292915-drift-force-xtreme-ultimate-car-simulator-2024.json) |
 | Drift Fuel Loop | 364798 | [364798-drift-fuel-loop.json](./364798-drift-fuel-loop.json) |
 | Drift Gang | 372449 | [372449-drift-gang.json](./372449-drift-gang.json) |
@@ -18376,6 +18378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Furries | 310486 | [310486-dungeons-and-furries.json](./310486-dungeons-and-furries.json) |
 | Dungeons & Geese | 51855 | [51855-dungeons-and-geese.json](./51855-dungeons-and-geese.json) |
 | Dungeons & Guns | 158081 | [158081-dungeons-and-guns.json](./158081-dungeons-and-guns.json) |
+| Dungeons & Jewels | 240012 | [240012-dungeons-and-jewels.json](./240012-dungeons-and-jewels.json) |
 | Dungeons & Keyboards | 250953 | [250953-dungeons-and-keyboards.json](./250953-dungeons-and-keyboards.json) |
 | Dungeons & Kingdoms | 312778 | [312778-dungeons-and-kingdoms.json](./312778-dungeons-and-kingdoms.json) |
 | Dungeons & Lesbians | 134554 | [134554-dungeons-and-lesbians.json](./134554-dungeons-and-lesbians.json) |
