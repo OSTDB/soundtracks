@@ -3586,6 +3586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavenly Way Legend | 326013 | [326013-heavenly-way-legend.json](./326013-heavenly-way-legend.json) |
 | Heavensborne | 276535 | [276535-heavensborne.json](./276535-heavensborne.json) |
 | Heavenshatter | 351144 | [351144-heavenshatter.json](./351144-heavenshatter.json) |
+| HeavenSlinger | 228809 | [228809-heavenslinger.json](./228809-heavenslinger.json) |
 | HeavensSea | 304914 | [304914-heavenssea.json](./304914-heavenssea.json) |
 | Heavenstrafer | 267461 | [267461-heavenstrafer.json](./267461-heavenstrafer.json) |
 | Heavenstrike Rivals | 26904 | [26904-heavenstrike-rivals.json](./26904-heavenstrike-rivals.json) |
@@ -4569,6 +4570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helltower | 116225 | [116225-helltower.json](./116225-helltower.json) |
 | HellTown | 61602 | [61602-helltown.json](./61602-helltown.json) |
 | Helltown: Revival Update | 307822 | [307822-helltown-revival-update.json](./307822-helltown-revival-update.json) |
+| Helluva Boss Flaming Fashion | 228821 | [228821-helluva-boss-flaming-fashion.json](./228821-helluva-boss-flaming-fashion.json) |
 | Helluva Brawl | 341387 | [341387-helluva-brawl.json](./341387-helluva-brawl.json) |
 | Helluva Brawl | 342257 | [342257-helluva-brawl.json](./342257-helluva-brawl.json) |
 | Hellver | 129692 | [129692-hellver.json](./129692-hellver.json) |
@@ -8058,6 +8060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | His Fragile Mind | 407073 | [407073-his-fragile-mind.json](./407073-his-fragile-mind.json) |
 | His Majesty's Ship Impetuous | 55833 | [55833-his-majestys-ship-impetuous.json](./55833-his-majestys-ship-impetuous.json) |
 | His Majesty's Ship Impetuous | 55838 | [55838-his-majestys-ship-impetuous.json](./55838-his-majestys-ship-impetuous.json) |
+| His Name is Diamond | 228841 | [228841-his-name-is-diamond.json](./228841-his-name-is-diamond.json) |
 | His World | 391118 | [391118-his-world.json](./391118-his-world.json) |
 | HIS: Heroes in the Sky | 35933 | [35933-his-heroes-in-the-sky.json](./35933-his-heroes-in-the-sky.json) |
 | HIS: Heroes in the Sky - AVRO Spade Julia Mackin Pack | 170405 | [170405-his-heroes-in-the-sky-avro-spade-julia-mackin-pack.json](./170405-his-heroes-in-the-sky-avro-spade-julia-mackin-pack.json) |
