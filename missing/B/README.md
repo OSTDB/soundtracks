@@ -958,6 +958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1263,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakusou Dekotora Densetsu for WonderSwan | 37524 | [37524-bakusou-dekotora-densetsu-for-wonderswan.json](./37524-bakusou-dekotora-densetsu-for-wonderswan.json) |
 | Bakusou Dekotora Densetsu: Otoko Hanamichi Yume Roman | 60415 | [60415-bakusou-dekotora-densetsu-otoko-hanamichi-yume-roman.json](./60415-bakusou-dekotora-densetsu-otoko-hanamichi-yume-roman.json) |
 | Bakusou Dekotora Densetsu: Otoko Ippiki Yume Kaidoi | 60417 | [60417-bakusou-dekotora-densetsu-otoko-ippiki-yume-kaidoi.json](./60417-bakusou-dekotora-densetsu-otoko-ippiki-yume-kaidoi.json) |
+| Bakusou Kyoudai Let's & Go!! | 221010 | [221010-bakusou-kyoudai-lets-and-go.json](./221010-bakusou-kyoudai-lets-and-go.json) |
 | Bakusou Kyoudai Let's & Go!!: Eternal Wings | 44765 | [44765-bakusou-kyoudai-lets-and-go-eternal-wings.json](./44765-bakusou-kyoudai-lets-and-go-eternal-wings.json) |
 | Bakusuro Bank | 98040 | [98040-bakusuro-bank.json](./98040-bakusuro-bank.json) |
 | Bakutan | 344318 | [344318-bakutan.json](./344318-bakutan.json) |
@@ -14730,6 +14732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawl Busters | 20714 | [20714-brawl-busters.json](./20714-brawl-busters.json) |
 | Brawl Chess | 140374 | [140374-brawl-chess.json](./140374-brawl-chess.json) |
 | Brawl Chess: Barbarian | 403413 | [403413-brawl-chess-barbarian.json](./403413-brawl-chess-barbarian.json) |
+| Brawl Chess: Deluxe Edition | 220934 | [220934-brawl-chess-deluxe-edition.json](./220934-brawl-chess-deluxe-edition.json) |
 | Brawl Chess: Dwarf | 403414 | [403414-brawl-chess-dwarf.json](./403414-brawl-chess-dwarf.json) |
 | Brawl Chess: Elf | 403415 | [403415-brawl-chess-elf.json](./403415-brawl-chess-elf.json) |
 | Brawl Chess: Fairy | 403416 | [403416-brawl-chess-fairy.json](./403416-brawl-chess-fairy.json) |
