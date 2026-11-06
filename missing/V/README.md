@@ -856,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vapor Maze | 178543 | [178543-vapor-maze.json](./178543-vapor-maze.json) |
 | Vapor Memories | 184122 | [184122-vapor-memories.json](./184122-vapor-memories.json) |
 | Vapor Music Tour | 160172 | [160172-vapor-music-tour.json](./160172-vapor-music-tour.json) |
+| Vapor Run | 226578 | [226578-vapor-run.json](./226578-vapor-run.json) |
 | Vapor Strange | 388086 | [388086-vapor-strange.json](./388086-vapor-strange.json) |
 | Vapor Tanks | 261786 | [261786-vapor-tanks.json](./261786-vapor-tanks.json) |
 | Vapor Trail | 39996 | [39996-vapor-trail.json](./39996-vapor-trail.json) |
@@ -3567,6 +3568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VonGarland Castle: Beyond Blood | 335216 | [335216-vongarland-castle-beyond-blood.json](./335216-vongarland-castle-beyond-blood.json) |
 | VonGarland Castle: Sacrilege of the Night | 264526 | [264526-vongarland-castle-sacrilege-of-the-night.json](./264526-vongarland-castle-sacrilege-of-the-night.json) |
 | VoodLoop | 364566 | [364566-voodloop.json](./364566-voodloop.json) |
+| Voodolls | 226576 | [226576-voodolls.json](./226576-voodolls.json) |
 | Voodoo Castle | 18517 | [18517-voodoo-castle.json](./18517-voodoo-castle.json) |
 | Voodoo Chronicles: First Sign - Collector's Edition | 53154 | [53154-voodoo-chronicles-first-sign-collectors-edition.json](./53154-voodoo-chronicles-first-sign-collectors-edition.json) |
 | Voodoo Chronicles: The First Sign | 63601 | [63601-voodoo-chronicles-the-first-sign.json](./63601-voodoo-chronicles-the-first-sign.json) |
