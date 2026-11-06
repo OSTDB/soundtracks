@@ -14568,10 +14568,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corona Runner | 164181 | [164181-corona-runner.json](./164181-corona-runner.json) |
 | Corona Simulator | 156889 | [156889-corona-simulator.json](./156889-corona-simulator.json) |
 | Corona Simulator: Savior Edition | 165004 | [165004-corona-simulator-savior-edition.json](./165004-corona-simulator-savior-edition.json) |
+| CoronaFighter | 238254 | [238254-coronafighter.json](./238254-coronafighter.json) |
 | Coronarun | 156704 | [156704-coronarun.json](./156704-coronarun.json) |
 | Coronation | 91381 | [91381-coronation.json](./91381-coronation.json) |
 | Coronaviral | 181764 | [181764-coronaviral.json](./181764-coronaviral.json) |
 | Coronavirus Attack | 405275 | [405275-coronavirus-attack.json](./405275-coronavirus-attack.json) |
+| Coronavirus Evolution | 238257 | [238257-coronavirus-evolution.json](./238257-coronavirus-evolution.json) |
 | Coronavirus Quarantine Simulator | 137996 | [137996-coronavirus-quarantine-simulator.json](./137996-coronavirus-quarantine-simulator.json) |
 | Coronavirus: Nano Force | 165002 | [165002-coronavirus-nano-force.json](./165002-coronavirus-nano-force.json) |
 | CoronaViruses | 151556 | [151556-coronaviruses.json](./151556-coronaviruses.json) |
@@ -14694,6 +14696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrupt Them All: Tokyo Meow | 370577 | [370577-corrupt-them-all-tokyo-meow.json](./370577-corrupt-them-all-tokyo-meow.json) |
 | Corrupt: Political Simulator | 255481 | [255481-corrupt-political-simulator.json](./255481-corrupt-political-simulator.json) |
 | Corrupt.exe | 408850 | [408850-corrupt-exe.json](./408850-corrupt-exe.json) |
+| Corrupted | 238280 | [238280-corrupted.json](./238280-corrupted.json) |
 | Corrupted | 251063 | [251063-corrupted.json](./251063-corrupted.json) |
 | Corrupted | 288804 | [288804-corrupted.json](./288804-corrupted.json) |
 | Corrupted | 296806 | [296806-corrupted.json](./296806-corrupted.json) |
