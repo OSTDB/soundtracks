@@ -7755,6 +7755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ripple Island | 48791 | [48791-ripple-island.json](./48791-ripple-island.json) |
 | Ripple no Tamago: Apprentice Magician | 203282 | [203282-ripple-no-tamago-apprentice-magician.json](./203282-ripple-no-tamago-apprentice-magician.json) |
 | Ripple Park | 405513 | [405513-ripple-park.json](./405513-ripple-park.json) |
+| Ripple: Blue Seal he Youkoso | 194713 | [194713-ripple-blue-seal-he-youkoso.json](./194713-ripple-blue-seal-he-youkoso.json) |
 | RippleLoop | 416045 | [416045-rippleloop.json](./416045-rippleloop.json) |
 | Ripples | 239315 | [239315-ripples.json](./239315-ripples.json) |
 | Ripples | 256696 | [256696-ripples.json](./256696-ripples.json) |
