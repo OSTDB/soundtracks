@@ -957,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1989,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Band-kun | 170248 | [170248-band-kun.json](./170248-band-kun.json) |
 | Bandage on my right cheek | 28087 | [28087-bandage-on-my-right-cheek.json](./28087-bandage-on-my-right-cheek.json) |
 | Bandai Golf: Challenge Pebble Beach | 9285 | [9285-bandai-golf-challenge-pebble-beach.json](./9285-bandai-golf-challenge-pebble-beach.json) |
+| Bandai Namco Flashback Blast! | 245650 | [245650-bandai-namco-flashback-blast.json](./245650-bandai-namco-flashback-blast.json) |
 | Bandai Namco Games Presents: J Legend Retsuden | 136907 | [136907-bandai-namco-games-presents-j-legend-retsuden.json](./136907-bandai-namco-games-presents-j-legend-retsuden.json) |
 | Bandai Namco Games Presents: J Legend Retsuden | 63114 | [63114-bandai-namco-games-presents-j-legend-retsuden.json](./63114-bandai-namco-games-presents-j-legend-retsuden.json) |
 | Bandana City | 93067 | [93067-bandana-city.json](./93067-bandana-city.json) |
