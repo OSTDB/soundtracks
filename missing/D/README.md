@@ -10097,6 +10097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disco Manager | 143396 | [143396-disco-manager.json](./143396-disco-manager.json) |
 | Disco No.1 | 40046 | [40046-disco-no-1.json](./40046-disco-no-1.json) |
 | Disco Noire | 194309 | [194309-disco-noire.json](./194309-disco-noire.json) |
+| Disco Road | 200217 | [200217-disco-road.json](./200217-disco-road.json) |
 | Disco Samurai | 267475 | [267475-disco-samurai.json](./267475-disco-samurai.json) |
 | Disco Time 80s VR | 40466 | [40466-disco-time-80s-vr.json](./40466-disco-time-80s-vr.json) |
 | Disco Tomb | 217299 | [217299-disco-tomb.json](./217299-disco-tomb.json) |
@@ -12470,6 +12471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Pop My Bubble | 368539 | [368539-dont-pop-my-bubble.json](./368539-dont-pop-my-bubble.json) |
 | Don't Pop the Balloon | 391896 | [391896-dont-pop-the-balloon.json](./391896-dont-pop-the-balloon.json) |
 | Don't Pop The Balloon | 316779 | [316779-dont-pop-the-balloon.json](./316779-dont-pop-the-balloon.json) |
+| Don't Pop Yellow or White | 200214 | [200214-dont-pop-yellow-or-white.json](./200214-dont-pop-yellow-or-white.json) |
 | Don't Pop! Dungeon | 56786 | [56786-dont-pop-dungeon.json](./56786-dont-pop-dungeon.json) |
 | Don't Pray to Satan | 89953 | [89953-dont-pray-to-satan.json](./89953-dont-pray-to-satan.json) |
 | Don't Press A to Jump | 279484 | [279484-dont-press-a-to-jump.json](./279484-dont-press-a-to-jump.json) |
@@ -13370,6 +13372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorabase 2: Nettou Ultra Stadium | 79716 | [79716-dorabase-2-nettou-ultra-stadium.json](./79716-dorabase-2-nettou-ultra-stadium.json) |
 | Dorabase: Dramatic Stadium | 91771 | [91771-dorabase-dramatic-stadium.json](./91771-dorabase-dramatic-stadium.json) |
 | Dorachan | 178099 | [178099-dorachan.json](./178099-dorachan.json) |
+| Dorado | 200245 | [200245-dorado.json](./200245-dorado.json) |
 | Doradora Panic | 151679 | [151679-doradora-panic.json](./151679-doradora-panic.json) |
 | Doraemon | 281167 | [281167-doraemon.json](./281167-doraemon.json) |
 | Doraemon | 79111 | [79111-doraemon.json](./79111-doraemon.json) |
@@ -18330,6 +18333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Valley | 174668 | [174668-dungeon-valley.json](./174668-dungeon-valley.json) |
 | Dungeon Vending Machines | 322170 | [322170-dungeon-vending-machines.json](./322170-dungeon-vending-machines.json) |
 | Dungeon Village | 19814 | [19814-dungeon-village.json](./19814-dungeon-village.json) |
+| Dungeon Village 2 | 200226 | [200226-dungeon-village-2.json](./200226-dungeon-village-2.json) |
 | Dungeon Vixens: A Tale of Temptation | 278985 | [278985-dungeon-vixens-a-tale-of-temptation.json](./278985-dungeon-vixens-a-tale-of-temptation.json) |
 | Dungeon Voxel | 193256 | [193256-dungeon-voxel.json](./193256-dungeon-voxel.json) |
 | Dungeon vs Gunner | 224062 | [224062-dungeon-vs-gunner.json](./224062-dungeon-vs-gunner.json) |
@@ -18765,6 +18769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | During Before and After Covid-19 | 150766 | [150766-during-before-and-after-covid-19.json](./150766-during-before-and-after-covid-19.json) |
 | Durium Hospital Lost Tape 95 | 285403 | [285403-durium-hospital-lost-tape-95.json](./285403-durium-hospital-lost-tape-95.json) |
 | Durka Simulator | 236402 | [236402-durka-simulator.json](./236402-durka-simulator.json) |
+| Durlindana | 200233 | [200233-durlindana.json](./200233-durlindana.json) |
 | DURT | 285855 | [285855-durt.json](./285855-durt.json) |
 | Duru: About Mole Rats and Depression | 138724 | [138724-duru-about-mole-rats-and-depression.json](./138724-duru-about-mole-rats-and-depression.json) |
 | Dǔshén zhī Mènghuàn Poker | 128864 | [128864-dushen-zhi-menghuan-poker.json](./128864-dushen-zhi-menghuan-poker.json) |
