@@ -1377,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eets Munchies | 15312 | [15312-eets-munchies.json](./15312-eets-munchies.json) |
 | Eets: Chowdown | 21946 | [21946-eets-chowdown.json](./21946-eets-chowdown.json) |
 | Eets: Hunger. It's emotional. | 28960 | [28960-eets-hunger-its-emotional.json](./28960-eets-hunger-its-emotional.json) |
+| Eevee x Tamagotchi | 230060 | [230060-eevee-x-tamagotchi.json](./230060-eevee-x-tamagotchi.json) |
 | Eevoo II | 233769 | [233769-eevoo-ii.json](./233769-eevoo-ii.json) |
 | Eexy Life: East End X Yuri | 252198 | [252198-eexy-life-east-end-x-yuri.json](./252198-eexy-life-east-end-x-yuri.json) |
 | EF Defense | 233408 | [233408-ef-defense.json](./233408-ef-defense.json) |
@@ -6529,6 +6530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evasive Maneuvers | 166845 | [166845-evasive-maneuvers.json](./166845-evasive-maneuvers.json) |
 | Evasive Satellite | 364801 | [364801-evasive-satellite.json](./364801-evasive-satellite.json) |
 | Evasive Space | 51018 | [51018-evasive-space.json](./51018-evasive-space.json) |
+| Evatchi | 230062 | [230062-evatchi.json](./230062-evatchi.json) |
 | Evaverse | 158522 | [158522-evaverse.json](./158522-evaverse.json) |
 | Evdeki Lanet | 160164 | [160164-evdeki-lanet.json](./160164-evdeki-lanet.json) |
 | EVE Aether Wars - Tech Demo | 126344 | [126344-eve-aether-wars-tech-demo.json](./126344-eve-aether-wars-tech-demo.json) |
@@ -7977,6 +7979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extant: Zombie Eradication Co-op Simulation | 295821 | [295821-extant-zombie-eradication-co-op-simulation.json](./295821-extant-zombie-eradication-co-op-simulation.json) |
 | Extase | 94197 | [94197-extase.json](./94197-extase.json) |
 | Exteel | 77809 | [77809-exteel.json](./77809-exteel.json) |
+| Extellatchi | 230068 | [230068-extellatchi.json](./230068-extellatchi.json) |
 | Extended Stay | 158401 | [158401-extended-stay.json](./158401-extended-stay.json) |
 | Extensor | 85951 | [85951-extensor.json](./85951-extensor.json) |
 | Exteria | 31056 | [31056-exteria.json](./31056-exteria.json) |
