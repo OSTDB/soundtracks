@@ -1921,6 +1921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Souls: Remastered Seamless Co-op | 354911 | [354911-dark-souls-remastered-seamless-co-op.json](./354911-dark-souls-remastered-seamless-co-op.json) |
 | Dark Space | 283396 | [283396-dark-space.json](./283396-dark-space.json) |
 | Dark Space Conqueror | 118615 | [118615-dark-space-conqueror.json](./118615-dark-space-conqueror.json) |
+| Dark Spasm | 232236 | [232236-dark-spasm.json](./232236-dark-spasm.json) |
 | Dark Spirit | 294948 | [294948-dark-spirit.json](./294948-dark-spirit.json) |
 | Dark Spot | 157377 | [157377-dark-spot.json](./157377-dark-spot.json) |
 | Dark Star | 134598 | [134598-dark-star.json](./134598-dark-star.json) |
@@ -17294,6 +17295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Warfare | 96811 | [96811-duck-warfare.json](./96811-duck-warfare.json) |
 | Duck, Jump, Die! | 181344 | [181344-duck-jump-die.json](./181344-duck-jump-die.json) |
 | Duck, Quack, Shoot! | 287665 | [287665-duck-quack-shoot.json](./287665-duck-quack-shoot.json) |
+| DUCK: Dangerous Ultimate Cartridge Kidnapper | 232229 | [232229-duck-dangerous-ultimate-cartridge-kidnapper.json](./232229-duck-dangerous-ultimate-cartridge-kidnapper.json) |
 | Duck's Despair | 249817 | [249817-ducks-despair.json](./249817-ducks-despair.json) |
 | Duck's Inferno | 111437 | [111437-ducks-inferno.json](./111437-ducks-inferno.json) |
 | Duck's Island | 399716 | [399716-ducks-island.json](./399716-ducks-island.json) |
