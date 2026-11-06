@@ -3586,6 +3586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Featherbound | 294269 | [294269-featherbound.json](./294269-featherbound.json) |
 | FeatherCall | 271871 | [271871-feathercall.json](./271871-feathercall.json) |
 | Feathered Escape | 288667 | [288667-feathered-escape.json](./288667-feathered-escape.json) |
+| Feathered Run | 221467 | [221467-feathered-run.json](./221467-feathered-run.json) |
 | Feathered Run: Worlds | 224595 | [224595-feathered-run-worlds.json](./224595-feathered-run-worlds.json) |
 | Featherfall | 125367 | [125367-featherfall.json](./125367-featherfall.json) |
 | Featherfall | 129442 | [129442-featherfall.json](./129442-featherfall.json) |
@@ -5060,19 +5061,27 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XIV Online: Starter Edition | 293777 | [293777-final-fantasy-xiv-online-starter-edition.json](./293777-final-fantasy-xiv-online-starter-edition.json) |
 | Final Fantasy XIV: A Realm Awoken | 221522 | [221522-final-fantasy-xiv-a-realm-awoken.json](./221522-final-fantasy-xiv-a-realm-awoken.json) |
 | Final Fantasy XIV: A Realm Reborn - Collector's Edition | 41839 | [41839-final-fantasy-xiv-a-realm-reborn-collectors-edition.json](./41839-final-fantasy-xiv-a-realm-reborn-collectors-edition.json) |
+| Final Fantasy XIV: A Requiem for Heroes | 221542 | [221542-final-fantasy-xiv-a-requiem-for-heroes.json](./221542-final-fantasy-xiv-a-requiem-for-heroes.json) |
 | Final Fantasy XIV: As Goes Light, So Goes Darkness | 221529 | [221529-final-fantasy-xiv-as-goes-light-so-goes-darkness.json](./221529-final-fantasy-xiv-as-goes-light-so-goes-darkness.json) |
 | Final Fantasy XIV: Before the Fall | 221528 | [221528-final-fantasy-xiv-before-the-fall.json](./221528-final-fantasy-xiv-before-the-fall.json) |
+| Final Fantasy XIV: Buried Memory | 221549 | [221549-final-fantasy-xiv-buried-memory.json](./221549-final-fantasy-xiv-buried-memory.json) |
 | Final Fantasy XIV: Collector's Edition | 41854 | [41854-final-fantasy-xiv-collectors-edition.json](./41854-final-fantasy-xiv-collectors-edition.json) |
 | Final Fantasy XIV: Crossroads | 318270 | [318270-final-fantasy-xiv-crossroads.json](./318270-final-fantasy-xiv-crossroads.json) |
 | Final Fantasy XIV: Dawntrail - Collector's Edition | 307775 | [307775-final-fantasy-xiv-dawntrail-collectors-edition.json](./307775-final-fantasy-xiv-dawntrail-collectors-edition.json) |
+| Final Fantasy XIV: Death Unto Dawn | 221547 | [221547-final-fantasy-xiv-death-unto-dawn.json](./221547-final-fantasy-xiv-death-unto-dawn.json) |
 | Final Fantasy XIV: Defenders of Eorzea | 221525 | [221525-final-fantasy-xiv-defenders-of-eorzea.json](./221525-final-fantasy-xiv-defenders-of-eorzea.json) |
 | Final Fantasy XIV: Dreams of Ice | 221526 | [221526-final-fantasy-xiv-dreams-of-ice.json](./221526-final-fantasy-xiv-dreams-of-ice.json) |
+| Final Fantasy XIV: Echoes of a Fallen Star | 221544 | [221544-final-fantasy-xiv-echoes-of-a-fallen-star.json](./221544-final-fantasy-xiv-echoes-of-a-fallen-star.json) |
 | Final Fantasy XIV: Endwalker | 143232 | [143232-final-fantasy-xiv-endwalker.json](./143232-final-fantasy-xiv-endwalker.json) |
 | Final Fantasy XIV: Endwalker - Collector's Edition | 152343 | [152343-final-fantasy-xiv-endwalker-collectors-edition.json](./152343-final-fantasy-xiv-endwalker-collectors-edition.json) |
+| Final Fantasy XIV: Futures Rewritten | 221546 | [221546-final-fantasy-xiv-futures-rewritten.json](./221546-final-fantasy-xiv-futures-rewritten.json) |
 | Final Fantasy XIV: Gods Revel, Lands Tremble | 228886 | [228886-final-fantasy-xiv-gods-revel-lands-tremble.json](./228886-final-fantasy-xiv-gods-revel-lands-tremble.json) |
 | Final Fantasy XIV: Growing Light | 259399 | [259399-final-fantasy-xiv-growing-light.json](./259399-final-fantasy-xiv-growing-light.json) |
 | Final Fantasy XIV: Heavensward - Collector's Edition | 51532 | [51532-final-fantasy-xiv-heavensward-collectors-edition.json](./51532-final-fantasy-xiv-heavensward-collectors-edition.json) |
 | Final Fantasy XIV: Into the Mist | 376015 | [376015-final-fantasy-xiv-into-the-mist.json](./376015-final-fantasy-xiv-into-the-mist.json) |
+| Final Fantasy XIV: Newfound Adventure | 221548 | [221548-final-fantasy-xiv-newfound-adventure.json](./221548-final-fantasy-xiv-newfound-adventure.json) |
+| Final Fantasy XIV: Prelude in Violet | 221541 | [221541-final-fantasy-xiv-prelude-in-violet.json](./221541-final-fantasy-xiv-prelude-in-violet.json) |
+| Final Fantasy XIV: Reflections in Crystal | 221545 | [221545-final-fantasy-xiv-reflections-in-crystal.json](./221545-final-fantasy-xiv-reflections-in-crystal.json) |
 | Final Fantasy XIV: Revenge of the Horde | 221533 | [221533-final-fantasy-xiv-revenge-of-the-horde.json](./221533-final-fantasy-xiv-revenge-of-the-horde.json) |
 | Final Fantasy XIV: Rise of a New Sun | 221539 | [221539-final-fantasy-xiv-rise-of-a-new-sun.json](./221539-final-fantasy-xiv-rise-of-a-new-sun.json) |
 | Final Fantasy XIV: Seekers of Eternity | 333873 | [333873-final-fantasy-xiv-seekers-of-eternity.json](./333873-final-fantasy-xiv-seekers-of-eternity.json) |
@@ -5088,6 +5097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XIV: The Promise of Tomorrow | 350547 | [350547-final-fantasy-xiv-the-promise-of-tomorrow.json](./350547-final-fantasy-xiv-the-promise-of-tomorrow.json) |
 | Final Fantasy XIV: Through the Maelstrom | 221523 | [221523-final-fantasy-xiv-through-the-maelstrom.json](./221523-final-fantasy-xiv-through-the-maelstrom.json) |
 | Final Fantasy XIV: Under the Moonlight | 221540 | [221540-final-fantasy-xiv-under-the-moonlight.json](./221540-final-fantasy-xiv-under-the-moonlight.json) |
+| Final Fantasy XIV: Vows of Virtue, Deeds of Cruelty | 221543 | [221543-final-fantasy-xiv-vows-of-virtue-deeds-of-cruelty.json](./221543-final-fantasy-xiv-vows-of-virtue-deeds-of-cruelty.json) |
 | Final Fantasy XV Mobile | 129157 | [129157-final-fantasy-xv-mobile.json](./129157-final-fantasy-xv-mobile.json) |
 | Final Fantasy XV Multiplayer: Comrades | 76163 | [76163-final-fantasy-xv-multiplayer-comrades.json](./76163-final-fantasy-xv-multiplayer-comrades.json) |
 | Final Fantasy XV: A New Empire | 41052 | [41052-final-fantasy-xv-a-new-empire.json](./41052-final-fantasy-xv-a-new-empire.json) |
@@ -13591,6 +13601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Holes | 280662 | [280662-furry-holes.json](./280662-furry-holes.json) |
 | Furry Immersion | 227608 | [227608-furry-immersion.json](./227608-furry-immersion.json) |
 | Furry Killer | 226143 | [226143-furry-killer.json](./226143-furry-killer.json) |
+| Furry Knight Break | 221479 | [221479-furry-knight-break.json](./221479-furry-knight-break.json) |
 | Furry Love | 266571 | [266571-furry-love.json](./266571-furry-love.json) |
 | Furry Love & Sex | 221197 | [221197-furry-love-and-sex.json](./221197-furry-love-and-sex.json) |
 | Furry Love 2 | 165026 | [165026-furry-love-2.json](./165026-furry-love-2.json) |
