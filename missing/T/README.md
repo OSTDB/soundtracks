@@ -8816,6 +8816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End is Nahual: If I May Say So | 216415 | [216415-the-end-is-nahual-if-i-may-say-so.json](./216415-the-end-is-nahual-if-i-may-say-so.json) |
 | The End is Never the End | 269850 | [269850-the-end-is-never-the-end.json](./269850-the-end-is-never-the-end.json) |
 | The End Is Nigh | 36846 | [36846-the-end-is-nigh.json](./36846-the-end-is-nigh.json) |
+| The End is Nigh: Shattered Spectrum | 221474 | [221474-the-end-is-nigh-shattered-spectrum.json](./221474-the-end-is-nigh-shattered-spectrum.json) |
 | The End o,,,o | 31847 | [31847-the-end-o-o.json](./31847-the-end-o-o.json) |
 | The End of Allegoria | 416565 | [416565-the-end-of-allegoria.json](./416565-the-end-of-allegoria.json) |
 | The End of an Actress | 126961 | [126961-the-end-of-an-actress.json](./126961-the-end-of-an-actress.json) |
@@ -25505,6 +25506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toriko: Gourmet Monsters! | 79277 | [79277-toriko-gourmet-monsters.json](./79277-toriko-gourmet-monsters.json) |
 | Toriko: Gourmet Survival | 66080 | [66080-toriko-gourmet-survival.json](./66080-toriko-gourmet-survival.json) |
 | Toriko: Gourmet Survival 2 | 64167 | [64167-toriko-gourmet-survival-2.json](./64167-toriko-gourmet-survival-2.json) |
+| Toriko: Ultimate Survival | 221576 | [221576-toriko-ultimate-survival.json](./221576-toriko-ultimate-survival.json) |
 | Toril | 228700 | [228700-toril.json](./228700-toril.json) |
 | Torima Headbang | 402920 | [402920-torima-headbang.json](./402920-torima-headbang.json) |
 | Torima Zange | 410610 | [410610-torima-zange.json](./410610-torima-zange.json) |
