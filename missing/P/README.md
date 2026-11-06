@@ -3009,7 +3009,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathfinder: Kingmaker - Definitive Edition | 134568 | [134568-pathfinder-kingmaker-definitive-edition.json](./134568-pathfinder-kingmaker-definitive-edition.json) |
 | Pathfinder: Kingmaker - Enhanced Plus Edition | 154530 | [154530-pathfinder-kingmaker-enhanced-plus-edition.json](./154530-pathfinder-kingmaker-enhanced-plus-edition.json) |
 | Pathfinder: Kingmaker - Imperial Edition | 124981 | [124981-pathfinder-kingmaker-imperial-edition.json](./124981-pathfinder-kingmaker-imperial-edition.json) |
+| Pathfinder: Kingmaker - Noble Edition | 210942 | [210942-pathfinder-kingmaker-noble-edition.json](./210942-pathfinder-kingmaker-noble-edition.json) |
 | Pathfinder: Kingmaker - Royal Ascension | 134569 | [134569-pathfinder-kingmaker-royal-ascension.json](./134569-pathfinder-kingmaker-royal-ascension.json) |
+| Pathfinder: Kingmaker - Royal Edition | 210943 | [210943-pathfinder-kingmaker-royal-edition.json](./210943-pathfinder-kingmaker-royal-edition.json) |
 | Pathfinder: Kingmaker - The Wildcards | 124972 | [124972-pathfinder-kingmaker-the-wildcards.json](./124972-pathfinder-kingmaker-the-wildcards.json) |
 | Pathfinder: Kingmaker - Varnhold's Lot | 115540 | [115540-pathfinder-kingmaker-varnholds-lot.json](./115540-pathfinder-kingmaker-varnholds-lot.json) |
 | Pathfinder: Wrath of the Righteous | 127254 | [127254-pathfinder-wrath-of-the-righteous.json](./127254-pathfinder-wrath-of-the-righteous.json) |
@@ -5595,6 +5597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Point | 27804 | [27804-phoenix-point.json](./27804-phoenix-point.json) |
 | Phoenix Point: Behemoth Edition | 155517 | [155517-phoenix-point-behemoth-edition.json](./155517-phoenix-point-behemoth-edition.json) |
 | Phoenix Point: Blood and Titanium | 149580 | [149580-phoenix-point-blood-and-titanium.json](./149580-phoenix-point-blood-and-titanium.json) |
+| Phoenix Point: Complete Edition | 210938 | [210938-phoenix-point-complete-edition.json](./210938-phoenix-point-complete-edition.json) |
 | Phoenix Point: Corrupted Horizons | 171628 | [171628-phoenix-point-corrupted-horizons.json](./171628-phoenix-point-corrupted-horizons.json) |
 | Phoenix Point: Festering Skies | 149592 | [149592-phoenix-point-festering-skies.json](./149592-phoenix-point-festering-skies.json) |
 | Phoenix Point: Kaos Engines | 198293 | [198293-phoenix-point-kaos-engines.json](./198293-phoenix-point-kaos-engines.json) |
@@ -12150,6 +12153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polygun Arena: Online Shooter | 380502 | [380502-polygun-arena-online-shooter.json](./380502-polygun-arena-online-shooter.json) |
 | Polygunners | 187172 | [187172-polygunners.json](./187172-polygunners.json) |
 | Polygunr | 291038 | [291038-polygunr.json](./291038-polygunr.json) |
+| Polyhedron: Tales from Krasnoslavia | 210953 | [210953-polyhedron-tales-from-krasnoslavia.json](./210953-polyhedron-tales-from-krasnoslavia.json) |
 | Polyhop: The Skybound Islands | 278743 | [278743-polyhop-the-skybound-islands.json](./278743-polyhop-the-skybound-islands.json) |
 | Polyion | 210999 | [210999-polyion.json](./210999-polyion.json) |
 | Polyjump | 366390 | [366390-polyjump.json](./366390-polyjump.json) |
