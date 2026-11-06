@@ -1390,6 +1390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zolana: Girl Galactic | 404943 | [404943-zolana-girl-galactic.json](./404943-zolana-girl-galactic.json) |
 | Zolaris | 153454 | [153454-zolaris.json](./153454-zolaris.json) |
 | Zold:out | 188328 | [188328-zold-out.json](./188328-zold-out.json) |
+| Zoldout Global | 234420 | [234420-zoldout-global.json](./234420-zoldout-global.json) |
 | Zolg | 30529 | [30529-zolg.json](./30529-zolg.json) |
 | Zolo | 272658 | [272658-zolo.json](./272658-zolo.json) |
 | ZOLO: Zombies Only Live Once | 112823 | [112823-zolo-zombies-only-live-once.json](./112823-zolo-zombies-only-live-once.json) |
@@ -1534,6 +1535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie City Together | 423875 | [423875-zombie-city-together.json](./423875-zombie-city-together.json) |
 | Zombie Claus | 219094 | [219094-zombie-claus.json](./219094-zombie-claus.json) |
 | Zombie Clicker Defense | 83526 | [83526-zombie-clicker-defense.json](./83526-zombie-clicker-defense.json) |
+| Zombie Clicker RPG | 234425 | [234425-zombie-clicker-rpg.json](./234425-zombie-clicker-rpg.json) |
 | Zombie Colony | 287680 | [287680-zombie-colony.json](./287680-zombie-colony.json) |
 | Zombie Combat Shooting | 103136 | [103136-zombie-combat-shooting.json](./103136-zombie-combat-shooting.json) |
 | Zombie Commander | 98710 | [98710-zombie-commander.json](./98710-zombie-commander.json) |
@@ -1939,6 +1941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Warz | 238459 | [238459-zombie-warz.json](./238459-zombie-warz.json) |
 | Zombie Watch | 82359 | [82359-zombie-watch.json](./82359-zombie-watch.json) |
 | Zombie Watch Part II | 241629 | [241629-zombie-watch-part-ii.json](./241629-zombie-watch-part-ii.json) |
+| Zombie Waves | 234419 | [234419-zombie-waves.json](./234419-zombie-waves.json) |
 | Zombie Within | 240615 | [240615-zombie-within.json](./240615-zombie-within.json) |
 | Zombie Woods | 283859 | [283859-zombie-woods.json](./283859-zombie-woods.json) |
 | Zombie World | 284283 | [284283-zombie-world.json](./284283-zombie-world.json) |
