@@ -14667,10 +14667,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coronarun | 156704 | [156704-coronarun.json](./156704-coronarun.json) |
 | Coronation | 91381 | [91381-coronation.json](./91381-coronation.json) |
 | Coronaviral | 181764 | [181764-coronaviral.json](./181764-coronaviral.json) |
+| Coronavirus | 215444 | [215444-coronavirus.json](./215444-coronavirus.json) |
 | Coronavirus Attack | 405275 | [405275-coronavirus-attack.json](./405275-coronavirus-attack.json) |
 | Coronavirus Evolution | 238257 | [238257-coronavirus-evolution.json](./238257-coronavirus-evolution.json) |
 | Coronavirus Quarantine Simulator | 137996 | [137996-coronavirus-quarantine-simulator.json](./137996-coronavirus-quarantine-simulator.json) |
+| Coronavirus: Doom and Destiny | 215445 | [215445-coronavirus-doom-and-destiny.json](./215445-coronavirus-doom-and-destiny.json) |
+| Coronavirus: Doom and Destiny 2 | 215446 | [215446-coronavirus-doom-and-destiny-2.json](./215446-coronavirus-doom-and-destiny-2.json) |
 | Coronavirus: Nano Force | 165002 | [165002-coronavirus-nano-force.json](./165002-coronavirus-nano-force.json) |
+| Coronavirus: Second Wave | 215447 | [215447-coronavirus-second-wave.json](./215447-coronavirus-second-wave.json) |
 | CoronaViruses | 151556 | [151556-coronaviruses.json](./151556-coronaviruses.json) |
 | CoronaWhomp! | 164207 | [164207-coronawhomp.json](./164207-coronawhomp.json) |
 | Coronel Indoor Kartracing | 73477 | [73477-coronel-indoor-kartracing.json](./73477-coronel-indoor-kartracing.json) |
@@ -19074,6 +19078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubeology | 107789 | [107789-cubeology.json](./107789-cubeology.json) |
 | CubeOS | 291507 | [291507-cubeos.json](./291507-cubeos.json) |
 | CubePuzzle | 163546 | [163546-cubepuzzle.json](./163546-cubepuzzle.json) |
+| Cuber | 215440 | [215440-cuber.json](./215440-cuber.json) |
 | Cuber | 254584 | [254584-cuber.json](./254584-cuber.json) |
 | Cuber | 365458 | [365458-cuber.json](./365458-cuber.json) |
 | Cuber 2: Ice Age | 255834 | [255834-cuber-2-ice-age.json](./255834-cuber-2-ice-age.json) |
