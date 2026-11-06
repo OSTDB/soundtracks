@@ -4936,6 +4936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Arena | 376804 | [376804-ninja-arena.json](./376804-ninja-arena.json) |
 | Ninja Assassin | 228138 | [228138-ninja-assassin.json](./228138-ninja-assassin.json) |
 | Ninja Assault | 13901 | [13901-ninja-assault.json](./13901-ninja-assault.json) |
+| Ninja Assault | 245110 | [245110-ninja-assault.json](./245110-ninja-assault.json) |
 | Ninja Attack | 280152 | [280152-ninja-attack.json](./280152-ninja-attack.json) |
 | Ninja Attack! | 87000 | [87000-ninja-attack.json](./87000-ninja-attack.json) |
 | Ninja Avenger Dragon Blade | 27119 | [27119-ninja-avenger-dragon-blade.json](./27119-ninja-avenger-dragon-blade.json) |
@@ -6346,6 +6347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Non Eternals | 397496 | [397496-non-eternals.json](./397496-non-eternals.json) |
 | Non Euclidean Room | 356877 | [356877-non-euclidean-room.json](./356877-non-euclidean-room.json) |
 | Non Flying Soldiers | 54252 | [54252-non-flying-soldiers.json](./54252-non-flying-soldiers.json) |
+| Non Human | 245086 | [245086-non-human.json](./245086-non-human.json) |
 | Non Stop Driver | 305200 | [305200-non-stop-driver.json](./305200-non-stop-driver.json) |
 | Non-Compliant | 126575 | [126575-non-compliant.json](./126575-non-compliant.json) |
 | Non-Euclidean Minesweeper | 398902 | [398902-non-euclidean-minesweeper.json](./398902-non-euclidean-minesweeper.json) |
