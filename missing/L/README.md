@@ -2399,6 +2399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left Stranded | 195199 | [195199-left-stranded.json](./195199-left-stranded.json) |
 | Left to Die in Zombhai | 336509 | [336509-left-to-die-in-zombhai.json](./336509-left-to-die-in-zombhai.json) |
 | Left to My Own Devices | 180239 | [180239-left-to-my-own-devices.json](./180239-left-to-my-own-devices.json) |
+| Left to Rot | 217055 | [217055-left-to-rot.json](./217055-left-to-rot.json) |
 | Left to Survive | 106608 | [106608-left-to-survive.json](./106608-left-to-survive.json) |
 | Left Turn Legend | 297515 | [297515-left-turn-legend.json](./297515-left-turn-legend.json) |
 | Left-Hand Path | 32901 | [32901-left-hand-path.json](./32901-left-hand-path.json) |
@@ -7998,6 +7999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Forest | 256920 | [256920-lost-forest.json](./256920-lost-forest.json) |
 | Lost Found Secure | 380145 | [380145-lost-found-secure.json](./380145-lost-found-secure.json) |
 | Lost Fragment | 297445 | [297445-lost-fragment.json](./297445-lost-fragment.json) |
+| Lost Fragments | 217100 | [217100-lost-fragments.json](./217100-lost-fragments.json) |
 | Lost Frequency | 219914 | [219914-lost-frequency.json](./219914-lost-frequency.json) |
 | Lost Friends | 393621 | [393621-lost-friends.json](./393621-lost-friends.json) |
 | Lost Friends 2: Reason for Tears | 393622 | [393622-lost-friends-2-reason-for-tears.json](./393622-lost-friends-2-reason-for-tears.json) |
