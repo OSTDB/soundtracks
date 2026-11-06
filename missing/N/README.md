@@ -6636,6 +6636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norm of the North's Digit Dodge | 232336 | [232336-norm-of-the-norths-digit-dodge.json](./232336-norm-of-the-norths-digit-dodge.json) |
 | Norma | 330252 | [330252-norma.json](./330252-norma.json) |
 | Normal Adult Human Person | 216173 | [216173-normal-adult-human-person.json](./216173-normal-adult-human-person.json) |
+| Normal Club | 200236 | [200236-normal-club.json](./200236-normal-club.json) |
 | Normal Days | 329092 | [329092-normal-days.json](./329092-normal-days.json) |
 | Normal Dev Guy: Inside Kenney World | 406562 | [406562-normal-dev-guy-inside-kenney-world.json](./406562-normal-dev-guy-inside-kenney-world.json) |
 | Normal Diner | 177495 | [177495-normal-diner.json](./177495-normal-diner.json) |
