@@ -9716,6 +9716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna Anomaly | 369195 | [369195-luna-anomaly.json](./369195-luna-anomaly.json) |
 | Luna Atac | 354580 | [354580-luna-atac.json](./354580-luna-atac.json) |
 | Luna Blaze | 353870 | [353870-luna-blaze.json](./353870-luna-blaze.json) |
+| Luna Child no Saishuu Bouei Line | 204664 | [204664-luna-child-no-saishuu-bouei-line.json](./204664-luna-child-no-saishuu-bouei-line.json) |
 | Luna Child no Saishuu Bouei Line 2 | 204405 | [204405-luna-child-no-saishuu-bouei-line-2.json](./204405-luna-child-no-saishuu-bouei-line-2.json) |
 | Luna Child no Saishuu Bouei Line 3 | 202971 | [202971-luna-child-no-saishuu-bouei-line-3.json](./202971-luna-child-no-saishuu-bouei-line-3.json) |
 | Luna Crabs | 71054 | [71054-luna-crabs.json](./71054-luna-crabs.json) |
