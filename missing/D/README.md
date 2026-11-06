@@ -8161,13 +8161,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dexter: Hidden Darkness | 59845 | [59845-dexter-hidden-darkness.json](./59845-dexter-hidden-darkness.json) |
 | Dexter: The Game | 21668 | [21668-dexter-the-game.json](./21668-dexter-the-game.json) |
 | Dexter's Lab: Dee Dee's Moon Squad | 203085 | [203085-dexters-lab-dee-dees-moon-squad.json](./203085-dexters-lab-dee-dees-moon-squad.json) |
+| Dexter's Lab: Dexter's Bubble Juggle | 241119 | [241119-dexters-lab-dexters-bubble-juggle.json](./241119-dexters-lab-dexters-bubble-juggle.json) |
+| Dexter's Lab: Red Eye Fight | 241120 | [241120-dexters-lab-red-eye-fight.json](./241120-dexters-lab-red-eye-fight.json) |
 | Dexter's Laboratory Security Alert! | 23608 | [23608-dexters-laboratory-security-alert.json](./23608-dexters-laboratory-security-alert.json) |
 | Dexter's Laboratory: Chess Challenge | 6373 | [6373-dexters-laboratory-chess-challenge.json](./6373-dexters-laboratory-chess-challenge.json) |
 | Dexter's Laboratory: Deesaster Strikes! | 2813 | [2813-dexters-laboratory-deesaster-strikes.json](./2813-dexters-laboratory-deesaster-strikes.json) |
 | Dexter's Laboratory: Mandark's Lab? | 2814 | [2814-dexters-laboratory-mandarks-lab.json](./2814-dexters-laboratory-mandarks-lab.json) |
 | Dexter's Laboratory: Robot Rampage | 2815 | [2815-dexters-laboratory-robot-rampage.json](./2815-dexters-laboratory-robot-rampage.json) |
 | Dexter's Laboratory: Science Ain't Fair | 8003 | [8003-dexters-laboratory-science-aint-fair.json](./8003-dexters-laboratory-science-aint-fair.json) |
+| Dexter's Labyrinth | 241144 | [241144-dexters-labyrinth.json](./241144-dexters-labyrinth.json) |
 | Dexter's Laser Lab | 185830 | [185830-dexters-laser-lab.json](./185830-dexters-laser-lab.json) |
+| Dexter's Laser Lab | 241143 | [241143-dexters-laser-lab.json](./241143-dexters-laser-lab.json) |
 | Dexter's Momatory | 280444 | [280444-dexters-momatory.json](./280444-dexters-momatory.json) |
 | Dexteritrip | 112818 | [112818-dexteritrip.json](./112818-dexteritrip.json) |
 | Dexterity | 90304 | [90304-dexterity.json](./90304-dexterity.json) |
@@ -10281,6 +10285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Infinity 3.0 | 11083 | [11083-disney-infinity-3-0.json](./11083-disney-infinity-3-0.json) |
 | Disney Infinity 4.0 | 240940 | [240940-disney-infinity-4-0.json](./240940-disney-infinity-4-0.json) |
 | Disney Infinity: 2.0 | 47764 | [47764-disney-infinity-2-0.json](./47764-disney-infinity-2-0.json) |
+| Disney Infinity: Toy Box | 241155 | [241155-disney-infinity-toy-box.json](./241155-disney-infinity-toy-box.json) |
 | Disney Junior Ready for Preschool: Forces in Motion | 267543 | [267543-disney-junior-ready-for-preschool-forces-in-motion.json](./267543-disney-junior-ready-for-preschool-forces-in-motion.json) |
 | Disney Learning: 2nd Grade | 59941 | [59941-disney-learning-2nd-grade.json](./59941-disney-learning-2nd-grade.json) |
 | Disney Learning: Math Quest with Aladdin | 70247 | [70247-disney-learning-math-quest-with-aladdin.json](./70247-disney-learning-math-quest-with-aladdin.json) |
