@@ -10720,6 +10720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun in a Well | 349043 | [349043-gun-in-a-well.json](./349043-gun-in-a-well.json) |
 | Gun King | 230936 | [230936-gun-king.json](./230936-gun-king.json) |
 | Gun Knife Bomb | 422088 | [422088-gun-knife-bomb.json](./422088-gun-knife-bomb.json) |
+| Gun Knight All Day | 217087 | [217087-gun-knight-all-day.json](./217087-gun-knight-all-day.json) |
 | Gun Lady | 286440 | [286440-gun-lady.json](./286440-gun-lady.json) |
 | Gun Law | 39775 | [39775-gun-law.json](./39775-gun-law.json) |
 | Gun Loco | 39972 | [39972-gun-loco.json](./39972-gun-loco.json) |
