@@ -9532,6 +9532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grom: Terror in Tibet | 73767 | [73767-grom-terror-in-tibet.json](./73767-grom-terror-in-tibet.json) |
 | Gromada | 69934 | [69934-gromada.json](./69934-gromada.json) |
 | Grombcross | 288692 | [288692-grombcross.json](./288692-grombcross.json) |
+| Grombiez save souls | 236074 | [236074-grombiez-save-souls.json](./236074-grombiez-save-souls.json) |
 | Grommet Chod | 410325 | [410325-grommet-chod.json](./410325-grommet-chod.json) |
 | Gromopoli | 178244 | [178244-gromopoli.json](./178244-gromopoli.json) |
 | Grompula | 107674 | [107674-grompula.json](./107674-grompula.json) |
@@ -10312,6 +10313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guillermo Tell | 146307 | [146307-guillermo-tell.json](./146307-guillermo-tell.json) |
 | Guillotine | 160117 | [160117-guillotine.json](./160117-guillotine.json) |
 | Guillotine Earrings | 183193 | [183193-guillotine-earrings.json](./183193-guillotine-earrings.json) |
+| Guilt | 236090 | [236090-guilt.json](./236090-guilt.json) |
 | Guilt | 341099 | [341099-guilt.json](./341099-guilt.json) |
 | Guilt | 345521 | [345521-guilt.json](./345521-guilt.json) |
 | Guilt Battle Arena | 86376 | [86376-guilt-battle-arena.json](./86376-guilt-battle-arena.json) |
