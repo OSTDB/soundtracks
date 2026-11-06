@@ -9942,6 +9942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Souls Accelate | 39193 | [39193-blazing-souls-accelate.json](./39193-blazing-souls-accelate.json) |
 | Blazing Star | 10500 | [10500-blazing-star.json](./10500-blazing-star.json) |
 | Blazing Strike | 193531 | [193531-blazing-strike.json](./193531-blazing-strike.json) |
+| Blazing Strike: Limited Edition | 193532 | [193532-blazing-strike-limited-edition.json](./193532-blazing-strike-limited-edition.json) |
 | Blazing Thunder | 13407 | [13407-blazing-thunder.json](./13407-blazing-thunder.json) |
 | Blazing Tornado | 39582 | [39582-blazing-tornado.json](./39582-blazing-tornado.json) |
 | Blazing Trail | 293100 | [293100-blazing-trail.json](./293100-blazing-trail.json) |
@@ -17043,6 +17044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Building Block: Castle & City Craft Simulator | 89277 | [89277-building-block-castle-and-city-craft-simulator.json](./89277-building-block-castle-and-city-craft-simulator.json) |
 | Building Blocks / Master Builder of Egypt | 81219 | [81219-building-blocks-master-builder-of-egypt.json](./81219-building-blocks-master-builder-of-egypt.json) |
 | Building Crush! | 112183 | [112183-building-crush.json](./112183-building-crush.json) |
+| Building Destruction | 193563 | [193563-building-destruction.json](./193563-building-destruction.json) |
 | Building Destruction | 219214 | [219214-building-destruction.json](./219214-building-destruction.json) |
 | Building Hopper | 130546 | [130546-building-hopper.json](./130546-building-hopper.json) |
 | Building Jumper | 365047 | [365047-building-jumper.json](./365047-building-jumper.json) |
@@ -17264,6 +17266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullfist | 358745 | [358745-bullfist.json](./358745-bullfist.json) |
 | Bullfrogs | 164314 | [164314-bullfrogs.json](./164314-bullfrogs.json) |
 | Bullion Blitz | 64257 | [64257-bullion-blitz.json](./64257-bullion-blitz.json) |
+| Bullion: The Curse of the Cut-Throat Cattle | 193567 | [193567-bullion-the-curse-of-the-cut-throat-cattle.json](./193567-bullion-the-curse-of-the-cut-throat-cattle.json) |
 | Bullistic | 422176 | [422176-bullistic.json](./422176-bullistic.json) |
 | Bullring | 281373 | [281373-bullring.json](./281373-bullring.json) |
 | Bulls and Bears | 92154 | [92154-bulls-and-bears.json](./92154-bulls-and-bears.json) |
