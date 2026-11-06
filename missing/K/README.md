@@ -2795,6 +2795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3383,6 +3384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts Re:Chain of Memories | 20286 | [20286-kingdom-hearts-re-chain-of-memories.json](./20286-kingdom-hearts-re-chain-of-memories.json) |
 | Kingdom Hearts Re:Chain of Memories | 214986 | [214986-kingdom-hearts-re-chain-of-memories.json](./214986-kingdom-hearts-re-chain-of-memories.json) |
 | Kingdom Hearts Re:coded | 1225 | [1225-kingdom-hearts-re-coded.json](./1225-kingdom-hearts-re-coded.json) |
+| Kingdom Hearts Re:coded Gummiship Studio | 233845 | [233845-kingdom-hearts-re-coded-gummiship-studio.json](./233845-kingdom-hearts-re-coded-gummiship-studio.json) |
 | Kingdom Hearts Rebirth | 349294 | [349294-kingdom-hearts-rebirth.json](./349294-kingdom-hearts-rebirth.json) |
 | Kingdom Hearts Tamagotchi | 229938 | [229938-kingdom-hearts-tamagotchi.json](./229938-kingdom-hearts-tamagotchi.json) |
 | Kingdom Hearts Union χ[Cross] | 27737 | [27737-kingdom-hearts-union-cross.json](./27737-kingdom-hearts-union-cross.json) |
@@ -3486,6 +3488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Two Crowns: Norse Lands | 175663 | [175663-kingdom-two-crowns-norse-lands.json](./175663-kingdom-two-crowns-norse-lands.json) |
 | Kingdom Two Crowns: Norse Lands Edition | 186529 | [186529-kingdom-two-crowns-norse-lands-edition.json](./186529-kingdom-two-crowns-norse-lands-edition.json) |
 | Kingdom Two Crowns: Olympus Edition | 320684 | [320684-kingdom-two-crowns-olympus-edition.json](./320684-kingdom-two-crowns-olympus-edition.json) |
+| Kingdom Two Crowns: Shogun | 233835 | [233835-kingdom-two-crowns-shogun.json](./233835-kingdom-two-crowns-shogun.json) |
 | Kingdom Under Fire II | 6414 | [6414-kingdom-under-fire-ii.json](./6414-kingdom-under-fire-ii.json) |
 | Kingdom Under Fire: A War of Heroes | 18112 | [18112-kingdom-under-fire-a-war-of-heroes.json](./18112-kingdom-under-fire-a-war-of-heroes.json) |
 | Kingdom Under Fire: Circle of Doom | 18108 | [18108-kingdom-under-fire-circle-of-doom.json](./18108-kingdom-under-fire-circle-of-doom.json) |
