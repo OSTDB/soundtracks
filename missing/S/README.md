@@ -3608,6 +3608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scream of the Viking 3 | 117074 | [117074-scream-of-the-viking-3.json](./117074-scream-of-the-viking-3.json) |
 | Scream or Die | 277435 | [277435-scream-or-die.json](./277435-scream-or-die.json) |
 | Scream or Die: Virtual Circus | 280305 | [280305-scream-or-die-virtual-circus.json](./280305-scream-or-die-virtual-circus.json) |
+| Scream Timbernote:the game of voice controller | 232253 | [232253-scream-timbernote-the-game-of-voice-controller.json](./232253-scream-timbernote-the-game-of-voice-controller.json) |
 | Scream Varily | 76419 | [76419-scream-varily.json](./76419-scream-varily.json) |
 | Scream You Lose | 404164 | [404164-scream-you-lose.json](./404164-scream-you-lose.json) |
 | Screamboat Willie | 291464 | [291464-screamboat-willie.json](./291464-screamboat-willie.json) |
@@ -9215,6 +9216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Mall Smart Taxi: Family Car Taxi Games | 104619 | [104619-shopping-mall-smart-taxi-family-car-taxi-games.json](./104619-shopping-mall-smart-taxi-family-car-taxi-games.json) |
 | Shopping Manager | 255761 | [255761-shopping-manager.json](./255761-shopping-manager.json) |
 | Shopping Match | 264014 | [264014-shopping-match.json](./264014-shopping-match.json) |
+| Shopping Nightmare | 232230 | [232230-shopping-nightmare.json](./232230-shopping-nightmare.json) |
 | Shopping Simulator | 302793 | [302793-shopping-simulator.json](./302793-shopping-simulator.json) |
 | Shopping Sort | 303046 | [303046-shopping-sort.json](./303046-shopping-sort.json) |
 | Shopping Spree | 349871 | [349871-shopping-spree.json](./349871-shopping-spree.json) |
@@ -11927,6 +11929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeleton Warriors: The Dark Crusade | 217688 | [217688-skeleton-warriors-the-dark-crusade.json](./217688-skeleton-warriors-the-dark-crusade.json) |
 | Skeleton Wave | 156894 | [156894-skeleton-wave.json](./156894-skeleton-wave.json) |
 | Skeleton+ | 79512 | [79512-skeleton.json](./79512-skeleton.json) |
+| Skeletons and Skulls | 232237 | [232237-skeletons-and-skulls.json](./232237-skeletons-and-skulls.json) |
 | Skeletons Uprising | 265153 | [265153-skeletons-uprising.json](./265153-skeletons-uprising.json) |
 | Skeletons vs Nadia | 203756 | [203756-skeletons-vs-nadia.json](./203756-skeletons-vs-nadia.json) |
 | Skeletos Sword | 320054 | [320054-skeletos-sword.json](./320054-skeletos-sword.json) |
@@ -12006,6 +12009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Air Mix | 186129 | [186129-ski-air-mix.json](./186129-ski-air-mix.json) |
 | Ski and Shoot | 9749 | [9749-ski-and-shoot.json](./9749-ski-and-shoot.json) |
 | Ski Bunny | 193713 | [193713-ski-bunny.json](./193713-ski-bunny.json) |
+| Ski Challenge | 232250 | [232250-ski-challenge.json](./232250-ski-challenge.json) |
 | Ski Challenge 2005 | 87784 | [87784-ski-challenge-2005.json](./87784-ski-challenge-2005.json) |
 | Ski Challenge 2006 | 87785 | [87785-ski-challenge-2006.json](./87785-ski-challenge-2006.json) |
 | Ski Challenge 2007 | 87786 | [87786-ski-challenge-2007.json](./87786-ski-challenge-2007.json) |
@@ -23444,6 +23448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StacKit | 353764 | [353764-stackit.json](./353764-stackit.json) |
 | Stacklands 2000 | 298028 | [298028-stacklands-2000.json](./298028-stacklands-2000.json) |
 | Stacklands: Cursed Worlds | 257949 | [257949-stacklands-cursed-worlds.json](./257949-stacklands-cursed-worlds.json) |
+| StackLands2 | 232248 | [232248-stacklands2.json](./232248-stacklands2.json) |
 | Stackmancy | 340000 | [340000-stackmancy.json](./340000-stackmancy.json) |
 | StackMatch 2: Treasure Hunter | 175513 | [175513-stackmatch-2-treasure-hunter.json](./175513-stackmatch-2-treasure-hunter.json) |
 | Stackmon | 389118 | [389118-stackmon.json](./389118-stackmon.json) |
@@ -28867,6 +28872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subtext | 115546 | [115546-subtext.json](./115546-subtext.json) |
 | Subtracto | 372536 | [372536-subtracto.json](./372536-subtracto.json) |
 | Subtrade: Return to Irata | 74102 | [74102-subtrade-return-to-irata.json](./74102-subtrade-return-to-irata.json) |
+| Subtransit Drive | 232246 | [232246-subtransit-drive.json](./232246-subtransit-drive.json) |
 | Subtyrannya - A story-driven merchant game | 112898 | [112898-subtyrannya-a-story-driven-merchant-game.json](./112898-subtyrannya-a-story-driven-merchant-game.json) |
 | Subuccus | 211656 | [211656-subuccus.json](./211656-subuccus.json) |
 | Subugs | 187064 | [187064-subugs.json](./187064-subugs.json) |
