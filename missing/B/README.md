@@ -961,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4249,6 +4250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield Play4Free | 354 | [354-battlefield-play4free.json](./354-battlefield-play4free.json) |
 | Battlefield Priest | 211427 | [211427-battlefield-priest.json](./211427-battlefield-priest.json) |
 | Battlefield REDSEC | 371393 | [371393-battlefield-redsec.json](./371393-battlefield-redsec.json) |
+| Battlefield Royale | 194059 | [194059-battlefield-royale.json](./194059-battlefield-royale.json) |
 | Battlefield Supremacy | 107770 | [107770-battlefield-supremacy.json](./107770-battlefield-supremacy.json) |
 | Battlefield V: Definitive Edition | 140898 | [140898-battlefield-v-definitive-edition.json](./140898-battlefield-v-definitive-edition.json) |
 | Battlefield V: Deluxe Edition | 89571 | [89571-battlefield-v-deluxe-edition.json](./89571-battlefield-v-deluxe-edition.json) |
@@ -7706,6 +7708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Bites | 245190 | [245190-bike-bites.json](./245190-bike-bites.json) |
 | Bike Blast | 116396 | [116396-bike-blast.json](./116396-bike-blast.json) |
 | Bike Challenge | 89742 | [89742-bike-challenge.json](./89742-bike-challenge.json) |
+| Bike Clash | 194049 | [194049-bike-clash.json](./194049-bike-clash.json) |
 | Bike Courier: Bistro Express Delivery | 283296 | [283296-bike-courier-bistro-express-delivery.json](./283296-bike-courier-bistro-express-delivery.json) |
 | Bike Dash Excite! | 105230 | [105230-bike-dash-excite.json](./105230-bike-dash-excite.json) |
 | Bike Dirt Extreme 3D | 322438 | [322438-bike-dirt-extreme-3d.json](./322438-bike-dirt-extreme-3d.json) |
@@ -9179,6 +9182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Stone: Magic & Steel | 5750 | [5750-black-stone-magic-and-steel.json](./5750-black-stone-magic-and-steel.json) |
 | Black Submarine: Deep Seek | 312208 | [312208-black-submarine-deep-seek.json](./312208-black-submarine-deep-seek.json) |
 | Black Sun | 380004 | [380004-black-sun.json](./380004-black-sun.json) |
+| Black Surge Night | 194074 | [194074-black-surge-night.json](./194074-black-surge-night.json) |
 | Black Survival | 54956 | [54956-black-survival.json](./54956-black-survival.json) |
 | Black Survival: Return to Lumia | 282115 | [282115-black-survival-return-to-lumia.json](./282115-black-survival-return-to-lumia.json) |
 | Black Swan | 30395 | [30395-black-swan.json](./30395-black-swan.json) |
@@ -15544,6 +15548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Challenge | 15687 | [15687-bridge-challenge.json](./15687-bridge-challenge.json) |
 | Bridge Champion with Omar Sharif | 148390 | [148390-bridge-champion-with-omar-sharif.json](./148390-bridge-champion-with-omar-sharif.json) |
 | Bridge Construction Set | 25006 | [25006-bridge-construction-set.json](./25006-bridge-construction-set.json) |
+| Bridge Construction Simulator | 194076 | [194076-bridge-construction-simulator.json](./194076-bridge-construction-simulator.json) |
 | Bridge Constructor | 9784 | [9784-bridge-constructor.json](./9784-bridge-constructor.json) |
 | Bridge Constructor Bundle | 196830 | [196830-bridge-constructor-bundle.json](./196830-bridge-constructor-bundle.json) |
 | Bridge Constructor Compilation | 131601 | [131601-bridge-constructor-compilation.json](./131601-bridge-constructor-compilation.json) |
