@@ -2655,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Print 'N Play | 79607 | [79607-party-print-n-play.json](./79607-party-print-n-play.json) |
 | Party Project | 273981 | [273981-party-project.json](./273981-party-project.json) |
 | Party Quest | 220623 | [220623-party-quest.json](./220623-party-quest.json) |
+| Party Quiz | 223275 | [223275-party-quiz.json](./223275-party-quiz.json) |
 | Party Quiz Mega Q 2022 | 216258 | [216258-party-quiz-mega-q-2022.json](./216258-party-quiz-mega-q-2022.json) |
 | Party Saboteurs | 25313 | [25313-party-saboteurs.json](./25313-party-saboteurs.json) |
 | Party Saboteurs: After Party | 130364 | [130364-party-saboteurs-after-party.json](./130364-party-saboteurs-after-party.json) |
@@ -3742,6 +3743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peddlers Between Pulsars | 349399 | [349399-peddlers-between-pulsars.json](./349399-peddlers-between-pulsars.json) |
 | Pedestal | 238662 | [238662-pedestal.json](./238662-pedestal.json) |
 | Pedigree Tactics | 368703 | [368703-pedigree-tactics.json](./368703-pedigree-tactics.json) |
+| Pedra Crystal Caves | 223203 | [223203-pedra-crystal-caves.json](./223203-pedra-crystal-caves.json) |
 | Pedreiro polar | 230715 | [230715-pedreiro-polar.json](./230715-pedreiro-polar.json) |
 | Pedro | 314289 | [314289-pedro.json](./314289-pedro.json) |
 | Pedro | 52008 | [52008-pedro.json](./52008-pedro.json) |
@@ -7441,6 +7443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piraka Attack | 409761 | [409761-piraka-attack.json](./409761-piraka-attack.json) |
 | Piramide Inca | 246733 | [246733-piramide-inca.json](./246733-piramide-inca.json) |
 | Piranesian | 416034 | [416034-piranesian.json](./416034-piranesian.json) |
+| Piranha | 223280 | [223280-piranha.json](./223280-piranha.json) |
 | Piranha | 351661 | [351661-piranha.json](./351661-piranha.json) |
 | Piranha | 92881 | [92881-piranha.json](./92881-piranha.json) |
 | Piranha Feeding | 291836 | [291836-piranha-feeding.json](./291836-piranha-feeding.json) |
