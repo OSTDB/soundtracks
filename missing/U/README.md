@@ -3231,6 +3231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Assault: Metropolis Dawn | 237844 | [237844-urban-assault-metropolis-dawn.json](./237844-urban-assault-metropolis-dawn.json) |
 | Urban Basketball VR | 150466 | [150466-urban-basketball-vr.json](./150466-urban-basketball-vr.json) |
 | Urban Cards | 121582 | [121582-urban-cards.json](./121582-urban-cards.json) |
+| Urban Cards: Christmas Faction | 243486 | [243486-urban-cards-christmas-faction.json](./243486-urban-cards-christmas-faction.json) |
 | Urban Champion | 4624 | [4624-urban-champion.json](./4624-urban-champion.json) |
 | Urban Champion-e | 170014 | [170014-urban-champion-e.json](./170014-urban-champion-e.json) |
 | Urban Chaos | 8469 | [8469-urban-chaos.json](./8469-urban-chaos.json) |
