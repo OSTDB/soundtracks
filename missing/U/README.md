@@ -1104,6 +1104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UmbraNet | 388359 | [388359-umbranet.json](./388359-umbranet.json) |
 | Umbranomicon | 386166 | [386166-umbranomicon.json](./386166-umbranomicon.json) |
 | Umbraseal | 120928 | [120928-umbraseal.json](./120928-umbraseal.json) |
+| Umbratica Tactics | 244038 | [244038-umbratica-tactics.json](./244038-umbratica-tactics.json) |
 | Umbrella | 365382 | [365382-umbrella.json](./365382-umbrella.json) |
 | Umbrella Basketball | 174595 | [174595-umbrella-basketball.json](./174595-umbrella-basketball.json) |
 | Umbrella Corps | 12530 | [12530-umbrella-corps.json](./12530-umbrella-corps.json) |
