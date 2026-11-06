@@ -4428,6 +4428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlestar Galactica Deadlock: Sin and Sacrifice | 115672 | [115672-battlestar-galactica-deadlock-sin-and-sacrifice.json](./115672-battlestar-galactica-deadlock-sin-and-sacrifice.json) |
 | Battlestar Galactica Deadlock: The Broken Alliance | 129482 | [129482-battlestar-galactica-deadlock-the-broken-alliance.json](./129482-battlestar-galactica-deadlock-the-broken-alliance.json) |
 | Battlestar Galactica Online | 23527 | [23527-battlestar-galactica-online.json](./23527-battlestar-galactica-online.json) |
+| Battlestar Galactica Online | 241153 | [241153-battlestar-galactica-online.json](./241153-battlestar-galactica-online.json) |
 | Battlestar Galactica Space Alert | 362871 | [362871-battlestar-galactica-space-alert.json](./362871-battlestar-galactica-space-alert.json) |
 | Battlestar Galactica: Condition One | 185321 | [185321-battlestar-galactica-condition-one.json](./185321-battlestar-galactica-condition-one.json) |
 | Battlestar Galactica: Scattered Hopes | 361822 | [361822-battlestar-galactica-scattered-hopes.json](./361822-battlestar-galactica-scattered-hopes.json) |
@@ -4748,6 +4749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Party Craze | 52451 | [52451-beach-party-craze.json](./52451-beach-party-craze.json) |
 | Beach Ping Pong Babes VR | 311171 | [311171-beach-ping-pong-babes-vr.json](./311171-beach-ping-pong-babes-vr.json) |
 | Beach Pong | 109736 | [109736-beach-pong.json](./109736-beach-pong.json) |
+| Beach Rally | 241112 | [241112-beach-rally.json](./241112-beach-rally.json) |
 | Beach Relaxation VR | 160146 | [160146-beach-relaxation-vr.json](./160146-beach-relaxation-vr.json) |
 | Beach Resort Simulator | 36189 | [36189-beach-resort-simulator.json](./36189-beach-resort-simulator.json) |
 | Beach Restaurant | 80924 | [80924-beach-restaurant.json](./80924-beach-restaurant.json) |
