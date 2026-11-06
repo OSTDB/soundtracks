@@ -743,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100% Orange Juice: Nath & Tomato+Mimyuu | 164472 | [164472-100-orange-juice-nath-and-tomato-mimyuu.json](./164472-100-orange-juice-nath-and-tomato-mimyuu.json) |
 | 100% Orange Juice: Old Guardian Pack | 164465 | [164465-100-orange-juice-old-guardian-pack.json](./164465-100-orange-juice-old-guardian-pack.json) |
 | 100% Orange Juice: Poyo & Chuu Character Pack | 359563 | [359563-100-orange-juice-poyo-and-chuu-character-pack.json](./359563-100-orange-juice-poyo-and-chuu-character-pack.json) |
+| 100% Orange Juice: Princess Pack | 223815 | [223815-100-orange-juice-princess-pack.json](./223815-100-orange-juice-princess-pack.json) |
 | 100% Orange Juice: Railway Runners Pack | 164474 | [164474-100-orange-juice-railway-runners-pack.json](./164474-100-orange-juice-railway-runners-pack.json) |
 | 100% Orange Juice: Sham & Sherry | 164477 | [164477-100-orange-juice-sham-and-sherry.json](./164477-100-orange-juice-sham-and-sherry.json) |
 | 100% Orange Juice: Sweet Gods Pack | 263064 | [263064-100-orange-juice-sweet-gods-pack.json](./263064-100-orange-juice-sweet-gods-pack.json) |
@@ -1319,6 +1320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1931: Scheherazade at the Library of Pergamum | 36136 | [36136-1931-scheherazade-at-the-library-of-pergamum.json](./36136-1931-scheherazade-at-the-library-of-pergamum.json) |
 | 1938 | 357750 | [357750-1938.json](./357750-1938.json) |
 | 1939 | 265966 | [265966-1939.json](./265966-1939.json) |
+| 1940 | 223811 | [223811-1940.json](./223811-1940.json) |
 | 1941 Frozen Front | 112064 | [112064-1941-frozen-front.json](./112064-1941-frozen-front.json) |
 | 1941: Operation Barbarossa | 235717 | [235717-1941-operation-barbarossa.json](./235717-1941-operation-barbarossa.json) |
 | 1942 | 272544 | [272544-1942.json](./272544-1942.json) |
@@ -2000,6 +2002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Hit Blunders Bundle | 254418 | [254418-3-hit-blunders-bundle.json](./254418-3-hit-blunders-bundle.json) |
 | 3 in 1 College & Pro Football | 418709 | [418709-3-in-1-college-and-pro-football.json](./418709-3-in-1-college-and-pro-football.json) |
 | 3 in 1 Supergun | 247301 | [247301-3-in-1-supergun.json](./247301-3-in-1-supergun.json) |
+| 3 in 1: Fashion Games! | 223754 | [223754-3-in-1-fashion-games.json](./223754-3-in-1-fashion-games.json) |
 | 3 in 1: Logical Bundle | 208043 | [208043-3-in-1-logical-bundle.json](./208043-3-in-1-logical-bundle.json) |
 | 3 in 1: Multiplayer Bundle | 223566 | [223566-3-in-1-multiplayer-bundle.json](./223566-3-in-1-multiplayer-bundle.json) |
 | 3 In 1: Sudoku, Mahjong, MineSweeper | 263396 | [263396-3-in-1-sudoku-mahjong-minesweeper.json](./263396-3-in-1-sudoku-mahjong-minesweeper.json) |
@@ -3252,6 +3255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-Bit Armies: Arena | 27333 | [27333-8-bit-armies-arena.json](./27333-8-bit-armies-arena.json) |
 | 8-Bit Armies: Guardians Campaign | 51698 | [51698-8-bit-armies-guardians-campaign.json](./51698-8-bit-armies-guardians-campaign.json) |
 | 8-Bit Attack | 135766 | [135766-8-bit-attack.json](./135766-8-bit-attack.json) |
+| 8-Bit Attack: Character Pack 1 | 223816 | [223816-8-bit-attack-character-pack-1.json](./223816-8-bit-attack-character-pack-1.json) |
 | 8-Bit Bayonetta | 28058 | [28058-8-bit-bayonetta.json](./28058-8-bit-bayonetta.json) |
 | 8-Bit Blocks | 325224 | [325224-8-bit-blocks.json](./325224-8-bit-blocks.json) |
 | 8-Bit Boy | 84684 | [84684-8-bit-boy.json](./84684-8-bit-boy.json) |
