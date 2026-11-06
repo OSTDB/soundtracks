@@ -1727,6 +1727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eidolon Awakened | 262874 | [262874-eidolon-awakened.json](./262874-eidolon-awakened.json) |
 | Eidolons Cross | 376617 | [376617-eidolons-cross.json](./376617-eidolons-cross.json) |
 | Eidolons: Nethergate | 116818 | [116818-eidolons-nethergate.json](./116818-eidolons-nethergate.json) |
+| Eidols | 210957 | [210957-eidols.json](./210957-eidols.json) |
 | Eien | 246738 | [246738-eien.json](./246738-eien.json) |
 | Eien | 392743 | [392743-eien.json](./392743-eien.json) |
 | Eien no Filena | 15899 | [15899-eien-no-filena.json](./15899-eien-no-filena.json) |
@@ -2490,6 +2491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eleven Eleven | 118433 | [118433-eleven-eleven.json](./118433-eleven-eleven.json) |
 | Eleven Islands Puzzle | 102640 | [102640-eleven-islands-puzzle.json](./102640-eleven-islands-puzzle.json) |
 | Eleven Pickleball | 341121 | [341121-eleven-pickleball.json](./341121-eleven-pickleball.json) |
+| Eleven Sunrises | 210962 | [210962-eleven-sunrises.json](./210962-eleven-sunrises.json) |
 | Eleven: Table Tennis VR | 32889 | [32889-eleven-table-tennis-vr.json](./32889-eleven-table-tennis-vr.json) |
 | Eleven's Quest | 245183 | [245183-elevens-quest.json](./245183-elevens-quest.json) |
 | Elevenses: The Flask | 123974 | [123974-elevenses-the-flask.json](./123974-elevenses-the-flask.json) |
@@ -3617,6 +3619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ending | 63174 | [63174-ending.json](./63174-ending.json) |
 | Ending It Today | 355536 | [355536-ending-it-today.json](./355536-ending-it-today.json) |
 | Ending Name | 284788 | [284788-ending-name.json](./284788-ending-name.json) |
+| Ending Tau | 210974 | [210974-ending-tau.json](./210974-ending-tau.json) |
 | Ending the Happy Route | 350045 | [350045-ending-the-happy-route.json](./350045-ending-the-happy-route.json) |
 | Ending Way | 189198 | [189198-ending-way.json](./189198-ending-way.json) |
 | Endings | 165668 | [165668-endings.json](./165668-endings.json) |
