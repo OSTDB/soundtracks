@@ -4831,6 +4831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ernesto, A Quick Dungeon Crawler | 61151 | [61151-ernesto-a-quick-dungeon-crawler.json](./61151-ernesto-a-quick-dungeon-crawler.json) |
 | Ernie Els Golf | 46351 | [46351-ernie-els-golf.json](./46351-ernie-els-golf.json) |
 | Ernie's Adventures in Space | 122861 | [122861-ernies-adventures-in-space.json](./122861-ernies-adventures-in-space.json) |
+| Ernie's Big Splash | 213131 | [213131-ernies-big-splash.json](./213131-ernies-big-splash.json) |
 | Ernie's Quiz | 138490 | [138490-ernies-quiz.json](./138490-ernies-quiz.json) |
 | Ero Condo: Remastered | 343882 | [343882-ero-condo-remastered.json](./343882-ero-condo-remastered.json) |
 | Ero Date | 107822 | [107822-ero-date.json](./107822-ero-date.json) |
@@ -6673,6 +6674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ever Green | 339707 | [339707-ever-green.json](./339707-ever-green.json) |
 | Ever Lasting Joy | 51527 | [51527-ever-lasting-joy.json](./51527-ever-lasting-joy.json) |
 | Ever Legion | 231954 | [231954-ever-legion.json](./231954-ever-legion.json) |
+| Ever Maiden | 213133 | [213133-ever-maiden.json](./213133-ever-maiden.json) |
 | Ever Maiden: Daraku no Sono no Otome-tachi | 249497 | [249497-ever-maiden-daraku-no-sono-no-otome-tachi.json](./249497-ever-maiden-daraku-no-sono-no-otome-tachi.json) |
 | Ever Oasis | 19596 | [19596-ever-oasis.json](./19596-ever-oasis.json) |
 | Ever Planet | 67290 | [67290-ever-planet.json](./67290-ever-planet.json) |
