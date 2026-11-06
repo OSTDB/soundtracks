@@ -222,9 +222,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sable Maze: Forbidden Garden | 139726 | [139726-sable-maze-forbidden-garden.json](./139726-sable-maze-forbidden-garden.json) |
 | Sable Maze: Forbidden Garden - Collector's Edition | 95244 | [95244-sable-maze-forbidden-garden-collectors-edition.json](./95244-sable-maze-forbidden-garden-collectors-edition.json) |
 | Sable Maze: Forbidden Garden & Sable Maze: Twelve Fears | 201822 | [201822-sable-maze-forbidden-garden-and-sable-maze-twelve-fears.json](./201822-sable-maze-forbidden-garden-and-sable-maze-twelve-fears.json) |
+| Sable Maze: Nightmare Shadows - Collector's Edition | 228243 | [228243-sable-maze-nightmare-shadows-collectors-edition.json](./228243-sable-maze-nightmare-shadows-collectors-edition.json) |
 | Sable Maze: Norwich Caves | 22111 | [22111-sable-maze-norwich-caves.json](./22111-sable-maze-norwich-caves.json) |
 | Sable Maze: Norwich Caves - Collector's Edition | 74353 | [74353-sable-maze-norwich-caves-collectors-edition.json](./74353-sable-maze-norwich-caves-collectors-edition.json) |
 | Sable Maze: Sinister Knowledge | 187921 | [187921-sable-maze-sinister-knowledge.json](./187921-sable-maze-sinister-knowledge.json) |
+| Sable Maze: Sinister Knowledge - Collector’s Edition | 228242 | [228242-sable-maze-sinister-knowledge-collector-s-edition.json](./228242-sable-maze-sinister-knowledge-collector-s-edition.json) |
 | Sable Maze: Soul Catcher - Collector’s Edition | 97138 | [97138-sable-maze-soul-catcher-collector-s-edition.json](./97138-sable-maze-soul-catcher-collector-s-edition.json) |
 | Sable Maze: Sullivan River | 139727 | [139727-sable-maze-sullivan-river.json](./139727-sable-maze-sullivan-river.json) |
 | Sable Maze: Sullivan River - Collector's Edition | 30045 | [30045-sable-maze-sullivan-river-collectors-edition.json](./30045-sable-maze-sullivan-river-collectors-edition.json) |
@@ -6141,6 +6143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex and Morning | 379330 | [379330-sex-and-morning.json](./379330-sex-and-morning.json) |
 | Sex and the Furry Titty 2: Sins of the City - Love Stories Episodes | 173846 | [173846-sex-and-the-furry-titty-2-sins-of-the-city-love-stories-episodes.json](./173846-sex-and-the-furry-titty-2-sins-of-the-city-love-stories-episodes.json) |
 | Sex and the Furry Titty 3: Come Inside, Sweety | 237075 | [237075-sex-and-the-furry-titty-3-come-inside-sweety.json](./237075-sex-and-the-furry-titty-3-come-inside-sweety.json) |
+| Sex and Zombies | 228199 | [228199-sex-and-zombies.json](./228199-sex-and-zombies.json) |
 | Sex Any Cost but Free | 369144 | [369144-sex-any-cost-but-free.json](./369144-sex-any-cost-but-free.json) |
 | Sex Apocalypse 3D | 219605 | [219605-sex-apocalypse-3d.json](./219605-sex-apocalypse-3d.json) |
 | Sex Battle [Interacademy! NTR Gangbang Game] | 82938 | [82938-sex-battle-interacademy-ntr-gangbang-game.json](./82938-sex-battle-interacademy-ntr-gangbang-game.json) |
@@ -6632,6 +6635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Land | 242558 | [242558-shadow-land.json](./242558-shadow-land.json) |
 | Shadow Leap | 318280 | [318280-shadow-leap.json](./318280-shadow-leap.json) |
 | Shadow Legend VR | 112926 | [112926-shadow-legend-vr.json](./112926-shadow-legend-vr.json) |
+| Shadow Lens | 228210 | [228210-shadow-lens.json](./228210-shadow-lens.json) |
 | Shadow Lost | 155889 | [155889-shadow-lost.json](./155889-shadow-lost.json) |
 | Shadow Madness | 44969 | [44969-shadow-madness.json](./44969-shadow-madness.json) |
 | Shadow Man | 3598 | [3598-shadow-man.json](./3598-shadow-man.json) |
@@ -6914,7 +6918,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadoworlds | 84205 | [84205-shadoworlds.json](./84205-shadoworlds.json) |
 | Shadowpiercer | 383964 | [383964-shadowpiercer.json](./383964-shadowpiercer.json) |
 | ShadowPlay | 67109 | [67109-shadowplay.json](./67109-shadowplay.json) |
+| Shadowplay: Darkness Incarnate - Collector's Edition | 228244 | [228244-shadowplay-darkness-incarnate-collectors-edition.json](./228244-shadowplay-darkness-incarnate-collectors-edition.json) |
+| Shadowplay: Harrowstead Mystery - Collector's Edition | 228247 | [228247-shadowplay-harrowstead-mystery-collectors-edition.json](./228247-shadowplay-harrowstead-mystery-collectors-edition.json) |
 | Shadowplay: Metropolis Foe | 125722 | [125722-shadowplay-metropolis-foe.json](./125722-shadowplay-metropolis-foe.json) |
+| Shadowplay: The Forsaken Island - Collector’s Edition | 228246 | [228246-shadowplay-the-forsaken-island-collector-s-edition.json](./228246-shadowplay-the-forsaken-island-collector-s-edition.json) |
+| Shadowplay: Whispers of the Past - Collector's Edition | 228245 | [228245-shadowplay-whispers-of-the-past-collectors-edition.json](./228245-shadowplay-whispers-of-the-past-collectors-edition.json) |
 | Shadowrain | 126588 | [126588-shadowrain.json](./126588-shadowrain.json) |
 | Shadowrite | 403712 | [403712-shadowrite.json](./403712-shadowrite.json) |
 | Shadowrun | 7640 | [7640-shadowrun.json](./7640-shadowrun.json) |
@@ -7510,6 +7518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharper Minds: Brain Games | 255724 | [255724-sharper-minds-brain-games.json](./255724-sharper-minds-brain-games.json) |
 | Sharpest Spear | 420206 | [420206-sharpest-spear.json](./420206-sharpest-spear.json) |
 | Sharpshoot | 292154 | [292154-sharpshoot.json](./292154-sharpshoot.json) |
+| Sharpshooter | 228214 | [228214-sharpshooter.json](./228214-sharpshooter.json) |
 | Sharpshooter | 245158 | [245158-sharpshooter.json](./245158-sharpshooter.json) |
 | Sharpshooter | 349786 | [349786-sharpshooter.json](./349786-sharpshooter.json) |
 | Sharpshooter Plus | 130285 | [130285-sharpshooter-plus.json](./130285-sharpshooter-plus.json) |
@@ -19463,6 +19472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -19702,6 +19712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Oddity 2 | 392732 | [392732-space-oddity-2.json](./392732-space-oddity-2.json) |
 | Space Odyssey | 24829 | [24829-space-odyssey.json](./24829-space-odyssey.json) |
 | Space Odyssey | 295448 | [295448-space-odyssey.json](./295448-space-odyssey.json) |
+| Space of Another Reality | 228209 | [228209-space-of-another-reality.json](./228209-space-of-another-reality.json) |
 | Space of Darkness | 43099 | [43099-space-of-darkness.json](./43099-space-of-darkness.json) |
 | Space of One Drama | 101304 | [101304-space-of-one-drama.json](./101304-space-of-one-drama.json) |
 | Space of Retaliation | 150870 | [150870-space-of-retaliation.json](./150870-space-of-retaliation.json) |
