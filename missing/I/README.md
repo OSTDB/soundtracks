@@ -4229,6 +4229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inkventure | 347326 | [347326-inkventure.json](./347326-inkventure.json) |
 | Inkwell | 376731 | [376731-inkwell.json](./376731-inkwell.json) |
 | Inkwellers | 333555 | [333555-inkwellers.json](./333555-inkwellers.json) |
+| Inky & Blinky | 238277 | [238277-inky-and-blinky.json](./238277-inky-and-blinky.json) |
 | Inky and the Alien Aquarium | 259673 | [259673-inky-and-the-alien-aquarium.json](./259673-inky-and-the-alien-aquarium.json) |
 | Inky Blinky Bob | 389665 | [389665-inky-blinky-bob.json](./389665-inky-blinky-bob.json) |
 | Inky Caps Clash | 175428 | [175428-inky-caps-clash.json](./175428-inky-caps-clash.json) |
@@ -5117,6 +5118,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Dataswarm | 363144 | [363144-into-the-dataswarm.json](./363144-into-the-dataswarm.json) |
 | Into the Dead | 20911 | [20911-into-the-dead.json](./20911-into-the-dead.json) |
 | Into the Dead 2 | 74828 | [74828-into-the-dead-2.json](./74828-into-the-dead-2.json) |
+| Into the Dead 2 Bundle | 238239 | [238239-into-the-dead-2-bundle.json](./238239-into-the-dead-2-bundle.json) |
+| Into the Dead 2: George A. Romero's Night of the Living Dead | 238240 | [238240-into-the-dead-2-george-a-romeros-night-of-the-living-dead.json](./238240-into-the-dead-2-george-a-romeros-night-of-the-living-dead.json) |
 | Into the Dead 2: Ghostbusters | 237848 | [237848-into-the-dead-2-ghostbusters.json](./237848-into-the-dead-2-ghostbusters.json) |
 | Into the Dead 2: Unleashed | 197325 | [197325-into-the-dead-2-unleashed.json](./197325-into-the-dead-2-unleashed.json) |
 | Into the Dead 2: Zombie Survival | 101418 | [101418-into-the-dead-2-zombie-survival.json](./101418-into-the-dead-2-zombie-survival.json) |
