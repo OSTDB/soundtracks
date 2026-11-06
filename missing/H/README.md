@@ -687,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Candy Break 2: Head to Head | 214515 | [214515-halloween-candy-break-2-head-to-head.json](./214515-halloween-candy-break-2-head-to-head.json) |
 | Halloween Candy Break Head to Head | 210084 | [210084-halloween-candy-break-head-to-head.json](./210084-halloween-candy-break-head-to-head.json) |
 | Halloween Candy Fun | 221077 | [221077-halloween-candy-fun.json](./221077-halloween-candy-fun.json) |
+| Halloween Candy Run | 222591 | [222591-halloween-candy-run.json](./222591-halloween-candy-run.json) |
 | Halloween Chronicles: Behind the Door | 187938 | [187938-halloween-chronicles-behind-the-door.json](./187938-halloween-chronicles-behind-the-door.json) |
 | Halloween Chronicles: Behind the Door - Collector's Edition | 191459 | [191459-halloween-chronicles-behind-the-door-collectors-edition.json](./191459-halloween-chronicles-behind-the-door-collectors-edition.json) |
 | Halloween Chronicles: Cursed Family | 186014 | [186014-halloween-chronicles-cursed-family.json](./186014-halloween-chronicles-cursed-family.json) |
