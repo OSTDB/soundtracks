@@ -3930,6 +3930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nice Day for Fishing: Legendary DLC | 343550 | [343550-nice-day-for-fishing-legendary-dlc.json](./343550-nice-day-for-fishing-legendary-dlc.json) |
 | Nice de Shot: World Course Selections | 37907 | [37907-nice-de-shot-world-course-selections.json](./37907-nice-de-shot-world-course-selections.json) |
 | Nice Dice - 3D dice roller | 102724 | [102724-nice-dice-3d-dice-roller.json](./102724-nice-dice-3d-dice-roller.json) |
+| Nice Disc: The Last Hot Blood | 205218 | [205218-nice-disc-the-last-hot-blood.json](./205218-nice-disc-the-last-hot-blood.json) |
 | Nice Jumper | 121280 | [121280-nice-jumper.json](./121280-nice-jumper.json) |
 | Nice Mario 75 | 294791 | [294791-nice-mario-75.json](./294791-nice-mario-75.json) |
 | Nice On | 37563 | [37563-nice-on.json](./37563-nice-on.json) |
