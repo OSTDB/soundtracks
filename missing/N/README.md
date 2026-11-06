@@ -5265,6 +5265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja vs. Zombies | 235893 | [235893-ninja-vs-zombies.json](./235893-ninja-vs-zombies.json) |
 | Ninja vs. Zombies 3 | 335275 | [335275-ninja-vs-zombies-3.json](./335275-ninja-vs-zombies-3.json) |
 | Ninja War | 373239 | [373239-ninja-war.json](./373239-ninja-war.json) |
+| Ninja War Hero | 194094 | [194094-ninja-war-hero.json](./194094-ninja-war-hero.json) |
 | Ninja War: Super Ninja Showdown | 199937 | [199937-ninja-war-super-ninja-showdown.json](./199937-ninja-war-super-ninja-showdown.json) |
 | Ninja Warrior | 92775 | [92775-ninja-warrior.json](./92775-ninja-warrior.json) |
 | Ninja Warrior Princess | 229334 | [229334-ninja-warrior-princess.json](./229334-ninja-warrior-princess.json) |
