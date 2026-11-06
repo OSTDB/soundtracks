@@ -2908,6 +2908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball | 128484 | [128484-baseball.json](./128484-baseball.json) |
 | Baseball | 131527 | [131527-baseball.json](./131527-baseball.json) |
 | Baseball | 171259 | [171259-baseball.json](./171259-baseball.json) |
+| Baseball | 198607 | [198607-baseball.json](./198607-baseball.json) |
 | Baseball | 217727 | [217727-baseball.json](./217727-baseball.json) |
 | Baseball | 217826 | [217826-baseball.json](./217826-baseball.json) |
 | Baseball | 217827 | [217827-baseball.json](./217827-baseball.json) |
@@ -7633,6 +7634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Yeetus | 260096 | [260096-big-yeetus.json](./260096-big-yeetus.json) |
 | Big-Battle Tanks | 388220 | [388220-big-battle-tanks.json](./388220-big-battle-tanks.json) |
 | Big-Time Butter Baron | 313178 | [313178-big-time-butter-baron.json](./313178-big-time-butter-baron.json) |
+| Big's Fishing | 198597 | [198597-bigs-fishing.json](./198597-bigs-fishing.json) |
 | Big's Fishing Derby | 129179 | [129179-bigs-fishing-derby.json](./129179-bigs-fishing-derby.json) |
 | Big's Fishing Quest | 329400 | [329400-bigs-fishing-quest.json](./329400-bigs-fishing-quest.json) |
 | Big2Small | 252646 | [252646-big2small.json](./252646-big2small.json) |
@@ -14291,6 +14293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boy vs. Genius | 119014 | [119014-boy-vs-genius.json](./119014-boy-vs-genius.json) |
 | Boy with Cat | 207172 | [207172-boy-with-cat.json](./207172-boy-with-cat.json) |
 | Boy x Boy: Shiritsu Kouryou Gakuin Seishinryou | 417548 | [417548-boy-x-boy-shiritsu-kouryou-gakuin-seishinryou.json](./417548-boy-x-boy-shiritsu-kouryou-gakuin-seishinryou.json) |
+| Boy's Active | 198608 | [198608-boys-active.json](./198608-boys-active.json) |
 | Boy's Love | 101358 | [101358-boys-love.json](./101358-boys-love.json) |
 | Boyard | 273188 | [273188-boyard.json](./273188-boyard.json) |
 | Boyband Hell | 288177 | [288177-boyband-hell.json](./288177-boyband-hell.json) |
@@ -16810,6 +16813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug-Off! | 210321 | [210321-bug-off.json](./210321-bug-off.json) |
 | Bug: Beetles Underground | 254999 | [254999-bug-beetles-underground.json](./254999-bug-beetles-underground.json) |
 | Bug! | 19735 | [19735-bug.json](./19735-bug.json) |
+| Bug! | 198609 | [198609-bug.json](./198609-bug.json) |
 | Bug!Ban!Break! | 390484 | [390484-bug-ban-break.json](./390484-bug-ban-break.json) |
 | Bug’s Quest for Tapes | 354570 | [354570-bug-s-quest-for-tapes.json](./354570-bug-s-quest-for-tapes.json) |
 | Bug×Bug | 285389 | [285389-bug-bug.json](./285389-bug-bug.json) |
