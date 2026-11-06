@@ -3089,6 +3089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wednesdays | 333946 | [333946-wednesdays.json](./333946-wednesdays.json) |
 | Wee Boats | 378133 | [378133-wee-boats.json](./378133-wee-boats.json) |
 | Wee Curl | 60846 | [60846-wee-curl.json](./60846-wee-curl.json) |
+| Wee Survivors | 223274 | [223274-wee-survivors.json](./223274-wee-survivors.json) |
 | Wee Tanks! | 142708 | [142708-wee-tanks.json](./142708-wee-tanks.json) |
 | Wee Trains | 120293 | [120293-wee-trains.json](./120293-wee-trains.json) |
 | Wee-Woo | 130640 | [130640-wee-woo.json](./130640-wee-woo.json) |
