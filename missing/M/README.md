@@ -11267,6 +11267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midwest 90: Rapid City | 217135 | [217135-midwest-90-rapid-city.json](./217135-midwest-90-rapid-city.json) |
 | Midwest Drag Racing | 395190 | [395190-midwest-drag-racing.json](./395190-midwest-drag-racing.json) |
 | Midwest Goodbye | 414183 | [414183-midwest-goodbye.json](./414183-midwest-goodbye.json) |
+| Midwintar | 212031 | [212031-midwintar.json](./212031-midwintar.json) |
 | Midwinter | 12681 | [12681-midwinter.json](./12681-midwinter.json) |
 | Midwinter | 79580 | [79580-midwinter.json](./79580-midwinter.json) |
 | Midwinter II: Flames of Freedom | 15266 | [15266-midwinter-ii-flames-of-freedom.json](./15266-midwinter-ii-flames-of-freedom.json) |
@@ -11894,6 +11895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimo | 178448 | [178448-mimo.json](./178448-mimo.json) |
 | Mimpi | 20353 | [20353-mimpi.json](./20353-mimpi.json) |
 | Mimpi Dreams | 33507 | [33507-mimpi-dreams.json](./33507-mimpi-dreams.json) |
+| Mimpi Dreams: Lunapark | 211888 | [211888-mimpi-dreams-lunapark.json](./211888-mimpi-dreams-lunapark.json) |
 | Mimpi Dreams: Mars DLC | 170183 | [170183-mimpi-dreams-mars-dlc.json](./170183-mimpi-dreams-mars-dlc.json) |
 | Mimpi Hidden Objects | 242561 | [242561-mimpi-hidden-objects.json](./242561-mimpi-hidden-objects.json) |
 | Mimpi Volleyball | 257468 | [257468-mimpi-volleyball.json](./257468-mimpi-volleyball.json) |
@@ -12499,6 +12501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mineral Defense | 326685 | [326685-mineral-defense.json](./326685-mineral-defense.json) |
 | Mineral Madness | 265829 | [265829-mineral-madness.json](./265829-mineral-madness.json) |
 | Mineral Zone | 420927 | [420927-mineral-zone.json](./420927-mineral-zone.json) |
+| Mineralis | 212003 | [212003-mineralis.json](./212003-mineralis.json) |
 | MineRalph | 112260 | [112260-mineralph.json](./112260-mineralph.json) |
 | Minerals: Deep Core Mining | 404349 | [404349-minerals-deep-core-mining.json](./404349-minerals-deep-core-mining.json) |
 | Minerest | 184883 | [184883-minerest.json](./184883-minerest.json) |
@@ -16922,6 +16925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mori | 407867 | [407867-mori.json](./407867-mori.json) |
 | Mori Adventures | 407351 | [407351-mori-adventures.json](./407351-mori-adventures.json) |
 | Mori and the Whisper | 118753 | [118753-mori-and-the-whisper.json](./118753-mori-and-the-whisper.json) |
+| Mori Carta | 212002 | [212002-mori-carta.json](./212002-mori-carta.json) |
 | Mori no Cafeteria: Oshare na Cafe Recipe | 273716 | [273716-mori-no-cafeteria-oshare-na-cafe-recipe.json](./273716-mori-no-cafeteria-oshare-na-cafe-recipe.json) |
 | Mori no Fantasy: Sekaiju no Densetsu | 220321 | [220321-mori-no-fantasy-sekaiju-no-densetsu.json](./220321-mori-no-fantasy-sekaiju-no-densetsu.json) |
 | Mori no Fukurou | 72270 | [72270-mori-no-fukurou.json](./72270-mori-no-fukurou.json) |
@@ -21835,6 +21839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Formula | 61414 | [61414-mystic-formula.json](./61414-mystic-formula.json) |
 | Mystic Gals | 304826 | [304826-mystic-gals.json](./304826-mystic-gals.json) |
 | Mystic Garden | 175519 | [175519-mystic-garden.json](./175519-mystic-garden.json) |
+| Mystic Gate | 212005 | [212005-mystic-gate.json](./212005-mystic-gate.json) |
 | Mystic Guardian | 129611 | [129611-mystic-guardian.json](./129611-mystic-guardian.json) |
 | Mystic Guardians Slide | 295368 | [295368-mystic-guardians-slide.json](./295368-mystic-guardians-slide.json) |
 | Mystic Gunner | 175351 | [175351-mystic-gunner.json](./175351-mystic-gunner.json) |
