@@ -3732,6 +3732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Barrels Go Boom | 268250 | [268250-red-barrels-go-boom.json](./268250-red-barrels-go-boom.json) |
 | Red Barton and The Sky Pirates | 31052 | [31052-red-barton-and-the-sky-pirates.json](./31052-red-barton-and-the-sky-pirates.json) |
 | Red Bash | 187537 | [187537-red-bash.json](./187537-red-bash.json) |
+| Red Beard | 227651 | [227651-red-beard.json](./227651-red-beard.json) |
 | Red Beard Labyrinth | 110823 | [110823-red-beard-labyrinth.json](./110823-red-beard-labyrinth.json) |
 | Red Bird Adventure: Classic Physics Puzzle | 237358 | [237358-red-bird-adventure-classic-physics-puzzle.json](./237358-red-bird-adventure-classic-physics-puzzle.json) |
 | Red Bit Escape | 343983 | [343983-red-bit-escape.json](./343983-red-bit-escape.json) |
@@ -5438,6 +5439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Trivia | 232625 | [232625-rescue-trivia.json](./232625-rescue-trivia.json) |
 | Rescue Troopers | 190901 | [190901-rescue-troopers.json](./190901-rescue-troopers.json) |
 | Rescue Wings | 308172 | [308172-rescue-wings.json](./308172-rescue-wings.json) |
+| Rescue Yoshi! | 227655 | [227655-rescue-yoshi.json](./227655-rescue-yoshi.json) |
 | Rescue your chickens | 30672 | [30672-rescue-your-chickens.json](./30672-rescue-your-chickens.json) |
 | Rescue Zone | 138616 | [138616-rescue-zone.json](./138616-rescue-zone.json) |
 | Rescue: Heroes in Action | 76718 | [76718-rescue-heroes-in-action.json](./76718-rescue-heroes-in-action.json) |
