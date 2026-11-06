@@ -8308,6 +8308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyes of Destiny | 301868 | [301868-eyes-of-destiny.json](./301868-eyes-of-destiny.json) |
 | Eyes of Fear | 116758 | [116758-eyes-of-fear.json](./116758-eyes-of-fear.json) |
 | Eyes of Hellfire | 333788 | [333788-eyes-of-hellfire.json](./333788-eyes-of-hellfire.json) |
+| Eyes of Iyre | 227601 | [227601-eyes-of-iyre.json](./227601-eyes-of-iyre.json) |
 | Eyes of Souls | 177948 | [177948-eyes-of-souls.json](./177948-eyes-of-souls.json) |
 | Eyes of the ElderWood | 367362 | [367362-eyes-of-the-elderwood.json](./367362-eyes-of-the-elderwood.json) |
 | Eyes of the Factory | 408185 | [408185-eyes-of-the-factory.json](./408185-eyes-of-the-factory.json) |
