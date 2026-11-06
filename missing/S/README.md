@@ -7953,6 +7953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheryl: The Alchemist of the Island Ruins | 292524 | [292524-sheryl-the-alchemist-of-the-island-ruins.json](./292524-sheryl-the-alchemist-of-the-island-ruins.json) |
 | Sheva | 347994 | [347994-sheva.json](./347994-sheva.json) |
 | Shh, Zombies | 21979 | [21979-shh-zombies.json](./21979-shh-zombies.json) |
+| Shh! This is a mystery game! But watch out for spoilers | 243498 | [243498-shh-this-is-a-mystery-game-but-watch-out-for-spoilers.json](./243498-shh-this-is-a-mystery-game-but-watch-out-for-spoilers.json) |
 | Shhh! | 278288 | [278288-shhh.json](./278288-shhh.json) |
 | Shhh!k | 402099 | [402099-shhh-k.json](./402099-shhh-k.json) |
 | Shhh!Saw | 291823 | [291823-shhh-saw.json](./291823-shhh-saw.json) |
@@ -8678,6 +8679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiren the Wanderer: The Tower of Fortune and the Dice of Fate | 80619 | [80619-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json](./80619-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json) |
 | Shiren The Wanderer: The Tower of Fortune and the Dice of Fate - Eternal Wanderer Edition | 42676 | [42676-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate-eternal-wanderer-edition.json](./42676-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate-eternal-wanderer-edition.json) |
 | Shirime 2: The Genesis of Butt-Eye | 253854 | [253854-shirime-2-the-genesis-of-butt-eye.json](./253854-shirime-2-the-genesis-of-butt-eye.json) |
+| Shirime: The Curse of Butt-Eye | 243499 | [243499-shirime-the-curse-of-butt-eye.json](./243499-shirime-the-curse-of-butt-eye.json) |
 | Shirina | 103638 | [103638-shirina.json](./103638-shirina.json) |
 | Shiritsu Berubara Gakuen: Versailles no Bara Re*imagination | 136943 | [136943-shiritsu-berubara-gakuen-versailles-no-bara-re-imagination.json](./136943-shiritsu-berubara-gakuen-versailles-no-bara-re-imagination.json) |
 | Shiritsu Justice Gakuen: Nekketsu Seishun Nikki 2 | 44769 | [44769-shiritsu-justice-gakuen-nekketsu-seishun-nikki-2.json](./44769-shiritsu-justice-gakuen-nekketsu-seishun-nikki-2.json) |
@@ -14614,6 +14616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake | 172415 | [172415-snake.json](./172415-snake.json) |
 | Snake | 186242 | [186242-snake.json](./186242-snake.json) |
 | Snake | 195495 | [195495-snake.json](./195495-snake.json) |
+| Snake | 243474 | [243474-snake.json](./243474-snake.json) |
 | Snake | 256767 | [256767-snake.json](./256767-snake.json) |
 | Snake | 28395 | [28395-snake.json](./28395-snake.json) |
 | Snake | 288267 | [288267-snake.json](./288267-snake.json) |
@@ -19375,7 +19378,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -25138,6 +25140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starry Sky: Summer Stories | 202827 | [202827-starry-sky-summer-stories.json](./202827-starry-sky-summer-stories.json) |
 | Starry Sky: Winter Stories | 203814 | [203814-starry-sky-winter-stories.json](./203814-starry-sky-winter-stories.json) |
 | Starry Trace | 388327 | [388327-starry-trace.json](./388327-starry-trace.json) |
+| Starryard | 243501 | [243501-starryard.json](./243501-starryard.json) |
 | StarryMonogatari: Student's Terminal | 302103 | [302103-starrymonogatari-students-terminal.json](./302103-starrymonogatari-students-terminal.json) |
 | Stars and Empires: Colony Defense | 317078 | [317078-stars-and-empires-colony-defense.json](./317078-stars-and-empires-colony-defense.json) |
 | Stars and Ghosts | 90398 | [90398-stars-and-ghosts.json](./90398-stars-and-ghosts.json) |
@@ -27053,6 +27056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of a Pawn | 183262 | [183262-story-of-a-pawn.json](./183262-story-of-a-pawn.json) |
 | Story of a Tiny Earth: The Symbolic Ages | 172170 | [172170-story-of-a-tiny-earth-the-symbolic-ages.json](./172170-story-of-a-tiny-earth-the-symbolic-ages.json) |
 | Story of Alicia | 373591 | [373591-story-of-alicia.json](./373591-story-of-alicia.json) |
+| Story of Animal Sprite | 243500 | [243500-story-of-animal-sprite.json](./243500-story-of-animal-sprite.json) |
 | Story of Eve - A Hero's Study | 110743 | [110743-story-of-eve-a-heros-study.json](./110743-story-of-eve-a-heros-study.json) |
 | Story of Heterosexuality | 333547 | [333547-story-of-heterosexuality.json](./333547-story-of-heterosexuality.json) |
 | Story of Infinity: Xia | 247704 | [247704-story-of-infinity-xia.json](./247704-story-of-infinity-xia.json) |
@@ -27679,6 +27683,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter 6: Years 1-2 - Fighters Edition | 338081 | [338081-street-fighter-6-years-1-2-fighters-edition.json](./338081-street-fighter-6-years-1-2-fighters-edition.json) |
 | Street Fighter 6: Years 1-2 - Fighters Edition | 338112 | [338112-street-fighter-6-years-1-2-fighters-edition.json](./338112-street-fighter-6-years-1-2-fighters-edition.json) |
 | Street Fighter Alpha 2 | 243451 | [243451-street-fighter-alpha-2.json](./243451-street-fighter-alpha-2.json) |
+| Street Fighter Alpha 2 | 243452 | [243452-street-fighter-alpha-2.json](./243452-street-fighter-alpha-2.json) |
+| Street Fighter Alpha 2 | 243453 | [243453-street-fighter-alpha-2.json](./243453-street-fighter-alpha-2.json) |
 | Street Fighter Alpha 2 | 6703 | [6703-street-fighter-alpha-2.json](./6703-street-fighter-alpha-2.json) |
 | Street Fighter Alpha 2 Gold | 208759 | [208759-street-fighter-alpha-2-gold.json](./208759-street-fighter-alpha-2-gold.json) |
 | Street Fighter Alpha 3 | 242650 | [242650-street-fighter-alpha-3.json](./242650-street-fighter-alpha-3.json) |
