@@ -726,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanji Gakusei | 170043 | [170043-kanji-gakusei.json](./170043-kanji-gakusei.json) |
 | Kanji in Motion | 368288 | [368288-kanji-in-motion.json](./368288-kanji-in-motion.json) |
 | Kanji Industry | 240667 | [240667-kanji-industry.json](./240667-kanji-industry.json) |
+| Kanji Islands | 238279 | [238279-kanji-islands.json](./238279-kanji-islands.json) |
 | Kanji Kitchen: Learn Japanese | 266760 | [266760-kanji-kitchen-learn-japanese.json](./266760-kanji-kitchen-learn-japanese.json) |
 | Kanji no Owari! | 56450 | [56450-kanji-no-owari.json](./56450-kanji-no-owari.json) |
 | Kanji Parkour | 206556 | [206556-kanji-parkour.json](./206556-kanji-parkour.json) |
@@ -2793,6 +2794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3952,7 +3954,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kissed by the Baddest Bidder: Living Together - Shuichi | 238184 | [238184-kissed-by-the-baddest-bidder-living-together-shuichi.json](./238184-kissed-by-the-baddest-bidder-living-together-shuichi.json) |
 | Kissed by the Baddest Bidder: Living Together - Shuichi DLC Pack | 237994 | [237994-kissed-by-the-baddest-bidder-living-together-shuichi-dlc-pack.json](./237994-kissed-by-the-baddest-bidder-living-together-shuichi-dlc-pack.json) |
 | Kissed by the Baddest Bidder: Living Together Epilogue - Shuichi | 238067 | [238067-kissed-by-the-baddest-bidder-living-together-epilogue-shuichi.json](./238067-kissed-by-the-baddest-bidder-living-together-epilogue-shuichi.json) |
+| Kissed by the Baddest Bidder: Scattered Cards - Eisuke | 238232 | [238232-kissed-by-the-baddest-bidder-scattered-cards-eisuke.json](./238232-kissed-by-the-baddest-bidder-scattered-cards-eisuke.json) |
+| Kissed by the Baddest Bidder: Scattered Cards - Mamoru | 238236 | [238236-kissed-by-the-baddest-bidder-scattered-cards-mamoru.json](./238236-kissed-by-the-baddest-bidder-scattered-cards-mamoru.json) |
+| Kissed by the Baddest Bidder: Scattered Cards - Ota | 238237 | [238237-kissed-by-the-baddest-bidder-scattered-cards-ota.json](./238237-kissed-by-the-baddest-bidder-scattered-cards-ota.json) |
+| Kissed by the Baddest Bidder: Scattered Cards - Soryu | 238238 | [238238-kissed-by-the-baddest-bidder-scattered-cards-soryu.json](./238238-kissed-by-the-baddest-bidder-scattered-cards-soryu.json) |
 | Kissed by the Baddest Bidder: Scattered Cards Epilogue - Eisuke | 238069 | [238069-kissed-by-the-baddest-bidder-scattered-cards-epilogue-eisuke.json](./238069-kissed-by-the-baddest-bidder-scattered-cards-epilogue-eisuke.json) |
+| Kissed by the Baddest Bidder: Scattered Cards Epilogue - Mamoru | 238233 | [238233-kissed-by-the-baddest-bidder-scattered-cards-epilogue-mamoru.json](./238233-kissed-by-the-baddest-bidder-scattered-cards-epilogue-mamoru.json) |
+| Kissed by the Baddest Bidder: Scattered Cards Epilogue - Ota | 238234 | [238234-kissed-by-the-baddest-bidder-scattered-cards-epilogue-ota.json](./238234-kissed-by-the-baddest-bidder-scattered-cards-epilogue-ota.json) |
+| Kissed by the Baddest Bidder: Scattered Cards Epilogue - Soryu | 238235 | [238235-kissed-by-the-baddest-bidder-scattered-cards-epilogue-soryu.json](./238235-kissed-by-the-baddest-bidder-scattered-cards-epilogue-soryu.json) |
 | Kissed by the Baddest Bidder: Secrets from the Past - Eisuke | 238225 | [238225-kissed-by-the-baddest-bidder-secrets-from-the-past-eisuke.json](./238225-kissed-by-the-baddest-bidder-secrets-from-the-past-eisuke.json) |
 | Kissed by the Baddest Bidder: Secrets from the Past - Soryu | 238226 | [238226-kissed-by-the-baddest-bidder-secrets-from-the-past-soryu.json](./238226-kissed-by-the-baddest-bidder-secrets-from-the-past-soryu.json) |
 | Kissing Simulator | 118987 | [118987-kissing-simulator.json](./118987-kissing-simulator.json) |
