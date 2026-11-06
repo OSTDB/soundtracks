@@ -3705,6 +3705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oraxum Trials | 192331 | [192331-oraxum-trials.json](./192331-oraxum-trials.json) |
 | Orb | 17119 | [17119-orb.json](./17119-orb.json) |
 | Orb | 229551 | [229551-orb.json](./229551-orb.json) |
+| Orb | 236643 | [236643-orb.json](./236643-orb.json) |
 | Orb 2 | 408650 | [408650-orb-2.json](./408650-orb-2.json) |
 | Orb 2: The New Levels | 408716 | [408716-orb-2-the-new-levels.json](./408716-orb-2-the-new-levels.json) |
 | Orb 3 | 408720 | [408720-orb-3.json](./408720-orb-3.json) |
@@ -4956,6 +4957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of the Park Baseball 2007 | 346169 | [346169-out-of-the-park-baseball-2007.json](./346169-out-of-the-park-baseball-2007.json) |
 | Out of the Park Baseball 21 | 130326 | [130326-out-of-the-park-baseball-21.json](./130326-out-of-the-park-baseball-21.json) |
 | Out of the Park Baseball 22 | 142888 | [142888-out-of-the-park-baseball-22.json](./142888-out-of-the-park-baseball-22.json) |
+| Out of the Park Baseball 24 | 236632 | [236632-out-of-the-park-baseball-24.json](./236632-out-of-the-park-baseball-24.json) |
 | Out of the Park Baseball 25 | 287086 | [287086-out-of-the-park-baseball-25.json](./287086-out-of-the-park-baseball-25.json) |
 | Out of the Park Baseball 26 | 329661 | [329661-out-of-the-park-baseball-26.json](./329661-out-of-the-park-baseball-26.json) |
 | Out of the Park Baseball 3 | 73596 | [73596-out-of-the-park-baseball-3.json](./73596-out-of-the-park-baseball-3.json) |
