@@ -1313,6 +1313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Bank | 193987 | [193987-idle-bank.json](./193987-idle-bank.json) |
 | Idle Bank Tycoon | 228143 | [228143-idle-bank-tycoon.json](./228143-idle-bank-tycoon.json) |
 | Idle Banshee Alliance | 230947 | [230947-idle-banshee-alliance.json](./230947-idle-banshee-alliance.json) |
+| Idle Basketball: Legends Tycoon | 234431 | [234431-idle-basketball-legends-tycoon.json](./234431-idle-basketball-legends-tycoon.json) |
 | Idle Battle Royale | 124760 | [124760-idle-battle-royale.json](./124760-idle-battle-royale.json) |
 | Idle Battle RPG | 295767 | [295767-idle-battle-rpg.json](./295767-idle-battle-rpg.json) |
 | Idle Battler | 393620 | [393620-idle-battler.json](./393620-idle-battler.json) |
@@ -1327,6 +1328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Breakanoid | 383952 | [383952-idle-breakanoid.json](./383952-idle-breakanoid.json) |
 | Idle Breaker: Loot and Survive | 297597 | [297597-idle-breaker-loot-and-survive.json](./297597-idle-breaker-loot-and-survive.json) |
 | Idle Breakout | 228326 | [228326-idle-breakout.json](./228326-idle-breakout.json) |
+| Idle Brick Breaker | 234427 | [234427-idle-brick-breaker.json](./234427-idle-brick-breaker.json) |
 | Idle Bubbles Cannon: Aim & Tap | 245336 | [245336-idle-bubbles-cannon-aim-and-tap.json](./245336-idle-bubbles-cannon-aim-and-tap.json) |
 | Idle Build RPG | 260166 | [260166-idle-build-rpg.json](./260166-idle-build-rpg.json) |
 | Idle Business Tycoon: Build Simulator | 197933 | [197933-idle-business-tycoon-build-simulator.json](./197933-idle-business-tycoon-build-simulator.json) |
@@ -1620,6 +1622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Siege: Army Tycoon Game | 246982 | [246982-idle-siege-army-tycoon-game.json](./246982-idle-siege-army-tycoon-game.json) |
 | Idle Simple RPG | 243212 | [243212-idle-simple-rpg.json](./243212-idle-simple-rpg.json) |
 | Idle Skilling | 144767 | [144767-idle-skilling.json](./144767-idle-skilling.json) |
+| Idle Skilling: Afterlife | 234433 | [234433-idle-skilling-afterlife.json](./234433-idle-skilling-afterlife.json) |
 | Idle Spa Tycoon 3D | 208923 | [208923-idle-spa-tycoon-3d.json](./208923-idle-spa-tycoon-3d.json) |
 | Idle Space | 128266 | [128266-idle-space.json](./128266-idle-space.json) |
 | Idle Space Force | 246425 | [246425-idle-space-force.json](./246425-idle-space-force.json) |
@@ -3412,6 +3415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inductor | 211282 | [211282-inductor.json](./211282-inductor.json) |
 | Indulge | 414312 | [414312-indulge.json](./414312-indulge.json) |
 | Indulgentia | 371925 | [371925-indulgentia.json](./371925-indulgentia.json) |
+| Indus Battle Royale | 234435 | [234435-indus-battle-royale.json](./234435-indus-battle-royale.json) |
 | Industeria | 416684 | [416684-industeria.json](./416684-industeria.json) |
 | IndusTree | 346398 | [346398-industree.json](./346398-industree.json) |
 | Industria II | 292878 | [292878-industria-ii.json](./292878-industria-ii.json) |
@@ -3575,6 +3579,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infectonator 2 | 95939 | [95939-infectonator-2.json](./95939-infectonator-2.json) |
 | Infectonator 3: Apocalypse | 76039 | [76039-infectonator-3-apocalypse.json](./76039-infectonator-3-apocalypse.json) |
 | Infectonator World Dominator | 129950 | [129950-infectonator-world-dominator.json](./129950-infectonator-world-dominator.json) |
+| Infectonator: Hot Chase | 234396 | [234396-infectonator-hot-chase.json](./234396-infectonator-hot-chase.json) |
+| Infectonator! | 234395 | [234395-infectonator.json](./234395-infectonator.json) |
 | Infector | 184464 | [184464-infector.json](./184464-infector.json) |
 | Infectra | 146752 | [146752-infectra.json](./146752-infectra.json) |
 | Infees | 152904 | [152904-infees.json](./152904-infees.json) |
@@ -3817,7 +3823,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4375,6 +4380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insane Forest | 342886 | [342886-insane-forest.json](./342886-insane-forest.json) |
 | Insane Kart Wii | 250325 | [250325-insane-kart-wii.json](./250325-insane-kart-wii.json) |
 | Insane Maze | 217208 | [217208-insane-maze.json](./217208-insane-maze.json) |
+| Insane Orb | 234394 | [234394-insane-orb.json](./234394-insane-orb.json) |
 | Insane Road | 37404 | [37404-insane-road.json](./37404-insane-road.json) |
 | Insane Rules | 284615 | [284615-insane-rules.json](./284615-insane-rules.json) |
 | Insane West | 117564 | [117564-insane-west.json](./117564-insane-west.json) |
@@ -5587,6 +5593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ipuppet Presents: Colin's Classic Cards | 210022 | [210022-ipuppet-presents-colins-classic-cards.json](./210022-ipuppet-presents-colins-classic-cards.json) |
 | IPuppy World | 175290 | [175290-ipuppy-world.json](./175290-ipuppy-world.json) |
 | iPyramid - Pyramid Solitaire | 88378 | [88378-ipyramid-pyramid-solitaire.json](./88378-ipyramid-pyramid-solitaire.json) |
+| IQ Ball | 234390 | [234390-iq-ball.json](./234390-iq-ball.json) |
 | IQ Dungeon | 199904 | [199904-iq-dungeon.json](./199904-iq-dungeon.json) |
 | IQ Jump | 194295 | [194295-iq-jump.json](./194295-iq-jump.json) |
 | IQ Logic Codes: Number & Letter Puzzles | 415062 | [415062-iq-logic-codes-number-and-letter-puzzles.json](./415062-iq-logic-codes-number-and-letter-puzzles.json) |
