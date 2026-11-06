@@ -3843,6 +3843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 2022: Chinese Version | 215361 | [215361-lets-sing-2022-chinese-version.json](./215361-lets-sing-2022-chinese-version.json) |
 | Let's Sing 2022: French Version | 175978 | [175978-lets-sing-2022-french-version.json](./175978-lets-sing-2022-french-version.json) |
 | Let's Sing 2022: Platinum Edition | 185980 | [185980-lets-sing-2022-platinum-edition.json](./185980-lets-sing-2022-platinum-edition.json) |
+| Let's Sing 2023 | 219434 | [219434-lets-sing-2023.json](./219434-lets-sing-2023.json) |
 | Let's Sing 2023 with German Hits | 227612 | [227612-lets-sing-2023-with-german-hits.json](./227612-lets-sing-2023-with-german-hits.json) |
 | Let's Sing 2023: Best of 80's vol. 1 Song Pack | 257727 | [257727-lets-sing-2023-best-of-80s-vol-1-song-pack.json](./257727-lets-sing-2023-best-of-80s-vol-1-song-pack.json) |
 | Let's Sing 2023: Best of 80's vol. 2 Song Pack | 257729 | [257729-lets-sing-2023-best-of-80s-vol-2-song-pack.json](./257729-lets-sing-2023-best-of-80s-vol-2-song-pack.json) |
@@ -3901,6 +3902,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's zig zag | 81655 | [81655-lets-zig-zag.json](./81655-lets-zig-zag.json) |
 | Let's! Revolution! | 242101 | [242101-lets-revolution.json](./242101-lets-revolution.json) |
 | Let's! Splat! Machigai Sagashi | 222528 | [222528-lets-splat-machigai-sagashi.json](./222528-lets-splat-machigai-sagashi.json) |
+| Let's! TV Play Namco Nostalgia 1 | 219424 | [219424-lets-tv-play-namco-nostalgia-1.json](./219424-lets-tv-play-namco-nostalgia-1.json) |
+| Let's! TV Play Namco Nostalgia 2 | 219426 | [219426-lets-tv-play-namco-nostalgia-2.json](./219426-lets-tv-play-namco-nostalgia-2.json) |
 | Leta Adventure | 240128 | [240128-leta-adventure.json](./240128-leta-adventure.json) |
 | Letalis | 290197 | [290197-letalis.json](./290197-letalis.json) |
 | LetDeco | 351667 | [351667-letdeco.json](./351667-letdeco.json) |
@@ -4222,6 +4225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Li Shui | 374138 | [374138-li-shui.json](./374138-li-shui.json) |
 | Li Tan | 157321 | [157321-li-tan.json](./157321-li-tan.json) |
 | Li-Lo | 285502 | [285502-li-lo.json](./285502-li-lo.json) |
+| Li'l Pac-Man | 219345 | [219345-lil-pac-man.json](./219345-lil-pac-man.json) |
 | Li'l Red | 272357 | [272357-lil-red.json](./272357-lil-red.json) |
 | Li'l Rumble | 284353 | [284353-lil-rumble.json](./284353-lil-rumble.json) |
 | Li'l Taffer | 323377 | [323377-lil-taffer.json](./323377-lil-taffer.json) |
