@@ -641,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy and Devil | 155577 | [155577-fairy-and-devil.json](./155577-fairy-and-devil.json) |
 | Fairy Bakery Workshop | 182456 | [182456-fairy-bakery-workshop.json](./182456-fairy-bakery-workshop.json) |
 | Fairy Biography 2: Confidante | 224302 | [224302-fairy-biography-2-confidante.json](./224302-fairy-biography-2-confidante.json) |
+| Fairy Biography 3: Obsession | 235542 | [235542-fairy-biography-3-obsession.json](./235542-fairy-biography-3-obsession.json) |
 | Fairy Biography 5: Demon | 285609 | [285609-fairy-biography-5-demon.json](./285609-fairy-biography-5-demon.json) |
 | Fairy Bloom | 281283 | [281283-fairy-bloom.json](./281283-fairy-bloom.json) |
 | Fairy Bloom Ultra Encore | 22784 | [22784-fairy-bloom-ultra-encore.json](./22784-fairy-bloom-ultra-encore.json) |
@@ -3288,6 +3289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Father's Day Journey | 304270 | [304270-fathers-day-journey.json](./304270-fathers-day-journey.json) |
 | Father's Island | 33072 | [33072-fathers-island.json](./33072-fathers-island.json) |
 | Father's Love | 364983 | [364983-fathers-love.json](./364983-fathers-love.json) |
+| Fatherhood | 235564 | [235564-fatherhood.json](./235564-fatherhood.json) |
 | Fathers Farm | 377851 | [377851-fathers-farm.json](./377851-fathers-farm.json) |
 | Fathom | 10966 | [10966-fathom.json](./10966-fathom.json) |
 | Fathom | 400599 | [400599-fathom.json](./400599-fathom.json) |
