@@ -957,7 +957,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2166,6 +2165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bank Roll 2000 | 273208 | [273208-bank-roll-2000.json](./273208-bank-roll-2000.json) |
 | Bank Shot | 381871 | [381871-bank-shot.json](./381871-bank-shot.json) |
 | Bank Simulator | 326470 | [326470-bank-simulator.json](./326470-bank-simulator.json) |
+| Bank Tycoon | 237154 | [237154-bank-tycoon.json](./237154-bank-tycoon.json) |
 | Bank-A-Ball | 84323 | [84323-bank-a-ball.json](./84323-bank-a-ball.json) |
 | Banka | 273186 | [273186-banka.json](./273186-banka.json) |
 | BankBank | 98057 | [98057-bankbank.json](./98057-bankbank.json) |
@@ -4619,6 +4619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BDEF: Base Defenders | 179329 | [179329-bdef-base-defenders.json](./179329-bdef-base-defenders.json) |
 | BDSM Clicker | 355136 | [355136-bdsm-clicker.json](./355136-bdsm-clicker.json) |
 | BDSM Fuel Station: Interactive Physics Simulation | 326287 | [326287-bdsm-fuel-station-interactive-physics-simulation.json](./326287-bdsm-fuel-station-interactive-physics-simulation.json) |
+| BDSM Love | 237165 | [237165-bdsm-love.json](./237165-bdsm-love.json) |
 | BDSM Sex | 294129 | [294129-bdsm-sex.json](./294129-bdsm-sex.json) |
 | BDSM Sex: Episode 1 | 294195 | [294195-bdsm-sex-episode-1.json](./294195-bdsm-sex-episode-1.json) |
 | BDSM Sex: Episode 2 | 295381 | [295381-bdsm-sex-episode-2.json](./295381-bdsm-sex-episode-2.json) |
@@ -10926,6 +10927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Radiant | 277275 | [277275-blood-radiant.json](./277275-blood-radiant.json) |
 | Blood Rage: Digital Edition | 130062 | [130062-blood-rage-digital-edition.json](./130062-blood-rage-digital-edition.json) |
 | Blood Reaver | 298237 | [298237-blood-reaver.json](./298237-blood-reaver.json) |
+| Blood Red | 237137 | [237137-blood-red.json](./237137-blood-red.json) |
 | Blood Red Rebirth | 384313 | [384313-blood-red-rebirth.json](./384313-blood-red-rebirth.json) |
 | Blood Rising | 338257 | [338257-blood-rising.json](./338257-blood-rising.json) |
 | Blood Rite | 238505 | [238505-blood-rite.json](./238505-blood-rite.json) |
@@ -15118,6 +15120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breathless | 14346 | [14346-breathless.json](./14346-breathless.json) |
 | Breathless | 222638 | [222638-breathless.json](./222638-breathless.json) |
 | Breathless Bliss | 88916 | [88916-breathless-bliss.json](./88916-breathless-bliss.json) |
+| Breathless Winds | 237159 | [237159-breathless-winds.json](./237159-breathless-winds.json) |
 | Breathless: Will you Understand Me? | 292459 | [292459-breathless-will-you-understand-me.json](./292459-breathless-will-you-understand-me.json) |
 | Breathspace | 226271 | [226271-breathspace.json](./226271-breathspace.json) |
 | Breaworlds | 125830 | [125830-breaworlds.json](./125830-breaworlds.json) |
