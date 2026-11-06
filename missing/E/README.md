@@ -5786,6 +5786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Espina | 355592 | [355592-espina.json](./355592-espina.json) |
 | Espiocracy | 153913 | [153913-espiocracy.json](./153913-espiocracy.json) |
 | Espionage | 13646 | [13646-espionage.json](./13646-espionage.json) |
+| Espionage | 203498 | [203498-espionage.json](./203498-espionage.json) |
 | Espionage | 285027 | [285027-espionage.json](./285027-espionage.json) |
 | Espionage Activity | 291148 | [291148-espionage-activity.json](./291148-espionage-activity.json) |
 | Espionage Island | 13645 | [13645-espionage-island.json](./13645-espionage-island.json) |
@@ -8109,6 +8110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extravaganza Rising | 32078 | [32078-extravaganza-rising.json](./32078-extravaganza-rising.json) |
 | Extreme | 13655 | [13655-extreme.json](./13655-extreme.json) |
 | Extreme 500 | 46723 | [46723-extreme-500.json](./46723-extreme-500.json) |
+| Extreme Air Snowboarding | 203487 | [203487-extreme-air-snowboarding.json](./203487-extreme-air-snowboarding.json) |
 | Extreme Air Snowboarding 3D | 316496 | [316496-extreme-air-snowboarding-3d.json](./316496-extreme-air-snowboarding-3d.json) |
 | Extreme Angler | 72051 | [72051-extreme-angler.json](./72051-extreme-angler.json) |
 | Extreme Assault | 50302 | [50302-extreme-assault.json](./50302-extreme-assault.json) |
