@@ -5207,6 +5207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Down | 285011 | [285011-deep-down.json](./285011-deep-down.json) |
 | Deep Down | 357736 | [357736-deep-down.json](./357736-deep-down.json) |
 | Deep Down & Dark | 263592 | [263592-deep-down-and-dark.json](./263592-deep-down-and-dark.json) |
+| Deep Down 2 | 203492 | [203492-deep-down-2.json](./203492-deep-down-2.json) |
 | Deep Down Below | 373157 | [373157-deep-down-below.json](./373157-deep-down-below.json) |
 | Deep Duck Trouble Starring Donald Duck | 8447 | [8447-deep-duck-trouble-starring-donald-duck.json](./8447-deep-duck-trouble-starring-donald-duck.json) |
 | Deep Dungeon | 177860 | [177860-deep-dungeon.json](./177860-deep-dungeon.json) |
@@ -7555,6 +7556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy All Humans! 2: Reprobed | 171214 | [171214-destroy-all-humans-2-reprobed.json](./171214-destroy-all-humans-2-reprobed.json) |
 | Destroy All Humans! 2: Reprobed - Challenge Accepted | 220596 | [220596-destroy-all-humans-2-reprobed-challenge-accepted.json](./220596-destroy-all-humans-2-reprobed-challenge-accepted.json) |
 | Destroy All Humans! 2: Reprobed - Dressed to Skill Edition | 203688 | [203688-destroy-all-humans-2-reprobed-dressed-to-skill-edition.json](./203688-destroy-all-humans-2-reprobed-dressed-to-skill-edition.json) |
+| Destroy All Humans! 2: Reprobed - Second Coming Edition | 203513 | [203513-destroy-all-humans-2-reprobed-second-coming-edition.json](./203513-destroy-all-humans-2-reprobed-second-coming-edition.json) |
 | Destroy All Humans! 2: Reprobed - Skin Pack | 248420 | [248420-destroy-all-humans-2-reprobed-skin-pack.json](./248420-destroy-all-humans-2-reprobed-skin-pack.json) |
 | Destroy All Humans! Big Willy Unleashed | 2716 | [2716-destroy-all-humans-big-willy-unleashed.json](./2716-destroy-all-humans-big-willy-unleashed.json) |
 | Destroy All Humans! Crypto Does Vegas | 215442 | [215442-destroy-all-humans-crypto-does-vegas.json](./215442-destroy-all-humans-crypto-does-vegas.json) |
@@ -13923,6 +13925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down the Darkest Pit | 381953 | [381953-down-the-darkest-pit.json](./381953-down-the-darkest-pit.json) |
 | Down The Dead | 195392 | [195392-down-the-dead.json](./195392-down-the-dead.json) |
 | Down the Deep | 191612 | [191612-down-the-deep.json](./191612-down-the-deep.json) |
+| Down the Drain | 203574 | [203574-down-the-drain.json](./203574-down-the-drain.json) |
 | Down the Drain | 256830 | [256830-down-the-drain.json](./256830-down-the-drain.json) |
 | Down the Drain | 294417 | [294417-down-the-drain.json](./294417-down-the-drain.json) |
 | Down the Dungeon | 393545 | [393545-down-the-dungeon.json](./393545-down-the-dungeon.json) |
@@ -16316,6 +16319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dresden Files Cooperative Card Game: Wardens Attack | 170489 | [170489-dresden-files-cooperative-card-game-wardens-attack.json](./170489-dresden-files-cooperative-card-game-wardens-attack.json) |
 | Dresden Files Cooperative Card Game: Winter Schemes | 266503 | [266503-dresden-files-cooperative-card-game-winter-schemes.json](./266503-dresden-files-cooperative-card-game-winter-schemes.json) |
 | Dress | 94748 | [94748-dress.json](./94748-dress.json) |
+| Dress Cake | 203584 | [203584-dress-cake.json](./203584-dress-cake.json) |
 | Dress Me | 101049 | [101049-dress-me.json](./101049-dress-me.json) |
 | Dress out! | 118011 | [118011-dress-out.json](./118011-dress-out.json) |
 | Dress Rehearsal | 364222 | [364222-dress-rehearsal.json](./364222-dress-rehearsal.json) |
@@ -18980,6 +18984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarven Realm | 292625 | [292625-dwarven-realm.json](./292625-dwarven-realm.json) |
 | Dwarven Realms | 215873 | [215873-dwarven-realms.json](./215873-dwarven-realms.json) |
 | Dwarven Skykeep | 119769 | [119769-dwarven-skykeep.json](./119769-dwarven-skykeep.json) |
+| Dwarven Towers | 203578 | [203578-dwarven-towers.json](./203578-dwarven-towers.json) |
 | Dwarven Village: Dark Siege Td | 348847 | [348847-dwarven-village-dark-siege-td.json](./348847-dwarven-village-dark-siege-td.json) |
 | Dwarven: Mining Dungeons | 193435 | [193435-dwarven-mining-dungeons.json](./193435-dwarven-mining-dungeons.json) |
 | Dwarves & Dungeons | 157371 | [157371-dwarves-and-dungeons.json](./157371-dwarves-and-dungeons.json) |
