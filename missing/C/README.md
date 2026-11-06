@@ -1311,6 +1311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Clicker | 420778 | [420778-candy-clicker.json](./420778-candy-clicker.json) |
 | Candy Country: Sweet Wonder | 338003 | [338003-candy-country-sweet-wonder.json](./338003-candy-country-sweet-wonder.json) |
 | Candy Coven | 177943 | [177943-candy-coven.json](./177943-candy-coven.json) |
+| Candy Crack | 213683 | [213683-candy-crack.json](./213683-candy-crack.json) |
 | Candy Creeps | 227814 | [227814-candy-creeps.json](./227814-candy-creeps.json) |
 | Candy Crisis | 265261 | [265261-candy-crisis.json](./265261-candy-crisis.json) |
 | Candy Cruncher | 284384 | [284384-candy-cruncher.json](./284384-candy-cruncher.json) |
@@ -1986,6 +1987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captive of Fortune | 81137 | [81137-captive-of-fortune.json](./81137-captive-of-fortune.json) |
 | Captivity Horror Multiplayer | 276348 | [276348-captivity-horror-multiplayer.json](./276348-captivity-horror-multiplayer.json) |
 | CaptMeow | 385832 | [385832-captmeow.json](./385832-captmeow.json) |
+| Captor Clash | 213684 | [213684-captor-clash.json](./213684-captor-clash.json) |
 | Captroon | 213248 | [213248-captroon.json](./213248-captroon.json) |
 | Capture | 104672 | [104672-capture.json](./104672-capture.json) |
 | Capture | 281217 | [281217-capture.json](./281217-capture.json) |
@@ -3223,6 +3225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Case Zero | 306321 | [306321-case-zero.json](./306321-case-zero.json) |
 | Casebook Trilogy: Special Edition | 67277 | [67277-casebook-trilogy-special-edition.json](./67277-casebook-trilogy-special-edition.json) |
 | Casebook: Episode 0 - The Missing Urn | 335437 | [335437-casebook-episode-0-the-missing-urn.json](./335437-casebook-episode-0-the-missing-urn.json) |
+| CaseCracker | 213713 | [213713-casecracker.json](./213713-casecracker.json) |
 | CaseCracker2 | 301425 | [301425-casecracker2.json](./301425-casecracker2.json) |
 | CaseCracker3 | 392089 | [392089-casecracker3.json](./392089-casecracker3.json) |
 | Casefile: Tokyo Noir | 298998 | [298998-casefile-tokyo-noir.json](./298998-casefile-tokyo-noir.json) |
@@ -5267,6 +5270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cells | 273752 | [273752-cells.json](./273752-cells.json) |
 | Cells | 331385 | [331385-cells.json](./331385-cells.json) |
 | Cells & Serpents | 262191 | [262191-cells-and-serpents.json](./262191-cells-and-serpents.json) |
+| Cells at Work | 213685 | [213685-cells-at-work.json](./213685-cells-at-work.json) |
 | Cells at Work: Battle | 174786 | [174786-cells-at-work-battle.json](./174786-cells-at-work-battle.json) |
 | Cells of Division | 406329 | [406329-cells-of-division.json](./406329-cells-of-division.json) |
 | Cellscape | 366205 | [366205-cellscape.json](./366205-cellscape.json) |
@@ -18172,6 +18176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruise Ship Handling | 189952 | [189952-cruise-ship-handling.json](./189952-cruise-ship-handling.json) |
 | Cruise Ship Horse Racing | 192215 | [192215-cruise-ship-horse-racing.json](./192215-cruise-ship-horse-racing.json) |
 | Cruise Ship Manager | 207269 | [207269-cruise-ship-manager.json](./207269-cruise-ship-manager.json) |
+| Cruise Ship Simulator | 213676 | [213676-cruise-ship-simulator.json](./213676-cruise-ship-simulator.json) |
 | Cruise Ship Tycoon | 50394 | [50394-cruise-ship-tycoon.json](./50394-cruise-ship-tycoon.json) |
 | Cruise Ships Manager | 218698 | [218698-cruise-ships-manager.json](./218698-cruise-ships-manager.json) |
 | Cruise Tycoon HD | 99137 | [99137-cruise-tycoon-hd.json](./99137-cruise-tycoon-hd.json) |
