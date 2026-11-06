@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lag Simulator | 343958 | [343958-lag-simulator.json](./343958-lag-simulator.json) |
 | Lagaf': Les Aventures de Moktar: Vol 1 - La Zoubida | 307197 | [307197-lagaf-les-aventures-de-moktar-vol-1-la-zoubida.json](./307197-lagaf-les-aventures-de-moktar-vol-1-la-zoubida.json) |
 | Laggerjack | 334813 | [334813-laggerjack.json](./334813-laggerjack.json) |
+| Laggy Fantasy Tactics | 222701 | [222701-laggy-fantasy-tactics.json](./222701-laggy-fantasy-tactics.json) |
 | Lagnacure | 213197 | [213197-lagnacure.json](./213197-lagnacure.json) |
 | Lagnacure Legend | 93533 | [93533-lagnacure-legend.json](./93533-lagnacure-legend.json) |
 | Lagoda Odyssey | 231583 | [231583-lagoda-odyssey.json](./231583-lagoda-odyssey.json) |
