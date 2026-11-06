@@ -2155,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaslit Bay | 405686 | [405686-gaslit-bay.json](./405686-gaslit-bay.json) |
 | Gasnator | 229796 | [229796-gasnator.json](./229796-gasnator.json) |
 | Gasoline | 418900 | [418900-gasoline.json](./418900-gasoline.json) |
+| Gasoline Gypsies Game | 218788 | [218788-gasoline-gypsies-game.json](./218788-gasoline-gypsies-game.json) |
 | Gasp | 34152 | [34152-gasp.json](./34152-gasp.json) |
 | Gasparilla: Quest for the Key | 69628 | [69628-gasparilla-quest-for-the-key.json](./69628-gasparilla-quest-for-the-key.json) |
 | Gasping.2 | 303994 | [303994-gasping-2.json](./303994-gasping-2.json) |
@@ -9410,6 +9411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimm of the Dome | 245908 | [245908-grimm-of-the-dome.json](./245908-grimm-of-the-dome.json) |
 | Grimm Shuffle | 158670 | [158670-grimm-shuffle.json](./158670-grimm-shuffle.json) |
 | Grimm Tales | 239010 | [239010-grimm-tales.json](./239010-grimm-tales.json) |
+| Grimm the Bounty Hunter | 218784 | [218784-grimm-the-bounty-hunter.json](./218784-grimm-the-bounty-hunter.json) |
 | Grimm: Cards of Fate | 110197 | [110197-grimm-cards-of-fate.json](./110197-grimm-cards-of-fate.json) |
 | Grimm: Dark Legacy | 25823 | [25823-grimm-dark-legacy.json](./25823-grimm-dark-legacy.json) |
 | Grimm: Episode 1 - A Boy Learns What Fear Is | 94099 | [94099-grimm-episode-1-a-boy-learns-what-fear-is.json](./94099-grimm-episode-1-a-boy-learns-what-fear-is.json) |
