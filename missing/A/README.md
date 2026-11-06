@@ -931,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Nightmare on Elm Street | 238844 | [238844-a-nightmare-on-elm-street.json](./238844-a-nightmare-on-elm-street.json) |
 | A Nightmare on Elm Street | 40935 | [40935-a-nightmare-on-elm-street.json](./40935-a-nightmare-on-elm-street.json) |
 | A Nightmare on Elm Street: Son of a Hundred Maniacs | 176824 | [176824-a-nightmare-on-elm-street-son-of-a-hundred-maniacs.json](./176824-a-nightmare-on-elm-street-son-of-a-hundred-maniacs.json) |
+| A Nightmare on Elm Street: Son of a Hundred Maniacs Demake | 222699 | [222699-a-nightmare-on-elm-street-son-of-a-hundred-maniacs-demake.json](./222699-a-nightmare-on-elm-street-son-of-a-hundred-maniacs-demake.json) |
 | A Nightmare on Sesame Street | 178902 | [178902-a-nightmare-on-sesame-street.json](./178902-a-nightmare-on-sesame-street.json) |
 | A Nights Haunting: Source | 333857 | [333857-a-nights-haunting-source.json](./333857-a-nights-haunting-source.json) |
 | A Ninja in Training | 161738 | [161738-a-ninja-in-training.json](./161738-a-ninja-in-training.json) |
@@ -7712,6 +7713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Zone 3D | 153633 | [153633-alpha-zone-3d.json](./153633-alpha-zone-3d.json) |
 | Alpha Zylon | 17629 | [17629-alpha-zylon.json](./17629-alpha-zylon.json) |
 | Alpha-1 | 14250 | [14250-alpha-1.json](./14250-alpha-1.json) |
+| Alpha-Major | 222678 | [222678-alpha-major.json](./222678-alpha-major.json) |
 | Alpha-Nighthawk | 222841 | [222841-alpha-nighthawk.json](./222841-alpha-nighthawk.json) |
 | Alpha: Book 2 | 314188 | [314188-alpha-book-2.json](./314188-alpha-book-2.json) |
 | Alphabear | 19954 | [19954-alphabear.json](./19954-alphabear.json) |
@@ -8297,6 +8299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambers Boom | 44299 | [44299-ambers-boom.json](./44299-ambers-boom.json) |
 | Amberspire | 325713 | [325713-amberspire.json](./325713-amberspire.json) |
 | Ambidextro | 328138 | [328138-ambidextro.json](./328138-ambidextro.json) |
+| Ambien | 222596 | [222596-ambien.json](./222596-ambien.json) |
 | Ambien | 254122 | [254122-ambien.json](./254122-ambien.json) |
 | Ambience | 414497 | [414497-ambience.json](./414497-ambience.json) |
 | Ambient Channels: Abandoned Town - Farmhouse | 170709 | [170709-ambient-channels-abandoned-town-farmhouse.json](./170709-ambient-channels-abandoned-town-farmhouse.json) |
@@ -15016,6 +15019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aspen: Uncanny Home | 171730 | [171730-aspen-uncanny-home.json](./171730-aspen-uncanny-home.json) |
 | Asphalt | 36920 | [36920-asphalt.json](./36920-asphalt.json) |
 | Asphalt 3: Street Rules | 23295 | [23295-asphalt-3-street-rules.json](./23295-asphalt-3-street-rules.json) |
+| Asphalt 3: Street Rules 3D | 222684 | [222684-asphalt-3-street-rules-3d.json](./222684-asphalt-3-street-rules-3d.json) |
 | Asphalt 3: Street Rules 3D HD | 221065 | [221065-asphalt-3-street-rules-3d-hd.json](./221065-asphalt-3-street-rules-3d-hd.json) |
 | Asphalt 3D | 6746 | [6746-asphalt-3d.json](./6746-asphalt-3d.json) |
 | Asphalt 4: Elite Racing | 221067 | [221067-asphalt-4-elite-racing.json](./221067-asphalt-4-elite-racing.json) |
@@ -15193,6 +15197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Syndicate: The Last Maharaja | 18146 | [18146-assassins-creed-syndicate-the-last-maharaja.json](./18146-assassins-creed-syndicate-the-last-maharaja.json) |
 | Assassin's Creed Syndicate: Victorian Legends Pack | 248416 | [248416-assassins-creed-syndicate-victorian-legends-pack.json](./248416-assassins-creed-syndicate-victorian-legends-pack.json) |
 | Assassin's Creed Unity: Arno's Chronicles | 251353 | [251353-assassins-creed-unity-arnos-chronicles.json](./251353-assassins-creed-unity-arnos-chronicles.json) |
+| Assassin's Creed Unity: The Chemical Revolution | 222679 | [222679-assassins-creed-unity-the-chemical-revolution.json](./222679-assassins-creed-unity-the-chemical-revolution.json) |
 | Assassin's Creed Unity: The Fleur-de-Lys | 399892 | [399892-assassins-creed-unity-the-fleur-de-lys.json](./399892-assassins-creed-unity-the-fleur-de-lys.json) |
 | Assassin's Creed Unity: Underground Armory Pack | 316131 | [316131-assassins-creed-unity-underground-armory-pack.json](./316131-assassins-creed-unity-underground-armory-pack.json) |
 | Assassin's Creed Valhalla + Immortals Fenyx Rising Bundle | 164694 | [164694-assassins-creed-valhalla-immortals-fenyx-rising-bundle.json](./164694-assassins-creed-valhalla-immortals-fenyx-rising-bundle.json) |
