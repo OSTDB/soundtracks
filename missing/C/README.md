@@ -1909,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Toad: Treasure Tracker - Special Edition | 51139 | [51139-captain-toad-treasure-tracker-special-edition.json](./51139-captain-toad-treasure-tracker-special-edition.json) |
 | Captain Toad: Treasure Tracker - Special Episode | 132225 | [132225-captain-toad-treasure-tracker-special-episode.json](./132225-captain-toad-treasure-tracker-special-episode.json) |
 | Captain Toad: Treasure Tracker + Special Episode | 136381 | [136381-captain-toad-treasure-tracker-special-episode.json](./136381-captain-toad-treasure-tracker-special-episode.json) |
+| Captain Toad's Dungeon Dash! | 231662 | [231662-captain-toads-dungeon-dash.json](./231662-captain-toads-dungeon-dash.json) |
 | Captain Tomaday | 40981 | [40981-captain-tomaday.json](./40981-captain-tomaday.json) |
 | Captain ToonHead vs. The Punks from Outer Space | 157712 | [157712-captain-toonhead-vs-the-punks-from-outer-space.json](./157712-captain-toonhead-vs-the-punks-from-outer-space.json) |
 | Captain Tsubasa | 213601 | [213601-captain-tsubasa.json](./213601-captain-tsubasa.json) |
@@ -4714,6 +4715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catty Cathy | 281982 | [281982-catty-cathy.json](./281982-catty-cathy.json) |
 | Catventure | 139580 | [139580-catventure.json](./139580-catventure.json) |
 | Catventure: The Curse of the Dark Tower | 391981 | [391981-catventure-the-curse-of-the-dark-tower.json](./391981-catventure-the-curse-of-the-dark-tower.json) |
+| CatWalk | 231688 | [231688-catwalk.json](./231688-catwalk.json) |
 | Catwalk Battle | 208912 | [208912-catwalk-battle.json](./208912-catwalk-battle.json) |
 | Catwave95 | 303728 | [303728-catwave95.json](./303728-catwave95.json) |
 | Catwifhat | 323436 | [323436-catwifhat.json](./323436-catwifhat.json) |
