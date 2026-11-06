@@ -1149,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eddie's World | 250037 | [250037-eddies-world.json](./250037-eddies-world.json) |
 | Eddy Violet | 59581 | [59581-eddy-violet.json](./59581-eddy-violet.json) |
 | Edegard: Puqq | 244833 | [244833-edegard-puqq.json](./244833-edegard-puqq.json) |
+| Edel Blume | 214807 | [214807-edel-blume.json](./214807-edel-blume.json) |
 | EdelSuche | 265233 | [265233-edelsuche.json](./265233-edelsuche.json) |
 | Edelweiss | 184303 | [184303-edelweiss.json](./184303-edelweiss.json) |
 | Edelweiss | 244953 | [244953-edelweiss.json](./244953-edelweiss.json) |
