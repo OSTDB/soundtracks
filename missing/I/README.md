@@ -2094,6 +2094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IL-2 Sturmovik: Battle of Stalingrad - Havoc Over the Kuban Campaign | 321950 | [321950-il-2-sturmovik-battle-of-stalingrad-havoc-over-the-kuban-campaign.json](./321950-il-2-sturmovik-battle-of-stalingrad-havoc-over-the-kuban-campaign.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - I.A.R. 80-A and 80-B Collector Planes | 295399 | [295399-il-2-sturmovik-battle-of-stalingrad-i-a-r-80-a-and-80-b-collector-planes.json](./295399-il-2-sturmovik-battle-of-stalingrad-i-a-r-80-a-and-80-b-collector-planes.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - Spitfire Mk.XIVe with Teardrop Canopy | 243160 | [243160-il-2-sturmovik-battle-of-stalingrad-spitfire-mk-xive-with-teardrop-canopy.json](./243160-il-2-sturmovik-battle-of-stalingrad-spitfire-mk-xive-with-teardrop-canopy.json) |
+| IL-2 Sturmovik: Battle of Stalingrad - Steel Birds Campaign | 227633 | [227633-il-2-sturmovik-battle-of-stalingrad-steel-birds-campaign.json](./227633-il-2-sturmovik-battle-of-stalingrad-steel-birds-campaign.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - Ta 152 H-1 Collector Plane | 321944 | [321944-il-2-sturmovik-battle-of-stalingrad-ta-152-h-1-collector-plane.json](./321944-il-2-sturmovik-battle-of-stalingrad-ta-152-h-1-collector-plane.json) |
 | IL-2 Sturmovik: Battle of Stalingrad Deluxe Edition | 300968 | [300968-il-2-sturmovik-battle-of-stalingrad-deluxe-edition.json](./300968-il-2-sturmovik-battle-of-stalingrad-deluxe-edition.json) |
 | IL-2 Sturmovik: Birds of Prey | 193298 | [193298-il-2-sturmovik-birds-of-prey.json](./193298-il-2-sturmovik-birds-of-prey.json) |
@@ -3313,6 +3314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indie Gems Bundle - Nonograms edition | 147794 | [147794-indie-gems-bundle-nonograms-edition.json](./147794-indie-gems-bundle-nonograms-edition.json) |
 | Indie Gems Bundle: JRPG Edition | 129805 | [129805-indie-gems-bundle-jrpg-edition.json](./129805-indie-gems-bundle-jrpg-edition.json) |
 | Indie Heroes Collection 1 | 145831 | [145831-indie-heroes-collection-1.json](./145831-indie-heroes-collection-1.json) |
+| Indie Heroes Collection 2 | 227614 | [227614-indie-heroes-collection-2.json](./227614-indie-heroes-collection-2.json) |
 | Indie Heroes Collection 3 | 252064 | [252064-indie-heroes-collection-3.json](./252064-indie-heroes-collection-3.json) |
 | Indie Hoverboard Racing | 400577 | [400577-indie-hoverboard-racing.json](./400577-indie-hoverboard-racing.json) |
 | Indie Jane and the Snake Tower | 240198 | [240198-indie-jane-and-the-snake-tower.json](./240198-indie-jane-and-the-snake-tower.json) |
