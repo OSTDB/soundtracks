@@ -981,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magia Story | 244762 | [244762-magia-story.json](./244762-magia-story.json) |
 | Magia X: Leta | 172158 | [172158-magia-x-leta.json](./172158-magia-x-leta.json) |
 | Magia y Demonios | 307780 | [307780-magia-y-demonios.json](./307780-magia-y-demonios.json) |
+| Magia: Charma Saga | 212537 | [212537-magia-charma-saga.json](./212537-magia-charma-saga.json) |
 | Magiball Masters | 294361 | [294361-magiball-masters.json](./294361-magiball-masters.json) |
 | Magiblo Plus | 109189 | [109189-magiblo-plus.json](./109189-magiblo-plus.json) |
 | Magibot | 76359 | [76359-magibot.json](./76359-magibot.json) |
@@ -9385,6 +9386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merlin Survivors | 374165 | [374165-merlin-survivors.json](./374165-merlin-survivors.json) |
 | Merlin: A Servant of Two Masters | 383335 | [383335-merlin-a-servant-of-two-masters.json](./383335-merlin-a-servant-of-two-masters.json) |
 | Merlin: The Game | 304206 | [304206-merlin-the-game.json](./304206-merlin-the-game.json) |
+| Merlin's Apprentice | 212540 | [212540-merlins-apprentice.json](./212540-merlins-apprentice.json) |
 | Merlin's Apprentice | 45913 | [45913-merlins-apprentice.json](./45913-merlins-apprentice.json) |
 | Merlin's Chess | 325875 | [325875-merlins-chess.json](./325875-merlins-chess.json) |
 | Merlin's Lab | 59033 | [59033-merlins-lab.json](./59033-merlins-lab.json) |
@@ -16639,6 +16641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonripple Lake | 392888 | [392888-moonripple-lake.json](./392888-moonripple-lake.json) |
 | Moonrise | 407543 | [407543-moonrise.json](./407543-moonrise.json) |
 | Moonrise | 9873 | [9873-moonrise.json](./9873-moonrise.json) |
+| Moonrise Arena | 212535 | [212535-moonrise-arena.json](./212535-moonrise-arena.json) |
 | Moonrise Fall | 116076 | [116076-moonrise-fall.json](./116076-moonrise-fall.json) |
 | Moonrot | 391818 | [391818-moonrot.json](./391818-moonrot.json) |
 | MoonRun | 148888 | [148888-moonrun.json](./148888-moonrun.json) |
@@ -17594,6 +17597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motion Gravure Series: Nemoto Harumi | 72297 | [72297-motion-gravure-series-nemoto-harumi.json](./72297-motion-gravure-series-nemoto-harumi.json) |
 | Motion of the Heart | 133229 | [133229-motion-of-the-heart.json](./133229-motion-of-the-heart.json) |
 | Motion Soccer Pro | 320521 | [320521-motion-soccer-pro.json](./320521-motion-soccer-pro.json) |
+| Motion Tennis | 212414 | [212414-motion-tennis.json](./212414-motion-tennis.json) |
 | Motion Wulin | 373515 | [373515-motion-wulin.json](./373515-motion-wulin.json) |
 | Motioning Monument | 314679 | [314679-motioning-monument.json](./314679-motioning-monument.json) |
 | Motionless | 169666 | [169666-motionless.json](./169666-motionless.json) |
