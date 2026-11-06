@@ -833,6 +833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaos | 281848 | [281848-kaos.json](./281848-kaos.json) |
 | Kaos 2 | 57724 | [57724-kaos-2.json](./57724-kaos-2.json) |
 | Kaos Kards | 374247 | [374247-kaos-kards.json](./374247-kaos-kards.json) |
+| Kaos Survival | 195292 | [195292-kaos-survival.json](./195292-kaos-survival.json) |
 | Kǎpái Màoxiǎnzhě | 148369 | [148369-kapai-maoxianzhe.json](./148369-kapai-maoxianzhe.json) |
 | Kapamilya Deal or No Deal | 319657 | [319657-kapamilya-deal-or-no-deal.json](./319657-kapamilya-deal-or-no-deal.json) |
 | Kapellmeister | 197517 | [197517-kapellmeister.json](./197517-kapellmeister.json) |
@@ -2605,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killed by Love 99 Times | 368015 | [368015-killed-by-love-99-times.json](./368015-killed-by-love-99-times.json) |
 | Killed Until Dead | 12358 | [12358-killed-until-dead.json](./12358-killed-until-dead.json) |
 | Killego | 384097 | [384097-killego.json](./384097-killego.json) |
+| Killer | 195331 | [195331-killer.json](./195331-killer.json) |
 | Killer 19 | 147023 | [147023-killer-19.json](./147023-killer-19.json) |
 | Killer 3D Pool | 49187 | [49187-killer-3d-pool.json](./49187-killer-3d-pool.json) |
 | Killer Aces Volleyball | 352226 | [352226-killer-aces-volleyball.json](./352226-killer-aces-volleyball.json) |
@@ -2822,6 +2824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5395,6 +5398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koori No Bohyou: Ichiryuuwa, 3-Dome No Junan | 56750 | [56750-koori-no-bohyou-ichiryuuwa-3-dome-no-junan.json](./56750-koori-no-bohyou-ichiryuuwa-3-dome-no-junan.json) |
 | Koori no Haka Ichiyanagi Nagomu, Sandome no Junan | 124635 | [124635-koori-no-haka-ichiyanagi-nagomu-sandome-no-junan.json](./124635-koori-no-haka-ichiyanagi-nagomu-sandome-no-junan.json) |
 | Kooring VR Coding Adventure | 158176 | [158176-kooring-vr-coding-adventure.json](./158176-kooring-vr-coding-adventure.json) |
+| Kooring VR Wonderland: Red Queen's Black Magic | 195306 | [195306-kooring-vr-wonderland-red-queens-black-magic.json](./195306-kooring-vr-wonderland-red-queens-black-magic.json) |
 | KooZac | 65050 | [65050-koozac.json](./65050-koozac.json) |
 | Kopanito All-Stars Soccer | 25962 | [25962-kopanito-all-stars-soccer.json](./25962-kopanito-all-stars-soccer.json) |
 | Kopernicus: Extraction | 403556 | [403556-kopernicus-extraction.json](./403556-kopernicus-extraction.json) |
@@ -6066,6 +6070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu Fighting | 254058 | [254058-kung-fu-fighting.json](./254058-kung-fu-fighting.json) |
 | Kung Fu Funk | 67190 | [67190-kung-fu-funk.json](./67190-kung-fu-funk.json) |
 | Kung Fu Fury | 180618 | [180618-kung-fu-fury.json](./180618-kung-fu-fury.json) |
+| Kung Fu Grand King | 195289 | [195289-kung-fu-grand-king.json](./195289-kung-fu-grand-king.json) |
 | Kung Fu High Impact | 20156 | [20156-kung-fu-high-impact.json](./20156-kung-fu-high-impact.json) |
 | Kung Fu House | 51201 | [51201-kung-fu-house.json](./51201-kung-fu-house.json) |
 | Kung Fu Hustle | 67749 | [67749-kung-fu-hustle.json](./67749-kung-fu-hustle.json) |
@@ -6107,6 +6112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu: Shadow Fist | 56777 | [56777-kung-fu-shadow-fist.json](./56777-kung-fu-shadow-fist.json) |
 | Kung Fury: Street Rage | 11052 | [11052-kung-fury-street-rage.json](./11052-kung-fury-street-rage.json) |
 | Kung Fury: Street Rage - A Day at the Beach | 182181 | [182181-kung-fury-street-rage-a-day-at-the-beach.json](./182181-kung-fury-street-rage-a-day-at-the-beach.json) |
+| Kung Fury: Street Rage - The Arcade Strikes Back | 195328 | [195328-kung-fury-street-rage-the-arcade-strikes-back.json](./195328-kung-fury-street-rage-the-arcade-strikes-back.json) |
 | Kung Fury: Street Rage - Ultimate Edition | 204716 | [204716-kung-fury-street-rage-ultimate-edition.json](./204716-kung-fury-street-rage-ultimate-edition.json) |
 | Kung Pao Banqi | 320527 | [320527-kung-pao-banqi.json](./320527-kung-pao-banqi.json) |
 | Kung Tutu | 146756 | [146756-kung-tutu.json](./146756-kung-tutu.json) |
