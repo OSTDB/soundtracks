@@ -575,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kami no Rhapsody | 144875 | [144875-kami-no-rhapsody.json](./144875-kami-no-rhapsody.json) |
 | Kami Quest: Enter the Imagynasium | 361762 | [361762-kami-quest-enter-the-imagynasium.json](./361762-kami-quest-enter-the-imagynasium.json) |
 | Kami-sama Hajimemashita: Doki-doki Ayakashi Love | 202584 | [202584-kami-sama-hajimemashita-doki-doki-ayakashi-love.json](./202584-kami-sama-hajimemashita-doki-doki-ayakashi-love.json) |
+| Kami-sama Nante Yondenai! | 202981 | [202981-kami-sama-nante-yondenai.json](./202981-kami-sama-nante-yondenai.json) |
 | Kami-sama no Shippo: Etogami-sama-tachi no Ongaeshi | 194608 | [194608-kami-sama-no-shippo-etogami-sama-tachi-no-ongaeshi.json](./194608-kami-sama-no-shippo-etogami-sama-tachi-no-ongaeshi.json) |
 | Kami-sama no you na Kimi he | 146781 | [146781-kami-sama-no-you-na-kimi-he.json](./146781-kami-sama-no-you-na-kimi-he.json) |
 | Kami-sama no you na Kimi he: Limited Edition | 146782 | [146782-kami-sama-no-you-na-kimi-he-limited-edition.json](./146782-kami-sama-no-you-na-kimi-he-limited-edition.json) |
@@ -2826,7 +2827,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
 | Kimi ni Steady | 263694 | [263694-kimi-ni-steady.json](./263694-kimi-ni-steady.json) |
+| Kimi ni Todoke Special | 202901 | [202901-kimi-ni-todoke-special.json](./202901-kimi-ni-todoke-special.json) |
 | Kimi ni Todoke: Sodateru Omoi | 66964 | [66964-kimi-ni-todoke-sodateru-omoi.json](./66964-kimi-ni-todoke-sodateru-omoi.json) |
+| Kimi ni Todoke: Tsutaeru Kimochi | 202897 | [202897-kimi-ni-todoke-tsutaeru-kimochi.json](./202897-kimi-ni-todoke-tsutaeru-kimochi.json) |
 | Kimi no Arika | 410618 | [410618-kimi-no-arika.json](./410618-kimi-no-arika.json) |
 | Kimi no Hitomi ni Hit Me | 372774 | [372774-kimi-no-hitomi-ni-hit-me.json](./372774-kimi-no-hitomi-ni-hit-me.json) |
 | Kimi no Hitomi ni Hit Me | 82803 | [82803-kimi-no-hitomi-ni-hit-me.json](./82803-kimi-no-hitomi-ni-hit-me.json) |
