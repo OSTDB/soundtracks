@@ -4049,6 +4049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Quest | 76165 | [76165-penguin-quest.json](./76165-penguin-quest.json) |
 | Penguin Racers | 407908 | [407908-penguin-racers.json](./407908-penguin-racers.json) |
 | Penguin Rocketeer | 351610 | [351610-penguin-rocketeer.json](./351610-penguin-rocketeer.json) |
+| Penguin Slide | 197457 | [197457-penguin-slide.json](./197457-penguin-slide.json) |
 | Penguin Take-Off!! | 305515 | [305515-penguin-take-off.json](./305515-penguin-take-off.json) |
 | Penguin Wars | 392168 | [392168-penguin-wars.json](./392168-penguin-wars.json) |
 | Penguin Wars | 48919 | [48919-penguin-wars.json](./48919-penguin-wars.json) |
@@ -10576,6 +10577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pog 8 | 207547 | [207547-pog-8.json](./207547-pog-8.json) |
 | Pog X | 226508 | [226508-pog-x.json](./226508-pog-x.json) |
 | Pog XL | 236891 | [236891-pog-xl.json](./236891-pog-xl.json) |
+| Pogan | 197458 | [197458-pogan.json](./197458-pogan.json) |
 | Pogger's Legends | 319641 | [319641-poggers-legends.json](./319641-poggers-legends.json) |
 | Poggers | 115710 | [115710-poggers.json](./115710-poggers.json) |
 | Pogglewash | 249504 | [249504-pogglewash.json](./249504-pogglewash.json) |
@@ -11087,6 +11089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon DerErif | 269909 | [269909-pokemon-dererif.json](./269909-pokemon-dererif.json) |
 | Pokémon Diamond | 163099 | [163099-pokemon-diamond.json](./163099-pokemon-diamond.json) |
 | Pokémon Digimon New World | 229098 | [229098-pokemon-digimon-new-world.json](./229098-pokemon-digimon-new-world.json) |
+| Pokémon Divine Sword | 197432 | [197432-pokemon-divine-sword.json](./197432-pokemon-divine-sword.json) |
 | Pokémon Donjon Mystère Online | 304297 | [304297-pokemon-donjon-mystere-online.json](./304297-pokemon-donjon-mystere-online.json) |
 | Pokémon Dream Radar | 24945 | [24945-pokemon-dream-radar.json](./24945-pokemon-dream-radar.json) |
 | Pokémon Dream World | 210474 | [210474-pokemon-dream-world.json](./210474-pokemon-dream-world.json) |
@@ -14493,6 +14496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Prussia | 336715 | [336715-prince-of-prussia.json](./336715-prince-of-prussia.json) |
 | Prince of Qin | 51402 | [51402-prince-of-qin.json](./51402-prince-of-qin.json) |
 | Prince of Stride | 60332 | [60332-prince-of-stride.json](./60332-prince-of-stride.json) |
+| Prince of Suburbia | 197472 | [197472-prince-of-suburbia.json](./197472-prince-of-suburbia.json) |
 | Prince of the Resort | 254950 | [254950-prince-of-the-resort.json](./254950-prince-of-the-resort.json) |
 | Prince or Villain | 254898 | [254898-prince-or-villain.json](./254898-prince-or-villain.json) |
 | Prince Rystiya's Starfleet | 341557 | [341557-prince-rystiyas-starfleet.json](./341557-prince-rystiyas-starfleet.json) |
