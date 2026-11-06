@@ -3409,6 +3409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Resident Evil Chapter | 152483 | [152483-dead-by-daylight-resident-evil-chapter.json](./152483-dead-by-daylight-resident-evil-chapter.json) |
 | Dead By Daylight: Resident Evil Collaboration Bundle | 212876 | [212876-dead-by-daylight-resident-evil-collaboration-bundle.json](./212876-dead-by-daylight-resident-evil-collaboration-bundle.json) |
 | Dead by Daylight: Roots of Dread | 203959 | [203959-dead-by-daylight-roots-of-dread.json](./203959-dead-by-daylight-roots-of-dread.json) |
+| Dead by Daylight: Sadako Rising Chapter | 195822 | [195822-dead-by-daylight-sadako-rising-chapter.json](./195822-dead-by-daylight-sadako-rising-chapter.json) |
 | Dead by Daylight: Shattered Bloodline Chapter | 129470 | [129470-dead-by-daylight-shattered-bloodline-chapter.json](./129470-dead-by-daylight-shattered-bloodline-chapter.json) |
 | Dead by Daylight: Silent Hill - Cybil Bennett | 358413 | [358413-dead-by-daylight-silent-hill-cybil-bennett.json](./358413-dead-by-daylight-silent-hill-cybil-bennett.json) |
 | Dead by Daylight: Silent Hill - James Sunderland | 358415 | [358415-dead-by-daylight-silent-hill-james-sunderland.json](./358415-dead-by-daylight-silent-hill-james-sunderland.json) |
@@ -17433,6 +17434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duckball | 265362 | [265362-duckball.json](./265362-duckball.json) |
 | Duckball: Glorious Ducks | 133987 | [133987-duckball-glorious-ducks.json](./133987-duckball-glorious-ducks.json) |
 | Duckers | 232582 | [232582-duckers.json](./232582-duckers.json) |
+| DuckHunt: Missouri | 195811 | [195811-duckhunt-missouri.json](./195811-duckhunt-missouri.json) |
 | DuckHunt: Missouri Kidz | 193597 | [193597-duckhunt-missouri-kidz.json](./193597-duckhunt-missouri-kidz.json) |
 | Duckie Dash | 32811 | [32811-duckie-dash.json](./32811-duckie-dash.json) |
 | Duckified: Cosmic Legends | 295571 | [295571-duckified-cosmic-legends.json](./295571-duckified-cosmic-legends.json) |
@@ -18534,6 +18536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons: Dark Alliance | 127348 | [127348-dungeons-and-dragons-dark-alliance.json](./127348-dungeons-and-dragons-dark-alliance.json) |
 | Dungeons & Dragons: Dark Alliance - Day One Edition | 242924 | [242924-dungeons-and-dragons-dark-alliance-day-one-edition.json](./242924-dungeons-and-dragons-dark-alliance-day-one-edition.json) |
 | Dungeons & Dragons: Dark Alliance - Deluxe Edition | 148269 | [148269-dungeons-and-dragons-dark-alliance-deluxe-edition.json](./148269-dungeons-and-dragons-dark-alliance-deluxe-edition.json) |
+| Dungeons & Dragons: Dark Alliance - Echoes of the Blood War | 195817 | [195817-dungeons-and-dragons-dark-alliance-echoes-of-the-blood-war.json](./195817-dungeons-and-dragons-dark-alliance-echoes-of-the-blood-war.json) |
 | Dungeons & Dragons: Dark Sun Series | 51747 | [51747-dungeons-and-dragons-dark-sun-series.json](./51747-dungeons-and-dragons-dark-sun-series.json) |
 | Dungeons & Dragons: Dragonshard | 674 | [674-dungeons-and-dragons-dragonshard.json](./674-dungeons-and-dragons-dragonshard.json) |
 | Dungeons & Dragons: Eye of the Beholder | 49197 | [49197-dungeons-and-dragons-eye-of-the-beholder.json](./49197-dungeons-and-dragons-eye-of-the-beholder.json) |
