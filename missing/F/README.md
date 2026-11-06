@@ -8196,6 +8196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower girl | 170679 | [170679-flower-girl.json](./170679-flower-girl.json) |
 | Flower Girl 2 | 209340 | [209340-flower-girl-2.json](./209340-flower-girl-2.json) |
 | Flower Girl Adventure | 322547 | [322547-flower-girl-adventure.json](./322547-flower-girl-adventure.json) |
+| Flower House | 242344 | [242344-flower-house.json](./242344-flower-house.json) |
 | Flower in the Snow: Resurrection | 164998 | [164998-flower-in-the-snow-resurrection.json](./164998-flower-in-the-snow-resurrection.json) |
 | Flower in Us | 263601 | [263601-flower-in-us.json](./263601-flower-in-us.json) |
 | Flower Knight Girl | 109196 | [109196-flower-knight-girl.json](./109196-flower-knight-girl.json) |
@@ -9680,6 +9681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forge of Freedom: The American Civil War 1861-1865 | 230545 | [230545-forge-of-freedom-the-american-civil-war-1861-1865.json](./230545-forge-of-freedom-the-american-civil-war-1861-1865.json) |
 | Forge of Gods | 33021 | [33021-forge-of-gods.json](./33021-forge-of-gods.json) |
 | Forge of Neon 3D | 90350 | [90350-forge-of-neon-3d.json](./90350-forge-of-neon-3d.json) |
+| Forge of the Fae | 242336 | [242336-forge-of-the-fae.json](./242336-forge-of-the-fae.json) |
 | Forge of Titans | 120223 | [120223-forge-of-titans.json](./120223-forge-of-titans.json) |
 | Forge Party | 185270 | [185270-forge-party.json](./185270-forge-party.json) |
 | Forge Quest | 16652 | [16652-forge-quest.json](./16652-forge-quest.json) |
@@ -11400,6 +11402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Jazz Party Animals | 185271 | [185271-free-jazz-party-animals.json](./185271-free-jazz-party-animals.json) |
 | Free Kick | 111306 | [111306-free-kick.json](./111306-free-kick.json) |
 | Free Lives Collection | 300781 | [300781-free-lives-collection.json](./300781-free-lives-collection.json) |
+| Free Nights with Freddy's | 242308 | [242308-free-nights-with-freddys.json](./242308-free-nights-with-freddys.json) |
 | Free Ninja | 317635 | [317635-free-ninja.json](./317635-free-ninja.json) |
 | Free Puzzle | 407946 | [407946-free-puzzle.json](./407946-free-puzzle.json) |
 | Free Realms | 20279 | [20279-free-realms.json](./20279-free-realms.json) |
@@ -12223,6 +12226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FrogStray | 412761 | [412761-frogstray.json](./412761-frogstray.json) |
 | Froguelike | 244836 | [244836-froguelike.json](./244836-froguelike.json) |
 | Frogun | 152051 | [152051-frogun.json](./152051-frogun.json) |
+| Frogun Encore | 242322 | [242322-frogun-encore.json](./242322-frogun-encore.json) |
 | Frogurai | 226454 | [226454-frogurai.json](./226454-frogurai.json) |
 | Frogvale | 113600 | [113600-frogvale.json](./113600-frogvale.json) |
 | Frogvival | 235482 | [235482-frogvival.json](./235482-frogvival.json) |
