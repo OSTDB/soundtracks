@@ -2528,6 +2528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Mechanic Simulator | 147774 | [147774-farm-mechanic-simulator.json](./147774-farm-mechanic-simulator.json) |
 | Farm Mechanic Simulator 2015 | 53056 | [53056-farm-mechanic-simulator-2015.json](./53056-farm-mechanic-simulator-2015.json) |
 | Farm Merge Valley | 307772 | [307772-farm-merge-valley.json](./307772-farm-merge-valley.json) |
+| Farm Mystery: The Happy Orchard Nightmare | 201907 | [201907-farm-mystery-the-happy-orchard-nightmare.json](./201907-farm-mystery-the-happy-orchard-nightmare.json) |
 | Farm of Rage | 355043 | [355043-farm-of-rage.json](./355043-farm-of-rage.json) |
 | Farm of the Unseen | 353382 | [353382-farm-of-the-unseen.json](./353382-farm-of-the-unseen.json) |
 | Farm On! | 96696 | [96696-farm-on.json](./96696-farm-on.json) |
@@ -4187,6 +4188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIE Swordplay | 152225 | [152225-fie-swordplay.json](./152225-fie-swordplay.json) |
 | Fief Lord | 348986 | [348986-fief-lord.json](./348986-fief-lord.json) |
 | Fief: the Medieval Manor Simulation | 176624 | [176624-fief-the-medieval-manor-simulation.json](./176624-fief-the-medieval-manor-simulation.json) |
+| Fiefdom | 201894 | [201894-fiefdom.json](./201894-fiefdom.json) |
 | Fiefdom | 329623 | [329623-fiefdom.json](./329623-fiefdom.json) |
 | Field | 203183 | [203183-field.json](./203183-field.json) |
 | Field & Stream - Trophy Hunting | 115759 | [115759-field-and-stream-trophy-hunting.json](./115759-field-and-stream-trophy-hunting.json) |
@@ -6851,6 +6853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitness Party | 136887 | [136887-fitness-party.json](./136887-fitness-party.json) |
 | Fitness RPG | 273686 | [273686-fitness-rpg.json](./273686-fitness-rpg.json) |
 | Fitness Village | 114697 | [114697-fitness-village.json](./114697-fitness-village.json) |
+| Fitness VR | 201880 | [201880-fitness-vr.json](./201880-fitness-vr.json) |
 | Fitriz | 212147 | [212147-fitriz.json](./212147-fitriz.json) |
 | FitStrike | 187138 | [187138-fitstrike.json](./187138-fitstrike.json) |
 | Fittest | 100167 | [100167-fittest.json](./100167-fittest.json) |
