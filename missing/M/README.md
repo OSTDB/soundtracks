@@ -1118,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Frog | 367561 | [367561-magic-frog.json](./367561-magic-frog.json) |
 | Magic Fruit World | 421329 | [421329-magic-fruit-world.json](./421329-magic-fruit-world.json) |
 | Magic Ganglia | 404594 | [404594-magic-ganglia.json](./404594-magic-ganglia.json) |
+| Magic Garden | 244540 | [244540-magic-garden.json](./244540-magic-garden.json) |
 | Magic Garden | 317579 | [317579-magic-garden.json](./317579-magic-garden.json) |
 | Magic Garden | 366179 | [366179-magic-garden.json](./366179-magic-garden.json) |
 | Magic Garden Escape | 315471 | [315471-magic-garden-escape.json](./315471-magic-garden-escape.json) |
@@ -9466,6 +9467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meta-Ghost: The Breaking Show | 281821 | [281821-meta-ghost-the-breaking-show.json](./281821-meta-ghost-the-breaking-show.json) |
 | Meta-Ph-List: Gamma X 2097 | 43755 | [43755-meta-ph-list-gamma-x-2097.json](./43755-meta-ph-list-gamma-x-2097.json) |
 | Meta: Assembled | 392795 | [392795-meta-assembled.json](./392795-meta-assembled.json) |
+| Metaball | 244564 | [244564-metaball.json](./244564-metaball.json) |
 | Metaball: Blazing Pack | 317733 | [317733-metaball-blazing-pack.json](./317733-metaball-blazing-pack.json) |
 | Metaball: Diamond Bundle | 267835 | [267835-metaball-diamond-bundle.json](./267835-metaball-diamond-bundle.json) |
 | Metaball: Face Bundle | 310047 | [310047-metaball-face-bundle.json](./310047-metaball-face-bundle.json) |
@@ -12819,6 +12821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniDrift | 262857 | [262857-minidrift.json](./262857-minidrift.json) |
 | MiniDrivers | 34867 | [34867-minidrivers.json](./34867-minidrivers.json) |
 | MiniDrivers: The game of mini racing cars | 87118 | [87118-minidrivers-the-game-of-mini-racing-cars.json](./87118-minidrivers-the-game-of-mini-racing-cars.json) |
+| Minidwellers | 244536 | [244536-minidwellers.json](./244536-minidwellers.json) |
 | MiniFarm 2020 | 341236 | [341236-minifarm-2020.json](./341236-minifarm-2020.json) |
 | Minifeg: The Search | 170349 | [170349-minifeg-the-search.json](./170349-minifeg-the-search.json) |
 | Minifiend | 253034 | [253034-minifiend.json](./253034-minifiend.json) |
@@ -14182,6 +14185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mob Wars | 79184 | [79184-mob-wars.json](./79184-mob-wars.json) |
 | Mob Wars: La Cosa Nostra | 125364 | [125364-mob-wars-la-cosa-nostra.json](./125364-mob-wars-la-cosa-nostra.json) |
 | MOBA Dodge Trainer | 341244 | [341244-moba-dodge-trainer.json](./341244-moba-dodge-trainer.json) |
+| MOBA Esport Manager 25 | 244577 | [244577-moba-esport-manager-25.json](./244577-moba-esport-manager-25.json) |
 | MOBA GM | 99593 | [99593-moba-gm.json](./99593-moba-gm.json) |
 | Mobbers | 253891 | [253891-mobbers.json](./253891-mobbers.json) |
 | Mobenium 2D | 336040 | [336040-mobenium-2d.json](./336040-mobenium-2d.json) |
@@ -18295,6 +18299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Bean Solitaire | 278219 | [278219-mr-bean-solitaire.json](./278219-mr-bean-solitaire.json) |
 | Mr. Bean: Special Delivery | 110284 | [110284-mr-bean-special-delivery.json](./110284-mr-bean-special-delivery.json) |
 | Mr. Bean's Wacky World | 50621 | [50621-mr-beans-wacky-world.json](./50621-mr-beans-wacky-world.json) |
+| Mr. Bear's Bizarre Adventure | 244556 | [244556-mr-bears-bizarre-adventure.json](./244556-mr-bears-bizarre-adventure.json) |
 | Mr. Big Wigs | 55931 | [55931-mr-big-wigs.json](./55931-mr-big-wigs.json) |
 | Mr. Bill | 92544 | [92544-mr-bill.json](./92544-mr-bill.json) |
 | Mr. Bill's Neighborhood | 286945 | [286945-mr-bills-neighborhood.json](./286945-mr-bills-neighborhood.json) |
