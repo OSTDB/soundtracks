@@ -18455,6 +18455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypto Raiders | 178391 | [178391-crypto-raiders.json](./178391-crypto-raiders.json) |
 | Crypto Royale | 225730 | [225730-crypto-royale.json](./225730-crypto-royale.json) |
 | Crypto Rush | 338260 | [338260-crypto-rush.json](./338260-crypto-rush.json) |
+| Crypto Spells | 221466 | [221466-crypto-spells.json](./221466-crypto-spells.json) |
 | Crypto Trading Simulator | 407374 | [407374-crypto-trading-simulator.json](./407374-crypto-trading-simulator.json) |
 | Crypto Tycoon | 189021 | [189021-crypto-tycoon.json](./189021-crypto-tycoon.json) |
 | Crypto Unicorns | 202053 | [202053-crypto-unicorns.json](./202053-crypto-unicorns.json) |
