@@ -13241,6 +13241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Crown of Queen Anne | 70072 | [70072-the-lost-crown-of-queen-anne.json](./70072-the-lost-crown-of-queen-anne.json) |
 | The Lost Crucible | 350783 | [350783-the-lost-crucible.json](./350783-the-lost-crucible.json) |
 | The Lost Cube | 144147 | [144147-the-lost-cube.json](./144147-the-lost-cube.json) |
+| The Lost Dachshund | 200786 | [200786-the-lost-dachshund.json](./200786-the-lost-dachshund.json) |
 | The Lost Desert | 339187 | [339187-the-lost-desert.json](./339187-the-lost-desert.json) |
 | The Lost Detective | 275342 | [275342-the-lost-detective.json](./275342-the-lost-detective.json) |
 | The Lost Dimension | 75121 | [75121-the-lost-dimension.json](./75121-the-lost-dimension.json) |
@@ -18994,6 +18995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch's Disciples | 395828 | [395828-the-witchs-disciples.json](./395828-the-witchs-disciples.json) |
 | The Witch's Fabulous Cracker Show | 381873 | [381873-the-witchs-fabulous-cracker-show.json](./381873-the-witchs-fabulous-cracker-show.json) |
 | The Witch's Fairy Tale | 318428 | [318428-the-witchs-fairy-tale.json](./318428-the-witchs-fairy-tale.json) |
+| The Witch's Garden | 200764 | [200764-the-witchs-garden.json](./200764-the-witchs-garden.json) |
 | The Witch's House | 226714 | [226714-the-witchs-house.json](./226714-the-witchs-house.json) |
 | The Witch's House | 46999 | [46999-the-witchs-house.json](./46999-the-witchs-house.json) |
 | The Witch's House MV | 111081 | [111081-the-witchs-house-mv.json](./111081-the-witchs-house-mv.json) |
@@ -24159,6 +24161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TOCA Touring Car Championship | 201751 | [201751-toca-touring-car-championship.json](./201751-toca-touring-car-championship.json) |
 | TOCA World Touring Cars | 234899 | [234899-toca-world-touring-cars.json](./234899-toca-world-touring-cars.json) |
 | TOCA World Touring Cars | 8002 | [8002-toca-world-touring-cars.json](./8002-toca-world-touring-cars.json) |
+| Tochi | 200765 | [200765-tochi.json](./200765-tochi.json) |
 | Tochi II: Senshi | 207289 | [207289-tochi-ii-senshi.json](./207289-tochi-ii-senshi.json) |
 | Tochi T.U.N.R | 251100 | [251100-tochi-t-u-n-r.json](./251100-tochi-t-u-n-r.json) |
 | Tochos vs. Brokens | 278249 | [278249-tochos-vs-brokens.json](./278249-tochos-vs-brokens.json) |
@@ -27161,6 +27164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town of the Dead Life | 150277 | [150277-town-of-the-dead-life.json](./150277-town-of-the-dead-life.json) |
 | Town of Tides | 198540 | [198540-town-of-tides.json](./198540-town-of-tides.json) |
 | Town of Tinysville | 413049 | [413049-town-of-tinysville.json](./413049-town-of-tinysville.json) |
+| Town of Us | 200780 | [200780-town-of-us.json](./200780-town-of-us.json) |
 | Town of Zoz | 335295 | [335295-town-of-zoz.json](./335295-town-of-zoz.json) |
 | Town Police Simulator | 302390 | [302390-town-police-simulator.json](./302390-town-police-simulator.json) |
 | Town Rhapsody | 310274 | [310274-town-rhapsody.json](./310274-town-rhapsody.json) |
@@ -29627,6 +29631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: Robots in Disguise | 70990 | [70990-transformers-robots-in-disguise.json](./70990-transformers-robots-in-disguise.json) |
 | Transformers: Shadows Rising | 125822 | [125822-transformers-shadows-rising.json](./125822-transformers-shadows-rising.json) |
 | Transformers: The Battle to Save the Earth | 8016 | [8016-transformers-the-battle-to-save-the-earth.json](./8016-transformers-the-battle-to-save-the-earth.json) |
+| Transformers: The Game | 200810 | [200810-transformers-the-game.json](./200810-transformers-the-game.json) |
 | Transformers: The Headmasters | 8017 | [8017-transformers-the-headmasters.json](./8017-transformers-the-headmasters.json) |
 | Transformers: Ultimate Autobots Edition | 61090 | [61090-transformers-ultimate-autobots-edition.json](./61090-transformers-ultimate-autobots-edition.json) |
 | Transformers: War for Cybertron | 555 | [555-transformers-war-for-cybertron.json](./555-transformers-war-for-cybertron.json) |
@@ -33349,6 +33354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typeoids | 387477 | [387477-typeoids.json](./387477-typeoids.json) |
 | TypeOut | 228061 | [228061-typeout.json](./228061-typeout.json) |
 | Typer | 88354 | [88354-typer.json](./88354-typer.json) |
+| Typer Girl | 200791 | [200791-typer-girl.json](./200791-typer-girl.json) |
 | Typer Hero | 173013 | [173013-typer-hero.json](./173013-typer-hero.json) |
 | Typer Shark | 205982 | [205982-typer-shark.json](./205982-typer-shark.json) |
 | Typer Shark! Deluxe | 27816 | [27816-typer-shark-deluxe.json](./27816-typer-shark-deluxe.json) |
