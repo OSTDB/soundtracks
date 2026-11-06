@@ -2944,6 +2944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Strike: Heroes | 196429 | [196429-action-strike-heroes.json](./196429-action-strike-heroes.json) |
 | Action Study Runner | 379472 | [379472-action-study-runner.json](./379472-action-study-runner.json) |
 | Action Supercross | 50393 | [50393-action-supercross.json](./50393-action-supercross.json) |
+| Action Turnip | 242896 | [242896-action-turnip.json](./242896-action-turnip.json) |
 | Action-Strategy Baseball | 72966 | [72966-action-strategy-baseball.json](./72966-action-strategy-baseball.json) |
 | Action: Source | 192032 | [192032-action-source.json](./192032-action-source.json) |
 | Action: Vengeance | 212641 | [212641-action-vengeance.json](./212641-action-vengeance.json) |
@@ -7478,6 +7479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Almost Reversi | 316407 | [316407-almost-reversi.json](./316407-almost-reversi.json) |
 | Almost Tennis | 225968 | [225968-almost-tennis.json](./225968-almost-tennis.json) |
 | Almost There: The Platformer | 113722 | [113722-almost-there-the-platformer.json](./113722-almost-there-the-platformer.json) |
+| Almost Total Mayhem | 242894 | [242894-almost-total-mayhem.json](./242894-almost-total-mayhem.json) |
 | Alnahsha Run | 202235 | [202235-alnahsha-run.json](./202235-alnahsha-run.json) |
 | Alnam no Kiba: Juuzoku Juuni Shinto Densetsu | 108919 | [108919-alnam-no-kiba-juuzoku-juuni-shinto-densetsu.json](./108919-alnam-no-kiba-juuzoku-juuni-shinto-densetsu.json) |
 | Alnico Smithery | 247931 | [247931-alnico-smithery.json](./247931-alnico-smithery.json) |
@@ -14425,6 +14427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artist Colony | 23284 | [23284-artist-colony.json](./23284-artist-colony.json) |
 | Artist Idle | 146809 | [146809-artist-idle.json](./146809-artist-idle.json) |
 | Artist Life Simulator | 154076 | [154076-artist-life-simulator.json](./154076-artist-life-simulator.json) |
+| Artist Life Simulator: Cakes and Guns | 242872 | [242872-artist-life-simulator-cakes-and-guns.json](./242872-artist-life-simulator-cakes-and-guns.json) |
 | Artist Survival Simulator | 130660 | [130660-artist-survival-simulator.json](./130660-artist-survival-simulator.json) |
 | Artistic Girl 1 | 286792 | [286792-artistic-girl-1.json](./286792-artistic-girl-1.json) |
 | Artists Kids Coloring Book | 100830 | [100830-artists-kids-coloring-book.json](./100830-artists-kids-coloring-book.json) |
@@ -15524,6 +15527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids: Evolved | 329634 | [329634-asteroids-evolved.json](./329634-asteroids-evolved.json) |
 | Asteroids: Far Away From Home | 158993 | [158993-asteroids-far-away-from-home.json](./158993-asteroids-far-away-from-home.json) |
 | Asteroids: Gunner | 64402 | [64402-asteroids-gunner.json](./64402-asteroids-gunner.json) |
+| Asteroids: Multiplayer | 242858 | [242858-asteroids-multiplayer.json](./242858-asteroids-multiplayer.json) |
 | Asteroids... But Roguelite | 168640 | [168640-asteroids-but-roguelite.json](./168640-asteroids-but-roguelite.json) |
 | Asteroids++ | 178978 | [178978-asteroids.json](./178978-asteroids.json) |
 | AsteroidsHD | 18174 | [18174-asteroidshd.json](./18174-asteroidshd.json) |
