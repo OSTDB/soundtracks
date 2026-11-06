@@ -1298,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zjawa: Bloodstained Soul | 374587 | [374587-zjawa-bloodstained-soul.json](./374587-zjawa-bloodstained-soul.json) |
 | ZK1L4 | 373213 | [373213-zk1l4.json](./373213-zk1l4.json) |
 | Zkiller | 105153 | [105153-zkiller.json](./105153-zkiller.json) |
+| ZKW Reborn | 200760 | [200760-zkw-reborn.json](./200760-zkw-reborn.json) |
 | Zlalox | 302949 | [302949-zlalox.json](./302949-zlalox.json) |
 | Zlap.io | 57339 | [57339-zlap-io.json](./57339-zlap-io.json) |
 | Zlatogorye 2 | 19122 | [19122-zlatogorye-2.json](./19122-zlatogorye-2.json) |
