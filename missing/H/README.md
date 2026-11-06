@@ -941,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamam: The Steaming Backrooms | 387445 | [387445-hamam-the-steaming-backrooms.json](./387445-hamam-the-steaming-backrooms.json) |
 | Hamatora: Look at Smoking World | 60542 | [60542-hamatora-look-at-smoking-world.json](./60542-hamatora-look-at-smoking-world.json) |
 | Hamb: Rotari | 402916 | [402916-hamb-rotari.json](./402916-hamb-rotari.json) |
+| Hambo's Adventures | 245107 | [245107-hambos-adventures.json](./245107-hambos-adventures.json) |
 | Hamboy: AutoChess Survivor | 257436 | [257436-hamboy-autochess-survivor.json](./257436-hamboy-autochess-survivor.json) |
 | Hamburg Club Football | 267880 | [267880-hamburg-club-football.json](./267880-hamburg-club-football.json) |
 | Hamburg Club Football 2005 | 267904 | [267904-hamburg-club-football-2005.json](./267904-hamburg-club-football-2005.json) |
@@ -2605,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Gas Station | 123976 | [123976-haunted-gas-station.json](./123976-haunted-gas-station.json) |
 | Haunted Girls | 212999 | [212999-haunted-girls.json](./212999-haunted-girls.json) |
 | Haunted Graveyard | 399428 | [399428-haunted-graveyard.json](./399428-haunted-graveyard.json) |
+| Haunted Halls of Wentworth | 245071 | [245071-haunted-halls-of-wentworth.json](./245071-haunted-halls-of-wentworth.json) |
 | Haunted Halls: Fears from Childhood | 50306 | [50306-haunted-halls-fears-from-childhood.json](./50306-haunted-halls-fears-from-childhood.json) |
 | Haunted Halls: Fears from Childhood - Collector's Edition | 86437 | [86437-haunted-halls-fears-from-childhood-collectors-edition.json](./86437-haunted-halls-fears-from-childhood-collectors-edition.json) |
 | Haunted Halls: Green Hills Sanitarium | 84146 | [84146-haunted-halls-green-hills-sanitarium.json](./84146-haunted-halls-green-hills-sanitarium.json) |
