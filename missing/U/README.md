@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO Escape | 129422 | [129422-ufo-escape.json](./129422-ufo-escape.json) |
 | UFO Hunter | 97156 | [97156-ufo-hunter.json](./97156-ufo-hunter.json) |
 | UFO Joe | 263475 | [263475-ufo-joe.json](./263475-ufo-joe.json) |
+| UFO Master Blaster Station | 245605 | [245605-ufo-master-blaster-station.json](./245605-ufo-master-blaster-station.json) |
 | UFO Mayhem | 377946 | [377946-ufo-mayhem.json](./377946-ufo-mayhem.json) |
 | UFO No! | 180046 | [180046-ufo-no.json](./180046-ufo-no.json) |
 | UFO on Tape | 242722 | [242722-ufo-on-tape.json](./242722-ufo-on-tape.json) |
