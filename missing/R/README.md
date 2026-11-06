@@ -4553,6 +4553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rehaunted | 410924 | [410924-rehaunted.json](./410924-rehaunted.json) |
 | Reheat: The Rescue | 307419 | [307419-reheat-the-rescue.json](./307419-reheat-the-rescue.json) |
 | Rehtona | 113857 | [113857-rehtona.json](./113857-rehtona.json) |
+| Rei | 231689 | [231689-rei.json](./231689-rei.json) |
 | Rei and the Floating City | 390181 | [390181-rei-and-the-floating-city.json](./390181-rei-and-the-floating-city.json) |
 | Rei Fighter Gekitsui Senki | 4085 | [4085-rei-fighter-gekitsui-senki.json](./4085-rei-fighter-gekitsui-senki.json) |
 | Rei Galo TD | 289254 | [289254-rei-galo-td.json](./289254-rei-galo-td.json) |
