@@ -661,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ynth | 67673 | [67673-ynth.json](./67673-ynth.json) |
 | Ynxa | 189370 | [189370-ynxa.json](./189370-ynxa.json) |
 | Yo Frankie! | 28757 | [28757-yo-frankie.json](./28757-yo-frankie.json) |
+| Yo Gabba Gabba! | 245614 | [245614-yo-gabba-gabba.json](./245614-yo-gabba-gabba.json) |
 | Yo My Yo! | 112355 | [112355-yo-my-yo.json](./112355-yo-my-yo.json) |
 | Yo Skater | 419197 | [419197-yo-skater.json](./419197-yo-skater.json) |
 | Yo to the Yo! | 56791 | [56791-yo-to-the-yo.json](./56791-yo-to-the-yo.json) |
