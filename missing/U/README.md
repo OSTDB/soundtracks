@@ -2427,6 +2427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Planet | 149470 | [149470-unknown-planet.json](./149470-unknown-planet.json) |
 | Unknown Presence | 274508 | [274508-unknown-presence.json](./274508-unknown-presence.json) |
 | Unknown Project | 269120 | [269120-unknown-project.json](./269120-unknown-project.json) |
+| Unknown Pyramid | 235572 | [235572-unknown-pyramid.json](./235572-unknown-pyramid.json) |
 | Unknown Region | 160178 | [160178-unknown-region.json](./160178-unknown-region.json) |
 | Unknown Rules | 302477 | [302477-unknown-rules.json](./302477-unknown-rules.json) |
 | Unknown Scrolls | 113719 | [113719-unknown-scrolls.json](./113719-unknown-scrolls.json) |
