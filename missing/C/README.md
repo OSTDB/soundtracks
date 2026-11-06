@@ -4774,6 +4774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caution! Platforming Ahead | 130725 | [130725-caution-platforming-ahead.json](./130725-caution-platforming-ahead.json) |
 | Cautionary Tale | 176453 | [176453-cautionary-tale.json](./176453-cautionary-tale.json) |
 | Cautious V | 229641 | [229641-cautious-v.json](./229641-cautious-v.json) |
+| Cava Cava | 230646 | [230646-cava-cava.json](./230646-cava-cava.json) |
 | Cavalier | 219225 | [219225-cavalier.json](./219225-cavalier.json) |
 | Cavalry Battle 3000 | 353896 | [353896-cavalry-battle-3000.json](./353896-cavalry-battle-3000.json) |
 | Cavalry Charge | 326296 | [326296-cavalry-charge.json](./326296-cavalry-charge.json) |
@@ -6347,6 +6348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Check-In Chaos | 410448 | [410448-check-in-chaos.json](./410448-check-in-chaos.json) |
 | Check, please!: Restaurant Simulator | 174028 | [174028-check-please-restaurant-simulator.json](./174028-check-please-restaurant-simulator.json) |
 | Checked Out | 366136 | [366136-checked-out.json](./366136-checked-out.json) |
+| Checker | 230666 | [230666-checker.json](./230666-checker.json) |
 | Checker Connector | 116952 | [116952-checker-connector.json](./116952-checker-connector.json) |
 | Checker King | 92408 | [92408-checker-king.json](./92408-checker-king.json) |
 | Checkered Flag | 40815 | [40815-checkered-flag.json](./40815-checkered-flag.json) |
@@ -14866,6 +14868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Consciousness | 302225 | [302225-cosmic-consciousness.json](./302225-cosmic-consciousness.json) |
 | Cosmic Consensus | 68045 | [68045-cosmic-consensus.json](./68045-cosmic-consensus.json) |
 | Cosmic Construct | 354885 | [354885-cosmic-construct.json](./354885-cosmic-construct.json) |
+| Cosmic Convoy | 230632 | [230632-cosmic-convoy.json](./230632-cosmic-convoy.json) |
 | Cosmic Coop | 274354 | [274354-cosmic-coop.json](./274354-cosmic-coop.json) |
 | Cosmic Cop | 94911 | [94911-cosmic-cop.json](./94911-cosmic-cop.json) |
 | Cosmic Corridor | 40626 | [40626-cosmic-corridor.json](./40626-cosmic-corridor.json) |
@@ -16523,6 +16526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Dreamz: MagiCats Edition | 55255 | [55255-crazy-dreamz-magicats-edition.json](./55255-crazy-dreamz-magicats-edition.json) |
 | Crazy Driller | 175259 | [175259-crazy-driller.json](./175259-crazy-driller.json) |
 | Crazy Driver | 119479 | [119479-crazy-driver.json](./119479-crazy-driver.json) |
+| Crazy Driver | 230634 | [230634-crazy-driver.json](./230634-crazy-driver.json) |
 | Crazy Drops | 340196 | [340196-crazy-drops.json](./340196-crazy-drops.json) |
 | Crazy Dungeon | 381962 | [381962-crazy-dungeon.json](./381962-crazy-dungeon.json) |
 | Crazy Dungeon Tavern | 359545 | [359545-crazy-dungeon-tavern.json](./359545-crazy-dungeon-tavern.json) |
@@ -16850,6 +16854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creatorverse | 64497 | [64497-creatorverse.json](./64497-creatorverse.json) |
 | Creatura | 82351 | [82351-creatura.json](./82351-creatura.json) |
 | Creature Battle Simulator | 265388 | [265388-creature-battle-simulator.json](./265388-creature-battle-simulator.json) |
+| Creature Capture | 230648 | [230648-creature-capture.json](./230648-creature-capture.json) |
 | Creature Chess | 142103 | [142103-creature-chess.json](./142103-creature-chess.json) |
 | Creature Clicker: Capture, Train, Ascend! | 31274 | [31274-creature-clicker-capture-train-ascend.json](./31274-creature-clicker-capture-train-ascend.json) |
 | Creature Containment | 345035 | [345035-creature-containment.json](./345035-creature-containment.json) |
@@ -18969,6 +18974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubeDrift | 57568 | [57568-cubedrift.json](./57568-cubedrift.json) |
 | CubeeRun Memories | 284983 | [284983-cubeerun-memories.json](./284983-cubeerun-memories.json) |
 | Cubefall | 134934 | [134934-cubefall.json](./134934-cubefall.json) |
+| Cubefield | 230623 | [230623-cubefield.json](./230623-cubefield.json) |
 | CubeGate | 266178 | [266178-cubegate.json](./266178-cubegate.json) |
 | CubeGod | 291371 | [291371-cubegod.json](./291371-cubegod.json) |
 | Cubegrid | 199722 | [199722-cubegrid.json](./199722-cubegrid.json) |
