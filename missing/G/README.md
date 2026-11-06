@@ -2405,6 +2405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear.Club Unlimited 1 & 2 | 409521 | [409521-gear-club-unlimited-1-and-2.json](./409521-gear-club-unlimited-1-and-2.json) |
 | Gear.Club Unlimited 2 | 107196 | [107196-gear-club-unlimited-2.json](./107196-gear-club-unlimited-2.json) |
 | Gear.Club Unlimited 2: Definitive Edition | 172590 | [172590-gear-club-unlimited-2-definitive-edition.json](./172590-gear-club-unlimited-2-definitive-edition.json) |
+| Gear.Club Unlimited 2: Deluxe Edition | 220930 | [220930-gear-club-unlimited-2-deluxe-edition.json](./220930-gear-club-unlimited-2-deluxe-edition.json) |
 | Gear.Club Unlimited 2: Tracks Edition | 139963 | [139963-gear-club-unlimited-2-tracks-edition.json](./139963-gear-club-unlimited-2-tracks-edition.json) |
 | Gear.Club Unlimited 2: Ultimate Edition | 172591 | [172591-gear-club-unlimited-2-ultimate-edition.json](./172591-gear-club-unlimited-2-ultimate-edition.json) |
 | Gear.Club Unlimited 3 | 381154 | [381154-gear-club-unlimited-3.json](./381154-gear-club-unlimited-3.json) |
