@@ -18703,6 +18703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duo Princess | 50334 | [50334-duo-princess.json](./50334-duo-princess.json) |
 | Duo Quest | 335274 | [335274-duo-quest.json](./335274-duo-quest.json) |
 | Duo Runner 3D | 262464 | [262464-duo-runner-3d.json](./262464-duo-runner-3d.json) |
+| Duo With Friends | 204740 | [204740-duo-with-friends.json](./204740-duo-with-friends.json) |
 | Duo Zombies | 175010 | [175010-duo-zombies.json](./175010-duo-zombies.json) |
 | DuoBellum de Marionnette | 374111 | [374111-duobellum-de-marionnette.json](./374111-duobellum-de-marionnette.json) |
 | DuoDuo | 234057 | [234057-duoduo.json](./234057-duoduo.json) |
