@@ -1675,6 +1675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vesper | 377291 | [377291-vesper.json](./377291-vesper.json) |
 | Vesper Hotel | 391067 | [391067-vesper-hotel.json](./391067-vesper-hotel.json) |
 | Vesper: Ether Saga | 158673 | [158673-vesper-ether-saga.json](./158673-vesper-ether-saga.json) |
+| Vesper: Zero Light Edition | 199180 | [199180-vesper-zero-light-edition.json](./199180-vesper-zero-light-edition.json) |
 | Vesper.5 | 139808 | [139808-vesper-5.json](./139808-vesper-5.json) |
 | Vesper's Hunt | 366979 | [366979-vespers-hunt.json](./366979-vespers-hunt.json) |
 | Vespera | 408878 | [408878-vespera.json](./408878-vespera.json) |
@@ -1858,6 +1859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vicky Adventure Shanghai | 268829 | [268829-vicky-adventure-shanghai.json](./268829-vicky-adventure-shanghai.json) |
 | Vicky Saves the Big Dumb World | 34415 | [34415-vicky-saves-the-big-dumb-world.json](./34415-vicky-saves-the-big-dumb-world.json) |
 | Vico | 193768 | [193768-vico.json](./193768-vico.json) |
+| Vico 2: Save the Children | 199160 | [199160-vico-2-save-the-children.json](./199160-vico-2-save-the-children.json) |
 | Vico 3: Tale of the Seven Seas | 243790 | [243790-vico-3-tale-of-the-seven-seas.json](./243790-vico-3-tale-of-the-seven-seas.json) |
 | ViColumn | 78316 | [78316-vicolumn.json](./78316-vicolumn.json) |
 | ViCrew | 331165 | [331165-vicrew.json](./331165-vicrew.json) |
