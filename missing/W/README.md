@@ -2830,6 +2830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Grew Up in War | 318776 | [318776-we-grew-up-in-war.json](./318776-we-grew-up-in-war.json) |
 | We Happy Few | 9182 | [9182-we-happy-few.json](./9182-we-happy-few.json) |
 | We Happy Few: Deluxe Edition | 90296 | [90296-we-happy-few-deluxe-edition.json](./90296-we-happy-few-deluxe-edition.json) |
+| We Happy Few: Digital Deluxe Edition | 225471 | [225471-we-happy-few-digital-deluxe-edition.json](./225471-we-happy-few-digital-deluxe-edition.json) |
 | We Happy Few: Lightbearer | 121153 | [121153-we-happy-few-lightbearer.json](./121153-we-happy-few-lightbearer.json) |
 | We Happy Few: They Came From Below | 116682 | [116682-we-happy-few-they-came-from-below.json](./116682-we-happy-few-they-came-from-below.json) |
 | We Happy Few: Uncle Jack Live VR | 106852 | [106852-we-happy-few-uncle-jack-live-vr.json](./106852-we-happy-few-uncle-jack-live-vr.json) |
@@ -8901,6 +8902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WRC Collection FIA World Rally Championship | 83770 | [83770-wrc-collection-fia-world-rally-championship.json](./83770-wrc-collection-fia-world-rally-championship.json) |
 | WRC Collection Vol. 2 | 199929 | [199929-wrc-collection-vol-2.json](./199929-wrc-collection-vol-2.json) |
 | WRC Generations: Citroën C4 WRC 2010 | 231225 | [231225-wrc-generations-citroen-c4-wrc-2010.json](./231225-wrc-generations-citroen-c4-wrc-2010.json) |
+| WRC Generations: Fully Loaded Edition | 225472 | [225472-wrc-generations-fully-loaded-edition.json](./225472-wrc-generations-fully-loaded-edition.json) |
 | WRC Generations: Peugeot 206 WRC 2002 | 231224 | [231224-wrc-generations-peugeot-206-wrc-2002.json](./231224-wrc-generations-peugeot-206-wrc-2002.json) |
 | WRC II Extreme | 8314 | [8314-wrc-ii-extreme.json](./8314-wrc-ii-extreme.json) |
 | WRC Powerslide | 19972 | [19972-wrc-powerslide.json](./19972-wrc-powerslide.json) |
