@@ -3429,6 +3429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Money | 57049 | [57049-get-money.json](./57049-get-money.json) |
 | Get More Fries! | 306322 | [306322-get-more-fries.json](./306322-get-more-fries.json) |
 | Get Mushi Club: Minna no Konchuu Daizukan | 153816 | [153816-get-mushi-club-minna-no-konchuu-daizukan.json](./153816-get-mushi-club-minna-no-konchuu-daizukan.json) |
+| Get Off My Lawn | 236608 | [236608-get-off-my-lawn.json](./236608-get-off-my-lawn.json) |
 | Get Off My Lawn | 285276 | [285276-get-off-my-lawn.json](./285276-get-off-my-lawn.json) |
 | Get Off My Planet | 180645 | [180645-get-off-my-planet.json](./180645-get-off-my-planet.json) |
 | Get Off My Space! | 192233 | [192233-get-off-my-space.json](./192233-get-off-my-space.json) |
