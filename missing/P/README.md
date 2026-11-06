@@ -9812,6 +9812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayerUnknown's Battlegrounds: Season 7 | 135139 | [135139-playerunknowns-battlegrounds-season-7.json](./135139-playerunknowns-battlegrounds-season-7.json) |
 | PlayerUnknown's Battlegrounds: Season 8 | 135824 | [135824-playerunknowns-battlegrounds-season-8.json](./135824-playerunknowns-battlegrounds-season-8.json) |
 | PlayerUnknown's Battlegrounds: Season 9 | 140975 | [140975-playerunknowns-battlegrounds-season-9.json](./140975-playerunknowns-battlegrounds-season-9.json) |
+| PlayForm: Human Dynamics | 202436 | [202436-playform-human-dynamics.json](./202436-playform-human-dynamics.json) |
 | PlayFortress | 33102 | [33102-playfortress.json](./33102-playfortress.json) |
 | Playful Math | 104439 | [104439-playful-math.json](./104439-playful-math.json) |
 | Playground | 186175 | [186175-playground.json](./186175-playground.json) |
@@ -17334,6 +17335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin Farmer | 158177 | [158177-pumpkin-farmer.json](./158177-pumpkin-farmer.json) |
 | Pumpkin Game | 272744 | [272744-pumpkin-game.json](./272744-pumpkin-game.json) |
 | Pumpkin Ghost | 272269 | [272269-pumpkin-ghost.json](./272269-pumpkin-ghost.json) |
+| Pumpkin head | 202465 | [202465-pumpkin-head.json](./202465-pumpkin-head.json) |
 | Pumpkin Hell | 261167 | [261167-pumpkin-hell.json](./261167-pumpkin-hell.json) |
 | Pumpkin Hill DS | 308726 | [308726-pumpkin-hill-ds.json](./308726-pumpkin-hill-ds.json) |
 | Pumpkin Invasion | 180025 | [180025-pumpkin-invasion.json](./180025-pumpkin-invasion.json) |
