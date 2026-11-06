@@ -1093,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saltwater Sportfishing | 44970 | [44970-saltwater-sportfishing.json](./44970-saltwater-sportfishing.json) |
 | Salty Dogs | 401476 | [401476-salty-dogs.json](./401476-salty-dogs.json) |
 | Salty Fish Go! | 55699 | [55699-salty-fish-go.json](./55699-salty-fish-go.json) |
+| Salty Hounds | 194727 | [194727-salty-hounds.json](./194727-salty-hounds.json) |
 | Salty Seabird Bay | 102959 | [102959-salty-seabird-bay.json](./102959-salty-seabird-bay.json) |
 | Salty's Garbage | 406881 | [406881-saltys-garbage.json](./406881-saltys-garbage.json) |
 | Salubrious Scales | 167265 | [167265-salubrious-scales.json](./167265-salubrious-scales.json) |
@@ -2674,6 +2675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scared Puppies | 423909 | [423909-scared-puppies.json](./423909-scared-puppies.json) |
 | Scared Rider Xechs | 221472 | [221472-scared-rider-xechs.json](./221472-scared-rider-xechs.json) |
 | Scared Rider Xechs + Stardust Lovers | 322811 | [322811-scared-rider-xechs-stardust-lovers.json](./322811-scared-rider-xechs-stardust-lovers.json) |
+| Scared Rider Xechs Rev. | 194742 | [194742-scared-rider-xechs-rev.json](./194742-scared-rider-xechs-rev.json) |
 | Scared Rider Xechs Stardust Lovers | 221473 | [221473-scared-rider-xechs-stardust-lovers.json](./221473-scared-rider-xechs-stardust-lovers.json) |
 | Scared Tube | 213751 | [213751-scared-tube.json](./213751-scared-tube.json) |
 | Scaredom | 199187 | [199187-scaredom.json](./199187-scaredom.json) |
@@ -4172,6 +4174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seal of Fate | 369855 | [369855-seal-of-fate.json](./369855-seal-of-fate.json) |
 | Seal of Magic | 355186 | [355186-seal-of-magic.json](./355186-seal-of-magic.json) |
 | Seal of Shadows | 410237 | [410237-seal-of-shadows.json](./410237-seal-of-shadows.json) |
+| Seal of Sins | 194693 | [194693-seal-of-sins.json](./194693-seal-of-sins.json) |
 | Seal of Solitomb | 325860 | [325860-seal-of-solitomb.json](./325860-seal-of-solitomb.json) |
 | Seal of the Pharaoh | 4288 | [4288-seal-of-the-pharaoh.json](./4288-seal-of-the-pharaoh.json) |
 | Seal Online: Blades of Destiny | 109510 | [109510-seal-online-blades-of-destiny.json](./109510-seal-online-blades-of-destiny.json) |
@@ -18709,6 +18712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Taker | 235618 | [235618-soul-taker.json](./235618-soul-taker.json) |
 | Soul Tech: Millennium | 116052 | [116052-soul-tech-millennium.json](./116052-soul-tech-millennium.json) |
 | Soul Thief: A Wizard's Lizard 2 | 58771 | [58771-soul-thief-a-wizards-lizard-2.json](./58771-soul-thief-a-wizards-lizard-2.json) |
+| Soul Tide | 194707 | [194707-soul-tide.json](./194707-soul-tide.json) |
 | Soul Tides | 425447 | [425447-soul-tides.json](./425447-soul-tides.json) |
 | Soul Tolerance | 211757 | [211757-soul-tolerance.json](./211757-soul-tolerance.json) |
 | Soul Trader | 333476 | [333476-soul-trader.json](./333476-soul-trader.json) |
@@ -19658,6 +19662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -24288,7 +24293,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Revenge 1.5: Star Takeover Redone | 180247 | [180247-star-revenge-1-5-star-takeover-redone.json](./180247-star-revenge-1-5-star-takeover-redone.json) |
 | Star Revenge 2: Act 1 to the Moon | 180248 | [180248-star-revenge-2-act-1-to-the-moon.json](./180248-star-revenge-2-act-1-to-the-moon.json) |
 | Star Revenge 2: Night of Doom PC | 378290 | [378290-star-revenge-2-night-of-doom-pc.json](./378290-star-revenge-2-night-of-doom-pc.json) |
+| Star Revenge 2.5: Remnant of Doom | 194728 | [194728-star-revenge-2-5-remnant-of-doom.json](./194728-star-revenge-2-5-remnant-of-doom.json) |
 | Star Revenge 2.5: Remnant of Doom PC | 378297 | [378297-star-revenge-2-5-remnant-of-doom-pc.json](./378297-star-revenge-2-5-remnant-of-doom-pc.json) |
+| Star Revenge 3: Mario on an Saoire | 194730 | [194730-star-revenge-3-mario-on-an-saoire.json](./194730-star-revenge-3-mario-on-an-saoire.json) |
+| Star Revenge 3.5: Vacation of Cursed Dreams | 194729 | [194729-star-revenge-3-5-vacation-of-cursed-dreams.json](./194729-star-revenge-3-5-vacation-of-cursed-dreams.json) |
 | Star Revenge 3.9: Dreamish Block Beats | 260828 | [260828-star-revenge-3-9-dreamish-block-beats.json](./260828-star-revenge-3-9-dreamish-block-beats.json) |
 | Star Revenge 4: The Kedama Takeover | 300260 | [300260-star-revenge-4-the-kedama-takeover.json](./300260-star-revenge-4-the-kedama-takeover.json) |
 | Star Revenge 4.5: The Kedama Takeover Rewritten | 260829 | [260829-star-revenge-4-5-the-kedama-takeover-rewritten.json](./260829-star-revenge-4-5-the-kedama-takeover-rewritten.json) |
@@ -24298,6 +24306,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Revenge 6.5: Wrath of the Dim. Flower | 260827 | [260827-star-revenge-6-5-wrath-of-the-dim-flower.json](./260827-star-revenge-6-5-wrath-of-the-dim-flower.json) |
 | Star Revenge 6.5: Wrath of The Dim. Flower PC Port | 378270 | [378270-star-revenge-6-5-wrath-of-the-dim-flower-pc-port.json](./378270-star-revenge-6-5-wrath-of-the-dim-flower-pc-port.json) |
 | Star Revenge 6.9: Luigi Lost in Time | 285679 | [285679-star-revenge-6-9-luigi-lost-in-time.json](./285679-star-revenge-6-9-luigi-lost-in-time.json) |
+| Star Revenge 7: Park of Time | 194731 | [194731-star-revenge-7-park-of-time.json](./194731-star-revenge-7-park-of-time.json) |
+| Star Revenge 7.5: Kedowser's Return | 194732 | [194732-star-revenge-7-5-kedowsers-return.json](./194732-star-revenge-7-5-kedowsers-return.json) |
 | Star Revenge 8: Scepter of Hope | 259927 | [259927-star-revenge-8-scepter-of-hope.json](./259927-star-revenge-8-scepter-of-hope.json) |
 | Star Revenge Redone PC | 378291 | [378291-star-revenge-redone-pc.json](./378291-star-revenge-redone-pc.json) |
 | Star Revenge X: Discord Star Adventure | 285681 | [285681-star-revenge-x-discord-star-adventure.json](./285681-star-revenge-x-discord-star-adventure.json) |
@@ -30059,6 +30069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summoners Era: Arena of Heroes | 193888 | [193888-summoners-era-arena-of-heroes.json](./193888-summoners-era-arena-of-heroes.json) |
 | Summoners Glory | 141128 | [141128-summoners-glory.json](./141128-summoners-glory.json) |
 | Summoners Mist | 130246 | [130246-summoners-mist.json](./130246-summoners-mist.json) |
+| Summoners War: Chronicles | 194702 | [194702-summoners-war-chronicles.json](./194702-summoners-war-chronicles.json) |
 | Summoners War: Chronicles - Adventure Starter Package | 274988 | [274988-summoners-war-chronicles-adventure-starter-package.json](./274988-summoners-war-chronicles-adventure-starter-package.json) |
 | Summoners War: Chronicles - Adventure Support Package | 274987 | [274987-summoners-war-chronicles-adventure-support-package.json](./274987-summoners-war-chronicles-adventure-support-package.json) |
 | Summoners War: Lost Centuria | 115479 | [115479-summoners-war-lost-centuria.json](./115479-summoners-war-lost-centuria.json) |
@@ -30801,6 +30812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Collapse 3 | 42881 | [42881-super-collapse-3.json](./42881-super-collapse-3.json) |
 | Super Collapse! | 84244 | [84244-super-collapse.json](./84244-super-collapse.json) |
 | Super Collapse! II | 49288 | [49288-super-collapse-ii.json](./49288-super-collapse-ii.json) |
+| Super Collapse! II Platinum | 194721 | [194721-super-collapse-ii-platinum.json](./194721-super-collapse-ii-platinum.json) |
 | Super Collapse! Puzzle Gallery | 53686 | [53686-super-collapse-puzzle-gallery.json](./53686-super-collapse-puzzle-gallery.json) |
 | Super Collapse! Puzzle Gallery 2 | 201281 | [201281-super-collapse-puzzle-gallery-2.json](./201281-super-collapse-puzzle-gallery-2.json) |
 | Super Collapse! Puzzle Gallery 3 | 201282 | [201282-super-collapse-puzzle-gallery-3.json](./201282-super-collapse-puzzle-gallery-3.json) |
