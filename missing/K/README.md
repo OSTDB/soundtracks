@@ -4075,6 +4075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitten Home: Neko Collector | 242133 | [242133-kitten-home-neko-collector.json](./242133-kitten-home-neko-collector.json) |
 | Kitten Island | 251112 | [251112-kitten-island.json](./251112-kitten-island.json) |
 | Kitten Kaboodle | 40236 | [40236-kitten-kaboodle.json](./40236-kitten-kaboodle.json) |
+| Kitten Kingdom | 231704 | [231704-kitten-kingdom.json](./231704-kitten-kingdom.json) |
 | Kitten Life Simulator | 97496 | [97496-kitten-life-simulator.json](./97496-kitten-life-simulator.json) |
 | Kitten Lost Her Box | 235490 | [235490-kitten-lost-her-box.json](./235490-kitten-lost-her-box.json) |
 | Kitten Love Emulator | 111969 | [111969-kitten-love-emulator.json](./111969-kitten-love-emulator.json) |
@@ -5739,6 +5740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KreisReise | 118015 | [118015-kreisreise.json](./118015-kreisreise.json) |
 | Krell | 93032 | [93032-krell.json](./93032-krell.json) |
 | Kremlin 3D | 320717 | [320717-kremlin-3d.json](./320717-kremlin-3d.json) |
+| Kremling Krunch Game | 231663 | [231663-kremling-krunch-game.json](./231663-kremling-krunch-game.json) |
 | Kremling Krushin | 231605 | [231605-kremling-krushin.json](./231605-kremling-krushin.json) |
 | Krendel | 409830 | [409830-krendel.json](./409830-krendel.json) |
 | Kreton La Resistance | 317428 | [317428-kreton-la-resistance.json](./317428-kreton-la-resistance.json) |
@@ -6340,6 +6342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyoro-chan Land | 206598 | [206598-kyoro-chan-land.json](./206598-kyoro-chan-land.json) |
 | Kyoro-chan Land | 206604 | [206604-kyoro-chan-land.json](./206604-kyoro-chan-land.json) |
 | Kyoro-chan no Purikura Daisakusen | 191602 | [191602-kyoro-chan-no-purikura-daisakusen.json](./191602-kyoro-chan-no-purikura-daisakusen.json) |
+| Kyorosuke-sama no Chara Shindan | 231664 | [231664-kyorosuke-sama-no-chara-shindan.json](./231664-kyorosuke-sama-no-chara-shindan.json) |
 | Kyoryu | 315130 | [315130-kyoryu.json](./315130-kyoryu.json) |
 | Kyosho | 320817 | [320817-kyosho.json](./320817-kyosho.json) |
 | Kyoto | 128630 | [128630-kyoto.json](./128630-kyoto.json) |
