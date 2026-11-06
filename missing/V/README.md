@@ -1116,6 +1116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vega Strike | 46954 | [46954-vega-strike.json](./46954-vega-strike.json) |
 | Vegaman | 177162 | [177162-vegaman.json](./177162-vegaman.json) |
 | Vegangsters | 253304 | [253304-vegangsters.json](./253304-vegangsters.json) |
+| Vegas 21 | 245606 | [245606-vegas-21.json](./245606-vegas-21.json) |
 | Vegas Bandit | 77909 | [77909-vegas-bandit.json](./77909-vegas-bandit.json) |
 | Vegas Bowling | 88840 | [88840-vegas-bowling.json](./88840-vegas-bowling.json) |
 | Vegas Casino | 79373 | [79373-vegas-casino.json](./79373-vegas-casino.json) |
