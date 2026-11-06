@@ -2917,6 +2917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mana Khemia: Alchemists of Al-Revis | 20996 | [20996-mana-khemia-alchemists-of-al-revis.json](./20996-mana-khemia-alchemists-of-al-revis.json) |
 | Mana Khemia: Alchemists of Al-Revis - Premium Edition | 43308 | [43308-mana-khemia-alchemists-of-al-revis-premium-edition.json](./43308-mana-khemia-alchemists-of-al-revis-premium-edition.json) |
 | Mana Land | 369063 | [369063-mana-land.json](./369063-mana-land.json) |
+| Mana Launcher | 197443 | [197443-mana-launcher.json](./197443-mana-launcher.json) |
 | Mana Maker | 156940 | [156940-mana-maker.json](./156940-mana-maker.json) |
 | Mana Monsters | 321504 | [321504-mana-monsters.json](./321504-mana-monsters.json) |
 | Mana Quest | 272201 | [272201-mana-quest.json](./272201-mana-quest.json) |
@@ -5939,6 +5940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -12791,6 +12793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Island Challenge Bundle | 147426 | [147426-mini-island-challenge-bundle.json](./147426-mini-island-challenge-bundle.json) |
 | Mini Island: Aroma | 192371 | [192371-mini-island-aroma.json](./192371-mini-island-aroma.json) |
 | Mini Island: Autumn | 166601 | [166601-mini-island-autumn.json](./166601-mini-island-autumn.json) |
+| Mini Island: Cosmos | 197438 | [197438-mini-island-cosmos.json](./197438-mini-island-cosmos.json) |
 | Mini Island: Night | 127692 | [127692-mini-island-night.json](./127692-mini-island-night.json) |
 | Mini Island: Spring | 157947 | [157947-mini-island-spring.json](./157947-mini-island-spring.json) |
 | Mini Island: Summer | 157440 | [157440-mini-island-summer.json](./157440-mini-island-summer.json) |
@@ -13286,6 +13289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minotaur China Shop | 69652 | [69652-minotaur-china-shop.json](./69652-minotaur-china-shop.json) |
 | Minotaur Hotel | 166032 | [166032-minotaur-hotel.json](./166032-minotaur-hotel.json) |
 | Minotaur Maze | 150639 | [150639-minotaur-maze.json](./150639-minotaur-maze.json) |
+| Minotaur Princess | 197426 | [197426-minotaur-princess.json](./197426-minotaur-princess.json) |
 | Minotaur Rescue | 94757 | [94757-minotaur-rescue.json](./94757-minotaur-rescue.json) |
 | Minotaur: The Labyrinths of Crete | 38779 | [38779-minotaur-the-labyrinths-of-crete.json](./38779-minotaur-the-labyrinths-of-crete.json) |
 | Minotauros | 296257 | [296257-minotauros.json](./296257-minotauros.json) |
