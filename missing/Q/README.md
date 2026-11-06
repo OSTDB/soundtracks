@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quatocicople | 181665 | [181665-quatocicople.json](./181665-quatocicople.json) |
 | Quatris | 153350 | [153350-quatris.json](./153350-quatris.json) |
 | Quatro Luzes | 34203 | [34203-quatro-luzes.json](./34203-quatro-luzes.json) |
+| Quatro! | 220476 | [220476-quatro.json](./220476-quatro.json) |
 | Quatro!: Eclipse DLC | 298254 | [298254-quatro-eclipse-dlc.json](./298254-quatro-eclipse-dlc.json) |
 | Quatro!: This is fine DLC | 253368 | [253368-quatro-this-is-fine-dlc.json](./253368-quatro-this-is-fine-dlc.json) |
 | Quatrolon | 70745 | [70745-quatrolon.json](./70745-quatrolon.json) |
@@ -866,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest Giver | 271917 | [271917-quest-giver.json](./271917-quest-giver.json) |
 | Quest Hunter | 32396 | [32396-quest-hunter.json](./32396-quest-hunter.json) |
 | Quest Hunter: Deluxe Edition | 228851 | [228851-quest-hunter-deluxe-edition.json](./228851-quest-hunter-deluxe-edition.json) |
+| Quest Hunter: Strangewood | 220477 | [220477-quest-hunter-strangewood.json](./220477-quest-hunter-strangewood.json) |
 | Quest II | 93202 | [93202-quest-ii.json](./93202-quest-ii.json) |
 | Quest Industries | 293573 | [293573-quest-industries.json](./293573-quest-industries.json) |
 | Quest Machina | 285951 | [285951-quest-machina.json](./285951-quest-machina.json) |
@@ -1058,6 +1060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiet Rehabilitation | 281411 | [281411-quiet-rehabilitation.json](./281411-quiet-rehabilitation.json) |
 | Quiet Space | 179025 | [179025-quiet-space.json](./179025-quiet-space.json) |
 | Quiet Thoughts | 157488 | [157488-quiet-thoughts.json](./157488-quiet-thoughts.json) |
+| Quiet Town | 220478 | [220478-quiet-town.json](./220478-quiet-town.json) |
 | Quiet us | 184606 | [184606-quiet-us.json](./184606-quiet-us.json) |
 | Quiet Valley 2 | 154409 | [154409-quiet-valley-2.json](./154409-quiet-valley-2.json) |
 | Quiet, Please! | 61294 | [61294-quiet-please.json](./61294-quiet-please.json) |
