@@ -1951,6 +1951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2Ship2Harkinian | 303033 | [303033-2ship2harkinian.json](./303033-2ship2harkinian.json) |
 | 2Synth | 328164 | [328164-2synth.json](./328164-2synth.json) |
 | 2Tax Gold | 268629 | [268629-2tax-gold.json](./268629-2tax-gold.json) |
+| 2Tinycowboys | 215454 | [215454-2tinycowboys.json](./215454-2tinycowboys.json) |
 | 2Unreal5Underground | 327789 | [327789-2unreal5underground.json](./327789-2unreal5underground.json) |
 | 2urvive | 77361 | [77361-2urvive.json](./77361-2urvive.json) |
 | 2V Hoverbike | 44184 | [44184-2v-hoverbike.json](./44184-2v-hoverbike.json) |
@@ -2200,6 +2201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 346469 | 362747 | [362747-346469.json](./362747-346469.json) |
 | 346470 | 362745 | [362745-346470.json](./362745-346470.json) |
 | 346471 | 362746 | [362746-346471.json](./362746-346471.json) |
+| 34Everlast | 215455 | [215455-34everlast.json](./215455-34everlast.json) |
 | 35 Card Solitaire | 300519 | [300519-35-card-solitaire.json](./300519-35-card-solitaire.json) |
 | 35 Electric | 382899 | [382899-35-electric.json](./382899-35-electric.json) |
 | 35 Electronic billjards | 27221 | [27221-35-electronic-billjards.json](./27221-35-electronic-billjards.json) |
@@ -3074,6 +3076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 69 Seconds Later | 389812 | [389812-69-seconds-later.json](./389812-69-seconds-later.json) |
 | 69 Ways to Kill a Zombie | 31722 | [31722-69-ways-to-kill-a-zombie.json](./31722-69-ways-to-kill-a-zombie.json) |
 | 69 Yuki Love | 167167 | [167167-69-yuki-love.json](./167167-69-yuki-love.json) |
+| 69 Yuuko Hot | 215456 | [215456-69-yuuko-hot.json](./215456-69-yuuko-hot.json) |
 | 6N23 | 276230 | [276230-6n23.json](./276230-6n23.json) |
 | 6Souls | 123954 | [123954-6souls.json](./123954-6souls.json) |
 | 6th Dimension | 148532 | [148532-6th-dimension.json](./148532-6th-dimension.json) |
@@ -3333,6 +3336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 88 Heroes: 98 Heroes Edition | 74315 | [74315-88-heroes-98-heroes-edition.json](./74315-88-heroes-98-heroes-edition.json) |
 | 88 Nights in the Forest | 377400 | [377400-88-nights-in-the-forest.json](./377400-88-nights-in-the-forest.json) |
 | 8874 | 216774 | [216774-8874.json](./216774-8874.json) |
+| 89 | 215457 | [215457-89.json](./215457-89.json) |
 | 890B | 178792 | [178792-890b.json](./178792-890b.json) |
 | 8alloween | 320544 | [320544-8alloween.json](./320544-8alloween.json) |
 | 8AM | 288739 | [288739-8am.json](./288739-8am.json) |
