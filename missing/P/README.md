@@ -4314,6 +4314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Angle | 69321 | [69321-perfect-angle.json](./69321-perfect-angle.json) |
 | Perfect Angle VR - Zen edition | 32410 | [32410-perfect-angle-vr-zen-edition.json](./32410-perfect-angle-vr-zen-edition.json) |
 | Perfect Apocalypse: The Day After | 304128 | [304128-perfect-apocalypse-the-day-after.json](./304128-perfect-apocalypse-the-day-after.json) |
+| Perfect Arena | 213674 | [213674-perfect-arena.json](./213674-perfect-arena.json) |
 | Perfect Assassin | 73366 | [73366-perfect-assassin.json](./73366-perfect-assassin.json) |
 | Perfect Balance | 186259 | [186259-perfect-balance.json](./186259-perfect-balance.json) |
 | Perfect Balance Collection | 193640 | [193640-perfect-balance-collection.json](./193640-perfect-balance-collection.json) |
