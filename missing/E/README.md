@@ -7639,6 +7639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exodus Guilty Vol. 2 Past | 61955 | [61955-exodus-guilty-vol-2-past.json](./61955-exodus-guilty-vol-2-past.json) |
 | Exodus Guilty Vol. 3 Future | 61954 | [61954-exodus-guilty-vol-3-future.json](./61954-exodus-guilty-vol-3-future.json) |
 | Exodus Idle | 211761 | [211761-exodus-idle.json](./211761-exodus-idle.json) |
+| Exodus of Descent | 244059 | [244059-exodus-of-descent.json](./244059-exodus-of-descent.json) |
 | Exodus of Souls | 217161 | [217161-exodus-of-souls.json](./217161-exodus-of-souls.json) |
 | Exodus Vigil | 207353 | [207353-exodus-vigil.json](./207353-exodus-vigil.json) |
 | Exodus Wars: Fractured Empire | 17336 | [17336-exodus-wars-fractured-empire.json](./17336-exodus-wars-fractured-empire.json) |
