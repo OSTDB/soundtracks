@@ -4906,6 +4906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Bliss | 260536 | [260536-tetris-bliss.json](./260536-tetris-bliss.json) |
 | Tetris Blitz | 63150 | [63150-tetris-blitz.json](./63150-tetris-blitz.json) |
 | Tetris Block Puzzle | 309098 | [309098-tetris-block-puzzle.json](./309098-tetris-block-puzzle.json) |
+| Tetris Christmas | 236087 | [236087-tetris-christmas.json](./236087-tetris-christmas.json) |
 | Tetris City | 330701 | [330701-tetris-city.json](./330701-tetris-city.json) |
 | Tetris Classic | 79545 | [79545-tetris-classic.json](./79545-tetris-classic.json) |
 | Tetris Colossus | 243283 | [243283-tetris-colossus.json](./243283-tetris-colossus.json) |
@@ -6683,6 +6684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Yorle: Save the Countryside | 174154 | [174154-the-book-of-yorle-save-the-countryside.json](./174154-the-book-of-yorle-save-the-countryside.json) |
 | The Book of Yorle: Save the Kingdom | 172065 | [172065-the-book-of-yorle-save-the-kingdom.json](./172065-the-book-of-yorle-save-the-kingdom.json) |
 | The Book of Yorle: Save the Village | 169964 | [169964-the-book-of-yorle-save-the-village.json](./169964-the-book-of-yorle-save-the-village.json) |
+| The Book: Gunsmith's Battles Echoes | 236086 | [236086-the-book-gunsmiths-battles-echoes.json](./236086-the-book-gunsmiths-battles-echoes.json) |
 | The Bookman | 385973 | [385973-the-bookman.json](./385973-the-bookman.json) |
 | The Books Tale: A Hop Adventure | 249844 | [249844-the-books-tale-a-hop-adventure.json](./249844-the-books-tale-a-hop-adventure.json) |
 | The Bookshelf Limbo | 134269 | [134269-the-bookshelf-limbo.json](./134269-the-bookshelf-limbo.json) |
@@ -9818,6 +9820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Games: Summer Edition | 47197 | [47197-the-games-summer-edition.json](./47197-the-games-summer-edition.json) |
 | The Games: Winter Challenge | 14434 | [14434-the-games-winter-challenge.json](./14434-the-games-winter-challenge.json) |
 | The Games: Winter Edition | 47196 | [47196-the-games-winter-edition.json](./47196-the-games-winter-edition.json) |
+| The Gametrekking Omnibus | 236058 | [236058-the-gametrekking-omnibus.json](./236058-the-gametrekking-omnibus.json) |
 | The Gaming Cafe | 392179 | [392179-the-gaming-cafe.json](./392179-the-gaming-cafe.json) |
 | The Gang | 284446 | [284446-the-gang.json](./284446-the-gang.json) |
 | The Gang Auto: VIP city | 100782 | [100782-the-gang-auto-vip-city.json](./100782-the-gang-auto-vip-city.json) |
@@ -11620,6 +11623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kings of Limbo | 184498 | [184498-the-kings-of-limbo.json](./184498-the-kings-of-limbo.json) |
 | The Kings of the Dark Age | 206183 | [206183-the-kings-of-the-dark-age.json](./206183-the-kings-of-the-dark-age.json) |
 | The Kingsward | 400393 | [400393-the-kingsward.json](./400393-the-kingsward.json) |
+| The Kinky Kitsune and The Tantalizing Tanuki | 236088 | [236088-the-kinky-kitsune-and-the-tantalizing-tanuki.json](./236088-the-kinky-kitsune-and-the-tantalizing-tanuki.json) |
 | The Kite | 111664 | [111664-the-kite.json](./111664-the-kite.json) |
 | The Kitten Game | 409370 | [409370-the-kitten-game.json](./409370-the-kitten-game.json) |
 | The Kitty in The Spaceship | 256593 | [256593-the-kitty-in-the-spaceship.json](./256593-the-kitty-in-the-spaceship.json) |
@@ -14997,6 +15001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prophecy of Horn | 349999 | [349999-the-prophecy-of-horn.json](./349999-the-prophecy-of-horn.json) |
 | The Prophecy of Statues | 109754 | [109754-the-prophecy-of-statues.json](./109754-the-prophecy-of-statues.json) |
 | The Proposal | 310587 | [310587-the-proposal.json](./310587-the-proposal.json) |
+| The Prospector | 236105 | [236105-the-prospector.json](./236105-the-prospector.json) |
 | The Prospector Odyssey | 260550 | [260550-the-prospector-odyssey.json](./260550-the-prospector-odyssey.json) |
 | The Protagonish | 311168 | [311168-the-protagonish.json](./311168-the-protagonish.json) |
 | The Protagonist | 359851 | [359851-the-protagonist.json](./359851-the-protagonist.json) |
@@ -15456,6 +15461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Riddle Room 2 | 53781 | [53781-the-riddle-room-2.json](./53781-the-riddle-room-2.json) |
 | The Riddler | 242447 | [242447-the-riddler.json](./242447-the-riddler.json) |
 | The Ridiculous Hat | 100351 | [100351-the-ridiculous-hat.json](./100351-the-ridiculous-hat.json) |
+| The Rifle Man | 236070 | [236070-the-rifle-man.json](./236070-the-rifle-man.json) |
 | The Riflemen | 207311 | [207311-the-riflemen.json](./207311-the-riflemen.json) |
 | The Rift | 116300 | [116300-the-rift.json](./116300-the-rift.json) |
 | The Rift | 343276 | [343276-the-rift.json](./343276-the-rift.json) |
@@ -17349,6 +17355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Test: Hypothesis Rising | 132660 | [132660-the-test-hypothesis-rising.json](./132660-the-test-hypothesis-rising.json) |
 | The Test: Reality Check | 334018 | [334018-the-test-reality-check.json](./334018-the-test-reality-check.json) |
 | The Test: Reimagined | 389115 | [389115-the-test-reimagined.json](./389115-the-test-reimagined.json) |
+| The Test: Secrets of the Soul | 236101 | [236101-the-test-secrets-of-the-soul.json](./236101-the-test-secrets-of-the-soul.json) |
 | The Test: Secrets of the Soul 2 | 243493 | [243493-the-test-secrets-of-the-soul-2.json](./243493-the-test-secrets-of-the-soul-2.json) |
 | The Testament of Sherlock Holmes | 6164 | [6164-the-testament-of-sherlock-holmes.json](./6164-the-testament-of-sherlock-holmes.json) |
 | The Testimony of Trixie Glimmer Smith | 123633 | [123633-the-testimony-of-trixie-glimmer-smith.json](./123633-the-testimony-of-trixie-glimmer-smith.json) |
