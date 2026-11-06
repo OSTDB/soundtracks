@@ -3388,6 +3388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Rooftop Mayhem | 382118 | [382118-teenage-mutant-ninja-turtles-rooftop-mayhem.json](./382118-teenage-mutant-ninja-turtles-rooftop-mayhem.json) |
 | Teenage Mutant Ninja Turtles: Sewer Run | 64715 | [64715-teenage-mutant-ninja-turtles-sewer-run.json](./64715-teenage-mutant-ninja-turtles-sewer-run.json) |
 | Teenage Mutant Ninja Turtles: Shadow Heroes | 60961 | [60961-teenage-mutant-ninja-turtles-shadow-heroes.json](./60961-teenage-mutant-ninja-turtles-shadow-heroes.json) |
+| Teenage Mutant Ninja Turtles: Shredder's Re-Revenge | 233853 | [233853-teenage-mutant-ninja-turtles-shredders-re-revenge.json](./233853-teenage-mutant-ninja-turtles-shredders-re-revenge.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Limited Edition | 207919 | [207919-teenage-mutant-ninja-turtles-shredders-revenge-limited-edition.json](./207919-teenage-mutant-ninja-turtles-shredders-revenge-limited-edition.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Radical Reptiles | 317624 | [317624-teenage-mutant-ninja-turtles-shredders-revenge-radical-reptiles.json](./317624-teenage-mutant-ninja-turtles-shredders-revenge-radical-reptiles.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Special Edition | 249964 | [249964-teenage-mutant-ninja-turtles-shredders-revenge-special-edition.json](./249964-teenage-mutant-ninja-turtles-shredders-revenge-special-edition.json) |
@@ -16761,6 +16762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Soul Stone War | 128922 | [128922-the-soul-stone-war.json](./128922-the-soul-stone-war.json) |
 | The Soul Stone War 2 | 186404 | [186404-the-soul-stone-war-2.json](./186404-the-soul-stone-war-2.json) |
 | The Soul Stone War 3 | 344280 | [344280-the-soul-stone-war-3.json](./344280-the-soul-stone-war-3.json) |
+| The Soul's Choice | 233830 | [233830-the-souls-choice.json](./233830-the-souls-choice.json) |
 | The SoulKeeper VR | 27193 | [27193-the-soulkeeper-vr.json](./27193-the-soulkeeper-vr.json) |
 | The Soulstream Expansive: Prelude | 418837 | [418837-the-soulstream-expansive-prelude.json](./418837-the-soulstream-expansive-prelude.json) |
 | The Soulwalkers | 252796 | [252796-the-soulwalkers.json](./252796-the-soulwalkers.json) |
@@ -20126,6 +20128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Kingdoms Heroes | 382485 | [382485-three-kingdoms-heroes.json](./382485-three-kingdoms-heroes.json) |
 | Three Kingdoms Mushouden | 333827 | [333827-three-kingdoms-mushouden.json](./333827-three-kingdoms-mushouden.json) |
 | Three Kingdoms Origin | 245821 | [245821-three-kingdoms-origin.json](./245821-three-kingdoms-origin.json) |
+| Three Kingdoms Story: Conussia | 233858 | [233858-three-kingdoms-story-conussia.json](./233858-three-kingdoms-story-conussia.json) |
 | Three Kingdoms VR - Jade Knight | 75820 | [75820-three-kingdoms-vr-jade-knight.json](./75820-three-kingdoms-vr-jade-knight.json) |
 | Three Kingdoms Written Words | 157538 | [157538-three-kingdoms-written-words.json](./157538-three-kingdoms-written-words.json) |
 | Three Kingdoms Zhao Yun | 226590 | [226590-three-kingdoms-zhao-yun.json](./226590-three-kingdoms-zhao-yun.json) |
@@ -32332,6 +32335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TVS Sample Box | 280248 | [280248-tvs-sample-box.json](./280248-tvs-sample-box.json) |
 | TVs: The Awakening | 210991 | [210991-tvs-the-awakening.json](./210991-tvs-the-awakening.json) |
 | TVs: The Illusion Channel | 209480 | [209480-tvs-the-illusion-channel.json](./209480-tvs-the-illusion-channel.json) |
+| TVs: The Revival | 233885 | [233885-tvs-the-revival.json](./233885-tvs-the-revival.json) |
 | Twaddle Paddle | 114320 | [114320-twaddle-paddle.json](./114320-twaddle-paddle.json) |
 | Twang | 289142 | [289142-twang.json](./289142-twang.json) |
 | Twas The Night | 326207 | [326207-twas-the-night.json](./326207-twas-the-night.json) |
