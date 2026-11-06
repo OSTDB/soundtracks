@@ -6877,6 +6877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow's Grove | 370433 | [370433-shadows-grove.json](./370433-shadows-grove.json) |
 | Shadow's Kiss | 201584 | [201584-shadows-kiss.json](./201584-shadows-kiss.json) |
 | Shadow's Ladder | 321827 | [321827-shadows-ladder.json](./321827-shadows-ladder.json) |
+| Shadow's Light | 210969 | [210969-shadows-light.json](./210969-shadows-light.json) |
 | Shadowalker | 223007 | [223007-shadowalker.json](./223007-shadowalker.json) |
 | ShadoWave | 212188 | [212188-shadowave.json](./212188-shadowave.json) |
 | Shadowbane: The Rise of Chaos | 70972 | [70972-shadowbane-the-rise-of-chaos.json](./70972-shadowbane-the-rise-of-chaos.json) |
@@ -18545,6 +18546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul of Hero | 134259 | [134259-soul-of-hero.json](./134259-soul-of-hero.json) |
 | Soul of Heroes: Empire Wars | 247175 | [247175-soul-of-heroes-empire-wars.json](./247175-soul-of-heroes-empire-wars.json) |
 | Soul of Hometown | 216782 | [216782-soul-of-hometown.json](./216782-soul-of-hometown.json) |
+| Soul of Kaeru | 210968 | [210968-soul-of-kaeru.json](./210968-soul-of-kaeru.json) |
 | Soul of Mask | 75179 | [75179-soul-of-mask.json](./75179-soul-of-mask.json) |
 | Soul of Phantasm | 173414 | [173414-soul-of-phantasm.json](./173414-soul-of-phantasm.json) |
 | Soul of Savarog | 301879 | [301879-soul-of-savarog.json](./301879-soul-of-savarog.json) |
@@ -19675,6 +19677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Junk Seekers | 277889 | [277889-space-junk-seekers.json](./277889-space-junk-seekers.json) |
 | Space Junkies | 37080 | [37080-space-junkies.json](./37080-space-junkies.json) |
 | Space Kabaam | 187709 | [187709-space-kabaam.json](./187709-space-kabaam.json) |
+| Space Kabaam 3 | 210930 | [210930-space-kabaam-3.json](./210930-space-kabaam-3.json) |
 | Space Kabaam: Dagger | 392284 | [392284-space-kabaam-dagger.json](./392284-space-kabaam-dagger.json) |
 | Space KaBaam: Neon | 335076 | [335076-space-kabaam-neon.json](./335076-space-kabaam-neon.json) |
 | Space KaBAAM: Neon II | 342725 | [342725-space-kabaam-neon-ii.json](./342725-space-kabaam-neon-ii.json) |
@@ -22790,6 +22793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spray N' Pray | 369125 | [369125-spray-n-pray.json](./369125-spray-n-pray.json) |
 | Spray Paint Simulator | 322702 | [322702-spray-paint-simulator.json](./322702-spray-paint-simulator.json) |
 | Spray Trace | 422480 | [422480-spray-trace.json](./422480-spray-trace.json) |
+| Spread | 210961 | [210961-spread.json](./210961-spread.json) |
 | Spread Eagle Cross the Block! | 144611 | [144611-spread-eagle-cross-the-block.json](./144611-spread-eagle-cross-the-block.json) |
 | Spread Fire | 245081 | [245081-spread-fire.json](./245081-spread-fire.json) |
 | Spread Out! Hold Naar' Havok | 273632 | [273632-spread-out-hold-naar-havok.json](./273632-spread-out-hold-naar-havok.json) |
@@ -33642,6 +33646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superorbit.io | 58285 | [58285-superorbit-io.json](./58285-superorbit-io.json) |
 | SuperPacker | 411995 | [411995-superpacker.json](./411995-superpacker.json) |
 | Superpanda | 186549 | [186549-superpanda.json](./186549-superpanda.json) |
+| Superpanda 2 | 210933 | [210933-superpanda-2.json](./210933-superpanda-2.json) |
 | Superpanel | 377702 | [377702-superpanel.json](./377702-superpanel.json) |
 | Superpantsu Harematchii | 151607 | [151607-superpantsu-harematchii.json](./151607-superpantsu-harematchii.json) |
 | Superpersons University | 277362 | [277362-superpersons-university.json](./277362-superpersons-university.json) |
@@ -35036,6 +35041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweezy Gunner | 17306 | [17306-sweezy-gunner.json](./17306-sweezy-gunner.json) |
 | Swell | 262974 | [262974-swell.json](./262974-swell.json) |
 | Swelldone | 280900 | [280900-swelldone.json](./280900-swelldone.json) |
+| Swelter | 210972 | [210972-swelter.json](./210972-swelter.json) |
 | Swervle | 413686 | [413686-swervle.json](./413686-swervle.json) |
 | Sweven | 28683 | [28683-sweven.json](./28683-sweven.json) |
 | Swevens | 403124 | [403124-swevens.json](./403124-swevens.json) |
