@@ -1265,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game de Seishun | 131320 | [131320-game-de-seishun.json](./131320-game-de-seishun.json) |
 | Game Design at WVU Arcade | 408025 | [408025-game-design-at-wvu-arcade.json](./408025-game-design-at-wvu-arcade.json) |
 | Game Designer Simulator | 310812 | [310812-game-designer-simulator.json](./310812-game-designer-simulator.json) |
+| Game Dev Arcade | 212556 | [212556-game-dev-arcade.json](./212556-game-dev-arcade.json) |
 | Game Dev Company | 153490 | [153490-game-dev-company.json](./153490-game-dev-company.json) |
 | Game Dev Fantasy | 245877 | [245877-game-dev-fantasy.json](./245877-game-dev-fantasy.json) |
 | Game Dev Masters | 146909 | [146909-game-dev-masters.json](./146909-game-dev-masters.json) |
@@ -8819,6 +8820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greedling: 2D Boss Rush | 409409 | [409409-greedling-2d-boss-rush.json](./409409-greedling-2d-boss-rush.json) |
 | Greedventory | 204507 | [204507-greedventory.json](./204507-greedventory.json) |
 | Greedy | 178858 | [178858-greedy.json](./178858-greedy.json) |
+| Greedy Apple Worm | 212549 | [212549-greedy-apple-worm.json](./212549-greedy-apple-worm.json) |
 | Greedy Bee | 310325 | [310325-greedy-bee.json](./310325-greedy-bee.json) |
 | Greedy Bubble | 152580 | [152580-greedy-bubble.json](./152580-greedy-bubble.json) |
 | Greedy Chicken | 264171 | [264171-greedy-chicken.json](./264171-greedy-chicken.json) |
@@ -8836,6 +8838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greedy in the Dark | 272349 | [272349-greedy-in-the-dark.json](./272349-greedy-in-the-dark.json) |
 | Greedy Little Kingdoms | 404805 | [404805-greedy-little-kingdoms.json](./404805-greedy-little-kingdoms.json) |
 | Greedy Maze | 136459 | [136459-greedy-maze.json](./136459-greedy-maze.json) |
+| Greedy Niffler | 212554 | [212554-greedy-niffler.json](./212554-greedy-niffler.json) |
 | Greedy Penguins | 20715 | [20715-greedy-penguins.json](./20715-greedy-penguins.json) |
 | Greedy Rabbit | 190089 | [190089-greedy-rabbit.json](./190089-greedy-rabbit.json) |
 | Greedy Snake | 302242 | [302242-greedy-snake.json](./302242-greedy-snake.json) |
@@ -9454,6 +9457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimmwald Dungeon RPG | 98904 | [98904-grimmwald-dungeon-rpg.json](./98904-grimmwald-dungeon-rpg.json) |
 | Grimmwood | 100580 | [100580-grimmwood.json](./100580-grimmwood.json) |
 | Grimmy Tales | 240675 | [240675-grimmy-tales.json](./240675-grimmy-tales.json) |
+| Grimnight Heroes: Survivors | 212533 | [212533-grimnight-heroes-survivors.json](./212533-grimnight-heroes-survivors.json) |
 | Grimoire | 296799 | [296799-grimoire.json](./296799-grimoire.json) |
 | Grimoire | 296800 | [296800-grimoire.json](./296800-grimoire.json) |
 | Grimoire | 86187 | [86187-grimoire.json](./86187-grimoire.json) |
