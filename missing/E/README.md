@@ -5628,6 +5628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Office VR | 339771 | [339771-escape-the-office-vr.json](./339771-escape-the-office-vr.json) |
 | Escape the Omnochronom! | 108632 | [108632-escape-the-omnochronom.json](./108632-escape-the-omnochronom.json) |
 | Escape the Ordinary: Tales of Romina Manor | 158410 | [158410-escape-the-ordinary-tales-of-romina-manor.json](./158410-escape-the-ordinary-tales-of-romina-manor.json) |
+| Escape the Outbreak | 169022 | [169022-escape-the-outbreak.json](./169022-escape-the-outbreak.json) |
 | Escape the Pacific | 54510 | [54510-escape-the-pacific.json](./54510-escape-the-pacific.json) |
 | Escape the Panda Donuts | 214334 | [214334-escape-the-panda-donuts.json](./214334-escape-the-panda-donuts.json) |
 | Escape the Past | 32463 | [32463-escape-the-past.json](./32463-escape-the-past.json) |
