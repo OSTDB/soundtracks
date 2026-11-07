@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocnus Theory | 216602 | [216602-ocnus-theory.json](./216602-ocnus-theory.json) |
 | Oco | 125845 | [125845-oco.json](./125845-oco.json) |
 | Ocolast | 158027 | [158027-ocolast.json](./158027-ocolast.json) |
+| Ocolast: Origens de Paulo Guina | 153606 | [153606-ocolast-origens-de-paulo-guina.json](./153606-ocolast-origens-de-paulo-guina.json) |
 | Ocon | 329061 | [329061-ocon.json](./329061-ocon.json) |
 | Ocopoco | 175397 | [175397-ocopoco.json](./175397-ocopoco.json) |
 | Ocraft | 256236 | [256236-ocraft.json](./256236-ocraft.json) |
