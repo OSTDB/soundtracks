@@ -6363,6 +6363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charmareians | 203932 | [203932-charmareians.json](./203932-charmareians.json) |
 | Charmcraft Idle | 385957 | [385957-charmcraft-idle.json](./385957-charmcraft-idle.json) |
 | Charming Blood | 215506 | [215506-charming-blood.json](./215506-charming-blood.json) |
+| Charming Girls | 154144 | [154144-charming-girls.json](./154144-charming-girls.json) |
 | Charming Hearts | 302345 | [302345-charming-hearts.json](./302345-charming-hearts.json) |
 | Charming Hill | 399262 | [399262-charming-hill.json](./399262-charming-hill.json) |
 | Charming Tails | 298987 | [298987-charming-tails.json](./298987-charming-tails.json) |
@@ -18137,6 +18138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosser | 121550 | [121550-crosser.json](./121550-crosser.json) |
 | Crossfar | 207640 | [207640-crossfar.json](./207640-crossfar.json) |
 | Crossfire | 13535 | [13535-crossfire.json](./13535-crossfire.json) |
+| Crossfire | 154170 | [154170-crossfire.json](./154170-crossfire.json) |
 | Crossfire | 154175 | [154175-crossfire.json](./154175-crossfire.json) |
 | Crossfire | 183918 | [183918-crossfire.json](./183918-crossfire.json) |
 | Crossfire | 18760 | [18760-crossfire.json](./18760-crossfire.json) |
