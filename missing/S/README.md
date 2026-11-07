@@ -1835,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa in search of toys | 113691 | [113691-santa-in-search-of-toys.json](./113691-santa-in-search-of-toys.json) |
 | Santa in the Ucube City | 282420 | [282420-santa-in-the-ucube-city.json](./282420-santa-in-the-ucube-city.json) |
 | Santa Jump | 186840 | [186840-santa-jump.json](./186840-santa-jump.json) |
+| Santa Lucia | 191346 | [191346-santa-lucia.json](./191346-santa-lucia.json) |
 | Santa Monica By Night | 117284 | [117284-santa-monica-by-night.json](./117284-santa-monica-by-night.json) |
 | Santa Monica Paradise | 134482 | [134482-santa-monica-paradise.json](./134482-santa-monica-paradise.json) |
 | Santa Olympics | 175400 | [175400-santa-olympics.json](./175400-santa-olympics.json) |
@@ -5045,6 +5046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Legends | 108842 | [108842-sega-legends.json](./108842-sega-legends.json) |
 | Sega Marine Fishing | 45838 | [45838-sega-marine-fishing.json](./45838-sega-marine-fishing.json) |
 | Sega Master System Brawl | 266667 | [266667-sega-master-system-brawl.json](./266667-sega-master-system-brawl.json) |
+| Sega Mega Drive and Genesis Classics | 191344 | [191344-sega-mega-drive-and-genesis-classics.json](./191344-sega-mega-drive-and-genesis-classics.json) |
 | Sega Mega Drive Portable Video Game Player | 202781 | [202781-sega-mega-drive-portable-video-game-player.json](./202781-sega-mega-drive-portable-video-game-player.json) |
 | Sega Mega Drive Portable Video Game Player: Streets of Rage Special Edition | 202782 | [202782-sega-mega-drive-portable-video-game-player-streets-of-rage-special-edition.json](./202782-sega-mega-drive-portable-video-game-player-streets-of-rage-special-edition.json) |
 | Sega Mega Pack | 202900 | [202900-sega-mega-pack.json](./202900-sega-mega-pack.json) |
@@ -8066,6 +8068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherwood Extreme | 137279 | [137279-sherwood-extreme.json](./137279-sherwood-extreme.json) |
 | Sherwood Extreme: Rogue Level Pack | 262739 | [262739-sherwood-extreme-rogue-level-pack.json](./262739-sherwood-extreme-rogue-level-pack.json) |
 | Sherwood Forest | 24936 | [24936-sherwood-forest.json](./24936-sherwood-forest.json) |
+| Sheryl Nome Chou Jikuu Virtual Clip: Ite-za Gogo Kyuu-ji Don't Be Late | 191355 | [191355-sheryl-nome-chou-jikuu-virtual-clip-ite-za-gogo-kyuu-ji-dont-be-late.json](./191355-sheryl-nome-chou-jikuu-virtual-clip-ite-za-gogo-kyuu-ji-dont-be-late.json) |
 | Sheryl: The Alchemist of the Island Ruins | 292524 | [292524-sheryl-the-alchemist-of-the-island-ruins.json](./292524-sheryl-the-alchemist-of-the-island-ruins.json) |
 | Sheva | 347994 | [347994-sheva.json](./347994-sheva.json) |
 | Shh, Zombies | 21979 | [21979-shh-zombies.json](./21979-shh-zombies.json) |
@@ -11981,6 +11984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skater | 245172 | [245172-skater.json](./245172-skater.json) |
 | Skater - Let's Skate | 107566 | [107566-skater-lets-skate.json](./107566-skater-lets-skate.json) |
 | Skater - Skate Legendary Spots, Perfect Board Feel | 88975 | [88975-skater-skate-legendary-spots-perfect-board-feel.json](./88975-skater-skate-legendary-spots-perfect-board-feel.json) |
+| Skater Boy | 191301 | [191301-skater-boy.json](./191301-skater-boy.json) |
 | Skater Bunny Simulator | 320459 | [320459-skater-bunny-simulator.json](./320459-skater-bunny-simulator.json) |
 | Skater Cally | 109320 | [109320-skater-cally.json](./109320-skater-cally.json) |
 | Skater Cat | 85377 | [85377-skater-cat.json](./85377-skater-cat.json) |
@@ -19685,6 +19689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -24957,6 +24962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbug Troopers: The 4 Horseflies of the Apocalypse | 347072 | [347072-starbug-troopers-the-4-horseflies-of-the-apocalypse.json](./347072-starbug-troopers-the-4-horseflies-of-the-apocalypse.json) |
 | Starbump | 377734 | [377734-starbump.json](./377734-starbump.json) |
 | Starburst Fever Night | 390669 | [390669-starburst-fever-night.json](./390669-starburst-fever-night.json) |
+| Starburst Waterslide Slalom | 191306 | [191306-starburst-waterslide-slalom.json](./191306-starburst-waterslide-slalom.json) |
 | Starbust | 181378 | [181378-starbust.json](./181378-starbust.json) |
 | Starbuster | 139004 | [139004-starbuster.json](./139004-starbuster.json) |
 | Starbyte Super Soccer | 119352 | [119352-starbyte-super-soccer.json](./119352-starbyte-super-soccer.json) |
@@ -27004,6 +27010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Life 2 - Director's Cut | 100723 | [100723-still-life-2-directors-cut.json](./100723-still-life-2-directors-cut.json) |
 | Still Light | 339663 | [339663-still-light.json](./339663-still-light.json) |
 | Still Not Dead | 41952 | [41952-still-not-dead.json](./41952-still-not-dead.json) |
+| Still Ridge | 191307 | [191307-still-ridge.json](./191307-still-ridge.json) |
 | Still Rolling | 409423 | [409423-still-rolling.json](./409423-still-rolling.json) |
 | Still Room: I Miss You | 396499 | [396499-still-room-i-miss-you.json](./396499-still-room-i-miss-you.json) |
 | Still Rooms | 415924 | [415924-still-rooms.json](./415924-still-rooms.json) |
@@ -32217,6 +32224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Marlin Bros | 294279 | [294279-super-marlin-bros.json](./294279-super-marlin-bros.json) |
 | Super Marshmallow Kingdom | 403108 | [403108-super-marshmallow-kingdom.json](./403108-super-marshmallow-kingdom.json) |
 | Super Maruo | 238973 | [238973-super-maruo.json](./238973-super-maruo.json) |
+| Super Marxist Twins | 191326 | [191326-super-marxist-twins.json](./191326-super-marxist-twins.json) |
 | Super Masao 2 | 165061 | [165061-super-masao-2.json](./165061-super-masao-2.json) |
 | Super Match Soccer | 91629 | [91629-super-match-soccer.json](./91629-super-match-soccer.json) |
 | Super Match! The Ultimate Matching Game | 167504 | [167504-super-match-the-ultimate-matching-game.json](./167504-super-match-the-ultimate-matching-game.json) |
@@ -35649,6 +35657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword&Magic | 226153 | [226153-sword-and-magic.json](./226153-sword-and-magic.json) |
 | Swordash | 259564 | [259564-swordash.json](./259564-swordash.json) |
 | SwordBall | 161529 | [161529-swordball.json](./161529-swordball.json) |
+| Swordbattle.io | 191343 | [191343-swordbattle-io.json](./191343-swordbattle-io.json) |
 | Swordbird Song: The Iron Owl Tower | 254364 | [254364-swordbird-song-the-iron-owl-tower.json](./254364-swordbird-song-the-iron-owl-tower.json) |
 | SwordBorn | 356051 | [356051-swordborn.json](./356051-swordborn.json) |
 | SwordBounce | 101294 | [101294-swordbounce.json](./101294-swordbounce.json) |
