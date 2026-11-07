@@ -1956,6 +1956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Souls: Artorias of the Abyss | 21988 | [21988-dark-souls-artorias-of-the-abyss.json](./21988-dark-souls-artorias-of-the-abyss.json) |
 | Dark Souls: Artorias of the Abyss Edition | 136857 | [136857-dark-souls-artorias-of-the-abyss-edition.json](./136857-dark-souls-artorias-of-the-abyss-edition.json) |
 | Dark Souls: Collector's Edition | 44607 | [44607-dark-souls-collectors-edition.json](./44607-dark-souls-collectors-edition.json) |
+| Dark Souls: Daughters of Ash | 144500 | [144500-dark-souls-daughters-of-ash.json](./144500-dark-souls-daughters-of-ash.json) |
 | Dark Souls: Nightfall | 401846 | [401846-dark-souls-nightfall.json](./401846-dark-souls-nightfall.json) |
 | Dark Souls: Prepare to Die Edition | 21040 | [21040-dark-souls-prepare-to-die-edition.json](./21040-dark-souls-prepare-to-die-edition.json) |
 | Dark Souls: Remastered Seamless Co-op | 354911 | [354911-dark-souls-remastered-seamless-co-op.json](./354911-dark-souls-remastered-seamless-co-op.json) |
@@ -5556,6 +5557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deeper Still | 398088 | [398088-deeper-still.json](./398088-deeper-still.json) |
 | Deeper Than Hell | 295792 | [295792-deeper-than-hell.json](./295792-deeper-than-hell.json) |
 | Deeper You Go | 346746 | [346746-deeper-you-go.json](./346746-deeper-you-go.json) |
+| Deepest Chamber: Resurrection | 144450 | [144450-deepest-chamber-resurrection.json](./144450-deepest-chamber-resurrection.json) |
 | Deepest Depth | 320186 | [320186-deepest-depth.json](./320186-deepest-depth.json) |
 | Deepest Dungeons | 319048 | [319048-deepest-dungeons.json](./319048-deepest-dungeons.json) |
 | Deepest Fear | 324579 | [324579-deepest-fear.json](./324579-deepest-fear.json) |
