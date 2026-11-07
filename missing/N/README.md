@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naginami and the Crimson Thread | 294917 | [294917-naginami-and-the-crimson-thread.json](./294917-naginami-and-the-crimson-thread.json) |
 | NagiQ | 54971 | [54971-nagiq.json](./54971-nagiq.json) |
 | NagiQ 2: Treasure Hunt | 239555 | [239555-nagiq-2-treasure-hunt.json](./239555-nagiq-2-treasure-hunt.json) |
+| Nagomibako Innocent Grey Fandisc | 166383 | [166383-nagomibako-innocent-grey-fandisc.json](./166383-nagomibako-innocent-grey-fandisc.json) |
 | NaGongGan Infinite | 165773 | [165773-nagonggan-infinite.json](./165773-nagonggan-infinite.json) |
 | Nagual | 345948 | [345948-nagual.json](./345948-nagual.json) |
 | Nahan: The Ultimate 3D Puzzle Game | 73448 | [73448-nahan-the-ultimate-3d-puzzle-game.json](./73448-nahan-the-ultimate-3d-puzzle-game.json) |
@@ -2225,7 +2226,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Angelique Tenshi no Namida | 131907 | [131907-neo-angelique-tenshi-no-namida.json](./131907-neo-angelique-tenshi-no-namida.json) |
 | Neo Angle | 67647 | [67647-neo-angle.json](./67647-neo-angle.json) |
 | Neo Artifacts | 393819 | [393819-neo-artifacts.json](./393819-neo-artifacts.json) |
+| Neo Atlas | 166364 | [166364-neo-atlas.json](./166364-neo-atlas.json) |
 | Neo Atlas 1469 | 27318 | [27318-neo-atlas-1469.json](./27318-neo-atlas-1469.json) |
+| Neo Atlas 2 | 166365 | [166365-neo-atlas-2.json](./166365-neo-atlas-2.json) |
+| Neo Atlas 3 | 166366 | [166366-neo-atlas-3.json](./166366-neo-atlas-3.json) |
 | Neo Bananas | 423957 | [423957-neo-bananas.json](./423957-neo-bananas.json) |
 | Neo Berlin 2087 | 244993 | [244993-neo-berlin-2087.json](./244993-neo-berlin-2087.json) |
 | Neo Bomberman | 39463 | [39463-neo-bomberman.json](./39463-neo-bomberman.json) |
