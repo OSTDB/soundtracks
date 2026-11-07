@@ -4129,6 +4129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FFF | 219303 | [219303-fff.json](./219303-fff.json) |
 | Ffff You Machine | 349504 | [349504-ffff-you-machine.json](./349504-ffff-you-machine.json) |
 | FFFF: Fatal Five Finger Fillet | 417258 | [417258-ffff-fatal-five-finger-fillet.json](./417258-ffff-fatal-five-finger-fillet.json) |
+| FFFFFF | 184543 | [184543-ffffff.json](./184543-ffffff.json) |
 | FFFL: Brutalball Manager | 248972 | [248972-fffl-brutalball-manager.json](./248972-fffl-brutalball-manager.json) |
 | FFS, Another Northern Duke?! | 309876 | [309876-ffs-another-northern-duke.json](./309876-ffs-another-northern-duke.json) |
 | FFS: Football Freekick Simulator | 312436 | [312436-ffs-football-freekick-simulator.json](./312436-ffs-football-freekick-simulator.json) |
@@ -5300,6 +5301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Resistance | 261932 | [261932-final-resistance.json](./261932-final-resistance.json) |
 | Final Response | 323987 | [323987-final-response.json](./323987-final-response.json) |
 | Final Rest | 29496 | [29496-final-rest.json](./29496-final-rest.json) |
+| Final Return | 184547 | [184547-final-return.json](./184547-final-return.json) |
 | Final Rites | 405685 | [405685-final-rites.json](./405685-final-rites.json) |
 | Final Round | 398954 | [398954-final-round.json](./398954-final-round.json) |
 | Final Round Tennis | 246328 | [246328-final-round-tennis.json](./246328-final-round-tennis.json) |
@@ -7340,6 +7342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappiper: Remade | 338102 | [338102-flappiper-remade.json](./338102-flappiper-remade.json) |
 | FlapPlane | 137573 | [137573-flapplane.json](./137573-flapplane.json) |
 | Flapple Bird | 222746 | [222746-flapple-bird.json](./222746-flapple-bird.json) |
+| Flappuccino | 184687 | [184687-flappuccino.json](./184687-flappuccino.json) |
 | Flappy | 195527 | [195527-flappy.json](./195527-flappy.json) |
 | Flappy 2: The Resurrection of Blue Star | 62199 | [62199-flappy-2-the-resurrection-of-blue-star.json](./62199-flappy-2-the-resurrection-of-blue-star.json) |
 | Flappy Alien | 311232 | [311232-flappy-alien.json](./311232-flappy-alien.json) |
