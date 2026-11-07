@@ -3904,6 +3904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Fishtank | 244772 | [244772-vr-fishtank.json](./244772-vr-fishtank.json) |
 | VR Fitness | 245713 | [245713-vr-fitness.json](./245713-vr-fitness.json) |
 | VR Fitness | 52093 | [52093-vr-fitness.json](./52093-vr-fitness.json) |
+| VR Fitness Gym | 173383 | [173383-vr-fitness-gym.json](./173383-vr-fitness-gym.json) |
 | VR Fitness: R18 DLC | 275820 | [275820-vr-fitness-r18-dlc.json](./275820-vr-fitness-r18-dlc.json) |
 | VR Flight Simulator New York - Cessna | 113760 | [113760-vr-flight-simulator-new-york-cessna.json](./113760-vr-flight-simulator-new-york-cessna.json) |
 | VR Flush | 104134 | [104134-vr-flush.json](./104134-vr-flush.json) |
