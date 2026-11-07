@@ -17442,6 +17442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Survivalists: Deluxe Edition | 173159 | [173159-the-survivalists-deluxe-edition.json](./173159-the-survivalists-deluxe-edition.json) |
 | The Survivalists: Monkey Business | 171180 | [171180-the-survivalists-monkey-business.json](./171180-the-survivalists-monkey-business.json) |
 | The Survivor | 123491 | [123491-the-survivor.json](./123491-the-survivor.json) |
+| The Survivor | 170626 | [170626-the-survivor.json](./170626-the-survivor.json) |
 | The Survivor | 334450 | [334450-the-survivor.json](./334450-the-survivor.json) |
 | The Survivor After | 152879 | [152879-the-survivor-after.json](./152879-the-survivor-after.json) |
 | The Survivors | 103263 | [103263-the-survivors.json](./103263-the-survivors.json) |
@@ -26993,6 +26994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Ascent | 30393 | [30393-tower-ascent.json](./30393-tower-ascent.json) |
 | Tower Attack | 174056 | [174056-tower-attack.json](./174056-tower-attack.json) |
 | Tower Attack | 352301 | [352301-tower-attack.json](./352301-tower-attack.json) |
+| Tower Ball | 170624 | [170624-tower-ball.json](./170624-tower-ball.json) |
 | Tower Behind the Moon | 113808 | [113808-tower-behind-the-moon.json](./113808-tower-behind-the-moon.json) |
 | Tower Bloxx | 9452 | [9452-tower-bloxx.json](./9452-tower-bloxx.json) |
 | Tower Bloxx Deluxe | 9453 | [9453-tower-bloxx-deluxe.json](./9453-tower-bloxx-deluxe.json) |
@@ -27098,6 +27100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Fortune 3 | 197738 | [197738-tower-of-fortune-3.json](./197738-tower-of-fortune-3.json) |
 | Tower of Fortune 4 | 175610 | [175610-tower-of-fortune-4.json](./175610-tower-of-fortune-4.json) |
 | Tower of Gargax | 185768 | [185768-tower-of-gargax.json](./185768-tower-of-gargax.json) |
+| Tower of God | 170653 | [170653-tower-of-god.json](./170653-tower-of-god.json) |
 | Tower of God M: The Great Journey | 188404 | [188404-tower-of-god-m-the-great-journey.json](./188404-tower-of-god-m-the-great-journey.json) |
 | Tower of God: Great Journey | 231889 | [231889-tower-of-god-great-journey.json](./231889-tower-of-god-great-journey.json) |
 | Tower of God: New World | 194110 | [194110-tower-of-god-new-world.json](./194110-tower-of-god-new-world.json) |
