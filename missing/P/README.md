@@ -4740,6 +4740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Personal Space | 221835 | [221835-personal-space.json](./221835-personal-space.json) |
 | Personal Space Station | 183417 | [183417-personal-space-station.json](./183417-personal-space-station.json) |
 | Personal Study | 393939 | [393939-personal-study.json](./393939-personal-study.json) |
+| Personal Trainer Simulator | 192519 | [192519-personal-trainer-simulator.json](./192519-personal-trainer-simulator.json) |
 | Personal Trainer: Cooking | 41870 | [41870-personal-trainer-cooking.json](./41870-personal-trainer-cooking.json) |
 | Personal Trainer: Math | 78996 | [78996-personal-trainer-math.json](./78996-personal-trainer-math.json) |
 | Personal Trainer: Walking | 71901 | [71901-personal-trainer-walking.json](./71901-personal-trainer-walking.json) |
@@ -5549,6 +5550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Philosopher's Quest | 13746 | [13746-philosophers-quest.json](./13746-philosophers-quest.json) |
 | Philosopher's Stone | 205087 | [205087-philosophers-stone.json](./205087-philosophers-stone.json) |
 | Philosopher's Stone | 329047 | [329047-philosophers-stone.json](./329047-philosophers-stone.json) |
+| Philosopher's Stone and Minerva | 192512 | [192512-philosophers-stone-and-minerva.json](./192512-philosophers-stone-and-minerva.json) |
 | Philosophic Love | 105126 | [105126-philosophic-love.json](./105126-philosophic-love.json) |
 | Philosophical Jigsaw: The Zen Koans | 202647 | [202647-philosophical-jigsaw-the-zen-koans.json](./202647-philosophical-jigsaw-the-zen-koans.json) |
 | Philosophy Fantasy | 153765 | [153765-philosophy-fantasy.json](./153765-philosophy-fantasy.json) |
@@ -14708,6 +14710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Printfarm Simulator | 371522 | [371522-printfarm-simulator.json](./371522-printfarm-simulator.json) |
 | Prinzessin Lillifee Puzzle: Echter Puzzlespass für Unterwegs | 252669 | [252669-prinzessin-lillifee-puzzle-echter-puzzlespass-fur-unterwegs.json](./252669-prinzessin-lillifee-puzzle-echter-puzzlespass-fur-unterwegs.json) |
 | PRiO | 33877 | [33877-prio.json](./33877-prio.json) |
+| PriOne | 192530 | [192530-prione.json](./192530-prione.json) |
 | Priority Realignment | 234900 | [234900-priority-realignment.json](./234900-priority-realignment.json) |
 | PriPara & Pretty Rhythm: PriPara de Tsukaeru Oshare Item 1450! | 177578 | [177578-pripara-and-pretty-rhythm-pripara-de-tsukaeru-oshare-item-1450.json](./177578-pripara-and-pretty-rhythm-pripara-de-tsukaeru-oshare-item-1450.json) |
 | PriPara Aim! Idol Grand Prix No.1! | 177573 | [177573-pripara-aim-idol-grand-prix-no-1.json](./177573-pripara-aim-idol-grand-prix-no-1.json) |
