@@ -1013,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid on Fort Knox | 122614 | [122614-raid-on-fort-knox.json](./122614-raid-on-fort-knox.json) |
 | Raid on Rift | 310806 | [310806-raid-on-rift.json](./310806-raid-on-rift.json) |
 | Raid on the Ruhr | 116248 | [116248-raid-on-the-ruhr.json](./116248-raid-on-the-ruhr.json) |
+| Raid on the Zone | 157300 | [157300-raid-on-the-zone.json](./157300-raid-on-the-zone.json) |
 | Raid on Tri City | 306721 | [306721-raid-on-tri-city.json](./306721-raid-on-tri-city.json) |
 | Raid on Tri City: Second Wave | 289129 | [289129-raid-on-tri-city-second-wave.json](./289129-raid-on-tri-city-second-wave.json) |
 | Raid over Moscow | 18168 | [18168-raid-over-moscow.json](./18168-raid-over-moscow.json) |
@@ -7945,6 +7946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Stikeez | 176696 | [176696-rise-of-stikeez.json](./176696-rise-of-stikeez.json) |
 | Rise of the Ancients | 32459 | [32459-rise-of-the-ancients.json](./32459-rise-of-the-ancients.json) |
 | Rise of the Argonauts | 7161 | [7161-rise-of-the-argonauts.json](./7161-rise-of-the-argonauts.json) |
+| Rise of the Atman | 157275 | [157275-rise-of-the-atman.json](./157275-rise-of-the-atman.json) |
 | Rise of the Badlands | 60750 | [60750-rise-of-the-badlands.json](./60750-rise-of-the-badlands.json) |
 | Rise of the Blobs | 22157 | [22157-rise-of-the-blobs.json](./22157-rise-of-the-blobs.json) |
 | Rise of the Bugs | 304592 | [304592-rise-of-the-bugs.json](./304592-rise-of-the-bugs.json) |
