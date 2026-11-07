@@ -7001,6 +7001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Burgle Cats | 191665 | [191665-the-burgle-cats.json](./191665-the-burgle-cats.json) |
 | The Burgomaster | 171836 | [171836-the-burgomaster.json](./171836-the-burgomaster.json) |
 | The Buried Pillars | 397841 | [397841-the-buried-pillars.json](./397841-the-buried-pillars.json) |
+| The Burnable Garbage Day | 145139 | [145139-the-burnable-garbage-day.json](./145139-the-burnable-garbage-day.json) |
 | The Burned Ground | 115701 | [115701-the-burned-ground.json](./115701-the-burned-ground.json) |
 | The Burning Descent | 127614 | [127614-the-burning-descent.json](./127614-the-burning-descent.json) |
 | The Burning Owl | 405880 | [405880-the-burning-owl.json](./405880-the-burning-owl.json) |
@@ -13156,6 +13157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Big Crisis | 217793 | [217793-the-little-big-crisis.json](./217793-the-little-big-crisis.json) |
 | The Little Black Bestiary: A Midsummer Night's Barcrawl | 151498 | [151498-the-little-black-bestiary-a-midsummer-nights-barcrawl.json](./151498-the-little-black-bestiary-a-midsummer-nights-barcrawl.json) |
 | The Little Black Bestiary: The Salted Cookies of Carthaginia | 154130 | [154130-the-little-black-bestiary-the-salted-cookies-of-carthaginia.json](./154130-the-little-black-bestiary-the-salted-cookies-of-carthaginia.json) |
+| The Little Brave | 145155 | [145155-the-little-brave.json](./145155-the-little-brave.json) |
 | The Little Cars in the Great Race | 371296 | [371296-the-little-cars-in-the-great-race.json](./371296-the-little-cars-in-the-great-race.json) |
 | The Little Crane That Could | 35441 | [35441-the-little-crane-that-could.json](./35441-the-little-crane-that-could.json) |
 | The Little Crane That Could | 88696 | [88696-the-little-crane-that-could.json](./88696-the-little-crane-that-could.json) |
@@ -19938,6 +19940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | These Waves of Girls | 393842 | [393842-these-waves-of-girls.json](./393842-these-waves-of-girls.json) |
 | Theseis | 92339 | [92339-theseis.json](./92339-theseis.json) |
 | Theseus | 139912 | [139912-theseus.json](./139912-theseus.json) |
+| Theseus | 145161 | [145161-theseus.json](./145161-theseus.json) |
 | Theseus | 27216 | [27216-theseus.json](./27216-theseus.json) |
 | Theseus and the Minotaur | 24904 | [24904-theseus-and-the-minotaur.json](./24904-theseus-and-the-minotaur.json) |
 | Theseus Protocol | 216694 | [216694-theseus-protocol.json](./216694-theseus-protocol.json) |
@@ -25972,6 +25975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Secret | 171498 | [171498-top-secret.json](./171498-top-secret.json) |
 | Top Secret | 75967 | [75967-top-secret.json](./75967-top-secret.json) |
 | Top Secret | 79666 | [79666-top-secret.json](./79666-top-secret.json) |
+| Top Secret Finders | 145142 | [145142-top-secret-finders.json](./145142-top-secret-finders.json) |
 | Top Shot | 306386 | [306386-top-shot.json](./306386-top-shot.json) |
 | Top Shot II | 92323 | [92323-top-shot-ii.json](./92323-top-shot-ii.json) |
 | Top Shot: Dinosaur Hunter | 51019 | [51019-top-shot-dinosaur-hunter.json](./51019-top-shot-dinosaur-hunter.json) |
@@ -33309,6 +33313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turte | 309885 | [309885-turte.json](./309885-turte.json) |
 | Turtle | 340391 | [340391-turtle.json](./340391-turtle.json) |
 | Turtle Bay | 79302 | [79302-turtle-bay.json](./79302-turtle-bay.json) |
+| Turtle Bridge | 145167 | [145167-turtle-bridge.json](./145167-turtle-bridge.json) |
 | Turtle Bridge | 228394 | [228394-turtle-bridge.json](./228394-turtle-bridge.json) |
 | Turtle Bridge | 231739 | [231739-turtle-bridge.json](./231739-turtle-bridge.json) |
 | Turtle Bridge | 363304 | [363304-turtle-bridge.json](./363304-turtle-bridge.json) |
