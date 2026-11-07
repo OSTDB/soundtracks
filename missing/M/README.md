@@ -11361,6 +11361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MidnightKing | 231565 | [231565-midnightking.json](./231565-midnightking.json) |
 | Midnightland | 81940 | [81940-midnightland.json](./81940-midnightland.json) |
 | MidnightNears | 344342 | [344342-midnightnears.json](./344342-midnightnears.json) |
+| Mido and Di | 171194 | [171194-mido-and-di.json](./171194-mido-and-di.json) |
 | Midora | 61307 | [61307-midora.json](./61307-midora.json) |
 | Midori Budou-den | 339121 | [339121-midori-budou-den.json](./339121-midori-budou-den.json) |
 | Midori Forest | 214908 | [214908-midori-forest.json](./214908-midori-forest.json) |
@@ -11588,6 +11589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Warriors | 40388 | [40388-mighty-warriors.json](./40388-mighty-warriors.json) |
 | Mighty Warriors: Rise of the East | 58116 | [58116-mighty-warriors-rise-of-the-east.json](./58116-mighty-warriors-rise-of-the-east.json) |
 | Mighty Wars | 341232 | [341232-mighty-wars.json](./341232-mighty-wars.json) |
+| Mighty! | 171172 | [171172-mighty.json](./171172-mighty.json) |
 | MightyBowOfGreenHills | 96761 | [96761-mightybowofgreenhills.json](./96761-mightybowofgreenhills.json) |
 | MightyIronBall | 81759 | [81759-mightyironball.json](./81759-mightyironball.json) |
 | Mightyy's FPS Aim Trainer | 163105 | [163105-mightyys-fps-aim-trainer.json](./163105-mightyys-fps-aim-trainer.json) |
@@ -16604,6 +16606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Archer Shooting Stars | 177917 | [177917-moon-archer-shooting-stars.json](./177917-moon-archer-shooting-stars.json) |
 | Moon Ball Magic | 41402 | [41402-moon-ball-magic.json](./41402-moon-ball-magic.json) |
 | Moon Base | 167032 | [167032-moon-base.json](./167032-moon-base.json) |
+| Moon Base | 171197 | [171197-moon-base.json](./171197-moon-base.json) |
 | Moon Bingo | 306031 | [306031-moon-bingo.json](./306031-moon-bingo.json) |
 | Moon Blob | 160024 | [160024-moon-blob.json](./160024-moon-blob.json) |
 | Moon Blue Legend Remake | 394175 | [394175-moon-blue-legend-remake.json](./394175-moon-blue-legend-remake.json) |
