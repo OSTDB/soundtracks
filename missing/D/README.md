@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D&D - Initiative Tracker | 101204 | [101204-d-and-d-initiative-tracker.json](./101204-d-and-d-initiative-tracker.json) |
 | D&D Classics | 246457 | [246457-d-and-d-classics.json](./246457-d-and-d-classics.json) |
 | D&D Lords of Waterdeep | 68484 | [68484-d-and-d-lords-of-waterdeep.json](./68484-d-and-d-lords-of-waterdeep.json) |
+| D&D Lords of Waterdeep: Skullport expansion | 174449 | [174449-d-and-d-lords-of-waterdeep-skullport-expansion.json](./174449-d-and-d-lords-of-waterdeep-skullport-expansion.json) |
 | D&M: Dungeon and Monsters the Beginning | 227135 | [227135-d-and-m-dungeon-and-monsters-the-beginning.json](./227135-d-and-m-dungeon-and-monsters-the-beginning.json) |
 | D&M: Spark of Fate | 236751 | [236751-d-and-m-spark-of-fate.json](./236751-d-and-m-spark-of-fate.json) |
 | D+Vine[Luv] | 283301 | [283301-d-vine-luv.json](./283301-d-vine-luv.json) |
@@ -8905,6 +8906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diercke: Junior-Quiz Geographie | 269744 | [269744-diercke-junior-quiz-geographie.json](./269744-diercke-junior-quiz-geographie.json) |
 | DieRoll | 88263 | [88263-dieroll.json](./88263-dieroll.json) |
 | Diery Heaven | 158872 | [158872-diery-heaven.json](./158872-diery-heaven.json) |
+| Dies Irae: Amantes Amentes - Act I: Omnia Vincit Amor (Kasumi & Marie Scenario) | 174420 | [174420-dies-irae-amantes-amentes-act-i-omnia-vincit-amor-kasumi-and-marie-scenario.json](./174420-dies-irae-amantes-amentes-act-i-omnia-vincit-amor-kasumi-and-marie-scenario.json) |
 | Dies Irae: Amantes Amentes - Act II: Nihil Difficile Amanti (Kei & Rea Scenario) | 174536 | [174536-dies-irae-amantes-amentes-act-ii-nihil-difficile-amanti-kei-and-rea-scenario.json](./174536-dies-irae-amantes-amentes-act-ii-nihil-difficile-amanti-kei-and-rea-scenario.json) |
 | Dies irae: Amantes Amentes for Nintendo Switch | 105059 | [105059-dies-irae-amantes-amentes-for-nintendo-switch.json](./105059-dies-irae-amantes-amentes-for-nintendo-switch.json) |
 | Dies Irae: Interview with Kaziklu Bey | 115243 | [115243-dies-irae-interview-with-kaziklu-bey.json](./115243-dies-irae-interview-with-kaziklu-bey.json) |
@@ -9819,6 +9821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dio Simulator Remastered | 201841 | [201841-dio-simulator-remastered.json](./201841-dio-simulator-remastered.json) |
 | Dio's Bizarre Boutique | 184747 | [184747-dios-bizarre-boutique.json](./184747-dios-bizarre-boutique.json) |
 | Diode Arena | 207336 | [207336-diode-arena.json](./207336-diode-arena.json) |
+| Diodius: Premonition - Horizon Sacrifice | 174418 | [174418-diodius-premonition-horizon-sacrifice.json](./174418-diodius-premonition-horizon-sacrifice.json) |
 | Diodius: Premonition - Roots of Naka | 174511 | [174511-diodius-premonition-roots-of-naka.json](./174511-diodius-premonition-roots-of-naka.json) |
 | Dion | 338341 | [338341-dion.json](./338341-dion.json) |
 | Dionysos Wars | 277996 | [277996-dionysos-wars.json](./277996-dionysos-wars.json) |
