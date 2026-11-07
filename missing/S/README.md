@@ -2602,6 +2602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scale | 9042 | [9042-scale.json](./9042-scale.json) |
 | Scale | 99365 | [99365-scale.json](./99365-scale.json) |
 | Scale Bullet: After Story | 358265 | [358265-scale-bullet-after-story.json](./358265-scale-bullet-after-story.json) |
+| Scale Enchanter | 172872 | [172872-scale-enchanter.json](./172872-scale-enchanter.json) |
 | Scale Mail | 393781 | [393781-scale-mail.json](./393781-scale-mail.json) |
 | Scale Of Survival | 398692 | [398692-scale-of-survival.json](./398692-scale-of-survival.json) |
 | Scale Star | 97686 | [97686-scale-star.json](./97686-scale-star.json) |
@@ -6666,6 +6667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Company: Left for Dead | 22069 | [22069-shadow-company-left-for-dead.json](./22069-shadow-company-left-for-dead.json) |
 | Shadow Complex Remastered | 19009 | [19009-shadow-complex-remastered.json](./19009-shadow-complex-remastered.json) |
 | Shadow Corps | 55003 | [55003-shadow-corps.json](./55003-shadow-corps.json) |
+| Shadow Corridor | 172854 | [172854-shadow-corridor.json](./172854-shadow-corridor.json) |
 | Shadow Corridor 2: Ama no Yohira | 258410 | [258410-shadow-corridor-2-ama-no-yohira.json](./258410-shadow-corridor-2-ama-no-yohira.json) |
 | Shadow Council: The Puppeteers | 102949 | [102949-shadow-council-the-puppeteers.json](./102949-shadow-council-the-puppeteers.json) |
 | Shadow Dancer | 308420 | [308420-shadow-dancer.json](./308420-shadow-dancer.json) |
@@ -11157,6 +11159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Chess | 115124 | [115124-simple-chess.json](./115124-simple-chess.json) |
 | Simple Clicker | 337397 | [337397-simple-clicker.json](./337397-simple-clicker.json) |
 | Simple Complex Puzzle | 186179 | [186179-simple-complex-puzzle.json](./186179-simple-complex-puzzle.json) |
+| Simple Dominoes | 172856 | [172856-simple-dominoes.json](./172856-simple-dominoes.json) |
 | Simple Dot | 117707 | [117707-simple-dot.json](./117707-simple-dot.json) |
 | Simple DS Series Vol. 1: The Mahjong | 82134 | [82134-simple-ds-series-vol-1-the-mahjong.json](./82134-simple-ds-series-vol-1-the-mahjong.json) |
 | Simple DS Series Vol. 10: The Doko Demo Kanji Quiz | 203404 | [203404-simple-ds-series-vol-10-the-doko-demo-kanji-quiz.json](./203404-simple-ds-series-vol-10-the-doko-demo-kanji-quiz.json) |
@@ -25345,6 +25348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight | 181804 | [181804-starlight.json](./181804-starlight.json) |
 | Starlight | 247552 | [247552-starlight.json](./247552-starlight.json) |
 | StarLight | 267312 | [267312-starlight.json](./267312-starlight.json) |
+| Starlight Alliance | 172849 | [172849-starlight-alliance.json](./172849-starlight-alliance.json) |
 | Starlight and the Silver Key | 237211 | [237211-starlight-and-the-silver-key.json](./237211-starlight-and-the-silver-key.json) |
 | Starlight Attack | 198520 | [198520-starlight-attack.json](./198520-starlight-attack.json) |
 | Starlight City | 223239 | [223239-starlight-city.json](./223239-starlight-city.json) |
@@ -26511,6 +26515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stella Nova | 407466 | [407466-stella-nova.json](./407466-stella-nova.json) |
 | Stella of The End: Diary of a Faint Hope | 325915 | [325915-stella-of-the-end-diary-of-a-faint-hope.json](./325915-stella-of-the-end-diary-of-a-faint-hope.json) |
 | Stella of the End: First Press Limited Edition | 379954 | [379954-stella-of-the-end-first-press-limited-edition.json](./379954-stella-of-the-end-first-press-limited-edition.json) |
+| Stella Pastoris | 172890 | [172890-stella-pastoris.json](./172890-stella-pastoris.json) |
 | Stella Sora | 326127 | [326127-stella-sora.json](./326127-stella-sora.json) |
 | Stella Supernova: The Astral Vale | 417538 | [417538-stella-supernova-the-astral-vale.json](./417538-stella-supernova-the-astral-vale.json) |
 | Stella Voyager | 149781 | [149781-stella-voyager.json](./149781-stella-voyager.json) |
@@ -27044,6 +27049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman World Battle | 287231 | [287231-stickman-world-battle.json](./287231-stickman-world-battle.json) |
 | Stickman WW2 | 290479 | [290479-stickman-ww2.json](./290479-stickman-ww2.json) |
 | Stickman Zombie Shooting 3D | 398420 | [398420-stickman-zombie-shooting-3d.json](./398420-stickman-zombie-shooting-3d.json) |
+| Stickman: Far East Battle | 172850 | [172850-stickman-far-east-battle.json](./172850-stickman-far-east-battle.json) |
 | Stickman: Fidget Spinner Rush | 95641 | [95641-stickman-fidget-spinner-rush.json](./95641-stickman-fidget-spinner-rush.json) |
 | Stickman: Kill the Cook | 214056 | [214056-stickman-kill-the-cook.json](./214056-stickman-kill-the-cook.json) |
 | Stickman: Waves Of Doom | 378533 | [378533-stickman-waves-of-doom.json](./378533-stickman-waves-of-doom.json) |
@@ -31385,6 +31391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Granny Collection | 27855 | [27855-super-granny-collection.json](./27855-super-granny-collection.json) |
 | Super Grappling Gecko | 154982 | [154982-super-grappling-gecko.json](./154982-super-grappling-gecko.json) |
 | Super Grav | 31843 | [31843-super-grav.json](./31843-super-grav.json) |
+| Super Grave Snatchers | 172877 | [172877-super-grave-snatchers.json](./172877-super-grave-snatchers.json) |
 | Super Gravitron | 207834 | [207834-super-gravitron.json](./207834-super-gravitron.json) |
 | Super Gravity Ball | 83499 | [83499-super-gravity-ball.json](./83499-super-gravity-ball.json) |
 | Super Greedy Cat | 216746 | [216746-super-greedy-cat.json](./216746-super-greedy-cat.json) |
