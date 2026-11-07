@@ -5117,6 +5117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beasts of Bermuda: Palaeophis Supporter Warpaint | 379579 | [379579-beasts-of-bermuda-palaeophis-supporter-warpaint.json](./379579-beasts-of-bermuda-palaeophis-supporter-warpaint.json) |
 | Beasts of Bermuda: Utahraptor Supporter Warpaint | 379578 | [379578-beasts-of-bermuda-utahraptor-supporter-warpaint.json](./379578-beasts-of-bermuda-utahraptor-supporter-warpaint.json) |
 | Beasts of Bermuda: Velociraptor Supporter Warpaint | 379577 | [379577-beasts-of-bermuda-velociraptor-supporter-warpaint.json](./379577-beasts-of-bermuda-velociraptor-supporter-warpaint.json) |
+| Beasts of Burden | 181434 | [181434-beasts-of-burden.json](./181434-beasts-of-burden.json) |
 | Beasts of Fortune | 352255 | [352255-beasts-of-fortune.json](./352255-beasts-of-fortune.json) |
 | Beasts of Horror | 265940 | [265940-beasts-of-horror.json](./265940-beasts-of-horror.json) |
 | Beasts of Maravilla Island | 141740 | [141740-beasts-of-maravilla-island.json](./141740-beasts-of-maravilla-island.json) |
@@ -10097,6 +10098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleu Bayou | 349836 | [349836-bleu-bayou.json](./349836-bleu-bayou.json) |
 | Blewie | 157482 | [157482-blewie.json](./157482-blewie.json) |
 | Blickel | 201450 | [201450-blickel.json](./201450-blickel.json) |
+| Blickel NES | 181446 | [181446-blickel-nes.json](./181446-blickel-nes.json) |
 | Blight | 211161 | [211161-blight.json](./211161-blight.json) |
 | Blight Bubbles | 260289 | [260289-blight-bubbles.json](./260289-blight-bubbles.json) |
 | Blight Doctors | 415867 | [415867-blight-doctors.json](./415867-blight-doctors.json) |
@@ -13842,6 +13844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncing Ball | 347618 | [347618-bouncing-ball.json](./347618-bouncing-ball.json) |
 | Bouncing Ball | 46857 | [46857-bouncing-ball.json](./46857-bouncing-ball.json) |
 | Bouncing Ball 3D | 88720 | [88720-bouncing-ball-3d.json](./88720-bouncing-ball-3d.json) |
+| Bouncing Bluster | 181435 | [181435-bouncing-bluster.json](./181435-bouncing-bluster.json) |
 | Bouncing Buddies | 232606 | [232606-bouncing-buddies.json](./232606-bouncing-buddies.json) |
 | Bouncing Buds | 363566 | [363566-bouncing-buds.json](./363566-bouncing-buds.json) |
 | Bouncing Church | 102727 | [102727-bouncing-church.json](./102727-bouncing-church.json) |
