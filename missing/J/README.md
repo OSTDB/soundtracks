@@ -1497,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Match: Winter Wonderland | 295053 | [295053-jewel-match-winter-wonderland.json](./295053-jewel-match-winter-wonderland.json) |
 | Jewel Match: Winter Wonderland 2 - Collector's Edition | 228045 | [228045-jewel-match-winter-wonderland-2-collectors-edition.json](./228045-jewel-match-winter-wonderland-2-collectors-edition.json) |
 | Jewel Matrix | 77763 | [77763-jewel-matrix.json](./77763-jewel-matrix.json) |
+| Jewel Mines | 146432 | [146432-jewel-mines.json](./146432-jewel-mines.json) |
 | Jewel Monsters | 213811 | [213811-jewel-monsters.json](./213811-jewel-monsters.json) |
 | Jewel of Arabia: Dreamers | 139124 | [139124-jewel-of-arabia-dreamers.json](./139124-jewel-of-arabia-dreamers.json) |
 | Jewel of Clementia | 248668 | [248668-jewel-of-clementia.json](./248668-jewel-of-clementia.json) |
