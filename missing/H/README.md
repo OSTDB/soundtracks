@@ -1525,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hany Party Game | 65315 | [65315-hany-party-game.json](./65315-hany-party-game.json) |
 | Hanz Puppetguns | 106619 | [106619-hanz-puppetguns.json](./106619-hanz-puppetguns.json) |
 | Hanzala Returns | 299169 | [299169-hanzala-returns.json](./299169-hanzala-returns.json) |
+| Hànzì Dàmàoxiǎn | 159974 | [159974-hanzi-damaoxian.json](./159974-hanzi-damaoxian.json) |
 | Hanzi Match | 370431 | [370431-hanzi-match.json](./370431-hanzi-match.json) |
 | Hanzo Quest | 98542 | [98542-hanzo-quest.json](./98542-hanzo-quest.json) |
 | Hao x Sora: The Sky's Abound | 274005 | [274005-hao-x-sora-the-skys-abound.json](./274005-hao-x-sora-the-skys-abound.json) |
@@ -2518,6 +2519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hate Free Heroes: Agents of Aggro City | 171510 | [171510-hate-free-heroes-agents-of-aggro-city.json](./171510-hate-free-heroes-agents-of-aggro-city.json) |
 | Hate Me Not | 281579 | [281579-hate-me-not.json](./281579-hate-me-not.json) |
 | Hate Plus | 16542 | [16542-hate-plus.json](./16542-hate-plus.json) |
+| Hate Wave | 159975 | [159975-hate-wave.json](./159975-hate-wave.json) |
 | Hate You | 346394 | [346394-hate-you.json](./346394-hate-you.json) |
 | Hate.net | 346496 | [346496-hate-net.json](./346496-hate-net.json) |
 | Hateful Days | 292424 | [292424-hateful-days.json](./292424-hateful-days.json) |
@@ -3949,6 +3951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helga the Viking Warrior 6: Beyond Ragnarok | 345417 | [345417-helga-the-viking-warrior-6-beyond-ragnarok.json](./345417-helga-the-viking-warrior-6-beyond-ragnarok.json) |
 | Helga the Viking Warrior 8: Valhalla's Last War | 417509 | [417509-helga-the-viking-warrior-8-valhallas-last-war.json](./417509-helga-the-viking-warrior-8-valhallas-last-war.json) |
 | Helga the Viking Warrior 9: The Last Journey | 416504 | [416504-helga-the-viking-warrior-9-the-last-journey.json](./416504-helga-the-viking-warrior-9-the-last-journey.json) |
+| Helga: Euphorium's Song | 159978 | [159978-helga-euphoriums-song.json](./159978-helga-euphoriums-song.json) |
 | Helga's Cheese Festival | 293349 | [293349-helgas-cheese-festival.json](./293349-helgas-cheese-festival.json) |
 | Helheim | 112866 | [112866-helheim.json](./112866-helheim.json) |
 | Helheim Hassle | 129208 | [129208-helheim-hassle.json](./129208-helheim-hassle.json) |
