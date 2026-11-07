@@ -3003,6 +3003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manda: Mario and Ana | 311151 | [311151-manda-mario-and-ana.json](./311151-manda-mario-and-ana.json) |
 | Mandacaru | 159711 | [159711-mandacaru.json](./159711-mandacaru.json) |
 | Mandala | 188887 | [188887-mandala.json](./188887-mandala.json) |
+| Mandalas | 172859 | [172859-mandalas.json](./172859-mandalas.json) |
 | Mandate of Heaven | 374122 | [374122-mandate-of-heaven.json](./374122-mandate-of-heaven.json) |
 | Mandate Order | 374619 | [374619-mandate-order.json](./374619-mandate-order.json) |
 | Mandatory Fun | 348517 | [348517-mandatory-fun.json](./348517-mandatory-fun.json) |
@@ -7141,6 +7142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Tavern Simulator | 407369 | [407369-medieval-tavern-simulator.json](./407369-medieval-tavern-simulator.json) |
 | Medieval Thief VR | 260266 | [260266-medieval-thief-vr.json](./260266-medieval-thief-vr.json) |
 | Medieval Times | 119345 | [119345-medieval-times.json](./119345-medieval-times.json) |
+| Medieval Tower Defense | 172863 | [172863-medieval-tower-defense.json](./172863-medieval-tower-defense.json) |
 | Medieval towers | 235425 | [235425-medieval-towers.json](./235425-medieval-towers.json) |
 | Medieval Towns | 112835 | [112835-medieval-towns.json](./112835-medieval-towns.json) |
 | Medieval Trader Simulator | 186119 | [186119-medieval-trader-simulator.json](./186119-medieval-trader-simulator.json) |
@@ -12641,6 +12643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mineroids | 413614 | [413614-mineroids.json](./413614-mineroids.json) |
 | Miners and Machines | 211120 | [211120-miners-and-machines.json](./211120-miners-and-machines.json) |
 | Miners in the Mountain | 358512 | [358512-miners-in-the-mountain.json](./358512-miners-in-the-mountain.json) |
+| Miners Races | 172865 | [172865-miners-races.json](./172865-miners-races.json) |
 | Miners Settlement | 254903 | [254903-miners-settlement.json](./254903-miners-settlement.json) |
 | Miners Settlement: Idle RPG | 245343 | [245343-miners-settlement-idle-rpg.json](./245343-miners-settlement-idle-rpg.json) |
 | Miners' Union | 391065 | [391065-miners-union.json](./391065-miners-union.json) |
@@ -12763,6 +12766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Boxing | 243721 | [243721-mini-boxing.json](./243721-mini-boxing.json) |
 | Mini Car Coin Collector | 390609 | [390609-mini-car-coin-collector.json](./390609-mini-car-coin-collector.json) |
 | Mini Car Racing | 148355 | [148355-mini-car-racing.json](./148355-mini-car-racing.json) |
+| Mini Car Racing 2 | 172864 | [172864-mini-car-racing-2.json](./172864-mini-car-racing-2.json) |
 | Mini Car Racing: Tiny Split Screen Tournament | 169157 | [169157-mini-car-racing-tiny-split-screen-tournament.json](./169157-mini-car-racing-tiny-split-screen-tournament.json) |
 | Mini Cars Puzzle | 262804 | [262804-mini-cars-puzzle.json](./262804-mini-cars-puzzle.json) |
 | Mini City: Mayhem | 319363 | [319363-mini-city-mayhem.json](./319363-mini-city-mayhem.json) |
@@ -16266,6 +16270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Trivia | 100119 | [100119-monster-trivia.json](./100119-monster-trivia.json) |
 | Monster Trouble Anniversary Edition | 175590 | [175590-monster-trouble-anniversary-edition.json](./175590-monster-trouble-anniversary-edition.json) |
 | Monster Truck | 332857 | [332857-monster-truck.json](./332857-monster-truck.json) |
+| Monster Truck Arena | 172858 | [172858-monster-truck-arena.json](./172858-monster-truck-arena.json) |
 | Monster Truck Arena: Battle Royale | 322419 | [322419-monster-truck-arena-battle-royale.json](./322419-monster-truck-arena-battle-royale.json) |
 | Monster Truck Attack Collection | 386788 | [386788-monster-truck-attack-collection.json](./386788-monster-truck-attack-collection.json) |
 | Monster Truck Championship | 132220 | [132220-monster-truck-championship.json](./132220-monster-truck-championship.json) |
@@ -21027,6 +21032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Name is Sarah | 129221 | [129221-my-name-is-sarah.json](./129221-my-name-is-sarah.json) |
 | My Name is Uncle Groucho You Win a Fat Cigar | 253895 | [253895-my-name-is-uncle-groucho-you-win-a-fat-cigar.json](./253895-my-name-is-uncle-groucho-you-win-a-fat-cigar.json) |
 | My name is Uter | 210559 | [210559-my-name-is-uter.json](./210559-my-name-is-uter.json) |
+| My Name Is Velcro | 172884 | [172884-my-name-is-velcro.json](./172884-my-name-is-velcro.json) |
 | My Name is You | 29296 | [29296-my-name-is-you.json](./29296-my-name-is-you.json) |
 | My Name is You and it's the only unusual thing in my life | 127707 | [127707-my-name-is-you-and-its-the-only-unusual-thing-in-my-life.json](./127707-my-name-is-you-and-its-the-only-unusual-thing-in-my-life.json) |
 | My Name Is... | 372803 | [372803-my-name-is.json](./372803-my-name-is.json) |
@@ -21963,6 +21969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Solitaire: The Black Raven 6 | 341352 | [341352-mystery-solitaire-the-black-raven-6.json](./341352-mystery-solitaire-the-black-raven-6.json) |
 | Mystery Solving! BrainQuiz | 283278 | [283278-mystery-solving-brainquiz.json](./283278-mystery-solving-brainquiz.json) |
 | Mystery Stories: Mountains of Madness | 63120 | [63120-mystery-stories-mountains-of-madness.json](./63120-mystery-stories-mountains-of-madness.json) |
+| Mystery Swords | 172875 | [172875-mystery-swords.json](./172875-mystery-swords.json) |
 | Mystery Tales 2: The Spirit Mask | 147162 | [147162-mystery-tales-2-the-spirit-mask.json](./147162-mystery-tales-2-the-spirit-mask.json) |
 | Mystery Tales: Alaskan Wild | 140238 | [140238-mystery-tales-alaskan-wild.json](./140238-mystery-tales-alaskan-wild.json) |
 | Mystery Tales: Art and Souls | 187922 | [187922-mystery-tales-art-and-souls.json](./187922-mystery-tales-art-and-souls.json) |
