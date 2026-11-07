@@ -7052,28 +7052,39 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LogIQ Boost | 373650 | [373650-logiq-boost.json](./373650-logiq-boost.json) |
 | Logisch! - Die Denk-Boxx Vol. 1 | 81108 | [81108-logisch-die-denk-boxx-vol-1.json](./81108-logisch-die-denk-boxx-vol-1.json) |
 | Logistical | 29933 | [29933-logistical.json](./29933-logistical.json) |
+| Logistical 2 | 166381 | [166381-logistical-2.json](./166381-logistical-2.json) |
 | Logistical 2: Belgium | 109415 | [109415-logistical-2-belgium.json](./109415-logistical-2-belgium.json) |
+| Logistical 2: France | 166369 | [166369-logistical-2-france.json](./166369-logistical-2-france.json) |
 | Logistical 2: Indonesia - Bundle | 168349 | [168349-logistical-2-indonesia-bundle.json](./168349-logistical-2-indonesia-bundle.json) |
 | Logistical 2: Mall Rats | 168348 | [168348-logistical-2-mall-rats.json](./168348-logistical-2-mall-rats.json) |
 | Logistical 2: Suriname - Xmas 2018 | 168346 | [168346-logistical-2-suriname-xmas-2018.json](./168346-logistical-2-suriname-xmas-2018.json) |
+| Logistical 2: Sweden | 166371 | [166371-logistical-2-sweden.json](./166371-logistical-2-sweden.json) |
 | Logistical 2: USA - Nevada | 115076 | [115076-logistical-2-usa-nevada.json](./115076-logistical-2-usa-nevada.json) |
 | Logistical 2: Vampires | 116782 | [116782-logistical-2-vampires.json](./116782-logistical-2-vampires.json) |
 | Logistical 2: Vampires - Bundle | 168347 | [168347-logistical-2-vampires-bundle.json](./168347-logistical-2-vampires-bundle.json) |
+| Logistical 2: Washington | 166377 | [166377-logistical-2-washington.json](./166377-logistical-2-washington.json) |
 | Logistical 3 | 153003 | [153003-logistical-3.json](./153003-logistical-3.json) |
 | Logistical 3: Portugal | 350074 | [350074-logistical-3-portugal.json](./350074-logistical-3-portugal.json) |
 | Logistical: Brazil | 74485 | [74485-logistical-brazil.json](./74485-logistical-brazil.json) |
 | Logistical: British Isles | 52298 | [52298-logistical-british-isles.json](./52298-logistical-british-isles.json) |
+| Logistical: Canada | 166373 | [166373-logistical-canada.json](./166373-logistical-canada.json) |
 | Logistical: Chile | 59229 | [59229-logistical-chile.json](./59229-logistical-chile.json) |
 | Logistical: Earth | 51582 | [51582-logistical-earth.json](./51582-logistical-earth.json) |
+| Logistical: Egypt | 166379 | [166379-logistical-egypt.json](./166379-logistical-egypt.json) |
 | Logistical: Europe | 53278 | [53278-logistical-europe.json](./53278-logistical-europe.json) |
+| Logistical: Germany | 166368 | [166368-logistical-germany.json](./166368-logistical-germany.json) |
 | Logistical: Italy | 55263 | [55263-logistical-italy.json](./55263-logistical-italy.json) |
+| Logistical: New Zealand | 166372 | [166372-logistical-new-zealand.json](./166372-logistical-new-zealand.json) |
 | Logistical: North America | 53279 | [53279-logistical-north-america.json](./53279-logistical-north-america.json) |
 | Logistical: Norway | 59230 | [59230-logistical-norway.json](./59230-logistical-norway.json) |
 | Logistical: Russia | 74489 | [74489-logistical-russia.json](./74489-logistical-russia.json) |
 | Logistical: South Africa | 74486 | [74486-logistical-south-africa.json](./74486-logistical-south-africa.json) |
 | Logistical: Switzerland | 74487 | [74487-logistical-switzerland.json](./74487-logistical-switzerland.json) |
 | Logistical: The Lot | 53280 | [53280-logistical-the-lot.json](./53280-logistical-the-lot.json) |
+| Logistical: The Netherlands | 166367 | [166367-logistical-the-netherlands.json](./166367-logistical-the-netherlands.json) |
 | Logistical: United Kingdom | 53281 | [53281-logistical-united-kingdom.json](./53281-logistical-united-kingdom.json) |
+| Logistical: USA - California | 166375 | [166375-logistical-usa-california.json](./166375-logistical-usa-california.json) |
+| Logistical: USA - Hawaii | 166374 | [166374-logistical-usa-hawaii.json](./166374-logistical-usa-hawaii.json) |
 | Logistical: USA - New York | 81073 | [81073-logistical-usa-new-york.json](./81073-logistical-usa-new-york.json) |
 | Logistical: USA - Oregon | 59231 | [59231-logistical-usa-oregon.json](./59231-logistical-usa-oregon.json) |
 | Logistical: USA - Wisconsin | 74488 | [74488-logistical-usa-wisconsin.json](./74488-logistical-usa-wisconsin.json) |
