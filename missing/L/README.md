@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LA Deadzone | 121994 | [121994-la-deadzone.json](./121994-la-deadzone.json) |
 | La Dimensione Interna | 161636 | [161636-la-dimensione-interna.json](./161636-la-dimensione-interna.json) |
 | La Divina Commedia | 361884 | [361884-la-divina-commedia.json](./361884-la-divina-commedia.json) |
+| La Douche | 140717 | [140717-la-douche.json](./140717-la-douche.json) |
 | La Escalera | 290332 | [290332-la-escalera.json](./290332-la-escalera.json) |
 | La Espada Sagrada | 141821 | [141821-la-espada-sagrada.json](./141821-la-espada-sagrada.json) |
 | La Fabbrica Spaziale | 145977 | [145977-la-fabbrica-spaziale.json](./145977-la-fabbrica-spaziale.json) |
@@ -1656,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Night Breakfast | 178991 | [178991-late-night-breakfast.json](./178991-late-night-breakfast.json) |
 | Late Night Cleaning Simulator | 267708 | [267708-late-night-cleaning-simulator.json](./267708-late-night-cleaning-simulator.json) |
 | Late Night Confessional | 321641 | [321641-late-night-confessional.json](./321641-late-night-confessional.json) |
+| Late Night Delivery | 140724 | [140724-late-night-delivery.json](./140724-late-night-delivery.json) |
 | Late Night Delivery: The Bewitched Collection | 260290 | [260290-late-night-delivery-the-bewitched-collection.json](./260290-late-night-delivery-the-bewitched-collection.json) |
 | Late Night Drift | 285890 | [285890-late-night-drift.json](./285890-late-night-drift.json) |
 | Late Night Duty | 388689 | [388689-late-night-duty.json](./388689-late-night-duty.json) |
@@ -2713,6 +2715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Sunflower | 180669 | [180669-legend-of-sunflower.json](./180669-legend-of-sunflower.json) |
 | Legend of Taigong | 254647 | [254647-legend-of-taigong.json](./254647-legend-of-taigong.json) |
 | Legend of Talisman | 237601 | [237601-legend-of-talisman.json](./237601-legend-of-talisman.json) |
+| Legend of Tenshi | 140738 | [140738-legend-of-tenshi.json](./140738-legend-of-tenshi.json) |
 | Legend of the 9 Swords: Side Story | 126787 | [126787-legend-of-the-9-swords-side-story.json](./126787-legend-of-the-9-swords-side-story.json) |
 | Legend of the Amazon Women | 13800 | [13800-legend-of-the-amazon-women.json](./13800-legend-of-the-amazon-women.json) |
 | Legend of the Ancient Dragon | 73249 | [73249-legend-of-the-ancient-dragon.json](./73249-legend-of-the-ancient-dragon.json) |
@@ -4235,6 +4238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lewd Gym | 207337 | [207337-lewd-gym.json](./207337-lewd-gym.json) |
 | Lewd Hentai Puzzle | 306241 | [306241-lewd-hentai-puzzle.json](./306241-lewd-hentai-puzzle.json) |
 | Lewd Island | 385875 | [385875-lewd-island.json](./385875-lewd-island.json) |
+| Lewd Leaf Land: Maple Tea Ecstasy | 140723 | [140723-lewd-leaf-land-maple-tea-ecstasy.json](./140723-lewd-leaf-land-maple-tea-ecstasy.json) |
 | Lewd Life with My Doggy Wife | 203633 | [203633-lewd-life-with-my-doggy-wife.json](./203633-lewd-life-with-my-doggy-wife.json) |
 | Lewd Maze | 171801 | [171801-lewd-maze.json](./171801-lewd-maze.json) |
 | Lewd Mod | 355607 | [355607-lewd-mod.json](./355607-lewd-mod.json) |
