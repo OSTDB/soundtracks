@@ -4708,6 +4708,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Fear 2: The Chaos Lord Gold | 180125 | [180125-age-of-fear-2-the-chaos-lord-gold.json](./180125-age-of-fear-2-the-chaos-lord-gold.json) |
 | Age of Fear 3: The Legend | 51550 | [51550-age-of-fear-3-the-legend.json](./51550-age-of-fear-3-the-legend.json) |
 | Age of Fear 4: The Iron Killer | 118733 | [118733-age-of-fear-4-the-iron-killer.json](./118733-age-of-fear-4-the-iron-killer.json) |
+| Age of Fear 4: The Storm Mountain Expansion | 158802 | [158802-age-of-fear-4-the-storm-mountain-expansion.json](./158802-age-of-fear-4-the-storm-mountain-expansion.json) |
+| Age of Fear 4: The Victor's Experiment Expansion | 158801 | [158801-age-of-fear-4-the-victors-experiment-expansion.json](./158801-age-of-fear-4-the-victors-experiment-expansion.json) |
 | Age of Fear: The Quick and The Dead | 297766 | [297766-age-of-fear-the-quick-and-the-dead.json](./297766-age-of-fear-the-quick-and-the-dead.json) |
 | Age of Fear: The Undead King | 9952 | [9952-age-of-fear-the-undead-king.json](./9952-age-of-fear-the-undead-king.json) |
 | Age of Fear: The Undead King Gold | 110714 | [110714-age-of-fear-the-undead-king-gold.json](./110714-age-of-fear-the-undead-king-gold.json) |
@@ -8371,6 +8373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Penguin DX | 279579 | [279579-amazing-penguin-dx.json](./279579-amazing-penguin-dx.json) |
 | Amazing Pets Bundle | 212788 | [212788-amazing-pets-bundle.json](./212788-amazing-pets-bundle.json) |
 | Amazing Pyramids | 385293 | [385293-amazing-pyramids.json](./385293-amazing-pyramids.json) |
+| Amazing Pyramids: Rebirth | 158835 | [158835-amazing-pyramids-rebirth.json](./158835-amazing-pyramids-rebirth.json) |
 | Amazing Quest | 140177 | [140177-amazing-quest.json](./140177-amazing-quest.json) |
 | Amazing repair | 120691 | [120691-amazing-repair.json](./120691-amazing-repair.json) |
 | Amazing Runner | 41510 | [41510-amazing-runner.json](./41510-amazing-runner.json) |
@@ -8453,6 +8456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambers Boom | 44299 | [44299-ambers-boom.json](./44299-ambers-boom.json) |
 | Amberspire | 325713 | [325713-amberspire.json](./325713-amberspire.json) |
 | Ambidextro | 328138 | [328138-ambidextro.json](./328138-ambidextro.json) |
+| Ambidextrous Psychopath | 158834 | [158834-ambidextrous-psychopath.json](./158834-ambidextrous-psychopath.json) |
 | Ambien | 222596 | [222596-ambien.json](./222596-ambien.json) |
 | Ambien | 254122 | [254122-ambien.json](./254122-ambien.json) |
 | Ambience | 414497 | [414497-ambience.json](./414497-ambience.json) |
@@ -16814,6 +16818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
