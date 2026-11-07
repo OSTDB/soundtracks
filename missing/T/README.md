@@ -809,6 +809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taito Milestones 3 | 319646 | [319646-taito-milestones-3.json](./319646-taito-milestones-3.json) |
 | Taito Milestones 4 | 382959 | [382959-taito-milestones-4.json](./382959-taito-milestones-4.json) |
 | Taival | 398552 | [398552-taival.json](./398552-taival.json) |
+| Taivas | 139574 | [139574-taivas.json](./139574-taivas.json) |
 | Taiwan 2013 | 291988 | [291988-taiwan-2013.json](./291988-taiwan-2013.json) |
 | Taiwan Coolfox | 351603 | [351603-taiwan-coolfox.json](./351603-taiwan-coolfox.json) |
 | Taiwan Daheng | 253798 | [253798-taiwan-daheng.json](./253798-taiwan-daheng.json) |
@@ -3998,6 +3999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tender Love and Care: A Leorio Dating Sim! | 178531 | [178531-tender-love-and-care-a-leorio-dating-sim.json](./178531-tender-love-and-care-a-leorio-dating-sim.json) |
 | Tender Root | 235213 | [235213-tender-root.json](./235213-tender-root.json) |
 | Tender: Creature Comforts | 146098 | [146098-tender-creature-comforts.json](./146098-tender-creature-comforts.json) |
+| Tenderfoot | 139547 | [139547-tenderfoot.json](./139547-tenderfoot.json) |
 | Tenderfoot Tactics | 117395 | [117395-tenderfoot-tactics.json](./117395-tenderfoot-tactics.json) |
 | Tenderhearted | 314528 | [314528-tenderhearted.json](./314528-tenderhearted.json) |
 | Tenders Fight | 245818 | [245818-tenders-fight.json](./245818-tenders-fight.json) |
@@ -25374,6 +25376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb of Chacal | 346349 | [346349-tomb-of-chacal.json](./346349-tomb-of-chacal.json) |
 | Tomb of Doom | 70873 | [70873-tomb-of-doom.json](./70873-tomb-of-doom.json) |
 | Tomb of Dread | 256100 | [256100-tomb-of-dread.json](./256100-tomb-of-dread.json) |
+| Tomb of Dreamers | 139535 | [139535-tomb-of-dreamers.json](./139535-tomb-of-dreamers.json) |
 | Tomb of Evil Avenue | 120890 | [120890-tomb-of-evil-avenue.json](./120890-tomb-of-evil-avenue.json) |
 | Tomb of Fenrir | 271537 | [271537-tomb-of-fenrir.json](./271537-tomb-of-fenrir.json) |
 | Tomb of Friends | 249468 | [249468-tomb-of-friends.json](./249468-tomb-of-friends.json) |
