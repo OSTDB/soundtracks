@@ -4300,6 +4300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deals With Witch | 303465 | [303465-deals-with-witch.json](./303465-deals-with-witch.json) |
 | Dean Daimon | 74183 | [74183-dean-daimon.json](./74183-dean-daimon.json) |
 | Dear | 148388 | [148388-dear.json](./148388-dear.json) |
+| Dear Agent | 185739 | [185739-dear-agent.json](./185739-dear-agent.json) |
 | Dear Agony Aunt | 173073 | [173073-dear-agony-aunt.json](./173073-dear-agony-aunt.json) |
 | Dear Althea | 150488 | [150488-dear-althea.json](./150488-dear-althea.json) |
 | Dear Blue | 297470 | [297470-dear-blue.json](./297470-dear-blue.json) |
@@ -10427,6 +10428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Magical World | 6756 | [6756-disney-magical-world.json](./6756-disney-magical-world.json) |
 | Disney Magical World 2 | 24952 | [24952-disney-magical-world-2.json](./24952-disney-magical-world-2.json) |
 | Disney Magical World 2: Enchanted Edition | 172428 | [172428-disney-magical-world-2-enchanted-edition.json](./172428-disney-magical-world-2-enchanted-edition.json) |
+| Disney Melee Mania | 185802 | [185802-disney-melee-mania.json](./185802-disney-melee-mania.json) |
 | Disney Mickey's Typing Adventure | 35796 | [35796-disney-mickeys-typing-adventure.json](./35796-disney-mickeys-typing-adventure.json) |
 | Disney Miraness Fitness | 366901 | [366901-disney-miraness-fitness.json](./366901-disney-miraness-fitness.json) |
 | Disney Mirrorverse | 137964 | [137964-disney-mirrorverse.json](./137964-disney-mirrorverse.json) |
