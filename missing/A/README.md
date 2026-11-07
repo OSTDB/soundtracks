@@ -3584,6 +3584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Field 5 | 235367 | [235367-adventure-field-5.json](./235367-adventure-field-5.json) |
 | Adventure Field Remake | 260448 | [260448-adventure-field-remake.json](./260448-adventure-field-remake.json) |
 | Adventure Flashback Blast! | 304290 | [304290-adventure-flashback-blast.json](./304290-adventure-flashback-blast.json) |
+| Adventure for a Bit | 151892 | [151892-adventure-for-a-bit.json](./151892-adventure-for-a-bit.json) |
 | Adventure Forest: Rabbit Story | 309475 | [309475-adventure-forest-rabbit-story.json](./309475-adventure-forest-rabbit-story.json) |
 | Adventure Forever | 207615 | [207615-adventure-forever.json](./207615-adventure-forever.json) |
 | Adventure Galaxy | 126585 | [126585-adventure-galaxy.json](./126585-adventure-galaxy.json) |
@@ -9648,6 +9649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Present | 267405 | [267405-angel-present.json](./267405-angel-present.json) |
 | Angel Profile | 68256 | [68256-angel-profile.json](./68256-angel-profile.json) |
 | Angel Rhapsody | 397871 | [397871-angel-rhapsody.json](./397871-angel-rhapsody.json) |
+| Angel Saga | 151904 | [151904-angel-saga.json](./151904-angel-saga.json) |
 | Angel Senki | 84334 | [84334-angel-senki.json](./84334-angel-senki.json) |
 | Angel Sex Pet | 158038 | [158038-angel-sex-pet.json](./158038-angel-sex-pet.json) |
 | Angel Shell | 408593 | [408593-angel-shell.json](./408593-angel-shell.json) |
@@ -17231,6 +17233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attank! | 90902 | [90902-attank.json](./90902-attank.json) |
 | Attenborough's Antarctic: An Exploration of Life in the Freezer | 262253 | [262253-attenboroughs-antarctic-an-exploration-of-life-in-the-freezer.json](./262253-attenboroughs-antarctic-an-exploration-of-life-in-the-freezer.json) |
 | Attention Deficit: A story about ADHD | 364007 | [364007-attention-deficit-a-story-about-adhd.json](./364007-attention-deficit-a-story-about-adhd.json) |
+| Attention Heroes! | 151912 | [151912-attention-heroes.json](./151912-attention-heroes.json) |
 | Attention, Dear Passengers | 421563 | [421563-attention-dear-passengers.json](./421563-attention-dear-passengers.json) |
 | Attenzione Pickpocket! | 369342 | [369342-attenzione-pickpocket.json](./369342-attenzione-pickpocket.json) |
 | Attero | 415216 | [415216-attero.json](./415216-attero.json) |
