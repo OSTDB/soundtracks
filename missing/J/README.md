@@ -3902,6 +3902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic World Evolution: Dinosaur Collection | 227420 | [227420-jurassic-world-evolution-dinosaur-collection.json](./227420-jurassic-world-evolution-dinosaur-collection.json) |
 | Jurassic World Evolution: Expansion Collection | 164587 | [164587-jurassic-world-evolution-expansion-collection.json](./164587-jurassic-world-evolution-expansion-collection.json) |
 | Jurassic World Evolution: Herbivore Dinosaur Pack | 152607 | [152607-jurassic-world-evolution-herbivore-dinosaur-pack.json](./152607-jurassic-world-evolution-herbivore-dinosaur-pack.json) |
+| Jurassic World Evolution: Jurassic Park Edition | 165850 | [165850-jurassic-world-evolution-jurassic-park-edition.json](./165850-jurassic-world-evolution-jurassic-park-edition.json) |
 | Jurassic World Evolution: Raptor Squad Skin Collection | 152606 | [152606-jurassic-world-evolution-raptor-squad-skin-collection.json](./152606-jurassic-world-evolution-raptor-squad-skin-collection.json) |
 | Jurassic World Evolution: Return to Jurassic Park | 140515 | [140515-jurassic-world-evolution-return-to-jurassic-park.json](./140515-jurassic-world-evolution-return-to-jurassic-park.json) |
 | Jurassic World Revealed | 104259 | [104259-jurassic-world-revealed.json](./104259-jurassic-world-revealed.json) |
