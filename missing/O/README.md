@@ -2226,6 +2226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Button Nipple Golf | 176769 | [176769-one-button-nipple-golf.json](./176769-one-button-nipple-golf.json) |
 | One Button Travel | 113980 | [113980-one-button-travel.json](./113980-one-button-travel.json) |
 | One by One | 184631 | [184631-one-by-one.json](./184631-one-by-one.json) |
+| One by One | 190261 | [190261-one-by-one.json](./190261-one-by-one.json) |
 | One by One | 379645 | [379645-one-by-one.json](./379645-one-by-one.json) |
 | One By One | 181139 | [181139-one-by-one.json](./181139-one-by-one.json) |
 | One By One | 195714 | [195714-one-by-one.json](./195714-one-by-one.json) |
