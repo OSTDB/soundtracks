@@ -3610,6 +3610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrash | 103395 | [103395-scrash.json](./103395-scrash.json) |
 | Scrat's Cheestrings Meltdown | 312956 | [312956-scrats-cheestrings-meltdown.json](./312956-scrats-cheestrings-meltdown.json) |
 | Scratch Game - Halloween Night | 89750 | [89750-scratch-game-halloween-night.json](./89750-scratch-game-halloween-night.json) |
+| Scratch Girl | 192529 | [192529-scratch-girl.json](./192529-scratch-girl.json) |
 | Scratch Golf | 46542 | [46542-scratch-golf.json](./46542-scratch-golf.json) |
 | Scratch Inc. | 350867 | [350867-scratch-inc.json](./350867-scratch-inc.json) |
 | Scratch Man | 256629 | [256629-scratch-man.json](./256629-scratch-man.json) |
@@ -4579,6 +4580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Pet Playmate | 243930 | [243930-secret-pet-playmate.json](./243930-secret-pet-playmate.json) |
 | Secret Photo | 269212 | [269212-secret-photo.json](./269212-secret-photo.json) |
 | Secret Photo Memory | 417276 | [417276-secret-photo-memory.json](./417276-secret-photo-memory.json) |
+| Secret Pie | 192531 | [192531-secret-pie.json](./192531-secret-pie.json) |
 | Secret Pie | 345529 | [345529-secret-pie.json](./345529-secret-pie.json) |
 | Secret Pie: End Roll | 298024 | [298024-secret-pie-end-roll.json](./298024-secret-pie-end-roll.json) |
 | Secret Pie: Hidden Room | 255018 | [255018-secret-pie-hidden-room.json](./255018-secret-pie-hidden-room.json) |
@@ -6526,6 +6528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SGS Spain at War | 197187 | [197187-sgs-spain-at-war.json](./197187-sgs-spain-at-war.json) |
 | SGS Taipings | 230923 | [230923-sgs-taipings.json](./230923-sgs-taipings.json) |
 | SGS We The People | 388972 | [388972-sgs-we-the-people.json](./388972-sgs-we-the-people.json) |
+| SGS: Heia Safari | 192520 | [192520-sgs-heia-safari.json](./192520-sgs-heia-safari.json) |
 | Sgt. Rock: On the Frontline | 62056 | [62056-sgt-rock-on-the-frontline.json](./62056-sgt-rock-on-the-frontline.json) |
 | Sgt. Saunders' Combat! | 42368 | [42368-sgt-saunders-combat.json](./42368-sgt-saunders-combat.json) |
 | SgyuinBaldo | 151436 | [151436-sgyuinbaldo.json](./151436-sgyuinbaldo.json) |
@@ -12269,6 +12272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skiing Fred | 112050 | [112050-skiing-fred.json](./112050-skiing-fred.json) |
 | Skiing Frenzy | 246787 | [246787-skiing-frenzy.json](./246787-skiing-frenzy.json) |
 | Skiing Race | 175245 | [175245-skiing-race.json](./175245-skiing-race.json) |
+| Skiing VR | 192491 | [192491-skiing-vr.json](./192491-skiing-vr.json) |
 | Skiing Yeti Mountain | 59463 | [59463-skiing-yeti-mountain.json](./59463-skiing-yeti-mountain.json) |
 | Skijoring | 391024 | [391024-skijoring.json](./391024-skijoring.json) |
 | Skilander | 342000 | [342000-skilander.json](./342000-skilander.json) |
@@ -13634,6 +13638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Crown | 157322 | [157322-slime-crown.json](./157322-slime-crown.json) |
 | Slime Crunch | 114828 | [114828-slime-crunch.json](./114828-slime-crunch.json) |
 | Slime Dad: My dad is a slime | 106438 | [106438-slime-dad-my-dad-is-a-slime.json](./106438-slime-dad-my-dad-is-a-slime.json) |
+| Slime Dice | 192535 | [192535-slime-dice.json](./192535-slime-dice.json) |
 | Slime Dreamscape | 334345 | [334345-slime-dreamscape.json](./334345-slime-dreamscape.json) |
 | Slime Dungeon | 202656 | [202656-slime-dungeon.json](./202656-slime-dungeon.json) |
 | Slime Dungeon Escape | 161389 | [161389-slime-dungeon-escape.json](./161389-slime-dungeon-escape.json) |
@@ -13925,6 +13930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sloany vs. Reggie | 290664 | [290664-sloany-vs-reggie.json](./290664-sloany-vs-reggie.json) |
 | Sloanysoft C64 SEUCK Games | 290667 | [290667-sloanysoft-c64-seuck-games.json](./290667-sloanysoft-c64-seuck-games.json) |
 | Slobbish Dragon Princess | 153459 | [153459-slobbish-dragon-princess.json](./153459-slobbish-dragon-princess.json) |
+| Slobbish Dragon Princess 2 | 192522 | [192522-slobbish-dragon-princess-2.json](./192522-slobbish-dragon-princess-2.json) |
 | Slobbish Dragon Princess 3 | 240480 | [240480-slobbish-dragon-princess-3.json](./240480-slobbish-dragon-princess-3.json) |
 | Slobbish Dragon Princess Love + Plus | 153460 | [153460-slobbish-dragon-princess-love-plus.json](./153460-slobbish-dragon-princess-love-plus.json) |
 | Slonderman | 288119 | [288119-slonderman.json](./288119-slonderman.json) |
@@ -14214,6 +14220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Hero Survive | 301624 | [301624-small-hero-survive.json](./301624-small-hero-survive.json) |
 | Small House | 253670 | [253670-small-house.json](./253670-small-house.json) |
 | Small Iron | 156897 | [156897-small-iron.json](./156897-small-iron.json) |
+| Small Island | 192536 | [192536-small-island.json](./192536-small-island.json) |
 | Small Islands | 176339 | [176339-small-islands.json](./176339-small-islands.json) |
 | Small Kingdoms | 262959 | [262959-small-kingdoms.json](./262959-small-kingdoms.json) |
 | Small Life | 189382 | [189382-small-life.json](./189382-small-life.json) |
@@ -14973,6 +14980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakenoid Deluxe | 84874 | [84874-snakenoid-deluxe.json](./84874-snakenoid-deluxe.json) |
 | Snakenpon | 164065 | [164065-snakenpon.json](./164065-snakenpon.json) |
 | Snakeout | 138725 | [138725-snakeout.json](./138725-snakeout.json) |
+| Snakepit Larry | 192523 | [192523-snakepit-larry.json](./192523-snakepit-larry.json) |
 | SnakeQR | 146844 | [146844-snakeqr.json](./146844-snakeqr.json) |
 | Snaker 3000 | 337367 | [337367-snaker-3000.json](./337367-snaker-3000.json) |
 | Snaker 64 | 244757 | [244757-snaker-64.json](./244757-snaker-64.json) |
@@ -16610,6 +16618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Beach Season: A Vacation Time | 202731 | [202731-solitaire-beach-season-a-vacation-time.json](./202731-solitaire-beach-season-a-vacation-time.json) |
 | Solitaire Bliss Collection | 117176 | [117176-solitaire-bliss-collection.json](./117176-solitaire-bliss-collection.json) |
 | Solitaire Blitz | 65263 | [65263-solitaire-blitz.json](./65263-solitaire-blitz.json) |
+| Solitaire Bonbon | 192500 | [192500-solitaire-bonbon.json](./192500-solitaire-bonbon.json) |
 | Solitaire Buddies | 100968 | [100968-solitaire-buddies.json](./100968-solitaire-buddies.json) |
 | Solitaire by MobilityWare | 294197 | [294197-solitaire-by-mobilityware.json](./294197-solitaire-by-mobilityware.json) |
 | Solitaire Card Deck Game '23 | 231896 | [231896-solitaire-card-deck-game-23.json](./231896-solitaire-card-deck-game-23.json) |
@@ -18609,6 +18618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Hunter | 383680 | [383680-soul-hunter.json](./383680-soul-hunter.json) |
 | Soul Hunters | 60345 | [60345-soul-hunters.json](./60345-soul-hunters.json) |
 | Soul Huntress | 406657 | [406657-soul-huntress.json](./406657-soul-huntress.json) |
+| Soul In the Chamber | 192494 | [192494-soul-in-the-chamber.json](./192494-soul-in-the-chamber.json) |
 | Soul Injector Commando | 322603 | [322603-soul-injector-commando.json](./322603-soul-injector-commando.json) |
 | Soul Interface | 302382 | [302382-soul-interface.json](./302382-soul-interface.json) |
 | Soul Island | 116743 | [116743-soul-island.json](./116743-soul-island.json) |
@@ -23088,6 +23098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spuk im Wirtshaus | 92257 | [92257-spuk-im-wirtshaus.json](./92257-spuk-im-wirtshaus.json) |
 | Spunch Bob and Krabsburger Secret | 334911 | [334911-spunch-bob-and-krabsburger-secret.json](./334911-spunch-bob-and-krabsburger-secret.json) |
 | Spunk and Moxie | 25041 | [25041-spunk-and-moxie.json](./25041-spunk-and-moxie.json) |
+| SpunkStock | 192503 | [192503-spunkstock.json](./192503-spunkstock.json) |
 | Spunky | 307609 | [307609-spunky.json](./307609-spunky.json) |
 | Spunky Dungeon | 341997 | [341997-spunky-dungeon.json](./341997-spunky-dungeon.json) |
 | Spunky: Gangster Simulator | 164993 | [164993-spunky-gangster-simulator.json](./164993-spunky-gangster-simulator.json) |
@@ -23412,6 +23423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squaretrail: Lines of The Frame | 305393 | [305393-squaretrail-lines-of-the-frame.json](./305393-squaretrail-lines-of-the-frame.json) |
 | Squareverse | 390664 | [390664-squareverse.json](./390664-squareverse.json) |
 | Squarewave Maker | 90139 | [90139-squarewave-maker.json](./90139-squarewave-maker.json) |
+| Squarewood Farm | 192515 | [192515-squarewood-farm.json](./192515-squarewood-farm.json) |
 | SquareWorld | 102964 | [102964-squareworld.json](./102964-squareworld.json) |
 | SquareWorld Unpixeled | 110825 | [110825-squareworld-unpixeled.json](./110825-squareworld-unpixeled.json) |
 | Squarez Deluxe! | 57014 | [57014-squarez-deluxe.json](./57014-squarez-deluxe.json) |
@@ -35037,6 +35049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Hazard | 316815 | [316815-sweet-hazard.json](./316815-sweet-hazard.json) |
 | Sweet Hearts Match 3 | 86800 | [86800-sweet-hearts-match-3.json](./86800-sweet-hearts-match-3.json) |
 | Sweet Hell | 293710 | [293710-sweet-hell.json](./293710-sweet-hell.json) |
+| Sweet Hero | 192506 | [192506-sweet-hero.json](./192506-sweet-hero.json) |
 | Sweet Hide and Seek | 339460 | [339460-sweet-hide-and-seek.json](./339460-sweet-hide-and-seek.json) |
 | Sweet Holes | 392899 | [392899-sweet-holes.json](./392899-sweet-holes.json) |
 | Sweet Holiday Jigsaws: Trick or Treat | 226349 | [226349-sweet-holiday-jigsaws-trick-or-treat.json](./226349-sweet-holiday-jigsaws-trick-or-treat.json) |
