@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nano Organism | 201495 | [201495-nano-organism.json](./201495-nano-organism.json) |
 | Nano Player Pro: Mega Man | 317711 | [317711-nano-player-pro-mega-man.json](./317711-nano-player-pro-mega-man.json) |
 | Nano Project | 28674 | [28674-nano-project.json](./28674-nano-project.json) |
+| Nano Racing | 190274 | [190274-nano-racing.json](./190274-nano-racing.json) |
 | Nano Reef | 405538 | [405538-nano-reef.json](./405538-nano-reef.json) |
 | Nano Runner | 297531 | [297531-nano-runner.json](./297531-nano-runner.json) |
 | Nano Shift VR | 48000 | [48000-nano-shift-vr.json](./48000-nano-shift-vr.json) |
