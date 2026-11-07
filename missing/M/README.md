@@ -2035,6 +2035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Solitaire Pro | 346870 | [346870-mahjong-solitaire-pro.json](./346870-mahjong-solitaire-pro.json) |
 | Mahjong Solitaire Refresh | 114173 | [114173-mahjong-solitaire-refresh.json](./114173-mahjong-solitaire-refresh.json) |
 | Mahjong Solitaire Refresh: Ex Panels | 170928 | [170928-mahjong-solitaire-refresh-ex-panels.json](./170928-mahjong-solitaire-refresh-ex-panels.json) |
+| Mahjong Solitaire: Tile | 175501 | [175501-mahjong-solitaire-tile.json](./175501-mahjong-solitaire-tile.json) |
 | Mahjong Soul | 117263 | [117263-mahjong-soul.json](./117263-mahjong-soul.json) |
 | Mahjong Strip Solitaire: Harem Guild | 286410 | [286410-mahjong-strip-solitaire-harem-guild.json](./286410-mahjong-strip-solitaire-harem-guild.json) |
 | Mahjong Sword: Princess Quest | 255443 | [255443-mahjong-sword-princess-quest.json](./255443-mahjong-sword-princess-quest.json) |
@@ -5472,6 +5473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Tree | 282693 | [282693-match-tree.json](./282693-match-tree.json) |
 | Match Up | 81405 | [81405-match-up.json](./81405-match-up.json) |
 | Match Up! | 85618 | [85618-match-up.json](./85618-match-up.json) |
+| Match Venture HD | 175467 | [175467-match-venture-hd.json](./175467-match-venture-hd.json) |
 | Match Ventures 2 | 234628 | [234628-match-ventures-2.json](./234628-match-ventures-2.json) |
 | Match Village | 217372 | [217372-match-village.json](./217372-match-village.json) |
 | Match Villains | 330634 | [330634-match-villains.json](./330634-match-villains.json) |
@@ -18297,6 +18299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moussacre | 283763 | [283763-moussacre.json](./283763-moussacre.json) |
 | Moustache Mountain | 33133 | [33133-moustache-mountain.json](./33133-moustache-mountain.json) |
 | Moustake | 202022 | [202022-moustake.json](./202022-moustake.json) |
+| Mouth Mover | 175495 | [175495-mouth-mover.json](./175495-mouth-mover.json) |
 | Mouth Sweet | 83295 | [83295-mouth-sweet.json](./83295-mouth-sweet.json) |
 | Mouth Trap | 318429 | [318429-mouth-trap.json](./318429-mouth-trap.json) |
 | Mouthole | 290732 | [290732-mouthole.json](./290732-mouthole.json) |
@@ -20908,6 +20911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Puppy | 335660 | [335660-my-little-puppy.json](./335660-my-little-puppy.json) |
 | My Little Ramenbar | 175815 | [175815-my-little-ramenbar.json](./175815-my-little-ramenbar.json) |
 | My Little Ranch | 421182 | [421182-my-little-ranch.json](./421182-my-little-ranch.json) |
+| My Little Restaurant | 175487 | [175487-my-little-restaurant.json](./175487-my-little-restaurant.json) |
 | My Little Restaurant | 84624 | [84624-my-little-restaurant.json](./84624-my-little-restaurant.json) |
 | My Little Riding Champion | 109006 | [109006-my-little-riding-champion.json](./109006-my-little-riding-champion.json) |
 | My Little Roguelike | 179305 | [179305-my-little-roguelike.json](./179305-my-little-roguelike.json) |
