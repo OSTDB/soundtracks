@@ -963,7 +963,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -9952,6 +9951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Trail | 293100 | [293100-blazing-trail.json](./293100-blazing-trail.json) |
 | Blazing War | 203915 | [203915-blazing-war.json](./203915-blazing-war.json) |
 | Blazing Wings | 70033 | [70033-blazing-wings.json](./70033-blazing-wings.json) |
+| Blazing Worldstars | 191313 | [191313-blazing-worldstars.json](./191313-blazing-worldstars.json) |
 | BlazingAngel Mistletear | 256671 | [256671-blazingangel-mistletear.json](./256671-blazingangel-mistletear.json) |
 | Blazted VR | 207778 | [207778-blazted-vr.json](./207778-blazted-vr.json) |
 | Bleach | 201562 | [201562-bleach.json](./201562-bleach.json) |
@@ -13564,6 +13564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Botanicula: Collector's Edition | 186881 | [186881-botanicula-collectors-edition.json](./186881-botanicula-collectors-edition.json) |
 | Botanik | 129569 | [129569-botanik.json](./129569-botanik.json) |
 | Botaniki | 229673 | [229673-botaniki.json](./229673-botaniki.json) |
+| Botborgs | 191323 | [191323-botborgs.json](./191323-botborgs.json) |
 | Boter, kaas en eieren | 100034 | [100034-boter-kaas-en-eieren.json](./100034-boter-kaas-en-eieren.json) |
 | Botfestation | 291305 | [291305-botfestation.json](./291305-botfestation.json) |
 | Both Barrels | 59782 | [59782-both-barrels.json](./59782-both-barrels.json) |
