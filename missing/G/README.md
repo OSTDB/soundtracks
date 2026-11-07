@@ -9401,6 +9401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Legends: The Forsaken Bride | 17142 | [17142-grim-legends-the-forsaken-bride.json](./17142-grim-legends-the-forsaken-bride.json) |
 | Grim Legions | 23842 | [23842-grim-legions.json](./23842-grim-legions.json) |
 | Grim Nights | 110185 | [110185-grim-nights.json](./110185-grim-nights.json) |
+| Grim Nights: Elven Curse | 174417 | [174417-grim-nights-elven-curse.json](./174417-grim-nights-elven-curse.json) |
 | Grim Omens | 319199 | [319199-grim-omens.json](./319199-grim-omens.json) |
 | Grim Pastures | 356431 | [356431-grim-pastures.json](./356431-grim-pastures.json) |
 | Grim Pastures: Outlaws | 374920 | [374920-grim-pastures-outlaws.json](./374920-grim-pastures-outlaws.json) |
