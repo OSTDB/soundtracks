@@ -6459,6 +6459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Rush Clicker | 264658 | [264658-gold-rush-clicker.json](./264658-gold-rush-clicker.json) |
 | Gold Rush in the Oort Cloud | 44298 | [44298-gold-rush-in-the-oort-cloud.json](./44298-gold-rush-in-the-oort-cloud.json) |
 | Gold Rush Ventures | 398099 | [398099-gold-rush-ventures.json](./398099-gold-rush-ventures.json) |
+| Gold Rush: Treasure Hunt | 177112 | [177112-gold-rush-treasure-hunt.json](./177112-gold-rush-treasure-hunt.json) |
 | Gold Rush! | 12121 | [12121-gold-rush.json](./12121-gold-rush.json) |
 | Gold Rush! 2 | 29091 | [29091-gold-rush-2.json](./29091-gold-rush-2.json) |
 | Gold Rush! Anniversary | 36230 | [36230-gold-rush-anniversary.json](./36230-gold-rush-anniversary.json) |
@@ -6565,6 +6566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Rails: Harvest of Riddles | 278519 | [278519-golden-rails-harvest-of-riddles.json](./278519-golden-rails-harvest-of-riddles.json) |
 | Golden Rails: Road to Klondike | 191833 | [191833-golden-rails-road-to-klondike.json](./191833-golden-rails-road-to-klondike.json) |
 | Golden Rails: Small Town Story | 148909 | [148909-golden-rails-small-town-story.json](./148909-golden-rails-small-town-story.json) |
+| Golden Rails: Small Town Story - Collector's Edition | 177100 | [177100-golden-rails-small-town-story-collectors-edition.json](./177100-golden-rails-small-town-story-collectors-edition.json) |
 | Golden Rails: The Heart of the State | 372218 | [372218-golden-rails-the-heart-of-the-state.json](./372218-golden-rails-the-heart-of-the-state.json) |
 | Golden Rails: The Heart of the State - Collector's Edition | 338773 | [338773-golden-rails-the-heart-of-the-state-collectors-edition.json](./338773-golden-rails-the-heart-of-the-state-collectors-edition.json) |
 | Golden Rails: Valuable Package | 315899 | [315899-golden-rails-valuable-package.json](./315899-golden-rails-valuable-package.json) |
@@ -7025,6 +7027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Hell | 215356 | [215356-good-hell.json](./215356-good-hell.json) |
 | Good Human | 387392 | [387392-good-human.json](./387392-good-human.json) |
 | Good Idea! | 301962 | [301962-good-idea.json](./301962-good-idea.json) |
+| Good Impression | 177121 | [177121-good-impression.json](./177121-good-impression.json) |
 | Good Intentions | 54070 | [54070-good-intentions.json](./54070-good-intentions.json) |
 | Good Job | 416125 | [416125-good-job.json](./416125-good-job.json) |
 | Good Job! | 261259 | [261259-good-job.json](./261259-good-job.json) |
