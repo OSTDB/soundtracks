@@ -7672,6 +7672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cost of Recovery | 153859 | [153859-the-cost-of-recovery.json](./153859-the-cost-of-recovery.json) |
 | The Cost Of Seeds | 292857 | [292857-the-cost-of-seeds.json](./292857-the-cost-of-seeds.json) |
 | The Cottage | 59966 | [59966-the-cottage.json](./59966-the-cottage.json) |
+| The Couch | 140715 | [140715-the-couch.json](./140715-the-couch.json) |
 | The Council | 78547 | [78547-the-council.json](./78547-the-council.json) |
 | The Council of Hanwell | 89956 | [89956-the-council-of-hanwell.json](./89956-the-council-of-hanwell.json) |
 | The Council: Episode 2 - Hide and Seek | 101116 | [101116-the-council-episode-2-hide-and-seek.json](./101116-the-council-episode-2-hide-and-seek.json) |
@@ -13169,7 +13170,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Baby | 285553 | [285553-the-little-baby.json](./285553-the-little-baby.json) |
 | The Little Ball That Could | 55231 | [55231-the-little-ball-that-could.json](./55231-the-little-ball-that-could.json) |
 | The Little Big Crisis | 217793 | [217793-the-little-big-crisis.json](./217793-the-little-big-crisis.json) |
+| The Little Black Bestiary: "A Dragon's Treasure" | 140713 | [140713-the-little-black-bestiary-a-dragons-treasure.json](./140713-the-little-black-bestiary-a-dragons-treasure.json) |
 | The Little Black Bestiary: A Midsummer Night's Barcrawl | 151498 | [151498-the-little-black-bestiary-a-midsummer-nights-barcrawl.json](./151498-the-little-black-bestiary-a-midsummer-nights-barcrawl.json) |
+| The Little Black Bestiary: A Playful Proposition | 140714 | [140714-the-little-black-bestiary-a-playful-proposition.json](./140714-the-little-black-bestiary-a-playful-proposition.json) |
 | The Little Black Bestiary: The Salted Cookies of Carthaginia | 154130 | [154130-the-little-black-bestiary-the-salted-cookies-of-carthaginia.json](./154130-the-little-black-bestiary-the-salted-cookies-of-carthaginia.json) |
 | The Little Brave | 145155 | [145155-the-little-brave.json](./145155-the-little-brave.json) |
 | The Little Cars in the Great Race | 371296 | [371296-the-little-cars-in-the-great-race.json](./371296-the-little-cars-in-the-great-race.json) |
@@ -15157,6 +15160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pizza Courier | 215733 | [215733-the-pizza-courier.json](./215733-the-pizza-courier.json) |
 | The Pizza Delivery Boy Who Saved the World | 100595 | [100595-the-pizza-delivery-boy-who-saved-the-world.json](./100595-the-pizza-delivery-boy-who-saved-the-world.json) |
 | The Pizza Situation | 140783 | [140783-the-pizza-situation.json](./140783-the-pizza-situation.json) |
+| The Place | 140708 | [140708-the-place.json](./140708-the-place.json) |
 | The Place I Called Home | 138479 | [138479-the-place-i-called-home.json](./138479-the-place-i-called-home.json) |
 | The Place of Jinn | 179292 | [179292-the-place-of-jinn.json](./179292-the-place-of-jinn.json) |
 | The Placebos | 82478 | [82478-the-placebos.json](./82478-the-placebos.json) |
@@ -16248,6 +16252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret Life of Pets: Unleashed | 58324 | [58324-the-secret-life-of-pets-unleashed.json](./58324-the-secret-life-of-pets-unleashed.json) |
 | The Secret Life of Probes Prologue | 249639 | [249639-the-secret-life-of-probes-prologue.json](./249639-the-secret-life-of-probes-prologue.json) |
 | The Secret Love Song of the Black and White Metropolis | 401003 | [401003-the-secret-love-song-of-the-black-and-white-metropolis.json](./401003-the-secret-love-song-of-the-black-and-white-metropolis.json) |
+| The Secret Monster Society: Chapter 2 - Time, Dreams and Underwater Travel | 140743 | [140743-the-secret-monster-society-chapter-2-time-dreams-and-underwater-travel.json](./140743-the-secret-monster-society-chapter-2-time-dreams-and-underwater-travel.json) |
 | The Secret of Bastow Manor | 74846 | [74846-the-secret-of-bastow-manor.json](./74846-the-secret-of-bastow-manor.json) |
 | The Secret of Cat Island | 194003 | [194003-the-secret-of-cat-island.json](./194003-the-secret-of-cat-island.json) |
 | The Secret of Chimera Labs | 91169 | [91169-the-secret-of-chimera-labs.json](./91169-the-secret-of-chimera-labs.json) |
@@ -19333,6 +19338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wizard of Id's Wiz Math | 40903 | [40903-the-wizard-of-ids-wiz-math.json](./40903-the-wizard-of-ids-wiz-math.json) |
 | The Wizard of Oz | 25781 | [25781-the-wizard-of-oz.json](./25781-the-wizard-of-oz.json) |
 | The Wizard of Oz | 77026 | [77026-the-wizard-of-oz.json](./77026-the-wizard-of-oz.json) |
+| The Wizard of Oz Magic Match | 140747 | [140747-the-wizard-of-oz-magic-match.json](./140747-the-wizard-of-oz-magic-match.json) |
 | The Wizard of Oz: Beyond the Yellow Brick Road | 21116 | [21116-the-wizard-of-oz-beyond-the-yellow-brick-road.json](./21116-the-wizard-of-oz-beyond-the-yellow-brick-road.json) |
 | The Wizard Party | 277609 | [277609-the-wizard-party.json](./277609-the-wizard-party.json) |
 | The Wizard Sniffer | 123477 | [123477-the-wizard-sniffer.json](./123477-the-wizard-sniffer.json) |
@@ -25614,6 +25620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomytronic 3D: Thundering Turbo | 218306 | [218306-tomytronic-3d-thundering-turbo.json](./218306-tomytronic-3d-thundering-turbo.json) |
 | Ton Ton Ball | 62097 | [62097-ton-ton-ball.json](./62097-ton-ton-ball.json) |
 | Tonalities | 236240 | [236240-tonalities.json](./236240-tonalities.json) |
+| Tonari ni Kanojo no Iru Shiawase: Curious Queen | 140745 | [140745-tonari-ni-kanojo-no-iru-shiawase-curious-queen.json](./140745-tonari-ni-kanojo-no-iru-shiawase-curious-queen.json) |
 | Tonari ni Kanojo no Iru Shiawase: Curious Queen - Limited Edition | 166993 | [166993-tonari-ni-kanojo-no-iru-shiawase-curious-queen-limited-edition.json](./166993-tonari-ni-kanojo-no-iru-shiawase-curious-queen-limited-edition.json) |
 | Tonari ni Kanojo no Iru Shiawase: I Fight with Summer | 219050 | [219050-tonari-ni-kanojo-no-iru-shiawase-i-fight-with-summer.json](./219050-tonari-ni-kanojo-no-iru-shiawase-i-fight-with-summer.json) |
 | Tonari ni Kanojo no Iru Shiawase: In First Snow With Her | 229437 | [229437-tonari-ni-kanojo-no-iru-shiawase-in-first-snow-with-her.json](./229437-tonari-ni-kanojo-no-iru-shiawase-in-first-snow-with-her.json) |
@@ -27396,6 +27403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Destiny | 283131 | [283131-tower-of-destiny.json](./283131-tower-of-destiny.json) |
 | Tower of Doom | 150499 | [150499-tower-of-doom.json](./150499-tower-of-doom.json) |
 | Tower of Doom VR | 310921 | [310921-tower-of-doom-vr.json](./310921-tower-of-doom-vr.json) |
+| Tower of Dragonasia | 140709 | [140709-tower-of-dragonasia.json](./140709-tower-of-dragonasia.json) |
 | Tower of Dreams | 265705 | [265705-tower-of-dreams.json](./265705-tower-of-dreams.json) |
 | Tower of Druaga: Tower of Defender | 76964 | [76964-tower-of-druaga-tower-of-defender.json](./76964-tower-of-druaga-tower-of-defender.json) |
 | Tower of Eglathia | 35702 | [35702-tower-of-eglathia.json](./35702-tower-of-eglathia.json) |
