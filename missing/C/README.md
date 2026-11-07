@@ -2281,6 +2281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Trader Simulator: Welcome to the Business | 171384 | [171384-car-trader-simulator-welcome-to-the-business.json](./171384-car-trader-simulator-welcome-to-the-business.json) |
 | Car Tuner 2020 | 129206 | [129206-car-tuner-2020.json](./129206-car-tuner-2020.json) |
 | Car Tuning Garage Simulator | 364143 | [364143-car-tuning-garage-simulator.json](./364143-car-tuning-garage-simulator.json) |
+| Car Tuning Simulator | 188160 | [188160-car-tuning-simulator.json](./188160-car-tuning-simulator.json) |
 | Car Turning Simulator | 317266 | [317266-car-turning-simulator.json](./317266-car-turning-simulator.json) |
 | Car Tycoon | 362291 | [362291-car-tycoon.json](./362291-car-tycoon.json) |
 | Car Tycoon | 71851 | [71851-car-tycoon.json](./71851-car-tycoon.json) |
@@ -14439,6 +14440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Simulator: Pizza | 299378 | [299378-cooking-simulator-pizza.json](./299378-cooking-simulator-pizza.json) |
 | Cooking Simulator: Shelter | 168935 | [168935-cooking-simulator-shelter.json](./168935-cooking-simulator-shelter.json) |
 | Cooking Simulator: Sushi | 273371 | [273371-cooking-simulator-sushi.json](./273371-cooking-simulator-sushi.json) |
+| Cooking Star Restaurant | 188200 | [188200-cooking-star-restaurant.json](./188200-cooking-star-restaurant.json) |
 | Cooking Talent - Restaurant fever | 104376 | [104376-cooking-talent-restaurant-fever.json](./104376-cooking-talent-restaurant-fever.json) |
 | Cooking Time! | 369725 | [369725-cooking-time.json](./369725-cooking-time.json) |
 | Cooking Train | 221375 | [221375-cooking-train.json](./221375-cooking-train.json) |
