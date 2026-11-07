@@ -14256,6 +14256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuzoroi no Lemon | 402552 | [402552-fuzoroi-no-lemon.json](./402552-fuzoroi-no-lemon.json) |
 | Fuzz | 240718 | [240718-fuzz.json](./240718-fuzz.json) |
 | Fuzz & Dizzy: Part-time Heroes | 348826 | [348826-fuzz-and-dizzy-part-time-heroes.json](./348826-fuzz-and-dizzy-part-time-heroes.json) |
+| Fuzz Dungeon | 151909 | [151909-fuzz-dungeon.json](./151909-fuzz-dungeon.json) |
 | Fuzz Power | 245090 | [245090-fuzz-power.json](./245090-fuzz-power.json) |
 | Fuzzball | 69573 | [69573-fuzzball.json](./69573-fuzzball.json) |
 | FuzzBall | 140938 | [140938-fuzzball.json](./140938-fuzzball.json) |
