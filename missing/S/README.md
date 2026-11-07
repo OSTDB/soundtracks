@@ -11303,6 +11303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sin & Host: The Diner | 258566 | [258566-sin-and-host-the-diner.json](./258566-sin-and-host-the-diner.json) |
 | Sin & Siege | 352149 | [352149-sin-and-siege.json](./352149-sin-and-siege.json) |
 | Sin and Love | 344830 | [344830-sin-and-love.json](./344830-sin-and-love.json) |
+| Sin Bearers Tactics | 189232 | [189232-sin-bearers-tactics.json](./189232-sin-bearers-tactics.json) |
 | Sin Breaker Rig | 238736 | [238736-sin-breaker-rig.json](./238736-sin-breaker-rig.json) |
 | Sin Cards: Welcome to the Netherworld | 337084 | [337084-sin-cards-welcome-to-the-netherworld.json](./337084-sin-cards-welcome-to-the-netherworld.json) |
 | Sin Castle | 29820 | [29820-sin-castle.json](./29820-sin-castle.json) |
@@ -13547,6 +13548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide Soldiers | 358951 | [358951-slide-soldiers.json](./358951-slide-soldiers.json) |
 | Slide Stars | 138045 | [138045-slide-stars.json](./138045-slide-stars.json) |
 | Slide Stories: Bonds & Memories | 168061 | [168061-slide-stories-bonds-and-memories.json](./168061-slide-stories-bonds-and-memories.json) |
+| Slide Stories: Bucky's Quest | 189265 | [189265-slide-stories-buckys-quest.json](./189265-slide-stories-buckys-quest.json) |
 | Slide the Shakes | 96893 | [96893-slide-the-shakes.json](./96893-slide-the-shakes.json) |
 | Slide the Signs | 234509 | [234509-slide-the-signs.json](./234509-slide-the-signs.json) |
 | Slide to finish | 111477 | [111477-slide-to-finish.json](./111477-slide-to-finish.json) |
@@ -15744,6 +15746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowtracked | 216888 | [216888-snowtracked.json](./216888-snowtracked.json) |
 | SnowTraxx | 206997 | [206997-snowtraxx.json](./206997-snowtraxx.json) |
 | Snowtrix | 301300 | [301300-snowtrix.json](./301300-snowtrix.json) |
+| SnowTunes Island | 189263 | [189263-snowtunes-island.json](./189263-snowtunes-island.json) |
 | Snowy Flag | 291444 | [291444-snowy-flag.json](./291444-snowy-flag.json) |
 | Snowy Leaps | 233436 | [233436-snowy-leaps.json](./233436-snowy-leaps.json) |
 | Snowy Love | 151458 | [151458-snowy-love.json](./151458-snowy-love.json) |
@@ -19470,6 +19473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Dogfight | 158377 | [158377-space-dogfight.json](./158377-space-dogfight.json) |
 | Space Dogo | 264628 | [264628-space-dogo.json](./264628-space-dogo.json) |
 | Space Dogs Squadron | 65337 | [65337-space-dogs-squadron.json](./65337-space-dogs-squadron.json) |
+| Space Doomer | 189261 | [189261-space-doomer.json](./189261-space-doomer.json) |
 | Space Doubt | 26420 | [26420-space-doubt.json](./26420-space-doubt.json) |
 | Space Dragon | 76285 | [76285-space-dragon.json](./76285-space-dragon.json) |
 | Space Dragon: Year of the Dragon | 279403 | [279403-space-dragon-year-of-the-dragon.json](./279403-space-dragon-year-of-the-dragon.json) |
@@ -25540,6 +25544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars and Empires: Colony Defense | 317078 | [317078-stars-and-empires-colony-defense.json](./317078-stars-and-empires-colony-defense.json) |
 | Stars and Ghosts | 90398 | [90398-stars-and-ghosts.json](./90398-stars-and-ghosts.json) |
 | Stars and Snowdrops | 115379 | [115379-stars-and-snowdrops.json](./115379-stars-and-snowdrops.json) |
+| Stars Arisen | 189260 | [189260-stars-arisen.json](./189260-stars-arisen.json) |
 | Stars Below | 177518 | [177518-stars-below.json](./177518-stars-below.json) |
 | Stars Beyond Reach | 13208 | [13208-stars-beyond-reach.json](./13208-stars-beyond-reach.json) |
 | Stars Blast | 243088 | [243088-stars-blast.json](./243088-stars-blast.json) |
