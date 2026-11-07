@@ -3541,6 +3541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Conqueror Defender | 84592 | [84592-castle-conqueror-defender.json](./84592-castle-conqueror-defender.json) |
 | Castle Conqueror EX | 84591 | [84591-castle-conqueror-ex.json](./84591-castle-conqueror-ex.json) |
 | Castle Conqueror: Revolution | 84593 | [84593-castle-conqueror-revolution.json](./84593-castle-conqueror-revolution.json) |
+| Castle Constructor | 157818 | [157818-castle-constructor.json](./157818-castle-constructor.json) |
 | Castle Corp | 280332 | [280332-castle-corp.json](./280332-castle-corp.json) |
 | Castle Craft | 250250 | [250250-castle-craft.json](./250250-castle-craft.json) |
 | Castle Craft: World War | 175031 | [175031-castle-craft-world-war.json](./175031-castle-craft-world-war.json) |
@@ -16558,6 +16559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Presents September 1990 | 73356 | [73356-crash-presents-september-1990.json](./73356-crash-presents-september-1990.json) |
 | Crash Presents: July 1989 | 325327 | [325327-crash-presents-july-1989.json](./325327-crash-presents-july-1989.json) |
 | Crash Puzzle Hammer-San | 319851 | [319851-crash-puzzle-hammer-san.json](./319851-crash-puzzle-hammer-san.json) |
+| Crash Race | 157809 | [157809-crash-race.json](./157809-crash-race.json) |
 | Crash Racing | 159556 | [159556-crash-racing.json](./159556-crash-racing.json) |
 | Crash Site | 402798 | [402798-crash-site.json](./402798-crash-site.json) |
 | Crash Tag Team Racing | 1194 | [1194-crash-tag-team-racing.json](./1194-crash-tag-team-racing.json) |
@@ -17644,6 +17646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminal Russia | 174027 | [174027-criminal-russia.json](./174027-criminal-russia.json) |
 | Criminal Stories: CSI Episode | 215394 | [215394-criminal-stories-csi-episode.json](./215394-criminal-stories-csi-episode.json) |
 | Criminal Stories: Presumed Partners | 417709 | [417709-criminal-stories-presumed-partners.json](./417709-criminal-stories-presumed-partners.json) |
+| Criminal T | 157811 | [157811-criminal-t.json](./157811-criminal-t.json) |
 | Criminalist | 320120 | [320120-criminalist.json](./320120-criminalist.json) |
 | Criminally Overdue | 179055 | [179055-criminally-overdue.json](./179055-criminally-overdue.json) |
 | Criminally Yours | 347085 | [347085-criminally-yours.json](./347085-criminally-yours.json) |
