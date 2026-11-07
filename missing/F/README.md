@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fabraz Presents Vol. 1 | 241719 | [241719-fabraz-presents-vol-1.json](./241719-fabraz-presents-vol-1.json) |
 | Fabric of Reality | 219767 | [219767-fabric-of-reality.json](./219767-fabric-of-reality.json) |
 | Fábrica de chocolate | 230652 | [230652-fabrica-de-chocolate.json](./230652-fabrica-de-chocolate.json) |
+| Fabrication | 151360 | [151360-fabrication.json](./151360-fabrication.json) |
 | Fabrika Mortis | 313373 | [313373-fabrika-mortis.json](./313373-fabrika-mortis.json) |
 | FabStyle | 185897 | [185897-fabstyle.json](./185897-fabstyle.json) |
 | Fabula Mortis | 17792 | [17792-fabula-mortis.json](./17792-fabula-mortis.json) |
@@ -5645,6 +5646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Hooman | 419785 | [419785-finding-hooman.json](./419785-finding-hooman.json) |
 | Finding Hope | 32520 | [32520-finding-hope.json](./32520-finding-hope.json) |
 | Finding Jack's Treasure | 95956 | [95956-finding-jacks-treasure.json](./95956-finding-jacks-treasure.json) |
+| Finding Kathy | 151333 | [151333-finding-kathy.json](./151333-finding-kathy.json) |
 | Finding Lake Chewaucan | 410689 | [410689-finding-lake-chewaucan.json](./410689-finding-lake-chewaucan.json) |
 | Finding Light | 110390 | [110390-finding-light.json](./110390-finding-light.json) |
 | Finding Love at the Right Place and the Right Time | 419774 | [419774-finding-love-at-the-right-place-and-the-right-time.json](./419774-finding-love-at-the-right-place-and-the-right-time.json) |
@@ -8591,6 +8593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flutterfield | 367126 | [367126-flutterfield.json](./367126-flutterfield.json) |
 | Fluttershy Piano Tiles | 202388 | [202388-fluttershy-piano-tiles.json](./202388-fluttershy-piano-tiles.json) |
 | Fluvsies: A Fluff to Luv | 227527 | [227527-fluvsies-a-fluff-to-luv.json](./227527-fluvsies-a-fluff-to-luv.json) |
+| Fluvstruck | 151372 | [151372-fluvstruck.json](./151372-fluvstruck.json) |
 | Flux | 140475 | [140475-flux.json](./140475-flux.json) |
 | Flux | 183373 | [183373-flux.json](./183373-flux.json) |
 | Flux | 202357 | [202357-flux.json](./202357-flux.json) |
