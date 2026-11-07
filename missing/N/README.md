@@ -1162,6 +1162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Navpoint | 17335 | [17335-navpoint.json](./17335-navpoint.json) |
 | Navy Blue | 48411 | [48411-navy-blue.json](./48411-navy-blue.json) |
 | Navy Blue 90 | 353629 | [353629-navy-blue-90.json](./353629-navy-blue-90.json) |
+| Navy Cats: Ship Battle | 174993 | [174993-navy-cats-ship-battle.json](./174993-navy-cats-ship-battle.json) |
 | Navy challenge | 326137 | [326137-navy-challenge.json](./326137-navy-challenge.json) |
 | Navy Commander | 85305 | [85305-navy-commander.json](./85305-navy-commander.json) |
 | Navy Field | 55462 | [55462-navy-field.json](./55462-navy-field.json) |
@@ -5226,6 +5227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Rabbit | 214491 | [214491-ninja-rabbit.json](./214491-ninja-rabbit.json) |
 | Ninja Rabbits | 15272 | [15272-ninja-rabbits.json](./15272-ninja-rabbits.json) |
 | Ninja Raiden | 181787 | [181787-ninja-raiden.json](./181787-ninja-raiden.json) |
+| Ninja Raiden Revenge | 174983 | [174983-ninja-raiden-revenge.json](./174983-ninja-raiden-revenge.json) |
 | Ninja Ranger: Shinobi Arashi Superhero's Gaiden | 141447 | [141447-ninja-ranger-shinobi-arashi-superheros-gaiden.json](./141447-ninja-ranger-shinobi-arashi-superheros-gaiden.json) |
 | Ninja Reflex | 5076 | [5076-ninja-reflex.json](./5076-ninja-reflex.json) |
 | Ninja Reflex: Steamworks Edition | 82011 | [82011-ninja-reflex-steamworks-edition.json](./82011-ninja-reflex-steamworks-edition.json) |
