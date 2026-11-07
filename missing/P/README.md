@@ -931,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paladins: Deluxe Edition | 164752 | [164752-paladins-deluxe-edition.json](./164752-paladins-deluxe-edition.json) |
 | Paladins: Feathered Fiend Pack | 263482 | [263482-paladins-feathered-fiend-pack.json](./263482-paladins-feathered-fiend-pack.json) |
 | Paladins: Founder's Pack | 104446 | [104446-paladins-founders-pack.json](./104446-paladins-founders-pack.json) |
+| Paladins: Gold Edition | 164678 | [164678-paladins-gold-edition.json](./164678-paladins-gold-edition.json) |
 | Paladins: Season 4 Champions Bundle | 263484 | [263484-paladins-season-4-champions-bundle.json](./263484-paladins-season-4-champions-bundle.json) |
 | PalaDog HD | 235148 | [235148-paladog-hd.json](./235148-paladog-hd.json) |
 | Paladog! | 198003 | [198003-paladog.json](./198003-paladog.json) |
@@ -9228,6 +9229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Coaster: Ghostbusters | 118924 | [118924-planet-coaster-ghostbusters.json](./118924-planet-coaster-ghostbusters.json) |
 | Planet Coaster: Knight Rider K.I.T.T. Construction Kit | 168239 | [168239-planet-coaster-knight-rider-k-i-t-t-construction-kit.json](./168239-planet-coaster-knight-rider-k-i-t-t-construction-kit.json) |
 | Planet Coaster: Magnificent Rides Collection | 160289 | [160289-planet-coaster-magnificent-rides-collection.json](./160289-planet-coaster-magnificent-rides-collection.json) |
+| Planet Coaster: Premium Edition | 164679 | [164679-planet-coaster-premium-edition.json](./164679-planet-coaster-premium-edition.json) |
 | Planet Coaster: Quick Draw Interactive Shooting Ride | 168241 | [168241-planet-coaster-quick-draw-interactive-shooting-ride.json](./168241-planet-coaster-quick-draw-interactive-shooting-ride.json) |
 | Planet Coaster: Spooky & Adventure Bundle | 225955 | [225955-planet-coaster-spooky-and-adventure-bundle.json](./225955-planet-coaster-spooky-and-adventure-bundle.json) |
 | Planet Coaster: Spooky Pack | 100303 | [100303-planet-coaster-spooky-pack.json](./100303-planet-coaster-spooky-pack.json) |
