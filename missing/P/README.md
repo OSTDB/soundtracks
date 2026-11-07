@@ -9452,6 +9452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetwo | 227645 | [227645-planetwo.json](./227645-planetwo.json) |
 | PlanetX | 368004 | [368004-planetx.json](./368004-planetx.json) |
 | PlaneWorld | 399758 | [399758-planeworld.json](./399758-planeworld.json) |
+| Plangman | 182597 | [182597-plangman.json](./182597-plangman.json) |
 | Planisphere | 225686 | [225686-planisphere.json](./225686-planisphere.json) |
 | Planisphere | 308430 | [308430-planisphere.json](./308430-planisphere.json) |
 | Planisphere 2 | 296197 | [296197-planisphere-2.json](./296197-planisphere-2.json) |
@@ -17443,6 +17444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin Delivery | 242234 | [242234-pumpkin-delivery.json](./242234-pumpkin-delivery.json) |
 | Pumpkin Dog Islands | 119664 | [119664-pumpkin-dog-islands.json](./119664-pumpkin-dog-islands.json) |
 | Pumpkin Dog Xtreme | 160119 | [160119-pumpkin-dog-xtreme.json](./160119-pumpkin-dog-xtreme.json) |
+| Pumpkin Eater | 182595 | [182595-pumpkin-eater.json](./182595-pumpkin-eater.json) |
 | Pumpkin Farmer | 158177 | [158177-pumpkin-farmer.json](./158177-pumpkin-farmer.json) |
 | Pumpkin Game | 272744 | [272744-pumpkin-game.json](./272744-pumpkin-game.json) |
 | Pumpkin Ghost | 272269 | [272269-pumpkin-ghost.json](./272269-pumpkin-ghost.json) |
