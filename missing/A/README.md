@@ -2841,6 +2841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acidsoul | 78753 | [78753-acidsoul.json](./78753-acidsoul.json) |
 | AcidSpider | 205970 | [205970-acidspider.json](./205970-acidspider.json) |
 | Acies: Battle Runes | 142594 | [142594-acies-battle-runes.json](./142594-acies-battle-runes.json) |
+| Aciiiiiiiiiiiiiiid | 147559 | [147559-aciiiiiiiiiiiiiiid.json](./147559-aciiiiiiiiiiiiiiid.json) |
 | Ack-Ack Attack! | 79318 | [79318-ack-ack-attack.json](./79318-ack-ack-attack.json) |
 | Ackeron | 207970 | [207970-ackeron.json](./207970-ackeron.json) |
 | Acko's Mach-Bike Race | 343701 | [343701-ackos-mach-bike-race.json](./343701-ackos-mach-bike-race.json) |
@@ -3675,6 +3676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure of Tuck | 188805 | [188805-adventure-of-tuck.json](./188805-adventure-of-tuck.json) |
 | Adventure on Lost Island: Hidden Object Game | 51100 | [51100-adventure-on-lost-island-hidden-object-game.json](./51100-adventure-on-lost-island-hidden-object-game.json) |
 | Adventure Pinball | 122227 | [122227-adventure-pinball.json](./122227-adventure-pinball.json) |
+| Adventure Pinball Bundle | 147570 | [147570-adventure-pinball-bundle.json](./147570-adventure-pinball-bundle.json) |
 | Adventure Pinball: Forgotten Island | 7549 | [7549-adventure-pinball-forgotten-island.json](./7549-adventure-pinball-forgotten-island.json) |
 | Adventure Player | 56531 | [56531-adventure-player.json](./56531-adventure-player.json) |
 | Adventure Ponies | 146120 | [146120-adventure-ponies.json](./146120-adventure-ponies.json) |
@@ -8922,6 +8924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Dots | 159063 | [159063-among-dots.json](./159063-among-dots.json) |
 | Among Gods! RPG Adventure | 216078 | [216078-among-gods-rpg-adventure.json](./216078-among-gods-rpg-adventure.json) |
 | Among Paws | 390570 | [390570-among-paws.json](./390570-among-paws.json) |
+| Among Pipes | 147585 | [147585-among-pipes.json](./147585-among-pipes.json) |
 | Among Ripples 2 | 119637 | [119637-among-ripples-2.json](./119637-among-ripples-2.json) |
 | Among Ripples: Shallow Waters | 133793 | [133793-among-ripples-shallow-waters.json](./133793-among-ripples-shallow-waters.json) |
 | Among School Girls | 165006 | [165006-among-school-girls.json](./165006-among-school-girls.json) |
@@ -10111,6 +10114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Force | 104271 | [104271-animal-force.json](./104271-animal-force.json) |
 | Animal Frenzy | 256374 | [256374-animal-frenzy.json](./256374-animal-frenzy.json) |
 | Animal Friends Adventure | 117637 | [117637-animal-friends-adventure.json](./117637-animal-friends-adventure.json) |
+| Animal Fun for Toddlers and Kids | 147587 | [147587-animal-fun-for-toddlers-and-kids.json](./147587-animal-fun-for-toddlers-and-kids.json) |
 | Animal Fun Puzzle: Preschool and kindergarten learning and fun game for toddlers and kids | 400192 | [400192-animal-fun-puzzle-preschool-and-kindergarten-learning-and-fun-game-for-toddlers-and-kids.json](./400192-animal-fun-puzzle-preschool-and-kindergarten-learning-and-fun-game-for-toddlers-and-kids.json) |
 | Animal Game | 377099 | [377099-animal-game.json](./377099-animal-game.json) |
 | Animal Games | 419587 | [419587-animal-games.json](./419587-animal-games.json) |
@@ -11814,6 +11818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apollo 18 | 13792 | [13792-apollo-18.json](./13792-apollo-18.json) |
 | Apollo 18: The Moon Missions | 69735 | [69735-apollo-18-the-moon-missions.json](./69735-apollo-18-the-moon-missions.json) |
 | Apollo Cosmic | 274341 | [274341-apollo-cosmic.json](./274341-apollo-cosmic.json) |
+| Apollo in Outer Space | 147546 | [147546-apollo-in-outer-space.json](./147546-apollo-in-outer-space.json) |
 | Apollo Justice: Ace Attorney | 1429 | [1429-apollo-justice-ace-attorney.json](./1429-apollo-justice-ace-attorney.json) |
 | Apollo Justice: Ace Attorney | 253010 | [253010-apollo-justice-ace-attorney.json](./253010-apollo-justice-ace-attorney.json) |
 | Apollo Justice: Ace Attorney - Appeal to Truth | 302595 | [302595-apollo-justice-ace-attorney-appeal-to-truth.json](./302595-apollo-justice-ace-attorney-appeal-to-truth.json) |
@@ -12866,6 +12871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Force Four | 94416 | [94416-arcade-force-four.json](./94416-arcade-force-four.json) |
 | Arcade Fruit Machine | 11908 | [11908-arcade-fruit-machine.json](./11908-arcade-fruit-machine.json) |
 | Arcade Fusion Bundle | 300764 | [300764-arcade-fusion-bundle.json](./300764-arcade-fusion-bundle.json) |
+| Arcade Fuzz | 147563 | [147563-arcade-fuzz.json](./147563-arcade-fuzz.json) |
 | Arcade Galaxy | 182311 | [182311-arcade-galaxy.json](./182311-arcade-galaxy.json) |
 | Arcade Galaxy | 346596 | [346596-arcade-galaxy.json](./346596-arcade-galaxy.json) |
 | Arcade Galaxy Builder | 263998 | [263998-arcade-galaxy-builder.json](./263998-arcade-galaxy-builder.json) |
@@ -16835,6 +16841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athena Cykes: Ace Attorney - Locks on the Heart | 306604 | [306604-athena-cykes-ace-attorney-locks-on-the-heart.json](./306604-athena-cykes-ace-attorney-locks-on-the-heart.json) |
 | Athena Cykes: Ace Attorney - Trials of time. | 305191 | [305191-athena-cykes-ace-attorney-trials-of-time.json](./305191-athena-cykes-ace-attorney-trials-of-time.json) |
 | Athena no Kateiban: Family Games | 285988 | [285988-athena-no-kateiban-family-games.json](./285988-athena-no-kateiban-family-games.json) |
+| Athena Trivia | 147540 | [147540-athena-trivia.json](./147540-athena-trivia.json) |
 | Athena, the rabbit: Jigsaw Puzzle | 162206 | [162206-athena-the-rabbit-jigsaw-puzzle.json](./162206-athena-the-rabbit-jigsaw-puzzle.json) |
 | Athena: Awakening from the Ordinary Life | 43832 | [43832-athena-awakening-from-the-ordinary-life.json](./43832-athena-awakening-from-the-ordinary-life.json) |
 | Athena: Full Throttle | 55894 | [55894-athena-full-throttle.json](./55894-athena-full-throttle.json) |
@@ -16864,6 +16871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
