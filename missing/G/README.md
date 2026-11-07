@@ -4935,6 +4935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glimpse | 235988 | [235988-glimpse.json](./235988-glimpse.json) |
 | Glimpse | 278129 | [278129-glimpse.json](./278129-glimpse.json) |
 | Glingdom | 317022 | [317022-glingdom.json](./317022-glingdom.json) |
+| Glint | 182630 | [182630-glint.json](./182630-glint.json) |
 | Glint Glitters | 304119 | [304119-glint-glitters.json](./304119-glint-glitters.json) |
 | Glint's Trial | 356156 | [356156-glints-trial.json](./356156-glints-trial.json) |
 | Glintland | 355293 | [355293-glintland.json](./355293-glintland.json) |
@@ -8152,6 +8153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandpa Joe Plays the Open | 93391 | [93391-grandpa-joe-plays-the-open.json](./93391-grandpa-joe-plays-the-open.json) |
 | Grandpa Loves Trains | 422181 | [422181-grandpa-loves-trains.json](./422181-grandpa-loves-trains.json) |
 | Grandpa Needs Fish | 407753 | [407753-grandpa-needs-fish.json](./407753-grandpa-needs-fish.json) |
+| Grandpa Pip's Birthday | 182639 | [182639-grandpa-pips-birthday.json](./182639-grandpa-pips-birthday.json) |
 | Grandpa Rally | 255730 | [255730-grandpa-rally.json](./255730-grandpa-rally.json) |
 | Grandpa: The Horror Game | 99307 | [99307-grandpa-the-horror-game.json](./99307-grandpa-the-horror-game.json) |
 | Grandpa's Cheese | 200532 | [200532-grandpas-cheese.json](./200532-grandpas-cheese.json) |
@@ -10433,6 +10435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild of Slayers | 374121 | [374121-guild-of-slayers.json](./374121-guild-of-slayers.json) |
 | Guild of the Tower | 423297 | [423297-guild-of-the-tower.json](./423297-guild-of-the-tower.json) |
 | Guild of Three | 404651 | [404651-guild-of-three.json](./404651-guild-of-three.json) |
+| Guild of Zany | 182592 | [182592-guild-of-zany.json](./182592-guild-of-zany.json) |
 | Guild Project | 153035 | [153035-guild-project.json](./153035-guild-project.json) |
 | Guild Quest | 30820 | [30820-guild-quest.json](./30820-guild-quest.json) |
 | Guild Receptionist 2: Stardust Liberate | 329239 | [329239-guild-receptionist-2-stardust-liberate.json](./329239-guild-receptionist-2-stardust-liberate.json) |
@@ -10912,6 +10915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunBlaze S | 66888 | [66888-gunblaze-s.json](./66888-gunblaze-s.json) |
 | GunBlocks | 168315 | [168315-gunblocks.json](./168315-gunblocks.json) |
 | Gunblood | 78397 | [78397-gunblood.json](./78397-gunblood.json) |
+| Gunbo | 182624 | [182624-gunbo.json](./182624-gunbo.json) |
 | Gunboat God | 305189 | [305189-gunboat-god.json](./305189-gunboat-god.json) |
 | Gunboat: River Combat Simulation | 12127 | [12127-gunboat-river-combat-simulation.json](./12127-gunboat-river-combat-simulation.json) |
 | Gunborg: Dark Matters | 151140 | [151140-gunborg-dark-matters.json](./151140-gunborg-dark-matters.json) |
