@@ -7493,6 +7493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide and Secret: Pharaoh's Quest | 88264 | [88264-hide-and-secret-pharaohs-quest.json](./88264-hide-and-secret-pharaohs-quest.json) |
 | Hide and Seek | 114212 | [114212-hide-and-seek.json](./114212-hide-and-seek.json) |
 | Hide and Seek | 131331 | [131331-hide-and-seek.json](./131331-hide-and-seek.json) |
+| Hide and Seek | 150318 | [150318-hide-and-seek.json](./150318-hide-and-seek.json) |
 | Hide and Seek | 153153 | [153153-hide-and-seek.json](./153153-hide-and-seek.json) |
 | Hide and Seek | 234520 | [234520-hide-and-seek.json](./234520-hide-and-seek.json) |
 | Hide and Seek | 245670 | [245670-hide-and-seek.json](./245670-hide-and-seek.json) |
@@ -10209,6 +10210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Adventure VR | 146651 | [146651-horror-adventure-vr.json](./146651-horror-adventure-vr.json) |
 | Horror Adventure: Zombie Edition VR | 243061 | [243061-horror-adventure-zombie-edition-vr.json](./243061-horror-adventure-zombie-edition-vr.json) |
 | Horror Amusement Park | 249213 | [249213-horror-amusement-park.json](./249213-horror-amusement-park.json) |
+| Horror Bar VR | 150325 | [150325-horror-bar-vr.json](./150325-horror-bar-vr.json) |
 | Horror Bosses - Clicker | 95818 | [95818-horror-bosses-clicker.json](./95818-horror-bosses-clicker.json) |
 | Horror Brawl | 216029 | [216029-horror-brawl.json](./216029-horror-brawl.json) |
 | Horror Break | 187751 | [187751-horror-break.json](./187751-horror-break.json) |
