@@ -4973,6 +4973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear-ly There | 134971 | [134971-bear-ly-there.json](./134971-bear-ly-there.json) |
 | Bear, Vodka, Balalaika: Cyberpunk | 168768 | [168768-bear-vodka-balalaika-cyberpunk.json](./168768-bear-vodka-balalaika-cyberpunk.json) |
 | Bear, Vodka, Fall of Berlin! | 131836 | [131836-bear-vodka-fall-of-berlin.json](./131836-bear-vodka-fall-of-berlin.json) |
+| Bear, Vodka, Stalingrad! | 182601 | [182601-bear-vodka-stalingrad.json](./182601-bear-vodka-stalingrad.json) |
 | Bear's Imagine That! | 392079 | [392079-bears-imagine-that.json](./392079-bears-imagine-that.json) |
 | Bear's Restaurant | 151754 | [151754-bears-restaurant.json](./151754-bears-restaurant.json) |
 | Bearable - Return to Candyland | 232391 | [232391-bearable-return-to-candyland.json](./232391-bearable-return-to-candyland.json) |
@@ -6645,6 +6646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berserk: The Cataclysm | 32417 | [32417-berserk-the-cataclysm.json](./32417-berserk-the-cataclysm.json) |
 | Berserker | 144185 | [144185-berserker.json](./144185-berserker.json) |
 | Berserker 2: The Saga of Hilde | 390633 | [390633-berserker-2-the-saga-of-hilde.json](./390633-berserker-2-the-saga-of-hilde.json) |
+| Berserker and Thumbnail Maker | 182606 | [182606-berserker-and-thumbnail-maker.json](./182606-berserker-and-thumbnail-maker.json) |
 | Berserker Girl | 365039 | [365039-berserker-girl.json](./365039-berserker-girl.json) |
 | Berserker Girl | 377202 | [377202-berserker-girl.json](./377202-berserker-girl.json) |
 | Berserker Onslaught | 399292 | [399292-berserker-onslaught.json](./399292-berserker-onslaught.json) |
@@ -12098,6 +12100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoBo | 14328 | [14328-bobo.json](./14328-bobo.json) |
 | Bobo and the Chest of Nightmares | 332274 | [332274-bobo-and-the-chest-of-nightmares.json](./332274-bobo-and-the-chest-of-nightmares.json) |
 | Bobo Blitz | 291434 | [291434-bobo-blitz.json](./291434-bobo-blitz.json) |
+| Bobo Gooey | 182618 | [182618-bobo-gooey.json](./182618-bobo-gooey.json) |
 | Bobo in Hell | 391980 | [391980-bobo-in-hell.json](./391980-bobo-in-hell.json) |
 | Bobo Robot | 129653 | [129653-bobo-robot.json](./129653-bobo-robot.json) |
 | Bobo the Cat | 221984 | [221984-bobo-the-cat.json](./221984-bobo-the-cat.json) |
@@ -16646,6 +16649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubbo: Adventure on Geralds Island | 391967 | [391967-bubbo-adventure-on-geralds-island.json](./391967-bubbo-adventure-on-geralds-island.json) |
 | Bubbo: The Lost Hat | 148121 | [148121-bubbo-the-lost-hat.json](./148121-bubbo-the-lost-hat.json) |
 | Bubbu School | 224077 | [224077-bubbu-school.json](./224077-bubbu-school.json) |
+| Bubbun | 182611 | [182611-bubbun.json](./182611-bubbun.json) |
 | BUBG Single on the Ground | 269039 | [269039-bubg-single-on-the-ground.json](./269039-bubg-single-on-the-ground.json) |
 | Bubli | 112717 | [112717-bubli.json](./112717-bubli.json) |
 | Buboids: The 3D Action Puzzle Game | 70937 | [70937-buboids-the-3d-action-puzzle-game.json](./70937-buboids-the-3d-action-puzzle-game.json) |
