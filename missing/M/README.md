@@ -8050,6 +8050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Snake: 16-Bit Edition | 412598 | [412598-mega-snake-16-bit-edition.json](./412598-mega-snake-16-bit-edition.json) |
 | Mega Snake: highly addictive | 232602 | [232602-mega-snake-highly-addictive.json](./232602-mega-snake-highly-addictive.json) |
 | Mega Solitaire | 209528 | [209528-mega-solitaire.json](./209528-mega-solitaire.json) |
+| Mega Solitaire Collection | 151335 | [151335-mega-solitaire-collection.json](./151335-mega-solitaire-collection.json) |
 | Mega Sports | 94333 | [94333-mega-sports.json](./94333-mega-sports.json) |
 | Mega Starforce: Return to the Great Star | 275311 | [275311-mega-starforce-return-to-the-great-star.json](./275311-mega-starforce-return-to-the-great-star.json) |
 | Mega Store | 228009 | [228009-mega-store.json](./228009-mega-store.json) |
@@ -9738,6 +9739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Combat | 209523 | [209523-metal-combat.json](./209523-metal-combat.json) |
 | Metal Combat | 359716 | [359716-metal-combat.json](./359716-metal-combat.json) |
 | Metal Combat: Falcon's Revenge | 44461 | [44461-metal-combat-falcons-revenge.json](./44461-metal-combat-falcons-revenge.json) |
+| Metal Commando | 151364 | [151364-metal-commando.json](./151364-metal-commando.json) |
 | Metal Country | 116933 | [116933-metal-country.json](./116933-metal-country.json) |
 | Metal Crisis | 368579 | [368579-metal-crisis.json](./368579-metal-crisis.json) |
 | Metal Dead | 17433 | [17433-metal-dead.json](./17433-metal-dead.json) |
