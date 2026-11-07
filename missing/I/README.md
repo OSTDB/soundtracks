@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Came Here to Win | 183197 | [183197-i-came-here-to-win.json](./183197-i-came-here-to-win.json) |
 | I Can Be a Dinosaur Finder | 85976 | [85976-i-can-be-a-dinosaur-finder.json](./85976-i-can-be-a-dinosaur-finder.json) |
 | I Can Destroy Everything!!! | 274739 | [274739-i-can-destroy-everything.json](./274739-i-can-destroy-everything.json) |
+| I Can Feel It Coming In the Air Tonight | 184021 | [184021-i-can-feel-it-coming-in-the-air-tonight.json](./184021-i-can-feel-it-coming-in-the-air-tonight.json) |
 | I Can Gun | 111502 | [111502-i-can-gun.json](./111502-i-can-gun.json) |
 | I Can Hold My Breath Forever | 139813 | [139813-i-can-hold-my-breath-forever.json](./139813-i-can-hold-my-breath-forever.json) |
 | I Can Human | 211827 | [211827-i-can-human.json](./211827-i-can-human.json) |
@@ -1690,6 +1691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Time Slime | 366787 | [366787-idle-time-slime.json](./366787-idle-time-slime.json) |
 | Idle Tiny Wizard | 212516 | [212516-idle-tiny-wizard.json](./212516-idle-tiny-wizard.json) |
 | Idle to Level 1000 | 359570 | [359570-idle-to-level-1000.json](./359570-idle-to-level-1000.json) |
+| Idle Tower Builder | 184142 | [184142-idle-tower-builder.json](./184142-idle-tower-builder.json) |
 | Idle Tower Defense | 248156 | [248156-idle-tower-defense.json](./248156-idle-tower-defense.json) |
 | Idle Tower Defense | 318454 | [318454-idle-tower-defense.json](./318454-idle-tower-defense.json) |
 | Idle Tower Tycoon | 101522 | [101522-idle-tower-tycoon.json](./101522-idle-tower-tycoon.json) |
@@ -3880,7 +3882,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
