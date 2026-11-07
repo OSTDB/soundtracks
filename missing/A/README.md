@@ -5206,6 +5206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aice | 369793 | [369793-aice.json](./369793-aice.json) |
 | Aichi Emperors Zero | 176672 | [176672-aichi-emperors-zero.json](./176672-aichi-emperors-zero.json) |
 | Aicomi | 396955 | [396955-aicomi.json](./396955-aicomi.json) |
+| Aida | 156808 | [156808-aida.json](./156808-aida.json) |
 | Aida: The Beginning of the Story | 139623 | [139623-aida-the-beginning-of-the-story.json](./139623-aida-the-beginning-of-the-story.json) |
 | Aida's Bizarre Halloween | 216348 | [216348-aidas-bizarre-halloween.json](./216348-aidas-bizarre-halloween.json) |
 | Aidan in Danger | 296281 | [296281-aidan-in-danger.json](./296281-aidan-in-danger.json) |
@@ -13014,6 +13015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcana Outcasts | 273613 | [273613-arcana-outcasts.json](./273613-arcana-outcasts.json) |
 | Arcana Ritter | 91422 | [91422-arcana-ritter.json](./91422-arcana-ritter.json) |
 | Arcana Roma | 362930 | [362930-arcana-roma.json](./362930-arcana-roma.json) |
+| Arcana Sands of Destiny | 156792 | [156792-arcana-sands-of-destiny.json](./156792-arcana-sands-of-destiny.json) |
 | Arcana Strikes | 45428 | [45428-arcana-strikes.json](./45428-arcana-strikes.json) |
 | Arcana Tactics | 130694 | [130694-arcana-tactics.json](./130694-arcana-tactics.json) |
 | Arcana: Boundless Horizon | 220306 | [220306-arcana-boundless-horizon.json](./220306-arcana-boundless-horizon.json) |
@@ -18575,6 +18577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azur Lane: Crosswave - Sirius | 167986 | [167986-azur-lane-crosswave-sirius.json](./167986-azur-lane-crosswave-sirius.json) |
 | Azur Lane: Crosswave - Taihou | 167987 | [167987-azur-lane-crosswave-taihou.json](./167987-azur-lane-crosswave-taihou.json) |
 | Azur Promilia | 292809 | [292809-azur-promilia.json](./292809-azur-promilia.json) |
+| Azur Ring: Virgin and Slave's Phylacteries | 156784 | [156784-azur-ring-virgin-and-slaves-phylacteries.json](./156784-azur-ring-virgin-and-slaves-phylacteries.json) |
 | Azura | 74218 | [74218-azura.json](./74218-azura.json) |
 | Azura's Crystals | 318352 | [318352-azuras-crystals.json](./318352-azuras-crystals.json) |
 | Azurael's Circle: Chapter 1 | 107764 | [107764-azuraels-circle-chapter-1.json](./107764-azuraels-circle-chapter-1.json) |
