@@ -4177,6 +4177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redd's Runaway | 149321 | [149321-redds-runaway.json](./149321-redds-runaway.json) |
 | Redden | 83576 | [83576-redden.json](./83576-redden.json) |
 | Redden: 100denarii | 192064 | [192064-redden-100denarii.json](./192064-redden-100denarii.json) |
+| Redder | 165231 | [165231-redder.json](./165231-redder.json) |
 | Reddie and the Redirected Walker: Module 01 - Alpha | 267261 | [267261-reddie-and-the-redirected-walker-module-01-alpha.json](./267261-reddie-and-the-redirected-walker-module-01-alpha.json) |
 | Reddish | 212023 | [212023-reddish.json](./212023-reddish.json) |
 | Reddoor | 213205 | [213205-reddoor.json](./213205-reddoor.json) |
@@ -9020,6 +9021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Carnage | 122852 | [122852-robot-carnage.json](./122852-robot-carnage.json) |
 | Robot Chariot Battle | 186504 | [186504-robot-chariot-battle.json](./186504-robot-chariot-battle.json) |
 | Robot Chase | 106149 | [106149-robot-chase.json](./106149-robot-chase.json) |
+| Robot City | 165250 | [165250-robot-city.json](./165250-robot-city.json) |
 | Robot City | 47287 | [47287-robot-city.json](./47287-robot-city.json) |
 | Robot City Stadium | 30528 | [30528-robot-city-stadium.json](./30528-robot-city-stadium.json) |
 | Robot Clash Run | 233113 | [233113-robot-clash-run.json](./233113-robot-clash-run.json) |
