@@ -224,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wailing Guignol | 196483 | [196483-wailing-guignol.json](./196483-wailing-guignol.json) |
 | Wailing Heights | 18969 | [18969-wailing-heights.json](./18969-wailing-heights.json) |
 | Wailing Heights: Deluxe Edition | 53881 | [53881-wailing-heights-deluxe-edition.json](./53881-wailing-heights-deluxe-edition.json) |
+| Wails For Freedom | 183107 | [183107-wails-for-freedom.json](./183107-wails-for-freedom.json) |
 | Waimanu: Grinding Block Adventure | 123628 | [123628-waimanu-grinding-block-adventure.json](./123628-waimanu-grinding-block-adventure.json) |
 | Wait and See! | 247272 | [247272-wait-and-see.json](./247272-wait-and-see.json) |
 | Wait For It | 184238 | [184238-wait-for-it.json](./184238-wait-for-it.json) |
@@ -5595,6 +5596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WinAgrams | 83440 | [83440-winagrams.json](./83440-winagrams.json) |
 | WinBack 2: Project Poseidon | 6234 | [6234-winback-2-project-poseidon.json](./6234-winback-2-project-poseidon.json) |
 | WinBack: Covert Operations | 47680 | [47680-winback-covert-operations.json](./47680-winback-covert-operations.json) |
+| WinBrick 2000 | 183130 | [183130-winbrick-2000.json](./183130-winbrick-2000.json) |
 | Wincars Racer | 33292 | [33292-wincars-racer.json](./33292-wincars-racer.json) |
 | Winch it Out | 300387 | [300387-winch-it-out.json](./300387-winch-it-out.json) |
 | Winchester | 233335 | [233335-winchester.json](./233335-winchester.json) |
