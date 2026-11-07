@@ -2651,6 +2651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Forces: WWII - Desert Rats | 23470 | [23470-elite-forces-wwii-desert-rats.json](./23470-elite-forces-wwii-desert-rats.json) |
 | Elite Forces: WWII Normandy | 71273 | [71273-elite-forces-wwii-normandy.json](./71273-elite-forces-wwii-normandy.json) |
 | Elite Hacker: Retro Hacking Evolution | 316569 | [316569-elite-hacker-retro-hacking-evolution.json](./316569-elite-hacker-retro-hacking-evolution.json) |
+| Elite Mastermind | 175500 | [175500-elite-mastermind.json](./175500-elite-mastermind.json) |
 | Elite Plus | 100209 | [100209-elite-plus.json](./100209-elite-plus.json) |
 | Elite Rogue | 258044 | [258044-elite-rogue.json](./258044-elite-rogue.json) |
 | Elite Shooter: Sniper Killer | 175696 | [175696-elite-shooter-sniper-killer.json](./175696-elite-shooter-sniper-killer.json) |
@@ -2939,6 +2940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ember Storia | 323334 | [323334-ember-storia.json](./323334-ember-storia.json) |
 | Ember Strike: The Battle for Willow Lane | 80203 | [80203-ember-strike-the-battle-for-willow-lane.json](./80203-ember-strike-the-battle-for-willow-lane.json) |
 | Ember the Werefox | 264696 | [264696-ember-the-werefox.json](./264696-ember-the-werefox.json) |
+| Ember: Console Edition | 175498 | [175498-ember-console-edition.json](./175498-ember-console-edition.json) |
 | Ember: Reignition | 257232 | [257232-ember-reignition.json](./257232-ember-reignition.json) |
 | Ember's Love | 224310 | [224310-embers-love.json](./224310-embers-love.json) |
 | Ember's Verge | 324303 | [324303-embers-verge.json](./324303-embers-verge.json) |
@@ -4623,6 +4625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epicure | 133363 | [133363-epicure.json](./133363-epicure.json) |
 | Epicurean | 397261 | [397261-epicurean.json](./397261-epicurean.json) |
 | Epicus Royale | 262756 | [262756-epicus-royale.json](./262756-epicus-royale.json) |
+| EpicWin | 175469 | [175469-epicwin.json](./175469-epicwin.json) |
 | Epidemic | 170689 | [170689-epidemic.json](./170689-epidemic.json) |
 | Epidemic | 174009 | [174009-epidemic.json](./174009-epidemic.json) |
 | Epidemic | 20299 | [20299-epidemic.json](./20299-epidemic.json) |
