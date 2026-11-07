@@ -1430,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Studio Tycoon 3 | 102628 | [102628-game-studio-tycoon-3.json](./102628-game-studio-tycoon-3.json) |
 | Game Tech Simulator | 359153 | [359153-game-tech-simulator.json](./359153-game-tech-simulator.json) |
 | Game Tengoku CruisinMix Special: Clarice | 155341 | [155341-game-tengoku-cruisinmix-special-clarice.json](./155341-game-tengoku-cruisinmix-special-clarice.json) |
+| Game Tengoku CruisinMix Special: Homura Banto | 172287 | [172287-game-tengoku-cruisinmix-special-homura-banto.json](./172287-game-tengoku-cruisinmix-special-homura-banto.json) |
 | Game Tengoku: Cruisin Mix | 52187 | [52187-game-tengoku-cruisin-mix.json](./52187-game-tengoku-cruisin-mix.json) |
 | Game Tengoku: Cruisin Mix Special - Gokuraku Box | 167054 | [167054-game-tengoku-cruisin-mix-special-gokuraku-box.json](./167054-game-tengoku-cruisin-mix-special-gokuraku-box.json) |
 | Game Tester Quest | 283308 | [283308-game-tester-quest.json](./283308-game-tester-quest.json) |
@@ -6200,6 +6201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods of the Arena Dungeon | 295852 | [295852-gods-of-the-arena-dungeon.json](./295852-gods-of-the-arena-dungeon.json) |
 | Gods of the Fallen Land | 51413 | [51413-gods-of-the-fallen-land.json](./51413-gods-of-the-fallen-land.json) |
 | Gods of the Grid | 414265 | [414265-gods-of-the-grid.json](./414265-gods-of-the-grid.json) |
+| Gods of the Twilight | 172291 | [172291-gods-of-the-twilight.json](./172291-gods-of-the-twilight.json) |
 | Gods of Zushin | 137823 | [137823-gods-of-zushin.json](./137823-gods-of-zushin.json) |
 | Gods Play Dice | 409766 | [409766-gods-play-dice.json](./409766-gods-play-dice.json) |
 | Gods Raid | 286905 | [286905-gods-raid.json](./286905-gods-raid.json) |
@@ -6467,6 +6469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Rush Clicker | 264658 | [264658-gold-rush-clicker.json](./264658-gold-rush-clicker.json) |
 | Gold Rush in the Oort Cloud | 44298 | [44298-gold-rush-in-the-oort-cloud.json](./44298-gold-rush-in-the-oort-cloud.json) |
 | Gold Rush Ventures | 398099 | [398099-gold-rush-ventures.json](./398099-gold-rush-ventures.json) |
+| Gold Rush: The Game - Frankenstein Machinery | 172293 | [172293-gold-rush-the-game-frankenstein-machinery.json](./172293-gold-rush-the-game-frankenstein-machinery.json) |
 | Gold Rush: Treasure Hunt | 177112 | [177112-gold-rush-treasure-hunt.json](./177112-gold-rush-treasure-hunt.json) |
 | Gold Rush! | 12121 | [12121-gold-rush.json](./12121-gold-rush.json) |
 | Gold Rush! 2 | 29091 | [29091-gold-rush-2.json](./29091-gold-rush-2.json) |
@@ -9148,6 +9151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grepolis | 62922 | [62922-grepolis.json](./62922-grepolis.json) |
 | Grepr | 185556 | [185556-grepr.json](./185556-grepr.json) |
 | Greta Sees Ghosts! | 348348 | [348348-greta-sees-ghosts.json](./348348-greta-sees-ghosts.json) |
+| Gretchen: Queen of Crows | 172284 | [172284-gretchen-queen-of-crows.json](./172284-gretchen-queen-of-crows.json) |
 | Gretel & Hansel | 322677 | [322677-gretel-and-hansel.json](./322677-gretel-and-hansel.json) |
 | Gretel & Hansel | 383030 | [383030-gretel-and-hansel.json](./383030-gretel-and-hansel.json) |
 | Gretel & Hansel 2 | 98576 | [98576-gretel-and-hansel-2.json](./98576-gretel-and-hansel-2.json) |
