@@ -6246,6 +6246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods: Lands of Infinity - Special Edition | 54054 | [54054-gods-lands-of-infinity-special-edition.json](./54054-gods-lands-of-infinity-special-edition.json) |
 | Gods' Margarita | 197368 | [197368-gods-margarita.json](./197368-gods-margarita.json) |
 | GodsArena Online | 368541 | [368541-godsarena-online.json](./368541-godsarena-online.json) |
+| Godsbane | 150332 | [150332-godsbane.json](./150332-godsbane.json) |
 | Godsbane Idle | 202670 | [202670-godsbane-idle.json](./202670-godsbane-idle.json) |
 | Godscale | 378349 | [378349-godscale.json](./378349-godscale.json) |
 | Godscyld | 197177 | [197177-godscyld.json](./197177-godscyld.json) |
