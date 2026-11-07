@@ -14338,6 +14338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Girls Game Collection 2 | 214880 | [214880-pretty-girls-game-collection-2.json](./214880-pretty-girls-game-collection-2.json) |
 | Pretty Girls Game Collection 3 | 241714 | [241714-pretty-girls-game-collection-3.json](./241714-pretty-girls-game-collection-3.json) |
 | Pretty Girls Game Collection 4 | 342770 | [342770-pretty-girls-game-collection-4.json](./342770-pretty-girls-game-collection-4.json) |
+| Pretty Girls Klondike Solitaire | 150297 | [150297-pretty-girls-klondike-solitaire.json](./150297-pretty-girls-klondike-solitaire.json) |
 | Pretty Girls Mahjong Solitaire | 34716 | [34716-pretty-girls-mahjong-solitaire.json](./34716-pretty-girls-mahjong-solitaire.json) |
 | Pretty Girls Mahjong Solitaire: Blue | 170376 | [170376-pretty-girls-mahjong-solitaire-blue.json](./170376-pretty-girls-mahjong-solitaire-blue.json) |
 | Pretty Girls Mahjong Solitaire: Green | 168067 | [168067-pretty-girls-mahjong-solitaire-green.json](./168067-pretty-girls-mahjong-solitaire-green.json) |
