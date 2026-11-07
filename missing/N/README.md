@@ -7696,6 +7696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuns With Guns | 115642 | [115642-nuns-with-guns.json](./115642-nuns-with-guns.json) |
 | Nunya | 323414 | [323414-nunya.json](./323414-nunya.json) |
 | NuPa | 106285 | [106285-nupa.json](./106285-nupa.json) |
+| Nura's Wish | 165275 | [165275-nuras-wish.json](./165275-nuras-wish.json) |
 | Nurarihyon no Mago: Hyakki Ryouran Taisen | 47426 | [47426-nurarihyon-no-mago-hyakki-ryouran-taisen.json](./47426-nurarihyon-no-mago-hyakki-ryouran-taisen.json) |
 | Nurbits | 41902 | [41902-nurbits.json](./41902-nurbits.json) |
 | Nurburgring-1 | 238207 | [238207-nurburgring-1.json](./238207-nurburgring-1.json) |
