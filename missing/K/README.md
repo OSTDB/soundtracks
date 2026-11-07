@@ -5966,6 +5966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kubikon 3D: Cyberpunk DLC | 372551 | [372551-kubikon-3d-cyberpunk-dlc.json](./372551-kubikon-3d-cyberpunk-dlc.json) |
 | Kubikon 3D: Pirates DLC | 372550 | [372550-kubikon-3d-pirates-dlc.json](./372550-kubikon-3d-pirates-dlc.json) |
 | Kubikon 3D: Warehouse DLC | 372552 | [372552-kubikon-3d-warehouse-dlc.json](./372552-kubikon-3d-warehouse-dlc.json) |
+| Kubinashi Recollection | 186955 | [186955-kubinashi-recollection.json](./186955-kubinashi-recollection.json) |
 | Kubitori Dolls: Retriever - Shimazu Kaidan 01 | 328312 | [328312-kubitori-dolls-retriever-shimazu-kaidan-01.json](./328312-kubitori-dolls-retriever-shimazu-kaidan-01.json) |
 | Kubitori Sarasa | 314803 | [314803-kubitori-sarasa.json](./314803-kubitori-sarasa.json) |
 | Kubits Gallery | 296690 | [296690-kubits-gallery.json](./296690-kubits-gallery.json) |
@@ -6034,6 +6035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuma Story | 170046 | [170046-kuma-story.json](./170046-kuma-story.json) |
 | Kuma Sushi Bar | 200745 | [200745-kuma-sushi-bar.json](./200745-kuma-sushi-bar.json) |
 | Kuma Uta | 70220 | [70220-kuma-uta.json](./70220-kuma-uta.json) |
+| Kuma: The Environmental Protector | 186981 | [186981-kuma-the-environmental-protector.json](./186981-kuma-the-environmental-protector.json) |
 | Kuma\War | 23563 | [23563-kuma-war.json](./23563-kuma-war.json) |
 | Kumacure | 118609 | [118609-kumacure.json](./118609-kumacure.json) |
 | Kumakichi & Nyanzou Birth Destruction God DX | 336432 | [336432-kumakichi-and-nyanzou-birth-destruction-god-dx.json](./336432-kumakichi-and-nyanzou-birth-destruction-god-dx.json) |
