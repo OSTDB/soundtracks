@@ -26052,6 +26052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torch Cave 3 | 43542 | [43542-torch-cave-3.json](./43542-torch-cave-3.json) |
 | Torch Keeper | 399177 | [399177-torch-keeper.json](./399177-torch-keeper.json) |
 | Torch of Shadows | 374074 | [374074-torch-of-shadows.json](./374074-torch-of-shadows.json) |
+| Torchance 6 | 151362 | [151362-torchance-6.json](./151362-torchance-6.json) |
 | Torchbear | 341898 | [341898-torchbear.json](./341898-torchbear.json) |
 | Torched | 370799 | [370799-torched.json](./370799-torched.json) |
 | Torcher: Arsonist of Evil | 260838 | [260838-torcher-arsonist-of-evil.json](./260838-torcher-arsonist-of-evil.json) |
@@ -33840,6 +33841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Kingdoms | 122585 | [122585-two-kingdoms.json](./122585-two-kingdoms.json) |
 | Two Kiss with Two Men | 303272 | [303272-two-kiss-with-two-men.json](./303272-two-kiss-with-two-men.json) |
 | Two Lane | 270776 | [270776-two-lane.json](./270776-two-lane.json) |
+| Two Legs | 151368 | [151368-two-legs.json](./151368-two-legs.json) |
 | Two Little Ghosts of that House: The Missing Toy | 319340 | [319340-two-little-ghosts-of-that-house-the-missing-toy.json](./319340-two-little-ghosts-of-that-house-the-missing-toy.json) |
 | Two Love | 128240 | [128240-two-love.json](./128240-two-love.json) |
 | Two Men Go On A Date And Don't Fall In Love | 330367 | [330367-two-men-go-on-a-date-and-dont-fall-in-love.json](./330367-two-men-go-on-a-date-and-dont-fall-in-love.json) |
