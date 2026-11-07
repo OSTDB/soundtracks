@@ -4226,6 +4226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seaman Count | 79662 | [79662-seaman-count.json](./79662-seaman-count.json) |
 | Seamongrel | 342269 | [342269-seamongrel.json](./342269-seamongrel.json) |
 | Seamspace: Minesweeper | 363359 | [363359-seamspace-minesweeper.json](./363359-seamspace-minesweeper.json) |
+| Sean World | 180368 | [180368-sean-world.json](./180368-sean-world.json) |
 | Seance | 156198 | [156198-seance.json](./156198-seance.json) |
 | Seance | 343733 | [343733-seance.json](./343733-seance.json) |
 | Seance | 358955 | [358955-seance.json](./358955-seance.json) |
@@ -15671,6 +15672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowDropRock | 249529 | [249529-snowdroprock.json](./249529-snowdroprock.json) |
 | Snowed In | 421605 | [421605-snowed-in.json](./421605-snowed-in.json) |
 | Snower's New Clothes | 116923 | [116923-snowers-new-clothes.json](./116923-snowers-new-clothes.json) |
+| Snowfall | 180386 | [180386-snowfall.json](./180386-snowfall.json) |
 | Snowfall | 303208 | [303208-snowfall.json](./303208-snowfall.json) |
 | SnowFall | 81929 | [81929-snowfall.json](./81929-snowfall.json) |
 | Snowfall Symphony: A Tale of Crustallus | 311619 | [311619-snowfall-symphony-a-tale-of-crustallus.json](./311619-snowfall-symphony-a-tale-of-crustallus.json) |
@@ -16867,6 +16869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solo Flight | 289550 | [289550-solo-flight.json](./289550-solo-flight.json) |
 | Solo Fox | 143369 | [143369-solo-fox.json](./143369-solo-fox.json) |
 | Solo Hunt: Ten Floor | 247926 | [247926-solo-hunt-ten-floor.json](./247926-solo-hunt-ten-floor.json) |
+| Solo Inferno | 180343 | [180343-solo-inferno.json](./180343-solo-inferno.json) |
 | Solo Joe | 253684 | [253684-solo-joe.json](./253684-solo-joe.json) |
 | Solo King: Single Player - Texas Hold'em Poker | 130130 | [130130-solo-king-single-player-texas-holdem-poker.json](./130130-solo-king-single-player-texas-holdem-poker.json) |
 | Solo Leveling: Arise | 188574 | [188574-solo-leveling-arise.json](./188574-solo-leveling-arise.json) |
@@ -19741,7 +19744,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -34341,6 +34343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Fort | 233416 | [233416-survival-fort.json](./233416-survival-fort.json) |
 | Survival Frenzy | 116733 | [116733-survival-frenzy.json](./116733-survival-frenzy.json) |
 | Survival Game Master | 212477 | [212477-survival-game-master.json](./212477-survival-game-master.json) |
+| Survival Games | 180378 | [180378-survival-games.json](./180378-survival-games.json) |
 | Survival Games | 402335 | [402335-survival-games.json](./402335-survival-games.json) |
 | Survival Gladiator: Blades of the Coliseum | 322978 | [322978-survival-gladiator-blades-of-the-coliseum.json](./322978-survival-gladiator-blades-of-the-coliseum.json) |
 | Survival Guide 2 | 282160 | [282160-survival-guide-2.json](./282160-survival-guide-2.json) |
