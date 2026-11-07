@@ -2932,6 +2932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mana's Manual | 248884 | [248884-manas-manual.json](./248884-manas-manual.json) |
 | Manabi Get! | 222205 | [222205-manabi-get.json](./222205-manabi-get.json) |
 | Manacaster | 334054 | [334054-manacaster.json](./334054-manacaster.json) |
+| Manacircle | 192501 | [192501-manacircle.json](./192501-manacircle.json) |
 | Manacle | 238453 | [238453-manacle.json](./238453-manacle.json) |
 | Manaclysm | 258388 | [258388-manaclysm.json](./258388-manaclysm.json) |
 | ManaCollect | 11572 | [11572-manacollect.json](./11572-manacollect.json) |
@@ -7029,6 +7030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Dynasty: The Backwood | 415188 | [415188-medieval-dynasty-the-backwood.json](./415188-medieval-dynasty-the-backwood.json) |
 | Medieval Engineers: Deluxe Edition | 54216 | [54216-medieval-engineers-deluxe-edition.json](./54216-medieval-engineers-deluxe-edition.json) |
 | Medieval Escape 2 | 397066 | [397066-medieval-escape-2.json](./397066-medieval-escape-2.json) |
+| Medieval Fantasy Survival Simulator | 192525 | [192525-medieval-fantasy-survival-simulator.json](./192525-medieval-fantasy-survival-simulator.json) |
 | Medieval Fantasy Survival Simulator 2: Gladiator Edition | 237465 | [237465-medieval-fantasy-survival-simulator-2-gladiator-edition.json](./237465-medieval-fantasy-survival-simulator-2-gladiator-edition.json) |
 | Medieval Fantasy: Jigsaw Puzzle | 313148 | [313148-medieval-fantasy-jigsaw-puzzle.json](./313148-medieval-fantasy-jigsaw-puzzle.json) |
 | Medieval Fantasy: Jigsaw Puzzle - Eerie Darkness | 314889 | [314889-medieval-fantasy-jigsaw-puzzle-eerie-darkness.json](./314889-medieval-fantasy-jigsaw-puzzle-eerie-darkness.json) |
@@ -10416,6 +10418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miami Paradise | 378485 | [378485-miami-paradise.json](./378485-miami-paradise.json) |
 | Miami Resort | 115503 | [115503-miami-resort.json](./115503-miami-resort.json) |
 | Miami Shark | 234942 | [234942-miami-shark.json](./234942-miami-shark.json) |
+| Miami Sunset Drive | 192492 | [192492-miami-sunset-drive.json](./192492-miami-sunset-drive.json) |
 | Miami Vice | 272177 | [272177-miami-vice.json](./272177-miami-vice.json) |
 | Miami Vice | 28703 | [28703-miami-vice.json](./28703-miami-vice.json) |
 | Miami Vice | 77244 | [77244-miami-vice.json](./77244-miami-vice.json) |
@@ -18261,6 +18264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moves | 129081 | [129081-moves.json](./129081-moves.json) |
 | Moves Away | 303794 | [303794-moves-away.json](./303794-moves-away.json) |
 | Moves Of The Diamond Hand | 332304 | [332304-moves-of-the-diamond-hand.json](./332304-moves-of-the-diamond-hand.json) |
+| MoveUp | 192514 | [192514-moveup.json](./192514-moveup.json) |
 | Movidle | 414252 | [414252-movidle.json](./414252-movidle.json) |
 | Movie | 26421 | [26421-movie.json](./26421-movie.json) |
 | Movie Actor Trivia | 250864 | [250864-movie-actor-trivia.json](./250864-movie-actor-trivia.json) |
