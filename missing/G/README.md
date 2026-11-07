@@ -9482,6 +9482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimhook | 277334 | [277334-grimhook.json](./277334-grimhook.json) |
 | Grimhunt | 201446 | [201446-grimhunt.json](./201446-grimhunt.json) |
 | Grimind | 8950 | [8950-grimind.json](./8950-grimind.json) |
+| Grimistar: Once more with feeling | 183691 | [183691-grimistar-once-more-with-feeling.json](./183691-grimistar-once-more-with-feeling.json) |
 | GrimKeep | 339144 | [339144-grimkeep.json](./339144-grimkeep.json) |
 | Grimland | 202513 | [202513-grimland.json](./202513-grimland.json) |
 | Grimlands | 65048 | [65048-grimlands.json](./65048-grimlands.json) |
@@ -10559,6 +10560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear: Strive - Additional Character 18 - Jam Kuradoberi | 410656 | [410656-guilty-gear-strive-additional-character-18-jam-kuradoberi.json](./410656-guilty-gear-strive-additional-character-18-jam-kuradoberi.json) |
 | Guilty Gear: Strive - Additional Character 19 - Robo-Ky | 410659 | [410659-guilty-gear-strive-additional-character-19-robo-ky.json](./410659-guilty-gear-strive-additional-character-19-robo-ky.json) |
 | Guilty Gear: Strive - Additional Character 2: Jack-O' | 166147 | [166147-guilty-gear-strive-additional-character-2-jack-o.json](./166147-guilty-gear-strive-additional-character-2-jack-o.json) |
+| Guilty Gear: Strive - Additional Character 3: Happy Chaos | 183646 | [183646-guilty-gear-strive-additional-character-3-happy-chaos.json](./183646-guilty-gear-strive-additional-character-3-happy-chaos.json) |
 | Guilty Gear: Strive - Additional Character 4: Baiken | 215017 | [215017-guilty-gear-strive-additional-character-4-baiken.json](./215017-guilty-gear-strive-additional-character-4-baiken.json) |
 | Guilty Gear: Strive - Additional Character 5: Testament | 215018 | [215018-guilty-gear-strive-additional-character-5-testament.json](./215018-guilty-gear-strive-additional-character-5-testament.json) |
 | Guilty Gear: Strive - Additional Character 6: Bridget | 213005 | [213005-guilty-gear-strive-additional-character-6-bridget.json](./213005-guilty-gear-strive-additional-character-6-bridget.json) |
