@@ -2967,6 +2967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled Prologue | 68417 | [68417-untitled-prologue.json](./68417-untitled-prologue.json) |
 | Untitled Racing Game | 219063 | [219063-untitled-racing-game.json](./219063-untitled-racing-game.json) |
 | Untitled Ragdoll Game | 223889 | [223889-untitled-ragdoll-game.json](./223889-untitled-ragdoll-game.json) |
+| Untitled Rage Game | 178142 | [178142-untitled-rage-game.json](./178142-untitled-rage-game.json) |
 | Untitled Rhythm Puzzle Game | 143011 | [143011-untitled-rhythm-puzzle-game.json](./143011-untitled-rhythm-puzzle-game.json) |
 | Untitled Risk of Rain Fighting Game | 307395 | [307395-untitled-risk-of-rain-fighting-game.json](./307395-untitled-risk-of-rain-fighting-game.json) |
 | Untitled Roguelike | 202048 | [202048-untitled-roguelike.json](./202048-untitled-roguelike.json) |
