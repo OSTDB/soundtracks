@@ -9248,6 +9248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homecoming | 179386 | [179386-homecoming.json](./179386-homecoming.json) |
 | Homecoming | 271314 | [271314-homecoming.json](./271314-homecoming.json) |
 | Homecoming: Kitaku | 323708 | [323708-homecoming-kitaku.json](./323708-homecoming-kitaku.json) |
+| Homecoming: Morenatsu Revisited | 191349 | [191349-homecoming-morenatsu-revisited.json](./191349-homecoming-morenatsu-revisited.json) |
 | Homecoming: My Monster-Hunter Girlfriend | 270609 | [270609-homecoming-my-monster-hunter-girlfriend.json](./270609-homecoming-my-monster-hunter-girlfriend.json) |
 | Homefront | 1885 | [1885-homefront.json](./1885-homefront.json) |
 | Homefront: The Revolution | 1886 | [1886-homefront-the-revolution.json](./1886-homefront-the-revolution.json) |
