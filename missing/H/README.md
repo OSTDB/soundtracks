@@ -1227,6 +1227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanabi: Hana Type B | 409869 | [409869-hanabi-hana-type-b.json](./409869-hanabi-hana-type-b.json) |
 | Hanabira Ep1: When the Petals Fade Away | 387114 | [387114-hanabira-ep1-when-the-petals-fade-away.json](./387114-hanabira-ep1-when-the-petals-fade-away.json) |
 | Hanaby the Witch | 121289 | [121289-hanaby-the-witch.json](./121289-hanaby-the-witch.json) |
+| Hanaby's Summer Festival | 158815 | [158815-hanabys-summer-festival.json](./158815-hanabys-summer-festival.json) |
 | Hanafuda | 425188 | [425188-hanafuda.json](./425188-hanafuda.json) |
 | Hanafuda Graffiti: KoiKoi Monogatari | 123292 | [123292-hanafuda-graffiti-koikoi-monogatari.json](./123292-hanafuda-graffiti-koikoi-monogatari.json) |
 | Hanafuda Koi-koi Dojo | 322565 | [322565-hanafuda-koi-koi-dojo.json](./322565-hanafuda-koi-koi-dojo.json) |
@@ -1640,6 +1641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Girls | 338263 | [338263-happy-girls.json](./338263-happy-girls.json) |
 | Happy Glass | 108236 | [108236-happy-glass.json](./108236-happy-glass.json) |
 | Happy Grumps | 121000 | [121000-happy-grumps.json](./121000-happy-grumps.json) |
+| Happy Guy | 158816 | [158816-happy-guy.json](./158816-happy-guy.json) |
 | Happy Hacker | 78244 | [78244-happy-hacker.json](./78244-happy-hacker.json) |
 | Happy Halloween | 158604 | [158604-happy-halloween.json](./158604-happy-halloween.json) |
 | Happy Hammerin' | 50708 | [50708-happy-hammerin.json](./50708-happy-hammerin.json) |
@@ -4957,6 +4959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Cute Pazzle | 301674 | [301674-hentai-cute-pazzle.json](./301674-hentai-cute-pazzle.json) |
 | Hentai Cyber | 368099 | [368099-hentai-cyber.json](./368099-hentai-cyber.json) |
 | Hentai CyberGirl | 236134 | [236134-hentai-cybergirl.json](./236134-hentai-cybergirl.json) |
+| Hentai Cyberpunk | 158812 | [158812-hentai-cyberpunk.json](./158812-hentai-cyberpunk.json) |
 | Hentai Cyberpunk Sci-Fi | 365421 | [365421-hentai-cyberpunk-sci-fi.json](./365421-hentai-cyberpunk-sci-fi.json) |
 | Hentai Dance | 365422 | [365422-hentai-dance.json](./365422-hentai-dance.json) |
 | Hentai DarkElf | 224978 | [224978-hentai-darkelf.json](./224978-hentai-darkelf.json) |
