@@ -11662,6 +11662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miku Legends 2 | 328207 | [328207-miku-legends-2.json](./328207-miku-legends-2.json) |
 | Miku Miku Hockey | 62780 | [62780-miku-miku-hockey.json](./62780-miku-miku-hockey.json) |
 | Miku Miku Hockey 2.0 | 365125 | [365125-miku-miku-hockey-2-0.json](./365125-miku-miku-hockey-2-0.json) |
+| Miku no 2048 | 185743 | [185743-miku-no-2048.json](./185743-miku-no-2048.json) |
 | Miku Runner | 289890 | [289890-miku-runner.json](./289890-miku-runner.json) |
 | Miku-15 | 307502 | [307502-miku-15.json](./307502-miku-15.json) |
 | Miku: May I Keep Up? | 332873 | [332873-miku-may-i-keep-up.json](./332873-miku-may-i-keep-up.json) |
@@ -17382,6 +17383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat: Onslaught | 224009 | [224009-mortal-kombat-onslaught.json](./224009-mortal-kombat-onslaught.json) |
 | Mortal Kombat: Outworld Assassins | 257336 | [257336-mortal-kombat-outworld-assassins.json](./257336-mortal-kombat-outworld-assassins.json) |
 | Mortal Kombat: Shaolin Monks | 1614 | [1614-mortal-kombat-shaolin-monks.json](./1614-mortal-kombat-shaolin-monks.json) |
+| Mortal Kombat: Solano Edition | 185760 | [185760-mortal-kombat-solano-edition.json](./185760-mortal-kombat-solano-edition.json) |
 | Mortal Kombat: Tiger Barcodzz | 362598 | [362598-mortal-kombat-tiger-barcodzz.json](./362598-mortal-kombat-tiger-barcodzz.json) |
 | Mortal Kombat: Tiger Barcodzz - Goro | 362599 | [362599-mortal-kombat-tiger-barcodzz-goro.json](./362599-mortal-kombat-tiger-barcodzz-goro.json) |
 | Mortal Kombat: Tiger Barcodzz - Goro | 362608 | [362608-mortal-kombat-tiger-barcodzz-goro.json](./362608-mortal-kombat-tiger-barcodzz-goro.json) |
