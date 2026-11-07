@@ -970,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2725,6 +2726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barnacle | 405614 | [405614-barnacle.json](./405614-barnacle.json) |
 | Barnacle Bill | 91437 | [91437-barnacle-bill.json](./91437-barnacle-bill.json) |
 | Barnanza | 119064 | [119064-barnanza.json](./119064-barnanza.json) |
+| Barnard's Star | 158821 | [158821-barnards-star.json](./158821-barnards-star.json) |
 | Barney Bear Goes Camping | 14284 | [14284-barney-bear-goes-camping.json](./14284-barney-bear-goes-camping.json) |
 | Barney Bear Goes to School | 12399 | [12399-barney-bear-goes-to-school.json](./12399-barney-bear-goes-to-school.json) |
 | Barney Bear Goes to Space | 12400 | [12400-barney-bear-goes-to-space.json](./12400-barney-bear-goes-to-space.json) |
@@ -3289,6 +3291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batalia | 145247 | [145247-batalia.json](./145247-batalia.json) |
 | Batalj | 112225 | [112225-batalj.json](./112225-batalj.json) |
 | Batalla de Arquitectos | 353307 | [353307-batalla-de-arquitectos.json](./353307-batalla-de-arquitectos.json) |
+| Batallas Galacticas | 158809 | [158809-batallas-galacticas.json](./158809-batallas-galacticas.json) |
 | Batalyx | 26418 | [26418-batalyx.json](./26418-batalyx.json) |
 | Batamonisk | 340874 | [340874-batamonisk.json](./340874-batamonisk.json) |
 | Batara: Fate Unbound | 396640 | [396640-batara-fate-unbound.json](./396640-batara-fate-unbound.json) |
@@ -11374,6 +11377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Chronicles Act 1: New Cycle of Death | 98789 | [98789-bloody-chronicles-act-1-new-cycle-of-death.json](./98789-bloody-chronicles-act-1-new-cycle-of-death.json) |
 | Bloody Cleanup | 326785 | [326785-bloody-cleanup.json](./326785-bloody-cleanup.json) |
 | Bloody Cleanup Togheter | 405692 | [405692-bloody-cleanup-togheter.json](./405692-bloody-cleanup-togheter.json) |
+| Bloody Cruise | 158850 | [158850-bloody-cruise.json](./158850-bloody-cruise.json) |
 | Bloody Doctor | 249866 | [249866-bloody-doctor.json](./249866-bloody-doctor.json) |
 | Bloody Downsizing | 224665 | [224665-bloody-downsizing.json](./224665-bloody-downsizing.json) |
 | Bloody Efforts | 211473 | [211473-bloody-efforts.json](./211473-bloody-efforts.json) |
@@ -11661,6 +11665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Beard 2 | 194787 | [194787-blue-beard-2.json](./194787-blue-beard-2.json) |
 | Blue Bird | 33721 | [33721-blue-bird.json](./33721-blue-bird.json) |
 | Blue Bird Land Ep 2. | 222953 | [222953-blue-bird-land-ep-2.json](./222953-blue-bird-land-ep-2.json) |
+| Blue Bird Land Ep. 1 | 158843 | [158843-blue-bird-land-ep-1.json](./158843-blue-bird-land-ep-1.json) |
 | Blue Bird's Song | 275346 | [275346-blue-birds-song.json](./275346-blue-birds-song.json) |
 | Blue Bite | 417307 | [417307-blue-bite.json](./417307-blue-bite.json) |
 | Blue Blaster | 67858 | [67858-blue-blaster.json](./67858-blue-blaster.json) |
@@ -17085,6 +17090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugworld: Online | 139148 | [139148-bugworld-online.json](./139148-bugworld-online.json) |
 | Bugz | 270400 | [270400-bugz.json](./270400-bugz.json) |
 | Bugz Bows & Curses | 214192 | [214192-bugz-bows-and-curses.json](./214192-bugz-bows-and-curses.json) |
+| Bugz! | 158823 | [158823-bugz.json](./158823-bugz.json) |
 | Buhei | 265397 | [265397-buhei.json](./265397-buhei.json) |
 | Buhoi Batya | 111594 | [111594-buhoi-batya.json](./111594-buhoi-batya.json) |
 | Buhumi II | 91581 | [91581-buhumi-ii.json](./91581-buhumi-ii.json) |
@@ -17898,6 +17904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buried Spirits | 383038 | [383038-buried-spirits.json](./383038-buried-spirits.json) |
 | Buried Tapes: The Cleaner | 365598 | [365598-buried-tapes-the-cleaner.json](./365598-buried-tapes-the-cleaner.json) |
 | Buried Tapes: The Parking | 379605 | [379605-buried-tapes-the-parking.json](./379605-buried-tapes-the-parking.json) |
+| Buried Under Rocks | 158832 | [158832-buried-under-rocks.json](./158832-buried-under-rocks.json) |
 | Buried: An Interactive Story | 33689 | [33689-buried-an-interactive-story.json](./33689-buried-an-interactive-story.json) |
 | Buriedbornes 2 | 267742 | [267742-buriedbornes-2.json](./267742-buriedbornes-2.json) |
 | BuriedTown | 33786 | [33786-buriedtown.json](./33786-buriedtown.json) |
