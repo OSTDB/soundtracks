@@ -2198,8 +2198,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter and the Chamber of Secrets: Spellcaster Knowledge | 266192 | [266192-harry-potter-and-the-chamber-of-secrets-spellcaster-knowledge.json](./266192-harry-potter-and-the-chamber-of-secrets-spellcaster-knowledge.json) |
 | Harry Potter and the Chamber of Secrets: The Chamber Challenge | 266191 | [266191-harry-potter-and-the-chamber-of-secrets-the-chamber-challenge.json](./266191-harry-potter-and-the-chamber-of-secrets-the-chamber-challenge.json) |
 | Harry Potter and the Chamber of Secrets: The Forbidden Forest Challenge | 266364 | [266364-harry-potter-and-the-chamber-of-secrets-the-forbidden-forest-challenge.json](./266364-harry-potter-and-the-chamber-of-secrets-the-forbidden-forest-challenge.json) |
+| Harry Potter and the Deathly Hallows: Part 1 | 166361 | [166361-harry-potter-and-the-deathly-hallows-part-1.json](./166361-harry-potter-and-the-deathly-hallows-part-1.json) |
 | Harry Potter and the Deathly Hallows: Part 1 | 4904 | [4904-harry-potter-and-the-deathly-hallows-part-1.json](./4904-harry-potter-and-the-deathly-hallows-part-1.json) |
 | Harry Potter and the Deathly Hallows: Part 1 - The Mobile Game | 266198 | [266198-harry-potter-and-the-deathly-hallows-part-1-the-mobile-game.json](./266198-harry-potter-and-the-deathly-hallows-part-1-the-mobile-game.json) |
+| Harry Potter and the Deathly Hallows: Part 2 | 166362 | [166362-harry-potter-and-the-deathly-hallows-part-2.json](./166362-harry-potter-and-the-deathly-hallows-part-2.json) |
 | Harry Potter and the Deathly Hallows: Part 2 | 4905 | [4905-harry-potter-and-the-deathly-hallows-part-2.json](./4905-harry-potter-and-the-deathly-hallows-part-2.json) |
 | Harry Potter and the Deathly Hallows: Part 2 - The Mobile Game | 266199 | [266199-harry-potter-and-the-deathly-hallows-part-2-the-mobile-game.json](./266199-harry-potter-and-the-deathly-hallows-part-2-the-mobile-game.json) |
 | Harry Potter and the Goblet of Fire | 166333 | [166333-harry-potter-and-the-goblet-of-fire.json](./166333-harry-potter-and-the-goblet-of-fire.json) |
@@ -2207,6 +2209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter and the Goblet of Fire | 248545 | [248545-harry-potter-and-the-goblet-of-fire.json](./248545-harry-potter-and-the-goblet-of-fire.json) |
 | Harry Potter and the Goblet of Fire | 3942 | [3942-harry-potter-and-the-goblet-of-fire.json](./3942-harry-potter-and-the-goblet-of-fire.json) |
 | Harry Potter and the Goblet of Fire: The Triwizard Tournament | 266502 | [266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json](./266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json) |
+| Harry Potter and the Half-Blood Prince | 166354 | [166354-harry-potter-and-the-half-blood-prince.json](./166354-harry-potter-and-the-half-blood-prince.json) |
 | Harry Potter and the Half-Blood Prince | 266197 | [266197-harry-potter-and-the-half-blood-prince.json](./266197-harry-potter-and-the-half-blood-prince.json) |
 | Harry Potter and the Half-Blood Prince | 4906 | [4906-harry-potter-and-the-half-blood-prince.json](./4906-harry-potter-and-the-half-blood-prince.json) |
 | Harry Potter and the Order of the Phoenix | 266194 | [266194-harry-potter-and-the-order-of-the-phoenix.json](./266194-harry-potter-and-the-order-of-the-phoenix.json) |
@@ -6537,6 +6540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexaMerge 2048 | 384210 | [384210-hexamerge-2048.json](./384210-hexamerge-2048.json) |
 | Hexameron: Phase One | 271773 | [271773-hexameron-phase-one.json](./271773-hexameron-phase-one.json) |
 | HexaMon | 75204 | [75204-hexamon.json](./75204-hexamon.json) |
+| Hexamoon Guardians | 166350 | [166350-hexamoon-guardians.json](./166350-hexamoon-guardians.json) |
 | Hexanaut.io | 261027 | [261027-hexanaut-io.json](./261027-hexanaut-io.json) |
 | Hexane | 214367 | [214367-hexane.json](./214367-hexane.json) |
 | Hexanome | 110601 | [110601-hexanome.json](./110601-hexanome.json) |
@@ -9246,6 +9250,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Free | 13563 | [13563-home-free.json](./13563-home-free.json) |
 | Home From Work 2 | 213371 | [213371-home-from-work-2.json](./213371-home-from-work-2.json) |
 | Home From Work 3 | 213372 | [213372-home-from-work-3.json](./213372-home-from-work-3.json) |
+| Home Game | 166385 | [166385-home-game.json](./166385-home-game.json) |
+| Home Game 2 | 166388 | [166388-home-game-2.json](./166388-home-game-2.json) |
 | Home Game 3 | 243397 | [243397-home-game-3.json](./243397-home-game-3.json) |
 | Home Garden Lulu | 394461 | [394461-home-garden-lulu.json](./394461-home-garden-lulu.json) |
 | Home Improvement: Power Tool Pursuit! | 11541 | [11541-home-improvement-power-tool-pursuit.json](./11541-home-improvement-power-tool-pursuit.json) |
