@@ -962,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xplosiv Top Ten: Second Edition | 73169 | [73169-xplosiv-top-ten-second-edition.json](./73169-xplosiv-top-ten-second-edition.json) |
 | Xplosive Raccoon | 283861 | [283861-xplosive-raccoon.json](./283861-xplosive-raccoon.json) |
 | XPock | 159775 | [159775-xpock.json](./159775-xpock.json) |
+| Xposed | 151907 | [151907-xposed.json](./151907-xposed.json) |
 | Xposed Reloaded | 187746 | [187746-xposed-reloaded.json](./187746-xposed-reloaded.json) |
 | Xposed Switched | 232562 | [232562-xposed-switched.json](./232562-xposed-switched.json) |
 | Xpressorcist | 197139 | [197139-xpressorcist.json](./197139-xpressorcist.json) |
