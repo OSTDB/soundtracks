@@ -10190,6 +10190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blimblau: Kill Them All! | 386830 | [386830-blimblau-kill-them-all.json](./386830-blimblau-kill-them-all.json) |
 | Blimby | 153871 | [153871-blimby.json](./153871-blimby.json) |
 | Blimpo Warrior | 337310 | [337310-blimpo-warrior.json](./337310-blimpo-warrior.json) |
+| Blimps | 150828 | [150828-blimps.json](./150828-blimps.json) |
 | Blimpy | 328975 | [328975-blimpy.json](./328975-blimpy.json) |
 | Blinck Island Returns | 186169 | [186169-blinck-island-returns.json](./186169-blinck-island-returns.json) |
 | Blind | 156634 | [156634-blind.json](./156634-blind.json) |
@@ -12277,6 +12278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bodycount | 6924 | [6924-bodycount.json](./6924-bodycount.json) |
 | Bodyguard Task Force | 291252 | [291252-bodyguard-task-force.json](./291252-bodyguard-task-force.json) |
 | Bodyguard: Cellwars | 365160 | [365160-bodyguard-cellwars.json](./365160-bodyguard-cellwars.json) |
+| Bodyless | 150814 | [150814-bodyless.json](./150814-bodyless.json) |
 | BodyQuest | 146997 | [146997-bodyquest.json](./146997-bodyquest.json) |
 | Bodyrain | 293857 | [293857-bodyrain.json](./293857-bodyrain.json) |
 | BodyRecords | 340943 | [340943-bodyrecords.json](./340943-bodyrecords.json) |
@@ -16154,6 +16156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BroodStar | 140204 | [140204-broodstar.json](./140204-broodstar.json) |
 | Brooke vs. World Doom | 190837 | [190837-brooke-vs-world-doom.json](./190837-brooke-vs-world-doom.json) |
 | Brookelle's FreeCell | 100274 | [100274-brookelles-freecell.json](./100274-brookelles-freecell.json) |
+| Brookhaven Grimoire | 150834 | [150834-brookhaven-grimoire.json](./150834-brookhaven-grimoire.json) |
 | Brooklyn Sentai: Episode One | 132729 | [132729-brooklyn-sentai-episode-one.json](./132729-brooklyn-sentai-episode-one.json) |
 | Brooklyn Trash King | 172508 | [172508-brooklyn-trash-king.json](./172508-brooklyn-trash-king.json) |
 | Brooks in Wild West | 272258 | [272258-brooks-in-wild-west.json](./272258-brooks-in-wild-west.json) |
