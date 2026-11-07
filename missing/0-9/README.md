@@ -985,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1024 Units | 271455 | [271455-1024-units.json](./271455-1024-units.json) |
 | 103 | 108413 | [108413-103.json](./108413-103.json) |
 | 108 Silly Ways to Die | 326083 | [326083-108-silly-ways-to-die.json](./326083-108-silly-ways-to-die.json) |
+| 1080 Snowboarding 2 | 176039 | [176039-1080-snowboarding-2.json](./176039-1080-snowboarding-2.json) |
 | 1080° Avalanche | 3774 | [3774-1080-avalanche.json](./3774-1080-avalanche.json) |
 | 1080° Snowboarding | 3328 | [3328-1080-snowboarding.json](./3328-1080-snowboarding.json) |
 | 109 Remastered | 173962 | [173962-109-remastered.json](./173962-109-remastered.json) |
