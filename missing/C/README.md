@@ -2607,6 +2607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardness | 338688 | [338688-cardness.json](./338688-cardness.json) |
 | Cardoom | 386985 | [386985-cardoom.json](./386985-cardoom.json) |
 | Cardopolis | 374655 | [374655-cardopolis.json](./374655-cardopolis.json) |
+| Cardow! | 190817 | [190817-cardow.json](./190817-cardow.json) |
 | Cardpocalypse: Out of Time | 154597 | [154597-cardpocalypse-out-of-time.json](./154597-cardpocalypse-out-of-time.json) |
 | Cardpocalypse: Time Warp Edition | 154554 | [154554-cardpocalypse-time-warp-edition.json](./154554-cardpocalypse-time-warp-edition.json) |
 | Cardrottini | 347031 | [347031-cardrottini.json](./347031-cardrottini.json) |
@@ -5173,6 +5174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ceiba | 248967 | [248967-ceiba.json](./248967-ceiba.json) |
 | Ceiling Mounted Sprinkler | 358439 | [358439-ceiling-mounted-sprinkler.json](./358439-ceiling-mounted-sprinkler.json) |
 | Ceiling Zero | 282105 | [282105-ceiling-zero.json](./282105-ceiling-zero.json) |
+| Ceilless | 190801 | [190801-ceilless.json](./190801-ceilless.json) |
 | Ceke Ceke | 208227 | [208227-ceke-ceke.json](./208227-ceke-ceke.json) |
 | Cel by Date! | 358646 | [358646-cel-by-date.json](./358646-cel-by-date.json) |
 | Cel Damage 2 | 143110 | [143110-cel-damage-2.json](./143110-cel-damage-2.json) |
@@ -6452,6 +6454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheaphaven | 203247 | [203247-cheaphaven.json](./203247-cheaphaven.json) |
 | Cheapshot | 130885 | [130885-cheapshot.json](./130885-cheapshot.json) |
 | Cheapskate | 371493 | [371493-cheapskate.json](./371493-cheapskate.json) |
+| Cheat Day | 190778 | [190778-cheat-day.json](./190778-cheat-day.json) |
 | Cheat or Die | 160031 | [160031-cheat-or-die.json](./160031-cheat-or-die.json) |
 | Cheatbusters | 52497 | [52497-cheatbusters.json](./52497-cheatbusters.json) |
 | CheatCheat | 402363 | [402363-cheatcheat.json](./402363-cheatcheat.json) |
@@ -7067,6 +7070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi Akuma's | 112263 | [112263-chibi-akumas.json](./112263-chibi-akumas.json) |
 | Chibi Akuma's Episode 1: Invasion! | 300807 | [300807-chibi-akumas-episode-1-invasion.json](./300807-chibi-akumas-episode-1-invasion.json) |
 | Chibi Charger | 338562 | [338562-chibi-charger.json](./338562-chibi-charger.json) |
+| Chibi Dash | 190784 | [190784-chibi-dash.json](./190784-chibi-dash.json) |
 | Chibi Devi! | 222291 | [222291-chibi-devi.json](./222291-chibi-devi.json) |
 | Chibi Devi! 2: Mahou no Yume Ehon | 222340 | [222340-chibi-devi-2-mahou-no-yume-ehon.json](./222340-chibi-devi-2-mahou-no-yume-ehon.json) |
 | Chibi Escape | 301285 | [301285-chibi-escape.json](./301285-chibi-escape.json) |
@@ -19315,6 +19319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubic Cosmos | 348835 | [348835-cubic-cosmos.json](./348835-cubic-cosmos.json) |
 | Cubic Currency | 155892 | [155892-cubic-currency.json](./155892-cubic-currency.json) |
 | Cubic Defender | 283846 | [283846-cubic-defender.json](./283846-cubic-defender.json) |
+| Cubic Dweller | 190818 | [190818-cubic-dweller.json](./190818-cubic-dweller.json) |
 | Cubic Figures | 215112 | [215112-cubic-figures.json](./215112-cubic-figures.json) |
 | Cubic Figures 2 | 249488 | [249488-cubic-figures-2.json](./249488-cubic-figures-2.json) |
 | Cubic Gallery | 343946 | [343946-cubic-gallery.json](./343946-cubic-gallery.json) |
@@ -20916,6 +20921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cymbalism | 285124 | [285124-cymbalism.json](./285124-cymbalism.json) |
 | Cymut x Mutrobo: The Last Cymut | 292326 | [292326-cymut-x-mutrobo-the-last-cymut.json](./292326-cymut-x-mutrobo-the-last-cymut.json) |
 | Cynabre | 371334 | [371334-cynabre.json](./371334-cynabre.json) |
+| Cyndefense 2 | 190787 | [190787-cyndefense-2.json](./190787-cyndefense-2.json) |
 | Cyndefense Remastered | 382289 | [382289-cyndefense-remastered.json](./382289-cyndefense-remastered.json) |
 | Cynderfall Cycle | 298268 | [298268-cynderfall-cycle.json](./298268-cynderfall-cycle.json) |
 | Cyndy | 425202 | [425202-cyndy.json](./425202-cyndy.json) |
