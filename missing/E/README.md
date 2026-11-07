@@ -496,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | East India Company | 2013 | [2013-east-india-company.json](./2013-east-india-company.json) |
 | East India Company Collection | 52929 | [52929-east-india-company-collection.json](./52929-east-india-company-collection.json) |
 | East India Company: Battle of Trafalgar | 2014 | [2014-east-india-company-battle-of-trafalgar.json](./2014-east-india-company-battle-of-trafalgar.json) |
+| East India Company: Gold | 177107 | [177107-east-india-company-gold.json](./177107-east-india-company-gold.json) |
 | East India Company: Pirate Bay | 2015 | [2015-east-india-company-pirate-bay.json](./2015-east-india-company-pirate-bay.json) |
 | East India Company: Privateer | 2016 | [2016-east-india-company-privateer.json](./2016-east-india-company-privateer.json) |
 | East Legend | 39219 | [39219-east-legend.json](./39219-east-legend.json) |
