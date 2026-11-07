@@ -2846,6 +2846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mambo Wave | 142261 | [142261-mambo-wave.json](./142261-mambo-wave.json) |
 | Mamegoma 2: Uchi no Ko ga Ichiban! | 241032 | [241032-mamegoma-2-uchi-no-ko-ga-ichiban.json](./241032-mamegoma-2-uchi-no-ko-ga-ichiban.json) |
 | Mamegoma 3: Kawaii ga Ippai! | 241043 | [241043-mamegoma-3-kawaii-ga-ippai.json](./241043-mamegoma-3-kawaii-ga-ippai.json) |
+| Mamegoma Yoi Ko Marui Ko Genki na Ko! | 148652 | [148652-mamegoma-yoi-ko-marui-ko-genki-na-ko.json](./148652-mamegoma-yoi-ko-marui-ko-genki-na-ko.json) |
 | Mamegoma: Happy! Sweets Farm | 221581 | [221581-mamegoma-happy-sweets-farm.json](./221581-mamegoma-happy-sweets-farm.json) |
 | Mameshiba | 141729 | [141729-mameshiba.json](./141729-mameshiba.json) |
 | Mameshiba Tankentai: Kieta Taicho wo sosaku seyo! | 349253 | [349253-mameshiba-tankentai-kieta-taicho-wo-sosaku-seyo.json](./349253-mameshiba-tankentai-kieta-taicho-wo-sosaku-seyo.json) |
@@ -4382,6 +4383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marmalade breakout | 234995 | [234995-marmalade-breakout.json](./234995-marmalade-breakout.json) |
 | Marmargee Fighter Girl vs. Zombies & Monsters! | 290797 | [290797-marmargee-fighter-girl-vs-zombies-and-monsters.json](./290797-marmargee-fighter-girl-vs-zombies-and-monsters.json) |
 | Marmelade | 311426 | [311426-marmelade.json](./311426-marmelade.json) |
+| Marmoreal | 148642 | [148642-marmoreal.json](./148642-marmoreal.json) |
 | Marmoset | 189110 | [189110-marmoset.json](./189110-marmoset.json) |
 | Marmot Fight Club | 350195 | [350195-marmot-fight-club.json](./350195-marmot-fight-club.json) |
 | Maronia | 291403 | [291403-maronia.json](./291403-maronia.json) |
@@ -5184,6 +5186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Magic | 6466 | [6466-master-of-magic.json](./6466-master-of-magic.json) |
 | Master of Magic | 7548 | [7548-master-of-magic.json](./7548-master-of-magic.json) |
 | Master of Magic Chess | 29369 | [29369-master-of-magic-chess.json](./29369-master-of-magic-chess.json) |
+| Master of Magic Classic | 148724 | [148724-master-of-magic-classic.json](./148724-master-of-magic-classic.json) |
 | Master of Magic: Rise of the Soultrapped | 256261 | [256261-master-of-magic-rise-of-the-soultrapped.json](./256261-master-of-magic-rise-of-the-soultrapped.json) |
 | Master of Magic: Scourge of the Seas | 280347 | [280347-master-of-magic-scourge-of-the-seas.json](./280347-master-of-magic-scourge-of-the-seas.json) |
 | Master of Marbles | 32435 | [32435-master-of-marbles.json](./32435-master-of-marbles.json) |
@@ -5993,6 +5996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -11673,6 +11677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty the Armadillo | 330152 | [330152-mighty-the-armadillo.json](./330152-mighty-the-armadillo.json) |
 | Mighty the Armadillo in Sonic the Hedgehog | 148232 | [148232-mighty-the-armadillo-in-sonic-the-hedgehog.json](./148232-mighty-the-armadillo-in-sonic-the-hedgehog.json) |
 | Mighty Tyranitar | 73139 | [73139-mighty-tyranitar.json](./73139-mighty-tyranitar.json) |
+| Mighty Vikings | 148639 | [148639-mighty-vikings.json](./148639-mighty-vikings.json) |
 | Mighty Warriors | 40388 | [40388-mighty-warriors.json](./40388-mighty-warriors.json) |
 | Mighty Warriors: Rise of the East | 58116 | [58116-mighty-warriors-rise-of-the-east.json](./58116-mighty-warriors-rise-of-the-east.json) |
 | Mighty Wars | 341232 | [341232-mighty-wars.json](./341232-mighty-wars.json) |
@@ -14934,6 +14939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moe Waifu H: Fantasy | 328442 | [328442-moe-waifu-h-fantasy.json](./328442-moe-waifu-h-fantasy.json) |
 | Moe Waifu H: Genius | 313557 | [313557-moe-waifu-h-genius.json](./313557-moe-waifu-h-genius.json) |
 | Moe Waifu H: Push-Box | 337988 | [337988-moe-waifu-h-push-box.json](./337988-moe-waifu-h-push-box.json) |
+| Moe-moe Daisensou Gendaiban 3D | 148649 | [148649-moe-moe-daisensou-gendaiban-3d.json](./148649-moe-moe-daisensou-gendaiban-3d.json) |
 | Moe! Ninja Girls | 110797 | [110797-moe-ninja-girls.json](./110797-moe-ninja-girls.json) |
 | Moe! Ninja Girls RPG | 335179 | [335179-moe-ninja-girls-rpg.json](./335179-moe-ninja-girls-rpg.json) |
 | Moe's Body Shop | 323790 | [323790-moes-body-shop.json](./323790-moes-body-shop.json) |
@@ -17384,6 +17390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Crux | 217445 | [217445-mortal-crux.json](./217445-mortal-crux.json) |
 | Mortal Cultivation Biography | 368504 | [368504-mortal-cultivation-biography.json](./368504-mortal-cultivation-biography.json) |
 | Mortal Dark | 215069 | [215069-mortal-dark.json](./215069-mortal-dark.json) |
+| Mortal Decay | 148641 | [148641-mortal-decay.json](./148641-mortal-decay.json) |
 | Mortal Fight: Lethal Revenge | 291175 | [291175-mortal-fight-lethal-revenge.json](./291175-mortal-fight-lethal-revenge.json) |
 | Mortal Fighter | 251837 | [251837-mortal-fighter.json](./251837-mortal-fighter.json) |
 | Mortal Glory | 119763 | [119763-mortal-glory.json](./119763-mortal-glory.json) |
@@ -19702,6 +19709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muscle March | 15914 | [15914-muscle-march.json](./15914-muscle-march.json) |
 | Muscle Memory Corruption | 178972 | [178972-muscle-memory-corruption.json](./178972-muscle-memory-corruption.json) |
 | Muscle Ninja VR | 266475 | [266475-muscle-ninja-vr.json](./266475-muscle-ninja-vr.json) |
+| Muscle Power | 148732 | [148732-muscle-power.json](./148732-muscle-power.json) |
 | Muscle Princess 2 | 207991 | [207991-muscle-princess-2.json](./207991-muscle-princess-2.json) |
 | Muscle Princess 3 | 212820 | [212820-muscle-princess-3.json](./212820-muscle-princess-3.json) |
 | Muscle Ranking GB2: Mezase! Muscle Champion | 228583 | [228583-muscle-ranking-gb2-mezase-muscle-champion.json](./228583-muscle-ranking-gb2-mezase-muscle-champion.json) |
