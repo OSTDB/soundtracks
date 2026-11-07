@@ -4677,6 +4677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats and Tails | 416968 | [416968-cats-and-tails.json](./416968-cats-and-tails.json) |
 | Cats and the City: Shanghai | 338502 | [338502-cats-and-the-city-shanghai.json](./338502-cats-and-the-city-shanghai.json) |
 | Cats and the Other Lives | 143276 | [143276-cats-and-the-other-lives.json](./143276-cats-and-the-other-lives.json) |
+| Cats are Assholes | 177662 | [177662-cats-are-assholes.json](./177662-cats-are-assholes.json) |
 | Cats are Cute | 130604 | [130604-cats-are-cute.json](./130604-cats-are-cute.json) |
 | Cats are Cute: Pop Time! | 322124 | [322124-cats-are-cute-pop-time.json](./322124-cats-are-cute-pop-time.json) |
 | Cats Are Jerks | 232172 | [232172-cats-are-jerks.json](./232172-cats-are-jerks.json) |
@@ -15678,6 +15679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countryballs: Power Protocol | 349473 | [349473-countryballs-power-protocol.json](./349473-countryballs-power-protocol.json) |
 | Countryballs: The Heist | 302945 | [302945-countryballs-the-heist.json](./302945-countryballs-the-heist.json) |
 | CountryCide | 196008 | [196008-countrycide.json](./196008-countrycide.json) |
+| Countryhumans: Dating Sim | 177659 | [177659-countryhumans-dating-sim.json](./177659-countryhumans-dating-sim.json) |
 | Countryle | 330769 | [330769-countryle.json](./330769-countryle.json) |
 | Countryside Bears | 43502 | [43502-countryside-bears.json](./43502-countryside-bears.json) |
 | Countryside Farm Clues | 402930 | [402930-countryside-farm-clues.json](./402930-countryside-farm-clues.json) |
@@ -19740,6 +19742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupcakes! XL | 108718 | [108718-cupcakes-xl.json](./108718-cupcakes-xl.json) |
 | CupCakoon | 122665 | [122665-cupcakoon.json](./122665-cupcakoon.json) |
 | Cuphead & The Delicious Last Course | 210917 | [210917-cuphead-and-the-delicious-last-course.json](./210917-cuphead-and-the-delicious-last-course.json) |
+| Cuphead Brothers in Arms | 177642 | [177642-cuphead-brothers-in-arms.json](./177642-cuphead-brothers-in-arms.json) |
 | Cuphead Wii U | 357448 | [357448-cuphead-wii-u.json](./357448-cuphead-wii-u.json) |
 | Cuphead: Collector's Edition | 224179 | [224179-cuphead-collectors-edition.json](./224179-cuphead-collectors-edition.json) |
 | Cuphead: Game and Watch Edition | 184311 | [184311-cuphead-game-and-watch-edition.json](./184311-cuphead-game-and-watch-edition.json) |
@@ -20515,6 +20518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Knight II: Chikyuu Teikoku no Yabou | 42548 | [42548-cyber-knight-ii-chikyuu-teikoku-no-yabou.json](./42548-cyber-knight-ii-chikyuu-teikoku-no-yabou.json) |
 | Cyber Knights: Flashpoint | 129596 | [129596-cyber-knights-flashpoint.json](./129596-cyber-knights-flashpoint.json) |
 | Cyber Lab | 379029 | [379029-cyber-lab.json](./379029-cyber-lab.json) |
+| Cyber Lady | 177632 | [177632-cyber-lady.json](./177632-cyber-lady.json) |
 | Cyber Lancer | 210572 | [210572-cyber-lancer.json](./210572-cyber-lancer.json) |
 | Cyber League Football | 202459 | [202459-cyber-league-football.json](./202459-cyber-league-football.json) |
 | Cyber Lemur | 150749 | [150749-cyber-lemur.json](./150749-cyber-lemur.json) |
