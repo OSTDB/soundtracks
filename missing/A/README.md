@@ -1966,6 +1966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aberrate Inc. | 377431 | [377431-aberrate-inc.json](./377431-aberrate-inc.json) |
 | Aberration | 187259 | [187259-aberration.json](./187259-aberration.json) |
 | Aberration Analyst | 167393 | [167393-aberration-analyst.json](./167393-aberration-analyst.json) |
+| Aberration Town | 164651 | [164651-aberration-town.json](./164651-aberration-town.json) |
 | Abettor | 172993 | [172993-abettor.json](./172993-abettor.json) |
 | Abglantz | 216775 | [216775-abglantz.json](./216775-abglantz.json) |
 | Abh | 173184 | [173184-abh.json](./173184-abh.json) |
@@ -6005,6 +6006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akiba’s Trip: First Memory - 10th Anniversary Edition | 142373 | [142373-akiba-s-trip-first-memory-10th-anniversary-edition.json](./142373-akiba-s-trip-first-memory-10th-anniversary-edition.json) |
 | Akiba's Trip: Hellbound & Debriefed | 119460 | [119460-akibas-trip-hellbound-and-debriefed.json](./119460-akibas-trip-hellbound-and-debriefed.json) |
 | Akiba's Trip: Hellbound & Debriefed - 10th Anniversary Edition | 146159 | [146159-akibas-trip-hellbound-and-debriefed-10th-anniversary-edition.json](./146159-akibas-trip-hellbound-and-debriefed-10th-anniversary-edition.json) |
+| Akiba's Trip: Hellbound & Debriefed - Digital Deluxe Edition | 164629 | [164629-akibas-trip-hellbound-and-debriefed-digital-deluxe-edition.json](./164629-akibas-trip-hellbound-and-debriefed-digital-deluxe-edition.json) |
 | Akiba's Trip: Undead & Undressed | 7268 | [7268-akibas-trip-undead-and-undressed.json](./7268-akibas-trip-undead-and-undressed.json) |
 | Akiba's Trip: Undead & Undressed - Director's Cut | 241171 | [241171-akibas-trip-undead-and-undressed-directors-cut.json](./241171-akibas-trip-undead-and-undressed-directors-cut.json) |
 | Akiba's Trip: Undead & Undressed - Director's Cut: Day 1 Edition | 241172 | [241172-akibas-trip-undead-and-undressed-directors-cut-day-1-edition.json](./241172-akibas-trip-undead-and-undressed-directors-cut-day-1-edition.json) |
@@ -14408,6 +14410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrival of Beasts | 152228 | [152228-arrival-of-beasts.json](./152228-arrival-of-beasts.json) |
 | Arrival of the Punnu | 194992 | [194992-arrival-of-the-punnu.json](./194992-arrival-of-the-punnu.json) |
 | Arrival, or Attack of the B-Movie Clichés | 314038 | [314038-arrival-or-attack-of-the-b-movie-cliches.json](./314038-arrival-or-attack-of-the-b-movie-cliches.json) |
+| Arrival: Zero Earth | 164634 | [164634-arrival-zero-earth.json](./164634-arrival-zero-earth.json) |
 | Arrive In Time | 370958 | [370958-arrive-in-time.json](./370958-arrive-in-time.json) |
 | Arriving Home | 134925 | [134925-arriving-home.json](./134925-arriving-home.json) |
 | Arrog | 127144 | [127144-arrog.json](./127144-arrog.json) |
@@ -15442,6 +15445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Syndicate: The Dreadful Crimes | 109432 | [109432-assassins-creed-syndicate-the-dreadful-crimes.json](./109432-assassins-creed-syndicate-the-dreadful-crimes.json) |
 | Assassin's Creed Syndicate: The Last Maharaja | 18146 | [18146-assassins-creed-syndicate-the-last-maharaja.json](./18146-assassins-creed-syndicate-the-last-maharaja.json) |
 | Assassin's Creed Syndicate: Victorian Legends Pack | 248416 | [248416-assassins-creed-syndicate-victorian-legends-pack.json](./248416-assassins-creed-syndicate-victorian-legends-pack.json) |
+| Assassin's Creed Triple Pack: Black Flag, Unity, Syndicate | 164674 | [164674-assassins-creed-triple-pack-black-flag-unity-syndicate.json](./164674-assassins-creed-triple-pack-black-flag-unity-syndicate.json) |
 | Assassin's Creed Unity: Arno's Chronicles | 251353 | [251353-assassins-creed-unity-arnos-chronicles.json](./251353-assassins-creed-unity-arnos-chronicles.json) |
 | Assassin's Creed Unity: The Chemical Revolution | 222679 | [222679-assassins-creed-unity-the-chemical-revolution.json](./222679-assassins-creed-unity-the-chemical-revolution.json) |
 | Assassin's Creed Unity: The Fleur-de-Lys | 399892 | [399892-assassins-creed-unity-the-fleur-de-lys.json](./399892-assassins-creed-unity-the-fleur-de-lys.json) |
