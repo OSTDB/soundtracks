@@ -5784,6 +5784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lita's Dream | 252286 | [252286-litas-dream.json](./252286-litas-dream.json) |
 | Litchi Town | 244934 | [244934-litchi-town.json](./244934-litchi-town.json) |
 | Liteboxer | 125949 | [125949-liteboxer.json](./125949-liteboxer.json) |
+| LiteBringer | 178150 | [178150-litebringer.json](./178150-litebringer.json) |
 | LiteracyPlanet: Word Mania | 203372 | [203372-literacyplanet-word-mania.json](./203372-literacyplanet-word-mania.json) |
 | Literalchemy | 399680 | [399680-literalchemy.json](./399680-literalchemy.json) |
 | Literalism | 261463 | [261463-literalism.json](./261463-literalism.json) |
@@ -6128,6 +6129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Nemo and the Guardians of Slumberland | 204380 | [204380-little-nemo-and-the-guardians-of-slumberland.json](./204380-little-nemo-and-the-guardians-of-slumberland.json) |
 | Little Nemo and the Nightmare Fiends | 208309 | [208309-little-nemo-and-the-nightmare-fiends.json](./208309-little-nemo-and-the-nightmare-fiends.json) |
 | Little Nemo the Clown | 213609 | [213609-little-nemo-the-clown.json](./213609-little-nemo-the-clown.json) |
+| Little Nightmares I & II | 178179 | [178179-little-nightmares-i-and-ii.json](./178179-little-nightmares-i-and-ii.json) |
 | Little Nightmares II: Day 1 Edition | 139821 | [139821-little-nightmares-ii-day-1-edition.json](./139821-little-nightmares-ii-day-1-edition.json) |
 | Little Nightmares II: Deluxe Edition | 154511 | [154511-little-nightmares-ii-deluxe-edition.json](./154511-little-nightmares-ii-deluxe-edition.json) |
 | Little Nightmares II: Enhanced Edition | 323947 | [323947-little-nightmares-ii-enhanced-edition.json](./323947-little-nightmares-ii-enhanced-edition.json) |
