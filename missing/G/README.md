@@ -2460,6 +2460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GearGrit | 292410 | [292410-geargrit.json](./292410-geargrit.json) |
 | Gearguns: Tank Offensive | 31375 | [31375-gearguns-tank-offensive.json](./31375-gearguns-tank-offensive.json) |
 | GearHead 2 | 183288 | [183288-gearhead-2.json](./183288-gearhead-2.json) |
+| GearHead Caramel | 176061 | [176061-gearhead-caramel.json](./176061-gearhead-caramel.json) |
 | Gearhead Karting | 252019 | [252019-gearhead-karting.json](./252019-gearhead-karting.json) |
 | GearHead: Arena | 181230 | [181230-gearhead-arena.json](./181230-gearhead-arena.json) |
 | Gearheads | 92925 | [92925-gearheads.json](./92925-gearheads.json) |
@@ -2518,6 +2519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeckoShop | 328356 | [328356-geckoshop.json](./328356-geckoshop.json) |
 | Gecky The Deenosaur Stars In! Adventures In SunnyDoodle Swimmingland! | 367383 | [367383-gecky-the-deenosaur-stars-in-adventures-in-sunnydoodle-swimmingland.json](./367383-gecky-the-deenosaur-stars-in-adventures-in-sunnydoodle-swimmingland.json) |
 | Gector | 96220 | [96220-gector.json](./96220-gector.json) |
+| Gedaria | 176022 | [176022-gedaria.json](./176022-gedaria.json) |
 | Gedaria: Fairytale Forest | 207781 | [207781-gedaria-fairytale-forest.json](./207781-gedaria-fairytale-forest.json) |
 | Gedda Cake | 180286 | [180286-gedda-cake.json](./180286-gedda-cake.json) |
 | Gedonia | 121179 | [121179-gedonia.json](./121179-gedonia.json) |
@@ -6621,6 +6623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Warden | 310836 | [310836-golden-warden.json](./310836-golden-warden.json) |
 | Golden Yoshi's Island | 276880 | [276880-golden-yoshis-island.json](./276880-golden-yoshis-island.json) |
 | Goldene Zeiten | 94234 | [94234-goldene-zeiten.json](./94234-goldene-zeiten.json) |
+| GoldenEye | 176045 | [176045-goldeneye.json](./176045-goldeneye.json) |
 | GoldenEye 007 | 1647 | [1647-goldeneye-007.json](./1647-goldeneye-007.json) |
 | GoldenEye 007 | 350140 | [350140-goldeneye-007.json](./350140-goldeneye-007.json) |
 | GoldenEye 007: Recompiled | 406470 | [406470-goldeneye-007-recompiled.json](./406470-goldeneye-007-recompiled.json) |
