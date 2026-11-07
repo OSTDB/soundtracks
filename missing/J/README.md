@@ -1924,6 +1924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Royal Princess | 295684 | [295684-jigsaw-royal-princess.json](./295684-jigsaw-royal-princess.json) |
 | Jigsaw Savant | 408547 | [408547-jigsaw-savant.json](./408547-jigsaw-savant.json) |
 | JigSaw Solace | 126191 | [126191-jigsaw-solace.json](./126191-jigsaw-solace.json) |
+| Jigsaw Souls | 190289 | [190289-jigsaw-souls.json](./190289-jigsaw-souls.json) |
 | Jigsaw Swimsuit | 326186 | [326186-jigsaw-swimsuit.json](./326186-jigsaw-swimsuit.json) |
 | Jigsaw Tetra | 147981 | [147981-jigsaw-tetra.json](./147981-jigsaw-tetra.json) |
 | Jigsaw Tile | 243736 | [243736-jigsaw-tile.json](./243736-jigsaw-tile.json) |
