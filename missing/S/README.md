@@ -7230,6 +7230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shakes and Fidget | 18090 | [18090-shakes-and-fidget.json](./18090-shakes-and-fidget.json) |
 | Shakes and Fidget Remastered | 112346 | [112346-shakes-and-fidget-remastered.json](./112346-shakes-and-fidget-remastered.json) |
 | Shakes on a Plane | 111988 | [111988-shakes-on-a-plane.json](./111988-shakes-on-a-plane.json) |
+| Shakespeare? More like Thirstspeare, amirite? | 152951 | [152951-shakespeare-more-like-thirstspeare-amirite.json](./152951-shakespeare-more-like-thirstspeare-amirite.json) |
 | Shaki Shaki Island | 327409 | [327409-shaki-shaki-island.json](./327409-shaki-shaki-island.json) |
 | Shakii the Wolf | 73195 | [73195-shakii-the-wolf.json](./73195-shakii-the-wolf.json) |
 | Shaking Hands | 389831 | [389831-shaking-hands.json](./389831-shaking-hands.json) |
@@ -13097,6 +13098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyward Battles | 334855 | [334855-skyward-battles.json](./334855-skyward-battles.json) |
 | Skyward Collapse | 9328 | [9328-skyward-collapse.json](./9328-skyward-collapse.json) |
 | Skyward Collapse: Nihon no Mura | 10871 | [10871-skyward-collapse-nihon-no-mura.json](./10871-skyward-collapse-nihon-no-mura.json) |
+| Skyward Descent | 152946 | [152946-skyward-descent.json](./152946-skyward-descent.json) |
 | Skyward Extraction | 302051 | [302051-skyward-extraction.json](./302051-skyward-extraction.json) |
 | Skyward Heroes | 184855 | [184855-skyward-heroes.json](./184855-skyward-heroes.json) |
 | Skyward Journey | 320367 | [320367-skyward-journey.json](./320367-skyward-journey.json) |
@@ -13794,6 +13796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Feet | 323031 | [323031-slime-feet.json](./323031-slime-feet.json) |
 | Slime Flight: VIP | 95826 | [95826-slime-flight-vip.json](./95826-slime-flight-vip.json) |
 | Slime Garden | 104661 | [104661-slime-garden.json](./104661-slime-garden.json) |
+| Slime Girl Smoothies | 153032 | [153032-slime-girl-smoothies.json](./153032-slime-girl-smoothies.json) |
 | Slime Guy | 348881 | [348881-slime-guy.json](./348881-slime-guy.json) |
 | Slime Hero | 216890 | [216890-slime-hero.json](./216890-slime-hero.json) |
 | Slime Heroes | 152171 | [152171-slime-heroes.json](./152171-slime-heroes.json) |
@@ -19435,6 +19438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Ballet | 25758 | [25758-space-ballet.json](./25758-space-ballet.json) |
 | Space Balls | 190325 | [190325-space-balls.json](./190325-space-balls.json) |
 | Space Bandit | 150577 | [150577-space-bandit.json](./150577-space-bandit.json) |
+| Space Banditos | 152971 | [152971-space-banditos.json](./152971-space-banditos.json) |
 | Space Bandits | 42176 | [42176-space-bandits.json](./42176-space-bandits.json) |
 | Space Bar | 411582 | [411582-space-bar.json](./411582-space-bar.json) |
 | Space Bar at the End of the Galaxy | 171005 | [171005-space-bar-at-the-end-of-the-galaxy.json](./171005-space-bar-at-the-end-of-the-galaxy.json) |
@@ -19877,7 +19881,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -25868,6 +25871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Scarwolf | 371933 | [371933-starship-scarwolf.json](./371933-starship-scarwolf.json) |
 | Starship Scramble | 263077 | [263077-starship-scramble.json](./263077-starship-scramble.json) |
 | Starship Showdown: Galactic Grand Prix | 283223 | [283223-starship-showdown-galactic-grand-prix.json](./283223-starship-showdown-galactic-grand-prix.json) |
+| Starship Simulator | 152974 | [152974-starship-simulator.json](./152974-starship-simulator.json) |
 | Starship Survivor | 193288 | [193288-starship-survivor.json](./193288-starship-survivor.json) |
 | Starship Survivor | 252310 | [252310-starship-survivor.json](./252310-starship-survivor.json) |
 | Starship Survivor | 30399 | [30399-starship-survivor.json](./30399-starship-survivor.json) |
