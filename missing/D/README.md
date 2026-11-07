@@ -19412,6 +19412,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 8: Empires - Free Alliances Version | 221032 | [221032-dynasty-warriors-8-empires-free-alliances-version.json](./221032-dynasty-warriors-8-empires-free-alliances-version.json) |
 | Dynasty Warriors 8: Wang Yuanji 'Rorona' Costume | 306771 | [306771-dynasty-warriors-8-wang-yuanji-rorona-costume.json](./306771-dynasty-warriors-8-wang-yuanji-rorona-costume.json) |
 | Dynasty Warriors 8: Xtreme Legends | 10267 | [10267-dynasty-warriors-8-xtreme-legends.json](./10267-dynasty-warriors-8-xtreme-legends.json) |
+| Dynasty Warriors 8: Xtreme Legends - New Stage & Animal Pack | 168507 | [168507-dynasty-warriors-8-xtreme-legends-new-stage-and-animal-pack.json](./168507-dynasty-warriors-8-xtreme-legends-new-stage-and-animal-pack.json) |
+| Dynasty Warriors 8: Xtreme Legends - New Stage & Camp Symbol | 168506 | [168506-dynasty-warriors-8-xtreme-legends-new-stage-and-camp-symbol.json](./168506-dynasty-warriors-8-xtreme-legends-new-stage-and-camp-symbol.json) |
 | Dynasty Warriors 8: Xtreme Legends Complete Edition | 21712 | [21712-dynasty-warriors-8-xtreme-legends-complete-edition.json](./21712-dynasty-warriors-8-xtreme-legends-complete-edition.json) |
 | Dynasty Warriors 8: Xtreme Legends Complete Edition - Powerful Weapon Pack | 155332 | [155332-dynasty-warriors-8-xtreme-legends-complete-edition-powerful-weapon-pack.json](./155332-dynasty-warriors-8-xtreme-legends-complete-edition-powerful-weapon-pack.json) |
 | Dynasty Warriors 8: Xtreme Legends Definitive Edition | 111063 | [111063-dynasty-warriors-8-xtreme-legends-definitive-edition.json](./111063-dynasty-warriors-8-xtreme-legends-definitive-edition.json) |
