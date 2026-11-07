@@ -2412,6 +2412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watchlist | 44169 | [44169-watchlist.json](./44169-watchlist.json) |
 | Watchmaker's World Solitaire | 386135 | [386135-watchmakers-world-solitaire.json](./386135-watchmakers-world-solitaire.json) |
 | Watchmakers | 251910 | [251910-watchmakers.json](./251910-watchmakers.json) |
+| Watchman | 150808 | [150808-watchman.json](./150808-watchman.json) |
 | Watchman Golf Digipro | 215252 | [215252-watchman-golf-digipro.json](./215252-watchman-golf-digipro.json) |
 | Watchman: Monster Hero | 218371 | [218371-watchman-monster-hero.json](./218371-watchman-monster-hero.json) |
 | Watchmen | 341701 | [341701-watchmen.json](./341701-watchmen.json) |
@@ -4668,6 +4669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Lavender | 199803 | [199803-white-lavender.json](./199803-white-lavender.json) |
 | White Light Escape | 315591 | [315591-white-light-escape.json](./315591-white-light-escape.json) |
 | White Lilies Code | 279549 | [279549-white-lilies-code.json](./279549-white-lilies-code.json) |
+| White Lily 2: Waking up Girl | 150835 | [150835-white-lily-2-waking-up-girl.json](./150835-white-lily-2-waking-up-girl.json) |
 | White Magic | 261710 | [261710-white-magic.json](./261710-white-magic.json) |
 | White Mask | 136487 | [136487-white-mask.json](./136487-white-mask.json) |
 | White Memories | 383101 | [383101-white-memories.json](./383101-white-memories.json) |
@@ -4751,6 +4753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiz Kid | 292783 | [292783-whiz-kid.json](./292783-whiz-kid.json) |
 | Whiz Racer | 180031 | [180031-whiz-racer.json](./180031-whiz-racer.json) |
 | Whizz | 12825 | [12825-whizz.json](./12825-whizz.json) |
+| Whizz Ball | 150849 | [150849-whizz-ball.json](./150849-whizz-ball.json) |
 | Whizzle | 79090 | [79090-whizzle.json](./79090-whizzle.json) |
 | WHMIS 2015 VR | 196122 | [196122-whmis-2015-vr.json](./196122-whmis-2015-vr.json) |
 | Who Am I Next?: Animals | 410096 | [410096-who-am-i-next-animals.json](./410096-who-am-i-next-animals.json) |
@@ -9078,6 +9081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreck League | 275240 | [275240-wreck-league.json](./275240-wreck-league.json) |
 | Wreck Race | 194192 | [194192-wreck-race.json](./194192-wreck-race.json) |
 | Wreck the Fed | 204898 | [204898-wreck-the-fed.json](./204898-wreck-the-fed.json) |
+| Wreck the Insects | 150829 | [150829-wreck-the-insects.json](./150829-wreck-the-insects.json) |
 | Wreck the Party: Christmas Edition | 230785 | [230785-wreck-the-party-christmas-edition.json](./230785-wreck-the-party-christmas-edition.json) |
 | Wreck-It Ralph | 23586 | [23586-wreck-it-ralph.json](./23586-wreck-it-ralph.json) |
 | Wreck-It Ralph | 299871 | [299871-wreck-it-ralph.json](./299871-wreck-it-ralph.json) |
