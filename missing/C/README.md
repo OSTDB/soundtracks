@@ -1046,6 +1046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camouflet | 219734 | [219734-camouflet.json](./219734-camouflet.json) |
 | Camp Buddy: Scoutmaster Season – Side Stories | 387576 | [387576-camp-buddy-scoutmaster-season-side-stories.json](./387576-camp-buddy-scoutmaster-season-side-stories.json) |
 | Camp California | 37590 | [37590-camp-california.json](./37590-camp-california.json) |
+| Camp Canyonwood | 155791 | [155791-camp-canyonwood.json](./155791-camp-canyonwood.json) |
 | Camp Counsellor Collector | 272271 | [272271-camp-counsellor-collector.json](./272271-camp-counsellor-collector.json) |
 | Camp Glaspond | 415250 | [415250-camp-glaspond.json](./415250-camp-glaspond.json) |
 | Camp Grizzly | 104449 | [104449-camp-grizzly.json](./104449-camp-grizzly.json) |
@@ -7672,6 +7673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Souls: Hua Garden | 90614 | [90614-chinese-souls-hua-garden.json](./90614-chinese-souls-hua-garden.json) |
 | Chinese Street Food Legend | 393987 | [393987-chinese-street-food-legend.json](./393987-chinese-street-food-legend.json) |
 | Chinese Style School | 358501 | [358501-chinese-style-school.json](./358501-chinese-style-school.json) |
+| Chinese Sudoku | 155805 | [155805-chinese-sudoku.json](./155805-chinese-sudoku.json) |
 | Chinese Takeout! | 180640 | [180640-chinese-takeout.json](./180640-chinese-takeout.json) |
 | Chinese Tomb Story | 89388 | [89388-chinese-tomb-story.json](./89388-chinese-tomb-story.json) |
 | Chinese Train Trip | 195190 | [195190-chinese-train-trip.json](./195190-chinese-train-trip.json) |
@@ -13584,6 +13586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confined | 304138 | [304138-confined.json](./304138-confined.json) |
 | Confined Indorms | 185320 | [185320-confined-indorms.json](./185320-confined-indorms.json) |
 | Confined Space | 415101 | [415101-confined-space.json](./415101-confined-space.json) |
+| Confined VR | 155780 | [155780-confined-vr.json](./155780-confined-vr.json) |
 | Confined with Goddesses | 198020 | [198020-confined-with-goddesses.json](./198020-confined-with-goddesses.json) |
 | Confined: Leaving OKB-134 | 291489 | [291489-confined-leaving-okb-134.json](./291489-confined-leaving-okb-134.json) |
 | Confinement Community Project | 312891 | [312891-confinement-community-project.json](./312891-confinement-community-project.json) |
@@ -13884,6 +13887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Consecrated | 312297 | [312297-consecrated.json](./312297-consecrated.json) |
 | Consensual Torture Simulator | 15446 | [15446-consensual-torture-simulator.json](./15446-consensual-torture-simulator.json) |
 | Consentual Love In A Dungeon | 210471 | [210471-consentual-love-in-a-dungeon.json](./210471-consentual-love-in-a-dungeon.json) |
+| Consequence | 155782 | [155782-consequence.json](./155782-consequence.json) |
 | Consero | 391553 | [391553-consero.json](./391553-consero.json) |
 | Conservation Concentration | 344104 | [344104-conservation-concentration.json](./344104-conservation-concentration.json) |
 | Conservation of Bass | 399026 | [399026-conservation-of-bass.json](./399026-conservation-of-bass.json) |
@@ -16259,6 +16263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft & Survive | 172296 | [172296-craft-and-survive.json](./172296-craft-and-survive.json) |
 | Craft Away! - Idle Mining Game | 99337 | [99337-craft-away-idle-mining-game.json](./99337-craft-away-idle-mining-game.json) |
 | Craft Battle Simulator | 90640 | [90640-craft-battle-simulator.json](./90640-craft-battle-simulator.json) |
+| Craft city | 155771 | [155771-craft-city.json](./155771-craft-city.json) |
 | Craft City Gangs | 86711 | [86711-craft-city-gangs.json](./86711-craft-city-gangs.json) |
 | Craft Connections | 393777 | [393777-craft-connections.json](./393777-craft-connections.json) |
 | Craft Control | 88795 | [88795-craft-control.json](./88795-craft-control.json) |
@@ -16925,6 +16930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Eights | 70353 | [70353-crazy-eights.json](./70353-crazy-eights.json) |
 | Crazy Eights 3D Premium | 391931 | [391931-crazy-eights-3d-premium.json](./391931-crazy-eights-3d-premium.json) |
 | Crazy Empress | 385798 | [385798-crazy-empress.json](./385798-crazy-empress.json) |
+| Crazy Engineer | 155802 | [155802-crazy-engineer.json](./155802-crazy-engineer.json) |
 | Crazy Er-Bert | 354650 | [354650-crazy-er-bert.json](./354650-crazy-er-bert.json) |
 | Crazy Estate | 200042 | [200042-crazy-estate.json](./200042-crazy-estate.json) |
 | Crazy Factory | 24070 | [24070-crazy-factory.json](./24070-crazy-factory.json) |
@@ -17664,6 +17670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Colosseum | 133112 | [133112-crimson-colosseum.json](./133112-crimson-colosseum.json) |
 | Crimson Company | 141438 | [141438-crimson-company.json](./141438-crimson-company.json) |
 | Crimson Connect Origin | 238521 | [238521-crimson-connect-origin.json](./238521-crimson-connect-origin.json) |
+| Crimson Core | 155770 | [155770-crimson-core.json](./155770-crimson-core.json) |
 | Crimson Crime: Sniper Mission | 220163 | [220163-crimson-crime-sniper-mission.json](./220163-crimson-crime-sniper-mission.json) |
 | Crimson Crisis | 265384 | [265384-crimson-crisis.json](./265384-crimson-crisis.json) |
 | Crimson Defense | 95226 | [95226-crimson-defense.json](./95226-crimson-defense.json) |
@@ -21013,6 +21020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberworld Online | 221376 | [221376-cyberworld-online.json](./221376-cyberworld-online.json) |
 | Cyberworm | 73606 | [73606-cyberworm.json](./73606-cyberworm.json) |
 | Cybex | 14022 | [14022-cybex.json](./14022-cybex.json) |
+| Cybloc | 155793 | [155793-cybloc.json](./155793-cybloc.json) |
 | Cybo War | 99898 | [99898-cybo-war.json](./99898-cybo-war.json) |
 | Cyborg 009 | 45871 | [45871-cyborg-009.json](./45871-cyborg-009.json) |
 | Cyborg 009 | 84111 | [84111-cyborg-009.json](./84111-cyborg-009.json) |
