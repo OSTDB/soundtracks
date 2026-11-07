@@ -6356,6 +6356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Queen II | 302698 | [302698-first-queen-ii.json](./302698-first-queen-ii.json) |
 | First Queen III | 302699 | [302699-first-queen-iii.json](./302699-first-queen-iii.json) |
 | First Queen IV: Varcia Senki | 152384 | [152384-first-queen-iv-varcia-senki.json](./152384-first-queen-iv-varcia-senki.json) |
+| First Racer | 158822 | [158822-first-racer.json](./158822-first-racer.json) |
 | First Report: Unreal | 236106 | [236106-first-report-unreal.json](./236106-first-report-unreal.json) |
 | First Responder VR | 241516 | [241516-first-responder-vr.json](./241516-first-responder-vr.json) |
 | First Samurai | 71214 | [71214-first-samurai.json](./71214-first-samurai.json) |
@@ -9687,6 +9688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ford Street Racing: XR Edition | 327743 | [327743-ford-street-racing-xr-edition.json](./327743-ford-street-racing-xr-edition.json) |
 | Ford Truck Mania | 44942 | [44942-ford-truck-mania.json](./44942-ford-truck-mania.json) |
 | Ford vs. Chevy | 5838 | [5838-ford-vs-chevy.json](./5838-ford-vs-chevy.json) |
+| Fore Score | 158829 | [158829-fore-score.json](./158829-fore-score.json) |
 | Fore! Track | 311436 | [311436-fore-track.json](./311436-fore-track.json) |
 | Forebearers | 112704 | [112704-forebearers.json](./112704-forebearers.json) |
 | Forebears | 211934 | [211934-forebears.json](./211934-forebears.json) |
