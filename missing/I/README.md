@@ -3926,6 +3926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5591,6 +5592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inverted Journey | 295886 | [295886-inverted-journey.json](./295886-inverted-journey.json) |
 | Inverted Space | 176990 | [176990-inverted-space.json](./176990-inverted-space.json) |
 | InVertia | 223801 | [223801-invertia.json](./223801-invertia.json) |
+| Invertigo | 154164 | [154164-invertigo.json](./154164-invertigo.json) |
 | Invertinator | 350525 | [350525-invertinator.json](./350525-invertinator.json) |
 | Invertio | 186196 | [186196-invertio.json](./186196-invertio.json) |
 | Inverto | 50255 | [50255-inverto.json](./50255-inverto.json) |
