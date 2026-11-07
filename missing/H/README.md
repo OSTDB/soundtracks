@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H.E. | 108252 | [108252-h-e.json](./108252-h-e.json) |
 | H.E.D.Z. - Head Extreme Destruction Zone | 50140 | [50140-h-e-d-z-head-extreme-destruction-zone.json](./50140-h-e-d-z-head-extreme-destruction-zone.json) |
 | H.E.L.M.E.T. Force: Rise of the Machines | 109552 | [109552-h-e-l-m-e-t-force-rise-of-the-machines.json](./109552-h-e-l-m-e-t-force-rise-of-the-machines.json) |
+| H.E.L.P.: The Heroes Enhancing Lives Program | 151919 | [151919-h-e-l-p-the-heroes-enhancing-lives-program.json](./151919-h-e-l-p-the-heroes-enhancing-lives-program.json) |
 | H.E.N.T.A.L.K.E.R. | 311098 | [311098-h-e-n-t-a-l-k-e-r.json](./311098-h-e-n-t-a-l-k-e-r.json) |
 | H.E.R.O: Human Extraction and Rescue Operation | 67808 | [67808-h-e-r-o-human-extraction-and-rescue-operation.json](./67808-h-e-r-o-human-extraction-and-rescue-operation.json) |
 | H.E.R.O. | 6112 | [6112-h-e-r-o.json](./6112-h-e-r-o.json) |
@@ -9599,6 +9600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hong Kong 97 | 9616 | [9616-hong-kong-97.json](./9616-hong-kong-97.json) |
 | Hong Kong 97 Gameboy | 306787 | [306787-hong-kong-97-gameboy.json](./306787-hong-kong-97-gameboy.json) |
 | Hong Kong Haunting: Fishball Girl | 358993 | [358993-hong-kong-haunting-fishball-girl.json](./358993-hong-kong-haunting-fishball-girl.json) |
+| Hong Kong Mahjong | 151915 | [151915-hong-kong-mahjong.json](./151915-hong-kong-mahjong.json) |
 | Hong Kong Mahjong | 334661 | [334661-hong-kong-mahjong.json](./334661-hong-kong-mahjong.json) |
 | Hong Kong Mahjong Pro | 79933 | [79933-hong-kong-mahjong-pro.json](./79933-hong-kong-mahjong-pro.json) |
 | Hong Kong Obscure | 245861 | [245861-hong-kong-obscure.json](./245861-hong-kong-obscure.json) |
