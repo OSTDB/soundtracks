@@ -1686,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2020 Celeste Spring Community Collab | 199801 | [199801-2020-celeste-spring-community-collab.json](./199801-2020-celeste-spring-community-collab.json) |
 | 2020 The God of Highschool with Naver Webtoon | 137555 | [137555-2020-the-god-of-highschool-with-naver-webtoon.json](./137555-2020-the-god-of-highschool-with-naver-webtoon.json) |
 | 2020: My Country | 56363 | [56363-2020-my-country.json](./56363-2020-my-country.json) |
+| 2020: The Ride | 159984 | [159984-2020-the-ride.json](./159984-2020-the-ride.json) |
 | 2020! | 261523 | [261523-2020.json](./261523-2020.json) |
 | 2021: Moon Escape | 246869 | [246869-2021-moon-escape.json](./246869-2021-moon-escape.json) |
 | 2022 A Doom Odyssey | 258889 | [258889-2022-a-doom-odyssey.json](./258889-2022-a-doom-odyssey.json) |
