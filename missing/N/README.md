@@ -2970,6 +2970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neurotypical | 266961 | [266961-neurotypical.json](./266961-neurotypical.json) |
 | NeuroVoider: Deluxe Edition | 53413 | [53413-neurovoider-deluxe-edition.json](./53413-neurovoider-deluxe-edition.json) |
 | Neurowake | 41896 | [41896-neurowake.json](./41896-neurowake.json) |
+| NeuroWorm | 190812 | [190812-neuroworm.json](./190812-neuroworm.json) |
 | Neuroza | 335867 | [335867-neuroza.json](./335867-neuroza.json) |
 | Neuter Master | 372463 | [372463-neuter-master.json](./372463-neuter-master.json) |
 | Neutopia | 28524 | [28524-neutopia.json](./28524-neutopia.json) |
@@ -5001,6 +5002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Battle | 204488 | [204488-ninja-battle.json](./204488-ninja-battle.json) |
 | Ninja Battle Heroes | 24564 | [24564-ninja-battle-heroes.json](./24564-ninja-battle-heroes.json) |
 | Ninja Blade | 7121 | [7121-ninja-blade.json](./7121-ninja-blade.json) |
+| Ninja Blast | 190809 | [190809-ninja-blast.json](./190809-ninja-blast.json) |
 | Ninja Box | 112080 | [112080-ninja-box.json](./112080-ninja-box.json) |
 | Ninja Boy 2 | 48966 | [48966-ninja-boy-2.json](./48966-ninja-boy-2.json) |
 | Ninja Break | 203559 | [203559-ninja-break.json](./203559-ninja-break.json) |
