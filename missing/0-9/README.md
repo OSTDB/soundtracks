@@ -2767,6 +2767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 46 Pegason b | 205022 | [205022-46-pegason-b.json](./205022-46-pegason-b.json) |
 | 48 Chambers | 64654 | [64654-48-chambers.json](./64654-48-chambers.json) |
 | 48 Pieces | 109036 | [109036-48-pieces.json](./109036-48-pieces.json) |
+| 486 | 161473 | [161473-486.json](./161473-486.json) |
 | 49 Keys | 301039 | [301039-49-keys.json](./301039-49-keys.json) |
 | 49 Squares | 253448 | [253448-49-squares.json](./253448-49-squares.json) |
 | 4A Flyer | 377833 | [377833-4a-flyer.json](./377833-4a-flyer.json) |
