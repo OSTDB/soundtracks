@@ -10411,6 +10411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climax Landers: Motte ke! Minige Campaign | 283331 | [283331-climax-landers-motte-ke-minige-campaign.json](./283331-climax-landers-motte-ke-minige-campaign.json) |
 | Climb | 103965 | [103965-climb.json](./103965-climb.json) |
 | Climb | 182760 | [182760-climb.json](./182760-climb.json) |
+| Climb | 184158 | [184158-climb.json](./184158-climb.json) |
 | Climb | 362343 | [362343-climb.json](./362343-climb.json) |
 | Climb and Cry | 405627 | [405627-climb-and-cry.json](./405627-climb-and-cry.json) |
 | Climb and Fall Dice Adventure | 242205 | [242205-climb-and-fall-dice-adventure.json](./242205-climb-and-fall-dice-adventure.json) |
