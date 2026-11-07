@@ -1800,8 +1800,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omerta: City of Gangsters | 6330 | [6330-omerta-city-of-gangsters.json](./6330-omerta-city-of-gangsters.json) |
 | Omerta: City of Gangsters - Damsel in Distress | 10639 | [10639-omerta-city-of-gangsters-damsel-in-distress.json](./10639-omerta-city-of-gangsters-damsel-in-distress.json) |
 | Omerta: City of Gangsters - The Arms Industry | 10640 | [10640-omerta-city-of-gangsters-the-arms-industry.json](./10640-omerta-city-of-gangsters-the-arms-industry.json) |
+| Omerta: City of Gangsters - The Bulgarian Colossus | 154700 | [154700-omerta-city-of-gangsters-the-bulgarian-colossus.json](./154700-omerta-city-of-gangsters-the-bulgarian-colossus.json) |
 | Omerta: City of Gangsters - The Con Artist | 10641 | [10641-omerta-city-of-gangsters-the-con-artist.json](./10641-omerta-city-of-gangsters-the-con-artist.json) |
 | Omerta: City of Gangsters - The Japanese Incentive | 9217 | [9217-omerta-city-of-gangsters-the-japanese-incentive.json](./9217-omerta-city-of-gangsters-the-japanese-incentive.json) |
+| Omerta: City of Gangsters Bundle | 154701 | [154701-omerta-city-of-gangsters-bundle.json](./154701-omerta-city-of-gangsters-bundle.json) |
 | Omerta: City of Gangsters Gold Edition | 51863 | [51863-omerta-city-of-gangsters-gold-edition.json](./51863-omerta-city-of-gangsters-gold-edition.json) |
 | Omertà: Mafia Novel | 373539 | [373539-omerta-mafia-novel.json](./373539-omerta-mafia-novel.json) |
 | Omexyan | 418737 | [418737-omexyan.json](./418737-omexyan.json) |
