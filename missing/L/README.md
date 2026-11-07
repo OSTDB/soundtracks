@@ -7928,6 +7928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Los Angeles 1985 | 358306 | [358306-los-angeles-1985.json](./358306-los-angeles-1985.json) |
 | Los Angeles Crimes | 194101 | [194101-los-angeles-crimes.json](./194101-los-angeles-crimes.json) |
 | Los Angeles SWAT | 13012 | [13012-los-angeles-swat.json](./13012-los-angeles-swat.json) |
+| Los Cops | 154152 | [154152-los-cops.json](./154152-los-cops.json) |
 | Los Disneys 2.0 | 414433 | [414433-los-disneys-2-0.json](./414433-los-disneys-2-0.json) |
 | Los Justicieros (Zorton Brothers) | 119398 | [119398-los-justicieros-zorton-brothers.json](./119398-los-justicieros-zorton-brothers.json) |
 | Los Lunnis | 269610 | [269610-los-lunnis.json](./269610-los-lunnis.json) |
@@ -8685,6 +8686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love And Death | 414568 | [414568-love-and-death.json](./414568-love-and-death.json) |
 | Love and Demons | 252074 | [252074-love-and-demons.json](./252074-love-and-demons.json) |
 | Love and Demons | 293846 | [293846-love-and-demons.json](./293846-love-and-demons.json) |
+| Love and Enchants | 154132 | [154132-love-and-enchants.json](./154132-love-and-enchants.json) |
 | Love and Fear | 338094 | [338094-love-and-fear.json](./338094-love-and-fear.json) |
 | Love and Formaldehyde | 225266 | [225266-love-and-formaldehyde.json](./225266-love-and-formaldehyde.json) |
 | Love and Guillotines | 195629 | [195629-love-and-guillotines.json](./195629-love-and-guillotines.json) |
