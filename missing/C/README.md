@@ -2281,6 +2281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Street | 349815 | [349815-car-street.json](./349815-car-street.json) |
 | Car Stunt Challenge 2018 | 103060 | [103060-car-stunt-challenge-2018.json](./103060-car-stunt-challenge-2018.json) |
 | Car Tag | 295955 | [295955-car-tag.json](./295955-car-tag.json) |
+| Car Tehc | 171677 | [171677-car-tehc.json](./171677-car-tehc.json) |
 | Car Thief Simulator 2017 | 74209 | [74209-car-thief-simulator-2017.json](./74209-car-thief-simulator-2017.json) |
 | Car Trader Simulator | 81162 | [81162-car-trader-simulator.json](./81162-car-trader-simulator.json) |
 | Car Trader Simulator: Welcome to the Business | 171384 | [171384-car-trader-simulator-welcome-to-the-business.json](./171384-car-trader-simulator-welcome-to-the-business.json) |
@@ -5527,6 +5528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CEO Sim: Cyberpunk | 290634 | [290634-ceo-sim-cyberpunk.json](./290634-ceo-sim-cyberpunk.json) |
 | CEO Test | 24790 | [24790-ceo-test.json](./24790-ceo-test.json) |
 | Cepheus Protocol | 127246 | [127246-cepheus-protocol.json](./127246-cepheus-protocol.json) |
+| Cepheus Protocol Anthology | 171688 | [171688-cepheus-protocol-anthology.json](./171688-cepheus-protocol-anthology.json) |
 | Cepheus Protocol: Free Vehicle Camo Post Modern Collection | 256998 | [256998-cepheus-protocol-free-vehicle-camo-post-modern-collection.json](./256998-cepheus-protocol-free-vehicle-camo-post-modern-collection.json) |
 | Cepheus Protocol: Project Fenrir | 281986 | [281986-cepheus-protocol-project-fenrir.json](./281986-cepheus-protocol-project-fenrir.json) |
 | Cepheus Protocol: Support Pack Vehicle Camo Classic Wars Collection | 256996 | [256996-cepheus-protocol-support-pack-vehicle-camo-classic-wars-collection.json](./256996-cepheus-protocol-support-pack-vehicle-camo-classic-wars-collection.json) |
@@ -8362,6 +8364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroma Zero | 319356 | [319356-chroma-zero.json](./319356-chroma-zero.json) |
 | Chroma: Bloom and Blight | 128916 | [128916-chroma-bloom-and-blight.json](./128916-chroma-bloom-and-blight.json) |
 | Chroma+Elektron | 199564 | [199564-chroma-elektron.json](./199564-chroma-elektron.json) |
+| ChromaBeat | 171712 | [171712-chromabeat.json](./171712-chromabeat.json) |
 | Chromacell | 290540 | [290540-chromacell.json](./290540-chromacell.json) |
 | Chromadi | 367931 | [367931-chromadi.json](./367931-chromadi.json) |
 | Chromadrome | 73511 | [73511-chromadrome.json](./73511-chromadrome.json) |
@@ -18337,6 +18340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown Solitaire: Card Game | 96714 | [96714-crown-solitaire-card-game.json](./96714-crown-solitaire-card-game.json) |
 | Crown Trick | 113689 | [113689-crown-trick.json](./113689-crown-trick.json) |
 | Crown Trick: Limited Edition | 173112 | [173112-crown-trick-limited-edition.json](./173112-crown-trick-limited-edition.json) |
+| Crown Trick: Requiem of Elements | 171718 | [171718-crown-trick-requiem-of-elements.json](./171718-crown-trick-requiem-of-elements.json) |
 | Crown Trick: Special Edition | 170037 | [170037-crown-trick-special-edition.json](./170037-crown-trick-special-edition.json) |
 | Crown Wars: The Black Prince | 208416 | [208416-crown-wars-the-black-prince.json](./208416-crown-wars-the-black-prince.json) |
 | Crown Wars: The Black Prince - Brotherhood of Light Cosmetic Pack | 290124 | [290124-crown-wars-the-black-prince-brotherhood-of-light-cosmetic-pack.json](./290124-crown-wars-the-black-prince-brotherhood-of-light-cosmetic-pack.json) |
