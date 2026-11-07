@@ -971,7 +971,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3214,6 +3213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bass Landing | 43922 | [43922-bass-landing.json](./43922-bass-landing.json) |
 | Bass Landing 2 | 55879 | [55879-bass-landing-2.json](./55879-bass-landing-2.json) |
 | Bass Landing 3 | 55878 | [55878-bass-landing-3.json](./55878-bass-landing-3.json) |
+| Bass Master Classic: Tournament Edition | 145779 | [145779-bass-master-classic-tournament-edition.json](./145779-bass-master-classic-tournament-edition.json) |
 | Bass Masters Classic | 357181 | [357181-bass-masters-classic.json](./357181-bass-masters-classic.json) |
 | Bass Masters Classic | 49867 | [49867-bass-masters-classic.json](./49867-bass-masters-classic.json) |
 | Bass Monkey | 191041 | [191041-bass-monkey.json](./191041-bass-monkey.json) |
@@ -4926,6 +4926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beaming Stingray | 240820 | [240820-beaming-stingray.json](./240820-beaming-stingray.json) |
 | Beamrider | 5661 | [5661-beamrider.json](./5661-beamrider.json) |
 | BeamStruggle | 367616 | [367616-beamstruggle.json](./367616-beamstruggle.json) |
+| Bean | 145760 | [145760-bean.json](./145760-bean.json) |
 | Bean | 311237 | [311237-bean.json](./311237-bean.json) |
 | Bean | 370205 | [370205-bean.json](./370205-bean.json) |
 | Bean and Nothingness | 171204 | [171204-bean-and-nothingness.json](./171204-bean-and-nothingness.json) |
@@ -14012,6 +14013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy's Abyssal Excursion | 382455 | [382455-bouncys-abyssal-excursion.json](./382455-bouncys-abyssal-excursion.json) |
 | Bouncy's Obstacle Course | 377829 | [377829-bouncys-obstacle-course.json](./377829-bouncys-obstacle-course.json) |
 | BouncyBoi in Puzzle Land | 157495 | [157495-bouncyboi-in-puzzle-land.json](./157495-bouncyboi-in-puzzle-land.json) |
+| Bound | 145795 | [145795-bound.json](./145795-bound.json) |
 | Bound Ball Animals | 314020 | [314020-bound-ball-animals.json](./314020-bound-ball-animals.json) |
 | Bound Between Desks | 347765 | [347765-bound-between-desks.json](./347765-bound-between-desks.json) |
 | Bound By A Curse | 402365 | [402365-bound-by-a-curse.json](./402365-bound-by-a-curse.json) |
