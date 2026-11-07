@@ -692,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XenoShyft: Dreadmire | 170380 | [170380-xenoshyft-dreadmire.json](./170380-xenoshyft-dreadmire.json) |
 | XenoShyft: Forbidden Sciences | 170378 | [170378-xenoshyft-forbidden-sciences.json](./170378-xenoshyft-forbidden-sciences.json) |
 | XenoShyft: NorTec Elite | 170379 | [170379-xenoshyft-nortec-elite.json](./170379-xenoshyft-nortec-elite.json) |
+| XenoShyft: Psychogenics Lab | 159453 | [159453-xenoshyft-psychogenics-lab.json](./159453-xenoshyft-psychogenics-lab.json) |
 | Xenosis: Alien Infection | 94913 | [94913-xenosis-alien-infection.json](./94913-xenosis-alien-infection.json) |
 | Xenoslaive Overdrive | 51501 | [51501-xenoslaive-overdrive.json](./51501-xenoslaive-overdrive.json) |
 | Xenosphere | 183709 | [183709-xenosphere.json](./183709-xenosphere.json) |
