@@ -2144,6 +2144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Angels II | 21603 | [21603-league-of-angels-ii.json](./21603-league-of-angels-ii.json) |
 | League of Angels III | 112047 | [112047-league-of-angels-iii.json](./112047-league-of-angels-iii.json) |
 | League of Angels Series | 109967 | [109967-league-of-angels-series.json](./109967-league-of-angels-series.json) |
+| League of Angels: Heaven's Fury | 172258 | [172258-league-of-angels-heavens-fury.json](./172258-league-of-angels-heavens-fury.json) |
 | League of Angels: Pact | 254046 | [254046-league-of-angels-pact.json](./254046-league-of-angels-pact.json) |
 | League of Battle | 50522 | [50522-league-of-battle.json](./50522-league-of-battle.json) |
 | League of Battleship: Thunder War | 181584 | [181584-league-of-battleship-thunder-war.json](./181584-league-of-battleship-thunder-war.json) |
@@ -4371,6 +4372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liblade | 181032 | [181032-liblade.json](./181032-liblade.json) |
 | Libra of the Vampire Princess | 37392 | [37392-libra-of-the-vampire-princess.json](./37392-libra-of-the-vampire-princess.json) |
 | Libra of the Vampire Princess: Lycoris & Aoi in The Promise Plus Iris in Homeworld | 90627 | [90627-libra-of-the-vampire-princess-lycoris-and-aoi-in-the-promise-plus-iris-in-homeworld.json](./90627-libra-of-the-vampire-princess-lycoris-and-aoi-in-the-promise-plus-iris-in-homeworld.json) |
+| Librarian | 172292 | [172292-librarian.json](./172292-librarian.json) |
 | Librarian of Aquademia: The Forbidden Grimoire | 402690 | [402690-librarian-of-aquademia-the-forbidden-grimoire.json](./402690-librarian-of-aquademia-the-forbidden-grimoire.json) |
 | Librarian: Tidy Up the Arcane Library! | 393398 | [393398-librarian-tidy-up-the-arcane-library.json](./393398-librarian-tidy-up-the-arcane-library.json) |
 | Librarium | 235495 | [235495-librarium.json](./235495-librarium.json) |
@@ -4586,6 +4588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of Kanji Island | 303628 | [303628-life-of-kanji-island.json](./303628-life-of-kanji-island.json) |
 | Life of Lon | 36995 | [36995-life-of-lon.json](./36995-life-of-lon.json) |
 | Life of Mellow | 174702 | [174702-life-of-mellow.json](./174702-life-of-mellow.json) |
+| Life of Ocean | 172288 | [172288-life-of-ocean.json](./172288-life-of-ocean.json) |
 | Life of Pepe | 189797 | [189797-life-of-pepe.json](./189797-life-of-pepe.json) |
 | Life of Pi | 246766 | [246766-life-of-pi.json](./246766-life-of-pi.json) |
 | Life of Pixel | 10514 | [10514-life-of-pixel.json](./10514-life-of-pixel.json) |
@@ -4593,6 +4596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of Snow Wolf | 246981 | [246981-life-of-snow-wolf.json](./246981-life-of-snow-wolf.json) |
 | Life of Tabayama | 344557 | [344557-life-of-tabayama.json](./344557-life-of-tabayama.json) |
 | Life of Thife | 277125 | [277125-life-of-thife.json](./277125-life-of-thife.json) |
+| Life of Trophy | 172305 | [172305-life-of-trophy.json](./172305-life-of-trophy.json) |
 | Life on a Pizza | 164880 | [164880-life-on-a-pizza.json](./164880-life-on-a-pizza.json) |
 | Life on Mars Remake | 55443 | [55443-life-on-mars-remake.json](./55443-life-on-mars-remake.json) |
 | Life on Mars: Genesis | 265456 | [265456-life-on-mars-genesis.json](./265456-life-on-mars-genesis.json) |
@@ -4810,6 +4814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Paradox | 190068 | [190068-light-paradox.json](./190068-light-paradox.json) |
 | Light Path | 292978 | [292978-light-path.json](./292978-light-path.json) |
 | Light Pollution | 262293 | [262293-light-pollution.json](./262293-light-pollution.json) |
+| Light Pursuer | 172301 | [172301-light-pursuer.json](./172301-light-pursuer.json) |
 | Light Quest | 231991 | [231991-light-quest.json](./231991-light-quest.json) |
 | Light Quest | 89793 | [89793-light-quest.json](./89793-light-quest.json) |
 | Light Rangers: Mending the Maniac Madness | 209406 | [209406-light-rangers-mending-the-maniac-madness.json](./209406-light-rangers-mending-the-maniac-madness.json) |
@@ -8279,6 +8284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Island: Blast Adventure | 103766 | [103766-lost-island-blast-adventure.json](./103766-lost-island-blast-adventure.json) |
 | Lost Island: Eternal Storm | 295916 | [295916-lost-island-eternal-storm.json](./295916-lost-island-eternal-storm.json) |
 | Lost Island:Battle Royale | 126960 | [126960-lost-island-battle-royale.json](./126960-lost-island-battle-royale.json) |
+| Lost Islands | 172307 | [172307-lost-islands.json](./172307-lost-islands.json) |
 | Lost Islands: Legend Pack | 326265 | [326265-lost-islands-legend-pack.json](./326265-lost-islands-legend-pack.json) |
 | Lost Islands: Pioneer Pack | 326266 | [326266-lost-islands-pioneer-pack.json](./326266-lost-islands-pioneer-pack.json) |
 | Lost Isle | 269320 | [269320-lost-isle.json](./269320-lost-isle.json) |
