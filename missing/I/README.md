@@ -3885,6 +3885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Loop: Backrooms | 366952 | [366952-infinite-loop-backrooms.json](./366952-infinite-loop-backrooms.json) |
 | Infinite Loop: Kojou ga Miseta Yume | 56825 | [56825-infinite-loop-kojou-ga-miseta-yume.json](./56825-infinite-loop-kojou-ga-miseta-yume.json) |
 | Infinite Magicraid | 210510 | [210510-infinite-magicraid.json](./210510-infinite-magicraid.json) |
+| Infinite Mana | 168979 | [168979-infinite-mana.json](./168979-infinite-mana.json) |
 | Infinite Mansion | 374816 | [374816-infinite-mansion.json](./374816-infinite-mansion.json) |
 | Infinite Mario 64 | 288851 | [288851-infinite-mario-64.json](./288851-infinite-mario-64.json) |
 | Infinite Mario Bros. | 212694 | [212694-infinite-mario-bros.json](./212694-infinite-mario-bros.json) |
