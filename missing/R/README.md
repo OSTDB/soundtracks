@@ -4136,6 +4136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redbeard's Recoil | 344707 | [344707-redbeards-recoil.json](./344707-redbeards-recoil.json) |
 | RedBull Car Park Drift | 120349 | [120349-redbull-car-park-drift.json](./120349-redbull-car-park-drift.json) |
 | RedCard 2003 | 46027 | [46027-redcard-2003.json](./46027-redcard-2003.json) |
+| RedCat | 185790 | [185790-redcat.json](./185790-redcat.json) |
 | RedCat 2: De Ontvoering van Prinses Dana | 242634 | [242634-redcat-2-de-ontvoering-van-prinses-dana.json](./242634-redcat-2-de-ontvoering-van-prinses-dana.json) |
 | RedCat Megapack | 242638 | [242638-redcat-megapack.json](./242638-redcat-megapack.json) |
 | RedCat Megapack 2 | 242639 | [242639-redcat-megapack-2.json](./242639-redcat-megapack-2.json) |
@@ -10940,6 +10941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Rules | 382951 | [382951-room-rules.json](./382951-room-rules.json) |
 | Room Service | 343231 | [343231-room-service.json](./343231-room-service.json) |
 | Room Service | 54819 | [54819-room-service.json](./54819-room-service.json) |
+| Room Smash | 185804 | [185804-room-smash.json](./185804-room-smash.json) |
 | Room Ten | 31181 | [31181-room-ten.json](./31181-room-ten.json) |
 | Room to Breathe | 399382 | [399382-room-to-breathe.json](./399382-room-to-breathe.json) |
 | Room to Grow | 143916 | [143916-room-to-grow.json](./143916-room-to-grow.json) |
