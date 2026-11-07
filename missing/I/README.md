@@ -4935,6 +4935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Basketball | 187624 | [187624-international-basketball.json](./187624-international-basketball.json) |
 | International Basketball 2009 | 54124 | [54124-international-basketball-2009.json](./54124-international-basketball-2009.json) |
 | International Basketball Manager | 106559 | [106559-international-basketball-manager.json](./106559-international-basketball-manager.json) |
+| International Basketball Manager 22 | 185762 | [185762-international-basketball-manager-22.json](./185762-international-basketball-manager-22.json) |
 | International Basketball Manager 23 | 224551 | [224551-international-basketball-manager-23.json](./224551-international-basketball-manager-23.json) |
 | International Basketball Manager Season 2010/11 | 54123 | [54123-international-basketball-manager-season-2010-11.json](./54123-international-basketball-manager-season-2010-11.json) |
 | International Bounty Hunter | 183830 | [183830-international-bounty-hunter.json](./183830-international-bounty-hunter.json) |
