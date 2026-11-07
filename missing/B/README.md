@@ -11096,6 +11096,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Punk | 309563 | [309563-blood-punk.json](./309563-blood-punk.json) |
 | Blood Radiant | 277275 | [277275-blood-radiant.json](./277275-blood-radiant.json) |
 | Blood Rage: Digital Edition | 130062 | [130062-blood-rage-digital-edition.json](./130062-blood-rage-digital-edition.json) |
+| Blood Rage: Digital Edition - Gods of Asgard | 171708 | [171708-blood-rage-digital-edition-gods-of-asgard.json](./171708-blood-rage-digital-edition-gods-of-asgard.json) |
+| Blood Rage: Digital Edition - Mystics of Midgard | 171711 | [171711-blood-rage-digital-edition-mystics-of-midgard.json](./171711-blood-rage-digital-edition-mystics-of-midgard.json) |
 | Blood Reaver | 298237 | [298237-blood-reaver.json](./298237-blood-reaver.json) |
 | Blood Red | 237137 | [237137-blood-red.json](./237137-blood-red.json) |
 | Blood Red Fists | 190292 | [190292-blood-red-fists.json](./190292-blood-red-fists.json) |
@@ -12989,6 +12991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boo Breakers: The Ghostening | 30808 | [30808-boo-breakers-the-ghostening.json](./30808-boo-breakers-the-ghostening.json) |
 | Boo Bunny Plague | 17634 | [17634-boo-bunny-plague.json](./17634-boo-bunny-plague.json) |
 | Boo Men | 201498 | [201498-boo-men.json](./201498-boo-men.json) |
+| Boo Party | 171683 | [171683-boo-party.json](./171683-boo-party.json) |
 | Boo: The World's Cutest Dog Game | 57909 | [57909-boo-the-worlds-cutest-dog-game.json](./57909-boo-the-worlds-cutest-dog-game.json) |
 | Boo! | 214883 | [214883-boo.json](./214883-boo.json) |
 | Boo! | 221559 | [221559-boo.json](./221559-boo.json) |
