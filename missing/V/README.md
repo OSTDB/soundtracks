@@ -1685,6 +1685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Very Very Valet | 141680 | [141680-very-very-valet.json](./141680-very-very-valet.json) |
 | Verydice | 88876 | [88876-verydice.json](./88876-verydice.json) |
 | VeryVeryHouse | 356637 | [356637-veryveryhouse.json](./356637-veryveryhouse.json) |
+| Verz | 161497 | [161497-verz.json](./161497-verz.json) |
 | Verzaken! | 74982 | [74982-verzaken.json](./74982-verzaken.json) |
 | Verzerk | 46508 | [46508-verzerk.json](./46508-verzerk.json) |
 | Vesna | 251968 | [251968-vesna.json](./251968-vesna.json) |
@@ -2823,6 +2824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Table Tennis | 241193 | [241193-virtual-table-tennis.json](./241193-virtual-table-tennis.json) |
 | Virtual Table Tennis Ping Pong | 104622 | [104622-virtual-table-tennis-ping-pong.json](./104622-virtual-table-tennis-ping-pong.json) |
 | Virtual Taekwondo | 366358 | [366358-virtual-taekwondo.json](./366358-virtual-taekwondo.json) |
+| Virtual telescope | 161503 | [161503-virtual-telescope.json](./161503-virtual-telescope.json) |
 | Virtual Temple: Order of the Golden Dawn | 51919 | [51919-virtual-temple-order-of-the-golden-dawn.json](./51919-virtual-temple-order-of-the-golden-dawn.json) |
 | Virtual Ties Isekaijoucho Träumerei | 376085 | [376085-virtual-ties-isekaijoucho-traumerei.json](./376085-virtual-ties-isekaijoucho-traumerei.json) |
 | Virtual Towers Online | 112273 | [112273-virtual-towers-online.json](./112273-virtual-towers-online.json) |
@@ -3157,6 +3159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vixen | 46741 | [46741-vixen.json](./46741-vixen.json) |
 | Vixen 357 | 425864 | [425864-vixen-357.json](./425864-vixen-357.json) |
 | Vixen 357 | 4452 | [4452-vixen-357.json](./4452-vixen-357.json) |
+| Vixen Wars | 161500 | [161500-vixen-wars.json](./161500-vixen-wars.json) |
 | Vixens From outer Space | 106391 | [106391-vixens-from-outer-space.json](./106391-vixens-from-outer-space.json) |
 | Viy | 167562 | [167562-viy.json](./167562-viy.json) |
 | Viy: Retold Story | 190142 | [190142-viy-retold-story.json](./190142-viy-retold-story.json) |
