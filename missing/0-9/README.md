@@ -1780,6 +1780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048Puzzle | 357973 | [357973-2048puzzle.json](./357973-2048puzzle.json) |
 | 2048Wars | 109987 | [109987-2048wars.json](./109987-2048wars.json) |
 | 2048x2048 | 358070 | [358070-2048x2048.json](./358070-2048x2048.json) |
+| 2051 AD. Your life | 158826 | [158826-2051-ad-your-life.json](./158826-2051-ad-your-life.json) |
 | 206 | 186710 | [186710-206.json](./186710-206.json) |
 | 2060 Cyber Racer | 91709 | [91709-2060-cyber-racer.json](./91709-2060-cyber-racer.json) |
 | 2064: Read Only Memories | 13171 | [13171-2064-read-only-memories.json](./13171-2064-read-only-memories.json) |
