@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Langrisser V: The End of Legend | 78665 | [78665-langrisser-v-the-end-of-legend.json](./78665-langrisser-v-the-end-of-legend.json) |
 | Langrisser: Hikari no Matsuei | 42010 | [42010-langrisser-hikari-no-matsuei.json](./42010-langrisser-hikari-no-matsuei.json) |
 | Langrisser: Sea of Sword | 411065 | [411065-langrisser-sea-of-sword.json](./411065-langrisser-sea-of-sword.json) |
+| Langton's Ant | 183122 | [183122-langtons-ant.json](./183122-langtons-ant.json) |
 | Language Adventure | 240699 | [240699-language-adventure.json](./240699-language-adventure.json) |
 | Language Learning Simulator: Alphabet | 309722 | [309722-language-learning-simulator-alphabet.json](./309722-language-learning-simulator-alphabet.json) |
 | Language Worm | 126221 | [126221-language-worm.json](./126221-language-worm.json) |
