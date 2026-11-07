@@ -922,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take You Home | 391991 | [391991-take-you-home.json](./391991-take-you-home.json) |
 | Take Your Altushka | 310106 | [310106-take-your-altushka.json](./310106-take-your-altushka.json) |
 | Take Your Best Shot | 69794 | [69794-take-your-best-shot.json](./69794-take-your-best-shot.json) |
+| Take your time Race Game | 185197 | [185197-take-your-time-race-game.json](./185197-take-your-time-race-game.json) |
 | Take Yutaka G1 Memory | 37795 | [37795-take-yutaka-g1-memory.json](./37795-take-yutaka-g1-memory.json) |
 | Take-out Weight Curling | 70949 | [70949-take-out-weight-curling.json](./70949-take-out-weight-curling.json) |
 | Take-Out Weight Curling 2 | 206617 | [206617-take-out-weight-curling-2.json](./206617-take-out-weight-curling-2.json) |
@@ -20669,6 +20670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrymly Disguised | 232781 | [232781-thrymly-disguised.json](./232781-thrymly-disguised.json) |
 | Thud Ridge: American Aces in 'Nam | 57594 | [57594-thud-ridge-american-aces-in-nam.json](./57594-thud-ridge-american-aces-in-nam.json) |
 | Thug Life | 377562 | [377562-thug-life.json](./377562-thug-life.json) |
+| Thug Racer! | 185203 | [185203-thug-racer.json](./185203-thug-racer.json) |
 | Thug Wars | 407084 | [407084-thug-wars.json](./407084-thug-wars.json) |
 | Thugging | 370682 | [370682-thugging.json](./370682-thugging.json) |
 | Thugs Law | 114827 | [114827-thugs-law.json](./114827-thugs-law.json) |
@@ -23000,6 +23002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time to Hunt | 200525 | [200525-time-to-hunt.json](./200525-time-to-hunt.json) |
 | Time To Live | 288606 | [288606-time-to-live.json](./288606-time-to-live.json) |
 | Time to Love | 405894 | [405894-time-to-love.json](./405894-time-to-love.json) |
+| Time to Morp | 185231 | [185231-time-to-morp.json](./185231-time-to-morp.json) |
 | Time to Play Bridge | 95582 | [95582-time-to-play-bridge.json](./95582-time-to-play-bridge.json) |
 | Time to Play Hearts | 86709 | [86709-time-to-play-hearts.json](./86709-time-to-play-hearts.json) |
 | Time to Play Pyramid | 96759 | [96759-time-to-play-pyramid.json](./96759-time-to-play-pyramid.json) |
@@ -23101,6 +23104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timeless Adventure: A Journey to Begin | 134533 | [134533-timeless-adventure-a-journey-to-begin.json](./134533-timeless-adventure-a-journey-to-begin.json) |
 | Timeless Dual | 152809 | [152809-timeless-dual.json](./152809-timeless-dual.json) |
 | Timeless Heart VR | 235806 | [235806-timeless-heart-vr.json](./235806-timeless-heart-vr.json) |
+| Timeless hero | 185192 | [185192-timeless-hero.json](./185192-timeless-hero.json) |
 | Timeless Paradox VR | 133200 | [133200-timeless-paradox-vr.json](./133200-timeless-paradox-vr.json) |
 | Timeless Rain | 249038 | [249038-timeless-rain.json](./249038-timeless-rain.json) |
 | Timeless Solitaire Collection | 372476 | [372476-timeless-solitaire-collection.json](./372476-timeless-solitaire-collection.json) |
