@@ -7918,6 +7918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep Simulator AR | 248265 | [248265-sheep-simulator-ar.json](./248265-sheep-simulator-ar.json) |
 | Sheep Split | 413383 | [413383-sheep-split.json](./413383-sheep-split.json) |
 | Sheep Sweep | 302182 | [302182-sheep-sweep.json](./302182-sheep-sweep.json) |
+| Sheep Tag 2 | 141967 | [141967-sheep-tag-2.json](./141967-sheep-tag-2.json) |
 | Sheep Up! | 120247 | [120247-sheep-up.json](./120247-sheep-up.json) |
 | Sheep's Quest | 173403 | [173403-sheeps-quest.json](./173403-sheeps-quest.json) |
 | Sheep's Symphony | 294455 | [294455-sheeps-symphony.json](./294455-sheeps-symphony.json) |
@@ -8761,6 +8762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinsetsu Mahou Shoujo | 131589 | [131589-shinsetsu-mahou-shoujo.json](./131589-shinsetsu-mahou-shoujo.json) |
 | Shinsetsu Shiawase Usagi 2 | 306917 | [306917-shinsetsu-shiawase-usagi-2.json](./306917-shinsetsu-shiawase-usagi-2.json) |
 | Shinsetsu Shiawase Usagi F: Yuujou Yori mo Aiyoku | 277859 | [277859-shinsetsu-shiawase-usagi-f-yuujou-yori-mo-aiyoku.json](./277859-shinsetsu-shiawase-usagi-f-yuujou-yori-mo-aiyoku.json) |
+| Shinshaku Tsurugi no Machi no Ihoujin Kuro no Kyuuden | 141989 | [141989-shinshaku-tsurugi-no-machi-no-ihoujin-kuro-no-kyuuden.json](./141989-shinshaku-tsurugi-no-machi-no-ihoujin-kuro-no-kyuuden.json) |
 | Shinshou Ikemen Ooku | 239014 | [239014-shinshou-ikemen-ooku.json](./239014-shinshou-ikemen-ooku.json) |
 | Shinshou Sange: Chiru Hana | 384248 | [384248-shinshou-sange-chiru-hana.json](./384248-shinshou-sange-chiru-hana.json) |
 | Shinshuku Taisen: It's a Noni! | 123622 | [123622-shinshuku-taisen-its-a-noni.json](./123622-shinshuku-taisen-its-a-noni.json) |
@@ -17676,6 +17678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Dreams Collection | 11656 | [11656-sonic-dreams-collection.json](./11656-sonic-dreams-collection.json) |
 | Sonic Drift | 45798 | [45798-sonic-drift.json](./45798-sonic-drift.json) |
 | Sonic Drift 16-Bit | 279759 | [279759-sonic-drift-16-bit.json](./279759-sonic-drift-16-bit.json) |
+| Sonic Duel | 141985 | [141985-sonic-duel.json](./141985-sonic-duel.json) |
 | Sonic Dungeons: Prototype | 316338 | [316338-sonic-dungeons-prototype.json](./316338-sonic-dungeons-prototype.json) |
 | Sonic Dynamo | 320357 | [320357-sonic-dynamo.json](./320357-sonic-dynamo.json) |
 | Sonic Eclipse | 316339 | [316339-sonic-eclipse.json](./316339-sonic-eclipse.json) |
@@ -19933,7 +19936,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 142578 | [142578-space-hunter.json](./142578-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
@@ -28860,6 +28862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Force Harrier | 26480 | [26480-strike-force-harrier.json](./26480-strike-force-harrier.json) |
 | Strike Force Heroes | 213516 | [213516-strike-force-heroes.json](./213516-strike-force-heroes.json) |
 | Strike Force Heroes | 277203 | [277203-strike-force-heroes.json](./277203-strike-force-heroes.json) |
+| Strike Force Heroes 2 | 141972 | [141972-strike-force-heroes-2.json](./141972-strike-force-heroes-2.json) |
 | Strike Force Heroes: Ninja Class | 298191 | [298191-strike-force-heroes-ninja-class.json](./298191-strike-force-heroes-ninja-class.json) |
 | Strike Force Heroes: Original Flash Outfits | 285304 | [285304-strike-force-heroes-original-flash-outfits.json](./285304-strike-force-heroes-original-flash-outfits.json) |
 | Strike Force Hydra | 49381 | [49381-strike-force-hydra.json](./49381-strike-force-hydra.json) |
@@ -35093,6 +35096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sutte Hakkun | 42541 | [42541-sutte-hakkun.json](./42541-sutte-hakkun.json) |
 | Sutte Hakkun GB | 142903 | [142903-sutte-hakkun-gb.json](./142903-sutte-hakkun-gb.json) |
 | Suugaku Riki-ou: Shokyuu Chuu-1 Level | 282046 | [282046-suugaku-riki-ou-shokyuu-chuu-1-level.json](./282046-suugaku-riki-ou-shokyuu-chuu-1-level.json) |
+| Suugaku Rikiou: Chukyuu Naka-2-Level | 141990 | [141990-suugaku-rikiou-chukyuu-naka-2-level.json](./141990-suugaku-rikiou-chukyuu-naka-2-level.json) |
 | Suugaku Rikiou: Joukyuu Naka-3-Level | 145391 | [145391-suugaku-rikiou-joukyuu-naka-3-level.json](./145391-suugaku-rikiou-joukyuu-naka-3-level.json) |
 | Suuji Atta! | 266165 | [266165-suuji-atta.json](./266165-suuji-atta.json) |
 | Suuji Puzzle: Game Zutto | 241183 | [241183-suuji-puzzle-game-zutto.json](./241183-suuji-puzzle-game-zutto.json) |
