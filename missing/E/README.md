@@ -2100,6 +2100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldrum: Red Tide | 219922 | [219922-eldrum-red-tide.json](./219922-eldrum-red-tide.json) |
 | Eldrum: Untold | 202863 | [202863-eldrum-untold.json](./202863-eldrum-untold.json) |
 | Ele Blaze | 68662 | [68662-ele-blaze.json](./68662-ele-blaze.json) |
+| Ele Rampage | 173923 | [173923-ele-rampage.json](./173923-ele-rampage.json) |
 | Ele-Mental | 149082 | [149082-ele-mental.json](./149082-ele-mental.json) |
 | Elea | 17469 | [17469-elea.json](./17469-elea.json) |
 | Elea Eluanda: Das verschwundene Tröstereulenbuch | 364822 | [364822-elea-eluanda-das-verschwundene-trostereulenbuch.json](./364822-elea-eluanda-das-verschwundene-trostereulenbuch.json) |
@@ -3950,6 +3951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endzone: A World Apart - Survivor Edition | 193533 | [193533-endzone-a-world-apart-survivor-edition.json](./193533-endzone-a-world-apart-survivor-edition.json) |
 | ENEFN | 132620 | [132620-enefn.json](./132620-enefn.json) |
 | Enelia: Dawn of Madness | 216688 | [216688-enelia-dawn-of-madness.json](./216688-enelia-dawn-of-madness.json) |
+| Enemies | 173941 | [173941-enemies.json](./173941-enemies.json) |
 | Enemies Defender | 248080 | [248080-enemies-defender.json](./248080-enemies-defender.json) |
 | Enemies: Gone Suburban | 239649 | [239649-enemies-gone-suburban.json](./239649-enemies-gone-suburban.json) |
 | Enemist | 335318 | [335318-enemist.json](./335318-enemist.json) |
@@ -5944,6 +5946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Essential Power | 369038 | [369038-essential-power.json](./369038-essential-power.json) |
 | Essentures | 115455 | [115455-essentures.json](./115455-essentures.json) |
 | Essex | 25893 | [25893-essex.json](./25893-essex.json) |
+| Essex: The Whale Hunter | 173930 | [173930-essex-the-whale-hunter.json](./173930-essex-the-whale-hunter.json) |
 | Essomenic | 388369 | [388369-essomenic.json](./388369-essomenic.json) |
 | Esta será mi cara para siempre | 391658 | [391658-esta-sera-mi-cara-para-siempre.json](./391658-esta-sera-mi-cara-para-siempre.json) |
 | Estab Life: Unity Memories | 289563 | [289563-estab-life-unity-memories.json](./289563-estab-life-unity-memories.json) |
