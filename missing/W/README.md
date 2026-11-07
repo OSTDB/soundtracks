@@ -9062,6 +9062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrecked: A Psychedelic Adventure | 265952 | [265952-wrecked-a-psychedelic-adventure.json](./265952-wrecked-a-psychedelic-adventure.json) |
 | Wrecked: Get Your Ship Together | 28805 | [28805-wrecked-get-your-ship-together.json](./28805-wrecked-get-your-ship-together.json) |
 | Wrecked: Revenge Revisited | 9863 | [9863-wrecked-revenge-revisited.json](./9863-wrecked-revenge-revisited.json) |
+| Wrecked! | 170635 | [170635-wrecked.json](./170635-wrecked.json) |
 | Wrecker | 127762 | [127762-wrecker.json](./127762-wrecker.json) |
 | Wrecker's Revenge | 317139 | [317139-wreckers-revenge.json](./317139-wreckers-revenge.json) |
 | Wreckers | 94670 | [94670-wreckers.json](./94670-wreckers.json) |
