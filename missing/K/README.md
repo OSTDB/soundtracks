@@ -4556,6 +4556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Runner: Blade and Bolt | 301888 | [301888-knight-runner-blade-and-bolt.json](./301888-knight-runner-blade-and-bolt.json) |
 | Knight Shooter | 319943 | [319943-knight-shooter.json](./319943-knight-shooter.json) |
 | Knight Sim Life | 300868 | [300868-knight-sim-life.json](./300868-knight-sim-life.json) |
+| Knight Slave: The Dark Valkyrie of Depravity | 154139 | [154139-knight-slave-the-dark-valkyrie-of-depravity.json](./154139-knight-slave-the-dark-valkyrie-of-depravity.json) |
 | Knight Slinger | 64103 | [64103-knight-slinger.json](./64103-knight-slinger.json) |
 | Knight Solitaire | 58719 | [58719-knight-solitaire.json](./58719-knight-solitaire.json) |
 | Knight Solitaire 2 | 102559 | [102559-knight-solitaire-2.json](./102559-knight-solitaire-2.json) |
