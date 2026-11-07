@@ -5234,6 +5234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Kabagahara | 134949 | [134949-escape-from-kabagahara.json](./134949-escape-from-kabagahara.json) |
 | Escape from Khoshima | 12994 | [12994-escape-from-khoshima.json](./12994-escape-from-khoshima.json) |
 | Escape From Kiss | 348896 | [348896-escape-from-kiss.json](./348896-escape-from-kiss.json) |
+| Escape from Kyoto House | 155271 | [155271-escape-from-kyoto-house.json](./155271-escape-from-kyoto-house.json) |
 | Escape from Labyrinth | 121457 | [121457-escape-from-labyrinth.json](./121457-escape-from-labyrinth.json) |
 | Escape From Lava | 343051 | [343051-escape-from-lava.json](./343051-escape-from-lava.json) |
 | Escape From Lavender Island | 235991 | [235991-escape-from-lavender-island.json](./235991-escape-from-lavender-island.json) |
