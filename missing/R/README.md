@@ -12322,6 +12322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Die Retry | 109512 | [109512-run-die-retry.json](./109512-run-die-retry.json) |
 | Run Dorothy Run | 89380 | [89380-run-dorothy-run.json](./89380-run-dorothy-run.json) |
 | Run Dude | 128288 | [128288-run-dude.json](./128288-run-dude.json) |
+| Run Dummy Run | 166903 | [166903-run-dummy-run.json](./166903-run-dummy-run.json) |
 | Run Dungeon | 296329 | [296329-run-dungeon.json](./296329-run-dungeon.json) |
 | Run Elephant Run | 280847 | [280847-run-elephant-run.json](./280847-run-elephant-run.json) |
 | Run Fairy | 111014 | [111014-run-fairy.json](./111014-run-fairy.json) |
