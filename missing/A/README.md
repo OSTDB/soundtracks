@@ -2849,6 +2849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acme, Inc. | 290330 | [290330-acme-inc.json](./290330-acme-inc.json) |
 | Acne Attack | 72158 | [72158-acne-attack.json](./72158-acne-attack.json) |
 | Acno's Energizer | 326749 | [326749-acnos-energizer.json](./326749-acnos-energizer.json) |
+| Acolyte | 149122 | [149122-acolyte.json](./149122-acolyte.json) |
 | Acolyte Fight! | 112251 | [112251-acolyte-fight.json](./112251-acolyte-fight.json) |
 | Acolyte of the Altar | 244924 | [244924-acolyte-of-the-altar.json](./244924-acolyte-of-the-altar.json) |
 | Aconcagua | 94123 | [94123-aconcagua.json](./94123-aconcagua.json) |
@@ -8200,6 +8201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amamane 2: Limited Edition | 167038 | [167038-amamane-2-limited-edition.json](./167038-amamane-2-limited-edition.json) |
 | Amamane 2: Premium Edition | 146805 | [146805-amamane-2-premium-edition.json](./146805-amamane-2-premium-edition.json) |
 | Amamane: Premium Edition | 136684 | [136684-amamane-premium-edition.json](./136684-amamane-premium-edition.json) |
+| Amamori Jinsei: Rain Leak Life | 149139 | [149139-amamori-jinsei-rain-leak-life.json](./149139-amamori-jinsei-rain-leak-life.json) |
 | Amanagi | 310907 | [310907-amanagi.json](./310907-amanagi.json) |
 | Amanaha hockey | 329164 | [329164-amanaha-hockey.json](./329164-amanaha-hockey.json) |
 | Amanatsu | 210505 | [210505-amanatsu.json](./210505-amanatsu.json) |
@@ -10550,6 +10552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animetic Story Game 1: Cardcaptor Sakura | 132867 | [132867-animetic-story-game-1-cardcaptor-sakura.json](./132867-animetic-story-game-1-cardcaptor-sakura.json) |
 | Animism: The Book of the Emissaries | 58015 | [58015-animism-the-book-of-the-emissaries.json](./58015-animism-the-book-of-the-emissaries.json) |
 | Animo Stars Arena | 243064 | [243064-animo-stars-arena.json](./243064-animo-stars-arena.json) |
+| Animocity | 149128 | [149128-animocity.json](./149128-animocity.json) |
 | Animorphs: Know the Secret | 68723 | [68723-animorphs-know-the-secret.json](./68723-animorphs-know-the-secret.json) |
 | Animorphs: Shattered Reality | 43927 | [43927-animorphs-shattered-reality.json](./43927-animorphs-shattered-reality.json) |
 | Animosa | 207560 | [207560-animosa.json](./207560-animosa.json) |
@@ -16856,6 +16859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -18467,6 +18471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayda | 317604 | [317604-ayda.json](./317604-ayda.json) |
 | Aydox | 90819 | [90819-aydox.json](./90819-aydox.json) |
 | Aye Aye Captain | 401886 | [401886-aye-aye-captain.json](./401886-aye-aye-captain.json) |
+| Aye Aye, Captain | 149109 | [149109-aye-aye-captain.json](./149109-aye-aye-captain.json) |
 | Aye Captain! | 123210 | [123210-aye-captain.json](./123210-aye-captain.json) |
 | Aye Fair Lady | 126019 | [126019-aye-fair-lady.json](./126019-aye-fair-lady.json) |
 | Aye Leon | 387342 | [387342-aye-leon.json](./387342-aye-leon.json) |
