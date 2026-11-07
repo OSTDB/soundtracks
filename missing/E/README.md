@@ -4218,6 +4218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ensou | 141212 | [141212-ensou.json](./141212-ensou.json) |
 | Enspell | 275145 | [275145-enspell.json](./275145-enspell.json) |
 | Ent | 183892 | [183892-ent.json](./183892-ent.json) |
+| Entails | 177621 | [177621-entails.json](./177621-entails.json) |
 | Entaku no Seito | 13201 | [13201-entaku-no-seito.json](./13201-entaku-no-seito.json) |
 | Entaku no Seito 2 | 74156 | [74156-entaku-no-seito-2.json](./74156-entaku-no-seito-2.json) |
 | Entaku no Seito: DRPG Selection | 268852 | [268852-entaku-no-seito-drpg-selection.json](./268852-entaku-no-seito-drpg-selection.json) |
