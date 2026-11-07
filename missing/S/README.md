@@ -6485,6 +6485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexbot Lab | 350887 | [350887-sexbot-lab.json](./350887-sexbot-lab.json) |
 | Sexcraft: Sofiya and the Lewd Clan | 170365 | [170365-sexcraft-sofiya-and-the-lewd-clan.json](./170365-sexcraft-sofiya-and-the-lewd-clan.json) |
 | Sexdivers | 324680 | [324680-sexdivers.json](./324680-sexdivers.json) |
+| Sexena: Arena Tales | 143240 | [143240-sexena-arena-tales.json](./143240-sexena-arena-tales.json) |
 | Sexophobia | 417410 | [417410-sexophobia.json](./417410-sexophobia.json) |
 | Sexorcism: Lust Confession | 396404 | [396404-sexorcism-lust-confession.json](./396404-sexorcism-lust-confession.json) |
 | Sexorcist Academy | 147557 | [147557-sexorcist-academy.json](./147557-sexorcist-academy.json) |
@@ -11611,6 +11612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Singularity Shooter | 112728 | [112728-singularity-shooter.json](./112728-singularity-shooter.json) |
 | Singularity Survivors | 298245 | [298245-singularity-survivors.json](./298245-singularity-survivors.json) |
 | Singularity World | 156216 | [156216-singularity-world.json](./156216-singularity-world.json) |
+| Singularity: Tactics Arena | 143198 | [143198-singularity-tactics-arena.json](./143198-singularity-tactics-arena.json) |
 | Singularium | 270124 | [270124-singularium.json](./270124-singularium.json) |
 | Singulier | 413634 | [413634-singulier.json](./413634-singulier.json) |
 | Sinij Parovoz | 301402 | [301402-sinij-parovoz.json](./301402-sinij-parovoz.json) |
@@ -13075,6 +13077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyous | 123767 | [123767-skyous.json](./123767-skyous.json) |
 | Skypeace | 85375 | [85375-skypeace.json](./85375-skypeace.json) |
 | Skypop Scramble | 323750 | [323750-skypop-scramble.json](./323750-skypop-scramble.json) |
+| SkyPrimal | 143200 | [143200-skyprimal.json](./143200-skyprimal.json) |
 | Skyraid | 200845 | [200845-skyraid.json](./200845-skyraid.json) |
 | Skyraine | 53616 | [53616-skyraine.json](./53616-skyraine.json) |
 | Skyrama | 251300 | [251300-skyrama.json](./251300-skyrama.json) |
@@ -13378,6 +13381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay the Berserker | 384494 | [384494-slay-the-berserker.json](./384494-slay-the-berserker.json) |
 | Slay the Bigies | 127681 | [127681-slay-the-bigies.json](./127681-slay-the-bigies.json) |
 | Slay the Demon Queen | 340364 | [340364-slay-the-demon-queen.json](./340364-slay-the-demon-queen.json) |
+| Slay the Dragon! | 143210 | [143210-slay-the-dragon.json](./143210-slay-the-dragon.json) |
 | Slay the Horde | 398900 | [398900-slay-the-horde.json](./398900-slay-the-horde.json) |
 | Slay the King | 374164 | [374164-slay-the-king.json](./374164-slay-the-king.json) |
 | Slay the Minotaur | 271380 | [271380-slay-the-minotaur.json](./271380-slay-the-minotaur.json) |
@@ -14446,6 +14450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Void | 365200 | [365200-small-void.json](./365200-small-void.json) |
 | Small War | 161507 | [161507-small-war.json](./161507-small-war.json) |
 | Small Wars: Mohicans | 294376 | [294376-small-wars-mohicans.json](./294376-small-wars-mohicans.json) |
+| Small World | 143233 | [143233-small-world.json](./143233-small-world.json) |
 | Small World | 217779 | [217779-small-world.json](./217779-small-world.json) |
 | Small World | 272927 | [272927-small-world.json](./272927-small-world.json) |
 | Small World Z | 129513 | [129513-small-world-z.json](./129513-small-world-z.json) |
@@ -14826,6 +14831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smoky White | 326777 | [326777-smoky-white.json](./326777-smoky-white.json) |
 | Smokyflex | 207693 | [207693-smokyflex.json](./207693-smokyflex.json) |
 | Smol Adventure | 353893 | [353893-smol-adventure.json](./353893-smol-adventure.json) |
+| Smol Ame | 143222 | [143222-smol-ame.json](./143222-smol-ame.json) |
 | Smol Birb | 139262 | [139262-smol-birb.json](./139262-smol-birb.json) |
 | Smol Dungeon | 187843 | [187843-smol-dungeon.json](./187843-smol-dungeon.json) |
 | Smol Gods | 332407 | [332407-smol-gods.json](./332407-smol-gods.json) |
@@ -17097,6 +17103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sombionic | 303941 | [303941-sombionic.json](./303941-sombionic.json) |
 | Sombra | 311212 | [311212-sombra.json](./311212-sombra.json) |
 | Sombras | 261304 | [261304-sombras.json](./261304-sombras.json) |
+| Sombras de Guerra: La Guerra Civil Española | 143225 | [143225-sombras-de-guerra-la-guerra-civil-espanola.json](./143225-sombras-de-guerra-la-guerra-civil-espanola.json) |
 | Sombras: Negative Frames | 406115 | [406115-sombras-negative-frames.json](./406115-sombras-negative-frames.json) |
 | Sombrero: Spaghetti Western Mayhem | 20758 | [20758-sombrero-spaghetti-western-mayhem.json](./20758-sombrero-spaghetti-western-mayhem.json) |
 | Sombreros | 245094 | [245094-sombreros.json](./245094-sombreros.json) |
@@ -19924,7 +19931,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -34724,6 +34730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival: Fountain of Youth | 199136 | [199136-survival-fountain-of-youth.json](./199136-survival-fountain-of-youth.json) |
 | Survival: Fountain of Youth - Captain's Edition | 317209 | [317209-survival-fountain-of-youth-captains-edition.json](./317209-survival-fountain-of-youth-captains-edition.json) |
 | Survival: Fountain of Youth - Sea Wolf Pack | 298249 | [298249-survival-fountain-of-youth-sea-wolf-pack.json](./298249-survival-fountain-of-youth-sea-wolf-pack.json) |
+| Survival: Lost Way | 143206 | [143206-survival-lost-way.json](./143206-survival-lost-way.json) |
 | Survival: Man vs. Wild | 100492 | [100492-survival-man-vs-wild.json](./100492-survival-man-vs-wild.json) |
 | Survival: Man vs. Wild - Island Escape | 102685 | [102685-survival-man-vs-wild-island-escape.json](./102685-survival-man-vs-wild-island-escape.json) |
 | Survival: Revelation | 124225 | [124225-survival-revelation.json](./124225-survival-revelation.json) |
