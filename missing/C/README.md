@@ -7290,6 +7290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Invaders 5: Christmas Edition | 108464 | [108464-chicken-invaders-5-christmas-edition.json](./108464-chicken-invaders-5-christmas-edition.json) |
 | Chicken Invaders 5: Cluck of the Dark Side | 35692 | [35692-chicken-invaders-5-cluck-of-the-dark-side.json](./35692-chicken-invaders-5-cluck-of-the-dark-side.json) |
 | Chicken Invaders 5: Cluck of the Dark Side - Halloween Edition | 52742 | [52742-chicken-invaders-5-cluck-of-the-dark-side-halloween-edition.json](./52742-chicken-invaders-5-cluck-of-the-dark-side-halloween-edition.json) |
+| Chicken Invaders Universe | 144460 | [144460-chicken-invaders-universe.json](./144460-chicken-invaders-universe.json) |
 | Chicken Journey | 204513 | [204513-chicken-journey.json](./204513-chicken-journey.json) |
 | Chicken Jump | 108521 | [108521-chicken-jump.json](./108521-chicken-jump.json) |
 | Chicken Jump, Puppy Jump | 355197 | [355197-chicken-jump-puppy-jump.json](./355197-chicken-jump-puppy-jump.json) |
@@ -15947,6 +15948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cow Catcher | 124594 | [124594-cow-catcher.json](./124594-cow-catcher.json) |
 | Cow Catcher Simulator | 82323 | [82323-cow-catcher-simulator.json](./82323-cow-catcher-simulator.json) |
 | Cow Chess | 331281 | [331281-cow-chess.json](./331281-cow-chess.json) |
+| Cow Clicker | 144482 | [144482-cow-clicker.json](./144482-cow-clicker.json) |
 | Cow Defender | 97441 | [97441-cow-defender.json](./97441-cow-defender.json) |
 | Cow Evolution | 203205 | [203205-cow-evolution.json](./203205-cow-evolution.json) |
 | Cow Girl 2 | 235931 | [235931-cow-girl-2.json](./235931-cow-girl-2.json) |
