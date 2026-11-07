@@ -2111,6 +2111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bangkok Awakening | 320115 | [320115-bangkok-awakening.json](./320115-bangkok-awakening.json) |
 | Bangkok Story: A Stray Dog | 216760 | [216760-bangkok-story-a-stray-dog.json](./216760-bangkok-story-a-stray-dog.json) |
 | Bangkok: City of Legends | 416965 | [416965-bangkok-city-of-legends.json](./416965-bangkok-city-of-legends.json) |
+| Bangman | 188733 | [188733-bangman.json](./188733-bangman.json) |
 | Bangman | 363653 | [363653-bangman.json](./363653-bangman.json) |
 | Bangungot | 217862 | [217862-bangungot.json](./217862-bangungot.json) |
 | Bangy: Adventures in Egypt | 179135 | [179135-bangy-adventures-in-egypt.json](./179135-bangy-adventures-in-egypt.json) |
@@ -4269,6 +4270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield: Bad Company 2 Ultimate Edition | 41892 | [41892-battlefield-bad-company-2-ultimate-edition.json](./41892-battlefield-bad-company-2-ultimate-edition.json) |
 | Battlefield: Bad Company 2 Vietnam | 607 | [607-battlefield-bad-company-2-vietnam.json](./607-battlefield-bad-company-2-vietnam.json) |
 | Battlefield: Galactic Conquest | 377641 | [377641-battlefield-galactic-conquest.json](./377641-battlefield-galactic-conquest.json) |
+| BattlefieldCars | 188753 | [188753-battlefieldcars.json](./188753-battlefieldcars.json) |
 | Battlefish: Free Zombie Games | 39766 | [39766-battlefish-free-zombie-games.json](./39766-battlefish-free-zombie-games.json) |
 | Battlefleet Commander | 91552 | [91552-battlefleet-commander.json](./91552-battlefleet-commander.json) |
 | Battlefleet Engineer | 36999 | [36999-battlefleet-engineer.json](./36999-battlefleet-engineer.json) |
@@ -9249,6 +9251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlackChain | 155874 | [155874-blackchain.json](./155874-blackchain.json) |
 | BlackDog | 347975 | [347975-blackdog.json](./347975-blackdog.json) |
 | Blackdoor | 410588 | [410588-blackdoor.json](./410588-blackdoor.json) |
+| Blacken Slash | 188723 | [188723-blacken-slash.json](./188723-blacken-slash.json) |
 | Blackened | 270699 | [270699-blackened.json](./270699-blackened.json) |
 | BlackFaith | 100572 | [100572-blackfaith.json](./100572-blackfaith.json) |
 | Blackfall | 258551 | [258551-blackfall.json](./258551-blackfall.json) |
@@ -13719,6 +13722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulderoid | 125147 | [125147-boulderoid.json](./125147-boulderoid.json) |
 | Boulders and Bombs | 23965 | [23965-boulders-and-bombs.json](./23965-boulders-and-bombs.json) |
 | Boulders: Puzzle | 142216 | [142216-boulders-puzzle.json](./142216-boulders-puzzle.json) |
+| Bouldeurdache | 188719 | [188719-bouldeurdache.json](./188719-bouldeurdache.json) |
 | Boule & Bill: Holiday time! | 67961 | [67961-boule-and-bill-holiday-time.json](./67961-boule-and-bill-holiday-time.json) |
 | BouLe et bill unity | 131090 | [131090-boule-et-bill-unity.json](./131090-boule-et-bill-unity.json) |
 | Boule Petanque | 249113 | [249113-boule-petanque.json](./249113-boule-petanque.json) |
@@ -13746,6 +13750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Ball | 68653 | [68653-bounce-ball.json](./68653-bounce-ball.json) |
 | Bounce Ball Blitz | 272382 | [272382-bounce-ball-blitz.json](./272382-bounce-ball-blitz.json) |
 | Bounce ball light | 115312 | [115312-bounce-ball-light.json](./115312-bounce-ball-light.json) |
+| Bounce Ball: Neon Party Arcade | 188746 | [188746-bounce-ball-neon-party-arcade.json](./188746-bounce-ball-neon-party-arcade.json) |
 | Bounce Blade | 365397 | [365397-bounce-blade.json](./365397-bounce-blade.json) |
 | Bounce Boing Voyage | 245006 | [245006-bounce-boing-voyage.json](./245006-bounce-boing-voyage.json) |
 | Bounce Castle | 211465 | [211465-bounce-castle.json](./211465-bounce-castle.json) |
