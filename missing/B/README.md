@@ -778,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard NBA Basketball | 93185 | [93185-backyard-nba-basketball.json](./93185-backyard-nba-basketball.json) |
 | Backyard Paintball | 415453 | [415453-backyard-paintball.json](./415453-backyard-paintball.json) |
 | Backyard Parking 3D | 83579 | [83579-backyard-parking-3d.json](./83579-backyard-parking-3d.json) |
+| Backyard Pirates | 177650 | [177650-backyard-pirates.json](./177650-backyard-pirates.json) |
 | Backyard Rain Soundscape | 256207 | [256207-backyard-rain-soundscape.json](./256207-backyard-rain-soundscape.json) |
 | Backyard Skateboarding | 248633 | [248633-backyard-skateboarding.json](./248633-backyard-skateboarding.json) |
 | Backyard Skateboarding | 49312 | [49312-backyard-skateboarding.json](./49312-backyard-skateboarding.json) |
@@ -912,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Flesh | 301140 | [301140-bad-flesh.json](./301140-bad-flesh.json) |
 | Bad Football | 407893 | [407893-bad-football.json](./407893-bad-football.json) |
 | Bad Friends Shooter | 235905 | [235905-bad-friends-shooter.json](./235905-bad-friends-shooter.json) |
+| Bad game | 177657 | [177657-bad-game.json](./177657-bad-game.json) |
 | Bad Girl | 127676 | [127676-bad-girl.json](./127676-bad-girl.json) |
 | Bad Girl Confidential: The Pleasure Den | 286530 | [286530-bad-girl-confidential-the-pleasure-den.json](./286530-bad-girl-confidential-the-pleasure-den.json) |
 | Bad Girls | 92432 | [92432-bad-girls.json](./92432-bad-girls.json) |
@@ -1800,6 +1802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls! | 99982 | [99982-balls.json](./99982-balls.json) |
 | Balls! Balls! | 163395 | [163395-balls-balls.json](./163395-balls-balls.json) |
 | Balls! Virtual Reality Cricket | 31580 | [31580-balls-virtual-reality-cricket.json](./31580-balls-virtual-reality-cricket.json) |
+| Balls? | 177645 | [177645-balls.json](./177645-balls.json) |
 | BallsBlasterVR | 128229 | [128229-ballsblastervr.json](./128229-ballsblastervr.json) |
 | Ballshit | 373219 | [373219-ballshit.json](./373219-ballshit.json) |
 | Ballshit 2D | 420784 | [420784-ballshit-2d.json](./420784-ballshit-2d.json) |
@@ -6485,6 +6488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath Oresa | 182191 | [182191-beneath-oresa.json](./182191-beneath-oresa.json) |
 | Beneath our Scars | 298769 | [298769-beneath-our-scars.json](./298769-beneath-our-scars.json) |
 | Beneath Paris | 406793 | [406793-beneath-paris.json](./406793-beneath-paris.json) |
+| Beneath Steel Clouds | 177625 | [177625-beneath-steel-clouds.json](./177625-beneath-steel-clouds.json) |
 | Beneath the Backrooms | 273368 | [273368-beneath-the-backrooms.json](./273368-beneath-the-backrooms.json) |
 | Beneath the Basement | 187798 | [187798-beneath-the-basement.json](./187798-beneath-the-basement.json) |
 | Beneath the Bell | 333156 | [333156-beneath-the-bell.json](./333156-beneath-the-bell.json) |
@@ -7772,6 +7776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biker Street 2D | 213812 | [213812-biker-street-2d.json](./213812-biker-street-2d.json) |
 | Bikerz | 119018 | [119018-bikerz.json](./119018-bikerz.json) |
 | biketerra | 316177 | [316177-biketerra.json](./316177-biketerra.json) |
+| Biketrial Experience | 177670 | [177670-biketrial-experience.json](./177670-biketrial-experience.json) |
 | Biki Biki Flip | 246863 | [246863-biki-biki-flip.json](./246863-biki-biki-flip.json) |
 | Bikini Alert | 163769 | [163769-bikini-alert.json](./163769-bikini-alert.json) |
 | Bikini Balls 2: Christmas Edition | 216455 | [216455-bikini-balls-2-christmas-edition.json](./216455-bikini-balls-2-christmas-edition.json) |
@@ -8415,6 +8420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird's Eye | 160249 | [160249-birds-eye.json](./160249-birds-eye.json) |
 | Bird's Eye Odyssey | 245954 | [245954-birds-eye-odyssey.json](./245954-birds-eye-odyssey.json) |
 | Bird's Town | 120264 | [120264-birds-town.json](./120264-birds-town.json) |
+| Birdcage | 177646 | [177646-birdcage.json](./177646-birdcage.json) |
 | Birdcage | 338241 | [338241-birdcage.json](./338241-birdcage.json) |
 | Birdcage | 369520 | [369520-birdcage.json](./369520-birdcage.json) |
 | Birdcage (Oda al Pájaro) | 325262 | [325262-birdcage-oda-al-pajaro.json](./325262-birdcage-oda-al-pajaro.json) |
@@ -9651,6 +9657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaloon Blalympia 2 | 218374 | [218374-blaloon-blalympia-2.json](./218374-blaloon-blalympia-2.json) |
 | Blam! Machinehead | 45414 | [45414-blam-machinehead.json](./45414-blam-machinehead.json) |
 | Blamcon Shooting Gallery | 274294 | [274294-blamcon-shooting-gallery.json](./274294-blamcon-shooting-gallery.json) |
+| Blamdodge | 177640 | [177640-blamdodge.json](./177640-blamdodge.json) |
 | Blamdown Udder Fury | 33063 | [33063-blamdown-udder-fury.json](./33063-blamdown-udder-fury.json) |
 | Blame him | 111802 | [111802-blame-him.json](./111802-blame-him.json) |
 | Blame the Intern | 185369 | [185369-blame-the-intern.json](./185369-blame-the-intern.json) |
@@ -10847,6 +10854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blomst | 181911 | [181911-blomst.json](./181911-blomst.json) |
 | Blon | 167682 | [167682-blon.json](./167682-blon.json) |
 | Blond Escape | 176212 | [176212-blond-escape.json](./176212-blond-escape.json) |
+| Blonde | 177627 | [177627-blonde.json](./177627-blonde.json) |
 | Blonde Driver | 96435 | [96435-blonde-driver.json](./96435-blonde-driver.json) |
 | Blonde Justice | 37198 | [37198-blonde-justice.json](./37198-blonde-justice.json) |
 | Blonde vs. Brunette Racing | 175593 | [175593-blonde-vs-brunette-racing.json](./175593-blonde-vs-brunette-racing.json) |
@@ -14181,6 +14189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box in Box | 364799 | [364799-box-in-box.json](./364799-box-in-box.json) |
 | Box It | 102281 | [102281-box-it.json](./102281-box-it.json) |
 | Box It Up! Inc. | 306634 | [306634-box-it-up-inc.json](./306634-box-it-up-inc.json) |
+| Box It! | 177649 | [177649-box-it.json](./177649-box-it.json) |
 | Box It! 2 | 361995 | [361995-box-it-2.json](./361995-box-it-2.json) |
 | Box Kid Adventures | 128453 | [128453-box-kid-adventures.json](./128453-box-kid-adventures.json) |
 | Box King | 337297 | [337297-box-king.json](./337297-box-king.json) |
@@ -15846,6 +15855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Britney Spears: American Dream | 57972 | [57972-britney-spears-american-dream.json](./57972-britney-spears-american-dream.json) |
 | Britney Spears' Theme Park | 305843 | [305843-britney-spears-theme-park.json](./305843-britney-spears-theme-park.json) |
 | Britney's Dance Beat | 248750 | [248750-britneys-dance-beat.json](./248750-britneys-dance-beat.json) |
+| Brittany Home Alone | 177628 | [177628-brittany-home-alone.json](./177628-brittany-home-alone.json) |
 | Brittle | 278684 | [278684-brittle.json](./278684-brittle.json) |
 | Brittle Blue | 184591 | [184591-brittle-blue.json](./184591-brittle-blue.json) |
 | Brittle Buildings | 180841 | [180841-brittle-buildings.json](./180841-brittle-buildings.json) |
@@ -18128,6 +18138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bushgame: The Anti-Bush Video Game | 71928 | [71928-bushgame-the-anti-bush-video-game.json](./71928-bushgame-the-anti-bush-video-game.json) |
 | Bushi | 186997 | [186997-bushi.json](./186997-bushi.json) |
 | Bushiden | 116223 | [116223-bushiden.json](./116223-bushiden.json) |
+| Bushido | 177656 | [177656-bushido.json](./177656-bushido.json) |
 | Bushido Bear | 58541 | [58541-bushido-bear.json](./58541-bushido-bear.json) |
 | Bushido Kensei: The Last Warrior | 375251 | [375251-bushido-kensei-the-last-warrior.json](./375251-bushido-kensei-the-last-warrior.json) |
 | Bushido Panda | 57469 | [57469-bushido-panda.json](./57469-bushido-panda.json) |
