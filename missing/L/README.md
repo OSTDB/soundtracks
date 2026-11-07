@@ -6502,6 +6502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live Hard, Die Hard | 265826 | [265826-live-hard-die-hard.json](./265826-live-hard-die-hard.json) |
 | Live In Color | 31571 | [31571-live-in-color.json](./31571-live-in-color.json) |
 | Live in the Moment | 208077 | [208077-live-in-the-moment.json](./208077-live-in-the-moment.json) |
+| Live Inc. | 143199 | [143199-live-inc.json](./143199-live-inc.json) |
 | Live Labyrinth | 149530 | [149530-live-labyrinth.json](./149530-live-labyrinth.json) |
 | Live Lens | 312179 | [312179-live-lens.json](./312179-live-lens.json) |
 | Live Mathletics | 205622 | [205622-live-mathletics.json](./205622-live-mathletics.json) |
@@ -8848,6 +8849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love in School | 105695 | [105695-love-in-school.json](./105695-love-in-school.json) |
 | Love in Space | 309917 | [309917-love-in-space.json](./309917-love-in-space.json) |
 | Love in the Crimson Void | 288898 | [288898-love-in-the-crimson-void.json](./288898-love-in-the-crimson-void.json) |
+| Love in the Distance | 143212 | [143212-love-in-the-distance.json](./143212-love-in-the-distance.json) |
 | Love in the Glen | 33083 | [33083-love-in-the-glen.json](./33083-love-in-the-glen.json) |
 | Love in the Limelight | 119589 | [119589-love-in-the-limelight.json](./119589-love-in-the-limelight.json) |
 | Love in the Time of Spellphage | 364524 | [364524-love-in-the-time-of-spellphage.json](./364524-love-in-the-time-of-spellphage.json) |
