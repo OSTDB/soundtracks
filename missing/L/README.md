@@ -4056,6 +4056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lets Nuke Mars | 343224 | [343224-lets-nuke-mars.json](./343224-lets-nuke-mars.json) |
 | Lets Play Bingo | 87271 | [87271-lets-play-bingo.json](./87271-lets-play-bingo.json) |
 | Lets Ride Corral Club | 24709 | [24709-lets-ride-corral-club.json](./24709-lets-ride-corral-club.json) |
+| Lets Ride!: Friends Forever | 142571 | [142571-lets-ride-friends-forever.json](./142571-lets-ride-friends-forever.json) |
 | Letsss Play | 373153 | [373153-letsss-play.json](./373153-letsss-play.json) |
 | Letter Bender | 195107 | [195107-letter-bender.json](./195107-letter-bender.json) |
 | Letter Boost | 241579 | [241579-letter-boost.json](./241579-letter-boost.json) |
