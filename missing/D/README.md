@@ -5307,6 +5307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Race: Space | 117360 | [117360-deep-race-space.json](./117360-deep-race-space.json) |
 | Deep Raider | 71758 | [71758-deep-raider.json](./71758-deep-raider.json) |
 | Deep Realms | 92442 | [92442-deep-realms.json](./92442-deep-realms.json) |
+| Deep Relics | 185199 | [185199-deep-relics.json](./185199-deep-relics.json) |
 | Deep Research | 271493 | [271493-deep-research.json](./271493-deep-research.json) |
 | Deep Rest | 106395 | [106395-deep-rest.json](./106395-deep-rest.json) |
 | Deep Rift 9 | 176193 | [176193-deep-rift-9.json](./176193-deep-rift-9.json) |
@@ -6189,6 +6190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltazone: Map Pack #1 | 263313 | [263313-deltazone-map-pack-1.json](./263313-deltazone-map-pack-1.json) |
 | Deltora Quest | 47936 | [47936-deltora-quest.json](./47936-deltora-quest.json) |
 | Delucid | 390254 | [390254-delucid.json](./390254-delucid.json) |
+| Deluded | 185215 | [185215-deluded.json](./185215-deluded.json) |
 | Deluge | 351644 | [351644-deluge.json](./351644-deluge.json) |
 | Deluge: Onset | 142829 | [142829-deluge-onset.json](./142829-deluge-onset.json) |
 | Deluge: Raintime | 390063 | [390063-deluge-raintime.json](./390063-deluge-raintime.json) |
@@ -15862,6 +15864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Doll House - Decorating Game | 100868 | [100868-dream-doll-house-decorating-game.json](./100868-dream-doll-house-decorating-game.json) |
 | Dream Domain | 401610 | [401610-dream-domain.json](./401610-dream-domain.json) |
 | Dream Drifters | 151625 | [151625-dream-drifters.json](./151625-dream-drifters.json) |
+| Dream Dye | 185224 | [185224-dream-dye.json](./185224-dream-dye.json) |
 | Dream Eater | 374056 | [374056-dream-eater.json](./374056-dream-eater.json) |
 | Dream Eater | 410960 | [410960-dream-eater.json](./410960-dream-eater.json) |
 | Dream Eater | 73096 | [73096-dream-eater.json](./73096-dream-eater.json) |
