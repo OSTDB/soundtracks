@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabal | 6317 | [6317-cabal.json](./6317-cabal.json) |
 | Cabal 2 | 12132 | [12132-cabal-2.json](./12132-cabal-2.json) |
 | Cabal M: Heroes of Nevareth | 174724 | [174724-cabal-m-heroes-of-nevareth.json](./174724-cabal-m-heroes-of-nevareth.json) |
+| Cabal Red | 175000 | [175000-cabal-red.json](./175000-cabal-red.json) |
 | Cabal: Return of Action | 264968 | [264968-cabal-return-of-action.json](./264968-cabal-return-of-action.json) |
 | Caball | 267282 | [267282-caball.json](./267282-caball.json) |
 | Caball: Sunset Hour | 332366 | [332366-caball-sunset-hour.json](./332366-caball-sunset-hour.json) |
@@ -1373,6 +1374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Mania Star | 87094 | [87094-candy-mania-star.json](./87094-candy-mania-star.json) |
 | Candy Match 3 | 191012 | [191012-candy-match-3.json](./191012-candy-match-3.json) |
 | Candy Match Forever | 128808 | [128808-candy-match-forever.json](./128808-candy-match-forever.json) |
+| Candy Matching | 174976 | [174976-candy-matching.json](./174976-candy-matching.json) |
 | Candy Merged | 103559 | [103559-candy-merged.json](./103559-candy-merged.json) |
 | Candy Monsters | 193037 | [193037-candy-monsters.json](./193037-candy-monsters.json) |
 | Candy Mountain Massacre | 270206 | [270206-candy-mountain-massacre.json](./270206-candy-mountain-massacre.json) |
@@ -7134,6 +7136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicago 30's | 13485 | [13485-chicago-30s.json](./13485-chicago-30s.json) |
 | Chicago 90 | 12000 | [12000-chicago-90.json](./12000-chicago-90.json) |
 | Chicago Bridge | 90290 | [90290-chicago-bridge.json](./90290-chicago-bridge.json) |
+| Chicago City Police Story 3D | 174981 | [174981-chicago-city-police-story-3d.json](./174981-chicago-city-police-story-3d.json) |
 | Chicago Cubs Triple Play | 81360 | [81360-chicago-cubs-triple-play.json](./81360-chicago-cubs-triple-play.json) |
 | Chicago Enforcer | 5775 | [5775-chicago-enforcer.json](./5775-chicago-enforcer.json) |
 | Chicago Project | 291330 | [291330-chicago-project.json](./291330-chicago-project.json) |
@@ -10068,6 +10071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claw Machine | 307372 | [307372-claw-machine.json](./307372-claw-machine.json) |
 | Claw Machine Arcade | 303218 | [303218-claw-machine-arcade.json](./303218-claw-machine-arcade.json) |
 | Claw Machine Sim | 259013 | [259013-claw-machine-sim.json](./259013-claw-machine-sim.json) |
+| Claw Stars | 174992 | [174992-claw-stars.json](./174992-claw-stars.json) |
 | Clawball | 295640 | [295640-clawball.json](./295640-clawball.json) |
 | Clawbert: ToyTown | 96831 | [96831-clawbert-toytown.json](./96831-clawbert-toytown.json) |
 | Clawberta | 192191 | [192191-clawberta.json](./192191-clawberta.json) |
@@ -11261,6 +11265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Alpha: The Final Frontier | 284828 | [284828-code-alpha-the-final-frontier.json](./284828-code-alpha-the-final-frontier.json) |
 | Code angel | 153943 | [153943-code-angel.json](./153943-code-angel.json) |
 | Code Angel Reloaded VR | 374875 | [374875-code-angel-reloaded-vr.json](./374875-code-angel-reloaded-vr.json) |
+| Code AOI | 174973 | [174973-code-aoi.json](./174973-code-aoi.json) |
 | Code Arcturus | 133097 | [133097-code-arcturus.json](./133097-code-arcturus.json) |
 | Code Blue | 401137 | [401137-code-blue.json](./401137-code-blue.json) |
 | Code Breaker | 315457 | [315457-code-breaker.json](./315457-code-breaker.json) |
@@ -13094,6 +13099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commando | 5668 | [5668-commando.json](./5668-commando.json) |
 | Commando 2 | 85900 | [85900-commando-2.json](./85900-commando-2.json) |
 | Commando 3 | 335477 | [335477-commando-3.json](./335477-commando-3.json) |
+| Commando Adventure Assassin | 174961 | [174961-commando-adventure-assassin.json](./174961-commando-adventure-assassin.json) |
 | Commando Assault | 335476 | [335476-commando-assault.json](./335476-commando-assault.json) |
 | Commando Collection | 310337 | [310337-commando-collection.json](./310337-commando-collection.json) |
 | Commando Dog | 119550 | [119550-commando-dog.json](./119550-commando-dog.json) |
@@ -13926,6 +13932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Playground | 164903 | [164903-construction-playground.json](./164903-construction-playground.json) |
 | Construction Ramp Jumping | 212358 | [212358-construction-ramp-jumping.json](./212358-construction-ramp-jumping.json) |
 | Construction Runner | 291533 | [291533-construction-runner.json](./291533-construction-runner.json) |
+| Construction Sim 2017 | 174989 | [174989-construction-sim-2017.json](./174989-construction-sim-2017.json) |
 | Construction Simulator | 206188 | [206188-construction-simulator.json](./206188-construction-simulator.json) |
 | Construction Simulator 2 | 87338 | [87338-construction-simulator-2.json](./87338-construction-simulator-2.json) |
 | Construction Simulator 2: Console Edition | 109294 | [109294-construction-simulator-2-console-edition.json](./109294-construction-simulator-2-console-edition.json) |
@@ -16204,6 +16211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft Keep VR | 26932 | [26932-craft-keep-vr.json](./26932-craft-keep-vr.json) |
 | Craft Lands | 289776 | [289776-craft-lands.json](./289776-craft-lands.json) |
 | Craft Legend | 124631 | [124631-craft-legend.json](./124631-craft-legend.json) |
+| Craft of Survival | 174979 | [174979-craft-of-survival.json](./174979-craft-of-survival.json) |
 | Craft Run - 3D Endless Mine Runner Game | 95302 | [95302-craft-run-3d-endless-mine-runner-game.json](./95302-craft-run-3d-endless-mine-runner-game.json) |
 | Craft Shooting - Battle Royale | 106368 | [106368-craft-shooting-battle-royale.json](./106368-craft-shooting-battle-royale.json) |
 | Craft Shooting - no rules in war for survival! | 105833 | [105833-craft-shooting-no-rules-in-war-for-survival.json](./105833-craft-shooting-no-rules-in-war-for-survival.json) |
