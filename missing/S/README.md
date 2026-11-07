@@ -2693,6 +2693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarf Tale | 384915 | [384915-scarf-tale.json](./384915-scarf-tale.json) |
 | Scarface: Money. Power. Respect. | 5140 | [5140-scarface-money-power-respect.json](./5140-scarface-money-power-respect.json) |
 | Scarface: The World Is Yours | 5139 | [5139-scarface-the-world-is-yours.json](./5139-scarface-the-world-is-yours.json) |
+| Scarfell Pike | 184153 | [184153-scarfell-pike.json](./184153-scarfell-pike.json) |
 | Scarfinger | 41495 | [41495-scarfinger.json](./41495-scarfinger.json) |
 | Scarfmemory | 128776 | [128776-scarfmemory.json](./128776-scarfmemory.json) |
 | Scarlet 7: The Mightiest Women | 70930 | [70930-scarlet-7-the-mightiest-women.json](./70930-scarlet-7-the-mightiest-women.json) |
@@ -11484,6 +11485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Singularity - Modern Lights Out | 128567 | [128567-singularity-modern-lights-out.json](./128567-singularity-modern-lights-out.json) |
 | Singularity 5 | 113335 | [113335-singularity-5.json](./113335-singularity-5.json) |
 | Singularity Dungeon | 189906 | [189906-singularity-dungeon.json](./189906-singularity-dungeon.json) |
+| Singularity Idle | 184143 | [184143-singularity-idle.json](./184143-singularity-idle.json) |
 | Singularity Runner | 219678 | [219678-singularity-runner.json](./219678-singularity-runner.json) |
 | Singularity Shooter | 112728 | [112728-singularity-shooter.json](./112728-singularity-shooter.json) |
 | Singularity Survivors | 298245 | [298245-singularity-survivors.json](./298245-singularity-survivors.json) |
@@ -12955,6 +12957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyRig | 348286 | [348286-skyrig.json](./348286-skyrig.json) |
 | Skyrim Anniversary Edition + Fallout 4 G.O.T.Y. Bundle | 342531 | [342531-skyrim-anniversary-edition-fallout-4-g-o-t-y-bundle.json](./342531-skyrim-anniversary-edition-fallout-4-g-o-t-y-bundle.json) |
 | SkyRoads X-mas Special | 19236 | [19236-skyroads-x-mas-special.json](./19236-skyroads-x-mas-special.json) |
+| Skyrogue | 184017 | [184017-skyrogue.json](./184017-skyrogue.json) |
 | SkyRunner | 357114 | [357114-skyrunner.json](./357114-skyrunner.json) |
 | Skyrush | 176725 | [176725-skyrush.json](./176725-skyrush.json) |
 | SkySaga: Infinite Isles | 60733 | [60733-skysaga-infinite-isles.json](./60733-skysaga-infinite-isles.json) |
@@ -13746,6 +13749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Sprint | 157859 | [157859-slime-sprint.json](./157859-slime-sprint.json) |
 | Slime Squisher | 331657 | [331657-slime-squisher.json](./331657-slime-squisher.json) |
 | Slime Store Simulator | 344988 | [344988-slime-store-simulator.json](./344988-slime-store-simulator.json) |
+| Slime Summoner | 184141 | [184141-slime-summoner.json](./184141-slime-summoner.json) |
 | Slime Survivor | 256395 | [256395-slime-survivor.json](./256395-slime-survivor.json) |
 | Slime Survivors | 304878 | [304878-slime-survivors.json](./304878-slime-survivors.json) |
 | Slime Tactics | 113592 | [113592-slime-tactics.json](./113592-slime-tactics.json) |
@@ -14302,6 +14306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SmallBall Football | 56406 | [56406-smallball-football.json](./56406-smallball-football.json) |
 | Smaller | 122053 | [122053-smaller.json](./122053-smaller.json) |
 | Smalles | 163021 | [163021-smalles.json](./163021-smalles.json) |
+| Smalles | 184145 | [184145-smalles.json](./184145-smalles.json) |
 | Smalls Island Woes | 177341 | [177341-smalls-island-woes.json](./177341-smalls-island-woes.json) |
 | SmallWorlds | 189287 | [189287-smallworlds.json](./189287-smallworlds.json) |
 | SmallZ | 231124 | [231124-smallz.json](./231124-smallz.json) |
@@ -19716,6 +19721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -28710,6 +28716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Striving for Light: Survival | 234130 | [234130-striving-for-light-survival.json](./234130-striving-for-light-survival.json) |
 | Strix STG | 228077 | [228077-strix-stg.json](./228077-strix-stg.json) |
 | Strobophagia: Rave Horror | 139460 | [139460-strobophagia-rave-horror.json](./139460-strobophagia-rave-horror.json) |
+| Stroke | 184135 | [184135-stroke.json](./184135-stroke.json) |
 | Stroke Fill | 118794 | [118794-stroke-fill.json](./118794-stroke-fill.json) |
 | Stroke of Midnight | 54409 | [54409-stroke-of-midnight.json](./54409-stroke-of-midnight.json) |
 | Stroke of Midnight: Collector's Edition | 54410 | [54410-stroke-of-midnight-collectors-edition.json](./54410-stroke-of-midnight-collectors-edition.json) |
