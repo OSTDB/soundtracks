@@ -2138,6 +2138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinchou | 337480 | [337480-jinchou.json](./337480-jinchou.json) |
 | Jing 'an District Copstories | 157043 | [157043-jing-an-district-copstories.json](./157043-jing-an-district-copstories.json) |
 | Jìng Shìjiè | 188441 | [188441-jing-shijie.json](./188441-jing-shijie.json) |
+| Jing Tian Ji | 150292 | [150292-jing-tian-ji.json](./150292-jing-tian-ji.json) |
 | Jinga Online | 125064 | [125064-jinga-online.json](./125064-jinga-online.json) |
 | Jingai Makyou | 281228 | [281228-jingai-makyou.json](./281228-jingai-makyou.json) |
 | Jingai Makyou | 70612 | [70612-jingai-makyou.json](./70612-jingai-makyou.json) |
