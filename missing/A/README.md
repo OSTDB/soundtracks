@@ -4910,6 +4910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Pyxel | 182080 | [182080-agent-pyxel.json](./182080-agent-pyxel.json) |
 | Agent Reverb | 235149 | [235149-agent-reverb.json](./235149-agent-reverb.json) |
 | Agent Roswell | 124176 | [124176-agent-roswell.json](./124176-agent-roswell.json) |
+| Agent Roswell: Tactics | 152952 | [152952-agent-roswell-tactics.json](./152952-agent-roswell-tactics.json) |
 | Agent Roy: Secure the Temple | 229331 | [229331-agent-roy-secure-the-temple.json](./229331-agent-roy-secure-the-temple.json) |
 | Agent Roy: Zombie Hunt | 232449 | [232449-agent-roy-zombie-hunt.json](./232449-agent-roy-zombie-hunt.json) |
 | Agent Simulator | 172140 | [172140-agent-simulator.json](./172140-agent-simulator.json) |
@@ -16842,6 +16843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
