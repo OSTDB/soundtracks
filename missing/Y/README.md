@@ -2058,6 +2058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yurei: Ink of the Damned | 388552 | [388552-yurei-ink-of-the-damned.json](./388552-yurei-ink-of-the-damned.json) |
 | Yureishia Eiyuusenki: Chronicle of Arstenia 500 | 409846 | [409846-yureishia-eiyuusenki-chronicle-of-arstenia-500.json](./409846-yureishia-eiyuusenki-chronicle-of-arstenia-500.json) |
 | Yuri Blossom! | 358314 | [358314-yuri-blossom.json](./358314-yuri-blossom.json) |
+| Yuri Dating Agency | 150818 | [150818-yuri-dating-agency.json](./150818-yuri-dating-agency.json) |
 | Yuri Kago no Sora | 133739 | [133739-yuri-kago-no-sora.json](./133739-yuri-kago-no-sora.json) |
 | Yuri Lowell Prints a Gun | 328431 | [328431-yuri-lowell-prints-a-gun.json](./328431-yuri-lowell-prints-a-gun.json) |
 | Yuri Ogibalov's Bizarre Adventure | 156032 | [156032-yuri-ogibalovs-bizarre-adventure.json](./156032-yuri-ogibalovs-bizarre-adventure.json) |
