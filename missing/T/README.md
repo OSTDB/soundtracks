@@ -21884,8 +21884,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: A-Gun MP001 | 160329 | [160329-tiger-tank-59-i-a-gun-mp001.json](./160329-tiger-tank-59-i-a-gun-mp001.json) |
 | Tiger Tank 59 I: A-Gun MP003 | 160976 | [160976-tiger-tank-59-i-a-gun-mp003.json](./160976-tiger-tank-59-i-a-gun-mp003.json) |
 | Tiger Tank 59 I: A-Gun MP004 | 160978 | [160978-tiger-tank-59-i-a-gun-mp004.json](./160978-tiger-tank-59-i-a-gun-mp004.json) |
+| Tiger Tank 59 I: A-Gun MP010 | 160473 | [160473-tiger-tank-59-i-a-gun-mp010.json](./160473-tiger-tank-59-i-a-gun-mp010.json) |
 | Tiger Tank 59 I: A-Gun MP011 | 160551 | [160551-tiger-tank-59-i-a-gun-mp011.json](./160551-tiger-tank-59-i-a-gun-mp011.json) |
 | Tiger Tank 59 I: A-Gun MP018 | 160977 | [160977-tiger-tank-59-i-a-gun-mp018.json](./160977-tiger-tank-59-i-a-gun-mp018.json) |
+| Tiger Tank 59 I: A-Gun MP019 | 160505 | [160505-tiger-tank-59-i-a-gun-mp019.json](./160505-tiger-tank-59-i-a-gun-mp019.json) |
 | Tiger Tank 59 I: A-Gun MP020 | 160530 | [160530-tiger-tank-59-i-a-gun-mp020.json](./160530-tiger-tank-59-i-a-gun-mp020.json) |
 | Tiger Tank 59 I: A-Gun MP023 | 160331 | [160331-tiger-tank-59-i-a-gun-mp023.json](./160331-tiger-tank-59-i-a-gun-mp023.json) |
 | Tiger Tank 59 I: A-Gun MP028 | 160362 | [160362-tiger-tank-59-i-a-gun-mp028.json](./160362-tiger-tank-59-i-a-gun-mp028.json) |
@@ -21912,10 +21914,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: A-Gun MP069 | 160324 | [160324-tiger-tank-59-i-a-gun-mp069.json](./160324-tiger-tank-59-i-a-gun-mp069.json) |
 | Tiger Tank 59 I: A-Gun MP071 | 160979 | [160979-tiger-tank-59-i-a-gun-mp071.json](./160979-tiger-tank-59-i-a-gun-mp071.json) |
 | Tiger Tank 59 I: A-Gun MP072 | 160371 | [160371-tiger-tank-59-i-a-gun-mp072.json](./160371-tiger-tank-59-i-a-gun-mp072.json) |
+| Tiger Tank 59 I: A-Gun MP073 | 160499 | [160499-tiger-tank-59-i-a-gun-mp073.json](./160499-tiger-tank-59-i-a-gun-mp073.json) |
+| Tiger Tank 59 I: A-Gun MP074 | 160503 | [160503-tiger-tank-59-i-a-gun-mp074.json](./160503-tiger-tank-59-i-a-gun-mp074.json) |
 | Tiger Tank 59 I: A-Gun MP076 | 160558 | [160558-tiger-tank-59-i-a-gun-mp076.json](./160558-tiger-tank-59-i-a-gun-mp076.json) |
 | Tiger Tank 59 I: A-Gun MP079 | 160966 | [160966-tiger-tank-59-i-a-gun-mp079.json](./160966-tiger-tank-59-i-a-gun-mp079.json) |
 | Tiger Tank 59 I: A-Gun MP081 | 160969 | [160969-tiger-tank-59-i-a-gun-mp081.json](./160969-tiger-tank-59-i-a-gun-mp081.json) |
 | Tiger Tank 59 I: A-Gun MP086 | 160974 | [160974-tiger-tank-59-i-a-gun-mp086.json](./160974-tiger-tank-59-i-a-gun-mp086.json) |
+| Tiger Tank 59 I: A-Gun MP088 | 160498 | [160498-tiger-tank-59-i-a-gun-mp088.json](./160498-tiger-tank-59-i-a-gun-mp088.json) |
 | Tiger Tank 59 I: A-Gun MP089 | 160515 | [160515-tiger-tank-59-i-a-gun-mp089.json](./160515-tiger-tank-59-i-a-gun-mp089.json) |
 | Tiger Tank 59 I: A-Gun MP090 | 160980 | [160980-tiger-tank-59-i-a-gun-mp090.json](./160980-tiger-tank-59-i-a-gun-mp090.json) |
 | Tiger Tank 59 I: A-Gun MP091 | 160388 | [160388-tiger-tank-59-i-a-gun-mp091.json](./160388-tiger-tank-59-i-a-gun-mp091.json) |
@@ -21926,6 +21931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Air Strike MP003 | 160378 | [160378-tiger-tank-59-i-air-strike-mp003.json](./160378-tiger-tank-59-i-air-strike-mp003.json) |
 | Tiger Tank 59 I: Air Strike MP004 | 160894 | [160894-tiger-tank-59-i-air-strike-mp004.json](./160894-tiger-tank-59-i-air-strike-mp004.json) |
 | Tiger Tank 59 I: Air Strike MP005 | 160404 | [160404-tiger-tank-59-i-air-strike-mp005.json](./160404-tiger-tank-59-i-air-strike-mp005.json) |
+| Tiger Tank 59 I: Air Strike MP007 | 160486 | [160486-tiger-tank-59-i-air-strike-mp007.json](./160486-tiger-tank-59-i-air-strike-mp007.json) |
 | Tiger Tank 59 I: Air Strike MP008 | 160350 | [160350-tiger-tank-59-i-air-strike-mp008.json](./160350-tiger-tank-59-i-air-strike-mp008.json) |
 | Tiger Tank 59 I: Air Strike MP009 | 160906 | [160906-tiger-tank-59-i-air-strike-mp009.json](./160906-tiger-tank-59-i-air-strike-mp009.json) |
 | Tiger Tank 59 I: Air Strike MP010 | 160893 | [160893-tiger-tank-59-i-air-strike-mp010.json](./160893-tiger-tank-59-i-air-strike-mp010.json) |
@@ -21936,6 +21942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Air Strike MP016 | 160328 | [160328-tiger-tank-59-i-air-strike-mp016.json](./160328-tiger-tank-59-i-air-strike-mp016.json) |
 | Tiger Tank 59 I: Air Strike MP017 | 160883 | [160883-tiger-tank-59-i-air-strike-mp017.json](./160883-tiger-tank-59-i-air-strike-mp017.json) |
 | Tiger Tank 59 I: Air Strike MP018 | 160896 | [160896-tiger-tank-59-i-air-strike-mp018.json](./160896-tiger-tank-59-i-air-strike-mp018.json) |
+| Tiger Tank 59 I: Air Strike MP019 | 160501 | [160501-tiger-tank-59-i-air-strike-mp019.json](./160501-tiger-tank-59-i-air-strike-mp019.json) |
 | Tiger Tank 59 I: Air Strike MP020 | 160851 | [160851-tiger-tank-59-i-air-strike-mp020.json](./160851-tiger-tank-59-i-air-strike-mp020.json) |
 | Tiger Tank 59 I: Air Strike MP021 | 160854 | [160854-tiger-tank-59-i-air-strike-mp021.json](./160854-tiger-tank-59-i-air-strike-mp021.json) |
 | Tiger Tank 59 I: Air Strike MP022 | 160890 | [160890-tiger-tank-59-i-air-strike-mp022.json](./160890-tiger-tank-59-i-air-strike-mp022.json) |
@@ -21951,6 +21958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Air Strike MP032 | 160363 | [160363-tiger-tank-59-i-air-strike-mp032.json](./160363-tiger-tank-59-i-air-strike-mp032.json) |
 | Tiger Tank 59 I: Air Strike MP033 | 160902 | [160902-tiger-tank-59-i-air-strike-mp033.json](./160902-tiger-tank-59-i-air-strike-mp033.json) |
 | Tiger Tank 59 I: Air Strike MP034 | 160909 | [160909-tiger-tank-59-i-air-strike-mp034.json](./160909-tiger-tank-59-i-air-strike-mp034.json) |
+| Tiger Tank 59 I: Air Strike MP035 | 160504 | [160504-tiger-tank-59-i-air-strike-mp035.json](./160504-tiger-tank-59-i-air-strike-mp035.json) |
 | Tiger Tank 59 I: Air Strike MP036 | 160895 | [160895-tiger-tank-59-i-air-strike-mp036.json](./160895-tiger-tank-59-i-air-strike-mp036.json) |
 | Tiger Tank 59 I: Air Strike MP037 | 160313 | [160313-tiger-tank-59-i-air-strike-mp037.json](./160313-tiger-tank-59-i-air-strike-mp037.json) |
 | Tiger Tank 59 I: Air Strike MP038 | 160912 | [160912-tiger-tank-59-i-air-strike-mp038.json](./160912-tiger-tank-59-i-air-strike-mp038.json) |
@@ -21961,6 +21969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Air Strike MP043 | 160863 | [160863-tiger-tank-59-i-air-strike-mp043.json](./160863-tiger-tank-59-i-air-strike-mp043.json) |
 | Tiger Tank 59 I: Air Strike MP044 | 160910 | [160910-tiger-tank-59-i-air-strike-mp044.json](./160910-tiger-tank-59-i-air-strike-mp044.json) |
 | Tiger Tank 59 I: Air Strike MP045 | 160336 | [160336-tiger-tank-59-i-air-strike-mp045.json](./160336-tiger-tank-59-i-air-strike-mp045.json) |
+| Tiger Tank 59 I: Air Strike MP046 | 160494 | [160494-tiger-tank-59-i-air-strike-mp046.json](./160494-tiger-tank-59-i-air-strike-mp046.json) |
 | Tiger Tank 59 I: Air Strike MP047 | 160850 | [160850-tiger-tank-59-i-air-strike-mp047.json](./160850-tiger-tank-59-i-air-strike-mp047.json) |
 | Tiger Tank 59 I: Air Strike MP049 | 160877 | [160877-tiger-tank-59-i-air-strike-mp049.json](./160877-tiger-tank-59-i-air-strike-mp049.json) |
 | Tiger Tank 59 I: Air Strike MP050 | 160865 | [160865-tiger-tank-59-i-air-strike-mp050.json](./160865-tiger-tank-59-i-air-strike-mp050.json) |
@@ -21984,6 +21993,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Air Strike MP071 | 160321 | [160321-tiger-tank-59-i-air-strike-mp071.json](./160321-tiger-tank-59-i-air-strike-mp071.json) |
 | Tiger Tank 59 I: Air Strike MP072 | 160872 | [160872-tiger-tank-59-i-air-strike-mp072.json](./160872-tiger-tank-59-i-air-strike-mp072.json) |
 | Tiger Tank 59 I: Air Strike MP073 | 160889 | [160889-tiger-tank-59-i-air-strike-mp073.json](./160889-tiger-tank-59-i-air-strike-mp073.json) |
+| Tiger Tank 59 I: Air Strike MP074 | 160507 | [160507-tiger-tank-59-i-air-strike-mp074.json](./160507-tiger-tank-59-i-air-strike-mp074.json) |
+| Tiger Tank 59 I: Air Strike MP076 | 160485 | [160485-tiger-tank-59-i-air-strike-mp076.json](./160485-tiger-tank-59-i-air-strike-mp076.json) |
 | Tiger Tank 59 I: Air Strike MP077 | 160871 | [160871-tiger-tank-59-i-air-strike-mp077.json](./160871-tiger-tank-59-i-air-strike-mp077.json) |
 | Tiger Tank 59 I: Air Strike MP078 | 160402 | [160402-tiger-tank-59-i-air-strike-mp078.json](./160402-tiger-tank-59-i-air-strike-mp078.json) |
 | Tiger Tank 59 I: Air Strike MP079 | 160543 | [160543-tiger-tank-59-i-air-strike-mp079.json](./160543-tiger-tank-59-i-air-strike-mp079.json) |
@@ -21998,6 +22009,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Air Strike MP088 | 160905 | [160905-tiger-tank-59-i-air-strike-mp088.json](./160905-tiger-tank-59-i-air-strike-mp088.json) |
 | Tiger Tank 59 I: Air Strike MP089 | 160864 | [160864-tiger-tank-59-i-air-strike-mp089.json](./160864-tiger-tank-59-i-air-strike-mp089.json) |
 | Tiger Tank 59 I: Air Strike MP090 | 160855 | [160855-tiger-tank-59-i-air-strike-mp090.json](./160855-tiger-tank-59-i-air-strike-mp090.json) |
+| Tiger Tank 59 I: Air Strike MP091 | 160469 | [160469-tiger-tank-59-i-air-strike-mp091.json](./160469-tiger-tank-59-i-air-strike-mp091.json) |
+| Tiger Tank 59 I: Air Strike MP092 | 160491 | [160491-tiger-tank-59-i-air-strike-mp092.json](./160491-tiger-tank-59-i-air-strike-mp092.json) |
+| Tiger Tank 59 I: Air Strike MP093 | 160478 | [160478-tiger-tank-59-i-air-strike-mp093.json](./160478-tiger-tank-59-i-air-strike-mp093.json) |
 | Tiger Tank 59 I: Air Strike MP096 | 160334 | [160334-tiger-tank-59-i-air-strike-mp096.json](./160334-tiger-tank-59-i-air-strike-mp096.json) |
 | Tiger Tank 59 I: Air Strike MP097 | 160886 | [160886-tiger-tank-59-i-air-strike-mp097.json](./160886-tiger-tank-59-i-air-strike-mp097.json) |
 | Tiger Tank 59 I: Air Strike MP098 | 160874 | [160874-tiger-tank-59-i-air-strike-mp098.json](./160874-tiger-tank-59-i-air-strike-mp098.json) |
@@ -22023,6 +22037,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Battleship MP018 | 160614 | [160614-tiger-tank-59-i-battleship-mp018.json](./160614-tiger-tank-59-i-battleship-mp018.json) |
 | Tiger Tank 59 I: Battleship MP019 | 160572 | [160572-tiger-tank-59-i-battleship-mp019.json](./160572-tiger-tank-59-i-battleship-mp019.json) |
 | Tiger Tank 59 I: Battleship MP020 | 160319 | [160319-tiger-tank-59-i-battleship-mp020.json](./160319-tiger-tank-59-i-battleship-mp020.json) |
+| Tiger Tank 59 I: Battleship MP021 | 160509 | [160509-tiger-tank-59-i-battleship-mp021.json](./160509-tiger-tank-59-i-battleship-mp021.json) |
+| Tiger Tank 59 I: Battleship MP022 | 160496 | [160496-tiger-tank-59-i-battleship-mp022.json](./160496-tiger-tank-59-i-battleship-mp022.json) |
 | Tiger Tank 59 I: Battleship MP023 | 160611 | [160611-tiger-tank-59-i-battleship-mp023.json](./160611-tiger-tank-59-i-battleship-mp023.json) |
 | Tiger Tank 59 I: Battleship MP024 | 160603 | [160603-tiger-tank-59-i-battleship-mp024.json](./160603-tiger-tank-59-i-battleship-mp024.json) |
 | Tiger Tank 59 I: Battleship MP025 | 160584 | [160584-tiger-tank-59-i-battleship-mp025.json](./160584-tiger-tank-59-i-battleship-mp025.json) |
@@ -22031,6 +22047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Battleship MP030 | 160346 | [160346-tiger-tank-59-i-battleship-mp030.json](./160346-tiger-tank-59-i-battleship-mp030.json) |
 | Tiger Tank 59 I: Battleship MP031 | 160566 | [160566-tiger-tank-59-i-battleship-mp031.json](./160566-tiger-tank-59-i-battleship-mp031.json) |
 | Tiger Tank 59 I: Battleship MP032 | 160588 | [160588-tiger-tank-59-i-battleship-mp032.json](./160588-tiger-tank-59-i-battleship-mp032.json) |
+| Tiger Tank 59 I: Battleship MP033 | 160482 | [160482-tiger-tank-59-i-battleship-mp033.json](./160482-tiger-tank-59-i-battleship-mp033.json) |
 | Tiger Tank 59 I: Battleship MP034 | 160564 | [160564-tiger-tank-59-i-battleship-mp034.json](./160564-tiger-tank-59-i-battleship-mp034.json) |
 | Tiger Tank 59 I: Battleship MP035 | 160597 | [160597-tiger-tank-59-i-battleship-mp035.json](./160597-tiger-tank-59-i-battleship-mp035.json) |
 | Tiger Tank 59 I: Battleship MP036 | 160577 | [160577-tiger-tank-59-i-battleship-mp036.json](./160577-tiger-tank-59-i-battleship-mp036.json) |
@@ -22041,6 +22058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Battleship MP041 | 160621 | [160621-tiger-tank-59-i-battleship-mp041.json](./160621-tiger-tank-59-i-battleship-mp041.json) |
 | Tiger Tank 59 I: Battleship MP042 | 160573 | [160573-tiger-tank-59-i-battleship-mp042.json](./160573-tiger-tank-59-i-battleship-mp042.json) |
 | Tiger Tank 59 I: Battleship MP043 | 160606 | [160606-tiger-tank-59-i-battleship-mp043.json](./160606-tiger-tank-59-i-battleship-mp043.json) |
+| Tiger Tank 59 I: Battleship MP044 | 160463 | [160463-tiger-tank-59-i-battleship-mp044.json](./160463-tiger-tank-59-i-battleship-mp044.json) |
 | Tiger Tank 59 I: Battleship MP046 | 160636 | [160636-tiger-tank-59-i-battleship-mp046.json](./160636-tiger-tank-59-i-battleship-mp046.json) |
 | Tiger Tank 59 I: Battleship MP047 | 160590 | [160590-tiger-tank-59-i-battleship-mp047.json](./160590-tiger-tank-59-i-battleship-mp047.json) |
 | Tiger Tank 59 I: Battleship MP048 | 160595 | [160595-tiger-tank-59-i-battleship-mp048.json](./160595-tiger-tank-59-i-battleship-mp048.json) |
@@ -22067,8 +22085,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Battleship MP070 | 160609 | [160609-tiger-tank-59-i-battleship-mp070.json](./160609-tiger-tank-59-i-battleship-mp070.json) |
 | Tiger Tank 59 I: Battleship MP071 | 160580 | [160580-tiger-tank-59-i-battleship-mp071.json](./160580-tiger-tank-59-i-battleship-mp071.json) |
 | Tiger Tank 59 I: Battleship MP072 | 160576 | [160576-tiger-tank-59-i-battleship-mp072.json](./160576-tiger-tank-59-i-battleship-mp072.json) |
+| Tiger Tank 59 I: Battleship MP073 | 160502 | [160502-tiger-tank-59-i-battleship-mp073.json](./160502-tiger-tank-59-i-battleship-mp073.json) |
 | Tiger Tank 59 I: Battleship MP075 | 160633 | [160633-tiger-tank-59-i-battleship-mp075.json](./160633-tiger-tank-59-i-battleship-mp075.json) |
 | Tiger Tank 59 I: Battleship MP076 | 160511 | [160511-tiger-tank-59-i-battleship-mp076.json](./160511-tiger-tank-59-i-battleship-mp076.json) |
+| Tiger Tank 59 I: Battleship MP077 | 160471 | [160471-tiger-tank-59-i-battleship-mp077.json](./160471-tiger-tank-59-i-battleship-mp077.json) |
 | Tiger Tank 59 I: Battleship MP078 | 160589 | [160589-tiger-tank-59-i-battleship-mp078.json](./160589-tiger-tank-59-i-battleship-mp078.json) |
 | Tiger Tank 59 I: Battleship MP079 | 160625 | [160625-tiger-tank-59-i-battleship-mp079.json](./160625-tiger-tank-59-i-battleship-mp079.json) |
 | Tiger Tank 59 I: Battleship MP080 | 160579 | [160579-tiger-tank-59-i-battleship-mp080.json](./160579-tiger-tank-59-i-battleship-mp080.json) |
@@ -22080,6 +22100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Battleship MP087 | 160630 | [160630-tiger-tank-59-i-battleship-mp087.json](./160630-tiger-tank-59-i-battleship-mp087.json) |
 | Tiger Tank 59 I: Battleship MP088 | 160620 | [160620-tiger-tank-59-i-battleship-mp088.json](./160620-tiger-tank-59-i-battleship-mp088.json) |
 | Tiger Tank 59 I: Battleship MP089 | 160591 | [160591-tiger-tank-59-i-battleship-mp089.json](./160591-tiger-tank-59-i-battleship-mp089.json) |
+| Tiger Tank 59 I: Battleship MP090 | 160490 | [160490-tiger-tank-59-i-battleship-mp090.json](./160490-tiger-tank-59-i-battleship-mp090.json) |
 | Tiger Tank 59 I: Battleship MP091 | 160571 | [160571-tiger-tank-59-i-battleship-mp091.json](./160571-tiger-tank-59-i-battleship-mp091.json) |
 | Tiger Tank 59 I: Battleship MP092 | 160623 | [160623-tiger-tank-59-i-battleship-mp092.json](./160623-tiger-tank-59-i-battleship-mp092.json) |
 | Tiger Tank 59 I: Battleship MP093 | 160581 | [160581-tiger-tank-59-i-battleship-mp093.json](./160581-tiger-tank-59-i-battleship-mp093.json) |
@@ -22101,6 +22122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Black Hill Fortress MP010 | 161019 | [161019-tiger-tank-59-i-black-hill-fortress-mp010.json](./161019-tiger-tank-59-i-black-hill-fortress-mp010.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP011 | 161048 | [161048-tiger-tank-59-i-black-hill-fortress-mp011.json](./161048-tiger-tank-59-i-black-hill-fortress-mp011.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP012 | 161017 | [161017-tiger-tank-59-i-black-hill-fortress-mp012.json](./161017-tiger-tank-59-i-black-hill-fortress-mp012.json) |
+| Tiger Tank 59 I: Black Hill Fortress MP013 | 160459 | [160459-tiger-tank-59-i-black-hill-fortress-mp013.json](./160459-tiger-tank-59-i-black-hill-fortress-mp013.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP014 | 161032 | [161032-tiger-tank-59-i-black-hill-fortress-mp014.json](./161032-tiger-tank-59-i-black-hill-fortress-mp014.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP015 | 161024 | [161024-tiger-tank-59-i-black-hill-fortress-mp015.json](./161024-tiger-tank-59-i-black-hill-fortress-mp015.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP016 | 161056 | [161056-tiger-tank-59-i-black-hill-fortress-mp016.json](./161056-tiger-tank-59-i-black-hill-fortress-mp016.json) |
@@ -22116,13 +22138,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Black Hill Fortress MP026 | 161023 | [161023-tiger-tank-59-i-black-hill-fortress-mp026.json](./161023-tiger-tank-59-i-black-hill-fortress-mp026.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP027 | 161068 | [161068-tiger-tank-59-i-black-hill-fortress-mp027.json](./161068-tiger-tank-59-i-black-hill-fortress-mp027.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP028 | 161009 | [161009-tiger-tank-59-i-black-hill-fortress-mp028.json](./161009-tiger-tank-59-i-black-hill-fortress-mp028.json) |
+| Tiger Tank 59 I: Black Hill Fortress MP029 | 160460 | [160460-tiger-tank-59-i-black-hill-fortress-mp029.json](./160460-tiger-tank-59-i-black-hill-fortress-mp029.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP030 | 161044 | [161044-tiger-tank-59-i-black-hill-fortress-mp030.json](./161044-tiger-tank-59-i-black-hill-fortress-mp030.json) |
+| Tiger Tank 59 I: Black Hill Fortress MP031 | 160481 | [160481-tiger-tank-59-i-black-hill-fortress-mp031.json](./160481-tiger-tank-59-i-black-hill-fortress-mp031.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP032 | 161051 | [161051-tiger-tank-59-i-black-hill-fortress-mp032.json](./161051-tiger-tank-59-i-black-hill-fortress-mp032.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP033 | 160341 | [160341-tiger-tank-59-i-black-hill-fortress-mp033.json](./160341-tiger-tank-59-i-black-hill-fortress-mp033.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP034 | 161047 | [161047-tiger-tank-59-i-black-hill-fortress-mp034.json](./161047-tiger-tank-59-i-black-hill-fortress-mp034.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP035 | 160330 | [160330-tiger-tank-59-i-black-hill-fortress-mp035.json](./160330-tiger-tank-59-i-black-hill-fortress-mp035.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP036 | 160393 | [160393-tiger-tank-59-i-black-hill-fortress-mp036.json](./160393-tiger-tank-59-i-black-hill-fortress-mp036.json) |
+| Tiger Tank 59 I: Black Hill Fortress MP037 | 160500 | [160500-tiger-tank-59-i-black-hill-fortress-mp037.json](./160500-tiger-tank-59-i-black-hill-fortress-mp037.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP038 | 160510 | [160510-tiger-tank-59-i-black-hill-fortress-mp038.json](./160510-tiger-tank-59-i-black-hill-fortress-mp038.json) |
+| Tiger Tank 59 I: Black Hill Fortress MP039 | 160472 | [160472-tiger-tank-59-i-black-hill-fortress-mp039.json](./160472-tiger-tank-59-i-black-hill-fortress-mp039.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP041 | 160389 | [160389-tiger-tank-59-i-black-hill-fortress-mp041.json](./160389-tiger-tank-59-i-black-hill-fortress-mp041.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP042 | 161039 | [161039-tiger-tank-59-i-black-hill-fortress-mp042.json](./161039-tiger-tank-59-i-black-hill-fortress-mp042.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP043 | 160361 | [160361-tiger-tank-59-i-black-hill-fortress-mp043.json](./160361-tiger-tank-59-i-black-hill-fortress-mp043.json) |
@@ -22144,6 +22170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Black Hill Fortress MP060 | 161010 | [161010-tiger-tank-59-i-black-hill-fortress-mp060.json](./161010-tiger-tank-59-i-black-hill-fortress-mp060.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP061 | 161018 | [161018-tiger-tank-59-i-black-hill-fortress-mp061.json](./161018-tiger-tank-59-i-black-hill-fortress-mp061.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP062 | 161067 | [161067-tiger-tank-59-i-black-hill-fortress-mp062.json](./161067-tiger-tank-59-i-black-hill-fortress-mp062.json) |
+| Tiger Tank 59 I: Black Hill Fortress MP063 | 160484 | [160484-tiger-tank-59-i-black-hill-fortress-mp063.json](./160484-tiger-tank-59-i-black-hill-fortress-mp063.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP064 | 161063 | [161063-tiger-tank-59-i-black-hill-fortress-mp064.json](./161063-tiger-tank-59-i-black-hill-fortress-mp064.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP065 | 161014 | [161014-tiger-tank-59-i-black-hill-fortress-mp065.json](./161014-tiger-tank-59-i-black-hill-fortress-mp065.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP066 | 161050 | [161050-tiger-tank-59-i-black-hill-fortress-mp066.json](./161050-tiger-tank-59-i-black-hill-fortress-mp066.json) |
@@ -22169,6 +22196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Black Hill Fortress MP091 | 161064 | [161064-tiger-tank-59-i-black-hill-fortress-mp091.json](./161064-tiger-tank-59-i-black-hill-fortress-mp091.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP093 | 161037 | [161037-tiger-tank-59-i-black-hill-fortress-mp093.json](./161037-tiger-tank-59-i-black-hill-fortress-mp093.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP094 | 161052 | [161052-tiger-tank-59-i-black-hill-fortress-mp094.json](./161052-tiger-tank-59-i-black-hill-fortress-mp094.json) |
+| Tiger Tank 59 I: Black Hill Fortress MP095 | 160487 | [160487-tiger-tank-59-i-black-hill-fortress-mp095.json](./160487-tiger-tank-59-i-black-hill-fortress-mp095.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP097 | 160528 | [160528-tiger-tank-59-i-black-hill-fortress-mp097.json](./160528-tiger-tank-59-i-black-hill-fortress-mp097.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP098 | 161034 | [161034-tiger-tank-59-i-black-hill-fortress-mp098.json](./161034-tiger-tank-59-i-black-hill-fortress-mp098.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP099 | 161054 | [161054-tiger-tank-59-i-black-hill-fortress-mp099.json](./161054-tiger-tank-59-i-black-hill-fortress-mp099.json) |
@@ -22191,6 +22219,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Break the Fog MP017 | 160537 | [160537-tiger-tank-59-i-break-the-fog-mp017.json](./160537-tiger-tank-59-i-break-the-fog-mp017.json) |
 | Tiger Tank 59 I: Break the Fog MP018 | 160827 | [160827-tiger-tank-59-i-break-the-fog-mp018.json](./160827-tiger-tank-59-i-break-the-fog-mp018.json) |
 | Tiger Tank 59 I: Break the Fog MP019 | 160782 | [160782-tiger-tank-59-i-break-the-fog-mp019.json](./160782-tiger-tank-59-i-break-the-fog-mp019.json) |
+| Tiger Tank 59 I: Break The Fog MP020 | 160480 | [160480-tiger-tank-59-i-break-the-fog-mp020.json](./160480-tiger-tank-59-i-break-the-fog-mp020.json) |
+| Tiger Tank 59 I: Break The Fog MP021 | 160493 | [160493-tiger-tank-59-i-break-the-fog-mp021.json](./160493-tiger-tank-59-i-break-the-fog-mp021.json) |
 | Tiger Tank 59 I: Break the Fog MP022 | 160844 | [160844-tiger-tank-59-i-break-the-fog-mp022.json](./160844-tiger-tank-59-i-break-the-fog-mp022.json) |
 | Tiger Tank 59 I: Break the Fog MP023 | 160810 | [160810-tiger-tank-59-i-break-the-fog-mp023.json](./160810-tiger-tank-59-i-break-the-fog-mp023.json) |
 | Tiger Tank 59 I: Break the Fog MP024 | 160792 | [160792-tiger-tank-59-i-break-the-fog-mp024.json](./160792-tiger-tank-59-i-break-the-fog-mp024.json) |
@@ -22203,6 +22233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Break the Fog MP031 | 160779 | [160779-tiger-tank-59-i-break-the-fog-mp031.json](./160779-tiger-tank-59-i-break-the-fog-mp031.json) |
 | Tiger Tank 59 I: Break the Fog MP032 | 160804 | [160804-tiger-tank-59-i-break-the-fog-mp032.json](./160804-tiger-tank-59-i-break-the-fog-mp032.json) |
 | Tiger Tank 59 I: Break the Fog MP033 | 160384 | [160384-tiger-tank-59-i-break-the-fog-mp033.json](./160384-tiger-tank-59-i-break-the-fog-mp033.json) |
+| Tiger Tank 59 I: Break the Fog MP034 | 160461 | [160461-tiger-tank-59-i-break-the-fog-mp034.json](./160461-tiger-tank-59-i-break-the-fog-mp034.json) |
 | Tiger Tank 59 I: Break the Fog MP036 | 160835 | [160835-tiger-tank-59-i-break-the-fog-mp036.json](./160835-tiger-tank-59-i-break-the-fog-mp036.json) |
 | Tiger Tank 59 I: Break the Fog MP037 | 160395 | [160395-tiger-tank-59-i-break-the-fog-mp037.json](./160395-tiger-tank-59-i-break-the-fog-mp037.json) |
 | Tiger Tank 59 I: Break the Fog MP038 | 160799 | [160799-tiger-tank-59-i-break-the-fog-mp038.json](./160799-tiger-tank-59-i-break-the-fog-mp038.json) |
@@ -22218,8 +22249,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Break the Fog MP049 | 160837 | [160837-tiger-tank-59-i-break-the-fog-mp049.json](./160837-tiger-tank-59-i-break-the-fog-mp049.json) |
 | Tiger Tank 59 I: Break the Fog MP050 | 160778 | [160778-tiger-tank-59-i-break-the-fog-mp050.json](./160778-tiger-tank-59-i-break-the-fog-mp050.json) |
 | Tiger Tank 59 I: Break The Fog MP051 | 160811 | [160811-tiger-tank-59-i-break-the-fog-mp051.json](./160811-tiger-tank-59-i-break-the-fog-mp051.json) |
+| Tiger Tank 59 I: Break the Fog MP052 | 160489 | [160489-tiger-tank-59-i-break-the-fog-mp052.json](./160489-tiger-tank-59-i-break-the-fog-mp052.json) |
 | Tiger Tank 59 I: Break the Fog MP053 | 160814 | [160814-tiger-tank-59-i-break-the-fog-mp053.json](./160814-tiger-tank-59-i-break-the-fog-mp053.json) |
 | Tiger Tank 59 I: Break the Fog MP054 | 160813 | [160813-tiger-tank-59-i-break-the-fog-mp054.json](./160813-tiger-tank-59-i-break-the-fog-mp054.json) |
+| Tiger Tank 59 I: Break the Fog MP055 | 160476 | [160476-tiger-tank-59-i-break-the-fog-mp055.json](./160476-tiger-tank-59-i-break-the-fog-mp055.json) |
 | Tiger Tank 59 I: Break the Fog MP056 | 160806 | [160806-tiger-tank-59-i-break-the-fog-mp056.json](./160806-tiger-tank-59-i-break-the-fog-mp056.json) |
 | Tiger Tank 59 I: Break the Fog MP057 | 160809 | [160809-tiger-tank-59-i-break-the-fog-mp057.json](./160809-tiger-tank-59-i-break-the-fog-mp057.json) |
 | Tiger Tank 59 I: Break the Fog MP058 | 160797 | [160797-tiger-tank-59-i-break-the-fog-mp058.json](./160797-tiger-tank-59-i-break-the-fog-mp058.json) |
@@ -22291,6 +22324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Mission Pack 028 | 161114 | [161114-tiger-tank-59-i-mission-pack-028.json](./161114-tiger-tank-59-i-mission-pack-028.json) |
 | Tiger Tank 59 I: Mission Pack 029 | 160351 | [160351-tiger-tank-59-i-mission-pack-029.json](./160351-tiger-tank-59-i-mission-pack-029.json) |
 | Tiger Tank 59 I: Mission Pack 030 | 161143 | [161143-tiger-tank-59-i-mission-pack-030.json](./161143-tiger-tank-59-i-mission-pack-030.json) |
+| Tiger Tank 59 I: Mission Pack 031 | 160468 | [160468-tiger-tank-59-i-mission-pack-031.json](./160468-tiger-tank-59-i-mission-pack-031.json) |
 | Tiger Tank 59 I: Mission Pack 032 | 161103 | [161103-tiger-tank-59-i-mission-pack-032.json](./161103-tiger-tank-59-i-mission-pack-032.json) |
 | Tiger Tank 59 I: Mission Pack 033 | 160309 | [160309-tiger-tank-59-i-mission-pack-033.json](./160309-tiger-tank-59-i-mission-pack-033.json) |
 | Tiger Tank 59 I: Mission Pack 034 | 161134 | [161134-tiger-tank-59-i-mission-pack-034.json](./161134-tiger-tank-59-i-mission-pack-034.json) |
@@ -22326,6 +22360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Mission Pack 068 | 161116 | [161116-tiger-tank-59-i-mission-pack-068.json](./161116-tiger-tank-59-i-mission-pack-068.json) |
 | Tiger Tank 59 I: Mission Pack 069 | 161140 | [161140-tiger-tank-59-i-mission-pack-069.json](./161140-tiger-tank-59-i-mission-pack-069.json) |
 | Tiger Tank 59 I: Mission Pack 071 | 161102 | [161102-tiger-tank-59-i-mission-pack-071.json](./161102-tiger-tank-59-i-mission-pack-071.json) |
+| Tiger Tank 59 I: Mission Pack 072 | 160462 | [160462-tiger-tank-59-i-mission-pack-072.json](./160462-tiger-tank-59-i-mission-pack-072.json) |
 | Tiger Tank 59 I: Mission Pack 073 | 161138 | [161138-tiger-tank-59-i-mission-pack-073.json](./161138-tiger-tank-59-i-mission-pack-073.json) |
 | Tiger Tank 59 I: Mission Pack 074 | 161137 | [161137-tiger-tank-59-i-mission-pack-074.json](./161137-tiger-tank-59-i-mission-pack-074.json) |
 | Tiger Tank 59 I: Mission Pack 075 | 161130 | [161130-tiger-tank-59-i-mission-pack-075.json](./161130-tiger-tank-59-i-mission-pack-075.json) |
@@ -22369,6 +22404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Rainstorm MP014 | 160352 | [160352-tiger-tank-59-i-rainstorm-mp014.json](./160352-tiger-tank-59-i-rainstorm-mp014.json) |
 | Tiger Tank 59 I: Rainstorm MP015 | 160648 | [160648-tiger-tank-59-i-rainstorm-mp015.json](./160648-tiger-tank-59-i-rainstorm-mp015.json) |
 | Tiger Tank 59 I: Rainstorm MP016 | 160641 | [160641-tiger-tank-59-i-rainstorm-mp016.json](./160641-tiger-tank-59-i-rainstorm-mp016.json) |
+| Tiger Tank 59 I: Rainstorm MP017 | 160465 | [160465-tiger-tank-59-i-rainstorm-mp017.json](./160465-tiger-tank-59-i-rainstorm-mp017.json) |
 | Tiger Tank 59 I: Rainstorm MP018 | 160643 | [160643-tiger-tank-59-i-rainstorm-mp018.json](./160643-tiger-tank-59-i-rainstorm-mp018.json) |
 | Tiger Tank 59 I: Rainstorm MP019 | 160639 | [160639-tiger-tank-59-i-rainstorm-mp019.json](./160639-tiger-tank-59-i-rainstorm-mp019.json) |
 | Tiger Tank 59 I: Rainstorm MP020 | 160649 | [160649-tiger-tank-59-i-rainstorm-mp020.json](./160649-tiger-tank-59-i-rainstorm-mp020.json) |
@@ -22383,6 +22419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Rainstorm MP029 | 160668 | [160668-tiger-tank-59-i-rainstorm-mp029.json](./160668-tiger-tank-59-i-rainstorm-mp029.json) |
 | Tiger Tank 59 I: Rainstorm MP030 | 160687 | [160687-tiger-tank-59-i-rainstorm-mp030.json](./160687-tiger-tank-59-i-rainstorm-mp030.json) |
 | Tiger Tank 59 I: Rainstorm MP031 | 160658 | [160658-tiger-tank-59-i-rainstorm-mp031.json](./160658-tiger-tank-59-i-rainstorm-mp031.json) |
+| Tiger Tank 59 I: Rainstorm MP032 | 160474 | [160474-tiger-tank-59-i-rainstorm-mp032.json](./160474-tiger-tank-59-i-rainstorm-mp032.json) |
 | Tiger Tank 59 I: Rainstorm MP033 | 160408 | [160408-tiger-tank-59-i-rainstorm-mp033.json](./160408-tiger-tank-59-i-rainstorm-mp033.json) |
 | Tiger Tank 59 I: Rainstorm MP034 | 160661 | [160661-tiger-tank-59-i-rainstorm-mp034.json](./160661-tiger-tank-59-i-rainstorm-mp034.json) |
 | Tiger Tank 59 I: Rainstorm MP035 | 160663 | [160663-tiger-tank-59-i-rainstorm-mp035.json](./160663-tiger-tank-59-i-rainstorm-mp035.json) |
@@ -22396,6 +22433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Rainstorm MP044 | 160696 | [160696-tiger-tank-59-i-rainstorm-mp044.json](./160696-tiger-tank-59-i-rainstorm-mp044.json) |
 | Tiger Tank 59 I: Rainstorm MP046 | 160681 | [160681-tiger-tank-59-i-rainstorm-mp046.json](./160681-tiger-tank-59-i-rainstorm-mp046.json) |
 | Tiger Tank 59 I: Rainstorm MP047 | 160347 | [160347-tiger-tank-59-i-rainstorm-mp047.json](./160347-tiger-tank-59-i-rainstorm-mp047.json) |
+| Tiger Tank 59 I: Rainstorm MP048 | 160488 | [160488-tiger-tank-59-i-rainstorm-mp048.json](./160488-tiger-tank-59-i-rainstorm-mp048.json) |
 | Tiger Tank 59 I: Rainstorm MP049 | 160695 | [160695-tiger-tank-59-i-rainstorm-mp049.json](./160695-tiger-tank-59-i-rainstorm-mp049.json) |
 | Tiger Tank 59 I: Rainstorm MP050 | 160685 | [160685-tiger-tank-59-i-rainstorm-mp050.json](./160685-tiger-tank-59-i-rainstorm-mp050.json) |
 | Tiger Tank 59 I: Rainstorm MP051 | 160521 | [160521-tiger-tank-59-i-rainstorm-mp051.json](./160521-tiger-tank-59-i-rainstorm-mp051.json) |
@@ -22411,6 +22449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Rainstorm MP061 | 160698 | [160698-tiger-tank-59-i-rainstorm-mp061.json](./160698-tiger-tank-59-i-rainstorm-mp061.json) |
 | Tiger Tank 59 I: Rainstorm MP062 | 160654 | [160654-tiger-tank-59-i-rainstorm-mp062.json](./160654-tiger-tank-59-i-rainstorm-mp062.json) |
 | Tiger Tank 59 I: Rainstorm MP063 | 160690 | [160690-tiger-tank-59-i-rainstorm-mp063.json](./160690-tiger-tank-59-i-rainstorm-mp063.json) |
+| Tiger Tank 59 I: Rainstorm MP064 | 160470 | [160470-tiger-tank-59-i-rainstorm-mp064.json](./160470-tiger-tank-59-i-rainstorm-mp064.json) |
 | Tiger Tank 59 I: Rainstorm MP065 | 160655 | [160655-tiger-tank-59-i-rainstorm-mp065.json](./160655-tiger-tank-59-i-rainstorm-mp065.json) |
 | Tiger Tank 59 I: Rainstorm MP066 | 159598 | [159598-tiger-tank-59-i-rainstorm-mp066.json](./159598-tiger-tank-59-i-rainstorm-mp066.json) |
 | Tiger Tank 59 I: Rainstorm MP067 | 160645 | [160645-tiger-tank-59-i-rainstorm-mp067.json](./160645-tiger-tank-59-i-rainstorm-mp067.json) |
@@ -22440,6 +22479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Rainstorm MP092 | 160692 | [160692-tiger-tank-59-i-rainstorm-mp092.json](./160692-tiger-tank-59-i-rainstorm-mp092.json) |
 | Tiger Tank 59 I: Rainstorm MP093 | 160312 | [160312-tiger-tank-59-i-rainstorm-mp093.json](./160312-tiger-tank-59-i-rainstorm-mp093.json) |
 | Tiger Tank 59 I: Rainstorm MP094 | 160647 | [160647-tiger-tank-59-i-rainstorm-mp094.json](./160647-tiger-tank-59-i-rainstorm-mp094.json) |
+| Tiger Tank 59 I: Rainstorm MP095 | 160497 | [160497-tiger-tank-59-i-rainstorm-mp095.json](./160497-tiger-tank-59-i-rainstorm-mp095.json) |
 | Tiger Tank 59 I: Rainstorm MP096 | 160701 | [160701-tiger-tank-59-i-rainstorm-mp096.json](./160701-tiger-tank-59-i-rainstorm-mp096.json) |
 | Tiger Tank 59 I: Rainstorm MP097 | 160675 | [160675-tiger-tank-59-i-rainstorm-mp097.json](./160675-tiger-tank-59-i-rainstorm-mp097.json) |
 | Tiger Tank 59 I: Rainstorm MP098 | 160667 | [160667-tiger-tank-59-i-rainstorm-mp098.json](./160667-tiger-tank-59-i-rainstorm-mp098.json) |
@@ -22450,8 +22490,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Super Tank MP003 | 160740 | [160740-tiger-tank-59-i-super-tank-mp003.json](./160740-tiger-tank-59-i-super-tank-mp003.json) |
 | Tiger Tank 59 I: Super Tank MP004 | 160718 | [160718-tiger-tank-59-i-super-tank-mp004.json](./160718-tiger-tank-59-i-super-tank-mp004.json) |
 | Tiger Tank 59 I: Super Tank MP005 | 160736 | [160736-tiger-tank-59-i-super-tank-mp005.json](./160736-tiger-tank-59-i-super-tank-mp005.json) |
+| Tiger Tank 59 I: Super Tank MP006 | 160475 | [160475-tiger-tank-59-i-super-tank-mp006.json](./160475-tiger-tank-59-i-super-tank-mp006.json) |
+| Tiger Tank 59 I: Super Tank MP007 | 160466 | [160466-tiger-tank-59-i-super-tank-mp007.json](./160466-tiger-tank-59-i-super-tank-mp007.json) |
 | Tiger Tank 59 I: Super Tank MP008 | 160744 | [160744-tiger-tank-59-i-super-tank-mp008.json](./160744-tiger-tank-59-i-super-tank-mp008.json) |
+| Tiger Tank 59 I: Super Tank MP009 | 160483 | [160483-tiger-tank-59-i-super-tank-mp009.json](./160483-tiger-tank-59-i-super-tank-mp009.json) |
 | Tiger Tank 59 I: Super Tank MP010 | 160723 | [160723-tiger-tank-59-i-super-tank-mp010.json](./160723-tiger-tank-59-i-super-tank-mp010.json) |
+| Tiger Tank 59 I: Super Tank MP011 | 160467 | [160467-tiger-tank-59-i-super-tank-mp011.json](./160467-tiger-tank-59-i-super-tank-mp011.json) |
 | Tiger Tank 59 I: Super Tank MP012 | 160403 | [160403-tiger-tank-59-i-super-tank-mp012.json](./160403-tiger-tank-59-i-super-tank-mp012.json) |
 | Tiger Tank 59 I: Super Tank MP013 | 160314 | [160314-tiger-tank-59-i-super-tank-mp013.json](./160314-tiger-tank-59-i-super-tank-mp013.json) |
 | Tiger Tank 59 I: Super Tank MP014 | 160525 | [160525-tiger-tank-59-i-super-tank-mp014.json](./160525-tiger-tank-59-i-super-tank-mp014.json) |
@@ -22461,6 +22505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Super Tank MP018 | 160775 | [160775-tiger-tank-59-i-super-tank-mp018.json](./160775-tiger-tank-59-i-super-tank-mp018.json) |
 | Tiger Tank 59 I: Super Tank MP019 | 160773 | [160773-tiger-tank-59-i-super-tank-mp019.json](./160773-tiger-tank-59-i-super-tank-mp019.json) |
 | Tiger Tank 59 I: Super Tank MP020 | 160729 | [160729-tiger-tank-59-i-super-tank-mp020.json](./160729-tiger-tank-59-i-super-tank-mp020.json) |
+| Tiger Tank 59 I: Super Tank MP021 | 160492 | [160492-tiger-tank-59-i-super-tank-mp021.json](./160492-tiger-tank-59-i-super-tank-mp021.json) |
 | Tiger Tank 59 I: Super Tank MP022 | 160765 | [160765-tiger-tank-59-i-super-tank-mp022.json](./160765-tiger-tank-59-i-super-tank-mp022.json) |
 | Tiger Tank 59 I: Super Tank MP023 | 160364 | [160364-tiger-tank-59-i-super-tank-mp023.json](./160364-tiger-tank-59-i-super-tank-mp023.json) |
 | Tiger Tank 59 I: Super Tank MP024 | 160745 | [160745-tiger-tank-59-i-super-tank-mp024.json](./160745-tiger-tank-59-i-super-tank-mp024.json) |
@@ -22479,6 +22524,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Super Tank MP038 | 160315 | [160315-tiger-tank-59-i-super-tank-mp038.json](./160315-tiger-tank-59-i-super-tank-mp038.json) |
 | Tiger Tank 59 I: Super Tank MP039 | 160746 | [160746-tiger-tank-59-i-super-tank-mp039.json](./160746-tiger-tank-59-i-super-tank-mp039.json) |
 | Tiger Tank 59 I: Super Tank MP040 | 160730 | [160730-tiger-tank-59-i-super-tank-mp040.json](./160730-tiger-tank-59-i-super-tank-mp040.json) |
+| Tiger Tank 59 I: Super Tank MP041 | 160495 | [160495-tiger-tank-59-i-super-tank-mp041.json](./160495-tiger-tank-59-i-super-tank-mp041.json) |
+| Tiger Tank 59 I: Super Tank MP042 | 160477 | [160477-tiger-tank-59-i-super-tank-mp042.json](./160477-tiger-tank-59-i-super-tank-mp042.json) |
 | Tiger Tank 59 I: Super Tank MP043 | 160554 | [160554-tiger-tank-59-i-super-tank-mp043.json](./160554-tiger-tank-59-i-super-tank-mp043.json) |
 | Tiger Tank 59 I: Super Tank MP044 | 160751 | [160751-tiger-tank-59-i-super-tank-mp044.json](./160751-tiger-tank-59-i-super-tank-mp044.json) |
 | Tiger Tank 59 I: Super Tank MP045 | 160768 | [160768-tiger-tank-59-i-super-tank-mp045.json](./160768-tiger-tank-59-i-super-tank-mp045.json) |
@@ -22514,6 +22561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Super Tank MP078 | 160762 | [160762-tiger-tank-59-i-super-tank-mp078.json](./160762-tiger-tank-59-i-super-tank-mp078.json) |
 | Tiger Tank 59 I: Super Tank MP079 | 160560 | [160560-tiger-tank-59-i-super-tank-mp079.json](./160560-tiger-tank-59-i-super-tank-mp079.json) |
 | Tiger Tank 59 I: Super Tank MP080 | 160764 | [160764-tiger-tank-59-i-super-tank-mp080.json](./160764-tiger-tank-59-i-super-tank-mp080.json) |
+| Tiger Tank 59 I: Super Tank MP081 | 160479 | [160479-tiger-tank-59-i-super-tank-mp081.json](./160479-tiger-tank-59-i-super-tank-mp081.json) |
 | Tiger Tank 59 I: Super Tank MP082 | 160719 | [160719-tiger-tank-59-i-super-tank-mp082.json](./160719-tiger-tank-59-i-super-tank-mp082.json) |
 | Tiger Tank 59 I: Super Tank MP083 | 160720 | [160720-tiger-tank-59-i-super-tank-mp083.json](./160720-tiger-tank-59-i-super-tank-mp083.json) |
 | Tiger Tank 59 I: Super Tank MP084 | 160529 | [160529-tiger-tank-59-i-super-tank-mp084.json](./160529-tiger-tank-59-i-super-tank-mp084.json) |
@@ -22640,6 +22688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Winter Assault MP009 | 161089 | [161089-tiger-tank-59-i-winter-assault-mp009.json](./161089-tiger-tank-59-i-winter-assault-mp009.json) |
 | Tiger Tank 59 I: Winter Assault MP010 | 161094 | [161094-tiger-tank-59-i-winter-assault-mp010.json](./161094-tiger-tank-59-i-winter-assault-mp010.json) |
 | Tiger Tank 59 I: Winter Assault MP011 | 161084 | [161084-tiger-tank-59-i-winter-assault-mp011.json](./161084-tiger-tank-59-i-winter-assault-mp011.json) |
+| Tiger Tank 59 I: Winter Assault MP012 | 160464 | [160464-tiger-tank-59-i-winter-assault-mp012.json](./160464-tiger-tank-59-i-winter-assault-mp012.json) |
 | Tiger Tank 59 I: Winter Assault MP013 | 161080 | [161080-tiger-tank-59-i-winter-assault-mp013.json](./161080-tiger-tank-59-i-winter-assault-mp013.json) |
 | Tiger Tank 59 I: Winter Assault MP014 | 161071 | [161071-tiger-tank-59-i-winter-assault-mp014.json](./161071-tiger-tank-59-i-winter-assault-mp014.json) |
 | Tiger Tank 59 I: Winter Assault MP015 | 161087 | [161087-tiger-tank-59-i-winter-assault-mp015.json](./161087-tiger-tank-59-i-winter-assault-mp015.json) |
@@ -22654,6 +22703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Winter Assault MP024 | 160359 | [160359-tiger-tank-59-i-winter-assault-mp024.json](./160359-tiger-tank-59-i-winter-assault-mp024.json) |
 | Tiger Tank 59 I: Winter Assault MP025 | 161070 | [161070-tiger-tank-59-i-winter-assault-mp025.json](./161070-tiger-tank-59-i-winter-assault-mp025.json) |
 | Tiger Tank 59 I: Winter Assault MP026 | 161078 | [161078-tiger-tank-59-i-winter-assault-mp026.json](./161078-tiger-tank-59-i-winter-assault-mp026.json) |
+| Tiger Tank 59 I: Winter Assault MP027 | 160508 | [160508-tiger-tank-59-i-winter-assault-mp027.json](./160508-tiger-tank-59-i-winter-assault-mp027.json) |
 | Tiger Tank 59 I: Winter Assault MP028 | 161095 | [161095-tiger-tank-59-i-winter-assault-mp028.json](./161095-tiger-tank-59-i-winter-assault-mp028.json) |
 | Tiger Tank 59 I: Winter Assault MP029 | 161076 | [161076-tiger-tank-59-i-winter-assault-mp029.json](./161076-tiger-tank-59-i-winter-assault-mp029.json) |
 | Tiger Tank 59 I: Winter Assault MP030 | 161082 | [161082-tiger-tank-59-i-winter-assault-mp030.json](./161082-tiger-tank-59-i-winter-assault-mp030.json) |
