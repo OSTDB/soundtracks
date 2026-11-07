@@ -5078,6 +5078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TetriStory 110% | 202454 | [202454-tetristory-110.json](./202454-tetristory-110.json) |
 | Tetrisweeper | 295637 | [295637-tetrisweeper.json](./295637-tetrisweeper.json) |
 | Tetrius | 147325 | [147325-tetrius.json](./147325-tetrius.json) |
+| Tetrius 0 | 147561 | [147561-tetrius-0.json](./147561-tetrius-0.json) |
 | Tetrix 3D | 165926 | [165926-tetrix-3d.json](./165926-tetrix-3d.json) |
 | Tetro Runner | 386245 | [386245-tetro-runner.json](./386245-tetro-runner.json) |
 | Tetrocombat | 260598 | [260598-tetrocombat.json](./260598-tetrocombat.json) |
@@ -9967,6 +9968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game Formerly Known as Hidden Nazi Mode | 214898 | [214898-the-game-formerly-known-as-hidden-nazi-mode.json](./214898-the-game-formerly-known-as-hidden-nazi-mode.json) |
 | The Game Has Started | 387007 | [387007-the-game-has-started.json](./387007-the-game-has-started.json) |
 | The Game is ON | 142694 | [142694-the-game-is-on.json](./142694-the-game-is-on.json) |
+| The Game is ON | 147584 | [147584-the-game-is-on.json](./147584-the-game-is-on.json) |
 | The Game is ON | 153026 | [153026-the-game-is-on.json](./153026-the-game-is-on.json) |
 | The Game Maker | 281445 | [281445-the-game-maker.json](./281445-the-game-maker.json) |
 | The Game Maker | 64485 | [64485-the-game-maker.json](./64485-the-game-maker.json) |
@@ -12749,6 +12751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of the Astera Stone | 300020 | [300020-the-legend-of-the-astera-stone.json](./300020-the-legend-of-the-astera-stone.json) |
 | The Legend of The Black Wizard | 157471 | [157471-the-legend-of-the-black-wizard.json](./157471-the-legend-of-the-black-wizard.json) |
 | The Legend of the Blue Sword | 307980 | [307980-the-legend-of-the-blue-sword.json](./307980-the-legend-of-the-blue-sword.json) |
+| The Legend of The Blue Warrior | 147583 | [147583-the-legend-of-the-blue-warrior.json](./147583-the-legend-of-the-blue-warrior.json) |
 | The Legend of the Chao | 331776 | [331776-the-legend-of-the-chao.json](./331776-the-legend-of-the-chao.json) |
 | The Legend of the Darkest Night | 179265 | [179265-the-legend-of-the-darkest-night.json](./179265-the-legend-of-the-darkest-night.json) |
 | The Legend of the Dragonflame High School | 54849 | [54849-the-legend-of-the-dragonflame-high-school.json](./54849-the-legend-of-the-dragonflame-high-school.json) |
@@ -13735,6 +13738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Margot Collapse | 422175 | [422175-the-margot-collapse.json](./422175-the-margot-collapse.json) |
 | The Mariachi Loco | 178909 | [178909-the-mariachi-loco.json](./178909-the-mariachi-loco.json) |
 | The Marionette | 124595 | [124595-the-marionette.json](./124595-the-marionette.json) |
+| The Marionette | 147550 | [147550-the-marionette.json](./147550-the-marionette.json) |
 | The Mark | 10956 | [10956-the-mark.json](./10956-the-mark.json) |
 | The Mark of Kri | 9120 | [9120-the-mark-of-kri.json](./9120-the-mark-of-kri.json) |
 | The Market of Light | 170545 | [170545-the-market-of-light.json](./170545-the-market-of-light.json) |
@@ -23859,6 +23863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Plushie Story | 356597 | [356597-tiny-plushie-story.json](./356597-tiny-plushie-story.json) |
 | Tiny Pods Rescue: 2D Board Game Edition | 319274 | [319274-tiny-pods-rescue-2d-board-game-edition.json](./319274-tiny-pods-rescue-2d-board-game-edition.json) |
 | Tiny Poker | 150603 | [150603-tiny-poker.json](./150603-tiny-poker.json) |
+| Tiny Racer | 147567 | [147567-tiny-racer.json](./147567-tiny-racer.json) |
 | Tiny Racing | 101963 | [101963-tiny-racing.json](./101963-tiny-racing.json) |
 | Tiny Racing | 332885 | [332885-tiny-racing.json](./332885-tiny-racing.json) |
 | Tiny Rails | 53309 | [53309-tiny-rails.json](./53309-tiny-rails.json) |
@@ -24003,6 +24008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Wizard Tavern | 412388 | [412388-tiny-wizard-tavern.json](./412388-tiny-wizard-tavern.json) |
 | Tiny World | 117595 | [117595-tiny-world.json](./117595-tiny-world.json) |
 | Tiny World | 234586 | [234586-tiny-world.json](./234586-tiny-world.json) |
+| Tiny World Racing | 147569 | [147569-tiny-world-racing.json](./147569-tiny-world-racing.json) |
 | Tiny x Machinegun | 240563 | [240563-tiny-x-machinegun.json](./240563-tiny-x-machinegun.json) |
 | Tiny Zoo Friends | 368273 | [368273-tiny-zoo-friends.json](./368273-tiny-zoo-friends.json) |
 | Tiny-DDug | 267218 | [267218-tiny-ddug.json](./267218-tiny-ddug.json) |
@@ -24106,9 +24112,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Empires | 323314 | [323314-titan-empires.json](./323314-titan-empires.json) |
 | Titan Force | 289944 | [289944-titan-force.json](./289944-titan-force.json) |
 | Titan Fury | 317053 | [317053-titan-fury.json](./317053-titan-fury.json) |
+| Titan Glory | 147580 | [147580-titan-glory.json](./147580-titan-glory.json) |
 | Titan Hunter | 110621 | [110621-titan-hunter.json](./110621-titan-hunter.json) |
 | Titan Hunters | 409703 | [409703-titan-hunters.json](./409703-titan-hunters.json) |
 | Titan Isles | 335131 | [335131-titan-isles.json](./335131-titan-isles.json) |
+| Titan Nebula | 147560 | [147560-titan-nebula.json](./147560-titan-nebula.json) |
 | Titan Online | 67776 | [67776-titan-online.json](./67776-titan-online.json) |
 | Titan Outpost | 113507 | [113507-titan-outpost.json](./113507-titan-outpost.json) |
 | Titan Quest | 99467 | [99467-titan-quest.json](./99467-titan-quest.json) |
@@ -32138,6 +32146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Rider | 227465 | [227465-truck-rider.json](./227465-truck-rider.json) |
 | Truck Sim 2024 | 287159 | [287159-truck-sim-2024.json](./287159-truck-sim-2024.json) |
 | Truck Simulation 19 | 111747 | [111747-truck-simulation-19.json](./111747-truck-simulation-19.json) |
+| Truck Simulator | 147571 | [147571-truck-simulator.json](./147571-truck-simulator.json) |
 | Truck Simulator | 216061 | [216061-truck-simulator.json](./216061-truck-simulator.json) |
 | Truck Simulator & World of Machines: Game Bundle Collection | 263562 | [263562-truck-simulator-and-world-of-machines-game-bundle-collection.json](./263562-truck-simulator-and-world-of-machines-game-bundle-collection.json) |
 | Truck Simulator 2 | 159016 | [159016-truck-simulator-2.json](./159016-truck-simulator-2.json) |
