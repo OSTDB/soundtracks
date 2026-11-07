@@ -1061,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vector Rumble | 89580 | [89580-vector-rumble.json](./89580-vector-rumble.json) |
 | Vector Runner | 230753 | [230753-vector-runner.json](./230753-vector-runner.json) |
 | Vector Runners | 179128 | [179128-vector-runners.json](./179128-vector-runners.json) |
+| Vector Rush | 182001 | [182001-vector-rush.json](./182001-vector-rush.json) |
 | Vector Sector | 386996 | [386996-vector-sector.json](./386996-vector-sector.json) |
 | Vector Space | 310086 | [310086-vector-space.json](./310086-vector-space.json) |
 | Vector Strain | 34046 | [34046-vector-strain.json](./34046-vector-strain.json) |
@@ -2666,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Escape - The Play Room | 131875 | [131875-virtual-escape-the-play-room.json](./131875-virtual-escape-the-play-room.json) |
 | Virtual Escape: Digital World | 167838 | [167838-virtual-escape-digital-world.json](./167838-virtual-escape-digital-world.json) |
 | Virtual Expo 2025 Japan | 373170 | [373170-virtual-expo-2025-japan.json](./373170-virtual-expo-2025-japan.json) |
+| Virtual Families 2: My Dream Home | 181972 | [181972-virtual-families-2-my-dream-home.json](./181972-virtual-families-2-my-dream-home.json) |
 | Virtual Families 2: Our Dream House | 88471 | [88471-virtual-families-2-our-dream-house.json](./88471-virtual-families-2-our-dream-house.json) |
 | Virtual Families 3 | 239674 | [239674-virtual-families-3.json](./239674-virtual-families-3.json) |
 | Virtual Families 3: Our Country Home | 272179 | [272179-virtual-families-3-our-country-home.json](./272179-virtual-families-3-our-country-home.json) |
