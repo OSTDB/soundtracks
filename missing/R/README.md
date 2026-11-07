@@ -1020,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid Rush | 355014 | [355014-raid-rush.json](./355014-raid-rush.json) |
 | Raid the Dungeon | 299200 | [299200-raid-the-dungeon.json](./299200-raid-the-dungeon.json) |
 | Raid: World War II | 10403 | [10403-raid-world-war-ii.json](./10403-raid-world-war-ii.json) |
+| Raid! | 171156 | [171156-raid.json](./171156-raid.json) |
 | Raidborn | 212178 | [212178-raidborn.json](./212178-raidborn.json) |
 | Raidborn: Founder's Pack | 298337 | [298337-raidborn-founders-pack.json](./298337-raidborn-founders-pack.json) |
 | Raidbound | 372957 | [372957-raidbound.json](./372957-raidbound.json) |
@@ -4905,6 +4906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relumine | 174277 | [174277-relumine.json](./174277-relumine.json) |
 | Relyctum | 261439 | [261439-relyctum.json](./261439-relyctum.json) |
 | Rem | 225427 | [225427-rem.json](./225427-rem.json) |
+| REM Cycles | 171170 | [171170-rem-cycles.json](./171170-rem-cycles.json) |
 | REM Hemispheres | 408701 | [408701-rem-hemispheres.json](./408701-rem-hemispheres.json) |
 | Rem Psycho | 318334 | [318334-rem-psycho.json](./318334-rem-psycho.json) |
 | Rem Survival | 102077 | [102077-rem-survival.json](./102077-rem-survival.json) |
@@ -10209,6 +10211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue's Odyssey | 382399 | [382399-rogues-odyssey.json](./382399-rogues-odyssey.json) |
 | Rogue's Realm: The Old God | 306360 | [306360-rogues-realm-the-old-god.json](./306360-rogues-realm-the-old-god.json) |
 | Rogue's Tale | 16875 | [16875-rogues-tale.json](./16875-rogues-tale.json) |
+| Rogue's Tale: Bloodlines | 171160 | [171160-rogues-tale-bloodlines.json](./171160-rogues-tale-bloodlines.json) |
 | Rogue64 | 192316 | [192316-rogue64.json](./192316-rogue64.json) |
 | RogueAlongWay | 106419 | [106419-roguealongway.json](./106419-roguealongway.json) |
 | Rogueball Recess | 352147 | [352147-rogueball-recess.json](./352147-rogueball-recess.json) |
