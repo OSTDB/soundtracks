@@ -1402,6 +1402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Train Mystery | 299682 | [299682-a-train-mystery.json](./299682-a-train-mystery.json) |
 | A Trans Man's Grindr DMs | 282106 | [282106-a-trans-mans-grindr-dms.json](./282106-a-trans-mans-grindr-dms.json) |
 | A Transitional Eve | 397044 | [397044-a-transitional-eve.json](./397044-a-transitional-eve.json) |
+| A Trap Game | 144477 | [144477-a-trap-game.json](./144477-a-trap-game.json) |
 | A Traveler to Unknown Thule | 237726 | [237726-a-traveler-to-unknown-thule.json](./237726-a-traveler-to-unknown-thule.json) |
 | A Traveler's Photo Album | 155301 | [155301-a-travelers-photo-album.json](./155301-a-travelers-photo-album.json) |
 | A Treat and Some Tricks | 312852 | [312852-a-treat-and-some-tricks.json](./312852-a-treat-and-some-tricks.json) |
@@ -11824,6 +11825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apollo 13: The Lost Tapes VR | 297538 | [297538-apollo-13-the-lost-tapes-vr.json](./297538-apollo-13-the-lost-tapes-vr.json) |
 | Apollo 18 | 13792 | [13792-apollo-18.json](./13792-apollo-18.json) |
 | Apollo 18: The Moon Missions | 69735 | [69735-apollo-18-the-moon-missions.json](./69735-apollo-18-the-moon-missions.json) |
+| Apollo 3000: Wild Space | 144490 | [144490-apollo-3000-wild-space.json](./144490-apollo-3000-wild-space.json) |
 | Apollo Cosmic | 274341 | [274341-apollo-cosmic.json](./274341-apollo-cosmic.json) |
 | Apollo in Outer Space | 147546 | [147546-apollo-in-outer-space.json](./147546-apollo-in-outer-space.json) |
 | Apollo Justice: Ace Attorney | 1429 | [1429-apollo-justice-ace-attorney.json](./1429-apollo-justice-ace-attorney.json) |
