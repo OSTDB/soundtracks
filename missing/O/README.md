@@ -294,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obscurium | 371409 | [371409-obscurium.json](./371409-obscurium.json) |
 | Obscurium | 401700 | [401700-obscurium.json](./401700-obscurium.json) |
 | Obscurum | 276184 | [276184-obscurum.json](./276184-obscurum.json) |
+| Obscury: The Last | 150846 | [150846-obscury-the-last.json](./150846-obscury-the-last.json) |
 | Observa | 386168 | [386168-observa.json](./386168-observa.json) |
 | Observance of Homeland | 368151 | [368151-observance-of-homeland.json](./368151-observance-of-homeland.json) |
 | Observation | 110807 | [110807-observation.json](./110807-observation.json) |
