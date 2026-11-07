@@ -4859,6 +4859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relic Raiders | 70986 | [70986-relic-raiders.json](./70986-relic-raiders.json) |
 | Relic Runway | 181312 | [181312-relic-runway.json](./181312-relic-runway.json) |
 | Relic Rush | 304253 | [304253-relic-rush.json](./304253-relic-rush.json) |
+| Relic Space | 158326 | [158326-relic-space.json](./158326-relic-space.json) |
 | Relic Splatter | 154239 | [154239-relic-splatter.json](./154239-relic-splatter.json) |
 | Relicborn | 197212 | [197212-relicborn.json](./197212-relicborn.json) |
 | Relicfall | 415078 | [415078-relicfall.json](./415078-relicfall.json) |
@@ -8567,6 +8568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road to Moscow | 25613 | [25613-road-to-moscow.json](./25613-road-to-moscow.json) |
 | Road to Newtopia | 213250 | [213250-road-to-newtopia.json](./213250-road-to-newtopia.json) |
 | Road to Nowhere | 126836 | [126836-road-to-nowhere.json](./126836-road-to-nowhere.json) |
+| Road to Nowhere | 158313 | [158313-road-to-nowhere.json](./158313-road-to-nowhere.json) |
 | Road to Olympus | 345974 | [345974-road-to-olympus.json](./345974-road-to-olympus.json) |
 | Road to Rage | 118658 | [118658-road-to-rage.json](./118658-road-to-rage.json) |
 | Road to Salvation | 245742 | [245742-road-to-salvation.json](./245742-road-to-salvation.json) |
