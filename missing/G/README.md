@@ -1434,6 +1434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Tengoku: Cruisin Mix Special - Gokuraku Box | 167054 | [167054-game-tengoku-cruisin-mix-special-gokuraku-box.json](./167054-game-tengoku-cruisin-mix-special-gokuraku-box.json) |
 | Game Tester Quest | 283308 | [283308-game-tester-quest.json](./283308-game-tester-quest.json) |
 | Game the Strongest Job Is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!: Dungeon and Mystery Girl | 396950 | [396950-game-the-strongest-job-is-apparently-not-a-hero-or-a-sage-but-an-appraiser-provisional-dungeon-and-mystery-girl.json](./396950-game-the-strongest-job-is-apparently-not-a-hero-or-a-sage-but-an-appraiser-provisional-dungeon-and-mystery-girl.json) |
+| Game Theory At Christmas | 172869 | [172869-game-theory-at-christmas.json](./172869-game-theory-at-christmas.json) |
 | Game Time Glizzys | 266298 | [266298-game-time-glizzys.json](./266298-game-time-glizzys.json) |
 | Game Title | 139818 | [139818-game-title.json](./139818-game-title.json) |
 | Game Title | 376524 | [376524-game-title.json](./376524-game-title.json) |
@@ -7366,6 +7367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorf the Ghost Saves Halloween | 277415 | [277415-gorf-the-ghost-saves-halloween.json](./277415-gorf-the-ghost-saves-halloween.json) |
 | Gorfest | 267851 | [267851-gorfest.json](./267851-gorfest.json) |
 | Gorg The Game | 398681 | [398681-gorg-the-game.json](./398681-gorg-the-game.json) |
+| Gorge | 172871 | [172871-gorge.json](./172871-gorge.json) |
 | Gorgeous Baby Bella | 424611 | [424611-gorgeous-baby-bella.json](./424611-gorgeous-baby-bella.json) |
 | Gorgeous Elves of Ganassa | 385806 | [385806-gorgeous-elves-of-ganassa.json](./385806-gorgeous-elves-of-ganassa.json) |
 | Gorgeous Princess Dressup | 104605 | [104605-gorgeous-princess-dressup.json](./104605-gorgeous-princess-dressup.json) |
@@ -10291,6 +10293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of Gold | 90223 | [90223-guardians-of-gold.json](./90223-guardians-of-gold.json) |
 | Guardians of Graxia | 16225 | [16225-guardians-of-graxia.json](./16225-guardians-of-graxia.json) |
 | Guardians of Graxia: Elves & Dwarves | 170320 | [170320-guardians-of-graxia-elves-and-dwarves.json](./170320-guardians-of-graxia-elves-and-dwarves.json) |
+| Guardians of Greenheart | 172867 | [172867-guardians-of-greenheart.json](./172867-guardians-of-greenheart.json) |
 | Guardians of Greyrock | 151034 | [151034-guardians-of-greyrock.json](./151034-guardians-of-greyrock.json) |
 | Guardians of Greyrock: Card Pack - Ancient Necropolis | 335312 | [335312-guardians-of-greyrock-card-pack-ancient-necropolis.json](./335312-guardians-of-greyrock-card-pack-ancient-necropolis.json) |
 | Guardians of Greyrock: Card Pack - Frozen Peak Pass | 335313 | [335313-guardians-of-greyrock-card-pack-frozen-peak-pass.json](./335313-guardians-of-greyrock-card-pack-frozen-peak-pass.json) |
