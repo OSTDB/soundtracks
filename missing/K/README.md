@@ -671,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanade | 317332 | [317332-kanade.json](./317332-kanade.json) |
 | Kanaete! Magical Star | 376684 | [376684-kanaete-magical-star.json](./376684-kanaete-magical-star.json) |
 | Kanako Enomoto Junk Brain Diagnosis | 209450 | [209450-kanako-enomoto-junk-brain-diagnosis.json](./209450-kanako-enomoto-junk-brain-diagnosis.json) |
+| Kanały '44 | 166885 | [166885-kana-y-44.json](./166885-kana-y-44.json) |
 | Kanamono | 168215 | [168215-kanamono.json](./168215-kanamono.json) |
 | Kanapocalypse | 171744 | [171744-kanapocalypse.json](./171744-kanapocalypse.json) |
 | Kanashibari | 235788 | [235788-kanashibari.json](./235788-kanashibari.json) |
@@ -1588,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keeper | 91388 | [91388-keeper.json](./91388-keeper.json) |
 | Keeper 2119 | 121984 | [121984-keeper-2119.json](./121984-keeper-2119.json) |
 | Keeper and The Soldier | 18774 | [18774-keeper-and-the-soldier.json](./18774-keeper-and-the-soldier.json) |
+| Keeper of the Day and Night | 166906 | [166906-keeper-of-the-day-and-night.json](./166906-keeper-of-the-day-and-night.json) |
 | Keeper of the Grove 2 | 102015 | [102015-keeper-of-the-grove-2.json](./102015-keeper-of-the-grove-2.json) |
 | Keeper of the Grove 3 | 219764 | [219764-keeper-of-the-grove-3.json](./219764-keeper-of-the-grove-3.json) |
 | Keeper Of The Hell Gate | 271748 | [271748-keeper-of-the-hell-gate.json](./271748-keeper-of-the-hell-gate.json) |
@@ -2841,7 +2843,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3605,6 +3606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdoms of Lost Valleys | 311126 | [311126-kingdoms-of-lost-valleys.json](./311126-kingdoms-of-lost-valleys.json) |
 | Kingdoms of Marazia: Classic | 107199 | [107199-kingdoms-of-marazia-classic.json](./107199-kingdoms-of-marazia-classic.json) |
 | Kingdoms of Merge & Magic | 231926 | [231926-kingdoms-of-merge-and-magic.json](./231926-kingdoms-of-merge-and-magic.json) |
+| Kingdoms of Myth | 166898 | [166898-kingdoms-of-myth.json](./166898-kingdoms-of-myth.json) |
 | Kingdoms of the Dump | 106105 | [106105-kingdoms-of-the-dump.json](./106105-kingdoms-of-the-dump.json) |
 | Kingdoms Reborn | 137805 | [137805-kingdoms-reborn.json](./137805-kingdoms-reborn.json) |
 | Kingdoms Rise and Fall | 260326 | [260326-kingdoms-rise-and-fall.json](./260326-kingdoms-rise-and-fall.json) |
