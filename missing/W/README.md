@@ -1204,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warden | 123819 | [123819-warden.json](./123819-warden.json) |
 | Warden | 324729 | [324729-warden.json](./324729-warden.json) |
 | Warden | 377157 | [377157-warden.json](./377157-warden.json) |
+| Warden of the Arcaen | 190265 | [190265-warden-of-the-arcaen.json](./190265-warden-of-the-arcaen.json) |
 | Warden of the Coast | 243124 | [243124-warden-of-the-coast.json](./243124-warden-of-the-coast.json) |
 | Warden of the Crypt | 336297 | [336297-warden-of-the-crypt.json](./336297-warden-of-the-crypt.json) |
 | Warden of the Isles | 129264 | [129264-warden-of-the-isles.json](./129264-warden-of-the-isles.json) |
@@ -3234,6 +3235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WekaInvaders | 233320 | [233320-wekainvaders.json](./233320-wekainvaders.json) |
 | Wekele Wordle | 329557 | [329557-wekele-wordle.json](./329557-wekele-wordle.json) |
 | Wéko The Mask Gatherer | 270724 | [270724-weko-the-mask-gatherer.json](./270724-weko-the-mask-gatherer.json) |
+| Wekufu | 190277 | [190277-wekufu.json](./190277-wekufu.json) |
 | Welcome | 183928 | [183928-welcome.json](./183928-welcome.json) |
 | Welcome | 368669 | [368669-welcome.json](./368669-welcome.json) |
 | Welcome | 92277 | [92277-welcome.json](./92277-welcome.json) |
@@ -5119,6 +5121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Deer Hunt Jungle Sniper | 28011 | [28011-wild-deer-hunt-jungle-sniper.json](./28011-wild-deer-hunt-jungle-sniper.json) |
 | Wild Delivery | 211894 | [211894-wild-delivery.json](./211894-wild-delivery.json) |
 | Wild Dive | 150258 | [150258-wild-dive.json](./150258-wild-dive.json) |
+| Wild Dogs | 190263 | [190263-wild-dogs.json](./190263-wild-dogs.json) |
 | Wild Dose | 140919 | [140919-wild-dose.json](./140919-wild-dose.json) |
 | Wild Downtown | 76704 | [76704-wild-downtown.json](./76704-wild-downtown.json) |
 | Wild Draw | 420795 | [420795-wild-draw.json](./420795-wild-draw.json) |
@@ -7835,6 +7838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Workshop Blooming in the Field & the Dark Dragon | 82901 | [82901-workshop-blooming-in-the-field-and-the-dark-dragon.json](./82901-workshop-blooming-in-the-field-and-the-dark-dragon.json) |
 | Workshop Invaders: Bouncy | 108990 | [108990-workshop-invaders-bouncy.json](./108990-workshop-invaders-bouncy.json) |
 | Workshop Maps Pack | 323599 | [323599-workshop-maps-pack.json](./323599-workshop-maps-pack.json) |
+| Workshop Simulator | 190282 | [190282-workshop-simulator.json](./190282-workshop-simulator.json) |
 | Workshop Simulator VR | 280241 | [280241-workshop-simulator-vr.json](./280241-workshop-simulator-vr.json) |
 | Worland: Dungeons | 187139 | [187139-worland-dungeons.json](./187139-worland-dungeons.json) |
 | World 23 | 368226 | [368226-world-23.json](./368226-world-23.json) |
