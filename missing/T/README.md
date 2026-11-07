@@ -11948,6 +11948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Act | 165454 | [165454-the-last-act.json](./165454-the-last-act.json) |
 | The Last Admiral | 411349 | [411349-the-last-admiral.json](./411349-the-last-admiral.json) |
 | The Last Adventure | 331756 | [331756-the-last-adventure.json](./331756-the-last-adventure.json) |
+| The Last Adventurer | 174968 | [174968-the-last-adventurer.json](./174968-the-last-adventurer.json) |
 | The Last Airbender | 27458 | [27458-the-last-airbender.json](./27458-the-last-airbender.json) |
 | The Last Airbender | 7983 | [7983-the-last-airbender.json](./7983-the-last-airbender.json) |
 | The Last Alchemist | 214839 | [214839-the-last-alchemist.json](./214839-the-last-alchemist.json) |
@@ -27147,6 +27148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Quest | 58626 | [58626-tower-quest.json](./58626-tower-quest.json) |
 | Tower RE | 269896 | [269896-tower-re.json](./269896-tower-re.json) |
 | Tower Shield | 387588 | [387588-tower-shield.json](./387588-tower-shield.json) |
+| Tower Sim: Pixel Tycoon City | 174966 | [174966-tower-sim-pixel-tycoon-city.json](./174966-tower-sim-pixel-tycoon-city.json) |
 | Tower Skydiver | 226436 | [226436-tower-skydiver.json](./226436-tower-skydiver.json) |
 | Tower Song | 244612 | [244612-tower-song.json](./244612-tower-song.json) |
 | Tower Song: Eternal Knight | 221058 | [221058-tower-song-eternal-knight.json](./221058-tower-song-eternal-knight.json) |
@@ -31682,6 +31684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Driver: UK Paint Jobs | 241069 | [241069-truck-driver-uk-paint-jobs.json](./241069-truck-driver-uk-paint-jobs.json) |
 | Truck Driver: USA Paint Jobs | 241070 | [241070-truck-driver-usa-paint-jobs.json](./241070-truck-driver-usa-paint-jobs.json) |
 | Truck Driving | 362360 | [362360-truck-driving.json](./362360-truck-driving.json) |
+| Truck Evolution: Offroad 2 | 174963 | [174963-truck-evolution-offroad-2.json](./174963-truck-evolution-offroad-2.json) |
 | Truck Go | 197670 | [197670-truck-go.json](./197670-truck-go.json) |
 | Truck Jam | 102271 | [102271-truck-jam.json](./102271-truck-jam.json) |
 | Truck Job | 292294 | [292294-truck-job.json](./292294-truck-job.json) |
