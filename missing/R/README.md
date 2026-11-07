@@ -8580,6 +8580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roads Construction Sim | 272406 | [272406-roads-construction-sim.json](./272406-roads-construction-sim.json) |
 | Roads Construction Sim | 312716 | [312716-roads-construction-sim.json](./312716-roads-construction-sim.json) |
 | Roads of Da Vinci: In Search of Origins | 414691 | [414691-roads-of-da-vinci-in-search-of-origins.json](./414691-roads-of-da-vinci-in-search-of-origins.json) |
+| Roads of Destiny | 192517 | [192517-roads-of-destiny.json](./192517-roads-of-destiny.json) |
 | Roads of Middle Ages 2: Collector's Edition | 416381 | [416381-roads-of-middle-ages-2-collectors-edition.json](./416381-roads-of-middle-ages-2-collectors-edition.json) |
 | Roads of Rome | 34266 | [34266-roads-of-rome.json](./34266-roads-of-rome.json) |
 | Roads of Rome 2 | 34258 | [34258-roads-of-rome-2.json](./34258-roads-of-rome-2.json) |
