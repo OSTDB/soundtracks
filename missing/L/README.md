@@ -933,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lapinka and Hidden Shield | 392716 | [392716-lapinka-and-hidden-shield.json](./392716-lapinka-and-hidden-shield.json) |
 | Lapis Lazuli | 307049 | [307049-lapis-lazuli.json](./307049-lapis-lazuli.json) |
 | Lapis Philosophorum: The Philosophers' Stone | 28480 | [28480-lapis-philosophorum-the-philosophers-stone.json](./28480-lapis-philosophorum-the-philosophers-stone.json) |
+| Lapis Re:Lights | 185792 | [185792-lapis-re-lights.json](./185792-lapis-re-lights.json) |
 | Lapis x Labyrinth | 109233 | [109233-lapis-x-labyrinth.json](./109233-lapis-x-labyrinth.json) |
 | Lapis x Labyrinth: Limited Edition | 107260 | [107260-lapis-x-labyrinth-limited-edition.json](./107260-lapis-x-labyrinth-limited-edition.json) |
 | Lapistasia | 377675 | [377675-lapistasia.json](./377675-lapistasia.json) |
@@ -3805,6 +3806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Play with Nanai! | 111069 | [111069-lets-play-with-nanai.json](./111069-lets-play-with-nanai.json) |
 | Let's Play: Ancient Greek Punishment - Teaches Typing | 146668 | [146668-lets-play-ancient-greek-punishment-teaches-typing.json](./146668-lets-play-ancient-greek-punishment-teaches-typing.json) |
 | Let's Play: The Shining | 205991 | [205991-lets-play-the-shining.json](./205991-lets-play-the-shining.json) |
+| Let's Play! Oink Games | 185773 | [185773-lets-play-oink-games.json](./185773-lets-play-oink-games.json) |
 | Let's Play! Oink Games - Complete Edition | 315859 | [315859-lets-play-oink-games-complete-edition.json](./315859-lets-play-oink-games-complete-edition.json) |
 | Let's Play! Oink Games: Kobayakawa | 263993 | [263993-lets-play-oink-games-kobayakawa.json](./263993-lets-play-oink-games-kobayakawa.json) |
 | Let's Play! Oink Games: Make the Difference | 255277 | [255277-lets-play-oink-games-make-the-difference.json](./255277-lets-play-oink-games-make-the-difference.json) |
@@ -4488,6 +4490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life in the Machine | 189208 | [189208-life-in-the-machine.json](./189208-life-in-the-machine.json) |
 | Life in the Static | 128838 | [128838-life-in-the-static.json](./128838-life-in-the-static.json) |
 | Life in the Twilight | 239758 | [239758-life-in-the-twilight.json](./239758-life-in-the-twilight.json) |
+| Life in Willowdale: Farm Adventures | 185809 | [185809-life-in-willowdale-farm-adventures.json](./185809-life-in-willowdale-farm-adventures.json) |
 | Life In Yima | 144930 | [144930-life-in-yima.json](./144930-life-in-yima.json) |
 | Life Inc. | 389727 | [389727-life-inc.json](./389727-life-inc.json) |
 | Life Inside | 335357 | [335357-life-inside.json](./335357-life-inside.json) |
