@@ -4604,6 +4604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bayonetta 2: Bonus Edition | 51154 | [51154-bayonetta-2-bonus-edition.json](./51154-bayonetta-2-bonus-edition.json) |
 | Bayonetta 2: First Print Edition | 51187 | [51187-bayonetta-2-first-print-edition.json](./51187-bayonetta-2-first-print-edition.json) |
 | Bayonetta 3: Trinity Masquerade Edition | 209839 | [209839-bayonetta-3-trinity-masquerade-edition.json](./209839-bayonetta-3-trinity-masquerade-edition.json) |
+| Bayonetta and Bayonetta 2 Digital Bundle | 186942 | [186942-bayonetta-and-bayonetta-2-digital-bundle.json](./186942-bayonetta-and-bayonetta-2-digital-bundle.json) |
 | Bayonetta Origins: Cereza and the Lost Demon | 228528 | [228528-bayonetta-origins-cereza-and-the-lost-demon.json](./228528-bayonetta-origins-cereza-and-the-lost-demon.json) |
 | Bayonetta: Nonstop Climax Edition | 136898 | [136898-bayonetta-nonstop-climax-edition.json](./136898-bayonetta-nonstop-climax-edition.json) |
 | Bayonetta: Special Edition | 136077 | [136077-bayonetta-special-edition.json](./136077-bayonetta-special-edition.json) |
@@ -18051,6 +18052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator India 2018 | 120524 | [120524-bus-simulator-india-2018.json](./120524-bus-simulator-india-2018.json) |
 | Bus Simulator Indonesia | 383925 | [383925-bus-simulator-indonesia.json](./383925-bus-simulator-indonesia.json) |
 | Bus Simulator Offroad | 413059 | [413059-bus-simulator-offroad.json](./413059-bus-simulator-offroad.json) |
+| Bus Simulator Pro | 186964 | [186964-bus-simulator-pro.json](./186964-bus-simulator-pro.json) |
 | Bus Simulator Vietnam | 384614 | [384614-bus-simulator-vietnam.json](./384614-bus-simulator-vietnam.json) |
 | Bus Simulator: Car Driving | 231770 | [231770-bus-simulator-car-driving.json](./231770-bus-simulator-car-driving.json) |
 | Bus Simulator: City Driving Ultimate | 264902 | [264902-bus-simulator-city-driving-ultimate.json](./264902-bus-simulator-city-driving-ultimate.json) |
@@ -18076,6 +18078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bushfire | 180498 | [180498-bushfire.json](./180498-bushfire.json) |
 | Bushfires: Animal Rescue | 163925 | [163925-bushfires-animal-rescue.json](./163925-bushfires-animal-rescue.json) |
 | Bushgame: The Anti-Bush Video Game | 71928 | [71928-bushgame-the-anti-bush-video-game.json](./71928-bushgame-the-anti-bush-video-game.json) |
+| Bushi | 186997 | [186997-bushi.json](./186997-bushi.json) |
 | Bushiden | 116223 | [116223-bushiden.json](./116223-bushiden.json) |
 | Bushido Bear | 58541 | [58541-bushido-bear.json](./58541-bushido-bear.json) |
 | Bushido Kensei: The Last Warrior | 375251 | [375251-bushido-kensei-the-last-warrior.json](./375251-bushido-kensei-the-last-warrior.json) |
