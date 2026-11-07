@@ -2243,6 +2243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid Icarus: Of Myths and Monsters | 3664 | [3664-kid-icarus-of-myths-and-monsters.json](./3664-kid-icarus-of-myths-and-monsters.json) |
 | Kid Icarus: Uprising | 3665 | [3665-kid-icarus-uprising.json](./3665-kid-icarus-uprising.json) |
 | Kid Kharagma | 344323 | [344323-kid-kharagma.json](./344323-kid-kharagma.json) |
+| Kid Kirby | 176042 | [176042-kid-kirby.json](./176042-kid-kirby.json) |
 | Kid Kirby Recreated | 417293 | [417293-kid-kirby-recreated.json](./417293-kid-kirby-recreated.json) |
 | Kid Klown in Crazy Chase | 6349 | [6349-kid-klown-in-crazy-chase.json](./6349-kid-klown-in-crazy-chase.json) |
 | Kid Klown in Crazy Chase 2: Love Love Hani Soudatsusen | 64508 | [64508-kid-klown-in-crazy-chase-2-love-love-hani-soudatsusen.json](./64508-kid-klown-in-crazy-chase-2-love-love-hani-soudatsusen.json) |
@@ -3876,6 +3877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby's Adventure | 3717 | [3717-kirbys-adventure.json](./3717-kirbys-adventure.json) |
 | Kirby's Adventure 2 | 136041 | [136041-kirbys-adventure-2.json](./136041-kirbys-adventure-2.json) |
 | Kirby's Air Raid | 323917 | [323917-kirbys-air-raid.json](./323917-kirbys-air-raid.json) |
+| Kirby's Air Ride | 176051 | [176051-kirbys-air-ride.json](./176051-kirbys-air-ride.json) |
 | Kirby's Avalanche | 3727 | [3727-kirbys-avalanche.json](./3727-kirbys-avalanche.json) |
 | Kirby's Ballin' Adventure | 324102 | [324102-kirbys-ballin-adventure.json](./324102-kirbys-ballin-adventure.json) |
 | Kirby's Block Ball | 3728 | [3728-kirbys-block-ball.json](./3728-kirbys-block-ball.json) |
