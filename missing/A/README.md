@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Completely Normal Dating Simulation That Is Definitely Completely Sweet, Innnocent and Normal: Somethingeth Aniversary Edition | 368246 | [368246-a-completely-normal-dating-simulation-that-is-definitely-completely-sweet-innnocent-and-normal-somethingeth-aniversary-edition.json](./368246-a-completely-normal-dating-simulation-that-is-definitely-completely-sweet-innnocent-and-normal-somethingeth-aniversary-edition.json) |
 | A Completely Normal Dating Simulation That is Definitely Completely Sweet, Innocent and Normal | 135015 | [135015-a-completely-normal-dating-simulation-that-is-definitely-completely-sweet-innocent-and-normal.json](./135015-a-completely-normal-dating-simulation-that-is-definitely-completely-sweet-innocent-and-normal.json) |
 | A Conscious Decision | 249637 | [249637-a-conscious-decision.json](./249637-a-conscious-decision.json) |
+| A Contusion | 190298 | [190298-a-contusion.json](./190298-a-contusion.json) |
 | A Conversation With Mister Rabbit | 156961 | [156961-a-conversation-with-mister-rabbit.json](./156961-a-conversation-with-mister-rabbit.json) |
 | A Cop Chase | 240873 | [240873-a-cop-chase.json](./240873-a-cop-chase.json) |
 | A Corporate Machine | 420802 | [420802-a-corporate-machine.json](./420802-a-corporate-machine.json) |
@@ -2424,6 +2425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Academy of Magic: A New Beginning | 365802 | [365802-academy-of-magic-a-new-beginning.json](./365802-academy-of-magic-a-new-beginning.json) |
 | Academy of Magic: Dark Possession | 153877 | [153877-academy-of-magic-dark-possession.json](./153877-academy-of-magic-dark-possession.json) |
 | Academy of Magic: Ring of Darkness | 329302 | [329302-academy-of-magic-ring-of-darkness.json](./329302-academy-of-magic-ring-of-darkness.json) |
+| Academy of Magic: The Great Dark Wizard's Curse | 190304 | [190304-academy-of-magic-the-great-dark-wizards-curse.json](./190304-academy-of-magic-the-great-dark-wizards-curse.json) |
 | Academy Quest | 193248 | [193248-academy-quest.json](./193248-academy-quest.json) |
 | Academy Romance 7 | 185077 | [185077-academy-romance-7.json](./185077-academy-romance-7.json) |
 | Academy Z: Beginning of the catastrophe | 179935 | [179935-academy-z-beginning-of-the-catastrophe.json](./179935-academy-z-beginning-of-the-catastrophe.json) |
