@@ -4098,6 +4098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feudal Lords | 98735 | [98735-feudal-lords.json](./98735-feudal-lords.json) |
 | Feudal Wars | 291162 | [291162-feudal-wars.json](./291162-feudal-wars.json) |
 | Feudal Wars | 58897 | [58897-feudal-wars.json](./58897-feudal-wars.json) |
+| Feudalia | 172279 | [172279-feudalia.json](./172279-feudalia.json) |
 | Feudalism | 234914 | [234914-feudalism.json](./234914-feudalism.json) |
 | Feudalism | 34945 | [34945-feudalism.json](./34945-feudalism.json) |
 | Feudalism II | 234915 | [234915-feudalism-ii.json](./234915-feudalism-ii.json) |
@@ -5495,6 +5496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Cat: Nightmare | 391604 | [391604-find-the-cat-nightmare.json](./391604-find-the-cat-nightmare.json) |
 | Find the Cats: Japan Journey | 364077 | [364077-find-the-cats-japan-journey.json](./364077-find-the-cats-japan-journey.json) |
 | Find the Cats: Memory | 195593 | [195593-find-the-cats-memory.json](./195593-find-the-cats-memory.json) |
+| Find the Cubs | 172270 | [172270-find-the-cubs.json](./172270-find-the-cubs.json) |
 | Find the Demon | 367161 | [367161-find-the-demon.json](./367161-find-the-demon.json) |
 | Find the Difference | 214296 | [214296-find-the-difference.json](./214296-find-the-difference.json) |
 | Find the difference - Very difficult Images | 104725 | [104725-find-the-difference-very-difficult-images.json](./104725-find-the-difference-very-difficult-images.json) |
