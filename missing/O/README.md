@@ -620,6 +620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octrons Challenge: Mission Science Genius | 135468 | [135468-octrons-challenge-mission-science-genius.json](./135468-octrons-challenge-mission-science-genius.json) |
 | Oculant | 275717 | [275717-oculant.json](./275717-oculant.json) |
 | Ocular Deprivation | 211615 | [211615-ocular-deprivation.json](./211615-ocular-deprivation.json) |
+| Ocular Ink | 143842 | [143842-ocular-ink.json](./143842-ocular-ink.json) |
 | Ocularis | 423883 | [423883-ocularis.json](./423883-ocularis.json) |
 | Oculto | 111231 | [111231-oculto.json](./111231-oculto.json) |
 | Oculus Arcade | 213949 | [213949-oculus-arcade.json](./213949-oculus-arcade.json) |
@@ -855,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Man and War | 184865 | [184865-of-man-and-war.json](./184865-of-man-and-war.json) |
 | Of Me and My Mirror | 380680 | [380680-of-me-and-my-mirror.json](./380680-of-me-and-my-mirror.json) |
 | Of Mice and Dice | 293468 | [293468-of-mice-and-dice.json](./293468-of-mice-and-dice.json) |
+| Of Mice and Moggies | 143824 | [143824-of-mice-and-moggies.json](./143824-of-mice-and-moggies.json) |
 | Of Mice and Sand: Revised | 78059 | [78059-of-mice-and-sand-revised.json](./78059-of-mice-and-sand-revised.json) |
 | Of Mist and Shadows | 133196 | [133196-of-mist-and-shadows.json](./133196-of-mist-and-shadows.json) |
 | Of Moons and Mania | 256320 | [256320-of-moons-and-mania.json](./256320-of-moons-and-mania.json) |
