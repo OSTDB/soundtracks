@@ -1232,6 +1232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh, Bugger! | 347679 | [347679-oh-bugger.json](./347679-oh-bugger.json) |
 | Oh, Canada! | 371345 | [371345-oh-canada.json](./371345-oh-canada.json) |
 | Oh, Deer! | 80563 | [80563-oh-deer.json](./80563-oh-deer.json) |
+| Oh, Dungeon Master | 173355 | [173355-oh-dungeon-master.json](./173355-oh-dungeon-master.json) |
 | Oh, Flock! | 304707 | [304707-oh-flock.json](./304707-oh-flock.json) |
 | Oh, Hel No! | 331664 | [331664-oh-hel-no.json](./331664-oh-hel-no.json) |
 | Oh, honey! Anime clicker! | 309379 | [309379-oh-honey-anime-clicker.json](./309379-oh-honey-anime-clicker.json) |
