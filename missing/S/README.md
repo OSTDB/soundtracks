@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safety Instructions | 414290 | [414290-safety-instructions.json](./414290-safety-instructions.json) |
 | SafeZoneVR | 158964 | [158964-safezonevr.json](./158964-safezonevr.json) |
 | Saffron | 384725 | [384725-saffron.json](./384725-saffron.json) |
+| Saffron Fields | 190788 | [190788-saffron-fields.json](./190788-saffron-fields.json) |
 | Safire Eshgh | 191669 | [191669-safire-eshgh.json](./191669-safire-eshgh.json) |
 | Safo and The Moon Warriors | 381107 | [381107-safo-and-the-moon-warriors.json](./381107-safo-and-the-moon-warriors.json) |
 | Saga | 21484 | [21484-saga.json](./21484-saga.json) |
@@ -3796,6 +3797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scudhead | 275206 | [275206-scudhead.json](./275206-scudhead.json) |
 | Scuff Slayer | 385650 | [385650-scuff-slayer.json](./385650-scuff-slayer.json) |
 | Scuffed | 201392 | [201392-scuffed.json](./201392-scuffed.json) |
+| Scuffed Party | 190777 | [190777-scuffed-party.json](./190777-scuffed-party.json) |
 | Scuffed Rocket League | 180496 | [180496-scuffed-rocket-league.json](./180496-scuffed-rocket-league.json) |
 | Scuffle Buddies | 59861 | [59861-scuffle-buddies.json](./59861-scuffle-buddies.json) |
 | Scuffle Scoundrels | 55734 | [55734-scuffle-scoundrels.json](./55734-scuffle-scoundrels.json) |
@@ -19689,7 +19691,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
