@@ -3613,6 +3613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Heat Unleashed | 327007 | [327007-dead-heat-unleashed.json](./327007-dead-heat-unleashed.json) |
 | Dead Herring VR | 159464 | [159464-dead-herring-vr.json](./159464-dead-herring-vr.json) |
 | Dead Hook | 252209 | [252209-dead-hook.json](./252209-dead-hook.json) |
+| Dead Hope | 156802 | [156802-dead-hope.json](./156802-dead-hope.json) |
 | Dead Horizon | 268886 | [268886-dead-horizon.json](./268886-dead-horizon.json) |
 | Dead Horizon | 52772 | [52772-dead-horizon.json](./52772-dead-horizon.json) |
 | Dead Hospital | 406174 | [406174-dead-hospital.json](./406174-dead-hospital.json) |
@@ -14053,6 +14054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dougie Moo's Aqua Antics | 67880 | [67880-dougie-moos-aqua-antics.json](./67880-dougie-moos-aqua-antics.json) |
 | Douglas Rockmoor | 69305 | [69305-douglas-rockmoor.json](./69305-douglas-rockmoor.json) |
 | Douglas Rockmoor 2 | 69309 | [69309-douglas-rockmoor-2.json](./69309-douglas-rockmoor-2.json) |
+| Dòuhún Dàlù | 156770 | [156770-douhun-dalu.json](./156770-douhun-dalu.json) |
 | Doujin Jigsaw Puzzle | 334806 | [334806-doujin-jigsaw-puzzle.json](./334806-doujin-jigsaw-puzzle.json) |
 | Doujins and Dragons | 186158 | [186158-doujins-and-dragons.json](./186158-doujins-and-dragons.json) |
 | Doukeshi Satsujin Jiken | 351082 | [351082-doukeshi-satsujin-jiken.json](./351082-doukeshi-satsujin-jiken.json) |
