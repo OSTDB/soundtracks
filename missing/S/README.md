@@ -2422,6 +2422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Goombas | 318938 | [318938-save-the-goombas.json](./318938-save-the-goombas.json) |
 | Save the Halloween | 75198 | [75198-save-the-halloween.json](./75198-save-the-halloween.json) |
 | Save the Hamsters | 63121 | [63121-save-the-hamsters.json](./63121-save-the-hamsters.json) |
+| Save the Heart Planet | 147553 | [147553-save-the-heart-planet.json](./147553-save-the-heart-planet.json) |
 | Save the Humans | 53578 | [53578-save-the-humans.json](./53578-save-the-humans.json) |
 | Save the Kingdom | 227095 | [227095-save-the-kingdom.json](./227095-save-the-kingdom.json) |
 | Save the Knight | 308882 | [308882-save-the-knight.json](./308882-save-the-knight.json) |
@@ -3301,6 +3302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scopus | 133723 | [133723-scopus.json](./133723-scopus.json) |
 | Scorb VR | 75082 | [75082-scorb-vr.json](./75082-scorb-vr.json) |
 | Scorch | 128792 | [128792-scorch.json](./128792-scorch.json) |
+| Scorch | 147554 | [147554-scorch.json](./147554-scorch.json) |
 | Scorch | 30137 | [30137-scorch.json](./30137-scorch.json) |
 | Scorched 3D | 51249 | [51249-scorched-3d.json](./51249-scorched-3d.json) |
 | Scorched Earth | 14431 | [14431-scorched-earth.json](./14431-scorched-earth.json) |
@@ -6479,6 +6481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexdivers | 324680 | [324680-sexdivers.json](./324680-sexdivers.json) |
 | Sexophobia | 417410 | [417410-sexophobia.json](./417410-sexophobia.json) |
 | Sexorcism: Lust Confession | 396404 | [396404-sexorcism-lust-confession.json](./396404-sexorcism-lust-confession.json) |
+| Sexorcist Academy | 147557 | [147557-sexorcist-academy.json](./147557-sexorcist-academy.json) |
 | SexSide | 389759 | [389759-sexside.json](./389759-sexside.json) |
 | Sexstellar | 379531 | [379531-sexstellar.json](./379531-sexstellar.json) |
 | SexStone | 367206 | [367206-sexstone.json](./367206-sexstone.json) |
@@ -19907,7 +19910,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -28782,6 +28784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strider-X | 336658 | [336658-strider-x.json](./336658-strider-x.json) |
 | Strife | 5570 | [5570-strife.json](./5570-strife.json) |
 | Strife of Cosmos | 194345 | [194345-strife-of-cosmos.json](./194345-strife-of-cosmos.json) |
+| Strife: The Expanse | 147544 | [147544-strife-the-expanse.json](./147544-strife-the-expanse.json) |
 | Strife: Veteran Edition | 147967 | [147967-strife-veteran-edition.json](./147967-strife-veteran-edition.json) |
 | Strifeshadow | 93456 | [93456-strifeshadow.json](./93456-strifeshadow.json) |
 | Strigoi | 314801 | [314801-strigoi.json](./314801-strigoi.json) |
