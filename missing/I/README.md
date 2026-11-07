@@ -4106,6 +4106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinium Strike: Broken Overlord | 171454 | [171454-infinium-strike-broken-overlord.json](./171454-infinium-strike-broken-overlord.json) |
 | InfiniVirus | 381344 | [381344-infinivirus.json](./381344-infinivirus.json) |
 | Infiniwar | 312750 | [312750-infiniwar.json](./312750-infiniwar.json) |
+| InfiniWordSlide | 161464 | [161464-infiniwordslide.json](./161464-infiniwordslide.json) |
 | Infinos Exa | 316072 | [316072-infinos-exa.json](./316072-infinos-exa.json) |
 | Infinos Gaiden | 81841 | [81841-infinos-gaiden.json](./81841-infinos-gaiden.json) |
 | Inflatable doll | 155462 | [155462-inflatable-doll.json](./155462-inflatable-doll.json) |
@@ -5651,6 +5652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invisible Flow | 278906 | [278906-invisible-flow.json](./278906-invisible-flow.json) |
 | Invisible Inc.: Contingency Plan | 68275 | [68275-invisible-inc-contingency-plan.json](./68275-invisible-inc-contingency-plan.json) |
 | Invisible Love | 286774 | [286774-invisible-love.json](./286774-invisible-love.json) |
+| Invisible Man | 161498 | [161498-invisible-man.json](./161498-invisible-man.json) |
 | Invisible Mind | 32029 | [32029-invisible-mind.json](./32029-invisible-mind.json) |
 | Invisible Opus | 407841 | [407841-invisible-opus.json](./407841-invisible-opus.json) |
 | Invisible Parties | 7869 | [7869-invisible-parties.json](./7869-invisible-parties.json) |
