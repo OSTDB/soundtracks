@@ -3977,6 +3977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helicopter Simulator | 158621 | [158621-helicopter-simulator.json](./158621-helicopter-simulator.json) |
 | Helicopter Simulator 2015 | 95914 | [95914-helicopter-simulator-2015.json](./95914-helicopter-simulator-2015.json) |
 | Helicopter Simulator 2017 Premium | 87538 | [87538-helicopter-simulator-2017-premium.json](./87538-helicopter-simulator-2017-premium.json) |
+| Helicopter Simulator 2021 | 175003 | [175003-helicopter-simulator-2021.json](./175003-helicopter-simulator-2021.json) |
 | Helicopter Simulator 2025 | 370071 | [370071-helicopter-simulator-2025.json](./370071-helicopter-simulator-2025.json) |
 | Helicopter Simulator Game 2016 - Pilot Career Missions | 99093 | [99093-helicopter-simulator-game-2016-pilot-career-missions.json](./99093-helicopter-simulator-game-2016-pilot-career-missions.json) |
 | Helicopter Simulator VR 2021: Rescue Missions | 150767 | [150767-helicopter-simulator-vr-2021-rescue-missions.json](./150767-helicopter-simulator-vr-2021-rescue-missions.json) |
