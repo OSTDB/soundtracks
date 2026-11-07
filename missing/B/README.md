@@ -970,7 +970,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1018,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badass Brigade | 376209 | [376209-badass-brigade.json](./376209-badass-brigade.json) |
 | Badass Inc. | 133271 | [133271-badass-inc.json](./133271-badass-inc.json) |
 | Badass Tennis | 214968 | [214968-badass-tennis.json](./214968-badass-tennis.json) |
+| BadBee | 155790 | [155790-badbee.json](./155790-badbee.json) |
 | Badd Bunny Breakout | 410068 | [410068-badd-bunny-breakout.json](./410068-badd-bunny-breakout.json) |
 | BadDool | 279899 | [279899-baddool.json](./279899-baddool.json) |
 | Baderna: Um Conto de Barro | 283974 | [283974-baderna-um-conto-de-barro.json](./283974-baderna-um-conto-de-barro.json) |
@@ -5060,6 +5060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Brawl | 338200 | [338200-beast-brawl.json](./338200-beast-brawl.json) |
 | Beast Brawlers | 97293 | [97293-beast-brawlers.json](./97293-beast-brawlers.json) |
 | Beast Breaker | 145426 | [145426-beast-breaker.json](./145426-beast-breaker.json) |
+| Beast Brigade | 155797 | [155797-beast-brigade.json](./155797-beast-brigade.json) |
 | Beast Bumpers | 398907 | [398907-beast-bumpers.json](./398907-beast-bumpers.json) |
 | Beast Busters | 11951 | [11951-beast-busters.json](./11951-beast-busters.json) |
 | Beast Busters & S.A.R: Search and Rescue | 317680 | [317680-beast-busters-and-s-a-r-search-and-rescue.json](./317680-beast-busters-and-s-a-r-search-and-rescue.json) |
@@ -13732,6 +13733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottle Flip! | 97099 | [97099-bottle-flip.json](./97099-bottle-flip.json) |
 | Bottle Grannies | 244148 | [244148-bottle-grannies.json](./244148-bottle-grannies.json) |
 | Bottle It!: Beverage Simulator | 389971 | [389971-bottle-it-beverage-simulator.json](./389971-bottle-it-beverage-simulator.json) |
+| Bottle Journey | 155778 | [155778-bottle-journey.json](./155778-bottle-journey.json) |
 | Bottle of Ghouls | 281969 | [281969-bottle-of-ghouls.json](./281969-bottle-of-ghouls.json) |
 | Bottle of Sickness | 386216 | [386216-bottle-of-sickness.json](./386216-bottle-of-sickness.json) |
 | Bottle Rockets | 177447 | [177447-bottle-rockets.json](./177447-bottle-rockets.json) |
@@ -17914,6 +17916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BuriedTown | 33786 | [33786-buriedtown.json](./33786-buriedtown.json) |
 | Buriki One | 28139 | [28139-buriki-one.json](./28139-buriki-one.json) |
 | Burkina Faso: Radical Insurgency | 293518 | [293518-burkina-faso-radical-insurgency.json](./293518-burkina-faso-radical-insurgency.json) |
+| Burkov: Point of Contact | 155795 | [155795-burkov-point-of-contact.json](./155795-burkov-point-of-contact.json) |
 | Burlesque | 292650 | [292650-burlesque.json](./292650-burlesque.json) |
 | Burly Men at Sea | 24501 | [24501-burly-men-at-sea.json](./24501-burly-men-at-sea.json) |
 | Burn | 171449 | [171449-burn.json](./171449-burn.json) |
