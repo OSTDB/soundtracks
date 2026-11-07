@@ -7581,6 +7581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shards of War | 60565 | [60565-shards-of-war.json](./60565-shards-of-war.json) |
 | Shards Online | 57990 | [57990-shards-online.json](./57990-shards-online.json) |
 | Share | 33417 | [33417-share.json](./33417-share.json) |
+| Sharecare You | 150840 | [150840-sharecare-you.json](./150840-sharecare-you.json) |
 | Shared Beauty | 270760 | [270760-shared-beauty.json](./270760-shared-beauty.json) |
 | Shared RC | 415307 | [415307-shared-rc.json](./415307-shared-rc.json) |
 | Shared Visions | 378932 | [378932-shared-visions.json](./378932-shared-visions.json) |
@@ -10690,6 +10691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent World | 202481 | [202481-silent-world.json](./202481-silent-world.json) |
 | Silent Wounds - The Doll | 414540 | [414540-silent-wounds-the-doll.json](./414540-silent-wounds-the-doll.json) |
 | Silent: Abandoned | 309437 | [309437-silent-abandoned.json](./309437-silent-abandoned.json) |
+| Silenthead: Ducks hunt | 150823 | [150823-silenthead-ducks-hunt.json](./150823-silenthead-ducks-hunt.json) |
 | Silentium 2D | 106578 | [106578-silentium-2d.json](./106578-silentium-2d.json) |
 | Silentium: Remastered | 240739 | [240739-silentium-remastered.json](./240739-silentium-remastered.json) |
 | Silenus | 301875 | [301875-silenus.json](./301875-silenus.json) |
@@ -29051,6 +29053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Struggle Weapon Girl | 410899 | [410899-struggle-weapon-girl.json](./410899-struggle-weapon-girl.json) |
 | Struggle: Antaresian Legacy | 141565 | [141565-struggle-antaresian-legacy.json](./141565-struggle-antaresian-legacy.json) |
 | Struggler | 347056 | [347056-struggler.json](./347056-struggler.json) |
+| Struggling Ball | 150810 | [150810-struggling-ball.json](./150810-struggling-ball.json) |
 | Strum | 285159 | [285159-strum.json](./285159-strum.json) |
 | Strung Up By Sketches | 340267 | [340267-strung-up-by-sketches.json](./340267-strung-up-by-sketches.json) |
 | Stryfe - The Everlasting Battle | 39136 | [39136-stryfe-the-everlasting-battle.json](./39136-stryfe-the-everlasting-battle.json) |
@@ -30433,6 +30436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumomo Theatre | 254872 | [254872-sumomo-theatre.json](./254872-sumomo-theatre.json) |
 | Sumorbit | 246695 | [246695-sumorbit.json](./246695-sumorbit.json) |
 | SumoRoll | 410044 | [410044-sumoroll.json](./410044-sumoroll.json) |
+| Sumotori Dreams Classic | 150838 | [150838-sumotori-dreams-classic.json](./150838-sumotori-dreams-classic.json) |
 | Sumou | 385812 | [385812-sumou.json](./385812-sumou.json) |
 | Sump | 278460 | [278460-sump.json](./278460-sump.json) |
 | Sumple | 159451 | [159451-sumple.json](./159451-sumple.json) |
@@ -34092,6 +34096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Grocery Simulator | 319774 | [319774-supermarket-grocery-simulator.json](./319774-supermarket-grocery-simulator.json) |
 | Supermarket Guard Simulator | 393113 | [393113-supermarket-guard-simulator.json](./393113-supermarket-guard-simulator.json) |
 | Supermarket Life Simulator | 407487 | [407487-supermarket-life-simulator.json](./407487-supermarket-life-simulator.json) |
+| Supermarket Maker | 150812 | [150812-supermarket-maker.json](./150812-supermarket-maker.json) |
 | Supermarket Management | 88156 | [88156-supermarket-management.json](./88156-supermarket-management.json) |
 | Supermarket Management 2 | 87115 | [87115-supermarket-management-2.json](./87115-supermarket-management-2.json) |
 | Supermarket Management 2 HD | 106921 | [106921-supermarket-management-2-hd.json](./106921-supermarket-management-2-hd.json) |
