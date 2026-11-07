@@ -1755,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperboy 2 | 307087 | [307087-paperboy-2.json](./307087-paperboy-2.json) |
 | Paperboy: Special Delivery | 55885 | [55885-paperboy-special-delivery.json](./55885-paperboy-special-delivery.json) |
 | PaperCat | 59224 | [59224-papercat.json](./59224-papercat.json) |
+| Paperchase | 181464 | [181464-paperchase.json](./181464-paperchase.json) |
 | Papercraft | 107418 | [107418-papercraft.json](./107418-papercraft.json) |
 | Papercraft | 51647 | [51647-papercraft.json](./51647-papercraft.json) |
 | Papercraft Tactics | 345092 | [345092-papercraft-tactics.json](./345092-papercraft-tactics.json) |
@@ -6645,6 +6646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillar | 35188 | [35188-pillar.json](./35188-pillar.json) |
 | Pillar Builder Puzzle | 214684 | [214684-pillar-builder-puzzle.json](./214684-pillar-builder-puzzle.json) |
 | Pillar of Gods | 337077 | [337077-pillar-of-gods.json](./337077-pillar-of-gods.json) |
+| Pillar of Rust | 181440 | [181440-pillar-of-rust.json](./181440-pillar-of-rust.json) |
 | Pillar of Salt | 361729 | [361729-pillar-of-salt.json](./361729-pillar-of-salt.json) |
 | Pillars of Eternity II: Deadfire - Deck of Many Things | 124822 | [124822-pillars-of-eternity-ii-deadfire-deck-of-many-things.json](./124822-pillars-of-eternity-ii-deadfire-deck-of-many-things.json) |
 | Pillars of Eternity II: Deadfire - Deluxe Edition | 83894 | [83894-pillars-of-eternity-ii-deadfire-deluxe-edition.json](./83894-pillars-of-eternity-ii-deadfire-deluxe-edition.json) |
@@ -11815,6 +11817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokkén Tournament: Update Ver.A14 | 300363 | [300363-pokken-tournament-update-ver-a14.json](./300363-pokken-tournament-update-ver-a14.json) |
 | Pokkén Tournament: Update Ver.C07 | 300366 | [300366-pokken-tournament-update-ver-c07.json](./300366-pokken-tournament-update-ver-c07.json) |
 | Pokkén Tournament: Update Ver.N01 | 300364 | [300364-pokken-tournament-update-ver-n01.json](./300364-pokken-tournament-update-ver-n01.json) |
+| Pokkie | 181477 | [181477-pokkie.json](./181477-pokkie.json) |
 | Poko Memorial: 18th Hole Miniature Golf | 73537 | [73537-poko-memorial-18th-hole-miniature-golf.json](./73537-poko-memorial-18th-hole-miniature-golf.json) |
 | Poko Poko Field | 412749 | [412749-poko-poko-field.json](./412749-poko-poko-field.json) |
 | Pokoh | 155914 | [155914-pokoh.json](./155914-pokoh.json) |
@@ -12213,6 +12216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolyDodge | 108816 | [108816-polydodge.json](./108816-polydodge.json) |
 | PolyDome | 32499 | [32499-polydome.json](./32499-polydome.json) |
 | PolyDrift | 309878 | [309878-polydrift.json](./309878-polydrift.json) |
+| Polydrone | 181462 | [181462-polydrone.json](./181462-polydrone.json) |
 | Polyemisokos | 205572 | [205572-polyemisokos.json](./205572-polyemisokos.json) |
 | Polyfield WW2 | 102148 | [102148-polyfield-ww2.json](./102148-polyfield-ww2.json) |
 | PolyFight | 316278 | [316278-polyfight.json](./316278-polyfight.json) |
