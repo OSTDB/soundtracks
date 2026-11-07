@@ -1377,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout Trilogy | 45128 | [45128-fallout-trilogy.json](./45128-fallout-trilogy.json) |
 | Fallout Zero | 343938 | [343938-fallout-zero.json](./343938-fallout-zero.json) |
 | Fallout Zone: Survival | 104514 | [104514-fallout-zone-survival.json](./104514-fallout-zone-survival.json) |
+| Fallout: A Tale of Two Wastelands | 143196 | [143196-fallout-a-tale-of-two-wastelands.json](./143196-fallout-a-tale-of-two-wastelands.json) |
 | Fallout: Bakersfield | 356437 | [356437-fallout-bakersfield.json](./356437-fallout-bakersfield.json) |
 | Fallout: Dust | 243647 | [243647-fallout-dust.json](./243647-fallout-dust.json) |
 | Fallout: Empire Wastes | 322274 | [322274-fallout-empire-wastes.json](./322274-fallout-empire-wastes.json) |
@@ -5048,6 +5049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Tactics: The War of the Lions | 394 | [394-final-fantasy-tactics-the-war-of-the-lions.json](./394-final-fantasy-tactics-the-war-of-the-lions.json) |
 | Final Fantasy Type-0 HD: Collector's Edition | 41842 | [41842-final-fantasy-type-0-hd-collectors-edition.json](./41842-final-fantasy-type-0-hd-collectors-edition.json) |
 | Final Fantasy Type-0 HD: Limited Edition | 186630 | [186630-final-fantasy-type-0-hd-limited-edition.json](./186630-final-fantasy-type-0-hd-limited-edition.json) |
+| Final Fantasy Ultra | 143194 | [143194-final-fantasy-ultra.json](./143194-final-fantasy-ultra.json) |
 | Final Fantasy V | 146069 | [146069-final-fantasy-v.json](./146069-final-fantasy-v.json) |
 | Final Fantasy V | 288349 | [288349-final-fantasy-v.json](./288349-final-fantasy-v.json) |
 | Final Fantasy V | 400427 | [400427-final-fantasy-v.json](./400427-final-fantasy-v.json) |
@@ -5396,6 +5398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Vendetta: Super Limited Edition | 198129 | [198129-final-vendetta-super-limited-edition.json](./198129-final-vendetta-super-limited-edition.json) |
 | Final War | 368510 | [368510-final-war.json](./368510-final-war.json) |
 | Final Warfare | 231956 | [231956-final-warfare.json](./231956-final-warfare.json) |
+| Final Winter | 143201 | [143201-final-winter.json](./143201-final-winter.json) |
 | Final Word Royale | 384900 | [384900-final-word-royale.json](./384900-final-word-royale.json) |
 | Final World | 90646 | [90646-final-world.json](./90646-final-world.json) |
 | Final Zone | 344288 | [344288-final-zone.json](./344288-final-zone.json) |
@@ -11168,6 +11171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FoxTrotte | 239627 | [239627-foxtrotte.json](./239627-foxtrotte.json) |
 | Foxus | 79741 | [79741-foxus.json](./79741-foxus.json) |
 | Foxventures | 235763 | [235763-foxventures.json](./235763-foxventures.json) |
+| FoxVoltex | 143211 | [143211-foxvoltex.json](./143211-foxvoltex.json) |
 | FoxWolf Saga | 400659 | [400659-foxwolf-saga.json](./400659-foxwolf-saga.json) |
 | Foxx Fights Back | 13851 | [13851-foxx-fights-back.json](./13851-foxx-fights-back.json) |
 | Foxxel Quest | 339297 | [339297-foxxel-quest.json](./339297-foxxel-quest.json) |
@@ -14192,6 +14196,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Games | 28471 | [28471-future-games.json](./28471-future-games.json) |
 | Future Ghost | 86230 | [86230-future-ghost.json](./86230-future-ghost.json) |
 | Future GPX Cyber Formula: Road to the Evolution | 4150 | [4150-future-gpx-cyber-formula-road-to-the-evolution.json](./4150-future-gpx-cyber-formula-road-to-the-evolution.json) |
+| Future GPX Cyber Formura Road to the Infinity 2 | 143244 | [143244-future-gpx-cyber-formura-road-to-the-infinity-2.json](./143244-future-gpx-cyber-formura-road-to-the-infinity-2.json) |
+| Future GPX Cyber Formura Road to the Infinity 4 | 143245 | [143245-future-gpx-cyber-formura-road-to-the-infinity-4.json](./143245-future-gpx-cyber-formura-road-to-the-infinity-4.json) |
 | Future Knight | 13853 | [13853-future-knight.json](./13853-future-knight.json) |
 | Future Knight | 388341 | [388341-future-knight.json](./388341-future-knight.json) |
 | Future Love Space Machine: Glimmer Deck | 368120 | [368120-future-love-space-machine-glimmer-deck.json](./368120-future-love-space-machine-glimmer-deck.json) |
