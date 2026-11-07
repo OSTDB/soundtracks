@@ -994,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magia Para Todos | 86111 | [86111-magia-para-todos.json](./86111-magia-para-todos.json) |
 | Magia Record | 231933 | [231933-magia-record.json](./231933-magia-record.json) |
 | Magia Story | 244762 | [244762-magia-story.json](./244762-magia-story.json) |
+| Magia X | 169503 | [169503-magia-x.json](./169503-magia-x.json) |
 | Magia X: Leta | 172158 | [172158-magia-x-leta.json](./172158-magia-x-leta.json) |
 | Magia y Demonios | 307780 | [307780-magia-y-demonios.json](./307780-magia-y-demonios.json) |
 | Magia: Charma Saga | 212537 | [212537-magia-charma-saga.json](./212537-magia-charma-saga.json) |
@@ -5977,6 +5978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -11567,6 +11569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Mulan | 66940 | [66940-mighty-mulan.json](./66940-mighty-mulan.json) |
 | Mighty No. 9 | 5327 | [5327-mighty-no-9.json](./5327-mighty-no-9.json) |
 | Mighty No. 9: Ganbare! Beck | 78361 | [78361-mighty-no-9-ganbare-beck.json](./78361-mighty-no-9-ganbare-beck.json) |
+| Mighty No. 9: Ray Expansion | 169525 | [169525-mighty-no-9-ray-expansion.json](./169525-mighty-no-9-ray-expansion.json) |
 | Mighty No.(9) | 134853 | [134853-mighty-no-9.json](./134853-mighty-no-9.json) |
 | Mighty Party | 29865 | [29865-mighty-party.json](./29865-mighty-party.json) |
 | Mighty Quest: Rogue Palace | 248635 | [248635-mighty-quest-rogue-palace.json](./248635-mighty-quest-rogue-palace.json) |
@@ -16678,6 +16681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Patrol: The Milky Way Chronicles | 138567 | [138567-moon-patrol-the-milky-way-chronicles.json](./138567-moon-patrol-the-milky-way-chronicles.json) |
 | Moon Pool | 419593 | [419593-moon-pool.json](./419593-moon-pool.json) |
 | Moon Princess | 351268 | [351268-moon-princess.json](./351268-moon-princess.json) |
+| Moon Raider and Sweet Witches Bundle | 169550 | [169550-moon-raider-and-sweet-witches-bundle.json](./169550-moon-raider-and-sweet-witches-bundle.json) |
 | Moon Raker | 277658 | [277658-moon-raker.json](./277658-moon-raker.json) |
 | Moon Ranger | 48198 | [48198-moon-ranger.json](./48198-moon-ranger.json) |
 | Moon Rat | 330829 | [330829-moon-rat.json](./330829-moon-rat.json) |
@@ -20952,6 +20956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little World | 191524 | [191524-my-little-world.json](./191524-my-little-world.json) |
 | My Little Worms | 55718 | [55718-my-little-worms.json](./55718-my-little-worms.json) |
 | My Littlest Skeleton | 258301 | [258301-my-littlest-skeleton.json](./258301-my-littlest-skeleton.json) |
+| My Living Things | 169542 | [169542-my-living-things.json](./169542-my-living-things.json) |
 | My Love 2 | 303286 | [303286-my-love-2.json](./303286-my-love-2.json) |
 | My Love for You is Evermore | 254570 | [254570-my-love-for-you-is-evermore.json](./254570-my-love-for-you-is-evermore.json) |
 | My Love for You is Evermore: Manager's Route | 281582 | [281582-my-love-for-you-is-evermore-managers-route.json](./281582-my-love-for-you-is-evermore-managers-route.json) |
