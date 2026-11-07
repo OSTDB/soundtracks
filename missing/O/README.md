@@ -5399,6 +5399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outpost Assault | 344021 | [344021-outpost-assault.json](./344021-outpost-assault.json) |
 | Outpost Auriga IV | 282614 | [282614-outpost-auriga-iv.json](./282614-outpost-auriga-iv.json) |
 | Outpost Delta | 123030 | [123030-outpost-delta.json](./123030-outpost-delta.json) |
+| Outpost Engineer | 144473 | [144473-outpost-engineer.json](./144473-outpost-engineer.json) |
 | Outpost in the Dragon's Maw | 383701 | [383701-outpost-in-the-dragons-maw.json](./383701-outpost-in-the-dragons-maw.json) |
 | Outpost Kaloki X | 20508 | [20508-outpost-kaloki-x.json](./20508-outpost-kaloki-x.json) |
 | Outpost L5 | 50509 | [50509-outpost-l5.json](./50509-outpost-l5.json) |
