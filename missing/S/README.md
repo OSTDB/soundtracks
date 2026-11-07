@@ -6572,6 +6572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexycraft | 301657 | [301657-sexycraft.json](./301657-sexycraft.json) |
 | Seyahat: A Journey to Mecca | 340603 | [340603-seyahat-a-journey-to-mecca.json](./340603-seyahat-a-journey-to-mecca.json) |
 | Seybul Tech | 264634 | [264634-seybul-tech.json](./264634-seybul-tech.json) |
+| Seyken: Crystal Kingdom | 148722 | [148722-seyken-crystal-kingdom.json](./148722-seyken-crystal-kingdom.json) |
 | Seymour - Take One! | 142435 | [142435-seymour-take-one.json](./142435-seymour-take-one.json) |
 | Seymour Goes to Hollywood | 18572 | [18572-seymour-goes-to-hollywood.json](./18572-seymour-goes-to-hollywood.json) |
 | Sezhar's Shell Cells | 327697 | [327697-sezhars-shell-cells.json](./327697-sezhars-shell-cells.json) |
@@ -8161,6 +8162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherpa's Caravan | 374567 | [374567-sherpas-caravan.json](./374567-sherpas-caravan.json) |
 | Sherwood | 403549 | [403549-sherwood.json](./403549-sherwood.json) |
 | Sherwood Classic | 153682 | [153682-sherwood-classic.json](./153682-sherwood-classic.json) |
+| Sherwood Dungeon | 148720 | [148720-sherwood-dungeon.json](./148720-sherwood-dungeon.json) |
 | Sherwood Extreme | 137279 | [137279-sherwood-extreme.json](./137279-sherwood-extreme.json) |
 | Sherwood Extreme: Rogue Level Pack | 262739 | [262739-sherwood-extreme-rogue-level-pack.json](./262739-sherwood-extreme-rogue-level-pack.json) |
 | Sherwood Forest | 24936 | [24936-sherwood-forest.json](./24936-sherwood-forest.json) |
@@ -18839,6 +18841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Link | 207644 | [207644-soul-link.json](./207644-soul-link.json) |
 | Soul Link Extension | 72440 | [72440-soul-link-extension.json](./72440-soul-link-extension.json) |
 | Soul Locus | 35754 | [35754-soul-locus.json](./35754-soul-locus.json) |
+| Soul Machine | 148629 | [148629-soul-machine.json](./148629-soul-machine.json) |
 | Soul Machine | 351707 | [351707-soul-machine.json](./351707-soul-machine.json) |
 | Soul Master | 180288 | [180288-soul-master.json](./180288-soul-master.json) |
 | Soul Master | 66669 | [66669-soul-master.json](./66669-soul-master.json) |
@@ -19903,6 +19906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -27127,6 +27131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Destruction 2 | 81677 | [81677-stickman-destruction-2.json](./81677-stickman-destruction-2.json) |
 | Stickman Downhill | 117758 | [117758-stickman-downhill.json](./117758-stickman-downhill.json) |
 | Stickman Downhill Monstertruck | 233228 | [233228-stickman-downhill-monstertruck.json](./233228-stickman-downhill-monstertruck.json) |
+| Stickman Escape | 148636 | [148636-stickman-escape.json](./148636-stickman-escape.json) |
 | Stickman Fighter Infinity | 256172 | [256172-stickman-fighter-infinity.json](./256172-stickman-fighter-infinity.json) |
 | Stickman Fighting | 88021 | [88021-stickman-fighting.json](./88021-stickman-fighting.json) |
 | Stickman Flatout Epic | 96779 | [96779-stickman-flatout-epic.json](./96779-stickman-flatout-epic.json) |
@@ -33616,6 +33621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Street Fighter IV: Arcade Edition | 20586 | [20586-super-street-fighter-iv-arcade-edition.json](./20586-super-street-fighter-iv-arcade-edition.json) |
 | Super Street Fighter IV: Pachislot Edition | 69377 | [69377-super-street-fighter-iv-pachislot-edition.json](./69377-super-street-fighter-iv-pachislot-edition.json) |
 | Super Street Racer | 124066 | [124066-super-street-racer.json](./124066-super-street-racer.json) |
+| Super Street Rally Racer 2 in 1 | 148650 | [148650-super-street-rally-racer-2-in-1.json](./148650-super-street-rally-racer-2-in-1.json) |
 | Super Street: The Game | 109292 | [109292-super-street-the-game.json](./109292-super-street-the-game.json) |
 | Super Strike Eagle | 42449 | [42449-super-strike-eagle.json](./42449-super-strike-eagle.json) |
 | Super Strip Fighter IV | 66653 | [66653-super-strip-fighter-iv.json](./66653-super-strip-fighter-iv.json) |
