@@ -11782,6 +11782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humankind: Definitive Edition | 283778 | [283778-humankind-definitive-edition.json](./283778-humankind-definitive-edition.json) |
 | Humankind: Deluxe Edition | 169173 | [169173-humankind-deluxe-edition.json](./169173-humankind-deluxe-edition.json) |
 | Humankind: Heritage Edition | 204916 | [204916-humankind-heritage-edition.json](./204916-humankind-heritage-edition.json) |
+| Humankind: Limited Edition | 165267 | [165267-humankind-limited-edition.json](./165267-humankind-limited-edition.json) |
 | HumanKind: The Awakening | 55611 | [55611-humankind-the-awakening.json](./55611-humankind-the-awakening.json) |
 | Humankind: Together We Rule | 220818 | [220818-humankind-together-we-rule.json](./220818-humankind-together-we-rule.json) |
 | Humanless | 149184 | [149184-humanless.json](./149184-humanless.json) |
