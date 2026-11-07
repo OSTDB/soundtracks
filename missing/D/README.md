@@ -4963,6 +4963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decimated | 206358 | [206358-decimated.json](./206358-decimated.json) |
 | Decimation | 390437 | [390437-decimation.json](./390437-decimation.json) |
 | Decimation X | 66374 | [66374-decimation-x.json](./66374-decimation-x.json) |
+| Decipher Quest | 183676 | [183676-decipher-quest.json](./183676-decipher-quest.json) |
 | Decipher the Deck | 309473 | [309473-decipher-the-deck.json](./309473-decipher-the-deck.json) |
 | Decision | 299762 | [299762-decision.json](./299762-decision.json) |
 | Decision 2: New City | 300446 | [300446-decision-2-new-city.json](./300446-decision-2-new-city.json) |
@@ -5225,6 +5226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Diving VR | 122040 | [122040-deep-diving-vr.json](./122040-deep-diving-vr.json) |
 | Deep Diving VR: Adventure Pack | 227158 | [227158-deep-diving-vr-adventure-pack.json](./227158-deep-diving-vr-adventure-pack.json) |
 | Deep Down | 177368 | [177368-deep-down.json](./177368-deep-down.json) |
+| Deep Down | 183645 | [183645-deep-down.json](./183645-deep-down.json) |
 | Deep Down | 285011 | [285011-deep-down.json](./285011-deep-down.json) |
 | Deep Down | 357736 | [357736-deep-down.json](./357736-deep-down.json) |
 | Deep Down & Dark | 263592 | [263592-deep-down-and-dark.json](./263592-deep-down-and-dark.json) |
@@ -5869,6 +5871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deicider | 197533 | [197533-deicider.json](./197533-deicider.json) |
 | Deidthraw | 267266 | [267266-deidthraw.json](./267266-deidthraw.json) |
 | Deified | 381183 | [381183-deified.json](./381183-deified.json) |
+| Deify | 183690 | [183690-deify.json](./183690-deify.json) |
 | Deiity | 371367 | [371367-deiity.json](./371367-deiity.json) |
 | Deiland | 174626 | [174626-deiland.json](./174626-deiland.json) |
 | Deiland: Pocket Planet | 145240 | [145240-deiland-pocket-planet.json](./145240-deiland-pocket-planet.json) |
@@ -7884,6 +7887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dethrone | 273810 | [273810-dethrone.json](./273810-dethrone.json) |
 | Dethroned | 240813 | [240813-dethroned.json](./240813-dethroned.json) |
 | Dethroned! | 62012 | [62012-dethroned.json](./62012-dethroned.json) |
+| Detonate | 183685 | [183685-detonate.json](./183685-detonate.json) |
 | Detonate | 63056 | [63056-detonate.json](./63056-detonate.json) |
 | Detonation | 119563 | [119563-detonation.json](./119563-detonation.json) |
 | Detonation Racing | 165105 | [165105-detonation-racing.json](./165105-detonation-racing.json) |
