@@ -5568,6 +5568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cerulean Tears | 323929 | [323929-cerulean-tears.json](./323929-cerulean-tears.json) |
 | Cervidae | 182140 | [182140-cervidae.json](./182140-cervidae.json) |
 | Cesar Millan's Dog Whisperer | 70646 | [70646-cesar-millans-dog-whisperer.json](./70646-cesar-millans-dog-whisperer.json) |
+| Cessabit | 175458 | [175458-cessabit.json](./175458-cessabit.json) |
 | Cessate il Fuoco | 305462 | [305462-cessate-il-fuoco.json](./305462-cessate-il-fuoco.json) |
 | Cessate il Fuoco/Heathcliff | 305298 | [305298-cessate-il-fuoco-heathcliff.json](./305298-cessate-il-fuoco-heathcliff.json) |
 | Cessna Over Moscow | 39116 | [39116-cessna-over-moscow.json](./39116-cessna-over-moscow.json) |
@@ -16897,6 +16898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Goose Simulator | 288304 | [288304-crazy-goose-simulator.json](./288304-crazy-goose-simulator.json) |
 | Crazy Guy | 238061 | [238061-crazy-guy.json](./238061-crazy-guy.json) |
 | Crazy Halloween | 310554 | [310554-crazy-halloween.json](./310554-crazy-halloween.json) |
+| Crazy Hamster | 175453 | [175453-crazy-hamster.json](./175453-crazy-hamster.json) |
 | Crazy Hamster | 85051 | [85051-crazy-hamster.json](./85051-crazy-hamster.json) |
 | Crazy Hands | 164865 | [164865-crazy-hands.json](./164865-crazy-hands.json) |
 | Crazy Hangover | 393913 | [393913-crazy-hangover.json](./393913-crazy-hangover.json) |
@@ -17100,6 +17102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy World of Caleb: Level 1 to 7 | 311190 | [311190-crazy-world-of-caleb-level-1-to-7.json](./311190-crazy-world-of-caleb-level-1-to-7.json) |
 | Crazy Zen Codeword | 185902 | [185902-crazy-zen-codeword.json](./185902-crazy-zen-codeword.json) |
 | Crazy Zoo | 202737 | [202737-crazy-zoo.json](./202737-crazy-zoo.json) |
+| Crazy_Run | 175488 | [175488-crazy-run.json](./175488-crazy-run.json) |
 | Crazy-Spy | 58772 | [58772-crazy-spy.json](./58772-crazy-spy.json) |
 | CrazyBus | 9077 | [9077-crazybus.json](./9077-crazybus.json) |
 | CrazyCar | 93612 | [93612-crazycar.json](./93612-crazycar.json) |
