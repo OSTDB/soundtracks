@@ -2836,6 +2836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elven Rivers: The Forgotten Lands - Collector's Edition | 239643 | [239643-elven-rivers-the-forgotten-lands-collectors-edition.json](./239643-elven-rivers-the-forgotten-lands-collectors-edition.json) |
 | Elven Truth | 149434 | [149434-elven-truth.json](./149434-elven-truth.json) |
 | Elven War RPG | 244227 | [244227-elven-war-rpg.json](./244227-elven-war-rpg.json) |
+| Elven Warmaiden | 188763 | [188763-elven-warmaiden.json](./188763-elven-warmaiden.json) |
 | Elven Warrior | 13634 | [13634-elven-warrior.json](./13634-elven-warrior.json) |
 | Elvenar | 59764 | [59764-elvenar.json](./59764-elvenar.json) |
 | ElvenEscape | 203945 | [203945-elvenescape.json](./203945-elvenescape.json) |
@@ -4946,6 +4947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Errant: Hunter's Soul | 108745 | [108745-errant-hunters-soul.json](./108745-errant-hunters-soul.json) |
 | Errant: Hunter's Soul | 200748 | [200748-errant-hunters-soul.json](./200748-errant-hunters-soul.json) |
 | Errante | 185559 | [185559-errante.json](./185559-errante.json) |
+| Errante | 188755 | [188755-errante.json](./188755-errante.json) |
 | Errasaga | 381599 | [381599-errasaga.json](./381599-errasaga.json) |
 | Erroneous | 199263 | [199263-erroneous.json](./199263-erroneous.json) |
 | Error | 112907 | [112907-error.json](./112907-error.json) |
