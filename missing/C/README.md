@@ -4957,6 +4957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Story | 339021 | [339021-cave-story.json](./339021-cave-story.json) |
 | Cave Story | 366623 | [366623-cave-story.json](./366623-cave-story.json) |
 | Cave Story 3D | 11783 | [11783-cave-story-3d.json](./11783-cave-story-3d.json) |
+| Cave Story MD | 183654 | [183654-cave-story-md.json](./183654-cave-story-md.json) |
 | Cave Story Sex RPG 2007 | 145470 | [145470-cave-story-sex-rpg-2007.json](./145470-cave-story-sex-rpg-2007.json) |
 | Cave Story with a Fourth Ending | 384657 | [384657-cave-story-with-a-fourth-ending.json](./384657-cave-story-with-a-fourth-ending.json) |
 | Cave Story: The Desolate | 265068 | [265068-cave-story-the-desolate.json](./265068-cave-story-the-desolate.json) |
@@ -5137,6 +5138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CBeebies Playtime Island: Game | 321783 | [321783-cbeebies-playtime-island-game.json](./321783-cbeebies-playtime-island-game.json) |
 | CBM Draw Poker | 58566 | [58566-cbm-draw-poker.json](./58566-cbm-draw-poker.json) |
 | CBO TD | 291260 | [291260-cbo-td.json](./291260-cbo-td.json) |
+| CBS: Escape from the Mall 3D | 183668 | [183668-cbs-escape-from-the-mall-3d.json](./183668-cbs-escape-from-the-mall-3d.json) |
 | Cbs: The Beginning | 392194 | [392194-cbs-the-beginning.json](./392194-cbs-the-beginning.json) |
 | CBT With Yuuka Kazami: Getting Help With Patchouli Knowledge | 182247 | [182247-cbt-with-yuuka-kazami-getting-help-with-patchouli-knowledge.json](./182247-cbt-with-yuuka-kazami-getting-help-with-patchouli-knowledge.json) |
 | CC & SH Smash Hits | 74303 | [74303-cc-and-sh-smash-hits.json](./74303-cc-and-sh-smash-hits.json) |
@@ -7162,6 +7164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken ~Boiled Egg~ | 99769 | [99769-chicken-boiled-egg.json](./99769-chicken-boiled-egg.json) |
 | Chicken and Duck Brothers | 218699 | [218699-chicken-and-duck-brothers.json](./218699-chicken-and-duck-brothers.json) |
 | Chicken Assassin: Reloaded | 100501 | [100501-chicken-assassin-reloaded.json](./100501-chicken-assassin-reloaded.json) |
+| Chicken Attack | 183655 | [183655-chicken-attack.json](./183655-chicken-attack.json) |
 | Chicken Attack Deluxe | 276001 | [276001-chicken-attack-deluxe.json](./276001-chicken-attack-deluxe.json) |
 | Chicken Balls | 254586 | [254586-chicken-balls.json](./254586-chicken-balls.json) |
 | Chicken Blaster | 175778 | [175778-chicken-blaster.json](./175778-chicken-blaster.json) |
@@ -14596,6 +14599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoopValor WW2 Battle of the Bulge | 263522 | [263522-coopvalor-ww2-battle-of-the-bulge.json](./263522-coopvalor-ww2-battle-of-the-bulge.json) |
 | Cooties | 279887 | [279887-cooties.json](./279887-cooties.json) |
 | Cop 01 | 40022 | [40022-cop-01.json](./40022-cop-01.json) |
+| Cop Bastard | 183657 | [183657-cop-bastard.json](./183657-cop-bastard.json) |
 | Cop Car Police Simulator Chase | 187469 | [187469-cop-car-police-simulator-chase.json](./187469-cop-car-police-simulator-chase.json) |
 | Cop City | 236109 | [236109-cop-city.json](./236109-cop-city.json) |
 | Cop Drop | 329419 | [329419-cop-drop.json](./329419-cop-drop.json) |
