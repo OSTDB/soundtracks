@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ubinota | 17852 | [17852-ubinota.json](./17852-ubinota.json) |
 | Ubiquatopia | 187286 | [187286-ubiquatopia.json](./187286-ubiquatopia.json) |
 | Ubirajara | 163179 | [163179-ubirajara.json](./163179-ubirajara.json) |
+| Ubisoft Triple Pack | 142562 | [142562-ubisoft-triple-pack.json](./142562-ubisoft-triple-pack.json) |
 | UBoat | 32283 | [32283-uboat.json](./32283-uboat.json) |
 | Uboat Attack | 220203 | [220203-uboat-attack.json](./220203-uboat-attack.json) |
 | Uboat Attack | 314607 | [314607-uboat-attack.json](./314607-uboat-attack.json) |
