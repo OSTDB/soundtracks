@@ -6553,10 +6553,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishbowl Racer | 198019 | [198019-fishbowl-racer.json](./198019-fishbowl-racer.json) |
 | FishCo | 206764 | [206764-fishco.json](./206764-fishco.json) |
 | Fishdom | 85147 | [85147-fishdom.json](./85147-fishdom.json) |
+| Fishdom 2 | 144472 | [144472-fishdom-2.json](./144472-fishdom-2.json) |
 | Fishdom 3 | 60284 | [60284-fishdom-3.json](./60284-fishdom-3.json) |
 | Fishdom Solitaire | 232297 | [232297-fishdom-solitaire.json](./232297-fishdom-solitaire.json) |
 | Fishdom: Deep Dive | 197359 | [197359-fishdom-deep-dive.json](./197359-fishdom-deep-dive.json) |
+| Fishdom: Depths of Time | 144471 | [144471-fishdom-depths-of-time.json](./144471-fishdom-depths-of-time.json) |
+| Fishdom: Frosty Splash | 144469 | [144469-fishdom-frosty-splash.json](./144469-fishdom-frosty-splash.json) |
+| Fishdom: Holiday Edition | 144467 | [144467-fishdom-holiday-edition.json](./144467-fishdom-holiday-edition.json) |
 | Fishdom: Seasons Under the Sea | 294387 | [294387-fishdom-seasons-under-the-sea.json](./294387-fishdom-seasons-under-the-sea.json) |
+| Fishdom: Spooky Splash | 144470 | [144470-fishdom-spooky-splash.json](./144470-fishdom-spooky-splash.json) |
 | Fisher Birds HD | 257010 | [257010-fisher-birds-hd.json](./257010-fisher-birds-hd.json) |
 | Fisher Fans VR | 54507 | [54507-fisher-fans-vr.json](./54507-fisher-fans-vr.json) |
 | Fisher Frog | 214478 | [214478-fisher-frog.json](./214478-fisher-frog.json) |
@@ -10690,6 +10695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortuna | 218172 | [218172-fortuna.json](./218172-fortuna.json) |
 | Fortuna Deluxe | 291896 | [291896-fortuna-deluxe.json](./291896-fortuna-deluxe.json) |
 | Fortuna Magus | 68989 | [68989-fortuna-magus.json](./68989-fortuna-magus.json) |
+| Fortunas Rad | 144474 | [144474-fortunas-rad.json](./144474-fortunas-rad.json) |
 | Fortunato | 381185 | [381185-fortunato.json](./381185-fortunato.json) |
 | Fortune | 357312 | [357312-fortune.json](./357312-fortune.json) |
 | Fortune & Famine | 190408 | [190408-fortune-and-famine.json](./190408-fortune-and-famine.json) |
