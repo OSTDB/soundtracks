@@ -1330,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Evolution Clicker | 301323 | [301323-kawaii-evolution-clicker.json](./301323-kawaii-evolution-clicker.json) |
 | Kawaii Force: Liberty Line | 397876 | [397876-kawaii-force-liberty-line.json](./397876-kawaii-force-liberty-line.json) |
 | Kawaii Girl | 202194 | [202194-kawaii-girl.json](./202194-kawaii-girl.json) |
+| Kawaii Girl 2 | 170627 | [170627-kawaii-girl-2.json](./170627-kawaii-girl-2.json) |
 | Kawaii Girls | 334088 | [334088-kawaii-girls.json](./334088-kawaii-girls.json) |
 | Kawaii Girls | 335317 | [335317-kawaii-girls.json](./335317-kawaii-girls.json) |
 | Kawaii Girls Puzzle | 187073 | [187073-kawaii-girls-puzzle.json](./187073-kawaii-girls-puzzle.json) |
@@ -5428,6 +5429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koori No Bohyou: Ichiryuuwa, 3-Dome No Junan | 56750 | [56750-koori-no-bohyou-ichiryuuwa-3-dome-no-junan.json](./56750-koori-no-bohyou-ichiryuuwa-3-dome-no-junan.json) |
 | Koori no Haka Ichiyanagi Nagomu, Sandome no Junan | 124635 | [124635-koori-no-haka-ichiyanagi-nagomu-sandome-no-junan.json](./124635-koori-no-haka-ichiyanagi-nagomu-sandome-no-junan.json) |
 | Kooring VR Coding Adventure | 158176 | [158176-kooring-vr-coding-adventure.json](./158176-kooring-vr-coding-adventure.json) |
+| Kooring VR Wonderland: Mecadino's Attack | 170645 | [170645-kooring-vr-wonderland-mecadinos-attack.json](./170645-kooring-vr-wonderland-mecadinos-attack.json) |
 | Kooring VR Wonderland: Red Queen's Black Magic | 195306 | [195306-kooring-vr-wonderland-red-queens-black-magic.json](./195306-kooring-vr-wonderland-red-queens-black-magic.json) |
 | KooZac | 65050 | [65050-koozac.json](./65050-koozac.json) |
 | Kopanito All-Stars Soccer | 25962 | [25962-kopanito-all-stars-soccer.json](./25962-kopanito-all-stars-soccer.json) |
@@ -5855,6 +5857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kring | 216755 | [216755-kring.json](./216755-kring.json) |
 | Krinkle Krusher | 26496 | [26496-krinkle-krusher.json](./26496-krinkle-krusher.json) |
 | Kriophobia | 50164 | [50164-kriophobia.json](./50164-kriophobia.json) |
+| Kris Kringle's Christmas Village VR | 170623 | [170623-kris-kringles-christmas-village-vr.json](./170623-kris-kringles-christmas-village-vr.json) |
 | Kris Kross: Make My Video | 46417 | [46417-kris-kross-make-my-video.json](./46417-kris-kross-make-my-video.json) |
 | Krishna Legends | 130665 | [130665-krishna-legends.json](./130665-krishna-legends.json) |
 | Krispain Hero | 219454 | [219454-krispain-hero.json](./219454-krispain-hero.json) |
