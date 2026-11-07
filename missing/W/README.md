@@ -1937,6 +1937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warranty Man | 338397 | [338397-warranty-man.json](./338397-warranty-man.json) |
 | Warrecs | 105626 | [105626-warrecs.json](./105626-warrecs.json) |
 | Warrecs 2 | 159817 | [159817-warrecs-2.json](./159817-warrecs-2.json) |
+| Warren the Warlock | 161481 | [161481-warren-the-warlock.json](./161481-warren-the-warlock.json) |
 | Warrens Of Random | 389614 | [389614-warrens-of-random.json](./389614-warrens-of-random.json) |
 | Warrented Humanity | 351170 | [351170-warrented-humanity.json](./351170-warrented-humanity.json) |
 | Warring Kingdoms: Chronicles of War | 423308 | [423308-warring-kingdoms-chronicles-of-war.json](./423308-warring-kingdoms-chronicles-of-war.json) |
