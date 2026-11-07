@@ -16830,6 +16830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buddy & Friends: Santa's Workshop Animal Party | 283299 | [283299-buddy-and-friends-santas-workshop-animal-party.json](./283299-buddy-and-friends-santas-workshop-animal-party.json) |
 | Buddy & Me | 61874 | [61874-buddy-and-me.json](./61874-buddy-and-me.json) |
 | Buddy and Friends on Halloween | 267743 | [267743-buddy-and-friends-on-halloween.json](./267743-buddy-and-friends-on-halloween.json) |
+| Buddy and Lucky Solitaire | 170666 | [170666-buddy-and-lucky-solitaire.json](./170666-buddy-and-lucky-solitaire.json) |
 | Buddy Bash | 129091 | [129091-buddy-bash.json](./129091-buddy-bash.json) |
 | Buddy Bug | 335359 | [335359-buddy-bug.json](./335359-buddy-bug.json) |
 | Buddy Canine Ballcaster | 271866 | [271866-buddy-canine-ballcaster.json](./271866-buddy-canine-ballcaster.json) |
