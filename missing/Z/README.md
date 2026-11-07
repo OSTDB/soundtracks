@@ -835,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenonia Chronobreak | 286912 | [286912-zenonia-chronobreak.json](./286912-zenonia-chronobreak.json) |
 | Zenonia S: Rifts in Time | 38690 | [38690-zenonia-s-rifts-in-time.json](./38690-zenonia-s-rifts-in-time.json) |
 | Zenonzard | 135498 | [135498-zenonzard.json](./135498-zenonzard.json) |
+| Zenorost Realm | 157283 | [157283-zenorost-realm.json](./157283-zenorost-realm.json) |
 | Zenpu-kun | 324968 | [324968-zenpu-kun.json](./324968-zenpu-kun.json) |
 | Zenquarium | 78552 | [78552-zenquarium.json](./78552-zenquarium.json) |
 | Zenra Toukou Training | 153674 | [153674-zenra-toukou-training.json](./153674-zenra-toukou-training.json) |
