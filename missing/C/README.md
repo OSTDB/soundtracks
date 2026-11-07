@@ -9809,6 +9809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Magic | 96461 | [96461-clash-of-magic.json](./96461-clash-of-magic.json) |
 | Clash of Magic VR | 86626 | [86626-clash-of-magic-vr.json](./86626-clash-of-magic-vr.json) |
 | Clash of Magic: Spectator Mode | 99027 | [99027-clash-of-magic-spectator-mode.json](./99027-clash-of-magic-spectator-mode.json) |
+| Clash of Majesty | 178760 | [178760-clash-of-majesty.json](./178760-clash-of-majesty.json) |
 | Clash of Mushroom | 196356 | [196356-clash-of-mushroom.json](./196356-clash-of-mushroom.json) |
 | Clash of Panzer | 220159 | [220159-clash-of-panzer.json](./220159-clash-of-panzer.json) |
 | Clash of Puppets | 17892 | [17892-clash-of-puppets.json](./17892-clash-of-puppets.json) |
@@ -12215,6 +12216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Water Sort: Gold Edition | 385195 | [385195-color-water-sort-gold-edition.json](./385195-color-water-sort-gold-edition.json) |
 | Color Water Sort: Relax Edition | 310434 | [310434-color-water-sort-relax-edition.json](./310434-color-water-sort-relax-edition.json) |
 | Color Water Sort: Time Attack Edition | 320694 | [320694-color-water-sort-time-attack-edition.json](./320694-color-water-sort-time-attack-edition.json) |
+| Color Wheel | 178726 | [178726-color-wheel.json](./178726-color-wheel.json) |
 | Color X Memory | 368682 | [368682-color-x-memory.json](./368682-color-x-memory.json) |
 | Color Your World | 145583 | [145583-color-your-world.json](./145583-color-your-world.json) |
 | Color-A-Cube | 330266 | [330266-color-a-cube.json](./330266-color-a-cube.json) |
@@ -14689,6 +14691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copycat | 255631 | [255631-copycat.json](./255631-copycat.json) |
 | Copycat Games: Imposter Party Games | 402135 | [402135-copycat-games-imposter-party-games.json](./402135-copycat-games-imposter-party-games.json) |
 | Copycat: Cee Ann | 185480 | [185480-copycat-cee-ann.json](./185480-copycat-cee-ann.json) |
+| Copycat's Phenomenon | 178736 | [178736-copycats-phenomenon.json](./178736-copycats-phenomenon.json) |
 | CopyPasta with Cheese | 282094 | [282094-copypasta-with-cheese.json](./282094-copypasta-with-cheese.json) |
 | Copz N Zombies | 291866 | [291866-copz-n-zombies.json](./291866-copz-n-zombies.json) |
 | Coquette Dragoon: Volume One | 210093 | [210093-coquette-dragoon-volume-one.json](./210093-coquette-dragoon-volume-one.json) |
@@ -18771,6 +18774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptorig | 203965 | [203965-cryptorig.json](./203965-cryptorig.json) |
 | Cryptosnake | 191448 | [191448-cryptosnake.json](./191448-cryptosnake.json) |
 | Cryptower | 260282 | [260282-cryptower.json](./260282-cryptower.json) |
+| Cryptozootography | 178742 | [178742-cryptozootography.json](./178742-cryptozootography.json) |
 | Cryptr | 201673 | [201673-cryptr.json](./201673-cryptr.json) |
 | Cryptract | 110859 | [110859-cryptract.json](./110859-cryptract.json) |
 | Cryptrio | 291501 | [291501-cryptrio.json](./291501-cryptrio.json) |
