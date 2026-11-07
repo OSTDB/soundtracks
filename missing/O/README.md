@@ -4688,6 +4688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otherworld: Spring of Shadows | 63771 | [63771-otherworld-spring-of-shadows.json](./63771-otherworld-spring-of-shadows.json) |
 | Otherworld: Spring of Shadows - Collector's Edition | 32788 | [32788-otherworld-spring-of-shadows-collectors-edition.json](./32788-otherworld-spring-of-shadows-collectors-edition.json) |
 | Otherworld: Spring of Shadows & Otherworld: Omens of Summer | 200957 | [200957-otherworld-spring-of-shadows-and-otherworld-omens-of-summer.json](./200957-otherworld-spring-of-shadows-and-otherworld-omens-of-summer.json) |
+| Otherworldly | 146973 | [146973-otherworldly.json](./146973-otherworldly.json) |
 | Otherworldly Air Gunship | 341517 | [341517-otherworldly-air-gunship.json](./341517-otherworldly-air-gunship.json) |
 | Otherworldly Ossuary | 305811 | [305811-otherworldly-ossuary.json](./305811-otherworldly-ossuary.json) |
 | Otherworldly Stars | 179513 | [179513-otherworldly-stars.json](./179513-otherworldly-stars.json) |
