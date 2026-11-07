@@ -1618,6 +1618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NecroArcher | 199359 | [199359-necroarcher.json](./199359-necroarcher.json) |
 | NecroAttack! | 261676 | [261676-necroattack.json](./261676-necroattack.json) |
 | Necrobarista | 26870 | [26870-necrobarista.json](./26870-necrobarista.json) |
+| Necrobius | 178181 | [178181-necrobius.json](./178181-necrobius.json) |
 | Necroblade | 217282 | [217282-necroblade.json](./217282-necroblade.json) |
 | NecroBouncer | 189242 | [189242-necrobouncer.json](./189242-necrobouncer.json) |
 | NecroBoy: Path to Evilship | 153006 | [153006-necroboy-path-to-evilship.json](./153006-necroboy-path-to-evilship.json) |
@@ -4144,6 +4145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nifty Island | 282824 | [282824-nifty-island.json](./282824-nifty-island.json) |
 | Nifty League | 184289 | [184289-nifty-league.json](./184289-nifty-league.json) |
 | Nifty Smashers | 331616 | [331616-nifty-smashers.json](./331616-nifty-smashers.json) |
+| NiftyVille | 178174 | [178174-niftyville.json](./178174-niftyville.json) |
 | Nigate Tale | 139175 | [139175-nigate-tale.json](./139175-nigate-tale.json) |
 | Nige-ron-pa | 43961 | [43961-nige-ron-pa.json](./43961-nige-ron-pa.json) |
 | Nigel | 134885 | [134885-nigel.json](./134885-nigel.json) |
