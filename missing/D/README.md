@@ -7864,6 +7864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detention: Deluxe Edition | 52885 | [52885-detention-deluxe-edition.json](./52885-detention-deluxe-edition.json) |
 | Deteriation Game | 229744 | [229744-deteriation-game.json](./229744-deteriation-game.json) |
 | Deteriorate.1 | 405271 | [405271-deteriorate-1.json](./405271-deteriorate-1.json) |
+| Determina | 189796 | [189796-determina.json](./189796-determina.json) |
 | Determinable Unstable | 132999 | [132999-determinable-unstable.json](./132999-determinable-unstable.json) |
 | Determinance | 21416 | [21416-determinance.json](./21416-determinance.json) |
 | Determinant | 169826 | [169826-determinant.json](./169826-determinant.json) |
