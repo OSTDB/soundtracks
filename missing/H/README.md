@@ -1609,6 +1609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Color Links | 277834 | [277834-happy-color-links.json](./277834-happy-color-links.json) |
 | Happy Cook | 200118 | [200118-happy-cook.json](./200118-happy-cook.json) |
 | Happy Cookies | 365261 | [365261-happy-cookies.json](./365261-happy-cookies.json) |
+| Happy Cooking | 146985 | [146985-happy-cooking.json](./146985-happy-cooking.json) |
 | Happy Corner | 304531 | [304531-happy-corner.json](./304531-happy-corner.json) |
 | Happy Critters | 33419 | [33419-happy-critters.json](./33419-happy-critters.json) |
 | Happy Dance Collection | 51024 | [51024-happy-dance-collection.json](./51024-happy-dance-collection.json) |
@@ -2553,6 +2554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hats and Guns | 334215 | [334215-hats-and-guns.json](./334215-hats-and-guns.json) |
 | Hats and Hand Grenades: Capture the Hat | 227068 | [227068-hats-and-hand-grenades-capture-the-hat.json](./227068-hats-and-hand-grenades-capture-the-hat.json) |
 | Hats Are Not Allowed | 159892 | [159892-hats-are-not-allowed.json](./159892-hats-are-not-allowed.json) |
+| Hats Online | 146958 | [146958-hats-online.json](./146958-hats-online.json) |
 | Hatsujou Saimin Appli: Shikyuu ni Todoku Chakushin'on | 108868 | [108868-hatsujou-saimin-appli-shikyuu-ni-todoku-chakushinon.json](./108868-hatsujou-saimin-appli-shikyuu-ni-todoku-chakushinon.json) |
 | Hatsujou Sprinkle | 107270 | [107270-hatsujou-sprinkle.json](./107270-hatsujou-sprinkle.json) |
 | Hatsujousei | 108856 | [108856-hatsujousei.json](./108856-hatsujousei.json) |
@@ -3971,6 +3973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helga's Cheese Festival | 293349 | [293349-helgas-cheese-festival.json](./293349-helgas-cheese-festival.json) |
 | Helheim | 112866 | [112866-helheim.json](./112866-helheim.json) |
 | Helheim Hassle | 129208 | [129208-helheim-hassle.json](./129208-helheim-hassle.json) |
+| Helherron | 146986 | [146986-helherron.json](./146986-helherron.json) |
 | Helhigan | 360714 | [360714-helhigan.json](./360714-helhigan.json) |
 | Heli 100 | 119417 | [119417-heli-100.json](./119417-heli-100.json) |
 | Heli Commando in Hell | 124752 | [124752-heli-commando-in-hell.json](./124752-heli-commando-in-hell.json) |
@@ -6557,6 +6560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexagon Hamlet | 183529 | [183529-hexagon-hamlet.json](./183529-hexagon-hamlet.json) |
 | Hexagon Heroes | 132272 | [132272-hexagon-heroes.json](./132272-hexagon-heroes.json) |
 | Hexagon Knockout | 153637 | [153637-hexagon-knockout.json](./153637-hexagon-knockout.json) |
+| Hexagon Mahjongg | 146960 | [146960-hexagon-mahjongg.json](./146960-hexagon-mahjongg.json) |
 | Hexagon Puzzle Blocks | 232647 | [232647-hexagon-puzzle-blocks.json](./232647-hexagon-puzzle-blocks.json) |
 | Hexagon Puzzle Blocks: Expansion Pack | 232648 | [232648-hexagon-puzzle-blocks-expansion-pack.json](./232648-hexagon-puzzle-blocks-expansion-pack.json) |
 | Hexagon Soup | 384143 | [384143-hexagon-soup.json](./384143-hexagon-soup.json) |
