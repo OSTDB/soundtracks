@@ -3232,6 +3232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adios Amigos | 107241 | [107241-adios-amigos.json](./107241-adios-amigos.json) |
 | Adios Amigos: Galactic Explorers | 197685 | [197685-adios-amigos-galactic-explorers.json](./197685-adios-amigos-galactic-explorers.json) |
 | Adit 11 | 379557 | [379557-adit-11.json](./379557-adit-11.json) |
+| Adit Rush | 183687 | [183687-adit-rush.json](./183687-adit-rush.json) |
 | Adiverboz | 379558 | [379558-adiverboz.json](./379558-adiverboz.json) |
 | Adivinhe a Cor! | 282805 | [282805-adivinhe-a-cor.json](./282805-adivinhe-a-cor.json) |
 | Adivinhe o Jogo | 254249 | [254249-adivinhe-o-jogo.json](./254249-adivinhe-o-jogo.json) |
@@ -11910,6 +11911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqorel | 200807 | [200807-aqorel.json](./200807-aqorel.json) |
 | AQRA Tenses: Learn English | 237280 | [237280-aqra-tenses-learn-english.json](./237280-aqra-tenses-learn-english.json) |
 | AQtion | 202662 | [202662-aqtion.json](./202662-aqtion.json) |
+| Aqua | 183698 | [183698-aqua.json](./183698-aqua.json) |
 | Aqua | 37278 | [37278-aqua.json](./37278-aqua.json) |
 | Aqua 1 | 273132 | [273132-aqua-1.json](./273132-aqua-1.json) |
 | Aqua 2 | 273133 | [273133-aqua-2.json](./273133-aqua-2.json) |
@@ -16717,6 +16719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
