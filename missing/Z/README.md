@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zball II | 149519 | [149519-zball-ii.json](./149519-zball-ii.json) |
 | Zball IV | 153316 | [153316-zball-iv.json](./153316-zball-iv.json) |
 | Zball VI | 158574 | [158574-zball-vi.json](./158574-zball-vi.json) |
+| ZBD: Zone Batel Dedrox | 177652 | [177652-zbd-zone-batel-dedrox.json](./177652-zbd-zone-batel-dedrox.json) |
 | ZBloody Hell | 195858 | [195858-zbloody-hell.json](./195858-zbloody-hell.json) |
 | Zbuki Zoo Strategic Comedy | 265259 | [265259-zbuki-zoo-strategic-comedy.json](./265259-zbuki-zoo-strategic-comedy.json) |
 | ZCB Simulator | 179812 | [179812-zcb-simulator.json](./179812-zcb-simulator.json) |
