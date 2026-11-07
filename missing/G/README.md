@@ -3511,6 +3511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get into Backrooms | 213209 | [213209-get-into-backrooms.json](./213209-get-into-backrooms.json) |
 | Get it Hard | 215935 | [215935-get-it-hard.json](./215935-get-it-hard.json) |
 | Get It Up! | 357211 | [357211-get-it-up.json](./357211-get-it-up.json) |
+| Get it, Hero! | 165842 | [165842-get-it-hero.json](./165842-get-it-hero.json) |
 | Get Lit | 400420 | [400420-get-lit.json](./400420-get-lit.json) |
 | Get Lost in Nature With Luke | 165162 | [165162-get-lost-in-nature-with-luke.json](./165162-get-lost-in-nature-with-luke.json) |
 | Get Lost! | 383543 | [383543-get-lost.json](./383543-get-lost.json) |
