@@ -2572,6 +2572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tars | 155829 | [155829-tars.json](./155829-tars.json) |
 | Tartapolis | 120954 | [120954-tartapolis.json](./120954-tartapolis.json) |
 | Tartaria: The forgotten tale | 192554 | [192554-tartaria-the-forgotten-tale.json](./192554-tartaria-the-forgotten-tale.json) |
+| Tartaron | 167429 | [167429-tartaron.json](./167429-tartaron.json) |
 | Tartaros | 320403 | [320403-tartaros.json](./320403-tartaros.json) |
 | Tartarus | 256845 | [256845-tartarus.json](./256845-tartarus.json) |
 | Tartarus | 29147 | [29147-tartarus.json](./29147-tartarus.json) |
@@ -6308,6 +6309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Baron Got You Again | 54523 | [54523-the-baron-got-you-again.json](./54523-the-baron-got-you-again.json) |
 | The Barren Babel | 151800 | [151800-the-barren-babel.json](./151800-the-barren-babel.json) |
 | The Barren Kingdoms | 182096 | [182096-the-barren-kingdoms.json](./182096-the-barren-kingdoms.json) |
+| The Bart Bonte Collection | 167428 | [167428-the-bart-bonte-collection.json](./167428-the-bart-bonte-collection.json) |
 | The Bartlett Saga | 387700 | [387700-the-bartlett-saga.json](./387700-the-bartlett-saga.json) |
 | The Baseball 2002: Battle Ball Park Sengen | 267529 | [267529-the-baseball-2002-battle-ball-park-sengen.json](./267529-the-baseball-2002-battle-ball-park-sengen.json) |
 | The Baseball 2003 | 61401 | [61401-the-baseball-2003.json](./61401-the-baseball-2003.json) |
@@ -27999,6 +28001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trails of the Last Day | 326920 | [326920-trails-of-the-last-day.json](./326920-trails-of-the-last-day.json) |
 | Train | 179451 | [179451-train.json](./179451-train.json) |
 | Train | 179456 | [179456-train.json](./179456-train.json) |
+| Train 113 | 167455 | [167455-train-113.json](./167455-train-113.json) |
 | Train and Rail Yard Simulator | 266252 | [266252-train-and-rail-yard-simulator.json](./266252-train-and-rail-yard-simulator.json) |
 | Train Bandit | 68514 | [68514-train-bandit.json](./68514-train-bandit.json) |
 | Train Cargo: Nightshift | 374159 | [374159-train-cargo-nightshift.json](./374159-train-cargo-nightshift.json) |
