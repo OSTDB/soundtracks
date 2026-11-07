@@ -989,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa: Bursting Love | 184307 | [184307-danganronpa-bursting-love.json](./184307-danganronpa-bursting-love.json) |
 | Danganronpa: Checkmate | 254595 | [254595-danganronpa-checkmate.json](./254595-danganronpa-checkmate.json) |
 | Danganronpa: Dead End | 134504 | [134504-danganronpa-dead-end.json](./134504-danganronpa-dead-end.json) |
+| Danganronpa: Dead End | 179827 | [179827-danganronpa-dead-end.json](./179827-danganronpa-dead-end.json) |
 | Danganronpa: Decadence | 152359 | [152359-danganronpa-decadence.json](./152359-danganronpa-decadence.json) |
 | Danganronpa: Decadence - Collector's Edition | 153645 | [153645-danganronpa-decadence-collectors-edition.json](./153645-danganronpa-decadence-collectors-edition.json) |
 | Danganronpa: Despair Among Us | 411319 | [411319-danganronpa-despair-among-us.json](./411319-danganronpa-despair-among-us.json) |
@@ -1447,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Continent: Mist | 304167 | [304167-dark-continent-mist.json](./304167-dark-continent-mist.json) |
 | Dark Core | 110763 | [110763-dark-core.json](./110763-dark-core.json) |
 | Dark Corridors | 225199 | [225199-dark-corridors.json](./225199-dark-corridors.json) |
+| Dark Country | 179816 | [179816-dark-country.json](./179816-dark-country.json) |
 | Dark Craft | 379935 | [379935-dark-craft.json](./379935-dark-craft.json) |
 | Dark Cravings | 199276 | [199276-dark-cravings.json](./199276-dark-cravings.json) |
 | Dark Crescent | 404660 | [404660-dark-crescent.json](./404660-dark-crescent.json) |
@@ -13365,6 +13367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dopamine Hit | 342894 | [342894-dopamine-hit.json](./342894-dopamine-hit.json) |
 | Dopaminer | 388170 | [388170-dopaminer.json](./388170-dopaminer.json) |
 | Dopamix | 222327 | [222327-dopamix.json](./222327-dopamix.json) |
+| Dope TrashCanners | 179825 | [179825-dope-trashcanners.json](./179825-dope-trashcanners.json) |
 | Dope Wars | 94588 | [94588-dope-wars.json](./94588-dope-wars.json) |
 | Dope Wars Mean Streets | 294287 | [294287-dope-wars-mean-streets.json](./294287-dope-wars-mean-streets.json) |
 | DopeMine Arena | 194556 | [194556-dopemine-arena.json](./194556-dopemine-arena.json) |
