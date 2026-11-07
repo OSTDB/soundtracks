@@ -968,6 +968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -12233,6 +12234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bofkin Island 2 | 361261 | [361261-bofkin-island-2.json](./361261-bofkin-island-2.json) |
 | Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense. - Line Wars | 137670 | [137670-bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense-line-wars.json](./137670-bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense-line-wars.json) |
 | Bofyne Unit: The Omega Contract | 303348 | [303348-bofyne-unit-the-omega-contract.json](./303348-bofyne-unit-the-omega-contract.json) |
+| Bog | 176593 | [176593-bog.json](./176593-bog.json) |
 | Bog Man Has Had Enough | 271843 | [271843-bog-man-has-had-enough.json](./271843-bog-man-has-had-enough.json) |
 | Bog Racer | 239893 | [239893-bog-racer.json](./239893-bog-racer.json) |
 | Bog Roll | 248963 | [248963-bog-roll.json](./248963-bog-roll.json) |
@@ -16250,6 +16252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal Minecraft Eternal | 198682 | [198682-brutal-minecraft-eternal.json](./198682-brutal-minecraft-eternal.json) |
 | Brutal MooD | 95589 | [95589-brutal-mood.json](./95589-brutal-mood.json) |
 | Brutal Orchestra | 185849 | [185849-brutal-orchestra.json](./185849-brutal-orchestra.json) |
+| Brutal Pico Race | 176608 | [176608-brutal-pico-race.json](./176608-brutal-pico-race.json) |
 | Brutal Rage | 132657 | [132657-brutal-rage.json](./132657-brutal-rage.json) |
 | Brutal Rifters | 193005 | [193005-brutal-rifters.json](./193005-brutal-rifters.json) |
 | Brutal Runner | 81049 | [81049-brutal-runner.json](./81049-brutal-runner.json) |
@@ -17948,6 +17951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Tracks | 242465 | [242465-burning-tracks.json](./242465-burning-tracks.json) |
 | Burning Vengeance | 241520 | [241520-burning-vengeance.json](./241520-burning-vengeance.json) |
 | Burning Wall | 281976 | [281976-burning-wall.json](./281976-burning-wall.json) |
+| Burning Wood 99 | 176576 | [176576-burning-wood-99.json](./176576-burning-wood-99.json) |
 | Burning, Crackling | 396540 | [396540-burning-crackling.json](./396540-burning-crackling.json) |
 | Burning: Magical Sword | 124516 | [124516-burning-magical-sword.json](./124516-burning-magical-sword.json) |
 | BurningBridges VR | 93738 | [93738-burningbridges-vr.json](./93738-burningbridges-vr.json) |
