@@ -4458,6 +4458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Trap: 25th Anniversary Edition | 28249 | [28249-night-trap-25th-anniversary-edition.json](./28249-night-trap-25th-anniversary-edition.json) |
 | Night Vigil | 289548 | [289548-night-vigil.json](./289548-night-vigil.json) |
 | Night Vigil | 31848 | [31848-night-vigil.json](./31848-night-vigil.json) |
+| Night Vision | 145788 | [145788-night-vision.json](./145788-night-vision.json) |
 | Night Walk | 62008 | [62008-night-walk.json](./62008-night-walk.json) |
 | Night Walker | 231540 | [231540-night-walker.json](./231540-night-walker.json) |
 | Night Walker | 256316 | [256316-night-walker.json](./256316-night-walker.json) |
@@ -6549,6 +6550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonogram Animals | 305913 | [305913-nonogram-animals.json](./305913-nonogram-animals.json) |
 | Nonogram Color | 249635 | [249635-nonogram-color.json](./249635-nonogram-color.json) |
 | Nonogram Desserts | 347759 | [347759-nonogram-desserts.json](./347759-nonogram-desserts.json) |
+| Nonogram Galaxy | 145799 | [145799-nonogram-galaxy.json](./145799-nonogram-galaxy.json) |
 | Nonogram Galaxy 2 | 212699 | [212699-nonogram-galaxy-2.json](./212699-nonogram-galaxy-2.json) |
 | Nonogram Kingdom | 368247 | [368247-nonogram-kingdom.json](./368247-nonogram-kingdom.json) |
 | Nonogram Madness | 102709 | [102709-nonogram-madness.json](./102709-nonogram-madness.json) |
