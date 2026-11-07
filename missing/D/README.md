@@ -368,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dai Sengoku Rance | 278773 | [278773-dai-sengoku-rance.json](./278773-dai-sengoku-rance.json) |
 | Dai Senpu | 44325 | [44325-dai-senpu.json](./44325-dai-senpu.json) |
 | Dai Senryaku VII: Modern Military Tactics | 69530 | [69530-dai-senryaku-vii-modern-military-tactics.json](./69530-dai-senryaku-vii-modern-military-tactics.json) |
+| Dai-1-kai Satellaview-hai Ikuno Dictus Kinen Junkesshou/Kesshou | 151886 | [151886-dai-1-kai-satellaview-hai-ikuno-dictus-kinen-junkesshou-kesshou.json](./151886-dai-1-kai-satellaview-hai-ikuno-dictus-kinen-junkesshou-kesshou.json) |
 | Dai-2-dan: Pokémon Battle Card e+ - Yuruginai Chikara | 355957 | [355957-dai-2-dan-pokemon-battle-card-e-yuruginai-chikara.json](./355957-dai-2-dan-pokemon-battle-card-e-yuruginai-chikara.json) |
 | Dai-2-ji Super Robot Taisen | 240912 | [240912-dai-2-ji-super-robot-taisen.json](./240912-dai-2-ji-super-robot-taisen.json) |
 | Dai-2-ji Super Robot Taisen | 48636 | [48636-dai-2-ji-super-robot-taisen.json](./48636-dai-2-ji-super-robot-taisen.json) |
@@ -383,6 +384,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dai-4-ji Super Robot Taisen | 42563 | [42563-dai-4-ji-super-robot-taisen.json](./42563-dai-4-ji-super-robot-taisen.json) |
 | Dai-chan's Great Adventure: World's End | 320366 | [320366-dai-chans-great-adventure-worlds-end.json](./320366-dai-chans-great-adventure-worlds-end.json) |
 | Dai-Dai-Kakumei | 65394 | [65394-dai-dai-kakumei.json](./65394-dai-dai-kakumei.json) |
+| Dai-ikkai Satellaview-hai Satella Derby Junkesshou/Kesshou | 151887 | [151887-dai-ikkai-satellaview-hai-satella-derby-junkesshou-kesshou.json](./151887-dai-ikkai-satellaview-hai-satella-derby-junkesshou-kesshou.json) |
+| Dai-ikkai Satellaview-hai Satella Sprint Stakes Junkesshou/Kesshou | 151888 | [151888-dai-ikkai-satellaview-hai-satella-sprint-stakes-junkesshou-kesshou.json](./151888-dai-ikkai-satellaview-hai-satella-sprint-stakes-junkesshou-kesshou.json) |
+| Dai-ikkai Satellaview-hai Sharrood Kinen Junkesshou/Kesshou | 151889 | [151889-dai-ikkai-satellaview-hai-sharrood-kinen-junkesshou-kesshou.json](./151889-dai-ikkai-satellaview-hai-sharrood-kinen-junkesshou-kesshou.json) |
 | Daibadestructor | 371008 | [371008-daibadestructor.json](./371008-daibadestructor.json) |
 | Daibakushou: Jinsei Gekijoh | 44415 | [44415-daibakushou-jinsei-gekijoh.json](./44415-daibakushou-jinsei-gekijoh.json) |
 | Daibakushou: Jinsei Gekijoh - Doki-doki Seishun-hen | 38146 | [38146-daibakushou-jinsei-gekijoh-doki-doki-seishun-hen.json](./38146-daibakushou-jinsei-gekijoh-doki-doki-seishun-hen.json) |
@@ -7133,6 +7137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derp Souls | 219241 | [219241-derp-souls.json](./219241-derp-souls.json) |
 | Derpixon x FNF | 270505 | [270505-derpixon-x-fnf.json](./270505-derpixon-x-fnf.json) |
 | Derpy Conga | 122086 | [122086-derpy-conga.json](./122086-derpy-conga.json) |
+| Derpy Deep Drive | 151893 | [151893-derpy-deep-drive.json](./151893-derpy-deep-drive.json) |
 | Derpy Dinos | 74433 | [74433-derpy-dinos.json](./74433-derpy-dinos.json) |
 | Derpy Fight | 74203 | [74203-derpy-fight.json](./74203-derpy-fight.json) |
 | Derpy Fish | 356078 | [356078-derpy-fish.json](./356078-derpy-fish.json) |
@@ -10386,6 +10391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea 6: Defiance of Destiny - Mao | 238314 | [238314-disgaea-6-defiance-of-destiny-mao.json](./238314-disgaea-6-defiance-of-destiny-mao.json) |
 | Disgaea 6: Defiance of Destiny - Pleinair | 238313 | [238313-disgaea-6-defiance-of-destiny-pleinair.json](./238313-disgaea-6-defiance-of-destiny-pleinair.json) |
 | Disgaea 6: Defiance of Destiny - Raspberyl | 238315 | [238315-disgaea-6-defiance-of-destiny-raspberyl.json](./238315-disgaea-6-defiance-of-destiny-raspberyl.json) |
+| Disgaea 6: Defiance of Destiny - Unrelenting Edition | 151926 | [151926-disgaea-6-defiance-of-destiny-unrelenting-edition.json](./151926-disgaea-6-defiance-of-destiny-unrelenting-edition.json) |
 | Disgaea 6: Defiance of Destiny - Usalia | 238316 | [238316-disgaea-6-defiance-of-destiny-usalia.json](./238316-disgaea-6-defiance-of-destiny-usalia.json) |
 | Disgaea 6: Defiance of Destiny - Valvatorez | 238317 | [238317-disgaea-6-defiance-of-destiny-valvatorez.json](./238317-disgaea-6-defiance-of-destiny-valvatorez.json) |
 | Disgaea 7 Complete | 295622 | [295622-disgaea-7-complete.json](./295622-disgaea-7-complete.json) |
@@ -13692,6 +13698,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorei Toushi F: Battle Slave Fantasia | 66649 | [66649-dorei-toushi-f-battle-slave-fantasia.json](./66649-dorei-toushi-f-battle-slave-fantasia.json) |
 | DoReMi Fantasy: Milon's DokiDoki Adventure | 15908 | [15908-doremi-fantasy-milons-dokidoki-adventure.json](./15908-doremi-fantasy-milons-dokidoki-adventure.json) |
 | DoReMi Piano for Kids | 95132 | [95132-doremi-piano-for-kids.json](./95132-doremi-piano-for-kids.json) |
+| DoReMi-ya no Original Sound Witch: Blue Sound Witch | 151898 | [151898-doremi-ya-no-original-sound-witch-blue-sound-witch.json](./151898-doremi-ya-no-original-sound-witch-blue-sound-witch.json) |
+| DoReMi-ya no Original Sound Witch: Power Sound Witch | 151899 | [151899-doremi-ya-no-original-sound-witch-power-sound-witch.json](./151899-doremi-ya-no-original-sound-witch-power-sound-witch.json) |
 | Doremikko | 41315 | [41315-doremikko.json](./41315-doremikko.json) |
 | Dorf the Dwarf | 309378 | [309378-dorf-the-dwarf.json](./309378-dorf-the-dwarf.json) |
 | Dorfromantik | 134799 | [134799-dorfromantik.json](./134799-dorfromantik.json) |
@@ -19356,6 +19364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying Light 2: Stay Human - Chicken Bundle | 243671 | [243671-dying-light-2-stay-human-chicken-bundle.json](./243671-dying-light-2-stay-human-chicken-bundle.json) |
 | Dying Light 2: Stay Human - Cloud Version | 172429 | [172429-dying-light-2-stay-human-cloud-version.json](./172429-dying-light-2-stay-human-cloud-version.json) |
 | Dying Light 2: Stay Human - Collector's Edition | 150146 | [150146-dying-light-2-stay-human-collectors-edition.json](./150146-dying-light-2-stay-human-collectors-edition.json) |
+| Dying Light 2: Stay Human - Deluxe Edition | 151922 | [151922-dying-light-2-stay-human-deluxe-edition.json](./151922-dying-light-2-stay-human-deluxe-edition.json) |
 | Dying Light 2: Stay Human - Hakon Bundle | 256113 | [256113-dying-light-2-stay-human-hakon-bundle.json](./256113-dying-light-2-stay-human-hakon-bundle.json) |
 | Dying Light 2: Stay Human - Reloaded Edition | 322800 | [322800-dying-light-2-stay-human-reloaded-edition.json](./322800-dying-light-2-stay-human-reloaded-edition.json) |
 | Dying Light 2: Stay Human - The Walking Dead Bundle | 259068 | [259068-dying-light-2-stay-human-the-walking-dead-bundle.json](./259068-dying-light-2-stay-human-the-walking-dead-bundle.json) |
