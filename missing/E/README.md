@@ -4968,6 +4968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erotic Jigsaw Puzzle 2 | 150652 | [150652-erotic-jigsaw-puzzle-2.json](./150652-erotic-jigsaw-puzzle-2.json) |
 | Erotic Jigsaw Puzzle 3 | 151588 | [151588-erotic-jigsaw-puzzle-3.json](./151588-erotic-jigsaw-puzzle-3.json) |
 | Erotic Jigsaw Puzzle 5 | 162212 | [162212-erotic-jigsaw-puzzle-5.json](./162212-erotic-jigsaw-puzzle-5.json) |
+| Erotic Jigsaw Puzzle Summer | 154121 | [154121-erotic-jigsaw-puzzle-summer.json](./154121-erotic-jigsaw-puzzle-summer.json) |
 | Erotic Photoshoot | 297092 | [297092-erotic-photoshoot.json](./297092-erotic-photoshoot.json) |
 | Erotic RetrLife! Give Me Your Semen Please, My Master! | 83362 | [83362-erotic-retrlife-give-me-your-semen-please-my-master.json](./83362-erotic-retrlife-give-me-your-semen-please-my-master.json) |
 | Erotic Rhythm | 339764 | [339764-erotic-rhythm.json](./339764-erotic-rhythm.json) |
