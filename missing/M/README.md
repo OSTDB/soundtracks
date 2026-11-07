@@ -1603,6 +1603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Twirler Angel Rabbie | 408264 | [408264-magical-twirler-angel-rabbie.json](./408264-magical-twirler-angel-rabbie.json) |
 | Magical Vacation | 6502 | [6502-magical-vacation.json](./6502-magical-vacation.json) |
 | Magical Valkyrie Lyristia | 153949 | [153949-magical-valkyrie-lyristia.json](./153949-magical-valkyrie-lyristia.json) |
+| Magical Waifus Academy | 157302 | [157302-magical-waifus-academy.json](./157302-magical-waifus-academy.json) |
 | Magical Warrior Diamond Heart | 266691 | [266691-magical-warrior-diamond-heart.json](./266691-magical-warrior-diamond-heart.json) |
 | Magical Warrior Diamond Heart: Alex Route DLC | 293458 | [293458-magical-warrior-diamond-heart-alex-route-dlc.json](./293458-magical-warrior-diamond-heart-alex-route-dlc.json) |
 | Magical Warrior Diamond Heart: Liam Route DLC | 293459 | [293459-magical-warrior-diamond-heart-liam-route-dlc.json](./293459-magical-warrior-diamond-heart-liam-route-dlc.json) |
@@ -3509,6 +3510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marbles in Space | 247817 | [247817-marbles-in-space.json](./247817-marbles-in-space.json) |
 | Marbles Rush | 153819 | [153819-marbles-rush.json](./153819-marbles-rush.json) |
 | Marbles Temple: Zuma Back! | 68916 | [68916-marbles-temple-zuma-back.json](./68916-marbles-temple-zuma-back.json) |
+| Marbles: Razor's Wrath | 157293 | [157293-marbles-razors-wrath.json](./157293-marbles-razors-wrath.json) |
 | Marblesared | 68371 | [68371-marblesared.json](./68371-marblesared.json) |
 | MarbleVerse | 220938 | [220938-marbleverse.json](./220938-marbleverse.json) |
 | Marbling Clear | 281248 | [281248-marbling-clear.json](./281248-marbling-clear.json) |
@@ -5987,7 +5989,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -14319,6 +14320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miyazato San Kyoudai Naizou: Sega Golf Club | 7454 | [7454-miyazato-san-kyoudai-naizou-sega-golf-club.json](./7454-miyazato-san-kyoudai-naizou-sega-golf-club.json) |
 | Miyeon-si Simyulleiteo: Misonyeo Geimui Juingongeul Jojonghaneun Geim | 208656 | [208656-miyeon-si-simyulleiteo-misonyeo-geimui-juingongeul-jojonghaneun-geim.json](./208656-miyeon-si-simyulleiteo-misonyeo-geimui-juingongeul-jojonghaneun-geim.json) |
 | Miyo TD | 226494 | [226494-miyo-td.json](./226494-miyo-td.json) |
+| Míyǔ Nǚhái | 157262 | [157262-miyu-nuhai.json](./157262-miyu-nuhai.json) |
 | Miyu's Cursed Store | 265547 | [265547-miyus-cursed-store.json](./265547-miyus-cursed-store.json) |
 | Miyuki the Shoubushi | 67375 | [67375-miyuki-the-shoubushi.json](./67375-miyuki-the-shoubushi.json) |
 | Miz: Myth of Imaginary Zone | 206419 | [206419-miz-myth-of-imaginary-zone.json](./206419-miz-myth-of-imaginary-zone.json) |
@@ -14968,6 +14970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mogu Valley | 371607 | [371607-mogu-valley.json](./371607-mogu-valley.json) |
 | Mogu-mogu Gombo | 228622 | [228622-mogu-mogu-gombo.json](./228622-mogu-mogu-gombo.json) |
 | Mogu-mogu Rumia | 204242 | [204242-mogu-mogu-rumia.json](./204242-mogu-mogu-rumia.json) |
+| MoGu's Adventure | 157264 | [157264-mogus-adventure.json](./157264-mogus-adventure.json) |
 | Moguchan | 38584 | [38584-moguchan.json](./38584-moguchan.json) |
 | Mogul Maniac | 40788 | [40788-mogul-maniac.json](./40788-mogul-maniac.json) |
 | Mogumogu! Poop Battle | 425443 | [425443-mogumogu-poop-battle.json](./425443-mogumogu-poop-battle.json) |
@@ -20464,6 +20467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dear Dad | 243529 | [243529-my-dear-dad.json](./243529-my-dear-dad.json) |
 | My Dear Delirium | 341349 | [341349-my-dear-delirium.json](./341349-my-dear-delirium.json) |
 | My Dear Farm | 199968 | [199968-my-dear-farm.json](./199968-my-dear-farm.json) |
+| My Dear Frankenstein | 157289 | [157289-my-dear-frankenstein.json](./157289-my-dear-frankenstein.json) |
 | My Dear Hatchet Man | 251074 | [251074-my-dear-hatchet-man.json](./251074-my-dear-hatchet-man.json) |
 | My Dear Love | 311480 | [311480-my-dear-love.json](./311480-my-dear-love.json) |
 | My Dear Neighbor, edition 404 | 178429 | [178429-my-dear-neighbor-edition-404.json](./178429-my-dear-neighbor-edition-404.json) |
