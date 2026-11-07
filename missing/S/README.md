@@ -5195,6 +5195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seifuku Kanojo: Mayoigo Engage | 318255 | [318255-seifuku-kanojo-mayoigo-engage.json](./318255-seifuku-kanojo-mayoigo-engage.json) |
 | Seifuku Kanojo: School Girlfriend | 288018 | [288018-seifuku-kanojo-school-girlfriend.json](./288018-seifuku-kanojo-school-girlfriend.json) |
 | Seifuku: High School Countdown | 234180 | [234180-seifuku-high-school-countdown.json](./234180-seifuku-high-school-countdown.json) |
+| Seiga Kaku Uses Her Amazing Taoist Arts and Gives You a Life Lesson | 149733 | [149733-seiga-kaku-uses-her-amazing-taoist-arts-and-gives-you-a-life-lesson.json](./149733-seiga-kaku-uses-her-amazing-taoist-arts-and-gives-you-a-life-lesson.json) |
 | Seigi no Mikata | 137320 | [137320-seigi-no-mikata.json](./137320-seigi-no-mikata.json) |
 | Seigi no Mikata Giga Trust | 331192 | [331192-seigi-no-mikata-giga-trust.json](./331192-seigi-no-mikata-giga-trust.json) |
 | Seigi no Torishirabe | 240230 | [240230-seigi-no-torishirabe.json](./240230-seigi-no-torishirabe.json) |
@@ -18778,6 +18779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Devourer | 259853 | [259853-soul-devourer.json](./259853-soul-devourer.json) |
 | Soul Dimension | 99732 | [99732-soul-dimension.json](./99732-soul-dimension.json) |
 | Soul Dog TD | 215958 | [215958-soul-dog-td.json](./215958-soul-dog-td.json) |
+| Soul Dossier | 149761 | [149761-soul-dossier.json](./149761-soul-dossier.json) |
 | Soul Dream: Undesired Shift | 173329 | [173329-soul-dream-undesired-shift.json](./173329-soul-dream-undesired-shift.json) |
 | Soul Drifter | 265476 | [265476-soul-drifter.json](./265476-soul-drifter.json) |
 | Soul Eater | 292399 | [292399-soul-eater.json](./292399-soul-eater.json) |
@@ -19729,6 +19731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Evolver | 417943 | [417943-space-evolver.json](./417943-space-evolver.json) |
 | Space Expand | 115132 | [115132-space-expand.json](./115132-space-expand.json) |
 | Space Expedition | 146100 | [146100-space-expedition.json](./146100-space-expedition.json) |
+| Space Explore | 149758 | [149758-space-explore.json](./149758-space-explore.json) |
 | Space Explore VR | 318276 | [318276-space-explore-vr.json](./318276-space-explore-vr.json) |
 | Space Explorer Iyo!! | 180513 | [180513-space-explorer-iyo.json](./180513-space-explorer-iyo.json) |
 | Space Explorers | 174549 | [174549-space-explorers.json](./174549-space-explorers.json) |
@@ -19896,6 +19899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -29391,6 +29395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submachine: Ancient Adventure | 259931 | [259931-submachine-ancient-adventure.json](./259931-submachine-ancient-adventure.json) |
 | Submachine: FLF | 259983 | [259983-submachine-flf.json](./259983-submachine-flf.json) |
 | Submachine: Future Loop Foundation | 19296 | [19296-submachine-future-loop-foundation.json](./19296-submachine-future-loop-foundation.json) |
+| Submachine: Legacy | 149666 | [149666-submachine-legacy.json](./149666-submachine-legacy.json) |
 | Submansion | 334264 | [334264-submansion.json](./334264-submansion.json) |
 | Submarine | 274867 | [274867-submarine.json](./274867-submarine.json) |
 | Submarine | 345761 | [345761-submarine.json](./345761-submarine.json) |
@@ -31583,6 +31588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Haste: Debris DLC | 384296 | [384296-super-haste-debris-dlc.json](./384296-super-haste-debris-dlc.json) |
 | Super Haste: Exclusive Physical Edition | 397631 | [397631-super-haste-exclusive-physical-edition.json](./397631-super-haste-exclusive-physical-edition.json) |
 | Super Haste: Winter DLC | 394064 | [394064-super-haste-winter-dlc.json](./394064-super-haste-winter-dlc.json) |
+| Super Head Ball | 149759 | [149759-super-head-ball.json](./149759-super-head-ball.json) |
 | Super Head Esploder X | 87263 | [87263-super-head-esploder-x.json](./87263-super-head-esploder-x.json) |
 | Super Health Club | 191533 | [191533-super-health-club.json](./191533-super-health-club.json) |
 | Super Heavy Sword | 61134 | [61134-super-heavy-sword.json](./61134-super-heavy-sword.json) |
