@@ -7101,6 +7101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Deck the Halls | 98385 | [98385-hidden-object-deck-the-halls.json](./98385-hidden-object-deck-the-halls.json) |
 | Hidden Object: Detective Agency the Crime of Lord | 261033 | [261033-hidden-object-detective-agency-the-crime-of-lord.json](./261033-hidden-object-detective-agency-the-crime-of-lord.json) |
 | Hidden Object: Detective Holmes - Heirloom | 166622 | [166622-hidden-object-detective-holmes-heirloom.json](./166622-hidden-object-detective-holmes-heirloom.json) |
+| Hidden Object: Detective Story about Ancient Case Premium | 175496 | [175496-hidden-object-detective-story-about-ancient-case-premium.json](./175496-hidden-object-detective-story-about-ancient-case-premium.json) |
 | Hidden Object: Detective Wiltshire Kingdom, The Book is About 33 Knight | 200199 | [200199-hidden-object-detective-wiltshire-kingdom-the-book-is-about-33-knight.json](./200199-hidden-object-detective-wiltshire-kingdom-the-book-is-about-33-knight.json) |
 | Hidden Object: Dog Happy Life | 82160 | [82160-hidden-object-dog-happy-life.json](./82160-hidden-object-dog-happy-life.json) |
 | Hidden Object: Elemental Guardians | 98386 | [98386-hidden-object-elemental-guardians.json](./98386-hidden-object-elemental-guardians.json) |
@@ -7162,6 +7163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Mystery of Notre Dame de Paris | 256218 | [256218-hidden-object-mystery-of-notre-dame-de-paris.json](./256218-hidden-object-mystery-of-notre-dame-de-paris.json) |
 | Hidden Object: Mystery of the Haunted Mansion | 82161 | [82161-hidden-object-mystery-of-the-haunted-mansion.json](./82161-hidden-object-mystery-of-the-haunted-mansion.json) |
 | Hidden Object: Mystery Place | 218413 | [218413-hidden-object-mystery-place.json](./218413-hidden-object-mystery-place.json) |
+| Hidden Object: Mystics in the Cinema - Gold Version | 175472 | [175472-hidden-object-mystics-in-the-cinema-gold-version.json](./175472-hidden-object-mystics-in-the-cinema-gold-version.json) |
 | Hidden Object: Mystique Elves | 83623 | [83623-hidden-object-mystique-elves.json](./83623-hidden-object-mystique-elves.json) |
 | Hidden Object: Nether Worlds | 98585 | [98585-hidden-object-nether-worlds.json](./98585-hidden-object-nether-worlds.json) |
 | Hidden Object: NYC Detective Horror Story - Gold Version | 268832 | [268832-hidden-object-nyc-detective-horror-story-gold-version.json](./268832-hidden-object-nyc-detective-horror-story-gold-version.json) |
@@ -7192,6 +7194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Thumbelina | 98566 | [98566-hidden-object-thumbelina.json](./98566-hidden-object-thumbelina.json) |
 | Hidden Object: Tick Tock | 98584 | [98584-hidden-object-tick-tock.json](./98584-hidden-object-tick-tock.json) |
 | Hidden Object: Tomorrowland - The Land of Machines | 98335 | [98335-hidden-object-tomorrowland-the-land-of-machines.json](./98335-hidden-object-tomorrowland-the-land-of-machines.json) |
+| Hidden Object: Tracks of Terrorin the world Premium | 175474 | [175474-hidden-object-tracks-of-terrorin-the-world-premium.json](./175474-hidden-object-tracks-of-terrorin-the-world-premium.json) |
 | Hidden Object: Travel the World | 98549 | [98549-hidden-object-travel-the-world.json](./98549-hidden-object-travel-the-world.json) |
 | Hidden Object: Travel to Future - Ancient Portals | 261529 | [261529-hidden-object-travel-to-future-ancient-portals.json](./261529-hidden-object-travel-to-future-ancient-portals.json) |
 | Hidden Object: Trick or Treat | 98570 | [98570-hidden-object-trick-or-treat.json](./98570-hidden-object-trick-or-treat.json) |
