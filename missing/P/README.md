@@ -2419,6 +2419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Park Them All! | 297728 | [297728-park-them-all.json](./297728-park-them-all.json) |
 | Park Town: Match 3 Game With a Story | 181649 | [181649-park-town-match-3-game-with-a-story.json](./181649-park-town-match-3-game-with-a-story.json) |
 | Park Up Car | 268972 | [268972-park-up-car.json](./268972-park-up-car.json) |
+| Park Walk | 157297 | [157297-park-walk.json](./157297-park-walk.json) |
 | Parkalien | 148401 | [148401-parkalien.json](./148401-parkalien.json) |
 | Parkan II | 7702 | [7702-parkan-ii.json](./7702-parkan-ii.json) |
 | Parkan: Iron Strategy | 7701 | [7701-parkan-iron-strategy.json](./7701-parkan-iron-strategy.json) |
@@ -18344,6 +18345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Agent | 15995 | [15995-puzzle-agent.json](./15995-puzzle-agent.json) |
 | Puzzle Agent 2 | 6778 | [6778-puzzle-agent-2.json](./6778-puzzle-agent-2.json) |
 | Puzzle Agent 2 HD | 106345 | [106345-puzzle-agent-2-hd.json](./106345-puzzle-agent-2-hd.json) |
+| Puzzle Angry Cat | 157285 | [157285-puzzle-angry-cat.json](./157285-puzzle-angry-cat.json) |
 | Puzzle Animals | 98745 | [98745-puzzle-animals.json](./98745-puzzle-animals.json) |
 | Puzzle Aquarium | 169121 | [169121-puzzle-aquarium.json](./169121-puzzle-aquarium.json) |
 | Puzzle Arcade | 74420 | [74420-puzzle-arcade.json](./74420-puzzle-arcade.json) |
