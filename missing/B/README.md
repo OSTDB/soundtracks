@@ -2001,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Band of Badasses | 355138 | [355138-band-of-badasses.json](./355138-band-of-badasses.json) |
 | Band of Brigands | 291265 | [291265-band-of-brigands.json](./291265-band-of-brigands.json) |
 | Band of Brothers | 148924 | [148924-band-of-brothers.json](./148924-band-of-brothers.json) |
+| Band of Brothers: Deadly sniper | 175457 | [175457-band-of-brothers-deadly-sniper.json](./175457-band-of-brothers-deadly-sniper.json) |
 | Band of Bugs | 22022 | [22022-band-of-bugs.json](./22022-band-of-bugs.json) |
 | Band of Crusaders | 339234 | [339234-band-of-crusaders.json](./339234-band-of-crusaders.json) |
 | Band of Defenders | 56110 | [56110-band-of-defenders.json](./56110-band-of-defenders.json) |
@@ -11949,6 +11950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BOAA: Baako | 138222 | [138222-boaa-baako.json](./138222-boaa-baako.json) |
 | Boar Farm | 383635 | [383635-boar-farm.json](./383635-boar-farm.json) |
 | Board | 204894 | [204894-board.json](./204894-board.json) |
+| Board 2 Death | 175484 | [175484-board-2-death.json](./175484-board-2-death.json) |
 | Board Battlefield | 83186 | [83186-board-battlefield.json](./83186-board-battlefield.json) |
 | Board Defenders | 31648 | [31648-board-defenders.json](./31648-board-defenders.json) |
 | Board Fight | 169314 | [169314-board-fight.json](./169314-board-fight.json) |
