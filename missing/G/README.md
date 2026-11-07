@@ -3561,6 +3561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get the Ball Rolling | 211929 | [211929-get-the-ball-rolling.json](./211929-get-the-ball-rolling.json) |
 | Get The Beer | 273914 | [273914-get-the-beer.json](./273914-get-the-beer.json) |
 | Get the Bunny | 209597 | [209597-get-the-bunny.json](./209597-get-the-bunny.json) |
+| Get the Fluff Out | 184540 | [184540-get-the-fluff-out.json](./184540-get-the-fluff-out.json) |
 | Get the Gems | 32093 | [32093-get-the-gems.json](./32093-get-the-gems.json) |
 | Get the Girl! | 93193 | [93193-get-the-girl.json](./93193-get-the-girl.json) |
 | Get the Glass | 272848 | [272848-get-the-glass.json](./272848-get-the-glass.json) |
@@ -5342,6 +5343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GMDX | 144168 | [144168-gmdx.json](./144168-gmdx.json) |
 | GMH: Good Morning Human! | 289246 | [289246-gmh-good-morning-human.json](./289246-gmh-good-morning-human.json) |
 | GMOTA | 142178 | [142178-gmota.json](./142178-gmota.json) |
+| Gmtk18: Enter the spaceship | 184550 | [184550-gmtk18-enter-the-spaceship.json](./184550-gmtk18-enter-the-spaceship.json) |
 | GMU Blastmaster Battle | 340311 | [340311-gmu-blastmaster-battle.json](./340311-gmu-blastmaster-battle.json) |
 | GMZN: The Little Game Experiment | 179350 | [179350-gmzn-the-little-game-experiment.json](./179350-gmzn-the-little-game-experiment.json) |
 | Gnah! | 61507 | [61507-gnah.json](./61507-gnah.json) |
@@ -10177,6 +10179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian | 38651 | [38651-guardian.json](./38651-guardian.json) |
 | Guardian | 55133 | [55133-guardian.json](./55133-guardian.json) |
 | Guardian Above the Domes | 423199 | [423199-guardian-above-the-domes.json](./423199-guardian-above-the-domes.json) |
+| Guardian Angel | 184560 | [184560-guardian-angel.json](./184560-guardian-angel.json) |
 | Guardian Angel | 299584 | [299584-guardian-angel.json](./299584-guardian-angel.json) |
 | Guardian Angel for Hire | 178585 | [178585-guardian-angel-for-hire.json](./178585-guardian-angel-for-hire.json) |
 | Guardian Chicken | 346505 | [346505-guardian-chicken.json](./346505-guardian-chicken.json) |
