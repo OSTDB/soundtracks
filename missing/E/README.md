@@ -782,6 +782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Chambers | 285508 | [285508-echo-chambers.json](./285508-echo-chambers.json) |
 | Echo Chess | 316998 | [316998-echo-chess.json](./316998-echo-chess.json) |
 | Echo Combat | 103345 | [103345-echo-combat.json](./103345-echo-combat.json) |
+| Echo Delta | 176037 | [176037-echo-delta.json](./176037-echo-delta.json) |
 | Echo Divide | 224313 | [224313-echo-divide.json](./224313-echo-divide.json) |
 | Echo Drop! | 383482 | [383482-echo-drop.json](./383482-echo-drop.json) |
 | Echo Extract | 342722 | [342722-echo-extract.json](./342722-echo-extract.json) |
@@ -6027,6 +6028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Damnation | 264549 | [264549-eternal-damnation.json](./264549-eternal-damnation.json) |
 | Eternal Damnation | 66350 | [66350-eternal-damnation.json](./66350-eternal-damnation.json) |
 | Eternal Dark Winter | 370859 | [370859-eternal-dark-winter.json](./370859-eternal-dark-winter.json) |
+| Eternal Darkness | 176035 | [176035-eternal-darkness.json](./176035-eternal-darkness.json) |
 | Eternal Decay Souls | 387493 | [387493-eternal-decay-souls.json](./387493-eternal-decay-souls.json) |
 | Eternal Degrade | 383927 | [383927-eternal-degrade.json](./383927-eternal-degrade.json) |
 | Eternal Descent: Heavy Metal Heroes | 60849 | [60849-eternal-descent-heavy-metal-heroes.json](./60849-eternal-descent-heavy-metal-heroes.json) |
