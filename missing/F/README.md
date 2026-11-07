@@ -4111,6 +4111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feud | 113037 | [113037-feud.json](./113037-feud.json) |
 | Feud | 12094 | [12094-feud.json](./12094-feud.json) |
 | Feudal Alloy | 65820 | [65820-feudal-alloy.json](./65820-feudal-alloy.json) |
+| Feudal Baron: King's Land | 159967 | [159967-feudal-baron-kings-land.json](./159967-feudal-baron-kings-land.json) |
 | Feudal Bros: Tonosama #1 | 326646 | [326646-feudal-bros-tonosama-1.json](./326646-feudal-bros-tonosama-1.json) |
 | Feudal Craft | 358256 | [358256-feudal-craft.json](./358256-feudal-craft.json) |
 | Feudal Friends | 239587 | [239587-feudal-friends.json](./239587-feudal-friends.json) |
