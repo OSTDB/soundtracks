@@ -7744,6 +7744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates In Love | 232852 | [232852-pirates-in-love.json](./232852-pirates-in-love.json) |
 | Pirates in Love: Captain's Cut | 232853 | [232853-pirates-in-love-captains-cut.json](./232853-pirates-in-love-captains-cut.json) |
 | Pirates Jigsaw Puzzle for Kids & Toddlers | 203698 | [203698-pirates-jigsaw-puzzle-for-kids-and-toddlers.json](./203698-pirates-jigsaw-puzzle-for-kids-and-toddlers.json) |
+| Pirates Job | 154145 | [154145-pirates-job.json](./154145-pirates-job.json) |
 | Pirates Journey | 235418 | [235418-pirates-journey.json](./235418-pirates-journey.json) |
 | Pirates Kingdom | 323170 | [323170-pirates-kingdom.json](./323170-pirates-kingdom.json) |
 | Pirates Never Die | 329297 | [329297-pirates-never-die.json](./329297-pirates-never-die.json) |
@@ -14639,6 +14640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia: Rival Swords | 22020 | [22020-prince-of-persia-rival-swords.json](./22020-prince-of-persia-rival-swords.json) |
 | Prince of Persia: Rival Swords | 243129 | [243129-prince-of-persia-rival-swords.json](./243129-prince-of-persia-rival-swords.json) |
 | Prince of Persia: Rival Swords | 243130 | [243130-prince-of-persia-rival-swords.json](./243130-prince-of-persia-rival-swords.json) |
+| Prince of Persia: The Dagger of Time | 154143 | [154143-prince-of-persia-the-dagger-of-time.json](./154143-prince-of-persia-the-dagger-of-time.json) |
 | Prince of Persia: The Forgotten Sands | 142709 | [142709-prince-of-persia-the-forgotten-sands.json](./142709-prince-of-persia-the-forgotten-sands.json) |
 | Prince of Persia: The Forgotten Sands | 142712 | [142712-prince-of-persia-the-forgotten-sands.json](./142712-prince-of-persia-the-forgotten-sands.json) |
 | Prince of Persia: The Forgotten Sands | 264363 | [264363-prince-of-persia-the-forgotten-sands.json](./264363-prince-of-persia-the-forgotten-sands.json) |
