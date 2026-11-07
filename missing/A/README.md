@@ -10444,6 +10444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Love Chat Girls | 380394 | [380394-anime-love-chat-girls.json](./380394-anime-love-chat-girls.json) |
 | Anime Love Life | 301216 | [301216-anime-love-life.json](./301216-anime-love-life.json) |
 | Anime Manga Style Girl: Color By Number Pixel Art Coloring | 370758 | [370758-anime-manga-style-girl-color-by-number-pixel-art-coloring.json](./370758-anime-manga-style-girl-color-by-number-pixel-art-coloring.json) |
+| Anime Match | 157816 | [157816-anime-match.json](./157816-anime-match.json) |
 | Anime Memes | 405608 | [405608-anime-memes.json](./405608-anime-memes.json) |
 | Anime Minesweeper | 392464 | [392464-anime-minesweeper.json](./392464-anime-minesweeper.json) |
 | Anime Mother Life Simulator | 376264 | [376264-anime-mother-life-simulator.json](./376264-anime-mother-life-simulator.json) |
@@ -13410,6 +13411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic Zone | 210639 | [210639-arctic-zone.json](./210639-arctic-zone.json) |
 | Arctic's Adventure | 264704 | [264704-arctics-adventure.json](./264704-arctics-adventure.json) |
 | Arctica | 379712 | [379712-arctica.json](./379712-arctica.json) |
+| ArcticBoy: The Interactive Story | 157813 | [157813-arcticboy-the-interactive-story.json](./157813-arcticboy-the-interactive-story.json) |
 | Arcticfox | 11913 | [11913-arcticfox.json](./11913-arcticfox.json) |
 | Arcticfox | 14517 | [14517-arcticfox.json](./14517-arcticfox.json) |
 | Arcticide | 249053 | [249053-arcticide.json](./249053-arcticide.json) |
@@ -16818,7 +16820,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
