@@ -5165,6 +5165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Th3_M1dday_L4dies | 392887 | [392887-th3-m1dday-l4dies.json](./392887-th3-m1dday-l4dies.json) |
 | Th3-M15 Guild | 268140 | [268140-th3-m15-guild.json](./268140-th3-m15-guild.json) |
 | Thailand Bus Simulator | 384617 | [384617-thailand-bus-simulator.json](./384617-thailand-bus-simulator.json) |
+| Thalamus | 188742 | [188742-thalamus.json](./188742-thalamus.json) |
 | Thalamus Collection 1 | 299490 | [299490-thalamus-collection-1.json](./299490-thalamus-collection-1.json) |
 | Thalamus: The Hits 2 | 137468 | [137468-thalamus-the-hits-2.json](./137468-thalamus-the-hits-2.json) |
 | Thalassa: Edge of the Abyss | 250287 | [250287-thalassa-edge-of-the-abyss.json](./250287-thalassa-edge-of-the-abyss.json) |
@@ -9775,6 +9776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fox Awaits Me: Limited Edition | 188644 | [188644-the-fox-awaits-me-limited-edition.json](./188644-the-fox-awaits-me-limited-edition.json) |
 | The Fox Hare Disaster: Chapter One | 321882 | [321882-the-fox-hare-disaster-chapter-one.json](./321882-the-fox-hare-disaster-chapter-one.json) |
 | The Fox of Capistrano | 407404 | [407404-the-fox-of-capistrano.json](./407404-the-fox-of-capistrano.json) |
+| The Fox's Drawing World | 188748 | [188748-the-foxs-drawing-world.json](./188748-the-foxs-drawing-world.json) |
 | The Fox's Dream | 383162 | [383162-the-foxs-dream.json](./383162-the-foxs-dream.json) |
 | The Fox's Way Home | 308875 | [308875-the-foxs-way-home.json](./308875-the-foxs-way-home.json) |
 | The Foxglove Catcher | 229755 | [229755-the-foxglove-catcher.json](./229755-the-foxglove-catcher.json) |
@@ -23645,6 +23647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Whaley 2 | 312978 | [312978-tiny-whaley-2.json](./312978-tiny-whaley-2.json) |
 | Tiny Whoop GO | 144143 | [144143-tiny-whoop-go.json](./144143-tiny-whoop-go.json) |
 | Tiny Wings | 7780 | [7780-tiny-wings.json](./7780-tiny-wings.json) |
+| Tiny Witch | 188725 | [188725-tiny-witch.json](./188725-tiny-witch.json) |
 | Tiny Wizard Tavern | 412388 | [412388-tiny-wizard-tavern.json](./412388-tiny-wizard-tavern.json) |
 | Tiny World | 117595 | [117595-tiny-world.json](./117595-tiny-world.json) |
 | Tiny World | 234586 | [234586-tiny-world.json](./234586-tiny-world.json) |
@@ -25913,6 +25916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total blade | 278290 | [278290-total-blade.json](./278290-total-blade.json) |
 | Total Carnage | 12868 | [12868-total-carnage.json](./12868-total-carnage.json) |
 | Total Carnage | 196441 | [196441-total-carnage.json](./196441-total-carnage.json) |
+| Total Catastrophe | 188761 | [188761-total-catastrophe.json](./188761-total-catastrophe.json) |
 | Total Chaos | 125766 | [125766-total-chaos.json](./125766-total-chaos.json) |
 | Total Chaos | 301071 | [301071-total-chaos.json](./301071-total-chaos.json) |
 | Total Chaos Against Apathy | 387453 | [387453-total-chaos-against-apathy.json](./387453-total-chaos-against-apathy.json) |
@@ -29936,6 +29940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped Summoner | 38495 | [38495-trapped-summoner.json](./38495-trapped-summoner.json) |
 | Trapped Summoner: Taigren's Secrets | 172194 | [172194-trapped-summoner-taigrens-secrets.json](./172194-trapped-summoner-taigrens-secrets.json) |
 | Trapped Terrors | 299535 | [299535-trapped-terrors.json](./299535-trapped-terrors.json) |
+| Trapped VR | 188741 | [188741-trapped-vr.json](./188741-trapped-vr.json) |
 | Trapped with Ivy & Piper | 385859 | [385859-trapped-with-ivy-and-piper.json](./385859-trapped-with-ivy-and-piper.json) |
 | Trapped with Jester | 215188 | [215188-trapped-with-jester.json](./215188-trapped-with-jester.json) |
 | Trapped With the Dolls VR | 28666 | [28666-trapped-with-the-dolls-vr.json](./28666-trapped-with-the-dolls-vr.json) |
@@ -32286,6 +32291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tumblebugs 2 | 53858 | [53858-tumblebugs-2.json](./53858-tumblebugs-2.json) |
 | Tumbledown Drive | 190043 | [190043-tumbledown-drive.json](./190043-tumbledown-drive.json) |
 | Tumbledrop | 61843 | [61843-tumbledrop.json](./61843-tumbledrop.json) |
+| Tumblefire | 188738 | [188738-tumblefire.json](./188738-tumblefire.json) |
 | TumblePop | 25694 | [25694-tumblepop.json](./25694-tumblepop.json) |
 | Tumbles | 350056 | [350056-tumbles.json](./350056-tumbles.json) |
 | TumbleSeed | 27051 | [27051-tumbleseed.json](./27051-tumbleseed.json) |
