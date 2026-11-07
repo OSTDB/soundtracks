@@ -3220,6 +3220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of Alurya | 272333 | [272333-realms-of-alurya.json](./272333-realms-of-alurya.json) |
 | Realms of Antiquity: The Shattered Crown | 163275 | [163275-realms-of-antiquity-the-shattered-crown.json](./163275-realms-of-antiquity-the-shattered-crown.json) |
 | Realms of Arcana | 287776 | [287776-realms-of-arcana.json](./287776-realms-of-arcana.json) |
+| Realms of Arkania 1+2 | 155258 | [155258-realms-of-arkania-1-2.json](./155258-realms-of-arkania-1-2.json) |
 | Realms of Arkania 2 - Star Trail Classic | 36434 | [36434-realms-of-arkania-2-star-trail-classic.json](./36434-realms-of-arkania-2-star-trail-classic.json) |
 | Realms of Arkania III: Shadows over Riva | 2498 | [2498-realms-of-arkania-iii-shadows-over-riva.json](./2498-realms-of-arkania-iii-shadows-over-riva.json) |
 | Realms of Arkania Vol. 2: Star Trail | 70931 | [70931-realms-of-arkania-vol-2-star-trail.json](./70931-realms-of-arkania-vol-2-star-trail.json) |
@@ -3227,6 +3228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of Arkania: Blade of Destiny | 8767 | [8767-realms-of-arkania-blade-of-destiny.json](./8767-realms-of-arkania-blade-of-destiny.json) |
 | Realms of Arkania: Blade of Destiny - For the Gods | 170452 | [170452-realms-of-arkania-blade-of-destiny-for-the-gods.json](./170452-realms-of-arkania-blade-of-destiny-for-the-gods.json) |
 | Realms of Arkania: Blade of Destiny - Ogredeath | 170453 | [170453-realms-of-arkania-blade-of-destiny-ogredeath.json](./170453-realms-of-arkania-blade-of-destiny-ogredeath.json) |
+| Realms of Arkania: Blade of Destiny - With Blade and Brilliance | 155265 | [155265-realms-of-arkania-blade-of-destiny-with-blade-and-brilliance.json](./155265-realms-of-arkania-blade-of-destiny-with-blade-and-brilliance.json) |
 | Realms of Arkania: Blade of Destiny + Star Trail | 93214 | [93214-realms-of-arkania-blade-of-destiny-star-trail.json](./93214-realms-of-arkania-blade-of-destiny-star-trail.json) |
 | Realms of Arkania: Star Trail | 2512 | [2512-realms-of-arkania-star-trail.json](./2512-realms-of-arkania-star-trail.json) |
 | Realms of Arkania: Star Trail | 27346 | [27346-realms-of-arkania-star-trail.json](./27346-realms-of-arkania-star-trail.json) |
@@ -3701,6 +3703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recursion Deluxe | 33924 | [33924-recursion-deluxe.json](./33924-recursion-deluxe.json) |
 | Recursive | 382590 | [382590-recursive.json](./382590-recursive.json) |
 | Recursive Dragon | 103648 | [103648-recursive-dragon.json](./103648-recursive-dragon.json) |
+| Recursive Hate: Spider Hell | 155289 | [155289-recursive-hate-spider-hell.json](./155289-recursive-hate-spider-hell.json) |
 | Recursive Riftfall | 310725 | [310725-recursive-riftfall.json](./310725-recursive-riftfall.json) |
 | Recursive Ruin | 187389 | [187389-recursive-ruin.json](./187389-recursive-ruin.json) |
 | Recursor | 182274 | [182274-recursor.json](./182274-recursor.json) |
@@ -9104,6 +9107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Rice Cooker Revolt | 133717 | [133717-robot-rice-cooker-revolt.json](./133717-robot-rice-cooker-revolt.json) |
 | Robot Rivals | 419595 | [419595-robot-rivals.json](./419595-robot-rivals.json) |
 | Robot Robert | 149048 | [149048-robot-robert.json](./149048-robot-robert.json) |
+| Robot Rogue | 155294 | [155294-robot-rogue.json](./155294-robot-rogue.json) |
 | Robot Ron | 266648 | [266648-robot-ron.json](./266648-robot-ron.json) |
 | Robot Rumble 2 | 113767 | [113767-robot-rumble-2.json](./113767-robot-rumble-2.json) |
 | Robot Rumpus Royale | 230174 | [230174-robot-rumpus-royale.json](./230174-robot-rumpus-royale.json) |
