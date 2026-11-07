@@ -10704,6 +10704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gulag | 115179 | [115179-gulag.json](./115179-gulag.json) |
 | Gulag | 268773 | [268773-gulag.json](./268773-gulag.json) |
 | Gulch Guardians | 252253 | [252253-gulch-guardians.json](./252253-gulch-guardians.json) |
+| Gulch.io | 176580 | [176580-gulch-io.json](./176580-gulch-io.json) |
 | Gulclight TDF2 | 64747 | [64747-gulclight-tdf2.json](./64747-gulclight-tdf2.json) |
 | Guldkorn Expressen | 92880 | [92880-guldkorn-expressen.json](./92880-guldkorn-expressen.json) |
 | Guldkornexpressen | 364461 | [364461-guldkornexpressen.json](./364461-guldkornexpressen.json) |
