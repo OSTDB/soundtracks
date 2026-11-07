@@ -5728,6 +5728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No God for Us | 76333 | [76333-no-god-for-us.json](./76333-no-god-for-us.json) |
 | No Gods of Men | 346764 | [346764-no-gods-of-men.json](./346764-no-gods-of-men.json) |
 | No Gods, Only Ducks | 415902 | [415902-no-gods-only-ducks.json](./415902-no-gods-only-ducks.json) |
+| No Going Back | 170637 | [170637-no-going-back.json](./170637-no-going-back.json) |
 | No Gravity: The Plague Of Mind | 42846 | [42846-no-gravity-the-plague-of-mind.json](./42846-no-gravity-the-plague-of-mind.json) |
 | No Greater Glory: The American Civil War | 72017 | [72017-no-greater-glory-the-american-civil-war.json](./72017-no-greater-glory-the-american-civil-war.json) |
 | No Happy Days | 318355 | [318355-no-happy-days.json](./318355-no-happy-days.json) |
@@ -7173,6 +7174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Lands: Emilia's Mission | 216972 | [216972-nova-lands-emilias-mission.json](./216972-nova-lands-emilias-mission.json) |
 | Nova Odessa | 157355 | [157355-nova-odessa.json](./157355-nova-odessa.json) |
 | Nova Odessa: The Demon Trainer | 202672 | [202672-nova-odessa-the-demon-trainer.json](./202672-nova-odessa-the-demon-trainer.json) |
+| Nova Odessa: The Strange Tower | 170659 | [170659-nova-odessa-the-strange-tower.json](./170659-nova-odessa-the-strange-tower.json) |
 | Nova Parkour | 137945 | [137945-nova-parkour.json](./137945-nova-parkour.json) |
 | Nova Patria | 353828 | [353828-nova-patria.json](./353828-nova-patria.json) |
 | Nova Rally | 373246 | [373246-nova-rally.json](./373246-nova-rally.json) |
