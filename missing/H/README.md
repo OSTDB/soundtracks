@@ -3090,6 +3090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Hunters | 250980 | [250980-head-hunters.json](./250980-head-hunters.json) |
 | Head It!: VR Soccer Heading Game | 30754 | [30754-head-it-vr-soccer-heading-game.json](./30754-head-it-vr-soccer-heading-game.json) |
 | Head Mode | 178948 | [178948-head-mode.json](./178948-head-mode.json) |
+| Head North | 180370 | [180370-head-north.json](./180370-head-north.json) |
 | Head North: The Inevitable | 269604 | [269604-head-north-the-inevitable.json](./269604-head-north-the-inevitable.json) |
 | Head of the Student Council Himeno: Lewd Manifesto | 82613 | [82613-head-of-the-student-council-himeno-lewd-manifesto.json](./82613-head-of-the-student-council-himeno-lewd-manifesto.json) |
 | Head On | 16971 | [16971-head-on.json](./16971-head-on.json) |
@@ -4151,6 +4152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell of a Bullet | 394284 | [394284-hell-of-a-bullet.json](./394284-hell-of-a-bullet.json) |
 | Hell of a marriage | 178503 | [178503-hell-of-a-marriage.json](./178503-hell-of-a-marriage.json) |
 | Hell of an Office | 150002 | [150002-hell-of-an-office.json](./150002-hell-of-an-office.json) |
+| Hell of Fame Game | 180342 | [180342-hell-of-fame-game.json](./180342-hell-of-fame-game.json) |
 | Hell of Fear: Mind Breach | 361595 | [361595-hell-of-fear-mind-breach.json](./361595-hell-of-fear-mind-breach.json) |
 | Hell of Men : Blood Brothers | 121306 | [121306-hell-of-men-blood-brothers.json](./121306-hell-of-men-blood-brothers.json) |
 | Hell of Nightmares: Chapter 1 | 254420 | [254420-hell-of-nightmares-chapter-1.json](./254420-hell-of-nightmares-chapter-1.json) |
@@ -6293,6 +6295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroic Quest | 63747 | [63747-heroic-quest.json](./63747-heroic-quest.json) |
 | Heroic Songs: The Remix! | 369057 | [369057-heroic-songs-the-remix.json](./369057-heroic-songs-the-remix.json) |
 | Heroic Syndrome | 206354 | [206354-heroic-syndrome.json](./206354-heroic-syndrome.json) |
+| Heroic Tale | 180364 | [180364-heroic-tale.json](./180364-heroic-tale.json) |
 | Heroic Tale Value!+ | 259152 | [259152-heroic-tale-value.json](./259152-heroic-tale-value.json) |
 | Heroica: Fortaan | 342868 | [342868-heroica-fortaan.json](./342868-heroica-fortaan.json) |
 | Heroine Anthem XP: The Angel of Sarem | 85760 | [85760-heroine-anthem-xp-the-angel-of-sarem.json](./85760-heroine-anthem-xp-the-angel-of-sarem.json) |
