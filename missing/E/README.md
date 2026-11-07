@@ -7112,6 +7112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everyday Simulator | 184699 | [184699-everyday-simulator.json](./184699-everyday-simulator.json) |
 | Everyday Soccer | 61342 | [61342-everyday-soccer.json](./61342-everyday-soccer.json) |
 | Everyday Sororicide | 380679 | [380679-everyday-sororicide.json](./380679-everyday-sororicide.json) |
+| Everyday Today's Menu for Emiya Family | 146416 | [146416-everyday-todays-menu-for-emiya-family.json](./146416-everyday-todays-menu-for-emiya-family.json) |
 | Everyday Today's Menu for Emiya Family: Lancer Scenario Pack | 238000 | [238000-everyday-todays-menu-for-emiya-family-lancer-scenario-pack.json](./238000-everyday-todays-menu-for-emiya-family-lancer-scenario-pack.json) |
 | Everyone Dies | 127684 | [127684-everyone-dies.json](./127684-everyone-dies.json) |
 | Everyone Fights | 339776 | [339776-everyone-fights.json](./339776-everyone-fights.json) |
@@ -8331,6 +8332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Meatpunks Forever | 105004 | [105004-extreme-meatpunks-forever.json](./105004-extreme-meatpunks-forever.json) |
 | Extreme Meatpunks Forever: Bound by Ash | 142174 | [142174-extreme-meatpunks-forever-bound-by-ash.json](./142174-extreme-meatpunks-forever-bound-by-ash.json) |
 | Extreme Mining | 135035 | [135035-extreme-mining.json](./135035-extreme-mining.json) |
+| Extreme Motorbike Racing | 146414 | [146414-extreme-motorbike-racing.json](./146414-extreme-motorbike-racing.json) |
 | Extreme Motorcross | 209180 | [209180-extreme-motorcross.json](./209180-extreme-motorcross.json) |
 | Extreme Mountain Biking | 94663 | [94663-extreme-mountain-biking.json](./94663-extreme-mountain-biking.json) |
 | Extreme Off-Road Drive | 109206 | [109206-extreme-off-road-drive.json](./109206-extreme-off-road-drive.json) |
