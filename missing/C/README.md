@@ -3600,6 +3600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Master | 11994 | [11994-castle-master.json](./11994-castle-master.json) |
 | Castle Master II: The Crypt | 11995 | [11995-castle-master-ii-the-crypt.json](./11995-castle-master-ii-the-crypt.json) |
 | Castle Master TD | 270165 | [270165-castle-master-td.json](./270165-castle-master-td.json) |
+| Castle Morihisa | 183113 | [183113-castle-morihisa.json](./183113-castle-morihisa.json) |
 | Castle Must Be Mine | 30744 | [30744-castle-must-be-mine.json](./30744-castle-must-be-mine.json) |
 | Castle Nevermore | 274154 | [274154-castle-nevermore.json](./274154-castle-nevermore.json) |
 | Castle of Alchemists | 191808 | [191808-castle-of-alchemists.json](./191808-castle-of-alchemists.json) |
@@ -8501,6 +8502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono | 112964 | [112964-chrono.json](./112964-chrono.json) |
 | Chrono | 306284 | [306284-chrono.json](./306284-chrono.json) |
 | Chrono | 341329 | [341329-chrono.json](./341329-chrono.json) |
+| Chrono Alice | 183155 | [183155-chrono-alice.json](./183155-chrono-alice.json) |
 | Chrono Ark: Deluxe Edition | 367728 | [367728-chrono-ark-deluxe-edition.json](./367728-chrono-ark-deluxe-edition.json) |
 | Chrono Ark: High Roller | 314900 | [314900-chrono-ark-high-roller.json](./314900-chrono-ark-high-roller.json) |
 | Chrono Ark: Summer Twilight | 310011 | [310011-chrono-ark-summer-twilight.json](./310011-chrono-ark-summer-twilight.json) |
@@ -10023,6 +10025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classy Train | 213021 | [213021-classy-train.json](./213021-classy-train.json) |
 | Clatter | 112721 | [112721-clatter.json](./112721-clatter.json) |
 | Clatter | 385397 | [385397-clatter.json](./385397-clatter.json) |
+| Claude and the Phantom | 183105 | [183105-claude-and-the-phantom.json](./183105-claude-and-the-phantom.json) |
 | Claude Monet: The Water Lily Obsession | 117638 | [117638-claude-monet-the-water-lily-obsession.json](./117638-claude-monet-the-water-lily-obsession.json) |
 | Cláudio | 412962 | [412962-claudio.json](./412962-claudio.json) |
 | Claus Adventure | 187371 | [187371-claus-adventure.json](./187371-claus-adventure.json) |
@@ -13723,6 +13726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conqueror's Blade: Season II - Wrath of the Nomads | 157942 | [157942-conquerors-blade-season-ii-wrath-of-the-nomads.json](./157942-conquerors-blade-season-ii-wrath-of-the-nomads.json) |
 | Conqueror's Blade: Season III - Soldiers of Fortune | 157967 | [157967-conquerors-blade-season-iii-soldiers-of-fortune.json](./157967-conquerors-blade-season-iii-soldiers-of-fortune.json) |
 | Conqueror's Blade: Season IV - Blood of the Empire | 158061 | [158061-conquerors-blade-season-iv-blood-of-the-empire.json](./158061-conquerors-blade-season-iv-blood-of-the-empire.json) |
+| Conqueror's Blade: Season IX - Tyranny | 183118 | [183118-conquerors-blade-season-ix-tyranny.json](./183118-conquerors-blade-season-ix-tyranny.json) |
 | Conqueror's Blade: Season V - Legacy of Fire | 158080 | [158080-conquerors-blade-season-v-legacy-of-fire.json](./158080-conquerors-blade-season-v-legacy-of-fire.json) |
 | Conqueror's Blade: Season VI - Scourge of Winter | 158101 | [158101-conquerors-blade-season-vi-scourge-of-winter.json](./158101-conquerors-blade-season-vi-scourge-of-winter.json) |
 | Conqueror's Blade: Season VII - Wolves of Ragnarok | 158108 | [158108-conquerors-blade-season-vii-wolves-of-ragnarok.json](./158108-conquerors-blade-season-vii-wolves-of-ragnarok.json) |
@@ -18310,11 +18314,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CRSED: F.O.A.D. | 103381 | [103381-crsed-f-o-a-d.json](./103381-crsed-f-o-a-d.json) |
 | CRSED: F.O.A.D. - Age of Nagual | 171062 | [171062-crsed-f-o-a-d-age-of-nagual.json](./171062-crsed-f-o-a-d-age-of-nagual.json) |
 | CRSED: F.O.A.D. - Biker Queen | 171057 | [171057-crsed-f-o-a-d-biker-queen.json](./171057-crsed-f-o-a-d-biker-queen.json) |
+| CRSED: F.O.A.D. - Claws | 183138 | [183138-crsed-f-o-a-d-claws.json](./183138-crsed-f-o-a-d-claws.json) |
 | CRSED: F.O.A.D. - Dark Horse | 197562 | [197562-crsed-f-o-a-d-dark-horse.json](./197562-crsed-f-o-a-d-dark-horse.json) |
 | CRSED: F.O.A.D. - Dieselpunk | 222979 | [222979-crsed-f-o-a-d-dieselpunk.json](./222979-crsed-f-o-a-d-dieselpunk.json) |
+| CRSED: F.O.A.D. - Fangs | 183139 | [183139-crsed-f-o-a-d-fangs.json](./183139-crsed-f-o-a-d-fangs.json) |
 | CRSED: F.O.A.D. - Holy Beast | 171059 | [171059-crsed-f-o-a-d-holy-beast.json](./171059-crsed-f-o-a-d-holy-beast.json) |
+| CRSED: F.O.A.D. - Ice Age | 183133 | [183133-crsed-f-o-a-d-ice-age.json](./183133-crsed-f-o-a-d-ice-age.json) |
 | CRSED: F.O.A.D. - Lone Wolf | 171061 | [171061-crsed-f-o-a-d-lone-wolf.json](./171061-crsed-f-o-a-d-lone-wolf.json) |
 | CRSED: F.O.A.D. - Metal Zombie | 171058 | [171058-crsed-f-o-a-d-metal-zombie.json](./171058-crsed-f-o-a-d-metal-zombie.json) |
+| CRSED: F.O.A.D. - Rock Solid | 183137 | [183137-crsed-f-o-a-d-rock-solid.json](./183137-crsed-f-o-a-d-rock-solid.json) |
 | CRSED: F.O.A.D. - Street Kid | 171060 | [171060-crsed-f-o-a-d-street-kid.json](./171060-crsed-f-o-a-d-street-kid.json) |
 | CRSED: F.O.A.D.: The Bear of Wall Street Bundle | 267778 | [267778-crsed-f-o-a-d-the-bear-of-wall-street-bundle.json](./267778-crsed-f-o-a-d-the-bear-of-wall-street-bundle.json) |
 | CRT7 | 210849 | [210849-crt7.json](./210849-crt7.json) |
