@@ -3157,6 +3157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patriots: A Nation Under Fire | 27588 | [27588-patriots-a-nation-under-fire.json](./27588-patriots-a-nation-under-fire.json) |
 | Patriots: Back to Civilization | 182369 | [182369-patriots-back-to-civilization.json](./182369-patriots-back-to-civilization.json) |
 | Patrizier II: Aufschwung der Hanse | 131259 | [131259-patrizier-ii-aufschwung-der-hanse.json](./131259-patrizier-ii-aufschwung-der-hanse.json) |
+| Patrol Against Space Sabotage | 186354 | [186354-patrol-against-space-sabotage.json](./186354-patrol-against-space-sabotage.json) |
 | Patrol no Gunji Hakubutsukan 3: Chouzetsu Muteki Kyuukyoku Heiki | 284347 | [284347-patrol-no-gunji-hakubutsukan-3-chouzetsu-muteki-kyuukyoku-heiki.json](./284347-patrol-no-gunji-hakubutsukan-3-chouzetsu-muteki-kyuukyoku-heiki.json) |
 | Patrol Police: Job Simulator | 223984 | [223984-patrol-police-job-simulator.json](./223984-patrol-police-job-simulator.json) |
 | Patrol Simulator: To Protect and to Serve | 293021 | [293021-patrol-simulator-to-protect-and-to-serve.json](./293021-patrol-simulator-to-protect-and-to-serve.json) |
@@ -17555,6 +17556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punk Shot | 39965 | [39965-punk-shot.json](./39965-punk-shot.json) |
 | Punk Star | 330003 | [330003-punk-star.json](./330003-punk-star.json) |
 | Punk Wars | 150059 | [150059-punk-wars.json](./150059-punk-wars.json) |
+| Punk Wars: Hold the Line | 186386 | [186386-punk-wars-hold-the-line.json](./186386-punk-wars-hold-the-line.json) |
 | Punk Wars: Threat From Within | 201015 | [201015-punk-wars-threat-from-within.json](./201015-punk-wars-threat-from-within.json) |
 | Punk-o-Matic | 243144 | [243144-punk-o-matic.json](./243144-punk-o-matic.json) |
 | Punk-o-Matic 2 | 201931 | [201931-punk-o-matic-2.json](./201931-punk-o-matic-2.json) |
