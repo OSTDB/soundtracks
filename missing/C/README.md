@@ -4198,6 +4198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Tales: Fish | 403426 | [403426-cat-tales-fish.json](./403426-cat-tales-fish.json) |
 | Cat Tales: Premium Edition | 241396 | [241396-cat-tales-premium-edition.json](./241396-cat-tales-premium-edition.json) |
 | Cat Tiles: Matching Puzzle | 232377 | [232377-cat-tiles-matching-puzzle.json](./232377-cat-tiles-matching-puzzle.json) |
+| Cat Tower | 186222 | [186222-cat-tower.json](./186222-cat-tower.json) |
 | Cat Town | 187133 | [187133-cat-town.json](./187133-cat-town.json) |
 | Cat Town Valley | 326502 | [326502-cat-town-valley.json](./326502-cat-town-valley.json) |
 | Cat Train | 177493 | [177493-cat-train.json](./177493-cat-train.json) |
@@ -14777,6 +14778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CorgiSpace | 381084 | [381084-corgispace.json](./381084-corgispace.json) |
 | Corgix | 138698 | [138698-corgix.json](./138698-corgix.json) |
 | Coria and the Sunken City | 141621 | [141621-coria-and-the-sunken-city.json](./141621-coria-and-the-sunken-city.json) |
+| Coriander and the Fall of Orion | 186220 | [186220-coriander-and-the-fall-of-orion.json](./186220-coriander-and-the-fall-of-orion.json) |
 | Corid | 416339 | [416339-corid.json](./416339-corid.json) |
 | Coridden | 158972 | [158972-coridden.json](./158972-coridden.json) |
 | Coridden: Deluxe Edition | 380150 | [380150-coridden-deluxe-edition.json](./380150-coridden-deluxe-edition.json) |
@@ -17060,6 +17062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrazyHousePlanes | 99607 | [99607-crazyhouseplanes.json](./99607-crazyhouseplanes.json) |
 | CrazyKart | 117720 | [117720-crazykart.json](./117720-crazykart.json) |
 | CrazyParty | 192717 | [192717-crazyparty.json](./192717-crazyparty.json) |
+| CrazyRacing AirRider | 186378 | [186378-crazyracing-airrider.json](./186378-crazyracing-airrider.json) |
 | Crazyracing Kartrider | 91272 | [91272-crazyracing-kartrider.json](./91272-crazyracing-kartrider.json) |
 | CrazySonic | 214998 | [214998-crazysonic.json](./214998-crazysonic.json) |
 | CrazyTaiji | 390797 | [390797-crazytaiji.json](./390797-crazytaiji.json) |
