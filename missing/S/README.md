@@ -5939,6 +5939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Served! A Gourmet Race | 104684 | [104684-served-a-gourmet-race.json](./104684-served-a-gourmet-race.json) |
 | Server is Down | 138751 | [138751-server-is-down.json](./138751-server-is-down.json) |
 | Server Owner Tycoon | 211176 | [211176-server-owner-tycoon.json](./211176-server-owner-tycoon.json) |
+| Server Preserver | 177139 | [177139-server-preserver.json](./177139-server-preserver.json) |
 | Server-Admin Simulator | 404189 | [404189-server-admin-simulator.json](./404189-server-admin-simulator.json) |
 | Service Area Simulator | 379065 | [379065-service-area-simulator.json](./379065-service-area-simulator.json) |
 | Service of Five Graces | 395046 | [395046-service-of-five-graces.json](./395046-service-of-five-graces.json) |
@@ -10210,6 +10211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege of the Swine | 167505 | [167505-siege-of-the-swine.json](./167505-siege-of-the-swine.json) |
 | Siege of Treboulain | 190848 | [190848-siege-of-treboulain.json](./190848-siege-of-treboulain.json) |
 | Siege of Turtle Enclave: Arcane Units Pack | 224147 | [224147-siege-of-turtle-enclave-arcane-units-pack.json](./224147-siege-of-turtle-enclave-arcane-units-pack.json) |
+| Siege Physics | 177141 | [177141-siege-physics.json](./177141-siege-physics.json) |
 | Siege Saga | 77633 | [77633-siege-saga.json](./77633-siege-saga.json) |
 | Siege Showdown | 270072 | [270072-siege-showdown.json](./270072-siege-showdown.json) |
 | Siege Survival: Gloria Victis | 145242 | [145242-siege-survival-gloria-victis.json](./145242-siege-survival-gloria-victis.json) |
@@ -18818,6 +18820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Tolerance | 211757 | [211757-soul-tolerance.json](./211757-soul-tolerance.json) |
 | Soul Trader | 333476 | [333476-soul-trader.json](./333476-soul-trader.json) |
 | Soul Trapper: Episode 1 - Ollie Ollie Oxen Free! | 57981 | [57981-soul-trapper-episode-1-ollie-ollie-oxen-free.json](./57981-soul-trapper-episode-1-ollie-ollie-oxen-free.json) |
+| Soul Union | 177117 | [177117-soul-union.json](./177117-soul-union.json) |
 | Soul Unleashed | 213335 | [213335-soul-unleashed.json](./213335-soul-unleashed.json) |
 | Soul Valley | 115956 | [115956-soul-valley.json](./115956-soul-valley.json) |
 | Soul Void | 140826 | [140826-soul-void.json](./140826-soul-void.json) |
@@ -23920,6 +23923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stalin vs. Martians | 8543 | [8543-stalin-vs-martians.json](./8543-stalin-vs-martians.json) |
 | Stalin vs. Martians 4 | 117736 | [117736-stalin-vs-martians-4.json](./117736-stalin-vs-martians-4.json) |
 | Stalin's Dilemma | 73714 | [73714-stalins-dilemma.json](./73714-stalins-dilemma.json) |
+| Stalingrad | 177096 | [177096-stalingrad.json](./177096-stalingrad.json) |
 | Stalingrad 1942 | 412808 | [412808-stalingrad-1942.json](./412808-stalingrad-1942.json) |
 | Stalingrad Abatis | 109888 | [109888-stalingrad-abatis.json](./109888-stalingrad-abatis.json) |
 | Stalk the Giant | 249788 | [249788-stalk-the-giant.json](./249788-stalk-the-giant.json) |
@@ -30985,6 +30989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Concentration | 262370 | [262370-super-concentration.json](./262370-super-concentration.json) |
 | Super Conductor | 183741 | [183741-super-conductor.json](./183741-super-conductor.json) |
 | Super Conductor | 319125 | [319125-super-conductor.json](./319125-super-conductor.json) |
+| Super Connect 4 | 177115 | [177115-super-connect-4.json](./177115-super-connect-4.json) |
 | Super Console Kid | 296506 | [296506-super-console-kid.json](./296506-super-console-kid.json) |
 | Super Contra | 217546 | [217546-super-contra.json](./217546-super-contra.json) |
 | Super Contra | 4622 | [4622-super-contra.json](./4622-super-contra.json) |
