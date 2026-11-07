@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O Tutt'i Cavi Lesi | 267167 | [267167-o-tutti-cavi-lesi.json](./267167-o-tutti-cavi-lesi.json) |
 | O Vagabundo | 290018 | [290018-o-vagabundo.json](./290018-o-vagabundo.json) |
 | O Viajante | 281889 | [281889-o-viajante.json](./281889-o-viajante.json) |
+| O---O | 148100 | [148100-o-o.json](./148100-o-o.json) |
 | O-Bot The Robot | 336608 | [336608-o-bot-the-robot.json](./336608-o-bot-the-robot.json) |
 | O-Bot The Robot 2 | 266225 | [266225-o-bot-the-robot-2.json](./266225-o-bot-the-robot-2.json) |
 | O-Bot The Robot: Re-Botted | 418740 | [418740-o-bot-the-robot-re-botted.json](./418740-o-bot-the-robot-re-botted.json) |
@@ -4292,6 +4293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Origins2 | 130617 | [130617-origins2.json](./130617-origins2.json) |
 | Orika: Rise From The Crash | 336587 | [336587-orika-rise-from-the-crash.json](./336587-orika-rise-from-the-crash.json) |
 | Oriko Days | 385979 | [385979-oriko-days.json](./385979-oriko-days.json) |
+| Orimon.1: Bilfy & Krotroklon | 148106 | [148106-orimon-1-bilfy-and-krotroklon.json](./148106-orimon-1-bilfy-and-krotroklon.json) |
 | Orin | 262850 | [262850-orin.json](./262850-orin.json) |
 | Orin Gamble | 396901 | [396901-orin-gamble.json](./396901-orin-gamble.json) |
 | Orion | 95180 | [95180-orion.json](./95180-orion.json) |
