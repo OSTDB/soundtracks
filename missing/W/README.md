@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacca | 122641 | [122641-wacca.json](./122641-wacca.json) |
 | Wacca Lily | 154744 | [154744-wacca-lily.json](./154744-wacca-lily.json) |
 | Wacca Lily R | 154811 | [154811-wacca-lily-r.json](./154811-wacca-lily-r.json) |
+| Wacca Reverse | 159439 | [159439-wacca-reverse.json](./159439-wacca-reverse.json) |
 | Wacca S | 154743 | [154743-wacca-s.json](./154743-wacca-s.json) |
 | Waccha PriMagi! Studio | 276064 | [276064-waccha-primagi-studio.json](./276064-waccha-primagi-studio.json) |
 | Wacha-wacha Puzzle: Neito to Norowareshi Shukufuku no Mori | 206408 | [206408-wacha-wacha-puzzle-neito-to-norowareshi-shukufuku-no-mori.json](./206408-wacha-wacha-puzzle-neito-to-norowareshi-shukufuku-no-mori.json) |
@@ -2656,6 +2657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way Back Witness | 152688 | [152688-way-back-witness.json](./152688-way-back-witness.json) |
 | Way Beyond | 142031 | [142031-way-beyond.json](./142031-way-beyond.json) |
 | Way Down | 187511 | [187511-way-down.json](./187511-way-down.json) |
+| Way Far Home | 159460 | [159460-way-far-home.json](./159460-way-far-home.json) |
 | Way Home | 95624 | [95624-way-home.json](./95624-way-home.json) |
 | Way in the stars | 156593 | [156593-way-in-the-stars.json](./156593-way-in-the-stars.json) |
 | Way In The Stars: The Threat | 235721 | [235721-way-in-the-stars-the-threat.json](./235721-way-in-the-stars-the-threat.json) |
@@ -3308,6 +3310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Chirpvenience | 368745 | [368745-welcome-to-chirpvenience.json](./368745-welcome-to-chirpvenience.json) |
 | Welcome to Chornobayivka VR | 211275 | [211275-welcome-to-chornobayivka-vr.json](./211275-welcome-to-chornobayivka-vr.json) |
 | Welcome to Desal | 413022 | [413022-welcome-to-desal.json](./413022-welcome-to-desal.json) |
+| Welcome to Dreamville | 159471 | [159471-welcome-to-dreamville.json](./159471-welcome-to-dreamville.json) |
 | Welcome to Dustown | 309796 | [309796-welcome-to-dustown.json](./309796-welcome-to-dustown.json) |
 | Welcome To Eden | 278918 | [278918-welcome-to-eden.json](./278918-welcome-to-eden.json) |
 | Welcome to Ela | 320040 | [320040-welcome-to-ela.json](./320040-welcome-to-ela.json) |
