@@ -966,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -9009,6 +9010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Gold: Shining Town | 418854 | [418854-black-gold-shining-town.json](./418854-black-gold-shining-town.json) |
 | Black Hair Girl is Best Girl | 155007 | [155007-black-hair-girl-is-best-girl.json](./155007-black-hair-girl-is-best-girl.json) |
 | Black Hangman | 112122 | [112122-black-hangman.json](./112122-black-hangman.json) |
+| Black Hat | 180345 | [180345-black-hat.json](./180345-black-hat.json) |
 | Black Hat | 90892 | [90892-black-hat.json](./90892-black-hat.json) |
 | Black Hat Cooperative | 32019 | [32019-black-hat-cooperative.json](./32019-black-hat-cooperative.json) |
 | Black Hawk | 25711 | [25711-black-hawk.json](./25711-black-hawk.json) |
@@ -17520,6 +17522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunker Protection | 281973 | [281973-bunker-protection.json](./281973-bunker-protection.json) |
 | Bunker Renovator | 216649 | [216649-bunker-renovator.json](./216649-bunker-renovator.json) |
 | Bunker Survival | 176098 | [176098-bunker-survival.json](./176098-bunker-survival.json) |
+| Bunker Theory | 180367 | [180367-bunker-theory.json](./180367-bunker-theory.json) |
 | Bunker Tidy Up | 417324 | [417324-bunker-tidy-up.json](./417324-bunker-tidy-up.json) |
 | Bunker-7 | 399345 | [399345-bunker-7.json](./399345-bunker-7.json) |
 | Bunker: Nightmare Begins | 116925 | [116925-bunker-nightmare-begins.json](./116925-bunker-nightmare-begins.json) |
