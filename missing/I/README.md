@@ -5104,6 +5104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interregnum: Dark Archer | 170769 | [170769-interregnum-dark-archer.json](./170769-interregnum-dark-archer.json) |
 | Interrogation 091 | 184592 | [184592-interrogation-091.json](./184592-interrogation-091.json) |
 | Interrogation Simulator | 208333 | [208333-interrogation-simulator.json](./208333-interrogation-simulator.json) |
+| Interrogation: Deceived | 175482 | [175482-interrogation-deceived.json](./175482-interrogation-deceived.json) |
 | Interrogation: You Will Be Deceived | 115118 | [115118-interrogation-you-will-be-deceived.json](./115118-interrogation-you-will-be-deceived.json) |
 | Interrogator | 296407 | [296407-interrogator.json](./296407-interrogator.json) |
 | Interrogator 2 | 370239 | [370239-interrogator-2.json](./370239-interrogator-2.json) |
