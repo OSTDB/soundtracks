@@ -2809,6 +2809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Knight | 199786 | [199786-legendary-knight.json](./199786-legendary-knight.json) |
 | Legendary Larry | 224022 | [224022-legendary-larry.json](./224022-legendary-larry.json) |
 | Legendary Mahjong | 53269 | [53269-legendary-mahjong.json](./53269-legendary-mahjong.json) |
+| Legendary Mahjong 2 | 173937 | [173937-legendary-mahjong-2.json](./173937-legendary-mahjong-2.json) |
 | Legendary Master Idle | 251233 | [251233-legendary-master-idle.json](./251233-legendary-master-idle.json) |
 | Legendary Monsters | 347477 | [347477-legendary-monsters.json](./347477-legendary-monsters.json) |
 | Legendary Mosaics 2: The Stolen Freedom | 186972 | [186972-legendary-mosaics-2-the-stolen-freedom.json](./186972-legendary-mosaics-2-the-stolen-freedom.json) |
@@ -7216,6 +7217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Traveler | 232947 | [232947-lone-traveler.json](./232947-lone-traveler.json) |
 | Lone Vessel | 67603 | [67603-lone-vessel.json](./67603-lone-vessel.json) |
 | Lone Voyage | 345648 | [345648-lone-voyage.json](./345648-lone-voyage.json) |
+| Lone Wolf | 173900 | [173900-lone-wolf.json](./173900-lone-wolf.json) |
 | Lone Wolf | 220402 | [220402-lone-wolf.json](./220402-lone-wolf.json) |
 | Lone Wolf DS I: Flight From The Dark | 308379 | [308379-lone-wolf-ds-i-flight-from-the-dark.json](./308379-lone-wolf-ds-i-flight-from-the-dark.json) |
 | Lone Wolf DS II: Fire On The Water | 341970 | [341970-lone-wolf-ds-ii-fire-on-the-water.json](./341970-lone-wolf-ds-ii-fire-on-the-water.json) |
