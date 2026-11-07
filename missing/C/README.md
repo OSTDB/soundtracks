@@ -17282,6 +17282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Fishing | 370740 | [370740-creepy-fishing.json](./370740-creepy-fishing.json) |
 | Creepy Forest | 224613 | [224613-creepy-forest.json](./224613-creepy-forest.json) |
 | Creepy Halloween Differences | 234172 | [234172-creepy-halloween-differences.json](./234172-creepy-halloween-differences.json) |
+| Creepy Mahjong | 179284 | [179284-creepy-mahjong.json](./179284-creepy-mahjong.json) |
 | Creepy Nights at Freddy's | 241729 | [241729-creepy-nights-at-freddys.json](./241729-creepy-nights-at-freddys.json) |
 | Creepy Person | 365542 | [365542-creepy-person.json](./365542-creepy-person.json) |
 | Creepy Pomni | 316022 | [316022-creepy-pomni.json](./316022-creepy-pomni.json) |
@@ -19810,6 +19811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curious George: Downtown Adventure | 73973 | [73973-curious-george-downtown-adventure.json](./73973-curious-george-downtown-adventure.json) |
 | Curious Paws: Hidden Objects | 409206 | [409206-curious-paws-hidden-objects.json](./409206-curious-paws-hidden-objects.json) |
 | Curious? | 406813 | [406813-curious.json](./406813-curious.json) |
+| Curl Up and Fly! | 179272 | [179272-curl-up-and-fly.json](./179272-curl-up-and-fly.json) |
 | Curl! | 217347 | [217347-curl.json](./217347-curl.json) |
 | Curley Laboratory | 196691 | [196691-curley-laboratory.json](./196691-curley-laboratory.json) |
 | Curling | 147856 | [147856-curling.json](./147856-curling.json) |
