@@ -14050,6 +14050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty Below | 192707 | [192707-bounty-below.json](./192707-bounty-below.json) |
 | Bounty Bob Strikes Back! | 12305 | [12305-bounty-bob-strikes-back.json](./12305-bounty-bob-strikes-back.json) |
 | Bounty Bots | 235286 | [235286-bounty-bots.json](./235286-bounty-bots.json) |
+| Bounty Brawl | 150315 | [150315-bounty-brawl.json](./150315-bounty-brawl.json) |
 | Bounty Brawl: Most Wanted | 368791 | [368791-bounty-brawl-most-wanted.json](./368791-bounty-brawl-most-wanted.json) |
 | Bounty City: 3-Way Battle | 271649 | [271649-bounty-city-3-way-battle.json](./271649-bounty-city-3-way-battle.json) |
 | Bounty Drag Racing: Import Modified Pack 1 | 267074 | [267074-bounty-drag-racing-import-modified-pack-1.json](./267074-bounty-drag-racing-import-modified-pack-1.json) |
@@ -14258,6 +14259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Dash | 196272 | [196272-box-dash.json](./196272-box-dash.json) |
 | Box Dog | 329096 | [329096-box-dog.json](./329096-box-dog.json) |
 | Box Dungeons | 254004 | [254004-box-dungeons.json](./254004-box-dungeons.json) |
+| Box Factory | 150290 | [150290-box-factory.json](./150290-box-factory.json) |
 | Box Forum | 221888 | [221888-box-forum.json](./221888-box-forum.json) |
 | Box Game | 399248 | [399248-box-game.json](./399248-box-game.json) |
 | Box Head: Zombies Must Die! | 267350 | [267350-box-head-zombies-must-die.json](./267350-box-head-zombies-must-die.json) |
