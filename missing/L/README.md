@@ -2970,6 +2970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Time | 31673 | [31673-legends-of-time.json](./31673-legends-of-time.json) |
 | Legends of Tzonac 2: Friendship & Automata | 229612 | [229612-legends-of-tzonac-2-friendship-and-automata.json](./229612-legends-of-tzonac-2-friendship-and-automata.json) |
 | Legends of Tzonac: The Great Dungeon Escape | 229611 | [229611-legends-of-tzonac-the-great-dungeon-escape.json](./229611-legends-of-tzonac-the-great-dungeon-escape.json) |
+| Legends of Valhalla | 149743 | [149743-legends-of-valhalla.json](./149743-legends-of-valhalla.json) |
 | Legends of Valour | 12903 | [12903-legends-of-valour.json](./12903-legends-of-valour.json) |
 | Legends of Venari | 198301 | [198301-legends-of-venari.json](./198301-legends-of-venari.json) |
 | Legends of War | 20014 | [20014-legends-of-war.json](./20014-legends-of-war.json) |
@@ -9733,6 +9734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumber Island: That Special Place | 34444 | [34444-lumber-island-that-special-place.json](./34444-lumber-island-that-special-place.json) |
 | Lumber jacked | 62081 | [62081-lumber-jacked.json](./62081-lumber-jacked.json) |
 | Lumber King | 54474 | [54474-lumber-king.json](./54474-lumber-king.json) |
+| Lumber Party | 149748 | [149748-lumber-party.json](./149748-lumber-party.json) |
 | Lumber Plumber | 403751 | [403751-lumber-plumber.json](./403751-lumber-plumber.json) |
 | Lumber Tycoon Island | 418249 | [418249-lumber-tycoon-island.json](./418249-lumber-tycoon-island.json) |
 | Lumber Valley | 353192 | [353192-lumber-valley.json](./353192-lumber-valley.json) |
