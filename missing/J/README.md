@@ -914,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JDM Tuner Racing | 32886 | [32886-jdm-tuner-racing.json](./32886-jdm-tuner-racing.json) |
 | Jealousy Duel X | 93347 | [93347-jealousy-duel-x.json](./93347-jealousy-duel-x.json) |
 | Jeam's Big Day | 185606 | [185606-jeams-big-day.json](./185606-jeams-big-day.json) |
+| Jean and Josie | 187641 | [187641-jean-and-josie.json](./187641-jean-and-josie.json) |
 | Jean's Boutique | 197028 | [197028-jeans-boutique.json](./197028-jeans-boutique.json) |
 | Jean's Boutique 2 | 95912 | [95912-jeans-boutique-2.json](./95912-jeans-boutique-2.json) |
 | Jean's Boutique Deluxe | 207982 | [207982-jeans-boutique-deluxe.json](./207982-jeans-boutique-deluxe.json) |
@@ -965,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jekyll Hakase no Houma ga Toki | 275067 | [275067-jekyll-hakase-no-houma-ga-toki.json](./275067-jekyll-hakase-no-houma-ga-toki.json) |
 | Jelda II | 78705 | [78705-jelda-ii.json](./78705-jelda-ii.json) |
 | JeliWave | 316862 | [316862-jeliwave.json](./316862-jeliwave.json) |
+| Jelle's Marble League | 187629 | [187629-jelles-marble-league.json](./187629-jelles-marble-league.json) |
 | Jeller Fellers | 337654 | [337654-jeller-fellers.json](./337654-jeller-fellers.json) |
 | Jelli Nook | 349097 | [349097-jelli-nook.json](./349097-jelli-nook.json) |
 | Jellies of the Deep | 309895 | [309895-jellies-of-the-deep.json](./309895-jellies-of-the-deep.json) |
@@ -1361,6 +1363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetpack Vacation | 163085 | [163085-jetpack-vacation.json](./163085-jetpack-vacation.json) |
 | Jetpack Warrior VR | 107684 | [107684-jetpack-warrior-vr.json](./107684-jetpack-warrior-vr.json) |
 | Jetpackin' Heat++ | 161347 | [161347-jetpackin-heat.json](./161347-jetpackin-heat.json) |
+| Jetpackman | 187640 | [187640-jetpackman.json](./187640-jetpackman.json) |
 | Jetpak: Solar Crisis | 213711 | [213711-jetpak-solar-crisis.json](./213711-jetpak-solar-crisis.json) |
 | JetPilot | 93138 | [93138-jetpilot.json](./93138-jetpilot.json) |
 | JetPilot GoNow Demo | 136233 | [136233-jetpilot-gonow-demo.json](./136233-jetpilot-gonow-demo.json) |
