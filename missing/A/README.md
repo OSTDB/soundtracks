@@ -5178,6 +5178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI War: Ancient Shadows | 8888 | [8888-ai-war-ancient-shadows.json](./8888-ai-war-ancient-shadows.json) |
 | AI War: Children of Neinzul | 8886 | [8886-ai-war-children-of-neinzul.json](./8886-ai-war-children-of-neinzul.json) |
 | AI War: Destroyer of Worlds | 8890 | [8890-ai-war-destroyer-of-worlds.json](./8890-ai-war-destroyer-of-worlds.json) |
+| AI War: DLC Pack | 155281 | [155281-ai-war-dlc-pack.json](./155281-ai-war-dlc-pack.json) |
 | AI War: Fleet Command | 7720 | [7720-ai-war-fleet-command.json](./7720-ai-war-fleet-command.json) |
 | AI War: Light of the Spire | 8887 | [8887-ai-war-light-of-the-spire.json](./8887-ai-war-light-of-the-spire.json) |
 | AI War: The Zenith Remnant | 8885 | [8885-ai-war-the-zenith-remnant.json](./8885-ai-war-the-zenith-remnant.json) |
@@ -5619,6 +5620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aircraft War: Extra Level Pack 1 | 170950 | [170950-aircraft-war-extra-level-pack-1.json](./170950-aircraft-war-extra-level-pack-1.json) |
 | Aircraft War: Extra Level Pack 2 | 263196 | [263196-aircraft-war-extra-level-pack-2.json](./263196-aircraft-war-extra-level-pack-2.json) |
 | Aircraft War: Shape Wars | 170951 | [170951-aircraft-war-shape-wars.json](./170951-aircraft-war-shape-wars.json) |
+| Aircraft War: Space Wars | 155261 | [155261-aircraft-war-space-wars.json](./155261-aircraft-war-space-wars.json) |
 | Aircraft War: Tank Wars | 170952 | [170952-aircraft-war-tank-wars.json](./170952-aircraft-war-tank-wars.json) |
 | Aircraft Wars | 341580 | [341580-aircraft-wars.json](./341580-aircraft-wars.json) |
 | Aircrafter | 379858 | [379858-aircrafter.json](./379858-aircrafter.json) |
@@ -15147,6 +15149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of the Singularity II | 359885 | [359885-ashes-of-the-singularity-ii.json](./359885-ashes-of-the-singularity-ii.json) |
 | Ashes of the Singularity: Escalation - Co-Op Map Pack | 224354 | [224354-ashes-of-the-singularity-escalation-co-op-map-pack.json](./224354-ashes-of-the-singularity-escalation-co-op-map-pack.json) |
 | Ashes of the Singularity: Escalation - Core Worlds | 186880 | [186880-ashes-of-the-singularity-escalation-core-worlds.json](./186880-ashes-of-the-singularity-escalation-core-worlds.json) |
+| Ashes of the Singularity: Escalation - Epic Map Pack | 155282 | [155282-ashes-of-the-singularity-escalation-epic-map-pack.json](./155282-ashes-of-the-singularity-escalation-epic-map-pack.json) |
 | Ashes of the Singularity: Escalation - Gauntlet | 124815 | [124815-ashes-of-the-singularity-escalation-gauntlet.json](./124815-ashes-of-the-singularity-escalation-gauntlet.json) |
 | Ashes of the Singularity: Escalation - Gauntlet | 170302 | [170302-ashes-of-the-singularity-escalation-gauntlet.json](./170302-ashes-of-the-singularity-escalation-gauntlet.json) |
 | Ashes of the Singularity: Escalation - Hunter / Prey | 167315 | [167315-ashes-of-the-singularity-escalation-hunter-prey.json](./167315-ashes-of-the-singularity-escalation-hunter-prey.json) |
@@ -15154,6 +15157,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of the Singularity: Escalation - Juggernaut | 170301 | [170301-ashes-of-the-singularity-escalation-juggernaut.json](./170301-ashes-of-the-singularity-escalation-juggernaut.json) |
 | Ashes of the Singularity: Escalation - Oblivion | 124828 | [124828-ashes-of-the-singularity-escalation-oblivion.json](./124828-ashes-of-the-singularity-escalation-oblivion.json) |
 | Ashes of the Singularity: Escalation - Oblivion | 170299 | [170299-ashes-of-the-singularity-escalation-oblivion.json](./170299-ashes-of-the-singularity-escalation-oblivion.json) |
+| Ashes of the Singularity: Escalation - Overlord Scenario Pack | 155284 | [155284-ashes-of-the-singularity-escalation-overlord-scenario-pack.json](./155284-ashes-of-the-singularity-escalation-overlord-scenario-pack.json) |
+| Ashes of the Singularity: Escalation - Secret Missions | 155283 | [155283-ashes-of-the-singularity-escalation-secret-missions.json](./155283-ashes-of-the-singularity-escalation-secret-missions.json) |
 | Ashes of the Singularity: Escalation - Secret Missions | 170300 | [170300-ashes-of-the-singularity-escalation-secret-missions.json](./170300-ashes-of-the-singularity-escalation-secret-missions.json) |
 | Ashes of the Singularity: Escalation - Turtle Wars | 170298 | [170298-ashes-of-the-singularity-escalation-turtle-wars.json](./170298-ashes-of-the-singularity-escalation-turtle-wars.json) |
 | Ashes of the Singularity: Escalation Gold | 52605 | [52605-ashes-of-the-singularity-escalation-gold.json](./52605-ashes-of-the-singularity-escalation-gold.json) |
@@ -18607,6 +18612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azure Reflections | 60315 | [60315-azure-reflections.json](./60315-azure-reflections.json) |
 | Azure Saga: Pathfinder - Deluxe Edition | 116009 | [116009-azure-saga-pathfinder-deluxe-edition.json](./116009-azure-saga-pathfinder-deluxe-edition.json) |
 | Azure Sheep | 150595 | [150595-azure-sheep.json](./150595-azure-sheep.json) |
+| Azure Sky | 155273 | [155273-azure-sky.json](./155273-azure-sky.json) |
 | Azure Sky Project | 67908 | [67908-azure-sky-project.json](./67908-azure-sky-project.json) |
 | Azure Striker Gunvolt | 10373 | [10373-azure-striker-gunvolt.json](./10373-azure-striker-gunvolt.json) |
 | Azure Striker Gunvolt 2 | 18197 | [18197-azure-striker-gunvolt-2.json](./18197-azure-striker-gunvolt-2.json) |
