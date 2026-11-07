@@ -226,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 0 Day | 30555 | [30555-0-day.json](./30555-0-day.json) |
 | 0 Day Attack on Earth | 6172 | [6172-0-day-attack-on-earth.json](./6172-0-day-attack-on-earth.json) |
 | 0 de Waru Kinou | 376633 | [376633-0-de-waru-kinou.json](./376633-0-de-waru-kinou.json) |
+| 0 Degrees | 148083 | [148083-0-degrees.json](./148083-0-degrees.json) |
 | 0 Gravity Y3030 | 59721 | [59721-0-gravity-y3030.json](./59721-0-gravity-y3030.json) |
 | 0 Rally Desert Race: Offroad Dirt Simulator | 264501 | [264501-0-rally-desert-race-offroad-dirt-simulator.json](./264501-0-rally-desert-race-offroad-dirt-simulator.json) |
 | 0 to X | 142108 | [142108-0-to-x.json](./142108-0-to-x.json) |
