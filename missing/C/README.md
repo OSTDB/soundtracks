@@ -5413,6 +5413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cemantle & Pedantle | 194956 | [194956-cemantle-and-pedantle.json](./194956-cemantle-and-pedantle.json) |
 | Cement Factory | 232791 | [232791-cement-factory.json](./232791-cement-factory.json) |
 | Cement Factory | 367832 | [367832-cement-factory.json](./367832-cement-factory.json) |
+| Cement Mixer Simulator 2003 | 165845 | [165845-cement-mixer-simulator-2003.json](./165845-cement-mixer-simulator-2003.json) |
 | Cement Truck | 105921 | [105921-cement-truck.json](./105921-cement-truck.json) |
 | Cemetary | 276401 | [276401-cemetary.json](./276401-cemetary.json) |
 | Cemetery Defence | 268308 | [268308-cemetery-defence.json](./268308-cemetery-defence.json) |
