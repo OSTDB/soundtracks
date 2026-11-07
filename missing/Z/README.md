@@ -715,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Quest | 283072 | [283072-zen-quest.json](./283072-zen-quest.json) |
 | Zen Quest Garden: Cherry Blossom | 338058 | [338058-zen-quest-garden-cherry-blossom.json](./338058-zen-quest-garden-cherry-blossom.json) |
 | Zen Rage | 319223 | [319223-zen-rage.json](./319223-zen-rage.json) |
+| Zen Shards | 165239 | [165239-zen-shards.json](./165239-zen-shards.json) |
 | Zen Studios VR Collection | 107642 | [107642-zen-studios-vr-collection.json](./107642-zen-studios-vr-collection.json) |
 | Zen Trails | 173074 | [173074-zen-trails.json](./173074-zen-trails.json) |
 | Zen Training | 316067 | [316067-zen-training.json](./316067-zen-training.json) |
