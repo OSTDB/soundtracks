@@ -1779,6 +1779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omen | 359714 | [359714-omen.json](./359714-omen.json) |
 | Omen Exitio: Hunger | 236941 | [236941-omen-exitio-hunger.json](./236941-omen-exitio-hunger.json) |
 | Omen Fall | 251805 | [251805-omen-fall.json](./251805-omen-fall.json) |
+| Omen of Rain | 180377 | [180377-omen-of-rain.json](./180377-omen-of-rain.json) |
 | Omen of Sorrow | 27070 | [27070-omen-of-sorrow.json](./27070-omen-of-sorrow.json) |
 | Omen: Flesh Metal & Magic | 36934 | [36934-omen-flesh-metal-and-magic.json](./36934-omen-flesh-metal-and-magic.json) |
 | Omensight: Definitive Edition | 112879 | [112879-omensight-definitive-edition.json](./112879-omensight-definitive-edition.json) |
