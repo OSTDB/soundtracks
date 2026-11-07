@@ -3142,6 +3142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Really Simple Golf | 303712 | [303712-really-simple-golf.json](./303712-really-simple-golf.json) |
 | Really Trash Game | 137872 | [137872-really-trash-game.json](./137872-really-trash-game.json) |
 | Really Unique Space Shooter | 136237 | [136237-really-unique-space-shooter.json](./136237-really-unique-space-shooter.json) |
+| Really Weird Pool | 152554 | [152554-really-weird-pool.json](./152554-really-weird-pool.json) |
 | Really? Really! RiaRiaDS | 330554 | [330554-really-really-riariads.json](./330554-really-really-riariads.json) |
 | Realm | 127516 | [127516-realm.json](./127516-realm.json) |
 | Realm | 348391 | [348391-realm.json](./348391-realm.json) |
@@ -4669,6 +4670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReignMaker | 17162 | [17162-reignmaker.json](./17162-reignmaker.json) |
 | Reignman | 99033 | [99033-reignman.json](./99033-reignman.json) |
 | Reigns | 22436 | [22436-reigns.json](./22436-reigns.json) |
+| Reigns of Samosbor | 152973 | [152973-reigns-of-samosbor.json](./152973-reigns-of-samosbor.json) |
 | Reigns: Beyond | 139875 | [139875-reigns-beyond.json](./139875-reigns-beyond.json) |
 | Reigns: Complete Set | 300835 | [300835-reigns-complete-set.json](./300835-reigns-complete-set.json) |
 | Reigns: Game of Thrones | 107237 | [107237-reigns-game-of-thrones.json](./107237-reigns-game-of-thrones.json) |
@@ -5780,6 +5782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resistance: The 8th Wave | 192689 | [192689-resistance-the-8th-wave.json](./192689-resistance-the-8th-wave.json) |
 | Resistor | 252786 | [252786-resistor.json](./252786-resistor.json) |
 | Resize Me! | 365386 | [365386-resize-me.json](./365386-resize-me.json) |
+| Reskue | 152949 | [152949-reskue.json](./152949-reskue.json) |
 | reSnake | 230734 | [230734-resnake.json](./230734-resnake.json) |
 | Reso-Seeker | 244630 | [244630-reso-seeker.json](./244630-reso-seeker.json) |
 | Resobeat | 377046 | [377046-resobeat.json](./377046-resobeat.json) |
