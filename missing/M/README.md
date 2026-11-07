@@ -5489,6 +5489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match, Talk, Date!: A Modern Dating Sim! | 258937 | [258937-match-talk-date-a-modern-dating-sim.json](./258937-match-talk-date-a-modern-dating-sim.json) |
 | Match: Isekai Journey | 417613 | [417613-match-isekai-journey.json](./417613-match-isekai-journey.json) |
 | Match! The 12 CZ Wars | 372064 | [372064-match-the-12-cz-wars.json](./372064-match-the-12-cz-wars.json) |
+| Match3 mania! | 168495 | [168495-match3-mania.json](./168495-match3-mania.json) |
 | Matcha | 211159 | [211159-matcha.json](./211159-matcha.json) |
 | Matcha Warriors | 129394 | [129394-matcha-warriors.json](./129394-matcha-warriors.json) |
 | Matchball Tennis | 54207 | [54207-matchball-tennis.json](./54207-matchball-tennis.json) |
@@ -5978,7 +5979,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -20588,6 +20588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Friends the Monster Trainers | 394097 | [394097-my-friends-the-monster-trainers.json](./394097-my-friends-the-monster-trainers.json) |
 | My Frogger Toy Trials | 11482 | [11482-my-frogger-toy-trials.json](./11482-my-frogger-toy-trials.json) |
 | My Furry Detective | 192160 | [192160-my-furry-detective.json](./192160-my-furry-detective.json) |
+| My Furry Dictator | 168512 | [168512-my-furry-dictator.json](./168512-my-furry-dictator.json) |
 | My Furry Girlfriend | 244196 | [244196-my-furry-girlfriend.json](./244196-my-furry-girlfriend.json) |
 | My Furry Maid | 199472 | [199472-my-furry-maid.json](./199472-my-furry-maid.json) |
 | My Furry Protogen | 204165 | [204165-my-furry-protogen.json](./204165-my-furry-protogen.json) |
@@ -22072,6 +22073,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Defense | 30581 | [30581-mystic-defense.json](./30581-mystic-defense.json) |
 | Mystic Destinies: Echoes | 76284 | [76284-mystic-destinies-echoes.json](./76284-mystic-destinies-echoes.json) |
 | Mystic Destinies: Serendipity of Aeons | 33805 | [33805-mystic-destinies-serendipity-of-aeons.json](./33805-mystic-destinies-serendipity-of-aeons.json) |
+| Mystic Destinies: Serendipity of Aeons - Deluxe Edition | 168502 | [168502-mystic-destinies-serendipity-of-aeons-deluxe-edition.json](./168502-mystic-destinies-serendipity-of-aeons-deluxe-edition.json) |
+| Mystic Destinies: Serendipity of Aeons - Hikaru: Book 1 | 168501 | [168501-mystic-destinies-serendipity-of-aeons-hikaru-book-1.json](./168501-mystic-destinies-serendipity-of-aeons-hikaru-book-1.json) |
+| Mystic Destinies: Serendipity of Aeons - Hikaru: Book II | 168505 | [168505-mystic-destinies-serendipity-of-aeons-hikaru-book-ii.json](./168505-mystic-destinies-serendipity-of-aeons-hikaru-book-ii.json) |
+| Mystic Destinies: Serendipity of Aeons - Shinji | 168496 | [168496-mystic-destinies-serendipity-of-aeons-shinji.json](./168496-mystic-destinies-serendipity-of-aeons-shinji.json) |
+| Mystic Destinies: Serendipity of Aeons - Shinji Epilogue | 168503 | [168503-mystic-destinies-serendipity-of-aeons-shinji-epilogue.json](./168503-mystic-destinies-serendipity-of-aeons-shinji-epilogue.json) |
+| Mystic Destinies: Serendipity of Aeons - Shou | 168504 | [168504-mystic-destinies-serendipity-of-aeons-shou.json](./168504-mystic-destinies-serendipity-of-aeons-shou.json) |
+| Mystic Destinies: Serendipity of Aeons - Shou Epilogue | 168500 | [168500-mystic-destinies-serendipity-of-aeons-shou-epilogue.json](./168500-mystic-destinies-serendipity-of-aeons-shou-epilogue.json) |
+| Mystic Destinies: Serendipity of Aeons - Takumi | 168497 | [168497-mystic-destinies-serendipity-of-aeons-takumi.json](./168497-mystic-destinies-serendipity-of-aeons-takumi.json) |
+| Mystic Destinies: Serendipity of Aeons - Tatsuya | 168498 | [168498-mystic-destinies-serendipity-of-aeons-tatsuya.json](./168498-mystic-destinies-serendipity-of-aeons-tatsuya.json) |
+| Mystic Destinies: Serendipity of Aeons - Tatsuya Epilogue | 168499 | [168499-mystic-destinies-serendipity-of-aeons-tatsuya-epilogue.json](./168499-mystic-destinies-serendipity-of-aeons-tatsuya-epilogue.json) |
 | Mystic Diamonds | 146571 | [146571-mystic-diamonds.json](./146571-mystic-diamonds.json) |
 | Mystic Diary: Lost Brother | 32216 | [32216-mystic-diary-lost-brother.json](./32216-mystic-diary-lost-brother.json) |
 | Mystic Diary: Wizard's Legacy | 416491 | [416491-mystic-diary-wizards-legacy.json](./416491-mystic-diary-wizards-legacy.json) |
