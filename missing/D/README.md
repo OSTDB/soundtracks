@@ -4808,6 +4808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathpit 3000 | 74576 | [74576-deathpit-3000.json](./74576-deathpit-3000.json) |
 | Deathpuddle: Choose Violence? | 309459 | [309459-deathpuddle-choose-violence.json](./309459-deathpuddle-choose-violence.json) |
 | Deathray | 285010 | [285010-deathray.json](./285010-deathray.json) |
+| Deathroids | 166907 | [166907-deathroids.json](./166907-deathroids.json) |
 | DeathRoll | 307000 | [307000-deathroll.json](./307000-deathroll.json) |
 | Deathrow | 5811 | [5811-deathrow.json](./5811-deathrow.json) |
 | Deathrun | 276214 | [276214-deathrun.json](./276214-deathrun.json) |
@@ -4897,6 +4898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deca Sports 3 | 20699 | [20699-deca-sports-3.json](./20699-deca-sports-3.json) |
 | Deca Sports Extreme | 6755 | [6755-deca-sports-extreme.json](./6755-deca-sports-extreme.json) |
 | Deca Sports Freedom | 2661 | [2661-deca-sports-freedom.json](./2661-deca-sports-freedom.json) |
+| Decabristov Street | 166887 | [166887-decabristov-street.json](./166887-decabristov-street.json) |
 | Decade | 328368 | [328368-decade.json](./328368-decade.json) |
 | Decadence | 256799 | [256799-decadence.json](./256799-decadence.json) |
 | Decadence | 346640 | [346640-decadence.json](./346640-decadence.json) |
@@ -8642,6 +8644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Soccer City | 248277 | [248277-dice-soccer-city.json](./248277-dice-soccer-city.json) |
 | Dice Strategy | 319742 | [319742-dice-strategy.json](./319742-dice-strategy.json) |
 | Dice Survivor | 240603 | [240603-dice-survivor.json](./240603-dice-survivor.json) |
+| Dice Tactics | 166900 | [166900-dice-tactics.json](./166900-dice-tactics.json) |
 | Dice Tactics: Demon King Chapters 2, 3, 4 | 168835 | [168835-dice-tactics-demon-king-chapters-2-3-4.json](./168835-dice-tactics-demon-king-chapters-2-3-4.json) |
 | Dice Team | 373757 | [373757-dice-team.json](./373757-dice-team.json) |
 | Dice Throne Digital | 388981 | [388981-dice-throne-digital.json](./388981-dice-throne-digital.json) |
@@ -18066,6 +18069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Chess | 28546 | [28546-dungeon-chess.json](./28546-dungeon-chess.json) |
 | Dungeon Chest | 123847 | [123847-dungeon-chest.json](./123847-dungeon-chest.json) |
 | Dungeon Chop Chop | 82020 | [82020-dungeon-chop-chop.json](./82020-dungeon-chop-chop.json) |
+| Dungeon Chronicle | 166889 | [166889-dungeon-chronicle.json](./166889-dungeon-chronicle.json) |
 | Dungeon Clawler | 290897 | [290897-dungeon-clawler.json](./290897-dungeon-clawler.json) |
 | Dungeon Cleaner | 236339 | [236339-dungeon-cleaner.json](./236339-dungeon-cleaner.json) |
 | Dungeon Cleaner | 260667 | [260667-dungeon-cleaner.json](./260667-dungeon-cleaner.json) |
