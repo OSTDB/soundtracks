@@ -4187,6 +4187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inheritance: Ladeina's Path | 227456 | [227456-inheritance-ladeinas-path.json](./227456-inheritance-ladeinas-path.json) |
 | Inherited Shadows | 403838 | [403838-inherited-shadows.json](./403838-inherited-shadows.json) |
 | Inheritors of the Oubliette | 181427 | [181427-inheritors-of-the-oubliette.json](./181427-inheritors-of-the-oubliette.json) |
+| Inheritors2078 | 168511 | [168511-inheritors2078.json](./168511-inheritors2078.json) |
 | Inhibit | 264688 | [264688-inhibit.json](./264688-inhibit.json) |
 | Inhuman | 193276 | [193276-inhuman.json](./193276-inhuman.json) |
 | Inhuman | 350421 | [350421-inhuman.json](./350421-inhuman.json) |
