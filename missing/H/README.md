@@ -1250,6 +1250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanako: Honor & Blade | 36605 | [36605-hanako-honor-and-blade.json](./36605-hanako-honor-and-blade.json) |
 | Hanako's flower shop | 163787 | [163787-hanakos-flower-shop.json](./163787-hanakos-flower-shop.json) |
 | Hanamaru Koumuten | 363672 | [363672-hanamaru-koumuten.json](./363672-hanamaru-koumuten.json) |
+| Hanami | 156806 | [156806-hanami.json](./156806-hanami.json) |
 | Hananezumi | 200742 | [200742-hananezumi.json](./200742-hananezumi.json) |
 | Hanano | 28828 | [28828-hanano.json](./28828-hanano.json) |
 | Hanano Puzzle | 124570 | [124570-hanano-puzzle.json](./124570-hanano-puzzle.json) |
@@ -4854,6 +4855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Asmodeus | 125352 | [125352-hentai-asmodeus.json](./125352-hentai-asmodeus.json) |
 | Hentai ASMR | 365401 | [365401-hentai-asmr.json](./365401-hentai-asmr.json) |
 | Hentai Ayumi | 244081 | [244081-hentai-ayumi.json](./244081-hentai-ayumi.json) |
+| Hentai Babe Buffy | 156787 | [156787-hentai-babe-buffy.json](./156787-hentai-babe-buffy.json) |
 | Hentai Babes: Broken Vows | 365402 | [365402-hentai-babes-broken-vows.json](./365402-hentai-babes-broken-vows.json) |
 | Hentai Babes: Fantasy | 365403 | [365403-hentai-babes-fantasy.json](./365403-hentai-babes-fantasy.json) |
 | Hentai Babes: In Costume | 365404 | [365404-hentai-babes-in-costume.json](./365404-hentai-babes-in-costume.json) |
@@ -5268,6 +5270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai MILF Chloe | 293998 | [293998-hentai-milf-chloe.json](./293998-hentai-milf-chloe.json) |
 | Hentai Milf City | 371375 | [371375-hentai-milf-city.json](./371375-hentai-milf-city.json) |
 | Hentai Milf Quiz | 200774 | [200774-hentai-milf-quiz.json](./200774-hentai-milf-quiz.json) |
+| Hentai Milf Quiz 2 | 156785 | [156785-hentai-milf-quiz-2.json](./156785-hentai-milf-quiz-2.json) |
 | Hentai Milf Quiz 3 | 157897 | [157897-hentai-milf-quiz-3.json](./157897-hentai-milf-quiz-3.json) |
 | Hentai Milf Syndicate | 368076 | [368076-hentai-milf-syndicate.json](./368076-hentai-milf-syndicate.json) |
 | Hentai Milfs | 384595 | [384595-hentai-milfs.json](./384595-hentai-milfs.json) |
@@ -5280,6 +5283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Misuzu | 296670 | [296670-hentai-misuzu.json](./296670-hentai-misuzu.json) |
 | Hentai Mizugi | 367094 | [367094-hentai-mizugi.json](./367094-hentai-mizugi.json) |
 | Hentai Mommy | 379652 | [379652-hentai-mommy.json](./379652-hentai-mommy.json) |
+| Hentai Monster Quiz | 156779 | [156779-hentai-monster-quiz.json](./156779-hentai-monster-quiz.json) |
 | Hentai Monster Quiz 2 | 366500 | [366500-hentai-monster-quiz-2.json](./366500-hentai-monster-quiz-2.json) |
 | Hentai Morgana | 411072 | [411072-hentai-morgana.json](./411072-hentai-morgana.json) |
 | Hentai Mosaique Fix-IT Shoppe | 139429 | [139429-hentai-mosaique-fix-it-shoppe.json](./139429-hentai-mosaique-fix-it-shoppe.json) |
@@ -9238,6 +9242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Alone 2: Lost in New York | 243884 | [243884-home-alone-2-lost-in-new-york.json](./243884-home-alone-2-lost-in-new-york.json) |
 | Home Alone Girlfriend | 76943 | [76943-home-alone-girlfriend.json](./76943-home-alone-girlfriend.json) |
 | Home Alone Survival | 365062 | [365062-home-alone-survival.json](./365062-home-alone-survival.json) |
+| Home and Dungeon | 156786 | [156786-home-and-dungeon.json](./156786-home-and-dungeon.json) |
 | Home Babysitter | 83265 | [83265-home-babysitter.json](./83265-home-babysitter.json) |
 | Home Before Dark | 183360 | [183360-home-before-dark.json](./183360-home-before-dark.json) |
 | Home Before Winter | 372936 | [372936-home-before-winter.json](./372936-home-before-winter.json) |
@@ -11297,6 +11302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How a Body Sounds | 338646 | [338646-how-a-body-sounds.json](./338646-how-a-body-sounds.json) |
 | How a Healthy Hentai Administers Public Service | 207261 | [207261-how-a-healthy-hentai-administers-public-service.json](./207261-how-a-healthy-hentai-administers-public-service.json) |
 | How a Retired Strategist Saved the Country | 221199 | [221199-how-a-retired-strategist-saved-the-country.json](./221199-how-a-retired-strategist-saved-the-country.json) |
+| How a Vampire Loves Human | 156763 | [156763-how-a-vampire-loves-human.json](./156763-how-a-vampire-loves-human.json) |
 | How About Spikes | 103417 | [103417-how-about-spikes.json](./103417-how-about-spikes.json) |
 | How Am I Still Waiting for the Bus? | 348468 | [348468-how-am-i-still-waiting-for-the-bus.json](./348468-how-am-i-still-waiting-for-the-bus.json) |
 | How Are You Doing? | 177496 | [177496-how-are-you-doing.json](./177496-how-are-you-doing.json) |
