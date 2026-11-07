@@ -6160,6 +6160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos of Hearts | 31636 | [31636-chaos-of-hearts.json](./31636-chaos-of-hearts.json) |
 | Chaos of the Periodic Table | 178189 | [178189-chaos-of-the-periodic-table.json](./178189-chaos-of-the-periodic-table.json) |
 | Chaos on Deponia | 5062 | [5062-chaos-on-deponia.json](./5062-chaos-on-deponia.json) |
+| Chaos on Wheels | 149107 | [149107-chaos-on-wheels.json](./149107-chaos-on-wheels.json) |
 | Chaos on Wheels: Deluxe Edition | 370899 | [370899-chaos-on-wheels-deluxe-edition.json](./370899-chaos-on-wheels-deluxe-edition.json) |
 | Chaos Online | 62467 | [62467-chaos-online.json](./62467-chaos-online.json) |
 | Chaos Order | 315532 | [315532-chaos-order.json](./315532-chaos-order.json) |
