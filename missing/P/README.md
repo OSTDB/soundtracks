@@ -1640,6 +1640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper io 2: Gold Edition | 395681 | [395681-paper-io-2-gold-edition.json](./395681-paper-io-2-gold-edition.json) |
 | Paper io 2: Mishmash DLC | 263546 | [263546-paper-io-2-mishmash-dlc.json](./263546-paper-io-2-mishmash-dlc.json) |
 | Paper io 2: Variety Pack | 280616 | [280616-paper-io-2-variety-pack.json](./280616-paper-io-2-variety-pack.json) |
+| Paper Jam! | 155810 | [155810-paper-jam.json](./155810-paper-jam.json) |
 | Paper Kingdom | 279110 | [279110-paper-kingdom.json](./279110-paper-kingdom.json) |
 | Paper Kite: Threads of Longing | 349034 | [349034-paper-kite-threads-of-longing.json](./349034-paper-kite-threads-of-longing.json) |
 | Paper Knight | 386401 | [386401-paper-knight.json](./386401-paper-knight.json) |
@@ -4298,6 +4299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pepez: The game | 341584 | [341584-pepez-the-game.json](./341584-pepez-the-game.json) |
 | Pepi Doctor | 343994 | [343994-pepi-doctor.json](./343994-pepi-doctor.json) |
 | Pepi House | 175697 | [175697-pepi-house.json](./175697-pepi-house.json) |
+| PePiBo: Peregrino Pinata Bowling | 155800 | [155800-pepibo-peregrino-pinata-bowling.json](./155800-pepibo-peregrino-pinata-bowling.json) |
 | Pepita Viajera Arctic | 297181 | [297181-pepita-viajera-arctic.json](./297181-pepita-viajera-arctic.json) |
 | Pépito Returned Home | 269770 | [269770-pepito-returned-home.json](./269770-pepito-returned-home.json) |
 | Pepo | 171047 | [171047-pepo.json](./171047-pepo.json) |
@@ -10200,6 +10202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plot Armor | 123422 | [123422-plot-armor.json](./123422-plot-armor.json) |
 | Plot Hole | 238455 | [238455-plot-hole.json](./238455-plot-hole.json) |
 | Plot of the Druid | 126533 | [126533-plot-of-the-druid.json](./126533-plot-of-the-druid.json) |
+| Plot of the Druid: Nightwatch | 155801 | [155801-plot-of-the-druid-nightwatch.json](./155801-plot-of-the-druid-nightwatch.json) |
 | Plot Twist | 329649 | [329649-plot-twist.json](./329649-plot-twist.json) |
 | Plot! | 291259 | [291259-plot.json](./291259-plot.json) |
 | Plot's 3 | 91538 | [91538-plots-3.json](./91538-plots-3.json) |
