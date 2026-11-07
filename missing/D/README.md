@@ -2624,6 +2624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date A Live: Rio Reincarnation - Deluxe Edition | 227387 | [227387-date-a-live-rio-reincarnation-deluxe-edition.json](./227387-date-a-live-rio-reincarnation-deluxe-edition.json) |
 | Date A Live: Rio Reincarnation HD - Limited Edition | 96104 | [96104-date-a-live-rio-reincarnation-hd-limited-edition.json](./96104-date-a-live-rio-reincarnation-hd-limited-edition.json) |
 | Date A Live: Spirit Pledge | 125935 | [125935-date-a-live-spirit-pledge.json](./125935-date-a-live-spirit-pledge.json) |
+| Date a Mink | 140729 | [140729-date-a-mink.json](./140729-date-a-mink.json) |
 | Date Ariane Remastered | 202478 | [202478-date-ariane-remastered.json](./202478-date-ariane-remastered.json) |
 | Date Banger | 326191 | [326191-date-banger.json](./326191-date-banger.json) |
 | Date de Blackjack | 401060 | [401060-date-de-blackjack.json](./401060-date-de-blackjack.json) |
@@ -12482,6 +12483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domo-kun no Fushigi Terebi | 6383 | [6383-domo-kun-no-fushigi-terebi.json](./6383-domo-kun-no-fushigi-terebi.json) |
 | Domovoy | 301478 | [301478-domovoy.json](./301478-domovoy.json) |
 | Domovoy | 316785 | [316785-domovoy.json](./316785-domovoy.json) |
+| DomSim: Therapeutic Domming | 140728 | [140728-domsim-therapeutic-domming.json](./140728-domsim-therapeutic-domming.json) |
 | Domum | 211965 | [211965-domum.json](./211965-domum.json) |
 | Domus Abscondita | 312765 | [312765-domus-abscondita.json](./312765-domus-abscondita.json) |
 | Domus Monstra | 184694 | [184694-domus-monstra.json](./184694-domus-monstra.json) |
