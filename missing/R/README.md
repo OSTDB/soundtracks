@@ -4885,6 +4885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reliefs The Time of the Lemures | 95210 | [95210-reliefs-the-time-of-the-lemures.json](./95210-reliefs-the-time-of-the-lemures.json) |
 | Relieve | 220485 | [220485-relieve.json](./220485-relieve.json) |
 | Relieve | 277757 | [277757-relieve.json](./277757-relieve.json) |
+| Religion Inc. | 159425 | [159425-religion-inc.json](./159425-religion-inc.json) |
 | Religious Idle | 101695 | [101695-religious-idle.json](./101695-religious-idle.json) |
 | Relik | 74151 | [74151-relik.json](./74151-relik.json) |
 | ReLinked 0.26091975 | 345020 | [345020-relinked-0-26091975.json](./345020-relinked-0-26091975.json) |
@@ -10358,6 +10359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Role Model AI | 243517 | [243517-role-model-ai.json](./243517-role-model-ai.json) |
 | Role of Hex | 144876 | [144876-role-of-hex.json](./144876-role-of-hex.json) |
 | Role of Remains | 217056 | [217056-role-of-remains.json](./217056-role-of-remains.json) |
+| Role Player: Full Immersion | 159467 | [159467-role-player-full-immersion.json](./159467-role-player-full-immersion.json) |
 | Role Player: Ikura Shimai no Nenmaku Portrait - Gurigucha Live | 413743 | [413743-role-player-ikura-shimai-no-nenmaku-portrait-gurigucha-live.json](./413743-role-player-ikura-shimai-no-nenmaku-portrait-gurigucha-live.json) |
 | Role Player: Okayu Shimai no Nenmaku Portrait - Gurigucha Live | 413742 | [413742-role-player-okayu-shimai-no-nenmaku-portrait-gurigucha-live.json](./413742-role-player-okayu-shimai-no-nenmaku-portrait-gurigucha-live.json) |
 | Roles & Dice | 367307 | [367307-roles-and-dice.json](./367307-roles-and-dice.json) |
