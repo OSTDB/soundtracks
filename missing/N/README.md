@@ -2366,6 +2366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Blood: Limited Edition | 323889 | [323889-neon-blood-limited-edition.json](./323889-neon-blood-limited-edition.json) |
 | Neon Boost | 117682 | [117682-neon-boost.json](./117682-neon-boost.json) |
 | Neon Breaker: Endless Arcade | 424615 | [424615-neon-breaker-endless-arcade.json](./424615-neon-breaker-endless-arcade.json) |
+| Neon Bricks | 189786 | [189786-neon-bricks.json](./189786-neon-bricks.json) |
 | Neon Brood | 99599 | [99599-neon-brood.json](./99599-neon-brood.json) |
 | Neon Cat Tickler | 116792 | [116792-neon-cat-tickler.json](./116792-neon-cat-tickler.json) |
 | Neon Caves | 116193 | [116193-neon-caves.json](./116193-neon-caves.json) |
@@ -2750,6 +2751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nero | 388074 | [388074-nero.json](./388074-nero.json) |
 | Nero E Rosso ~Kane no Tame ni Kane wa Naru 2 | 82686 | [82686-nero-e-rosso-kane-no-tame-ni-kane-wa-naru-2.json](./82686-nero-e-rosso-kane-no-tame-ni-kane-wa-naru-2.json) |
 | NERO: Neuro-Evolving Robotic Operatives | 7616 | [7616-nero-neuro-evolving-robotic-operatives.json](./7616-nero-neuro-evolving-robotic-operatives.json) |
+| Nero's Adventure | 189795 | [189795-neros-adventure.json](./189795-neros-adventure.json) |
 | Nerobi | 300485 | [300485-nerobi.json](./300485-nerobi.json) |
 | Nerraia | 192270 | [192270-nerraia.json](./192270-nerraia.json) |
 | Nerts Extreme | 107660 | [107660-nerts-extreme.json](./107660-nerts-extreme.json) |
