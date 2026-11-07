@@ -397,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zazmo Arcade Pack | 81819 | [81819-zazmo-arcade-pack.json](./81819-zazmo-arcade-pack.json) |
 | Zball | 167369 | [167369-zball.json](./167369-zball.json) |
 | Zball II | 149519 | [149519-zball-ii.json](./149519-zball-ii.json) |
+| Zball III | 150827 | [150827-zball-iii.json](./150827-zball-iii.json) |
 | Zball IV | 153316 | [153316-zball-iv.json](./153316-zball-iv.json) |
 | Zball VI | 158574 | [158574-zball-vi.json](./158574-zball-vi.json) |
 | ZBD: Zone Batel Dedrox | 177652 | [177652-zbd-zone-batel-dedrox.json](./177652-zbd-zone-batel-dedrox.json) |
