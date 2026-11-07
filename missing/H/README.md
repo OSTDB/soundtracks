@@ -3695,6 +3695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Hogur | 54079 | [54079-heavy-hogur.json](./54079-heavy-hogur.json) |
 | Heavy Impact | 30485 | [30485-heavy-impact.json](./30485-heavy-impact.json) |
 | Heavy Industries | 176199 | [176199-heavy-industries.json](./176199-heavy-industries.json) |
+| Heavy is the Crown | 180917 | [180917-heavy-is-the-crown.json](./180917-heavy-is-the-crown.json) |
 | Heavy Karate from Hell | 180402 | [180402-heavy-karate-from-hell.json](./180402-heavy-karate-from-hell.json) |
 | Heavy Lies the Crown | 223240 | [223240-heavy-lies-the-crown.json](./223240-heavy-lies-the-crown.json) |
 | Heavy Machinery vs. Shumai | 409528 | [409528-heavy-machinery-vs-shumai.json](./409528-heavy-machinery-vs-shumai.json) |
@@ -3807,6 +3808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hehu and the Taniwha | 98552 | [98552-hehu-and-the-taniwha.json](./98552-hehu-and-the-taniwha.json) |
 | Hei | 115173 | [115173-hei.json](./115173-hei.json) |
 | Hēi'àn Liàolǐ | 111705 | [111705-heian-liaoli.json](./111705-heian-liaoli.json) |
+| Hei$t | 180920 | [180920-hei-t.json](./180920-hei-t.json) |
 | Heian City Story | 299388 | [299388-heian-city-story.json](./299388-heian-city-story.json) |
 | Heian Love Wars | 181512 | [181512-heian-love-wars.json](./181512-heian-love-wars.json) |
 | Heian Onshijo Koi Emaki | 181520 | [181520-heian-onshijo-koi-emaki.json](./181520-heian-onshijo-koi-emaki.json) |
@@ -7689,6 +7691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highrise Guardian | 248084 | [248084-highrise-guardian.json](./248084-highrise-guardian.json) |
 | Highrise Heroes | 241342 | [241342-highrise-heroes.json](./241342-highrise-heroes.json) |
 | Highrollers | 235885 | [235885-highrollers.json](./235885-highrollers.json) |
+| Highschool 101 | 180927 | [180927-highschool-101.json](./180927-highschool-101.json) |
 | Highschool Girlfriend | 75756 | [75756-highschool-girlfriend.json](./75756-highschool-girlfriend.json) |
 | Highschool Romance | 22214 | [22214-highschool-romance.json](./22214-highschool-romance.json) |
 | HighSchool Simulator Battle | 297631 | [297631-highschool-simulator-battle.json](./297631-highschool-simulator-battle.json) |
@@ -10835,6 +10838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Transylvania: Monsters | 105851 | [105851-hotel-transylvania-monsters.json](./105851-hotel-transylvania-monsters.json) |
 | Hotel Transylvania: Scary-Tale Adventures | 185966 | [185966-hotel-transylvania-scary-tale-adventures.json](./185966-hotel-transylvania-scary-tale-adventures.json) |
 | Hotel Transylvania: Social Game | 108821 | [108821-hotel-transylvania-social-game.json](./108821-hotel-transylvania-social-game.json) |
+| Hotel Tycoon | 180923 | [180923-hotel-tycoon.json](./180923-hotel-tycoon.json) |
 | Hotel Tycoon | 414881 | [414881-hotel-tycoon.json](./414881-hotel-tycoon.json) |
 | Hotel Tycoon 2 HD | 101014 | [101014-hotel-tycoon-2-hd.json](./101014-hotel-tycoon-2-hd.json) |
 | Hotel VIP | 384876 | [384876-hotel-vip.json](./384876-hotel-vip.json) |
