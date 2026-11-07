@@ -2258,6 +2258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sausage Hunter | 143901 | [143901-sausage-hunter.json](./143901-sausage-hunter.json) |
 | Sausage Legend 2 | 193877 | [193877-sausage-legend-2.json](./193877-sausage-legend-2.json) |
 | Sausage Legend: Arena | 303800 | [303800-sausage-legend-arena.json](./303800-sausage-legend-arena.json) |
+| Sausage Man | 154151 | [154151-sausage-man.json](./154151-sausage-man.json) |
 | Sausage Sports Club | 29954 | [29954-sausage-sports-club.json](./29954-sausage-sports-club.json) |
 | Sausage vs. Vegetable | 270097 | [270097-sausage-vs-vegetable.json](./270097-sausage-vs-vegetable.json) |
 | Sausage Wars | 224988 | [224988-sausage-wars.json](./224988-sausage-wars.json) |
@@ -12909,6 +12910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skydiving Simulator VR | 83978 | [83978-skydiving-simulator-vr.json](./83978-skydiving-simulator-vr.json) |
 | Skydiving Simulator: Wingsuit Flight | 343555 | [343555-skydiving-simulator-wingsuit-flight.json](./343555-skydiving-simulator-wingsuit-flight.json) |
 | SkydiVR | 138432 | [138432-skydivr.json](./138432-skydivr.json) |
+| Skydom | 154162 | [154162-skydom.json](./154162-skydom.json) |
 | Skydome | 112175 | [112175-skydome.json](./112175-skydome.json) |
 | SkyDribble | 253429 | [253429-skydribble.json](./253429-skydribble.json) |
 | SkyDrift | 9424 | [9424-skydrift.json](./9424-skydrift.json) |
@@ -13851,6 +13853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Sprint | 157859 | [157859-slime-sprint.json](./157859-slime-sprint.json) |
 | Slime Squisher | 331657 | [331657-slime-squisher.json](./331657-slime-squisher.json) |
 | Slime Store Simulator | 344988 | [344988-slime-store-simulator.json](./344988-slime-store-simulator.json) |
+| Slime Story | 154163 | [154163-slime-story.json](./154163-slime-story.json) |
 | Slime Summoner | 184141 | [184141-slime-summoner.json](./184141-slime-summoner.json) |
 | Slime Survivor | 256395 | [256395-slime-survivor.json](./256395-slime-survivor.json) |
 | Slime Survivors | 304878 | [304878-slime-survivors.json](./304878-slime-survivors.json) |
@@ -19648,6 +19651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Drifters 2D | 35036 | [35036-space-drifters-2d.json](./35036-space-drifters-2d.json) |
 | Space Drilling Station | 250028 | [250028-space-drilling-station.json](./250028-space-drilling-station.json) |
 | Space Drone | 379311 | [379311-space-drone.json](./379311-space-drone.json) |
+| Space Drone: Rescue Mission | 154124 | [154124-space-drone-rescue-mission.json](./154124-space-drone-rescue-mission.json) |
 | Space Drop | 290505 | [290505-space-drop.json](./290505-space-drop.json) |
 | Space Drop | 99773 | [99773-space-drop.json](./99773-space-drop.json) |
 | Space Duck: Escape | 330764 | [330764-space-duck-escape.json](./330764-space-duck-escape.json) |
@@ -29312,6 +29316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subject 33 | 379313 | [379313-subject-33.json](./379313-subject-33.json) |
 | Subject 65 | 222752 | [222752-subject-65.json](./222752-subject-65.json) |
 | Subject 9 | 17332 | [17332-subject-9.json](./17332-subject-9.json) |
+| Subject 95 | 154136 | [154136-subject-95.json](./154136-subject-95.json) |
 | Subject Debris | 263851 | [263851-subject-debris.json](./263851-subject-debris.json) |
 | Subject: Dinha | 413857 | [413857-subject-dinha.json](./413857-subject-dinha.json) |
 | Subject: Relictus | 188835 | [188835-subject-relictus.json](./188835-subject-relictus.json) |
@@ -33620,6 +33625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Teacher: The Crazy School | 209856 | [209856-super-teacher-the-crazy-school.json](./209856-super-teacher-the-crazy-school.json) |
 | Super Team Games | 48232 | [48232-super-team-games.json](./48232-super-team-games.json) |
 | Super Technos World: River City & Arcade Classics | 337064 | [337064-super-technos-world-river-city-and-arcade-classics.json](./337064-super-technos-world-river-city-and-arcade-classics.json) |
+| Super Techpack | 154138 | [154138-super-techpack.json](./154138-super-techpack.json) |
 | Super Tekkyu Fight! | 42222 | [42222-super-tekkyu-fight.json](./42222-super-tekkyu-fight.json) |
 | Super Tennis | 147960 | [147960-super-tennis.json](./147960-super-tennis.json) |
 | Super Tennis | 18144 | [18144-super-tennis.json](./18144-super-tennis.json) |
