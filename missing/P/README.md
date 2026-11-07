@@ -4803,6 +4803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Personal Chef to the Stars | 218707 | [218707-personal-chef-to-the-stars.json](./218707-personal-chef-to-the-stars.json) |
 | Personal Disco VR | 28895 | [28895-personal-disco-vr.json](./28895-personal-disco-vr.json) |
 | Personal Finance Simulator | 292977 | [292977-personal-finance-simulator.json](./292977-personal-finance-simulator.json) |
+| Personal Fitness for Men | 148656 | [148656-personal-fitness-for-men.json](./148656-personal-fitness-for-men.json) |
 | Personal Murder Theater: Strangled Roots | 337548 | [337548-personal-murder-theater-strangled-roots.json](./337548-personal-murder-theater-strangled-roots.json) |
 | Personal Nightmare | 12194 | [12194-personal-nightmare.json](./12194-personal-nightmare.json) |
 | Personal Organizer and Phone Book | 93538 | [93538-personal-organizer-and-phone-book.json](./93538-personal-organizer-and-phone-book.json) |
@@ -12304,6 +12305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolyCity Stories: The Affair | 263125 | [263125-polycity-stories-the-affair.json](./263125-polycity-stories-the-affair.json) |
 | PolyClassic: Wild | 163897 | [163897-polyclassic-wild.json](./163897-polyclassic-wild.json) |
 | Polycore | 369742 | [369742-polycore.json](./369742-polycore.json) |
+| PolyCore Defense | 148630 | [148630-polycore-defense.json](./148630-polycore-defense.json) |
 | Polycrusher | 31626 | [31626-polycrusher.json](./31626-polycrusher.json) |
 | PolyCube | 88232 | [88232-polycube.json](./88232-polycube.json) |
 | Polydangerous | 392468 | [392468-polydangerous.json](./392468-polydangerous.json) |
@@ -14681,6 +14683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Stride | 60332 | [60332-prince-of-stride.json](./60332-prince-of-stride.json) |
 | Prince of Suburbia | 197472 | [197472-prince-of-suburbia.json](./197472-prince-of-suburbia.json) |
 | Prince of the Resort | 254950 | [254950-prince-of-the-resort.json](./254950-prince-of-the-resort.json) |
+| Prince of Wallachia | 148726 | [148726-prince-of-wallachia.json](./148726-prince-of-wallachia.json) |
 | Prince or Villain | 254898 | [254898-prince-or-villain.json](./254898-prince-or-villain.json) |
 | Prince Rystiya's Starfleet | 341557 | [341557-prince-rystiyas-starfleet.json](./341557-prince-rystiyas-starfleet.json) |
 | Prince Rystiya's Starship | 341556 | [341556-prince-rystiyas-starship.json](./341556-prince-rystiyas-starship.json) |
