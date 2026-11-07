@@ -6295,6 +6295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demi | 137817 | [137817-demi.json](./137817-demi.json) |
 | Demi and the Fractured Dream | 369843 | [369843-demi-and-the-fractured-dream.json](./369843-demi-and-the-fractured-dream.json) |
 | Demi Daggers | 283616 | [283616-demi-daggers.json](./283616-demi-daggers.json) |
+| Demi-Gods and Semi-Devils 2 Mobile | 174998 | [174998-demi-gods-and-semi-devils-2-mobile.json](./174998-demi-gods-and-semi-devils-2-mobile.json) |
 | Demian | 338825 | [338825-demian.json](./338825-demian.json) |
 | Demian Saga | 243621 | [243621-demian-saga.json](./243621-demian-saga.json) |
 | Demian: The Ritual | 157412 | [157412-demian-the-ritual.json](./157412-demian-the-ritual.json) |
@@ -11881,6 +11882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dojo Assault | 249847 | [249847-dojo-assault.json](./249847-dojo-assault.json) |
 | Dojo City | 311155 | [311155-dojo-city.json](./311155-dojo-city.json) |
 | Dojo Corridor | 147350 | [147350-dojo-corridor.json](./147350-dojo-corridor.json) |
+| Dojo Fight Club | 174951 | [174951-dojo-fight-club.json](./174951-dojo-fight-club.json) |
 | Dojo Masters | 261608 | [261608-dojo-masters.json](./261608-dojo-masters.json) |
 | Dojo Raiders | 411976 | [411976-dojo-raiders.json](./411976-dojo-raiders.json) |
 | Dojoran | 139593 | [139593-dojoran.json](./139593-dojoran.json) |
@@ -13014,6 +13016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle or Die | 252291 | [252291-doodle-or-die.json](./252291-doodle-or-die.json) |
 | Doodle Pool | 64225 | [64225-doodle-pool.json](./64225-doodle-pool.json) |
 | Doodle Road | 369517 | [369517-doodle-road.json](./369517-doodle-road.json) |
+| Doodle Run 3D | 174994 | [174994-doodle-run-3d.json](./174994-doodle-run-3d.json) |
 | Doodle Saver | 252942 | [252942-doodle-saver.json](./252942-doodle-saver.json) |
 | Doodle Smash! | 232578 | [232578-doodle-smash.json](./232578-doodle-smash.json) |
 | Doodle Sprint! | 134445 | [134445-doodle-sprint.json](./134445-doodle-sprint.json) |
@@ -15829,6 +15832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Adventure | 264068 | [264068-dream-adventure.json](./264068-dream-adventure.json) |
 | Dream Aether | 262713 | [262713-dream-aether.json](./262713-dream-aether.json) |
 | Dream Alone | 56033 | [56033-dream-alone.json](./56033-dream-alone.json) |
+| Dream and Lethe Record | 174991 | [174991-dream-and-lethe-record.json](./174991-dream-and-lethe-record.json) |
 | Dream Angling | 100319 | [100319-dream-angling.json](./100319-dream-angling.json) |
 | Dream Animal | 376759 | [376759-dream-animal.json](./376759-dream-animal.json) |
 | Dream Antique | 284315 | [284315-dream-antique.json](./284315-dream-antique.json) |
