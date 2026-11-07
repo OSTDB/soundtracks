@@ -10119,6 +10119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Former Dawn | 322514 | [322514-former-dawn.json](./322514-former-dawn.json) |
 | Former Dawn | 322515 | [322515-former-dawn.json](./322515-former-dawn.json) |
 | Former Future | 128452 | [128452-former-future.json](./128452-former-future.json) |
+| Formerly, A Confession | 180385 | [180385-formerly-a-confession.json](./180385-formerly-a-confession.json) |
 | FormFish | 81833 | [81833-formfish.json](./81833-formfish.json) |
 | Formic Fortress | 405590 | [405590-formic-fortress.json](./405590-formic-fortress.json) |
 | Formicide | 33716 | [33716-formicide.json](./33716-formicide.json) |
