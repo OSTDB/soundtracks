@@ -1193,6 +1193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandora: Kimi no Namae wo, Boku ha Shiru | 221825 | [221825-pandora-kimi-no-namae-wo-boku-ha-shiru.json](./221825-pandora-kimi-no-namae-wo-boku-ha-shiru.json) |
 | Pandora: Purge of Pride | 62995 | [62995-pandora-purge-of-pride.json](./62995-pandora-purge-of-pride.json) |
 | Pandora: Wild Origins | 169139 | [169139-pandora-wild-origins.json](./169139-pandora-wild-origins.json) |
+| Pandora's Box | 191353 | [191353-pandoras-box.json](./191353-pandoras-box.json) |
 | Pandora's Box | 252016 | [252016-pandoras-box.json](./252016-pandoras-box.json) |
 | Pandora's Box | 295983 | [295983-pandoras-box.json](./295983-pandoras-box.json) |
 | Pandora's Box | 330803 | [330803-pandoras-box.json](./330803-pandoras-box.json) |
@@ -1502,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Burgeria to Go! | 96986 | [96986-papas-burgeria-to-go.json](./96986-papas-burgeria-to-go.json) |
 | Papa's Cheeseria | 141812 | [141812-papas-cheeseria.json](./141812-papas-cheeseria.json) |
 | Papa's Cheeseria To Go! | 265876 | [265876-papas-cheeseria-to-go.json](./265876-papas-cheeseria-to-go.json) |
+| Papa's Cluckeria to Go! | 191334 | [191334-papas-cluckeria-to-go.json](./191334-papas-cluckeria-to-go.json) |
 | Papa's Cupcakeria | 210492 | [210492-papas-cupcakeria.json](./210492-papas-cupcakeria.json) |
 | Papa's Cupcakeria to Go! | 100849 | [100849-papas-cupcakeria-to-go.json](./100849-papas-cupcakeria-to-go.json) |
 | Papa's Donuteria | 210502 | [210502-papas-donuteria.json](./210502-papas-donuteria.json) |
@@ -7285,6 +7287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pink Marmalade | 184627 | [184627-pink-marmalade.json](./184627-pink-marmalade.json) |
 | Pink Marmalade 2 | 182652 | [182652-pink-marmalade-2.json](./182652-pink-marmalade-2.json) |
 | Pink Noise | 297975 | [297975-pink-noise.json](./297975-pink-noise.json) |
+| Pink or Blue | 191319 | [191319-pink-or-blue.json](./191319-pink-or-blue.json) |
 | Pink Panther | 219014 | [219014-pink-panther.json](./219014-pink-panther.json) |
 | Pink Panther: Pinkadelic Pursuit | 140700 | [140700-pink-panther-pinkadelic-pursuit.json](./140700-pink-panther-pinkadelic-pursuit.json) |
 | Pink Panther: Pinkadelic Pursuit | 8108 | [8108-pink-panther-pinkadelic-pursuit.json](./8108-pink-panther-pinkadelic-pursuit.json) |
@@ -13551,6 +13554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Play Tennis | 80159 | [80159-power-play-tennis.json](./80159-power-play-tennis.json) |
 | Power Play: Sports Trivia | 24075 | [24075-power-play-sports-trivia.json](./24075-power-play-sports-trivia.json) |
 | Power Plays | 60548 | [60548-power-plays.json](./60548-power-plays.json) |
+| Power Pocket Dash | 191348 | [191348-power-pocket-dash.json](./191348-power-pocket-dash.json) |
 | Power Pocket Koushien | 98512 | [98512-power-pocket-koushien.json](./98512-power-pocket-koushien.json) |
 | Power Pointer | 335080 | [335080-power-pointer.json](./335080-power-pointer.json) |
 | Power Poker | 209897 | [209897-power-poker.json](./209897-power-poker.json) |
@@ -16610,6 +16614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protagon | 55654 | [55654-protagon.json](./55654-protagon.json) |
 | Protagonism | 129079 | [129079-protagonism.json](./129079-protagonism.json) |
 | Protagonist Complex One | 392146 | [392146-protagonist-complex-one.json](./392146-protagonist-complex-one.json) |
+| Protagoras Bleeds | 191314 | [191314-protagoras-bleeds.json](./191314-protagoras-bleeds.json) |
 | Protean Fox | 376751 | [376751-protean-fox.json](./376751-protean-fox.json) |
 | Protec | 335024 | [335024-protec.json](./335024-protec.json) |
 | Protect Eggs | 161718 | [161718-protect-eggs.json](./161718-protect-eggs.json) |
