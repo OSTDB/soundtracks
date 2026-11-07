@@ -622,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Want to Go for a Walk | 341020 | [341020-i-want-to-go-for-a-walk.json](./341020-i-want-to-go-for-a-walk.json) |
 | I Want To Go Home | 278952 | [278952-i-want-to-go-home.json](./278952-i-want-to-go-home.json) |
 | I Want to Go to Mars | 130363 | [130363-i-want-to-go-to-mars.json](./130363-i-want-to-go-to-mars.json) |
+| I want to keep a Windy | 179270 | [179270-i-want-to-keep-a-windy.json](./179270-i-want-to-keep-a-windy.json) |
 | I Want To Make Something Beautiful | 391209 | [391209-i-want-to-make-something-beautiful.json](./391209-i-want-to-make-something-beautiful.json) |
 | I want to monopolize the older sister! | 264952 | [264952-i-want-to-monopolize-the-older-sister.json](./264952-i-want-to-monopolize-the-older-sister.json) |
 | I Want to Play the Villain! | 412542 | [412542-i-want-to-play-the-villain.json](./412542-i-want-to-play-the-villain.json) |
@@ -2575,6 +2576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impact | 257890 | [257890-impact.json](./257890-impact.json) |
 | Impact | 340505 | [340505-impact.json](./340505-impact.json) |
 | Impact of Power | 191376 | [191376-impact-of-power.json](./191376-impact-of-power.json) |
+| Impact Point | 179281 | [179281-impact-point.json](./179281-impact-point.json) |
 | Impact Racing | 20250 | [20250-impact-racing.json](./20250-impact-racing.json) |
 | Impact Space | 212292 | [212292-impact-space.json](./212292-impact-space.json) |
 | Impact to the Head | 408246 | [408246-impact-to-the-head.json](./408246-impact-to-the-head.json) |
@@ -3887,7 +3889,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
