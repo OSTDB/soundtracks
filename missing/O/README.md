@@ -3645,6 +3645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operator: Drones | 257894 | [257894-operator-drones.json](./257894-operator-drones.json) |
 | Operator: Northridge Park | 148333 | [148333-operator-northridge-park.json](./148333-operator-northridge-park.json) |
 | Operator: Observation | 252020 | [252020-operator-observation.json](./252020-operator-observation.json) |
+| Operator8 | 171686 | [171686-operator8.json](./171686-operator8.json) |
 | Operencia: The Stolen Sun | 113212 | [113212-operencia-the-stolen-sun.json](./113212-operencia-the-stolen-sun.json) |
 | Operencia: The Stolen Sun - Explorer's Edition | 154541 | [154541-operencia-the-stolen-sun-explorers-edition.json](./154541-operencia-the-stolen-sun-explorers-edition.json) |
 | Operius | 182319 | [182319-operius.json](./182319-operius.json) |
