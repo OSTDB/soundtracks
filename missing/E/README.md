@@ -2693,6 +2693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elixir | 196378 | [196378-elixir.json](./196378-elixir.json) |
 | Elixir Emporium | 317297 | [317297-elixir-emporium.json](./317297-elixir-emporium.json) |
 | Elixir of Immortality II: The League of Immortality | 101451 | [101451-elixir-of-immortality-ii-the-league-of-immortality.json](./101451-elixir-of-immortality-ii-the-league-of-immortality.json) |
+| Elixir of Imortality: Hidden Object Game | 145113 | [145113-elixir-of-imortality-hidden-object-game.json](./145113-elixir-of-imortality-hidden-object-game.json) |
 | Elixir of Life | 151098 | [151098-elixir-of-life.json](./151098-elixir-of-life.json) |
 | Elixirs | 274561 | [274561-elixirs.json](./274561-elixirs.json) |
 | Eliza | 345129 | [345129-eliza.json](./345129-eliza.json) |
@@ -4464,6 +4465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ephemreal | 166572 | [166572-ephemreal.json](./166572-ephemreal.json) |
 | Epi-Derick | 372481 | [372481-epi-derick.json](./372481-epi-derick.json) |
 | Epic | 12066 | [12066-epic.json](./12066-epic.json) |
+| Epic | 145151 | [145151-epic.json](./145151-epic.json) |
 | Epic | 342746 | [342746-epic.json](./342746-epic.json) |
 | Epic + Inferno: The Odyssey Continues Bundle | 227382 | [227382-epic-inferno-the-odyssey-continues-bundle.json](./227382-epic-inferno-the-odyssey-continues-bundle.json) |
 | Epic 2 | 145204 | [145204-epic-2.json](./145204-epic-2.json) |
