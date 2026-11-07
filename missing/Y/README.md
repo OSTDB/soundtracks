@@ -1095,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You are the Weapon | 230309 | [230309-you-are-the-weapon.json](./230309-you-are-the-weapon.json) |
 | You Are the Wormhole | 128621 | [128621-you-are-the-wormhole.json](./128621-you-are-the-wormhole.json) |
 | You Are Undead | 180665 | [180665-you-are-undead.json](./180665-you-are-undead.json) |
+| You Are What You Eat | 181461 | [181461-you-are-what-you-eat.json](./181461-you-are-what-you-eat.json) |
 | You Arrive In A Town | 138653 | [138653-you-arrive-in-a-town.json](./138653-you-arrive-in-a-town.json) |
 | You Brought a Shield to a Tentacle Fight | 181791 | [181791-you-brought-a-shield-to-a-tentacle-fight.json](./181791-you-brought-a-shield-to-a-tentacle-fight.json) |
 | You Can Buy Every Upgrade | 368743 | [368743-you-can-buy-every-upgrade.json](./368743-you-can-buy-every-upgrade.json) |
