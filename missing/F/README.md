@@ -2486,6 +2486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Frenzy: Forever and Ever! | 201279 | [201279-farm-frenzy-forever-and-ever.json](./201279-farm-frenzy-forever-and-ever.json) |
 | Farm Frenzy: Heave Ho | 34629 | [34629-farm-frenzy-heave-ho.json](./34629-farm-frenzy-heave-ho.json) |
 | Farm Frenzy: Hurricane Season | 35453 | [35453-farm-frenzy-hurricane-season.json](./35453-farm-frenzy-hurricane-season.json) |
+| Farm Frenzy: Refreshed - Collector's Edition | 177101 | [177101-farm-frenzy-refreshed-collectors-edition.json](./177101-farm-frenzy-refreshed-collectors-edition.json) |
 | Farm Frenzy: Viking Heroes | 53057 | [53057-farm-frenzy-viking-heroes.json](./53057-farm-frenzy-viking-heroes.json) |
 | Farm Fun | 359281 | [359281-farm-fun.json](./359281-farm-fun.json) |
 | Farm Garden Simulator | 263963 | [263963-farm-garden-simulator.json](./263963-farm-garden-simulator.json) |
@@ -7139,6 +7140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Rooms | 102361 | [102361-five-rooms.json](./102361-five-rooms.json) |
 | Five S'hIft Masters | 371819 | [371819-five-shift-masters.json](./371819-five-shift-masters.json) |
 | Five Seconds of Bad Music | 109619 | [109619-five-seconds-of-bad-music.json](./109619-five-seconds-of-bad-music.json) |
+| Five Secrets | 177137 | [177137-five-secrets.json](./177137-five-secrets.json) |
 | Five Shifts at Zlata's | 385280 | [385280-five-shifts-at-zlatas.json](./385280-five-shifts-at-zlatas.json) |
 | Five Shows at Wario's | 145343 | [145343-five-shows-at-warios.json](./145343-five-shows-at-warios.json) |
 | Five Sonic Rings Bundle | 210301 | [210301-five-sonic-rings-bundle.json](./210301-five-sonic-rings-bundle.json) |
