@@ -615,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YIIK: A Postmodern RPG | 30206 | [30206-yiik-a-postmodern-rpg.json](./30206-yiik-a-postmodern-rpg.json) |
 | YIIK: I.V | 228310 | [228310-yiik-i-v.json](./228310-yiik-i-v.json) |
 | Yiki Action RPG | 117692 | [117692-yiki-action-rpg.json](./117692-yiki-action-rpg.json) |
+| Yin and Yang | 182608 | [182608-yin-and-yang.json](./182608-yin-and-yang.json) |
 | Yin Peach Blossom | 326935 | [326935-yin-peach-blossom.json](./326935-yin-peach-blossom.json) |
 | Yin Yang | 160091 | [160091-yin-yang.json](./160091-yin-yang.json) |
 | Yin Yang | 280673 | [280673-yin-yang.json](./280673-yin-yang.json) |
