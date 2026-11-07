@@ -789,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xiānjiànjué Wǎngluòbǎn | 161328 | [161328-xianjianjue-wangluoban.json](./161328-xianjianjue-wangluoban.json) |
 | Xiānjiè Huàn Shì Lù | 368728 | [368728-xianjie-huan-shi-lu.json](./368728-xianjie-huan-shi-lu.json) |
 | Xiānlù Zhìyì | 164060 | [164060-xianlu-zhiyi.json](./164060-xianlu-zhiyi.json) |
+| Xiānmó Lìng zhī Xuānyuán Jiàn | 154146 | [154146-xianmo-ling-zhi-xuanyuan-jian.json](./154146-xianmo-ling-zhi-xuanyuan-jian.json) |
 | Xiānxiá Díchén Lù | 316674 | [316674-xianxia-dichen-lu.json](./316674-xianxia-dichen-lu.json) |
 | Xiānyù | 113647 | [113647-xianyu.json](./113647-xianyu.json) |
 | Xiānzōng Lù | 288437 | [288437-xianzong-lu.json](./288437-xianzong-lu.json) |
