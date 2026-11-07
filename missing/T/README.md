@@ -18587,6 +18587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vomit | 323535 | [323535-the-vomit.json](./323535-the-vomit.json) |
 | The Vorezkor Hack | 273417 | [273417-the-vorezkor-hack.json](./273417-the-vorezkor-hack.json) |
 | The Vorlec | 266289 | [266289-the-vorlec.json](./266289-the-vorlec.json) |
+| The Vortex | 192496 | [192496-the-vortex.json](./192496-the-vortex.json) |
 | The Vortex: Quantum Gate II | 73235 | [73235-the-vortex-quantum-gate-ii.json](./73235-the-vortex-quantum-gate-ii.json) |
 | The Vox: Tower Defense | 163842 | [163842-the-vox-tower-defense.json](./163842-the-vox-tower-defense.json) |
 | The Voyage Sinister | 338651 | [338651-the-voyage-sinister.json](./338651-the-voyage-sinister.json) |
@@ -19671,6 +19672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There's No Socks: The Extra Challenge | 302940 | [302940-theres-no-socks-the-extra-challenge.json](./302940-theres-no-socks-the-extra-challenge.json) |
 | There's No Such Thing As Bad Publicity | 191798 | [191798-theres-no-such-thing-as-bad-publicity.json](./191798-theres-no-such-thing-as-bad-publicity.json) |
 | There's No Way A Pastry Chef Could Be This Strong! | 82832 | [82832-theres-no-way-a-pastry-chef-could-be-this-strong.json](./82832-theres-no-way-a-pastry-chef-could-be-this-strong.json) |
+| There’s No Way That Tsundere Girl I Met in the Infirmary Will Be My Girlfriend | 192510 | [192510-there-s-no-way-that-tsundere-girl-i-met-in-the-infirmary-will-be-my-girlfriend.json](./192510-there-s-no-way-that-tsundere-girl-i-met-in-the-infirmary-will-be-my-girlfriend.json) |
 | There's Nobody | 218791 | [218791-theres-nobody.json](./218791-theres-nobody.json) |
 | There's Nothing Down There | 397606 | [397606-theres-nothing-down-there.json](./397606-theres-nothing-down-there.json) |
 | There's Nothing Underground | 331290 | [331290-theres-nothing-underground.json](./331290-theres-nothing-underground.json) |
