@@ -2167,6 +2167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satiszone | 332420 | [332420-satiszone.json](./332420-satiszone.json) |
 | Sato | 391968 | [391968-sato.json](./391968-sato.json) |
 | Sato & Hama | 393210 | [393210-sato-and-hama.json](./393210-sato-and-hama.json) |
+| Sato Dreams | 149144 | [149144-sato-dreams.json](./149144-sato-dreams.json) |
 | Sato Killing Time Chat.exe | 395020 | [395020-sato-killing-time-chat-exe.json](./395020-sato-killing-time-chat-exe.json) |
 | Satogaeri | 192382 | [192382-satogaeri.json](./192382-satogaeri.json) |
 | Satolite | 271685 | [271685-satolite.json](./271685-satolite.json) |
@@ -7147,6 +7148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of the Past | 265605 | [265605-shadows-of-the-past.json](./265605-shadows-of-the-past.json) |
 | Shadows of the Past | 364647 | [364647-shadows-of-the-past.json](./364647-shadows-of-the-past.json) |
 | Shadows of the Past | 365752 | [365752-shadows-of-the-past.json](./365752-shadows-of-the-past.json) |
+| Shadows of the Sengoku | 149103 | [149103-shadows-of-the-sengoku.json](./149103-shadows-of-the-sengoku.json) |
 | Shadows of the Tusk | 66118 | [66118-shadows-of-the-tusk.json](./66118-shadows-of-the-tusk.json) |
 | Shadows of the Void | 133720 | [133720-shadows-of-the-void.json](./133720-shadows-of-the-void.json) |
 | Shadows of the Werewolf | 315060 | [315060-shadows-of-the-werewolf.json](./315060-shadows-of-the-werewolf.json) |
@@ -8584,6 +8586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Beyond | 138608 | [138608-shining-beyond.json](./138608-shining-beyond.json) |
 | Shining Blade | 65348 | [65348-shining-blade.json](./65348-shining-blade.json) |
 | Shining Core | 214947 | [214947-shining-core.json](./214947-shining-core.json) |
+| Shining Cubes | 149146 | [149146-shining-cubes.json](./149146-shining-cubes.json) |
 | Shining Empire | 61854 | [61854-shining-empire.json](./61854-shining-empire.json) |
 | Shining Flower: HikaruHana | 172040 | [172040-shining-flower-hikaruhana.json](./172040-shining-flower-hikaruhana.json) |
 | Shining Force | 3041 | [3041-shining-force.json](./3041-shining-force.json) |
@@ -19003,6 +19006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulcaster: Part I & II | 33074 | [33074-soulcaster-part-i-and-ii.json](./33074-soulcaster-part-i-and-ii.json) |
 | Soulchain | 342042 | [342042-soulchain.json](./342042-soulchain.json) |
 | Soulchemist Renafine | 250248 | [250248-soulchemist-renafine.json](./250248-soulchemist-renafine.json) |
+| Soulchild | 149152 | [149152-soulchild.json](./149152-soulchild.json) |
 | Soulcoom | 393853 | [393853-soulcoom.json](./393853-soulcoom.json) |
 | SoulCraft | 35261 | [35261-soulcraft.json](./35261-soulcraft.json) |
 | SoulCraft 2 | 59339 | [59339-soulcraft-2.json](./59339-soulcraft-2.json) |
@@ -19899,7 +19903,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20975,6 +20978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spartan: Total Warrior | 439 | [439-spartan-total-warrior.json](./439-spartan-total-warrior.json) |
 | Spartan's Spear | 273407 | [273407-spartans-spear.json](./273407-spartans-spear.json) |
 | Sparticles | 107271 | [107271-sparticles.json](./107271-sparticles.json) |
+| Spartoi Meadow | 149147 | [149147-spartoi-meadow.json](./149147-spartoi-meadow.json) |
 | Spårvagn | 142361 | [142361-sparvagn.json](./142361-sparvagn.json) |
 | Sparx | 120508 | [120508-sparx.json](./120508-sparx.json) |
 | Spasms of Stupidity | 265725 | [265725-spasms-of-stupidity.json](./265725-spasms-of-stupidity.json) |
@@ -22667,6 +22671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Split Times | 368502 | [368502-split-times.json](./368502-split-times.json) |
 | Split-Second Samurai | 183670 | [183670-split-second-samurai.json](./183670-split-second-samurai.json) |
 | Split/Second | 2150 | [2150-split-second.json](./2150-split-second.json) |
+| Splitfire | 149132 | [149132-splitfire.json](./149132-splitfire.json) |
 | Splitgate | 114684 | [114684-splitgate.json](./114684-splitgate.json) |
 | Splitgate 2: Meridian Founders Pack | 373469 | [373469-splitgate-2-meridian-founders-pack.json](./373469-splitgate-2-meridian-founders-pack.json) |
 | Splitgate 2: Sabrask Founder's Pack | 373472 | [373472-splitgate-2-sabrask-founders-pack.json](./373472-splitgate-2-sabrask-founders-pack.json) |
@@ -22961,6 +22966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooples | 249806 | [249806-spooples.json](./249806-spooples.json) |
 | Spoopy Maryo | 318040 | [318040-spoopy-maryo.json](./318040-spoopy-maryo.json) |
 | Spoorky | 110897 | [110897-spoorky.json](./110897-spoorky.json) |
+| Sporadic Spire | 149137 | [149137-sporadic-spire.json](./149137-sporadic-spire.json) |
 | Sporbs | 381519 | [381519-sporbs.json](./381519-sporbs.json) |
 | Sporcle | 86844 | [86844-sporcle.json](./86844-sporcle.json) |
 | Sporcle Party | 283574 | [283574-sporcle-party.json](./283574-sporcle-party.json) |
@@ -24638,6 +24644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Shift Rebellion | 190395 | [190395-star-shift-rebellion.json](./190395-star-shift-rebellion.json) |
 | Star Ship | 18424 | [18424-star-ship.json](./18424-star-ship.json) |
 | Star Ship Survivor | 279498 | [279498-star-ship-survivor.json](./279498-star-ship-survivor.json) |
+| Star Ships | 149106 | [149106-star-ships.json](./149106-star-ships.json) |
 | Star Shogun | 311160 | [311160-star-shogun.json](./311160-star-shogun.json) |
 | Star Shoot VS | 314812 | [314812-star-shoot-vs.json](./314812-star-shoot-vs.json) |
 | Star Shredders | 81697 | [81697-star-shredders.json](./81697-star-shredders.json) |
@@ -31255,6 +31262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Danganronpa Another 2: Summer Camp | 411317 | [411317-super-danganronpa-another-2-summer-camp.json](./411317-super-danganronpa-another-2-summer-camp.json) |
 | Super Dangerous Dungeons | 103419 | [103419-super-dangerous-dungeons.json](./103419-super-dangerous-dungeons.json) |
 | Super Dangerous Trap | 95727 | [95727-super-dangerous-trap.json](./95727-super-dangerous-trap.json) |
+| Super Dango | 149125 | [149125-super-dango.json](./149125-super-dango.json) |
 | Super Dany | 42658 | [42658-super-dany.json](./42658-super-dany.json) |
 | Super Dapper Man vs. Furries | 310215 | [310215-super-dapper-man-vs-furries.json](./310215-super-dapper-man-vs-furries.json) |
 | Super Darius | 44307 | [44307-super-darius.json](./44307-super-darius.json) |
