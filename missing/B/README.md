@@ -4759,6 +4759,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be Our Guest | 334274 | [334274-be-our-guest.json](./334274-be-our-guest.json) |
 | Be Queen Bee | 385768 | [385768-be-queen-bee.json](./385768-be-queen-bee.json) |
 | Be Quiet!: Act One | 170421 | [170421-be-quiet-act-one.json](./170421-be-quiet-act-one.json) |
+| Be Rich | 146461 | [146461-be-rich.json](./146461-be-rich.json) |
+| Be Richer | 146468 | [146468-be-richer.json](./146468-be-richer.json) |
 | Be Richest! | 140984 | [140984-be-richest.json](./140984-be-richest.json) |
 | Be Silent | 291840 | [291840-be-silent.json](./291840-be-silent.json) |
 | Be the Block | 420578 | [420578-be-the-block.json](./420578-be-the-block.json) |
@@ -14150,6 +14152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowl-O-Rama | 40271 | [40271-bowl-o-rama.json](./40271-bowl-o-rama.json) |
 | Bowlatro | 369521 | [369521-bowlatro.json](./369521-bowlatro.json) |
 | Bowlbo | 121238 | [121238-bowlbo.json](./121238-bowlbo.json) |
+| Bowlda Dash | 146440 | [146440-bowlda-dash.json](./146440-bowlda-dash.json) |
 | Bowled | 403557 | [403557-bowled.json](./403557-bowled.json) |
 | Bowler | 95920 | [95920-bowler.json](./95920-bowler.json) |
 | Bowlers | 384080 | [384080-bowlers.json](./384080-bowlers.json) |
@@ -17452,6 +17455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulletproof | 235697 | [235697-bulletproof.json](./235697-bulletproof.json) |
 | Bulletreign: Survivors | 406200 | [406200-bulletreign-survivors.json](./406200-bulletreign-survivors.json) |
 | Bulletrooms | 309692 | [309692-bulletrooms.json](./309692-bulletrooms.json) |
+| BulletRoyale | 146420 | [146420-bulletroyale.json](./146420-bulletroyale.json) |
 | Bullets | 157864 | [157864-bullets.json](./157864-bullets.json) |
 | Bullets | 368483 | [368483-bullets.json](./368483-bullets.json) |
 | Bullets & Brains | 261552 | [261552-bullets-and-brains.json](./261552-bullets-and-brains.json) |
