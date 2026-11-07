@@ -5790,6 +5790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winged Warrior III: The Nova Knight | 365274 | [365274-winged-warrior-iii-the-nova-knight.json](./365274-winged-warrior-iii-the-nova-knight.json) |
 | WingedStar: Descent | 200880 | [200880-wingedstar-descent.json](./200880-wingedstar-descent.json) |
 | WinGenius | 70198 | [70198-wingenius.json](./70198-wingenius.json) |
+| Winging It | 180351 | [180351-winging-it.json](./180351-winging-it.json) |
 | Winging It | 227786 | [227786-winging-it.json](./227786-winging-it.json) |
 | Winglancer | 68966 | [68966-winglancer.json](./68966-winglancer.json) |
 | Wingless Fairies | 304059 | [304059-wingless-fairies.json](./304059-wingless-fairies.json) |
