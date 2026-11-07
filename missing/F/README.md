@@ -5844,6 +5844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem Wars | 338815 | [338815-fire-emblem-wars.json](./338815-fire-emblem-wars.json) |
 | Fire Emblem World Cup | 323039 | [323039-fire-emblem-world-cup.json](./323039-fire-emblem-world-cup.json) |
 | Fire Emblem: An Unexpected Caller | 308855 | [308855-fire-emblem-an-unexpected-caller.json](./308855-fire-emblem-an-unexpected-caller.json) |
+| Fire Emblem: Ankoku no Miko | 176038 | [176038-fire-emblem-ankoku-no-miko.json](./176038-fire-emblem-ankoku-no-miko.json) |
 | Fire Emblem: Ankoku Ryuu to Hikari no Tsurugi | 1433 | [1433-fire-emblem-ankoku-ryuu-to-hikari-no-tsurugi.json](./1433-fire-emblem-ankoku-ryuu-to-hikari-no-tsurugi.json) |
 | Fire Emblem: Archanea Reimagined | 401857 | [401857-fire-emblem-archanea-reimagined.json](./401857-fire-emblem-archanea-reimagined.json) |
 | Fire Emblem: Awakening - Apotheosis | 349762 | [349762-fire-emblem-awakening-apotheosis.json](./349762-fire-emblem-awakening-apotheosis.json) |
