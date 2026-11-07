@@ -963,7 +963,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -9833,6 +9832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasto | 86213 | [86213-blasto.json](./86213-blasto.json) |
 | Blasto X | 341386 | [341386-blasto-x.json](./341386-blasto-x.json) |
 | Blastocitos | 192205 | [192205-blastocitos.json](./192205-blastocitos.json) |
+| Blastoid Breakout | 188195 | [188195-blastoid-breakout.json](./188195-blastoid-breakout.json) |
 | Blastoids | 394380 | [394380-blastoids.json](./394380-blastoids.json) |
 | Blastomancer: The Puzzle Game | 188267 | [188267-blastomancer-the-puzzle-game.json](./188267-blastomancer-the-puzzle-game.json) |
 | Blaston | 135122 | [135122-blaston.json](./135122-blaston.json) |
@@ -12408,6 +12408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolu | 204987 | [204987-bolu.json](./204987-bolu.json) |
 | Bom-eul Buleuneun Seolnyeo: Yuna Seupin-opeu | 369528 | [369528-bom-eul-buleuneun-seolnyeo-yuna-seupin-opeu.json](./369528-bom-eul-buleuneun-seolnyeo-yuna-seupin-opeu.json) |
 | Bom! | 295952 | [295952-bom.json](./295952-bom.json) |
+| Bomb | 188203 | [188203-bomb.json](./188203-bomb.json) |
 | Bomb | 36309 | [36309-bomb.json](./36309-bomb.json) |
 | Bomb Ace | 362431 | [362431-bomb-ace.json](./362431-bomb-ace.json) |
 | Bomb Alley | 21917 | [21917-bomb-alley.json](./21917-bomb-alley.json) |
@@ -14255,6 +14256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing Cats CCG | 119935 | [119935-boxing-cats-ccg.json](./119935-boxing-cats-ccg.json) |
 | Boxing Champions | 43425 | [43425-boxing-champions.json](./43425-boxing-champions.json) |
 | Boxing Champs | 117800 | [117800-boxing-champs.json](./117800-boxing-champs.json) |
+| Boxing Club Manager | 188210 | [188210-boxing-club-manager.json](./188210-boxing-club-manager.json) |
 | Boxing Club: Ultimate Fighting | 108469 | [108469-boxing-club-ultimate-fighting.json](./108469-boxing-club-ultimate-fighting.json) |
 | Boxing Coach | 156193 | [156193-boxing-coach.json](./156193-boxing-coach.json) |
 | Boxing Fighter: Shadow Battle | 355149 | [355149-boxing-fighter-shadow-battle.json](./355149-boxing-fighter-shadow-battle.json) |
@@ -15417,6 +15419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Block | 304041 | [304041-brick-block.json](./304041-brick-block.json) |
 | Brick Break Blitz | 61966 | [61966-brick-break-blitz.json](./61966-brick-break-blitz.json) |
 | Brick Breaker | 13436 | [13436-brick-breaker.json](./13436-brick-breaker.json) |
+| Brick Breaker | 188217 | [188217-brick-breaker.json](./188217-brick-breaker.json) |
 | Brick Breaker | 195751 | [195751-brick-breaker.json](./195751-brick-breaker.json) |
 | Brick Breaker | 206490 | [206490-brick-breaker.json](./206490-brick-breaker.json) |
 | Brick Breaker | 264223 | [264223-brick-breaker.json](./264223-brick-breaker.json) |
