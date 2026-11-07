@@ -2746,6 +2746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible Isles | 175609 | [175609-impossible-isles.json](./175609-impossible-isles.json) |
 | Impossible Jumpy Quest | 95574 | [95574-impossible-jumpy-quest.json](./95574-impossible-jumpy-quest.json) |
 | Impossible Maze | 135898 | [135898-impossible-maze.json](./135898-impossible-maze.json) |
+| Impossible Mission | 148731 | [148731-impossible-mission.json](./148731-impossible-mission.json) |
 | Impossible Mission | 210090 | [210090-impossible-mission.json](./210090-impossible-mission.json) |
 | Impossible Mission 2025 | 37107 | [37107-impossible-mission-2025.json](./37107-impossible-mission-2025.json) |
 | Impossible Mission 3 | 403546 | [403546-impossible-mission-3.json](./403546-impossible-mission-3.json) |
@@ -5692,6 +5693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invizimals: The Alliance | 23417 | [23417-invizimals-the-alliance.json](./23417-invizimals-the-alliance.json) |
 | Invizimals: The Lost Kingdom | 23357 | [23357-invizimals-the-lost-kingdom.json](./23357-invizimals-the-lost-kingdom.json) |
 | Invizimals: The Lost Tribes | 3001 | [3001-invizimals-the-lost-tribes.json](./3001-invizimals-the-lost-tribes.json) |
+| Invizimals: The Trilogy | 148657 | [148657-invizimals-the-trilogy.json](./148657-invizimals-the-trilogy.json) |
 | Invocation: Ghost Photography | 390057 | [390057-invocation-ghost-photography.json](./390057-invocation-ghost-photography.json) |
 | Invocation: The Festival of Souls | 221084 | [221084-invocation-the-festival-of-souls.json](./221084-invocation-the-festival-of-souls.json) |
 | inVokeR | 36821 | [36821-invoker.json](./36821-invoker.json) |
