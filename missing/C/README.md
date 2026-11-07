@@ -1383,6 +1383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Mania Star | 87094 | [87094-candy-mania-star.json](./87094-candy-mania-star.json) |
 | Candy Match 3 | 191012 | [191012-candy-match-3.json](./191012-candy-match-3.json) |
 | Candy Match Forever | 128808 | [128808-candy-match-forever.json](./128808-candy-match-forever.json) |
+| Candy Match Kiddies | 147586 | [147586-candy-match-kiddies.json](./147586-candy-match-kiddies.json) |
 | Candy Matching | 174976 | [174976-candy-matching.json](./174976-candy-matching.json) |
 | Candy Merged | 103559 | [103559-candy-merged.json](./103559-candy-merged.json) |
 | Candy Monsters | 193037 | [193037-candy-monsters.json](./193037-candy-monsters.json) |
@@ -5133,6 +5134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caxy Gambá Encontra o Monstruário | 257103 | [257103-caxy-gamba-encontra-o-monstruario.json](./257103-caxy-gamba-encontra-o-monstruario.json) |
 | Caylus | 175231 | [175231-caylus.json](./175231-caylus.json) |
 | Cayne | 26968 | [26968-cayne.json](./26968-cayne.json) |
+| Cazzarion | 147588 | [147588-cazzarion.json](./147588-cazzarion.json) |
 | Cazzarion Adventureland | 147594 | [147594-cazzarion-adventureland.json](./147594-cazzarion-adventureland.json) |
 | Cazzarion: Astro Bouncer | 290418 | [290418-cazzarion-astro-bouncer.json](./290418-cazzarion-astro-bouncer.json) |
 | Cazzarion: Bomber Attack | 307637 | [307637-cazzarion-bomber-attack.json](./307637-cazzarion-bomber-attack.json) |
