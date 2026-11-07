@@ -6240,6 +6240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of the Three Kingdoms 7 | 143522 | [143522-heroes-of-the-three-kingdoms-7.json](./143522-heroes-of-the-three-kingdoms-7.json) |
 | Heroes of the Triangle: Mask Rush | 402417 | [402417-heroes-of-the-triangle-mask-rush.json](./402417-heroes-of-the-triangle-mask-rush.json) |
 | Heroes of the Underworld | 403812 | [403812-heroes-of-the-underworld.json](./403812-heroes-of-the-underworld.json) |
+| Heroes of The West | 169539 | [169539-heroes-of-the-west.json](./169539-heroes-of-the-west.json) |
 | Heroes of Three Kingdoms | 170770 | [170770-heroes-of-three-kingdoms.json](./170770-heroes-of-three-kingdoms.json) |
 | Heroes of Three Kingdoms | 77303 | [77303-heroes-of-three-kingdoms.json](./77303-heroes-of-three-kingdoms.json) |
 | Heroes of Throgg | 413793 | [413793-heroes-of-throgg.json](./413793-heroes-of-throgg.json) |
@@ -10633,6 +10634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Steam | 231300 | [231300-hot-steam.json](./231300-hot-steam.json) |
 | Hot Summer | 153063 | [153063-hot-summer.json](./153063-hot-summer.json) |
 | Hot Summer Sylvie | 422815 | [422815-hot-summer-sylvie.json](./422815-hot-summer-sylvie.json) |
+| Hot Swap: Cyberlust | 169521 | [169521-hot-swap-cyberlust.json](./169521-hot-swap-cyberlust.json) |
 | Hot Tentacles Shooter | 197528 | [197528-hot-tentacles-shooter.json](./197528-hot-tentacles-shooter.json) |
 | Hot Therapy | 243557 | [243557-hot-therapy.json](./243557-hot-therapy.json) |
 | Hot Throttle | 124467 | [124467-hot-throttle.json](./124467-hot-throttle.json) |
