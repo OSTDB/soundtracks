@@ -4074,6 +4074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When Hell Freezes Over | 407416 | [407416-when-hell-freezes-over.json](./407416-when-hell-freezes-over.json) |
 | When Honor Dies | 216831 | [216831-when-honor-dies.json](./216831-when-honor-dies.json) |
 | When I Die | 187741 | [187741-when-i-die.json](./187741-when-i-die.json) |
+| When I Get Home | 142541 | [142541-when-i-get-home.json](./142541-when-i-get-home.json) |
 | When I Reincarnate, I'm a Cube!? | 153970 | [153970-when-i-reincarnate-im-a-cube.json](./153970-when-i-reincarnate-im-a-cube.json) |
 | When I Said "It's Ok To Be Cringe" I Didn't Mean Like That | 300677 | [300677-when-i-said-its-ok-to-be-cringe-i-didnt-mean-like-that.json](./300677-when-i-said-its-ok-to-be-cringe-i-didnt-mean-like-that.json) |
 | When I was a boycow | 178675 | [178675-when-i-was-a-boycow.json](./178675-when-i-was-a-boycow.json) |
@@ -4656,6 +4657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Dwarf | 414689 | [414689-white-dwarf.json](./414689-white-dwarf.json) |
 | White Eternal | 314870 | [314870-white-eternal.json](./314870-white-eternal.json) |
 | White Eyes | 166719 | [166719-white-eyes.json](./166719-white-eyes.json) |
+| White Feathers | 142536 | [142536-white-feathers.json](./142536-white-feathers.json) |
 | White Flame Inna: Daughter of the Void | 256583 | [256583-white-flame-inna-daughter-of-the-void.json](./256583-white-flame-inna-daughter-of-the-void.json) |
 | White Girl | 165598 | [165598-white-girl.json](./165598-white-girl.json) |
 | White Haven Mysteries | 17201 | [17201-white-haven-mysteries.json](./17201-white-haven-mysteries.json) |
