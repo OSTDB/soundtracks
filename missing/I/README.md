@@ -3932,7 +3932,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4377,6 +4376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inline Race | 94560 | [94560-inline-race.json](./94560-inline-race.json) |
 | Inline: Out of Time | 290706 | [290706-inline-out-of-time.json](./290706-inline-out-of-time.json) |
 | Inma Nemu no Chu-chu Seieki Tanken-ki | 114904 | [114904-inma-nemu-no-chu-chu-seieki-tanken-ki.json](./114904-inma-nemu-no-chu-chu-seieki-tanken-ki.json) |
+| Inmate: Survival | 145813 | [145813-inmate-survival.json](./145813-inmate-survival.json) |
 | Inmates | 27779 | [27779-inmates.json](./27779-inmates.json) |
 | InMaze | 171700 | [171700-inmaze.json](./171700-inmaze.json) |
 | InMind 2 VR | 31466 | [31466-inmind-2-vr.json](./31466-inmind-2-vr.json) |
@@ -4881,6 +4881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intelligent Strategy Games Volume 1 | 319904 | [319904-intelligent-strategy-games-volume-1.json](./319904-intelligent-strategy-games-volume-1.json) |
 | Intelligent Strategy Games Volume 2 | 319905 | [319905-intelligent-strategy-games-volume-2.json](./319905-intelligent-strategy-games-volume-2.json) |
 | Intellivania | 270284 | [270284-intellivania.json](./270284-intellivania.json) |
+| Intellivision Collection 1 | 145835 | [145835-intellivision-collection-1.json](./145835-intellivision-collection-1.json) |
 | Intellivision Collection 2 | 147179 | [147179-intellivision-collection-2.json](./147179-intellivision-collection-2.json) |
 | Intellivision Flashback | 245652 | [245652-intellivision-flashback.json](./245652-intellivision-flashback.json) |
 | Intellivision Flashback | 57450 | [57450-intellivision-flashback.json](./57450-intellivision-flashback.json) |
@@ -4937,6 +4938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interdictor Pilot | 342035 | [342035-interdictor-pilot.json](./342035-interdictor-pilot.json) |
 | Interdimension | 191076 | [191076-interdimension.json](./191076-interdimension.json) |
 | Interdimensional Lili | 379829 | [379829-interdimensional-lili.json](./379829-interdimensional-lili.json) |
+| Interea | 145759 | [145759-interea.json](./145759-interea.json) |
 | Interesting Kaizo World | 215768 | [215768-interesting-kaizo-world.json](./215768-interesting-kaizo-world.json) |
 | Interfectorem | 30826 | [30826-interfectorem.json](./30826-interfectorem.json) |
 | Interference | 131445 | [131445-interference.json](./131445-interference.json) |
