@@ -966,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -13736,6 +13737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Dash-XL 3D | 47624 | [47624-boulder-dash-xl-3d.json](./47624-boulder-dash-xl-3d.json) |
 | Boulder Dash: 30th Anniversary | 25569 | [25569-boulder-dash-30th-anniversary.json](./25569-boulder-dash-30th-anniversary.json) |
 | Boulder Dash: 40th Anniversary | 316942 | [316942-boulder-dash-40th-anniversary.json](./316942-boulder-dash-40th-anniversary.json) |
+| Boulder Dash: Ultimate Collection | 178765 | [178765-boulder-dash-ultimate-collection.json](./178765-boulder-dash-ultimate-collection.json) |
 | Boulder Escape | 236168 | [236168-boulder-escape.json](./236168-boulder-escape.json) |
 | Boulder Island | 205862 | [205862-boulder-island.json](./205862-boulder-island.json) |
 | Boulder Logic | 289579 | [289579-boulder-logic.json](./289579-boulder-logic.json) |
@@ -17805,6 +17807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buried Buck$ | 76595 | [76595-buried-buck.json](./76595-buried-buck.json) |
 | Buried Chambers | 129704 | [129704-buried-chambers.json](./129704-buried-chambers.json) |
 | Buried in Ice | 214269 | [214269-buried-in-ice.json](./214269-buried-in-ice.json) |
+| Buried Love | 178772 | [178772-buried-love.json](./178772-buried-love.json) |
 | Buried Memories | 317448 | [317448-buried-memories.json](./317448-buried-memories.json) |
 | Buried Shards | 277760 | [277760-buried-shards.json](./277760-buried-shards.json) |
 | Buried Spirits | 383038 | [383038-buried-spirits.json](./383038-buried-spirits.json) |
