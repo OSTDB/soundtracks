@@ -6314,6 +6314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle for Sector 219 | 33184 | [33184-the-battle-for-sector-219.json](./33184-the-battle-for-sector-219.json) |
 | The Battle for the Hut | 99671 | [99671-the-battle-for-the-hut.json](./99671-the-battle-for-the-hut.json) |
 | The Battle for Vega | 250838 | [250838-the-battle-for-vega.json](./250838-the-battle-for-vega.json) |
+| The Battle Never Ends | 189283 | [189283-the-battle-never-ends.json](./189283-the-battle-never-ends.json) |
 | The Battle of Ages | 107725 | [107725-the-battle-of-ages.json](./107725-the-battle-of-ages.json) |
 | The Battle of Angels | 156603 | [156603-the-battle-of-angels.json](./156603-the-battle-of-angels.json) |
 | The Battle of Aurinoxia | 304368 | [304368-the-battle-of-aurinoxia.json](./304368-the-battle-of-aurinoxia.json) |
@@ -10081,6 +10082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Glassworks | 322353 | [322353-the-glassworks.json](./322353-the-glassworks.json) |
 | The Gleam: VR Escape the Room | 31310 | [31310-the-gleam-vr-escape-the-room.json](./31310-the-gleam-vr-escape-the-room.json) |
 | The Gleaming Grill | 330052 | [330052-the-gleaming-grill.json](./330052-the-gleaming-grill.json) |
+| The Glitch Fairy | 189249 | [189249-the-glitch-fairy.json](./189249-the-glitch-fairy.json) |
 | The Glitch Prison | 286038 | [286038-the-glitch-prison.json](./286038-the-glitch-prison.json) |
 | The Glitch Witch | 310829 | [310829-the-glitch-witch.json](./310829-the-glitch-witch.json) |
 | The Glitched Attraction | 221852 | [221852-the-glitched-attraction.json](./221852-the-glitched-attraction.json) |
@@ -13790,6 +13792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mightiest Sword is Mine! | 359926 | [359926-the-mightiest-sword-is-mine.json](./359926-the-mightiest-sword-is-mine.json) |
 | The Mighty Claw | 249810 | [249810-the-mighty-claw.json](./249810-the-mighty-claw.json) |
 | The Mighty Eighth VR | 224786 | [224786-the-mighty-eighth-vr.json](./224786-the-mighty-eighth-vr.json) |
+| The Mighty Quest | 189236 | [189236-the-mighty-quest.json](./189236-the-mighty-quest.json) |
 | The Mighty Quest for Epic Loot | 217796 | [217796-the-mighty-quest-for-epic-loot.json](./217796-the-mighty-quest-for-epic-loot.json) |
 | The Migrant | 199080 | [199080-the-migrant.json](./199080-the-migrant.json) |
 | The Migration | 176243 | [176243-the-migration.json](./176243-the-migration.json) |
@@ -16323,6 +16326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shark T | 217911 | [217911-the-shark-t.json](./217911-the-shark-t.json) |
 | The Shark's Bathhouse | 271741 | [271741-the-sharks-bathhouse.json](./271741-the-sharks-bathhouse.json) |
 | The Shattered | 332369 | [332369-the-shattered.json](./332369-the-shattered.json) |
+| The Shattered Elements Arena | 189270 | [189270-the-shattered-elements-arena.json](./189270-the-shattered-elements-arena.json) |
 | The Shattered Knight of Elaria | 319231 | [319231-the-shattered-knight-of-elaria.json](./319231-the-shattered-knight-of-elaria.json) |
 | The Shattered Mind of Lucas Hayes | 387420 | [387420-the-shattered-mind-of-lucas-hayes.json](./387420-the-shattered-mind-of-lucas-hayes.json) |
 | The Shattered Veil | 324731 | [324731-the-shattered-veil.json](./324731-the-shattered-veil.json) |
@@ -19271,6 +19275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wranglers | 90186 | [90186-the-wranglers.json](./90186-the-wranglers.json) |
 | The Wratch's Den | 163128 | [163128-the-wratchs-den.json](./163128-the-wratchs-den.json) |
 | The Wrath of Sona | 275622 | [275622-the-wrath-of-sona.json](./275622-the-wrath-of-sona.json) |
+| The Wrath of the Erlik | 189250 | [189250-the-wrath-of-the-erlik.json](./189250-the-wrath-of-the-erlik.json) |
 | The Wrath of the Goose King | 286051 | [286051-the-wrath-of-the-goose-king.json](./286051-the-wrath-of-the-goose-king.json) |
 | The Wreck That Should Not Be | 403016 | [403016-the-wreck-that-should-not-be.json](./403016-the-wreck-that-should-not-be.json) |
 | The Wreckless | 54199 | [54199-the-wreckless.json](./54199-the-wreckless.json) |
@@ -22725,6 +22730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timber Panic | 373804 | [373804-timber-panic.json](./373804-timber-panic.json) |
 | Timber Rush | 389705 | [389705-timber-rush.json](./389705-timber-rush.json) |
 | Timber Slash | 108473 | [108473-timber-slash.json](./108473-timber-slash.json) |
+| Timber Story | 189272 | [189272-timber-story.json](./189272-timber-story.json) |
 | Timber Tales | 291443 | [291443-timber-tales.json](./291443-timber-tales.json) |
 | Timber Tennis | 36619 | [36619-timber-tennis.json](./36619-timber-tennis.json) |
 | Timber Tennis: Versus | 111463 | [111463-timber-tennis-versus.json](./111463-timber-tennis-versus.json) |
@@ -23705,6 +23711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tir-nan-óg: Descendants of Danaan | 145464 | [145464-tir-nan-og-descendants-of-danaan.json](./145464-tir-nan-og-descendants-of-danaan.json) |
 | Tir-nan-óg: The Forbidden Tower | 145552 | [145552-tir-nan-og-the-forbidden-tower.json](./145552-tir-nan-og-the-forbidden-tower.json) |
 | Tir-nan-óg: Yuukyuu no Jin | 145556 | [145556-tir-nan-og-yuukyuu-no-jin.json](./145556-tir-nan-og-yuukyuu-no-jin.json) |
+| Tiranogg | 189257 | [189257-tiranogg.json](./189257-tiranogg.json) |
 | Tire Boy | 347680 | [347680-tire-boy.json](./347680-tire-boy.json) |
 | Tire Fire Rally | 400553 | [400553-tire-fire-rally.json](./400553-tire-fire-rally.json) |
 | Tire Friend | 129100 | [129100-tire-friend.json](./129100-tire-friend.json) |
@@ -33075,6 +33082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twinkle’s Galactic Tour | 374266 | [374266-twinkle-s-galactic-tour.json](./374266-twinkle-s-galactic-tour.json) |
 | Twinkleby | 340589 | [340589-twinkleby.json](./340589-twinkleby.json) |
 | Twinky Goes Hiking | 416653 | [416653-twinky-goes-hiking.json](./416653-twinky-goes-hiking.json) |
+| Twinland | 189244 | [189244-twinland.json](./189244-twinland.json) |
 | Twinora | 126636 | [126636-twinora.json](./126636-twinora.json) |
 | Twins & Dreams | 373223 | [373223-twins-and-dreams.json](./373223-twins-and-dreams.json) |
 | Twins Dash | 200028 | [200028-twins-dash.json](./200028-twins-dash.json) |
