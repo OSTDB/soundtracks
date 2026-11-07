@@ -4656,6 +4656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare's Revenge | 322006 | [322006-nightmares-revenge.json](./322006-nightmares-revenge.json) |
 | NightmareBullet | 105364 | [105364-nightmarebullet.json](./105364-nightmarebullet.json) |
 | Nightmarena | 372547 | [372547-nightmarena.json](./372547-nightmarena.json) |
+| Nightmares | 191330 | [191330-nightmares.json](./191330-nightmares.json) |
 | Nightmares | 238542 | [238542-nightmares.json](./238542-nightmares.json) |
 | Nightmares and Other True Stories | 229725 | [229725-nightmares-and-other-true-stories.json](./229725-nightmares-and-other-true-stories.json) |
 | Nightmares Awake | 340279 | [340279-nightmares-awake.json](./340279-nightmares-awake.json) |
