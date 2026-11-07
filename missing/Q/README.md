@@ -441,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qualia/Delta | 242066 | [242066-qualia-delta.json](./242066-qualia-delta.json) |
 | Qualial Nature | 392940 | [392940-qualial-nature.json](./392940-qualial-nature.json) |
 | Quality Assurance | 405980 | [405980-quality-assurance.json](./405980-quality-assurance.json) |
+| Quality Control | 141357 | [141357-quality-control.json](./141357-quality-control.json) |
 | Quality Dreams, Reasonably Priced | 318478 | [318478-quality-dreams-reasonably-priced.json](./318478-quality-dreams-reasonably-priced.json) |
 | Quality Television | 180697 | [180697-quality-television.json](./180697-quality-television.json) |
 | Qualle Party | 292640 | [292640-qualle-party.json](./292640-qualle-party.json) |
