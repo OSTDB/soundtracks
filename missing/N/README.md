@@ -4661,6 +4661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare on the Pacific | 216238 | [216238-nightmare-on-the-pacific.json](./216238-nightmare-on-the-pacific.json) |
 | Nightmare Operator | 303003 | [303003-nightmare-operator.json](./303003-nightmare-operator.json) |
 | Nightmare Owl | 351425 | [351425-nightmare-owl.json](./351425-nightmare-owl.json) |
+| Nightmare Park | 153587 | [153587-nightmare-park.json](./153587-nightmare-park.json) |
 | Nightmare Party | 197477 | [197477-nightmare-party.json](./197477-nightmare-party.json) |
 | Nightmare Pick | 374925 | [374925-nightmare-pick.json](./374925-nightmare-pick.json) |
 | Nightmare Pop | 89415 | [89415-nightmare-pop.json](./89415-nightmare-pop.json) |
