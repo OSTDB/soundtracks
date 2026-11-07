@@ -2646,6 +2646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Babysitter Life: Happy Family Simulator | 95838 | [95838-virtual-babysitter-life-happy-family-simulator.json](./95838-virtual-babysitter-life-happy-family-simulator.json) |
 | Virtual Bart | 2835 | [2835-virtual-bart.json](./2835-virtual-bart.json) |
 | Virtual Bart Redux | 219273 | [219273-virtual-bart-redux.json](./219273-virtual-bart-redux.json) |
+| Virtual Battle | 147564 | [147564-virtual-battle.json](./147564-virtual-battle.json) |
 | Virtual Beepis | 152617 | [152617-virtual-beepis.json](./152617-virtual-beepis.json) |
 | Virtual Beggar | 185230 | [185230-virtual-beggar.json](./185230-virtual-beggar.json) |
 | Virtual Block | 231523 | [231523-virtual-block.json](./231523-virtual-block.json) |
@@ -4156,6 +4157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VReakout | 33150 | [33150-vreakout.json](./33150-vreakout.json) |
 | Vreal | 103915 | [103915-vreal.json](./103915-vreal.json) |
 | VRealistic Fight: Aim For the Chest | 212206 | [212206-vrealistic-fight-aim-for-the-chest.json](./212206-vrealistic-fight-aim-for-the-chest.json) |
+| Vreezy: Pictorial Story Vol.1 | 147551 | [147551-vreezy-pictorial-story-vol-1.json](./147551-vreezy-pictorial-story-vol-1.json) |
 | VRekken | 131293 | [131293-vrekken.json](./131293-vrekken.json) |
 | VRemin (A Virtual Theremin) | 29704 | [29704-vremin-a-virtual-theremin.json](./29704-vremin-a-virtual-theremin.json) |
 | Vremya-Dyengi | 88275 | [88275-vremya-dyengi.json](./88275-vremya-dyengi.json) |
