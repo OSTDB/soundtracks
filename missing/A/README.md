@@ -10784,6 +10784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomalith: Anomaly Zone Countermeasures DLC Set | 404267 | [404267-anomalith-anomaly-zone-countermeasures-dlc-set.json](./404267-anomalith-anomaly-zone-countermeasures-dlc-set.json) |
 | Anomalith: Digital Deluxe Edition | 404273 | [404273-anomalith-digital-deluxe-edition.json](./404273-anomalith-digital-deluxe-edition.json) |
 | Anomalogenos | 404998 | [404998-anomalogenos.json](./404998-anomalogenos.json) |
+| Anomalous | 159426 | [159426-anomalous.json](./159426-anomalous.json) |
 | Anomalous Adventure | 309951 | [309951-anomalous-adventure.json](./309951-anomalous-adventure.json) |
 | Anomalous City | 250274 | [250274-anomalous-city.json](./250274-anomalous-city.json) |
 | Anomalous Cleaning Detail | 390898 | [390898-anomalous-cleaning-detail.json](./390898-anomalous-cleaning-detail.json) |
@@ -16813,7 +16814,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
