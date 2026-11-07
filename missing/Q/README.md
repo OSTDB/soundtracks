@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarked up Omnibus: Clean - Fix - Escape | 372600 | [372600-quarked-up-omnibus-clean-fix-escape.json](./372600-quarked-up-omnibus-clean-fix-escape.json) |
 | Quarky & Quaysoo's Turbo Science | 46981 | [46981-quarky-and-quaysoos-turbo-science.json](./46981-quarky-and-quaysoos-turbo-science.json) |
 | Quarrel | 20659 | [20659-quarrel.json](./20659-quarrel.json) |
+| Quarrel Deluxe | 143242 | [143242-quarrel-deluxe.json](./143242-quarrel-deluxe.json) |
 | Quarrel Hill | 295330 | [295330-quarrel-hill.json](./295330-quarrel-hill.json) |
 | Quarres | 148864 | [148864-quarres.json](./148864-quarres.json) |
 | Quarry Simulator 2020 | 167993 | [167993-quarry-simulator-2020.json](./167993-quarry-simulator-2020.json) |
