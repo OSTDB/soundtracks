@@ -2654,6 +2654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Punch | 151657 | [151657-one-punch.json](./151657-one-punch.json) |
 | One Punch Man | 175711 | [175711-one-punch-man.json](./175711-one-punch-man.json) |
 | One Punch Man: A Hero Nobody Knows | 120175 | [120175-one-punch-man-a-hero-nobody-knows.json](./120175-one-punch-man-a-hero-nobody-knows.json) |
+| One Punch Man: A Hero Nobody Knows - Deluxe Edition | 165862 | [165862-one-punch-man-a-hero-nobody-knows-deluxe-edition.json](./165862-one-punch-man-a-hero-nobody-knows-deluxe-edition.json) |
 | One Punch Man: A Hero Nobody Knows DLC Pack 1 - Suiryu | 134062 | [134062-one-punch-man-a-hero-nobody-knows-dlc-pack-1-suiryu.json](./134062-one-punch-man-a-hero-nobody-knows-dlc-pack-1-suiryu.json) |
 | One Punch Man: A Hero Nobody Knows DLC Pack 2 - Lightning Max | 134063 | [134063-one-punch-man-a-hero-nobody-knows-dlc-pack-2-lightning-max.json](./134063-one-punch-man-a-hero-nobody-knows-dlc-pack-2-lightning-max.json) |
 | One Punch Man: A Hero Nobody Knows DLC Pack 3 - Watchdog Man | 134064 | [134064-one-punch-man-a-hero-nobody-knows-dlc-pack-3-watchdog-man.json](./134064-one-punch-man-a-hero-nobody-knows-dlc-pack-3-watchdog-man.json) |
@@ -5748,6 +5749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overpass 2: Deluxe Edition | 269331 | [269331-overpass-2-deluxe-edition.json](./269331-overpass-2-deluxe-edition.json) |
 | Overpass 2: Ford Play Rock Bouncer | 271285 | [271285-overpass-2-ford-play-rock-bouncer.json](./271285-overpass-2-ford-play-rock-bouncer.json) |
 | Overpass 2: Polaris Vehicles Pack | 271284 | [271284-overpass-2-polaris-vehicles-pack.json](./271284-overpass-2-polaris-vehicles-pack.json) |
+| Overpass: Deluxe Edition | 165864 | [165864-overpass-deluxe-edition.json](./165864-overpass-deluxe-edition.json) |
 | Overpixel | 291404 | [291404-overpixel.json](./291404-overpixel.json) |
 | Overplasma | 143576 | [143576-overplasma.json](./143576-overplasma.json) |
 | Overpower | 18924 | [18924-overpower.json](./18924-overpower.json) |
