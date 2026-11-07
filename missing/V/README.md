@@ -3187,6 +3187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vocalodama | 198306 | [198306-vocalodama.json](./198306-vocalodama.json) |
 | Vocaluxe | 50878 | [50878-vocaluxe.json](./50878-vocaluxe.json) |
 | Vocanova | 198307 | [198307-vocanova.json](./198307-vocanova.json) |
+| Você é um Defunto Mecânico | 185808 | [185808-voce-e-um-defunto-mecanico.json](./185808-voce-e-um-defunto-mecanico.json) |
 | Voce. | 183238 | [183238-voce.json](./183238-voce.json) |
 | Vodobanka | 207831 | [207831-vodobanka.json](./207831-vodobanka.json) |
 | Voez | 27397 | [27397-voez.json](./27397-voez.json) |
