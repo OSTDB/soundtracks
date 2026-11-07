@@ -4056,6 +4056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When the Moon Falls, We Speak | 390677 | [390677-when-the-moon-falls-we-speak.json](./390677-when-the-moon-falls-we-speak.json) |
 | When the Night Comes | 117139 | [117139-when-the-night-comes.json](./117139-when-the-night-comes.json) |
 | When the Past Was Around | 119324 | [119324-when-the-past-was-around.json](./119324-when-the-past-was-around.json) |
+| When the River Runs Dry | 185247 | [185247-when-the-river-runs-dry.json](./185247-when-the-river-runs-dry.json) |
 | When The Rumors Become Real | 370185 | [370185-when-the-rumors-become-real.json](./370185-when-the-rumors-become-real.json) |
 | When the Shutter Stops | 109713 | [109713-when-the-shutter-stops.json](./109713-when-the-shutter-stops.json) |
 | When The Snow is Gone | 383352 | [383352-when-the-snow-is-gone.json](./383352-when-the-snow-is-gone.json) |
@@ -7150,6 +7151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Wheel | 262979 | [262979-wonder-wheel.json](./262979-wonder-wheel.json) |
 | Wonder Wickets | 27042 | [27042-wonder-wickets.json](./27042-wonder-wickets.json) |
 | Wonder Witches | 266149 | [266149-wonder-witches.json](./266149-wonder-witches.json) |
+| Wonder Woman | 185245 | [185245-wonder-woman.json](./185245-wonder-woman.json) |
 | Wonder Wonder Punch | 273386 | [273386-wonder-wonder-punch.json](./273386-wonder-wonder-punch.json) |
 | Wonder Wool | 244104 | [244104-wonder-wool.json](./244104-wonder-wool.json) |
 | Wonder World | 312547 | [312547-wonder-world.json](./312547-wonder-world.json) |
