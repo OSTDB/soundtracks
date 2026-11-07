@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FA Manager | 44818 | [44818-fa-manager.json](./44818-fa-manager.json) |
 | FA Tetris | 250372 | [250372-fa-tetris.json](./250372-fa-tetris.json) |
 | Faaast Penguin | 314424 | [314424-faaast-penguin.json](./314424-faaast-penguin.json) |
+| Faani | 178154 | [178154-faani.json](./178154-faani.json) |
 | Fab 5 Soccer | 124633 | [124633-fab-5-soccer.json](./124633-fab-5-soccer.json) |
 | Fab Fashion | 142716 | [142716-fab-fashion.json](./142716-fab-fashion.json) |
 | Fabble's Adventure | 52988 | [52988-fabbles-adventure.json](./52988-fabbles-adventure.json) |
@@ -4008,6 +4009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ferrari Challenge: Trofeo Pirelli | 259269 | [259269-ferrari-challenge-trofeo-pirelli.json](./259269-ferrari-challenge-trofeo-pirelli.json) |
 | Ferrari Challenge: Trofeo Pirelli | 259270 | [259270-ferrari-challenge-trofeo-pirelli.json](./259270-ferrari-challenge-trofeo-pirelli.json) |
 | Ferrari Challenge: Trofeo Pirelli | 4855 | [4855-ferrari-challenge-trofeo-pirelli.json](./4855-ferrari-challenge-trofeo-pirelli.json) |
+| Ferrari Challenge: Trofeo Pirelli + Supercar Challenge | 178172 | [178172-ferrari-challenge-trofeo-pirelli-supercar-challenge.json](./178172-ferrari-challenge-trofeo-pirelli-supercar-challenge.json) |
 | Ferrari Formula One | 12093 | [12093-ferrari-formula-one.json](./12093-ferrari-formula-one.json) |
 | Ferrari Grand Prix Challenge | 259770 | [259770-ferrari-grand-prix-challenge.json](./259770-ferrari-grand-prix-challenge.json) |
 | Ferrari Grand Prix Challenge | 259771 | [259771-ferrari-grand-prix-challenge.json](./259771-ferrari-grand-prix-challenge.json) |
@@ -11962,6 +11964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': CG5 Edition | 224523 | [224523-friday-night-funkin-cg5-edition.json](./224523-friday-night-funkin-cg5-edition.json) |
 | Friday Night Funkin': D Side | 285244 | [285244-friday-night-funkin-d-side.json](./285244-friday-night-funkin-d-side.json) |
 | Friday Night Funkin': Dearest Double Date | 200806 | [200806-friday-night-funkin-dearest-double-date.json](./200806-friday-night-funkin-dearest-double-date.json) |
+| Friday Night Funkin': Doki Doki Takeover! | 178141 | [178141-friday-night-funkin-doki-doki-takeover.json](./178141-friday-night-funkin-doki-doki-takeover.json) |
 | Friday Night Funkin': Elements of Insanity | 198303 | [198303-friday-night-funkin-elements-of-insanity.json](./198303-friday-night-funkin-elements-of-insanity.json) |
 | Friday Night Funkin': Halloween Hack | 228324 | [228324-friday-night-funkin-halloween-hack.json](./228324-friday-night-funkin-halloween-hack.json) |
 | Friday Night Funkin': Hazy River | 238842 | [238842-friday-night-funkin-hazy-river.json](./238842-friday-night-funkin-hazy-river.json) |
@@ -12569,6 +12572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Frontiers | 364771 | [364771-front-frontiers.json](./364771-front-frontiers.json) |
 | Front Line | 408293 | [408293-front-line.json](./408293-front-line.json) |
 | Front Line Pack | 83741 | [83741-front-line-pack.json](./83741-front-line-pack.json) |
+| Front Lines | 178121 | [178121-front-lines.json](./178121-front-lines.json) |
 | Front Lines | 340265 | [340265-front-lines.json](./340265-front-lines.json) |
 | Front Lines | 79254 | [79254-front-lines.json](./79254-front-lines.json) |
 | Front Mission | 47718 | [47718-front-mission.json](./47718-front-mission.json) |
