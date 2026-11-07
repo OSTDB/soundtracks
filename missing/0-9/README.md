@@ -598,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Greece Cats | 334122 | [334122-100-greece-cats.json](./334122-100-greece-cats.json) |
 | 100 Halloweens | 265726 | [265726-100-halloweens.json](./265726-100-halloweens.json) |
 | 100 Hidden Aliens | 164164 | [164164-100-hidden-aliens.json](./164164-100-hidden-aliens.json) |
+| 100 Hidden Animalnaults: Felicat & Laika | 192532 | [192532-100-hidden-animalnaults-felicat-and-laika.json](./192532-100-hidden-animalnaults-felicat-and-laika.json) |
 | 100 Hidden ASCII Cats | 401847 | [401847-100-hidden-ascii-cats.json](./401847-100-hidden-ascii-cats.json) |
 | 100 Hidden Birds | 161611 | [161611-100-hidden-birds.json](./161611-100-hidden-birds.json) |
 | 100 Hidden Capybaras | 321544 | [321544-100-hidden-capybaras.json](./321544-100-hidden-capybaras.json) |
@@ -3088,6 +3089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 69 Ember Hot | 222961 | [222961-69-ember-hot.json](./222961-69-ember-hot.json) |
 | 69 Erika Love | 171307 | [171307-69-erika-love.json](./171307-69-erika-love.json) |
 | 69 Hitomi Love | 173837 | [173837-69-hitomi-love.json](./173837-69-hitomi-love.json) |
+| 69 Iris Hot | 192539 | [192539-69-iris-hot.json](./192539-69-iris-hot.json) |
 | 69 Lily Hot | 190929 | [190929-69-lily-hot.json](./190929-69-lily-hot.json) |
 | 69 Love | 337782 | [337782-69-love.json](./337782-69-love.json) |
 | 69 Mary Love | 192630 | [192630-69-mary-love.json](./192630-69-mary-love.json) |
