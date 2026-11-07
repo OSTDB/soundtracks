@@ -3719,6 +3719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Alert | 408112 | [408112-red-alert.json](./408112-red-alert.json) |
 | Red Alert 2: Apocalypse Rising | 376096 | [376096-red-alert-2-apocalypse-rising.json](./376096-red-alert-2-apocalypse-rising.json) |
 | Red Alert Online | 131802 | [131802-red-alert-online.json](./131802-red-alert-online.json) |
+| Red Alert: Hail to the Great Yuri | 181996 | [181996-red-alert-hail-to-the-great-yuri.json](./181996-red-alert-hail-to-the-great-yuri.json) |
 | Red Algorithm | 152654 | [152654-red-algorithm.json](./152654-red-algorithm.json) |
 | Red Algorithm: Fernando | 172095 | [172095-red-algorithm-fernando.json](./172095-red-algorithm-fernando.json) |
 | Red Algorithm: Osiris | 155447 | [155447-red-algorithm-osiris.json](./155447-red-algorithm-osiris.json) |
@@ -7814,6 +7815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise Achlys | 337835 | [337835-rise-achlys.json](./337835-rise-achlys.json) |
 | Rise Again | 248885 | [248885-rise-again.json](./248885-rise-again.json) |
 | Rise Against the Invaders | 139656 | [139656-rise-against-the-invaders.json](./139656-rise-against-the-invaders.json) |
+| Rise and Conflict | 182018 | [182018-rise-and-conflict.json](./182018-rise-and-conflict.json) |
 | Rise and Fall | 138692 | [138692-rise-and-fall.json](./138692-rise-and-fall.json) |
 | Rise and Fall: Bronze Age | 235884 | [235884-rise-and-fall-bronze-age.json](./235884-rise-and-fall-bronze-age.json) |
 | Rise and Fall: Civilizations at War | 20531 | [20531-rise-and-fall-civilizations-at-war.json](./20531-rise-and-fall-civilizations-at-war.json) |
@@ -7873,6 +7875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Keepers | 33994 | [33994-rise-of-keepers.json](./33994-rise-of-keepers.json) |
 | Rise of Kenshin | 310731 | [310731-rise-of-kenshin.json](./310731-rise-of-kenshin.json) |
 | Rise of Kingdoms: Conquer War | 199634 | [199634-rise-of-kingdoms-conquer-war.json](./199634-rise-of-kingdoms-conquer-war.json) |
+| Rise of Kings | 181990 | [181990-rise-of-kings.json](./181990-rise-of-kings.json) |
 | Rise of Koreth | 258206 | [258206-rise-of-koreth.json](./258206-rise-of-koreth.json) |
 | Rise of Legions | 116249 | [116249-rise-of-legions.json](./116249-rise-of-legions.json) |
 | Rise of Liberty | 81626 | [81626-rise-of-liberty.json](./81626-rise-of-liberty.json) |
