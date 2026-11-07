@@ -7372,6 +7372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woods Looting | 116037 | [116037-woods-looting.json](./116037-woods-looting.json) |
 | Woods of Disturbance | 221040 | [221040-woods-of-disturbance.json](./221040-woods-of-disturbance.json) |
 | Woods of War | 329153 | [329153-woods-of-war.json](./329153-woods-of-war.json) |
+| Woods: David's Story | 171715 | [171715-woods-davids-story.json](./171715-woods-davids-story.json) |
 | Woodspell | 92959 | [92959-woodspell.json](./92959-woodspell.json) |
 | Woodstock 1969 | 96474 | [96474-woodstock-1969.json](./96474-woodstock-1969.json) |
 | Woodswalker | 384195 | [384195-woodswalker.json](./384195-woodswalker.json) |
