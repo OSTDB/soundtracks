@@ -5180,6 +5180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CBO TD | 291260 | [291260-cbo-td.json](./291260-cbo-td.json) |
 | CBS: Escape from the Mall 3D | 183668 | [183668-cbs-escape-from-the-mall-3d.json](./183668-cbs-escape-from-the-mall-3d.json) |
 | Cbs: The Beginning | 392194 | [392194-cbs-the-beginning.json](./392194-cbs-the-beginning.json) |
+| CBT With Yuuka Kazami | 143220 | [143220-cbt-with-yuuka-kazami.json](./143220-cbt-with-yuuka-kazami.json) |
 | CBT With Yuuka Kazami: Getting Help With Patchouli Knowledge | 182247 | [182247-cbt-with-yuuka-kazami-getting-help-with-patchouli-knowledge.json](./182247-cbt-with-yuuka-kazami-getting-help-with-patchouli-knowledge.json) |
 | CC & SH Smash Hits | 74303 | [74303-cc-and-sh-smash-hits.json](./74303-cc-and-sh-smash-hits.json) |
 | CCCP Calls! | 100490 | [100490-cccp-calls.json](./100490-cccp-calls.json) |
@@ -7843,6 +7844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocobo Kwehst | 269775 | [269775-chocobo-kwehst.json](./269775-chocobo-kwehst.json) |
 | Chocobo Land: A Game of Dice | 49559 | [49559-chocobo-land-a-game-of-dice.json](./49559-chocobo-land-a-game-of-dice.json) |
 | Chocobo no Fushigi na Dungeon | 18070 | [18070-chocobo-no-fushigi-na-dungeon.json](./18070-chocobo-no-fushigi-na-dungeon.json) |
+| Chocobo no Fushigi na Dungeon for WonderSwan | 143246 | [143246-chocobo-no-fushigi-na-dungeon-for-wonderswan.json](./143246-chocobo-no-fushigi-na-dungeon-for-wonderswan.json) |
 | Chocobo Racing | 22896 | [22896-chocobo-racing.json](./22896-chocobo-racing.json) |
 | Chocobo's Mystery Dungeon Every Buddy! | 109465 | [109465-chocobos-mystery-dungeon-every-buddy.json](./109465-chocobos-mystery-dungeon-every-buddy.json) |
 | Chocolat | 10429 | [10429-chocolat.json](./10429-chocolat.json) |
@@ -8815,6 +8817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chunky Tomato | 271644 | [271644-chunky-tomato.json](./271644-chunky-tomato.json) |
 | Chuno | 295141 | [295141-chuno.json](./295141-chuno.json) |
 | Chup's Quest | 243946 | [243946-chups-quest.json](./243946-chups-quest.json) |
+| Chupa Chupa VR | 143218 | [143218-chupa-chupa-vr.json](./143218-chupa-chupa-vr.json) |
 | Chupacabra | 59225 | [59225-chupacabra.json](./59225-chupacabra.json) |
 | Chupacabras: Night Hunt | 163904 | [163904-chupacabras-night-hunt.json](./163904-chupacabras-night-hunt.json) |
 | Chura-umi Monogatari | 292139 | [292139-chura-umi-monogatari.json](./292139-chura-umi-monogatari.json) |
@@ -18666,6 +18669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusades | 274149 | [274149-crusades.json](./274149-crusades.json) |
 | CrusaDoom | 310608 | [310608-crusadoom.json](./310608-crusadoom.json) |
 | Crush | 102296 | [102296-crush.json](./102296-crush.json) |
+| Crush | 143223 | [143223-crush.json](./143223-crush.json) |
 | Crush | 362002 | [362002-crush.json](./362002-crush.json) |
 | Crush | 6753 | [6753-crush.json](./6753-crush.json) |
 | Crush & Squash | 75805 | [75805-crush-and-squash.json](./75805-crush-and-squash.json) |
@@ -20620,6 +20624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Complex | 54813 | [54813-cyber-complex.json](./54813-cyber-complex.json) |
 | Cyber Control | 290756 | [290756-cyber-control.json](./290756-cyber-control.json) |
 | Cyber Courier 2088 | 233666 | [233666-cyber-courier-2088.json](./233666-cyber-courier-2088.json) |
+| Cyber Crush 2069 | 143238 | [143238-cyber-crush-2069.json](./143238-cyber-crush-2069.json) |
 | Cyber Cult City | 154083 | [154083-cyber-cult-city.json](./154083-cyber-cult-city.json) |
 | Cyber Cycle | 130047 | [130047-cyber-cycle.json](./130047-cyber-cycle.json) |
 | Cyber Cycles | 39829 | [39829-cyber-cycles.json](./39829-cyber-cycles.json) |
