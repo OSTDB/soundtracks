@@ -12989,6 +12989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Light That Binds Us | 410035 | [410035-the-light-that-binds-us.json](./410035-the-light-that-binds-us.json) |
 | The Light Will Lead You Home | 165375 | [165375-the-light-will-lead-you-home.json](./165375-the-light-will-lead-you-home.json) |
 | The Light: Remastered Edition | 394806 | [394806-the-light-remastered-edition.json](./394806-the-light-remastered-edition.json) |
+| The Lighthouse | 177634 | [177634-the-lighthouse.json](./177634-the-lighthouse.json) |
 | The Lighthouse | 378395 | [378395-the-lighthouse.json](./378395-the-lighthouse.json) |
 | The Lighthouse | 408237 | [408237-the-lighthouse.json](./408237-the-lighthouse.json) |
 | The Lighthouse | 51693 | [51693-the-lighthouse.json](./51693-the-lighthouse.json) |
@@ -19402,6 +19403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Zium Exposition | 321851 | [321851-the-zium-exposition.json](./321851-the-zium-exposition.json) |
 | The Zium Gallery | 193674 | [193674-the-zium-gallery.json](./193674-the-zium-gallery.json) |
 | The Zium Garden | 179838 | [179838-the-zium-garden.json](./179838-the-zium-garden.json) |
+| The Zium Museum | 177658 | [177658-the-zium-museum.json](./177658-the-zium-museum.json) |
 | The Zium Railway | 417676 | [417676-the-zium-railway.json](./417676-the-zium-railway.json) |
 | The Zodiac Mystery | 392122 | [392122-the-zodiac-mystery.json](./392122-the-zodiac-mystery.json) |
 | The Zombie Fortress | 327861 | [327861-the-zombie-fortress.json](./327861-the-zombie-fortress.json) |
@@ -20350,6 +20352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Those Left Behind | 212854 | [212854-those-left-behind.json](./212854-those-left-behind.json) |
 | Those Nights at Fredbear's | 209295 | [209295-those-nights-at-fredbears.json](./209295-those-nights-at-fredbears.json) |
 | Those Nights at Fredbear's: Reboot | 209310 | [209310-those-nights-at-fredbears-reboot.json](./209310-those-nights-at-fredbears-reboot.json) |
+| Those Nights at Rachel's | 177626 | [177626-those-nights-at-rachels.json](./177626-those-nights-at-rachels.json) |
 | Those Nights at Rachel's 2 | 209298 | [209298-those-nights-at-rachels-2.json](./209298-those-nights-at-rachels-2.json) |
 | Those Nights at Rachel's 2: Reloaded | 209308 | [209308-those-nights-at-rachels-2-reloaded.json](./209308-those-nights-at-rachels-2-reloaded.json) |
 | Those Nights at Ring's 2 | 336360 | [336360-those-nights-at-rings-2.json](./336360-those-nights-at-rings-2.json) |
