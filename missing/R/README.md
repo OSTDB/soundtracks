@@ -8480,6 +8480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Racer | 297243 | [297243-road-racer.json](./297243-road-racer.json) |
 | Road Racers | 66406 | [66406-road-racers.json](./66406-road-racers.json) |
 | Road Racing: Extreme Traffic Driving | 110249 | [110249-road-racing-extreme-traffic-driving.json](./110249-road-racing-extreme-traffic-driving.json) |
+| Road Racing: Highway Car Chase | 172855 | [172855-road-racing-highway-car-chase.json](./172855-road-racing-highway-car-chase.json) |
 | Road Rage | 55244 | [55244-road-rage.json](./55244-road-rage.json) |
 | Road Rage | 57543 | [57543-road-rage.json](./57543-road-rage.json) |
 | Road Rage 3 | 43536 | [43536-road-rage-3.json](./43536-road-rage-3.json) |
