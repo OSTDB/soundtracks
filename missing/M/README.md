@@ -5998,6 +5998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -16746,6 +16747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Bus | 60742 | [60742-moon-bus.json](./60742-moon-bus.json) |
 | Moon Carrier | 357135 | [357135-moon-carrier.json](./357135-moon-carrier.json) |
 | Moon Castle | 89404 | [89404-moon-castle.json](./89404-moon-castle.json) |
+| Moon Caves | 142555 | [142555-moon-caves.json](./142555-moon-caves.json) |
 | Moon Cheeser | 184695 | [184695-moon-cheeser.json](./184695-moon-cheeser.json) |
 | Moon Child | 108279 | [108279-moon-child.json](./108279-moon-child.json) |
 | Moon Chronicles | 8606 | [8606-moon-chronicles.json](./8606-moon-chronicles.json) |
@@ -16982,6 +16984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoonScavenger | 239720 | [239720-moonscavenger.json](./239720-moonscavenger.json) |
 | Moonshades | 151880 | [151880-moonshades.json](./151880-moonshades.json) |
 | Moonshadow | 70161 | [70161-moonshadow.json](./70161-moonshadow.json) |
+| Moonshell Island | 142585 | [142585-moonshell-island.json](./142585-moonshell-island.json) |
 | Moonshine | 144799 | [144799-moonshine.json](./144799-moonshine.json) |
 | Moonshine and I: Sansevieria | 178525 | [178525-moonshine-and-i-sansevieria.json](./178525-moonshine-and-i-sansevieria.json) |
 | Moonshine Inc. | 191849 | [191849-moonshine-inc.json](./191849-moonshine-inc.json) |
@@ -17784,6 +17787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosquitoes and zombies | 132410 | [132410-mosquitoes-and-zombies.json](./132410-mosquitoes-and-zombies.json) |
 | Mosquiturros | 379040 | [379040-mosquiturros.json](./379040-mosquiturros.json) |
 | Moss | 37095 | [37095-moss.json](./37095-moss.json) |
+| Moss as Texture as Space Folding Onto Itself | 142537 | [142537-moss-as-texture-as-space-folding-onto-itself.json](./142537-moss-as-texture-as-space-folding-onto-itself.json) |
 | Moss Destruction | 103431 | [103431-moss-destruction.json](./103431-moss-destruction.json) |
 | Moss Moss | 393732 | [393732-moss-moss.json](./393732-moss-moss.json) |
 | Moss Palace Parade | 406118 | [406118-moss-palace-parade.json](./406118-moss-palace-parade.json) |
@@ -19201,6 +19205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muddy Heights | 223678 | [223678-muddy-heights.json](./223678-muddy-heights.json) |
 | Muddy Heights 2 | 32939 | [32939-muddy-heights-2.json](./32939-muddy-heights-2.json) |
 | Muddy Water | 171252 | [171252-muddy-water.json](./171252-muddy-water.json) |
+| Muddy Water 'Round My Shoes | 142544 | [142544-muddy-water-round-my-shoes.json](./142544-muddy-water-round-my-shoes.json) |
 | Mudflood | 408066 | [408066-mudflood.json](./408066-mudflood.json) |
 | MudGate | 217009 | [217009-mudgate.json](./217009-mudgate.json) |
 | Mudkip Adventures | 287903 | [287903-mudkip-adventures.json](./287903-mudkip-adventures.json) |
