@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.A.P.D. 2195 | 197004 | [197004-l-a-p-d-2195.json](./197004-l-a-p-d-2195.json) |
 | L.A.W. | 91855 | [91855-l-a-w.json](./91855-l-a-w.json) |
 | L.C.D. Bowling | 346111 | [346111-l-c-d-bowling.json](./346111-l-c-d-bowling.json) |
+| L.C.O.S. | 181431 | [181431-l-c-o-s.json](./181431-l-c-o-s.json) |
 | L.E.M. | 269166 | [269166-l-e-m.json](./269166-l-e-m.json) |
 | L.F.O. -Lost Future Omega- | 30207 | [30207-l-f-o-lost-future-omega.json](./30207-l-f-o-lost-future-omega.json) |
 | L.G.S.: Shinsetsu Houshin Engi | 64164 | [64164-l-g-s-shinsetsu-houshin-engi.json](./64164-l-g-s-shinsetsu-houshin-engi.json) |
