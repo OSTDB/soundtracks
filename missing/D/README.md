@@ -2662,6 +2662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dating App Simulator | 380235 | [380235-dating-app-simulator.json](./380235-dating-app-simulator.json) |
 | Dating Izzie | 247925 | [247925-dating-izzie.json](./247925-dating-izzie.json) |
 | Dating Killmulator | 324646 | [324646-dating-killmulator.json](./324646-dating-killmulator.json) |
+| Dating Life 2: Emily X Miley | 159956 | [159956-dating-life-2-emily-x-miley.json](./159956-dating-life-2-emily-x-miley.json) |
 | Dating Life: Miley X Emily | 119781 | [119781-dating-life-miley-x-emily.json](./119781-dating-life-miley-x-emily.json) |
 | Dating Maze | 401694 | [401694-dating-maze.json](./401694-dating-maze.json) |
 | Dating My High School Bully | 205817 | [205817-dating-my-high-school-bully.json](./205817-dating-my-high-school-bully.json) |
@@ -3551,6 +3552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead End: Orchestral Manoeuvres in the Dead End | 59390 | [59390-dead-end-orchestral-manoeuvres-in-the-dead-end.json](./59390-dead-end-orchestral-manoeuvres-in-the-dead-end.json) |
 | Dead Engine | 345065 | [345065-dead-engine.json](./345065-dead-engine.json) |
 | Dead Epidemic | 359858 | [359858-dead-epidemic.json](./359858-dead-epidemic.json) |
+| Dead Era | 159996 | [159996-dead-era.json](./159996-dead-era.json) |
 | Dead Estate | 141453 | [141453-dead-estate.json](./141453-dead-estate.json) |
 | Dead Estate Classic | 327548 | [327548-dead-estate-classic.json](./327548-dead-estate-classic.json) |
 | Dead Estate: Assignment Anya | 282415 | [282415-dead-estate-assignment-anya.json](./282415-dead-estate-assignment-anya.json) |
@@ -4098,6 +4100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadlocked | 197796 | [197796-deadlocked.json](./197796-deadlocked.json) |
 | Deadlocked | 274514 | [274514-deadlocked.json](./274514-deadlocked.json) |
 | Deadlokk | 156948 | [156948-deadlokk.json](./156948-deadlokk.json) |
+| Deadluck | 159948 | [159948-deadluck.json](./159948-deadluck.json) |
 | Deadly 30 | 8486 | [8486-deadly-30.json](./8486-deadly-30.json) |
 | Deadly Animal Duel | 61893 | [61893-deadly-animal-duel.json](./61893-deadly-animal-duel.json) |
 | Deadly Arts | 10612 | [10612-deadly-arts.json](./10612-deadly-arts.json) |
@@ -17237,6 +17240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drumbeat Quest | 174229 | [174229-drumbeat-quest.json](./174229-drumbeat-quest.json) |
 | Drumblox | 267313 | [267313-drumblox.json](./267313-drumblox.json) |
 | Drumguy | 329050 | [329050-drumguy.json](./329050-drumguy.json) |
+| DruMidia | 159954 | [159954-drumidia.json](./159954-drumidia.json) |
 | DrumKit | 76469 | [76469-drumkit.json](./76469-drumkit.json) |
 | DrumMania | 80397 | [80397-drummania.json](./80397-drummania.json) |
 | DrumMania 3rdMix | 188662 | [188662-drummania-3rdmix.json](./188662-drummania-3rdmix.json) |
