@@ -13302,6 +13302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay Zombie | 214313 | [214313-slay-zombie.json](./214313-slay-zombie.json) |
 | Slayaway Camp | 25239 | [25239-slayaway-camp.json](./25239-slayaway-camp.json) |
 | Slayaway Camp 2 | 273976 | [273976-slayaway-camp-2.json](./273976-slayaway-camp-2.json) |
+| Slayaway Camp: Monthly Murderers Series 1 | 174430 | [174430-slayaway-camp-monthly-murderers-series-1.json](./174430-slayaway-camp-monthly-murderers-series-1.json) |
 | Slayblade | 394830 | [394830-slayblade.json](./394830-slayblade.json) |
 | Slaycation Paradise | 200679 | [200679-slaycation-paradise.json](./200679-slaycation-paradise.json) |
 | Slayer | 197595 | [197595-slayer.json](./197595-slayer.json) |
@@ -14346,6 +14347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small World | 217779 | [217779-small-world.json](./217779-small-world.json) |
 | Small World | 272927 | [272927-small-world.json](./272927-small-world.json) |
 | Small World Z | 129513 | [129513-small-world-z.json](./129513-small-world-z.json) |
+| Small World: Grand Dames | 174467 | [174467-small-world-grand-dames.json](./174467-small-world-grand-dames.json) |
 | Small Worlds | 201612 | [201612-small-worlds.json](./201612-small-worlds.json) |
 | Smalland: Survive the Wilds VR | 299752 | [299752-smalland-survive-the-wilds-vr.json](./299752-smalland-survive-the-wilds-vr.json) |
 | SmallBall Baseball | 56403 | [56403-smallball-baseball.json](./56403-smallball-baseball.json) |
@@ -34248,6 +34250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surfer Girl Makeover | 99997 | [99997-surfer-girl-makeover.json](./99997-surfer-girl-makeover.json) |
 | Surfer's Paradise | 40691 | [40691-surfers-paradise.json](./40691-surfers-paradise.json) |
 | Surferboy | 346044 | [346044-surferboy.json](./346044-surferboy.json) |
+| Surferman - A FC pixel surfing to avoid obstacles | 174465 | [174465-surferman-a-fc-pixel-surfing-to-avoid-obstacles.json](./174465-surferman-a-fc-pixel-surfing-to-avoid-obstacles.json) |
 | Surfers Code | 295511 | [295511-surfers-code.json](./295511-surfers-code.json) |
 | Surfin' Sam: Attack of the Aqualites | 85416 | [85416-surfin-sam-attack-of-the-aqualites.json](./85416-surfin-sam-attack-of-the-aqualites.json) |
 | Surfing H3O | 43344 | [43344-surfing-h3o.json](./43344-surfing-h3o.json) |
