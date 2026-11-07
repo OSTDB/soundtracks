@@ -8693,6 +8693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chunithm Crystal | 151998 | [151998-chunithm-crystal.json](./151998-chunithm-crystal.json) |
 | Chunithm Luminous | 281381 | [281381-chunithm-luminous.json](./281381-chunithm-luminous.json) |
 | Chunithm Luminous Plus | 309593 | [309593-chunithm-luminous-plus.json](./309593-chunithm-luminous-plus.json) |
+| Chunithm New | 191359 | [191359-chunithm-new.json](./191359-chunithm-new.json) |
 | Chunithm New Plus | 231771 | [231771-chunithm-new-plus.json](./231771-chunithm-new-plus.json) |
 | Chunithm Plus | 153805 | [153805-chunithm-plus.json](./153805-chunithm-plus.json) |
 | Chunithm Star | 154231 | [154231-chunithm-star.json](./154231-chunithm-star.json) |
