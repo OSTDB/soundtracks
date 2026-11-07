@@ -4148,6 +4148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Ages Go | 179885 | [179885-where-ages-go.json](./179885-where-ages-go.json) |
 | Where Am I?: GeoGuess Game | 333996 | [333996-where-am-i-geoguess-game.json](./333996-where-am-i-geoguess-game.json) |
 | Where Angels Cry: Hell Broke Loose | 22084 | [22084-where-angels-cry-hell-broke-loose.json](./22084-where-angels-cry-hell-broke-loose.json) |
+| Where Angels Cry: Tears of the Fallen | 140144 | [140144-where-angels-cry-tears-of-the-fallen.json](./140144-where-angels-cry-tears-of-the-fallen.json) |
 | Where Angels Cry: Tears of the Fallen - Collectors Edition | 34175 | [34175-where-angels-cry-tears-of-the-fallen-collectors-edition.json](./34175-where-angels-cry-tears-of-the-fallen-collectors-edition.json) |
 | Where Angels Meet | 135114 | [135114-where-angels-meet.json](./135114-where-angels-meet.json) |
 | Where are Leo and Mia? Pirate Island | 420655 | [420655-where-are-leo-and-mia-pirate-island.json](./420655-where-are-leo-and-mia-pirate-island.json) |
@@ -5239,6 +5240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Island | 384272 | [384272-wild-island.json](./384272-wild-island.json) |
 | Wild Island Quest | 34693 | [34693-wild-island-quest.json](./34693-wild-island-quest.json) |
 | Wild Isles | 220642 | [220642-wild-isles.json](./220642-wild-isles.json) |
+| Wild Jack: Card Gobang | 140147 | [140147-wild-jack-card-gobang.json](./140147-wild-jack-card-gobang.json) |
 | Wild Jacks: Pro Edition | 96312 | [96312-wild-jacks-pro-edition.json](./96312-wild-jacks-pro-edition.json) |
 | Wild Jigsaw VR | 160149 | [160149-wild-jigsaw-vr.json](./160149-wild-jigsaw-vr.json) |
 | Wild Journey | 154125 | [154125-wild-journey.json](./154125-wild-journey.json) |
