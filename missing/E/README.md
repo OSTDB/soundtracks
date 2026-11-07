@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthling of Gaia | 294367 | [294367-earthling-of-gaia.json](./294367-earthling-of-gaia.json) |
 | Earthling Priorities | 229154 | [229154-earthling-priorities.json](./229154-earthling-priorities.json) |
 | Earthling's Undertaking | 371631 | [371631-earthlings-undertaking.json](./371631-earthlings-undertaking.json) |
+| Earthlingo | 143864 | [143864-earthlingo.json](./143864-earthlingo.json) |
 | Earthlings | 370937 | [370937-earthlings.json](./370937-earthlings.json) |
 | Earthlings Must Die | 123857 | [123857-earthlings-must-die.json](./123857-earthlings-must-die.json) |
 | Earthlock 2 | 136090 | [136090-earthlock-2.json](./136090-earthlock-2.json) |
@@ -3786,6 +3787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Knight | 126901 | [126901-endless-knight.json](./126901-endless-knight.json) |
 | Endless Labyrinth | 32264 | [32264-endless-labyrinth.json](./32264-endless-labyrinth.json) |
 | Endless Legend | 9278 | [9278-endless-legend.json](./9278-endless-legend.json) |
+| Endless Legend - Inferno | 143844 | [143844-endless-legend-inferno.json](./143844-endless-legend-inferno.json) |
 | Endless Legend 2 | 329138 | [329138-endless-legend-2.json](./329138-endless-legend-2.json) |
 | Endless Legend: Definitive Edition | 343851 | [343851-endless-legend-definitive-edition.json](./343851-endless-legend-definitive-edition.json) |
 | Endless Legend: Echoes of Auriga | 168765 | [168765-endless-legend-echoes-of-auriga.json](./168765-endless-legend-echoes-of-auriga.json) |
@@ -4195,6 +4197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enkou Girls Collection: Oyaji no Natsu wa Suzushii Loveho de Pakopako Hen | 82997 | [82997-enkou-girls-collection-oyaji-no-natsu-wa-suzushii-loveho-de-pakopako-hen.json](./82997-enkou-girls-collection-oyaji-no-natsu-wa-suzushii-loveho-de-pakopako-hen.json) |
 | Enkou Shoujo 2: JK Idol Marin no Baai | 77896 | [77896-enkou-shoujo-2-jk-idol-marin-no-baai.json](./77896-enkou-shoujo-2-jk-idol-marin-no-baai.json) |
 | Enlighten The Darkness: Again | 273242 | [273242-enlighten-the-darkness-again.json](./273242-enlighten-the-darkness-again.json) |
+| Enlighten: Learn the Art of Learning | 143866 | [143866-enlighten-learn-the-art-of-learning.json](./143866-enlighten-learn-the-art-of-learning.json) |
 | Enlightened | 249883 | [249883-enlightened.json](./249883-enlightened.json) |
 | Enlightened Sentinel | 155667 | [155667-enlightened-sentinel.json](./155667-enlightened-sentinel.json) |
 | Enlightening the Soul Country Light | 280168 | [280168-enlightening-the-soul-country-light.json](./280168-enlightening-the-soul-country-light.json) |
@@ -6667,6 +6670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evaluation | 346474 | [346474-evaluation.json](./346474-evaluation.json) |
 | Evan Quest | 170357 | [170357-evan-quest.json](./170357-evan-quest.json) |
 | Evan Quest 2 | 192929 | [192929-evan-quest-2.json](./192929-evan-quest-2.json) |
+| Evan, Daniel and Friends | 143852 | [143852-evan-daniel-and-friends.json](./143852-evan-daniel-and-friends.json) |
 | Evan, Daniel and Friends. Vol 2 | 238970 | [238970-evan-daniel-and-friends-vol-2.json](./238970-evan-daniel-and-friends-vol-2.json) |
 | Evan's Remains: Deluxe Edition | 154192 | [154192-evans-remains-deluxe-edition.json](./154192-evans-remains-deluxe-edition.json) |
 | Evander Holyfield Championship Boxing | 282991 | [282991-evander-holyfield-championship-boxing.json](./282991-evander-holyfield-championship-boxing.json) |
