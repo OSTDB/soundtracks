@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machineboy Complete Collection | 154614 | [154614-machineboy-complete-collection.json](./154614-machineboy-complete-collection.json) |
 | MachineCraft | 34580 | [34580-machinecraft.json](./34580-machinecraft.json) |
 | Machineers | 35621 | [35621-machineers.json](./35621-machineers.json) |
+| Machineers: Episode 2 - River City | 174422 | [174422-machineers-episode-2-river-city.json](./174422-machineers-episode-2-river-city.json) |
 | Machinefall | 388088 | [388088-machinefall.json](./388088-machinefall.json) |
 | Machinegun Geometry | 68756 | [68756-machinegun-geometry.json](./68756-machinegun-geometry.json) |
 | Machinegun Geometry: The Right Angle | 68757 | [68757-machinegun-geometry-the-right-angle.json](./68757-machinegun-geometry-the-right-angle.json) |
@@ -6555,6 +6556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meanwhile | 22329 | [22329-meanwhile.json](./22329-meanwhile.json) |
 | Meanwhile in Russia | 369919 | [369919-meanwhile-in-russia.json](./369919-meanwhile-in-russia.json) |
 | Meanwhile in Sector 80 | 278945 | [278945-meanwhile-in-sector-80.json](./278945-meanwhile-in-sector-80.json) |
+| Meanwhile: An Interactive Comic Book - Extra: The Case of the Missing Science Project | 174434 | [174434-meanwhile-an-interactive-comic-book-extra-the-case-of-the-missing-science-project.json](./174434-meanwhile-an-interactive-comic-book-extra-the-case-of-the-missing-science-project.json) |
 | Mearcair/System Pulse | 252908 | [252908-mearcair-system-pulse.json](./252908-mearcair-system-pulse.json) |
 | Mearstale our little item shop | 188963 | [188963-mearstale-our-little-item-shop.json](./188963-mearstale-our-little-item-shop.json) |
 | Mearth | 197875 | [197875-mearth.json](./197875-mearth.json) |
@@ -13007,6 +13009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini-4 Boy | 228620 | [228620-mini-4-boy.json](./228620-mini-4-boy.json) |
 | Mini-4 Boy II | 228621 | [228621-mini-4-boy-ii.json](./228621-mini-4-boy-ii.json) |
 | Mini-Dead | 97242 | [97242-mini-dead.json](./97242-mini-dead.json) |
+| Mini-Dead: Tarot | 174445 | [174445-mini-dead-tarot.json](./174445-mini-dead-tarot.json) |
 | Mini-Game Greatest Hits | 230390 | [230390-mini-game-greatest-hits.json](./230390-mini-game-greatest-hits.json) |
 | Mini-Games Madness Volume: #1 - Hello World! | 84632 | [84632-mini-games-madness-volume-1-hello-world.json](./84632-mini-games-madness-volume-1-hello-world.json) |
 | Mini-Level Megawad | 269654 | [269654-mini-level-megawad.json](./269654-mini-level-megawad.json) |
