@@ -4705,6 +4705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Catcher | 100226 | [100226-light-catcher.json](./100226-light-catcher.json) |
 | Light Chaser: End of Dawn | 108269 | [108269-light-chaser-end-of-dawn.json](./108269-light-chaser-end-of-dawn.json) |
 | Light City District | 257912 | [257912-light-city-district.json](./257912-light-city-district.json) |
+| Light Crawler | 191976 | [191976-light-crawler.json](./191976-light-crawler.json) |
 | Light Crusader | 15073 | [15073-light-crusader.json](./15073-light-crusader.json) |
 | Light Cry | 268993 | [268993-light-cry.json](./268993-light-cry.json) |
 | Light Cube | 100529 | [100529-light-cube.json](./100529-light-cube.json) |
