@@ -2844,6 +2844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elven War RPG | 244227 | [244227-elven-war-rpg.json](./244227-elven-war-rpg.json) |
 | Elven Warmaiden | 188763 | [188763-elven-warmaiden.json](./188763-elven-warmaiden.json) |
 | Elven Warrior | 13634 | [13634-elven-warrior.json](./13634-elven-warrior.json) |
+| Elvenar | 181994 | [181994-elvenar.json](./181994-elvenar.json) |
 | Elvenar | 59764 | [59764-elvenar.json](./59764-elvenar.json) |
 | ElvenEscape | 203945 | [203945-elvenescape.json](./203945-elvenescape.json) |
 | Elveon | 92755 | [92755-elveon.json](./92755-elveon.json) |
