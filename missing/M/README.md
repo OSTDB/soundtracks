@@ -1509,6 +1509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Girl Witch Trials | 324791 | [324791-magical-girl-witch-trials.json](./324791-magical-girl-witch-trials.json) |
 | Magical Girl Witch Trials: Famitsu DX Pack | 403787 | [403787-magical-girl-witch-trials-famitsu-dx-pack.json](./403787-magical-girl-witch-trials-famitsu-dx-pack.json) |
 | Magical Girl Yusya-chan and the Labyrinth of Lust | 406694 | [406694-magical-girl-yusya-chan-and-the-labyrinth-of-lust.json](./406694-magical-girl-yusya-chan-and-the-labyrinth-of-lust.json) |
+| Magical Girl Z | 180341 | [180341-magical-girl-z.json](./180341-magical-girl-z.json) |
 | Magical Girl: Final Pink Star | 389715 | [389715-magical-girl-final-pink-star.json](./389715-magical-girl-final-pink-star.json) |
 | Magical Girl: Taboo Village | 362038 | [362038-magical-girl-taboo-village.json](./362038-magical-girl-taboo-village.json) |
 | Magical girl's labyrinth | 105332 | [105332-magical-girls-labyrinth.json](./105332-magical-girls-labyrinth.json) |
@@ -5963,7 +5964,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9072,6 +9072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mendel Simulator | 408416 | [408416-mendel-simulator.json](./408416-mendel-simulator.json) |
 | Mendel's Garden | 121691 | [121691-mendels-garden.json](./121691-mendels-garden.json) |
 | Mending Wall | 185832 | [185832-mending-wall.json](./185832-mending-wall.json) |
+| Mendum Memoria | 180387 | [180387-mendum-memoria.json](./180387-mendum-memoria.json) |
 | Menes: The Chainbreaker | 333316 | [333316-menes-the-chainbreaker.json](./333316-menes-the-chainbreaker.json) |
 | Mèng Běn Wúyōu | 109313 | [109313-meng-ben-wuyou.json](./109313-meng-ben-wuyou.json) |
 | Méng Chǒng Xīyóu | 367432 | [367432-meng-chong-xiyou.json](./367432-meng-chong-xiyou.json) |
@@ -9505,6 +9506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid Secrets13-Secret Admirer | 100903 | [100903-mermaid-secrets13-secret-admirer.json](./100903-mermaid-secrets13-secret-admirer.json) |
 | Mermaid Secrets14 - Prison Escape | 104465 | [104465-mermaid-secrets14-prison-escape.json](./104465-mermaid-secrets14-prison-escape.json) |
 | Mermaid Secrets9- Hidden Crimes in High School | 95890 | [95890-mermaid-secrets9-hidden-crimes-in-high-school.json](./95890-mermaid-secrets9-hidden-crimes-in-high-school.json) |
+| Mermaid Shores | 180375 | [180375-mermaid-shores.json](./180375-mermaid-shores.json) |
 | Mermaid Spa & Makeover | 90733 | [90733-mermaid-spa-and-makeover.json](./90733-mermaid-spa-and-makeover.json) |
 | Mermaid Splash! | 146522 | [146522-mermaid-splash.json](./146522-mermaid-splash.json) |
 | Mermaid Splash! Passion Festival | 178775 | [178775-mermaid-splash-passion-festival.json](./178775-mermaid-splash-passion-festival.json) |
@@ -14017,6 +14019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mister Gas | 272457 | [272457-mister-gas.json](./272457-mister-gas.json) |
 | Mister Gato Idle: The Meowsiah | 348250 | [348250-mister-gato-idle-the-meowsiah.json](./348250-mister-gato-idle-the-meowsiah.json) |
 | Mister Jump | 106872 | [106872-mister-jump.json](./106872-mister-jump.json) |
+| Mister Mandragora's Special Errands! | 180382 | [180382-mister-mandragoras-special-errands.json](./180382-mister-mandragoras-special-errands.json) |
 | Mister Mosquito | 317461 | [317461-mister-mosquito.json](./317461-mister-mosquito.json) |
 | Mister Mosquito | 8966 | [8966-mister-mosquito.json](./8966-mister-mosquito.json) |
 | Mister Quizz Et La Malédiction Du Manoir | 85762 | [85762-mister-quizz-et-la-malediction-du-manoir.json](./85762-mister-quizz-et-la-malediction-du-manoir.json) |
