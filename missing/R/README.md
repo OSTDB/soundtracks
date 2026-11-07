@@ -6265,6 +6265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrowave 2 | 340694 | [340694-retrowave-2.json](./340694-retrowave-2.json) |
 | Retrowave Barro Crazy Drift | 386976 | [386976-retrowave-barro-crazy-drift.json](./386976-retrowave-barro-crazy-drift.json) |
 | Retrowave Drift | 148911 | [148911-retrowave-drift.json](./148911-retrowave-drift.json) |
+| Retrowave Drive | 156807 | [156807-retrowave-drive.json](./156807-retrowave-drive.json) |
 | Retrowave Hexon | 159857 | [159857-retrowave-hexon.json](./159857-retrowave-hexon.json) |
 | Retrowave Illusions: Aesthetics Edition | 250304 | [250304-retrowave-illusions-aesthetics-edition.json](./250304-retrowave-illusions-aesthetics-edition.json) |
 | Retrowave Rider | 207606 | [207606-retrowave-rider.json](./207606-retrowave-rider.json) |
@@ -10689,6 +10690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance MD: Always on Call | 239207 | [239207-romance-md-always-on-call.json](./239207-romance-md-always-on-call.json) |
 | Romance of a Demon Kingdom's Fall | 262782 | [262782-romance-of-a-demon-kingdoms-fall.json](./262782-romance-of-a-demon-kingdoms-fall.json) |
 | Romance of Bousouzoku | 298515 | [298515-romance-of-bousouzoku.json](./298515-romance-of-bousouzoku.json) |
+| Romance of Raskya | 156799 | [156799-romance-of-raskya.json](./156799-romance-of-raskya.json) |
 | Romance of the Forgotten Kingdom | 63109 | [63109-romance-of-the-forgotten-kingdom.json](./63109-romance-of-the-forgotten-kingdom.json) |
 | Romance of the Three Kingdom Touch | 21956 | [21956-romance-of-the-three-kingdom-touch.json](./21956-romance-of-the-three-kingdom-touch.json) |
 | Romance of the Three Kingdoms | 14509 | [14509-romance-of-the-three-kingdoms.json](./14509-romance-of-the-three-kingdoms.json) |
