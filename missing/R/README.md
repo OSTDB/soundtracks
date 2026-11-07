@@ -7989,6 +7989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Robots | 368887 | [368887-rise-of-the-robots.json](./368887-rise-of-the-robots.json) |
 | Rise of the Robots X | 191127 | [191127-rise-of-the-robots-x.json](./191127-rise-of-the-robots-x.json) |
 | Rise of the Ronin: Digital Deluxe Edition | 284585 | [284585-rise-of-the-ronin-digital-deluxe-edition.json](./284585-rise-of-the-ronin-digital-deluxe-edition.json) |
+| Rise of the samurai in VR | 150331 | [150331-rise-of-the-samurai-in-vr.json](./150331-rise-of-the-samurai-in-vr.json) |
 | Rise of the Savage | 95274 | [95274-rise-of-the-savage.json](./95274-rise-of-the-savage.json) |
 | Rise of the Spellbaker | 415293 | [415293-rise-of-the-spellbaker.json](./415293-rise-of-the-spellbaker.json) |
 | Rise of the Successor | 384168 | [384168-rise-of-the-successor.json](./384168-rise-of-the-successor.json) |
