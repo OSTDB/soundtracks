@@ -1848,6 +1848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnderRaid | 56125 | [56125-underraid.json](./56125-underraid.json) |
 | UnderRail | 16657 | [16657-underrail.json](./16657-underrail.json) |
 | UnderRail 2: Infusion | 333852 | [333852-underrail-2-infusion.json](./333852-underrail-2-infusion.json) |
+| UnderRail: Expedition | 155280 | [155280-underrail-expedition.json](./155280-underrail-expedition.json) |
 | Underrail: Heavy Duty | 269985 | [269985-underrail-heavy-duty.json](./269985-underrail-heavy-duty.json) |
 | Underrun | 287615 | [287615-underrun.json](./287615-underrun.json) |
 | Undersea | 287570 | [287570-undersea.json](./287570-undersea.json) |
