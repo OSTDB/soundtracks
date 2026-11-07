@@ -2997,6 +2997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrier Battles 4 Guadalcanal: Submarines & Torpedo Alley Scenario | 193592 | [193592-carrier-battles-4-guadalcanal-submarines-and-torpedo-alley-scenario.json](./193592-carrier-battles-4-guadalcanal-submarines-and-torpedo-alley-scenario.json) |
 | Carrier Battles WW2: Admiral of the Fleet | 171481 | [171481-carrier-battles-ww2-admiral-of-the-fleet.json](./171481-carrier-battles-ww2-admiral-of-the-fleet.json) |
 | Carrier Command | 11992 | [11992-carrier-command.json](./11992-carrier-command.json) |
+| Carrier Command 2 | 151902 | [151902-carrier-command-2.json](./151902-carrier-command-2.json) |
 | Carrier Command 2 VR | 159147 | [159147-carrier-command-2-vr.json](./159147-carrier-command-2-vr.json) |
 | Carrier Command: Gaea Mission | 6934 | [6934-carrier-command-gaea-mission.json](./6934-carrier-command-gaea-mission.json) |
 | Carrier Cuties: Pets in Mechs! | 403371 | [403371-carrier-cuties-pets-in-mechs.json](./403371-carrier-cuties-pets-in-mechs.json) |
@@ -13430,6 +13431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Con 10 Sedi | 267163 | [267163-con-10-sedi.json](./267163-con-10-sedi.json) |
 | Con Amore | 32419 | [32419-con-amore.json](./32419-con-amore.json) |
 | Con Man: The Game | 76571 | [76571-con-man-the-game.json](./76571-con-man-the-game.json) |
+| Con Rồng Cháu Tiên | 151876 | [151876-con-rong-chau-tien.json](./151876-con-rong-chau-tien.json) |
 | Con-Quest | 13512 | [13512-con-quest.json](./13512-con-quest.json) |
 | Con-Quest | 140569 | [140569-con-quest.json](./140569-con-quest.json) |
 | Con-Quest! Poké-con | 282956 | [282956-con-quest-poke-con.json](./282956-con-quest-poke-con.json) |
