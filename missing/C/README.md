@@ -4853,6 +4853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catz 4 | 159146 | [159146-catz-4.json](./159146-catz-4.json) |
 | Catz II: Your Virtual Petz | 73463 | [73463-catz-ii-your-virtual-petz.json](./73463-catz-ii-your-virtual-petz.json) |
 | Catz: Your Computer Petz | 79286 | [79286-catz-your-computer-petz.json](./79286-catz-your-computer-petz.json) |
+| Caucasus: Nanatsuki no Nie | 166376 | [166376-caucasus-nanatsuki-no-nie.json](./166376-caucasus-nanatsuki-no-nie.json) |
 | Caught by a Spider | 330917 | [330917-caught-by-a-spider.json](./330917-caught-by-a-spider.json) |
 | Caught in Nowhere | 160076 | [160076-caught-in-nowhere.json](./160076-caught-in-nowhere.json) |
 | Caught Lacking: Femboy Edition | 385247 | [385247-caught-lacking-femboy-edition.json](./385247-caught-lacking-femboy-edition.json) |
