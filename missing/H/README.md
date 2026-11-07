@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hairdresser Simulator | 149731 | [149731-hairdresser-simulator.json](./149731-hairdresser-simulator.json) |
 | Hairdresser Simulator: Beards and Mustaches | 293125 | [293125-hairdresser-simulator-beards-and-mustaches.json](./293125-hairdresser-simulator-beards-and-mustaches.json) |
 | Hairstyle | 104597 | [104597-hairstyle.json](./104597-hairstyle.json) |
+| Hairy Harry | 146469 | [146469-hairy-harry.json](./146469-hairy-harry.json) |
 | Hairy Ladies | 417820 | [417820-hairy-ladies.json](./417820-hairy-ladies.json) |
 | Hairy Legs | 91880 | [91880-hairy-legs.json](./91880-hairy-legs.json) |
 | Hairy Tales | 22172 | [22172-hairy-tales.json](./22172-hairy-tales.json) |
