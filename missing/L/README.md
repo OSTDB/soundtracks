@@ -3984,6 +3984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Enforcers I & II | 77250 | [77250-lethal-enforcers-i-and-ii.json](./77250-lethal-enforcers-i-and-ii.json) |
 | Lethal Gamble 1 Werewolf Puzzle | 170278 | [170278-lethal-gamble-1-werewolf-puzzle.json](./170278-lethal-gamble-1-werewolf-puzzle.json) |
 | Lethal Ghosts | 405777 | [405777-lethal-ghosts.json](./405777-lethal-ghosts.json) |
+| Lethal Honor: Order of the Apocalypse | 161495 | [161495-lethal-honor-order-of-the-apocalypse.json](./161495-lethal-honor-order-of-the-apocalypse.json) |
 | Lethal Infiltration: Ghost Reconnaissance | 296932 | [296932-lethal-infiltration-ghost-reconnaissance.json](./296932-lethal-infiltration-ghost-reconnaissance.json) |
 | Lethal Judgment: Origins | 91794 | [91794-lethal-judgment-origins.json](./91794-lethal-judgment-origins.json) |
 | Lethal Justice | 40334 | [40334-lethal-justice.json](./40334-lethal-justice.json) |
@@ -9348,6 +9349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucid Soul | 153488 | [153488-lucid-soul.json](./153488-lucid-soul.json) |
 | Lucid Steam | 158599 | [158599-lucid-steam.json](./158599-lucid-steam.json) |
 | Lucid Trips | 26803 | [26803-lucid-trips.json](./26803-lucid-trips.json) |
+| Lucid: A Game About Dreams | 161471 | [161471-lucid-a-game-about-dreams.json](./161471-lucid-a-game-about-dreams.json) |
 | Lucid: Parables of the Ubermensch | 151384 | [151384-lucid-parables-of-the-ubermensch.json](./151384-lucid-parables-of-the-ubermensch.json) |
 | Lucid9: Inciting Incident | 80553 | [80553-lucid9-inciting-incident.json](./80553-lucid9-inciting-incident.json) |
 | Lucido Cancels Everything | 295309 | [295309-lucido-cancels-everything.json](./295309-lucido-cancels-everything.json) |
