@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac Cat | 313948 | [313948-pac-cat.json](./313948-pac-cat.json) |
 | Pac Droids | 94590 | [94590-pac-droids.json](./94590-pac-droids.json) |
 | Pac Girl | 25146 | [25146-pac-girl.json](./25146-pac-girl.json) |
+| Pac Man's Sky | 179778 | [179778-pac-mans-sky.json](./179778-pac-mans-sky.json) |
 | Pac Maze | 312907 | [312907-pac-maze.json](./312907-pac-maze.json) |
 | Pac Mr | 100293 | [100293-pac-mr.json](./100293-pac-mr.json) |
 | Pac Pack | 68951 | [68951-pac-pack.json](./68951-pac-pack.json) |
