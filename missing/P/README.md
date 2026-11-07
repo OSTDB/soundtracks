@@ -4526,6 +4526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Periodic Table: Game | 356690 | [356690-periodic-table-game.json](./356690-periodic-table-game.json) |
 | Periodicity: Hats and Scars | 341583 | [341583-periodicity-hats-and-scars.json](./341583-periodicity-hats-and-scars.json) |
 | Periodonica | 33938 | [33938-periodonica.json](./33938-periodonica.json) |
+| Periodyx Name The Element | 175486 | [175486-periodyx-name-the-element.json](./175486-periodyx-name-the-element.json) |
 | Peripeteia | 142186 | [142186-peripeteia.json](./142186-peripeteia.json) |
 | Peripeteia: Land of Folklore | 183738 | [183738-peripeteia-land-of-folklore.json](./183738-peripeteia-land-of-folklore.json) |
 | Peripheral | 375499 | [375499-peripheral.json](./375499-peripheral.json) |
@@ -6051,6 +6052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picklock | 133098 | [133098-picklock.json](./133098-picklock.json) |
 | Pickmos | 395697 | [395697-pickmos.json](./395697-pickmos.json) |
 | Pickochet | 388959 | [388959-pickochet.json](./388959-pickochet.json) |
+| Pickomino | 175466 | [175466-pickomino.json](./175466-pickomino.json) |
 | Pickup 'N' Packup! | 323260 | [323260-pickup-n-packup.json](./323260-pickup-n-packup.json) |
 | Pickup Artist Trouble | 245765 | [245765-pickup-artist-trouble.json](./245765-pickup-artist-trouble.json) |
 | PickUp Express | 72956 | [72956-pickup-express.json](./72956-pickup-express.json) |
@@ -6205,6 +6207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pictode Collection | 201983 | [201983-pictode-collection.json](./201983-pictode-collection.json) |
 | Pictoglyph | 157920 | [157920-pictoglyph.json](./157920-pictoglyph.json) |
 | PictoImage | 84824 | [84824-pictoimage.json](./84824-pictoimage.json) |
+| Pictominoes | 175462 | [175462-pictominoes.json](./175462-pictominoes.json) |
 | Pictooi | 154591 | [154591-pictooi.json](./154591-pictooi.json) |
 | PictoParty | 58457 | [58457-pictoparty.json](./58457-pictoparty.json) |
 | Pictopix | 26756 | [26756-pictopix.json](./26756-pictopix.json) |
@@ -6261,6 +6264,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piczle Lines DX Bundle | 147788 | [147788-piczle-lines-dx-bundle.json](./147788-piczle-lines-dx-bundle.json) |
 | Piczle Lines DX+α | 116247 | [116247-piczle-lines-dx.json](./116247-piczle-lines-dx.json) |
 | Piczle Lines Jr. | 110026 | [110026-piczle-lines-jr.json](./110026-piczle-lines-jr.json) |
+| Piczle Lines Jr. Green | 175455 | [175455-piczle-lines-jr-green.json](./175455-piczle-lines-jr-green.json) |
+| Piczle Lines Jr. Red | 175480 | [175480-piczle-lines-jr-red.json](./175480-piczle-lines-jr-red.json) |
 | Piczle Lines Super Puzzle Turbo Bundle | 385131 | [385131-piczle-lines-super-puzzle-turbo-bundle.json](./385131-piczle-lines-super-puzzle-turbo-bundle.json) |
 | Piczle Puzzle & Watch Collection | 154906 | [154906-piczle-puzzle-and-watch-collection.json](./154906-piczle-puzzle-and-watch-collection.json) |
 | Piczle Puzzle Adventures + Picto Quest Puzzle Bundle | 145690 | [145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json](./145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json) |
