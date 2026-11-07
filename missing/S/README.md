@@ -240,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sable's Grimoire: A Dragon's Treasure | 129724 | [129724-sables-grimoire-a-dragons-treasure.json](./129724-sables-grimoire-a-dragons-treasure.json) |
 | Sable's Grimoire: Man and Elf | 129725 | [129725-sables-grimoire-man-and-elf.json](./129725-sables-grimoire-man-and-elf.json) |
 | Saborus | 273995 | [273995-saborus.json](./273995-saborus.json) |
+| Sabotage | 176588 | [176588-sabotage.json](./176588-sabotage.json) |
 | Sabotage | 246720 | [246720-sabotage.json](./246720-sabotage.json) |
 | Sabotage 1943 | 60940 | [60940-sabotage-1943.json](./60940-sabotage-1943.json) |
 | Sabotage City | 393820 | [393820-sabotage-city.json](./393820-sabotage-city.json) |
@@ -8819,6 +8820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ships Simulator Bundle | 273007 | [273007-ships-simulator-bundle.json](./273007-ships-simulator-bundle.json) |
 | Ships That Fight Underground | 389379 | [389379-ships-that-fight-underground.json](./389379-ships-that-fight-underground.json) |
 | ShipSwing | 206185 | [206185-shipswing.json](./206185-shipswing.json) |
+| Shipwreck | 176573 | [176573-shipwreck.json](./176573-shipwreck.json) |
 | Shipwreck | 35936 | [35936-shipwreck.json](./35936-shipwreck.json) |
 | Shipwreck Escape | 152827 | [152827-shipwreck-escape.json](./152827-shipwreck-escape.json) |
 | Shipwrecked | 265295 | [265295-shipwrecked.json](./265295-shipwrecked.json) |
@@ -9264,6 +9266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shootrush | 300550 | [300550-shootrush.json](./300550-shootrush.json) |
 | Shoottera | 88148 | [88148-shoottera.json](./88148-shoottera.json) |
 | Shoottris: Beyond the Classic Game | 110508 | [110508-shoottris-beyond-the-classic-game.json](./110508-shoottris-beyond-the-classic-game.json) |
+| ShootUp.io | 176607 | [176607-shootup-io.json](./176607-shootup-io.json) |
 | Shootvaders: The Beginning | 190945 | [190945-shootvaders-the-beginning.json](./190945-shootvaders-the-beginning.json) |
 | ShootX | 343260 | [343260-shootx.json](./343260-shootx.json) |
 | Shooty 2D | 150482 | [150482-shooty-2d.json](./150482-shooty-2d.json) |
@@ -9849,6 +9852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shut the Window | 94968 | [94968-shut-the-window.json](./94968-shut-the-window.json) |
 | Shut the Windows and Don't Look Outside | 337428 | [337428-shut-the-windows-and-dont-look-outside.json](./337428-shut-the-windows-and-dont-look-outside.json) |
 | Shut Up and Dig | 34147 | [34147-shut-up-and-dig.json](./34147-shut-up-and-dig.json) |
+| Shut Up and Slam Jam Karate Basketball | 176595 | [176595-shut-up-and-slam-jam-karate-basketball.json](./176595-shut-up-and-slam-jam-karate-basketball.json) |
 | Shut Up, Rabbit! | 263744 | [263744-shut-up-rabbit.json](./263744-shut-up-rabbit.json) |
 | Shut Up, RPG! | 309196 | [309196-shut-up-rpg.json](./309196-shut-up-rpg.json) |
 | Shut your teeth | 164252 | [164252-shut-your-teeth.json](./164252-shut-your-teeth.json) |
@@ -19771,7 +19775,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21190,6 +21193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Swing | 137913 | [137913-speed-swing.json](./137913-speed-swing.json) |
 | Speed Tap Analysis | 297648 | [297648-speed-tap-analysis.json](./297648-speed-tap-analysis.json) |
 | Speed Tapping Idle RPG for Touhou | 297644 | [297644-speed-tapping-idle-rpg-for-touhou.json](./297644-speed-tapping-idle-rpg-for-touhou.json) |
+| Speed the Card Game | 176598 | [176598-speed-the-card-game.json](./176598-speed-the-card-game.json) |
 | Speed Thief | 54383 | [54383-speed-thief.json](./54383-speed-thief.json) |
 | Speed Track Racing | 225757 | [225757-speed-track-racing.json](./225757-speed-track-racing.json) |
 | Speed Track: No Brakes | 235116 | [235116-speed-track-no-brakes.json](./235116-speed-track-no-brakes.json) |
