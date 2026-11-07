@@ -237,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dad's Dice: History of Legends | 217461 | [217461-dads-dice-history-of-legends.json](./217461-dads-dice-history-of-legends.json) |
 | Dad’s Gonna Be a Travel Influencer. | 403932 | [403932-dad-s-gonna-be-a-travel-influencer.json](./403932-dad-s-gonna-be-a-travel-influencer.json) |
 | Dad's Last Fishing Trip | 328894 | [328894-dads-last-fishing-trip.json](./328894-dads-last-fishing-trip.json) |
+| Dad's Monster House | 167452 | [167452-dads-monster-house.json](./167452-dads-monster-house.json) |
 | Dad's Office 1998 | 359674 | [359674-dads-office-1998.json](./359674-dads-office-1998.json) |
 | Daddy | 223230 | [223230-daddy.json](./223230-daddy.json) |
 | Daddy Comes Home | 330477 | [330477-daddy-comes-home.json](./330477-daddy-comes-home.json) |
@@ -1843,6 +1844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Reign: The Future of War | 659 | [659-dark-reign-the-future-of-war.json](./659-dark-reign-the-future-of-war.json) |
 | Dark Reign: The Future of War - Battles of the Outer Rim | 73771 | [73771-dark-reign-the-future-of-war-battles-of-the-outer-rim.json](./73771-dark-reign-the-future-of-war-battles-of-the-outer-rim.json) |
 | Dark Reign: The Future of War - Rise of the Shadowhand | 658 | [658-dark-reign-the-future-of-war-rise-of-the-shadowhand.json](./658-dark-reign-the-future-of-war-rise-of-the-shadowhand.json) |
+| Dark Renaissance | 167446 | [167446-dark-renaissance.json](./167446-dark-renaissance.json) |
 | Dark Resolve | 358238 | [358238-dark-resolve.json](./358238-dark-resolve.json) |
 | Dark Return | 364016 | [364016-dark-return.json](./364016-dark-return.json) |
 | Dark Riddle | 227538 | [227538-dark-riddle.json](./227538-dark-riddle.json) |
@@ -10780,6 +10782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dispersio | 26489 | [26489-dispersio.json](./26489-dispersio.json) |
 | Dispersio 2 | 143652 | [143652-dispersio-2.json](./143652-dispersio-2.json) |
 | Dispersio 3 | 376189 | [376189-dispersio-3.json](./376189-dispersio-3.json) |
+| Dispersion | 167443 | [167443-dispersion.json](./167443-dispersion.json) |
 | Dispersion Storm | 399835 | [399835-dispersion-storm.json](./399835-dispersion-storm.json) |
 | Displaced | 28939 | [28939-displaced.json](./28939-displaced.json) |
 | Displaced Defense | 253974 | [253974-displaced-defense.json](./253974-displaced-defense.json) |
@@ -16068,6 +16071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream of Mirror Online | 36108 | [36108-dream-of-mirror-online.json](./36108-dream-of-mirror-online.json) |
 | Dream of Pixels | 22203 | [22203-dream-of-pixels.json](./22203-dream-of-pixels.json) |
 | Dream of Salmon | 156891 | [156891-dream-of-salmon.json](./156891-dream-of-salmon.json) |
+| Dream of Summer Dusk | 167441 | [167441-dream-of-summer-dusk.json](./167441-dream-of-summer-dusk.json) |
 | Dream of the Blood Moon | 122998 | [122998-dream-of-the-blood-moon.json](./122998-dream-of-the-blood-moon.json) |
 | Dream of the Hikikomori | 190881 | [190881-dream-of-the-hikikomori.json](./190881-dream-of-the-hikikomori.json) |
 | Dream of the Star Haven | 277122 | [277122-dream-of-the-star-haven.json](./277122-dream-of-the-star-haven.json) |
