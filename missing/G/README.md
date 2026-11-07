@@ -3472,6 +3472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Carnage!!! | 29222 | [29222-get-carnage.json](./29222-get-carnage.json) |
 | Get Clucked | 387084 | [387084-get-clucked.json](./387084-get-clucked.json) |
 | Get Colossal | 377915 | [377915-get-colossal.json](./377915-get-colossal.json) |
+| Get Comfortable | 180879 | [180879-get-comfortable.json](./180879-get-comfortable.json) |
 | Get Dexter | 26462 | [26462-get-dexter.json](./26462-get-dexter.json) |
 | Get Dexter 2 | 55203 | [55203-get-dexter-2.json](./55203-get-dexter-2.json) |
 | Get Dexter 2: The Angel Crystal | 62385 | [62385-get-dexter-2-the-angel-crystal.json](./62385-get-dexter-2-the-angel-crystal.json) |
@@ -7631,6 +7632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grace Hopper: Bug Rescue | 217451 | [217451-grace-hopper-bug-rescue.json](./217451-grace-hopper-bug-rescue.json) |
 | Grace of Letoile | 118166 | [118166-grace-of-letoile.json](./118166-grace-of-letoile.json) |
 | Grace Online | 248302 | [248302-grace-online.json](./248302-grace-online.json) |
+| Grace's Diary | 180877 | [180877-graces-diary.json](./180877-graces-diary.json) |
 | Grace's Quest: To Catch an Art Thief | 54065 | [54065-graces-quest-to-catch-an-art-thief.json](./54065-graces-quest-to-catch-an-art-thief.json) |
 | Graceborne | 317524 | [317524-graceborne.json](./317524-graceborne.json) |
 | Graceful Danmaku Festival | 56130 | [56130-graceful-danmaku-festival.json](./56130-graceful-danmaku-festival.json) |
