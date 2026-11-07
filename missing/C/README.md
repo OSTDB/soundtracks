@@ -11973,6 +11973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloco | 388960 | [388960-coloco.json](./388960-coloco.json) |
 | ColocoDX | 388962 | [388962-colocodx.json](./388962-colocodx.json) |
 | Cologne | 33506 | [33506-cologne.json](./33506-cologne.json) |
+| Cologne 3D | 172878 | [172878-cologne-3d.json](./172878-cologne-3d.json) |
 | Colonel Kerfuffle in Castle Calamity | 275483 | [275483-colonel-kerfuffle-in-castle-calamity.json](./275483-colonel-kerfuffle-in-castle-calamity.json) |
 | Colonel Kerfuffle in Tiki Treasure | 275484 | [275484-colonel-kerfuffle-in-tiki-treasure.json](./275484-colonel-kerfuffle-in-tiki-treasure.json) |
 | Colonel Wasabi | 345577 | [345577-colonel-wasabi.json](./345577-colonel-wasabi.json) |
@@ -12610,6 +12611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colours and Symbols | 173240 | [173240-colours-and-symbols.json](./173240-colours-and-symbols.json) |
 | Colourspace | 321459 | [321459-colourspace.json](./321459-colourspace.json) |
 | Colpile | 67146 | [67146-colpile.json](./67146-colpile.json) |
+| Colsword | 172853 | [172853-colsword.json](./172853-colsword.json) |
 | Colt Canyon | 114074 | [114074-colt-canyon.json](./114074-colt-canyon.json) |
 | Colt-55 | 128430 | [128430-colt-55.json](./128430-colt-55.json) |
 | Colt's Wild West Shootout | 206986 | [206986-colts-wild-west-shootout.json](./206986-colts-wild-west-shootout.json) |
@@ -15631,6 +15633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter-Strike Nexon: Studio - Zombies: Rivals | 171203 | [171203-counter-strike-nexon-studio-zombies-rivals.json](./171203-counter-strike-nexon-studio-zombies-rivals.json) |
 | Counter-Strike Online | 77251 | [77251-counter-strike-online.json](./77251-counter-strike-online.json) |
 | Counter-Strike Techno: Zombies | 332267 | [332267-counter-strike-techno-zombies.json](./332267-counter-strike-techno-zombies.json) |
+| Counter-Strike: Global Offensive - Operation Riptide | 172876 | [172876-counter-strike-global-offensive-operation-riptide.json](./172876-counter-strike-global-offensive-operation-riptide.json) |
 | Counter-Strike: Source Offensive | 287621 | [287621-counter-strike-source-offensive.json](./287621-counter-strike-source-offensive.json) |
 | Counter-Stroke: Grand Building | 212146 | [212146-counter-stroke-grand-building.json](./212146-counter-stroke-grand-building.json) |
 | Counter-Terrorism Ops | 174025 | [174025-counter-terrorism-ops.json](./174025-counter-terrorism-ops.json) |
@@ -19283,6 +19286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Runner | 30128 | [30128-cube-runner.json](./30128-cube-runner.json) |
 | Cube Runner | 72964 | [72964-cube-runner.json](./72964-cube-runner.json) |
 | Cube Rush | 112340 | [112340-cube-rush.json](./112340-cube-rush.json) |
+| Cube Samurai: Run Squared | 172852 | [172852-cube-samurai-run-squared.json](./172852-cube-samurai-run-squared.json) |
 | Cube Samurai: RUN! | 36290 | [36290-cube-samurai-run.json](./36290-cube-samurai-run.json) |
 | Cube School | 408905 | [408905-cube-school.json](./408905-cube-school.json) |
 | Cube Shift | 182715 | [182715-cube-shift.json](./182715-cube-shift.json) |
