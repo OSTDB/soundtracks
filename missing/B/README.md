@@ -970,7 +970,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -11145,6 +11144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Red | 237137 | [237137-blood-red.json](./237137-blood-red.json) |
 | Blood Red Fists | 190292 | [190292-blood-red-fists.json](./190292-blood-red-fists.json) |
 | Blood Red Rebirth | 384313 | [384313-blood-red-rebirth.json](./384313-blood-red-rebirth.json) |
+| Blood Relation Part1. | 148727 | [148727-blood-relation-part1.json](./148727-blood-relation-part1.json) |
 | Blood Rising | 338257 | [338257-blood-rising.json](./338257-blood-rising.json) |
 | Blood Rite | 238505 | [238505-blood-rite.json](./238505-blood-rite.json) |
 | Blood Rivals: Survival Battleground Shooting Games | 216076 | [216076-blood-rivals-survival-battleground-shooting-games.json](./216076-blood-rivals-survival-battleground-shooting-games.json) |
