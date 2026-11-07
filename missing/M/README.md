@@ -5986,6 +5986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -7030,6 +7031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Adventure | 366264 | [366264-medieval-adventure.json](./366264-medieval-adventure.json) |
 | Medieval Alchemist | 220410 | [220410-medieval-alchemist.json](./220410-medieval-alchemist.json) |
 | Medieval and Secrets | 232439 | [232439-medieval-and-secrets.json](./232439-medieval-and-secrets.json) |
+| Medieval Apocalypse | 159454 | [159454-medieval-apocalypse.json](./159454-medieval-apocalypse.json) |
 | Medieval Archer | 180492 | [180492-medieval-archer.json](./180492-medieval-archer.json) |
 | Medieval Archer Simulator | 348240 | [348240-medieval-archer-simulator.json](./348240-medieval-archer-simulator.json) |
 | Medieval Archery Simulator | 171443 | [171443-medieval-archery-simulator.json](./171443-medieval-archery-simulator.json) |
@@ -20806,6 +20808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My House | 326199 | [326199-my-house.json](./326199-my-house.json) |
 | My House and I Got Transported To Another World | 278147 | [278147-my-house-and-i-got-transported-to-another-world.json](./278147-my-house-and-i-got-transported-to-another-world.json) |
 | My House is Haunted | 219656 | [219656-my-house-is-haunted.json](./219656-my-house-is-haunted.json) |
+| My House My Rules | 159450 | [159450-my-house-my-rules.json](./159450-my-house-my-rules.json) |
 | My Housemate Is a Dead Salaryman | 408421 | [408421-my-housemate-is-a-dead-salaryman.json](./408421-my-housemate-is-a-dead-salaryman.json) |
 | My Housetopia | 373874 | [373874-my-housetopia.json](./373874-my-housetopia.json) |
 | My Hunting Adventure Time | 261156 | [261156-my-hunting-adventure-time.json](./261156-my-hunting-adventure-time.json) |
