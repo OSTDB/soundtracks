@@ -2790,6 +2790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Safari | 205979 | [205979-virtual-safari.json](./205979-virtual-safari.json) |
 | Virtual Sailor 6 | 70255 | [70255-virtual-sailor-6.json](./70255-virtual-sailor-6.json) |
 | Virtual Sailor NG | 220717 | [220717-virtual-sailor-ng.json](./220717-virtual-sailor-ng.json) |
+| Virtual Shock | 182584 | [182584-virtual-shock.json](./182584-virtual-shock.json) |
 | Virtual Silence | 94014 | [94014-virtual-silence.json](./94014-virtual-silence.json) |
 | Virtual Sister Happy Mom Newborn Baby Family Game | 95783 | [95783-virtual-sister-happy-mom-newborn-baby-family-game.json](./95783-virtual-sister-happy-mom-newborn-baby-family-game.json) |
 | Virtual Skate | 349108 | [349108-virtual-skate.json](./349108-virtual-skate.json) |
@@ -4113,6 +4114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRchaeology: Prologue | 30697 | [30697-vrchaeology-prologue.json](./30697-vrchaeology-prologue.json) |
 | VRChat | 33615 | [33615-vrchat.json](./33615-vrchat.json) |
 | VRcher | 137462 | [137462-vrcher.json](./137462-vrcher.json) |
+| VReady | 182587 | [182587-vready.json](./182587-vready.json) |
 | VReakout | 33150 | [33150-vreakout.json](./33150-vreakout.json) |
 | Vreal | 103915 | [103915-vreal.json](./103915-vreal.json) |
 | VRealistic Fight: Aim For the Chest | 212206 | [212206-vrealistic-fight-aim-for-the-chest.json](./212206-vrealistic-fight-aim-for-the-chest.json) |
