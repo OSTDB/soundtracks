@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.Y.K: Shinsetsu Saiyuuki | 202994 | [202994-s-y-k-shinsetsu-saiyuuki.json](./202994-s-y-k-shinsetsu-saiyuuki.json) |
 | S.Y.K: Shinsetsu Saiyuuki Portable | 203020 | [203020-s-y-k-shinsetsu-saiyuuki-portable.json](./203020-s-y-k-shinsetsu-saiyuuki-portable.json) |
 | S'More Words | 421371 | [421371-smore-words.json](./421371-smore-words.json) |
+| S//D | 166355 | [166355-s-d.json](./166355-s-d.json) |
 | S&box | 142355 | [142355-s-and-box.json](./142355-s-and-box.json) |
 | S&M: FL | 214373 | [214373-s-and-m-fl.json](./214373-s-and-m-fl.json) |
 | S&T: Medieval Wars | 239107 | [239107-s-and-t-medieval-wars.json](./239107-s-and-t-medieval-wars.json) |
@@ -3687,6 +3688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screech | 312788 | [312788-screech.json](./312788-screech.json) |
 | Screech of Steel: Gladiators | 216932 | [216932-screech-of-steel-gladiators.json](./216932-screech-of-steel-gladiators.json) |
 | ScreeIn | 350174 | [350174-screein.json](./350174-screein.json) |
+| Screen | 166391 | [166391-screen.json](./166391-screen.json) |
 | Screen | 300716 | [300716-screen.json](./300716-screen.json) |
 | Screen Blaster | 101548 | [101548-screen-blaster.json](./101548-screen-blaster.json) |
 | Screen Boy | 364503 | [364503-screen-boy.json](./364503-screen-boy.json) |
@@ -10003,6 +10005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sick Generation: The Ghost of the Crane Catcher | 383974 | [383974-sick-generation-the-ghost-of-the-crane-catcher.json](./383974-sick-generation-the-ghost-of-the-crane-catcher.json) |
 | Sick Love | 179080 | [179080-sick-love.json](./179080-sick-love.json) |
 | Sick Love - An RPG Maker Novel | 114166 | [114166-sick-love-an-rpg-maker-novel.json](./114166-sick-love-an-rpg-maker-novel.json) |
+| Sick Mind | 166357 | [166357-sick-mind.json](./166357-sick-mind.json) |
 | Sick Samurai | 317516 | [317516-sick-samurai.json](./317516-sick-samurai.json) |
 | Sick Way | 127087 | [127087-sick-way.json](./127087-sick-way.json) |
 | Sickly Days and Summer Traces | 343869 | [343869-sickly-days-and-summer-traces.json](./343869-sickly-days-and-summer-traces.json) |
@@ -11047,6 +11050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 1500 Series Vol. 77: The Suiei | 209500 | [209500-simple-1500-series-vol-77-the-suiei.json](./209500-simple-1500-series-vol-77-the-suiei.json) |
 | Simple 1500 Series Vol. 78: The Zero Yon | 203072 | [203072-simple-1500-series-vol-78-the-zero-yon.json](./203072-simple-1500-series-vol-78-the-zero-yon.json) |
 | Simple 1500 Series Vol. 79: The Shisenshou | 203073 | [203073-simple-1500-series-vol-79-the-shisenshou.json](./203073-simple-1500-series-vol-79-the-shisenshou.json) |
+| Simple 1500 Series Vol. 81: The Renai Adventure - Okaeri! | 166387 | [166387-simple-1500-series-vol-81-the-renai-adventure-okaeri.json](./166387-simple-1500-series-vol-81-the-renai-adventure-okaeri.json) |
 | Simple 1500 Series Vol. 82: The Sensuikan | 203078 | [203078-simple-1500-series-vol-82-the-sensuikan.json](./203078-simple-1500-series-vol-82-the-sensuikan.json) |
 | Simple 1500 Series Vol. 84: The Intro Quiz | 203079 | [203079-simple-1500-series-vol-84-the-intro-quiz.json](./203079-simple-1500-series-vol-84-the-intro-quiz.json) |
 | Simple 1500 Series Vol. 85: The Sengoku Bushou - Tenka Touitsu no Yabou | 203080 | [203080-simple-1500-series-vol-85-the-sengoku-bushou-tenka-touitsu-no-yabou.json](./203080-simple-1500-series-vol-85-the-sengoku-bushou-tenka-touitsu-no-yabou.json) |
@@ -18617,6 +18621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sotsugyou Bangai-hen: Nee Mahjong Shiyo! | 42309 | [42309-sotsugyou-bangai-hen-nee-mahjong-shiyo.json](./42309-sotsugyou-bangai-hen-nee-mahjong-shiyo.json) |
 | Sotsugyou Crossworld | 108838 | [108838-sotsugyou-crossworld.json](./108838-sotsugyou-crossworld.json) |
 | Sotsugyou Graduation for WonderSwan | 37482 | [37482-sotsugyou-graduation-for-wonderswan.json](./37482-sotsugyou-graduation-for-wonderswan.json) |
+| Sotsugyou III: Wedding Bell | 166393 | [166393-sotsugyou-iii-wedding-bell.json](./166393-sotsugyou-iii-wedding-bell.json) |
 | Sotsugyou M: Male Graduation - Seitokai Naga no Kareinaru Inbou | 166395 | [166395-sotsugyou-m-male-graduation-seitokai-naga-no-kareinaru-inbou.json](./166395-sotsugyou-m-male-graduation-seitokai-naga-no-kareinaru-inbou.json) |
 | Sotsugyou R: Graduation Real | 166396 | [166396-sotsugyou-r-graduation-real.json](./166396-sotsugyou-r-graduation-real.json) |
 | Sotsugyou Ryokou | 263955 | [263955-sotsugyou-ryokou.json](./263955-sotsugyou-ryokou.json) |
@@ -19821,7 +19826,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
