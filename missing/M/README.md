@@ -5993,7 +5993,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9301,6 +9300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenary Kings: Reloaded Edition | 84923 | [84923-mercenary-kings-reloaded-edition.json](./84923-mercenary-kings-reloaded-edition.json) |
 | Mercenary Leto | 105145 | [105145-mercenary-leto.json](./105145-mercenary-leto.json) |
 | Mercenary Ops | 65175 | [65175-mercenary-ops.json](./65175-mercenary-ops.json) |
+| Mercenary Skirmish | 149119 | [149119-mercenary-skirmish.json](./149119-mercenary-skirmish.json) |
 | Mercenary Squad Auto Chess | 285366 | [285366-mercenary-squad-auto-chess.json](./285366-mercenary-squad-auto-chess.json) |
 | Mercenary Tactics | 310800 | [310800-mercenary-tactics.json](./310800-mercenary-tactics.json) |
 | Mercenary Warriors | 272621 | [272621-mercenary-warriors.json](./272621-mercenary-warriors.json) |
@@ -14445,6 +14445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Tap Baseball 2023 | 242462 | [242462-mlb-tap-baseball-2023.json](./242462-mlb-tap-baseball-2023.json) |
 | MLB Tap Sports Baseball 2017 | 90064 | [90064-mlb-tap-sports-baseball-2017.json](./90064-mlb-tap-sports-baseball-2017.json) |
 | MLB Tap Sports Baseball 2020 | 220210 | [220210-mlb-tap-sports-baseball-2020.json](./220210-mlb-tap-sports-baseball-2020.json) |
+| MLB Tap Sports Baseball 2021 | 149138 | [149138-mlb-tap-sports-baseball-2021.json](./149138-mlb-tap-sports-baseball-2021.json) |
 | MLB Tap Sports Baseball 2022 | 196590 | [196590-mlb-tap-sports-baseball-2022.json](./196590-mlb-tap-sports-baseball-2022.json) |
 | MLB The Show 17 | 25310 | [25310-mlb-the-show-17.json](./25310-mlb-the-show-17.json) |
 | MLB The Show 18 | 75546 | [75546-mlb-the-show-18.json](./75546-mlb-the-show-18.json) |
