@@ -10048,6 +10048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Giant of Torridge Island | 192984 | [192984-the-giant-of-torridge-island.json](./192984-the-giant-of-torridge-island.json) |
 | The GIF Game | 297813 | [297813-the-gif-game.json](./297813-the-gif-game.json) |
 | The Gift | 183251 | [183251-the-gift.json](./183251-the-gift.json) |
+| The Gift | 186971 | [186971-the-gift.json](./186971-the-gift.json) |
 | The Gift | 192151 | [192151-the-gift.json](./192151-the-gift.json) |
 | The Gift | 53739 | [53739-the-gift.json](./53739-the-gift.json) |
 | The Gigglebone Gang: The AlphaBonk Farm | 206110 | [206110-the-gigglebone-gang-the-alphabonk-farm.json](./206110-the-gigglebone-gang-the-alphabonk-farm.json) |
@@ -25685,6 +25686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topzerah | 365164 | [365164-topzerah.json](./365164-topzerah.json) |
 | ToQger Maze Game | 60491 | [60491-toqger-maze-game.json](./60491-toqger-maze-game.json) |
 | Tor Eternum | 148496 | [148496-tor-eternum.json](./148496-tor-eternum.json) |
+| Tor-tor cubes | 186985 | [186985-tor-tor-cubes.json](./186985-tor-tor-cubes.json) |
 | Tora | 114381 | [114381-tora.json](./114381-tora.json) |
 | Tora he no Michi | 37647 | [37647-tora-he-no-michi.json](./37647-tora-he-no-michi.json) |
 | Tora's Garden | 274312 | [274312-toras-garden.json](./274312-toras-garden.json) |
@@ -32479,6 +32481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Pulse Race | 310494 | [310494-turbo-pulse-race.json](./310494-turbo-pulse-race.json) |
 | Turbo Racing | 215133 | [215133-turbo-racing.json](./215133-turbo-racing.json) |
 | Turbo Racing | 238801 | [238801-turbo-racing.json](./238801-turbo-racing.json) |
+| Turbo Shot | 186984 | [186984-turbo-shot.json](./186984-turbo-shot.json) |
 | Turbo Skiddy Racing | 146848 | [146848-turbo-skiddy-racing.json](./146848-turbo-skiddy-racing.json) |
 | Turbo Sliders | 78299 | [78299-turbo-sliders.json](./78299-turbo-sliders.json) |
 | Turbo Sliders Unlimited | 188595 | [188595-turbo-sliders-unlimited.json](./188595-turbo-sliders-unlimited.json) |
