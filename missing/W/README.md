@@ -7861,6 +7861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordZap Deluxe | 205885 | [205885-wordzap-deluxe.json](./205885-wordzap-deluxe.json) |
 | Wordzy | 68415 | [68415-wordzy.json](./68415-wordzy.json) |
 | Worfy Games | 337933 | [337933-worfy-games.json](./337933-worfy-games.json) |
+| Work and Girls | 158808 | [158808-work-and-girls.json](./158808-work-and-girls.json) |
 | Work Beasts | 304023 | [304023-work-beasts.json](./304023-work-beasts.json) |
 | Work from Home | 218717 | [218717-work-from-home.json](./218717-work-from-home.json) |
 | Work Girl | 378359 | [378359-work-girl.json](./378359-work-girl.json) |
