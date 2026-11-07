@@ -4104,6 +4104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Thieves: Wild Things - Season 15 | 354372 | [354372-sea-of-thieves-wild-things-season-15.json](./354372-sea-of-thieves-wild-things-season-15.json) |
 | Sea of Tranquility | 347655 | [347655-sea-of-tranquility.json](./347655-sea-of-tranquility.json) |
 | Sea of Treasures | 261152 | [261152-sea-of-treasures.json](./261152-sea-of-treasures.json) |
+| Sea of Wonders | 184670 | [184670-sea-of-wonders.json](./184670-sea-of-wonders.json) |
 | Sea of World | 292537 | [292537-sea-of-world.json](./292537-sea-of-world.json) |
 | Sea Park Tycoon | 152029 | [152029-sea-park-tycoon.json](./152029-sea-park-tycoon.json) |
 | Sea Plumber 2 | 205029 | [205029-sea-plumber-2.json](./205029-sea-plumber-2.json) |
@@ -18500,6 +18501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SOS Naufrágio | 405498 | [405498-sos-naufragio.json](./405498-sos-naufragio.json) |
 | SOS OPS! | 258837 | [258837-sos-ops.json](./258837-sos-ops.json) |
 | SOS OPS!: Guns n' Ops | 297553 | [297553-sos-ops-guns-n-ops.json](./297553-sos-ops-guns-n-ops.json) |
+| SOS Snake | 184554 | [184554-sos-snake.json](./184554-sos-snake.json) |
 | SOS Zombie: Survival | 276170 | [276170-sos-zombie-survival.json](./276170-sos-zombie-survival.json) |
 | SOS-Jan | 97504 | [97504-sos-jan.json](./97504-sos-jan.json) |
 | SOS: Forgotten Planet | 293592 | [293592-sos-forgotten-planet.json](./293592-sos-forgotten-planet.json) |
@@ -19714,7 +19716,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20042,6 +20043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Radiance | 32405 | [32405-space-radiance.json](./32405-space-radiance.json) |
 | Space Raft | 142117 | [142117-space-raft.json](./142117-space-raft.json) |
 | Space Rage | 105947 | [105947-space-rage.json](./105947-space-rage.json) |
+| Space Rage | 184672 | [184672-space-rage.json](./184672-space-rage.json) |
 | Space Raid | 46894 | [46894-space-raid.json](./46894-space-raid.json) |
 | Space Raider | 401271 | [401271-space-raider.json](./401271-space-raider.json) |
 | Space Raiders | 281208 | [281208-space-raiders.json](./281208-space-raiders.json) |
@@ -23407,6 +23409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Seller! | 416586 | [416586-square-seller.json](./416586-square-seller.json) |
 | Square Shooter | 108482 | [108482-square-shooter.json](./108482-square-shooter.json) |
 | Square Smash | 394465 | [394465-square-smash.json](./394465-square-smash.json) |
+| Square Up | 184551 | [184551-square-up.json](./184551-square-up.json) |
 | Square Valley | 200051 | [200051-square-valley.json](./200051-square-valley.json) |
 | Square vs Triangles | 156054 | [156054-square-vs-triangles.json](./156054-square-vs-triangles.json) |
 | Square vs Triangles | 164739 | [164739-square-vs-triangles.json](./164739-square-vs-triangles.json) |
@@ -25961,6 +25964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay in the White Line: Level Version | 232051 | [232051-stay-in-the-white-line-level-version.json](./232051-stay-in-the-white-line-level-version.json) |
 | Stay Lit, Find Radio | 151042 | [151042-stay-lit-find-radio.json](./151042-stay-lit-find-radio.json) |
 | Stay Mayor | 60756 | [60756-stay-mayor.json](./60756-stay-mayor.json) |
+| Stay on Board | 184556 | [184556-stay-on-board.json](./184556-stay-on-board.json) |
 | Stay on Line: Line Runner | 240926 | [240926-stay-on-line-line-runner.json](./240926-stay-on-line-line-runner.json) |
 | Stay Out | 63813 | [63813-stay-out.json](./63813-stay-out.json) |
 | Stay Out of the Farm | 223220 | [223220-stay-out-of-the-farm.json](./223220-stay-out-of-the-farm.json) |
@@ -31550,6 +31554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jump Guys | 267683 | [267683-super-jump-guys.json](./267683-super-jump-guys.json) |
 | Super Jump Ninja | 400458 | [400458-super-jump-ninja.json](./400458-super-jump-ninja.json) |
 | Super Jump Soccer | 188363 | [188363-super-jump-soccer.json](./188363-super-jump-soccer.json) |
+| Super Jungle Wrestling | 184559 | [184559-super-jungle-wrestling.json](./184559-super-jungle-wrestling.json) |
 | Super Junior Shake | 266183 | [266183-super-junior-shake.json](./266183-super-junior-shake.json) |
 | Super Junkoid | 263863 | [263863-super-junkoid.json](./263863-super-junkoid.json) |
 | Super Kakuro: Cross Sums | 195632 | [195632-super-kakuro-cross-sums.json](./195632-super-kakuro-cross-sums.json) |
