@@ -5166,6 +5166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloom | 3030 | [3030-gloom.json](./3030-gloom.json) |
 | Gloom | 77750 | [77750-gloom.json](./77750-gloom.json) |
 | Gloom | 78126 | [78126-gloom.json](./78126-gloom.json) |
+| Gloom and Doom | 142547 | [142547-gloom-and-doom.json](./142547-gloom-and-doom.json) |
 | Gloom Deluxe | 302768 | [302768-gloom-deluxe.json](./302768-gloom-deluxe.json) |
 | Gloom Gate | 417428 | [417428-gloom-gate.json](./417428-gloom-gate.json) |
 | Gloom Reaper | 256945 | [256945-gloom-reaper.json](./256945-gloom-reaper.json) |
@@ -5524,6 +5525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Cabbies!GB | 114189 | [114189-go-cabbies-gb.json](./114189-go-cabbies-gb.json) |
 | Go Carts | 297473 | [297473-go-carts.json](./297473-go-carts.json) |
 | Go Catch 'Em | 348523 | [348523-go-catch-em.json](./348523-go-catch-em.json) |
+| Go Cheetah Go | 142556 | [142556-go-cheetah-go.json](./142556-go-cheetah-go.json) |
 | Go Cycling | 364056 | [364056-go-cycling.json](./364056-go-cycling.json) |
 | Go Deep Or Go Home | 285484 | [285484-go-deep-or-go-home.json](./285484-go-deep-or-go-home.json) |
 | Go Diego! Go: Save the Animal Families! | 72997 | [72997-go-diego-go-save-the-animal-families.json](./72997-go-diego-go-save-the-animal-families.json) |
@@ -10363,6 +10365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of Greyrock: Card Pack - The Dying Forest | 335310 | [335310-guardians-of-greyrock-card-pack-the-dying-forest.json](./335310-guardians-of-greyrock-card-pack-the-dying-forest.json) |
 | Guardians of Greyrock: Card Pack - Traps And Treasure | 335314 | [335314-guardians-of-greyrock-card-pack-traps-and-treasure.json](./335314-guardians-of-greyrock-card-pack-traps-and-treasure.json) |
 | Guardians of Gridvale | 217113 | [217113-guardians-of-gridvale.json](./217113-guardians-of-gridvale.json) |
+| Guardians of Hyelore | 142534 | [142534-guardians-of-hyelore.json](./142534-guardians-of-hyelore.json) |
 | Guardians of Lodino Forest | 138672 | [138672-guardians-of-lodino-forest.json](./138672-guardians-of-lodino-forest.json) |
 | Guardians of Lumen | 149140 | [149140-guardians-of-lumen.json](./149140-guardians-of-lumen.json) |
 | Guardians of Magic: Amanda's Awakening | 19315 | [19315-guardians-of-magic-amandas-awakening.json](./19315-guardians-of-magic-amandas-awakening.json) |
