@@ -2774,6 +2774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Simulator | 131447 | [131447-achievement-simulator.json](./131447-achievement-simulator.json) |
 | Achievement Unlocked | 141697 | [141697-achievement-unlocked.json](./141697-achievement-unlocked.json) |
 | Achievement Unlocked 2 | 165420 | [165420-achievement-unlocked-2.json](./165420-achievement-unlocked-2.json) |
+| Achievement Unlocked 3 | 179276 | [179276-achievement-unlocked-3.json](./179276-achievement-unlocked-3.json) |
 | Achievements City | 215458 | [215458-achievements-city.json](./215458-achievements-city.json) |
 | Achikaps | 207823 | [207823-achikaps.json](./207823-achikaps.json) |
 | Achilles | 118129 | [118129-achilles.json](./118129-achilles.json) |
@@ -6158,6 +6159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alan Walker: The Aviation Game | 234642 | [234642-alan-walker-the-aviation-game.json](./234642-alan-walker-the-aviation-game.json) |
 | Alan-13 Reformation | 196991 | [196991-alan-13-reformation.json](./196991-alan-13-reformation.json) |
 | Alan's Automaton Workshop | 160262 | [160262-alans-automaton-workshop.json](./160262-alans-automaton-workshop.json) |
+| Alanna: The Princess of Puzzles | 179269 | [179269-alanna-the-princess-of-puzzles.json](./179269-alanna-the-princess-of-puzzles.json) |
 | Alara Prime | 207827 | [207827-alara-prime.json](./207827-alara-prime.json) |
 | Alarameth TD | 35071 | [35071-alarameth-td.json](./35071-alarameth-td.json) |
 | Alarial's Blessing | 387079 | [387079-alarials-blessing.json](./387079-alarials-blessing.json) |
@@ -16737,7 +16739,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
