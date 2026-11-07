@@ -1034,6 +1034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karma Keepers | 365293 | [365293-karma-keepers.json](./365293-karma-keepers.json) |
 | Karma Kingdom | 413829 | [413829-karma-kingdom.json](./413829-karma-kingdom.json) |
 | Karma Knight | 131746 | [131746-karma-knight.json](./131746-karma-knight.json) |
+| Karma: Chapter 1 | 163585 | [163585-karma-chapter-1.json](./163585-karma-chapter-1.json) |
 | Karma: Curse of the 12 Caves | 94458 | [94458-karma-curse-of-the-12-caves.json](./94458-karma-curse-of-the-12-caves.json) |
 | Karma: Immortal Wrath | 145619 | [145619-karma-immortal-wrath.json](./145619-karma-immortal-wrath.json) |
 | Karma: Operation Barbossa | 67232 | [67232-karma-operation-barbossa.json](./67232-karma-operation-barbossa.json) |
