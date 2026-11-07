@@ -3468,6 +3468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Race Creator | 244848 | [244848-marble-race-creator.json](./244848-marble-race-creator.json) |
 | Marble Racing | 137570 | [137570-marble-racing.json](./137570-marble-racing.json) |
 | Marble Racing Manager | 388747 | [388747-marble-racing-manager.json](./388747-marble-racing-manager.json) |
+| Marble Run | 185194 | [185194-marble-run.json](./185194-marble-run.json) |
 | Marble Run | 74451 | [74451-marble-run.json](./74451-marble-run.json) |
 | Marble Run 2D | 87990 | [87990-marble-run-2d.json](./87990-marble-run-2d.json) |
 | Marble Run Maker | 346878 | [346878-marble-run-maker.json](./346878-marble-run-maker.json) |
@@ -5831,6 +5832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mawangseonge Daara! Yongbyeongdan Seutori | 219976 | [219976-mawangseonge-daara-yongbyeongdan-seutori.json](./219976-mawangseonge-daara-yongbyeongdan-seutori.json) |
 | Mawaranu Hoshi no Stellarium | 358343 | [358343-mawaranu-hoshi-no-stellarium.json](./358343-mawaranu-hoshi-no-stellarium.json) |
 | Mawaru! Hacker Tantei | 375879 | [375879-mawaru-hacker-tantei.json](./375879-mawaru-hacker-tantei.json) |
+| MawaruWorld | 185235 | [185235-mawaruworld.json](./185235-mawaruworld.json) |
 | Mawashite Tsunageru Touch Panic | 66498 | [66498-mawashite-tsunageru-touch-panic.json](./66498-mawashite-tsunageru-touch-panic.json) |
 | Mawaskes | 45999 | [45999-mawaskes.json](./45999-mawaskes.json) |
 | Mawgate | 396639 | [396639-mawgate.json](./396639-mawgate.json) |
@@ -5955,6 +5957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -13119,6 +13122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimum Mage Effort | 401049 | [401049-minimum-mage-effort.json](./401049-minimum-mage-effort.json) |
 | Minimum Nanonic | 70401 | [70401-minimum-nanonic.json](./70401-minimum-nanonic.json) |
 | Minimum Wage: Influence the Election | 169580 | [169580-minimum-wage-influence-the-election.json](./169580-minimum-wage-influence-the-election.json) |
+| MiniNatura | 185243 | [185243-mininatura.json](./185243-mininatura.json) |
 | Mining | 341240 | [341240-mining.json](./341240-mining.json) |
 | Mining And Achievements | 370179 | [370179-mining-and-achievements.json](./370179-mining-and-achievements.json) |
 | Mining and Dwarves | 405321 | [405321-mining-and-dwarves.json](./405321-mining-and-dwarves.json) |
@@ -14127,6 +14131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixberry MGC 105 | 245434 | [245434-mixberry-mgc-105.json](./245434-mixberry-mgc-105.json) |
 | MixCD | 408070 | [408070-mixcd.json](./408070-mixcd.json) |
 | Mixed Estate | 111229 | [111229-mixed-estate.json](./111229-mixed-estate.json) |
+| Mixed Feelings | 185228 | [185228-mixed-feelings.json](./185228-mixed-feelings.json) |
 | Mixed Feelings 2: Elysium | 266913 | [266913-mixed-feelings-2-elysium.json](./266913-mixed-feelings-2-elysium.json) |
 | Mixed Guns | 216737 | [216737-mixed-guns.json](./216737-mixed-guns.json) |
 | Mixed Matrix Slingo | 64831 | [64831-mixed-matrix-slingo.json](./64831-mixed-matrix-slingo.json) |
