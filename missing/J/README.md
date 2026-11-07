@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack the Ripper: Letters from Hell - Extended Edition | 87887 | [87887-jack-the-ripper-letters-from-hell-extended-edition.json](./87887-jack-the-ripper-letters-from-hell-extended-edition.json) |
 | Jack troubles | 128310 | [128310-jack-troubles.json](./128310-jack-troubles.json) |
 | Jack Vs Ninjas | 96769 | [96769-jack-vs-ninjas.json](./96769-jack-vs-ninjas.json) |
+| Jack Walker: Ethereal | 158332 | [158332-jack-walker-ethereal.json](./158332-jack-walker-ethereal.json) |
 | Jack-In-A-Castle | 118440 | [118440-jack-in-a-castle.json](./118440-jack-in-a-castle.json) |
 | Jack: Snake Attack | 124739 | [124739-jack-snake-attack.json](./124739-jack-snake-attack.json) |
 | Jack's 510 Racing | 372608 | [372608-jacks-510-racing.json](./372608-jacks-510-racing.json) |
@@ -1381,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jets A Blazin' | 249865 | [249865-jets-a-blazin.json](./249865-jets-a-blazin.json) |
 | Jets Killer | 291472 | [291472-jets-killer.json](./291472-jets-killer.json) |
 | Jets'n'Guns: Complete Collection | 284484 | [284484-jetsnguns-complete-collection.json](./284484-jetsnguns-complete-collection.json) |
+| Jetscout: Boot Camp | 158329 | [158329-jetscout-boot-camp.json](./158329-jetscout-boot-camp.json) |
 | Jetscout: Mystery of the Valunians | 139590 | [139590-jetscout-mystery-of-the-valunians.json](./139590-jetscout-mystery-of-the-valunians.json) |
 | Jetscout: Mystery of Valunians | 174211 | [174211-jetscout-mystery-of-valunians.json](./174211-jetscout-mystery-of-valunians.json) |
 | Jetset | 84327 | [84327-jetset.json](./84327-jetset.json) |
