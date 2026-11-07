@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dai-3-ji Super Robot Taisen | 42564 | [42564-dai-3-ji-super-robot-taisen.json](./42564-dai-3-ji-super-robot-taisen.json) |
 | Dai-3-ji Super Robot Taisen Alpha: Shuuen no Ginga he | 79338 | [79338-dai-3-ji-super-robot-taisen-alpha-shuuen-no-ginga-he.json](./79338-dai-3-ji-super-robot-taisen-alpha-shuuen-no-ginga-he.json) |
 | Dai-3-ji Super Robot Taisen Z: Jigoku-hen | 80144 | [80144-dai-3-ji-super-robot-taisen-z-jigoku-hen.json](./80144-dai-3-ji-super-robot-taisen-z-jigoku-hen.json) |
+| Dai-3-ji Super Robot Taisen Z: Rengoku-hen | 178149 | [178149-dai-3-ji-super-robot-taisen-z-rengoku-hen.json](./178149-dai-3-ji-super-robot-taisen-z-rengoku-hen.json) |
 | Dai-3-ji Super Robot Taisen Z: Tengoku-hen | 80141 | [80141-dai-3-ji-super-robot-taisen-z-tengoku-hen.json](./80141-dai-3-ji-super-robot-taisen-z-tengoku-hen.json) |
 | Dai-4-ji Super Robot Taisen | 42563 | [42563-dai-4-ji-super-robot-taisen.json](./42563-dai-4-ji-super-robot-taisen.json) |
 | Dai-chan's Great Adventure: World's End | 320366 | [320366-dai-chans-great-adventure-worlds-end.json](./320366-dai-chans-great-adventure-worlds-end.json) |
@@ -6203,6 +6204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltora Quest | 47936 | [47936-deltora-quest.json](./47936-deltora-quest.json) |
 | Delucid | 390254 | [390254-delucid.json](./390254-delucid.json) |
 | Deluded | 185215 | [185215-deluded.json](./185215-deluded.json) |
+| Deluge | 178161 | [178161-deluge.json](./178161-deluge.json) |
 | Deluge | 351644 | [351644-deluge.json](./351644-deluge.json) |
 | Deluge: Onset | 142829 | [142829-deluge-onset.json](./142829-deluge-onset.json) |
 | Deluge: Raintime | 390063 | [390063-deluge-raintime.json](./390063-deluge-raintime.json) |
@@ -9035,6 +9037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digby Jump | 98536 | [98536-digby-jump.json](./98536-digby-jump.json) |
 | Digby's Donuts | 122893 | [122893-digbys-donuts.json](./122893-digbys-donuts.json) |
 | Digdig | 316611 | [316611-digdig.json](./316611-digdig.json) |
+| Digdig.io | 178170 | [178170-digdig-io.json](./178170-digdig-io.json) |
 | Digdigdig | 338861 | [338861-digdigdig.json](./338861-digdigdig.json) |
 | DigDigDrill | 314442 | [314442-digdigdrill.json](./314442-digdigdrill.json) |
 | Digerati Best Sellers | 147885 | [147885-digerati-best-sellers.json](./147885-digerati-best-sellers.json) |
@@ -15566,6 +15569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draugen: Collector's Edition | 124776 | [124776-draugen-collectors-edition.json](./124776-draugen-collectors-edition.json) |
 | Draught | 383170 | [383170-draught.json](./383170-draught.json) |
 | Draught Kraft | 133352 | [133352-draught-kraft.json](./133352-draught-kraft.json) |
+| Draughts | 178135 | [178135-draughts.json](./178135-draughts.json) |
 | Draughts | 210221 | [210221-draughts.json](./210221-draughts.json) |
 | Draughts | 310988 | [310988-draughts.json](./310988-draughts.json) |
 | Draughts | 379618 | [379618-draughts.json](./379618-draughts.json) |
