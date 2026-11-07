@@ -6037,6 +6037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Set 'N Det | 186861 | [186861-set-n-det.json](./186861-set-n-det.json) |
 | Set a Watch: Digital Edition | 341982 | [341982-set-a-watch-digital-edition.json](./341982-set-a-watch-digital-edition.json) |
 | Set Adrift | 374027 | [374027-set-adrift.json](./374027-set-adrift.json) |
+| Set Café | 156801 | [156801-set-cafe.json](./156801-set-cafe.json) |
 | Set for the Battle | 171691 | [171691-set-for-the-battle.json](./171691-set-for-the-battle.json) |
 | Set Off Fireworks Together | 268242 | [268242-set-off-fireworks-together.json](./268242-set-off-fireworks-together.json) |
 | Set Sail | 192458 | [192458-set-sail.json](./192458-set-sail.json) |
@@ -20275,6 +20276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Scum | 351056 | [351056-space-scum.json](./351056-space-scum.json) |
 | Space Seeker | 41101 | [41101-space-seeker.json](./41101-space-seeker.json) |
 | Space Sergeants | 143941 | [143941-space-sergeants.json](./143941-space-sergeants.json) |
+| Space Sex | 156794 | [156794-space-sex.json](./156794-space-sex.json) |
 | Space Shadow | 178988 | [178988-space-shadow.json](./178988-space-shadow.json) |
 | Space Shaft | 81026 | [81026-space-shaft.json](./81026-space-shaft.json) |
 | Space Shapes | 126567 | [126567-space-shapes.json](./126567-space-shapes.json) |
@@ -21216,6 +21218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Drifters | 193998 | [193998-speed-drifters.json](./193998-speed-drifters.json) |
 | Speed DX | 261254 | [261254-speed-dx.json](./261254-speed-dx.json) |
 | Speed Elixir | 19447 | [19447-speed-elixir.json](./19447-speed-elixir.json) |
+| Speed empire | 156804 | [156804-speed-empire.json](./156804-speed-empire.json) |
 | Speed Factor | 378777 | [378777-speed-factor.json](./378777-speed-factor.json) |
 | Speed Freak | 46764 | [46764-speed-freak.json](./46764-speed-freak.json) |
 | Speed Freeks | 110186 | [110186-speed-freeks.json](./110186-speed-freeks.json) |
@@ -22297,6 +22300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit of Adventure | 188433 | [188433-spirit-of-adventure.json](./188433-spirit-of-adventure.json) |
 | Spirit of Arx | 158946 | [158946-spirit-of-arx.json](./158946-spirit-of-arx.json) |
 | Spirit of Death | 294252 | [294252-spirit-of-death.json](./294252-spirit-of-death.json) |
+| Spirit of dungeon | 156803 | [156803-spirit-of-dungeon.json](./156803-spirit-of-dungeon.json) |
 | Spirit of Europe: Origins | 172333 | [172333-spirit-of-europe-origins.json](./172333-spirit-of-europe-origins.json) |
 | Spirit of Excalibur | 70028 | [70028-spirit-of-excalibur.json](./70028-spirit-of-excalibur.json) |
 | Spirit of Maya | 29903 | [29903-spirit-of-maya.json](./29903-spirit-of-maya.json) |
@@ -31322,6 +31326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dunkman | 134700 | [134700-super-dunkman.json](./134700-super-dunkman.json) |
 | Super Duper Amy Freaking Rose | 370489 | [370489-super-duper-amy-freaking-rose.json](./370489-super-duper-amy-freaking-rose.json) |
 | Super Duper Flying Genocide 2017 | 34004 | [34004-super-duper-flying-genocide-2017.json](./34004-super-duper-flying-genocide-2017.json) |
+| Super Duper Island Adventure | 156788 | [156788-super-duper-island-adventure.json](./156788-super-duper-island-adventure.json) |
 | Super Duper Metroid | 198097 | [198097-super-duper-metroid.json](./198097-super-duper-metroid.json) |
 | Super Duper Multitasking | 330972 | [330972-super-duper-multitasking.json](./330972-super-duper-multitasking.json) |
 | Super Duper Multitasking | 86615 | [86615-super-duper-multitasking.json](./86615-super-duper-multitasking.json) |
