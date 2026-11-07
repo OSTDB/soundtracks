@@ -10149,6 +10149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Notes | 119707 | [119707-animal-notes.json](./119707-animal-notes.json) |
 | Animal Pairs: Matching & Concentration Game for Toddlers & Kids | 147938 | [147938-animal-pairs-matching-and-concentration-game-for-toddlers-and-kids.json](./147938-animal-pairs-matching-and-concentration-game-for-toddlers-and-kids.json) |
 | Animal Pals Bubble Pop | 147590 | [147590-animal-pals-bubble-pop.json](./147590-animal-pals-bubble-pop.json) |
+| Animal Paradise | 153614 | [153614-animal-paradise.json](./153614-animal-paradise.json) |
 | Animal Parkour | 291860 | [291860-animal-parkour.json](./291860-animal-parkour.json) |
 | Animal Party Puzzles: Meet All the Friends | 356524 | [356524-animal-party-puzzles-meet-all-the-friends.json](./356524-animal-party-puzzles-meet-all-the-friends.json) |
 | Animal Pattern | 335352 | [335352-animal-pattern.json](./335352-animal-pattern.json) |
@@ -16841,7 +16842,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
