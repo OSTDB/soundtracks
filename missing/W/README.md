@@ -5652,6 +5652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windjammers, Karnov & Friends | 337849 | [337849-windjammers-karnov-and-friends.json](./337849-windjammers-karnov-and-friends.json) |
 | Windlands | 15932 | [15932-windlands.json](./15932-windlands.json) |
 | Windmill Kings | 125028 | [125028-windmill-kings.json](./125028-windmill-kings.json) |
+| Windmills | 188729 | [188729-windmills.json](./188729-windmills.json) |
 | Windosill | 15002 | [15002-windosill.json](./15002-windosill.json) |
 | Windosill: Steam Deck Edition | 240095 | [240095-windosill-steam-deck-edition.json](./240095-windosill-steam-deck-edition.json) |
 | Window Aquarista | 373679 | [373679-window-aquarista.json](./373679-window-aquarista.json) |
