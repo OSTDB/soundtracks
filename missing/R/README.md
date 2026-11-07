@@ -9179,6 +9179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotherapy | 212058 | [212058-robotherapy.json](./212058-robotherapy.json) |
 | Robotic Arm Simulator | 386697 | [386697-robotic-arm-simulator.json](./386697-robotic-arm-simulator.json) |
 | Robotic Emergence | 405963 | [405963-robotic-emergence.json](./405963-robotic-emergence.json) |
+| Robotic Learn | 151324 | [151324-robotic-learn.json](./151324-robotic-learn.json) |
 | Robotic Legends | 133626 | [133626-robotic-legends.json](./133626-robotic-legends.json) |
 | Robotic Space Zamboni | 372188 | [372188-robotic-space-zamboni.json](./372188-robotic-space-zamboni.json) |
 | Robotic Worlds | 146692 | [146692-robotic-worlds.json](./146692-robotic-worlds.json) |
