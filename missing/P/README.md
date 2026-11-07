@@ -3029,6 +3029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathbreakers: Roaming Blades | 344141 | [344141-pathbreakers-roaming-blades.json](./344141-pathbreakers-roaming-blades.json) |
 | PathCraft | 204340 | [204340-pathcraft.json](./204340-pathcraft.json) |
 | Pathfinder | 282100 | [282100-pathfinder.json](./282100-pathfinder.json) |
+| Pathfinder 08 | 172295 | [172295-pathfinder-08.json](./172295-pathfinder-08.json) |
 | Pathfinder Adventures: A Fighter's Tale - Valeros | 170730 | [170730-pathfinder-adventures-a-fighters-tale-valeros.json](./170730-pathfinder-adventures-a-fighters-tale-valeros.json) |
 | Pathfinder Adventures: Character Alts 1 | 170729 | [170729-pathfinder-adventures-character-alts-1.json](./170729-pathfinder-adventures-character-alts-1.json) |
 | Pathfinder Adventures: Epic and Legendary Cards 1 | 170728 | [170728-pathfinder-adventures-epic-and-legendary-cards-1.json](./170728-pathfinder-adventures-epic-and-legendary-cards-1.json) |
@@ -11898,6 +11899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polaris Outpost | 226991 | [226991-polaris-outpost.json](./226991-polaris-outpost.json) |
 | Polaris Outpost | 272037 | [272037-polaris-outpost.json](./272037-polaris-outpost.json) |
 | Polaris Sector | 24620 | [24620-polaris-sector.json](./24620-polaris-sector.json) |
+| Polaris Sector: Lumens | 172277 | [172277-polaris-sector-lumens.json](./172277-polaris-sector-lumens.json) |
 | Polaris SnoCross | 249122 | [249122-polaris-snocross.json](./249122-polaris-snocross.json) |
 | Polarities | 133177 | [133177-polarities.json](./133177-polarities.json) |
 | Polarity | 17683 | [17683-polarity.json](./17683-polarity.json) |
