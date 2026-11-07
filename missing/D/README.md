@@ -1087,6 +1087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Dave's Risky Rescue | 11388 | [11388-dangerous-daves-risky-rescue.json](./11388-dangerous-daves-risky-rescue.json) |
 | Dangerous Degrees | 163755 | [163755-dangerous-degrees.json](./163755-dangerous-degrees.json) |
 | Dangerous Derek's Livestream | 315975 | [315975-dangerous-dereks-livestream.json](./315975-dangerous-dereks-livestream.json) |
+| Dangerous Drift | 190272 | [190272-dangerous-drift.json](./190272-dangerous-drift.json) |
 | Dangerous Driving | 104232 | [104232-dangerous-driving.json](./104232-dangerous-driving.json) |
 | Dangerous Duels | 134509 | [134509-dangerous-duels.json](./134509-dangerous-duels.json) |
 | Dangerous Fellows | 133817 | [133817-dangerous-fellows.json](./133817-dangerous-fellows.json) |
@@ -2865,6 +2866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day 11 | 263003 | [263003-day-11.json](./263003-day-11.json) |
 | Day 178 | 338142 | [338142-day-178.json](./338142-day-178.json) |
 | Day 31 | 419946 | [419946-day-31.json](./419946-day-31.json) |
+| Day After Day | 190310 | [190310-day-after-day.json](./190310-day-after-day.json) |
 | Day After Day | 342181 | [342181-day-after-day.json](./342181-day-after-day.json) |
 | Day After Forever | 272114 | [272114-day-after-forever.json](./272114-day-after-forever.json) |
 | Day and Knight | 137953 | [137953-day-and-knight.json](./137953-day-and-knight.json) |
@@ -5178,6 +5180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Blue: Devour and Evolve | 334299 | [334299-deep-blue-devour-and-evolve.json](./334299-deep-blue-devour-and-evolve.json) |
 | Deep Breath | 259388 | [259388-deep-breath.json](./259388-deep-breath.json) |
 | Deep Breath | 380248 | [380248-deep-breath.json](./380248-deep-breath.json) |
+| Deep Cave | 190273 | [190273-deep-cave.json](./190273-deep-cave.json) |
 | Deep Chalk Dive | 123613 | [123613-deep-chalk-dive.json](./123613-deep-chalk-dive.json) |
 | Deep Chalk: First Phase | 404081 | [404081-deep-chalk-first-phase.json](./404081-deep-chalk-first-phase.json) |
 | Deep Chalk: Second Phase | 404175 | [404175-deep-chalk-second-phase.json](./404175-deep-chalk-second-phase.json) |
@@ -17732,6 +17735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dum-Dum Thoughts | 282521 | [282521-dum-dum-thoughts.json](./282521-dum-dum-thoughts.json) |
 | Dumb AF | 351806 | [351806-dumb-af.json](./351806-dumb-af.json) |
 | Dumb as Wizards | 82508 | [82508-dumb-as-wizards.json](./82508-dumb-as-wizards.json) |
+| Dumb Bomb Game | 190271 | [190271-dumb-bomb-game.json](./190271-dumb-bomb-game.json) |
 | Dumb Castle | 289304 | [289304-dumb-castle.json](./289304-dumb-castle.json) |
 | Dumb Chicken 2: One Way Out | 32895 | [32895-dumb-chicken-2-one-way-out.json](./32895-dumb-chicken-2-one-way-out.json) |
 | Dumb Dunks | 406867 | [406867-dumb-dunks.json](./406867-dumb-dunks.json) |
@@ -18284,6 +18288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Run | 197224 | [197224-dungeon-run.json](./197224-dungeon-run.json) |
 | Dungeon Run | 357742 | [357742-dungeon-run.json](./357742-dungeon-run.json) |
 | Dungeon Run | 366356 | [366356-dungeon-run.json](./366356-dungeon-run.json) |
+| Dungeon Runner XZ | 190286 | [190286-dungeon-runner-xz.json](./190286-dungeon-runner-xz.json) |
 | Dungeon Runners | 21407 | [21407-dungeon-runners.json](./21407-dungeon-runners.json) |
 | Dungeon Rush | 105304 | [105304-dungeon-rush.json](./105304-dungeon-rush.json) |
 | Dungeon Rushers | 20395 | [20395-dungeon-rushers.json](./20395-dungeon-rushers.json) |
