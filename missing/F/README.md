@@ -678,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Godmother Stories: Dark Deal | 155360 | [155360-fairy-godmother-stories-dark-deal.json](./155360-fairy-godmother-stories-dark-deal.json) |
 | Fairy Godmother Stories: Dark Deal - Collector's Edition | 155359 | [155359-fairy-godmother-stories-dark-deal-collectors-edition.json](./155359-fairy-godmother-stories-dark-deal-collectors-edition.json) |
 | Fairy Godmother Stories: Miraculous Dream - Collector's Edition | 166805 | [166805-fairy-godmother-stories-miraculous-dream-collectors-edition.json](./166805-fairy-godmother-stories-miraculous-dream-collectors-edition.json) |
+| Fairy Godmother Stories: Miraculous Dream in Taleville | 181975 | [181975-fairy-godmother-stories-miraculous-dream-in-taleville.json](./181975-fairy-godmother-stories-miraculous-dream-in-taleville.json) |
 | Fairy Godmother Stories: Puss in Boots Collector's Edition | 151202 | [151202-fairy-godmother-stories-puss-in-boots-collectors-edition.json](./151202-fairy-godmother-stories-puss-in-boots-collectors-edition.json) |
 | Fairy Godmother Tycoon | 68634 | [68634-fairy-godmother-tycoon.json](./68634-fairy-godmother-tycoon.json) |
 | Fairy Godmother's Pumpkin Surprise | 246527 | [246527-fairy-godmothers-pumpkin-surprise.json](./246527-fairy-godmothers-pumpkin-surprise.json) |
