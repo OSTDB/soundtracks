@@ -2605,6 +2605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Pirate Warriors 4 - Character Pass 2 | 259547 | [259547-one-piece-pirate-warriors-4-character-pass-2.json](./259547-one-piece-pirate-warriors-4-character-pass-2.json) |
 | One Piece: Pirate Warriors 4 - Kaido Edition | 136137 | [136137-one-piece-pirate-warriors-4-kaido-edition.json](./136137-one-piece-pirate-warriors-4-kaido-edition.json) |
 | One Piece: Pirate Warriors 4 - Koby's Combat Chronicle & Soul Map 2 | 282462 | [282462-one-piece-pirate-warriors-4-kobys-combat-chronicle-and-soul-map-2.json](./282462-one-piece-pirate-warriors-4-kobys-combat-chronicle-and-soul-map-2.json) |
+| One Piece: Pirate Warriors 4 - Land of Wano Pack | 167976 | [167976-one-piece-pirate-warriors-4-land-of-wano-pack.json](./167976-one-piece-pirate-warriors-4-land-of-wano-pack.json) |
 | One Piece: Pirate Warriors 4 - Legend Dawn Pack | 294853 | [294853-one-piece-pirate-warriors-4-legend-dawn-pack.json](./294853-one-piece-pirate-warriors-4-legend-dawn-pack.json) |
 | One Piece: Pirate Warriors 4 - Legendary Edition | 378857 | [378857-one-piece-pirate-warriors-4-legendary-edition.json](./378857-one-piece-pirate-warriors-4-legendary-edition.json) |
 | One Piece: Pirate Warriors 4 - One Piece Film: Red Anime Song Pack | 291058 | [291058-one-piece-pirate-warriors-4-one-piece-film-red-anime-song-pack.json](./291058-one-piece-pirate-warriors-4-one-piece-film-red-anime-song-pack.json) |
@@ -2612,7 +2613,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Pirate Warriors 4 - Path to the King of the Pirates & Soul Map 3 | 294429 | [294429-one-piece-pirate-warriors-4-path-to-the-king-of-the-pirates-and-soul-map-3.json](./294429-one-piece-pirate-warriors-4-path-to-the-king-of-the-pirates-and-soul-map-3.json) |
 | One Piece: Pirate Warriors 4 - Soba Mask Costume | 296021 | [296021-one-piece-pirate-warriors-4-soba-mask-costume.json](./296021-one-piece-pirate-warriors-4-soba-mask-costume.json) |
 | One Piece: Pirate Warriors 4 - The Battle of Onigashima Pack | 266743 | [266743-one-piece-pirate-warriors-4-the-battle-of-onigashima-pack.json](./266743-one-piece-pirate-warriors-4-the-battle-of-onigashima-pack.json) |
+| One Piece: Pirate Warriors 4 - The Worst Generation Pack | 167975 | [167975-one-piece-pirate-warriors-4-the-worst-generation-pack.json](./167975-one-piece-pirate-warriors-4-the-worst-generation-pack.json) |
 | One Piece: Pirate Warriors 4 - Ultimate Edition | 266820 | [266820-one-piece-pirate-warriors-4-ultimate-edition.json](./266820-one-piece-pirate-warriors-4-ultimate-edition.json) |
+| One Piece: Pirate Warriors 4 - Whole Cake Island Pack | 167977 | [167977-one-piece-pirate-warriors-4-whole-cake-island-pack.json](./167977-one-piece-pirate-warriors-4-whole-cake-island-pack.json) |
 | One Piece: Pirate Warriors 4 - Yamato's Grand Tour Logbook & Soul Map 1 | 268585 | [268585-one-piece-pirate-warriors-4-yamatos-grand-tour-logbook-and-soul-map-1.json](./268585-one-piece-pirate-warriors-4-yamatos-grand-tour-logbook-and-soul-map-1.json) |
 | One Piece: Pirate Warriors 4 - Zorojuro Costume | 296020 | [296020-one-piece-pirate-warriors-4-zorojuro-costume.json](./296020-one-piece-pirate-warriors-4-zorojuro-costume.json) |
 | One Piece: Romance Dawn | 6851 | [6851-one-piece-romance-dawn.json](./6851-one-piece-romance-dawn.json) |
@@ -2631,7 +2634,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Unlimited World Red - Straw Hat Edition | 83793 | [83793-one-piece-unlimited-world-red-straw-hat-edition.json](./83793-one-piece-unlimited-world-red-straw-hat-edition.json) |
 | One Piece: World Seeker | 76742 | [76742-one-piece-world-seeker.json](./76742-one-piece-world-seeker.json) |
 | One Piece: World Seeker - Deluxe Edition | 121417 | [121417-one-piece-world-seeker-deluxe-edition.json](./121417-one-piece-world-seeker-deluxe-edition.json) |
+| One Piece: World Seeker - Extra Episode 1: Void Mirror Prototype | 167972 | [167972-one-piece-world-seeker-extra-episode-1-void-mirror-prototype.json](./167972-one-piece-world-seeker-extra-episode-1-void-mirror-prototype.json) |
 | One Piece: World Seeker - Extra Episode 2: Where Justice Lies | 122664 | [122664-one-piece-world-seeker-extra-episode-2-where-justice-lies.json](./122664-one-piece-world-seeker-extra-episode-2-where-justice-lies.json) |
+| One Piece: World Seeker - Extra Episode 2: Where Justice Lies | 167973 | [167973-one-piece-world-seeker-extra-episode-2-where-justice-lies.json](./167973-one-piece-world-seeker-extra-episode-2-where-justice-lies.json) |
+| One Piece: World Seeker - Extra Episode 3: The Unfinished Map | 167974 | [167974-one-piece-world-seeker-extra-episode-3-the-unfinished-map.json](./167974-one-piece-world-seeker-extra-episode-3-the-unfinished-map.json) |
 | One Piece: World Seeker - The Pirate King Edition | 166282 | [166282-one-piece-world-seeker-the-pirate-king-edition.json](./166282-one-piece-world-seeker-the-pirate-king-edition.json) |
 | One Piece: World Seeker Episode Pass | 152911 | [152911-one-piece-world-seeker-episode-pass.json](./152911-one-piece-world-seeker-episode-pass.json) |
 | One Piece: Yume no Luffy Kaizoku-dan Tanjou! | 75739 | [75739-one-piece-yume-no-luffy-kaizoku-dan-tanjou.json](./75739-one-piece-yume-no-luffy-kaizoku-dan-tanjou.json) |
@@ -5688,6 +5694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overlapped | 192318 | [192318-overlapped.json](./192318-overlapped.json) |
 | Overlapping World | 284342 | [284342-overlapping-world.json](./284342-overlapping-world.json) |
 | Overlay | 309299 | [309299-overlay.json](./309299-overlay.json) |
+| Overlay Balls & Mouse Tails | 167980 | [167980-overlay-balls-and-mouse-tails.json](./167980-overlay-balls-and-mouse-tails.json) |
 | Overlewd | 253343 | [253343-overlewd.json](./253343-overlewd.json) |
 | Overlight | 62971 | [62971-overlight.json](./62971-overlight.json) |
 | Overload Playable Teaser | 90591 | [90591-overload-playable-teaser.json](./90591-overload-playable-teaser.json) |
