@@ -8602,6 +8602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit | 413076 | [413076-bit.json](./413076-bit.json) |
 | Bit & Quantum: Save the Earth! | 305085 | [305085-bit-and-quantum-save-the-earth.json](./305085-bit-and-quantum-save-the-earth.json) |
 | Bit Addiction | 277573 | [277573-bit-addiction.json](./277573-bit-addiction.json) |
+| Bit Adventure | 186349 | [186349-bit-adventure.json](./186349-bit-adventure.json) |
 | Bit Ballers | 175557 | [175557-bit-ballers.json](./175557-bit-ballers.json) |
 | Bit Battles | 386068 | [386068-bit-battles.json](./386068-bit-battles.json) |
 | Bit Bike | 250778 | [250778-bit-bike.json](./250778-bit-bike.json) |
@@ -12503,6 +12504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Time | 287494 | [287494-bomb-time.json](./287494-bomb-time.json) |
 | Bomb Up | 263944 | [263944-bomb-up.json](./263944-bomb-up.json) |
 | Bomb Viking | 212600 | [212600-bomb-viking.json](./212600-bomb-viking.json) |
+| Bomb Voyage | 186382 | [186382-bomb-voyage.json](./186382-bomb-voyage.json) |
 | Bomb-Bomb | 101628 | [101628-bomb-bomb.json](./101628-bomb-bomb.json) |
 | Bomb: A Modern Missile Command | 134395 | [134395-bomb-a-modern-missile-command.json](./134395-bomb-a-modern-missile-command.json) |
 | Bomb: Who let the dogfight? | 17403 | [17403-bomb-who-let-the-dogfight.json](./17403-bomb-who-let-the-dogfight.json) |
@@ -14225,6 +14227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxer's Road | 61437 | [61437-boxers-road.json](./61437-boxers-road.json) |
 | Boxer's Road 2: The Real | 61438 | [61438-boxers-road-2-the-real.json](./61438-boxers-road-2-the-real.json) |
 | Boxerpunk Stories | 203711 | [203711-boxerpunk-stories.json](./203711-boxerpunk-stories.json) |
+| Boxes | 186353 | [186353-boxes.json](./186353-boxes.json) |
 | Boxes | 259756 | [259756-boxes.json](./259756-boxes.json) |
 | Boxes and Cutouts | 367750 | [367750-boxes-and-cutouts.json](./367750-boxes-and-cutouts.json) |
 | Boxes Inc. | 97231 | [97231-boxes-inc.json](./97231-boxes-inc.json) |
@@ -15767,6 +15770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bring Them Home | 114188 | [114188-bring-them-home.json](./114188-bring-them-home.json) |
 | Bring Your Eh! Game | 60847 | [60847-bring-your-eh-game.json](./60847-bring-your-eh-game.json) |
 | Bring Your Own Class | 311942 | [311942-bring-your-own-class.json](./311942-bring-your-own-class.json) |
+| Bring Your Own Oxygen | 186216 | [186216-bring-your-own-oxygen.json](./186216-bring-your-own-oxygen.json) |
 | Bringris | 174191 | [174191-bringris.json](./174191-bringris.json) |
 | Brink | 502 | [502-brink.json](./502-brink.json) |
 | Brink Complete Pack | 25050 | [25050-brink-complete-pack.json](./25050-brink-complete-pack.json) |
