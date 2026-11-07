@@ -4142,6 +4142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Levels | 391700 | [391700-levels.json](./391700-levels.json) |
 | Levels+: Addictive Puzzle Game | 51407 | [51407-levels-addictive-puzzle-game.json](./51407-levels-addictive-puzzle-game.json) |
 | Levelup With 100 Cyber Girlfriend | 383921 | [383921-levelup-with-100-cyber-girlfriend.json](./383921-levelup-with-100-cyber-girlfriend.json) |
+| Levenium | 189262 | [189262-levenium.json](./189262-levenium.json) |
 | Lever Simulator: Multiplayer | 291317 | [291317-lever-simulator-multiplayer.json](./291317-lever-simulator-multiplayer.json) |
 | Leverage Real Estate Simulator | 424635 | [424635-leverage-real-estate-simulator.json](./424635-leverage-real-estate-simulator.json) |
 | Leveron Space | 32761 | [32761-leveron-space.json](./32761-leveron-space.json) |
@@ -6635,6 +6636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lo-Fi Golf | 360684 | [360684-lo-fi-golf.json](./360684-lo-fi-golf.json) |
 | Lo-Fi Haiku: Coffee and Chill | 287166 | [287166-lo-fi-haiku-coffee-and-chill.json](./287166-lo-fi-haiku-coffee-and-chill.json) |
 | Lo-fi Life | 168075 | [168075-lo-fi-life.json](./168075-lo-fi-life.json) |
+| Lo-Fi: Thexnerxxm | 189282 | [189282-lo-fi-thexnerxxm.json](./189282-lo-fi-thexnerxxm.json) |
 | Lo-Friction | 369199 | [369199-lo-friction.json](./369199-lo-friction.json) |
 | LO-OP | 104220 | [104220-lo-op.json](./104220-lo-op.json) |
 | Lo-Rez | 285054 | [285054-lo-rez.json](./285054-lo-rez.json) |
@@ -7309,6 +7311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Star | 131618 | [131618-long-star.json](./131618-long-star.json) |
 | Long Steel | 235537 | [235537-long-steel.json](./235537-long-steel.json) |
 | Long Story Short | 264750 | [264750-long-story-short.json](./264750-long-story-short.json) |
+| Long Tail | 189238 | [189238-long-tail.json](./189238-long-tail.json) |
 | Long Time No See | 143477 | [143477-long-time-no-see.json](./143477-long-time-no-see.json) |
 | Long Trip | 285827 | [285827-long-trip.json](./285827-long-trip.json) |
 | Long Truck Simulator | 243544 | [243544-long-truck-simulator.json](./243544-long-truck-simulator.json) |
@@ -8740,6 +8743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Is All Around: Love In The Room | 285362 | [285362-love-is-all-around-love-in-the-room.json](./285362-love-is-all-around-love-in-the-room.json) |
 | Love Is All Around: Love In The Room | 294998 | [294998-love-is-all-around-love-in-the-room.json](./294998-love-is-all-around-love-in-the-room.json) |
 | Love is Blind: Mutants | 33494 | [33494-love-is-blind-mutants.json](./33494-love-is-blind-mutants.json) |
+| Love Is Dangerous | 189277 | [189277-love-is-dangerous.json](./189277-love-is-dangerous.json) |
 | Love is Dead | 33225 | [33225-love-is-dead.json](./33225-love-is-dead.json) |
 | Love is in Bloom | 225300 | [225300-love-is-in-bloom.json](./225300-love-is-in-bloom.json) |
 | Love is in the air | 98264 | [98264-love-is-in-the-air.json](./98264-love-is-in-the-air.json) |
@@ -10002,6 +10006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lupo Alberto: The VideoGame | 98958 | [98958-lupo-alberto-the-videogame.json](./98958-lupo-alberto-the-videogame.json) |
 | Lupos Adventure | 85712 | [85712-lupos-adventure.json](./85712-lupos-adventure.json) |
 | Luppy | 379003 | [379003-luppy.json](./379003-luppy.json) |
+| LuPR: Lunar Post Recruit | 189268 | [189268-lupr-lunar-post-recruit.json](./189268-lupr-lunar-post-recruit.json) |
 | Lupus in Fabula | 41903 | [41903-lupus-in-fabula.json](./41903-lupus-in-fabula.json) |
 | Luqman Reloaded | 361742 | [361742-luqman-reloaded.json](./361742-luqman-reloaded.json) |
 | Lure | 139953 | [139953-lure.json](./139953-lure.json) |
