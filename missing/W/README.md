@@ -7339,6 +7339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wood and Water and Rock | 136422 | [136422-wood-and-water-and-rock.json](./136422-wood-and-water-and-rock.json) |
 | Wood Block 99 | 219828 | [219828-wood-block-99.json](./219828-wood-block-99.json) |
 | Wood Block Escape Bundle | 215319 | [215319-wood-block-escape-bundle.json](./215319-wood-block-escape-bundle.json) |
+| Wood Block Escape Puzzles | 148099 | [148099-wood-block-escape-puzzles.json](./148099-wood-block-escape-puzzles.json) |
 | Wood Block Puzzle | 220190 | [220190-wood-block-puzzle.json](./220190-wood-block-puzzle.json) |
 | Wood Block Puzzle Game | 98830 | [98830-wood-block-puzzle-game.json](./98830-wood-block-puzzle-game.json) |
 | Wood Blocks 3D | 294547 | [294547-wood-blocks-3d.json](./294547-wood-blocks-3d.json) |
