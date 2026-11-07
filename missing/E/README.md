@@ -5843,6 +5843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Espire 2: Mixed Reality Update | 253183 | [253183-espire-2-mixed-reality-update.json](./253183-espire-2-mixed-reality-update.json) |
 | Espire: MR Missions | 377649 | [377649-espire-mr-missions.json](./377649-espire-mr-missions.json) |
 | Espitene | 368070 | [368070-espitene.json](./368070-espitene.json) |
+| Esplode. | 179288 | [179288-esplode.json](./179288-esplode.json) |
 | ESPN Baseball 2K4 | 43249 | [43249-espn-baseball-2k4.json](./43249-espn-baseball-2k4.json) |
 | ESPN Baseball Tonight | 176096 | [176096-espn-baseball-tonight.json](./176096-espn-baseball-tonight.json) |
 | ESPN Baseball Tonight | 5380 | [5380-espn-baseball-tonight.json](./5380-espn-baseball-tonight.json) |
