@@ -1308,6 +1308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velocity Rift | 368714 | [368714-velocity-rift.json](./368714-velocity-rift.json) |
 | Velocity Rift | 377299 | [377299-velocity-rift.json](./377299-velocity-rift.json) |
 | Velocity Rush | 338574 | [338574-velocity-rush.json](./338574-velocity-rush.json) |
+| Velocity Skytacks | 177120 | [177120-velocity-skytacks.json](./177120-velocity-skytacks.json) |
 | Velocity Stream | 34623 | [34623-velocity-stream.json](./34623-velocity-stream.json) |
 | Velocity Supernova | 108298 | [108298-velocity-supernova.json](./108298-velocity-supernova.json) |
 | Velocity Uncapped | 411614 | [411614-velocity-uncapped.json](./411614-velocity-uncapped.json) |
