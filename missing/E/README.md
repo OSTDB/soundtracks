@@ -4468,6 +4468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Escapes: Dark Seas | 25473 | [25473-epic-escapes-dark-seas.json](./25473-epic-escapes-dark-seas.json) |
 | Epic Fantasy | 165570 | [165570-epic-fantasy.json](./165570-epic-fantasy.json) |
 | Epic Fantasy Battle Simulator | 165131 | [165131-epic-fantasy-battle-simulator.json](./165131-epic-fantasy-battle-simulator.json) |
+| Epic Fantasy Quest Game with Extensive Lore and Worldbuilding | 191338 | [191338-epic-fantasy-quest-game-with-extensive-lore-and-worldbuilding.json](./191338-epic-fantasy-quest-game-with-extensive-lore-and-worldbuilding.json) |
 | Epic Flail | 32113 | [32113-epic-flail.json](./32113-epic-flail.json) |
 | Epic Fly | 22346 | [22346-epic-fly.json](./22346-epic-fly.json) |
 | Epic Food Fight | 114402 | [114402-epic-food-fight.json](./114402-epic-food-fight.json) |
@@ -6502,6 +6503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European Air War | 685 | [685-european-air-war.json](./685-european-air-war.json) |
 | European Bus Simulator | 65267 | [65267-european-bus-simulator.json](./65267-european-bus-simulator.json) |
 | European Card Wars | 291229 | [291229-european-card-wars.json](./291229-european-card-wars.json) |
+| European Champions | 191358 | [191358-european-champions.json](./191358-european-champions.json) |
 | European Champions | 79743 | [79743-european-champions.json](./79743-european-champions.json) |
 | European Championship 1992 | 70102 | [70102-european-championship-1992.json](./70102-european-championship-1992.json) |
 | European Conqueror 3D | 85126 | [85126-european-conqueror-3d.json](./85126-european-conqueror-3d.json) |
