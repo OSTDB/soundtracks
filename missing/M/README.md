@@ -17220,6 +17220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morse vs. Horse | 344340 | [344340-morse-vs-horse.json](./344340-morse-vs-horse.json) |
 | Morsels | 314931 | [314931-morsels.json](./314931-morsels.json) |
 | Morshu RTX | 144069 | [144069-morshu-rtx.json](./144069-morshu-rtx.json) |
+| Morshu the Game: Adventure Road | 177638 | [177638-morshu-the-game-adventure-road.json](./177638-morshu-the-game-adventure-road.json) |
 | Morstairs: Part I - Oath of Fealty | 225550 | [225550-morstairs-part-i-oath-of-fealty.json](./225550-morstairs-part-i-oath-of-fealty.json) |
 | Mort the Chicken | 45049 | [45049-mort-the-chicken.json](./45049-mort-the-chicken.json) |
 | MORT: Manageably OK Response Team | 395815 | [395815-mort-manageably-ok-response-team.json](./395815-mort-manageably-ok-response-team.json) |
@@ -18542,6 +18543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MP3: Yoshi's Galapagos | 294758 | [294758-mp3-yoshis-galapagos.json](./294758-mp3-yoshis-galapagos.json) |
 | MP5 | 201242 | [201242-mp5.json](./201242-mp5.json) |
 | MPaliens | 120913 | [120913-mpaliens.json](./120913-mpaliens.json) |
+| Mpdc | 177653 | [177653-mpdc.json](./177653-mpdc.json) |
 | Mpirimpa | 341339 | [341339-mpirimpa.json](./341339-mpirimpa.json) |
 | MR 333 | 192568 | [192568-mr-333.json](./192568-mr-333.json) |
 | Mr Anchry's Day of Twilight | 132076 | [132076-mr-anchrys-day-of-twilight.json](./132076-mr-anchrys-day-of-twilight.json) |
