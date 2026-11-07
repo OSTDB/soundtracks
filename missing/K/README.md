@@ -2218,6 +2218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kickman | 41120 | [41120-kickman.json](./41120-kickman.json) |
 | KickNSlap | 380188 | [380188-kicknslap.json](./380188-kicknslap.json) |
 | Kickochet | 128298 | [128298-kickochet.json](./128298-kickochet.json) |
+| KickOff | 165841 | [165841-kickoff.json](./165841-kickoff.json) |
 | Kickrexing | 193487 | [193487-kickrexing.json](./193487-kickrexing.json) |
 | Kickshot | 99641 | [99641-kickshot.json](./99641-kickshot.json) |
 | Kickster Online Street Soccer | 72654 | [72654-kickster-online-street-soccer.json](./72654-kickster-online-street-soccer.json) |
