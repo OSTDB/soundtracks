@@ -21607,6 +21607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spice Road | 17287 | [17287-spice-road.json](./17287-spice-road.json) |
 | Spice Trade | 302903 | [302903-spice-trade.json](./302903-spice-trade.json) |
 | Spice World | 44907 | [44907-spice-world.json](./44907-spice-world.json) |
+| Spiceshifter | 189798 | [189798-spiceshifter.json](./189798-spiceshifter.json) |
 | SpiceX | 362994 | [362994-spicex.json](./362994-spicex.json) |
 | Spicy Fruit | 293678 | [293678-spicy-fruit.json](./293678-spicy-fruit.json) |
 | Spicy Piggy | 115307 | [115307-spicy-piggy.json](./115307-spicy-piggy.json) |
@@ -23286,6 +23287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SQRZ | 360212 | [360212-sqrz.json](./360212-sqrz.json) |
 | Squab | 260531 | [260531-squab.json](./260531-squab.json) |
 | Squabble | 151597 | [151597-squabble.json](./151597-squabble.json) |
+| Squabble | 189783 | [189783-squabble.json](./189783-squabble.json) |
 | Squabble | 346738 | [346738-squabble.json](./346738-squabble.json) |
 | Squaby | 89578 | [89578-squaby.json](./89578-squaby.json) |
 | Squad | 9495 | [9495-squad.json](./9495-squad.json) |
