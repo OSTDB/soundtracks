@@ -1080,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pancake Sailor | 149333 | [149333-pancake-sailor.json](./149333-pancake-sailor.json) |
 | Pancake Surprise! | 18913 | [18913-pancake-surprise.json](./18913-pancake-surprise.json) |
 | Pancake: The Game | 103856 | [103856-pancake-the-game.json](./103856-pancake-the-game.json) |
+| Pancar | 176610 | [176610-pancar.json](./176610-pancar.json) |
 | Panchin is Frustrated | 258875 | [258875-panchin-is-frustrated.json](./258875-panchin-is-frustrated.json) |
 | PanChira Concentration | 186452 | [186452-panchira-concentration.json](./186452-panchira-concentration.json) |
 | Panchito Chepas | 325639 | [325639-panchito-chepas.json](./325639-panchito-chepas.json) |
