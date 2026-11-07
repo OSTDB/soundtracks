@@ -15218,6 +15218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Jumper! Guilty Gear Tangent!? | 65889 | [65889-pro-jumper-guilty-gear-tangent.json](./65889-pro-jumper-guilty-gear-tangent.json) |
 | Pro Kishi Jinsei Simulation: Shogi no Hanamichi | 37876 | [37876-pro-kishi-jinsei-simulation-shogi-no-hanamichi.json](./37876-pro-kishi-jinsei-simulation-shogi-no-hanamichi.json) |
 | Pro League Baseball | 94422 | [94422-pro-league-baseball.json](./94422-pro-league-baseball.json) |
+| Pro League Soccer | 175004 | [175004-pro-league-soccer.json](./175004-pro-league-soccer.json) |
 | Pro Mahjong Kiwame | 138094 | [138094-pro-mahjong-kiwame.json](./138094-pro-mahjong-kiwame.json) |
 | Pro Mahjong Kiwame 64 | 97880 | [97880-pro-mahjong-kiwame-64.json](./97880-pro-mahjong-kiwame-64.json) |
 | Pro Mahjong Kiwame D | 97874 | [97874-pro-mahjong-kiwame-d.json](./97874-pro-mahjong-kiwame-d.json) |
@@ -16312,6 +16313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Thea | 330350 | [330350-project-thea.json](./330350-project-thea.json) |
 | Project Third Eye | 258603 | [258603-project-third-eye.json](./258603-project-third-eye.json) |
 | Project Three | 343857 | [343857-project-three.json](./343857-project-three.json) |
+| Project Three Kingdoms | 174967 | [174967-project-three-kingdoms.json](./174967-project-three-kingdoms.json) |
 | Project Threshold | 404201 | [404201-project-threshold.json](./404201-project-threshold.json) |
 | Project Tilt | 61532 | [61532-project-tilt.json](./61532-project-tilt.json) |
 | Project Timbre | 381574 | [381574-project-timbre.json](./381574-project-timbre.json) |
@@ -16438,6 +16440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Fractured Reality | 347160 | [347160-project-fractured-reality.json](./347160-project-fractured-reality.json) |
 | Project: Furry Apocalypse | 180373 | [180373-project-furry-apocalypse.json](./180373-project-furry-apocalypse.json) |
 | Project: G-216 | 313480 | [313480-project-g-216.json](./313480-project-g-216.json) |
+| Project: Gaia | 174980 | [174980-project-gaia.json](./174980-project-gaia.json) |
 | Project: Gemini | 122158 | [122158-project-gemini.json](./122158-project-gemini.json) |
 | Project: Genesis | 270195 | [270195-project-genesis.json](./270195-project-genesis.json) |
 | Project: Gorgon | 26836 | [26836-project-gorgon.json](./26836-project-gorgon.json) |
@@ -17609,6 +17612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punk Juice | 285892 | [285892-punk-juice.json](./285892-punk-juice.json) |
 | Punk Plush Panic | 395157 | [395157-punk-plush-panic.json](./395157-punk-plush-panic.json) |
 | Punk Racer | 411619 | [411619-punk-racer.json](./411619-punk-racer.json) |
+| Punk Royale 2052 | 174997 | [174997-punk-royale-2052.json](./174997-punk-royale-2052.json) |
 | Punk Shot | 39965 | [39965-punk-shot.json](./39965-punk-shot.json) |
 | Punk Star | 330003 | [330003-punk-star.json](./330003-punk-star.json) |
 | Punk Wars | 150059 | [150059-punk-wars.json](./150059-punk-wars.json) |
