@@ -594,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octoplex | 83376 | [83376-octoplex.json](./83376-octoplex.json) |
 | Octopo | 306050 | [306050-octopo.json](./306050-octopo.json) |
 | Octoportals | 387424 | [387424-octoportals.json](./387424-octoportals.json) |
+| Octopus | 145159 | [145159-octopus.json](./145159-octopus.json) |
 | Octopus | 231722 | [231722-octopus.json](./231722-octopus.json) |
 | Octopus | 231723 | [231723-octopus.json](./231723-octopus.json) |
 | Octopus | 287659 | [287659-octopus.json](./287659-octopus.json) |
@@ -5332,6 +5333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlands Safehouse | 405475 | [405475-outlands-safehouse.json](./405475-outlands-safehouse.json) |
 | Outlast: Bundle of Terror | 82441 | [82441-outlast-bundle-of-terror.json](./82441-outlast-bundle-of-terror.json) |
 | Outlast: Journey of a Gladiator | 157186 | [157186-outlast-journey-of-a-gladiator.json](./157186-outlast-journey-of-a-gladiator.json) |
+| Outlast: Murkoff Briefcase Edition | 145124 | [145124-outlast-murkoff-briefcase-edition.json](./145124-outlast-murkoff-briefcase-edition.json) |
 | Outlast: Trinity | 28230 | [28230-outlast-trinity.json](./28230-outlast-trinity.json) |
 | Outlast: Whistleblower | 9223 | [9223-outlast-whistleblower.json](./9223-outlast-whistleblower.json) |
 | Outlaw | 113994 | [113994-outlaw.json](./113994-outlaw.json) |
