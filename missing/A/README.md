@@ -1042,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Prelude to Chaos | 293248 | [293248-a-prelude-to-chaos.json](./293248-a-prelude-to-chaos.json) |
 | A Prelude to Chaos | 293249 | [293249-a-prelude-to-chaos.json](./293249-a-prelude-to-chaos.json) |
 | A Pretty Broken Adventure | 249926 | [249926-a-pretty-broken-adventure.json](./249926-a-pretty-broken-adventure.json) |
+| A Pretty Odd Bunny | 149738 | [149738-a-pretty-odd-bunny.json](./149738-a-pretty-odd-bunny.json) |
 | A Princess of Fallen Kingdom | 166615 | [166615-a-princess-of-fallen-kingdom.json](./166615-a-princess-of-fallen-kingdom.json) |
 | A Princess Peril | 323058 | [323058-a-princess-peril.json](./323058-a-princess-peril.json) |
 | A Prison Digging Game | 337976 | [337976-a-prison-digging-game.json](./337976-a-prison-digging-game.json) |
@@ -4714,6 +4715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Fear 4: The Iron Killer | 118733 | [118733-age-of-fear-4-the-iron-killer.json](./118733-age-of-fear-4-the-iron-killer.json) |
 | Age of Fear 4: The Storm Mountain Expansion | 158802 | [158802-age-of-fear-4-the-storm-mountain-expansion.json](./158802-age-of-fear-4-the-storm-mountain-expansion.json) |
 | Age of Fear 4: The Victor's Experiment Expansion | 158801 | [158801-age-of-fear-4-the-victors-experiment-expansion.json](./158801-age-of-fear-4-the-victors-experiment-expansion.json) |
+| Age of Fear 5: The Day of the Rat | 149671 | [149671-age-of-fear-5-the-day-of-the-rat.json](./149671-age-of-fear-5-the-day-of-the-rat.json) |
 | Age of Fear: The Quick and The Dead | 297766 | [297766-age-of-fear-the-quick-and-the-dead.json](./297766-age-of-fear-the-quick-and-the-dead.json) |
 | Age of Fear: The Undead King | 9952 | [9952-age-of-fear-the-undead-king.json](./9952-age-of-fear-the-undead-king.json) |
 | Age of Fear: The Undead King Gold | 110714 | [110714-age-of-fear-the-undead-king-gold.json](./110714-age-of-fear-the-undead-king-gold.json) |
@@ -14628,6 +14630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Style: Rotozoa | 84976 | [84976-art-style-rotozoa.json](./84976-art-style-rotozoa.json) |
 | Art Style: Zengage | 69293 | [69293-art-style-zengage.json](./69293-art-style-zengage.json) |
 | Art Style: Zengage | 84762 | [84762-art-style-zengage.json](./84762-art-style-zengage.json) |
+| Art Syndicate | 149672 | [149672-art-syndicate.json](./149672-art-syndicate.json) |
 | Art Together | 347165 | [347165-art-together.json](./347165-art-together.json) |
 | Art With Friends Free | 323019 | [323019-art-with-friends-free.json](./323019-art-with-friends-free.json) |
 | Art Without Blood | 401253 | [401253-art-without-blood.json](./401253-art-without-blood.json) |
@@ -16853,7 +16856,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -16982,6 +16984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Exile | 303900 | [303900-atomic-exile.json](./303900-atomic-exile.json) |
 | Atomic Girls | 286447 | [286447-atomic-girls.json](./286447-atomic-girls.json) |
 | Atomic Gringo | 396275 | [396275-atomic-gringo.json](./396275-atomic-gringo.json) |
+| Atomic Guardians | 149766 | [149766-atomic-guardians.json](./149766-atomic-guardians.json) |
 | Atomic Hazard | 270008 | [270008-atomic-hazard.json](./270008-atomic-hazard.json) |
 | Atomic Heart II | 347639 | [347639-atomic-heart-ii.json](./347639-atomic-heart-ii.json) |
 | Atomic Heart: Annihilation Instinct | 255689 | [255689-atomic-heart-annihilation-instinct.json](./255689-atomic-heart-annihilation-instinct.json) |
@@ -17081,6 +17084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atrium Invasion | 165360 | [165360-atrium-invasion.json](./165360-atrium-invasion.json) |
 | Atrium Malum | 212173 | [212173-atrium-malum.json](./212173-atrium-malum.json) |
 | Atrium Mortis | 372500 | [372500-atrium-mortis.json](./372500-atrium-mortis.json) |
+| Atrius Star | 149673 | [149673-atrius-star.json](./149673-atrius-star.json) |
 | Atrocity | 113011 | [113011-atrocity.json](./113011-atrocity.json) |
 | Atrocity Arise | 271535 | [271535-atrocity-arise.json](./271535-atrocity-arise.json) |
 | Atrocity: Field of Hands | 75137 | [75137-atrocity-field-of-hands.json](./75137-atrocity-field-of-hands.json) |
