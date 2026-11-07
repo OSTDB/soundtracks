@@ -11851,6 +11851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BluePrint Racer 4D | 68646 | [68646-blueprint-racer-4d.json](./68646-blueprint-racer-4d.json) |
 | Blueprint Tycoon | 28727 | [28727-blueprint-tycoon.json](./28727-blueprint-tycoon.json) |
 | Blueprint Word: Classroom | 112477 | [112477-blueprint-word-classroom.json](./112477-blueprint-word-classroom.json) |
+| Blues and Bullets: Episode 2 | 173376 | [173376-blues-and-bullets-episode-2.json](./173376-blues-and-bullets-episode-2.json) |
 | Blues Brothers 2000 | 3425 | [3425-blues-brothers-2000.json](./3425-blues-brothers-2000.json) |
 | Blues Brothers 2023 | 281314 | [281314-blues-brothers-2023.json](./281314-blues-brothers-2023.json) |
 | Blues Brothers 2025 | 375502 | [375502-blues-brothers-2025.json](./375502-blues-brothers-2025.json) |
