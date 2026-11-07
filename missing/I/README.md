@@ -3367,6 +3367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indie.io Action Bundle | 339062 | [339062-indie-io-action-bundle.json](./339062-indie-io-action-bundle.json) |
 | Indie.io Adventure Bundle | 339063 | [339063-indie-io-adventure-bundle.json](./339063-indie-io-adventure-bundle.json) |
 | Indie.io Chill Bundle | 339064 | [339064-indie-io-chill-bundle.json](./339064-indie-io-chill-bundle.json) |
+| IndieAdventure | 181432 | [181432-indieadventure.json](./181432-indieadventure.json) |
 | Indiecalypse | 123802 | [123802-indiecalypse.json](./123802-indiecalypse.json) |
 | Indiemon Card Adventure | 62720 | [62720-indiemon-card-adventure.json](./62720-indiemon-card-adventure.json) |
 | Indiemon VS Zombies | 60313 | [60313-indiemon-vs-zombies.json](./60313-indiemon-vs-zombies.json) |
@@ -4144,6 +4145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inheritance of Ash | 322793 | [322793-inheritance-of-ash.json](./322793-inheritance-of-ash.json) |
 | Inheritance: Ladeina's Path | 227456 | [227456-inheritance-ladeinas-path.json](./227456-inheritance-ladeinas-path.json) |
 | Inherited Shadows | 403838 | [403838-inherited-shadows.json](./403838-inherited-shadows.json) |
+| Inheritors of the Oubliette | 181427 | [181427-inheritors-of-the-oubliette.json](./181427-inheritors-of-the-oubliette.json) |
 | Inhibit | 264688 | [264688-inhibit.json](./264688-inhibit.json) |
 | Inhuman | 193276 | [193276-inhuman.json](./193276-inhuman.json) |
 | Inhuman | 350421 | [350421-inhuman.json](./350421-inhuman.json) |
