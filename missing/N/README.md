@@ -5350,6 +5350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninku: Tsuyokina Yatsura no Daigekitotsu! | 60536 | [60536-ninku-tsuyokina-yatsura-no-daigekitotsu.json](./60536-ninku-tsuyokina-yatsura-no-daigekitotsu.json) |
 | Ninkyo Dantai | 300496 | [300496-ninkyo-dantai.json](./300496-ninkyo-dantai.json) |
 | NinMaki | 149942 | [149942-ninmaki.json](./149942-ninmaki.json) |
+| Ninneko | 188206 | [188206-ninneko.json](./188206-ninneko.json) |
 | Ninnin | 255491 | [255491-ninnin.json](./255491-ninnin.json) |
 | NinNinDays | 122518 | [122518-ninnindays.json](./122518-ninnindays.json) |
 | NinNinDays 2 | 230799 | [230799-ninnindays-2.json](./230799-ninnindays-2.json) |
@@ -6378,6 +6379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NokNok Invasion! | 183505 | [183505-noknok-invasion.json](./183505-noknok-invasion.json) |
 | Noko Must Die | 307544 | [307544-noko-must-die.json](./307544-noko-must-die.json) |
 | Nokosu | 148293 | [148293-nokosu.json](./148293-nokosu.json) |
+| Nokta | 188171 | [188171-nokta.json](./188171-nokta.json) |
 | Nol | 404808 | [404808-nol.json](./404808-nol.json) |
 | Nola1 | 299853 | [299853-nola1.json](./299853-nola1.json) |
 | Nolan Ryan's Baseball | 42477 | [42477-nolan-ryans-baseball.json](./42477-nolan-ryans-baseball.json) |
