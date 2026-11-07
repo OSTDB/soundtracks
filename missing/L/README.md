@@ -7660,6 +7660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lootbox Incremental | 341261 | [341261-lootbox-incremental.json](./341261-lootbox-incremental.json) |
 | Lootbox Lyfe | 118586 | [118586-lootbox-lyfe.json](./118586-lootbox-lyfe.json) |
 | Lootbox Lyfe+ | 238185 | [238185-lootbox-lyfe.json](./238185-lootbox-lyfe.json) |
+| Lootbox RPG | 175471 | [175471-lootbox-rpg.json](./175471-lootbox-rpg.json) |
 | Lootcraft | 126418 | [126418-lootcraft.json](./126418-lootcraft.json) |
 | Lootdeck | 411986 | [411986-lootdeck.json](./411986-lootdeck.json) |
 | Lootem | 226181 | [226181-lootem.json](./226181-lootem.json) |
@@ -9484,6 +9485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludicrous Uprising | 220434 | [220434-ludicrous-uprising.json](./220434-ludicrous-uprising.json) |
 | Ludo | 418923 | [418923-ludo.json](./418923-ludo.json) |
 | Ludo | 88853 | [88853-ludo.json](./88853-ludo.json) |
+| Ludo 3D | 175465 | [175465-ludo-3d.json](./175465-ludo-3d.json) |
 | Ludo Anceint | 142938 | [142938-ludo-anceint.json](./142938-ludo-anceint.json) |
 | Ludo Blitz | 58751 | [58751-ludo-blitz.json](./58751-ludo-blitz.json) |
 | Ludo Club | 267502 | [267502-ludo-club.json](./267502-ludo-club.json) |
