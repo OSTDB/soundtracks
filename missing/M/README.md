@@ -21767,6 +21767,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious World | 143920 | [143920-mysterious-world.json](./143920-mysterious-world.json) |
 | Mysterious: Dark Journey | 157976 | [157976-mysterious-dark-journey.json](./157976-mysterious-dark-journey.json) |
 | Mysterium | 26811 | [26811-mysterium.json](./26811-mysterium.json) |
+| Mysterium: Hidden Signs | 163587 | [163587-mysterium-hidden-signs.json](./163587-mysterium-hidden-signs.json) |
+| Mysterium: Secrets & Lies | 163586 | [163586-mysterium-secrets-and-lies.json](./163586-mysterium-secrets-and-lies.json) |
 | Mystery | 167267 | [167267-mystery.json](./167267-mystery.json) |
 | Mystery Adventure The Maid Did It | 402378 | [402378-mystery-adventure-the-maid-did-it.json](./402378-mystery-adventure-the-maid-did-it.json) |
 | Mystery Adventure: Secret Key | 105706 | [105706-mystery-adventure-secret-key.json](./105706-mystery-adventure-secret-key.json) |
