@@ -5977,7 +5977,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -14921,6 +14920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MojiCraft | 341246 | [341246-mojicraft.json](./341246-mojicraft.json) |
 | Mójiè Qíbīng | 268440 | [268440-mojie-qibing.json](./268440-mojie-qibing.json) |
 | Mojika: Truth Rears Its Ugly Head | 314804 | [314804-mojika-truth-rears-its-ugly-head.json](./314804-mojika-truth-rears-its-ugly-head.json) |
+| Mojin Returns | 170085 | [170085-mojin-returns.json](./170085-mojin-returns.json) |
 | Mojito the Cat | 197576 | [197576-mojito-the-cat.json](./197576-mojito-the-cat.json) |
 | Mojito the Cat: Animals Skins | 298336 | [298336-mojito-the-cat-animals-skins.json](./298336-mojito-the-cat-animals-skins.json) |
 | Mojito the Cat: Christmas | 403424 | [403424-mojito-the-cat-christmas.json](./403424-mojito-the-cat-christmas.json) |
@@ -15256,6 +15256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monday Syndrome | 333309 | [333309-monday-syndrome.json](./333309-monday-syndrome.json) |
 | Mondays: A Sisyphean Typing Game | 209491 | [209491-mondays-a-sisyphean-typing-game.json](./209491-mondays-a-sisyphean-typing-game.json) |
 | Mondealy | 189076 | [189076-mondealy.json](./189076-mondealy.json) |
+| Mondealy: Day One | 170072 | [170072-mondealy-day-one.json](./170072-mondealy-day-one.json) |
 | Mondly: Learn Languages in VR | 315636 | [315636-mondly-learn-languages-in-vr.json](./315636-mondly-learn-languages-in-vr.json) |
 | Mondo Agency | 72707 | [72707-mondo-agency.json](./72707-mondo-agency.json) |
 | Mondo Pong | 40759 | [40759-mondo-pong.json](./40759-mondo-pong.json) |
