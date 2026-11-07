@@ -2521,6 +2521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlimited Heart | 126183 | [126183-unlimited-heart.json](./126183-unlimited-heart.json) |
 | Unlimited Hearts | 67243 | [67243-unlimited-hearts.json](./67243-unlimited-hearts.json) |
 | Unlimited Skills Hero | 227521 | [227521-unlimited-skills-hero.json](./227521-unlimited-skills-hero.json) |
+| Unlimited World 1 | 159423 | [159423-unlimited-world-1.json](./159423-unlimited-world-1.json) |
 | Unlimited Worlds | 298616 | [298616-unlimited-worlds.json](./298616-unlimited-worlds.json) |
 | Unline | 278501 | [278501-unline.json](./278501-unline.json) |
 | Unlisted | 422034 | [422034-unlisted.json](./422034-unlisted.json) |
