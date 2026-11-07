@@ -1591,6 +1591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Eyes: BattleGate | 37555 | [37555-dark-eyes-battlegate.json](./37555-dark-eyes-battlegate.json) |
 | Dark Eyes: Millennium 2000 | 145632 | [145632-dark-eyes-millennium-2000.json](./145632-dark-eyes-millennium-2000.json) |
 | Dark Fable | 116861 | [116861-dark-fable.json](./116861-dark-fable.json) |
+| Dark Facets | 149114 | [149114-dark-facets.json](./149114-dark-facets.json) |
 | Dark Fairy Fantasy | 122432 | [122432-dark-fairy-fantasy.json](./122432-dark-fairy-fantasy.json) |
 | Dark Fairy Tale | 348332 | [348332-dark-fairy-tale.json](./348332-dark-fairy-tale.json) |
 | Dark Fairy Tales: The Boogeyman | 138405 | [138405-dark-fairy-tales-the-boogeyman.json](./138405-dark-fairy-tales-the-boogeyman.json) |
@@ -11146,6 +11147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Duel: Season 2 | 279390 | [279390-divine-duel-season-2.json](./279390-divine-duel-season-2.json) |
 | Divine Dungeons | 138510 | [138510-divine-dungeons.json](./138510-divine-dungeons.json) |
 | Divine Dynamo Flamefrit | 309095 | [309095-divine-dynamo-flamefrit.json](./309095-divine-dynamo-flamefrit.json) |
+| Divine Favor | 149136 | [149136-divine-favor.json](./149136-divine-favor.json) |
 | Divine Gambit | 375314 | [375314-divine-gambit.json](./375314-divine-gambit.json) |
 | Divine Gate | 77747 | [77747-divine-gate.json](./77747-divine-gate.json) |
 | Divine Gate Zero | 227486 | [227486-divine-gate-zero.json](./227486-divine-gate-zero.json) |
@@ -12392,6 +12394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino for Mac | 89150 | [89150-domino-for-mac.json](./89150-domino-for-mac.json) |
 | Dominó Gótico | 417212 | [417212-domino-gotico.json](./417212-domino-gotico.json) |
 | Domino House | 138414 | [138414-domino-house.json](./138414-domino-house.json) |
+| Domino Killer | 149135 | [149135-domino-killer.json](./149135-domino-killer.json) |
 | Domino Lounge | 209121 | [209121-domino-lounge.json](./209121-domino-lounge.json) |
 | Domino Man | 23239 | [23239-domino-man.json](./23239-domino-man.json) |
 | Domino Marble | 238977 | [238977-domino-marble.json](./238977-domino-marble.json) |
@@ -12475,6 +12478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don Quixote: A Dream in Seven Crystals | 273124 | [273124-don-quixote-a-dream-in-seven-crystals.json](./273124-don-quixote-a-dream-in-seven-crystals.json) |
 | Don-Chan Puzzle: Hanabi de Don | 309598 | [309598-don-chan-puzzle-hanabi-de-don.json](./309598-don-chan-puzzle-hanabi-de-don.json) |
 | Don't Ask Succubus | 173822 | [173822-dont-ask-succubus.json](./173822-dont-ask-succubus.json) |
+| Don't Be A Baby! | 149124 | [149124-dont-be-a-baby.json](./149124-dont-be-a-baby.json) |
 | Don't Be a Hero | 306295 | [306295-dont-be-a-hero.json](./306295-dont-be-a-hero.json) |
 | Don't Be Afraid | 80904 | [80904-dont-be-afraid.json](./80904-dont-be-afraid.json) |
 | Don't Be Afraid 2 | 287825 | [287825-dont-be-afraid-2.json](./287825-dont-be-afraid-2.json) |
