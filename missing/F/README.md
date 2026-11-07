@@ -8408,6 +8408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flow Parkour | 260894 | [260894-flow-parkour.json](./260894-flow-parkour.json) |
 | Flow Skate | 369048 | [369048-flow-skate.json](./369048-flow-skate.json) |
 | Flow Space | 158624 | [158624-flow-space.json](./158624-flow-space.json) |
+| Flow Weaver | 140703 | [140703-flow-weaver.json](./140703-flow-weaver.json) |
 | Flow: Last Origins | 267471 | [267471-flow-last-origins.json](./267471-flow-last-origins.json) |
 | Flow: Syn x Vertue | 278265 | [278265-flow-syn-x-vertue.json](./278265-flow-syn-x-vertue.json) |
 | Flow: The Sliding | 41934 | [41934-flow-the-sliding.json](./41934-flow-the-sliding.json) |
@@ -13057,6 +13058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Merge | 322806 | [322806-fruit-merge.json](./322806-fruit-merge.json) |
 | Fruit Mess | 264386 | [264386-fruit-mess.json](./264386-fruit-mess.json) |
 | Fruit Mountain Party | 334302 | [334302-fruit-mountain-party.json](./334302-fruit-mountain-party.json) |
+| Fruit Nibblers | 140735 | [140735-fruit-nibblers.json](./140735-fruit-nibblers.json) |
 | Fruit Ninja | 290243 | [290243-fruit-ninja.json](./290243-fruit-ninja.json) |
 | Fruit Ninja 2 | 336284 | [336284-fruit-ninja-2.json](./336284-fruit-ninja-2.json) |
 | Fruit Ninja Academy: Math Master | 193723 | [193723-fruit-ninja-academy-math-master.json](./193723-fruit-ninja-academy-math-master.json) |
