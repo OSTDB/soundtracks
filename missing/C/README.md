@@ -6440,6 +6440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasing Styx | 29443 | [29443-chasing-styx.json](./29443-chasing-styx.json) |
 | Chasing Sunsets | 323816 | [323816-chasing-sunsets.json](./323816-chasing-sunsets.json) |
 | Chasing Tail | 160240 | [160240-chasing-tail.json](./160240-chasing-tail.json) |
+| Chasing Tails: A Promise in the Snow | 159977 | [159977-chasing-tails-a-promise-in-the-snow.json](./159977-chasing-tails-a-promise-in-the-snow.json) |
 | Chasing the Dawn | 387140 | [387140-chasing-the-dawn.json](./387140-chasing-the-dawn.json) |
 | Chasing the Stars | 102135 | [102135-chasing-the-stars.json](./102135-chasing-the-stars.json) |
 | Chasing the Universe | 367524 | [367524-chasing-the-universe.json](./367524-chasing-the-universe.json) |
@@ -20561,6 +20562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Defense 2088 | 154896 | [154896-cyber-defense-2088.json](./154896-cyber-defense-2088.json) |
 | Cyber Detective | 244570 | [244570-cyber-detective.json](./244570-cyber-detective.json) |
 | Cyber Diver | 176721 | [176721-cyber-diver.json](./176721-cyber-diver.json) |
+| Cyber Dodge | 159989 | [159989-cyber-dodge.json](./159989-cyber-dodge.json) |
 | Cyber Dodge | 42054 | [42054-cyber-dodge.json](./42054-cyber-dodge.json) |
 | Cyber Doll | 71716 | [71716-cyber-doll.json](./71716-cyber-doll.json) |
 | Cyber Dome | 62801 | [62801-cyber-dome.json](./62801-cyber-dome.json) |
