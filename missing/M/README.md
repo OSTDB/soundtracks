@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machigai-sagashi Daisousasen | 271506 | [271506-machigai-sagashi-daisousasen.json](./271506-machigai-sagashi-daisousasen.json) |
 | Machigatta Shain-Kyouiku Mattaku Kimi no Kaisha de ha Ittai Donna Shain-Kyouiku wo | 236794 | [236794-machigatta-shain-kyouiku-mattaku-kimi-no-kaisha-de-ha-ittai-donna-shain-kyouiku-wo.json](./236794-machigatta-shain-kyouiku-mattaku-kimi-no-kaisha-de-ha-ittai-donna-shain-kyouiku-wo.json) |
 | Machina | 184624 | [184624-machina.json](./184624-machina.json) |
+| Machina Blade | 191952 | [191952-machina-blade.json](./191952-machina-blade.json) |
 | Machina Blue | 415173 | [415173-machina-blue.json](./415173-machina-blue.json) |
 | Machina of the Farthest | 296489 | [296489-machina-of-the-farthest.json](./296489-machina-of-the-farthest.json) |
 | Machina of the Planet Tree -Planet Ruler- | 11539 | [11539-machina-of-the-planet-tree-planet-ruler.json](./11539-machina-of-the-planet-tree-planet-ruler.json) |
@@ -5376,6 +5377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mata Nui Online Game II: The Final Chronicle | 125378 | [125378-mata-nui-online-game-ii-the-final-chronicle.json](./125378-mata-nui-online-game-ii-the-final-chronicle.json) |
 | Mata Yume no Naka de | 205239 | [205239-mata-yume-no-naka-de.json](./205239-mata-yume-no-naka-de.json) |
 | Mata, Itsuka. | 201309 | [201309-mata-itsuka.json](./201309-mata-itsuka.json) |
+| Matachin | 191994 | [191994-matachin.json](./191994-matachin.json) |
 | Matadouro: Grindhouse | 283395 | [283395-matadouro-grindhouse.json](./283395-matadouro-grindhouse.json) |
 | Matamarcianos | 209243 | [209243-matamarcianos.json](./209243-matamarcianos.json) |
 | Matantei Loki Ragnarok: Gensou no Labyrinth | 49698 | [49698-matantei-loki-ragnarok-gensou-no-labyrinth.json](./49698-matantei-loki-ragnarok-gensou-no-labyrinth.json) |
@@ -8420,6 +8422,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meiji Tokyo Renka Twilight Kiss | 136446 | [136446-meiji-tokyo-renka-twilight-kiss.json](./136446-meiji-tokyo-renka-twilight-kiss.json) |
 | Meiji Tokyo Renka: Haikara Date | 153732 | [153732-meiji-tokyo-renka-haikara-date.json](./153732-meiji-tokyo-renka-haikara-date.json) |
 | Meijin Tanigawa Kouji Tsuzumi Shogi | 385794 | [385794-meijin-tanigawa-kouji-tsuzumi-shogi.json](./385794-meijin-tanigawa-kouji-tsuzumi-shogi.json) |
+| Meikei no Lupercalia | 191957 | [191957-meikei-no-lupercalia.json](./191957-meikei-no-lupercalia.json) |
+| Meikei no Lupercalia: Limited Edition | 191961 | [191961-meikei-no-lupercalia-limited-edition.json](./191961-meikei-no-lupercalia-limited-edition.json) |
 | Meikyu | 414461 | [414461-meikyu.json](./414461-meikyu.json) |
 | Meikyu Wakusei des Paraiso | 182391 | [182391-meikyu-wakusei-des-paraiso.json](./182391-meikyu-wakusei-des-paraiso.json) |
 | Meikyuu Cross Blood: Infinity - Ultimate | 248796 | [248796-meikyuu-cross-blood-infinity-ultimate.json](./248796-meikyuu-cross-blood-infinity-ultimate.json) |
@@ -11423,6 +11427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Beanz Pocket Puzzles | 6510 | [6510-mighty-beanz-pocket-puzzles.json](./6510-mighty-beanz-pocket-puzzles.json) |
 | Mighty Block | 248261 | [248261-mighty-block.json](./248261-mighty-block.json) |
 | Mighty Bomb Jack | 40531 | [40531-mighty-bomb-jack.json](./40531-mighty-bomb-jack.json) |
+| Mighty Castles | 191983 | [191983-mighty-castles.json](./191983-mighty-castles.json) |
 | Mighty Chameleon Brothers | 155469 | [155469-mighty-chameleon-brothers.json](./155469-mighty-chameleon-brothers.json) |
 | Mighty Cuphead Adventure | 404676 | [404676-mighty-cuphead-adventure.json](./404676-mighty-cuphead-adventure.json) |
 | Mighty Doom | 148394 | [148394-mighty-doom.json](./148394-mighty-doom.json) |
@@ -15214,6 +15219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Mouse in Full Barn House | 281535 | [281535-money-mouse-in-full-barn-house.json](./281535-money-mouse-in-full-barn-house.json) |
 | Money Movers | 95982 | [95982-money-movers.json](./95982-money-movers.json) |
 | Money Movers 2 | 95983 | [95983-money-movers-2.json](./95983-money-movers-2.json) |
+| Money Movers 3: Guard Duty | 191990 | [191990-money-movers-3-guard-duty.json](./191990-money-movers-3-guard-duty.json) |
 | Money Munchers | 59890 | [59890-money-munchers.json](./59890-money-munchers.json) |
 | Money Parasite: Usotsuki na Onna | 225885 | [225885-money-parasite-usotsuki-na-onna.json](./225885-money-parasite-usotsuki-na-onna.json) |
 | Money Planet | 354918 | [354918-money-planet.json](./354918-money-planet.json) |
