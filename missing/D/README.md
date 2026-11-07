@@ -12994,6 +12994,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle God 2 | 65158 | [65158-doodle-god-2.json](./65158-doodle-god-2.json) |
 | Doodle God Blitz | 68341 | [68341-doodle-god-blitz.json](./68341-doodle-god-blitz.json) |
 | Doodle God Blitz HD | 106080 | [106080-doodle-god-blitz-hd.json](./106080-doodle-god-blitz-hd.json) |
+| Doodle God Blitz: Devil vs. God | 168992 | [168992-doodle-god-blitz-devil-vs-god.json](./168992-doodle-god-blitz-devil-vs-god.json) |
+| Doodle God Blitz: Doodle Devil | 168996 | [168996-doodle-god-blitz-doodle-devil.json](./168996-doodle-god-blitz-doodle-devil.json) |
+| Doodle God Blitz: Doodle Kingdom | 168997 | [168997-doodle-god-blitz-doodle-kingdom.json](./168997-doodle-god-blitz-doodle-kingdom.json) |
+| Doodle God Blitz: Go Santa Go! | 168995 | [168995-doodle-god-blitz-go-santa-go.json](./168995-doodle-god-blitz-go-santa-go.json) |
+| Doodle God Blitz: Greatest Inventions | 168987 | [168987-doodle-god-blitz-greatest-inventions.json](./168987-doodle-god-blitz-greatest-inventions.json) |
+| Doodle God Blitz: Hidden Object | 168989 | [168989-doodle-god-blitz-hidden-object.json](./168989-doodle-god-blitz-hidden-object.json) |
+| Doodle God Blitz: Let there be light | 168998 | [168998-doodle-god-blitz-let-there-be-light.json](./168998-doodle-god-blitz-let-there-be-light.json) |
+| Doodle God Blitz: Save the Princess | 168986 | [168986-doodle-god-blitz-save-the-princess.json](./168986-doodle-god-blitz-save-the-princess.json) |
+| Doodle God Blitz: Survivor | 168991 | [168991-doodle-god-blitz-survivor.json](./168991-doodle-god-blitz-survivor.json) |
+| Doodle God Blitz: The Angel and the Imp | 168990 | [168990-doodle-god-blitz-the-angel-and-the-imp.json](./168990-doodle-god-blitz-the-angel-and-the-imp.json) |
+| Doodle God Blitz: The Necromancer`s Uprising | 168988 | [168988-doodle-god-blitz-the-necromancer-s-uprising.json](./168988-doodle-god-blitz-the-necromancer-s-uprising.json) |
+| Doodle God Blitz: The Return of the King | 168999 | [168999-doodle-god-blitz-the-return-of-the-king.json](./168999-doodle-god-blitz-the-return-of-the-king.json) |
+| Doodle God Blitz: The Rise of Egypt | 168994 | [168994-doodle-god-blitz-the-rise-of-egypt.json](./168994-doodle-god-blitz-the-rise-of-egypt.json) |
+| Doodle God Blitz: Train Your Dragon | 168993 | [168993-doodle-god-blitz-train-your-dragon.json](./168993-doodle-god-blitz-train-your-dragon.json) |
+| Doodle God Blitz: World of Magic | 169000 | [169000-doodle-god-blitz-world-of-magic.json](./169000-doodle-god-blitz-world-of-magic.json) |
 | Doodle God Bundle | 119072 | [119072-doodle-god-bundle.json](./119072-doodle-god-bundle.json) |
 | Doodle God Griddlers | 197992 | [197992-doodle-god-griddlers.json](./197992-doodle-god-griddlers.json) |
 | Doodle God HD | 88467 | [88467-doodle-god-hd.json](./88467-doodle-god-hd.json) |
@@ -15795,6 +15810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadful Bond | 116970 | [116970-dreadful-bond.json](./116970-dreadful-bond.json) |
 | Dreadful Hours | 202540 | [202540-dreadful-hours.json](./202540-dreadful-hours.json) |
 | Dreadful Night at School | 368462 | [368462-dreadful-night-at-school.json](./368462-dreadful-night-at-school.json) |
+| Dreadful Shadows | 168981 | [168981-dreadful-shadows.json](./168981-dreadful-shadows.json) |
 | Dreadful Tales: The Space Between - Collector's Edition | 182252 | [182252-dreadful-tales-the-space-between-collectors-edition.json](./182252-dreadful-tales-the-space-between-collectors-edition.json) |
 | Dreadful Wake | 192669 | [192669-dreadful-wake.json](./192669-dreadful-wake.json) |
 | Dreadhalls | 21561 | [21561-dreadhalls.json](./21561-dreadhalls.json) |
@@ -18069,6 +18085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Crawl Stone Soup | 16983 | [16983-dungeon-crawl-stone-soup.json](./16983-dungeon-crawl-stone-soup.json) |
 | Dungeon Crawl Tower Run | 260633 | [260633-dungeon-crawl-tower-run.json](./260633-dungeon-crawl-tower-run.json) |
 | Dungeon Crawler | 191823 | [191823-dungeon-crawler.json](./191823-dungeon-crawler.json) |
+| Dungeon Crawler Daniel | 169028 | [169028-dungeon-crawler-daniel.json](./169028-dungeon-crawler-daniel.json) |
 | Dungeon Crawlers HD | 35642 | [35642-dungeon-crawlers-hd.json](./35642-dungeon-crawlers-hd.json) |
 | Dungeon Create | 265139 | [265139-dungeon-create.json](./265139-dungeon-create.json) |
 | Dungeon Creator | 241999 | [241999-dungeon-creator.json](./241999-dungeon-creator.json) |
