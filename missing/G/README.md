@@ -351,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gado Fight | 132222 | [132222-gado-fight.json](./132222-gado-fight.json) |
 | Gadurin | 137496 | [137496-gadurin.json](./137496-gadurin.json) |
 | Gadvia | 223940 | [223940-gadvia.json](./223940-gadvia.json) |
+| Gael's Quest | 140734 | [140734-gaels-quest.json](./140734-gaels-quest.json) |
 | Gaelco Arcade 1 | 149291 | [149291-gaelco-arcade-1.json](./149291-gaelco-arcade-1.json) |
 | Gaelco Arcade 2 | 203515 | [203515-gaelco-arcade-2.json](./203515-gaelco-arcade-2.json) |
 | Gaelic Football Laochra | 394897 | [394897-gaelic-football-laochra.json](./394897-gaelic-football-laochra.json) |
@@ -3853,6 +3854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Land | 120586 | [120586-ghost-land.json](./120586-ghost-land.json) |
 | Ghost legend | 289251 | [289251-ghost-legend.json](./289251-ghost-legend.json) |
 | Ghost Light | 310020 | [310020-ghost-light.json](./310020-ghost-light.json) |
+| Ghost Love | 140727 | [140727-ghost-love.json](./140727-ghost-love.json) |
 | Ghost Mania | 64702 | [64702-ghost-mania.json](./64702-ghost-mania.json) |
 | Ghost Manor | 23207 | [23207-ghost-manor.json](./23207-ghost-manor.json) |
 | Ghost Manor | 79976 | [79976-ghost-manor.json](./79976-ghost-manor.json) |
@@ -4423,6 +4425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gin Rummy 3D Premium | 133118 | [133118-gin-rummy-3d-premium.json](./133118-gin-rummy-3d-premium.json) |
 | Gin Rummy Classic | 370435 | [370435-gin-rummy-classic.json](./370435-gin-rummy-classic.json) |
 | Gin Rummy Deluxe | 181590 | [181590-gin-rummy-deluxe.json](./181590-gin-rummy-deluxe.json) |
+| Gin Rummy Plus | 140746 | [140746-gin-rummy-plus.json](./140746-gin-rummy-plus.json) |
 | Gin Rummy Royale | 88576 | [88576-gin-rummy-royale.json](./88576-gin-rummy-royale.json) |
 | Gin Rummy Ultra | 87640 | [87640-gin-rummy-ultra.json](./87640-gin-rummy-ultra.json) |
 | Gin Rummy: Casino Card Game | 88612 | [88612-gin-rummy-casino-card-game.json](./88612-gin-rummy-casino-card-game.json) |
