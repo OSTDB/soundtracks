@@ -3189,6 +3189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm of the Mad God: Free Welcome Pack | 289006 | [289006-realm-of-the-mad-god-free-welcome-pack.json](./289006-realm-of-the-mad-god-free-welcome-pack.json) |
 | Realm of the Paladin: Deception's Plague | 171541 | [171541-realm-of-the-paladin-deceptions-plague.json](./171541-realm-of-the-paladin-deceptions-plague.json) |
 | Realm of the Ruthless | 125610 | [125610-realm-of-the-ruthless.json](./125610-realm-of-the-ruthless.json) |
+| Realm of the Tempest | 153608 | [153608-realm-of-the-tempest.json](./153608-realm-of-the-tempest.json) |
 | Realm of the Titans | 91797 | [91797-realm-of-the-titans.json](./91797-realm-of-the-titans.json) |
 | Realm of the Undead | 273799 | [273799-realm-of-the-undead.json](./273799-realm-of-the-undead.json) |
 | Realm of the Undead | 73594 | [73594-realm-of-the-undead.json](./73594-realm-of-the-undead.json) |
@@ -6765,6 +6766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolvermen | 344397 | [344397-revolvermen.json](./344397-revolvermen.json) |
 | RevolverRouge | 381115 | [381115-revolverrouge.json](./381115-revolverrouge.json) |
 | RevolVR 3 | 169355 | [169355-revolvr-3.json](./169355-revolvr-3.json) |
+| Revomon | 153597 | [153597-revomon.json](./153597-revomon.json) |
 | Revs | 13750 | [13750-revs.json](./13750-revs.json) |
 | Revs+ | 44126 | [44126-revs.json](./44126-revs.json) |
 | Revv Racing | 172500 | [172500-revv-racing.json](./172500-revv-racing.json) |
