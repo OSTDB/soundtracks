@@ -597,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saikko-nee to Death Game | 301025 | [301025-saikko-nee-to-death-game.json](./301025-saikko-nee-to-death-game.json) |
 | Saiko no Sutoka | 141288 | [141288-saiko-no-sutoka.json](./141288-saiko-no-sutoka.json) |
 | Saiko no Sutoka no Shiki | 244705 | [244705-saiko-no-sutoka-no-shiki.json](./244705-saiko-no-sutoka-no-shiki.json) |
+| Saikoro Psycho | 153600 | [153600-saikoro-psycho.json](./153600-saikoro-psycho.json) |
 | Saikoro Saiko Sebunsu Hebun | 230320 | [230320-saikoro-saiko-sebunsu-hebun.json](./230320-saikoro-saiko-sebunsu-hebun.json) |
 | Saikoro Saiko: Memento Mori | 314824 | [314824-saikoro-saiko-memento-mori.json](./314824-saikoro-saiko-memento-mori.json) |
 | Saikoro Saiko: Miss Fortune | 314826 | [314826-saikoro-saiko-miss-fortune.json](./314826-saikoro-saiko-miss-fortune.json) |
@@ -1651,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandwich Shop Simulator | 407379 | [407379-sandwich-shop-simulator.json](./407379-sandwich-shop-simulator.json) |
 | Sandwich Sim | 298133 | [298133-sandwich-sim.json](./298133-sandwich-sim.json) |
 | Sandwich Simulator | 345351 | [345351-sandwich-simulator.json](./345351-sandwich-simulator.json) |
+| Sandwich Sudoku | 153572 | [153572-sandwich-sudoku.json](./153572-sandwich-sudoku.json) |
 | Sandy | 388188 | [388188-sandy.json](./388188-sandy.json) |
 | Sandy & Junior: Aventura Virtual | 132863 | [132863-sandy-and-junior-aventura-virtual.json](./132863-sandy-and-junior-aventura-virtual.json) |
 | Sandy and the "Jewelry" | 421815 | [421815-sandy-and-the-jewelry.json](./421815-sandy-and-the-jewelry.json) |
@@ -4801,6 +4803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Security Booth | 159045 | [159045-security-booth.json](./159045-security-booth.json) |
 | Security Booth: Director's Cut | 205075 | [205075-security-booth-directors-cut.json](./205075-security-booth-directors-cut.json) |
 | Security Breach | 389334 | [389334-security-breach.json](./389334-security-breach.json) |
+| Security Breach: Fury's Rage | 153590 | [153590-security-breach-furys-rage.json](./153590-security-breach-furys-rage.json) |
 | Security Control | 278913 | [278913-security-control.json](./278913-security-control.json) |
 | Security Guard | 167565 | [167565-security-guard.json](./167565-security-guard.json) |
 | Security Guard Sex: Episode 1 | 301648 | [301648-security-guard-sex-episode-1.json](./301648-security-guard-sex-episode-1.json) |
@@ -5706,6 +5709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentou Gakuen: Revival | 34388 | [34388-sentou-gakuen-revival.json](./34388-sentou-gakuen-revival.json) |
 | Sentou Kokka Kai Improved | 166547 | [166547-sentou-kokka-kai-improved.json](./166547-sentou-kokka-kai-improved.json) |
 | Sentou Kokka: Air Land Battle | 166546 | [166546-sentou-kokka-air-land-battle.json](./166546-sentou-kokka-air-land-battle.json) |
+| Sentou Yousei Yukikaze: Yousei no Mau Sora | 153607 | [153607-sentou-yousei-yukikaze-yousei-no-mau-sora.json](./153607-sentou-yousei-yukikaze-yousei-no-mau-sora.json) |
 | Sentouin: Yamada Hajime | 49785 | [49785-sentouin-yamada-hajime.json](./49785-sentouin-yamada-hajime.json) |
 | Sentree | 18281 | [18281-sentree.json](./18281-sentree.json) |
 | Sentris | 17445 | [17445-sentris.json](./17445-sentris.json) |
@@ -9313,6 +9317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooty 2D | 150482 | [150482-shooty-2d.json](./150482-shooty-2d.json) |
 | Shooty and the Catfish: Episode 1 | 181838 | [181838-shooty-and-the-catfish-episode-1.json](./181838-shooty-and-the-catfish-episode-1.json) |
 | Shooty and the Catfish: Episode 2 | 181936 | [181936-shooty-and-the-catfish-episode-2.json](./181936-shooty-and-the-catfish-episode-2.json) |
+| Shooty and the Catfish: Fully Reloaded | 153569 | [153569-shooty-and-the-catfish-fully-reloaded.json](./153569-shooty-and-the-catfish-fully-reloaded.json) |
 | Shooty Ballz | 184656 | [184656-shooty-ballz.json](./184656-shooty-ballz.json) |
 | Shooty Fruity | 54700 | [54700-shooty-fruity.json](./54700-shooty-fruity.json) |
 | Shooty McSpaceFace | 393891 | [393891-shooty-mcspaceface.json](./393891-shooty-mcspaceface.json) |
@@ -12557,6 +12562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skullborn | 192615 | [192615-skullborn.json](./192615-skullborn.json) |
 | Skullboy Master | 237574 | [237574-skullboy-master.json](./237574-skullboy-master.json) |
 | Skullbreaker | 370341 | [370341-skullbreaker.json](./370341-skullbreaker.json) |
+| Skullcaps | 153609 | [153609-skullcaps.json](./153609-skullcaps.json) |
 | Skullchef | 408786 | [408786-skullchef.json](./408786-skullchef.json) |
 | SkullCracker | 66446 | [66446-skullcracker.json](./66446-skullcracker.json) |
 | Skulldash | 142377 | [142377-skulldash.json](./142377-skulldash.json) |
@@ -13586,6 +13592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slendrina's Freakish Friends and Family Night | 282801 | [282801-slendrinas-freakish-friends-and-family-night.json](./282801-slendrinas-freakish-friends-and-family-night.json) |
 | Slendy! | 61992 | [61992-slendy.json](./61992-slendy.json) |
 | Slendyjan | 393760 | [393760-slendyjan.json](./393760-slendyjan.json) |
+| Slendytubbies | 153626 | [153626-slendytubbies.json](./153626-slendytubbies.json) |
 | Slendytubbies 2D | 283436 | [283436-slendytubbies-2d.json](./283436-slendytubbies-2d.json) |
 | Slendytubbies II | 214423 | [214423-slendytubbies-ii.json](./214423-slendytubbies-ii.json) |
 | Slendytubbies III | 138560 | [138560-slendytubbies-iii.json](./138560-slendytubbies-iii.json) |
@@ -19488,6 +19495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Break | 142853 | [142853-space-break.json](./142853-space-break.json) |
 | Space Break 2 | 187710 | [187710-space-break-2.json](./187710-space-break-2.json) |
 | Space Break 2 Head to Head | 214059 | [214059-space-break-2-head-to-head.json](./214059-space-break-2-head-to-head.json) |
+| Space Break Head to Head | 153594 | [153594-space-break-head-to-head.json](./153594-space-break-head-to-head.json) |
 | Space Bross | 348832 | [348832-space-bross.json](./348832-space-bross.json) |
 | Space Bubble Cat | 145476 | [145476-space-bubble-cat.json](./145476-space-bubble-cat.json) |
 | Space Bubble Shooter | 378491 | [378491-space-bubble-shooter.json](./378491-space-bubble-shooter.json) |
@@ -19555,6 +19563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cobra RetPixMod | 178647 | [178647-space-cobra-retpixmod.json](./178647-space-cobra-retpixmod.json) |
 | Space Cobra the Psychogun | 75734 | [75734-space-cobra-the-psychogun.json](./75734-space-cobra-the-psychogun.json) |
 | Space Codex | 32684 | [32684-space-codex.json](./32684-space-codex.json) |
+| Space Colonies | 153576 | [153576-space-colonies.json](./153576-space-colonies.json) |
 | Space Colonizer | 165930 | [165930-space-colonizer.json](./165930-space-colonizer.json) |
 | Space Colonizers: The Sandbox | 261425 | [261425-space-colonizers-the-sandbox.json](./261425-space-colonizers-the-sandbox.json) |
 | Space Colony HD | 51901 | [51901-space-colony-hd.json](./51901-space-colony-hd.json) |
@@ -19868,6 +19877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -28080,6 +28090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stratosphere Fight | 253702 | [253702-stratosphere-fight.json](./253702-stratosphere-fight.json) |
 | Stratosphere: Conquest of the Skies | 25879 | [25879-stratosphere-conquest-of-the-skies.json](./25879-stratosphere-conquest-of-the-skies.json) |
 | Stratospheric Domain | 268887 | [268887-stratospheric-domain.json](./268887-stratospheric-domain.json) |
+| Stratospiel | 153570 | [153570-stratospiel.json](./153570-stratospiel.json) |
 | Stratovox | 39406 | [39406-stratovox.json](./39406-stratovox.json) |
 | Stratside | 130780 | [130780-stratside.json](./130780-stratside.json) |
 | Stratum | 74319 | [74319-stratum.json](./74319-stratum.json) |
@@ -29624,6 +29635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sucker Punch | 257302 | [257302-sucker-punch.json](./257302-sucker-punch.json) |
 | Sucker Punch 2 | 261460 | [261460-sucker-punch-2.json](./261460-sucker-punch-2.json) |
 | Sucker Punch Mech Gunner | 59357 | [59357-sucker-punch-mech-gunner.json](./59357-sucker-punch-mech-gunner.json) |
+| Sucker Punch VR | 153563 | [153563-sucker-punch-vr.json](./153563-sucker-punch-vr.json) |
 | Sucky Safari | 365956 | [365956-sucky-safari.json](./365956-sucky-safari.json) |
 | Sucre: Sweet and Charming Time for You | 396945 | [396945-sucre-sweet-and-charming-time-for-you.json](./396945-sucre-sweet-and-charming-time-for-you.json) |
 | Sucronomicon | 414171 | [414171-sucronomicon.json](./414171-sucronomicon.json) |
