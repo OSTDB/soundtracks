@@ -3503,6 +3503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marblous Worlds | 346516 | [346516-marblous-worlds.json](./346516-marblous-worlds.json) |
 | Marburgh | 126934 | [126934-marburgh.json](./126934-marburgh.json) |
 | Marby Baby Story | 143668 | [143668-marby-baby-story.json](./143668-marby-baby-story.json) |
+| Marc | 180878 | [180878-marc.json](./180878-marc.json) |
 | Marc Ecko's Getting Up | 386410 | [386410-marc-eckos-getting-up.json](./386410-marc-eckos-getting-up.json) |
 | Marc Ecko's Getting Up: Contents Under Pressure | 5909 | [5909-marc-eckos-getting-up-contents-under-pressure.json](./5909-marc-eckos-getting-up-contents-under-pressure.json) |
 | Marce | 383531 | [383531-marce.json](./383531-marce.json) |
@@ -3555,6 +3556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marco Polo Bridge Incident | 213398 | [213398-marco-polo-bridge-incident.json](./213398-marco-polo-bridge-incident.json) |
 | Marcus Comes Out Online | 330150 | [330150-marcus-comes-out-online.json](./330150-marcus-comes-out-online.json) |
 | Marcus Level | 34063 | [34063-marcus-level.json](./34063-marcus-level.json) |
+| Marcy | 180887 | [180887-marcy.json](./180887-marcy.json) |
 | Mardek | 150427 | [150427-mardek.json](./150427-mardek.json) |
 | Mardek RPG: Chapter 1 | 62756 | [62756-mardek-rpg-chapter-1.json](./62756-mardek-rpg-chapter-1.json) |
 | Mardek RPG: Chapter 2 | 62729 | [62729-mardek-rpg-chapter-2.json](./62729-mardek-rpg-chapter-2.json) |
@@ -5961,6 +5963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
