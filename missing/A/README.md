@@ -2906,6 +2906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across Kiloparsecs | 259022 | [259022-across-kiloparsecs.json](./259022-across-kiloparsecs.json) |
 | Across the Abyss: Voidborn | 300220 | [300220-across-the-abyss-voidborn.json](./300220-across-the-abyss-voidborn.json) |
 | Across the demon realm | 150546 | [150546-across-the-demon-realm.json](./150546-across-the-demon-realm.json) |
+| Across the demon realm 2 | 150304 | [150304-across-the-demon-realm-2.json](./150304-across-the-demon-realm-2.json) |
 | Across the Distant Skies | 337844 | [337844-across-the-distant-skies.json](./337844-across-the-distant-skies.json) |
 | Across the Galaxy: Infinite War | 216780 | [216780-across-the-galaxy-infinite-war.json](./216780-across-the-galaxy-infinite-war.json) |
 | Across the Galaxy: Stellar Dominator | 171500 | [171500-across-the-galaxy-stellar-dominator.json](./171500-across-the-galaxy-stellar-dominator.json) |
@@ -3917,6 +3918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aelfric the Wondrous | 299301 | [299301-aelfric-the-wondrous.json](./299301-aelfric-the-wondrous.json) |
 | Aeloren Tactics | 157111 | [157111-aeloren-tactics.json](./157111-aeloren-tactics.json) |
 | Aelwater | 390079 | [390079-aelwater.json](./390079-aelwater.json) |
+| Aenaon | 150288 | [150288-aenaon.json](./150288-aenaon.json) |
 | Aenigma | 394072 | [394072-aenigma.json](./394072-aenigma.json) |
 | Aenigma Game: Storm Hacker | 264792 | [264792-aenigma-game-storm-hacker.json](./264792-aenigma-game-storm-hacker.json) |
 | Aenigma Os | 84740 | [84740-aenigma-os.json](./84740-aenigma-os.json) |
@@ -6432,6 +6434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alef's Blademaker: Arms Shop | 304244 | [304244-alefs-blademaker-arms-shop.json](./304244-alefs-blademaker-arms-shop.json) |
 | Alegraz | 391895 | [391895-alegraz.json](./391895-alegraz.json) |
 | Alehouse Tavern Simulator | 334489 | [334489-alehouse-tavern-simulator.json](./334489-alehouse-tavern-simulator.json) |
+| Alek | 150309 | [150309-alek.json](./150309-alek.json) |
 | Alek: The Lost Kingdom | 161539 | [161539-alek-the-lost-kingdom.json](./161539-alek-the-lost-kingdom.json) |
 | Alekhine's Gun | 15691 | [15691-alekhines-gun.json](./15691-alekhines-gun.json) |
 | Alekon | 151066 | [151066-alekon.json](./151066-alekon.json) |
@@ -8081,6 +8084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altus 24 | 22168 | [22168-altus-24.json](./22168-altus-24.json) |
 | Altushka + | 368073 | [368073-altushka.json](./368073-altushka.json) |
 | Altwaldheim 2: Town in Trouble | 240604 | [240604-altwaldheim-2-town-in-trouble.json](./240604-altwaldheim-2-town-in-trouble.json) |
+| Altwaldheim: Town in Turmoil | 150303 | [150303-altwaldheim-town-in-turmoil.json](./150303-altwaldheim-town-in-turmoil.json) |
 | Alty's Dinner | 390762 | [390762-altys-dinner.json](./390762-altys-dinner.json) |
 | Alucinod | 118422 | [118422-alucinod.json](./118422-alucinod.json) |
 | Alühn | 320332 | [320332-aluhn.json](./320332-aluhn.json) |
@@ -9442,6 +9446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Witch Arena | 215659 | [215659-ancient-witch-arena.json](./215659-ancient-witch-arena.json) |
 | Ancient Wonders: Gardens of Babylon | 273656 | [273656-ancient-wonders-gardens-of-babylon.json](./273656-ancient-wonders-gardens-of-babylon.json) |
 | Ancient Wonders: Pharaoh's Tomb | 253313 | [253313-ancient-wonders-pharaohs-tomb.json](./253313-ancient-wonders-pharaohs-tomb.json) |
+| Ancient Worlds: Egypt | 150305 | [150305-ancient-worlds-egypt.json](./150305-ancient-worlds-egypt.json) |
 | Ancient: Legacy of Azul | 153150 | [153150-ancient-legacy-of-azul.json](./153150-ancient-legacy-of-azul.json) |
 | Ancients II: Approaching Evil | 12392 | [12392-ancients-ii-approaching-evil.json](./12392-ancients-ii-approaching-evil.json) |
 | Ancients of Ooga | 16228 | [16228-ancients-of-ooga.json](./16228-ancients-of-ooga.json) |
@@ -15722,6 +15727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astellia Royal | 160000 | [160000-astellia-royal.json](./160000-astellia-royal.json) |
 | Aster | 264447 | [264447-aster.json](./264447-aster.json) |
 | Aster Force | 195114 | [195114-aster-force.json](./195114-aster-force.json) |
+| Aster fpv | 150324 | [150324-aster-fpv.json](./150324-aster-fpv.json) |
 | Aster Initiative | 274035 | [274035-aster-initiative.json](./274035-aster-initiative.json) |
 | Aster League: 2179 | 408839 | [408839-aster-league-2179.json](./408839-aster-league-2179.json) |
 | Aster Pebble and the Case of Bad Bureaucracy | 383402 | [383402-aster-pebble-and-the-case-of-bad-bureaucracy.json](./383402-aster-pebble-and-the-case-of-bad-bureaucracy.json) |
@@ -16502,6 +16508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Sundown: Shots in the Dark - Avatar Edition | 118559 | [118559-at-sundown-shots-in-the-dark-avatar-edition.json](./118559-at-sundown-shots-in-the-dark-avatar-edition.json) |
 | At the Behest of the Pike: Time to Run | 153894 | [153894-at-the-behest-of-the-pike-time-to-run.json](./153894-at-the-behest-of-the-pike-time-to-run.json) |
 | At the Carnival | 73601 | [73601-at-the-carnival.json](./73601-at-the-carnival.json) |
+| At the Downstairs | 150293 | [150293-at-the-downstairs.json](./150293-at-the-downstairs.json) |
 | At the Dream End 2: Beyond Gods | 254018 | [254018-at-the-dream-end-2-beyond-gods.json](./254018-at-the-dream-end-2-beyond-gods.json) |
 | At the Edge of the World | 267858 | [267858-at-the-edge-of-the-world.json](./267858-at-the-edge-of-the-world.json) |
 | At the Gates of Midian | 271496 | [271496-at-the-gates-of-midian.json](./271496-at-the-gates-of-midian.json) |
