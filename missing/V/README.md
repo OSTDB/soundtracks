@@ -984,6 +984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vault of Fallen | 355573 | [355573-vault-of-fallen.json](./355573-vault-of-fallen.json) |
 | Vault of Honor | 43187 | [43187-vault-of-honor.json](./43187-vault-of-honor.json) |
 | Vault of Power | 260390 | [260390-vault-of-power.json](./260390-vault-of-power.json) |
+| Vault of Stars | 187628 | [187628-vault-of-stars.json](./187628-vault-of-stars.json) |
 | Vault of Terror | 356661 | [356661-vault-of-terror.json](./356661-vault-of-terror.json) |
 | Vault of The Vanquished | 391101 | [391101-vault-of-the-vanquished.json](./391101-vault-of-the-vanquished.json) |
 | Vault of the Void | 127617 | [127617-vault-of-the-void.json](./127617-vault-of-the-void.json) |
@@ -1280,6 +1281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velocibox | 15548 | [15548-velocibox.json](./15548-velocibox.json) |
 | Velocide Overdrive | 393501 | [393501-velocide-overdrive.json](./393501-velocide-overdrive.json) |
 | Velocidevorium | 96765 | [96765-velocidevorium.json](./96765-velocidevorium.json) |
+| Velocimom | 187610 | [187610-velocimom.json](./187610-velocimom.json) |
 | Velocipede | 416714 | [416714-velocipede.json](./416714-velocipede.json) |
 | Velocipede II | 416716 | [416716-velocipede-ii.json](./416716-velocipede-ii.json) |
 | Velocirapture | 61375 | [61375-velocirapture.json](./61375-velocirapture.json) |
