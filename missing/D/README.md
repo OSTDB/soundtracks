@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daffy Fish | 152570 | [152570-daffy-fish.json](./152570-daffy-fish.json) |
 | Daft Disputes | 180220 | [180220-daft-disputes.json](./180220-daft-disputes.json) |
 | Daft Jump! | 108222 | [108222-daft-jump.json](./108222-daft-jump.json) |
+| Dagada's Story | 192489 | [192489-dagadas-story.json](./192489-dagadas-story.json) |
 | DaGame | 146238 | [146238-dagame.json](./146238-dagame.json) |
 | Dagat-i Kal Kal Kal | 63262 | [63262-dagat-i-kal-kal-kal.json](./63262-dagat-i-kal-kal-kal.json) |
 | Dagdak Knights: Idle RPG | 219957 | [219957-dagdak-knights-idle-rpg.json](./219957-dagdak-knights-idle-rpg.json) |
@@ -12213,6 +12214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino! | 359139 | [359139-domino.json](./359139-domino.json) |
 | Dominocalypse | 404644 | [404644-dominocalypse.json](./404644-dominocalypse.json) |
 | Dominoes | 60322 | [60322-dominoes.json](./60322-dominoes.json) |
+| Dominoes 3D Simulator | 192488 | [192488-dominoes-3d-simulator.json](./192488-dominoes-3d-simulator.json) |
 | Dominoes Café | 204967 | [204967-dominoes-cafe.json](./204967-dominoes-cafe.json) |
 | Dominoes Colors | 264599 | [264599-dominoes-colors.json](./264599-dominoes-colors.json) |
 | Dominoes: Classic Tile Games | 415264 | [415264-dominoes-classic-tile-games.json](./415264-dominoes-classic-tile-games.json) |
