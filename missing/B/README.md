@@ -971,6 +971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -8029,6 +8030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binary Quest | 178616 | [178616-binary-quest.json](./178616-binary-quest.json) |
 | Binary Run | 203906 | [203906-binary-run.json](./203906-binary-run.json) |
 | Binary Rush | 250388 | [250388-binary-rush.json](./250388-binary-rush.json) |
+| Binary Smoke | 145137 | [145137-binary-smoke.json](./145137-binary-smoke.json) |
 | Binary Stack | 57741 | [57741-binary-stack.json](./57741-binary-stack.json) |
 | Binary Star | 61944 | [61944-binary-star.json](./61944-binary-star.json) |
 | Binary Star Hero | 326846 | [326846-binary-star-hero.json](./326846-binary-star-hero.json) |
@@ -9870,6 +9872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaster Master Boy | 7790 | [7790-blaster-master-boy.json](./7790-blaster-master-boy.json) |
 | Blaster Master SNES Port | 377231 | [377231-blaster-master-snes-port.json](./377231-blaster-master-snes-port.json) |
 | Blaster Master Zero | 27438 | [27438-blaster-master-zero.json](./27438-blaster-master-zero.json) |
+| Blaster Master Zero 1 & 2 | 145122 | [145122-blaster-master-zero-1-and-2.json](./145122-blaster-master-zero-1-and-2.json) |
 | Blaster Master Zero 2: Kanna Raising Simulator | 168165 | [168165-blaster-master-zero-2-kanna-raising-simulator.json](./168165-blaster-master-zero-2-kanna-raising-simulator.json) |
 | Blaster Master Zero II | 116416 | [116416-blaster-master-zero-ii.json](./116416-blaster-master-zero-ii.json) |
 | Blaster Master Zero II: Copen from "Luminous Avenger iX" | 169043 | [169043-blaster-master-zero-ii-copen-from-luminous-avenger-ix.json](./169043-blaster-master-zero-ii-copen-from-luminous-avenger-ix.json) |
