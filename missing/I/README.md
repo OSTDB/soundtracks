@@ -3928,6 +3928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -6846,7 +6847,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ithya: Magic Studies | 342482 | [342482-ithya-magic-studies.json](./342482-ithya-magic-studies.json) |
 | Itineris | 29675 | [29675-itineris.json](./29675-itineris.json) |
 | Itoi Shigesato no Bass Tsuri No. 1 | 3518 | [3518-itoi-shigesato-no-bass-tsuri-no-1.json](./3518-itoi-shigesato-no-bass-tsuri-no-1.json) |
+| Itoi Shigesato no Bass Tsuri No.1: Aki no Zenkoku Tournament | 151884 | [151884-itoi-shigesato-no-bass-tsuri-no-1-aki-no-zenkoku-tournament.json](./151884-itoi-shigesato-no-bass-tsuri-no-1-aki-no-zenkoku-tournament.json) |
+| Itoi Shigesato no Bass Tsuri No.1: Fuyu no Zenkoku Tournament | 151885 | [151885-itoi-shigesato-no-bass-tsuri-no-1-fuyu-no-zenkoku-tournament.json](./151885-itoi-shigesato-no-bass-tsuri-no-1-fuyu-no-zenkoku-tournament.json) |
+| Itoi Shigesato no Bass Tsuri No.1: Haru no Zenkoku Tournament | 151882 | [151882-itoi-shigesato-no-bass-tsuri-no-1-haru-no-zenkoku-tournament.json](./151882-itoi-shigesato-no-bass-tsuri-no-1-haru-no-zenkoku-tournament.json) |
 | Itoi Shigesato no Bass Tsuri No.1: Haru no Zenkoku Tournament - Gomihiroi Campaign | 300691 | [300691-itoi-shigesato-no-bass-tsuri-no-1-haru-no-zenkoku-tournament-gomihiroi-campaign.json](./300691-itoi-shigesato-no-bass-tsuri-no-1-haru-no-zenkoku-tournament-gomihiroi-campaign.json) |
+| Itoi Shigesato no Bass Tsuri No.1: Natsu no Zenkoku Tournament | 151883 | [151883-itoi-shigesato-no-bass-tsuri-no-1-natsu-no-zenkoku-tournament.json](./151883-itoi-shigesato-no-bass-tsuri-no-1-natsu-no-zenkoku-tournament.json) |
 | Itorah | 122343 | [122343-itorah.json](./122343-itorah.json) |
 | Itoshi Kokoro | 330845 | [330845-itoshi-kokoro.json](./330845-itoshi-kokoro.json) |
 | Itoshi no My Master | 221052 | [221052-itoshi-no-my-master.json](./221052-itoshi-no-my-master.json) |
