@@ -15461,6 +15461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo's Pizzarama | 239788 | [239788-cosmos-pizzarama.json](./239788-cosmos-pizzarama.json) |
 | Cosmo's Quickstop | 54676 | [54676-cosmos-quickstop.json](./54676-cosmos-quickstop.json) |
 | Cosmo's Rocket | 208795 | [208795-cosmos-rocket.json](./208795-cosmos-rocket.json) |
+| CosmoAlley Bowling | 146449 | [146449-cosmoalley-bowling.json](./146449-cosmoalley-bowling.json) |
 | Cosmoblaster Exodia | 192939 | [192939-cosmoblaster-exodia.json](./192939-cosmoblaster-exodia.json) |
 | Cosmocade: The Arcade of Tomorrow | 181436 | [181436-cosmocade-the-arcade-of-tomorrow.json](./181436-cosmocade-the-arcade-of-tomorrow.json) |
 | Cosmochoria | 17230 | [17230-cosmochoria.json](./17230-cosmochoria.json) |
@@ -17313,6 +17314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creature Pedia | 369791 | [369791-creature-pedia.json](./369791-creature-pedia.json) |
 | Creature Quest | 138166 | [138166-creature-quest.json](./138166-creature-quest.json) |
 | Creature Resort | 136985 | [136985-creature-resort.json](./136985-creature-resort.json) |
+| Creature Romances: For the Ladies | 146421 | [146421-creature-romances-for-the-ladies.json](./146421-creature-romances-for-the-ladies.json) |
 | Creature Romances: Kokonoe Kokoro | 89726 | [89726-creature-romances-kokonoe-kokoro.json](./89726-creature-romances-kokonoe-kokoro.json) |
 | Creature Rumble | 260547 | [260547-creature-rumble.json](./260547-creature-rumble.json) |
 | Creature Summon: Showdown Moment | 286341 | [286341-creature-summon-showdown-moment.json](./286341-creature-summon-showdown-moment.json) |
@@ -18869,6 +18871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypto Is Dead | 159138 | [159138-crypto-is-dead.json](./159138-crypto-is-dead.json) |
 | Crypto Miner Tycoon Simulator | 191122 | [191122-crypto-miner-tycoon-simulator.json](./191122-crypto-miner-tycoon-simulator.json) |
 | Crypto Mining | 358295 | [358295-crypto-mining.json](./358295-crypto-mining.json) |
+| Crypto Mining Simulator | 146434 | [146434-crypto-mining-simulator.json](./146434-crypto-mining-simulator.json) |
 | Crypto Mining Simulator: Ultimate Trading Strategy Tycoon Craft & Idle Game 3D | 231279 | [231279-crypto-mining-simulator-ultimate-trading-strategy-tycoon-craft-and-idle-game-3d.json](./231279-crypto-mining-simulator-ultimate-trading-strategy-tycoon-craft-and-idle-game-3d.json) |
 | Crypto Quest | 93743 | [93743-crypto-quest.json](./93743-crypto-quest.json) |
 | Crypto Raiders | 178391 | [178391-crypto-raiders.json](./178391-crypto-raiders.json) |
