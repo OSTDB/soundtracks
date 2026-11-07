@@ -9706,6 +9706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Island | 296309 | [296309-dinosaur-island.json](./296309-dinosaur-island.json) |
 | Dinosaur Island Escape | 276026 | [276026-dinosaur-island-escape.json](./276026-dinosaur-island-escape.json) |
 | Dinosaur Island VR | 91651 | [91651-dinosaur-island-vr.json](./91651-dinosaur-island-vr.json) |
+| Dinosaur Jigsaw Puzzles | 186998 | [186998-dinosaur-jigsaw-puzzles.json](./186998-dinosaur-jigsaw-puzzles.json) |
 | Dinosaur Jigsaw Puzzles - Kids Games for Toddlers | 86831 | [86831-dinosaur-jigsaw-puzzles-kids-games-for-toddlers.json](./86831-dinosaur-jigsaw-puzzles-kids-games-for-toddlers.json) |
 | Dinosaur King | 140907 | [140907-dinosaur-king.json](./140907-dinosaur-king.json) |
 | Dinosaur King | 48042 | [48042-dinosaur-king.json](./48042-dinosaur-king.json) |
@@ -12867,6 +12868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donut Hockey | 373558 | [373558-donut-hockey.json](./373558-donut-hockey.json) |
 | Donut Land Clicker | 255493 | [255493-donut-land-clicker.json](./255493-donut-land-clicker.json) |
 | Donut Maker | 232179 | [232179-donut-maker.json](./232179-donut-maker.json) |
+| Donut Match | 186952 | [186952-donut-match.json](./186952-donut-match.json) |
 | Donut Mod | 130036 | [130036-donut-mod.json](./130036-donut-mod.json) |
 | Donut or Cookie | 233660 | [233660-donut-or-cookie.json](./233660-donut-or-cookie.json) |
 | Donut Plus | 309639 | [309639-donut-plus.json](./309639-donut-plus.json) |
@@ -16764,6 +16766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving Speed Pro | 261946 | [261946-driving-speed-pro.json](./261946-driving-speed-pro.json) |
 | Driving Theory Training | 72620 | [72620-driving-theory-training.json](./72620-driving-theory-training.json) |
 | Driving World Collection | 283206 | [283206-driving-world-collection.json](./283206-driving-world-collection.json) |
+| Driving World: Italian Job | 186951 | [186951-driving-world-italian-job.json](./186951-driving-world-italian-job.json) |
 | Driving World: Nordic Challenge | 147750 | [147750-driving-world-nordic-challenge.json](./147750-driving-world-nordic-challenge.json) |
 | Driving Zone 2 | 100860 | [100860-driving-zone-2.json](./100860-driving-zone-2.json) |
 | Driving Zone 2 | 89735 | [89735-driving-zone-2.json](./89735-driving-zone-2.json) |
@@ -17307,6 +17310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dual Protocol: The Case of Eva & Miles | 407324 | [407324-dual-protocol-the-case-of-eva-and-miles.json](./407324-dual-protocol-the-case-of-eva-and-miles.json) |
 | Dual Shadows | 346499 | [346499-dual-shadows.json](./346499-dual-shadows.json) |
 | Dual Snake | 81004 | [81004-dual-snake.json](./81004-dual-snake.json) |
+| Dual Souls: The Last Bearer | 186950 | [186950-dual-souls-the-last-bearer.json](./186950-dual-souls-the-last-bearer.json) |
 | Dual Souls: The Last Bearer - Complete Edition | 196049 | [196049-dual-souls-the-last-bearer-complete-edition.json](./196049-dual-souls-the-last-bearer-complete-edition.json) |
 | Dual Spin | 241346 | [241346-dual-spin.json](./241346-dual-spin.json) |
 | Dual Tennis | 246959 | [246959-dual-tennis.json](./246959-dual-tennis.json) |
@@ -18178,6 +18182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Master Nexus | 3801 | [3801-dungeon-master-nexus.json](./3801-dungeon-master-nexus.json) |
 | Dungeon Master: Chaos Strikes Back | 3799 | [3799-dungeon-master-chaos-strikes-back.json](./3799-dungeon-master-chaos-strikes-back.json) |
 | Dungeon Master: Theron's Quest | 3800 | [3800-dungeon-master-therons-quest.json](./3800-dungeon-master-therons-quest.json) |
+| Dungeon Masters | 186967 | [186967-dungeon-masters.json](./186967-dungeon-masters.json) |
 | Dungeon Masters Assistant Volume I: Encounters | 57411 | [57411-dungeon-masters-assistant-volume-i-encounters.json](./57411-dungeon-masters-assistant-volume-i-encounters.json) |
 | Dungeon Maze | 114341 | [114341-dungeon-maze.json](./114341-dungeon-maze.json) |
 | Dungeon Maze | 343789 | [343789-dungeon-maze.json](./343789-dungeon-maze.json) |
