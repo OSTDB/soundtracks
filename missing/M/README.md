@@ -2296,6 +2296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mainbody | 223424 | [223424-mainbody.json](./223424-mainbody.json) |
 | MainFighter | 185493 | [185493-mainfighter.json](./185493-mainfighter.json) |
 | Mainframe | 182779 | [182779-mainframe.json](./182779-mainframe.json) |
+| Mainframe Defenders: Metldown | 183669 | [183669-mainframe-defenders-metldown.json](./183669-mainframe-defenders-metldown.json) |
 | Mainframe Escape | 417386 | [417386-mainframe-escape.json](./417386-mainframe-escape.json) |
 | Mainframe Mayhem | 271328 | [271328-mainframe-mayhem.json](./271328-mainframe-mayhem.json) |
 | Mainframe Men | 384147 | [384147-mainframe-men.json](./384147-mainframe-men.json) |
@@ -5957,7 +5958,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9695,6 +9695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Detector Island | 409807 | [409807-metal-detector-island.json](./409807-metal-detector-island.json) |
 | Metal Dogs | 144769 | [144769-metal-dogs.json](./144769-metal-dogs.json) |
 | Metal Dogs EX Quest01: Here Comes the Metal Enemies | 296619 | [296619-metal-dogs-ex-quest01-here-comes-the-metal-enemies.json](./296619-metal-dogs-ex-quest01-here-comes-the-metal-enemies.json) |
+| Metal Dogs: Bow Wow Wonderful Edition | 183661 | [183661-metal-dogs-bow-wow-wonderful-edition.json](./183661-metal-dogs-bow-wow-wonderful-edition.json) |
 | Metal Dogs: New Dog Addition - Labrador Retriever | 302919 | [302919-metal-dogs-new-dog-addition-labrador-retriever.json](./302919-metal-dogs-new-dog-addition-labrador-retriever.json) |
 | Metal Dragon | 304080 | [304080-metal-dragon.json](./304080-metal-dragon.json) |
 | Metal Dragon | 325243 | [325243-metal-dragon.json](./325243-metal-dragon.json) |
@@ -16711,6 +16712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonless | 244863 | [244863-moonless.json](./244863-moonless.json) |
 | Moonless Moon | 302959 | [302959-moonless-moon.json](./302959-moonless-moon.json) |
 | moonLessL | 166581 | [166581-moonlessl.json](./166581-moonlessl.json) |
+| Moonlight | 183693 | [183693-moonlight.json](./183693-moonlight.json) |
 | Moonlight | 229651 | [229651-moonlight.json](./229651-moonlight.json) |
 | Moonlight | 261534 | [261534-moonlight.json](./261534-moonlight.json) |
 | Moonlight | 33711 | [33711-moonlight.json](./33711-moonlight.json) |
@@ -16807,6 +16809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonshiner Simulator | 390358 | [390358-moonshiner-simulator.json](./390358-moonshiner-simulator.json) |
 | Moonship | 256233 | [256233-moonship.json](./256233-moonship.json) |
 | Moonshire | 280933 | [280933-moonshire.json](./280933-moonshire.json) |
+| Moonshot | 183683 | [183683-moonshot.json](./183683-moonshot.json) |
 | Moonshot | 20351 | [20351-moonshot.json](./20351-moonshot.json) |
 | Moonshot | 286048 | [286048-moonshot.json](./286048-moonshot.json) |
 | Moonshot | 312045 | [312045-moonshot.json](./312045-moonshot.json) |
