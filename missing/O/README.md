@@ -2687,6 +2687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Shade's Fate | 183782 | [183782-one-shades-fate.json](./183782-one-shades-fate.json) |
 | One Shell Straight to Hell | 141646 | [141646-one-shell-straight-to-hell.json](./141646-one-shell-straight-to-hell.json) |
 | One Shell Straight to Hell: X Layers of Fear | 170374 | [170374-one-shell-straight-to-hell-x-layers-of-fear.json](./170374-one-shell-straight-to-hell-x-layers-of-fear.json) |
+| One Shot | 149665 | [149665-one-shot.json](./149665-one-shot.json) |
 | One Shot | 179111 | [179111-one-shot.json](./179111-one-shot.json) |
 | One Shot | 201555 | [201555-one-shot.json](./201555-one-shot.json) |
 | One Shot | 360619 | [360619-one-shot.json](./360619-one-shot.json) |
