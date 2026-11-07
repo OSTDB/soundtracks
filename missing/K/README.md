@@ -6285,6 +6285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuru-kuru Puzzle Nihon no Rekishi | 264953 | [264953-kuru-kuru-puzzle-nihon-no-rekishi.json](./264953-kuru-kuru-puzzle-nihon-no-rekishi.json) |
 | Kuru-kuru Puzzle Sekai-shi B | 276465 | [276465-kuru-kuru-puzzle-sekai-shi-b.json](./276465-kuru-kuru-puzzle-sekai-shi-b.json) |
 | Kuruki-chan the Cat | 419958 | [419958-kuruki-chan-the-cat.json](./419958-kuruki-chan-the-cat.json) |
+| Kurukshetra: Ascension | 188750 | [188750-kurukshetra-ascension.json](./188750-kurukshetra-ascension.json) |
 | KuruKuru MaruMaru | 263956 | [263956-kurukuru-marumaru.json](./263956-kurukuru-marumaru.json) |
 | KuruKuru Princess: Tokimeki Figure Mezase! Vancouver | 77135 | [77135-kurukuru-princess-tokimeki-figure-mezase-vancouver.json](./77135-kurukuru-princess-tokimeki-figure-mezase-vancouver.json) |
 | KuruKuru Princess: Yume no White Quartet | 70668 | [70668-kurukuru-princess-yume-no-white-quartet.json](./70668-kurukuru-princess-yume-no-white-quartet.json) |
