@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D&D Classics | 246457 | [246457-d-and-d-classics.json](./246457-d-and-d-classics.json) |
 | D&D Lords of Waterdeep | 68484 | [68484-d-and-d-lords-of-waterdeep.json](./68484-d-and-d-lords-of-waterdeep.json) |
 | D&D Lords of Waterdeep: Skullport expansion | 174449 | [174449-d-and-d-lords-of-waterdeep-skullport-expansion.json](./174449-d-and-d-lords-of-waterdeep-skullport-expansion.json) |
+| D&D Lords of Waterdeep: Undermountain | 171147 | [171147-d-and-d-lords-of-waterdeep-undermountain.json](./171147-d-and-d-lords-of-waterdeep-undermountain.json) |
 | D&M: Dungeon and Monsters the Beginning | 227135 | [227135-d-and-m-dungeon-and-monsters-the-beginning.json](./227135-d-and-m-dungeon-and-monsters-the-beginning.json) |
 | D&M: Spark of Fate | 236751 | [236751-d-and-m-spark-of-fate.json](./236751-d-and-m-spark-of-fate.json) |
 | D+Vine[Luv] | 283301 | [283301-d-vine-luv.json](./283301-d-vine-luv.json) |
