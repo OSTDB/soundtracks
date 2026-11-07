@@ -7708,6 +7708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Seas: The Family Fortune | 70034 | [70034-high-seas-the-family-fortune.json](./70034-high-seas-the-family-fortune.json) |
 | High Seize | 6264 | [6264-high-seize.json](./6264-high-seize.json) |
 | High Sidin': Hyphy Edition | 325042 | [325042-high-sidin-hyphy-edition.json](./325042-high-sidin-hyphy-edition.json) |
+| High Smileson | 151346 | [151346-high-smileson.json](./151346-high-smileson.json) |
 | High Speed Bridge Racing | 104374 | [104374-high-speed-bridge-racing.json](./104374-high-speed-bridge-racing.json) |
 | High Speed Extreme Bike Race Game: Space Heroes | 102263 | [102263-high-speed-extreme-bike-race-game-space-heroes.json](./102263-high-speed-extreme-bike-race-game-space-heroes.json) |
 | High Speed Extreme Racing | 220822 | [220822-high-speed-extreme-racing.json](./220822-high-speed-extreme-racing.json) |
@@ -11401,6 +11402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Make a Cup of Tea | 176118 | [176118-how-to-make-a-cup-of-tea.json](./176118-how-to-make-a-cup-of-tea.json) |
 | How to Make a Floating City | 116114 | [116114-how-to-make-a-floating-city.json](./116114-how-to-make-a-floating-city.json) |
 | How to Make a Game | 407830 | [407830-how-to-make-a-game.json](./407830-how-to-make-a-game.json) |
+| How to Make a Killing | 151370 | [151370-how-to-make-a-killing.json](./151370-how-to-make-a-killing.json) |
 | How to Make a Sequel | 407831 | [407831-how-to-make-a-sequel.json](./407831-how-to-make-a-sequel.json) |
 | How to Make an Atomic Bomb in Your Garden | 391727 | [391727-how-to-make-an-atomic-bomb-in-your-garden.json](./391727-how-to-make-an-atomic-bomb-in-your-garden.json) |
 | How to Make Slime Maker Play Fun | 101085 | [101085-how-to-make-slime-maker-play-fun.json](./101085-how-to-make-slime-maker-play-fun.json) |
