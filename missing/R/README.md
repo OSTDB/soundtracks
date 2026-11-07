@@ -3403,6 +3403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebels | 261079 | [261079-rebels.json](./261079-rebels.json) |
 | Rebels & Redcoats | 122394 | [122394-rebels-and-redcoats.json](./122394-rebels-and-redcoats.json) |
 | Rebels and Redcoats II | 194171 | [194171-rebels-and-redcoats-ii.json](./194171-rebels-and-redcoats-ii.json) |
+| Rebels and Redcoats: Mobile Edition | 175494 | [175494-rebels-and-redcoats-mobile-edition.json](./175494-rebels-and-redcoats-mobile-edition.json) |
 | Rebels of the Realm | 423306 | [423306-rebels-of-the-realm.json](./423306-rebels-of-the-realm.json) |
 | Rebels Prison Escape | 71233 | [71233-rebels-prison-escape.json](./71233-rebels-prison-escape.json) |
 | Rebels: Under the Spell of Magic | 150777 | [150777-rebels-under-the-spell-of-magic.json](./150777-rebels-under-the-spell-of-magic.json) |
@@ -5294,6 +5295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Report: Stas | 322814 | [322814-report-stas.json](./322814-report-stas.json) |
 | Reporter | 105975 | [105975-reporter.json](./105975-reporter.json) |
 | Reporter 2 | 123393 | [123393-reporter-2.json](./123393-reporter-2.json) |
+| Reporter: the Beginning | 175476 | [175476-reporter-the-beginning.json](./175476-reporter-the-beginning.json) |
 | Reports from Vera Cruz | 292508 | [292508-reports-from-vera-cruz.json](./292508-reports-from-vera-cruz.json) |
 | Repose | 272831 | [272831-repose.json](./272831-repose.json) |
 | Repose: Deluxe Edition | 380148 | [380148-repose-deluxe-edition.json](./380148-repose-deluxe-edition.json) |
@@ -9581,6 +9583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RocketBallZ | 188454 | [188454-rocketballz.json](./188454-rocketballz.json) |
 | RocketBird Classic | 230725 | [230725-rocketbird-classic.json](./230725-rocketbird-classic.json) |
 | RocketBird Relaunched | 412936 | [412936-rocketbird-relaunched.json](./412936-rocketbird-relaunched.json) |
+| RocketBird World Tour | 175502 | [175502-rocketbird-world-tour.json](./175502-rocketbird-world-tour.json) |
 | Rocketbirds 2: Evolution | 20074 | [20074-rocketbirds-2-evolution.json](./20074-rocketbirds-2-evolution.json) |
 | Rocketbirds 2: Mind Control | 170517 | [170517-rocketbirds-2-mind-control.json](./170517-rocketbirds-2-mind-control.json) |
 | Rocketbirds 2: Rescue Bundle | 170516 | [170516-rocketbirds-2-rescue-bundle.json](./170516-rocketbirds-2-rescue-bundle.json) |
