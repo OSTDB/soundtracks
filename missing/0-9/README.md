@@ -1936,6 +1936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2econds to Starlivht: Forever My Diamond | 144193 | [144193-2econds-to-starlivht-forever-my-diamond.json](./144193-2econds-to-starlivht-forever-my-diamond.json) |
 | 2econds to Starlivht: My Heart's Reflection | 144194 | [144194-2econds-to-starlivht-my-hearts-reflection.json](./144194-2econds-to-starlivht-my-hearts-reflection.json) |
 | 2in1 | 424688 | [424688-2in1.json](./424688-2in1.json) |
+| 2in1: App Driver and Sniper | 187619 | [187619-2in1-app-driver-and-sniper.json](./187619-2in1-app-driver-and-sniper.json) |
 | 2in1: Application Driver and Serial Killer / Sniper | 147818 | [147818-2in1-application-driver-and-serial-killer-sniper.json](./147818-2in1-application-driver-and-serial-killer-sniper.json) |
 | 2in1: Musik fur Kids + Englisch macht Spass | 269532 | [269532-2in1-musik-fur-kids-englisch-macht-spass.json](./269532-2in1-musik-fur-kids-englisch-macht-spass.json) |
 | 2K Ball N' Brawl | 155095 | [155095-2k-ball-n-brawl.json](./155095-2k-ball-n-brawl.json) |
