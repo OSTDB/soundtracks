@@ -4483,6 +4483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshare Beena: o-Mise de Kisekae Make Haircut | 300424 | [300424-oshare-beena-o-mise-de-kisekae-make-haircut.json](./300424-oshare-beena-o-mise-de-kisekae-make-haircut.json) |
 | Oshare de Kawaii Koinu to Asobo!: Machi-hen | 141148 | [141148-oshare-de-kawaii-koinu-to-asobo-machi-hen.json](./141148-oshare-de-kawaii-koinu-to-asobo-machi-hen.json) |
 | Oshare Majo Love and Berry: Cute ni Oshare | 300423 | [300423-oshare-majo-love-and-berry-cute-ni-oshare.json](./300423-oshare-majo-love-and-berry-cute-ni-oshare.json) |
+| Oshare Majo: Love and Berry DS Collection | 141370 | [141370-oshare-majo-love-and-berry-ds-collection.json](./141370-oshare-majo-love-and-berry-ds-collection.json) |
 | Oshare ni Henshin HeartCatch PreCure! | 327600 | [327600-oshare-ni-henshin-heartcatch-precure.json](./327600-oshare-ni-henshin-heartcatch-precure.json) |
 | Oshare Princess | 49773 | [49773-oshare-princess.json](./49773-oshare-princess.json) |
 | Oshare Princess 2 + Doubutsu Kyaranabi Uranai | 49767 | [49767-oshare-princess-2-doubutsu-kyaranabi-uranai.json](./49767-oshare-princess-2-doubutsu-kyaranabi-uranai.json) |
