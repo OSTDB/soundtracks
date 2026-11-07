@@ -1605,6 +1605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Mechanic Simulator: Wictuz Lopo | 359600 | [359600-rally-mechanic-simulator-wictuz-lopo.json](./359600-rally-mechanic-simulator-wictuz-lopo.json) |
 | Rally of Rockets | 112330 | [112330-rally-of-rockets.json](./112330-rally-of-rockets.json) |
 | Rally One: Race to Glory | 297518 | [297518-rally-one-race-to-glory.json](./297518-rally-one-race-to-glory.json) |
+| Rally Parrudo | 184160 | [184160-rally-parrudo.json](./184160-rally-parrudo.json) |
 | Rally Point 3 | 237953 | [237953-rally-point-3.json](./237953-rally-point-3.json) |
 | Rally Poland | 62454 | [62454-rally-poland.json](./62454-rally-poland.json) |
 | Rally Pop | 65313 | [65313-rally-pop.json](./65313-rally-pop.json) |
