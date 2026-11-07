@@ -1758,6 +1758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nedy's Adventure: The Curse of Vera Deluxe | 324525 | [324525-nedys-adventure-the-curse-of-vera-deluxe.json](./324525-nedys-adventure-the-curse-of-vera-deluxe.json) |
 | Neebota: Zeebo's Awakening | 164090 | [164090-neebota-zeebos-awakening.json](./164090-neebota-zeebos-awakening.json) |
 | Need 4 Meat | 317537 | [317537-need-4-meat.json](./317537-need-4-meat.json) |
+| Need 4e+9 Speed | 176599 | [176599-need-4e-9-speed.json](./176599-need-4e-9-speed.json) |
 | Need a packet? | 103475 | [103475-need-a-packet.json](./103475-need-a-packet.json) |
 | Need For Conquest | 157203 | [157203-need-for-conquest.json](./157203-need-for-conquest.json) |
 | Need for Drifting | 249229 | [249229-need-for-drifting.json](./249229-need-for-drifting.json) |
@@ -2282,6 +2283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo-Sonic: Godspeed | 330286 | [330286-neo-sonic-godspeed.json](./330286-neo-sonic-godspeed.json) |
 | Neo-Zero | 160271 | [160271-neo-zero.json](./160271-neo-zero.json) |
 | Neo: Commanders | 154882 | [154882-neo-commanders.json](./154882-neo-commanders.json) |
+| NEO: The Game | 176577 | [176577-neo-the-game.json](./176577-neo-the-game.json) |
 | Neo: The Rainbow Sorcerer | 357308 | [357308-neo-the-rainbow-sorcerer.json](./357308-neo-the-rainbow-sorcerer.json) |
 | Neo: The World Ends with You x Field Walk RPG | 362436 | [362436-neo-the-world-ends-with-you-x-field-walk-rpg.json](./362436-neo-the-world-ends-with-you-x-field-walk-rpg.json) |
 | Neo's Land | 61632 | [61632-neos-land.json](./61632-neos-land.json) |
@@ -7479,6 +7481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuke Your Neighbor | 68535 | [68535-nuke-your-neighbor.json](./68535-nuke-your-neighbor.json) |
 | Nuke Zone | 130085 | [130085-nuke-zone.json](./130085-nuke-zone.json) |
 | Nuked Knight | 33380 | [33380-nuked-knight.json](./33380-nuked-knight.json) |
+| Nukeheck | 176571 | [176571-nukeheck.json](./176571-nukeheck.json) |
 | Nukeout | 100763 | [100763-nukeout.json](./100763-nukeout.json) |
 | Nukepath | 219625 | [219625-nukepath.json](./219625-nukepath.json) |
 | Nuketris | 145666 | [145666-nuketris.json](./145666-nuketris.json) |
