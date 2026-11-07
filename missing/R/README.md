@@ -4054,6 +4054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Ruins | 304466 | [304466-red-ruins.json](./304466-red-ruins.json) |
 | Red Runner | 184938 | [184938-red-runner.json](./184938-red-runner.json) |
 | Red Rush | 129391 | [129391-red-rush.json](./129391-red-rush.json) |
+| Red Rust | 146965 | [146965-red-rust.json](./146965-red-rust.json) |
 | Red Rust Pioneers | 349941 | [349941-red-rust-pioneers.json](./349941-red-rust-pioneers.json) |
 | Red Sauce: The Leftovers | 420775 | [420775-red-sauce-the-leftovers.json](./420775-red-sauce-the-leftovers.json) |
 | Red Scorpion | 47144 | [47144-red-scorpion.json](./47144-red-scorpion.json) |
@@ -9180,6 +9181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotan Wars | 138005 | [138005-robotan-wars.json](./138005-robotan-wars.json) |
 | Robotech: The Macross Saga | 245414 | [245414-robotech-the-macross-saga.json](./245414-robotech-the-macross-saga.json) |
 | Robotech: The Macross Saga | 6563 | [6563-robotech-the-macross-saga.json](./6563-robotech-the-macross-saga.json) |
+| Robotech: The Macross Saga HD Edition | 146993 | [146993-robotech-the-macross-saga-hd-edition.json](./146993-robotech-the-macross-saga-hd-edition.json) |
 | Robotek | 87699 | [87699-robotek.json](./87699-robotek.json) |
 | Robotex | 9017 | [9017-robotex.json](./9017-robotex.json) |
 | Robotfindskitten | 142978 | [142978-robotfindskitten.json](./142978-robotfindskitten.json) |
