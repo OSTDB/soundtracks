@@ -6063,6 +6063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Rides | 74960 | [74960-fire-rides.json](./74960-fire-rides.json) |
 | Fire Road | 370956 | [370956-fire-road.json](./370956-fire-road.json) |
 | Fire Rock | 41302 | [41302-fire-rock.json](./41302-fire-rock.json) |
+| Fire Safety Lab VR | 150295 | [150295-fire-safety-lab-vr.json](./150295-fire-safety-lab-vr.json) |
 | Fire Sale | 165694 | [165694-fire-sale.json](./165694-fire-sale.json) |
 | Fire Shark | 261849 | [261849-fire-shark.json](./261849-fire-shark.json) |
 | Fire Shark | 39647 | [39647-fire-shark.json](./39647-fire-shark.json) |
@@ -8859,6 +8860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlyWings Flight Simulator 2017 | 88616 | [88616-flywings-flight-simulator-2017.json](./88616-flywings-flight-simulator-2017.json) |
 | Flywrench | 12072 | [12072-flywrench.json](./12072-flywrench.json) |
 | Flyzz! | 217931 | [217931-flyzz.json](./217931-flyzz.json) |
+| FM | 150299 | [150299-fm.json](./150299-fm.json) |
 | FM4X | 270651 | [270651-fm4x.json](./270651-fm4x.json) |
 | FM7X: Continental Odyssey | 314750 | [314750-fm7x-continental-odyssey.json](./314750-fm7x-continental-odyssey.json) |
 | FMTC | 341809 | [341809-fmtc.json](./341809-fmtc.json) |
@@ -11814,6 +11816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom: A Time to Reckon | 72350 | [72350-freedom-a-time-to-reckon.json](./72350-freedom-a-time-to-reckon.json) |
 | Freedom: Diegesis | 58685 | [58685-freedom-diegesis.json](./58685-freedom-diegesis.json) |
 | Freedom: First Resistance | 1862 | [1862-freedom-first-resistance.json](./1862-freedom-first-resistance.json) |
+| Freedom: How I Escaped | 150296 | [150296-freedom-how-i-escaped.json](./150296-freedom-how-i-escaped.json) |
 | Freedom: Rebels in the Darkness | 15225 | [15225-freedom-rebels-in-the-darkness.json](./15225-freedom-rebels-in-the-darkness.json) |
 | Freedom! | 172422 | [172422-freedom.json](./172422-freedom.json) |
 | Freedom! Do or Die | 168122 | [168122-freedom-do-or-die.json](./168122-freedom-do-or-die.json) |
