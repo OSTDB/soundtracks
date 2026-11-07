@@ -4862,6 +4862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Bath | 371039 | [371039-hentai-bath.json](./371039-hentai-bath.json) |
 | Hentai Battle Royale | 105632 | [105632-hentai-battle-royale.json](./105632-hentai-battle-royale.json) |
 | Hentai BDSM | 365411 | [365411-hentai-bdsm.json](./365411-hentai-bdsm.json) |
+| Hentai Beach | 167413 | [167413-hentai-beach.json](./167413-hentai-beach.json) |
 | Hentai Beach | 343605 | [343605-hentai-beach.json](./343605-hentai-beach.json) |
 | Hentai Beach Girls | 167703 | [167703-hentai-beach-girls.json](./167703-hentai-beach-girls.json) |
 | Hentai Beach Memories | 247940 | [247940-hentai-beach-memories.json](./247940-hentai-beach-memories.json) |
@@ -4929,6 +4930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Climber | 365418 | [365418-hentai-climber.json](./365418-hentai-climber.json) |
 | Hentai Clouds | 177629 | [177629-hentai-clouds.json](./177629-hentai-clouds.json) |
 | Hentai Collection 4-in-1 | 394392 | [394392-hentai-collection-4-in-1.json](./394392-hentai-collection-4-in-1.json) |
+| Hentai Collection: Memory | 167415 | [167415-hentai-collection-memory.json](./167415-hentai-collection-memory.json) |
 | Hentai Coloring Game | 161257 | [161257-hentai-coloring-game.json](./161257-hentai-coloring-game.json) |
 | Hentai Cookie | 365419 | [365419-hentai-cookie.json](./365419-hentai-cookie.json) |
 | Hentai Cosplay Elf | 286442 | [286442-hentai-cosplay-elf.json](./286442-hentai-cosplay-elf.json) |
@@ -5002,6 +5004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Frames | 381801 | [381801-hentai-frames.json](./381801-hentai-frames.json) |
 | Hentai Furry | 286401 | [286401-hentai-furry.json](./286401-hentai-furry.json) |
 | Hentai Furry | 340434 | [340434-hentai-furry.json](./340434-hentai-furry.json) |
+| Hentai Furry 2 | 167414 | [167414-hentai-furry-2.json](./167414-hentai-furry-2.json) |
 | Hentai Furry 3 | 221516 | [221516-hentai-furry-3.json](./221516-hentai-furry-3.json) |
 | Hentai Furry Bunny | 347768 | [347768-hentai-furry-bunny.json](./347768-hentai-furry-bunny.json) |
 | Hentai Furry Cow | 384584 | [384584-hentai-furry-cow.json](./384584-hentai-furry-cow.json) |
@@ -5359,9 +5362,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Resort: Dream Paradise | 366512 | [366512-hentai-resort-dream-paradise.json](./366512-hentai-resort-dream-paradise.json) |
 | Hentai Rika | 340448 | [340448-hentai-rika.json](./340448-hentai-rika.json) |
 | Hentai Rina | 271623 | [271623-hentai-rina.json](./271623-hentai-rina.json) |
+| Hentai Roguelike | 167416 | [167416-hentai-roguelike.json](./167416-hentai-roguelike.json) |
 | Hentai Romance | 389169 | [389169-hentai-romance.json](./389169-hentai-romance.json) |
 | Hentai Room | 230781 | [230781-hentai-room.json](./230781-hentai-room.json) |
 | Hentai Roxy | 411067 | [411067-hentai-roxy.json](./411067-hentai-roxy.json) |
+| Hentai Royale | 167408 | [167408-hentai-royale.json](./167408-hentai-royale.json) |
 | Hentai RPG: Isekai Journey | 234983 | [234983-hentai-rpg-isekai-journey.json](./234983-hentai-rpg-isekai-journey.json) |
 | Hentai Sake | 411070 | [411070-hentai-sake.json](./411070-hentai-sake.json) |
 | Hentai Saki | 389181 | [389181-hentai-saki.json](./389181-hentai-saki.json) |
@@ -5453,6 +5458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Store | 370274 | [370274-hentai-store.json](./370274-hentai-store.json) |
 | Hentai Store Simulator | 378757 | [378757-hentai-store-simulator.json](./378757-hentai-store-simulator.json) |
 | Hentai Stories | 274687 | [274687-hentai-stories.json](./274687-hentai-stories.json) |
+| Hentai Stories: Elven | 167410 | [167410-hentai-stories-elven.json](./167410-hentai-stories-elven.json) |
 | Hentai Strawberry | 366517 | [366517-hentai-strawberry.json](./366517-hentai-strawberry.json) |
 | Hentai Strip Shot | 109389 | [109389-hentai-strip-shot.json](./109389-hentai-strip-shot.json) |
 | Hentai Succubus | 379654 | [379654-hentai-succubus.json](./379654-hentai-succubus.json) |
@@ -5517,6 +5523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai VR 18+ | 366524 | [366524-hentai-vr-18.json](./366524-hentai-vr-18.json) |
 | Hentai VR 3 | 147408 | [147408-hentai-vr-3.json](./147408-hentai-vr-3.json) |
 | Hentai VR 4 | 152620 | [152620-hentai-vr-4.json](./152620-hentai-vr-4.json) |
+| Hentai vs Evil: Back 4 Waifus | 167411 | [167411-hentai-vs-evil-back-4-waifus.json](./167411-hentai-vs-evil-back-4-waifus.json) |
 | Hentai vs Virus: I Am Waifu | 200800 | [200800-hentai-vs-virus-i-am-waifu.json](./200800-hentai-vs-virus-i-am-waifu.json) |
 | Hentai vs. Evil | 146095 | [146095-hentai-vs-evil.json](./146095-hentai-vs-evil.json) |
 | Hentai vs. Furries | 164376 | [164376-hentai-vs-furries.json](./164376-hentai-vs-furries.json) |
@@ -11225,6 +11232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hovercraft: Getaway | 211245 | [211245-hovercraft-getaway.json](./211245-hovercraft-getaway.json) |
 | Hovercrash: Turbo Boost Racing | 251119 | [251119-hovercrash-turbo-boost-racing.json](./251119-hovercrash-turbo-boost-racing.json) |
 | Hoverdrive | 419103 | [419103-hoverdrive.json](./419103-hoverdrive.json) |
+| Hoverflow | 167420 | [167420-hoverflow.json](./167420-hoverflow.json) |
 | Hoverforce | 80643 | [80643-hoverforce.json](./80643-hoverforce.json) |
 | HoverGrease | 119329 | [119329-hovergrease.json](./119329-hovergrease.json) |
 | HoverGrease 2 | 330535 | [330535-hovergrease-2.json](./330535-hovergrease-2.json) |
@@ -11776,6 +11784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humans are not that against Lizardwomen 2 | 385970 | [385970-humans-are-not-that-against-lizardwomen-2.json](./385970-humans-are-not-that-against-lizardwomen-2.json) |
 | Humans Are Pattern Finders | 179023 | [179023-humans-are-pattern-finders.json](./179023-humans-are-pattern-finders.json) |
 | Humans Are Useless | 211626 | [211626-humans-are-useless.json](./211626-humans-are-useless.json) |
+| Humans Connect | 167448 | [167448-humans-connect.json](./167448-humans-connect.json) |
 | Humans Took My Neighbors! | 149697 | [149697-humans-took-my-neighbors.json](./149697-humans-took-my-neighbors.json) |
 | Humans V Zombies | 160192 | [160192-humans-v-zombies.json](./160192-humans-v-zombies.json) |
 | Humans VR | 76282 | [76282-humans-vr.json](./76282-humans-vr.json) |
