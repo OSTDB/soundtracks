@@ -2292,6 +2292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Soul Lotus | 216799 | [216799-abyss-soul-lotus.json](./216799-abyss-soul-lotus.json) |
 | Abyss Stares at You | 373793 | [373793-abyss-stares-at-you.json](./373793-abyss-stares-at-you.json) |
 | Abyss Survivors | 311261 | [311261-abyss-survivors.json](./311261-abyss-survivors.json) |
+| Abyss the Forgotten Past | 143189 | [143189-abyss-the-forgotten-past.json](./143189-abyss-the-forgotten-past.json) |
 | Abyss Unchained | 331349 | [331349-abyss-unchained.json](./331349-abyss-unchained.json) |
 | Abyss Vaulter | 341612 | [341612-abyss-vaulter.json](./341612-abyss-vaulter.json) |
 | Abyss Vein | 163024 | [163024-abyss-vein.json](./163024-abyss-vein.json) |
@@ -13812,6 +13813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ariane in Paradise | 255099 | [255099-ariane-in-paradise.json](./255099-ariane-in-paradise.json) |
 | Ariard -Shounen Alice- | 46943 | [46943-ariard-shounen-alice.json](./46943-ariard-shounen-alice.json) |
 | Ariborne: Trials | 127106 | [127106-ariborne-trials.json](./127106-ariborne-trials.json) |
+| Arid | 143230 | [143230-arid.json](./143230-arid.json) |
 | Arid Arnold | 318202 | [318202-arid-arnold.json](./318202-arid-arnold.json) |
 | Arid Jared | 217268 | [217268-arid-jared.json](./217268-arid-jared.json) |
 | Arid Puzzle | 185200 | [185200-arid-puzzle.json](./185200-arid-puzzle.json) |
@@ -15940,6 +15942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids Deluxe: Evolved | 329638 | [329638-asteroids-deluxe-evolved.json](./329638-asteroids-deluxe-evolved.json) |
 | Asteroids Do Concern Me | 91806 | [91806-asteroids-do-concern-me.json](./91806-asteroids-do-concern-me.json) |
 | Asteroids Extreme | 190823 | [190823-asteroids-extreme.json](./190823-asteroids-extreme.json) |
+| Asteroids Fighter | 143217 | [143217-asteroids-fighter.json](./143217-asteroids-fighter.json) |
 | Asteroids for GEM | 70183 | [70183-asteroids-for-gem.json](./70183-asteroids-for-gem.json) |
 | Asteroids Hyper 64 | 10664 | [10664-asteroids-hyper-64.json](./10664-asteroids-hyper-64.json) |
 | Asteroids Maneuvers | 149946 | [149946-asteroids-maneuvers.json](./149946-asteroids-maneuvers.json) |
@@ -16885,6 +16888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
