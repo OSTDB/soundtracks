@@ -5998,7 +5998,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -6164,6 +6163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem ZX | 74755 | [74755-mayhem-zx.json](./74755-mayhem-zx.json) |
 | Mayhem’s Adventure | 269984 | [269984-mayhem-s-adventure.json](./269984-mayhem-s-adventure.json) |
 | MayhemCars | 125909 | [125909-mayhemcars.json](./125909-mayhemcars.json) |
+| MayhemCars2 | 143236 | [143236-mayhemcars2.json](./143236-mayhemcars2.json) |
 | Mayhemers | 262842 | [262842-mayhemers.json](./262842-mayhemers.json) |
 | Mayjasmine Episode 01: What is God? | 34059 | [34059-mayjasmine-episode-01-what-is-god.json](./34059-mayjasmine-episode-01-what-is-god.json) |
 | Mayo Mayo | 321605 | [321605-mayo-mayo.json](./321605-mayo-mayo.json) |
@@ -14878,6 +14878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modification App | 398755 | [398755-modification-app.json](./398755-modification-app.json) |
 | Modified Girl Eurie! | 412711 | [412711-modified-girl-eurie.json](./412711-modified-girl-eurie.json) |
 | Modified Spaceship | 301605 | [301605-modified-spaceship.json](./301605-modified-spaceship.json) |
+| Modiverse | 143234 | [143234-modiverse.json](./143234-modiverse.json) |
 | ModNation Racers | 4841 | [4841-modnation-racers.json](./4841-modnation-racers.json) |
 | Modo Defence | 238451 | [238451-modo-defence.json](./238451-modo-defence.json) |
 | Modo Modo | 374022 | [374022-modo-modo.json](./374022-modo-modo.json) |
