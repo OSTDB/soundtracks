@@ -4041,6 +4041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fervent | 310647 | [310647-fervent.json](./310647-fervent.json) |
 | Fesnia | 104448 | [104448-fesnia.json](./104448-fesnia.json) |
 | Fest Guests | 302389 | [302389-fest-guests.json](./302389-fest-guests.json) |
+| Festa Estranha | 180884 | [180884-festa-estranha.json](./180884-festa-estranha.json) |
 | Festa!! Hyper Girls Party | 326637 | [326637-festa-hyper-girls-party.json](./326637-festa-hyper-girls-party.json) |
 | Fester Mudd: Curse of the Gold - Episode 1 | 7726 | [7726-fester-mudd-curse-of-the-gold-episode-1.json](./7726-fester-mudd-curse-of-the-gold-episode-1.json) |
 | Fester's Quest | 5343 | [5343-festers-quest.json](./5343-festers-quest.json) |
@@ -6947,6 +6948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Night At Freddy's: Security Breach - Glamrock Factory | 269420 | [269420-five-night-at-freddys-security-breach-glamrock-factory.json](./269420-five-night-at-freddys-security-breach-glamrock-factory.json) |
 | Five Night At Lego World | 250124 | [250124-five-night-at-lego-world.json](./250124-five-night-at-lego-world.json) |
 | Five Night's at Freddy's: The Silver Eyes Fangame | 214429 | [214429-five-nights-at-freddys-the-silver-eyes-fangame.json](./214429-five-nights-at-freddys-the-silver-eyes-fangame.json) |
+| Five Nights Among Us | 180918 | [180918-five-nights-among-us.json](./180918-five-nights-among-us.json) |
 | Five Nights At Amendoca's | 330092 | [330092-five-nights-at-amendocas.json](./330092-five-nights-at-amendocas.json) |
 | Five Nights at Backrooms: Waifu Edition | 277828 | [277828-five-nights-at-backrooms-waifu-edition.json](./277828-five-nights-at-backrooms-waifu-edition.json) |
 | Five Nights At Bidens | 257665 | [257665-five-nights-at-bidens.json](./257665-five-nights-at-bidens.json) |
