@@ -3198,6 +3198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TechCompliant | 58448 | [58448-techcompliant.json](./58448-techcompliant.json) |
 | TechGuardian: Territory Defense | 364138 | [364138-techguardian-territory-defense.json](./364138-techguardian-territory-defense.json) |
 | Techium Eclipse | 183508 | [183508-techium-eclipse.json](./183508-techium-eclipse.json) |
+| Techlie | 155813 | [155813-techlie.json](./155813-techlie.json) |
 | TechMate Chess | 327801 | [327801-techmate-chess.json](./327801-techmate-chess.json) |
 | Technic Beat | 24168 | [24168-technic-beat.json](./24168-technic-beat.json) |
 | Technic Ranger | 384594 | [384594-technic-ranger.json](./384594-technic-ranger.json) |
@@ -7796,6 +7797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crossroads | 411592 | [411592-the-crossroads.json](./411592-the-crossroads.json) |
 | The Crossword | 308025 | [308025-the-crossword.json](./308025-the-crossword.json) |
 | The Crow | 315684 | [315684-the-crow.json](./315684-the-crow.json) |
+| The Crow King | 155784 | [155784-the-crow-king.json](./155784-the-crow-king.json) |
 | The Crow: City of Angels | 8538 | [8538-the-crow-city-of-angels.json](./8538-the-crow-city-of-angels.json) |
 | The Crow's Eye | 6730 | [6730-the-crows-eye.json](./6730-the-crows-eye.json) |
 | The Crow's Eye: Deluxe Edition | 187854 | [187854-the-crows-eye-deluxe-edition.json](./187854-the-crows-eye-deluxe-edition.json) |
@@ -8278,6 +8280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deep Waits | 414545 | [414545-the-deep-waits.json](./414545-the-deep-waits.json) |
 | The Deep: Ushinawareta Shinkai | 410223 | [410223-the-deep-ushinawareta-shinkai.json](./410223-the-deep-ushinawareta-shinkai.json) |
 | The Deepening: Eco-Offensive | 155992 | [155992-the-deepening-eco-offensive.json](./155992-the-deepening-eco-offensive.json) |
+| The Deepest | 155809 | [155809-the-deepest.json](./155809-the-deepest.json) |
 | The Deepest Castle | 400872 | [400872-the-deepest-castle.json](./400872-the-deepest-castle.json) |
 | The Deepest Sleep | 123703 | [123703-the-deepest-sleep.json](./123703-the-deepest-sleep.json) |
 | The Deepwatch | 341649 | [341649-the-deepwatch.json](./341649-the-deepwatch.json) |
