@@ -1877,6 +1877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Shooter - Dead City | 200325 | [200325-zombie-shooter-dead-city.json](./200325-zombie-shooter-dead-city.json) |
 | Zombie Shooter 2 | 16018 | [16018-zombie-shooter-2.json](./16018-zombie-shooter-2.json) |
 | Zombie Shooter TPS | 330491 | [330491-zombie-shooter-tps.json](./330491-zombie-shooter-tps.json) |
+| Zombie Shooter: Ares Virus | 151336 | [151336-zombie-shooter-ares-virus.json](./151336-zombie-shooter-ares-virus.json) |
 | Zombie Shooter: Fury of War | 95884 | [95884-zombie-shooter-fury-of-war.json](./95884-zombie-shooter-fury-of-war.json) |
 | Zombie Shooter: Pandemic Unkilled | 174667 | [174667-zombie-shooter-pandemic-unkilled.json](./174667-zombie-shooter-pandemic-unkilled.json) |
 | Zombie Shooting Star | 209713 | [209713-zombie-shooting-star.json](./209713-zombie-shooting-star.json) |
