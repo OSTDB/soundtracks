@@ -5502,6 +5502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Splitter | 218839 | [218839-air-splitter.json](./218839-air-splitter.json) |
 | Air Stacky | 291589 | [291589-air-stacky.json](./291589-air-stacky.json) |
 | Air Star | 239759 | [239759-air-star.json](./239759-air-star.json) |
+| Air Strike | 170068 | [170068-air-strike.json](./170068-air-strike.json) |
 | Air Strike HD | 88501 | [88501-air-strike-hd.json](./88501-air-strike-hd.json) |
 | Air Strike USA | 47029 | [47029-air-strike-usa.json](./47029-air-strike-usa.json) |
 | Air Strike: 3D Combat | 99315 | [99315-air-strike-3d-combat.json](./99315-air-strike-3d-combat.json) |
@@ -7630,6 +7631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Almania | 377971 | [377971-almania.json](./377971-almania.json) |
 | Almari | 167076 | [167076-almari.json](./167076-almari.json) |
 | Almastriga: Relics of Azathoth | 156618 | [156618-almastriga-relics-of-azathoth.json](./156618-almastriga-relics-of-azathoth.json) |
+| Almazy | 170077 | [170077-almazy.json](./170077-almazy.json) |
 | Almazz | 13799 | [13799-almazz.json](./13799-almazz.json) |
 | Almighty: God Idle Clicker | 132013 | [132013-almighty-god-idle-clicker.json](./132013-almighty-god-idle-clicker.json) |
 | Almistice | 274010 | [274010-almistice.json](./274010-almistice.json) |
@@ -7866,6 +7868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphabet Zoo | 12291 | [12291-alphabet-zoo.json](./12291-alphabet-zoo.json) |
 | Alphabet: Play with the ABCs | 206109 | [206109-alphabet-play-with-the-abcs.json](./206109-alphabet-play-with-the-abcs.json) |
 | Alphabetic | 80269 | [80269-alphabetic.json](./80269-alphabetic.json) |
+| Alphabetical Order | 170089 | [170089-alphabetical-order.json](./170089-alphabetical-order.json) |
 | Alphabetron | 364775 | [364775-alphabetron.json](./364775-alphabetron.json) |
 | Alphabets Machine | 89695 | [89695-alphabets-machine.json](./89695-alphabets-machine.json) |
 | Alphabetto's | 411622 | [411622-alphabettos.json](./411622-alphabettos.json) |
@@ -16787,6 +16790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
