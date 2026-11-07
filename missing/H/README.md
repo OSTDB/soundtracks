@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H Girl 4 | 301810 | [301810-h-girl-4.json](./301810-h-girl-4.json) |
 | H Girl Kemonomimi | 296957 | [296957-h-girl-kemonomimi.json](./296957-h-girl-kemonomimi.json) |
 | H Index | 340474 | [340474-h-index.json](./340474-h-index.json) |
+| H Office | 165829 | [165829-h-office.json](./165829-h-office.json) |
 | h Puzzle | 90445 | [90445-h-puzzle.json](./90445-h-puzzle.json) |
 | h Simply Go | 91338 | [91338-h-simply-go.json](./91338-h-simply-go.json) |
 | h Solitaire | 88445 | [88445-h-solitaire.json](./88445-h-solitaire.json) |
@@ -1996,6 +1997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardly Workin' | 352289 | [352289-hardly-workin.json](./352289-hardly-workin.json) |
 | Hardnoid | 29976 | [29976-hardnoid.json](./29976-hardnoid.json) |
 | Hardpoint | 372187 | [372187-hardpoint.json](./372187-hardpoint.json) |
+| Hardpunch: Fuck 4Joy | 165812 | [165812-hardpunch-fuck-4joy.json](./165812-hardpunch-fuck-4joy.json) |
 | HardPunch: Sex Plague | 417403 | [417403-hardpunch-sex-plague.json](./417403-hardpunch-sex-plague.json) |
 | Hardrock Sex 3D | 215687 | [215687-hardrock-sex-3d.json](./215687-hardrock-sex-3d.json) |
 | Hardwar | 19566 | [19566-hardwar.json](./19566-hardwar.json) |
@@ -4871,6 +4873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Beach Memories | 247940 | [247940-hentai-beach-memories.json](./247940-hentai-beach-memories.json) |
 | Hentai Beauties | 265618 | [265618-hentai-beauties.json](./265618-hentai-beauties.json) |
 | Hentai beautiful girls 4 | 164427 | [164427-hentai-beautiful-girls-4.json](./164427-hentai-beautiful-girls-4.json) |
+| Hentai beautiful girls 5 | 165819 | [165819-hentai-beautiful-girls-5.json](./165819-hentai-beautiful-girls-5.json) |
 | Hentai Beauty | 226172 | [226172-hentai-beauty.json](./226172-hentai-beauty.json) |
 | Hentai Bella | 365412 | [365412-hentai-bella.json](./365412-hentai-bella.json) |
 | Hentai Best Girls | 365413 | [365413-hentai-best-girls.json](./365413-hentai-best-girls.json) |
@@ -5148,6 +5151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Golf: River's Edge | 283238 | [283238-hentai-golf-rivers-edge.json](./283238-hentai-golf-rivers-edge.json) |
 | Hentai Golf: Special Edition | 292913 | [292913-hentai-golf-special-edition.json](./292913-hentai-golf-special-edition.json) |
 | Hentai Golf: Sunset Pines | 283226 | [283226-hentai-golf-sunset-pines.json](./283226-hentai-golf-sunset-pines.json) |
+| Hentai Gothic Girl | 165821 | [165821-hentai-gothic-girl.json](./165821-hentai-gothic-girl.json) |
 | Hentai Gyaru | 233084 | [233084-hentai-gyaru.json](./233084-hentai-gyaru.json) |
 | Hentai Gymnast Scarlett | 375979 | [375979-hentai-gymnast-scarlett.json](./375979-hentai-gymnast-scarlett.json) |
 | Hentai Hack-Her | 147452 | [147452-hentai-hack-her.json](./147452-hentai-hack-her.json) |
@@ -5185,8 +5189,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Jigsaw Emma | 162997 | [162997-hentai-jigsaw-emma.json](./162997-hentai-jigsaw-emma.json) |
 | Hentai Jigsaw Flora | 162994 | [162994-hentai-jigsaw-flora.json](./162994-hentai-jigsaw-flora.json) |
 | Hentai Jigsaw Girls 2 | 162840 | [162840-hentai-jigsaw-girls-2.json](./162840-hentai-jigsaw-girls-2.json) |
+| Hentai Jigsaw Girls 3 | 165825 | [165825-hentai-jigsaw-girls-3.json](./165825-hentai-jigsaw-girls-3.json) |
 | Hentai Jigsaw Photo Studio: Fruit Girls | 153062 | [153062-hentai-jigsaw-photo-studio-fruit-girls.json](./153062-hentai-jigsaw-photo-studio-fruit-girls.json) |
 | Hentai Jigsaw Photo Studio: Neko Girls | 286747 | [286747-hentai-jigsaw-photo-studio-neko-girls.json](./286747-hentai-jigsaw-photo-studio-neko-girls.json) |
+| Hentai Jigsaw Puzzle | 165822 | [165822-hentai-jigsaw-puzzle.json](./165822-hentai-jigsaw-puzzle.json) |
 | Hentai Jigsaw Puzzle | 252056 | [252056-hentai-jigsaw-puzzle.json](./252056-hentai-jigsaw-puzzle.json) |
 | Hentai Jigsaw Puzzle 2 | 188496 | [188496-hentai-jigsaw-puzzle-2.json](./188496-hentai-jigsaw-puzzle-2.json) |
 | Hentai Jigsaw Puzzle 2 | 252057 | [252057-hentai-jigsaw-puzzle-2.json](./252057-hentai-jigsaw-puzzle-2.json) |
@@ -5537,6 +5543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Waifu 2 | 324451 | [324451-hentai-waifu-2.json](./324451-hentai-waifu-2.json) |
 | Hentai Waifu 4 | 330232 | [330232-hentai-waifu-4.json](./330232-hentai-waifu-4.json) |
 | Hentai Waifu 5 | 333734 | [333734-hentai-waifu-5.json](./333734-hentai-waifu-5.json) |
+| Hentai Waifu Girls | 165824 | [165824-hentai-waifu-girls.json](./165824-hentai-waifu-girls.json) |
 | Hentai Waifu II | 286497 | [286497-hentai-waifu-ii.json](./286497-hentai-waifu-ii.json) |
 | Hentai War | 366526 | [366526-hentai-war.json](./366526-hentai-war.json) |
 | Hentai Warfare | 366527 | [366527-hentai-warfare.json](./366527-hentai-warfare.json) |
