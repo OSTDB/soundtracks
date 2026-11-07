@@ -2665,6 +2665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Dungeons: Hyakki Castle | 110831 | [110831-haunted-dungeons-hyakki-castle.json](./110831-haunted-dungeons-hyakki-castle.json) |
 | Haunted Elevator | 309914 | [309914-haunted-elevator.json](./309914-haunted-elevator.json) |
 | Haunted Escape: Wrath of Victoria | 62759 | [62759-haunted-escape-wrath-of-victoria.json](./62759-haunted-escape-wrath-of-victoria.json) |
+| Haunted Experiment | 171682 | [171682-haunted-experiment.json](./171682-haunted-experiment.json) |
 | Haunted Game | 181026 | [181026-haunted-game.json](./181026-haunted-game.json) |
 | Haunted Gas Station | 123976 | [123976-haunted-gas-station.json](./123976-haunted-gas-station.json) |
 | Haunted Girls | 212999 | [212999-haunted-girls.json](./212999-haunted-girls.json) |
@@ -10626,6 +10627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Tentacles Shooter | 197528 | [197528-hot-tentacles-shooter.json](./197528-hot-tentacles-shooter.json) |
 | Hot Therapy | 243557 | [243557-hot-therapy.json](./243557-hot-therapy.json) |
 | Hot Throttle | 124467 | [124467-hot-throttle.json](./124467-hot-throttle.json) |
+| Hot Tiles | 171684 | [171684-hot-tiles.json](./171684-hot-tiles.json) |
 | Hot Tin Roof: The Cat That Wore a Fedora | 26875 | [26875-hot-tin-roof-the-cat-that-wore-a-fedora.json](./26875-hot-tin-roof-the-cat-that-wore-a-fedora.json) |
 | Hot Trigger | 58451 | [58451-hot-trigger.json](./58451-hot-trigger.json) |
 | Hot Tub Simulator | 165373 | [165373-hot-tub-simulator.json](./165373-hot-tub-simulator.json) |
