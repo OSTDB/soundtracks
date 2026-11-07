@@ -4777,6 +4777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ouma ga Toki: Kakuriyo no Enishi | 131909 | [131909-ouma-ga-toki-kakuriyo-no-enishi.json](./131909-ouma-ga-toki-kakuriyo-no-enishi.json) |
 | Oumagatoki: Kaidan Romance | 219135 | [219135-oumagatoki-kaidan-romance.json](./219135-oumagatoki-kaidan-romance.json) |
 | Oumori Charisou DX | 98303 | [98303-oumori-charisou-dx.json](./98303-oumori-charisou-dx.json) |
+| Oumuamua | 187001 | [187001-oumuamua.json](./187001-oumuamua.json) |
 | Ounba | 391451 | [391451-ounba.json](./391451-ounba.json) |
 | OuO | 174781 | [174781-ouo.json](./174781-ouo.json) |
 | OuPaiWar2 Hua's lake hut | 380364 | [380364-oupaiwar2-huas-lake-hut.json](./380364-oupaiwar2-huas-lake-hut.json) |
