@@ -632,6 +632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Hidden Pandas: Village | 343124 | [343124-100-hidden-pandas-village.json](./343124-100-hidden-pandas-village.json) |
 | 100 Hidden Rams | 163750 | [163750-100-hidden-rams.json](./163750-100-hidden-rams.json) |
 | 100 Hidden Snails | 166939 | [166939-100-hidden-snails.json](./166939-100-hidden-snails.json) |
+| 100 Hidden Snails 2 | 150825 | [150825-100-hidden-snails-2.json](./150825-100-hidden-snails-2.json) |
 | 100 Hidden Turtles | 203632 | [203632-100-hidden-turtles.json](./203632-100-hidden-turtles.json) |
 | 100 Hiddensaurs | 306946 | [306946-100-hiddensaurs.json](./306946-100-hiddensaurs.json) |
 | 100 Hiddensaurs: Egypt | 325503 | [325503-100-hiddensaurs-egypt.json](./325503-100-hiddensaurs-egypt.json) |
