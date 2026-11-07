@@ -4590,6 +4590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OtherSide | 179157 | [179157-otherside.json](./179157-otherside.json) |
 | Otherside Tapes: Favela | 422100 | [422100-otherside-tapes-favela.json](./422100-otherside-tapes-favela.json) |
 | Otherskin | 312401 | [312401-otherskin.json](./312401-otherskin.json) |
+| OtherSoul | 189241 | [189241-othersoul.json](./189241-othersoul.json) |
 | Otherwar | 190983 | [190983-otherwar.json](./190983-otherwar.json) |
 | Otherwar: Deluxe Edition | 406196 | [406196-otherwar-deluxe-edition.json](./406196-otherwar-deluxe-edition.json) |
 | OtherWordly | 152150 | [152150-otherwordly.json](./152150-otherwordly.json) |
