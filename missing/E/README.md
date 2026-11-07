@@ -4783,6 +4783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equiverse | 303801 | [303801-equiverse.json](./303801-equiverse.json) |
 | Equivoque | 40705 | [40705-equivoque.json](./40705-equivoque.json) |
 | ER | 69779 | [69779-er.json](./69779-er.json) |
+| ER Pandemic Simulator | 159991 | [159991-er-pandemic-simulator.json](./159991-er-pandemic-simulator.json) |
 | Er-Spectro | 81769 | [81769-er-spectro.json](./81769-er-spectro.json) |
 | Era | 83940 | [83940-era.json](./83940-era.json) |
 | Era Dream Chapter: I | 193566 | [193566-era-dream-chapter-i.json](./193566-era-dream-chapter-i.json) |
@@ -5357,6 +5358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from the nightmare | 330655 | [330655-escape-from-the-nightmare.json](./330655-escape-from-the-nightmare.json) |
 | Escape from the Nuke | 276099 | [276099-escape-from-the-nuke.json](./276099-escape-from-the-nuke.json) |
 | Escape from the Nursing Home | 258782 | [258782-escape-from-the-nursing-home.json](./258782-escape-from-the-nursing-home.json) |
+| Escape from the Office | 159971 | [159971-escape-from-the-office.json](./159971-escape-from-the-office.json) |
 | Escape From the Pharaoh's Tomb | 312084 | [312084-escape-from-the-pharaohs-tomb.json](./312084-escape-from-the-pharaohs-tomb.json) |
 | Escape from the Planet of the Robot Monsters | 12067 | [12067-escape-from-the-planet-of-the-robot-monsters.json](./12067-escape-from-the-planet-of-the-robot-monsters.json) |
 | Escape from the Plateau Puzzle | 88423 | [88423-escape-from-the-plateau-puzzle.json](./88423-escape-from-the-plateau-puzzle.json) |
@@ -5535,6 +5537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Room Ultimate Trilogy | 332333 | [332333-escape-room-ultimate-trilogy.json](./332333-escape-room-ultimate-trilogy.json) |
 | Escape Room VR | 128340 | [128340-escape-room-vr.json](./128340-escape-room-vr.json) |
 | Escape Room VR: Inner Voices | 135724 | [135724-escape-room-vr-inner-voices.json](./135724-escape-room-vr-inner-voices.json) |
+| Escape Room VR: Vaudeville | 159976 | [159976-escape-room-vr-vaudeville.json](./159976-escape-room-vr-vaudeville.json) |
 | Escape Room: Bank Robbery Gone Wrong | 244246 | [244246-escape-room-bank-robbery-gone-wrong.json](./244246-escape-room-bank-robbery-gone-wrong.json) |
 | Escape Room: Beyond Mystery | 315265 | [315265-escape-room-beyond-mystery.json](./315265-escape-room-beyond-mystery.json) |
 | Escape Room: Christmas Quest | 241345 | [241345-escape-room-christmas-quest.json](./241345-escape-room-christmas-quest.json) |
