@@ -1450,10 +1450,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Corps 2: Elite - Ghost Division | 370129 | [370129-panzer-corps-2-elite-ghost-division.json](./370129-panzer-corps-2-elite-ghost-division.json) |
 | Panzer Corps 2: Frontlines - Cyrenaica | 361177 | [361177-panzer-corps-2-frontlines-cyrenaica.json](./361177-panzer-corps-2-frontlines-cyrenaica.json) |
 | Panzer Corps 2: Frontlines - Westwall | 361176 | [361176-panzer-corps-2-frontlines-westwall.json](./361176-panzer-corps-2-frontlines-westwall.json) |
+| Panzer Corps 2: Pacific | 167954 | [167954-panzer-corps-2-pacific.json](./167954-panzer-corps-2-pacific.json) |
 | Panzer Corps 2: War Stories - Fall of Poland | 312303 | [312303-panzer-corps-2-war-stories-fall-of-poland.json](./312303-panzer-corps-2-war-stories-fall-of-poland.json) |
 | Panzer Corps: Afrika Korps | 64281 | [64281-panzer-corps-afrika-korps.json](./64281-panzer-corps-afrika-korps.json) |
 | Panzer Corps: Allied Corps | 124793 | [124793-panzer-corps-allied-corps.json](./124793-panzer-corps-allied-corps.json) |
+| Panzer Corps: Grand Campaign - '39 | 167957 | [167957-panzer-corps-grand-campaign-39.json](./167957-panzer-corps-grand-campaign-39.json) |
+| Panzer Corps: Grand Campaign - '40 | 167947 | [167947-panzer-corps-grand-campaign-40.json](./167947-panzer-corps-grand-campaign-40.json) |
+| Panzer Corps: Grand Campaign - '41 | 167953 | [167953-panzer-corps-grand-campaign-41.json](./167953-panzer-corps-grand-campaign-41.json) |
+| Panzer Corps: Grand Campaign - '42 | 167951 | [167951-panzer-corps-grand-campaign-42.json](./167951-panzer-corps-grand-campaign-42.json) |
+| Panzer Corps: Grand Campaign - '42-'43 | 167956 | [167956-panzer-corps-grand-campaign-42-43.json](./167956-panzer-corps-grand-campaign-42-43.json) |
+| Panzer Corps: Grand Campaign - '43 | 167958 | [167958-panzer-corps-grand-campaign-43.json](./167958-panzer-corps-grand-campaign-43.json) |
+| Panzer Corps: Grand Campaign - '44 East | 167952 | [167952-panzer-corps-grand-campaign-44-east.json](./167952-panzer-corps-grand-campaign-44-east.json) |
+| Panzer Corps: Grand Campaign - '44 West | 167948 | [167948-panzer-corps-grand-campaign-44-west.json](./167948-panzer-corps-grand-campaign-44-west.json) |
+| Panzer Corps: Grand Campaign - '45 West | 167959 | [167959-panzer-corps-grand-campaign-45-west.json](./167959-panzer-corps-grand-campaign-45-west.json) |
+| Panzer Corps: Sea Lion | 167949 | [167949-panzer-corps-sea-lion.json](./167949-panzer-corps-sea-lion.json) |
 | Panzer Corps: Soviet Corps | 124838 | [124838-panzer-corps-soviet-corps.json](./124838-panzer-corps-soviet-corps.json) |
+| Panzer Corps: U.S. Corps '43 | 167950 | [167950-panzer-corps-u-s-corps-43.json](./167950-panzer-corps-u-s-corps-43.json) |
+| Panzer Corps: U.S. Corps '44-'45 | 167955 | [167955-panzer-corps-u-s-corps-44-45.json](./167955-panzer-corps-u-s-corps-44-45.json) |
 | Panzer Corps: US Corps | 124806 | [124806-panzer-corps-us-corps.json](./124806-panzer-corps-us-corps.json) |
 | Panzer Crew VR | 132273 | [132273-panzer-crew-vr.json](./132273-panzer-crew-vr.json) |
 | Panzer Deck | 371340 | [371340-panzer-deck.json](./371340-panzer-deck.json) |
@@ -2437,6 +2450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Jam: Fast Food | 313219 | [313219-parking-jam-fast-food.json](./313219-parking-jam-fast-food.json) |
 | Parking Jam: Snow Rush | 313231 | [313231-parking-jam-snow-rush.json](./313231-parking-jam-snow-rush.json) |
 | Parking Jam: Tasty Edition | 324374 | [324374-parking-jam-tasty-edition.json](./324374-parking-jam-tasty-edition.json) |
+| Parking light | 167996 | [167996-parking-light.json](./167996-parking-light.json) |
 | Parking Lot Maze | 146815 | [146815-parking-lot-maze.json](./146815-parking-lot-maze.json) |
 | Parking Lot Royale | 116717 | [116717-parking-lot-royale.json](./116717-parking-lot-royale.json) |
 | Parking Lot Simulator | 383746 | [383746-parking-lot-simulator.json](./383746-parking-lot-simulator.json) |
