@@ -1696,6 +1696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gang of Four | 127053 | [127053-gang-of-four.json](./127053-gang-of-four.json) |
 | Gang of Four: The Card Game | 174485 | [174485-gang-of-four-the-card-game.json](./174485-gang-of-four-the-card-game.json) |
 | Gang of Frogs | 369326 | [369326-gang-of-frogs.json](./369326-gang-of-frogs.json) |
+| Gang of Paws | 167449 | [167449-gang-of-paws.json](./167449-gang-of-paws.json) |
 | Gang Start | 208178 | [208178-gang-start.json](./208178-gang-start.json) |
 | Gang Wars | 150778 | [150778-gang-wars.json](./150778-gang-wars.json) |
 | GangBusters | 46773 | [46773-gangbusters.json](./46773-gangbusters.json) |
