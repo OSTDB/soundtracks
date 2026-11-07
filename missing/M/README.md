@@ -5996,6 +5996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9263,6 +9264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mepekyon Racing | 416668 | [416668-mepekyon-racing.json](./416668-mepekyon-racing.json) |
 | Mephisto | 133692 | [133692-mephisto.json](./133692-mephisto.json) |
 | Mephisto Genius 2 | 151913 | [151913-mephisto-genius-2.json](./151913-mephisto-genius-2.json) |
+| Mephisto Genius 99 | 145778 | [145778-mephisto-genius-99.json](./145778-mephisto-genius-99.json) |
 | MER Adventure Climbing | 370687 | [370687-mer-adventure-climbing.json](./370687-mer-adventure-climbing.json) |
 | MER Innebandy | 186661 | [186661-mer-innebandy.json](./186661-mer-innebandy.json) |
 | Mer Wars | 264310 | [264310-mer-wars.json](./264310-mer-wars.json) |
@@ -13921,6 +13923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missile Command: Evolved | 329635 | [329635-missile-command-evolved.json](./329635-missile-command-evolved.json) |
 | Missile Command: Recharged | 132154 | [132154-missile-command-recharged.json](./132154-missile-command-recharged.json) |
 | Missile Command: Sega Version | 398658 | [398658-missile-command-sega-version.json](./398658-missile-command-sega-version.json) |
+| Missile Conflict Blitz | 145815 | [145815-missile-conflict-blitz.json](./145815-missile-conflict-blitz.json) |
 | Missile Control | 13252 | [13252-missile-control.json](./13252-missile-control.json) |
 | Missile Dancer 2 | 265323 | [265323-missile-dancer-2.json](./265323-missile-dancer-2.json) |
 | Missile Defence | 290654 | [290654-missile-defence.json](./290654-missile-defence.json) |
@@ -19393,6 +19396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MultiTaskMaster | 105205 | [105205-multitaskmaster.json](./105205-multitaskmaster.json) |
 | Multiversal Affairs | 270157 | [270157-multiversal-affairs.json](./270157-multiversal-affairs.json) |
 | Multiversal Time Survivors | 311558 | [311558-multiversal-time-survivors.json](./311558-multiversal-time-survivors.json) |
+| Multiverse | 145794 | [145794-multiverse.json](./145794-multiverse.json) |
 | Multiverse | 339231 | [339231-multiverse.json](./339231-multiverse.json) |
 | Multiverse | 377183 | [377183-multiverse.json](./377183-multiverse.json) |
 | MultiVerse | 192255 | [192255-multiverse.json](./192255-multiverse.json) |
