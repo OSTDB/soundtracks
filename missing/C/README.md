@@ -1551,6 +1551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canvas Intruder | 316142 | [316142-canvas-intruder.json](./316142-canvas-intruder.json) |
 | Canvas Legacy | 219219 | [219219-canvas-legacy.json](./219219-canvas-legacy.json) |
 | Canvas Menagerie | 250167 | [250167-canvas-menagerie.json](./250167-canvas-menagerie.json) |
+| Canvas of a Rainy Day | 187582 | [187582-canvas-of-a-rainy-day.json](./187582-canvas-of-a-rainy-day.json) |
 | Canvas of Kings | 259576 | [259576-canvas-of-kings.json](./259576-canvas-of-kings.json) |
 | Canvas of Thoughts | 399590 | [399590-canvas-of-thoughts.json](./399590-canvas-of-thoughts.json) |
 | Canvas Quest | 44290 | [44290-canvas-quest.json](./44290-canvas-quest.json) |
@@ -9959,6 +9960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Snake Adventures | 130395 | [130395-classic-snake-adventures.json](./130395-classic-snake-adventures.json) |
 | Classic snake final | 88791 | [88791-classic-snake-final.json](./88791-classic-snake-final.json) |
 | Classic Snake Game Gold | 100962 | [100962-classic-snake-game-gold.json](./100962-classic-snake-game-gold.json) |
+| Classic Solitaire | 187618 | [187618-classic-solitaire.json](./187618-classic-solitaire.json) |
 | Classic Solitaire | 323511 | [323511-classic-solitaire.json](./323511-classic-solitaire.json) |
 | Classic Solitaire | 88321 | [88321-classic-solitaire.json](./88321-classic-solitaire.json) |
 | Classic Solitaire НD | 87921 | [87921-classic-solitaire-d.json](./87921-classic-solitaire-d.json) |
@@ -10364,6 +10366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clickyland | 291296 | [291296-clickyland.json](./291296-clickyland.json) |
 | Clientele | 213020 | [213020-clientele.json](./213020-clientele.json) |
 | Clif Danger | 129401 | [129401-clif-danger.json](./129401-clif-danger.json) |
+| Cliff & Field | 187615 | [187615-cliff-and-field.json](./187615-cliff-and-field.json) |
 | Cliff Drift | 251335 | [251335-cliff-drift.json](./251335-cliff-drift.json) |
 | Cliff Empire | 99124 | [99124-cliff-empire.json](./99124-cliff-empire.json) |
 | Cliff Hanger | 24504 | [24504-cliff-hanger.json](./24504-cliff-hanger.json) |
@@ -16709,6 +16712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Chicken Carnival | 135816 | [135816-crazy-chicken-carnival.json](./135816-crazy-chicken-carnival.json) |
 | Crazy Chicken Carnival | 268116 | [268116-crazy-chicken-carnival.json](./268116-crazy-chicken-carnival.json) |
 | Crazy Chicken Jump'n Run: Atlantis Quest | 282571 | [282571-crazy-chicken-jumpn-run-atlantis-quest.json](./282571-crazy-chicken-jumpn-run-atlantis-quest.json) |
+| Crazy Chicken Kart 2 | 187627 | [187627-crazy-chicken-kart-2.json](./187627-crazy-chicken-kart-2.json) |
 | Crazy Chicken Kart 2 | 69099 | [69099-crazy-chicken-kart-2.json](./69099-crazy-chicken-kart-2.json) |
 | Crazy Chicken Kart Extra | 92853 | [92853-crazy-chicken-kart-extra.json](./92853-crazy-chicken-kart-extra.json) |
 | Crazy Chicken Kart Thunder | 69122 | [69122-crazy-chicken-kart-thunder.json](./69122-crazy-chicken-kart-thunder.json) |
@@ -19437,6 +19441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubosphere | 238065 | [238065-cubosphere.json](./238065-cubosphere.json) |
 | Cubot | 36000 | [36000-cubot.json](./36000-cubot.json) |
 | Cubot: The Complexity of Simplicity | 9812 | [9812-cubot-the-complexity-of-simplicity.json](./9812-cubot-the-complexity-of-simplicity.json) |
+| Cuboton | 187589 | [187589-cuboton.json](./187589-cuboton.json) |
 | Cubots: The Origins | 94138 | [94138-cubots-the-origins.json](./94138-cubots-the-origins.json) |
 | Cubounce | 402697 | [402697-cubounce.json](./402697-cubounce.json) |
 | Cubox: Awakening of Gods | 168156 | [168156-cubox-awakening-of-gods.json](./168156-cubox-awakening-of-gods.json) |
