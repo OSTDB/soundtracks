@@ -5969,6 +5969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Eleven: Pro Evolution Soccer 2007 | 2484 | [2484-winning-eleven-pro-evolution-soccer-2007.json](./2484-winning-eleven-pro-evolution-soccer-2007.json) |
 | Winning Eleven: Pro Evolution Soccer 2007 | 43233 | [43233-winning-eleven-pro-evolution-soccer-2007.json](./43233-winning-eleven-pro-evolution-soccer-2007.json) |
 | Winning Hearts: Wrestling Otome | 244882 | [244882-winning-hearts-wrestling-otome.json](./244882-winning-hearts-wrestling-otome.json) |
+| Winning Love by Daylight | 151900 | [151900-winning-love-by-daylight.json](./151900-winning-love-by-daylight.json) |
 | Winning Lure | 298863 | [298863-winning-lure.json](./298863-winning-lure.json) |
 | Winning Post | 4240 | [4240-winning-post.json](./4240-winning-post.json) |
 | Winning Post 10 | 240877 | [240877-winning-post-10.json](./240877-winning-post-10.json) |
