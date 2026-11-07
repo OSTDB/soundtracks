@@ -4968,6 +4968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seen | 117641 | [117641-seen.json](./117641-seen.json) |
 | Seen | 142972 | [142972-seen.json](./142972-seen.json) |
 | Seen | 272689 | [272689-seen.json](./272689-seen.json) |
+| Seen 2 | 159995 | [159995-seen-2.json](./159995-seen-2.json) |
 | Seen Before | 348654 | [348654-seen-before.json](./348654-seen-before.json) |
 | Seen in Liberty City | 397372 | [397372-seen-in-liberty-city.json](./397372-seen-in-liberty-city.json) |
 | Seen on Screen | 225721 | [225721-seen-on-screen.json](./225721-seen-on-screen.json) |
@@ -9142,6 +9143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Run | 213353 | [213353-shoot-run.json](./213353-shoot-run.json) |
 | Shoot Shoot Cowboy! | 311230 | [311230-shoot-shoot-cowboy.json](./311230-shoot-shoot-cowboy.json) |
 | Shoot Shoot Mega Pack | 28506 | [28506-shoot-shoot-mega-pack.json](./28506-shoot-shoot-mega-pack.json) |
+| Shoot Shoot My Waifu | 159947 | [159947-shoot-shoot-my-waifu.json](./159947-shoot-shoot-my-waifu.json) |
 | Shoot Shoot Nitori | 117286 | [117286-shoot-shoot-nitori.json](./117286-shoot-shoot-nitori.json) |
 | Shoot Shoot Nitori the Golden | 202949 | [202949-shoot-shoot-nitori-the-golden.json](./202949-shoot-shoot-nitori-the-golden.json) |
 | Shoot Star | 302221 | [302221-shoot-star.json](./302221-shoot-star.json) |
@@ -12370,6 +12372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skiing Yeti Mountain | 59463 | [59463-skiing-yeti-mountain.json](./59463-skiing-yeti-mountain.json) |
 | Skijoring | 391024 | [391024-skijoring.json](./391024-skijoring.json) |
 | Skilander | 342000 | [342000-skilander.json](./342000-skilander.json) |
+| Skill at Time | 159963 | [159963-skill-at-time.json](./159963-skill-at-time.json) |
 | Skill Gap | 393662 | [393662-skill-gap.json](./393662-skill-gap.json) |
 | Skill Hockey | 351565 | [351565-skill-hockey.json](./351565-skill-hockey.json) |
 | Skill Legends Royale | 316603 | [316603-skill-legends-royale.json](./316603-skill-legends-royale.json) |
@@ -14641,6 +14644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smelly Cat | 421598 | [421598-smelly-cat.json](./421598-smelly-cat.json) |
 | Smelogs Playground | 182270 | [182270-smelogs-playground.json](./182270-smelogs-playground.json) |
 | Smelted Kin | 173359 | [173359-smelted-kin.json](./173359-smelted-kin.json) |
+| Smelted Kin: Inhuman Impact | 159982 | [159982-smelted-kin-inhuman-impact.json](./159982-smelted-kin-inhuman-impact.json) |
 | Smelter | 119191 | [119191-smelter.json](./119191-smelter.json) |
 | Smelter | 150757 | [150757-smelter.json](./150757-smelter.json) |
 | Smelter: Collector's Edition | 205263 | [205263-smelter-collectors-edition.json](./205263-smelter-collectors-edition.json) |
@@ -19835,7 +19839,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -23517,6 +23520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Fighters | 131591 | [131591-square-fighters.json](./131591-square-fighters.json) |
 | Square Fishing Builder | 340176 | [340176-square-fishing-builder.json](./340176-square-fishing-builder.json) |
 | Square Flood | 58259 | [58259-square-flood.json](./58259-square-flood.json) |
+| Square Game | 159955 | [159955-square-game.json](./159955-square-game.json) |
 | Square Game | 373742 | [373742-square-game.json](./373742-square-game.json) |
 | Square Garden | 234748 | [234748-square-garden.json](./234748-square-garden.json) |
 | Square Head Zombies | 65796 | [65796-square-head-zombies.json](./65796-square-head-zombies.json) |
@@ -26811,6 +26815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stephen King's F13 | 92828 | [92828-stephen-kings-f13.json](./92828-stephen-kings-f13.json) |
 | Stephen Sharer’s Rocket Slide | 244109 | [244109-stephen-sharer-s-rocket-slide.json](./244109-stephen-sharer-s-rocket-slide.json) |
 | Stephen's Sausage Roll | 19942 | [19942-stephens-sausage-roll.json](./19942-stephens-sausage-roll.json) |
+| Stephino RPG | 159965 | [159965-stephino-rpg.json](./159965-stephino-rpg.json) |
 | StepMania | 51311 | [51311-stepmania.json](./51311-stepmania.json) |
 | StepManiaX | 77796 | [77796-stepmaniax.json](./77796-stepmaniax.json) |
 | Stepped Reckoner | 137304 | [137304-stepped-reckoner.json](./137304-stepped-reckoner.json) |
@@ -27478,6 +27483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop! Fill-in-the-Blank Word Game | 217979 | [217979-stop-fill-in-the-blank-word-game.json](./217979-stop-fill-in-the-blank-word-game.json) |
 | Stop10 | 292156 | [292156-stop10.json](./292156-stop10.json) |
 | stopDrop | 137354 | [137354-stopdrop.json](./137354-stopdrop.json) |
+| StopGate | 159983 | [159983-stopgate.json](./159983-stopgate.json) |
 | Stophat | 43113 | [43113-stophat.json](./43113-stophat.json) |
 | Stoplights | 392140 | [392140-stoplights.json](./392140-stoplights.json) |
 | Stopocop | 192739 | [192739-stopocop.json](./192739-stopocop.json) |
@@ -27589,6 +27595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Strikers | 124746 | [124746-storm-strikers.json](./124746-storm-strikers.json) |
 | Storm Swordsman | 190733 | [190733-storm-swordsman.json](./190733-storm-swordsman.json) |
 | Storm Tale | 120671 | [120671-storm-tale.json](./120671-storm-tale.json) |
+| Storm Tale 2 | 159966 | [159966-storm-tale-2.json](./159966-storm-tale-2.json) |
 | Storm Tale 2 & Ancient Relics: Adventure Bundle | 387681 | [387681-storm-tale-2-and-ancient-relics-adventure-bundle.json](./387681-storm-tale-2-and-ancient-relics-adventure-bundle.json) |
 | Storm The Court | 296470 | [296470-storm-the-court.json](./296470-storm-the-court.json) |
 | Storm the Field | 401067 | [401067-storm-the-field.json](./401067-storm-the-field.json) |
