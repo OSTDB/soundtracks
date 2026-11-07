@@ -3496,6 +3496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werewolves: Haven Rising | 105572 | [105572-werewolves-haven-rising.json](./105572-werewolves-haven-rising.json) |
 | Werfast | 422200 | [422200-werfast.json](./422200-werfast.json) |
 | Werft-Simulator 2013 | 208482 | [208482-werft-simulator-2013.json](./208482-werft-simulator-2013.json) |
+| Werlocks.io | 178169 | [178169-werlocks-io.json](./178169-werlocks-io.json) |
 | Werner Flaschbier | 91939 | [91939-werner-flaschbier.json](./91939-werner-flaschbier.json) |
 | Werner Waffenwerke: Arms Tycoon | 322606 | [322606-werner-waffenwerke-arms-tycoon.json](./322606-werner-waffenwerke-arms-tycoon.json) |
 | Werner: Let's Go! | 269305 | [269305-werner-lets-go.json](./269305-werner-lets-go.json) |
@@ -7720,6 +7721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordHue | 212796 | [212796-wordhue.json](./212796-wordhue.json) |
 | Wordhunters | 103388 | [103388-wordhunters.json](./103388-wordhunters.json) |
 | Wordify | 147461 | [147461-wordify.json](./147461-wordify.json) |
+| Wordimagesoundplay | 178180 | [178180-wordimagesoundplay.json](./178180-wordimagesoundplay.json) |
 | Wordish | 187434 | [187434-wordish.json](./187434-wordish.json) |
 | Wordism | 239093 | [239093-wordism.json](./239093-wordism.json) |
 | Wordix: Word Puzzle | 193778 | [193778-wordix-word-puzzle.json](./193778-wordix-word-puzzle.json) |
@@ -7757,6 +7759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words | 197391 | [197391-words.json](./197391-words.json) |
 | Words & Magic | 241538 | [241538-words-and-magic.json](./241538-words-and-magic.json) |
 | Words Across America | 310565 | [310565-words-across-america.json](./310565-words-across-america.json) |
+| Words Can Kill | 178151 | [178151-words-can-kill.json](./178151-words-can-kill.json) |
 | Words cannot convey | 105709 | [105709-words-cannot-convey.json](./105709-words-cannot-convey.json) |
 | Words Collide | 254165 | [254165-words-collide.json](./254165-words-collide.json) |
 | Words for a bird | 134692 | [134692-words-for-a-bird.json](./134692-words-for-a-bird.json) |
