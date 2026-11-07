@@ -3167,6 +3167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incredibasketball | 24773 | [24773-incredibasketball.json](./24773-incredibasketball.json) |
 | Incredible Crisis | 26637 | [26637-incredible-crisis.json](./26637-incredible-crisis.json) |
 | Incredible Dracula 3: Family Secret | 118765 | [118765-incredible-dracula-3-family-secret.json](./118765-incredible-dracula-3-family-secret.json) |
+| Incredible Dracula 4: Game of Gods - Collector's Edition | 186976 | [186976-incredible-dracula-4-game-of-gods-collectors-edition.json](./186976-incredible-dracula-4-game-of-gods-collectors-edition.json) |
 | Incredible Dracula 4: Games of Gods | 119746 | [119746-incredible-dracula-4-games-of-gods.json](./119746-incredible-dracula-4-games-of-gods.json) |
 | Incredible Dracula II: The Last Call | 53224 | [53224-incredible-dracula-ii-the-last-call.json](./53224-incredible-dracula-ii-the-last-call.json) |
 | Incredible Dracula II: The Last Call - Collector's Edition | 29924 | [29924-incredible-dracula-ii-the-last-call-collectors-edition.json](./29924-incredible-dracula-ii-the-last-call-collectors-edition.json) |
@@ -3719,6 +3720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infidel | 12157 | [12157-infidel.json](./12157-infidel.json) |
 | Infidhells | 158970 | [158970-infidhells.json](./158970-infidhells.json) |
 | Infierno Rubí | 294232 | [294232-infierno-rubi.json](./294232-infierno-rubi.json) |
+| Infiltraliens | 186982 | [186982-infiltraliens.json](./186982-infiltraliens.json) |
 | Infiltrate | 22413 | [22413-infiltrate.json](./22413-infiltrate.json) |
 | Infiltrate & Extract | 312781 | [312781-infiltrate-and-extract.json](./312781-infiltrate-and-extract.json) |
 | Infiltrating a Cult: Additional All-Ages Story & Graphics DLC | 256045 | [256045-infiltrating-a-cult-additional-all-ages-story-and-graphics-dlc.json](./256045-infiltrating-a-cult-additional-all-ages-story-and-graphics-dlc.json) |
