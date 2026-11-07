@@ -2603,6 +2603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elifoot 18 | 104499 | [104499-elifoot-18.json](./104499-elifoot-18.json) |
 | Elifoot 2 | 91632 | [91632-elifoot-2.json](./91632-elifoot-2.json) |
 | Elifoot 98 | 398966 | [398966-elifoot-98.json](./398966-elifoot-98.json) |
+| Eliminate Drips | 172275 | [172275-eliminate-drips.json](./172275-eliminate-drips.json) |
 | Elimination | 207732 | [207732-elimination.json](./207732-elimination.json) |
 | Elimination Games | 220840 | [220840-elimination-games.json](./220840-elimination-games.json) |
 | Eliminato | 102826 | [102826-eliminato.json](./102826-eliminato.json) |
