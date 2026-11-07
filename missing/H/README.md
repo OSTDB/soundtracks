@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H.A.V.E. Online | 137476 | [137476-h-a-v-e-online.json](./137476-h-a-v-e-online.json) |
 | H.E. | 108252 | [108252-h-e.json](./108252-h-e.json) |
 | H.E.D.Z. - Head Extreme Destruction Zone | 50140 | [50140-h-e-d-z-head-extreme-destruction-zone.json](./50140-h-e-d-z-head-extreme-destruction-zone.json) |
+| H.E.L.L. Shuffle | 143209 | [143209-h-e-l-l-shuffle.json](./143209-h-e-l-l-shuffle.json) |
 | H.E.L.M.E.T. Force: Rise of the Machines | 109552 | [109552-h-e-l-m-e-t-force-rise-of-the-machines.json](./109552-h-e-l-m-e-t-force-rise-of-the-machines.json) |
 | H.E.L.P.: The Heroes Enhancing Lives Program | 151919 | [151919-h-e-l-p-the-heroes-enhancing-lives-program.json](./151919-h-e-l-p-the-heroes-enhancing-lives-program.json) |
 | H.E.N.T.A.L.K.E.R. | 311098 | [311098-h-e-n-t-a-l-k-e-r.json](./311098-h-e-n-t-a-l-k-e-r.json) |
@@ -4870,6 +4871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Anime Poker | 131271 | [131271-hentai-anime-poker.json](./131271-hentai-anime-poker.json) |
 | Hentai Aqua Lorelei | 367167 | [367167-hentai-aqua-lorelei.json](./367167-hentai-aqua-lorelei.json) |
 | Hentai Arcade: Lustful Girls | 111577 | [111577-hentai-arcade-lustful-girls.json](./111577-hentai-arcade-lustful-girls.json) |
+| Hentai Arena \| Battle Royale | 143239 | [143239-hentai-arena-battle-royale.json](./143239-hentai-arena-battle-royale.json) |
 | Hentai Ariel | 242624 | [242624-hentai-ariel.json](./242624-hentai-ariel.json) |
 | Hentai Ariya | 379336 | [379336-hentai-ariya.json](./379336-hentai-ariya.json) |
 | Hentai Asmodeus | 125352 | [125352-hentai-asmodeus.json](./125352-hentai-asmodeus.json) |
