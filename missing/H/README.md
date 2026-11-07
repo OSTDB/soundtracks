@@ -2451,6 +2451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hashasky Shougun no Daibouken | 212577 | [212577-hashasky-shougun-no-daibouken.json](./212577-hashasky-shougun-no-daibouken.json) |
 | Hashi Infinite | 404055 | [404055-hashi-infinite.json](./404055-hashi-infinite.json) |
 | Hashi: Bridges | 391842 | [391842-hashi-bridges.json](./391842-hashi-bridges.json) |
+| Hashi: Light | 168485 | [168485-hashi-light.json](./168485-hashi-light.json) |
 | Hashihime of the Old Book Town append | 178795 | [178795-hashihime-of-the-old-book-town-append.json](./178795-hashihime-of-the-old-book-town-append.json) |
 | Hashire Hebereke | 42327 | [42327-hashire-hebereke.json](./42327-hashire-hebereke.json) |
 | Hashire Hebereke: EX | 325670 | [325670-hashire-hebereke-ex.json](./325670-hashire-hebereke-ex.json) |
@@ -5962,6 +5963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Siege: Pocket Edition | 108288 | [108288-hero-siege-pocket-edition.json](./108288-hero-siege-pocket-edition.json) |
 | Hero Siege: Stormweaver | 296954 | [296954-hero-siege-stormweaver.json](./296954-hero-siege-stormweaver.json) |
 | Hero Siege: Wrath of Mevius | 168769 | [168769-hero-siege-wrath-of-mevius.json](./168769-hero-siege-wrath-of-mevius.json) |
+| Hero Siege: Wrath of Mevius - Digital Collector's Edition | 168489 | [168489-hero-siege-wrath-of-mevius-digital-collectors-edition.json](./168489-hero-siege-wrath-of-mevius-digital-collectors-edition.json) |
 | Hero Slayers | 348427 | [348427-hero-slayers.json](./348427-hero-slayers.json) |
 | Hero Soul: I Want to be a Hero! | 126786 | [126786-hero-soul-i-want-to-be-a-hero.json](./126786-hero-soul-i-want-to-be-a-hero.json) |
 | Hero Staff | 113655 | [113655-hero-staff.json](./113655-hero-staff.json) |
