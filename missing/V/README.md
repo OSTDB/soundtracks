@@ -4033,6 +4033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Skater: SL Pro Series Tour | 296527 | [296527-vr-skater-sl-pro-series-tour.json](./296527-vr-skater-sl-pro-series-tour.json) |
 | VR Skirmish on Solar System Planets: Shooting Battle | 154898 | [154898-vr-skirmish-on-solar-system-planets-shooting-battle.json](./154898-vr-skirmish-on-solar-system-planets-shooting-battle.json) |
 | VR Sky Walk | 189114 | [189114-vr-sky-walk.json](./189114-vr-sky-walk.json) |
+| VR Skydiving | 168985 | [168985-vr-skydiving.json](./168985-vr-skydiving.json) |
 | VR Slots 3D | 368240 | [368240-vr-slots-3d.json](./368240-vr-slots-3d.json) |
 | VR Slugger | 40529 | [40529-vr-slugger.json](./40529-vr-slugger.json) |
 | VR Smash Park | 111716 | [111716-vr-smash-park.json](./111716-vr-smash-park.json) |
