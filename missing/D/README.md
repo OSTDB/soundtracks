@@ -5547,6 +5547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Def Leppard: Let's Rock It! | 254164 | [254164-def-leppard-lets-rock-it.json](./254164-def-leppard-lets-rock-it.json) |
 | Defaced | 236312 | [236312-defaced.json](./236312-defaced.json) |
 | Defaction | 178537 | [178537-defaction.json](./178537-defaction.json) |
+| Defagra | 184545 | [184545-defagra.json](./184545-defagra.json) |
 | Default Unreal Physics and Assets AKA DUPA Project | 380367 | [380367-default-unreal-physics-and-assets-aka-dupa-project.json](./380367-default-unreal-physics-and-assets-aka-dupa-project.json) |
 | Defcom | 13586 | [13586-defcom.json](./13586-defcom.json) |
 | Defcom 1 | 13584 | [13584-defcom-1.json](./13584-defcom-1.json) |
@@ -8199,6 +8200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DevilutionX | 242688 | [242688-devilutionx.json](./242688-devilutionx.json) |
 | Devin and the Celestial Necropolis | 218205 | [218205-devin-and-the-celestial-necropolis.json](./218205-devin-and-the-celestial-necropolis.json) |
 | Devinica | 253979 | [253979-devinica.json](./253979-devinica.json) |
+| Devious | 184668 | [184668-devious.json](./184668-devious.json) |
 | Devious | 99156 | [99156-devious.json](./99156-devious.json) |
 | Devious Dungeon 2 | 68988 | [68988-devious-dungeon-2.json](./68988-devious-dungeon-2.json) |
 | Devious Dungeon Collection | 147669 | [147669-devious-dungeon-collection.json](./147669-devious-dungeon-collection.json) |
@@ -9049,6 +9051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diggerz | 130592 | [130592-diggerz.json](./130592-diggerz.json) |
 | Diggin | 379389 | [379389-diggin.json](./379389-diggin.json) |
 | Diggin It | 395797 | [395797-diggin-it.json](./395797-diggin-it.json) |
+| Diggin' | 184548 | [184548-diggin.json](./184548-diggin.json) |
 | Digging & Farming & Parking: Simulator Bundle | 380697 | [380697-digging-and-farming-and-parking-simulator-bundle.json](./380697-digging-and-farming-and-parking-simulator-bundle.json) |
 | Digging a Hole 2025 | 335955 | [335955-digging-a-hole-2025.json](./335955-digging-a-hole-2025.json) |
 | Digging a Hole Simulator | 331728 | [331728-digging-a-hole-simulator.json](./331728-digging-a-hole-simulator.json) |
@@ -9466,6 +9469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinky Dungeon | 138507 | [138507-dinky-dungeon.json](./138507-dinky-dungeon.json) |
 | Dinky Guardians | 244516 | [244516-dinky-guardians.json](./244516-dinky-guardians.json) |
 | Dinky Rinky | 231610 | [231610-dinky-rinky.json](./231610-dinky-rinky.json) |
+| Dinner at Suzanna's | 184667 | [184667-dinner-at-suzannas.json](./184667-dinner-at-suzannas.json) |
 | Dinner Bell | 60005 | [60005-dinner-bell.json](./60005-dinner-bell.json) |
 | Dinner Defenders | 295489 | [295489-dinner-defenders.json](./295489-dinner-defenders.json) |
 | Dinner Etiquette VR | 160138 | [160138-dinner-etiquette-vr.json](./160138-dinner-etiquette-vr.json) |
