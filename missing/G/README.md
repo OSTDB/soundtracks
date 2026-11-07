@@ -3932,6 +3932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Terminal | 307734 | [307734-ghost-terminal.json](./307734-ghost-terminal.json) |
 | Ghost Terminator | 173286 | [173286-ghost-terminator.json](./173286-ghost-terminator.json) |
 | Ghost Theory | 17244 | [17244-ghost-theory.json](./17244-ghost-theory.json) |
+| Ghost Tokyo | 192508 | [192508-ghost-tokyo.json](./192508-ghost-tokyo.json) |
 | Ghost Town | 14092 | [14092-ghost-town.json](./14092-ghost-town.json) |
 | Ghost Town | 18522 | [18522-ghost-town.json](./18522-ghost-town.json) |
 | Ghost Town | 303288 | [303288-ghost-town.json](./303288-ghost-town.json) |
@@ -5058,6 +5059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Ops: Commando Libya | 10365 | [10365-global-ops-commando-libya.json](./10365-global-ops-commando-libya.json) |
 | Global Outbreak | 16853 | [16853-global-outbreak.json](./16853-global-outbreak.json) |
 | Global Outbreak: Doomsday Edition | 30254 | [30254-global-outbreak-doomsday-edition.json](./30254-global-outbreak-doomsday-edition.json) |
+| Global Pandemic | 192518 | [192518-global-pandemic.json](./192518-global-pandemic.json) |
 | Global Pokédex Plus | 151645 | [151645-global-pokedex-plus.json](./151645-global-pokedex-plus.json) |
 | Global Rescue | 362051 | [362051-global-rescue.json](./362051-global-rescue.json) |
 | Global Resistance | 304273 | [304273-global-resistance.json](./304273-global-resistance.json) |
