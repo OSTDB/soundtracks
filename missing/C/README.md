@@ -10153,6 +10153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleaning the System | 207762 | [207762-cleaning-the-system.json](./207762-cleaning-the-system.json) |
 | Cleaning The World With Pampam | 291321 | [291321-cleaning-the-world-with-pampam.json](./291321-cleaning-the-world-with-pampam.json) |
 | Cleaning Time VR | 264682 | [264682-cleaning-time-vr.json](./264682-cleaning-time-vr.json) |
+| Cleaning Up | 179793 | [179793-cleaning-up.json](./179793-cleaning-up.json) |
 | Cleaning up the Puzzle Gallery | 412359 | [412359-cleaning-up-the-puzzle-gallery.json](./412359-cleaning-up-the-puzzle-gallery.json) |
 | Cleaning Up! | 360587 | [360587-cleaning-up.json](./360587-cleaning-up.json) |
 | CleanPlay | 333524 | [333524-cleanplay.json](./333524-cleanplay.json) |
@@ -15537,6 +15538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Count to 10: Learn Numbers with Montessori | 74834 | [74834-count-to-10-learn-numbers-with-montessori.json](./74834-count-to-10-learn-numbers-with-montessori.json) |
 | Count to Ten | 301876 | [301876-count-to-ten.json](./301876-count-to-ten.json) |
 | Count to Ten: Supporter Edition | 310385 | [310385-count-to-ten-supporter-edition.json](./310385-count-to-ten-supporter-edition.json) |
+| Count Together | 179828 | [179828-count-together.json](./179828-count-together.json) |
 | Count your Clones | 413889 | [413889-count-your-clones.json](./413889-count-your-clones.json) |
 | Countdown | 13524 | [13524-countdown.json](./13524-countdown.json) |
 | Countdown | 142936 | [142936-countdown.json](./142936-countdown.json) |
@@ -18708,6 +18710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptid Courting | 184901 | [184901-cryptid-courting.json](./184901-cryptid-courting.json) |
 | Cryptid Crew | 169634 | [169634-cryptid-crew.json](./169634-cryptid-crew.json) |
 | Cryptid Engine | 348861 | [348861-cryptid-engine.json](./348861-cryptid-engine.json) |
+| Cryptid Farm | 179817 | [179817-cryptid-farm.json](./179817-cryptid-farm.json) |
 | Cryptid Hunt feat. Mothman | 419997 | [419997-cryptid-hunt-feat-mothman.json](./419997-cryptid-hunt-feat-mothman.json) |
 | Cryptid Kitchen | 244328 | [244328-cryptid-kitchen.json](./244328-cryptid-kitchen.json) |
 | Cryptid Time | 320134 | [320134-cryptid-time.json](./320134-cryptid-time.json) |
