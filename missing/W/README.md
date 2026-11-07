@@ -4363,6 +4363,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | While the Iron’s Hot | 252781 | [252781-while-the-iron-s-hot.json](./252781-while-the-iron-s-hot.json) |
 | While the Whole World Laughs | 241486 | [241486-while-the-whole-world-laughs.json](./241486-while-the-whole-world-laughs.json) |
 | while True: learn() | 76840 | [76840-while-true-learn.json](./76840-while-true-learn.json) |
+| while True: learn() - Chief Technology Officer Edition | 186368 | [186368-while-true-learn-chief-technology-officer-edition.json](./186368-while-true-learn-chief-technology-officer-edition.json) |
+| while True: learn() - Data Scientist Edition | 186367 | [186367-while-true-learn-data-scientist-edition.json](./186367-while-true-learn-data-scientist-edition.json) |
+| while True: learn() - Deep Edition | 186360 | [186360-while-true-learn-deep-edition.json](./186360-while-true-learn-deep-edition.json) |
 | While Waiting | 253330 | [253330-while-waiting.json](./253330-while-waiting.json) |
 | While Waiting My Turn | 253382 | [253382-while-waiting-my-turn.json](./253382-while-waiting-my-turn.json) |
 | While We Sleep: Slendrina Is Here | 321278 | [321278-while-we-sleep-slendrina-is-here.json](./321278-while-we-sleep-slendrina-is-here.json) |
@@ -7035,6 +7038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfsschanze: Operation Götterdämmerung | 421585 | [421585-wolfsschanze-operation-gotterdammerung.json](./421585-wolfsschanze-operation-gotterdammerung.json) |
 | Wolfstar Adventures in the Inu System | 213405 | [213405-wolfstar-adventures-in-the-inu-system.json](./213405-wolfstar-adventures-in-the-inu-system.json) |
 | Wolfstride | 134952 | [134952-wolfstride.json](./134952-wolfstride.json) |
+| Wolfstride: Golden God Edition | 186364 | [186364-wolfstride-golden-god-edition.json](./186364-wolfstride-golden-god-edition.json) |
 | WolfTeam: Classic | 395375 | [395375-wolfteam-classic.json](./395375-wolfteam-classic.json) |
 | Wolfteam: Reboot | 236760 | [236760-wolfteam-reboot.json](./236760-wolfteam-reboot.json) |
 | Wolfthorn | 126801 | [126801-wolfthorn.json](./126801-wolfthorn.json) |
@@ -9138,6 +9142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrong Floor | 348898 | [348898-wrong-floor.json](./348898-wrong-floor.json) |
 | Wrong God | 253808 | [253808-wrong-god.json](./253808-wrong-god.json) |
 | Wrong Landing | 261645 | [261645-wrong-landing.json](./261645-wrong-landing.json) |
+| Wrong train | 186383 | [186383-wrong-train.json](./186383-wrong-train.json) |
 | Wronged | 75780 | [75780-wronged.json](./75780-wronged.json) |
 | Wronged Us | 190482 | [190482-wronged-us.json](./190482-wronged-us.json) |
 | Wrongly Accused | 293337 | [293337-wrongly-accused.json](./293337-wrongly-accused.json) |
