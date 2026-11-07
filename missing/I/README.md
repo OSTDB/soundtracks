@@ -768,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I’m a Love Interest in My Childhood Friend’s Halloween Story | 179674 | [179674-i-m-a-love-interest-in-my-childhood-friend-s-halloween-story.json](./179674-i-m-a-love-interest-in-my-childhood-friend-s-halloween-story.json) |
 | I’m a Love Interest in My Childhood Friend’s Reverse Harem!!! | 170655 | [170655-i-m-a-love-interest-in-my-childhood-friend-s-reverse-harem.json](./170655-i-m-a-love-interest-in-my-childhood-friend-s-reverse-harem.json) |
 | I’m a Magical Girl’s Pet?! | 299075 | [299075-i-m-a-magical-girl-s-pet.json](./299075-i-m-a-magical-girl-s-pet.json) |
+| I'm A Pencil | 145136 | [145136-im-a-pencil.json](./145136-im-a-pencil.json) |
 | I'm a Rocker! | 289289 | [289289-im-a-rocker.json](./289289-im-a-rocker.json) |
 | I'm a Sardine Keita | 384571 | [384571-im-a-sardine-keita.json](./384571-im-a-sardine-keita.json) |
 | I'm a Side Character in a BL story! | 177877 | [177877-im-a-side-character-in-a-bl-story.json](./177877-im-a-side-character-in-a-bl-story.json) |
@@ -1212,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iClub Manager | 200159 | [200159-iclub-manager.json](./200159-iclub-manager.json) |
 | IClub Manager 2 | 175340 | [175340-iclub-manager-2.json](./175340-iclub-manager-2.json) |
 | Ico | 144612 | [144612-ico.json](./144612-ico.json) |
+| Ico & Shadow of the Colossus Collection: Limited Box | 145166 | [145166-ico-and-shadow-of-the-colossus-collection-limited-box.json](./145166-ico-and-shadow-of-the-colossus-collection-limited-box.json) |
 | Ico Soccer | 269637 | [269637-ico-soccer.json](./269637-ico-soccer.json) |
 | ICO: Limited Edition | 43463 | [43463-ico-limited-edition.json](./43463-ico-limited-edition.json) |
 | ICode Stem Universe | 265154 | [265154-icode-stem-universe.json](./265154-icode-stem-universe.json) |
@@ -3932,6 +3934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5882,6 +5885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Commando Pro | 343561 | [343561-iron-commando-pro.json](./343561-iron-commando-pro.json) |
 | Iron Conflict | 140777 | [140777-iron-conflict.json](./140777-iron-conflict.json) |
 | Iron Convoy | 330859 | [330859-iron-convoy.json](./330859-iron-convoy.json) |
+| Iron Corbo: Kung Fu Janitor | 145138 | [145138-iron-corbo-kung-fu-janitor.json](./145138-iron-corbo-kung-fu-janitor.json) |
 | Iron Cross | 80581 | [80581-iron-cross.json](./80581-iron-cross.json) |
 | Iron Crown | 318183 | [318183-iron-crown.json](./318183-iron-crown.json) |
 | Iron Crypticle | 47981 | [47981-iron-crypticle.json](./47981-iron-crypticle.json) |
