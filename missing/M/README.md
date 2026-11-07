@@ -5996,7 +5996,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -8096,6 +8095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megacop | 117663 | [117663-megacop.json](./117663-megacop.json) |
 | Megacraft Hentai And Zombies | 366533 | [366533-megacraft-hentai-and-zombies.json](./366533-megacraft-hentai-and-zombies.json) |
 | Megacraft Hentai Apocalipsis | 366534 | [366534-megacraft-hentai-apocalipsis.json](./366534-megacraft-hentai-apocalipsis.json) |
+| Megacraft Hentai Battlegrounds | 147543 | [147543-megacraft-hentai-battlegrounds.json](./147543-megacraft-hentai-battlegrounds.json) |
 | Megacraft Hentai Edition | 144886 | [144886-megacraft-hentai-edition.json](./144886-megacraft-hentai-edition.json) |
 | Megacraft Hentai Survival | 149428 | [149428-megacraft-hentai-survival.json](./149428-megacraft-hentai-survival.json) |
 | MegaCryptoPolis | 182339 | [182339-megacryptopolis.json](./182339-megacryptopolis.json) |
@@ -21141,6 +21141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Merry May with be | 408848 | [408848-my-merry-may-with-be.json](./408848-my-merry-may-with-be.json) |
 | My Merry Maybe | 247509 | [247509-my-merry-maybe.json](./247509-my-merry-maybe.json) |
 | My Meta Farm | 234837 | [234837-my-meta-farm.json](./234837-my-meta-farm.json) |
+| My Military Life | 147549 | [147549-my-military-life.json](./147549-my-military-life.json) |
 | My Mind Ghost | 155856 | [155856-my-mind-ghost.json](./155856-my-mind-ghost.json) |
 | My Mine | 262896 | [262896-my-mine.json](./262896-my-mine.json) |
 | My Mini Farm | 245683 | [245683-my-mini-farm.json](./245683-my-mini-farm.json) |
