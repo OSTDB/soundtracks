@@ -3711,6 +3711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tell Me Your Story: Premium Edition | 328783 | [328783-tell-me-your-story-premium-edition.json](./328783-tell-me-your-story-premium-edition.json) |
 | Tell Me Your Story: Special Edition | 328785 | [328785-tell-me-your-story-special-edition.json](./328785-tell-me-your-story-special-edition.json) |
 | Tell Me Your Story: Ultimate Edition | 328782 | [328782-tell-me-your-story-ultimate-edition.json](./328782-tell-me-your-story-ultimate-edition.json) |
+| Tell Some Story: Foz | 159472 | [159472-tell-some-story-foz.json](./159472-tell-some-story-foz.json) |
 | Tell The Forest To F*ck Off | 135781 | [135781-tell-the-forest-to-f-ck-off.json](./135781-tell-the-forest-to-f-ck-off.json) |
 | Tell: Das Spiel zum Film | 304972 | [304972-tell-das-spiel-zum-film.json](./304972-tell-das-spiel-zum-film.json) |
 | Teller's Duty | 336022 | [336022-tellers-duty.json](./336022-tellers-duty.json) |
@@ -25213,6 +25214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom the Tow Truck of Car City | 90796 | [90796-tom-the-tow-truck-of-car-city.json](./90796-tom-the-tow-truck-of-car-city.json) |
 | Tom Thumb | 206766 | [206766-tom-thumb.json](./206766-tom-thumb.json) |
 | Tom vs. Jerry: The Chase Is On! | 269769 | [269769-tom-vs-jerry-the-chase-is-on.json](./269769-tom-vs-jerry-the-chase-is-on.json) |
+| Tom's Adventure | 159447 | [159447-toms-adventure.json](./159447-toms-adventure.json) |
 | Tom's Adventure | 202668 | [202668-toms-adventure.json](./202668-toms-adventure.json) |
 | Tom's Adventure | 245600 | [245600-toms-adventure.json](./245600-toms-adventure.json) |
 | Tom's Adventure | 367838 | [367838-toms-adventure.json](./367838-toms-adventure.json) |
@@ -27309,6 +27311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Magic | 170275 | [170275-tower-of-magic.json](./170275-tower-of-magic.json) |
 | Tower of Mask | 297865 | [297865-tower-of-mask.json](./297865-tower-of-mask.json) |
 | Tower of Megami Descents | 385969 | [385969-tower-of-megami-descents.json](./385969-tower-of-megami-descents.json) |
+| Tower of Mice | 159457 | [159457-tower-of-mice.json](./159457-tower-of-mice.json) |
 | Tower of Minak | 299842 | [299842-tower-of-minak.json](./299842-tower-of-minak.json) |
 | Tower of Modula | 340542 | [340542-tower-of-modula.json](./340542-tower-of-modula.json) |
 | Tower of Myraglen | 57381 | [57381-tower-of-myraglen.json](./57381-tower-of-myraglen.json) |
