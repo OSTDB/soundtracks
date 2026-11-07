@@ -765,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Racer | 101020 | [101020-halloween-racer.json](./101020-halloween-racer.json) |
 | Halloween Racer | 50040 | [50040-halloween-racer.json](./50040-halloween-racer.json) |
 | Halloween Revenge | 310620 | [310620-halloween-revenge.json](./310620-halloween-revenge.json) |
+| Halloween Rhythm | 157805 | [157805-halloween-rhythm.json](./157805-halloween-rhythm.json) |
 | Halloween Riddles Mysterious Griddlers | 168430 | [168430-halloween-riddles-mysterious-griddlers.json](./168430-halloween-riddles-mysterious-griddlers.json) |
 | Halloween Run! | 232099 | [232099-halloween-run.json](./232099-halloween-run.json) |
 | Halloween Scrooge | 178250 | [178250-halloween-scrooge.json](./178250-halloween-scrooge.json) |
@@ -6515,6 +6516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexaBeat! | 340467 | [340467-hexabeat.json](./340467-hexabeat.json) |
 | Hexachampions | 316186 | [316186-hexachampions.json](./316186-hexachampions.json) |
 | Hexachess | 374634 | [374634-hexachess.json](./374634-hexachess.json) |
+| Hexacore | 157824 | [157824-hexacore.json](./157824-hexacore.json) |
 | HexaCycle | 115643 | [115643-hexacycle.json](./115643-hexacycle.json) |
 | Hexad | 173912 | [173912-hexad.json](./173912-hexad.json) |
 | Hexadecordle | 194882 | [194882-hexadecordle.json](./194882-hexadecordle.json) |
@@ -8927,6 +8929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Lemmings | 92819 | [92819-holiday-lemmings.json](./92819-holiday-lemmings.json) |
 | Holiday Maker | 74396 | [74396-holiday-maker.json](./74396-holiday-maker.json) |
 | Holiday Mania | 157183 | [157183-holiday-mania.json](./157183-holiday-mania.json) |
+| Holiday Mosaics Christmas Puzzles | 157807 | [157807-holiday-mosaics-christmas-puzzles.json](./157807-holiday-mosaics-christmas-puzzles.json) |
 | Holiday Mosaics: Halloween Puzzles | 173439 | [173439-holiday-mosaics-halloween-puzzles.json](./173439-holiday-mosaics-halloween-puzzles.json) |
 | Holiday Party: Mascot Brawl | 258269 | [258269-holiday-party-mascot-brawl.json](./258269-holiday-party-mascot-brawl.json) |
 | Holiday Present Hunt | 349501 | [349501-holiday-present-hunt.json](./349501-holiday-present-hunt.json) |
