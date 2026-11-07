@@ -3649,6 +3649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let It Ride! | 392938 | [392938-let-it-ride.json](./392938-let-it-ride.json) |
 | Let It Roll | 222244 | [222244-let-it-roll.json](./222244-let-it-roll.json) |
 | Let it Roll 2 | 192043 | [192043-let-it-roll-2.json](./192043-let-it-roll-2.json) |
+| Let it roll slide puzzle | 148097 | [148097-let-it-roll-slide-puzzle.json](./148097-let-it-roll-slide-puzzle.json) |
 | Let It Slide | 188768 | [188768-let-it-slide.json](./188768-let-it-slide.json) |
 | Let Me Book | 323433 | [323433-let-me-book.json](./323433-let-me-book.json) |
 | Let Me Die | 419163 | [419163-let-me-die.json](./419163-let-me-die.json) |
