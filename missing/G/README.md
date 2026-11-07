@@ -3209,6 +3209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geo Puzzle | 47888 | [47888-geo-puzzle.json](./47888-geo-puzzle.json) |
 | Geo Storm | 38652 | [38652-geo-storm.json](./38652-geo-storm.json) |
 | GEO Wunder Natur Puzzle: Echter Puzzlespass für Unterwegs | 252661 | [252661-geo-wunder-natur-puzzle-echter-puzzlespass-fur-unterwegs.json](./252661-geo-wunder-natur-puzzle-echter-puzzlespass-fur-unterwegs.json) |
+| Geo Zombies | 190799 | [190799-geo-zombies.json](./190799-geo-zombies.json) |
 | Geo-Deux | 340297 | [340297-geo-deux.json](./340297-geo-deux.json) |
 | Geo-Duck | 165078 | [165078-geo-duck.json](./165078-geo-duck.json) |
 | Geo-Political Simulator | 79943 | [79943-geo-political-simulator.json](./79943-geo-political-simulator.json) |
@@ -9244,6 +9245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Griddlers Legend of the Pirates | 106891 | [106891-griddlers-legend-of-the-pirates.json](./106891-griddlers-legend-of-the-pirates.json) |
 | Griddlers Plus | 227824 | [227824-griddlers-plus.json](./227824-griddlers-plus.json) |
 | Griddlers Victorian Picnic | 94878 | [94878-griddlers-victorian-picnic.json](./94878-griddlers-victorian-picnic.json) |
+| Griddlers: Beach Season | 190816 | [190816-griddlers-beach-season.json](./190816-griddlers-beach-season.json) |
 | Griddy | 213318 | [213318-griddy.json](./213318-griddy.json) |
 | GridEnergy | 416665 | [416665-gridenergy.json](./416665-gridenergy.json) |
 | Gridfall | 373119 | [373119-gridfall.json](./373119-gridfall.json) |
