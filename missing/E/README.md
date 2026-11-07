@@ -3849,6 +3849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Space 2: Lost Symphony | 355686 | [355686-endless-space-2-lost-symphony.json](./355686-endless-space-2-lost-symphony.json) |
 | Endless Space 2: Penumbra | 114034 | [114034-endless-space-2-penumbra.json](./114034-endless-space-2-penumbra.json) |
 | Endless Space 2: Supremacy | 148835 | [148835-endless-space-2-supremacy.json](./148835-endless-space-2-supremacy.json) |
+| Endless Space 2: Untold Tales | 168465 | [168465-endless-space-2-untold-tales.json](./168465-endless-space-2-untold-tales.json) |
 | Endless Space 2: Vaulters | 82431 | [82431-endless-space-2-vaulters.json](./82431-endless-space-2-vaulters.json) |
 | Endless Space VIP | 339750 | [339750-endless-space-vip.json](./339750-endless-space-vip.json) |
 | Endless Space: Definitive Edition | 231650 | [231650-endless-space-definitive-edition.json](./231650-endless-space-definitive-edition.json) |
@@ -3887,6 +3888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Waves Survival | 201369 | [201369-endless-waves-survival.json](./201369-endless-waves-survival.json) |
 | Endless Winter | 36970 | [36970-endless-winter.json](./36970-endless-winter.json) |
 | Endless World | 106312 | [106312-endless-world.json](./106312-endless-world.json) |
+| Endless World: Ice and Fire Mercenary Pack | 168466 | [168466-endless-world-ice-and-fire-mercenary-pack.json](./168466-endless-world-ice-and-fire-mercenary-pack.json) |
 | Endless Zombie Tower | 151172 | [151172-endless-zombie-tower.json](./151172-endless-zombie-tower.json) |
 | Endless Zombie Weekend | 190384 | [190384-endless-zombie-weekend.json](./190384-endless-zombie-weekend.json) |
 | Endless Zone | 140043 | [140043-endless-zone.json](./140043-endless-zone.json) |
@@ -5445,6 +5447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Halloween Forest | 226518 | [226518-escape-halloween-forest.json](./226518-escape-halloween-forest.json) |
 | Escape Her | 389589 | [389589-escape-her.json](./389589-escape-her.json) |
 | Escape Him. | 267802 | [267802-escape-him.json](./267802-escape-him.json) |
+| Escape Hospital | 168491 | [168491-escape-hospital.json](./168491-escape-hospital.json) |
 | Escape House | 357145 | [357145-escape-house.json](./357145-escape-house.json) |
 | Escape If You Can | 205866 | [205866-escape-if-you-can.json](./205866-escape-if-you-can.json) |
 | Escape If You Can | 377280 | [377280-escape-if-you-can.json](./377280-escape-if-you-can.json) |
