@@ -1660,6 +1660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrologium | 372404 | [372404-necrologium.json](./372404-necrologium.json) |
 | Necrology | 381660 | [381660-necrology.json](./381660-necrology.json) |
 | Necromage | 305706 | [305706-necromage.json](./305706-necromage.json) |
+| Necromancer | 145147 | [145147-necromancer.json](./145147-necromancer.json) |
 | Necromancer | 313953 | [313953-necromancer.json](./313953-necromancer.json) |
 | Necromancer | 377196 | [377196-necromancer.json](./377196-necromancer.json) |
 | Necromancer | 76450 | [76450-necromancer.json](./76450-necromancer.json) |
@@ -2518,6 +2519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Marble Rust | 267019 | [267019-neon-marble-rust.json](./267019-neon-marble-rust.json) |
 | Neon Merger | 339309 | [339309-neon-merger.json](./339309-neon-merger.json) |
 | Neon Mine | 218841 | [218841-neon-mine.json](./218841-neon-mine.json) |
+| Neon Moon | 145129 | [145129-neon-moon.json](./145129-neon-moon.json) |
 | Neon Net | 291569 | [291569-neon-net.json](./291569-neon-net.json) |
 | Neon Nexus | 244933 | [244933-neon-nexus.json](./244933-neon-nexus.json) |
 | Neon Nexus | 301973 | [301973-neon-nexus.json](./301973-neon-nexus.json) |
