@@ -934,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Världsmästarna | 71866 | [71866-varldsmastarna.json](./71866-varldsmastarna.json) |
 | Varlet | 341552 | [341552-varlet.json](./341552-varlet.json) |
 | Varlet: Digital DX Edition | 358664 | [358664-varlet-digital-dx-edition.json](./358664-varlet-digital-dx-edition.json) |
+| Varmalis | 169500 | [169500-varmalis.json](./169500-varmalis.json) |
 | Varmint's Eittris | 405759 | [405759-varmints-eittris.json](./405759-varmints-eittris.json) |
 | Varmintz | 9063 | [9063-varmintz.json](./9063-varmintz.json) |
 | Varney Lake | 210565 | [210565-varney-lake.json](./210565-varney-lake.json) |
