@@ -4928,6 +4928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Game | 130140 | [130140-cave-game.json](./130140-cave-game.json) |
 | Cave Ghost | 368480 | [368480-cave-ghost.json](./368480-cave-ghost.json) |
 | Cave Girl Clair | 309340 | [309340-cave-girl-clair.json](./309340-cave-girl-clair.json) |
+| Cave Golf Master | 181984 | [181984-cave-golf-master.json](./181984-cave-golf-master.json) |
 | Cave Guessers | 154079 | [154079-cave-guessers.json](./154079-cave-guessers.json) |
 | Cave Halls | 313962 | [313962-cave-halls.json](./313962-cave-halls.json) |
 | Cave Heroes | 227254 | [227254-cave-heroes.json](./227254-cave-heroes.json) |
@@ -8154,6 +8155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Clicker: Idle Gift Builder | 113001 | [113001-christmas-clicker-idle-gift-builder.json](./113001-christmas-clicker-idle-gift-builder.json) |
 | Christmas Clix | 51124 | [51124-christmas-clix.json](./51124-christmas-clix.json) |
 | Christmas Collection | 137910 | [137910-christmas-collection.json](./137910-christmas-collection.json) |
+| Christmas Cookie | 182011 | [182011-christmas-cookie.json](./182011-christmas-cookie.json) |
 | Christmas Corp | 284970 | [284970-christmas-corp.json](./284970-christmas-corp.json) |
 | Christmas Countdown | 303733 | [303733-christmas-countdown.json](./303733-christmas-countdown.json) |
 | Christmas Country | 45938 | [45938-christmas-country.json](./45938-christmas-country.json) |
@@ -9794,6 +9796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Evil: The Comeback | 272815 | [272815-clash-of-evil-the-comeback.json](./272815-clash-of-evil-the-comeback.json) |
 | Clash of Fingers | 237958 | [237958-clash-of-fingers.json](./237958-clash-of-fingers.json) |
 | Clash of Glory | 196408 | [196408-clash-of-glory.json](./196408-clash-of-glory.json) |
+| Clash of Golf Friends | 181991 | [181991-clash-of-golf-friends.json](./181991-clash-of-golf-friends.json) |
 | Clash of Irons: Blitzkrieg | 157483 | [157483-clash-of-irons-blitzkrieg.json](./157483-clash-of-irons-blitzkrieg.json) |
 | Clash of Kings | 15200 | [15200-clash-of-kings.json](./15200-clash-of-kings.json) |
 | Clash of Kings: The West | 194057 | [194057-clash-of-kings-the-west.json](./194057-clash-of-kings-the-west.json) |
@@ -13540,6 +13543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confound Game | 358222 | [358222-confound-game.json](./358222-confound-game.json) |
 | Confront | 373839 | [373839-confront.json](./373839-confront.json) |
 | Confrontation | 282719 | [282719-confrontation.json](./282719-confrontation.json) |
+| Confrontation of Kings: Kings Landing | 182003 | [182003-confrontation-of-kings-kings-landing.json](./182003-confrontation-of-kings-kings-landing.json) |
 | Confrontation: Battle for Black Gold | 363313 | [363313-confrontation-battle-for-black-gold.json](./363313-confrontation-battle-for-black-gold.json) |
 | Confronted | 291708 | [291708-confronted.json](./291708-confronted.json) |
 | Confronter: The Tower of Time | 52313 | [52313-confronter-the-tower-of-time.json](./52313-confronter-the-tower-of-time.json) |
@@ -15464,6 +15468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cotorro en Mano | 334712 | [334712-cotorro-en-mano.json](./334712-cotorro-en-mano.json) |
 | Cotropitorii | 113007 | [113007-cotropitorii.json](./113007-cotropitorii.json) |
 | Cottage Garden | 74224 | [74224-cottage-garden.json](./74224-cottage-garden.json) |
+| Cotton 100% | 182015 | [182015-cotton-100.json](./182015-cotton-100.json) |
 | Cotton 100% | 38359 | [38359-cotton-100.json](./38359-cotton-100.json) |
 | Cotton 16Bit Tribute | 212332 | [212332-cotton-16bit-tribute.json](./212332-cotton-16bit-tribute.json) |
 | Cotton 16Bit Tribute: Special Pack - Limited Edition | 212321 | [212321-cotton-16bit-tribute-special-pack-limited-edition.json](./212321-cotton-16bit-tribute-special-pack-limited-edition.json) |
