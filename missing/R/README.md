@@ -2223,6 +2223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravage Fist | 417716 | [417716-ravage-fist.json](./417716-ravage-fist.json) |
 | Ravage Road | 228458 | [228458-ravage-road.json](./228458-ravage-road.json) |
 | Ravaged | 3268 | [3268-ravaged.json](./3268-ravaged.json) |
+| Ravaged Space | 179797 | [179797-ravaged-space.json](./179797-ravaged-space.json) |
 | Ravaged: Zombie Apocalypse | 10752 | [10752-ravaged-zombie-apocalypse.json](./10752-ravaged-zombie-apocalypse.json) |
 | Ravager | 55676 | [55676-ravager.json](./55676-ravager.json) |
 | Ravager: Moon-friendly Edition | 360450 | [360450-ravager-moon-friendly-edition.json](./360450-ravager-moon-friendly-edition.json) |
@@ -6747,6 +6748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rewind to Fear: The Mansion | 342003 | [342003-rewind-to-fear-the-mansion.json](./342003-rewind-to-fear-the-mansion.json) |
 | Rewind: One Last Chance | 197736 | [197736-rewind-one-last-chance.json](./197736-rewind-one-last-chance.json) |
 | Rewindead | 382756 | [382756-rewindead.json](./382756-rewindead.json) |
+| Rewinder | 179784 | [179784-rewinder.json](./179784-rewinder.json) |
 | Rewinder | 183315 | [183315-rewinder.json](./183315-rewinder.json) |
 | Rewinder | 184227 | [184227-rewinder.json](./184227-rewinder.json) |
 | RewindGirl | 302997 | [302997-rewindgirl.json](./302997-rewindgirl.json) |
