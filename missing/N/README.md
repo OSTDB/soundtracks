@@ -2362,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Abyss: Alter Ego | 172094 | [172094-neon-abyss-alter-ego.json](./172094-neon-abyss-alter-ego.json) |
 | Neon Abyss: Chrono Trap | 193164 | [193164-neon-abyss-chrono-trap.json](./193164-neon-abyss-chrono-trap.json) |
 | Neon Abyss: Deluxe Edition | 169182 | [169182-neon-abyss-deluxe-edition.json](./169182-neon-abyss-deluxe-edition.json) |
+| Neon Abyss: Deluxe Edition Bundle | 164630 | [164630-neon-abyss-deluxe-edition-bundle.json](./164630-neon-abyss-deluxe-edition-bundle.json) |
 | Neon Abyss: Infinity | 212552 | [212552-neon-abyss-infinity.json](./212552-neon-abyss-infinity.json) |
 | Neon Abyss: The Lovable Rogues Pack | 237993 | [237993-neon-abyss-the-lovable-rogues-pack.json](./237993-neon-abyss-the-lovable-rogues-pack.json) |
 | Neon Aileron | 110736 | [110736-neon-aileron.json](./110736-neon-aileron.json) |
