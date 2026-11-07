@@ -5705,6 +5705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Willy Beamish | 2205 | [2205-the-adventures-of-willy-beamish.json](./2205-the-adventures-of-willy-beamish.json) |
 | The Adventures of Wolf and Hood: A Jigsaw Tale | 154971 | [154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json](./154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json) |
 | The Adventures of Zomboy | 323281 | [323281-the-adventures-of-zomboy.json](./323281-the-adventures-of-zomboy.json) |
+| The Adventures on Uranus | 158838 | [158838-the-adventures-on-uranus.json](./158838-the-adventures-on-uranus.json) |
 | The Advisor: Episode 1 - Royal Pain | 171189 | [171189-the-advisor-episode-1-royal-pain.json](./171189-the-advisor-episode-1-royal-pain.json) |
 | The Aegis Saga | 131749 | [131749-the-aegis-saga.json](./131749-the-aegis-saga.json) |
 | The Aeon Fall | 398188 | [398188-the-aeon-fall.json](./398188-the-aeon-fall.json) |
@@ -9230,6 +9231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Factory Must Fall | 394065 | [394065-the-factory-must-fall.json](./394065-the-factory-must-fall.json) |
 | The Factory Must Grow | 317295 | [317295-the-factory-must-grow.json](./317295-the-factory-must-grow.json) |
 | The Factory Must Survive | 105207 | [105207-the-factory-must-survive.json](./105207-the-factory-must-survive.json) |
+| The Faded | 158836 | [158836-the-faded.json](./158836-the-faded.json) |
 | The Fading of Nicole Wilson | 319711 | [319711-the-fading-of-nicole-wilson.json](./319711-the-fading-of-nicole-wilson.json) |
 | The Fae King Is My Roommate | 342076 | [342076-the-fae-king-is-my-roommate.json](./342076-the-fae-king-is-my-roommate.json) |
 | The Faery Tale Adventure | 12087 | [12087-the-faery-tale-adventure.json](./12087-the-faery-tale-adventure.json) |
@@ -10588,6 +10590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hardest BrickBreaker | 113708 | [113708-the-hardest-brickbreaker.json](./113708-the-hardest-brickbreaker.json) |
 | The Hardest Dungeon | 99040 | [99040-the-hardest-dungeon.json](./99040-the-hardest-dungeon.json) |
 | The Hardest Game Ever | 265045 | [265045-the-hardest-game-ever.json](./265045-the-hardest-game-ever.json) |
+| The Hardest Game in the Universe | 158839 | [158839-the-hardest-game-in-the-universe.json](./158839-the-hardest-game-in-the-universe.json) |
 | The hardest game in the universe 2 | 197201 | [197201-the-hardest-game-in-the-universe-2.json](./197201-the-hardest-game-in-the-universe-2.json) |
 | The Hardest Game in the Universe 2: Bridging to the Third Chapter | 310404 | [310404-the-hardest-game-in-the-universe-2-bridging-to-the-third-chapter.json](./310404-the-hardest-game-in-the-universe-2-bridging-to-the-third-chapter.json) |
 | The hardest game in the universe 2: Final DLC | 290010 | [290010-the-hardest-game-in-the-universe-2-final-dlc.json](./290010-the-hardest-game-in-the-universe-2-final-dlc.json) |
@@ -16337,6 +16340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seven Enchantments | 348592 | [348592-the-seven-enchantments.json](./348592-the-seven-enchantments.json) |
 | The Seven Games of the Soul | 13775 | [13775-the-seven-games-of-the-soul.json](./13775-the-seven-games-of-the-soul.json) |
 | The Seven Gates of Jambala | 12763 | [12763-the-seven-gates-of-jambala.json](./12763-the-seven-gates-of-jambala.json) |
+| The Seven Keys: Escape Room | 158854 | [158854-the-seven-keys-escape-room.json](./158854-the-seven-keys-escape-room.json) |
 | The Seven Realms: Realm - Pythonium | 331105 | [331105-the-seven-realms-realm-pythonium.json](./331105-the-seven-realms-realm-pythonium.json) |
 | The Seven Realms: Realm 1 - Terran | 330743 | [330743-the-seven-realms-realm-1-terran.json](./330743-the-seven-realms-realm-1-terran.json) |
 | The Seven Realms: Realm 3 - High Lathión | 267673 | [267673-the-seven-realms-realm-3-high-lathion.json](./267673-the-seven-realms-realm-3-high-lathion.json) |
@@ -20209,6 +20213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Game Is Not Real | 392825 | [392825-this-game-is-not-real.json](./392825-this-game-is-not-real.json) |
 | This Game is Self-Aware | 177324 | [177324-this-game-is-self-aware.json](./177324-this-game-is-self-aware.json) |
 | This Game is Simple | 416121 | [416121-this-game-is-simple.json](./416121-this-game-is-simple.json) |
+| This Game is Trash | 158831 | [158831-this-game-is-trash.json](./158831-this-game-is-trash.json) |
 | This Game Might Improve Your Memory | 149695 | [149695-this-game-might-improve-your-memory.json](./149695-this-game-might-improve-your-memory.json) |
 | This Game Will End In 205 Clicks. | 359013 | [359013-this-game-will-end-in-205-clicks.json](./359013-this-game-will-end-in-205-clicks.json) |
 | This Girl Does Not Exist | 215727 | [215727-this-girl-does-not-exist.json](./215727-this-girl-does-not-exist.json) |
