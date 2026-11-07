@@ -18306,6 +18306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Twins | 128337 | [128337-the-twins.json](./128337-the-twins.json) |
 | The Twins | 324870 | [324870-the-twins.json](./324870-the-twins.json) |
 | The Twins: Ninja War Legends | 299194 | [299194-the-twins-ninja-war-legends.json](./299194-the-twins-ninja-war-legends.json) |
+| The Twins' Experiment | 172874 | [172874-the-twins-experiment.json](./172874-the-twins-experiment.json) |
 | The Twisted Dream | 323354 | [323354-the-twisted-dream.json](./323354-the-twisted-dream.json) |
 | The Twisted Factory | 184802 | [184802-the-twisted-factory.json](./184802-the-twisted-factory.json) |
 | The Twisted Tales of Spike McFang | 16295 | [16295-the-twisted-tales-of-spike-mcfang.json](./16295-the-twisted-tales-of-spike-mcfang.json) |
@@ -25611,6 +25612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Dog | 213411 | [213411-top-dog.json](./213411-top-dog.json) |
 | Top Down Battlegrounds | 292850 | [292850-top-down-battlegrounds.json](./292850-top-down-battlegrounds.json) |
 | Top Down Racer | 107883 | [107883-top-down-racer.json](./107883-top-down-racer.json) |
+| Top Down Racer | 172848 | [172848-top-down-racer.json](./172848-top-down-racer.json) |
 | Top Down Zombies | 214027 | [214027-top-down-zombies.json](./214027-top-down-zombies.json) |
 | Top Drives | 88508 | [88508-top-drives.json](./88508-top-drives.json) |
 | Top Duck | 280930 | [280930-top-duck.json](./280930-top-duck.json) |
