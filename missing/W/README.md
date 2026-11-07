@@ -5135,6 +5135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Arms Alter Code: F | 1680 | [1680-wild-arms-alter-code-f.json](./1680-wild-arms-alter-code-f.json) |
 | Wild Arms XF | 1683 | [1683-wild-arms-xf.json](./1683-wild-arms-xf.json) |
 | Wild Arms: Million Memories | 26383 | [26383-wild-arms-million-memories.json](./26383-wild-arms-million-memories.json) |
+| Wild Baffo | 159960 | [159960-wild-baffo.json](./159960-wild-baffo.json) |
 | Wild Bastards | 278602 | [278602-wild-bastards.json](./278602-wild-bastards.json) |
 | Wild Beyond | 124510 | [124510-wild-beyond.json](./124510-wild-beyond.json) |
 | Wild Beyond | 124696 | [124696-wild-beyond.json](./124696-wild-beyond.json) |
@@ -6282,6 +6283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wish World | 197546 | [197546-wish-world.json](./197546-wish-world.json) |
 | Wish You All the Best | 402934 | [402934-wish-you-all-the-best.json](./402934-wish-you-all-the-best.json) |
 | Wish You Happiness | 310043 | [310043-wish-you-happiness.json](./310043-wish-you-happiness.json) |
+| Wish: Paradise High | 159968 | [159968-wish-paradise-high.json](./159968-wish-paradise-high.json) |
 | Wishbind | 254578 | [254578-wishbind.json](./254578-wishbind.json) |
 | Wishbone: Activity Zone | 219142 | [219142-wishbone-activity-zone.json](./219142-wishbone-activity-zone.json) |
 | Wishbound | 410647 | [410647-wishbound.json](./410647-wishbound.json) |
