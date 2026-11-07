@@ -1313,6 +1313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Galaxy Hero | 69784 | [69784-last-galaxy-hero.json](./69784-last-galaxy-hero.json) |
 | Last Game of the Decade 2019 | 229630 | [229630-last-game-of-the-decade-2019.json](./229630-last-game-of-the-decade-2019.json) |
 | Last Gang Standing | 159843 | [159843-last-gang-standing.json](./159843-last-gang-standing.json) |
+| Last Gary | 188739 | [188739-last-gary.json](./188739-last-gary.json) |
 | Last Genesis | 175851 | [175851-last-genesis.json](./175851-last-genesis.json) |
 | Last Gleam | 182073 | [182073-last-gleam.json](./182073-last-gleam.json) |
 | Last God's Bidding | 272956 | [272956-last-gods-bidding.json](./272956-last-gods-bidding.json) |
@@ -1509,6 +1510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Soul | 142925 | [142925-last-soul.json](./142925-last-soul.json) |
 | Last Soul | 343776 | [343776-last-soul.json](./343776-last-soul.json) |
 | Last Souls | 195971 | [195971-last-souls.json](./195971-last-souls.json) |
+| Last Space Guardian | 188740 | [188740-last-space-guardian.json](./188740-last-space-guardian.json) |
 | Last Spartan: Glory Over Madness | 261594 | [261594-last-spartan-glory-over-madness.json](./261594-last-spartan-glory-over-madness.json) |
 | Last Spirit PBT | 326250 | [326250-last-spirit-pbt.json](./326250-last-spirit-pbt.json) |
 | Last Stance: A JuVentures Game | 244716 | [244716-last-stance-a-juventures-game.json](./244716-last-stance-a-juventures-game.json) |
