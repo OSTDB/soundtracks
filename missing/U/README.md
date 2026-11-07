@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFOre: Space Idle | 389694 | [389694-ufore-space-idle.json](./389694-ufore-space-idle.json) |
 | UFOs Love Cows | 60513 | [60513-ufos-love-cows.json](./60513-ufos-love-cows.json) |
 | UfoScare | 236861 | [236861-ufoscare.json](./236861-ufoscare.json) |
+| Ufotofu: Hex | 187600 | [187600-ufotofu-hex.json](./187600-ufotofu-hex.json) |
 | Ufouria: The Saga 2 | 274086 | [274086-ufouria-the-saga-2.json](./274086-ufouria-the-saga-2.json) |
 | UFS League | 207883 | [207883-ufs-league.json](./207883-ufs-league.json) |
 | UG | 370848 | [370848-ug.json](./370848-ug.json) |
