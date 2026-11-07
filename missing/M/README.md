@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.I.A.: Mission in Asia | 53384 | [53384-m-i-a-mission-in-asia.json](./53384-m-i-a-mission-in-asia.json) |
 | M.I.C.E. | 168676 | [168676-m-i-c-e.json](./168676-m-i-c-e.json) |
 | M.I.N.D. | 95234 | [95234-m-i-n-d.json](./95234-m-i-n-d.json) |
+| M.I.N.E. | 176611 | [176611-m-i-n-e.json](./176611-m-i-n-e.json) |
 | M.I.N.S.K. | 331788 | [331788-m-i-n-s-k.json](./331788-m-i-n-s-k.json) |
 | M.I.S.V VR | 173963 | [173963-m-i-s-v-vr.json](./173963-m-i-s-v-vr.json) |
 | M.O.O.D.S. | 199487 | [199487-m-o-o-d-s.json](./199487-m-o-o-d-s.json) |
@@ -2381,6 +2382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maji Kyun! Renaissance | 131913 | [131913-maji-kyun-renaissance.json](./131913-maji-kyun-renaissance.json) |
 | MaJiang | 160250 | [160250-majiang.json](./160250-majiang.json) |
 | Majid, Smash'Em! | 176842 | [176842-majid-smashem.json](./176842-majid-smashem.json) |
+| Majid, Survive! | 176592 | [176592-majid-survive.json](./176592-majid-survive.json) |
 | Majigire Genkai OL-chan | 308867 | [308867-majigire-genkai-ol-chan.json](./308867-majigire-genkai-ol-chan.json) |
 | Majikoi! Love Me Seriously! | 65611 | [65611-majikoi-love-me-seriously.json](./65611-majikoi-love-me-seriously.json) |
 | Majime ni Fumajime Kaiketsu Zorori - Kyoufu no Takarabako | 124487 | [124487-majime-ni-fumajime-kaiketsu-zorori-kyoufu-no-takarabako.json](./124487-majime-ni-fumajime-kaiketsu-zorori-kyoufu-no-takarabako.json) |
@@ -5968,7 +5970,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -12712,6 +12713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper: Soukaitei | 308607 | [308607-minesweeper-soukaitei.json](./308607-minesweeper-soukaitei.json) |
 | Minesweeper: The Clean One | 180245 | [180245-minesweeper-the-clean-one.json](./180245-minesweeper-the-clean-one.json) |
 | Minesweeper: Widget Edition | 175570 | [175570-minesweeper-widget-edition.json](./175570-minesweeper-widget-edition.json) |
+| Minesweeper.io | 176569 | [176569-minesweeper-io.json](./176569-minesweeper-io.json) |
 | MineSweeper.R | 389523 | [389523-minesweeper-r.json](./389523-minesweeper-r.json) |
 | Mineswifter | 138189 | [138189-mineswifter.json](./138189-mineswifter.json) |
 | Minetic | 349893 | [349893-minetic.json](./349893-minetic.json) |
