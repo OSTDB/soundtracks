@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maggie's Apartment | 50504 | [50504-maggies-apartment.json](./50504-maggies-apartment.json) |
 | Maggie's Grinning Soul | 182145 | [182145-maggies-grinning-soul.json](./182145-maggies-grinning-soul.json) |
 | Maggie's Movies - Camera, Action! | 61879 | [61879-maggies-movies-camera-action.json](./61879-maggies-movies-camera-action.json) |
+| Maggie's Movies: Camera, Action! - Collector's Edition | 177098 | [177098-maggies-movies-camera-action-collectors-edition.json](./177098-maggies-movies-camera-action-collectors-edition.json) |
 | Maggie's Movies: Second Shot | 132789 | [132789-maggies-movies-second-shot.json](./132789-maggies-movies-second-shot.json) |
 | Maggie's Rainy Ride | 375334 | [375334-maggies-rainy-ride.json](./375334-maggies-rainy-ride.json) |
 | Maggot Face | 229768 | [229768-maggot-face.json](./229768-maggot-face.json) |
@@ -4865,6 +4866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mary King's Riding Star | 64921 | [64921-mary-kings-riding-star.json](./64921-mary-kings-riding-star.json) |
 | Mary Knots: Garden Wedding | 170554 | [170554-mary-knots-garden-wedding.json](./170554-mary-knots-garden-wedding.json) |
 | Mary Le Chef: Cooking Passion | 41940 | [41940-mary-le-chef-cooking-passion.json](./41940-mary-le-chef-cooking-passion.json) |
+| Mary le Chef: Cooking Passion - Platinum Edition | 177097 | [177097-mary-le-chef-cooking-passion-platinum-edition.json](./177097-mary-le-chef-cooking-passion-platinum-edition.json) |
 | Mary Shelley's Frankenstein | 257663 | [257663-mary-shelleys-frankenstein.json](./257663-mary-shelleys-frankenstein.json) |
 | Mary Shelley's Frankenstein / Bram Stoker's Dracula | 257664 | [257664-mary-shelleys-frankenstein-bram-stokers-dracula.json](./257664-mary-shelleys-frankenstein-bram-stokers-dracula.json) |
 | Mary Skelter 2 | 89548 | [89548-mary-skelter-2.json](./89548-mary-skelter-2.json) |
@@ -9299,6 +9301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merchants of Rosewall | 292603 | [292603-merchants-of-rosewall.json](./292603-merchants-of-rosewall.json) |
 | Merchants of Sol | 207380 | [207380-merchants-of-sol.json](./207380-merchants-of-sol.json) |
 | Merchants of the Caribbean | 160182 | [160182-merchants-of-the-caribbean.json](./160182-merchants-of-the-caribbean.json) |
+| Merchants of the Caribbean: Collector's Edition | 177102 | [177102-merchants-of-the-caribbean-collectors-edition.json](./177102-merchants-of-the-caribbean-collectors-edition.json) |
 | Merchants of the Stars | 348404 | [348404-merchants-of-the-stars.json](./348404-merchants-of-the-stars.json) |
 | Mercie and the Fairies | 373858 | [373858-mercie-and-the-fairies.json](./373858-mercie-and-the-fairies.json) |
 | Merciful Girl | 223957 | [223957-merciful-girl.json](./223957-merciful-girl.json) |
@@ -16506,6 +16509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monument Builders: Cathedral Rising | 294444 | [294444-monument-builders-cathedral-rising.json](./294444-monument-builders-cathedral-rising.json) |
 | Monument Builders: Colosseum | 24752 | [24752-monument-builders-colosseum.json](./24752-monument-builders-colosseum.json) |
 | Monument Builders: Golden Gate Bridge | 295451 | [295451-monument-builders-golden-gate-bridge.json](./295451-monument-builders-golden-gate-bridge.json) |
+| Monument Builders: Notre Dame | 177113 | [177113-monument-builders-notre-dame.json](./177113-monument-builders-notre-dame.json) |
 | Monument Builders: Rushmore | 58648 | [58648-monument-builders-rushmore.json](./58648-monument-builders-rushmore.json) |
 | Monument Builders: Statue of Liberty | 356134 | [356134-monument-builders-statue-of-liberty.json](./356134-monument-builders-statue-of-liberty.json) |
 | Monument Builders: Titanic | 295452 | [295452-monument-builders-titanic.json](./295452-monument-builders-titanic.json) |
@@ -20790,6 +20794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Last Stand: Survivors | 389549 | [389549-my-last-stand-survivors.json](./389549-my-last-stand-survivors.json) |
 | My Legend of Immortal Cultivation | 265317 | [265317-my-legend-of-immortal-cultivation.json](./265317-my-legend-of-immortal-cultivation.json) |
 | My Lego Network | 321552 | [321552-my-lego-network.json](./321552-my-lego-network.json) |
+| My Legs Got Tubed | 177140 | [177140-my-legs-got-tubed.json](./177140-my-legs-got-tubed.json) |
 | My Leisure Time | 395121 | [395121-my-leisure-time.json](./395121-my-leisure-time.json) |
 | My Lewd Adventure | 341350 | [341350-my-lewd-adventure.json](./341350-my-lewd-adventure.json) |
 | My Lewd OS | 297150 | [297150-my-lewd-os.json](./297150-my-lewd-os.json) |
