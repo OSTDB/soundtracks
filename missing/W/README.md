@@ -4002,6 +4002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheelie City | 338378 | [338378-wheelie-city.json](./338378-wheelie-city.json) |
 | Wheelie King 3D | 104656 | [104656-wheelie-king-3d.json](./104656-wheelie-king-3d.json) |
 | Wheelie King 7 | 338377 | [338377-wheelie-king-7.json](./338377-wheelie-king-7.json) |
+| Wheelie King Online | 166883 | [166883-wheelie-king-online.json](./166883-wheelie-king-online.json) |
 | Wheelie King VR | 118035 | [118035-wheelie-king-vr.json](./118035-wheelie-king-vr.json) |
 | Wheelie Life | 249720 | [249720-wheelie-life.json](./249720-wheelie-life.json) |
 | Wheelie Life Simulator | 396226 | [396226-wheelie-life-simulator.json](./396226-wheelie-life-simulator.json) |
@@ -9143,6 +9144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestling Trivia | 303201 | [303201-wrestling-trivia.json](./303201-wrestling-trivia.json) |
 | Wrestling Universe: Fire Pro Women - Dome Super Female Big Battle: All Japan Women VS J.W.P. | 37627 | [37627-wrestling-universe-fire-pro-women-dome-super-female-big-battle-all-japan-women-vs-j-w-p.json](./37627-wrestling-universe-fire-pro-women-dome-super-female-big-battle-all-japan-women-vs-j-w-p.json) |
 | Wrestling With Emotions | 138546 | [138546-wrestling-with-emotions.json](./138546-wrestling-with-emotions.json) |
+| Wrestling With Emotions: New Kid on the Block | 166912 | [166912-wrestling-with-emotions-new-kid-on-the-block.json](./166912-wrestling-with-emotions-new-kid-on-the-block.json) |
 | Wret | 352871 | [352871-wret.json](./352871-wret.json) |
 | Wretch | 300743 | [300743-wretch.json](./300743-wretch.json) |
 | Wretch | 366985 | [366985-wretch.json](./366985-wretch.json) |
