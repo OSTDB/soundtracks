@@ -3929,6 +3929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Imposter | 349926 | [349926-red-imposter.json](./349926-red-imposter.json) |
 | Red Island | 120393 | [120393-red-island.json](./120393-red-island.json) |
 | Red Jets | 209254 | [209254-red-jets.json](./209254-red-jets.json) |
+| Red Johnson's Chronicles 1+2 | 186974 | [186974-red-johnsons-chronicles-1-2.json](./186974-red-johnsons-chronicles-1-2.json) |
 | Red Johnson's Chronicles: 1+2 - Steam Special Edition | 90489 | [90489-red-johnsons-chronicles-1-2-steam-special-edition.json](./90489-red-johnsons-chronicles-1-2-steam-special-edition.json) |
 | Red Johnson's Chronicles: One Against All | 25177 | [25177-red-johnsons-chronicles-one-against-all.json](./25177-red-johnsons-chronicles-one-against-all.json) |
 | Red Knight: Light RPG | 240677 | [240677-red-knight-light-rpg.json](./240677-red-knight-light-rpg.json) |
@@ -5456,6 +5457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Squad Omega | 185387 | [185387-rescue-squad-omega.json](./185387-rescue-squad-omega.json) |
 | Rescue Tale | 126485 | [126485-rescue-tale.json](./126485-rescue-tale.json) |
 | Rescue Team | 36019 | [36019-rescue-team.json](./36019-rescue-team.json) |
+| Rescue Team 10: Danger from Outer Space! - Collector's Edition | 186969 | [186969-rescue-team-10-danger-from-outer-space-collectors-edition.json](./186969-rescue-team-10-danger-from-outer-space-collectors-edition.json) |
 | Rescue Team 4 | 53502 | [53502-rescue-team-4.json](./53502-rescue-team-4.json) |
 | Rescue Team 5 | 34082 | [34082-rescue-team-5.json](./34082-rescue-team-5.json) |
 | Rescue Team 6 | 53503 | [53503-rescue-team-6.json](./53503-rescue-team-6.json) |
@@ -6165,6 +6167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrocausality | 237247 | [237247-retrocausality.json](./237247-retrocausality.json) |
 | RetroCube | 175404 | [175404-retrocube.json](./175404-retrocube.json) |
 | Retrocycles | 138417 | [138417-retrocycles.json](./138417-retrocycles.json) |
+| RetroDrift: Retrowave Online Road | 186980 | [186980-retrodrift-retrowave-online-road.json](./186980-retrodrift-retrowave-online-road.json) |
 | Retrofit: Overload | 66676 | [66676-retrofit-overload.json](./66676-retrofit-overload.json) |
 | RetroFuel | 184108 | [184108-retrofuel.json](./184108-retrofuel.json) |
 | Retrograde | 145866 | [145866-retrograde.json](./145866-retrograde.json) |
