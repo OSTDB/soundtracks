@@ -3558,6 +3558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inexperienced Driver | 207193 | [207193-inexperienced-driver.json](./207193-inexperienced-driver.json) |
 | Inexplicable Geeks: Dawn of Just Us | 96279 | [96279-inexplicable-geeks-dawn-of-just-us.json](./96279-inexplicable-geeks-dawn-of-just-us.json) |
 | Inexplicable Geeks: RestoreTheMillerCut | 253924 | [253924-inexplicable-geeks-restorethemillercut.json](./253924-inexplicable-geeks-restorethemillercut.json) |
+| InFailtration | 182623 | [182623-infailtration.json](./182623-infailtration.json) |
 | Infamous 18 | 378396 | [378396-infamous-18.json](./378396-infamous-18.json) |
 | Infamous 2: Hero Edition | 139698 | [139698-infamous-2-hero-edition.json](./139698-infamous-2-hero-edition.json) |
 | Infamous Collection | 23828 | [23828-infamous-collection.json](./23828-infamous-collection.json) |
