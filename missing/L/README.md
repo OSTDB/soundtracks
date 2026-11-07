@@ -4909,6 +4909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LightBike | 140302 | [140302-lightbike.json](./140302-lightbike.json) |
 | LightBike 2 | 234015 | [234015-lightbike-2.json](./234015-lightbike-2.json) |
 | Lightblade VR | 32546 | [32546-lightblade-vr.json](./32546-lightblade-vr.json) |
+| Lightblue | 144505 | [144505-lightblue.json](./144505-lightblue.json) |
 | Lightbot: Programming Puzzles | 88528 | [88528-lightbot-programming-puzzles.json](./88528-lightbot-programming-puzzles.json) |
 | Lightbox | 153861 | [153861-lightbox.json](./153861-lightbox.json) |
 | Lightbreak | 139003 | [139003-lightbreak.json](./139003-lightbreak.json) |
