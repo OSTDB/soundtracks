@@ -1166,6 +1166,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Kirameki Star Road | 273718 | [273718-quiz-kirameki-star-road.json](./273718-quiz-kirameki-star-road.json) |
 | Quiz Kit | 138593 | [138593-quiz-kit.json](./138593-quiz-kit.json) |
 | Quiz Magic Academy | 112143 | [112143-quiz-magic-academy.json](./112143-quiz-magic-academy.json) |
+| Quiz Magic Academy 4 | 153611 | [153611-quiz-magic-academy-4.json](./153611-quiz-magic-academy-4.json) |
+| Quiz Magic Academy 5 | 153612 | [153612-quiz-magic-academy-5.json](./153612-quiz-magic-academy-5.json) |
 | Quiz Magic Academy 6 | 153628 | [153628-quiz-magic-academy-6.json](./153628-quiz-magic-academy-6.json) |
 | Quiz Magic Academy 7 | 153630 | [153630-quiz-magic-academy-7.json](./153630-quiz-magic-academy-7.json) |
 | Quiz Magic Academy 8 | 153638 | [153638-quiz-magic-academy-8.json](./153638-quiz-magic-academy-8.json) |
