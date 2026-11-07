@@ -9441,6 +9441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Mall Renovator | 216671 | [216671-shopping-mall-renovator.json](./216671-shopping-mall-renovator.json) |
 | Shopping Mall Smart Taxi: Family Car Taxi Games | 104619 | [104619-shopping-mall-smart-taxi-family-car-taxi-games.json](./104619-shopping-mall-smart-taxi-family-car-taxi-games.json) |
 | Shopping Manager | 255761 | [255761-shopping-manager.json](./255761-shopping-manager.json) |
+| Shopping Marathon | 145116 | [145116-shopping-marathon.json](./145116-shopping-marathon.json) |
 | Shopping Match | 264014 | [264014-shopping-match.json](./264014-shopping-match.json) |
 | Shopping Nightmare | 232230 | [232230-shopping-nightmare.json](./232230-shopping-nightmare.json) |
 | Shopping Simulator | 302793 | [302793-shopping-simulator.json](./302793-shopping-simulator.json) |
@@ -19919,7 +19920,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20193,6 +20193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Pew Pew | 405934 | [405934-space-pew-pew.json](./405934-space-pew-pew.json) |
 | Space Phallus | 66369 | [66369-space-phallus.json](./66369-space-phallus.json) |
 | Space Piercer | 192251 | [192251-space-piercer.json](./192251-space-piercer.json) |
+| Space Pilgrim Academy: Year 1 | 145157 | [145157-space-pilgrim-academy-year-1.json](./145157-space-pilgrim-academy-year-1.json) |
 | Space Pilgrim Academy: Year 2 | 95596 | [95596-space-pilgrim-academy-year-2.json](./95596-space-pilgrim-academy-year-2.json) |
 | Space Pilgrim Academy: Year 3 | 109399 | [109399-space-pilgrim-academy-year-3.json](./109399-space-pilgrim-academy-year-3.json) |
 | Space Pilgrim Episode I: Alpha Centauri | 33849 | [33849-space-pilgrim-episode-i-alpha-centauri.json](./33849-space-pilgrim-episode-i-alpha-centauri.json) |
@@ -24921,6 +24922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Genesis | 383446 | [383446-star-wars-genesis.json](./383446-star-wars-genesis.json) |
 | Star Wars Genesis | 400347 | [400347-star-wars-genesis.json](./400347-star-wars-genesis.json) |
 | Star Wars Jedi Cross-Gen Bundle Edition | 312974 | [312974-star-wars-jedi-cross-gen-bundle-edition.json](./312974-star-wars-jedi-cross-gen-bundle-edition.json) |
+| Star Wars Jedi Outcast/Jedi Academy | 145123 | [145123-star-wars-jedi-outcast-jedi-academy.json](./145123-star-wars-jedi-outcast-jedi-academy.json) |
 | Star Wars Jedi: Fallen Order - Deluxe Edition | 117405 | [117405-star-wars-jedi-fallen-order-deluxe-edition.json](./117405-star-wars-jedi-fallen-order-deluxe-edition.json) |
 | Star Wars Jedi: Survivor - Deluxe Edition | 227942 | [227942-star-wars-jedi-survivor-deluxe-edition.json](./227942-star-wars-jedi-survivor-deluxe-edition.json) |
 | Star Wars Knights of the Old Republic Bundle | 204280 | [204280-star-wars-knights-of-the-old-republic-bundle.json](./204280-star-wars-knights-of-the-old-republic-bundle.json) |
