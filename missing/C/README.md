@@ -4265,6 +4265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat's Cradle | 151471 | [151471-cats-cradle.json](./151471-cats-cradle.json) |
 | Cat's Dream | 325900 | [325900-cats-dream.json](./325900-cats-dream.json) |
 | Cat's Kiss | 152296 | [152296-cats-kiss.json](./152296-cats-kiss.json) |
+| Cat's Menace | 166878 | [166878-cats-menace.json](./166878-cats-menace.json) |
 | Cat's Meow Live Wallpaper | 402102 | [402102-cats-meow-live-wallpaper.json](./402102-cats-meow-live-wallpaper.json) |
 | Cat's Princess | 150770 | [150770-cats-princess.json](./150770-cats-princess.json) |
 | Cat's Rage | 366550 | [366550-cats-rage.json](./366550-cats-rage.json) |
@@ -4467,6 +4468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch the Rhythm | 339790 | [339790-catch-the-rhythm.json](./339790-catch-the-rhythm.json) |
 | Catch the Sperm | 319974 | [319974-catch-the-sperm.json](./319974-catch-the-sperm.json) |
 | Catch the Stars | 155926 | [155926-catch-the-stars.json](./155926-catch-the-stars.json) |
+| Catch the Stars: Japan | 166879 | [166879-catch-the-stars-japan.json](./166879-catch-the-stars-japan.json) |
 | Catch the Stars: Jigsaw Puzzle | 153152 | [153152-catch-the-stars-jigsaw-puzzle.json](./153152-catch-the-stars-jigsaw-puzzle.json) |
 | Catch the thief | 202011 | [202011-catch-the-thief.json](./202011-catch-the-thief.json) |
 | Catch the Thief, if You Can! | 72456 | [72456-catch-the-thief-if-you-can.json](./72456-catch-the-thief-if-you-can.json) |
@@ -7631,6 +7633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Empire | 155923 | [155923-chinese-empire.json](./155923-chinese-empire.json) |
 | Chinese Expeditionary Force: Assault Team | 233783 | [233783-chinese-expeditionary-force-assault-team.json](./233783-chinese-expeditionary-force-assault-team.json) |
 | Chinese Fighter III | 45736 | [45736-chinese-fighter-iii.json](./45736-chinese-fighter-iii.json) |
+| Chinese Frontiers | 166908 | [166908-chinese-frontiers.json](./166908-chinese-frontiers.json) |
 | Chinese Game Company Simulator | 148798 | [148798-chinese-game-company-simulator.json](./148798-chinese-game-company-simulator.json) |
 | Chinese Hero | 19716 | [19716-chinese-hero.json](./19716-chinese-hero.json) |
 | Chinese Ink Painting Puzzle & Creator | 83996 | [83996-chinese-ink-painting-puzzle-and-creator.json](./83996-chinese-ink-painting-puzzle-and-creator.json) |
@@ -10438,6 +10441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cliffhanger | 81446 | [81446-cliffhanger.json](./81446-cliffhanger.json) |
 | Cliffhanger - Chat Stories | 87042 | [87042-cliffhanger-chat-stories.json](./87042-cliffhanger-chat-stories.json) |
 | Cliffhanger Solitaire | 398816 | [398816-cliffhanger-solitaire.json](./398816-cliffhanger-solitaire.json) |
+| Cliffhanger: Challenger of Tomorrow | 166894 | [166894-cliffhanger-challenger-of-tomorrow.json](./166894-cliffhanger-challenger-of-tomorrow.json) |
 | Cliffhorse | 18446 | [18446-cliffhorse.json](./18446-cliffhorse.json) |
 | Clifford the Big Red Dog: Learning Activities | 255656 | [255656-clifford-the-big-red-dog-learning-activities.json](./255656-clifford-the-big-red-dog-learning-activities.json) |
 | Clifford the Big Red Dog: Phonics | 70075 | [70075-clifford-the-big-red-dog-phonics.json](./70075-clifford-the-big-red-dog-phonics.json) |
@@ -11522,6 +11526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Dates | 247466 | [247466-coffee-dates.json](./247466-coffee-dates.json) |
 | Coffee Express | 320924 | [320924-coffee-express.json](./320924-coffee-express.json) |
 | Coffee Extra: Ukuzala | 320528 | [320528-coffee-extra-ukuzala.json](./320528-coffee-extra-ukuzala.json) |
+| Coffee flavor of love | 166882 | [166882-coffee-flavor-of-love.json](./166882-coffee-flavor-of-love.json) |
 | Coffee For Cthulhu | 295232 | [295232-coffee-for-cthulhu.json](./295232-coffee-for-cthulhu.json) |
 | Coffee For Robots | 219740 | [219740-coffee-for-robots.json](./219740-coffee-for-robots.json) |
 | Coffee Fun | 228765 | [228765-coffee-fun.json](./228765-coffee-fun.json) |
@@ -11795,6 +11800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Wires | 127315 | [127315-cold-wires.json](./127315-cold-wires.json) |
 | Cold Zero: No Mercy | 71726 | [71726-cold-zero-no-mercy.json](./71726-cold-zero-no-mercy.json) |
 | Cold Zero: The Last Stand | 52521 | [52521-cold-zero-the-last-stand.json](./52521-cold-zero-the-last-stand.json) |
+| Coldage | 166922 | [166922-coldage.json](./166922-coldage.json) |
 | Coldblooded | 403007 | [403007-coldblooded.json](./403007-coldblooded.json) |
 | Colddigger | 118996 | [118996-colddigger.json](./118996-colddigger.json) |
 | Coldfall | 113005 | [113005-coldfall.json](./113005-coldfall.json) |
@@ -18026,6 +18032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Shoot | 314221 | [314221-cross-shoot.json](./314221-cross-shoot.json) |
 | Cross Snake | 311957 | [311957-cross-snake.json](./311957-cross-snake.json) |
 | Cross Soul | 132453 | [132453-cross-soul.json](./132453-cross-soul.json) |
+| Cross Stitch Casper | 166893 | [166893-cross-stitch-casper.json](./166893-cross-stitch-casper.json) |
 | Cross Tails | 252437 | [252437-cross-tails.json](./252437-cross-tails.json) |
 | Cross Tantei Monogatari: Motsureta Nanatsu no Labyrinth | 122982 | [122982-cross-tantei-monogatari-motsureta-nanatsu-no-labyrinth.json](./122982-cross-tantei-monogatari-motsureta-nanatsu-no-labyrinth.json) |
 | Cross the Ages: Trading Card Game | 217807 | [217807-cross-the-ages-trading-card-game.json](./217807-cross-the-ages-trading-card-game.json) |
@@ -18207,6 +18214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossroads Inn 2 | 258245 | [258245-crossroads-inn-2.json](./258245-crossroads-inn-2.json) |
 | Crossroads Inn: Anniversary Edition | 154549 | [154549-crossroads-inn-anniversary-edition.json](./154549-crossroads-inn-anniversary-edition.json) |
 | Crossroads of Fate | 185601 | [185601-crossroads-of-fate.json](./185601-crossroads-of-fate.json) |
+| Crossroads of Helmia | 166884 | [166884-crossroads-of-helmia.json](./166884-crossroads-of-helmia.json) |
 | Crossroads of Life | 213323 | [213323-crossroads-of-life.json](./213323-crossroads-of-life.json) |
 | Crossroads OS | 272076 | [272076-crossroads-os.json](./272076-crossroads-os.json) |
 | Crossroads: Escaping the Dark - Collector's Edition | 225976 | [225976-crossroads-escaping-the-dark-collectors-edition.json](./225976-crossroads-escaping-the-dark-collectors-edition.json) |
@@ -19313,6 +19321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Rampage | 134702 | [134702-cube-rampage.json](./134702-cube-rampage.json) |
 | Cube Royale | 269035 | [269035-cube-royale.json](./269035-cube-royale.json) |
 | Cube RPG | 260211 | [260211-cube-rpg.json](./260211-cube-rpg.json) |
+| Cube Runk | 166913 | [166913-cube-runk.json](./166913-cube-runk.json) |
 | Cube Runner | 30128 | [30128-cube-runner.json](./30128-cube-runner.json) |
 | Cube Runner | 72964 | [72964-cube-runner.json](./72964-cube-runner.json) |
 | Cube Rush | 112340 | [112340-cube-rush.json](./112340-cube-rush.json) |
@@ -20440,6 +20449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cutout World | 339356 | [339356-cutout-world.json](./339356-cutout-world.json) |
 | Cutouts! | 93454 | [93454-cutouts.json](./93454-cutouts.json) |
 | Cutthroat | 80929 | [80929-cutthroat.json](./80929-cutthroat.json) |
+| Cutthroat Cove | 166901 | [166901-cutthroat-cove.json](./166901-cutthroat-cove.json) |
 | Cutthroat Gunboat | 51419 | [51419-cutthroat-gunboat.json](./51419-cutthroat-gunboat.json) |
 | Cutthroat Island | 262151 | [262151-cutthroat-island.json](./262151-cutthroat-island.json) |
 | Cutthroat Island | 262152 | [262152-cutthroat-island.json](./262152-cutthroat-island.json) |
