@@ -5964,6 +5964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -20933,6 +20934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lovely Wife: Deluxe Edition | 227184 | [227184-my-lovely-wife-deluxe-edition.json](./227184-my-lovely-wife-deluxe-edition.json) |
 | My Lovey-Dovey Angel Is a Total Deadbeat: Seriously Scary! | 411717 | [411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json](./411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json) |
 | My Lovey-Dovey Demon | 262790 | [262790-my-lovey-dovey-demon.json](./262790-my-lovey-dovey-demon.json) |
+| My Loving Wife | 179263 | [179263-my-loving-wife.json](./179263-my-loving-wife.json) |
 | My Low Poly City | 163892 | [163892-my-low-poly-city.json](./163892-my-low-poly-city.json) |
 | My Lust Wish | 160274 | [160274-my-lust-wish.json](./160274-my-lust-wish.json) |
 | My Mad Road | 100627 | [100627-my-mad-road.json](./100627-my-mad-road.json) |
@@ -22188,6 +22190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth Survivors | 419976 | [419976-myth-survivors.json](./419976-myth-survivors.json) |
 | Myth Tamer | 419978 | [419978-myth-tamer.json](./419978-myth-tamer.json) |
 | Myth War II | 57156 | [57156-myth-war-ii.json](./57156-myth-war-ii.json) |
+| Myth: A Guff's Tale | 179280 | [179280-myth-a-guffs-tale.json](./179280-myth-a-guffs-tale.json) |
 | Myth: After the Stories | 413841 | [413841-myth-after-the-stories.json](./413841-myth-after-the-stories.json) |
 | Myth: Anthology | 72025 | [72025-myth-anthology.json](./72025-myth-anthology.json) |
 | Myth: Gods of Asgard | 194065 | [194065-myth-gods-of-asgard.json](./194065-myth-gods-of-asgard.json) |
