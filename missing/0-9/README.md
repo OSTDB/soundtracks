@@ -1452,6 +1452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1x1 | 262086 | [262086-1x1.json](./262086-1x1.json) |
 | 1x1 | 328156 | [328156-1x1.json](./328156-1x1.json) |
 | 1x111 | 322853 | [322853-1x111.json](./322853-1x111.json) |
+| 2 | 178139 | [178139-2.json](./178139-2.json) |
 | 2 3 4 Player Games | 125921 | [125921-2-3-4-player-games.json](./125921-2-3-4-player-games.json) |
 | 2 American | 306755 | [306755-2-american.json](./306755-2-american.json) |
 | 2 Bit Operative | 197119 | [197119-2-bit-operative.json](./197119-2-bit-operative.json) |
@@ -2946,6 +2947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 50 Pinch Barrage!! | 21670 | [21670-50-pinch-barrage.json](./21670-50-pinch-barrage.json) |
 | 50 Rooms: Mystery World Escape | 219937 | [219937-50-rooms-mystery-world-escape.json](./219937-50-rooms-mystery-world-escape.json) |
 | 50 Shades of Graytall | 141084 | [141084-50-shades-of-graytall.json](./141084-50-shades-of-graytall.json) |
+| 50 Short Games | 178173 | [178173-50-short-games.json](./178173-50-short-games.json) |
 | 50 Tiny Room Escape | 297545 | [297545-50-tiny-room-escape.json](./297545-50-tiny-room-escape.json) |
 | 50 Waves Hero | 164981 | [164981-50-waves-hero.json](./164981-50-waves-hero.json) |
 | 50 Years | 31641 | [31641-50-years.json](./31641-50-years.json) |
