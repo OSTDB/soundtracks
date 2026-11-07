@@ -4202,6 +4202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Affiliated Homies | 357796 | [357796-affiliated-homies.json](./357796-affiliated-homies.json) |
 | Affinity | 122063 | [122063-affinity.json](./122063-affinity.json) |
 | Affinity | 144199 | [144199-affinity.json](./144199-affinity.json) |
+| Affinity | 177644 | [177644-affinity.json](./177644-affinity.json) |
 | Affinity Sorrow | 227707 | [227707-affinity-sorrow.json](./227707-affinity-sorrow.json) |
 | Affinity: Fallen from Paradise | 211262 | [211262-affinity-fallen-from-paradise.json](./211262-affinity-fallen-from-paradise.json) |
 | Afflicted | 261188 | [261188-afflicted.json](./261188-afflicted.json) |
