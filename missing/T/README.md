@@ -2042,6 +2042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TankLab | 234217 | [234217-tanklab.json](./234217-tanklab.json) |
 | Tanklike | 163349 | [163349-tanklike.json](./163349-tanklike.json) |
 | Tankman | 121635 | [121635-tankman.json](./121635-tankman.json) |
+| Tankocracy | 172286 | [172286-tankocracy.json](./172286-tankocracy.json) |
 | Tankomatron War Robots: Transform Tanks into Bots | 104634 | [104634-tankomatron-war-robots-transform-tanks-into-bots.json](./104634-tankomatron-war-robots-transform-tanks-into-bots.json) |
 | Tankorama | 115943 | [115943-tankorama.json](./115943-tankorama.json) |
 | TankOre Mining | 333030 | [333030-tankore-mining.json](./333030-tankore-mining.json) |
@@ -7222,6 +7223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chant: Limited Edition | 204914 | [204914-the-chant-limited-edition.json](./204914-the-chant-limited-edition.json) |
 | The Chant: The Gloom Below | 266387 | [266387-the-chant-the-gloom-below.json](./266387-the-chant-the-gloom-below.json) |
 | The Chantry | 118698 | [118698-the-chantry.json](./118698-the-chantry.json) |
+| The Chaos Gene | 172272 | [172272-the-chaos-gene.json](./172272-the-chaos-gene.json) |
 | The Chaotic Workshop | 105154 | [105154-the-chaotic-workshop.json](./105154-the-chaotic-workshop.json) |
 | The Chaput's Baby | 217992 | [217992-the-chaputs-baby.json](./217992-the-chaputs-baby.json) |
 | The Charge of the Light Brigade | 72467 | [72467-the-charge-of-the-light-brigade.json](./72467-the-charge-of-the-light-brigade.json) |
@@ -12530,6 +12532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Hajimari no Kiseki - Platinum Master Box | 136782 | [136782-the-legend-of-heroes-hajimari-no-kiseki-platinum-master-box.json](./136782-the-legend-of-heroes-hajimari-no-kiseki-platinum-master-box.json) |
 | The Legend of Heroes: Kuro no Kiseki II: Crimson Sin - Limited Edition | 205272 | [205272-the-legend-of-heroes-kuro-no-kiseki-ii-crimson-sin-limited-edition.json](./205272-the-legend-of-heroes-kuro-no-kiseki-ii-crimson-sin-limited-edition.json) |
 | The Legend of Heroes: Kuro no Kiseki II: Crimson Sin - Scenario Book Limited Edition | 205256 | [205256-the-legend-of-heroes-kuro-no-kiseki-ii-crimson-sin-scenario-book-limited-edition.json](./205256-the-legend-of-heroes-kuro-no-kiseki-ii-crimson-sin-scenario-book-limited-edition.json) |
+| The Legend of Heroes: Sen no Kiseki I KAI - Thors Military Academy 1204 | 172274 | [172274-the-legend-of-heroes-sen-no-kiseki-i-kai-thors-military-academy-1204.json](./172274-the-legend-of-heroes-sen-no-kiseki-i-kai-thors-military-academy-1204.json) |
 | The Legend of Heroes: Sora no Kiseki FC Evolution | 136287 | [136287-the-legend-of-heroes-sora-no-kiseki-fc-evolution.json](./136287-the-legend-of-heroes-sora-no-kiseki-fc-evolution.json) |
 | The Legend of Heroes: Sora no Kiseki FC Evolution - Chara-Ani Limited Box | 268029 | [268029-the-legend-of-heroes-sora-no-kiseki-fc-evolution-chara-ani-limited-box.json](./268029-the-legend-of-heroes-sora-no-kiseki-fc-evolution-chara-ani-limited-box.json) |
 | The Legend of Heroes: Sora no Kiseki FC Evolution - Limited Edition | 268030 | [268030-the-legend-of-heroes-sora-no-kiseki-fc-evolution-limited-edition.json](./268030-the-legend-of-heroes-sora-no-kiseki-fc-evolution-limited-edition.json) |
@@ -25790,6 +25793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tor-tor cubes | 186985 | [186985-tor-tor-cubes.json](./186985-tor-tor-cubes.json) |
 | Tora | 114381 | [114381-tora.json](./114381-tora.json) |
 | Tora he no Michi | 37647 | [37647-tora-he-no-michi.json](./37647-tora-he-no-michi.json) |
+| Tora Tora! | 172257 | [172257-tora-tora.json](./172257-tora-tora.json) |
 | Tora's Garden | 274312 | [274312-toras-garden.json](./274312-toras-garden.json) |
 | Torara no Mahjong Kyoushitsu | 397894 | [397894-torara-no-mahjong-kyoushitsu.json](./397894-torara-no-mahjong-kyoushitsu.json) |
 | Toraware Hotel | 271547 | [271547-toraware-hotel.json](./271547-toraware-hotel.json) |
@@ -32497,6 +32501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnel Town | 106380 | [106380-tunnel-town.json](./106380-tunnel-town.json) |
 | Tunnel View | 180699 | [180699-tunnel-view.json](./180699-tunnel-view.json) |
 | Tunnel Vision | 146523 | [146523-tunnel-vision.json](./146523-tunnel-vision.json) |
+| Tunnel Vision | 172303 | [172303-tunnel-vision.json](./172303-tunnel-vision.json) |
 | Tunnel Vision | 271425 | [271425-tunnel-vision.json](./271425-tunnel-vision.json) |
 | Tunnel Vision | 273873 | [273873-tunnel-vision.json](./273873-tunnel-vision.json) |
 | Tunnel VR | 125699 | [125699-tunnel-vr.json](./125699-tunnel-vr.json) |
