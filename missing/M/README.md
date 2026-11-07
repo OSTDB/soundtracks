@@ -1114,6 +1114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Encyclopedia: Illusions | 99383 | [99383-magic-encyclopedia-illusions.json](./99383-magic-encyclopedia-illusions.json) |
 | Magic Escape | 273468 | [273468-magic-escape.json](./273468-magic-escape.json) |
 | Magic Exposure 2 | 395658 | [395658-magic-exposure-2.json](./395658-magic-exposure-2.json) |
+| Magic Exposure: Yuri Visual Novel | 152955 | [152955-magic-exposure-yuri-visual-novel.json](./152955-magic-exposure-yuri-visual-novel.json) |
 | Magic Factory | 115047 | [115047-magic-factory.json](./115047-magic-factory.json) |
 | Magic Fairies Flower Kingdom | 54174 | [54174-magic-fairies-flower-kingdom.json](./54174-magic-fairies-flower-kingdom.json) |
 | Magic Fairy Tales: Barbie as Rapunzel | 19401 | [19401-magic-fairy-tales-barbie-as-rapunzel.json](./19401-magic-fairy-tales-barbie-as-rapunzel.json) |
@@ -5344,6 +5345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masterpiece Mansion | 209553 | [209553-masterpiece-mansion.json](./209553-masterpiece-mansion.json) |
 | Masterpieced | 231543 | [231543-masterpieced.json](./231543-masterpieced.json) |
 | MasterPlan | 150888 | [150888-masterplan.json](./150888-masterplan.json) |
+| Masterplan Tycoon | 152954 | [152954-masterplan-tycoon.json](./152954-masterplan-tycoon.json) |
 | MasterQ | 207536 | [207536-masterq.json](./207536-masterq.json) |
 | MasterQuest Fantasy | 378977 | [378977-masterquest-fantasy.json](./378977-masterquest-fantasy.json) |
 | Masters '98: Harukanaru Augusta | 47744 | [47744-masters-98-harukanaru-augusta.json](./47744-masters-98-harukanaru-augusta.json) |
@@ -5989,7 +5991,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9432,6 +9433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Hero | 195388 | [195388-merge-hero.json](./195388-merge-hero.json) |
 | Merge Hexa Puzzle | 348742 | [348742-merge-hexa-puzzle.json](./348742-merge-hexa-puzzle.json) |
 | Merge Hidden | 409720 | [409720-merge-hidden.json](./409720-merge-hidden.json) |
+| Merge It | 152964 | [152964-merge-it.json](./152964-merge-it.json) |
 | Merge Jelly | 208935 | [208935-merge-jelly.json](./208935-merge-jelly.json) |
 | Merge Kuya Island | 208157 | [208157-merge-kuya-island.json](./208157-merge-kuya-island.json) |
 | Merge Magic! | 139297 | [139297-merge-magic.json](./139297-merge-magic.json) |
@@ -18348,6 +18350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouryou Senki Madara | 48418 | [48418-mouryou-senki-madara.json](./48418-mouryou-senki-madara.json) |
 | Mouse (Sneaking) | 81968 | [81968-mouse-sneaking.json](./81968-mouse-sneaking.json) |
 | Mouse & Crane | 302243 | [302243-mouse-and-crane.json](./302243-mouse-and-crane.json) |
+| Mouse adventure | 152956 | [152956-mouse-adventure.json](./152956-mouse-adventure.json) |
 | Mouse and Cheese Tactics | 142636 | [142636-mouse-and-cheese-tactics.json](./142636-mouse-and-cheese-tactics.json) |
 | Mouse Attack | 42143 | [42143-mouse-attack.json](./42143-mouse-attack.json) |
 | Mouse Boy | 54228 | [54228-mouse-boy.json](./54228-mouse-boy.json) |
@@ -22080,6 +22083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Solitaire: Grimm's Tales 7 | 231817 | [231817-mystery-solitaire-grimms-tales-7.json](./231817-mystery-solitaire-grimms-tales-7.json) |
 | Mystery Solitaire: Grimm's Tales 8 | 391938 | [391938-mystery-solitaire-grimms-tales-8.json](./391938-mystery-solitaire-grimms-tales-8.json) |
 | Mystery Solitaire: Grimm's Tales 9 | 262586 | [262586-mystery-solitaire-grimms-tales-9.json](./262586-mystery-solitaire-grimms-tales-9.json) |
+| Mystery Solitaire: Powerful Alchemist | 152947 | [152947-mystery-solitaire-powerful-alchemist.json](./152947-mystery-solitaire-powerful-alchemist.json) |
 | Mystery Solitaire: Powerful Alchemist 2 | 193598 | [193598-mystery-solitaire-powerful-alchemist-2.json](./193598-mystery-solitaire-powerful-alchemist-2.json) |
 | Mystery Solitaire: Powerful Alchemist 3 | 214006 | [214006-mystery-solitaire-powerful-alchemist-3.json](./214006-mystery-solitaire-powerful-alchemist-3.json) |
 | Mystery Solitaire: Secret Island | 65176 | [65176-mystery-solitaire-secret-island.json](./65176-mystery-solitaire-secret-island.json) |
