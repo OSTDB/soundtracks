@@ -5383,6 +5383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kono Hareta Sora no Shita de | 77885 | [77885-kono-hareta-sora-no-shita-de.json](./77885-kono-hareta-sora-no-shita-de.json) |
 | Kono Koi, 5-fun de Owarimasu. | 396656 | [396656-kono-koi-5-fun-de-owarimasu.json](./396656-kono-koi-5-fun-de-owarimasu.json) |
 | Kono Koi, Seishun ni Yori. | 194585 | [194585-kono-koi-seishun-ni-yori.json](./194585-kono-koi-seishun-ni-yori.json) |
+| Kono Oozora ni, Tsubasa wo Hirogete Cruise Sign | 148653 | [148653-kono-oozora-ni-tsubasa-wo-hirogete-cruise-sign.json](./148653-kono-oozora-ni-tsubasa-wo-hirogete-cruise-sign.json) |
 | Kono Pawn | 355214 | [355214-kono-pawn.json](./355214-kono-pawn.json) |
 | Kono Subarashii Sekai ni Shukufuku o! Fantasutikku Deizu | 131568 | [131568-kono-subarashii-sekai-ni-shukufuku-o-fantasutikku-deizu.json](./131568-kono-subarashii-sekai-ni-shukufuku-o-fantasutikku-deizu.json) |
 | Kono Subarashii Sekai ni Shukufuku wo! Fukkatsu no Beldia | 79124 | [79124-kono-subarashii-sekai-ni-shukufuku-wo-fukkatsu-no-beldia.json](./79124-kono-subarashii-sekai-ni-shukufuku-wo-fukkatsu-no-beldia.json) |
@@ -6378,6 +6379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuu | 334533 | [334533-kuu.json](./334533-kuu.json) |
 | Kuubo Senki | 166657 | [166657-kuubo-senki.json](./166657-kuubo-senki.json) |
 | Kuudere Funk | 287742 | [287742-kuudere-funk.json](./287742-kuudere-funk.json) |
+| Kuukan Sagashimono-kei: Nouryoku Kaihatsu 3D Nou Training | 148651 | [148651-kuukan-sagashimono-kei-nouryoku-kaihatsu-3d-nou-training.json](./148651-kuukan-sagashimono-kei-nouryoku-kaihatsu-3d-nou-training.json) |
 | Kuukiyomi | 183651 | [183651-kuukiyomi.json](./183651-kuukiyomi.json) |
 | Kuukiyomi 1 2 3+ | 170791 | [170791-kuukiyomi-1-2-3.json](./170791-kuukiyomi-1-2-3.json) |
 | Kuukiyomi 2: Consider It More! - New Era | 135640 | [135640-kuukiyomi-2-consider-it-more-new-era.json](./135640-kuukiyomi-2-consider-it-more-new-era.json) |
