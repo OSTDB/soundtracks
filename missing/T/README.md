@@ -15771,6 +15771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Robot Factory | 200240 | [200240-the-robot-factory.json](./200240-the-robot-factory.json) |
 | The Robot Girl Meets the Human! | 202486 | [202486-the-robot-girl-meets-the-human.json](./202486-the-robot-girl-meets-the-human.json) |
 | THE Robot Tsukurou Ze! | 69149 | [69149-the-robot-tsukurou-ze.json](./69149-the-robot-tsukurou-ze.json) |
+| The Robot You Control is a Tsundere!? | 182619 | [182619-the-robot-you-control-is-a-tsundere.json](./182619-the-robot-you-control-is-a-tsundere.json) |
 | The Roc | 220512 | [220512-the-roc.json](./220512-the-roc.json) |
 | The Roc | 422690 | [422690-the-roc.json](./422690-the-roc.json) |
 | The Rock | 308461 | [308461-the-rock.json](./308461-the-rock.json) |
