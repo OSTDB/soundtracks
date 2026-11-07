@@ -2327,6 +2327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Defenders TD | 161496 | [161496-elemental-defenders-td.json](./161496-elemental-defenders-td.json) |
 | Elemental Dreams | 277187 | [277187-elemental-dreams.json](./277187-elemental-dreams.json) |
 | Elemental Drifters | 386060 | [386060-elemental-drifters.json](./386060-elemental-drifters.json) |
+| Elemental Echoes | 158327 | [158327-elemental-echoes.json](./158327-elemental-echoes.json) |
 | Elemental Empire | 297816 | [297816-elemental-empire.json](./297816-elemental-empire.json) |
 | Elemental Engagements | 285801 | [285801-elemental-engagements.json](./285801-elemental-engagements.json) |
 | Elemental Escape | 264729 | [264729-elemental-escape.json](./264729-elemental-escape.json) |
@@ -8104,6 +8105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explosioneer | 389034 | [389034-explosioneer.json](./389034-explosioneer.json) |
 | Explosiovania | 361258 | [361258-explosiovania.json](./361258-explosiovania.json) |
 | Explosive Breaker | 39650 | [39650-explosive-breaker.json](./39650-explosive-breaker.json) |
+| Explosive Candy World | 158317 | [158317-explosive-candy-world.json](./158317-explosive-candy-world.json) |
 | Explosive Dinosaurs | 104792 | [104792-explosive-dinosaurs.json](./104792-explosive-dinosaurs.json) |
 | Explosive Dungeon | 179127 | [179127-explosive-dungeon.json](./179127-explosive-dungeon.json) |
 | Explosive Fighter Patton | 11449 | [11449-explosive-fighter-patton.json](./11449-explosive-fighter-patton.json) |
@@ -8148,6 +8150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exsanguinate | 185961 | [185961-exsanguinate.json](./185961-exsanguinate.json) |
 | Exsanguination | 340045 | [340045-exsanguination.json](./340045-exsanguination.json) |
 | Exspelled | 414723 | [414723-exspelled.json](./414723-exspelled.json) |
+| ExSpire | 158315 | [158315-exspire.json](./158315-exspire.json) |
 | Exstetra | 6769 | [6769-exstetra.json](./6769-exstetra.json) |
 | Exsynchronos | 148297 | [148297-exsynchronos.json](./148297-exsynchronos.json) |
 | Exsys | 126230 | [126230-exsys.json](./126230-exsys.json) |
