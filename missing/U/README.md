@@ -1107,6 +1107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umbra: The Last Summoner | 278346 | [278346-umbra-the-last-summoner.json](./278346-umbra-the-last-summoner.json) |
 | Umbra: Veins of Vengeance | 262822 | [262822-umbra-veins-of-vengeance.json](./262822-umbra-veins-of-vengeance.json) |
 | Umbraclaw | 250187 | [250187-umbraclaw.json](./250187-umbraclaw.json) |
+| Umbral | 183694 | [183694-umbral.json](./183694-umbral.json) |
 | Umbral | 273389 | [273389-umbral.json](./273389-umbral.json) |
 | Umbral Astral Dreamers | 333440 | [333440-umbral-astral-dreamers.json](./333440-umbral-astral-dreamers.json) |
 | Umbral Core | 219257 | [219257-umbral-core.json](./219257-umbral-core.json) |
